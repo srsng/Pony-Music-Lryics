@@ -1,0 +1,616 @@
+## My Little Pony Friendship is Magic - Ultimate Soundtrack Collection v1.2
+
+### 2010 - My Little Pony Friendship is Magic - Season 1
+
+- [ ] 01 - My Little Pony Theme Song.mp3
+- [x] 02 - Laughter Song.mp3
+- [x] 03 - Pinkie's Gala Fantasy Song.mp3
+- [ ] 04 - The Ticket Song.flac
+- [ ] 05 - Hop Skip and Jump.flac
+- [x] 06 - Evil Enchantress (Pinkie Pie).flac
+- [x] 07 - Evil Enchantress (Fluttershy).flac
+- [x] 08 - Winter Wrap Up.mp3
+- [x] 09 - Cupcake Song.flac
+- [x] 10 - Art of the Dress.mp3
+- [x] 11 - Art of the Dress (Reprise).mp3
+- [x] 12 - Hush Now Lullaby.mp3
+- [x] 13 - Cutie Mark Crusaders Song.mp3
+- [x] 14 - You Got to Share, You Got to Care.mp3
+- [x] 15 - So Many Wonders.mp3
+- [x] 16 - Pinkie Pie's Singing Telegram.mp3
+- [ ] 17 - At the Gala.mp3
+- [x] 18 - I'm at the Grand Galloping Gala.mp3
+- [x] 19 - Pony Pokey.mp3
+### Extras
+- [x] 01 - My Little Pony Theme Song 122s.flac
+- [x] 02 - My Little Pony Theme Song 60s.mp3
+- [ ] 03 - My Little Pony Theme Song (Demo).flac
+- [ ] 04 - Laughter Song (Instrumental).mp3
+- [ ] 05 - Pinkie's Gala Fantasy Song (Demo).mp3
+- [ ] 06 - Hop Skip and Jump Song (Demo).mp3
+- [ ] 07 - Winter Wrap Up (Demo).mp3
+- [ ] 08 - Winter Wrap Up (Instrumental).flac
+- [ ] 09 - Art of the Dress (Demo).mp3
+- [ ] 10 - Art of the Dress (Reprise Demo).mp3
+- [ ] 11 - Art of the Dress (Reprise Instrumental).flac
+- [ ] 12 - Cupcake Song (Demo).mp3
+- [ ] 13 - Hush Now Lullaby (Demo).mp3
+- [ ] 14 - Cutie Mark Crusaders Song (Demo).mp3
+- [ ] 15 - You Got to Share, You Got to Care (Demo).mp3
+- [ ] 16 - So Many Wonders (Demo).mp3
+- [ ] 17 - Pinkie Pie's Singing Telegram (Piano Demo).mp3
+- [ ] 18 - At the Gala (Demo).mp3
+- [ ] 19 - I'm at the Grand Galloping Gala (Piano Demo).mp3
+- [ ] 20 - Pony Pokey (Pinkie Pie's Party Playlist).flac
+- [ ] 21 - Equestria Girls (California Gurls Parody).flac
+### 2011 - My Little Pony Friendship is Magic - Season 2
+- [ ] 01 - My Little Pony Theme Song (Remastered).mp3
+- [x] 02 - Find A Pet Song.mp3
+- [x] 03 - Becoming Popular (The Pony Everypony Should Know).mp3
+- [ ] 04 - The Heart Carol.mp3
+- [x] 05 - Happy Monthiversary.mp3
+- [x] 06 - Piggy Dance.mp3
+- [ ] 07 - The Flim Flam Brothers.mp3
+- [x] 08 - The Perfect Stallion.flac
+- [x] 09 - Smile Song.mp3
+- [x] 10 - Cranky Doodle Donkey.mp3
+- [x] 11 - Welcome Song.mp3
+- [x] 12 - Cranky Doodle Joy.mp3
+- [x] 13 - B.B.B.F.F..mp3
+- [x] 14 - This Day Aria, Part 1.mp3
+- [ ] 15 - This Day Aria, Part 2.mp3
+- [x] 16 - Love Is In Bloom.mp3
+### Extras
+- [ ] 01 - Find A Pet Song (Demo).mp3
+- [x] 02 - Becoming Popular (The Pony Everypony Should Know) (Demo).mp3
+- [ ] 03 - The Heart Carol (Demo).mp3
+- [ ] 04 - The Heart Carol (It's a Pony Kind of Christmas).flac
+- [ ] 05 - Happy Monthiversary (Piano Demo).mp3
+- [ ] 06 - Piggy Dance (Demo).mp3
+- [ ] 07 - The Flim Flam Brothers (Piano Demo).mp3
+- [ ] 08 - The Perfect Stallion (Demo).mp3
+- [ ] 09 - Smile Song (Demo).mp3
+- [ ] 10 - Smile Song (Piano Demo).mp3
+- [ ] 11 - Cranky Doodle Donkey (Piano Demo).mp3
+- [ ] 12 - Welcome Song (Demo).mp3
+- [ ] 13 - Cranky Doodle Joy (Piano Demo).mp3
+- [ ] 14 - B.B.B.F.F. (Demo).mp3
+- [ ] 15 - B.B.B.F.F. (Reprise Demo).mp3
+- [ ] 16 - This Day Aria, Part 1 (Demo).mp3
+- [ ] 17 - This Day Aria, Part 2 (Demo).mp3
+- [ ] 18 - Love Is In Bloom (Dance Mix Demo).mp3
+- [ ] 19 - Love Is In Bloom (Pop Mix Demo).mp3
+- [ ] 20 - Love Is In Bloom (Demo).mp3
+- [ ] 21 - Love Is In Bloom (Slow Demo).mp3
+- [ ] 22 - Love Is True (Megan Demo).mp3
+
+### 2012 - My Little Pony Friendship is Magic - Season 3
+
+- [x] 01 - The Failure Song.mp3
+- [ ] 02 - The Ballad of the Crystal Empire.mp3
+- [ ] 03 - The Success Song.mp3
+- [ ] 04 - Babs Seed.mp3
+- [ ] 05 - Raise This Barn.flac
+- [ ] 06 - Morning in Ponyville.mp3
+- [ ] 07 - What My Cutie Mark Is Telling Me.mp3
+- [ ] 08 - I've Got to Find a Way.mp3
+- [x] 09 - A True, True Friend.flac
+- [ ] 10 - Celestia's Ballad.mp3
+- [ ] 11 - Behold, Princess Twilight Sparkle.mp3
+- [ ] 12 - Life in Equestria.mp3
+### Extras
+- [ ] 01 - The Failure Song (Demo).mp3
+- [ ] 02 - The Ballad of the Crystal Empire (Demo).mp3
+- [ ] 03 - The Success Song (Demo).mp3
+- [ ] 04 - Babs Seed (Demo).mp3
+- [ ] 05 - Babs Seed (Pop Demo).mp3
+- [ ] 06 - Raise This Barn (Demo).mp3
+- [ ] 07 - Morning in Ponyville (Demo).mp3
+- [ ] 08 - Morning in Ponyville (Piano Demo).mp3
+- [ ] 09 - What My Cutie Mark Is Telling Me (Demo).mp3
+- [ ] 10 - What My Cutie Mark Is Telling Me (Piano Demo).mp3
+- [ ] 11 - I've Got to Find a Way (Demo).mp3
+- [ ] 12 - I've Got to Find a Way (Piano Demo).mp3
+- [ ] 13 - A True, True Friend (Demo).mp3
+- [ ] 14 - A True, True Friend (Piano Demo).mp3
+- [ ] 15 - Celestia's Ballad (Demo).mp3
+- [ ] 16 - Celestia's Ballad (Piano Demo).mp3
+- [ ] 17 - Behold, Princess Twilight Sparkle (Demo).mp3
+- [ ] 18 - Behold, Princess Twilight Sparkle (Piano Demo).mp3
+- [ ] 19 - Life in Equestria (Demo).mp3
+- [ ] 20 - Life in Equestria (Piano Demo).mp3
+- [ ] 21 - True True Friend Winter Wrap-Up (Ultimate Mash-Up).flac
+### 2013 - My Little Pony Friendship is Magic - Season 4
+- [ ] 01 - Hearts Strong as Horses.mp3
+- [ ] 02 - Bats.flac
+- [ ] 03 - Generosity.flac
+- [ ] 04 - Apples to the Core.mp3
+- [ ] 05 - Glass of Water.mp3
+- [ ] 06 - Pinkie the Party Planner.mp3
+- [ ] 07 - Super Duper Party Pony.flac
+- [x] 08 - Pinkie's Lament.flac
+- [ ] 09 - The Goof Off.flac
+- [ ] 10 - Cheese Confesses.flac
+- [ ] 11 - Make a Wish (Extended Version).flac
+- [ ] 12 - Music in the Treetops.flac
+- [ ] 13 - Find the Music in You (Songs of Harmony).flac
+- [x] 14 - Flim Flam Miracle Curative Tonic.mp3
+- [ ] 15 - The rappin' Hist'ry of the Wonderbolts.flac
+- [ ] 16 - You'll Play Your Part.flac
+- [ ] 17 - Let the Rainbow Remind You.mp3
+### Extras
+- [ ] 01 - Hearts Strong as Horses (Demo).mp3
+- [ ] 02 - Bats (Demo).mp3
+- [ ] 03 - Generosity (Demo).mp3
+- [ ] 04 - Generosity (Piano Demo).mp3
+- [ ] 05 - Apples to the Core (Demo).mp3
+- [ ] 06 - Glass of Water (Piano Demo).mp3
+- [ ] 07 - Pinkie the Party Planner (Demo).mp3
+- [ ] 08 - The Super Duper Party Pony (Demo).mp3
+- [ ] 09 - Pinkie's Lament (Piano Demo).mp3
+- [ ] 10 - The Goof Off (Demo).mp3
+- [ ] 11 - Cheese Confesses (Piano Demo).mp3
+- [ ] 12 - Make a Wish (Demo).mp3
+- [ ] 13 - Music in the Treetops (Piano Demo).mp3
+- [ ] 14 - Find the Music in You (Warm Up).mp3
+- [ ] 15 - Find the Music in You (Full Verion).mp3
+- [ ] 16 - Find the Music in You (Monatge).mp3
+- [ ] 17 - Find the Music in You (Bass Solo).mp3
+- [ ] 18 - Find the Music in You (Finale).mp3
+- [ ] 19 - Flim Flam Miracle Curative Tonic (Piano Demo).mp3
+- [ ] 20 - You'll Play Your Part (Piano Demo).mp3
+- [ ] 21 - Let the Rainbow Remind You (Piano Demo).mp3
+### 2015 - My Little Pony Friendship is Magic - Season 5
+- [x] 01 - In Our Town.mp3
+- [ ] 02 - Make This Castle A Home.mp3
+- [ ] 03 - Make This Castle A Home (Reprise).mp3
+- [ ] 04 - I'll Fly.flac
+- [x] 05 - Rules of Rarity.mp3
+- [ ] 06 - Rules of Rarity (Reprise 1).mp3
+- [ ] 07 - Rules of Rarity (Reprise 2).mp3
+- [ ] 08 - Sisterhood.mp3
+- [ ] 09 - We'll Make Our Mark (Prelude).mp3
+- [ ] 10 - The Vote.mp3
+- [ ] 11 - The Pony I Want to Be.flac
+- [ ] 12 - Light of Your Cutie Mark.flac
+- [ ] 13 - The Pony I Want to Be (Reprise).mp3
+- [x] 14 - We'll Make Our Mark.mp3
+- [ ] 15 - Equestria, the Land I Love.mp3
+- [ ] 16 - The Spectacle.mp3
+- [ ] 17 - The Magic Inside.mp3
+- [x] 18 - Equestria, the Land I Love (Reprise).mp3
+- [ ] 19 - Friends Are Always There For You.flac
+### Extras
+- [ ] 01 - In Our Town (V2 Demo).mp3
+- [ ] 02 - In Our Town (Demo).mp3
+- [ ] 03 - Make This Castle A Home (Demo).mp3
+- [ ] 04 - Make This Castle A Home (Reprise Piano Demo).mp3
+- [ ] 05 - I'll Fly (Demo).mp3
+- [ ] 06 - Rules of Rarity (Demo).mp3
+- [ ] 07 - Rules of Rarity (Piano Demo).mp3
+- [ ] 08 - Rules of Rarity (Reprise 1 Demo).mp3
+- [ ] 09 - Rules of Rarity (Reprise 2 Demo).mp3
+- [ ] 10 - Sisterhood (Demo).mp3
+- [ ] 11 - We'll Make Our Mark (Prelude Demo).mp3
+- [ ] 12 - The Vote (Demo).mp3
+- [ ] 13 - The Pony I Want to Be (Piano Demo).mp3
+- [ ] 14 - Light of Your Cutie Mark (Demo).mp3
+- [ ] 15 - The Pony I Want to Be (Reprise Demo).mp3
+- [ ] 16 - We'll Make Our Mark (V2 Demo).mp3
+- [ ] 17 - We'll Make Our Mark (V2 Final Demo).mp3
+- [ ] 18 - Equestria, the Land I Love (Piano Demo).mp3
+- [ ] 19 - Equestria, the Land I Love (Instrumental).flac
+- [ ] 20 - The Spectacle (Demo).mp3
+- [ ] 21 - The Spectacle (Instrumental).mp3
+- [ ] 22 - The Magic Inside (Demo).mp3
+- [ ] 23 - The Magic Inside (Instrumental).flac
+- [ ] 24 - Equestria, the Land I Love (Reprise Demo).mp3
+- [ ] 25 - Equestria, the Land I Love (Reprise Instrumental).flac
+- [ ] 26 - Trust In You (Full Demo).mp3
+- [ ] 27 - Trust In You (Demo).mp3
+### 2016 - My Little Pony Friendship is Magic - Season 6
+- [ ] 01 - Out On My Own.mp3
+- [ ] 02 - Hearth's Warming Eve Is Here Once Again.mp3
+- [ ] 03 - Say Goodbye to the Holiday.mp3
+- [ ] 04 - The Seeds of the Past (Part 1 & 2).mp3
+- [ ] 05 - Pinkie's Present.mp3
+- [x] 06 - Luna's Future.mp3
+- [ ] 07 - Hearth's Warming Eve Is Here Once Again (Reprise).mp3
+- [ ] 08 - Can I Do It On My Own.mp3
+- [ ] 09 - It's Gonna Work.mp3
+- [ ] 10 - Derby Racers.mp3
+- [ ] 11 - A Changeling Can Change.mp3
+- [x] 12 - Find the Purpose in Your Life.mp3
+### Extras
+- [ ] 01 - Out On My Own (Demo).mp3
+- [ ] 02 - Hearth's Warming Eve Is Here Once Again (Piano Demo).mp3
+- [ ] 03 - Say Goodbye to the Holiday (Piano Demo).mp3
+- [ ] 04 - The Seeds of the Past (Part 1 Piano Demo).mp3
+- [ ] 05 - The Seeds of the Past (Part 2 Piano Demo).mp3
+- [ ] 06 - Pinkie's Present (Demo).mp3
+- [ ] 07 - Pinkie's Present (Piano Demo).mp3
+- [ ] 08 - Luna's Future (Unmixed).mp3
+- [ ] 09 - Luna's Future (Piano Demo).mp3
+- [ ] 10 - Luna's Future (V1 Piano Demo).mp3
+- [ ] 11 - Luna's Future (V2 Piano Demo).mp3
+- [ ] 12 - Luna's Future (V3 Piano Demo).mp3
+- [ ] 13 - Hearth's Warming Eve Is Here Once Again (Reprise Piano Demo).mp3
+- [ ] 14 - Can I Do It On My Own (Piano Demo).mp3
+- [ ] 15 - It's Gonna Work (Instrumental).mp3
+- [ ] 16 - Derby Racers (Demo).mp3
+- [ ] 17 - A Changeling Can Change (Piano Demo).mp3
+- [ ] 18 - Find the Purpose in Your Life (Demo).mp3
+### 2017a - My Little Pony Friendship is Magic - Season 7
+- [x] 01 - Best Friends Until the End of Time.flac
+- [x] 02 - Battle for Sugar Belle.flac
+- [ ] 03 - You're In My Head Like a Catchy Song.flac
+- [x] 04 - Flawless.flac
+- [x] 05 - Blank Flanks Forever.flac
+### Extras
+- [ ] 01 - Best Friends Until the End of Time (Demo).mp3
+- [ ] 02 - Best Friends Until the End of Time (Instrumental).flac
+- [ ] 03 - Battle for Sugar Belle (Demo).mp3
+- [ ] 04 - Battle for Sugar Belle (Instrumental).flac
+- [ ] 05 - Teabag Ditty.flac
+- [ ] 06 - You're In My Head Like a Catchy Song (Final Demo).mp3
+- [ ] 07 - You're In My Head Like a Catchy Song (Demo).mp3
+- [ ] 08 - You're In My Head Like a Catchy Song (Instrumental).flac
+- [ ] 09 - Flawless (Demo).mp3
+- [ ] 10 - Flawless (Piano Demo).mp3
+- [ ] 11 - Flawless (Instrumental).flac
+- [ ] 12 - Pinkie Pie Ditty.flac
+- [ ] 13 - Blank Flanks Forever (Demo).mp3
+- [ ] 14 - Blank Flanks Forever (Piano Demo).mp3
+### 2017b - My Little Pony The Movie
+- [x] 01 - We Got the Beat.flac
+- [ ] 02 - We Got This Together.flac
+- [ ] 03 - I'm the Friend You Need.flac
+- [ ] 04 - Time to Be Awesome.flac
+- [x] 05 - One Small Thing.flac
+- [ ] 06 - Open Up Your Eyes.flac
+- [ ] 07 - Rainbow.flac
+- [ ] 08 - Off To See The World.flac
+- [ ] 09 - Thank You For Being A Friend.flac
+- [ ] 10 - Can You Feel It.flac
+- [ ] 11 - I'll Chase The Sky.flac
+- [ ] 12 - No Better Feelin' .flac
+- [ ] 13 - I'll Be Around.flac
+- [x] 14 - Neighsayer.flac
+- [ ] 15 - Equestria.flac
+### 2018a - My Little Pony Friendship is Magic - Season 8
+- [ ] 01 - School of Friendship.flac
+- [ ] 02 - Friendship Always Wins.flac
+- [ ] 03 - Your Heart Is in Two Places.flac
+- [ ] 04 - Friendship U.flac
+- [x] 05 - We're Friendship Bound.flac
+- [ ] 06 - A Kirin Tale.flac
+- [ ] 07 - A Kirin Tale (Reprise).flac
+- [ ] 08 - Just Can't Be a Dragon Here.flac
+### Extras
+- [ ] 01 - School of Friendship (Demo).mp3
+- [ ] 02 - School of Friendship (Piano Demo).mp3
+- [ ] 03 - School of Friendship (Instrumental).flac
+- [ ] 04 - Friendship Always Wins (Demo).flac
+- [ ] 05 - Friendship Always Wins (Piano Demo).mp3
+- [ ] 06 - Friendship Always Wins (Instrumental).flac
+- [ ] 07 - Your Heart Is in Two Places (Demo).mp3
+- [ ] 08 - Your Heart Is in Two Places (Piano Demo).mp3
+- [ ] 09 - Your Heart Is in Two Places (Instrumental).flac
+- [ ] 10 - Yak Song.flac
+- [ ] 11 - Friendship U (Demo).mp3
+- [ ] 12 - Friendship U (Piano Demo).mp3
+- [ ] 13 - Friendship U (Instrumental).flac
+- [ ] 14 - We're Friendship Bound (Demo).mp3
+- [ ] 15 - We're Friendship Bound (Piano Demo).mp3
+- [ ] 16 - We're Friendship Bound (Instrumental).flac
+- [ ] 17 - A Kirin Tale (Demo).flac
+- [ ] 18 - A Kirin Tale (V1 Piano Demo).mp3
+- [ ] 19 - A Kirin Tale (V2 Piano Demo).mp3
+- [ ] 20 - A Kirin Tale (Instrumental).flac
+- [ ] 21 - A Kirin Tale (Reprise Intrumental).flac
+- [ ] 22 - Just Can't Be a Dragon Here (Demo).mp3
+- [ ] 23 - Just Can't Be a Dragon Here (Piano Demo).mp3
+- [ ] 24 - Just Can't Be a Dragon Here (Instrumental).flac
+### 2018b - My Little Pony Best Gift Ever
+- [x] 01 - One More Day.flac
+- [ ] 02 - The True Gift of Gifting.flac
+- [x] 03 - One More Day (Instrumental).flac
+- [ ] 04 - The True Gift of Gifting (Instrumental).flac
+### 2019a - My Little Pony Friendship is Magic - Season 9
+- [ ] 01 - The Place Where We Belong.flac
+- [ ] 02 - Fit Right In.flac
+- [ ] 03 - Fit Right In (Reprise).flac
+- [ ] 04 - Better Way to Be Bad.flac
+- [ ] 05 - Lotta Little Things.flac
+- [ ] 06 - Lotta Little Things (Reprise).flac
+- [ ] 07 - The Last Laugh.flac
+- [ ] 08 - Being Big is All It Takes.flac
+- [ ] 09 - The Magic of Friendship Grows.flac
+### Extras
+- [ ] 01 - The Place Where We Belong (Demo).mp3
+- [ ] 02 - The Place Where We Belong (Piano Demo).mp3
+- [ ] 03 - The Place Where We Belong (Instrumental).flac
+- [ ] 04 - Fit Right In (Demo).mp3
+- [ ] 05 - Fit Right In (Piano Demo).mp3
+- [ ] 06 - Fit Right In (Instrumental).flac
+- [ ] 07 - Fit Right In (Reprise Instrumental).flac
+- [ ] 08 - Better Way to Be Bad (Demo).mp3
+- [ ] 09 - Better Way to Be Bad (Piano Demo).mp3
+- [ ] 10 - Better Way to Be Bad (Instrumental).flac
+- [ ] 11 - Lotta Little Things (Demo).mp3
+- [ ] 12 - Lotta Little Things (Piano Demo).mp3
+- [ ] 13 - Lotta Little Things (Instrumental).flac
+- [ ] 14 - Lotta Little Things (Reprise Demo).mp3
+- [ ] 15 - Lotta Little Things (Reprise Piano Demo).mp3
+- [ ] 16 - Lotta Little Things (Reprise Instrumental).flac
+- [ ] 17 - The Last Laugh (Demo).mp3
+- [ ] 18 - The Last Laugh (Piano Demo).mp3
+- [ ] 19 - The Last Laugh (Instrumental).flac
+- [ ] 20 - Being Big is All It Takes (Demo).mp3
+- [ ] 21 - Being Big is All It Takes (Piano Demo).mp3
+- [ ] 22 - Being Big is All It Takes (Instrumental).flac
+- [ ] 23 - The Magic of Friendship Grows (Demo).mp3
+- [ ] 24 - The Magic of Friendship Grows (Piano Demo).mp3
+- [ ] 25 - The Magic of Friendship Grows (Instrumental).flac
+### 2019b - My Little Pony Rainbow Roadtrip
+- [ ] 01 - Rainbow Roadtrip.flac
+- [ ] 02 - The End of the Rainbow.flac
+- [ ] 03 - Living in Color.flac
+### Charts, Scores and Lyrics
+### Charts, Scores and Lyrics
+### Equestria Girls
+### 2013 - Equestria Girls
+- [ ] 01 - Opening Titles (Remix).flac
+- [ ] 02 - This Strange World.flac
+- [x] 03 - Equestria Girls (Cafeteria Song).flac
+- [ ] 04 - Time to Come Together.flac
+- [ ] 05 - This is Our Big Night.flac
+- [ ] 06 - A Friend for Life.flac
+- [ ] 07 - End Credtis.flac
+### Extras
+- [ ] 02 - Opening Titles (Remix Instrumental).flac
+- [ ] 03 - This Strange World (Demo).mp3
+- [ ] 04 - This Strange World (Instrumental).flac
+- [ ] 05 - Equestria Girls (Cafeteria Song Demo).mp3
+- [ ] 06 - Equestria Girls (Cafeteria Song Instrumental).flac
+- [ ] 07 - Time to Come Together (Demo).mp3
+- [ ] 08 - Time to Come Together (Instrumental).flac
+- [ ] 09 - This is Our Big Night (Demo).mp3
+- [ ] 10 - This is Our Big Night (Instrumental).flac
+- [ ] 11 - A Friend for Life (Piano Demo).mp3
+- [ ] 12 - A Friend for Life (Instrumental).flac
+- [ ] 13 - End Credits (Demo).mp3
+- [ ] 14 - End Credits (V3).flac
+### 2014a - Equestria Girls Rainbow Rocks Prequel Shorts
+- [ ] 01 - Music To My Ears.flac
+- [ ] 02 - With My Best Friends.flac
+- [ ] 03 - Shake Your Tail.flac
+### Extras
+- [ ] 01 - With My Best Friends (Demo).mp3
+- [ ] 02 - With My Best Friends (Instrumental).flac
+- [ ] 03 - Shake Your Tail (Instrumental).flac
+### 2014b - Equestria Girls Rainbow Rocks
+- [ ] 01 - Rainbow Rocks.flac
+- [ ] 02 - Better Than Ever.flac
+- [ ] 03 - Battle.flac
+- [ ] 04 - Bad Counter Spell.flac
+- [ ] 05 - Shake Your Tail.flac
+- [ ] 06 - Under Our Spell.flac
+- [ ] 07 - Tricks Up My Sleeve.flac
+- [ ] 08 - Awesome As I Wanna Be.flac
+- [ ] 09 - Welcome to the Show.flac
+- [ ] 10 - Battle Sequence.flac
+- [ ] 11 - Rainbooms Battle (Part 1).flac
+- [ ] 12 - Rainbooms Battle (Part 2).flac
+- [ ] 13 - Shine Like Rainbows.flac
+### Extras
+- [ ] 01 - Rainbow Rocks (Demo).mp3
+- [ ] 02 - Rainbow Rocks (Instrumental).flac
+- [ ] 03 - Better Than Ever (Demo).mp3
+- [ ] 04 - Better Than Ever (Instrumental).flac
+- [ ] 05 - Battle (Demo).mp3
+- [ ] 06 - Battle (Instrumental).flac
+- [ ] 07 - Bad Counter Spell (Demo).mp3
+- [ ] 08 - Bad Counter Spell (Instrumental).flac
+- [ ] 09 - Shake Your Tail (Instrumental).flac
+- [ ] 10 - Under Our Spell (Demo).mp3
+- [ ] 11 - Under Our Spell (Instrumental).flac
+- [ ] 12 - Tricks Up My Sleeve (Demo).mp3
+- [ ] 13 - Tricks Up My Sleeve (Instrumental).flac
+- [ ] 14 - Awesome As I Wanna Be (Demo).mp3
+- [ ] 15 - Awesome As I Wanna Be (Instrumental).flac
+- [ ] 16 - Welcome To The Show & Rainbooms Battle (Demo).mp3
+- [ ] 17 - Welcome To The Show (Instrumental).flac
+- [ ] 18 - Battle Sequence (Instrumental).flac
+- [ ] 19 - Rainbooms Battle (Part 1 Instrumental).flac
+- [ ] 20 - Rainbooms Battle (Part 2 Instrumental).flac
+- [ ] 21 - Shine Like Rainbows (Demo).mp3
+- [ ] 22 - Shine Like Rainbows (Instrumental).flac
+### 2014c - Equestria Girls Rainbow Rocks Encore Shorts
+- [ ] 01 - My Past is Not Today.flac
+- [ ] 02 - Friendship Through the Ages.flac
+- [ ] 03 - Life is a Runway.flac
+### Extras
+- [ ] 01 - My Past is Not Today (Piano Demo).mp3
+- [ ] 02 - My Past is Not Today (Instrumental).flac
+- [ ] 03 - Friendship Through the Ages (Demo).mp3
+- [ ] 04 - Friendship Through the Ages (Piano Demo).mp3
+- [ ] 05 - Friendship Through the Ages (Instrumental).flac
+- [ ] 06 - Life is a Runway (Demo).mp3
+- [ ] 07 - Life is a Runway (Instrumental).flac
+### 2015 - Equestria Girls Friendship Games
+- [x] 01 - Friendship Games.flac
+- [ ] 02 - CHS Rally Song.flac
+- [x] 03 - What More Is Out There.flac
+- [ ] 04 - ACADECA.flac
+- [ ] 05 - Unleash the Magic.flac
+- [x] 06 - Right There in Front of Me.flac
+### Extras
+- [ ] 01 - Friendship Games (Demo).mp3
+- [ ] 02 - Friendship Games (Instrumental).flac
+- [ ] 03 - CHS Rally Song (Demo).mp3
+- [ ] 04 - CHS Rally Song (Instrument.flac
+- [ ] 05 - What More Is Out There (Piano Demo).mp3
+- [ ] 06 - What More Is Out There (Instrumental.flac
+- [ ] 07 - What More Is Out There (Twilight and Sunset Duet).flac
+- [ ] 08 - ACADECA (Demo).mp3
+- [ ] 09 - ACADECA (Instrumental.flac
+- [ ] 10 - Unleash the Magic (Piano Demo).mp3
+- [ ] 11 - Unleash the Magic (Instrumental).flac
+- [ ] 12 - Free The Magic (Demo).mp3
+- [ ] 13 - Cinch Song.mp3
+- [ ] 14 - Right There in Front of Me (Demo).mp3
+- [ ] 15 - Right There in Front of Me (Instrumental).flac
+### 2016 - Equestria Girls Legend of Everfree
+- [x] 01 - The Legend of Everfree.flac
+- [ ] 02 - The Midnight in Me.flac
+- [ ] 03 - Embrace the Magic.flac
+- [ ] 04 - We Will Stand For Everfree.flac
+- [ ] 05 - Legend You Were Meant To Be.flac
+- [ ] 06 - Hope Shines Eternal.flac
+### Extras
+- [ ] 01 - The Legend of Everfree (Demo).mp3
+- [ ] 02 - The Legend of Everfree (Piano Demo).mp3
+- [ ] 03 - The Legend of Everfree (Instrumental).flac
+- [ ] 04 - The Midnight in Me (Demo).mp3
+- [ ] 05 - The Midnight in Me (Piano Demo).mp3
+- [ ] 06 - The Midnight in Me (Instrumental).flac
+- [ ] 07 - Embrace the Magic (Demo).mp3
+- [ ] 08 - Embrace the Magic (Piano Demo).mp3
+- [ ] 09 - Embrace the Magic (Instrumental).flac
+- [ ] 10 - We Will Stand For Everfree (Demo).mp3
+- [ ] 11 - We Will Stand For Everfree (Piano Demo).mp3
+- [ ] 12 - We Will Stand For Everfree (Instrumental).flac
+- [ ] 13 - Legend You Were Meant To Be (Demo).mp3
+- [ ] 14 - Legend You Were Meant To Be (Piano Demo).mp3
+- [ ] 15 - Legend You Were Meant To Be (Instrumental).flac
+- [ ] 16 - Hope Shines Eternal (Demo).mp3
+- [ ] 17 - Hope Shines Eternal (Piano Demo).mp3
+- [ ] 18 - Hope Shines Eternal (Instrumental).flac
+### 2017a - Equestria Girls Dance Magic
+- [x] 01 - Dance Magic.flac
+- [ ] 02 - Dance Magic (Demo).mp3
+- [ ] 03 - Dance Magic (Piano Demo).mp3
+- [ ] 04 - Dance Magic (Instrumental).flac
+### 2017b - Equestria Girls Summertime Shorts
+- [ ] 01 - Mad Twience.flac
+- [x] 02 - Monday Blues.flac
+- [x] 03 - Shake Things Up!.flac
+- [x] 04 - Get the Show on the Road.flac
+- [x] 05 - Coinky-Dink World.flac
+- [ ] 06 - Good Vibes.flac
+### Extras
+- [ ] 01 - Mad Twience (Demo).flac
+- [ ] 02 - Mad Twience (Instrumental).flac
+- [ ] 03 - Monday Blues (Demo).flac
+- [ ] 04 - Monday Blues (Instrumental).flac
+- [ ] 05 - Shake Things Up! (Demo).mp3
+- [ ] 06 - Shake Things Up! (Instrumental).flac
+- [ ] 07 - Get the Show on the Road (Demo).mp3
+- [ ] 08 - Get the Show on the Road (Instrumental).flac
+- [ ] 09 - Coinky-Dink World (Demo).mp3
+- [ ] 10 - Coinky-Dink World (Early Demo).mp3
+- [ ] 11 - Coinky-Dink World (Instrumental).flac
+- [ ] 12 - Good Vibes (Demo).mp3
+- [ ] 13 - Good Vibes (Piano Demo).mp3
+- [ ] 14 - Good Vibes (Instrumental).flac
+### 2017c - Equestria Girls Better Together (Season 1)
+- [x] 01 - Equestria Girls Original Theme.mp3
+- [x] 02 - Rise Up!.flac
+- [ ] 03 - Room To Grow.flac
+- [x] 04 - Five To Nine.flac
+- [x] 05 - So Much More to Me.flac
+- [ ] 06 - The Other Side.flac
+### Extras
+- [ ] 01 - Equestria Girls Original Theme (Full Mix).flac
+- [ ] 02 - Equestria Girls Original Theme (Edit Demo).flac
+- [ ] 03 - Equestria Girls Original Theme (Piano Demo).mp3
+- [ ] 04 - Equestria Girls Original Theme (Instrumental).flac
+- [ ] 05 - Rise Up! (Demo).mp3
+- [ ] 06 - Rise Up! (Piano Demo).mp3
+- [ ] 07 - Rise Up! (Instrumental).flac
+- [ ] 08 - Room to Grow (Demo).mp3
+- [ ] 09 - Room to Grow (Piano Demo).mp3
+- [ ] 10 - Room to Grow (Instrumental).flac
+- [ ] 11 - Five to Nine (Demo).mp3
+- [ ] 12 - Five to Nine (Instrumental).flac
+- [ ] 13 - So Much More to Me (Demo).mp3
+- [ ] 14 - So Much More to Me (Instrumental).flac
+- [ ] 15 - The Other Side (Demo).flac
+- [ ] 16 - The Other Side (Instrumental).flac
+### 2018a - Equestria Girls Forgotten Friendship
+- [x] 01 - We've Come So Far.flac
+- [ ] 02 - Invisible.flac
+### Extras
+- [ ] 01 - We've Come So Far (Demo).mp3
+- [ ] 02 - We've Come So Far (Piano Demo).mp3
+- [ ] 03 - We've Come So Far (Instrumental).flac
+- [ ] 04 - Invisible (Demo).flac
+- [ ] 05 - Invisible (Piano Demo).flac
+- [ ] 06 - Invisible (Instrumental).flac
+### 2018b - Equestria Girls Rollercoaster of Friendship
+- [ ] 01 - Photo Booth.flac
+- [ ] 02 - Photo Booth (V1 Demo).flac
+- [ ] 03 - Photo Booth (V2 Demo).flac
+- [ ] 04 - Photo Booth (V3 Demo).flac
+- [ ] 05 - Photo Booth (Instrumental).flac
+### 2019a - Equestria Girls Spring Breakdown
+- [x] 01 - All Good.flac
+- [ ] 02 - All Good (V2 Demo).mp3
+- [ ] 03 - All Good (V3 Demo Cutdown).mp3
+- [ ] 04 - All Good (V4 Demo).mp3
+- [ ] 05 - All Good (Instrumental).flac
+### 2019b - Equestria Girls Better Together (Season 2)
+- [ ] 01 - I'm on a Yacht.flac
+- [x] 02 - Run to Break Free.flac
+- [x] 03 - Find the Magic.flac
+- [ ] 04 - Let It Rain.flac
+- [ ] 05 - Cheer You On.flac
+### Extras
+- [ ] 01 - I'm on a Yacht (Demo).mp3
+- [ ] 02 - I'm on a Yacht (Instrumental).flac
+- [ ] 03 - Run to Break Free (Demo).mp3
+- [ ] 04 - Run to Break Free (Instrumental).flac
+- [ ] 05 - Find the Magic (Demo).mp3
+- [ ] 06 - Find the Magic (Instrumental).flac
+- [ ] 07 - Let It Rain (Demo).flac
+- [ ] 08 - Let It Rain (Instrumental).flac
+- [ ] 09 - Cheer You On (Demo).flac
+- [ ] 10 - Cheer You On (Instrumental).flac
+### 2019c - Equestria Girls Sunset's Backstage Pass
+- [ ] 01 - True Original.flac
+- [ ] 02 - True Original (V1 Demo).mp3
+- [ ] 03 - True Original (V2 Demo).mp3
+- [ ] 04 - True Original (Instrumental).flac
+### It's a Pony Kind of Christmas
+- [ ] 01 - It's a Pony Kind of Christmas.flac
+- [x] 02 - Jingle Bells.flac
+- [ ] 03 - Deck the Halls.flac
+- [ ] 04 - We Wish You a Merry Christmas.flac
+- [ ] 05 - Silent Night.flac
+- [ ] 06 - Twelve Days of Christmas.flac
+- [ ] 07 - Last Year I Got Coal for Christmas.flac
+- [ ] 08 - Jolly ol' St. Nick.flac
+- [ ] 09 - Days Gone By (Auld Lang Syne).flac
+### My Little Pony Friendship is Magic - Credits
+- [ ] 01 - My Little Pony Theme Song (Credtis).mp3
+- [ ] 02 - The Return of Harmony (Credits).flac
+- [ ] 03 - A Friend in Deed (Credits).flac
+- [ ] 04 - Pinkie Pride (Credits).flac
+- [ ] 05 - Twilight's Kingdom (Credits).flac
+- [ ] 06 - The Cutie Map (Credits).flac
+- [ ] 07 - Rarity Investigates (Credits).flac
+- [ ] 08 - Made in Manehattan (Credits).flac
+- [ ] 09 - Hearthbreakers (Credits).flac
+- [ ] 10 - The Hooffields and McColts (Credits).flac
+- [ ] 11 - The Crystalling - Part 1 (Credits).flac
+- [ ] 12 - The Crystalling - Part 2 (Credits).flac
+- [ ] 13 - The Gift of Maud Pie (Credits).flac
+- [ ] 14 - On Your Marks (Credits).flac
+- [ ] 15 - Gauntlet of Fire (Credits).flac
+- [ ] 16 - No Second Prances (Credits).flac
+- [ ] 17 - A Hearth's Warming Tail (Credits).flac
+- [ ] 18 - 28 Pranks Later (Credits).flac
+- [ ] 19 - The Perfect Pear (Credits).flac
+- [ ] 20 - Sparkle's Seven (Credits).flac
+- [ ] 21 - Best Gift Ever (Credits).flacall
