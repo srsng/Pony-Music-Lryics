@@ -1,6 +1,6 @@
-## My Little Pony Friendship is Magic - Ultimate Soundtrack Collection v1.2
+# My Little Pony Friendship is Magic - Ultimate Soundtrack Collection v1.2
 
-### 2010 - My Little Pony Friendship is Magic - Season 1
+## 2010 - My Little Pony Friendship is Magic - Season 1
 
 - [ ] 01 - My Little Pony Theme Song.mp3
 - [x] 02 - Laughter Song.mp3
@@ -43,7 +43,7 @@
 - [ ] 19 - I'm at the Grand Galloping Gala (Piano Demo).mp3
 - [ ] 20 - Pony Pokey (Pinkie Pie's Party Playlist).flac
 - [ ] 21 - Equestria Girls (California Gurls Parody).flac
-### 2011 - My Little Pony Friendship is Magic - Season 2
+## 2011 - My Little Pony Friendship is Magic - Season 2
 - [ ] 01 - My Little Pony Theme Song (Remastered).mp3
 - [x] 02 - Find A Pet Song.mp3
 - [x] 03 - Becoming Popular (The Pony Everypony Should Know).mp3
@@ -84,7 +84,7 @@
 - [ ] 21 - Love Is In Bloom (Slow Demo).mp3
 - [ ] 22 - Love Is True (Megan Demo).mp3
 
-### 2012 - My Little Pony Friendship is Magic - Season 3
+## 2012 - My Little Pony Friendship is Magic - Season 3
 
 - [x] 01 - The Failure Song.mp3
 - [ ] 02 - The Ballad of the Crystal Empire.mp3
@@ -120,7 +120,7 @@
 - [ ] 19 - Life in Equestria (Demo).mp3
 - [ ] 20 - Life in Equestria (Piano Demo).mp3
 - [ ] 21 - True True Friend Winter Wrap-Up (Ultimate Mash-Up).flac
-### 2013 - My Little Pony Friendship is Magic - Season 4
+## 2013 - My Little Pony Friendship is Magic - Season 4
 - [ ] 01 - Hearts Strong as Horses.mp3
 - [ ] 02 - Bats.flac
 - [ ] 03 - Generosity.flac
@@ -160,7 +160,7 @@
 - [ ] 19 - Flim Flam Miracle Curative Tonic (Piano Demo).mp3
 - [ ] 20 - You'll Play Your Part (Piano Demo).mp3
 - [ ] 21 - Let the Rainbow Remind You (Piano Demo).mp3
-### 2015 - My Little Pony Friendship is Magic - Season 5
+## 2015 - My Little Pony Friendship is Magic - Season 5
 - [x] 01 - In Our Town.mp3
 - [ ] 02 - Make This Castle A Home.mp3
 - [ ] 03 - Make This Castle A Home (Reprise).mp3
@@ -208,7 +208,7 @@
 - [ ] 25 - Equestria, the Land I Love (Reprise Instrumental).flac
 - [ ] 26 - Trust In You (Full Demo).mp3
 - [ ] 27 - Trust In You (Demo).mp3
-### 2016 - My Little Pony Friendship is Magic - Season 6
+## 2016 - My Little Pony Friendship is Magic - Season 6
 - [ ] 01 - Out On My Own.mp3
 - [ ] 02 - Hearth's Warming Eve Is Here Once Again.mp3
 - [ ] 03 - Say Goodbye to the Holiday.mp3
@@ -240,7 +240,7 @@
 - [ ] 16 - Derby Racers (Demo).mp3
 - [ ] 17 - A Changeling Can Change (Piano Demo).mp3
 - [ ] 18 - Find the Purpose in Your Life (Demo).mp3
-### 2017a - My Little Pony Friendship is Magic - Season 7
+## 2017a - My Little Pony Friendship is Magic - Season 7
 - [x] 01 - Best Friends Until the End of Time.flac
 - [x] 02 - Battle for Sugar Belle.flac
 - [ ] 03 - You're In My Head Like a Catchy Song.flac
@@ -261,7 +261,7 @@
 - [ ] 12 - Pinkie Pie Ditty.flac
 - [ ] 13 - Blank Flanks Forever (Demo).mp3
 - [ ] 14 - Blank Flanks Forever (Piano Demo).mp3
-### 2017b - My Little Pony The Movie
+## 2017b - My Little Pony The Movie
 - [x] 01 - We Got the Beat.flac
 - [ ] 02 - We Got This Together.flac
 - [ ] 03 - I'm the Friend You Need.flac
@@ -277,7 +277,7 @@
 - [ ] 13 - I'll Be Around.flac
 - [x] 14 - Neighsayer.flac
 - [ ] 15 - Equestria.flac
-### 2018a - My Little Pony Friendship is Magic - Season 8
+## 2018a - My Little Pony Friendship is Magic - Season 8
 - [ ] 01 - School of Friendship.flac
 - [ ] 02 - Friendship Always Wins.flac
 - [ ] 03 - Your Heart Is in Two Places.flac
@@ -311,12 +311,12 @@
 - [ ] 22 - Just Can't Be a Dragon Here (Demo).mp3
 - [ ] 23 - Just Can't Be a Dragon Here (Piano Demo).mp3
 - [ ] 24 - Just Can't Be a Dragon Here (Instrumental).flac
-### 2018b - My Little Pony Best Gift Ever
+## 2018b - My Little Pony Best Gift Ever
 - [x] 01 - One More Day.flac
 - [ ] 02 - The True Gift of Gifting.flac
 - [x] 03 - One More Day (Instrumental).flac
 - [ ] 04 - The True Gift of Gifting (Instrumental).flac
-### 2019a - My Little Pony Friendship is Magic - Season 9
+## 2019a - My Little Pony Friendship is Magic - Season 9
 - [ ] 01 - The Place Where We Belong.flac
 - [ ] 02 - Fit Right In.flac
 - [ ] 03 - Fit Right In (Reprise).flac
@@ -352,14 +352,14 @@
 - [ ] 23 - The Magic of Friendship Grows (Demo).mp3
 - [ ] 24 - The Magic of Friendship Grows (Piano Demo).mp3
 - [ ] 25 - The Magic of Friendship Grows (Instrumental).flac
-### 2019b - My Little Pony Rainbow Roadtrip
+
+## 2019b - My Little Pony Rainbow Roadtrip
 - [ ] 01 - Rainbow Roadtrip.flac
 - [ ] 02 - The End of the Rainbow.flac
 - [ ] 03 - Living in Color.flac
-### Charts, Scores and Lyrics
-### Charts, Scores and Lyrics
-### Equestria Girls
-### 2013 - Equestria Girls
+
+## Equestria Girls
+## 2013 - Equestria Girls
 - [ ] 01 - Opening Titles (Remix).flac
 - [ ] 02 - This Strange World.flac
 - [x] 03 - Equestria Girls (Cafeteria Song).flac
@@ -381,7 +381,7 @@
 - [ ] 12 - A Friend for Life (Instrumental).flac
 - [ ] 13 - End Credits (Demo).mp3
 - [ ] 14 - End Credits (V3).flac
-### 2014a - Equestria Girls Rainbow Rocks Prequel Shorts
+## 2014a - Equestria Girls Rainbow Rocks Prequel Shorts
 - [ ] 01 - Music To My Ears.flac
 - [ ] 02 - With My Best Friends.flac
 - [ ] 03 - Shake Your Tail.flac
@@ -389,7 +389,7 @@
 - [ ] 01 - With My Best Friends (Demo).mp3
 - [ ] 02 - With My Best Friends (Instrumental).flac
 - [ ] 03 - Shake Your Tail (Instrumental).flac
-### 2014b - Equestria Girls Rainbow Rocks
+## 2014b - Equestria Girls Rainbow Rocks
 - [ ] 01 - Rainbow Rocks.flac
 - [ ] 02 - Better Than Ever.flac
 - [ ] 03 - Battle.flac
@@ -426,7 +426,7 @@
 - [ ] 20 - Rainbooms Battle (Part 2 Instrumental).flac
 - [ ] 21 - Shine Like Rainbows (Demo).mp3
 - [ ] 22 - Shine Like Rainbows (Instrumental).flac
-### 2014c - Equestria Girls Rainbow Rocks Encore Shorts
+## 2014c - Equestria Girls Rainbow Rocks Encore Shorts
 - [ ] 01 - My Past is Not Today.flac
 - [ ] 02 - Friendship Through the Ages.flac
 - [ ] 03 - Life is a Runway.flac
@@ -438,7 +438,7 @@
 - [ ] 05 - Friendship Through the Ages (Instrumental).flac
 - [ ] 06 - Life is a Runway (Demo).mp3
 - [ ] 07 - Life is a Runway (Instrumental).flac
-### 2015 - Equestria Girls Friendship Games
+## 2015 - Equestria Girls Friendship Games
 - [x] 01 - Friendship Games.flac
 - [ ] 02 - CHS Rally Song.flac
 - [x] 03 - What More Is Out There.flac
@@ -461,7 +461,7 @@
 - [ ] 13 - Cinch Song.mp3
 - [ ] 14 - Right There in Front of Me (Demo).mp3
 - [ ] 15 - Right There in Front of Me (Instrumental).flac
-### 2016 - Equestria Girls Legend of Everfree
+## 2016 - Equestria Girls Legend of Everfree
 - [x] 01 - The Legend of Everfree.flac
 - [ ] 02 - The Midnight in Me.flac
 - [ ] 03 - Embrace the Magic.flac
@@ -487,12 +487,12 @@
 - [ ] 16 - Hope Shines Eternal (Demo).mp3
 - [ ] 17 - Hope Shines Eternal (Piano Demo).mp3
 - [ ] 18 - Hope Shines Eternal (Instrumental).flac
-### 2017a - Equestria Girls Dance Magic
+## 2017a - Equestria Girls Dance Magic
 - [x] 01 - Dance Magic.flac
 - [ ] 02 - Dance Magic (Demo).mp3
 - [ ] 03 - Dance Magic (Piano Demo).mp3
 - [ ] 04 - Dance Magic (Instrumental).flac
-### 2017b - Equestria Girls Summertime Shorts
+## 2017b - Equestria Girls Summertime Shorts
 - [ ] 01 - Mad Twience.flac
 - [x] 02 - Monday Blues.flac
 - [x] 03 - Shake Things Up!.flac
@@ -514,7 +514,7 @@
 - [ ] 12 - Good Vibes (Demo).mp3
 - [ ] 13 - Good Vibes (Piano Demo).mp3
 - [ ] 14 - Good Vibes (Instrumental).flac
-### 2017c - Equestria Girls Better Together (Season 1)
+## 2017c - Equestria Girls Better Together (Season 1)
 - [x] 01 - Equestria Girls Original Theme.mp3
 - [x] 02 - Rise Up!.flac
 - [ ] 03 - Room To Grow.flac
@@ -538,7 +538,7 @@
 - [ ] 14 - So Much More to Me (Instrumental).flac
 - [ ] 15 - The Other Side (Demo).flac
 - [ ] 16 - The Other Side (Instrumental).flac
-### 2018a - Equestria Girls Forgotten Friendship
+## 2018a - Equestria Girls Forgotten Friendship
 - [x] 01 - We've Come So Far.flac
 - [ ] 02 - Invisible.flac
 ### Extras
@@ -548,19 +548,19 @@
 - [ ] 04 - Invisible (Demo).flac
 - [ ] 05 - Invisible (Piano Demo).flac
 - [ ] 06 - Invisible (Instrumental).flac
-### 2018b - Equestria Girls Rollercoaster of Friendship
+## 2018b - Equestria Girls Rollercoaster of Friendship
 - [ ] 01 - Photo Booth.flac
 - [ ] 02 - Photo Booth (V1 Demo).flac
 - [ ] 03 - Photo Booth (V2 Demo).flac
 - [ ] 04 - Photo Booth (V3 Demo).flac
 - [ ] 05 - Photo Booth (Instrumental).flac
-### 2019a - Equestria Girls Spring Breakdown
+## 2019a - Equestria Girls Spring Breakdown
 - [x] 01 - All Good.flac
 - [ ] 02 - All Good (V2 Demo).mp3
 - [ ] 03 - All Good (V3 Demo Cutdown).mp3
 - [ ] 04 - All Good (V4 Demo).mp3
 - [ ] 05 - All Good (Instrumental).flac
-### 2019b - Equestria Girls Better Together (Season 2)
+## 2019b - Equestria Girls Better Together (Season 2)
 - [ ] 01 - I'm on a Yacht.flac
 - [x] 02 - Run to Break Free.flac
 - [x] 03 - Find the Magic.flac
@@ -577,12 +577,12 @@
 - [ ] 08 - Let It Rain (Instrumental).flac
 - [ ] 09 - Cheer You On (Demo).flac
 - [ ] 10 - Cheer You On (Instrumental).flac
-### 2019c - Equestria Girls Sunset's Backstage Pass
+## 2019c - Equestria Girls Sunset's Backstage Pass
 - [ ] 01 - True Original.flac
 - [ ] 02 - True Original (V1 Demo).mp3
 - [ ] 03 - True Original (V2 Demo).mp3
 - [ ] 04 - True Original (Instrumental).flac
-### It's a Pony Kind of Christmas
+## It's a Pony Kind of Christmas
 - [ ] 01 - It's a Pony Kind of Christmas.flac
 - [x] 02 - Jingle Bells.flac
 - [ ] 03 - Deck the Halls.flac
@@ -592,7 +592,7 @@
 - [ ] 07 - Last Year I Got Coal for Christmas.flac
 - [ ] 08 - Jolly ol' St. Nick.flac
 - [ ] 09 - Days Gone By (Auld Lang Syne).flac
-### My Little Pony Friendship is Magic - Credits
+## My Little Pony Friendship is Magic - Credits
 - [ ] 01 - My Little Pony Theme Song (Credtis).mp3
 - [ ] 02 - The Return of Harmony (Credits).flac
 - [ ] 03 - A Friend in Deed (Credits).flac
