@@ -137,7 +137,7 @@
 - [x] 14 - Flim Flam Miracle Curative Tonic.mp3
 - [ ] 15 - The rappin' Hist'ry of the Wonderbolts.flac
 - [ ] 16 - You'll Play Your Part.flac
-- [ ] 17 - Let the Rainbow Remind You.mp3
+- [x] 17 - Let the Rainbow Remind You.mp3
 ### Extras
 - [ ] 01 - Hearts Strong as Horses (Demo).mp3
 - [ ] 02 - Bats (Demo).mp3
@@ -167,7 +167,7 @@
 - [ ] 04 - I'll Fly.flac
 - [x] 05 - Rules of Rarity.mp3
 - [ ] 06 - Rules of Rarity (Reprise 1).mp3
-- [ ] 07 - Rules of Rarity (Reprise 2).mp3
+- [x] 07 - Rules of Rarity (Reprise 2).mp3
 - [ ] 08 - Sisterhood.mp3
 - [ ] 09 - We'll Make Our Mark (Prelude).mp3
 - [ ] 10 - The Vote.mp3
@@ -210,7 +210,7 @@
 - [ ] 27 - Trust In You (Demo).mp3
 ## 2016 - My Little Pony Friendship is Magic - Season 6
 - [ ] 01 - Out On My Own.mp3
-- [ ] 02 - Hearth's Warming Eve Is Here Once Again.mp3
+- [x] 02 - Hearth's Warming Eve Is Here Once Again.mp3
 - [ ] 03 - Say Goodbye to the Holiday.mp3
 - [ ] 04 - The Seeds of the Past (Part 1 & 2).mp3
 - [ ] 05 - Pinkie's Present.mp3
@@ -402,7 +402,7 @@
 - [ ] 10 - Battle Sequence.flac
 - [ ] 11 - Rainbooms Battle (Part 1).flac
 - [ ] 12 - Rainbooms Battle (Part 2).flac
-- [ ] 13 - Shine Like Rainbows.flac
+- [x] 13 - Shine Like Rainbows.flac
 ### Extras
 - [ ] 01 - Rainbow Rocks (Demo).mp3
 - [ ] 02 - Rainbow Rocks (Instrumental).flac
