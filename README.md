@@ -1,7 +1,7 @@
 # Pony Music Lryics
 这个项目围绕由Narokath发布的MLP音乐合集（My Little Pony Friendship is Magic - Ultimate Soundtrack Collection v1.2），收集或制作歌词文件，供广大马迷使用。
 
-目前，提供歌词的歌曲范围不包括Extras，不包含intrumental类型、demo类型。
+并不是所有歌曲都将会制作歌词文件，目前，提供歌词的歌曲范围不包含intrumental类型、demo类型、credits类型。
 
 目前，大多数歌曲歌词仍处于没有完善的阶段，具体确定可用的歌曲歌词请查看[check.md](./check.md)
 
