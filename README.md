@@ -64,7 +64,7 @@ Contains Explicit Language! Viewer Discretion is advised! <br>
 [by:珊瑚派]
 ```
 
-- 采用逐行歌词
+- 采用**逐行**歌词，有较高要求者也可采用逐字
 - 歌词时间戳格式为[分钟:秒.]  
 - 歌词、歌曲名的中文都**不**是必须的
 - 署名非必须，但要留有标签
