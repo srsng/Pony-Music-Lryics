@@ -71,10 +71,51 @@ Contains Explicit Language! Viewer Discretion is advised! <br>
 - 
 - 歌词正文开头**不**要带有作词等信息，如`[00:00.00] 作词 : MyLittlePony`
 - 多歌手的歌曲的歌词需要带有角色名：
-   1. 这个角色当前歌词只有一句：角色名方括号包裹，角色名放在本句歌词开头，并与歌词间隔一个空格
+  1. 这个角色当前歌词只有一句：角色名方括号包裹，角色名放在本句歌词开头(有中文优先放中文的句子前，英文不再放)，并与歌词间隔一个空格
   2. 这个角色当前歌词多于一句（成段）：角色名方括号包裹，单独成句，放在这段歌词第一句之前
 
 歌词文件示例：
+
+
+```lrc
+[ti:My Little Pony Theme Song]
+[ar:Twilght Sparkle / Applejack / Rainbow Dash / Fluttershy / Rarity / Pinkie Pie]
+[by:珊瑚派]
+
+[00:00.00]My Little Pony
+[00:00.00]我的小马驹
+[00:02.11]My Little Pony
+[00:02.11]我的小马驹
+[00:03.84](Ahahahah...)
+[00:06.08]My Little Pony
+[00:06.08]我的小马驹
+[00:08.43]I used wonder what friendship could be
+[00:08.43][Twilght Sparkle] 曾经我好奇什么是友谊
+[00:10.30]My Little Pony
+[00:10.30]我的小马驹
+[00:12.12]Until you all share its magic with me
+[00:12.12][Twilght Sparkle] 直到你们与我分享魔力
+[00:14.62]Big adventure
+[00:14.62][Rainbow Dash] 难忘奇遇
+[00:15.52]Tons of fun
+[00:15.52][Pinkie Pie] 遍地欢喜
+[00:16.69]A beautiful heart
+[00:16.69][Rarity] 美丽心灵
+[00:17.48]Faithfull and strong
+[00:17.48][Applejack] 坚强卖力
+[00:18.82]Sharing kindness
+[00:18.82][Fluttershy] 善良客气
+[00:19.70][Twilght Sparkle]
+[00:19.94]It's an easy feat
+[00:19.94]简单而容易
+[00:21.07]And magic makes it all complete!
+[00:21.07]魔力将这一切完美联系
+[00:23.03](You have) My Little Pony
+[00:23.03]我的小马驹
+[00:25.25]Do you know you're all my very best friends!
+[00:25.25][Twilght Sparkle] 你们交给我友谊的真谛！
+[00:32.31]
+```
 
 ```lrc
 [ti:Equestria, the Land I Love]
@@ -127,4 +168,3 @@ Contains Explicit Language! Viewer Discretion is advised! <br>
 [00:47.32]Yeah, we got it!
 [00:49.22]
 ```
-##
