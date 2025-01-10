@@ -1,5 +1,5 @@
 # Pony Music Lryics
-这个项目围绕由xxx发布的MLP音乐合集（My Little Pony Friendship is Magic - Ultimate Soundtrack Collection v1.2），收集或制作歌词文件，供广大马迷使用。
+这个项目围绕由Narokath发布的MLP音乐合集（My Little Pony Friendship is Magic - Ultimate Soundtrack Collection v1.2），收集或制作歌词文件，供广大马迷使用。
 
 目前，提供歌词的歌曲范围不包括Extras，不包含intrumental类型、demo类型。
 
@@ -41,7 +41,7 @@ Contains Explicit Language! Viewer Discretion is advised! <br>
 
 <hr>
 
-国内可以参考：EquestriaCN文章[link](https://www.equestriacn.com/2021/02/resources-download-pony-official-song-resources-integration.html)，包含一些该音乐包的介绍与下载途径。
+国内可以参考：EquestriaCN文章[(link)](https://www.equestriacn.com/2021/02/resources-download-pony-official-song-resources-integration.html)，包含一些该音乐包的介绍与下载途径。
 
 ## 使用方式
 本项目的目录结构与音乐合集完全相同，所有的歌词与歌曲名称相同，如果是foobar2000播放器或potplayer播放器，复制进去后再播放音乐会自动读取。
@@ -53,10 +53,10 @@ Contains Explicit Language! Viewer Discretion is advised! <br>
 
 如果想要参与项目，提交PR前请看着歌词至少听一遍，以确保歌词正确、匹配
 
-歌词可以参考mlp灰机wiki、fandom wiki等网站。
+歌词可以参考`灰机 mlp wiki`、`fandom mlp wiki`等网站。
 
 ### 格式
-基本三要素：音乐名，歌手名，歌词制作者
+基本三要素：音乐名，歌手名，歌词制作者（署名）
 
 ```lrc
 [ti:]
@@ -64,6 +64,67 @@ Contains Explicit Language! Viewer Discretion is advised! <br>
 [by:珊瑚派]
 ```
 
+- 采用逐行歌词
+- 歌词时间戳格式为[分钟:秒.]  
+- 歌词、歌曲名的中文都**不**是必须的
+- 署名非必须，但要留有标签
+- 
+- 歌词正文开头**不**要带有作词等信息，如`[00:00.00] 作词 : MyLittlePony`
+- 多歌手的歌曲的歌词需要带有角色名：
+   1. 这个角色当前歌词只有一句：角色名方括号包裹，角色名放在本句歌词开头，并与歌词间隔一个空格
+  2. 这个角色当前歌词多于一句（成段）：角色名方括号包裹，单独成句，放在这段歌词第一句之前
 
-## 声明
+歌词文件示例：
 
+```lrc
+[ti:Equestria, the Land I Love]
+[ar:Coloratura]
+[by:]
+
+[00:01.08]Equestria the land I love
+[00:01.08]小马利亚 ，我爱的土地
+[00:04.12]A land of harmony
+[00:04.12]和谐之地
+[00:08.13]Our flag does wave from high above
+[00:08.13]我们的旗帜确实高高飘扬
+[00:12.02]For ponykind to see
+[00:12.02]给小马看
+[00:17.45]Equestria a land of friends
+[00:17.45]小马利亚是朋友的国度
+[00:21.75]Where ponykind do roam
+[00:21.75]小马在哪里游荡
+[00:25.71]They say true friendship never ends
+[00:25.71]人们说真正的友谊永远不会结束
+[00:28.92]Equestria my home
+[00:28.92]小马利亚我的家
+[00:34.47]
+```
+
+```lrc
+[ti:We Got The Beat]
+[ar:瑞秋·普蕾顿]
+[by:珊瑚派]
+
+[00:06.54]Hey! Hey! Hey!
+[00:09.52]Hey! Hey! Hey!
+[00:11.75] [瑞秋·普蕾顿]
+[00:12.31]See the ponies trottin' down the street
+[00:15.53]Equestria is where they wanna meet
+[00:18.71]They all know where they wanna go
+[00:21.31]And they're trottin' in time
+[00:22.70]And they're trottin', yeah
+[00:23.98]They got the beat
+[00:24.79]They got the beat
+[00:26.25]They got the beat
+[00:28.84]Yeah, they got the beat
+[00:30.95]Go-go music really makes us dance
+[00:33.95]Do the pony, puts us in a trance
+[00:37.08]Do the watusi, just give us a chance
+[00:39.33]That's when we fall in line
+[00:41.60]'Cause we got the beat
+[00:43.16]We got the beat
+[00:44.58]We got the beat
+[00:47.32]Yeah, we got it!
+[00:49.22]
+```
+##
