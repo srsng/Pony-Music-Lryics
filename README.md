@@ -56,12 +56,14 @@ Contains Explicit Language! Viewer Discretion is advised! <br>
 歌词可以参考`灰机 mlp wiki`、`fandom mlp wiki`等网站。
 
 ### 格式
-基本三要素：音乐名，歌手名，歌词制作者（署名）
+基本三要素：音乐名，歌手名，歌词文件制作者（署名），放在歌词文件最开头，与歌词正文部分用一个空行分隔
 
 ```lrc
 [ti:]
 [ar:]
 [by:珊瑚派]
+
+[00:00.00]一些歌词...
 ```
 
 - 采用**逐行**歌词，有较高要求者也可采用逐字
