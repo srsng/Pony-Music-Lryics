@@ -2,7 +2,7 @@
 
 ## 2010 - My Little Pony Friendship is Magic - Season 1
 
-- [ ] 01 - My Little Pony Theme Song.mp3
+- [x] 01 - My Little Pony Theme Song.mp3
 - [x] 02 - Laughter Song.mp3
 - [x] 03 - Pinkie's Gala Fantasy Song.mp3
 - [ ] 04 - The Ticket Song.flac
