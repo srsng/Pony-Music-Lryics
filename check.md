@@ -211,7 +211,7 @@
 ## 2016 - My Little Pony Friendship is Magic - Season 6
 - [ ] 01 - Out On My Own.mp3
 - [x] 02 - Hearth's Warming Eve Is Here Once Again.mp3
-- [ ] 03 - Say Goodbye to the Holiday.mp3
+- [x] 03 - Say Goodbye to the Holiday.mp3
 - [ ] 04 - The Seeds of the Past (Part 1 & 2).mp3
 - [ ] 05 - Pinkie's Present.mp3
 - [x] 06 - Luna's Future.mp3
@@ -283,7 +283,7 @@
 - [ ] 03 - Your Heart Is in Two Places.flac
 - [ ] 04 - Friendship U.flac
 - [x] 05 - We're Friendship Bound.flac
-- [ ] 06 - A Kirin Tale.flac
+- [x] 06 - A Kirin Tale.flac
 - [ ] 07 - A Kirin Tale (Reprise).flac
 - [ ] 08 - Just Can't Be a Dragon Here.flac
 ### Extras
@@ -517,7 +517,7 @@
 ## 2017c - Equestria Girls Better Together (Season 1)
 - [x] 01 - Equestria Girls Original Theme.mp3
 - [x] 02 - Rise Up!.flac
-- [ ] 03 - Room To Grow.flac
+- [x] 03 - Room To Grow.flac
 - [x] 04 - Five To Nine.flac
 - [x] 05 - So Much More to Me.flac
 - [ ] 06 - The Other Side.flac
