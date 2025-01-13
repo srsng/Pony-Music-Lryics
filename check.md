@@ -498,7 +498,7 @@
 - [x] 03 - Shake Things Up!.flac
 - [x] 04 - Get the Show on the Road.flac
 - [x] 05 - Coinky-Dink World.flac
-- [ ] 06 - Good Vibes.flac
+- [x] 06 - Good Vibes.flac
 ### Extras
 - [ ] 01 - Mad Twience (Demo).flac
 - [ ] 02 - Mad Twience (Instrumental).flac
