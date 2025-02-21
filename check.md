@@ -209,7 +209,7 @@
 - [ ] 26 - Trust In You (Full Demo).mp3
 - [ ] 27 - Trust In You (Demo).mp3
 ## 2016 - My Little Pony Friendship is Magic - Season 6
-- [ ] 01 - Out On My Own.mp3
+- [x] 01 - Out On My Own.mp3
 - [x] 02 - Hearth's Warming Eve Is Here Once Again.mp3
 - [x] 03 - Say Goodbye to the Holiday.mp3
 - [ ] 04 - The Seeds of the Past (Part 1 & 2).mp3
