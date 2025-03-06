@@ -313,9 +313,9 @@
 - [ ] 24 - Just Can't Be a Dragon Here (Instrumental).flac
 ## 2018b - My Little Pony Best Gift Ever
 - [x] 01 - One More Day.flac
-- [ ] 02 - The True Gift of Gifting.flac
+- [x] 02 - The True Gift of Gifting.flac
 - [x] 03 - One More Day (Instrumental).flac
-- [ ] 04 - The True Gift of Gifting (Instrumental).flac
+- [x] 04 - The True Gift of Gifting (Instrumental).flac
 ## 2019a - My Little Pony Friendship is Magic - Season 9
 - [ ] 01 - The Place Where We Belong.flac
 - [ ] 02 - Fit Right In.flac
