@@ -5,19 +5,19 @@ PlayResY: 720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: PP,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.05,0:00:12.04,PP,,0,0,0,,{\kf16}E{\kf13}ques{\kf13}tri{\kf232}a
-Dialogue: 0,0:00:13.09,0:00:16.74,PP,,0,0,0,,{\kf20}E{\kf16}ques{\kf16}tri{\kf29}a{\kf20}~{\kf20}~{\kf213}~
-Dialogue: 0,0:00:17.54,0:00:20.81,PP,,0,0,0,,{\kf35}Here {\kf20}in {\kf16}our {\kf39}land, {\kf32}our {\kf23}ho{\kf102}-ome
-Dialogue: 0,0:00:21.48,0:00:28.98,PP,,0,0,0,,{\kf20}E{\kf20}very{\kf29}po{\kf23}ny {\kf35}knows {\kf20}how {\kf16}to {\kf20}cel{\kf16}e{\kf26}brate {\kf23}the {\kf20}ma{\kf16}gic {\kf20}of {\kf16}E{\kf16}ques{\kf13}tri{\kf29}a{\kf20}~{\kf16}~{\kf217}~
-Dialogue: 0,0:00:29.39,0:00:32.95,PP,,0,0,0,,{\kf16}E{\kf20}ques{\kf13}tri{\kf29}a{\kf20}~{\kf23}~{\kf204}~
-Dialogue: 0,0:00:33.49,0:00:35.15,PP,,0,0,0,,{\kf16}The {\kf13}Fes{\kf10}ti{\kf26}val {\kf16}is {\kf20}com{\kf16}ing
-Dialogue: 0,0:00:35.53,0:00:37.24,PP,,0,0,0,,{\kf13}The {\kf20}Fes{\kf10}ti{\kf29}val {\kf13}of {\kf23}Friend{\kf23}ship
-Dialogue: 0,0:00:37.53,0:00:39.24,PP,,0,0,0,,{\kf20}From {\kf16}all {\kf13}a{\kf29}round {\kf20}come {\kf20}run{\kf20}ning
-Dialogue: 0,0:00:39.53,0:00:43.09,PP,,0,0,0,,{\kf13}To {\kf26}ce{\kf13}le{\kf23}brate {\kf20}to{\kf23}ge{\kf29}ther {\kf20}the {\kf23}first {\kf35}e{\kf20}ver {\kf26}light
-Dialogue: 0,0:00:43.63,0:00:45.31,PP,,0,0,0,,{\kf16}The {\kf16}Fes{\kf13}ti{\kf32}val {\kf16}of {\kf20}Friend{\kf16}ship
-Dialogue: 0,0:00:45.63,0:00:47.44,PP,,0,0,0,,{\kf20}So {\kf26}make {\kf23}some {\kf20}good {\kf16}wea{\kf29}ther
-Dialogue: 0,0:00:47.67,0:00:50.08,PP,,0,0,0,,{\kf20}The {\kf20}Fes{\kf10}ti{\kf26}val {\kf16}is {\kf26}al{\kf29}most {\kf32}here!
+Dialogue: 0,0:00:09.05,0:00:12.04,DEFAULT,,0,0,0,,{\kf16}E{\kf13}ques{\kf13}tri{\kf232}a
+Dialogue: 0,0:00:13.09,0:00:16.74,DEFAULT,,0,0,0,,{\kf20}E{\kf16}ques{\kf16}tri{\kf29}a{\kf20}~{\kf20}~{\kf213}~
+Dialogue: 0,0:00:17.54,0:00:20.81,DEFAULT,,0,0,0,,{\kf35}Here{\kf20} in{\kf16} our{\kf39} land,{\kf32} our{\kf23} ho{\kf102}-ome
+Dialogue: 0,0:00:21.48,0:00:28.98,DEFAULT,,0,0,0,,{\kf20}E{\kf20}very{\kf29}po{\kf23}ny{\kf35} knows{\kf20} how{\kf16} to{\kf20} cel{\kf16}e{\kf26}brate{\kf23} the{\kf20} ma{\kf16}gic{\kf20} of{\kf16} E{\kf16}ques{\kf13}tri{\kf29}a{\kf20}~{\kf16}~{\kf217}~
+Dialogue: 0,0:00:29.39,0:00:32.95,DEFAULT,,0,0,0,,{\kf16}E{\kf20}ques{\kf13}tri{\kf29}a{\kf20}~{\kf23}~{\kf204}~
+Dialogue: 0,0:00:33.49,0:00:35.15,DEFAULT,,0,0,0,,{\kf16}The{\kf13} Fes{\kf10}ti{\kf26}val{\kf16} is{\kf20} com{\kf16}ing
+Dialogue: 0,0:00:35.53,0:00:37.24,DEFAULT,,0,0,0,,{\kf13}The{\kf20} Fes{\kf10}ti{\kf29}val{\kf13} of{\kf23} Friend{\kf23}ship
+Dialogue: 0,0:00:37.53,0:00:39.24,DEFAULT,,0,0,0,,{\kf20}From{\kf16} all{\kf13} a{\kf29}round{\kf20} come{\kf20} run{\kf20}ning
+Dialogue: 0,0:00:39.53,0:00:43.09,DEFAULT,,0,0,0,,{\kf13}To{\kf26} ce{\kf13}le{\kf23}brate{\kf20} to{\kf23}ge{\kf29}ther{\kf20} the{\kf23} first{\kf35} e{\kf20}ver{\kf26} light
+Dialogue: 0,0:00:43.63,0:00:45.31,DEFAULT,,0,0,0,,{\kf16}The{\kf16} Fes{\kf13}ti{\kf32}val{\kf16} of{\kf20} Friend{\kf16}ship
+Dialogue: 0,0:00:45.63,0:00:47.44,DEFAULT,,0,0,0,,{\kf20}So{\kf26} make{\kf23} some{\kf20} good{\kf16} wea{\kf29}ther
+Dialogue: 0,0:00:47.67,0:00:50.08,DEFAULT,,0,0,0,,{\kf20}The{\kf20} Fes{\kf10}ti{\kf26}val{\kf16} is{\kf26} al{\kf29}most{\kf32} here!

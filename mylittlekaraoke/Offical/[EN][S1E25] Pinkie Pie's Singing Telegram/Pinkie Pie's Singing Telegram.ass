@@ -5,27 +5,27 @@ PlayResY: 720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: PP,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.16,0:00:01.83,PP,,0,0,0,,{\kf34}This {\kf17}is {\kf17}your {\kf17}sing{\kf17}ing {\kf17}te{\kf17}le{\kf17}gram
-Dialogue: 0,0:00:01.91,0:00:03.08,PP,,0,0,0,,{\kf9}I {\kf17}hope {\kf9}it {\kf17}finds {\kf17}you {\kf34}well
-Dialogue: 0,0:00:03.33,0:00:04.58,PP,,0,0,0,,{\kf9}You're {\kf9}in{\kf17}vit{\kf17}ed {\kf9}to {\kf9}a {\kf17}par{\kf17}ty
-Dialogue: 0,0:00:04.58,0:00:06.08,PP,,0,0,0,,{\kf17}'cause {\kf17}we {\kf17}think {\kf17}you're {\kf17}reall{\kf17}y {\kf34}swell
-Dialogue: 0,0:00:06.50,0:00:07.75,PP,,0,0,0,,{\kf17}Gumm{\kf17}y's {\kf17}turn{\kf17}ing {\kf17}one {\kf17}year {\kf17}old
-Dialogue: 0,0:00:07.75,0:00:09.08,PP,,0,0,0,,{\kf17}So {\kf17}help {\kf17}us {\kf25}ce{\kf17}le{\kf42}brate
-Dialogue: 0,0:00:09.25,0:00:10.58,PP,,0,0,0,,{\kf17}The {\kf25}cake {\kf9}will {\kf9}be {\kf17}de{\kf25}li{\kf25}cious
-Dialogue: 0,0:00:10.58,0:00:12.08,PP,,0,0,0,,{\kf17}The {\kf17}fes{\kf17}ti{\kf17}vi{\kf25}ties {\kf17}first{\kf42}-rate
-Dialogue: 0,0:00:13.00,0:00:14.25,PP,,0,0,0,,{\kf17}There {\kf17}will {\kf17}be {\kf17}games {\kf9}and {\kf17}danc{\kf17}ing
-Dialogue: 0,0:00:14.25,0:00:15.66,PP,,0,0,0,,{\kf17}Bob {\kf17}for {\kf25}app {\kf17}les, {\kf17}cut{\kf17}-a-{\kf34}rug
-Dialogue: 0,0:00:15.91,0:00:17.00,PP,,0,0,0,,{\kf17}And {\kf25}when {\kf9}the {\kf25}part{\kf17}y's {\kf9}ov{\kf9}er
-Dialogue: 0,0:00:17.08,0:00:18.83,PP,,0,0,0,,{\kf17}We'll {\kf17}gath{\kf17}er {\kf17}'round {\kf9}for {\kf17}a {\kf25}group {\kf50}hug
-Dialogue: 0,0:00:19.66,0:00:21.00,PP,,0,0,0,,{\kf25}No {\kf17}need {\kf25}to {\kf25}bring {\kf17}a {\kf25}gift
-Dialogue: 0,0:00:21.33,0:00:23.08,PP,,0,0,0,,{\kf17}Be{\kf17}ing {\kf34}there {\kf17}will {\kf25}be {\kf17}e{\kf50}nough
-Dialogue: 0,0:00:23.58,0:00:25.25,PP,,0,0,0,,{\kf17}Birth{\kf34}days {\kf17}mean {\kf9}hav{\kf17}ing {\kf17}fun {\kf25}with {\kf34}friends
-Dialogue: 0,0:00:25.25,0:00:26.91,PP,,0,0,0,,{\kf17}Not {\kf25}gett{\kf17}ing {\kf25}lots {\kf17}of {\kf59}stuff
-Dialogue: 0,0:00:27.91,0:00:30.00,PP,,0,0,0,,{\kf17}It {\kf34}won't {\kf34}be {\kf17}the {\kf25}same {\kf34}with{\kf17}out {\kf17}you
-Dialogue: 0,0:00:30.08,0:00:32.41,PP,,0,0,0,,{\kf34}So {\kf17}we {\kf34}hope {\kf25}that {\kf25}you {\kf34}say {\kf59}"yes"
-Dialogue: 0,0:00:32.66,0:00:34.83,PP,,0,0,0,,{\kf25}So {\kf34}please, {\kf17}oh {\kf34}please, {\kf25}R {\kf25}S {\kf17}V {\kf25}P
-Dialogue: 0,0:00:35.00,0:00:36.91,PP,,0,0,0,,{\kf25}And {\kf25}come {\kf25}and {\kf17}be {\kf17}our {\kf50}guest
+Dialogue: 0,0:00:00.16,0:00:01.83,DEFAULT,,0,0,0,,{\kf34}This{\kf17} is{\kf17} your{\kf17} sing{\kf17}ing{\kf17} te{\kf17}le{\kf17}gram
+Dialogue: 0,0:00:01.91,0:00:03.08,DEFAULT,,0,0,0,,{\kf9}I{\kf17} hope{\kf9} it{\kf17} finds{\kf17} you{\kf34} well
+Dialogue: 0,0:00:03.33,0:00:04.58,DEFAULT,,0,0,0,,{\kf9}You're{\kf9} in{\kf17}vit{\kf17}ed{\kf9} to{\kf9} a{\kf17} par{\kf17}ty
+Dialogue: 0,0:00:04.58,0:00:06.08,DEFAULT,,0,0,0,,{\kf17}'cause{\kf17} we{\kf17} think{\kf17} you're{\kf17} reall{\kf17}y{\kf34} swell
+Dialogue: 0,0:00:06.50,0:00:07.75,DEFAULT,,0,0,0,,{\kf17}Gumm{\kf17}y's{\kf17} turn{\kf17}ing{\kf17} one{\kf17} year{\kf17} old
+Dialogue: 0,0:00:07.75,0:00:09.08,DEFAULT,,0,0,0,,{\kf17}So{\kf17} help{\kf17} us{\kf25} ce{\kf17}le{\kf42}brate
+Dialogue: 0,0:00:09.25,0:00:10.58,DEFAULT,,0,0,0,,{\kf17}The{\kf25} cake{\kf9} will{\kf9} be{\kf17} de{\kf25}li{\kf25}cious
+Dialogue: 0,0:00:10.58,0:00:12.08,DEFAULT,,0,0,0,,{\kf17}The{\kf17} fes{\kf17}ti{\kf17}vi{\kf25}ties{\kf17} first{\kf42}-rate
+Dialogue: 0,0:00:13.00,0:00:14.25,DEFAULT,,0,0,0,,{\kf17}There{\kf17} will{\kf17} be{\kf17} games{\kf9} and{\kf17} danc{\kf17}ing
+Dialogue: 0,0:00:14.25,0:00:15.66,DEFAULT,,0,0,0,,{\kf17}Bob{\kf17} for{\kf25} app{\kf17}les,{\kf17} cut{\kf17}-a-{\kf34}rug
+Dialogue: 0,0:00:15.91,0:00:17.00,DEFAULT,,0,0,0,,{\kf17}And{\kf25} when{\kf9} the{\kf25} part{\kf17}y's{\kf9} ov{\kf9}er
+Dialogue: 0,0:00:17.08,0:00:18.83,DEFAULT,,0,0,0,,{\kf17}We'll{\kf17} gath{\kf17}er{\kf17} 'round{\kf9} for{\kf17} a{\kf25} group{\kf50} hug
+Dialogue: 0,0:00:19.66,0:00:21.00,DEFAULT,,0,0,0,,{\kf25}No{\kf17} need{\kf25} to{\kf25} bring{\kf17} a{\kf25} gift
+Dialogue: 0,0:00:21.33,0:00:23.08,DEFAULT,,0,0,0,,{\kf17}Be{\kf17}ing{\kf34} there{\kf17} will{\kf25} be{\kf17} e{\kf50}nough
+Dialogue: 0,0:00:23.58,0:00:25.25,DEFAULT,,0,0,0,,{\kf17}Birth{\kf34}days{\kf17} mean{\kf9} hav{\kf17}ing{\kf17} fun{\kf25} with{\kf34} friends
+Dialogue: 0,0:00:25.25,0:00:26.91,DEFAULT,,0,0,0,,{\kf17}Not{\kf25} gett{\kf17}ing{\kf25} lots{\kf17} of{\kf59} stuff
+Dialogue: 0,0:00:27.91,0:00:30.00,DEFAULT,,0,0,0,,{\kf17}It{\kf34} won't{\kf34} be{\kf17} the{\kf25} same{\kf34} with{\kf17}out{\kf17} you
+Dialogue: 0,0:00:30.08,0:00:32.41,DEFAULT,,0,0,0,,{\kf34}So{\kf17} we{\kf34} hope{\kf25} that{\kf25} you{\kf34} say{\kf59} "yes"
+Dialogue: 0,0:00:32.66,0:00:34.83,DEFAULT,,0,0,0,,{\kf25}So{\kf34} please,{\kf17} oh{\kf34} please,{\kf25} R{\kf25}S{\kf17}V{\kf25}P
+Dialogue: 0,0:00:35.00,0:00:36.91,DEFAULT,,0,0,0,,{\kf25}And{\kf25} come{\kf25} and{\kf17} be{\kf17} our{\kf50} guest

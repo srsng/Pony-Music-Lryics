@@ -5,27 +5,27 @@ PlayResY: 720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: PP,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.83,0:00:02.68,PP,,0,0,0,,{\kf36}Csitt, {\kf18}ki {\kf18}csi, {\kf30}csen {\kf12}de {\kf30}sen!
-Dialogue: 0,0:00:02.98,0:00:05.02,PP,,0,0,0,,{\kf24}Hajtsd {\kf12}le {\kf24}most {\kf18}a {\kf18}fe {\kf24}je {\kf36}det!
-Dialogue: 0,0:00:05.38,0:00:07.29,PP,,0,0,0,,{\kf42}Csitt, {\kf18}ki {\kf24}csi, {\kf30}csen {\kf24}de {\kf30}sen!
-Dialogue: 0,0:00:07.71,0:00:09.93,PP,,0,0,0,,{\kf36}Szép {\kf30}éj {\kf30}jel {\kf24}kö {\kf30}ze {\kf42}leg
-Dialogue: 0,0:00:11.43,0:00:12.44,PP,,0,0,0,,{\kf24}Ezt {\kf72}ismerem!
-Dialogue: 0,0:00:12.80,0:00:14.54,PP,,0,0,0,,{\kf54}Ó, {\kf42}ennek {\kf66}örülök!
-Dialogue: 0,0:00:14.66,0:00:16.16,PP,,0,0,0,,{\kf42}Akkor {\kf54}énekeld {\kf54}velem!
-Dialogue: 0,0:00:20.11,0:00:21.78,PP,,0,0,0,,{\kf36}Csitt, {\kf30}ki {\kf24}csi, {\kf30}csen {\kf12}de {\kf36}sen!
-Dialogue: 0,0:00:21.84,0:00:23.40,PP,,0,0,0,,{\kf30}Hajtsd {\kf12}le {\kf24}szé {\kf24}pen {\kf30}kis {\kf12}fe {\kf24}jed!
-Dialogue: 0,0:00:23.76,0:00:25.44,PP,,0,0,0,,{\kf24}Csitt, {\kf18}ki {\kf24}csi, {\kf30}csen {\kf12}de {\kf36}sen!
-Dialogue: 0,0:00:25.50,0:00:27.17,PP,,0,0,0,,{\kf12}Az {\kf24}éj {\kf18}jel {\kf18}kö {\kf18}ze {\kf78}leg
-Dialogue: 0,0:00:28.07,0:00:29.99,PP,,0,0,0,,{\kf24}Az {\kf30}á {\kf36}lom {\kf30}el {\kf18}so {\kf42}dor
-Dialogue: 0,0:00:30.05,0:00:31.72,PP,,0,0,0,,{\kf24}Új {\kf24}nap {\kf24}vár {\kf18}hol {\kf24}nap {\kf42}rád
-Dialogue: 0,0:00:31.90,0:00:33.70,PP,,0,0,0,,{\kf12}Az {\kf42}á {\kf36}lom {\kf24}el {\kf30}so {\kf24}dor
-Dialogue: 0,0:00:33.76,0:00:36.39,PP,,0,0,0,,{\kf18}Az {\kf18}é {\kf18}des {\kf36}szun {\kf12}nya {\kf162}dás
-Dialogue: 0,0:00:36.57,0:00:38.25,PP,,0,0,0,,{\kf36}Csitt, {\kf48}hát, {\kf18}csen {\kf12}de {\kf36}sen!
-Dialogue: 0,0:00:38.43,0:00:40.04,PP,,0,0,0,,{\kf24}Hajtsd {\kf12}le {\kf24}szé {\kf18}pen {\kf24}kis {\kf18}fe {\kf30}jed
-Dialogue: 0,0:00:40.34,0:00:41.90,PP,,0,0,0,,{\kf30}Csitt, {\kf36}hát, {\kf24}csen {\kf12}de {\kf30}sen!
-Dialogue: 0,0:00:41.96,0:00:45.97,PP,,0,0,0,,{\kf18}Az {\kf24}éj {\kf18}jel {\kf24}kö {\kf18}ze {\kf300}leg!
-Dialogue: 0,0:00:46.21,0:00:46.81,PP,,0,0,0,,{\kf60}Hú!
+Dialogue: 0,0:00:00.83,0:00:02.68,DEFAULT,,0,0,0,,{\kf36}Csitt,{\kf18} ki{\kf18}csi,{\kf30} csen{\kf12}de{\kf30}sen!
+Dialogue: 0,0:00:02.98,0:00:05.02,DEFAULT,,0,0,0,,{\kf24}Hajtsd{\kf12} le{\kf24} most{\kf18} a{\kf18} fe{\kf24}je{\kf36}det!
+Dialogue: 0,0:00:05.38,0:00:07.29,DEFAULT,,0,0,0,,{\kf42}Csitt,{\kf18} ki{\kf24}csi,{\kf30} csen{\kf24}de{\kf30}sen!
+Dialogue: 0,0:00:07.71,0:00:09.93,DEFAULT,,0,0,0,,{\kf36}Szép{\kf30} éj{\kf30}jel{\kf24} kö{\kf30}ze{\kf42}leg
+Dialogue: 0,0:00:11.43,0:00:12.44,DEFAULT,,0,0,0,,{\kf24}Ezt{\kf72} ismerem!
+Dialogue: 0,0:00:12.80,0:00:14.54,DEFAULT,,0,0,0,,{\kf54}Ó,{\kf42}ennek{\kf66} örülök!
+Dialogue: 0,0:00:14.66,0:00:16.16,DEFAULT,,0,0,0,,{\kf42}Akkor{\kf54} énekeld{\kf54} velem!
+Dialogue: 0,0:00:20.11,0:00:21.78,DEFAULT,,0,0,0,,{\kf36}Csitt,{\kf30} ki{\kf24}csi,{\kf30} csen{\kf12}de{\kf36}sen!
+Dialogue: 0,0:00:21.84,0:00:23.40,DEFAULT,,0,0,0,,{\kf30}Hajtsd{\kf12} le{\kf24} szé{\kf24}pen{\kf30} kis{\kf12} fe{\kf24}jed!
+Dialogue: 0,0:00:23.76,0:00:25.44,DEFAULT,,0,0,0,,{\kf24}Csitt,{\kf18} ki{\kf24}csi,{\kf30} csen{\kf12}de{\kf36}sen!
+Dialogue: 0,0:00:25.50,0:00:27.17,DEFAULT,,0,0,0,,{\kf12}Az{\kf24} éj{\kf18}jel{\kf18} kö{\kf18}ze{\kf78}leg
+Dialogue: 0,0:00:28.07,0:00:29.99,DEFAULT,,0,0,0,,{\kf24}Az{\kf30} á{\kf36}lom{\kf30} el{\kf18}so{\kf42}dor
+Dialogue: 0,0:00:30.05,0:00:31.72,DEFAULT,,0,0,0,,{\kf24}Új{\kf24} nap{\kf24} vár{\kf18} hol{\kf24}nap{\kf42} rád
+Dialogue: 0,0:00:31.90,0:00:33.70,DEFAULT,,0,0,0,,{\kf12}Az{\kf42} á{\kf36}lom{\kf24} el{\kf30}so{\kf24}dor
+Dialogue: 0,0:00:33.76,0:00:36.39,DEFAULT,,0,0,0,,{\kf18}Az{\kf18} é{\kf18}des{\kf36} szun{\kf12}nya{\kf162}dás
+Dialogue: 0,0:00:36.57,0:00:38.25,DEFAULT,,0,0,0,,{\kf36}Csitt,{\kf48} hát,{\kf18} csen{\kf12}de{\kf36}sen!
+Dialogue: 0,0:00:38.43,0:00:40.04,DEFAULT,,0,0,0,,{\kf24}Hajtsd{\kf12} le{\kf24} szé{\kf18}pen{\kf24} kis{\kf18} fe{\kf30}jed
+Dialogue: 0,0:00:40.34,0:00:41.90,DEFAULT,,0,0,0,,{\kf30}Csitt,{\kf36} hát,{\kf24} csen{\kf12}de{\kf30}sen!
+Dialogue: 0,0:00:41.96,0:00:45.97,DEFAULT,,0,0,0,,{\kf18}Az{\kf24} éj{\kf18}jel{\kf24} kö{\kf18}ze{\kf300}leg!
+Dialogue: 0,0:00:46.21,0:00:46.81,DEFAULT,,0,0,0,,{\kf60}Hú!

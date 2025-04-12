@@ -5,16 +5,16 @@ PlayResY: 720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: PP,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:04.66,PP,,0,0,0,,{\kf34}Hush {\kf34}now, {\kf25}qui{\kf17}et {\kf17}now, {\kf17}it's {\kf17}time {\kf17}to {\kf17}lay {\kf17}your {\kf17}slee{\kf17}py {\kf25}head
-Dialogue: 0,0:00:05.00,0:00:10.00,PP,,0,0,0,,{\kf25}Hush {\kf50}now, {\kf17}qui{\kf17}et {\kf17}now, {\kf17}it's {\kf17}time {\kf17}to {\kf17}go {\kf17}to {\kf117}bed
-Dialogue: 0,0:00:13.83,0:00:17.25,PP,,0,0,0,,{\kf17}Hush {\kf17}now, {\kf34}quiet {\kf17}now! {\kf9}This {\kf17}is {\kf17}time {\kf17}to {\kf17}lay {\kf17}your {\kf17}slee{\kf17}py {\kf9}head
-Dialogue: 0,0:00:17.50,0:00:21.66,PP,,0,0,0,,{\kf17}Said, {\kf17}hush {\kf17}now, {\kf25}quiet {\kf25}now -{\kf9}This {\kf9}is {\kf17}time {\kf17}to {\kf9}go {\kf9}to {\kf125}bed
-Dialogue: 0,0:00:22.58,0:00:26.00,PP,,0,0,0,,{\kf17}Drif {\kf17}ting {\kf17}off {\kf17}to {\kf17}sleep {\kf17}the {\kf9}ex{\kf9}ci{\kf9}ting {\kf17}day {\kf17}be{\kf25}hind {\kf42}you
-Dialogue: 0,0:00:26.33,0:00:30.75,PP,,0,0,0,,{\kf17}Drif {\kf17}ting {\kf17}off {\kf17}to {\kf17}sleep, {\kf9}let {\kf9}the {\kf9}joy {\kf9}of {\kf17}dream {\kf9}land {\kf17}find {\kf134}you
-Dialogue: 0,0:00:31.16,0:00:34.50,PP,,0,0,0,,{\kf17}Hush {\kf25}now, {\kf34}quiet {\kf17}now, {\kf17}lay {\kf17}your {\kf17}slee{\kf17}py {\kf59}head
-Dialogue: 0,0:00:34.75,0:00:40.50,PP,,0,0,0,,{\kf17}Said {\kf17}hush {\kf25}now, {\kf34}quiet {\kf25}now, {\kf17}it's {\kf17}time {\kf17}to {\kf17}go {\kf17}to {\kf275}bed
-Dialogue: 0,0:00:40.75,0:00:41.08,PP,,0,0,0,,{\kf34}Aaoow!
+Dialogue: 0,0:00:00.00,0:00:04.66,DEFAULT,,0,0,0,,{\kf34}Hush{\kf34} now,{\kf25} qui{\kf17}et{\kf17} now,{\kf17} it's{\kf17} time{\kf17} to{\kf17} lay{\kf17} your{\kf17} slee{\kf17}py{\kf25} head
+Dialogue: 0,0:00:05.00,0:00:10.00,DEFAULT,,0,0,0,,{\kf25}Hush{\kf50} now,{\kf17} qui{\kf17}et{\kf17} now,{\kf17} it's{\kf17} time{\kf17} to{\kf17} go{\kf17} to{\kf117} bed
+Dialogue: 0,0:00:13.83,0:00:17.25,DEFAULT,,0,0,0,,{\kf17}Hush{\kf17} now,{\kf34} quiet{\kf17} now!{\kf9} This{\kf17} is{\kf17} time{\kf17} to{\kf17} lay{\kf17} your{\kf17} slee{\kf17}py{\kf9} head
+Dialogue: 0,0:00:17.50,0:00:21.66,DEFAULT,,0,0,0,,{\kf17}Said,{\kf17} hush{\kf17} now,{\kf25} quiet{\kf25} now -{\kf9} This{\kf9} is{\kf17} time{\kf17} to{\kf9} go{\kf9} to{\kf125} bed
+Dialogue: 0,0:00:22.58,0:00:26.00,DEFAULT,,0,0,0,,{\kf17}Drif{\kf17}ting{\kf17} off{\kf17} to{\kf17} sleep{\kf17} the{\kf9} ex{\kf9}ci{\kf9}ting{\kf17} day{\kf17} be{\kf25}hind{\kf42} you
+Dialogue: 0,0:00:26.33,0:00:30.75,DEFAULT,,0,0,0,,{\kf17}Drif{\kf17}ting{\kf17} off{\kf17} to{\kf17} sleep,{\kf9} let{\kf9} the{\kf9} joy{\kf9} of{\kf17} dream{\kf9}land{\kf17} find{\kf134} you
+Dialogue: 0,0:00:31.16,0:00:34.50,DEFAULT,,0,0,0,,{\kf17}Hush{\kf25} now,{\kf34} quiet{\kf17} now,{\kf17} lay{\kf17} your{\kf17} slee{\kf17}py{\kf59} head
+Dialogue: 0,0:00:34.75,0:00:40.50,DEFAULT,,0,0,0,,{\kf17}Said{\kf17} hush{\kf25} now,{\kf34} quiet{\kf25} now,{\kf17} it's{\kf17} time{\kf17} to{\kf17} go{\kf17} to{\kf275} bed
+Dialogue: 0,0:00:40.75,0:00:41.08,DEFAULT,,0,0,0,,{\kf34}Aaoow!

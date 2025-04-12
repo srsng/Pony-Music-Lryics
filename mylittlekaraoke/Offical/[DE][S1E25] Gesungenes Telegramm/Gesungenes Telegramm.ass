@@ -5,27 +5,27 @@ PlayResY: 720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: PP,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.16,0:00:01.75,PP,,0,0,0,,{\kf25}Hier {\kf21}kommt {\kf13}ein {\kf17}Te {\kf17}le {\kf17}gramm {\kf17}für {\kf17}Dich
-Dialogue: 0,0:00:01.75,0:00:02.95,PP,,0,0,0,,{\kf17}Ich {\kf17}sin {\kf13}ge {\kf17}es {\kf17}komp {\kf34}lett
-Dialogue: 0,0:00:03.25,0:00:04.58,PP,,0,0,0,,{\kf17}Man {\kf17}lädt {\kf17}Dich {\kf17}zu {\kf13}'ner {\kf21}Par{\kf13}ty {\kf17}ein
-Dialogue: 0,0:00:04.62,0:00:05.87,PP,,0,0,0,,{\kf13}Wir {\kf17}fin {\kf17}den {\kf17}Dich {\kf17}so {\kf34}nett
-Dialogue: 0,0:00:06.25,0:00:07.20,PP,,0,0,0,,{\kf17}Gum{\kf13}my {\kf17}wird {\kf17}ein {\kf13}Jahr {\kf17}alt
-Dialogue: 0,0:00:07.20,0:00:08.62,PP,,0,0,0,,{\kf17}Al {\kf17}so {\kf25}fei {\kf17}e {\kf17}re {\kf17}doch {\kf30}mit
-Dialogue: 0,0:00:08.87,0:00:10.33,PP,,0,0,0,,{\kf17}Der {\kf17}Ku {\kf17}chen {\kf17}schmeckt {\kf13}be {\kf17}stimmt {\kf21}ganz {\kf21}toll
-Dialogue: 0,0:00:10.33,0:00:11.54,PP,,0,0,0,,{\kf13}Die {\kf17}Fei {\kf13}er {\kf17}wird {\kf17}ein {\kf38}Hit
-Dialogue: 0,0:00:12.41,0:00:13.79,PP,,0,0,0,,{\kf17}Es {\kf17}wird {\kf13}ge {\kf21}tanzt {\kf9}und {\kf17}viel {\kf9}ge {\kf17}spielt
-Dialogue: 0,0:00:13.79,0:00:15.12,PP,,0,0,0,,{\kf17}Ge {\kf21}sun {\kf13}gen {\kf17}und {\kf13}ge {\kf42}lacht
-Dialogue: 0,0:00:15.25,0:00:16.50,PP,,0,0,0,,{\kf13}Und {\kf21}je {\kf13}der {\kf13}kriegt {\kf13}am {\kf25}Schluss {\kf17}noch
-Dialogue: 0,0:00:16.58,0:00:17.95,PP,,0,0,0,,{\kf9}Ei {\kf13}nen {\kf21}Kuss {\kf13}zur {\kf13}Gu {\kf21}ten {\kf38}Nacht
-Dialogue: 0,0:00:18.83,0:00:20.25,PP,,0,0,0,,{\kf25}Bring' {\kf25}nichts {\kf13}mit {\kf17}au {\kf17}ßer {\kf34}Dir
-Dialogue: 0,0:00:20.45,0:00:22.12,PP,,0,0,0,,{\kf17}Nie {\kf21}mand {\kf17}ist {\kf17}Dir {\kf25}des {\kf17}halb {\kf46}gram
-Dialogue: 0,0:00:22.54,0:00:24.29,PP,,0,0,0,,{\kf25}Spaß {\kf13}brin {\kf13}gen {\kf13}die {\kf17}Ge {\kf25}burts {\kf21}tags {\kf21}gäs {\kf13}te,
-Dialogue: 0,0:00:24.29,0:00:25.75,PP,,0,0,0,,{\kf17}Nicht {\kf17}ein {\kf25}Hau {\kf17}fen {\kf55}Kram
-Dialogue: 0,0:00:26.70,0:00:28.62,PP,,0,0,0,,{\kf21}Nun, {\kf17}wir {\kf25}hof {\kf17}fen {\kf38}dass {\kf13}Du {\kf34}kommst
-Dialogue: 0,0:00:28.66,0:00:30.91,PP,,0,0,0,,{\kf21}Und {\kf30}dass {\kf17}Du {\kf25}nichts {\kf21}da {\kf25}ge {\kf25}gen {\kf42}hast
-Dialogue: 0,0:00:31.29,0:00:33.08,PP,,0,0,0,,{\kf21}Um {\kf25}Ant {\kf21}wort {\kf30}wird {\kf17}ge {\kf25}be {\kf21}ten
-Dialogue: 0,0:00:33.20,0:00:35.20,PP,,0,0,0,,{\kf21}Bit {\kf17}te {\kf25}komm, {\kf21}sei {\kf21}un {\kf25}ser {\kf42}Gast
+Dialogue: 0,0:00:00.16,0:00:01.75,DEFAULT,,0,0,0,,{\kf25}Hier{\kf21} kommt{\kf13} ein{\kf17} Te{\kf17}le{\kf17}gramm{\kf17} für{\kf17} Dich
+Dialogue: 0,0:00:01.75,0:00:02.95,DEFAULT,,0,0,0,,{\kf17}Ich{\kf17} sin{\kf13}ge{\kf17} es{\kf17} komp{\kf34}lett
+Dialogue: 0,0:00:03.25,0:00:04.58,DEFAULT,,0,0,0,,{\kf17}Man{\kf17} lädt{\kf17} Dich{\kf17} zu{\kf13} 'ner{\kf21} Par{\kf13}ty{\kf17} ein
+Dialogue: 0,0:00:04.62,0:00:05.87,DEFAULT,,0,0,0,,{\kf13}Wir{\kf17} fin{\kf17}den{\kf17} Dich{\kf17} so{\kf34} nett
+Dialogue: 0,0:00:06.25,0:00:07.20,DEFAULT,,0,0,0,,{\kf17}Gum{\kf13}my{\kf17} wird{\kf17} ein{\kf13} Jahr{\kf17} alt
+Dialogue: 0,0:00:07.20,0:00:08.62,DEFAULT,,0,0,0,,{\kf17}Al{\kf17}so{\kf25} fei{\kf17}e{\kf17}re{\kf17} doch{\kf30} mit
+Dialogue: 0,0:00:08.87,0:00:10.33,DEFAULT,,0,0,0,,{\kf17}Der{\kf17} Ku{\kf17}chen{\kf17} schmeckt{\kf13} be{\kf17}stimmt{\kf21} ganz{\kf21} toll
+Dialogue: 0,0:00:10.33,0:00:11.54,DEFAULT,,0,0,0,,{\kf13}Die{\kf17} Fei{\kf13}er{\kf17} wird{\kf17} ein{\kf38} Hit
+Dialogue: 0,0:00:12.41,0:00:13.79,DEFAULT,,0,0,0,,{\kf17}Es{\kf17} wird{\kf13} ge{\kf21}tanzt{\kf9} und{\kf17} viel{\kf9} ge{\kf17}spielt
+Dialogue: 0,0:00:13.79,0:00:15.12,DEFAULT,,0,0,0,,{\kf17}Ge{\kf21}sun{\kf13}gen{\kf17} und{\kf13} ge{\kf42}lacht
+Dialogue: 0,0:00:15.25,0:00:16.50,DEFAULT,,0,0,0,,{\kf13}Und{\kf21} je{\kf13}der{\kf13} kriegt{\kf13} am{\kf25} Schluss{\kf17} noch
+Dialogue: 0,0:00:16.58,0:00:17.95,DEFAULT,,0,0,0,,{\kf9}Ei{\kf13}nen{\kf21} Kuss{\kf13} zur{\kf13} Gu{\kf21}ten{\kf38} Nacht
+Dialogue: 0,0:00:18.83,0:00:20.25,DEFAULT,,0,0,0,,{\kf25}Bring'{\kf25} nichts{\kf13} mit{\kf17} au{\kf17}ßer{\kf34} Dir
+Dialogue: 0,0:00:20.45,0:00:22.12,DEFAULT,,0,0,0,,{\kf17}Nie{\kf21}mand{\kf17} ist{\kf17} Dir{\kf25} des{\kf17}halb{\kf46} gram
+Dialogue: 0,0:00:22.54,0:00:24.29,DEFAULT,,0,0,0,,{\kf25}Spaß{\kf13} brin{\kf13}gen{\kf13} die{\kf17} Ge{\kf25}burts{\kf21}tags{\kf21}gäs{\kf13}te,
+Dialogue: 0,0:00:24.29,0:00:25.75,DEFAULT,,0,0,0,,{\kf17}Nicht{\kf17} ein{\kf25} Hau{\kf17}fen{\kf55} Kram
+Dialogue: 0,0:00:26.70,0:00:28.62,DEFAULT,,0,0,0,,{\kf21}Nun,{\kf17} wir{\kf25} hof{\kf17}fen{\kf38} dass{\kf13} Du{\kf34} kommst
+Dialogue: 0,0:00:28.66,0:00:30.91,DEFAULT,,0,0,0,,{\kf21}Und{\kf30} dass{\kf17} Du{\kf25} nichts{\kf21} da{\kf25}ge{\kf25}gen{\kf42} hast
+Dialogue: 0,0:00:31.29,0:00:33.08,DEFAULT,,0,0,0,,{\kf21}Um{\kf25} Ant{\kf21}wort{\kf30} wird{\kf17} ge{\kf25}be{\kf21}ten
+Dialogue: 0,0:00:33.20,0:00:35.20,DEFAULT,,0,0,0,,{\kf21}Bit{\kf17}te{\kf25} komm,{\kf21} sei{\kf21} un{\kf25}ser{\kf42} Gast
