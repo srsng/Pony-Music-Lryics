@@ -9,8 +9,6 @@
 > [!IMPORTANT]  
 > 最后更新于2025年4月12日，添加了来自My Little Karaoke (mylittlekaraoke.com)的大多数Official曲子的 lrc 与 ass 到mylittlekaraoke文件夹中  
 
-*由于mylittlekaraoke的歌词源文件通过节拍计时、分词，使用了词典组词也不能完全恢复完整单词，所以暂时不能直接使用~~（也不是不能用）~~*
-
 ## 关于音乐合集
 My Little Pony Friendship is Magic - Ultimate Soundtrack Collection v1.2是由一位叫做 [Narokath](https://www.youtube.com/@Narokath) 的马迷发布的合集。
 
