@@ -170,7 +170,7 @@
 - [x] 07 - Rules of Rarity (Reprise 2).mp3
 - [ ] 08 - Sisterhood.mp3
 - [ ] 09 - We'll Make Our Mark (Prelude).mp3
-- [ ] 10 - The Vote.mp3
+- [x] 10 - The Vote.mp3
 - [ ] 11 - The Pony I Want to Be.flac
 - [ ] 12 - Light of Your Cutie Mark.flac
 - [ ] 13 - The Pony I Want to Be (Reprise).mp3
@@ -463,7 +463,7 @@
 - [ ] 15 - Right There in Front of Me (Instrumental).flac
 ## 2016 - Equestria Girls Legend of Everfree
 - [x] 01 - The Legend of Everfree.flac
-- [ ] 02 - The Midnight in Me.flac
+- [x] 02 - The Midnight in Me.flac
 - [ ] 03 - Embrace the Magic.flac
 - [ ] 04 - We Will Stand For Everfree.flac
 - [ ] 05 - Legend You Were Meant To Be.flac
