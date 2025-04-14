@@ -466,7 +466,7 @@
 - [x] 02 - The Midnight in Me.flac
 - [ ] 03 - Embrace the Magic.flac
 - [ ] 04 - We Will Stand For Everfree.flac
-- [ ] 05 - Legend You Were Meant To Be.flac
+- [x] 05 - Legend You Were Meant To Be.flac
 - [ ] 06 - Hope Shines Eternal.flac
 ### Extras
 - [ ] 01 - The Legend of Everfree (Demo).mp3
@@ -589,7 +589,7 @@
 - [ ] 04 - We Wish You a Merry Christmas.flac
 - [ ] 05 - Silent Night.flac
 - [ ] 06 - Twelve Days of Christmas.flac
-- [ ] 07 - Last Year I Got Coal for Christmas.flac
+- [x] 07 - Last Year I Got Coal for Christmas.flac
 - [ ] 08 - Jolly ol' St. Nick.flac
 - [ ] 09 - Days Gone By (Auld Lang Syne).flac
 ## My Little Pony Friendship is Magic - Credits
