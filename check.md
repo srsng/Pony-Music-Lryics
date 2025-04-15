@@ -365,7 +365,7 @@
 - [x] 03 - Equestria Girls (Cafeteria Song).flac
 - [ ] 04 - Time to Come Together.flac
 - [ ] 05 - This is Our Big Night.flac
-- [ ] 06 - A Friend for Life.flac
+- [x] 06 - A Friend for Life.flac
 - [ ] 07 - End Credtis.flac
 ### Extras
 - [ ] 02 - Opening Titles (Remix Instrumental).flac
