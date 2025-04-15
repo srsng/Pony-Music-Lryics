@@ -130,7 +130,7 @@
 - [ ] 07 - Super Duper Party Pony.flac
 - [x] 08 - Pinkie's Lament.flac
 - [ ] 09 - The Goof Off.flac
-- [ ] 10 - Cheese Confesses.flac
+- [x] 10 - Cheese Confesses.flac
 - [ ] 11 - Make a Wish (Extended Version).flac
 - [ ] 12 - Music in the Treetops.flac
 - [ ] 13 - Find the Music in You (Songs of Harmony).flac
