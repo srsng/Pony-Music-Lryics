@@ -5,8 +5,8 @@
 - [x] 01 - My Little Pony Theme Song.mp3
 - [x] 02 - Laughter Song.mp3
 - [x] 03 - Pinkie's Gala Fantasy Song.mp3
-- [ ] 04 - The Ticket Song.flac
-- [ ] 05 - Hop Skip and Jump.flac
+- [x] 04 - The Ticket Song.flac
+- [x] 05 - Hop Skip and Jump.flac
 - [x] 06 - Evil Enchantress (Pinkie Pie).flac
 - [x] 07 - Evil Enchantress (Fluttershy).flac
 - [x] 08 - Winter Wrap Up.mp3
@@ -18,7 +18,7 @@
 - [x] 14 - You Got to Share, You Got to Care.mp3
 - [x] 15 - So Many Wonders.mp3
 - [x] 16 - Pinkie Pie's Singing Telegram.mp3
-- [ ] 17 - At the Gala.mp3
+- [x] 17 - At the Gala.mp3
 - [x] 18 - I'm at the Grand Galloping Gala.mp3
 - [x] 19 - Pony Pokey.mp3
 ### Extras
@@ -47,7 +47,7 @@
 - [ ] 01 - My Little Pony Theme Song (Remastered).mp3
 - [x] 02 - Find A Pet Song.mp3
 - [x] 03 - Becoming Popular (The Pony Everypony Should Know).mp3
-- [ ] 04 - The Heart Carol.mp3
+- [x] 04 - The Heart Carol.mp3
 - [x] 05 - Happy Monthiversary.mp3
 - [x] 06 - Piggy Dance.mp3
 - [ ] 07 - The Flim Flam Brothers.mp3
