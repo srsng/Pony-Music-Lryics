@@ -3,13 +3,13 @@
 
 并不是所有歌曲都将会制作歌词文件，目前，提供歌词的歌曲范围不包含intrumental类型、demo类型、credits类型。
 
-所有歌词文件都已经上传，包括通过工具自动下载的与我手动调整过的，多数歌曲歌词还没有确定是否有效，具体确定可用的歌曲歌词请查看[check.md](./check.md)
+所有歌词文件都已经上传，包括但不限于通过工具自动下载的与我手动调整过的，多数歌曲歌词还没有精校，具体确定可用的歌曲歌词请查看[check.md](./check.md)
 
 
 > [!IMPORTANT]  
-> 最后更新于2025年4月12日，添加了来自My Little Karaoke (mylittlekaraoke.com)的大多数Official曲子的 lrc 与 ass 到mylittlekaraoke文件夹中  
+> 最后更新于2025年4月15日，添加了来自My Little Karaoke (mylittlekaraoke.com)的大多数Official曲子与Community的 lrc 与 ass 到mylittlekaraoke文件夹中  
 
-*mylittlekaraoke原始歌词文件不是ASS与LRC，而是我自行构建脚本转换来的，有部分细节解析错误，欢迎提issue*
+*mylittlekaraoke原始歌词文件不是ASS与LRC，而是我自行构建脚本转换来的，可能存在解析错误，欢迎提issue*
 
 ## 关于音乐合集
 My Little Pony Friendship is Magic - Ultimate Soundtrack Collection v1.2是由一位叫做 [Narokath](https://www.youtube.com/@Narokath) 的马迷发布的合集。
@@ -56,7 +56,7 @@ Contains Explicit Language! Viewer Discretion is advised! <br>
 ## 参与制作
 由于该音乐合集中的一部分音乐与常见网络音乐平台有所差异，所以部分歌词文件不能直接使用。
 
-自行制作的方式包括但不限于耳朵听手工打、使用Whisper模型（AI）及其相关软件。
+自行制作的方式包括但不限于耳朵听手工打、使用Whisper模型（AI）及相关软件。
 
 如果想要参与项目，提交PR前请看着歌词至少听一遍，以确保歌词正确、匹配
 
