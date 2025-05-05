@@ -177,7 +177,7 @@
 - [x] 14 - We'll Make Our Mark.mp3
 - [ ] 15 - Equestria, the Land I Love.mp3
 - [ ] 16 - The Spectacle.mp3
-- [ ] 17 - The Magic Inside.mp3
+- [x] 17 - The Magic Inside.mp3
 - [x] 18 - Equestria, the Land I Love (Reprise).mp3
 - [ ] 19 - Friends Are Always There For You.flac
 ### Extras
@@ -243,7 +243,7 @@
 ## 2017a - My Little Pony Friendship is Magic - Season 7
 - [x] 01 - Best Friends Until the End of Time.flac
 - [x] 02 - Battle for Sugar Belle.flac
-- [ ] 03 - You're In My Head Like a Catchy Song.flac
+- [x] 03 - You're In My Head Like a Catchy Song.flac
 - [x] 04 - Flawless.flac
 - [x] 05 - Blank Flanks Forever.flac
 ### Extras
@@ -267,7 +267,7 @@
 - [ ] 03 - I'm the Friend You Need.flac
 - [ ] 04 - Time to Be Awesome.flac
 - [x] 05 - One Small Thing.flac
-- [ ] 06 - Open Up Your Eyes.flac
+- [x] 06 - Open Up Your Eyes.flac
 - [ ] 07 - Rainbow.flac
 - [ ] 08 - Off To See The World.flac
 - [ ] 09 - Thank You For Being A Friend.flac

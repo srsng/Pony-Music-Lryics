@@ -7,7 +7,7 @@
 
 
 > [!IMPORTANT]  
-> 最后更新于2025年4月16日，添加了来自My Little Karaoke (mylittlekaraoke.com)的大多数Official曲子与Community的 lrc 与 ass 到mylittlekaraoke文件夹中  
+> 较大更新(2025年4月16日)，添加了来自My Little Karaoke (mylittlekaraoke.com)的大多数Official曲子与Community的 lrc 与 ass 到mylittlekaraoke文件夹中  
 
 *mylittlekaraoke原始歌词文件不是ASS与LRC，而是我自行构建脚本转换来的，可能存在解析错误，欢迎提issue*
 
