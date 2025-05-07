@@ -1,12 +1,11 @@
 # Extras/
 
+# 一些临时歌词文件
 *.txt
 *副本.lrc
 * copy.lrc
 temp*.lrc
 00*.lrc
-*.html
-*.srt
 
 # Demo与Instrumental
 *Demo*
@@ -16,6 +15,9 @@ temp*.lrc
 *.mp3
 *.flac
 
+# 视频
+*.mp4
+
 # 封面
 *.jpg
 *.png
@@ -24,6 +26,18 @@ temp*.lrc
 *.pdf
 *.zip
 
-
+# lrc工具脚本目录
 lrc-tools/
 *.temp.lrc
+
+# 仅包含mylittlekaraoke的Downloads与Official
+mylittlekaraoke/*
+!/mylittlekaraoke/Downloads/
+!/mylittlekaraoke/Official/
+
+
+# 无关文件
+*.html
+*.srt
+*.txt~
+*.UPDATED
