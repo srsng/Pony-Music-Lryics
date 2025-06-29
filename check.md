@@ -363,7 +363,7 @@
 - [ ] 01 - Opening Titles (Remix).flac
 - [ ] 02 - This Strange World.flac
 - [x] 03 - Equestria Girls (Cafeteria Song).flac
-- [ ] 04 - Time to Come Together.flac
+- [x] 04 - Time to Come Together.flac
 - [ ] 05 - This is Our Big Night.flac
 - [x] 06 - A Friend for Life.flac
 - [ ] 07 - End Credtis.flac
@@ -428,7 +428,7 @@
 - [ ] 22 - Shine Like Rainbows (Instrumental).flac
 ## 2014c - Equestria Girls Rainbow Rocks Encore Shorts
 - [ ] 01 - My Past is Not Today.flac
-- [ ] 02 - Friendship Through the Ages.flac
+- [x] 02 - Friendship Through the Ages.flac
 - [ ] 03 - Life is a Runway.flac
 ### Extras
 - [ ] 01 - My Past is Not Today (Piano Demo).mp3
@@ -465,7 +465,7 @@
 - [x] 01 - The Legend of Everfree.flac
 - [x] 02 - The Midnight in Me.flac
 - [ ] 03 - Embrace the Magic.flac
-- [ ] 04 - We Will Stand For Everfree.flac
+- [x] 04 - We Will Stand For Everfree.flac
 - [x] 05 - Legend You Were Meant To Be.flac
 - [ ] 06 - Hope Shines Eternal.flac
 ### Extras
