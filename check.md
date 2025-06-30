@@ -464,7 +464,7 @@
 ## 2016 - Equestria Girls Legend of Everfree
 - [x] 01 - The Legend of Everfree.flac
 - [x] 02 - The Midnight in Me.flac
-- [ ] 03 - Embrace the Magic.flac
+- [x] 03 - Embrace the Magic.flac
 - [x] 04 - We Will Stand For Everfree.flac
 - [x] 05 - Legend You Were Meant To Be.flac
 - [ ] 06 - Hope Shines Eternal.flac
