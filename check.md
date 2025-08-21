@@ -90,14 +90,14 @@
 - [ ] 02 - The Ballad of the Crystal Empire.mp3
 - [ ] 03 - The Success Song.mp3
 - [ ] 04 - Babs Seed.mp3
-- [ ] 05 - Raise This Barn.flac
+- [x] 05 - Raise This Barn.flac
 - [ ] 06 - Morning in Ponyville.mp3
 - [ ] 07 - What My Cutie Mark Is Telling Me.mp3
 - [ ] 08 - I've Got to Find a Way.mp3
 - [x] 09 - A True, True Friend.flac
 - [ ] 10 - Celestia's Ballad.mp3
 - [ ] 11 - Behold, Princess Twilight Sparkle.mp3
-- [ ] 12 - Life in Equestria.mp3
+- [x] 12 - Life in Equestria.mp3
 ### Extras
 - [ ] 01 - The Failure Song (Demo).mp3
 - [ ] 02 - The Ballad of the Crystal Empire (Demo).mp3
