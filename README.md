@@ -1,19 +1,20 @@
 # Pony Music Lryics
+
 这个项目围绕由Narokath发布的MLP音乐合集（My Little Pony Friendship is Magic - Ultimate Soundtrack Collection v1.2），收集或制作歌词文件，供广大马迷使用。
 
 并不是所有歌曲都将会制作歌词文件，目前，提供歌词的歌曲范围不包含intrumental类型、demo类型、credits类型。
 
 所有歌词文件都已经上传，包括但不限于通过工具自动下载的与我手动调整过的，多数歌曲歌词还没有精校，具体确定可用的歌曲歌词请查看[check.md](./check.md)
 
-
 > [!IMPORTANT]  
 > 较大更新(2025年4月16日)，添加了来自My Little Karaoke (mylittlekaraoke.com)的大多数Official曲子与Community的 lrc 与 ass 到mylittlekaraoke文件夹中  (目前ass有问题)
 
 *mylittlekaraoke原始歌词文件不是ASS与LRC，而是我自行构建脚本转换来的，可能存在解析错误，欢迎提issue*
 
-*[mylittlekaraoke](mylittlekaraoke.com)是一款小马同人游戏，有大多官曲以及众多同人曲包，都支持卡拉OK。除了mylittlekaraoke，还有一个相似的游戏[ponytone](ponytone.online),在线版本，支持多人，提供的主要内容相同*
+*[mylittlekaraoke](mylittlekaraoke.com)是一款小马同人游戏，有大多官曲以及众多同人曲包，都支持卡拉OK。除了mylittlekaraoke，还有一个相似的游戏 [ponytone](https://ponytone.online/),在线版本，支持多人，提供的主要内容相同*
 
 ## 关于音乐合集
+
 My Little Pony Friendship is Magic - Ultimate Soundtrack Collection v1.2是由一位叫做 [Narokath](https://www.youtube.com/@Narokath) 的马迷发布的合集。
 
 <details>
@@ -51,11 +52,13 @@ Contains Explicit Language! Viewer Discretion is advised! <br>
 国内可以参考：EquestriaCN文章[(link)](https://www.equestriacn.com/2021/02/resources-download-pony-official-song-resources-integration.html)，包含一些该音乐包的介绍与下载途径。
 
 ## 使用方式
+
 本项目的目录结构与音乐合集完全相同，所有的歌词与歌曲名称相同，如果是foobar2000播放器或potplayer播放器，复制进去后再播放音乐会自动读取。
 
 建议的播放器：foobar2000（网络自行搜索，或github搜索foobox版本）、[MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2).
 
 ## 参与制作
+
 由于该音乐合集中的一部分音乐与常见网络音乐平台有所差异，所以部分歌词文件不能直接使用。
 
 自行制作的方式包括但不限于耳朵听手工打、使用Whisper模型（AI）及相关软件。
@@ -65,6 +68,7 @@ Contains Explicit Language! Viewer Discretion is advised! <br>
 歌词可以参考`灰机 mlp wiki`、`fandom mlp wiki`等网站。
 
 ### 格式
+
 基本三要素：音乐名，歌手名，歌词文件制作者（署名），放在歌词文件最开头，与歌词正文部分用一个空行分隔
 
 ```lrc
@@ -85,7 +89,6 @@ Contains Explicit Language! Viewer Discretion is advised! <br>
   2. 这个角色当前歌词多于一句（成段）：角色名方括号包裹，单独成句，放在这段歌词第一句之前
 
 具体可以参考已经完善的歌词，歌词文件示例：
-
 
 ```lrc
 [ti:My Little Pony Theme Song]
