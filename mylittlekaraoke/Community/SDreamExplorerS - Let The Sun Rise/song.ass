@@ -1,73 +1,80 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Let The Sun Rise (SDreamExplorerS cover)
+Artist: Morgsch
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:18.83,0:00:22.04,DEFAULT,,0,0,0,,{\kf25}Let{\kf49} the{\kf31} sun{\kf170} rise
-Dialogue: 0,0:00:22.70,0:00:25.37,DEFAULT,,0,0,0,,{\kf25}O{\kf19}pen{\kf19} up{\kf19} the{\kf140} skies
-Dialogue: 0,0:00:26.57,0:00:28.93,DEFAULT,,0,0,0,,{\kf19}Clear{\kf19} the{\kf37} clouds{\kf19} a{\kf109}way
-Dialogue: 0,0:00:30.26,0:00:32.62,DEFAULT,,0,0,0,,{\kf19}Bring{\kf19} on{\kf19} a{\kf31} bright{\kf31} new{\kf67} day
-Dialogue: 0,0:00:34.26,0:00:37.22,DEFAULT,,0,0,0,,{\kf25}Let{\kf43} the{\kf31} sun{\kf140} rise
-Dialogue: 0,0:00:38.19,0:00:40.73,DEFAULT,,0,0,0,,{\kf25}O{\kf19}pen{\kf19} up{\kf19} the{\kf128} skies
-Dialogue: 0,0:00:42.06,0:00:44.36,DEFAULT,,0,0,0,,{\kf19}Clear{\kf19} the{\kf37} clouds{\kf19} a{\kf103}way
-Dialogue: 0,0:00:45.75,0:00:48.29,DEFAULT,,0,0,0,,{\kf19}Bring{\kf19} on{\kf19} a{\kf31} bright{\kf25} new{\kf85} day
-Dialogue: 0,0:00:49.74,0:00:52.52,DEFAULT,,0,0,0,,{\kf25}Let{\kf43} the{\kf31} sun{\kf121} rise
-Dialogue: 0,0:00:53.67,0:00:56.09,DEFAULT,,0,0,0,,{\kf19}O{\kf19}pen{\kf19} up{\kf19} the{\kf115} skies
-Dialogue: 0,0:00:57.60,0:00:59.84,DEFAULT,,0,0,0,,{\kf19}Clear{\kf19} the{\kf31} clouds{\kf19} a{\kf103}way
-Dialogue: 0,0:01:01.17,0:01:03.71,DEFAULT,,0,0,0,,{\kf19}Bring{\kf25} on{\kf19} a{\kf31} bright{\kf31} new{\kf79} day
-Dialogue: 0,0:01:19.32,0:01:23.91,DEFAULT,,0,0,0,,{\kf460}Ooh
-Dialogue: 0,0:01:35.83,0:01:37.46,DEFAULT,,0,0,0,,{\kf19}Bring{\kf19} on{\kf19} the{\kf37} dawn{\kf43} there's
-Dialogue: 0,0:01:37.70,0:01:39.22,DEFAULT,,0,0,0,,{\kf19}No{\kf19} time{\kf19} to{\kf31} yawn{\kf25} get
-Dialogue: 0,0:01:39.46,0:01:40.67,DEFAULT,,0,0,0,,{\kf19}Your{\kf19} mor{\kf19}ning{\kf19} cof{\kf25}fee
-Dialogue: 0,0:01:40.91,0:01:42.60,DEFAULT,,0,0,0,,{\kf19}And{\kf19} trot{\kf19} a{\kf19}long{\kf19} be{\kf19}side{\kf25} me
-Dialogue: 0,0:01:43.09,0:01:45.32,DEFAULT,,0,0,0,,{\kf31}There's{\kf19} so{\kf19} much{\kf19} to{\kf37} do{\kf19} to{\kf31}day
-Dialogue: 0,0:01:45.51,0:01:47.14,DEFAULT,,0,0,0,,{\kf19}No{\kf19} time{\kf19} to{\kf37} stop{\kf19} and{\kf19} play
-Dialogue: 0,0:01:47.32,0:01:48.47,DEFAULT,,0,0,0,,{\kf13}Let's{\kf13} run{\kf25} this{\kf19} king{\kf25}dom
-Dialogue: 0,0:01:48.65,0:01:50.35,DEFAULT,,0,0,0,,{\kf19}With{\kf19} all{\kf19} our{\kf19} wits{\kf19} and{\kf19} wis{\kf25}dom
-Dialogue: 0,0:01:51.31,0:01:52.89,DEFAULT,,0,0,0,,{\kf19}End{\kf19}ing{\kf19} the{\kf31} night{\kf37} get
-Dialogue: 0,0:01:53.01,0:01:54.70,DEFAULT,,0,0,0,,{\kf19}The{\kf19} tim{\kf19}ing{\kf19} just{\kf31} right{\kf25} let
-Dialogue: 0,0:01:54.94,0:01:56.15,DEFAULT,,0,0,0,,{\kf19}Your{\kf19} heart{\kf19}beat{\kf19} guide{\kf25} you
-Dialogue: 0,0:01:56.39,0:01:58.15,DEFAULT,,0,0,0,,{\kf19}The{\kf19} po{\kf19}wers{\kf19} right{\kf19} in{\kf19}side{\kf31} you
-Dialogue: 0,0:01:58.81,0:02:00.75,DEFAULT,,0,0,0,,{\kf19}It's{\kf19} time{\kf19} to{\kf19} let{\kf37} day{\kf19} be{\kf25}gin
-Dialogue: 0,0:02:00.93,0:02:02.62,DEFAULT,,0,0,0,,{\kf19}Spread{\kf19} your{\kf19} wings{\kf25} lift{\kf19} your{\kf19} chin
-Dialogue: 0,0:02:02.87,0:02:03.77,DEFAULT,,0,0,0,,{\kf19}Chan{\kf19}nel{\kf19} ma{\kf19}gic
-Dialogue: 0,0:02:04.14,0:02:05.77,DEFAULT,,0,0,0,,{\kf19}Let's{\kf25} see{\kf13} the{\kf19} light{\kf13} fan{\kf19}tas{\kf25}tic
-Dialogue: 0,0:02:07.22,0:02:10.30,DEFAULT,,0,0,0,,{\kf25}Let{\kf55} the{\kf31} sun{\kf158} rise
-Dialogue: 0,0:02:11.15,0:02:13.63,DEFAULT,,0,0,0,,{\kf19}O{\kf19}pen{\kf19} up{\kf19} the{\kf128} skies
-Dialogue: 0,0:02:15.02,0:02:17.32,DEFAULT,,0,0,0,,{\kf19}Clear{\kf19} the{\kf31} clouds{\kf19} a{\kf109}way
-Dialogue: 0,0:02:18.65,0:02:21.19,DEFAULT,,0,0,0,,{\kf19}Bring{\kf19} on{\kf19} a{\kf25} bright{\kf25} new{\kf85} day
-Dialogue: 0,0:02:22.70,0:02:25.67,DEFAULT,,0,0,0,,{\kf19}Let{\kf43} the{\kf37} sun{\kf146} rise
-Dialogue: 0,0:02:26.64,0:02:29.24,DEFAULT,,0,0,0,,{\kf19}O{\kf19}pen{\kf25} up{\kf19} the{\kf140} skies
-Dialogue: 0,0:02:30.51,0:02:32.68,DEFAULT,,0,0,0,,{\kf19}Clear{\kf19} the{\kf31} clouds{\kf19} a{\kf97}way
-Dialogue: 0,0:02:34.14,0:02:36.74,DEFAULT,,0,0,0,,{\kf19}Bring{\kf19} on{\kf19} a{\kf25} bright{\kf31} new{\kf91} day
-Dialogue: 0,0:02:53.25,0:02:54.76,DEFAULT,,0,0,0,,{\kf19}Wipe{\kf19} out{\kf19} the{\kf25} dark{\kf31} with
-Dialogue: 0,0:02:55.00,0:02:56.76,DEFAULT,,0,0,0,,{\kf13}A{\kf19} light{\kf19} that's{\kf19} so{\kf31} stark,{\kf37} lift
-Dialogue: 0,0:02:56.94,0:02:58.15,DEFAULT,,0,0,0,,{\kf13}The{\kf25} grey{\kf13} ho{\kf13}ri{\kf31}zon
-Dialogue: 0,0:02:58.39,0:02:59.96,DEFAULT,,0,0,0,,{\kf19}Watch{\kf13} lit{\kf13}tle{\kf19} po{\kf13}nies{\kf25} ris{\kf19}in'
-Dialogue: 0,0:03:00.99,0:03:02.74,DEFAULT,,0,0,0,,{\kf19}Find{\kf19} your{\kf19} own{\kf43} star{\kf31} e{\kf13}ven
-Dialogue: 0,0:03:02.99,0:03:04.38,DEFAULT,,0,0,0,,{\kf13}Though{\kf19} it's{\kf19} so{\kf31} far{\kf25} reach
-Dialogue: 0,0:03:04.62,0:03:05.71,DEFAULT,,0,0,0,,{\kf19}And{\kf19} find{\kf19} your{\kf13} ta{\kf19}lent
-Dialogue: 0,0:03:06.19,0:03:07.64,DEFAULT,,0,0,0,,{\kf13}I{\kf19} know{\kf13} it's{\kf19} quite{\kf13} a{\kf19} chal{\kf19}lenge
-Dialogue: 0,0:03:08.49,0:03:10.49,DEFAULT,,0,0,0,,{\kf19}Let's{\kf19} make{\kf19} it{\kf19} a{\kf37} ra{\kf19}diant{\kf31} sky
-Dialogue: 0,0:03:10.67,0:03:12.42,DEFAULT,,0,0,0,,{\kf19}Pink{\kf19} and{\kf19} o{\kf25}range{\kf19} sun{\kf31}rise
-Dialogue: 0,0:03:12.66,0:03:13.39,DEFAULT,,0,0,0,,{\kf19}In{\kf19}can{\kf13}des{\kf13}cent
-Dialogue: 0,0:03:13.81,0:03:15.32,DEFAULT,,0,0,0,,{\kf19}With{\kf19} clouds{\kf19} all{\kf19} ef{\kf19}fer{\kf13}ves{\kf13}cent
-Dialogue: 0,0:03:16.47,0:03:18.17,DEFAULT,,0,0,0,,{\kf19}Chang{\kf19}ing{\kf19} the{\kf37} gra{\kf19}vi{\kf25}ty
-Dialogue: 0,0:03:18.41,0:03:20.04,DEFAULT,,0,0,0,,{\kf25}Just{\kf19} come{\kf19} and{\kf31} stand{\kf19} with{\kf13} me
-Dialogue: 0,0:03:20.35,0:03:21.37,DEFAULT,,0,0,0,,{\kf19}Wind{\kf19}swept{\kf19} pas{\kf31}tels
-Dialogue: 0,0:03:22.28,0:03:23.43,DEFAULT,,0,0,0,,{\kf19}Spar{\kf13}kl{\kf19}ing{\kf37} spells
-Dialogue: 0,0:03:55.55,0:03:58.99,DEFAULT,,0,0,0,,{\kf19}Let{\kf55} the{\kf25} sun{\kf194} rise
-Dialogue: 0,0:03:59.48,0:04:02.14,DEFAULT,,0,0,0,,{\kf19}O{\kf19}pen{\kf25} up{\kf19} the{\kf140} skies
-Dialogue: 0,0:04:03.35,0:04:05.71,DEFAULT,,0,0,0,,{\kf19}Clear{\kf19} the{\kf37} clouds{\kf19} a{\kf115}way
-Dialogue: 0,0:04:06.98,0:04:09.46,DEFAULT,,0,0,0,,{\kf19}Bring{\kf19} on{\kf19} a{\kf31} bright{\kf31} new{\kf79} day
-Dialogue: 0,0:04:11.09,0:04:14.48,DEFAULT,,0,0,0,,{\kf19}Let{\kf49} the{\kf31} sun{\kf194} rise
-Dialogue: 0,0:04:14.96,0:04:17.56,DEFAULT,,0,0,0,,{\kf19}O{\kf19}pen{\kf31} up{\kf19} the{\kf134} skies
-Dialogue: 0,0:04:18.83,0:04:21.13,DEFAULT,,0,0,0,,{\kf19}Clear{\kf25} the{\kf31} clouds{\kf25} a{\kf103}way
-Dialogue: 0,0:04:22.52,0:04:25.12,DEFAULT,,0,0,0,,{\kf19}Bring{\kf19} on{\kf19} a{\kf31} bright{\kf31} new{\kf97} day
-Dialogue: 0,0:04:53.19,0:04:56.09,DEFAULT,,0,0,0,,{\kf19}Let{\kf19} the{\kf31} sun{\kf67} rise{\kf13}~{\kf13}~{\kf79}~
+Dialogue: 0,0:00:18.84,0:00:22.04,DEFAULT,,0,0,0,,{\r}{\kf29}Let{\kf57} the{\kf36} sun{\kf199} rise
+Dialogue: 0,0:00:22.71,0:00:25.37,DEFAULT,,0,0,0,,{\r}{\kf30}O{\kf22}pen{\kf22} up{\kf22} the{\kf170} skies
+Dialogue: 0,0:00:26.58,0:00:28.94,DEFAULT,,0,0,0,,{\r}{\kf21}Clear{\kf21} the{\kf43} clouds{\kf21} a{\kf130}way
+Dialogue: 0,0:00:30.27,0:00:32.63,DEFAULT,,0,0,0,,{\r}{\kf24}Bring{\kf24} on{\kf24} a{\kf39} bright{\kf39} new{\kf86} day
+Dialogue: 0,0:00:34.26,0:00:37.23,DEFAULT,,0,0,0,,{\r}{\kf30}Let{\kf53} the{\kf38} sun{\kf175} rise
+Dialogue: 0,0:00:38.19,0:00:40.73,DEFAULT,,0,0,0,,{\r}{\kf30}O{\kf22}pen{\kf22} up{\kf22} the{\kf158} skies
+Dialogue: 0,0:00:42.06,0:00:44.36,DEFAULT,,0,0,0,,{\r}{\kf22}Clear{\kf22} the{\kf43} clouds{\kf22} a{\kf121}way
+Dialogue: 0,0:00:45.75,0:00:48.29,DEFAULT,,0,0,0,,{\r}{\kf24}Bring{\kf24} on{\kf24} a{\kf40} bright{\kf32} new{\kf110} day
+Dialogue: 0,0:00:49.75,0:00:52.53,DEFAULT,,0,0,0,,{\r}{\kf31}Let{\kf54} the{\kf39} sun{\kf154} rise
+Dialogue: 0,0:00:53.68,0:00:56.10,DEFAULT,,0,0,0,,{\r}{\kf23}O{\kf23}pen{\kf23} up{\kf23} the{\kf150} skies
+Dialogue: 0,0:00:57.61,0:00:59.85,DEFAULT,,0,0,0,,{\r}{\kf22}Clear{\kf22} the{\kf36} clouds{\kf22} a{\kf122}way
+Dialogue: 0,0:01:01.18,0:01:03.72,DEFAULT,,0,0,0,,{\r}{\kf23}Bring{\kf31} on{\kf23} a{\kf38} bright{\kf38} new{\kf101} day
+Dialogue: 0,0:01:19.32,0:01:23.92,DEFAULT,,0,0,0,,{\r}{\kf460}Ooh
+Dialogue: 0,0:01:35.83,0:01:37.47,DEFAULT,,0,0,0,,{\r}{\kf22}Bring{\kf22} on{\kf22} the{\kf44} dawn{\kf53} there's
+Dialogue: 0,0:01:37.71,0:01:39.22,DEFAULT,,0,0,0,,{\r}{\kf25}No{\kf25} time{\kf25} to{\kf42} yawn{\kf34} get
+Dialogue: 0,0:01:39.46,0:01:40.67,DEFAULT,,0,0,0,,{\r}{\kf23}Your{\kf23} mor{\kf23}ning{\kf23} cof{\kf29}fee
+Dialogue: 0,0:01:40.91,0:01:42.61,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf23} trot{\kf23} a{\kf23}long{\kf23} be{\kf23}side{\kf31} me
+Dialogue: 0,0:01:43.09,0:01:45.33,DEFAULT,,0,0,0,,{\r}{\kf40}There's{\kf24} so{\kf24} much{\kf24} to{\kf48} do{\kf24} to{\kf40}day
+Dialogue: 0,0:01:45.51,0:01:47.14,DEFAULT,,0,0,0,,{\r}{\kf23}No{\kf23} time{\kf23} to{\kf47} stop{\kf23} and{\kf24} play
+Dialogue: 0,0:01:47.33,0:01:48.48,DEFAULT,,0,0,0,,{\r}{\kf15}Let's{\kf15} run{\kf31} this{\kf23} king{\kf31}dom
+Dialogue: 0,0:01:48.66,0:01:50.35,DEFAULT,,0,0,0,,{\r}{\kf23}With{\kf23} all{\kf23} our{\kf23} wits{\kf23} and{\kf23} wis{\kf31}dom
+Dialogue: 0,0:01:51.32,0:01:52.89,DEFAULT,,0,0,0,,{\r}{\kf24}End{\kf24}ing{\kf24} the{\kf39} night{\kf46} get
+Dialogue: 0,0:01:53.01,0:01:54.70,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf24} tim{\kf24}ing{\kf24} just{\kf40} right{\kf33} let
+Dialogue: 0,0:01:54.95,0:01:56.16,DEFAULT,,0,0,0,,{\r}{\kf23}Your{\kf23} heart{\kf23}beat{\kf23} guide{\kf29} you
+Dialogue: 0,0:01:56.40,0:01:58.15,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf23} po{\kf23}wers{\kf23} right{\kf23} in{\kf23}side{\kf37} you
+Dialogue: 0,0:01:58.82,0:02:00.75,DEFAULT,,0,0,0,,{\r}{\kf23}It's{\kf23} time{\kf23} to{\kf23} let{\kf47} day{\kf23} be{\kf32}gin
+Dialogue: 0,0:02:00.93,0:02:02.63,DEFAULT,,0,0,0,,{\r}{\kf27}Spread{\kf27} your{\kf27} wings{\kf36} lift{\kf27} your{\kf25} chin
+Dialogue: 0,0:02:02.87,0:02:03.78,DEFAULT,,0,0,0,,{\r}{\kf23}Chan{\kf23}nel{\kf23} ma{\kf22}gic
+Dialogue: 0,0:02:04.14,0:02:05.77,DEFAULT,,0,0,0,,{\r}{\kf23}Let's{\kf31} see{\kf16} the{\kf23} light{\kf16} fan{\kf23}tas{\kf31}tic
+Dialogue: 0,0:02:07.23,0:02:10.31,DEFAULT,,0,0,0,,{\r}{\kf28}Let{\kf63} the{\kf35} sun{\kf182} rise
+Dialogue: 0,0:02:11.16,0:02:13.64,DEFAULT,,0,0,0,,{\r}{\kf23}O{\kf23}pen{\kf23} up{\kf23} the{\kf156} skies
+Dialogue: 0,0:02:15.03,0:02:17.33,DEFAULT,,0,0,0,,{\r}{\kf22}Clear{\kf22} the{\kf36} clouds{\kf22} a{\kf128}way
+Dialogue: 0,0:02:18.66,0:02:21.20,DEFAULT,,0,0,0,,{\r}{\kf25}Bring{\kf25} on{\kf25} a{\kf33} bright{\kf33} new{\kf113} day
+Dialogue: 0,0:02:22.71,0:02:25.67,DEFAULT,,0,0,0,,{\r}{\kf22}Let{\kf52} the{\kf44} sun{\kf178} rise
+Dialogue: 0,0:02:26.64,0:02:29.24,DEFAULT,,0,0,0,,{\r}{\kf22}O{\kf22}pen{\kf29} up{\kf22} the{\kf165} skies
+Dialogue: 0,0:02:30.51,0:02:32.69,DEFAULT,,0,0,0,,{\r}{\kf22}Clear{\kf22} the{\kf36} clouds{\kf22} a{\kf116}way
+Dialogue: 0,0:02:34.14,0:02:36.74,DEFAULT,,0,0,0,,{\r}{\kf24}Bring{\kf24} on{\kf24} a{\kf32} bright{\kf39} new{\kf117} day
+Dialogue: 0,0:02:53.25,0:02:54.77,DEFAULT,,0,0,0,,{\r}{\kf25}Wipe{\kf25} out{\kf25} the{\kf34} dark{\kf42} with
+Dialogue: 0,0:02:55.01,0:02:56.76,DEFAULT,,0,0,0,,{\r}{\kf16}A{\kf24} light{\kf24} that's{\kf24} so{\kf40} stark,{\kf47} lift
+Dialogue: 0,0:02:56.94,0:02:58.15,DEFAULT,,0,0,0,,{\r}{\kf16}The{\kf32} grey{\kf16} ho{\kf16}ri{\kf41}zon
+Dialogue: 0,0:02:58.39,0:02:59.97,DEFAULT,,0,0,0,,{\r}{\kf25}Watch{\kf17} lit{\kf17}tle{\kf25} po{\kf17}nies{\kf33} ris{\kf23}in'
+Dialogue: 0,0:03:01.00,0:03:02.75,DEFAULT,,0,0,0,,{\r}{\kf23}Find{\kf23} your{\kf23} own{\kf53} star{\kf38} e{\kf15}ven
+Dialogue: 0,0:03:02.99,0:03:04.38,DEFAULT,,0,0,0,,{\r}{\kf16}Though{\kf25} it's{\kf25} so{\kf41} far{\kf32} reach
+Dialogue: 0,0:03:04.62,0:03:05.71,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf23} find{\kf23} your{\kf16} ta{\kf24}lent
+Dialogue: 0,0:03:06.20,0:03:07.65,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf24} know{\kf16} it's{\kf24} quite{\kf16} a{\kf24} chal{\kf25}lenge
+Dialogue: 0,0:03:08.50,0:03:10.49,DEFAULT,,0,0,0,,{\r}{\kf23}Let's{\kf23} make{\kf23} it{\kf23} a{\kf46} ra{\kf23}diant{\kf39} sky
+Dialogue: 0,0:03:10.67,0:03:12.43,DEFAULT,,0,0,0,,{\r}{\kf25}Pink{\kf25} and{\kf25} o{\kf33}range{\kf25} sun{\kf42}rise
+Dialogue: 0,0:03:12.67,0:03:13.39,DEFAULT,,0,0,0,,{\r}{\kf22}In{\kf22}can{\kf15}des{\kf14}cent
+Dialogue: 0,0:03:13.82,0:03:15.33,DEFAULT,,0,0,0,,{\r}{\kf24}With{\kf24} clouds{\kf24} all{\kf24} ef{\kf24}fer{\kf16}ves{\kf15}cent
+Dialogue: 0,0:03:16.48,0:03:18.17,DEFAULT,,0,0,0,,{\r}{\kf23}Chang{\kf23}ing{\kf23} the{\kf46} gra{\kf23}vi{\kf31}ty
+Dialogue: 0,0:03:18.41,0:03:20.05,DEFAULT,,0,0,0,,{\r}{\kf33}Just{\kf24} come{\kf24} and{\kf41} stand{\kf24} with{\kf17} me
+Dialogue: 0,0:03:20.35,0:03:21.38,DEFAULT,,0,0,0,,{\r}{\kf22}Wind{\kf22}swept{\kf22} pas{\kf37}tels
+Dialogue: 0,0:03:22.29,0:03:23.43,DEFAULT,,0,0,0,,{\r}{\kf25}Spar{\kf16}kl{\kf25}ing{\kf49} spells
+Dialogue: 0,0:03:55.55,0:03:59.00,DEFAULT,,0,0,0,,{\r}{\kf22}Let{\kf65} the{\kf29} sun{\kf229} rise
+Dialogue: 0,0:03:59.48,0:04:02.14,DEFAULT,,0,0,0,,{\r}{\kf22}O{\kf22}pen{\kf30} up{\kf22} the{\kf170} skies
+Dialogue: 0,0:04:03.35,0:04:05.71,DEFAULT,,0,0,0,,{\r}{\kf21}Clear{\kf21} the{\kf42} clouds{\kf21} a{\kf131}way
+Dialogue: 0,0:04:06.98,0:04:09.46,DEFAULT,,0,0,0,,{\r}{\kf23}Bring{\kf23} on{\kf23} a{\kf39} bright{\kf39} new{\kf101} day
+Dialogue: 0,0:04:11.10,0:04:14.48,DEFAULT,,0,0,0,,{\r}{\kf21}Let{\kf56} the{\kf35} sun{\kf227} rise
+Dialogue: 0,0:04:14.97,0:04:17.57,DEFAULT,,0,0,0,,{\r}{\kf22}O{\kf22}pen{\kf36} up{\kf22} the{\kf158} skies
+Dialogue: 0,0:04:18.84,0:04:21.14,DEFAULT,,0,0,0,,{\r}{\kf21}Clear{\kf28} the{\kf35} clouds{\kf28} a{\kf118}way
+Dialogue: 0,0:04:22.53,0:04:25.13,DEFAULT,,0,0,0,,{\r}{\kf22}Bring{\kf22} on{\kf22} a{\kf37} bright{\kf37} new{\kf120} day
+Dialogue: 0,0:04:53.19,0:04:56.10,DEFAULT,,0,0,0,,{\r}{\kf22}Let{\kf22} the{\kf37} sun{\kf82} rise{\kf15}~{\kf15}~{\kf97}~

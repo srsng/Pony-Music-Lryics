@@ -1,34 +1,41 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Applejack Does an Amazing Flap
+Artist: Squeaky Belle
+Original Timing: mylittlekaraoke.com by RustyHeadphones
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.47,0:00:03.34,DEFAULT,,0,0,0,,{\kf13}See,{\kf13} this{\kf19} gate{\kf13} here{\kf13} used{\kf13} to{\kf19} squeak{\kf19} so{\kf32} loud
-Dialogue: 0,0:00:03.34,0:00:04.78,DEFAULT,,0,0,0,,{\kf13}The{\kf13} pigs{\kf13} would{\kf19} run{\kf7} to{\kf7} the{\kf7} o{\kf7}ther{\kf13} side{\kf7} of{\kf13} the
-Dialogue: 0,0:00:04.84,0:00:05.77,DEFAULT,,0,0,0,,{\kf19}pen{\kf7} and{\kf13} ne{\kf7}ver{\kf7} come{\kf25} out!
-Dialogue: 0,0:00:06.21,0:00:08.33,DEFAULT,,0,0,0,,{\kf7}So{\kf13} I{\kf13} o{\kf7}pen{\kf13} and{\kf19} close{\kf13} it{\kf7} to{\kf13} let{\kf7} them{\kf13} know{\kf7} it's{\kf32} safe
-Dialogue: 0,0:00:08.77,0:00:10.32,DEFAULT,,0,0,0,,{\kf13}But{\kf7} it{\kf13} does{\kf7}n't{\kf25} squeak{\kf13} a{\kf7}ny{\kf32} more
-Dialogue: 0,0:00:10.82,0:00:11.76,DEFAULT,,0,0,0,,{\kf19}Of{\kf25} course{\kf25} not!
-Dialogue: 0,0:00:12.07,0:00:13.25,DEFAULT,,0,0,0,,{\kf13}I{\kf13} fixed{\kf13} that{\kf19} a{\kf13}ges{\kf13} a{\kf13}go
-Dialogue: 0,0:00:15.06,0:00:17.55,DEFAULT,,0,0,0,,{\kf38}Then,{\kf13} I{\kf13} re{\kf13}a{\kf25}lized{\kf13} put{\kf7}ting{\kf7} a{\kf13} lit{\kf13}tle{\kf19} fright{\kf7} in{\kf7}to{\kf13} 'em
-Dialogue: 0,0:00:35.75,0:00:38.25,DEFAULT,,0,0,0,,{\kf7}It's{\kf19} late{\kf44} and{\kf38} I'm{\kf38} a{\kf44}wake
-Dialogue: 0,0:00:40.05,0:00:42.30,DEFAULT,,0,0,0,,{\kf32}Sta{\kf32}ring{\kf13} at{\kf32} the{\kf50} wall
-Dialogue: 0,0:00:43.98,0:00:46.54,DEFAULT,,0,0,0,,{\kf32}O{\kf25}pen{\kf19} up{\kf44} my{\kf44} win{\kf32}dow
-Dialogue: 0,0:00:47.97,0:00:50.28,DEFAULT,,0,0,0,,{\kf19}Head{\kf25} floats{\kf32} out{\kf19} the{\kf44} door
-Dialogue: 0,0:00:52.02,0:00:54.20,DEFAULT,,0,0,0,,{\kf13}No{\kf44} one{\kf19} else{\kf32} a{\kf44}round
-Dialogue: 0,0:00:55.45,0:00:58.25,DEFAULT,,0,0,0,,{\kf13}The{\kf19} shim{\kf19}mer{\kf25} takes{\kf13} my{\kf19}-y{\kf57} eye
-Dialogue: 0,0:01:00.44,0:01:02.06,DEFAULT,,0,0,0,,{\kf25}I{\kf19} lift{\kf25} my{\kf32} he-
-Dialogue: 0,0:01:07.98,0:01:10.22,DEFAULT,,0,0,0,,{\kf25}Feel{\kf38} my{\kf32} weight{\kf19} in{\kf38} front
-Dialogue: 0,0:01:12.03,0:01:14.40,DEFAULT,,0,0,0,,{\kf19}Fol{\kf44}low{\kf38}ing{\kf19} the{\kf63} sound
-Dialogue: 0,0:01:16.08,0:01:18.14,DEFAULT,,0,0,0,,{\kf25}Moves{\kf19} a{\kf19}way{\kf32} so{\kf38} fast
-Dialogue: 0,0:01:20.07,0:01:22.31,DEFAULT,,0,0,0,,{\kf32}Fall{\kf44} down{\kf38} to{\kf19} the{\kf50} ground
-Dialogue: 0,0:01:23.81,0:01:26.24,DEFAULT,,0,0,0,,{\kf13}I{\kf25} know{\kf19} there's{\kf32} more{\kf19} to{\kf44} come
-Dialogue: 0,0:01:28.05,0:01:30.17,DEFAULT,,0,0,0,,{\kf25}Jump{\kf32} back{\kf13} to{\kf19} my{\kf38} feet
-Dialogue: 0,0:01:31.48,0:01:34.97,DEFAULT,,0,0,0,,{\kf13}Now{\kf19} I{\kf38} on{\kf25}ly{\kf19} see{\kf19} a{\kf50}head{\kf25} of{\kf32} me
-Dialogue: 0,0:01:36.03,0:01:37.96,DEFAULT,,0,0,0,,{\kf19}Cha{\kf32}sing{\kf38} down{\kf7} the{\kf19} street
+Dialogue: 0,0:00:01.48,0:00:03.35,DEFAULT,,0,0,0,,{\r}{\kf16}See,{\kf16} this{\kf23} gate{\kf16} here{\kf16} used{\kf16} to{\kf23} squeak{\kf23} so{\kf38} loud
+Dialogue: 0,0:00:03.35,0:00:04.78,DEFAULT,,0,0,0,,{\r}{\kf16}The{\kf16} pigs{\kf16} would{\kf24} run{\kf10} to{\kf10} the{\kf10} o{\kf10}ther{\kf16} side{\kf10} of{\kf10} the
+Dialogue: 0,0:00:04.84,0:00:05.78,DEFAULT,,0,0,0,,{\r}{\kf23}pen{\kf10} and{\kf16} ne{\kf10}ver{\kf10} come{\kf24} out!
+Dialogue: 0,0:00:06.21,0:00:08.33,DEFAULT,,0,0,0,,{\r}{\kf10}So{\kf17} I{\kf17} o{\kf10}pen{\kf17} and{\kf25} close{\kf17} it{\kf10} to{\kf17} let{\kf10} them{\kf17} know{\kf10} it's{\kf35} safe
+Dialogue: 0,0:00:08.77,0:00:10.33,DEFAULT,,0,0,0,,{\r}{\kf17}But{\kf10} it{\kf17} does{\kf10}n't{\kf35} squeak{\kf17} a{\kf10}ny{\kf40} more
+Dialogue: 0,0:00:10.83,0:00:11.76,DEFAULT,,0,0,0,,{\r}{\kf25}Of{\kf34} course{\kf34} not!
+Dialogue: 0,0:00:12.07,0:00:13.26,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} fixed{\kf16} that{\kf24} a{\kf16}ges{\kf16} a{\kf14}go
+Dialogue: 0,0:00:15.07,0:00:17.56,DEFAULT,,0,0,0,,{\r}{\kf48}Then,{\kf16} I{\kf16} re{\kf16}a{\kf32}lized{\kf16} put{\kf10}ting{\kf10} a{\kf16} lit{\kf16}tle{\kf24} fright{\kf10} in{\kf10}to{\kf10} 'em
+Dialogue: 0,0:00:35.76,0:00:38.25,DEFAULT,,0,0,0,,{\r}{\kf10}It's{\kf25} late{\kf58} and{\kf50} I'm{\kf50} a{\kf56}wake
+Dialogue: 0,0:00:40.06,0:00:42.30,DEFAULT,,0,0,0,,{\r}{\kf45}Sta{\kf45}ring{\kf18} at{\kf45} the{\kf71} wall
+Dialogue: 0,0:00:43.99,0:00:46.54,DEFAULT,,0,0,0,,{\r}{\kf41}O{\kf33}pen{\kf25} up{\kf58} my{\kf58} win{\kf41}dow
+Dialogue: 0,0:00:47.97,0:00:50.28,DEFAULT,,0,0,0,,{\r}{\kf31}Head{\kf42} floats{\kf52} out{\kf31} the{\kf75} door
+Dialogue: 0,0:00:52.03,0:00:54.21,DEFAULT,,0,0,0,,{\r}{\kf18}No{\kf64} one{\kf27} else{\kf45} a{\kf64}round
+Dialogue: 0,0:00:55.45,0:00:58.26,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf32} shim{\kf32}mer{\kf43} takes{\kf22} my{\kf32}-y{\kf97} eye
+Dialogue: 0,0:01:00.44,0:01:02.06,DEFAULT,,0,0,0,,{\r}{\kf41}I{\kf30} lift{\kf41} my{\kf50} he-
+Dialogue: 0,0:01:07.98,0:01:10.23,DEFAULT,,0,0,0,,{\r}{\kf37}Feel{\kf56} my{\kf47} weight{\kf28} in{\kf56} front
+Dialogue: 0,0:01:12.03,0:01:14.40,DEFAULT,,0,0,0,,{\r}{\kf25}Fol{\kf57}low{\kf49}ing{\kf25} the{\kf81} sound
+Dialogue: 0,0:01:16.08,0:01:18.14,DEFAULT,,0,0,0,,{\r}{\kf39}Moves{\kf29} a{\kf29}way{\kf49} so{\kf60} fast
+Dialogue: 0,0:01:20.07,0:01:22.32,DEFAULT,,0,0,0,,{\r}{\kf39}Fall{\kf54} down{\kf46} to{\kf23} the{\kf62} ground
+Dialogue: 0,0:01:23.81,0:01:26.24,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf41} know{\kf30} there's{\kf51} more{\kf30} to{\kf71} come
+Dialogue: 0,0:01:28.05,0:01:30.17,DEFAULT,,0,0,0,,{\r}{\kf42}Jump{\kf53} back{\kf21} to{\kf32} my{\kf64} feet
+Dialogue: 0,0:01:31.48,0:01:34.97,DEFAULT,,0,0,0,,{\r}{\kf18}Now{\kf28} I{\kf55} on{\kf37}ly{\kf28} see{\kf28} a{\kf73}head{\kf37} of{\kf45} me
+Dialogue: 0,0:01:36.03,0:01:37.96,DEFAULT,,0,0,0,,{\r}{\kf32}Cha{\kf54}sing{\kf64} down{\kf11} the{\kf32} street

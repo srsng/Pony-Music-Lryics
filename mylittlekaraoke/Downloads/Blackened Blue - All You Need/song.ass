@@ -1,53 +1,60 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: All You Need
+Artist: Blackened Blue
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:20.51,0:00:22.42,DEFAULT,,0,0,0,,{\kf2063}E{\kf2063}very{\kf2063}po{\kf2063}ny{\kf2066} thinks{\kf2066} you're{\kf2074} cra{\kf2089}zy
-Dialogue: 0,0:00:22.83,0:00:24.48,DEFAULT,,0,0,0,,{\kf2063}They{\kf2063} don't{\kf2063} know{\kf2063} what's{\kf2070} go{\kf2070}ing{\kf2085} on
-Dialogue: 0,0:00:25.34,0:00:27.18,DEFAULT,,0,0,0,,{\kf2063}Tell{\kf2063} them{\kf2063} all{\kf2063} your{\kf2066} po{\kf2066}tions{\kf2070} 'ple{\kf2085}nished
-Dialogue: 0,0:00:27.71,0:00:29.32,DEFAULT,,0,0,0,,{\kf2063}Yes{\kf2063}ter{\kf2063}day{\kf2063} they{\kf2063} used{\kf2063} to{\kf2066} be{\kf2089} gone
-Dialogue: 0,0:00:29.81,0:00:31.91,DEFAULT,,0,0,0,,{\kf2063}Am{\kf2063} I{\kf2066} just{\kf2063} a{\kf2070} piece{\kf2078} of{\kf2066} fic{\kf2081}tion
-Dialogue: 0,0:00:32.24,0:00:34.27,DEFAULT,,0,0,0,,{\kf2063}Feed{\kf2063}ing{\kf2066} in{\kf2063}to{\kf2074} your{\kf2074} ad{\kf2070}dic{\kf2078}tions
-Dialogue: 0,0:00:34.94,0:00:39.11,DEFAULT,,0,0,0,,{\kf2070}Or{\kf2070} am{\kf2074} I{\kf2070} the{\kf2074} re{\kf2066}al{\kf2074} thing{\kf2258}~?
-Dialogue: 0,0:00:39.71,0:00:43.94,DEFAULT,,0,0,0,,{\kf2093}I'm{\kf2066} all{\kf2089} you{\kf2321} need
-Dialogue: 0,0:00:44.51,0:00:49.12,DEFAULT,,0,0,0,,{\kf2089}Let's{\kf2070} see{\kf2089} you{\kf2096} try{\kf2070} and{\kf2070} es{\kf2089}cape{\kf2078} from{\kf2066}~{\kf2078} me{\kf2089}~
-Dialogue: 0,0:00:49.34,0:00:53.43,DEFAULT,,0,0,0,,{\kf2089}You'll{\kf2074} ne{\kf2070}ver{\kf2070} suc{\kf2310}ceed
-Dialogue: 0,0:00:54.14,0:01:00.52,DEFAULT,,0,0,0,,{\kf2089}An{\kf2078} ad{\kf2070}dict{\kf2070} is{\kf2093} all{\kf2096} you'll{\kf2093} e{\kf2078}ver{\kf2074}~{\kf2074} be{\kf2273}~
-Dialogue: 0,0:01:08.51,0:01:10.34,DEFAULT,,0,0,0,,{\kf2063}Let{\kf2063} me{\kf2063} lead{\kf2063} you{\kf2070} to{\kf2070} the{\kf2074} bot{\kf2081}tle
-Dialogue: 0,0:01:10.64,0:01:12.41,DEFAULT,,0,0,0,,{\kf2066}One{\kf2070} more{\kf2070} I{\kf2070} hear{\kf2070} you{\kf2078} say
-Dialogue: 0,0:01:13.01,0:01:15.11,DEFAULT,,0,0,0,,{\kf2063}I{\kf2063} can{\kf2063} feel{\kf2063} you{\kf2074} lie{\kf2078} to{\kf2070} your{\kf2078}self
-Dialogue: 0,0:01:15.44,0:01:17.09,DEFAULT,,0,0,0,,{\kf2066}I{\kf2070} heard{\kf2070} it{\kf2066} yes{\kf2063}ter{\kf2081}day
-Dialogue: 0,0:01:18.11,0:01:19.31,DEFAULT,,0,0,0,,{\kf2066}Who's{\kf2066} on{\kf2074} top{\kf2081} now?
-Dialogue: 0,0:01:20.21,0:01:21.74,DEFAULT,,0,0,0,,{\kf2063}Are{\kf2063} you{\kf2063} feel{\kf2063}ing{\kf2063} the{\kf2085} burn{\kf2081} now?
-Dialogue: 0,0:01:22.64,0:01:25.83,DEFAULT,,0,0,0,,{\kf2074}It's{\kf2074} time{\kf2070} you{\kf2070} got{\kf2085} used{\kf2070} to{\kf2160} me
-Dialogue: 0,0:01:27.71,0:01:31.94,DEFAULT,,0,0,0,,{\kf2093}I'm{\kf2066} all{\kf2089} you{\kf2321} need
-Dialogue: 0,0:01:32.51,0:01:37.12,DEFAULT,,0,0,0,,{\kf2089}Let's{\kf2070} see{\kf2089} you{\kf2096} try{\kf2070} and{\kf2070} es{\kf2089}cape{\kf2078} from{\kf2066}~{\kf2078} me{\kf2089}~
-Dialogue: 0,0:01:37.34,0:01:41.43,DEFAULT,,0,0,0,,{\kf2089}You'll{\kf2074} ne{\kf2070}ver{\kf2070} suc{\kf2310}ceed
-Dialogue: 0,0:01:42.14,0:01:46.68,DEFAULT,,0,0,0,,{\kf2089}An{\kf2078} ad{\kf2070}dict{\kf2070} is{\kf2093} all{\kf2096} you'll{\kf2093} e{\kf2078}ver{\kf2074}~{\kf2074} be{\kf2089}~
-Dialogue: 0,0:01:46.94,0:01:51.11,DEFAULT,,0,0,0,,{\kf2085}I'm{\kf2066} all{\kf2089} you{\kf2318} need
-Dialogue: 0,0:01:51.71,0:01:56.28,DEFAULT,,0,0,0,,{\kf2089}Let's{\kf2070} see{\kf2089} you{\kf2096} try{\kf2070} and{\kf2070} es{\kf2089}cape{\kf2078} from{\kf2066}~{\kf2078} me{\kf2085}~
-Dialogue: 0,0:01:56.51,0:02:00.59,DEFAULT,,0,0,0,,{\kf2089}You'll{\kf2074} ne{\kf2070}ver{\kf2070} suc{\kf2306}ceed
-Dialogue: 0,0:02:01.34,0:02:07.83,DEFAULT,,0,0,0,,{\kf2089}An{\kf2078} ad{\kf2070}dict{\kf2070} is{\kf2093} all{\kf2096} you'll{\kf2093} e{\kf2078}ver{\kf2089}~{\kf2239} be{\kf2078}~
-Dialogue: 0,0:02:25.64,0:02:27.18,DEFAULT,,0,0,0,,{\kf2066}A{\kf2081} part{\kf2081} of{\kf2089} you
-Dialogue: 0,0:02:28.01,0:02:29.58,DEFAULT,,0,0,0,,{\kf2070}I'll{\kf2085} al{\kf2078}ways{\kf2085} be
-Dialogue: 0,0:02:30.44,0:02:31.94,DEFAULT,,0,0,0,,{\kf2070}The{\kf2085} for{\kf2078}mer{\kf2085} you
-Dialogue: 0,0:02:32.81,0:02:34.31,DEFAULT,,0,0,0,,{\kf2070}They'll{\kf2085} ne{\kf2078}ver{\kf2081} see
-Dialogue: 0,0:02:35.24,0:02:36.74,DEFAULT,,0,0,0,,{\kf2066}A{\kf2081} part{\kf2078} of{\kf2085} you
-Dialogue: 0,0:02:37.61,0:02:39.14,DEFAULT,,0,0,0,,{\kf2070}I'll{\kf2085} al{\kf2078}ways{\kf2085} be
-Dialogue: 0,0:02:40.01,0:02:41.51,DEFAULT,,0,0,0,,{\kf2066}The{\kf2085} for{\kf2078}mer{\kf2081} you
-Dialogue: 0,0:02:42.41,0:02:43.64,DEFAULT,,0,0,0,,{\kf2066}They'll{\kf2070} ne{\kf2066}ver{\kf2085} see
-Dialogue: 0,0:03:03.71,0:03:07.94,DEFAULT,,0,0,0,,{\kf2093}I'm{\kf2066} all{\kf2089} you{\kf2321} need
-Dialogue: 0,0:03:08.51,0:03:13.08,DEFAULT,,0,0,0,,{\kf2089}Let's{\kf2070} see{\kf2089} you{\kf2093} try{\kf2070} and{\kf2070} es{\kf2089}cape{\kf2078} from{\kf2066}~{\kf2078} me{\kf2085}~
-Dialogue: 0,0:03:13.34,0:03:17.43,DEFAULT,,0,0,0,,{\kf2089}You'll{\kf2074} ne{\kf2070}ver{\kf2070} suc{\kf2310}ceed
-Dialogue: 0,0:03:18.14,0:03:22.64,DEFAULT,,0,0,0,,{\kf2089}An{\kf2078} ad{\kf2070}dict{\kf2070} is{\kf2093} all{\kf2096} you'll{\kf2093} e{\kf2078}ver{\kf2074}~{\kf2074} be{\kf2085}~
-Dialogue: 0,0:03:22.91,0:03:27.14,DEFAULT,,0,0,0,,{\kf2093}I'm{\kf2066} all{\kf2089} you{\kf2321} need
-Dialogue: 0,0:03:27.71,0:03:32.32,DEFAULT,,0,0,0,,{\kf2089}Let's{\kf2070} see{\kf2089} you{\kf2096} try{\kf2070} and{\kf2066} es{\kf2089}cape{\kf2078} from{\kf2066}~{\kf2078} me{\kf2089}~
-Dialogue: 0,0:03:32.54,0:03:36.63,DEFAULT,,0,0,0,,{\kf2089}You'll{\kf2074} ne{\kf2070}ver{\kf2070} suc{\kf2310}ceed
-Dialogue: 0,0:03:37.34,0:03:41.36,DEFAULT,,0,0,0,,{\kf2089}An{\kf2078} ad{\kf2070}dict{\kf2070} is{\kf2093} all{\kf2096} you'll{\kf2093} e{\kf2078}ver…{\kf2085}~
+Dialogue: 0,0:00:20.51,0:00:22.42,DEFAULT,,0,0,0,,{\r}{\kf16}E{\kf16}very{\kf16}po{\kf16}ny{\kf21} thinks{\kf21} you're{\kf32} cra{\kf53}zy
+Dialogue: 0,0:00:22.84,0:00:24.48,DEFAULT,,0,0,0,,{\r}{\kf16}They{\kf16} don't{\kf16} know{\kf16} what's{\kf27} go{\kf27}ing{\kf47} on
+Dialogue: 0,0:00:25.35,0:00:27.18,DEFAULT,,0,0,0,,{\r}{\kf16}Tell{\kf16} them{\kf16} all{\kf16} your{\kf22} po{\kf22}tions{\kf27} 'ple{\kf49}nished
+Dialogue: 0,0:00:27.71,0:00:29.32,DEFAULT,,0,0,0,,{\r}{\kf15}Yes{\kf15}ter{\kf15}day{\kf15} they{\kf15} used{\kf15} to{\kf20} be{\kf51} gone
+Dialogue: 0,0:00:29.81,0:00:31.91,DEFAULT,,0,0,0,,{\r}{\kf17}Am{\kf17} I{\kf23} just{\kf17} a{\kf28} piece{\kf40} of{\kf23} fic{\kf45}tion
+Dialogue: 0,0:00:32.25,0:00:34.27,DEFAULT,,0,0,0,,{\r}{\kf16}Feed{\kf16}ing{\kf22} in{\kf16}to{\kf33} your{\kf33} ad{\kf27}dic{\kf40}tions
+Dialogue: 0,0:00:34.95,0:00:39.11,DEFAULT,,0,0,0,,{\r}{\kf23}Or{\kf23} am{\kf27} I{\kf23} the{\kf27} re{\kf18}al{\kf27} thing{\kf248}~?
+Dialogue: 0,0:00:39.71,0:00:43.95,DEFAULT,,0,0,0,,{\r}{\kf48}I'm{\kf17} all{\kf44} you{\kf315} need
+Dialogue: 0,0:00:44.51,0:00:49.12,DEFAULT,,0,0,0,,{\r}{\kf54}Let's{\kf27} see{\kf54} you{\kf65} try{\kf27} and{\kf27} es{\kf54}cape{\kf38} from{\kf22}~{\kf38} me{\kf55}~
+Dialogue: 0,0:00:49.35,0:00:53.44,DEFAULT,,0,0,0,,{\r}{\kf43}You'll{\kf26} ne{\kf22}ver{\kf22} suc{\kf296}ceed
+Dialogue: 0,0:00:54.15,0:01:00.52,DEFAULT,,0,0,0,,{\r}{\kf46}An{\kf32} ad{\kf23}dict{\kf23} is{\kf50} all{\kf55} you'll{\kf50} e{\kf32}ver{\kf27}~{\kf27} be{\kf272}~
+Dialogue: 0,0:01:08.51,0:01:10.35,DEFAULT,,0,0,0,,{\r}{\kf15}Let{\kf15} me{\kf15} lead{\kf15} you{\kf26} to{\kf26} the{\kf31} bot{\kf41}tle
+Dialogue: 0,0:01:10.65,0:01:12.41,DEFAULT,,0,0,0,,{\r}{\kf23}One{\kf28} more{\kf28} I{\kf28} hear{\kf28} you{\kf41} say
+Dialogue: 0,0:01:13.01,0:01:15.11,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf17} can{\kf17} feel{\kf17} you{\kf34} lie{\kf40} to{\kf28} your{\kf40}self
+Dialogue: 0,0:01:15.45,0:01:17.10,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf28} heard{\kf28} it{\kf23} yes{\kf17}ter{\kf46}day
+Dialogue: 0,0:01:18.11,0:01:19.31,DEFAULT,,0,0,0,,{\r}{\kf22}Who's{\kf22} on{\kf33} top{\kf43} now?
+Dialogue: 0,0:01:20.21,0:01:21.75,DEFAULT,,0,0,0,,{\r}{\kf14}Are{\kf14} you{\kf14} feel{\kf14}ing{\kf14} the{\kf43} burn{\kf41} now?
+Dialogue: 0,0:01:22.65,0:01:25.83,DEFAULT,,0,0,0,,{\r}{\kf29}It's{\kf29} time{\kf25} you{\kf25} got{\kf44} used{\kf25} to{\kf142} me
+Dialogue: 0,0:01:27.71,0:01:31.95,DEFAULT,,0,0,0,,{\r}{\kf48}I'm{\kf17} all{\kf44} you{\kf315} need
+Dialogue: 0,0:01:32.51,0:01:37.12,DEFAULT,,0,0,0,,{\r}{\kf54}Let's{\kf27} see{\kf54} you{\kf65} try{\kf27} and{\kf27} es{\kf54}cape{\kf38} from{\kf22}~{\kf38} me{\kf55}~
+Dialogue: 0,0:01:37.35,0:01:41.44,DEFAULT,,0,0,0,,{\r}{\kf43}You'll{\kf26} ne{\kf22}ver{\kf22} suc{\kf296}ceed
+Dialogue: 0,0:01:42.15,0:01:46.69,DEFAULT,,0,0,0,,{\r}{\kf50}An{\kf35} ad{\kf25}dict{\kf25} is{\kf55} all{\kf61} you'll{\kf55} e{\kf35}ver{\kf30}~{\kf30} be{\kf53}~
+Dialogue: 0,0:01:46.95,0:01:51.11,DEFAULT,,0,0,0,,{\r}{\kf40}I'm{\kf18} all{\kf44} you{\kf314} need
+Dialogue: 0,0:01:51.71,0:01:56.28,DEFAULT,,0,0,0,,{\r}{\kf55}Let's{\kf27} see{\kf55} you{\kf65} try{\kf27} and{\kf27} es{\kf55}cape{\kf38} from{\kf22}~{\kf38} me{\kf49}~
+Dialogue: 0,0:01:56.51,0:02:00.60,DEFAULT,,0,0,0,,{\r}{\kf44}You'll{\kf26} ne{\kf22}ver{\kf22} suc{\kf295}ceed
+Dialogue: 0,0:02:01.35,0:02:07.83,DEFAULT,,0,0,0,,{\r}{\kf48}An{\kf34} ad{\kf24}dict{\kf24} is{\kf53} all{\kf58} you'll{\kf53} e{\kf34}ver{\kf48}~{\kf240} be{\kf33}~
+Dialogue: 0,0:02:25.65,0:02:27.19,DEFAULT,,0,0,0,,{\r}{\kf21}A{\kf41} part{\kf41} of{\kf51} you
+Dialogue: 0,0:02:28.01,0:02:29.59,DEFAULT,,0,0,0,,{\r}{\kf26}I'll{\kf47} al{\kf37}ways{\kf48} be
+Dialogue: 0,0:02:30.45,0:02:31.95,DEFAULT,,0,0,0,,{\r}{\kf25}The{\kf45} for{\kf35}mer{\kf45} you
+Dialogue: 0,0:02:32.81,0:02:34.31,DEFAULT,,0,0,0,,{\r}{\kf26}They'll{\kf47} ne{\kf36}ver{\kf41} see
+Dialogue: 0,0:02:35.25,0:02:36.75,DEFAULT,,0,0,0,,{\r}{\kf21}A{\kf43} part{\kf38} of{\kf48} you
+Dialogue: 0,0:02:37.61,0:02:39.15,DEFAULT,,0,0,0,,{\r}{\kf26}I'll{\kf46} al{\kf36}ways{\kf46} be
+Dialogue: 0,0:02:40.01,0:02:41.51,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf48} for{\kf38}mer{\kf43} you
+Dialogue: 0,0:02:42.41,0:02:43.65,DEFAULT,,0,0,0,,{\r}{\kf23}They'll{\kf28} ne{\kf23}ver{\kf50} see
+Dialogue: 0,0:03:03.71,0:03:07.95,DEFAULT,,0,0,0,,{\r}{\kf48}I'm{\kf17} all{\kf44} you{\kf315} need
+Dialogue: 0,0:03:08.51,0:03:13.09,DEFAULT,,0,0,0,,{\r}{\kf55}Let's{\kf28} see{\kf55} you{\kf61} try{\kf28} and{\kf28} es{\kf55}cape{\kf39} from{\kf22}~{\kf39} me{\kf48}~
+Dialogue: 0,0:03:13.35,0:03:17.44,DEFAULT,,0,0,0,,{\r}{\kf43}You'll{\kf26} ne{\kf22}ver{\kf22} suc{\kf296}ceed
+Dialogue: 0,0:03:18.15,0:03:22.65,DEFAULT,,0,0,0,,{\r}{\kf51}An{\kf35} ad{\kf25}dict{\kf25} is{\kf56} all{\kf61} you'll{\kf56} e{\kf35}ver{\kf30}~{\kf30} be{\kf46}~
+Dialogue: 0,0:03:22.91,0:03:27.15,DEFAULT,,0,0,0,,{\r}{\kf48}I'm{\kf17} all{\kf44} you{\kf315} need
+Dialogue: 0,0:03:27.71,0:03:32.32,DEFAULT,,0,0,0,,{\r}{\kf55}Let's{\kf27} see{\kf55} you{\kf66} try{\kf27} and{\kf22} es{\kf55}cape{\kf38} from{\kf22}~{\kf38} me{\kf56}~
+Dialogue: 0,0:03:32.55,0:03:36.63,DEFAULT,,0,0,0,,{\r}{\kf43}You'll{\kf26} ne{\kf22}ver{\kf22} suc{\kf296}ceed
+Dialogue: 0,0:03:37.35,0:03:41.36,DEFAULT,,0,0,0,,{\r}{\kf52}An{\kf36} ad{\kf26}dict{\kf26} is{\kf57} all{\kf62} you'll{\kf57} e{\kf36}ver…{\kf49}~

@@ -1,82 +1,89 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Pony Rock Anthem
+Artist: ShadyVox
+Original Timing: mylittlekaraoke.com by amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:17.98,0:00:18.78,DEFAULT,,0,0,0,,{\kf12}Po{\kf12}ny{\kf35} Rock!
-Dialogue: 0,0:00:21.67,0:00:22.13,DEFAULT,,0,0,0,,{\kf47}Yeah!
-Dialogue: 0,0:00:25.30,0:00:25.76,DEFAULT,,0,0,0,,{\kf47}Woo!
-Dialogue: 0,0:00:28.82,0:00:29.40,DEFAULT,,0,0,0,,{\kf12}Let's{\kf35} go!
-Dialogue: 0,0:00:29.98,0:00:33.21,DEFAULT,,0,0,0,,{\kf12}Scratch{\kf12} and{\kf12} Ne{\kf12}on's{\kf12} in{\kf12} the{\kf52} club{\kf12} to{\kf93}night
-Dialogue: 0,0:00:33.67,0:00:36.67,DEFAULT,,0,0,0,,{\kf24}Oh{\kf12}~{\kf12} yeah{\kf12} we're{\kf12} gon{\kf12}na{\kf12} have{\kf12} a{\kf12} good{\kf18}~{\kf70} time
-Dialogue: 0,0:00:37.59,0:00:40.59,DEFAULT,,0,0,0,,{\kf12}So{\kf12} grab{\kf12} some{\kf12} po{\kf12}ny{\kf52} don't{\kf12} be{\kf93} shy
-Dialogue: 0,0:00:41.05,0:00:44.17,DEFAULT,,0,0,0,,{\kf12}It's{\kf12} our{\kf12} job{\kf12} to{\kf12} make{\kf12} you{\kf29} feel{\kf12} al{\kf18}~{\kf81}right
-Dialogue: 0,0:00:44.98,0:00:47.80,DEFAULT,,0,0,0,,{\kf12}Let's{\kf12} raise{\kf12} the{\kf12} roof{\kf12} to{\kf52}night's{\kf12} the{\kf75} night
-Dialogue: 0,0:00:48.21,0:00:51.67,DEFAULT,,0,0,0,,{\kf12}We're{\kf12} gon{\kf12}na'{\kf12} par{\kf12}ty{\kf12} till{\kf12} the{\kf29} morn{\kf12}ing{\kf18}~{\kf93} light
-Dialogue: 0,0:00:52.36,0:00:55.19,DEFAULT,,0,0,0,,{\kf12}The{\kf12} house{\kf12} is{\kf12} hot{\kf12} the{\kf52} beat{\kf12} is{\kf75} tight
-Dialogue: 0,0:00:55.82,0:00:58.94,DEFAULT,,0,0,0,,{\kf12}We{\kf12} just{\kf12} wan{\kf12}na'{\kf12} see{\kf12} you{\kf12} shake{\kf12} it!
-Dialogue: 0,0:01:13.71,0:01:15.49,DEFAULT,,0,0,0,,{\kf6}The{\kf12} name's{\kf6} Ne{\kf6}on{\kf12} Lights{\kf6} and{\kf6} I{\kf6} wan{\kf6}na'{\kf6} see{\kf6} you{\kf6} shake{\kf6} it{\kf6} I'm
-Dialogue: 0,0:01:15.55,0:01:17.34,DEFAULT,,0,0,0,,{\kf6}the{\kf12} host{\kf6} of{\kf6} this{\kf6} par{\kf6}ty{\kf6} and{\kf6} I'm{\kf12} glad{\kf6} you{\kf6} could{\kf12} make{\kf6} it
-Dialogue: 0,0:01:17.40,0:01:19.01,DEFAULT,,0,0,0,,{\kf6}I've{\kf6} got{\kf6} the{\kf6} mu{\kf6}sic{\kf12} that{\kf12} booms{\kf6} show{\kf6} me{\kf6} what{\kf6} you've{\kf12} got
-Dialogue: 0,0:01:19.13,0:01:20.92,DEFAULT,,0,0,0,,{\kf12}Now{\kf6} do{\kf6} your{\kf12} thing{\kf12} girls{\kf12} and{\kf12} flaunt{\kf12} that{\kf18} plot
-Dialogue: 0,0:01:21.21,0:01:22.76,DEFAULT,,0,0,0,,{\kf6}On{\kf6} the{\kf12} dance{\kf12} floor{\kf12} is{\kf12} where{\kf12} we're{\kf6} liv{\kf6}ing
-Dialogue: 0,0:01:22.76,0:01:24.67,DEFAULT,,0,0,0,,{\kf6}You{\kf6} keep{\kf6} mov{\kf6}ing{\kf6} to{\kf6} the{\kf12} beat{\kf6} and{\kf6} the{\kf6} beat{\kf6} I'll{\kf6} keep{\kf6} de{\kf6}liv{\kf6}er{\kf6}ing
-Dialogue: 0,0:01:24.67,0:01:26.28,DEFAULT,,0,0,0,,{\kf12}Now{\kf12} that's{\kf6} a{\kf12} prom{\kf18}ise{\kf6} we're{\kf6} gon{\kf6}na'{\kf6} com{\kf6}mit
-Dialogue: 0,0:01:26.51,0:01:28.30,DEFAULT,,0,0,0,,{\kf12}Hey{\kf12} Vi{\kf12}nyl{\kf18} Scratch!{\kf12} Spin{\kf6} that={\kf6} at={\kf6} at={\kf6} at
-Dialogue: 0,0:01:28.36,0:01:31.71,DEFAULT,,0,0,0,,{\kf12}A{\kf12}yo{\kf12} what's{\kf24} up?{\kf12} I'm{\kf12} the{\kf12} oth{\kf12}er{\kf12} half{\kf12} half{\kf12} of{\kf12} this{\kf12} du{\kf12}o
-Dialogue: 0,0:01:31.82,0:01:35.17,DEFAULT,,0,0,0,,{\kf12}Got{\kf12} my{\kf29} bass{\kf12} can{\kf12}non{\kf12} set{\kf12} to{\kf12} ma={\kf12} ma={\kf12} max{\kf12} it's{\kf12} gon{\kf12}na'{\kf12} blow
-Dialogue: 0,0:01:35.28,0:01:36.32,DEFAULT,,0,0,0,,{\kf12}It's{\kf12} Po{\kf12}ny{\kf35} Rock!
-Dialogue: 0,0:01:36.90,0:01:39.55,DEFAULT,,0,0,0,,{\kf12}Yeah{\kf12} so{\kf12} get{\kf12} them{\kf35} tails{\kf12} a={\kf24} bounc{\kf6}ing{\kf6} and{\kf12} get{\kf12} them
-Dialogue: 0,0:01:39.67,0:01:43.36,DEFAULT,,0,0,0,,{\kf35}Hooves{\kf12} up{\kf12} in{\kf12} the{\kf12} air{\kf12} 'cause{\kf12} we{\kf12} are{\kf12} an{\kf18}nounc{\kf6}ing{\kf18} it{\kf35} is!
-Dialogue: 0,0:01:43.82,0:01:47.05,DEFAULT,,0,0,0,,{\kf12}Scratch{\kf12} and{\kf12} Ne{\kf12}on's{\kf12} in{\kf12} the{\kf52} club{\kf12} to{\kf93}night
-Dialogue: 0,0:01:47.51,0:01:50.51,DEFAULT,,0,0,0,,{\kf24}Oh{\kf12}~{\kf12} yeah{\kf12} we're{\kf12} gon{\kf12}na{\kf12} have{\kf12} a{\kf12} good{\kf18}~{\kf70} time
-Dialogue: 0,0:01:51.44,0:01:54.44,DEFAULT,,0,0,0,,{\kf12}So{\kf12} grab{\kf12} some{\kf12} po{\kf12}ny{\kf52} don't{\kf12} be{\kf93} shy
-Dialogue: 0,0:01:54.90,0:01:58.01,DEFAULT,,0,0,0,,{\kf12}It's{\kf12} our{\kf12} job{\kf12} to{\kf12} make{\kf12} you{\kf29} feel{\kf12} al{\kf18}~{\kf81}right
-Dialogue: 0,0:01:58.82,0:02:01.65,DEFAULT,,0,0,0,,{\kf12}Let's{\kf12} raise{\kf12} the{\kf12} roof{\kf12} to{\kf52}night's{\kf12} the{\kf75} night
-Dialogue: 0,0:02:02.05,0:02:05.51,DEFAULT,,0,0,0,,{\kf12}We're{\kf12} gon{\kf12}na'{\kf12} par{\kf12}ty{\kf12} till{\kf12} the{\kf29} morn{\kf12}ing{\kf18}~{\kf93} light
-Dialogue: 0,0:02:06.21,0:02:09.03,DEFAULT,,0,0,0,,{\kf12}The{\kf12} house{\kf12} is{\kf12} hot{\kf12} the{\kf52} beat{\kf12} is{\kf75} tight
-Dialogue: 0,0:02:09.67,0:02:12.78,DEFAULT,,0,0,0,,{\kf12}We{\kf12} just{\kf12} wan{\kf12}na'{\kf12} see{\kf12} you{\kf12} shake{\kf12} it!
-Dialogue: 0,0:02:14.74,0:02:16.30,DEFAULT,,0,0,0,,{\kf12}Eve{\kf12}ry{\kf12}day{\kf12} I'm{\kf12} par{\kf12}ty{\kf18}ing!
-Dialogue: 0,0:02:31.36,0:02:32.92,DEFAULT,,0,0,0,,{\kf6}Pu={\kf6} pu={\kf6} pu={\kf6} pu={\kf6} put{\kf6} the{\kf12} lights{\kf12} on{\kf18} me
-Dialogue: 0,0:02:33.03,0:02:34.88,DEFAULT,,0,0,0,,{\kf12}It's{\kf12} time{\kf6} for{\kf6} the{\kf12} on{\kf12}ly{\kf12} true{\kf6} par{\kf6}ty{\kf12} po{\kf6}ny
-Dialogue: 0,0:02:34.88,0:02:36.78,DEFAULT,,0,0,0,,{\kf6}It's{\kf6} Pink{\kf6}ie{\kf12} Pie{\kf12} here{\kf6} and{\kf6} I{\kf6} know{\kf6} you{\kf12} all{\kf12} missed{\kf12} me
-Dialogue: 0,0:02:36.84,0:02:38.57,DEFAULT,,0,0,0,,{\kf6}But{\kf12} hey{\kf12} wait!{\kf12} There's{\kf12} room{\kf12} for{\kf24} three
-Dialogue: 0,0:02:38.74,0:02:39.90,DEFAULT,,0,0,0,,{\kf12}Let's{\kf12} get{\kf18} some{\kf6} bal{\kf35}loons!
-Dialogue: 0,0:02:40.59,0:02:41.74,DEFAULT,,0,0,0,,{\kf12}Let's{\kf12} turn{\kf12} up{\kf6} the{\kf35} bass!
-Dialogue: 0,0:02:42.44,0:02:43.53,DEFAULT,,0,0,0,,{\kf12}Gum{\kf12}my's{\kf12} here{\kf6} with{\kf29} me!
-Dialogue: 0,0:02:44.28,0:02:45.61,DEFAULT,,0,0,0,,{\kf12}Now{\kf6} it's{\kf12} a{\kf12} par{\kf41}ty!
-Dialogue: 0,0:02:46.13,0:02:47.69,DEFAULT,,0,0,0,,{\kf18}Get{\kf29} up{\kf18} get{\kf29} down
-Dialogue: 0,0:02:47.98,0:02:49.53,DEFAULT,,0,0,0,,{\kf12}Put{\kf12} your{\kf12} hooves{\kf12} up{\kf12} to{\kf6} the{\kf29} sound
-Dialogue: 0,0:02:49.82,0:02:51.38,DEFAULT,,0,0,0,,{\kf18}Jump{\kf29} up{\kf18} stomp{\kf29} down
-Dialogue: 0,0:02:51.67,0:02:53.23,DEFAULT,,0,0,0,,{\kf12}Eve{\kf12}ry{\kf12} po{\kf12}ny{\kf12} hit{\kf6} the{\kf29} ground
-Dialogue: 0,0:02:53.51,0:02:55.07,DEFAULT,,0,0,0,,{\kf18}Get{\kf29} up{\kf18} get{\kf29} down
-Dialogue: 0,0:02:55.36,0:02:56.92,DEFAULT,,0,0,0,,{\kf12}Put{\kf12} your{\kf12} hooves{\kf12} up{\kf12} to{\kf6} the{\kf29} sound
-Dialogue: 0,0:02:57.21,0:02:58.76,DEFAULT,,0,0,0,,{\kf18}Jump{\kf29} up{\kf18} stomp{\kf29} down
-Dialogue: 0,0:02:59.05,0:03:00.61,DEFAULT,,0,0,0,,{\kf12}Eve{\kf12}ry{\kf12} po{\kf12}ny{\kf12} hit{\kf6} the{\kf29} ground
-Dialogue: 0,0:03:00.90,0:03:02.46,DEFAULT,,0,0,0,,{\kf12}Eve{\kf12}ry{\kf12} po{\kf12}ny{\kf12} hit{\kf6} the{\kf29} ground
-Dialogue: 0,0:03:02.74,0:03:04.30,DEFAULT,,0,0,0,,{\kf12}Eve{\kf12}ry{\kf12} po{\kf12}ny{\kf12} hit{\kf6} the{\kf29} ground
-Dialogue: 0,0:03:04.59,0:03:06.15,DEFAULT,,0,0,0,,{\kf18}Get{\kf29} up{\kf18} get{\kf29} down
-Dialogue: 0,0:03:06.44,0:03:07.99,DEFAULT,,0,0,0,,{\kf18}Get{\kf29} up{\kf18} get{\kf29} down
-Dialogue: 0,0:03:08.28,0:03:09.84,DEFAULT,,0,0,0,,{\kf12}Put{\kf12} your{\kf12} hooves{\kf12} up{\kf12} to{\kf6} the{\kf29} sound
-Dialogue: 0,0:03:10.13,0:03:11.69,DEFAULT,,0,0,0,,{\kf12}Put{\kf12} your{\kf12} hooves{\kf12} up{\kf12} to{\kf6} the{\kf29} sound
-Dialogue: 0,0:03:11.98,0:03:13.71,DEFAULT,,0,0,0,,{\kf12}Put{\kf12} your{\kf12} hooves{\kf12} up{\kf12} put{\kf12} your{\kf12} hooves{\kf12} up
-Dialogue: 0,0:03:13.82,0:03:15.55,DEFAULT,,0,0,0,,{\kf12}Put{\kf12} your{\kf12} hooves{\kf12} up{\kf12} put{\kf12} your{\kf12} hooves{\kf12} up
-Dialogue: 0,0:03:16.13,0:03:19.19,DEFAULT,,0,0,0,,{\kf12}Eve{\kf12}ry{\kf12}po{\kf12}ny's{\kf12} in{\kf12} the{\kf52} club{\kf12} to{\kf75}night
-Dialogue: 0,0:03:19.59,0:03:22.82,DEFAULT,,0,0,0,,{\kf12}We're{\kf12} gon{\kf12}na'{\kf12} keep{\kf12} on{\kf12} hav{\kf12}ing{\kf29} a{\kf12} good{\kf18}~{\kf70} time
-Dialogue: 0,0:03:23.74,0:03:26.74,DEFAULT,,0,0,0,,{\kf12}We{\kf12} got{\kf12} some{\kf12} help{\kf12} from{\kf52} Pink{\kf12}ie{\kf93} Pie
-Dialogue: 0,0:03:27.21,0:03:31.36,DEFAULT,,0,0,0,,{\kf35}With{\kf12} Vi{\kf12}nyl{\kf12} Scratch{\kf12} and{\kf29} Ne{\kf29}on-{\kf29}on-{\kf29}on{\kf93} Lights
-Dialogue: 0,0:03:32.28,0:03:34.07,DEFAULT,,0,0,0,,{\kf70}Woah{\kf70}~{\kf24}~{\kf18}~
-Dialogue: 0,0:03:35.98,0:03:37.76,DEFAULT,,0,0,0,,{\kf70}Woah{\kf70}~{\kf24}~{\kf18}~
-Dialogue: 0,0:03:39.67,0:03:41.46,DEFAULT,,0,0,0,,{\kf70}Woah{\kf70}~{\kf24}~{\kf18}~
-Dialogue: 0,0:03:43.36,0:03:45.15,DEFAULT,,0,0,0,,{\kf70}Woah{\kf70}~{\kf24}~{\kf18}~
-Dialogue: 0,0:03:47.05,0:03:49.07,DEFAULT,,0,0,0,,{\kf12}Eve{\kf12}ry{\kf12}day{\kf12} we're{\kf12} par-{\kf12}par{\kf12}ty{\kf18}ing!
-Dialogue: 0,0:03:51.67,0:03:56.17,DEFAULT,,0,0,0,,{\kf12}Put{\kf12} your{\kf12} hooves{\kf12} up{\kf12} put{\kf12} your{\kf12} hooves{\kf12} up
-Dialogue: 0,0:03:59.05,0:04:03.55,DEFAULT,,0,0,0,,{\kf12}Put{\kf12} your{\kf12} hooves{\kf12} up{\kf12} put{\kf12} your{\kf12} hooves{\kf12} up
-Dialogue: 0,0:04:06.44,0:04:10.94,DEFAULT,,0,0,0,,{\kf12}Put{\kf12} your{\kf12} hooves{\kf12} up{\kf12} put{\kf12} your{\kf12} hooves{\kf12} up
-Dialogue: 0,0:04:13.82,0:04:18.32,DEFAULT,,0,0,0,,{\kf12}Put{\kf12} your{\kf12} hooves{\kf12} up{\kf12} put{\kf12} your{\kf12} hooves{\kf12} up
+Dialogue: 0,0:00:17.98,0:00:18.79,DEFAULT,,0,0,0,,{\r}{\kf16}Po{\kf16}ny{\kf49} Rock!
+Dialogue: 0,0:00:21.67,0:00:22.13,DEFAULT,,0,0,0,,{\r}{\kf46}Yeah!
+Dialogue: 0,0:00:25.31,0:00:25.77,DEFAULT,,0,0,0,,{\r}{\kf46}Woo!
+Dialogue: 0,0:00:28.83,0:00:29.40,DEFAULT,,0,0,0,,{\r}{\kf14}Let's{\kf44} go!
+Dialogue: 0,0:00:29.98,0:00:33.21,DEFAULT,,0,0,0,,{\r}{\kf17}Scratch{\kf17} and{\kf17} Ne{\kf17}on's{\kf17} in{\kf17} the{\kf75} club{\kf17} to{\kf129}night
+Dialogue: 0,0:00:33.67,0:00:36.67,DEFAULT,,0,0,0,,{\r}{\kf34}Oh{\kf17}~{\kf17} yeah{\kf17} we're{\kf17} gon{\kf17}na{\kf17} have{\kf17} a{\kf17} good{\kf26}~{\kf104} time
+Dialogue: 0,0:00:37.60,0:00:40.60,DEFAULT,,0,0,0,,{\r}{\kf16}So{\kf16} grab{\kf16} some{\kf16} po{\kf16}ny{\kf73} don't{\kf16} be{\kf131} shy
+Dialogue: 0,0:00:41.06,0:00:44.17,DEFAULT,,0,0,0,,{\r}{\kf17}It's{\kf17} our{\kf17} job{\kf17} to{\kf17} make{\kf17} you{\kf43} feel{\kf17} al{\kf26}~{\kf124}right
+Dialogue: 0,0:00:44.98,0:00:47.81,DEFAULT,,0,0,0,,{\r}{\kf17}Let's{\kf17} raise{\kf17} the{\kf17} roof{\kf17} to{\kf75}night's{\kf17} the{\kf106} night
+Dialogue: 0,0:00:48.21,0:00:51.67,DEFAULT,,0,0,0,,{\r}{\kf17}We're{\kf17} gon{\kf17}na'{\kf17} par{\kf17}ty{\kf17} till{\kf17} the{\kf43} morn{\kf17}ing{\kf26}~{\kf141} light
+Dialogue: 0,0:00:52.36,0:00:55.19,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf17} house{\kf17} is{\kf17} hot{\kf17} the{\kf75} beat{\kf17} is{\kf106} tight
+Dialogue: 0,0:00:55.83,0:00:58.94,DEFAULT,,0,0,0,,{\r}{\kf39}We{\kf39} just{\kf39} wan{\kf39}na'{\kf39} see{\kf39} you{\kf39} shake{\kf39} it!
+Dialogue: 0,0:01:13.71,0:01:15.50,DEFAULT,,0,0,0,,{\r}{\kf11}The{\kf22} name's{\kf11} Ne{\kf11}on{\kf22} Lights{\kf11} and{\kf11} I{\kf11} wan{\kf11}na'{\kf11} see{\kf11} you{\kf11} shake{\kf11} it{\kf14} I'm
+Dialogue: 0,0:01:15.56,0:01:17.35,DEFAULT,,0,0,0,,{\r}{\kf11}the{\kf22} host{\kf11} of{\kf11} this{\kf11} par{\kf11}ty{\kf11} and{\kf11} I'm{\kf22} glad{\kf11} you{\kf11} could{\kf22} make{\kf14} it
+Dialogue: 0,0:01:17.40,0:01:19.02,DEFAULT,,0,0,0,,{\r}{\kf11}I've{\kf11} got{\kf11} the{\kf11} mu{\kf11}sic{\kf22} that{\kf22} booms{\kf11} show{\kf11} me{\kf11} what{\kf11} you've{\kf19} got
+Dialogue: 0,0:01:19.13,0:01:20.92,DEFAULT,,0,0,0,,{\r}{\kf21}Now{\kf11} do{\kf11} your{\kf21} thing{\kf21} girls{\kf21} and{\kf21} flaunt{\kf21} that{\kf31} plot
+Dialogue: 0,0:01:21.21,0:01:22.77,DEFAULT,,0,0,0,,{\r}{\kf11}On{\kf11} the{\kf22} dance{\kf22} floor{\kf22} is{\kf22} where{\kf22} we're{\kf11} liv{\kf13}ing
+Dialogue: 0,0:01:22.77,0:01:24.67,DEFAULT,,0,0,0,,{\r}{\kf11}You{\kf11} keep{\kf11} mov{\kf11}ing{\kf11} to{\kf11} the{\kf22} beat{\kf11} and{\kf11} the{\kf11} beat{\kf11} I'll{\kf11} keep{\kf11} de{\kf11}liv{\kf11}er{\kf14}ing
+Dialogue: 0,0:01:24.67,0:01:26.29,DEFAULT,,0,0,0,,{\r}{\kf22}Now{\kf22} that's{\kf11} a{\kf22} prom{\kf32}ise{\kf11} we're{\kf11} gon{\kf11}na'{\kf11} com{\kf10}mit
+Dialogue: 0,0:01:26.52,0:01:28.31,DEFAULT,,0,0,0,,{\r}{\kf24}Hey{\kf24} Vi{\kf24}nyl{\kf36} Scratch!{\kf24} Spin{\kf12} that={\kf12} at={\kf12} at={\kf11} at
+Dialogue: 0,0:01:28.36,0:01:31.71,DEFAULT,,0,0,0,,{\r}{\kf22}A{\kf22}yo{\kf22} what's{\kf45} up?{\kf22} I'm{\kf22} the{\kf22} oth{\kf22}er{\kf22} half{\kf22} half{\kf22} of{\kf22} this{\kf22} du{\kf26}o
+Dialogue: 0,0:01:31.83,0:01:35.17,DEFAULT,,0,0,0,,{\r}{\kf22}Got{\kf22} my{\kf54} bass{\kf22} can{\kf22}non{\kf22} set{\kf22} to{\kf22} ma={\kf22} ma={\kf22} max{\kf22} it's{\kf22} gon{\kf22}na'{\kf17} blow
+Dialogue: 0,0:01:35.29,0:01:36.33,DEFAULT,,0,0,0,,{\r}{\kf17}It's{\kf17} Po{\kf17}ny{\kf53} Rock!
+Dialogue: 0,0:01:36.90,0:01:39.56,DEFAULT,,0,0,0,,{\r}{\kf20}Yeah{\kf20} so{\kf20} get{\kf20} them{\kf61} tails{\kf20} a={\kf41} bounc{\kf10}ing{\kf10} and{\kf20} get{\kf23} them
+Dialogue: 0,0:01:39.67,0:01:43.36,DEFAULT,,0,0,0,,{\r}{\kf63}Hooves{\kf21} up{\kf21} in{\kf21} the{\kf21} air{\kf21} 'cause{\kf21} we{\kf21} are{\kf21} an{\kf32}nounc{\kf11}ing{\kf32} it{\kf63} is!
+Dialogue: 0,0:01:43.83,0:01:47.06,DEFAULT,,0,0,0,,{\r}{\kf17}Scratch{\kf17} and{\kf17} Ne{\kf17}on's{\kf17} in{\kf17} the{\kf75} club{\kf17} to{\kf129}night
+Dialogue: 0,0:01:47.52,0:01:50.52,DEFAULT,,0,0,0,,{\r}{\kf34}Oh{\kf17}~{\kf17} yeah{\kf17} we're{\kf17} gon{\kf17}na{\kf17} have{\kf17} a{\kf17} good{\kf26}~{\kf104} time
+Dialogue: 0,0:01:51.44,0:01:54.44,DEFAULT,,0,0,0,,{\r}{\kf16}So{\kf16} grab{\kf16} some{\kf16} po{\kf16}ny{\kf73} don't{\kf16} be{\kf131} shy
+Dialogue: 0,0:01:54.90,0:01:58.02,DEFAULT,,0,0,0,,{\r}{\kf17}It's{\kf17} our{\kf17} job{\kf17} to{\kf17} make{\kf17} you{\kf43} feel{\kf17} al{\kf26}~{\kf124}right
+Dialogue: 0,0:01:58.83,0:02:01.65,DEFAULT,,0,0,0,,{\r}{\kf17}Let's{\kf17} raise{\kf17} the{\kf17} roof{\kf17} to{\kf75}night's{\kf17} the{\kf106} night
+Dialogue: 0,0:02:02.06,0:02:05.52,DEFAULT,,0,0,0,,{\r}{\kf17}We're{\kf17} gon{\kf17}na'{\kf17} par{\kf17}ty{\kf17} till{\kf17} the{\kf43} morn{\kf17}ing{\kf26}~{\kf141} light
+Dialogue: 0,0:02:06.21,0:02:09.04,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf17} house{\kf17} is{\kf17} hot{\kf17} the{\kf75} beat{\kf17} is{\kf106} tight
+Dialogue: 0,0:02:09.67,0:02:12.79,DEFAULT,,0,0,0,,{\r}{\kf39}We{\kf39} just{\kf39} wan{\kf39}na'{\kf39} see{\kf39} you{\kf39} shake{\kf39} it!
+Dialogue: 0,0:02:14.75,0:02:16.31,DEFAULT,,0,0,0,,{\r}{\kf21}Eve{\kf21}ry{\kf21}day{\kf21} I'm{\kf21} par{\kf21}ty{\kf30}ing!
+Dialogue: 0,0:02:31.36,0:02:32.92,DEFAULT,,0,0,0,,{\r}{\kf12}Pu={\kf12} pu={\kf12} pu={\kf12} pu={\kf12} put{\kf12} the{\kf24} lights{\kf24} on{\kf36} me
+Dialogue: 0,0:02:33.04,0:02:34.88,DEFAULT,,0,0,0,,{\r}{\kf22}It's{\kf22} time{\kf11} for{\kf11} the{\kf22} on{\kf22}ly{\kf22} true{\kf11} par{\kf11}ty{\kf22} po{\kf10}ny
+Dialogue: 0,0:02:34.88,0:02:36.79,DEFAULT,,0,0,0,,{\r}{\kf11}It's{\kf11} Pink{\kf11}ie{\kf22} Pie{\kf22} here{\kf11} and{\kf11} I{\kf11} know{\kf11} you{\kf22} all{\kf22} missed{\kf25} me
+Dialogue: 0,0:02:36.85,0:02:38.58,DEFAULT,,0,0,0,,{\r}{\kf12}But{\kf23} hey{\kf23} wait!{\kf23} There's{\kf23} room{\kf23} for{\kf46} three
+Dialogue: 0,0:02:38.75,0:02:39.90,DEFAULT,,0,0,0,,{\r}{\kf16}Let's{\kf16} get{\kf25} some{\kf10} bal{\kf48}loons!
+Dialogue: 0,0:02:40.60,0:02:41.75,DEFAULT,,0,0,0,,{\r}{\kf18}Let's{\kf18} turn{\kf18} up{\kf10} the{\kf51} bass!
+Dialogue: 0,0:02:42.44,0:02:43.54,DEFAULT,,0,0,0,,{\r}{\kf18}Gum{\kf18}my's{\kf18} here{\kf10} with{\kf46} me!
+Dialogue: 0,0:02:44.29,0:02:45.61,DEFAULT,,0,0,0,,{\r}{\kf19}Now{\kf10} it's{\kf19} a{\kf19} par{\kf66}ty!
+Dialogue: 0,0:02:46.13,0:02:47.69,DEFAULT,,0,0,0,,{\r}{\kf29}Get{\kf49} up{\kf29} get{\kf49} down
+Dialogue: 0,0:02:47.98,0:02:49.54,DEFAULT,,0,0,0,,{\r}{\kf20}Put{\kf20} your{\kf20} hooves{\kf20} up{\kf20} to{\kf10} the{\kf46} sound
+Dialogue: 0,0:02:49.83,0:02:51.38,DEFAULT,,0,0,0,,{\r}{\kf29}Jump{\kf49} up{\kf29} stomp{\kf49} down
+Dialogue: 0,0:02:51.67,0:02:53.23,DEFAULT,,0,0,0,,{\r}{\kf20}Eve{\kf20}ry{\kf20} po{\kf20}ny{\kf20} hit{\kf10} the{\kf46} ground
+Dialogue: 0,0:02:53.52,0:02:55.08,DEFAULT,,0,0,0,,{\r}{\kf29}Get{\kf49} up{\kf29} get{\kf49} down
+Dialogue: 0,0:02:55.36,0:02:56.92,DEFAULT,,0,0,0,,{\r}{\kf20}Put{\kf20} your{\kf20} hooves{\kf20} up{\kf20} to{\kf10} the{\kf46} sound
+Dialogue: 0,0:02:57.21,0:02:58.77,DEFAULT,,0,0,0,,{\r}{\kf29}Jump{\kf49} up{\kf29} stomp{\kf49} down
+Dialogue: 0,0:02:59.06,0:03:00.61,DEFAULT,,0,0,0,,{\r}{\kf20}Eve{\kf20}ry{\kf20} po{\kf20}ny{\kf20} hit{\kf10} the{\kf46} ground
+Dialogue: 0,0:03:00.90,0:03:02.46,DEFAULT,,0,0,0,,{\r}{\kf20}Eve{\kf20}ry{\kf20} po{\kf20}ny{\kf20} hit{\kf10} the{\kf46} ground
+Dialogue: 0,0:03:02.75,0:03:04.31,DEFAULT,,0,0,0,,{\r}{\kf20}Eve{\kf20}ry{\kf20} po{\kf20}ny{\kf20} hit{\kf10} the{\kf46} ground
+Dialogue: 0,0:03:04.60,0:03:06.15,DEFAULT,,0,0,0,,{\r}{\kf29}Get{\kf49} up{\kf29} get{\kf49} down
+Dialogue: 0,0:03:06.44,0:03:08.00,DEFAULT,,0,0,0,,{\r}{\kf29}Get{\kf49} up{\kf29} get{\kf49} down
+Dialogue: 0,0:03:08.29,0:03:09.85,DEFAULT,,0,0,0,,{\r}{\kf20}Put{\kf20} your{\kf20} hooves{\kf20} up{\kf20} to{\kf10} the{\kf46} sound
+Dialogue: 0,0:03:10.13,0:03:11.69,DEFAULT,,0,0,0,,{\r}{\kf20}Put{\kf20} your{\kf20} hooves{\kf20} up{\kf20} to{\kf10} the{\kf46} sound
+Dialogue: 0,0:03:11.98,0:03:13.71,DEFAULT,,0,0,0,,{\r}{\kf22}Put{\kf22} your{\kf22} hooves{\kf22} up{\kf22} put{\kf22} your{\kf22} hooves{\kf19} up
+Dialogue: 0,0:03:13.83,0:03:15.56,DEFAULT,,0,0,0,,{\r}{\kf22}Put{\kf22} your{\kf22} hooves{\kf22} up{\kf22} put{\kf22} your{\kf22} hooves{\kf19} up
+Dialogue: 0,0:03:16.13,0:03:19.19,DEFAULT,,0,0,0,,{\r}{\kf17}Eve{\kf17}ry{\kf17}po{\kf17}ny's{\kf17} in{\kf17} the{\kf76} club{\kf17} to{\kf111}night
+Dialogue: 0,0:03:19.60,0:03:22.83,DEFAULT,,0,0,0,,{\r}{\kf18}We're{\kf18} gon{\kf18}na'{\kf18} keep{\kf18} on{\kf18} hav{\kf18}ing{\kf45} a{\kf18} good{\kf27}~{\kf107} time
+Dialogue: 0,0:03:23.75,0:03:26.75,DEFAULT,,0,0,0,,{\r}{\kf16}We{\kf16} got{\kf16} some{\kf16} help{\kf16} from{\kf73} Pink{\kf16}ie{\kf131} Pie
+Dialogue: 0,0:03:27.21,0:03:31.36,DEFAULT,,0,0,0,,{\r}{\kf50}With{\kf17} Vi{\kf17}nyl{\kf17} Scratch{\kf17} and{\kf42} Ne{\kf42}on-{\kf42}on-{\kf42}on{\kf129} Lights
+Dialogue: 0,0:03:32.29,0:03:34.08,DEFAULT,,0,0,0,,{\r}{\kf69}Woah{\kf69}~{\kf23}~{\kf18}~
+Dialogue: 0,0:03:35.98,0:03:37.77,DEFAULT,,0,0,0,,{\r}{\kf69}Woah{\kf69}~{\kf23}~{\kf18}~
+Dialogue: 0,0:03:39.67,0:03:41.46,DEFAULT,,0,0,0,,{\r}{\kf69}Woah{\kf69}~{\kf23}~{\kf18}~
+Dialogue: 0,0:03:43.36,0:03:45.15,DEFAULT,,0,0,0,,{\r}{\kf69}Woah{\kf69}~{\kf23}~{\kf18}~
+Dialogue: 0,0:03:47.06,0:03:49.08,DEFAULT,,0,0,0,,{\r}{\kf24}Eve{\kf24}ry{\kf24}day{\kf24} we're{\kf24} par-{\kf24}par{\kf24}ty{\kf34}ing!
+Dialogue: 0,0:03:51.67,0:03:56.17,DEFAULT,,0,0,0,,{\r}{\kf56}Put{\kf56} your{\kf56} hooves{\kf56} up{\kf56} put{\kf56} your{\kf56} hooves{\kf58} up
+Dialogue: 0,0:03:59.06,0:04:03.56,DEFAULT,,0,0,0,,{\r}{\kf56}Put{\kf56} your{\kf56} hooves{\kf56} up{\kf56} put{\kf56} your{\kf56} hooves{\kf58} up
+Dialogue: 0,0:04:06.44,0:04:10.94,DEFAULT,,0,0,0,,{\r}{\kf56}Put{\kf56} your{\kf56} hooves{\kf56} up{\kf56} put{\kf56} your{\kf56} hooves{\kf58} up
+Dialogue: 0,0:04:13.83,0:04:18.33,DEFAULT,,0,0,0,,{\r}{\kf56}Put{\kf56} your{\kf56} hooves{\kf56} up{\kf56} put{\kf56} your{\kf56} hooves{\kf58} up

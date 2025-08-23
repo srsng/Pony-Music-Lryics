@@ -1,68 +1,75 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Loyalty
+Artist: AcoustiMandoBrony
+Original Timing: mylittlekaraoke.com by Moonsparkle
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:43.33,0:00:45.66,DEFAULT,,0,0,0,,{\kf25}You{\kf17} see{\kf17} me{\kf42} soar{\kf17}ing{\kf17} through{\kf17} the{\kf25} sky
-Dialogue: 0,0:00:45.99,0:00:48.33,DEFAULT,,0,0,0,,{\kf17}I{\kf17} see{\kf17} you{\kf17} be{\kf25}low{\kf17} as{\kf17} you{\kf17} walk{\kf17} on{\kf17} by
-Dialogue: 0,0:00:48.66,0:00:50.99,DEFAULT,,0,0,0,,{\kf17}I{\kf17} could{\kf17} clear{\kf17} the{\kf25} sky{\kf17} in{\kf25} ten{\kf17} se{\kf25}conds{\kf25} flat
-Dialogue: 0,0:00:51.33,0:00:53.83,DEFAULT,,0,0,0,,{\kf9}How{\kf9} a{\kf17}bout{\kf42} that?{\kf9} How{\kf9} a{\kf17}bout{\kf9} tha{\kf34}-at?
-Dialogue: 0,0:00:53.99,0:00:56.58,DEFAULT,,0,0,0,,{\kf9}I{\kf9} could{\kf42} be{\kf34} sit{\kf9}ting{\kf9} here{\kf9} on{\kf17} a{\kf34} cloud
-Dialogue: 0,0:00:56.74,0:00:59.49,DEFAULT,,0,0,0,,{\kf17}Watch{\kf9}ing{\kf25} the{\kf17} sun{\kf9} as{\kf9} it{\kf25} starts{\kf9} to{\kf17} go{\kf42} down
-Dialogue: 0,0:00:59.58,0:01:01.16,DEFAULT,,0,0,0,,{\kf9}The{\kf9} on{\kf9}ly{\kf17} thing{\kf9} miss{\kf59}ing
-Dialogue: 0,0:01:01.33,0:01:03.24,DEFAULT,,0,0,0,,{\kf25}Is{\kf34} you{\kf17} by{\kf17} my{\kf42} side
-Dialogue: 0,0:01:04.66,0:01:07.33,DEFAULT,,0,0,0,,{\kf25}Give{\kf9} me{\kf25} a{\kf34} smidge{\kf25} of{\kf17} con{\kf9}fi{\kf9}de{\kf25}-ence
-Dialogue: 0,0:01:07.41,0:01:09.91,DEFAULT,,0,0,0,,{\kf17}Give{\kf9} me{\kf25} a{\kf17} speck{\kf9} of{\kf9} some{\kf9}thing{\kf9} that{\kf34} makes{\kf25} sense
-Dialogue: 0,0:01:10.33,0:01:12.58,DEFAULT,,0,0,0,,{\kf9}Give{\kf9} me{\kf9} an{\kf17} i{\kf17}dea{\kf9} of{\kf17} de{\kf17}pen{\kf25}den{\kf34}cy
-Dialogue: 0,0:01:12.66,0:01:18.74,DEFAULT,,0,0,0,,{\kf17}Give{\kf9} me{\kf17} a{\kf34} dash{\kf25} of{\kf9} loy{\kf9}a{\kf42}-al{\kf92}ty{\kf100}~{\kf125}~
-Dialogue: 0,0:01:19.08,0:01:22.99,DEFAULT,,0,0,0,,{\kf34}Loy{\kf42}al{\kf125}ty{\kf134}~
-Dialogue: 0,0:01:26.33,0:01:29.99,DEFAULT,,0,0,0,,{\kf9}I{\kf9} could{\kf9} save{\kf9} my{\kf25} lone{\kf17}ly{\kf17} soul{\kf9} for{\kf17} you{\kf9}~{\kf9}~{\kf109}~
-Dialogue: 0,0:01:30.58,0:01:34.49,DEFAULT,,0,0,0,,{\kf9}But{\kf9} the{\kf34} feel{\kf25}ing{\kf9} in{\kf17} my{\kf25} heart{\kf17} can't{\kf9} fol{\kf25}low{\kf92} through
-Dialogue: 0,0:01:37.08,0:01:40.91,DEFAULT,,0,0,0,,{\kf9}You{\kf9} can{\kf9} give{\kf9} your{\kf25} bro{\kf17}ken{\kf17} heart{\kf9} to{\kf34} me{\kf9}~{\kf9}~{\kf125}~
-Dialogue: 0,0:01:41.16,0:01:43.49,DEFAULT,,0,0,0,,{\kf9}'Cause{\kf9} you{\kf42} know{\kf9} that{\kf25} I'll{\kf25} stay{\kf17} with{\kf34} you
-Dialogue: 0,0:01:44.08,0:01:49.41,DEFAULT,,0,0,0,,{\kf17}That's{\kf17} why{\kf17} they{\kf17} call{\kf17} me{\kf34} loy{\kf25}al{\kf17}ty{\kf250}~
-Dialogue: 0,0:01:50.99,0:01:54.08,DEFAULT,,0,0,0,,{\kf34}Loy{\kf34}al{\kf200}ty
-Dialogue: 0,0:01:57.99,0:02:00.58,DEFAULT,,0,0,0,,{\kf9}The{\kf9} sun{\kf17} shines{\kf9} bri{\kf17}-ight,{\kf9} yet{\kf9} the{\kf9} rain{\kf25} pours{\kf34} on
-Dialogue: 0,0:02:00.66,0:02:03.16,DEFAULT,,0,0,0,,{\kf9}Rain{\kf9}bows{\kf9} here{\kf25} one{\kf17} mi{\kf9}nute{\kf9} and{\kf17} then{\kf17} they're{\kf34} gone
-Dialogue: 0,0:02:03.41,0:02:05.83,DEFAULT,,0,0,0,,{\kf9}They{\kf9} re{\kf25}mind{\kf42} me{\kf17} of{\kf9} me{\kf25} and{\kf25} you
-Dialogue: 0,0:02:05.99,0:02:08.66,DEFAULT,,0,0,0,,{\kf9}What{\kf9} did{\kf17} you{\kf42} do?{\kf9} What{\kf9} did{\kf17} I{\kf9} do{\kf50}-o?
-Dialogue: 0,0:02:08.74,0:02:11.24,DEFAULT,,0,0,0,,{\kf9}De{\kf9}ter{\kf42}mi{\kf25}na{\kf25}tion{\kf9} in{\kf25} those{\kf34} eyes
-Dialogue: 0,0:02:11.41,0:02:13.91,DEFAULT,,0,0,0,,{\kf17}Where{\kf9} has{\kf25} it{\kf17} gone?{\kf9} Has{\kf9} it{\kf25} said{\kf17} good{\kf34}bye?
-Dialogue: 0,0:02:14.33,0:02:15.58,DEFAULT,,0,0,0,,{\kf9}A{\kf9} lot{\kf17} has{\kf9} hap{\kf42}pened
-Dialogue: 0,0:02:15.99,0:02:18.41,DEFAULT,,0,0,0,,{\kf9}But{\kf9} I'll{\kf34} stay{\kf25} by{\kf17} your{\kf84} side
-Dialogue: 0,0:02:19.33,0:02:21.83,DEFAULT,,0,0,0,,{\kf17}Give{\kf9} me{\kf17} a{\kf34} smidge{\kf17} of{\kf17} con{\kf9}fi{\kf25}dence
-Dialogue: 0,0:02:22.08,0:02:24.58,DEFAULT,,0,0,0,,{\kf17}Give{\kf9} me{\kf17} a{\kf17} speck{\kf9} of{\kf9} some{\kf9}thing{\kf9} that{\kf25} makes{\kf25} sense
-Dialogue: 0,0:02:24.99,0:02:27.24,DEFAULT,,0,0,0,,{\kf9}Give{\kf9} me{\kf9} an{\kf9} i{\kf25}dea{\kf9} of{\kf9} de{\kf9}pen{\kf25}den{\kf34}cy
-Dialogue: 0,0:02:27.41,0:02:33.41,DEFAULT,,0,0,0,,{\kf17}Give{\kf9} me{\kf17} a{\kf25} dash{\kf17} of{\kf9} loy{\kf67}al{\kf92}ty{\kf100}~{\kf117}~
-Dialogue: 0,0:02:33.74,0:02:38.74,DEFAULT,,0,0,0,,{\kf34}Loy{\kf34}al{\kf117}ty{\kf242}~
-Dialogue: 0,0:02:41.08,0:02:44.58,DEFAULT,,0,0,0,,{\kf9}I{\kf9} could{\kf9} save{\kf9} my{\kf25} lone{\kf17}ly{\kf17} soul{\kf9} for{\kf25} you{\kf9}~{\kf9}~{\kf100}~
-Dialogue: 0,0:02:45.16,0:02:49.66,DEFAULT,,0,0,0,,{\kf9}But{\kf9} the{\kf34} feel{\kf17}ing{\kf9} in{\kf25} my{\kf25} heart{\kf17} can't{\kf9} fol{\kf9}low{\kf17} through{\kf134}~
-Dialogue: 0,0:02:51.74,0:02:55.33,DEFAULT,,0,0,0,,{\kf9}You{\kf9} can{\kf9} give{\kf9} your{\kf17} bro{\kf17}ken{\kf17} heart{\kf9} to{\kf25} me{\kf9}~{\kf9}~{\kf109}~
-Dialogue: 0,0:02:55.91,0:02:58.49,DEFAULT,,0,0,0,,{\kf9}'Cause{\kf9} you{\kf34} know{\kf9} that{\kf17} I'll{\kf17} stay{\kf17} with{\kf34} you{\kf17}~
-Dialogue: 0,0:02:58.74,0:03:01.83,DEFAULT,,0,0,0,,{\kf17}That's{\kf17} why{\kf17} they{\kf17} call{\kf17} me{\kf34} loy{\kf34}al{\kf42}ty
-Dialogue: 0,0:03:02.41,0:03:05.49,DEFAULT,,0,0,0,,{\kf9}Time{\kf17} stands{\kf17} still{\kf9} when{\kf17} you're{\kf17} with{\kf17}~{\kf59} me
-Dialogue: 0,0:03:07.41,0:03:10.99,DEFAULT,,0,0,0,,{\kf17}How{\kf17} can{\kf17} I{\kf34} make{\kf25} you{\kf25} se{\kf9}-e{\kf109}-e?
-Dialogue: 0,0:03:12.08,0:03:16.74,DEFAULT,,0,0,0,,{\kf17}Your{\kf17} cra{\kf25}zy{\kf17} an{\kf17}tics{\kf17} make{\kf9} me{\kf34} want{\kf50} to{\kf142} scream
-Dialogue: 0,0:03:17.33,0:03:22.49,DEFAULT,,0,0,0,,{\kf17}Your{\kf17} name{\kf17} so{\kf17} loud{\kf9} till{\kf17} my{\kf25} throat{\kf25} starts{\kf17} to{\kf34}~{\kf175} bleed
-Dialogue: 0,0:03:22.66,0:03:26.66,DEFAULT,,0,0,0,,{\kf17}To{\kf242} bleed{\kf109}~
-Dialogue: 0,0:04:51.33,0:04:55.58,DEFAULT,,0,0,0,,{\kf59}I{\kf9} could{\kf42} save{\kf9} my{\kf17} lone{\kf9}ly{\kf25} soul{\kf9} for{\kf142} you
-Dialogue: 0,0:04:55.91,0:04:59.49,DEFAULT,,0,0,0,,{\kf9}But{\kf9} the{\kf34} feel{\kf17}ing{\kf9} in{\kf25} my{\kf34} heart{\kf17} can't{\kf9} fol{\kf17}low{\kf67} through
-Dialogue: 0,0:05:02.33,0:05:06.24,DEFAULT,,0,0,0,,{\kf9}You{\kf9} can{\kf9} give{\kf9} your{\kf25} bro{\kf25}ken{\kf17} heart{\kf9} to{\kf59} me{\kf92}~
-Dialogue: 0,0:05:06.49,0:05:08.91,DEFAULT,,0,0,0,,{\kf9}'Cause{\kf9} you{\kf34} know{\kf9}~{\kf9} that{\kf9} I'll{\kf25} stay{\kf17} with{\kf42} you
-Dialogue: 0,0:05:09.24,0:05:12.58,DEFAULT,,0,0,0,,{\kf9}That's{\kf17} why{\kf9} they{\kf17} call{\kf17} me{\kf34} loy{\kf34}al{\kf9}ty{\kf42}~
-Dialogue: 0,0:05:12.99,0:05:16.66,DEFAULT,,0,0,0,,{\kf9}I{\kf9} could{\kf9} save{\kf9} my{\kf17} lone{\kf17}ly{\kf17} soul{\kf9} for{\kf17} you{\kf9}~{\kf9}~{\kf117}~
-Dialogue: 0,0:05:17.16,0:05:21.33,DEFAULT,,0,0,0,,{\kf9}But{\kf9} the{\kf34} feel{\kf17}ing{\kf9} in{\kf17} my{\kf34} heart{\kf17} can't{\kf9} fol{\kf9}low{\kf125} through
-Dialogue: 0,0:05:23.66,0:05:27.74,DEFAULT,,0,0,0,,{\kf9}You{\kf9} can{\kf9} give{\kf9} your{\kf17} bro{\kf25}ken{\kf17} heart{\kf9} to{\kf42} me{\kf9}~{\kf9}~{\kf125}~
-Dialogue: 0,0:05:27.91,0:05:30.41,DEFAULT,,0,0,0,,{\kf9}'Cause{\kf9} you{\kf34} know{\kf9} that{\kf9} I'll{\kf17} stay{\kf17} with{\kf17} you{\kf25}~
-Dialogue: 0,0:05:30.66,0:05:33.99,DEFAULT,,0,0,0,,{\kf17}That's{\kf17} why{\kf9} they{\kf17} call,{\kf17} that's{\kf17} why{\kf17} they{\kf9} call{\kf17} me{\kf34}~
-Dialogue: 0,0:05:34.41,0:05:37.91,DEFAULT,,0,0,0,,{\kf9}I{\kf9} could{\kf9} save{\kf9} my{\kf17} lone{\kf17}ly{\kf17} soul{\kf9} for{\kf17} you{\kf9}~{\kf9}~{\kf100}~
-Dialogue: 0,0:05:38.49,0:05:42.74,DEFAULT,,0,0,0,,{\kf9}But{\kf9} the{\kf34} feel{\kf17}ing{\kf9} in{\kf17} my{\kf34} heart{\kf25} can't{\kf9} fol{\kf9}low{\kf117} through
-Dialogue: 0,0:05:44.99,0:05:49.08,DEFAULT,,0,0,0,,{\kf9}You{\kf9} can{\kf9} give{\kf9} your{\kf25} bro{\kf17}ken{\kf17} heart{\kf9} to{\kf109} me{\kf100}~
-Dialogue: 0,0:05:49.24,0:05:51.41,DEFAULT,,0,0,0,,{\kf9}'Cause{\kf9} you{\kf34} know{\kf9} that{\kf17} I'll{\kf9} stay{\kf17} with{\kf25} you
-Dialogue: 0,0:05:51.99,0:05:58.58,DEFAULT,,0,0,0,,{\kf17}That's{\kf17} why{\kf17} they{\kf17} call{\kf17} me{\kf25} loy{\kf25}al{\kf384}ty
+Dialogue: 0,0:00:43.33,0:00:45.67,DEFAULT,,0,0,0,,{\r}{\kf33}You{\kf22} see{\kf22} me{\kf55} soar{\kf22}ing{\kf22} through{\kf22} the{\kf35} sky
+Dialogue: 0,0:00:46.00,0:00:48.33,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} see{\kf22} you{\kf22} be{\kf33}low{\kf22} as{\kf22} you{\kf22} walk{\kf22} on{\kf24} by
+Dialogue: 0,0:00:48.67,0:00:51.00,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf19} could{\kf19} clear{\kf19} the{\kf29} sky{\kf19} in{\kf29} ten{\kf19} se{\kf29}conds{\kf32} flat
+Dialogue: 0,0:00:51.33,0:00:53.83,DEFAULT,,0,0,0,,{\r}{\kf14}How{\kf14} a{\kf28}bout{\kf69} that?{\kf14} How{\kf14} a{\kf28}bout{\kf14} tha{\kf55}-at?
+Dialogue: 0,0:00:54.00,0:00:56.58,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf13} could{\kf65} be{\kf52} sit{\kf13}ting{\kf13} here{\kf13} on{\kf26} a{\kf50} cloud
+Dialogue: 0,0:00:56.75,0:00:59.50,DEFAULT,,0,0,0,,{\r}{\kf26}Watch{\kf13}ing{\kf39} the{\kf26} sun{\kf13} as{\kf13} it{\kf39} starts{\kf13} to{\kf26} go{\kf67} down
+Dialogue: 0,0:00:59.58,0:01:01.17,DEFAULT,,0,0,0,,{\r}{\kf12}The{\kf12} on{\kf12}ly{\kf24} thing{\kf12} miss{\kf86}ing
+Dialogue: 0,0:01:01.33,0:01:03.25,DEFAULT,,0,0,0,,{\r}{\kf36}Is{\kf48} you{\kf24} by{\kf24} my{\kf60} side
+Dialogue: 0,0:01:04.67,0:01:07.33,DEFAULT,,0,0,0,,{\r}{\kf38}Give{\kf13} me{\kf38} a{\kf51} smidge{\kf38} of{\kf25} con{\kf13}fi{\kf13}de{\kf38}-ence
+Dialogue: 0,0:01:07.42,0:01:09.92,DEFAULT,,0,0,0,,{\r}{\kf26}Give{\kf13} me{\kf39} a{\kf26} speck{\kf13} of{\kf13} some{\kf13}thing{\kf13} that{\kf53} makes{\kf41} sense
+Dialogue: 0,0:01:10.33,0:01:12.58,DEFAULT,,0,0,0,,{\r}{\kf12}Give{\kf12} me{\kf12} an{\kf24} i{\kf24}dea{\kf12} of{\kf24} de{\kf24}pen{\kf36}den{\kf45}cy
+Dialogue: 0,0:01:12.67,0:01:18.75,DEFAULT,,0,0,0,,{\r}{\kf21}Give{\kf11} me{\kf21} a{\kf43} dash{\kf32} of{\kf11} loy{\kf11}a{\kf53}-al{\kf117}ty{\kf128}~{\kf160}~
+Dialogue: 0,0:01:19.08,0:01:23.00,DEFAULT,,0,0,0,,{\r}{\kf39}Loy{\kf49}al{\kf147}ty{\kf157}~
+Dialogue: 0,0:01:26.33,0:01:30.00,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf13} could{\kf13} save{\kf13} my{\kf38} lone{\kf25}ly{\kf25} soul{\kf13} for{\kf25} you{\kf13}~{\kf13}~{\kf163}~
+Dialogue: 0,0:01:30.58,0:01:34.50,DEFAULT,,0,0,0,,{\r}{\kf12}But{\kf12} the{\kf49} feel{\kf37}ing{\kf12} in{\kf24} my{\kf37} heart{\kf24} can't{\kf12} fol{\kf37}low{\kf136} through
+Dialogue: 0,0:01:37.08,0:01:40.92,DEFAULT,,0,0,0,,{\r}{\kf12}You{\kf12} can{\kf12} give{\kf12} your{\kf35} bro{\kf23}ken{\kf23} heart{\kf12} to{\kf46} me{\kf12}~{\kf12}~{\kf172}~
+Dialogue: 0,0:01:41.17,0:01:43.50,DEFAULT,,0,0,0,,{\r}{\kf12}'Cause{\kf12} you{\kf58} know{\kf12} that{\kf35} I'll{\kf35} stay{\kf23} with{\kf46} you
+Dialogue: 0,0:01:44.08,0:01:49.42,DEFAULT,,0,0,0,,{\r}{\kf22}That's{\kf22} why{\kf22} they{\kf22} call{\kf22} me{\kf44} loy{\kf33}al{\kf22}ty{\kf324}~
+Dialogue: 0,0:01:51.00,0:01:54.08,DEFAULT,,0,0,0,,{\r}{\kf38}Loy{\kf38}al{\kf232}ty
+Dialogue: 0,0:01:58.00,0:02:00.58,DEFAULT,,0,0,0,,{\r}{\kf15}The{\kf15} sun{\kf30} shines{\kf15} bri{\kf30}-ight,{\kf15} yet{\kf15} the{\kf15} rain{\kf46} pours{\kf62} on
+Dialogue: 0,0:02:00.67,0:02:03.17,DEFAULT,,0,0,0,,{\r}{\kf14}Rain{\kf14}bows{\kf14} here{\kf42} one{\kf28} mi{\kf14}nute{\kf14} and{\kf28} then{\kf28} they're{\kf54} gone
+Dialogue: 0,0:02:03.42,0:02:05.83,DEFAULT,,0,0,0,,{\r}{\kf13}They{\kf13} re{\kf38}mind{\kf64} me{\kf25} of{\kf13} me{\kf38} and{\kf38} you
+Dialogue: 0,0:02:06.00,0:02:08.67,DEFAULT,,0,0,0,,{\r}{\kf13}What{\kf13} did{\kf27} you{\kf67} do?{\kf13} What{\kf13} did{\kf27} I{\kf13} do{\kf81}-o?
+Dialogue: 0,0:02:08.75,0:02:11.25,DEFAULT,,0,0,0,,{\r}{\kf12}De{\kf12}ter{\kf60}mi{\kf36}na{\kf36}tion{\kf12} in{\kf36} those{\kf46} eyes
+Dialogue: 0,0:02:11.42,0:02:13.92,DEFAULT,,0,0,0,,{\r}{\kf26}Where{\kf13} has{\kf39} it{\kf26} gone?{\kf13} Has{\kf13} it{\kf39} said{\kf26} good{\kf55}bye?
+Dialogue: 0,0:02:14.33,0:02:15.58,DEFAULT,,0,0,0,,{\r}{\kf12}A{\kf12} lot{\kf25} has{\kf12} hap{\kf64}pened
+Dialogue: 0,0:02:16.00,0:02:18.42,DEFAULT,,0,0,0,,{\r}{\kf12}But{\kf12} I'll{\kf46} stay{\kf35} by{\kf23} your{\kf114} side
+Dialogue: 0,0:02:19.33,0:02:21.83,DEFAULT,,0,0,0,,{\r}{\kf29}Give{\kf15} me{\kf29} a{\kf59} smidge{\kf29} of{\kf29} con{\kf15}fi{\kf45}dence
+Dialogue: 0,0:02:22.08,0:02:24.58,DEFAULT,,0,0,0,,{\r}{\kf29}Give{\kf15} me{\kf29} a{\kf29} speck{\kf15} of{\kf15} some{\kf15}thing{\kf15} that{\kf44} makes{\kf44} sense
+Dialogue: 0,0:02:25.00,0:02:27.25,DEFAULT,,0,0,0,,{\r}{\kf13}Give{\kf13} me{\kf13} an{\kf13} i{\kf40}dea{\kf13} of{\kf13} de{\kf13}pen{\kf40}den{\kf54}cy
+Dialogue: 0,0:02:27.42,0:02:33.42,DEFAULT,,0,0,0,,{\r}{\kf21}Give{\kf11} me{\kf21} a{\kf32} dash{\kf21} of{\kf11} loy{\kf86}al{\kf118}ty{\kf129}~{\kf150}~
+Dialogue: 0,0:02:33.75,0:02:38.75,DEFAULT,,0,0,0,,{\r}{\kf39}Loy{\kf39}al{\kf137}ty{\kf285}~
+Dialogue: 0,0:02:41.08,0:02:44.58,DEFAULT,,0,0,0,,{\r}{\kf12}I{\kf12} could{\kf12} save{\kf12} my{\kf36} lone{\kf24}ly{\kf24} soul{\kf12} for{\kf36} you{\kf12}~{\kf12}~{\kf146}~
+Dialogue: 0,0:02:45.17,0:02:49.67,DEFAULT,,0,0,0,,{\r}{\kf12}But{\kf12} the{\kf49} feel{\kf24}ing{\kf12} in{\kf36} my{\kf36} heart{\kf24} can't{\kf12} fol{\kf12}low{\kf24} through{\kf197}~
+Dialogue: 0,0:02:51.75,0:02:55.33,DEFAULT,,0,0,0,,{\r}{\kf12}You{\kf12} can{\kf12} give{\kf12} your{\kf25} bro{\kf25}ken{\kf25} heart{\kf12} to{\kf37} me{\kf12}~{\kf12}~{\kf162}~
+Dialogue: 0,0:02:55.92,0:02:58.50,DEFAULT,,0,0,0,,{\r}{\kf14}'Cause{\kf14} you{\kf54} know{\kf14} that{\kf27} I'll{\kf27} stay{\kf27} with{\kf54} you{\kf27}~
+Dialogue: 0,0:02:58.75,0:03:01.83,DEFAULT,,0,0,0,,{\r}{\kf27}That's{\kf27} why{\kf27} they{\kf27} call{\kf27} me{\kf54} loy{\kf54}al{\kf65}ty
+Dialogue: 0,0:03:02.42,0:03:05.50,DEFAULT,,0,0,0,,{\r}{\kf16}Time{\kf32} stands{\kf32} still{\kf16} when{\kf32} you're{\kf32} with{\kf32}~{\kf116} me
+Dialogue: 0,0:03:07.42,0:03:11.00,DEFAULT,,0,0,0,,{\r}{\kf24}How{\kf24} can{\kf24} I{\kf48} make{\kf36} you{\kf36} se{\kf12}-e{\kf154}-e?
+Dialogue: 0,0:03:12.08,0:03:16.75,DEFAULT,,0,0,0,,{\r}{\kf23}Your{\kf23} cra{\kf34}zy{\kf23} an{\kf23}tics{\kf23} make{\kf11} me{\kf46} want{\kf68} to{\kf193} scream
+Dialogue: 0,0:03:17.33,0:03:22.50,DEFAULT,,0,0,0,,{\r}{\kf24}Your{\kf24} name{\kf24} so{\kf24} loud{\kf12} till{\kf24} my{\kf35} throat{\kf35} starts{\kf24} to{\kf47}~{\kf244} bleed
+Dialogue: 0,0:03:22.67,0:03:26.67,DEFAULT,,0,0,0,,{\r}{\kf18}To{\kf264} bleed{\kf118}~
+Dialogue: 0,0:04:51.33,0:04:55.58,DEFAULT,,0,0,0,,{\r}{\kf78}I{\kf11} could{\kf56} save{\kf11} my{\kf22} lone{\kf11}ly{\kf34} soul{\kf11} for{\kf191} you
+Dialogue: 0,0:04:55.92,0:04:59.50,DEFAULT,,0,0,0,,{\r}{\kf12}But{\kf12} the{\kf49} feel{\kf25}ing{\kf12} in{\kf37} my{\kf49} heart{\kf25} can't{\kf12} fol{\kf25}low{\kf100} through
+Dialogue: 0,0:05:02.33,0:05:06.25,DEFAULT,,0,0,0,,{\r}{\kf13}You{\kf13} can{\kf13} give{\kf13} your{\kf38} bro{\kf38}ken{\kf25} heart{\kf13} to{\kf89} me{\kf137}~
+Dialogue: 0,0:05:06.50,0:05:08.92,DEFAULT,,0,0,0,,{\r}{\kf13}'Cause{\kf13} you{\kf51} know{\kf13}~{\kf13} that{\kf13} I'll{\kf38} stay{\kf25} with{\kf63} you
+Dialogue: 0,0:05:09.25,0:05:12.58,DEFAULT,,0,0,0,,{\r}{\kf15}That's{\kf30} why{\kf15} they{\kf30} call{\kf30} me{\kf61} loy{\kf61}al{\kf15}ty{\kf76}~
+Dialogue: 0,0:05:13.00,0:05:16.67,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf13} could{\kf13} save{\kf13} my{\kf25} lone{\kf25}ly{\kf25} soul{\kf13} for{\kf25} you{\kf13}~{\kf13}~{\kf176}~
+Dialogue: 0,0:05:17.17,0:05:21.33,DEFAULT,,0,0,0,,{\r}{\kf12}But{\kf12} the{\kf49} feel{\kf25}ing{\kf12} in{\kf25} my{\kf49} heart{\kf25} can't{\kf12} fol{\kf12}low{\kf184} through
+Dialogue: 0,0:05:23.67,0:05:27.75,DEFAULT,,0,0,0,,{\r}{\kf12}You{\kf12} can{\kf12} give{\kf12} your{\kf24} bro{\kf36}ken{\kf24} heart{\kf12} to{\kf60} me{\kf12}~{\kf12}~{\kf180}~
+Dialogue: 0,0:05:27.92,0:05:30.42,DEFAULT,,0,0,0,,{\r}{\kf15}'Cause{\kf15} you{\kf59} know{\kf15} that{\kf15} I'll{\kf29} stay{\kf29} with{\kf29} you{\kf44}~
+Dialogue: 0,0:05:30.67,0:05:34.00,DEFAULT,,0,0,0,,{\r}{\kf33}That's{\kf33} why{\kf17} they{\kf33} call,{\kf33} that's{\kf33} why{\kf33} they{\kf17} call{\kf33} me{\kf68}~
+Dialogue: 0,0:05:34.42,0:05:37.92,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf13} could{\kf13} save{\kf13} my{\kf26} lone{\kf26}ly{\kf26} soul{\kf13} for{\kf26} you{\kf13}~{\kf13}~{\kf155}~
+Dialogue: 0,0:05:38.50,0:05:42.75,DEFAULT,,0,0,0,,{\r}{\kf13}But{\kf13} the{\kf50} feel{\kf25}ing{\kf13} in{\kf25} my{\kf50} heart{\kf38} can't{\kf13} fol{\kf13}low{\kf172} through
+Dialogue: 0,0:05:45.00,0:05:49.08,DEFAULT,,0,0,0,,{\r}{\kf11}You{\kf11} can{\kf11} give{\kf11} your{\kf33} bro{\kf22}ken{\kf22} heart{\kf11} to{\kf143} me{\kf133}~
+Dialogue: 0,0:05:49.25,0:05:51.42,DEFAULT,,0,0,0,,{\r}{\kf14}'Cause{\kf14} you{\kf58} know{\kf14} that{\kf29} I'll{\kf14} stay{\kf29} with{\kf45} you
+Dialogue: 0,0:05:52.00,0:05:58.58,DEFAULT,,0,0,0,,{\r}{\kf21}That's{\kf21} why{\kf21} they{\kf21} call{\kf21} me{\kf32} loy{\kf32}al{\kf489}ty

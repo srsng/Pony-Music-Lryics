@@ -1,46 +1,53 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Failure / Success Song
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Renard, Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.13,0:00:06.22,DEFAULT,,0,0,0,,{\kf57}*gasp*{\kf83} Twilight..?{\kf60} Did you...{\kf60} fail?
-Dialogue: 0,0:00:08.40,0:00:12.30,DEFAULT,,0,0,0,,{\kf27}I{\kf38} was{\kf34} pre{\kf45}pared{\kf30} to{\kf42} do{\kf42} my{\kf45} best
-Dialogue: 0,0:00:12.60,0:00:16.20,DEFAULT,,0,0,0,,{\kf23}Thought{\kf30} I{\kf34} could{\kf45} han{\kf38}dle{\kf42} a{\kf38}ny{\kf49} test
-Dialogue: 0,0:00:16.65,0:00:20.13,DEFAULT,,0,0,0,,{\kf19}For{\kf30} I{\kf38} can{\kf30} do{\kf34} so{\kf53} ma{\kf27}ny{\kf38} tricks
-Dialogue: 0,0:00:20.40,0:00:24.45,DEFAULT,,0,0,0,,{\kf19}But{\kf19} I{\kf23} was{\kf23}n't{\kf27} pre{\kf45}pared{\kf19} fo{\kf27}-or{\kf143} this
-Dialogue: 0,0:00:34.35,0:00:37.42,DEFAULT,,0,0,0,,{\kf15}Le{\kf19}vi{\kf23}ta{\kf23}tion{\kf15} would{\kf23} have{\kf30} been{\kf23} a{\kf68} breeze
-Dialogue: 0,0:00:38.28,0:00:41.55,DEFAULT,,0,0,0,,{\kf30}Facts{\kf15} and{\kf23} fi{\kf23}gures{\kf19} I{\kf12} re{\kf23}cite{\kf30} with{\kf68} ease
-Dialogue: 0,0:00:41.62,0:00:46.38,DEFAULT,,0,0,0,,{\kf8}The{\kf30} square{\kf15} root{\kf15} of{\kf94} 546{\kf15} is{\kf285} 23.36664289109
-Dialogue: 0,0:00:46.95,0:00:47.70,DEFAULT,,0,0,0,,{\kf75}She is correct!
-Dialogue: 0,0:00:48.52,0:00:51.67,DEFAULT,,0,0,0,,{\kf15}I{\kf19} could{\kf27} ace{\kf12} a{\kf27} quiz{\kf15} on{\kf38} friend{\kf34}ship's{\kf75} bliss
-Dialogue: 0,0:00:52.53,0:00:56.02,DEFAULT,,0,0,0,,{\kf27}But{\kf12} I{\kf23} was{\kf19}n't{\kf34} pre{\kf45}pared{\kf38} for{\kf105} this
-Dialogue: 0,0:00:57.07,0:01:00.33,DEFAULT,,0,0,0,,{\kf30}Will{\kf27} I{\kf53} fail{\kf15} or{\kf45} will{\kf23} I{\kf34} pass
-Dialogue: 0,0:01:00.52,0:01:03.00,DEFAULT,,0,0,0,,{\kf34}I{\kf38} can't{\kf34} be{\kf98} sure
-Dialogue: 0,0:01:04.80,0:01:08.32,DEFAULT,,0,0,0,,{\kf19}My{\kf45} mind{\kf30} is{\kf42} sharp,{\kf23} my{\kf49} skills{\kf34} in{\kf45}tact
-Dialogue: 0,0:01:08.47,0:01:11.32,DEFAULT,,0,0,0,,{\kf45}My{\kf53} heart{\kf30} is{\kf135} pure
-Dialogue: 0,0:01:13.05,0:01:16.35,DEFAULT,,0,0,0,,{\kf38}Oh,{\kf38} I've{\kf15} ta{\kf23}ken{\kf30} my{\kf42} share{\kf27} of{\kf42} licks
-Dialogue: 0,0:01:16.72,0:01:20.47,DEFAULT,,0,0,0,,{\kf23}I've{\kf42} made{\kf38} it{\kf23} thro{\kf19}-ugh{\kf30} the{\kf49} thin{\kf38} and{\kf57} thick
-Dialogue: 0,0:01:20.77,0:01:23.77,DEFAULT,,0,0,0,,{\kf23}But{\kf38} no{\kf42} I{\kf45} was{\kf124}n't
-Dialogue: 0,0:01:24.75,0:01:27.67,DEFAULT,,0,0,0,,{\kf23}Oh,{\kf38} no{\kf45} I{\kf49} was{\kf113}n't
-Dialogue: 0,0:01:28.80,0:01:36.82,DEFAULT,,0,0,0,,{\kf23}No{\kf45} I{\kf45} was{\kf42}n't{\kf53} pre{\kf98}pared{\kf90} for{\kf383} this
-Dialogue: 0,0:01:45.78,0:01:49.46,DEFAULT,,0,0,0,,{\kf38}You{\kf38} were{\kf27} pre{\kf38}pared{\kf23} to{\kf38} do{\kf38} your{\kf53} best
-Dialogue: 0,0:01:49.65,0:01:53.17,DEFAULT,,0,0,0,,{\kf19}Had{\kf34} what{\kf30} it{\kf38} takes{\kf30} to{\kf30} pass{\kf27} the{\kf64} test
-Dialogue: 0,0:01:53.51,0:01:56.51,DEFAULT,,0,0,0,,{\kf45}All{\kf30} those{\kf45} doubts{\kf30} you{\kf30} can{\kf27} dis{\kf30}miss
-Dialogue: 0,0:01:56.81,0:02:01.65,DEFAULT,,0,0,0,,{\kf42}Turns{\kf34} out{\kf38} you{\kf38} were{\kf34} pre{\kf45}pared{\kf34} for{\kf162} this
-Dialogue: 0,0:02:02.58,0:02:05.06,DEFAULT,,0,0,0,,{\kf19}You{\kf23} clear{\kf12}ly{\kf19} had{\kf19} just{\kf45} what{\kf15} it{\kf42} takes
-Dialogue: 0,0:02:06.26,0:02:08.81,DEFAULT,,0,0,0,,{\kf19}To{\kf27} pass{\kf8} a{\kf27} test{\kf15} with{\kf27} such{\kf38} high{\kf49} stakes
-Dialogue: 0,0:02:09.97,0:02:12.90,DEFAULT,,0,0,0,,{\kf23}We{\kf15} knew{\kf15} for{\kf19} sure{\kf15} you{\kf30} would{\kf45} pre{\kf83}vail
-Dialogue: 0,0:02:13.68,0:02:16.35,DEFAULT,,0,0,0,,{\kf23}Since{\kf19} when{\kf12} does{\kf23} Twi{\kf15}light{\kf23} Spar{\kf19}kle{\kf15} e{\kf19}ver{\kf57} fail?
-Dialogue: 0,0:02:17.62,0:02:20.70,DEFAULT,,0,0,0,,{\kf38}All{\kf30} those{\kf27} doubts{\kf12} that{\kf19} you{\kf34} can{\kf30} dis{\kf42}miss
-Dialogue: 0,0:02:21.22,0:02:24.37,DEFAULT,,0,0,0,,{\kf34}Trust{\kf27} your{\kf27}self{\kf15} and{\kf23} you{\kf38} can{\kf38}not{\kf38} miss
-Dialogue: 0,0:02:24.45,0:02:26.51,DEFAULT,,0,0,0,,{\kf49}Turns{\kf27} out{\kf42} you{\kf68} were
-Dialogue: 0,0:02:28.20,0:02:30.30,DEFAULT,,0,0,0,,{\kf42}Turns{\kf34} out{\kf34} you{\kf75} were
-Dialogue: 0,0:02:31.83,0:02:39.33,DEFAULT,,0,0,0,,{\kf60}Turns{\kf27} out{\kf34} you{\kf38} were{\kf34} pre{\kf75}pared{\kf72} for{\kf330} this
-Dialogue: 0,0:02:43.68,0:02:45.11,DEFAULT,,0,0,0,,{\kf60}Eheheh,{\kf45} yeah!
-Dialogue: 0,0:02:45.52,0:02:49.05,DEFAULT,,0,0,0,,{\kf34}I{\kf27} knew{\kf34} everything{\kf12} was{\kf23} gonna{\kf12} be{\kf49} fine.{\kf34} Heh.{\kf68} *sigh*
+Dialogue: 0,0:00:02.14,0:00:06.22,DEFAULT,,0,0,0,,{\r}{\kf89}*gasp*{\kf130} Twilight..?{\kf95} Did you...{\kf95} fail?
+Dialogue: 0,0:00:08.40,0:00:12.30,DEFAULT,,0,0,0,,{\r}{\kf34}I{\kf49} was{\kf44} pre{\kf58}pared{\kf39} to{\kf54} do{\kf54} my{\kf58} best
+Dialogue: 0,0:00:12.60,0:00:16.20,DEFAULT,,0,0,0,,{\r}{\kf27}Thought{\kf36} I{\kf41} could{\kf55} han{\kf46}dle{\kf50} a{\kf46}ny{\kf59} test
+Dialogue: 0,0:00:16.65,0:00:20.14,DEFAULT,,0,0,0,,{\r}{\kf25}For{\kf39} I{\kf49} can{\kf39} do{\kf44} so{\kf69} ma{\kf34}ny{\kf50} tricks
+Dialogue: 0,0:00:20.40,0:00:24.45,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} I{\kf27} was{\kf27}n't{\kf31} pre{\kf53}pared{\kf22} fo{\kf31}-or{\kf170} this
+Dialogue: 0,0:00:34.35,0:00:37.42,DEFAULT,,0,0,0,,{\r}{\kf19}Le{\kf24}vi{\kf29}ta{\kf29}tion{\kf19} would{\kf29} have{\kf39} been{\kf29} a{\kf90} breeze
+Dialogue: 0,0:00:38.29,0:00:41.55,DEFAULT,,0,0,0,,{\r}{\kf41}Facts{\kf20} and{\kf31} fi{\kf31}gures{\kf25} I{\kf15} re{\kf31}cite{\kf41} with{\kf91} ease
+Dialogue: 0,0:00:41.62,0:00:46.39,DEFAULT,,0,0,0,,{\r}{\kf10}The{\kf31} square{\kf15} root{\kf15} of{\kf97} 546{\kf15} is{\kf293} 23.36664289109
+Dialogue: 0,0:00:46.95,0:00:47.70,DEFAULT,,0,0,0,,{\r}{\kf75}She is correct!
+Dialogue: 0,0:00:48.52,0:00:51.67,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf23} could{\kf32} ace{\kf14} a{\kf32} quiz{\kf18} on{\kf46} friend{\kf41}ship's{\kf91} bliss
+Dialogue: 0,0:00:52.54,0:00:56.02,DEFAULT,,0,0,0,,{\r}{\kf31}But{\kf13} I{\kf26} was{\kf22}n't{\kf39} pre{\kf52}pared{\kf44} for{\kf122} this
+Dialogue: 0,0:00:57.08,0:01:00.34,DEFAULT,,0,0,0,,{\r}{\kf43}Will{\kf38} I{\kf76} fail{\kf22} or{\kf65} will{\kf33} I{\kf49} pass
+Dialogue: 0,0:01:00.52,0:01:03.00,DEFAULT,,0,0,0,,{\r}{\kf41}I{\kf46} can't{\kf41} be{\kf120} sure
+Dialogue: 0,0:01:04.80,0:01:08.33,DEFAULT,,0,0,0,,{\r}{\kf23}My{\kf56} mind{\kf37} is{\kf51} sharp,{\kf28} my{\kf60} skills{\kf42} in{\kf56}tact
+Dialogue: 0,0:01:08.47,0:01:11.33,DEFAULT,,0,0,0,,{\r}{\kf49}My{\kf57} heart{\kf33} is{\kf146} pure
+Dialogue: 0,0:01:13.05,0:01:16.35,DEFAULT,,0,0,0,,{\r}{\kf49}Oh,{\kf49} I've{\kf20} ta{\kf30}ken{\kf39} my{\kf54} share{\kf34} of{\kf55} licks
+Dialogue: 0,0:01:16.72,0:01:20.47,DEFAULT,,0,0,0,,{\r}{\kf27}I've{\kf49} made{\kf45} it{\kf27} thro{\kf22}-ugh{\kf36} the{\kf58} thin{\kf45} and{\kf66} thick
+Dialogue: 0,0:01:20.78,0:01:23.78,DEFAULT,,0,0,0,,{\r}{\kf25}But{\kf42} no{\kf46} I{\kf50} was{\kf137}n't
+Dialogue: 0,0:01:24.75,0:01:27.67,DEFAULT,,0,0,0,,{\r}{\kf25}Oh,{\kf41} no{\kf49} I{\kf53} was{\kf124}n't
+Dialogue: 0,0:01:28.80,0:01:36.83,DEFAULT,,0,0,0,,{\r}{\kf23}No{\kf47} I{\kf47} was{\kf43}n't{\kf54} pre{\kf101}pared{\kf93} for{\kf395} this
+Dialogue: 0,0:01:45.79,0:01:49.46,DEFAULT,,0,0,0,,{\r}{\kf48}You{\kf48} were{\kf33} pre{\kf48}pared{\kf29} to{\kf48} do{\kf48} your{\kf66} best
+Dialogue: 0,0:01:49.65,0:01:53.17,DEFAULT,,0,0,0,,{\r}{\kf24}Had{\kf44} what{\kf39} it{\kf49} takes{\kf39} to{\kf39} pass{\kf34} the{\kf84} test
+Dialogue: 0,0:01:53.51,0:01:56.51,DEFAULT,,0,0,0,,{\r}{\kf57}All{\kf38} those{\kf57} doubts{\kf38} you{\kf38} can{\kf33} dis{\kf39}miss
+Dialogue: 0,0:01:56.81,0:02:01.65,DEFAULT,,0,0,0,,{\r}{\kf47}Turns{\kf39} out{\kf43} you{\kf43} were{\kf39} pre{\kf51}pared{\kf39} for{\kf183} this
+Dialogue: 0,0:02:02.59,0:02:05.06,DEFAULT,,0,0,0,,{\r}{\kf24}You{\kf29} clear{\kf15}ly{\kf24} had{\kf24} just{\kf58} what{\kf19} it{\kf54} takes
+Dialogue: 0,0:02:06.26,0:02:08.81,DEFAULT,,0,0,0,,{\r}{\kf23}To{\kf32} pass{\kf10} a{\kf32} test{\kf19} with{\kf32} such{\kf46} high{\kf61} stakes
+Dialogue: 0,0:02:09.97,0:02:12.90,DEFAULT,,0,0,0,,{\r}{\kf27}We{\kf18} knew{\kf18} for{\kf22} sure{\kf18} you{\kf36} would{\kf54} pre{\kf99}vail
+Dialogue: 0,0:02:13.69,0:02:16.35,DEFAULT,,0,0,0,,{\r}{\kf27}Since{\kf23} when{\kf14} does{\kf27} Twi{\kf18}light{\kf27} Spar{\kf23}kle{\kf18} e{\kf23}ver{\kf66} fail?
+Dialogue: 0,0:02:17.62,0:02:20.70,DEFAULT,,0,0,0,,{\r}{\kf50}All{\kf40} those{\kf35} doubts{\kf15} that{\kf25} you{\kf45} can{\kf40} dis{\kf57}miss
+Dialogue: 0,0:02:21.22,0:02:24.38,DEFAULT,,0,0,0,,{\r}{\kf45}Trust{\kf35} your{\kf35}self{\kf20} and{\kf30} you{\kf50} can{\kf50}not{\kf50} miss
+Dialogue: 0,0:02:24.45,0:02:26.51,DEFAULT,,0,0,0,,{\r}{\kf55}Turns{\kf29} out{\kf46} you{\kf76} were
+Dialogue: 0,0:02:28.20,0:02:30.30,DEFAULT,,0,0,0,,{\r}{\kf47}Turns{\kf39} out{\kf39} you{\kf85} were
+Dialogue: 0,0:02:31.84,0:02:39.34,DEFAULT,,0,0,0,,{\r}{\kf67}Turns{\kf29} out{\kf38} you{\kf42} were{\kf38} pre{\kf84}pared{\kf80} for{\kf372} this
+Dialogue: 0,0:02:43.69,0:02:45.11,DEFAULT,,0,0,0,,{\r}{\kf81}Eheheh,{\kf61} yeah!
+Dialogue: 0,0:02:45.53,0:02:49.05,DEFAULT,,0,0,0,,{\r}{\kf41}I{\kf32} knew{\kf41} everything{\kf14} was{\kf28} gonna{\kf14} be{\kf60} fine.{\kf41} Heh.{\kf82} *sigh*

@@ -1,53 +1,60 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Friendship
+Artist: Aviators
+Original Timing: mylittlekaraoke.com by Diponi
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:29.89,0:00:33.76,DEFAULT,,0,0,0,,{\kf24}I{\kf18} be{\kf41}lieved{\kf18} what{\kf18} we{\kf35} had{\kf35} would{\kf41} last{\kf24} for{\kf35}ev{\kf35}er
-Dialogue: 0,0:00:34.10,0:00:37.39,DEFAULT,,0,0,0,,{\kf24}Af{\kf12}ter{\kf18} all{\kf18} the{\kf12} mo{\kf24}ments{\kf18} we{\kf47} spent{\kf18} to{\kf35}get{\kf29}her
-Dialogue: 0,0:00:37.91,0:00:42.06,DEFAULT,,0,0,0,,{\kf29}Were{\kf29} they{\kf18} mea{\kf24}ning{\kf29}less{\kf47} in{\kf24} the{\kf58} end{\kf24}~{\kf81}~?
-Dialogue: 0,0:00:44.66,0:00:47.95,DEFAULT,,0,0,0,,{\kf18}If{\kf35} friend{\kf24}ship{\kf18} is{\kf18} sup{\kf29}posed{\kf18} to{\kf29} be{\kf41} ma{\kf47}gic
-Dialogue: 0,0:00:48.35,0:00:51.58,DEFAULT,,0,0,0,,{\kf24}Then{\kf35} why{\kf18} has{\kf18} ours{\kf18} be{\kf35}come{\kf29} so{\kf41} tra{\kf47}gic
-Dialogue: 0,0:00:52.10,0:00:56.77,DEFAULT,,0,0,0,,{\kf18}I'm{\kf29} no{\kf41} lon{\kf18}ger{\kf41} proud{\kf12} to{\kf35} call{\kf18} you{\kf47} my{\kf35}~{\kf99} friend
-Dialogue: 0,0:00:59.43,0:01:02.54,DEFAULT,,0,0,0,,{\kf47}Feels{\kf47} like{\kf24} af{\kf18}ter{\kf35} all{\kf24} this{\kf75} time
-Dialogue: 0,0:01:02.95,0:01:06.64,DEFAULT,,0,0,0,,{\kf12}You{\kf24} should{\kf18} have{\kf58} known{\kf35} we'd{\kf29} be{\kf35} here{\kf18} to{\kf52}night
-Dialogue: 0,0:01:06.87,0:01:09.76,DEFAULT,,0,0,0,,{\kf24}Won{\kf12}de{\kf35}ring{\kf18} where{\kf12} the{\kf41} past{\kf35} has{\kf58} gone
-Dialogue: 0,0:01:10.10,0:01:14.14,DEFAULT,,0,0,0,,{\kf18}All{\kf12} the{\kf24} me{\kf24}mo{\kf41}ries{\kf24} we{\kf47} lost{\kf24} when{\kf29} we{\kf47} moved{\kf47} on
-Dialogue: 0,0:01:14.26,0:01:17.60,DEFAULT,,0,0,0,,{\kf18}Hon{\kf18}est{\kf70}ly,{\kf18} it{\kf35} hurts{\kf35} thin{\kf81}king
-Dialogue: 0,0:01:17.83,0:01:18.93,DEFAULT,,0,0,0,,{\kf12}A{\kf24}bout{\kf12} the{\kf52} way
-Dialogue: 0,0:01:19.33,0:01:21.41,DEFAULT,,0,0,0,,{\kf12}We{\kf24} were,{\kf35} just{\kf29} you{\kf18} and{\kf52} me
-Dialogue: 0,0:01:21.70,0:01:26.31,DEFAULT,,0,0,0,,{\kf24}This{\kf18} is{\kf24}n't{\kf18} what{\kf41} friend{\kf29}ship's{\kf18} sup{\kf47}posed{\kf24} to{\kf52} be{\kf24}~{\kf75}~
-Dialogue: 0,0:01:43.79,0:01:46.91,DEFAULT,,0,0,0,,{\kf18}Gi{\kf24}ving{\kf35} up{\kf12} al{\kf18}ways{\kf29} seemed{\kf24} so{\kf41} ea{\kf58}sy
-Dialogue: 0,0:01:47.49,0:01:51.01,DEFAULT,,0,0,0,,{\kf18}But{\kf18} it's{\kf58} hard{\kf47} when{\kf24} it's{\kf29} you{\kf29} and{\kf58} me
-Dialogue: 0,0:01:51.41,0:01:55.45,DEFAULT,,0,0,0,,{\kf18}And{\kf24} I{\kf35} don't{\kf64} wan{\kf12}na{\kf64} say{\kf18} good{\kf122}bye
-Dialogue: 0,0:01:58.56,0:02:02.14,DEFAULT,,0,0,0,,{\kf41}We've{\kf47} hurt{\kf35} each{\kf18} o{\kf18}ther{\kf24} time{\kf18} and{\kf41} time{\kf24} a{\kf58}gain
-Dialogue: 0,0:02:02.54,0:02:05.83,DEFAULT,,0,0,0,,{\kf18}I{\kf35} guess{\kf35} all{\kf29} good{\kf24} things{\kf18} come{\kf41} to{\kf18} an{\kf52} end
-Dialogue: 0,0:02:06.18,0:02:10.62,DEFAULT,,0,0,0,,{\kf18}But{\kf35} I{\kf24} don't{\kf64} wan{\kf24}na{\kf35} lose{\kf18} you{\kf18} to{\kf70}night{\kf24}~{\kf75}~
-Dialogue: 0,0:02:13.27,0:02:16.33,DEFAULT,,0,0,0,,{\kf47}Feels{\kf41} like{\kf12} af{\kf18}ter{\kf29} all{\kf24} this{\kf75} time
-Dialogue: 0,0:02:16.79,0:02:20.49,DEFAULT,,0,0,0,,{\kf12}You{\kf24} should{\kf18} have{\kf52} known{\kf35} we'd{\kf41} be{\kf35} here{\kf24} to{\kf52}night
-Dialogue: 0,0:02:20.72,0:02:23.60,DEFAULT,,0,0,0,,{\kf24}Won{\kf12}de{\kf35}ring{\kf18} where{\kf12} the{\kf35} past{\kf29} has{\kf58} gone
-Dialogue: 0,0:02:23.89,0:02:27.93,DEFAULT,,0,0,0,,{\kf24}All{\kf12} the{\kf24} me{\kf18}mo{\kf35}ries{\kf24} we{\kf47} lost{\kf18} when{\kf35} we{\kf47} moved{\kf47} on
-Dialogue: 0,0:02:28.10,0:02:31.45,DEFAULT,,0,0,0,,{\kf18}Hon{\kf24}est{\kf70}ly,{\kf18} it{\kf29} hurts{\kf35} thin{\kf81}king
-Dialogue: 0,0:02:31.62,0:02:32.77,DEFAULT,,0,0,0,,{\kf12}A{\kf29}bout{\kf12} the{\kf52} way
-Dialogue: 0,0:02:33.12,0:02:35.26,DEFAULT,,0,0,0,,{\kf18}We{\kf24} were,{\kf35} just{\kf29} you{\kf29} and{\kf47} me
-Dialogue: 0,0:02:35.54,0:02:40.16,DEFAULT,,0,0,0,,{\kf18}This{\kf18} is{\kf18}n't{\kf24} what{\kf35} friend{\kf29}ship's{\kf24} sup{\kf41}posed{\kf24} to{\kf52} be{\kf24}~{\kf75}~
-Dialogue: 0,0:02:58.10,0:03:02.77,DEFAULT,,0,0,0,,{\kf75}Don't{\kf99} say{\kf75} good{\kf185}bye
-Dialogue: 0,0:03:04.51,0:03:11.02,DEFAULT,,0,0,0,,{\kf12}I{\kf41} pro{\kf18}mise{\kf58} eve{\kf18}ry{\kf70}thing{\kf24} will{\kf52} be{\kf52} al{\kf29}right{\kf162}~{\kf75}~
-Dialogue: 0,0:03:12.41,0:03:13.85,DEFAULT,,0,0,0,,{\kf35}Don't{\kf41} leave{\kf52} me
-Dialogue: 0,0:03:14.26,0:03:15.81,DEFAULT,,0,0,0,,{\kf29}I'm{\kf47} so{\kf58}rry
-Dialogue: 0,0:03:16.04,0:03:19.62,DEFAULT,,0,0,0,,{\kf35}I'll{\kf41} fix{\kf29} this{\kf35} if{\kf18} it{\kf35} costs{\kf18} me{\kf24} my{\kf52} life
-Dialogue: 0,0:03:20.08,0:03:24.93,DEFAULT,,0,0,0,,{\kf18}I'm{\kf35} going{\kf35} to{\kf81} make{\kf58} this{\kf197} right
-Dialogue: 0,0:03:58.51,0:04:01.68,DEFAULT,,0,0,0,,{\kf47}Feels{\kf41} like{\kf18} af{\kf18}ter{\kf29} all{\kf18} this{\kf87} time
-Dialogue: 0,0:04:02.02,0:04:05.72,DEFAULT,,0,0,0,,{\kf18}You{\kf18} should{\kf24} have{\kf52} known{\kf35} we'd{\kf35} be{\kf41} here{\kf18} to{\kf52}night
-Dialogue: 0,0:04:06.01,0:04:08.89,DEFAULT,,0,0,0,,{\kf18}Won{\kf18}de{\kf35}ring{\kf24} where{\kf18} the{\kf41} past{\kf41} has{\kf58} gone
-Dialogue: 0,0:04:09.12,0:04:13.10,DEFAULT,,0,0,0,,{\kf24}All{\kf18} the{\kf18} me{\kf18}mo{\kf35}ries{\kf18} we{\kf41} lost{\kf24} when{\kf29} we{\kf47} moved{\kf35} on
-Dialogue: 0,0:04:13.33,0:04:16.68,DEFAULT,,0,0,0,,{\kf18}Hon{\kf18}est{\kf64}ly,{\kf24} it{\kf29} hurts{\kf35} thin{\kf87}king
-Dialogue: 0,0:04:16.85,0:04:18.06,DEFAULT,,0,0,0,,{\kf18}A{\kf24}bout{\kf12} the{\kf58} way
-Dialogue: 0,0:04:18.35,0:04:20.49,DEFAULT,,0,0,0,,{\kf18}We{\kf24} were,{\kf29} just{\kf29} you{\kf24} and{\kf47} me
-Dialogue: 0,0:04:20.77,0:04:25.45,DEFAULT,,0,0,0,,{\kf24}This{\kf18} is{\kf18}n't{\kf24} what{\kf29} friend{\kf29}ship's{\kf24} sup{\kf41}posed{\kf18} to{\kf58} be{\kf24}~{\kf81}~
+Dialogue: 0,0:00:29.89,0:00:33.76,DEFAULT,,0,0,0,,{\r}{\kf28}I{\kf21} be{\kf49}lieved{\kf21} what{\kf21} we{\kf42} had{\kf42} would{\kf49} last{\kf28} for{\kf42}ev{\kf44}er
+Dialogue: 0,0:00:34.11,0:00:37.40,DEFAULT,,0,0,0,,{\r}{\kf31}Af{\kf15}ter{\kf23} all{\kf23} the{\kf15} mo{\kf31}ments{\kf23} we{\kf61} spent{\kf23} to{\kf46}get{\kf38}her
+Dialogue: 0,0:00:37.91,0:00:42.07,DEFAULT,,0,0,0,,{\r}{\kf33}Were{\kf33} they{\kf20} mea{\kf27}ning{\kf33}less{\kf54} in{\kf27} the{\kf67} end{\kf27}~{\kf94}~?
+Dialogue: 0,0:00:44.66,0:00:47.95,DEFAULT,,0,0,0,,{\r}{\kf21}If{\kf42} friend{\kf28}ship{\kf21} is{\kf21} sup{\kf35}posed{\kf21} to{\kf35} be{\kf49} ma{\kf56}gic
+Dialogue: 0,0:00:48.36,0:00:51.59,DEFAULT,,0,0,0,,{\r}{\kf29}Then{\kf43} why{\kf22} has{\kf22} ours{\kf22} be{\kf43}come{\kf36} so{\kf50} tra{\kf56}gic
+Dialogue: 0,0:00:52.11,0:00:56.78,DEFAULT,,0,0,0,,{\r}{\kf21}I'm{\kf35} no{\kf49} lon{\kf21}ger{\kf49} proud{\kf14} to{\kf42} call{\kf21} you{\kf56} my{\kf42}~{\kf117} friend
+Dialogue: 0,0:00:59.43,0:01:02.55,DEFAULT,,0,0,0,,{\r}{\kf54}Feels{\kf54} like{\kf27} af{\kf20}ter{\kf41} all{\kf27} this{\kf89} time
+Dialogue: 0,0:01:02.95,0:01:06.64,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf31} should{\kf23} have{\kf77} known{\kf46} we'd{\kf38} be{\kf46} here{\kf23} to{\kf70}night
+Dialogue: 0,0:01:06.88,0:01:09.76,DEFAULT,,0,0,0,,{\r}{\kf29}Won{\kf14}de{\kf43}ring{\kf22} where{\kf14} the{\kf50} past{\kf43} has{\kf73} gone
+Dialogue: 0,0:01:10.11,0:01:14.14,DEFAULT,,0,0,0,,{\r}{\kf21}All{\kf14} the{\kf28} me{\kf28}mo{\kf50}ries{\kf28} we{\kf57} lost{\kf28} when{\kf35} we{\kf57} moved{\kf58} on
+Dialogue: 0,0:01:14.26,0:01:17.61,DEFAULT,,0,0,0,,{\r}{\kf21}Hon{\kf21}est{\kf86}ly,{\kf21} it{\kf43} hurts{\kf43} thin{\kf100}king
+Dialogue: 0,0:01:17.84,0:01:18.93,DEFAULT,,0,0,0,,{\r}{\kf13}A{\kf26}bout{\kf13} the{\kf58} way
+Dialogue: 0,0:01:19.34,0:01:21.41,DEFAULT,,0,0,0,,{\r}{\kf14}We{\kf29} were,{\kf43} just{\kf36} you{\kf22} and{\kf64} me
+Dialogue: 0,0:01:21.70,0:01:26.32,DEFAULT,,0,0,0,,{\r}{\kf28}This{\kf21} is{\kf28}n't{\kf21} what{\kf48} friend{\kf34}ship's{\kf21} sup{\kf55}posed{\kf28} to{\kf62} be{\kf28}~{\kf88}~
+Dialogue: 0,0:01:43.80,0:01:46.91,DEFAULT,,0,0,0,,{\r}{\kf21}Gi{\kf28}ving{\kf43} up{\kf14} al{\kf21}ways{\kf35} seemed{\kf28} so{\kf50} ea{\kf72}sy
+Dialogue: 0,0:01:47.49,0:01:51.01,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} it's{\kf73} hard{\kf59} when{\kf29} it's{\kf37} you{\kf37} and{\kf73} me
+Dialogue: 0,0:01:51.41,0:01:55.45,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf26} I{\kf40} don't{\kf73} wan{\kf13}na{\kf73} say{\kf20} good{\kf139}bye
+Dialogue: 0,0:01:58.57,0:02:02.14,DEFAULT,,0,0,0,,{\r}{\kf46}We've{\kf52} hurt{\kf39} each{\kf20} o{\kf20}ther{\kf26} time{\kf20} and{\kf46} time{\kf26} a{\kf63}gain
+Dialogue: 0,0:02:02.55,0:02:05.84,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf43} guess{\kf43} all{\kf36} good{\kf29} things{\kf21} come{\kf50} to{\kf21} an{\kf65} end
+Dialogue: 0,0:02:06.18,0:02:10.63,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf39} I{\kf26} don't{\kf71} wan{\kf26}na{\kf39} lose{\kf19} you{\kf19} to{\kf77}night{\kf26}~{\kf83}~
+Dialogue: 0,0:02:13.28,0:02:16.34,DEFAULT,,0,0,0,,{\r}{\kf58}Feels{\kf51} like{\kf15} af{\kf22}ter{\kf36} all{\kf29} this{\kf95} time
+Dialogue: 0,0:02:16.80,0:02:20.49,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf30} should{\kf22} have{\kf66} known{\kf44} we'd{\kf52} be{\kf44} here{\kf30} to{\kf66}night
+Dialogue: 0,0:02:20.72,0:02:23.61,DEFAULT,,0,0,0,,{\r}{\kf30}Won{\kf15}de{\kf45}ring{\kf23} where{\kf15} the{\kf45} past{\kf38} has{\kf77} gone
+Dialogue: 0,0:02:23.90,0:02:27.93,DEFAULT,,0,0,0,,{\r}{\kf29}All{\kf14} the{\kf29} me{\kf22}mo{\kf43}ries{\kf29} we{\kf58} lost{\kf22} when{\kf43} we{\kf58} moved{\kf57} on
+Dialogue: 0,0:02:28.11,0:02:31.45,DEFAULT,,0,0,0,,{\r}{\kf21}Hon{\kf29}est{\kf86}ly,{\kf21} it{\kf36} hurts{\kf43} thin{\kf99}king
+Dialogue: 0,0:02:31.63,0:02:32.78,DEFAULT,,0,0,0,,{\r}{\kf13}A{\kf32}bout{\kf13} the{\kf57} way
+Dialogue: 0,0:02:33.13,0:02:35.26,DEFAULT,,0,0,0,,{\r}{\kf21}We{\kf27} were,{\kf41} just{\kf34} you{\kf34} and{\kf56} me
+Dialogue: 0,0:02:35.55,0:02:40.16,DEFAULT,,0,0,0,,{\r}{\kf21}This{\kf21} is{\kf21}n't{\kf28} what{\kf43} friend{\kf36}ship's{\kf28} sup{\kf50}posed{\kf28} to{\kf64} be{\kf28}~{\kf94}~
+Dialogue: 0,0:02:58.11,0:03:02.78,DEFAULT,,0,0,0,,{\r}{\kf81}Don't{\kf106} say{\kf81} good{\kf199}bye
+Dialogue: 0,0:03:04.51,0:03:11.03,DEFAULT,,0,0,0,,{\r}{\kf12}I{\kf43} pro{\kf19}mise{\kf62} eve{\kf19}ry{\kf75}thing{\kf25} will{\kf56} be{\kf56} al{\kf31}right{\kf174}~{\kf80}~
+Dialogue: 0,0:03:12.41,0:03:13.86,DEFAULT,,0,0,0,,{\r}{\kf39}Don't{\kf46} leave{\kf59} me
+Dialogue: 0,0:03:14.26,0:03:15.82,DEFAULT,,0,0,0,,{\r}{\kf34}I'm{\kf54} so{\kf68}rry
+Dialogue: 0,0:03:16.05,0:03:19.63,DEFAULT,,0,0,0,,{\r}{\kf44}I'll{\kf51} fix{\kf37} this{\kf44} if{\kf22} it{\kf44} costs{\kf22} me{\kf29} my{\kf65} life
+Dialogue: 0,0:03:20.09,0:03:24.93,DEFAULT,,0,0,0,,{\r}{\kf20}I'm{\kf40} going{\kf40} to{\kf93} make{\kf66} this{\kf226} right
+Dialogue: 0,0:03:58.51,0:04:01.68,DEFAULT,,0,0,0,,{\r}{\kf58}Feels{\kf50} like{\kf22} af{\kf22}ter{\kf36} all{\kf22} this{\kf107} time
+Dialogue: 0,0:04:02.03,0:04:05.72,DEFAULT,,0,0,0,,{\r}{\kf22}You{\kf22} should{\kf30} have{\kf66} known{\kf44} we'd{\kf44} be{\kf52} here{\kf22} to{\kf67}night
+Dialogue: 0,0:04:06.01,0:04:08.90,DEFAULT,,0,0,0,,{\r}{\kf20}Won{\kf20}de{\kf40}ring{\kf27} where{\kf20} the{\kf47} past{\kf47} has{\kf67} gone
+Dialogue: 0,0:04:09.13,0:04:13.11,DEFAULT,,0,0,0,,{\r}{\kf31}All{\kf23} the{\kf23} me{\kf23}mo{\kf46}ries{\kf23} we{\kf54} lost{\kf31} when{\kf38} we{\kf61} moved{\kf45} on
+Dialogue: 0,0:04:13.34,0:04:16.68,DEFAULT,,0,0,0,,{\r}{\kf21}Hon{\kf21}est{\kf78}ly,{\kf29} it{\kf36} hurts{\kf43} thin{\kf107}king
+Dialogue: 0,0:04:16.86,0:04:18.07,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf25}bout{\kf13} the{\kf64} way
+Dialogue: 0,0:04:18.36,0:04:20.49,DEFAULT,,0,0,0,,{\r}{\kf22}We{\kf29} were,{\kf37} just{\kf37} you{\kf29} and{\kf59} me
+Dialogue: 0,0:04:20.78,0:04:25.45,DEFAULT,,0,0,0,,{\r}{\kf28}This{\kf21} is{\kf21}n't{\kf28} what{\kf35} friend{\kf35}ship's{\kf28} sup{\kf50}posed{\kf21} to{\kf71} be{\kf28}~{\kf101}~

@@ -1,49 +1,56 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Mad Mares
+Artist: Feather
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:12.03,0:00:16.31,DEFAULT,,0,0,0,,{\kf31}All{\kf18} a{\kf45}round{\kf31} me{\kf23} are{\kf23} fa{\kf31}mil{\kf45}iar{\kf53} po{\kf45}nies
-Dialogue: 0,0:00:16.84,0:00:22.53,DEFAULT,,0,0,0,,{\kf23}All{\kf45} so{\kf45} cra{\kf31}-a{\kf49}zy,{\kf18} all{\kf45} so{\kf40} cra{\kf23}-a{\kf31}zy{\kf31}-y{\kf31}-y
-Dialogue: 0,0:00:23.24,0:00:27.61,DEFAULT,,0,0,0,,{\kf36}Star{\kf27}ted{\kf31} out{\kf27} with{\kf23} just{\kf27} my{\kf36} good{\kf45} in{\kf53}ten{\kf49}tions
-Dialogue: 0,0:00:28.14,0:00:33.88,DEFAULT,,0,0,0,,{\kf40}Get{\kf40}ting{\kf71} no{\kf45}where,{\kf40} get{\kf49}ting{\kf49} no{\kf45}whe{\kf27}-e{\kf36}-ere
-Dialogue: 0,0:00:34.58,0:00:38.82,DEFAULT,,0,0,0,,{\kf27}Po{\kf27}ny{\kf36}ville{\kf18} is{\kf36} fil{\kf27}ling{\kf18} up{\kf49} with{\kf45} la{\kf27}-augh{\kf36}ter
-Dialogue: 0,0:00:39.44,0:00:45.13,DEFAULT,,0,0,0,,{\kf18}A{\kf49} di{\kf36}sa{\kf27}-as{\kf40}ter,{\kf14} a{\kf53} di{\kf36}sa{\kf27}-as{\kf31}te{\kf36}-e{\kf36}-er
-Dialogue: 0,0:00:45.84,0:00:50.16,DEFAULT,,0,0,0,,{\kf27}Dunk{\kf31} my{\kf36} head{\kf23} in{\kf36}to{\kf14} a{\kf31} pool{\kf40} of{\kf40} mi{\kf31}-ir{\kf49}rors
-Dialogue: 0,0:00:50.73,0:00:56.34,DEFAULT,,0,0,0,,{\kf40}Get{\kf40}ting{\kf71} nea{\kf45}rer,{\kf40} get{\kf49}ting{\kf62} nea{\kf40}re{\kf31}-e{\kf31}-er
-Dialogue: 0,0:00:57.49,0:00:59.87,DEFAULT,,0,0,0,,{\kf14}And{\kf9} I{\kf40} find{\kf14} it{\kf36} kind{\kf14}a{\kf40} fun{\kf23}ny,
-Dialogue: 0,0:01:00.31,0:01:02.52,DEFAULT,,0,0,0,,{\kf9}I{\kf40} find{\kf14} it{\kf36} kind{\kf14}a{\kf49} sad
-Dialogue: 0,0:01:03.14,0:01:05.61,DEFAULT,,0,0,0,,{\kf23}The{\kf23} co{\kf27}pies{\kf23} I{\kf31} cre{\kf31}a{\kf27}ted
-Dialogue: 0,0:01:05.65,0:01:08.21,DEFAULT,,0,0,0,,{\kf18}Are{\kf27} far{\kf36} more{\kf18} tha{\kf23}-an{\kf23} I{\kf18} had{\kf49} planned
-Dialogue: 0,0:01:08.83,0:01:11.21,DEFAULT,,0,0,0,,{\kf18}I{\kf31} don't{\kf23} know{\kf27} how{\kf14} to{\kf31} tell{\kf31} you,
-Dialogue: 0,0:01:11.61,0:01:13.86,DEFAULT,,0,0,0,,{\kf27}Don't{\kf31} think{\kf23} you'll{\kf27} un{\kf14}der{\kf62}stand
-Dialogue: 0,0:01:14.44,0:01:16.86,DEFAULT,,0,0,0,,{\kf23}When{\kf23} Pin{\kf27}kies{\kf31} run{\kf18} in{\kf31} num{\kf27}bers
-Dialogue: 0,0:01:17.00,0:01:19.16,DEFAULT,,0,0,0,,{\kf18}It's{\kf14} a{\kf31} ve{\kf14}ry{\kf14}-y,{\kf27} ve{\kf27}ry{\kf18}-y
-Dialogue: 0,0:01:20.39,0:01:23.35,DEFAULT,,0,0,0,,{\kf89}Mad{\kf186} world
-Dialogue: 0,0:01:26.13,0:01:29.88,DEFAULT,,0,0,0,,{\kf84}Mad{\kf36} wo{\kf248}-orld
-Dialogue: 0,0:01:31.07,0:01:35.49,DEFAULT,,0,0,0,,{\kf23}All{\kf18} I{\kf31} sought{\kf18} was{\kf27} to{\kf27} have{\kf36} fun{\kf53} with{\kf40} my{\kf23}-y{\kf58} friends
-Dialogue: 0,0:01:35.93,0:01:41.62,DEFAULT,,0,0,0,,{\kf36}Now{\kf36} its{\kf49} cra{\kf23}-a{\kf40}zy,{\kf45} now{\kf45} its{\kf40} cra{\kf18}-a{\kf36}zy{\kf31}-y{\kf36}-y
-Dialogue: 0,0:01:42.37,0:01:46.70,DEFAULT,,0,0,0,,{\kf23}Have{\kf23}n't{\kf36} got{\kf14} a{\kf27} clue,{\kf23} how{\kf27} to{\kf45} make{\kf31} a{\kf84}mends
-Dialogue: 0,0:01:47.18,0:01:52.92,DEFAULT,,0,0,0,,{\kf27}Watch{\kf40} the{\kf31} pa{\kf27}int{\kf53} dry,{\kf27} watch{\kf45} the{\kf36} pa{\kf23}int{\kf40} dry{\kf31}-y{\kf45}-y
-Dialogue: 0,0:01:53.58,0:01:57.78,DEFAULT,,0,0,0,,{\kf18}One{\kf23} by{\kf27} one{\kf23} they're{\kf27} judged{\kf23} and{\kf27} ba{\kf45}nished{\kf36} ba{\kf31}-a{\kf31}-ack
-Dialogue: 0,0:01:58.53,0:02:04.31,DEFAULT,,0,0,0,,{\kf31}Pay{\kf31} at{\kf45}ten{\kf45}tion,{\kf31} pay{\kf36} at{\kf45}ten{\kf45}tio{\kf27}-o{\kf49}-on
-Dialogue: 0,0:02:04.93,0:02:09.16,DEFAULT,,0,0,0,,{\kf27}By{\kf23} the{\kf27} end{\kf27} who{\kf23} is{\kf18} the{\kf31} re{\kf40}al{\kf27} Pi{\kf23}-in{\kf40}kie?
-Dialogue: 0,0:02:09.78,0:02:15.52,DEFAULT,,0,0,0,,{\kf27}No{\kf49} one{\kf45} knows{\kf53} now,{\kf31} no{\kf45} one{\kf49} knows{\kf40} no{\kf31}-o{\kf45}-ow
-Dialogue: 0,0:02:16.22,0:02:19.00,DEFAULT,,0,0,0,,{\kf31}And{\kf14} I{\kf40} find{\kf18} it{\kf40} kind{\kf14}a{\kf31} fun{\kf40}ny,
-Dialogue: 0,0:02:19.36,0:02:21.61,DEFAULT,,0,0,0,,{\kf18}I{\kf36} find{\kf14} it{\kf40} kind{\kf14}a{\kf53} sad
-Dialogue: 0,0:02:22.18,0:02:24.65,DEFAULT,,0,0,0,,{\kf18}The{\kf27} co{\kf31}pies{\kf23} I{\kf31} cre{\kf36}a{\kf27}ted,
-Dialogue: 0,0:02:24.70,0:02:27.21,DEFAULT,,0,0,0,,{\kf18}Are{\kf23} far{\kf31} more{\kf18} tha{\kf18}-an{\kf23} I{\kf23} had{\kf49} planned
-Dialogue: 0,0:02:27.83,0:02:30.30,DEFAULT,,0,0,0,,{\kf23}I{\kf27} don't{\kf18} know{\kf36} how{\kf14} to{\kf31} tell{\kf31} you,
-Dialogue: 0,0:02:30.57,0:02:32.91,DEFAULT,,0,0,0,,{\kf27}Don't{\kf36} think{\kf27} you'll{\kf27} un{\kf18}der{\kf58}stand
-Dialogue: 0,0:02:33.44,0:02:35.82,DEFAULT,,0,0,0,,{\kf27}When{\kf27} Pin{\kf27}kies{\kf36} run{\kf23} in{\kf31} num{\kf27}bers
-Dialogue: 0,0:02:35.95,0:02:38.29,DEFAULT,,0,0,0,,{\kf23}It's{\kf18} a{\kf31} ve{\kf18}ry{\kf14}-y,{\kf27} ve{\kf27}ry{\kf31}-y
-Dialogue: 0,0:02:39.35,0:02:42.84,DEFAULT,,0,0,0,,{\kf98}Mad{\kf230} world
-Dialogue: 0,0:02:45.00,0:02:49.06,DEFAULT,,0,0,0,,{\kf93}Mad{\kf40} wo{\kf261}-orld
-Dialogue: 0,0:02:50.65,0:02:52.94,DEFAULT,,0,0,0,,{\kf98}Mad{\kf124} world
-Dialogue: 0,0:02:56.39,0:03:00.09,DEFAULT,,0,0,0,,{\kf89}Mad{\kf230} world
+Dialogue: 0,0:00:12.03,0:00:16.32,DEFAULT,,0,0,0,,{\r}{\kf39}All{\kf22} a{\kf56}round{\kf39} me{\kf28} are{\kf28} fa{\kf39}mil{\kf56}iar{\kf67} po{\kf54}nies
+Dialogue: 0,0:00:16.84,0:00:22.54,DEFAULT,,0,0,0,,{\r}{\kf31}All{\kf62} so{\kf62} cra{\kf43}-a{\kf68}zy,{\kf25} all{\kf62} so{\kf56} cra{\kf31}-a{\kf43}zy{\kf43}-y{\kf43}-y
+Dialogue: 0,0:00:23.24,0:00:27.61,DEFAULT,,0,0,0,,{\r}{\kf44}Star{\kf33}ted{\kf39} out{\kf33} with{\kf28} just{\kf33} my{\kf44} good{\kf55} in{\kf66}ten{\kf62}tions
+Dialogue: 0,0:00:28.14,0:00:33.88,DEFAULT,,0,0,0,,{\r}{\kf52}Get{\kf52}ting{\kf93} no{\kf58}where,{\kf52} get{\kf64}ting{\kf64} no{\kf58}whe{\kf35}-e{\kf46}-ere
+Dialogue: 0,0:00:34.59,0:00:38.82,DEFAULT,,0,0,0,,{\r}{\kf33}Po{\kf33}ny{\kf44}ville{\kf22} is{\kf44} fil{\kf33}ling{\kf22} up{\kf61} with{\kf55} la{\kf33}-augh{\kf44}ter
+Dialogue: 0,0:00:39.44,0:00:45.13,DEFAULT,,0,0,0,,{\r}{\kf25}A{\kf70} di{\kf51}sa{\kf38}-as{\kf57}ter,{\kf19} a{\kf76} di{\kf51}sa{\kf38}-as{\kf44}te{\kf51}-e{\kf49}-er
+Dialogue: 0,0:00:45.84,0:00:50.17,DEFAULT,,0,0,0,,{\r}{\kf32}Dunk{\kf38} my{\kf43} head{\kf27} in{\kf43}to{\kf16} a{\kf38} pool{\kf49} of{\kf49} mi{\kf38}-ir{\kf60}rors
+Dialogue: 0,0:00:50.74,0:00:56.35,DEFAULT,,0,0,0,,{\r}{\kf50}Get{\kf50}ting{\kf89} nea{\kf56}rer,{\kf50} get{\kf61}ting{\kf78} nea{\kf50}re{\kf39}-e{\kf38}-er
+Dialogue: 0,0:00:57.49,0:00:59.88,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf11} I{\kf51} find{\kf17} it{\kf45} kind{\kf17}a{\kf51} fun{\kf29}ny,
+Dialogue: 0,0:01:00.32,0:01:02.52,DEFAULT,,0,0,0,,{\r}{\kf12}I{\kf55} find{\kf18} it{\kf49} kind{\kf18}a{\kf69} sad
+Dialogue: 0,0:01:03.14,0:01:05.61,DEFAULT,,0,0,0,,{\r}{\kf30}The{\kf30} co{\kf36}pies{\kf30} I{\kf42} cre{\kf42}a{\kf37}ted
+Dialogue: 0,0:01:05.66,0:01:08.22,DEFAULT,,0,0,0,,{\r}{\kf22}Are{\kf33} far{\kf44} more{\kf22} tha{\kf27}-an{\kf27} I{\kf22} had{\kf59} planned
+Dialogue: 0,0:01:08.84,0:01:11.22,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf43} don't{\kf31} know{\kf37} how{\kf18} to{\kf43} tell{\kf42} you,
+Dialogue: 0,0:01:11.62,0:01:13.87,DEFAULT,,0,0,0,,{\r}{\kf33}Don't{\kf38} think{\kf27} you'll{\kf33} un{\kf16}der{\kf78}stand
+Dialogue: 0,0:01:14.44,0:01:16.87,DEFAULT,,0,0,0,,{\r}{\kf30}When{\kf30} Pin{\kf36}kies{\kf43} run{\kf24} in{\kf43} num{\kf37}bers
+Dialogue: 0,0:01:17.00,0:01:19.16,DEFAULT,,0,0,0,,{\r}{\kf24}It's{\kf18} a{\kf42} ve{\kf18}ry{\kf18}-y,{\kf36} ve{\kf36}ry{\kf24}-y
+Dialogue: 0,0:01:20.40,0:01:23.36,DEFAULT,,0,0,0,,{\r}{\kf95}Mad{\kf201} world
+Dialogue: 0,0:01:26.14,0:01:29.89,DEFAULT,,0,0,0,,{\r}{\kf86}Mad{\kf36} wo{\kf253}-orld
+Dialogue: 0,0:01:31.08,0:01:35.49,DEFAULT,,0,0,0,,{\r}{\kf28}All{\kf22} I{\kf39} sought{\kf22} was{\kf33} to{\kf33} have{\kf45} fun{\kf67} with{\kf50} my{\kf28}-y{\kf74} friends
+Dialogue: 0,0:01:35.93,0:01:41.63,DEFAULT,,0,0,0,,{\r}{\kf47}Now{\kf47} its{\kf65} cra{\kf29}-a{\kf53}zy,{\kf59} now{\kf59} its{\kf53} cra{\kf23}-a{\kf47}zy{\kf41}-y{\kf46}-y
+Dialogue: 0,0:01:42.38,0:01:46.70,DEFAULT,,0,0,0,,{\r}{\kf29}Have{\kf29}n't{\kf47} got{\kf18} a{\kf35} clue,{\kf29} how{\kf35} to{\kf59} make{\kf41} a{\kf111}mends
+Dialogue: 0,0:01:47.19,0:01:52.93,DEFAULT,,0,0,0,,{\r}{\kf36}Watch{\kf54} the{\kf42} pa{\kf36}int{\kf73} dry,{\kf36} watch{\kf60} the{\kf48} pa{\kf30}int{\kf54} dry{\kf42}-y{\kf63}-y
+Dialogue: 0,0:01:53.59,0:01:57.78,DEFAULT,,0,0,0,,{\r}{\kf24}One{\kf30} by{\kf36} one{\kf30} they're{\kf36} judged{\kf30} and{\kf36} ba{\kf61}nished{\kf49} ba{\kf43}-a{\kf44}-ack
+Dialogue: 0,0:01:58.53,0:02:04.31,DEFAULT,,0,0,0,,{\r}{\kf47}Pay{\kf47} at{\kf67}ten{\kf67}tion,{\kf47} pay{\kf54} at{\kf67}ten{\kf67}tio{\kf40}-o{\kf75}-on
+Dialogue: 0,0:02:04.93,0:02:09.17,DEFAULT,,0,0,0,,{\r}{\kf37}By{\kf31} the{\kf37} end{\kf37} who{\kf31} is{\kf25} the{\kf44} re{\kf56}al{\kf37} Pi{\kf31}-in{\kf58}kie?
+Dialogue: 0,0:02:09.78,0:02:15.52,DEFAULT,,0,0,0,,{\r}{\kf37}No{\kf68} one{\kf62} knows{\kf74} now,{\kf43} no{\kf62} one{\kf68} knows{\kf56} no{\kf43}-o{\kf61}-ow
+Dialogue: 0,0:02:16.23,0:02:19.01,DEFAULT,,0,0,0,,{\r}{\kf38}And{\kf16} I{\kf49} find{\kf22} it{\kf49} kind{\kf16}a{\kf38} fun{\kf50}ny,
+Dialogue: 0,0:02:19.36,0:02:21.61,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf46} find{\kf17} it{\kf52} kind{\kf17}a{\kf70} sad
+Dialogue: 0,0:02:22.19,0:02:24.66,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf34} co{\kf40}pies{\kf29} I{\kf40} cre{\kf46}a{\kf35}ted,
+Dialogue: 0,0:02:24.70,0:02:27.22,DEFAULT,,0,0,0,,{\r}{\kf22}Are{\kf28} far{\kf39} more{\kf22} tha{\kf22}-an{\kf28} I{\kf28} had{\kf63} planned
+Dialogue: 0,0:02:27.84,0:02:30.31,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf37} don't{\kf25} know{\kf49} how{\kf19} to{\kf43} tell{\kf43} you,
+Dialogue: 0,0:02:30.57,0:02:32.91,DEFAULT,,0,0,0,,{\r}{\kf33}Don't{\kf44} think{\kf33} you'll{\kf33} un{\kf22}der{\kf69}stand
+Dialogue: 0,0:02:33.44,0:02:35.82,DEFAULT,,0,0,0,,{\r}{\kf32}When{\kf32} Pin{\kf32}kies{\kf43} run{\kf27} in{\kf38} num{\kf34}bers
+Dialogue: 0,0:02:35.96,0:02:38.30,DEFAULT,,0,0,0,,{\r}{\kf28}It's{\kf22} a{\kf39} ve{\kf22}ry{\kf17}-y,{\kf33} ve{\kf33}ry{\kf40}-y
+Dialogue: 0,0:02:39.36,0:02:42.84,DEFAULT,,0,0,0,,{\r}{\kf104}Mad{\kf245} world
+Dialogue: 0,0:02:45.00,0:02:49.06,DEFAULT,,0,0,0,,{\r}{\kf96}Mad{\kf41} wo{\kf269}-orld
+Dialogue: 0,0:02:50.65,0:02:52.95,DEFAULT,,0,0,0,,{\r}{\kf101}Mad{\kf128} world
+Dialogue: 0,0:02:56.39,0:03:00.10,DEFAULT,,0,0,0,,{\r}{\kf103}Mad{\kf268} world

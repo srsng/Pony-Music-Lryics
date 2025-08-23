@@ -1,31 +1,38 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: You're In My Head Like A Catchy Song
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.05,0:00:10.20,DEFAULT,,0,0,0,,{\kf16}We're{\kf31} far{\kf16} a{\kf56}part{\kf10} in{\kf31} eve{\kf25}ry{\kf16} wa{\kf35}-ay
-Dialogue: 0,0:00:10.60,0:00:13.85,DEFAULT,,0,0,0,,{\kf10}But{\kf35} you're{\kf20} the{\kf25} best{\kf56} part{\kf20} of{\kf40} my{\kf56} day
-Dialogue: 0,0:00:14.20,0:00:17.50,DEFAULT,,0,0,0,,{\kf10}And{\kf40} sure{\kf16} as{\kf10} I{\kf45}-I{\kf40} breathe{\kf20} the{\kf61} air
-Dialogue: 0,0:00:17.95,0:00:20.80,DEFAULT,,0,0,0,,{\kf20}I{\kf10} kno{\kf25}-ow{\kf31} we{\kf31} are{\kf16} the{\kf16} per{\kf20}fect{\kf40} pair
-Dialogue: 0,0:00:21.10,0:00:27.10,DEFAULT,,0,0,0,,{\kf20}On{\kf10} a{\kf20} prick{\kf16}ly{\kf20}-y{\kf40} path{\kf45} that{\kf65} goes{\kf45} on{\kf16} for{\kf221} miles
-Dialogue: 0,0:00:28.30,0:00:35.00,DEFAULT,,0,0,0,,{\kf20}But{\kf10} it's{\kf16} worth{\kf10} i{\kf25}-it{\kf70} just{\kf10} to{\kf65} se{\kf50}-e{\kf16} you{\kf130} smi{\kf20}-i{\kf16}-i{\kf10}-i{\kf10}-i{\kf75}-ile
-Dialogue: 0,0:00:35.70,0:00:38.95,DEFAULT,,0,0,0,,{\kf16}And{\kf35} I{\kf16} can{\kf50}not{\kf16} be{\kf40} pulled{\kf16} a{\kf10}pa{\kf45}-art
-Dialogue: 0,0:00:39.50,0:00:42.45,DEFAULT,,0,0,0,,{\kf25}From{\kf25} the{\kf35} hold{\kf50} you{\kf31} have{\kf10} on{\kf25} my{\kf45} heart
-Dialogue: 0,0:00:42.85,0:00:47.35,DEFAULT,,0,0,0,,{\kf16}And{\kf31} e{\kf25}ven{\kf40} if{\kf10} the{\kf31} world{\kf31} tells{\kf25} us{\kf16} it's{\kf20} wro{\kf70}-ong
-Dialogue: 0,0:00:47.80,0:00:50.65,DEFAULT,,0,0,0,,{\kf16}You're{\kf20} in{\kf10} my{\kf10} he{\kf31}-ad{\kf20} like{\kf10} a{\kf16} cat{\kf10}chy{\kf16}-y{\kf61} song
-Dialogue: 0,0:00:50.80,0:00:52.75,DEFAULT,,0,0,0,,{\kf35}Wow!{\kf16} It's{\kf45} just...{\kf61} wow!
-Dialogue: 0,0:00:52.80,0:00:54.60,DEFAULT,,0,0,0,,{\kf10}Do{\kf10} you{\kf10} like{\kf20} it?{\kf16} Be{\kf31} honest{\kf25} now!
-Dialogue: 0,0:00:55.00,0:00:57.00,DEFAULT,,0,0,0,,{\kf16}It's{\kf16} the{\kf31} best{\kf20} gift{\kf10} you{\kf25} could've{\kf25} given{\kf25} me!
-Dialogue: 0,0:00:57.40,0:01:00.40,DEFAULT,,0,0,0,,{\kf35}Sea{\kf31}sons{\kf10} cha{\kf40}-ange{\kf16} and{\kf20} leaves{\kf20} may{\kf10} fa{\kf40}-all
-Dialogue: 0,0:01:00.80,0:01:04.05,DEFAULT,,0,0,0,,{\kf16}But{\kf35} I'll{\kf16} be{\kf25} with{\kf45} you{\kf20} through{\kf31} them{\kf56} all
-Dialogue: 0,0:01:04.35,0:01:10.75,DEFAULT,,0,0,0,,{\kf16}And{\kf35} rain{\kf20} or{\kf16} shi{\kf56}-ine,{\kf25} you'll{\kf25} al{\kf10}wa{\kf25}-ays{\kf35} be{\kf25} mi{\kf100}-i{\kf10}-i{\kf20}-i{\kf105}-ine
-Dialogue: 0,0:01:11.25,0:01:17.00,DEFAULT,,0,0,0,,{\kf25}On{\kf10} a{\kf16} prick{\kf16}ly{\kf20}-y{\kf40} path{\kf50} that{\kf65} goes{\kf45} on{\kf16} for{\kf16} mi{\kf175}-iles
-Dialogue: 0,0:01:18.40,0:01:25.55,DEFAULT,,0,0,0,,{\kf20}You're{\kf16} the{\kf25} on{\kf10}ly{\kf16}-y{\kf65} one{\kf10} who{\kf40} makes{\kf20} it{\kf35} all{\kf35} worth{\kf130}whi{\kf20}-i{\kf20}-i{\kf10}-i{\kf16}-i{\kf116}-ile
-Dialogue: 0,0:01:26.30,0:01:29.65,DEFAULT,,0,0,0,,{\kf16}And{\kf31} you{\kf25} should{\kf16} no{\kf56}-ot{\kf35} blame{\kf20} me,{\kf20} to{\kf50}-o
-Dialogue: 0,0:01:29.95,0:01:33.40,DEFAULT,,0,0,0,,{\kf20}If{\kf31} I{\kf20} can't{\kf25} help{\kf20} fal{\kf20}lin'{\kf16} in{\kf31} love{\kf25} with{\kf56} you...
+Dialogue: 0,0:00:07.05,0:00:10.20,DEFAULT,,0,0,0,,{\r}{\kf21}We're{\kf41} far{\kf21} a{\kf75}part{\kf14} in{\kf41} eve{\kf34}ry{\kf21} wa{\kf47}-ay
+Dialogue: 0,0:00:10.60,0:00:13.85,DEFAULT,,0,0,0,,{\r}{\kf13}But{\kf44} you're{\kf25} the{\kf31} best{\kf69} part{\kf25} of{\kf50} my{\kf68} day
+Dialogue: 0,0:00:14.20,0:00:17.50,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf55} sure{\kf21} as{\kf14} I{\kf62}-I{\kf55} breathe{\kf28} the{\kf81} air
+Dialogue: 0,0:00:17.95,0:00:20.80,DEFAULT,,0,0,0,,{\r}{\kf28}I{\kf14} kno{\kf35}-ow{\kf42} we{\kf42} are{\kf21} the{\kf21} per{\kf28}fect{\kf54} pair
+Dialogue: 0,0:00:21.10,0:00:27.10,DEFAULT,,0,0,0,,{\r}{\kf23}On{\kf12} a{\kf23} prick{\kf17}ly{\kf23}-y{\kf47} path{\kf52} that{\kf76} goes{\kf52} on{\kf17} for{\kf258} miles
+Dialogue: 0,0:00:28.30,0:00:35.00,DEFAULT,,0,0,0,,{\r}{\kf24}But{\kf12} it's{\kf18} worth{\kf12} i{\kf30}-it{\kf85} just{\kf12} to{\kf79} se{\kf61}-e{\kf18} you{\kf158} smi{\kf24}-i{\kf18}-i{\kf12}-i{\kf12}-i{\kf95}-ile
+Dialogue: 0,0:00:35.70,0:00:38.95,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf47} I{\kf20} can{\kf68}not{\kf20} be{\kf54} pulled{\kf20} a{\kf14}pa{\kf62}-art
+Dialogue: 0,0:00:39.50,0:00:42.45,DEFAULT,,0,0,0,,{\r}{\kf30}From{\kf30} the{\kf42} hold{\kf60} you{\kf36} have{\kf12} on{\kf30} my{\kf55} heart
+Dialogue: 0,0:00:42.85,0:00:47.35,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf44} e{\kf36}ven{\kf58} if{\kf15} the{\kf44} world{\kf44} tells{\kf36} us{\kf22} it's{\kf29} wro{\kf100}-ong
+Dialogue: 0,0:00:47.80,0:00:50.65,DEFAULT,,0,0,0,,{\r}{\kf20}You're{\kf27} in{\kf13} my{\kf13} he{\kf40}-ad{\kf27} like{\kf13} a{\kf20} cat{\kf13}chy{\kf20}-y{\kf79} song
+Dialogue: 0,0:00:50.80,0:00:52.75,DEFAULT,,0,0,0,,{\r}{\kf44}Wow!{\kf19} It's{\kf57} just...{\kf75} wow!
+Dialogue: 0,0:00:52.80,0:00:54.60,DEFAULT,,0,0,0,,{\r}{\kf15}Do{\kf15} you{\kf15} like{\kf30} it?{\kf22} Be{\kf45} honest{\kf38} now!
+Dialogue: 0,0:00:55.00,0:00:57.00,DEFAULT,,0,0,0,,{\r}{\kf18}It's{\kf18} the{\kf36} best{\kf24} gift{\kf12} you{\kf30} could've{\kf30} given{\kf32} me!
+Dialogue: 0,0:00:57.40,0:01:00.40,DEFAULT,,0,0,0,,{\r}{\kf48}Sea{\kf41}sons{\kf14} cha{\kf55}-ange{\kf20} and{\kf27} leaves{\kf27} may{\kf14} fa{\kf54}-all
+Dialogue: 0,0:01:00.80,0:01:04.05,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf47} I'll{\kf20} be{\kf34} with{\kf61} you{\kf27} through{\kf41} them{\kf75} all
+Dialogue: 0,0:01:04.35,0:01:10.75,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf43} rain{\kf25} or{\kf18} shi{\kf68}-ine,{\kf31} you'll{\kf31} al{\kf12}wa{\kf31}-ays{\kf43} be{\kf31} mi{\kf123}-i{\kf12}-i{\kf25}-i{\kf129}-ine
+Dialogue: 0,0:01:11.25,0:01:17.00,DEFAULT,,0,0,0,,{\r}{\kf29}On{\kf12} a{\kf18} prick{\kf18}ly{\kf23}-y{\kf47} path{\kf59} that{\kf76} goes{\kf53} on{\kf18} for{\kf18} mi{\kf204}-iles
+Dialogue: 0,0:01:18.40,0:01:25.55,DEFAULT,,0,0,0,,{\r}{\kf24}You're{\kf18} the{\kf30} on{\kf12}ly{\kf18}-y{\kf77} one{\kf12} who{\kf48} makes{\kf24} it{\kf42} all{\kf42} worth{\kf155}whi{\kf24}-i{\kf24}-i{\kf12}-i{\kf18}-i{\kf135}-ile
+Dialogue: 0,0:01:26.30,0:01:29.65,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf38} you{\kf32} should{\kf19} no{\kf70}-ot{\kf44} blame{\kf25} me,{\kf25} to{\kf63}-o
+Dialogue: 0,0:01:29.95,0:01:33.40,DEFAULT,,0,0,0,,{\r}{\kf27}If{\kf40} I{\kf27} can't{\kf33} help{\kf27} fal{\kf27}lin'{\kf20} in{\kf40} love{\kf33} with{\kf71} you...

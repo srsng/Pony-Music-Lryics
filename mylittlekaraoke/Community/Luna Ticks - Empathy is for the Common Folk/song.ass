@@ -1,37 +1,44 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Empathy Is For The Common Folk
+Artist: Luna Ticks
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:16.56,0:00:18.52,DEFAULT,,0,0,0,,{\kf33}Day{\kf33} in,{\kf33} day{\kf33} out
-Dialogue: 0,0:00:19.16,0:00:20.52,DEFAULT,,0,0,0,,{\kf13}Mo{\kf13}no{\kf20}tone{\kf17} through{\kf42}out
-Dialogue: 0,0:00:21.00,0:00:23.12,DEFAULT,,0,0,0,,{\kf10}Then{\kf10} to{\kf10}mor{\kf10}row{\kf17} we'll{\kf10} do{\kf13} it{\kf17} all{\kf13} a{\kf42}gain
-Dialogue: 0,0:00:25.12,0:00:26.76,DEFAULT,,0,0,0,,{\kf13}No{\kf20} more{\kf20} cares{\kf17} left{\kf10} to{\kf42} give
-Dialogue: 0,0:00:27.18,0:00:28.72,DEFAULT,,0,0,0,,{\kf20}This{\kf17} is{\kf13} the{\kf17} life{\kf17} I{\kf33} live
-Dialogue: 0,0:00:29.24,0:00:31.49,DEFAULT,,0,0,0,,{\kf20}What's{\kf20} worse,{\kf17} it's{\kf20} cursed{\kf17} to{\kf13} ne{\kf17}ver{\kf58} end
-Dialogue: 0,0:00:33.33,0:00:36.84,DEFAULT,,0,0,0,,{\kf13}You{\kf13} could{\kf13} ne{\kf20}ver{\kf274} know
-Dialogue: 0,0:00:37.87,0:00:41.54,DEFAULT,,0,0,0,,{\kf29}Yes{\kf17} sis{\kf20}ter{\kf17} you{\kf20} could{\kf20} ne{\kf33}ver{\kf139} know
-Dialogue: 0,0:00:41.89,0:00:43.37,DEFAULT,,0,0,0,,{\kf23}Rain{\kf17}bow{\kf20} flow{\kf17}ing{\kf49} hair
-Dialogue: 0,0:00:43.69,0:00:45.43,DEFAULT,,0,0,0,,{\kf20}The{\kf20} smile{\kf17} I{\kf13} have{\kf17} to{\kf49} wear
-Dialogue: 0,0:00:45.78,0:00:48.39,DEFAULT,,0,0,0,,{\kf17}These{\kf13} are{\kf13} the{\kf20} things{\kf17} in{\kf17} which{\kf23} I{\kf78} drown
-Dialogue: 0,0:00:49.78,0:00:51.55,DEFAULT,,0,0,0,,{\kf13}You're{\kf13} the{\kf20} most{\kf20} un{\kf13}grate{\kf20}ful{\kf33} snot
-Dialogue: 0,0:00:52.03,0:00:53.67,DEFAULT,,0,0,0,,{\kf17}In{\kf10} all{\kf20} of{\kf20} Can{\kf20}ter{\kf52}lot
-Dialogue: 0,0:00:54.09,0:00:56.73,DEFAULT,,0,0,0,,{\kf17}I'll{\kf17} burn{\kf17} this{\kf17} whole{\kf17} place{\kf13} to{\kf13} the{\kf91} ground
-Dialogue: 0,0:01:14.50,0:01:16.49,DEFAULT,,0,0,0,,{\kf33}Night{\kf33} in,{\kf33} night{\kf39} out
-Dialogue: 0,0:01:17.14,0:01:18.42,DEFAULT,,0,0,0,,{\kf13}Nought{\kf10} but{\kf13} dark{\kf13} and{\kf39} doubt
-Dialogue: 0,0:01:18.91,0:01:21.61,DEFAULT,,0,0,0,,{\kf13}And{\kf17} lone{\kf20}li{\kf23}ness{\kf13} set{\kf17}ting{\kf100} in
-Dialogue: 0,0:01:23.28,0:01:24.64,DEFAULT,,0,0,0,,{\kf20}No{\kf17} one{\kf17} here{\kf10} to{\kf39} say
-Dialogue: 0,0:01:25.38,0:01:26.66,DEFAULT,,0,0,0,,{\kf17}How{\kf13} are{\kf13} you{\kf23} to{\kf33}day?
-Dialogue: 0,0:01:27.44,0:01:29.85,DEFAULT,,0,0,0,,{\kf17}Just{\kf20} the{\kf17} voice{\kf17} that{\kf20} lives{\kf17} with{\kf91}in
-Dialogue: 0,0:01:47.84,0:01:49.61,DEFAULT,,0,0,0,,{\kf20}Trans{\kf20}lu{\kf20}cent{\kf17} flow{\kf17}ing{\kf55} hair
-Dialogue: 0,0:01:49.94,0:01:51.64,DEFAULT,,0,0,0,,{\kf10}The{\kf23} dreams{\kf17} un{\kf17}der{\kf17} my{\kf52} care
-Dialogue: 0,0:01:52.03,0:01:54.83,DEFAULT,,0,0,0,,{\kf17}These{\kf13} are{\kf13} the{\kf23} things{\kf20} in{\kf20} which{\kf20} I{\kf100} drown
-Dialogue: 0,0:01:56.15,0:01:57.69,DEFAULT,,0,0,0,,{\kf17}The{\kf17} great{\kf17} Ce{\kf20}les{\kf10}ti{\kf39}a
-Dialogue: 0,0:01:58.43,0:01:59.92,DEFAULT,,0,0,0,,{\kf13}Of{\kf17} E{\kf23}ques{\kf20}tri{\kf52}a
-Dialogue: 0,0:02:00.49,0:02:03.49,DEFAULT,,0,0,0,,{\kf13}Just{\kf13} a{\kf20} fake{\kf26} smile{\kf13} and{\kf13} a{\kf145} crown
+Dialogue: 0,0:00:16.56,0:00:18.53,DEFAULT,,0,0,0,,{\r}{\kf49}Day{\kf49} in,{\kf49} day{\kf49} out
+Dialogue: 0,0:00:19.17,0:00:20.52,DEFAULT,,0,0,0,,{\r}{\kf17}Mo{\kf17}no{\kf25}tone{\kf21} through{\kf55}out
+Dialogue: 0,0:00:21.00,0:00:23.13,DEFAULT,,0,0,0,,{\r}{\kf14}Then{\kf14} to{\kf14}mor{\kf14}row{\kf23} we'll{\kf14} do{\kf18} it{\kf23} all{\kf18} a{\kf60}gain
+Dialogue: 0,0:00:25.12,0:00:26.77,DEFAULT,,0,0,0,,{\r}{\kf18}No{\kf27} more{\kf27} cares{\kf22} left{\kf13} to{\kf57} give
+Dialogue: 0,0:00:27.18,0:00:28.73,DEFAULT,,0,0,0,,{\r}{\kf27}This{\kf22} is{\kf18} the{\kf22} life{\kf22} I{\kf44} live
+Dialogue: 0,0:00:29.24,0:00:31.50,DEFAULT,,0,0,0,,{\r}{\kf25}What's{\kf25} worse,{\kf20} it's{\kf25} cursed{\kf20} to{\kf16} ne{\kf20}ver{\kf74} end
+Dialogue: 0,0:00:33.33,0:00:36.84,DEFAULT,,0,0,0,,{\r}{\kf14}You{\kf14} could{\kf14} ne{\kf20}ver{\kf289} know
+Dialogue: 0,0:00:37.87,0:00:41.54,DEFAULT,,0,0,0,,{\r}{\kf37}Yes{\kf20} sis{\kf24}ter{\kf20} you{\kf24} could{\kf24} ne{\kf41}ver{\kf177} know
+Dialogue: 0,0:00:41.89,0:00:43.38,DEFAULT,,0,0,0,,{\r}{\kf27}Rain{\kf19}bow{\kf23} flow{\kf19}ing{\kf60} hair
+Dialogue: 0,0:00:43.70,0:00:45.44,DEFAULT,,0,0,0,,{\r}{\kf25}The{\kf25} smile{\kf21} I{\kf17} have{\kf21} to{\kf65} wear
+Dialogue: 0,0:00:45.79,0:00:48.40,DEFAULT,,0,0,0,,{\r}{\kf22}These{\kf17} are{\kf17} the{\kf26} things{\kf22} in{\kf22} which{\kf30} I{\kf105} drown
+Dialogue: 0,0:00:49.78,0:00:51.55,DEFAULT,,0,0,0,,{\r}{\kf18}You're{\kf18} the{\kf27} most{\kf27} un{\kf18}grate{\kf27}ful{\kf42} snot
+Dialogue: 0,0:00:52.03,0:00:53.68,DEFAULT,,0,0,0,,{\r}{\kf20}In{\kf12} all{\kf23} of{\kf23} Can{\kf23}ter{\kf63}lot
+Dialogue: 0,0:00:54.09,0:00:56.73,DEFAULT,,0,0,0,,{\r}{\kf22}I'll{\kf22} burn{\kf22} this{\kf22} whole{\kf22} place{\kf17} to{\kf17} the{\kf120} ground
+Dialogue: 0,0:01:14.50,0:01:16.50,DEFAULT,,0,0,0,,{\r}{\kf48}Night{\kf48} in,{\kf48} night{\kf56} out
+Dialogue: 0,0:01:17.14,0:01:18.43,DEFAULT,,0,0,0,,{\r}{\kf19}Nought{\kf14} but{\kf19} dark{\kf19} and{\kf58} doubt
+Dialogue: 0,0:01:18.91,0:01:21.62,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf22} lone{\kf26}li{\kf30}ness{\kf17} set{\kf22}ting{\kf136} in
+Dialogue: 0,0:01:23.29,0:01:24.64,DEFAULT,,0,0,0,,{\r}{\kf26}No{\kf22} one{\kf22} here{\kf13} to{\kf52} say
+Dialogue: 0,0:01:25.38,0:01:26.67,DEFAULT,,0,0,0,,{\r}{\kf22}How{\kf17} are{\kf17} you{\kf30} to{\kf43}day?
+Dialogue: 0,0:01:27.44,0:01:29.86,DEFAULT,,0,0,0,,{\r}{\kf20}Just{\kf24} the{\kf20} voice{\kf20} that{\kf24} lives{\kf20} with{\kf113}in
+Dialogue: 0,0:01:47.85,0:01:49.62,DEFAULT,,0,0,0,,{\r}{\kf24}Trans{\kf24}lu{\kf24}cent{\kf20} flow{\kf20}ing{\kf65} hair
+Dialogue: 0,0:01:49.94,0:01:51.65,DEFAULT,,0,0,0,,{\r}{\kf13}The{\kf29} dreams{\kf21} un{\kf21}der{\kf21} my{\kf66} care
+Dialogue: 0,0:01:52.03,0:01:54.83,DEFAULT,,0,0,0,,{\r}{\kf20}These{\kf16} are{\kf16} the{\kf28} things{\kf24} in{\kf24} which{\kf24} I{\kf128} drown
+Dialogue: 0,0:01:56.15,0:01:57.70,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf22} great{\kf22} Ce{\kf26}les{\kf13}ti{\kf50}a
+Dialogue: 0,0:01:58.44,0:01:59.92,DEFAULT,,0,0,0,,{\r}{\kf16}Of{\kf19} E{\kf27}ques{\kf23}tri{\kf63}a
+Dialogue: 0,0:02:00.50,0:02:03.49,DEFAULT,,0,0,0,,{\r}{\kf16}Just{\kf16} a{\kf24} fake{\kf32} smile{\kf16} and{\kf16} a{\kf179} crown

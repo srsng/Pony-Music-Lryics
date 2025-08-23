@@ -1,46 +1,53 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: City Slicker
+Artist: Feather
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:48.00,0:00:53.18,DEFAULT,,0,0,0,,{\kf119}See{\kf19} the{\kf50} shapes{\kf44}~{\kf25} and{\kf25} co{\kf57}lours{\kf50}~
-Dialogue: 0,0:00:54.31,0:00:56.31,DEFAULT,,0,0,0,,{\kf19}Of{\kf19} the{\kf25} pat{\kf19}terns{\kf19} all{\kf25} a{\kf50}round
-Dialogue: 0,0:00:56.56,0:01:00.93,DEFAULT,,0,0,0,,{\kf25}I'm{\kf38} lif{\kf69}ted,{\kf38} soft{\kf44} like{\kf113} dawn
-Dialogue: 0,0:01:04.00,0:01:09.25,DEFAULT,,0,0,0,,{\kf100}Know{\kf25} the{\kf57} waves{\kf44}~{\kf19} of{\kf25} light{\kf32}~{\kf94}~
-Dialogue: 0,0:01:10.25,0:01:12.18,DEFAULT,,0,0,0,,{\kf25}Ti{\kf19}ny{\kf32} frag{\kf19}ments{\kf32} of{\kf44} self
-Dialogue: 0,0:01:12.50,0:01:17.18,DEFAULT,,0,0,0,,{\kf25}They{\kf44} shif{\kf69}ted,{\kf44} paint{\kf32} the{\kf138} town
-Dialogue: 0,0:01:20.81,0:01:25.25,DEFAULT,,0,0,0,,{\kf50}I{\kf38} don't{\kf44} got{\kf38} a{\kf50} care{\kf19} in{\kf19} the{\kf144} world
-Dialogue: 0,0:01:26.75,0:01:28.12,DEFAULT,,0,0,0,,{\kf19}Ci{\kf13}ty{\kf13} sli{\kf88}cker
-Dialogue: 0,0:01:28.68,0:01:33.12,DEFAULT,,0,0,0,,{\kf50}Rain{\kf132} drops,{\kf19} they{\kf19} bounce{\kf13} right{\kf19} off{\kf19} my{\kf113} back
-Dialogue: 0,0:01:36.75,0:01:41.25,DEFAULT,,0,0,0,,{\kf50}I{\kf44} don't{\kf44} have{\kf38} to{\kf38} be{\kf32} that{\kf19} kind{\kf19} of{\kf113} girl
-Dialogue: 0,0:01:42.75,0:01:44.12,DEFAULT,,0,0,0,,{\kf19}Ci{\kf13}ty{\kf13} sli{\kf88}cker
-Dialogue: 0,0:01:44.75,0:01:49.25,DEFAULT,,0,0,0,,{\kf50}Rain{\kf132} drops,{\kf19} they{\kf19} bounce{\kf19} right{\kf13} off{\kf19} my{\kf125} back
-Dialogue: 0,0:01:52.00,0:01:57.37,DEFAULT,,0,0,0,,{\kf125}See{\kf25} the{\kf44} sparks{\kf50}~{\kf32} and{\kf25} sha{\kf44}dows{\kf32}~{\kf44}~
-Dialogue: 0,0:01:58.31,0:02:00.18,DEFAULT,,0,0,0,,{\kf19}They{\kf19} reach{\kf25} o{\kf19}~{\kf38}ver{\kf44} shine
-Dialogue: 0,0:02:00.50,0:02:05.00,DEFAULT,,0,0,0,,{\kf25}I'm{\kf38} crossed{\kf100} in{\kf50} grids{\kf32} and{\kf125} lines
-Dialogue: 0,0:02:08.00,0:02:13.50,DEFAULT,,0,0,0,,{\kf119}Know{\kf25} the{\kf44} ne{\kf44}~{\kf50}ga{\kf44}tive{\kf44} spa{\kf44}ces{\kf38}~{\kf38}~
-Dialogue: 0,0:02:14.18,0:02:16.25,DEFAULT,,0,0,0,,{\kf25}That{\kf32} you{\kf25} move{\kf19}~{\kf25} with{\kf38}in
-Dialogue: 0,0:02:16.56,0:02:21.18,DEFAULT,,0,0,0,,{\kf25}I'm{\kf38} danc{\kf75}ing,{\kf50} in{\kf38} bet{\kf138}ween
-Dialogue: 0,0:02:24.75,0:02:29.00,DEFAULT,,0,0,0,,{\kf57}Slow{\kf25}~{\kf50} mo{\kf38}tion{\kf44} as{\kf25} I{\kf19}~{\kf119} pause
-Dialogue: 0,0:02:32.50,0:02:37.06,DEFAULT,,0,0,0,,{\kf25}I{\kf50} see{\kf25} the{\kf32} beau{\kf25}~{\kf38}ty{\kf32} and{\kf32} the{\kf132} flaws
-Dialogue: 0,0:02:40.81,0:02:45.12,DEFAULT,,0,0,0,,{\kf44}Rain{\kf38} drops{\kf44} like{\kf25}~{\kf50} dia{\kf38}~{\kf32}monds{\kf100}~
-Dialogue: 0,0:02:48.31,0:02:52.75,DEFAULT,,0,0,0,,{\kf44}I{\kf32} don't{\kf38} got{\kf32} a{\kf44} care{\kf19} in{\kf25} the{\kf138} world
-Dialogue: 0,0:02:54.25,0:02:55.62,DEFAULT,,0,0,0,,{\kf19}Ci{\kf13}ty{\kf13} sli{\kf88}cker
-Dialogue: 0,0:02:56.25,0:03:00.81,DEFAULT,,0,0,0,,{\kf57}Rain{\kf119} drops,{\kf19} they{\kf19} bounce{\kf19} right{\kf19} off{\kf19} my{\kf125} back
-Dialogue: 0,0:03:04.37,0:03:08.81,DEFAULT,,0,0,0,,{\kf32}I{\kf38} don't{\kf44} have{\kf38} to{\kf32} be{\kf19} that{\kf25} kind{\kf19} of{\kf119} girl
-Dialogue: 0,0:03:10.25,0:03:11.68,DEFAULT,,0,0,0,,{\kf19}Ci{\kf13}ty{\kf13} sli{\kf94}cker
-Dialogue: 0,0:03:12.25,0:03:16.68,DEFAULT,,0,0,0,,{\kf50}Rain{\kf132} drops,{\kf19} they{\kf19} bounce{\kf13} right{\kf19} off{\kf19} my{\kf119} back
-Dialogue: 0,0:03:20.31,0:03:24.56,DEFAULT,,0,0,0,,{\kf38}I{\kf38} don't{\kf38} got{\kf32} a{\kf44} care{\kf19} in{\kf19} the{\kf125} world
-Dialogue: 0,0:03:26.25,0:03:27.68,DEFAULT,,0,0,0,,{\kf19}Ci{\kf13}ty{\kf13} sli{\kf94}cker
-Dialogue: 0,0:03:28.31,0:03:32.81,DEFAULT,,0,0,0,,{\kf44}Rain{\kf125} drops,{\kf19} they{\kf19} bounce{\kf13} right{\kf19} off{\kf19} my{\kf132} back
-Dialogue: 0,0:03:34.31,0:03:35.68,DEFAULT,,0,0,0,,{\kf19}(they{\kf19} bounce{\kf13} right{\kf13} off{\kf44} my)
-Dialogue: 0,0:03:36.25,0:03:40.62,DEFAULT,,0,0,0,,{\kf44}I{\kf38} don't{\kf38} have{\kf38} to{\kf38} be{\kf19} that{\kf25} kind{\kf19} of{\kf100} girl
-Dialogue: 0,0:03:42.25,0:03:43.68,DEFAULT,,0,0,0,,{\kf19}Ci{\kf13}ty{\kf13} sli{\kf94}cker
-Dialogue: 0,0:03:44.31,0:03:48.56,DEFAULT,,0,0,0,,{\kf44}Rain{\kf113} drops,{\kf19} they{\kf19} bounce{\kf13} right{\kf19} off{\kf19} my{\kf107} back
-Dialogue: 0,0:03:50.31,0:03:51.81,DEFAULT,,0,0,0,,{\kf19}(they{\kf19} bounce{\kf13} right{\kf19} off{\kf57} my)
+Dialogue: 0,0:00:48.00,0:00:53.19,DEFAULT,,0,0,0,,{\r}{\kf159}See{\kf25} the{\kf67} shapes{\kf59}~{\kf33} and{\kf33} co{\kf75}lours{\kf68}~
+Dialogue: 0,0:00:54.31,0:00:56.31,DEFAULT,,0,0,0,,{\r}{\kf21}Of{\kf21} the{\kf29} pat{\kf21}terns{\kf21} all{\kf29} a{\kf58}round
+Dialogue: 0,0:00:56.56,0:01:00.94,DEFAULT,,0,0,0,,{\r}{\kf34}I'm{\kf51} lif{\kf93}ted,{\kf51} soft{\kf59} like{\kf150} dawn
+Dialogue: 0,0:01:04.00,0:01:09.25,DEFAULT,,0,0,0,,{\r}{\kf133}Know{\kf33} the{\kf75} waves{\kf58}~{\kf25} of{\kf33} light{\kf42}~{\kf126}~
+Dialogue: 0,0:01:10.25,0:01:12.19,DEFAULT,,0,0,0,,{\r}{\kf29}Ti{\kf22}ny{\kf36} frag{\kf22}ments{\kf36} of{\kf49} self
+Dialogue: 0,0:01:12.50,0:01:17.19,DEFAULT,,0,0,0,,{\r}{\kf34}They{\kf59} shif{\kf92}ted,{\kf59} paint{\kf42} the{\kf183} town
+Dialogue: 0,0:01:20.81,0:01:25.25,DEFAULT,,0,0,0,,{\r}{\kf56}I{\kf42} don't{\kf49} got{\kf42} a{\kf56} care{\kf21} in{\kf21} the{\kf157} world
+Dialogue: 0,0:01:26.75,0:01:28.12,DEFAULT,,0,0,0,,{\r}{\kf20}Ci{\kf13}ty{\kf13} sli{\kf92}cker
+Dialogue: 0,0:01:28.69,0:01:33.12,DEFAULT,,0,0,0,,{\r}{\kf58}Rain{\kf153} drops,{\kf22} they{\kf22} bounce{\kf15} right{\kf22} off{\kf22} my{\kf130} back
+Dialogue: 0,0:01:36.75,0:01:41.25,DEFAULT,,0,0,0,,{\r}{\kf57}I{\kf50} don't{\kf50} have{\kf43} to{\kf43} be{\kf36} that{\kf21} kind{\kf21} of{\kf129} girl
+Dialogue: 0,0:01:42.75,0:01:44.12,DEFAULT,,0,0,0,,{\r}{\kf20}Ci{\kf13}ty{\kf13} sli{\kf92}cker
+Dialogue: 0,0:01:44.75,0:01:49.25,DEFAULT,,0,0,0,,{\r}{\kf57}Rain{\kf150} drops,{\kf21} they{\kf21} bounce{\kf21} right{\kf14} off{\kf21} my{\kf145} back
+Dialogue: 0,0:01:52.00,0:01:57.38,DEFAULT,,0,0,0,,{\r}{\kf161}See{\kf32} the{\kf56} sparks{\kf64}~{\kf40} and{\kf32} sha{\kf56}dows{\kf40}~{\kf57}~
+Dialogue: 0,0:01:58.31,0:02:00.19,DEFAULT,,0,0,0,,{\r}{\kf22}They{\kf22} reach{\kf29} o{\kf22}~{\kf43}ver{\kf50} shine
+Dialogue: 0,0:02:00.50,0:02:05.00,DEFAULT,,0,0,0,,{\r}{\kf31}I'm{\kf46} crossed{\kf122} in{\kf61} grids{\kf38} and{\kf152} lines
+Dialogue: 0,0:02:08.00,0:02:13.50,DEFAULT,,0,0,0,,{\r}{\kf134}Know{\kf28} the{\kf49} ne{\kf49}~{\kf56}ga{\kf49}tive{\kf49} spa{\kf49}ces{\kf42}~{\kf45}~
+Dialogue: 0,0:02:14.19,0:02:16.25,DEFAULT,,0,0,0,,{\r}{\kf32}That{\kf40} you{\kf32} move{\kf24}~{\kf32} with{\kf46}in
+Dialogue: 0,0:02:16.56,0:02:21.19,DEFAULT,,0,0,0,,{\r}{\kf32}I'm{\kf48} danc{\kf96}ing,{\kf64} in{\kf48} bet{\kf174}ween
+Dialogue: 0,0:02:24.75,0:02:29.00,DEFAULT,,0,0,0,,{\r}{\kf64}Slow{\kf28}~{\kf57} mo{\kf42}tion{\kf50} as{\kf28} I{\kf21}~{\kf135} pause
+Dialogue: 0,0:02:32.50,0:02:37.06,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf59} see{\kf29} the{\kf37} beau{\kf29}~{\kf44}ty{\kf37} and{\kf37} the{\kf155} flaws
+Dialogue: 0,0:02:40.81,0:02:45.12,DEFAULT,,0,0,0,,{\r}{\kf51}Rain{\kf44} drops{\kf51} like{\kf29}~{\kf58} dia{\kf44}~{\kf37}monds{\kf117}~
+Dialogue: 0,0:02:48.31,0:02:52.75,DEFAULT,,0,0,0,,{\r}{\kf53}I{\kf38} don't{\kf45} got{\kf38} a{\kf53} care{\kf23} in{\kf30} the{\kf164} world
+Dialogue: 0,0:02:54.25,0:02:55.62,DEFAULT,,0,0,0,,{\r}{\kf20}Ci{\kf13}ty{\kf13} sli{\kf92}cker
+Dialogue: 0,0:02:56.25,0:03:00.81,DEFAULT,,0,0,0,,{\r}{\kf65}Rain{\kf138} drops,{\kf22} they{\kf22} bounce{\kf22} right{\kf22} off{\kf22} my{\kf143} back
+Dialogue: 0,0:03:04.38,0:03:08.81,DEFAULT,,0,0,0,,{\r}{\kf38}I{\kf46} don't{\kf54} have{\kf46} to{\kf38} be{\kf23} that{\kf31} kind{\kf23} of{\kf145} girl
+Dialogue: 0,0:03:10.25,0:03:11.69,DEFAULT,,0,0,0,,{\r}{\kf20}Ci{\kf13}ty{\kf13} sli{\kf98}cker
+Dialogue: 0,0:03:12.25,0:03:16.69,DEFAULT,,0,0,0,,{\r}{\kf57}Rain{\kf150} drops,{\kf21} they{\kf21} bounce{\kf14} right{\kf21} off{\kf21} my{\kf139} back
+Dialogue: 0,0:03:20.31,0:03:24.56,DEFAULT,,0,0,0,,{\r}{\kf46}I{\kf46} don't{\kf46} got{\kf38} a{\kf53} care{\kf23} in{\kf23} the{\kf150} world
+Dialogue: 0,0:03:26.25,0:03:27.69,DEFAULT,,0,0,0,,{\r}{\kf20}Ci{\kf13}ty{\kf13} sli{\kf98}cker
+Dialogue: 0,0:03:28.31,0:03:32.81,DEFAULT,,0,0,0,,{\r}{\kf51}Rain{\kf145} drops,{\kf22} they{\kf22} bounce{\kf15} right{\kf22} off{\kf22} my{\kf151} back
+Dialogue: 0,0:03:34.31,0:03:35.69,DEFAULT,,0,0,0,,{\r}{\kf24}(they{\kf24} bounce{\kf16} right{\kf16} off{\kf58} my)
+Dialogue: 0,0:03:36.25,0:03:40.62,DEFAULT,,0,0,0,,{\r}{\kf54}I{\kf46} don't{\kf46} have{\kf46} to{\kf46} be{\kf23} that{\kf31} kind{\kf23} of{\kf123} girl
+Dialogue: 0,0:03:42.25,0:03:43.69,DEFAULT,,0,0,0,,{\r}{\kf20}Ci{\kf13}ty{\kf13} sli{\kf98}cker
+Dialogue: 0,0:03:44.31,0:03:48.56,DEFAULT,,0,0,0,,{\r}{\kf53}Rain{\kf137} drops,{\kf23} they{\kf23} bounce{\kf15} right{\kf23} off{\kf23} my{\kf128} back
+Dialogue: 0,0:03:50.31,0:03:51.81,DEFAULT,,0,0,0,,{\r}{\kf22}(they{\kf22} bounce{\kf15} right{\kf22} off{\kf69} my)

@@ -1,18 +1,25 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Kolęda serdeczności
+Artist: Mój Mały Kucyk
+Original Timing: mylittlekaraoke.com by Profpatsch/Vengir
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:06.12,0:00:09.75,DEFAULT,,0,0,0,,{\kf46}Przy{\kf42}ja{\kf50}źni{\kf50} pło{\kf42}mień{\kf55} w ser{\kf25}cach{\kf17} się{\kf25} tli
-Dialogue: 0,0:00:10.04,0:00:13.79,DEFAULT,,0,0,0,,{\kf42}Do{\kf42}da{\kf21}je{\kf21} nam{\kf50} sił{\kf25} w le{\kf21}psze{\kf50} i{\kf17} gor{\kf25}sze{\kf46} dni
-Dialogue: 0,0:00:14.16,0:00:17.91,DEFAULT,,0,0,0,,{\kf21}Choć{\kf42} mię{\kf46}dzy{\kf50} na{\kf42}mi{\kf42} kłó{\kf30}tnie{\kf21} też{\kf75} są
-Dialogue: 0,0:00:18.20,0:00:23.41,DEFAULT,,0,0,0,,{\kf42}Ra{\kf30}dość{\kf21} po{\kf25}ma{\kf21}ga{\kf38} nam{\kf50} prze{\kf55}trwać{\kf242} to
-Dialogue: 0,0:00:23.50,0:00:27.08,DEFAULT,,0,0,0,,{\kf42}Gdy{\kf46} masz{\kf42} przy{\kf30}ja{\kf21}ciół{\kf46} tak{\kf55} wier{\kf17}ny{\kf21}~{\kf38} krąg
-Dialogue: 0,0:00:27.33,0:00:29.00,DEFAULT,,0,0,0,,{\kf25}Nie{\kf50}stra{\kf30}szny{\kf30} zły{\kf34} czas
-Dialogue: 0,0:00:29.25,0:00:35.75,DEFAULT,,0,0,0,,{\kf42}Już{\kf50} nic{\kf21} nie{\kf30} roź{\kf46}dzie{\kf46}li{\kf413} nas
+Dialogue: 0,0:00:06.12,0:00:09.75,DEFAULT,,0,0,0,,{\r}{\kf47}Przy{\kf43}ja{\kf52}źni{\kf52} pło{\kf43}mień{\kf56} w ser{\kf26}cach{\kf17} się{\kf26} tli
+Dialogue: 0,0:00:10.04,0:00:13.79,DEFAULT,,0,0,0,,{\r}{\kf44}Do{\kf44}da{\kf22}je{\kf22} nam{\kf52} sił{\kf26} w le{\kf22}psze{\kf52} i{\kf17} gor{\kf26}sze{\kf48} dni
+Dialogue: 0,0:00:14.17,0:00:17.92,DEFAULT,,0,0,0,,{\r}{\kf21}Choć{\kf43} mię{\kf47}dzy{\kf51} na{\kf43}mi{\kf43} kłó{\kf30}tnie{\kf21} też{\kf76} są
+Dialogue: 0,0:00:18.21,0:00:23.42,DEFAULT,,0,0,0,,{\r}{\kf42}Ra{\kf29}dość{\kf21} po{\kf25}ma{\kf21}ga{\kf38} nam{\kf50} prze{\kf54}trwać{\kf241} to
+Dialogue: 0,0:00:23.50,0:00:27.08,DEFAULT,,0,0,0,,{\r}{\kf42}Gdy{\kf46} masz{\kf42} przy{\kf29}ja{\kf21}ciół{\kf46} tak{\kf55} wier{\kf17}ny{\kf21}~{\kf39} krąg
+Dialogue: 0,0:00:27.33,0:00:29.00,DEFAULT,,0,0,0,,{\r}{\kf25}Nie{\kf50}stra{\kf29}szny{\kf29} zły{\kf34} czas
+Dialogue: 0,0:00:29.25,0:00:35.75,DEFAULT,,0,0,0,,{\r}{\kf42}Już{\kf50} nic{\kf21} nie{\kf29} roź{\kf46}dzie{\kf46}li{\kf416} nas

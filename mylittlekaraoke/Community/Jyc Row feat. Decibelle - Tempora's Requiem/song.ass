@@ -1,69 +1,76 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Tempora's Requiem
+Artist: Jyc Row, Decibelle, Lumic4
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:42.92,0:00:45.13,DEFAULT,,0,0,0,,{\kf32}We{\kf28} were{\kf28} hold{\kf20}ing{\kf44} the{\kf32} skein
-Dialogue: 0,0:00:45.29,0:00:47.74,DEFAULT,,0,0,0,,{\kf16}Its{\kf20} thread{\kf16} was{\kf24} flee{\kf24}ing{\kf28} mad{\kf28}~{\kf40}ly
-Dialogue: 0,0:00:47.98,0:00:49.99,DEFAULT,,0,0,0,,{\kf56}And{\kf52} our{\kf72} eyes
-Dialogue: 0,0:00:50.19,0:00:52.91,DEFAULT,,0,0,0,,{\kf28}O{\kf28}pened{\kf28} up{\kf28} on{\kf28} in{\kf28}fi{\kf28}ni{\kf52}ty
-Dialogue: 0,0:00:53.07,0:00:55.36,DEFAULT,,0,0,0,,{\kf24}No{\kf24} land{\kf20}mark{\kf24} and{\kf24} no{\kf24} li{\kf44}mit
-Dialogue: 0,0:00:55.55,0:00:57.73,DEFAULT,,0,0,0,,{\kf24}Seen{\kf28} al{\kf24}most{\kf28} with{\kf24}out{\kf28} see{\kf28}ing
-Dialogue: 0,0:00:57.88,0:01:00.29,DEFAULT,,0,0,0,,{\kf16}Its{\kf24} wa{\kf24}ter{\kf28} cur{\kf20}rent{\kf28} jour{\kf28}~{\kf32}ney
-Dialogue: 0,0:01:00.45,0:01:02.86,DEFAULT,,0,0,0,,{\kf16}In{\kf20} our{\kf24} end{\kf24}ing{\kf28} world's{\kf48} crump{\kf36}ling
-Dialogue: 0,0:01:03.13,0:01:05.46,DEFAULT,,0,0,0,,{\kf28}Strings{\kf24} of{\kf52} all{\kf44} our{\kf48} dreams
-Dialogue: 0,0:01:05.66,0:01:07.40,DEFAULT,,0,0,0,,{\kf28}Be{\kf24}ing{\kf28} torn{\kf16} a{\kf44}part
-Dialogue: 0,0:01:07.55,0:01:10.55,DEFAULT,,0,0,0,,{\kf28}Car{\kf24}ried{\kf32} a{\kf28}~{\kf44}way{\kf24} by{\kf24} the{\kf48} storm
-Dialogue: 0,0:01:10.71,0:01:12.92,DEFAULT,,0,0,0,,{\kf24}Dis{\kf24}persed{\kf24} in{\kf24}to{\kf56} time{\kf32}~
-Dialogue: 0,0:01:13.08,0:01:15.57,DEFAULT,,0,0,0,,{\kf16}But{\kf20} what{\kf16} are{\kf24} we{\kf28} be{\kf56}fal{\kf48}ling
-Dialogue: 0,0:01:15.77,0:01:18.05,DEFAULT,,0,0,0,,{\kf24}What{\kf24} are{\kf24} all{\kf24} those{\kf28} co{\kf28}~{\kf40}lors
-Dialogue: 0,0:01:18.29,0:01:20.38,DEFAULT,,0,0,0,,{\kf24}Which{\kf24} sud{\kf24}den{\kf24}ly{\kf28} burn{\kf24} our{\kf20}world
-Dialogue: 0,0:01:20.54,0:01:23.27,DEFAULT,,0,0,0,,{\kf20}E{\kf28}ter{\kf24}ni{\kf28}ty{\kf24} turned{\kf24} up{\kf16}side{\kf12}~{\kf56}down
-Dialogue: 0,0:02:03.77,0:02:05.82,DEFAULT,,0,0,0,,{\kf28}All{\kf24} a{\kf24}lone,{\kf28} weav{\kf24}ing{\kf32} our{\kf12} dreams
-Dialogue: 0,0:02:05.98,0:02:08.58,DEFAULT,,0,0,0,,{\kf28}A{\kf24}lone{\kf24} in{\kf28} qui{\kf24}et{\kf28} cold{\kf28}~{\kf40}ness
-Dialogue: 0,0:02:08.78,0:02:10.87,DEFAULT,,0,0,0,,{\kf24}With{\kf24} no{\kf24} dawn{\kf24} and{\kf24} no{\kf28} twi{\kf20}light
-Dialogue: 0,0:02:11.03,0:02:13.59,DEFAULT,,0,0,0,,{\kf28}With{\kf20}out{\kf28} to{\kf20}days{\kf20} or{\kf24} yes{\kf28}ter{\kf36}days
-Dialogue: 0,0:02:13.91,0:02:15.92,DEFAULT,,0,0,0,,{\kf24}Our{\kf24} reign{\kf24} was{\kf24} our{\kf28} e{\kf24}very{\kf16}thing
-Dialogue: 0,0:02:16.08,0:02:18.65,DEFAULT,,0,0,0,,{\kf12}There{\kf12} were{\kf28} nei{\kf24}ther{\kf28} bor{\kf24}ders{\kf24} nor{\kf32} else{\kf32}where
-Dialogue: 0,0:02:18.96,0:02:21.29,DEFAULT,,0,0,0,,{\kf20}Yes,{\kf20} we{\kf24} wai{\kf20}ted{\kf24} with{\kf20}out{\kf28} wait{\kf20}ing
-Dialogue: 0,0:02:21.45,0:02:23.70,DEFAULT,,0,0,0,,{\kf24}'Cause{\kf28} no{\kf24}thing{\kf24} was{\kf28} un{\kf28}der{\kf36}neath
-Dialogue: 0,0:02:23.98,0:02:26.15,DEFAULT,,0,0,0,,{\kf24}What{\kf20} were{\kf20} those{\kf20} steps{\kf20} in{\kf20} the{\kf28} sand
-Dialogue: 0,0:02:26.30,0:02:28.79,DEFAULT,,0,0,0,,{\kf16}On{\kf20} which{\kf20} weâ€™ve{\kf28} al{\kf20}ways{\kf60} walked{\kf44}~
-Dialogue: 0,0:02:28.99,0:02:31.32,DEFAULT,,0,0,0,,{\kf24}In{\kf20} this{\kf40} dry{\kf52} de{\kf40}sert
-Dialogue: 0,0:02:31.55,0:02:33.92,DEFAULT,,0,0,0,,{\kf24}Where{\kf24} no{\kf24} sound{\kf24} and{\kf24} no{\kf28} laugh{\kf48}ter
-Dialogue: 0,0:02:34.12,0:02:36.37,DEFAULT,,0,0,0,,{\kf20}Ne{\kf20}ver{\kf24} no,{\kf24} no{\kf24}thing{\kf24} was{\kf48} heard
-Dialogue: 0,0:02:36.61,0:02:38.82,DEFAULT,,0,0,0,,{\kf20}Po{\kf20}wer{\kf20}ful{\kf24} yet{\kf32} emp{\kf20}~{\kf40}ty
-Dialogue: 0,0:02:39.05,0:02:41.19,DEFAULT,,0,0,0,,{\kf24}With{\kf24}out{\kf20} a{\kf24} laugh's{\kf24} me{\kf28}lo{\kf20}dy
-Dialogue: 0,0:02:41.34,0:02:43.99,DEFAULT,,0,0,0,,{\kf20}With{\kf24}out{\kf20} a{\kf44} heart's{\kf60}warmth{\kf48}~
-Dialogue: 0,0:02:44.15,0:02:46.52,DEFAULT,,0,0,0,,{\kf24}With{\kf20} no{\kf24} dawn{\kf20} and{\kf20} no{\kf24} twi{\kf40}light
-Dialogue: 0,0:02:46.71,0:02:49.04,DEFAULT,,0,0,0,,{\kf24}We{\kf24} were{\kf24} queens{\kf20} and{\kf20} yet{\kf20} no{\kf44}thing
-Dialogue: 0,0:02:49.24,0:02:51.61,DEFAULT,,0,0,0,,{\kf24}Be{\kf20}cause{\kf20} what{\kf20} is{\kf28} yes{\kf28}ter{\kf48}day
-Dialogue: 0,0:02:51.80,0:02:54.05,DEFAULT,,0,0,0,,{\kf28}To{\kf24}day{\kf28} or{\kf24} to{\kf28}mor{\kf28}~{\kf36}row
-Dialogue: 0,0:02:54.33,0:02:56.66,DEFAULT,,0,0,0,,{\kf24}But{\kf20} what{\kf24} is{\kf24} this{\kf28} blind{\kf24}ing{\kf48} light
-Dialogue: 0,0:02:56.86,0:02:59.15,DEFAULT,,0,0,0,,{\kf24}What{\kf24} are{\kf44} those{\kf48} co{\kf44}lors
-Dialogue: 0,0:02:59.34,0:03:01.71,DEFAULT,,0,0,0,,{\kf28}Soft{\kf28}nes{\kf20}ses{\kf28} u{\kf52}pon{\kf48} us
-Dialogue: 0,0:03:01.91,0:03:04.28,DEFAULT,,0,0,0,,{\kf20}Could{\kf24} al{\kf24}most{\kf24} make{\kf24} our{\kf24} heart{\kf52} sing?
-Dialogue: 0,0:03:44.78,0:03:47.19,DEFAULT,,0,0,0,,{\kf32}E{\kf28}very{\kf20}thing{\kf28} flows,{\kf36} mixed{\kf48} up
-Dialogue: 0,0:03:47.38,0:03:52.16,DEFAULT,,0,0,0,,{\kf28}Car{\kf20}ry{\kf24}ing{\kf32} a{\kf48}way{\kf24} in{\kf20} a{\kf32} tor{\kf24}rent{\kf24} of{\kf32} di{\kf52}sor{\kf44}der
-Dialogue: 0,0:03:52.36,0:03:54.69,DEFAULT,,0,0,0,,{\kf52}Past,{\kf24} pre{\kf20}sent,{\kf32} fu{\kf28}~{\kf44}ture
-Dialogue: 0,0:03:54.92,0:03:57.25,DEFAULT,,0,0,0,,{\kf24}What{\kf20} was{\kf32} fro{\kf20}zen{\kf28} be{\kf28}~{\kf44}fore
-Dialogue: 0,0:03:57.41,0:03:59.82,DEFAULT,,0,0,0,,{\kf28}Di{\kf28}sap{\kf24}peared{\kf28} to{\kf28} day{\kf32}~{\kf48}~
-Dialogue: 0,0:03:59.98,0:04:02.30,DEFAULT,,0,0,0,,{\kf24}Is{\kf24} it{\kf20} the{\kf28} fore{\kf56}seen{\kf36} end?
-Dialogue: 0,0:04:02.50,0:04:04.83,DEFAULT,,0,0,0,,{\kf24}Is{\kf24} it{\kf24} for{\kf28} to{\kf56}mor{\kf48}row?
-Dialogue: 0,0:04:05.03,0:04:07.40,DEFAULT,,0,0,0,,{\kf24}Would{\kf28} e{\kf24}very{\kf24}thing{\kf48} be{\kf52} lost
-Dialogue: 0,0:04:07.59,0:04:10.55,DEFAULT,,0,0,0,,{\kf60}Be{\kf40}cause{\kf28} we{\kf28} found{\kf24} this{\kf24} warm{\kf48} light
-Dialogue: 0,0:04:10.75,0:04:12.41,DEFAULT,,0,0,0,,{\kf44}In{\kf52} our{\kf48} heart
-Dialogue: 0,0:04:12.61,0:04:14.90,DEFAULT,,0,0,0,,{\kf24}That{\kf24} which{\kf24} is{\kf24} called{\kf28} friend{\kf28}~{\kf40}ship?
-Dialogue: 0,0:04:15.13,0:04:17.23,DEFAULT,,0,0,0,,{\kf24}What{\kf24} will{\kf24} be{\kf20} of{\kf52} our{\kf24} reign
-Dialogue: 0,0:04:17.38,0:04:19.99,DEFAULT,,0,0,0,,{\kf20}Where{\kf20} no{\kf24}thing{\kf28} e{\kf20}ver{\kf60} hap{\kf48}pened?
-Dialogue: 0,0:04:20.23,0:04:22.48,DEFAULT,,0,0,0,,{\kf20}Is{\kf24} it{\kf24} a{\kf24} new{\kf56} dawn{\kf44}~?
-Dialogue: 0,0:04:22.71,0:04:26.07,DEFAULT,,0,0,0,,{\kf24}Is{\kf24} it{\kf20} a{\kf24} new{\kf32} des{\kf24}ti{\kf150}ny?
-Dialogue: 0,0:04:30.25,0:04:35.98,DEFAULT,,0,0,0,,{\kf56}We{\kf32} did{\kf24}n't{\kf48} know{\kf24} we{\kf24} were{\kf52} on{\kf44} our{\kf190} ownâ€¦
-Dialogue: 0,0:04:40.40,0:04:46.55,DEFAULT,,0,0,0,,{\kf52}We{\kf32} did{\kf24}nâ€™t{\kf48} know{\kf28} we{\kf24} were{\kf52} on{\kf44} our{\kf237} ownâ€¦
-Dialogue: 0,0:04:48.65,0:04:52.79,DEFAULT,,0,0,0,,{\kf24}We{\kf20} were{\kf52} on{\kf52} our{\kf229} ownâ€¦
+Dialogue: 0,0:00:42.93,0:00:45.14,DEFAULT,,0,0,0,,{\r}{\kf38}We{\kf34} were{\kf34} hold{\kf24}ing{\kf53} the{\kf38} skein
+Dialogue: 0,0:00:45.30,0:00:47.74,DEFAULT,,0,0,0,,{\r}{\kf20}Its{\kf25} thread{\kf20} was{\kf30} flee{\kf30}ing{\kf35} mad{\kf35}~{\kf50}ly
+Dialogue: 0,0:00:47.98,0:00:49.99,DEFAULT,,0,0,0,,{\r}{\kf63}And{\kf58} our{\kf80} eyes
+Dialogue: 0,0:00:50.19,0:00:52.91,DEFAULT,,0,0,0,,{\r}{\kf31}O{\kf31}pened{\kf31} up{\kf31} on{\kf31} in{\kf31}fi{\kf31}ni{\kf55}ty
+Dialogue: 0,0:00:53.07,0:00:55.36,DEFAULT,,0,0,0,,{\r}{\kf30}No{\kf30} land{\kf25}mark{\kf30} and{\kf30} no{\kf30} li{\kf54}mit
+Dialogue: 0,0:00:55.56,0:00:57.73,DEFAULT,,0,0,0,,{\r}{\kf28}Seen{\kf33} al{\kf28}most{\kf33} with{\kf28}out{\kf33} see{\kf34}ing
+Dialogue: 0,0:00:57.89,0:01:00.30,DEFAULT,,0,0,0,,{\r}{\kf19}Its{\kf29} wa{\kf29}ter{\kf34} cur{\kf24}rent{\kf34} jour{\kf34}~{\kf38}ney
+Dialogue: 0,0:01:00.45,0:01:02.86,DEFAULT,,0,0,0,,{\r}{\kf20}In{\kf25} our{\kf30} end{\kf30}ing{\kf34} world's{\kf59} crump{\kf43}ling
+Dialogue: 0,0:01:03.14,0:01:05.47,DEFAULT,,0,0,0,,{\r}{\kf33}Strings{\kf29} of{\kf62} all{\kf52} our{\kf57} dreams
+Dialogue: 0,0:01:05.66,0:01:07.40,DEFAULT,,0,0,0,,{\r}{\kf35}Be{\kf30}ing{\kf35} torn{\kf20} a{\kf54}part
+Dialogue: 0,0:01:07.56,0:01:10.56,DEFAULT,,0,0,0,,{\r}{\kf33}Car{\kf29}ried{\kf38} a{\kf33}~{\kf52}way{\kf29} by{\kf29} the{\kf57} storm
+Dialogue: 0,0:01:10.72,0:01:12.93,DEFAULT,,0,0,0,,{\r}{\kf29}Dis{\kf29}persed{\kf29} in{\kf29}to{\kf67} time{\kf38}~
+Dialogue: 0,0:01:13.09,0:01:15.57,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf24} what{\kf19} are{\kf29} we{\kf34} be{\kf67}fal{\kf57}ling
+Dialogue: 0,0:01:15.77,0:01:18.06,DEFAULT,,0,0,0,,{\r}{\kf29}What{\kf29} are{\kf29} all{\kf29} those{\kf33} co{\kf33}~{\kf47}lors
+Dialogue: 0,0:01:18.30,0:01:20.39,DEFAULT,,0,0,0,,{\r}{\kf30}Which{\kf30} sud{\kf30}den{\kf30}ly{\kf35} burn{\kf30} our{\kf24}world
+Dialogue: 0,0:01:20.55,0:01:23.27,DEFAULT,,0,0,0,,{\r}{\kf23}E{\kf33}ter{\kf28}ni{\kf33}ty{\kf28} turned{\kf28} up{\kf19}side{\kf14}~{\kf66}down
+Dialogue: 0,0:02:03.77,0:02:05.82,DEFAULT,,0,0,0,,{\r}{\kf33}All{\kf29} a{\kf29}lone,{\kf33} weav{\kf29}ing{\kf38} our{\kf14} dreams
+Dialogue: 0,0:02:05.98,0:02:08.59,DEFAULT,,0,0,0,,{\r}{\kf33}A{\kf28}lone{\kf28} in{\kf33} qui{\kf28}et{\kf33} cold{\kf33}~{\kf45}ness
+Dialogue: 0,0:02:08.78,0:02:10.88,DEFAULT,,0,0,0,,{\r}{\kf30}With{\kf30} no{\kf30} dawn{\kf30} and{\kf30} no{\kf35} twi{\kf24}light
+Dialogue: 0,0:02:11.03,0:02:13.60,DEFAULT,,0,0,0,,{\r}{\kf35}With{\kf25}out{\kf35} to{\kf25}days{\kf25} or{\kf30} yes{\kf35}ter{\kf47}days
+Dialogue: 0,0:02:13.91,0:02:15.93,DEFAULT,,0,0,0,,{\r}{\kf29}Our{\kf29} reign{\kf29} was{\kf29} our{\kf34} e{\kf29}very{\kf22}thing
+Dialogue: 0,0:02:16.09,0:02:18.65,DEFAULT,,0,0,0,,{\r}{\kf14}There{\kf14} were{\kf33} nei{\kf29}ther{\kf33} bor{\kf29}ders{\kf29} nor{\kf38} else{\kf38}where
+Dialogue: 0,0:02:18.97,0:02:21.30,DEFAULT,,0,0,0,,{\r}{\kf26}Yes,{\kf26} we{\kf32} wai{\kf26}ted{\kf32} with{\kf26}out{\kf37} wait{\kf28}ing
+Dialogue: 0,0:02:21.45,0:02:23.70,DEFAULT,,0,0,0,,{\r}{\kf28}'Cause{\kf33} no{\kf28}thing{\kf28} was{\kf33} un{\kf33}der{\kf42}neath
+Dialogue: 0,0:02:23.98,0:02:26.15,DEFAULT,,0,0,0,,{\r}{\kf34}What{\kf29} were{\kf29} those{\kf29} steps{\kf29} in{\kf29} the{\kf38} sand
+Dialogue: 0,0:02:26.31,0:02:28.80,DEFAULT,,0,0,0,,{\r}{\kf19}On{\kf24} which{\kf24} weâ€™ve{\kf34} al{\kf24}ways{\kf72} walked{\kf52}~
+Dialogue: 0,0:02:28.99,0:02:31.32,DEFAULT,,0,0,0,,{\r}{\kf32}In{\kf26} this{\kf53} dry{\kf69} de{\kf53}sert
+Dialogue: 0,0:02:31.56,0:02:33.93,DEFAULT,,0,0,0,,{\r}{\kf29}Where{\kf29} no{\kf29} sound{\kf29} and{\kf29} no{\kf34} laugh{\kf58}ter
+Dialogue: 0,0:02:34.13,0:02:36.38,DEFAULT,,0,0,0,,{\r}{\kf24}Ne{\kf24}ver{\kf29} no,{\kf29} no{\kf29}thing{\kf29} was{\kf61} heard
+Dialogue: 0,0:02:36.61,0:02:38.82,DEFAULT,,0,0,0,,{\r}{\kf25}Po{\kf25}wer{\kf25}ful{\kf30} yet{\kf40} emp{\kf25}~{\kf51}ty
+Dialogue: 0,0:02:39.06,0:02:41.19,DEFAULT,,0,0,0,,{\r}{\kf31}With{\kf31}out{\kf26} a{\kf31} laugh's{\kf31} me{\kf36}lo{\kf27}dy
+Dialogue: 0,0:02:41.35,0:02:43.99,DEFAULT,,0,0,0,,{\r}{\kf24}With{\kf29}out{\kf24} a{\kf54} heart's{\kf73}warmth{\kf60}~
+Dialogue: 0,0:02:44.15,0:02:46.52,DEFAULT,,0,0,0,,{\r}{\kf33}With{\kf28} no{\kf33} dawn{\kf28} and{\kf28} no{\kf33} twi{\kf54}light
+Dialogue: 0,0:02:46.72,0:02:49.05,DEFAULT,,0,0,0,,{\r}{\kf32}We{\kf32} were{\kf32} queens{\kf26} and{\kf26} yet{\kf26} no{\kf59}thing
+Dialogue: 0,0:02:49.24,0:02:51.61,DEFAULT,,0,0,0,,{\r}{\kf30}Be{\kf25}cause{\kf25} what{\kf25} is{\kf35} yes{\kf35}ter{\kf62}day
+Dialogue: 0,0:02:51.81,0:02:54.06,DEFAULT,,0,0,0,,{\r}{\kf32}To{\kf28}day{\kf32} or{\kf28} to{\kf32}mor{\kf32}~{\kf41}row
+Dialogue: 0,0:02:54.34,0:02:56.66,DEFAULT,,0,0,0,,{\r}{\kf29}But{\kf24} what{\kf29} is{\kf29} this{\kf34} blind{\kf29}ing{\kf59} light
+Dialogue: 0,0:02:56.86,0:02:59.15,DEFAULT,,0,0,0,,{\r}{\kf30}What{\kf30} are{\kf55} those{\kf60} co{\kf54}lors
+Dialogue: 0,0:02:59.35,0:03:01.72,DEFAULT,,0,0,0,,{\r}{\kf33}Soft{\kf33}nes{\kf23}ses{\kf33} u{\kf60}pon{\kf55} us
+Dialogue: 0,0:03:01.91,0:03:04.28,DEFAULT,,0,0,0,,{\r}{\kf25}Could{\kf30} al{\kf30}most{\kf30} make{\kf30} our{\kf30} heart{\kf62} sing?
+Dialogue: 0,0:03:44.78,0:03:47.19,DEFAULT,,0,0,0,,{\r}{\kf40}E{\kf35}very{\kf25}thing{\kf35} flows,{\kf45} mixed{\kf61} up
+Dialogue: 0,0:03:47.39,0:03:52.16,DEFAULT,,0,0,0,,{\r}{\kf33}Car{\kf24}ry{\kf28}ing{\kf38} a{\kf57}way{\kf28} in{\kf24} a{\kf38} tor{\kf28}rent{\kf28} of{\kf38} di{\kf62}sor{\kf52}der
+Dialogue: 0,0:03:52.36,0:03:54.69,DEFAULT,,0,0,0,,{\r}{\kf61}Past,{\kf28} pre{\kf23}sent,{\kf37} fu{\kf33}~{\kf51}ture
+Dialogue: 0,0:03:54.93,0:03:57.26,DEFAULT,,0,0,0,,{\r}{\kf29}What{\kf24} was{\kf38} fro{\kf24}zen{\kf33} be{\kf33}~{\kf52}fore
+Dialogue: 0,0:03:57.41,0:03:59.82,DEFAULT,,0,0,0,,{\r}{\kf31}Di{\kf31}sap{\kf27}peared{\kf31} to{\kf31} day{\kf36}~{\kf54}~
+Dialogue: 0,0:03:59.98,0:04:02.31,DEFAULT,,0,0,0,,{\r}{\kf30}Is{\kf30} it{\kf25} the{\kf35} fore{\kf69}seen{\kf44} end?
+Dialogue: 0,0:04:02.51,0:04:04.84,DEFAULT,,0,0,0,,{\r}{\kf27}Is{\kf27} it{\kf27} for{\kf32} to{\kf64}mor{\kf56}row?
+Dialogue: 0,0:04:05.03,0:04:07.40,DEFAULT,,0,0,0,,{\r}{\kf28}Would{\kf33} e{\kf28}very{\kf28}thing{\kf57} be{\kf63} lost
+Dialogue: 0,0:04:07.60,0:04:10.56,DEFAULT,,0,0,0,,{\r}{\kf70}Be{\kf47}cause{\kf33} we{\kf33} found{\kf28} this{\kf28} warm{\kf57} light
+Dialogue: 0,0:04:10.76,0:04:12.41,DEFAULT,,0,0,0,,{\r}{\kf51}In{\kf60} our{\kf55} heart
+Dialogue: 0,0:04:12.61,0:04:14.90,DEFAULT,,0,0,0,,{\r}{\kf29}That{\kf29} which{\kf29} is{\kf29} called{\kf33} friend{\kf33}~{\kf47}ship?
+Dialogue: 0,0:04:15.14,0:04:17.23,DEFAULT,,0,0,0,,{\r}{\kf30}What{\kf30} will{\kf30} be{\kf25} of{\kf65} our{\kf29} reign
+Dialogue: 0,0:04:17.39,0:04:19.99,DEFAULT,,0,0,0,,{\r}{\kf24}Where{\kf24} no{\kf28}thing{\kf33} e{\kf24}ver{\kf71} hap{\kf57}pened?
+Dialogue: 0,0:04:20.23,0:04:22.48,DEFAULT,,0,0,0,,{\r}{\kf23}Is{\kf28} it{\kf28} a{\kf28} new{\kf66} dawn{\kf52}~?
+Dialogue: 0,0:04:22.72,0:04:26.07,DEFAULT,,0,0,0,,{\r}{\kf27}Is{\kf27} it{\kf22} a{\kf27} new{\kf36} des{\kf27}ti{\kf170}ny?
+Dialogue: 0,0:04:30.26,0:04:35.98,DEFAULT,,0,0,0,,{\r}{\kf65}We{\kf37} did{\kf28}n't{\kf55} know{\kf28} we{\kf28} were{\kf60} on{\kf51} our{\kf220} ownâ€¦
+Dialogue: 0,0:04:40.40,0:04:46.56,DEFAULT,,0,0,0,,{\r}{\kf59}We{\kf36} did{\kf27}nâ€™t{\kf54} know{\kf32} we{\kf27} were{\kf59} on{\kf50} our{\kf272} ownâ€¦
+Dialogue: 0,0:04:48.65,0:04:52.80,DEFAULT,,0,0,0,,{\r}{\kf26}We{\kf22} were{\kf57} on{\kf57} our{\kf252} ownâ€¦

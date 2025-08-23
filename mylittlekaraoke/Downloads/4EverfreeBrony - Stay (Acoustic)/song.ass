@@ -1,46 +1,53 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Stay (Acoustic)
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by lily
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:13.64,0:00:18.97,DEFAULT,,0,0,0,,{\kf1393}I{\kf1374} al{\kf1384}ways{\kf1413} wished{\kf1374} that{\kf1384} my{\kf1403} eyes{\kf1384} were{\kf1379} play{\kf1384}ing{\kf1384} tricks{\kf1374} o{\kf1379}-on{\kf1413} me
-Dialogue: 0,0:00:20.70,0:00:23.88,DEFAULT,,0,0,0,,{\kf1374}When{\kf1374}e{\kf1374}ver{\kf1384} I'd{\kf1384} see{\kf1408} yo{\kf1384}-our{\kf1441} names
-Dialogue: 0,0:00:25.89,0:00:31.28,DEFAULT,,0,0,0,,{\kf1393}En{\kf1389}graved{\kf1374} u{\kf1374}po{\kf1422}-on{\kf1379} the{\kf1408} sto{\kf1384}-ones{\kf1374} cut{\kf1389} out{\kf1384} just{\kf1374} fo{\kf1374}-or{\kf1413} you
-Dialogue: 0,0:00:32.82,0:00:35.56,DEFAULT,,0,0,0,,{\kf1379}At{\kf1393} least{\kf1374} they{\kf1374}'re{\kf1379} not{\kf1379} the{\kf1456} same
-Dialogue: 0,0:00:37.10,0:00:41.66,DEFAULT,,0,0,0,,{\kf1389}I'm{\kf1374} re{\kf1374}mind{\kf1393}~{\kf1389}ed{\kf1393} ev{\kf1374}ery{\kf1374} da{\kf1389}-ay{\kf1393} that{\kf1389} you're{\kf1379} go{\kf1451}-one
-Dialogue: 0,0:00:43.01,0:00:47.48,DEFAULT,,0,0,0,,{\kf1374}But{\kf1379} could{\kf1384} you{\kf1408} show{\kf1389} a{\kf1379} lit{\kf1389}tle{\kf1379} mer{\kf1384}~{\kf1389}cy{\kf1379} fo{\kf1374}-or{\kf1437} once
-Dialogue: 0,0:00:49.02,0:00:53.88,DEFAULT,,0,0,0,,{\kf1389}And{\kf1408} won't{\kf1422} you{\kf1441} stay{\kf1393} in{\kf1393} my{\kf1461} dreams
-Dialogue: 0,0:00:55.22,0:01:00.03,DEFAULT,,0,0,0,,{\kf1384}And{\kf1408} don't{\kf1441} you{\kf1465} e{\kf1393}ve{\kf1393}-er{\kf1374} le{\kf1446}-eave
-Dialogue: 0,0:01:01.33,0:01:06.04,DEFAULT,,0,0,0,,{\kf1393}Don't{\kf1393} make{\kf1393} me{\kf1384} miss{\kf1393} you{\kf1374} a{\kf1374}ny{\kf1374} mo{\kf1408}-ore{\kf1393} than{\kf1393} I{\kf1446} do
-Dialogue: 0,0:01:07.87,0:01:12.14,DEFAULT,,0,0,0,,{\kf1403}Won't{\kf1427} you{\kf1470} sta{\kf1393}-a{\kf1389}-a{\kf1374}-a{\kf1432}-ay
-Dialogue: 0,0:01:13.64,0:01:16.81,DEFAULT,,0,0,0,,{\kf1393}In{\kf1465} my{\kf1528} dreams
-Dialogue: 0,0:01:27.48,0:01:32.87,DEFAULT,,0,0,0,,{\kf1393}I'd{\kf1374} ne{\kf1393}ver{\kf1413} go{\kf1374} as{\kf1379} far{\kf1379} as{\kf1408} plead{\kf1379}ing{\kf1393} for{\kf1379} a{\kf1374} mir{\kf1379}~{\kf1384}a{\kf1427}cle
-Dialogue: 0,0:01:34.40,0:01:37.43,DEFAULT,,0,0,0,,{\kf1384}'Cause{\kf1393} time{\kf1379} ha{\kf1379}-as{\kf1384} its{\kf1393} o{\kf1393}-own{\kf1408} mi{\kf1379}-ind
-Dialogue: 0,0:01:39.79,0:01:45.13,DEFAULT,,0,0,0,,{\kf1389}But{\kf1384} you{\kf1384} should{\kf1403} know{\kf1379} that{\kf1393} I've{\kf1403} locked{\kf1389} up{\kf1374} all{\kf1393} those{\kf1374} me{\kf1374}~{\kf1374}mor{\kf1374}~{\kf1413}ies
-Dialogue: 0,0:01:46.71,0:01:50.03,DEFAULT,,0,0,0,,{\kf1393}'Cause{\kf1374} you{\kf1389} were{\kf1398} my{\kf1393} be{\kf1384}-est{\kf1427} find{\kf1384}~
-Dialogue: 0,0:01:50.94,0:01:55.17,DEFAULT,,0,0,0,,{\kf1389}I'm{\kf1374} re{\kf1379}mind{\kf1389}~{\kf1389}ed{\kf1393} ev{\kf1374}ery{\kf1374} da{\kf1389}-ay{\kf1393} that{\kf1389} you're{\kf1374} go{\kf1422}-one
-Dialogue: 0,0:01:56.86,0:02:01.57,DEFAULT,,0,0,0,,{\kf1374}But{\kf1374} could{\kf1389} you{\kf1408} show{\kf1393} a{\kf1374} lit{\kf1389}tle{\kf1374} mer{\kf1384}~{\kf1389}cy{\kf1393} for{\kf1465} once
-Dialogue: 0,0:02:02.87,0:02:07.67,DEFAULT,,0,0,0,,{\kf1393}And{\kf1408} won't{\kf1432} you{\kf1441} stay{\kf1393} in{\kf1393} my{\kf1456} dreams
-Dialogue: 0,0:02:09.07,0:02:13.83,DEFAULT,,0,0,0,,{\kf1384}And{\kf1408} don't{\kf1441} you{\kf1432} e{\kf1389}~{\kf1393}ver{\kf1393}~{\kf1456} leave
-Dialogue: 0,0:02:15.17,0:02:19.74,DEFAULT,,0,0,0,,{\kf1393}Don't{\kf1393} make{\kf1393} me{\kf1384} miss{\kf1393} you{\kf1374} a{\kf1379}ny{\kf1374} mo{\kf1408}-ore{\kf1393} than{\kf1393} I{\kf1432} do
-Dialogue: 0,0:02:21.71,0:02:26.28,DEFAULT,,0,0,0,,{\kf1403}Won't{\kf1422} you{\kf1432} sta{\kf1393}-a{\kf1393}-a{\kf1389}-a{\kf1374}-a{\kf1461}-ay
-Dialogue: 0,0:02:27.48,0:02:33.30,DEFAULT,,0,0,0,,{\kf1393}In{\kf1389} my{\kf1663} dre{\kf1528}-e{\kf1389}-eams
-Dialogue: 0,0:02:34.79,0:02:39.40,DEFAULT,,0,0,0,,{\kf1393}I{\kf1393} took{\kf1393} your{\kf1417} friend{\kf1393}ship{\kf1393} for{\kf1393} gra{\kf1393}-ant{\kf1480}ed
-Dialogue: 0,0:02:40.56,0:02:46.04,DEFAULT,,0,0,0,,{\kf1389}And{\kf1624} oh,{\kf1470} oh{\kf1374}-oh{\kf1470}-oh
-Dialogue: 0,0:02:47.10,0:02:51.23,DEFAULT,,0,0,0,,{\kf1393}I{\kf1393} should{\kf1393} be{\kf1422} grate{\kf1393}ful{\kf1393} I{\kf1393} ha{\kf1393}-ad{\kf1432} it
-Dialogue: 0,0:02:52.24,0:02:53.88,DEFAULT,,0,0,0,,{\kf1374}And{\kf1379} look{\kf1389} what{\kf1393} hap{\kf1413}pened
-Dialogue: 0,0:02:55.56,0:03:00.08,DEFAULT,,0,0,0,,{\kf1408}Won't{\kf1432} you{\kf1451} stay{\kf1393} in{\kf1393} my{\kf1465} dreams
-Dialogue: 0,0:03:01.38,0:03:05.85,DEFAULT,,0,0,0,,{\kf1384}And{\kf1408} don't{\kf1441} you{\kf1432} e{\kf1393}~{\kf1389}ver{\kf1393}~{\kf1427} leave
-Dialogue: 0,0:03:07.48,0:03:12.19,DEFAULT,,0,0,0,,{\kf1393}Don't{\kf1384} make{\kf1393} me{\kf1384} miss{\kf1393} you{\kf1374} a{\kf1374}ny{\kf1422} more{\kf1374} than{\kf1393} I{\kf1446} do
-Dialogue: 0,0:03:14.02,0:03:18.92,DEFAULT,,0,0,0,,{\kf1408}Won't{\kf1427} you{\kf1465} sta{\kf1398}-a{\kf1379}-a{\kf1403}-a{\kf1470}-ay
-Dialogue: 0,0:03:20.17,0:03:24.69,DEFAULT,,0,0,0,,{\kf1408}Won't{\kf1432} you{\kf1441} stay{\kf1389} in{\kf1393} my{\kf1461} dreams
-Dialogue: 0,0:03:25.99,0:03:30.65,DEFAULT,,0,0,0,,{\kf1384}And{\kf1408} don't{\kf1441} you{\kf1432} e{\kf1393}~{\kf1389}ver{\kf1393}~{\kf1451} leave
-Dialogue: 0,0:03:32.10,0:03:36.76,DEFAULT,,0,0,0,,{\kf1393}Don't{\kf1393} make{\kf1393} me{\kf1393} miss{\kf1393} you{\kf1374} a{\kf1374}ny{\kf1374} mo{\kf1408}-ore{\kf1393} than{\kf1384} I{\kf1384}~{\kf1398} do{\kf1384}~
-Dialogue: 0,0:03:38.64,0:03:43.35,DEFAULT,,0,0,0,,{\kf1403}Won't{\kf1441} you{\kf1393} sta{\kf1374}-a{\kf1413}-a{\kf1413}-a{\kf1374}-a{\kf1393}-a{\kf1451}-ay
-Dialogue: 0,0:03:44.40,0:03:48.49,DEFAULT,,0,0,0,,{\kf1393}In{\kf1470} my{\kf1614} dreams
+Dialogue: 0,0:00:13.64,0:00:18.98,DEFAULT,,0,0,0,,{\r}{\kf49}I{\kf16} al{\kf32}ways{\kf81} wished{\kf16} that{\kf32} my{\kf65} eyes{\kf32} were{\kf24} play{\kf32}ing{\kf32} tricks{\kf16} o{\kf24}-on{\kf83} me
+Dialogue: 0,0:00:20.71,0:00:23.88,DEFAULT,,0,0,0,,{\r}{\kf15}When{\kf15}e{\kf15}ver{\kf29} I'd{\kf29} see{\kf66} yo{\kf29}-our{\kf119} names
+Dialogue: 0,0:00:25.90,0:00:31.28,DEFAULT,,0,0,0,,{\r}{\kf47}En{\kf40}graved{\kf16} u{\kf16}po{\kf95}-on{\kf24} the{\kf71} sto{\kf32}-ones{\kf16} cut{\kf40} out{\kf32} just{\kf16} fo{\kf16}-or{\kf77} you
+Dialogue: 0,0:00:32.82,0:00:35.56,DEFAULT,,0,0,0,,{\r}{\kf22}At{\kf43} least{\kf14} they{\kf14}'re{\kf22} not{\kf22} the{\kf137} same
+Dialogue: 0,0:00:37.10,0:00:41.67,DEFAULT,,0,0,0,,{\r}{\kf34}I'm{\kf14} re{\kf14}mind{\kf41}~{\kf34}ed{\kf41} ev{\kf14}ery{\kf14} da{\kf34}-ay{\kf41} that{\kf34} you're{\kf20} go{\kf122}-one
+Dialogue: 0,0:00:43.02,0:00:47.49,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf21} could{\kf28} you{\kf64} show{\kf35} a{\kf21} lit{\kf35}tle{\kf21} mer{\kf28}~{\kf35}cy{\kf21} fo{\kf14}-or{\kf110} once
+Dialogue: 0,0:00:49.02,0:00:53.88,DEFAULT,,0,0,0,,{\r}{\kf33}And{\kf59} won't{\kf79} you{\kf105} stay{\kf39} in{\kf39} my{\kf132} dreams
+Dialogue: 0,0:00:55.23,0:01:00.03,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf53} don't{\kf95} you{\kf125} e{\kf36}ve{\kf36}-er{\kf12} le{\kf100}-eave
+Dialogue: 0,0:01:01.33,0:01:06.04,DEFAULT,,0,0,0,,{\r}{\kf39}Don't{\kf39} make{\kf39} me{\kf26} miss{\kf39} you{\kf13} a{\kf13}ny{\kf13} mo{\kf59}-ore{\kf39} than{\kf39} I{\kf113} do
+Dialogue: 0,0:01:07.87,0:01:12.15,DEFAULT,,0,0,0,,{\r}{\kf49}Won't{\kf79} you{\kf135} sta{\kf37}-a{\kf31}-a{\kf12}-a{\kf85}-ay
+Dialogue: 0,0:01:13.64,0:01:16.81,DEFAULT,,0,0,0,,{\r}{\kf31}In{\kf109} my{\kf177} dreams
+Dialogue: 0,0:01:27.49,0:01:32.87,DEFAULT,,0,0,0,,{\r}{\kf43}I'd{\kf14} ne{\kf43}ver{\kf72} go{\kf14} as{\kf22} far{\kf22} as{\kf65} plead{\kf22}ing{\kf43} for{\kf22} a{\kf14} mir{\kf22}~{\kf29}a{\kf91}cle
+Dialogue: 0,0:01:34.41,0:01:37.44,DEFAULT,,0,0,0,,{\r}{\kf28}'Cause{\kf41} time{\kf21} ha{\kf21}-as{\kf28} its{\kf41} o{\kf41}-own{\kf62} mi{\kf20}-ind
+Dialogue: 0,0:01:39.79,0:01:45.13,DEFAULT,,0,0,0,,{\r}{\kf39}But{\kf31} you{\kf31} should{\kf62} know{\kf23} that{\kf46} I've{\kf62} locked{\kf39} up{\kf15} all{\kf46} those{\kf15} me{\kf15}~{\kf15}mor{\kf15}~{\kf80}ies
+Dialogue: 0,0:01:46.72,0:01:50.03,DEFAULT,,0,0,0,,{\r}{\kf42}'Cause{\kf14} you{\kf35} were{\kf49} my{\kf42} be{\kf28}-est{\kf92} find{\kf30}~
+Dialogue: 0,0:01:50.95,0:01:55.18,DEFAULT,,0,0,0,,{\r}{\kf35}I'm{\kf14} re{\kf21}mind{\kf35}~{\kf35}ed{\kf42} ev{\kf14}ery{\kf14} da{\kf35}-ay{\kf42} that{\kf35} you're{\kf14} go{\kf87}-one
+Dialogue: 0,0:01:56.86,0:02:01.57,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf14} could{\kf34} you{\kf61} show{\kf41} a{\kf14} lit{\kf34}tle{\kf14} mer{\kf27}~{\kf34}cy{\kf41} for{\kf143} once
+Dialogue: 0,0:02:02.87,0:02:07.68,DEFAULT,,0,0,0,,{\r}{\kf38}And{\kf57} won't{\kf89} you{\kf101} stay{\kf38} in{\kf38} my{\kf120} dreams
+Dialogue: 0,0:02:09.07,0:02:13.83,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf54} don't{\kf96} you{\kf84} e{\kf30}~{\kf36}ver{\kf36}~{\kf116} leave
+Dialogue: 0,0:02:15.18,0:02:19.75,DEFAULT,,0,0,0,,{\r}{\kf39}Don't{\kf39} make{\kf39} me{\kf26} miss{\kf39} you{\kf13} a{\kf20}ny{\kf13} mo{\kf59}-ore{\kf39} than{\kf39} I{\kf92} do
+Dialogue: 0,0:02:21.72,0:02:26.28,DEFAULT,,0,0,0,,{\r}{\kf50}Won't{\kf75} you{\kf88} sta{\kf38}-a{\kf38}-a{\kf31}-a{\kf13}-a{\kf124}-ay
+Dialogue: 0,0:02:27.49,0:02:33.30,DEFAULT,,0,0,0,,{\r}{\kf31}In{\kf26} my{\kf322} dre{\kf177}-e{\kf26}-eams
+Dialogue: 0,0:02:34.79,0:02:39.41,DEFAULT,,0,0,0,,{\r}{\kf36}I{\kf36} took{\kf36} your{\kf66} friend{\kf36}ship{\kf36} for{\kf36} gra{\kf36}-ant{\kf144}ed
+Dialogue: 0,0:02:40.56,0:02:46.04,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf282} oh,{\kf115} oh{\kf10}-oh{\kf115}-oh
+Dialogue: 0,0:02:47.10,0:02:51.24,DEFAULT,,0,0,0,,{\r}{\kf36}I{\kf36} should{\kf36} be{\kf73} grate{\kf36}ful{\kf36} I{\kf36} ha{\kf36}-ad{\kf88} it
+Dialogue: 0,0:02:52.25,0:02:53.88,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf19} look{\kf31} what{\kf38} hap{\kf62}pened
+Dialogue: 0,0:02:55.56,0:03:00.08,DEFAULT,,0,0,0,,{\r}{\kf55}Won't{\kf86} you{\kf110} stay{\kf37} in{\kf37} my{\kf127} dreams
+Dialogue: 0,0:03:01.38,0:03:05.85,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf55} don't{\kf98} you{\kf86} e{\kf37}~{\kf31}ver{\kf37}~{\kf79} leave
+Dialogue: 0,0:03:07.49,0:03:12.20,DEFAULT,,0,0,0,,{\r}{\kf42}Don't{\kf28} make{\kf42} me{\kf28} miss{\kf42} you{\kf14} a{\kf14}ny{\kf84} more{\kf14} than{\kf42} I{\kf121} do
+Dialogue: 0,0:03:14.02,0:03:18.93,DEFAULT,,0,0,0,,{\r}{\kf53}Won't{\kf77} you{\kf124} sta{\kf41}-a{\kf18}-a{\kf47}-a{\kf130}-ay
+Dialogue: 0,0:03:20.18,0:03:24.70,DEFAULT,,0,0,0,,{\r}{\kf58}Won't{\kf90} you{\kf103} stay{\kf32} in{\kf39} my{\kf130} dreams
+Dialogue: 0,0:03:26.00,0:03:30.66,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf54} don't{\kf96} you{\kf84} e{\kf36}~{\kf30}ver{\kf36}~{\kf106} leave
+Dialogue: 0,0:03:32.10,0:03:36.76,DEFAULT,,0,0,0,,{\r}{\kf40}Don't{\kf40} make{\kf40} me{\kf40} miss{\kf40} you{\kf13} a{\kf13}ny{\kf13} mo{\kf60}-ore{\kf40} than{\kf27} I{\kf27}~{\kf47} do{\kf26}~
+Dialogue: 0,0:03:38.64,0:03:43.35,DEFAULT,,0,0,0,,{\r}{\kf48}Won't{\kf97} you{\kf36} sta{\kf12}-a{\kf60}-a{\kf60}-a{\kf12}-a{\kf36}-a{\kf110}-ay
+Dialogue: 0,0:03:44.41,0:03:48.50,DEFAULT,,0,0,0,,{\r}{\kf31}In{\kf112} my{\kf266} dreams

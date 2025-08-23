@@ -1,74 +1,81 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Song For Twilight
+Artist: Meelz
+Original Timing: mylittlekaraoke.com by Steven Knapp, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:24.23,0:00:26.53,DEFAULT,,0,0,0,,{\kf19}Hey{\kf12} you{\kf8} could{\kf8} you{\kf23} give{\kf27} a{\kf16} lis{\kf8}~{\kf23}ten?
-Dialogue: 0,0:00:27.25,0:00:29.82,DEFAULT,,0,0,0,,{\kf19}Watched{\kf8} you{\kf8} from{\kf8} a{\kf23}far{\kf23} can't{\kf8} help{\kf16}~{\kf16} but{\kf8} think
-Dialogue: 0,0:00:30.27,0:00:32.42,DEFAULT,,0,0,0,,{\kf19}My{\kf8}~{\kf8} love{\kf8} for{\kf8} you{\kf23} is{\kf23} a{\kf27} giv{\kf8}en
-Dialogue: 0,0:00:32.54,0:00:35.30,DEFAULT,,0,0,0,,{\kf8}Just{\kf8} the{\kf16} sight{\kf16}~{\kf8} of{\kf12} you{\kf12} has{\kf12}~{\kf8} me{\kf8} tick{\kf23}led{\kf16} pink{\kf16}~
-Dialogue: 0,0:00:35.67,0:00:36.32,DEFAULT,,0,0,0,,{\kf8}Cause{\kf8} it's{\kf12} late{\kf8} I'm{\kf8} a{\kf8}wake
-Dialogue: 0,0:00:36.43,0:00:37.07,DEFAULT,,0,0,0,,{\kf8}and{\kf8} I{\kf8} real{\kf8}ly{\kf8} can't{\kf8} think
-Dialogue: 0,0:00:37.19,0:00:37.94,DEFAULT,,0,0,0,,{\kf8}'cause{\kf8} the{\kf8} girl{\kf8} is{\kf8} walk{\kf8}ing{\kf8} by{\kf8} me
-Dialogue: 0,0:00:37.94,0:00:38.58,DEFAULT,,0,0,0,,{\kf8}and{\kf8} I{\kf8} just{\kf8} don't{\kf8} wan{\kf8}na{\kf8} blink
-Dialogue: 0,0:00:38.66,0:00:40.06,DEFAULT,,0,0,0,,{\kf8}Cause{\kf8} she's{\kf8} here{\kf8} out{\kf8} my{\kf8} fear{\kf8}I{\kf8} just{\kf8} don't{\kf8} know{\kf8} what{\kf8} to{\kf8} say
-Dialogue: 0,0:00:40.09,0:00:40.89,DEFAULT,,0,0,0,,{\kf8}but{\kf8} then{\kf8} a{\kf8}gain{\kf8} she{\kf8} is{\kf8}n't{\kf12} real
-Dialogue: 0,0:00:40.96,0:00:41.61,DEFAULT,,0,0,0,,{\kf8}but{\kf8} I{\kf8} just{\kf8} can't{\kf8} look{\kf8} a{\kf8}way
-Dialogue: 0,0:00:42.06,0:00:44.97,DEFAULT,,0,0,0,,{\kf12}And{\kf12} I{\kf8} can't{\kf12} fath{\kf8}om{\kf8} the{\kf8} thought{\kf19}~{\kf8} cause{\kf12} she's{\kf8} the{\kf12} per{\kf12}fect{\kf23} girl
-Dialogue: 0,0:00:45.08,0:00:48.03,DEFAULT,,0,0,0,,{\kf8}Right{\kf12} now{\kf8} I{\kf19} can{\kf8}not{\kf8} mis{\kf12}take{\kf12}~{\kf12} she{\kf8} real{\kf8}ly{\kf16} rocks{\kf19} my{\kf27} world
-Dialogue: 0,0:00:48.10,0:00:51.05,DEFAULT,,0,0,0,,{\kf12}But{\kf16} how{\kf8} am{\kf16} I{\kf8} an{\kf8}y{\kf23} dif'{\kf12}rent{\kf12} from{\kf8} the{\kf12} ten{\kf12} mil{\kf12}lion{\kf19} guys{\kf16}~
-Dialogue: 0,0:00:51.28,0:00:54.53,DEFAULT,,0,0,0,,{\kf8}Feel{\kf8}ing{\kf16} all{\kf16} the{\kf8} same{\kf12} when{\kf12} they{\kf16} all{\kf8} look{\kf12} in{\kf16} her{\kf38} eyes{\kf42}~
-Dialogue: 0,0:00:55.40,0:00:57.55,DEFAULT,,0,0,0,,{\kf23}Twi{\kf38}light{\kf8} why{\kf8} can't{\kf8} you{\kf19} meet{\kf27} me?
-Dialogue: 0,0:00:57.85,0:01:00.88,DEFAULT,,0,0,0,,{\kf8}Why{\kf8} can't{\kf8} you{\kf31} see{\kf31} be{\kf8}yond{\kf8}~{\kf19} the{\kf19} light{\kf16}ed{\kf19} stage?{\kf23}~
-Dialogue: 0,0:01:01.44,0:01:03.52,DEFAULT,,0,0,0,,{\kf23}Twi{\kf31}light{\kf8} girl{\kf8} please{\kf8} be{\kf23}lieve{\kf23} me
-Dialogue: 0,0:01:03.82,0:01:06.24,DEFAULT,,0,0,0,,{\kf8}Be{\kf12}cause{\kf8} to{\kf35}night{\kf23} I'm{\kf16} feel{\kf19}in'{\kf27} lone{\kf16}ly
-Dialogue: 0,0:01:06.47,0:01:08.17,DEFAULT,,0,0,0,,{\kf8}Gon{\kf8}na{\kf8} break{\kf8} you{\kf16} out{\kf8} of{\kf8} your{\kf19} cage{\kf53}~
-Dialogue: 0,0:01:19.73,0:01:22.07,DEFAULT,,0,0,0,,{\kf19}Crossed{\kf8} paths{\kf8} with{\kf8} the{\kf31} girl{\kf27} of{\kf16} my{\kf16}~{\kf19} dreams
-Dialogue: 0,0:01:22.75,0:01:25.36,DEFAULT,,0,0,0,,{\kf19}Life{\kf8} since{\kf16} not{\kf12} as{\kf27} eas{\kf35}y{\kf12} as{\kf19}~{\kf16} it{\kf16} seems
-Dialogue: 0,0:01:25.78,0:01:27.93,DEFAULT,,0,0,0,,{\kf19}Broke{\kf12} down{\kf8} the{\kf8} fourth{\kf19} wall{\kf23} to{\kf27} see{\kf8} you
-Dialogue: 0,0:01:28.04,0:01:30.84,DEFAULT,,0,0,0,,{\kf8}Just{\kf8} the{\kf12} thought{\kf12} of{\kf8} you{\kf19} here{\kf27} though{\kf8} too{\kf8} good{\kf8} to{\kf8} be{\kf16} true{\kf19}~
-Dialogue: 0,0:01:31.56,0:01:32.80,DEFAULT,,0,0,0,,{\kf8}But{\kf8} nev{\kf8}er{\kf8} e{\kf8}ven{\kf8} thought{\kf8} that{\kf8} I'd{\kf8} see{\kf8} you
-Dialogue: 0,0:01:32.88,0:01:34.28,DEFAULT,,0,0,0,,{\kf8}Got{\kf8} too{\kf8} man{\kf8}y{\kf8} ques{\kf8}tions{\kf8} how{\kf8} are{\kf8} you{\kf8} e{\kf8}ven{\kf8} true?
-Dialogue: 0,0:01:34.39,0:01:35.83,DEFAULT,,0,0,0,,{\kf8}Twen{\kf8}ty{\kf12} four{\kf8} sev{\kf8}en{\kf8} al{\kf8}ways{\kf8} show{\kf8}ered{\kf8} with{\kf8} at{\kf8}ten{\kf8}tion
-Dialogue: 0,0:01:35.86,0:01:37.30,DEFAULT,,0,0,0,,{\kf8}Did{\kf8} I{\kf8} men{\kf8}tion{\kf8} you're{\kf8} an{\kf8} in{\kf8}ter{\kf8}net{\kf8} sen{\kf12}sa{\kf8}tion?
-Dialogue: 0,0:01:37.60,0:01:40.36,DEFAULT,,0,0,0,,{\kf12}And{\kf12} I{\kf8} can't{\kf12} fath{\kf8}om{\kf8} the{\kf12} thought{\kf19}~{\kf12} cause{\kf12} she's{\kf8} the{\kf12} per{\kf12}fect{\kf16} girl
-Dialogue: 0,0:01:40.59,0:01:43.53,DEFAULT,,0,0,0,,{\kf12}Right{\kf12} now{\kf8} I{\kf16} can{\kf8}not{\kf8} mis{\kf12}take{\kf12} she{\kf8} real{\kf8}ly{\kf16} rocks{\kf19} my{\kf27} world
-Dialogue: 0,0:01:43.65,0:01:46.44,DEFAULT,,0,0,0,,{\kf12}But{\kf12} how{\kf8} am{\kf12} I{\kf8} an{\kf12}y{\kf23} dif'{\kf12}rent{\kf12} from{\kf8} the{\kf12} ten{\kf12} mil{\kf12}lion{\kf12} guys{\kf12}~
-Dialogue: 0,0:01:46.82,0:01:50.00,DEFAULT,,0,0,0,,{\kf8}Feel{\kf8}ing{\kf16} all{\kf16} the{\kf8} same{\kf19}~{\kf12} when{\kf12} they{\kf16} all{\kf8} look{\kf12} in{\kf16} her{\kf46} eyes{\kf35}~
-Dialogue: 0,0:01:50.86,0:01:53.24,DEFAULT,,0,0,0,,{\kf27}Twi{\kf46}light{\kf12} why{\kf8} can't{\kf8} you{\kf27} meet{\kf46} me?
-Dialogue: 0,0:01:53.32,0:01:56.38,DEFAULT,,0,0,0,,{\kf12}Why{\kf8} can't{\kf8} you{\kf27} see{\kf35} be{\kf12}yond{\kf8}~{\kf23} the{\kf19} light{\kf16}ed{\kf19} stage?{\kf23}~
-Dialogue: 0,0:01:56.91,0:01:59.03,DEFAULT,,0,0,0,,{\kf23}Twi{\kf31}light{\kf12} girl{\kf8} please{\kf8} be{\kf23}lieve{\kf23} me
-Dialogue: 0,0:01:59.33,0:02:01.67,DEFAULT,,0,0,0,,{\kf8}Be{\kf8}cause{\kf8} to{\kf35}night{\kf23} I'm{\kf16} feel{\kf19}in'{\kf23} lone{\kf12}ly
-Dialogue: 0,0:02:01.94,0:02:05.75,DEFAULT,,0,0,0,,{\kf8}Gon{\kf8}na{\kf8} break{\kf8} you{\kf12} out{\kf8} of{\kf8} your{\kf23} cage{\kf220}~{\kf23}~{\kf19}~
-Dialogue: 0,0:02:15.24,0:02:17.88,DEFAULT,,0,0,0,,{\kf8}Lis{\kf16}ten{\kf8} to{\kf27} my{\kf8} words{\kf16}~{\kf12} 'fore{\kf8} I{\kf8} for{\kf19}get{\kf27} a{\kf16}gain
-Dialogue: 0,0:02:18.26,0:02:20.87,DEFAULT,,0,0,0,,{\kf12}Prom{\kf8}ised{\kf8} you{\kf23} my{\kf8} love{\kf23}~{\kf8} that{\kf8} this{\kf8} would{\kf12} nev{\kf12}er{\kf16}~{\kf16} end
-Dialogue: 0,0:02:21.28,0:02:23.32,DEFAULT,,0,0,0,,{\kf8}But{\kf12} your{\kf16} du{\kf8}ties{\kf8} have{\kf8} tak{\kf16}~{\kf8}en{\kf12} you{\kf16} girl
-Dialogue: 0,0:02:23.36,0:02:26.84,DEFAULT,,0,0,0,,{\kf12}I'll{\kf12} send{\kf8}~{\kf19} you{\kf8} all{\kf8} my{\kf12} feel{\kf8}ings{\kf12} through{\kf23} this{\kf8} song{\kf8} wait{\kf8} for{\kf12} you{\kf12} 'round{\kf8} the{\kf16} bend
-Dialogue: 0,0:02:27.21,0:02:29.86,DEFAULT,,0,0,0,,{\kf8}Lis{\kf16}ten{\kf12} to{\kf27} my{\kf8} words{\kf16}~{\kf12} 'fore{\kf8} I{\kf8} for{\kf19}get{\kf27} a{\kf16}gain
-Dialogue: 0,0:02:30.24,0:02:32.84,DEFAULT,,0,0,0,,{\kf12}Prom{\kf8}ised{\kf8} you{\kf23} my{\kf16} love{\kf16}~{\kf8} that{\kf8} this{\kf8} would{\kf12} nev{\kf23}er{\kf16} end
-Dialogue: 0,0:02:33.26,0:02:35.45,DEFAULT,,0,0,0,,{\kf8}But{\kf12} your{\kf16} du{\kf12}ties{\kf8} have{\kf27} tak{\kf8}en{\kf12} you{\kf16} girl{\kf12} I'll
-Dialogue: 0,0:02:35.71,0:02:38.85,DEFAULT,,0,0,0,,{\kf12}Send{\kf8}~{\kf19} you{\kf8} all{\kf8} my{\kf12} feel{\kf8}ings{\kf12} through{\kf23} this{\kf8} song{\kf8} wait{\kf8}for{\kf12} you{\kf12} 'round{\kf8} the{\kf16} bend
-Dialogue: 0,0:02:39.23,0:02:41.76,DEFAULT,,0,0,0,,{\kf8}Lis{\kf8}ten{\kf12} to{\kf23} my{\kf8} words{\kf16}~{\kf12} 'fore{\kf8} I{\kf8} for{\kf16}get{\kf23} a{\kf8}gain
-Dialogue: 0,0:02:42.25,0:02:44.86,DEFAULT,,0,0,0,,{\kf12}Prom{\kf8}ised{\kf12} you{\kf23} my{\kf16} love{\kf16}~{\kf8} that{\kf8} this{\kf8} would{\kf12} nev{\kf27}er{\kf19} end
-Dialogue: 0,0:02:45.24,0:02:47.62,DEFAULT,,0,0,0,,{\kf12}But{\kf12} your{\kf16} du{\kf8}ties{\kf8} have{\kf27} tak{\kf8}en{\kf16} you{\kf16} girl{\kf23} I'll
-Dialogue: 0,0:02:47.73,0:02:49.85,DEFAULT,,0,0,0,,{\kf16}Send{\kf8}~{\kf19} you{\kf12} all{\kf8} my{\kf12} feel{\kf8}ings{\kf12} through{\kf23} this{\kf12} song{\kf8} wait
-Dialogue: 0,0:02:49.96,0:02:51.51,DEFAULT,,0,0,0,,{\kf8}for{\kf12} you{\kf12} 'round{\kf12} the{\kf84} bend
-Dialogue: 0,0:03:04.54,0:03:07.49,DEFAULT,,0,0,0,,{\kf12}And{\kf12} I{\kf8} can't{\kf12} fath{\kf12}om{\kf8} the{\kf8} thought{\kf19}~{\kf8} cause{\kf12} she's{\kf8} the{\kf12} per{\kf12}fect{\kf31} girl
-Dialogue: 0,0:03:07.60,0:03:10.55,DEFAULT,,0,0,0,,{\kf12}Right{\kf8} now{\kf12} I{\kf12} can{\kf8}not{\kf8} mis{\kf23}take{\kf16} she{\kf16} real{\kf12}ly{\kf19} rocks{\kf19} my{\kf31} world
-Dialogue: 0,0:03:10.63,0:03:13.54,DEFAULT,,0,0,0,,{\kf12}But{\kf12} how{\kf8} am{\kf12} I{\kf8} an{\kf12}y{\kf27} dif'{\kf8}rent{\kf12} from{\kf8} the{\kf12} ten{\kf16} mil{\kf8}lion{\kf8} guys{\kf23}~
-Dialogue: 0,0:03:13.80,0:03:17.01,DEFAULT,,0,0,0,,{\kf8}Feel{\kf12}ing{\kf16} all{\kf16} the{\kf8} same{\kf19}~{\kf12} when{\kf16} they{\kf16} all{\kf12} look{\kf12} in{\kf12} her{\kf42} eyes{\kf38}~
-Dialogue: 0,0:03:17.84,0:03:20.07,DEFAULT,,0,0,0,,{\kf27}Twi{\kf42}light{\kf8} why{\kf12} can't{\kf8} you{\kf27} meet{\kf35} me?
-Dialogue: 0,0:03:20.34,0:03:23.40,DEFAULT,,0,0,0,,{\kf12}Why{\kf12} can't{\kf8} you{\kf27} see{\kf35} be{\kf12}yond{\kf8}~{\kf19} the{\kf19} light{\kf16}ed{\kf23} stage?{\kf23}~
-Dialogue: 0,0:03:23.93,0:03:26.04,DEFAULT,,0,0,0,,{\kf23}Twi{\kf46}light{\kf12} girl{\kf8} please{\kf8} be{\kf23}lieve{\kf27} me
-Dialogue: 0,0:03:26.31,0:03:28.80,DEFAULT,,0,0,0,,{\kf8}Be{\kf12}cause{\kf8} to{\kf35}night{\kf27} I'm{\kf16} feel{\kf12}in'{\kf19} lone{\kf31}ly
-Dialogue: 0,0:03:29.86,0:03:32.09,DEFAULT,,0,0,0,,{\kf27}Twi{\kf46}light{\kf16} why{\kf8} can't{\kf8} you{\kf23} meet{\kf35} me?
-Dialogue: 0,0:03:32.32,0:03:35.41,DEFAULT,,0,0,0,,{\kf8}At{\kf12} least{\kf8} you{\kf27} saw{\kf38} be{\kf16}yond{\kf8}~{\kf19} the{\kf19} light{\kf16}ed{\kf16} stage{\kf27}~
-Dialogue: 0,0:03:35.94,0:03:38.06,DEFAULT,,0,0,0,,{\kf23}Twi{\kf42}light{\kf8} girl{\kf8} please{\kf8} be{\kf31}lieve{\kf27} me
-Dialogue: 0,0:03:38.32,0:03:40.82,DEFAULT,,0,0,0,,{\kf8}Be{\kf8}cause{\kf8} to{\kf38}night{\kf27} I'm{\kf16} feel{\kf19}in'{\kf23} lone{\kf19}ly
-Dialogue: 0,0:03:40.97,0:03:44.63,DEFAULT,,0,0,0,,{\kf8}Gon{\kf8}na{\kf12} break{\kf8} you{\kf12} out{\kf8} of{\kf8} your{\kf23} cage{\kf250}~
+Dialogue: 0,0:00:24.23,0:00:26.53,DEFAULT,,0,0,0,,{\r}{\kf31}Hey{\kf19} you{\kf12} could{\kf12} you{\kf37} give{\kf44} a{\kf25} lis{\kf12}~{\kf38}ten?
+Dialogue: 0,0:00:27.25,0:00:29.82,DEFAULT,,0,0,0,,{\r}{\kf37}Watched{\kf15} you{\kf15} from{\kf15} a{\kf44}far{\kf44} can't{\kf15} help{\kf29}~{\kf29} but{\kf14} think
+Dialogue: 0,0:00:30.28,0:00:32.43,DEFAULT,,0,0,0,,{\r}{\kf32}My{\kf13}~{\kf13} love{\kf13} for{\kf13} you{\kf38} is{\kf38} a{\kf44} giv{\kf11}en
+Dialogue: 0,0:00:32.54,0:00:35.30,DEFAULT,,0,0,0,,{\r}{\kf13}Just{\kf13} the{\kf27} sight{\kf27}~{\kf13} of{\kf20} you{\kf20} has{\kf20}~{\kf13} me{\kf13} tick{\kf40}led{\kf27} pink{\kf30}~
+Dialogue: 0,0:00:35.68,0:00:36.32,DEFAULT,,0,0,0,,{\r}{\kf10}Cause{\kf10} it's{\kf15} late{\kf10} I'm{\kf10} a{\kf10}wake
+Dialogue: 0,0:00:36.43,0:00:37.08,DEFAULT,,0,0,0,,{\r}{\kf11}and{\kf11} I{\kf11} real{\kf11}ly{\kf11} can't{\kf10} think
+Dialogue: 0,0:00:37.19,0:00:37.95,DEFAULT,,0,0,0,,{\r}{\kf10}'cause{\kf10} the{\kf10} girl{\kf10} is{\kf10} walk{\kf10}ing{\kf10} by{\kf10} me
+Dialogue: 0,0:00:37.95,0:00:38.59,DEFAULT,,0,0,0,,{\r}{\kf10}and{\kf10} I{\kf10} just{\kf10} don't{\kf10} wan{\kf10}na{\kf10} blink
+Dialogue: 0,0:00:38.66,0:00:40.06,DEFAULT,,0,0,0,,{\r}{\kf11}Cause{\kf11} she's{\kf11} here{\kf11} out{\kf11} my{\kf11} fear{\kf11}I{\kf11} just{\kf11} don't{\kf11} know{\kf11} what{\kf11} to{\kf10} say
+Dialogue: 0,0:00:40.10,0:00:40.89,DEFAULT,,0,0,0,,{\r}{\kf10}but{\kf10} then{\kf10} a{\kf10}gain{\kf10} she{\kf10} is{\kf10}n't{\kf10} real
+Dialogue: 0,0:00:40.97,0:00:41.61,DEFAULT,,0,0,0,,{\r}{\kf10}but{\kf10} I{\kf10} just{\kf10} can't{\kf10} look{\kf10} a{\kf10}way
+Dialogue: 0,0:00:42.06,0:00:44.97,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} I{\kf14} can't{\kf21} fath{\kf14}om{\kf14} the{\kf14} thought{\kf35}~{\kf14} cause{\kf21} she's{\kf14} the{\kf21} per{\kf21}fect{\kf46} girl
+Dialogue: 0,0:00:45.09,0:00:48.03,DEFAULT,,0,0,0,,{\r}{\kf13}Right{\kf20} now{\kf13} I{\kf33} can{\kf13}not{\kf13} mis{\kf20}take{\kf20}~{\kf20} she{\kf13} real{\kf13}ly{\kf26} rocks{\kf33} my{\kf45} world
+Dialogue: 0,0:00:48.11,0:00:51.06,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf24} how{\kf12} am{\kf24} I{\kf12} an{\kf12}y{\kf36} dif'{\kf18}rent{\kf18} from{\kf12} the{\kf18} ten{\kf18} mil{\kf18}lion{\kf30} guys{\kf25}~
+Dialogue: 0,0:00:51.28,0:00:54.53,DEFAULT,,0,0,0,,{\r}{\kf12}Feel{\kf12}ing{\kf24} all{\kf24} the{\kf12} same{\kf18} when{\kf18} they{\kf24} all{\kf12} look{\kf18} in{\kf24} her{\kf60} eyes{\kf67}~
+Dialogue: 0,0:00:55.40,0:00:57.56,DEFAULT,,0,0,0,,{\r}{\kf38}Twi{\kf63}light{\kf13} why{\kf13} can't{\kf13} you{\kf32} meet{\kf43} me?
+Dialogue: 0,0:00:57.86,0:01:00.88,DEFAULT,,0,0,0,,{\r}{\kf12}Why{\kf12} can't{\kf12} you{\kf47} see{\kf47} be{\kf12}yond{\kf12}~{\kf30} the{\kf30} light{\kf24}ed{\kf30} stage?{\kf34}~
+Dialogue: 0,0:01:01.45,0:01:03.53,DEFAULT,,0,0,0,,{\r}{\kf39}Twi{\kf52}light{\kf13} girl{\kf13} please{\kf13} be{\kf39}lieve{\kf39} me
+Dialogue: 0,0:01:03.83,0:01:06.25,DEFAULT,,0,0,0,,{\r}{\kf12}Be{\kf17}cause{\kf12} to{\kf52}night{\kf35} I'm{\kf23} feel{\kf29}in'{\kf40} lone{\kf22}ly
+Dialogue: 0,0:01:06.47,0:01:08.17,DEFAULT,,0,0,0,,{\r}{\kf10}Gon{\kf10}na{\kf10} break{\kf10} you{\kf19} out{\kf10} of{\kf10} your{\kf24} cage{\kf67}~
+Dialogue: 0,0:01:19.74,0:01:22.08,DEFAULT,,0,0,0,,{\r}{\kf30}Crossed{\kf12} paths{\kf12} with{\kf12} the{\kf48} girl{\kf42} of{\kf24} my{\kf24}~{\kf30} dreams
+Dialogue: 0,0:01:22.76,0:01:25.37,DEFAULT,,0,0,0,,{\r}{\kf28}Life{\kf11} since{\kf23} not{\kf17} as{\kf40} eas{\kf51}y{\kf17} as{\kf28}~{\kf23} it{\kf23} seems
+Dialogue: 0,0:01:25.78,0:01:27.93,DEFAULT,,0,0,0,,{\r}{\kf34}Broke{\kf20} down{\kf13} the{\kf13} fourth{\kf34} wall{\kf40} to{\kf47} see{\kf14} you
+Dialogue: 0,0:01:28.05,0:01:30.84,DEFAULT,,0,0,0,,{\r}{\kf14}Just{\kf14} the{\kf20} thought{\kf20} of{\kf14} you{\kf34} here{\kf48} though{\kf14} too{\kf14} good{\kf14} to{\kf14} be{\kf27} true{\kf33}~
+Dialogue: 0,0:01:31.56,0:01:32.81,DEFAULT,,0,0,0,,{\r}{\kf12}But{\kf12} nev{\kf12}er{\kf12} e{\kf12}ven{\kf12} thought{\kf12} that{\kf12} I'd{\kf12} see{\kf17} you
+Dialogue: 0,0:01:32.88,0:01:34.28,DEFAULT,,0,0,0,,{\r}{\kf12}Got{\kf12} too{\kf12} man{\kf12}y{\kf12} ques{\kf12}tions{\kf12} how{\kf12} are{\kf12} you{\kf12} e{\kf12}ven{\kf10} true?
+Dialogue: 0,0:01:34.40,0:01:35.83,DEFAULT,,0,0,0,,{\r}{\kf11}Twen{\kf11}ty{\kf16} four{\kf11} sev{\kf11}en{\kf11} al{\kf11}ways{\kf11} show{\kf11}ered{\kf11} with{\kf11} at{\kf11}ten{\kf10}tion
+Dialogue: 0,0:01:35.87,0:01:37.30,DEFAULT,,0,0,0,,{\r}{\kf12}Did{\kf12} I{\kf12} men{\kf12}tion{\kf12} you're{\kf12} an{\kf12} in{\kf12}ter{\kf12}net{\kf12} sen{\kf17}sa{\kf10}tion?
+Dialogue: 0,0:01:37.61,0:01:40.37,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} I{\kf13} can't{\kf20} fath{\kf13}om{\kf13} the{\kf20} thought{\kf34}~{\kf20} cause{\kf20} she's{\kf13} the{\kf20} per{\kf20}fect{\kf30} girl
+Dialogue: 0,0:01:40.59,0:01:43.54,DEFAULT,,0,0,0,,{\r}{\kf21}Right{\kf21} now{\kf14} I{\kf28} can{\kf14}not{\kf14} mis{\kf21}take{\kf21} she{\kf14} real{\kf14}ly{\kf28} rocks{\kf35} my{\kf50} world
+Dialogue: 0,0:01:43.65,0:01:46.45,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf19} how{\kf12} am{\kf19} I{\kf12} an{\kf19}y{\kf37} dif'{\kf19}rent{\kf19} from{\kf12} the{\kf19} ten{\kf19} mil{\kf19}lion{\kf19} guys{\kf17}~
+Dialogue: 0,0:01:46.83,0:01:50.00,DEFAULT,,0,0,0,,{\r}{\kf11}Feel{\kf11}ing{\kf21} all{\kf21} the{\kf11} same{\kf27}~{\kf16} when{\kf16} they{\kf21} all{\kf11} look{\kf16} in{\kf21} her{\kf64} eyes{\kf50}~
+Dialogue: 0,0:01:50.87,0:01:53.25,DEFAULT,,0,0,0,,{\r}{\kf37}Twi{\kf63}light{\kf16} why{\kf11} can't{\kf11} you{\kf37} meet{\kf63} me?
+Dialogue: 0,0:01:53.33,0:01:56.39,DEFAULT,,0,0,0,,{\r}{\kf17}Why{\kf11} can't{\kf11} you{\kf40} see{\kf51} be{\kf17}yond{\kf11}~{\kf34} the{\kf28} light{\kf23}ed{\kf28} stage?{\kf35}~
+Dialogue: 0,0:01:56.91,0:01:59.03,DEFAULT,,0,0,0,,{\r}{\kf39}Twi{\kf51}light{\kf19} girl{\kf13} please{\kf13} be{\kf39}lieve{\kf38} me
+Dialogue: 0,0:01:59.33,0:02:01.68,DEFAULT,,0,0,0,,{\r}{\kf12}Be{\kf12}cause{\kf12} to{\kf54}night{\kf36} I'm{\kf24} feel{\kf30}in'{\kf36} lone{\kf18}ly
+Dialogue: 0,0:02:01.94,0:02:05.76,DEFAULT,,0,0,0,,{\r}{\kf10}Gon{\kf10}na{\kf10} break{\kf10} you{\kf13} out{\kf10} of{\kf10} your{\kf25} cage{\kf246}~{\kf25}~{\kf13}~
+Dialogue: 0,0:02:15.24,0:02:17.89,DEFAULT,,0,0,0,,{\r}{\kf12}Lis{\kf24}ten{\kf12} to{\kf42} my{\kf12} words{\kf24}~{\kf18} 'fore{\kf12} I{\kf12} for{\kf30}get{\kf42} a{\kf24}gain
+Dialogue: 0,0:02:18.26,0:02:20.87,DEFAULT,,0,0,0,,{\r}{\kf19}Prom{\kf13}ised{\kf13} you{\kf38} my{\kf13} love{\kf38}~{\kf13} that{\kf13} this{\kf13} would{\kf19} nev{\kf19}er{\kf25}~{\kf25} end
+Dialogue: 0,0:02:21.29,0:02:23.33,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf22} your{\kf29} du{\kf15}ties{\kf15} have{\kf15} tak{\kf29}~{\kf15}en{\kf22} you{\kf27} girl
+Dialogue: 0,0:02:23.36,0:02:26.84,DEFAULT,,0,0,0,,{\r}{\kf21}I'll{\kf21} send{\kf14}~{\kf36} you{\kf14} all{\kf14} my{\kf21} feel{\kf14}ings{\kf21} through{\kf43} this{\kf14} song{\kf14} wait{\kf14} for{\kf21} you{\kf21} 'round{\kf14} the{\kf31} bend
+Dialogue: 0,0:02:27.22,0:02:29.86,DEFAULT,,0,0,0,,{\r}{\kf12}Lis{\kf23}ten{\kf18} to{\kf41} my{\kf12} words{\kf23}~{\kf18} 'fore{\kf12} I{\kf12} for{\kf29}get{\kf41} a{\kf23}gain
+Dialogue: 0,0:02:30.24,0:02:32.85,DEFAULT,,0,0,0,,{\r}{\kf20}Prom{\kf13}ised{\kf13} you{\kf39} my{\kf26} love{\kf26}~{\kf13} that{\kf13} this{\kf13} would{\kf20} nev{\kf39}er{\kf26} end
+Dialogue: 0,0:02:33.26,0:02:35.45,DEFAULT,,0,0,0,,{\r}{\kf13}But{\kf20} your{\kf27} du{\kf20}ties{\kf13} have{\kf46} tak{\kf13}en{\kf20} you{\kf27} girl{\kf20} I'll
+Dialogue: 0,0:02:35.72,0:02:38.86,DEFAULT,,0,0,0,,{\r}{\kf20}Send{\kf14}~{\kf34} you{\kf14} all{\kf14} my{\kf20} feel{\kf14}ings{\kf20} through{\kf41} this{\kf14} song{\kf14} wait{\kf14}for{\kf20} you{\kf20} 'round{\kf14} the{\kf27} bend
+Dialogue: 0,0:02:39.23,0:02:41.76,DEFAULT,,0,0,0,,{\r}{\kf13}Lis{\kf13}ten{\kf20} to{\kf40} my{\kf13} words{\kf27}~{\kf20} 'fore{\kf13} I{\kf13} for{\kf27}get{\kf40} a{\kf14}gain
+Dialogue: 0,0:02:42.26,0:02:44.86,DEFAULT,,0,0,0,,{\r}{\kf18}Prom{\kf12}ised{\kf18} you{\kf36} my{\kf24} love{\kf24}~{\kf12} that{\kf12} this{\kf12} would{\kf18} nev{\kf42}er{\kf33} end
+Dialogue: 0,0:02:45.24,0:02:47.62,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf19} your{\kf26} du{\kf13}ties{\kf13} have{\kf45} tak{\kf13}en{\kf26} you{\kf26} girl{\kf38} I'll
+Dialogue: 0,0:02:47.73,0:02:49.85,DEFAULT,,0,0,0,,{\r}{\kf24}Send{\kf12}~{\kf30} you{\kf18} all{\kf12} my{\kf18} feel{\kf12}ings{\kf18} through{\kf36} this{\kf18} song{\kf14} wait
+Dialogue: 0,0:02:49.96,0:02:51.51,DEFAULT,,0,0,0,,{\r}{\kf10}for{\kf14} you{\kf14} 'round{\kf14} the{\kf103} bend
+Dialogue: 0,0:03:04.55,0:03:07.50,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} I{\kf13} can't{\kf20} fath{\kf20}om{\kf13} the{\kf13} thought{\kf34}~{\kf13} cause{\kf20} she's{\kf13} the{\kf20} per{\kf20}fect{\kf56} girl
+Dialogue: 0,0:03:07.61,0:03:10.56,DEFAULT,,0,0,0,,{\r}{\kf18}Right{\kf12} now{\kf18} I{\kf18} can{\kf12}not{\kf12} mis{\kf35}take{\kf24} she{\kf24} real{\kf18}ly{\kf29} rocks{\kf29} my{\kf46} world
+Dialogue: 0,0:03:10.63,0:03:13.54,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf19} how{\kf12} am{\kf19} I{\kf12} an{\kf19}y{\kf43} dif'{\kf12}rent{\kf19} from{\kf12} the{\kf19} ten{\kf25} mil{\kf12}lion{\kf12} guys{\kf37}~
+Dialogue: 0,0:03:13.81,0:03:17.02,DEFAULT,,0,0,0,,{\r}{\kf11}Feel{\kf16}ing{\kf21} all{\kf21} the{\kf11} same{\kf26}~{\kf16} when{\kf21} they{\kf21} all{\kf16} look{\kf16} in{\kf16} her{\kf58} eyes{\kf51}~
+Dialogue: 0,0:03:17.85,0:03:20.08,DEFAULT,,0,0,0,,{\r}{\kf38}Twi{\kf60}light{\kf11} why{\kf16} can't{\kf11} you{\kf38} meet{\kf49} me?
+Dialogue: 0,0:03:20.34,0:03:23.40,DEFAULT,,0,0,0,,{\r}{\kf17}Why{\kf17} can't{\kf11} you{\kf39} see{\kf50} be{\kf17}yond{\kf11}~{\kf28} the{\kf28} light{\kf22}ed{\kf33} stage?{\kf33}~
+Dialogue: 0,0:03:23.93,0:03:26.05,DEFAULT,,0,0,0,,{\r}{\kf33}Twi{\kf67}light{\kf17} girl{\kf11} please{\kf11} be{\kf33}lieve{\kf40} me
+Dialogue: 0,0:03:26.31,0:03:28.81,DEFAULT,,0,0,0,,{\r}{\kf12}Be{\kf17}cause{\kf12} to{\kf52}night{\kf41} I'm{\kf23} feel{\kf17}in'{\kf29} lone{\kf46}ly
+Dialogue: 0,0:03:29.86,0:03:32.09,DEFAULT,,0,0,0,,{\r}{\kf37}Twi{\kf64}light{\kf21} why{\kf11} can't{\kf11} you{\kf32} meet{\kf47} me?
+Dialogue: 0,0:03:32.32,0:03:35.42,DEFAULT,,0,0,0,,{\r}{\kf11}At{\kf17} least{\kf11} you{\kf39} saw{\kf56} be{\kf23}yond{\kf11}~{\kf28} the{\kf28} light{\kf23}ed{\kf23} stage{\kf40}~
+Dialogue: 0,0:03:35.95,0:03:38.06,DEFAULT,,0,0,0,,{\r}{\kf33}Twi{\kf61}light{\kf11} girl{\kf11} please{\kf11} be{\kf45}lieve{\kf40} me
+Dialogue: 0,0:03:38.33,0:03:40.82,DEFAULT,,0,0,0,,{\r}{\kf12}Be{\kf12}cause{\kf12} to{\kf58}night{\kf41} I'm{\kf23} feel{\kf29}in'{\kf35} lone{\kf27}ly
+Dialogue: 0,0:03:40.97,0:03:44.64,DEFAULT,,0,0,0,,{\r}{\kf10}Gon{\kf10}na{\kf13} break{\kf10} you{\kf13} out{\kf10} of{\kf10} your{\kf25} cage{\kf266}~

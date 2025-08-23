@@ -1,52 +1,59 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Even More Awesome Than Me
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by lily
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:24.07,0:00:28.61,DEFAULT,,0,0,0,,{\kf2453}Scoot{\kf2419}a{\kf2430}~{\kf2468}loo,{\kf2430} why{\kf2415} so{\kf2427}-o{\kf2445} cold{\kf2415} a{\kf2445}-and{\kf2445} blue?
-Dialogue: 0,0:00:29.32,0:00:31.76,DEFAULT,,0,0,0,,{\kf2423}You{\kf2415} kno{\kf2419}-ow{\kf2419} you're{\kf2419} awe{\kf2427}-e{\kf2449}-some,{\kf2464} too
-Dialogue: 0,0:00:32.13,0:00:35.02,DEFAULT,,0,0,0,,{\kf2419}You're{\kf2419} e{\kf2434}ven{\kf2419} mo{\kf2475}-ore{\kf2427} awe{\kf2423}some{\kf2419} than{\kf2453} me
-Dialogue: 0,0:00:35.92,0:00:40.68,DEFAULT,,0,0,0,,{\kf2419}So{\kf2449} ra{\kf2415}di{\kf2438}-i{\kf2453}cal,{\kf2419} cou{\kf2423}rag{\kf2419}eous{\kf2423} and{\kf2449} ma{\kf2415}gi{\kf2434}-i{\kf2460}cal
-Dialogue: 0,0:00:41.06,0:00:43.72,DEFAULT,,0,0,0,,{\kf2419}You{\kf2423} coul{\kf2427}dn't{\kf2427} be{\kf2423} mo{\kf2430}-ore{\kf2445} faith{\kf2460}ful
-Dialogue: 0,0:00:44.39,0:00:47.06,DEFAULT,,0,0,0,,{\kf2419}Than{\kf2438} what{\kf2415} I{\kf2472}-I've{\kf2423} al{\kf2415}rea{\kf2427}dy{\kf2460} seen
-Dialogue: 0,0:00:47.92,0:00:49.91,DEFAULT,,0,0,0,,{\kf2415}If{\kf2427} some{\kf2427}po{\kf2419}ny{\kf2415} cli{\kf2419}-ips{\kf2423} your{\kf2457} wings
-Dialogue: 0,0:00:50.28,0:00:52.98,DEFAULT,,0,0,0,,{\kf2419}With{\kf2438} their{\kf2445} words{\kf2438} they{\kf2419} leave{\kf2423} a{\kf2468} sting
-Dialogue: 0,0:00:53.88,0:00:55.91,DEFAULT,,0,0,0,,{\kf2419}I{\kf2415} wa{\kf2423}-ant{\kf2419} them{\kf2423} a{\kf2427}-all{\kf2419} to{\kf2457} know
-Dialogue: 0,0:00:56.13,0:00:58.94,DEFAULT,,0,0,0,,{\kf2427}That{\kf2457} they'll{\kf2449} ans{\kf2438}wer{\kf2457} to{\kf2445} me
-Dialogue: 0,0:00:59.88,0:01:02.28,DEFAULT,,0,0,0,,{\kf2419}'Cause{\kf2415} the{\kf2427}-ey{\kf2434} all{\kf2419} kno{\kf2423}-ow{\kf2419} I'm{\kf2423} awe{\kf2430}~{\kf2438}some
-Dialogue: 0,0:01:02.54,0:01:04.72,DEFAULT,,0,0,0,,{\kf2430}Awe{\kf2423}some{\kf2419} a{\kf2434}-as{\kf2442} can{\kf2457} be
-Dialogue: 0,0:01:05.84,0:01:09.14,DEFAULT,,0,0,0,,{\kf2423}But{\kf2449} you're{\kf2442} e{\kf2434}ven{\kf2419} mo{\kf2423}-ore{\kf2430} awe{\kf2423}some{\kf2427} than{\kf2457} me
-Dialogue: 0,0:01:11.88,0:01:16.76,DEFAULT,,0,0,0,,{\kf2423}It{\kf2457} may{\kf2419} be{\kf2434}-e{\kf2453} cool,{\kf2419} when{\kf2419} the{\kf2423} sky{\kf2419} is{\kf2423} your{\kf2453} swim{\kf2457}ming{\kf2464} pool
-Dialogue: 0,0:01:17.13,0:01:19.64,DEFAULT,,0,0,0,,{\kf2419}But{\kf2423} who{\kf2423} needs{\kf2423} a{\kf2423} fly{\kf2427}~{\kf2430}ing{\kf2464} school?
-Dialogue: 0,0:01:20.32,0:01:22.83,DEFAULT,,0,0,0,,{\kf2419}You've{\kf2434} got{\kf2415} me{\kf2460}-e{\kf2419} to{\kf2434} help{\kf2449} out
-Dialogue: 0,0:01:23.84,0:01:28.61,DEFAULT,,0,0,0,,{\kf2423}Your{\kf2415} cu{\kf2442}-ut{\kf2415}ie{\kf2445}~{\kf2464} mark,{\kf2423} I{\kf2419} bet{\kf2419} it{\kf2453} fills{\kf2453} your{\kf2445} heart
-Dialogue: 0,0:01:29.13,0:01:31.42,DEFAULT,,0,0,0,,{\kf2415}But{\kf2427} makes{\kf2419} you{\kf2427} feel{\kf2423} to{\kf2423}-orn{\kf2419} a{\kf2464}part
-Dialogue: 0,0:01:32.32,0:01:34.94,DEFAULT,,0,0,0,,{\kf2423}Well,{\kf2430} there's{\kf2415} no{\kf2475}-o{\kf2434} need{\kf2415} to{\kf2460} doubt
-Dialogue: 0,0:01:35.92,0:01:37.94,DEFAULT,,0,0,0,,{\kf2415}If{\kf2427} some{\kf2427}po{\kf2419}ny{\kf2415} cli{\kf2419}-ips{\kf2419} your{\kf2464} wings
-Dialogue: 0,0:01:38.28,0:01:40.98,DEFAULT,,0,0,0,,{\kf2419}With{\kf2438} their{\kf2438} words{\kf2438} they{\kf2419} leave{\kf2423} a{\kf2468} sting
-Dialogue: 0,0:01:41.88,0:01:43.91,DEFAULT,,0,0,0,,{\kf2419}I{\kf2415} wa{\kf2423}-ant{\kf2419} them{\kf2423} a{\kf2427}-all{\kf2419} to{\kf2457} know
-Dialogue: 0,0:01:44.13,0:01:46.98,DEFAULT,,0,0,0,,{\kf2427}That{\kf2457} they'll{\kf2453} ans{\kf2434}wer{\kf2453} to{\kf2449} me
-Dialogue: 0,0:01:47.92,0:01:50.28,DEFAULT,,0,0,0,,{\kf2419}'Cause{\kf2415} the{\kf2427}-ey{\kf2434} all{\kf2419} kno{\kf2423}-ow{\kf2419} I'm{\kf2423} awe{\kf2430}~{\kf2438}some
-Dialogue: 0,0:01:50.54,0:01:52.72,DEFAULT,,0,0,0,,{\kf2430}Awe{\kf2423}some{\kf2419} a{\kf2434}-as{\kf2442} can{\kf2457} be
-Dialogue: 0,0:01:53.84,0:01:57.14,DEFAULT,,0,0,0,,{\kf2423}But{\kf2453} you're{\kf2442} e{\kf2438}ven{\kf2419} mo{\kf2423}-ore{\kf2434} awe{\kf2423}some{\kf2427} than{\kf2457} me
-Dialogue: 0,0:02:00.07,0:02:04.64,DEFAULT,,0,0,0,,{\kf2457}Way{\kf2415} u{\kf2438}-up{\kf2457} high,{\kf2419} there's{\kf2423} so{\kf2423} much{\kf2423} to{\kf2445} keep{\kf2449} in{\kf2453} sight
-Dialogue: 0,0:02:05.13,0:02:07.49,DEFAULT,,0,0,0,,{\kf2419}The{\kf2423} won{\kf2415}de{\kf2415}-ers{\kf2423} a{\kf2419}wa{\kf2434}-ait{\kf2427} your{\kf2472} eyes
-Dialogue: 0,0:02:08.51,0:02:11.13,DEFAULT,,0,0,0,,{\kf2419}But{\kf2419} you{\kf2415} sta{\kf2464}-art{\kf2419} from{\kf2434} down{\kf2475} here
-Dialogue: 0,0:02:11.84,0:02:16.72,DEFAULT,,0,0,0,,{\kf2423}When{\kf2453} I{\kf2415} wa{\kf2445}-as{\kf2460} small,{\kf2419} I{\kf2415} wa{\kf2419}-as{\kf2419} a{\kf2460}fraid{\kf2415} to{\kf2434}~{\kf2460} fall
-Dialogue: 0,0:02:17.32,0:02:19.53,DEFAULT,,0,0,0,,{\kf2423}I{\kf2415} sti{\kf2419}-ill{\kf2419} de{\kf2423}ny{\kf2427}~{\kf2423} it{\kf2472} all
-Dialogue: 0,0:02:20.54,0:02:23.13,DEFAULT,,0,0,0,,{\kf2415}But{\kf2423} I{\kf2483} blew{\kf2430} past{\kf2419} the{\kf2483} fear
-Dialogue: 0,0:02:23.84,0:02:29.73,DEFAULT,,0,0,0,,{\kf2423}So,{\kf2415} dry{\kf2442}~{\kf2415} a{\kf2427}-all{\kf2438} your{\kf2419} te{\kf2820}-ears
-Dialogue: 0,0:02:31.42,0:02:33.44,DEFAULT,,0,0,0,,{\kf2415}If{\kf2427} some{\kf2427}po{\kf2419}ny{\kf2415} cli{\kf2419}-ips{\kf2423} your{\kf2460} wings
-Dialogue: 0,0:02:33.78,0:02:36.44,DEFAULT,,0,0,0,,{\kf2419}With{\kf2438} their{\kf2445} words{\kf2438} they{\kf2419} leave{\kf2423} a{\kf2464} sting
-Dialogue: 0,0:02:37.38,0:02:39.41,DEFAULT,,0,0,0,,{\kf2419}I{\kf2415} wa{\kf2423}-ant{\kf2419} them{\kf2423} a{\kf2427}-all{\kf2419} to{\kf2457} know
-Dialogue: 0,0:02:39.63,0:02:42.52,DEFAULT,,0,0,0,,{\kf2427}That{\kf2457} they'll{\kf2453} ans{\kf2434}wer{\kf2457} to{\kf2453} me
-Dialogue: 0,0:02:43.42,0:02:45.78,DEFAULT,,0,0,0,,{\kf2419}'Cause{\kf2415} the{\kf2427}-ey{\kf2434} all{\kf2419} kno{\kf2423}-ow{\kf2419} I'm{\kf2423} awe{\kf2430}~{\kf2438}some
-Dialogue: 0,0:02:46.04,0:02:48.22,DEFAULT,,0,0,0,,{\kf2430}Awe{\kf2423}some{\kf2419} a{\kf2430}-as{\kf2442} can{\kf2457} be
-Dialogue: 0,0:02:49.34,0:02:52.68,DEFAULT,,0,0,0,,{\kf2423}But{\kf2449} you're{\kf2442} e{\kf2438}ven{\kf2419} mo{\kf2423}-ore{\kf2434} awe{\kf2423}some{\kf2427} than{\kf2460} me
-Dialogue: 0,0:02:55.38,0:02:58.87,DEFAULT,,0,0,0,,{\kf2419}But{\kf2453} you're{\kf2438} e{\kf2438}ven{\kf2434} more{\kf2415} awe{\kf2427}~{\kf2419}some{\kf2423} than{\kf2472} me
+Dialogue: 0,0:00:24.07,0:00:28.61,DEFAULT,,0,0,0,,{\r}{\kf66}Scoot{\kf17}a{\kf33}~{\kf89}loo,{\kf33} why{\kf11} so{\kf28}-o{\kf55} cold{\kf11} a{\kf55}-and{\kf56} blue?
+Dialogue: 0,0:00:29.32,0:00:31.76,DEFAULT,,0,0,0,,{\r}{\kf21}You{\kf11} kno{\kf16}-ow{\kf16} you're{\kf16} awe{\kf27}-e{\kf58}-some,{\kf79} too
+Dialogue: 0,0:00:32.14,0:00:35.02,DEFAULT,,0,0,0,,{\r}{\kf15}You're{\kf15} e{\kf35}ven{\kf15} mo{\kf90}-ore{\kf25} awe{\kf20}some{\kf15} than{\kf59} me
+Dialogue: 0,0:00:35.92,0:00:40.69,DEFAULT,,0,0,0,,{\r}{\kf17}So{\kf62} ra{\kf11}di{\kf45}-i{\kf68}cal,{\kf17} cou{\kf23}rag{\kf17}eous{\kf23} and{\kf62} ma{\kf11}gi{\kf40}-i{\kf80}cal
+Dialogue: 0,0:00:41.06,0:00:43.72,DEFAULT,,0,0,0,,{\r}{\kf16}You{\kf21} coul{\kf26}dn't{\kf26} be{\kf21} mo{\kf31}-ore{\kf52} faith{\kf73}ful
+Dialogue: 0,0:00:44.40,0:00:47.06,DEFAULT,,0,0,0,,{\r}{\kf15}Than{\kf39} what{\kf10} I{\kf82}-I've{\kf19} al{\kf10}rea{\kf24}dy{\kf67} seen
+Dialogue: 0,0:00:47.92,0:00:49.91,DEFAULT,,0,0,0,,{\r}{\kf11}If{\kf27} some{\kf27}po{\kf16}ny{\kf11} cli{\kf16}-ips{\kf22} your{\kf69} wings
+Dialogue: 0,0:00:50.29,0:00:52.99,DEFAULT,,0,0,0,,{\r}{\kf16}With{\kf42} their{\kf52} words{\kf42} they{\kf16} leave{\kf21} a{\kf81} sting
+Dialogue: 0,0:00:53.89,0:00:55.91,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf11} wa{\kf22}-ant{\kf16} them{\kf22} a{\kf27}-all{\kf16} to{\kf72} know
+Dialogue: 0,0:00:56.14,0:00:58.95,DEFAULT,,0,0,0,,{\r}{\kf23}That{\kf61} they'll{\kf52} ans{\kf37}wer{\kf61} to{\kf47} me
+Dialogue: 0,0:00:59.89,0:01:02.29,DEFAULT,,0,0,0,,{\r}{\kf16}'Cause{\kf11} the{\kf27}-ey{\kf37} all{\kf16} kno{\kf21}-ow{\kf16} I'm{\kf21} awe{\kf32}~{\kf43}some
+Dialogue: 0,0:01:02.55,0:01:04.72,DEFAULT,,0,0,0,,{\r}{\kf31}Awe{\kf21}some{\kf16} a{\kf36}-as{\kf46} can{\kf67} be
+Dialogue: 0,0:01:05.85,0:01:09.15,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf55} you're{\kf45} e{\kf35}ven{\kf15} mo{\kf20}-ore{\kf30} awe{\kf20}some{\kf25} than{\kf65} me
+Dialogue: 0,0:01:11.89,0:01:16.76,DEFAULT,,0,0,0,,{\r}{\kf20}It{\kf66} may{\kf15} be{\kf36}-e{\kf61} cool,{\kf15} when{\kf15} the{\kf20} sky{\kf15} is{\kf20} your{\kf61} swim{\kf66}ming{\kf78} pool
+Dialogue: 0,0:01:17.14,0:01:19.65,DEFAULT,,0,0,0,,{\r}{\kf17}But{\kf22} who{\kf22} needs{\kf22} a{\kf22} fly{\kf28}~{\kf33}ing{\kf85} school?
+Dialogue: 0,0:01:20.32,0:01:22.84,DEFAULT,,0,0,0,,{\r}{\kf16}You've{\kf37} got{\kf11} me{\kf75}-e{\kf16} to{\kf37} help{\kf59} out
+Dialogue: 0,0:01:23.85,0:01:28.61,DEFAULT,,0,0,0,,{\r}{\kf22}Your{\kf11} cu{\kf50}-ut{\kf11}ie{\kf55}~{\kf83} mark,{\kf22} I{\kf17} bet{\kf17} it{\kf66} fills{\kf66} your{\kf56} heart
+Dialogue: 0,0:01:29.14,0:01:31.42,DEFAULT,,0,0,0,,{\r}{\kf11}But{\kf28} makes{\kf17} you{\kf28} feel{\kf22} to{\kf22}-orn{\kf17} a{\kf84}part
+Dialogue: 0,0:01:32.32,0:01:34.95,DEFAULT,,0,0,0,,{\r}{\kf20}Well,{\kf30} there's{\kf10} no{\kf89}-o{\kf35} need{\kf10} to{\kf68} doubt
+Dialogue: 0,0:01:35.92,0:01:37.95,DEFAULT,,0,0,0,,{\r}{\kf11}If{\kf27} some{\kf27}po{\kf16}ny{\kf11} cli{\kf16}-ips{\kf16} your{\kf79} wings
+Dialogue: 0,0:01:38.29,0:01:40.99,DEFAULT,,0,0,0,,{\r}{\kf16}With{\kf43} their{\kf43} words{\kf43} they{\kf16} leave{\kf22} a{\kf87} sting
+Dialogue: 0,0:01:41.89,0:01:43.91,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf11} wa{\kf22}-ant{\kf16} them{\kf22} a{\kf27}-all{\kf16} to{\kf72} know
+Dialogue: 0,0:01:44.14,0:01:46.99,DEFAULT,,0,0,0,,{\r}{\kf24}That{\kf62} they'll{\kf57} ans{\kf33}wer{\kf57} to{\kf52} me
+Dialogue: 0,0:01:47.92,0:01:50.29,DEFAULT,,0,0,0,,{\r}{\kf16}'Cause{\kf10} the{\kf26}-ey{\kf37} all{\kf16} kno{\kf21}-ow{\kf16} I'm{\kf21} awe{\kf31}~{\kf42}some
+Dialogue: 0,0:01:50.55,0:01:52.72,DEFAULT,,0,0,0,,{\r}{\kf31}Awe{\kf21}some{\kf16} a{\kf36}-as{\kf46} can{\kf67} be
+Dialogue: 0,0:01:53.85,0:01:57.15,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf57} you're{\kf43} e{\kf38}ven{\kf14} mo{\kf19}-ore{\kf33} awe{\kf19}some{\kf24} than{\kf64} me
+Dialogue: 0,0:02:00.07,0:02:04.65,DEFAULT,,0,0,0,,{\r}{\kf71}Way{\kf11} u{\kf44}-up{\kf71} high,{\kf16} there's{\kf22} so{\kf22} much{\kf22} to{\kf55} keep{\kf60} in{\kf64} sight
+Dialogue: 0,0:02:05.14,0:02:07.50,DEFAULT,,0,0,0,,{\r}{\kf15}The{\kf20} won{\kf10}de{\kf10}-ers{\kf20} a{\kf15}wa{\kf35}-ait{\kf25} your{\kf86} eyes
+Dialogue: 0,0:02:08.51,0:02:11.14,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf15} you{\kf10} sta{\kf77}-art{\kf15} from{\kf36} down{\kf94} here
+Dialogue: 0,0:02:11.85,0:02:16.72,DEFAULT,,0,0,0,,{\r}{\kf22}When{\kf65} I{\kf11} wa{\kf54}-as{\kf76} small,{\kf16} I{\kf11} wa{\kf16}-as{\kf16} a{\kf76}fraid{\kf11} to{\kf38}~{\kf76} fall
+Dialogue: 0,0:02:17.32,0:02:19.54,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf11} sti{\kf16}-ill{\kf16} de{\kf21}ny{\kf26}~{\kf21} it{\kf89} all
+Dialogue: 0,0:02:20.55,0:02:23.14,DEFAULT,,0,0,0,,{\r}{\kf10}But{\kf19} I{\kf94} blew{\kf28} past{\kf14} the{\kf94} fear
+Dialogue: 0,0:02:23.85,0:02:29.74,DEFAULT,,0,0,0,,{\r}{\kf16}So,{\kf10} dry{\kf37}~{\kf10} a{\kf21}-all{\kf33} your{\kf12} te{\kf450}-ears
+Dialogue: 0,0:02:31.42,0:02:33.45,DEFAULT,,0,0,0,,{\r}{\kf11}If{\kf27} some{\kf27}po{\kf16}ny{\kf11} cli{\kf16}-ips{\kf21} your{\kf74} wings
+Dialogue: 0,0:02:33.79,0:02:36.45,DEFAULT,,0,0,0,,{\r}{\kf16}With{\kf42} their{\kf52} words{\kf42} they{\kf16} leave{\kf21} a{\kf77} sting
+Dialogue: 0,0:02:37.39,0:02:39.41,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf11} wa{\kf22}-ant{\kf16} them{\kf22} a{\kf27}-all{\kf16} to{\kf73} know
+Dialogue: 0,0:02:39.64,0:02:42.52,DEFAULT,,0,0,0,,{\r}{\kf23}That{\kf61} they'll{\kf56} ans{\kf33}wer{\kf61} to{\kf55} me
+Dialogue: 0,0:02:43.42,0:02:45.79,DEFAULT,,0,0,0,,{\r}{\kf16}'Cause{\kf10} the{\kf26}-ey{\kf37} all{\kf16} kno{\kf21}-ow{\kf16} I'm{\kf21} awe{\kf31}~{\kf42}some
+Dialogue: 0,0:02:46.05,0:02:48.22,DEFAULT,,0,0,0,,{\r}{\kf32}Awe{\kf21}some{\kf16} a{\kf32}-as{\kf48} can{\kf69} be
+Dialogue: 0,0:02:49.35,0:02:52.69,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf53} you're{\kf44} e{\kf39}ven{\kf15} mo{\kf19}-ore{\kf34} awe{\kf19}some{\kf24} than{\kf68} me
+Dialogue: 0,0:02:55.39,0:02:58.87,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf61} you're{\kf40} e{\kf40}ven{\kf35} more{\kf10} awe{\kf25}~{\kf15}some{\kf20} than{\kf88} me

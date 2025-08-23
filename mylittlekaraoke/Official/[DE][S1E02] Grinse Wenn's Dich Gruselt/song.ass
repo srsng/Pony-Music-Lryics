@@ -1,41 +1,48 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Grinse wenn's Dich gruselt
+Artist: Mein kleines Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:02.33,DEFAULT,,0,0,0,,{\kf69}Oh-hoho,{\kf62} Mädels!{\kf21} Seht{\kf11} Ihr{\kf21} das{\kf31} nicht?
-Dialogue: 0,0:00:02.92,0:00:04.67,DEFAULT,,0,0,0,,{\kf25}Als{\kf28} Foh{\kf14}len{\kf21} war{\kf21} ich{\kf28} ängst{\kf14}lich
-Dialogue: 0,0:00:04.71,0:00:08.18,DEFAULT,,0,0,0,,{\kf28}Stän{\kf21}dig{\kf25} war{\kf18} mir{\kf25} Angst{\kf28} und{\kf73} Ba{\kf14}-a{\kf18}-a{\kf76}-ang
-Dialogue: 0,0:00:08.39,0:00:09.22,DEFAULT,,0,0,0,,{\kf21}Sag'{\kf21} dass{\kf18} sie's{\kf11} nicht{\kf7} tut...
-Dialogue: 0,0:00:09.22,0:00:10.97,DEFAULT,,0,0,0,,{\kf21}Wenn's{\kf25} dun{\kf21}kel{\kf28} wur{\kf14}de{\kf18} a{\kf21}bends
-Dialogue: 0,0:00:11.07,0:00:14.62,DEFAULT,,0,0,0,,{\kf25}Und{\kf14} die{\kf28} Schat{\kf21}ten{\kf21} wur{\kf21}den{\kf69} la{\kf11}-a{\kf25}-a{\kf97}-ang
-Dialogue: 0,0:00:14.69,0:00:15.41,DEFAULT,,0,0,0,,{\kf25}Doch,{\kf21} sie{\kf28} tut's...
-Dialogue: 0,0:00:15.48,0:00:17.27,DEFAULT,,0,0,0,,{\kf18}Ich{\kf25} grub{\kf21} mich{\kf21} in{\kf31} mein{\kf21} Kis{\kf28}sen,
-Dialogue: 0,0:00:17.58,0:00:19.26,DEFAULT,,0,0,0,,{\kf21}Da{\kf21}mit{\kf18} ich{\kf25} nichts{\kf31} mehr{\kf42} sah
-Dialogue: 0,0:00:19.67,0:00:21.67,DEFAULT,,0,0,0,,{\kf21}Doch{\kf25} O{\kf14}ma{\kf38} sprach:{\kf21} "Zum{\kf25} Fürch{\kf14}ten{\kf28} ist
-Dialogue: 0,0:00:21.77,0:00:23.91,DEFAULT,,0,0,0,,{\kf21}Nun{\kf18} wir{\kf14}klich{\kf28} kein{\kf35} Grund{\kf83} da"
-Dialogue: 0,0:00:23.91,0:00:24.59,DEFAULT,,0,0,0,,{\kf25}Doch{\kf14} was{\kf25} dann?
-Dialogue: 0,0:00:24.63,0:00:27.48,DEFAULT,,0,0,0,,{\kf14}Sie{\kf28} sprach:{\kf38} "Pin{\kf38}kie,{\kf11} be{\kf21}zwing'{\kf14} doch{\kf21} dei{\kf21}ne{\kf42} Furcht,
-Dialogue: 0,0:00:27.72,0:00:29.24,DEFAULT,,0,0,0,,{\kf21}Denn{\kf28} sonst{\kf25} lernst{\kf21} Du's{\kf28} nie{\kf18}-e
-Dialogue: 0,0:00:29.27,0:00:30.72,DEFAULT,,0,0,0,,{\kf42}Stell'{\kf31} Dich{\kf18} den{\kf14} Äng{\kf18}sten
-Dialogue: 0,0:00:30.79,0:00:34.12,DEFAULT,,0,0,0,,{\kf14}Lach'{\kf14} sie{\kf21} laut{\kf25} aus{\kf14} und{\kf28} schon{\kf14} ver{\kf25}schwin{\kf21}den{\kf124} sie!"
-Dialogue: 0,0:00:34.54,0:00:35.91,DEFAULT,,0,0,0,,{\kf45}Ha!{\kf49} Ha!{\kf35} Ha!
-Dialogue: 0,0:00:38.39,0:00:41.38,DEFAULT,,0,0,0,,{\kf93}Drum{\kf35} grin{\kf21}se{\kf21} wenn's{\kf14} Dich{\kf25} gru{\kf62}selt
-Dialogue: 0,0:00:41.52,0:00:43.38,DEFAULT,,0,0,0,,{\kf28}Wenn{\kf28} was{\kf28} um{\kf14} Dich{\kf28} wu{\kf56}selt
-Dialogue: 0,0:00:43.62,0:00:45.44,DEFAULT,,0,0,0,,{\kf21}Krass{\kf18} er{\kf28}klingt{\kf14} Dein{\kf28} Lac{\kf52}hen
-Dialogue: 0,0:00:45.79,0:00:47.78,DEFAULT,,0,0,0,,{\kf21}Lass'{\kf14} es{\kf28} rich{\kf14}tig{\kf35} krac{\kf49}he{\kf14}-e{\kf14}-en
-Dialogue: 0,0:00:47.82,0:00:49.64,DEFAULT,,0,0,0,,{\kf25}Bis,{\kf25} wenn{\kf28} Du{\kf11} be{\kf35}droht{\kf49} wirst
-Dialogue: 0,0:00:49.88,0:00:51.74,DEFAULT,,0,0,0,,{\kf25}Du{\kf21} vor{\kf21} Lac{\kf14}hen{\kf35} rot{\kf52} wirst
-Dialogue: 0,0:00:51.77,0:00:52.91,DEFAULT,,0,0,0,,{\kf14}Und{\kf18} sag'{\kf14} dem{\kf18} gruse{\kf11}li{\kf14}gen{\kf11} Dum{\kf11}mie
-Dialogue: 0,0:00:52.91,0:00:54.32,DEFAULT,,0,0,0,,{\kf11}Er{\kf18} soll{\kf14} sich{\kf11} ver{\kf14}drüc{\kf11}ken{\kf11} und{\kf11} Dich{\kf11} in{\kf11} Ru{\kf7}he{\kf7} las{\kf11}sen
-Dialogue: 0,0:00:54.32,0:00:55.38,DEFAULT,,0,0,0,,{\kf14}Und{\kf11} wenn{\kf11} er{\kf7} Dir{\kf14} wei{\kf7}ter{\kf14} Angst{\kf14} mac{\kf7}hen{\kf11} will
-Dialogue: 0,0:00:55.38,0:00:56.21,DEFAULT,,0,0,0,,{\kf14}Dann{\kf14} kann{\kf11} er{\kf14} was{\kf11} er{\kf11}le{\kf11}ben
-Dialogue: 0,0:00:56.21,0:00:57.38,DEFAULT,,0,0,0,,{\kf18}Und{\kf11} al{\kf18}lein{\kf11} der{\kf14} Ge{\kf14}dan{\kf14}ke{\kf7} da{\kf14}ran
-Dialogue: 0,0:00:57.38,0:00:58.14,DEFAULT,,0,0,0,,{\kf21}Bringt{\kf11} einen{\kf21} schon{\kf21} zum
-Dialogue: 0,0:01:00.68,0:01:06.05,DEFAULT,,0,0,0,,{\kf455}Lac{\kf52}hen!
+Dialogue: 0,0:00:00.00,0:00:02.34,DEFAULT,,0,0,0,,{\r}{\kf75}Oh-hoho,{\kf68} Mädels!{\kf23} Seht{\kf11} Ihr{\kf23} das{\kf34} nicht?
+Dialogue: 0,0:00:02.92,0:00:04.68,DEFAULT,,0,0,0,,{\r}{\kf28}Als{\kf33} Foh{\kf16}len{\kf24} war{\kf24} ich{\kf33} ängst{\kf17}lich
+Dialogue: 0,0:00:04.71,0:00:08.19,DEFAULT,,0,0,0,,{\r}{\kf30}Stän{\kf22}dig{\kf26} war{\kf19} mir{\kf26} Angst{\kf30} und{\kf78} Ba{\kf15}-a{\kf19}-a{\kf82}-ang
+Dialogue: 0,0:00:08.39,0:00:09.22,DEFAULT,,0,0,0,,{\r}{\kf23}Sag'{\kf23} dass{\kf19} sie's{\kf11} nicht{\kf10} tut...
+Dialogue: 0,0:00:09.22,0:00:10.97,DEFAULT,,0,0,0,,{\r}{\kf25}Wenn's{\kf29} dun{\kf25}kel{\kf33} wur{\kf17}de{\kf21} a{\kf25}bends
+Dialogue: 0,0:00:11.08,0:00:14.62,DEFAULT,,0,0,0,,{\r}{\kf26}Und{\kf15} die{\kf30} Schat{\kf22}ten{\kf22} wur{\kf22}den{\kf75} la{\kf11}-a{\kf26}-a{\kf105}-ang
+Dialogue: 0,0:00:14.69,0:00:15.41,DEFAULT,,0,0,0,,{\r}{\kf24}Doch,{\kf21} sie{\kf27} tut's...
+Dialogue: 0,0:00:15.48,0:00:17.27,DEFAULT,,0,0,0,,{\r}{\kf19}Ich{\kf27} grub{\kf23} mich{\kf23} in{\kf34} mein{\kf23} Kis{\kf30}sen,
+Dialogue: 0,0:00:17.58,0:00:19.27,DEFAULT,,0,0,0,,{\r}{\kf23}Da{\kf23}mit{\kf19} ich{\kf26} nichts{\kf34} mehr{\kf44} sah
+Dialogue: 0,0:00:19.68,0:00:21.67,DEFAULT,,0,0,0,,{\r}{\kf23}Doch{\kf26} O{\kf15}ma{\kf42} sprach:{\kf23} "Zum{\kf26} Fürch{\kf15}ten{\kf30} ist
+Dialogue: 0,0:00:21.78,0:00:23.91,DEFAULT,,0,0,0,,{\r}{\kf22}Nun{\kf19} wir{\kf15}klich{\kf30} kein{\kf37} Grund{\kf90} da"
+Dialogue: 0,0:00:23.91,0:00:24.60,DEFAULT,,0,0,0,,{\r}{\kf27}Doch{\kf15} was{\kf27} dann?
+Dialogue: 0,0:00:24.63,0:00:27.49,DEFAULT,,0,0,0,,{\r}{\kf16}Sie{\kf32} sprach:{\kf44} "Pin{\kf44}kie,{\kf12} be{\kf24}zwing'{\kf16} doch{\kf24} dei{\kf24}ne{\kf50} Furcht,
+Dialogue: 0,0:00:27.73,0:00:29.24,DEFAULT,,0,0,0,,{\r}{\kf23}Denn{\kf30} sonst{\kf26} lernst{\kf23} Du's{\kf30} nie{\kf19}-e
+Dialogue: 0,0:00:29.28,0:00:30.72,DEFAULT,,0,0,0,,{\r}{\kf49}Stell'{\kf37} Dich{\kf21} den{\kf16} Äng{\kf21}sten
+Dialogue: 0,0:00:30.79,0:00:34.13,DEFAULT,,0,0,0,,{\r}{\kf16}Lach'{\kf16} sie{\kf23} laut{\kf27} aus{\kf16} und{\kf31} schon{\kf16} ver{\kf27}schwin{\kf23}den{\kf139} sie!"
+Dialogue: 0,0:00:34.54,0:00:35.92,DEFAULT,,0,0,0,,{\r}{\kf48}Ha!{\kf52} Ha!{\kf38} Ha!
+Dialogue: 0,0:00:38.39,0:00:41.39,DEFAULT,,0,0,0,,{\r}{\kf104}Drum{\kf38} grin{\kf23}se{\kf23} wenn's{\kf15} Dich{\kf27} gru{\kf69}selt
+Dialogue: 0,0:00:41.53,0:00:43.38,DEFAULT,,0,0,0,,{\r}{\kf29}Wenn{\kf29} was{\kf29} um{\kf14} Dich{\kf29} wu{\kf56}selt
+Dialogue: 0,0:00:43.62,0:00:45.45,DEFAULT,,0,0,0,,{\r}{\kf24}Krass{\kf20} er{\kf32}klingt{\kf16} Dein{\kf32} Lac{\kf58}hen
+Dialogue: 0,0:00:45.79,0:00:47.79,DEFAULT,,0,0,0,,{\r}{\kf22}Lass'{\kf15} es{\kf30} rich{\kf15}tig{\kf37} krac{\kf52}he{\kf15}-e{\kf14}-en
+Dialogue: 0,0:00:47.82,0:00:49.64,DEFAULT,,0,0,0,,{\r}{\kf26}Bis,{\kf26} wenn{\kf30} Du{\kf11} be{\kf37}droht{\kf52} wirst
+Dialogue: 0,0:00:49.89,0:00:51.74,DEFAULT,,0,0,0,,{\r}{\kf27}Du{\kf23} vor{\kf23} Lac{\kf16}hen{\kf39} rot{\kf58} wirst
+Dialogue: 0,0:00:51.78,0:00:52.91,DEFAULT,,0,0,0,,{\r}{\kf15}Und{\kf18} sag'{\kf15} dem{\kf18} gruse{\kf11}li{\kf15}gen{\kf11} Dum{\kf11}mie
+Dialogue: 0,0:00:52.91,0:00:54.32,DEFAULT,,0,0,0,,{\r}{\kf10}Er{\kf17} soll{\kf14} sich{\kf10} ver{\kf14}drüc{\kf10}ken{\kf10} und{\kf10} Dich{\kf10} in{\kf10} Ru{\kf10}he{\kf10} las{\kf10}sen
+Dialogue: 0,0:00:54.32,0:00:55.39,DEFAULT,,0,0,0,,{\r}{\kf14}Und{\kf10} wenn{\kf10} er{\kf10} Dir{\kf14} wei{\kf10}ter{\kf14} Angst{\kf14} mac{\kf10}hen{\kf10} will
+Dialogue: 0,0:00:55.39,0:00:56.22,DEFAULT,,0,0,0,,{\r}{\kf14}Dann{\kf14} kann{\kf10} er{\kf14} was{\kf10} er{\kf10}le{\kf11}ben
+Dialogue: 0,0:00:56.22,0:00:57.39,DEFAULT,,0,0,0,,{\r}{\kf17}Und{\kf10} al{\kf17}lein{\kf10} der{\kf14} Ge{\kf14}dan{\kf14}ke{\kf10} da{\kf11}ran
+Dialogue: 0,0:00:57.39,0:00:58.14,DEFAULT,,0,0,0,,{\r}{\kf22}Bringt{\kf11} einen{\kf22} schon{\kf21} zum
+Dialogue: 0,0:01:00.69,0:01:06.06,DEFAULT,,0,0,0,,{\r}{\kf482}Lac{\kf55}hen!

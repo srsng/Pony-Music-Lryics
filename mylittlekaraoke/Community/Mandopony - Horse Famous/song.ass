@@ -1,86 +1,93 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Horse Famous
+Artist: MandoPony
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:29.60,0:00:31.39,DEFAULT,,0,0,0,,{\kf22}Fel{\kf18}las{\kf15} there's{\kf18} no{\kf25} rea{\kf15}son{\kf8} to{\kf8} be{\kf15} jea{\kf11}lous
-Dialogue: 0,0:00:31.49,0:00:32.60,DEFAULT,,0,0,0,,{\kf11}O{\kf15}ver{\kf11}zea{\kf11}lous{\kf11} are{\kf11} the{\kf33} fans
-Dialogue: 0,0:00:32.85,0:00:33.96,DEFAULT,,0,0,0,,{\kf15}Oh{\kf11} they{\kf11} tell{\kf15} us{\kf11} how{\kf11} they{\kf8} love{\kf8} us
-Dialogue: 0,0:00:33.99,0:00:35.17,DEFAULT,,0,0,0,,{\kf15}Wave{\kf11} their{\kf22} hands{\kf11} in{\kf11} the{\kf29} stands
-Dialogue: 0,0:00:35.28,0:00:35.99,DEFAULT,,0,0,0,,{\kf18}(Oops!{\kf15} Their{\kf22} hooves...)
-Dialogue: 0,0:00:36.28,0:00:36.74,DEFAULT,,0,0,0,,{\kf11}Clip{\kf11}pi{\kf8}ty{\kf15} clop
-Dialogue: 0,0:00:36.85,0:00:37.96,DEFAULT,,0,0,0,,{\kf18}And{\kf18} don't{\kf15} stop{\kf11} with{\kf11} the{\kf11} trot{\kf8}tin'
-Dialogue: 0,0:00:38.03,0:00:39.64,DEFAULT,,0,0,0,,{\kf11}Once{\kf11} you{\kf11} get{\kf11} a{\kf18} roc{\kf11}kin'{\kf18} Tick{\kf22} Tock
-Dialogue: 0,0:00:39.78,0:00:41.39,DEFAULT,,0,0,0,,{\kf15}Get{\kf8}tin'{\kf15} late{\kf11} at{\kf11} the{\kf15} bro{\kf11}ny{\kf15} con{\kf18}ven{\kf15}tion
-Dialogue: 0,0:00:41.46,0:00:43.71,DEFAULT,,0,0,0,,{\kf15}I{\kf15} step{\kf15} up,{\kf18} it's{\kf15} time{\kf15} for{\kf11} a{\kf15} dra{\kf11}ma{\kf11} in{\kf11}ter{\kf15}ven{\kf11}tion
-Dialogue: 0,0:00:43.78,0:00:45.96,DEFAULT,,0,0,0,,{\kf8}It's{\kf15} me{\kf11} and{\kf18} P{\kf18}T,{\kf15} stir{\kf11}rin'{\kf11} up{\kf15} some{\kf40} shiz
-Dialogue: 0,0:00:46.28,0:00:48.46,DEFAULT,,0,0,0,,{\kf11}Show{\kf11} the{\kf15} pho{\kf15}ny{\kf15} bro{\kf11}ny{\kf15} po{\kf11}nies{\kf11} who{\kf11} the{\kf11} wi{\kf11}zard{\kf15} real{\kf11}ly{\kf18} is
-Dialogue: 0,0:00:48.67,0:00:50.39,DEFAULT,,0,0,0,,{\kf15}I{\kf11} cast{\kf11} a{\kf18} spell{\kf15} over{\kf11} the{\kf11} en{\kf18}tire{\kf29} room
-Dialogue: 0,0:00:50.53,0:00:52.78,DEFAULT,,0,0,0,,{\kf18}Tri{\kf15}xie{\kf22} Lu{\kf22}la{\kf15}moon's{\kf15} gon{\kf11}na{\kf22} swoon{\kf15} at{\kf11} this{\kf15} buf{\kf22}foon
-Dialogue: 0,0:00:52.85,0:00:55.07,DEFAULT,,0,0,0,,{\kf15}Yeah{\kf22} all{\kf15} the{\kf15} pe{\kf15}ga{\kf11}sis{\kf11}ters{\kf15} love{\kf11} to{\kf11} lis{\kf15}ten{\kf11} to{\kf11} me{\kf18} sing
-Dialogue: 0,0:00:55.28,0:00:56.24,DEFAULT,,0,0,0,,{\kf15}Oh,{\kf15} it's{\kf18} got{\kf11}ta{\kf22} hurt
-Dialogue: 0,0:00:56.39,0:00:57.60,DEFAULT,,0,0,0,,{\kf22}Oh,{\kf18} it's{\kf15} got{\kf15}ta{\kf29} sting
-Dialogue: 0,0:00:57.96,0:00:59.82,DEFAULT,,0,0,0,,{\kf25}Spot{\kf22}light{\kf18} so{\kf18} bright{\kf18} it's{\kf22} blin{\kf18}ding
-Dialogue: 0,0:00:59.99,0:01:02.07,DEFAULT,,0,0,0,,{\kf25}Quite{\kf25} right,{\kf25} this{\kf29} fame{\kf22} I'm{\kf29} fin{\kf11}ding
-Dialogue: 0,0:01:02.14,0:01:03.17,DEFAULT,,0,0,0,,{\kf11}You{\kf18} don't{\kf15} need{\kf18} re{\kf22}min{\kf11}ding
-Dialogue: 0,0:01:03.21,0:01:04.28,DEFAULT,,0,0,0,,{\kf18}I'm{\kf15} king{\kf11} of{\kf15} the{\kf36} nerds
-Dialogue: 0,0:01:04.42,0:01:05.89,DEFAULT,,0,0,0,,{\kf15}I'm{\kf11} at{\kf11} the{\kf18} tip{\kf25} top,{\kf22} hip{\kf22} hop
-Dialogue: 0,0:01:05.96,0:01:06.89,DEFAULT,,0,0,0,,{\kf15}Lea{\kf15}der{\kf11} of{\kf11} the{\kf33} herd
-Dialogue: 0,0:01:07.42,0:01:11.96,DEFAULT,,0,0,0,,{\kf40}How{\kf22} did{\kf29} I{\kf29} be{\kf50}come{\kf47} so{\kf50} Horse{\kf29} Fa{\kf25}mous
-Dialogue: 0,0:01:12.24,0:01:15.85,DEFAULT,,0,0,0,,{\kf22}How{\kf29} did{\kf29} this{\kf25} hap{\kf22}pen{\kf22} to{\kf33} me{\kf97}~?
-Dialogue: 0,0:01:16.57,0:01:21.14,DEFAULT,,0,0,0,,{\kf43}How{\kf22} did{\kf22} I{\kf25} be{\kf40}come{\kf43} so{\kf50} Horse{\kf33} Fa{\kf29}mous
-Dialogue: 0,0:01:21.42,0:01:25.17,DEFAULT,,0,0,0,,{\kf25}By{\kf29} watch{\kf22}ing{\kf50} My{\kf29} Lit{\kf22}tle{\kf54} Po{\kf33}ny{\kf86}~?
-Dialogue: 0,0:01:28.39,0:01:29.78,DEFAULT,,0,0,0,,{\kf15}You{\kf18} see,{\kf18} it's{\kf29} ea{\kf29}sy
-Dialogue: 0,0:01:30.82,0:01:32.14,DEFAULT,,0,0,0,,{\kf22}Any{\kf18}bo{\kf18}dy{\kf18} can{\kf11} do-{\kf22} oh
-Dialogue: 0,0:01:32.46,0:01:34.03,DEFAULT,,0,0,0,,{\kf18}A{\kf22}ny{\kf29}po{\kf25}ny{\kf15} can{\kf15} do{\kf18} it
-Dialogue: 0,0:01:44.82,0:01:46.53,DEFAULT,,0,0,0,,{\kf25}I{\kf25} guess{\kf18} I'm{\kf25} just{\kf15} a{\kf25} man{\kf22}child
-Dialogue: 0,0:01:46.64,0:01:48.24,DEFAULT,,0,0,0,,{\kf18}Gone{\kf18} wild{\kf15} for{\kf8} a{\kf15} show{\kf11} a{\kf18}bout{\kf25} toys
-Dialogue: 0,0:01:48.42,0:01:50.49,DEFAULT,,0,0,0,,{\kf11}But{\kf11} I{\kf15} had{\kf11} no{\kf15} i{\kf11}dea{\kf8} it{\kf15} was{\kf11}n't{\kf11} meant{\kf15} for{\kf11} lit{\kf15}tle{\kf18} boys
-Dialogue: 0,0:01:50.60,0:01:52.74,DEFAULT,,0,0,0,,{\kf11}So{\kf11} I{\kf15} made{\kf8} a{\kf11} cou{\kf11}ple{\kf18} songs,{\kf15} put{\kf11} 'em{\kf11} on{\kf22} You{\kf18}Tube
-Dialogue: 0,0:01:53.07,0:01:54.39,DEFAULT,,0,0,0,,{\kf18}Dude!{\kf11} I{\kf11} hope{\kf11} I{\kf15} don't{\kf15} get{\kf25} sued!
-Dialogue: 0,0:01:54.57,0:01:56.74,DEFAULT,,0,0,0,,{\kf22}Man,{\kf15} e{\kf15}very{\kf15}po{\kf11}ny{\kf11} got{\kf15}ta{\kf18} stir{\kf18} up{\kf15} some{\kf22} dra{\kf11}ma
-Dialogue: 0,0:01:56.85,0:01:57.89,DEFAULT,,0,0,0,,{\kf11}Wish{\kf11} the{\kf15} fan{\kf11}dom{\kf15} was{\kf18} cal{\kf11}mer
-Dialogue: 0,0:01:57.96,0:01:59.03,DEFAULT,,0,0,0,,{\kf15}Got{\kf15}ta{\kf11} put{\kf15} on{\kf22} ar{\kf15}mor
-Dialogue: 0,0:01:59.10,0:02:01.03,DEFAULT,,0,0,0,,{\kf15}Just{\kf11} to{\kf11} check{\kf11} the{\kf15} mes{\kf18}sa{\kf18}ges{\kf11} in{\kf15} my{\kf22} in{\kf22}box
-Dialogue: 0,0:02:01.42,0:02:04.03,DEFAULT,,0,0,0,,{\kf15}Been{\kf11} a{\kf18} full{\kf18} blown{\kf15} as{\kf18}sault{\kf18} since{\kf18} Rain{\kf18}bow{\kf25} Rocks{\kf15} was{\kf11} an{\kf18}nounced
-Dialogue: 0,0:02:04.24,0:02:06.46,DEFAULT,,0,0,0,,{\kf33}Rain{\kf18}bow,{\kf18} she{\kf18} knows{\kf15} how{\kf11} to{\kf11} rock{\kf11} it{\kf18} tho{\kf15}rough{\kf25}ly
-Dialogue: 0,0:02:06.82,0:02:08.60,DEFAULT,,0,0,0,,{\kf22}I-{\kf25}W-{\kf22}T-{\kf18}C-{\kf22}I-{\kf25}R-{\kf18}D
-Dialogue: 0,0:02:08.71,0:02:10.96,DEFAULT,,0,0,0,,{\kf11}This{\kf18} one{\kf11} time{\kf15} I{\kf11} got{\kf11} an{\kf15} au{\kf15}to{\kf15}graph{\kf11} by{\kf22} Ash{\kf15}leigh{\kf25} Ball
-Dialogue: 0,0:02:11.07,0:02:12.24,DEFAULT,,0,0,0,,{\kf22}Can't{\kf11} re{\kf11}mem{\kf11}ber{\kf15} no{\kf8}thin'{\kf8} at{\kf18} all
-Dialogue: 0,0:02:12.28,0:02:13.35,DEFAULT,,0,0,0,,{\kf15}I{\kf22} passed{\kf11} out{\kf11} in{\kf8} the{\kf22} hall
-Dialogue: 0,0:02:13.60,0:02:15.67,DEFAULT,,0,0,0,,{\kf15}Spa{\kf11}ghet{\kf11}ti{\kf11} was{\kf11} li{\kf11}te{\kf11}ral{\kf8}ly{\kf15} fal{\kf11}lin'{\kf11} out{\kf8} of{\kf11} my{\kf25} po{\kf15}ckets
-Dialogue: 0,0:02:15.74,0:02:18.42,DEFAULT,,0,0,0,,{\kf15}Al{\kf11}ber{\kf11}ghet{\kf11}ti{\kf15} was{\kf15} laugh{\kf11}in'{\kf11} so{\kf11} hard{\kf11} her{\kf18} eyes{\kf11} rolled{\kf11} out{\kf8} of{\kf15} her{\kf25} so{\kf15}ckets
-Dialogue: 0,0:02:18.46,0:02:19.28,DEFAULT,,0,0,0,,{\kf11}And{\kf11} fell{\kf8} down{\kf11} on{\kf11} the{\kf15} floor
-Dialogue: 0,0:02:19.67,0:02:22.17,DEFAULT,,0,0,0,,{\kf15}She{\kf15} con{\kf15}ti{\kf11}nues{\kf11} to{\kf15} be,{\kf11} The{\kf22} Real{\kf33} Sibsy,{\kf15} but{\kf18} can't{\kf25} see!
-Dialogue: 0,0:02:22.39,0:02:24.42,DEFAULT,,0,0,0,,{\kf11}De{\kf25} Lan{\kf22}cie,{\kf18} had{\kf15} to{\kf18} go{\kf15} and{\kf18} ruin{\kf15} it{\kf22} all
-Dialogue: 0,0:02:24.53,0:02:25.64,DEFAULT,,0,0,0,,{\kf15}Make{\kf11} a{\kf22} mo{\kf15}vie{\kf11} a{\kf15}bout{\kf11} us
-Dialogue: 0,0:02:25.74,0:02:27.74,DEFAULT,,0,0,0,,{\kf15}Make{\kf11} us{\kf18} all{\kf18} look{\kf15} good{\kf11} and{\kf15} de{\kf15}cent{\kf11} and{\kf25} kind!
-Dialogue: 0,0:02:28.03,0:02:28.96,DEFAULT,,0,0,0,,{\kf15}Was{\kf11} he{\kf11} out{\kf8} of{\kf8} his{\kf25} mind?!
-Dialogue: 0,0:02:29.17,0:02:30.92,DEFAULT,,0,0,0,,{\kf15}Now{\kf11} my{\kf22} fa{\kf11}mi{\kf11}ly{\kf18} knows{\kf11} my{\kf18} po{\kf11}wer{\kf15} le{\kf15}vel!
-Dialogue: 0,0:02:31.03,0:02:32.28,DEFAULT,,0,0,0,,{\kf11}I{\kf11} guess{\kf11} it's{\kf15} time{\kf11} to{\kf15} end{\kf11} it{\kf18} all
-Dialogue: 0,0:02:32.39,0:02:34.14,DEFAULT,,0,0,0,,{\kf15}So{\kf22} long{\kf25} horse{\kf18} bu{\kf15}ckers,{\kf11} I'm{\kf11} of{\kf11}fa{\kf11} the{\kf15} ride!
-Dialogue: 0,0:02:34.32,0:02:38.85,DEFAULT,,0,0,0,,{\kf33}How{\kf29} did{\kf29} I{\kf25} be{\kf43}come{\kf40} so{\kf50} Horse{\kf33} Fa{\kf29}mous
-Dialogue: 0,0:02:39.10,0:02:42.64,DEFAULT,,0,0,0,,{\kf25}How{\kf29} did{\kf29} this{\kf29} hap{\kf25}pen{\kf25} to{\kf33} me{\kf90}~?
-Dialogue: 0,0:02:43.42,0:02:47.99,DEFAULT,,0,0,0,,{\kf40}How{\kf25} did{\kf25} I{\kf29} be{\kf40}come{\kf36} so{\kf43} Horse{\kf29} Fa{\kf29}mous
-Dialogue: 0,0:02:48.35,0:02:51.82,DEFAULT,,0,0,0,,{\kf22}By{\kf29} watch{\kf18}ing{\kf36} My{\kf29} Lit{\kf25}tle{\kf61} Po{\kf29}ny{\kf65}~?
-Dialogue: 0,0:02:52.28,0:02:54.07,DEFAULT,,0,0,0,,{\kf22}Who{\kf29} woul{\kf22}da{\kf25} thought{\kf18} it{\kf36} could
-Dialogue: 0,0:02:54.60,0:02:56.46,DEFAULT,,0,0,0,,{\kf22}I{\kf25} ne{\kf22}ver{\kf22} knew{\kf22} it{\kf47} would
-Dialogue: 0,0:02:56.82,0:03:00.53,DEFAULT,,0,0,0,,{\kf29}Who{\kf29} woul{\kf25}da{\kf29} thought{\kf22} it{\kf29} could{\kf33} go{\kf25} so{\kf33} far{\kf50}~
-Dialogue: 0,0:03:01.46,0:03:02.96,DEFAULT,,0,0,0,,{\kf25}Please{\kf25} Mom{\kf25}ma{\kf25} tell{\kf40} me
-Dialogue: 0,0:03:03.71,0:03:05.28,DEFAULT,,0,0,0,,{\kf25}Am{\kf25} I{\kf25} a{\kf33} po{\kf40}ny?
-Dialogue: 0,0:03:05.92,0:03:09.74,DEFAULT,,0,0,0,,{\kf29}Please{\kf33} Mom{\kf25}ma{\kf25} won't{\kf25} you{\kf25} say{\kf25} that{\kf25} I{\kf29} am{\kf22} a{\kf33} star{\kf58}~?
-Dialogue: 0,0:03:13.99,0:03:15.07,DEFAULT,,0,0,0,,{\kf18}The{\kf15} truth{\kf11} of{\kf11} the{\kf11} mat{\kf11}ter{\kf15} is
-Dialogue: 0,0:03:15.14,0:03:16.28,DEFAULT,,0,0,0,,{\kf25}I'm{\kf29} no{\kf25}bo{\kf22}dy!
-Dialogue: 0,0:03:17.03,0:03:18.60,DEFAULT,,0,0,0,,{\kf11}Why{\kf8} do{\kf11} you{\kf18} peo{\kf18}ple{\kf18} lis{\kf15}ten{\kf15} to{\kf25} me!?
-Dialogue: 0,0:03:20.10,0:03:22.89,DEFAULT,,0,0,0,,{\kf11}I{\kf15} just{\kf11} made{\kf11} a{\kf15} cou{\kf15}ple{\kf33} songs{\kf15} for{\kf11} a{\kf15} freak{\kf15}ing{\kf25} po{\kf15}ny{\kf25} show
-Dialogue: 0,0:03:22.96,0:03:23.92,DEFAULT,,0,0,0,,{\kf11}What{\kf11} is{\kf22} wrong{\kf15} with{\kf22} you?
-Dialogue: 0,0:03:27.78,0:03:28.42,DEFAULT,,0,0,0,,{\kf36}Oh{\kf25} well
-Dialogue: 0,0:03:29.89,0:03:31.46,DEFAULT,,0,0,0,,{\kf11}I{\kf15} mean,{\kf11} no{\kf11}thing{\kf11} on{\kf11} the{\kf11} in{\kf11}ter{\kf11}net{\kf11} is{\kf11} sup{\kf11}posed
-Dialogue: 0,0:03:31.49,0:03:33.39,DEFAULT,,0,0,0,,{\kf11}To{\kf11} be{\kf11} ta{\kf15}ken{\kf18} se{\kf25}riou{\kf15}sly{\kf11} a{\kf11}ny{\kf15}way{\kf25} right?
-Dialogue: 0,0:03:36.28,0:03:38.42,DEFAULT,,0,0,0,,{\kf11}I{\kf18} guess{\kf25} we're{\kf22} all{\kf11} a{\kf15} lit{\kf15}tle{\kf29} Horse{\kf25} Fa{\kf18}mous
+Dialogue: 0,0:00:29.61,0:00:31.39,DEFAULT,,0,0,0,,{\r}{\kf26}Fel{\kf21}las{\kf17} there's{\kf21} no{\kf30} rea{\kf17}son{\kf10} to{\kf10} be{\kf17} jea{\kf10}lous
+Dialogue: 0,0:00:31.50,0:00:32.61,DEFAULT,,0,0,0,,{\r}{\kf12}O{\kf16}ver{\kf12}zea{\kf12}lous{\kf12} are{\kf12} the{\kf35} fans
+Dialogue: 0,0:00:32.86,0:00:33.96,DEFAULT,,0,0,0,,{\r}{\kf19}Oh{\kf14} they{\kf14} tell{\kf19} us{\kf14} how{\kf14} they{\kf10} love{\kf10} us
+Dialogue: 0,0:00:34.00,0:00:35.18,DEFAULT,,0,0,0,,{\r}{\kf17}Wave{\kf13} their{\kf26} hands{\kf13} in{\kf13} the{\kf36} stands
+Dialogue: 0,0:00:35.29,0:00:36.00,DEFAULT,,0,0,0,,{\r}{\kf24}(Oops!{\kf19} Their{\kf28} hooves...)
+Dialogue: 0,0:00:36.29,0:00:36.75,DEFAULT,,0,0,0,,{\r}{\kf12}Clip{\kf12}pi{\kf10}ty{\kf12} clop
+Dialogue: 0,0:00:36.86,0:00:37.96,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} don't{\kf18} stop{\kf13} with{\kf13} the{\kf13} trot{\kf10}tin'
+Dialogue: 0,0:00:38.04,0:00:39.64,DEFAULT,,0,0,0,,{\r}{\kf16}Once{\kf16} you{\kf16} get{\kf16} a{\kf26} roc{\kf16}kin'{\kf26} Tick{\kf29} Tock
+Dialogue: 0,0:00:39.79,0:00:41.39,DEFAULT,,0,0,0,,{\r}{\kf18}Get{\kf10}tin'{\kf18} late{\kf13} at{\kf13} the{\kf18} bro{\kf13}ny{\kf18} con{\kf22}ven{\kf18}tion
+Dialogue: 0,0:00:41.46,0:00:43.71,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf19} step{\kf19} up,{\kf23} it's{\kf19} time{\kf19} for{\kf14} a{\kf19} dra{\kf14}ma{\kf14} in{\kf14}ter{\kf19}ven{\kf13}tion
+Dialogue: 0,0:00:43.79,0:00:45.96,DEFAULT,,0,0,0,,{\r}{\kf10}It's{\kf20} me{\kf15} and{\kf25} P{\kf25}T,{\kf20} stir{\kf15}rin'{\kf15} up{\kf20} some{\kf53} shiz
+Dialogue: 0,0:00:46.29,0:00:48.46,DEFAULT,,0,0,0,,{\r}{\kf13}Show{\kf13} the{\kf17} pho{\kf17}ny{\kf17} bro{\kf13}ny{\kf17} po{\kf13}nies{\kf13} who{\kf13} the{\kf13} wi{\kf13}zard{\kf17} real{\kf13}ly{\kf16} is
+Dialogue: 0,0:00:48.68,0:00:50.39,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf14} cast{\kf14} a{\kf22} spell{\kf18} over{\kf14} the{\kf14} en{\kf22}tire{\kf35} room
+Dialogue: 0,0:00:50.54,0:00:52.79,DEFAULT,,0,0,0,,{\r}{\kf20}Tri{\kf16}xie{\kf25} Lu{\kf25}la{\kf16}moon's{\kf16} gon{\kf12}na{\kf25} swoon{\kf16} at{\kf12} this{\kf16} buf{\kf26}foon
+Dialogue: 0,0:00:52.86,0:00:55.07,DEFAULT,,0,0,0,,{\r}{\kf17}Yeah{\kf25} all{\kf17} the{\kf17} pe{\kf17}ga{\kf13}sis{\kf13}ters{\kf17} love{\kf13} to{\kf13} lis{\kf17}ten{\kf13} to{\kf13} me{\kf16} sing
+Dialogue: 0,0:00:55.29,0:00:56.25,DEFAULT,,0,0,0,,{\r}{\kf17}Oh,{\kf17} it's{\kf22} got{\kf13}ta{\kf27} hurt
+Dialogue: 0,0:00:56.39,0:00:57.61,DEFAULT,,0,0,0,,{\r}{\kf27}Oh,{\kf22} it's{\kf18} got{\kf18}ta{\kf36} sting
+Dialogue: 0,0:00:57.96,0:00:59.82,DEFAULT,,0,0,0,,{\r}{\kf33}Spot{\kf29}light{\kf24} so{\kf24} bright{\kf24} it's{\kf29} blin{\kf23}ding
+Dialogue: 0,0:00:60.00,0:01:02.07,DEFAULT,,0,0,0,,{\r}{\kf32}Quite{\kf32} right,{\kf32} this{\kf36} fame{\kf27} I'm{\kf36} fin{\kf12}ding
+Dialogue: 0,0:01:02.14,0:01:03.18,DEFAULT,,0,0,0,,{\r}{\kf12}You{\kf20} don't{\kf16} need{\kf20} re{\kf24}min{\kf12}ding
+Dialogue: 0,0:01:03.21,0:01:04.29,DEFAULT,,0,0,0,,{\r}{\kf21}I'm{\kf16} king{\kf12} of{\kf16} the{\kf42} nerds
+Dialogue: 0,0:01:04.43,0:01:05.89,DEFAULT,,0,0,0,,{\r}{\kf17}I'm{\kf13} at{\kf13} the{\kf21} tip{\kf30} top,{\kf26} hip{\kf26} hop
+Dialogue: 0,0:01:05.96,0:01:06.89,DEFAULT,,0,0,0,,{\r}{\kf16}Lea{\kf16}der{\kf12} of{\kf12} the{\kf37} herd
+Dialogue: 0,0:01:07.43,0:01:11.96,DEFAULT,,0,0,0,,{\r}{\kf56}How{\kf31} did{\kf41} I{\kf41} be{\kf71}come{\kf66} so{\kf71} Horse{\kf41} Fa{\kf36}mous
+Dialogue: 0,0:01:12.25,0:01:15.86,DEFAULT,,0,0,0,,{\r}{\kf28}How{\kf38} did{\kf38} this{\kf33} hap{\kf28}pen{\kf28} to{\kf42} me{\kf126}~?
+Dialogue: 0,0:01:16.57,0:01:21.14,DEFAULT,,0,0,0,,{\r}{\kf65}How{\kf32} did{\kf32} I{\kf38} be{\kf59}come{\kf65} so{\kf75} Horse{\kf48} Fa{\kf43}mous
+Dialogue: 0,0:01:21.43,0:01:25.18,DEFAULT,,0,0,0,,{\r}{\kf27}By{\kf31} watch{\kf23}ing{\kf54} My{\kf31} Lit{\kf23}tle{\kf58} Po{\kf35}ny{\kf93}~?
+Dialogue: 0,0:01:28.39,0:01:29.79,DEFAULT,,0,0,0,,{\r}{\kf19}You{\kf23} see,{\kf23} it's{\kf37} ea{\kf37}sy
+Dialogue: 0,0:01:30.82,0:01:32.14,DEFAULT,,0,0,0,,{\r}{\kf26}Any{\kf22}bo{\kf22}dy{\kf22} can{\kf13} do-{\kf27} oh
+Dialogue: 0,0:01:32.46,0:01:34.04,DEFAULT,,0,0,0,,{\r}{\kf20}A{\kf24}ny{\kf32}po{\kf28}ny{\kf16} can{\kf16} do{\kf21} it
+Dialogue: 0,0:01:44.82,0:01:46.54,DEFAULT,,0,0,0,,{\r}{\kf28}I{\kf28} guess{\kf20} I'm{\kf28} just{\kf16} a{\kf28} man{\kf23}child
+Dialogue: 0,0:01:46.64,0:01:48.25,DEFAULT,,0,0,0,,{\r}{\kf23}Gone{\kf23} wild{\kf18} for{\kf10} a{\kf18} show{\kf14} a{\kf23}bout{\kf32} toys
+Dialogue: 0,0:01:48.43,0:01:50.50,DEFAULT,,0,0,0,,{\r}{\kf13}But{\kf13} I{\kf17} had{\kf13} no{\kf17} i{\kf13}dea{\kf10} it{\kf17} was{\kf13}n't{\kf13} meant{\kf17} for{\kf13} lit{\kf17}tle{\kf21} boys
+Dialogue: 0,0:01:50.61,0:01:52.75,DEFAULT,,0,0,0,,{\r}{\kf15}So{\kf15} I{\kf19} made{\kf10} a{\kf15} cou{\kf15}ple{\kf24} songs,{\kf19} put{\kf15} 'em{\kf15} on{\kf29} You{\kf23}Tube
+Dialogue: 0,0:01:53.07,0:01:54.39,DEFAULT,,0,0,0,,{\r}{\kf23}Dude!{\kf14} I{\kf14} hope{\kf14} I{\kf18} don't{\kf18} get{\kf31} sued!
+Dialogue: 0,0:01:54.57,0:01:56.75,DEFAULT,,0,0,0,,{\r}{\kf26}Man,{\kf17} e{\kf17}very{\kf17}po{\kf13}ny{\kf13} got{\kf17}ta{\kf21} stir{\kf21} up{\kf17} some{\kf26} dra{\kf13}ma
+Dialogue: 0,0:01:56.86,0:01:57.89,DEFAULT,,0,0,0,,{\r}{\kf12}Wish{\kf12} the{\kf17} fan{\kf12}dom{\kf17} was{\kf21} cal{\kf13}mer
+Dialogue: 0,0:01:57.96,0:01:59.04,DEFAULT,,0,0,0,,{\r}{\kf17}Got{\kf17}ta{\kf13} put{\kf17} on{\kf26} ar{\kf17}mor
+Dialogue: 0,0:01:59.11,0:02:01.04,DEFAULT,,0,0,0,,{\r}{\kf17}Just{\kf13} to{\kf13} check{\kf13} the{\kf17} mes{\kf21}sa{\kf21}ges{\kf13} in{\kf17} my{\kf25} in{\kf23}box
+Dialogue: 0,0:02:01.43,0:02:04.04,DEFAULT,,0,0,0,,{\r}{\kf17}Been{\kf13} a{\kf22} full{\kf22} blown{\kf17} as{\kf22}sault{\kf22} since{\kf22} Rain{\kf22}bow{\kf30} Rocks{\kf17} was{\kf13} an{\kf22}nounced
+Dialogue: 0,0:02:04.25,0:02:06.46,DEFAULT,,0,0,0,,{\r}{\kf38}Rain{\kf21}bow,{\kf21} she{\kf21} knows{\kf17} how{\kf13} to{\kf13} rock{\kf13} it{\kf21} tho{\kf17}rough{\kf26}ly
+Dialogue: 0,0:02:06.82,0:02:08.61,DEFAULT,,0,0,0,,{\r}{\kf26}I-{\kf30}W-{\kf26}T-{\kf21}C-{\kf26}I-{\kf30}R-{\kf20}D
+Dialogue: 0,0:02:08.71,0:02:10.96,DEFAULT,,0,0,0,,{\r}{\kf13}This{\kf21} one{\kf13} time{\kf17} I{\kf13} got{\kf13} an{\kf17} au{\kf17}to{\kf17}graph{\kf13} by{\kf25} Ash{\kf17}leigh{\kf29} Ball
+Dialogue: 0,0:02:11.07,0:02:12.25,DEFAULT,,0,0,0,,{\r}{\kf25}Can't{\kf13} re{\kf13}mem{\kf13}ber{\kf17} no{\kf10}thin'{\kf10} at{\kf17} all
+Dialogue: 0,0:02:12.29,0:02:13.36,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf27} passed{\kf13} out{\kf13} in{\kf10} the{\kf26} hall
+Dialogue: 0,0:02:13.61,0:02:15.68,DEFAULT,,0,0,0,,{\r}{\kf17}Spa{\kf12}ghet{\kf12}ti{\kf12} was{\kf12} li{\kf12}te{\kf12}ral{\kf10}ly{\kf17} fal{\kf12}lin'{\kf12} out{\kf10} of{\kf12} my{\kf29} po{\kf16}ckets
+Dialogue: 0,0:02:15.75,0:02:18.43,DEFAULT,,0,0,0,,{\r}{\kf18}Al{\kf13}ber{\kf13}ghet{\kf13}ti{\kf18} was{\kf18} laugh{\kf13}in'{\kf13} so{\kf13} hard{\kf13} her{\kf22} eyes{\kf13} rolled{\kf13} out{\kf10} of{\kf18} her{\kf31} so{\kf16}ckets
+Dialogue: 0,0:02:18.46,0:02:19.29,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf14} fell{\kf10} down{\kf14} on{\kf14} the{\kf16} floor
+Dialogue: 0,0:02:19.68,0:02:22.18,DEFAULT,,0,0,0,,{\r}{\kf18}She{\kf18} con{\kf18}ti{\kf13}nues{\kf13} to{\kf18} be,{\kf13} The{\kf27} Real{\kf40} Sibsy,{\kf18} but{\kf22} can't{\kf32} see!
+Dialogue: 0,0:02:22.39,0:02:24.43,DEFAULT,,0,0,0,,{\r}{\kf12}De{\kf29} Lan{\kf25}cie,{\kf21} had{\kf17} to{\kf21} go{\kf17} and{\kf21} ruin{\kf17} it{\kf24} all
+Dialogue: 0,0:02:24.54,0:02:25.64,DEFAULT,,0,0,0,,{\r}{\kf16}Make{\kf12} a{\kf25} mo{\kf16}vie{\kf12} a{\kf16}bout{\kf14} us
+Dialogue: 0,0:02:25.75,0:02:27.75,DEFAULT,,0,0,0,,{\r}{\kf19}Make{\kf14} us{\kf24} all{\kf24} look{\kf19} good{\kf14} and{\kf19} de{\kf19}cent{\kf14} and{\kf34} kind!
+Dialogue: 0,0:02:28.04,0:02:28.96,DEFAULT,,0,0,0,,{\r}{\kf18}Was{\kf13} he{\kf13} out{\kf10} of{\kf10} his{\kf29} mind?!
+Dialogue: 0,0:02:29.18,0:02:30.93,DEFAULT,,0,0,0,,{\r}{\kf16}Now{\kf12} my{\kf24} fa{\kf12}mi{\kf12}ly{\kf20} knows{\kf12} my{\kf20} po{\kf12}wer{\kf16} le{\kf19}vel!
+Dialogue: 0,0:02:31.04,0:02:32.29,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf13} guess{\kf13} it's{\kf18} time{\kf13} to{\kf18} end{\kf13} it{\kf24} all
+Dialogue: 0,0:02:32.39,0:02:34.14,DEFAULT,,0,0,0,,{\r}{\kf17}So{\kf25} long{\kf29} horse{\kf21} bu{\kf17}ckers,{\kf12} I'm{\kf12} of{\kf12}fa{\kf12} the{\kf18} ride!
+Dialogue: 0,0:02:34.32,0:02:38.86,DEFAULT,,0,0,0,,{\r}{\kf48}How{\kf42} did{\kf42} I{\kf37} be{\kf63}come{\kf58} so{\kf74} Horse{\kf48} Fa{\kf42}mous
+Dialogue: 0,0:02:39.11,0:02:42.64,DEFAULT,,0,0,0,,{\r}{\kf31}How{\kf36} did{\kf36} this{\kf36} hap{\kf31}pen{\kf31} to{\kf40} me{\kf113}~?
+Dialogue: 0,0:02:43.43,0:02:48.00,DEFAULT,,0,0,0,,{\r}{\kf61}How{\kf39} did{\kf39} I{\kf45} be{\kf61}come{\kf56} so{\kf67} Horse{\kf45} Fa{\kf44}mous
+Dialogue: 0,0:02:48.36,0:02:51.82,DEFAULT,,0,0,0,,{\r}{\kf24}By{\kf32} watch{\kf20}ing{\kf40} My{\kf32} Lit{\kf28}tle{\kf68} Po{\kf32}ny{\kf70}~?
+Dialogue: 0,0:02:52.29,0:02:54.07,DEFAULT,,0,0,0,,{\r}{\kf26}Who{\kf34} woul{\kf26}da{\kf30} thought{\kf21} it{\kf42} could
+Dialogue: 0,0:02:54.61,0:02:56.46,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf30} ne{\kf25}ver{\kf25} knew{\kf25} it{\kf56} would
+Dialogue: 0,0:02:56.82,0:03:00.54,DEFAULT,,0,0,0,,{\r}{\kf35}Who{\kf35} woul{\kf31}da{\kf35} thought{\kf26} it{\kf35} could{\kf40} go{\kf31} so{\kf40} far{\kf63}~
+Dialogue: 0,0:03:01.46,0:03:02.96,DEFAULT,,0,0,0,,{\r}{\kf27}Please{\kf27} Mom{\kf27}ma{\kf27} tell{\kf42} me
+Dialogue: 0,0:03:03.71,0:03:05.29,DEFAULT,,0,0,0,,{\r}{\kf27}Am{\kf27} I{\kf27} a{\kf34} po{\kf42}ny?
+Dialogue: 0,0:03:05.93,0:03:09.75,DEFAULT,,0,0,0,,{\r}{\kf31}Please{\kf35} Mom{\kf27}ma{\kf27} won't{\kf27} you{\kf27} say{\kf27} that{\kf27} I{\kf31} am{\kf23} a{\kf35} star{\kf65}~?
+Dialogue: 0,0:03:14.00,0:03:15.07,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf17} truth{\kf13} of{\kf13} the{\kf13} mat{\kf13}ter{\kf17} is
+Dialogue: 0,0:03:15.14,0:03:16.29,DEFAULT,,0,0,0,,{\r}{\kf28}I'm{\kf33} no{\kf28}bo{\kf25}dy!
+Dialogue: 0,0:03:17.04,0:03:18.61,DEFAULT,,0,0,0,,{\r}{\kf12}Why{\kf10} do{\kf12} you{\kf21} peo{\kf21}ple{\kf21} lis{\kf17}ten{\kf17} to{\kf26} me!?
+Dialogue: 0,0:03:20.11,0:03:22.89,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf18} just{\kf13} made{\kf13} a{\kf18} cou{\kf18}ple{\kf40} songs{\kf18} for{\kf13} a{\kf18} freak{\kf18}ing{\kf31} po{\kf18}ny{\kf30} show
+Dialogue: 0,0:03:22.96,0:03:23.93,DEFAULT,,0,0,0,,{\r}{\kf13}What{\kf13} is{\kf26} wrong{\kf17} with{\kf27} you?
+Dialogue: 0,0:03:27.79,0:03:28.43,DEFAULT,,0,0,0,,{\r}{\kf38}Oh{\kf26} well
+Dialogue: 0,0:03:29.89,0:03:31.46,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf17} mean,{\kf13} no{\kf13}thing{\kf13} on{\kf13} the{\kf13} in{\kf13}ter{\kf13}net{\kf13} is{\kf13} sup{\kf10}posed
+Dialogue: 0,0:03:31.50,0:03:33.39,DEFAULT,,0,0,0,,{\r}{\kf12}To{\kf12} be{\kf12} ta{\kf16}ken{\kf21} se{\kf29}riou{\kf16}sly{\kf12} a{\kf12}ny{\kf16}way{\kf31} right?
+Dialogue: 0,0:03:36.29,0:03:38.43,DEFAULT,,0,0,0,,{\r}{\kf12}I{\kf21} guess{\kf29} we're{\kf25} all{\kf12} a{\kf16} lit{\kf16}tle{\kf33} Horse{\kf29} Fa{\kf21}mous

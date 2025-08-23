@@ -1,46 +1,53 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Can't Be Real (ft. Replacer)
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:59.97,0:01:01.30,DEFAULT,,0,0,0,,{\kf19}Hel{\kf31}lo,{\kf57} friends
-Dialogue: 0,0:01:02.24,0:01:05.31,DEFAULT,,0,0,0,,{\kf27}It's{\kf35} time{\kf16} for{\kf27} po{\kf23}nies{\kf23} a{\kf69}gain
-Dialogue: 0,0:01:07.24,0:01:10.08,DEFAULT,,0,0,0,,{\kf27}What{\kf27} would{\kf16} we{\kf31} do{\kf19} with{\kf27}out{\kf72} them?
-Dialogue: 0,0:01:10.88,0:01:13.72,DEFAULT,,0,0,0,,{\kf27}What{\kf27} would{\kf16} we{\kf31} do{\kf19} with{\kf27}out{\kf72} them?
-Dialogue: 0,0:01:14.55,0:01:16.68,DEFAULT,,0,0,0,,{\kf19}I{\kf23} don't{\kf42} know{\kf16}~{\kf69}~
-Dialogue: 0,0:01:17.28,0:01:20.01,DEFAULT,,0,0,0,,{\kf27}And{\kf27} I{\kf19} don't{\kf23} want{\kf16} to{\kf84} know
-Dialogue: 0,0:01:21.18,0:01:24.52,DEFAULT,,0,0,0,,{\kf16}But{\kf23} I{\kf27} guess{\kf16} that{\kf16} I'm{\kf35} gon{\kf19}na{\kf23} have{\kf65} to
-Dialogue: 0,0:01:25.24,0:01:28.42,DEFAULT,,0,0,0,,{\kf16}I{\kf23} guess{\kf16} that{\kf16} I'm{\kf35} gon{\kf19}na{\kf27} have{\kf91} to
-Dialogue: 0,0:01:30.01,0:01:34.36,DEFAULT,,0,0,0,,{\kf16}Could{\kf23} this{\kf35} be{\kf12}~{\kf19} what{\kf35} I've{\kf19} al{\kf23}ways{\kf42} want{\kf95}ed
-Dialogue: 0,0:01:37.24,0:01:41.52,DEFAULT,,0,0,0,,{\kf16}Could{\kf27} this{\kf38} be{\kf16}~{\kf16} what{\kf31} I've{\kf16} al{\kf31}ways{\kf148} feared
-Dialogue: 0,0:01:44.55,0:01:48.72,DEFAULT,,0,0,0,,{\kf16}Could{\kf23} this{\kf42} be{\kf19} why{\kf31} I{\kf50} feel{\kf54} haunt{\kf72}ed
-Dialogue: 0,0:01:49.74,0:01:51.71,DEFAULT,,0,0,0,,{\kf69}Oh{\kf12}~{\kf12}~{\kf76}~
-Dialogue: 0,0:01:52.51,0:01:56.15,DEFAULT,,0,0,0,,{\kf16}I{\kf23} know{\kf31} this{\kf31} can't{\kf27} be{\kf160} real
-Dialogue: 0,0:02:23.65,0:02:25.69,DEFAULT,,0,0,0,,{\kf16}Hel{\kf27}lo{\kf23} hor{\kf99}ses
-Dialogue: 0,0:02:26.37,0:02:29.55,DEFAULT,,0,0,0,,{\kf23}I've{\kf23} come{\kf16} to{\kf23} see{\kf23} you{\kf16} a{\kf133}gain
-Dialogue: 0,0:02:30.92,0:02:33.83,DEFAULT,,0,0,0,,{\kf35}What{\kf16} will{\kf16} I{\kf31} do{\kf16} with{\kf35}out{\kf76} you
-Dialogue: 0,0:02:34.55,0:02:37.47,DEFAULT,,0,0,0,,{\kf35}What{\kf16} will{\kf16} I{\kf31} do{\kf16} with{\kf35}out{\kf76} you
-Dialogue: 0,0:02:38.19,0:02:40.46,DEFAULT,,0,0,0,,{\kf27}What{\kf16} to{\kf46} do{\kf23}~{\kf61}~?
-Dialogue: 0,0:02:41.18,0:02:43.80,DEFAULT,,0,0,0,,{\kf16}What{\kf19} is{\kf27} left{\kf16} for{\kf16} me{\kf107} now?
-Dialogue: 0,0:02:45.27,0:02:48.49,DEFAULT,,0,0,0,,{\kf12}I{\kf27} just{\kf16} need{\kf16} a{\kf31} hap{\kf16}py{\kf27} end{\kf95}ing
-Dialogue: 0,0:02:48.91,0:02:52.66,DEFAULT,,0,0,0,,{\kf16}I{\kf27} just{\kf16} need{\kf16} a{\kf35} hap{\kf16}py{\kf27} end{\kf148}ing
-Dialogue: 0,0:02:53.68,0:02:58.99,DEFAULT,,0,0,0,,{\kf23}Could{\kf23} this{\kf50} be{\kf19} what{\kf23} I've{\kf19} al{\kf23}ways{\kf46} want{\kf186}ed
-Dialogue: 0,0:03:00.96,0:03:06.07,DEFAULT,,0,0,0,,{\kf19}Could{\kf23} this{\kf50} be{\kf19} what{\kf27} I've{\kf19} al{\kf19}ways{\kf16}~{\kf228} feared
-Dialogue: 0,0:03:08.23,0:03:13.61,DEFAULT,,0,0,0,,{\kf19}Could{\kf23} this{\kf27} be{\kf19}~{\kf19} why{\kf19} I{\kf19} feel{\kf27}~{\kf23} haunt{\kf23}~{\kf197}ed
-Dialogue: 0,0:03:14.59,0:03:15.77,DEFAULT,,0,0,0,,{\kf118}Oh
-Dialogue: 0,0:03:16.15,0:03:20.73,DEFAULT,,0,0,0,,{\kf19}I{\kf27} know{\kf27} this{\kf31} can't{\kf16} be{\kf16}~{\kf247} real
-Dialogue: 0,0:03:22.74,0:03:28.49,DEFAULT,,0,0,0,,{\kf16}Could{\kf23} this{\kf27} be{\kf23}~{\kf19} what{\kf31} I've{\kf16} al{\kf19}ways{\kf19}~{\kf50} want{\kf228}ed
-Dialogue: 0,0:03:30.01,0:03:35.05,DEFAULT,,0,0,0,,{\kf16}Could{\kf27} this{\kf31} be{\kf16}~{\kf16} what{\kf31} I've{\kf16} al{\kf19}ways{\kf16}~{\kf216} feared
-Dialogue: 0,0:03:37.28,0:03:42.47,DEFAULT,,0,0,0,,{\kf19}Could{\kf19} this{\kf50} be{\kf19} why{\kf27} I{\kf23} feel{\kf27}~{\kf19} haunt{\kf19}~{\kf175}ed
-Dialogue: 0,0:03:42.77,0:03:44.97,DEFAULT,,0,0,0,,{\kf31}Oh{\kf16}~{\kf16}~{\kf129}~
-Dialogue: 0,0:03:45.27,0:03:49.78,DEFAULT,,0,0,0,,{\kf16}I{\kf23} know{\kf27} this{\kf27} can't{\kf23} be{\kf12}~{\kf247} real
-Dialogue: 0,0:04:23.68,0:04:25.08,DEFAULT,,0,0,0,,{\kf16}Hel{\kf19}lo,{\kf72} friends
-Dialogue: 0,0:04:25.88,0:04:28.83,DEFAULT,,0,0,0,,{\kf23}It's{\kf31} time{\kf12}~{\kf19} for{\kf19} po{\kf19}nies{\kf19} a{\kf61}gain
-Dialogue: 0,0:04:30.92,0:04:33.65,DEFAULT,,0,0,0,,{\kf19}What{\kf23} would{\kf16} we{\kf35} do{\kf16} with{\kf16}out{\kf12}~{\kf69} them?
-Dialogue: 0,0:04:34.59,0:04:37.40,DEFAULT,,0,0,0,,{\kf19}What{\kf23} would{\kf16} we{\kf27} do{\kf19} with{\kf19}out{\kf27}~{\kf42} them?
+Dialogue: 0,0:00:59.98,0:01:01.30,DEFAULT,,0,0,0,,{\r}{\kf24}Hel{\kf38}lo,{\kf71} friends
+Dialogue: 0,0:01:02.25,0:01:05.32,DEFAULT,,0,0,0,,{\r}{\kf38}It's{\kf48} time{\kf22} for{\kf38} po{\kf32}nies{\kf32} a{\kf97}gain
+Dialogue: 0,0:01:07.25,0:01:10.09,DEFAULT,,0,0,0,,{\r}{\kf35}What{\kf35} would{\kf20} we{\kf40} do{\kf25} with{\kf35}out{\kf94} them?
+Dialogue: 0,0:01:10.89,0:01:13.73,DEFAULT,,0,0,0,,{\r}{\kf35}What{\kf35} would{\kf20} we{\kf40} do{\kf25} with{\kf35}out{\kf94} them?
+Dialogue: 0,0:01:14.56,0:01:16.68,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf29} don't{\kf53} know{\kf19}~{\kf87}~
+Dialogue: 0,0:01:17.29,0:01:20.01,DEFAULT,,0,0,0,,{\r}{\kf37}And{\kf37} I{\kf27} don't{\kf32} want{\kf21} to{\kf119} know
+Dialogue: 0,0:01:21.19,0:01:24.52,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf32} I{\kf38} guess{\kf21} that{\kf21} I'm{\kf48} gon{\kf27}na{\kf32} have{\kf93} to
+Dialogue: 0,0:01:25.24,0:01:28.42,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf30} guess{\kf20} that{\kf20} I'm{\kf45} gon{\kf25}na{\kf35} have{\kf123} to
+Dialogue: 0,0:01:30.01,0:01:34.37,DEFAULT,,0,0,0,,{\r}{\kf21}Could{\kf32} this{\kf47} be{\kf16}~{\kf26} what{\kf47} I've{\kf26} al{\kf32}ways{\kf58} want{\kf131}ed
+Dialogue: 0,0:01:37.25,0:01:41.53,DEFAULT,,0,0,0,,{\r}{\kf19}Could{\kf34} this{\kf49} be{\kf19}~{\kf19} what{\kf39} I've{\kf19} al{\kf39}ways{\kf191} feared
+Dialogue: 0,0:01:44.56,0:01:48.73,DEFAULT,,0,0,0,,{\r}{\kf21}Could{\kf31} this{\kf57} be{\kf26} why{\kf42} I{\kf68} feel{\kf73} haunt{\kf99}ed
+Dialogue: 0,0:01:49.75,0:01:51.72,DEFAULT,,0,0,0,,{\r}{\kf81}Oh{\kf13}~{\kf13}~{\kf90}~
+Dialogue: 0,0:01:52.51,0:01:56.15,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf29} know{\kf39} this{\kf39} can't{\kf34} be{\kf204} real
+Dialogue: 0,0:02:23.65,0:02:25.70,DEFAULT,,0,0,0,,{\r}{\kf19}Hel{\kf33}lo{\kf29} hor{\kf124}ses
+Dialogue: 0,0:02:26.38,0:02:29.56,DEFAULT,,0,0,0,,{\r}{\kf28}I've{\kf28} come{\kf19} to{\kf28} see{\kf28} you{\kf19} a{\kf168}gain
+Dialogue: 0,0:02:30.92,0:02:33.84,DEFAULT,,0,0,0,,{\r}{\kf45}What{\kf20} will{\kf20} I{\kf40} do{\kf20} with{\kf45}out{\kf102} you
+Dialogue: 0,0:02:34.56,0:02:37.48,DEFAULT,,0,0,0,,{\r}{\kf45}What{\kf20} will{\kf20} I{\kf40} do{\kf20} with{\kf45}out{\kf102} you
+Dialogue: 0,0:02:38.20,0:02:40.47,DEFAULT,,0,0,0,,{\r}{\kf35}What{\kf20} to{\kf61} do{\kf30}~{\kf81}~?
+Dialogue: 0,0:02:41.19,0:02:43.80,DEFAULT,,0,0,0,,{\r}{\kf20}What{\kf25} is{\kf35} left{\kf20} for{\kf20} me{\kf141} now?
+Dialogue: 0,0:02:45.28,0:02:48.50,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf36} just{\kf21} need{\kf21} a{\kf42} hap{\kf21}py{\kf36} end{\kf129}ing
+Dialogue: 0,0:02:48.92,0:02:52.67,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf34} just{\kf19} need{\kf19} a{\kf43} hap{\kf19}py{\kf34} end{\kf188}ing
+Dialogue: 0,0:02:53.69,0:02:58.99,DEFAULT,,0,0,0,,{\r}{\kf29}Could{\kf29} this{\kf64} be{\kf25} what{\kf29} I've{\kf25} al{\kf29}ways{\kf59} want{\kf241}ed
+Dialogue: 0,0:03:00.96,0:03:06.07,DEFAULT,,0,0,0,,{\r}{\kf23}Could{\kf28} this{\kf60} be{\kf23} what{\kf33} I've{\kf23} al{\kf23}ways{\kf19}~{\kf279} feared
+Dialogue: 0,0:03:08.23,0:03:13.61,DEFAULT,,0,0,0,,{\r}{\kf25}Could{\kf30} this{\kf35} be{\kf25}~{\kf25} why{\kf25} I{\kf25} feel{\kf35}~{\kf30} haunt{\kf30}~{\kf253}ed
+Dialogue: 0,0:03:14.60,0:03:15.77,DEFAULT,,0,0,0,,{\r}{\kf117}Oh
+Dialogue: 0,0:03:16.15,0:03:20.73,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf32} know{\kf32} this{\kf37} can't{\kf18} be{\kf18}~{\kf298} real
+Dialogue: 0,0:03:22.74,0:03:28.50,DEFAULT,,0,0,0,,{\r}{\kf19}Could{\kf28} this{\kf33} be{\kf28}~{\kf23} what{\kf37} I've{\kf19} al{\kf23}ways{\kf23}~{\kf61} want{\kf282}ed
+Dialogue: 0,0:03:30.01,0:03:35.05,DEFAULT,,0,0,0,,{\r}{\kf19}Could{\kf34} this{\kf38} be{\kf19}~{\kf19} what{\kf38} I've{\kf19} al{\kf24}ways{\kf19}~{\kf275} feared
+Dialogue: 0,0:03:37.29,0:03:42.48,DEFAULT,,0,0,0,,{\r}{\kf25}Could{\kf25} this{\kf65} be{\kf25} why{\kf35} I{\kf30} feel{\kf35}~{\kf25} haunt{\kf25}~{\kf229}ed
+Dialogue: 0,0:03:42.78,0:03:44.98,DEFAULT,,0,0,0,,{\r}{\kf35}Oh{\kf18}~{\kf18}~{\kf149}~
+Dialogue: 0,0:03:45.28,0:03:49.79,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf28} know{\kf32} this{\kf32} can't{\kf28} be{\kf14}~{\kf299} real
+Dialogue: 0,0:04:23.69,0:04:25.09,DEFAULT,,0,0,0,,{\r}{\kf20}Hel{\kf25}lo,{\kf95} friends
+Dialogue: 0,0:04:25.89,0:04:28.84,DEFAULT,,0,0,0,,{\r}{\kf33}It's{\kf45} time{\kf17}~{\kf28} for{\kf28} po{\kf28}nies{\kf28} a{\kf88}gain
+Dialogue: 0,0:04:30.92,0:04:33.65,DEFAULT,,0,0,0,,{\r}{\kf26}What{\kf31} would{\kf21} we{\kf46} do{\kf21} with{\kf21}out{\kf15}~{\kf92} them?
+Dialogue: 0,0:04:34.60,0:04:37.40,DEFAULT,,0,0,0,,{\r}{\kf28}What{\kf34} would{\kf22} we{\kf39} do{\kf28} with{\kf28}out{\kf39}~{\kf62} them?

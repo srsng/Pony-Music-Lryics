@@ -1,61 +1,68 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: New King (feat. Chi-Chi)
+Artist: Silva Hound, UndreamedPanic
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.57,0:00:04.15,DEFAULT,,0,0,0,,{\kf16}I've{\kf20} wait{\kf16}ed{\kf16} from{\kf16} be{\kf20}gin{\kf16}ning{\kf16} to{\kf20} end{\kf40}~
-Dialogue: 0,0:00:05.55,0:00:07.47,DEFAULT,,0,0,0,,{\kf20}Now{\kf16} be{\kf16}gins{\kf16} the{\kf20} re{\kf20}nais{\kf40}sance
-Dialogue: 0,0:00:09.30,0:00:11.61,DEFAULT,,0,0,0,,{\kf20}E{\kf16}ne{\kf16}mies{\kf20} are{\kf16} turn{\kf16}ing{\kf16} to{\kf24} friends{\kf32}~
-Dialogue: 0,0:00:12.86,0:00:15.09,DEFAULT,,0,0,0,,{\kf16}And{\kf16} e{\kf16}very{\kf16}bo{\kf16}dy{\kf16} sings{\kf16} a{\kf55}long
-Dialogue: 0,0:00:16.84,0:00:19.97,DEFAULT,,0,0,0,,{\kf32}No{\kf16} mat{\kf16}ter{\kf28} how{\kf20} ma{\kf16}ny{\kf16} times{\kf16} we{\kf24} fell{\kf36} down
-Dialogue: 0,0:00:20.12,0:00:23.13,DEFAULT,,0,0,0,,{\kf20}You{\kf12}~{\kf20} rise{\kf16} and{\kf32} get{\kf20} strong{\kf16}er{\kf28} each{\kf24} time{\kf40}~
-Dialogue: 0,0:00:24.07,0:00:25.55,DEFAULT,,0,0,0,,{\kf16}'Cause{\kf32} no{\kf28} mat{\kf12}ter{\kf28} what
-Dialogue: 0,0:00:25.71,0:00:28.72,DEFAULT,,0,0,0,,{\kf24}You{\kf12}~{\kf24} ne{\kf12}ver{\kf28} gave{\kf36} up{\kf28} on{\kf24} love{\kf40}~
-Dialogue: 0,0:00:29.58,0:00:32.90,DEFAULT,,0,0,0,,{\kf12}And{\kf12} it's{\kf36} un{\kf16}be{\kf43}lie{\kf20}~{\kf16}va{\kf86}ble{\kf28}~
-Dialogue: 0,0:00:33.05,0:00:34.34,DEFAULT,,0,0,0,,{\kf16}How{\kf12} you{\kf36} made{\kf16} the{\kf16} change
-Dialogue: 0,0:00:34.46,0:00:36.84,DEFAULT,,0,0,0,,{\kf12}And{\kf16} showed{\kf16} me{\kf16} a{\kf32} world{\kf16} of{\kf24} new{\kf12}~{\kf28} things
-Dialogue: 0,0:00:37.00,0:00:40.40,DEFAULT,,0,0,0,,{\kf16}And{\kf16} it's{\kf36} in{\kf16}con{\kf43}cei{\kf16}~{\kf20}va{\kf83}ble{\kf36}~
-Dialogue: 0,0:00:40.55,0:00:42.00,DEFAULT,,0,0,0,,{\kf12}How{\kf20} you{\kf28} caught{\kf24} my{\kf28} heart
-Dialogue: 0,0:00:42.16,0:00:44.38,DEFAULT,,0,0,0,,{\kf16}How{\kf16} you{\kf16} be{\kf32}came{\kf20} my{\kf20} new{\kf12}~{\kf36} king
-Dialogue: 0,0:00:44.54,0:00:47.86,DEFAULT,,0,0,0,,{\kf12}And{\kf12} it's{\kf36} un{\kf16}be{\kf43}lie{\kf20}~{\kf16}va{\kf86}ble{\kf28}~
-Dialogue: 0,0:00:48.02,0:00:49.30,DEFAULT,,0,0,0,,{\kf16}How{\kf12} you{\kf36} made{\kf16} the{\kf16} change
-Dialogue: 0,0:00:49.42,0:00:51.80,DEFAULT,,0,0,0,,{\kf12}And{\kf16} showed{\kf16} me{\kf16} a{\kf32} world{\kf16} of{\kf24} new{\kf12}~{\kf28} things
-Dialogue: 0,0:00:51.96,0:00:55.36,DEFAULT,,0,0,0,,{\kf16}And{\kf16} it's{\kf36} in{\kf16}con{\kf43}cei{\kf16}~{\kf20}va{\kf83}ble{\kf36}~
-Dialogue: 0,0:01:29.54,0:01:32.86,DEFAULT,,0,0,0,,{\kf12}And{\kf12} it's{\kf36} un{\kf16}be{\kf55}lie{\kf16}va{\kf86}ble{\kf28}~
-Dialogue: 0,0:01:33.02,0:01:34.30,DEFAULT,,0,0,0,,{\kf16}How{\kf12} you{\kf36} made{\kf16} the{\kf16} change
-Dialogue: 0,0:01:34.42,0:01:36.80,DEFAULT,,0,0,0,,{\kf12}And{\kf16} showed{\kf16} me{\kf16} a{\kf32} world{\kf16} of{\kf24} new{\kf12}~{\kf28} things
-Dialogue: 0,0:01:36.96,0:01:40.36,DEFAULT,,0,0,0,,{\kf16}And{\kf16} it's{\kf36} in{\kf16}con{\kf43}cei{\kf12}~{\kf20}va{\kf83}ble{\kf36}~
-Dialogue: 0,0:01:40.52,0:01:41.96,DEFAULT,,0,0,0,,{\kf12}How{\kf20} you{\kf28} caught{\kf24} my{\kf28} heart
-Dialogue: 0,0:01:42.12,0:01:44.34,DEFAULT,,0,0,0,,{\kf16}How{\kf16} you{\kf16} be{\kf32}came{\kf20} my{\kf20} new{\kf12}~{\kf36} king
-Dialogue: 0,0:01:46.57,0:01:49.03,DEFAULT,,0,0,0,,{\kf16}The{\kf24} ma{\kf16}lice{\kf16} is{\kf20} be{\kf20}gin{\kf16}ning{\kf20} to{\kf20} end{\kf28}~
-Dialogue: 0,0:01:50.28,0:01:52.43,DEFAULT,,0,0,0,,{\kf20}Our{\kf20} trou{\kf16}bled{\kf20} past{\kf16} is{\kf20} al{\kf16}most{\kf43} gone
-Dialogue: 0,0:01:54.11,0:01:56.53,DEFAULT,,0,0,0,,{\kf12}The{\kf20} sha{\kf16}dows{\kf20} all{\kf20} a{\kf16}round{\kf16} us{\kf16} cont{\kf24}end{\kf28}~
-Dialogue: 0,0:01:57.86,0:02:00.01,DEFAULT,,0,0,0,,{\kf16}But{\kf20} we{\kf16} con{\kf20}ti{\kf16}nue{\kf20} pres{\kf16}sing{\kf51} on
-Dialogue: 0,0:02:01.84,0:02:05.01,DEFAULT,,0,0,0,,{\kf32}No{\kf20} mat{\kf20}ter{\kf36} how{\kf16} ma{\kf16}ny{\kf20} king{\kf16}doms{\kf36} break{\kf36} down
-Dialogue: 0,0:02:05.16,0:02:08.09,DEFAULT,,0,0,0,,{\kf16}We{\kf12}~{\kf16} rise{\kf16} and{\kf32} get{\kf16} stron{\kf20}ger{\kf32} each{\kf20} time{\kf36}~
-Dialogue: 0,0:02:09.07,0:02:10.63,DEFAULT,,0,0,0,,{\kf20}'Cause{\kf32} no{\kf16} mat{\kf16}ter{\kf36} what
-Dialogue: 0,0:02:10.83,0:02:13.76,DEFAULT,,0,0,0,,{\kf16}We{\kf12}~{\kf16} ne{\kf16}ver{\kf32} gave{\kf32} up{\kf32} on{\kf20} love{\kf43}~
-Dialogue: 0,0:02:14.54,0:02:17.86,DEFAULT,,0,0,0,,{\kf12}And{\kf12} it's{\kf36} un{\kf16}be{\kf36}lie{\kf16}~{\kf16}va{\kf86}ble{\kf28}~
-Dialogue: 0,0:02:18.02,0:02:19.30,DEFAULT,,0,0,0,,{\kf16}How{\kf12} you{\kf36} made{\kf16} the{\kf16} change
-Dialogue: 0,0:02:19.46,0:02:21.80,DEFAULT,,0,0,0,,{\kf12}And{\kf16} showed{\kf16} me{\kf12} a{\kf24} world{\kf12} of{\kf20} new{\kf12}~{\kf24} things
-Dialogue: 0,0:02:21.96,0:02:25.32,DEFAULT,,0,0,0,,{\kf16}And{\kf16} it's{\kf36} in{\kf16}con{\kf36}cei{\kf16}~{\kf16}va{\kf79}ble{\kf28}~
-Dialogue: 0,0:02:25.55,0:02:27.00,DEFAULT,,0,0,0,,{\kf12}How{\kf20} you{\kf28} caught{\kf20} my{\kf28} heart
-Dialogue: 0,0:02:27.16,0:02:29.38,DEFAULT,,0,0,0,,{\kf16}How{\kf16} you{\kf16} be{\kf28}came{\kf20} my{\kf20} new{\kf16}~{\kf32} king
-Dialogue: 0,0:02:29.58,0:02:32.86,DEFAULT,,0,0,0,,{\kf12}And{\kf12} it's{\kf36} un{\kf16}be{\kf43}lie{\kf16}~{\kf16}va{\kf83}ble{\kf28}~
-Dialogue: 0,0:02:33.02,0:02:34.30,DEFAULT,,0,0,0,,{\kf16}How{\kf12} you{\kf36} made{\kf16} the{\kf16} change
-Dialogue: 0,0:02:34.42,0:02:36.80,DEFAULT,,0,0,0,,{\kf12}And{\kf16} showed{\kf16} me{\kf16} a{\kf32} world{\kf16} of{\kf24} new{\kf12}~{\kf28} things
-Dialogue: 0,0:02:36.96,0:02:40.36,DEFAULT,,0,0,0,,{\kf16}And{\kf16} it's{\kf36} in{\kf16}con{\kf43}cei{\kf12}~{\kf20}va{\kf79}ble{\kf36}~
-Dialogue: 0,0:02:59.54,0:03:02.86,DEFAULT,,0,0,0,,{\kf12}And{\kf12} it's{\kf36} un{\kf16}be{\kf43}lie{\kf20}~{\kf16}va{\kf79}ble{\kf28}~
-Dialogue: 0,0:03:03.02,0:03:04.30,DEFAULT,,0,0,0,,{\kf16}How{\kf12} you{\kf36} made{\kf16} the{\kf16} change
-Dialogue: 0,0:03:04.42,0:03:06.80,DEFAULT,,0,0,0,,{\kf16}And{\kf16} showed{\kf16} me{\kf16} a{\kf32} world{\kf16} of{\kf24} new{\kf12}~{\kf24} things
-Dialogue: 0,0:03:07.00,0:03:10.40,DEFAULT,,0,0,0,,{\kf16}And{\kf16} it's{\kf36} in{\kf16}con{\kf43}cei{\kf16}~{\kf20}va{\kf83}ble{\kf36}~
-Dialogue: 0,0:03:10.55,0:03:12.00,DEFAULT,,0,0,0,,{\kf12}How{\kf20} you{\kf28} caught{\kf24} my{\kf28} heart
-Dialogue: 0,0:03:12.16,0:03:14.38,DEFAULT,,0,0,0,,{\kf16}How{\kf16} you{\kf16} be{\kf32}came{\kf20} my{\kf20} new{\kf12}~{\kf36} king
-Dialogue: 0,0:03:20.36,0:03:22.82,DEFAULT,,0,0,0,,{\kf20}I've{\kf20} wait{\kf16}ed{\kf16} from{\kf20} be{\kf20}gin{\kf20}ning{\kf20} to{\kf24} end{\kf28}~
-Dialogue: 0,0:03:24.42,0:03:26.22,DEFAULT,,0,0,0,,{\kf16}Now{\kf16} be{\kf16}gins{\kf12} the{\kf20} re{\kf20}nais{\kf40}sance
+Dialogue: 0,0:00:01.57,0:00:04.15,DEFAULT,,0,0,0,,{\r}{\kf21}I've{\kf26} wait{\kf21}ed{\kf21} from{\kf21} be{\kf26}gin{\kf21}ning{\kf21} to{\kf26} end{\kf54}~
+Dialogue: 0,0:00:05.56,0:00:07.47,DEFAULT,,0,0,0,,{\r}{\kf26}Now{\kf21} be{\kf21}gins{\kf21} the{\kf26} re{\kf26}nais{\kf50}sance
+Dialogue: 0,0:00:09.31,0:00:11.61,DEFAULT,,0,0,0,,{\r}{\kf26}E{\kf21}ne{\kf21}mies{\kf26} are{\kf21} turn{\kf21}ing{\kf21} to{\kf31} friends{\kf42}~
+Dialogue: 0,0:00:12.86,0:00:15.09,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} e{\kf21}very{\kf21}bo{\kf21}dy{\kf21} sings{\kf21} a{\kf76}long
+Dialogue: 0,0:00:16.85,0:00:19.97,DEFAULT,,0,0,0,,{\r}{\kf45}No{\kf23} mat{\kf23}ter{\kf40} how{\kf28} ma{\kf23}ny{\kf23} times{\kf23} we{\kf34} fell{\kf50} down
+Dialogue: 0,0:00:20.13,0:00:23.14,DEFAULT,,0,0,0,,{\r}{\kf26}You{\kf16}~{\kf26} rise{\kf21} and{\kf42} get{\kf26} strong{\kf21}er{\kf37} each{\kf32} time{\kf54}~
+Dialogue: 0,0:00:24.07,0:00:25.56,DEFAULT,,0,0,0,,{\r}{\kf20}'Cause{\kf41} no{\kf36} mat{\kf15}ter{\kf36} what
+Dialogue: 0,0:00:25.72,0:00:28.72,DEFAULT,,0,0,0,,{\r}{\kf32}You{\kf16}~{\kf32} ne{\kf16}ver{\kf37} gave{\kf48} up{\kf37} on{\kf32} love{\kf51}~
+Dialogue: 0,0:00:29.58,0:00:32.90,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} it's{\kf44} un{\kf20}be{\kf54}lie{\kf24}~{\kf20}va{\kf107}ble{\kf33}~
+Dialogue: 0,0:00:33.06,0:00:34.35,DEFAULT,,0,0,0,,{\r}{\kf22}How{\kf16} you{\kf48} made{\kf22} the{\kf21} change
+Dialogue: 0,0:00:34.47,0:00:36.85,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf22} showed{\kf22} me{\kf22} a{\kf44} world{\kf22} of{\kf33} new{\kf17}~{\kf39} things
+Dialogue: 0,0:00:37.00,0:00:40.40,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} it's{\kf43} in{\kf19}con{\kf53}cei{\kf19}~{\kf24}va{\kf101}ble{\kf43}~
+Dialogue: 0,0:00:40.56,0:00:42.00,DEFAULT,,0,0,0,,{\r}{\kf16}How{\kf26} you{\kf36} caught{\kf31} my{\kf36} heart
+Dialogue: 0,0:00:42.16,0:00:44.39,DEFAULT,,0,0,0,,{\r}{\kf21}How{\kf21} you{\kf21} be{\kf42}came{\kf27} my{\kf27} new{\kf16}~{\kf48} king
+Dialogue: 0,0:00:44.54,0:00:47.86,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} it's{\kf44} un{\kf20}be{\kf54}lie{\kf24}~{\kf20}va{\kf107}ble{\kf33}~
+Dialogue: 0,0:00:48.02,0:00:49.31,DEFAULT,,0,0,0,,{\r}{\kf22}How{\kf16} you{\kf48} made{\kf22} the{\kf21} change
+Dialogue: 0,0:00:49.43,0:00:51.81,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf22} showed{\kf22} me{\kf22} a{\kf44} world{\kf22} of{\kf33} new{\kf17}~{\kf39} things
+Dialogue: 0,0:00:51.97,0:00:55.36,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} it's{\kf43} in{\kf19}con{\kf53}cei{\kf19}~{\kf24}va{\kf101}ble{\kf43}~
+Dialogue: 0,0:01:29.54,0:01:32.86,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} it's{\kf45} un{\kf20}be{\kf70}lie{\kf20}va{\kf111}ble{\kf36}~
+Dialogue: 0,0:01:33.02,0:01:34.31,DEFAULT,,0,0,0,,{\r}{\kf22}How{\kf16} you{\kf48} made{\kf22} the{\kf21} change
+Dialogue: 0,0:01:34.43,0:01:36.81,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf22} showed{\kf22} me{\kf22} a{\kf44} world{\kf22} of{\kf33} new{\kf17}~{\kf39} things
+Dialogue: 0,0:01:36.97,0:01:40.36,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} it's{\kf44} in{\kf19}con{\kf53}cei{\kf15}~{\kf24}va{\kf102}ble{\kf45}~
+Dialogue: 0,0:01:40.52,0:01:41.97,DEFAULT,,0,0,0,,{\r}{\kf16}How{\kf26} you{\kf36} caught{\kf31} my{\kf36} heart
+Dialogue: 0,0:01:42.12,0:01:44.35,DEFAULT,,0,0,0,,{\r}{\kf21}How{\kf21} you{\kf21} be{\kf42}came{\kf27} my{\kf27} new{\kf16}~{\kf48} king
+Dialogue: 0,0:01:46.58,0:01:49.04,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf30} ma{\kf20}lice{\kf20} is{\kf25} be{\kf25}gin{\kf20}ning{\kf25} to{\kf25} end{\kf36}~
+Dialogue: 0,0:01:50.29,0:01:52.43,DEFAULT,,0,0,0,,{\r}{\kf25}Our{\kf25} trou{\kf20}bled{\kf25} past{\kf20} is{\kf25} al{\kf20}most{\kf55} gone
+Dialogue: 0,0:01:54.11,0:01:56.54,DEFAULT,,0,0,0,,{\r}{\kf15}The{\kf26} sha{\kf21}dows{\kf26} all{\kf26} a{\kf21}round{\kf21} us{\kf21} cont{\kf31}end{\kf34}~
+Dialogue: 0,0:01:57.86,0:02:00.01,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf24} we{\kf20} con{\kf24}ti{\kf20}nue{\kf24} pres{\kf20}sing{\kf63} on
+Dialogue: 0,0:02:01.85,0:02:05.01,DEFAULT,,0,0,0,,{\r}{\kf41}No{\kf25} mat{\kf25}ter{\kf46} how{\kf20} ma{\kf20}ny{\kf25} king{\kf20}doms{\kf46} break{\kf48} down
+Dialogue: 0,0:02:05.17,0:02:08.10,DEFAULT,,0,0,0,,{\r}{\kf22}We{\kf16}~{\kf22} rise{\kf22} and{\kf43} get{\kf22} stron{\kf27}ger{\kf43} each{\kf27} time{\kf49}~
+Dialogue: 0,0:02:09.07,0:02:10.64,DEFAULT,,0,0,0,,{\r}{\kf26}'Cause{\kf42} no{\kf21} mat{\kf21}ter{\kf46} what
+Dialogue: 0,0:02:10.83,0:02:13.76,DEFAULT,,0,0,0,,{\r}{\kf21}We{\kf16}~{\kf21} ne{\kf21}ver{\kf43} gave{\kf43} up{\kf43} on{\kf27} love{\kf58}~
+Dialogue: 0,0:02:14.54,0:02:17.86,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} it's{\kf46} un{\kf20}be{\kf46}lie{\kf20}~{\kf20}va{\kf112}ble{\kf38}~
+Dialogue: 0,0:02:18.02,0:02:19.31,DEFAULT,,0,0,0,,{\r}{\kf22}How{\kf16} you{\kf48} made{\kf22} the{\kf21} change
+Dialogue: 0,0:02:19.47,0:02:21.81,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf25} showed{\kf25} me{\kf19} a{\kf38} world{\kf19} of{\kf32} new{\kf19}~{\kf38} things
+Dialogue: 0,0:02:21.97,0:02:25.32,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} it's{\kf47} in{\kf21}con{\kf47}cei{\kf21}~{\kf21}va{\kf103}ble{\kf34}~
+Dialogue: 0,0:02:25.56,0:02:27.00,DEFAULT,,0,0,0,,{\r}{\kf16}How{\kf27} you{\kf38} caught{\kf27} my{\kf37} heart
+Dialogue: 0,0:02:27.16,0:02:29.39,DEFAULT,,0,0,0,,{\r}{\kf22}How{\kf22} you{\kf22} be{\kf38}came{\kf27} my{\kf27} new{\kf22}~{\kf43} king
+Dialogue: 0,0:02:29.58,0:02:32.86,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} it's{\kf45} un{\kf20}be{\kf55}lie{\kf20}~{\kf20}va{\kf104}ble{\kf34}~
+Dialogue: 0,0:02:33.02,0:02:34.31,DEFAULT,,0,0,0,,{\r}{\kf22}How{\kf16} you{\kf48} made{\kf22} the{\kf21} change
+Dialogue: 0,0:02:34.43,0:02:36.81,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf22} showed{\kf22} me{\kf22} a{\kf44} world{\kf22} of{\kf33} new{\kf17}~{\kf39} things
+Dialogue: 0,0:02:36.97,0:02:40.36,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} it's{\kf44} in{\kf20}con{\kf54}cei{\kf15}~{\kf25}va{\kf99}ble{\kf43}~
+Dialogue: 0,0:02:59.54,0:03:02.86,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} it's{\kf45} un{\kf20}be{\kf55}lie{\kf25}~{\kf20}va{\kf101}ble{\kf36}~
+Dialogue: 0,0:03:03.02,0:03:04.31,DEFAULT,,0,0,0,,{\r}{\kf22}How{\kf16} you{\kf48} made{\kf22} the{\kf21} change
+Dialogue: 0,0:03:04.43,0:03:06.81,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} showed{\kf22} me{\kf22} a{\kf44} world{\kf22} of{\kf33} new{\kf17}~{\kf34} things
+Dialogue: 0,0:03:07.00,0:03:10.40,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} it's{\kf43} in{\kf19}con{\kf53}cei{\kf19}~{\kf24}va{\kf101}ble{\kf43}~
+Dialogue: 0,0:03:10.56,0:03:12.00,DEFAULT,,0,0,0,,{\r}{\kf16}How{\kf26} you{\kf36} caught{\kf31} my{\kf36} heart
+Dialogue: 0,0:03:12.16,0:03:14.39,DEFAULT,,0,0,0,,{\r}{\kf21}How{\kf21} you{\kf21} be{\kf42}came{\kf27} my{\kf27} new{\kf16}~{\kf48} king
+Dialogue: 0,0:03:20.36,0:03:22.82,DEFAULT,,0,0,0,,{\r}{\kf24}I've{\kf24} wait{\kf19}ed{\kf19} from{\kf24} be{\kf24}gin{\kf24}ning{\kf24} to{\kf29} end{\kf35}~
+Dialogue: 0,0:03:24.43,0:03:26.22,DEFAULT,,0,0,0,,{\r}{\kf21}Now{\kf21} be{\kf21}gins{\kf15} the{\kf26} re{\kf26}nais{\kf50}sance

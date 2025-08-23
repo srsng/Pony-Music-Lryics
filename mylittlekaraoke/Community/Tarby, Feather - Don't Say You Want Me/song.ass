@@ -1,65 +1,72 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Don't Say You Want Me
+Artist: Tarby
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:30.63,0:00:33.88,DEFAULT,,0,0,0,,{\kf25}You{\kf30} taste{\kf42} like{\kf25} su{\kf121}gar
-Dialogue: 0,0:00:35.92,0:00:39.21,DEFAULT,,0,0,0,,{\kf21}Wrapped{\kf21} up{\kf25} with{\kf13} a{\kf34} pret{\kf34}ty{\kf34} bow{\kf55}~
-Dialogue: 0,0:00:41.30,0:00:44.30,DEFAULT,,0,0,0,,{\kf25}I'm{\kf46} say{\kf34}ing{\kf25} "yes"{\kf96}~
-Dialogue: 0,0:00:46.63,0:00:50.13,DEFAULT,,0,0,0,,{\kf21}All{\kf21} I{\kf25} hear{\kf17} from{\kf21} you{\kf38} is{\kf34} "no"{\kf80}~
-Dialogue: 0,0:00:51.55,0:00:55.34,DEFAULT,,0,0,0,,{\kf21}And{\kf21} I{\kf30} wan{\kf25}na{\kf21} take{\kf21} you{\kf30} danc{\kf34}ing{\kf13}~{\kf13}~{\kf63}~
-Dialogue: 0,0:00:56.96,0:01:00.84,DEFAULT,,0,0,0,,{\kf21}But{\kf21} you{\kf25} won't{\kf30} move{\kf25} for{\kf25} a{\kf25} crowd{\kf92}~
-Dialogue: 0,0:01:02.21,0:01:06.34,DEFAULT,,0,0,0,,{\kf21}And{\kf21} you're{\kf25} kind{\kf21}a{\kf30} whis{\kf25}per{\kf30}ing{\kf55}~{\kf17}~{\kf71}~
-Dialogue: 0,0:01:07.59,0:01:10.42,DEFAULT,,0,0,0,,{\kf30}When{\kf21} I{\kf25} wan{\kf21}na{\kf25} say{\kf21} it{\kf30} loud{\kf46}~
-Dialogue: 0,0:01:10.96,0:01:15.55,DEFAULT,,0,0,0,,{\kf55}Loud,{\kf34} loud{\kf25}~{\kf30}~{\kf21}~{\kf17}~{\kf167}~
-Dialogue: 0,0:01:21.25,0:01:24.05,DEFAULT,,0,0,0,,{\kf25}Don't{\kf46} say{\kf50} you{\kf34} want{\kf38} me
-Dialogue: 0,0:01:24.30,0:01:26.67,DEFAULT,,0,0,0,,{\kf38}When{\kf38} you{\kf30} leave{\kf17}~{\kf38} me
-Dialogue: 0,0:01:26.88,0:01:29.05,DEFAULT,,0,0,0,,{\kf25}I{\kf34} won't{\kf30} let{\kf75} go
-Dialogue: 0,0:01:29.30,0:01:31.71,DEFAULT,,0,0,0,,{\kf25}(I{\kf38} won't{\kf42} let{\kf34} go{\kf38}~)
-Dialogue: 0,0:01:31.96,0:01:34.80,DEFAULT,,0,0,0,,{\kf21}I{\kf21} will{\kf30} al{\kf38}ways{\kf50} fol{\kf42}low
-Dialogue: 0,0:01:35.00,0:01:37.42,DEFAULT,,0,0,0,,{\kf38}Where{\kf46} you{\kf25} lead{\kf17}~{\kf38} me
-Dialogue: 0,0:01:37.63,0:01:40.00,DEFAULT,,0,0,0,,{\kf21}Please{\kf34} say{\kf30} it's{\kf100} so
-Dialogue: 0,0:01:40.21,0:01:43.00,DEFAULT,,0,0,0,,{\kf21}Woah{\kf25}~{\kf25} oh{\kf21} wow{\kf134} oh
-Dialogue: 0,0:01:50.63,0:01:54.05,DEFAULT,,0,0,0,,{\kf25}I{\kf34} won't{\kf42} let{\kf25} go{\kf138}~
-Dialogue: 0,0:02:11.92,0:02:15.05,DEFAULT,,0,0,0,,{\kf30}You{\kf42} pull{\kf46} my{\kf42} heart{\kf71}strings
-Dialogue: 0,0:02:17.30,0:02:20.75,DEFAULT,,0,0,0,,{\kf13}With{\kf25}out{\kf25} know{\kf17}ing{\kf21} how{\kf42} to{\kf25} play{\kf71}~
-Dialogue: 0,0:02:22.55,0:02:25.59,DEFAULT,,0,0,0,,{\kf21}I'm{\kf30} watch{\kf38}ing,{\kf25} wait{\kf92}ing
-Dialogue: 0,0:02:27.59,0:02:31.42,DEFAULT,,0,0,0,,{\kf25}On{\kf25} e{\kf21}very{\kf34} word{\kf30} you{\kf38} might{\kf30} say{\kf75}~
-Dialogue: 0,0:02:32.92,0:02:36.84,DEFAULT,,0,0,0,,{\kf21}And{\kf21} I{\kf25} wan{\kf21}na{\kf25} hold{\kf25} you{\kf30} close{\kf30} now{\kf21}~{\kf84}~
-Dialogue: 0,0:02:38.59,0:02:42.00,DEFAULT,,0,0,0,,{\kf21}But{\kf21} you're{\kf25} too{\kf34} damn{\kf34} re{\kf30}fined{\kf71}~
-Dialogue: 0,0:02:43.59,0:02:47.67,DEFAULT,,0,0,0,,{\kf21}And{\kf25} I'm{\kf25} los{\kf21}ing{\kf21} all{\kf25} con{\kf21}trol{\kf25} now{\kf21}~{\kf109}~
-Dialogue: 0,0:02:49.30,0:02:51.80,DEFAULT,,0,0,0,,{\kf25}What{\kf25} is{\kf30} on{\kf34} your{\kf30} mind{\kf46}~
-Dialogue: 0,0:02:52.34,0:02:57.00,DEFAULT,,0,0,0,,{\kf59}Mind~,{\kf30} mind{\kf25}~{\kf30}~{\kf17}~{\kf13}~{\kf13}~{\kf171}~?
-Dialogue: 0,0:03:02.59,0:03:05.38,DEFAULT,,0,0,0,,{\kf25}Don't{\kf46} say{\kf50} you{\kf34} want{\kf38} me
-Dialogue: 0,0:03:05.63,0:03:08.00,DEFAULT,,0,0,0,,{\kf38}When{\kf38} you{\kf30} leave{\kf17}~{\kf38} me
-Dialogue: 0,0:03:08.21,0:03:10.38,DEFAULT,,0,0,0,,{\kf25}I{\kf34} won't{\kf30} let{\kf75} go
-Dialogue: 0,0:03:10.63,0:03:13.05,DEFAULT,,0,0,0,,{\kf25}(I{\kf38} won't{\kf42} let{\kf34} go{\kf38}~)
-Dialogue: 0,0:03:13.30,0:03:16.13,DEFAULT,,0,0,0,,{\kf21}I{\kf21} will{\kf30} al{\kf38}ways{\kf50} fol{\kf42}low
-Dialogue: 0,0:03:16.34,0:03:18.75,DEFAULT,,0,0,0,,{\kf38}Where{\kf46} you{\kf25} lead{\kf17}~{\kf38} me
-Dialogue: 0,0:03:18.96,0:03:21.34,DEFAULT,,0,0,0,,{\kf21}Please{\kf34} say{\kf30} it's{\kf100} so
-Dialogue: 0,0:03:21.55,0:03:24.34,DEFAULT,,0,0,0,,{\kf21}Woah{\kf25}~{\kf25} oh{\kf21} wow{\kf134} oh
-Dialogue: 0,0:03:31.96,0:03:35.38,DEFAULT,,0,0,0,,{\kf25}I{\kf34} won't{\kf42} let{\kf25} go{\kf138}~
-Dialogue: 0,0:03:45.30,0:03:47.25,DEFAULT,,0,0,0,,{\kf25}You{\kf38} take{\kf30} me{\kf59}~
-Dialogue: 0,0:03:50.63,0:03:52.59,DEFAULT,,0,0,0,,{\kf25}You{\kf38} break{\kf30} me{\kf59}~
-Dialogue: 0,0:03:55.92,0:03:57.92,DEFAULT,,0,0,0,,{\kf25}You{\kf38} take{\kf25} me{\kf55}~
-Dialogue: 0,0:04:01.17,0:04:03.13,DEFAULT,,0,0,0,,{\kf25}You{\kf25} break{\kf21}~{\kf25} me{\kf42}~
-Dialogue: 0,0:04:06.59,0:04:08.55,DEFAULT,,0,0,0,,{\kf25}You{\kf25} take{\kf21}~{\kf25} me{\kf55}~
-Dialogue: 0,0:04:11.84,0:04:14.05,DEFAULT,,0,0,0,,{\kf25}You{\kf30} break{\kf17}~{\kf30} me{\kf71}~
-Dialogue: 0,0:04:17.30,0:04:19.38,DEFAULT,,0,0,0,,{\kf21}You{\kf25} take{\kf21}~{\kf25} me{\kf67}~
-Dialogue: 0,0:04:22.63,0:04:24.50,DEFAULT,,0,0,0,,{\kf30}You{\kf30} break{\kf30} me{\kf55}~
-Dialogue: 0,0:05:10.59,0:05:13.38,DEFAULT,,0,0,0,,{\kf25}Don't{\kf46} say{\kf50} you{\kf34} want{\kf38} me
-Dialogue: 0,0:05:13.63,0:05:16.00,DEFAULT,,0,0,0,,{\kf38}When{\kf38} you{\kf30} leave{\kf17}~{\kf38} me
-Dialogue: 0,0:05:16.21,0:05:18.38,DEFAULT,,0,0,0,,{\kf25}I{\kf34} won't{\kf30} let{\kf75} go
-Dialogue: 0,0:05:18.63,0:05:21.05,DEFAULT,,0,0,0,,{\kf25}(I{\kf38} won't{\kf42} let{\kf34} go{\kf38}~)
-Dialogue: 0,0:05:21.30,0:05:24.13,DEFAULT,,0,0,0,,{\kf21}I{\kf21} will{\kf30} al{\kf38}ways{\kf42} fol{\kf42}low
-Dialogue: 0,0:05:24.34,0:05:26.71,DEFAULT,,0,0,0,,{\kf38}Where{\kf46} you{\kf25} lead{\kf17}~{\kf38} me
-Dialogue: 0,0:05:26.96,0:05:29.34,DEFAULT,,0,0,0,,{\kf21}Please{\kf34} say{\kf30} it's{\kf100} so
-Dialogue: 0,0:05:29.55,0:05:32.30,DEFAULT,,0,0,0,,{\kf17}Woah{\kf21}~{\kf25} oh{\kf25} wow{\kf134} oh
-Dialogue: 0,0:05:39.96,0:05:43.38,DEFAULT,,0,0,0,,{\kf25}I{\kf34} won't{\kf42} let{\kf25} go{\kf138}~
-Dialogue: 0,0:05:50.63,0:05:56.38,DEFAULT,,0,0,0,,{\kf21}I{\kf30} won't{\kf42} let{\kf30} go{\kf371}~
+Dialogue: 0,0:00:30.63,0:00:33.88,DEFAULT,,0,0,0,,{\r}{\kf34}You{\kf39} taste{\kf56} like{\kf34} su{\kf162}gar
+Dialogue: 0,0:00:35.93,0:00:39.22,DEFAULT,,0,0,0,,{\r}{\kf29}Wrapped{\kf29} up{\kf35} with{\kf18} a{\kf47} pret{\kf47}ty{\kf47} bow{\kf77}~
+Dialogue: 0,0:00:41.30,0:00:44.30,DEFAULT,,0,0,0,,{\r}{\kf33}I'm{\kf61} say{\kf44}ing{\kf33} "yes"{\kf129}~
+Dialogue: 0,0:00:46.63,0:00:50.13,DEFAULT,,0,0,0,,{\r}{\kf29}All{\kf29} I{\kf34} hear{\kf23} from{\kf29} you{\kf52} is{\kf46} "no"{\kf108}~
+Dialogue: 0,0:00:51.55,0:00:55.34,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf27} I{\kf38} wan{\kf33}na{\kf27} take{\kf27} you{\kf38} danc{\kf44}ing{\kf16}~{\kf16}~{\kf86}~
+Dialogue: 0,0:00:56.97,0:01:00.84,DEFAULT,,0,0,0,,{\r}{\kf31}But{\kf31} you{\kf37} won't{\kf43} move{\kf37} for{\kf37} a{\kf37} crowd{\kf135}~
+Dialogue: 0,0:01:02.22,0:01:06.34,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf27} you're{\kf33} kind{\kf27}a{\kf38} whis{\kf33}per{\kf38}ing{\kf71}~{\kf22}~{\kf96}~
+Dialogue: 0,0:01:07.59,0:01:10.43,DEFAULT,,0,0,0,,{\r}{\kf38}When{\kf27} I{\kf33} wan{\kf27}na{\kf33} say{\kf27} it{\kf38} loud{\kf60}~
+Dialogue: 0,0:01:10.97,0:01:15.55,DEFAULT,,0,0,0,,{\r}{\kf72}Loud,{\kf44} loud{\kf33}~{\kf39}~{\kf28}~{\kf22}~{\kf220}~
+Dialogue: 0,0:01:21.26,0:01:24.05,DEFAULT,,0,0,0,,{\r}{\kf36}Don't{\kf67} say{\kf73} you{\kf49} want{\kf54} me
+Dialogue: 0,0:01:24.30,0:01:26.68,DEFAULT,,0,0,0,,{\r}{\kf56}When{\kf56} you{\kf44} leave{\kf25}~{\kf57} me
+Dialogue: 0,0:01:26.88,0:01:29.05,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf45} won't{\kf39} let{\kf100} go
+Dialogue: 0,0:01:29.30,0:01:31.72,DEFAULT,,0,0,0,,{\r}{\kf35}(I{\kf52} won't{\kf58} let{\kf46} go{\kf51}~)
+Dialogue: 0,0:01:31.97,0:01:34.80,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf29} will{\kf41} al{\kf53}ways{\kf71} fol{\kf60}low
+Dialogue: 0,0:01:35.01,0:01:37.43,DEFAULT,,0,0,0,,{\r}{\kf56}Where{\kf68} you{\kf37} lead{\kf25}~{\kf56} me
+Dialogue: 0,0:01:37.63,0:01:40.01,DEFAULT,,0,0,0,,{\r}{\kf27}Please{\kf43} say{\kf38} it's{\kf130} so
+Dialogue: 0,0:01:40.22,0:01:43.01,DEFAULT,,0,0,0,,{\r}{\kf26}Woah{\kf31}~{\kf31} oh{\kf26} wow{\kf165} oh
+Dialogue: 0,0:01:50.63,0:01:54.05,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf43} won't{\kf54} let{\kf33} go{\kf179}~
+Dialogue: 0,0:02:11.93,0:02:15.05,DEFAULT,,0,0,0,,{\r}{\kf40}You{\kf57} pull{\kf62} my{\kf57} heart{\kf96}strings
+Dialogue: 0,0:02:17.30,0:02:20.76,DEFAULT,,0,0,0,,{\r}{\kf18}With{\kf36}out{\kf36} know{\kf24}ing{\kf30} how{\kf61} to{\kf36} play{\kf105}~
+Dialogue: 0,0:02:22.55,0:02:25.59,DEFAULT,,0,0,0,,{\r}{\kf31}I'm{\kf43} watch{\kf56}ing,{\kf37} wait{\kf137}ing
+Dialogue: 0,0:02:27.59,0:02:31.43,DEFAULT,,0,0,0,,{\r}{\kf35}On{\kf35} e{\kf29}very{\kf46} word{\kf41} you{\kf52} might{\kf41} say{\kf104}~
+Dialogue: 0,0:02:32.93,0:02:36.84,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf27} I{\kf33} wan{\kf27}na{\kf33} hold{\kf33} you{\kf38} close{\kf38} now{\kf27}~{\kf109}~
+Dialogue: 0,0:02:38.59,0:02:42.01,DEFAULT,,0,0,0,,{\r}{\kf31}But{\kf31} you're{\kf37} too{\kf49} damn{\kf49} re{\kf43}fined{\kf102}~
+Dialogue: 0,0:02:43.59,0:02:47.68,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf33} I'm{\kf33} los{\kf27}ing{\kf27} all{\kf33} con{\kf27}trol{\kf33} now{\kf27}~{\kf141}~
+Dialogue: 0,0:02:49.30,0:02:51.80,DEFAULT,,0,0,0,,{\r}{\kf33}What{\kf33} is{\kf39} on{\kf44} your{\kf39} mind{\kf62}~
+Dialogue: 0,0:02:52.34,0:02:57.01,DEFAULT,,0,0,0,,{\r}{\kf77}Mind~,{\kf38} mind{\kf33}~{\kf38}~{\kf22}~{\kf16}~{\kf16}~{\kf227}~?
+Dialogue: 0,0:03:02.59,0:03:05.38,DEFAULT,,0,0,0,,{\r}{\kf36}Don't{\kf67} say{\kf73} you{\kf49} want{\kf54} me
+Dialogue: 0,0:03:05.63,0:03:08.01,DEFAULT,,0,0,0,,{\r}{\kf56}When{\kf56} you{\kf44} leave{\kf25}~{\kf57} me
+Dialogue: 0,0:03:08.22,0:03:10.38,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf45} won't{\kf39} let{\kf100} go
+Dialogue: 0,0:03:10.63,0:03:13.05,DEFAULT,,0,0,0,,{\r}{\kf35}(I{\kf52} won't{\kf58} let{\kf46} go{\kf51}~)
+Dialogue: 0,0:03:13.30,0:03:16.13,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf29} will{\kf41} al{\kf53}ways{\kf71} fol{\kf60}low
+Dialogue: 0,0:03:16.34,0:03:18.76,DEFAULT,,0,0,0,,{\r}{\kf56}Where{\kf68} you{\kf37} lead{\kf25}~{\kf56} me
+Dialogue: 0,0:03:18.97,0:03:21.34,DEFAULT,,0,0,0,,{\r}{\kf27}Please{\kf43} say{\kf38} it's{\kf130} so
+Dialogue: 0,0:03:21.55,0:03:24.34,DEFAULT,,0,0,0,,{\r}{\kf26}Woah{\kf31}~{\kf31} oh{\kf26} wow{\kf165} oh
+Dialogue: 0,0:03:31.97,0:03:35.38,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf43} won't{\kf54} let{\kf33} go{\kf179}~
+Dialogue: 0,0:03:45.30,0:03:47.26,DEFAULT,,0,0,0,,{\r}{\kf33}You{\kf49} take{\kf38} me{\kf76}~
+Dialogue: 0,0:03:50.63,0:03:52.59,DEFAULT,,0,0,0,,{\r}{\kf33}You{\kf49} break{\kf38} me{\kf76}~
+Dialogue: 0,0:03:55.93,0:03:57.93,DEFAULT,,0,0,0,,{\r}{\kf35}You{\kf53} take{\kf35} me{\kf77}~
+Dialogue: 0,0:04:01.18,0:04:03.13,DEFAULT,,0,0,0,,{\r}{\kf36}You{\kf36} break{\kf30}~{\kf36} me{\kf58}~
+Dialogue: 0,0:04:06.59,0:04:08.55,DEFAULT,,0,0,0,,{\r}{\kf33}You{\kf33} take{\kf27}~{\kf33} me{\kf70}~
+Dialogue: 0,0:04:11.84,0:04:14.05,DEFAULT,,0,0,0,,{\r}{\kf32}You{\kf38} break{\kf22}~{\kf38} me{\kf91}~
+Dialogue: 0,0:04:17.30,0:04:19.38,DEFAULT,,0,0,0,,{\r}{\kf27}You{\kf33} take{\kf27}~{\kf33} me{\kf88}~
+Dialogue: 0,0:04:22.63,0:04:24.51,DEFAULT,,0,0,0,,{\r}{\kf39}You{\kf39} break{\kf39} me{\kf71}~
+Dialogue: 0,0:05:10.59,0:05:13.38,DEFAULT,,0,0,0,,{\r}{\kf36}Don't{\kf67} say{\kf73} you{\kf49} want{\kf54} me
+Dialogue: 0,0:05:13.63,0:05:16.01,DEFAULT,,0,0,0,,{\r}{\kf56}When{\kf56} you{\kf44} leave{\kf25}~{\kf57} me
+Dialogue: 0,0:05:16.22,0:05:18.38,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf45} won't{\kf39} let{\kf100} go
+Dialogue: 0,0:05:18.63,0:05:21.05,DEFAULT,,0,0,0,,{\r}{\kf35}(I{\kf52} won't{\kf58} let{\kf46} go{\kf51}~)
+Dialogue: 0,0:05:21.30,0:05:24.13,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf31} will{\kf43} al{\kf55}ways{\kf62} fol{\kf61}low
+Dialogue: 0,0:05:24.34,0:05:26.72,DEFAULT,,0,0,0,,{\r}{\kf55}Where{\kf67} you{\kf37} lead{\kf24}~{\kf55} me
+Dialogue: 0,0:05:26.97,0:05:29.34,DEFAULT,,0,0,0,,{\r}{\kf27}Please{\kf43} say{\kf38} it's{\kf130} so
+Dialogue: 0,0:05:29.55,0:05:32.30,DEFAULT,,0,0,0,,{\r}{\kf21}Woah{\kf26}~{\kf31} oh{\kf31} wow{\kf166} oh
+Dialogue: 0,0:05:39.97,0:05:43.38,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf43} won't{\kf54} let{\kf33} go{\kf179}~
+Dialogue: 0,0:05:50.63,0:05:56.38,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf34} won't{\kf49} let{\kf34} go{\kf434}~

@@ -1,36 +1,43 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Lunasong (Not Your Night)
+Artist: UnderpOny
+Original Timing: mylittlekaraoke.com by Steven Knapp, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:14.12,0:01:18.60,DEFAULT,,0,0,0,,{\kf13}The{\kf29} clouds{\kf49}~{\kf13} re{\kf17}flect{\kf13}ing{\kf17} the{\kf151} light
-Dialogue: 0,0:01:19.37,0:01:23.82,DEFAULT,,0,0,0,,{\kf17}Of{\kf13} street{\kf49}lamps{\kf41} stain{\kf21}ing{\kf9} the{\kf33} night{\kf119}~
-Dialogue: 0,0:01:24.55,0:01:29.20,DEFAULT,,0,0,0,,{\kf13}Your{\kf29} stars{\kf74}~{\kf33} hid{\kf17}den{\kf21} a{\kf172}way
-Dialogue: 0,0:01:29.81,0:01:34.62,DEFAULT,,0,0,0,,{\kf17}No{\kf17} dif{\kf17}'rence{\kf9} be{\kf17}tween{\kf25} night{\kf17}~{\kf29} and{\kf29} day{\kf123}~
-Dialogue: 0,0:01:35.31,0:01:39.43,DEFAULT,,0,0,0,,{\kf33}Lu{\kf21}~{\kf147}na{\kf29} you{\kf13} left{\kf90} me
-Dialogue: 0,0:01:40.16,0:01:45.01,DEFAULT,,0,0,0,,{\kf17}A{\kf37}ban{\kf66}doned{\kf17} in{\kf9} the{\kf37} blaz{\kf29}ing{\kf135} light
-Dialogue: 0,0:01:45.75,0:01:50.31,DEFAULT,,0,0,0,,{\kf37}Lu{\kf115}na{\kf17} why{\kf21} won't{\kf13} you{\kf25} show{\kf9} your{\kf17}self{\kf9} to{\kf86} me?
-Dialogue: 0,0:01:50.68,0:01:55.37,DEFAULT,,0,0,0,,{\kf13}I{\kf17} need{\kf74}~{\kf9} your{\kf25} com{\kf25}fort{\kf13} to{\kf29}night{\kf147}~
-Dialogue: 0,0:01:55.85,0:02:00.38,DEFAULT,,0,0,0,,{\kf13}A{\kf37} time{\kf45}~{\kf9} a{\kf37} time{\kf29} I{\kf41} re{\kf17}call{\kf106}~
-Dialogue: 0,0:02:01.11,0:02:05.56,DEFAULT,,0,0,0,,{\kf13}Your{\kf25} smile{\kf9} of{\kf17} sil{\kf21}ver{\kf37} that{\kf17} was{\kf29} all{\kf119}~
-Dialogue: 0,0:02:06.37,0:02:09.84,DEFAULT,,0,0,0,,{\kf13}I{\kf29} need{\kf17}ed{\kf29}~{\kf9} to{\kf25} get{\kf21} through{\kf17} the{\kf13} day{\kf41}~
-Dialogue: 0,0:02:10.24,0:02:16.03,DEFAULT,,0,0,0,,{\kf17}Al{\kf33}though{\kf17} you{\kf21} were{\kf13} dis{\kf33}tant{\kf17} you{\kf29} showed{\kf21} me{\kf17}~{\kf17} the{\kf21} way{\kf127}~
-Dialogue: 0,0:02:17.05,0:02:21.49,DEFAULT,,0,0,0,,{\kf37}Lu{\kf21}~{\kf147}na{\kf17} I{\kf21} miss{\kf131} you
-Dialogue: 0,0:02:22.43,0:02:26.71,DEFAULT,,0,0,0,,{\kf58}Please{\kf13} come{\kf21} back{\kf37} to{\kf29} my{\kf17}~{\kf119} world
-Dialogue: 0,0:02:27.48,0:02:32.05,DEFAULT,,0,0,0,,{\kf37}Lu{\kf102}na{\kf21} how{\kf17} could{\kf25} I{\kf29} throw{\kf9} it{\kf13} all{\kf9} a{\kf94}way?
-Dialogue: 0,0:02:32.42,0:02:37.19,DEFAULT,,0,0,0,,{\kf17}I{\kf13} loved{\kf9} from{\kf9} a{\kf13} dis{\kf17}tance{\kf13} did{\kf13} you{\kf25} feel{\kf21} ig{\kf29}nored?{\kf127}~
-Dialogue: 0,0:04:04.01,0:04:08.16,DEFAULT,,0,0,0,,{\kf37}Lu{\kf21}~{\kf127}na{\kf17} I{\kf21} loved{\kf102} you
-Dialogue: 0,0:04:08.90,0:04:13.54,DEFAULT,,0,0,0,,{\kf9}I{\kf33} failed{\kf9} to{\kf29} tell{\kf13} you{\kf21} time{\kf9} and{\kf37} time{\kf21} a{\kf29}~{\kf135}gain
-Dialogue: 0,0:04:14.48,0:04:19.01,DEFAULT,,0,0,0,,{\kf37}Lu{\kf86}na{\kf17} why{\kf17} can't{\kf17} I{\kf21} find{\kf9}~{\kf29} you{\kf13} an{\kf9}y{\kf17}more?{\kf49}~
-Dialogue: 0,0:04:19.37,0:04:24.71,DEFAULT,,0,0,0,,{\kf9}I{\kf21} need{\kf9} the{\kf21} dark{\kf17}ness{\kf13} to{\kf58} cloud{\kf37} my{\kf13}~{\kf74} pain
-Dialogue: 0,0:04:24.88,0:04:29.48,DEFAULT,,0,0,0,,{\kf37}Lu{\kf90}na{\kf17} how{\kf13} can{\kf37} I{\kf29} ev{\kf13}er{\kf17} make{\kf13} things{\kf62} right?
-Dialogue: 0,0:04:29.77,0:04:34.25,DEFAULT,,0,0,0,,{\kf21}I{\kf13} don't{\kf13} want{\kf9} this{\kf21} day{\kf45}time{\kf9} I{\kf9} just{\kf9} want{\kf25} your{\kf25} night{\kf90}~
-Dialogue: 0,0:04:35.35,0:04:39.35,DEFAULT,,0,0,0,,{\kf33}Lu{\kf98}na{\kf21} I'm{\kf13} just{\kf29} so{\kf25} lone{\kf17}~{\kf9}ly{\kf9} and{\kf41} lost
-Dialogue: 0,0:04:40.24,0:04:47.87,DEFAULT,,0,0,0,,{\kf9}If{\kf9} this{\kf9} is{\kf17} free{\kf21}dom{\kf25} it{\kf13} is{\kf74}~{\kf13}n't{\kf74} worth{\kf29} the{\kf29}~{\kf180} cost
-Dialogue: 0,0:05:35.07,0:05:40.00,DEFAULT,,0,0,0,,{\kf25}It{\kf13} is{\kf74}~{\kf13}n't{\kf74} worth{\kf29} the{\kf29}~{\kf180} cost
+Dialogue: 0,0:01:14.12,0:01:18.60,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf43} clouds{\kf74}~{\kf18} re{\kf25}flect{\kf18}ing{\kf25} the{\kf227} light
+Dialogue: 0,0:01:19.38,0:01:23.82,DEFAULT,,0,0,0,,{\r}{\kf24}Of{\kf18} street{\kf73}lamps{\kf61} stain{\kf30}ing{\kf12} the{\kf49} night{\kf177}~
+Dialogue: 0,0:01:24.55,0:01:29.20,DEFAULT,,0,0,0,,{\r}{\kf16}Your{\kf37} stars{\kf96}~{\kf43} hid{\kf21}den{\kf27} a{\kf225}way
+Dialogue: 0,0:01:29.81,0:01:34.62,DEFAULT,,0,0,0,,{\r}{\kf27}No{\kf27} dif{\kf27}'rence{\kf13} be{\kf27}tween{\kf40} night{\kf27}~{\kf47} and{\kf47} day{\kf199}~
+Dialogue: 0,0:01:35.32,0:01:39.43,DEFAULT,,0,0,0,,{\r}{\kf41}Lu{\kf25}~{\kf183}na{\kf36} you{\kf15} left{\kf112} me
+Dialogue: 0,0:01:40.17,0:01:45.02,DEFAULT,,0,0,0,,{\r}{\kf23}A{\kf52}ban{\kf92}doned{\kf23} in{\kf12} the{\kf52} blaz{\kf40}ing{\kf191} light
+Dialogue: 0,0:01:45.75,0:01:50.32,DEFAULT,,0,0,0,,{\r}{\kf49}Lu{\kf152}na{\kf22} why{\kf27} won't{\kf16} you{\kf33} show{\kf11} your{\kf22}self{\kf11} to{\kf114} me?
+Dialogue: 0,0:01:50.68,0:01:55.37,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf22} need{\kf99}~{\kf11} your{\kf33} com{\kf33}fort{\kf17} to{\kf39}night{\kf198}~
+Dialogue: 0,0:01:55.86,0:02:00.38,DEFAULT,,0,0,0,,{\r}{\kf17}A{\kf50} time{\kf61}~{\kf11} a{\kf50} time{\kf39} I{\kf56} re{\kf22}call{\kf146}~
+Dialogue: 0,0:02:01.12,0:02:05.56,DEFAULT,,0,0,0,,{\r}{\kf19}Your{\kf39} smile{\kf13} of{\kf26} sil{\kf32}ver{\kf58} that{\kf26} was{\kf45} all{\kf186}~
+Dialogue: 0,0:02:06.38,0:02:09.84,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf47} need{\kf27}ed{\kf47}~{\kf14} to{\kf41} get{\kf34} through{\kf27} the{\kf20} day{\kf69}~
+Dialogue: 0,0:02:10.25,0:02:16.04,DEFAULT,,0,0,0,,{\r}{\kf25}Al{\kf50}though{\kf25} you{\kf31} were{\kf19} dis{\kf50}tant{\kf25} you{\kf44} showed{\kf31} me{\kf25}~{\kf25} the{\kf31} way{\kf198}~
+Dialogue: 0,0:02:17.05,0:02:21.50,DEFAULT,,0,0,0,,{\r}{\kf44}Lu{\kf24}~{\kf176}na{\kf20} I{\kf24} miss{\kf156} you
+Dialogue: 0,0:02:22.44,0:02:26.72,DEFAULT,,0,0,0,,{\r}{\kf84}Please{\kf18} come{\kf30} back{\kf54} to{\kf42} my{\kf24}~{\kf176} world
+Dialogue: 0,0:02:27.49,0:02:32.05,DEFAULT,,0,0,0,,{\r}{\kf48}Lu{\kf133}na{\kf27} how{\kf21} could{\kf32} I{\kf37} throw{\kf11} it{\kf16} all{\kf11} a{\kf121}way?
+Dialogue: 0,0:02:32.42,0:02:37.19,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf20} loved{\kf13} from{\kf13} a{\kf20} dis{\kf26}tance{\kf20} did{\kf20} you{\kf39} feel{\kf33} ig{\kf46}nored?{\kf201}~
+Dialogue: 0,0:04:04.01,0:04:08.17,DEFAULT,,0,0,0,,{\r}{\kf47}Lu{\kf26}~{\kf163}na{\kf21} I{\kf26} loved{\kf133} you
+Dialogue: 0,0:04:08.90,0:04:13.55,DEFAULT,,0,0,0,,{\r}{\kf11}I{\kf45} failed{\kf11} to{\kf39} tell{\kf17} you{\kf28} time{\kf11} and{\kf50} time{\kf28} a{\kf39}~{\kf186}gain
+Dialogue: 0,0:04:14.49,0:04:19.01,DEFAULT,,0,0,0,,{\r}{\kf53}Lu{\kf123}na{\kf23} why{\kf23} can't{\kf23} I{\kf29} find{\kf12}~{\kf41} you{\kf18} an{\kf12}y{\kf23}more?{\kf72}~
+Dialogue: 0,0:04:19.38,0:04:24.72,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf41} need{\kf16} the{\kf41} dark{\kf33}ness{\kf25} to{\kf115} cloud{\kf74} my{\kf25}~{\kf148} pain
+Dialogue: 0,0:04:24.88,0:04:29.49,DEFAULT,,0,0,0,,{\r}{\kf53}Lu{\kf128}na{\kf23} how{\kf18} can{\kf53} I{\kf41} ev{\kf18}er{\kf23} make{\kf18} things{\kf86} right?
+Dialogue: 0,0:04:29.77,0:04:34.26,DEFAULT,,0,0,0,,{\r}{\kf32}I{\kf19} don't{\kf19} want{\kf13} this{\kf32} day{\kf71}time{\kf13} I{\kf13} just{\kf13} want{\kf39} your{\kf39} night{\kf145}~
+Dialogue: 0,0:04:35.36,0:04:39.35,DEFAULT,,0,0,0,,{\r}{\kf45}Lu{\kf135}na{\kf28} I'm{\kf17} just{\kf39} so{\kf34} lone{\kf22}~{\kf11}ly{\kf11} and{\kf57} lost
+Dialogue: 0,0:04:40.25,0:04:47.87,DEFAULT,,0,0,0,,{\r}{\kf13}If{\kf13} this{\kf13} is{\kf25} free{\kf31}dom{\kf38} it{\kf19} is{\kf113}~{\kf19}n't{\kf113} worth{\kf44} the{\kf44}~{\kf277} cost
+Dialogue: 0,0:05:35.07,0:05:40.00,DEFAULT,,0,0,0,,{\r}{\kf28}It{\kf14} is{\kf84}~{\kf14}n't{\kf84} worth{\kf33} the{\kf33}~{\kf203} cost

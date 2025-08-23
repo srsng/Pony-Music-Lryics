@@ -1,138 +1,145 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Pony Girl (Fluttershy Version)
+Artist: Tridashie, Pinkie Rose
+Original Timing: mylittlekaraoke.com by Lichtschatten, Midnight Aegis
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.15,0:00:01.90,DEFAULT,,0,0,0,,{\kf18}Hi,{\kf52} Fluttershy!
-Dialogue: 0,0:00:02.24,0:00:03.11,DEFAULT,,0,0,0,,{\kf12}Hi,{\kf58} Fluttershy!
-Dialogue: 0,0:00:03.34,0:00:04.43,DEFAULT,,0,0,0,,{\kf12}You{\kf12} wanna{\kf12} go{\kf6} for{\kf6} a{\kf35} fly?
-Dialogue: 0,0:00:04.78,0:00:05.18,DEFAULT,,0,0,0,,{\kf41}Sure
-Dialogue: 0,0:00:05.59,0:00:06.33,DEFAULT,,0,0,0,,{\kf35}Let's{\kf35} go!
-Dialogue: 0,0:00:07.49,0:00:08.93,DEFAULT,,0,0,0,,{\kf18}I'm{\kf12} a{\kf18} po{\kf12}ny{\kf52} girl
-Dialogue: 0,0:00:09.33,0:00:11.23,DEFAULT,,0,0,0,,{\kf18}In{\kf18} a{\kf18} po{\kf12}ny{\kf41} world{\kf18}~{\kf29}~
-Dialogue: 0,0:00:11.64,0:00:12.73,DEFAULT,,0,0,0,,{\kf18}Life{\kf18} with{\kf35} ma{\kf18}gic
-Dialogue: 0,0:00:13.48,0:00:14.57,DEFAULT,,0,0,0,,{\kf18}It's{\kf18} fan{\kf35}tas{\kf18}tic
-Dialogue: 0,0:00:14.86,0:00:16.13,DEFAULT,,0,0,0,,{\kf18}You{\kf18} can{\kf18} make{\kf18} me{\kf35} fly
-Dialogue: 0,0:00:16.48,0:00:18.55,DEFAULT,,0,0,0,,{\kf18}And{\kf18} take{\kf18} me{\kf18} to{\kf12} the{\kf29} sky{\kf18}~{\kf24}~
-Dialogue: 0,0:00:18.78,0:00:20.11,DEFAULT,,0,0,0,,{\kf18}I{\kf18}ma{\kf18}gi{\kf29}na{\kf24}tion
-Dialogue: 0,0:00:20.39,0:00:22.12,DEFAULT,,0,0,0,,{\kf18}Ma{\kf18}gic{\kf18}al{\kf18} cre{\kf29}a{\kf29}tion{\kf12}~
-Dialogue: 0,0:00:22.24,0:00:23.04,DEFAULT,,0,0,0,,{\kf18}Come{\kf12} on,{\kf18} Flut{\kf12}ters
-Dialogue: 0,0:00:23.16,0:00:23.97,DEFAULT,,0,0,0,,{\kf18}Let's{\kf18} go{\kf18} fly{\kf12}ing
-Dialogue: 0,0:00:24.14,0:00:25.46,DEFAULT,,0,0,0,,{\kf18}I'm{\kf12} a{\kf18} po{\kf12}ny{\kf41} girl
-Dialogue: 0,0:00:25.93,0:00:27.83,DEFAULT,,0,0,0,,{\kf18}In{\kf12} a{\kf18} po{\kf12}ny{\kf41} world{\kf18}~{\kf24}~
-Dialogue: 0,0:00:28.29,0:00:29.38,DEFAULT,,0,0,0,,{\kf18}Life{\kf12} with{\kf35} ma{\kf18}gic
-Dialogue: 0,0:00:30.13,0:00:31.23,DEFAULT,,0,0,0,,{\kf18}It's{\kf18} fan{\kf35}tas{\kf18}tic
-Dialogue: 0,0:00:31.51,0:00:32.78,DEFAULT,,0,0,0,,{\kf18}You{\kf12} can{\kf24} make{\kf12} me{\kf29} fly
-Dialogue: 0,0:00:33.13,0:00:35.20,DEFAULT,,0,0,0,,{\kf18}And{\kf18} take{\kf18} me{\kf18} to{\kf18} the{\kf41} sky{\kf18}~{\kf24}~
-Dialogue: 0,0:00:35.43,0:00:36.76,DEFAULT,,0,0,0,,{\kf18}I{\kf18}ma{\kf18}gi{\kf35}na{\kf18}tion
-Dialogue: 0,0:00:37.05,0:00:38.83,DEFAULT,,0,0,0,,{\kf18}Ma{\kf18}gi{\kf18}cal{\kf18} cre{\kf41}a{\kf18}tion{\kf18}~
-Dialogue: 0,0:00:40.10,0:00:40.79,DEFAULT,,0,0,0,,{\kf18}I'm{\kf18} a{\kf24} mare
-Dialogue: 0,0:00:41.02,0:00:41.71,DEFAULT,,0,0,0,,{\kf18}Peg{\kf18}a{\kf24}sus
-Dialogue: 0,0:00:41.94,0:00:43.56,DEFAULT,,0,0,0,,{\kf18}In{\kf18} E{\kf41}ques{\kf18}tri{\kf18}an{\kf24} world
-Dialogue: 0,0:00:43.79,0:00:44.36,DEFAULT,,0,0,0,,{\kf18}Make{\kf18} me{\kf12} fly
-Dialogue: 0,0:00:44.71,0:00:45.34,DEFAULT,,0,0,0,,{\kf18}I'll{\kf18} go{\kf18} high
-Dialogue: 0,0:00:45.63,0:00:46.67,DEFAULT,,0,0,0,,{\kf18}I'm{\kf18} your{\kf41} po{\kf12}ny
-Dialogue: 0,0:00:47.47,0:00:48.22,DEFAULT,,0,0,0,,{\kf18}I'm{\kf18} so{\kf29} kind
-Dialogue: 0,0:00:48.40,0:00:49.15,DEFAULT,,0,0,0,,{\kf18}To{\kf18} my{\kf29} friends
-Dialogue: 0,0:00:49.32,0:00:50.87,DEFAULT,,0,0,0,,{\kf18}And{\kf18} so{\kf41} kind{\kf18} to{\kf18} the{\kf18} end
-Dialogue: 0,0:00:51.16,0:00:51.91,DEFAULT,,0,0,0,,{\kf12}Let's{\kf18} go{\kf29} fly
-Dialogue: 0,0:00:52.08,0:00:52.83,DEFAULT,,0,0,0,,{\kf18}Quick{\kf18} so{\kf29} high
-Dialogue: 0,0:00:53.01,0:00:54.04,DEFAULT,,0,0,0,,{\kf18}To{\kf12} the{\kf35} blue{\kf12} sky
-Dialogue: 0,0:00:54.85,0:00:55.54,DEFAULT,,0,0,0,,{\kf18}You're{\kf12} too{\kf24} fast!
-Dialogue: 0,0:00:56.69,0:00:57.73,DEFAULT,,0,0,0,,{\kf18}Why{\kf18} so{\kf41} slow{\kf12}~?
-Dialogue: 0,0:00:58.54,0:00:59.40,DEFAULT,,0,0,0,,{\kf12}Oh{\kf12} my{\kf41} gosh!
-Dialogue: 0,0:00:59.92,0:01:01.53,DEFAULT,,0,0,0,,{\kf24}Where{\kf29} are{\kf18} we{\kf24} now{\kf12}~{\kf18}~?
-Dialogue: 0,0:01:02.23,0:01:02.80,DEFAULT,,0,0,0,,{\kf18}Uuu{\kf18}-Woooh{\kf12}-Uuh
-Dialogue: 0,0:01:02.92,0:01:04.24,DEFAULT,,0,0,0,,{\kf18}I'm{\kf18} a{\kf18} po{\kf12}ny{\kf41} girl
-Dialogue: 0,0:01:04.76,0:01:06.60,DEFAULT,,0,0,0,,{\kf18}In{\kf18} a{\kf18} po{\kf12}ny{\kf41} world{\kf18}~{\kf24}~
-Dialogue: 0,0:01:07.07,0:01:08.16,DEFAULT,,0,0,0,,{\kf18}Life{\kf18} with{\kf35} ma{\kf18}gic
-Dialogue: 0,0:01:08.91,0:01:10.00,DEFAULT,,0,0,0,,{\kf18}It's{\kf18} fan{\kf35}tas{\kf18}tic
-Dialogue: 0,0:01:10.29,0:01:11.56,DEFAULT,,0,0,0,,{\kf18}You{\kf18} can{\kf18} make{\kf18} me{\kf35} fly
-Dialogue: 0,0:01:11.91,0:01:13.98,DEFAULT,,0,0,0,,{\kf18}And{\kf18} take{\kf18} me{\kf18} to{\kf18} the{\kf41} sky{\kf18}~{\kf24}~
-Dialogue: 0,0:01:14.21,0:01:15.54,DEFAULT,,0,0,0,,{\kf18}I{\kf18}ma{\kf18}gi{\kf35}na{\kf18}tion
-Dialogue: 0,0:01:15.82,0:01:17.55,DEFAULT,,0,0,0,,{\kf18}Ma{\kf18}gi{\kf18}cal{\kf18} cre{\kf41}a{\kf18}tion{\kf12}~
-Dialogue: 0,0:01:17.67,0:01:18.47,DEFAULT,,0,0,0,,{\kf18}Come{\kf12} on,{\kf18} Flut{\kf12}ters
-Dialogue: 0,0:01:18.59,0:01:19.40,DEFAULT,,0,0,0,,{\kf18}Let's{\kf18} go{\kf18} fly{\kf12}ing
-Dialogue: 0,0:01:19.51,0:01:21.24,DEFAULT,,0,0,0,,{\kf24}Ah{\kf24} ah{\kf35} ah{\kf18} yeah{\kf12}~
-Dialogue: 0,0:01:21.35,0:01:22.16,DEFAULT,,0,0,0,,{\kf18}Come{\kf12} on,{\kf18} Flut{\kf12}ters
-Dialogue: 0,0:01:22.28,0:01:23.14,DEFAULT,,0,0,0,,{\kf12}Let's{\kf18} go{\kf18} fly{\kf18}ing
-Dialogue: 0,0:01:23.43,0:01:24.06,DEFAULT,,0,0,0,,{\kf18}Uuu{\kf18}-Ooooh{\kf18}-Uuu~
-Dialogue: 0,0:01:24.35,0:01:24.98,DEFAULT,,0,0,0,,{\kf18}Uuu{\kf18}-Ooooh{\kf18}-Uuu~
-Dialogue: 0,0:01:25.04,0:01:25.85,DEFAULT,,0,0,0,,{\kf18}Come{\kf12} on{\kf18} Flut{\kf12}ters
-Dialogue: 0,0:01:25.96,0:01:26.77,DEFAULT,,0,0,0,,{\kf12}Let's{\kf18} go{\kf18} fly{\kf12}ing
-Dialogue: 0,0:01:26.89,0:01:28.61,DEFAULT,,0,0,0,,{\kf24}Ah{\kf24} ah{\kf35} ah{\kf18} yeah{\kf12}~
-Dialogue: 0,0:01:28.73,0:01:29.54,DEFAULT,,0,0,0,,{\kf18}Come{\kf12} on{\kf18} Flut{\kf12}ters
-Dialogue: 0,0:01:29.65,0:01:30.52,DEFAULT,,0,0,0,,{\kf12}Let's{\kf18} go{\kf18} fly{\kf18}ing
-Dialogue: 0,0:01:30.80,0:01:31.44,DEFAULT,,0,0,0,,{\kf18}Uuu{\kf18}-Ooooh{\kf18}-Uuu~
-Dialogue: 0,0:01:31.73,0:01:32.36,DEFAULT,,0,0,0,,{\kf18}Uuu{\kf18}-Ooooh{\kf18}-Uuu~
-Dialogue: 0,0:01:33.57,0:01:34.20,DEFAULT,,0,0,0,,{\kf18}Let{\kf18} us{\kf18} sing
-Dialogue: 0,0:01:34.55,0:01:35.18,DEFAULT,,0,0,0,,{\kf18}We're{\kf18} a{\kf18} thing
-Dialogue: 0,0:01:35.47,0:01:37.08,DEFAULT,,0,0,0,,{\kf18}Come{\kf12} on{\kf18} F{\kf18}S,{\kf18} you{\kf18} can{\kf29} tease
-Dialogue: 0,0:01:37.26,0:01:38.01,DEFAULT,,0,0,0,,{\kf18}Make{\kf18} me{\kf29} fly
-Dialogue: 0,0:01:38.24,0:01:38.87,DEFAULT,,0,0,0,,{\kf12}I'll{\kf18} go{\kf24} high
-Dialogue: 0,0:01:39.10,0:01:40.77,DEFAULT,,0,0,0,,{\kf18}I{\kf18} don't{\kf41} care{\kf18} who{\kf18}~{\kf24} sees
-Dialogue: 0,0:01:41.00,0:01:41.69,DEFAULT,,0,0,0,,{\kf18}Flap{\kf18} your{\kf24} wing
-Dialogue: 0,0:01:41.87,0:01:42.67,DEFAULT,,0,0,0,,{\kf18}To{\kf18} the{\kf35} wind
-Dialogue: 0,0:01:42.79,0:01:43.60,DEFAULT,,0,0,0,,{\kf18}Bring{\kf18} your{\kf35} things
-Dialogue: 0,0:01:43.77,0:01:44.40,DEFAULT,,0,0,0,,{\kf18}Let's{\kf12} be{\kf24}gin
-Dialogue: 0,0:01:44.69,0:01:45.38,DEFAULT,,0,0,0,,{\kf18}Let's{\kf18} go{\kf24} fly
-Dialogue: 0,0:01:45.55,0:01:46.36,DEFAULT,,0,0,0,,{\kf18}Quick{\kf24} so{\kf29} high
-Dialogue: 0,0:01:46.48,0:01:47.51,DEFAULT,,0,0,0,,{\kf18}To{\kf24} the{\kf35} blue{\kf12} sky
-Dialogue: 0,0:01:48.38,0:01:49.07,DEFAULT,,0,0,0,,{\kf18}You're{\kf12} too{\kf24} fast!
-Dialogue: 0,0:01:50.22,0:01:51.26,DEFAULT,,0,0,0,,{\kf18}Why{\kf18} so{\kf41} slow{\kf12}~?
-Dialogue: 0,0:01:52.07,0:01:52.93,DEFAULT,,0,0,0,,{\kf18}Oh{\kf18} my{\kf41} gosh!
-Dialogue: 0,0:01:53.45,0:01:55.06,DEFAULT,,0,0,0,,{\kf24}Where{\kf35} are{\kf18} we{\kf24} now{\kf12}~{\kf18}~?
-Dialogue: 0,0:01:55.75,0:01:56.44,DEFAULT,,0,0,0,,{\kf18}You're{\kf18} too{\kf24} fast!
-Dialogue: 0,0:01:57.60,0:01:58.63,DEFAULT,,0,0,0,,{\kf18}Why{\kf18} so{\kf41} slow{\kf12}~?
-Dialogue: 0,0:01:59.44,0:02:00.31,DEFAULT,,0,0,0,,{\kf18}Oh{\kf18} my{\kf41} gosh!
-Dialogue: 0,0:02:00.82,0:02:02.44,DEFAULT,,0,0,0,,{\kf18}Where{\kf41} are{\kf18} we{\kf24} now{\kf12}~{\kf18}~?
-Dialogue: 0,0:02:03.76,0:02:04.57,DEFAULT,,0,0,0,,{\kf18}Come{\kf18} on{\kf18} Flut{\kf12}ters
-Dialogue: 0,0:02:04.68,0:02:05.55,DEFAULT,,0,0,0,,{\kf18}Let's{\kf18} go{\kf18} fly{\kf18}ing
-Dialogue: 0,0:02:05.66,0:02:07.39,DEFAULT,,0,0,0,,{\kf24}Ah{\kf24} ah{\kf35} ah{\kf18} yeah{\kf12}~
-Dialogue: 0,0:02:07.51,0:02:08.26,DEFAULT,,0,0,0,,{\kf18}Come{\kf12} on{\kf18} Flut{\kf6}ters
-Dialogue: 0,0:02:08.37,0:02:09.24,DEFAULT,,0,0,0,,{\kf12}Let's{\kf18} go{\kf18} fly{\kf18}ing
-Dialogue: 0,0:02:09.58,0:02:10.22,DEFAULT,,0,0,0,,{\kf18}Uuu{\kf18}-Ooooh{\kf18}-Uuu~
-Dialogue: 0,0:02:10.50,0:02:11.08,DEFAULT,,0,0,0,,{\kf18}Uuu{\kf18}-Ooooh{\kf12}-Uuu~
-Dialogue: 0,0:02:11.20,0:02:11.94,DEFAULT,,0,0,0,,{\kf12}Come{\kf12} on{\kf18} Flut{\kf12}ters
-Dialogue: 0,0:02:12.06,0:02:12.92,DEFAULT,,0,0,0,,{\kf12}Let's{\kf18} go{\kf18} fly{\kf18}ing
-Dialogue: 0,0:02:13.04,0:02:14.77,DEFAULT,,0,0,0,,{\kf24}Ah{\kf24} ah{\kf35} ah{\kf18} yeah{\kf12}~
-Dialogue: 0,0:02:14.88,0:02:15.63,DEFAULT,,0,0,0,,{\kf12}Come{\kf12} on{\kf18} Flut{\kf12}ters
-Dialogue: 0,0:02:15.75,0:02:16.61,DEFAULT,,0,0,0,,{\kf12}Let's{\kf18} go{\kf18} fly{\kf18}ing
-Dialogue: 0,0:02:16.96,0:02:17.59,DEFAULT,,0,0,0,,{\kf18}Uuu{\kf18}-Ooooh{\kf18}-Uuu~
-Dialogue: 0,0:02:17.88,0:02:18.46,DEFAULT,,0,0,0,,{\kf18}Uuu{\kf18}-Ooooh{\kf12}-Uuu~
-Dialogue: 0,0:02:18.57,0:02:19.90,DEFAULT,,0,0,0,,{\kf18}I'm{\kf18} a{\kf18} po{\kf18}ny{\kf41} girl
-Dialogue: 0,0:02:20.41,0:02:22.26,DEFAULT,,0,0,0,,{\kf18}In{\kf18} a{\kf18} po{\kf18}ny{\kf41} world{\kf18}~{\kf24}~
-Dialogue: 0,0:02:22.72,0:02:23.81,DEFAULT,,0,0,0,,{\kf18}Life{\kf12} with{\kf35} ma{\kf18}gic
-Dialogue: 0,0:02:24.56,0:02:25.66,DEFAULT,,0,0,0,,{\kf18}It's{\kf18} fan{\kf35}tas{\kf18}tic
-Dialogue: 0,0:02:25.95,0:02:27.21,DEFAULT,,0,0,0,,{\kf18}You{\kf18} can{\kf18} make{\kf18} me{\kf29} fly
-Dialogue: 0,0:02:27.56,0:02:29.63,DEFAULT,,0,0,0,,{\kf18}And{\kf18} take{\kf18} me{\kf18} to{\kf18} the{\kf35} sky{\kf18}~{\kf24}~
-Dialogue: 0,0:02:29.86,0:02:31.19,DEFAULT,,0,0,0,,{\kf18}I{\kf18}ma{\kf18}gi{\kf35}na{\kf18}tion
-Dialogue: 0,0:02:31.48,0:02:33.21,DEFAULT,,0,0,0,,{\kf18}Ma{\kf18}gi{\kf18}cal{\kf18} cre{\kf41}a{\kf18}tion{\kf12}~
-Dialogue: 0,0:02:33.38,0:02:34.65,DEFAULT,,0,0,0,,{\kf12}I'm{\kf18} a{\kf18} po{\kf18}ny{\kf35} girl
-Dialogue: 0,0:02:35.17,0:02:37.01,DEFAULT,,0,0,0,,{\kf18}In{\kf18} a{\kf18} po{\kf18}ny{\kf41} world{\kf18}~{\kf24}~
-Dialogue: 0,0:02:37.47,0:02:38.56,DEFAULT,,0,0,0,,{\kf18}Life{\kf18} with{\kf35} ma{\kf18}gic
-Dialogue: 0,0:02:39.31,0:02:40.41,DEFAULT,,0,0,0,,{\kf18}It's{\kf18} fan{\kf35}tas{\kf18}tic
-Dialogue: 0,0:02:40.70,0:02:41.96,DEFAULT,,0,0,0,,{\kf18}You{\kf18} can{\kf18} make{\kf18} me{\kf35} fly
-Dialogue: 0,0:02:42.31,0:02:44.38,DEFAULT,,0,0,0,,{\kf18}And{\kf18} take{\kf18} me{\kf18} to{\kf18} the{\kf35} sky{\kf18}~{\kf24}~
-Dialogue: 0,0:02:44.61,0:02:45.94,DEFAULT,,0,0,0,,{\kf18}I{\kf18}ma{\kf18}gi{\kf29}na{\kf18}tion
-Dialogue: 0,0:02:46.23,0:02:47.96,DEFAULT,,0,0,0,,{\kf18}Ma{\kf18}gi{\kf18}cal{\kf18} cre{\kf35}a{\kf18}tion{\kf12}~
-Dialogue: 0,0:02:48.07,0:02:48.88,DEFAULT,,0,0,0,,{\kf18}Come{\kf18} on{\kf18} Flut{\kf12}ters
-Dialogue: 0,0:02:48.99,0:02:49.80,DEFAULT,,0,0,0,,{\kf18}Let's{\kf18} go{\kf18} fly{\kf12}ing
-Dialogue: 0,0:02:49.92,0:02:51.64,DEFAULT,,0,0,0,,{\kf29}Ah{\kf29} ah{\kf35} ah{\kf18} yeah{\kf12}~
-Dialogue: 0,0:02:51.76,0:02:52.57,DEFAULT,,0,0,0,,{\kf18}Come{\kf18} on{\kf18} Flut{\kf12}ters
-Dialogue: 0,0:02:52.68,0:02:53.55,DEFAULT,,0,0,0,,{\kf18}Let's{\kf18} go{\kf18} fly{\kf18}ing
-Dialogue: 0,0:02:53.83,0:02:54.47,DEFAULT,,0,0,0,,{\kf18}Uuu{\kf18}-Ooooh{\kf18}-Uuu~
-Dialogue: 0,0:02:54.76,0:02:55.33,DEFAULT,,0,0,0,,{\kf18}Uuu{\kf18}-Ooooh{\kf12}-Uuu~
-Dialogue: 0,0:02:55.45,0:02:56.25,DEFAULT,,0,0,0,,{\kf18}Come{\kf18} on{\kf18} Flut{\kf12}ters
-Dialogue: 0,0:02:56.37,0:02:57.18,DEFAULT,,0,0,0,,{\kf18}Let's{\kf18} go{\kf18} fly{\kf12}ing
-Dialogue: 0,0:02:57.29,0:02:59.02,DEFAULT,,0,0,0,,{\kf24}Ah{\kf24} ah{\kf35} ah{\kf18} yeah{\kf12}~
-Dialogue: 0,0:02:59.13,0:02:59.94,DEFAULT,,0,0,0,,{\kf18}Come{\kf12} on{\kf18} Flut{\kf12}ters
-Dialogue: 0,0:03:00.06,0:03:00.92,DEFAULT,,0,0,0,,{\kf18}Let's{\kf18} go{\kf18} fly{\kf18}ing
-Dialogue: 0,0:03:01.27,0:03:01.90,DEFAULT,,0,0,0,,{\kf18}Uuu{\kf18}-Ooooh{\kf18}-Uuu~
-Dialogue: 0,0:03:02.19,0:03:02.82,DEFAULT,,0,0,0,,{\kf18}Uuu{\kf18}-Ooooh{\kf18}-Uuu~
+Dialogue: 0,0:00:01.15,0:00:01.90,DEFAULT,,0,0,0,,{\r}{\kf19}Hi,{\kf56} Fluttershy!
+Dialogue: 0,0:00:02.25,0:00:03.11,DEFAULT,,0,0,0,,{\r}{\kf14}Hi,{\kf72} Fluttershy!
+Dialogue: 0,0:00:03.34,0:00:04.44,DEFAULT,,0,0,0,,{\r}{\kf16}You{\kf16} wanna{\kf16} go{\kf10} for{\kf10} a{\kf41} fly?
+Dialogue: 0,0:00:04.78,0:00:05.19,DEFAULT,,0,0,0,,{\r}{\kf40}Sure
+Dialogue: 0,0:00:05.59,0:00:06.34,DEFAULT,,0,0,0,,{\r}{\kf38}Let's{\kf37} go!
+Dialogue: 0,0:00:07.49,0:00:08.93,DEFAULT,,0,0,0,,{\r}{\kf23}I'm{\kf15} a{\kf23} po{\kf15}ny{\kf68} girl
+Dialogue: 0,0:00:09.34,0:00:11.24,DEFAULT,,0,0,0,,{\r}{\kf22}In{\kf22} a{\kf22} po{\kf15}ny{\kf51} world{\kf22}~{\kf36}~
+Dialogue: 0,0:00:11.64,0:00:12.74,DEFAULT,,0,0,0,,{\r}{\kf22}Life{\kf22} with{\kf44} ma{\kf21}gic
+Dialogue: 0,0:00:13.48,0:00:14.58,DEFAULT,,0,0,0,,{\r}{\kf22}It's{\kf22} fan{\kf44}tas{\kf21}tic
+Dialogue: 0,0:00:14.87,0:00:16.13,DEFAULT,,0,0,0,,{\r}{\kf21}You{\kf21} can{\kf21} make{\kf21} me{\kf43} fly
+Dialogue: 0,0:00:16.48,0:00:18.55,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf24} take{\kf24} me{\kf24} to{\kf16} the{\kf40} sky{\kf24}~{\kf31}~
+Dialogue: 0,0:00:18.79,0:00:20.11,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22}ma{\kf22}gi{\kf37}na{\kf30}tion
+Dialogue: 0,0:00:20.40,0:00:22.13,DEFAULT,,0,0,0,,{\r}{\kf22}Ma{\kf22}gic{\kf22}al{\kf22} cre{\kf36}a{\kf36}tion{\kf13}~
+Dialogue: 0,0:00:22.24,0:00:23.05,DEFAULT,,0,0,0,,{\r}{\kf24}Come{\kf16} on,{\kf24} Flut{\kf17}ters
+Dialogue: 0,0:00:23.16,0:00:23.97,DEFAULT,,0,0,0,,{\r}{\kf22}Let's{\kf22} go{\kf22} fly{\kf15}ing
+Dialogue: 0,0:00:24.14,0:00:25.47,DEFAULT,,0,0,0,,{\r}{\kf23}I'm{\kf16} a{\kf23} po{\kf16}ny{\kf55} girl
+Dialogue: 0,0:00:25.93,0:00:27.83,DEFAULT,,0,0,0,,{\r}{\kf24}In{\kf16} a{\kf24} po{\kf16}ny{\kf55} world{\kf24}~{\kf31}~
+Dialogue: 0,0:00:28.29,0:00:29.39,DEFAULT,,0,0,0,,{\r}{\kf23}Life{\kf16} with{\kf47} ma{\kf23}gic
+Dialogue: 0,0:00:30.14,0:00:31.23,DEFAULT,,0,0,0,,{\r}{\kf22}It's{\kf22} fan{\kf44}tas{\kf21}tic
+Dialogue: 0,0:00:31.52,0:00:32.79,DEFAULT,,0,0,0,,{\r}{\kf24}You{\kf16} can{\kf32} make{\kf16} me{\kf39} fly
+Dialogue: 0,0:00:33.13,0:00:35.21,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} take{\kf21} me{\kf21} to{\kf21} the{\kf50} sky{\kf21}~{\kf31}~
+Dialogue: 0,0:00:35.44,0:00:36.76,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22}ma{\kf22}gi{\kf44}na{\kf23}tion
+Dialogue: 0,0:00:37.05,0:00:38.84,DEFAULT,,0,0,0,,{\r}{\kf21}Ma{\kf21}gi{\kf21}cal{\kf21} cre{\kf50}a{\kf21}tion{\kf24}~
+Dialogue: 0,0:00:40.10,0:00:40.80,DEFAULT,,0,0,0,,{\r}{\kf21}I'm{\kf21} a{\kf27} mare
+Dialogue: 0,0:00:41.03,0:00:41.72,DEFAULT,,0,0,0,,{\r}{\kf21}Peg{\kf21}a{\kf27}sus
+Dialogue: 0,0:00:41.95,0:00:43.56,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf21} E{\kf49}ques{\kf21}tri{\kf21}an{\kf28} world
+Dialogue: 0,0:00:43.79,0:00:44.37,DEFAULT,,0,0,0,,{\r}{\kf22}Make{\kf22} me{\kf14} fly
+Dialogue: 0,0:00:44.71,0:00:45.35,DEFAULT,,0,0,0,,{\r}{\kf21}I'll{\kf21} go{\kf21} high
+Dialogue: 0,0:00:45.64,0:00:46.67,DEFAULT,,0,0,0,,{\r}{\kf21}I'm{\kf21} your{\kf49} po{\kf13}ny
+Dialogue: 0,0:00:47.48,0:00:48.23,DEFAULT,,0,0,0,,{\r}{\kf20}I'm{\kf20} so{\kf35} kind
+Dialogue: 0,0:00:48.40,0:00:49.15,DEFAULT,,0,0,0,,{\r}{\kf20}To{\kf20} my{\kf35} friends
+Dialogue: 0,0:00:49.32,0:00:50.88,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} so{\kf50} kind{\kf21} to{\kf21} the{\kf22} end
+Dialogue: 0,0:00:51.17,0:00:51.92,DEFAULT,,0,0,0,,{\r}{\kf15}Let's{\kf22} go{\kf38} fly
+Dialogue: 0,0:00:52.09,0:00:52.84,DEFAULT,,0,0,0,,{\r}{\kf20}Quick{\kf20} so{\kf35} high
+Dialogue: 0,0:00:53.01,0:00:54.05,DEFAULT,,0,0,0,,{\r}{\kf24}To{\kf16} the{\kf48} blue{\kf16} sky
+Dialogue: 0,0:00:54.86,0:00:55.55,DEFAULT,,0,0,0,,{\r}{\kf23}You're{\kf15} too{\kf31} fast!
+Dialogue: 0,0:00:56.70,0:00:57.74,DEFAULT,,0,0,0,,{\r}{\kf21}Why{\kf21} so{\kf49} slow{\kf13}~?
+Dialogue: 0,0:00:58.54,0:00:59.41,DEFAULT,,0,0,0,,{\r}{\kf16}Oh{\kf16} my{\kf54} gosh!
+Dialogue: 0,0:00:59.93,0:01:01.54,DEFAULT,,0,0,0,,{\r}{\kf31}Where{\kf38} are{\kf23} we{\kf31} now{\kf15}~{\kf23}~?
+Dialogue: 0,0:01:02.23,0:01:02.81,DEFAULT,,0,0,0,,{\r}{\kf22}Uuu{\kf22}-Woooh{\kf14}-Uuh
+Dialogue: 0,0:01:02.92,0:01:04.25,DEFAULT,,0,0,0,,{\r}{\kf22}I'm{\kf22} a{\kf22} po{\kf15}ny{\kf52} girl
+Dialogue: 0,0:01:04.77,0:01:06.61,DEFAULT,,0,0,0,,{\r}{\kf22}In{\kf22} a{\kf22} po{\kf15}ny{\kf52} world{\kf22}~{\kf29}~
+Dialogue: 0,0:01:07.07,0:01:08.17,DEFAULT,,0,0,0,,{\r}{\kf22}Life{\kf22} with{\kf44} ma{\kf21}gic
+Dialogue: 0,0:01:08.91,0:01:10.01,DEFAULT,,0,0,0,,{\r}{\kf22}It's{\kf22} fan{\kf44}tas{\kf21}tic
+Dialogue: 0,0:01:10.30,0:01:11.56,DEFAULT,,0,0,0,,{\r}{\kf21}You{\kf21} can{\kf21} make{\kf21} me{\kf43} fly
+Dialogue: 0,0:01:11.91,0:01:13.98,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} take{\kf21} me{\kf21} to{\kf21} the{\kf50} sky{\kf21}~{\kf31}~
+Dialogue: 0,0:01:14.22,0:01:15.54,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22}ma{\kf22}gi{\kf44}na{\kf23}tion
+Dialogue: 0,0:01:15.83,0:01:17.56,DEFAULT,,0,0,0,,{\r}{\kf22}Ma{\kf22}gi{\kf22}cal{\kf22} cre{\kf50}a{\kf22}tion{\kf13}~
+Dialogue: 0,0:01:17.67,0:01:18.48,DEFAULT,,0,0,0,,{\r}{\kf24}Come{\kf16} on,{\kf24} Flut{\kf17}ters
+Dialogue: 0,0:01:18.59,0:01:19.40,DEFAULT,,0,0,0,,{\r}{\kf22}Let's{\kf22} go{\kf22} fly{\kf15}ing
+Dialogue: 0,0:01:19.52,0:01:21.24,DEFAULT,,0,0,0,,{\r}{\kf36}Ah{\kf36} ah{\kf55} ah{\kf27} yeah{\kf19}~
+Dialogue: 0,0:01:21.36,0:01:22.17,DEFAULT,,0,0,0,,{\r}{\kf24}Come{\kf16} on,{\kf24} Flut{\kf17}ters
+Dialogue: 0,0:01:22.28,0:01:23.15,DEFAULT,,0,0,0,,{\r}{\kf16}Let's{\kf23} go{\kf23} fly{\kf24}ing
+Dialogue: 0,0:01:23.43,0:01:24.07,DEFAULT,,0,0,0,,{\r}{\kf21}Uuu{\kf21}-Ooooh{\kf21}-Uuu~
+Dialogue: 0,0:01:24.36,0:01:24.99,DEFAULT,,0,0,0,,{\r}{\kf21}Uuu{\kf21}-Ooooh{\kf21}-Uuu~
+Dialogue: 0,0:01:25.05,0:01:25.85,DEFAULT,,0,0,0,,{\r}{\kf24}Come{\kf16} on{\kf24} Flut{\kf17}ters
+Dialogue: 0,0:01:25.97,0:01:26.78,DEFAULT,,0,0,0,,{\r}{\kf16}Let's{\kf24} go{\kf24} fly{\kf17}ing
+Dialogue: 0,0:01:26.89,0:01:28.62,DEFAULT,,0,0,0,,{\r}{\kf36}Ah{\kf36} ah{\kf55} ah{\kf27} yeah{\kf19}~
+Dialogue: 0,0:01:28.74,0:01:29.54,DEFAULT,,0,0,0,,{\r}{\kf24}Come{\kf16} on{\kf24} Flut{\kf17}ters
+Dialogue: 0,0:01:29.66,0:01:30.52,DEFAULT,,0,0,0,,{\r}{\kf16}Let's{\kf23} go{\kf23} fly{\kf24}ing
+Dialogue: 0,0:01:30.81,0:01:31.44,DEFAULT,,0,0,0,,{\r}{\kf21}Uuu{\kf21}-Ooooh{\kf21}-Uuu~
+Dialogue: 0,0:01:31.73,0:01:32.37,DEFAULT,,0,0,0,,{\r}{\kf21}Uuu{\kf21}-Ooooh{\kf21}-Uuu~
+Dialogue: 0,0:01:33.58,0:01:34.21,DEFAULT,,0,0,0,,{\r}{\kf21}Let{\kf21} us{\kf21} sing
+Dialogue: 0,0:01:34.55,0:01:35.19,DEFAULT,,0,0,0,,{\r}{\kf21}We're{\kf21} a{\kf21} thing
+Dialogue: 0,0:01:35.48,0:01:37.09,DEFAULT,,0,0,0,,{\r}{\kf22}Come{\kf15} on{\kf22} F{\kf22}S,{\kf22} you{\kf22} can{\kf36} tease
+Dialogue: 0,0:01:37.26,0:01:38.01,DEFAULT,,0,0,0,,{\r}{\kf20}Make{\kf20} me{\kf35} fly
+Dialogue: 0,0:01:38.24,0:01:38.88,DEFAULT,,0,0,0,,{\r}{\kf14}I'll{\kf21} go{\kf28} high
+Dialogue: 0,0:01:39.11,0:01:40.78,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} don't{\kf51} care{\kf22} who{\kf22}~{\kf28} sees
+Dialogue: 0,0:01:41.01,0:01:41.70,DEFAULT,,0,0,0,,{\r}{\kf21}Flap{\kf21} your{\kf27} wing
+Dialogue: 0,0:01:41.87,0:01:42.68,DEFAULT,,0,0,0,,{\r}{\kf20}To{\kf20} the{\kf41} wind
+Dialogue: 0,0:01:42.79,0:01:43.60,DEFAULT,,0,0,0,,{\r}{\kf20}Bring{\kf20} your{\kf41} things
+Dialogue: 0,0:01:43.77,0:01:44.41,DEFAULT,,0,0,0,,{\r}{\kf21}Let's{\kf14} be{\kf28}gin
+Dialogue: 0,0:01:44.70,0:01:45.39,DEFAULT,,0,0,0,,{\r}{\kf21}Let's{\kf21} go{\kf27} fly
+Dialogue: 0,0:01:45.56,0:01:46.37,DEFAULT,,0,0,0,,{\r}{\kf20}Quick{\kf27} so{\kf34} high
+Dialogue: 0,0:01:46.48,0:01:47.52,DEFAULT,,0,0,0,,{\r}{\kf21}To{\kf28} the{\kf42} blue{\kf13} sky
+Dialogue: 0,0:01:48.38,0:01:49.07,DEFAULT,,0,0,0,,{\r}{\kf23}You're{\kf15} too{\kf31} fast!
+Dialogue: 0,0:01:50.23,0:01:51.26,DEFAULT,,0,0,0,,{\r}{\kf21}Why{\kf21} so{\kf49} slow{\kf13}~?
+Dialogue: 0,0:01:52.07,0:01:52.94,DEFAULT,,0,0,0,,{\r}{\kf20}Oh{\kf20} my{\kf46} gosh!
+Dialogue: 0,0:01:53.45,0:01:55.07,DEFAULT,,0,0,0,,{\r}{\kf29}Where{\kf44} are{\kf22} we{\kf29} now{\kf15}~{\kf22}~?
+Dialogue: 0,0:01:55.76,0:01:56.45,DEFAULT,,0,0,0,,{\r}{\kf21}You're{\kf21} too{\kf27} fast!
+Dialogue: 0,0:01:57.60,0:01:58.64,DEFAULT,,0,0,0,,{\r}{\kf21}Why{\kf21} so{\kf49} slow{\kf13}~?
+Dialogue: 0,0:01:59.45,0:02:00.31,DEFAULT,,0,0,0,,{\r}{\kf20}Oh{\kf20} my{\kf46} gosh!
+Dialogue: 0,0:02:00.83,0:02:02.44,DEFAULT,,0,0,0,,{\r}{\kf22}Where{\kf51} are{\kf22} we{\kf29} now{\kf15}~{\kf22}~?
+Dialogue: 0,0:02:03.77,0:02:04.57,DEFAULT,,0,0,0,,{\r}{\kf22}Come{\kf22} on{\kf22} Flut{\kf15}ters
+Dialogue: 0,0:02:04.69,0:02:05.55,DEFAULT,,0,0,0,,{\r}{\kf22}Let's{\kf22} go{\kf22} fly{\kf20}ing
+Dialogue: 0,0:02:05.67,0:02:07.40,DEFAULT,,0,0,0,,{\r}{\kf36}Ah{\kf36} ah{\kf55} ah{\kf27} yeah{\kf19}~
+Dialogue: 0,0:02:07.51,0:02:08.26,DEFAULT,,0,0,0,,{\r}{\kf25}Come{\kf17} on{\kf25} Flut{\kf10}ters
+Dialogue: 0,0:02:08.38,0:02:09.24,DEFAULT,,0,0,0,,{\r}{\kf16}Let's{\kf23} go{\kf23} fly{\kf24}ing
+Dialogue: 0,0:02:09.59,0:02:10.22,DEFAULT,,0,0,0,,{\r}{\kf21}Uuu{\kf21}-Ooooh{\kf21}-Uuu~
+Dialogue: 0,0:02:10.51,0:02:11.09,DEFAULT,,0,0,0,,{\r}{\kf22}Uuu{\kf22}-Ooooh{\kf14}-Uuu~
+Dialogue: 0,0:02:11.20,0:02:11.95,DEFAULT,,0,0,0,,{\r}{\kf17}Come{\kf17} on{\kf25} Flut{\kf16}ters
+Dialogue: 0,0:02:12.06,0:02:12.93,DEFAULT,,0,0,0,,{\r}{\kf16}Let's{\kf23} go{\kf23} fly{\kf24}ing
+Dialogue: 0,0:02:13.04,0:02:14.77,DEFAULT,,0,0,0,,{\r}{\kf36}Ah{\kf36} ah{\kf55} ah{\kf27} yeah{\kf19}~
+Dialogue: 0,0:02:14.89,0:02:15.64,DEFAULT,,0,0,0,,{\r}{\kf17}Come{\kf17} on{\kf25} Flut{\kf16}ters
+Dialogue: 0,0:02:15.75,0:02:16.62,DEFAULT,,0,0,0,,{\r}{\kf16}Let's{\kf23} go{\kf23} fly{\kf24}ing
+Dialogue: 0,0:02:16.96,0:02:17.60,DEFAULT,,0,0,0,,{\r}{\kf21}Uuu{\kf21}-Ooooh{\kf21}-Uuu~
+Dialogue: 0,0:02:17.88,0:02:18.46,DEFAULT,,0,0,0,,{\r}{\kf22}Uuu{\kf22}-Ooooh{\kf14}-Uuu~
+Dialogue: 0,0:02:18.58,0:02:19.90,DEFAULT,,0,0,0,,{\r}{\kf21}I'm{\kf21} a{\kf21} po{\kf21}ny{\kf49} girl
+Dialogue: 0,0:02:20.42,0:02:22.26,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf21} a{\kf21} po{\kf21}ny{\kf50} world{\kf21}~{\kf29}~
+Dialogue: 0,0:02:22.72,0:02:23.82,DEFAULT,,0,0,0,,{\r}{\kf23}Life{\kf16} with{\kf47} ma{\kf23}gic
+Dialogue: 0,0:02:24.57,0:02:25.66,DEFAULT,,0,0,0,,{\r}{\kf22}It's{\kf22} fan{\kf44}tas{\kf21}tic
+Dialogue: 0,0:02:25.95,0:02:27.22,DEFAULT,,0,0,0,,{\r}{\kf22}You{\kf22} can{\kf22} make{\kf22} me{\kf39} fly
+Dialogue: 0,0:02:27.56,0:02:29.64,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} take{\kf22} me{\kf22} to{\kf22} the{\kf44} sky{\kf22}~{\kf31}~
+Dialogue: 0,0:02:29.87,0:02:31.19,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22}ma{\kf22}gi{\kf44}na{\kf23}tion
+Dialogue: 0,0:02:31.48,0:02:33.21,DEFAULT,,0,0,0,,{\r}{\kf22}Ma{\kf22}gi{\kf22}cal{\kf22} cre{\kf50}a{\kf22}tion{\kf13}~
+Dialogue: 0,0:02:33.38,0:02:34.65,DEFAULT,,0,0,0,,{\r}{\kf15}I'm{\kf22} a{\kf22} po{\kf22}ny{\kf46} girl
+Dialogue: 0,0:02:35.17,0:02:37.01,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf21} a{\kf21} po{\kf21}ny{\kf50} world{\kf21}~{\kf29}~
+Dialogue: 0,0:02:37.47,0:02:38.57,DEFAULT,,0,0,0,,{\r}{\kf22}Life{\kf22} with{\kf44} ma{\kf21}gic
+Dialogue: 0,0:02:39.32,0:02:40.41,DEFAULT,,0,0,0,,{\r}{\kf22}It's{\kf22} fan{\kf44}tas{\kf21}tic
+Dialogue: 0,0:02:40.70,0:02:41.97,DEFAULT,,0,0,0,,{\r}{\kf21}You{\kf21} can{\kf21} make{\kf21} me{\kf43} fly
+Dialogue: 0,0:02:42.31,0:02:44.39,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} take{\kf22} me{\kf22} to{\kf22} the{\kf44} sky{\kf22}~{\kf31}~
+Dialogue: 0,0:02:44.62,0:02:45.94,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf23}ma{\kf23}gi{\kf39}na{\kf25}tion
+Dialogue: 0,0:02:46.23,0:02:47.96,DEFAULT,,0,0,0,,{\r}{\kf23}Ma{\kf23}gi{\kf23}cal{\kf23} cre{\kf45}a{\kf23}tion{\kf13}~
+Dialogue: 0,0:02:48.08,0:02:48.88,DEFAULT,,0,0,0,,{\r}{\kf22}Come{\kf22} on{\kf22} Flut{\kf15}ters
+Dialogue: 0,0:02:49.00,0:02:49.81,DEFAULT,,0,0,0,,{\r}{\kf22}Let's{\kf22} go{\kf22} fly{\kf15}ing
+Dialogue: 0,0:02:49.92,0:02:51.65,DEFAULT,,0,0,0,,{\r}{\kf41}Ah{\kf41} ah{\kf49} ah{\kf25} yeah{\kf17}~
+Dialogue: 0,0:02:51.76,0:02:52.57,DEFAULT,,0,0,0,,{\r}{\kf22}Come{\kf22} on{\kf22} Flut{\kf15}ters
+Dialogue: 0,0:02:52.69,0:02:53.55,DEFAULT,,0,0,0,,{\r}{\kf22}Let's{\kf22} go{\kf22} fly{\kf20}ing
+Dialogue: 0,0:02:53.84,0:02:54.47,DEFAULT,,0,0,0,,{\r}{\kf21}Uuu{\kf21}-Ooooh{\kf21}-Uuu~
+Dialogue: 0,0:02:54.76,0:02:55.34,DEFAULT,,0,0,0,,{\r}{\kf22}Uuu{\kf22}-Ooooh{\kf14}-Uuu~
+Dialogue: 0,0:02:55.45,0:02:56.26,DEFAULT,,0,0,0,,{\r}{\kf22}Come{\kf22} on{\kf22} Flut{\kf15}ters
+Dialogue: 0,0:02:56.37,0:02:57.18,DEFAULT,,0,0,0,,{\r}{\kf22}Let's{\kf22} go{\kf22} fly{\kf15}ing
+Dialogue: 0,0:02:57.30,0:02:59.02,DEFAULT,,0,0,0,,{\r}{\kf36}Ah{\kf36} ah{\kf55} ah{\kf27} yeah{\kf19}~
+Dialogue: 0,0:02:59.14,0:02:59.95,DEFAULT,,0,0,0,,{\r}{\kf24}Come{\kf16} on{\kf24} Flut{\kf17}ters
+Dialogue: 0,0:03:00.06,0:03:00.93,DEFAULT,,0,0,0,,{\r}{\kf22}Let's{\kf22} go{\kf22} fly{\kf20}ing
+Dialogue: 0,0:03:01.27,0:03:01.91,DEFAULT,,0,0,0,,{\r}{\kf21}Uuu{\kf21}-Ooooh{\kf21}-Uuu~
+Dialogue: 0,0:03:02.19,0:03:02.83,DEFAULT,,0,0,0,,{\r}{\kf21}Uuu{\kf21}-Ooooh{\kf21}-Uuu~

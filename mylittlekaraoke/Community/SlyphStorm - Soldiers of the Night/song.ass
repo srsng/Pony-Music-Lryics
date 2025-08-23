@@ -1,63 +1,70 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Soldiers of the Night
+Artist: SlyphStorm, 4EverfreeBrony, Midnight Melody
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:37.50,0:00:41.06,DEFAULT,,0,0,0,,{\kf27}Cold{\kf30} win{\kf19}ter{\kf27} fast{\kf19} ap{\kf27}proa{\kf34}ches{\kf23} as{\kf15} we{\kf23} fear{\kf19}ful{\kf15}ly{\kf30} wait
-Dialogue: 0,0:00:41.25,0:00:45.33,DEFAULT,,0,0,0,,{\kf12}The{\kf27} sim{\kf38}plest{\kf27} of{\kf30} sim{\kf15}ple{\kf30} crea{\kf27}tures{\kf34} bound{\kf12} by{\kf12} the{\kf27} laws{\kf19} of{\kf34} fate
-Dialogue: 0,0:00:45.60,0:00:47.81,DEFAULT,,0,0,0,,{\kf23}As{\kf19} we{\kf19} shi{\kf30}vered{\kf19} in{\kf8} the{\kf19} gut{\kf38}ters
-Dialogue: 0,0:00:48.60,0:00:50.21,DEFAULT,,0,0,0,,{\kf27}Far{\kf19} a{\kf23}way{\kf23} from{\kf19} home{\kf23}~
-Dialogue: 0,0:00:50.70,0:00:53.17,DEFAULT,,0,0,0,,{\kf27}We{\kf19} lost{\kf15} the{\kf38} last{\kf30} ves{\kf30}tige{\kf12} of{\kf23} hope{\kf23}~
-Dialogue: 0,0:00:53.43,0:00:54.86,DEFAULT,,0,0,0,,{\kf34}Freez{\kf23}ing{\kf30} and{\kf15} a{\kf34}lone
-Dialogue: 0,0:00:55.57,0:00:59.85,DEFAULT,,0,0,0,,{\kf23}A{\kf23} sha{\kf19}dow{\kf23} came{\kf15} to{\kf19} us{\kf15} in{\kf23} our{\kf34} dreams{\kf23} with{\kf27} tales{\kf27} of{\kf19} bet{\kf19}ter{\kf30} times{\kf34}~
-Dialogue: 0,0:01:00.33,0:01:04.42,DEFAULT,,0,0,0,,{\kf19}The{\kf30} ro{\kf30}yal{\kf30} Prin{\kf23}cess{\kf19} of{\kf15} the{\kf30} Night{\kf19} for{\kf34}gave{\kf23} us{\kf19} for{\kf19} our{\kf30} crimes
-Dialogue: 0,0:01:04.57,0:01:09.41,DEFAULT,,0,0,0,,{\kf15}And{\kf27} as{\kf15} the{\kf19} So{\kf15}lar{\kf34} Sis{\kf19}ter{\kf30} o{\kf19}ver{\kf15}looked{\kf12} us,{\kf27} noc{\kf23}tur{\kf30}nal{\kf27} we{\kf19} be{\kf19}came{\kf30}~
-Dialogue: 0,0:01:09.93,0:01:14.02,DEFAULT,,0,0,0,,{\kf23}We{\kf27} wore{\kf12} a{\kf45} dark{\kf15}er{\kf23} ar{\kf42}mor,{\kf27} and{\kf23} we{\kf27} car{\kf15}ried{\kf12} a{\kf27} dif{\kf15}ferent{\kf34} flame
-Dialogue: 0,0:01:15.03,0:01:16.87,DEFAULT,,0,0,0,,{\kf15}You{\kf19} now{\kf15} be{\kf27}long{\kf8} to{\kf12} a{\kf19} grea{\kf12}ter{\kf23} good
-Dialogue: 0,0:01:17.21,0:01:18.90,DEFAULT,,0,0,0,,{\kf8}And{\kf8} you{\kf23} ans{\kf15}wer{\kf12} to{\kf12} a{\kf19} high{\kf12}er{\kf38} call!
-Dialogue: 0,0:01:19.98,0:01:21.67,DEFAULT,,0,0,0,,{\kf12}You{\kf19} are{\kf15} part{\kf12} of{\kf12} the{\kf23} best{\kf15} and{\kf19} great{\kf15}est
-Dialogue: 0,0:01:21.78,0:01:23.43,DEFAULT,,0,0,0,,{\kf12}And{\kf15} there{\kf19} is{\kf19} no{\kf19} room{\kf15} for{\kf23} fail{\kf15}ure!
-Dialogue: 0,0:01:24.90,0:01:26.55,DEFAULT,,0,0,0,,{\kf12}You{\kf12} will{\kf15} leave{\kf12} be{\kf19}hind{\kf19} all{\kf27} weak{\kf23}ness!
-Dialogue: 0,0:01:26.88,0:01:28.31,DEFAULT,,0,0,0,,{\kf12}You{\kf12} are{\kf15} no{\kf23} long{\kf12}er{\kf8} a{\kf19} mor{\kf19}tal!
-Dialogue: 0,0:01:29.77,0:01:31.61,DEFAULT,,0,0,0,,{\kf19}You{\kf19} are{\kf23} now{\kf19} in{\kf27}des{\kf23}truc{\kf12}ti{\kf12}ble
-Dialogue: 0,0:01:31.80,0:01:33.18,DEFAULT,,0,0,0,,{\kf38}Sol{\kf19}dier{\kf15} of{\kf12} the{\kf30} Night!
-Dialogue: 0,0:01:34.27,0:01:38.21,DEFAULT,,0,0,0,,{\kf23}As{\kf23} the{\kf30} sun{\kf19}set{\kf27} fades{\kf15} a{\kf30}way,{\kf19} the{\kf27} yel{\kf19}low{\kf27} turns{\kf15} to{\kf23} grey{\kf27}~
-Dialogue: 0,0:01:38.70,0:01:42.82,DEFAULT,,0,0,0,,{\kf15}The{\kf38} moon{\kf27}light{\kf34} shines{\kf15} a{\kf23}cross{\kf19} the{\kf23} land,{\kf27} a{\kf30} call{\kf27}ing{\kf23} we{\kf15} o{\kf34}bey
-Dialogue: 0,0:01:43.53,0:01:47.70,DEFAULT,,0,0,0,,{\kf23}The{\kf34} pur{\kf23}est{\kf27} black{\kf15} of{\kf23} sha{\kf23}dows{\kf34} rise{\kf23} to{\kf27} fight{\kf15} a{\kf30} great{\kf19}er{\kf42} fight
-Dialogue: 0,0:01:48.41,0:01:52.46,DEFAULT,,0,0,0,,{\kf15}My{\kf19} bro{\kf12}thers{\kf15} and{\kf34} sis{\kf23}ters{\kf23} move{\kf15} as{\kf38} one,{\kf19} we{\kf34} Sol{\kf23}diers{\kf23} of{\kf15} the{\kf42} Night
-Dialogue: 0,0:01:55.53,0:01:59.77,DEFAULT,,0,0,0,,{\kf23}We{\kf23} stand{\kf19} at{\kf23} arms{\kf23} be{\kf30}fore{\kf27} our{\kf27} liege,{\kf23} each{\kf15} one{\kf8} of{\kf23} us{\kf19} just{\kf12} a{\kf27} pawn{\kf27}~
-Dialogue: 0,0:02:00.07,0:02:04.61,DEFAULT,,0,0,0,,{\kf19}Now{\kf15} we{\kf30} reign{\kf30} su{\kf23}preme{\kf38} through{\kf15}out{\kf12} the{\kf38} dark,{\kf27} un{\kf30}til{\kf12} the{\kf27} light{\kf23} of{\kf49} dawn
-Dialogue: 0,0:02:05.17,0:02:09.15,DEFAULT,,0,0,0,,{\kf15}The{\kf19} me{\kf15}mo{\kf27}ries{\kf23} we{\kf23} have{\kf19} left{\kf15} be{\kf19}hind{\kf12} us{\kf27} might{\kf23} crip{\kf34}ple{\kf15} les{\kf23}ser{\kf27} men
-Dialogue: 0,0:02:09.33,0:02:14.13,DEFAULT,,0,0,0,,{\kf19}But{\kf30} those{\kf15} of{\kf30} us{\kf27} brought{\kf19} back{\kf15} from{\kf34} no{\kf30}thing{\kf23} have{\kf23} ri{\kf27}sen{\kf23} once{\kf23} a{\kf42}gain
-Dialogue: 0,0:02:14.85,0:02:18.86,DEFAULT,,0,0,0,,{\kf15}We{\kf19} see{\kf19} it{\kf19} in{\kf19} her{\kf45} moon{\kf27}lit{\kf27} eyes,{\kf12} a{\kf23} fu{\kf15}ry{\kf27} held{\kf23} at{\kf38} bay
-Dialogue: 0,0:02:19.05,0:02:23.51,DEFAULT,,0,0,0,,{\kf15}A{\kf19} bat{\kf15}tle{\kf45} wait{\kf23}ing{\kf19} in{\kf15} the{\kf30} a{\kf30}shes,{\kf19} to{\kf27} re{\kf15}sume{\kf19}~{\kf27} a{\kf19}no{\kf23}ther{\kf23} day
-Dialogue: 0,0:02:23.92,0:02:28.38,DEFAULT,,0,0,0,,{\kf15}And{\kf15} as{\kf23} we{\kf15} dis{\kf30}ap{\kf42}pear{\kf23} in{\kf19}to{\kf12} the{\kf23} sha{\kf34}dows,{\kf12} we{\kf19} fill{\kf15} their{\kf27} souls{\kf19} with{\kf30} dread
-Dialogue: 0,0:02:28.65,0:02:33.33,DEFAULT,,0,0,0,,{\kf12}We{\kf23} fight{\kf23} to{\kf30}night{\kf27} to{\kf23} rule{\kf15} to{\kf27}mor{\kf38}row,{\kf23} and{\kf15} a{\kf34} dark{\kf23} day{\kf27} lies{\kf19} a{\kf42}head
-Dialogue: 0,0:02:53.43,0:02:57.41,DEFAULT,,0,0,0,,{\kf23}As{\kf19} the{\kf30} sun{\kf23}set{\kf27} fades{\kf19} a{\kf30}way,{\kf23} the{\kf23} yel{\kf30}low{\kf23} turns{\kf15} to{\kf23} grey{\kf27}~
-Dialogue: 0,0:02:57.93,0:03:02.13,DEFAULT,,0,0,0,,{\kf19}The{\kf34} moon{\kf27}light{\kf23} shines{\kf19} a{\kf23}cross{\kf19} the{\kf30} land,{\kf19} a{\kf34} cal{\kf23}ling{\kf23} we{\kf19} o{\kf42}bey
-Dialogue: 0,0:03:02.73,0:03:07.01,DEFAULT,,0,0,0,,{\kf19}The{\kf30} pur{\kf27}est{\kf23} black{\kf19} of{\kf23} sha{\kf19}dows{\kf30} rise{\kf19} to{\kf27} fight{\kf15} a{\kf30} great{\kf15}er{\kf23} fight{\kf30}~
-Dialogue: 0,0:03:07.50,0:03:11.66,DEFAULT,,0,0,0,,{\kf23}My{\kf23} bro{\kf12}thers{\kf12} and{\kf30} sis{\kf27}ters{\kf23} move{\kf15} as{\kf27} one,{\kf27} we{\kf34} Sol{\kf27}diers{\kf23} of{\kf15} the{\kf38} Night
-Dialogue: 0,0:04:09.97,0:04:14.10,DEFAULT,,0,0,0,,{\kf15}The{\kf27} times{\kf19} we{\kf12} live{\kf19} in{\kf34} now{\kf27} have{\kf45} changed,{\kf23} ho{\kf19}nor{\kf19} is{\kf27} long{\kf42} gone
-Dialogue: 0,0:04:14.28,0:04:16.98,DEFAULT,,0,0,0,,{\kf8}And{\kf27} now{\kf27} that{\kf27} good{\kf15} and{\kf23} e{\kf15}vil{\kf19} are{\kf23} shades{\kf15} of{\kf19} grey{\kf12}~
-Dialogue: 0,0:04:17.25,0:04:18.93,DEFAULT,,0,0,0,,{\kf12}A{\kf30} cru{\kf15}el{\kf15} im{\kf23}passe{\kf19} is{\kf38} drawn
-Dialogue: 0,0:04:19.65,0:04:21.90,DEFAULT,,0,0,0,,{\kf12}For{\kf23} all{\kf23} the{\kf23} good{\kf23} we{\kf23} have{\kf19} cre{\kf30}at{\kf12}ed
-Dialogue: 0,0:04:21.97,0:04:23.58,DEFAULT,,0,0,0,,{\kf19}It{\kf19} does{\kf15}n't{\kf27} make{\kf23} us{\kf38} right
-Dialogue: 0,0:04:23.66,0:04:26.17,DEFAULT,,0,0,0,,{\kf23}But{\kf23} those{\kf23} of{\kf30} us{\kf23} who{\kf27} hide{\kf12} in{\kf27} dark{\kf27}ness
-Dialogue: 0,0:04:26.36,0:04:28.42,DEFAULT,,0,0,0,,{\kf30}See{\kf12} a{\kf42} dif{\kf27}ferent{\kf23} kind{\kf15} of{\kf38} light
-Dialogue: 0,0:04:58.16,0:05:02.25,DEFAULT,,0,0,0,,{\kf38}As{\kf19} the{\kf30} sun{\kf23}set{\kf23} fades{\kf19} a{\kf38}way,{\kf23} the{\kf23} yel{\kf27}low{\kf30} turns{\kf15} to{\kf27} grey{\kf27}~
-Dialogue: 0,0:05:02.73,0:05:06.93,DEFAULT,,0,0,0,,{\kf15}The{\kf27} moon{\kf23}light{\kf30} shines{\kf19} a{\kf27}cross{\kf15} the{\kf34} land,{\kf19} a{\kf34} cal{\kf19}ling{\kf27} we{\kf19} o{\kf42}bey
-Dialogue: 0,0:05:07.57,0:05:11.70,DEFAULT,,0,0,0,,{\kf19}The{\kf34} pur{\kf19}est{\kf27} black{\kf19} of{\kf19} sha{\kf23}dows{\kf34} rise{\kf23} to{\kf27} fight{\kf19} a{\kf27} great{\kf19}er{\kf45} fight
-Dialogue: 0,0:05:12.33,0:05:16.50,DEFAULT,,0,0,0,,{\kf19}My{\kf15} bro{\kf12}thers{\kf15} and{\kf34} sis{\kf23}ters{\kf23} move{\kf12} as{\kf27} one,{\kf23} we{\kf38} Sol{\kf19}diers{\kf23} of{\kf15} the{\kf38} Night
-Dialogue: 0,0:05:17.25,0:05:21.26,DEFAULT,,0,0,0,,{\kf15}The{\kf23} times{\kf19} we{\kf19} live{\kf19} in{\kf34} now{\kf30} have{\kf19} changed{\kf15}~,{\kf27} ho{\kf19}nor{\kf19} is{\kf27} long{\kf38} gone
-Dialogue: 0,0:05:21.48,0:05:24.22,DEFAULT,,0,0,0,,{\kf12}And{\kf19} now{\kf27} that{\kf19} good{\kf12} and{\kf30} e{\kf12}vil{\kf23} are{\kf19} shades{\kf12} of{\kf15} grey{\kf23}~
-Dialogue: 0,0:05:24.45,0:05:26.21,DEFAULT,,0,0,0,,{\kf8}A{\kf30} cruel{\kf27} im{\kf27}passe{\kf19} is{\kf42} drawn
-Dialogue: 0,0:05:26.88,0:05:29.02,DEFAULT,,0,0,0,,{\kf12}For{\kf23} all{\kf12} the{\kf30} good{\kf23} we{\kf27} have{\kf19} cre{\kf23}at{\kf12}ed
-Dialogue: 0,0:05:29.21,0:05:30.86,DEFAULT,,0,0,0,,{\kf12}It{\kf19} does{\kf15}n't{\kf27} make{\kf27} us{\kf19} right{\kf23}~
-Dialogue: 0,0:05:31.01,0:05:33.41,DEFAULT,,0,0,0,,{\kf15}But{\kf23} those{\kf15} of{\kf19} us{\kf23} who{\kf23} hide{\kf12} in{\kf34} dark{\kf23}ness
-Dialogue: 0,0:05:33.60,0:05:35.62,DEFAULT,,0,0,0,,{\kf30}See{\kf15} a{\kf30} dif{\kf23}ferent{\kf23} kind{\kf15} of{\kf34} light
+Dialogue: 0,0:00:37.50,0:00:41.06,DEFAULT,,0,0,0,,{\r}{\kf31}Cold{\kf35} win{\kf22}ter{\kf31} fast{\kf22} ap{\kf31}proa{\kf40}ches{\kf26} as{\kf18} we{\kf26} fear{\kf22}ful{\kf18}ly{\kf34} wait
+Dialogue: 0,0:00:41.25,0:00:45.34,DEFAULT,,0,0,0,,{\r}{\kf14}The{\kf32} sim{\kf45}plest{\kf32} of{\kf36} sim{\kf18}ple{\kf36} crea{\kf32}tures{\kf41} bound{\kf14} by{\kf14} the{\kf32} laws{\kf23} of{\kf40} fate
+Dialogue: 0,0:00:45.60,0:00:47.81,DEFAULT,,0,0,0,,{\r}{\kf29}As{\kf24} we{\kf24} shi{\kf38}vered{\kf24} in{\kf10} the{\kf24} gut{\kf48}ters
+Dialogue: 0,0:00:48.60,0:00:50.21,DEFAULT,,0,0,0,,{\r}{\kf32}Far{\kf23} a{\kf28}way{\kf28} from{\kf23} home{\kf27}~
+Dialogue: 0,0:00:50.70,0:00:53.17,DEFAULT,,0,0,0,,{\r}{\kf30}We{\kf22} lost{\kf17} the{\kf44} last{\kf35} ves{\kf35}tige{\kf13} of{\kf26} hope{\kf26}~
+Dialogue: 0,0:00:53.44,0:00:54.86,DEFAULT,,0,0,0,,{\r}{\kf36}Freez{\kf24}ing{\kf32} and{\kf16} a{\kf34}lone
+Dialogue: 0,0:00:55.58,0:00:59.85,DEFAULT,,0,0,0,,{\r}{\kf26}A{\kf26} sha{\kf22}dow{\kf26} came{\kf17} to{\kf22} us{\kf17} in{\kf26} our{\kf39} dreams{\kf26} with{\kf30} tales{\kf30} of{\kf22} bet{\kf22}ter{\kf35} times{\kf41}~
+Dialogue: 0,0:01:00.34,0:01:04.42,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf36} ro{\kf36}yal{\kf36} Prin{\kf27}cess{\kf23} of{\kf18} the{\kf36} Night{\kf23} for{\kf41}gave{\kf27} us{\kf23} for{\kf23} our{\kf37} crimes
+Dialogue: 0,0:01:04.58,0:01:09.41,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf33} as{\kf19} the{\kf23} So{\kf19}lar{\kf42} Sis{\kf23}ter{\kf37} o{\kf23}ver{\kf19}looked{\kf14} us,{\kf33} noc{\kf28}tur{\kf37}nal{\kf33} we{\kf23} be{\kf23}came{\kf36}~
+Dialogue: 0,0:01:09.94,0:01:14.03,DEFAULT,,0,0,0,,{\r}{\kf26}We{\kf30} wore{\kf13} a{\kf51} dark{\kf17}er{\kf26} ar{\kf47}mor,{\kf30} and{\kf26} we{\kf30} car{\kf17}ried{\kf13} a{\kf30} dif{\kf17}ferent{\kf36} flame
+Dialogue: 0,0:01:15.04,0:01:16.88,DEFAULT,,0,0,0,,{\r}{\kf19}You{\kf24} now{\kf19} be{\kf33}long{\kf10} to{\kf14} a{\kf24} grea{\kf14}ter{\kf27} good
+Dialogue: 0,0:01:17.21,0:01:18.90,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf10} you{\kf27} ans{\kf18}wer{\kf13} to{\kf13} a{\kf22} high{\kf13}er{\kf43} call!
+Dialogue: 0,0:01:19.99,0:01:21.67,DEFAULT,,0,0,0,,{\r}{\kf14}You{\kf23} are{\kf18} part{\kf14} of{\kf14} the{\kf27} best{\kf18} and{\kf23} great{\kf18}est
+Dialogue: 0,0:01:21.79,0:01:23.44,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf18} there{\kf23} is{\kf23} no{\kf23} room{\kf18} for{\kf28} fail{\kf18}ure!
+Dialogue: 0,0:01:24.90,0:01:26.55,DEFAULT,,0,0,0,,{\r}{\kf14}You{\kf14} will{\kf18} leave{\kf14} be{\kf23}hind{\kf23} all{\kf32} weak{\kf27}ness!
+Dialogue: 0,0:01:26.89,0:01:28.31,DEFAULT,,0,0,0,,{\r}{\kf14}You{\kf14} are{\kf18} no{\kf27} long{\kf14}er{\kf10} a{\kf23} mor{\kf22}tal!
+Dialogue: 0,0:01:29.78,0:01:31.61,DEFAULT,,0,0,0,,{\r}{\kf23}You{\kf23} are{\kf28} now{\kf23} in{\kf32}des{\kf28}truc{\kf14}ti{\kf13}ble
+Dialogue: 0,0:01:31.80,0:01:33.19,DEFAULT,,0,0,0,,{\r}{\kf46}Sol{\kf23}dier{\kf19} of{\kf14} the{\kf37} Night!
+Dialogue: 0,0:01:34.28,0:01:38.21,DEFAULT,,0,0,0,,{\r}{\kf28}As{\kf28} the{\kf37} sun{\kf23}set{\kf32} fades{\kf19} a{\kf37}way,{\kf23} the{\kf32} yel{\kf23}low{\kf32} turns{\kf19} to{\kf28} grey{\kf33}~
+Dialogue: 0,0:01:38.70,0:01:42.83,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf45} moon{\kf31}light{\kf40} shines{\kf18} a{\kf27}cross{\kf22} the{\kf27} land,{\kf31} a{\kf36} call{\kf31}ing{\kf27} we{\kf18} o{\kf41}bey
+Dialogue: 0,0:01:43.54,0:01:47.70,DEFAULT,,0,0,0,,{\r}{\kf27}The{\kf40} pur{\kf27}est{\kf31} black{\kf18} of{\kf27} sha{\kf27}dows{\kf40} rise{\kf27} to{\kf31} fight{\kf18} a{\kf35} great{\kf22}er{\kf46} fight
+Dialogue: 0,0:01:48.41,0:01:52.46,DEFAULT,,0,0,0,,{\r}{\kf18}My{\kf22} bro{\kf13}thers{\kf18} and{\kf40} sis{\kf26}ters{\kf26} move{\kf18} as{\kf44} one,{\kf22} we{\kf40} Sol{\kf26}diers{\kf26} of{\kf18} the{\kf48} Night
+Dialogue: 0,0:01:55.54,0:01:59.78,DEFAULT,,0,0,0,,{\r}{\kf28}We{\kf28} stand{\kf23} at{\kf28} arms{\kf28} be{\kf37}fore{\kf33} our{\kf33} liege,{\kf28} each{\kf19} one{\kf10} of{\kf28} us{\kf23} just{\kf14} a{\kf33} pawn{\kf31}~
+Dialogue: 0,0:02:00.08,0:02:04.61,DEFAULT,,0,0,0,,{\r}{\kf22}Now{\kf18} we{\kf36} reign{\kf36} su{\kf27}preme{\kf45} through{\kf18}out{\kf13} the{\kf45} dark,{\kf31} un{\kf36}til{\kf13} the{\kf31} light{\kf27} of{\kf56} dawn
+Dialogue: 0,0:02:05.17,0:02:09.15,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf23} me{\kf18}mo{\kf32}ries{\kf27} we{\kf27} have{\kf23} left{\kf18} be{\kf23}hind{\kf14} us{\kf32} might{\kf27} crip{\kf41}ple{\kf18} les{\kf27}ser{\kf29} men
+Dialogue: 0,0:02:09.34,0:02:14.14,DEFAULT,,0,0,0,,{\r}{\kf24}But{\kf38} those{\kf19} of{\kf38} us{\kf34} brought{\kf24} back{\kf19} from{\kf43} no{\kf38}thing{\kf29} have{\kf29} ri{\kf34}sen{\kf29} once{\kf29} a{\kf53}gain
+Dialogue: 0,0:02:14.85,0:02:18.86,DEFAULT,,0,0,0,,{\r}{\kf19}We{\kf23} see{\kf23} it{\kf23} in{\kf23} her{\kf56} moon{\kf33}lit{\kf33} eyes,{\kf14} a{\kf28} fu{\kf19}ry{\kf33} held{\kf28} at{\kf46} bay
+Dialogue: 0,0:02:19.05,0:02:23.51,DEFAULT,,0,0,0,,{\r}{\kf18}A{\kf22} bat{\kf18}tle{\kf53} wait{\kf26}ing{\kf22} in{\kf18} the{\kf35} a{\kf35}shes,{\kf22} to{\kf31} re{\kf18}sume{\kf22}~{\kf31} a{\kf22}no{\kf26}ther{\kf27} day
+Dialogue: 0,0:02:23.93,0:02:28.39,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf18} as{\kf27} we{\kf18} dis{\kf36}ap{\kf50}pear{\kf27} in{\kf23}to{\kf14} the{\kf27} sha{\kf41}dows,{\kf14} we{\kf23} fill{\kf18} their{\kf32} souls{\kf23} with{\kf37} dread
+Dialogue: 0,0:02:28.65,0:02:33.34,DEFAULT,,0,0,0,,{\r}{\kf13}We{\kf27} fight{\kf27} to{\kf36}night{\kf31} to{\kf27} rule{\kf18} to{\kf31}mor{\kf45}row,{\kf27} and{\kf18} a{\kf40} dark{\kf27} day{\kf31} lies{\kf22} a{\kf49}head
+Dialogue: 0,0:02:53.44,0:02:57.41,DEFAULT,,0,0,0,,{\r}{\kf27}As{\kf23} the{\kf36} sun{\kf27}set{\kf32} fades{\kf23} a{\kf36}way,{\kf27} the{\kf27} yel{\kf36}low{\kf27} turns{\kf18} to{\kf27} grey{\kf31}~
+Dialogue: 0,0:02:57.94,0:03:02.14,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf41} moon{\kf32}light{\kf27} shines{\kf23} a{\kf27}cross{\kf23} the{\kf36} land,{\kf23} a{\kf41} cal{\kf27}ling{\kf27} we{\kf23} o{\kf47}bey
+Dialogue: 0,0:03:02.74,0:03:07.01,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf37} pur{\kf33}est{\kf28} black{\kf23} of{\kf28} sha{\kf23}dows{\kf37} rise{\kf23} to{\kf33} fight{\kf19} a{\kf37} great{\kf19}er{\kf28} fight{\kf37}~
+Dialogue: 0,0:03:07.50,0:03:11.66,DEFAULT,,0,0,0,,{\r}{\kf27}My{\kf27} bro{\kf13}thers{\kf13} and{\kf36} sis{\kf31}ters{\kf27} move{\kf18} as{\kf31} one,{\kf31} we{\kf40} Sol{\kf31}diers{\kf27} of{\kf18} the{\kf46} Night
+Dialogue: 0,0:04:09.97,0:04:14.10,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf34} times{\kf24} we{\kf14} live{\kf24} in{\kf43} now{\kf34} have{\kf57} changed,{\kf29} ho{\kf24}nor{\kf24} is{\kf34} long{\kf52} gone
+Dialogue: 0,0:04:14.29,0:04:16.99,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf32} now{\kf32} that{\kf32} good{\kf18} and{\kf27} e{\kf18}vil{\kf22} are{\kf27} shades{\kf18} of{\kf22} grey{\kf12}~
+Dialogue: 0,0:04:17.25,0:04:18.94,DEFAULT,,0,0,0,,{\r}{\kf13}A{\kf34} cru{\kf17}el{\kf17} im{\kf25}passe{\kf21} is{\kf42} drawn
+Dialogue: 0,0:04:19.65,0:04:21.90,DEFAULT,,0,0,0,,{\r}{\kf14}For{\kf28} all{\kf28} the{\kf28} good{\kf28} we{\kf28} have{\kf23} cre{\kf37}at{\kf11}ed
+Dialogue: 0,0:04:21.98,0:04:23.59,DEFAULT,,0,0,0,,{\r}{\kf22}It{\kf22} does{\kf17}n't{\kf30} make{\kf26} us{\kf44} right
+Dialogue: 0,0:04:23.66,0:04:26.18,DEFAULT,,0,0,0,,{\r}{\kf27}But{\kf27} those{\kf27} of{\kf36} us{\kf27} who{\kf31} hide{\kf13} in{\kf31} dark{\kf32}ness
+Dialogue: 0,0:04:26.36,0:04:28.43,DEFAULT,,0,0,0,,{\r}{\kf34}See{\kf13} a{\kf46} dif{\kf29}ferent{\kf25} kind{\kf17} of{\kf42} light
+Dialogue: 0,0:04:58.16,0:05:02.25,DEFAULT,,0,0,0,,{\r}{\kf43}As{\kf22} the{\kf34} sun{\kf26}set{\kf26} fades{\kf22} a{\kf43}way,{\kf26} the{\kf26} yel{\kf30}low{\kf34} turns{\kf17} to{\kf30} grey{\kf30}~
+Dialogue: 0,0:05:02.74,0:05:06.94,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf32} moon{\kf27}light{\kf37} shines{\kf23} a{\kf32}cross{\kf18} the{\kf41} land,{\kf23} a{\kf41} cal{\kf23}ling{\kf32} we{\kf23} o{\kf50}bey
+Dialogue: 0,0:05:07.57,0:05:11.70,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf40} pur{\kf22}est{\kf31} black{\kf22} of{\kf22} sha{\kf27}dows{\kf40} rise{\kf27} to{\kf31} fight{\kf22} a{\kf31} great{\kf22}er{\kf53} fight
+Dialogue: 0,0:05:12.34,0:05:16.50,DEFAULT,,0,0,0,,{\r}{\kf24}My{\kf19} bro{\kf14}thers{\kf19} and{\kf43} sis{\kf28}ters{\kf28} move{\kf14} as{\kf33} one,{\kf28} we{\kf47} Sol{\kf24}diers{\kf28} of{\kf19} the{\kf48} Night
+Dialogue: 0,0:05:17.25,0:05:21.26,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf28} times{\kf24} we{\kf24} live{\kf24} in{\kf42} now{\kf38} have{\kf24} changed{\kf19}~,{\kf33} ho{\kf24}nor{\kf24} is{\kf33} long{\kf45} gone
+Dialogue: 0,0:05:21.49,0:05:24.23,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf24} now{\kf33} that{\kf24} good{\kf14} and{\kf38} e{\kf14}vil{\kf28} are{\kf24} shades{\kf14} of{\kf19} grey{\kf28}~
+Dialogue: 0,0:05:24.45,0:05:26.21,DEFAULT,,0,0,0,,{\r}{\kf10}A{\kf35} cruel{\kf31} im{\kf31}passe{\kf22} is{\kf47} drawn
+Dialogue: 0,0:05:26.89,0:05:29.02,DEFAULT,,0,0,0,,{\r}{\kf14}For{\kf27} all{\kf14} the{\kf36} good{\kf27} we{\kf32} have{\kf23} cre{\kf27}at{\kf14}ed
+Dialogue: 0,0:05:29.21,0:05:30.86,DEFAULT,,0,0,0,,{\r}{\kf13}It{\kf22} does{\kf18}n't{\kf31} make{\kf31} us{\kf22} right{\kf28}~
+Dialogue: 0,0:05:31.01,0:05:33.41,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf29} those{\kf20} of{\kf24} us{\kf29} who{\kf29} hide{\kf15} in{\kf44} dark{\kf30}ness
+Dialogue: 0,0:05:33.60,0:05:35.62,DEFAULT,,0,0,0,,{\r}{\kf36}See{\kf18} a{\kf36} dif{\kf27}ferent{\kf27} kind{\kf18} of{\kf40} light

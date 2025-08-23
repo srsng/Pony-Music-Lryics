@@ -1,37 +1,44 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Rainbow Rocks
+Artist: Equestria Girls - Rainbow Rocks
+Original Timing: mylittlekaraoke.com by sleumas2000
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.39,0:00:11.76,DEFAULT,,0,0,0,,{\kf25}We{\kf19} used{\kf13} to{\kf19} fight{\kf25} with{\kf19} each{\kf19} oth{\kf49}er
-Dialogue: 0,0:00:11.95,0:00:13.77,DEFAULT,,0,0,0,,{\kf37}Oh{\kf13}-wo{\kf19}-ah{\kf13}-wo{\kf13}-ah{\kf19}-wo{\kf19}-oah
-Dialogue: 0,0:00:13.83,0:00:16.26,DEFAULT,,0,0,0,,{\kf19}That{\kf19} was{\kf13} be{\kf25}fore{\kf19} we{\kf19} dis{\kf25}cov{\kf49}ered
-Dialogue: 0,0:00:16.38,0:00:18.21,DEFAULT,,0,0,0,,{\kf37}Oh{\kf19}-wo{\kf19}-ah{\kf19}-wo{\kf13}-ah{\kf25}-wo{\kf19}-oah
-Dialogue: 0,0:00:18.27,0:00:20.64,DEFAULT,,0,0,0,,{\kf19}That{\kf25} when{\kf19} your{\kf25} friend{\kf19}ship{\kf19} is{\kf25} re{\kf43}al
-Dialogue: 0,0:00:20.82,0:00:22.58,DEFAULT,,0,0,0,,{\kf37}Oh{\kf19}-wo{\kf13}-ah{\kf25}-wo{\kf19}-ah{\kf25}-wo{\kf13}-oah
-Dialogue: 0,0:00:22.65,0:00:25.08,DEFAULT,,0,0,0,,{\kf25}Yeah,{\kf19} You{\kf19} just{\kf25} say{\kf19} what{\kf19} you{\kf31} fe{\kf37}el
-Dialogue: 0,0:00:26.05,0:00:27.87,DEFAULT,,0,0,0,,{\kf25}And{\kf13} the{\kf25} mu{\kf19}~{\kf73}sic
-Dialogue: 0,0:00:28.24,0:00:29.88,DEFAULT,,0,0,0,,{\kf25}Yeah,{\kf19} the{\kf25} mu{\kf19}~{\kf55}sic
-Dialogue: 0,0:00:30.18,0:00:32.31,DEFAULT,,0,0,0,,{\kf25}Gets{\kf19} us{\kf25} to{\kf13} the{\kf25} top{\kf73}~
-Dialogue: 0,0:00:36.26,0:00:38.76,DEFAULT,,0,0,0,,{\kf25}As{\kf19} we{\kf25} learn{\kf25} how{\kf19} the{\kf25} Ra{\kf25}in{\kf55}bow
-Dialogue: 0,0:00:39.06,0:00:40.52,DEFAULT,,0,0,0,,{\kf25}Rain{\kf25}bow{\kf19}~{\kf61} Rocks
-Dialogue: 0,0:00:49.64,0:00:51.83,DEFAULT,,0,0,0,,{\kf19}You{\kf19} can{\kf19} pick{\kf19} up{\kf13} the{\kf25} ba{\kf49}ss
-Dialogue: 0,0:00:51.95,0:00:53.71,DEFAULT,,0,0,0,,{\kf43}Oh{\kf13}-wo{\kf19}-ah{\kf13}-wo{\kf13}-ah{\kf25}-wo{\kf13}-oah
-Dialogue: 0,0:00:53.83,0:00:56.27,DEFAULT,,0,0,0,,{\kf19}And{\kf19} you{\kf19} can{\kf25} play{\kf19} the{\kf19} guit{\kf25}ar{\kf55}~
-Dialogue: 0,0:00:56.39,0:00:58.33,DEFAULT,,0,0,0,,{\kf31}Oh{\kf19}-wo{\kf19}-ah{\kf19}-wo{\kf13}-ah{\kf19}-wo{\kf37}-oah
-Dialogue: 0,0:00:58.45,0:01:00.58,DEFAULT,,0,0,0,,{\kf19}You{\kf19} can{\kf25} bang{\kf25} on{\kf13} the{\kf25} dru{\kf37}ms
-Dialogue: 0,0:01:00.82,0:01:02.59,DEFAULT,,0,0,0,,{\kf37}Oh{\kf19}-wo{\kf19}-ah{\kf19}-wo{\kf13}-ah{\kf19}-wo{\kf19}-oah
-Dialogue: 0,0:01:02.71,0:01:05.99,DEFAULT,,0,0,0,,{\kf19}Or{\kf19} you{\kf19} can{\kf31} sing{\kf19} like{\kf13} a{\kf177} star
-Dialogue: 0,0:01:06.11,0:01:07.82,DEFAULT,,0,0,0,,{\kf19}And{\kf13} the{\kf25} mu{\kf19}~{\kf73}sic
-Dialogue: 0,0:01:08.24,0:01:09.82,DEFAULT,,0,0,0,,{\kf25}Yeah,{\kf19} the{\kf25} mu{\kf19}~{\kf49}sic
-Dialogue: 0,0:01:10.19,0:01:12.32,DEFAULT,,0,0,0,,{\kf25}Gets{\kf13} us{\kf19} to{\kf19} the{\kf31} top{\kf73}~
-Dialogue: 0,0:01:16.33,0:01:18.82,DEFAULT,,0,0,0,,{\kf19}As{\kf13} we{\kf25} learn{\kf25} how{\kf19} the{\kf19} Rain{\kf25}~{\kf61}bow
-Dialogue: 0,0:01:19.06,0:01:20.46,DEFAULT,,0,0,0,,{\kf19}Rain{\kf25}bow{\kf25}~{\kf55} Rocks
-Dialogue: 0,0:01:25.20,0:01:27.64,DEFAULT,,0,0,0,,{\kf19}As{\kf19} we{\kf25} learn{\kf31} how{\kf19} the{\kf19} Rain{\kf19}~{\kf55}bow
-Dialogue: 0,0:01:27.94,0:01:29.40,DEFAULT,,0,0,0,,{\kf19}Rain{\kf31}bow{\kf19}~{\kf61} Rocks
+Dialogue: 0,0:00:09.40,0:00:11.77,DEFAULT,,0,0,0,,{\r}{\kf32}We{\kf24} used{\kf16} to{\kf24} fight{\kf32} with{\kf24} each{\kf24} oth{\kf61}er
+Dialogue: 0,0:00:11.95,0:00:13.77,DEFAULT,,0,0,0,,{\r}{\kf52}Oh{\kf17}-wo{\kf26}-ah{\kf17}-wo{\kf17}-ah{\kf26}-wo{\kf27}-oah
+Dialogue: 0,0:00:13.84,0:00:16.27,DEFAULT,,0,0,0,,{\r}{\kf24}That{\kf24} was{\kf16} be{\kf32}fore{\kf24} we{\kf24} dis{\kf32}cov{\kf67}ered
+Dialogue: 0,0:00:16.39,0:00:18.21,DEFAULT,,0,0,0,,{\r}{\kf46}Oh{\kf23}-wo{\kf23}-ah{\kf23}-wo{\kf15}-ah{\kf30}-wo{\kf22}-oah
+Dialogue: 0,0:00:18.27,0:00:20.64,DEFAULT,,0,0,0,,{\r}{\kf23}That{\kf31} when{\kf23} your{\kf31} friend{\kf23}ship{\kf23} is{\kf31} re{\kf52}al
+Dialogue: 0,0:00:20.83,0:00:22.59,DEFAULT,,0,0,0,,{\r}{\kf44}Oh{\kf22}-wo{\kf15}-ah{\kf29}-wo{\kf22}-ah{\kf29}-wo{\kf15}-oah
+Dialogue: 0,0:00:22.65,0:00:25.08,DEFAULT,,0,0,0,,{\r}{\kf31}Yeah,{\kf24} You{\kf24} just{\kf31} say{\kf24} what{\kf24} you{\kf39} fe{\kf46}el
+Dialogue: 0,0:00:26.05,0:00:27.88,DEFAULT,,0,0,0,,{\r}{\kf29}And{\kf15} the{\kf29} mu{\kf22}~{\kf87}sic
+Dialogue: 0,0:00:28.24,0:00:29.88,DEFAULT,,0,0,0,,{\r}{\kf29}Yeah,{\kf21} the{\kf29} mu{\kf21}~{\kf64}sic
+Dialogue: 0,0:00:30.19,0:00:32.32,DEFAULT,,0,0,0,,{\r}{\kf29}Gets{\kf22} us{\kf29} to{\kf15} the{\kf29} top{\kf89}~
+Dialogue: 0,0:00:36.27,0:00:38.76,DEFAULT,,0,0,0,,{\r}{\kf28}As{\kf21} we{\kf28} learn{\kf28} how{\kf21} the{\kf28} Ra{\kf28}in{\kf67}bow
+Dialogue: 0,0:00:39.07,0:00:40.52,DEFAULT,,0,0,0,,{\r}{\kf28}Rain{\kf28}bow{\kf21}~{\kf69} Rocks
+Dialogue: 0,0:00:49.64,0:00:51.83,DEFAULT,,0,0,0,,{\r}{\kf25}You{\kf25} can{\kf25} pick{\kf25} up{\kf17} the{\kf34} ba{\kf68}ss
+Dialogue: 0,0:00:51.95,0:00:53.72,DEFAULT,,0,0,0,,{\r}{\kf56}Oh{\kf16}-wo{\kf24}-ah{\kf16}-wo{\kf16}-ah{\kf32}-wo{\kf16}-oah
+Dialogue: 0,0:00:53.84,0:00:56.27,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf23} you{\kf23} can{\kf30} play{\kf23} the{\kf23} guit{\kf30}ar{\kf68}~
+Dialogue: 0,0:00:56.39,0:00:58.34,DEFAULT,,0,0,0,,{\r}{\kf39}Oh{\kf23}-wo{\kf23}-ah{\kf23}-wo{\kf16}-ah{\kf23}-wo{\kf48}-oah
+Dialogue: 0,0:00:58.46,0:01:00.59,DEFAULT,,0,0,0,,{\r}{\kf25}You{\kf25} can{\kf33} bang{\kf33} on{\kf16} the{\kf33} dru{\kf48}ms
+Dialogue: 0,0:01:00.83,0:01:02.59,DEFAULT,,0,0,0,,{\r}{\kf46}Oh{\kf23}-wo{\kf23}-ah{\kf23}-wo{\kf15}-ah{\kf23}-wo{\kf23}-oah
+Dialogue: 0,0:01:02.71,0:01:06.00,DEFAULT,,0,0,0,,{\r}{\kf20}Or{\kf20} you{\kf20} can{\kf34} sing{\kf20} like{\kf14} a{\kf200} star
+Dialogue: 0,0:01:06.12,0:01:07.82,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf14} the{\kf28} mu{\kf21}~{\kf86}sic
+Dialogue: 0,0:01:08.25,0:01:09.83,DEFAULT,,0,0,0,,{\r}{\kf29}Yeah,{\kf22} the{\kf29} mu{\kf22}~{\kf56}sic
+Dialogue: 0,0:01:10.19,0:01:12.32,DEFAULT,,0,0,0,,{\r}{\kf29}Gets{\kf15} us{\kf22} to{\kf22} the{\kf37} top{\kf88}~
+Dialogue: 0,0:01:16.33,0:01:18.83,DEFAULT,,0,0,0,,{\r}{\kf23}As{\kf15} we{\kf30} learn{\kf30} how{\kf23} the{\kf23} Rain{\kf30}~{\kf75}bow
+Dialogue: 0,0:01:19.07,0:01:20.47,DEFAULT,,0,0,0,,{\r}{\kf21}Rain{\kf28}bow{\kf28}~{\kf63} Rocks
+Dialogue: 0,0:01:25.21,0:01:27.64,DEFAULT,,0,0,0,,{\r}{\kf22}As{\kf22} we{\kf29} learn{\kf37} how{\kf22} the{\kf22} Rain{\kf22}~{\kf67}bow
+Dialogue: 0,0:01:27.94,0:01:29.40,DEFAULT,,0,0,0,,{\r}{\kf21}Rain{\kf35}bow{\kf21}~{\kf69} Rocks

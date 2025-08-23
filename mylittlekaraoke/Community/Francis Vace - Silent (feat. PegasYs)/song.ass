@@ -1,52 +1,59 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Silent (feat. PegasYs)
+Artist: Francis Vace
+Original Timing: mylittlekaraoke.com by paradigm
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:12.95,0:00:14.99,DEFAULT,,0,0,0,,{\kf18}I{\kf26} can’t{\kf22} count{\kf18} the{\kf22} years{\kf26} since
-Dialogue: 0,0:00:15.25,0:00:17.13,DEFAULT,,0,0,0,,{\kf26}We{\kf22} all{\kf18} lost{\kf18} our{\kf22} voice{\kf35}~
-Dialogue: 0,0:00:18.41,0:00:20.07,DEFAULT,,0,0,0,,{\kf13}And{\kf13} not{\kf18} a{\kf22} day{\kf22} goes{\kf22} by
-Dialogue: 0,0:00:20.24,0:00:22.16,DEFAULT,,0,0,0,,{\kf13}That{\kf13} I{\kf18} don’t{\kf22} re{\kf13}gret{\kf18} my{\kf26} choice
-Dialogue: 0,0:00:23.99,0:00:26.21,DEFAULT,,0,0,0,,{\kf13}I{\kf13} wish{\kf13} I{\kf13} had{\kf9} the{\kf18} words{\kf18} to{\kf26} make{\kf35} them
-Dialogue: 0,0:00:26.85,0:00:27.83,DEFAULT,,0,0,0,,{\kf18}Change{\kf22} their{\kf39} ways
-Dialogue: 0,0:00:29.41,0:00:31.29,DEFAULT,,0,0,0,,{\kf13}I{\kf9} wish{\kf9} I{\kf9} had{\kf13} the{\kf13} cou{\kf22}rage{\kf22} to{\kf13}~
-Dialogue: 0,0:00:31.50,0:00:33.25,DEFAULT,,0,0,0,,{\kf22}Leave{\kf30} like{\kf18} Au{\kf18}tumn{\kf30} Blaze
-Dialogue: 0,0:00:40.41,0:00:43.10,DEFAULT,,0,0,0,,{\kf13}Now{\kf18} there's{\kf18} a{\kf26} mare{\kf18} in{\kf13} front{\kf18} of{\kf22} me{\kf26}~
-Dialogue: 0,0:00:43.49,0:00:45.49,DEFAULT,,0,0,0,,{\kf13}And{\kf13} she’s{\kf22} ask{\kf22}ing{\kf13} if{\kf18} I{\kf26} speak
-Dialogue: 0,0:00:46.04,0:00:50.18,DEFAULT,,0,0,0,,{\kf30}She{\kf22} must{\kf22} not{\kf26} know{\kf22} a{\kf30}bout{\kf30} the{\kf39} stream{\kf43}~
-Dialogue: 0,0:00:51.38,0:00:53.81,DEFAULT,,0,0,0,,{\kf18}She{\kf22} says{\kf22} her{\kf26} name{\kf18} and{\kf22} then{\kf18} re{\kf30}peats
-Dialogue: 0,0:00:54.45,0:00:56.54,DEFAULT,,0,0,0,,{\kf13}And{\kf18} then{\kf22} slumps{\kf18} down{\kf13} in{\kf22} de{\kf30}feat
-Dialogue: 0,0:00:56.88,0:01:03.02,DEFAULT,,0,0,0,,{\kf13}And{\kf13} I{\kf13} don’t{\kf26} know{\kf22} if{\kf22} I{\kf39} should{\kf39} dare{\kf35} to{\kf82} dream{\kf73}~{\kf111}~
-Dialogue: 0,0:01:16.07,0:01:18.37,DEFAULT,,0,0,0,,{\kf18}I{\kf26} lost{\kf22} track{\kf26} of{\kf22} all{\kf22} the{\kf22} things
-Dialogue: 0,0:01:18.54,0:01:20.17,DEFAULT,,0,0,0,,{\kf26}I’ve{\kf18} wan{\kf13}ted{\kf13} to{\kf26} say{\kf26}~
-Dialogue: 0,0:01:21.70,0:01:25.37,DEFAULT,,0,0,0,,{\kf18}All{\kf18} the{\kf22} thoughts{\kf30} I've{\kf22} held{\kf26} in{\kf22} so{\kf18} I{\kf18} could{\kf35} stay
-Dialogue: 0,0:01:27.03,0:01:28.57,DEFAULT,,0,0,0,,{\kf18}But{\kf22} we{\kf26} have{\kf22} peace{\kf35} now
-Dialogue: 0,0:01:28.74,0:01:30.87,DEFAULT,,0,0,0,,{\kf13}And{\kf13} sure{\kf18}ly{\kf26} peace{\kf18} must{\kf18} be{\kf18} up{\kf43}held
-Dialogue: 0,0:01:32.53,0:01:34.07,DEFAULT,,0,0,0,,{\kf13}But{\kf13} there’s{\kf9} a{\kf13} mare{\kf13} in{\kf13} front{\kf18} of{\kf18} me
-Dialogue: 0,0:01:34.24,0:01:36.80,DEFAULT,,0,0,0,,{\kf13}And{\kf13} it{\kf30} seems{\kf26} she{\kf26} wants{\kf22} to{\kf26} help{\kf39}~
-Dialogue: 0,0:01:43.54,0:01:46.35,DEFAULT,,0,0,0,,{\kf13}Now{\kf18} there's{\kf18} a{\kf26} mare{\kf18} in{\kf18} front{\kf18} of{\kf26} me{\kf43}~
-Dialogue: 0,0:01:46.61,0:01:48.61,DEFAULT,,0,0,0,,{\kf13}And{\kf18} she’s{\kf26} ask{\kf26}ing{\kf13} if{\kf18} I{\kf26} speak
-Dialogue: 0,0:01:49.17,0:01:53.35,DEFAULT,,0,0,0,,{\kf35}She{\kf26} must{\kf22} not{\kf26} know{\kf26} a{\kf35}bout{\kf26} the{\kf43} stream{\kf52}~
-Dialogue: 0,0:01:54.50,0:01:56.85,DEFAULT,,0,0,0,,{\kf18}She{\kf18} says{\kf22} her{\kf30} name{\kf22} and{\kf22} then{\kf18} re{\kf26}peats
-Dialogue: 0,0:01:57.57,0:01:59.53,DEFAULT,,0,0,0,,{\kf13}And{\kf13} then{\kf22} slumps{\kf22} down{\kf13} in{\kf18} de{\kf26}feat
-Dialogue: 0,0:01:59.96,0:02:06.19,DEFAULT,,0,0,0,,{\kf18}And{\kf18} I{\kf13} don’t{\kf22} know{\kf22} if{\kf22} I{\kf30} should{\kf39} dare{\kf35} to{\kf86} dream{\kf60}~{\kf120}~
-Dialogue: 0,0:02:07.98,0:02:10.62,DEFAULT,,0,0,0,,{\kf22}'Cause{\kf26} rain{\kf26}bows{\kf18} won't{\kf26} light{\kf13} up{\kf18} the{\kf39} sky
-Dialogue: 0,0:02:11.65,0:02:13.39,DEFAULT,,0,0,0,,{\kf13}Un{\kf18}less{\kf26} you{\kf18} let{\kf13} it{\kf39} rain
-Dialogue: 0,0:02:13.86,0:02:16.12,DEFAULT,,0,0,0,,{\kf18}No,{\kf18} you{\kf22} can't{\kf13} give{\kf13} up{\kf13} your{\kf18} laugh{\kf39}ter
-Dialogue: 0,0:02:16.93,0:02:18.73,DEFAULT,,0,0,0,,{\kf13}'Cause{\kf9} you're{\kf22} scared{\kf13} of{\kf13} a{\kf13} lit{\kf26}tle{\kf22} pain
-Dialogue: 0,0:02:19.02,0:02:21.67,DEFAULT,,0,0,0,,{\kf22}No{\kf22} rain{\kf22}bows{\kf22} won't{\kf22} light{\kf18} up{\kf18} the{\kf43} sky
-Dialogue: 0,0:02:22.52,0:02:24.36,DEFAULT,,0,0,0,,{\kf18}Un{\kf13}less{\kf22} you{\kf18} let{\kf18} it{\kf18} rain{\kf18}~
-Dialogue: 0,0:02:24.74,0:02:27.26,DEFAULT,,0,0,0,,{\kf22}No,{\kf22} you{\kf13} can't{\kf18} give{\kf18} up{\kf18} your{\kf22} laugh{\kf43}ter
-Dialogue: 0,0:02:27.60,0:02:29.86,DEFAULT,,0,0,0,,{\kf22}'Cause{\kf18} you're{\kf26} scared{\kf13} of{\kf9} a{\kf18} lit{\kf26}tle{\kf30} pain
-Dialogue: 0,0:02:30.11,0:02:32.89,DEFAULT,,0,0,0,,{\kf18}Now{\kf18} there's{\kf22} a{\kf26} mare{\kf18} in{\kf18} front{\kf18} of{\kf30} me{\kf30}~
-Dialogue: 0,0:02:33.18,0:02:35.36,DEFAULT,,0,0,0,,{\kf13}And{\kf18} she’s{\kf26} ask{\kf22}ing{\kf13} if{\kf13} I{\kf18} speak{\kf18}~
-Dialogue: 0,0:02:35.74,0:02:39.88,DEFAULT,,0,0,0,,{\kf30}She{\kf26} must{\kf26} not{\kf26} know{\kf22} a{\kf30}bout{\kf26} the{\kf43} stream{\kf43}~
-Dialogue: 0,0:02:41.07,0:02:43.51,DEFAULT,,0,0,0,,{\kf13}She{\kf18} says{\kf22} her{\kf22} name{\kf18} and{\kf18} then{\kf18} re{\kf30}peats
-Dialogue: 0,0:02:44.19,0:02:46.19,DEFAULT,,0,0,0,,{\kf13}And{\kf13} then{\kf18} slumps{\kf22} down{\kf13} in{\kf18} de{\kf26}feat
-Dialogue: 0,0:02:46.62,0:02:52.25,DEFAULT,,0,0,0,,{\kf13}And{\kf13} I{\kf26} don’t{\kf26} know{\kf26} if{\kf22} I{\kf30} should{\kf39} dare{\kf35} to{\kf86} dream{\kf52}~{\kf69}~
+Dialogue: 0,0:00:12.95,0:00:15.00,DEFAULT,,0,0,0,,{\r}{\kf27}I{\kf41} can’t{\kf34} count{\kf27} the{\kf34} years{\kf42} since
+Dialogue: 0,0:00:15.26,0:00:17.13,DEFAULT,,0,0,0,,{\r}{\kf35}We{\kf29} all{\kf24} lost{\kf24} our{\kf29} voice{\kf47}~
+Dialogue: 0,0:00:18.41,0:00:20.07,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} not{\kf27} a{\kf33} day{\kf33} goes{\kf33} by
+Dialogue: 0,0:00:20.25,0:00:22.16,DEFAULT,,0,0,0,,{\r}{\kf21}That{\kf21} I{\kf27} don’t{\kf34} re{\kf21}gret{\kf27} my{\kf41} choice
+Dialogue: 0,0:00:24.00,0:00:26.22,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf18} wish{\kf18} I{\kf18} had{\kf12} the{\kf25} words{\kf25} to{\kf37} make{\kf51} them
+Dialogue: 0,0:00:26.86,0:00:27.84,DEFAULT,,0,0,0,,{\r}{\kf22}Change{\kf27} their{\kf49} ways
+Dialogue: 0,0:00:29.42,0:00:31.29,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf13} wish{\kf13} I{\kf13} had{\kf20} the{\kf20} cou{\kf34}rage{\kf34} to{\kf21}~
+Dialogue: 0,0:00:31.51,0:00:33.25,DEFAULT,,0,0,0,,{\r}{\kf32}Leave{\kf45} like{\kf26} Au{\kf26}tumn{\kf46} Blaze
+Dialogue: 0,0:00:40.42,0:00:43.11,DEFAULT,,0,0,0,,{\r}{\kf21}Now{\kf28} there's{\kf28} a{\kf41} mare{\kf28} in{\kf21} front{\kf28} of{\kf34} me{\kf40}~
+Dialogue: 0,0:00:43.49,0:00:45.49,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} she’s{\kf34} ask{\kf34}ing{\kf21} if{\kf28} I{\kf41} speak
+Dialogue: 0,0:00:46.05,0:00:50.19,DEFAULT,,0,0,0,,{\r}{\kf48}She{\kf34} must{\kf34} not{\kf41} know{\kf34} a{\kf48}bout{\kf48} the{\kf61} stream{\kf66}~
+Dialogue: 0,0:00:51.38,0:00:53.81,DEFAULT,,0,0,0,,{\r}{\kf24}She{\kf30} says{\kf30} her{\kf36} name{\kf24} and{\kf30} then{\kf24} re{\kf45}peats
+Dialogue: 0,0:00:54.45,0:00:56.54,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf27} then{\kf34} slumps{\kf27} down{\kf20} in{\kf34} de{\kf47}feat
+Dialogue: 0,0:00:56.88,0:01:03.02,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf16} I{\kf16} don’t{\kf33} know{\kf27} if{\kf27} I{\kf49} should{\kf49} dare{\kf43} to{\kf103} dream{\kf92}~{\kf143}~
+Dialogue: 0,0:01:16.08,0:01:18.38,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf38} lost{\kf32} track{\kf38} of{\kf32} all{\kf32} the{\kf32} things
+Dialogue: 0,0:01:18.55,0:01:20.17,DEFAULT,,0,0,0,,{\r}{\kf35}I’ve{\kf23} wan{\kf17}ted{\kf17} to{\kf35} say{\kf35}~
+Dialogue: 0,0:01:21.71,0:01:25.37,DEFAULT,,0,0,0,,{\r}{\kf28}All{\kf28} the{\kf35} thoughts{\kf49} I've{\kf35} held{\kf42} in{\kf35} so{\kf28} I{\kf28} could{\kf59} stay
+Dialogue: 0,0:01:27.04,0:01:28.57,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf27} we{\kf33} have{\kf27} peace{\kf45} now
+Dialogue: 0,0:01:28.74,0:01:30.88,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf17} sure{\kf22}ly{\kf34} peace{\kf22} must{\kf22} be{\kf22} up{\kf57}held
+Dialogue: 0,0:01:32.54,0:01:34.07,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf18} there’s{\kf12} a{\kf18} mare{\kf18} in{\kf18} front{\kf25} of{\kf27} me
+Dialogue: 0,0:01:34.25,0:01:36.80,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf17} it{\kf40} seems{\kf34} she{\kf34} wants{\kf28} to{\kf34} help{\kf52}~
+Dialogue: 0,0:01:43.54,0:01:46.36,DEFAULT,,0,0,0,,{\r}{\kf19}Now{\kf25} there's{\kf25} a{\kf37} mare{\kf25} in{\kf25} front{\kf25} of{\kf37} me{\kf63}~
+Dialogue: 0,0:01:46.61,0:01:48.62,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf25} she’s{\kf38} ask{\kf38}ing{\kf19} if{\kf25} I{\kf36} speak
+Dialogue: 0,0:01:49.17,0:01:53.35,DEFAULT,,0,0,0,,{\r}{\kf50}She{\kf37} must{\kf31} not{\kf37} know{\kf37} a{\kf50}bout{\kf37} the{\kf62} stream{\kf77}~
+Dialogue: 0,0:01:54.50,0:01:56.85,DEFAULT,,0,0,0,,{\r}{\kf24}She{\kf24} says{\kf29} her{\kf41} name{\kf29} and{\kf29} then{\kf24} re{\kf35}peats
+Dialogue: 0,0:01:57.58,0:01:59.54,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} then{\kf34} slumps{\kf34} down{\kf20} in{\kf27} de{\kf41}feat
+Dialogue: 0,0:01:59.96,0:02:06.19,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} I{\kf17} don’t{\kf28} know{\kf28} if{\kf28} I{\kf39} should{\kf50} dare{\kf44} to{\kf111} dream{\kf78}~{\kf156}~
+Dialogue: 0,0:02:07.98,0:02:10.63,DEFAULT,,0,0,0,,{\r}{\kf31}'Cause{\kf37} rain{\kf37}bows{\kf25} won't{\kf37} light{\kf18} up{\kf25} the{\kf54} sky
+Dialogue: 0,0:02:11.65,0:02:13.40,DEFAULT,,0,0,0,,{\r}{\kf18}Un{\kf24}less{\kf36} you{\kf24} let{\kf18} it{\kf55} rain
+Dialogue: 0,0:02:13.87,0:02:16.13,DEFAULT,,0,0,0,,{\r}{\kf26}No,{\kf26} you{\kf32} can't{\kf19} give{\kf19} up{\kf19} your{\kf26} laugh{\kf59}ter
+Dialogue: 0,0:02:16.94,0:02:18.73,DEFAULT,,0,0,0,,{\r}{\kf18}'Cause{\kf12} you're{\kf30} scared{\kf18} of{\kf18} a{\kf18} lit{\kf36}tle{\kf29} pain
+Dialogue: 0,0:02:19.03,0:02:21.67,DEFAULT,,0,0,0,,{\r}{\kf31}No{\kf31} rain{\kf31}bows{\kf31} won't{\kf31} light{\kf25} up{\kf25} the{\kf59} sky
+Dialogue: 0,0:02:22.53,0:02:24.36,DEFAULT,,0,0,0,,{\r}{\kf26}Un{\kf20}less{\kf33} you{\kf26} let{\kf26} it{\kf26} rain{\kf26}~
+Dialogue: 0,0:02:24.74,0:02:27.26,DEFAULT,,0,0,0,,{\r}{\kf32}No,{\kf32} you{\kf19} can't{\kf25} give{\kf25} up{\kf25} your{\kf32} laugh{\kf62}ter
+Dialogue: 0,0:02:27.60,0:02:29.86,DEFAULT,,0,0,0,,{\r}{\kf31}'Cause{\kf24} you're{\kf37} scared{\kf18} of{\kf12} a{\kf24} lit{\kf37}tle{\kf43} pain
+Dialogue: 0,0:02:30.12,0:02:32.89,DEFAULT,,0,0,0,,{\r}{\kf25}Now{\kf25} there's{\kf31} a{\kf37} mare{\kf25} in{\kf25} front{\kf25} of{\kf43} me{\kf41}~
+Dialogue: 0,0:02:33.19,0:02:35.36,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf27} she’s{\kf41} ask{\kf34}ing{\kf20} if{\kf20} I{\kf27} speak{\kf29}~
+Dialogue: 0,0:02:35.75,0:02:39.89,DEFAULT,,0,0,0,,{\r}{\kf46}She{\kf39} must{\kf39} not{\kf39} know{\kf33} a{\kf46}bout{\kf39} the{\kf66} stream{\kf67}~
+Dialogue: 0,0:02:41.08,0:02:43.51,DEFAULT,,0,0,0,,{\r}{\kf20}She{\kf27} says{\kf34} her{\kf34} name{\kf27} and{\kf27} then{\kf27} re{\kf47}peats
+Dialogue: 0,0:02:44.19,0:02:46.20,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} then{\kf29} slumps{\kf36} down{\kf21} in{\kf29} de{\kf43}feat
+Dialogue: 0,0:02:46.62,0:02:52.25,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf17} I{\kf33} don’t{\kf33} know{\kf33} if{\kf28} I{\kf39} should{\kf50} dare{\kf45} to{\kf111} dream{\kf67}~{\kf90}~

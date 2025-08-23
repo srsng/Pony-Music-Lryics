@@ -1,70 +1,77 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Together
+Artist: My Little Pony G5
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.88,0:00:11.23,DEFAULT,,0,0,0,,{\kf26}Some{\kf35} days{\kf13} get{\kf13} the{\kf18} best{\kf18} of{\kf26} me
-Dialogue: 0,0:00:12.77,0:00:14.90,DEFAULT,,0,0,0,,{\kf18}Some{\kf18}times{\kf18} I{\kf18} feel{\kf18} I'm{\kf18} giv{\kf13}in'{\kf30} up{\kf13}~
-Dialogue: 0,0:00:15.46,0:00:16.61,DEFAULT,,0,0,0,,{\kf18}Giv{\kf18}in'{\kf13} up{\kf13}~{\kf18}~
-Dialogue: 0,0:00:17.08,0:00:19.43,DEFAULT,,0,0,0,,{\kf30}I'm{\kf30} not{\kf18} who{\kf18} I{\kf22} wan{\kf22}na{\kf26} be
-Dialogue: 0,0:00:20.93,0:00:23.20,DEFAULT,,0,0,0,,{\kf18}I{\kf18} know{\kf13} I'm{\kf18} not{\kf18} the{\kf13} on{\kf13}ly{\kf30} one{\kf18}~
-Dialogue: 0,0:00:24.78,0:00:28.62,DEFAULT,,0,0,0,,{\kf39}E{\kf39}very{\kf39}bo{\kf39}dy{\kf35} needs{\kf35} some{\kf39}bo{\kf26}dy
-Dialogue: 0,0:00:28.92,0:00:31.49,DEFAULT,,0,0,0,,{\kf30}I'm{\kf35} some{\kf30}bo{\kf26}dy{\kf43} too{\kf18}~
-Dialogue: 0,0:00:32.94,0:00:36.83,DEFAULT,,0,0,0,,{\kf30}If{\kf39} you{\kf35} e{\kf43}ver{\kf35} need{\kf39} some{\kf26}bo{\kf18}~{\kf22}dy
-Dialogue: 0,0:00:37.17,0:00:39.65,DEFAULT,,0,0,0,,{\kf30}I'll{\kf35} be{\kf30} there{\kf30} for{\kf39} you{\kf18}~
-Dialogue: 0,0:00:40.46,0:00:40.89,DEFAULT,,0,0,0,,{\kf43}Yeah
-Dialogue: 0,0:00:41.44,0:00:42.77,DEFAULT,,0,0,0,,{\kf18}You{\kf13} know{\kf13} the{\kf13} truth{\kf35} is
-Dialogue: 0,0:00:43.49,0:00:45.59,DEFAULT,,0,0,0,,{\kf18}We're{\kf13} not{\kf13} so{\kf13} dif{\kf22}ferent{\kf18} af{\kf13}ter{\kf35} all
-Dialogue: 0,0:00:46.91,0:00:48.37,DEFAULT,,0,0,0,,{\kf18}Can{\kf13} you{\kf22} feel{\kf35} it{\kf26}~?
-Dialogue: 0,0:00:49.61,0:00:50.97,DEFAULT,,0,0,0,,{\kf22}I{\kf13} need{\kf13} a{\kf22} friend{\kf35} too
-Dialogue: 0,0:00:51.53,0:00:53.96,DEFAULT,,0,0,0,,{\kf13}I'll{\kf18} be{\kf18} here{\kf9} to{\kf22} catch{\kf30} you{\kf13} when{\kf13} you{\kf35} fall{\kf13}~
-Dialogue: 0,0:00:55.08,0:00:56.57,DEFAULT,,0,0,0,,{\kf18}Can{\kf13} you{\kf22} feel{\kf39} it{\kf22}~?
-Dialogue: 0,0:00:57.34,0:01:00.25,DEFAULT,,0,0,0,,{\kf18}'Cause{\kf22} we're{\kf18}~{\kf18}~{\kf43}~{\kf39}~{\kf39} bet{\kf35}ter
-Dialogue: 0,0:01:01.19,0:01:02.64,DEFAULT,,0,0,0,,{\kf30}To{\kf35}ge{\kf52}ther
-Dialogue: 0,0:01:03.24,0:01:04.99,DEFAULT,,0,0,0,,{\kf30}To{\kf35}ge{\kf82}ther
-Dialogue: 0,0:01:05.84,0:01:08.49,DEFAULT,,0,0,0,,{\kf22}We're{\kf22}~{\kf22}~{\kf43}~{\kf39}~{\kf39} bet{\kf35}ter
-Dialogue: 0,0:01:09.39,0:01:10.93,DEFAULT,,0,0,0,,{\kf30}To{\kf30}ge{\kf56}ther
-Dialogue: 0,0:01:11.44,0:01:13.24,DEFAULT,,0,0,0,,{\kf30}To{\kf26}ge{\kf65}ther{\kf13}~
-Dialogue: 0,0:01:14.56,0:01:16.96,DEFAULT,,0,0,0,,{\kf39}Some{\kf35} days{\kf18} get{\kf13} the{\kf18} best{\kf22} of{\kf18} me{\kf13}~
-Dialogue: 0,0:01:18.41,0:01:20.63,DEFAULT,,0,0,0,,{\kf18}Some{\kf18}times{\kf18} I{\kf18} feel{\kf18} I'm{\kf13} not{\kf13} e{\kf26}nough{\kf18}~
-Dialogue: 0,0:01:21.06,0:01:22.30,DEFAULT,,0,0,0,,{\kf13}Not{\kf22} e{\kf18}nough{\kf13}~{\kf13}~
-Dialogue: 0,0:01:22.77,0:01:25.16,DEFAULT,,0,0,0,,{\kf26}That's{\kf35} not{\kf18} who{\kf13} I{\kf18} wan{\kf30}na{\kf18} be{\kf13}~
-Dialogue: 0,0:01:26.53,0:01:28.84,DEFAULT,,0,0,0,,{\kf22}I{\kf22} know{\kf13} I'm{\kf18} not{\kf22} the{\kf18} on{\kf13}ly{\kf35} one{\kf18}~
-Dialogue: 0,0:01:30.50,0:01:34.26,DEFAULT,,0,0,0,,{\kf39}E{\kf35}very{\kf39}bo{\kf39}dy{\kf35} needs{\kf43} some{\kf39}bo{\kf22}dy
-Dialogue: 0,0:01:34.56,0:01:37.08,DEFAULT,,0,0,0,,{\kf30}I'm{\kf30} some{\kf35}bo{\kf30}dy{\kf35} too{\kf22}~
-Dialogue: 0,0:01:38.67,0:01:42.47,DEFAULT,,0,0,0,,{\kf35}If{\kf35} you{\kf35} e{\kf30}ver{\kf39} need{\kf35} some{\kf26}bo{\kf13}~{\kf26}dy
-Dialogue: 0,0:01:42.73,0:01:45.89,DEFAULT,,0,0,0,,{\kf35}I'll{\kf30} be{\kf35} there{\kf30} for{\kf18} you{\kf13}~{\kf18}~{\kf13}~{\kf48}~
-Dialogue: 0,0:01:47.08,0:01:48.58,DEFAULT,,0,0,0,,{\kf18}You{\kf13} know{\kf13} the{\kf18} truth{\kf35} is{\kf13}~
-Dialogue: 0,0:01:49.14,0:01:51.27,DEFAULT,,0,0,0,,{\kf22}We're{\kf13} not{\kf13} so{\kf18} dif{\kf30}ferent{\kf13} af{\kf13}ter{\kf39} all
-Dialogue: 0,0:01:52.47,0:01:54.01,DEFAULT,,0,0,0,,{\kf18}Can{\kf18} you{\kf22} feel{\kf13} it{\kf52}~?
-Dialogue: 0,0:01:55.33,0:01:56.78,DEFAULT,,0,0,0,,{\kf18}I{\kf13} need{\kf13} a{\kf18} friend,{\kf35} too{\kf13}~
-Dialogue: 0,0:01:57.08,0:01:59.52,DEFAULT,,0,0,0,,{\kf18}I'll{\kf18} be{\kf18} here{\kf13} to{\kf18} catch{\kf22} you{\kf18} when{\kf13} you{\kf48} fall
-Dialogue: 0,0:02:00.72,0:02:02.17,DEFAULT,,0,0,0,,{\kf18}Can{\kf13} you{\kf26} feel{\kf22} it{\kf39}~?
-Dialogue: 0,0:02:02.98,0:02:05.89,DEFAULT,,0,0,0,,{\kf22}'Cause{\kf22} we're{\kf22}~{\kf22}~{\kf39}~{\kf43}~{\kf39} bet{\kf30}ter
-Dialogue: 0,0:02:06.83,0:02:08.28,DEFAULT,,0,0,0,,{\kf30}To{\kf35}ge{\kf52}ther
-Dialogue: 0,0:02:08.88,0:02:10.72,DEFAULT,,0,0,0,,{\kf26}To{\kf35}ge{\kf73}ther{\kf13}~
-Dialogue: 0,0:02:11.44,0:02:14.18,DEFAULT,,0,0,0,,{\kf22}We're{\kf22}~{\kf18}~{\kf43}~{\kf43}~{\kf39} bet{\kf39}ter
-Dialogue: 0,0:02:15.03,0:02:16.61,DEFAULT,,0,0,0,,{\kf30}To{\kf35}ge{\kf65}ther
-Dialogue: 0,0:02:17.08,0:02:18.84,DEFAULT,,0,0,0,,{\kf30}To{\kf35}ge{\kf65}ther{\kf13}~
-Dialogue: 0,0:02:19.65,0:02:23.49,DEFAULT,,0,0,0,,{\kf35}E{\kf39}very{\kf35}bo{\kf35}dy{\kf35} needs{\kf39} some{\kf35}bo{\kf26}dy
-Dialogue: 0,0:02:23.79,0:02:26.31,DEFAULT,,0,0,0,,{\kf30}I'm{\kf39} some{\kf39}bo{\kf26}dy{\kf43} too{\kf18}~
-Dialogue: 0,0:02:27.90,0:02:31.66,DEFAULT,,0,0,0,,{\kf35}If{\kf39} you{\kf35} e{\kf35}ver{\kf35} need{\kf39} some{\kf39}bo{\kf22}dy
-Dialogue: 0,0:02:31.96,0:02:35.03,DEFAULT,,0,0,0,,{\kf35}I'll{\kf22} be{\kf43} there{\kf22} for{\kf18} you{\kf82}~{\kf13}~{\kf18}~
-Dialogue: 0,0:02:36.31,0:02:37.85,DEFAULT,,0,0,0,,{\kf18}You{\kf13} know{\kf13} the{\kf13} truth{\kf35} is{\kf18}~
-Dialogue: 0,0:02:38.37,0:02:40.59,DEFAULT,,0,0,0,,{\kf22}We're{\kf13} not{\kf13} so{\kf13} dif{\kf22}ferent{\kf18} af{\kf13}ter{\kf26} all{\kf18}~
-Dialogue: 0,0:02:41.78,0:02:43.96,DEFAULT,,0,0,0,,{\kf13}Can{\kf13} you{\kf13} feel{\kf26} it{\kf18}~{\kf48}~{\kf39}~?
-Dialogue: 0,0:02:44.56,0:02:46.02,DEFAULT,,0,0,0,,{\kf18}I{\kf13} need{\kf9} a{\kf22} friend{\kf35} too{\kf13}~
-Dialogue: 0,0:02:46.31,0:02:48.79,DEFAULT,,0,0,0,,{\kf22}I'll{\kf18} be{\kf18} here{\kf13} to{\kf13} catch{\kf35} you{\kf13} when{\kf13} you{\kf30} fall{\kf13}~
-Dialogue: 0,0:02:49.99,0:02:51.87,DEFAULT,,0,0,0,,{\kf13}Can{\kf18} you{\kf35} feel{\kf39} it{\kf48}~?
-Dialogue: 0,0:02:52.21,0:02:55.12,DEFAULT,,0,0,0,,{\kf22}'Cause{\kf22} we're{\kf22}~{\kf22}~{\kf43}~{\kf39}~{\kf39} bet{\kf30}ter
-Dialogue: 0,0:02:56.02,0:02:57.55,DEFAULT,,0,0,0,,{\kf30}To{\kf30}ge{\kf56}ther
-Dialogue: 0,0:02:58.07,0:02:59.78,DEFAULT,,0,0,0,,{\kf35}To{\kf30}ge{\kf73}ther
-Dialogue: 0,0:03:00.72,0:03:03.32,DEFAULT,,0,0,0,,{\kf22}We're{\kf18}~{\kf22}~{\kf43}~{\kf39}~{\kf39} bet{\kf30}ter
-Dialogue: 0,0:03:04.31,0:03:05.80,DEFAULT,,0,0,0,,{\kf30}To{\kf30}ge{\kf56}ther
-Dialogue: 0,0:03:06.31,0:03:08.15,DEFAULT,,0,0,0,,{\kf35}To{\kf30}ge{\kf65}ther{\kf22}~
+Dialogue: 0,0:00:08.88,0:00:11.23,DEFAULT,,0,0,0,,{\r}{\kf41}Some{\kf55} days{\kf21} get{\kf21} the{\kf28} best{\kf28} of{\kf41} me
+Dialogue: 0,0:00:12.77,0:00:14.91,DEFAULT,,0,0,0,,{\r}{\kf23}Some{\kf23}times{\kf23} I{\kf23} feel{\kf23} I'm{\kf23} giv{\kf17}in'{\kf40} up{\kf19}~
+Dialogue: 0,0:00:15.47,0:00:16.62,DEFAULT,,0,0,0,,{\r}{\kf26}Giv{\kf26}in'{\kf19} up{\kf19}~{\kf25}~
+Dialogue: 0,0:00:17.09,0:00:19.44,DEFAULT,,0,0,0,,{\r}{\kf43}I'm{\kf43} not{\kf25} who{\kf25} I{\kf31} wan{\kf31}na{\kf37} be
+Dialogue: 0,0:00:20.94,0:00:23.20,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf25} know{\kf19} I'm{\kf25} not{\kf25} the{\kf19} on{\kf19}ly{\kf44} one{\kf25}~
+Dialogue: 0,0:00:24.78,0:00:28.63,DEFAULT,,0,0,0,,{\r}{\kf52}E{\kf52}very{\kf52}bo{\kf52}dy{\kf46} needs{\kf46} some{\kf52}bo{\kf33}dy
+Dialogue: 0,0:00:28.93,0:00:31.49,DEFAULT,,0,0,0,,{\r}{\kf43}I'm{\kf49} some{\kf43}bo{\kf37}dy{\kf61} too{\kf23}~
+Dialogue: 0,0:00:32.94,0:00:36.83,DEFAULT,,0,0,0,,{\r}{\kf41}If{\kf53} you{\kf47} e{\kf59}ver{\kf47} need{\kf53} some{\kf35}bo{\kf24}~{\kf30}dy
+Dialogue: 0,0:00:37.17,0:00:39.65,DEFAULT,,0,0,0,,{\r}{\kf41}I'll{\kf47} be{\kf41} there{\kf41} for{\kf53} you{\kf25}~
+Dialogue: 0,0:00:40.47,0:00:40.89,DEFAULT,,0,0,0,,{\r}{\kf43}Yeah
+Dialogue: 0,0:00:41.45,0:00:42.77,DEFAULT,,0,0,0,,{\r}{\kf25}You{\kf19} know{\kf19} the{\kf19} truth{\kf50} is
+Dialogue: 0,0:00:43.50,0:00:45.59,DEFAULT,,0,0,0,,{\r}{\kf25}We're{\kf19} not{\kf19} so{\kf19} dif{\kf32}ferent{\kf25} af{\kf19}ter{\kf51} all
+Dialogue: 0,0:00:46.92,0:00:48.37,DEFAULT,,0,0,0,,{\r}{\kf22}Can{\kf17} you{\kf28} feel{\kf45} it{\kf33}~?
+Dialogue: 0,0:00:49.61,0:00:50.98,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf17} need{\kf17} a{\kf29} friend{\kf45} too
+Dialogue: 0,0:00:51.53,0:00:53.97,DEFAULT,,0,0,0,,{\r}{\kf17}I'll{\kf23} be{\kf23} here{\kf12} to{\kf29} catch{\kf41} you{\kf17} when{\kf17} you{\kf46} fall{\kf19}~
+Dialogue: 0,0:00:55.08,0:00:56.58,DEFAULT,,0,0,0,,{\r}{\kf23}Can{\kf17} you{\kf29} feel{\kf52} it{\kf29}~?
+Dialogue: 0,0:00:57.35,0:01:00.25,DEFAULT,,0,0,0,,{\r}{\kf22}'Cause{\kf27} we're{\kf22}~{\kf22}~{\kf55}~{\kf49}~{\kf49} bet{\kf45}ter
+Dialogue: 0,0:01:01.19,0:01:02.64,DEFAULT,,0,0,0,,{\r}{\kf38}To{\kf43}ge{\kf64}ther
+Dialogue: 0,0:01:03.24,0:01:05.00,DEFAULT,,0,0,0,,{\r}{\kf36}To{\kf41}ge{\kf98}ther
+Dialogue: 0,0:01:05.85,0:01:08.50,DEFAULT,,0,0,0,,{\r}{\kf26}We're{\kf26}~{\kf26}~{\kf52}~{\kf47}~{\kf47} bet{\kf41}ter
+Dialogue: 0,0:01:09.40,0:01:10.94,DEFAULT,,0,0,0,,{\r}{\kf40}To{\kf40}ge{\kf74}ther
+Dialogue: 0,0:01:11.45,0:01:13.24,DEFAULT,,0,0,0,,{\r}{\kf40}To{\kf35}ge{\kf87}ther{\kf17}~
+Dialogue: 0,0:01:14.57,0:01:16.96,DEFAULT,,0,0,0,,{\r}{\kf54}Some{\kf48} days{\kf24} get{\kf18} the{\kf24} best{\kf30} of{\kf24} me{\kf17}~
+Dialogue: 0,0:01:18.41,0:01:20.64,DEFAULT,,0,0,0,,{\r}{\kf25}Some{\kf25}times{\kf25} I{\kf25} feel{\kf25} I'm{\kf18} not{\kf18} e{\kf37}nough{\kf24}~
+Dialogue: 0,0:01:21.06,0:01:22.30,DEFAULT,,0,0,0,,{\r}{\kf21}Not{\kf34} e{\kf28}nough{\kf21}~{\kf20}~
+Dialogue: 0,0:01:22.77,0:01:25.17,DEFAULT,,0,0,0,,{\r}{\kf37}That's{\kf49} not{\kf25} who{\kf18} I{\kf25} wan{\kf43}na{\kf25} be{\kf17}~
+Dialogue: 0,0:01:26.53,0:01:28.84,DEFAULT,,0,0,0,,{\r}{\kf28}I{\kf28} know{\kf17} I'm{\kf23} not{\kf28} the{\kf23} on{\kf17}ly{\kf45} one{\kf22}~
+Dialogue: 0,0:01:30.51,0:01:34.27,DEFAULT,,0,0,0,,{\r}{\kf51}E{\kf45}very{\kf51}bo{\kf51}dy{\kf45} needs{\kf56} some{\kf51}bo{\kf26}dy
+Dialogue: 0,0:01:34.57,0:01:37.09,DEFAULT,,0,0,0,,{\r}{\kf42}I'm{\kf42} some{\kf48}bo{\kf42}dy{\kf48} too{\kf30}~
+Dialogue: 0,0:01:38.67,0:01:42.47,DEFAULT,,0,0,0,,{\r}{\kf48}If{\kf48} you{\kf48} e{\kf42}ver{\kf54} need{\kf48} some{\kf36}bo{\kf18}~{\kf38}dy
+Dialogue: 0,0:01:42.73,0:01:45.89,DEFAULT,,0,0,0,,{\r}{\kf46}I'll{\kf40} be{\kf46} there{\kf40} for{\kf23} you{\kf17}~{\kf23}~{\kf17}~{\kf64}~
+Dialogue: 0,0:01:47.09,0:01:48.58,DEFAULT,,0,0,0,,{\r}{\kf24}You{\kf18} know{\kf18} the{\kf24} truth{\kf48} is{\kf18}~
+Dialogue: 0,0:01:49.14,0:01:51.28,DEFAULT,,0,0,0,,{\r}{\kf29}We're{\kf17} not{\kf17} so{\kf23} dif{\kf40}ferent{\kf17} af{\kf17}ter{\kf54} all
+Dialogue: 0,0:01:52.47,0:01:54.01,DEFAULT,,0,0,0,,{\r}{\kf22}Can{\kf22} you{\kf28} feel{\kf16} it{\kf66}~?
+Dialogue: 0,0:01:55.34,0:01:56.79,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf17} need{\kf17} a{\kf23} friend,{\kf46} too{\kf19}~
+Dialogue: 0,0:01:57.09,0:01:59.53,DEFAULT,,0,0,0,,{\r}{\kf23}I'll{\kf23} be{\kf23} here{\kf17} to{\kf23} catch{\kf29} you{\kf23} when{\kf17} you{\kf66} fall
+Dialogue: 0,0:02:00.72,0:02:02.17,DEFAULT,,0,0,0,,{\r}{\kf21}Can{\kf16} you{\kf32} feel{\kf27} it{\kf49}~?
+Dialogue: 0,0:02:02.99,0:02:05.89,DEFAULT,,0,0,0,,{\r}{\kf26}'Cause{\kf26} we're{\kf26}~{\kf26}~{\kf48}~{\kf53}~{\kf48} bet{\kf38}ter
+Dialogue: 0,0:02:06.83,0:02:08.29,DEFAULT,,0,0,0,,{\r}{\kf38}To{\kf43}ge{\kf64}ther
+Dialogue: 0,0:02:08.88,0:02:10.72,DEFAULT,,0,0,0,,{\r}{\kf32}To{\kf43}ge{\kf92}ther{\kf17}~
+Dialogue: 0,0:02:11.45,0:02:14.18,DEFAULT,,0,0,0,,{\r}{\kf26}We're{\kf26}~{\kf21}~{\kf53}~{\kf53}~{\kf47} bet{\kf48}ter
+Dialogue: 0,0:02:15.04,0:02:16.62,DEFAULT,,0,0,0,,{\r}{\kf37}To{\kf42}ge{\kf79}ther
+Dialogue: 0,0:02:17.09,0:02:18.84,DEFAULT,,0,0,0,,{\r}{\kf37}To{\kf42}ge{\kf80}ther{\kf16}~
+Dialogue: 0,0:02:19.65,0:02:23.50,DEFAULT,,0,0,0,,{\r}{\kf48}E{\kf54}very{\kf48}bo{\kf48}dy{\kf48} needs{\kf54} some{\kf48}bo{\kf37}dy
+Dialogue: 0,0:02:23.80,0:02:26.32,DEFAULT,,0,0,0,,{\r}{\kf39}I'm{\kf50} some{\kf50}bo{\kf34}dy{\kf56} too{\kf23}~
+Dialogue: 0,0:02:27.90,0:02:31.66,DEFAULT,,0,0,0,,{\r}{\kf47}If{\kf53} you{\kf47} e{\kf47}ver{\kf47} need{\kf53} some{\kf53}bo{\kf29}dy
+Dialogue: 0,0:02:31.96,0:02:35.04,DEFAULT,,0,0,0,,{\r}{\kf42}I'll{\kf27} be{\kf53} there{\kf27} for{\kf21} you{\kf101}~{\kf16}~{\kf21}~
+Dialogue: 0,0:02:36.32,0:02:37.86,DEFAULT,,0,0,0,,{\r}{\kf25}You{\kf18} know{\kf18} the{\kf18} truth{\kf49} is{\kf26}~
+Dialogue: 0,0:02:38.37,0:02:40.59,DEFAULT,,0,0,0,,{\r}{\kf31}We're{\kf18} not{\kf18} so{\kf18} dif{\kf31}ferent{\kf25} af{\kf18}ter{\kf37} all{\kf26}~
+Dialogue: 0,0:02:41.79,0:02:43.97,DEFAULT,,0,0,0,,{\r}{\kf17}Can{\kf17} you{\kf17} feel{\kf34} it{\kf22}~{\kf61}~{\kf50}~?
+Dialogue: 0,0:02:44.57,0:02:46.02,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf17} need{\kf12} a{\kf29} friend{\kf46} too{\kf18}~
+Dialogue: 0,0:02:46.32,0:02:48.80,DEFAULT,,0,0,0,,{\r}{\kf29}I'll{\kf23} be{\kf23} here{\kf17} to{\kf17} catch{\kf46} you{\kf17} when{\kf17} you{\kf40} fall{\kf19}~
+Dialogue: 0,0:02:50.00,0:02:51.88,DEFAULT,,0,0,0,,{\r}{\kf16}Can{\kf21} you{\kf43} feel{\kf48} it{\kf60}~?
+Dialogue: 0,0:02:52.22,0:02:55.12,DEFAULT,,0,0,0,,{\r}{\kf26}'Cause{\kf26} we're{\kf26}~{\kf26}~{\kf53}~{\kf48}~{\kf48} bet{\kf38}ter
+Dialogue: 0,0:02:56.02,0:02:57.56,DEFAULT,,0,0,0,,{\r}{\kf40}To{\kf40}ge{\kf74}ther
+Dialogue: 0,0:02:58.07,0:02:59.78,DEFAULT,,0,0,0,,{\r}{\kf43}To{\kf37}ge{\kf91}ther
+Dialogue: 0,0:03:00.72,0:03:03.33,DEFAULT,,0,0,0,,{\r}{\kf27}We're{\kf21}~{\kf27}~{\kf53}~{\kf48}~{\kf48} bet{\kf37}ter
+Dialogue: 0,0:03:04.31,0:03:05.81,DEFAULT,,0,0,0,,{\r}{\kf39}To{\kf39}ge{\kf72}ther
+Dialogue: 0,0:03:06.32,0:03:08.16,DEFAULT,,0,0,0,,{\r}{\kf42}To{\kf37}ge{\kf79}ther{\kf26}~

@@ -1,57 +1,64 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Svitlo Majaka
+Artist: Andy Feelin, Velvet R. Wings
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.84,0:00:08.25,DEFAULT,,0,0,0,,{\kf599}Zno{\kf599}vu{\kf639} chvý{\kf698}li
-Dialogue: 0,0:00:08.84,0:00:11.71,DEFAULT,,0,0,0,,{\kf604}Lóŭ{\kf604}liu{\kf599} kriź{\kf624} bu{\kf733}riu
-Dialogue: 0,0:00:12.20,0:00:16.05,DEFAULT,,0,0,0,,{\kf604}Ma{\kf599}ju{\kf698} vi{\kf609}sti{\kf649} z{\kf609} usich{\kf599} sto{\kf609}rín
-Dialogue: 0,0:00:18.32,0:00:20.88,DEFAULT,,0,0,0,,{\kf604}I{\kf599} ja{\kf599} ra{\kf629}dí{\kf698}ju
-Dialogue: 0,0:00:21.43,0:00:24.59,DEFAULT,,0,0,0,,{\kf609}Ko{\kf604}ly{\kf599} ne{\kf634} ču{\kf757}ju
-Dialogue: 0,0:00:25.82,0:00:28.78,DEFAULT,,0,0,0,,{\kf604}V{\kf599} efi{\kf609}ri{\kf619} sum{\kf609}ných{\kf604} no{\kf619}výn
-Dialogue: 0,0:00:31.15,0:00:33.91,DEFAULT,,0,0,0,,{\kf599}Vi{\kf599}ter{\kf619} chvy{\kf609}li{\kf599} pi{\kf609}dij{\kf609}má{\kf624}je
-Dialogue: 0,0:00:34.31,0:00:37.07,DEFAULT,,0,0,0,,{\kf599}Ko{\kf599}ra{\kf619}bli{\kf599} na{\kf604} nych{\kf614} hoj{\kf609}dá{\kf624}je
-Dialogue: 0,0:00:37.46,0:00:40.03,DEFAULT,,0,0,0,,{\kf599}Vi{\kf599}dha{\kf629}nia{\kf604}je{\kf599} vid{\kf614} zem{\kf639}lí
-Dialogue: 0,0:00:40.57,0:00:43.38,DEFAULT,,0,0,0,,{\kf604}Ma{\kf599}ja{\kf614}ka{\kf604} jas{\kf614}krá{\kf604}ve{\kf609} svi{\kf619}tlo
-Dialogue: 0,0:00:43.73,0:00:46.49,DEFAULT,,0,0,0,,{\kf594}V{\kf599} mo{\kf599}ri{\kf624} zdá{\kf604}le{\kf604}kú{\kf609} po{\kf614}mí{\kf614}tno
-Dialogue: 0,0:00:46.94,0:00:49.70,DEFAULT,,0,0,0,,{\kf599}Do{\kf599}ply{\kf639}vaj{\kf604}te,{\kf599} ko{\kf599}ra{\kf663}bli
-Dialogue: 0,0:00:50.09,0:00:52.81,DEFAULT,,0,0,0,,{\kf599}Po{\kf599}ni{\kf624} do{\kf604}pyľ{\kf604}nu{\kf594}je{\kf599} ŭ{\kf609}ča{\kf619}sno
-Dialogue: 0,0:00:53.25,0:00:56.36,DEFAULT,,0,0,0,,{\kf599}Svi{\kf599}tlo{\kf619} ma{\kf604}ja{\kf772}ka
-Dialogue: 0,0:00:56.66,0:00:59.03,DEFAULT,,0,0,0,,{\kf609}ne{\kf629} z'ha{\kf728}sne
-Dialogue: 0,0:00:59.62,0:01:02.04,DEFAULT,,0,0,0,,{\kf599}Zno{\kf599}vu{\kf639} chvý{\kf708}li
-Dialogue: 0,0:01:02.48,0:01:05.39,DEFAULT,,0,0,0,,{\kf604}Lóŭ{\kf599}liu{\kf599} kriź{\kf629} bu{\kf728}riu
-Dialogue: 0,0:01:05.93,0:01:09.83,DEFAULT,,0,0,0,,{\kf599}Ma{\kf599}ju{\kf693} vi{\kf614}sti{\kf649} z{\kf609} usich{\kf599} sto{\kf619}rín
-Dialogue: 0,0:01:12.00,0:01:14.62,DEFAULT,,0,0,0,,{\kf609}I{\kf604} ja{\kf604} ra{\kf639}dí{\kf698}ju
-Dialogue: 0,0:01:15.16,0:01:18.37,DEFAULT,,0,0,0,,{\kf604}Ko{\kf599}ly{\kf599} ne{\kf634} ču{\kf757}ju
-Dialogue: 0,0:01:19.50,0:01:22.46,DEFAULT,,0,0,0,,{\kf604}V{\kf599} efi{\kf614}ri{\kf619} sum{\kf609}ných{\kf599} no{\kf624}výn
-Dialogue: 0,0:01:24.78,0:01:27.59,DEFAULT,,0,0,0,,{\kf599}Ja{\kf599} do{\kf624} ne{\kf609}ba{\kf604} pi{\kf609}dij{\kf614}ma{\kf614}juś
-Dialogue: 0,0:01:27.89,0:01:30.70,DEFAULT,,0,0,0,,{\kf599}Ŭ{\kf599} si{\kf599}niu{\kf619} dá{\kf599}le{\kf614}čiń{\kf604} vdy{\kf599}ŭ{\kf614}lia{\kf609}juś
-Dialogue: 0,0:01:31.10,0:01:33.71,DEFAULT,,0,0,0,,{\kf599}Jak{\kf599} po{\kf629}bá{\kf604}ču{\kf604} ko{\kf609}ra{\kf644}bli
-Dialogue: 0,0:01:34.16,0:01:37.07,DEFAULT,,0,0,0,,{\kf599}Ŭ{\kf599} bo{\kf599}roť{\kf624}bí{\kf604} su{\kf609}pró{\kf609}ty{\kf604} vi{\kf624}tru
-Dialogue: 0,0:01:37.41,0:01:40.18,DEFAULT,,0,0,0,,{\kf599}Ja{\kf599} dlia{\kf609} nych{\kf599} po{\kf619}sy{\kf604}liu{\kf614} svi{\kf619}tlo
-Dialogue: 0,0:01:40.62,0:01:43.19,DEFAULT,,0,0,0,,{\kf599}Ne{\kf599} za{\kf634}hu{\kf599}bliať{\kf599}sia{\kf594} v{\kf604} im{\kf644}li
-Dialogue: 0,0:01:43.73,0:01:46.49,DEFAULT,,0,0,0,,{\kf599}Zna{\kf599}je{\kf624} po{\kf599}ni{\kf614} ne{\kf614}vi{\kf619}dó{\kf614}ma
-Dialogue: 0,0:01:46.74,0:01:52.46,DEFAULT,,0,0,0,,{\kf599}Ŭ{\kf599}si{\kf604} dis{\kf614}ta{\kf604}nu{\kf762}ťsia{\kf614} do{\kf639} do{\kf698}mu
-Dialogue: 0,0:01:53.20,0:01:55.77,DEFAULT,,0,0,0,,{\kf599}Zno{\kf604}vu{\kf649} chvý{\kf713}li
-Dialogue: 0,0:01:56.21,0:01:58.93,DEFAULT,,0,0,0,,{\kf604}Lóŭ{\kf609}liu{\kf604} kriź{\kf629} bu{\kf718}riu
-Dialogue: 0,0:01:59.57,0:02:03.47,DEFAULT,,0,0,0,,{\kf599}Ma{\kf604}ju{\kf698} vi{\kf619}sti{\kf634} z{\kf619} usich{\kf599} sto{\kf614}rín
-Dialogue: 0,0:02:05.69,0:02:08.30,DEFAULT,,0,0,0,,{\kf604}I{\kf604} ja{\kf599} ra{\kf634}dí{\kf703}ju
-Dialogue: 0,0:02:08.89,0:02:12.10,DEFAULT,,0,0,0,,{\kf604}Ko{\kf604}ly{\kf599} ne{\kf634} ču{\kf767}ju
-Dialogue: 0,0:02:13.19,0:02:16.15,DEFAULT,,0,0,0,,{\kf604}V{\kf599} efi{\kf614}ri{\kf614} sum{\kf614}ných{\kf604} no{\kf619}výn
-Dialogue: 0,0:02:18.52,0:02:21.33,DEFAULT,,0,0,0,,{\kf599}Ja{\kf599} pra{\kf619}cú{\kf614}ju{\kf599} bez{\kf609} u{\kf614}tó{\kf624}my
-Dialogue: 0,0:02:21.67,0:02:24.54,DEFAULT,,0,0,0,,{\kf599}Ne{\kf599} zna{\kf604}jó{\kf604}ma{\kf609} šče{\kf604} ni{\kf609}kó{\kf634}mu
-Dialogue: 0,0:02:24.83,0:02:27.30,DEFAULT,,0,0,0,,{\kf599}A{\kf599} ko{\kf629}lý{\kf609} na{\kf599} mo{\kf609}ri{\kf634} myr
-Dialogue: 0,0:02:27.94,0:02:30.60,DEFAULT,,0,0,0,,{\kf599}Ja{\kf599} vy{\kf624}cho{\kf599}džu{\kf614} znoŭ{\kf609} v{\kf644} efir
-Dialogue: 0,0:02:43.78,0:02:46.10,DEFAULT,,0,0,0,,{\kf599}Zno{\kf599}vu{\kf639} chvý{\kf693}li
-Dialogue: 0,0:02:46.74,0:02:49.55,DEFAULT,,0,0,0,,{\kf604}So{\kf604}bi{\kf599} loŭ{\kf629}liu{\kf723} ja
-Dialogue: 0,0:02:50.09,0:02:53.99,DEFAULT,,0,0,0,,{\kf599}Ma{\kf599}ju{\kf688} vis{\kf609}ti{\kf644} z{\kf604} usich{\kf604} sto{\kf614}rín
-Dialogue: 0,0:02:56.21,0:02:58.63,DEFAULT,,0,0,0,,{\kf609}I{\kf604} ja{\kf604} ra{\kf639}dí{\kf678}ju
-Dialogue: 0,0:02:59.37,0:03:02.58,DEFAULT,,0,0,0,,{\kf604}Ščo{\kf604} ja{\kf604} ne{\kf624} ču{\kf762}ju
-Dialogue: 0,0:03:03.71,0:03:06.62,DEFAULT,,0,0,0,,{\kf604}V{\kf599} efi{\kf614}ri{\kf614} sum{\kf609}ných{\kf599} no{\kf614}výn
-Dialogue: 0,0:03:10.03,0:03:12.94,DEFAULT,,0,0,0,,{\kf604}V{\kf599} efi{\kf614}ri{\kf614} sum{\kf609}ných{\kf599} no{\kf614}výn
+Dialogue: 0,0:00:05.84,0:00:08.26,DEFAULT,,0,0,0,,{\r}{\kf18}Zno{\kf18}vu{\kf67} chvý{\kf139}li
+Dialogue: 0,0:00:08.85,0:00:11.71,DEFAULT,,0,0,0,,{\r}{\kf23}Lóŭ{\kf23}liu{\kf18} kriź{\kf47} bu{\kf175}riu
+Dialogue: 0,0:00:12.21,0:00:16.05,DEFAULT,,0,0,0,,{\r}{\kf25}Ma{\kf19}ju{\kf145} vi{\kf32}sti{\kf82} z{\kf32} usich{\kf19} sto{\kf31}rín
+Dialogue: 0,0:00:18.32,0:00:20.89,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf18} ja{\kf18} ra{\kf55}dí{\kf142}ju
+Dialogue: 0,0:00:21.43,0:00:24.59,DEFAULT,,0,0,0,,{\r}{\kf28}Ko{\kf22}ly{\kf17} ne{\kf55} ču{\kf194}ju
+Dialogue: 0,0:00:25.82,0:00:28.78,DEFAULT,,0,0,0,,{\r}{\kf34}V{\kf25} efi{\kf42}ri{\kf59} sum{\kf42}ných{\kf34} no{\kf60}výn
+Dialogue: 0,0:00:31.15,0:00:33.92,DEFAULT,,0,0,0,,{\r}{\kf21}Vi{\kf21}ter{\kf50} chvy{\kf35}li{\kf21} pi{\kf35}dij{\kf35}má{\kf58}je
+Dialogue: 0,0:00:34.31,0:00:37.07,DEFAULT,,0,0,0,,{\r}{\kf21}Ko{\kf21}ra{\kf50}bli{\kf21} na{\kf28} nych{\kf42} hoj{\kf35}dá{\kf58}je
+Dialogue: 0,0:00:37.47,0:00:40.03,DEFAULT,,0,0,0,,{\r}{\kf20}Vi{\kf20}dha{\kf59}nia{\kf26}je{\kf20} vid{\kf40} zem{\kf72}lí
+Dialogue: 0,0:00:40.58,0:00:43.39,DEFAULT,,0,0,0,,{\r}{\kf29}Ma{\kf22}ja{\kf43}ka{\kf29} jas{\kf43}krá{\kf29}ve{\kf36} svi{\kf50}tlo
+Dialogue: 0,0:00:43.73,0:00:46.50,DEFAULT,,0,0,0,,{\r}{\kf13}V{\kf20} mo{\kf20}ri{\kf54} zdá{\kf27}le{\kf27}kú{\kf34} po{\kf40}mí{\kf41}tno
+Dialogue: 0,0:00:46.94,0:00:49.71,DEFAULT,,0,0,0,,{\r}{\kf19}Do{\kf19}ply{\kf71}vaj{\kf26}te,{\kf19} ko{\kf19}ra{\kf103}bli
+Dialogue: 0,0:00:50.10,0:00:52.81,DEFAULT,,0,0,0,,{\r}{\kf21}Po{\kf21}ni{\kf56} do{\kf28}pyľ{\kf28}nu{\kf14}je{\kf21} ŭ{\kf35}ča{\kf47}sno
+Dialogue: 0,0:00:53.26,0:00:56.37,DEFAULT,,0,0,0,,{\r}{\kf17}Svi{\kf17}tlo{\kf40} ma{\kf23}ja{\kf214}ka
+Dialogue: 0,0:00:56.66,0:00:59.03,DEFAULT,,0,0,0,,{\r}{\kf28}ne{\kf50} z'ha{\kf159}sne
+Dialogue: 0,0:00:59.62,0:01:02.04,DEFAULT,,0,0,0,,{\r}{\kf17}Zno{\kf17}vu{\kf63} chvý{\kf145}li
+Dialogue: 0,0:01:02.48,0:01:05.40,DEFAULT,,0,0,0,,{\r}{\kf24}Lóŭ{\kf18}liu{\kf18} kriź{\kf55} bu{\kf176}riu
+Dialogue: 0,0:01:05.94,0:01:09.84,DEFAULT,,0,0,0,,{\r}{\kf19}Ma{\kf19}ju{\kf138} vi{\kf38}sti{\kf82} z{\kf31} usich{\kf19} sto{\kf44}rín
+Dialogue: 0,0:01:12.01,0:01:14.62,DEFAULT,,0,0,0,,{\r}{\kf28}I{\kf22} ja{\kf22} ra{\kf61}dí{\kf129}ju
+Dialogue: 0,0:01:15.17,0:01:18.37,DEFAULT,,0,0,0,,{\r}{\kf23}Ko{\kf18}ly{\kf18} ne{\kf58} ču{\kf204}ju
+Dialogue: 0,0:01:19.51,0:01:22.47,DEFAULT,,0,0,0,,{\r}{\kf33}V{\kf25} efi{\kf49}ri{\kf58} sum{\kf41}ných{\kf25} no{\kf65}výn
+Dialogue: 0,0:01:24.79,0:01:27.60,DEFAULT,,0,0,0,,{\r}{\kf21}Ja{\kf21} do{\kf56} ne{\kf35}ba{\kf28} pi{\kf35}dij{\kf42}ma{\kf43}juś
+Dialogue: 0,0:01:27.90,0:01:30.71,DEFAULT,,0,0,0,,{\r}{\kf20}Ŭ{\kf20} si{\kf20}niu{\kf46} dá{\kf20}le{\kf39}čiń{\kf26} vdy{\kf20}ŭ{\kf39}lia{\kf31}juś
+Dialogue: 0,0:01:31.10,0:01:33.72,DEFAULT,,0,0,0,,{\r}{\kf20}Jak{\kf20} po{\kf59}bá{\kf26}ču{\kf26} ko{\kf33}ra{\kf78}bli
+Dialogue: 0,0:01:34.16,0:01:37.07,DEFAULT,,0,0,0,,{\r}{\kf20}Ŭ{\kf20} bo{\kf20}roť{\kf54}bí{\kf27} su{\kf34}pró{\kf34}ty{\kf27} vi{\kf55}tru
+Dialogue: 0,0:01:37.42,0:01:40.18,DEFAULT,,0,0,0,,{\r}{\kf22}Ja{\kf22} dlia{\kf36} nych{\kf22} po{\kf51}sy{\kf29}liu{\kf44} svi{\kf50}tlo
+Dialogue: 0,0:01:40.63,0:01:43.19,DEFAULT,,0,0,0,,{\r}{\kf19}Ne{\kf19} za{\kf64}hu{\kf19}bliať{\kf19}sia{\kf13} v{\kf26} im{\kf78}li
+Dialogue: 0,0:01:43.73,0:01:46.50,DEFAULT,,0,0,0,,{\r}{\kf20}Zna{\kf20}je{\kf53} po{\kf20}ni{\kf39} ne{\kf39}vi{\kf46}dó{\kf39}ma
+Dialogue: 0,0:01:46.74,0:01:52.47,DEFAULT,,0,0,0,,{\r}{\kf18}Ŭ{\kf18}si{\kf24} dis{\kf36}ta{\kf24}nu{\kf214}ťsia{\kf36} do{\kf66} do{\kf136}mu
+Dialogue: 0,0:01:53.21,0:01:55.77,DEFAULT,,0,0,0,,{\r}{\kf17}Zno{\kf22}vu{\kf73} chvý{\kf145}li
+Dialogue: 0,0:01:56.22,0:01:58.93,DEFAULT,,0,0,0,,{\r}{\kf22}Lóŭ{\kf28}liu{\kf22} kriź{\kf50} bu{\kf149}riu
+Dialogue: 0,0:01:59.57,0:02:03.47,DEFAULT,,0,0,0,,{\r}{\kf19}Ma{\kf25}ju{\kf142} vi{\kf43}sti{\kf62} z{\kf43} usich{\kf19} sto{\kf37}rín
+Dialogue: 0,0:02:05.69,0:02:08.31,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf23} ja{\kf17} ra{\kf58}dí{\kf141}ju
+Dialogue: 0,0:02:08.90,0:02:12.11,DEFAULT,,0,0,0,,{\r}{\kf22}Ko{\kf22}ly{\kf17} ne{\kf55} ču{\kf205}ju
+Dialogue: 0,0:02:13.19,0:02:16.15,DEFAULT,,0,0,0,,{\r}{\kf33}V{\kf25} efi{\kf49}ri{\kf49} sum{\kf49}ných{\kf33} no{\kf58}výn
+Dialogue: 0,0:02:18.52,0:02:21.33,DEFAULT,,0,0,0,,{\r}{\kf21}Ja{\kf21} pra{\kf48}cú{\kf41}ju{\kf21} bez{\kf34} u{\kf41}tó{\kf54}my
+Dialogue: 0,0:02:21.68,0:02:24.54,DEFAULT,,0,0,0,,{\r}{\kf23}Ne{\kf23} zna{\kf30}jó{\kf30}ma{\kf38} šče{\kf30} ni{\kf38}kó{\kf74}mu
+Dialogue: 0,0:02:24.84,0:02:27.30,DEFAULT,,0,0,0,,{\r}{\kf20}A{\kf20} ko{\kf59}lý{\kf33} na{\kf20} mo{\kf33}ri{\kf62} myr
+Dialogue: 0,0:02:27.95,0:02:30.61,DEFAULT,,0,0,0,,{\r}{\kf20}Ja{\kf20} vy{\kf53}cho{\kf20}džu{\kf40} znoŭ{\kf33} v{\kf80} efir
+Dialogue: 0,0:02:43.78,0:02:46.10,DEFAULT,,0,0,0,,{\r}{\kf18}Zno{\kf18}vu{\kf65} chvý{\kf131}li
+Dialogue: 0,0:02:46.74,0:02:49.56,DEFAULT,,0,0,0,,{\r}{\kf23}So{\kf23}bi{\kf18} loŭ{\kf53}liu{\kf164} ja
+Dialogue: 0,0:02:50.10,0:02:54.00,DEFAULT,,0,0,0,,{\r}{\kf20}Ma{\kf20}ju{\kf141} vis{\kf34}ti{\kf81} z{\kf27} usich{\kf27} sto{\kf40}rín
+Dialogue: 0,0:02:56.22,0:02:58.64,DEFAULT,,0,0,0,,{\r}{\kf28}I{\kf23} ja{\kf23} ra{\kf62}dí{\kf106}ju
+Dialogue: 0,0:02:59.38,0:03:02.58,DEFAULT,,0,0,0,,{\r}{\kf23}Ščo{\kf23} ja{\kf23} ne{\kf46} ču{\kf206}ju
+Dialogue: 0,0:03:03.72,0:03:06.63,DEFAULT,,0,0,0,,{\r}{\kf35}V{\kf26} efi{\kf53}ri{\kf53} sum{\kf44}ných{\kf26} no{\kf54}výn
+Dialogue: 0,0:03:10.03,0:03:12.95,DEFAULT,,0,0,0,,{\r}{\kf35}V{\kf26} efi{\kf53}ri{\kf53} sum{\kf44}ných{\kf26} no{\kf54}výn

@@ -1,66 +1,73 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Dare Master
+Artist: Wasteland Wailers
+Original Timing: mylittlekaraoke.com by Dex
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.89,0:00:04.32,DEFAULT,,0,0,0,,{\kf11}I{\kf6} ha{\kf6}ven't{\kf22} seen{\kf6} you{\kf11} for{\kf6} a{\kf43} week
-Dialogue: 0,0:00:04.69,0:00:07.96,DEFAULT,,0,0,0,,{\kf27}I'm{\kf16} wor{\kf22}ried{\kf16} but{\kf32} uh,{\kf37} where's{\kf6} the{\kf11} mo{\kf37}ney?
-Dialogue: 0,0:00:09.55,0:00:12.50,DEFAULT,,0,0,0,,{\kf32}There's{\kf11} cer{\kf11}tain{\kf11}ly{\kf22} no{\kf22} way{\kf11} you{\kf22} wouldâ€¦{\kf22} would{\kf22} ya?
-Dialogue: 0,0:00:22.22,0:00:25.13,DEFAULT,,0,0,0,,{\kf32}You{\kf48} would{\kf27}n't{\kf32} dare{\kf11} to{\kf48} leave{\kf48} me
-Dialogue: 0,0:00:25.39,0:00:27.51,DEFAULT,,0,0,0,,{\kf48}No{\kf48} not{\kf16} at{\kf85} all
-Dialogue: 0,0:00:28.83,0:00:32.00,DEFAULT,,0,0,0,,{\kf32}I{\kf27} was{\kf27}n't{\kf27} fol{\kf22}lowed{\kf43} so{\kf64} please
-Dialogue: 0,0:00:32.15,0:00:34.43,DEFAULT,,0,0,0,,{\kf37}Re{\kf32}turn{\kf22} my{\kf117} call
-Dialogue: 0,0:00:34.53,0:00:37.91,DEFAULT,,0,0,0,,{\kf48}I{\kf32} dou{\kf11}bled{\kf32} back,{\kf27} I{\kf27} knocked{\kf22} three{\kf53} times
-Dialogue: 0,0:00:37.97,0:00:40.82,DEFAULT,,0,0,0,,{\kf37}The{\kf27} door{\kf16} was{\kf16} o{\kf27}pen{\kf96} wide
-Dialogue: 0,0:00:40.87,0:00:43.72,DEFAULT,,0,0,0,,{\kf37}All{\kf37} the{\kf74} wool{\kf16} in{\kf32} our{\kf53} bed
-Dialogue: 0,0:00:44.09,0:00:47.90,DEFAULT,,0,0,0,,{\kf43}Sliced{\kf27} and{\kf69} turned{\kf48} out{\kf138}side
-Dialogue: 0,0:00:48.69,0:00:51.65,DEFAULT,,0,0,0,,{\kf32}You{\kf37} would{\kf32}n't{\kf37} dare{\kf11} to{\kf53} leave{\kf43} me
-Dialogue: 0,0:00:51.81,0:00:53.81,DEFAULT,,0,0,0,,{\kf32}Not{\kf16} with{\kf32} all{\kf22} I{\kf64} know
-Dialogue: 0,0:00:55.13,0:00:58.25,DEFAULT,,0,0,0,,{\kf16}Your{\kf16} ma{\kf16}ma's{\kf32} bar,{\kf16} your{\kf16} bro{\kf22}thers{\kf37} train{\kf59}yard
-Dialogue: 0,0:00:58.46,0:01:00.68,DEFAULT,,0,0,0,,{\kf27}E{\kf16}very{\kf27}where{\kf22} you'd{\kf101} go
-Dialogue: 0,0:01:00.89,0:01:04.38,DEFAULT,,0,0,0,,{\kf48}So{\kf11} I{\kf16} took{\kf11} a{\kf32} pow{\kf32}der{\kf37} cross{\kf11} the{\kf53} tracks
-Dialogue: 0,0:01:05.12,0:01:07.23,DEFAULT,,0,0,0,,{\kf32}Found{\kf16} your{\kf27} fam{\kf32}ily{\kf80} too
-Dialogue: 0,0:01:07.39,0:01:10.45,DEFAULT,,0,0,0,,{\kf27}When{\kf32} I{\kf64} asked{\kf22} if{\kf27} they'd{\kf37} seen{\kf27} ya
-Dialogue: 0,0:01:10.61,0:01:13.52,DEFAULT,,0,0,0,,{\kf37}All{\kf27} they{\kf69} said{\kf69} was{\kf16} "who{\kf16}~?"
-Dialogue: 0,0:01:15.21,0:01:20.75,DEFAULT,,0,0,0,,{\kf32}Law{\kf27} on{\kf22} my{\kf80} tail{\kf22} I{\kf27} can{\kf43} smell{\kf37} when{\kf22} I've{\kf27} been{\kf117} framed
-Dialogue: 0,0:01:20.86,0:01:27.68,DEFAULT,,0,0,0,,{\kf27}So{\kf27} I{\kf27} took{\kf16} your{\kf16} pic{\kf27}ture{\kf43} knock{\kf48}in',{\kf16} and{\kf16} got{\kf16} a{\kf27} bunch{\kf27} of{\kf22} dif{\kf27}ferent{\kf27} names{\kf122}~
-Dialogue: 0,0:01:28.41,0:01:34.01,DEFAULT,,0,0,0,,{\kf16}Heard{\kf16} the{\kf27} sto{\kf27}ries{\kf27} of{\kf32} the{\kf37} o{\kf32}thers{\kf16} you'd{\kf22} set{\kf22} up{\kf22} to{\kf32} take{\kf16} the{\kf122} fall
-Dialogue: 0,0:01:34.23,0:01:40.41,DEFAULT,,0,0,0,,{\kf32}And{\kf27} how{\kf16} they{\kf22} all{\kf32} looked{\kf27} just{\kf27} like{\kf64} me,{\kf22} guess{\kf16} that's{\kf11} why{\kf16} you{\kf22} did{\kf32}n't{\kf90} call
-Dialogue: 0,0:01:41.15,0:01:43.89,DEFAULT,,0,0,0,,{\kf11}I{\kf22} might{\kf11}a{\kf16} be{\kf32}lieved{\kf11} that{\kf16} you{\kf16} got{\kf16} drunk{\kf22} and{\kf32} spilled
-Dialogue: 0,0:01:44.00,0:01:47.48,DEFAULT,,0,0,0,,{\kf11}All{\kf16} a{\kf27}bout{\kf32} our{\kf37} job,{\kf22} damn{\kf22} near{\kf22} got{\kf22} you{\kf64} killed
-Dialogue: 0,0:01:48.33,0:01:54.14,DEFAULT,,0,0,0,,{\kf22}I'd{\kf22} call{\kf16} it{\kf16} my{\kf16} mis{\kf27}take,{\kf16} find{\kf22} a{\kf22} sa{\kf22}fer{\kf43} place{\kf43} to{\kf32} hide{\kf143}~
-Dialogue: 0,0:01:54.35,0:01:57.05,DEFAULT,,0,0,0,,{\kf11}It{\kf22} don't{\kf32} add{\kf32} up{\kf11} and{\kf11} I{\kf27} might{\kf11} be{\kf16} a{\kf27} fool
-Dialogue: 0,0:01:57.31,0:02:00.74,DEFAULT,,0,0,0,,{\kf27}'Cause{\kf16} I{\kf16} ne{\kf16}ver{\kf16} real{\kf16}ly{\kf22} had{\kf27} no{\kf16} spe{\kf27}cial{\kf32} schoo{\kf27}lin'
-Dialogue: 0,0:02:01.01,0:02:09.35,DEFAULT,,0,0,0,,{\kf11}But{\kf22} two{\kf22} and{\kf43} two{\kf22} sure{\kf22} don't{\kf32} make{\kf22} a{\kf16} five{\kf222}~{\kf11}~{\kf16}~{\kf11}~{\kf16}~{\kf16}~{\kf159}~
-Dialogue: 0,0:02:09.72,0:02:11.57,DEFAULT,,0,0,0,,{\kf16}My{\kf22} head{\kf22} hunt{\kf22} starts{\kf11} to{\kf43}night
-Dialogue: 0,0:02:37.93,0:02:43.80,DEFAULT,,0,0,0,,{\kf22}Lost{\kf16} the{\kf37} cops,{\kf32} found{\kf32} a{\kf43} dive,{\kf32} got{\kf32} drunk{\kf32} e{\kf27}nough{\kf27} for{\kf37} three{\kf80}~
-Dialogue: 0,0:02:44.17,0:02:50.08,DEFAULT,,0,0,0,,{\kf37}Cried{\kf22} the{\kf43} blues{\kf22} a{\kf27} bit{\kf22} too{\kf37} loud{\kf11} and{\kf27} got{\kf64} bounced{\kf43} to{\kf16} the{\kf101} street
-Dialogue: 0,0:02:50.35,0:02:56.42,DEFAULT,,0,0,0,,{\kf43}My{\kf16} tale{\kf11} of{\kf27} your{\kf27} two{\kf37} ti{\kf22}ming{\kf27} and{\kf32} the{\kf43} way{\kf27} that{\kf32} I{\kf32} was{\kf74} framed
-Dialogue: 0,0:02:57.48,0:03:03.34,DEFAULT,,0,0,0,,{\kf27}Won{\kf22} my{\kf32}self{\kf22} a{\kf27} help{\kf27}ful{\kf32} tip{\kf32} from{\kf32} one{\kf22} of{\kf32} your{\kf16} old{\kf22}~{\kf27} flames{\kf64}~
-Dialogue: 0,0:03:04.51,0:03:10.37,DEFAULT,,0,0,0,,{\kf22}Drank{\kf22} some{\kf27} cof{\kf27}fee,{\kf27} cleaned{\kf22} my{\kf16} re{\kf27}vol{\kf27}ver,{\kf37} strapped{\kf27} it{\kf22} to{\kf32} my{\kf143} side
-Dialogue: 0,0:03:10.95,0:03:17.08,DEFAULT,,0,0,0,,{\kf16}I{\kf16} could{\kf16} have{\kf22} kissed{\kf22} the{\kf37} dame{\kf27} who{\kf32} told{\kf27} me{\kf22} ex{\kf37}ac{\kf27}tly{\kf27} where{\kf22} you'd{\kf22} hide{\kf122}~
-Dialogue: 0,0:03:17.61,0:03:23.26,DEFAULT,,0,0,0,,{\kf22}Slipped{\kf16} the{\kf22} win{\kf22}dow{\kf27} o{\kf32}pen,{\kf32} kicked{\kf37} your{\kf37} car{\kf37}cass{\kf27} out{\kf22} of{\kf117} bed
-Dialogue: 0,0:03:23.47,0:03:33.03,DEFAULT,,0,0,0,,{\kf37}Now{\kf43} you!{\kf32} Tell{\kf22} the{\kf59} truth!{\kf27} Or{\kf22} the{\kf37} next{\kf43} one's{\kf32} in{\kf32} your{\kf22} head{\kf317}~
-Dialogue: 0,0:03:33.56,0:03:39.63,DEFAULT,,0,0,0,,{\kf43}You{\kf43} would{\kf37} not{\kf37} dare{\kf16} to{\kf64} leave{\kf53} me,{\kf16} no{\kf22} no{\kf27} not{\kf22} through{\kf32} that{\kf106} door
-Dialogue: 0,0:03:40.27,0:03:46.92,DEFAULT,,0,0,0,,{\kf16}The{\kf37} hot{\kf32} lead{\kf32} won't{\kf37} be{\kf16} whiz{\kf37}zin'{\kf37} by,{\kf16} you'll{\kf43} just{\kf37} hit{\kf22} the{\kf106} floor
-Dialogue: 0,0:03:47.19,0:03:51.05,DEFAULT,,0,0,0,,{\kf16}It{\kf27} was{\kf22} a{\kf37} job{\kf16} be{\kf32}fore{\kf32} the{\kf22} plea{\kf32}sure{\kf64} ride
-Dialogue: 0,0:03:51.42,0:03:54.80,DEFAULT,,0,0,0,,{\kf11}If{\kf22} you'd{\kf22} have{\kf32} shot{\kf32} straight{\kf32} and{\kf32} had{\kf27}n't{\kf59} lied
-Dialogue: 0,0:03:55.06,0:03:58.12,DEFAULT,,0,0,0,,{\kf22}We'd{\kf27} split{\kf22} the{\kf32} take{\kf11} and{\kf27} then{\kf22} split{\kf22} for{\kf37} good
-Dialogue: 0,0:03:58.28,0:04:02.24,DEFAULT,,0,0,0,,{\kf16}But{\kf27} hey!{\kf16} Get{\kf22} back{\kf59} down!{\kf22} Un{\kf22}der{\kf37}stood?
-Dialogue: 0,0:04:03.14,0:04:09.06,DEFAULT,,0,0,0,,{\kf32}You{\kf37} would{\kf37} not{\kf37} dare{\kf16} to{\kf59} leave{\kf48} me{\kf22} and{\kf27} e{\kf16}ven{\kf27} if{\kf27} you{\kf101} do
-Dialogue: 0,0:04:10.17,0:04:13.07,DEFAULT,,0,0,0,,{\kf48}Hey,{\kf16} check{\kf11} out{\kf22} this{\kf11} pret{\kf6}ty{\kf6} lit{\kf6}tle{\kf16} wan{\kf11}ted{\kf22} pos{\kf22}ter
-Dialogue: 0,0:04:13.39,0:04:16.08,DEFAULT,,0,0,0,,{\kf16}This{\kf11} fel{\kf22}la{\kf16} kin{\kf11}da{\kf22} looks{\kf37} like{\kf64} you
-Dialogue: 0,0:04:17.25,0:04:20.68,DEFAULT,,0,0,0,,{\kf16}I{\kf22} ripped{\kf27} your{\kf37} mug{\kf16} off{\kf16} the{\kf37} post{\kf37}man's{\kf53} wall
-Dialogue: 0,0:04:21.16,0:04:24.11,DEFAULT,,0,0,0,,{\kf27}Dropped{\kf27} 'em{\kf37} one{\kf16} of{\kf22} them{\kf32} 'no{\kf16}ny{\kf16}mous{\kf43} calls
-Dialogue: 0,0:04:24.17,0:04:28.08,DEFAULT,,0,0,0,,{\kf37}So{\kf16} my{\kf16} aim{\kf16} is{\kf16} get{\kf16}ting{\kf22} stea{\kf16}dy{\kf16} and{\kf16} my{\kf22} temp{\kf16} is{\kf16} get{\kf16}ting{\kf16} war{\kf27}mer
-Dialogue: 0,0:04:28.34,0:04:32.14,DEFAULT,,0,0,0,,{\kf16}They{\kf16} say{\kf16} it's{\kf11} dead{\kf11} or{\kf11} a{\kf27}live,{\kf22} I'll{\kf22} make{\kf43} sure{\kf22} it's{\kf16} the{\kf27} for{\kf43}mer
-Dialogue: 0,0:04:33.15,0:04:41.81,DEFAULT,,0,0,0,,{\kf32}If{\kf32} you{\kf43} dare{\kf22} to{\kf59} leave{\kf59} me,{\kf43} if{\kf32} you{\kf48} dare{\kf22} to{\kf43} leave,{\kf37} choose{\kf228} wise
-Dialogue: 0,0:04:42.34,0:04:46.35,DEFAULT,,0,0,0,,{\kf16}Do{\kf16} you{\kf22} want{\kf16} a{\kf32} ball{\kf27} and{\kf37} chain{\kf22} round{\kf16} your{\kf74} an{\kf43}kles?
-Dialogue: 0,0:04:46.46,0:04:50.69,DEFAULT,,0,0,0,,{\kf37}Or{\kf80} one{\kf27} bet{\kf27}ween{\kf22} your{\kf191} eyes?
-Dialogue: 0,0:04:51.48,0:04:53.27,DEFAULT,,0,0,0,,{\kf11}Go{\kf11} on{\kf11} and{\kf27} leave.{\kf16} I{\kf27} dare{\kf27} ya.
+Dialogue: 0,0:00:02.89,0:00:04.32,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf10} ha{\kf10}ven't{\kf29} seen{\kf10} you{\kf14} for{\kf10} a{\kf46} week
+Dialogue: 0,0:00:04.69,0:00:07.97,DEFAULT,,0,0,0,,{\r}{\kf43}I'm{\kf26} wor{\kf35}ried{\kf26} but{\kf52} uh,{\kf60} where's{\kf10} the{\kf17} mo{\kf59}ney?
+Dialogue: 0,0:00:09.55,0:00:12.51,DEFAULT,,0,0,0,,{\r}{\kf52}There's{\kf17} cer{\kf17}tain{\kf17}ly{\kf35} no{\kf35} way{\kf17} you{\kf35} wouldâ€¦{\kf35} would{\kf36} ya?
+Dialogue: 0,0:00:22.23,0:00:25.13,DEFAULT,,0,0,0,,{\r}{\kf38}You{\kf57} would{\kf32}n't{\kf38} dare{\kf13} to{\kf57} leave{\kf56} me
+Dialogue: 0,0:00:25.40,0:00:27.51,DEFAULT,,0,0,0,,{\r}{\kf51}No{\kf51} not{\kf17} at{\kf92} all
+Dialogue: 0,0:00:28.83,0:00:32.00,DEFAULT,,0,0,0,,{\r}{\kf42}I{\kf35} was{\kf35}n't{\kf35} fol{\kf28}lowed{\kf56} so{\kf86} please
+Dialogue: 0,0:00:32.16,0:00:34.43,DEFAULT,,0,0,0,,{\r}{\kf41}Re{\kf35}turn{\kf23} my{\kf128} call
+Dialogue: 0,0:00:34.54,0:00:37.92,DEFAULT,,0,0,0,,{\r}{\kf65}I{\kf43} dou{\kf14}bled{\kf43} back,{\kf36} I{\kf36} knocked{\kf29} three{\kf72} times
+Dialogue: 0,0:00:37.97,0:00:40.82,DEFAULT,,0,0,0,,{\r}{\kf49}The{\kf35} door{\kf21} was{\kf21} o{\kf35}pen{\kf124} wide
+Dialogue: 0,0:00:40.88,0:00:43.73,DEFAULT,,0,0,0,,{\r}{\kf42}All{\kf42} the{\kf85} wool{\kf18} in{\kf36} our{\kf62} bed
+Dialogue: 0,0:00:44.10,0:00:47.90,DEFAULT,,0,0,0,,{\r}{\kf50}Sliced{\kf31} and{\kf81} turned{\kf56} out{\kf162}side
+Dialogue: 0,0:00:48.69,0:00:51.65,DEFAULT,,0,0,0,,{\r}{\kf39}You{\kf45} would{\kf39}n't{\kf45} dare{\kf13} to{\kf64} leave{\kf51} me
+Dialogue: 0,0:00:51.81,0:00:53.82,DEFAULT,,0,0,0,,{\r}{\kf39}Not{\kf19} with{\kf39} all{\kf26} I{\kf78} know
+Dialogue: 0,0:00:55.14,0:00:58.26,DEFAULT,,0,0,0,,{\r}{\kf22}Your{\kf22} ma{\kf22}ma's{\kf44} bar,{\kf22} your{\kf22} bro{\kf29}thers{\kf51} train{\kf78}yard
+Dialogue: 0,0:00:58.47,0:01:00.69,DEFAULT,,0,0,0,,{\r}{\kf31}E{\kf19}very{\kf31}where{\kf25} you'd{\kf116} go
+Dialogue: 0,0:01:00.90,0:01:04.38,DEFAULT,,0,0,0,,{\r}{\kf67}So{\kf15} I{\kf22} took{\kf15} a{\kf45} pow{\kf45}der{\kf52} cross{\kf15} the{\kf73} tracks
+Dialogue: 0,0:01:05.12,0:01:07.24,DEFAULT,,0,0,0,,{\r}{\kf36}Found{\kf18} your{\kf30} fam{\kf36}ily{\kf91} too
+Dialogue: 0,0:01:07.39,0:01:10.46,DEFAULT,,0,0,0,,{\r}{\kf35}When{\kf42} I{\kf83} asked{\kf28} if{\kf35} they'd{\kf49} seen{\kf34} ya
+Dialogue: 0,0:01:10.62,0:01:13.52,DEFAULT,,0,0,0,,{\r}{\kf46}All{\kf33} they{\kf86} said{\kf86} was{\kf20} "who{\kf20}~?"
+Dialogue: 0,0:01:15.21,0:01:20.76,DEFAULT,,0,0,0,,{\r}{\kf39}Law{\kf33} on{\kf26} my{\kf98} tail{\kf26} I{\kf33} can{\kf52} smell{\kf46} when{\kf26} I've{\kf33} been{\kf143} framed
+Dialogue: 0,0:01:20.87,0:01:27.68,DEFAULT,,0,0,0,,{\r}{\kf34}So{\kf34} I{\kf34} took{\kf21} your{\kf21} pic{\kf34}ture{\kf55} knock{\kf62}in',{\kf21} and{\kf21} got{\kf21} a{\kf34} bunch{\kf34} of{\kf28} dif{\kf34}ferent{\kf34} names{\kf159}~
+Dialogue: 0,0:01:28.42,0:01:34.02,DEFAULT,,0,0,0,,{\r}{\kf19}Heard{\kf19} the{\kf32} sto{\kf32}ries{\kf32} of{\kf39} the{\kf45} o{\kf39}thers{\kf19} you'd{\kf26} set{\kf26} up{\kf26} to{\kf39} take{\kf19} the{\kf148} fall
+Dialogue: 0,0:01:34.23,0:01:40.41,DEFAULT,,0,0,0,,{\r}{\kf44}And{\kf36} how{\kf22} they{\kf29} all{\kf44} looked{\kf36} just{\kf36} like{\kf87} me,{\kf29} guess{\kf22} that's{\kf15} why{\kf22} you{\kf29} did{\kf44}n't{\kf123} call
+Dialogue: 0,0:01:41.15,0:01:43.90,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf29} might{\kf14}a{\kf22} be{\kf43}lieved{\kf14} that{\kf22} you{\kf22} got{\kf22} drunk{\kf29} and{\kf44} spilled
+Dialogue: 0,0:01:44.00,0:01:47.49,DEFAULT,,0,0,0,,{\r}{\kf14}All{\kf21} a{\kf34}bout{\kf41} our{\kf48} job,{\kf27} damn{\kf27} near{\kf27} got{\kf27} you{\kf83} killed
+Dialogue: 0,0:01:48.34,0:01:54.15,DEFAULT,,0,0,0,,{\r}{\kf27}I'd{\kf27} call{\kf20} it{\kf20} my{\kf20} mis{\kf34}take,{\kf20} find{\kf27} a{\kf27} sa{\kf27}fer{\kf54} place{\kf54} to{\kf41} hide{\kf183}~
+Dialogue: 0,0:01:54.36,0:01:57.05,DEFAULT,,0,0,0,,{\r}{\kf15}It{\kf29} don't{\kf44} add{\kf44} up{\kf15} and{\kf15} I{\kf36} might{\kf15} be{\kf22} a{\kf34} fool
+Dialogue: 0,0:01:57.32,0:02:00.75,DEFAULT,,0,0,0,,{\r}{\kf36}'Cause{\kf21} I{\kf21} ne{\kf21}ver{\kf21} real{\kf21}ly{\kf29} had{\kf36} no{\kf21} spe{\kf36}cial{\kf43} schoo{\kf37}lin'
+Dialogue: 0,0:02:01.01,0:02:09.36,DEFAULT,,0,0,0,,{\r}{\kf13}But{\kf27} two{\kf27} and{\kf54} two{\kf27} sure{\kf27} don't{\kf40} make{\kf27} a{\kf20} five{\kf283}~{\kf13}~{\kf20}~{\kf13}~{\kf20}~{\kf20}~{\kf204}~
+Dialogue: 0,0:02:09.73,0:02:11.58,DEFAULT,,0,0,0,,{\r}{\kf22}My{\kf30} head{\kf30} hunt{\kf30} starts{\kf15} to{\kf58}night
+Dialogue: 0,0:02:37.94,0:02:43.80,DEFAULT,,0,0,0,,{\r}{\kf28}Lost{\kf21} the{\kf49} cops,{\kf42} found{\kf42} a{\kf56} dive,{\kf42} got{\kf42} drunk{\kf42} e{\kf35}nough{\kf35} for{\kf49} three{\kf103}~
+Dialogue: 0,0:02:44.17,0:02:50.09,DEFAULT,,0,0,0,,{\r}{\kf47}Cried{\kf27} the{\kf54} blues{\kf27} a{\kf34} bit{\kf27} too{\kf47} loud{\kf13} and{\kf34} got{\kf81} bounced{\kf54} to{\kf20} the{\kf127} street
+Dialogue: 0,0:02:50.35,0:02:56.43,DEFAULT,,0,0,0,,{\r}{\kf58}My{\kf22} tale{\kf14} of{\kf36} your{\kf36} two{\kf51} ti{\kf29}ming{\kf36} and{\kf43} the{\kf58} way{\kf36} that{\kf43} I{\kf43} was{\kf103} framed
+Dialogue: 0,0:02:57.48,0:03:03.35,DEFAULT,,0,0,0,,{\r}{\kf36}Won{\kf29} my{\kf43}self{\kf29} a{\kf36} help{\kf36}ful{\kf43} tip{\kf43} from{\kf43} one{\kf29} of{\kf43} your{\kf22} old{\kf29}~{\kf36} flames{\kf89}~
+Dialogue: 0,0:03:04.51,0:03:10.37,DEFAULT,,0,0,0,,{\r}{\kf26}Drank{\kf26} some{\kf33} cof{\kf33}fee,{\kf33} cleaned{\kf26} my{\kf20} re{\kf33}vol{\kf33}ver,{\kf46} strapped{\kf33} it{\kf26} to{\kf40} my{\kf178} side
+Dialogue: 0,0:03:10.96,0:03:17.08,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf20} could{\kf20} have{\kf27} kissed{\kf27} the{\kf47} dame{\kf33} who{\kf40} told{\kf33} me{\kf27} ex{\kf47}ac{\kf33}tly{\kf33} where{\kf27} you'd{\kf27} hide{\kf152}~
+Dialogue: 0,0:03:17.61,0:03:23.26,DEFAULT,,0,0,0,,{\r}{\kf27}Slipped{\kf20} the{\kf27} win{\kf27}dow{\kf34} o{\kf40}pen,{\kf40} kicked{\kf47} your{\kf47} car{\kf47}cass{\kf34} out{\kf27} of{\kf148} bed
+Dialogue: 0,0:03:23.48,0:03:33.04,DEFAULT,,0,0,0,,{\r}{\kf49}Now{\kf56} you!{\kf42} Tell{\kf28} the{\kf77} truth!{\kf35} Or{\kf28} the{\kf49} next{\kf56} one's{\kf42} in{\kf42} your{\kf28} head{\kf424}~
+Dialogue: 0,0:03:33.56,0:03:39.64,DEFAULT,,0,0,0,,{\r}{\kf50}You{\kf50} would{\kf44} not{\kf44} dare{\kf19} to{\kf75} leave{\kf63} me,{\kf19} no{\kf25} no{\kf31} not{\kf25} through{\kf38} that{\kf125} door
+Dialogue: 0,0:03:40.27,0:03:46.93,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf53} hot{\kf45} lead{\kf45} won't{\kf53} be{\kf23} whiz{\kf53}zin'{\kf53} by,{\kf23} you'll{\kf61} just{\kf53} hit{\kf30} the{\kf151} floor
+Dialogue: 0,0:03:47.19,0:03:51.05,DEFAULT,,0,0,0,,{\r}{\kf21}It{\kf34} was{\kf28} a{\kf48} job{\kf21} be{\kf41}fore{\kf41} the{\kf28} plea{\kf41}sure{\kf83} ride
+Dialogue: 0,0:03:51.42,0:03:54.80,DEFAULT,,0,0,0,,{\r}{\kf14}If{\kf27} you'd{\kf27} have{\kf41} shot{\kf41} straight{\kf41} and{\kf41} had{\kf34}n't{\kf72} lied
+Dialogue: 0,0:03:55.07,0:03:58.13,DEFAULT,,0,0,0,,{\r}{\kf30}We'd{\kf37} split{\kf30} the{\kf45} take{\kf15} and{\kf37} then{\kf30} split{\kf30} for{\kf52} good
+Dialogue: 0,0:03:58.29,0:04:02.25,DEFAULT,,0,0,0,,{\r}{\kf29}But{\kf48} hey!{\kf29} Get{\kf39} back{\kf106} down!{\kf39} Un{\kf39}der{\kf67}stood?
+Dialogue: 0,0:04:03.15,0:04:09.06,DEFAULT,,0,0,0,,{\r}{\kf39}You{\kf46} would{\kf46} not{\kf46} dare{\kf20} to{\kf72} leave{\kf59} me{\kf26} and{\kf33} e{\kf20}ven{\kf33} if{\kf33} you{\kf119} do
+Dialogue: 0,0:04:10.17,0:04:13.08,DEFAULT,,0,0,0,,{\r}{\kf73}Hey,{\kf24} check{\kf16} out{\kf32} this{\kf16} pret{\kf10}ty{\kf10} lit{\kf10}tle{\kf24} wan{\kf16}ted{\kf32} pos{\kf28}ter
+Dialogue: 0,0:04:13.40,0:04:16.09,DEFAULT,,0,0,0,,{\r}{\kf22}This{\kf15} fel{\kf29}la{\kf22} kin{\kf15}da{\kf29} looks{\kf51} like{\kf86} you
+Dialogue: 0,0:04:17.25,0:04:20.69,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf28} ripped{\kf35} your{\kf49} mug{\kf21} off{\kf21} the{\kf49} post{\kf49}man's{\kf70} wall
+Dialogue: 0,0:04:21.16,0:04:24.12,DEFAULT,,0,0,0,,{\r}{\kf34}Dropped{\kf34} 'em{\kf47} one{\kf20} of{\kf27} them{\kf40} 'no{\kf20}ny{\kf20}mous{\kf54} calls
+Dialogue: 0,0:04:24.17,0:04:28.08,DEFAULT,,0,0,0,,{\r}{\kf49}So{\kf21} my{\kf21} aim{\kf21} is{\kf21} get{\kf21}ting{\kf28} stea{\kf21}dy{\kf21} and{\kf21} my{\kf28} temp{\kf21} is{\kf21} get{\kf21}ting{\kf21} war{\kf34}mer
+Dialogue: 0,0:04:28.35,0:04:32.15,DEFAULT,,0,0,0,,{\r}{\kf20}They{\kf20} say{\kf20} it's{\kf14} dead{\kf14} or{\kf14} a{\kf34}live,{\kf27} I'll{\kf27} make{\kf54} sure{\kf27} it's{\kf20} the{\kf34} for{\kf55}mer
+Dialogue: 0,0:04:33.15,0:04:41.82,DEFAULT,,0,0,0,,{\r}{\kf40}If{\kf40} you{\kf53} dare{\kf26} to{\kf73} leave{\kf73} me,{\kf53} if{\kf40} you{\kf59} dare{\kf26} to{\kf53} leave,{\kf46} choose{\kf284} wise
+Dialogue: 0,0:04:42.34,0:04:46.36,DEFAULT,,0,0,0,,{\r}{\kf20}Do{\kf20} you{\kf27} want{\kf20} a{\kf40} ball{\kf33} and{\kf47} chain{\kf27} round{\kf20} your{\kf94} an{\kf53}kles?
+Dialogue: 0,0:04:46.47,0:04:50.69,DEFAULT,,0,0,0,,{\r}{\kf41}Or{\kf88} one{\kf29} bet{\kf29}ween{\kf24} your{\kf212} eyes?
+Dialogue: 0,0:04:51.48,0:04:53.28,DEFAULT,,0,0,0,,{\r}{\kf15}Go{\kf15} on{\kf15} and{\kf38} leave.{\kf22} I{\kf38} dare{\kf37} ya.

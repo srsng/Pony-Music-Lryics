@@ -1,40 +1,47 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Pinkie's Gala Fantasy Song
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.79,0:00:04.22,DEFAULT,,0,0,0,,{\kf23}Ti{\kf15}ckets{\kf12} to{\kf12} the{\kf23} Grand{\kf12} Gal{\kf19}lop{\kf15}ing{\kf19} Ga{\kf38}la?!
-Dialogue: 0,0:00:05.46,0:00:06.92,DEFAULT,,0,0,0,,{\kf8}It's{\kf8} the{\kf12} most{\kf19} a{\kf27}ma{\kf15}zing{\kf12} in{\kf15}cre{\kf8}di{\kf12}ble
-Dialogue: 0,0:00:06.96,0:00:08.42,DEFAULT,,0,0,0,,{\kf15}tre{\kf12}men{\kf15}dous{\kf15} su{\kf8}per-{\kf8}fun{\kf12} won{\kf8}der{\kf8}ful{\kf8} ter{\kf8}ri{\kf12}fi{\kf8}cally
-Dialogue: 0,0:00:08.46,0:00:10.00,DEFAULT,,0,0,0,,{\kf23}hu{\kf23}mon{\kf15}gous{\kf8} par{\kf8}ty{\kf4} in{\kf4} all{\kf4} of{\kf12} E{\kf15}ques{\kf12}tri{\kf12}a!
-Dialogue: 0,0:00:10.15,0:00:12.21,DEFAULT,,0,0,0,,{\kf12}I've{\kf15} al{\kf12}ways{\kf12} al{\kf15}ways{\kf19} al{\kf12}ways{\kf15} want{\kf8}ed{\kf12} to{\kf34} go!
-Dialogue: 0,0:00:12.51,0:00:13.97,DEFAULT,,0,0,0,,{\kf12}Oh{\kf12} the{\kf15} Grand{\kf12} Gal{\kf12}lop{\kf19}ing{\kf27} Ga{\kf8}la
-Dialogue: 0,0:00:14.12,0:00:15.55,DEFAULT,,0,0,0,,{\kf12}is{\kf12} the{\kf19} best{\kf19} place{\kf23} for{\kf30} me
-Dialogue: 0,0:00:15.74,0:00:17.27,DEFAULT,,0,0,0,,{\kf12}Oh{\kf12} the{\kf15} Grand{\kf15} Gal{\kf12}lop{\kf15}ing{\kf23} Ga{\kf8}la
-Dialogue: 0,0:00:17.42,0:00:18.74,DEFAULT,,0,0,0,,{\kf12}is{\kf8} the{\kf15} best{\kf15} place{\kf15} for{\kf23} me
-Dialogue: 0,0:00:19.04,0:00:19.56,DEFAULT,,0,0,0,,{\kf19}Hip{\kf23} hip
-Dialogue: 0,0:00:19.82,0:00:20.46,DEFAULT,,0,0,0,,{\kf19}Hoo{\kf34}ray!
-Dialogue: 0,0:00:20.65,0:00:22.11,DEFAULT,,0,0,0,,{\kf12}It's{\kf12} the{\kf12} best{\kf19} place{\kf19} for{\kf30} me
-Dialogue: 0,0:00:22.34,0:00:24.47,DEFAULT,,0,0,0,,{\kf15}For{\kf19} Pin{\kf162}kie
-Dialogue: 0,0:00:24.70,0:00:26.20,DEFAULT,,0,0,0,,{\kf15}With{\kf19} de{\kf15}co{\kf15}ra{\kf12}tions{\kf15} like{\kf23} strea{\kf12}mers
-Dialogue: 0,0:00:26.27,0:00:27.32,DEFAULT,,0,0,0,,{\kf12}and{\kf15} fai{\kf12}ry-{\kf12}lights{\kf12} and{\kf19} pin{\kf8}wheels
-Dialogue: 0,0:00:27.44,0:00:28.86,DEFAULT,,0,0,0,,{\kf12}and{\kf15} pi{\kf12}Ã±a{\kf12}tas{\kf12} and{\kf23} pin-{\kf19}cu{\kf19}shions
-Dialogue: 0,0:00:29.16,0:00:30.40,DEFAULT,,0,0,0,,{\kf15}With{\kf15} goo{\kf15}dies{\kf15} like{\kf15} su{\kf12}gar{\kf8} cubes
-Dialogue: 0,0:00:30.55,0:00:31.60,DEFAULT,,0,0,0,,{\kf12}and{\kf12} su{\kf15}gar{\kf12} canes{\kf12} and{\kf12} sun{\kf8}daes
-Dialogue: 0,0:00:31.71,0:00:33.25,DEFAULT,,0,0,0,,{\kf12}and{\kf19} sun-{\kf19}beams{\kf12} and{\kf15} sar{\kf12}sa{\kf15}pa{\kf19}ril{\kf23}la
-Dialogue: 0,0:00:33.51,0:00:34.75,DEFAULT,,0,0,0,,{\kf12}And{\kf15} I{\kf12} get{\kf12} to{\kf12} play{\kf12} my{\kf12} fa{\kf8}vorite-{\kf4}est
-Dialogue: 0,0:00:34.86,0:00:36.14,DEFAULT,,0,0,0,,{\kf12}of{\kf19} fa{\kf8}vorite{\kf23} fan{\kf15}ta{\kf12}bu{\kf12}lous{\kf12} games
-Dialogue: 0,0:00:36.29,0:00:38.09,DEFAULT,,0,0,0,,{\kf12}like{\kf12} Pin{\kf15} the{\kf15} Tail{\kf12} on{\kf15} the{\kf19} Po{\kf45}ny!
-Dialogue: 0,0:00:38.69,0:00:40.15,DEFAULT,,0,0,0,,{\kf15}Oh{\kf12} the{\kf15} Grand{\kf12} Gal{\kf12}lop{\kf15}ing{\kf23} Ga{\kf12}la
-Dialogue: 0,0:00:40.34,0:00:41.76,DEFAULT,,0,0,0,,{\kf8}is{\kf12} the{\kf15} best{\kf19} place{\kf15} for{\kf38} me
-Dialogue: 0,0:00:41.95,0:00:43.41,DEFAULT,,0,0,0,,{\kf12}Oh{\kf12} the{\kf19} Grand{\kf12} Gal{\kf12}lop{\kf15}ing{\kf23} Ga{\kf8}la
-Dialogue: 0,0:00:43.60,0:00:44.91,DEFAULT,,0,0,0,,{\kf12}is{\kf12} the{\kf15} best{\kf15} place{\kf15} for{\kf23} me
-Dialogue: 0,0:00:45.10,0:00:47.61,DEFAULT,,0,0,0,,{\kf12}'Cause{\kf8} it's{\kf8} the{\kf15} most{\kf8} ga{\kf8}lar{\kf12}ri{\kf8}fic{\kf8} and{\kf12} su{\kf12}per{\kf8}ly-{\kf12}ter{\kf8}ri{\kf12}fic{\kf12} ga{\kf8}la{\kf8} e{\kf8}ver
-Dialogue: 0,0:00:47.76,0:00:50.61,DEFAULT,,0,0,0,,{\kf8}In{\kf8} the{\kf15} whole{\kf23} ga{\kf19}la{\kf180}xy
-Dialogue: 0,0:00:51.14,0:00:51.85,DEFAULT,,0,0,0,,{\kf72}Wheee!
+Dialogue: 0,0:00:01.79,0:00:04.23,DEFAULT,,0,0,0,,{\r}{\kf30}Ti{\kf20}ckets{\kf15} to{\kf15} the{\kf30} Grand{\kf15} Gal{\kf25}lop{\kf20}ing{\kf25} Ga{\kf49}la?!
+Dialogue: 0,0:00:05.47,0:00:06.93,DEFAULT,,0,0,0,,{\r}{\kf10}It's{\kf10} the{\kf13} most{\kf21} a{\kf29}ma{\kf17}zing{\kf13} in{\kf17}cre{\kf10}di{\kf10}ble
+Dialogue: 0,0:00:06.97,0:00:08.43,DEFAULT,,0,0,0,,{\r}{\kf17}tre{\kf13}men{\kf17}dous{\kf17} su{\kf10}per-{\kf10}fun{\kf13} won{\kf10}der{\kf10}ful{\kf10} ter{\kf10}ri{\kf13}fi{\kf10}cally
+Dialogue: 0,0:00:08.47,0:00:10.00,DEFAULT,,0,0,0,,{\r}{\kf26}hu{\kf26}mon{\kf17}gous{\kf10} par{\kf10}ty{\kf10} in{\kf10} all{\kf10} of{\kf13} E{\kf17}ques{\kf13}tri{\kf10}a!
+Dialogue: 0,0:00:10.15,0:00:12.22,DEFAULT,,0,0,0,,{\r}{\kf14}I've{\kf19} al{\kf14}ways{\kf14} al{\kf19}ways{\kf24} al{\kf14}ways{\kf19} want{\kf10}ed{\kf14} to{\kf45} go!
+Dialogue: 0,0:00:12.52,0:00:13.98,DEFAULT,,0,0,0,,{\r}{\kf15}Oh{\kf15} the{\kf19} Grand{\kf15} Gal{\kf15}lop{\kf24}ing{\kf34} Ga{\kf10}la
+Dialogue: 0,0:00:14.13,0:00:15.55,DEFAULT,,0,0,0,,{\r}{\kf14}is{\kf14} the{\kf24} best{\kf24} place{\kf29} for{\kf38} me
+Dialogue: 0,0:00:15.74,0:00:17.28,DEFAULT,,0,0,0,,{\r}{\kf16}Oh{\kf16} the{\kf21} Grand{\kf21} Gal{\kf16}lop{\kf21}ing{\kf32} Ga{\kf11}la
+Dialogue: 0,0:00:17.43,0:00:18.74,DEFAULT,,0,0,0,,{\r}{\kf17}is{\kf11} the{\kf23} best{\kf23} place{\kf23} for{\kf34} me
+Dialogue: 0,0:00:19.04,0:00:19.57,DEFAULT,,0,0,0,,{\r}{\kf24}Hip{\kf29} hip
+Dialogue: 0,0:00:19.83,0:00:20.47,DEFAULT,,0,0,0,,{\r}{\kf23}Hoo{\kf41}ray!
+Dialogue: 0,0:00:20.65,0:00:22.12,DEFAULT,,0,0,0,,{\r}{\kf16}It's{\kf16} the{\kf16} best{\kf27} place{\kf27} for{\kf44} me
+Dialogue: 0,0:00:22.34,0:00:24.48,DEFAULT,,0,0,0,,{\r}{\kf16}For{\kf21} Pin{\kf177}kie
+Dialogue: 0,0:00:24.70,0:00:26.20,DEFAULT,,0,0,0,,{\r}{\kf18}With{\kf23} de{\kf18}co{\kf18}ra{\kf14}tions{\kf18} like{\kf27} strea{\kf14}mers
+Dialogue: 0,0:00:26.28,0:00:27.33,DEFAULT,,0,0,0,,{\r}{\kf14}and{\kf18} fai{\kf14}ry-{\kf14}lights{\kf14} and{\kf23} pin{\kf10}wheels
+Dialogue: 0,0:00:27.44,0:00:28.87,DEFAULT,,0,0,0,,{\r}{\kf13}and{\kf18} pi{\kf13}Ã±a{\kf13}tas{\kf13} and{\kf27} pin-{\kf22}cu{\kf24}shions
+Dialogue: 0,0:00:29.17,0:00:30.40,DEFAULT,,0,0,0,,{\r}{\kf20}With{\kf20} goo{\kf20}dies{\kf20} like{\kf20} su{\kf15}gar{\kf10} cubes
+Dialogue: 0,0:00:30.55,0:00:31.60,DEFAULT,,0,0,0,,{\r}{\kf15}and{\kf15} su{\kf20}gar{\kf15} canes{\kf15} and{\kf15} sun{\kf10}daes
+Dialogue: 0,0:00:31.72,0:00:33.25,DEFAULT,,0,0,0,,{\r}{\kf12}and{\kf20} sun-{\kf20}beams{\kf12} and{\kf16} sar{\kf12}sa{\kf16}pa{\kf20}ril{\kf26}la
+Dialogue: 0,0:00:33.52,0:00:34.75,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf20} I{\kf15} get{\kf15} to{\kf15} play{\kf15} my{\kf15} fa{\kf10}vorite-{\kf10}est
+Dialogue: 0,0:00:34.87,0:00:36.14,DEFAULT,,0,0,0,,{\r}{\kf13}of{\kf22} fa{\kf10}vorite{\kf26} fan{\kf18}ta{\kf13}bu{\kf13}lous{\kf12} games
+Dialogue: 0,0:00:36.29,0:00:38.09,DEFAULT,,0,0,0,,{\r}{\kf14}like{\kf14} Pin{\kf19} the{\kf19} Tail{\kf14} on{\kf19} the{\kf24} Po{\kf57}ny!
+Dialogue: 0,0:00:38.69,0:00:40.15,DEFAULT,,0,0,0,,{\r}{\kf19}Oh{\kf15} the{\kf19} Grand{\kf15} Gal{\kf15}lop{\kf19}ing{\kf29} Ga{\kf15}la
+Dialogue: 0,0:00:40.34,0:00:41.77,DEFAULT,,0,0,0,,{\r}{\kf10}is{\kf15} the{\kf20} best{\kf26} place{\kf20} for{\kf52} me
+Dialogue: 0,0:00:41.95,0:00:43.42,DEFAULT,,0,0,0,,{\r}{\kf15}Oh{\kf15} the{\kf25} Grand{\kf15} Gal{\kf15}lop{\kf20}ing{\kf30} Ga{\kf11}la
+Dialogue: 0,0:00:43.60,0:00:44.92,DEFAULT,,0,0,0,,{\r}{\kf16}is{\kf16} the{\kf22} best{\kf22} place{\kf22} for{\kf33} me
+Dialogue: 0,0:00:45.10,0:00:47.62,DEFAULT,,0,0,0,,{\r}{\kf16}'Cause{\kf11} it's{\kf11} the{\kf21} most{\kf11} ga{\kf11}lar{\kf16}ri{\kf11}fic{\kf11} and{\kf16} su{\kf16}per{\kf11}ly-{\kf16}ter{\kf11}ri{\kf16}fic{\kf16} ga{\kf11}la{\kf11} e{\kf10}ver
+Dialogue: 0,0:00:47.77,0:00:50.62,DEFAULT,,0,0,0,,{\r}{\kf10}In{\kf10} the{\kf17} whole{\kf26} ga{\kf21}la{\kf201}xy
+Dialogue: 0,0:00:51.14,0:00:51.85,DEFAULT,,0,0,0,,{\r}{\kf71}Wheee!

@@ -1,47 +1,54 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Say Goodbye to the Holiday
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.86,0:00:04.92,DEFAULT,,0,0,0,,{\kf30}I{\kf23} hate{\kf27} Hearth's{\kf23} War{\kf12}ming{\kf34} Eve
-Dialogue: 0,0:00:05.52,0:00:07.39,DEFAULT,,0,0,0,,{\kf19}All{\kf12} of{\kf15} E{\kf23}ques{\kf15}tri{\kf12}a{\kf12} would{\kf12} be{\kf15} bet{\kf15}ter{\kf15} off
-Dialogue: 0,0:00:07.58,0:00:09.72,DEFAULT,,0,0,0,,{\kf12}If{\kf12} we{\kf23} just{\kf19} skipped{\kf12} the{\kf15} day{\kf27} al{\kf19}to{\kf15}ge{\kf19}ther
-Dialogue: 0,0:00:11.11,0:00:12.72,DEFAULT,,0,0,0,,{\kf19}Hap{\kf19}py{\kf27} Hearth's{\kf27} War{\kf27}ming,
-Dialogue: 0,0:00:12.91,0:00:14.67,DEFAULT,,0,0,0,,{\kf19}They{\kf38} say{\kf15} in{\kf15} the{\kf34} street
-Dialogue: 0,0:00:15.38,0:00:17.07,DEFAULT,,0,0,0,,{\kf15}Hap{\kf23}py{\kf30} Hearth's{\kf19} War{\kf38}ming,
-Dialogue: 0,0:00:17.22,0:00:18.98,DEFAULT,,0,0,0,,{\kf19}They{\kf23} think{\kf19} they're{\kf30} so{\kf45} sweet
-Dialogue: 0,0:00:19.47,0:00:22.88,DEFAULT,,0,0,0,,{\kf38}Words{\kf19} said{\kf15} so{\kf19} of{\kf12}ten{\kf19} that{\kf15} they{\kf27} lack{\kf19} a{\kf15}ny{\kf23} mea{\kf30}ning
-Dialogue: 0,0:00:23.25,0:00:24.45,DEFAULT,,0,0,0,,{\kf23}Why{\kf12} should{\kf15} I{\kf19} join{\kf23} in
-Dialogue: 0,0:00:24.64,0:00:26.70,DEFAULT,,0,0,0,,{\kf19}When{\kf23} I{\kf19} could{\kf19} be{\kf15} in{\kf19}ter{\kf23}ve{\kf38}ning?
-Dialogue: 0,0:00:27.04,0:00:30.30,DEFAULT,,0,0,0,,{\kf19}Eve{\kf19}ry{\kf19}po{\kf15}ny{\kf23} loves{\kf19} this{\kf19} cur{\kf23}sed{\kf38} ho{\kf27}li{\kf27}day
-Dialogue: 0,0:00:30.53,0:00:32.44,DEFAULT,,0,0,0,,{\kf19}But{\kf15} would{\kf19} they{\kf19} be{\kf15} bet{\kf19}ter{\kf38} off
-Dialogue: 0,0:00:32.67,0:00:35.55,DEFAULT,,0,0,0,,{\kf15}With{\kf15} it{\kf27} out{\kf23} of{\kf34} the{\kf128} way?
-Dialogue: 0,0:00:37.20,0:00:42.11,DEFAULT,,0,0,0,,{\kf42}Well,{\kf45} o{\kf285}kay
-Dialogue: 0,0:00:42.64,0:00:45.34,DEFAULT,,0,0,0,,{\kf34}Say{\kf27} good{\kf27}bye{\kf12} to{\kf15} the{\kf19} ho{\kf15}li{\kf45}day
-Dialogue: 0,0:00:45.79,0:00:48.64,DEFAULT,,0,0,0,,{\kf15}With{\kf12} my{\kf34} ma{\kf38}gic,{\kf34} I'll{\kf23} e{\kf30}rase{\kf23} it
-Dialogue: 0,0:00:49.46,0:00:52.24,DEFAULT,,0,0,0,,{\kf15}The{\kf34} grea{\kf23}test{\kf34} gift{\kf15} that{\kf15} I{\kf19} give{\kf12} to{\kf45}day
-Dialogue: 0,0:00:52.46,0:00:55.43,DEFAULT,,0,0,0,,{\kf15}And{\kf12} eve{\kf15}ry{\kf23}po{\kf15}ny{\kf27} will{\kf27} have{\kf27} to{\kf27} face{\kf19} it
-Dialogue: 0,0:00:56.06,0:01:02.70,DEFAULT,,0,0,0,,{\kf34}No{\kf72} more{\kf23} lit{\kf49}tle{\kf64} games{\kf68} for{\kf72} you{\kf38} to{\kf27}-o{\kf117} play
-Dialogue: 0,0:01:04.24,0:01:07.84,DEFAULT,,0,0,0,,{\kf19}Af{\kf15}ter{\kf23} you{\kf27} say{\kf27} good{\kf34}bye{\kf15} to{\kf15} the{\kf19} ho{\kf19}li{\kf57}day
-Dialogue: 0,0:01:11.51,0:01:14.81,DEFAULT,,0,0,0,,{\kf27}Good{\kf34}bye,{\kf27} Hearth's{\kf27} War{\kf19}ming,{\kf15} you{\kf15} had{\kf15} a{\kf23} good{\kf34} run
-Dialogue: 0,0:01:15.00,0:01:18.41,DEFAULT,,0,0,0,,{\kf27}Good{\kf38}bye,{\kf30} Hearth's{\kf15} Wa{\kf15}-ar{\kf23}ming,{\kf15} it's{\kf19} o{\kf12}ver,{\kf23} you're{\kf38} done
-Dialogue: 0,0:01:18.90,0:01:22.16,DEFAULT,,0,0,0,,{\kf19}Fi{\kf8}nal{\kf15}ly{\kf19} set{\kf34} free{\kf15} from{\kf12} your{\kf30} forced{\kf15} ce{\kf15}leb{\kf27}ra{\kf23}tions
-Dialogue: 0,0:01:22.42,0:01:25.65,DEFAULT,,0,0,0,,{\kf15}No{\kf19} need{\kf15} to{\kf15} re{\kf30}ply{\kf15} to{\kf19} your{\kf23} trite{\kf15} in{\kf19}vi{\kf19}ta{\kf19}-a{\kf23}tions
-Dialogue: 0,0:01:25.95,0:01:28.80,DEFAULT,,0,0,0,,{\kf15}Ca{\kf15}len{\kf23}dar{\kf15} shor{\kf15}ter{\kf15} by{\kf15} a{\kf27} sin{\kf27}gle{\kf27} day
-Dialogue: 0,0:01:29.06,0:01:31.42,DEFAULT,,0,0,0,,{\kf12}Is{\kf15} my{\kf23} ma{\kf19}gic{\kf12} u{\kf15}-up{\kf15} to{\kf15} the{\kf27} test?
-Dialogue: 0,0:01:32.47,0:01:39.26,DEFAULT,,0,0,0,,{\kf19}Time{\kf15} to{\kf68} see,{\kf64} I{\kf68} can't{\kf68} de{\kf270}lay
-Dialogue: 0,0:01:40.04,0:01:42.63,DEFAULT,,0,0,0,,{\kf34}Say{\kf30} good{\kf30}bye{\kf15} to{\kf15} the{\kf19} ho{\kf19}li{\kf38}day
-Dialogue: 0,0:01:42.93,0:01:46.16,DEFAULT,,0,0,0,,{\kf19}Pre{\kf12}pare{\kf12} the{\kf30} spell,{\kf30} no{\kf27} he{\kf23}si{\kf27}ta{\kf42}tion
-Dialogue: 0,0:01:46.64,0:01:49.57,DEFAULT,,0,0,0,,{\kf27}All{\kf34} me{\kf34}mo{\kf30}ry{\kf23} shall{\kf19} fade{\kf15} a{\kf42}way
-Dialogue: 0,0:01:50.09,0:01:53.06,DEFAULT,,0,0,0,,{\kf19}See{\kf15} E{\kf19}ques{\kf15}tri{\kf15}a's{\kf15} new{\kf23} trans{\kf27}for{\kf19}ma{\kf19}-a{\kf38}tion
-Dialogue: 0,0:01:53.58,0:02:00.82,DEFAULT,,0,0,0,,{\kf30}No{\kf102} more{\kf45} shall{\kf72} a{\kf72}ny{\kf45}po{\kf38}-o{\kf53}ny{\kf158} say
-Dialogue: 0,0:02:01.38,0:02:02.84,DEFAULT,,0,0,0,,{\kf27}Hap{\kf12}py{\kf30} Hearth's{\kf27} War{\kf30}ming!
-Dialogue: 0,0:02:03.29,0:02:04.30,DEFAULT,,0,0,0,,{\kf19}Hmm{\kf15} hmm{\kf12} hmm{\kf15} hmm{\kf19} hmm!
-Dialogue: 0,0:02:05.50,0:02:11.84,DEFAULT,,0,0,0,,{\kf53}Af{\kf60}ter{\kf79} to{\kf387}day
-Dialogue: 0,0:02:13.23,0:02:19.26,DEFAULT,,0,0,0,,{\kf57}Af{\kf68}ter{\kf38} to{\kf38}-o{\kf338}day
+Dialogue: 0,0:00:02.86,0:00:04.92,DEFAULT,,0,0,0,,{\r}{\kf42}I{\kf32} hate{\kf37} Hearth's{\kf32} War{\kf16}ming{\kf47} Eve
+Dialogue: 0,0:00:05.52,0:00:07.40,DEFAULT,,0,0,0,,{\r}{\kf22}All{\kf13} of{\kf17} E{\kf26}ques{\kf17}tri{\kf13}a{\kf13} would{\kf13} be{\kf17} bet{\kf17}ter{\kf19} off
+Dialogue: 0,0:00:07.59,0:00:09.72,DEFAULT,,0,0,0,,{\r}{\kf14}If{\kf14} we{\kf29} just{\kf24} skipped{\kf14} the{\kf19} day{\kf33} al{\kf24}to{\kf19}ge{\kf24}ther
+Dialogue: 0,0:00:11.11,0:00:12.72,DEFAULT,,0,0,0,,{\r}{\kf26}Hap{\kf26}py{\kf36} Hearth's{\kf36} War{\kf37}ming,
+Dialogue: 0,0:00:12.91,0:00:14.67,DEFAULT,,0,0,0,,{\r}{\kf28}They{\kf55} say{\kf22} in{\kf22} the{\kf49} street
+Dialogue: 0,0:00:15.39,0:00:17.07,DEFAULT,,0,0,0,,{\r}{\kf20}Hap{\kf31}py{\kf41} Hearth's{\kf26} War{\kf51}ming,
+Dialogue: 0,0:00:17.22,0:00:18.98,DEFAULT,,0,0,0,,{\r}{\kf24}They{\kf29} think{\kf24} they're{\kf39} so{\kf60} sweet
+Dialogue: 0,0:00:19.47,0:00:22.88,DEFAULT,,0,0,0,,{\r}{\kf52}Words{\kf26} said{\kf21} so{\kf26} of{\kf16}ten{\kf26} that{\kf21} they{\kf36} lack{\kf26} a{\kf21}ny{\kf31} mea{\kf39}ning
+Dialogue: 0,0:00:23.26,0:00:24.46,DEFAULT,,0,0,0,,{\r}{\kf30}Why{\kf15} should{\kf20} I{\kf25} join{\kf30} in
+Dialogue: 0,0:00:24.65,0:00:26.71,DEFAULT,,0,0,0,,{\r}{\kf22}When{\kf27} I{\kf22} could{\kf22} be{\kf18} in{\kf22}ter{\kf27}ve{\kf46}ning?
+Dialogue: 0,0:00:27.05,0:00:30.31,DEFAULT,,0,0,0,,{\r}{\kf25}Eve{\kf25}ry{\kf25}po{\kf20}ny{\kf30} loves{\kf25} this{\kf25} cur{\kf30}sed{\kf50} ho{\kf35}li{\kf36}day
+Dialogue: 0,0:00:30.53,0:00:32.45,DEFAULT,,0,0,0,,{\r}{\kf25}But{\kf20} would{\kf25} they{\kf25} be{\kf20} bet{\kf25}ter{\kf51} off
+Dialogue: 0,0:00:32.67,0:00:35.56,DEFAULT,,0,0,0,,{\r}{\kf18}With{\kf18} it{\kf32} out{\kf27} of{\kf41} the{\kf153} way?
+Dialogue: 0,0:00:37.21,0:00:42.12,DEFAULT,,0,0,0,,{\r}{\kf55}Well,{\kf60} o{\kf376}kay
+Dialogue: 0,0:00:42.64,0:00:45.34,DEFAULT,,0,0,0,,{\r}{\kf48}Say{\kf37} good{\kf37}bye{\kf16} to{\kf21} the{\kf26} ho{\kf21}li{\kf64}day
+Dialogue: 0,0:00:45.79,0:00:48.64,DEFAULT,,0,0,0,,{\r}{\kf21}With{\kf16} my{\kf47} ma{\kf52}gic,{\kf47} I'll{\kf31} e{\kf41}rase{\kf30} it
+Dialogue: 0,0:00:49.47,0:00:52.24,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf45} grea{\kf30}test{\kf45} gift{\kf20} that{\kf20} I{\kf25} give{\kf15} to{\kf57}day
+Dialogue: 0,0:00:52.47,0:00:55.43,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf16} eve{\kf22}ry{\kf33}po{\kf22}ny{\kf38} will{\kf38} have{\kf38} to{\kf38} face{\kf29} it
+Dialogue: 0,0:00:56.07,0:01:02.70,DEFAULT,,0,0,0,,{\r}{\kf40}No{\kf85} more{\kf27} lit{\kf58}tle{\kf76} games{\kf80} for{\kf85} you{\kf45} to{\kf31}-o{\kf137} play
+Dialogue: 0,0:01:04.24,0:01:07.84,DEFAULT,,0,0,0,,{\r}{\kf25}Af{\kf20}ter{\kf30} you{\kf35} say{\kf35} good{\kf46}bye{\kf20} to{\kf20} the{\kf25} ho{\kf25}li{\kf79}day
+Dialogue: 0,0:01:11.52,0:01:14.82,DEFAULT,,0,0,0,,{\r}{\kf37}Good{\kf48}bye,{\kf37} Hearth's{\kf37} War{\kf27}ming,{\kf21} you{\kf21} had{\kf21} a{\kf32} good{\kf49} run
+Dialogue: 0,0:01:15.00,0:01:18.42,DEFAULT,,0,0,0,,{\r}{\kf36}Good{\kf51}bye,{\kf41} Hearth's{\kf20} Wa{\kf20}-ar{\kf31}ming,{\kf20} it's{\kf25} o{\kf15}ver,{\kf31} you're{\kf51} done
+Dialogue: 0,0:01:18.90,0:01:22.16,DEFAULT,,0,0,0,,{\r}{\kf27}Fi{\kf11}nal{\kf21}ly{\kf27} set{\kf48} free{\kf21} from{\kf16} your{\kf43} forced{\kf21} ce{\kf21}leb{\kf37}ra{\kf33}tions
+Dialogue: 0,0:01:22.43,0:01:25.65,DEFAULT,,0,0,0,,{\r}{\kf20}No{\kf25} need{\kf20} to{\kf20} re{\kf40}ply{\kf20} to{\kf25} your{\kf30} trite{\kf20} in{\kf25}vi{\kf25}ta{\kf25}-a{\kf27}tions
+Dialogue: 0,0:01:25.95,0:01:28.80,DEFAULT,,0,0,0,,{\r}{\kf22}Ca{\kf22}len{\kf34}dar{\kf22} shor{\kf22}ter{\kf22} by{\kf22} a{\kf39} sin{\kf39}gle{\kf41} day
+Dialogue: 0,0:01:29.06,0:01:31.43,DEFAULT,,0,0,0,,{\r}{\kf18}Is{\kf24} my{\kf35} ma{\kf30}gic{\kf18} u{\kf24}-up{\kf24} to{\kf24} the{\kf39} test?
+Dialogue: 0,0:01:32.48,0:01:39.26,DEFAULT,,0,0,0,,{\r}{\kf22}Time{\kf18} to{\kf80} see,{\kf76} I{\kf80} can't{\kf80} de{\kf323}lay
+Dialogue: 0,0:01:40.05,0:01:42.64,DEFAULT,,0,0,0,,{\r}{\kf44}Say{\kf39} good{\kf39}bye{\kf20} to{\kf20} the{\kf24} ho{\kf24}li{\kf49}day
+Dialogue: 0,0:01:42.94,0:01:46.16,DEFAULT,,0,0,0,,{\r}{\kf28}Pre{\kf17}pare{\kf17} the{\kf44} spell,{\kf44} no{\kf39} he{\kf33}si{\kf39}ta{\kf61}tion
+Dialogue: 0,0:01:46.65,0:01:49.57,DEFAULT,,0,0,0,,{\r}{\kf35}All{\kf45} me{\kf45}mo{\kf40}ry{\kf30} shall{\kf25} fade{\kf20} a{\kf52}way
+Dialogue: 0,0:01:50.10,0:01:53.06,DEFAULT,,0,0,0,,{\r}{\kf25}See{\kf20} E{\kf25}ques{\kf20}tri{\kf20}a's{\kf20} new{\kf30} trans{\kf35}for{\kf25}ma{\kf25}-a{\kf51}tion
+Dialogue: 0,0:01:53.59,0:02:00.82,DEFAULT,,0,0,0,,{\r}{\kf36}No{\kf120} more{\kf53} shall{\kf84} a{\kf84}ny{\kf53}po{\kf44}-o{\kf62}ny{\kf188} say
+Dialogue: 0,0:02:01.38,0:02:02.85,DEFAULT,,0,0,0,,{\r}{\kf31}Hap{\kf13}py{\kf35} Hearth's{\kf31} War{\kf36}ming!
+Dialogue: 0,0:02:03.30,0:02:04.31,DEFAULT,,0,0,0,,{\r}{\kf24}Hmm{\kf19} hmm{\kf14} hmm{\kf19} hmm{\kf25} hmm!
+Dialogue: 0,0:02:05.51,0:02:11.85,DEFAULT,,0,0,0,,{\r}{\kf58}Af{\kf66}ter{\kf86} to{\kf424}day
+Dialogue: 0,0:02:13.23,0:02:19.27,DEFAULT,,0,0,0,,{\r}{\kf63}Af{\kf76}ter{\kf42} to{\kf42}-o{\kf381}day

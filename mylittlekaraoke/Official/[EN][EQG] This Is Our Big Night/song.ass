@@ -1,50 +1,57 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: This Is Our Big Night
+Artist: Equestria Girls
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.27,0:00:03.28,DEFAULT,,0,0,0,,{\kf24}This{\kf18} is{\kf18} our{\kf24} big{\kf191} night
-Dialogue: 0,0:00:03.45,0:00:04.66,DEFAULT,,0,0,0,,{\kf24}We're{\kf24} get{\kf18}ting{\kf18} rea{\kf18}dy
-Dialogue: 0,0:00:04.72,0:00:07.43,DEFAULT,,0,0,0,,{\kf18}And{\kf18} we're{\kf24} do{\kf24}ing{\kf18} it{\kf35} up{\kf93} right
-Dialogue: 0,0:00:07.72,0:00:10.61,DEFAULT,,0,0,0,,{\kf18}This{\kf12} is{\kf18} our{\kf24} big{\kf180} night
-Dialogue: 0,0:00:10.90,0:00:12.00,DEFAULT,,0,0,0,,{\kf18}Friend{\kf18}ship{\kf18} sur{\kf41}vived,
-Dialogue: 0,0:00:12.05,0:00:14.71,DEFAULT,,0,0,0,,{\kf24}Now{\kf12} we'll{\kf29} start{\kf18} it{\kf47} out{\kf81} right
-Dialogue: 0,0:00:16.44,0:00:17.54,DEFAULT,,0,0,0,,{\kf12}The{\kf41} time's{\kf35} right
-Dialogue: 0,0:00:17.60,0:00:18.75,DEFAULT,,0,0,0,,{\kf24}Gon{\kf12}na{\kf24} make{\kf12} it{\kf24} last
-Dialogue: 0,0:00:18.81,0:00:20.31,DEFAULT,,0,0,0,,{\kf12}'cause{\kf12} it's{\kf18} the{\kf35} first{\kf41} night
-Dialogue: 0,0:00:20.37,0:00:21.58,DEFAULT,,0,0,0,,{\kf24}That{\kf18} we're{\kf18} e{\kf12}ver{\kf18} gon{\kf12}na
-Dialogue: 0,0:00:21.70,0:00:23.60,DEFAULT,,0,0,0,,{\kf24}Start{\kf18} to{\kf18} just{\kf18} have{\kf18} fun{\kf18} to{\kf18}get{\kf24}her
-Dialogue: 0,0:00:23.83,0:00:25.85,DEFAULT,,0,0,0,,{\kf12}We're{\kf41} so{\kf35} glad,{\kf41} so{\kf24} hap{\kf12}py
-Dialogue: 0,0:00:25.91,0:00:27.64,DEFAULT,,0,0,0,,{\kf18}We{\kf18} could{\kf24} ne{\kf18}ver{\kf24} be{\kf35} mad
-Dialogue: 0,0:00:27.76,0:00:28.91,DEFAULT,,0,0,0,,{\kf18}Did{\kf24} it{\kf29} right,{\kf24} now
-Dialogue: 0,0:00:28.97,0:00:30.94,DEFAULT,,0,0,0,,{\kf12}This{\kf18} is{\kf18} our{\kf35} big{\kf35} night{\kf47} now
-Dialogue: 0,0:00:31.46,0:00:38.15,DEFAULT,,0,0,0,,{\kf29}Six{\kf41} friends{\kf18} on{\kf12} the{\kf93} way{\kf70} up{\kf70} no{\kf58}-o{\kf47}-o{\kf156}-ow
-Dialogue: 0,0:00:38.85,0:00:44.51,DEFAULT,,0,0,0,,{\kf35}Six{\kf41} friends{\kf12} here{\kf12} to{\kf87} show{\kf76} you{\kf70} ho{\kf58}-o{\kf41}-o{\kf58}-ow
-Dialogue: 0,0:00:44.62,0:00:47.62,DEFAULT,,0,0,0,,{\kf18}This{\kf18} is{\kf18} our{\kf24} big{\kf191} night
-Dialogue: 0,0:00:47.85,0:00:49.01,DEFAULT,,0,0,0,,{\kf18}We're{\kf24} get{\kf18}ting{\kf24} rea{\kf18}dy
-Dialogue: 0,0:00:49.07,0:00:51.78,DEFAULT,,0,0,0,,{\kf18}And{\kf18} we're{\kf18} do{\kf18}ing{\kf18} it{\kf35} up{\kf99} right
-Dialogue: 0,0:00:52.01,0:00:54.78,DEFAULT,,0,0,0,,{\kf18}This{\kf18} is{\kf18} our{\kf24} big{\kf168} night
-Dialogue: 0,0:00:55.25,0:00:56.34,DEFAULT,,0,0,0,,{\kf18}We{\kf18} made{\kf18} it{\kf18} hap{\kf18}pen
-Dialogue: 0,0:00:56.40,0:00:59.23,DEFAULT,,0,0,0,,{\kf24}Now{\kf18} let's{\kf24} par{\kf24}ty{\kf52} all{\kf99} night
-Dialogue: 0,0:01:00.79,0:01:01.83,DEFAULT,,0,0,0,,{\kf18}We're{\kf41} here{\kf35} now
-Dialogue: 0,0:01:01.94,0:01:03.04,DEFAULT,,0,0,0,,{\kf24}And{\kf12} we{\kf18} worked{\kf18} so{\kf18} hard
-Dialogue: 0,0:01:03.10,0:01:05.47,DEFAULT,,0,0,0,,{\kf18}To{\kf18} make{\kf18} it{\kf18} come{\kf12} a{\kf47}round{\kf12} to{\kf12} to{\kf29}night
-Dialogue: 0,0:01:05.64,0:01:07.95,DEFAULT,,0,0,0,,{\kf18}So{\kf24} let's{\kf18} try{\kf18} to{\kf18} make{\kf12} it{\kf18} last{\kf18} for{\kf18}e{\kf24}ver
-Dialogue: 0,0:01:08.18,0:01:10.03,DEFAULT,,0,0,0,,{\kf12}The{\kf41} school{\kf41} lights{\kf35} so{\kf29} bright,
-Dialogue: 0,0:01:10.26,0:01:11.93,DEFAULT,,0,0,0,,{\kf18}Beat{\kf18} is{\kf18} pum{\kf18}ping{\kf18} through{\kf18} the{\kf29} night
-Dialogue: 0,0:01:12.11,0:01:15.34,DEFAULT,,0,0,0,,{\kf24}Par{\kf12}ty's{\kf29} star{\kf18}ting,{\kf18} D{\kf18}J's{\kf18} got{\kf18} the{\kf18} mu{\kf18}sic{\kf29} just{\kf52} right
-Dialogue: 0,0:01:15.74,0:01:22.39,DEFAULT,,0,0,0,,{\kf29}Six{\kf41} friends{\kf24} on{\kf18} the{\kf76} way{\kf76} up{\kf70} no{\kf58}-o{\kf41}-o{\kf151}-ow
-Dialogue: 0,0:01:23.14,0:01:28.74,DEFAULT,,0,0,0,,{\kf35}Six{\kf41} friends{\kf18} here{\kf12} to{\kf87} show{\kf70} you{\kf76} ho{\kf52}-o{\kf35}-o{\kf52}-ow
-Dialogue: 0,0:01:28.97,0:01:31.97,DEFAULT,,0,0,0,,{\kf18}This{\kf24} is{\kf18} our{\kf29} big{\kf185} night
-Dialogue: 0,0:01:32.20,0:01:33.30,DEFAULT,,0,0,0,,{\kf18}We're{\kf24} get{\kf18}ting{\kf18} rea{\kf12}dy
-Dialogue: 0,0:01:33.41,0:01:36.01,DEFAULT,,0,0,0,,{\kf18}And{\kf18} we're{\kf18} do{\kf18}ing{\kf18} it{\kf29} up{\kf87} right
-Dialogue: 0,0:01:36.30,0:01:39.13,DEFAULT,,0,0,0,,{\kf24}This{\kf18} is{\kf18} our{\kf24} big{\kf162} night
-Dialogue: 0,0:01:39.59,0:01:40.69,DEFAULT,,0,0,0,,{\kf18}We{\kf18} made{\kf18} it{\kf18} hap{\kf18}pen
-Dialogue: 0,0:01:40.81,0:01:43.35,DEFAULT,,0,0,0,,{\kf18}Now{\kf18} let's{\kf18} par{\kf18}ty{\kf47} all{\kf76} night
-Dialogue: 0,0:01:43.75,0:01:48.49,DEFAULT,,0,0,0,,{\kf18}This{\kf18} is{\kf18} our{\kf24} big{\kf151} ni{\kf47}-i{\kf174}-ight
+Dialogue: 0,0:00:00.28,0:00:03.28,DEFAULT,,0,0,0,,{\r}{\kf26}This{\kf19} is{\kf19} our{\kf26} big{\kf210} night
+Dialogue: 0,0:00:03.45,0:00:04.67,DEFAULT,,0,0,0,,{\r}{\kf28}We're{\kf28} get{\kf21}ting{\kf21} rea{\kf23}dy
+Dialogue: 0,0:00:04.73,0:00:07.44,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} we're{\kf28} do{\kf28}ing{\kf21} it{\kf42} up{\kf110} right
+Dialogue: 0,0:00:07.73,0:00:10.62,DEFAULT,,0,0,0,,{\r}{\kf20}This{\kf13} is{\kf20} our{\kf27} big{\kf209} night
+Dialogue: 0,0:00:10.90,0:00:12.00,DEFAULT,,0,0,0,,{\r}{\kf21}Friend{\kf21}ship{\kf21} sur{\kf47}vived,
+Dialogue: 0,0:00:12.06,0:00:14.71,DEFAULT,,0,0,0,,{\r}{\kf30}Now{\kf15} we'll{\kf37} start{\kf22} it{\kf59} out{\kf103} right
+Dialogue: 0,0:00:16.45,0:00:17.54,DEFAULT,,0,0,0,,{\r}{\kf15}The{\kf51} time's{\kf44} right
+Dialogue: 0,0:00:17.60,0:00:18.76,DEFAULT,,0,0,0,,{\r}{\kf29}Gon{\kf14}na{\kf29} make{\kf14} it{\kf29} last
+Dialogue: 0,0:00:18.81,0:00:20.32,DEFAULT,,0,0,0,,{\r}{\kf15}'cause{\kf15} it's{\kf23} the{\kf45} first{\kf52} night
+Dialogue: 0,0:00:20.37,0:00:21.59,DEFAULT,,0,0,0,,{\r}{\kf28}That{\kf21} we're{\kf21} e{\kf14}ver{\kf21} gon{\kf16}na
+Dialogue: 0,0:00:21.70,0:00:23.61,DEFAULT,,0,0,0,,{\r}{\kf29}Start{\kf22} to{\kf22} just{\kf22} have{\kf22} fun{\kf22} to{\kf22}get{\kf30}her
+Dialogue: 0,0:00:23.84,0:00:25.86,DEFAULT,,0,0,0,,{\r}{\kf14}We're{\kf50} so{\kf43} glad,{\kf50} so{\kf29} hap{\kf16}py
+Dialogue: 0,0:00:25.92,0:00:27.65,DEFAULT,,0,0,0,,{\r}{\kf23}We{\kf23} could{\kf30} ne{\kf23}ver{\kf30} be{\kf44} mad
+Dialogue: 0,0:00:27.76,0:00:28.92,DEFAULT,,0,0,0,,{\r}{\kf22}Did{\kf29} it{\kf36} right,{\kf28} now
+Dialogue: 0,0:00:28.98,0:00:30.94,DEFAULT,,0,0,0,,{\r}{\kf14}This{\kf21} is{\kf21} our{\kf42} big{\kf42} night{\kf56} now
+Dialogue: 0,0:00:31.46,0:00:38.16,DEFAULT,,0,0,0,,{\r}{\kf33}Six{\kf46} friends{\kf20} on{\kf13} the{\kf105} way{\kf79} up{\kf79} no{\kf66}-o{\kf53}-o{\kf176}-ow
+Dialogue: 0,0:00:38.85,0:00:44.51,DEFAULT,,0,0,0,,{\r}{\kf40}Six{\kf47} friends{\kf13} here{\kf13} to{\kf101} show{\kf88} you{\kf81} ho{\kf67}-o{\kf47}-o{\kf69}-ow
+Dialogue: 0,0:00:44.63,0:00:47.63,DEFAULT,,0,0,0,,{\r}{\kf20}This{\kf20} is{\kf20} our{\kf26} big{\kf214} night
+Dialogue: 0,0:00:47.86,0:00:49.01,DEFAULT,,0,0,0,,{\r}{\kf20}We're{\kf27} get{\kf20}ting{\kf27} rea{\kf21}dy
+Dialogue: 0,0:00:49.07,0:00:51.79,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} we're{\kf21} do{\kf21}ing{\kf21} it{\kf43} up{\kf123} right
+Dialogue: 0,0:00:52.02,0:00:54.79,DEFAULT,,0,0,0,,{\r}{\kf20}This{\kf20} is{\kf20} our{\kf26} big{\kf191} night
+Dialogue: 0,0:00:55.25,0:00:56.35,DEFAULT,,0,0,0,,{\r}{\kf22}We{\kf22} made{\kf22} it{\kf22} hap{\kf22}pen
+Dialogue: 0,0:00:56.41,0:00:59.23,DEFAULT,,0,0,0,,{\r}{\kf28}Now{\kf21} let's{\kf28} par{\kf28}ty{\kf62} all{\kf116} night
+Dialogue: 0,0:01:00.79,0:01:01.83,DEFAULT,,0,0,0,,{\r}{\kf20}We're{\kf46} here{\kf38} now
+Dialogue: 0,0:01:01.95,0:01:03.05,DEFAULT,,0,0,0,,{\r}{\kf29}And{\kf15} we{\kf22} worked{\kf22} so{\kf22} hard
+Dialogue: 0,0:01:03.10,0:01:05.47,DEFAULT,,0,0,0,,{\r}{\kf23}To{\kf23} make{\kf23} it{\kf23} come{\kf15} a{\kf61}round{\kf15} to{\kf15} to{\kf39}night
+Dialogue: 0,0:01:05.64,0:01:07.95,DEFAULT,,0,0,0,,{\r}{\kf22}So{\kf30} let's{\kf22} try{\kf22} to{\kf22} make{\kf15} it{\kf22} last{\kf22} for{\kf22}e{\kf32}ver
+Dialogue: 0,0:01:08.19,0:01:10.03,DEFAULT,,0,0,0,,{\r}{\kf14}The{\kf48} school{\kf48} lights{\kf41} so{\kf34} bright,
+Dialogue: 0,0:01:10.26,0:01:11.94,DEFAULT,,0,0,0,,{\r}{\kf22}Beat{\kf22} is{\kf22} pum{\kf22}ping{\kf22} through{\kf22} the{\kf35} night
+Dialogue: 0,0:01:12.11,0:01:15.35,DEFAULT,,0,0,0,,{\r}{\kf28}Par{\kf14}ty's{\kf35} star{\kf21}ting,{\kf21} D{\kf21}J's{\kf21} got{\kf21} the{\kf21} mu{\kf21}sic{\kf35} just{\kf64} right
+Dialogue: 0,0:01:15.75,0:01:22.39,DEFAULT,,0,0,0,,{\r}{\kf33}Six{\kf46} friends{\kf27} on{\kf20} the{\kf86} way{\kf86} up{\kf80} no{\kf66}-o{\kf46}-o{\kf174}-ow
+Dialogue: 0,0:01:23.14,0:01:28.74,DEFAULT,,0,0,0,,{\r}{\kf41}Six{\kf48} friends{\kf20} here{\kf14} to{\kf102} show{\kf82} you{\kf89} ho{\kf61}-o{\kf41}-o{\kf62}-ow
+Dialogue: 0,0:01:28.97,0:01:31.98,DEFAULT,,0,0,0,,{\r}{\kf19}This{\kf26} is{\kf19} our{\kf32} big{\kf204} night
+Dialogue: 0,0:01:32.21,0:01:33.30,DEFAULT,,0,0,0,,{\r}{\kf22}We're{\kf29} get{\kf22}ting{\kf22} rea{\kf15}dy
+Dialogue: 0,0:01:33.42,0:01:36.02,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} we're{\kf22} do{\kf22}ing{\kf22} it{\kf37} up{\kf113} right
+Dialogue: 0,0:01:36.31,0:01:39.14,DEFAULT,,0,0,0,,{\r}{\kf27}This{\kf20} is{\kf20} our{\kf27} big{\kf189} night
+Dialogue: 0,0:01:39.60,0:01:40.69,DEFAULT,,0,0,0,,{\r}{\kf22}We{\kf22} made{\kf22} it{\kf22} hap{\kf22}pen
+Dialogue: 0,0:01:40.81,0:01:43.35,DEFAULT,,0,0,0,,{\r}{\kf23}Now{\kf23} let's{\kf23} par{\kf23}ty{\kf62} all{\kf100} night
+Dialogue: 0,0:01:43.76,0:01:48.49,DEFAULT,,0,0,0,,{\r}{\kf18}This{\kf18} is{\kf18} our{\kf25} big{\kf160} ni{\kf49}-i{\kf185}-ight

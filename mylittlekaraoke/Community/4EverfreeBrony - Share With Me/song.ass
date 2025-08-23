@@ -1,44 +1,51 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Share With Me
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.18,0:00:03.23,DEFAULT,,0,0,0,,{\kf18}Don't{\kf12} real{\kf18}ly{\kf18} know{\kf18} if{\kf24} she{\kf36} saw{\kf24} me
-Dialogue: 0,0:00:03.40,0:00:06.57,DEFAULT,,0,0,0,,{\kf24}I{\kf12} won{\kf24}~{\kf36}der{\kf30} if{\kf24} I'll{\kf18} e{\kf12}~{\kf18}ver{\kf47} learn
-Dialogue: 0,0:00:08.56,0:00:10.67,DEFAULT,,0,0,0,,{\kf18}Oh{\kf18} yes,{\kf18} I{\kf18} know{\kf18} I'll{\kf18} be{\kf36} sor{\kf18}ry
-Dialogue: 0,0:00:10.84,0:00:14.30,DEFAULT,,0,0,0,,{\kf24}If{\kf12} I{\kf6}~{\kf12}~{\kf30} don't{\kf24} make{\kf24} it{\kf18} clear{\kf12}~{\kf18} to{\kf24} her{\kf12}~{\kf24}~
-Dialogue: 0,0:00:14.71,0:00:17.58,DEFAULT,,0,0,0,,{\kf18}The{\kf18} po{\kf18}ny's{\kf18} got{\kf18} a{\kf36} knack{\kf30} for{\kf18} ex{\kf18}cel{\kf24}lence
-Dialogue: 0,0:00:17.76,0:00:19.40,DEFAULT,,0,0,0,,{\kf18}Clear{\kf18}ly{\kf18} not{\kf18} an{\kf18} ac{\kf18}ci{\kf24}dent
-Dialogue: 0,0:00:19.63,0:00:22.21,DEFAULT,,0,0,0,,{\kf18}E{\kf18}le{\kf24}gant{\kf18} per{\kf18}fec{\kf18}tion{\kf12} she{\kf12}~{\kf12}~{\kf42} is
-Dialogue: 0,0:00:22.85,0:00:24.96,DEFAULT,,0,0,0,,{\kf18}She's{\kf18} the{\kf18} mare{\kf18} who's{\kf18} got{\kf18} e{\kf18}very{\kf42}thing
-Dialogue: 0,0:00:25.90,0:00:27.54,DEFAULT,,0,0,0,,{\kf18}But{\kf30} emp{\kf30}ti{\kf65}ness
-Dialogue: 0,0:00:29.65,0:00:36.57,DEFAULT,,0,0,0,,{\kf18}But{\kf18} will{\kf18} you{\kf18} e{\kf18}ver{\kf170} share{\kf165} with{\kf194} me?
-Dialogue: 0,0:00:37.68,0:00:40.26,DEFAULT,,0,0,0,,{\kf24}My{\kf18} lit{\kf12}tle{\kf18} fa{\kf18}shio{\kf18}nis{\kf18}ta{\kf18} can't{\kf18} get{\kf18} a{\kf24} break
-Dialogue: 0,0:00:40.49,0:00:42.43,DEFAULT,,0,0,0,,{\kf18}Too{\kf18} ma{\kf18}ny{\kf18} dres{\kf12}ses{\kf12}~{\kf53} due
-Dialogue: 0,0:00:43.77,0:00:45.76,DEFAULT,,0,0,0,,{\kf18}And{\kf18} there's{\kf24} no{\kf18} es{\kf18}ca{\kf18}~{\kf30}pin'{\kf12} but
-Dialogue: 0,0:00:45.88,0:00:51.45,DEFAULT,,0,0,0,,{\kf182}Ra{\kf170}ri{\kf182}ty
-Dialogue: 0,0:00:52.68,0:00:55.37,DEFAULT,,0,0,0,,{\kf18}I{\kf24} bet{\kf18} you{\kf18} won{\kf18}der{\kf18} if{\kf18} the{\kf18} world{\kf18} has{\kf18} its{\kf30} cup
-Dialogue: 0,0:00:55.55,0:00:57.43,DEFAULT,,0,0,0,,{\kf18}Filled{\kf18} to{\kf18} the{\kf24} brim{\kf12} with{\kf18}~{\kf42} you
-Dialogue: 0,0:00:58.77,0:01:00.59,DEFAULT,,0,0,0,,{\kf18}And{\kf18} how{\kf18} could{\kf18} I{\kf18} blame{\kf18}~{\kf36} them?
-Dialogue: 0,0:01:44.94,0:01:48.11,DEFAULT,,0,0,0,,{\kf30}Will{\kf30} she{\kf53} see{\kf153} me
-Dialogue: 0,0:01:49.16,0:01:51.74,DEFAULT,,0,0,0,,{\kf30}When{\kf18} sure{\kf18}ly{\kf18} I'm{\kf18} in{\kf18}vi{\kf18}si{\kf71}ble
-Dialogue: 0,0:01:52.50,0:01:55.61,DEFAULT,,0,0,0,,{\kf30}Will{\kf30} she{\kf53} hear{\kf18} me{\kf18}~{\kf106}~
-Dialogue: 0,0:01:56.78,0:01:59.30,DEFAULT,,0,0,0,,{\kf24}If{\kf18} I{\kf18} don't{\kf18} make{\kf18} a{\kf18} sound{\kf18} at{\kf77} all
-Dialogue: 0,0:02:01.18,0:02:04.16,DEFAULT,,0,0,0,,{\kf18}Why{\kf18} am{\kf18} I{\kf18} fight{\kf12}ing{\kf18} a{\kf30} los{\kf36}ing{\kf18} bat{\kf24}~{\kf18}tle?
-Dialogue: 0,0:02:04.34,0:02:07.09,DEFAULT,,0,0,0,,{\kf24}And{\kf24} why{\kf24} from{\kf18} the{\kf18} lo{\kf18}wer{\kf24} ground{\kf12}~{\kf53}~?
-Dialogue: 0,0:02:07.50,0:02:10.49,DEFAULT,,0,0,0,,{\kf36}Well{\kf30} they{\kf59} told{\kf135} me
-Dialogue: 0,0:02:11.66,0:02:14.53,DEFAULT,,0,0,0,,{\kf36}My{\kf18} heart{\kf18} would{\kf18} car{\kf18}ry{\kf18} me{\kf18} a{\kf100}round
-Dialogue: 0,0:02:14.71,0:02:21.45,DEFAULT,,0,0,0,,{\kf18}So{\kf18} will{\kf18} you{\kf18} e{\kf18}ver{\kf165} share{\kf170} with{\kf182} me?
-Dialogue: 0,0:02:22.68,0:02:25.26,DEFAULT,,0,0,0,,{\kf18}My{\kf18} lit{\kf18}tle{\kf18} fa{\kf18}shio{\kf18}nis{\kf18}ta{\kf18} can't{\kf18} get{\kf18} a{\kf24} break
-Dialogue: 0,0:02:25.49,0:02:27.54,DEFAULT,,0,0,0,,{\kf18}Too{\kf24} ma{\kf18}ny{\kf24} dres{\kf12}ses{\kf12}~{\kf59} due
-Dialogue: 0,0:02:28.77,0:02:30.76,DEFAULT,,0,0,0,,{\kf18}And{\kf18} there's{\kf18} no{\kf18} es{\kf18}ca{\kf18}~{\kf24}pin'{\kf12} but
-Dialogue: 0,0:02:30.88,0:02:36.33,DEFAULT,,0,0,0,,{\kf170}Ra{\kf170}ri{\kf170}ty
-Dialogue: 0,0:02:37.68,0:02:40.32,DEFAULT,,0,0,0,,{\kf18}I{\kf18} bet{\kf18} you{\kf18} won{\kf18}der{\kf18} if{\kf18} the{\kf18} world{\kf18} has{\kf18} its{\kf30} cup
-Dialogue: 0,0:02:40.49,0:02:42.37,DEFAULT,,0,0,0,,{\kf18}Filled{\kf18} to{\kf18} the{\kf30} brim{\kf12} with{\kf18}~{\kf36} you
-Dialogue: 0,0:02:43.77,0:02:45.65,DEFAULT,,0,0,0,,{\kf18}And{\kf18} how{\kf18} could{\kf18} I{\kf18} blame{\kf12}~{\kf42} them?
+Dialogue: 0,0:00:01.18,0:00:03.23,DEFAULT,,0,0,0,,{\r}{\kf22}Don't{\kf15} real{\kf22}ly{\kf22} know{\kf22} if{\kf29} she{\kf44} saw{\kf29} me
+Dialogue: 0,0:00:03.41,0:00:06.57,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf15} won{\kf31}~{\kf46}der{\kf39} if{\kf31} I'll{\kf23} e{\kf15}~{\kf23}ver{\kf62} learn
+Dialogue: 0,0:00:08.56,0:00:10.67,DEFAULT,,0,0,0,,{\r}{\kf23}Oh{\kf23} yes,{\kf23} I{\kf23} know{\kf23} I'll{\kf23} be{\kf47} sor{\kf26}ry
+Dialogue: 0,0:00:10.85,0:00:14.30,DEFAULT,,0,0,0,,{\r}{\kf35}If{\kf17} I{\kf10}~{\kf17}~{\kf43} don't{\kf35} make{\kf35} it{\kf26} clear{\kf17}~{\kf26} to{\kf35} her{\kf17}~{\kf33}~
+Dialogue: 0,0:00:14.72,0:00:17.59,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf24} po{\kf24}ny's{\kf24} got{\kf24} a{\kf48} knack{\kf40} for{\kf24} ex{\kf24}cel{\kf31}lence
+Dialogue: 0,0:00:17.76,0:00:19.40,DEFAULT,,0,0,0,,{\r}{\kf22}Clear{\kf22}ly{\kf22} not{\kf22} an{\kf22} ac{\kf22}ci{\kf32}dent
+Dialogue: 0,0:00:19.64,0:00:22.22,DEFAULT,,0,0,0,,{\r}{\kf24}E{\kf24}le{\kf32}gant{\kf24} per{\kf24}fec{\kf24}tion{\kf16} she{\kf16}~{\kf16}~{\kf58} is
+Dialogue: 0,0:00:22.86,0:00:24.97,DEFAULT,,0,0,0,,{\r}{\kf23}She's{\kf23} the{\kf23} mare{\kf23} who's{\kf23} got{\kf23} e{\kf23}very{\kf50}thing
+Dialogue: 0,0:00:25.91,0:00:27.55,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf34} emp{\kf34}ti{\kf76}ness
+Dialogue: 0,0:00:29.66,0:00:36.57,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf20} will{\kf20} you{\kf20} e{\kf20}ver{\kf191} share{\kf184} with{\kf216} me?
+Dialogue: 0,0:00:37.68,0:00:40.26,DEFAULT,,0,0,0,,{\r}{\kf30}My{\kf23} lit{\kf15}tle{\kf23} fa{\kf23}shio{\kf23}nis{\kf23}ta{\kf23} can't{\kf23} get{\kf23} a{\kf29} break
+Dialogue: 0,0:00:40.50,0:00:42.43,DEFAULT,,0,0,0,,{\r}{\kf23}Too{\kf23} ma{\kf23}ny{\kf23} dres{\kf15}ses{\kf15}~{\kf71} due
+Dialogue: 0,0:00:43.78,0:00:45.77,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf23} there's{\kf31} no{\kf23} es{\kf23}ca{\kf23}~{\kf38}pin'{\kf15} but
+Dialogue: 0,0:00:45.89,0:00:51.45,DEFAULT,,0,0,0,,{\r}{\kf190}Ra{\kf178}ri{\kf189}ty
+Dialogue: 0,0:00:52.68,0:00:55.38,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf30} bet{\kf22} you{\kf22} won{\kf22}der{\kf22} if{\kf22} the{\kf22} world{\kf22} has{\kf22} its{\kf42} cup
+Dialogue: 0,0:00:55.55,0:00:57.43,DEFAULT,,0,0,0,,{\r}{\kf23}Filled{\kf23} to{\kf23} the{\kf30} brim{\kf15} with{\kf23}~{\kf51} you
+Dialogue: 0,0:00:58.78,0:01:00.59,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf23} how{\kf23} could{\kf23} I{\kf23} blame{\kf23}~{\kf44} them?
+Dialogue: 0,0:01:44.95,0:01:48.11,DEFAULT,,0,0,0,,{\r}{\kf35}Will{\kf35} she{\kf63} see{\kf183} me
+Dialogue: 0,0:01:49.17,0:01:51.75,DEFAULT,,0,0,0,,{\r}{\kf37}When{\kf22} sure{\kf22}ly{\kf22} I'm{\kf22} in{\kf22}vi{\kf22}si{\kf89}ble
+Dialogue: 0,0:01:52.51,0:01:55.61,DEFAULT,,0,0,0,,{\r}{\kf36}Will{\kf36} she{\kf65} hear{\kf22} me{\kf22}~{\kf130}~
+Dialogue: 0,0:01:56.79,0:01:59.31,DEFAULT,,0,0,0,,{\r}{\kf29}If{\kf22} I{\kf22} don't{\kf22} make{\kf22} a{\kf22} sound{\kf22} at{\kf91} all
+Dialogue: 0,0:02:01.18,0:02:04.17,DEFAULT,,0,0,0,,{\r}{\kf24}Why{\kf24} am{\kf24} I{\kf24} fight{\kf16}ing{\kf24} a{\kf39} los{\kf47}ing{\kf24} bat{\kf31}~{\kf22}tle?
+Dialogue: 0,0:02:04.34,0:02:07.10,DEFAULT,,0,0,0,,{\r}{\kf31}And{\kf31} why{\kf31} from{\kf23} the{\kf23} lo{\kf23}wer{\kf31} ground{\kf15}~{\kf67}~?
+Dialogue: 0,0:02:07.51,0:02:10.50,DEFAULT,,0,0,0,,{\r}{\kf41}Well{\kf34} they{\kf68} told{\kf156} me
+Dialogue: 0,0:02:11.67,0:02:14.54,DEFAULT,,0,0,0,,{\r}{\kf42}My{\kf21} heart{\kf21} would{\kf21} car{\kf21}ry{\kf21} me{\kf21} a{\kf119}round
+Dialogue: 0,0:02:14.72,0:02:21.45,DEFAULT,,0,0,0,,{\r}{\kf20}So{\kf20} will{\kf20} you{\kf20} e{\kf20}ver{\kf183} share{\kf190} with{\kf201} me?
+Dialogue: 0,0:02:22.68,0:02:25.26,DEFAULT,,0,0,0,,{\r}{\kf23}My{\kf23} lit{\kf23}tle{\kf23} fa{\kf23}shio{\kf23}nis{\kf23}ta{\kf23} can't{\kf23} get{\kf23} a{\kf28} break
+Dialogue: 0,0:02:25.50,0:02:27.55,DEFAULT,,0,0,0,,{\r}{\kf22}Too{\kf29} ma{\kf22}ny{\kf29} dres{\kf15}ses{\kf15}~{\kf73} due
+Dialogue: 0,0:02:28.78,0:02:30.77,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf25} there's{\kf25} no{\kf25} es{\kf25}ca{\kf25}~{\kf33}pin'{\kf16} but
+Dialogue: 0,0:02:30.89,0:02:36.34,DEFAULT,,0,0,0,,{\r}{\kf182}Ra{\kf182}ri{\kf181}ty
+Dialogue: 0,0:02:37.68,0:02:40.32,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf23} bet{\kf23} you{\kf23} won{\kf23}der{\kf23} if{\kf23} the{\kf23} world{\kf23} has{\kf23} its{\kf34} cup
+Dialogue: 0,0:02:40.50,0:02:42.37,DEFAULT,,0,0,0,,{\r}{\kf23}Filled{\kf23} to{\kf23} the{\kf38} brim{\kf15} with{\kf23}~{\kf43} you
+Dialogue: 0,0:02:43.78,0:02:45.65,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf24} how{\kf24} could{\kf24} I{\kf24} blame{\kf16}~{\kf52} them?

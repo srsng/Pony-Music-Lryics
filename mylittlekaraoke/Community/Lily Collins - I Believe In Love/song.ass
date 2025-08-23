@@ -1,54 +1,61 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: I Believe in Love
+Artist: Lilly Collins
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:35.43,0:00:37.57,DEFAULT,,0,0,0,,{\kf10}I{\kf15} be{\kf15}lieve,{\kf10} I{\kf15} be{\kf15}lieve,{\kf15} I{\kf10} be{\kf15}lieve,{\kf10} I{\kf10} be{\kf15}lieve
-Dialogue: 0,0:00:37.71,0:00:39.86,DEFAULT,,0,0,0,,{\kf10}I{\kf15} be{\kf15}lieve,{\kf10} I{\kf15} be{\kf15}lieve,{\kf15} I{\kf10} be{\kf15}lieve,{\kf10} I{\kf10} be{\kf15}lieve
-Dialogue: 0,0:00:40.00,0:00:42.14,DEFAULT,,0,0,0,,{\kf10}I{\kf15} be{\kf15}lieve,{\kf10} I{\kf15} be{\kf15}lieve,{\kf15} I{\kf10} be{\kf15}lieve,{\kf10} I{\kf10} be{\kf15}lieve
-Dialogue: 0,0:00:42.28,0:00:44.33,DEFAULT,,0,0,0,,{\kf15}In{\kf29} love{\kf34}~,{\kf29} love{\kf34}~
-Dialogue: 0,0:00:44.81,0:00:46.76,DEFAULT,,0,0,0,,{\kf34}Love,{\kf34} love,{\kf24} love{\kf48}~
-Dialogue: 0,0:00:48.81,0:00:49.52,DEFAULT,,0,0,0,,{\kf24}When{\kf39} you
-Dialogue: 0,0:00:49.71,0:00:52.86,DEFAULT,,0,0,0,,{\kf15}Can't{\kf20} see{\kf15} the{\kf29} fo{\kf20}rest{\kf15} for{\kf15} the{\kf24} trees{\kf86}~
-Dialogue: 0,0:00:54.28,0:00:57.52,DEFAULT,,0,0,0,,{\kf24}Fol{\kf20}low{\kf15} the{\kf29} co{\kf20}lors{\kf20} of{\kf20} your{\kf24} dreams{\kf96}~
-Dialogue: 0,0:00:57.95,0:01:00.05,DEFAULT,,0,0,0,,{\kf34}Just{\kf34} turn{\kf29} to{\kf39} friends
-Dialogue: 0,0:01:00.24,0:01:02.86,DEFAULT,,0,0,0,,{\kf39}Their{\kf34} help{\kf29} trans{\kf39}cends{\kf34} to
-Dialogue: 0,0:01:03.09,0:01:07.24,DEFAULT,,0,0,0,,{\kf53}Love,{\kf53} love,{\kf43} love,{\kf43} love{\kf20} love{\kf43}~
-Dialogue: 0,0:01:09.71,0:01:11.86,DEFAULT,,0,0,0,,{\kf10}I{\kf15} be{\kf15}lieve,{\kf10} I{\kf15} be{\kf15}lieve,{\kf15} I{\kf10} be{\kf15}lieve,{\kf10} I{\kf10} be{\kf15}lieve
-Dialogue: 0,0:01:12.00,0:01:14.14,DEFAULT,,0,0,0,,{\kf10}I{\kf15} be{\kf15}lieve,{\kf10} I{\kf15} be{\kf15}lieve,{\kf15} I{\kf10} be{\kf15}lieve,{\kf10} I{\kf10} be{\kf15}lieve
-Dialogue: 0,0:01:14.28,0:01:16.43,DEFAULT,,0,0,0,,{\kf10}I{\kf15} be{\kf15}lieve,{\kf10} I{\kf15} be{\kf15}lieve,{\kf15} I{\kf10} be{\kf15}lieve,{\kf10} I{\kf10} be{\kf15}lieve
-Dialogue: 0,0:01:16.57,0:01:18.62,DEFAULT,,0,0,0,,{\kf15}In{\kf29} love{\kf34}~,{\kf29} love{\kf34}~
-Dialogue: 0,0:01:18.86,0:01:21.00,DEFAULT,,0,0,0,,{\kf10}I{\kf15} be{\kf15}lieve,{\kf10} I{\kf15} be{\kf15}lieve,{\kf15} I{\kf10} be{\kf15}lieve,{\kf10} I{\kf10} be{\kf15}lieve
-Dialogue: 0,0:01:21.14,0:01:23.28,DEFAULT,,0,0,0,,{\kf10}I{\kf15} be{\kf15}lieve,{\kf10} I{\kf15} be{\kf15}lieve,{\kf15} I{\kf10} be{\kf15}lieve,{\kf10} I{\kf10} be{\kf15}lieve
-Dialogue: 0,0:01:23.43,0:01:25.57,DEFAULT,,0,0,0,,{\kf10}I{\kf15} be{\kf15}lieve,{\kf10} I{\kf15} be{\kf15}lieve,{\kf15} I{\kf10} be{\kf15}lieve,{\kf10} I{\kf10} be{\kf15}lieve
-Dialogue: 0,0:01:25.71,0:01:27.76,DEFAULT,,0,0,0,,{\kf15}In{\kf29} love{\kf34}~,{\kf29} love{\kf34}~
-Dialogue: 0,0:01:28.24,0:01:30.09,DEFAULT,,0,0,0,,{\kf34}Love,{\kf34} love,{\kf20} love{\kf34}~
-Dialogue: 0,0:01:33.14,0:01:36.47,DEFAULT,,0,0,0,,{\kf20}The{\kf24} win{\kf20}ter's{\kf20} fi{\kf15}nally{\kf24} pas{\kf20}sing{\kf24} on{\kf105}~
-Dialogue: 0,0:01:37.67,0:01:40.95,DEFAULT,,0,0,0,,{\kf15}The{\kf24} king{\kf20} is{\kf20} back,{\kf15} the{\kf24} queen{\kf20} is{\kf29} gone{\kf91}~
-Dialogue: 0,0:01:41.43,0:01:43.47,DEFAULT,,0,0,0,,{\kf34}Come{\kf34} dance{\kf29} with{\kf34} me
-Dialogue: 0,0:01:43.71,0:01:46.28,DEFAULT,,0,0,0,,{\kf29}'Cause{\kf34} now{\kf29} we're{\kf34} free{\kf34} to
-Dialogue: 0,0:01:46.57,0:01:50.24,DEFAULT,,0,0,0,,{\kf34}Love{\kf20}~,{\kf58} love,{\kf39} love,{\kf39} love,{\kf24} love
-Dialogue: 0,0:01:50.52,0:01:52.62,DEFAULT,,0,0,0,,{\kf15}Tu{\kf20} tu{\kf29} tu,{\kf15} tu{\kf15}ru{\kf20} tu{\kf34} tu
-Dialogue: 0,0:01:52.81,0:01:54.90,DEFAULT,,0,0,0,,{\kf20}Tu{\kf20} tu{\kf24} tu{\kf20} tu{\kf20} tu{\kf20} tu{\kf34} tu
-Dialogue: 0,0:01:55.09,0:01:57.19,DEFAULT,,0,0,0,,{\kf20}Tu{\kf20} tu{\kf34} tu,{\kf20} tu{\kf20} tu{\kf34} tu
-Dialogue: 0,0:01:57.43,0:01:59.52,DEFAULT,,0,0,0,,{\kf20}Tu{\kf20} tu{\kf20} tu{\kf20} tu{\kf20} tu{\kf20} tu{\kf39} tu
-Dialogue: 0,0:02:06.86,0:02:09.00,DEFAULT,,0,0,0,,{\kf10}I{\kf15} be{\kf15}lieve,{\kf10} I{\kf15} be{\kf15}lieve,{\kf15} I{\kf10} be{\kf15}lieve,{\kf10} I{\kf10} be{\kf15}lieve
-Dialogue: 0,0:02:09.14,0:02:11.28,DEFAULT,,0,0,0,,{\kf10}I{\kf15} be{\kf15}lieve,{\kf10} I{\kf15} be{\kf15}lieve,{\kf15} I{\kf10} be{\kf15}lieve,{\kf10} I{\kf10} be{\kf15}lieve
-Dialogue: 0,0:02:11.43,0:02:13.57,DEFAULT,,0,0,0,,{\kf10}I{\kf15} be{\kf15}lieve,{\kf10} I{\kf15} be{\kf15}lieve,{\kf15} I{\kf10} be{\kf15}lieve,{\kf10} I{\kf10} be{\kf15}lieve
-Dialogue: 0,0:02:13.71,0:02:15.76,DEFAULT,,0,0,0,,{\kf15}In{\kf29} love{\kf34}~,{\kf29} love{\kf34}~
-Dialogue: 0,0:02:16.00,0:02:18.14,DEFAULT,,0,0,0,,{\kf10}I{\kf15} be{\kf15}lieve,{\kf10} I{\kf15} be{\kf15}lieve,{\kf15} I{\kf10} be{\kf15}lieve,{\kf10} I{\kf10} be{\kf15}lieve
-Dialogue: 0,0:02:18.28,0:02:20.43,DEFAULT,,0,0,0,,{\kf10}I{\kf15} be{\kf15}lieve,{\kf10} I{\kf15} be{\kf15}lieve,{\kf15} I{\kf10} be{\kf15}lieve,{\kf10} I{\kf10} be{\kf15}lieve
-Dialogue: 0,0:02:20.57,0:02:22.71,DEFAULT,,0,0,0,,{\kf10}I{\kf15} be{\kf15}lieve,{\kf10} I{\kf15} be{\kf15}lieve,{\kf15} I{\kf10} be{\kf15}lieve,{\kf10} I{\kf10} be{\kf15}lieve
-Dialogue: 0,0:02:22.86,0:02:24.90,DEFAULT,,0,0,0,,{\kf15}In{\kf29} love{\kf34}~,{\kf29} love{\kf34}~
-Dialogue: 0,0:02:25.43,0:02:26.86,DEFAULT,,0,0,0,,{\kf29}Love,{\kf29} love,{\kf29} love
-Dialogue: 0,0:02:27.09,0:02:29.19,DEFAULT,,0,0,0,,{\kf15}Tu{\kf20} tu{\kf29} tu,{\kf15} tu{\kf15}ru{\kf20} tu{\kf34} tu
-Dialogue: 0,0:02:29.38,0:02:31.47,DEFAULT,,0,0,0,,{\kf20}Tu{\kf20} tu{\kf24} tu{\kf20} tu{\kf20} tu{\kf20} tu{\kf34} tu
-Dialogue: 0,0:02:31.67,0:02:33.76,DEFAULT,,0,0,0,,{\kf20}Tu{\kf20} tu{\kf34} tu,{\kf20} tu{\kf20} tu{\kf34} tu
-Dialogue: 0,0:02:34.00,0:02:36.09,DEFAULT,,0,0,0,,{\kf20}Tu{\kf20} tu{\kf20} tu{\kf20} tu{\kf20} tu{\kf20} tu{\kf39} tu
-Dialogue: 0,0:02:36.86,0:02:38.43,DEFAULT,,0,0,0,,{\kf34}Love,{\kf34} love,{\kf43} love!
+Dialogue: 0,0:00:35.43,0:00:37.57,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf21} be{\kf21}lieve,{\kf14} I{\kf21} be{\kf21}lieve,{\kf21} I{\kf14} be{\kf21}lieve,{\kf14} I{\kf14} be{\kf18}lieve
+Dialogue: 0,0:00:37.72,0:00:39.86,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf21} be{\kf21}lieve,{\kf14} I{\kf21} be{\kf21}lieve,{\kf21} I{\kf14} be{\kf21}lieve,{\kf14} I{\kf14} be{\kf18}lieve
+Dialogue: 0,0:00:40.00,0:00:42.15,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf21} be{\kf21}lieve,{\kf14} I{\kf21} be{\kf21}lieve,{\kf21} I{\kf14} be{\kf21}lieve,{\kf14} I{\kf14} be{\kf18}lieve
+Dialogue: 0,0:00:42.29,0:00:44.34,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf42} love{\kf49}~,{\kf42} love{\kf51}~
+Dialogue: 0,0:00:44.81,0:00:46.77,DEFAULT,,0,0,0,,{\r}{\kf47}Love,{\kf47} love,{\kf34} love{\kf67}~
+Dialogue: 0,0:00:48.81,0:00:49.53,DEFAULT,,0,0,0,,{\r}{\kf27}When{\kf44} you
+Dialogue: 0,0:00:49.72,0:00:52.86,DEFAULT,,0,0,0,,{\r}{\kf19}Can't{\kf26} see{\kf19} the{\kf38} fo{\kf26}rest{\kf19} for{\kf19} the{\kf32} trees{\kf116}~
+Dialogue: 0,0:00:54.29,0:00:57.53,DEFAULT,,0,0,0,,{\r}{\kf29}Fol{\kf24}low{\kf18} the{\kf35} co{\kf24}lors{\kf24} of{\kf24} your{\kf29} dreams{\kf117}~
+Dialogue: 0,0:00:57.96,0:01:00.05,DEFAULT,,0,0,0,,{\r}{\kf52}Just{\kf52} turn{\kf45} to{\kf61} friends
+Dialogue: 0,0:01:00.24,0:01:02.86,DEFAULT,,0,0,0,,{\r}{\kf58}Their{\kf51} help{\kf44} trans{\kf58}cends{\kf51} to
+Dialogue: 0,0:01:03.10,0:01:07.24,DEFAULT,,0,0,0,,{\r}{\kf86}Love,{\kf86} love,{\kf70} love,{\kf70} love{\kf31} love{\kf71}~
+Dialogue: 0,0:01:09.72,0:01:11.86,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf21} be{\kf21}lieve,{\kf14} I{\kf21} be{\kf21}lieve,{\kf21} I{\kf14} be{\kf21}lieve,{\kf14} I{\kf14} be{\kf18}lieve
+Dialogue: 0,0:01:12.00,0:01:14.15,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf21} be{\kf21}lieve,{\kf14} I{\kf21} be{\kf21}lieve,{\kf21} I{\kf14} be{\kf21}lieve,{\kf14} I{\kf14} be{\kf18}lieve
+Dialogue: 0,0:01:14.29,0:01:16.43,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf21} be{\kf21}lieve,{\kf14} I{\kf21} be{\kf21}lieve,{\kf21} I{\kf14} be{\kf21}lieve,{\kf14} I{\kf14} be{\kf18}lieve
+Dialogue: 0,0:01:16.57,0:01:18.62,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf42} love{\kf49}~,{\kf42} love{\kf51}~
+Dialogue: 0,0:01:18.86,0:01:21.00,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf21} be{\kf21}lieve,{\kf14} I{\kf21} be{\kf21}lieve,{\kf21} I{\kf14} be{\kf21}lieve,{\kf14} I{\kf14} be{\kf18}lieve
+Dialogue: 0,0:01:21.15,0:01:23.29,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf21} be{\kf21}lieve,{\kf14} I{\kf21} be{\kf21}lieve,{\kf21} I{\kf14} be{\kf21}lieve,{\kf14} I{\kf14} be{\kf18}lieve
+Dialogue: 0,0:01:23.43,0:01:25.57,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf21} be{\kf21}lieve,{\kf14} I{\kf21} be{\kf21}lieve,{\kf21} I{\kf14} be{\kf21}lieve,{\kf14} I{\kf14} be{\kf18}lieve
+Dialogue: 0,0:01:25.72,0:01:27.77,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf42} love{\kf49}~,{\kf42} love{\kf51}~
+Dialogue: 0,0:01:28.24,0:01:30.10,DEFAULT,,0,0,0,,{\r}{\kf52}Love,{\kf52} love,{\kf30} love{\kf52}~
+Dialogue: 0,0:01:33.15,0:01:36.48,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf30} win{\kf24}ter's{\kf24} fi{\kf18}nally{\kf30} pas{\kf24}sing{\kf30} on{\kf129}~
+Dialogue: 0,0:01:37.67,0:01:40.96,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf31} king{\kf25} is{\kf25} back,{\kf19} the{\kf31} queen{\kf25} is{\kf37} gone{\kf117}~
+Dialogue: 0,0:01:41.43,0:01:43.48,DEFAULT,,0,0,0,,{\r}{\kf53}Come{\kf53} dance{\kf46} with{\kf53} me
+Dialogue: 0,0:01:43.72,0:01:46.29,DEFAULT,,0,0,0,,{\r}{\kf47}'Cause{\kf55} now{\kf47} we're{\kf55} free{\kf53} to
+Dialogue: 0,0:01:46.57,0:01:50.24,DEFAULT,,0,0,0,,{\r}{\kf58}Love{\kf33}~,{\kf100} love,{\kf67} love,{\kf67} love,{\kf42} love
+Dialogue: 0,0:01:50.53,0:01:52.62,DEFAULT,,0,0,0,,{\r}{\kf21}Tu{\kf28} tu{\kf42} tu,{\kf21} tu{\kf21}ru{\kf28} tu{\kf49} tu
+Dialogue: 0,0:01:52.81,0:01:54.91,DEFAULT,,0,0,0,,{\r}{\kf26}Tu{\kf26} tu{\kf33} tu{\kf26} tu{\kf26} tu{\kf26} tu{\kf47} tu
+Dialogue: 0,0:01:55.10,0:01:57.19,DEFAULT,,0,0,0,,{\r}{\kf28}Tu{\kf28} tu{\kf49} tu,{\kf28} tu{\kf28} tu{\kf49} tu
+Dialogue: 0,0:01:57.43,0:01:59.53,DEFAULT,,0,0,0,,{\r}{\kf26}Tu{\kf26} tu{\kf26} tu{\kf26} tu{\kf26} tu{\kf26} tu{\kf54} tu
+Dialogue: 0,0:02:06.86,0:02:09.00,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf21} be{\kf21}lieve,{\kf14} I{\kf21} be{\kf21}lieve,{\kf21} I{\kf14} be{\kf21}lieve,{\kf14} I{\kf14} be{\kf18}lieve
+Dialogue: 0,0:02:09.15,0:02:11.29,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf21} be{\kf21}lieve,{\kf14} I{\kf21} be{\kf21}lieve,{\kf21} I{\kf14} be{\kf21}lieve,{\kf14} I{\kf14} be{\kf18}lieve
+Dialogue: 0,0:02:11.43,0:02:13.57,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf21} be{\kf21}lieve,{\kf14} I{\kf21} be{\kf21}lieve,{\kf21} I{\kf14} be{\kf21}lieve,{\kf14} I{\kf14} be{\kf18}lieve
+Dialogue: 0,0:02:13.72,0:02:15.77,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf42} love{\kf49}~,{\kf42} love{\kf51}~
+Dialogue: 0,0:02:16.00,0:02:18.15,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf21} be{\kf21}lieve,{\kf14} I{\kf21} be{\kf21}lieve,{\kf21} I{\kf14} be{\kf21}lieve,{\kf14} I{\kf14} be{\kf18}lieve
+Dialogue: 0,0:02:18.29,0:02:20.43,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf21} be{\kf21}lieve,{\kf14} I{\kf21} be{\kf21}lieve,{\kf21} I{\kf14} be{\kf21}lieve,{\kf14} I{\kf14} be{\kf18}lieve
+Dialogue: 0,0:02:20.57,0:02:22.72,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf21} be{\kf21}lieve,{\kf14} I{\kf21} be{\kf21}lieve,{\kf21} I{\kf14} be{\kf21}lieve,{\kf14} I{\kf14} be{\kf18}lieve
+Dialogue: 0,0:02:22.86,0:02:24.91,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf42} love{\kf49}~,{\kf42} love{\kf51}~
+Dialogue: 0,0:02:25.43,0:02:26.86,DEFAULT,,0,0,0,,{\r}{\kf48}Love,{\kf48} love,{\kf47} love
+Dialogue: 0,0:02:27.10,0:02:29.19,DEFAULT,,0,0,0,,{\r}{\kf21}Tu{\kf28} tu{\kf42} tu,{\kf21} tu{\kf21}ru{\kf28} tu{\kf49} tu
+Dialogue: 0,0:02:29.38,0:02:31.48,DEFAULT,,0,0,0,,{\r}{\kf26}Tu{\kf26} tu{\kf33} tu{\kf26} tu{\kf26} tu{\kf26} tu{\kf47} tu
+Dialogue: 0,0:02:31.67,0:02:33.77,DEFAULT,,0,0,0,,{\r}{\kf28}Tu{\kf28} tu{\kf49} tu,{\kf28} tu{\kf28} tu{\kf49} tu
+Dialogue: 0,0:02:34.00,0:02:36.10,DEFAULT,,0,0,0,,{\r}{\kf26}Tu{\kf26} tu{\kf26} tu{\kf26} tu{\kf26} tu{\kf26} tu{\kf54} tu
+Dialogue: 0,0:02:36.86,0:02:38.43,DEFAULT,,0,0,0,,{\r}{\kf48}Love,{\kf48} love,{\kf61} love!

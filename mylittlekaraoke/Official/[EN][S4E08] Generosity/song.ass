@@ -1,79 +1,86 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Generosity
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.77,0:00:01.29,DEFAULT,,0,0,0,,{\kf13}I{\kf35} know,
-Dialogue: 0,0:00:01.90,0:00:04.36,DEFAULT,,0,0,0,,{\kf39}Ponies{\kf18} just{\kf48} bursting{\kf18} into{\kf26} song{\kf13} at{\kf31} random{\kf18} places
-Dialogue: 0,0:00:04.49,0:00:05.45,DEFAULT,,0,0,0,,{\kf5}At{\kf9} the{\kf18} drop{\kf9} of{\kf5} a{\kf31} hat
-Dialogue: 0,0:00:05.88,0:00:06.61,DEFAULT,,0,0,0,,{\kf22}Who{\kf22} does{\kf22} that?
-Dialogue: 0,0:00:07.39,0:00:08.35,DEFAULT,,0,0,0,,{\kf13}Oh,{\kf18} Mane{\kf18}hat{\kf35}tan
-Dialogue: 0,0:00:09.12,0:00:10.38,DEFAULT,,0,0,0,,{\kf26}What{\kf13} you{\kf18} do{\kf13} to{\kf35} me
-Dialogue: 0,0:00:10.98,0:00:12.63,DEFAULT,,0,0,0,,{\kf26}Such{\kf9} a{\kf52} huge{\kf35} bust{\kf26}ling
-Dialogue: 0,0:00:12.80,0:00:14.27,DEFAULT,,0,0,0,,{\kf44}Com{\kf22}mu{\kf13}ni{\kf48}ty
-Dialogue: 0,0:00:14.71,0:00:16.00,DEFAULT,,0,0,0,,{\kf18}And{\kf18} there's{\kf22} al{\kf52}ways
-Dialogue: 0,0:00:16.57,0:00:17.78,DEFAULT,,0,0,0,,{\kf18}Op{\kf13}por{\kf22}tu{\kf13}ni{\kf31}ty
-Dialogue: 0,0:00:18.34,0:00:21.72,DEFAULT,,0,0,0,,{\kf18}To{\kf22} do{\kf9} the{\kf39} frie{\kf18}-e{\kf31}-end{\kf26}ly{\kf104} thing
-Dialogue: 0,0:00:23.92,0:00:25.14,DEFAULT,,0,0,0,,{\kf13}If{\kf22} some{\kf18} are{\kf22} grou{\kf26}chy
-Dialogue: 0,0:00:25.70,0:00:26.61,DEFAULT,,0,0,0,,{\kf26}Pay{\kf13} no{\kf44} mind
-Dialogue: 0,0:00:27.60,0:00:28.55,DEFAULT,,0,0,0,,{\kf18}Sur{\kf26}prise{\kf9} in{\kf26}stead
-Dialogue: 0,0:00:28.73,0:00:30.72,DEFAULT,,0,0,0,,{\kf13}With{\kf31} some{\kf35}thing{\kf87} kind
-Dialogue: 0,0:00:31.28,0:00:32.97,DEFAULT,,0,0,0,,{\kf26}Lo{\kf9} and{\kf44} be{\kf70}hold
-Dialogue: 0,0:00:33.14,0:00:35.00,DEFAULT,,0,0,0,,{\kf18}You{\kf22} may{\kf35} just{\kf87} find
-Dialogue: 0,0:00:35.48,0:00:39.50,DEFAULT,,0,0,0,,{\kf9}A{\kf83} smile{\kf96} is{\kf109} what{\kf22} yo{\kf22}-u{\kf35} bring
-Dialogue: 0,0:00:39.68,0:00:41.15,DEFAULT,,0,0,0,,{\kf31}Welcome{\kf5} to{\kf9} the{\kf26} Mane{\kf18} Fair{\kf39} Hotel!
-Dialogue: 0,0:00:41.32,0:00:42.62,DEFAULT,,0,0,0,,{\kf26}Please{\kf22} allow{\kf9} me{\kf9} to{\kf13} take{\kf13} those{\kf13} bags
-Dialogue: 0,0:00:42.71,0:00:43.40,DEFAULT,,0,0,0,,{\kf5}To{\kf5} your{\kf13} room{\kf13} for{\kf18} ya!
-Dialogue: 0,0:00:43.53,0:00:45.52,DEFAULT,,0,0,0,,{\kf31}Only{\kf9} if{\kf9} you'll{\kf31} accept{\kf9} this{\kf52} gratuity{\kf35} first
-Dialogue: 0,0:00:45.69,0:00:47.34,DEFAULT,,0,0,0,,{\kf61}Oh-ho-ho!{\kf18} I'll{\kf18} get{\kf5} your{\kf35} change!
-Dialogue: 0,0:00:47.51,0:00:49.59,DEFAULT,,0,0,0,,{\kf22}Do{\kf13} keep{\kf9} it{\kf35} all.{\kf22} I{\kf83} insist!
-Dialogue: 0,0:00:49.98,0:00:51.45,DEFAULT,,0,0,0,,{\kf18}Ge{\kf13}ne{\kf18}ro{\kf13}si{\kf57}ty
-Dialogue: 0,0:00:51.62,0:00:54.48,DEFAULT,,0,0,0,,{\kf31}I'm{\kf44} here{\kf22} to{\kf39} show{\kf39} all{\kf61} that
-Dialogue: 0,0:00:54.82,0:00:56.81,DEFAULT,,0,0,0,,{\kf44}I{\kf26} can{\kf104} give
-Dialogue: 0,0:00:57.33,0:00:58.89,DEFAULT,,0,0,0,,{\kf22}Ge{\kf13}ne{\kf18}ro{\kf13}si{\kf31}ty{\kf35}-y
-Dialogue: 0,0:00:59.06,0:01:01.31,DEFAULT,,0,0,0,,{\kf31}I'm{\kf35} here{\kf22} to{\kf31} set{\kf22} the{\kf26} bar
-Dialogue: 0,0:01:01.49,0:01:03.69,DEFAULT,,0,0,0,,{\kf22}Just{\kf22} sit{\kf35} back{\kf22} and{\kf65} watch
-Dialogue: 0,0:01:04.04,0:01:06.20,DEFAULT,,0,0,0,,{\kf35}How{\kf48} I{\kf126} live
-Dialogue: 0,0:01:06.64,0:01:07.29,DEFAULT,,0,0,0,,{\kf26}After{\kf35} you!
-Dialogue: 0,0:01:07.68,0:01:08.58,DEFAULT,,0,0,0,,{\kf22}Why,{\kf26} thank{\kf35} you
-Dialogue: 0,0:01:08.93,0:01:10.19,DEFAULT,,0,0,0,,{\kf48}Please,{\kf26} take{\kf44} mine!
-Dialogue: 0,0:01:10.36,0:01:11.53,DEFAULT,,0,0,0,,{\kf39}Wow,{\kf61} okay
-Dialogue: 0,0:01:11.92,0:01:12.74,DEFAULT,,0,0,0,,{\kf22}Some{\kf13} may{\kf31} say,
-Dialogue: 0,0:01:13.69,0:01:14.60,DEFAULT,,0,0,0,,{\kf26}"Ra{\kf13}ri{\kf35}ty
-Dialogue: 0,0:01:15.51,0:01:18.54,DEFAULT,,0,0,0,,{\kf26}Don't{\kf13} be{\kf31} so{\kf39} big{\kf31}-hear{\kf13}ted{\kf39} and{\kf65} bold
-Dialogue: 0,0:01:19.27,0:01:22.35,DEFAULT,,0,0,0,,{\kf22}Treat{\kf18}ing{\kf44} stran{\kf31}gers{\kf44} like{\kf31} they're{\kf74} friends
-Dialogue: 0,0:01:23.21,0:01:29.92,DEFAULT,,0,0,0,,{\kf39}This{\kf87} town's{\kf78} too{\kf83} big{\kf44} and{\kf61} co{\kf22}-o{\kf182}-old"
-Dialogue: 0,0:01:30.83,0:01:34.33,DEFAULT,,0,0,0,,{\kf18}But{\kf13} this{\kf39} is{\kf39} how{\kf39} I{\kf35} play{\kf44} my{\kf74} cards
-Dialogue: 0,0:01:34.55,0:01:37.19,DEFAULT,,0,0,0,,{\kf22}I'm{\kf22} not{\kf18} a{\kf35}bout{\kf13} to{\kf109} fold
-Dialogue: 0,0:01:38.36,0:01:40.65,DEFAULT,,0,0,0,,{\kf39}Where{\kf13} I{\kf35} see{\kf18} a{\kf65} frown
-Dialogue: 0,0:01:40.95,0:01:42.25,DEFAULT,,0,0,0,,{\kf22}I{\kf18} go{\kf18} to{\kf57} town
-Dialogue: 0,0:01:43.03,0:01:45.93,DEFAULT,,0,0,0,,{\kf22}Call{\kf13} me{\kf9} the{\kf44} Smile{\kf35} Pat{\kf39}ro{\kf78}-ol
-Dialogue: 0,0:01:46.97,0:01:47.92,DEFAULT,,0,0,0,,{\kf22}Oh,{\kf18} Mane{\kf22}hat{\kf22}tan
-Dialogue: 0,0:01:48.79,0:01:50.00,DEFAULT,,0,0,0,,{\kf18}What{\kf13} you{\kf22} do{\kf18} to{\kf22} us
-Dialogue: 0,0:01:50.69,0:01:53.81,DEFAULT,,0,0,0,,{\kf22}What{\kf13} if{\kf13} you{\kf39} find{\kf13} a{\kf44} Gloo{\kf35}my{\kf83} Gus?
-Dialogue: 0,0:01:54.72,0:01:58.00,DEFAULT,,0,0,0,,{\kf22}It's{\kf48} no{\kf22} in{\kf26}ti{\kf44}mi{\kf22}da{\kf18}-a{\kf26}tin'{\kf52} thing
-Dialogue: 0,0:01:58.31,0:02:01.21,DEFAULT,,0,0,0,,{\kf22}Just{\kf13} be{\kf39} kind{\kf18} with{\kf39}out{\kf22} a{\kf87} fuss
-Dialogue: 0,0:02:01.99,0:02:03.46,DEFAULT,,0,0,0,,{\kf22}Ge{\kf18}ne{\kf13}ro{\kf18}si{\kf57}ty
-Dialogue: 0,0:02:03.67,0:02:05.75,DEFAULT,,0,0,0,,{\kf26}I'm{\kf44} here{\kf18} to{\kf35} show{\kf31} all
-Dialogue: 0,0:02:05.92,0:02:08.56,DEFAULT,,0,0,0,,{\kf65}That{\kf26} I{\kf31} can{\kf78} do
-Dialogue: 0,0:02:09.34,0:02:10.90,DEFAULT,,0,0,0,,{\kf22}Ge{\kf13}ne{\kf18}ro{\kf18}si{\kf22}ty{\kf35}-y
-Dialogue: 0,0:02:11.07,0:02:13.02,DEFAULT,,0,0,0,,{\kf26}You{\kf31} are{\kf26} the{\kf65} key
-Dialogue: 0,0:02:13.45,0:02:14.54,DEFAULT,,0,0,0,,{\kf26}Mane{\kf22}hat{\kf35}tan
-Dialogue: 0,0:02:14.71,0:02:19.08,DEFAULT,,0,0,0,,{\kf31}I'm{\kf70} here{\kf35} just{\kf57} for{\kf191} you
-Dialogue: 0,0:02:19.73,0:02:23.67,DEFAULT,,0,0,0,,{\kf26}Just{\kf61} for{\kf282} you
-Dialogue: 0,0:02:42.45,0:02:43.62,DEFAULT,,0,0,0,,{\kf22}Oh,{\kf26} Mane{\kf22}hat{\kf35}tan
-Dialogue: 0,0:02:44.27,0:02:45.52,DEFAULT,,0,0,0,,{\kf18}What{\kf22} have{\kf22} I{\kf52} done?
-Dialogue: 0,0:02:46.34,0:02:49.41,DEFAULT,,0,0,0,,{\kf9}The{\kf26} thought{\kf13} of{\kf44} Fash{\kf26}ion{\kf57} Week{\kf18} was{\kf44} fun
-Dialogue: 0,0:02:50.76,0:02:53.96,DEFAULT,,0,0,0,,{\kf39}But{\kf39} I{\kf26} went{\kf35} way{\kf35} too{\kf87} far
-Dialogue: 0,0:02:54.95,0:02:58.55,DEFAULT,,0,0,0,,{\kf35}My{\kf100} friends{\kf61} gave{\kf22} to{\kf104} me
-Dialogue: 0,0:02:59.07,0:03:02.96,DEFAULT,,0,0,0,,{\kf35}In{\kf87} ways{\kf87} so{\kf139} kind
-Dialogue: 0,0:03:03.26,0:03:06.77,DEFAULT,,0,0,0,,{\kf44}And{\kf83} I{\kf48} gave{\kf35} them{\kf26} no{\kf57}thing
-Dialogue: 0,0:03:07.03,0:03:10.06,DEFAULT,,0,0,0,,{\kf18}But{\kf13} a{\kf61} hard{\kf187} time
-Dialogue: 0,0:03:10.45,0:03:13.91,DEFAULT,,0,0,0,,{\kf13}And{\kf26} now{\kf13} a{\kf48}lone{\kf52} I{\kf152} stand
-Dialogue: 0,0:03:14.51,0:03:18.32,DEFAULT,,0,0,0,,{\kf18}And{\kf31} now{\kf13} a{\kf31}lone{\kf57} I{\kf191} stand
+Dialogue: 0,0:00:00.78,0:00:01.30,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf38} know,
+Dialogue: 0,0:00:01.90,0:00:04.37,DEFAULT,,0,0,0,,{\r}{\kf46}Ponies{\kf21} just{\kf57} bursting{\kf21} into{\kf31} song{\kf15} at{\kf36} random{\kf20} places
+Dialogue: 0,0:00:04.50,0:00:05.45,DEFAULT,,0,0,0,,{\r}{\kf10}At{\kf11} the{\kf22} drop{\kf11} of{\kf10} a{\kf31} hat
+Dialogue: 0,0:00:05.88,0:00:06.62,DEFAULT,,0,0,0,,{\r}{\kf25}Who{\kf25} does{\kf24} that?
+Dialogue: 0,0:00:07.40,0:00:08.35,DEFAULT,,0,0,0,,{\r}{\kf15}Oh,{\kf20} Mane{\kf20}hat{\kf40}tan
+Dialogue: 0,0:00:09.13,0:00:10.38,DEFAULT,,0,0,0,,{\r}{\kf31}What{\kf16} you{\kf21} do{\kf16} to{\kf41} me
+Dialogue: 0,0:00:10.99,0:00:12.63,DEFAULT,,0,0,0,,{\r}{\kf29}Such{\kf10} a{\kf58} huge{\kf39} bust{\kf28}ling
+Dialogue: 0,0:00:12.81,0:00:14.28,DEFAULT,,0,0,0,,{\r}{\kf51}Com{\kf25}mu{\kf15}ni{\kf56}ty
+Dialogue: 0,0:00:14.71,0:00:16.01,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} there's{\kf26} al{\kf62}ways
+Dialogue: 0,0:00:16.57,0:00:17.78,DEFAULT,,0,0,0,,{\r}{\kf22}Op{\kf16}por{\kf28}tu{\kf16}ni{\kf39}ty
+Dialogue: 0,0:00:18.35,0:00:21.72,DEFAULT,,0,0,0,,{\r}{\kf22}To{\kf28} do{\kf11} the{\kf50} frie{\kf22}-e{\kf39}-end{\kf33}ly{\kf133} thing
+Dialogue: 0,0:00:23.93,0:00:25.14,DEFAULT,,0,0,0,,{\r}{\kf16}If{\kf26} some{\kf21} are{\kf26} grou{\kf32}chy
+Dialogue: 0,0:00:25.70,0:00:26.61,DEFAULT,,0,0,0,,{\r}{\kf29}Pay{\kf14} no{\kf48} mind
+Dialogue: 0,0:00:27.61,0:00:28.56,DEFAULT,,0,0,0,,{\r}{\kf21}Sur{\kf32}prise{\kf11} in{\kf31}stead
+Dialogue: 0,0:00:28.73,0:00:30.72,DEFAULT,,0,0,0,,{\r}{\kf16}With{\kf37} some{\kf42}thing{\kf104} kind
+Dialogue: 0,0:00:31.29,0:00:32.97,DEFAULT,,0,0,0,,{\r}{\kf30}Lo{\kf10} and{\kf50} be{\kf79}hold
+Dialogue: 0,0:00:33.15,0:00:35.01,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf25} may{\kf40} just{\kf101} find
+Dialogue: 0,0:00:35.48,0:00:39.51,DEFAULT,,0,0,0,,{\r}{\kf10}A{\kf89} smile{\kf103} is{\kf117} what{\kf23} yo{\kf23}-u{\kf37} bring
+Dialogue: 0,0:00:39.68,0:00:41.15,DEFAULT,,0,0,0,,{\r}{\kf35}Welcome{\kf10} to{\kf10} the{\kf30} Mane{\kf20} Fair{\kf42} Hotel!
+Dialogue: 0,0:00:41.33,0:00:42.62,DEFAULT,,0,0,0,,{\r}{\kf32}Please{\kf27} allow{\kf11} me{\kf11} to{\kf16} take{\kf16} those{\kf17} bags
+Dialogue: 0,0:00:42.71,0:00:43.40,DEFAULT,,0,0,0,,{\r}{\kf10}To{\kf10} your{\kf17} room{\kf17} for{\kf15} ya!
+Dialogue: 0,0:00:43.53,0:00:45.52,DEFAULT,,0,0,0,,{\r}{\kf35}Only{\kf10} if{\kf10} you'll{\kf35} accept{\kf10} this{\kf60} gratuity{\kf39} first
+Dialogue: 0,0:00:45.70,0:00:47.34,DEFAULT,,0,0,0,,{\r}{\kf74}Oh-ho-ho!{\kf21} I'll{\kf21} get{\kf10} your{\kf38} change!
+Dialogue: 0,0:00:47.51,0:00:49.59,DEFAULT,,0,0,0,,{\r}{\kf25}Do{\kf15} keep{\kf10} it{\kf40} all.{\kf25} I{\kf93} insist!
+Dialogue: 0,0:00:49.98,0:00:51.45,DEFAULT,,0,0,0,,{\r}{\kf22}Ge{\kf16}ne{\kf22}ro{\kf16}si{\kf71}ty
+Dialogue: 0,0:00:51.63,0:00:54.48,DEFAULT,,0,0,0,,{\r}{\kf37}I'm{\kf53} here{\kf26} to{\kf48} show{\kf48} all{\kf74} that
+Dialogue: 0,0:00:54.83,0:00:56.82,DEFAULT,,0,0,0,,{\r}{\kf50}I{\kf30} can{\kf119} give
+Dialogue: 0,0:00:57.34,0:00:58.90,DEFAULT,,0,0,0,,{\r}{\kf26}Ge{\kf16}ne{\kf21}ro{\kf16}si{\kf36}ty{\kf41}-y
+Dialogue: 0,0:00:59.07,0:01:01.32,DEFAULT,,0,0,0,,{\r}{\kf41}I'm{\kf47} here{\kf30} to{\kf41} set{\kf30} the{\kf36} bar
+Dialogue: 0,0:01:01.49,0:01:03.70,DEFAULT,,0,0,0,,{\r}{\kf29}Just{\kf29} sit{\kf47} back{\kf29} and{\kf87} watch
+Dialogue: 0,0:01:04.05,0:01:06.21,DEFAULT,,0,0,0,,{\r}{\kf36}How{\kf50} I{\kf130} live
+Dialogue: 0,0:01:06.64,0:01:07.29,DEFAULT,,0,0,0,,{\r}{\kf28}After{\kf37} you!
+Dialogue: 0,0:01:07.68,0:01:08.59,DEFAULT,,0,0,0,,{\r}{\kf24}Why,{\kf29} thank{\kf38} you
+Dialogue: 0,0:01:08.94,0:01:10.19,DEFAULT,,0,0,0,,{\r}{\kf51}Please,{\kf28} take{\kf46} mine!
+Dialogue: 0,0:01:10.36,0:01:11.53,DEFAULT,,0,0,0,,{\r}{\kf46}Wow,{\kf71} okay
+Dialogue: 0,0:01:11.92,0:01:12.74,DEFAULT,,0,0,0,,{\r}{\kf27}Some{\kf16} may{\kf39} say,
+Dialogue: 0,0:01:13.70,0:01:14.60,DEFAULT,,0,0,0,,{\r}{\kf32}"Ra{\kf16}ri{\kf43}ty
+Dialogue: 0,0:01:15.51,0:01:18.54,DEFAULT,,0,0,0,,{\r}{\kf31}Don't{\kf15} be{\kf36} so{\kf46} big{\kf36}-hear{\kf15}ted{\kf46} and{\kf78} bold
+Dialogue: 0,0:01:19.28,0:01:22.35,DEFAULT,,0,0,0,,{\r}{\kf26}Treat{\kf20}ing{\kf51} stran{\kf36}gers{\kf51} like{\kf36} they're{\kf87} friends
+Dialogue: 0,0:01:23.22,0:01:29.92,DEFAULT,,0,0,0,,{\r}{\kf44}This{\kf98} town's{\kf88} too{\kf93} big{\kf49} and{\kf69} co{\kf24}-o{\kf206}-old"
+Dialogue: 0,0:01:30.83,0:01:34.34,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf15} this{\kf46} is{\kf46} how{\kf46} I{\kf41} play{\kf51} my{\kf86} cards
+Dialogue: 0,0:01:34.55,0:01:37.19,DEFAULT,,0,0,0,,{\r}{\kf26}I'm{\kf26} not{\kf21} a{\kf42}bout{\kf16} to{\kf133} fold
+Dialogue: 0,0:01:38.36,0:01:40.66,DEFAULT,,0,0,0,,{\r}{\kf53}Where{\kf18} I{\kf47} see{\kf23} a{\kf88} frown
+Dialogue: 0,0:01:40.96,0:01:42.26,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf20} go{\kf20} to{\kf65} town
+Dialogue: 0,0:01:43.04,0:01:45.94,DEFAULT,,0,0,0,,{\r}{\kf26}Call{\kf16} me{\kf11} the{\kf53} Smile{\kf42} Pat{\kf47}ro{\kf95}-ol
+Dialogue: 0,0:01:46.97,0:01:47.93,DEFAULT,,0,0,0,,{\r}{\kf25}Oh,{\kf20} Mane{\kf25}hat{\kf25}tan
+Dialogue: 0,0:01:48.79,0:01:50.00,DEFAULT,,0,0,0,,{\r}{\kf23}What{\kf17} you{\kf29} do{\kf23} to{\kf29} us
+Dialogue: 0,0:01:50.70,0:01:53.81,DEFAULT,,0,0,0,,{\r}{\kf26}What{\kf16} if{\kf16} you{\kf47} find{\kf16} a{\kf52} Gloo{\kf42}my{\kf97} Gus?
+Dialogue: 0,0:01:54.72,0:01:58.01,DEFAULT,,0,0,0,,{\r}{\kf26}It's{\kf57} no{\kf26} in{\kf31}ti{\kf51}mi{\kf26}da{\kf21}-a{\kf31}tin'{\kf60} thing
+Dialogue: 0,0:01:58.31,0:02:01.21,DEFAULT,,0,0,0,,{\r}{\kf26}Just{\kf16} be{\kf47} kind{\kf21} with{\kf47}out{\kf26} a{\kf107} fuss
+Dialogue: 0,0:02:01.99,0:02:03.46,DEFAULT,,0,0,0,,{\r}{\kf25}Ge{\kf20}ne{\kf15}ro{\kf20}si{\kf67}ty
+Dialogue: 0,0:02:03.68,0:02:05.76,DEFAULT,,0,0,0,,{\r}{\kf36}I'm{\kf59} here{\kf24} to{\kf48} show{\kf41} all
+Dialogue: 0,0:02:05.93,0:02:08.57,DEFAULT,,0,0,0,,{\r}{\kf86}That{\kf34} I{\kf40} can{\kf104} do
+Dialogue: 0,0:02:09.35,0:02:10.91,DEFAULT,,0,0,0,,{\r}{\kf27}Ge{\kf16}ne{\kf22}ro{\kf22}si{\kf27}ty{\kf42}-y
+Dialogue: 0,0:02:11.08,0:02:13.03,DEFAULT,,0,0,0,,{\r}{\kf34}You{\kf40} are{\kf34} the{\kf87} key
+Dialogue: 0,0:02:13.46,0:02:14.54,DEFAULT,,0,0,0,,{\r}{\kf34}Mane{\kf28}hat{\kf46}tan
+Dialogue: 0,0:02:14.71,0:02:19.08,DEFAULT,,0,0,0,,{\r}{\kf35}I'm{\kf79} here{\kf40} just{\kf65} for{\kf218} you
+Dialogue: 0,0:02:19.73,0:02:23.67,DEFAULT,,0,0,0,,{\r}{\kf28}Just{\kf65} for{\kf301} you
+Dialogue: 0,0:02:42.45,0:02:43.62,DEFAULT,,0,0,0,,{\r}{\kf24}Oh,{\kf29} Mane{\kf24}hat{\kf40}tan
+Dialogue: 0,0:02:44.27,0:02:45.53,DEFAULT,,0,0,0,,{\r}{\kf19}What{\kf24} have{\kf24} I{\kf58} done?
+Dialogue: 0,0:02:46.35,0:02:49.42,DEFAULT,,0,0,0,,{\r}{\kf11}The{\kf34} thought{\kf17} of{\kf57} Fash{\kf34}ion{\kf74} Week{\kf23} was{\kf57} fun
+Dialogue: 0,0:02:50.76,0:02:53.96,DEFAULT,,0,0,0,,{\r}{\kf48}But{\kf48} I{\kf32} went{\kf43} way{\kf43} too{\kf106} far
+Dialogue: 0,0:02:54.96,0:02:58.55,DEFAULT,,0,0,0,,{\r}{\kf39}My{\kf112} friends{\kf68} gave{\kf24} to{\kf116} me
+Dialogue: 0,0:02:59.07,0:03:02.96,DEFAULT,,0,0,0,,{\r}{\kf39}In{\kf97} ways{\kf97} so{\kf156} kind
+Dialogue: 0,0:03:03.27,0:03:06.77,DEFAULT,,0,0,0,,{\r}{\kf52}And{\kf100} I{\kf58} gave{\kf42} them{\kf31} no{\kf68}thing
+Dialogue: 0,0:03:07.03,0:03:10.06,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf14} a{\kf66} hard{\kf204} time
+Dialogue: 0,0:03:10.45,0:03:13.91,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf30} now{\kf15} a{\kf54}lone{\kf59} I{\kf173} stand
+Dialogue: 0,0:03:14.52,0:03:18.33,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf34} now{\kf15} a{\kf34}lone{\kf64} I{\kf214} stand

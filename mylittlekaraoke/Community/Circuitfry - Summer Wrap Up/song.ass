@@ -1,26 +1,33 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Summer Wrap Up
+Artist: Circuitfry
+Original Timing: mylittlekaraoke.com by Steven Knapp, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.17,0:00:08.14,DEFAULT,,0,0,0,,{\kf12}Sum{\kf12}mer{\kf23} on{\kf16} this{\kf20} la{\kf12}zy{\kf20} cloud{\kf12} is{\kf20} end{\kf20}ing{\kf12} with{\kf20} an{\kf20} awe{\kf16}some{\kf35} crowd
-Dialogue: 0,0:00:08.29,0:00:12.07,DEFAULT,,0,0,0,,{\kf20}Days{\kf12} to{\kf23} play{\kf16} are{\kf23} here{\kf8} to{\kf16} stay{\kf8} we've{\kf16} sung{\kf12} our{\kf16} songs{\kf16} here{\kf12} by{\kf16} the{\kf12} bay
-Dialogue: 0,0:00:12.23,0:00:16.47,DEFAULT,,0,0,0,,{\kf12}Va{\kf16}ca{\kf12}tion's{\kf31} nice{\kf12} there's{\kf12} no{\kf35} doubt{\kf8} but{\kf23} here{\kf12} it{\kf23} ends{\kf8} as{\kf20} fall's{\kf12} a{\kf35}bout
-Dialogue: 0,0:00:16.66,0:00:22.54,DEFAULT,,0,0,0,,{\kf23}Per{\kf12}fect{\kf12} sun{\kf20}set{\kf23} o{\kf20}ver{\kf12} the{\kf23} sea{\kf16} I'll{\kf16} miss{\kf16} your{\kf20} shine{\kf20} when{\kf23} we{\kf16}leave{\kf77}~{\kf104}~
-Dialogue: 0,0:00:24.41,0:00:30.37,DEFAULT,,0,0,0,,{\kf12}Work{\kf16} to{\kf27}geth{\kf85}er{\kf12} and{\kf23} have{\kf16} our{\kf146} cheer{\kf35} we{\kf20} love{\kf23} you
-Dialogue: 0,0:00:31.21,0:00:34.54,DEFAULT,,0,0,0,,{\kf16}Sum{\kf169}mer{\kf23} Wrap{\kf88} Up
-Dialogue: 0,0:00:34.80,0:00:40.73,DEFAULT,,0,0,0,,{\kf12}Get{\kf23} to{\kf23}geth{\kf77}er{\kf23} and{\kf20} have{\kf16} root{\kf192} beer{\kf16} we{\kf16} love{\kf20} you
-Dialogue: 0,0:01:14.99,0:01:18.39,DEFAULT,,0,0,0,,{\kf16}Sum{\kf176}mer{\kf20} Wrap{\kf92} Up
-Dialogue: 0,0:01:18.62,0:01:24.58,DEFAULT,,0,0,0,,{\kf16}Work{\kf16} to{\kf27}geth{\kf85}er{\kf16} and{\kf23} have{\kf16} our{\kf146} cheer{\kf35} we{\kf20} love{\kf27} you
-Dialogue: 0,0:01:25.46,0:01:28.75,DEFAULT,,0,0,0,,{\kf12}Sum{\kf169}mer{\kf23} Wrap{\kf88} Up
-Dialogue: 0,0:01:29.01,0:01:35.01,DEFAULT,,0,0,0,,{\kf12}Get{\kf20} to{\kf31}geth{\kf73}er{\kf23} and{\kf20} have{\kf12} root{\kf192} beer{\kf20} we{\kf16} love{\kf23} you
-Dialogue: 0,0:01:35.93,0:01:39.37,DEFAULT,,0,0,0,,{\kf16}Sum{\kf172}mer{\kf20} Wrap{\kf96} Up
-Dialogue: 0,0:01:39.56,0:01:45.48,DEFAULT,,0,0,0,,{\kf16}Work{\kf16} to{\kf31}geth{\kf81}er{\kf16} and{\kf23} have{\kf16} our{\kf146} cheer{\kf35} we{\kf23} love{\kf20} you
-Dialogue: 0,0:01:46.40,0:01:49.68,DEFAULT,,0,0,0,,{\kf12}Sum{\kf169}mer{\kf23} Wrap{\kf88} Up
-Dialogue: 0,0:01:49.95,0:01:55.95,DEFAULT,,0,0,0,,{\kf12}Get{\kf23} to{\kf27}geth{\kf73}er{\kf23} and{\kf20} have{\kf12} root{\kf180} beer{\kf16} we{\kf12} love{\kf23} you
+Dialogue: 0,0:00:04.17,0:00:08.14,DEFAULT,,0,0,0,,{\r}{\kf18}Sum{\kf18}mer{\kf35} on{\kf23} this{\kf29} la{\kf18}zy{\kf29} cloud{\kf18} is{\kf29} end{\kf29}ing{\kf18} with{\kf29} an{\kf29} awe{\kf23}some{\kf52} crowd
+Dialogue: 0,0:00:08.30,0:00:12.08,DEFAULT,,0,0,0,,{\r}{\kf33}Days{\kf20} to{\kf40} play{\kf27} are{\kf40} here{\kf13} to{\kf27} stay{\kf13} we've{\kf27} sung{\kf20} our{\kf27} songs{\kf27} here{\kf20} by{\kf27} the{\kf17} bay
+Dialogue: 0,0:00:12.23,0:00:16.47,DEFAULT,,0,0,0,,{\r}{\kf18}Va{\kf25}ca{\kf18}tion's{\kf49} nice{\kf18} there's{\kf18} no{\kf55} doubt{\kf12} but{\kf37} here{\kf18} it{\kf37} ends{\kf12} as{\kf31} fall's{\kf18} a{\kf58}bout
+Dialogue: 0,0:00:16.66,0:00:22.55,DEFAULT,,0,0,0,,{\r}{\kf30}Per{\kf15}fect{\kf15} sun{\kf25}set{\kf30} o{\kf25}ver{\kf15} the{\kf30} sea{\kf20} I'll{\kf20} miss{\kf20} your{\kf25} shine{\kf25} when{\kf30} we{\kf20}leave{\kf101}~{\kf142}~
+Dialogue: 0,0:00:24.42,0:00:30.38,DEFAULT,,0,0,0,,{\r}{\kf17}Work{\kf22} to{\kf39}geth{\kf123}er{\kf17} and{\kf33} have{\kf22} our{\kf212} cheer{\kf50} we{\kf28} love{\kf33} you
+Dialogue: 0,0:00:31.22,0:00:34.54,DEFAULT,,0,0,0,,{\r}{\kf17}Sum{\kf190}mer{\kf26} Wrap{\kf99} Up
+Dialogue: 0,0:00:34.81,0:00:40.73,DEFAULT,,0,0,0,,{\r}{\kf16}Get{\kf31} to{\kf31}geth{\kf105}er{\kf31} and{\kf26} have{\kf21} root{\kf262} beer{\kf21} we{\kf21} love{\kf27} you
+Dialogue: 0,0:01:15.00,0:01:18.40,DEFAULT,,0,0,0,,{\r}{\kf17}Sum{\kf198}mer{\kf22} Wrap{\kf103} Up
+Dialogue: 0,0:01:18.63,0:01:24.59,DEFAULT,,0,0,0,,{\r}{\kf22}Work{\kf22} to{\kf38}geth{\kf119}er{\kf22} and{\kf33} have{\kf22} our{\kf206} cheer{\kf49} we{\kf27} love{\kf36} you
+Dialogue: 0,0:01:25.47,0:01:28.75,DEFAULT,,0,0,0,,{\r}{\kf13}Sum{\kf190}mer{\kf26} Wrap{\kf100} Up
+Dialogue: 0,0:01:29.02,0:01:35.02,DEFAULT,,0,0,0,,{\r}{\kf16}Get{\kf26} to{\kf42}geth{\kf100}er{\kf32} and{\kf26} have{\kf16} root{\kf263} beer{\kf26} we{\kf21} love{\kf32} you
+Dialogue: 0,0:01:35.93,0:01:39.37,DEFAULT,,0,0,0,,{\r}{\kf17}Sum{\kf196}mer{\kf22} Wrap{\kf109} Up
+Dialogue: 0,0:01:39.56,0:01:45.48,DEFAULT,,0,0,0,,{\r}{\kf22}Work{\kf22} to{\kf43}geth{\kf114}er{\kf22} and{\kf33} have{\kf22} our{\kf206} cheer{\kf49} we{\kf33} love{\kf26} you
+Dialogue: 0,0:01:46.40,0:01:49.69,DEFAULT,,0,0,0,,{\r}{\kf13}Sum{\kf190}mer{\kf26} Wrap{\kf100} Up
+Dialogue: 0,0:01:49.95,0:01:55.95,DEFAULT,,0,0,0,,{\r}{\kf17}Get{\kf33} to{\kf39}geth{\kf105}er{\kf33} and{\kf28} have{\kf17} root{\kf259} beer{\kf22} we{\kf17} love{\kf30} you

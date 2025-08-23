@@ -1,25 +1,32 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Round Red Radish
+Artist: Strigidae
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.13,0:00:05.61,DEFAULT,,0,0,0,,{\kf41}You{\kf21} think{\kf21} you{\kf21} know{\kf21} what{\kf21} you{\kf21} are{\kf35} say{\kf69}ing
-Dialogue: 0,0:00:06.57,0:00:09.70,DEFAULT,,0,0,0,,{\kf21}That{\kf21} there's{\kf21} ma{\kf21}gic{\kf21} in{\kf21} the{\kf21} words{\kf21} you{\kf89} speak
-Dialogue: 0,0:00:10.93,0:00:14.61,DEFAULT,,0,0,0,,{\kf41}Say{\kf21} what{\kf21} you{\kf21} want,{\kf21} you're{\kf21} just{\kf21} pre{\kf28}tend{\kf103}ing
-Dialogue: 0,0:00:15.29,0:00:18.63,DEFAULT,,0,0,0,,{\kf35}You're{\kf21} no{\kf21}thing{\kf21} but{\kf21} this{\kf21} fake{\kf21} mys{\kf110}tique
-Dialogue: 0,0:00:19.38,0:00:21.22,DEFAULT,,0,0,0,,{\kf21}And{\kf21} it{\kf21} sur{\kf35}rounds{\kf55} you
-Dialogue: 0,0:00:21.57,0:00:23.41,DEFAULT,,0,0,0,,{\kf21}This{\kf21} air{\kf35} of{\kf69} pride
-Dialogue: 0,0:00:23.75,0:00:25.52,DEFAULT,,0,0,0,,{\kf21}You'll{\kf14} ne{\kf21}ver{\kf28} see{\kf48} through
-Dialogue: 0,0:00:25.79,0:00:28.25,DEFAULT,,0,0,0,,{\kf14}Your{\kf14} own{\kf14} lit{\kf28}tle{\kf144} lies
-Dialogue: 0,0:00:29.47,0:00:31.04,DEFAULT,,0,0,0,,{\kf21}You{\kf28} forced{\kf69} me
-Dialogue: 0,0:00:31.45,0:00:33.09,DEFAULT,,0,0,0,,{\kf14}To{\kf21} re{\kf35}form{\kf55}~
-Dialogue: 0,0:00:33.57,0:00:37.38,DEFAULT,,0,0,0,,{\kf21}But{\kf21} I{\kf21} am{\kf21} ne{\kf35}ver{\kf41} turn{\kf35}ing{\kf103} back
-Dialogue: 0,0:00:37.93,0:00:39.63,DEFAULT,,0,0,0,,{\kf21}I{\kf21} am{\kf35} Temp{\kf55}est
-Dialogue: 0,0:00:40.11,0:00:41.95,DEFAULT,,0,0,0,,{\kf21}Of{\kf21} the{\kf48} storm{\kf69}~
-Dialogue: 0,0:00:42.29,0:00:46.18,DEFAULT,,0,0,0,,{\kf21}E{\kf28}ver{\kf28} poised{\kf35} and{\kf35} rea{\kf28}dy{\kf21} to{\kf21} at{\kf82}tack
+Dialogue: 0,0:00:02.14,0:00:05.62,DEFAULT,,0,0,0,,{\r}{\kf54}You{\kf27} think{\kf27} you{\kf27} know{\kf27} what{\kf27} you{\kf27} are{\kf45} say{\kf87}ing
+Dialogue: 0,0:00:06.57,0:00:09.71,DEFAULT,,0,0,0,,{\r}{\kf25}That{\kf25} there's{\kf25} ma{\kf25}gic{\kf25} in{\kf25} the{\kf25} words{\kf25} you{\kf114} speak
+Dialogue: 0,0:00:10.93,0:00:14.62,DEFAULT,,0,0,0,,{\r}{\kf51}Say{\kf26} what{\kf26} you{\kf26} want,{\kf26} you're{\kf26} just{\kf26} pre{\kf34}tend{\kf127}ing
+Dialogue: 0,0:00:15.30,0:00:18.64,DEFAULT,,0,0,0,,{\r}{\kf43}You're{\kf26} no{\kf26}thing{\kf26} but{\kf26} this{\kf26} fake{\kf26} mys{\kf135}tique
+Dialogue: 0,0:00:19.39,0:00:21.23,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf25} it{\kf25} sur{\kf42}rounds{\kf67} you
+Dialogue: 0,0:00:21.57,0:00:23.41,DEFAULT,,0,0,0,,{\r}{\kf26}This{\kf26} air{\kf44} of{\kf88} pride
+Dialogue: 0,0:00:23.75,0:00:25.53,DEFAULT,,0,0,0,,{\r}{\kf28}You'll{\kf19} ne{\kf28}ver{\kf37} see{\kf65} through
+Dialogue: 0,0:00:25.80,0:00:28.25,DEFAULT,,0,0,0,,{\r}{\kf16}Your{\kf16} own{\kf16} lit{\kf32}tle{\kf165} lies
+Dialogue: 0,0:00:29.48,0:00:31.05,DEFAULT,,0,0,0,,{\r}{\kf28}You{\kf37} forced{\kf92} me
+Dialogue: 0,0:00:31.46,0:00:33.09,DEFAULT,,0,0,0,,{\r}{\kf18}To{\kf27} re{\kf46}form{\kf73}~
+Dialogue: 0,0:00:33.57,0:00:37.39,DEFAULT,,0,0,0,,{\r}{\kf27}But{\kf27} I{\kf27} am{\kf27} ne{\kf44}ver{\kf53} turn{\kf44}ing{\kf133} back
+Dialogue: 0,0:00:37.93,0:00:39.64,DEFAULT,,0,0,0,,{\r}{\kf27}I{\kf27} am{\kf45} Temp{\kf71}est
+Dialogue: 0,0:00:40.12,0:00:41.96,DEFAULT,,0,0,0,,{\r}{\kf24}Of{\kf24} the{\kf56} storm{\kf80}~
+Dialogue: 0,0:00:42.30,0:00:46.18,DEFAULT,,0,0,0,,{\r}{\kf27}E{\kf36}ver{\kf36} poised{\kf45} and{\kf45} rea{\kf36}dy{\kf27} to{\kf27} at{\kf110}tack

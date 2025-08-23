@@ -1,41 +1,48 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Luna's Ruse
+Artist: zahqo ft. Haymaker
+Original Timing: mylittlekaraoke.com by Linos Melendi, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:25.08,0:00:28.47,DEFAULT,,0,0,0,,{\kf70}Be{\kf40}yond{\kf27} the{\kf40} fields{\kf27} of{\kf27} grass{\kf27}~
-Dialogue: 0,0:00:29.25,0:00:32.64,DEFAULT,,0,0,0,,{\kf66}She{\kf27} left{\kf27} her{\kf40} tat{\kf27}tered{\kf27} past{\kf27}~
-Dialogue: 0,0:00:33.42,0:00:36.81,DEFAULT,,0,0,0,,{\kf18}Fell{\kf27} in{\kf40}to{\kf27} a{\kf40} tan{\kf27}gled{\kf27} heap{\kf27}~
-Dialogue: 0,0:00:37.60,0:00:40.99,DEFAULT,,0,0,0,,{\kf14}Sky{\kf35}ward{\kf27} all{\kf27} her{\kf40} thoughts{\kf27} did{\kf27} leap{\kf27}~
-Dialogue: 0,0:00:41.51,0:00:45.16,DEFAULT,,0,0,0,,{\kf14}Ce{\kf27}les{\kf27}tia{\kf27}~{\kf5} did{\kf14}n't{\kf53} shine{\kf14} to{\kf27}day{\kf27}~
-Dialogue: 0,0:00:45.94,0:00:49.34,DEFAULT,,0,0,0,,{\kf14}All{\kf27} our{\kf35} skies{\kf27} are{\kf40} dark{\kf27} and{\kf27} grey{\kf27}~
-Dialogue: 0,0:00:49.86,0:00:53.51,DEFAULT,,0,0,0,,{\kf14}She{\kf14} won{\kf27}ders{\kf27} how{\kf27} she{\kf40} lost{\kf40} her{\kf27} way{\kf27}~
-Dialogue: 0,0:00:54.03,0:01:00.55,DEFAULT,,0,0,0,,{\kf14}But{\kf14} now{\kf40} there{\kf27} is{\kf40} no{\kf22} way{\kf5}~{\kf18} left{\kf40} to{\kf209} lose
-Dialogue: 0,0:01:48.55,0:01:52.03,DEFAULT,,0,0,0,,{\kf31}Out{\kf27} past{\kf14}~{\kf27} the{\kf40} set{\kf40}ting{\kf18} sun{\kf27}~{\kf14}~
-Dialogue: 0,0:01:52.73,0:01:56.21,DEFAULT,,0,0,0,,{\kf22}Way{\kf27} out{\kf27} where{\kf14}~{\kf40} the{\kf27} moon{\kf14}~{\kf27} be{\kf18}comes{\kf27}~{\kf14}~
-Dialogue: 0,0:01:56.64,0:02:00.29,DEFAULT,,0,0,0,,{\kf14}An{\kf22} an{\kf14}cient{\kf27} dream{\kf14}~{\kf18} of{\kf53} stars{\kf14} di{\kf53}vine
-Dialogue: 0,0:02:00.81,0:02:04.51,DEFAULT,,0,0,0,,{\kf14}Im{\kf27}pri{\kf27}soned{\kf40} her{\kf53} by{\kf14}~{\kf14} their{\kf27} de{\kf27}sign{\kf31}~
-Dialogue: 0,0:02:04.99,0:02:08.64,DEFAULT,,0,0,0,,{\kf22}What{\kf31} force{\kf27} hid{\kf14}~{\kf22} the{\kf40} warmth{\kf14} that{\kf53} flowed
-Dialogue: 0,0:02:09.42,0:02:12.77,DEFAULT,,0,0,0,,{\kf18}Chilled{\kf27} her{\kf27} step{\kf40} on{\kf27} e{\kf27}very{\kf48} road
-Dialogue: 0,0:02:13.60,0:02:16.94,DEFAULT,,0,0,0,,{\kf18}Though{\kf40} these{\kf27} are{\kf14}~{\kf22} the{\kf31} seeds{\kf27} she{\kf27} sowed{\kf22}~
-Dialogue: 0,0:02:17.77,0:02:24.03,DEFAULT,,0,0,0,,{\kf27}Can{\kf27} she{\kf40} find{\kf40} her{\kf27} way{\kf27} back?{\kf40} Lu{\kf40}na's{\kf27} ruse{\kf209}~
-Dialogue: 0,0:03:28.73,0:03:31.34,DEFAULT,,0,0,0,,{\kf105}Way{\kf27} out{\kf40}~{\kf14} here{\kf40}~
-Dialogue: 0,0:03:32.64,0:03:36.03,DEFAULT,,0,0,0,,{\kf22}I{\kf27} rest{\kf14} a{\kf14} dream{\kf27}less{\kf27} sleep
-Dialogue: 0,0:03:37.08,0:03:39.42,DEFAULT,,0,0,0,,{\kf144}In{\kf14} the{\kf53} walls
-Dialogue: 0,0:03:40.99,0:03:44.77,DEFAULT,,0,0,0,,{\kf14}Com{\kf27}pressed{\kf14} that{\kf40} I{\kf40} can't{\kf40} pass
-Dialogue: 0,0:03:45.42,0:03:48.03,DEFAULT,,0,0,0,,{\kf131}Feel{\kf40}ing{\kf14} lost{\kf40}~
-Dialogue: 0,0:03:49.34,0:03:53.25,DEFAULT,,0,0,0,,{\kf18}It{\kf27} glows{\kf14} a{\kf14} bea{\kf27}con{\kf27} dis{\kf27}tant
-Dialogue: 0,0:03:53.77,0:03:58.08,DEFAULT,,0,0,0,,{\kf114}In{\kf27} my{\kf27}~{\kf144} shroud{\kf14}ed{\kf40} throes
-Dialogue: 0,0:03:59.77,0:04:01.77,DEFAULT,,0,0,0,,{\kf14}I'm{\kf22} not{\kf40} ex{\kf40}is{\kf44}tant
-Dialogue: 0,0:04:17.77,0:04:22.99,DEFAULT,,0,0,0,,{\kf14}Lu{\kf27}na's{\kf53} ruse{\kf392}~
-Dialogue: 0,0:04:26.12,0:04:31.34,DEFAULT,,0,0,0,,{\kf14}Lu{\kf27}na's{\kf53} ruse{\kf392}~
-Dialogue: 0,0:04:34.47,0:04:39.68,DEFAULT,,0,0,0,,{\kf14}Lu{\kf27}na's{\kf53} ruse{\kf392}~
-Dialogue: 0,0:04:42.81,0:04:47.77,DEFAULT,,0,0,0,,{\kf14}Lu{\kf27}na's{\kf53} ruse{\kf366}~
-Dialogue: 0,0:04:50.12,0:04:55.86,DEFAULT,,0,0,0,,{\kf53}Oh{\kf14} Lu{\kf27}na's{\kf53} ruse{\kf340}~
-Dialogue: 0,0:04:59.51,0:05:04.21,DEFAULT,,0,0,0,,{\kf14}Lu{\kf27}na's{\kf53} ruse{\kf340}~
+Dialogue: 0,0:00:25.08,0:00:28.47,DEFAULT,,0,0,0,,{\r}{\kf94}Be{\kf53}yond{\kf35} the{\kf53} fields{\kf35} of{\kf35} grass{\kf34}~
+Dialogue: 0,0:00:29.25,0:00:32.65,DEFAULT,,0,0,0,,{\r}{\kf94}She{\kf38} left{\kf38} her{\kf57} tat{\kf38}tered{\kf38} past{\kf36}~
+Dialogue: 0,0:00:33.43,0:00:36.82,DEFAULT,,0,0,0,,{\r}{\kf26}Fell{\kf39} in{\kf59}to{\kf39} a{\kf59} tan{\kf39}gled{\kf39} heap{\kf39}~
+Dialogue: 0,0:00:37.60,0:00:40.99,DEFAULT,,0,0,0,,{\r}{\kf20}Sky{\kf54}ward{\kf41} all{\kf41} her{\kf61} thoughts{\kf41} did{\kf41} leap{\kf40}~
+Dialogue: 0,0:00:41.51,0:00:45.17,DEFAULT,,0,0,0,,{\r}{\kf21}Ce{\kf42}les{\kf42}tia{\kf42}~{\kf10} did{\kf21}n't{\kf84} shine{\kf21} to{\kf42}day{\kf40}~
+Dialogue: 0,0:00:45.95,0:00:49.34,DEFAULT,,0,0,0,,{\r}{\kf20}All{\kf41} our{\kf54} skies{\kf41} are{\kf61} dark{\kf41} and{\kf41} grey{\kf40}~
+Dialogue: 0,0:00:49.86,0:00:53.51,DEFAULT,,0,0,0,,{\r}{\kf20}She{\kf20} won{\kf41}ders{\kf41} how{\kf41} she{\kf61} lost{\kf61} her{\kf41} way{\kf39}~
+Dialogue: 0,0:00:54.04,0:01:00.56,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf20} now{\kf60} there{\kf40} is{\kf60} no{\kf34} way{\kf10}~{\kf27} left{\kf60} to{\kf321} lose
+Dialogue: 0,0:01:48.56,0:01:52.04,DEFAULT,,0,0,0,,{\r}{\kf46}Out{\kf39} past{\kf20}~{\kf39} the{\kf59} set{\kf59}ting{\kf26} sun{\kf39}~{\kf21}~
+Dialogue: 0,0:01:52.73,0:01:56.21,DEFAULT,,0,0,0,,{\r}{\kf31}Way{\kf37} out{\kf37} where{\kf18}~{\kf55} the{\kf37} moon{\kf18}~{\kf37} be{\kf24}comes{\kf37}~{\kf17}~
+Dialogue: 0,0:01:56.65,0:02:00.30,DEFAULT,,0,0,0,,{\r}{\kf21}An{\kf36} an{\kf21}cient{\kf43} dream{\kf21}~{\kf29} of{\kf86} stars{\kf21} di{\kf87}vine
+Dialogue: 0,0:02:00.82,0:02:04.51,DEFAULT,,0,0,0,,{\r}{\kf18}Im{\kf36}pri{\kf36}soned{\kf55} her{\kf73} by{\kf18}~{\kf18} their{\kf36} de{\kf36}sign{\kf44}~
+Dialogue: 0,0:02:04.99,0:02:08.65,DEFAULT,,0,0,0,,{\r}{\kf36}What{\kf51} force{\kf44} hid{\kf22}~{\kf36} the{\kf66} warmth{\kf22} that{\kf88} flowed
+Dialogue: 0,0:02:09.43,0:02:12.78,DEFAULT,,0,0,0,,{\r}{\kf28}Chilled{\kf42} her{\kf42} step{\kf63} on{\kf42} e{\kf42}very{\kf76} road
+Dialogue: 0,0:02:13.60,0:02:16.95,DEFAULT,,0,0,0,,{\r}{\kf26}Though{\kf59} these{\kf39} are{\kf20}~{\kf33} the{\kf46} seeds{\kf39} she{\kf39} sowed{\kf34}~
+Dialogue: 0,0:02:17.78,0:02:24.04,DEFAULT,,0,0,0,,{\r}{\kf33}Can{\kf33} she{\kf49} find{\kf49} her{\kf33} way{\kf33} back?{\kf49} Lu{\kf49}na's{\kf33} ruse{\kf265}~
+Dialogue: 0,0:03:28.73,0:03:31.34,DEFAULT,,0,0,0,,{\r}{\kf123}Way{\kf31} out{\kf46}~{\kf15} here{\kf46}~
+Dialogue: 0,0:03:32.65,0:03:36.04,DEFAULT,,0,0,0,,{\r}{\kf58}I{\kf70} rest{\kf35} a{\kf35} dream{\kf70}less{\kf71} sleep
+Dialogue: 0,0:03:37.08,0:03:39.43,DEFAULT,,0,0,0,,{\r}{\kf162}In{\kf15} the{\kf58} walls
+Dialogue: 0,0:03:40.99,0:03:44.78,DEFAULT,,0,0,0,,{\r}{\kf29}Com{\kf58}pressed{\kf29} that{\kf87} I{\kf87} can't{\kf88} pass
+Dialogue: 0,0:03:45.43,0:03:48.04,DEFAULT,,0,0,0,,{\r}{\kf154}Feel{\kf46}ing{\kf15} lost{\kf46}~
+Dialogue: 0,0:03:49.34,0:03:53.25,DEFAULT,,0,0,0,,{\r}{\kf46}It{\kf69} glows{\kf34} a{\kf34} bea{\kf69}con{\kf69} dis{\kf70}tant
+Dialogue: 0,0:03:53.78,0:03:58.08,DEFAULT,,0,0,0,,{\r}{\kf135}In{\kf31} my{\kf31}~{\kf171} shroud{\kf16}ed{\kf46} throes
+Dialogue: 0,0:03:59.78,0:04:01.78,DEFAULT,,0,0,0,,{\r}{\kf17}I'm{\kf28} not{\kf50} ex{\kf50}is{\kf55}tant
+Dialogue: 0,0:04:17.78,0:04:22.99,DEFAULT,,0,0,0,,{\r}{\kf14}Lu{\kf28}na's{\kf56} ruse{\kf424}~
+Dialogue: 0,0:04:26.12,0:04:31.34,DEFAULT,,0,0,0,,{\r}{\kf14}Lu{\kf28}na's{\kf56} ruse{\kf424}~
+Dialogue: 0,0:04:34.47,0:04:39.69,DEFAULT,,0,0,0,,{\r}{\kf14}Lu{\kf28}na's{\kf56} ruse{\kf424}~
+Dialogue: 0,0:04:42.82,0:04:47.78,DEFAULT,,0,0,0,,{\r}{\kf14}Lu{\kf28}na's{\kf57} ruse{\kf397}~
+Dialogue: 0,0:04:50.12,0:04:55.86,DEFAULT,,0,0,0,,{\r}{\kf62}Oh{\kf16} Lu{\kf31}na's{\kf62} ruse{\kf403}~
+Dialogue: 0,0:04:59.51,0:05:04.21,DEFAULT,,0,0,0,,{\r}{\kf14}Lu{\kf28}na's{\kf57} ruse{\kf371}~

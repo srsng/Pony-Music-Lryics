@@ -1,87 +1,94 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Faithful and Strong
+Artist: Warbalist
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:30.80,0:00:32.47,DEFAULT,,0,0,0,,{\kf44}Can't{\kf27} move,{\kf33} bucked{\kf33} out
-Dialogue: 0,0:00:32.58,0:00:35.80,DEFAULT,,0,0,0,,{\kf38}Can't{\kf33} stand{\kf17} long{\kf17} on{\kf17} my{\kf49} own,{\kf38} now{\kf22} fil{\kf44}ly
-Dialogue: 0,0:00:37.68,0:00:39.24,DEFAULT,,0,0,0,,{\kf38}Won't{\kf17} lis{\kf17}ten,{\kf33} no{\kf27} sir
-Dialogue: 0,0:00:39.46,0:00:43.76,DEFAULT,,0,0,0,,{\kf11}If{\kf11} you're{\kf22} wan{\kf17}ting{\kf38} to{\kf60} help{\kf22} me{\kf49} out{\kf54}~
-Dialogue: 0,0:00:44.67,0:00:46.61,DEFAULT,,0,0,0,,{\kf33}What{\kf27} I'm{\kf22} say{\kf22}ing{\kf17} to{\kf49} you
-Dialogue: 0,0:00:46.77,0:00:48.11,DEFAULT,,0,0,0,,{\kf17}Is{\kf17} the{\kf22} ho{\kf22}nest{\kf33} truth
-Dialogue: 0,0:00:49.24,0:00:50.85,DEFAULT,,0,0,0,,{\kf22}Sure{\kf11} as{\kf33} su{\kf87}gar
-Dialogue: 0,0:00:51.02,0:00:54.03,DEFAULT,,0,0,0,,{\kf11}That{\kf11} you{\kf33} can't{\kf27} stop{\kf33} me{\kf22} from{\kf33} help{\kf22}ing{\kf22} my{\kf22} friends
-Dialogue: 0,0:00:54.24,0:00:55.96,DEFAULT,,0,0,0,,{\kf17}Do{\kf38} bet{\kf17}ter{\kf22} than{\kf17} their{\kf27} best
-Dialogue: 0,0:00:56.12,0:00:58.17,DEFAULT,,0,0,0,,{\kf33}Trot{\kf27} fur{\kf17}ther{\kf17} and{\kf17} as{\kf76}cend!
-Dialogue: 0,0:00:58.92,0:01:02.52,DEFAULT,,0,0,0,,{\kf11}I'll{\kf22} al{\kf38}ways{\kf54} be{\kf38} there{\kf22} for{\kf38} my{\kf103} friends
-Dialogue: 0,0:01:02.79,0:01:04.56,DEFAULT,,0,0,0,,{\kf33}Aw{\kf135} yeah
-Dialogue: 0,0:01:05.80,0:01:09.40,DEFAULT,,0,0,0,,{\kf17}With{\kf27} a{\kf27}ny{\kf49} help{\kf22} that{\kf38} I{\kf33} might{\kf108} lend
-Dialogue: 0,0:01:12.84,0:01:14.99,DEFAULT,,0,0,0,,{\kf17}Grab{\kf22} my{\kf49} rope,{\kf22} we'll{\kf22} put{\kf22} your
-Dialogue: 0,0:01:15.42,0:01:19.08,DEFAULT,,0,0,0,,{\kf76}Pro{\kf70}blems{\kf49} in{\kf44} their{\kf81} pen
-Dialogue: 0,0:01:19.51,0:01:21.07,DEFAULT,,0,0,0,,{\kf11}And{\kf27} we'll{\kf38} suc{\kf70}ceed
-Dialogue: 0,0:01:21.66,0:01:22.25,DEFAULT,,0,0,0,,{\kf17}Be{\kf22}cause{\kf17} your
-Dialogue: 0,0:01:22.41,0:01:24.13,DEFAULT,,0,0,0,,{\kf38}(Soul{\kf27} is{\kf38} tough)
-Dialogue: 0,0:01:25.53,0:01:26.93,DEFAULT,,0,0,0,,{\kf17}With{\kf38} friends{\kf27} like{\kf33} you
-Dialogue: 0,0:01:27.04,0:01:28.49,DEFAULT,,0,0,0,,{\kf17}I{\kf44} can{\kf22}not{\kf17} get{\kf17} e{\kf17}nough
-Dialogue: 0,0:01:28.54,0:01:29.03,DEFAULT,,0,0,0,,{\kf11}You{\kf17} know{\kf11} your
-Dialogue: 0,0:01:29.13,0:01:31.02,DEFAULT,,0,0,0,,{\kf38}(Heart{\kf27} is{\kf44} pure)
-Dialogue: 0,0:01:32.63,0:01:33.76,DEFAULT,,0,0,0,,{\kf33}Faith{\kf17}ful{\kf17} and{\kf38} strong
-Dialogue: 0,0:01:33.97,0:01:36.77,DEFAULT,,0,0,0,,{\kf17}You{\kf49} know{\kf17} I{\kf49} know{\kf17} for{\kf97} sure
-Dialogue: 0,0:01:39.62,0:01:43.01,DEFAULT,,0,0,0,,{\kf27}Un{\kf17}ci{\kf17}vil,{\kf33} un{\kf44}couth,{\kf17} ta{\kf11}ble's{\kf33} too{\kf17} good{\kf33} for{\kf49} me
-Dialogue: 0,0:01:43.70,0:01:45.64,DEFAULT,,0,0,0,,{\kf27}That's{\kf22} what{\kf27} you{\kf60} sa{\kf27}id
-Dialogue: 0,0:01:46.18,0:01:49.99,DEFAULT,,0,0,0,,{\kf38}Bright{\kf33} lights,{\kf27} big{\kf22} ci{\kf22}ty,{\kf33} can't{\kf17} seem{\kf11} to{\kf17} fit{\kf22} my{\kf22}self{\kf49} in
-Dialogue: 0,0:01:50.32,0:01:53.06,DEFAULT,,0,0,0,,{\kf17}...to{\kf17} your{\kf22} po{\kf22}lite{\kf33} com{\kf27}pa{\kf33}ny{\kf60} now
-Dialogue: 0,0:01:53.17,0:01:54.56,DEFAULT,,0,0,0,,{\kf17}That's{\kf22} o{\kf27}kay{\kf22} a{\kf22}ny{\kf17}way
-Dialogue: 0,0:01:54.73,0:01:56.71,DEFAULT,,0,0,0,,{\kf11}I'm{\kf17} bus{\kf17}tin'{\kf27} flank{\kf17} back{\kf17} to{\kf17} the{\kf38} farm
-Dialogue: 0,0:01:59.99,0:02:02.79,DEFAULT,,0,0,0,,{\kf17}What{\kf17} was{\kf17} I{\kf44} do{\kf22}in'{\kf38} thin{\kf22}kin'{\kf17} I{\kf17} was{\kf27} wrong?
-Dialogue: 0,0:02:03.01,0:02:04.62,DEFAULT,,0,0,0,,{\kf17}I{\kf38} did{\kf17}n't{\kf22} learn{\kf22} nu{\kf11}thin'
-Dialogue: 0,0:02:04.78,0:02:06.45,DEFAULT,,0,0,0,,{\kf11}I{\kf17} was{\kf17} right{\kf17} all{\kf22} a{\kf65}long!
-Dialogue: 0,0:02:07.47,0:02:11.23,DEFAULT,,0,0,0,,{\kf11}I'll{\kf38} al{\kf33}ways{\kf49} be{\kf27} there{\kf17} for{\kf33} my{\kf124} friends
-Dialogue: 0,0:02:11.39,0:02:13.65,DEFAULT,,0,0,0,,{\kf33}Aw{\kf183} yeah
-Dialogue: 0,0:02:14.40,0:02:17.95,DEFAULT,,0,0,0,,{\kf17}With{\kf17} a{\kf27}ny{\kf49} help{\kf22} that{\kf22} I{\kf38} might{\kf103} lend
-Dialogue: 0,0:02:21.45,0:02:23.70,DEFAULT,,0,0,0,,{\kf22}Grab{\kf22} my{\kf60} rope,{\kf22} we'll{\kf27} put{\kf38} your
-Dialogue: 0,0:02:23.97,0:02:27.90,DEFAULT,,0,0,0,,{\kf81}Pro{\kf81}blems{\kf44} in{\kf49} their{\kf33} pen{\kf65}~
-Dialogue: 0,0:02:28.17,0:02:29.51,DEFAULT,,0,0,0,,{\kf22}And{\kf17} we'll{\kf22} suc{\kf60}ceed
-Dialogue: 0,0:02:30.16,0:02:30.64,DEFAULT,,0,0,0,,{\kf22}Be{\kf11}cause{\kf11} your
-Dialogue: 0,0:02:30.80,0:02:32.63,DEFAULT,,0,0,0,,{\kf33}(Soul{\kf27} is{\kf33} tough)
-Dialogue: 0,0:02:34.03,0:02:35.48,DEFAULT,,0,0,0,,{\kf22}With{\kf27} friends{\kf33} like{\kf38} you
-Dialogue: 0,0:02:35.59,0:02:36.93,DEFAULT,,0,0,0,,{\kf11}I{\kf38} can{\kf17}not{\kf17} get{\kf27} e{\kf11}nough
-Dialogue: 0,0:02:37.09,0:02:37.58,DEFAULT,,0,0,0,,{\kf11}You{\kf17} know{\kf11} your
-Dialogue: 0,0:02:37.74,0:02:39.56,DEFAULT,,0,0,0,,{\kf33}(Heart{\kf22} is{\kf38} pure)
-Dialogue: 0,0:02:41.12,0:02:42.25,DEFAULT,,0,0,0,,{\kf44}Faith{\kf17}ful{\kf17} and{\kf27} strong
-Dialogue: 0,0:02:42.41,0:02:43.81,DEFAULT,,0,0,0,,{\kf17}You{\kf38} know{\kf17} I{\kf17} know{\kf17} for{\kf11} sure
-Dialogue: 0,0:02:43.87,0:02:44.46,DEFAULT,,0,0,0,,{\kf22}You{\kf22} got{\kf11}ta
-Dialogue: 0,0:02:44.62,0:02:46.45,DEFAULT,,0,0,0,,{\kf38}(Trust{\kf33} your{\kf38}self)
-Dialogue: 0,0:02:47.79,0:02:49.30,DEFAULT,,0,0,0,,{\kf11}I{\kf27} know{\kf17} you{\kf17} can{\kf33} do{\kf11} it
-Dialogue: 0,0:02:49.40,0:02:51.23,DEFAULT,,0,0,0,,{\kf11}I{\kf27} know{\kf27} you{\kf27} know{\kf11} it,{\kf49} too
-Dialogue: 0,0:02:51.39,0:02:53.17,DEFAULT,,0,0,0,,{\kf44}(Just{\kf27} be{\kf33} free)
-Dialogue: 0,0:02:54.83,0:02:55.96,DEFAULT,,0,0,0,,{\kf44}Faith{\kf17}ful{\kf11} and{\kf27} strong
-Dialogue: 0,0:02:56.07,0:02:58.22,DEFAULT,,0,0,0,,{\kf17}That's{\kf38} what{\kf11} I{\kf17} want{\kf17} to{\kf22} be,{\kf54} now
-Dialogue: 0,0:02:59.19,0:03:03.44,DEFAULT,,0,0,0,,{\kf27}Be{\kf17} a{\kf113} shi{\kf33}ning{\kf44} li{\kf140}ght
-Dialogue: 0,0:03:05.75,0:03:09.46,DEFAULT,,0,0,0,,{\kf17}A{\kf49} Cham{\kf22}pi{\kf54}on{\kf17} of{\kf33} what{\kf33} is{\kf108} right
-Dialogue: 0,0:03:12.79,0:03:17.52,DEFAULT,,0,0,0,,{\kf54}Bless{\kf54} those{\kf22} a{\kf27}round{\kf44} you{\kf49} and{\kf60} you'll{\kf81} see
-Dialogue: 0,0:03:19.56,0:03:25.75,DEFAULT,,0,0,0,,{\kf17}Ex{\kf33}ac{\kf17}tly{\kf38} who{\kf11} you're{\kf33} s'posed{\kf27} to{\kf27} be{\kf173}~{\kf146}~{\kf22}~
-Dialogue: 0,0:03:26.12,0:03:26.66,DEFAULT,,0,0,0,,{\kf54}Woo!
-Dialogue: 0,0:03:39.46,0:03:41.23,DEFAULT,,0,0,0,,{\kf38}(Soul{\kf22} is{\kf38} tough)
-Dialogue: 0,0:03:42.63,0:03:43.97,DEFAULT,,0,0,0,,{\kf17}With{\kf27} friends{\kf33} like{\kf27} you
-Dialogue: 0,0:03:44.13,0:03:45.53,DEFAULT,,0,0,0,,{\kf17}I{\kf44} can{\kf17}not{\kf22} get{\kf17} e{\kf11}nough
-Dialogue: 0,0:03:45.75,0:03:46.18,DEFAULT,,0,0,0,,{\kf6}You{\kf17} know{\kf11} your
-Dialogue: 0,0:03:46.34,0:03:48.22,DEFAULT,,0,0,0,,{\kf33}(Heart{\kf22} is{\kf44} pure)
-Dialogue: 0,0:03:49.73,0:03:50.75,DEFAULT,,0,0,0,,{\kf38}Faith{\kf17}ful{\kf11} and{\kf27} strong
-Dialogue: 0,0:03:50.96,0:03:52.36,DEFAULT,,0,0,0,,{\kf17}You{\kf33} know{\kf11} I{\kf17} know{\kf17} for{\kf11} sure
-Dialogue: 0,0:03:52.52,0:03:53.01,DEFAULT,,0,0,0,,{\kf11}You{\kf22} got{\kf11}ta
-Dialogue: 0,0:03:53.17,0:03:54.94,DEFAULT,,0,0,0,,{\kf27}(Trust{\kf27} your{\kf38}self)
-Dialogue: 0,0:03:56.39,0:03:57.74,DEFAULT,,0,0,0,,{\kf11}I{\kf27} know{\kf17} you{\kf11} can{\kf22} do{\kf11} it
-Dialogue: 0,0:03:57.90,0:03:59.40,DEFAULT,,0,0,0,,{\kf11}I{\kf33} know{\kf17} you{\kf17} know{\kf17} it,{\kf27} too
-Dialogue: 0,0:03:59.99,0:04:01.88,DEFAULT,,0,0,0,,{\kf38}(Just{\kf22} be{\kf44} free)
-Dialogue: 0,0:04:03.44,0:04:04.56,DEFAULT,,0,0,0,,{\kf33}Faith{\kf17}ful{\kf17} and{\kf33} strong
-Dialogue: 0,0:04:04.78,0:04:06.12,DEFAULT,,0,0,0,,{\kf11}That's{\kf38} what{\kf33} I{\kf33} want
-Dialogue: 0,0:04:06.23,0:04:07.79,DEFAULT,,0,0,0,,{\kf17}That's{\kf44} what{\kf27} I{\kf33} want
-Dialogue: 0,0:04:08.01,0:04:11.34,DEFAULT,,0,0,0,,{\kf22}That's{\kf38} what{\kf22} I{\kf44} want{\kf17} to{\kf119} be!
-Dialogue: 0,0:04:11.50,0:04:17.47,DEFAULT,,0,0,0,,{\kf33}Yeah{\kf33}~{\kf38}~{\kf44}~{\kf27}~{\kf22}~{\kf22}~{\kf17}~{\kf17}~{\kf22}~{\kf44}~{\kf22}~{\kf146}~{\kf81}~!
+Dialogue: 0,0:00:30.81,0:00:32.47,DEFAULT,,0,0,0,,{\r}{\kf53}Can't{\kf33} move,{\kf40} bucked{\kf41} out
+Dialogue: 0,0:00:32.58,0:00:35.81,DEFAULT,,0,0,0,,{\r}{\kf45}Can't{\kf39} stand{\kf19} long{\kf19} on{\kf19} my{\kf58} own,{\kf45} now{\kf26} fil{\kf53}ly
+Dialogue: 0,0:00:37.69,0:00:39.25,DEFAULT,,0,0,0,,{\r}{\kf46}Won't{\kf20} lis{\kf20}ten,{\kf39} no{\kf31} sir
+Dialogue: 0,0:00:39.46,0:00:43.76,DEFAULT,,0,0,0,,{\r}{\kf17}If{\kf17} you're{\kf33} wan{\kf25}ting{\kf58} to{\kf91} help{\kf33} me{\kf74} out{\kf82}~
+Dialogue: 0,0:00:44.68,0:00:46.61,DEFAULT,,0,0,0,,{\r}{\kf38}What{\kf31} I'm{\kf25} say{\kf25}ing{\kf19} to{\kf56} you
+Dialogue: 0,0:00:46.77,0:00:48.12,DEFAULT,,0,0,0,,{\r}{\kf20}Is{\kf20} the{\kf27} ho{\kf27}nest{\kf40} truth
+Dialogue: 0,0:00:49.25,0:00:50.86,DEFAULT,,0,0,0,,{\r}{\kf23}Sure{\kf12} as{\kf34} su{\kf92}gar
+Dialogue: 0,0:00:51.02,0:00:54.03,DEFAULT,,0,0,0,,{\r}{\kf14}That{\kf14} you{\kf42} can't{\kf35} stop{\kf42} me{\kf28} from{\kf42} help{\kf28}ing{\kf28} my{\kf28} friends
+Dialogue: 0,0:00:54.25,0:00:55.97,DEFAULT,,0,0,0,,{\r}{\kf21}Do{\kf48} bet{\kf21}ter{\kf28} than{\kf21} their{\kf33} best
+Dialogue: 0,0:00:56.13,0:00:58.17,DEFAULT,,0,0,0,,{\r}{\kf36}Trot{\kf30} fur{\kf18}ther{\kf18} and{\kf18} as{\kf84}cend!
+Dialogue: 0,0:00:58.92,0:01:02.53,DEFAULT,,0,0,0,,{\r}{\kf12}I'll{\kf24} al{\kf42}ways{\kf60} be{\kf42} there{\kf24} for{\kf42} my{\kf114} friends
+Dialogue: 0,0:01:02.80,0:01:04.57,DEFAULT,,0,0,0,,{\r}{\kf34}Aw{\kf143} yeah
+Dialogue: 0,0:01:05.81,0:01:09.41,DEFAULT,,0,0,0,,{\r}{\kf18}With{\kf31} a{\kf31}ny{\kf55} help{\kf24} that{\kf43} I{\kf37} might{\kf121} lend
+Dialogue: 0,0:01:12.85,0:01:15.00,DEFAULT,,0,0,0,,{\r}{\kf23}Grab{\kf31} my{\kf69} rope,{\kf31} we'll{\kf31} put{\kf30} your
+Dialogue: 0,0:01:15.43,0:01:19.09,DEFAULT,,0,0,0,,{\r}{\kf87}Pro{\kf81}blems{\kf56} in{\kf50} their{\kf92} pen
+Dialogue: 0,0:01:19.52,0:01:21.07,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf29} we'll{\kf40} suc{\kf75}ceed
+Dialogue: 0,0:01:21.67,0:01:22.26,DEFAULT,,0,0,0,,{\r}{\kf18}Be{\kf24}cause{\kf17} your
+Dialogue: 0,0:01:22.42,0:01:24.14,DEFAULT,,0,0,0,,{\r}{\kf63}(Soul{\kf45} is{\kf64} tough)
+Dialogue: 0,0:01:25.54,0:01:26.94,DEFAULT,,0,0,0,,{\r}{\kf20}With{\kf47} friends{\kf33} like{\kf40} you
+Dialogue: 0,0:01:27.04,0:01:28.49,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf48} can{\kf24}not{\kf18} get{\kf18} e{\kf19}nough
+Dialogue: 0,0:01:28.55,0:01:29.03,DEFAULT,,0,0,0,,{\r}{\kf14}You{\kf21} know{\kf13} your
+Dialogue: 0,0:01:29.14,0:01:31.02,DEFAULT,,0,0,0,,{\r}{\kf66}(Heart{\kf47} is{\kf75} pure)
+Dialogue: 0,0:01:32.63,0:01:33.76,DEFAULT,,0,0,0,,{\r}{\kf36}Faith{\kf18}ful{\kf18} and{\kf41} strong
+Dialogue: 0,0:01:33.98,0:01:36.77,DEFAULT,,0,0,0,,{\r}{\kf19}You{\kf56} know{\kf19} I{\kf56} know{\kf19} for{\kf111} sure
+Dialogue: 0,0:01:39.62,0:01:43.01,DEFAULT,,0,0,0,,{\r}{\kf31}Un{\kf19}ci{\kf19}vil,{\kf38} un{\kf50}couth,{\kf19} ta{\kf13}ble's{\kf38} too{\kf19} good{\kf38} for{\kf55} me
+Dialogue: 0,0:01:43.71,0:01:45.64,DEFAULT,,0,0,0,,{\r}{\kf32}That's{\kf26} what{\kf32} you{\kf71} sa{\kf33}id
+Dialogue: 0,0:01:46.18,0:01:50.00,DEFAULT,,0,0,0,,{\r}{\kf47}Bright{\kf40} lights,{\kf34} big{\kf27} ci{\kf27}ty,{\kf40} can't{\kf20} seem{\kf13} to{\kf20} fit{\kf27} my{\kf27}self{\kf60} in
+Dialogue: 0,0:01:50.32,0:01:53.06,DEFAULT,,0,0,0,,{\r}{\kf20}...to{\kf20} your{\kf26} po{\kf26}lite{\kf39} com{\kf33}pa{\kf39}ny{\kf71} now
+Dialogue: 0,0:01:53.17,0:01:54.57,DEFAULT,,0,0,0,,{\r}{\kf18}That's{\kf24} o{\kf30}kay{\kf24} a{\kf24}ny{\kf20}way
+Dialogue: 0,0:01:54.73,0:01:56.72,DEFAULT,,0,0,0,,{\r}{\kf14}I'm{\kf21} bus{\kf21}tin'{\kf34} flank{\kf21} back{\kf21} to{\kf21} the{\kf46} farm
+Dialogue: 0,0:01:60.00,0:02:02.80,DEFAULT,,0,0,0,,{\r}{\kf20}What{\kf20} was{\kf20} I{\kf52} do{\kf26}in'{\kf46} thin{\kf26}kin'{\kf20} I{\kf20} was{\kf30} wrong?
+Dialogue: 0,0:02:03.01,0:02:04.62,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf49} did{\kf21}n't{\kf28} learn{\kf28} nu{\kf14}thin'
+Dialogue: 0,0:02:04.78,0:02:06.45,DEFAULT,,0,0,0,,{\r}{\kf12}I{\kf19} was{\kf19} right{\kf19} all{\kf25} a{\kf73}long!
+Dialogue: 0,0:02:07.47,0:02:11.24,DEFAULT,,0,0,0,,{\r}{\kf12}I'll{\kf43} al{\kf37}ways{\kf55} be{\kf31} there{\kf18} for{\kf37} my{\kf143} friends
+Dialogue: 0,0:02:11.40,0:02:13.66,DEFAULT,,0,0,0,,{\r}{\kf34}Aw{\kf192} yeah
+Dialogue: 0,0:02:14.41,0:02:17.96,DEFAULT,,0,0,0,,{\r}{\kf20}With{\kf20} a{\kf33}ny{\kf59} help{\kf26} that{\kf26} I{\kf46} might{\kf125} lend
+Dialogue: 0,0:02:21.45,0:02:23.71,DEFAULT,,0,0,0,,{\r}{\kf26}Grab{\kf26} my{\kf71} rope,{\kf26} we'll{\kf32} put{\kf45} your
+Dialogue: 0,0:02:23.98,0:02:27.90,DEFAULT,,0,0,0,,{\r}{\kf90}Pro{\kf90}blems{\kf48} in{\kf54} their{\kf36} pen{\kf74}~
+Dialogue: 0,0:02:28.17,0:02:29.52,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf18} we'll{\kf24} suc{\kf68}ceed
+Dialogue: 0,0:02:30.16,0:02:30.64,DEFAULT,,0,0,0,,{\r}{\kf24}Be{\kf12}cause{\kf12} your
+Dialogue: 0,0:02:30.81,0:02:32.63,DEFAULT,,0,0,0,,{\r}{\kf65}(Soul{\kf54} is{\kf64} tough)
+Dialogue: 0,0:02:34.03,0:02:35.48,DEFAULT,,0,0,0,,{\r}{\kf26}With{\kf33} friends{\kf40} like{\kf46} you
+Dialogue: 0,0:02:35.59,0:02:36.94,DEFAULT,,0,0,0,,{\r}{\kf12}I{\kf43} can{\kf18}not{\kf18} get{\kf30} e{\kf13}nough
+Dialogue: 0,0:02:37.10,0:02:37.58,DEFAULT,,0,0,0,,{\r}{\kf14}You{\kf21} know{\kf13} your
+Dialogue: 0,0:02:37.74,0:02:39.57,DEFAULT,,0,0,0,,{\r}{\kf65}(Heart{\kf43} is{\kf75} pure)
+Dialogue: 0,0:02:41.13,0:02:42.26,DEFAULT,,0,0,0,,{\r}{\kf48}Faith{\kf18}ful{\kf18} and{\kf29} strong
+Dialogue: 0,0:02:42.42,0:02:43.82,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf47} know{\kf20} I{\kf20} know{\kf20} for{\kf13} sure
+Dialogue: 0,0:02:43.87,0:02:44.46,DEFAULT,,0,0,0,,{\r}{\kf24}You{\kf24} got{\kf11}ta
+Dialogue: 0,0:02:44.62,0:02:46.45,DEFAULT,,0,0,0,,{\r}{\kf64}(Trust{\kf55} your{\kf64}self)
+Dialogue: 0,0:02:47.80,0:02:49.30,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf36} know{\kf22} you{\kf22} can{\kf43} do{\kf14} it
+Dialogue: 0,0:02:49.41,0:02:51.24,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf33} know{\kf33} you{\kf33} know{\kf13} it,{\kf58} too
+Dialogue: 0,0:02:51.40,0:02:53.17,DEFAULT,,0,0,0,,{\r}{\kf75}(Just{\kf47} be{\kf55} free)
+Dialogue: 0,0:02:54.84,0:02:55.97,DEFAULT,,0,0,0,,{\r}{\kf50}Faith{\kf19}ful{\kf13} and{\kf31} strong
+Dialogue: 0,0:02:56.07,0:02:58.23,DEFAULT,,0,0,0,,{\r}{\kf20}That's{\kf47} what{\kf13} I{\kf20} want{\kf20} to{\kf27} be,{\kf68} now
+Dialogue: 0,0:02:59.19,0:03:03.44,DEFAULT,,0,0,0,,{\r}{\kf31}Be{\kf18} a{\kf129} shi{\kf37}ning{\kf49} li{\kf161}ght
+Dialogue: 0,0:03:05.75,0:03:09.46,DEFAULT,,0,0,0,,{\r}{\kf18}A{\kf55} Cham{\kf24}pi{\kf61}on{\kf18} of{\kf36} what{\kf36} is{\kf123} right
+Dialogue: 0,0:03:12.80,0:03:17.53,DEFAULT,,0,0,0,,{\r}{\kf66}Bless{\kf66} those{\kf26} a{\kf33}round{\kf53} you{\kf59} and{\kf72} you'll{\kf98} see
+Dialogue: 0,0:03:19.57,0:03:25.75,DEFAULT,,0,0,0,,{\r}{\kf19}Ex{\kf37}ac{\kf19}tly{\kf43} who{\kf12} you're{\kf37} s'posed{\kf31} to{\kf31} be{\kf198}~{\kf167}~{\kf24}~
+Dialogue: 0,0:03:26.13,0:03:26.67,DEFAULT,,0,0,0,,{\r}{\kf54}Woo!
+Dialogue: 0,0:03:39.46,0:03:41.24,DEFAULT,,0,0,0,,{\r}{\kf69}(Soul{\kf39} is{\kf69} tough)
+Dialogue: 0,0:03:42.63,0:03:43.98,DEFAULT,,0,0,0,,{\r}{\kf21}With{\kf35} friends{\kf42} like{\kf36} you
+Dialogue: 0,0:03:44.14,0:03:45.54,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf49} can{\kf18}not{\kf24} get{\kf18} e{\kf13}nough
+Dialogue: 0,0:03:45.75,0:03:46.18,DEFAULT,,0,0,0,,{\r}{\kf10}You{\kf22} know{\kf11} your
+Dialogue: 0,0:03:46.34,0:03:48.23,DEFAULT,,0,0,0,,{\r}{\kf63}(Heart{\kf42} is{\kf83} pure)
+Dialogue: 0,0:03:49.73,0:03:50.75,DEFAULT,,0,0,0,,{\r}{\kf42}Faith{\kf18}ful{\kf12} and{\kf30} strong
+Dialogue: 0,0:03:50.97,0:03:52.37,DEFAULT,,0,0,0,,{\r}{\kf22}You{\kf44} know{\kf15} I{\kf22} know{\kf22} for{\kf15} sure
+Dialogue: 0,0:03:52.53,0:03:53.01,DEFAULT,,0,0,0,,{\r}{\kf12}You{\kf24} got{\kf12}ta
+Dialogue: 0,0:03:53.17,0:03:54.95,DEFAULT,,0,0,0,,{\r}{\kf52}(Trust{\kf52} your{\kf73}self)
+Dialogue: 0,0:03:56.40,0:03:57.74,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf37} know{\kf22} you{\kf15} can{\kf30} do{\kf15} it
+Dialogue: 0,0:03:57.90,0:03:59.41,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf41} know{\kf21} you{\kf21} know{\kf21} it,{\kf33} too
+Dialogue: 0,0:03:60.00,0:04:01.88,DEFAULT,,0,0,0,,{\r}{\kf69}(Just{\kf40} be{\kf79} free)
+Dialogue: 0,0:04:03.44,0:04:04.57,DEFAULT,,0,0,0,,{\r}{\kf38}Faith{\kf19}ful{\kf19} and{\kf37} strong
+Dialogue: 0,0:04:04.78,0:04:06.13,DEFAULT,,0,0,0,,{\r}{\kf13}That's{\kf45} what{\kf38} I{\kf38} want
+Dialogue: 0,0:04:06.24,0:04:07.80,DEFAULT,,0,0,0,,{\r}{\kf21}That's{\kf57} what{\kf35} I{\kf43} want
+Dialogue: 0,0:04:08.01,0:04:11.34,DEFAULT,,0,0,0,,{\r}{\kf28}That's{\kf49} what{\kf28} I{\kf56} want{\kf21} to{\kf151} be!
+Dialogue: 0,0:04:11.50,0:04:17.47,DEFAULT,,0,0,0,,{\r}{\kf34}Yeah{\kf34}~{\kf40}~{\kf46}~{\kf29}~{\kf23}~{\kf23}~{\kf17}~{\kf17}~{\kf23}~{\kf46}~{\kf23}~{\kf155}~{\kf87}~!

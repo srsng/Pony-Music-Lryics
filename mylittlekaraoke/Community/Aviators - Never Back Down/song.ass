@@ -1,94 +1,101 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Never Back Down (Feat. d.notive and Yelling at Cats)
+Artist: Aviators
+Original Timing: mylittlekaraoke.com by Goliathe
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:21.13,0:00:21.99,DEFAULT,,0,0,0,,{\kf19}Don't{\kf27} look{\kf27} back
-Dialogue: 0,0:00:22.18,0:00:23.04,DEFAULT,,0,0,0,,{\kf23}It's{\kf23} too{\kf27} late
-Dialogue: 0,0:00:23.53,0:00:25.29,DEFAULT,,0,0,0,,{\kf19}To{\kf42} turn{\kf42} back{\kf49} now
-Dialogue: 0,0:00:25.63,0:00:26.27,DEFAULT,,0,0,0,,{\kf23}Push{\kf34} through
-Dialogue: 0,0:00:26.42,0:00:27.32,DEFAULT,,0,0,0,,{\kf19}Da{\kf23}ring{\kf23} do{\kf15}~
-Dialogue: 0,0:00:27.47,0:00:29.49,DEFAULT,,0,0,0,,{\kf19}You're{\kf23} gon{\kf19}na{\kf23} make{\kf34} it{\kf23} out{\kf27}~
-Dialogue: 0,0:00:29.75,0:00:30.32,DEFAULT,,0,0,0,,{\kf19}A{\kf34}live
-Dialogue: 0,0:00:30.77,0:00:31.37,DEFAULT,,0,0,0,,{\kf19}This{\kf34} time
-Dialogue: 0,0:00:31.59,0:00:36.84,DEFAULT,,0,0,0,,{\kf23}You{\kf30} won't{\kf27} let{\kf15} the{\kf38} dan{\kf45}ger{\kf19} o{\kf19}~{\kf23}ver{\kf60}come{\kf19}~{\kf53} you
-Dialogue: 0,0:00:38.12,0:00:45.09,DEFAULT,,0,0,0,,{\kf42}You{\kf42} know{\kf38} that{\kf45} e{\kf19}very{\kf23}po{\kf49}~{\kf27}ny{\kf64} in{\kf19} this{\kf23} world{\kf38}~{\kf27} still{\kf45} needs{\kf27} you{\kf75}~
-Dialogue: 0,0:00:47.00,0:00:53.27,DEFAULT,,0,0,0,,{\kf45}Da{\kf38}ring{\kf45} Do{\kf23} don't{\kf38} back{\kf45} down{\kf75} or{\kf19} let{\kf53} e{\kf23}vil{\kf19} de{\kf42}feat{\kf79} you
-Dialogue: 0,0:00:54.24,0:00:54.73,DEFAULT,,0,0,0,,{\kf49}Stop
-Dialogue: 0,0:00:55.10,0:00:56.87,DEFAULT,,0,0,0,,{\kf19}Don't{\kf38} turn{\kf30} a{\kf72}round
-Dialogue: 0,0:00:57.09,0:00:59.79,DEFAULT,,0,0,0,,{\kf27}When{\kf27} e{\kf19}very{\kf19}thing{\kf68} falls{\kf34} a{\kf27}part{\kf27}~
-Dialogue: 0,0:00:59.94,0:01:01.89,DEFAULT,,0,0,0,,{\kf23}Just{\kf42} don't{\kf30} back{\kf23} down{\kf30}~
-Dialogue: 0,0:01:02.04,0:01:06.02,DEFAULT,,0,0,0,,{\kf27}Just{\kf57} keep{\kf23} run{\kf27}ning{\kf30}~{\kf27} just{\kf64} look{\kf27} a{\kf53}head
-Dialogue: 0,0:01:06.24,0:01:10.37,DEFAULT,,0,0,0,,{\kf27}You{\kf60} might{\kf49} be{\kf19} lo{\kf27}sing{\kf19} but{\kf42} you're{\kf30} not{\kf23} dead{\kf42}~
-Dialogue: 0,0:01:10.89,0:01:11.49,DEFAULT,,0,0,0,,{\kf27}Hold{\kf27} on
-Dialogue: 0,0:01:11.64,0:01:12.32,DEFAULT,,0,0,0,,{\kf30}Hold{\kf34} fast
-Dialogue: 0,0:01:12.58,0:01:13.67,DEFAULT,,0,0,0,,{\kf23}Keep{\kf34} go{\kf34}ing
-Dialogue: 0,0:01:13.89,0:01:15.65,DEFAULT,,0,0,0,,{\kf15}And{\kf23} ne{\kf19}ver{\kf42} back{\kf49} down
-Dialogue: 0,0:01:32.08,0:01:32.98,DEFAULT,,0,0,0,,{\kf23}Tied{\kf23}~{\kf30} down
-Dialogue: 0,0:01:33.13,0:01:33.99,DEFAULT,,0,0,0,,{\kf23}Look{\kf23} a{\kf30}round
-Dialogue: 0,0:01:34.44,0:01:36.05,DEFAULT,,0,0,0,,{\kf19}Dan{\kf23}ger{\kf27} e{\kf27}very{\kf34}where
-Dialogue: 0,0:01:36.47,0:01:37.14,DEFAULT,,0,0,0,,{\kf27}No{\kf34} one
-Dialogue: 0,0:01:37.52,0:01:38.27,DEFAULT,,0,0,0,,{\kf23}In{\kf19} sight{\kf19}~
-Dialogue: 0,0:01:38.42,0:01:40.44,DEFAULT,,0,0,0,,{\kf15}The{\kf23} smell{\kf19} of{\kf12} ad{\kf15}ven{\kf15}ture{\kf23} in{\kf15} the{\kf12} air{\kf23}~
-Dialogue: 0,0:01:40.78,0:01:44.68,DEFAULT,,0,0,0,,{\kf15}When{\kf15} it{\kf19} seems{\kf19} like{\kf19} your{\kf53} world{\kf23} has{\kf53} turned{\kf23} a{\kf19}round{\kf27}~
-Dialogue: 0,0:01:44.98,0:01:47.00,DEFAULT,,0,0,0,,{\kf19}No{\kf19} one{\kf23}~{\kf23} can{\kf38} stop{\kf30} you
-Dialogue: 0,0:01:47.23,0:01:48.62,DEFAULT,,0,0,0,,{\kf23}So{\kf27} ne{\kf23}ver{\kf19} back{\kf19}~{\kf12} down
-Dialogue: 0,0:01:48.80,0:01:52.74,DEFAULT,,0,0,0,,{\kf27}Obs{\kf27}ta{\kf23}cles{\kf23}~{\kf23} are{\kf23} in{\kf34} front{\kf23} of{\kf23} and{\kf27} be{\kf42}hind{\kf23} you{\kf30}~
-Dialogue: 0,0:01:53.00,0:01:56.90,DEFAULT,,0,0,0,,{\kf23}But{\kf19} this{\kf38} fear{\kf23} deep{\kf19} in{\kf38}side,{\kf19} you{\kf19} know{\kf19} it{\kf42} blinds{\kf23} you{\kf30}~
-Dialogue: 0,0:01:57.09,0:02:01.33,DEFAULT,,0,0,0,,{\kf27}Take{\kf23} a{\kf42} leap{\kf19} and{\kf19} we{\kf34} will{\kf19} catch{\kf23} you{\kf23}~{\kf27} as{\kf30} you{\kf57} fall
-Dialogue: 0,0:02:01.52,0:02:05.38,DEFAULT,,0,0,0,,{\kf23}You{\kf49} know{\kf19} with{\kf19} your{\kf42} cou{\kf15}rage{\kf19} you{\kf23} can{\kf23} o{\kf15}ver{\kf15}come{\kf15} it{\kf19} all{\kf15}~
-Dialogue: 0,0:02:05.64,0:02:05.79,DEFAULT,,0,0,0,,{\kf15}Stop
-Dialogue: 0,0:02:06.02,0:02:07.78,DEFAULT,,0,0,0,,{\kf23}Don't{\kf38} turn{\kf34} a{\kf68}round
-Dialogue: 0,0:02:08.04,0:02:10.70,DEFAULT,,0,0,0,,{\kf27}When{\kf27} e{\kf27}very{\kf23}thing{\kf64} falls{\kf30} a{\kf27}part{\kf23}~
-Dialogue: 0,0:02:11.00,0:02:12.80,DEFAULT,,0,0,0,,{\kf23}Just{\kf38} don't{\kf34} back{\kf27} down{\kf27}~
-Dialogue: 0,0:02:13.10,0:02:17.00,DEFAULT,,0,0,0,,{\kf23}Just{\kf57} keep{\kf30} run{\kf27}ning{\kf23}~{\kf27} just{\kf68} look{\kf27} a{\kf49}head
-Dialogue: 0,0:02:17.27,0:02:21.32,DEFAULT,,0,0,0,,{\kf23}You{\kf68} might{\kf53} be{\kf27} lo{\kf27}sing{\kf19} but{\kf45} you're{\kf42} not{\kf23} dead{\kf42}~
-Dialogue: 0,0:02:21.92,0:02:22.55,DEFAULT,,0,0,0,,{\kf30}Hold{\kf27} on
-Dialogue: 0,0:02:22.67,0:02:23.38,DEFAULT,,0,0,0,,{\kf30}Hold{\kf34} fast
-Dialogue: 0,0:02:23.53,0:02:24.73,DEFAULT,,0,0,0,,{\kf27}Keep{\kf45} go{\kf42}ing
-Dialogue: 0,0:02:24.92,0:02:26.75,DEFAULT,,0,0,0,,{\kf15}And{\kf15} ne{\kf19}ver{\kf45} back{\kf60} down
-Dialogue: 0,0:02:42.84,0:02:44.57,DEFAULT,,0,0,0,,{\kf19}Life{\kf19} can{\kf23} seem{\kf8} like{\kf8} it's{\kf8} a{\kf12} lit{\kf12}tle{\kf15} bit{\kf15} rough
-Dialogue: 0,0:02:44.72,0:02:46.78,DEFAULT,,0,0,0,,{\kf12}But{\kf12} the{\kf15} tough{\kf23} po{\kf23}nies{\kf12} ne{\kf8}ver{\kf15} e{\kf15}ver{\kf23} give{\kf15} up
-Dialogue: 0,0:02:47.08,0:02:48.77,DEFAULT,,0,0,0,,{\kf19}Life{\kf15} can{\kf15} seem{\kf15} like{\kf8} it's{\kf8} a{\kf12} lit{\kf8}tle{\kf15} bit{\kf15} rough
-Dialogue: 0,0:02:48.84,0:02:50.94,DEFAULT,,0,0,0,,{\kf12}But{\kf12} the{\kf19} tough{\kf23} po{\kf19}nies{\kf12} ne{\kf8}ver{\kf15} e{\kf15}ver{\kf23} give{\kf15} up
-Dialogue: 0,0:02:51.13,0:02:52.97,DEFAULT,,0,0,0,,{\kf12}E{\kf27}nough,{\kf8} I{\kf12} would{\kf8}n't{\kf4} be{\kf4} here{\kf8} if{\kf8} I{\kf19} sat{\kf15} and{\kf27} groaned
-Dialogue: 0,0:02:53.15,0:02:54.84,DEFAULT,,0,0,0,,{\kf12}And{\kf12} moaned{\kf12} a{\kf8}bout{\kf12} the{\kf23} times{\kf8} that{\kf12} I've{\kf19} felt{\kf15} a{\kf12}lone
-Dialogue: 0,0:02:54.99,0:02:57.13,DEFAULT,,0,0,0,,{\kf12}I{\kf8} grew{\kf8} a{\kf23} back{\kf27}bone{\kf12} and{\kf8} I{\kf12} told{\kf8} 'em{\kf19} all{\kf27} sup
-Dialogue: 0,0:02:57.24,0:02:59.12,DEFAULT,,0,0,0,,{\kf15}And{\kf12} made{\kf12} a{\kf19} pro{\kf12}mise{\kf8} to{\kf12} ne{\kf12}ver{\kf12} e{\kf12}ver{\kf23} give{\kf12} up
-Dialogue: 0,0:02:59.27,0:03:01.25,DEFAULT,,0,0,0,,{\kf8}I'm{\kf8} a{\kf27} strol{\kf15}ler,{\kf8} I{\kf19} don't{\kf8} need{\kf12} a{\kf12} clo{\kf15}ver{\kf12} for{\kf19} luck
-Dialogue: 0,0:03:01.40,0:03:03.28,DEFAULT,,0,0,0,,{\kf23}High{\kf23} rol{\kf15}ler~,{\kf23} gave{\kf15} A{\kf12}hui{\kf15}zo{\kf12}tl{\kf12} a{\kf15} buck
-Dialogue: 0,0:03:03.43,0:03:05.57,DEFAULT,,0,0,0,,{\kf12}If{\kf12} you{\kf23} stand{\kf23} up{\kf19} life{\kf15} on{\kf8}ly{\kf19} just{\kf19} gets{\kf23} do{\kf15}per
-Dialogue: 0,0:03:05.79,0:03:07.70,DEFAULT,,0,0,0,,{\kf19}Ne{\kf8}ver{\kf19} give{\kf19} up{\kf8} and{\kf12} your{\kf19} cup{\kf19} run{\kf8}neth{\kf30} o{\kf8}ver
-Dialogue: 0,0:03:07.82,0:03:09.69,DEFAULT,,0,0,0,,{\kf12}Not{\kf12} a{\kf15} mo{\kf8}per,{\kf19} so{\kf12}ber{\kf8} when{\kf8} I{\kf15} toss{\kf15} my{\kf30} frown
-Dialogue: 0,0:03:09.77,0:03:11.75,DEFAULT,,0,0,0,,{\kf8}I{\kf12} con{\kf12}ti{\kf12}nued{\kf12} mov{\kf12}ing{\kf12} up,{\kf15} ne{\kf8}ver{\kf19} fal{\kf15}ling{\kf15} back{\kf23} down
-Dialogue: 0,0:03:11.90,0:03:13.63,DEFAULT,,0,0,0,,{\kf8}And{\kf8} a{\kf15}round{\kf15} this{\kf27} time{\kf8} I{\kf15} should{\kf19} say{\kf15} to{\kf12} you
-Dialogue: 0,0:03:13.78,0:03:15.88,DEFAULT,,0,0,0,,{\kf8}That{\kf8} you{\kf12} should{\kf15} fol{\kf8}low{\kf8} the{\kf19} life{\kf27}style{\kf12} of{\kf23} Da{\kf12}ring{\kf30} Do
-Dialogue: 0,0:03:16.10,0:03:17.98,DEFAULT,,0,0,0,,{\kf8}I{\kf12} used{\kf15} to{\kf23} be{\kf12} just{\kf12} de{\kf23}pressed{\kf15} and{\kf23} messed
-Dialogue: 0,0:03:18.20,0:03:20.08,DEFAULT,,0,0,0,,{\kf19}Ex{\kf15}pressed{\kf8} to{\kf19} im{\kf23}press{\kf12} like{\kf8} a{\kf19} dang{\kf27} con{\kf19}test
-Dialogue: 0,0:03:20.19,0:03:22.33,DEFAULT,,0,0,0,,{\kf23}Bang{\kf27} bang,{\kf8} I{\kf12} just{\kf19} rapped{\kf8} a{\kf12} cou{\kf8}ple{\kf8} of{\kf15} au{\kf15}di{\kf19}bles
-Dialogue: 0,0:03:22.48,0:03:24.73,DEFAULT,,0,0,0,,{\kf15}Trust{\kf8} me{\kf8} when{\kf8} I{\kf23} say{\kf12} no{\kf12}thing{\kf30} is{\kf19} im{\kf19}pos{\kf19}si{\kf30}ble
-Dialogue: 0,0:03:25.55,0:03:28.25,DEFAULT,,0,0,0,,{\kf19}Wait{\kf19} where'd{\kf12} the{\kf19} beat{\kf30} go...{\kf23} ah,{\kf27} oh{\kf27} snap
-Dialogue: 0,0:03:28.70,0:03:29.23,DEFAULT,,0,0,0,,{\kf53}Stop
-Dialogue: 0,0:03:29.53,0:03:31.33,DEFAULT,,0,0,0,,{\kf23}Don't{\kf42} turn{\kf30} a{\kf72}round
-Dialogue: 0,0:03:31.48,0:03:34.33,DEFAULT,,0,0,0,,{\kf27}When{\kf27} e{\kf27}very{\kf27}thing{\kf68} falls{\kf34} a{\kf27}part{\kf38}~
-Dialogue: 0,0:03:34.48,0:03:36.43,DEFAULT,,0,0,0,,{\kf23}Just{\kf38} don't{\kf34} back{\kf27} down{\kf42}~
-Dialogue: 0,0:03:36.58,0:03:40.44,DEFAULT,,0,0,0,,{\kf23}Just{\kf64} keep{\kf27} run{\kf23}ning{\kf30}~{\kf23} just{\kf64} look{\kf27} a{\kf45}head
-Dialogue: 0,0:03:40.70,0:03:44.79,DEFAULT,,0,0,0,,{\kf27}You{\kf60} might{\kf42} be{\kf23} lo{\kf23}sing{\kf19} but{\kf49} you're{\kf38} not{\kf23} dead{\kf42}~
-Dialogue: 0,0:03:45.39,0:03:45.92,DEFAULT,,0,0,0,,{\kf23}Hold{\kf23} on
-Dialogue: 0,0:03:46.10,0:03:46.82,DEFAULT,,0,0,0,,{\kf27}Hold{\kf38} fast
-Dialogue: 0,0:03:47.00,0:03:48.20,DEFAULT,,0,0,0,,{\kf27}Keep{\kf42} go{\kf45}ing
-Dialogue: 0,0:03:48.35,0:03:50.04,DEFAULT,,0,0,0,,{\kf19}And{\kf19} ne{\kf19}ver{\kf42} back{\kf42} down
-Dialogue: 0,0:03:50.23,0:03:51.35,DEFAULT,,0,0,0,,{\kf12}...{\kf8} like{\kf8} it's{\kf8} a{\kf12} lit{\kf8}tle{\kf15} bit{\kf19} rough
-Dialogue: 0,0:03:51.50,0:03:53.72,DEFAULT,,0,0,0,,{\kf8}But{\kf8} the{\kf23} tough{\kf23} po{\kf19}nies{\kf15} ne{\kf12}ver{\kf12} e{\kf15}ver{\kf23} give{\kf12} up,{\kf12} I{\kf8} said
-Dialogue: 0,0:03:53.83,0:03:55.52,DEFAULT,,0,0,0,,{\kf19}Life{\kf19} can{\kf23} seem{\kf12} like{\kf8} it's{\kf8} a{\kf12} lit{\kf8}tle{\kf15} bit{\kf15} rough
-Dialogue: 0,0:03:55.67,0:03:57.69,DEFAULT,,0,0,0,,{\kf8}But{\kf8} the{\kf23} tough{\kf23} po{\kf23}nies{\kf12} ne{\kf8}ver{\kf15} e{\kf15}ver{\kf23} give{\kf19} up
-Dialogue: 0,0:03:58.03,0:03:59.64,DEFAULT,,0,0,0,,{\kf19}Life{\kf15} can{\kf19} seem{\kf12} like{\kf8} it's{\kf8} a{\kf12} lit{\kf8}tle{\kf15} bit{\kf15} rough
-Dialogue: 0,0:03:59.79,0:04:01.82,DEFAULT,,0,0,0,,{\kf8}But{\kf8} the{\kf23} tough{\kf23} po{\kf23}nies{\kf12} ne{\kf8}ver{\kf15} e{\kf15}ver{\kf23} give{\kf19} up
-Dialogue: 0,0:04:02.19,0:04:03.84,DEFAULT,,0,0,0,,{\kf19}Life{\kf19} can{\kf19} seem{\kf12} like{\kf8} it's{\kf8} a{\kf12} lit{\kf12}tle{\kf15} bit{\kf15} rough
-Dialogue: 0,0:04:03.95,0:04:06.62,DEFAULT,,0,0,0,,{\kf12}But{\kf8} the{\kf23} tough{\kf23} po{\kf23}nies{\kf12} ne{\kf8}ver{\kf15} e{\kf12}ver{\kf27} give{\kf30} up
+Dialogue: 0,0:00:21.13,0:00:22.00,DEFAULT,,0,0,0,,{\r}{\kf23}Don't{\kf32} look{\kf31} back
+Dialogue: 0,0:00:22.18,0:00:23.05,DEFAULT,,0,0,0,,{\r}{\kf27}It's{\kf27} too{\kf32} late
+Dialogue: 0,0:00:23.53,0:00:25.30,DEFAULT,,0,0,0,,{\r}{\kf22}To{\kf48} turn{\kf48} back{\kf58} now
+Dialogue: 0,0:00:25.63,0:00:26.27,DEFAULT,,0,0,0,,{\r}{\kf26}Push{\kf38} through
+Dialogue: 0,0:00:26.42,0:00:27.32,DEFAULT,,0,0,0,,{\r}{\kf21}Da{\kf26}ring{\kf26} do{\kf17}~
+Dialogue: 0,0:00:27.47,0:00:29.50,DEFAULT,,0,0,0,,{\r}{\kf23}You're{\kf28} gon{\kf23}na{\kf28} make{\kf41} it{\kf28} out{\kf31}~
+Dialogue: 0,0:00:29.76,0:00:30.32,DEFAULT,,0,0,0,,{\r}{\kf20}A{\kf36}live
+Dialogue: 0,0:00:30.77,0:00:31.37,DEFAULT,,0,0,0,,{\r}{\kf21}This{\kf39} time
+Dialogue: 0,0:00:31.60,0:00:36.85,DEFAULT,,0,0,0,,{\r}{\kf32}You{\kf43} won't{\kf38} let{\kf21} the{\kf54} dan{\kf64}ger{\kf27} o{\kf27}~{\kf32}ver{\kf86}come{\kf27}~{\kf74} you
+Dialogue: 0,0:00:38.12,0:00:45.10,DEFAULT,,0,0,0,,{\r}{\kf48}You{\kf48} know{\kf44} that{\kf53} e{\kf22}very{\kf26}po{\kf57}~{\kf31}ny{\kf75} in{\kf22} this{\kf26} world{\kf44}~{\kf31} still{\kf53} needs{\kf31} you{\kf87}~
+Dialogue: 0,0:00:47.01,0:00:53.27,DEFAULT,,0,0,0,,{\r}{\kf52}Da{\kf43}ring{\kf52} Do{\kf26} don't{\kf43} back{\kf52} down{\kf87} or{\kf22} let{\kf61} e{\kf26}vil{\kf22} de{\kf48}feat{\kf92} you
+Dialogue: 0,0:00:54.25,0:00:54.73,DEFAULT,,0,0,0,,{\r}{\kf49}Stop
+Dialogue: 0,0:00:55.11,0:00:56.87,DEFAULT,,0,0,0,,{\r}{\kf21}Don't{\kf42} turn{\kf34} a{\kf79}round
+Dialogue: 0,0:00:57.10,0:00:59.80,DEFAULT,,0,0,0,,{\r}{\kf29}When{\kf29} e{\kf21}very{\kf21}thing{\kf75} falls{\kf37} a{\kf29}part{\kf29}~
+Dialogue: 0,0:00:59.95,0:01:01.90,DEFAULT,,0,0,0,,{\r}{\kf30}Just{\kf55} don't{\kf40} back{\kf30} down{\kf40}~
+Dialogue: 0,0:01:02.05,0:01:06.02,DEFAULT,,0,0,0,,{\r}{\kf32}Just{\kf68} keep{\kf27} run{\kf32}ning{\kf36}~{\kf32} just{\kf77} look{\kf32} a{\kf62}head
+Dialogue: 0,0:01:06.25,0:01:10.37,DEFAULT,,0,0,0,,{\r}{\kf32}You{\kf74} might{\kf60} be{\kf23} lo{\kf32}sing{\kf23} but{\kf51} you're{\kf37} not{\kf28} dead{\kf52}~
+Dialogue: 0,0:01:10.90,0:01:11.50,DEFAULT,,0,0,0,,{\r}{\kf30}Hold{\kf30} on
+Dialogue: 0,0:01:11.65,0:01:12.32,DEFAULT,,0,0,0,,{\r}{\kf32}Hold{\kf36} fast
+Dialogue: 0,0:01:12.58,0:01:13.67,DEFAULT,,0,0,0,,{\r}{\kf27}Keep{\kf41} go{\kf41}ing
+Dialogue: 0,0:01:13.90,0:01:15.66,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf27} ne{\kf23}ver{\kf50} back{\kf58} down
+Dialogue: 0,0:01:32.08,0:01:32.98,DEFAULT,,0,0,0,,{\r}{\kf27}Tied{\kf27}~{\kf36} down
+Dialogue: 0,0:01:33.13,0:01:34.00,DEFAULT,,0,0,0,,{\r}{\kf26}Look{\kf26} a{\kf34}round
+Dialogue: 0,0:01:34.45,0:01:36.06,DEFAULT,,0,0,0,,{\r}{\kf24}Dan{\kf28}ger{\kf33} e{\kf33}very{\kf43}where
+Dialogue: 0,0:01:36.47,0:01:37.15,DEFAULT,,0,0,0,,{\r}{\kf30}No{\kf38} one
+Dialogue: 0,0:01:37.52,0:01:38.27,DEFAULT,,0,0,0,,{\r}{\kf28}In{\kf23} sight{\kf24}~
+Dialogue: 0,0:01:38.42,0:01:40.45,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf27} smell{\kf22} of{\kf13} ad{\kf18}ven{\kf18}ture{\kf27} in{\kf18} the{\kf13} air{\kf28}~
+Dialogue: 0,0:01:40.78,0:01:44.68,DEFAULT,,0,0,0,,{\r}{\kf21}When{\kf21} it{\kf26} seems{\kf26} like{\kf26} your{\kf73} world{\kf31} has{\kf73} turned{\kf31} a{\kf26}round{\kf36}~
+Dialogue: 0,0:01:44.98,0:01:47.01,DEFAULT,,0,0,0,,{\r}{\kf25}No{\kf25} one{\kf30}~{\kf30} can{\kf50} stop{\kf42} you
+Dialogue: 0,0:01:47.23,0:01:48.62,DEFAULT,,0,0,0,,{\r}{\kf26}So{\kf30} ne{\kf26}ver{\kf22} back{\kf22}~{\kf13} down
+Dialogue: 0,0:01:48.81,0:01:52.75,DEFAULT,,0,0,0,,{\r}{\kf30}Obs{\kf30}ta{\kf26}cles{\kf26}~{\kf26} are{\kf26} in{\kf39} front{\kf26} of{\kf26} and{\kf30} be{\kf48}hind{\kf26} you{\kf35}~
+Dialogue: 0,0:01:53.01,0:01:56.91,DEFAULT,,0,0,0,,{\r}{\kf29}But{\kf24} this{\kf48} fear{\kf29} deep{\kf24} in{\kf48}side,{\kf24} you{\kf24} know{\kf24} it{\kf52} blinds{\kf29} you{\kf35}~
+Dialogue: 0,0:01:57.10,0:02:01.33,DEFAULT,,0,0,0,,{\r}{\kf33}Take{\kf28} a{\kf52} leap{\kf24} and{\kf24} we{\kf42} will{\kf24} catch{\kf28} you{\kf28}~{\kf33} as{\kf38} you{\kf70} fall
+Dialogue: 0,0:02:01.52,0:02:05.38,DEFAULT,,0,0,0,,{\r}{\kf28}You{\kf61} know{\kf24} with{\kf24} your{\kf52} cou{\kf19}rage{\kf24} you{\kf28} can{\kf28} o{\kf19}ver{\kf19}come{\kf19} it{\kf24} all{\kf17}~
+Dialogue: 0,0:02:05.65,0:02:05.80,DEFAULT,,0,0,0,,{\r}{\kf15}Stop
+Dialogue: 0,0:02:06.02,0:02:07.78,DEFAULT,,0,0,0,,{\r}{\kf25}Don't{\kf41} turn{\kf37} a{\kf73}round
+Dialogue: 0,0:02:08.05,0:02:10.71,DEFAULT,,0,0,0,,{\r}{\kf29}When{\kf29} e{\kf29}very{\kf25}thing{\kf70} falls{\kf33} a{\kf29}part{\kf22}~
+Dialogue: 0,0:02:11.01,0:02:12.81,DEFAULT,,0,0,0,,{\r}{\kf28}Just{\kf46} don't{\kf42} back{\kf32} down{\kf32}~
+Dialogue: 0,0:02:13.11,0:02:17.01,DEFAULT,,0,0,0,,{\r}{\kf27}Just{\kf67} keep{\kf36} run{\kf31}ning{\kf27}~{\kf31} just{\kf81} look{\kf31} a{\kf59}head
+Dialogue: 0,0:02:17.27,0:02:21.32,DEFAULT,,0,0,0,,{\r}{\kf25}You{\kf75} might{\kf58} be{\kf29} lo{\kf29}sing{\kf21} but{\kf50} you're{\kf46} not{\kf25} dead{\kf47}~
+Dialogue: 0,0:02:21.92,0:02:22.56,DEFAULT,,0,0,0,,{\r}{\kf34}Hold{\kf30} on
+Dialogue: 0,0:02:22.67,0:02:23.38,DEFAULT,,0,0,0,,{\r}{\kf33}Hold{\kf38} fast
+Dialogue: 0,0:02:23.53,0:02:24.73,DEFAULT,,0,0,0,,{\r}{\kf28}Keep{\kf48} go{\kf44}ing
+Dialogue: 0,0:02:24.92,0:02:26.76,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf18} ne{\kf22}ver{\kf54} back{\kf72} down
+Dialogue: 0,0:02:42.85,0:02:44.57,DEFAULT,,0,0,0,,{\r}{\kf24}Life{\kf24} can{\kf29} seem{\kf10} like{\kf10} it's{\kf10} a{\kf14} lit{\kf14}tle{\kf19} bit{\kf18} rough
+Dialogue: 0,0:02:44.72,0:02:46.78,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf14} the{\kf18} tough{\kf27} po{\kf27}nies{\kf14} ne{\kf10}ver{\kf18} e{\kf18}ver{\kf27} give{\kf19} up
+Dialogue: 0,0:02:47.08,0:02:48.77,DEFAULT,,0,0,0,,{\r}{\kf25}Life{\kf20} can{\kf20} seem{\kf20} like{\kf10} it's{\kf10} a{\kf15} lit{\kf10}tle{\kf20} bit{\kf19} rough
+Dialogue: 0,0:02:48.85,0:02:50.95,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf14} the{\kf23} tough{\kf28} po{\kf23}nies{\kf14} ne{\kf10}ver{\kf19} e{\kf19}ver{\kf28} give{\kf18} up
+Dialogue: 0,0:02:51.13,0:02:52.97,DEFAULT,,0,0,0,,{\r}{\kf14}E{\kf33}nough,{\kf10} I{\kf14} would{\kf10}n't{\kf10} be{\kf10} here{\kf10} if{\kf10} I{\kf24} sat{\kf19} and{\kf20} groaned
+Dialogue: 0,0:02:53.16,0:02:54.85,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf14} moaned{\kf14} a{\kf10}bout{\kf14} the{\kf27} times{\kf10} that{\kf14} I've{\kf23} felt{\kf18} a{\kf11}lone
+Dialogue: 0,0:02:55.00,0:02:57.13,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf10} grew{\kf10} a{\kf31} back{\kf36}bone{\kf15} and{\kf10} I{\kf15} told{\kf10} 'em{\kf25} all{\kf37} sup
+Dialogue: 0,0:02:57.25,0:02:59.12,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf14} made{\kf14} a{\kf23} pro{\kf14}mise{\kf10} to{\kf14} ne{\kf14}ver{\kf14} e{\kf14}ver{\kf28} give{\kf11} up
+Dialogue: 0,0:02:59.27,0:03:01.26,DEFAULT,,0,0,0,,{\r}{\kf10}I'm{\kf10} a{\kf33} strol{\kf19}ler,{\kf10} I{\kf24} don't{\kf10} need{\kf14} a{\kf14} clo{\kf19}ver{\kf14} for{\kf22} luck
+Dialogue: 0,0:03:01.41,0:03:03.28,DEFAULT,,0,0,0,,{\r}{\kf26}High{\kf26} rol{\kf17}ler~,{\kf26} gave{\kf17} A{\kf13}hui{\kf17}zo{\kf13}tl{\kf13} a{\kf20} buck
+Dialogue: 0,0:03:03.43,0:03:05.57,DEFAULT,,0,0,0,,{\r}{\kf13}If{\kf13} you{\kf26} stand{\kf26} up{\kf22} life{\kf17} on{\kf10}ly{\kf22} just{\kf22} gets{\kf26} do{\kf17}per
+Dialogue: 0,0:03:05.80,0:03:07.71,DEFAULT,,0,0,0,,{\r}{\kf22}Ne{\kf10}ver{\kf22} give{\kf22} up{\kf10} and{\kf13} your{\kf22} cup{\kf22} run{\kf10}neth{\kf35} o{\kf10}ver
+Dialogue: 0,0:03:07.82,0:03:09.70,DEFAULT,,0,0,0,,{\r}{\kf14}Not{\kf14} a{\kf19} mo{\kf10}per,{\kf24} so{\kf14}ber{\kf10} when{\kf10} I{\kf19} toss{\kf19} my{\kf35} frown
+Dialogue: 0,0:03:09.77,0:03:11.76,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf13} con{\kf13}ti{\kf13}nued{\kf13} mov{\kf13}ing{\kf13} up,{\kf18} ne{\kf10}ver{\kf22} fal{\kf18}ling{\kf18} back{\kf25} down
+Dialogue: 0,0:03:11.91,0:03:13.63,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf10} a{\kf19}round{\kf19} this{\kf33} time{\kf10} I{\kf19} should{\kf23} say{\kf19} to{\kf11} you
+Dialogue: 0,0:03:13.78,0:03:15.88,DEFAULT,,0,0,0,,{\r}{\kf10}That{\kf10} you{\kf13} should{\kf18} fol{\kf10}low{\kf10} the{\kf22} life{\kf31}style{\kf13} of{\kf27} Da{\kf13}ring{\kf33} Do
+Dialogue: 0,0:03:16.11,0:03:17.98,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf15} used{\kf20} to{\kf30} be{\kf15} just{\kf15} de{\kf30}pressed{\kf20} and{\kf33} messed
+Dialogue: 0,0:03:18.21,0:03:20.08,DEFAULT,,0,0,0,,{\r}{\kf21}Ex{\kf17}pressed{\kf10} to{\kf21} im{\kf26}press{\kf13} like{\kf10} a{\kf21} dang{\kf30} con{\kf19}test
+Dialogue: 0,0:03:20.20,0:03:22.33,DEFAULT,,0,0,0,,{\r}{\kf29}Bang{\kf33} bang,{\kf10} I{\kf14} just{\kf24} rapped{\kf10} a{\kf14} cou{\kf10}ple{\kf10} of{\kf19} au{\kf19}di{\kf22}bles
+Dialogue: 0,0:03:22.48,0:03:24.73,DEFAULT,,0,0,0,,{\r}{\kf17}Trust{\kf10} me{\kf10} when{\kf10} I{\kf25} say{\kf13} no{\kf13}thing{\kf34} is{\kf21} im{\kf21}pos{\kf21}si{\kf30}ble
+Dialogue: 0,0:03:25.56,0:03:28.26,DEFAULT,,0,0,0,,{\r}{\kf29}Wait{\kf29} where'd{\kf18} the{\kf29} beat{\kf47} go...{\kf35} ah,{\kf41} oh{\kf42} snap
+Dialogue: 0,0:03:28.71,0:03:29.23,DEFAULT,,0,0,0,,{\r}{\kf53}Stop
+Dialogue: 0,0:03:29.53,0:03:31.33,DEFAULT,,0,0,0,,{\r}{\kf25}Don't{\kf45} turn{\kf33} a{\kf77}round
+Dialogue: 0,0:03:31.48,0:03:34.33,DEFAULT,,0,0,0,,{\r}{\kf28}When{\kf28} e{\kf28}very{\kf28}thing{\kf71} falls{\kf36} a{\kf28}part{\kf38}~
+Dialogue: 0,0:03:34.48,0:03:36.43,DEFAULT,,0,0,0,,{\r}{\kf27}Just{\kf45} don't{\kf41} back{\kf32} down{\kf50}~
+Dialogue: 0,0:03:36.58,0:03:40.45,DEFAULT,,0,0,0,,{\r}{\kf27}Just{\kf76} keep{\kf31} run{\kf27}ning{\kf36}~{\kf27} just{\kf76} look{\kf31} a{\kf55}head
+Dialogue: 0,0:03:40.71,0:03:44.80,DEFAULT,,0,0,0,,{\r}{\kf31}You{\kf72} might{\kf49} be{\kf27} lo{\kf27}sing{\kf22} but{\kf58} you're{\kf45} not{\kf27} dead{\kf51}~
+Dialogue: 0,0:03:45.40,0:03:45.92,DEFAULT,,0,0,0,,{\r}{\kf26}Hold{\kf26} on
+Dialogue: 0,0:03:46.11,0:03:46.82,DEFAULT,,0,0,0,,{\r}{\kf29}Hold{\kf42} fast
+Dialogue: 0,0:03:47.01,0:03:48.21,DEFAULT,,0,0,0,,{\r}{\kf28}Keep{\kf44} go{\kf48}ing
+Dialogue: 0,0:03:48.36,0:03:50.05,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf23} ne{\kf23}ver{\kf50} back{\kf50} down
+Dialogue: 0,0:03:50.23,0:03:51.36,DEFAULT,,0,0,0,,{\r}{\kf15}...{\kf10} like{\kf10} it's{\kf10} a{\kf15} lit{\kf10}tle{\kf19} bit{\kf23} rough
+Dialogue: 0,0:03:51.51,0:03:53.72,DEFAULT,,0,0,0,,{\r}{\kf10}But{\kf10} the{\kf27} tough{\kf27} po{\kf23}nies{\kf18} ne{\kf14}ver{\kf14} e{\kf18}ver{\kf27} give{\kf14} up,{\kf14} I{\kf10} said
+Dialogue: 0,0:03:53.83,0:03:55.52,DEFAULT,,0,0,0,,{\r}{\kf23}Life{\kf23} can{\kf28} seem{\kf14} like{\kf10} it's{\kf10} a{\kf14} lit{\kf10}tle{\kf19} bit{\kf18} rough
+Dialogue: 0,0:03:55.67,0:03:57.70,DEFAULT,,0,0,0,,{\r}{\kf10}But{\kf10} the{\kf26} tough{\kf26} po{\kf26}nies{\kf13} ne{\kf10}ver{\kf18} e{\kf18}ver{\kf26} give{\kf20} up
+Dialogue: 0,0:03:58.03,0:03:59.65,DEFAULT,,0,0,0,,{\r}{\kf24}Life{\kf19} can{\kf24} seem{\kf14} like{\kf10} it's{\kf10} a{\kf14} lit{\kf10}tle{\kf19} bit{\kf17} rough
+Dialogue: 0,0:03:59.80,0:04:01.82,DEFAULT,,0,0,0,,{\r}{\kf10}But{\kf10} the{\kf26} tough{\kf26} po{\kf26}nies{\kf13} ne{\kf10}ver{\kf18} e{\kf18}ver{\kf26} give{\kf20} up
+Dialogue: 0,0:04:02.20,0:04:03.85,DEFAULT,,0,0,0,,{\r}{\kf23}Life{\kf23} can{\kf23} seem{\kf14} like{\kf10} it's{\kf10} a{\kf14} lit{\kf14}tle{\kf18} bit{\kf16} rough
+Dialogue: 0,0:04:03.96,0:04:06.62,DEFAULT,,0,0,0,,{\r}{\kf16}But{\kf11} the{\kf32} tough{\kf32} po{\kf32}nies{\kf16} ne{\kf11}ver{\kf21} e{\kf16}ver{\kf37} give{\kf42} up

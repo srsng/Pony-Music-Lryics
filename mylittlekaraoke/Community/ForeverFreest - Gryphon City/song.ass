@@ -1,59 +1,66 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Gryphon City
+Artist: ForeverFreest feat. TreblemakerTunes & Acouste Wholenote
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:26.05,0:00:28.69,DEFAULT,,0,0,0,,{\kf21}I've{\kf26} been{\kf31} try{\kf16}ing{\kf26} to{\kf31} tell{\kf66} ya
-Dialogue: 0,0:00:29.24,0:00:32.04,DEFAULT,,0,0,0,,{\kf21}Why{\kf31} I{\kf41} am{\kf26} the{\kf21} way{\kf26} I{\kf56} am
-Dialogue: 0,0:00:32.44,0:00:35.13,DEFAULT,,0,0,0,,{\kf26}See{\kf26} I'm{\kf41} not{\kf31} like{\kf36} you{\kf61} no
-Dialogue: 0,0:00:35.69,0:00:38.23,DEFAULT,,0,0,0,,{\kf26}Some{\kf31}thing{\kf36} you{\kf36} must{\kf21} un{\kf31}der{\kf21}stand
-Dialogue: 0,0:00:38.58,0:00:41.53,DEFAULT,,0,0,0,,{\kf16}See{\kf16} I{\kf26} come{\kf16} from{\kf16} a{\kf26} place{\kf16} where{\kf16} we{\kf21} must{\kf26} em{\kf31}brace
-Dialogue: 0,0:00:42.03,0:00:44.72,DEFAULT,,0,0,0,,{\kf11}The{\kf21} mad{\kf31}ness{\kf26} that{\kf26} we{\kf36} own{\kf72}~
-Dialogue: 0,0:00:45.08,0:00:47.97,DEFAULT,,0,0,0,,{\kf16}And{\kf16} I{\kf16} try{\kf16} to{\kf16} be{\kf36} good{\kf26} but{\kf16} the{\kf21} neigh{\kf26}bor{\kf21}hood
-Dialogue: 0,0:00:48.17,0:00:53.45,DEFAULT,,0,0,0,,{\kf36}Just{\kf21} ain't{\kf26} too{\kf31} much{\kf26} like{\kf234} home{\kf66}~{\kf16}~
-Dialogue: 0,0:00:54.82,0:00:58.07,DEFAULT,,0,0,0,,{\kf16}In{\kf16} the{\kf31} Gry{\kf26}phon{\kf16} Ci{\kf21}ty{\kf36} no{\kf16} it{\kf21} ain't{\kf21} pret{\kf21}ty
-Dialogue: 0,0:00:58.43,0:01:01.12,DEFAULT,,0,0,0,,{\kf21}No{\kf16}bo{\kf16}dy{\kf26} said{\kf16} it{\kf16} was{\kf26} supposed{\kf21} to{\kf41} be
-Dialogue: 0,0:01:01.47,0:01:04.62,DEFAULT,,0,0,0,,{\kf16}We're{\kf26} all{\kf31} con{\kf16}cei{\kf16}ted{\kf16} and{\kf31} e{\kf16}very{\kf21}one's{\kf16} a{\kf16} chea{\kf26}ter
-Dialogue: 0,0:01:04.92,0:01:09.04,DEFAULT,,0,0,0,,{\kf16}Call{\kf16} it{\kf16} a{\kf36} na{\kf16}tu{\kf16}ral{\kf16} a{\kf21}bi{\kf31}li{\kf31}ty{\kf148}~
-Dialogue: 0,0:01:11.07,0:01:14.26,DEFAULT,,0,0,0,,{\kf16}In{\kf16} the{\kf26} Gry{\kf21}phon{\kf16} Ci{\kf36}ty,{\kf31} Gry{\kf36}phon{\kf16} Ci{\kf26}ty
-Dialogue: 0,0:01:14.62,0:01:17.51,DEFAULT,,0,0,0,,{\kf26}Gry{\kf26}phon{\kf16} Ci{\kf31}ty,{\kf31} Gry{\kf36}phon{\kf21} Ci{\kf21}ty
-Dialogue: 0,0:01:17.87,0:01:20.76,DEFAULT,,0,0,0,,{\kf26}Gry{\kf26}phon{\kf16} Ci{\kf31}ty,{\kf31} Gry{\kf36}phon{\kf21} Ci{\kf21}ty
-Dialogue: 0,0:01:21.11,0:01:26.04,DEFAULT,,0,0,0,,{\kf26}Gry{\kf26}phon{\kf16} Ci{\kf31}ty,{\kf31} Gry{\kf36}phon{\kf16} Ci{\kf229}ty
-Dialogue: 0,0:01:40.55,0:01:43.14,DEFAULT,,0,0,0,,{\kf26}Fai{\kf36}lure{\kf41} af{\kf36}ter{\kf31} fai{\kf51}lure
-Dialogue: 0,0:01:43.85,0:01:46.64,DEFAULT,,0,0,0,,{\kf26}Far{\kf21} a{\kf36}way{\kf31} from{\kf16} what{\kf31} I{\kf56} know
-Dialogue: 0,0:01:47.10,0:01:49.54,DEFAULT,,0,0,0,,{\kf31}Rules{\kf16} and{\kf51} re{\kf21}gu{\kf26}la{\kf61}tions
-Dialogue: 0,0:01:50.35,0:01:52.94,DEFAULT,,0,0,0,,{\kf16}Plan{\kf31}ted{\kf41} with{\kf31} no{\kf31} room{\kf16} to{\kf36} grow
-Dialogue: 0,0:01:53.19,0:01:56.29,DEFAULT,,0,0,0,,{\kf16}See{\kf16} there{\kf31} comes{\kf16} a{\kf26} time{\kf26} when{\kf16} it{\kf31} seems{\kf16} a{\kf46} crime
-Dialogue: 0,0:01:56.64,0:01:59.43,DEFAULT,,0,0,0,,{\kf16}To{\kf16} live{\kf26} in{\kf31} har{\kf21}mo{\kf16}~{\kf26}ny{\kf87}~
-Dialogue: 0,0:01:59.69,0:02:02.48,DEFAULT,,0,0,0,,{\kf16}And{\kf16} I{\kf16} try{\kf16} to{\kf16} be{\kf31} good{\kf26} but{\kf16} the{\kf16} neigh{\kf36}bor{\kf16}hood
-Dialogue: 0,0:02:02.73,0:02:07.25,DEFAULT,,0,0,0,,{\kf31}Just{\kf31} ain't{\kf16} the{\kf31} place{\kf21} for{\kf26} me{\kf168}~{\kf46}~
-Dialogue: 0,0:02:09.38,0:02:12.63,DEFAULT,,0,0,0,,{\kf16}In{\kf16} the{\kf31} Gry{\kf26}phon{\kf16} Ci{\kf21}ty{\kf36} no{\kf16} it{\kf21} ain't{\kf21} pret{\kf21}ty
-Dialogue: 0,0:02:12.99,0:02:15.68,DEFAULT,,0,0,0,,{\kf21}No{\kf16}bo{\kf16}dy{\kf26} said{\kf16} it{\kf16} was{\kf26} supposed{\kf21} to{\kf41} be
-Dialogue: 0,0:02:16.03,0:02:19.18,DEFAULT,,0,0,0,,{\kf16}We're{\kf26} all{\kf31} con{\kf16}cei{\kf16}ted{\kf16} and{\kf31} e{\kf16}very{\kf21}one's{\kf16} a{\kf16} chea{\kf26}ter
-Dialogue: 0,0:02:19.48,0:02:23.59,DEFAULT,,0,0,0,,{\kf16}Call{\kf16} it{\kf16} a{\kf36} na{\kf16}tu{\kf16}ral{\kf16} a{\kf21}bi{\kf31}li{\kf31}ty{\kf148}~
-Dialogue: 0,0:02:25.62,0:02:28.82,DEFAULT,,0,0,0,,{\kf16}In{\kf16} the{\kf26} Gry{\kf21}phon{\kf16} Ci{\kf36}ty,{\kf31} Gry{\kf36}phon{\kf16} Ci{\kf26}ty
-Dialogue: 0,0:02:29.18,0:02:32.07,DEFAULT,,0,0,0,,{\kf26}Gry{\kf26}phon{\kf16} Ci{\kf31}ty,{\kf31} Gry{\kf36}phon{\kf21} Ci{\kf21}ty
-Dialogue: 0,0:02:32.42,0:02:35.32,DEFAULT,,0,0,0,,{\kf26}Gry{\kf26}phon{\kf16} Ci{\kf31}ty,{\kf31} Gry{\kf36}phon{\kf21} Ci{\kf21}ty
-Dialogue: 0,0:02:35.67,0:02:40.60,DEFAULT,,0,0,0,,{\kf26}Gry{\kf26}phon{\kf16} Ci{\kf31}ty,{\kf31} Gry{\kf36}phon{\kf16} Ci{\kf224}ty
-Dialogue: 0,0:02:42.32,0:02:44.91,DEFAULT,,0,0,0,,{\kf16}Po{\kf31}ny{\kf41}ville{\kf31} is{\kf31} nice{\kf16} for{\kf41} most
-Dialogue: 0,0:02:45.32,0:02:48.46,DEFAULT,,0,0,0,,{\kf11}But{\kf21} it{\kf31} seems{\kf31} kind{\kf31} of{\kf21} co{\kf31}ma{\kf77}tose
-Dialogue: 0,0:02:48.77,0:02:51.36,DEFAULT,,0,0,0,,{\kf11}Why{\kf31} don't{\kf46} you{\kf26} wake{\kf31} up{\kf16} and{\kf41} see
-Dialogue: 0,0:02:51.61,0:02:56.13,DEFAULT,,0,0,0,,{\kf21}It's{\kf26} just{\kf26} the{\kf26} way{\kf26} I{\kf41} am{\kf219}~?
-Dialogue: 0,0:02:58.01,0:03:01.25,DEFAULT,,0,0,0,,{\kf16}In{\kf16} the{\kf31} Gry{\kf26}phon{\kf16} Ci{\kf21}ty{\kf36} no{\kf16} it{\kf21} ain't{\kf21} pret{\kf21}ty
-Dialogue: 0,0:03:01.61,0:03:04.30,DEFAULT,,0,0,0,,{\kf21}No{\kf16}bo{\kf16}dy{\kf26} said{\kf16} it{\kf16} was{\kf26} supposed{\kf21} to{\kf41} be
-Dialogue: 0,0:03:04.81,0:03:07.80,DEFAULT,,0,0,0,,{\kf11}We're{\kf16} all{\kf31} con{\kf16}cei{\kf16}ted{\kf16} and{\kf31} e{\kf16}very{\kf21}one's{\kf16} a{\kf16} chea{\kf26}ter
-Dialogue: 0,0:03:08.11,0:03:12.22,DEFAULT,,0,0,0,,{\kf16}Call{\kf16} it{\kf16} a{\kf36} na{\kf16}tu{\kf16}ral{\kf16} a{\kf21}bi{\kf31}li{\kf31}ty{\kf148}~
-Dialogue: 0,0:03:14.25,0:03:17.44,DEFAULT,,0,0,0,,{\kf16}In{\kf16} the{\kf26} Gry{\kf21}phon{\kf16} Ci{\kf36}ty,{\kf31} Gry{\kf36}phon{\kf16} Ci{\kf26}ty
-Dialogue: 0,0:03:17.80,0:03:20.69,DEFAULT,,0,0,0,,{\kf26}Gry{\kf26}phon{\kf16} Ci{\kf31}ty,{\kf31} Gry{\kf36}phon{\kf21} Ci{\kf21}ty
-Dialogue: 0,0:03:21.05,0:03:23.94,DEFAULT,,0,0,0,,{\kf26}Gry{\kf26}phon{\kf16} Ci{\kf31}ty,{\kf31} Gry{\kf36}phon{\kf21} Ci{\kf21}ty
-Dialogue: 0,0:03:24.30,0:03:29.22,DEFAULT,,0,0,0,,{\kf26}Gry{\kf26}phon{\kf16} Ci{\kf31}ty,{\kf31} Gry{\kf36}phon{\kf16} Ci{\kf224}ty
-Dialogue: 0,0:03:30.44,0:03:33.69,DEFAULT,,0,0,0,,{\kf16}In{\kf16} the{\kf26} Gry{\kf21}phon{\kf16} Ci{\kf36}ty,{\kf31} Gry{\kf36}phon{\kf16} Ci{\kf26}ty
-Dialogue: 0,0:03:33.99,0:03:36.93,DEFAULT,,0,0,0,,{\kf26}Gry{\kf26}phon{\kf16} Ci{\kf31}ty,{\kf31} Gry{\kf36}phon{\kf16} Ci{\kf21}ty
-Dialogue: 0,0:03:37.24,0:03:40.13,DEFAULT,,0,0,0,,{\kf26}Gry{\kf26}phon{\kf16} Ci{\kf31}ty,{\kf31} Gry{\kf36}phon{\kf16} Ci{\kf21}ty
-Dialogue: 0,0:03:40.49,0:03:45.41,DEFAULT,,0,0,0,,{\kf26}Gry{\kf26}phon{\kf16} Ci{\kf31}ty,{\kf31} Gry{\kf36}phon{\kf16} Ci{\kf16}ty{\kf173}~{\kf31}~
+Dialogue: 0,0:00:26.05,0:00:28.69,DEFAULT,,0,0,0,,{\r}{\kf25}I've{\kf31} been{\kf38} try{\kf19}ing{\kf31} to{\kf38} tell{\kf82} ya
+Dialogue: 0,0:00:29.25,0:00:32.04,DEFAULT,,0,0,0,,{\r}{\kf26}Why{\kf39} I{\kf52} am{\kf32} the{\kf26} way{\kf32} I{\kf72} am
+Dialogue: 0,0:00:32.45,0:00:35.14,DEFAULT,,0,0,0,,{\r}{\kf31}See{\kf31} I'm{\kf50} not{\kf38} like{\kf44} you{\kf75} no
+Dialogue: 0,0:00:35.69,0:00:38.23,DEFAULT,,0,0,0,,{\r}{\kf33}Some{\kf39}thing{\kf46} you{\kf46} must{\kf26} un{\kf39}der{\kf25}stand
+Dialogue: 0,0:00:38.59,0:00:41.53,DEFAULT,,0,0,0,,{\r}{\kf21}See{\kf21} I{\kf34} come{\kf21} from{\kf21} a{\kf34} place{\kf21} where{\kf21} we{\kf27} must{\kf34} em{\kf39}brace
+Dialogue: 0,0:00:42.04,0:00:44.73,DEFAULT,,0,0,0,,{\r}{\kf13}The{\kf25} mad{\kf38}ness{\kf31} that{\kf31} we{\kf44} own{\kf87}~
+Dialogue: 0,0:00:45.08,0:00:47.98,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} I{\kf20} try{\kf20} to{\kf20} be{\kf47} good{\kf34} but{\kf20} the{\kf27} neigh{\kf34}bor{\kf27}hood
+Dialogue: 0,0:00:48.18,0:00:53.46,DEFAULT,,0,0,0,,{\r}{\kf42}Just{\kf24} ain't{\kf30} too{\kf36} much{\kf30} like{\kf273} home{\kf77}~{\kf16}~
+Dialogue: 0,0:00:54.83,0:00:58.08,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf21} the{\kf42} Gry{\kf35}phon{\kf21} Ci{\kf28}ty{\kf49} no{\kf21} it{\kf28} ain't{\kf28} pret{\kf31}ty
+Dialogue: 0,0:00:58.43,0:01:01.12,DEFAULT,,0,0,0,,{\r}{\kf28}No{\kf21}bo{\kf21}dy{\kf35} said{\kf21} it{\kf21} was{\kf35} supposed{\kf28} to{\kf59} be
+Dialogue: 0,0:01:01.48,0:01:04.62,DEFAULT,,0,0,0,,{\r}{\kf20}We're{\kf34} all{\kf40} con{\kf20}cei{\kf20}ted{\kf20} and{\kf40} e{\kf20}very{\kf27}one's{\kf20} a{\kf20} chea{\kf34}ter
+Dialogue: 0,0:01:04.93,0:01:09.04,DEFAULT,,0,0,0,,{\r}{\kf18}Call{\kf18} it{\kf18} a{\kf41} na{\kf18}tu{\kf18}ral{\kf18} a{\kf23}bi{\kf35}li{\kf35}ty{\kf169}~
+Dialogue: 0,0:01:11.07,0:01:14.27,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf21} the{\kf35} Gry{\kf28}phon{\kf21} Ci{\kf49}ty,{\kf42} Gry{\kf49}phon{\kf21} Ci{\kf33}ty
+Dialogue: 0,0:01:14.62,0:01:17.52,DEFAULT,,0,0,0,,{\r}{\kf36}Gry{\kf36}phon{\kf22} Ci{\kf43}ty,{\kf43} Gry{\kf51}phon{\kf29} Ci{\kf29}ty
+Dialogue: 0,0:01:17.87,0:01:20.76,DEFAULT,,0,0,0,,{\r}{\kf36}Gry{\kf36}phon{\kf22} Ci{\kf43}ty,{\kf43} Gry{\kf51}phon{\kf29} Ci{\kf29}ty
+Dialogue: 0,0:01:21.12,0:01:26.04,DEFAULT,,0,0,0,,{\r}{\kf31}Gry{\kf31}phon{\kf18} Ci{\kf37}ty,{\kf37} Gry{\kf43}phon{\kf18} Ci{\kf277}ty
+Dialogue: 0,0:01:40.56,0:01:43.15,DEFAULT,,0,0,0,,{\r}{\kf30}Fai{\kf42}lure{\kf48} af{\kf42}ter{\kf36} fai{\kf61}lure
+Dialogue: 0,0:01:43.86,0:01:46.65,DEFAULT,,0,0,0,,{\r}{\kf33}Far{\kf27} a{\kf47}way{\kf40} from{\kf20} what{\kf40} I{\kf72} know
+Dialogue: 0,0:01:47.11,0:01:49.54,DEFAULT,,0,0,0,,{\r}{\kf37}Rules{\kf18} and{\kf61} re{\kf24}gu{\kf30}la{\kf74}tions
+Dialogue: 0,0:01:50.35,0:01:52.94,DEFAULT,,0,0,0,,{\r}{\kf20}Plan{\kf40}ted{\kf53} with{\kf40} no{\kf40} room{\kf20} to{\kf46} grow
+Dialogue: 0,0:01:53.20,0:01:56.29,DEFAULT,,0,0,0,,{\r}{\kf20}See{\kf20} there{\kf40} comes{\kf20} a{\kf34} time{\kf34} when{\kf20} it{\kf40} seems{\kf20} a{\kf62} crime
+Dialogue: 0,0:01:56.65,0:01:59.44,DEFAULT,,0,0,0,,{\r}{\kf18}To{\kf18} live{\kf30} in{\kf36} har{\kf24}mo{\kf18}~{\kf30}ny{\kf105}~
+Dialogue: 0,0:01:59.69,0:02:02.48,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} I{\kf20} try{\kf20} to{\kf20} be{\kf40} good{\kf33} but{\kf20} the{\kf20} neigh{\kf47}bor{\kf19}hood
+Dialogue: 0,0:02:02.74,0:02:07.26,DEFAULT,,0,0,0,,{\r}{\kf38}Just{\kf38} ain't{\kf19} the{\kf38} place{\kf25} for{\kf31} me{\kf207}~{\kf56}~
+Dialogue: 0,0:02:09.39,0:02:12.64,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf21} the{\kf42} Gry{\kf35}phon{\kf21} Ci{\kf28}ty{\kf49} no{\kf21} it{\kf28} ain't{\kf28} pret{\kf31}ty
+Dialogue: 0,0:02:12.99,0:02:15.68,DEFAULT,,0,0,0,,{\r}{\kf28}No{\kf21}bo{\kf21}dy{\kf35} said{\kf21} it{\kf21} was{\kf35} supposed{\kf28} to{\kf59} be
+Dialogue: 0,0:02:16.04,0:02:19.18,DEFAULT,,0,0,0,,{\r}{\kf20}We're{\kf34} all{\kf40} con{\kf20}cei{\kf20}ted{\kf20} and{\kf40} e{\kf20}very{\kf27}one's{\kf20} a{\kf20} chea{\kf34}ter
+Dialogue: 0,0:02:19.49,0:02:23.60,DEFAULT,,0,0,0,,{\r}{\kf18}Call{\kf18} it{\kf18} a{\kf41} na{\kf18}tu{\kf18}ral{\kf18} a{\kf23}bi{\kf35}li{\kf35}ty{\kf169}~
+Dialogue: 0,0:02:25.63,0:02:28.83,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf21} the{\kf35} Gry{\kf28}phon{\kf21} Ci{\kf49}ty,{\kf42} Gry{\kf49}phon{\kf21} Ci{\kf33}ty
+Dialogue: 0,0:02:29.18,0:02:32.07,DEFAULT,,0,0,0,,{\r}{\kf36}Gry{\kf36}phon{\kf22} Ci{\kf43}ty,{\kf43} Gry{\kf51}phon{\kf29} Ci{\kf29}ty
+Dialogue: 0,0:02:32.43,0:02:35.32,DEFAULT,,0,0,0,,{\r}{\kf36}Gry{\kf36}phon{\kf22} Ci{\kf43}ty,{\kf43} Gry{\kf51}phon{\kf29} Ci{\kf29}ty
+Dialogue: 0,0:02:35.68,0:02:40.60,DEFAULT,,0,0,0,,{\r}{\kf31}Gry{\kf31}phon{\kf19} Ci{\kf37}ty,{\kf37} Gry{\kf44}phon{\kf19} Ci{\kf274}ty
+Dialogue: 0,0:02:42.33,0:02:44.92,DEFAULT,,0,0,0,,{\r}{\kf19}Po{\kf39}ny{\kf52}ville{\kf39} is{\kf39} nice{\kf19} for{\kf52} most
+Dialogue: 0,0:02:45.32,0:02:48.47,DEFAULT,,0,0,0,,{\r}{\kf13}But{\kf26} it{\kf39} seems{\kf39} kind{\kf39} of{\kf26} co{\kf39}ma{\kf94}tose
+Dialogue: 0,0:02:48.77,0:02:51.36,DEFAULT,,0,0,0,,{\r}{\kf13}Why{\kf40} don't{\kf60} you{\kf33} wake{\kf40} up{\kf20} and{\kf53} see
+Dialogue: 0,0:02:51.62,0:02:56.13,DEFAULT,,0,0,0,,{\r}{\kf24}It's{\kf30} just{\kf30} the{\kf30} way{\kf30} I{\kf48} am{\kf260}~?
+Dialogue: 0,0:02:58.01,0:03:01.26,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf21} the{\kf42} Gry{\kf35}phon{\kf21} Ci{\kf28}ty{\kf49} no{\kf21} it{\kf28} ain't{\kf28} pret{\kf31}ty
+Dialogue: 0,0:03:01.61,0:03:04.30,DEFAULT,,0,0,0,,{\r}{\kf28}No{\kf21}bo{\kf21}dy{\kf35} said{\kf21} it{\kf21} was{\kf35} supposed{\kf28} to{\kf59} be
+Dialogue: 0,0:03:04.81,0:03:07.81,DEFAULT,,0,0,0,,{\r}{\kf14}We're{\kf20} all{\kf41} con{\kf20}cei{\kf20}ted{\kf20} and{\kf41} e{\kf20}very{\kf27}one's{\kf20} a{\kf20} chea{\kf36}ter
+Dialogue: 0,0:03:08.11,0:03:12.22,DEFAULT,,0,0,0,,{\r}{\kf18}Call{\kf18} it{\kf18} a{\kf41} na{\kf18}tu{\kf18}ral{\kf18} a{\kf23}bi{\kf35}li{\kf35}ty{\kf169}~
+Dialogue: 0,0:03:14.25,0:03:17.45,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf21} the{\kf35} Gry{\kf28}phon{\kf21} Ci{\kf49}ty,{\kf42} Gry{\kf49}phon{\kf21} Ci{\kf33}ty
+Dialogue: 0,0:03:17.80,0:03:20.70,DEFAULT,,0,0,0,,{\r}{\kf36}Gry{\kf36}phon{\kf22} Ci{\kf43}ty,{\kf43} Gry{\kf51}phon{\kf29} Ci{\kf29}ty
+Dialogue: 0,0:03:21.05,0:03:23.95,DEFAULT,,0,0,0,,{\r}{\kf36}Gry{\kf36}phon{\kf22} Ci{\kf43}ty,{\kf43} Gry{\kf51}phon{\kf29} Ci{\kf29}ty
+Dialogue: 0,0:03:24.30,0:03:29.22,DEFAULT,,0,0,0,,{\r}{\kf31}Gry{\kf31}phon{\kf19} Ci{\kf37}ty,{\kf37} Gry{\kf44}phon{\kf19} Ci{\kf274}ty
+Dialogue: 0,0:03:30.44,0:03:33.69,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf21} the{\kf35} Gry{\kf28}phon{\kf21} Ci{\kf49}ty,{\kf42} Gry{\kf49}phon{\kf21} Ci{\kf38}ty
+Dialogue: 0,0:03:34.00,0:03:36.94,DEFAULT,,0,0,0,,{\r}{\kf38}Gry{\kf38}phon{\kf23} Ci{\kf45}ty,{\kf45} Gry{\kf53}phon{\kf23} Ci{\kf29}ty
+Dialogue: 0,0:03:37.24,0:03:40.14,DEFAULT,,0,0,0,,{\r}{\kf37}Gry{\kf37}phon{\kf22} Ci{\kf44}ty,{\kf44} Gry{\kf52}phon{\kf22} Ci{\kf31}ty
+Dialogue: 0,0:03:40.49,0:03:45.41,DEFAULT,,0,0,0,,{\r}{\kf32}Gry{\kf32}phon{\kf19} Ci{\kf38}ty,{\kf38} Gry{\kf44}phon{\kf19} Ci{\kf19}ty{\kf214}~{\kf37}~

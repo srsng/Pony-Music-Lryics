@@ -1,34 +1,41 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Technicolor Shades
+Artist: YourEnigma, Vylet Pony
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:52.79,0:00:57.86,DEFAULT,,0,0,0,,{\kf49}My{\kf49} world{\kf53} was{\kf65} still{\kf21} in{\kf21} hues{\kf21} of{\kf21} black{\kf21} and{\kf65} white
-Dialogue: 0,0:00:58.10,0:01:03.46,DEFAULT,,0,0,0,,{\kf25}But{\kf21} the{\kf29} way{\kf17}~{\kf25} that{\kf29} you{\kf73} move{\kf17} won't{\kf13} let{\kf17} me{\kf21} sleep{\kf25} at{\kf25} night{\kf13}~{\kf53}~
-Dialogue: 0,0:01:03.66,0:01:05.89,DEFAULT,,0,0,0,,{\kf21}You're{\kf37} shak{\kf25}in'{\kf25} me{\kf61} up
-Dialogue: 0,0:01:06.25,0:01:08.52,DEFAULT,,0,0,0,,{\kf25}Won't{\kf37} leave{\kf29} me{\kf33} a{\kf61}lone
-Dialogue: 0,0:01:09.01,0:01:10.55,DEFAULT,,0,0,0,,{\kf17}Let's{\kf33} calm{\kf33} these{\kf25} nerves{\kf9}~
-Dialogue: 0,0:01:10.71,0:01:12.98,DEFAULT,,0,0,0,,{\kf17}Throw{\kf17} this{\kf17} dog{\kf17} a{\kf17} bone{\kf13}~{\kf13} and{\kf25} we{\kf25} can{\kf13}~
-Dialogue: 0,0:01:13.91,0:01:14.64,DEFAULT,,0,0,0,,{\kf13}And{\kf13} take{\kf13} a{\kf25} toke
-Dialogue: 0,0:01:15.01,0:01:16.14,DEFAULT,,0,0,0,,{\kf13}Make{\kf21} a{\kf65} move
-Dialogue: 0,0:01:16.35,0:01:17.24,DEFAULT,,0,0,0,,{\kf17}Nice{\kf17} and{\kf25} slow
-Dialogue: 0,0:01:17.40,0:01:18.58,DEFAULT,,0,0,0,,{\kf17}I'll{\kf17} let{\kf17} you{\kf29} choose{\kf13}~
-Dialogue: 0,0:01:18.74,0:01:20.04,DEFAULT,,0,0,0,,{\kf17}How{\kf25} fast{\kf25} we{\kf37} go
-Dialogue: 0,0:01:20.93,0:01:23.40,DEFAULT,,0,0,0,,{\kf17}Help{\kf17} me{\kf21} see{\kf17} in{\kf21} tech{\kf25}ni{\kf25}co{\kf45}lor
-Dialogue: 0,0:01:24.37,0:01:25.06,DEFAULT,,0,0,0,,{\kf13}Well{\kf13} hold{\kf13} your{\kf17} breath
-Dialogue: 0,0:01:25.27,0:01:26.24,DEFAULT,,0,0,0,,{\kf17}And{\kf21} wipe{\kf21} your{\kf25} eyes
-Dialogue: 0,0:01:26.44,0:01:27.50,DEFAULT,,0,0,0,,{\kf13}While{\kf13} we{\kf13} de{\kf25}com{\kf21}press
-Dialogue: 0,0:01:27.78,0:01:29.04,DEFAULT,,0,0,0,,{\kf17}I'll{\kf17} let{\kf21} you{\kf33} choose{\kf13}~
-Dialogue: 0,0:01:29.20,0:01:30.50,DEFAULT,,0,0,0,,{\kf21}How{\kf21} fast{\kf17} we{\kf45} go
-Dialogue: 0,0:01:31.31,0:01:34.39,DEFAULT,,0,0,0,,{\kf21}Let{\kf21} me{\kf25} see{\kf21} in{\kf33} tech{\kf29}ni{\kf29}co{\kf33}lor{\kf53}~
-Dialogue: 0,0:01:34.59,0:01:39.50,DEFAULT,,0,0,0,,{\kf49}You{\kf53} help{\kf25} me{\kf25}~{\kf65} see{\kf29} in{\kf21} tech{\kf17}ni{\kf17}co{\kf21}lor{\kf69} shades
-Dialogue: 0,0:01:40.18,0:01:43.35,DEFAULT,,0,0,0,,{\kf21}In{\kf21} tech{\kf21}ni{\kf17}co{\kf21}lor{\kf21} shades{\kf167}~
-Dialogue: 0,0:01:45.05,0:01:50.04,DEFAULT,,0,0,0,,{\kf41}You{\kf45} help{\kf21} me{\kf25}~{\kf33} see{\kf45}~{\kf25} in{\kf21} tech{\kf17}ni{\kf17}co{\kf21}lor{\kf78} shades
-Dialogue: 0,0:01:50.60,0:01:53.00,DEFAULT,,0,0,0,,{\kf25}In{\kf21} tech{\kf21}ni{\kf17}co{\kf17}lor{\kf21} shades{\kf78}~
-Dialogue: 0,0:01:53.28,0:01:54.70,DEFAULT,,0,0,0,,{\kf17}Woo{\kf49} oh{\kf57}~
+Dialogue: 0,0:00:52.80,0:00:57.87,DEFAULT,,0,0,0,,{\r}{\kf65}My{\kf65} world{\kf70} was{\kf86} still{\kf27} in{\kf27} hues{\kf27} of{\kf27} black{\kf27} and{\kf86} white
+Dialogue: 0,0:00:58.11,0:01:03.46,DEFAULT,,0,0,0,,{\r}{\kf33}But{\kf28} the{\kf39} way{\kf22}~{\kf33} that{\kf39} you{\kf99} move{\kf22} won't{\kf17} let{\kf22} me{\kf28} sleep{\kf33} at{\kf33} night{\kf17}~{\kf70}~
+Dialogue: 0,0:01:03.66,0:01:05.89,DEFAULT,,0,0,0,,{\r}{\kf27}You're{\kf49} shak{\kf33}in'{\kf33} me{\kf81} up
+Dialogue: 0,0:01:06.26,0:01:08.53,DEFAULT,,0,0,0,,{\r}{\kf30}Won't{\kf45} leave{\kf35} me{\kf40} a{\kf77}lone
+Dialogue: 0,0:01:09.01,0:01:10.55,DEFAULT,,0,0,0,,{\r}{\kf22}Let's{\kf44} calm{\kf44} these{\kf33} nerves{\kf11}~
+Dialogue: 0,0:01:10.72,0:01:12.99,DEFAULT,,0,0,0,,{\r}{\kf22}Throw{\kf22} this{\kf22} dog{\kf22} a{\kf22} bone{\kf17}~{\kf17} and{\kf33} we{\kf33} can{\kf17}~
+Dialogue: 0,0:01:13.92,0:01:14.65,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} take{\kf15} a{\kf28} toke
+Dialogue: 0,0:01:15.01,0:01:16.15,DEFAULT,,0,0,0,,{\r}{\kf14}Make{\kf24} a{\kf76} move
+Dialogue: 0,0:01:16.35,0:01:17.24,DEFAULT,,0,0,0,,{\r}{\kf25}Nice{\kf25} and{\kf39} slow
+Dialogue: 0,0:01:17.41,0:01:18.58,DEFAULT,,0,0,0,,{\r}{\kf21}I'll{\kf21} let{\kf21} you{\kf38} choose{\kf17}~
+Dialogue: 0,0:01:18.74,0:01:20.04,DEFAULT,,0,0,0,,{\r}{\kf21}How{\kf31} fast{\kf31} we{\kf47} go
+Dialogue: 0,0:01:20.93,0:01:23.41,DEFAULT,,0,0,0,,{\r}{\kf22}Help{\kf22} me{\kf27} see{\kf22} in{\kf27} tech{\kf33}ni{\kf33}co{\kf61}lor
+Dialogue: 0,0:01:24.38,0:01:25.07,DEFAULT,,0,0,0,,{\r}{\kf16}Well{\kf16} hold{\kf16} your{\kf21} breath
+Dialogue: 0,0:01:25.27,0:01:26.24,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf24} wipe{\kf24} your{\kf30} eyes
+Dialogue: 0,0:01:26.45,0:01:27.50,DEFAULT,,0,0,0,,{\r}{\kf16}While{\kf16} we{\kf16} de{\kf32}com{\kf25}press
+Dialogue: 0,0:01:27.78,0:01:29.04,DEFAULT,,0,0,0,,{\r}{\kf21}I'll{\kf21} let{\kf26} you{\kf42} choose{\kf16}~
+Dialogue: 0,0:01:29.20,0:01:30.50,DEFAULT,,0,0,0,,{\r}{\kf26}How{\kf26} fast{\kf21} we{\kf57} go
+Dialogue: 0,0:01:31.31,0:01:34.39,DEFAULT,,0,0,0,,{\r}{\kf24}Let{\kf24} me{\kf29} see{\kf24} in{\kf38} tech{\kf34}ni{\kf34}co{\kf38}lor{\kf63}~
+Dialogue: 0,0:01:34.60,0:01:39.50,DEFAULT,,0,0,0,,{\r}{\kf62}You{\kf67} help{\kf31} me{\kf31}~{\kf83} see{\kf36} in{\kf26} tech{\kf21}ni{\kf21}co{\kf26}lor{\kf87} shades
+Dialogue: 0,0:01:40.19,0:01:43.35,DEFAULT,,0,0,0,,{\r}{\kf23}In{\kf23} tech{\kf23}ni{\kf18}co{\kf23}lor{\kf23} shades{\kf183}~
+Dialogue: 0,0:01:45.05,0:01:50.04,DEFAULT,,0,0,0,,{\r}{\kf53}You{\kf58} help{\kf27} me{\kf32}~{\kf42} see{\kf58}~{\kf32} in{\kf27} tech{\kf21}ni{\kf21}co{\kf27}lor{\kf101} shades
+Dialogue: 0,0:01:50.61,0:01:53.00,DEFAULT,,0,0,0,,{\r}{\kf30}In{\kf25} tech{\kf25}ni{\kf20}co{\kf20}lor{\kf25} shades{\kf94}~
+Dialogue: 0,0:01:53.28,0:01:54.70,DEFAULT,,0,0,0,,{\r}{\kf19}Woo{\kf57} oh{\kf66}~

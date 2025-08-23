@@ -1,41 +1,48 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Friendship From Fire
+Artist: Wasteland Wailers
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.35,0:00:07.83,DEFAULT,,0,0,0,,{\kf29}Pa{\kf29}ra{\kf60}dise{\kf32} it{\kf428} seemed
-Dialogue: 0,0:00:09.39,0:00:13.71,DEFAULT,,0,0,0,,{\kf16}Was{\kf16} a{\kf36} me{\kf29}mory{\kf24} in{\kf232} glass
-Dialogue: 0,0:00:16.67,0:00:22.59,DEFAULT,,0,0,0,,{\kf32}Ne{\kf32}ver{\kf72} wash{\kf29}ing{\kf360} clean
-Dialogue: 0,0:00:24.71,0:00:29.19,DEFAULT,,0,0,0,,{\kf20}As{\kf16} the{\kf48} long{\kf48} years{\kf244} pass
-Dialogue: 0,0:00:31.23,0:00:37.11,DEFAULT,,0,0,0,,{\kf212}Clouds{\kf57} choke{\kf20} the{\kf221} Sun
-Dialogue: 0,0:00:38.15,0:00:44.95,DEFAULT,,0,0,0,,{\kf29}She{\kf72} longs{\kf29} to{\kf76} see{\kf116} her{\kf60} chil{\kf172}dren
-Dialogue: 0,0:00:45.79,0:00:52.03,DEFAULT,,0,0,0,,{\kf20}It{\kf20} would{\kf160} not{\kf48} be{\kf72}~{\kf36} un{\kf180}done
-Dialogue: 0,0:00:52.59,0:01:00.63,DEFAULT,,0,0,0,,{\kf20}With{\kf32}out{\kf57} your{\kf324} cou{\kf36}rage{\kf104} gi{\kf32}~{\kf88}ven
-Dialogue: 0,0:01:01.23,0:01:04.35,DEFAULT,,0,0,0,,{\kf16}Though{\kf16} the{\kf84} fi{\kf160}res
-Dialogue: 0,0:01:05.07,0:01:11.83,DEFAULT,,0,0,0,,{\kf20}Scorched{\kf20} the{\kf88} skies{\kf24} and{\kf124} seas{\kf32} of{\kf16} pa{\kf16}ra{\kf196}dise
-Dialogue: 0,0:01:12.71,0:01:19.75,DEFAULT,,0,0,0,,{\kf16}You{\kf16} would{\kf113} climb{\kf29} to{\kf113} reach{\kf24} the{\kf272} night
-Dialogue: 0,0:01:20.39,0:01:23.91,DEFAULT,,0,0,0,,{\kf12}As{\kf16} the{\kf44} winds{\kf12} of{\kf29} ha{\kf48}tred{\kf104} bite
-Dialogue: 0,0:01:24.31,0:01:27.59,DEFAULT,,0,0,0,,{\kf16}Though{\kf20} they{\kf57} broke{\kf57} our{\kf92} world
-Dialogue: 0,0:01:28.03,0:01:32.31,DEFAULT,,0,0,0,,{\kf16}And{\kf20} they{\kf100} burned{\kf32} our{\kf184} bones
-Dialogue: 0,0:01:33.91,0:01:40.31,DEFAULT,,0,0,0,,{\kf20}On{\kf60} top{\kf32} we'll{\kf64} build{\kf64} our{\kf200} homes
-Dialogue: 0,0:01:43.03,0:01:49.75,DEFAULT,,0,0,0,,{\kf29}So{\kf29} much{\kf72} that{\kf32} we{\kf437} lost
-Dialogue: 0,0:01:51.19,0:01:56.83,DEFAULT,,0,0,0,,{\kf24}En{\kf40}tombed{\kf29}~{\kf29} in{\kf372} dust
-Dialogue: 0,0:01:58.39,0:02:04.95,DEFAULT,,0,0,0,,{\kf24}On{\kf32} those{\kf76} graves{\kf29} we'll{\kf412} stay
-Dialogue: 0,0:02:06.51,0:02:11.75,DEFAULT,,0,0,0,,{\kf20}And{\kf20} in{\kf40} love{\kf48} we'll{\kf312} trust
-Dialogue: 0,0:02:12.95,0:02:18.83,DEFAULT,,0,0,0,,{\kf256}Rain{\kf57} strikes{\kf16} the{\kf200} ground
-Dialogue: 0,0:02:19.55,0:02:26.59,DEFAULT,,0,0,0,,{\kf29}Like{\kf113} warm{\kf44} tears{\kf57} slow{\kf96}ly{\kf44} fal{\kf176}ling
-Dialogue: 0,0:02:27.67,0:02:33.87,DEFAULT,,0,0,0,,{\kf20}From{\kf16} her{\kf152} eyes{\kf48} to{\kf64}~{\kf36} the{\kf184} earth
-Dialogue: 0,0:02:34.43,0:02:42.55,DEFAULT,,0,0,0,,{\kf24}Can{\kf32}~{\kf57} you{\kf292} hear{\kf36} them{\kf120} cal{\kf32}~{\kf100}ling
-Dialogue: 0,0:02:43.11,0:02:46.27,DEFAULT,,0,0,0,,{\kf12}Though{\kf16} the{\kf92} fires{\kf168}~
-Dialogue: 0,0:02:46.83,0:02:53.91,DEFAULT,,0,0,0,,{\kf20}Scorched{\kf20} the{\kf108} skies{\kf29} and{\kf132} seas{\kf32} of{\kf12} pa{\kf16}ra{\kf225}dise
-Dialogue: 0,0:02:54.59,0:03:01.63,DEFAULT,,0,0,0,,{\kf16}You{\kf16} a{\kf120}rose{\kf29} to{\kf113} be{\kf32} the{\kf272} one
-Dialogue: 0,0:03:02.27,0:03:05.47,DEFAULT,,0,0,0,,{\kf12}Where{\kf12} the{\kf40} wolves{\kf16} of{\kf29} ha{\kf44}tred{\kf80} run
-Dialogue: 0,0:03:06.07,0:03:09.59,DEFAULT,,0,0,0,,{\kf12}Though{\kf16} they{\kf68} broke{\kf57} our{\kf116} world
-Dialogue: 0,0:03:09.95,0:03:14.51,DEFAULT,,0,0,0,,{\kf16}And{\kf20} they{\kf108} burned{\kf29} our{\kf212} bones
-Dialogue: 0,0:03:17.51,0:03:24.79,DEFAULT,,0,0,0,,{\kf29}On{\kf72} top{\kf32} we'll{\kf64} build{\kf57} our{\kf296} homes
+Dialogue: 0,0:00:01.35,0:00:07.83,DEFAULT,,0,0,0,,{\r}{\kf32}Pa{\kf32}ra{\kf68}dise{\kf36} it{\kf480} seemed
+Dialogue: 0,0:00:09.39,0:00:13.71,DEFAULT,,0,0,0,,{\r}{\kf20}Was{\kf20} a{\kf44} me{\kf34}mory{\kf29} in{\kf285} glass
+Dialogue: 0,0:00:16.67,0:00:22.59,DEFAULT,,0,0,0,,{\r}{\kf36}Ne{\kf36}ver{\kf81} wash{\kf32}ing{\kf407} clean
+Dialogue: 0,0:00:24.71,0:00:29.19,DEFAULT,,0,0,0,,{\r}{\kf24}As{\kf19} the{\kf57} long{\kf57} years{\kf291} pass
+Dialogue: 0,0:00:31.23,0:00:37.11,DEFAULT,,0,0,0,,{\r}{\kf245}Clouds{\kf65} choke{\kf23} the{\kf255} Sun
+Dialogue: 0,0:00:38.15,0:00:44.95,DEFAULT,,0,0,0,,{\r}{\kf34}She{\kf89} longs{\kf34} to{\kf94} see{\kf143} her{\kf74} chil{\kf212}dren
+Dialogue: 0,0:00:45.79,0:00:52.03,DEFAULT,,0,0,0,,{\r}{\kf23}It{\kf23} would{\kf186} not{\kf56} be{\kf84}~{\kf42} un{\kf210}done
+Dialogue: 0,0:00:52.59,0:01:00.63,DEFAULT,,0,0,0,,{\r}{\kf23}With{\kf37}out{\kf65} your{\kf376} cou{\kf42}rage{\kf121} gi{\kf37}~{\kf103}ven
+Dialogue: 0,0:01:01.23,0:01:04.35,DEFAULT,,0,0,0,,{\r}{\kf18}Though{\kf18} the{\kf95} fi{\kf181}res
+Dialogue: 0,0:01:05.07,0:01:11.83,DEFAULT,,0,0,0,,{\r}{\kf25}Scorched{\kf25} the{\kf111} skies{\kf30} and{\kf156} seas{\kf40} of{\kf20} pa{\kf20}ra{\kf249}dise
+Dialogue: 0,0:01:12.71,0:01:19.75,DEFAULT,,0,0,0,,{\r}{\kf19}You{\kf19} would{\kf136} climb{\kf34} to{\kf136} reach{\kf29} the{\kf331} night
+Dialogue: 0,0:01:20.39,0:01:23.91,DEFAULT,,0,0,0,,{\r}{\kf16}As{\kf21} the{\kf59} winds{\kf16} of{\kf37} ha{\kf64}tred{\kf139} bite
+Dialogue: 0,0:01:24.31,0:01:27.59,DEFAULT,,0,0,0,,{\r}{\kf22}Though{\kf27} they{\kf77} broke{\kf77} our{\kf125} world
+Dialogue: 0,0:01:28.03,0:01:32.31,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf24} they{\kf122} burned{\kf39} our{\kf224} bones
+Dialogue: 0,0:01:33.91,0:01:40.31,DEFAULT,,0,0,0,,{\r}{\kf29}On{\kf87} top{\kf47} we'll{\kf93} build{\kf93} our{\kf291} homes
+Dialogue: 0,0:01:43.03,0:01:49.75,DEFAULT,,0,0,0,,{\r}{\kf32}So{\kf32} much{\kf81} that{\kf36} we{\kf491} lost
+Dialogue: 0,0:01:51.19,0:01:56.83,DEFAULT,,0,0,0,,{\r}{\kf28}En{\kf46}tombed{\kf32}~{\kf32} in{\kf426} dust
+Dialogue: 0,0:01:58.39,0:02:04.95,DEFAULT,,0,0,0,,{\r}{\kf28}On{\kf37} those{\kf87} graves{\kf32} we'll{\kf472} stay
+Dialogue: 0,0:02:06.51,0:02:11.75,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf24} in{\kf48} love{\kf57} we'll{\kf371} trust
+Dialogue: 0,0:02:12.95,0:02:18.83,DEFAULT,,0,0,0,,{\r}{\kf285}Rain{\kf62} strikes{\kf18} the{\kf223} ground
+Dialogue: 0,0:02:19.55,0:02:26.59,DEFAULT,,0,0,0,,{\r}{\kf35}Like{\kf142} warm{\kf56} tears{\kf71} slow{\kf122}ly{\kf56} fal{\kf222}ling
+Dialogue: 0,0:02:27.67,0:02:33.87,DEFAULT,,0,0,0,,{\r}{\kf24}From{\kf19} her{\kf181} eyes{\kf57} to{\kf76}~{\kf43} the{\kf220} earth
+Dialogue: 0,0:02:34.43,0:02:42.55,DEFAULT,,0,0,0,,{\r}{\kf28}Can{\kf38}~{\kf66} you{\kf343} hear{\kf42} them{\kf141} cal{\kf38}~{\kf116}ling
+Dialogue: 0,0:02:43.11,0:02:46.27,DEFAULT,,0,0,0,,{\r}{\kf13}Though{\kf18} the{\kf101} fires{\kf184}~
+Dialogue: 0,0:02:46.83,0:02:53.91,DEFAULT,,0,0,0,,{\r}{\kf24}Scorched{\kf24} the{\kf129} skies{\kf33} and{\kf158} seas{\kf38} of{\kf14} pa{\kf19}ra{\kf269}dise
+Dialogue: 0,0:02:54.59,0:03:01.63,DEFAULT,,0,0,0,,{\r}{\kf19}You{\kf19} a{\kf142}rose{\kf33} to{\kf132} be{\kf38} the{\kf321} one
+Dialogue: 0,0:03:02.27,0:03:05.47,DEFAULT,,0,0,0,,{\r}{\kf17}Where{\kf17} the{\kf55} wolves{\kf22} of{\kf39} ha{\kf61}tred{\kf109} run
+Dialogue: 0,0:03:06.07,0:03:09.59,DEFAULT,,0,0,0,,{\r}{\kf16}Though{\kf21} they{\kf89} broke{\kf74} our{\kf152} world
+Dialogue: 0,0:03:09.95,0:03:14.51,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf24} they{\kf128} burned{\kf33} our{\kf252} bones
+Dialogue: 0,0:03:17.51,0:03:24.79,DEFAULT,,0,0,0,,{\r}{\kf37}On{\kf96} top{\kf43} we'll{\kf85} build{\kf74} our{\kf393} homes

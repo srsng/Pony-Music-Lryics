@@ -1,95 +1,102 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Giddy Up
+Artist: Network Musical Ensemble
+Original Timing: mylittlekaraoke.com by sleumas2000
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.49,0:00:11.23,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up{\kf14} Up
-Dialogue: 0,0:00:11.63,0:00:13.11,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up
-Dialogue: 0,0:00:13.78,0:00:15.52,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up{\kf14} Up
-Dialogue: 0,0:00:15.92,0:00:17.39,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up{\kf14} Up,{\kf14} Up{\kf14} Up
-Dialogue: 0,0:00:17.73,0:00:19.74,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} tra{\kf14}veled{\kf14} Yon{\kf14}kers
-Dialogue: 0,0:00:19.87,0:00:21.61,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} Kis{\kf14}sim{\kf14}mee
-Dialogue: 0,0:00:22.01,0:00:23.96,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} Hol{\kf14}ly{\kf14}wood{\kf14} and
-Dialogue: 0,0:00:24.16,0:00:25.90,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} Mil{\kf14}wau{\kf14}kee
-Dialogue: 0,0:00:26.30,0:00:28.31,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} tra{\kf14}velled{\kf14} Her{\kf14}shey
-Dialogue: 0,0:00:28.44,0:00:30.18,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} San{\kf14} An{\kf14}tón
-Dialogue: 0,0:00:30.58,0:00:32.59,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} Mon{\kf14}key{\kf14} Is{\kf14}land
-Dialogue: 0,0:00:32.73,0:00:34.74,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} rode{\kf41} home
-Dialogue: 0,0:00:35.14,0:00:36.88,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up{\kf14} Up
-Dialogue: 0,0:00:37.28,0:00:38.75,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up
-Dialogue: 0,0:00:39.42,0:00:41.17,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up{\kf14} Up
-Dialogue: 0,0:00:41.57,0:00:43.04,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up{\kf14} Up,{\kf14} Up{\kf14} Up
-Dialogue: 0,0:00:43.71,0:00:45.45,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up{\kf14} Up
-Dialogue: 0,0:00:45.85,0:00:47.33,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up
-Dialogue: 0,0:00:48.00,0:00:49.74,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up{\kf14} Up
-Dialogue: 0,0:00:50.14,0:00:51.61,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up{\kf14} Up,{\kf14} Up{\kf14} Up
-Dialogue: 0,0:00:54.16,0:00:56.17,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} tra{\kf14}veled{\kf14} Hong{\kf14} Kong
-Dialogue: 0,0:00:56.30,0:00:58.04,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} Tim{\kf14}buk{\kf14}tu
-Dialogue: 0,0:00:58.44,0:01:00.38,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} Wag{\kf14}ga{\kf14} Wag{\kf14}ga
-Dialogue: 0,0:01:00.58,0:01:02.33,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} Ho{\kf14}no{\kf14}lu{\kf14}lu
-Dialogue: 0,0:01:02.73,0:01:04.74,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} tra{\kf14}veled{\kf14} Pa{\kf14}ris
-Dialogue: 0,0:01:04.87,0:01:06.61,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} Mont{\kf14}re{\kf14}al
-Dialogue: 0,0:01:07.01,0:01:09.02,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} Bue{\kf14}nos{\kf14} Ai{\kf14}res
-Dialogue: 0,0:01:09.16,0:01:10.90,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} saw{\kf14} it{\kf14} all!
-Dialogue: 0,0:01:11.57,0:01:13.31,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up{\kf14} Up
-Dialogue: 0,0:01:13.71,0:01:15.18,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up
-Dialogue: 0,0:01:15.85,0:01:17.59,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up{\kf14} Up
-Dialogue: 0,0:01:18.00,0:01:19.47,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up{\kf14} Up,{\kf14} Up{\kf14} Up
-Dialogue: 0,0:01:20.14,0:01:21.88,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up{\kf14} Up
-Dialogue: 0,0:01:22.28,0:01:23.75,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up
-Dialogue: 0,0:01:24.42,0:01:26.17,DEFAULT,,0,0,0,,{\kf7}Gid{\kf14}dy{\kf14} Up,{\kf7} Gid{\kf14}dy{\kf14} Up,{\kf7} Gid{\kf14}dy{\kf14} Up{\kf14} Up
-Dialogue: 0,0:01:26.57,0:01:28.04,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up{\kf14} Up,{\kf14} Up{\kf14} Up
-Dialogue: 0,0:01:30.52,0:01:34.47,DEFAULT,,0,0,0,,{\kf21}Yon{\kf21}kers,{\kf21} Kis{\kf7}sim{\kf7}mee.{\kf21} Hol{\kf7}ly{\kf7}wood,{\kf21} Mil{\kf21}wau{\kf21}kee
-Dialogue: 0,0:01:34.80,0:01:38.62,DEFAULT,,0,0,0,,{\kf21}Her{\kf21}shey,{\kf21} San{\kf7} An{\kf21}tón.{\kf21} Mon{\kf21}key{\kf21} Is{\kf21}land,{\kf21} rode{\kf21} home
-Dialogue: 0,0:01:39.09,0:01:43.31,DEFAULT,,0,0,0,,{\kf21}Hong{\kf21} Kong,{\kf21} Tim{\kf21}buk{\kf21}tu.{\kf21} Wag{\kf7}ga{\kf21} Wag{\kf21}ga,{\kf21} Ho{\kf7}no{\kf21}lu{\kf21}lu
-Dialogue: 0,0:01:43.44,0:01:47.33,DEFAULT,,0,0,0,,{\kf21}Pa{\kf21}ris,{\kf21} Mont{\kf7}re{\kf21}al.{\kf21} Bue{\kf21}nos{\kf21} Ai{\kf21}res,{\kf21} saw{\kf21} it{\kf21} all
-Dialogue: 0,0:01:48.00,0:01:49.47,DEFAULT,,0,0,0,,{\kf7}Gid{\kf14}dy{\kf21} Up,{\kf7} Gid{\kf14}dy{\kf14} Up,
-Dialogue: 0,0:01:50.14,0:01:52.68,DEFAULT,,0,0,0,,{\kf7}Gid{\kf14}dy{\kf14} Up{\kf14} Gid{\kf14}dy{\kf14}-dy{\kf14}-dy{\kf14}-dy{\kf14}-dy{\kf14}-dy{\kf14}-dy{\kf14} Up{\kf14} Up
-Dialogue: 0,0:01:52.82,0:01:53.75,DEFAULT,,0,0,0,,{\kf7}Gid{\kf14}dy{\kf14} Up{\kf14} Up{\kf14} Up
-Dialogue: 0,0:01:53.82,0:01:55.90,DEFAULT,,0,0,0,,{\kf14}Gid{\kf14}dy{\kf21} Up{\kf27} Up{\kf114} Up...
-Dialogue: 0,0:01:56.30,0:01:58.31,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} tra{\kf14}veled{\kf14} Yon{\kf14}kers
-Dialogue: 0,0:01:58.44,0:02:00.18,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} Kis{\kf14}sim{\kf14}mee
-Dialogue: 0,0:02:00.58,0:02:02.59,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} Hol{\kf14}ly{\kf14}wood{\kf14} and
-Dialogue: 0,0:02:02.73,0:02:04.47,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} Mil{\kf14}wau{\kf14}kee
-Dialogue: 0,0:02:04.87,0:02:06.88,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} tra{\kf14}velled{\kf14} Her{\kf14}shey
-Dialogue: 0,0:02:07.01,0:02:08.75,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} San{\kf14} An{\kf14}tón
-Dialogue: 0,0:02:09.16,0:02:11.17,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} Mon{\kf14}key{\kf14} Is{\kf14}land
-Dialogue: 0,0:02:11.30,0:02:13.31,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} rode{\kf41} home
-Dialogue: 0,0:02:13.71,0:02:15.45,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up{\kf14} Up
-Dialogue: 0,0:02:15.85,0:02:17.33,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up
-Dialogue: 0,0:02:18.00,0:02:19.74,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up{\kf14} Up
-Dialogue: 0,0:02:20.14,0:02:21.61,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up{\kf14} Up,{\kf14} Up{\kf14} Up
-Dialogue: 0,0:02:22.28,0:02:24.02,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up{\kf14} Up
-Dialogue: 0,0:02:24.42,0:02:25.90,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up
-Dialogue: 0,0:02:26.57,0:02:28.31,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up{\kf14} Up
-Dialogue: 0,0:02:28.71,0:02:30.18,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up{\kf14} Up,{\kf14} Up{\kf14} Up
-Dialogue: 0,0:02:32.73,0:02:34.74,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} tra{\kf14}veled{\kf14} Hong{\kf14} Kong
-Dialogue: 0,0:02:34.87,0:02:36.61,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} Tim{\kf14}buk{\kf14}tu
-Dialogue: 0,0:02:37.01,0:02:39.02,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} Wag{\kf14}ga{\kf14} Wag{\kf14}ga
-Dialogue: 0,0:02:39.16,0:02:40.90,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} Ho{\kf14}no{\kf14}lu{\kf14}lu
-Dialogue: 0,0:02:41.30,0:02:43.31,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} tra{\kf14}veled{\kf14} Pa{\kf14}ris
-Dialogue: 0,0:02:43.44,0:02:45.18,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} Mont{\kf14}re{\kf14}al
-Dialogue: 0,0:02:45.58,0:02:47.59,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} Bue{\kf14}nos{\kf14} Ai{\kf14}res
-Dialogue: 0,0:02:47.73,0:02:49.47,DEFAULT,,0,0,0,,{\kf14}This{\kf14} Lit{\kf7}tle{\kf14} Hor{\kf14}sey{\kf14} saw{\kf14} it{\kf14} all!
-Dialogue: 0,0:02:50.14,0:02:51.88,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up{\kf14} Up
-Dialogue: 0,0:02:52.28,0:02:53.75,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up
-Dialogue: 0,0:02:54.42,0:02:56.17,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up{\kf14} Up
-Dialogue: 0,0:02:56.57,0:02:58.04,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up{\kf14} Up,{\kf14} Up{\kf14} Up
-Dialogue: 0,0:02:58.71,0:03:00.45,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up{\kf14} Up
-Dialogue: 0,0:03:00.85,0:03:02.33,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up
-Dialogue: 0,0:03:03.00,0:03:04.74,DEFAULT,,0,0,0,,{\kf7}Gid{\kf14}dy{\kf14} Up,{\kf7} Gid{\kf14}dy{\kf14} Up,{\kf7} Gid{\kf14}dy{\kf14} Up{\kf14} Up
-Dialogue: 0,0:03:05.14,0:03:06.61,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up{\kf14} Up,{\kf14} Up{\kf14} Up
-Dialogue: 0,0:03:07.21,0:03:08.96,DEFAULT,,0,0,0,,{\kf7}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up{\kf14} Up
-Dialogue: 0,0:03:09.36,0:03:10.83,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up
-Dialogue: 0,0:03:11.50,0:03:13.24,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up{\kf14} Up
-Dialogue: 0,0:03:13.64,0:03:15.12,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up{\kf14} Up,{\kf14} Up{\kf14} Up
-Dialogue: 0,0:03:15.79,0:03:17.53,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up{\kf14} Up
-Dialogue: 0,0:03:17.93,0:03:19.40,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up,{\kf14} Gid{\kf7}dy{\kf14} Up
-Dialogue: 0,0:03:20.07,0:03:21.81,DEFAULT,,0,0,0,,{\kf7}Gid{\kf14}dy{\kf14} Up,{\kf7} Gid{\kf14}dy{\kf14} Up,{\kf7} Gid{\kf14}dy{\kf14} Up{\kf14} Up
-Dialogue: 0,0:03:22.21,0:03:23.69,DEFAULT,,0,0,0,,{\kf14}Gid{\kf7}dy{\kf14} Up{\kf14} Up,{\kf14} Up{\kf14} Up
+Dialogue: 0,0:00:09.50,0:00:11.24,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up{\kf24} Up
+Dialogue: 0,0:00:11.64,0:00:13.11,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf17} Up
+Dialogue: 0,0:00:13.78,0:00:15.52,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up{\kf24} Up
+Dialogue: 0,0:00:15.92,0:00:17.40,DEFAULT,,0,0,0,,{\r}{\kf27}Gid{\kf13}dy{\kf27} Up{\kf27} Up,{\kf27} Up{\kf26} Up
+Dialogue: 0,0:00:17.73,0:00:19.74,DEFAULT,,0,0,0,,{\r}{\kf24}This{\kf24} Lit{\kf12}tle{\kf24} Hor{\kf24}sey{\kf24} tra{\kf24}veled{\kf24} Yon{\kf21}kers
+Dialogue: 0,0:00:19.88,0:00:21.62,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf23} Lit{\kf12}tle{\kf23} Hor{\kf23}sey{\kf23} Kis{\kf23}sim{\kf24}mee
+Dialogue: 0,0:00:22.02,0:00:23.96,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf23} Lit{\kf11}tle{\kf23} Hor{\kf23}sey{\kf23} Hol{\kf23}ly{\kf23}wood{\kf22} and
+Dialogue: 0,0:00:24.16,0:00:25.90,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf23} Lit{\kf12}tle{\kf23} Hor{\kf23}sey{\kf23} Mil{\kf23}wau{\kf24}kee
+Dialogue: 0,0:00:26.30,0:00:28.31,DEFAULT,,0,0,0,,{\r}{\kf24}This{\kf24} Lit{\kf12}tle{\kf24} Hor{\kf24}sey{\kf24} tra{\kf24}velled{\kf24} Her{\kf21}shey
+Dialogue: 0,0:00:28.45,0:00:30.19,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf23} Lit{\kf12}tle{\kf23} Hor{\kf23}sey{\kf23} San{\kf23} An{\kf24}tón
+Dialogue: 0,0:00:30.59,0:00:32.60,DEFAULT,,0,0,0,,{\r}{\kf24}This{\kf24} Lit{\kf12}tle{\kf24} Hor{\kf24}sey{\kf24} Mon{\kf24}key{\kf24} Is{\kf21}land
+Dialogue: 0,0:00:32.73,0:00:34.74,DEFAULT,,0,0,0,,{\r}{\kf24}This{\kf24} Lit{\kf12}tle{\kf24} Hor{\kf24}sey{\kf24} rode{\kf69} home
+Dialogue: 0,0:00:35.14,0:00:36.88,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up{\kf24} Up
+Dialogue: 0,0:00:37.29,0:00:38.76,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf17} Up
+Dialogue: 0,0:00:39.43,0:00:41.17,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up{\kf24} Up
+Dialogue: 0,0:00:41.57,0:00:43.05,DEFAULT,,0,0,0,,{\r}{\kf27}Gid{\kf13}dy{\kf27} Up{\kf27} Up,{\kf27} Up{\kf26} Up
+Dialogue: 0,0:00:43.71,0:00:45.46,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up{\kf24} Up
+Dialogue: 0,0:00:45.86,0:00:47.33,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf17} Up
+Dialogue: 0,0:00:48.00,0:00:49.74,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up{\kf24} Up
+Dialogue: 0,0:00:50.14,0:00:51.62,DEFAULT,,0,0,0,,{\r}{\kf27}Gid{\kf13}dy{\kf27} Up{\kf27} Up,{\kf27} Up{\kf26} Up
+Dialogue: 0,0:00:54.16,0:00:56.17,DEFAULT,,0,0,0,,{\r}{\kf24}This{\kf24} Lit{\kf12}tle{\kf24} Hor{\kf24}sey{\kf24} tra{\kf24}veled{\kf24} Hong{\kf21} Kong
+Dialogue: 0,0:00:56.30,0:00:58.05,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf23} Lit{\kf12}tle{\kf23} Hor{\kf23}sey{\kf23} Tim{\kf23}buk{\kf24}tu
+Dialogue: 0,0:00:58.45,0:01:00.39,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf23} Lit{\kf11}tle{\kf23} Hor{\kf23}sey{\kf23} Wag{\kf23}ga{\kf23} Wag{\kf22}ga
+Dialogue: 0,0:01:00.59,0:01:02.33,DEFAULT,,0,0,0,,{\r}{\kf20}This{\kf20} Lit{\kf10}tle{\kf20} Hor{\kf20}sey{\kf20} Ho{\kf20}no{\kf20}lu{\kf24}lu
+Dialogue: 0,0:01:02.73,0:01:04.74,DEFAULT,,0,0,0,,{\r}{\kf24}This{\kf24} Lit{\kf12}tle{\kf24} Hor{\kf24}sey{\kf24} tra{\kf24}veled{\kf24} Pa{\kf21}ris
+Dialogue: 0,0:01:04.88,0:01:06.62,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf23} Lit{\kf12}tle{\kf23} Hor{\kf23}sey{\kf23} Mont{\kf23}re{\kf24}al
+Dialogue: 0,0:01:07.02,0:01:09.03,DEFAULT,,0,0,0,,{\r}{\kf24}This{\kf24} Lit{\kf12}tle{\kf24} Hor{\kf24}sey{\kf24} Bue{\kf24}nos{\kf24} Ai{\kf21}res
+Dialogue: 0,0:01:09.16,0:01:10.90,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf23} Lit{\kf12}tle{\kf23} Hor{\kf23}sey{\kf23} saw{\kf23} it{\kf24} all!
+Dialogue: 0,0:01:11.57,0:01:13.31,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up{\kf24} Up
+Dialogue: 0,0:01:13.71,0:01:15.19,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf17} Up
+Dialogue: 0,0:01:15.86,0:01:17.60,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up{\kf24} Up
+Dialogue: 0,0:01:18.00,0:01:19.47,DEFAULT,,0,0,0,,{\r}{\kf27}Gid{\kf13}dy{\kf27} Up{\kf27} Up,{\kf27} Up{\kf26} Up
+Dialogue: 0,0:01:20.14,0:01:21.88,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up{\kf24} Up
+Dialogue: 0,0:01:22.29,0:01:23.76,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf17} Up
+Dialogue: 0,0:01:24.43,0:01:26.17,DEFAULT,,0,0,0,,{\r}{\kf10}Gid{\kf20}dy{\kf20} Up,{\kf10} Gid{\kf20}dy{\kf20} Up,{\kf10} Gid{\kf20}dy{\kf20} Up{\kf24} Up
+Dialogue: 0,0:01:26.57,0:01:28.05,DEFAULT,,0,0,0,,{\r}{\kf27}Gid{\kf13}dy{\kf27} Up{\kf27} Up,{\kf27} Up{\kf26} Up
+Dialogue: 0,0:01:30.52,0:01:34.47,DEFAULT,,0,0,0,,{\r}{\kf47}Yon{\kf47}kers,{\kf47} Kis{\kf16}sim{\kf16}mee.{\kf47} Hol{\kf16}ly{\kf16}wood,{\kf47} Mil{\kf47}wau{\kf49}kee
+Dialogue: 0,0:01:34.81,0:01:38.63,DEFAULT,,0,0,0,,{\r}{\kf37}Her{\kf37}shey,{\kf37} San{\kf12} An{\kf37}tón.{\kf37} Mon{\kf37}key{\kf37} Is{\kf37}land,{\kf37} rode{\kf37} home
+Dialogue: 0,0:01:39.09,0:01:43.31,DEFAULT,,0,0,0,,{\r}{\kf36}Hong{\kf36} Kong,{\kf36} Tim{\kf36}buk{\kf36}tu.{\kf36} Wag{\kf12}ga{\kf36} Wag{\kf36}ga,{\kf36} Ho{\kf12}no{\kf36}lu{\kf38}lu
+Dialogue: 0,0:01:43.45,0:01:47.33,DEFAULT,,0,0,0,,{\r}{\kf34}Pa{\kf34}ris,{\kf34} Mont{\kf11}re{\kf34}al.{\kf34} Bue{\kf34}nos{\kf34} Ai{\kf34}res,{\kf34} saw{\kf34} it{\kf37} all
+Dialogue: 0,0:01:48.00,0:01:49.47,DEFAULT,,0,0,0,,{\r}{\kf13}Gid{\kf27}dy{\kf40} Up,{\kf13} Gid{\kf27}dy{\kf27} Up,
+Dialogue: 0,0:01:50.14,0:01:52.69,DEFAULT,,0,0,0,,{\r}{\kf10}Gid{\kf20}dy{\kf20} Up{\kf20} Gid{\kf20}dy{\kf20}-dy{\kf20}-dy{\kf20}-dy{\kf20}-dy{\kf20}-dy{\kf20}-dy{\kf20} Up{\kf24} Up
+Dialogue: 0,0:01:52.82,0:01:53.76,DEFAULT,,0,0,0,,{\r}{\kf10}Gid{\kf21}dy{\kf21} Up{\kf21} Up{\kf21} Up
+Dialogue: 0,0:01:53.83,0:01:55.90,DEFAULT,,0,0,0,,{\r}{\kf15}Gid{\kf15}dy{\kf22} Up{\kf30} Up{\kf126} Up...
+Dialogue: 0,0:01:56.30,0:01:58.31,DEFAULT,,0,0,0,,{\r}{\kf24}This{\kf24} Lit{\kf12}tle{\kf24} Hor{\kf24}sey{\kf24} tra{\kf24}veled{\kf24} Yon{\kf21}kers
+Dialogue: 0,0:01:58.45,0:02:00.19,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf23} Lit{\kf12}tle{\kf23} Hor{\kf23}sey{\kf23} Kis{\kf23}sim{\kf24}mee
+Dialogue: 0,0:02:00.59,0:02:02.60,DEFAULT,,0,0,0,,{\r}{\kf24}This{\kf24} Lit{\kf12}tle{\kf24} Hor{\kf24}sey{\kf24} Hol{\kf24}ly{\kf24}wood{\kf21} and
+Dialogue: 0,0:02:02.73,0:02:04.47,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf23} Lit{\kf12}tle{\kf23} Hor{\kf23}sey{\kf23} Mil{\kf23}wau{\kf24}kee
+Dialogue: 0,0:02:04.88,0:02:06.88,DEFAULT,,0,0,0,,{\r}{\kf24}This{\kf24} Lit{\kf12}tle{\kf24} Hor{\kf24}sey{\kf24} tra{\kf24}velled{\kf24} Her{\kf21}shey
+Dialogue: 0,0:02:07.02,0:02:08.76,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf23} Lit{\kf12}tle{\kf23} Hor{\kf23}sey{\kf23} San{\kf23} An{\kf24}tón
+Dialogue: 0,0:02:09.16,0:02:11.17,DEFAULT,,0,0,0,,{\r}{\kf24}This{\kf24} Lit{\kf12}tle{\kf24} Hor{\kf24}sey{\kf24} Mon{\kf24}key{\kf24} Is{\kf21}land
+Dialogue: 0,0:02:11.30,0:02:13.31,DEFAULT,,0,0,0,,{\r}{\kf24}This{\kf24} Lit{\kf12}tle{\kf24} Hor{\kf24}sey{\kf24} rode{\kf69} home
+Dialogue: 0,0:02:13.71,0:02:15.46,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up{\kf24} Up
+Dialogue: 0,0:02:15.86,0:02:17.33,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf17} Up
+Dialogue: 0,0:02:18.00,0:02:19.74,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up{\kf24} Up
+Dialogue: 0,0:02:20.14,0:02:21.62,DEFAULT,,0,0,0,,{\r}{\kf27}Gid{\kf13}dy{\kf27} Up{\kf27} Up,{\kf27} Up{\kf26} Up
+Dialogue: 0,0:02:22.29,0:02:24.03,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up{\kf24} Up
+Dialogue: 0,0:02:24.43,0:02:25.90,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf17} Up
+Dialogue: 0,0:02:26.57,0:02:28.31,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up{\kf24} Up
+Dialogue: 0,0:02:28.71,0:02:30.19,DEFAULT,,0,0,0,,{\r}{\kf27}Gid{\kf13}dy{\kf27} Up{\kf27} Up,{\kf27} Up{\kf26} Up
+Dialogue: 0,0:02:32.73,0:02:34.74,DEFAULT,,0,0,0,,{\r}{\kf24}This{\kf24} Lit{\kf12}tle{\kf24} Hor{\kf24}sey{\kf24} tra{\kf24}veled{\kf24} Hong{\kf21} Kong
+Dialogue: 0,0:02:34.88,0:02:36.62,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf23} Lit{\kf12}tle{\kf23} Hor{\kf23}sey{\kf23} Tim{\kf23}buk{\kf24}tu
+Dialogue: 0,0:02:37.02,0:02:39.03,DEFAULT,,0,0,0,,{\r}{\kf24}This{\kf24} Lit{\kf12}tle{\kf24} Hor{\kf24}sey{\kf24} Wag{\kf24}ga{\kf24} Wag{\kf21}ga
+Dialogue: 0,0:02:39.16,0:02:40.90,DEFAULT,,0,0,0,,{\r}{\kf20}This{\kf20} Lit{\kf10}tle{\kf20} Hor{\kf20}sey{\kf20} Ho{\kf20}no{\kf20}lu{\kf24}lu
+Dialogue: 0,0:02:41.30,0:02:43.31,DEFAULT,,0,0,0,,{\r}{\kf24}This{\kf24} Lit{\kf12}tle{\kf24} Hor{\kf24}sey{\kf24} tra{\kf24}veled{\kf24} Pa{\kf21}ris
+Dialogue: 0,0:02:43.45,0:02:45.19,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf23} Lit{\kf12}tle{\kf23} Hor{\kf23}sey{\kf23} Mont{\kf23}re{\kf24}al
+Dialogue: 0,0:02:45.59,0:02:47.60,DEFAULT,,0,0,0,,{\r}{\kf24}This{\kf24} Lit{\kf12}tle{\kf24} Hor{\kf24}sey{\kf24} Bue{\kf24}nos{\kf24} Ai{\kf21}res
+Dialogue: 0,0:02:47.73,0:02:49.47,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf23} Lit{\kf12}tle{\kf23} Hor{\kf23}sey{\kf23} saw{\kf23} it{\kf24} all!
+Dialogue: 0,0:02:50.14,0:02:51.88,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up{\kf24} Up
+Dialogue: 0,0:02:52.29,0:02:53.76,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf17} Up
+Dialogue: 0,0:02:54.43,0:02:56.17,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up{\kf24} Up
+Dialogue: 0,0:02:56.57,0:02:58.05,DEFAULT,,0,0,0,,{\r}{\kf27}Gid{\kf13}dy{\kf27} Up{\kf27} Up,{\kf27} Up{\kf26} Up
+Dialogue: 0,0:02:58.71,0:03:00.46,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up{\kf24} Up
+Dialogue: 0,0:03:00.86,0:03:02.33,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf17} Up
+Dialogue: 0,0:03:03.00,0:03:04.74,DEFAULT,,0,0,0,,{\r}{\kf10}Gid{\kf20}dy{\kf20} Up,{\kf10} Gid{\kf20}dy{\kf20} Up,{\kf10} Gid{\kf20}dy{\kf20} Up{\kf24} Up
+Dialogue: 0,0:03:05.14,0:03:06.62,DEFAULT,,0,0,0,,{\r}{\kf27}Gid{\kf13}dy{\kf27} Up{\kf27} Up,{\kf27} Up{\kf26} Up
+Dialogue: 0,0:03:07.22,0:03:08.96,DEFAULT,,0,0,0,,{\r}{\kf11}Gid{\kf11}dy{\kf22} Up,{\kf22} Gid{\kf11}dy{\kf22} Up,{\kf22} Gid{\kf11}dy{\kf22} Up{\kf20} Up
+Dialogue: 0,0:03:09.36,0:03:10.84,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf17} Up
+Dialogue: 0,0:03:11.50,0:03:13.25,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up{\kf24} Up
+Dialogue: 0,0:03:13.65,0:03:15.12,DEFAULT,,0,0,0,,{\r}{\kf27}Gid{\kf13}dy{\kf27} Up{\kf27} Up,{\kf27} Up{\kf26} Up
+Dialogue: 0,0:03:15.79,0:03:17.53,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up{\kf24} Up
+Dialogue: 0,0:03:17.93,0:03:19.41,DEFAULT,,0,0,0,,{\r}{\kf20}Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf20} Up,{\kf20} Gid{\kf10}dy{\kf17} Up
+Dialogue: 0,0:03:20.08,0:03:21.82,DEFAULT,,0,0,0,,{\r}{\kf10}Gid{\kf20}dy{\kf20} Up,{\kf10} Gid{\kf20}dy{\kf20} Up,{\kf10} Gid{\kf20}dy{\kf20} Up{\kf24} Up
+Dialogue: 0,0:03:22.22,0:03:23.69,DEFAULT,,0,0,0,,{\r}{\kf27}Gid{\kf13}dy{\kf27} Up{\kf27} Up,{\kf27} Up{\kf26} Up

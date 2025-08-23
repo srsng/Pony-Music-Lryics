@@ -1,103 +1,110 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Let Me Love You
+Artist: ThatMusicBrony
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:29.75,0:00:32.03,DEFAULT,,0,0,0,,{\kf20}I've{\kf16} been{\kf16} cal{\kf20}ling{\kf24} you{\kf12} for{\kf40} days
-Dialogue: 0,0:00:32.27,0:00:34.59,DEFAULT,,0,0,0,,{\kf16}E{\kf20}ver{\kf20} since{\kf20} you{\kf16} left{\kf20} my{\kf44} place
-Dialogue: 0,0:00:34.79,0:00:37.15,DEFAULT,,0,0,0,,{\kf20}Spin{\kf20}ning{\kf20} round{\kf16} and{\kf20} round{\kf16} in{\kf20} cir{\kf16}cles
-Dialogue: 0,0:00:37.31,0:00:39.63,DEFAULT,,0,0,0,,{\kf16}In{\kf16} my{\kf16} mind,{\kf16} I'm{\kf16} in{\kf16} a{\kf44} haze
-Dialogue: 0,0:00:39.87,0:00:42.19,DEFAULT,,0,0,0,,{\kf16}I'd{\kf20} give{\kf20} e{\kf20}very{\kf16}thing{\kf20} a{\kf44}way
-Dialogue: 0,0:00:42.35,0:00:44.67,DEFAULT,,0,0,0,,{\kf20}Just{\kf16} to{\kf20} see{\kf20} your{\kf20} face{\kf20} a{\kf40}gain
-Dialogue: 0,0:00:45.15,0:00:47.59,DEFAULT,,0,0,0,,{\kf24}Some{\kf20}how{\kf20} you're{\kf24} hold{\kf20}ing{\kf20} on{\kf20}to{\kf20} me
-Dialogue: 0,0:00:47.75,0:00:49.83,DEFAULT,,0,0,0,,{\kf12}With{\kf20} e{\kf20}very{\kf20} sin{\kf16}gle{\kf52} gaze
-Dialogue: 0,0:00:50.23,0:00:54.43,DEFAULT,,0,0,0,,{\kf20}I'm{\kf20} caught{\kf20} up{\kf20} in{\kf20} your{\kf20} pho{\kf24}tos{\kf20} and{\kf20} my{\kf32} thoughts{\kf32} of{\kf36} you
-Dialogue: 0,0:00:55.31,0:00:59.55,DEFAULT,,0,0,0,,{\kf20}Why{\kf20} won't{\kf20} you{\kf16} let{\kf20} me{\kf16} love{\kf20} you{\kf20} like{\kf16} you{\kf32} want{\kf29} me{\kf48} to?
-Dialogue: 0,0:01:00.03,0:01:04.51,DEFAULT,,0,0,0,,{\kf20}You've{\kf20} pushed{\kf24} e{\kf24}very{\kf20}thing{\kf24} a{\kf16}way{\kf20} and{\kf20} now{\kf20} I{\kf29} can't{\kf24} get{\kf36} through
-Dialogue: 0,0:01:05.47,0:01:09.55,DEFAULT,,0,0,0,,{\kf20}Why{\kf16} won't{\kf20} you{\kf16} let{\kf20} me{\kf24} love{\kf24} you{\kf20} like{\kf20} you{\kf32} want{\kf24} me{\kf36} to?
-Dialogue: 0,0:01:20.19,0:01:22.63,DEFAULT,,0,0,0,,{\kf24}Now{\kf20} I'm{\kf20} wait{\kf20}ing{\kf16} by{\kf20} the{\kf44} phone
-Dialogue: 0,0:01:22.79,0:01:25.15,DEFAULT,,0,0,0,,{\kf16}While{\kf16} you're{\kf16} out{\kf16} there{\kf20} all{\kf20} a{\kf44}lone
-Dialogue: 0,0:01:25.63,0:01:27.39,DEFAULT,,0,0,0,,{\kf16}What{\kf16} is{\kf20} it{\kf20} that{\kf16} I've{\kf16} done
-Dialogue: 0,0:01:27.55,0:01:30.23,DEFAULT,,0,0,0,,{\kf16}To{\kf16} make{\kf16} you{\kf16} feel{\kf20} the{\kf16} need{\kf16} to{\kf48} go?
-Dialogue: 0,0:01:30.67,0:01:32.71,DEFAULT,,0,0,0,,{\kf16}Be{\kf16}fore{\kf16} I'm{\kf16} left{\kf20} with{\kf20}out{\kf16} you
-Dialogue: 0,0:01:32.87,0:01:35.19,DEFAULT,,0,0,0,,{\kf20}I{\kf20} just{\kf20} need{\kf20} to{\kf16} let{\kf16} you{\kf40} know
-Dialogue: 0,0:01:35.71,0:01:38.11,DEFAULT,,0,0,0,,{\kf20}With{\kf20}out{\kf16} your{\kf20} pre{\kf20}sence{\kf20} in{\kf20} my{\kf16} life
-Dialogue: 0,0:01:38.27,0:01:40.35,DEFAULT,,0,0,0,,{\kf16}I{\kf16} feel{\kf16} like{\kf16} I'm{\kf20} not{\kf52} home
-Dialogue: 0,0:01:40.79,0:01:44.95,DEFAULT,,0,0,0,,{\kf20}I'm{\kf20} caught{\kf20} up{\kf20} in{\kf20} your{\kf20} pho{\kf24}tos{\kf20} and{\kf20} my{\kf32} thoughts{\kf32} of{\kf36} you
-Dialogue: 0,0:01:45.83,0:01:50.07,DEFAULT,,0,0,0,,{\kf20}Why{\kf20} won't{\kf20} you{\kf16} let{\kf20} me{\kf16} love{\kf20} you{\kf20} like{\kf16} you{\kf32} want{\kf24} me{\kf48} to?
-Dialogue: 0,0:01:50.55,0:01:55.03,DEFAULT,,0,0,0,,{\kf20}You've{\kf20} pushed{\kf24} e{\kf24}very{\kf20}thing{\kf24} a{\kf16}way{\kf20} and{\kf20} now{\kf20} I{\kf29} can't{\kf24} get{\kf36} through
-Dialogue: 0,0:01:55.99,0:02:00.07,DEFAULT,,0,0,0,,{\kf20}Why{\kf16} won't{\kf20} you{\kf16} let{\kf20} me{\kf24} love{\kf24} you{\kf20} like{\kf20} you{\kf32} want{\kf24} me{\kf36} to?
-Dialogue: 0,0:02:01.31,0:02:01.83,DEFAULT,,0,0,0,,{\kf24}Love{\kf20} you
-Dialogue: 0,0:02:02.03,0:02:02.47,DEFAULT,,0,0,0,,{\kf16}Love{\kf16} you
-Dialogue: 0,0:02:02.63,0:02:03.07,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:03.23,0:02:03.71,DEFAULT,,0,0,0,,{\kf20}Love{\kf20} you
-Dialogue: 0,0:02:03.87,0:02:04.35,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:04.51,0:02:04.95,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:05.11,0:02:05.59,DEFAULT,,0,0,0,,{\kf20}Love{\kf20} you
-Dialogue: 0,0:02:05.75,0:02:06.19,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:06.35,0:02:06.87,DEFAULT,,0,0,0,,{\kf24}Love{\kf20} you
-Dialogue: 0,0:02:07.07,0:02:07.51,DEFAULT,,0,0,0,,{\kf16}Love{\kf16} you
-Dialogue: 0,0:02:07.67,0:02:08.11,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:08.27,0:02:08.75,DEFAULT,,0,0,0,,{\kf20}Love{\kf20} you
-Dialogue: 0,0:02:08.91,0:02:09.39,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:09.55,0:02:09.99,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:10.15,0:02:10.63,DEFAULT,,0,0,0,,{\kf20}Love{\kf20} you
-Dialogue: 0,0:02:10.79,0:02:11.23,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:11.39,0:02:11.91,DEFAULT,,0,0,0,,{\kf24}Love{\kf20} you
-Dialogue: 0,0:02:12.11,0:02:12.55,DEFAULT,,0,0,0,,{\kf16}Love{\kf16} you
-Dialogue: 0,0:02:12.71,0:02:13.15,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:13.31,0:02:13.79,DEFAULT,,0,0,0,,{\kf20}Love{\kf20} you
-Dialogue: 0,0:02:13.95,0:02:14.43,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:14.59,0:02:15.03,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:15.19,0:02:15.67,DEFAULT,,0,0,0,,{\kf20}Love{\kf20} you
-Dialogue: 0,0:02:15.83,0:02:16.31,DEFAULT,,0,0,0,,{\kf20}Love{\kf20} you
-Dialogue: 0,0:02:16.47,0:02:16.99,DEFAULT,,0,0,0,,{\kf24}Love{\kf20} you
-Dialogue: 0,0:02:17.19,0:02:17.63,DEFAULT,,0,0,0,,{\kf16}Love{\kf16} you
-Dialogue: 0,0:02:17.79,0:02:18.23,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:18.39,0:02:18.87,DEFAULT,,0,0,0,,{\kf20}Love{\kf20} you
-Dialogue: 0,0:02:19.03,0:02:19.51,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:19.67,0:02:20.11,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:20.27,0:02:20.75,DEFAULT,,0,0,0,,{\kf20}Love{\kf20} you
-Dialogue: 0,0:02:20.91,0:02:21.35,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:21.51,0:02:22.03,DEFAULT,,0,0,0,,{\kf24}Love{\kf20} you
-Dialogue: 0,0:02:22.23,0:02:22.67,DEFAULT,,0,0,0,,{\kf16}Love{\kf16} you
-Dialogue: 0,0:02:22.83,0:02:23.27,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:23.43,0:02:23.91,DEFAULT,,0,0,0,,{\kf20}Love{\kf20} you
-Dialogue: 0,0:02:24.07,0:02:24.55,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:24.71,0:02:25.15,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:25.31,0:02:25.79,DEFAULT,,0,0,0,,{\kf20}Love{\kf20} you
-Dialogue: 0,0:02:25.95,0:02:26.39,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:26.55,0:02:27.07,DEFAULT,,0,0,0,,{\kf24}Love{\kf20} you
-Dialogue: 0,0:02:27.27,0:02:27.71,DEFAULT,,0,0,0,,{\kf16}Love{\kf16} you
-Dialogue: 0,0:02:27.87,0:02:28.31,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:28.47,0:02:28.95,DEFAULT,,0,0,0,,{\kf20}Love{\kf20} you
-Dialogue: 0,0:02:29.11,0:02:29.59,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:29.75,0:02:30.19,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:30.35,0:02:30.83,DEFAULT,,0,0,0,,{\kf20}Love{\kf20} you
-Dialogue: 0,0:02:30.99,0:02:31.43,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:31.59,0:02:32.11,DEFAULT,,0,0,0,,{\kf24}Love{\kf20} you
-Dialogue: 0,0:02:32.31,0:02:32.75,DEFAULT,,0,0,0,,{\kf16}Love{\kf16} you
-Dialogue: 0,0:02:32.91,0:02:33.35,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:33.51,0:02:33.99,DEFAULT,,0,0,0,,{\kf20}Love{\kf20} you
-Dialogue: 0,0:02:34.15,0:02:34.63,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:34.79,0:02:35.23,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:35.39,0:02:35.87,DEFAULT,,0,0,0,,{\kf20}Love{\kf20} you
-Dialogue: 0,0:02:36.03,0:02:36.51,DEFAULT,,0,0,0,,{\kf20}Love{\kf20} you
-Dialogue: 0,0:02:36.67,0:02:37.19,DEFAULT,,0,0,0,,{\kf24}Love{\kf20} you
-Dialogue: 0,0:02:37.39,0:02:37.83,DEFAULT,,0,0,0,,{\kf16}Love{\kf16} you
-Dialogue: 0,0:02:37.99,0:02:38.43,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:38.59,0:02:39.07,DEFAULT,,0,0,0,,{\kf20}Love{\kf20} you
-Dialogue: 0,0:02:39.23,0:02:39.71,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:39.87,0:02:40.31,DEFAULT,,0,0,0,,{\kf20}Love{\kf16} you
-Dialogue: 0,0:02:40.47,0:02:40.95,DEFAULT,,0,0,0,,{\kf20}Love{\kf20} you
-Dialogue: 0,0:02:41.11,0:02:41.27,DEFAULT,,0,0,0,,{\kf8}Love{\kf4} you
-Dialogue: 0,0:02:41.39,0:02:45.59,DEFAULT,,0,0,0,,{\kf20}I'm{\kf20} caught{\kf20} up{\kf20} in{\kf20} your{\kf20} pho{\kf24}tos{\kf20} and{\kf20} my{\kf32} thoughts{\kf32} of{\kf36} you
-Dialogue: 0,0:02:46.47,0:02:50.71,DEFAULT,,0,0,0,,{\kf20}Why{\kf20} won't{\kf20} you{\kf16} let{\kf20} me{\kf16} love{\kf20} you{\kf20} like{\kf16} you{\kf32} want{\kf29} me{\kf48} to?
-Dialogue: 0,0:02:51.19,0:02:55.67,DEFAULT,,0,0,0,,{\kf20}You've{\kf20} pushed{\kf24} e{\kf24}very{\kf20}thing{\kf24} a{\kf16}way{\kf20} and{\kf20} now{\kf20} I{\kf29} can't{\kf24} get{\kf36} through
-Dialogue: 0,0:02:56.63,0:03:00.71,DEFAULT,,0,0,0,,{\kf20}Why{\kf16} won't{\kf20} you{\kf16} let{\kf20} me{\kf24} love{\kf24} you{\kf20} like{\kf20} you{\kf32} want{\kf24} me{\kf36} to?
+Dialogue: 0,0:00:29.75,0:00:32.03,DEFAULT,,0,0,0,,{\r}{\kf31}I've{\kf25} been{\kf25} cal{\kf31}ling{\kf37} you{\kf18} for{\kf61} days
+Dialogue: 0,0:00:32.27,0:00:34.59,DEFAULT,,0,0,0,,{\r}{\kf24}E{\kf30}ver{\kf30} since{\kf30} you{\kf24} left{\kf30} my{\kf64} place
+Dialogue: 0,0:00:34.79,0:00:37.15,DEFAULT,,0,0,0,,{\r}{\kf32}Spin{\kf32}ning{\kf32} round{\kf26} and{\kf32} round{\kf26} in{\kf32} cir{\kf24}cles
+Dialogue: 0,0:00:37.31,0:00:39.63,DEFAULT,,0,0,0,,{\r}{\kf27}In{\kf27} my{\kf27} mind,{\kf27} I'm{\kf27} in{\kf27} a{\kf70} haze
+Dialogue: 0,0:00:39.87,0:00:42.19,DEFAULT,,0,0,0,,{\r}{\kf24}I'd{\kf30} give{\kf30} e{\kf30}very{\kf24}thing{\kf30} a{\kf64}way
+Dialogue: 0,0:00:42.35,0:00:44.67,DEFAULT,,0,0,0,,{\r}{\kf30}Just{\kf24} to{\kf30} see{\kf30} your{\kf30} face{\kf30} a{\kf58}gain
+Dialogue: 0,0:00:45.15,0:00:47.59,DEFAULT,,0,0,0,,{\r}{\kf35}Some{\kf29}how{\kf29} you're{\kf35} hold{\kf29}ing{\kf29} on{\kf29}to{\kf29} me
+Dialogue: 0,0:00:47.75,0:00:49.83,DEFAULT,,0,0,0,,{\r}{\kf18}With{\kf30} e{\kf30}very{\kf30} sin{\kf24}gle{\kf76} gaze
+Dialogue: 0,0:00:50.23,0:00:54.43,DEFAULT,,0,0,0,,{\r}{\kf30}I'm{\kf30} caught{\kf30} up{\kf30} in{\kf30} your{\kf30} pho{\kf35}tos{\kf30} and{\kf30} my{\kf47} thoughts{\kf47} of{\kf51} you
+Dialogue: 0,0:00:55.31,0:00:59.55,DEFAULT,,0,0,0,,{\r}{\kf31}Why{\kf31} won't{\kf31} you{\kf25} let{\kf31} me{\kf25} love{\kf31} you{\kf31} like{\kf25} you{\kf49} want{\kf43} me{\kf71} to?
+Dialogue: 0,0:01:00.03,0:01:04.51,DEFAULT,,0,0,0,,{\r}{\kf30}You've{\kf30} pushed{\kf36} e{\kf36}very{\kf30}thing{\kf36} a{\kf24}way{\kf30} and{\kf30} now{\kf30} I{\kf42} can't{\kf36} get{\kf58} through
+Dialogue: 0,0:01:05.47,0:01:09.55,DEFAULT,,0,0,0,,{\r}{\kf30}Why{\kf24} won't{\kf30} you{\kf24} let{\kf30} me{\kf36} love{\kf36} you{\kf30} like{\kf30} you{\kf48} want{\kf36} me{\kf54} to?
+Dialogue: 0,0:01:20.19,0:01:22.63,DEFAULT,,0,0,0,,{\r}{\kf36}Now{\kf30} I'm{\kf30} wait{\kf30}ing{\kf24} by{\kf30} the{\kf64} phone
+Dialogue: 0,0:01:22.79,0:01:25.15,DEFAULT,,0,0,0,,{\r}{\kf26}While{\kf26} you're{\kf26} out{\kf26} there{\kf32} all{\kf32} a{\kf68}lone
+Dialogue: 0,0:01:25.63,0:01:27.39,DEFAULT,,0,0,0,,{\r}{\kf27}What{\kf27} is{\kf34} it{\kf34} that{\kf27} I've{\kf27} done
+Dialogue: 0,0:01:27.55,0:01:30.23,DEFAULT,,0,0,0,,{\r}{\kf26}To{\kf26} make{\kf26} you{\kf26} feel{\kf33} the{\kf26} need{\kf26} to{\kf79} go?
+Dialogue: 0,0:01:30.67,0:01:32.71,DEFAULT,,0,0,0,,{\r}{\kf27}Be{\kf27}fore{\kf27} I'm{\kf27} left{\kf34} with{\kf34}out{\kf28} you
+Dialogue: 0,0:01:32.87,0:01:35.19,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf31} just{\kf31} need{\kf31} to{\kf24} let{\kf24} you{\kf60} know
+Dialogue: 0,0:01:35.71,0:01:38.11,DEFAULT,,0,0,0,,{\r}{\kf32}With{\kf32}out{\kf25} your{\kf32} pre{\kf32}sence{\kf32} in{\kf32} my{\kf23} life
+Dialogue: 0,0:01:38.27,0:01:40.35,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} feel{\kf24} like{\kf24} I'm{\kf31} not{\kf81} home
+Dialogue: 0,0:01:40.79,0:01:44.95,DEFAULT,,0,0,0,,{\r}{\kf29}I'm{\kf29} caught{\kf29} up{\kf29} in{\kf29} your{\kf29} pho{\kf35}tos{\kf29} and{\kf29} my{\kf47} thoughts{\kf47} of{\kf55} you
+Dialogue: 0,0:01:45.83,0:01:50.07,DEFAULT,,0,0,0,,{\r}{\kf31}Why{\kf31} won't{\kf31} you{\kf25} let{\kf31} me{\kf25} love{\kf31} you{\kf31} like{\kf25} you{\kf50} want{\kf37} me{\kf76} to?
+Dialogue: 0,0:01:50.55,0:01:55.03,DEFAULT,,0,0,0,,{\r}{\kf30}You've{\kf30} pushed{\kf36} e{\kf36}very{\kf30}thing{\kf36} a{\kf24}way{\kf30} and{\kf30} now{\kf30} I{\kf42} can't{\kf36} get{\kf58} through
+Dialogue: 0,0:01:55.99,0:02:00.07,DEFAULT,,0,0,0,,{\r}{\kf30}Why{\kf24} won't{\kf30} you{\kf24} let{\kf30} me{\kf36} love{\kf36} you{\kf30} like{\kf30} you{\kf48} want{\kf36} me{\kf54} to?
+Dialogue: 0,0:02:01.31,0:02:01.83,DEFAULT,,0,0,0,,{\r}{\kf28}Love{\kf24} you
+Dialogue: 0,0:02:02.03,0:02:02.47,DEFAULT,,0,0,0,,{\r}{\kf22}Love{\kf22} you
+Dialogue: 0,0:02:02.63,0:02:03.07,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf20} you
+Dialogue: 0,0:02:03.23,0:02:03.71,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf24} you
+Dialogue: 0,0:02:03.87,0:02:04.35,DEFAULT,,0,0,0,,{\r}{\kf27}Love{\kf21} you
+Dialogue: 0,0:02:04.51,0:02:04.95,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf20} you
+Dialogue: 0,0:02:05.11,0:02:05.59,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf24} you
+Dialogue: 0,0:02:05.75,0:02:06.19,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf20} you
+Dialogue: 0,0:02:06.35,0:02:06.87,DEFAULT,,0,0,0,,{\r}{\kf28}Love{\kf24} you
+Dialogue: 0,0:02:07.07,0:02:07.51,DEFAULT,,0,0,0,,{\r}{\kf22}Love{\kf22} you
+Dialogue: 0,0:02:07.67,0:02:08.11,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf20} you
+Dialogue: 0,0:02:08.27,0:02:08.75,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf24} you
+Dialogue: 0,0:02:08.91,0:02:09.39,DEFAULT,,0,0,0,,{\r}{\kf27}Love{\kf21} you
+Dialogue: 0,0:02:09.55,0:02:09.99,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf20} you
+Dialogue: 0,0:02:10.15,0:02:10.63,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf24} you
+Dialogue: 0,0:02:10.79,0:02:11.23,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf20} you
+Dialogue: 0,0:02:11.39,0:02:11.91,DEFAULT,,0,0,0,,{\r}{\kf28}Love{\kf24} you
+Dialogue: 0,0:02:12.11,0:02:12.55,DEFAULT,,0,0,0,,{\r}{\kf22}Love{\kf22} you
+Dialogue: 0,0:02:12.71,0:02:13.15,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf20} you
+Dialogue: 0,0:02:13.31,0:02:13.79,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf24} you
+Dialogue: 0,0:02:13.95,0:02:14.43,DEFAULT,,0,0,0,,{\r}{\kf27}Love{\kf21} you
+Dialogue: 0,0:02:14.59,0:02:15.03,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf20} you
+Dialogue: 0,0:02:15.19,0:02:15.67,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf24} you
+Dialogue: 0,0:02:15.83,0:02:16.31,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf24} you
+Dialogue: 0,0:02:16.47,0:02:16.99,DEFAULT,,0,0,0,,{\r}{\kf28}Love{\kf24} you
+Dialogue: 0,0:02:17.19,0:02:17.63,DEFAULT,,0,0,0,,{\r}{\kf22}Love{\kf22} you
+Dialogue: 0,0:02:17.79,0:02:18.23,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf20} you
+Dialogue: 0,0:02:18.39,0:02:18.87,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf24} you
+Dialogue: 0,0:02:19.03,0:02:19.51,DEFAULT,,0,0,0,,{\r}{\kf27}Love{\kf21} you
+Dialogue: 0,0:02:19.67,0:02:20.11,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf20} you
+Dialogue: 0,0:02:20.27,0:02:20.75,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf24} you
+Dialogue: 0,0:02:20.91,0:02:21.35,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf20} you
+Dialogue: 0,0:02:21.51,0:02:22.03,DEFAULT,,0,0,0,,{\r}{\kf28}Love{\kf24} you
+Dialogue: 0,0:02:22.23,0:02:22.67,DEFAULT,,0,0,0,,{\r}{\kf22}Love{\kf22} you
+Dialogue: 0,0:02:22.83,0:02:23.27,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf20} you
+Dialogue: 0,0:02:23.43,0:02:23.91,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf24} you
+Dialogue: 0,0:02:24.07,0:02:24.55,DEFAULT,,0,0,0,,{\r}{\kf27}Love{\kf21} you
+Dialogue: 0,0:02:24.71,0:02:25.15,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf20} you
+Dialogue: 0,0:02:25.31,0:02:25.79,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf24} you
+Dialogue: 0,0:02:25.95,0:02:26.39,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf20} you
+Dialogue: 0,0:02:26.55,0:02:27.07,DEFAULT,,0,0,0,,{\r}{\kf28}Love{\kf24} you
+Dialogue: 0,0:02:27.27,0:02:27.71,DEFAULT,,0,0,0,,{\r}{\kf22}Love{\kf22} you
+Dialogue: 0,0:02:27.87,0:02:28.31,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf20} you
+Dialogue: 0,0:02:28.47,0:02:28.95,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf24} you
+Dialogue: 0,0:02:29.11,0:02:29.59,DEFAULT,,0,0,0,,{\r}{\kf27}Love{\kf21} you
+Dialogue: 0,0:02:29.75,0:02:30.19,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf20} you
+Dialogue: 0,0:02:30.35,0:02:30.83,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf24} you
+Dialogue: 0,0:02:30.99,0:02:31.43,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf20} you
+Dialogue: 0,0:02:31.59,0:02:32.11,DEFAULT,,0,0,0,,{\r}{\kf28}Love{\kf24} you
+Dialogue: 0,0:02:32.31,0:02:32.75,DEFAULT,,0,0,0,,{\r}{\kf22}Love{\kf22} you
+Dialogue: 0,0:02:32.91,0:02:33.35,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf20} you
+Dialogue: 0,0:02:33.51,0:02:33.99,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf24} you
+Dialogue: 0,0:02:34.15,0:02:34.63,DEFAULT,,0,0,0,,{\r}{\kf27}Love{\kf21} you
+Dialogue: 0,0:02:34.79,0:02:35.23,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf20} you
+Dialogue: 0,0:02:35.39,0:02:35.87,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf24} you
+Dialogue: 0,0:02:36.03,0:02:36.51,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf24} you
+Dialogue: 0,0:02:36.67,0:02:37.19,DEFAULT,,0,0,0,,{\r}{\kf28}Love{\kf24} you
+Dialogue: 0,0:02:37.39,0:02:37.83,DEFAULT,,0,0,0,,{\r}{\kf22}Love{\kf22} you
+Dialogue: 0,0:02:37.99,0:02:38.43,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf20} you
+Dialogue: 0,0:02:38.59,0:02:39.07,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf24} you
+Dialogue: 0,0:02:39.23,0:02:39.71,DEFAULT,,0,0,0,,{\r}{\kf27}Love{\kf21} you
+Dialogue: 0,0:02:39.87,0:02:40.31,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf20} you
+Dialogue: 0,0:02:40.47,0:02:40.95,DEFAULT,,0,0,0,,{\r}{\kf24}Love{\kf24} you
+Dialogue: 0,0:02:41.11,0:02:41.27,DEFAULT,,0,0,0,,{\r}{\kf11}Love{\kf10} you
+Dialogue: 0,0:02:41.39,0:02:45.59,DEFAULT,,0,0,0,,{\r}{\kf30}I'm{\kf30} caught{\kf30} up{\kf30} in{\kf30} your{\kf30} pho{\kf35}tos{\kf30} and{\kf30} my{\kf47} thoughts{\kf47} of{\kf51} you
+Dialogue: 0,0:02:46.47,0:02:50.71,DEFAULT,,0,0,0,,{\r}{\kf31}Why{\kf31} won't{\kf31} you{\kf25} let{\kf31} me{\kf25} love{\kf31} you{\kf31} like{\kf25} you{\kf49} want{\kf43} me{\kf71} to?
+Dialogue: 0,0:02:51.19,0:02:55.67,DEFAULT,,0,0,0,,{\r}{\kf30}You've{\kf30} pushed{\kf36} e{\kf36}very{\kf30}thing{\kf36} a{\kf24}way{\kf30} and{\kf30} now{\kf30} I{\kf42} can't{\kf36} get{\kf58} through
+Dialogue: 0,0:02:56.63,0:03:00.71,DEFAULT,,0,0,0,,{\r}{\kf30}Why{\kf24} won't{\kf30} you{\kf24} let{\kf30} me{\kf36} love{\kf36} you{\kf30} like{\kf30} you{\kf48} want{\kf36} me{\kf54} to?

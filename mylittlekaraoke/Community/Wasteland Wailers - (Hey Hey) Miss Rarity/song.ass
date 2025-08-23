@@ -1,57 +1,64 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: (Hey Hey) Miss Rarity
+Artist: Wasteland Wailers
+Original Timing: mylittlekaraoke.com by Dex
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:18.93,0:00:21.14,DEFAULT,,0,0,0,,{\kf22}Peo{\kf13}ple{\kf29} say{\kf32} real{\kf38} fash{\kf50}ion
-Dialogue: 0,0:00:22.98,0:00:25.79,DEFAULT,,0,0,0,,{\kf19}Was{\kf16} a{\kf19} fos{\kf38}sil{\kf29} dead{\kf44}~{\kf13} and{\kf60} gone
-Dialogue: 0,0:00:26.88,0:00:32.87,DEFAULT,,0,0,0,,{\kf25}Saw{\kf16} your{\kf25} work{\kf22} and{\kf13} it’s{\kf22} safe{\kf41}~{\kf16} to{\kf44} say{\kf19} that{\kf19} you’ve{\kf19} proved{\kf63}~{\kf19} them{\kf22}~{\kf69} wrong
-Dialogue: 0,0:00:34.92,0:00:37.95,DEFAULT,,0,0,0,,{\kf19}Stit{\kf19}ching{\kf22} fit{\kf19} for{\kf16} a{\kf13} prin{\kf25}~{\kf41}cess{\kf75} gown
-Dialogue: 0,0:00:38.89,0:00:42.28,DEFAULT,,0,0,0,,{\kf25}Suits{\kf22} that{\kf22} turn{\kf13} the{\kf25} world{\kf25} up{\kf29}side{\kf25}~{\kf47} down{\kf60}~
-Dialogue: 0,0:00:42.94,0:00:49.74,DEFAULT,,0,0,0,,{\kf19}Don’t{\kf25} sup{\kf47}pose{\kf22} you’ve{\kf38} had{\kf25} cus{\kf19}to{\kf41}mers{\kf19} with{\kf32} my{\kf29} spi{\kf119}~{\kf19}ky{\kf156} crown?
-Dialogue: 0,0:00:50.49,0:00:58.10,DEFAULT,,0,0,0,,{\kf16}You{\kf38}~{\kf75} star{\kf41}ted{\kf66} wor{\kf85}king,{\kf41} and{\kf25} when{\kf35} you{\kf19} were{\kf32}~{\kf41} through{\kf22}~{\kf94}~
-Dialogue: 0,0:00:58.50,0:01:01.65,DEFAULT,,0,0,0,,{\kf13}Now{\kf47}~{\kf38} I’m{\kf19} just{\kf41}~{\kf25} one{\kf35} more{\kf50} boy
-Dialogue: 0,0:01:01.93,0:01:05.21,DEFAULT,,0,0,0,,{\kf19}In{\kf16} your{\kf25} mi{\kf19}le{\kf19}~{\kf41} long{\kf54} crush{\kf75} queue
-Dialogue: 0,0:01:06.45,0:01:10.45,DEFAULT,,0,0,0,,{\kf16}Hey{\kf44}~{\kf47} Hey{\kf47} Ms.{\kf41} Ra{\kf44}ri{\kf44}ty{\kf22} I{\kf22} know{\kf22} you
-Dialogue: 0,0:01:10.94,0:01:13.60,DEFAULT,,0,0,0,,{\kf22}Don’t{\kf19} e{\kf25}xac{\kf16}tly{\kf19} have{\kf38} time{\kf16} for{\kf25}~{\kf41} me
-Dialogue: 0,0:01:13.72,0:01:17.12,DEFAULT,,0,0,0,,{\kf22}But{\kf16} if{\kf16} the{\kf44} fate’s{\kf32} let{\kf35} us{\kf44} make{\kf44} con{\kf47}tact
-Dialogue: 0,0:01:17.74,0:01:22.17,DEFAULT,,0,0,0,,{\kf16}I’ll{\kf19} be{\kf25} your{\kf19} A-{\kf32} List{\kf38} date{\kf25} just{\kf22} like{\kf35} all{\kf22} of{\kf19} your{\kf35} con{\kf22}tracts{\kf25}~
-Dialogue: 0,0:01:22.98,0:01:25.88,DEFAULT,,0,0,0,,{\kf16}May{\kf19}be{\kf38} hold{\kf19} your{\kf44} hoof{\kf22} a{\kf16}fter{\kf41} din{\kf19}ner
-Dialogue: 0,0:01:26.16,0:01:28.81,DEFAULT,,0,0,0,,{\kf16}You’ll{\kf25} smile{\kf16}~{\kf22} back{\kf44} at{\kf16} me{\kf19} and{\kf66} then,
-Dialogue: 0,0:01:29.97,0:01:31.71,DEFAULT,,0,0,0,,{\kf16}Di{\kf19}let{\kf22}tantes{\kf16} would{\kf19} all{\kf50} talk
-Dialogue: 0,0:01:32.18,0:01:34.96,DEFAULT,,0,0,0,,{\kf16}The{\kf25} crème{\kf13} de{\kf16} la{\kf35} crème{\kf25} would{\kf16} all{\kf22} tell{\kf22}~{\kf29}~
-Dialogue: 0,0:01:35.96,0:01:42.29,DEFAULT,,0,0,0,,{\kf22}That{\kf22} I’m{\kf22} out{\kf22} with{\kf22} Ms.{\kf38} Ra{\kf22}ri{\kf22}ty{\kf406} Belle
-Dialogue: 0,0:01:46.90,0:01:49.52,DEFAULT,,0,0,0,,{\kf25}Some{\kf38}day,{\kf22} if{\kf19} you’re{\kf29} in{\kf88} town
-Dialogue: 0,0:01:50.96,0:01:54.08,DEFAULT,,0,0,0,,{\kf22}We’ll{\kf22} hit{\kf16} up,{\kf19} Flim{\kf16} and{\kf41} Flam’s{\kf41} fair{\kf13}grounds{\kf72}~
-Dialogue: 0,0:01:54.73,0:02:01.03,DEFAULT,,0,0,0,,{\kf13}The{\kf19} days{\kf16} of{\kf29} sum{\kf19}mer{\kf16} would{\kf16} fly{\kf25}~{\kf19} by{\kf16} as{\kf38} we{\kf44} just{\kf82} bummed{\kf19} a{\kf85}round
-Dialogue: 0,0:02:02.96,0:02:05.71,DEFAULT,,0,0,0,,{\kf19}Laugh{\kf22}ing{\kf19} at{\kf22} stu{\kf22}pid{\kf29} in{\kf41}side{\kf54} jokes
-Dialogue: 0,0:02:06.96,0:02:10.14,DEFAULT,,0,0,0,,{\kf19}May{\kf16}be{\kf22} wal{\kf19}king{\kf16} too{\kf47} slow{\kf38} or{\kf35} too{\kf47} close
-Dialogue: 0,0:02:10.73,0:02:17.25,DEFAULT,,0,0,0,,{\kf19}And{\kf19} if{\kf16} your{\kf47} sis{\kf19}ter{\kf47} sees{\kf38} us{\kf32} there{\kf22} un{\kf29}der{\kf19} Star{\kf85}~{\kf57}swirl’s{\kf100} Oaks
-Dialogue: 0,0:02:17.68,0:02:25.82,DEFAULT,,0,0,0,,{\kf16}She’ll{\kf22} say{\kf19}~{\kf16} "My{\kf35}~{\kf66} sis{\kf41}ter{\kf60} thinks{\kf75} she’s{\kf47} parked{\kf22} your{\kf50} tail{\kf19} and{\kf29}~{\kf69} locked{\kf66} it,
-Dialogue: 0,0:02:26.42,0:02:33.65,DEFAULT,,0,0,0,,{\kf41}Dont{\kf19}cha{\kf50} think{\kf19} a{\kf16}bout{\kf16}~{\kf22} run{\kf54}ning{\kf50} off,{\kf25} with{\kf38} her{\kf57} heart{\kf16} in{\kf19} your{\kf47} poc{\kf19}ket{\kf78}~"
-Dialogue: 0,0:02:34.46,0:02:38.45,DEFAULT,,0,0,0,,{\kf16}Hey{\kf47}~{\kf44} hey{\kf35} there{\kf50} Swee{\kf47}tie{\kf47} Belle,{\kf19} I{\kf22} pro{\kf25}mise
-Dialogue: 0,0:02:38.92,0:02:41.57,DEFAULT,,0,0,0,,{\kf25}When{\kf22} we’re{\kf22} out{\kf38} I’m{\kf47} ner{\kf25}vous{\kf19} as{\kf38} hell
-Dialogue: 0,0:02:41.88,0:02:45.13,DEFAULT,,0,0,0,,{\kf19}She’s{\kf25} so{\kf41} down{\kf22} to{\kf41} earth{\kf38} and{\kf41} char{\kf44}ming
-Dialogue: 0,0:02:45.97,0:02:50.15,DEFAULT,,0,0,0,,{\kf13}Does{\kf22} she{\kf19} know{\kf22} she’s{\kf16} world{\kf47} fa{\kf19}mous?{\kf16} It’s{\kf25} kin{\kf19}da{\kf19} dis{\kf41}ar{\kf19}ming{\kf25}~
-Dialogue: 0,0:02:50.93,0:02:56.95,DEFAULT,,0,0,0,,{\kf16}I’ll{\kf22} stay{\kf25} with{\kf19} her{\kf25} as{\kf47} long{\kf19} as{\kf19} I{\kf44} can{\kf22} but,{\kf19} com{\kf19}pared{\kf25}~{\kf19} to{\kf22} Mane{\kf47}hat{\kf19}tan’s{\kf35} screen{\kf54} gems
-Dialogue: 0,0:02:57.88,0:03:03.03,DEFAULT,,0,0,0,,{\kf29}She’s{\kf19} more{\kf25} lik{\kf22}ely{\kf19} to{\kf50} be{\kf22} get{\kf19}ting{\kf19} tired{\kf25}~{\kf22} of{\kf38} me,{\kf16} but{\kf22} till{\kf13} then{\kf29}~{\kf38}~
-Dialogue: 0,0:03:03.68,0:03:06.15,DEFAULT,,0,0,0,,{\kf13}I’m{\kf22} still{\kf19} cra{\kf22}~{\kf22}zy{\kf22} ‘bout{\kf44} Ra{\kf22}ri{\kf19}ty
-Dialogue: 0,0:03:06.46,0:03:07.77,DEFAULT,,0,0,0,,{\kf16}Her{\kf38} and{\kf60} me
-Dialogue: 0,0:03:08.17,0:03:09.76,DEFAULT,,0,0,0,,{\kf19}Just{\kf29} fit{\kf16} you{\kf63} see
-Dialogue: 0,0:03:10.17,0:03:13.76,DEFAULT,,0,0,0,,{\kf13}When{\kf22} she{\kf22} lets{\kf22} me{\kf38} in{\kf19} to{\kf16} the{\kf32} deep{\kf32} blue{\kf57} sea
-Dialogue: 0,0:03:14.19,0:03:18.03,DEFAULT,,0,0,0,,{\kf35}Of{\kf41} her{\kf54} eyes,{\kf19} it’s{\kf38} pa{\kf22}ra{\kf38}ly{\kf35}zing
-Dialogue: 0,0:03:18.22,0:03:21.09,DEFAULT,,0,0,0,,{\kf13}I{\kf16} phy{\kf29}si{\kf32}cally{\kf35} can’t{\kf47} leave{\kf41} her
-Dialogue: 0,0:03:21.80,0:03:26.48,DEFAULT,,0,0,0,,{\kf13}And{\kf16} at{\kf16} the{\kf22} risk{\kf16} of{\kf19} be{\kf25}ing{\kf41} called{\kf19} a{\kf44} drea{\kf178}mer…
-Dialogue: 0,0:03:28.45,0:03:32.31,DEFAULT,,0,0,0,,{\kf16}Hey{\kf44}~{\kf35} Hey{\kf38} Ms.{\kf44} Ra{\kf44}ri{\kf41}ty{\kf19} you{\kf22} know{\kf16} you’ll
-Dialogue: 0,0:03:32.94,0:03:39.11,DEFAULT,,0,0,0,,{\kf22}Ne{\kf19}ver{\kf22} have{\kf19} to{\kf19} per{\kf41}form{\kf22} for{\kf19}~{\kf38} me,{\kf16} if{\kf16} you’re{\kf47} fee{\kf25}ling{\kf41} beat{\kf35} and{\kf41} ti{\kf47}red
-Dialogue: 0,0:03:39.92,0:03:44.23,DEFAULT,,0,0,0,,{\kf22}From{\kf16} a{\kf22} long{\kf19} day{\kf16} of{\kf29} stit{\kf25}ching,{\kf19} you’ll{\kf22} still{\kf19} be{\kf25} ad{\kf41}mi{\kf19}red{\kf41}~
-Dialogue: 0,0:03:45.01,0:03:50.74,DEFAULT,,0,0,0,,{\kf16}E{\kf25}ven{\kf16} if{\kf16} it’s{\kf25} just{\kf41} piz{\kf19}za{\kf19} and{\kf41} Run{\kf29}way{\kf19} I’ll{\kf29} tell{\kf19} all{\kf13} my{\kf44} friends{\kf19} go{\kf13} a{\kf60}head
-Dialogue: 0,0:03:51.71,0:03:58.73,DEFAULT,,0,0,0,,{\kf16}Mah{\kf41} gals{\kf60} tired,{\kf16} well{\kf32} you’ll{\kf22} say{\kf19} you’re{\kf54} fine,{\kf22} but{\kf19} my{\kf41} jobs{\kf19} for{\kf22} to{\kf41}night{\kf19} are{\kf54} set
-Dialogue: 0,0:03:59.76,0:04:05.28,DEFAULT,,0,0,0,,{\kf22}And{\kf29} that’s{\kf35} chef{\kf32} and{\kf16} du{\kf41}vet.{\kf19} Don’t{\kf22} care{\kf16} if{\kf19} my{\kf41} boys{\kf22} give{\kf16} me{\kf110} hell
-Dialogue: 0,0:04:05.71,0:04:15.51,DEFAULT,,0,0,0,,{\kf19}I’m{\kf19} han{\kf25}ging{\kf19} in{\kf22} with{\kf19} my{\kf19} Ra{\kf22}~{\kf25}ri{\kf22}ty{\kf331} Belle{\kf97}~{\kf281}~
+Dialogue: 0,0:00:18.93,0:00:21.15,DEFAULT,,0,0,0,,{\r}{\kf27}Peo{\kf15}ple{\kf34} say{\kf38} real{\kf46} fash{\kf61}ion
+Dialogue: 0,0:00:22.99,0:00:25.79,DEFAULT,,0,0,0,,{\r}{\kf22}Was{\kf19} a{\kf22} fos{\kf45}sil{\kf34} dead{\kf52}~{\kf15} and{\kf72} gone
+Dialogue: 0,0:00:26.88,0:00:32.87,DEFAULT,,0,0,0,,{\r}{\kf33}Saw{\kf21} your{\kf33} work{\kf29} and{\kf17} it’s{\kf29} safe{\kf54}~{\kf21} to{\kf58} say{\kf25} that{\kf25} you’ve{\kf25} proved{\kf83}~{\kf25} them{\kf29}~{\kf92} wrong
+Dialogue: 0,0:00:34.93,0:00:37.95,DEFAULT,,0,0,0,,{\r}{\kf23}Stit{\kf23}ching{\kf27} fit{\kf23} for{\kf19} a{\kf15} prin{\kf31}~{\kf50}cess{\kf92} gown
+Dialogue: 0,0:00:38.89,0:00:42.29,DEFAULT,,0,0,0,,{\r}{\kf29}Suits{\kf26} that{\kf26} turn{\kf15} the{\kf29} world{\kf29} up{\kf33}side{\kf29}~{\kf55} down{\kf69}~
+Dialogue: 0,0:00:42.94,0:00:49.74,DEFAULT,,0,0,0,,{\r}{\kf21}Don’t{\kf28} sup{\kf53}pose{\kf25} you’ve{\kf42} had{\kf28} cus{\kf21}to{\kf46}mers{\kf21} with{\kf35} my{\kf32} spi{\kf133}~{\kf21}ky{\kf174} crown?
+Dialogue: 0,0:00:50.49,0:00:58.10,DEFAULT,,0,0,0,,{\r}{\kf19}You{\kf46}~{\kf91} star{\kf49}ted{\kf80} wor{\kf103}king,{\kf49} and{\kf30} when{\kf42} you{\kf23} were{\kf38}~{\kf49} through{\kf27}~{\kf115}~
+Dialogue: 0,0:00:58.51,0:01:01.66,DEFAULT,,0,0,0,,{\r}{\kf15}Now{\kf56}~{\kf44} I’m{\kf22} just{\kf48}~{\kf30} one{\kf41} more{\kf59} boy
+Dialogue: 0,0:01:01.94,0:01:05.21,DEFAULT,,0,0,0,,{\r}{\kf23}In{\kf19} your{\kf31} mi{\kf23}le{\kf23}~{\kf50} long{\kf65} crush{\kf93} queue
+Dialogue: 0,0:01:06.46,0:01:10.45,DEFAULT,,0,0,0,,{\r}{\kf18}Hey{\kf50}~{\kf54} Hey{\kf54} Ms.{\kf47} Ra{\kf50}ri{\kf50}ty{\kf25} I{\kf25} know{\kf26} you
+Dialogue: 0,0:01:10.95,0:01:13.60,DEFAULT,,0,0,0,,{\r}{\kf26}Don’t{\kf23} e{\kf30}xac{\kf19}tly{\kf23} have{\kf45} time{\kf19} for{\kf30}~{\kf50} me
+Dialogue: 0,0:01:13.73,0:01:17.12,DEFAULT,,0,0,0,,{\r}{\kf25}But{\kf18} if{\kf18} the{\kf50} fate’s{\kf36} let{\kf39} us{\kf50} make{\kf50} con{\kf54}tact
+Dialogue: 0,0:01:17.75,0:01:22.18,DEFAULT,,0,0,0,,{\r}{\kf20}I’ll{\kf24} be{\kf32} your{\kf24} A-{\kf40} List{\kf47} date{\kf32} just{\kf28} like{\kf44} all{\kf28} of{\kf24} your{\kf44} con{\kf28}tracts{\kf28}~
+Dialogue: 0,0:01:22.99,0:01:25.89,DEFAULT,,0,0,0,,{\r}{\kf20}May{\kf24}be{\kf47} hold{\kf24} your{\kf55} hoof{\kf27} a{\kf20}fter{\kf51} din{\kf22}ner
+Dialogue: 0,0:01:26.17,0:01:28.82,DEFAULT,,0,0,0,,{\r}{\kf19}You’ll{\kf30} smile{\kf19}~{\kf26} back{\kf52} at{\kf19} me{\kf22} and{\kf78} then,
+Dialogue: 0,0:01:29.97,0:01:31.72,DEFAULT,,0,0,0,,{\r}{\kf19}Di{\kf23}let{\kf27}tantes{\kf19} would{\kf23} all{\kf64} talk
+Dialogue: 0,0:01:32.19,0:01:34.96,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf32} crème{\kf16} de{\kf20} la{\kf44} crème{\kf32} would{\kf20} all{\kf28} tell{\kf28}~{\kf38}~
+Dialogue: 0,0:01:35.96,0:01:42.29,DEFAULT,,0,0,0,,{\r}{\kf23}That{\kf23} I’m{\kf23} out{\kf23} with{\kf23} Ms.{\kf40} Ra{\kf23}ri{\kf23}ty{\kf432} Belle
+Dialogue: 0,0:01:46.91,0:01:49.53,DEFAULT,,0,0,0,,{\r}{\kf30}Some{\kf45}day,{\kf26} if{\kf22} you’re{\kf34} in{\kf105} town
+Dialogue: 0,0:01:50.96,0:01:54.08,DEFAULT,,0,0,0,,{\r}{\kf26}We’ll{\kf26} hit{\kf19} up,{\kf23} Flim{\kf19} and{\kf49} Flam’s{\kf49} fair{\kf15}grounds{\kf86}~
+Dialogue: 0,0:01:54.74,0:02:01.04,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf26} days{\kf22} of{\kf39} sum{\kf26}mer{\kf22} would{\kf22} fly{\kf35}~{\kf26} by{\kf22} as{\kf52} we{\kf61} just{\kf114} bummed{\kf26} a{\kf119}round
+Dialogue: 0,0:02:02.97,0:02:05.71,DEFAULT,,0,0,0,,{\r}{\kf23}Laugh{\kf27}ing{\kf23} at{\kf27} stu{\kf27}pid{\kf34} in{\kf49}side{\kf64} jokes
+Dialogue: 0,0:02:06.96,0:02:10.14,DEFAULT,,0,0,0,,{\r}{\kf23}May{\kf19}be{\kf27} wal{\kf23}king{\kf19} too{\kf58} slow{\kf47} or{\kf43} too{\kf59} close
+Dialogue: 0,0:02:10.73,0:02:17.25,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} if{\kf19} your{\kf56} sis{\kf22}ter{\kf56} sees{\kf45} us{\kf37} there{\kf26} un{\kf34}der{\kf22} Star{\kf101}~{\kf67}swirl’s{\kf123} Oaks
+Dialogue: 0,0:02:17.69,0:02:25.83,DEFAULT,,0,0,0,,{\r}{\kf20}She’ll{\kf28} say{\kf24}~{\kf20} "My{\kf43}~{\kf83} sis{\kf51}ter{\kf75} thinks{\kf94} she’s{\kf59} parked{\kf28} your{\kf63} tail{\kf24} and{\kf35}~{\kf87} locked{\kf80} it,
+Dialogue: 0,0:02:26.42,0:02:33.66,DEFAULT,,0,0,0,,{\r}{\kf51}Dont{\kf23}cha{\kf62} think{\kf23} a{\kf19}bout{\kf19}~{\kf27} run{\kf66}ning{\kf62} off,{\kf31} with{\kf47} her{\kf70} heart{\kf19} in{\kf23} your{\kf58} poc{\kf23}ket{\kf101}~"
+Dialogue: 0,0:02:34.47,0:02:38.46,DEFAULT,,0,0,0,,{\r}{\kf18}Hey{\kf53}~{\kf50} hey{\kf39} there{\kf57} Swee{\kf53}tie{\kf53} Belle,{\kf21} I{\kf25} pro{\kf30}mise
+Dialogue: 0,0:02:38.93,0:02:41.58,DEFAULT,,0,0,0,,{\r}{\kf28}When{\kf25} we’re{\kf25} out{\kf42} I’m{\kf53} ner{\kf28}vous{\kf21} as{\kf43} hell
+Dialogue: 0,0:02:41.89,0:02:45.13,DEFAULT,,0,0,0,,{\r}{\kf23}She’s{\kf30} so{\kf49} down{\kf26} to{\kf49} earth{\kf45} and{\kf49} char{\kf53}ming
+Dialogue: 0,0:02:45.97,0:02:50.15,DEFAULT,,0,0,0,,{\r}{\kf16}Does{\kf29} she{\kf25} know{\kf29} she’s{\kf20} world{\kf61} fa{\kf25}mous?{\kf20} It’s{\kf33} kin{\kf25}da{\kf25} dis{\kf53}ar{\kf25}ming{\kf32}~
+Dialogue: 0,0:02:50.93,0:02:56.95,DEFAULT,,0,0,0,,{\r}{\kf18}I’ll{\kf26} stay{\kf29} with{\kf22} her{\kf29} as{\kf55} long{\kf22} as{\kf22} I{\kf51} can{\kf26} but,{\kf22} com{\kf22}pared{\kf29}~{\kf22} to{\kf26} Mane{\kf55}hat{\kf22}tan’s{\kf40} screen{\kf64} gems
+Dialogue: 0,0:02:57.89,0:03:03.03,DEFAULT,,0,0,0,,{\r}{\kf34}She’s{\kf23} more{\kf31} lik{\kf27}ely{\kf23} to{\kf61} be{\kf27} get{\kf23}ting{\kf23} tired{\kf31}~{\kf27} of{\kf46} me,{\kf19} but{\kf27} till{\kf15} then{\kf34}~{\kf44}~
+Dialogue: 0,0:03:03.69,0:03:06.15,DEFAULT,,0,0,0,,{\r}{\kf15}I’m{\kf26} still{\kf23} cra{\kf26}~{\kf26}zy{\kf26} ‘bout{\kf53} Ra{\kf26}ri{\kf25}ty
+Dialogue: 0,0:03:06.46,0:03:07.77,DEFAULT,,0,0,0,,{\r}{\kf18}Her{\kf44} and{\kf69} me
+Dialogue: 0,0:03:08.18,0:03:09.77,DEFAULT,,0,0,0,,{\r}{\kf24}Just{\kf36} fit{\kf20} you{\kf79} see
+Dialogue: 0,0:03:10.18,0:03:13.76,DEFAULT,,0,0,0,,{\r}{\kf17}When{\kf29} she{\kf29} lets{\kf29} me{\kf50} in{\kf25} to{\kf21} the{\kf42} deep{\kf42} blue{\kf75} sea
+Dialogue: 0,0:03:14.20,0:03:18.03,DEFAULT,,0,0,0,,{\r}{\kf47}Of{\kf56} her{\kf73} eyes,{\kf26} it’s{\kf52} pa{\kf30}ra{\kf52}ly{\kf48}zing
+Dialogue: 0,0:03:18.22,0:03:21.09,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf21} phy{\kf39}si{\kf43}cally{\kf47} can’t{\kf64} leave{\kf56} her
+Dialogue: 0,0:03:21.81,0:03:26.49,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf18} at{\kf18} the{\kf25} risk{\kf18} of{\kf22} be{\kf29}ing{\kf47} called{\kf22} a{\kf50} drea{\kf205}mer…
+Dialogue: 0,0:03:28.45,0:03:32.32,DEFAULT,,0,0,0,,{\r}{\kf19}Hey{\kf54}~{\kf42} Hey{\kf46} Ms.{\kf54} Ra{\kf54}ri{\kf50}ty{\kf23} you{\kf27} know{\kf18} you’ll
+Dialogue: 0,0:03:32.94,0:03:39.12,DEFAULT,,0,0,0,,{\r}{\kf28}Ne{\kf24}ver{\kf28} have{\kf24} to{\kf24} per{\kf52}form{\kf28} for{\kf24}~{\kf48} me,{\kf20} if{\kf20} you’re{\kf60} fee{\kf32}ling{\kf52} beat{\kf44} and{\kf52} ti{\kf57}red
+Dialogue: 0,0:03:39.93,0:03:44.23,DEFAULT,,0,0,0,,{\r}{\kf28}From{\kf20} a{\kf28} long{\kf24} day{\kf20} of{\kf37} stit{\kf32}ching,{\kf24} you’ll{\kf28} still{\kf24} be{\kf32} ad{\kf53}mi{\kf24}red{\kf56}~
+Dialogue: 0,0:03:45.01,0:03:50.75,DEFAULT,,0,0,0,,{\r}{\kf20}E{\kf31}ven{\kf20} if{\kf20} it’s{\kf31} just{\kf51} piz{\kf24}za{\kf24} and{\kf51} Run{\kf35}way{\kf24} I’ll{\kf35} tell{\kf24} all{\kf16} my{\kf55} friends{\kf24} go{\kf16} a{\kf73}head
+Dialogue: 0,0:03:51.72,0:03:58.73,DEFAULT,,0,0,0,,{\r}{\kf22}Mah{\kf58} gals{\kf85} tired,{\kf22} well{\kf45} you’ll{\kf31} say{\kf27} you’re{\kf76} fine,{\kf31} but{\kf27} my{\kf58} jobs{\kf27} for{\kf31} to{\kf58}night{\kf27} are{\kf77} set
+Dialogue: 0,0:03:59.76,0:04:05.28,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf36} that’s{\kf44} chef{\kf40} and{\kf20} du{\kf52}vet.{\kf24} Don’t{\kf28} care{\kf20} if{\kf24} my{\kf52} boys{\kf28} give{\kf20} me{\kf136} hell
+Dialogue: 0,0:04:05.72,0:04:15.51,DEFAULT,,0,0,0,,{\r}{\kf20}I’m{\kf20} han{\kf27}ging{\kf20} in{\kf23} with{\kf20} my{\kf20} Ra{\kf23}~{\kf27}ri{\kf23}ty{\kf353} Belle{\kf103}~{\kf300}~

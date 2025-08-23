@@ -1,74 +1,81 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Can You Feel It
+Artist: My Little Pony - The Movie, DNCE
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.82,0:00:06.69,DEFAULT,,0,0,0,,{\kf19}Ah{\kf7}~{\kf32}~~,{\kf19} yeah{\kf13} yeah{\kf7}~{\kf13}~,{\kf113} yeahâ€¦
-Dialogue: 0,0:00:08.38,0:00:10.07,DEFAULT,,0,0,0,,{\kf13}You've{\kf19} been{\kf50} down,{\kf13} you've{\kf13} been{\kf25} sad
-Dialogue: 0,0:00:10.26,0:00:12.07,DEFAULT,,0,0,0,,{\kf19}Al{\kf13}ways{\kf13} run{\kf13} a{\kf13}way{\kf13} when{\kf13} you're{\kf32} mad
-Dialogue: 0,0:00:12.26,0:00:15.38,DEFAULT,,0,0,0,,{\kf19}So{\kf19} I'll{\kf19} pre{\kf13}tend{\kf13} you're{\kf19} chas{\kf13}ing{\kf19} your{\kf25} dreams{\kf57}~
-Dialogue: 0,0:00:16.38,0:00:18.07,DEFAULT,,0,0,0,,{\kf13}You've{\kf13} been{\kf50} cold,{\kf13} you've{\kf13} been{\kf25} ice
-Dialogue: 0,0:00:18.26,0:00:20.07,DEFAULT,,0,0,0,,{\kf19}I{\kf19} know{\kf13} deep{\kf13} in{\kf13}side{\kf13} you're{\kf13} so{\kf25} nice
-Dialogue: 0,0:00:20.32,0:00:23.32,DEFAULT,,0,0,0,,{\kf19}So{\kf19} go{\kf19} cra{\kf19}zy{\kf19} and{\kf19} stop{\kf13} fol{\kf13}lo{\kf19}wing{\kf25} me{\kf50}~
-Dialogue: 0,0:00:24.01,0:00:25.57,DEFAULT,,0,0,0,,{\kf19}When{\kf19} you{\kf100} call
-Dialogue: 0,0:00:25.76,0:00:27.82,DEFAULT,,0,0,0,,{\kf19}I'm{\kf19} al{\kf19}ways{\kf25} there{\kf25} for{\kf13}~{\kf32} you
-Dialogue: 0,0:00:28.01,0:00:31.38,DEFAULT,,0,0,0,,{\kf19}You{\kf19} can{\kf38} fall{\kf19} for{\kf13} a{\kf19}ny{\kf13}thing{\kf19} in{\kf19} my{\kf82} arms
-Dialogue: 0,0:00:31.76,0:00:33.38,DEFAULT,,0,0,0,,{\kf19}I'll{\kf19} take{\kf19} your{\kf82} hand
-Dialogue: 0,0:00:33.76,0:00:35.82,DEFAULT,,0,0,0,,{\kf19}Show{\kf19} you{\kf25} fan{\kf32}tas{\kf32}ti{\kf32}cally
-Dialogue: 0,0:00:36.01,0:00:40.01,DEFAULT,,0,0,0,,{\kf19}How{\kf19} we{\kf19} go{\kf32} high,{\kf32} high,{\kf32} high,{\kf32} high,{\kf44} high{\kf69}er
-Dialogue: 0,0:00:40.26,0:00:41.32,DEFAULT,,0,0,0,,{\kf13}Can{\kf19} you{\kf32} feel{\kf25} it?
-Dialogue: 0,0:00:42.32,0:00:43.32,DEFAULT,,0,0,0,,{\kf13}Can{\kf13} you{\kf32} feel{\kf25} it?
-Dialogue: 0,0:00:44.26,0:00:48.07,DEFAULT,,0,0,0,,{\kf19}Feel{\kf19} it{\kf75} mov{\kf19}~{\kf50}ing{\kf75} through{\kf25} you
-Dialogue: 0,0:00:48.32,0:00:49.26,DEFAULT,,0,0,0,,{\kf13}Can{\kf13} you{\kf19} feel{\kf19} it?
-Dialogue: 0,0:00:50.26,0:00:52.01,DEFAULT,,0,0,0,,{\kf19}Can{\kf13} you{\kf25} feel{\kf19} it?{\kf13} (that's{\kf25} right)
-Dialogue: 0,0:00:52.26,0:00:56.32,DEFAULT,,0,0,0,,{\kf19}Feel{\kf19} it{\kf57} mov{\kf13}~{\kf57}ing{\kf82} through{\kf57} you
-Dialogue: 0,0:00:56.76,0:00:57.32,DEFAULT,,0,0,0,,{\kf19}On{\kf13} the{\kf13} floor
-Dialogue: 0,0:00:57.51,0:00:58.32,DEFAULT,,0,0,0,,{\kf13}Do{\kf7} you{\kf13} want{\kf13} some{\kf13} more?
-Dialogue: 0,0:00:58.51,0:00:59.38,DEFAULT,,0,0,0,,{\kf19}Just{\kf19} sound{\kf13} the{\kf19} horn
-Dialogue: 0,0:00:59.69,0:01:00.63,DEFAULT,,0,0,0,,{\kf19}Feel{\kf13} it,{\kf19} feel{\kf13} it
-Dialogue: 0,0:01:08.38,0:01:10.07,DEFAULT,,0,0,0,,{\kf13}You've{\kf13} been{\kf32} wrong{\kf13} but{\kf13} you're{\kf25} fine
-Dialogue: 0,0:01:10.32,0:01:12.07,DEFAULT,,0,0,0,,{\kf19}Now{\kf13} I'm{\kf19} walk{\kf13}ing{\kf13} in{\kf13}to{\kf19} sun{\kf32}shine
-Dialogue: 0,0:01:12.26,0:01:14.94,DEFAULT,,0,0,0,,{\kf19}It's{\kf19} time{\kf13} for{\kf13} us{\kf13} to{\kf13} get{\kf25} wild{\kf25} and{\kf44} free
-Dialogue: 0,0:01:15.26,0:01:16.01,DEFAULT,,0,0,0,,{\kf75}(Time for us to get wild and free)
-Dialogue: 0,0:01:16.32,0:01:18.13,DEFAULT,,0,0,0,,{\kf13}And{\kf19} I{\kf32} won't{\kf13} let{\kf38} go
-Dialogue: 0,0:01:18.32,0:01:20.07,DEFAULT,,0,0,0,,{\kf13}Till{\kf19} you{\kf13} show{\kf13} me{\kf13} what{\kf13} you{\kf19} came{\kf25} for
-Dialogue: 0,0:01:20.26,0:01:23.26,DEFAULT,,0,0,0,,{\kf19}I'll{\kf19} give{\kf19} right{\kf19} back{\kf19} what{\kf19} you{\kf19} give{\kf25} me{\kf50}~
-Dialogue: 0,0:01:24.01,0:01:25.57,DEFAULT,,0,0,0,,{\kf19}When{\kf19} you{\kf100} call
-Dialogue: 0,0:01:25.76,0:01:27.82,DEFAULT,,0,0,0,,{\kf19}I'm{\kf19} al{\kf19}ways{\kf25} there{\kf25} for{\kf13}~{\kf32} you
-Dialogue: 0,0:01:28.01,0:01:31.38,DEFAULT,,0,0,0,,{\kf19}You{\kf19} can{\kf38} fall{\kf19} for{\kf13} a{\kf19}ny{\kf13}thing{\kf19} in{\kf19} my{\kf82} arms
-Dialogue: 0,0:01:31.76,0:01:33.38,DEFAULT,,0,0,0,,{\kf19}I'll{\kf19} take{\kf19} your{\kf82} hand
-Dialogue: 0,0:01:33.76,0:01:35.82,DEFAULT,,0,0,0,,{\kf19}Show{\kf19} you{\kf25} fan{\kf32}tas{\kf32}ti{\kf32}cally
-Dialogue: 0,0:01:36.01,0:01:40.01,DEFAULT,,0,0,0,,{\kf19}How{\kf19} we{\kf19} go{\kf32} high,{\kf32} high,{\kf32} high,{\kf32} high,{\kf38} high{\kf75}er
-Dialogue: 0,0:01:40.32,0:01:41.32,DEFAULT,,0,0,0,,{\kf13}Can{\kf13} you{\kf32} feel{\kf25} it?
-Dialogue: 0,0:01:42.32,0:01:43.32,DEFAULT,,0,0,0,,{\kf13}Can{\kf13} you{\kf32} feel{\kf25} it?
-Dialogue: 0,0:01:44.26,0:01:48.07,DEFAULT,,0,0,0,,{\kf19}Feel{\kf19} it{\kf69} mov{\kf13}~{\kf50}ing{\kf75} through{\kf25} you
-Dialogue: 0,0:01:48.32,0:01:49.26,DEFAULT,,0,0,0,,{\kf13}Can{\kf13} you{\kf19} feel{\kf19} it?
-Dialogue: 0,0:01:50.26,0:01:51.26,DEFAULT,,0,0,0,,{\kf19}Can{\kf13} you{\kf25} feel{\kf19} it?
-Dialogue: 0,0:01:52.26,0:01:56.32,DEFAULT,,0,0,0,,{\kf19}Feel{\kf19} it{\kf69} mov{\kf13}~{\kf57}ing{\kf82} through{\kf57} you
-Dialogue: 0,0:01:56.76,0:01:57.32,DEFAULT,,0,0,0,,{\kf19}On{\kf13} the{\kf13} floor
-Dialogue: 0,0:01:57.51,0:01:58.32,DEFAULT,,0,0,0,,{\kf13}Do{\kf7} you{\kf13} want{\kf13} some{\kf13} more?
-Dialogue: 0,0:01:58.51,0:01:59.38,DEFAULT,,0,0,0,,{\kf19}Just{\kf19} sound{\kf13} the{\kf19} horn
-Dialogue: 0,0:01:59.69,0:02:00.63,DEFAULT,,0,0,0,,{\kf19}Feel{\kf13} it,{\kf19} feel{\kf13} it
-Dialogue: 0,0:02:08.51,0:02:10.19,DEFAULT,,0,0,0,,{\kf19}I{\kf13} know{\kf13} it's{\kf13} hard{\kf13} to{\kf19} pic{\kf13}ture
-Dialogue: 0,0:02:10.38,0:02:12.38,DEFAULT,,0,0,0,,{\kf13}But{\kf19} I{\kf19} need{\kf13}ed{\kf13} you{\kf13} to{\kf50} see
-Dialogue: 0,0:02:12.76,0:02:14.19,DEFAULT,,0,0,0,,{\kf19}E{\kf13}very{\kf13}thing{\kf19} is{\kf19} bet{\kf13}ter
-Dialogue: 0,0:02:14.32,0:02:16.44,DEFAULT,,0,0,0,,{\kf13}When{\kf19} you{\kf19} come{\kf19} a{\kf19}long{\kf19} with{\kf57} me
-Dialogue: 0,0:02:17.26,0:02:18.26,DEFAULT,,0,0,0,,{\kf13}You{\kf13} can{\kf25} feel{\kf19} it
-Dialogue: 0,0:02:19.26,0:02:20.26,DEFAULT,,0,0,0,,{\kf13}You{\kf13} can{\kf25} feel{\kf19} it
-Dialogue: 0,0:02:21.26,0:02:25.01,DEFAULT,,0,0,0,,{\kf19}Feel{\kf19} it{\kf69} mov{\kf13}~{\kf57}ing{\kf88} through{\kf25} you
-Dialogue: 0,0:02:25.26,0:02:26.32,DEFAULT,,0,0,0,,{\kf19}Can{\kf13} you{\kf25} feel{\kf25} it?
-Dialogue: 0,0:02:27.26,0:02:28.32,DEFAULT,,0,0,0,,{\kf19}Can{\kf13} you{\kf25} feel{\kf25} it?
-Dialogue: 0,0:02:29.26,0:02:33.01,DEFAULT,,0,0,0,,{\kf19}Feel{\kf19} it{\kf63} mov{\kf19}~{\kf50}ing{\kf88} through{\kf25} you
-Dialogue: 0,0:02:33.26,0:02:34.26,DEFAULT,,0,0,0,,{\kf19}You{\kf13} can{\kf19} feel{\kf25} it
-Dialogue: 0,0:02:35.26,0:02:36.26,DEFAULT,,0,0,0,,{\kf19}You{\kf13} can{\kf19} feel{\kf25} it
-Dialogue: 0,0:02:37.26,0:02:41.01,DEFAULT,,0,0,0,,{\kf19}Feel{\kf19} it{\kf63} mov{\kf13}~{\kf63}ing{\kf75} through{\kf25} you
-Dialogue: 0,0:02:41.26,0:02:42.26,DEFAULT,,0,0,0,,{\kf19}Can{\kf13} you{\kf25} feel{\kf19} it?
-Dialogue: 0,0:02:43.26,0:02:44.26,DEFAULT,,0,0,0,,{\kf19}Can{\kf13} you{\kf25} feel{\kf19} it?
-Dialogue: 0,0:02:45.32,0:02:49.07,DEFAULT,,0,0,0,,{\kf13}Feel{\kf19} it{\kf69} mov{\kf13}~{\kf50}ing{\kf75} through{\kf32} you
-Dialogue: 0,0:02:49.32,0:02:50.32,DEFAULT,,0,0,0,,{\kf13}You{\kf13} can{\kf25} feel{\kf25} it
+Dialogue: 0,0:00:03.82,0:00:06.70,DEFAULT,,0,0,0,,{\r}{\kf25}Ah{\kf10}~{\kf41}~~,{\kf25} yeah{\kf16} yeah{\kf10}~{\kf16}~,{\kf145} yeahâ€¦
+Dialogue: 0,0:00:08.39,0:00:10.07,DEFAULT,,0,0,0,,{\r}{\kf16}You've{\kf24} been{\kf64} down,{\kf16} you've{\kf16} been{\kf33} sad
+Dialogue: 0,0:00:10.26,0:00:12.07,DEFAULT,,0,0,0,,{\r}{\kf27}Al{\kf18}ways{\kf18} run{\kf18} a{\kf18}way{\kf18} when{\kf18} you're{\kf46} mad
+Dialogue: 0,0:00:12.26,0:00:15.39,DEFAULT,,0,0,0,,{\r}{\kf28}So{\kf28} I'll{\kf28} pre{\kf18}tend{\kf18} you're{\kf28} chas{\kf18}ing{\kf28} your{\kf37} dreams{\kf81}~
+Dialogue: 0,0:00:16.39,0:00:18.07,DEFAULT,,0,0,0,,{\r}{\kf17}You've{\kf17} been{\kf68} cold,{\kf17} you've{\kf17} been{\kf33} ice
+Dialogue: 0,0:00:18.26,0:00:20.07,DEFAULT,,0,0,0,,{\r}{\kf27}I{\kf27} know{\kf18} deep{\kf18} in{\kf18}side{\kf18} you're{\kf18} so{\kf37} nice
+Dialogue: 0,0:00:20.32,0:00:23.32,DEFAULT,,0,0,0,,{\r}{\kf24}So{\kf24} go{\kf24} cra{\kf24}zy{\kf24} and{\kf24} stop{\kf16} fol{\kf16}lo{\kf24}wing{\kf32} me{\kf68}~
+Dialogue: 0,0:00:24.01,0:00:25.57,DEFAULT,,0,0,0,,{\r}{\kf21}When{\kf21} you{\kf114} call
+Dialogue: 0,0:00:25.76,0:00:27.82,DEFAULT,,0,0,0,,{\r}{\kf26}I'm{\kf26} al{\kf26}ways{\kf34} there{\kf34} for{\kf17}~{\kf43} you
+Dialogue: 0,0:00:28.01,0:00:31.39,DEFAULT,,0,0,0,,{\r}{\kf25}You{\kf25} can{\kf49} fall{\kf25} for{\kf16} a{\kf25}ny{\kf16}thing{\kf25} in{\kf25} my{\kf107} arms
+Dialogue: 0,0:00:31.76,0:00:33.39,DEFAULT,,0,0,0,,{\r}{\kf22}I'll{\kf22} take{\kf22} your{\kf96} hand
+Dialogue: 0,0:00:33.76,0:00:35.82,DEFAULT,,0,0,0,,{\r}{\kf25}Show{\kf25} you{\kf33} fan{\kf41}tas{\kf41}ti{\kf41}cally
+Dialogue: 0,0:00:36.01,0:00:40.01,DEFAULT,,0,0,0,,{\r}{\kf26}How{\kf26} we{\kf26} go{\kf43} high,{\kf43} high,{\kf43} high,{\kf43} high,{\kf60} high{\kf90}er
+Dialogue: 0,0:00:40.26,0:00:41.32,DEFAULT,,0,0,0,,{\r}{\kf15}Can{\kf23} you{\kf38} feel{\kf30} it?
+Dialogue: 0,0:00:42.32,0:00:43.32,DEFAULT,,0,0,0,,{\r}{\kf15}Can{\kf15} you{\kf38} feel{\kf32} it?
+Dialogue: 0,0:00:44.26,0:00:48.07,DEFAULT,,0,0,0,,{\r}{\kf25}Feel{\kf25} it{\kf102} mov{\kf25}~{\kf68}ing{\kf102} through{\kf34} you
+Dialogue: 0,0:00:48.32,0:00:49.26,DEFAULT,,0,0,0,,{\r}{\kf19}Can{\kf19} you{\kf28} feel{\kf28} it?
+Dialogue: 0,0:00:50.26,0:00:52.01,DEFAULT,,0,0,0,,{\r}{\kf29}Can{\kf19} you{\kf39} feel{\kf29} it?{\kf19} (that's{\kf40} right)
+Dialogue: 0,0:00:52.26,0:00:56.32,DEFAULT,,0,0,0,,{\r}{\kf25}Feel{\kf25} it{\kf76} mov{\kf17}~{\kf76}ing{\kf110} through{\kf77} you
+Dialogue: 0,0:00:56.76,0:00:57.32,DEFAULT,,0,0,0,,{\r}{\kf24}On{\kf16} the{\kf16} floor
+Dialogue: 0,0:00:57.51,0:00:58.32,DEFAULT,,0,0,0,,{\r}{\kf18}Do{\kf10} you{\kf18} want{\kf18} some{\kf17} more?
+Dialogue: 0,0:00:58.51,0:00:59.39,DEFAULT,,0,0,0,,{\r}{\kf24}Just{\kf24} sound{\kf16} the{\kf24} horn
+Dialogue: 0,0:00:59.70,0:01:00.64,DEFAULT,,0,0,0,,{\r}{\kf28}Feel{\kf19} it,{\kf28} feel{\kf19} it
+Dialogue: 0,0:01:08.39,0:01:10.07,DEFAULT,,0,0,0,,{\r}{\kf20}You've{\kf20} been{\kf50} wrong{\kf20} but{\kf20} you're{\kf39} fine
+Dialogue: 0,0:01:10.32,0:01:12.07,DEFAULT,,0,0,0,,{\r}{\kf24}Now{\kf16} I'm{\kf24} walk{\kf16}ing{\kf16} in{\kf16}to{\kf24} sun{\kf39}shine
+Dialogue: 0,0:01:12.26,0:01:14.95,DEFAULT,,0,0,0,,{\r}{\kf28}It's{\kf28} time{\kf19} for{\kf19} us{\kf19} to{\kf19} get{\kf37} wild{\kf37} and{\kf63} free
+Dialogue: 0,0:01:15.26,0:01:16.01,DEFAULT,,0,0,0,,{\r}{\kf75}(Time for us to get wild and free)
+Dialogue: 0,0:01:16.32,0:01:18.14,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf30} I{\kf50} won't{\kf20} let{\kf61} go
+Dialogue: 0,0:01:18.32,0:01:20.07,DEFAULT,,0,0,0,,{\r}{\kf18}Till{\kf26} you{\kf18} show{\kf18} me{\kf18} what{\kf18} you{\kf26} came{\kf33} for
+Dialogue: 0,0:01:20.26,0:01:23.26,DEFAULT,,0,0,0,,{\r}{\kf27}I'll{\kf27} give{\kf27} right{\kf27} back{\kf27} what{\kf27} you{\kf27} give{\kf36} me{\kf75}~
+Dialogue: 0,0:01:24.01,0:01:25.57,DEFAULT,,0,0,0,,{\r}{\kf21}When{\kf21} you{\kf114} call
+Dialogue: 0,0:01:25.76,0:01:27.82,DEFAULT,,0,0,0,,{\r}{\kf26}I'm{\kf26} al{\kf26}ways{\kf34} there{\kf34} for{\kf17}~{\kf43} you
+Dialogue: 0,0:01:28.01,0:01:31.39,DEFAULT,,0,0,0,,{\r}{\kf25}You{\kf25} can{\kf49} fall{\kf25} for{\kf16} a{\kf25}ny{\kf16}thing{\kf25} in{\kf25} my{\kf107} arms
+Dialogue: 0,0:01:31.76,0:01:33.39,DEFAULT,,0,0,0,,{\r}{\kf22}I'll{\kf22} take{\kf22} your{\kf96} hand
+Dialogue: 0,0:01:33.76,0:01:35.82,DEFAULT,,0,0,0,,{\r}{\kf25}Show{\kf25} you{\kf33} fan{\kf41}tas{\kf41}ti{\kf41}cally
+Dialogue: 0,0:01:36.01,0:01:40.01,DEFAULT,,0,0,0,,{\r}{\kf26}How{\kf26} we{\kf26} go{\kf43} high,{\kf43} high,{\kf43} high,{\kf43} high,{\kf51} high{\kf99}er
+Dialogue: 0,0:01:40.32,0:01:41.32,DEFAULT,,0,0,0,,{\r}{\kf15}Can{\kf15} you{\kf38} feel{\kf32} it?
+Dialogue: 0,0:01:42.32,0:01:43.32,DEFAULT,,0,0,0,,{\r}{\kf15}Can{\kf15} you{\kf38} feel{\kf32} it?
+Dialogue: 0,0:01:44.26,0:01:48.07,DEFAULT,,0,0,0,,{\r}{\kf27}Feel{\kf27} it{\kf97} mov{\kf18}~{\kf71}ing{\kf106} through{\kf35} you
+Dialogue: 0,0:01:48.32,0:01:49.26,DEFAULT,,0,0,0,,{\r}{\kf19}Can{\kf19} you{\kf28} feel{\kf28} it?
+Dialogue: 0,0:01:50.26,0:01:51.26,DEFAULT,,0,0,0,,{\r}{\kf25}Can{\kf17} you{\kf33} feel{\kf25} it?
+Dialogue: 0,0:01:52.26,0:01:56.32,DEFAULT,,0,0,0,,{\r}{\kf24}Feel{\kf24} it{\kf89} mov{\kf16}~{\kf73}ing{\kf106} through{\kf74} you
+Dialogue: 0,0:01:56.76,0:01:57.32,DEFAULT,,0,0,0,,{\r}{\kf24}On{\kf16} the{\kf16} floor
+Dialogue: 0,0:01:57.51,0:01:58.32,DEFAULT,,0,0,0,,{\r}{\kf18}Do{\kf10} you{\kf18} want{\kf18} some{\kf17} more?
+Dialogue: 0,0:01:58.51,0:01:59.39,DEFAULT,,0,0,0,,{\r}{\kf24}Just{\kf24} sound{\kf16} the{\kf24} horn
+Dialogue: 0,0:01:59.70,0:02:00.64,DEFAULT,,0,0,0,,{\r}{\kf28}Feel{\kf19} it,{\kf28} feel{\kf19} it
+Dialogue: 0,0:02:08.51,0:02:10.20,DEFAULT,,0,0,0,,{\r}{\kf32}I{\kf21} know{\kf21} it's{\kf21} hard{\kf21} to{\kf32} pic{\kf21}ture
+Dialogue: 0,0:02:10.39,0:02:12.39,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf27} I{\kf27} need{\kf18}ed{\kf18} you{\kf18} to{\kf74} see
+Dialogue: 0,0:02:12.76,0:02:14.20,DEFAULT,,0,0,0,,{\r}{\kf29}E{\kf19}very{\kf19}thing{\kf29} is{\kf29} bet{\kf19}ter
+Dialogue: 0,0:02:14.32,0:02:16.45,DEFAULT,,0,0,0,,{\r}{\kf16}When{\kf24} you{\kf24} come{\kf24} a{\kf24}long{\kf24} with{\kf76} me
+Dialogue: 0,0:02:17.26,0:02:18.26,DEFAULT,,0,0,0,,{\r}{\kf18}You{\kf18} can{\kf36} feel{\kf28} it
+Dialogue: 0,0:02:19.26,0:02:20.26,DEFAULT,,0,0,0,,{\r}{\kf18}You{\kf18} can{\kf36} feel{\kf28} it
+Dialogue: 0,0:02:21.26,0:02:25.01,DEFAULT,,0,0,0,,{\r}{\kf24}Feel{\kf24} it{\kf90} mov{\kf16}~{\kf73}ing{\kf114} through{\kf34} you
+Dialogue: 0,0:02:25.26,0:02:26.32,DEFAULT,,0,0,0,,{\r}{\kf24}Can{\kf16} you{\kf33} feel{\kf33} it?
+Dialogue: 0,0:02:27.26,0:02:28.32,DEFAULT,,0,0,0,,{\r}{\kf24}Can{\kf16} you{\kf33} feel{\kf33} it?
+Dialogue: 0,0:02:29.26,0:02:33.01,DEFAULT,,0,0,0,,{\r}{\kf25}Feel{\kf25} it{\kf83} mov{\kf25}~{\kf67}ing{\kf117} through{\kf33} you
+Dialogue: 0,0:02:33.26,0:02:34.26,DEFAULT,,0,0,0,,{\r}{\kf25}You{\kf17} can{\kf25} feel{\kf33} it
+Dialogue: 0,0:02:35.26,0:02:36.26,DEFAULT,,0,0,0,,{\r}{\kf25}You{\kf17} can{\kf25} feel{\kf33} it
+Dialogue: 0,0:02:37.26,0:02:41.01,DEFAULT,,0,0,0,,{\r}{\kf26}Feel{\kf26} it{\kf85} mov{\kf17}~{\kf85}ing{\kf102} through{\kf34} you
+Dialogue: 0,0:02:41.26,0:02:42.26,DEFAULT,,0,0,0,,{\r}{\kf25}Can{\kf17} you{\kf33} feel{\kf25} it?
+Dialogue: 0,0:02:43.26,0:02:44.26,DEFAULT,,0,0,0,,{\r}{\kf25}Can{\kf17} you{\kf33} feel{\kf25} it?
+Dialogue: 0,0:02:45.32,0:02:49.07,DEFAULT,,0,0,0,,{\r}{\kf17}Feel{\kf26} it{\kf96} mov{\kf17}~{\kf70}ing{\kf105} through{\kf44} you
+Dialogue: 0,0:02:49.32,0:02:50.32,DEFAULT,,0,0,0,,{\r}{\kf17}You{\kf17} can{\kf33} feel{\kf33} it

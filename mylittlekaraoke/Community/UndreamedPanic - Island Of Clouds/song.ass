@@ -1,45 +1,52 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Island of Clouds (feat. Even Skies)
+Artist: UndreamedPanic
+Original Timing: mylittlekaraoke.com by RD1042
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.51,0:00:10.32,DEFAULT,,0,0,0,,{\kf18}Let{\kf42} go{\kf30} of{\kf24} your{\kf36} stress{\kf18} to{\kf30}night
-Dialogue: 0,0:00:10.44,0:00:14.19,DEFAULT,,0,0,0,,{\kf24}Spread{\kf18} your{\kf30} wings{\kf24} and{\kf47} fly{\kf12} with{\kf9} the{\kf36} stars{\kf18} so{\kf36} bright
-Dialogue: 0,0:00:14.77,0:00:17.79,DEFAULT,,0,0,0,,{\kf12}An{\kf24} is{\kf24}land{\kf12} in{\kf12} the{\kf24} dis{\kf30}tance{\kf30} waits{\kf18} for{\kf21} us
-Dialogue: 0,0:00:18.05,0:00:21.57,DEFAULT,,0,0,0,,{\kf18}All{\kf12} our{\kf36} friends{\kf42} are{\kf18} there{\kf12} so{\kf33} what's{\kf36} all{\kf12} the{\kf30} fuss
-Dialogue: 0,0:00:22.27,0:00:28.78,DEFAULT,,0,0,0,,{\kf18}And{\kf121} I've{\kf21} ne{\kf12}ver{\kf30} seen{\kf36} a{\kf30} place{\kf30} like{\kf191} thi{\kf18}-i{\kf65}-is
-Dialogue: 0,0:00:29.66,0:00:36.57,DEFAULT,,0,0,0,,{\kf24}To{\kf124}night{\kf24} is{\kf12} a{\kf21} ni-{\kf21}ight{\kf12} you{\kf18} don't{\kf9} wa-{\kf30}ant{\kf24} to{\kf211} mi{\kf100}-iss
-Dialogue: 0,0:00:37.51,0:00:40.26,DEFAULT,,0,0,0,,{\kf18}No{\kf18}thing{\kf12} in{\kf9} the{\kf39} sky{\kf18} could{\kf18} e{\kf24}ver{\kf12} a{\kf30}mount
-Dialogue: 0,0:00:40.50,0:00:45.77,DEFAULT,,0,0,0,,{\kf42}To{\kf24} this{\kf36} a{\kf33}ma-{\kf18}a{\kf24}zing{\kf42} Is{\kf42}land{\kf18} i-{\kf15}in{\kf9} the{\kf121} clouds
-Dialogue: 0,0:00:57.72,0:01:05.98,DEFAULT,,0,0,0,,{\kf18}the{\kf42} Is{\kf24}land{\kf15} i-{\kf12}in{\kf12} the{\kf639} clouds
-Dialogue: 0,0:01:22.33,0:01:25.26,DEFAULT,,0,0,0,,{\kf6}It{\kf36} feels{\kf18} like{\kf12} a{\kf27} rush{\kf24} of{\kf24} pur{\kf18}pose{\kf12} and{\kf24} lust
-Dialogue: 0,0:01:25.55,0:01:29.30,DEFAULT,,0,0,0,,{\kf18}I{\kf12} am{\kf18} hap{\kf18}py{\kf30} I{\kf30} know{\kf30} some{\kf36}one{\kf12} I{\kf18} can{\kf24} tru{\kf30}-ust
-Dialogue: 0,0:01:29.66,0:01:33.00,DEFAULT,,0,0,0,,{\kf18}Your{\kf21} past{\kf9} is{\kf18} in{\kf12} the{\kf27} past{\kf12} and{\kf18} your{\kf21} fu{\kf15}ture{\kf12} is{\kf42} grand
-Dialogue: 0,0:01:33.41,0:01:36.80,DEFAULT,,0,0,0,,{\kf12}Don't{\kf18} let{\kf12} it{\kf21} bo{\kf15}ther{\kf18} you{\kf12} be{\kf18}cause{\kf12} we{\kf18} got{\kf18} bet{\kf15}ter{\kf21} pla{\kf39}-ans
-Dialogue: 0,0:01:37.16,0:01:43.78,DEFAULT,,0,0,0,,{\kf18}And{\kf135} I've{\kf15} ne{\kf12}ver{\kf21} seen{\kf30} a{\kf33} place{\kf30} like{\kf203} thi{\kf21}-i{\kf62}-is
-Dialogue: 0,0:01:44.66,0:01:51.45,DEFAULT,,0,0,0,,{\kf24}To{\kf112}night{\kf30} is{\kf12} a{\kf18} ni-{\kf18}ight{\kf6} you{\kf36} don't{\kf9} wa-{\kf39}ant{\kf18} to{\kf220} mi{\kf80}-iss
-Dialogue: 0,0:01:52.45,0:01:55.29,DEFAULT,,0,0,0,,{\kf24}No{\kf18}thing{\kf15} in{\kf9} the{\kf39} sky{\kf24} could{\kf15} e{\kf21}ver{\kf15} a{\kf30}mount
-Dialogue: 0,0:01:55.50,0:02:00.77,DEFAULT,,0,0,0,,{\kf42}To{\kf27} this{\kf39} a{\kf33}ma-{\kf18}a{\kf27}zing{\kf47} Is{\kf30}land{\kf18} i-{\kf15}in{\kf12} the{\kf124} clouds
-Dialogue: 0,0:02:12.78,0:02:20.98,DEFAULT,,0,0,0,,{\kf12}the{\kf24} Is{\kf42}land{\kf15} i-{\kf12}in{\kf18} the{\kf633} clouds
-Dialogue: 0,0:02:30.01,0:02:37.39,DEFAULT,,0,0,0,,{\kf364}Oh{\kf42} wah-{\kf42}oh-{\kf42}wah-{\kf39}oh{\kf44} wah-{\kf44}oh-{\kf39}wah-{\kf39}oh
-Dialogue: 0,0:02:37.62,0:02:44.74,DEFAULT,,0,0,0,,{\kf352}Oh{\kf42} wah-{\kf42}oh-{\kf42}wah-{\kf44}oh{\kf42} wah-{\kf42}oh-{\kf33}wah-{\kf36}oh
-Dialogue: 0,0:02:44.89,0:02:46.97,DEFAULT,,0,0,0,,{\kf36}We{\kf42} will{\kf115} be
-Dialogue: 0,0:02:48.46,0:02:52.33,DEFAULT,,0,0,0,,{\kf12} the{\kf24} cen{\kf24}ter{\kf12} of{\kf12} at{\kf30}ten{\kf24}tion{\kf12} the{\kf21} cen{\kf27}ter{\kf18} of{\kf18} at{\kf12}ten{\kf47}tion
-Dialogue: 0,0:02:52.62,0:02:55.26,DEFAULT,,0,0,0,,{\kf24}We{\kf24} will{\kf188} be
-Dialogue: 0,0:02:55.96,0:02:59.74,DEFAULT,,0,0,0,,{\kf12} the{\kf24} cen{\kf24}ter{\kf12} of{\kf18} at{\kf33}ten{\kf18}tion{\kf12} the{\kf24} cen{\kf24}ter{\kf12} of{\kf18} at{\kf36}ten{\kf33}tion
-Dialogue: 0,0:02:59.89,0:03:02.64,DEFAULT,,0,0,0,,{\kf36}We{\kf42} will{\kf176} be
-Dialogue: 0,0:03:03.41,0:03:07.13,DEFAULT,,0,0,0,,{\kf12} the{\kf24} cen{\kf21}ter{\kf12} of{\kf18} at{\kf27}ten{\kf24}tion{\kf12} the{\kf24} cen{\kf24}ter{\kf12} of{\kf12} at{\kf30}ten{\kf21}tion
-Dialogue: 0,0:03:07.27,0:03:13.48,DEFAULT,,0,0,0,,{\kf18}And{\kf118} I've{\kf21} ne{\kf12}ver{\kf24} seen{\kf24} a{\kf42} place{\kf30} like{\kf203} thi{\kf24}-i{\kf30}-is
-Dialogue: 0,0:03:14.83,0:03:21.69,DEFAULT,,0,0,0,,{\kf12}To{\kf124}night{\kf12} is{\kf12} a{\kf21} ni-{\kf21}ight{\kf6} you{\kf36} don't{\kf9} wa-{\kf30}ant{\kf18} to{\kf211} mi{\kf109}-iss
-Dialogue: 0,0:03:22.45,0:03:25.32,DEFAULT,,0,0,0,,{\kf24}No{\kf18}thing{\kf12} in{\kf12} the{\kf42} sky{\kf24} could{\kf24} e{\kf18}ver{\kf18} a{\kf36}mount
-Dialogue: 0,0:03:25.44,0:03:30.71,DEFAULT,,0,0,0,,{\kf42}To{\kf30} this{\kf30} a{\kf33}ma-{\kf21}a{\kf30}zing{\kf47} Is{\kf30}land{\kf21} i-{\kf12}in{\kf12} the{\kf106} clouds
-Dialogue: 0,0:03:42.66,0:03:50.98,DEFAULT,,0,0,0,,{\kf18}the{\kf30} Is{\kf24}land{\kf18} i-{\kf12}in{\kf12} the{\kf633} clouds
-Dialogue: 0,0:04:00.01,0:04:04.58,DEFAULT,,0,0,0,,{\kf229}Oh{\kf36} oh-{\kf44}wah{\kf36}-oh{\kf53} wah{\kf42}-oh
-Dialogue: 0,0:04:05.34,0:04:09.85,DEFAULT,,0,0,0,,{\kf12}I've{\kf30} dreamed{\kf18} of{\kf12} this{\kf36} night{\kf18} for{\kf12} a{\kf21} ve{\kf18}ry{\kf30} long{\kf47} ti-{\kf30}i-{\kf21}i-{\kf47}ime
-Dialogue: 0,0:04:12.66,0:04:15.83,DEFAULT,,0,0,0,,{\kf24}So{\kf36} please{\kf21} stay{\kf12} with{\kf36} me{\kf30} to{\kf18}ni-{\kf88}ight
+Dialogue: 0,0:00:07.51,0:00:10.32,DEFAULT,,0,0,0,,{\r}{\kf26}Let{\kf60} go{\kf43} of{\kf34} your{\kf51} stress{\kf26} to{\kf41}night
+Dialogue: 0,0:00:10.44,0:00:14.19,DEFAULT,,0,0,0,,{\r}{\kf35}Spread{\kf26} your{\kf44} wings{\kf35} and{\kf71} fly{\kf18} with{\kf13} the{\kf53} stars{\kf26} so{\kf54} bright
+Dialogue: 0,0:00:14.78,0:00:17.80,DEFAULT,,0,0,0,,{\r}{\kf18}An{\kf35} is{\kf35}land{\kf18} in{\kf18} the{\kf35} dis{\kf44}tance{\kf44} waits{\kf26} for{\kf29} us
+Dialogue: 0,0:00:18.06,0:00:21.57,DEFAULT,,0,0,0,,{\r}{\kf25}All{\kf17} our{\kf51} friends{\kf59} are{\kf25} there{\kf17} so{\kf47} what's{\kf51} all{\kf17} the{\kf43} fuss
+Dialogue: 0,0:00:22.28,0:00:28.78,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf138} I've{\kf24} ne{\kf13}ver{\kf34} seen{\kf40} a{\kf34} place{\kf34} like{\kf219} thi{\kf20}-i{\kf74}-is
+Dialogue: 0,0:00:29.66,0:00:36.57,DEFAULT,,0,0,0,,{\r}{\kf26}To{\kf136}night{\kf26} is{\kf13} a{\kf23} ni-{\kf23}ight{\kf13} you{\kf19} don't{\kf10} wa-{\kf32}ant{\kf26} to{\kf234} mi{\kf110}-iss
+Dialogue: 0,0:00:37.51,0:00:40.27,DEFAULT,,0,0,0,,{\r}{\kf25}No{\kf25}thing{\kf17} in{\kf12} the{\kf54} sky{\kf25} could{\kf25} e{\kf33}ver{\kf17} a{\kf42}mount
+Dialogue: 0,0:00:40.50,0:00:45.77,DEFAULT,,0,0,0,,{\r}{\kf52}To{\kf30} this{\kf45} a{\kf41}ma-{\kf22}a{\kf30}zing{\kf52} Is{\kf52}land{\kf22} i-{\kf19}in{\kf11} the{\kf151} clouds
+Dialogue: 0,0:00:57.73,0:01:05.99,DEFAULT,,0,0,0,,{\r}{\kf19}the{\kf45} Is{\kf26}land{\kf16} i-{\kf13}in{\kf13} the{\kf694} clouds
+Dialogue: 0,0:01:22.34,0:01:25.27,DEFAULT,,0,0,0,,{\r}{\kf10}It{\kf52} feels{\kf26} like{\kf17} a{\kf39} rush{\kf35} of{\kf35} pur{\kf26}pose{\kf17} and{\kf36} lust
+Dialogue: 0,0:01:25.56,0:01:29.31,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf16} am{\kf24} hap{\kf24}py{\kf41} I{\kf41} know{\kf41} some{\kf49}one{\kf16} I{\kf24} can{\kf33} tru{\kf42}-ust
+Dialogue: 0,0:01:29.66,0:01:33.00,DEFAULT,,0,0,0,,{\r}{\kf27}Your{\kf31} past{\kf13} is{\kf27} in{\kf18} the{\kf40} past{\kf18} and{\kf27} your{\kf31} fu{\kf22}ture{\kf18} is{\kf62} grand
+Dialogue: 0,0:01:33.41,0:01:36.81,DEFAULT,,0,0,0,,{\r}{\kf16}Don't{\kf25} let{\kf16} it{\kf29} bo{\kf20}ther{\kf25} you{\kf16} be{\kf25}cause{\kf16} we{\kf25} got{\kf25} bet{\kf20}ter{\kf29} pla{\kf53}-ans
+Dialogue: 0,0:01:37.16,0:01:43.78,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf155} I've{\kf17} ne{\kf14}ver{\kf24} seen{\kf34} a{\kf37} place{\kf34} like{\kf233} thi{\kf24}-i{\kf70}-is
+Dialogue: 0,0:01:44.66,0:01:51.46,DEFAULT,,0,0,0,,{\r}{\kf26}To{\kf123}night{\kf32} is{\kf13} a{\kf19} ni-{\kf19}ight{\kf10} you{\kf39} don't{\kf10} wa-{\kf42}ant{\kf19} to{\kf243} mi{\kf85}-iss
+Dialogue: 0,0:01:52.45,0:01:55.30,DEFAULT,,0,0,0,,{\r}{\kf32}No{\kf24}thing{\kf20} in{\kf12} the{\kf53} sky{\kf32} could{\kf20} e{\kf28}ver{\kf20} a{\kf43}mount
+Dialogue: 0,0:01:55.50,0:02:00.77,DEFAULT,,0,0,0,,{\r}{\kf51}To{\kf33} this{\kf47} a{\kf40}ma-{\kf22}a{\kf33}zing{\kf58} Is{\kf36}land{\kf22} i-{\kf18}in{\kf15} the{\kf152} clouds
+Dialogue: 0,0:02:12.79,0:02:20.99,DEFAULT,,0,0,0,,{\r}{\kf13}the{\kf26} Is{\kf45}land{\kf16} i-{\kf13}in{\kf19} the{\kf688} clouds
+Dialogue: 0,0:02:30.01,0:02:37.39,DEFAULT,,0,0,0,,{\r}{\kf389}Oh{\kf44} wah-{\kf44}oh-{\kf44}wah-{\kf41}oh{\kf47} wah-{\kf47}oh-{\kf41}wah-{\kf41}oh
+Dialogue: 0,0:02:37.63,0:02:44.75,DEFAULT,,0,0,0,,{\r}{\kf375}Oh{\kf44} wah-{\kf44}oh-{\kf44}wah-{\kf47}oh{\kf44} wah-{\kf44}oh-{\kf34}wah-{\kf36}oh
+Dialogue: 0,0:02:44.89,0:02:46.97,DEFAULT,,0,0,0,,{\r}{\kf38}We{\kf45} will{\kf125} be
+Dialogue: 0,0:02:48.47,0:02:52.34,DEFAULT,,0,0,0,,{\r}{\kf16} the{\kf32} cen{\kf32}ter{\kf16} of{\kf16} at{\kf39}ten{\kf32}tion{\kf16} the{\kf28} cen{\kf36}ter{\kf24} of{\kf24} at{\kf16}ten{\kf60}tion
+Dialogue: 0,0:02:52.63,0:02:55.27,DEFAULT,,0,0,0,,{\r}{\kf26}We{\kf26} will{\kf212} be
+Dialogue: 0,0:02:55.97,0:02:59.75,DEFAULT,,0,0,0,,{\r}{\kf15} the{\kf30} cen{\kf30}ter{\kf15} of{\kf23} at{\kf42}ten{\kf23}tion{\kf15} the{\kf30} cen{\kf30}ter{\kf15} of{\kf23} at{\kf45}ten{\kf42}tion
+Dialogue: 0,0:02:59.89,0:03:02.65,DEFAULT,,0,0,0,,{\r}{\kf38}We{\kf45} will{\kf192} be
+Dialogue: 0,0:03:03.41,0:03:07.13,DEFAULT,,0,0,0,,{\r}{\kf16} the{\kf33} cen{\kf29}ter{\kf16} of{\kf25} at{\kf37}ten{\kf33}tion{\kf16} the{\kf33} cen{\kf33}ter{\kf16} of{\kf16} at{\kf41}ten{\kf28}tion
+Dialogue: 0,0:03:07.28,0:03:13.49,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf135} I've{\kf24} ne{\kf14}ver{\kf27} seen{\kf27} a{\kf47} place{\kf34} like{\kf233} thi{\kf27}-i{\kf33}-is
+Dialogue: 0,0:03:14.84,0:03:21.69,DEFAULT,,0,0,0,,{\r}{\kf13}To{\kf137}night{\kf13} is{\kf13} a{\kf23} ni-{\kf23}ight{\kf10} you{\kf39} don't{\kf10} wa-{\kf33}ant{\kf20} to{\kf235} mi{\kf117}-iss
+Dialogue: 0,0:03:22.45,0:03:25.32,DEFAULT,,0,0,0,,{\r}{\kf30}No{\kf23}thing{\kf15} in{\kf15} the{\kf53} sky{\kf30} could{\kf30} e{\kf23}ver{\kf23} a{\kf45}mount
+Dialogue: 0,0:03:25.44,0:03:30.72,DEFAULT,,0,0,0,,{\r}{\kf53}To{\kf38} this{\kf38} a{\kf42}ma-{\kf27}a{\kf38}zing{\kf61} Is{\kf38}land{\kf27} i-{\kf15}in{\kf15} the{\kf135} clouds
+Dialogue: 0,0:03:42.67,0:03:50.99,DEFAULT,,0,0,0,,{\r}{\kf20}the{\kf33} Is{\kf26}land{\kf20} i-{\kf13}in{\kf13} the{\kf707} clouds
+Dialogue: 0,0:04:00.01,0:04:04.58,DEFAULT,,0,0,0,,{\r}{\kf239}Oh{\kf37} oh-{\kf46}wah{\kf37}-oh{\kf55} wah{\kf43}-oh
+Dialogue: 0,0:04:05.34,0:04:09.86,DEFAULT,,0,0,0,,{\r}{\kf15}I've{\kf38} dreamed{\kf23} of{\kf15} this{\kf46} night{\kf23} for{\kf15} a{\kf27} ve{\kf23}ry{\kf38} long{\kf61} ti-{\kf38}i-{\kf27}i-{\kf62}ime
+Dialogue: 0,0:04:12.67,0:04:15.83,DEFAULT,,0,0,0,,{\r}{\kf28}So{\kf43} please{\kf25} stay{\kf14} with{\kf43} me{\kf36} to{\kf21}ni-{\kf106}ight

@@ -1,68 +1,75 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Don't Mine at Night
+Artist: ShadyVox, JanAnimations
+Original Timing: mylittlekaraoke.com by amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.10,0:00:08.72,DEFAULT,,0,0,0,,{\kf12}Got{\kf12} my{\kf12} sword{\kf12} with{\kf12} Sharp{\kf12}ness{\kf20} two
-Dialogue: 0,0:00:09.00,0:00:10.86,DEFAULT,,0,0,0,,{\kf12}Look{\kf12} that{\kf12} Zom{\kf12}bie's{\kf12} got{\kf12} one{\kf12} too{\kf8}~{\kf20} What?!
-Dialogue: 0,0:00:10.90,0:00:12.53,DEFAULT,,0,0,0,,{\kf12}Out{\kf12} of{\kf12} bread{\kf12} what{\kf12} do{\kf12} I{\kf20} do?
-Dialogue: 0,0:00:12.57,0:00:14.52,DEFAULT,,0,0,0,,{\kf12}I'm{\kf12} low{\kf12} on{\kf12} hearts{\kf12} this{\kf12} is{\kf12} my{\kf12} doom{\kf16}~
-Dialogue: 0,0:00:14.71,0:00:16.38,DEFAULT,,0,0,0,,{\kf12}I{\kf12} don't{\kf12} e{\kf12}ven{\kf12} have{\kf12} a{\kf24} tool
-Dialogue: 0,0:00:16.62,0:00:18.36,DEFAULT,,0,0,0,,{\kf8}Come{\kf12} on{\kf12} But{\kf12}ton{\kf12} play{\kf12} it{\kf32} cool
-Dialogue: 0,0:00:18.52,0:00:20.07,DEFAULT,,0,0,0,,{\kf12}Though{\kf12} I'm{\kf12} here{\kf12} to{\kf12} fight{\kf12} for{\kf12} you
-Dialogue: 0,0:00:20.19,0:00:22.13,DEFAULT,,0,0,0,,{\kf12}I'm{\kf12} bit{\kf12}ing{\kf12} more{\kf12} than{\kf12} I{\kf12} can{\kf12} chew{\kf16}~
-Dialogue: 0,0:00:22.33,0:00:24.59,DEFAULT,,0,0,0,,{\kf12}My{\kf12} life{\kf20} flash{\kf12}~{\kf32}es{\kf28} by{\kf12} through{\kf12} that
-Dialogue: 0,0:00:24.71,0:00:28.88,DEFAULT,,0,0,0,,{\kf12}End{\kf24}~{\kf32}er{\kf32} eye{\kf12} I'm{\kf36} scared{\kf48}~{\kf12} oh{\kf60} well
-Dialogue: 0,0:00:29.95,0:00:32.21,DEFAULT,,0,0,0,,{\kf12}And{\kf12} I'm{\kf20} pret{\kf12}~{\kf32}ty{\kf28} sure{\kf12} there's{\kf12} a
-Dialogue: 0,0:00:32.33,0:00:36.26,DEFAULT,,0,0,0,,{\kf36}Big{\kf32} Creep{\kf32}er{\kf12} right{\kf48} there{\kf40}~{\kf20} Oh{\kf36} dang
-Dialogue: 0,0:00:36.62,0:00:38.05,DEFAULT,,0,0,0,,{\kf12}Don't{\kf16}~{\kf12} mine{\kf24} at{\kf24} night
-Dialogue: 0,0:00:38.28,0:00:40.27,DEFAULT,,0,0,0,,{\kf12}I{\kf12} know{\kf12} you're{\kf12} look{\kf12}in'{\kf12} at{\kf12} that{\kf32} cave
-Dialogue: 0,0:00:40.43,0:00:42.13,DEFAULT,,0,0,0,,{\kf12}And{\kf12} you're{\kf12} feel{\kf12}in'{\kf12} kind{\kf12}a{\kf28} brave
-Dialogue: 0,0:00:42.33,0:00:44.04,DEFAULT,,0,0,0,,{\kf12}Go{\kf12} to{\kf12} bed{\kf12} you'll{\kf12} be{\kf12} al{\kf28}right
-Dialogue: 0,0:00:44.24,0:00:45.66,DEFAULT,,0,0,0,,{\kf12}Don't{\kf16}~{\kf12} mine{\kf24} at{\kf24} night
-Dialogue: 0,0:00:46.14,0:00:47.89,DEFAULT,,0,0,0,,{\kf12}Don't{\kf12} go{\kf12} deep{\kf12}er{\kf12} make{\kf12} a{\kf32} change
-Dialogue: 0,0:00:48.05,0:00:49.75,DEFAULT,,0,0,0,,{\kf12}Get{\kf12} that{\kf12} gold{\kf12} and{\kf12} get{\kf12} a{\kf28}way
-Dialogue: 0,0:00:49.95,0:00:51.66,DEFAULT,,0,0,0,,{\kf12}Zom{\kf12}bies{\kf12} wan{\kf12}na'{\kf12} eat{\kf12} our{\kf28} brains
-Dialogue: 0,0:00:51.85,0:00:53.28,DEFAULT,,0,0,0,,{\kf28}Don't{\kf12} mine{\kf24} at{\kf24} night
-Dialogue: 0,0:00:53.52,0:00:55.51,DEFAULT,,0,0,0,,{\kf12}I'll{\kf12} fight{\kf12} a{\kf12}way{\kf12} the{\kf12} skel{\kf12}e{\kf32}tons
-Dialogue: 0,0:00:55.66,0:00:57.21,DEFAULT,,0,0,0,,{\kf12}While{\kf12} you're{\kf12} look{\kf12}ing{\kf12} for{\kf12} dia{\kf12}monds
-Dialogue: 0,0:00:57.33,0:00:59.27,DEFAULT,,0,0,0,,{\kf12}They're{\kf12} get{\kf12}ting{\kf12} clos{\kf12}er{\kf12} bet{\kf12}ter{\kf28} run
-Dialogue: 0,0:00:59.47,0:01:00.90,DEFAULT,,0,0,0,,{\kf32}Don't{\kf12} mine{\kf24} at{\kf24} night
-Dialogue: 0,0:01:01.14,0:01:03.12,DEFAULT,,0,0,0,,{\kf12}No{\kf12} this{\kf12} won't{\kf12} be{\kf12} our{\kf12} fi{\kf12}nal{\kf32} day
-Dialogue: 0,0:01:03.28,0:01:06.73,DEFAULT,,0,0,0,,{\kf12}Take{\kf12} my{\kf12} hoof{\kf12} we'll{\kf12} find{\kf12} a{\kf40} way-{\kf24}ay{\kf12} a-{\kf24}woah{\kf36}~
-Dialogue: 0,0:01:07.09,0:01:14.23,DEFAULT,,0,0,0,,{\kf12}Don't{\kf12}~{\kf12} mine{\kf24} at{\kf596} night
-Dialogue: 0,0:01:14.71,0:01:21.97,DEFAULT,,0,0,0,,{\kf12}Don't{\kf12}~{\kf12} mine{\kf24} at{\kf608} night
-Dialogue: 0,0:01:23.04,0:01:24.83,DEFAULT,,0,0,0,,{\kf12}I{\kf12} turn{\kf12} a{\kf12} sec'{\kf12} you're{\kf12} get{\kf8}ting{\kf12} shot
-Dialogue: 0,0:01:24.95,0:01:26.85,DEFAULT,,0,0,0,,{\kf8}Then{\kf8} you{\kf12} jump{\kf8} through{\kf8} a{\kf12} por{\kf12}tal{\kf12} Well{\kf12} why{\kf20} not?
-Dialogue: 0,0:01:27.09,0:01:28.64,DEFAULT,,0,0,0,,{\kf12}When{\kf12} I{\kf12} think{\kf12} it{\kf12} can't{\kf12} get{\kf12} worse
-Dialogue: 0,0:01:28.76,0:01:30.74,DEFAULT,,0,0,0,,{\kf12}An{\kf12} End{\kf12}er{\kf12} herd{\kf12} shows{\kf12} up{\kf12} of{\kf12} course{\kf20}~
-Dialogue: 0,0:01:30.90,0:01:32.45,DEFAULT,,0,0,0,,{\kf12}Now{\kf12} you{\kf12} say{\kf12} you{\kf12} need{\kf12} glow{\kf12}stone
-Dialogue: 0,0:01:32.57,0:01:34.39,DEFAULT,,0,0,0,,{\kf12}And{\kf12} want{\kf12} to{\kf12} mine{\kf12} it{\kf12} on{\kf12} your{\kf16} own
-Dialogue: 0,0:01:34.71,0:01:36.50,DEFAULT,,0,0,0,,{\kf12}Then{\kf12} to{\kf12} save{\kf12} you{\kf12} from{\kf12} the{\kf12} la{\kf12}va
-Dialogue: 0,0:01:36.61,0:01:38.40,DEFAULT,,0,0,0,,{\kf12}I{\kf12} fell{\kf12} in{\kf12} I{\kf12} should{\kf12} have{\kf12} known{\kf24}~
-Dialogue: 0,0:01:38.52,0:01:40.78,DEFAULT,,0,0,0,,{\kf12}This{\kf12} is{\kf12} the{\kf16}~{\kf28} last{\kf12} time{\kf12} I{\kf12} try{\kf12} to
-Dialogue: 0,0:01:40.90,0:01:45.19,DEFAULT,,0,0,0,,{\kf36}Be{\kf32} your{\kf28} light{\kf12} I{\kf44} failed{\kf40}~{\kf12} so{\kf72} bad
-Dialogue: 0,0:01:46.14,0:01:48.40,DEFAULT,,0,0,0,,{\kf12}I{\kf12} lost{\kf12} all{\kf16}~{\kf28} my{\kf32} stuff{\kf12} it{\kf12} was
-Dialogue: 0,0:01:48.52,0:01:52.33,DEFAULT,,0,0,0,,{\kf36}Real{\kf28}ly{\kf28} tough{\kf12} that's{\kf48} it{\kf44}~{\kf32} Rage{\kf24} Quit!
-Dialogue: 0,0:01:52.80,0:01:54.23,DEFAULT,,0,0,0,,{\kf12}Don't{\kf20}~{\kf12} mine{\kf24} at{\kf24} night
-Dialogue: 0,0:01:54.47,0:01:56.45,DEFAULT,,0,0,0,,{\kf12}I{\kf12} know{\kf12} you're{\kf12} look{\kf12}in'{\kf12} at{\kf12} that{\kf32} cave
-Dialogue: 0,0:01:56.61,0:01:58.36,DEFAULT,,0,0,0,,{\kf12}And{\kf12} you're{\kf12} feel{\kf12}in'{\kf12} kind{\kf12}a{\kf32} brave
-Dialogue: 0,0:01:58.52,0:02:00.26,DEFAULT,,0,0,0,,{\kf12}Go{\kf12} to{\kf12} bed{\kf12} you'll{\kf12} be{\kf12} al{\kf32}right
-Dialogue: 0,0:02:00.42,0:02:01.85,DEFAULT,,0,0,0,,{\kf12}Don't{\kf20}~{\kf12} mine{\kf24} at{\kf24} night
-Dialogue: 0,0:02:02.33,0:02:04.07,DEFAULT,,0,0,0,,{\kf12}Don't{\kf12} go{\kf12} deep{\kf12}er{\kf12} make{\kf12} a{\kf32} change
-Dialogue: 0,0:02:04.23,0:02:05.98,DEFAULT,,0,0,0,,{\kf12}Get{\kf12} that{\kf12} gold{\kf12} and{\kf12} get{\kf12} a{\kf32}way
-Dialogue: 0,0:02:06.14,0:02:07.88,DEFAULT,,0,0,0,,{\kf12}Zom{\kf12}bies{\kf12} wan{\kf12}na'{\kf12} eat{\kf12} your{\kf32} brains
-Dialogue: 0,0:02:08.04,0:02:09.47,DEFAULT,,0,0,0,,{\kf32}Don't{\kf12} mine{\kf24} at{\kf24} night
-Dialogue: 0,0:02:09.71,0:02:11.69,DEFAULT,,0,0,0,,{\kf12}Please{\kf12} don't{\kf12} get{\kf12} caught{\kf12} by{\kf12} skel{\kf12}e{\kf32}tons
-Dialogue: 0,0:02:11.85,0:02:13.40,DEFAULT,,0,0,0,,{\kf12}While{\kf12} you're{\kf12} look{\kf12}ing{\kf12} for{\kf12} dia{\kf12}monds
-Dialogue: 0,0:02:13.52,0:02:15.50,DEFAULT,,0,0,0,,{\kf12}They're{\kf12} get{\kf12}ting{\kf12} clos{\kf12}er{\kf12} bet{\kf12}ter{\kf32} run
-Dialogue: 0,0:02:15.66,0:02:17.09,DEFAULT,,0,0,0,,{\kf32}Don't{\kf12} mine{\kf24} at{\kf24} night
-Dialogue: 0,0:02:17.33,0:02:19.27,DEFAULT,,0,0,0,,{\kf12}No{\kf12} this{\kf12} won't{\kf12} be{\kf12} your{\kf12} fi{\kf12}nal{\kf28} day
-Dialogue: 0,0:02:19.47,0:02:22.92,DEFAULT,,0,0,0,,{\kf12}Hold{\kf12} on{\kf12} tight{\kf12} I'm{\kf12} on{\kf12} my{\kf40} way-{\kf24}ay{\kf12} a-{\kf24}woah{\kf36}~
-Dialogue: 0,0:02:23.28,0:02:30.54,DEFAULT,,0,0,0,,{\kf12}Don't{\kf12}~{\kf12} mine{\kf24} at{\kf608} night
+Dialogue: 0,0:00:07.10,0:00:08.73,DEFAULT,,0,0,0,,{\r}{\kf21}Got{\kf21} my{\kf21} sword{\kf21} with{\kf21} Sharp{\kf21}ness{\kf37} two
+Dialogue: 0,0:00:09.00,0:00:10.87,DEFAULT,,0,0,0,,{\r}{\kf20}Look{\kf20} that{\kf20} Zom{\kf20}bie's{\kf20} got{\kf20} one{\kf20} too{\kf13}~{\kf33} What?!
+Dialogue: 0,0:00:10.91,0:00:12.54,DEFAULT,,0,0,0,,{\r}{\kf21}Out{\kf21} of{\kf21} bread{\kf21} what{\kf21} do{\kf21} I{\kf37} do?
+Dialogue: 0,0:00:12.58,0:00:14.52,DEFAULT,,0,0,0,,{\r}{\kf21}I'm{\kf21} low{\kf21} on{\kf21} hearts{\kf21} this{\kf21} is{\kf21} my{\kf21} doom{\kf26}~
+Dialogue: 0,0:00:14.72,0:00:16.39,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21} don't{\kf21} e{\kf21}ven{\kf21} have{\kf21} a{\kf41} tool
+Dialogue: 0,0:00:16.62,0:00:18.37,DEFAULT,,0,0,0,,{\r}{\kf14}Come{\kf21} on{\kf21} But{\kf21}ton{\kf21} play{\kf21} it{\kf56} cool
+Dialogue: 0,0:00:18.53,0:00:20.08,DEFAULT,,0,0,0,,{\r}{\kf22}Though{\kf22} I'm{\kf22} here{\kf22} to{\kf22} fight{\kf22} for{\kf23} you
+Dialogue: 0,0:00:20.19,0:00:22.14,DEFAULT,,0,0,0,,{\r}{\kf21}I'm{\kf21} bit{\kf21}ing{\kf21} more{\kf21} than{\kf21} I{\kf21} can{\kf21} chew{\kf26}~
+Dialogue: 0,0:00:22.34,0:00:24.60,DEFAULT,,0,0,0,,{\r}{\kf19}My{\kf19} life{\kf32} flash{\kf19}~{\kf52}es{\kf45} by{\kf19} through{\kf21} that
+Dialogue: 0,0:00:24.72,0:00:28.88,DEFAULT,,0,0,0,,{\r}{\kf19}End{\kf37}~{\kf50}er{\kf50} eye{\kf19} I'm{\kf56} scared{\kf75}~{\kf19} oh{\kf92} well
+Dialogue: 0,0:00:29.96,0:00:32.22,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} I'm{\kf32} pret{\kf19}~{\kf52}ty{\kf45} sure{\kf19} there's{\kf21} a
+Dialogue: 0,0:00:32.34,0:00:36.27,DEFAULT,,0,0,0,,{\r}{\kf55}Big{\kf49} Creep{\kf49}er{\kf18} right{\kf74} there{\kf61}~{\kf31} Oh{\kf56} dang
+Dialogue: 0,0:00:36.62,0:00:38.05,DEFAULT,,0,0,0,,{\r}{\kf20}Don't{\kf26}~{\kf20} mine{\kf39} at{\kf38} night
+Dialogue: 0,0:00:38.29,0:00:40.27,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf20} know{\kf20} you're{\kf20} look{\kf20}in'{\kf20} at{\kf20} that{\kf58} cave
+Dialogue: 0,0:00:40.43,0:00:42.14,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} you're{\kf21} feel{\kf21}in'{\kf21} kind{\kf21}a{\kf45} brave
+Dialogue: 0,0:00:42.34,0:00:44.04,DEFAULT,,0,0,0,,{\r}{\kf21}Go{\kf21} to{\kf21} bed{\kf21} you'll{\kf21} be{\kf21} al{\kf45}right
+Dialogue: 0,0:00:44.24,0:00:45.67,DEFAULT,,0,0,0,,{\r}{\kf20}Don't{\kf26}~{\kf20} mine{\kf39} at{\kf38} night
+Dialogue: 0,0:00:46.15,0:00:47.89,DEFAULT,,0,0,0,,{\r}{\kf20}Don't{\kf20} go{\kf20} deep{\kf20}er{\kf20} make{\kf20} a{\kf55} change
+Dialogue: 0,0:00:48.05,0:00:49.76,DEFAULT,,0,0,0,,{\r}{\kf21}Get{\kf21} that{\kf21} gold{\kf21} and{\kf21} get{\kf21} a{\kf45}way
+Dialogue: 0,0:00:49.95,0:00:51.66,DEFAULT,,0,0,0,,{\r}{\kf21}Zom{\kf21}bies{\kf21} wan{\kf21}na'{\kf21} eat{\kf21} our{\kf45} brains
+Dialogue: 0,0:00:51.86,0:00:53.29,DEFAULT,,0,0,0,,{\r}{\kf46}Don't{\kf20} mine{\kf39} at{\kf38} night
+Dialogue: 0,0:00:53.53,0:00:55.51,DEFAULT,,0,0,0,,{\r}{\kf20}I'll{\kf20} fight{\kf20} a{\kf20}way{\kf20} the{\kf20} skel{\kf20}e{\kf58}tons
+Dialogue: 0,0:00:55.67,0:00:57.22,DEFAULT,,0,0,0,,{\r}{\kf22}While{\kf22} you're{\kf22} look{\kf22}ing{\kf22} for{\kf22} dia{\kf23}monds
+Dialogue: 0,0:00:57.34,0:00:59.28,DEFAULT,,0,0,0,,{\r}{\kf21}They're{\kf21} get{\kf21}ting{\kf21} clos{\kf21}er{\kf21} bet{\kf21}ter{\kf47} run
+Dialogue: 0,0:00:59.48,0:01:00.91,DEFAULT,,0,0,0,,{\r}{\kf50}Don't{\kf19} mine{\kf37} at{\kf37} night
+Dialogue: 0,0:01:01.14,0:01:03.13,DEFAULT,,0,0,0,,{\r}{\kf20}No{\kf20} this{\kf20} won't{\kf20} be{\kf20} our{\kf20} fi{\kf20}nal{\kf58} day
+Dialogue: 0,0:01:03.29,0:01:06.74,DEFAULT,,0,0,0,,{\r}{\kf20}Take{\kf20} my{\kf20} hoof{\kf20} we'll{\kf20} find{\kf20} a{\kf66} way-{\kf40}ay{\kf20} a-{\kf40}woah{\kf59}~
+Dialogue: 0,0:01:07.10,0:01:14.24,DEFAULT,,0,0,0,,{\r}{\kf13}Don't{\kf13}~{\kf13} mine{\kf26} at{\kf649} night
+Dialogue: 0,0:01:14.72,0:01:21.98,DEFAULT,,0,0,0,,{\r}{\kf13}Don't{\kf13}~{\kf13} mine{\kf26} at{\kf661} night
+Dialogue: 0,0:01:23.05,0:01:24.83,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf23} turn{\kf23} a{\kf23} sec'{\kf23} you're{\kf23} get{\kf16}ting{\kf25} shot
+Dialogue: 0,0:01:24.95,0:01:26.86,DEFAULT,,0,0,0,,{\r}{\kf14}Then{\kf14} you{\kf20} jump{\kf14} through{\kf14} a{\kf20} por{\kf20}tal{\kf20} Well{\kf20} why{\kf34} not?
+Dialogue: 0,0:01:27.10,0:01:28.64,DEFAULT,,0,0,0,,{\r}{\kf22}When{\kf22} I{\kf22} think{\kf22} it{\kf22} can't{\kf22} get{\kf23} worse
+Dialogue: 0,0:01:28.76,0:01:30.75,DEFAULT,,0,0,0,,{\r}{\kf20}An{\kf20} End{\kf20}er{\kf20} herd{\kf20} shows{\kf20} up{\kf20} of{\kf20} course{\kf38}~
+Dialogue: 0,0:01:30.91,0:01:32.45,DEFAULT,,0,0,0,,{\r}{\kf22}Now{\kf22} you{\kf22} say{\kf22} you{\kf22} need{\kf22} glow{\kf23}stone
+Dialogue: 0,0:01:32.57,0:01:34.40,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} want{\kf22} to{\kf22} mine{\kf22} it{\kf22} on{\kf22} your{\kf29} own
+Dialogue: 0,0:01:34.71,0:01:36.50,DEFAULT,,0,0,0,,{\r}{\kf22}Then{\kf22} to{\kf22} save{\kf22} you{\kf22} from{\kf22} the{\kf22} la{\kf25}va
+Dialogue: 0,0:01:36.62,0:01:38.40,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf20} fell{\kf20} in{\kf20} I{\kf20} should{\kf20} have{\kf20} known{\kf39}~
+Dialogue: 0,0:01:38.52,0:01:40.79,DEFAULT,,0,0,0,,{\r}{\kf21}This{\kf21} is{\kf21} the{\kf28}~{\kf49} last{\kf21} time{\kf21} I{\kf21} try{\kf23} to
+Dialogue: 0,0:01:40.90,0:01:45.19,DEFAULT,,0,0,0,,{\r}{\kf56}Be{\kf50} your{\kf44} light{\kf19} I{\kf68} failed{\kf62}~{\kf19} so{\kf111} bad
+Dialogue: 0,0:01:46.14,0:01:48.40,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf20} lost{\kf20} all{\kf27}~{\kf47} my{\kf53} stuff{\kf20} it{\kf19} was
+Dialogue: 0,0:01:48.52,0:01:52.33,DEFAULT,,0,0,0,,{\r}{\kf54}Real{\kf42}ly{\kf42} tough{\kf18} that's{\kf73} it{\kf67}~{\kf48} Rage{\kf37} Quit!
+Dialogue: 0,0:01:52.81,0:01:54.24,DEFAULT,,0,0,0,,{\r}{\kf19}Don't{\kf31}~{\kf19} mine{\kf37} at{\kf37} night
+Dialogue: 0,0:01:54.48,0:01:56.46,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf20} know{\kf20} you're{\kf20} look{\kf20}in'{\kf20} at{\kf20} that{\kf58} cave
+Dialogue: 0,0:01:56.62,0:01:58.36,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} you're{\kf20} feel{\kf20}in'{\kf20} kind{\kf20}a{\kf55} brave
+Dialogue: 0,0:01:58.52,0:02:00.27,DEFAULT,,0,0,0,,{\r}{\kf20}Go{\kf20} to{\kf20} bed{\kf20} you'll{\kf20} be{\kf20} al{\kf55}right
+Dialogue: 0,0:02:00.43,0:02:01.86,DEFAULT,,0,0,0,,{\r}{\kf19}Don't{\kf31}~{\kf19} mine{\kf37} at{\kf37} night
+Dialogue: 0,0:02:02.33,0:02:04.08,DEFAULT,,0,0,0,,{\r}{\kf20}Don't{\kf20} go{\kf20} deep{\kf20}er{\kf20} make{\kf20} a{\kf55} change
+Dialogue: 0,0:02:04.24,0:02:05.98,DEFAULT,,0,0,0,,{\r}{\kf20}Get{\kf20} that{\kf20} gold{\kf20} and{\kf20} get{\kf20} a{\kf55}way
+Dialogue: 0,0:02:06.14,0:02:07.89,DEFAULT,,0,0,0,,{\r}{\kf20}Zom{\kf20}bies{\kf20} wan{\kf20}na'{\kf20} eat{\kf20} your{\kf55} brains
+Dialogue: 0,0:02:08.05,0:02:09.47,DEFAULT,,0,0,0,,{\r}{\kf50}Don't{\kf19} mine{\kf37} at{\kf37} night
+Dialogue: 0,0:02:09.71,0:02:11.70,DEFAULT,,0,0,0,,{\r}{\kf20}Please{\kf20} don't{\kf20} get{\kf20} caught{\kf20} by{\kf20} skel{\kf20}e{\kf58}tons
+Dialogue: 0,0:02:11.86,0:02:13.40,DEFAULT,,0,0,0,,{\r}{\kf22}While{\kf22} you're{\kf22} look{\kf22}ing{\kf22} for{\kf22} dia{\kf23}monds
+Dialogue: 0,0:02:13.52,0:02:15.51,DEFAULT,,0,0,0,,{\r}{\kf20}They're{\kf20} get{\kf20}ting{\kf20} clos{\kf20}er{\kf20} bet{\kf20}ter{\kf58} run
+Dialogue: 0,0:02:15.66,0:02:17.09,DEFAULT,,0,0,0,,{\r}{\kf50}Don't{\kf19} mine{\kf37} at{\kf37} night
+Dialogue: 0,0:02:17.33,0:02:19.28,DEFAULT,,0,0,0,,{\r}{\kf21}No{\kf21} this{\kf21} won't{\kf21} be{\kf21} your{\kf21} fi{\kf21}nal{\kf47} day
+Dialogue: 0,0:02:19.47,0:02:22.93,DEFAULT,,0,0,0,,{\r}{\kf20}Hold{\kf20} on{\kf20} tight{\kf20} I'm{\kf20} on{\kf20} my{\kf66} way-{\kf40}ay{\kf20} a-{\kf40}woah{\kf59}~
+Dialogue: 0,0:02:23.28,0:02:30.54,DEFAULT,,0,0,0,,{\r}{\kf13}Don't{\kf13}~{\kf13} mine{\kf26} at{\kf661} night

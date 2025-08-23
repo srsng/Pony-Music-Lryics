@@ -1,76 +1,83 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Breaking Bonds
+Artist: AcousticBrony, PrinceWhateverer
+Original Timing: mylittlekaraoke.com by Pony Rock Project
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.00,0:00:10.53,DEFAULT,,0,0,0,,{\kf12}At{\kf12} mo{\kf12}ments{\kf16} like{\kf12} these
-Dialogue: 0,0:00:14.81,0:00:16.91,DEFAULT,,0,0,0,,{\kf19}You{\kf12} need{\kf4} to{\kf16} step{\kf12} back{\kf8} and{\kf27} say
-Dialogue: 0,0:00:20.70,0:00:23.43,DEFAULT,,0,0,0,,{\kf27}Where's{\kf4} the{\kf4} Bal{\kf19}loon{\kf12} Par{\kf23}ty?{\kf121} Oh!
-Dialogue: 0,0:00:49.57,0:00:53.36,DEFAULT,,0,0,0,,{\kf8}So{\kf12} man{\kf16}y{\kf8} years{\kf8} that{\kf8} we{\kf16} have{\kf8} known{\kf23}~{\kf27} each{\kf12} oth{\kf42}er{\kf91}~
-Dialogue: 0,0:00:55.87,0:00:59.47,DEFAULT,,0,0,0,,{\kf16}We{\kf16} made{\kf4} the{\kf19} best{\kf16} team{\kf12} from{\kf8} the{\kf16} ver{\kf8}y{\kf8} be{\kf31}gin{\kf68}ning
-Dialogue: 0,0:01:02.40,0:01:05.14,DEFAULT,,0,0,0,,{\kf16}They{\kf19} may{\kf27} not{\kf19} be{\kf16} like{\kf12} you{\kf12} and{\kf72} me
-Dialogue: 0,0:01:05.55,0:01:08.14,DEFAULT,,0,0,0,,{\kf12}But{\kf27} they{\kf34} care{\kf27} more{\kf16} than{\kf27} you{\kf53} know
-Dialogue: 0,0:01:08.77,0:01:11.66,DEFAULT,,0,0,0,,{\kf19}So{\kf8} if{\kf16} you're{\kf12} gon{\kf12}na{\kf12} be{\kf12} a{\kf16} b---h{\kf12} and{\kf16} just{\kf12} keep{\kf19} talk{\kf16}ing{\kf23} s--t
-Dialogue: 0,0:01:12.00,0:01:15.00,DEFAULT,,0,0,0,,{\kf16}Why{\kf12} don't{\kf12} you{\kf16} pack{\kf12} your{\kf16} bags{\kf8} and{\kf16} leave{\kf16} us{\kf12} a{\kf98}lone?
-Dialogue: 0,0:01:15.11,0:01:16.61,DEFAULT,,0,0,0,,{\kf12}A{\kf8}fraid{\kf8} to{\kf12} get{\kf16} dirt{\kf23}y?
-Dialogue: 0,0:01:29.44,0:01:30.22,DEFAULT,,0,0,0,,{\kf79}Oh!
-Dialogue: 0,0:01:43.95,0:01:46.91,DEFAULT,,0,0,0,,{\kf16}This{\kf16} is{\kf16} the{\kf16} last{\kf12} time{\kf12} that{\kf12} you'll{\kf16} ev{\kf12}er{\kf12} see{\kf12} my{\kf72} face
-Dialogue: 0,0:01:47.17,0:01:49.65,DEFAULT,,0,0,0,,{\kf23}I{\kf19} can't{\kf12} be{\kf16}lieve{\kf16} you{\kf12} brought{\kf12} me{\kf12} to{\kf8} this{\kf12} f--k{\kf8}ing{\kf27} place
-Dialogue: 0,0:01:50.40,0:01:53.18,DEFAULT,,0,0,0,,{\kf19}I{\kf12} can't{\kf12} stop{\kf16} see{\kf12}ing{\kf31} pink{\kf16} eve{\kf12}ry{\kf16} where{\kf12} I{\kf46} turn
-Dialogue: 0,0:01:54.75,0:01:56.78,DEFAULT,,0,0,0,,{\kf16}When{\kf16} will{\kf16} you{\kf16} ev{\kf16}er{\kf94} learn?
-Dialogue: 0,0:02:00.94,0:02:03.90,DEFAULT,,0,0,0,,{\kf27}Please{\kf27} Gil{\kf27}da{\kf23} lis{\kf16}ten{\kf31} to{\kf49} me
-Dialogue: 0,0:02:04.16,0:02:07.13,DEFAULT,,0,0,0,,{\kf31}I{\kf31} on{\kf31}ly{\kf34} want{\kf27}ed{\kf27} to{\kf53} be
-Dialogue: 0,0:02:07.39,0:02:10.46,DEFAULT,,0,0,0,,{\kf19}A{\kf16} friend{\kf23} for{\kf27} you{\kf23} to{\kf16} de{\kf16}pend{\kf31} on
-Dialogue: 0,0:02:10.61,0:02:13.58,DEFAULT,,0,0,0,,{\kf27}When{\kf23} eve{\kf31}ry{\kf23}one{\kf23} else{\kf23} has{\kf57} gone
-Dialogue: 0,0:02:13.76,0:02:16.05,DEFAULT,,0,0,0,,{\kf27}But{\kf38} here{\kf31} we{\kf106} are
-Dialogue: 0,0:02:16.91,0:02:20.06,DEFAULT,,0,0,0,,{\kf31}I've{\kf31} gone{\kf31} too{\kf61} far{\kf61}~{\kf64}~
-Dialogue: 0,0:02:20.21,0:02:22.84,DEFAULT,,0,0,0,,{\kf23}I{\kf27} should{\kf31}'ve{\kf31} known{\kf31} bet{\kf34}ter{\kf27} than
-Dialogue: 0,0:02:22.95,0:02:26.18,DEFAULT,,0,0,0,,{\kf23}To{\kf31} try{\kf27} and{\kf34} change{\kf34} who{\kf34} you{\kf38} are{\kf34}~
-Dialogue: 0,0:02:27.86,0:02:29.25,DEFAULT,,0,0,0,,{\kf4}You{\kf12} move{\kf23} on{\kf8} you{\kf8} meet{\kf8} new{\kf12} fac{\kf4}es
-Dialogue: 0,0:02:29.40,0:02:30.90,DEFAULT,,0,0,0,,{\kf12}Time{\kf8} goes{\kf19} on{\kf4} you{\kf8} see{\kf8} new{\kf12} plac{\kf8}es
-Dialogue: 0,0:02:31.20,0:02:32.25,DEFAULT,,0,0,0,,{\kf8}Old{\kf16} bonds{\kf8} forged{\kf12} long{\kf4} a{\kf16}go
-Dialogue: 0,0:02:32.33,0:02:34.01,DEFAULT,,0,0,0,,{\kf8}Meet{\kf8} a{\kf8} web{\kf4} of{\kf12} friend{\kf4}ship{\kf8} in{\kf12} their{\kf12} new{\kf19} home
-Dialogue: 0,0:02:34.43,0:02:35.66,DEFAULT,,0,0,0,,{\kf8}Soft{\kf12} hooves{\kf4} meet{\kf4} a{\kf12} heart{\kf4} of{\kf27} stone
-Dialogue: 0,0:02:36.04,0:02:37.28,DEFAULT,,0,0,0,,{\kf8}It's{\kf12} all{\kf4} good{\kf4} till{\kf12} you{\kf8} find{\kf16} that{\kf8} pone
-Dialogue: 0,0:02:37.39,0:02:38.03,DEFAULT,,0,0,0,,{\kf4}Is{\kf4} steppin'{\kf8} on{\kf4} your{\kf8} turf{\kf4} so
-Dialogue: 0,0:02:38.06,0:02:38.70,DEFAULT,,0,0,0,,{\kf4}You{\kf4} treat{\kf4} her{\kf12} like{\kf8} dirt
-Dialogue: 0,0:02:38.78,0:02:39.64,DEFAULT,,0,0,0,,{\kf4}An{\kf4}y{\kf8}po{\kf4}ny{\kf8} get{\kf4} in{\kf4} your{\kf8} way
-Dialogue: 0,0:02:39.72,0:02:40.50,DEFAULT,,0,0,0,,{\kf4}They're{\kf8} gon{\kf4}na{\kf8} get{\kf4} hurt{\kf16} ha!
-Dialogue: 0,0:02:40.69,0:02:41.82,DEFAULT,,0,0,0,,{\kf4}Re{\kf8}verse{\kf4} tac{\kf4}tics{\kf4} you're{\kf8} quick{\kf8} to{\kf12} match
-Dialogue: 0,0:02:42.04,0:02:43.73,DEFAULT,,0,0,0,,{\kf8}This{\kf8} you've{\kf8} prac{\kf4}ticed{\kf4} so{\kf8} what's{\kf8} the{\kf16} catch{\kf12} miss?
-Dialogue: 0,0:02:44.07,0:02:45.15,DEFAULT,,0,0,0,,{\kf8}This{\kf4} lit{\kf4}tle{\kf4} pink{\kf23} spazz's{\kf12} an{\kf8}tics
-Dialogue: 0,0:02:45.27,0:02:46.88,DEFAULT,,0,0,0,,{\kf8}Has{\kf8} caused{\kf8} your{\kf12} crash{\kf4}ing{\kf4} and{\kf12} you{\kf8} wont{\kf12} have{\kf8} this
-Dialogue: 0,0:02:47.18,0:02:48.38,DEFAULT,,0,0,0,,{\kf12}Care{\kf12}ful{\kf8} you're{\kf4} on{\kf4} the{\kf8} brink{\kf4} of{\kf16} mad{\kf8}ness
-Dialogue: 0,0:02:48.49,0:02:50.10,DEFAULT,,0,0,0,,{\kf4}An{\kf4}oth{\kf4}er{\kf4} lit{\kf4}tle{\kf4} sil{\kf4}ly{\kf8} prank{\kf4} and{\kf4} you're{\kf4} gon{\kf4}na{\kf8} smash{\kf12} s--t
-Dialogue: 0,0:02:50.37,0:02:51.72,DEFAULT,,0,0,0,,{\kf4}Then{\kf4} you{\kf8} find{\kf8} out{\kf8} that{\kf12} they{\kf12} were{\kf34} Dash's
-Dialogue: 0,0:02:51.98,0:02:54.27,DEFAULT,,0,0,0,,{\kf4}And{\kf12} now{\kf4} your{\kf12} friend{\kf4}ship's{\kf8} in{\kf16} ash{\kf16}es{\kf8} ha{\kf8} ha{\kf12} ha
-Dialogue: 0,0:02:55.02,0:03:02.22,DEFAULT,,0,0,0,,{\kf627}Ah!{\kf79} Oh!
-Dialogue: 0,0:03:07.99,0:03:10.69,DEFAULT,,0,0,0,,{\kf19}I'm{\kf19} get{\kf16}ting{\kf31} out{\kf16} now{\kf12} I{\kf12} should{\kf16} have{\kf16} nev{\kf12}er{\kf49} came
-Dialogue: 0,0:03:10.77,0:03:13.80,DEFAULT,,0,0,0,,{\kf16}I'm{\kf31} tired{\kf12} of{\kf12} your{\kf23} s--t{\kf8} I{\kf16} don't{\kf16} wan{\kf8}na{\kf19} play{\kf4} this{\kf42} game
-Dialogue: 0,0:03:13.88,0:03:17.14,DEFAULT,,0,0,0,,{\kf23}I'll{\kf16} catch{\kf16} you{\kf16} back{\kf16} in{\kf34} Clouds{\kf34}dale{\kf12} back{\kf19} where{\kf12} I{\kf16} be{\kf49}long
-Dialogue: 0,0:03:17.22,0:03:20.59,DEFAULT,,0,0,0,,{\kf19}Be{\kf12}fore{\kf12} this{\kf16} pink{\kf16} night{\kf8}mare{\kf12} sings{\kf12} an{\kf19}oth{\kf12}er{\kf12} f--k{\kf8}ing{\kf87} song
-Dialogue: 0,0:03:20.93,0:03:23.89,DEFAULT,,0,0,0,,{\kf27}Please{\kf27} Gil{\kf27}da{\kf23} lis{\kf16}ten{\kf31} to{\kf49} me
-Dialogue: 0,0:03:24.19,0:03:27.12,DEFAULT,,0,0,0,,{\kf31}I{\kf31} on{\kf31}ly{\kf34} want{\kf27}ed{\kf27} to{\kf53} be
-Dialogue: 0,0:03:27.38,0:03:30.46,DEFAULT,,0,0,0,,{\kf19}A{\kf16} friend{\kf23} for{\kf27} you{\kf23} to{\kf16} de{\kf16}pend{\kf31} on
-Dialogue: 0,0:03:30.61,0:03:33.57,DEFAULT,,0,0,0,,{\kf27}When{\kf23} eve{\kf31}ry{\kf23}one{\kf23} else{\kf23} has{\kf57} gone
-Dialogue: 0,0:03:33.79,0:03:36.08,DEFAULT,,0,0,0,,{\kf27}But{\kf38} here{\kf31} we{\kf106} are
-Dialogue: 0,0:03:36.91,0:03:40.06,DEFAULT,,0,0,0,,{\kf31}I've{\kf31} gone{\kf31} too{\kf64} far{\kf61}~{\kf64}~
-Dialogue: 0,0:03:40.24,0:03:42.87,DEFAULT,,0,0,0,,{\kf23}I{\kf27} should{\kf31}'ve{\kf31} known{\kf31} bet{\kf34}ter{\kf27} than
-Dialogue: 0,0:03:42.98,0:03:46.17,DEFAULT,,0,0,0,,{\kf23}To{\kf31} try{\kf27} and{\kf34} change{\kf34} who{\kf34} you{\kf38} are{\kf34}~
-Dialogue: 0,0:03:46.54,0:03:49.51,DEFAULT,,0,0,0,,{\kf27}Please{\kf27} Gil{\kf27}da{\kf23} lis{\kf16}ten{\kf31} to{\kf49} me
-Dialogue: 0,0:03:49.77,0:03:52.73,DEFAULT,,0,0,0,,{\kf31}I{\kf31} on{\kf31}ly{\kf34} want{\kf27}ed{\kf27} to{\kf53} be
-Dialogue: 0,0:03:52.99,0:03:56.07,DEFAULT,,0,0,0,,{\kf19}A{\kf16} friend{\kf23} for{\kf27} you{\kf23} to{\kf16} de{\kf16}pend{\kf31} on
-Dialogue: 0,0:03:56.22,0:03:59.14,DEFAULT,,0,0,0,,{\kf27}When{\kf23} eve{\kf31}ry{\kf23}one{\kf23} else{\kf23} has{\kf57} gone
-Dialogue: 0,0:03:59.37,0:04:01.66,DEFAULT,,0,0,0,,{\kf27}But{\kf38} here{\kf31} we{\kf106} are
-Dialogue: 0,0:04:02.52,0:04:05.67,DEFAULT,,0,0,0,,{\kf31}I've{\kf31} gone{\kf31} too{\kf61} far{\kf61}~{\kf64}~
-Dialogue: 0,0:04:05.82,0:04:08.44,DEFAULT,,0,0,0,,{\kf23}I{\kf27} should{\kf31}'ve{\kf31} known{\kf31} bet{\kf34}ter{\kf27} than
-Dialogue: 0,0:04:08.56,0:04:11.78,DEFAULT,,0,0,0,,{\kf23}To{\kf31} try{\kf27} and{\kf34} change{\kf34} who{\kf34} you{\kf38} are{\kf34}~
-Dialogue: 0,0:04:15.04,0:04:16.73,DEFAULT,,0,0,0,,{\kf42}One{\kf46} more{\kf19} thing
-Dialogue: 0,0:04:18.23,0:04:23.33,DEFAULT,,0,0,0,,{\kf511}Ah!
-Dialogue: 0,0:04:30.61,0:04:31.10,DEFAULT,,0,0,0,,{\kf34}Er{\kf12} oh!
+Dialogue: 0,0:00:09.00,0:00:10.54,DEFAULT,,0,0,0,,{\r}{\kf29}At{\kf29} mo{\kf29}ments{\kf39} like{\kf28} these
+Dialogue: 0,0:00:14.81,0:00:16.91,DEFAULT,,0,0,0,,{\r}{\kf42}You{\kf25} need{\kf10} to{\kf34} step{\kf25} back{\kf17} and{\kf57} say
+Dialogue: 0,0:00:20.70,0:00:23.44,DEFAULT,,0,0,0,,{\r}{\kf35}Where's{\kf10} the{\kf10} Bal{\kf25}loon{\kf15} Par{\kf30}ty?{\kf149} Oh!
+Dialogue: 0,0:00:49.58,0:00:53.36,DEFAULT,,0,0,0,,{\r}{\kf11}So{\kf16} man{\kf21}y{\kf11} years{\kf11} that{\kf11} we{\kf21} have{\kf11} known{\kf32}~{\kf37} each{\kf16} oth{\kf58}er{\kf123}~
+Dialogue: 0,0:00:55.88,0:00:59.48,DEFAULT,,0,0,0,,{\r}{\kf25}We{\kf25} made{\kf10} the{\kf32} best{\kf25} team{\kf19} from{\kf13} the{\kf25} ver{\kf13}y{\kf13} be{\kf51}gin{\kf109}ning
+Dialogue: 0,0:01:02.40,0:01:05.14,DEFAULT,,0,0,0,,{\r}{\kf22}They{\kf27} may{\kf38} not{\kf27} be{\kf22} like{\kf16} you{\kf16} and{\kf106} me
+Dialogue: 0,0:01:05.55,0:01:08.14,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf36} they{\kf46} care{\kf36} more{\kf20} than{\kf36} you{\kf70} know
+Dialogue: 0,0:01:08.78,0:01:11.67,DEFAULT,,0,0,0,,{\r}{\kf28}So{\kf11} if{\kf22} you're{\kf17} gon{\kf17}na{\kf17} be{\kf17} a{\kf22} b---h{\kf17} and{\kf22} just{\kf17} keep{\kf28} talk{\kf22}ing{\kf32} s--t
+Dialogue: 0,0:01:12.00,0:01:15.00,DEFAULT,,0,0,0,,{\r}{\kf20}Why{\kf15} don't{\kf15} you{\kf20} pack{\kf15} your{\kf20} bags{\kf10} and{\kf20} leave{\kf20} us{\kf15} a{\kf130}lone?
+Dialogue: 0,0:01:15.12,0:01:16.62,DEFAULT,,0,0,0,,{\r}{\kf22}A{\kf15}fraid{\kf15} to{\kf22} get{\kf30} dirt{\kf46}y?
+Dialogue: 0,0:01:29.44,0:01:30.23,DEFAULT,,0,0,0,,{\r}{\kf79}Oh!
+Dialogue: 0,0:01:43.95,0:01:46.92,DEFAULT,,0,0,0,,{\r}{\kf21}This{\kf21} is{\kf21} the{\kf21} last{\kf16} time{\kf16} that{\kf16} you'll{\kf21} ev{\kf16}er{\kf16} see{\kf16} my{\kf95} face
+Dialogue: 0,0:01:47.18,0:01:49.66,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf28} can't{\kf17} be{\kf22}lieve{\kf22} you{\kf17} brought{\kf17} me{\kf17} to{\kf11} this{\kf17} f--k{\kf11}ing{\kf36} place
+Dialogue: 0,0:01:50.41,0:01:53.18,DEFAULT,,0,0,0,,{\r}{\kf27}I{\kf16} can't{\kf16} stop{\kf21} see{\kf16}ing{\kf43} pink{\kf21} eve{\kf16}ry{\kf21} where{\kf16} I{\kf65} turn
+Dialogue: 0,0:01:54.76,0:01:56.78,DEFAULT,,0,0,0,,{\r}{\kf18}When{\kf18} will{\kf18} you{\kf18} ev{\kf18}er{\kf113} learn?
+Dialogue: 0,0:02:00.94,0:02:03.91,DEFAULT,,0,0,0,,{\r}{\kf40}Please{\kf40} Gil{\kf40}da{\kf34} lis{\kf23}ten{\kf46} to{\kf73} me
+Dialogue: 0,0:02:04.17,0:02:07.13,DEFAULT,,0,0,0,,{\r}{\kf39}I{\kf39} on{\kf39}ly{\kf44} want{\kf34}ed{\kf34} to{\kf67} be
+Dialogue: 0,0:02:07.39,0:02:10.47,DEFAULT,,0,0,0,,{\r}{\kf35}A{\kf28} friend{\kf42} for{\kf49} you{\kf42} to{\kf28} de{\kf28}pend{\kf56} on
+Dialogue: 0,0:02:10.62,0:02:13.58,DEFAULT,,0,0,0,,{\r}{\kf38}When{\kf33} eve{\kf44}ry{\kf33}one{\kf33} else{\kf33} has{\kf82} gone
+Dialogue: 0,0:02:13.77,0:02:16.06,DEFAULT,,0,0,0,,{\r}{\kf30}But{\kf43} here{\kf35} we{\kf121} are
+Dialogue: 0,0:02:16.92,0:02:20.07,DEFAULT,,0,0,0,,{\r}{\kf35}I've{\kf35} gone{\kf35} too{\kf69} far{\kf69}~{\kf72}~
+Dialogue: 0,0:02:20.22,0:02:22.84,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf35} should{\kf40}'ve{\kf40} known{\kf40} bet{\kf45}ter{\kf33} than
+Dialogue: 0,0:02:22.96,0:02:26.18,DEFAULT,,0,0,0,,{\r}{\kf29}To{\kf39} try{\kf34} and{\kf43} change{\kf43} who{\kf43} you{\kf48} are{\kf44}~
+Dialogue: 0,0:02:27.87,0:02:29.26,DEFAULT,,0,0,0,,{\r}{\kf10}You{\kf21} move{\kf42} on{\kf14} you{\kf14} meet{\kf14} new{\kf21} fac{\kf10}es
+Dialogue: 0,0:02:29.41,0:02:30.91,DEFAULT,,0,0,0,,{\r}{\kf22}Time{\kf15} goes{\kf38} on{\kf10} you{\kf15} see{\kf15} new{\kf22} plac{\kf13}es
+Dialogue: 0,0:02:31.21,0:02:32.26,DEFAULT,,0,0,0,,{\r}{\kf13}Old{\kf26} bonds{\kf13} forged{\kf20} long{\kf10} a{\kf23}go
+Dialogue: 0,0:02:32.33,0:02:34.02,DEFAULT,,0,0,0,,{\r}{\kf14}Meet{\kf14} a{\kf14} web{\kf10} of{\kf21} friend{\kf10}ship{\kf14} in{\kf21} their{\kf21} new{\kf30} home
+Dialogue: 0,0:02:34.43,0:02:35.67,DEFAULT,,0,0,0,,{\r}{\kf14}Soft{\kf21} hooves{\kf10} meet{\kf10} a{\kf21} heart{\kf10} of{\kf38} stone
+Dialogue: 0,0:02:36.04,0:02:37.28,DEFAULT,,0,0,0,,{\r}{\kf14}It's{\kf21} all{\kf10} good{\kf10} till{\kf21} you{\kf14} find{\kf28} that{\kf10} pone
+Dialogue: 0,0:02:37.39,0:02:38.03,DEFAULT,,0,0,0,,{\r}{\kf10}Is{\kf10} steppin'{\kf16} on{\kf10} your{\kf16} turf{\kf10} so
+Dialogue: 0,0:02:38.07,0:02:38.71,DEFAULT,,0,0,0,,{\r}{\kf10}You{\kf10} treat{\kf10} her{\kf24} like{\kf10} dirt
+Dialogue: 0,0:02:38.78,0:02:39.65,DEFAULT,,0,0,0,,{\r}{\kf10}An{\kf10}y{\kf16}po{\kf10}ny{\kf16} get{\kf10} in{\kf10} your{\kf10} way
+Dialogue: 0,0:02:39.72,0:02:40.51,DEFAULT,,0,0,0,,{\r}{\kf10}They're{\kf14} gon{\kf10}na{\kf14} get{\kf10} hurt{\kf21} ha!
+Dialogue: 0,0:02:40.70,0:02:41.82,DEFAULT,,0,0,0,,{\r}{\kf10}Re{\kf17}verse{\kf10} tac{\kf10}tics{\kf10} you're{\kf17} quick{\kf17} to{\kf22} match
+Dialogue: 0,0:02:42.05,0:02:43.73,DEFAULT,,0,0,0,,{\r}{\kf18}This{\kf18} you've{\kf18} prac{\kf10}ticed{\kf10} so{\kf18} what's{\kf18} the{\kf36} catch{\kf23} miss?
+Dialogue: 0,0:02:44.07,0:02:45.16,DEFAULT,,0,0,0,,{\r}{\kf14}This{\kf10} lit{\kf10}tle{\kf10} pink{\kf41} spazz's{\kf20} an{\kf10}tics
+Dialogue: 0,0:02:45.27,0:02:46.88,DEFAULT,,0,0,0,,{\r}{\kf15}Has{\kf15} caused{\kf15} your{\kf23} crash{\kf10}ing{\kf10} and{\kf23} you{\kf15} wont{\kf23} have{\kf12} this
+Dialogue: 0,0:02:47.18,0:02:48.38,DEFAULT,,0,0,0,,{\r}{\kf19}Care{\kf19}ful{\kf13} you're{\kf10} on{\kf10} the{\kf13} brink{\kf10} of{\kf25} mad{\kf10}ness
+Dialogue: 0,0:02:48.50,0:02:50.11,DEFAULT,,0,0,0,,{\r}{\kf10}An{\kf10}oth{\kf10}er{\kf10} lit{\kf10}tle{\kf10} sil{\kf10}ly{\kf18} prank{\kf10} and{\kf10} you're{\kf10} gon{\kf10}na{\kf18} smash{\kf15} s--t
+Dialogue: 0,0:02:50.37,0:02:51.72,DEFAULT,,0,0,0,,{\r}{\kf10}Then{\kf10} you{\kf12} find{\kf12} out{\kf12} that{\kf18} they{\kf18} were{\kf43} Dash's
+Dialogue: 0,0:02:51.98,0:02:54.27,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf26} now{\kf10} your{\kf26} friend{\kf10}ship's{\kf18} in{\kf35} ash{\kf35}es{\kf18} ha{\kf18} ha{\kf23} ha
+Dialogue: 0,0:02:55.02,0:03:02.22,DEFAULT,,0,0,0,,{\r}{\kf640}Ah!{\kf80} Oh!
+Dialogue: 0,0:03:08.00,0:03:10.70,DEFAULT,,0,0,0,,{\r}{\kf24}I'm{\kf24} get{\kf19}ting{\kf39} out{\kf19} now{\kf14} I{\kf14} should{\kf19} have{\kf19} nev{\kf14}er{\kf65} came
+Dialogue: 0,0:03:10.77,0:03:13.81,DEFAULT,,0,0,0,,{\r}{\kf23}I'm{\kf46} tired{\kf17} of{\kf17} your{\kf34} s--t{\kf11} I{\kf23} don't{\kf23} wan{\kf11}na{\kf29} play{\kf10} this{\kf60} game
+Dialogue: 0,0:03:13.88,0:03:17.15,DEFAULT,,0,0,0,,{\r}{\kf29}I'll{\kf19} catch{\kf19} you{\kf19} back{\kf19} in{\kf43} Clouds{\kf43}dale{\kf14} back{\kf24} where{\kf14} I{\kf19} be{\kf64}long
+Dialogue: 0,0:03:17.22,0:03:20.60,DEFAULT,,0,0,0,,{\r}{\kf27}Be{\kf16}fore{\kf16} this{\kf21} pink{\kf21} night{\kf11}mare{\kf16} sings{\kf16} an{\kf27}oth{\kf16}er{\kf16} f--k{\kf11}ing{\kf124} song
+Dialogue: 0,0:03:20.93,0:03:23.90,DEFAULT,,0,0,0,,{\r}{\kf40}Please{\kf40} Gil{\kf40}da{\kf34} lis{\kf23}ten{\kf46} to{\kf73} me
+Dialogue: 0,0:03:24.20,0:03:27.12,DEFAULT,,0,0,0,,{\r}{\kf38}I{\kf38} on{\kf38}ly{\kf43} want{\kf34}ed{\kf34} to{\kf68} be
+Dialogue: 0,0:03:27.38,0:03:30.46,DEFAULT,,0,0,0,,{\r}{\kf35}A{\kf28} friend{\kf42} for{\kf49} you{\kf42} to{\kf28} de{\kf28}pend{\kf56} on
+Dialogue: 0,0:03:30.61,0:03:33.57,DEFAULT,,0,0,0,,{\r}{\kf38}When{\kf33} eve{\kf44}ry{\kf33}one{\kf33} else{\kf33} has{\kf82} gone
+Dialogue: 0,0:03:33.80,0:03:36.09,DEFAULT,,0,0,0,,{\r}{\kf30}But{\kf43} here{\kf35} we{\kf121} are
+Dialogue: 0,0:03:36.91,0:03:40.06,DEFAULT,,0,0,0,,{\r}{\kf34}I've{\kf34} gone{\kf34} too{\kf72} far{\kf68}~{\kf73}~
+Dialogue: 0,0:03:40.25,0:03:42.87,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf35} should{\kf40}'ve{\kf40} known{\kf40} bet{\kf45}ter{\kf33} than
+Dialogue: 0,0:03:42.99,0:03:46.17,DEFAULT,,0,0,0,,{\r}{\kf29}To{\kf38} try{\kf33} and{\kf43} change{\kf43} who{\kf43} you{\kf48} are{\kf42}~
+Dialogue: 0,0:03:46.55,0:03:49.51,DEFAULT,,0,0,0,,{\r}{\kf40}Please{\kf40} Gil{\kf40}da{\kf34} lis{\kf23}ten{\kf46} to{\kf73} me
+Dialogue: 0,0:03:49.77,0:03:52.74,DEFAULT,,0,0,0,,{\r}{\kf39}I{\kf39} on{\kf39}ly{\kf44} want{\kf34}ed{\kf34} to{\kf67} be
+Dialogue: 0,0:03:53.00,0:03:56.07,DEFAULT,,0,0,0,,{\r}{\kf35}A{\kf28} friend{\kf42} for{\kf49} you{\kf42} to{\kf28} de{\kf28}pend{\kf56} on
+Dialogue: 0,0:03:56.22,0:03:59.15,DEFAULT,,0,0,0,,{\r}{\kf38}When{\kf33} eve{\kf43}ry{\kf33}one{\kf33} else{\kf33} has{\kf80} gone
+Dialogue: 0,0:03:59.37,0:04:01.66,DEFAULT,,0,0,0,,{\r}{\kf30}But{\kf43} here{\kf35} we{\kf121} are
+Dialogue: 0,0:04:02.52,0:04:05.67,DEFAULT,,0,0,0,,{\r}{\kf35}I've{\kf35} gone{\kf35} too{\kf69} far{\kf69}~{\kf72}~
+Dialogue: 0,0:04:05.82,0:04:08.45,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf35} should{\kf40}'ve{\kf40} known{\kf40} bet{\kf45}ter{\kf33} than
+Dialogue: 0,0:04:08.56,0:04:11.79,DEFAULT,,0,0,0,,{\r}{\kf29}To{\kf39} try{\kf34} and{\kf43} change{\kf43} who{\kf43} you{\kf48} are{\kf44}~
+Dialogue: 0,0:04:15.05,0:04:16.74,DEFAULT,,0,0,0,,{\r}{\kf66}One{\kf72} more{\kf31} thing
+Dialogue: 0,0:04:18.24,0:04:23.34,DEFAULT,,0,0,0,,{\r}{\kf510}Ah!
+Dialogue: 0,0:04:30.61,0:04:31.10,DEFAULT,,0,0,0,,{\r}{\kf37}Er{\kf12} oh!

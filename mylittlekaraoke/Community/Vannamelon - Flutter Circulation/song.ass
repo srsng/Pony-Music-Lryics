@@ -1,43 +1,50 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Flutter Circulation
+Artist: Vannamelon
+Original Timing: mylittlekaraoke.com by Trappy Tickles
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.84,0:00:03.71,DEFAULT,,0,0,0,,{\kf19}It's{\kf25} so{\kf22} com{\kf22}pli{\kf25}ca{\kf19}ted
-Dialogue: 0,0:00:03.90,0:00:05.74,DEFAULT,,0,0,0,,{\kf19}He's{\kf32} e{\kf19}vil,{\kf19} let's{\kf25} face{\kf19} it
-Dialogue: 0,0:00:05.96,0:00:07.74,DEFAULT,,0,0,0,,{\kf13}But{\kf25} I{\kf19} know{\kf19} he'll{\kf25} re{\kf19}form
-Dialogue: 0,0:00:07.90,0:00:09.58,DEFAULT,,0,0,0,,{\kf19}Just{\kf25} give{\kf19} him{\kf19} the{\kf38} chance
-Dialogue: 0,0:00:25.67,0:00:28.08,DEFAULT,,0,0,0,,{\kf19}Now{\kf10} if{\kf10} you{\kf13} wan{\kf10}na{\kf16} be{\kf19} kind,{\kf19} it'll{\kf13} take{\kf13} some{\kf19} steps{\kf19} so
-Dialogue: 0,0:00:28.42,0:00:29.70,DEFAULT,,0,0,0,,{\kf10}Take{\kf10} a{\kf10} seat{\kf7} and{\kf10} I'll{\kf10} ex{\kf16}plain{\kf10} the{\kf16} rest
-Dialogue: 0,0:00:29.89,0:00:32.48,DEFAULT,,0,0,0,,{\kf16}Just{\kf19} be{\kf16} po{\kf22}lite,{\kf19} don't{\kf19} bring{\kf13} the{\kf19} worst{\kf19} and-{\kf16} um,{\kf13} well,
-Dialogue: 0,0:00:32.61,0:00:33.79,DEFAULT,,0,0,0,,{\kf7}You{\kf13} got{\kf10}ta{\kf10} pay{\kf10} at{\kf16}ten{\kf16}tion{\kf22} first...
-Dialogue: 0,0:00:33.92,0:00:35.42,DEFAULT,,0,0,0,,{\kf10}There's{\kf10} a{\kf10} way{\kf10} to{\kf16} show{\kf22} kind{\kf10}ness{\kf10} and{\kf25} trust
-Dialogue: 0,0:00:35.83,0:00:37.73,DEFAULT,,0,0,0,,{\kf10}With{\kf16}out{\kf13} play{\kf10}ing{\kf10} those{\kf19} tricks{\kf10} and{\kf16} rain{\kf16} cha{\kf10}os{\kf7} on{\kf19} us
-Dialogue: 0,0:00:37.92,0:00:39.70,DEFAULT,,0,0,0,,{\kf16}No{\kf16} need{\kf10} for{\kf13} those{\kf16} in{\kf10}sults,{\kf10} just{\kf10} give{\kf10} it{\kf10} a{\kf10} try
-Dialogue: 0,0:00:39.82,0:00:41.95,DEFAULT,,0,0,0,,{\kf10}Oh,{\kf13} there's{\kf13} got{\kf7}ta{\kf16} be{\kf16} some{\kf7} kind{\kf7} of{\kf13} com{\kf16}pas{\kf13}sion{\kf16} in{\kf25}side!
-Dialogue: 0,0:00:42.20,0:00:44.92,DEFAULT,,0,0,0,,{\kf16}La{\kf16} la{\kf16} la{\kf19} la{\kf38} la,{\kf16} aa{\kf16}-aa{\kf19}-aa{\kf19}-aa{\kf25}-ahh
-Dialogue: 0,0:00:45.13,0:00:46.76,DEFAULT,,0,0,0,,{\kf22}Though{\kf16} it's{\kf19} hard{\kf19} to{\kf19} make{\kf10} it{\kf16} there,
-Dialogue: 0,0:00:46.95,0:00:47.79,DEFAULT,,0,0,0,,{\kf16}Don't{\kf19} hide{\kf10} you{\kf22} care
-Dialogue: 0,0:00:47.95,0:00:49.57,DEFAULT,,0,0,0,,{\kf16}I{\kf25} know{\kf22} you'll{\kf19} be{\kf38} fine
-Dialogue: 0,0:00:50.20,0:00:52.95,DEFAULT,,0,0,0,,{\kf16}Aa{\kf19}-aa{\kf19}-aa{\kf19}-aa{\kf38}ahh,{\kf16} la{\kf16} la{\kf16} la{\kf16} la{\kf25} la
-Dialogue: 0,0:00:53.16,0:00:54.76,DEFAULT,,0,0,0,,{\kf19}Use{\kf16} your{\kf19} ma{\kf19}gic{\kf16} for{\kf10} the{\kf16} best,
-Dialogue: 0,0:00:54.94,0:00:55.79,DEFAULT,,0,0,0,,{\kf16}And{\kf16} see{\kf10} the{\kf22} rest
-Dialogue: 0,0:00:55.98,0:00:57.57,DEFAULT,,0,0,0,,{\kf13}Be{\kf19}lieve{\kf7} in{\kf16} you{\kf7} in{\kf16} no{\kf38} time!
-Dialogue: 0,0:00:58.16,0:01:01.54,DEFAULT,,0,0,0,,{\kf38}Thank{\kf35} you{\kf35} Dis{\kf38}cord{\kf16} for{\kf16} show{\kf16}ing{\kf57} me
-Dialogue: 0,0:01:01.91,0:01:05.60,DEFAULT,,0,0,0,,{\kf19}That{\kf44} sweet{\kf38}est{\kf38} side{\kf38} that{\kf19} I{\kf16} can{\kf19} now{\kf60} see
-Dialogue: 0,0:01:06.19,0:01:09.63,DEFAULT,,0,0,0,,{\kf41}Keep{\kf38}ing{\kf35} our{\kf38} pro{\kf19}mise{\kf16} all{\kf16} the{\kf63} more
-Dialogue: 0,0:01:09.91,0:01:13.41,DEFAULT,,0,0,0,,{\kf19}'Cause{\kf35} that's{\kf35} what{\kf35} friends{\kf35} are{\kf122} for!
-Dialogue: 0,0:01:13.88,0:01:15.69,DEFAULT,,0,0,0,,{\kf16}It's{\kf32} so{\kf25} com{\kf19}pli{\kf38}ca{\kf13}ted
-Dialogue: 0,0:01:15.88,0:01:17.69,DEFAULT,,0,0,0,,{\kf22}He's{\kf35} e{\kf22}vil,{\kf19} let's{\kf25} face{\kf13} it
-Dialogue: 0,0:01:17.94,0:01:19.69,DEFAULT,,0,0,0,,{\kf19}But{\kf25} I{\kf25} know{\kf19} he'll{\kf29} re{\kf13}form
-Dialogue: 0,0:01:19.87,0:01:21.56,DEFAULT,,0,0,0,,{\kf19}Just{\kf25} give{\kf25} him{\kf19} the{\kf41} chance
-Dialogue: 0,0:01:21.91,0:01:23.75,DEFAULT,,0,0,0,,{\kf16}So{\kf29} let{\kf22} out{\kf19} that{\kf38} kind{\kf19}ness
-Dialogue: 0,0:01:23.90,0:01:25.75,DEFAULT,,0,0,0,,{\kf10}Don't{\kf10} for{\kf25}get{\kf19} where{\kf19} your{\kf32} heart{\kf19} is
-Dialogue: 0,0:01:25.94,0:01:27.75,DEFAULT,,0,0,0,,{\kf7}And{\kf10} it's{\kf32} not{\kf22} bad!{\kf13} Un{\kf25}der{\kf19}stand
-Dialogue: 0,0:01:27.93,0:01:29.68,DEFAULT,,0,0,0,,{\kf16}The{\kf29} friend{\kf29}ship{\kf19} we{\kf44} have!
+Dialogue: 0,0:00:01.84,0:00:03.71,DEFAULT,,0,0,0,,{\r}{\kf27}It's{\kf36} so{\kf31} com{\kf31}pli{\kf36}ca{\kf26}ted
+Dialogue: 0,0:00:03.90,0:00:05.75,DEFAULT,,0,0,0,,{\r}{\kf26}He's{\kf44} e{\kf26}vil,{\kf26} let's{\kf35} face{\kf27} it
+Dialogue: 0,0:00:05.96,0:00:07.74,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf37} I{\kf28} know{\kf28} he'll{\kf37} re{\kf29}form
+Dialogue: 0,0:00:07.90,0:00:09.59,DEFAULT,,0,0,0,,{\r}{\kf27}Just{\kf36} give{\kf27} him{\kf27} the{\kf52} chance
+Dialogue: 0,0:00:25.68,0:00:28.08,DEFAULT,,0,0,0,,{\r}{\kf26}Now{\kf13} if{\kf13} you{\kf17} wan{\kf13}na{\kf22} be{\kf26} kind,{\kf26} it'll{\kf17} take{\kf17} some{\kf26} steps{\kf25} so
+Dialogue: 0,0:00:28.43,0:00:29.71,DEFAULT,,0,0,0,,{\r}{\kf13}Take{\kf13} a{\kf13} seat{\kf10} and{\kf13} I'll{\kf13} ex{\kf21}plain{\kf13} the{\kf19} rest
+Dialogue: 0,0:00:29.89,0:00:32.49,DEFAULT,,0,0,0,,{\r}{\kf22}Just{\kf26} be{\kf22} po{\kf30}lite,{\kf26} don't{\kf26} bring{\kf17} the{\kf26} worst{\kf26} and-{\kf22} um,{\kf16} well,
+Dialogue: 0,0:00:32.61,0:00:33.80,DEFAULT,,0,0,0,,{\r}{\kf10}You{\kf15} got{\kf11}ta{\kf11} pay{\kf11} at{\kf19}ten{\kf19}tion{\kf23} first...
+Dialogue: 0,0:00:33.92,0:00:35.42,DEFAULT,,0,0,0,,{\r}{\kf12}There's{\kf12} a{\kf12} way{\kf12} to{\kf20} show{\kf28} kind{\kf12}ness{\kf12} and{\kf30} trust
+Dialogue: 0,0:00:35.83,0:00:37.74,DEFAULT,,0,0,0,,{\r}{\kf12}With{\kf20}out{\kf16} play{\kf12}ing{\kf12} those{\kf24} tricks{\kf12} and{\kf20} rain{\kf20} cha{\kf12}os{\kf10} on{\kf21} us
+Dialogue: 0,0:00:37.92,0:00:39.70,DEFAULT,,0,0,0,,{\r}{\kf22}No{\kf22} need{\kf13} for{\kf18} those{\kf22} in{\kf13}sults,{\kf13} just{\kf13} give{\kf13} it{\kf13} a{\kf16} try
+Dialogue: 0,0:00:39.83,0:00:41.95,DEFAULT,,0,0,0,,{\r}{\kf12}Oh,{\kf16} there's{\kf16} got{\kf10}ta{\kf20} be{\kf20} some{\kf10} kind{\kf10} of{\kf16} com{\kf20}pas{\kf16}sion{\kf20} in{\kf26}side!
+Dialogue: 0,0:00:42.20,0:00:44.92,DEFAULT,,0,0,0,,{\r}{\kf22}La{\kf22} la{\kf22} la{\kf26} la{\kf52} la,{\kf22} aa{\kf22}-aa{\kf26}-aa{\kf26}-aa{\kf32}-ahh
+Dialogue: 0,0:00:45.14,0:00:46.76,DEFAULT,,0,0,0,,{\r}{\kf30}Though{\kf21} it's{\kf26} hard{\kf26} to{\kf26} make{\kf13} it{\kf20} there,
+Dialogue: 0,0:00:46.95,0:00:47.80,DEFAULT,,0,0,0,,{\r}{\kf20}Don't{\kf24} hide{\kf12} you{\kf28} care
+Dialogue: 0,0:00:47.95,0:00:49.58,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf34} know{\kf30} you'll{\kf26} be{\kf51} fine
+Dialogue: 0,0:00:50.20,0:00:52.95,DEFAULT,,0,0,0,,{\r}{\kf22}Aa{\kf26}-aa{\kf26}-aa{\kf26}-aa{\kf52}ahh,{\kf22} la{\kf22} la{\kf22} la{\kf22} la{\kf35} la
+Dialogue: 0,0:00:53.17,0:00:54.76,DEFAULT,,0,0,0,,{\r}{\kf26}Use{\kf22} your{\kf26} ma{\kf26}gic{\kf22} for{\kf13} the{\kf24} best,
+Dialogue: 0,0:00:54.95,0:00:55.79,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} see{\kf13} the{\kf29} rest
+Dialogue: 0,0:00:55.98,0:00:57.57,DEFAULT,,0,0,0,,{\r}{\kf18}Be{\kf26}lieve{\kf10} in{\kf22} you{\kf10} in{\kf22} no{\kf51} time!
+Dialogue: 0,0:00:58.17,0:01:01.54,DEFAULT,,0,0,0,,{\r}{\kf51}Thank{\kf47} you{\kf47} Dis{\kf51}cord{\kf21} for{\kf21} show{\kf21}ing{\kf78} me
+Dialogue: 0,0:01:01.92,0:01:05.60,DEFAULT,,0,0,0,,{\r}{\kf24}That{\kf56} sweet{\kf48}est{\kf48} side{\kf48} that{\kf24} I{\kf20} can{\kf24} now{\kf77} see
+Dialogue: 0,0:01:06.20,0:01:09.63,DEFAULT,,0,0,0,,{\r}{\kf53}Keep{\kf49}ing{\kf45} our{\kf49} pro{\kf25}mise{\kf20} all{\kf20} the{\kf83} more
+Dialogue: 0,0:01:09.91,0:01:13.41,DEFAULT,,0,0,0,,{\r}{\kf24}'Cause{\kf43} that's{\kf43} what{\kf43} friends{\kf43} are{\kf154} for!
+Dialogue: 0,0:01:13.88,0:01:15.69,DEFAULT,,0,0,0,,{\r}{\kf20}It's{\kf40} so{\kf32} com{\kf24}pli{\kf48}ca{\kf17}ted
+Dialogue: 0,0:01:15.88,0:01:17.69,DEFAULT,,0,0,0,,{\r}{\kf29}He's{\kf46} e{\kf29}vil,{\kf25} let's{\kf34} face{\kf18} it
+Dialogue: 0,0:01:17.94,0:01:19.69,DEFAULT,,0,0,0,,{\r}{\kf26}But{\kf34} I{\kf34} know{\kf26} he'll{\kf38} re{\kf17}form
+Dialogue: 0,0:01:19.88,0:01:21.57,DEFAULT,,0,0,0,,{\r}{\kf25}Just{\kf33} give{\kf33} him{\kf25} the{\kf53} chance
+Dialogue: 0,0:01:21.91,0:01:23.75,DEFAULT,,0,0,0,,{\r}{\kf20}So{\kf37} let{\kf29} out{\kf25} that{\kf49} kind{\kf24}ness
+Dialogue: 0,0:01:23.91,0:01:25.75,DEFAULT,,0,0,0,,{\r}{\kf13}Don't{\kf13} for{\kf35}get{\kf26} where{\kf26} your{\kf44} heart{\kf27} is
+Dialogue: 0,0:01:25.94,0:01:27.75,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf14} it's{\kf45} not{\kf32} bad!{\kf18} Un{\kf36}der{\kf26}stand
+Dialogue: 0,0:01:27.94,0:01:29.69,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf37} friend{\kf37}ship{\kf24} we{\kf57} have!

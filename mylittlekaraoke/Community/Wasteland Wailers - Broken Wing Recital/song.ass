@@ -1,50 +1,57 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Broken Wing Recital
+Artist: Wasteland Wailers
+Original Timing: mylittlekaraoke.com by Dex
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.17,0:00:11.72,DEFAULT,,0,0,0,,{\kf13}Well{\kf13} I{\kf21} bit{\kf17} the{\kf29} bul{\kf121}let,{\kf25} I{\kf29} drunk{\kf21} it{\kf109} dry
-Dialogue: 0,0:00:12.36,0:00:17.48,DEFAULT,,0,0,0,,{\kf25}My{\kf33} heart{\kf29}~{\kf25} is{\kf21} spil{\kf57}lin'{\kf33} o{\kf37}ver{\kf29} the{\kf113} sides
-Dialogue: 0,0:00:17.64,0:00:22.71,DEFAULT,,0,0,0,,{\kf13}Of{\kf9} a{\kf29} tall{\kf33} glass{\kf17} of{\kf33} whis{\kf25}key{\kf29} that's{\kf21} kil{\kf25}lin'{\kf13} the{\kf33} pain{\kf17}~{\kf93}~
-Dialogue: 0,0:00:22.91,0:00:27.75,DEFAULT,,0,0,0,,{\kf33}My{\kf25} wings{\kf17} were{\kf37} bro{\kf61}ken,{\kf29} all{\kf29} fea{\kf29}thers{\kf25} and{\kf81} flame
-Dialogue: 0,0:00:28.79,0:00:33.54,DEFAULT,,0,0,0,,{\kf37}Heart{\kf25} pum{\kf17}ping{\kf17} black{\kf17} and{\kf65} blue,{\kf21} swir{\kf17}ling{\kf17} down{\kf17}~{\kf17} the{\kf113} pit
-Dialogue: 0,0:00:34.31,0:00:41.64,DEFAULT,,0,0,0,,{\kf25}I{\kf25} ain't{\kf29} been{\kf29} me{\kf113} since{\kf29} Ze{\kf37}phyr{\kf41} came{\kf53} and{\kf234} went
-Dialogue: 0,0:00:42.44,0:00:47.07,DEFAULT,,0,0,0,,{\kf29}They{\kf29} told{\kf29} me{\kf41} I{\kf33} would{\kf262} fly
-Dialogue: 0,0:00:47.76,0:00:52.67,DEFAULT,,0,0,0,,{\kf21}They{\kf37} told{\kf17} me{\kf41} I{\kf29} would{\kf21} fly{\kf37}~{\kf234}~
-Dialogue: 0,0:00:53.07,0:00:57.38,DEFAULT,,0,0,0,,{\kf21}A{\kf25} ta{\kf37}lent{\kf41} I{\kf21} re{\kf238}ceived
-Dialogue: 0,0:00:58.47,0:01:00.93,DEFAULT,,0,0,0,,{\kf13}But{\kf25} that{\kf13} di{\kf17}dn't{\kf33} keep{\kf29} her{\kf21} with{\kf37} me
-Dialogue: 0,0:01:01.25,0:01:03.62,DEFAULT,,0,0,0,,{\kf17}My{\kf25} mind's{\kf37} full{\kf13} of{\kf25} your{\kf17} dé{\kf21}jà{\kf21} vu{\kf13}~
-Dialogue: 0,0:01:03.79,0:01:07.93,DEFAULT,,0,0,0,,{\kf13}But{\kf13} it{\kf21} ain't{\kf29} cur{\kf13}in'{\kf21} my{\kf21} bro{\kf17}ken{\kf41} wing{\kf25} blues{\kf149}~
-Dialogue: 0,0:01:08.46,0:01:12.93,DEFAULT,,0,0,0,,{\kf13}The{\kf21} co{\kf25}lumns{\kf21} of{\kf17} my{\kf21} ci{\kf77}ty,{\kf21} in{\kf49} youth{\kf17} I{\kf17} would{\kf57} spend
-Dialogue: 0,0:01:13.53,0:01:18.40,DEFAULT,,0,0,0,,{\kf25}Twixt{\kf21} i{\kf13}vory{\kf25} chute{\kf13} and{\kf25} sla{\kf73}lom{\kf17} with{\kf21} Ze{\kf33}phyr,{\kf29} my{\kf33} first{\kf61} friend
-Dialogue: 0,0:01:19.05,0:01:23.80,DEFAULT,,0,0,0,,{\kf25}Stripe{\kf29} war{\kf25} poised{\kf21} to{\kf29} stran{\kf41}gle,{\kf17} but{\kf33} fringe{\kf13} to{\kf25} fringe{\kf17} we{\kf41} knew{\kf41}~
-Dialogue: 0,0:01:24.20,0:01:29.11,DEFAULT,,0,0,0,,{\kf9}The{\kf17} pair{\kf21} of{\kf33} us{\kf21} would{\kf17} scare{\kf21} us{\kf25} up{\kf13} a{\kf13} vic{\kf17}to{\kf45}ry{\kf21} or{\kf17} two{\kf65}~
-Dialogue: 0,0:01:29.60,0:01:34.15,DEFAULT,,0,0,0,,{\kf9}For{\kf25} sun{\kf17} and{\kf21} moon{\kf25} and{\kf37} coun{\kf69}try,{\kf25} it{\kf37} ends,{\kf13} we{\kf21} all{\kf21} go{\kf53} home
-Dialogue: 0,0:01:34.75,0:01:42.32,DEFAULT,,0,0,0,,{\kf21}One{\kf17} mor{\kf17}tar{\kf29} shell{\kf37} shot{\kf25} that{\kf17} to{\kf33} hell,{\kf25} now{\kf37} ground{\kf45}-bound{\kf13} I'm{\kf17} a{\kf45}lone{\kf45}~{\kf9}~{\kf117}~{\kf85}~
-Dialogue: 0,0:01:46.23,0:01:50.54,DEFAULT,,0,0,0,,{\kf17}They{\kf33} told{\kf29} me{\kf37} I{\kf29} would{\kf238} fly
-Dialogue: 0,0:01:51.42,0:01:56.01,DEFAULT,,0,0,0,,{\kf25}They{\kf33} told{\kf21} me{\kf37} I{\kf25} would{\kf17} fly{\kf25}~{\kf206}~
-Dialogue: 0,0:01:56.74,0:02:04.59,DEFAULT,,0,0,0,,{\kf21}The{\kf33} treat{\kf29}ment{\kf45} I{\kf25} re{\kf234}ceived{\kf17} did{\kf25}n't{\kf29} bring{\kf13} her{\kf13}~{\kf13}~{\kf33} back{\kf33} to{\kf29} me{\kf25}~
-Dialogue: 0,0:02:04.99,0:02:07.33,DEFAULT,,0,0,0,,{\kf13}My{\kf29} mind's{\kf29} full{\kf13} of{\kf21} your{\kf17} dé{\kf29}jà{\kf13} vu,{\kf17}~
-Dialogue: 0,0:02:07.49,0:02:11.68,DEFAULT,,0,0,0,,{\kf13}But{\kf13} it{\kf17} ain't{\kf29} cu{\kf13}rin'{\kf21} my{\kf17} bro{\kf21}ken{\kf25} wing{\kf41} blues{\kf145}~
-Dialogue: 0,0:02:12.24,0:02:16.55,DEFAULT,,0,0,0,,{\kf21}Doc{\kf21}tors{\kf17} pumped{\kf13} me{\kf17} full{\kf13} of{\kf29} ma{\kf69}gic,{\kf21} spruced{\kf17} me{\kf21} up{\kf17} real{\kf53} good
-Dialogue: 0,0:02:17.24,0:02:22.15,DEFAULT,,0,0,0,,{\kf17}My{\kf25} burnt{\kf21} wings{\kf25} strapped{\kf13} to{\kf37} plas{\kf61}tic,{\kf13} a{\kf21} shi{\kf17}ny{\kf29} hoof{\kf17} out{\kf17} of{\kf77} wood
-Dialogue: 0,0:02:22.99,0:02:25.21,DEFAULT,,0,0,0,,{\kf9}They{\kf13} say{\kf13} I'm{\kf33} fixed,{\kf17} done{\kf17} with{\kf21} hea{\kf21}lin',{\kf13} but
-Dialogue: 0,0:02:25.37,0:02:27.70,DEFAULT,,0,0,0,,{\kf13}Lo{\kf17}sing{\kf17} my{\kf21} wing{\kf25}mare's{\kf25} got{\kf21} me{\kf21} fee{\kf29}lin'
-Dialogue: 0,0:02:27.99,0:02:30.36,DEFAULT,,0,0,0,,{\kf13}On{\kf21}ly{\kf33} you{\kf33} can{\kf25} break{\kf21} this{\kf25} cei{\kf21}ling
-Dialogue: 0,0:02:30.64,0:02:38.54,DEFAULT,,0,0,0,,{\kf13}And{\kf21} e{\kf21}very{\kf21} se{\kf37}cond's{\kf33} time{\kf53}~{\kf25} I'm{\kf21} stea{\kf298}lin'{\kf73}~{\kf113}~
-Dialogue: 0,0:02:45.06,0:02:49.93,DEFAULT,,0,0,0,,{\kf21}They{\kf37} told{\kf25} me{\kf45} I{\kf29} would{\kf21} fly{\kf17}~{\kf73}~{\kf13}~{\kf13}~{\kf33}~{\kf93}~
-Dialogue: 0,0:02:50.34,0:02:55.33,DEFAULT,,0,0,0,,{\kf21}They{\kf25} told{\kf21} me{\kf37} I{\kf41} would{\kf33} fly{\kf73}~{\kf37}~{\kf29}~{\kf25}~{\kf13}~{\kf17}~{\kf21}~
-Dialogue: 0,0:02:55.61,0:03:00.81,DEFAULT,,0,0,0,,{\kf17}They{\kf33} told{\kf25}~{\kf25} me{\kf37} a{\kf41} lie{\kf45}~{\kf37}~{\kf37}~{\kf21}~{\kf25}~{\kf13}~
-Dialogue: 0,0:03:00.97,0:03:02.46,DEFAULT,,0,0,0,,{\kf13}It{\kf37} hurts{\kf13} to{\kf17} laugh{\kf41}~
-Dialogue: 0,0:03:02.86,0:03:05.76,DEFAULT,,0,0,0,,{\kf13}When{\kf33} six{\kf29} feet{\kf13} under's{\kf13}~{\kf25} my{\kf17} bet{\kf17}ter{\kf25} half{\kf45}~
-Dialogue: 0,0:03:06.44,0:03:10.35,DEFAULT,,0,0,0,,{\kf25}You{\kf25} can{\kf21} bu{\kf29}ry{\kf29} me{\kf29} there{\kf29} too,{\kf29} through{\kf29} this{\kf25} bot{\kf33}tle
-Dialogue: 0,0:03:10.75,0:03:14.21,DEFAULT,,0,0,0,,{\kf21}I'll{\kf17} fol{\kf21}low{\kf37} you{\kf17} and{\kf41} fin{\kf45}ally{\kf25} be{\kf25} through{\kf21}~
-Dialogue: 0,0:03:14.50,0:03:25.93,DEFAULT,,0,0,0,,{\kf21}With{\kf25} these{\kf25} bro{\kf37}ken{\kf21} wing{\kf25}~{\kf472}~{\kf21}~{\kf21}~{\kf194}~{\kf49}~{\kf37} blues{\kf125}~
-Dialogue: 0,0:03:28.55,0:03:33.14,DEFAULT,,0,0,0,,{\kf17}Bro{\kf25}ken{\kf57} wing{\kf13} blues{\kf17}~{\kf69}~{\kf125}~{\kf13}~{\kf77}~
-Dialogue: 0,0:03:33.70,0:03:38.90,DEFAULT,,0,0,0,,{\kf29}Bro{\kf17}ken{\kf37} wing{\kf81}~{\kf29} blues{\kf105}~{\kf33}~{\kf17}~{\kf25}~{\kf97}~
+Dialogue: 0,0:00:07.17,0:00:11.72,DEFAULT,,0,0,0,,{\r}{\kf14}Well{\kf14} I{\kf23} bit{\kf19} the{\kf33} bul{\kf141}let,{\kf28} I{\kf33} drunk{\kf23} it{\kf127} dry
+Dialogue: 0,0:00:12.37,0:00:17.48,DEFAULT,,0,0,0,,{\r}{\kf31}My{\kf42} heart{\kf36}~{\kf31} is{\kf26} spil{\kf73}lin'{\kf42} o{\kf47}ver{\kf36} the{\kf147} sides
+Dialogue: 0,0:00:17.64,0:00:22.72,DEFAULT,,0,0,0,,{\r}{\kf16}Of{\kf11} a{\kf38} tall{\kf43} glass{\kf22} of{\kf43} whis{\kf32}key{\kf38} that's{\kf27} kil{\kf32}lin'{\kf16} the{\kf43} pain{\kf22}~{\kf124}~
+Dialogue: 0,0:00:22.92,0:00:27.75,DEFAULT,,0,0,0,,{\r}{\kf43}My{\kf33} wings{\kf22} were{\kf49} bro{\kf81}ken,{\kf38} all{\kf38} fea{\kf38}thers{\kf33} and{\kf108} flame
+Dialogue: 0,0:00:28.80,0:00:33.55,DEFAULT,,0,0,0,,{\r}{\kf46}Heart{\kf31} pum{\kf21}ping{\kf21} black{\kf21} and{\kf83} blue,{\kf26} swir{\kf21}ling{\kf21} down{\kf21}~{\kf21} the{\kf142} pit
+Dialogue: 0,0:00:34.31,0:00:41.64,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf29} ain't{\kf34} been{\kf34} me{\kf136} since{\kf34} Ze{\kf44}phyr{\kf49} came{\kf63} and{\kf281} went
+Dialogue: 0,0:00:42.45,0:00:47.08,DEFAULT,,0,0,0,,{\r}{\kf31}They{\kf31} told{\kf31} me{\kf45} I{\kf36} would{\kf289} fly
+Dialogue: 0,0:00:47.76,0:00:52.68,DEFAULT,,0,0,0,,{\r}{\kf23}They{\kf41} told{\kf18} me{\kf46} I{\kf32} would{\kf23} fly{\kf41}~{\kf267}~
+Dialogue: 0,0:00:53.08,0:00:57.39,DEFAULT,,0,0,0,,{\r}{\kf23}A{\kf28} ta{\kf41}lent{\kf46} I{\kf23} re{\kf270}ceived
+Dialogue: 0,0:00:58.48,0:01:00.93,DEFAULT,,0,0,0,,{\r}{\kf16}But{\kf33} that{\kf16} di{\kf22}dn't{\kf44} keep{\kf38} her{\kf27} with{\kf50} me
+Dialogue: 0,0:01:01.25,0:01:03.63,DEFAULT,,0,0,0,,{\r}{\kf21}My{\kf32} mind's{\kf48} full{\kf16} of{\kf32} your{\kf21} dé{\kf26}jà{\kf26} vu{\kf16}~
+Dialogue: 0,0:01:03.79,0:01:07.94,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf14} it{\kf24} ain't{\kf33} cur{\kf14}in'{\kf24} my{\kf24} bro{\kf19}ken{\kf47} wing{\kf28} blues{\kf174}~
+Dialogue: 0,0:01:08.46,0:01:12.93,DEFAULT,,0,0,0,,{\r}{\kf16}The{\kf26} co{\kf31}lumns{\kf26} of{\kf21} my{\kf26} ci{\kf99}ty,{\kf26} in{\kf62} youth{\kf21} I{\kf21} would{\kf72} spend
+Dialogue: 0,0:01:13.54,0:01:18.41,DEFAULT,,0,0,0,,{\r}{\kf31}Twixt{\kf26} i{\kf16}vory{\kf31} chute{\kf16} and{\kf31} sla{\kf93}lom{\kf21} with{\kf26} Ze{\kf41}phyr,{\kf36} my{\kf41} first{\kf78} friend
+Dialogue: 0,0:01:19.05,0:01:23.80,DEFAULT,,0,0,0,,{\r}{\kf33}Stripe{\kf39} war{\kf33} poised{\kf28} to{\kf39} stran{\kf55}gle,{\kf22} but{\kf44} fringe{\kf17} to{\kf33} fringe{\kf22} we{\kf55} knew{\kf55}~
+Dialogue: 0,0:01:24.21,0:01:29.12,DEFAULT,,0,0,0,,{\r}{\kf12}The{\kf23} pair{\kf29} of{\kf46} us{\kf29} would{\kf23} scare{\kf29} us{\kf35} up{\kf17} a{\kf17} vic{\kf23}to{\kf64}ry{\kf29} or{\kf23} two{\kf92}~
+Dialogue: 0,0:01:29.60,0:01:34.15,DEFAULT,,0,0,0,,{\r}{\kf10}For{\kf30} sun{\kf20} and{\kf25} moon{\kf30} and{\kf45} coun{\kf86}try,{\kf30} it{\kf45} ends,{\kf15} we{\kf25} all{\kf25} go{\kf69} home
+Dialogue: 0,0:01:34.76,0:01:42.33,DEFAULT,,0,0,0,,{\r}{\kf25}One{\kf20} mor{\kf20}tar{\kf34} shell{\kf44} shot{\kf29} that{\kf20} to{\kf39} hell,{\kf29} now{\kf44} ground{\kf54}-bound{\kf15} I'm{\kf20} a{\kf54}lone{\kf54}~{\kf10}~{\kf143}~{\kf103}~
+Dialogue: 0,0:01:46.23,0:01:50.54,DEFAULT,,0,0,0,,{\r}{\kf18}They{\kf37} told{\kf32} me{\kf41} I{\kf32} would{\kf271} fly
+Dialogue: 0,0:01:51.43,0:01:56.02,DEFAULT,,0,0,0,,{\r}{\kf29}They{\kf39} told{\kf24} me{\kf43} I{\kf29} would{\kf19} fly{\kf29}~{\kf247}~
+Dialogue: 0,0:01:56.74,0:02:04.60,DEFAULT,,0,0,0,,{\r}{\kf26}The{\kf42} treat{\kf37}ment{\kf58} I{\kf31} re{\kf304}ceived{\kf21} did{\kf31}n't{\kf37} bring{\kf16} her{\kf16}~{\kf16}~{\kf42} back{\kf42} to{\kf37} me{\kf29}~
+Dialogue: 0,0:02:05.00,0:02:07.33,DEFAULT,,0,0,0,,{\r}{\kf16}My{\kf38} mind's{\kf38} full{\kf16} of{\kf27} your{\kf22} dé{\kf38}jà{\kf16} vu,{\kf23}~
+Dialogue: 0,0:02:07.50,0:02:11.68,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf15} it{\kf19} ain't{\kf34} cu{\kf15}rin'{\kf24} my{\kf19} bro{\kf24}ken{\kf29} wing{\kf49} blues{\kf176}~
+Dialogue: 0,0:02:12.25,0:02:16.56,DEFAULT,,0,0,0,,{\r}{\kf27}Doc{\kf27}tors{\kf22} pumped{\kf16} me{\kf22} full{\kf16} of{\kf38} ma{\kf93}gic,{\kf27} spruced{\kf22} me{\kf27} up{\kf22} real{\kf72} good
+Dialogue: 0,0:02:17.24,0:02:22.15,DEFAULT,,0,0,0,,{\r}{\kf21}My{\kf31} burnt{\kf26} wings{\kf31} strapped{\kf16} to{\kf47} plas{\kf78}tic,{\kf16} a{\kf26} shi{\kf21}ny{\kf37} hoof{\kf21} out{\kf21} of{\kf99} wood
+Dialogue: 0,0:02:23.00,0:02:25.21,DEFAULT,,0,0,0,,{\r}{\kf12}They{\kf18} say{\kf18} I'm{\kf48} fixed,{\kf24} done{\kf24} with{\kf30} hea{\kf30}lin',{\kf17} but
+Dialogue: 0,0:02:25.37,0:02:27.71,DEFAULT,,0,0,0,,{\r}{\kf16}Lo{\kf21}sing{\kf21} my{\kf26} wing{\kf31}mare's{\kf31} got{\kf26} me{\kf26} fee{\kf36}lin'
+Dialogue: 0,0:02:27.99,0:02:30.37,DEFAULT,,0,0,0,,{\r}{\kf16}On{\kf26}ly{\kf41} you{\kf41} can{\kf31} break{\kf26} this{\kf31} cei{\kf26}ling
+Dialogue: 0,0:02:30.65,0:02:38.54,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf22} e{\kf22}very{\kf22} se{\kf40}cond's{\kf35} time{\kf57}~{\kf26} I'm{\kf22} stea{\kf326}lin'{\kf79}~{\kf125}~
+Dialogue: 0,0:02:45.07,0:02:49.94,DEFAULT,,0,0,0,,{\r}{\kf24}They{\kf43} told{\kf29} me{\kf53} I{\kf33} would{\kf24} fly{\kf19}~{\kf86}~{\kf14}~{\kf14}~{\kf38}~{\kf110}~
+Dialogue: 0,0:02:50.34,0:02:55.33,DEFAULT,,0,0,0,,{\r}{\kf26}They{\kf32} told{\kf26} me{\kf47} I{\kf53} would{\kf42} fly{\kf95}~{\kf47}~{\kf37}~{\kf32}~{\kf16}~{\kf21}~{\kf25}~
+Dialogue: 0,0:02:55.62,0:03:00.81,DEFAULT,,0,0,0,,{\r}{\kf24}They{\kf48} told{\kf36}~{\kf36} me{\kf54} a{\kf60} lie{\kf66}~{\kf54}~{\kf54}~{\kf30}~{\kf36}~{\kf21}~
+Dialogue: 0,0:03:00.97,0:03:02.46,DEFAULT,,0,0,0,,{\r}{\kf15}It{\kf46} hurts{\kf15} to{\kf21} laugh{\kf52}~
+Dialogue: 0,0:03:02.86,0:03:05.76,DEFAULT,,0,0,0,,{\r}{\kf16}When{\kf42} six{\kf37} feet{\kf16} under's{\kf16}~{\kf32} my{\kf21} bet{\kf21}ter{\kf32} half{\kf57}~
+Dialogue: 0,0:03:06.45,0:03:10.35,DEFAULT,,0,0,0,,{\r}{\kf32}You{\kf32} can{\kf27} bu{\kf37}ry{\kf37} me{\kf37} there{\kf37} too,{\kf37} through{\kf37} this{\kf32} bot{\kf46}tle
+Dialogue: 0,0:03:10.76,0:03:14.22,DEFAULT,,0,0,0,,{\r}{\kf27}I'll{\kf21} fol{\kf27}low{\kf48} you{\kf21} and{\kf53} fin{\kf59}ally{\kf32} be{\kf32} through{\kf26}~
+Dialogue: 0,0:03:14.50,0:03:25.94,DEFAULT,,0,0,0,,{\r}{\kf22}With{\kf26} these{\kf26} bro{\kf39}ken{\kf22} wing{\kf26}~{\kf507}~{\kf22}~{\kf22}~{\kf208}~{\kf52}~{\kf39} blues{\kf133}~
+Dialogue: 0,0:03:28.56,0:03:33.15,DEFAULT,,0,0,0,,{\r}{\kf18}Bro{\kf27}ken{\kf64} wing{\kf14} blues{\kf18}~{\kf77}~{\kf141}~{\kf14}~{\kf86}~
+Dialogue: 0,0:03:33.71,0:03:38.90,DEFAULT,,0,0,0,,{\r}{\kf32}Bro{\kf18}ken{\kf41} wing{\kf90}~{\kf32} blues{\kf117}~{\kf36}~{\kf18}~{\kf27}~{\kf108}~

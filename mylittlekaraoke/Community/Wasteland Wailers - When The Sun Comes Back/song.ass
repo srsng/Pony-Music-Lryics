@@ -1,48 +1,55 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: When The Sun Comes Back
+Artist: Wasteland Wailers
+Original Timing: mylittlekaraoke.com by Dex
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:17.09,0:00:20.22,DEFAULT,,0,0,0,,{\kf13}A{\kf26}no{\kf13}ther{\kf26} day{\kf19} of{\kf26} clou{\kf26}dy{\kf101} skies
-Dialogue: 0,0:00:20.84,0:00:24.72,DEFAULT,,0,0,0,,{\kf26}Fee{\kf26}lin'{\kf32} low{\kf19} and{\kf19} I{\kf38} don't{\kf38} know{\kf44} why,{\kf38} I
-Dialogue: 0,0:00:25.35,0:00:28.23,DEFAULT,,0,0,0,,{\kf19}Guess{\kf19} it{\kf19} shoul{\kf13}dn’t{\kf19} be{\kf26} news{\kf19} to{\kf19} me{\kf57} now
-Dialogue: 0,0:00:28.66,0:00:32.54,DEFAULT,,0,0,0,,{\kf13}It's{\kf19} been{\kf13} this{\kf26} way{\kf13} for{\kf26} cen{\kf19}tu{\kf26}ries{\kf13} but{\kf26} I'm{\kf26} hold{\kf19}ing{\kf76} out
-Dialogue: 0,0:00:33.10,0:00:36.23,DEFAULT,,0,0,0,,{\kf13}I{\kf13} heard{\kf19} from{\kf26} le{\kf19}gends{\kf19} and{\kf32} crys{\kf32}tal{\kf63} balls
-Dialogue: 0,0:00:36.73,0:00:40.36,DEFAULT,,0,0,0,,{\kf26}Sun{\kf38} gave{\kf32} warmth{\kf19} to{\kf13} the{\kf44} great{\kf32} and{\kf82} small
-Dialogue: 0,0:00:41.17,0:00:44.68,DEFAULT,,0,0,0,,{\kf13}I{\kf19} saw{\kf19} the{\kf19} smi{\kf19}le{\kf13} good{\kf26} old{\kf26} Ray{\kf13} put{\kf19} on{\kf26} their{\kf57} face
-Dialogue: 0,0:00:45.30,0:00:48.55,DEFAULT,,0,0,0,,{\kf26}It{\kf32} ain’t{\kf19} too{\kf26} much{\kf19} to{\kf19} want{\kf19} gen{\kf32}tle{\kf57} grace
-Dialogue: 0,0:00:49.12,0:00:52.43,DEFAULT,,0,0,0,,{\kf13}This{\kf13} pes{\kf19}si{\kf19}mi{\kf19}sm{\kf26} brings{\kf13} my{\kf32} brain{\kf19} a{\kf32} schi{\kf38}sm
-Dialogue: 0,0:00:52.68,0:00:55.62,DEFAULT,,0,0,0,,{\kf32}Split{\kf38}ting{\kf32} up{\kf38} my{\kf101} mind
-Dialogue: 0,0:00:56.62,0:01:00.37,DEFAULT,,0,0,0,,{\kf13}But{\kf19} I{\kf19} know{\kf26} be{\kf26}fore{\kf26} too{\kf44} soon,{\kf38} I’ll{\kf76} find
-Dialogue: 0,0:01:00.75,0:01:04.13,DEFAULT,,0,0,0,,{\kf19}Foot{\kf26}steps{\kf19} on{\kf13} my{\kf26} porch{\kf19} of{\kf26} ul{\kf32}tra{\kf26}vio{\kf26}let{\kf32} kind
-Dialogue: 0,0:01:04.25,0:01:08.26,DEFAULT,,0,0,0,,{\kf19}When{\kf19} the{\kf57} sun{\kf32} comes{\kf32} knock{\kf13}ing{\kf19} on{\kf19} my{\kf44} door
-Dialogue: 0,0:01:08.57,0:01:12.20,DEFAULT,,0,0,0,,{\kf19}And{\kf19} af{\kf13}ter{\kf26} I{\kf38} pick{\kf32} my{\kf38} jaw{\kf19} off{\kf19} the{\kf57} floor
-Dialogue: 0,0:01:12.57,0:01:16.32,DEFAULT,,0,0,0,,{\kf13}I'll{\kf19} say{\kf19} "Come{\kf19} in{\kf44} stran{\kf19}ger!";{\kf19} It's{\kf32} been{\kf19} too{\kf26} long{\kf13} a{\kf51} while
-Dialogue: 0,0:01:16.70,0:01:20.33,DEFAULT,,0,0,0,,{\kf13}He'll{\kf19} hang{\kf13} up{\kf19} his{\kf44} hat{\kf19} with{\kf19} a{\kf44} ra{\kf19}di{\kf26}ant{\kf51} smile
-Dialogue: 0,0:01:20.76,0:01:24.27,DEFAULT,,0,0,0,,{\kf13}I'll{\kf19} ask{\kf13} where{\kf26} he's{\kf32} been{\kf38} for{\kf38} all{\kf19} of{\kf32} these{\kf44} years
-Dialogue: 0,0:01:24.58,0:01:28.40,DEFAULT,,0,0,0,,{\kf13}We'll{\kf32} talk{\kf13} a{\kf13}bout{\kf13} his{\kf26} tra{\kf19}vels{\kf19} o{\kf19}ver{\kf26} two{\kf19} or{\kf26} three{\kf76} beers
-Dialogue: 0,0:01:28.65,0:01:33.77,DEFAULT,,0,0,0,,{\kf13}I'll{\kf26} hang{\kf13} on{\kf19} e{\kf19}very{\kf32} word,{\kf26} loo{\kf13}king{\kf19} for{\kf13}ward{\kf19} to{\kf44} bright{\kf44}er{\kf113} days
-Dialogue: 0,0:01:34.40,0:01:37.84,DEFAULT,,0,0,0,,{\kf19}When{\kf13} the{\kf26} sun{\kf38} comes{\kf38} back{\kf19} to{\kf119} stay
-Dialogue: 0,0:01:52.85,0:01:56.04,DEFAULT,,0,0,0,,{\kf26}May{\kf13}be{\kf19} he{\kf38} just{\kf19} read{\kf19} the{\kf44} sign{\kf76} wrong
-Dialogue: 0,0:01:56.10,0:01:59.61,DEFAULT,,0,0,0,,{\kf13}Or{\kf32} fell{\kf19} a{\kf38}sleep{\kf26} wait{\kf13}ing{\kf19} on{\kf38} his{\kf88} train
-Dialogue: 0,0:02:00.17,0:02:04.05,DEFAULT,,0,0,0,,{\kf13}And{\kf19} the{\kf32} ga{\kf13}la{\kf26}xy{\kf19} ex{\kf19}press{\kf19} takes{\kf19} a{\kf32} cen{\kf19}tu{\kf19}ry{\kf13} no{\kf26} less
-Dialogue: 0,0:02:04.61,0:02:07.99,DEFAULT,,0,0,0,,{\kf13}To{\kf32} come{\kf38} back{\kf32} round{\kf32} our{\kf32} way{\kf19} a{\kf63}gain
-Dialogue: 0,0:02:08.11,0:02:12.12,DEFAULT,,0,0,0,,{\kf19}E{\kf19}very{\kf32} one{\kf26} says{\kf13} you're{\kf38} gone,{\kf13} but{\kf19} I{\kf32} know{\kf19} you're{\kf19} on{\kf13}ly{\kf32} late
-Dialogue: 0,0:02:12.62,0:02:16.18,DEFAULT,,0,0,0,,{\kf13}I'll{\kf19} leave{\kf19} the{\kf19} lights{\kf32} on{\kf19} if{\kf19} you{\kf26} re{\kf19}ci{\kf19}pro{\kf51}cate
-Dialogue: 0,0:02:16.56,0:02:19.93,DEFAULT,,0,0,0,,{\kf19}Just{\kf19} pro{\kf19}mise{\kf19} you're{\kf26} back{\kf19} and{\kf19} we{\kf32} won't{\kf32} get{\kf32} burned
-Dialogue: 0,0:02:20.06,0:02:23.94,DEFAULT,,0,0,0,,{\kf19}You'll{\kf19} be{\kf13} the{\kf26} pro{\kf19}di{\kf19}gal{\kf32} sun{\kf19} as{\kf26} far{\kf19} as{\kf32} I'm{\kf19} con{\kf38}cerned
-Dialogue: 0,0:02:24.06,0:02:28.19,DEFAULT,,0,0,0,,{\kf19}When{\kf19} the{\kf63} sun{\kf26} comes{\kf32} knock{\kf13}ing{\kf26} on{\kf13} my{\kf44} door
-Dialogue: 0,0:02:28.63,0:02:32.01,DEFAULT,,0,0,0,,{\kf13}And{\kf19} af{\kf19}ter{\kf19} I{\kf26} pick{\kf32} my{\kf32} jaw{\kf19} off{\kf19} the{\kf38} floor
-Dialogue: 0,0:02:32.57,0:02:36.13,DEFAULT,,0,0,0,,{\kf13}I'll{\kf19} say{\kf7} "Come{\kf13} on{\kf26} in{\kf26} stran{\kf13}ger!";{\kf19} It's{\kf32} been{\kf19} too{\kf19} long{\kf19} a{\kf32} while
-Dialogue: 0,0:02:36.63,0:02:40.57,DEFAULT,,0,0,0,,{\kf13}He'll{\kf26} hang{\kf19} up{\kf19} his{\kf32} hat{\kf13} with{\kf19} a{\kf51} ra{\kf13}di{\kf26}ant{\kf38} smile{\kf32}~
-Dialogue: 0,0:02:40.64,0:02:44.08,DEFAULT,,0,0,0,,{\kf13}I'll{\kf26} ask{\kf19} where{\kf26} he's{\kf32} been{\kf38} for{\kf32} all{\kf13} of{\kf26} these{\kf51} years
-Dialogue: 0,0:02:44.70,0:02:48.58,DEFAULT,,0,0,0,,{\kf13}We'll{\kf19} talk{\kf13} a{\kf19}bout{\kf13} his{\kf26} tra{\kf19}vels{\kf19} o{\kf13}ver{\kf19} two{\kf13} or{\kf26} three{\kf57} beers{\kf32}~
-Dialogue: 0,0:02:48.71,0:02:53.83,DEFAULT,,0,0,0,,{\kf13}I'll{\kf13} hang{\kf19} on{\kf19} e{\kf13}very{\kf26} word,{\kf19} loo{\kf19}king{\kf26} for{\kf13}ward{\kf19} to{\kf44} bright{\kf19}er{\kf38} days~{\kf76}~
-Dialogue: 0,0:02:54.33,0:03:12.22,DEFAULT,,0,0,0,,{\kf26}When{\kf7} the{\kf51} sun{\kf57} comes{\kf88} back{\kf226}~{\kf26} to{\kf51} staaaaaay{\kf232}~{\kf51}~{\kf26}~{\kf257}~{\kf19}~{\kf26}~{\kf44}~{\kf38}~{\kf32}~{\kf32}~{\kf144}~
-Dialogue: 0,0:03:13.29,0:03:16.23,DEFAULT,,0,0,0,,{\kf13}Come{\kf13} on{\kf38} back{\kf32} ba{\kf32}by,{\kf19} we{\kf32} miss{\kf26} you
+Dialogue: 0,0:00:17.10,0:00:20.22,DEFAULT,,0,0,0,,{\r}{\kf16}A{\kf32}no{\kf16}ther{\kf32} day{\kf24} of{\kf32} clou{\kf32}dy{\kf129} skies
+Dialogue: 0,0:00:20.85,0:00:24.73,DEFAULT,,0,0,0,,{\r}{\kf35}Fee{\kf35}lin'{\kf44} low{\kf26} and{\kf26} I{\kf53} don't{\kf53} know{\kf62} why,{\kf54} I
+Dialogue: 0,0:00:25.35,0:00:28.23,DEFAULT,,0,0,0,,{\r}{\kf26}Guess{\kf26} it{\kf26} shoul{\kf17}dn’t{\kf26} be{\kf35} news{\kf26} to{\kf26} me{\kf80} now
+Dialogue: 0,0:00:28.67,0:00:32.55,DEFAULT,,0,0,0,,{\r}{\kf16}It's{\kf24} been{\kf16} this{\kf32} way{\kf16} for{\kf32} cen{\kf24}tu{\kf32}ries{\kf16} but{\kf32} I'm{\kf32} hold{\kf24}ing{\kf92} out
+Dialogue: 0,0:00:33.11,0:00:36.24,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf17} heard{\kf25} from{\kf34} le{\kf25}gends{\kf25} and{\kf42} crys{\kf42}tal{\kf86} balls
+Dialogue: 0,0:00:36.74,0:00:40.36,DEFAULT,,0,0,0,,{\r}{\kf32}Sun{\kf48} gave{\kf40} warmth{\kf24} to{\kf16} the{\kf56} great{\kf40} and{\kf107} small
+Dialogue: 0,0:00:41.18,0:00:44.68,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf25} saw{\kf25} the{\kf25} smi{\kf25}le{\kf17} good{\kf33} old{\kf33} Ray{\kf17} put{\kf25} on{\kf33} their{\kf75} face
+Dialogue: 0,0:00:45.31,0:00:48.56,DEFAULT,,0,0,0,,{\r}{\kf33}It{\kf42} ain’t{\kf25} too{\kf33} much{\kf25} to{\kf25} want{\kf25} gen{\kf42}tle{\kf75} grace
+Dialogue: 0,0:00:49.12,0:00:52.44,DEFAULT,,0,0,0,,{\r}{\kf17}This{\kf17} pes{\kf26}si{\kf26}mi{\kf26}sm{\kf35} brings{\kf17} my{\kf44} brain{\kf26} a{\kf44} schi{\kf53}sm
+Dialogue: 0,0:00:52.69,0:00:55.63,DEFAULT,,0,0,0,,{\r}{\kf39}Split{\kf46}ting{\kf39} up{\kf46} my{\kf124} mind
+Dialogue: 0,0:00:56.63,0:01:00.38,DEFAULT,,0,0,0,,{\r}{\kf17}But{\kf25} I{\kf25} know{\kf33} be{\kf33}fore{\kf33} too{\kf58} soon,{\kf50} I’ll{\kf101} find
+Dialogue: 0,0:01:00.75,0:01:04.13,DEFAULT,,0,0,0,,{\r}{\kf25}Foot{\kf33}steps{\kf25} on{\kf16} my{\kf33} porch{\kf25} of{\kf33} ul{\kf41}tra{\kf33}vio{\kf33}let{\kf41} kind
+Dialogue: 0,0:01:04.26,0:01:08.26,DEFAULT,,0,0,0,,{\r}{\kf30}When{\kf30} the{\kf90} sun{\kf50} comes{\kf50} knock{\kf20}ing{\kf30} on{\kf30} my{\kf70} door
+Dialogue: 0,0:01:08.57,0:01:12.20,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf25} af{\kf16}ter{\kf33} I{\kf49} pick{\kf41} my{\kf49} jaw{\kf25} off{\kf25} the{\kf75} floor
+Dialogue: 0,0:01:12.58,0:01:16.33,DEFAULT,,0,0,0,,{\r}{\kf16}I'll{\kf24} say{\kf24} "Come{\kf24} in{\kf57} stran{\kf24}ger!";{\kf24} It's{\kf41} been{\kf24} too{\kf33} long{\kf16} a{\kf68} while
+Dialogue: 0,0:01:16.70,0:01:20.33,DEFAULT,,0,0,0,,{\r}{\kf16}He'll{\kf24} hang{\kf16} up{\kf24} his{\kf56} hat{\kf24} with{\kf24} a{\kf56} ra{\kf24}di{\kf32}ant{\kf67} smile
+Dialogue: 0,0:01:20.77,0:01:24.27,DEFAULT,,0,0,0,,{\r}{\kf16}I'll{\kf24} ask{\kf16} where{\kf33} he's{\kf41} been{\kf49} for{\kf49} all{\kf24} of{\kf41} these{\kf57} years
+Dialogue: 0,0:01:24.59,0:01:28.40,DEFAULT,,0,0,0,,{\r}{\kf16}We'll{\kf39} talk{\kf16} a{\kf16}bout{\kf16} his{\kf31} tra{\kf23}vels{\kf23} o{\kf23}ver{\kf31} two{\kf23} or{\kf31} three{\kf94} beers
+Dialogue: 0,0:01:28.65,0:01:33.78,DEFAULT,,0,0,0,,{\r}{\kf16}I'll{\kf32} hang{\kf16} on{\kf24} e{\kf24}very{\kf39} word,{\kf32} loo{\kf16}king{\kf24} for{\kf16}ward{\kf24} to{\kf55} bright{\kf55}er{\kf140} days
+Dialogue: 0,0:01:34.40,0:01:37.85,DEFAULT,,0,0,0,,{\r}{\kf24}When{\kf16} the{\kf32} sun{\kf48} comes{\kf48} back{\kf24} to{\kf152} stay
+Dialogue: 0,0:01:52.86,0:01:56.05,DEFAULT,,0,0,0,,{\r}{\kf32}May{\kf16}be{\kf24} he{\kf48} just{\kf24} read{\kf24} the{\kf56} sign{\kf95} wrong
+Dialogue: 0,0:01:56.11,0:01:59.61,DEFAULT,,0,0,0,,{\r}{\kf16}Or{\kf39} fell{\kf23} a{\kf47}sleep{\kf31} wait{\kf16}ing{\kf23} on{\kf47} his{\kf108} train
+Dialogue: 0,0:02:00.17,0:02:04.05,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf26} the{\kf43} ga{\kf17}la{\kf34}xy{\kf26} ex{\kf26}press{\kf26} takes{\kf26} a{\kf43} cen{\kf26}tu{\kf26}ry{\kf17} no{\kf35} less
+Dialogue: 0,0:02:04.62,0:02:07.99,DEFAULT,,0,0,0,,{\r}{\kf16}To{\kf41} come{\kf49} back{\kf41} round{\kf41} our{\kf41} way{\kf25} a{\kf84}gain
+Dialogue: 0,0:02:08.12,0:02:12.12,DEFAULT,,0,0,0,,{\r}{\kf26}E{\kf26}very{\kf43} one{\kf35} says{\kf17} you're{\kf52} gone,{\kf17} but{\kf26} I{\kf43} know{\kf26} you're{\kf26} on{\kf17}ly{\kf46} late
+Dialogue: 0,0:02:12.62,0:02:16.19,DEFAULT,,0,0,0,,{\r}{\kf18}I'll{\kf27} leave{\kf27} the{\kf27} lights{\kf45} on{\kf27} if{\kf27} you{\kf36} re{\kf27}ci{\kf27}pro{\kf69}cate
+Dialogue: 0,0:02:16.56,0:02:19.94,DEFAULT,,0,0,0,,{\r}{\kf27}Just{\kf27} pro{\kf27}mise{\kf27} you're{\kf37} back{\kf27} and{\kf27} we{\kf46} won't{\kf46} get{\kf47} burned
+Dialogue: 0,0:02:20.06,0:02:23.94,DEFAULT,,0,0,0,,{\r}{\kf25}You'll{\kf25} be{\kf17} the{\kf33} pro{\kf25}di{\kf25}gal{\kf41} sun{\kf25} as{\kf33} far{\kf25} as{\kf41} I'm{\kf25} con{\kf48}cerned
+Dialogue: 0,0:02:24.07,0:02:28.20,DEFAULT,,0,0,0,,{\r}{\kf31}When{\kf31} the{\kf103} sun{\kf41} comes{\kf52} knock{\kf21}ing{\kf41} on{\kf21} my{\kf72} door
+Dialogue: 0,0:02:28.63,0:02:32.01,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf27} af{\kf27}ter{\kf27} I{\kf37} pick{\kf46} my{\kf46} jaw{\kf27} off{\kf27} the{\kf56} floor
+Dialogue: 0,0:02:32.57,0:02:36.14,DEFAULT,,0,0,0,,{\r}{\kf18}I'll{\kf27} say{\kf10} "Come{\kf18} on{\kf36} in{\kf36} stran{\kf18}ger!";{\kf27} It's{\kf45} been{\kf27} too{\kf27} long{\kf27} a{\kf41} while
+Dialogue: 0,0:02:36.64,0:02:40.58,DEFAULT,,0,0,0,,{\r}{\kf17}He'll{\kf34} hang{\kf25} up{\kf25} his{\kf42} hat{\kf17} with{\kf25} a{\kf67} ra{\kf17}di{\kf34}ant{\kf50} smile{\kf41}~
+Dialogue: 0,0:02:40.64,0:02:44.08,DEFAULT,,0,0,0,,{\r}{\kf16}I'll{\kf32} ask{\kf24} where{\kf32} he's{\kf40} been{\kf48} for{\kf40} all{\kf16} of{\kf32} these{\kf64} years
+Dialogue: 0,0:02:44.71,0:02:48.59,DEFAULT,,0,0,0,,{\r}{\kf17}We'll{\kf25} talk{\kf17} a{\kf25}bout{\kf17} his{\kf33} tra{\kf25}vels{\kf25} o{\kf17}ver{\kf25} two{\kf17} or{\kf33} three{\kf74} beers{\kf38}~
+Dialogue: 0,0:02:48.71,0:02:53.84,DEFAULT,,0,0,0,,{\r}{\kf17}I'll{\kf17} hang{\kf26} on{\kf26} e{\kf17}very{\kf35} word,{\kf26} loo{\kf26}king{\kf35} for{\kf17}ward{\kf26} to{\kf61} bright{\kf26}er{\kf52} days~{\kf106}~
+Dialogue: 0,0:02:54.34,0:03:12.23,DEFAULT,,0,0,0,,{\r}{\kf32}When{\kf10} the{\kf63} sun{\kf71} comes{\kf110} back{\kf284}~{\kf32} to{\kf63} staaaaaay{\kf292}~{\kf63}~{\kf32}~{\kf323}~{\kf24}~{\kf32}~{\kf55}~{\kf47}~{\kf39}~{\kf39}~{\kf178}~
+Dialogue: 0,0:03:13.29,0:03:16.23,DEFAULT,,0,0,0,,{\r}{\kf18}Come{\kf18} on{\kf55} back{\kf46} ba{\kf46}by,{\kf28} we{\kf46} miss{\kf37} you

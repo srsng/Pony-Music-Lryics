@@ -1,94 +1,101 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Dragonheart
+Artist: Aviators
+Original Timing: mylittlekaraoke.com by ShTHfan1
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:13.07,0:00:15.44,DEFAULT,,0,0,0,,{\kf27}Whoa{\kf27}-oh{\kf27}-oh,{\kf27} whoa{\kf27}-oh{\kf27}-oh
-Dialogue: 0,0:00:15.88,0:00:18.26,DEFAULT,,0,0,0,,{\kf27}Whoa{\kf27}-hoh{\kf27}-oh,{\kf27} whoa{\kf27}-hoh{\kf27}-oh
-Dialogue: 0,0:00:18.70,0:00:21.08,DEFAULT,,0,0,0,,{\kf27}Whoa{\kf27}-oh{\kf27}-oh,{\kf27} whoa{\kf27}-oh{\kf27}-oh
-Dialogue: 0,0:00:21.52,0:00:23.90,DEFAULT,,0,0,0,,{\kf27}Whoa{\kf27}-hoh{\kf27}-oh,{\kf27} whoa{\kf27}-hoh{\kf27}-oh
-Dialogue: 0,0:00:24.34,0:00:26.71,DEFAULT,,0,0,0,,{\kf27}Whoa{\kf27}-oh{\kf27}-oh,{\kf27} whoa{\kf27}-oh{\kf27}-oh
-Dialogue: 0,0:00:27.20,0:00:29.58,DEFAULT,,0,0,0,,{\kf27}Whoa{\kf27}-hoh{\kf27}-oh,{\kf27} whoa{\kf27}-hoh{\kf27}-oh
-Dialogue: 0,0:00:30.02,0:00:32.39,DEFAULT,,0,0,0,,{\kf27}Whoa{\kf27}-oh{\kf27}-oh,{\kf27} whoa{\kf27}-oh{\kf27}-oh
-Dialogue: 0,0:00:32.83,0:00:35.21,DEFAULT,,0,0,0,,{\kf27}Whoa{\kf27}-hoh{\kf27}-oh,{\kf27} whoa{\kf27}-hoh{\kf27}-oh
-Dialogue: 0,0:00:35.65,0:00:37.59,DEFAULT,,0,0,0,,{\kf18}Mo{\kf14}ments{\kf27} pass{\kf27} like{\kf18} pho{\kf27}to{\kf31}graphs
-Dialogue: 0,0:00:37.77,0:00:40.63,DEFAULT,,0,0,0,,{\kf36}Like{\kf18} pa{\kf14}ges{\kf27} filled{\kf36} with{\kf14} our{\kf18} own{\kf58} pasts
-Dialogue: 0,0:00:40.98,0:00:44.33,DEFAULT,,0,0,0,,{\kf27}You're{\kf14} the{\kf27} hap{\kf36}py{\kf31} en{\kf18}ding{\kf23} to{\kf14} thi{\kf31}-is{\kf53} tale
-Dialogue: 0,0:00:45.38,0:00:46.62,DEFAULT,,0,0,0,,{\kf14}And{\kf14} now{\kf14} I{\kf18} ca{\kf14}-an't{\kf36} fail
-Dialogue: 0,0:00:46.97,0:00:48.91,DEFAULT,,0,0,0,,{\kf27}I'm{\kf27} reck{\kf14}less{\kf14} wi{\kf18}thout{\kf27} a{\kf36} plan
-Dialogue: 0,0:00:49.26,0:00:51.63,DEFAULT,,0,0,0,,{\kf14}You{\kf31} know{\kf14} that{\kf27} I'm{\kf40} no{\kf27} su{\kf18}per{\kf27}man
-Dialogue: 0,0:00:52.08,0:00:55.60,DEFAULT,,0,0,0,,{\kf14}But{\kf27} I{\kf14} can{\kf27} keep{\kf36} you{\kf23} safe{\kf14} if{\kf27} you{\kf18} ho{\kf27}-old{\kf53} on
-Dialogue: 0,0:00:56.65,0:00:57.89,DEFAULT,,0,0,0,,{\kf14}I{\kf14} know{\kf14} this{\kf14} can't{\kf14} be{\kf36} wrong
-Dialogue: 0,0:00:58.24,0:01:00.18,DEFAULT,,0,0,0,,{\kf27}Can't{\kf27} do{\kf27} this{\kf18} wi{\kf27}thout{\kf36} you
-Dialogue: 0,0:01:00.53,0:01:02.82,DEFAULT,,0,0,0,,{\kf18}To{\kf27}ge{\kf14}ther{\kf27} we{\kf27} can{\kf27} make{\kf27} it{\kf18} through
-Dialogue: 0,0:01:02.99,0:01:05.37,DEFAULT,,0,0,0,,{\kf36}These{\kf102} roads{\kf14} a{\kf62}round
-Dialogue: 0,0:01:05.99,0:01:08.23,DEFAULT,,0,0,0,,{\kf36}The{\kf97} bat{\kf18}tle{\kf58}ground
-Dialogue: 0,0:01:09.16,0:01:11.62,DEFAULT,,0,0,0,,{\kf27}Chap{\kf18}ters{\kf23} closed,{\kf27} on{\kf18} a{\kf23} new{\kf49} start
-Dialogue: 0,0:01:11.80,0:01:14.40,DEFAULT,,0,0,0,,{\kf14}We're{\kf40} get{\kf14}ting{\kf31} to{\kf27} my{\kf31} fa{\kf18}vorite{\kf45} part
-Dialogue: 0,0:01:14.62,0:01:16.51,DEFAULT,,0,0,0,,{\kf23}'Cuz{\kf27} you're{\kf14} the{\kf27} on{\kf18}ly{\kf45} one
-Dialogue: 0,0:01:16.91,0:01:20.69,DEFAULT,,0,0,0,,{\kf27}Who{\kf27} can{\kf62} tame{\kf40} my{\kf18}-y{\kf40} dra{\kf36}-a{\kf45}gon{\kf27}heart
-Dialogue: 0,0:01:20.87,0:01:23.25,DEFAULT,,0,0,0,,{\kf27}Whoa{\kf27}-oh{\kf27}-oh,{\kf27} whoa{\kf27}-oh{\kf27}-oh
-Dialogue: 0,0:01:23.69,0:01:26.07,DEFAULT,,0,0,0,,{\kf27}Whoa{\kf27}-hoh{\kf27}-oh,{\kf27} whoa{\kf27}-hoh{\kf27}-oh
-Dialogue: 0,0:01:26.51,0:01:28.88,DEFAULT,,0,0,0,,{\kf27}Whoa{\kf27}-oh{\kf27}-oh,{\kf27} whoa{\kf27}-oh{\kf27}-oh
-Dialogue: 0,0:01:29.32,0:01:31.70,DEFAULT,,0,0,0,,{\kf27}Whoa{\kf27}-hoh{\kf27}-oh,{\kf27} whoa{\kf27}-hoh{\kf27}-oh
-Dialogue: 0,0:01:32.05,0:01:33.99,DEFAULT,,0,0,0,,{\kf27}Des{\kf23}pite{\kf23} my{\kf36} strong{\kf14} de{\kf27}sire
-Dialogue: 0,0:01:34.17,0:01:36.85,DEFAULT,,0,0,0,,{\kf31}You{\kf14} some{\kf14}times{\kf27} feel{\kf27} my{\kf27} breath{\kf14} of{\kf36} fire
-Dialogue: 0,0:01:37.29,0:01:40.90,DEFAULT,,0,0,0,,{\kf14}It{\kf18} does{\kf18}n't{\kf27} mean{\kf36} I'm{\kf36} an{\kf18}gry,{\kf23} just{\kf18} co{\kf27}-on{\kf62}fused
-Dialogue: 0,0:01:41.87,0:01:43.11,DEFAULT,,0,0,0,,{\kf14}I{\kf14} don't{\kf14} know{\kf14} how{\kf14} to{\kf36} choose
-Dialogue: 0,0:01:43.46,0:01:45.40,DEFAULT,,0,0,0,,{\kf27}Bet{\kf27}ween{\kf27} my{\kf18} bit{\kf23}ter{\kf36}ness
-Dialogue: 0,0:01:45.57,0:01:48.26,DEFAULT,,0,0,0,,{\kf14}And{\kf14} the{\kf18} en{\kf23}ding{\kf31} that{\kf36} comes{\kf23} af{\kf18}ter{\kf40} this
-Dialogue: 0,0:01:48.57,0:01:51.82,DEFAULT,,0,0,0,,{\kf14}I{\kf23} know{\kf18} I{\kf23} want{\kf31} you,{\kf31} though{\kf18} it's{\kf40} hard{\kf14} to{\kf45} change
-Dialogue: 0,0:01:53.14,0:01:54.29,DEFAULT,,0,0,0,,{\kf14}So{\kf14} let's{\kf14} just{\kf14} turn{\kf14} the{\kf27} page
-Dialogue: 0,0:01:54.73,0:01:56.67,DEFAULT,,0,0,0,,{\kf27}Can't{\kf27} do{\kf27} this{\kf18} wi{\kf27}thout{\kf36} you
-Dialogue: 0,0:01:57.02,0:01:59.31,DEFAULT,,0,0,0,,{\kf18}To{\kf27}ge{\kf14}ther{\kf27} we{\kf27} can{\kf27} make{\kf27} it{\kf18} through
-Dialogue: 0,0:01:59.48,0:02:01.82,DEFAULT,,0,0,0,,{\kf31}These{\kf93} roads{\kf23} a{\kf58}round
-Dialogue: 0,0:02:02.48,0:02:04.77,DEFAULT,,0,0,0,,{\kf31}The{\kf93} bat{\kf18}tle{\kf62}ground
-Dialogue: 0,0:02:05.65,0:02:08.11,DEFAULT,,0,0,0,,{\kf27}Chap{\kf14}ters{\kf27} closed,{\kf31} on{\kf18} a{\kf27} new{\kf53} start
-Dialogue: 0,0:02:08.29,0:02:10.80,DEFAULT,,0,0,0,,{\kf14}We're{\kf36} get{\kf14}ting{\kf27} to{\kf27} my{\kf31} fa{\kf23}vorite{\kf40} part
-Dialogue: 0,0:02:11.11,0:02:12.96,DEFAULT,,0,0,0,,{\kf23}'Cuz{\kf27} you're{\kf14} the{\kf27} on{\kf23}ly{\kf45} one
-Dialogue: 0,0:02:13.40,0:02:17.14,DEFAULT,,0,0,0,,{\kf27}Who{\kf27} can{\kf62} tame{\kf40} my{\kf18}-y{\kf40} dra{\kf27}-a{\kf45}gon{\kf23}heart
-Dialogue: 0,0:02:17.32,0:02:19.69,DEFAULT,,0,0,0,,{\kf27}Whoa{\kf27}-oh{\kf27}-oh,{\kf27} whoa{\kf27}-oh{\kf27}-oh
-Dialogue: 0,0:02:20.13,0:02:22.51,DEFAULT,,0,0,0,,{\kf27}Whoa{\kf27}-hoh{\kf27}-oh,{\kf27} whoa{\kf27}-hoh{\kf27}-oh
-Dialogue: 0,0:02:22.95,0:02:25.33,DEFAULT,,0,0,0,,{\kf27}Whoa{\kf27}-oh{\kf27}-oh,{\kf27} whoa{\kf27}-oh{\kf27}-oh
-Dialogue: 0,0:02:25.77,0:02:28.15,DEFAULT,,0,0,0,,{\kf27}Whoa{\kf27}-hoh{\kf27}-oh,{\kf27} whoa{\kf27}-hoh{\kf27}-oh
-Dialogue: 0,0:02:28.59,0:02:30.79,DEFAULT,,0,0,0,,{\kf14}Ne{\kf14}ver{\kf27} feel{\kf27} like{\kf27} you{\kf14} are{\kf27} a{\kf27}lone
-Dialogue: 0,0:02:31.45,0:02:33.65,DEFAULT,,0,0,0,,{\kf14}In{\kf14} the{\kf23} midst{\kf14} of{\kf14} the{\kf27} fire,{\kf14} we{\kf27} found{\kf27} home
-Dialogue: 0,0:02:33.87,0:02:35.90,DEFAULT,,0,0,0,,{\kf27}It's{\kf27} our{\kf18} hap{\kf23}py{\kf23} en{\kf45}ding
-Dialogue: 0,0:02:36.51,0:02:39.29,DEFAULT,,0,0,0,,{\kf14}And{\kf14} no{\kf27} one's{\kf14} gon{\kf23}na{\kf36} stop{\kf31} us{\kf40} now
-Dialogue: 0,0:02:39.86,0:02:42.15,DEFAULT,,0,0,0,,{\kf14}I'm{\kf18} a{\kf27} beast{\kf14} with{\kf14} a{\kf27} heart{\kf14} that's{\kf27} fro{\kf31}zen
-Dialogue: 0,0:02:42.68,0:02:44.88,DEFAULT,,0,0,0,,{\kf14}But{\kf14} with{\kf27} you,{\kf14} now{\kf14} my{\kf27} eyes{\kf14} are{\kf23} o{\kf23}pen
-Dialogue: 0,0:02:45.10,0:02:47.04,DEFAULT,,0,0,0,,{\kf14}I{\kf14} see{\kf23} the{\kf27} strug{\kf27}gles{\kf27} co{\kf27}ming
-Dialogue: 0,0:02:47.83,0:02:50.60,DEFAULT,,0,0,0,,{\kf14}But{\kf14} we{\kf27} will{\kf23} strike{\kf23} them{\kf36} down{\kf45} some{\kf45}how
-Dialogue: 0,0:02:51.53,0:02:53.38,DEFAULT,,0,0,0,,{\kf36}You're{\kf18} the{\kf27} sa{\kf18}vio{\kf18}-or{\kf45} of
-Dialogue: 0,0:02:53.99,0:02:56.11,DEFAULT,,0,0,0,,{\kf14}My{\kf14} a{\kf31}bi{\kf14}li{\kf36}ty{\kf18} to{\kf49} love
-Dialogue: 0,0:02:56.28,0:02:59.81,DEFAULT,,0,0,0,,{\kf14}I{\kf27} found{\kf18} the{\kf27} will{\kf27} to{\kf62} change{\kf40} i{\kf18}-n{\kf45} you
-Dialogue: 0,0:03:02.84,0:03:04.60,DEFAULT,,0,0,0,,{\kf27}Though{\kf27} I'm{\kf14} still{\kf27} a{\kf53}shamed
-Dialogue: 0,0:03:05.31,0:03:07.42,DEFAULT,,0,0,0,,{\kf27}Of{\kf27} how{\kf27} I{\kf27} start{\kf14} the{\kf53} flames
-Dialogue: 0,0:03:07.77,0:03:11.25,DEFAULT,,0,0,0,,{\kf23}You{\kf27} ac{\kf23}cept{\kf27} me{\kf36} fo{\kf27}-or{\kf40} what's{\kf62} true
-Dialogue: 0,0:03:36.39,0:03:38.29,DEFAULT,,0,0,0,,{\kf27}Can't{\kf27} do{\kf27} this{\kf18} wi{\kf23}thout{\kf31} you
-Dialogue: 0,0:03:38.68,0:03:40.97,DEFAULT,,0,0,0,,{\kf18}To{\kf27}ge{\kf14}ther{\kf27} we{\kf27} can{\kf27} make{\kf27} it{\kf18} through
-Dialogue: 0,0:03:41.15,0:03:43.53,DEFAULT,,0,0,0,,{\kf31}These{\kf93} roads{\kf18} a{\kf62}round
-Dialogue: 0,0:03:44.10,0:03:46.34,DEFAULT,,0,0,0,,{\kf27}The{\kf93} bat{\kf18}tle{\kf62}ground
-Dialogue: 0,0:03:47.31,0:03:49.73,DEFAULT,,0,0,0,,{\kf27}Chap{\kf14}ters{\kf27} closed,{\kf31} on{\kf18} a{\kf27} new{\kf45} start
-Dialogue: 0,0:03:50.00,0:03:52.51,DEFAULT,,0,0,0,,{\kf14}We're{\kf31} get{\kf14}ting{\kf27} to{\kf27} my{\kf27} fa{\kf23}vorite{\kf45} part
-Dialogue: 0,0:03:52.73,0:03:54.62,DEFAULT,,0,0,0,,{\kf23}'Cuz{\kf27} you're{\kf14} the{\kf27} on{\kf18}ly{\kf45} one
-Dialogue: 0,0:03:55.02,0:03:58.72,DEFAULT,,0,0,0,,{\kf27}Who{\kf27} can{\kf58} tame{\kf40} my{\kf23}-y{\kf40} dra{\kf36}-a{\kf45}gon{\kf18}heart
-Dialogue: 0,0:03:58.94,0:04:00.83,DEFAULT,,0,0,0,,{\kf27}Can't{\kf27} do{\kf27} this{\kf18} wi{\kf23}thout{\kf36} you
-Dialogue: 0,0:04:01.23,0:04:03.52,DEFAULT,,0,0,0,,{\kf18}To{\kf27}ge{\kf18}ther{\kf23} we{\kf27} can{\kf27} make{\kf27} it{\kf18} through
-Dialogue: 0,0:04:03.69,0:04:06.11,DEFAULT,,0,0,0,,{\kf36}These{\kf89} roads{\kf18} a{\kf67}round
-Dialogue: 0,0:04:06.69,0:04:09.02,DEFAULT,,0,0,0,,{\kf36}The{\kf93} bat{\kf18}tle{\kf67}ground
-Dialogue: 0,0:04:09.90,0:04:12.32,DEFAULT,,0,0,0,,{\kf27}Chap{\kf18}ters{\kf23} closed,{\kf36} on{\kf23} a{\kf23} new{\kf45} start
-Dialogue: 0,0:04:12.54,0:04:15.10,DEFAULT,,0,0,0,,{\kf14}We're{\kf36} get{\kf14}ting{\kf31} to{\kf27} my{\kf31} fa{\kf23}vorite{\kf45} part
-Dialogue: 0,0:04:15.36,0:04:17.25,DEFAULT,,0,0,0,,{\kf23}'Cuz{\kf27} you're{\kf14} the{\kf27} on{\kf18}ly{\kf49} one
-Dialogue: 0,0:04:17.65,0:04:20.95,DEFAULT,,0,0,0,,{\kf27}Who{\kf27} can{\kf62} tame{\kf40} my{\kf23}-y{\kf40} dra{\kf31}-a{\kf45}gon-
-Dialogue: 0,0:04:21.17,0:04:32.27,DEFAULT,,0,0,0,,{\kf265}heart{\kf18}~{\kf247}~{\kf18}~{\kf238}~{\kf18}~{\kf238}~!
-Dialogue: 0,0:04:32.88,0:04:35.26,DEFAULT,,0,0,0,,{\kf27}Whoa{\kf27}-oh{\kf27}-oh,{\kf27} whoa{\kf27}-oh{\kf27}-oh
-Dialogue: 0,0:04:35.70,0:04:38.08,DEFAULT,,0,0,0,,{\kf27}Whoa{\kf27}-hoh{\kf27}-oh,{\kf27} whoa{\kf27}-hoh{\kf27}-oh
-Dialogue: 0,0:04:38.52,0:04:40.90,DEFAULT,,0,0,0,,{\kf27}Whoa{\kf27}-oh{\kf27}-oh,{\kf27} whoa{\kf27}-oh{\kf27}-oh
-Dialogue: 0,0:04:41.34,0:04:43.71,DEFAULT,,0,0,0,,{\kf27}Whoa{\kf27}-hoh{\kf27}-oh,{\kf27} whoa{\kf27}-hoh{\kf27}-oh
+Dialogue: 0,0:00:13.07,0:00:15.45,DEFAULT,,0,0,0,,{\r}{\kf40}Whoa{\kf40}-oh{\kf40}-oh,{\kf40} whoa{\kf40}-oh{\kf38}-oh
+Dialogue: 0,0:00:15.89,0:00:18.27,DEFAULT,,0,0,0,,{\r}{\kf40}Whoa{\kf40}-hoh{\kf40}-oh,{\kf40} whoa{\kf40}-hoh{\kf38}-oh
+Dialogue: 0,0:00:18.71,0:00:21.08,DEFAULT,,0,0,0,,{\r}{\kf40}Whoa{\kf40}-oh{\kf40}-oh,{\kf40} whoa{\kf40}-oh{\kf38}-oh
+Dialogue: 0,0:00:21.52,0:00:23.90,DEFAULT,,0,0,0,,{\r}{\kf40}Whoa{\kf40}-hoh{\kf40}-oh,{\kf40} whoa{\kf40}-hoh{\kf38}-oh
+Dialogue: 0,0:00:24.34,0:00:26.72,DEFAULT,,0,0,0,,{\r}{\kf40}Whoa{\kf40}-oh{\kf40}-oh,{\kf40} whoa{\kf40}-oh{\kf38}-oh
+Dialogue: 0,0:00:27.20,0:00:29.58,DEFAULT,,0,0,0,,{\r}{\kf40}Whoa{\kf40}-hoh{\kf40}-oh,{\kf40} whoa{\kf40}-hoh{\kf38}-oh
+Dialogue: 0,0:00:30.02,0:00:32.40,DEFAULT,,0,0,0,,{\r}{\kf40}Whoa{\kf40}-oh{\kf40}-oh,{\kf40} whoa{\kf40}-oh{\kf38}-oh
+Dialogue: 0,0:00:32.84,0:00:35.22,DEFAULT,,0,0,0,,{\r}{\kf40}Whoa{\kf40}-hoh{\kf40}-oh,{\kf40} whoa{\kf40}-hoh{\kf38}-oh
+Dialogue: 0,0:00:35.66,0:00:37.59,DEFAULT,,0,0,0,,{\r}{\kf22}Mo{\kf16}ments{\kf32} pass{\kf32} like{\kf22} pho{\kf32}to{\kf38}graphs
+Dialogue: 0,0:00:37.77,0:00:40.63,DEFAULT,,0,0,0,,{\r}{\kf47}Like{\kf23} pa{\kf18}ges{\kf35} filled{\kf47} with{\kf18} our{\kf23} own{\kf75} pasts
+Dialogue: 0,0:00:40.98,0:00:44.33,DEFAULT,,0,0,0,,{\r}{\kf33}You're{\kf16} the{\kf33} hap{\kf44}py{\kf38} en{\kf22}ding{\kf27} to{\kf16} thi{\kf38}-is{\kf68} tale
+Dialogue: 0,0:00:45.39,0:00:46.62,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} now{\kf15} I{\kf20} ca{\kf15}-an't{\kf43} fail
+Dialogue: 0,0:00:46.97,0:00:48.91,DEFAULT,,0,0,0,,{\r}{\kf32}I'm{\kf32} reck{\kf16}less{\kf16} wi{\kf22}thout{\kf32} a{\kf44} plan
+Dialogue: 0,0:00:49.26,0:00:51.64,DEFAULT,,0,0,0,,{\r}{\kf16}You{\kf38} know{\kf16} that{\kf32} I'm{\kf49} no{\kf32} su{\kf22}per{\kf33}man
+Dialogue: 0,0:00:52.08,0:00:55.60,DEFAULT,,0,0,0,,{\r}{\kf17}But{\kf34} I{\kf17} can{\kf34} keep{\kf45} you{\kf28} safe{\kf17} if{\kf34} you{\kf23} ho{\kf34}-old{\kf69} on
+Dialogue: 0,0:00:56.66,0:00:57.89,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} know{\kf16} this{\kf16} can't{\kf16} be{\kf43} wrong
+Dialogue: 0,0:00:58.24,0:01:00.18,DEFAULT,,0,0,0,,{\r}{\kf32}Can't{\kf32} do{\kf32} this{\kf22} wi{\kf32}thout{\kf44} you
+Dialogue: 0,0:01:00.53,0:01:02.82,DEFAULT,,0,0,0,,{\r}{\kf22}To{\kf34}ge{\kf17}ther{\kf34} we{\kf34} can{\kf34} make{\kf34} it{\kf20} through
+Dialogue: 0,0:01:03.00,0:01:05.38,DEFAULT,,0,0,0,,{\r}{\kf40}These{\kf114} roads{\kf15} a{\kf69}round
+Dialogue: 0,0:01:05.99,0:01:08.24,DEFAULT,,0,0,0,,{\r}{\kf38}The{\kf105} bat{\kf19}tle{\kf63}ground
+Dialogue: 0,0:01:09.16,0:01:11.63,DEFAULT,,0,0,0,,{\r}{\kf36}Chap{\kf24}ters{\kf30} closed,{\kf36} on{\kf24} a{\kf30} new{\kf67} start
+Dialogue: 0,0:01:11.81,0:01:14.40,DEFAULT,,0,0,0,,{\r}{\kf16}We're{\kf48} get{\kf16}ting{\kf37} to{\kf32} my{\kf37} fa{\kf21}vorite{\kf53} part
+Dialogue: 0,0:01:14.62,0:01:16.52,DEFAULT,,0,0,0,,{\r}{\kf28}'Cuz{\kf33} you're{\kf17} the{\kf33} on{\kf22}ly{\kf56} one
+Dialogue: 0,0:01:16.91,0:01:20.70,DEFAULT,,0,0,0,,{\r}{\kf32}Who{\kf32} can{\kf74} tame{\kf47} my{\kf21}-y{\kf47} dra{\kf42}-a{\kf53}gon{\kf31}heart
+Dialogue: 0,0:01:20.88,0:01:23.25,DEFAULT,,0,0,0,,{\r}{\kf40}Whoa{\kf40}-oh{\kf40}-oh,{\kf40} whoa{\kf40}-oh{\kf38}-oh
+Dialogue: 0,0:01:23.69,0:01:26.07,DEFAULT,,0,0,0,,{\r}{\kf40}Whoa{\kf40}-hoh{\kf40}-oh,{\kf40} whoa{\kf40}-hoh{\kf38}-oh
+Dialogue: 0,0:01:26.51,0:01:28.89,DEFAULT,,0,0,0,,{\r}{\kf40}Whoa{\kf40}-oh{\kf40}-oh,{\kf40} whoa{\kf40}-oh{\kf38}-oh
+Dialogue: 0,0:01:29.33,0:01:31.71,DEFAULT,,0,0,0,,{\r}{\kf40}Whoa{\kf40}-hoh{\kf40}-oh,{\kf40} whoa{\kf40}-hoh{\kf38}-oh
+Dialogue: 0,0:01:32.06,0:01:34.00,DEFAULT,,0,0,0,,{\r}{\kf35}Des{\kf29}pite{\kf29} my{\kf47} strong{\kf18} de{\kf36}sire
+Dialogue: 0,0:01:34.17,0:01:36.86,DEFAULT,,0,0,0,,{\r}{\kf45}You{\kf19} some{\kf19}times{\kf38} feel{\kf38} my{\kf38} breath{\kf19} of{\kf53} fire
+Dialogue: 0,0:01:37.30,0:01:40.91,DEFAULT,,0,0,0,,{\r}{\kf16}It{\kf22} does{\kf22}n't{\kf33} mean{\kf44} I'm{\kf44} an{\kf22}gry,{\kf27} just{\kf22} co{\kf33}-on{\kf76}fused
+Dialogue: 0,0:01:41.88,0:01:43.11,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} don't{\kf16} know{\kf16} how{\kf16} to{\kf43} choose
+Dialogue: 0,0:01:43.46,0:01:45.40,DEFAULT,,0,0,0,,{\r}{\kf33}Bet{\kf33}ween{\kf33} my{\kf22} bit{\kf28}ter{\kf45}ness
+Dialogue: 0,0:01:45.58,0:01:48.26,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf17} the{\kf22} en{\kf28}ding{\kf39} that{\kf45} comes{\kf28} af{\kf22}ter{\kf51} this
+Dialogue: 0,0:01:48.57,0:01:51.83,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf29} know{\kf23} I{\kf29} want{\kf40} you,{\kf40} though{\kf23} it's{\kf51} hard{\kf17} to{\kf57} change
+Dialogue: 0,0:01:53.15,0:01:54.29,DEFAULT,,0,0,0,,{\r}{\kf16}So{\kf16} let's{\kf16} just{\kf16} turn{\kf16} the{\kf34} page
+Dialogue: 0,0:01:54.73,0:01:56.67,DEFAULT,,0,0,0,,{\r}{\kf32}Can't{\kf32} do{\kf32} this{\kf22} wi{\kf32}thout{\kf44} you
+Dialogue: 0,0:01:57.02,0:01:59.31,DEFAULT,,0,0,0,,{\r}{\kf22}To{\kf34}ge{\kf17}ther{\kf34} we{\kf34} can{\kf34} make{\kf34} it{\kf20} through
+Dialogue: 0,0:01:59.49,0:02:01.82,DEFAULT,,0,0,0,,{\r}{\kf35}These{\kf106} roads{\kf25} a{\kf67}round
+Dialogue: 0,0:02:02.48,0:02:04.77,DEFAULT,,0,0,0,,{\r}{\kf35}The{\kf105} bat{\kf20}tle{\kf69}ground
+Dialogue: 0,0:02:05.65,0:02:08.12,DEFAULT,,0,0,0,,{\r}{\kf34}Chap{\kf17}ters{\kf34} closed,{\kf39} on{\kf22} a{\kf34} new{\kf67} start
+Dialogue: 0,0:02:08.30,0:02:10.81,DEFAULT,,0,0,0,,{\r}{\kf16}We're{\kf43} get{\kf16}ting{\kf32} to{\kf32} my{\kf37} fa{\kf27}vorite{\kf48} part
+Dialogue: 0,0:02:11.11,0:02:12.96,DEFAULT,,0,0,0,,{\r}{\kf26}'Cuz{\kf32} you're{\kf16} the{\kf32} on{\kf26}ly{\kf53} one
+Dialogue: 0,0:02:13.40,0:02:17.15,DEFAULT,,0,0,0,,{\r}{\kf33}Who{\kf33} can{\kf76} tame{\kf49} my{\kf22}-y{\kf49} dra{\kf33}-a{\kf54}gon{\kf25}heart
+Dialogue: 0,0:02:17.32,0:02:19.70,DEFAULT,,0,0,0,,{\r}{\kf40}Whoa{\kf40}-oh{\kf40}-oh,{\kf40} whoa{\kf40}-oh{\kf38}-oh
+Dialogue: 0,0:02:20.14,0:02:22.52,DEFAULT,,0,0,0,,{\r}{\kf40}Whoa{\kf40}-hoh{\kf40}-oh,{\kf40} whoa{\kf40}-hoh{\kf38}-oh
+Dialogue: 0,0:02:22.96,0:02:25.33,DEFAULT,,0,0,0,,{\r}{\kf40}Whoa{\kf40}-oh{\kf40}-oh,{\kf40} whoa{\kf40}-oh{\kf38}-oh
+Dialogue: 0,0:02:25.78,0:02:28.15,DEFAULT,,0,0,0,,{\r}{\kf40}Whoa{\kf40}-hoh{\kf40}-oh,{\kf40} whoa{\kf40}-hoh{\kf38}-oh
+Dialogue: 0,0:02:28.59,0:02:30.79,DEFAULT,,0,0,0,,{\r}{\kf17}Ne{\kf17}ver{\kf34} feel{\kf34} like{\kf34} you{\kf17} are{\kf34} a{\kf33}lone
+Dialogue: 0,0:02:31.45,0:02:33.66,DEFAULT,,0,0,0,,{\r}{\kf17}In{\kf17} the{\kf29} midst{\kf17} of{\kf17} the{\kf35} fire,{\kf17} we{\kf35} found{\kf36} home
+Dialogue: 0,0:02:33.88,0:02:35.90,DEFAULT,,0,0,0,,{\r}{\kf34}It's{\kf34} our{\kf23} hap{\kf28}py{\kf28} en{\kf56}ding
+Dialogue: 0,0:02:36.52,0:02:39.29,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} no{\kf38} one's{\kf19} gon{\kf31}na{\kf50} stop{\kf44} us{\kf57} now
+Dialogue: 0,0:02:39.86,0:02:42.15,DEFAULT,,0,0,0,,{\r}{\kf17}I'm{\kf22} a{\kf34} beast{\kf17} with{\kf17} a{\kf34} heart{\kf17} that's{\kf34} fro{\kf37}zen
+Dialogue: 0,0:02:42.68,0:02:44.88,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf18} with{\kf36} you,{\kf18} now{\kf18} my{\kf36} eyes{\kf18} are{\kf30} o{\kf28}pen
+Dialogue: 0,0:02:45.10,0:02:47.04,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf17} see{\kf28} the{\kf33} strug{\kf33}gles{\kf33} co{\kf33}ming
+Dialogue: 0,0:02:47.83,0:02:50.61,DEFAULT,,0,0,0,,{\r}{\kf17}But{\kf17} we{\kf33} will{\kf28} strike{\kf28} them{\kf44} down{\kf55} some{\kf55}how
+Dialogue: 0,0:02:51.53,0:02:53.38,DEFAULT,,0,0,0,,{\r}{\kf41}You're{\kf21} the{\kf31} sa{\kf21}vio{\kf21}-or{\kf50} of
+Dialogue: 0,0:02:54.00,0:02:56.11,DEFAULT,,0,0,0,,{\r}{\kf16}My{\kf16} a{\kf38}bi{\kf16}li{\kf43}ty{\kf22} to{\kf60} love
+Dialogue: 0,0:02:56.29,0:02:59.81,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf34} found{\kf23} the{\kf34} will{\kf34} to{\kf79} change{\kf51} i{\kf23}-n{\kf57} you
+Dialogue: 0,0:03:02.85,0:03:04.61,DEFAULT,,0,0,0,,{\r}{\kf32}Though{\kf32} I'm{\kf16} still{\kf32} a{\kf64}shamed
+Dialogue: 0,0:03:05.31,0:03:07.43,DEFAULT,,0,0,0,,{\r}{\kf32}Of{\kf32} how{\kf32} I{\kf32} start{\kf16} the{\kf67} flames
+Dialogue: 0,0:03:07.78,0:03:11.26,DEFAULT,,0,0,0,,{\r}{\kf29}You{\kf35} ac{\kf29}cept{\kf35} me{\kf47} fo{\kf35}-or{\kf53} what's{\kf85} true
+Dialogue: 0,0:03:36.40,0:03:38.29,DEFAULT,,0,0,0,,{\r}{\kf33}Can't{\kf33} do{\kf33} this{\kf22} wi{\kf28}thout{\kf40} you
+Dialogue: 0,0:03:38.69,0:03:40.98,DEFAULT,,0,0,0,,{\r}{\kf22}To{\kf34}ge{\kf17}ther{\kf34} we{\kf34} can{\kf34} make{\kf34} it{\kf20} through
+Dialogue: 0,0:03:41.15,0:03:43.53,DEFAULT,,0,0,0,,{\r}{\kf36}These{\kf109} roads{\kf21} a{\kf72}round
+Dialogue: 0,0:03:44.10,0:03:46.35,DEFAULT,,0,0,0,,{\r}{\kf30}The{\kf105} bat{\kf20}tle{\kf70}ground
+Dialogue: 0,0:03:47.32,0:03:49.74,DEFAULT,,0,0,0,,{\r}{\kf35}Chap{\kf17}ters{\kf35} closed,{\kf40} on{\kf23} a{\kf35} new{\kf57} start
+Dialogue: 0,0:03:50.00,0:03:52.51,DEFAULT,,0,0,0,,{\r}{\kf16}We're{\kf38} get{\kf16}ting{\kf33} to{\kf33} my{\kf33} fa{\kf27}vorite{\kf55} part
+Dialogue: 0,0:03:52.73,0:03:54.63,DEFAULT,,0,0,0,,{\r}{\kf28}'Cuz{\kf33} you're{\kf17} the{\kf33} on{\kf22}ly{\kf56} one
+Dialogue: 0,0:03:55.02,0:03:58.72,DEFAULT,,0,0,0,,{\r}{\kf32}Who{\kf32} can{\kf69} tame{\kf48} my{\kf26}-y{\kf48} dra{\kf42}-a{\kf53}gon{\kf20}heart
+Dialogue: 0,0:03:58.94,0:04:00.84,DEFAULT,,0,0,0,,{\r}{\kf32}Can't{\kf32} do{\kf32} this{\kf22} wi{\kf27}thout{\kf44} you
+Dialogue: 0,0:04:01.23,0:04:03.52,DEFAULT,,0,0,0,,{\r}{\kf22}To{\kf34}ge{\kf22}ther{\kf28} we{\kf34} can{\kf34} make{\kf34} it{\kf21} through
+Dialogue: 0,0:04:03.70,0:04:06.12,DEFAULT,,0,0,0,,{\r}{\kf41}These{\kf103} roads{\kf21} a{\kf77}round
+Dialogue: 0,0:04:06.69,0:04:09.02,DEFAULT,,0,0,0,,{\r}{\kf39}The{\kf102} bat{\kf19}tle{\kf73}ground
+Dialogue: 0,0:04:09.91,0:04:12.33,DEFAULT,,0,0,0,,{\r}{\kf34}Chap{\kf23}ters{\kf28} closed,{\kf45} on{\kf28} a{\kf28} new{\kf56} start
+Dialogue: 0,0:04:12.55,0:04:15.10,DEFAULT,,0,0,0,,{\r}{\kf16}We're{\kf42} get{\kf16}ting{\kf36} to{\kf31} my{\kf36} fa{\kf26}vorite{\kf52} part
+Dialogue: 0,0:04:15.36,0:04:17.26,DEFAULT,,0,0,0,,{\r}{\kf27}'Cuz{\kf32} you're{\kf16} the{\kf32} on{\kf22}ly{\kf60} one
+Dialogue: 0,0:04:17.65,0:04:20.96,DEFAULT,,0,0,0,,{\r}{\kf30}Who{\kf30} can{\kf70} tame{\kf45} my{\kf25}-y{\kf45} dra{\kf35}-a{\kf50}gon-
+Dialogue: 0,0:04:21.18,0:04:32.27,DEFAULT,,0,0,0,,{\r}{\kf282}heart{\kf19}~{\kf263}~{\kf19}~{\kf254}~{\kf19}~{\kf254}~!
+Dialogue: 0,0:04:32.89,0:04:35.27,DEFAULT,,0,0,0,,{\r}{\kf40}Whoa{\kf40}-oh{\kf40}-oh,{\kf40} whoa{\kf40}-oh{\kf38}-oh
+Dialogue: 0,0:04:35.71,0:04:38.08,DEFAULT,,0,0,0,,{\r}{\kf40}Whoa{\kf40}-hoh{\kf40}-oh,{\kf40} whoa{\kf40}-hoh{\kf38}-oh
+Dialogue: 0,0:04:38.52,0:04:40.90,DEFAULT,,0,0,0,,{\r}{\kf40}Whoa{\kf40}-oh{\kf40}-oh,{\kf40} whoa{\kf40}-oh{\kf38}-oh
+Dialogue: 0,0:04:41.34,0:04:43.72,DEFAULT,,0,0,0,,{\r}{\kf40}Whoa{\kf40}-hoh{\kf40}-oh,{\kf40} whoa{\kf40}-hoh{\kf38}-oh

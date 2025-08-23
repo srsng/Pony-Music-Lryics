@@ -1,75 +1,82 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: You've Got Magic
+Artist: MathematicPony
+Original Timing: mylittlekaraoke.com by SoaringJe
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.01,0:00:03.31,DEFAULT,,0,0,0,,{\kf10}I{\kf10} think{\kf10} a{\kf15} lot{\kf15} of{\kf15} us{\kf15} look{\kf15} in{\kf10}to{\kf10} the{\kf24} mir{\kf10}ror
-Dialogue: 0,0:00:04.02,0:00:05.62,DEFAULT,,0,0,0,,{\kf15}And{\kf19} don't{\kf15} like{\kf15} what{\kf15} we{\kf38} see
-Dialogue: 0,0:00:06.99,0:00:08.77,DEFAULT,,0,0,0,,{\kf15}But{\kf19} I've{\kf10} been{\kf19} think{\kf19}ing{\kf15} and{\kf29} learn{\kf19}ing
-Dialogue: 0,0:00:09.53,0:00:12.21,DEFAULT,,0,0,0,,{\kf15}And{\kf29} friend{\kf29}ship{\kf29} means{\kf15} look{\kf15}ing{\kf29} past{\kf19} these{\kf24} things
-Dialogue: 0,0:00:12.40,0:00:15.27,DEFAULT,,0,0,0,,{\kf19}So{\kf15} ke{\kf19}ep{\kf33} your{\kf33} head{\kf29} held{\kf24} high
-Dialogue: 0,0:00:15.46,0:00:18.42,DEFAULT,,0,0,0,,{\kf19}And{\kf15} ju{\kf24}st{\kf24} stay{\kf33} by{\kf29} my{\kf43} side
-Dialogue: 0,0:00:18.94,0:00:20.78,DEFAULT,,0,0,0,,{\kf15}'Cause{\kf15} I've{\kf15} been{\kf15} watch{\kf19}ing{\kf15} and{\kf24} wait{\kf24}ing
-Dialogue: 0,0:00:22.00,0:00:23.93,DEFAULT,,0,0,0,,{\kf15}And{\kf10} I{\kf15} think{\kf15} these{\kf15} things{\kf10} are{\kf10} worth{\kf24} say{\kf33}ing
-Dialogue: 0,0:00:25.15,0:00:27.46,DEFAULT,,0,0,0,,{\kf24}You{\kf33} hold{\kf15} the{\kf38} door{\kf19} for{\kf43} me
-Dialogue: 0,0:00:28.07,0:00:30.71,DEFAULT,,0,0,0,,{\kf29}You{\kf29} spend{\kf24} your{\kf29} time{\kf24} on{\kf24} me{\kf38}~
-Dialogue: 0,0:00:31.13,0:00:33.35,DEFAULT,,0,0,0,,{\kf24}We{\kf38} laugh{\kf19} hys{\kf15}ter{\kf24}ic{\kf43}ally
-Dialogue: 0,0:00:34.15,0:00:35.93,DEFAULT,,0,0,0,,{\kf15}And{\kf19} I've{\kf19} been{\kf38} see{\kf48}ing
-Dialogue: 0,0:00:37.16,0:00:39.42,DEFAULT,,0,0,0,,{\kf29}You're{\kf33} al{\kf29}ways{\kf29} there{\kf19} for{\kf43} me
-Dialogue: 0,0:00:40.12,0:00:42.71,DEFAULT,,0,0,0,,{\kf24}You{\kf29} see{\kf29} me{\kf29} ho{\kf33}nest{\kf33}ly{\kf33}~
-Dialogue: 0,0:00:43.18,0:00:45.82,DEFAULT,,0,0,0,,{\kf24}I{\kf29} think{\kf29} there's{\kf29} some{\kf15} thing,{\kf15} you{\kf29} have{\kf43} it
-Dialogue: 0,0:00:46.10,0:00:48.74,DEFAULT,,0,0,0,,{\kf29}I{\kf33} think{\kf15} that{\kf33} you've{\kf29} got{\kf33} ma{\kf33}gic
-Dialogue: 0,0:00:48.97,0:00:51.70,DEFAULT,,0,0,0,,{\kf15}You{\kf15} could{\kf15}n't{\kf24} be{\kf19} self{\kf15}-cen{\kf15}tered{\kf15} e{\kf15}ven{\kf10} if{\kf15} you{\kf33} tried
-Dialogue: 0,0:00:52.08,0:00:54.72,DEFAULT,,0,0,0,,{\kf33}There's{\kf29} some{\kf15}thing{\kf10}~{\kf24} that{\kf19} I{\kf15} see{\kf15} in{\kf29}side
-Dialogue: 0,0:00:55.00,0:00:57.63,DEFAULT,,0,0,0,,{\kf10}And{\kf15} you{\kf15} don't{\kf10} know{\kf19}~{\kf15} I've{\kf19} been{\kf29} watch{\kf29}ing
-Dialogue: 0,0:00:57.92,0:00:59.94,DEFAULT,,0,0,0,,{\kf10}The{\kf15} way{\kf15} you{\kf29} fix{\kf15} peo{\kf15}ple's{\kf29} hurt{\kf29}ing
-Dialogue: 0,0:01:01.17,0:01:03.24,DEFAULT,,0,0,0,,{\kf24}So{\kf24} stop{\kf15} the{\kf29} way{\kf24} you{\kf24} hate
-Dialogue: 0,0:01:03.57,0:01:06.63,DEFAULT,,0,0,0,,{\kf15}The{\kf29} way{\kf29} you{\kf43} act{\kf15} be{\kf29}cause{\kf19} I{\kf24} see{\kf10}~{\kf10}~{\kf10}~
-Dialogue: 0,0:01:07.24,0:01:09.03,DEFAULT,,0,0,0,,{\kf15}Some{\kf10}thing{\kf15} per{\kf15}fect{\kf10} in{\kf15} your{\kf29} smile{\kf43}~
-Dialogue: 0,0:01:09.97,0:01:11.66,DEFAULT,,0,0,0,,{\kf15}I{\kf15} know{\kf15} it's{\kf15} worth{\kf15} it{\kf10} all{\kf19} worth{\kf38}while
-Dialogue: 0,0:01:13.17,0:01:15.48,DEFAULT,,0,0,0,,{\kf29}You{\kf43} hold{\kf19} the{\kf38} door{\kf19} for{\kf48} me
-Dialogue: 0,0:01:16.18,0:01:18.82,DEFAULT,,0,0,0,,{\kf19}You{\kf33} spend{\kf19} your{\kf29} time{\kf29} on{\kf33} me{\kf48}~
-Dialogue: 0,0:01:19.15,0:01:21.45,DEFAULT,,0,0,0,,{\kf29}We{\kf29} laugh{\kf29} hys{\kf33}ter{\kf33}ic{\kf43}ally
-Dialogue: 0,0:01:22.21,0:01:23.90,DEFAULT,,0,0,0,,{\kf15}And{\kf15} I've{\kf19} been{\kf38} see{\kf38}ing
-Dialogue: 0,0:01:25.22,0:01:27.34,DEFAULT,,0,0,0,,{\kf24}You're{\kf24} al{\kf29}ways{\kf33} there{\kf19} for{\kf33} me
-Dialogue: 0,0:01:28.14,0:01:30.63,DEFAULT,,0,0,0,,{\kf24}You{\kf29} see{\kf24} me{\kf29} ho{\kf33}nest{\kf29}ly{\kf29}~
-Dialogue: 0,0:01:31.15,0:01:33.79,DEFAULT,,0,0,0,,{\kf19}I{\kf29} think{\kf33} there's{\kf24} some{\kf19}thing,{\kf15} you{\kf29} have{\kf38} it
-Dialogue: 0,0:01:34.16,0:01:36.66,DEFAULT,,0,0,0,,{\kf24}I{\kf38} think{\kf15} that{\kf24} you've{\kf24} got{\kf24} ma{\kf29}gic
-Dialogue: 0,0:01:37.18,0:01:39.39,DEFAULT,,0,0,0,,{\kf24}So{\kf15} come{\kf15}~{\kf19} and{\kf24} fol{\kf29}low{\kf33} me
-Dialogue: 0,0:01:40.19,0:01:42.68,DEFAULT,,0,0,0,,{\kf29}While{\kf15} we{\kf15}~{\kf33} breathe{\kf24} har{\kf33}mo{\kf15}ny{\kf15}~{\kf15}~{\kf10}~
-Dialogue: 0,0:01:43.15,0:01:45.46,DEFAULT,,0,0,0,,{\kf24}And{\kf19} find{\kf29} it's{\kf29} meant{\kf24} to{\kf43} be
-Dialogue: 0,0:01:46.17,0:01:48.61,DEFAULT,,0,0,0,,{\kf29}We've{\kf19} got{\kf19} what{\kf15} the{\kf24} world{\kf24} all{\kf15} ne{\kf15}~{\kf24}eds
-Dialogue: 0,0:01:49.18,0:01:51.53,DEFAULT,,0,0,0,,{\kf19}So{\kf24} take{\kf29} my{\kf24} hand{\kf33} ‘cause{\kf29} I{\kf15}~
-Dialogue: 0,0:01:52.14,0:01:54.73,DEFAULT,,0,0,0,,{\kf15}Still{\kf19} need{\kf15}~{\kf24} you{\kf19} by{\kf19} my{\kf19} side{\kf15}~{\kf15}~{\kf15}~
-Dialogue: 0,0:01:55.16,0:01:57.56,DEFAULT,,0,0,0,,{\kf24}We've{\kf33} found{\kf15} the{\kf24} point{\kf24} at{\kf24} last{\kf19} and
-Dialogue: 0,0:01:58.22,0:02:00.62,DEFAULT,,0,0,0,,{\kf19}I{\kf24} think{\kf15} that{\kf24} we've{\kf24} got{\kf24} ma{\kf24}gic
-Dialogue: 0,0:02:01.14,0:02:03.25,DEFAULT,,0,0,0,,{\kf29}So{\kf24} come{\kf24} and{\kf24} march{\kf24} with{\kf24} me
-Dialogue: 0,0:02:04.05,0:02:06.74,DEFAULT,,0,0,0,,{\kf29}Let's{\kf15} spread{\kf15}~{\kf29} this{\kf24} har{\kf19}mo{\kf15}ny{\kf15}~{\kf15}~{\kf19}~
-Dialogue: 0,0:02:07.11,0:02:09.61,DEFAULT,,0,0,0,,{\kf24}You'll{\kf15} ne{\kf15}ver{\kf15} be{\kf19} that{\kf24} far{\kf29} from{\kf29} me{\kf19}~
-Dialogue: 0,0:02:10.08,0:02:12.62,DEFAULT,,0,0,0,,{\kf10}E{\kf15}ven{\kf29} if{\kf19} we{\kf24} have{\kf19} to{\kf19} leave{\kf15}~{\kf24}~
-Dialogue: 0,0:02:13.14,0:02:15.40,DEFAULT,,0,0,0,,{\kf24}So{\kf24} take{\kf24} my{\kf24} hand,{\kf29} let's{\kf38} go
-Dialogue: 0,0:02:16.06,0:02:18.69,DEFAULT,,0,0,0,,{\kf29}There's{\kf29} some{\kf29}thing{\kf29} more{\kf19} I{\kf24} know{\kf10}~{\kf10}~{\kf15}~
-Dialogue: 0,0:02:19.21,0:02:21.71,DEFAULT,,0,0,0,,{\kf19}I{\kf24} think{\kf24} that{\kf29} you{\kf29} have{\kf33} it
-Dialogue: 0,0:02:22.22,0:02:24.62,DEFAULT,,0,0,0,,{\kf19}I{\kf29} think{\kf19} that{\kf24} you've{\kf24} got{\kf24} ma{\kf24}gic
-Dialogue: 0,0:02:25.24,0:02:27.35,DEFAULT,,0,0,0,,{\kf24}You{\kf29} hold{\kf24} my{\kf24} heart,{\kf29} it{\kf33} helps
-Dialogue: 0,0:02:28.15,0:02:30.23,DEFAULT,,0,0,0,,{\kf24}You{\kf24} share{\kf24} pie{\kf19}ces{\kf19} of{\kf24} your{\kf29}self
-Dialogue: 0,0:02:31.12,0:02:33.24,DEFAULT,,0,0,0,,{\kf10}When{\kf15} I{\kf24} hurt,{\kf19} you{\kf24} smile{\kf19} at{\kf24} me
-Dialogue: 0,0:02:34.09,0:02:35.87,DEFAULT,,0,0,0,,{\kf15}And{\kf15} I{\kf29} think{\kf24} I{\kf24} see{\kf29} that
-Dialogue: 0,0:02:37.24,0:02:39.26,DEFAULT,,0,0,0,,{\kf15}You{\kf29} nev{\kf29}er{\kf29} leave{\kf19} me{\kf29} there
-Dialogue: 0,0:02:40.16,0:02:42.56,DEFAULT,,0,0,0,,{\kf15}We{\kf15} can{\kf24} al{\kf19}ways{\kf19} clear{\kf19} the{\kf29} air{\kf24}~
-Dialogue: 0,0:02:43.17,0:02:45.62,DEFAULT,,0,0,0,,{\kf24}I{\kf24} think{\kf24} there's{\kf29} some{\kf19}thing,{\kf15} you{\kf24} have{\kf19} it
-Dialogue: 0,0:02:46.23,0:02:48.63,DEFAULT,,0,0,0,,{\kf19}I{\kf24} think{\kf19} that{\kf19} you've{\kf19} got{\kf24} ma{\kf24}gic
-Dialogue: 0,0:02:49.20,0:02:51.36,DEFAULT,,0,0,0,,{\kf19}You{\kf29} hold{\kf15} the{\kf33} door{\kf19} for{\kf38} me
-Dialogue: 0,0:02:52.11,0:02:54.70,DEFAULT,,0,0,0,,{\kf24}You{\kf29} spend{\kf24} your{\kf15} ti{\kf15}me{\kf29} on{\kf29} me{\kf33}~
-Dialogue: 0,0:02:55.13,0:02:57.43,DEFAULT,,0,0,0,,{\kf24}We{\kf38} laugh{\kf19} hys{\kf24}ter{\kf24}ic{\kf43}ally
-Dialogue: 0,0:02:58.09,0:02:59.88,DEFAULT,,0,0,0,,{\kf15}And{\kf19} I've{\kf24} been{\kf24} see{\kf15}~{\kf38}ing
-Dialogue: 0,0:03:01.15,0:03:03.36,DEFAULT,,0,0,0,,{\kf24}You're{\kf24} al{\kf29}ways{\kf33} there{\kf15} for{\kf38} me
-Dialogue: 0,0:03:04.12,0:03:06.80,DEFAULT,,0,0,0,,{\kf24}You{\kf24} see{\kf29} me{\kf24} ho{\kf29}nest{\kf29}ly{\kf43}~
-Dialogue: 0,0:03:07.13,0:03:09.77,DEFAULT,,0,0,0,,{\kf24}I{\kf24} think{\kf29} there's{\kf24} some{\kf15}thing,{\kf15} you{\kf19} have{\kf43} it
-Dialogue: 0,0:03:10.10,0:03:12.68,DEFAULT,,0,0,0,,{\kf24}I{\kf33} think{\kf19} that{\kf24} you've{\kf24} got{\kf29} ma{\kf33}gic
+Dialogue: 0,0:00:01.01,0:00:03.32,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf14} think{\kf14} a{\kf22} lot{\kf22} of{\kf22} us{\kf22} look{\kf22} in{\kf14}to{\kf14} the{\kf36} mir{\kf15}ror
+Dialogue: 0,0:00:04.02,0:00:05.63,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf27} don't{\kf20} like{\kf20} what{\kf20} we{\kf53} see
+Dialogue: 0,0:00:06.99,0:00:08.78,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf24} I've{\kf12} been{\kf24} think{\kf24}ing{\kf18} and{\kf36} learn{\kf23}ing
+Dialogue: 0,0:00:09.53,0:00:12.22,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf38} friend{\kf38}ship{\kf38} means{\kf19} look{\kf19}ing{\kf38} past{\kf26} these{\kf33} things
+Dialogue: 0,0:00:12.40,0:00:15.27,DEFAULT,,0,0,0,,{\r}{\kf32}So{\kf24} ke{\kf32}ep{\kf56} your{\kf56} head{\kf48} held{\kf39} high
+Dialogue: 0,0:00:15.46,0:00:18.43,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf23} ju{\kf38}st{\kf38} stay{\kf53} by{\kf46} my{\kf69} side
+Dialogue: 0,0:00:18.95,0:00:20.78,DEFAULT,,0,0,0,,{\r}{\kf19}'Cause{\kf19} I've{\kf19} been{\kf19} watch{\kf25}ing{\kf19} and{\kf32} wait{\kf32}ing
+Dialogue: 0,0:00:22.01,0:00:23.94,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf13} I{\kf19} think{\kf19} these{\kf19} things{\kf13} are{\kf13} worth{\kf32} say{\kf46}ing
+Dialogue: 0,0:00:25.16,0:00:27.47,DEFAULT,,0,0,0,,{\r}{\kf32}You{\kf45} hold{\kf19} the{\kf51} door{\kf26} for{\kf58} me
+Dialogue: 0,0:00:28.08,0:00:30.71,DEFAULT,,0,0,0,,{\r}{\kf39}You{\kf39} spend{\kf32} your{\kf39} time{\kf32} on{\kf32} me{\kf51}~
+Dialogue: 0,0:00:31.14,0:00:33.35,DEFAULT,,0,0,0,,{\r}{\kf32}We{\kf52} laugh{\kf26} hys{\kf20}ter{\kf32}ic{\kf59}ally
+Dialogue: 0,0:00:34.15,0:00:35.94,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf25} I've{\kf25} been{\kf49} see{\kf61}ing
+Dialogue: 0,0:00:37.16,0:00:39.42,DEFAULT,,0,0,0,,{\r}{\kf36}You're{\kf42} al{\kf36}ways{\kf36} there{\kf24} for{\kf52} me
+Dialogue: 0,0:00:40.13,0:00:42.72,DEFAULT,,0,0,0,,{\r}{\kf29}You{\kf35} see{\kf35} me{\kf35} ho{\kf41}nest{\kf41}ly{\kf43}~
+Dialogue: 0,0:00:43.19,0:00:45.82,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf36} think{\kf36} there's{\kf36} some{\kf18} thing,{\kf18} you{\kf36} have{\kf54} it
+Dialogue: 0,0:00:46.11,0:00:48.74,DEFAULT,,0,0,0,,{\r}{\kf37}I{\kf43} think{\kf18} that{\kf43} you've{\kf37} got{\kf43} ma{\kf43}gic
+Dialogue: 0,0:00:48.98,0:00:51.71,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf20} could{\kf20}n't{\kf32} be{\kf26} self{\kf20}-cen{\kf20}tered{\kf20} e{\kf20}ven{\kf13} if{\kf20} you{\kf42} tried
+Dialogue: 0,0:00:52.09,0:00:54.72,DEFAULT,,0,0,0,,{\r}{\kf47}There's{\kf41} some{\kf20}thing{\kf14}~{\kf34} that{\kf27} I{\kf20} see{\kf20} in{\kf41}side
+Dialogue: 0,0:00:55.00,0:00:57.64,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf24} you{\kf24} don't{\kf16} know{\kf32}~{\kf24} I've{\kf32} been{\kf48} watch{\kf48}ing
+Dialogue: 0,0:00:57.92,0:00:59.95,DEFAULT,,0,0,0,,{\r}{\kf13}The{\kf19} way{\kf19} you{\kf38} fix{\kf19} peo{\kf19}ple's{\kf38} hurt{\kf37}ing
+Dialogue: 0,0:01:01.17,0:01:03.24,DEFAULT,,0,0,0,,{\r}{\kf36}So{\kf36} stop{\kf21} the{\kf43} way{\kf36} you{\kf35} hate
+Dialogue: 0,0:01:03.57,0:01:06.63,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf38} way{\kf38} you{\kf57} act{\kf19} be{\kf38}cause{\kf26} I{\kf32} see{\kf13}~{\kf13}~{\kf13}~
+Dialogue: 0,0:01:07.24,0:01:09.03,DEFAULT,,0,0,0,,{\r}{\kf17}Some{\kf12}thing{\kf17} per{\kf17}fect{\kf12} in{\kf17} your{\kf35} smile{\kf52}~
+Dialogue: 0,0:01:09.97,0:01:11.67,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf17} know{\kf17} it's{\kf17} worth{\kf17} it{\kf12} all{\kf23} worth{\kf49}while
+Dialogue: 0,0:01:13.17,0:01:15.48,DEFAULT,,0,0,0,,{\r}{\kf34}You{\kf51} hold{\kf23} the{\kf45} door{\kf23} for{\kf55} me
+Dialogue: 0,0:01:16.19,0:01:18.82,DEFAULT,,0,0,0,,{\r}{\kf24}You{\kf42} spend{\kf24} your{\kf36} time{\kf36} on{\kf42} me{\kf60}~
+Dialogue: 0,0:01:19.15,0:01:21.46,DEFAULT,,0,0,0,,{\r}{\kf34}We{\kf34} laugh{\kf34} hys{\kf39}ter{\kf39}ic{\kf51}ally
+Dialogue: 0,0:01:22.21,0:01:23.91,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} I've{\kf26} been{\kf52} see{\kf51}ing
+Dialogue: 0,0:01:25.22,0:01:27.34,DEFAULT,,0,0,0,,{\r}{\kf31}You're{\kf31} al{\kf37}ways{\kf44} there{\kf25} for{\kf44} me
+Dialogue: 0,0:01:28.14,0:01:30.64,DEFAULT,,0,0,0,,{\r}{\kf30}You{\kf36} see{\kf30} me{\kf36} ho{\kf43}nest{\kf36}ly{\kf38}~
+Dialogue: 0,0:01:31.16,0:01:33.79,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf37} think{\kf43} there's{\kf31} some{\kf25}thing,{\kf18} you{\kf37} have{\kf48} it
+Dialogue: 0,0:01:34.17,0:01:36.66,DEFAULT,,0,0,0,,{\r}{\kf34}I{\kf54} think{\kf20} that{\kf34} you've{\kf34} got{\kf34} ma{\kf39}gic
+Dialogue: 0,0:01:37.18,0:01:39.39,DEFAULT,,0,0,0,,{\r}{\kf33}So{\kf20} come{\kf20}~{\kf27} and{\kf33} fol{\kf40}low{\kf48} me
+Dialogue: 0,0:01:40.19,0:01:42.69,DEFAULT,,0,0,0,,{\r}{\kf36}While{\kf18} we{\kf18}~{\kf42} breathe{\kf30} har{\kf42}mo{\kf18}ny{\kf18}~{\kf18}~{\kf10}~
+Dialogue: 0,0:01:43.16,0:01:45.47,DEFAULT,,0,0,0,,{\r}{\kf33}And{\kf26} find{\kf40} it's{\kf40} meant{\kf33} to{\kf59} be
+Dialogue: 0,0:01:46.17,0:01:48.62,DEFAULT,,0,0,0,,{\r}{\kf39}We've{\kf26} got{\kf26} what{\kf19} the{\kf32} world{\kf32} all{\kf19} ne{\kf19}~{\kf33}eds
+Dialogue: 0,0:01:49.18,0:01:51.54,DEFAULT,,0,0,0,,{\r}{\kf26}So{\kf33} take{\kf39} my{\kf33} hand{\kf46} ‘cause{\kf39} I{\kf19}~
+Dialogue: 0,0:01:52.15,0:01:54.74,DEFAULT,,0,0,0,,{\r}{\kf22}Still{\kf29} need{\kf22}~{\kf36} you{\kf29} by{\kf29} my{\kf29} side{\kf22}~{\kf22}~{\kf19}~
+Dialogue: 0,0:01:55.16,0:01:57.56,DEFAULT,,0,0,0,,{\r}{\kf35}We've{\kf49} found{\kf21} the{\kf35} point{\kf35} at{\kf35} last{\kf30} and
+Dialogue: 0,0:01:58.22,0:02:00.62,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf38} think{\kf22} that{\kf38} we've{\kf38} got{\kf38} ma{\kf36}gic
+Dialogue: 0,0:02:01.14,0:02:03.26,DEFAULT,,0,0,0,,{\r}{\kf41}So{\kf34} come{\kf34} and{\kf34} march{\kf34} with{\kf35} me
+Dialogue: 0,0:02:04.06,0:02:06.74,DEFAULT,,0,0,0,,{\r}{\kf40}Let's{\kf20} spread{\kf20}~{\kf40} this{\kf33} har{\kf27}mo{\kf20}ny{\kf20}~{\kf20}~{\kf28}~
+Dialogue: 0,0:02:07.12,0:02:09.61,DEFAULT,,0,0,0,,{\r}{\kf32}You'll{\kf19} ne{\kf19}ver{\kf19} be{\kf26} that{\kf32} far{\kf38} from{\kf38} me{\kf26}~
+Dialogue: 0,0:02:10.08,0:02:12.63,DEFAULT,,0,0,0,,{\r}{\kf14}E{\kf21}ven{\kf42} if{\kf28} we{\kf35} have{\kf28} to{\kf28} leave{\kf21}~{\kf37}~
+Dialogue: 0,0:02:13.14,0:02:15.40,DEFAULT,,0,0,0,,{\r}{\kf33}So{\kf33} take{\kf33} my{\kf33} hand,{\kf40} let's{\kf54} go
+Dialogue: 0,0:02:16.06,0:02:18.70,DEFAULT,,0,0,0,,{\r}{\kf40}There's{\kf40} some{\kf40}thing{\kf40} more{\kf26} I{\kf33} know{\kf13}~{\kf13}~{\kf19}~
+Dialogue: 0,0:02:19.22,0:02:21.71,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf38} think{\kf38} that{\kf45} you{\kf45} have{\kf53} it
+Dialogue: 0,0:02:22.23,0:02:24.63,DEFAULT,,0,0,0,,{\r}{\kf28}I{\kf42} think{\kf28} that{\kf35} you've{\kf35} got{\kf35} ma{\kf37}gic
+Dialogue: 0,0:02:25.24,0:02:27.36,DEFAULT,,0,0,0,,{\r}{\kf31}You{\kf37} hold{\kf31} my{\kf31} heart,{\kf37} it{\kf45} helps
+Dialogue: 0,0:02:28.16,0:02:30.23,DEFAULT,,0,0,0,,{\r}{\kf30}You{\kf30} share{\kf30} pie{\kf24}ces{\kf24} of{\kf30} your{\kf39}self
+Dialogue: 0,0:02:31.12,0:02:33.24,DEFAULT,,0,0,0,,{\r}{\kf15}When{\kf23} I{\kf38} hurt,{\kf30} you{\kf38} smile{\kf30} at{\kf38} me
+Dialogue: 0,0:02:34.09,0:02:35.88,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} I{\kf38} think{\kf32} I{\kf32} see{\kf39} that
+Dialogue: 0,0:02:37.24,0:02:39.27,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf39} nev{\kf39}er{\kf39} leave{\kf26} me{\kf39} there
+Dialogue: 0,0:02:40.16,0:02:42.56,DEFAULT,,0,0,0,,{\r}{\kf21}We{\kf21} can{\kf35} al{\kf28}ways{\kf28} clear{\kf28} the{\kf42} air{\kf37}~
+Dialogue: 0,0:02:43.18,0:02:45.62,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf33} think{\kf33} there's{\kf40} some{\kf26}thing,{\kf20} you{\kf33} have{\kf27} it
+Dialogue: 0,0:02:46.24,0:02:48.64,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf39} think{\kf31} that{\kf31} you've{\kf31} got{\kf39} ma{\kf38}gic
+Dialogue: 0,0:02:49.20,0:02:51.37,DEFAULT,,0,0,0,,{\r}{\kf27}You{\kf41} hold{\kf20} the{\kf47} door{\kf27} for{\kf55} me
+Dialogue: 0,0:02:52.12,0:02:54.71,DEFAULT,,0,0,0,,{\r}{\kf32}You{\kf38} spend{\kf32} your{\kf19} ti{\kf19}me{\kf38} on{\kf38} me{\kf43}~
+Dialogue: 0,0:02:55.13,0:02:57.44,DEFAULT,,0,0,0,,{\r}{\kf32}We{\kf51} laugh{\kf26} hys{\kf32}ter{\kf32}ic{\kf58}ally
+Dialogue: 0,0:02:58.10,0:02:59.89,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf26} I've{\kf32} been{\kf32} see{\kf19}~{\kf51}ing
+Dialogue: 0,0:03:01.16,0:03:03.37,DEFAULT,,0,0,0,,{\r}{\kf32}You're{\kf32} al{\kf39}ways{\kf46} there{\kf20} for{\kf52} me
+Dialogue: 0,0:03:04.12,0:03:06.81,DEFAULT,,0,0,0,,{\r}{\kf32}You{\kf32} see{\kf38} me{\kf32} ho{\kf38}nest{\kf38}ly{\kf58}~
+Dialogue: 0,0:03:07.14,0:03:09.77,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf33} think{\kf40} there's{\kf33} some{\kf20}thing,{\kf20} you{\kf26} have{\kf59} it
+Dialogue: 0,0:03:10.10,0:03:12.69,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf46} think{\kf27} that{\kf33} you've{\kf33} got{\kf40} ma{\kf47}gic

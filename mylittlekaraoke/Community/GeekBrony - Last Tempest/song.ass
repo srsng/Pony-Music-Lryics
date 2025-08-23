@@ -1,45 +1,52 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Last Tempest (ft. Vylet)
+Artist: GeekBrony, Drummershy
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:17.37,0:00:20.50,DEFAULT,,0,0,0,,{\kf28}I{\kf28} hear{\kf32} you're{\kf20} try{\kf20}ing{\kf12} to{\kf20} call{\kf16} to{\kf36} me
-Dialogue: 0,0:00:21.12,0:00:23.51,DEFAULT,,0,0,0,,{\kf24}You{\kf16} wan{\kf16}na{\kf16} be{\kf118} free
-Dialogue: 0,0:00:24.87,0:00:27.92,DEFAULT,,0,0,0,,{\kf28}My{\kf24} bro{\kf16}ken{\kf16} and{\kf20} scarred{\kf24} des{\kf16}ti{\kf20}ny{\kf43}~
-Dialogue: 0,0:00:28.16,0:00:31.63,DEFAULT,,0,0,0,,{\kf20}As{\kf20} seen{\kf20} by{\kf12}~{\kf16} your{\kf20} own{\kf24} em{\kf20}~{\kf16}pa{\kf67}thy
-Dialogue: 0,0:00:32.37,0:00:35.19,DEFAULT,,0,0,0,,{\kf16}Ran{\kf16} a{\kf28}way{\kf16} from{\kf12} the{\kf16} life{\kf12} I{\kf16} have{\kf24} known{\kf43}~
-Dialogue: 0,0:00:36.08,0:00:38.51,DEFAULT,,0,0,0,,{\kf16}Got{\kf16} this{\kf16} feel{\kf12}ing{\kf16} in{\kf16} my{\kf94} bones
-Dialogue: 0,0:00:39.60,0:00:42.65,DEFAULT,,0,0,0,,{\kf20}The{\kf32} e{\kf20}xile{\kf12}~{\kf12} of{\kf16} this{\kf12} for{\kf16}sa{\kf16}ken{\kf24} race{\kf40}~
-Dialogue: 0,0:00:42.84,0:00:46.20,DEFAULT,,0,0,0,,{\kf16}There's{\kf20} some{\kf24}thing{\kf28} we've{\kf36} got{\kf16} the{\kf43} trace{\kf71}~
-Dialogue: 0,0:00:46.91,0:00:50.34,DEFAULT,,0,0,0,,{\kf16}O{\kf16}pen{\kf16} your{\kf28} eyes{\kf20} to{\kf12}~{\kf16} a{\kf16} whole{\kf16} new{\kf16} di{\kf36}men{\kf43}sion
-Dialogue: 0,0:00:51.12,0:00:53.78,DEFAULT,,0,0,0,,{\kf16}Of{\kf16} a{\kf28} world{\kf28} you've{\kf24} ne{\kf20}ver{\kf55} seen
-Dialogue: 0,0:00:54.87,0:00:57.69,DEFAULT,,0,0,0,,{\kf12}We{\kf16} as{\kf28}sume{\kf20} con{\kf28}trol{\kf24} of{\kf16} a{\kf16} ci{\kf24}ty
-Dialogue: 0,0:00:57.88,0:01:00.97,DEFAULT,,0,0,0,,{\kf12}Of{\kf20} self{\kf24} pi{\kf32}ty{\kf24} when{\kf20} The{\kf28} Last{\kf16} Tem{\kf24}pest
-Dialogue: 0,0:01:01.20,0:01:04.68,DEFAULT,,0,0,0,,{\kf32}Takes{\kf16} con{\kf55}trol{\kf20}~{\kf24}~{\kf16}~{\kf118}~
-Dialogue: 0,0:01:05.03,0:01:08.51,DEFAULT,,0,0,0,,{\kf24}Takes{\kf20} con{\kf51}trol{\kf24}~{\kf12}~{\kf12}~{\kf16}~{\kf32}~{\kf12}~{\kf20}~{\kf20}~
-Dialogue: 0,0:01:08.70,0:01:12.14,DEFAULT,,0,0,0,,{\kf28}Takes{\kf16} con{\kf51}trol{\kf24}~{\kf20}~{\kf20}~{\kf118}~
-Dialogue: 0,0:01:12.53,0:01:16.87,DEFAULT,,0,0,0,,{\kf24}Takes{\kf16} con{\kf47}trol{\kf24}~{\kf16}~{\kf16}~{\kf12}~{\kf28}~{\kf12}~{\kf12}~{\kf12}~{\kf12}~{\kf20}~{\kf12}~{\kf8}~{\kf8}~{\kf16}~
-Dialogue: 0,0:01:17.41,0:01:20.30,DEFAULT,,0,0,0,,{\kf28}I{\kf28} was{\kf24} just{\kf16} a{\kf16} lit{\kf12}tle{\kf16} girl{\kf59}~
-Dialogue: 0,0:01:20.66,0:01:23.58,DEFAULT,,0,0,0,,{\kf16}Want{\kf16}ing{\kf12} to{\kf20} play{\kf24} with{\kf24} my{\kf102} friends
-Dialogue: 0,0:01:24.83,0:01:27.61,DEFAULT,,0,0,0,,{\kf32}Mis{\kf32}for{\kf32}tune{\kf24} played{\kf16} a{\kf20} role{\kf36}~
-Dialogue: 0,0:01:28.19,0:01:31.79,DEFAULT,,0,0,0,,{\kf12}In{\kf36} my{\kf32} e{\kf28}ver{\kf28}last{\kf47}ing{\kf24} toll{\kf59}~
-Dialogue: 0,0:01:32.37,0:01:35.11,DEFAULT,,0,0,0,,{\kf16}I{\kf20} had{\kf24} hoped{\kf16} for{\kf16} a{\kf51} child{\kf51}hood
-Dialogue: 0,0:01:35.89,0:01:38.74,DEFAULT,,0,0,0,,{\kf12}And{\kf16} e{\kf16}ver{\kf20}last{\kf20}ing{\kf20} friend{\kf12}~{\kf118}ship
-Dialogue: 0,0:01:39.64,0:01:42.57,DEFAULT,,0,0,0,,{\kf16}They{\kf16} al{\kf59}ways{\kf16} pre{\kf12}dic{\kf16}ted{\kf16} my{\kf59} path
-Dialogue: 0,0:01:43.16,0:01:46.16,DEFAULT,,0,0,0,,{\kf16}They{\kf24} will{\kf24} face{\kf24} for{\kf20} my{\kf110} wrath
-Dialogue: 0,0:01:46.94,0:01:50.42,DEFAULT,,0,0,0,,{\kf12}O{\kf16}pen{\kf16} your{\kf32} eyes{\kf20} to{\kf16} a{\kf20} whole{\kf16} new{\kf16} di{\kf28}men{\kf51}sion
-Dialogue: 0,0:01:51.16,0:01:53.82,DEFAULT,,0,0,0,,{\kf16}Of{\kf16} a{\kf32} world{\kf20} you've{\kf12}~{\kf24} ne{\kf16}ver{\kf63} seen
-Dialogue: 0,0:01:54.91,0:01:57.69,DEFAULT,,0,0,0,,{\kf16}We{\kf12} as{\kf28}sume{\kf20} con{\kf28}trol{\kf28} of{\kf16} a{\kf20} ci{\kf24}ty
-Dialogue: 0,0:01:57.92,0:02:00.89,DEFAULT,,0,0,0,,{\kf16}Of{\kf16} self{\kf32} pi{\kf32}ty{\kf24} when{\kf16} The{\kf28} Last{\kf16} Tem{\kf16}pest
-Dialogue: 0,0:02:01.20,0:02:03.90,DEFAULT,,0,0,0,,{\kf32}Takes{\kf16} con{\kf12}trol{\kf16}~{\kf12}~{\kf125}~
-Dialogue: 0,0:02:12.92,0:02:15.89,DEFAULT,,0,0,0,,{\kf16}Of{\kf16} self{\kf24} pi{\kf28}ty{\kf28} when{\kf16} The{\kf32} Last{\kf16} Tem{\kf16}pest
-Dialogue: 0,0:02:16.16,0:02:19.60,DEFAULT,,0,0,0,,{\kf32}Takes{\kf16} con{\kf51}trol{\kf24}~{\kf36}~{\kf16}~{\kf106}~
-Dialogue: 0,0:02:20.03,0:02:23.39,DEFAULT,,0,0,0,,{\kf24}Takes{\kf16} con{\kf55}trol{\kf20}~{\kf20}~{\kf16}~{\kf16}~{\kf36}~{\kf16}~{\kf16}~{\kf16}~
-Dialogue: 0,0:02:23.66,0:02:26.51,DEFAULT,,0,0,0,,{\kf24}Takes{\kf16} con{\kf59}trol{\kf20}~{\kf28}~{\kf12}~{\kf55}~
-Dialogue: 0,0:02:27.49,0:02:31.40,DEFAULT,,0,0,0,,{\kf28}Takes{\kf12} con{\kf59}trol{\kf20}~{\kf16}~{\kf12}~{\kf12}~{\kf43}~{\kf106}~
+Dialogue: 0,0:00:17.38,0:00:20.50,DEFAULT,,0,0,0,,{\r}{\kf41}I{\kf41} hear{\kf47} you're{\kf29} try{\kf29}ing{\kf18} to{\kf29} call{\kf24} to{\kf54} me
+Dialogue: 0,0:00:21.13,0:00:23.51,DEFAULT,,0,0,0,,{\r}{\kf30}You{\kf20} wan{\kf20}na{\kf20} be{\kf148} free
+Dialogue: 0,0:00:24.88,0:00:27.93,DEFAULT,,0,0,0,,{\r}{\kf41}My{\kf35} bro{\kf23}ken{\kf23} and{\kf29} scarred{\kf35} des{\kf23}ti{\kf29}ny{\kf67}~
+Dialogue: 0,0:00:28.16,0:00:31.64,DEFAULT,,0,0,0,,{\r}{\kf29}As{\kf29} seen{\kf29} by{\kf18}~{\kf24} your{\kf29} own{\kf35} em{\kf29}~{\kf24}pa{\kf102}thy
+Dialogue: 0,0:00:32.38,0:00:35.19,DEFAULT,,0,0,0,,{\r}{\kf22}Ran{\kf22} a{\kf39}way{\kf22} from{\kf17} the{\kf22} life{\kf17} I{\kf22} have{\kf34} known{\kf64}~
+Dialogue: 0,0:00:36.09,0:00:38.51,DEFAULT,,0,0,0,,{\r}{\kf21}Got{\kf21} this{\kf21} feel{\kf15}ing{\kf21} in{\kf21} my{\kf122} bones
+Dialogue: 0,0:00:39.61,0:00:42.65,DEFAULT,,0,0,0,,{\r}{\kf28}The{\kf44} e{\kf28}xile{\kf17}~{\kf17} of{\kf22} this{\kf17} for{\kf22}sa{\kf22}ken{\kf33} race{\kf55}~
+Dialogue: 0,0:00:42.85,0:00:46.21,DEFAULT,,0,0,0,,{\r}{\kf21}There's{\kf26} some{\kf32}thing{\kf37} we've{\kf47} got{\kf21} the{\kf58} trace{\kf94}~
+Dialogue: 0,0:00:46.91,0:00:50.35,DEFAULT,,0,0,0,,{\r}{\kf22}O{\kf22}pen{\kf22} your{\kf38} eyes{\kf27} to{\kf16}~{\kf22} a{\kf22} whole{\kf22} new{\kf22} di{\kf49}men{\kf60}sion
+Dialogue: 0,0:00:51.13,0:00:53.79,DEFAULT,,0,0,0,,{\r}{\kf23}Of{\kf23} a{\kf40} world{\kf40} you've{\kf34} ne{\kf28}ver{\kf78} seen
+Dialogue: 0,0:00:54.88,0:00:57.69,DEFAULT,,0,0,0,,{\r}{\kf18}We{\kf24} as{\kf43}sume{\kf31} con{\kf43}trol{\kf37} of{\kf24} a{\kf24} ci{\kf37}ty
+Dialogue: 0,0:00:57.89,0:01:00.97,DEFAULT,,0,0,0,,{\r}{\kf19}Of{\kf31} self{\kf37} pi{\kf49}ty{\kf37} when{\kf31} The{\kf43} Last{\kf25} Tem{\kf37}pest
+Dialogue: 0,0:01:01.21,0:01:04.68,DEFAULT,,0,0,0,,{\r}{\kf39}Takes{\kf20} con{\kf69}trol{\kf25}~{\kf29}~{\kf20}~{\kf146}~
+Dialogue: 0,0:01:05.04,0:01:08.51,DEFAULT,,0,0,0,,{\r}{\kf34}Takes{\kf29} con{\kf74}trol{\kf34}~{\kf17}~{\kf17}~{\kf23}~{\kf46}~{\kf17}~{\kf29}~{\kf28}~
+Dialogue: 0,0:01:08.71,0:01:12.14,DEFAULT,,0,0,0,,{\r}{\kf34}Takes{\kf20} con{\kf64}trol{\kf29}~{\kf25}~{\kf25}~{\kf147}~
+Dialogue: 0,0:01:12.54,0:01:16.87,DEFAULT,,0,0,0,,{\r}{\kf35}Takes{\kf23} con{\kf70}trol{\kf35}~{\kf23}~{\kf23}~{\kf18}~{\kf41}~{\kf18}~{\kf18}~{\kf18}~{\kf18}~{\kf29}~{\kf18}~{\kf12}~{\kf12}~{\kf23}~
+Dialogue: 0,0:01:17.42,0:01:20.31,DEFAULT,,0,0,0,,{\r}{\kf40}I{\kf40} was{\kf35} just{\kf23} a{\kf23} lit{\kf17}tle{\kf23} girl{\kf88}~
+Dialogue: 0,0:01:20.66,0:01:23.59,DEFAULT,,0,0,0,,{\r}{\kf22}Want{\kf22}ing{\kf16} to{\kf27} play{\kf33} with{\kf33} my{\kf140} friends
+Dialogue: 0,0:01:24.84,0:01:27.61,DEFAULT,,0,0,0,,{\r}{\kf46}Mis{\kf46}for{\kf46}tune{\kf35} played{\kf23} a{\kf29} role{\kf52}~
+Dialogue: 0,0:01:28.20,0:01:31.79,DEFAULT,,0,0,0,,{\r}{\kf16}In{\kf48} my{\kf43} e{\kf38}ver{\kf38}last{\kf64}ing{\kf32} toll{\kf80}~
+Dialogue: 0,0:01:32.38,0:01:35.11,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf28} had{\kf33} hoped{\kf22} for{\kf22} a{\kf72} child{\kf74}hood
+Dialogue: 0,0:01:35.89,0:01:38.75,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf19} e{\kf19}ver{\kf24}last{\kf24}ing{\kf24} friend{\kf14}~{\kf147}ship
+Dialogue: 0,0:01:39.64,0:01:42.57,DEFAULT,,0,0,0,,{\r}{\kf22}They{\kf22} al{\kf83}ways{\kf22} pre{\kf17}dic{\kf22}ted{\kf22} my{\kf83} path
+Dialogue: 0,0:01:43.16,0:01:46.17,DEFAULT,,0,0,0,,{\r}{\kf22}They{\kf33} will{\kf33} face{\kf33} for{\kf27} my{\kf153} wrath
+Dialogue: 0,0:01:46.95,0:01:50.43,DEFAULT,,0,0,0,,{\r}{\kf17}O{\kf23}pen{\kf23} your{\kf46} eyes{\kf29} to{\kf23} a{\kf29} whole{\kf23} new{\kf23} di{\kf40}men{\kf72}sion
+Dialogue: 0,0:01:51.17,0:01:53.82,DEFAULT,,0,0,0,,{\r}{\kf21}Of{\kf21} a{\kf43} world{\kf27} you've{\kf16}~{\kf32} ne{\kf21}ver{\kf85} seen
+Dialogue: 0,0:01:54.92,0:01:57.69,DEFAULT,,0,0,0,,{\r}{\kf23}We{\kf17} as{\kf40}sume{\kf29} con{\kf40}trol{\kf40} of{\kf23} a{\kf29} ci{\kf36}ty
+Dialogue: 0,0:01:57.93,0:02:00.89,DEFAULT,,0,0,0,,{\r}{\kf24}Of{\kf24} self{\kf48} pi{\kf48}ty{\kf36} when{\kf24} The{\kf42} Last{\kf24} Tem{\kf27}pest
+Dialogue: 0,0:02:01.21,0:02:03.90,DEFAULT,,0,0,0,,{\r}{\kf40}Takes{\kf20} con{\kf15}trol{\kf20}~{\kf15}~{\kf160}~
+Dialogue: 0,0:02:12.93,0:02:15.89,DEFAULT,,0,0,0,,{\r}{\kf25}Of{\kf25} self{\kf37} pi{\kf43}ty{\kf43} when{\kf25} The{\kf50} Last{\kf25} Tem{\kf24}pest
+Dialogue: 0,0:02:16.17,0:02:19.61,DEFAULT,,0,0,0,,{\r}{\kf39}Takes{\kf19} con{\kf63}trol{\kf29}~{\kf44}~{\kf19}~{\kf131}~
+Dialogue: 0,0:02:20.04,0:02:23.39,DEFAULT,,0,0,0,,{\r}{\kf32}Takes{\kf21} con{\kf75}trol{\kf27}~{\kf27}~{\kf21}~{\kf21}~{\kf48}~{\kf21}~{\kf21}~{\kf22}~
+Dialogue: 0,0:02:23.67,0:02:26.52,DEFAULT,,0,0,0,,{\r}{\kf32}Takes{\kf21} con{\kf79}trol{\kf26}~{\kf37}~{\kf16}~{\kf74}~
+Dialogue: 0,0:02:27.50,0:02:31.40,DEFAULT,,0,0,0,,{\r}{\kf35}Takes{\kf15} con{\kf75}trol{\kf25}~{\kf20}~{\kf15}~{\kf15}~{\kf55}~{\kf136}~

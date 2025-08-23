@@ -1,63 +1,70 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Aloe Aloe
+Artist: UnderpOny
+Original Timing: mylittlekaraoke.com by Pony Rock Project
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:21.45,0:00:23.57,DEFAULT,,0,0,0,,{\kf13}When{\kf5} you're{\kf21} stressed{\kf9} you're{\kf17} need{\kf17}ing{\kf13} a{\kf25} rest
-Dialogue: 0,0:00:24.02,0:00:26.91,DEFAULT,,0,0,0,,{\kf13}From{\kf9} the{\kf17} world{\kf21}~{\kf5} that's{\kf9} try{\kf21}ing{\kf9} to{\kf21} hurt{\kf53} you
-Dialogue: 0,0:00:28.32,0:00:30.40,DEFAULT,,0,0,0,,{\kf21}They{\kf21} tell{\kf13} you{\kf13} a{\kf9} mas{\kf13}sage{\kf9} is{\kf17} best
-Dialogue: 0,0:00:30.65,0:00:33.74,DEFAULT,,0,0,0,,{\kf13}Rec{\kf9}om{\kf21}mend{\kf13}ing{\kf9} a{\kf29} girl{\kf17} you{\kf9} can{\kf21} turn{\kf49} to
-Dialogue: 0,0:00:35.15,0:00:37.60,DEFAULT,,0,0,0,,{\kf29}They{\kf49} say{\kf5} that{\kf9} she{\kf21} has{\kf17} mag{\kf17}ic
-Dialogue: 0,0:00:37.96,0:00:40.05,DEFAULT,,0,0,0,,{\kf9}That{\kf21} makes{\kf5} you{\kf29} melt{\kf9} a{\kf57}way
-Dialogue: 0,0:00:41.41,0:00:44.95,DEFAULT,,0,0,0,,{\kf17}But{\kf9} if{\kf17} your{\kf17} fate{\kf17} that{\kf33} day{\kf9} is{\kf9} some{\kf17}what{\kf21} trag{\kf13}ic
-Dialogue: 0,0:00:45.43,0:00:47.96,DEFAULT,,0,0,0,,{\kf17}There's{\kf9} an{\kf17} ex{\kf5}tra{\kf13} price{\kf21}~{\kf13}~{\kf5} to{\kf5} pay{\kf53}~
-Dialogue: 0,0:00:48.44,0:00:52.14,DEFAULT,,0,0,0,,{\kf17}Bet{\kf9}ter{\kf17} learn{\kf5} to{\kf17} rec{\kf21}og{\kf17}nise{\kf25}~{\kf5} the{\kf13} look{\kf17} in{\kf13} her{\kf25} eyes{\kf29}~
-Dialogue: 0,0:00:52.30,0:00:55.31,DEFAULT,,0,0,0,,{\kf13}When{\kf17} she{\kf17} de{\kf9}cides{\kf21}~{\kf9} she's{\kf17} gon{\kf5}na{\kf29} choose{\kf37} you
-Dialogue: 0,0:00:55.52,0:00:58.13,DEFAULT,,0,0,0,,{\kf17}A{\kf13} locked{\kf37} door{\kf17} and{\kf5} a{\kf17} pri{\kf13}vate{\kf17} room{\kf29}~
-Dialogue: 0,0:00:58.53,0:01:02.43,DEFAULT,,0,0,0,,{\kf9}Re{\kf9}sist{\kf13}ance{\kf5} is{\kf41} fu{\kf25}tile{\kf17} when{\kf17} Al{\kf13}oe's{\kf17} gon{\kf13}na{\kf25} use{\kf69} you
-Dialogue: 0,0:01:06.28,0:01:07.57,DEFAULT,,0,0,0,,{\kf17}Al{\kf17}oe{\kf13} Al{\kf69}oe
-Dialogue: 0,0:01:08.85,0:01:12.83,DEFAULT,,0,0,0,,{\kf5}She'll{\kf13} take{\kf37}~{\kf13} you{\kf29}~{\kf81} there{\kf13} don't{\kf21}~{\kf5} you{\kf17} know{\kf61}~
-Dialogue: 0,0:01:13.11,0:01:14.20,DEFAULT,,0,0,0,,{\kf17}Al{\kf17}oe{\kf21} Al{\kf41}oe
-Dialogue: 0,0:01:15.73,0:01:19.22,DEFAULT,,0,0,0,,{\kf5}A{\kf5} place{\kf33}~{\kf13} where{\kf13}~{\kf85} few{\kf29} will{\kf17} ev{\kf5}er{\kf17} go{\kf41}~
-Dialogue: 0,0:01:19.94,0:01:21.07,DEFAULT,,0,0,0,,{\kf17}Al{\kf17}oe{\kf17} Al{\kf49}oe
-Dialogue: 0,0:01:22.52,0:01:26.73,DEFAULT,,0,0,0,,{\kf9}She'll{\kf13} make{\kf29}~{\kf13} it{\kf13}~{\kf45} fast{\kf13} she'll{\kf17} take{\kf13}~{\kf17} it{\kf73} slow
-Dialogue: 0,0:01:26.77,0:01:30.03,DEFAULT,,0,0,0,,{\kf21}Al{\kf17}oe{\kf21} Al{\kf45}oe{\kf25} oh{\kf45} no
-Dialogue: 0,0:01:30.63,0:01:33.48,DEFAULT,,0,0,0,,{\kf17}Oh{\kf17} Al{\kf45}oe{\kf17}~{\kf17} Al{\kf25}oe{\kf33}~{\kf17} Al{\kf17}oe{\kf49}~
-Dialogue: 0,0:01:40.15,0:01:42.72,DEFAULT,,0,0,0,,{\kf9}The{\kf9} lights{\kf5} are{\kf17} dim{\kf17} your{\kf17} head{\kf17} starts{\kf9} to{\kf9} spin{\kf17}~
-Dialogue: 0,0:01:43.69,0:01:46.54,DEFAULT,,0,0,0,,{\kf13}From{\kf13} the{\kf29} oils{\kf9} and{\kf5} per{\kf13}fume{\kf37}~{\kf5} and{\kf17} in{\kf21}cense
-Dialogue: 0,0:01:46.98,0:01:49.43,DEFAULT,,0,0,0,,{\kf13}You're{\kf9} at{\kf5} the{\kf13} mer{\kf13}cy{\kf13} of{\kf17} her{\kf17} skill{\kf5}ful{\kf13} touch
-Dialogue: 0,0:01:49.96,0:01:52.49,DEFAULT,,0,0,0,,{\kf5}She{\kf17} mur{\kf13}murs{\kf9} that{\kf9} you're{\kf17} much{\kf13} too{\kf25}~{\kf13} tense{\kf29}~
-Dialogue: 0,0:01:53.37,0:01:56.18,DEFAULT,,0,0,0,,{\kf5}And{\kf13} just{\kf13} like{\kf9} they{\kf17} said{\kf5} she{\kf13} makes{\kf13} you{\kf21} melt
-Dialogue: 0,0:01:56.43,0:01:59.00,DEFAULT,,0,0,0,,{\kf13}In{\kf5}to{\kf13} a{\kf25} state{\kf5} of{\kf21} to{\kf21}tal{\kf9} bliss{\kf33}~
-Dialogue: 0,0:02:00.64,0:02:03.62,DEFAULT,,0,0,0,,{\kf9}And{\kf9} then{\kf5} you{\kf33} feel{\kf5} her{\kf17} lips{\kf13} on{\kf9} your{\kf57} ear
-Dialogue: 0,0:02:03.66,0:02:05.87,DEFAULT,,0,0,0,,{\kf5}The{\kf13} soft{\kf13}est{\kf17} gen{\kf17}tle{\kf13} kiss{\kf37}~
-Dialogue: 0,0:02:07.31,0:02:11.01,DEFAULT,,0,0,0,,{\kf9}Bet{\kf9}ter{\kf17} learn{\kf5} to{\kf13} rec{\kf21}og{\kf13}nise{\kf29}~{\kf5} the{\kf13} look{\kf17} in{\kf13} her{\kf25} eyes{\kf29}~
-Dialogue: 0,0:02:11.17,0:02:14.14,DEFAULT,,0,0,0,,{\kf13}When{\kf17} she{\kf13} de{\kf9}cides{\kf21}~{\kf9} she's{\kf13} gon{\kf5}na{\kf33} choose{\kf37} you
-Dialogue: 0,0:02:14.38,0:02:16.96,DEFAULT,,0,0,0,,{\kf13}A{\kf13} locked{\kf37} door{\kf17} and{\kf5} a{\kf17} pri{\kf13}vate{\kf13} room{\kf33}~
-Dialogue: 0,0:02:17.40,0:02:21.30,DEFAULT,,0,0,0,,{\kf9}Re{\kf5}sist{\kf13}ance{\kf5} is{\kf41} fu{\kf29}tile{\kf17} when{\kf17} Al{\kf13}oe's{\kf17} gon{\kf13}na{\kf25} use{\kf69} you
-Dialogue: 0,0:02:25.11,0:02:26.52,DEFAULT,,0,0,0,,{\kf17}Al{\kf17}oe{\kf13} Al{\kf77}oe
-Dialogue: 0,0:02:27.68,0:02:31.66,DEFAULT,,0,0,0,,{\kf5}She'll{\kf13} take{\kf37}~{\kf13} you{\kf29}~{\kf81} there{\kf17} don't{\kf21}~{\kf5} you{\kf17} know{\kf61}~
-Dialogue: 0,0:02:31.98,0:02:33.03,DEFAULT,,0,0,0,,{\kf17}Al{\kf17}oe{\kf21} Al{\kf41}oe
-Dialogue: 0,0:02:34.55,0:02:38.09,DEFAULT,,0,0,0,,{\kf5}A{\kf5} place{\kf33}~{\kf13} where{\kf13}~{\kf85} few{\kf29} will{\kf17} ev{\kf5}er{\kf17} go{\kf41}~
-Dialogue: 0,0:02:38.81,0:02:39.94,DEFAULT,,0,0,0,,{\kf17}Al{\kf17}oe{\kf17} Al{\kf49}oe
-Dialogue: 0,0:02:41.38,0:02:45.60,DEFAULT,,0,0,0,,{\kf9}She'll{\kf13} make{\kf29}~{\kf13} it{\kf13}~{\kf45} fast{\kf13} she'll{\kf17} take{\kf13}~{\kf17} it{\kf73} slow
-Dialogue: 0,0:02:45.64,0:02:48.90,DEFAULT,,0,0,0,,{\kf21}Al{\kf17}oe{\kf21} Al{\kf45}oe{\kf25} oh{\kf45} no
-Dialogue: 0,0:02:49.50,0:02:52.35,DEFAULT,,0,0,0,,{\kf17}Oh{\kf17} Al{\kf45}oe{\kf17}~{\kf17} Al{\kf25}oe{\kf33}~{\kf17} Al{\kf21}oe{\kf49}~
-Dialogue: 0,0:03:26.14,0:03:29.88,DEFAULT,,0,0,0,,{\kf17}Bet{\kf5}ter{\kf17} learn{\kf5} to{\kf17} rec{\kf21}og{\kf17}nise{\kf25}~{\kf5} the{\kf13} look{\kf17} in{\kf13} her{\kf25} eyes{\kf29}~
-Dialogue: 0,0:03:30.04,0:03:33.01,DEFAULT,,0,0,0,,{\kf13}When{\kf17} she{\kf17} de{\kf9}cides{\kf21}~{\kf9} she's{\kf17} gon{\kf5}na{\kf29} choose{\kf37} you
-Dialogue: 0,0:03:33.21,0:03:35.83,DEFAULT,,0,0,0,,{\kf17}A{\kf13} locked{\kf37} door{\kf17} and{\kf5} a{\kf17} pri{\kf13}vate{\kf17} room{\kf29}~
-Dialogue: 0,0:03:36.23,0:03:40.16,DEFAULT,,0,0,0,,{\kf9}Re{\kf9}sist{\kf13}ance{\kf5} is{\kf41} fu{\kf25}tile{\kf17} when{\kf17} Al{\kf13}oe's{\kf17} gon{\kf13}na{\kf25} use{\kf69} you
-Dialogue: 0,0:03:43.98,0:03:45.31,DEFAULT,,0,0,0,,{\kf17}Al{\kf17}oe{\kf13} Al{\kf69}oe
-Dialogue: 0,0:03:46.55,0:03:50.53,DEFAULT,,0,0,0,,{\kf5}She'll{\kf13} take{\kf37}~{\kf13} you{\kf29}~{\kf81} there{\kf17} don't{\kf21}~{\kf5} you{\kf17} know{\kf61}~
-Dialogue: 0,0:03:50.81,0:03:51.90,DEFAULT,,0,0,0,,{\kf17}Al{\kf17}oe{\kf21} Al{\kf41}oe
-Dialogue: 0,0:03:53.42,0:03:56.96,DEFAULT,,0,0,0,,{\kf5}A{\kf5} place{\kf33}~{\kf13} where{\kf13}~{\kf85} few{\kf29} will{\kf17} ev{\kf5}er{\kf17} go{\kf41}~
-Dialogue: 0,0:03:57.64,0:03:58.77,DEFAULT,,0,0,0,,{\kf17}Al{\kf17}oe{\kf17} Al{\kf49}oe
-Dialogue: 0,0:04:00.25,0:04:04.43,DEFAULT,,0,0,0,,{\kf9}She'll{\kf13} make{\kf29}~{\kf13} it{\kf13}~{\kf45} fast{\kf13} she'll{\kf13} take{\kf13}~{\kf17} it{\kf73} slow
-Dialogue: 0,0:04:04.51,0:04:07.73,DEFAULT,,0,0,0,,{\kf21}Al{\kf17}oe{\kf21} Al{\kf45}oe{\kf25} oh{\kf45} no
-Dialogue: 0,0:04:08.37,0:04:11.18,DEFAULT,,0,0,0,,{\kf17}Oh{\kf17} Al{\kf45}oe{\kf17}~{\kf17} Al{\kf25}oe{\kf33}~{\kf17} Al{\kf17}oe{\kf49}~
+Dialogue: 0,0:00:21.45,0:00:23.58,DEFAULT,,0,0,0,,{\r}{\kf23}When{\kf10} you're{\kf38} stressed{\kf15} you're{\kf30} need{\kf30}ing{\kf23} a{\kf44} rest
+Dialogue: 0,0:00:24.02,0:00:26.91,DEFAULT,,0,0,0,,{\r}{\kf21}From{\kf14} the{\kf28} world{\kf34}~{\kf10} that's{\kf14} try{\kf34}ing{\kf14} to{\kf34} hurt{\kf86} you
+Dialogue: 0,0:00:28.32,0:00:30.41,DEFAULT,,0,0,0,,{\r}{\kf39}They{\kf39} tell{\kf23} you{\kf23} a{\kf15} mas{\kf23}sage{\kf15} is{\kf32} best
+Dialogue: 0,0:00:30.65,0:00:33.74,DEFAULT,,0,0,0,,{\r}{\kf21}Rec{\kf14}om{\kf34}mend{\kf21}ing{\kf14} a{\kf48} girl{\kf27} you{\kf14} can{\kf34} turn{\kf82} to
+Dialogue: 0,0:00:35.15,0:00:37.60,DEFAULT,,0,0,0,,{\r}{\kf49}They{\kf84} say{\kf10} that{\kf14} she{\kf35} has{\kf28} mag{\kf25}ic
+Dialogue: 0,0:00:37.96,0:00:40.05,DEFAULT,,0,0,0,,{\r}{\kf13}That{\kf34} makes{\kf10} you{\kf47} melt{\kf13} a{\kf92}way
+Dialogue: 0,0:00:41.42,0:00:44.95,DEFAULT,,0,0,0,,{\r}{\kf34}But{\kf17} if{\kf34} your{\kf34} fate{\kf34} that{\kf67} day{\kf17} is{\kf17} some{\kf34}what{\kf42} trag{\kf24}ic
+Dialogue: 0,0:00:45.44,0:00:47.97,DEFAULT,,0,0,0,,{\r}{\kf27}There's{\kf14} an{\kf27} ex{\kf10}tra{\kf21} price{\kf34}~{\kf21}~{\kf10} to{\kf10} pay{\kf79}~
+Dialogue: 0,0:00:48.45,0:00:52.15,DEFAULT,,0,0,0,,{\r}{\kf27}Bet{\kf14}ter{\kf27} learn{\kf10} to{\kf27} rec{\kf34}og{\kf27}nise{\kf41}~{\kf10} the{\kf21} look{\kf27} in{\kf21} her{\kf41} eyes{\kf43}~
+Dialogue: 0,0:00:52.31,0:00:55.32,DEFAULT,,0,0,0,,{\r}{\kf22}When{\kf29} she{\kf29} de{\kf15}cides{\kf37}~{\kf15} she's{\kf29} gon{\kf10}na{\kf51} choose{\kf64} you
+Dialogue: 0,0:00:55.52,0:00:58.13,DEFAULT,,0,0,0,,{\r}{\kf27}A{\kf20} locked{\kf60} door{\kf27} and{\kf10} a{\kf27} pri{\kf20}vate{\kf27} room{\kf43}~
+Dialogue: 0,0:00:58.53,0:01:02.43,DEFAULT,,0,0,0,,{\r}{\kf12}Re{\kf12}sist{\kf18}ance{\kf10} is{\kf60} fu{\kf36}tile{\kf24} when{\kf24} Al{\kf18}oe's{\kf24} gon{\kf18}na{\kf36} use{\kf98} you
+Dialogue: 0,0:01:06.29,0:01:07.57,DEFAULT,,0,0,0,,{\r}{\kf18}Al{\kf18}oe{\kf14} Al{\kf79}oe
+Dialogue: 0,0:01:08.86,0:01:12.84,DEFAULT,,0,0,0,,{\r}{\kf10}She'll{\kf17} take{\kf50}~{\kf17} you{\kf39}~{\kf112} there{\kf17} don't{\kf28}~{\kf10} you{\kf22} know{\kf76}~
+Dialogue: 0,0:01:13.12,0:01:14.20,DEFAULT,,0,0,0,,{\r}{\kf19}Al{\kf19}oe{\kf23} Al{\kf47}oe
+Dialogue: 0,0:01:15.73,0:01:19.23,DEFAULT,,0,0,0,,{\r}{\kf10}A{\kf10} place{\kf44}~{\kf17} where{\kf17}~{\kf117} few{\kf39} will{\kf22} ev{\kf10}er{\kf22} go{\kf42}~
+Dialogue: 0,0:01:19.95,0:01:21.07,DEFAULT,,0,0,0,,{\r}{\kf19}Al{\kf19}oe{\kf19} Al{\kf55}oe
+Dialogue: 0,0:01:22.52,0:01:26.74,DEFAULT,,0,0,0,,{\r}{\kf14}She'll{\kf21} make{\kf48}~{\kf21} it{\kf21}~{\kf76} fast{\kf21} she'll{\kf28} take{\kf21}~{\kf28} it{\kf123} slow
+Dialogue: 0,0:01:26.78,0:01:30.03,DEFAULT,,0,0,0,,{\r}{\kf39}Al{\kf31}oe{\kf39} Al{\kf85}oe{\kf46} oh{\kf85} no
+Dialogue: 0,0:01:30.64,0:01:33.49,DEFAULT,,0,0,0,,{\r}{\kf19}Oh{\kf19} Al{\kf51}oe{\kf19}~{\kf19} Al{\kf28}oe{\kf37}~{\kf19} Al{\kf19}oe{\kf55}~
+Dialogue: 0,0:01:40.16,0:01:42.73,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf18} lights{\kf10} are{\kf35} dim{\kf35} your{\kf35} head{\kf35} starts{\kf18} to{\kf18} spin{\kf35}~
+Dialogue: 0,0:01:43.69,0:01:46.55,DEFAULT,,0,0,0,,{\r}{\kf22}From{\kf22} the{\kf52} oils{\kf15} and{\kf10} per{\kf22}fume{\kf68}~{\kf10} and{\kf30} in{\kf34}cense
+Dialogue: 0,0:01:46.99,0:01:49.44,DEFAULT,,0,0,0,,{\r}{\kf27}You're{\kf18} at{\kf10} the{\kf27} mer{\kf27}cy{\kf27} of{\kf36} her{\kf36} skill{\kf10}ful{\kf27} touch
+Dialogue: 0,0:01:49.96,0:01:52.49,DEFAULT,,0,0,0,,{\r}{\kf10}She{\kf29} mur{\kf22}murs{\kf14} that{\kf14} you're{\kf29} much{\kf22} too{\kf43}~{\kf22} tense{\kf48}~
+Dialogue: 0,0:01:53.38,0:01:56.19,DEFAULT,,0,0,0,,{\r}{\kf11}And{\kf34} just{\kf34} like{\kf22} they{\kf45} said{\kf11} she{\kf34} makes{\kf34} you{\kf56} melt
+Dialogue: 0,0:01:56.43,0:01:59.00,DEFAULT,,0,0,0,,{\r}{\kf23}In{\kf10}to{\kf23} a{\kf45} state{\kf10} of{\kf38} to{\kf38}tal{\kf15} bliss{\kf55}~
+Dialogue: 0,0:02:00.65,0:02:03.62,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf16} then{\kf10} you{\kf64} feel{\kf10} her{\kf32} lips{\kf24} on{\kf16} your{\kf109} ear
+Dialogue: 0,0:02:03.66,0:02:05.87,DEFAULT,,0,0,0,,{\r}{\kf10}The{\kf25} soft{\kf25}est{\kf33} gen{\kf33}tle{\kf25} kiss{\kf70}~
+Dialogue: 0,0:02:07.32,0:02:11.02,DEFAULT,,0,0,0,,{\r}{\kf15}Bet{\kf15}ter{\kf29} learn{\kf10} to{\kf22} rec{\kf36}og{\kf22}nise{\kf51}~{\kf10} the{\kf22} look{\kf29} in{\kf22} her{\kf44} eyes{\kf43}~
+Dialogue: 0,0:02:11.18,0:02:14.15,DEFAULT,,0,0,0,,{\r}{\kf22}When{\kf30} she{\kf22} de{\kf15}cides{\kf37}~{\kf15} she's{\kf22} gon{\kf10}na{\kf59} choose{\kf65} you
+Dialogue: 0,0:02:14.39,0:02:16.96,DEFAULT,,0,0,0,,{\r}{\kf20}A{\kf20} locked{\kf61} door{\kf27} and{\kf10} a{\kf27} pri{\kf20}vate{\kf20} room{\kf52}~
+Dialogue: 0,0:02:17.40,0:02:21.30,DEFAULT,,0,0,0,,{\r}{\kf12}Re{\kf10}sist{\kf18}ance{\kf10} is{\kf60} fu{\kf42}tile{\kf24} when{\kf24} Al{\kf18}oe's{\kf24} gon{\kf18}na{\kf36} use{\kf94} you
+Dialogue: 0,0:02:25.12,0:02:26.52,DEFAULT,,0,0,0,,{\r}{\kf19}Al{\kf19}oe{\kf14} Al{\kf89}oe
+Dialogue: 0,0:02:27.69,0:02:31.67,DEFAULT,,0,0,0,,{\r}{\kf10}She'll{\kf17} take{\kf50}~{\kf17} you{\kf39}~{\kf111} there{\kf22} don't{\kf28}~{\kf10} you{\kf22} know{\kf72}~
+Dialogue: 0,0:02:31.99,0:02:33.03,DEFAULT,,0,0,0,,{\r}{\kf18}Al{\kf18}oe{\kf23} Al{\kf45}oe
+Dialogue: 0,0:02:34.56,0:02:38.09,DEFAULT,,0,0,0,,{\r}{\kf10}A{\kf10} place{\kf45}~{\kf17} where{\kf17}~{\kf118} few{\kf39} will{\kf22} ev{\kf10}er{\kf22} go{\kf44}~
+Dialogue: 0,0:02:38.82,0:02:39.94,DEFAULT,,0,0,0,,{\r}{\kf19}Al{\kf19}oe{\kf19} Al{\kf55}oe
+Dialogue: 0,0:02:41.39,0:02:45.61,DEFAULT,,0,0,0,,{\r}{\kf14}She'll{\kf21} make{\kf48}~{\kf21} it{\kf21}~{\kf76} fast{\kf21} she'll{\kf28} take{\kf21}~{\kf28} it{\kf123} slow
+Dialogue: 0,0:02:45.65,0:02:48.90,DEFAULT,,0,0,0,,{\r}{\kf39}Al{\kf31}oe{\kf39} Al{\kf85}oe{\kf46} oh{\kf85} no
+Dialogue: 0,0:02:49.51,0:02:52.36,DEFAULT,,0,0,0,,{\r}{\kf18}Oh{\kf18} Al{\kf51}oe{\kf18}~{\kf18} Al{\kf28}oe{\kf37}~{\kf18} Al{\kf23}oe{\kf56}~
+Dialogue: 0,0:03:26.15,0:03:29.88,DEFAULT,,0,0,0,,{\r}{\kf28}Bet{\kf10}ter{\kf28} learn{\kf10} to{\kf28} rec{\kf35}og{\kf28}nise{\kf42}~{\kf10} the{\kf21} look{\kf28} in{\kf21} her{\kf42} eyes{\kf43}~
+Dialogue: 0,0:03:30.04,0:03:33.02,DEFAULT,,0,0,0,,{\r}{\kf22}When{\kf29} she{\kf29} de{\kf14}cides{\kf36}~{\kf14} she's{\kf29} gon{\kf10}na{\kf51} choose{\kf63} you
+Dialogue: 0,0:03:33.22,0:03:35.83,DEFAULT,,0,0,0,,{\r}{\kf27}A{\kf20} locked{\kf60} door{\kf27} and{\kf10} a{\kf27} pri{\kf20}vate{\kf27} room{\kf43}~
+Dialogue: 0,0:03:36.23,0:03:40.17,DEFAULT,,0,0,0,,{\r}{\kf12}Re{\kf12}sist{\kf18}ance{\kf10} is{\kf61} fu{\kf36}tile{\kf24} when{\kf24} Al{\kf18}oe's{\kf24} gon{\kf18}na{\kf36} use{\kf101} you
+Dialogue: 0,0:03:43.99,0:03:45.31,DEFAULT,,0,0,0,,{\r}{\kf19}Al{\kf19}oe{\kf14} Al{\kf81}oe
+Dialogue: 0,0:03:46.56,0:03:50.54,DEFAULT,,0,0,0,,{\r}{\kf10}She'll{\kf17} take{\kf50}~{\kf17} you{\kf39}~{\kf111} there{\kf22} don't{\kf28}~{\kf10} you{\kf22} know{\kf72}~
+Dialogue: 0,0:03:50.82,0:03:51.90,DEFAULT,,0,0,0,,{\r}{\kf19}Al{\kf19}oe{\kf23} Al{\kf47}oe
+Dialogue: 0,0:03:53.43,0:03:56.96,DEFAULT,,0,0,0,,{\r}{\kf10}A{\kf10} place{\kf45}~{\kf17} where{\kf17}~{\kf118} few{\kf39} will{\kf22} ev{\kf10}er{\kf22} go{\kf44}~
+Dialogue: 0,0:03:57.65,0:03:58.77,DEFAULT,,0,0,0,,{\r}{\kf19}Al{\kf19}oe{\kf19} Al{\kf55}oe
+Dialogue: 0,0:04:00.26,0:04:04.44,DEFAULT,,0,0,0,,{\r}{\kf14}She'll{\kf21} make{\kf49}~{\kf21} it{\kf21}~{\kf77} fast{\kf21} she'll{\kf21} take{\kf21}~{\kf28} it{\kf124} slow
+Dialogue: 0,0:04:04.52,0:04:07.73,DEFAULT,,0,0,0,,{\r}{\kf38}Al{\kf31}oe{\kf38} Al{\kf84}oe{\kf46} oh{\kf84} no
+Dialogue: 0,0:04:08.37,0:04:11.19,DEFAULT,,0,0,0,,{\r}{\kf18}Oh{\kf18} Al{\kf51}oe{\kf18}~{\kf18} Al{\kf28}oe{\kf37}~{\kf18} Al{\kf18}oe{\kf57}~

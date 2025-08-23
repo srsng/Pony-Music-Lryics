@@ -1,80 +1,87 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Otherwise (feat. Lil' Everfree)
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by lily
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.90,0:00:04.45,DEFAULT,,0,0,0,,{\kf210}Head{\kf198} to{\kf226} hoof,{\kf198} I've{\kf214} ne{\kf198}ver{\kf206} been{\kf202} bet{\kf198}te{\kf222}-er
-Dialogue: 0,0:00:05.09,0:00:07.00,DEFAULT,,0,0,0,,{\kf198}Bet{\kf198}ter{\kf198} than{\kf214} I{\kf206} feel{\kf214} no{\kf238}-ow
-Dialogue: 0,0:00:07.64,0:00:09.55,DEFAULT,,0,0,0,,{\kf198}(Bet{\kf198}ter{\kf198} than{\kf214} I{\kf206} feel{\kf214} no{\kf238}-ow)
-Dialogue: 0,0:00:12.11,0:00:14.58,DEFAULT,,0,0,0,,{\kf198}Feel{\kf206} my{\kf222} pain,{\kf198} and{\kf206} you'd{\kf230} feel{\kf198} no{\kf230}thing
-Dialogue: 0,0:00:15.30,0:00:17.17,DEFAULT,,0,0,0,,{\kf198}No{\kf198}thing{\kf198} can{\kf206} get{\kf214} me{\kf214} do{\kf230}-own
-Dialogue: 0,0:00:17.85,0:00:19.73,DEFAULT,,0,0,0,,{\kf198}(No{\kf198}thing{\kf198} can{\kf206} get{\kf214} me{\kf214} do{\kf230}-own)
-Dialogue: 0,0:00:22.00,0:00:24.43,DEFAULT,,0,0,0,,{\kf198}Now{\kf198} I've{\kf214} told{\kf198} a{\kf214} thou{\kf214}sand{\kf198} li{\kf198}-ies{\kf206} be{\kf198}fo{\kf214}-ore
-Dialogue: 0,0:00:24.71,0:00:27.67,DEFAULT,,0,0,0,,{\kf198}But{\kf198} you{\kf206} hear{\kf218} truth{\kf198} and{\kf198} no{\kf214}-o{\kf198}thi{\kf206}-ing{\kf214} mo{\kf214}-ore
-Dialogue: 0,0:00:27.91,0:00:30.30,DEFAULT,,0,0,0,,{\kf218}(Truth{\kf198} and{\kf198} no{\kf214}-o{\kf198}thi{\kf206}-ing{\kf214} mo{\kf222}-ore)
-Dialogue: 0,0:00:32.45,0:00:35.01,DEFAULT,,0,0,0,,{\kf214}Bring{\kf198} the{\kf226} day,{\kf202} I{\kf206} think{\kf230} I'm{\kf202} rea{\kf198}dy{\kf214}-y
-Dialogue: 0,0:00:35.68,0:00:38.04,DEFAULT,,0,0,0,,{\kf198}Rea{\kf198}dy{\kf198} to{\kf218} o{\kf198}pen{\kf218} my{\kf262} door
-Dialogue: 0,0:00:38.24,0:00:40.03,DEFAULT,,0,0,0,,{\kf198}(Rea{\kf198}dy{\kf198} to{\kf218} o{\kf198}pen{\kf214} my{\kf206} door)
-Dialogue: 0,0:00:40.19,0:00:42.03,DEFAULT,,0,0,0,,{\kf214}Whoa{\kf198}-oh{\kf230}-oh{\kf198}-oh{\kf214}-oh{\kf198}-oh{\kf214}-oh
-Dialogue: 0,0:00:43.22,0:00:45.42,DEFAULT,,0,0,0,,{\kf198}'Cause{\kf198} ev{\kf206}ery{\kf214} step{\kf214} I{\kf214} take{\kf206} out{\kf218}side
-Dialogue: 0,0:00:45.62,0:00:47.85,DEFAULT,,0,0,0,,{\kf198}Is{\kf198} a{\kf214} sign{\kf198} that{\kf198} I{\kf198} fe{\kf198}-eel{\kf198} a{\kf222}li{\kf222}-ive
-Dialogue: 0,0:00:48.81,0:00:51.32,DEFAULT,,0,0,0,,{\kf206}I{\kf214} feel{\kf198} a{\kf226}live{\kf206} (I{\kf214} feel{\kf198} a{\kf234}live)
-Dialogue: 0,0:00:53.44,0:00:55.67,DEFAULT,,0,0,0,,{\kf198}And{\kf198} e{\kf214}ven{\kf206} if{\kf206} I{\kf206} change{\kf206} my{\kf222} mind
-Dialogue: 0,0:00:55.99,0:00:58.70,DEFAULT,,0,0,0,,{\kf198}I'm{\kf198} not{\kf202} gon{\kf202}na{\kf230} roll{\kf238} those{\kf198} di{\kf198}-i{\kf254}-ice
-Dialogue: 0,0:00:59.82,0:01:04.29,DEFAULT,,0,0,0,,{\kf198}And{\kf214} no{\kf206} one's{\kf214} told{\kf198} me{\kf198}-e{\kf198} o{\kf198}ther{\kf206}wi{\kf206}-i{\kf206}-i{\kf238}-ise{\kf206} (i{\kf206}-i{\kf238}-ise)
-Dialogue: 0,0:01:05.57,0:01:09.40,DEFAULT,,0,0,0,,{\kf198}I'll{\kf214} move{\kf202} like{\kf198} a{\kf198} but{\kf198}ter{\kf214}fly{\kf214}-y{\kf210}-y{\kf234}-y{\kf214} (y{\kf214}-y{\kf238}-y)
-Dialogue: 0,0:01:10.67,0:01:14.50,DEFAULT,,0,0,0,,{\kf198}I'm{\kf214} not{\kf202} gon{\kf202}na{\kf198} co{\kf198}ver{\kf214} my{\kf206} eye{\kf214}-eye{\kf238}-eyes{\kf206} (eye{\kf214}-eye{\kf238}-eyes)
-Dialogue: 0,0:01:14.98,0:01:19.77,DEFAULT,,0,0,0,,{\kf206}Oh,{\kf210} no{\kf214} one's{\kf214} told{\kf198} me{\kf198}-e{\kf198} o{\kf198}ther{\kf206}wi{\kf206}-i{\kf214}-i{\kf246}-ise{\kf206} (i{\kf214}-i{\kf254}-ise)
-Dialogue: 0,0:01:21.36,0:01:25.11,DEFAULT,,0,0,0,,{\kf214}Yeah,{\kf214} no{\kf214} one's{\kf214} told{\kf198} me{\kf198}-e{\kf198} o{\kf202}ther{\kf214}wise,{\kf198} o{\kf202}ther{\kf214}wise,{\kf198} o{\kf202}ther{\kf214}wise
-Dialogue: 0,0:01:25.51,0:01:27.67,DEFAULT,,0,0,0,,{\kf198}O{\kf198}ther{\kf214}wise,{\kf198} o{\kf198}ther{\kf214}wise,{\kf198} o{\kf198}ther{\kf214}wise
-Dialogue: 0,0:01:28.07,0:01:30.22,DEFAULT,,0,0,0,,{\kf198}O{\kf198}ther{\kf214}wise,{\kf198} o{\kf198}ther{\kf214}wise,{\kf198} o{\kf198}ther{\kf214}wise
-Dialogue: 0,0:01:30.62,0:01:32.01,DEFAULT,,0,0,0,,{\kf198}O{\kf198}ther{\kf214}wise,{\kf198} o{\kf198}ther{\kf198}wi{\kf218}-ise
-Dialogue: 0,0:01:33.65,0:01:36.40,DEFAULT,,0,0,0,,{\kf198}Well,{\kf198} I{\kf210} got{\kf226} no{\kf198} rea{\kf198}so{\kf210}-on{\kf206} to{\kf202} wor{\kf238}ry
-Dialogue: 0,0:01:37.00,0:01:38.88,DEFAULT,,0,0,0,,{\kf198}Wor{\kf198}ry{\kf198} my{\kf214}self{\kf214} a{\kf206}wa{\kf234}-ay
-Dialogue: 0,0:01:39.55,0:01:41.43,DEFAULT,,0,0,0,,{\kf198}(Wor{\kf198}ry{\kf198} my{\kf214}self{\kf214} a{\kf206}wa{\kf234}-ay)
-Dialogue: 0,0:01:43.86,0:01:46.62,DEFAULT,,0,0,0,,{\kf198}'Cause{\kf214} in{\kf198} the{\kf222} end,{\kf202} I'm{\kf202} i{\kf206}-in{\kf206} no{\kf202} hur{\kf238}ry
-Dialogue: 0,0:01:47.21,0:01:49.33,DEFAULT,,0,0,0,,{\kf198}Tak{\kf198}ing{\kf198} my{\kf214} ti{\kf198}-ime{\kf234} to{\kf242}day
-Dialogue: 0,0:01:49.77,0:01:51.88,DEFAULT,,0,0,0,,{\kf198}(Ta{\kf198}king{\kf198} my{\kf214} ti{\kf198}-ime{\kf234} to{\kf242}day)
-Dialogue: 0,0:01:54.08,0:01:56.39,DEFAULT,,0,0,0,,{\kf198}A{\kf202} sin{\kf214}gle{\kf230} route{\kf198} and{\kf198} so{\kf198}-o{\kf206} much{\kf198} a{\kf214}-air
-Dialogue: 0,0:01:56.63,0:01:59.58,DEFAULT,,0,0,0,,{\kf198}And{\kf198} I{\kf214} could{\kf230} break,{\kf198} but{\kf198} I{\kf198}~{\kf206} wo{\kf222}-on't{\kf198} da{\kf198}-a{\kf214}-are
-Dialogue: 0,0:01:59.82,0:02:02.21,DEFAULT,,0,0,0,,{\kf230}(Break,{\kf198} but{\kf198} I{\kf198}~{\kf222} won't{\kf198} da{\kf198}-a{\kf222}-are)
-Dialogue: 0,0:02:04.29,0:02:07.44,DEFAULT,,0,0,0,,{\kf198}But{\kf214} I'm{\kf198} the{\kf230} on{\kf198}ly{\kf198} o{\kf214}-one{\kf214} who{\kf230} knows{\kf198} the{\kf198} mean{\kf198}ing{\kf202} of
-Dialogue: 0,0:02:07.64,0:02:09.24,DEFAULT,,0,0,0,,{\kf214}"han{\kf198}dle{\kf198} wi{\kf206}-ith{\kf254} care"
-Dialogue: 0,0:02:09.87,0:02:11.79,DEFAULT,,0,0,0,,{\kf206}(Of{\kf214} "han{\kf198}dle{\kf198} wi{\kf206}-ith{\kf254} care")
-Dialogue: 0,0:02:12.11,0:02:14.54,DEFAULT,,0,0,0,,{\kf214}Yeah{\kf198}-e{\kf226}-yeah{\kf198}-e{\kf214}-yea{\kf198}-a{\kf214}-a{\kf238}-ah
-Dialogue: 0,0:02:15.14,0:02:17.29,DEFAULT,,0,0,0,,{\kf198}'Cause{\kf198} ev{\kf206}ery{\kf214} step{\kf214} I{\kf214} take{\kf206} out{\kf214}side
-Dialogue: 0,0:02:17.53,0:02:19.77,DEFAULT,,0,0,0,,{\kf198}Is{\kf198} a{\kf214} sign{\kf198} that{\kf198} I{\kf198} fe{\kf198}-eel{\kf198} a{\kf222}li{\kf222}-ive
-Dialogue: 0,0:02:20.72,0:02:23.28,DEFAULT,,0,0,0,,{\kf206}I{\kf214} feel{\kf198} a{\kf230}live{\kf206} (I{\kf214} feel{\kf198} a{\kf238}live)
-Dialogue: 0,0:02:25.35,0:02:27.59,DEFAULT,,0,0,0,,{\kf198}And{\kf198} e{\kf214}ven{\kf206} if{\kf206} I{\kf206} change{\kf206} my{\kf222} mind
-Dialogue: 0,0:02:27.91,0:02:30.62,DEFAULT,,0,0,0,,{\kf198}I'm{\kf198} not{\kf202} gon{\kf202}na{\kf230} roll{\kf238} those{\kf198} di{\kf198}-i{\kf254}-ice
-Dialogue: 0,0:02:31.74,0:02:36.20,DEFAULT,,0,0,0,,{\kf198}And{\kf214} no{\kf206} one's{\kf214} told{\kf198} me{\kf198}-e{\kf198} o{\kf198}ther{\kf206}wi{\kf206}-i{\kf206}-i{\kf238}-ise{\kf206} (i{\kf206}-i{\kf238}-ise)
-Dialogue: 0,0:02:37.48,0:02:41.31,DEFAULT,,0,0,0,,{\kf198}I'll{\kf214} move{\kf202} like{\kf198} a{\kf198} but{\kf198}ter{\kf214}fly{\kf214}-y{\kf214}-y{\kf238}-y{\kf214} (y{\kf214}-y{\kf238}-y)
-Dialogue: 0,0:02:42.59,0:02:46.42,DEFAULT,,0,0,0,,{\kf198}I'm{\kf214} not{\kf202} gon{\kf202}na{\kf198} co{\kf198}ver{\kf214} my{\kf206} eye{\kf214}-eye{\kf238}-eyes{\kf206} (eye{\kf214}-eye{\kf238}-eyes)
-Dialogue: 0,0:02:46.90,0:02:51.68,DEFAULT,,0,0,0,,{\kf206}Oh,{\kf210} no{\kf214} one's{\kf214} told{\kf198} me{\kf198}-e{\kf198} o{\kf198}ther{\kf206}wi{\kf206}-i{\kf214}-i{\kf246}-ise{\kf206} (i{\kf214}-i{\kf254}-ise)
-Dialogue: 0,0:02:53.28,0:02:57.03,DEFAULT,,0,0,0,,{\kf214}Yeah,{\kf214} no{\kf214} one's{\kf214} told{\kf198} me{\kf198}-e{\kf198} o{\kf198}ther{\kf214}wise,{\kf198} o{\kf198}ther{\kf214}wise,{\kf198} o{\kf198}ther{\kf214}wise
-Dialogue: 0,0:02:57.43,0:02:59.58,DEFAULT,,0,0,0,,{\kf198}O{\kf198}ther{\kf214}wise,{\kf198} o{\kf198}ther{\kf214}wise,{\kf198} o{\kf198}ther{\kf214}wise
-Dialogue: 0,0:02:59.98,0:03:02.13,DEFAULT,,0,0,0,,{\kf198}O{\kf198}ther{\kf214}wise,{\kf198} o{\kf198}ther{\kf214}wise,{\kf198} o{\kf198}ther{\kf214}wise
-Dialogue: 0,0:03:02.53,0:03:03.97,DEFAULT,,0,0,0,,{\kf198}O{\kf198}ther{\kf214}wise,{\kf198} o{\kf198}ther{\kf198}wi{\kf222}-ise
-Dialogue: 0,0:03:05.09,0:03:07.44,DEFAULT,,0,0,0,,{\kf214}I'll{\kf206} keep{\kf198} sing{\kf210}ing,{\kf222} no{\kf206} one{\kf206} stop{\kf202} me
-Dialogue: 0,0:03:07.64,0:03:09.99,DEFAULT,,0,0,0,,{\kf214}I'll{\kf214} keep{\kf198} bring{\kf210}ing{\kf226} on{\kf206} this{\kf198} mel{\kf198}o{\kf202}dy
-Dialogue: 0,0:03:10.19,0:03:12.55,DEFAULT,,0,0,0,,{\kf214}I'll{\kf206} keep{\kf198} sing{\kf210}ing,{\kf226} no{\kf206} one{\kf206} stop{\kf202} me
-Dialogue: 0,0:03:12.75,0:03:15.10,DEFAULT,,0,0,0,,{\kf214}I'll{\kf214} keep{\kf198} bring{\kf210}ing{\kf226} on{\kf206} this{\kf198} mel{\kf198}o{\kf202}dy
-Dialogue: 0,0:03:15.30,0:03:17.65,DEFAULT,,0,0,0,,{\kf206}Da,{\kf206} da,{\kf198} da{\kf210}-da,{\kf226} da{\kf206} da{\kf206} da{\kf202} da
-Dialogue: 0,0:03:17.85,0:03:20.21,DEFAULT,,0,0,0,,{\kf206}Da,{\kf206} da,{\kf198} da{\kf210}-da,{\kf226} da,{\kf206} da,{\kf198} da{\kf198}-da{\kf202}-da
-Dialogue: 0,0:03:20.41,0:03:22.76,DEFAULT,,0,0,0,,{\kf206}Da,{\kf206} da,{\kf198} da{\kf210}-da,{\kf226} da{\kf206} da{\kf206} da{\kf202} da
-Dialogue: 0,0:03:22.96,0:03:25.59,DEFAULT,,0,0,0,,{\kf206}Da,{\kf206} da,{\kf198} da{\kf214}-da,{\kf226} da,{\kf206} da,{\kf198} da{\kf198}-da{\kf198}-da{\kf214}-da
-Dialogue: 0,0:03:26.63,0:03:28.78,DEFAULT,,0,0,0,,{\kf198}'Cause{\kf198} ev{\kf206}ery{\kf214} step{\kf214} I{\kf214} take{\kf206} out{\kf214}side
-Dialogue: 0,0:03:28.98,0:03:31.22,DEFAULT,,0,0,0,,{\kf198}Is{\kf198} a{\kf210} sign{\kf198} that{\kf198} I{\kf198} fe{\kf198}-eel{\kf198} a{\kf222}li{\kf222}-ive
-Dialogue: 0,0:03:32.21,0:03:33.81,DEFAULT,,0,0,0,,{\kf198}I{\kf242} feel{\kf198} a{\kf254}live
-Dialogue: 0,0:03:36.80,0:03:39.04,DEFAULT,,0,0,0,,{\kf198}And{\kf198} e{\kf214}ven{\kf206} if{\kf206} I{\kf206} change{\kf206} my{\kf222} mind
-Dialogue: 0,0:03:40.03,0:03:42.59,DEFAULT,,0,0,0,,{\kf198}I'm{\kf198} not{\kf202} gon{\kf202}na{\kf230} roll{\kf214} tho{\kf206}-ose{\kf198} di{\kf254}-ice
-Dialogue: 0,0:03:43.22,0:03:48.41,DEFAULT,,0,0,0,,{\kf198}And{\kf214} no{\kf206} one's{\kf214} told{\kf198} me{\kf198}-e{\kf198} o{\kf198}ther{\kf214}wi{\kf214}-i{\kf198}-i{\kf454}-ise
-Dialogue: 0,0:03:49.77,0:03:54.16,DEFAULT,,0,0,0,,{\kf198}O{\kf198}ther{\kf246}wi{\kf438}-i{\kf198}-i{\kf262}-ise
-Dialogue: 0,0:03:54.87,0:03:59.58,DEFAULT,,0,0,0,,{\kf198}O{\kf198}ther{\kf246}wi{\kf414}-i{\kf210}-i{\kf206}-i{\kf262}-ise
-Dialogue: 0,0:03:59.98,0:04:05.01,DEFAULT,,0,0,0,,{\kf198}O{\kf198}ther{\kf246}wi{\kf302}-i{\kf202}-i{\kf286}-i{\kf198}-i{\kf198}-i{\kf314}-ise
+Dialogue: 0,0:00:01.90,0:00:04.45,DEFAULT,,0,0,0,,{\r}{\kf30}Head{\kf12} to{\kf53} hoof,{\kf12} I've{\kf36} ne{\kf12}ver{\kf24} been{\kf18} bet{\kf12}te{\kf46}-er
+Dialogue: 0,0:00:05.09,0:00:07.01,DEFAULT,,0,0,0,,{\r}{\kf11}Bet{\kf11}ter{\kf11} than{\kf34} I{\kf22} feel{\kf34} no{\kf68}-ow
+Dialogue: 0,0:00:07.64,0:00:09.56,DEFAULT,,0,0,0,,{\r}{\kf11}(Bet{\kf11}ter{\kf11} than{\kf34} I{\kf22} feel{\kf34} no{\kf68}-ow)
+Dialogue: 0,0:00:12.11,0:00:14.59,DEFAULT,,0,0,0,,{\r}{\kf12}Feel{\kf24} my{\kf47} pain,{\kf12} and{\kf24} you'd{\kf59} feel{\kf12} no{\kf57}thing
+Dialogue: 0,0:00:15.30,0:00:17.18,DEFAULT,,0,0,0,,{\r}{\kf12}No{\kf12}thing{\kf12} can{\kf24} get{\kf35} me{\kf35} do{\kf58}-own
+Dialogue: 0,0:00:17.86,0:00:19.73,DEFAULT,,0,0,0,,{\r}{\kf12}(No{\kf12}thing{\kf12} can{\kf24} get{\kf35} me{\kf35} do{\kf58}-own)
+Dialogue: 0,0:00:22.01,0:00:24.44,DEFAULT,,0,0,0,,{\r}{\kf12}Now{\kf12} I've{\kf36} told{\kf12} a{\kf36} thou{\kf36}sand{\kf12} li{\kf12}-ies{\kf24} be{\kf12}fo{\kf39}-ore
+Dialogue: 0,0:00:24.72,0:00:27.67,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf14} you{\kf27} hear{\kf48} truth{\kf14} and{\kf14} no{\kf41}-o{\kf14}thi{\kf27}-ing{\kf41} mo{\kf41}-ore
+Dialogue: 0,0:00:27.91,0:00:30.30,DEFAULT,,0,0,0,,{\r}{\kf45}(Truth{\kf13} and{\kf13} no{\kf39}-o{\kf13}thi{\kf26}-ing{\kf39} mo{\kf51}-ore)
+Dialogue: 0,0:00:32.46,0:00:35.01,DEFAULT,,0,0,0,,{\r}{\kf34}Bring{\kf11} the{\kf51} day,{\kf17} I{\kf23} think{\kf57} I'm{\kf17} rea{\kf11}dy{\kf34}-y
+Dialogue: 0,0:00:35.69,0:00:38.04,DEFAULT,,0,0,0,,{\r}{\kf12}Rea{\kf12}dy{\kf12} to{\kf41} o{\kf12}pen{\kf41} my{\kf105} door
+Dialogue: 0,0:00:38.24,0:00:40.04,DEFAULT,,0,0,0,,{\r}{\kf14}(Rea{\kf14}dy{\kf14} to{\kf50} o{\kf14}pen{\kf43} my{\kf31} door)
+Dialogue: 0,0:00:40.20,0:00:42.03,DEFAULT,,0,0,0,,{\r}{\kf32}Whoa{\kf11}-oh{\kf54}-oh{\kf11}-oh{\kf32}-oh{\kf11}-oh{\kf33}-oh
+Dialogue: 0,0:00:43.23,0:00:45.42,DEFAULT,,0,0,0,,{\r}{\kf12}'Cause{\kf12} ev{\kf24}ery{\kf36} step{\kf36} I{\kf36} take{\kf24} out{\kf39}side
+Dialogue: 0,0:00:45.62,0:00:47.86,DEFAULT,,0,0,0,,{\r}{\kf12}Is{\kf12} a{\kf37} sign{\kf12} that{\kf12} I{\kf12} fe{\kf12}-eel{\kf12} a{\kf50}li{\kf52}-ive
+Dialogue: 0,0:00:48.81,0:00:51.33,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf34} feel{\kf11} a{\kf51}live{\kf23} (I{\kf34} feel{\kf11} a{\kf64}live)
+Dialogue: 0,0:00:53.44,0:00:55.68,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf13} e{\kf39}ven{\kf26} if{\kf26} I{\kf26} change{\kf26} my{\kf54} mind
+Dialogue: 0,0:00:56.00,0:00:58.71,DEFAULT,,0,0,0,,{\r}{\kf10}I'm{\kf10} not{\kf16} gon{\kf16}na{\kf52} roll{\kf63} those{\kf10} di{\kf10}-i{\kf84}-ice
+Dialogue: 0,0:00:59.83,0:01:04.29,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf38} no{\kf26} one's{\kf38} told{\kf13} me{\kf13}-e{\kf13} o{\kf13}ther{\kf26}wi{\kf26}-i{\kf26}-i{\kf77}-ise{\kf26} (i{\kf26}-i{\kf73}-ise)
+Dialogue: 0,0:01:05.57,0:01:09.40,DEFAULT,,0,0,0,,{\r}{\kf11}I'll{\kf33} move{\kf17} like{\kf11} a{\kf11} but{\kf11}ter{\kf33}fly{\kf33}-y{\kf28}-y{\kf61}-y{\kf33} (y{\kf33}-y{\kf68}-y)
+Dialogue: 0,0:01:10.68,0:01:14.51,DEFAULT,,0,0,0,,{\r}{\kf11}I'm{\kf34} not{\kf17} gon{\kf17}na{\kf11} co{\kf11}ver{\kf34} my{\kf23} eye{\kf34}-eye{\kf68}-eyes{\kf23} (eye{\kf34}-eye{\kf66}-eyes)
+Dialogue: 0,0:01:14.99,0:01:19.77,DEFAULT,,0,0,0,,{\r}{\kf23}Oh,{\kf29} no{\kf35} one's{\kf35} told{\kf12} me{\kf12}-e{\kf12} o{\kf12}ther{\kf23}wi{\kf23}-i{\kf35}-i{\kf81}-ise{\kf23} (i{\kf35}-i{\kf89}-ise)
+Dialogue: 0,0:01:21.37,0:01:25.12,DEFAULT,,0,0,0,,{\r}{\kf37}Yeah,{\kf37} no{\kf37} one's{\kf37} told{\kf12} me{\kf12}-e{\kf12} o{\kf18}ther{\kf37}wise,{\kf12} o{\kf18}ther{\kf37}wise,{\kf12} o{\kf18}ther{\kf39}wise
+Dialogue: 0,0:01:25.52,0:01:27.67,DEFAULT,,0,0,0,,{\r}{\kf14}O{\kf14}ther{\kf43}wise,{\kf14} o{\kf14}ther{\kf43}wise,{\kf14} o{\kf14}ther{\kf45}wise
+Dialogue: 0,0:01:28.07,0:01:30.22,DEFAULT,,0,0,0,,{\r}{\kf14}O{\kf14}ther{\kf43}wise,{\kf14} o{\kf14}ther{\kf43}wise,{\kf14} o{\kf14}ther{\kf45}wise
+Dialogue: 0,0:01:30.62,0:01:32.02,DEFAULT,,0,0,0,,{\r}{\kf12}O{\kf12}ther{\kf37}wise,{\kf12} o{\kf12}ther{\kf12}wi{\kf43}-ise
+Dialogue: 0,0:01:33.66,0:01:36.41,DEFAULT,,0,0,0,,{\r}{\kf12}Well,{\kf12} I{\kf30} got{\kf54} no{\kf12} rea{\kf12}so{\kf30}-on{\kf24} to{\kf18} wor{\kf71}ry
+Dialogue: 0,0:01:37.01,0:01:38.88,DEFAULT,,0,0,0,,{\r}{\kf11}Wor{\kf11}ry{\kf11} my{\kf34}self{\kf34} a{\kf23}wa{\kf64}-ay
+Dialogue: 0,0:01:39.56,0:01:41.43,DEFAULT,,0,0,0,,{\r}{\kf11}(Wor{\kf11}ry{\kf11} my{\kf34}self{\kf34} a{\kf23}wa{\kf64}-ay)
+Dialogue: 0,0:01:43.87,0:01:46.62,DEFAULT,,0,0,0,,{\r}{\kf12}'Cause{\kf35} in{\kf12} the{\kf47} end,{\kf18} I'm{\kf18} i{\kf23}-in{\kf23} no{\kf18} hur{\kf69}ry
+Dialogue: 0,0:01:47.22,0:01:49.33,DEFAULT,,0,0,0,,{\r}{\kf11}Tak{\kf11}ing{\kf11} my{\kf33} ti{\kf11}-ime{\kf61} to{\kf73}day
+Dialogue: 0,0:01:49.77,0:01:51.89,DEFAULT,,0,0,0,,{\r}{\kf11}(Ta{\kf11}king{\kf11} my{\kf33} ti{\kf11}-ime{\kf61} to{\kf73}day)
+Dialogue: 0,0:01:54.08,0:01:56.39,DEFAULT,,0,0,0,,{\r}{\kf12}A{\kf18} sin{\kf36}gle{\kf59} route{\kf12} and{\kf12} so{\kf12}-o{\kf24} much{\kf12} a{\kf34}-air
+Dialogue: 0,0:01:56.63,0:01:59.59,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf12} I{\kf37} could{\kf61} break,{\kf12} but{\kf12} I{\kf12}~{\kf25} wo{\kf49}-on't{\kf12} da{\kf12}-a{\kf39}-are
+Dialogue: 0,0:01:59.83,0:02:02.22,DEFAULT,,0,0,0,,{\r}{\kf66}(Break,{\kf13} but{\kf13} I{\kf13}~{\kf53} won't{\kf13} da{\kf13}-a{\kf55}-are)
+Dialogue: 0,0:02:04.29,0:02:07.45,DEFAULT,,0,0,0,,{\r}{\kf11}But{\kf34} I'm{\kf11} the{\kf57} on{\kf11}ly{\kf11} o{\kf34}-one{\kf34} who{\kf57} knows{\kf11} the{\kf11} mean{\kf11}ing{\kf22} of
+Dialogue: 0,0:02:07.64,0:02:09.24,DEFAULT,,0,0,0,,{\r}{\kf32}"han{\kf11}dle{\kf11} wi{\kf21}-ith{\kf85} care"
+Dialogue: 0,0:02:09.88,0:02:11.79,DEFAULT,,0,0,0,,{\r}{\kf22}(Of{\kf34} "han{\kf11}dle{\kf11} wi{\kf22}-ith{\kf91} care")
+Dialogue: 0,0:02:12.11,0:02:14.55,DEFAULT,,0,0,0,,{\r}{\kf32}Yeah{\kf11}-e{\kf49}-yeah{\kf11}-e{\kf32}-yea{\kf11}-a{\kf32}-a{\kf65}-ah
+Dialogue: 0,0:02:15.14,0:02:17.30,DEFAULT,,0,0,0,,{\r}{\kf12}'Cause{\kf12} ev{\kf24}ery{\kf36} step{\kf36} I{\kf36} take{\kf24} out{\kf35}side
+Dialogue: 0,0:02:17.54,0:02:19.77,DEFAULT,,0,0,0,,{\r}{\kf12}Is{\kf12} a{\kf37} sign{\kf12} that{\kf12} I{\kf12} fe{\kf12}-eel{\kf12} a{\kf50}li{\kf52}-ive
+Dialogue: 0,0:02:20.73,0:02:23.28,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf33} feel{\kf11} a{\kf55}live{\kf22} (I{\kf33} feel{\kf11} a{\kf68}live)
+Dialogue: 0,0:02:25.36,0:02:27.59,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf13} e{\kf39}ven{\kf26} if{\kf26} I{\kf26} change{\kf26} my{\kf54} mind
+Dialogue: 0,0:02:27.91,0:02:30.62,DEFAULT,,0,0,0,,{\r}{\kf10}I'm{\kf10} not{\kf16} gon{\kf16}na{\kf52} roll{\kf63} those{\kf10} di{\kf10}-i{\kf84}-ice
+Dialogue: 0,0:02:31.74,0:02:36.21,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf38} no{\kf26} one's{\kf38} told{\kf13} me{\kf13}-e{\kf13} o{\kf13}ther{\kf26}wi{\kf26}-i{\kf26}-i{\kf77}-ise{\kf26} (i{\kf26}-i{\kf73}-ise)
+Dialogue: 0,0:02:37.49,0:02:41.31,DEFAULT,,0,0,0,,{\r}{\kf11}I'll{\kf32} move{\kf16} like{\kf11} a{\kf11} but{\kf11}ter{\kf32}fly{\kf32}-y{\kf32}-y{\kf65}-y{\kf32} (y{\kf32}-y{\kf66}-y)
+Dialogue: 0,0:02:42.59,0:02:46.42,DEFAULT,,0,0,0,,{\r}{\kf11}I'm{\kf34} not{\kf17} gon{\kf17}na{\kf11} co{\kf11}ver{\kf34} my{\kf23} eye{\kf34}-eye{\kf68}-eyes{\kf23} (eye{\kf34}-eye{\kf66}-eyes)
+Dialogue: 0,0:02:46.90,0:02:51.69,DEFAULT,,0,0,0,,{\r}{\kf23}Oh,{\kf29} no{\kf35} one's{\kf35} told{\kf12} me{\kf12}-e{\kf12} o{\kf12}ther{\kf23}wi{\kf23}-i{\kf35}-i{\kf81}-ise{\kf23} (i{\kf35}-i{\kf89}-ise)
+Dialogue: 0,0:02:53.28,0:02:57.03,DEFAULT,,0,0,0,,{\r}{\kf39}Yeah,{\kf39} no{\kf39} one's{\kf39} told{\kf13} me{\kf13}-e{\kf13} o{\kf13}ther{\kf39}wise,{\kf13} o{\kf13}ther{\kf39}wise,{\kf13} o{\kf13}ther{\kf37}wise
+Dialogue: 0,0:02:57.43,0:02:59.59,DEFAULT,,0,0,0,,{\r}{\kf14}O{\kf14}ther{\kf43}wise,{\kf14} o{\kf14}ther{\kf43}wise,{\kf14} o{\kf14}ther{\kf45}wise
+Dialogue: 0,0:02:59.99,0:03:02.14,DEFAULT,,0,0,0,,{\r}{\kf14}O{\kf14}ther{\kf43}wise,{\kf14} o{\kf14}ther{\kf43}wise,{\kf14} o{\kf14}ther{\kf45}wise
+Dialogue: 0,0:03:02.54,0:03:03.97,DEFAULT,,0,0,0,,{\r}{\kf12}O{\kf12}ther{\kf36}wise,{\kf12} o{\kf12}ther{\kf12}wi{\kf48}-ise
+Dialogue: 0,0:03:05.09,0:03:07.45,DEFAULT,,0,0,0,,{\r}{\kf39}I'll{\kf26} keep{\kf13} sing{\kf33}ing,{\kf52} no{\kf26} one{\kf26} stop{\kf20} me
+Dialogue: 0,0:03:07.64,0:03:10.00,DEFAULT,,0,0,0,,{\r}{\kf36}I'll{\kf36} keep{\kf12} bring{\kf30}ing{\kf54} on{\kf24} this{\kf12} mel{\kf12}o{\kf19}dy
+Dialogue: 0,0:03:10.20,0:03:12.55,DEFAULT,,0,0,0,,{\r}{\kf38}I'll{\kf25} keep{\kf13} sing{\kf32}ing,{\kf57} no{\kf25} one{\kf25} stop{\kf20} me
+Dialogue: 0,0:03:12.75,0:03:15.10,DEFAULT,,0,0,0,,{\r}{\kf36}I'll{\kf36} keep{\kf12} bring{\kf30}ing{\kf54} on{\kf24} this{\kf12} mel{\kf12}o{\kf19}dy
+Dialogue: 0,0:03:15.30,0:03:17.66,DEFAULT,,0,0,0,,{\r}{\kf27}Da,{\kf27} da,{\kf13} da{\kf34}-da,{\kf60} da{\kf27} da{\kf27} da{\kf20} da
+Dialogue: 0,0:03:17.86,0:03:20.21,DEFAULT,,0,0,0,,{\r}{\kf27}Da,{\kf27} da,{\kf13} da{\kf34}-da,{\kf60} da,{\kf27} da,{\kf13} da{\kf13}-da{\kf21}-da
+Dialogue: 0,0:03:20.41,0:03:22.76,DEFAULT,,0,0,0,,{\r}{\kf27}Da,{\kf27} da,{\kf13} da{\kf34}-da,{\kf60} da{\kf27} da{\kf27} da{\kf20} da
+Dialogue: 0,0:03:22.96,0:03:25.60,DEFAULT,,0,0,0,,{\r}{\kf26}Da,{\kf26} da,{\kf13} da{\kf38}-da,{\kf58} da,{\kf26} da,{\kf13} da{\kf13}-da{\kf13}-da{\kf37}-da
+Dialogue: 0,0:03:26.63,0:03:28.79,DEFAULT,,0,0,0,,{\r}{\kf12}'Cause{\kf12} ev{\kf24}ery{\kf36} step{\kf36} I{\kf36} take{\kf24} out{\kf35}side
+Dialogue: 0,0:03:28.99,0:03:31.22,DEFAULT,,0,0,0,,{\r}{\kf13}Is{\kf13} a{\kf32} sign{\kf13} that{\kf13} I{\kf13} fe{\kf13}-eel{\kf13} a{\kf51}li{\kf49}-ive
+Dialogue: 0,0:03:32.22,0:03:33.81,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf63} feel{\kf10} a{\kf77}live
+Dialogue: 0,0:03:36.81,0:03:39.04,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf13} e{\kf39}ven{\kf26} if{\kf26} I{\kf26} change{\kf26} my{\kf54} mind
+Dialogue: 0,0:03:40.04,0:03:42.59,DEFAULT,,0,0,0,,{\r}{\kf11}I'm{\kf11} not{\kf16} gon{\kf16}na{\kf53} roll{\kf32} tho{\kf21}-ose{\kf11} di{\kf84}-ice
+Dialogue: 0,0:03:43.23,0:03:48.42,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf29} no{\kf20} one's{\kf29} told{\kf10} me{\kf10}-e{\kf10} o{\kf10}ther{\kf29}wi{\kf29}-i{\kf10}-i{\kf323}-ise
+Dialogue: 0,0:03:49.77,0:03:54.16,DEFAULT,,0,0,0,,{\r}{\kf10}O{\kf10}ther{\kf61}wi{\kf272}-i{\kf10}-i{\kf76}-ise
+Dialogue: 0,0:03:54.88,0:03:59.59,DEFAULT,,0,0,0,,{\r}{\kf10}O{\kf10}ther{\kf65}wi{\kf261}-i{\kf23}-i{\kf19}-i{\kf83}-ise
+Dialogue: 0,0:03:59.99,0:04:05.01,DEFAULT,,0,0,0,,{\r}{\kf10}O{\kf10}ther{\kf65}wi{\kf130}-i{\kf14}-i{\kf112}-i{\kf10}-i{\kf10}-i{\kf142}-ise

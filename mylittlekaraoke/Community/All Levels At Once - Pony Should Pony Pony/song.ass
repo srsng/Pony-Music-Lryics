@@ -1,80 +1,87 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Pony Should Pony Pony
+Artist: All Levels at Once
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:12.06,0:00:12.81,DEFAULT,,0,0,0,,{\kf7}Come{\kf13} on{\kf13} you{\kf25} guys
-Dialogue: 0,0:00:13.12,0:00:14.37,DEFAULT,,0,0,0,,{\kf13}Let's{\kf13} show{\kf7} them{\kf13} how{\kf13} to{\kf19} par{\kf19}ty
-Dialogue: 0,0:00:14.56,0:00:15.68,DEFAULT,,0,0,0,,{\kf25}Po{\kf19}ny{\kf19}ville{\kf44} style
-Dialogue: 0,0:00:15.99,0:00:16.87,DEFAULT,,0,0,0,,{\kf13}Come{\kf13} on{\kf7} you{\kf38} guys
-Dialogue: 0,0:00:16.99,0:00:19.43,DEFAULT,,0,0,0,,{\kf13}Let's{\kf7} show{\kf13} 'em{\kf19} how{\kf13} to{\kf32} par{\kf19}ty{\kf19} on{\kf19} the{\kf44} go
-Dialogue: 0,0:00:19.99,0:00:22.43,DEFAULT,,0,0,0,,{\kf19}They{\kf13} won't{\kf19} mind{\kf19} if{\kf13} we{\kf19} check{\kf19} the{\kf25} par{\kf13}ty{\kf38} too
-Dialogue: 0,0:00:24.24,0:00:26.18,DEFAULT,,0,0,0,,{\kf19}I'll{\kf19} be{\kf13} the{\kf38} toast{\kf25} of{\kf19} the{\kf25} town
-Dialogue: 0,0:00:26.37,0:00:27.93,DEFAULT,,0,0,0,,{\kf7}The{\kf44} girl{\kf38} on{\kf25} the{\kf19} go
-Dialogue: 0,0:00:28.06,0:00:31.74,DEFAULT,,0,0,0,,{\kf13}I'll{\kf13} be{\kf19} the{\kf50} po{\kf25}ny{\kf25} e{\kf25}very{\kf25}po{\kf25}ny{\kf19} po{\kf25}ny{\kf32}~{\kf32} should
-Dialogue: 0,0:00:31.99,0:00:33.93,DEFAULT,,0,0,0,,{\kf25}Po{\kf19}ny{\kf25} po{\kf19}ny{\kf50} po{\kf25}~{\kf19}ny
-Dialogue: 0,0:00:34.06,0:00:35.93,DEFAULT,,0,0,0,,{\kf19}Po{\kf19}ny{\kf32} should{\kf25} po{\kf19}ny{\kf25} po{\kf19}ny
-Dialogue: 0,0:00:36.06,0:00:37.93,DEFAULT,,0,0,0,,{\kf19}Po{\kf19}ny{\kf25} po{\kf19}ny{\kf50} po{\kf25}~{\kf19}ny
-Dialogue: 0,0:00:38.06,0:00:39.93,DEFAULT,,0,0,0,,{\kf19}Po{\kf19}ny{\kf38} should{\kf25} po{\kf19}ny{\kf25} po{\kf19}ny
-Dialogue: 0,0:00:47.99,0:00:49.18,DEFAULT,,0,0,0,,{\kf19}I'm{\kf13} gon{\kf7}na{\kf25} make{\kf13} you{\kf19} smile
-Dialogue: 0,0:00:49.31,0:00:51.62,DEFAULT,,0,0,0,,{\kf13}And{\kf19} I{\kf19} will{\kf25} bright{\kf19}en{\kf19} up{\kf19} your{\kf63} day
-Dialogue: 0,0:00:51.81,0:00:53.24,DEFAULT,,0,0,0,,{\kf19}Cause{\kf25} cheer{\kf13}ing{\kf19} up{\kf19} my{\kf25} friends
-Dialogue: 0,0:00:53.31,0:00:55.62,DEFAULT,,0,0,0,,{\kf13}Is{\kf19} just{\kf19} to{\kf19} make{\kf19} it{\kf19} up{\kf19} to{\kf63} you
-Dialogue: 0,0:00:55.99,0:00:57.18,DEFAULT,,0,0,0,,{\kf19}I'm{\kf19} gon{\kf7}na{\kf13} make{\kf19} you{\kf19} smile
-Dialogue: 0,0:00:57.31,0:00:59.62,DEFAULT,,0,0,0,,{\kf19}And{\kf19} I{\kf13} will{\kf25} bright{\kf19}en{\kf19} up{\kf19} your{\kf63} day
-Dialogue: 0,0:00:59.81,0:01:01.24,DEFAULT,,0,0,0,,{\kf19}Cause{\kf25} cheer{\kf19}ing{\kf19} up{\kf19} my{\kf19} friends
-Dialogue: 0,0:01:01.37,0:01:03.68,DEFAULT,,0,0,0,,{\kf13}Is{\kf19} just{\kf19} what{\kf19} friends{\kf19} are{\kf19} meant{\kf19} to{\kf63} do
-Dialogue: 0,0:01:19.99,0:01:21.99,DEFAULT,,0,0,0,,{\kf50}We've{\kf32} grown{\kf25} close{\kf25} to{\kf32}ge{\kf19}ther
-Dialogue: 0,0:01:22.12,0:01:23.99,DEFAULT,,0,0,0,,{\kf38}Har{\kf38}mo{\kf25}nize{\kf25} for{\kf25}e{\kf25}ver
-Dialogue: 0,0:01:24.12,0:01:25.99,DEFAULT,,0,0,0,,{\kf38}Some{\kf32}thing{\kf25} real{\kf25} we've{\kf32} start{\kf19}ed
-Dialogue: 0,0:01:26.24,0:01:27.99,DEFAULT,,0,0,0,,{\kf19}Hey{\kf19} hey,{\kf13} because{\kf19} we're{\kf19} all{\kf7} a{\kf19} part{\kf19} of-
-Dialogue: 0,0:01:28.18,0:01:34.12,DEFAULT,,0,0,0,,{\kf32}This{\kf38} could{\kf25} be{\kf19}~{\kf19} the{\kf44} next{\kf38} big{\kf32} ad{\kf44}ven{\kf32}ture{\kf238}~
-Dialogue: 0,0:01:37.93,0:01:38.93,DEFAULT,,0,0,0,,{\kf13}Come{\kf19} on{\kf13} you{\kf38} guys
-Dialogue: 0,0:01:38.99,0:01:41.49,DEFAULT,,0,0,0,,{\kf13}Let's{\kf13} show{\kf13} 'em{\kf13} how{\kf19} to{\kf25} par{\kf19}ty{\kf19} on{\kf19} the{\kf50} go
-Dialogue: 0,0:01:41.93,0:01:44.49,DEFAULT,,0,0,0,,{\kf25}They{\kf19} won't{\kf13} mind{\kf19} if{\kf7} we{\kf19} check{\kf25} the{\kf19} par{\kf13}ty{\kf44} too
-Dialogue: 0,0:01:46.31,0:01:48.18,DEFAULT,,0,0,0,,{\kf13}I'll{\kf19} be{\kf19} the{\kf32} toast{\kf25} of{\kf19} the{\kf19} town
-Dialogue: 0,0:01:48.37,0:01:49.87,DEFAULT,,0,0,0,,{\kf13}The{\kf32} girl{\kf32} on{\kf25} the{\kf13} go
-Dialogue: 0,0:01:50.06,0:01:53.74,DEFAULT,,0,0,0,,{\kf13}I'll{\kf13} be{\kf19} the{\kf50} po{\kf25}ny{\kf19} e{\kf25}very{\kf25}po{\kf19}ny{\kf25} po{\kf13}ny{\kf25}~{\kf38} should
-Dialogue: 0,0:01:54.12,0:01:55.87,DEFAULT,,0,0,0,,{\kf19}Po{\kf19}ny{\kf19} po{\kf19}ny{\kf50} po{\kf25}~{\kf13}ny
-Dialogue: 0,0:01:56.06,0:01:57.93,DEFAULT,,0,0,0,,{\kf19}Po{\kf19}ny{\kf38} should{\kf25} po{\kf19}ny{\kf25} po{\kf19}ny
-Dialogue: 0,0:01:58.12,0:01:59.87,DEFAULT,,0,0,0,,{\kf19}Po{\kf19}ny{\kf19} po{\kf19}ny{\kf50} po{\kf25}~{\kf13}ny
-Dialogue: 0,0:02:00.06,0:02:01.87,DEFAULT,,0,0,0,,{\kf19}Po{\kf19}ny{\kf32} should{\kf25} po{\kf19}ny{\kf25} po{\kf13}ny
-Dialogue: 0,0:02:01.99,0:02:03.93,DEFAULT,,0,0,0,,{\kf25}Po{\kf25}ny{\kf25} po{\kf19}ny{\kf50} po{\kf25}~{\kf13}ny
-Dialogue: 0,0:02:04.12,0:02:05.93,DEFAULT,,0,0,0,,{\kf19}Po{\kf19}ny{\kf32} should{\kf25} po{\kf19}ny{\kf25} po{\kf13}ny
-Dialogue: 0,0:02:06.06,0:02:07.93,DEFAULT,,0,0,0,,{\kf25}Po{\kf19}ny{\kf25} po{\kf19}ny{\kf44} po{\kf25}~{\kf19}ny
-Dialogue: 0,0:02:08.12,0:02:09.99,DEFAULT,,0,0,0,,{\kf25}Po{\kf13}ny{\kf32} should{\kf25} po{\kf19}ny{\kf25} po{\kf19}ny
-Dialogue: 0,0:02:22.12,0:02:22.87,DEFAULT,,0,0,0,,{\kf7}Come{\kf13} on{\kf7} you{\kf32} guys
-Dialogue: 0,0:02:23.12,0:02:24.43,DEFAULT,,0,0,0,,{\kf13}Let's{\kf13} show{\kf13} them{\kf13} how{\kf13} to{\kf25} par{\kf13}ty
-Dialogue: 0,0:02:24.62,0:02:25.68,DEFAULT,,0,0,0,,{\kf19}Po{\kf19}ny{\kf25}ville{\kf38} style
-Dialogue: 0,0:02:26.06,0:02:29.56,DEFAULT,,0,0,0,,{\kf19}I{\kf19} don't{\kf19} see{\kf19} what{\kf32} all{\kf19} of{\kf19} this{\kf19} fuss{\kf19} is{\kf19} all{\kf25} a{\kf50}bout
-Dialogue: 0,0:02:29.81,0:02:31.62,DEFAULT,,0,0,0,,{\kf19}She{\kf19} sends{\kf19} me{\kf19} down{\kf19} to{\kf25} Po{\kf19}ny{\kf13}ville
-Dialogue: 0,0:02:31.81,0:02:33.56,DEFAULT,,0,0,0,,{\kf19}So{\kf19} I{\kf19} can{\kf19} try{\kf19} it{\kf50} out
-Dialogue: 0,0:02:33.81,0:02:35.18,DEFAULT,,0,0,0,,{\kf19}For{\kf19} years{\kf19} we've{\kf19} all{\kf19} been{\kf13} fine
-Dialogue: 0,0:02:35.31,0:02:37.49,DEFAULT,,0,0,0,,{\kf32}With{\kf25}out{\kf19} a{\kf19}ny{\kf19} po{\kf19}ny{\kf44} friends
-Dialogue: 0,0:02:37.81,0:02:39.37,DEFAULT,,0,0,0,,{\kf13}Since{\kf19} when{\kf19} have{\kf19} things{\kf19} like{\kf25} friend{\kf13}ship
-Dialogue: 0,0:02:39.62,0:02:41.62,DEFAULT,,0,0,0,,{\kf19}Real{\kf19}ly{\kf19} stuck{\kf19} it{\kf19} 'till{\kf19} the{\kf57} end?
-Dialogue: 0,0:02:42.06,0:02:43.93,DEFAULT,,0,0,0,,{\kf25}Po{\kf19}ny{\kf25} po{\kf19}ny{\kf50} po{\kf25}~{\kf13}ny
-Dialogue: 0,0:02:44.12,0:02:45.93,DEFAULT,,0,0,0,,{\kf19}Po{\kf13}ny{\kf32} should{\kf25} po{\kf19}ny{\kf25} po{\kf13}ny
-Dialogue: 0,0:02:46.12,0:02:47.93,DEFAULT,,0,0,0,,{\kf19}Po{\kf19}ny{\kf25} po{\kf19}ny{\kf50} po{\kf25}~{\kf13}ny
-Dialogue: 0,0:02:48.06,0:02:49.93,DEFAULT,,0,0,0,,{\kf19}Po{\kf19}ny{\kf32} should{\kf25} po{\kf19}ny{\kf25} po{\kf13}ny
-Dialogue: 0,0:02:50.12,0:02:51.93,DEFAULT,,0,0,0,,{\kf19}Po{\kf19}ny{\kf25} po{\kf19}ny{\kf50} po{\kf25}~{\kf13}ny
-Dialogue: 0,0:02:52.12,0:02:53.93,DEFAULT,,0,0,0,,{\kf19}Po{\kf19}ny{\kf32} should{\kf25} po{\kf19}ny{\kf25} po{\kf13}ny
-Dialogue: 0,0:02:54.18,0:02:56.12,DEFAULT,,0,0,0,,{\kf19}Po{\kf13}ny{\kf25} po{\kf13}ny{\kf50} po{\kf25}~{\kf32}ny
-Dialogue: 0,0:02:58.06,0:02:59.99,DEFAULT,,0,0,0,,{\kf25}Po{\kf19}ny{\kf25} po{\kf19}ny{\kf50} po{\kf25}~{\kf19}ny
-Dialogue: 0,0:03:00.12,0:03:01.87,DEFAULT,,0,0,0,,{\kf19}Po{\kf19}ny{\kf25} should{\kf25} po{\kf19}ny{\kf25} po{\kf13}ny
-Dialogue: 0,0:03:02.06,0:03:03.93,DEFAULT,,0,0,0,,{\kf25}Po{\kf19}ny{\kf25} po{\kf19}ny{\kf50} po{\kf25}~{\kf13}ny
-Dialogue: 0,0:03:04.12,0:03:06.06,DEFAULT,,0,0,0,,{\kf19}Po{\kf19}ny{\kf38} should{\kf25} po{\kf19}ny{\kf25} po{\kf25}ny
-Dialogue: 0,0:03:14.06,0:03:15.93,DEFAULT,,0,0,0,,{\kf25}Po{\kf19}ny{\kf25} po{\kf19}ny{\kf50} po{\kf25}~{\kf13}ny
-Dialogue: 0,0:03:16.12,0:03:17.93,DEFAULT,,0,0,0,,{\kf19}Po{\kf19}ny{\kf32} should{\kf25} po{\kf19}ny{\kf25} po{\kf13}ny
-Dialogue: 0,0:03:18.12,0:03:19.93,DEFAULT,,0,0,0,,{\kf19}Po{\kf19}ny{\kf25} po{\kf19}ny{\kf50} po{\kf25}~{\kf13}ny
-Dialogue: 0,0:03:20.12,0:03:21.93,DEFAULT,,0,0,0,,{\kf19}Po{\kf19}ny{\kf32} should{\kf25} po{\kf19}ny{\kf25} po{\kf13}ny
-Dialogue: 0,0:03:22.12,0:03:23.93,DEFAULT,,0,0,0,,{\kf19}Po{\kf19}ny{\kf25} po{\kf19}ny{\kf50} po{\kf25}~{\kf13}ny
-Dialogue: 0,0:03:24.12,0:03:25.93,DEFAULT,,0,0,0,,{\kf19}Po{\kf19}ny{\kf32} should{\kf25} po{\kf19}ny{\kf25} po{\kf13}ny
-Dialogue: 0,0:03:26.12,0:03:27.87,DEFAULT,,0,0,0,,{\kf19}Po{\kf19}ny{\kf25} po{\kf19}ny{\kf44} po{\kf25}~{\kf13}ny
-Dialogue: 0,0:03:27.99,0:03:29.99,DEFAULT,,0,0,0,,{\kf19}Po{\kf19}ny{\kf32} should{\kf25} po{\kf19}ny{\kf25} po{\kf25}ny
+Dialogue: 0,0:00:12.06,0:00:12.81,DEFAULT,,0,0,0,,{\r}{\kf10}Come{\kf17} on{\kf17} you{\kf31} guys
+Dialogue: 0,0:00:13.12,0:00:14.37,DEFAULT,,0,0,0,,{\r}{\kf17}Let's{\kf17} show{\kf10} them{\kf17} how{\kf17} to{\kf25} par{\kf22}ty
+Dialogue: 0,0:00:14.56,0:00:15.69,DEFAULT,,0,0,0,,{\r}{\kf26}Po{\kf20}ny{\kf20}ville{\kf46} style
+Dialogue: 0,0:00:16.00,0:00:16.87,DEFAULT,,0,0,0,,{\r}{\kf16}Come{\kf16} on{\kf10} you{\kf45} guys
+Dialogue: 0,0:00:17.00,0:00:19.44,DEFAULT,,0,0,0,,{\r}{\kf16}Let's{\kf10} show{\kf16} 'em{\kf24} how{\kf16} to{\kf39} par{\kf24}ty{\kf24} on{\kf24} the{\kf51} go
+Dialogue: 0,0:00:20.00,0:00:22.44,DEFAULT,,0,0,0,,{\r}{\kf24}They{\kf16} won't{\kf24} mind{\kf24} if{\kf16} we{\kf24} check{\kf24} the{\kf31} par{\kf16}ty{\kf45} too
+Dialogue: 0,0:00:24.25,0:00:26.19,DEFAULT,,0,0,0,,{\r}{\kf23}I'll{\kf23} be{\kf16} the{\kf47} toast{\kf31} of{\kf23} the{\kf31} town
+Dialogue: 0,0:00:26.37,0:00:27.94,DEFAULT,,0,0,0,,{\r}{\kf10}The{\kf52} girl{\kf45} on{\kf30} the{\kf19} go
+Dialogue: 0,0:00:28.06,0:00:31.75,DEFAULT,,0,0,0,,{\r}{\kf14}I'll{\kf14} be{\kf21} the{\kf57} po{\kf28}ny{\kf28} e{\kf28}very{\kf28}po{\kf28}ny{\kf21} po{\kf28}ny{\kf35}~{\kf39} should
+Dialogue: 0,0:00:32.00,0:00:33.94,DEFAULT,,0,0,0,,{\r}{\kf27}Po{\kf20}ny{\kf27} po{\kf20}ny{\kf54} po{\kf27}~{\kf19}ny
+Dialogue: 0,0:00:34.06,0:00:35.94,DEFAULT,,0,0,0,,{\r}{\kf23}Po{\kf23}ny{\kf38} should{\kf30} po{\kf23}ny{\kf30} po{\kf21}ny
+Dialogue: 0,0:00:36.06,0:00:37.94,DEFAULT,,0,0,0,,{\r}{\kf20}Po{\kf20}ny{\kf27} po{\kf20}ny{\kf54} po{\kf27}~{\kf20}ny
+Dialogue: 0,0:00:38.06,0:00:39.94,DEFAULT,,0,0,0,,{\r}{\kf22}Po{\kf22}ny{\kf43} should{\kf29} po{\kf22}ny{\kf29} po{\kf21}ny
+Dialogue: 0,0:00:48.00,0:00:49.19,DEFAULT,,0,0,0,,{\r}{\kf24}I'm{\kf16} gon{\kf10}na{\kf32} make{\kf16} you{\kf21} smile
+Dialogue: 0,0:00:49.31,0:00:51.62,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf22} I{\kf22} will{\kf30} bright{\kf22}en{\kf22} up{\kf22} your{\kf76} day
+Dialogue: 0,0:00:51.81,0:00:53.25,DEFAULT,,0,0,0,,{\r}{\kf23}Cause{\kf30} cheer{\kf15}ing{\kf23} up{\kf23} my{\kf30} friends
+Dialogue: 0,0:00:53.31,0:00:55.62,DEFAULT,,0,0,0,,{\r}{\kf15}Is{\kf23} just{\kf23} to{\kf23} make{\kf23} it{\kf23} up{\kf23} to{\kf78} you
+Dialogue: 0,0:00:56.00,0:00:57.19,DEFAULT,,0,0,0,,{\r}{\kf24}I'm{\kf24} gon{\kf10}na{\kf16} make{\kf24} you{\kf21} smile
+Dialogue: 0,0:00:57.31,0:00:59.62,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} I{\kf15} will{\kf30} bright{\kf22}en{\kf22} up{\kf22} your{\kf76} day
+Dialogue: 0,0:00:59.81,0:01:01.25,DEFAULT,,0,0,0,,{\r}{\kf23}Cause{\kf30} cheer{\kf23}ing{\kf23} up{\kf23} my{\kf22} friends
+Dialogue: 0,0:01:01.37,0:01:03.69,DEFAULT,,0,0,0,,{\r}{\kf15}Is{\kf23} just{\kf23} what{\kf23} friends{\kf23} are{\kf23} meant{\kf23} to{\kf78} do
+Dialogue: 0,0:01:20.00,0:01:22.00,DEFAULT,,0,0,0,,{\r}{\kf55}We've{\kf34} grown{\kf28} close{\kf28} to{\kf34}ge{\kf21}ther
+Dialogue: 0,0:01:22.12,0:01:24.00,DEFAULT,,0,0,0,,{\r}{\kf40}Har{\kf40}mo{\kf27}nize{\kf27} for{\kf27}e{\kf27}ver
+Dialogue: 0,0:01:24.12,0:01:26.00,DEFAULT,,0,0,0,,{\r}{\kf42}Some{\kf35}thing{\kf28} real{\kf28} we've{\kf35} start{\kf20}ed
+Dialogue: 0,0:01:26.25,0:01:28.00,DEFAULT,,0,0,0,,{\r}{\kf25}Hey{\kf25} hey,{\kf17} because{\kf25} we're{\kf25} all{\kf10} a{\kf25} part{\kf23} of-
+Dialogue: 0,0:01:28.19,0:01:34.12,DEFAULT,,0,0,0,,{\r}{\kf33}This{\kf40} could{\kf27} be{\kf20}~{\kf20} the{\kf47} next{\kf40} big{\kf33} ad{\kf47}ven{\kf33}ture{\kf254}~
+Dialogue: 0,0:01:37.94,0:01:38.94,DEFAULT,,0,0,0,,{\r}{\kf15}Come{\kf23} on{\kf15} you{\kf47} guys
+Dialogue: 0,0:01:39.00,0:01:41.50,DEFAULT,,0,0,0,,{\r}{\kf16}Let's{\kf16} show{\kf16} 'em{\kf16} how{\kf23} to{\kf31} par{\kf23}ty{\kf23} on{\kf23} the{\kf63} go
+Dialogue: 0,0:01:41.94,0:01:44.50,DEFAULT,,0,0,0,,{\r}{\kf32}They{\kf24} won't{\kf16} mind{\kf24} if{\kf10} we{\kf24} check{\kf32} the{\kf24} par{\kf16}ty{\kf54} too
+Dialogue: 0,0:01:46.31,0:01:48.19,DEFAULT,,0,0,0,,{\r}{\kf16}I'll{\kf25} be{\kf25} the{\kf41} toast{\kf33} of{\kf25} the{\kf23} town
+Dialogue: 0,0:01:48.37,0:01:49.87,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf42} girl{\kf42} on{\kf33} the{\kf16} go
+Dialogue: 0,0:01:50.06,0:01:53.75,DEFAULT,,0,0,0,,{\r}{\kf15}I'll{\kf15} be{\kf23} the{\kf60} po{\kf30}ny{\kf23} e{\kf30}very{\kf30}po{\kf23}ny{\kf30} po{\kf15}ny{\kf30}~{\kf45} should
+Dialogue: 0,0:01:54.12,0:01:55.87,DEFAULT,,0,0,0,,{\r}{\kf20}Po{\kf20}ny{\kf20} po{\kf20}ny{\kf54} po{\kf27}~{\kf14}ny
+Dialogue: 0,0:01:56.06,0:01:57.94,DEFAULT,,0,0,0,,{\r}{\kf22}Po{\kf22}ny{\kf43} should{\kf29} po{\kf22}ny{\kf29} po{\kf21}ny
+Dialogue: 0,0:01:58.12,0:01:59.87,DEFAULT,,0,0,0,,{\r}{\kf20}Po{\kf20}ny{\kf20} po{\kf20}ny{\kf54} po{\kf27}~{\kf14}ny
+Dialogue: 0,0:02:00.06,0:02:01.87,DEFAULT,,0,0,0,,{\r}{\kf23}Po{\kf23}ny{\kf38} should{\kf30} po{\kf23}ny{\kf30} po{\kf14}ny
+Dialogue: 0,0:02:02.00,0:02:03.94,DEFAULT,,0,0,0,,{\r}{\kf27}Po{\kf27}ny{\kf27} po{\kf20}ny{\kf54} po{\kf27}~{\kf12}ny
+Dialogue: 0,0:02:04.12,0:02:05.94,DEFAULT,,0,0,0,,{\r}{\kf23}Po{\kf23}ny{\kf38} should{\kf30} po{\kf23}ny{\kf30} po{\kf14}ny
+Dialogue: 0,0:02:06.06,0:02:07.94,DEFAULT,,0,0,0,,{\r}{\kf27}Po{\kf20}ny{\kf27} po{\kf20}ny{\kf47} po{\kf27}~{\kf20}ny
+Dialogue: 0,0:02:08.12,0:02:10.00,DEFAULT,,0,0,0,,{\r}{\kf30}Po{\kf15}ny{\kf38} should{\kf30} po{\kf23}ny{\kf30} po{\kf22}ny
+Dialogue: 0,0:02:22.12,0:02:22.87,DEFAULT,,0,0,0,,{\r}{\kf10}Come{\kf17} on{\kf10} you{\kf38} guys
+Dialogue: 0,0:02:23.12,0:02:24.44,DEFAULT,,0,0,0,,{\r}{\kf16}Let's{\kf16} show{\kf16} them{\kf16} how{\kf16} to{\kf33} par{\kf18}ty
+Dialogue: 0,0:02:24.62,0:02:25.69,DEFAULT,,0,0,0,,{\r}{\kf20}Po{\kf20}ny{\kf26}ville{\kf40} style
+Dialogue: 0,0:02:26.06,0:02:29.56,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} don't{\kf24} see{\kf24} what{\kf40} all{\kf24} of{\kf24} this{\kf24} fuss{\kf24} is{\kf24} all{\kf32} a{\kf62}bout
+Dialogue: 0,0:02:29.81,0:02:31.62,DEFAULT,,0,0,0,,{\r}{\kf23}She{\kf23} sends{\kf23} me{\kf23} down{\kf23} to{\kf30} Po{\kf23}ny{\kf13}ville
+Dialogue: 0,0:02:31.81,0:02:33.56,DEFAULT,,0,0,0,,{\r}{\kf23}So{\kf23} I{\kf23} can{\kf23} try{\kf23} it{\kf60} out
+Dialogue: 0,0:02:33.81,0:02:35.19,DEFAULT,,0,0,0,,{\r}{\kf24}For{\kf24} years{\kf24} we've{\kf24} all{\kf24} been{\kf18} fine
+Dialogue: 0,0:02:35.31,0:02:37.50,DEFAULT,,0,0,0,,{\r}{\kf39}With{\kf31}out{\kf23} a{\kf23}ny{\kf23} po{\kf23}ny{\kf57} friends
+Dialogue: 0,0:02:37.81,0:02:39.37,DEFAULT,,0,0,0,,{\r}{\kf16}Since{\kf23} when{\kf23} have{\kf23} things{\kf23} like{\kf31} friend{\kf17}ship
+Dialogue: 0,0:02:39.62,0:02:41.62,DEFAULT,,0,0,0,,{\r}{\kf22}Real{\kf22}ly{\kf22} stuck{\kf22} it{\kf22} 'till{\kf22} the{\kf68} end?
+Dialogue: 0,0:02:42.06,0:02:43.94,DEFAULT,,0,0,0,,{\r}{\kf27}Po{\kf20}ny{\kf27} po{\kf20}ny{\kf54} po{\kf27}~{\kf13}ny
+Dialogue: 0,0:02:44.12,0:02:45.94,DEFAULT,,0,0,0,,{\r}{\kf24}Po{\kf16}ny{\kf39} should{\kf31} po{\kf24}ny{\kf31} po{\kf16}ny
+Dialogue: 0,0:02:46.12,0:02:47.94,DEFAULT,,0,0,0,,{\r}{\kf20}Po{\kf20}ny{\kf27} po{\kf20}ny{\kf54} po{\kf27}~{\kf13}ny
+Dialogue: 0,0:02:48.06,0:02:49.94,DEFAULT,,0,0,0,,{\r}{\kf24}Po{\kf24}ny{\kf39} should{\kf31} po{\kf24}ny{\kf31} po{\kf15}ny
+Dialogue: 0,0:02:50.12,0:02:51.94,DEFAULT,,0,0,0,,{\r}{\kf20}Po{\kf20}ny{\kf27} po{\kf20}ny{\kf54} po{\kf27}~{\kf13}ny
+Dialogue: 0,0:02:52.12,0:02:53.94,DEFAULT,,0,0,0,,{\r}{\kf23}Po{\kf23}ny{\kf38} should{\kf30} po{\kf23}ny{\kf30} po{\kf14}ny
+Dialogue: 0,0:02:54.19,0:02:56.12,DEFAULT,,0,0,0,,{\r}{\kf21}Po{\kf14}ny{\kf28} po{\kf14}ny{\kf55} po{\kf28}~{\kf34}ny
+Dialogue: 0,0:02:58.06,0:02:60.00,DEFAULT,,0,0,0,,{\r}{\kf27}Po{\kf20}ny{\kf27} po{\kf20}ny{\kf54} po{\kf27}~{\kf19}ny
+Dialogue: 0,0:03:00.12,0:03:01.87,DEFAULT,,0,0,0,,{\r}{\kf23}Po{\kf23}ny{\kf30} should{\kf30} po{\kf23}ny{\kf30} po{\kf16}ny
+Dialogue: 0,0:03:02.06,0:03:03.94,DEFAULT,,0,0,0,,{\r}{\kf27}Po{\kf20}ny{\kf27} po{\kf20}ny{\kf54} po{\kf27}~{\kf13}ny
+Dialogue: 0,0:03:04.12,0:03:06.06,DEFAULT,,0,0,0,,{\r}{\kf22}Po{\kf22}ny{\kf43} should{\kf29} po{\kf22}ny{\kf29} po{\kf27}ny
+Dialogue: 0,0:03:14.06,0:03:15.94,DEFAULT,,0,0,0,,{\r}{\kf27}Po{\kf20}ny{\kf27} po{\kf20}ny{\kf54} po{\kf27}~{\kf13}ny
+Dialogue: 0,0:03:16.12,0:03:17.94,DEFAULT,,0,0,0,,{\r}{\kf23}Po{\kf23}ny{\kf38} should{\kf30} po{\kf23}ny{\kf30} po{\kf14}ny
+Dialogue: 0,0:03:18.12,0:03:19.94,DEFAULT,,0,0,0,,{\r}{\kf20}Po{\kf20}ny{\kf27} po{\kf20}ny{\kf54} po{\kf27}~{\kf13}ny
+Dialogue: 0,0:03:20.12,0:03:21.94,DEFAULT,,0,0,0,,{\r}{\kf23}Po{\kf23}ny{\kf38} should{\kf30} po{\kf23}ny{\kf30} po{\kf14}ny
+Dialogue: 0,0:03:22.12,0:03:23.94,DEFAULT,,0,0,0,,{\r}{\kf20}Po{\kf20}ny{\kf27} po{\kf20}ny{\kf54} po{\kf27}~{\kf13}ny
+Dialogue: 0,0:03:24.12,0:03:25.94,DEFAULT,,0,0,0,,{\r}{\kf23}Po{\kf23}ny{\kf38} should{\kf30} po{\kf23}ny{\kf30} po{\kf14}ny
+Dialogue: 0,0:03:26.12,0:03:27.87,DEFAULT,,0,0,0,,{\r}{\kf20}Po{\kf20}ny{\kf27} po{\kf20}ny{\kf47} po{\kf27}~{\kf14}ny
+Dialogue: 0,0:03:28.00,0:03:30.00,DEFAULT,,0,0,0,,{\r}{\kf23}Po{\kf23}ny{\kf38} should{\kf31} po{\kf23}ny{\kf31} po{\kf31}ny

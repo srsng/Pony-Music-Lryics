@@ -1,41 +1,48 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Millennium Alone (Luna)
+Artist: Cyril the Wolf
+Original Timing: mylittlekaraoke.com by Steven Knapp, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.46,0:00:21.15,DEFAULT,,0,0,0,,{\kf54}Eve{\kf27}ry{\kf50} time{\kf27} your{\kf20} sun{\kf96} sets{\kf20} do{\kf23} you{\kf39} feel{\kf31} re{\kf115}gret
-Dialogue: 0,0:00:21.72,0:00:26.16,DEFAULT,,0,0,0,,{\kf23}For{\kf23} what{\kf31} hap{\kf12}pened{\kf23} in{\kf54} cen{\kf35}tu{\kf23}ries{\kf131} past
-Dialogue: 0,0:00:28.11,0:00:34.26,DEFAULT,,0,0,0,,{\kf12}Has{\kf20} your{\kf12} spir{\kf27}it{\kf27} grown{\kf108} cold{\kf20} like{\kf20} her{\kf31} lu{\kf23}nar{\kf153} mold?
-Dialogue: 0,0:00:34.49,0:00:39.27,DEFAULT,,0,0,0,,{\kf20}Do{\kf20} you{\kf27} know{\kf46} why{\kf66} she{\kf35} chose{\kf54} that{\kf123} path?
-Dialogue: 0,0:00:40.73,0:00:46.77,DEFAULT,,0,0,0,,{\kf12}Mil{\kf12}len{\kf31}ni{\kf54}um{\kf23} a{\kf23}lone{\kf115}~{\kf12} Lu{\kf23}na{\kf54} payed{\kf35} her{\kf108} debt
-Dialogue: 0,0:00:47.26,0:00:57.74,DEFAULT,,0,0,0,,{\kf20}On{\kf27} the{\kf35} moon{\kf23} she{\kf23} owned{\kf77}~{\kf12} mov{\kf12}ing{\kf23} tides{\kf27}~{\kf50} as{\kf20} she{\kf329} wept{\kf81}~{\kf111}~
-Dialogue: 0,0:00:58.58,0:01:04.13,DEFAULT,,0,0,0,,{\kf150}Oh{\kf12} Lu{\kf134}~{\kf238}na
-Dialogue: 0,0:01:04.59,0:01:13.42,DEFAULT,,0,0,0,,{\kf39}Ah{\kf295}~{\kf20}~{\kf123}~{\kf16}~{\kf287}~{\kf50}~{\kf58}~
-Dialogue: 0,0:01:15.68,0:01:21.60,DEFAULT,,0,0,0,,{\kf12}Eve{\kf12}ry{\kf27} time{\kf12} the{\kf54} moon{\kf23} is{\kf88} full{\kf27} can{\kf16} you{\kf35} feel{\kf20} the{\kf92} pull
-Dialogue: 0,0:01:22.41,0:01:27.15,DEFAULT,,0,0,0,,{\kf35}Of{\kf12} your{\kf35} lit{\kf39}tle{\kf43} sis{\kf50}ter{\kf27} in{\kf142} need?
-Dialogue: 0,0:01:28.91,0:01:33.69,DEFAULT,,0,0,0,,{\kf16}Keep{\kf12} your{\kf27} smile{\kf31}~{\kf62} to{\kf62} hide{\kf50} tur{\kf39}moil{\kf66}~
-Dialogue: 0,0:01:34.41,0:01:39.80,DEFAULT,,0,0,0,,{\kf20}Hid{\kf27}den{\kf81} deep{\kf31} un{\kf31}der{\kf85}neath{\kf43}~{\kf31}~{\kf142}~
-Dialogue: 0,0:01:41.45,0:01:47.57,DEFAULT,,0,0,0,,{\kf12}Mil{\kf20}len{\kf27}ni{\kf50}um{\kf39} a{\kf146}lone{\kf12} Lu{\kf20}na{\kf46} payed{\kf23} her{\kf108} debt
-Dialogue: 0,0:01:48.06,0:01:53.88,DEFAULT,,0,0,0,,{\kf31}On{\kf12} the{\kf50} moon{\kf27} she{\kf81} owned{\kf12} mov{\kf12}ing{\kf31} tides{\kf39} as{\kf23} she{\kf104} wept
-Dialogue: 0,0:01:54.34,0:02:00.38,DEFAULT,,0,0,0,,{\kf12}Mil{\kf20}len{\kf20}ni{\kf54}um{\kf39} a{\kf111}lone{\kf12} Lu{\kf23}na{\kf54} payed{\kf31} her{\kf111} debt
-Dialogue: 0,0:02:00.87,0:02:11.43,DEFAULT,,0,0,0,,{\kf23}On{\kf12} the{\kf31} moon{\kf23} she{\kf85} owned{\kf12} mov{\kf12}ing{\kf46} tides{\kf50} as{\kf27} she{\kf326} wept{\kf119}~{\kf134}~
-Dialogue: 0,0:02:12.12,0:02:18.27,DEFAULT,,0,0,0,,{\kf291}Oh{\kf111} Lu{\kf35}~{\kf73}na{\kf20}~{\kf31}~{\kf12}~
-Dialogue: 0,0:02:24.05,0:02:25.96,DEFAULT,,0,0,0,,{\kf69}Oh{\kf27} Lu{\kf16}~{\kf69}na
-Dialogue: 0,0:02:30.47,0:02:37.35,DEFAULT,,0,0,0,,{\kf66}Oh{\kf73} Lu{\kf54}na{\kf12}~{\kf31}~{\kf43}~{\kf62}~{\kf62} oh{\kf16}~{\kf39}~{\kf169}~
-Dialogue: 0,0:02:38.54,0:02:43.82,DEFAULT,,0,0,0,,{\kf54}Oh{\kf39} Lu{\kf27}~{\kf62}na{\kf62} oh{\kf27}~{\kf35}~{\kf173}~
-Dialogue: 0,0:02:46.88,0:02:49.59,DEFAULT,,0,0,0,,{\kf20}Oh{\kf23}~{\kf31} Lu{\kf188}na
-Dialogue: 0,0:02:52.99,0:02:56.51,DEFAULT,,0,0,0,,{\kf54}Oh{\kf150} Lu{\kf123}na
-Dialogue: 0,0:02:58.12,0:03:04.20,DEFAULT,,0,0,0,,{\kf12}A{\kf12} mil{\kf8}len{\kf39}ni{\kf58}um{\kf35} a{\kf23}lone{\kf88}~{\kf16} Lu{\kf23}na{\kf46} payed{\kf23} her{\kf96} debt
-Dialogue: 0,0:03:04.85,0:03:10.74,DEFAULT,,0,0,0,,{\kf20}On{\kf27} the{\kf43} moon{\kf27} she{\kf23} owned{\kf27}~{\kf12} mov{\kf16}ing{\kf43} tides{\kf50} as{\kf27} she{\kf111} wept
-Dialogue: 0,0:03:11.08,0:03:17.28,DEFAULT,,0,0,0,,{\kf12}Mil{\kf20}len{\kf27}ni{\kf58}um{\kf31} a{\kf111}lone{\kf20} Lu{\kf27}na{\kf54} payed{\kf31} her{\kf119} debt
-Dialogue: 0,0:03:17.70,0:03:28.56,DEFAULT,,0,0,0,,{\kf16}On{\kf23} the{\kf46} moon{\kf23} she{\kf12}~{\kf88} owned{\kf8} mov{\kf16}ing{\kf46} tides{\kf46} as{\kf27} she{\kf459} wept{\kf12}~{\kf16}~{\kf127}~
-Dialogue: 0,0:03:31.46,0:03:35.02,DEFAULT,,0,0,0,,{\kf62}Oh{\kf62} Lu{\kf46}~{\kf176}na
-Dialogue: 0,0:03:36.09,0:03:41.60,DEFAULT,,0,0,0,,{\kf46}Oh{\kf12}~{\kf39}~{\kf35}~{\kf62}~{\kf62} Lu{\kf23}~{\kf35}~{\kf192}na
-Dialogue: 0,0:03:42.32,0:03:47.98,DEFAULT,,0,0,0,,{\kf35}Ah{\kf12}~{\kf12}~{\kf46} Lu{\kf31}~{\kf77}na{\kf62} ah{\kf23}~{\kf39}~{\kf192}~
-Dialogue: 0,0:03:48.82,0:03:55.36,DEFAULT,,0,0,0,,{\kf8}Ah{\kf50}~{\kf50} Lu{\kf20}~{\kf62}na{\kf54} ah{\kf20}~{\kf54}~{\kf134}~{\kf119}~{\kf27}~
+Dialogue: 0,0:00:14.46,0:00:21.15,DEFAULT,,0,0,0,,{\r}{\kf72}Eve{\kf36}ry{\kf67} time{\kf36} your{\kf26} sun{\kf129} sets{\kf26} do{\kf31} you{\kf51} feel{\kf41} re{\kf154}gret
+Dialogue: 0,0:00:21.73,0:00:26.16,DEFAULT,,0,0,0,,{\r}{\kf29}For{\kf29} what{\kf39} hap{\kf14}pened{\kf29} in{\kf68} cen{\kf43}tu{\kf29}ries{\kf164} past
+Dialogue: 0,0:00:28.11,0:00:34.27,DEFAULT,,0,0,0,,{\r}{\kf16}Has{\kf26} your{\kf16} spir{\kf37}it{\kf37} grown{\kf147} cold{\kf26} like{\kf26} her{\kf42} lu{\kf32}nar{\kf211} mold?
+Dialogue: 0,0:00:34.50,0:00:39.28,DEFAULT,,0,0,0,,{\r}{\kf24}Do{\kf24} you{\kf33} know{\kf57} why{\kf80} she{\kf43} chose{\kf66} that{\kf151} path?
+Dialogue: 0,0:00:40.73,0:00:46.77,DEFAULT,,0,0,0,,{\r}{\kf14}Mil{\kf14}len{\kf37}ni{\kf65}um{\kf28} a{\kf28}lone{\kf139}~{\kf14} Lu{\kf28}na{\kf65} payed{\kf42} her{\kf130} debt
+Dialogue: 0,0:00:47.27,0:00:57.75,DEFAULT,,0,0,0,,{\r}{\kf23}On{\kf32} the{\kf42} moon{\kf28} she{\kf28} owned{\kf93}~{\kf14} mov{\kf14}ing{\kf28} tides{\kf32}~{\kf60} as{\kf23} she{\kf399} wept{\kf97}~{\kf135}~
+Dialogue: 0,0:00:58.59,0:01:04.13,DEFAULT,,0,0,0,,{\r}{\kf155}Oh{\kf12} Lu{\kf139}~{\kf248}na
+Dialogue: 0,0:01:04.59,0:01:13.42,DEFAULT,,0,0,0,,{\r}{\kf38}Ah{\kf294}~{\kf19}~{\kf122}~{\kf15}~{\kf287}~{\kf50}~{\kf58}~
+Dialogue: 0,0:01:15.68,0:01:21.61,DEFAULT,,0,0,0,,{\r}{\kf16}Eve{\kf16}ry{\kf38} time{\kf16} the{\kf77} moon{\kf33} is{\kf126} full{\kf38} can{\kf22} you{\kf49} feel{\kf27} the{\kf135} pull
+Dialogue: 0,0:01:22.41,0:01:27.15,DEFAULT,,0,0,0,,{\r}{\kf43}Of{\kf14} your{\kf43} lit{\kf48}tle{\kf53} sis{\kf62}ter{\kf34} in{\kf177} need?
+Dialogue: 0,0:01:28.91,0:01:33.69,DEFAULT,,0,0,0,,{\r}{\kf20}Keep{\kf15} your{\kf36} smile{\kf41}~{\kf81} to{\kf81} hide{\kf66} tur{\kf51}moil{\kf87}~
+Dialogue: 0,0:01:34.42,0:01:39.81,DEFAULT,,0,0,0,,{\r}{\kf21}Hid{\kf30}den{\kf89} deep{\kf34} un{\kf34}der{\kf93}neath{\kf47}~{\kf34}~{\kf157}~
+Dialogue: 0,0:01:41.45,0:01:47.57,DEFAULT,,0,0,0,,{\r}{\kf14}Mil{\kf24}len{\kf33}ni{\kf61}um{\kf47} a{\kf179}lone{\kf14} Lu{\kf24}na{\kf56} payed{\kf28} her{\kf132} debt
+Dialogue: 0,0:01:48.07,0:01:53.88,DEFAULT,,0,0,0,,{\r}{\kf43}On{\kf16} the{\kf69} moon{\kf37} she{\kf112} owned{\kf16} mov{\kf16}ing{\kf43} tides{\kf53} as{\kf32} she{\kf144} wept
+Dialogue: 0,0:01:54.34,0:02:00.38,DEFAULT,,0,0,0,,{\r}{\kf14}Mil{\kf24}len{\kf24}ni{\kf67}um{\kf48} a{\kf139}lone{\kf14} Lu{\kf29}na{\kf67} payed{\kf38} her{\kf140} debt
+Dialogue: 0,0:02:00.88,0:02:11.43,DEFAULT,,0,0,0,,{\r}{\kf27}On{\kf14} the{\kf36} moon{\kf27} she{\kf99} owned{\kf14} mov{\kf14}ing{\kf54} tides{\kf59} as{\kf32} she{\kf383} wept{\kf140}~{\kf156}~
+Dialogue: 0,0:02:12.12,0:02:18.28,DEFAULT,,0,0,0,,{\r}{\kf314}Oh{\kf120} Lu{\kf37}~{\kf79}na{\kf21}~{\kf33}~{\kf12}~
+Dialogue: 0,0:02:24.05,0:02:25.96,DEFAULT,,0,0,0,,{\r}{\kf73}Oh{\kf28} Lu{\kf16}~{\kf74}na
+Dialogue: 0,0:02:30.48,0:02:37.36,DEFAULT,,0,0,0,,{\r}{\kf72}Oh{\kf81} Lu{\kf59}na{\kf13}~{\kf34}~{\kf47}~{\kf68}~{\kf68} oh{\kf17}~{\kf42}~{\kf187}~
+Dialogue: 0,0:02:38.54,0:02:43.82,DEFAULT,,0,0,0,,{\r}{\kf60}Oh{\kf43} Lu{\kf30}~{\kf68}na{\kf68} oh{\kf30}~{\kf38}~{\kf191}~
+Dialogue: 0,0:02:46.88,0:02:49.60,DEFAULT,,0,0,0,,{\r}{\kf20}Oh{\kf24}~{\kf32} Lu{\kf195}na
+Dialogue: 0,0:02:53.00,0:02:56.52,DEFAULT,,0,0,0,,{\r}{\kf58}Oh{\kf162} Lu{\kf132}na
+Dialogue: 0,0:02:58.12,0:03:04.20,DEFAULT,,0,0,0,,{\r}{\kf15}A{\kf15} mil{\kf10}len{\kf49}ni{\kf74}um{\kf44} a{\kf29}lone{\kf113}~{\kf20} Lu{\kf29}na{\kf59} payed{\kf29} her{\kf122} debt
+Dialogue: 0,0:03:04.85,0:03:10.74,DEFAULT,,0,0,0,,{\r}{\kf27}On{\kf37} the{\kf59} moon{\kf37} she{\kf32} owned{\kf37}~{\kf16} mov{\kf21}ing{\kf59} tides{\kf70} as{\kf37} she{\kf157} wept
+Dialogue: 0,0:03:11.09,0:03:17.28,DEFAULT,,0,0,0,,{\r}{\kf14}Mil{\kf23}len{\kf33}ni{\kf70}um{\kf38} a{\kf136}lone{\kf23} Lu{\kf33}na{\kf66} payed{\kf38} her{\kf145} debt
+Dialogue: 0,0:03:17.70,0:03:28.56,DEFAULT,,0,0,0,,{\r}{\kf17}On{\kf26} the{\kf52} moon{\kf26} she{\kf13}~{\kf100} owned{\kf10} mov{\kf17}ing{\kf52} tides{\kf52} as{\kf30} she{\kf519} wept{\kf13}~{\kf17}~{\kf142}~
+Dialogue: 0,0:03:31.47,0:03:35.02,DEFAULT,,0,0,0,,{\r}{\kf63}Oh{\kf63} Lu{\kf47}~{\kf183}na
+Dialogue: 0,0:03:36.09,0:03:41.60,DEFAULT,,0,0,0,,{\r}{\kf50}Oh{\kf13}~{\kf42}~{\kf38}~{\kf67}~{\kf67} Lu{\kf25}~{\kf38}~{\kf211}na
+Dialogue: 0,0:03:42.33,0:03:47.99,DEFAULT,,0,0,0,,{\r}{\kf37}Ah{\kf12}~{\kf12}~{\kf50} Lu{\kf33}~{\kf83}na{\kf66} ah{\kf25}~{\kf41}~{\kf207}~
+Dialogue: 0,0:03:48.83,0:03:55.37,DEFAULT,,0,0,0,,{\r}{\kf10}Ah{\kf55}~{\kf55} Lu{\kf21}~{\kf68}na{\kf59} ah{\kf21}~{\kf59}~{\kf148}~{\kf131}~{\kf27}~

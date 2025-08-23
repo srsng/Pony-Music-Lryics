@@ -1,65 +1,72 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Let's Have a Battle
+Artist: Equestria Girls - Rainbow Rocks
+Original Timing: mylittlekaraoke.com by Renard/Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.62,0:00:02.53,DEFAULT,,0,0,0,,{\kf79}Ah{\kf57} ah{\kf40} ah
-Dialogue: 0,0:00:03.04,0:00:04.83,DEFAULT,,0,0,0,,{\kf73}Ah{\kf90} ah
-Dialogue: 0,0:00:05.39,0:00:07.47,DEFAULT,,0,0,0,,{\kf90}Ah{\kf51} ah{\kf57} ah
-Dialogue: 0,0:00:07.86,0:00:09.66,DEFAULT,,0,0,0,,{\kf85}Ah{\kf90} ah
-Dialogue: 0,0:00:10.22,0:00:12.19,DEFAULT,,0,0,0,,{\kf90}Ah{\kf57} ah{\kf40} ah
-Dialogue: 0,0:00:12.63,0:00:14.43,DEFAULT,,0,0,0,,{\kf90}Ah{\kf85} ah
-Dialogue: 0,0:00:15.05,0:00:17.07,DEFAULT,,0,0,0,,{\kf85}Ah{\kf51} ah{\kf57} ah
-Dialogue: 0,0:00:17.46,0:00:19.37,DEFAULT,,0,0,0,,{\kf85}Ah{\kf102} ah
-Dialogue: 0,0:00:19.82,0:00:23.02,DEFAULT,,0,0,0,,{\kf40}We{\kf23} heard{\kf29} you{\kf17} want{\kf17} to{\kf23} get{\kf23} to{\kf29}ge{\kf45}ther
-Dialogue: 0,0:00:24.59,0:00:27.62,DEFAULT,,0,0,0,,{\kf45}We{\kf23} heard{\kf23} you{\kf29} want{\kf23} to{\kf29} rock{\kf23} the{\kf57} school
-Dialogue: 0,0:00:29.76,0:00:32.62,DEFAULT,,0,0,0,,{\kf17}We've{\kf23} thought{\kf12} of{\kf23} some{\kf23}thing{\kf29} that{\kf23} is{\kf29} bet{\kf40}ter
-Dialogue: 0,0:00:34.53,0:00:37.33,DEFAULT,,0,0,0,,{\kf23}Some{\kf23}thing{\kf17} that{\kf29} chan{\kf23}ges{\kf23} all{\kf23} the{\kf68} rules
-Dialogue: 0,0:00:39.63,0:00:41.99,DEFAULT,,0,0,0,,{\kf23}Why{\kf17} pre{\kf23}tend{\kf17} we're{\kf23} all{\kf12} the{\kf62} same
-Dialogue: 0,0:00:44.13,0:00:47.21,DEFAULT,,0,0,0,,{\kf17}When{\kf23} some{\kf17} of{\kf29} us{\kf40} shine{\kf34} bright{\kf62}er
-Dialogue: 0,0:00:49.18,0:00:51.65,DEFAULT,,0,0,0,,{\kf29}Here's{\kf12} a{\kf29} chance{\kf12} to{\kf29} find{\kf17} your{\kf62} flame
-Dialogue: 0,0:00:53.67,0:00:56.64,DEFAULT,,0,0,0,,{\kf17}Are{\kf29} you{\kf17} a{\kf23} lo{\kf23}ser{\kf17} or{\kf12} a{\kf34} fight{\kf51}er
-Dialogue: 0,0:00:58.16,0:01:00.52,DEFAULT,,0,0,0,,{\kf29}Me{\kf23} and{\kf45} you,{\kf29} you{\kf23} and{\kf51} me
-Dialogue: 0,0:01:00.91,0:01:03.27,DEFAULT,,0,0,0,,{\kf23}Why{\kf23} don't{\kf17} we{\kf23} see{\kf23} who{\kf23} is{\kf29} bet{\kf29}ter
-Dialogue: 0,0:01:03.66,0:01:07.70,DEFAULT,,0,0,0,,{\kf23}We{\kf23} don't{\kf23} have{\kf17} to{\kf34} be{\kf40} one{\kf17} and{\kf17} the{\kf45} same{\kf57} thing
-Dialogue: 0,0:01:08.04,0:01:12.08,DEFAULT,,0,0,0,,{\kf23}Oh,{\kf23} what's{\kf17} so{\kf51} wrong{\kf23} with{\kf17} a{\kf29} lit{\kf17}tle{\kf23} com{\kf23}pe{\kf23}ti{\kf45}tion
-Dialogue: 0,0:01:12.87,0:01:17.08,DEFAULT,,0,0,0,,{\kf17}Are{\kf29} you{\kf17} a{\kf51}fraid{\kf34} of{\kf29} fail{\kf29}ing{\kf23} the{\kf23} au{\kf17}di{\kf62}tion
-Dialogue: 0,0:01:17.97,0:01:20.67,DEFAULT,,0,0,0,,{\kf29}You're{\kf23} a{\kf29} star{\kf17} and{\kf12} you{\kf23} should{\kf23} know{\kf45} it
-Dialogue: 0,0:01:22.75,0:01:25.16,DEFAULT,,0,0,0,,{\kf29}Yeah{\kf29} you{\kf23} rise{\kf17} a{\kf29}bove{\kf17} the{\kf62} rest
-Dialogue: 0,0:01:27.29,0:01:29.82,DEFAULT,,0,0,0,,{\kf23}It{\kf23} does{\kf23}n't{\kf23} mat{\kf17}ter{\kf29} who{\kf17} you{\kf40} hurt
-Dialogue: 0,0:01:32.06,0:01:34.81,DEFAULT,,0,0,0,,{\kf17}If{\kf23} you're{\kf23} just{\kf29} prov{\kf23}ing{\kf17} you're{\kf23} the{\kf62} best
-Dialogue: 0,0:01:35.49,0:01:38.74,DEFAULT,,0,0,0,,{\kf68}Ah,{\kf68} ah{\kf57} ah{\kf62} ah
-Dialogue: 0,0:01:39.02,0:01:42.06,DEFAULT,,0,0,0,,{\kf23}Bat{\kf29}tle,{\kf23} you{\kf29} wan{\kf17}na{\kf34} win{\kf34} it
-Dialogue: 0,0:01:42.84,0:01:44.41,DEFAULT,,0,0,0,,{\kf23}Let's{\kf29} have{\kf17} a{\kf29} bat{\kf29}tle
-Dialogue: 0,0:01:45.03,0:01:46.77,DEFAULT,,0,0,0,,{\kf23}Bat{\kf17}tle{\kf17} of{\kf23} the{\kf62} bands
-Dialogue: 0,0:01:47.67,0:01:49.18,DEFAULT,,0,0,0,,{\kf23}Let's{\kf29} have{\kf17} a{\kf29} bat{\kf29}tle
-Dialogue: 0,0:01:50.08,0:01:51.71,DEFAULT,,0,0,0,,{\kf23}We'll{\kf23} go{\kf23} all{\kf23} in{\kf34} it
-Dialogue: 0,0:01:52.50,0:01:53.96,DEFAULT,,0,0,0,,{\kf23}Let's{\kf23} have{\kf17} a{\kf29} bat{\kf23}tle
-Dialogue: 0,0:01:54.57,0:01:56.37,DEFAULT,,0,0,0,,{\kf29}Bat{\kf29}tle,{\kf29} bat{\kf29}tle
-Dialogue: 0,0:01:56.93,0:01:58.73,DEFAULT,,0,0,0,,{\kf29}Bat{\kf23}tle{\kf17} of{\kf17} the{\kf62} bands
-Dialogue: 0,0:01:58.84,0:01:59.74,DEFAULT,,0,0,0,,{\kf12}I{\kf12} could{\kf17} beat{\kf34} you
-Dialogue: 0,0:02:00.58,0:02:01.08,DEFAULT,,0,0,0,,{\kf51}Battle!
-Dialogue: 0,0:02:01.14,0:02:02.49,DEFAULT,,0,0,0,,{\kf29}Huh,{\kf34} you{\kf40} wish
-Dialogue: 0,0:02:02.94,0:02:03.44,DEFAULT,,0,0,0,,{\kf51}Battle!
-Dialogue: 0,0:02:03.50,0:02:05.07,DEFAULT,,0,0,0,,{\kf29}I{\kf40} so{\kf34} want{\kf34} this
-Dialogue: 0,0:02:05.35,0:02:05.97,DEFAULT,,0,0,0,,{\kf62}Battle!
-Dialogue: 0,0:02:06.08,0:02:07.48,DEFAULT,,0,0,0,,{\kf12}Not{\kf12} if{\kf12} I{\kf12} get{\kf23} it{\kf40} first
-Dialogue: 0,0:02:07.76,0:02:09.84,DEFAULT,,0,0,0,,{\kf23}Me{\kf23} and{\kf29} you,{\kf23} you{\kf23} and{\kf29} me
-Dialogue: 0,0:02:10.51,0:02:12.82,DEFAULT,,0,0,0,,{\kf23}Why{\kf17} don't{\kf17} we{\kf29} see{\kf17} who{\kf23} is{\kf23} bet{\kf29}ter
-Dialogue: 0,0:02:13.21,0:02:17.14,DEFAULT,,0,0,0,,{\kf17}We{\kf23} don't{\kf29} have{\kf17} to{\kf34} be{\kf45} one{\kf23} and{\kf17} the{\kf40} same{\kf45} thing
-Dialogue: 0,0:02:17.70,0:02:21.74,DEFAULT,,0,0,0,,{\kf23}Oh{\kf17} what's{\kf23} so{\kf40} wrong{\kf23} with{\kf17} a{\kf23} lit{\kf23}tle{\kf23} com{\kf23}pe{\kf17}ti{\kf57}tion
-Dialogue: 0,0:02:22.47,0:02:26.51,DEFAULT,,0,0,0,,{\kf23}I'm{\kf23} go{\kf23}ing{\kf29} out{\kf34} and{\kf29} win{\kf23}ning{\kf29} the{\kf23} au{\kf17}di{\kf45}tion
-Dialogue: 0,0:02:27.02,0:02:30.05,DEFAULT,,0,0,0,,{\kf23}Bat{\kf29}tle,{\kf23} we{\kf23} wan{\kf17}na{\kf29} win{\kf34} it
-Dialogue: 0,0:02:30.89,0:02:32.41,DEFAULT,,0,0,0,,{\kf23}Let's{\kf23} have{\kf17} a{\kf29} bat{\kf29}tle
-Dialogue: 0,0:02:32.97,0:02:34.71,DEFAULT,,0,0,0,,{\kf29}Bat{\kf17}tle{\kf23} of{\kf17} the{\kf62} bands
-Dialogue: 0,0:02:35.72,0:02:37.18,DEFAULT,,0,0,0,,{\kf17}Let's{\kf29} have{\kf23} a{\kf23} bat{\kf29}tle
-Dialogue: 0,0:02:38.02,0:02:39.70,DEFAULT,,0,0,0,,{\kf29}We'll{\kf23} go{\kf29} all{\kf23} in{\kf34} it
-Dialogue: 0,0:02:40.55,0:02:41.95,DEFAULT,,0,0,0,,{\kf17}Let's{\kf23} have{\kf17} a{\kf23} bat{\kf29}tle
-Dialogue: 0,0:02:42.62,0:02:44.42,DEFAULT,,0,0,0,,{\kf23}Bat{\kf29}tle,{\kf23} bat{\kf34}tle
-Dialogue: 0,0:02:44.98,0:02:46.78,DEFAULT,,0,0,0,,{\kf23}Bat{\kf29}tle{\kf23} of{\kf17} the{\kf62} bands
+Dialogue: 0,0:00:00.63,0:00:02.54,DEFAULT,,0,0,0,,{\r}{\kf86}Ah{\kf62} ah{\kf43} ah
+Dialogue: 0,0:00:03.04,0:00:04.84,DEFAULT,,0,0,0,,{\r}{\kf81}Ah{\kf99} ah
+Dialogue: 0,0:00:05.40,0:00:07.48,DEFAULT,,0,0,0,,{\r}{\kf95}Ah{\kf53} ah{\kf60} ah
+Dialogue: 0,0:00:07.87,0:00:09.66,DEFAULT,,0,0,0,,{\r}{\kf87}Ah{\kf93} ah
+Dialogue: 0,0:00:10.23,0:00:12.19,DEFAULT,,0,0,0,,{\r}{\kf95}Ah{\kf59} ah{\kf42} ah
+Dialogue: 0,0:00:12.64,0:00:14.44,DEFAULT,,0,0,0,,{\r}{\kf93}Ah{\kf87} ah
+Dialogue: 0,0:00:15.05,0:00:17.07,DEFAULT,,0,0,0,,{\r}{\kf89}Ah{\kf53} ah{\kf60} ah
+Dialogue: 0,0:00:17.47,0:00:19.38,DEFAULT,,0,0,0,,{\r}{\kf87}Ah{\kf104} ah
+Dialogue: 0,0:00:19.82,0:00:23.02,DEFAULT,,0,0,0,,{\r}{\kf52}We{\kf30} heard{\kf37} you{\kf22} want{\kf22} to{\kf30} get{\kf30} to{\kf37}ge{\kf60}ther
+Dialogue: 0,0:00:24.60,0:00:27.63,DEFAULT,,0,0,0,,{\r}{\kf55}We{\kf28} heard{\kf28} you{\kf34} want{\kf28} to{\kf34} rock{\kf28} the{\kf68} school
+Dialogue: 0,0:00:29.76,0:00:32.62,DEFAULT,,0,0,0,,{\r}{\kf23}We've{\kf30} thought{\kf15} of{\kf30} some{\kf30}thing{\kf38} that{\kf30} is{\kf38} bet{\kf52}ter
+Dialogue: 0,0:00:34.53,0:00:37.34,DEFAULT,,0,0,0,,{\r}{\kf28}Some{\kf28}thing{\kf21} that{\kf35} chan{\kf28}ges{\kf28} all{\kf28} the{\kf85} rules
+Dialogue: 0,0:00:39.64,0:00:42.00,DEFAULT,,0,0,0,,{\r}{\kf30}Why{\kf23} pre{\kf30}tend{\kf23} we're{\kf30} all{\kf15} the{\kf85} same
+Dialogue: 0,0:00:44.13,0:00:47.22,DEFAULT,,0,0,0,,{\r}{\kf24}When{\kf32} some{\kf24} of{\kf40} us{\kf55} shine{\kf48} bright{\kf86}er
+Dialogue: 0,0:00:49.18,0:00:51.65,DEFAULT,,0,0,0,,{\r}{\kf37}Here's{\kf15} a{\kf37} chance{\kf15} to{\kf37} find{\kf22} your{\kf84} flame
+Dialogue: 0,0:00:53.67,0:00:56.65,DEFAULT,,0,0,0,,{\r}{\kf23}Are{\kf38} you{\kf23} a{\kf31} lo{\kf31}ser{\kf23} or{\kf15} a{\kf46} fight{\kf68}er
+Dialogue: 0,0:00:58.16,0:01:00.52,DEFAULT,,0,0,0,,{\r}{\kf34}Me{\kf27} and{\kf54} you,{\kf34} you{\kf27} and{\kf60} me
+Dialogue: 0,0:01:00.91,0:01:03.27,DEFAULT,,0,0,0,,{\r}{\kf29}Why{\kf29} don't{\kf21} we{\kf29} see{\kf29} who{\kf29} is{\kf36} bet{\kf34}ter
+Dialogue: 0,0:01:03.66,0:01:07.71,DEFAULT,,0,0,0,,{\r}{\kf31}We{\kf31} don't{\kf31} have{\kf23} to{\kf47} be{\kf54} one{\kf23} and{\kf23} the{\kf62} same{\kf79} thing
+Dialogue: 0,0:01:08.04,0:01:12.08,DEFAULT,,0,0,0,,{\r}{\kf29}Oh,{\kf29} what's{\kf22} so{\kf66} wrong{\kf29} with{\kf22} a{\kf37} lit{\kf22}tle{\kf29} com{\kf29}pe{\kf29}ti{\kf61}tion
+Dialogue: 0,0:01:12.87,0:01:17.08,DEFAULT,,0,0,0,,{\r}{\kf22}Are{\kf36} you{\kf22} a{\kf65}fraid{\kf44} of{\kf36} fail{\kf36}ing{\kf29} the{\kf29} au{\kf22}di{\kf80}tion
+Dialogue: 0,0:01:17.98,0:01:20.67,DEFAULT,,0,0,0,,{\r}{\kf38}You're{\kf31} a{\kf38} star{\kf23} and{\kf15} you{\kf31} should{\kf31} know{\kf62} it
+Dialogue: 0,0:01:22.75,0:01:25.16,DEFAULT,,0,0,0,,{\r}{\kf33}Yeah{\kf33} you{\kf27} rise{\kf20} a{\kf33}bove{\kf20} the{\kf75} rest
+Dialogue: 0,0:01:27.30,0:01:29.82,DEFAULT,,0,0,0,,{\r}{\kf30}It{\kf30} does{\kf30}n't{\kf30} mat{\kf22}ter{\kf37} who{\kf22} you{\kf52} hurt
+Dialogue: 0,0:01:32.07,0:01:34.82,DEFAULT,,0,0,0,,{\r}{\kf22}If{\kf29} you're{\kf29} just{\kf36} prov{\kf29}ing{\kf22} you're{\kf29} the{\kf79} best
+Dialogue: 0,0:01:35.49,0:01:38.75,DEFAULT,,0,0,0,,{\r}{\kf87}Ah,{\kf87} ah{\kf72} ah{\kf80} ah
+Dialogue: 0,0:01:39.03,0:01:42.06,DEFAULT,,0,0,0,,{\r}{\kf37}Bat{\kf46}tle,{\kf37} you{\kf46} wan{\kf28}na{\kf55} win{\kf54} it
+Dialogue: 0,0:01:42.85,0:01:44.42,DEFAULT,,0,0,0,,{\r}{\kf29}Let's{\kf36} have{\kf21} a{\kf36} bat{\kf35}tle
+Dialogue: 0,0:01:45.04,0:01:46.78,DEFAULT,,0,0,0,,{\r}{\kf28}Bat{\kf21}tle{\kf21} of{\kf28} the{\kf76} bands
+Dialogue: 0,0:01:47.67,0:01:49.19,DEFAULT,,0,0,0,,{\r}{\kf28}Let's{\kf35} have{\kf21} a{\kf35} bat{\kf33}tle
+Dialogue: 0,0:01:50.09,0:01:51.72,DEFAULT,,0,0,0,,{\r}{\kf30}We'll{\kf30} go{\kf30} all{\kf30} in{\kf43} it
+Dialogue: 0,0:01:52.50,0:01:53.96,DEFAULT,,0,0,0,,{\r}{\kf29}Let's{\kf29} have{\kf22} a{\kf36} bat{\kf30}tle
+Dialogue: 0,0:01:54.58,0:01:56.37,DEFAULT,,0,0,0,,{\r}{\kf45}Bat{\kf45}tle,{\kf45} bat{\kf45}tle
+Dialogue: 0,0:01:56.94,0:01:58.73,DEFAULT,,0,0,0,,{\r}{\kf35}Bat{\kf28}tle{\kf21} of{\kf21} the{\kf75} bands
+Dialogue: 0,0:01:58.84,0:01:59.74,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf14} could{\kf21} beat{\kf41} you
+Dialogue: 0,0:02:00.58,0:02:01.09,DEFAULT,,0,0,0,,{\r}{\kf51}Battle!
+Dialogue: 0,0:02:01.15,0:02:02.49,DEFAULT,,0,0,0,,{\r}{\kf38}Huh,{\kf45} you{\kf52} wish
+Dialogue: 0,0:02:02.94,0:02:03.45,DEFAULT,,0,0,0,,{\r}{\kf51}Battle!
+Dialogue: 0,0:02:03.50,0:02:05.08,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf46} so{\kf39} want{\kf39} this
+Dialogue: 0,0:02:05.36,0:02:05.97,DEFAULT,,0,0,0,,{\r}{\kf62}Battle!
+Dialogue: 0,0:02:06.09,0:02:07.49,DEFAULT,,0,0,0,,{\r}{\kf15}Not{\kf15} if{\kf15} I{\kf15} get{\kf29} it{\kf51} first
+Dialogue: 0,0:02:07.77,0:02:09.85,DEFAULT,,0,0,0,,{\r}{\kf32}Me{\kf32} and{\kf40} you,{\kf32} you{\kf32} and{\kf40} me
+Dialogue: 0,0:02:10.52,0:02:12.82,DEFAULT,,0,0,0,,{\r}{\kf30}Why{\kf22} don't{\kf22} we{\kf37} see{\kf22} who{\kf30} is{\kf30} bet{\kf37}ter
+Dialogue: 0,0:02:13.21,0:02:17.14,DEFAULT,,0,0,0,,{\r}{\kf23}We{\kf31} don't{\kf39} have{\kf23} to{\kf46} be{\kf62} one{\kf31} and{\kf23} the{\kf54} same{\kf61} thing
+Dialogue: 0,0:02:17.71,0:02:21.75,DEFAULT,,0,0,0,,{\r}{\kf30}Oh{\kf22} what's{\kf30} so{\kf52} wrong{\kf30} with{\kf22} a{\kf30} lit{\kf30}tle{\kf30} com{\kf30}pe{\kf22}ti{\kf76}tion
+Dialogue: 0,0:02:22.48,0:02:26.52,DEFAULT,,0,0,0,,{\r}{\kf31}I'm{\kf31} go{\kf31}ing{\kf39} out{\kf47} and{\kf39} win{\kf31}ning{\kf39} the{\kf31} au{\kf23}di{\kf62}tion
+Dialogue: 0,0:02:27.02,0:02:30.05,DEFAULT,,0,0,0,,{\r}{\kf39}Bat{\kf49}tle,{\kf39} we{\kf39} wan{\kf29}na{\kf49} win{\kf59} it
+Dialogue: 0,0:02:30.90,0:02:32.41,DEFAULT,,0,0,0,,{\r}{\kf29}Let's{\kf29} have{\kf22} a{\kf36} bat{\kf36}tle
+Dialogue: 0,0:02:32.97,0:02:34.71,DEFAULT,,0,0,0,,{\r}{\kf33}Bat{\kf20}tle{\kf27} of{\kf20} the{\kf74} bands
+Dialogue: 0,0:02:35.72,0:02:37.18,DEFAULT,,0,0,0,,{\r}{\kf21}Let's{\kf35} have{\kf28} a{\kf28} bat{\kf34}tle
+Dialogue: 0,0:02:38.03,0:02:39.71,DEFAULT,,0,0,0,,{\r}{\kf35}We'll{\kf28} go{\kf35} all{\kf28} in{\kf42} it
+Dialogue: 0,0:02:40.55,0:02:41.95,DEFAULT,,0,0,0,,{\r}{\kf22}Let's{\kf29} have{\kf22} a{\kf29} bat{\kf38}tle
+Dialogue: 0,0:02:42.63,0:02:44.42,DEFAULT,,0,0,0,,{\r}{\kf38}Bat{\kf47}tle,{\kf38} bat{\kf57}tle
+Dialogue: 0,0:02:44.99,0:02:46.78,DEFAULT,,0,0,0,,{\r}{\kf27}Bat{\kf33}tle{\kf27} of{\kf20} the{\kf73} bands

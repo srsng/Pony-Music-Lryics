@@ -1,45 +1,52 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Make a Wish (Extended)
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.39,0:00:17.68,DEFAULT,,0,0,0,,{\kf16}Get{\kf11} your{\kf37} hooves{\kf27} up,{\kf16} par{\kf11}ty's{\kf16} start{\kf16}ing{\kf27} out{\kf32} right{\kf42} now
-Dialogue: 0,0:00:18.15,0:00:20.71,DEFAULT,,0,0,0,,{\kf16}E{\kf16}very{\kf16}po{\kf16}ny,{\kf16} e{\kf16}very{\kf16}po{\kf16}ny{\kf32} get{\kf48} down
-Dialogue: 0,0:00:21.03,0:00:24.27,DEFAULT,,0,0,0,,{\kf16}Time{\kf16} to{\kf16} make{\kf11} a{\kf27} wish,{\kf16} bet{\kf16}ter{\kf27} make{\kf32} it{\kf27} right{\kf32} now
-Dialogue: 0,0:00:24.58,0:00:28.19,DEFAULT,,0,0,0,,{\kf16}It's{\kf21} been{\kf11} a{\kf32} year{\kf11} and{\kf16} to{\kf32}day{\kf16} is{\kf11} your{\kf32} birth{\kf27}day{\kf27} par{\kf21}ty
-Dialogue: 0,0:00:28.50,0:00:30.96,DEFAULT,,0,0,0,,{\kf27}Make{\kf16} a{\kf27} wish,{\kf21} it's{\kf16} your{\kf32} birth{\kf37}day
-Dialogue: 0,0:00:31.85,0:00:34.83,DEFAULT,,0,0,0,,{\kf27}Make{\kf16} a{\kf27} wish,{\kf27} it's{\kf16} your{\kf27} birth{\kf32}day{\kf27} par{\kf16}ty
-Dialogue: 0,0:00:35.19,0:00:37.70,DEFAULT,,0,0,0,,{\kf27}Make{\kf16} a{\kf27} wish,{\kf32} it's{\kf21} your{\kf27} birth{\kf42}day
-Dialogue: 0,0:00:38.54,0:00:41.62,DEFAULT,,0,0,0,,{\kf27}Make{\kf16} a{\kf21} wish,{\kf27} it's{\kf16} your{\kf32} birth{\kf32}day{\kf21} par{\kf32}ty
-Dialogue: 0,0:00:42.30,0:00:43.14,DEFAULT,,0,0,0,,{\kf21}Aw{\kf42} oh
-Dialogue: 0,0:00:43.40,0:00:45.17,DEFAULT,,0,0,0,,{\kf21}Aw{\kf32} aw{\kf16} aw{\kf32} oh{\kf37} oh
-Dialogue: 0,0:00:45.44,0:00:46.48,DEFAULT,,0,0,0,,{\kf16}Aw{\kf21} aw{\kf42} oh
-Dialogue: 0,0:00:46.69,0:00:48.47,DEFAULT,,0,0,0,,{\kf27}Aw{\kf21} uh{\kf16} aw{\kf37}-aw{\kf37} oh
-Dialogue: 0,0:00:48.94,0:00:49.77,DEFAULT,,0,0,0,,{\kf32}Aw{\kf42} oh
-Dialogue: 0,0:00:49.98,0:00:51.81,DEFAULT,,0,0,0,,{\kf32}Aw{\kf32} oh{\kf16} aw{\kf32} aw{\kf37} oh
-Dialogue: 0,0:00:54.37,0:00:57.56,DEFAULT,,0,0,0,,{\kf21}Star{\kf16}ting{\kf21} out{\kf27} great{\kf16} and{\kf11} it{\kf27} just{\kf27} got{\kf21} bet{\kf48}ter
-Dialogue: 0,0:00:58.08,0:01:00.59,DEFAULT,,0,0,0,,{\kf21}E{\kf16}very{\kf16} day{\kf16} you{\kf16} learned{\kf16} a{\kf11} lit{\kf16}tle{\kf32} bit{\kf42} more
-Dialogue: 0,0:01:00.96,0:01:04.15,DEFAULT,,0,0,0,,{\kf21}Time{\kf11} to{\kf27} ce{\kf16}le{\kf27}brate,{\kf27} now{\kf11} we're{\kf27} all{\kf32} to{\kf27}ge{\kf37}ther
-Dialogue: 0,0:01:04.56,0:01:07.60,DEFAULT,,0,0,0,,{\kf16}And{\kf16} in{\kf11} a{\kf37} year{\kf16} we{\kf16} can{\kf21} see{\kf11} what{\kf16} you{\kf21} wished{\kf53} for
-Dialogue: 0,0:01:08.90,0:01:11.15,DEFAULT,,0,0,0,,{\kf21}Close{\kf16} your{\kf27} eyes{\kf21} and{\kf16} con{\kf16}cen{\kf74}trate
-Dialogue: 0,0:01:12.04,0:01:15.17,DEFAULT,,0,0,0,,{\kf21}My{\kf11} lit{\kf16}tle{\kf21} po{\kf27}ny{\kf53} friends{\kf16} uh{\kf16} uh{\kf37} aw{\kf37} oh
-Dialogue: 0,0:01:15.38,0:01:17.68,DEFAULT,,0,0,0,,{\kf16}Think{\kf16} of{\kf21} the{\kf27} wi{\kf21}shes{\kf16} you{\kf16} can{\kf58} make
-Dialogue: 0,0:01:18.68,0:01:21.03,DEFAULT,,0,0,0,,{\kf16}Why{\kf21} should{\kf16} it{\kf16} e{\kf16}~{\kf11}ver{\kf21} have{\kf21} to{\kf58} end?
-Dialogue: 0,0:01:21.92,0:01:24.27,DEFAULT,,0,0,0,,{\kf27}Make{\kf16} a{\kf27} wish,{\kf21} it's{\kf16} your{\kf27} birth{\kf37}day
-Dialogue: 0,0:01:25.21,0:01:28.19,DEFAULT,,0,0,0,,{\kf27}Make{\kf16} a{\kf27} wish,{\kf21} it's{\kf16} your{\kf32} birth{\kf32}day{\kf27} par{\kf27}ty
-Dialogue: 0,0:01:28.50,0:01:30.96,DEFAULT,,0,0,0,,{\kf27}Make{\kf16} a{\kf27} wish,{\kf32} it's{\kf16} your{\kf32} birth{\kf37}day
-Dialogue: 0,0:01:31.85,0:01:34.88,DEFAULT,,0,0,0,,{\kf27}Make{\kf16} a{\kf27} wish,{\kf27} it's{\kf16} your{\kf32} birth{\kf32}day{\kf21} par{\kf32}ty
-Dialogue: 0,0:01:35.61,0:01:36.45,DEFAULT,,0,0,0,,{\kf27}Aw{\kf42} oh
-Dialogue: 0,0:01:36.65,0:01:38.54,DEFAULT,,0,0,0,,{\kf27}Aw{\kf32} aw{\kf16} aw{\kf42} oh{\kf37} oh
-Dialogue: 0,0:01:38.75,0:01:39.74,DEFAULT,,0,0,0,,{\kf21}Aw{\kf32} aw{\kf32} oh
-Dialogue: 0,0:01:39.95,0:01:41.78,DEFAULT,,0,0,0,,{\kf16}Let's{\kf16} ce{\kf16}le{\kf16}brate{\kf16} your{\kf32} birth{\kf37}day
-Dialogue: 0,0:01:42.25,0:01:43.14,DEFAULT,,0,0,0,,{\kf32}Aw{\kf42} oh
-Dialogue: 0,0:01:43.34,0:01:45.17,DEFAULT,,0,0,0,,{\kf21}Aw{\kf32} oh{\kf11} aw{\kf27} aw{\kf37} oh
-Dialogue: 0,0:01:46.59,0:01:49.04,DEFAULT,,0,0,0,,{\kf21}Let's{\kf16} ce{\kf16}le{\kf16}brate{\kf16} your{\kf37} birth{\kf32}day{\kf21} par{\kf32}ty
-Dialogue: 0,0:01:49.30,0:01:49.88,DEFAULT,,0,0,0,,{\kf58}Yay!
+Dialogue: 0,0:00:14.39,0:00:17.69,DEFAULT,,0,0,0,,{\r}{\kf21}Get{\kf14} your{\kf49} hooves{\kf35} up,{\kf21} par{\kf14}ty's{\kf21} start{\kf21}ing{\kf35} out{\kf42} right{\kf56} now
+Dialogue: 0,0:00:18.16,0:00:20.72,DEFAULT,,0,0,0,,{\r}{\kf20}E{\kf20}very{\kf20}po{\kf20}ny,{\kf20} e{\kf20}very{\kf20}po{\kf20}ny{\kf39} get{\kf57} down
+Dialogue: 0,0:00:21.03,0:00:24.27,DEFAULT,,0,0,0,,{\r}{\kf22}Time{\kf22} to{\kf22} make{\kf15} a{\kf37} wish,{\kf22} bet{\kf22}ter{\kf37} make{\kf44} it{\kf37} right{\kf44} now
+Dialogue: 0,0:00:24.59,0:00:28.19,DEFAULT,,0,0,0,,{\r}{\kf21}It's{\kf28} been{\kf14} a{\kf42} year{\kf14} and{\kf21} to{\kf42}day{\kf21} is{\kf14} your{\kf42} birth{\kf35}day{\kf35} par{\kf32}ty
+Dialogue: 0,0:00:28.51,0:00:30.96,DEFAULT,,0,0,0,,{\r}{\kf37}Make{\kf22} a{\kf37} wish,{\kf30} it's{\kf22} your{\kf45} birth{\kf53}day
+Dialogue: 0,0:00:31.85,0:00:34.83,DEFAULT,,0,0,0,,{\r}{\kf37}Make{\kf22} a{\kf37} wish,{\kf37} it's{\kf22} your{\kf37} birth{\kf45}day{\kf37} par{\kf24}ty
+Dialogue: 0,0:00:35.20,0:00:37.71,DEFAULT,,0,0,0,,{\r}{\kf35}Make{\kf21} a{\kf35} wish,{\kf42} it's{\kf28} your{\kf35} birth{\kf55}day
+Dialogue: 0,0:00:38.54,0:00:41.62,DEFAULT,,0,0,0,,{\r}{\kf37}Make{\kf22} a{\kf29} wish,{\kf37} it's{\kf22} your{\kf44} birth{\kf44}day{\kf29} par{\kf44}ty
+Dialogue: 0,0:00:42.30,0:00:43.14,DEFAULT,,0,0,0,,{\r}{\kf28}Aw{\kf56} oh
+Dialogue: 0,0:00:43.40,0:00:45.18,DEFAULT,,0,0,0,,{\r}{\kf27}Aw{\kf41} aw{\kf21} aw{\kf41} oh{\kf48} oh
+Dialogue: 0,0:00:45.44,0:00:46.49,DEFAULT,,0,0,0,,{\r}{\kf21}Aw{\kf28} aw{\kf56} oh
+Dialogue: 0,0:00:46.69,0:00:48.47,DEFAULT,,0,0,0,,{\r}{\kf34}Aw{\kf27} uh{\kf21} aw{\kf48}-aw{\kf48} oh
+Dialogue: 0,0:00:48.94,0:00:49.78,DEFAULT,,0,0,0,,{\r}{\kf36}Aw{\kf48} oh
+Dialogue: 0,0:00:49.99,0:00:51.82,DEFAULT,,0,0,0,,{\r}{\kf39}Aw{\kf39} oh{\kf20} aw{\kf39} aw{\kf46} oh
+Dialogue: 0,0:00:54.38,0:00:57.57,DEFAULT,,0,0,0,,{\r}{\kf29}Star{\kf22}ting{\kf29} out{\kf36} great{\kf22} and{\kf14} it{\kf36} just{\kf36} got{\kf29} bet{\kf66}ter
+Dialogue: 0,0:00:58.09,0:01:00.60,DEFAULT,,0,0,0,,{\r}{\kf26}E{\kf20}very{\kf20} day{\kf20} you{\kf20} learned{\kf20} a{\kf13} lit{\kf20}tle{\kf40} bit{\kf52} more
+Dialogue: 0,0:01:00.96,0:01:04.15,DEFAULT,,0,0,0,,{\r}{\kf26}Time{\kf13} to{\kf33} ce{\kf20}le{\kf33}brate,{\kf33} now{\kf13} we're{\kf33} all{\kf39} to{\kf33}ge{\kf43}ther
+Dialogue: 0,0:01:04.57,0:01:07.60,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} in{\kf14} a{\kf48} year{\kf21} we{\kf21} can{\kf28} see{\kf14} what{\kf21} you{\kf28} wished{\kf66} for
+Dialogue: 0,0:01:08.91,0:01:11.15,DEFAULT,,0,0,0,,{\r}{\kf25}Close{\kf19} your{\kf31} eyes{\kf25} and{\kf19} con{\kf19}cen{\kf87}trate
+Dialogue: 0,0:01:12.04,0:01:15.18,DEFAULT,,0,0,0,,{\r}{\kf26}My{\kf13} lit{\kf20}tle{\kf26} po{\kf33}ny{\kf65} friends{\kf20} uh{\kf20} uh{\kf46} aw{\kf45} oh
+Dialogue: 0,0:01:15.39,0:01:17.69,DEFAULT,,0,0,0,,{\r}{\kf19}Think{\kf19} of{\kf26} the{\kf32} wi{\kf26}shes{\kf19} you{\kf19} can{\kf70} make
+Dialogue: 0,0:01:18.68,0:01:21.03,DEFAULT,,0,0,0,,{\r}{\kf19}Why{\kf25} should{\kf19} it{\kf19} e{\kf19}~{\kf13}ver{\kf25} have{\kf25} to{\kf71} end?
+Dialogue: 0,0:01:21.92,0:01:24.27,DEFAULT,,0,0,0,,{\r}{\kf37}Make{\kf22} a{\kf37} wish,{\kf29} it's{\kf22} your{\kf37} birth{\kf51}day
+Dialogue: 0,0:01:25.21,0:01:28.19,DEFAULT,,0,0,0,,{\r}{\kf35}Make{\kf21} a{\kf35} wish,{\kf28} it's{\kf21} your{\kf43} birth{\kf43}day{\kf35} par{\kf37}ty
+Dialogue: 0,0:01:28.51,0:01:30.96,DEFAULT,,0,0,0,,{\r}{\kf35}Make{\kf21} a{\kf35} wish,{\kf42} it's{\kf21} your{\kf42} birth{\kf50}day
+Dialogue: 0,0:01:31.85,0:01:34.88,DEFAULT,,0,0,0,,{\r}{\kf35}Make{\kf21} a{\kf35} wish,{\kf35} it's{\kf21} your{\kf42} birth{\kf42}day{\kf28} par{\kf44}ty
+Dialogue: 0,0:01:35.61,0:01:36.45,DEFAULT,,0,0,0,,{\r}{\kf32}Aw{\kf52} oh
+Dialogue: 0,0:01:36.66,0:01:38.54,DEFAULT,,0,0,0,,{\r}{\kf32}Aw{\kf39} aw{\kf19} aw{\kf52} oh{\kf46} oh
+Dialogue: 0,0:01:38.75,0:01:39.74,DEFAULT,,0,0,0,,{\r}{\kf25}Aw{\kf37} aw{\kf37} oh
+Dialogue: 0,0:01:39.95,0:01:41.78,DEFAULT,,0,0,0,,{\r}{\kf20}Let's{\kf20} ce{\kf20}le{\kf20}brate{\kf20} your{\kf39} birth{\kf44}day
+Dialogue: 0,0:01:42.25,0:01:43.14,DEFAULT,,0,0,0,,{\r}{\kf38}Aw{\kf51} oh
+Dialogue: 0,0:01:43.35,0:01:45.18,DEFAULT,,0,0,0,,{\r}{\kf31}Aw{\kf46} oh{\kf15} aw{\kf38} aw{\kf53} oh
+Dialogue: 0,0:01:46.59,0:01:49.05,DEFAULT,,0,0,0,,{\r}{\kf25}Let's{\kf19} ce{\kf19}le{\kf19}brate{\kf19} your{\kf44} birth{\kf38}day{\kf25} par{\kf38}ty
+Dialogue: 0,0:01:49.31,0:01:49.88,DEFAULT,,0,0,0,,{\r}{\kf57}Yay!

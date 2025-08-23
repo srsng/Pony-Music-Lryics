@@ -1,69 +1,76 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Love and Tolerance is Dead
+Artist: The Wonderbolts
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:29.49,0:00:30.29,DEFAULT,,0,0,0,,{\kf22}Once{\kf11} U{\kf11}pon{\kf11} A{\kf11} Time
-Dialogue: 0,0:00:30.40,0:00:32.60,DEFAULT,,0,0,0,,{\kf11}In{\kf6} the{\kf22} ma{\kf17}gi{\kf17}cal{\kf22} land{\kf11} of{\kf11} the{\kf17} re{\kf17}al{\kf27} world
-Dialogue: 0,0:00:32.97,0:00:34.15,DEFAULT,,0,0,0,,{\kf11}A{\kf11} pret{\kf6}ty{\kf17} big{\kf17} fan{\kf11}dom{\kf11} blew{\kf6} up
-Dialogue: 0,0:00:34.26,0:00:35.92,DEFAULT,,0,0,0,,{\kf6}On{\kf6} a{\kf11} show{\kf11} os{\kf11}ten{\kf17}si{\kf11}bly{\kf11} made{\kf11} for{\kf6} lit{\kf11}tle{\kf17} girls
-Dialogue: 0,0:00:36.45,0:00:38.49,DEFAULT,,0,0,0,,{\kf11}And{\kf11} be{\kf6}ing{\kf11} who{\kf11} we{\kf17} are{\kf11} we{\kf11} came{\kf6} up{\kf11} with{\kf11} cer{\kf11}tain{\kf11} memes
-Dialogue: 0,0:00:38.65,0:00:40.52,DEFAULT,,0,0,0,,{\kf17}And{\kf11} things{\kf11} to{\kf11} dif{\kf11}fe{\kf11}ren{\kf17}tiate{\kf17} our{\kf27}selves
-Dialogue: 0,0:00:41.92,0:00:42.56,DEFAULT,,0,0,0,,{\kf11}But{\kf11} you{\kf27} know
-Dialogue: 0,0:00:43.31,0:00:44.17,DEFAULT,,0,0,0,,{\kf11}As{\kf17} I've{\kf17} looked{\kf17} back
-Dialogue: 0,0:00:44.27,0:00:46.31,DEFAULT,,0,0,0,,{\kf11}O{\kf11}ver{\kf17} these{\kf27} past{\kf11} few{\kf22} hand{\kf11}ful{\kf11} of{\kf27} years
-Dialogue: 0,0:00:46.74,0:00:48.35,DEFAULT,,0,0,0,,{\kf22}This{\kf22} phrase{\kf17} folks{\kf17} spout{\kf11}ed{\kf11} to{\kf17} me
-Dialogue: 0,0:00:48.45,0:00:49.85,DEFAULT,,0,0,0,,{\kf11}Ne{\kf11}ver{\kf11} real{\kf17}ly{\kf17} seemed{\kf22} sin{\kf27}cere
-Dialogue: 0,0:00:50.11,0:00:51.56,DEFAULT,,0,0,0,,{\kf11}I{\kf11} mean{\kf11} sure{\kf6} it's{\kf11} a{\kf17} nice{\kf22} i{\kf17}dea
-Dialogue: 0,0:00:51.61,0:00:53.81,DEFAULT,,0,0,0,,{\kf11}But{\kf6} once{\kf6} you{\kf6} add{\kf11} in{\kf6} the{\kf11} fact{\kf11} we're{\kf17} all{\kf17} hu{\kf17}man{\kf11} be{\kf22}ings
-Dialogue: 0,0:00:54.08,0:00:55.31,DEFAULT,,0,0,0,,{\kf11}Well{\kf11} you{\kf11} know{\kf17} how{\kf17} that{\kf27} goes
-Dialogue: 0,0:00:55.85,0:00:56.65,DEFAULT,,0,0,0,,{\kf17}So{\kf17} I{\kf33} say
-Dialogue: 0,0:00:57.19,0:01:00.02,DEFAULT,,0,0,0,,{\kf22}Love{\kf17} and{\kf22} to{\kf22}le{\kf17}rance{\kf17} is{\kf17} dead{\kf81}~{\kf38}~
-Dialogue: 0,0:01:00.40,0:01:03.61,DEFAULT,,0,0,0,,{\kf17}I{\kf17} wan{\kf17}na{\kf17} find{\kf17} some{\kf17}thing{\kf27} else{\kf27} ins{\kf65}tead{\kf38}~
-Dialogue: 0,0:01:03.83,0:01:05.49,DEFAULT,,0,0,0,,{\kf11}Some{\kf11}thing{\kf11} that's{\kf11} a{\kf11} lit{\kf11}tle{\kf11} bit{\kf22} more{\kf33} real
-Dialogue: 0,0:01:05.97,0:01:09.45,DEFAULT,,0,0,0,,{\kf17}For{\kf22} me{\kf17} and{\kf118} you{\kf38}~{\kf27}~{\kf59}~
-Dialogue: 0,0:01:09.83,0:01:12.61,DEFAULT,,0,0,0,,{\kf17}No{\kf17} this{\kf17} is{\kf33} not{\kf17} a{\kf17} so{\kf17}cial{\kf17} re{\kf17}vo{\kf17}lu{\kf17}tion
-Dialogue: 0,0:01:12.88,0:01:16.47,DEFAULT,,0,0,0,,{\kf17}Of{\kf17} which{\kf17} a{\kf17} sin{\kf17}gle{\kf17} mo{\kf17}del{\kf17} of{\kf17}fers{\kf17} a{\kf17} last{\kf17}ing{\kf17} so{\kf17}lu{\kf59}tion
-Dialogue: 0,0:01:16.74,0:01:19.04,DEFAULT,,0,0,0,,{\kf38}No,{\kf22} some{\kf17} things{\kf11} you{\kf11} shoul{\kf11}dn't{\kf17} to{\kf17}le{\kf17}rate
-Dialogue: 0,0:01:19.26,0:01:23.06,DEFAULT,,0,0,0,,{\kf17}Some{\kf17} peo{\kf17}ple{\kf17} can{\kf17}not{\kf17} be{\kf43} loved{\kf17}~{\kf22}~{\kf11}~{\kf17}~{\kf11}~{\kf33}~{\kf17}~{\kf27}~
-Dialogue: 0,0:01:24.35,0:01:25.63,DEFAULT,,0,0,0,,{\kf11}Now{\kf17} don't{\kf11} mis{\kf11}un{\kf17}der{\kf17}stand{\kf11} me
-Dialogue: 0,0:01:25.69,0:01:27.45,DEFAULT,,0,0,0,,{\kf11}I'm{\kf11} not{\kf11} say{\kf6}ing{\kf11} we{\kf6} should{\kf11} all{\kf11} quit{\kf11} and{\kf17} jump{\kf22} ship
-Dialogue: 0,0:01:27.72,0:01:30.83,DEFAULT,,0,0,0,,{\kf11}To{\kf11} what{\kf11}e{\kf17}ver{\kf11} fla{\kf11}vor{\kf6} of{\kf11} the{\kf22} month{\kf43} _____{\kf17} fan{\kf17}dom{\kf17} cur{\kf11}ren{\kf17}tly{\kf17} hip
-Dialogue: 0,0:01:31.31,0:01:33.29,DEFAULT,,0,0,0,,{\kf17}Oh{\kf11} no{\kf11} I{\kf17} still{\kf17} love{\kf17} these{\kf11} lit{\kf17}tle{\kf17} hor{\kf11}ses
-Dialogue: 0,0:01:33.35,0:01:35.17,DEFAULT,,0,0,0,,{\kf11}And{\kf17} that{\kf17} right{\kf17} there{\kf17}'ll{\kf11} ne{\kf17}ver{\kf38} change
-Dialogue: 0,0:01:35.76,0:01:36.83,DEFAULT,,0,0,0,,{\kf22}Oh{\kf33} no{\kf33}~
-Dialogue: 0,0:01:38.11,0:01:39.88,DEFAULT,,0,0,0,,{\kf11}Oh{\kf11} see{\kf11} I{\kf11} just{\kf17} think{\kf17} those{\kf11} three{\kf11} lit{\kf17}tle{\kf17} words
-Dialogue: 0,0:01:40.04,0:01:41.22,DEFAULT,,0,0,0,,{\kf6}Real{\kf11}ly{\kf22} have{\kf17} dropped{\kf17} the{\kf22} ball
-Dialogue: 0,0:01:41.54,0:01:42.99,DEFAULT,,0,0,0,,{\kf17}Be{\kf11}cause{\kf11} as{\kf11} the{\kf17} show{\kf17} has{\kf17} taught{\kf17} us
-Dialogue: 0,0:01:43.15,0:01:44.60,DEFAULT,,0,0,0,,{\kf17}One{\kf22} size{\kf17} does{\kf17} not{\kf11} fit{\kf22} all
-Dialogue: 0,0:01:44.97,0:01:46.47,DEFAULT,,0,0,0,,{\kf17}As{\kf17} for{\kf11} what{\kf11} we{\kf11} should{\kf17} use{\kf17} ins{\kf17}tead
-Dialogue: 0,0:01:46.69,0:01:47.44,DEFAULT,,0,0,0,,{\kf6}Well{\kf6} you're{\kf6} gon{\kf6}na{\kf6} have{\kf6} to{\kf11} ask
-Dialogue: 0,0:01:47.54,0:01:49.31,DEFAULT,,0,0,0,,{\kf17}Some{\kf22}one{\kf22} smart{\kf17}er{\kf11} than{\kf22} me{\kf17} fil{\kf22}ly
-Dialogue: 0,0:01:49.85,0:01:51.40,DEFAULT,,0,0,0,,{\kf17}'Cause{\kf22} all{\kf27} I{\kf22} know{\kf38} is
-Dialogue: 0,0:01:52.10,0:01:54.88,DEFAULT,,0,0,0,,{\kf17}Love{\kf17} and{\kf17} to{\kf17}le{\kf17}rance{\kf17} is{\kf22} dead{\kf75}~{\kf22}~{\kf11}~
-Dialogue: 0,0:01:55.26,0:01:58.47,DEFAULT,,0,0,0,,{\kf22}I{\kf17} wan{\kf17}na{\kf17} find{\kf17} some{\kf17}thing{\kf27} else{\kf33} ins{\kf59}tead{\kf43}~
-Dialogue: 0,0:01:58.69,0:02:00.35,DEFAULT,,0,0,0,,{\kf17}Some{\kf11}thing{\kf11} that's{\kf6} a{\kf11} lit{\kf11}tle{\kf11} bit{\kf17} more{\kf33} real
-Dialogue: 0,0:02:00.83,0:02:04.31,DEFAULT,,0,0,0,,{\kf22}For{\kf22} me{\kf17} and{\kf113} you{\kf27}~{\kf27}~{\kf59}~
-Dialogue: 0,0:02:04.63,0:02:07.52,DEFAULT,,0,0,0,,{\kf22}Now{\kf17} this{\kf17} is{\kf27} not{\kf22} a{\kf17} call{\kf11} to{\kf17} dis{\kf17}a{\kf22}vow{\kf17}~
-Dialogue: 0,0:02:07.74,0:02:11.22,DEFAULT,,0,0,0,,{\kf17}This{\kf11} is{\kf17} a{\kf22} hoof{\kf27}smack{\kf17} meant{\kf17} to{\kf17} drag{\kf17} us{\kf17} in{\kf22}to{\kf17} now{\kf27}~{\kf11}~
-Dialogue: 0,0:02:11.54,0:02:14.11,DEFAULT,,0,0,0,,{\kf11}Re{\kf11}a{\kf27}lize,{\kf17} the{\kf17} le{\kf17}ga{\kf17}cy{\kf17} of{\kf17} be{\kf38}fore
-Dialogue: 0,0:02:14.38,0:02:18.13,DEFAULT,,0,0,0,,{\kf17}Does{\kf17}n't{\kf17} have{\kf17} to{\kf17} re{\kf17}main{\kf134}~{\kf17}~{\kf92}~
-Dialogue: 0,0:02:18.40,0:02:21.19,DEFAULT,,0,0,0,,{\kf75}Oh{\kf22} yeah{\kf17} the{\kf22} past{\kf17} is{\kf33} gone{\kf22} now
-Dialogue: 0,0:02:21.40,0:02:24.99,DEFAULT,,0,0,0,,{\kf22}We{\kf17} got{\kf17}ta{\kf17} move{\kf22} on{\kf33} now,{\kf22} we{\kf17} got{\kf17}ta{\kf17} move{\kf17} on{\kf75}~
-Dialogue: 0,0:02:25.26,0:02:27.67,DEFAULT,,0,0,0,,{\kf17}The{\kf17} time{\kf17} is{\kf33} ours{\kf17} to{\kf17} take{\kf17} up{\kf17} the{\kf27} reins
-Dialogue: 0,0:02:27.88,0:02:31.90,DEFAULT,,0,0,0,,{\kf17}And{\kf22} re{\kf17}write{\kf17} all{\kf17} the{\kf140} rules{\kf11}~{\kf17}~{\kf11}~{\kf11}~{\kf33}~{\kf17}~
-Dialogue: 0,0:02:32.11,0:02:34.95,DEFAULT,,0,0,0,,{\kf75}Yeah{\kf17} I{\kf17} know{\kf17} that{\kf17} change{\kf17} can{\kf17} be{\kf17} sca{\kf22}~{\kf22}ry
-Dialogue: 0,0:02:35.11,0:02:38.54,DEFAULT,,0,0,0,,{\kf17}But{\kf17} we{\kf17} should{\kf17} be{\kf17} wa{\kf17}~{\kf27}ry{\kf17} of{\kf17} trot{\kf17}ting{\kf17} in{\kf17} place{\kf65}~
-Dialogue: 0,0:02:38.97,0:02:40.69,DEFAULT,,0,0,0,,{\kf17}And{\kf27} that's{\kf27} why{\kf27} I{\kf22} say
-Dialogue: 0,0:02:40.90,0:02:43.10,DEFAULT,,0,0,0,,{\kf17}Love{\kf17} and{\kf17} To{\kf17}le{\kf17}rance{\kf17} is{\kf17} dead{\kf65}~
-Dialogue: 0,0:04:03.61,0:04:05.27,DEFAULT,,0,0,0,,{\kf167}Yeah
-Dialogue: 0,0:04:05.54,0:04:07.52,DEFAULT,,0,0,0,,{\kf17}I{\kf17} know{\kf17} that{\kf17} change{\kf17} can{\kf17} be{\kf17} sca{\kf27}~{\kf17}ry
-Dialogue: 0,0:04:07.74,0:04:11.27,DEFAULT,,0,0,0,,{\kf17}But{\kf17} we{\kf17} should{\kf17} be{\kf17} wa{\kf17}~{\kf22}ry{\kf17} of{\kf27} trot{\kf22}ting{\kf17} in{\kf75} place
-Dialogue: 0,0:04:11.54,0:04:13.31,DEFAULT,,0,0,0,,{\kf17}And{\kf27} that's{\kf27} why{\kf27} I{\kf27} say
-Dialogue: 0,0:04:13.47,0:04:18.72,DEFAULT,,0,0,0,,{\kf17}Love{\kf17} and{\kf17} To{\kf17}le{\kf17}rance{\kf17} is{\kf397} dead
+Dialogue: 0,0:00:29.49,0:00:30.30,DEFAULT,,0,0,0,,{\r}{\kf27}Once{\kf13} U{\kf13}pon{\kf13} A{\kf14} Time
+Dialogue: 0,0:00:30.40,0:00:32.60,DEFAULT,,0,0,0,,{\r}{\kf14}In{\kf10} the{\kf27} ma{\kf21}gi{\kf21}cal{\kf27} land{\kf14} of{\kf14} the{\kf21} re{\kf21}al{\kf30} world
+Dialogue: 0,0:00:32.98,0:00:34.15,DEFAULT,,0,0,0,,{\r}{\kf15}A{\kf15} pret{\kf10}ty{\kf22} big{\kf22} fan{\kf15}dom{\kf15} blew{\kf10} up
+Dialogue: 0,0:00:34.26,0:00:35.92,DEFAULT,,0,0,0,,{\r}{\kf10}On{\kf10} a{\kf14} show{\kf14} os{\kf14}ten{\kf22}si{\kf14}bly{\kf14} made{\kf14} for{\kf10} lit{\kf14}tle{\kf16} girls
+Dialogue: 0,0:00:36.46,0:00:38.49,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf16} be{\kf10}ing{\kf16} who{\kf16} we{\kf24} are{\kf16} we{\kf16} came{\kf10} up{\kf16} with{\kf16} cer{\kf16}tain{\kf16} memes
+Dialogue: 0,0:00:38.65,0:00:40.53,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf16} things{\kf16} to{\kf16} dif{\kf16}fe{\kf16}ren{\kf24}tiate{\kf24} our{\kf36}selves
+Dialogue: 0,0:00:41.92,0:00:42.57,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf14} you{\kf36} know
+Dialogue: 0,0:00:43.32,0:00:44.17,DEFAULT,,0,0,0,,{\r}{\kf16}As{\kf23} I've{\kf23} looked{\kf24} back
+Dialogue: 0,0:00:44.28,0:00:46.32,DEFAULT,,0,0,0,,{\r}{\kf15}O{\kf15}ver{\kf23} these{\kf38} past{\kf15} few{\kf30} hand{\kf15}ful{\kf15} of{\kf38} years
+Dialogue: 0,0:00:46.74,0:00:48.35,DEFAULT,,0,0,0,,{\r}{\kf31}This{\kf31} phrase{\kf23} folks{\kf23} spout{\kf15}ed{\kf15} to{\kf23} me
+Dialogue: 0,0:00:48.46,0:00:49.85,DEFAULT,,0,0,0,,{\r}{\kf13}Ne{\kf13}ver{\kf13} real{\kf20}ly{\kf20} seemed{\kf26} sin{\kf34}cere
+Dialogue: 0,0:00:50.12,0:00:51.57,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf15} mean{\kf15} sure{\kf10} it's{\kf15} a{\kf23} nice{\kf31} i{\kf21}dea
+Dialogue: 0,0:00:51.62,0:00:53.82,DEFAULT,,0,0,0,,{\r}{\kf16}But{\kf10} once{\kf10} you{\kf10} add{\kf16} in{\kf10} the{\kf16} fact{\kf16} we're{\kf24} all{\kf24} hu{\kf24}man{\kf16} be{\kf28}ings
+Dialogue: 0,0:00:54.08,0:00:55.32,DEFAULT,,0,0,0,,{\r}{\kf14}Well{\kf14} you{\kf14} know{\kf22} how{\kf22} that{\kf37} goes
+Dialogue: 0,0:00:55.85,0:00:56.65,DEFAULT,,0,0,0,,{\r}{\kf20}So{\kf20} I{\kf40} say
+Dialogue: 0,0:00:57.19,0:01:00.03,DEFAULT,,0,0,0,,{\r}{\kf25}Love{\kf19} and{\kf25} to{\kf25}le{\kf19}rance{\kf19} is{\kf19} dead{\kf93}~{\kf40}~
+Dialogue: 0,0:01:00.40,0:01:03.62,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf20} wan{\kf20}na{\kf20} find{\kf20} some{\kf20}thing{\kf34} else{\kf34} ins{\kf82}tead{\kf51}~
+Dialogue: 0,0:01:03.83,0:01:05.49,DEFAULT,,0,0,0,,{\r}{\kf14}Some{\kf14}thing{\kf14} that's{\kf14} a{\kf14} lit{\kf14}tle{\kf14} bit{\kf28} more{\kf40} real
+Dialogue: 0,0:01:05.98,0:01:09.46,DEFAULT,,0,0,0,,{\r}{\kf19}For{\kf25} me{\kf19} and{\kf139} you{\kf44}~{\kf32}~{\kf70}~
+Dialogue: 0,0:01:09.83,0:01:12.62,DEFAULT,,0,0,0,,{\r}{\kf23}No{\kf23} this{\kf23} is{\kf46} not{\kf23} a{\kf23} so{\kf23}cial{\kf23} re{\kf23}vo{\kf23}lu{\kf26}tion
+Dialogue: 0,0:01:12.89,0:01:16.48,DEFAULT,,0,0,0,,{\r}{\kf20}Of{\kf20} which{\kf20} a{\kf20} sin{\kf20}gle{\kf20} mo{\kf20}del{\kf20} of{\kf20}fers{\kf20} a{\kf20} last{\kf20}ing{\kf20} so{\kf20}lu{\kf79}tion
+Dialogue: 0,0:01:16.74,0:01:19.05,DEFAULT,,0,0,0,,{\r}{\kf56}No,{\kf32} some{\kf24} things{\kf16} you{\kf16} shoul{\kf16}dn't{\kf24} to{\kf24}le{\kf22}rate
+Dialogue: 0,0:01:19.26,0:01:23.07,DEFAULT,,0,0,0,,{\r}{\kf21}Some{\kf21} peo{\kf21}ple{\kf21} can{\kf21}not{\kf21} be{\kf56} loved{\kf21}~{\kf28}~{\kf14}~{\kf21}~{\kf14}~{\kf42}~{\kf21}~{\kf37}~
+Dialogue: 0,0:01:24.35,0:01:25.64,DEFAULT,,0,0,0,,{\r}{\kf15}Now{\kf23} don't{\kf15} mis{\kf15}un{\kf23}der{\kf23}stand{\kf15} me
+Dialogue: 0,0:01:25.69,0:01:27.46,DEFAULT,,0,0,0,,{\r}{\kf15}I'm{\kf15} not{\kf15} say{\kf10}ing{\kf15} we{\kf10} should{\kf15} all{\kf15} quit{\kf15} and{\kf23} jump{\kf29} ship
+Dialogue: 0,0:01:27.73,0:01:30.83,DEFAULT,,0,0,0,,{\r}{\kf14}To{\kf14} what{\kf14}e{\kf21}ver{\kf14} fla{\kf14}vor{\kf10} of{\kf14} the{\kf28} month{\kf55} _____{\kf21} fan{\kf21}dom{\kf21} cur{\kf14}ren{\kf21}tly{\kf15} hip
+Dialogue: 0,0:01:31.32,0:01:33.30,DEFAULT,,0,0,0,,{\r}{\kf23}Oh{\kf15} no{\kf15} I{\kf23} still{\kf23} love{\kf23} these{\kf15} lit{\kf23}tle{\kf23} hor{\kf15}ses
+Dialogue: 0,0:01:33.35,0:01:35.17,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf21} that{\kf21} right{\kf21} there{\kf21}'ll{\kf14} ne{\kf21}ver{\kf49} change
+Dialogue: 0,0:01:35.76,0:01:36.83,DEFAULT,,0,0,0,,{\r}{\kf27}Oh{\kf40} no{\kf40}~
+Dialogue: 0,0:01:38.12,0:01:39.89,DEFAULT,,0,0,0,,{\r}{\kf15}Oh{\kf15} see{\kf15} I{\kf15} just{\kf22} think{\kf22} those{\kf15} three{\kf15} lit{\kf22}tle{\kf21} words
+Dialogue: 0,0:01:40.05,0:01:41.23,DEFAULT,,0,0,0,,{\r}{\kf10}Real{\kf14}ly{\kf28} have{\kf21} dropped{\kf21} the{\kf24} ball
+Dialogue: 0,0:01:41.55,0:01:42.99,DEFAULT,,0,0,0,,{\r}{\kf21}Be{\kf14}cause{\kf14} as{\kf14} the{\kf21} show{\kf21} has{\kf21} taught{\kf19} us
+Dialogue: 0,0:01:43.15,0:01:44.60,DEFAULT,,0,0,0,,{\r}{\kf23}One{\kf31} size{\kf23} does{\kf23} not{\kf15} fit{\kf30} all
+Dialogue: 0,0:01:44.98,0:01:46.48,DEFAULT,,0,0,0,,{\r}{\kf21}As{\kf21} for{\kf14} what{\kf14} we{\kf14} should{\kf21} use{\kf21} ins{\kf24}tead
+Dialogue: 0,0:01:46.69,0:01:47.44,DEFAULT,,0,0,0,,{\r}{\kf10}Well{\kf10} you're{\kf10} gon{\kf10}na{\kf10} have{\kf10} to{\kf15} ask
+Dialogue: 0,0:01:47.55,0:01:49.32,DEFAULT,,0,0,0,,{\r}{\kf20}Some{\kf26}one{\kf26} smart{\kf20}er{\kf13} than{\kf26} me{\kf20} fil{\kf26}ly
+Dialogue: 0,0:01:49.85,0:01:51.40,DEFAULT,,0,0,0,,{\r}{\kf20}'Cause{\kf27} all{\kf34} I{\kf27} know{\kf47} is
+Dialogue: 0,0:01:52.10,0:01:54.89,DEFAULT,,0,0,0,,{\r}{\kf20}Love{\kf20} and{\kf20} to{\kf20}le{\kf20}rance{\kf20} is{\kf27} dead{\kf93}~{\kf27}~{\kf12}~
+Dialogue: 0,0:01:55.26,0:01:58.48,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf20} wan{\kf20}na{\kf20} find{\kf20} some{\kf20}thing{\kf33} else{\kf39} ins{\kf72}tead{\kf51}~
+Dialogue: 0,0:01:58.69,0:02:00.35,DEFAULT,,0,0,0,,{\r}{\kf22}Some{\kf14}thing{\kf14} that's{\kf10} a{\kf14} lit{\kf14}tle{\kf14} bit{\kf22} more{\kf42} real
+Dialogue: 0,0:02:00.83,0:02:04.32,DEFAULT,,0,0,0,,{\r}{\kf26}For{\kf26} me{\kf20} and{\kf138} you{\kf33}~{\kf33}~{\kf72}~
+Dialogue: 0,0:02:04.64,0:02:07.53,DEFAULT,,0,0,0,,{\r}{\kf31}Now{\kf23} this{\kf23} is{\kf39} not{\kf31} a{\kf23} call{\kf16} to{\kf23} dis{\kf23}a{\kf31}vow{\kf26}~
+Dialogue: 0,0:02:07.74,0:02:11.23,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf15} is{\kf23} a{\kf30} hoof{\kf38}smack{\kf23} meant{\kf23} to{\kf23} drag{\kf23} us{\kf23} in{\kf30}to{\kf23} now{\kf38}~{\kf13}~
+Dialogue: 0,0:02:11.55,0:02:14.12,DEFAULT,,0,0,0,,{\r}{\kf15}Re{\kf15}a{\kf38}lize,{\kf23} the{\kf23} le{\kf23}ga{\kf23}cy{\kf23} of{\kf23} be{\kf51}fore
+Dialogue: 0,0:02:14.39,0:02:18.14,DEFAULT,,0,0,0,,{\r}{\kf18}Does{\kf18}n't{\kf18} have{\kf18} to{\kf18} re{\kf18}main{\kf149}~{\kf18}~{\kf100}~
+Dialogue: 0,0:02:18.40,0:02:21.19,DEFAULT,,0,0,0,,{\r}{\kf103}Oh{\kf29} yeah{\kf22} the{\kf29} past{\kf22} is{\kf44} gone{\kf30} now
+Dialogue: 0,0:02:21.40,0:02:24.99,DEFAULT,,0,0,0,,{\r}{\kf27}We{\kf20} got{\kf20}ta{\kf20} move{\kf27} on{\kf41} now,{\kf27} we{\kf20} got{\kf20}ta{\kf20} move{\kf20} on{\kf97}~
+Dialogue: 0,0:02:25.26,0:02:27.67,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf23} time{\kf23} is{\kf45} ours{\kf23} to{\kf23} take{\kf23} up{\kf23} the{\kf35} reins
+Dialogue: 0,0:02:27.89,0:02:31.90,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf27} re{\kf20}write{\kf20} all{\kf20} the{\kf174} rules{\kf13}~{\kf20}~{\kf13}~{\kf13}~{\kf40}~{\kf22}~
+Dialogue: 0,0:02:32.12,0:02:34.96,DEFAULT,,0,0,0,,{\r}{\kf92}Yeah{\kf20} I{\kf20} know{\kf20} that{\kf20} change{\kf20} can{\kf20} be{\kf20} sca{\kf26}~{\kf26}ry
+Dialogue: 0,0:02:35.12,0:02:38.55,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf21} we{\kf21} should{\kf21} be{\kf21} wa{\kf21}~{\kf34}ry{\kf21} of{\kf21} trot{\kf21}ting{\kf21} in{\kf21} place{\kf78}~
+Dialogue: 0,0:02:38.98,0:02:40.69,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf39} that's{\kf39} why{\kf39} I{\kf31} say
+Dialogue: 0,0:02:40.90,0:02:43.10,DEFAULT,,0,0,0,,{\r}{\kf20}Love{\kf20} and{\kf20} To{\kf20}le{\kf20}rance{\kf20} is{\kf20} dead{\kf80}~
+Dialogue: 0,0:04:03.62,0:04:05.28,DEFAULT,,0,0,0,,{\r}{\kf166}Yeah
+Dialogue: 0,0:04:05.55,0:04:07.53,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf20} know{\kf20} that{\kf20} change{\kf20} can{\kf20} be{\kf20} sca{\kf34}~{\kf24}ry
+Dialogue: 0,0:04:07.74,0:04:11.28,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf21} we{\kf21} should{\kf21} be{\kf21} wa{\kf21}~{\kf28}ry{\kf21} of{\kf35} trot{\kf28}ting{\kf21} in{\kf95} place
+Dialogue: 0,0:04:11.55,0:04:13.32,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf38} that's{\kf38} why{\kf38} I{\kf40} say
+Dialogue: 0,0:04:13.48,0:04:18.73,DEFAULT,,0,0,0,,{\r}{\kf17}Love{\kf17} and{\kf17} To{\kf17}le{\kf17}rance{\kf17} is{\kf423} dead

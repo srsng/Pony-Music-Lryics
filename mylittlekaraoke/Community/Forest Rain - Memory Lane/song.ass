@@ -1,58 +1,65 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Memory Lane
+Artist: Forest Rain
+Original Timing: mylittlekaraoke.com by Pony Rock Project
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:49.62,0:00:52.12,DEFAULT,,0,0,0,,{\kf17}I{\kf30} find{\kf21} it{\kf17} fun{\kf21}ny{\kf25} that{\kf25} you{\kf34} know
-Dialogue: 0,0:00:52.37,0:00:54.75,DEFAULT,,0,0,0,,{\kf17}You've{\kf25} got{\kf17} a{\kf25} long{\kf30} long{\kf30} way{\kf13} to{\kf34} go
-Dialogue: 0,0:00:54.95,0:00:57.54,DEFAULT,,0,0,0,,{\kf13}Be{\kf34}fore{\kf25} you're{\kf21} per{\kf34}fec{\kf17}tly{\kf30} set{\kf25} up
-Dialogue: 0,0:00:57.62,0:00:59.95,DEFAULT,,0,0,0,,{\kf25} To{\kf21} be{\kf13} the{\kf25} talk{\kf25} of{\kf25} the{\kf38} town
-Dialogue: 0,0:01:00.37,0:01:02.79,DEFAULT,,0,0,0,,{\kf17}'Cuz{\kf13} if{\kf25} you{\kf34} count{\kf17} up{\kf25} all{\kf25} you've{\kf34} got
-Dialogue: 0,0:01:03.12,0:01:05.54,DEFAULT,,0,0,0,,{\kf17}You'll{\kf17} no{\kf21}tice{\kf17} that{\kf30} you've{\kf34} got{\kf25} a{\kf34} lot
-Dialogue: 0,0:01:05.95,0:01:07.54,DEFAULT,,0,0,0,,{\kf30}When{\kf21} you're{\kf34} so{\kf30} high{\kf25} up
-Dialogue: 0,0:01:07.62,0:01:10.54,DEFAULT,,0,0,0,,{\kf21} it{\kf38} takes{\kf25} some{\kf38} time{\kf17} to{\kf25} bring{\kf21} you{\kf55} on
-Dialogue: 0,0:01:10.62,0:01:14.83,DEFAULT,,0,0,0,,{\kf34}Do{\kf59}-own,{\kf59} down{\kf59} to{\kf55} where{\kf21} you{\kf21} can{\kf63} smell
-Dialogue: 0,0:01:14.79,0:01:16.58,DEFAULT,,0,0,0,,{\kf13} the{\kf50} sweet{\kf46} bread{\kf42} bake
-Dialogue: 0,0:01:19.66,0:01:24.25,DEFAULT,,0,0,0,,{\kf25}It{\kf50} takes{\kf46} some{\kf34} ti{\kf38}-ime{\kf13} to{\kf50} bring{\kf21} you{\kf34} on{\kf67} down
-Dialogue: 0,0:01:25.00,0:01:30.58,DEFAULT,,0,0,0,,{\kf17}to{\kf34} where{\kf13} the{\kf25} me{\kf21}mo{\kf30}-o{\kf67}ries{\kf21} a{\kf125}wa{\kf17}-a{\kf159}-ait
-Dialogue: 0,0:01:32.62,0:01:34.91,DEFAULT,,0,0,0,,{\kf17}You{\kf13} just{\kf17} got{\kf9}ta{\kf25} walk{\kf21} that{\kf25} path{\kf17} a{\kf42}gain
-Dialogue: 0,0:01:35.00,0:01:37.50,DEFAULT,,0,0,0,,{\kf25}and{\kf17} you{\kf21} can{\kf17} smi{\kf34}-i{\kf13}-le{\kf30} smi{\kf17}-le{\kf42} smile
-Dialogue: 0,0:01:38.00,0:01:40.50,DEFAULT,,0,0,0,,{\kf13}You{\kf13} can{\kf13} hear{\kf13} the{\kf30} laugh{\kf17}te{\kf17}-er{\kf13} of{\kf9} yo{\kf30}ur{\kf50} friends
-Dialogue: 0,0:01:40.54,0:01:42.79,DEFAULT,,0,0,0,,{\kf17}And{\kf13} you{\kf21} can{\kf17} jo{\kf25}-oin{\kf25} in{\kf25} all{\kf17} the{\kf30} while
-Dialogue: 0,0:01:43.33,0:01:45.62,DEFAULT,,0,0,0,,{\kf13}E{\kf34}ven{\kf30} when{\kf17} you{\kf42} feel{\kf17} a{\kf50}lone
-Dialogue: 0,0:01:45.79,0:01:48.33,DEFAULT,,0,0,0,,{\kf17}And{\kf17} e{\kf25}ven{\kf21} if{\kf25} that{\kf25} may{\kf21} be{\kf59} so
-Dialogue: 0,0:01:48.66,0:01:50.83,DEFAULT,,0,0,0,,{\kf13}You've{\kf13} just{\kf17} got{\kf13}ta{\kf25} walk{\kf25} that{\kf25} path{\kf17} a{\kf34}gain
-Dialogue: 0,0:01:51.00,0:01:54.50,DEFAULT,,0,0,0,,{\kf25}And{\kf17} you{\kf21} can{\kf17} smi{\kf34}-i{\kf21}-le{\kf34} smi{\kf34}-le{\kf100} smile
-Dialogue: 0,0:01:59.00,0:02:01.45,DEFAULT,,0,0,0,,{\kf25}No{\kf34} mat{\kf21}ter{\kf25} if{\kf21} you're{\kf21} un{\kf30}der{\kf38}wing
-Dialogue: 0,0:02:01.62,0:02:04.37,DEFAULT,,0,0,0,,{\kf21}Like{\kf25} ra{\kf34}cing{\kf25} or{\kf13} the{\kf34} fi{\kf17}ner{\kf59} things
-Dialogue: 0,0:02:04.41,0:02:07.66,DEFAULT,,0,0,0,,{\kf17}It's{\kf30} plain{\kf13} to{\kf38} see{\kf25} that{\kf25} we{\kf30} can{\kf34} all{\kf34} a{\kf34}gree
-Dialogue: 0,0:02:07.79,0:02:09.58,DEFAULT,,0,0,0,,{\kf17} to{\kf25} lend{\kf25} out{\kf25} our{\kf63} love
-Dialogue: 0,0:02:09.91,0:02:12.16,DEFAULT,,0,0,0,,{\kf13}And{\kf13} if{\kf25} you{\kf30} keep{\kf13} your{\kf34}self{\kf21} on{\kf42} track
-Dialogue: 0,0:02:12.54,0:02:14.79,DEFAULT,,0,0,0,,{\kf13}Then{\kf13} you'll{\kf21} get{\kf46} twice{\kf17} as{\kf25} much{\kf30} love{\kf30} back
-Dialogue: 0,0:02:15.33,0:02:19.29,DEFAULT,,0,0,0,,{\kf17}And{\kf17} the{\kf25} twi{\kf25}ching{\kf34} tail{\kf21} will{\kf42} then{\kf17} as{\kf38}sail{\kf13} us{\kf25} all{\kf38} from
-Dialogue: 0,0:02:19.33,0:02:22.20,DEFAULT,,0,0,0,,{\kf25}A{\kf34}bo{\kf100}-ove{\kf42} you{\kf30} where{\kf25} the
-Dialogue: 0,0:02:22.37,0:02:26.54,DEFAULT,,0,0,0,,{\kf46}Hurt{\kf34}ful{\kf21} and{\kf25} the{\kf25} hate{\kf25}ful{\kf17} can{\kf34}not{\kf121} fly
-Dialogue: 0,0:02:28.33,0:02:33.79,DEFAULT,,0,0,0,,{\kf25}It's{\kf25} co{\kf25}ming{\kf25} in{\kf30} from{\kf25} a{\kf34}bo{\kf209}-ove{\kf13} in{\kf9} the{\kf17} ce{\kf13}ru{\kf17}le{\kf25}an
-Dialogue: 0,0:02:34.33,0:02:39.58,DEFAULT,,0,0,0,,{\kf25}And{\kf25} wel{\kf30}com{\kf59}ing{\kf67} sky{\kf38}-y{\kf259}-y
-Dialogue: 0,0:02:41.91,0:02:44.20,DEFAULT,,0,0,0,,{\kf17}You{\kf17} just{\kf17} got{\kf13}ta{\kf25} walk{\kf25} that{\kf25} path{\kf13} a{\kf42}gain
-Dialogue: 0,0:02:44.33,0:02:46.79,DEFAULT,,0,0,0,,{\kf25}And{\kf13} you{\kf17} can{\kf21} smi{\kf30}-i{\kf17}-le{\kf25} smi{\kf17}-le{\kf42} smile
-Dialogue: 0,0:02:47.29,0:02:49.83,DEFAULT,,0,0,0,,{\kf17}You{\kf13} can{\kf17} hear{\kf13} the{\kf25} laugh{\kf25}ter{\kf17} of{\kf13} yo{\kf25}-ur{\kf59} friends
-Dialogue: 0,0:02:49.87,0:02:52.08,DEFAULT,,0,0,0,,{\kf13}And{\kf13} you{\kf17} can{\kf21} jo{\kf25}-oin{\kf25} in{\kf21} all{\kf17} the{\kf34} while
-Dialogue: 0,0:02:52.62,0:02:54.83,DEFAULT,,0,0,0,,{\kf13}E{\kf30}ven{\kf25} when{\kf25} you{\kf34} feel{\kf17} a{\kf38}lone
-Dialogue: 0,0:02:55.25,0:02:57.58,DEFAULT,,0,0,0,,{\kf17}E{\kf25}ven{\kf21} if{\kf21} that{\kf25} may{\kf25} be{\kf50} so
-Dialogue: 0,0:02:57.95,0:03:00.20,DEFAULT,,0,0,0,,{\kf17}You've{\kf17} just{\kf17} got{\kf13}ta{\kf25} walk{\kf34} that{\kf30} path{\kf17} a{\kf42}gain
-Dialogue: 0,0:03:00.33,0:03:03.83,DEFAULT,,0,0,0,,{\kf25}And{\kf9} you{\kf25} can{\kf21} smi{\kf25}-i{\kf21}-le{\kf34} smi{\kf38}-le{\kf109} smile
-Dialogue: 0,0:03:24.58,0:03:26.87,DEFAULT,,0,0,0,,{\kf17}You{\kf17} just{\kf21} got{\kf13}ta{\kf25} walk{\kf25} that{\kf30} path{\kf17} a{\kf46}gain
-Dialogue: 0,0:03:27.00,0:03:29.58,DEFAULT,,0,0,0,,{\kf25}And{\kf17} you{\kf17} can{\kf17} smi{\kf34}-i{\kf17}-le{\kf25} smi{\kf17}-le{\kf55} smile
-Dialogue: 0,0:03:30.00,0:03:32.50,DEFAULT,,0,0,0,,{\kf13}You{\kf13} can{\kf21} hear{\kf17} the{\kf25} laugh{\kf30}ter{\kf13} of{\kf17} yo{\kf25}-ur{\kf55} friends
-Dialogue: 0,0:03:32.50,0:03:34.83,DEFAULT,,0,0,0,,{\kf13}And{\kf13} you{\kf17} can{\kf21} jo{\kf25}-oin{\kf17} in{\kf25} all{\kf17} the{\kf46} while
-Dialogue: 0,0:03:35.29,0:03:37.54,DEFAULT,,0,0,0,,{\kf13}E{\kf25}ven{\kf30} when{\kf25} you{\kf42} feel{\kf9} a{\kf46}lone
-Dialogue: 0,0:03:37.83,0:03:40.25,DEFAULT,,0,0,0,,{\kf13}And{\kf13} e{\kf25}ven{\kf21} if{\kf25} that{\kf25} may{\kf21} be{\kf50} so
-Dialogue: 0,0:03:40.62,0:03:42.83,DEFAULT,,0,0,0,,{\kf13}You've{\kf17} just{\kf17} got{\kf13}ta{\kf21} walk{\kf30} that{\kf25} path{\kf13} a{\kf42}gain
-Dialogue: 0,0:03:43.00,0:03:46.50,DEFAULT,,0,0,0,,{\kf21}And{\kf13} you{\kf25} can{\kf17} smi{\kf34}-i{\kf21}-le{\kf38} smi{\kf25}-le{\kf105} smile
+Dialogue: 0,0:00:49.62,0:00:52.12,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf39} find{\kf28} it{\kf22} fun{\kf28}ny{\kf33} that{\kf33} you{\kf45} know
+Dialogue: 0,0:00:52.38,0:00:54.75,DEFAULT,,0,0,0,,{\r}{\kf21}You've{\kf32} got{\kf21} a{\kf32} long{\kf37} long{\kf37} way{\kf16} to{\kf42} go
+Dialogue: 0,0:00:54.96,0:00:57.54,DEFAULT,,0,0,0,,{\r}{\kf16}Be{\kf44}fore{\kf33} you're{\kf27} per{\kf44}fec{\kf22}tly{\kf38} set{\kf34} up
+Dialogue: 0,0:00:57.62,0:00:59.96,DEFAULT,,0,0,0,,{\r}{\kf34} To{\kf28} be{\kf17} the{\kf34} talk{\kf34} of{\kf34} the{\kf52} town
+Dialogue: 0,0:01:00.38,0:01:02.79,DEFAULT,,0,0,0,,{\r}{\kf22}'Cuz{\kf16} if{\kf32} you{\kf43} count{\kf22} up{\kf32} all{\kf32} you've{\kf43} got
+Dialogue: 0,0:01:03.12,0:01:05.54,DEFAULT,,0,0,0,,{\r}{\kf21}You'll{\kf21} no{\kf26}tice{\kf21} that{\kf37} you've{\kf42} got{\kf32} a{\kf42} lot
+Dialogue: 0,0:01:05.96,0:01:07.54,DEFAULT,,0,0,0,,{\r}{\kf34}When{\kf24} you're{\kf38} so{\kf34} high{\kf28} up
+Dialogue: 0,0:01:07.62,0:01:10.54,DEFAULT,,0,0,0,,{\r}{\kf26} it{\kf46} takes{\kf31} some{\kf46} time{\kf20} to{\kf31} bring{\kf26} you{\kf66} on
+Dialogue: 0,0:01:10.62,0:01:14.83,DEFAULT,,0,0,0,,{\r}{\kf38}Do{\kf67}-own,{\kf67} down{\kf67} to{\kf62} where{\kf24} you{\kf24} can{\kf72} smell
+Dialogue: 0,0:01:14.79,0:01:16.58,DEFAULT,,0,0,0,,{\r}{\kf15} the{\kf60} sweet{\kf55} bread{\kf49} bake
+Dialogue: 0,0:01:19.67,0:01:24.25,DEFAULT,,0,0,0,,{\r}{\kf31}It{\kf61} takes{\kf56} some{\kf41} ti{\kf46}-ime{\kf15} to{\kf61} bring{\kf25} you{\kf41} on{\kf81} down
+Dialogue: 0,0:01:25.00,0:01:30.58,DEFAULT,,0,0,0,,{\r}{\kf18}to{\kf35} where{\kf13} the{\kf27} me{\kf22}mo{\kf31}-o{\kf71}ries{\kf22} a{\kf133}wa{\kf18}-a{\kf168}-ait
+Dialogue: 0,0:01:32.62,0:01:34.92,DEFAULT,,0,0,0,,{\r}{\kf21}You{\kf16} just{\kf21} got{\kf10}ta{\kf31} walk{\kf26} that{\kf31} path{\kf21} a{\kf52}gain
+Dialogue: 0,0:01:35.00,0:01:37.50,DEFAULT,,0,0,0,,{\r}{\kf29}and{\kf20} you{\kf25} can{\kf20} smi{\kf39}-i{\kf15}-le{\kf34} smi{\kf20}-le{\kf48} smile
+Dialogue: 0,0:01:38.00,0:01:40.50,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf15} can{\kf15} hear{\kf15} the{\kf34} laugh{\kf20}te{\kf20}-er{\kf15} of{\kf10} yo{\kf34}ur{\kf57} friends
+Dialogue: 0,0:01:40.54,0:01:42.79,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf15} you{\kf25} can{\kf20} jo{\kf30}-oin{\kf30} in{\kf30} all{\kf20} the{\kf35} while
+Dialogue: 0,0:01:43.33,0:01:45.62,DEFAULT,,0,0,0,,{\r}{\kf14}E{\kf38}ven{\kf33} when{\kf19} you{\kf48} feel{\kf19} a{\kf58}lone
+Dialogue: 0,0:01:45.79,0:01:48.33,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} e{\kf30}ven{\kf25} if{\kf30} that{\kf30} may{\kf25} be{\kf74} so
+Dialogue: 0,0:01:48.67,0:01:50.83,DEFAULT,,0,0,0,,{\r}{\kf15}You've{\kf15} just{\kf20} got{\kf15}ta{\kf30} walk{\kf30} that{\kf30} path{\kf20} a{\kf42}gain
+Dialogue: 0,0:01:51.00,0:01:54.50,DEFAULT,,0,0,0,,{\r}{\kf29}And{\kf19} you{\kf24} can{\kf19} smi{\kf39}-i{\kf24}-le{\kf39} smi{\kf39}-le{\kf118} smile
+Dialogue: 0,0:01:59.00,0:02:01.46,DEFAULT,,0,0,0,,{\r}{\kf29}No{\kf39} mat{\kf24}ter{\kf29} if{\kf24} you're{\kf24} un{\kf34}der{\kf43}wing
+Dialogue: 0,0:02:01.62,0:02:04.38,DEFAULT,,0,0,0,,{\r}{\kf25}Like{\kf31} ra{\kf41}cing{\kf31} or{\kf15} the{\kf41} fi{\kf20}ner{\kf71} things
+Dialogue: 0,0:02:04.42,0:02:07.67,DEFAULT,,0,0,0,,{\r}{\kf20}It's{\kf34} plain{\kf15} to{\kf44} see{\kf30} that{\kf30} we{\kf34} can{\kf39} all{\kf39} a{\kf40}gree
+Dialogue: 0,0:02:07.79,0:02:09.58,DEFAULT,,0,0,0,,{\r}{\kf19} to{\kf29} lend{\kf29} out{\kf29} our{\kf73} love
+Dialogue: 0,0:02:09.92,0:02:12.17,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} if{\kf30} you{\kf35} keep{\kf15} your{\kf40}self{\kf25} on{\kf50} track
+Dialogue: 0,0:02:12.54,0:02:14.79,DEFAULT,,0,0,0,,{\r}{\kf15}Then{\kf15} you'll{\kf24} get{\kf54} twice{\kf20} as{\kf29} much{\kf34} love{\kf34} back
+Dialogue: 0,0:02:15.33,0:02:19.29,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} the{\kf32} twi{\kf32}ching{\kf43} tail{\kf27} will{\kf54} then{\kf21} as{\kf48}sail{\kf16} us{\kf32} all{\kf49} from
+Dialogue: 0,0:02:19.33,0:02:22.21,DEFAULT,,0,0,0,,{\r}{\kf28}A{\kf38}bo{\kf113}-ove{\kf47} you{\kf33} where{\kf29} the
+Dialogue: 0,0:02:22.38,0:02:26.54,DEFAULT,,0,0,0,,{\r}{\kf55}Hurt{\kf40}ful{\kf25} and{\kf30} the{\kf30} hate{\kf30}ful{\kf20} can{\kf40}not{\kf147} fly
+Dialogue: 0,0:02:28.33,0:02:33.79,DEFAULT,,0,0,0,,{\r}{\kf28}It's{\kf28} co{\kf28}ming{\kf28} in{\kf33} from{\kf28} a{\kf37}bo{\kf233}-ove{\kf14} in{\kf10} the{\kf19} ce{\kf14}ru{\kf19}le{\kf27}an
+Dialogue: 0,0:02:34.33,0:02:39.58,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf26} wel{\kf31}com{\kf61}ing{\kf70} sky{\kf39}-y{\kf272}-y
+Dialogue: 0,0:02:41.92,0:02:44.21,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf20} just{\kf20} got{\kf15}ta{\kf30} walk{\kf30} that{\kf30} path{\kf15} a{\kf49}gain
+Dialogue: 0,0:02:44.33,0:02:46.79,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf15} you{\kf20} can{\kf25} smi{\kf35}-i{\kf20}-le{\kf30} smi{\kf20}-le{\kf51} smile
+Dialogue: 0,0:02:47.29,0:02:49.83,DEFAULT,,0,0,0,,{\r}{\kf19}You{\kf14} can{\kf19} hear{\kf14} the{\kf29} laugh{\kf29}ter{\kf19} of{\kf14} yo{\kf29}-ur{\kf68} friends
+Dialogue: 0,0:02:49.88,0:02:52.08,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} you{\kf20} can{\kf25} jo{\kf30}-oin{\kf30} in{\kf25} all{\kf20} the{\kf41} while
+Dialogue: 0,0:02:52.62,0:02:54.83,DEFAULT,,0,0,0,,{\r}{\kf15}E{\kf36}ven{\kf31} when{\kf31} you{\kf41} feel{\kf21} a{\kf46}lone
+Dialogue: 0,0:02:55.25,0:02:57.58,DEFAULT,,0,0,0,,{\r}{\kf21}E{\kf32}ven{\kf26} if{\kf26} that{\kf32} may{\kf32} be{\kf64} so
+Dialogue: 0,0:02:57.96,0:03:00.21,DEFAULT,,0,0,0,,{\r}{\kf18}You've{\kf18} just{\kf18} got{\kf14}ta{\kf27} walk{\kf36} that{\kf31} path{\kf18} a{\kf45}gain
+Dialogue: 0,0:03:00.33,0:03:03.83,DEFAULT,,0,0,0,,{\r}{\kf29}And{\kf10} you{\kf29} can{\kf24} smi{\kf29}-i{\kf24}-le{\kf38} smi{\kf43}-le{\kf124} smile
+Dialogue: 0,0:03:24.58,0:03:26.88,DEFAULT,,0,0,0,,{\r}{\kf18}You{\kf18} just{\kf23} got{\kf14}ta{\kf27} walk{\kf27} that{\kf32} path{\kf18} a{\kf52}gain
+Dialogue: 0,0:03:27.00,0:03:29.58,DEFAULT,,0,0,0,,{\r}{\kf29}And{\kf19} you{\kf19} can{\kf19} smi{\kf39}-i{\kf19}-le{\kf29} smi{\kf19}-le{\kf66} smile
+Dialogue: 0,0:03:30.00,0:03:32.50,DEFAULT,,0,0,0,,{\r}{\kf14}You{\kf14} can{\kf23} hear{\kf19} the{\kf28} laugh{\kf32}ter{\kf14} of{\kf19} yo{\kf28}-ur{\kf59} friends
+Dialogue: 0,0:03:32.50,0:03:34.83,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} you{\kf20} can{\kf25} jo{\kf30}-oin{\kf20} in{\kf30} all{\kf20} the{\kf58} while
+Dialogue: 0,0:03:35.29,0:03:37.54,DEFAULT,,0,0,0,,{\r}{\kf15}E{\kf30}ven{\kf35} when{\kf30} you{\kf50} feel{\kf10} a{\kf55}lone
+Dialogue: 0,0:03:37.83,0:03:40.25,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf16} e{\kf32}ven{\kf26} if{\kf32} that{\kf32} may{\kf26} be{\kf62} so
+Dialogue: 0,0:03:40.62,0:03:42.83,DEFAULT,,0,0,0,,{\r}{\kf15}You've{\kf20} just{\kf20} got{\kf15}ta{\kf25} walk{\kf34} that{\kf29} path{\kf15} a{\kf48}gain
+Dialogue: 0,0:03:43.00,0:03:46.50,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf15} you{\kf30} can{\kf20} smi{\kf39}-i{\kf25}-le{\kf44} smi{\kf30}-le{\kf122} smile

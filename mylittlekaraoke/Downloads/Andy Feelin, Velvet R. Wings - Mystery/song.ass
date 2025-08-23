@@ -1,53 +1,60 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Mystery
+Artist: Andy Feelin, Velvet R. Wings
+Original Timing: mylittlekaraoke.com by barbeque
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:24.39,0:00:26.62,DEFAULT,,0,0,0,,{\kf2459}Who{\kf2454} are{\kf2478} you{\kf2454} the{\kf2454} next{\kf2478} day
-Dialogue: 0,0:00:27.04,0:00:29.23,DEFAULT,,0,0,0,,{\kf2459}Well,{\kf2459} I{\kf2459} can{\kf2463} on{\kf2454}ly{\kf2487} guess
-Dialogue: 0,0:00:30.79,0:00:35.21,DEFAULT,,0,0,0,,{\kf2463}You're{\kf2468} hi{\kf2463}ding{\kf2454} deep{\kf2459} in{\kf2478}side{\kf2459} from{\kf2478} real{\kf2468} life{\kf2454} and{\kf2482} stress
-Dialogue: 0,0:00:36.73,0:00:41.33,DEFAULT,,0,0,0,,{\kf2454}And{\kf2459} I{\kf2463} want{\kf2459} to{\kf2454} un{\kf2459}der{\kf2473}stand{\kf2459} what{\kf2463} makes{\kf2459} you{\kf2459} who{\kf2454} you{\kf2482} are
-Dialogue: 0,0:00:42.95,0:00:45.89,DEFAULT,,0,0,0,,{\kf2463}We'll{\kf2454} ne{\kf2463}ver{\kf2463} let{\kf2459} you{\kf2463} fall{\kf2454} a{\kf2482}part
-Dialogue: 0,0:00:48.74,0:00:50.83,DEFAULT,,0,0,0,,{\kf2459}Let{\kf2459} me{\kf2454} see{\kf2454} your{\kf2473} true{\kf2468} face
-Dialogue: 0,0:00:51.35,0:00:53.39,DEFAULT,,0,0,0,,{\kf2454}Be{\kf2478}hind{\kf2468} veil{\kf2454} and{\kf2473} mask
-Dialogue: 0,0:00:54.67,0:00:55.76,DEFAULT,,0,0,0,,{\kf2459}Mys{\kf2454}te{\kf2482}ry
-Dialogue: 0,0:00:56.62,0:00:58.04,DEFAULT,,0,0,0,,{\kf2459}That's{\kf2468} what{\kf2463} you{\kf2463} are
-Dialogue: 0,0:01:00.79,0:01:03.03,DEFAULT,,0,0,0,,{\kf2459}I{\kf2459} will{\kf2463} hide{\kf2454} my{\kf2463} true{\kf2478} face
-Dialogue: 0,0:01:03.45,0:01:05.45,DEFAULT,,0,0,0,,{\kf2459}Be{\kf2478}hind{\kf2468} veil{\kf2454} and{\kf2463} mist
-Dialogue: 0,0:01:06.82,0:01:07.91,DEFAULT,,0,0,0,,{\kf2459}Mys{\kf2454}te{\kf2482}ry
-Dialogue: 0,0:01:08.77,0:01:10.24,DEFAULT,,0,0,0,,{\kf2459}That's{\kf2459} not{\kf2463} true{\kf2473} me
-Dialogue: 0,0:01:22.20,0:01:23.82,DEFAULT,,0,0,0,,{\kf2454}I{\kf2454} can{\kf2454}not{\kf2463} read{\kf2459} your{\kf2463} face
-Dialogue: 0,0:01:24.72,0:01:26.85,DEFAULT,,0,0,0,,{\kf2459}I{\kf2463} can{\kf2459}not{\kf2463} read{\kf2454} your{\kf2473} thoughts
-Dialogue: 0,0:01:28.52,0:01:33.03,DEFAULT,,0,0,0,,{\kf2459}You{\kf2463} act{\kf2459} like{\kf2459} to{\kf2463}tal{\kf2468} stran{\kf2454}ger{\kf2454} when{\kf2459} you{\kf2463} don't{\kf2454} wan{\kf2463}na{\kf2487} talk
-Dialogue: 0,0:01:34.40,0:01:35.78,DEFAULT,,0,0,0,,{\kf2454}And{\kf2454} I{\kf2454} can{\kf2459} bare{\kf2454}ly{\kf2463} see
-Dialogue: 0,0:01:37.25,0:01:39.01,DEFAULT,,0,0,0,,{\kf2459}What{\kf2463} you{\kf2468} need{\kf2454} the{\kf2478} most
-Dialogue: 0,0:01:40.53,0:01:42.66,DEFAULT,,0,0,0,,{\kf2449}I{\kf2449} would{\kf2454} have{\kf2468} done{\kf2454} a{\kf2463}ny{\kf2463}thing
-Dialogue: 0,0:01:42.99,0:01:45.03,DEFAULT,,0,0,0,,{\kf2454}To{\kf2463} have{\kf2463} you{\kf2459} here,{\kf2454} so{\kf2473} close
-Dialogue: 0,0:01:46.36,0:01:48.59,DEFAULT,,0,0,0,,{\kf2454}Let{\kf2459} me{\kf2473} see{\kf2449} your{\kf2473} true{\kf2473} face
-Dialogue: 0,0:01:49.07,0:01:51.78,DEFAULT,,0,0,0,,{\kf2459}Be{\kf2478}hind{\kf2463} veil{\kf2449} and{\kf2468} mask
-Dialogue: 0,0:01:52.39,0:01:53.44,DEFAULT,,0,0,0,,{\kf2459}Mys{\kf2454}te{\kf2478}ry
-Dialogue: 0,0:01:53.63,0:01:55.81,DEFAULT,,0,0,0,,{\kf2459}That's{\kf2459} what{\kf2501} you{\kf2473} are
-Dialogue: 0,0:01:58.52,0:02:00.70,DEFAULT,,0,0,0,,{\kf2463}I{\kf2463} will{\kf2468} hide{\kf2449} my{\kf2473} true{\kf2473} face
-Dialogue: 0,0:02:01.22,0:02:03.88,DEFAULT,,0,0,0,,{\kf2459}Be{\kf2482}hind{\kf2473} veil{\kf2449} and{\kf2463} mist
-Dialogue: 0,0:02:04.59,0:02:05.40,DEFAULT,,0,0,0,,{\kf2459}Mys{\kf2454}te{\kf2463}ry
-Dialogue: 0,0:02:05.78,0:02:06.30,DEFAULT,,0,0,0,,{\kf2454}That's{\kf2459} not
-Dialogue: 0,0:02:08.06,0:02:12.95,DEFAULT,,0,0,0,,{\kf2459}How{\kf2459} could{\kf2463} you{\kf2468} look{\kf2459} in{\kf2459}to{\kf2454} my{\kf2454}~{\kf2667} mind
-Dialogue: 0,0:02:14.04,0:02:18.83,DEFAULT,,0,0,0,,{\kf2463}My{\kf2463} face{\kf2463} is{\kf2473} mask{\kf2468} and{\kf2463} there's{\kf2482} no{\kf2468}thing{\kf2454} be{\kf2454}~{\kf2492}hind
-Dialogue: 0,0:02:19.50,0:02:22.11,DEFAULT,,0,0,0,,{\kf2459}My{\kf2463} lone{\kf2449}li{\kf2463}ness{\kf2463} you{\kf2459} can{\kf2459}not{\kf2468} break
-Dialogue: 0,0:02:22.49,0:02:25.24,DEFAULT,,0,0,0,,{\kf2459}My{\kf2454} fee{\kf2463}lings{\kf2468} that{\kf2459} you{\kf2459} can{\kf2454}not{\kf2468} fake
-Dialogue: 0,0:02:25.53,0:02:26.76,DEFAULT,,0,0,0,,{\kf2454}I'll{\kf2463} hide{\kf2449} a{\kf2473}gain
-Dialogue: 0,0:02:27.04,0:02:28.28,DEFAULT,,0,0,0,,{\kf2454}I'll{\kf2463} run{\kf2449} a{\kf2468}way
-Dialogue: 0,0:02:28.52,0:02:34.12,DEFAULT,,0,0,0,,{\kf2463}To{\kf2468}mor{\kf2463}row{\kf2463} I{\kf2463} won't{\kf2492} be{\kf2463} the{\kf2454}~{\kf2658} same
-Dialogue: 0,0:02:56.24,0:02:58.42,DEFAULT,,0,0,0,,{\kf2454}Let{\kf2463} me{\kf2463} see{\kf2454} your{\kf2473} true{\kf2468} face
-Dialogue: 0,0:02:58.94,0:03:00.98,DEFAULT,,0,0,0,,{\kf2459}Be{\kf2468}hind{\kf2463} veil{\kf2454} and{\kf2473} mask
-Dialogue: 0,0:03:02.31,0:03:03.17,DEFAULT,,0,0,0,,{\kf2459}Mys{\kf2449}te{\kf2468}ry
-Dialogue: 0,0:03:04.26,0:03:05.68,DEFAULT,,0,0,0,,{\kf2459}That's{\kf2463} what{\kf2468} you{\kf2468} are
-Dialogue: 0,0:03:08.39,0:03:10.62,DEFAULT,,0,0,0,,{\kf2459}I{\kf2459} will{\kf2459} hide{\kf2459} my{\kf2468} true{\kf2473} face
-Dialogue: 0,0:03:11.05,0:03:13.09,DEFAULT,,0,0,0,,{\kf2459}Be{\kf2478}hind{\kf2463} veil{\kf2454} and{\kf2468} mist
-Dialogue: 0,0:03:14.42,0:03:15.41,DEFAULT,,0,0,0,,{\kf2459}Mys{\kf2454}te{\kf2473}ry
+Dialogue: 0,0:00:24.39,0:00:26.62,DEFAULT,,0,0,0,,{\r}{\kf31}Who{\kf23} are{\kf62} you{\kf23} the{\kf23} next{\kf61} day
+Dialogue: 0,0:00:27.05,0:00:29.23,DEFAULT,,0,0,0,,{\r}{\kf29}Well,{\kf29} I{\kf29} can{\kf36} on{\kf22}ly{\kf73} guess
+Dialogue: 0,0:00:30.80,0:00:35.21,DEFAULT,,0,0,0,,{\r}{\kf36}You're{\kf43} hi{\kf36}ding{\kf22} deep{\kf29} in{\kf58}side{\kf29} from{\kf58} real{\kf43} life{\kf22} and{\kf65} stress
+Dialogue: 0,0:00:36.73,0:00:41.34,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf31} I{\kf39} want{\kf31} to{\kf23} un{\kf31}der{\kf55}stand{\kf31} what{\kf39} makes{\kf31} you{\kf31} who{\kf23} you{\kf72} are
+Dialogue: 0,0:00:42.95,0:00:45.89,DEFAULT,,0,0,0,,{\r}{\kf38}We'll{\kf23} ne{\kf38}ver{\kf38} let{\kf30} you{\kf38} fall{\kf23} a{\kf66}part
+Dialogue: 0,0:00:48.74,0:00:50.83,DEFAULT,,0,0,0,,{\r}{\kf31}Let{\kf31} me{\kf23} see{\kf23} your{\kf54} true{\kf47} face
+Dialogue: 0,0:00:51.35,0:00:53.39,DEFAULT,,0,0,0,,{\r}{\kf23}Be{\kf60}hind{\kf45} veil{\kf23} and{\kf53} mask
+Dialogue: 0,0:00:54.68,0:00:55.77,DEFAULT,,0,0,0,,{\r}{\kf27}Mys{\kf20}te{\kf62}ry
+Dialogue: 0,0:00:56.62,0:00:58.05,DEFAULT,,0,0,0,,{\r}{\kf28}That's{\kf43} what{\kf36} you{\kf35} are
+Dialogue: 0,0:01:00.80,0:01:03.03,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf31} will{\kf38} hide{\kf23} my{\kf38} true{\kf62} face
+Dialogue: 0,0:01:03.46,0:01:05.45,DEFAULT,,0,0,0,,{\r}{\kf31}Be{\kf61}hind{\kf46} veil{\kf23} and{\kf38} mist
+Dialogue: 0,0:01:06.83,0:01:07.92,DEFAULT,,0,0,0,,{\r}{\kf27}Mys{\kf20}te{\kf62}ry
+Dialogue: 0,0:01:08.77,0:01:10.25,DEFAULT,,0,0,0,,{\r}{\kf29}That's{\kf29} not{\kf37} true{\kf52} me
+Dialogue: 0,0:01:22.21,0:01:23.82,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21} can{\kf21}not{\kf35} read{\kf28} your{\kf35} face
+Dialogue: 0,0:01:24.72,0:01:26.86,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf38} can{\kf31}not{\kf38} read{\kf23} your{\kf53} thoughts
+Dialogue: 0,0:01:28.52,0:01:33.03,DEFAULT,,0,0,0,,{\r}{\kf30}You{\kf37} act{\kf30} like{\kf30} to{\kf37}tal{\kf44} stran{\kf22}ger{\kf22} when{\kf30} you{\kf37} don't{\kf22} wan{\kf37}na{\kf73} talk
+Dialogue: 0,0:01:34.41,0:01:35.78,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} I{\kf20} can{\kf26} bare{\kf20}ly{\kf32} see
+Dialogue: 0,0:01:37.25,0:01:39.01,DEFAULT,,0,0,0,,{\r}{\kf27}What{\kf34} you{\kf41} need{\kf20} the{\kf54} most
+Dialogue: 0,0:01:40.53,0:01:42.67,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} would{\kf25} have{\kf49} done{\kf25} a{\kf41}ny{\kf42}thing
+Dialogue: 0,0:01:43.00,0:01:45.04,DEFAULT,,0,0,0,,{\r}{\kf23}To{\kf38} have{\kf38} you{\kf30} here,{\kf23} so{\kf52} close
+Dialogue: 0,0:01:46.37,0:01:48.60,DEFAULT,,0,0,0,,{\r}{\kf22}Let{\kf30} me{\kf52} see{\kf15} your{\kf52} true{\kf52} face
+Dialogue: 0,0:01:49.07,0:01:51.78,DEFAULT,,0,0,0,,{\r}{\kf43}Be{\kf87}hind{\kf54} veil{\kf22} and{\kf65} mask
+Dialogue: 0,0:01:52.40,0:01:53.44,DEFAULT,,0,0,0,,{\r}{\kf28}Mys{\kf21}te{\kf55}ry
+Dialogue: 0,0:01:53.63,0:01:55.82,DEFAULT,,0,0,0,,{\r}{\kf31}That's{\kf31} what{\kf101} you{\kf55} are
+Dialogue: 0,0:01:58.52,0:02:00.70,DEFAULT,,0,0,0,,{\r}{\kf34}I{\kf34} will{\kf41} hide{\kf14} my{\kf48} true{\kf47} face
+Dialogue: 0,0:02:01.23,0:02:03.88,DEFAULT,,0,0,0,,{\r}{\kf39}Be{\kf89}hind{\kf69} veil{\kf20} and{\kf49} mist
+Dialogue: 0,0:02:04.60,0:02:05.40,DEFAULT,,0,0,0,,{\r}{\kf27}Mys{\kf20}te{\kf34}ry
+Dialogue: 0,0:02:05.78,0:02:06.31,DEFAULT,,0,0,0,,{\r}{\kf22}That's{\kf30} not
+Dialogue: 0,0:02:08.06,0:02:12.95,DEFAULT,,0,0,0,,{\r}{\kf24}How{\kf24} could{\kf30} you{\kf36} look{\kf24} in{\kf24}to{\kf18} my{\kf18}~{\kf291} mind
+Dialogue: 0,0:02:14.04,0:02:18.84,DEFAULT,,0,0,0,,{\r}{\kf37}My{\kf37} face{\kf37} is{\kf52} mask{\kf44} and{\kf37} there's{\kf66} no{\kf44}thing{\kf22} be{\kf22}~{\kf81}hind
+Dialogue: 0,0:02:19.50,0:02:22.11,DEFAULT,,0,0,0,,{\r}{\kf30}My{\kf37} lone{\kf15}li{\kf37}ness{\kf37} you{\kf30} can{\kf30}not{\kf45} break
+Dialogue: 0,0:02:22.49,0:02:25.25,DEFAULT,,0,0,0,,{\r}{\kf31}My{\kf24} fee{\kf39}lings{\kf47} that{\kf31} you{\kf31} can{\kf24}not{\kf48} fake
+Dialogue: 0,0:02:25.53,0:02:26.76,DEFAULT,,0,0,0,,{\r}{\kf22}I'll{\kf36} hide{\kf14} a{\kf51}gain
+Dialogue: 0,0:02:27.05,0:02:28.28,DEFAULT,,0,0,0,,{\r}{\kf23}I'll{\kf38} run{\kf15} a{\kf47}way
+Dialogue: 0,0:02:28.52,0:02:34.12,DEFAULT,,0,0,0,,{\r}{\kf31}To{\kf37}mor{\kf31}row{\kf31} I{\kf31} won't{\kf68} be{\kf31} the{\kf18}~{\kf282} same
+Dialogue: 0,0:02:56.24,0:02:58.43,DEFAULT,,0,0,0,,{\r}{\kf23}Let{\kf38} me{\kf38} see{\kf23} your{\kf53} true{\kf43} face
+Dialogue: 0,0:02:58.95,0:03:00.99,DEFAULT,,0,0,0,,{\r}{\kf33}Be{\kf49}hind{\kf41} veil{\kf24} and{\kf57} mask
+Dialogue: 0,0:03:02.32,0:03:03.17,DEFAULT,,0,0,0,,{\r}{\kf28}Mys{\kf14}te{\kf43}ry
+Dialogue: 0,0:03:04.26,0:03:05.69,DEFAULT,,0,0,0,,{\r}{\kf27}That's{\kf34} what{\kf41} you{\kf40} are
+Dialogue: 0,0:03:08.39,0:03:10.63,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf31} will{\kf31} hide{\kf31} my{\kf46} true{\kf53} face
+Dialogue: 0,0:03:11.05,0:03:13.09,DEFAULT,,0,0,0,,{\r}{\kf31}Be{\kf63}hind{\kf39} veil{\kf24} and{\kf47} mist
+Dialogue: 0,0:03:14.42,0:03:15.42,DEFAULT,,0,0,0,,{\r}{\kf29}Mys{\kf21}te{\kf50}ry

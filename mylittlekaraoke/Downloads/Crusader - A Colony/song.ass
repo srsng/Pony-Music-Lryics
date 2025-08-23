@@ -1,70 +1,77 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Colony (Of Just Me and You)
+Artist: Crusader!
+Original Timing: mylittlekaraoke.com by lily
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.19,0:00:03.48,DEFAULT,,0,0,0,,{\kf35}A{\kf35} mil{\kf35}li{\kf45}on{\kf55} stars,{\kf50} shine{\kf50} like{\kf45} spot{\kf45}lights
-Dialogue: 0,0:00:03.88,0:00:05.66,DEFAULT,,0,0,0,,{\kf35}But{\kf30} not{\kf40} as{\kf35} much{\kf40} as{\kf55} you
-Dialogue: 0,0:00:06.52,0:00:09.56,DEFAULT,,0,0,0,,{\kf30}In{\kf35} the{\kf35} most{\kf40} bash{\kf35}ful{\kf40} walk,{\kf35} un{\kf30}der{\kf30} the{\kf60} branch
-Dialogue: 0,0:00:09.97,0:00:12.20,DEFAULT,,0,0,0,,{\kf30}I{\kf40} ask{\kf35} "Is{\kf35} there{\kf45} room{\kf45} for{\kf60} two?"
-Dialogue: 0,0:00:12.96,0:00:16.15,DEFAULT,,0,0,0,,{\kf35}Talk{\kf30}ing{\kf35} like{\kf45} I'm{\kf35} ro{\kf55}bust,{\kf35} when{\kf35} more{\kf30} than{\kf35} a{\kf30}ny{\kf55}thing
-Dialogue: 0,0:00:16.40,0:00:19.14,DEFAULT,,0,0,0,,{\kf30}I{\kf30} wish{\kf35} some{\kf30}one{\kf30} would{\kf45} take{\kf40} me{\kf35} un{\kf30}der{\kf30} their{\kf50} wing
-Dialogue: 0,0:00:19.85,0:00:22.58,DEFAULT,,0,0,0,,{\kf35}Ti{\kf45}red{\kf35} and{\kf35} freez{\kf40}ing,{\kf30} but{\kf30} still{\kf35} he{\kf35}-ere,{\kf30} in{\kf50} spite
-Dialogue: 0,0:00:22.89,0:00:25.57,DEFAULT,,0,0,0,,{\kf30}For{\kf30} one{\kf45} who{\kf35} is{\kf35} on{\kf40}ly{\kf35} a{\kf35}wake{\kf45} at{\kf50} night
-Dialogue: 0,0:00:26.03,0:00:31.65,DEFAULT,,0,0,0,,{\kf35}The{\kf60} sight{\kf45} of{\kf65} you{\kf45} sure{\kf35} brigh{\kf35}tens{\kf45} up{\kf35} e{\kf50}very{\kf35} ni{\kf60}-ight
-Dialogue: 0,0:00:32.21,0:00:34.80,DEFAULT,,0,0,0,,{\kf35}More{\kf35} than{\kf30} the{\kf60} sun{\kf45} e{\kf40}ver{\kf75} could
-Dialogue: 0,0:00:37.08,0:00:38.45,DEFAULT,,0,0,0,,{\kf30}So{\kf35} how{\kf35} a{\kf35}bo{\kf35}-out{\kf55} it?
-Dialogue: 0,0:00:39.10,0:00:43.82,DEFAULT,,0,0,0,,{\kf30}A{\kf35} co{\kf35}lo{\kf35}-o{\kf65}ny{\kf30} of{\kf35} just{\kf35} me{\kf35}~{\kf45} and{\kf70} you
-Dialogue: 0,0:00:44.37,0:00:47.62,DEFAULT,,0,0,0,,{\kf45}You're{\kf35} the{\kf40} moon{\kf40}light{\kf35} that{\kf50} shines{\kf30} my{\kf35} way{\kf40} back{\kf65} home
-Dialogue: 0,0:00:47.97,0:00:50.10,DEFAULT,,0,0,0,,{\kf30}When{\kf50} I{\kf50} don't{\kf35} know{\kf30} what{\kf30} to{\kf70} do
-Dialogue: 0,0:00:50.76,0:00:53.95,DEFAULT,,0,0,0,,{\kf45}They{\kf35} say{\kf35} "Ear{\kf35}ly{\kf30} to{\kf55} bed{\kf30} and{\kf35} ear{\kf35}ly{\kf30} to{\kf50} rise
-Dialogue: 0,0:00:54.21,0:00:57.14,DEFAULT,,0,0,0,,{\kf35}Makes{\kf30} a{\kf35} stal{\kf30}li{\kf40}on{\kf35} heal{\kf35}thy,{\kf30} and{\kf30} weal{\kf30}thy{\kf30} and{\kf45} wise"
-Dialogue: 0,0:00:57.45,0:01:00.13,DEFAULT,,0,0,0,,{\kf35}But{\kf35} do{\kf35} you{\kf40} mind{\kf35} if{\kf35} I{\kf40} stay{\kf35} with{\kf75} you?
-Dialogue: 0,0:01:01.00,0:01:02.31,DEFAULT,,0,0,0,,{\kf30}A{\kf35} co{\kf50}lo{\kf65}ny
-Dialogue: 0,0:01:03.02,0:01:04.95,DEFAULT,,0,0,0,,{\kf30}Of{\kf50} just{\kf35} me{\kf30}~{\kf50} and{\kf70} you
-Dialogue: 0,0:01:22.03,0:01:25.42,DEFAULT,,0,0,0,,{\kf30}A{\kf35} mil{\kf35}li{\kf45}on{\kf50} thoughts{\kf45} run{\kf50} through{\kf35} my{\kf35}~{\kf50} head
-Dialogue: 0,0:01:25.78,0:01:27.55,DEFAULT,,0,0,0,,{\kf40}Of{\kf45} what{\kf35} I{\kf35} should{\kf60} say
-Dialogue: 0,0:01:28.21,0:01:31.35,DEFAULT,,0,0,0,,{\kf40}My{\kf35} heart{\kf40} au{\kf40}di{\kf40}ble{\kf35} when{\kf40} I{\kf35} see{\kf40} you{\kf40} in{\kf35} my{\kf40} dreams
-Dialogue: 0,0:01:31.55,0:01:33.99,DEFAULT,,0,0,0,,{\kf30}And{\kf30} when{\kf40} I{\kf40} think{\kf40} of{\kf35} you{\kf35} e{\kf35}very{\kf65} day
-Dialogue: 0,0:01:34.54,0:01:37.79,DEFAULT,,0,0,0,,{\kf50}I{\kf30} have{\kf30} come{\kf35} quite{\kf35} a{\kf55} way,{\kf30} in{\kf30} this{\kf35} night{\kf35} cold{\kf35} as{\kf50} stone
-Dialogue: 0,0:01:38.04,0:01:41.03,DEFAULT,,0,0,0,,{\kf35}Hop{\kf30}ing{\kf30} that{\kf30} when{\kf30} I{\kf30} see{\kf30}~{\kf40} you,{\kf30} that{\kf30} you'd{\kf30} be{\kf30} a{\kf55}lone
-Dialogue: 0,0:01:41.49,0:01:44.12,DEFAULT,,0,0,0,,{\kf30}The{\kf35} clo{\kf30}ser{\kf30} I{\kf60} am,{\kf30} the{\kf35} slow{\kf30}er{\kf30} I'll{\kf40} walk
-Dialogue: 0,0:01:44.73,0:01:47.41,DEFAULT,,0,0,0,,{\kf30}Though{\kf40} my{\kf45} heart{\kf30} is{\kf35} stri{\kf35}-i{\kf45}king,{\kf35} I'm{\kf35} still{\kf30} in{\kf45} shock
-Dialogue: 0,0:01:47.92,0:01:53.50,DEFAULT,,0,0,0,,{\kf30}The{\kf60} sight{\kf45} of{\kf65} you,{\kf45} just{\kf40} shat{\kf45}ters{\kf35} a{\kf40}way{\kf40} my{\kf35} fa{\kf60}tigue
-Dialogue: 0,0:01:54.31,0:01:56.89,DEFAULT,,0,0,0,,{\kf35}More{\kf30} than{\kf35} day{\kf50}light{\kf50} e{\kf35}ve{\kf35}-er{\kf90} has
-Dialogue: 0,0:01:58.36,0:01:59.48,DEFAULT,,0,0,0,,{\kf35}How{\kf30} a{\kf35}bo{\kf35}-out{\kf50} it?
-Dialogue: 0,0:02:00.19,0:02:04.95,DEFAULT,,0,0,0,,{\kf30}A{\kf35} co{\kf35}lo{\kf35}-o{\kf65}ny{\kf30} of{\kf40} just{\kf40} me{\kf35}~{\kf50} and{\kf70} you
-Dialogue: 0,0:02:05.40,0:02:08.80,DEFAULT,,0,0,0,,{\kf50}You're{\kf30} the{\kf40} moon{\kf40}light{\kf35} that{\kf55} shines{\kf30} my{\kf35} way{\kf40} back{\kf70} home
-Dialogue: 0,0:02:09.10,0:02:11.23,DEFAULT,,0,0,0,,{\kf30}When{\kf45} I{\kf45} don't{\kf35} know{\kf35} what{\kf30} to{\kf70} do
-Dialogue: 0,0:02:11.89,0:02:15.08,DEFAULT,,0,0,0,,{\kf45}They{\kf30} say{\kf35} "Ear{\kf35}ly{\kf30} to{\kf55} bed{\kf30} and{\kf35} ear{\kf35}ly{\kf30} to{\kf55} rise
-Dialogue: 0,0:02:15.34,0:02:18.38,DEFAULT,,0,0,0,,{\kf35}Makes{\kf30} a{\kf35} stal{\kf30}li{\kf45}on{\kf35} heal{\kf40}thy,{\kf30} and{\kf35} weal{\kf30}thy{\kf35} and{\kf55} wise"
-Dialogue: 0,0:02:18.63,0:02:21.67,DEFAULT,,0,0,0,,{\kf35}But{\kf30} I'd{\kf40} stay{\kf40} up{\kf35} all{\kf40} night{\kf45} with{\kf121} you
-Dialogue: 0,0:02:22.08,0:02:28.31,DEFAULT,,0,0,0,,{\kf30}A{\kf35} co{\kf50}lo{\kf60}ny{\kf30} of{\kf50} just{\kf40} me{\kf30}~{\kf50} and{\kf298} you
-Dialogue: 0,0:02:28.77,0:02:30.54,DEFAULT,,0,0,0,,{\kf55}Woah{\kf35}-oh{\kf35}-oh{\kf35}-woah{\kf55}-oh{\kf55}-oh
-Dialogue: 0,0:02:30.79,0:02:34.80,DEFAULT,,0,0,0,,{\kf45}Just{\kf35} me{\kf30}~{\kf45} and{\kf298} you
-Dialogue: 0,0:02:35.25,0:02:37.08,DEFAULT,,0,0,0,,{\kf55}Woah{\kf35}-oh{\kf35}-oh{\kf35}-woah{\kf50}-oh{\kf60}-oh
-Dialogue: 0,0:02:37.28,0:02:39.56,DEFAULT,,0,0,0,,{\kf50}Just{\kf50} me{\kf50} and{\kf126} you
-Dialogue: 0,0:02:49.44,0:02:55.17,DEFAULT,,0,0,0,,{\kf45}The{\kf45} per{\kf45}fect{\kf40} night{\kf65} sky,{\kf35} can{\kf35} on{\kf40}ly{\kf35} re{\kf35}volve{\kf40} a{\kf40}round{\kf60} you
-Dialogue: 0,0:02:56.33,0:02:58.31,DEFAULT,,0,0,0,,{\kf35}No{\kf40} one{\kf35} else{\kf45} but{\kf75} you
-Dialogue: 0,0:02:59.58,0:03:01.55,DEFAULT,,0,0,0,,{\kf35}No{\kf40} one{\kf40} else{\kf30} bu{\kf30}-ut{\kf75} you
-Dialogue: 0,0:03:02.16,0:03:06.06,DEFAULT,,0,0,0,,{\kf35}The{\kf50} stars{\kf45} live{\kf35} to{\kf35} spo{\kf35}-ot{\kf45}light{\kf202} you
-Dialogue: 0,0:03:06.42,0:03:07.63,DEFAULT,,0,0,0,,{\kf30}If{\kf30} you'd{\kf30} le{\kf30}-et{\kf60} me
-Dialogue: 0,0:03:08.19,0:03:13.06,DEFAULT,,0,0,0,,{\kf30}A{\kf35} co{\kf35}lo{\kf35}-o{\kf70}ny{\kf30} of{\kf40} just{\kf45} me{\kf45} and{\kf70} you
-Dialogue: 0,0:03:13.56,0:03:16.91,DEFAULT,,0,0,0,,{\kf50}Leave{\kf30} our{\kf40} wor{\kf35}ries{\kf35} be{\kf40}hind,{\kf35} take{\kf30} the{\kf35} whole{\kf35} world{\kf35} by{\kf55} storm
-Dialogue: 0,0:03:17.21,0:03:19.64,DEFAULT,,0,0,0,,{\kf35}Im{\kf40}mer{\kf40}sing{\kf35} in{\kf45} e{\kf45}very{\kf80} view
-Dialogue: 0,0:03:20.05,0:03:23.14,DEFAULT,,0,0,0,,{\kf40}They{\kf35} say{\kf35} "Ear{\kf35}ly{\kf35} to{\kf50} bed{\kf30} and{\kf35} ear{\kf35}ly{\kf30} to{\kf50} rise
-Dialogue: 0,0:03:23.39,0:03:26.38,DEFAULT,,0,0,0,,{\kf35}Makes{\kf30} a{\kf35} stal{\kf35}li{\kf45}on{\kf35} heal{\kf40}thy,{\kf30} and{\kf35} weal{\kf30}thy{\kf30} and{\kf50} wise"
-Dialogue: 0,0:03:26.69,0:03:29.78,DEFAULT,,0,0,0,,{\kf35}But{\kf35} I'll{\kf35} stay{\kf40} up{\kf35} all{\kf40} night{\kf40} with{\kf121} you
-Dialogue: 0,0:03:30.13,0:03:34.80,DEFAULT,,0,0,0,,{\kf35}A{\kf35} co{\kf35}lo{\kf30}ny{\kf35} of{\kf35} just{\kf30} me{\kf30}~{\kf35} and{\kf293} you
-Dialogue: 0,0:03:35.25,0:03:37.08,DEFAULT,,0,0,0,,{\kf50}Woah{\kf35}-oh{\kf35}-oh{\kf35}-woah{\kf55}-oh{\kf55}-oh
-Dialogue: 0,0:03:37.28,0:03:41.28,DEFAULT,,0,0,0,,{\kf45}Just{\kf35} me{\kf35}~{\kf40} and{\kf298} you
-Dialogue: 0,0:03:41.74,0:03:43.56,DEFAULT,,0,0,0,,{\kf50}Woah{\kf35}-oh{\kf35}-oh{\kf35}-woah{\kf50}-oh{\kf60}-oh
-Dialogue: 0,0:03:43.77,0:03:46.10,DEFAULT,,0,0,0,,{\kf45}Just{\kf50} me{\kf45} and{\kf131} you
-Dialogue: 0,0:03:48.23,0:03:50.66,DEFAULT,,0,0,0,,{\kf45}Oh{\kf35}-oh,{\kf35} just{\kf35} me{\kf40} and{\kf35}~{\kf101} you
-Dialogue: 0,0:03:53.50,0:03:55.47,DEFAULT,,0,0,0,,{\kf40}Just{\kf35} me{\kf35}~{\kf40} and{\kf96} you
+Dialogue: 0,0:00:00.19,0:00:03.48,DEFAULT,,0,0,0,,{\r}{\kf23}A{\kf23} mil{\kf23}li{\kf38}on{\kf54} stars,{\kf46} shine{\kf46} like{\kf38} spot{\kf38}lights
+Dialogue: 0,0:00:03.89,0:00:05.66,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf15} not{\kf31} as{\kf23} much{\kf31} as{\kf54} you
+Dialogue: 0,0:00:06.52,0:00:09.56,DEFAULT,,0,0,0,,{\r}{\kf18}In{\kf27} the{\kf27} most{\kf36} bash{\kf27}ful{\kf36} walk,{\kf27} un{\kf18}der{\kf18} the{\kf70} branch
+Dialogue: 0,0:00:09.97,0:00:12.20,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf30} ask{\kf22} "Is{\kf22} there{\kf37} room{\kf37} for{\kf60} two?"
+Dialogue: 0,0:00:12.96,0:00:16.15,DEFAULT,,0,0,0,,{\r}{\kf22}Talk{\kf15}ing{\kf22} like{\kf37} I'm{\kf22} ro{\kf52}bust,{\kf22} when{\kf22} more{\kf15} than{\kf22} a{\kf15}ny{\kf53}thing
+Dialogue: 0,0:00:16.41,0:00:19.14,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf17} wish{\kf25} some{\kf17}one{\kf17} would{\kf42} take{\kf33} me{\kf25} un{\kf17}der{\kf17} their{\kf47} wing
+Dialogue: 0,0:00:19.85,0:00:22.59,DEFAULT,,0,0,0,,{\r}{\kf23}Ti{\kf38}red{\kf23} and{\kf23} freez{\kf30}ing,{\kf15} but{\kf15} still{\kf23} he{\kf23}-ere,{\kf15} in{\kf46} spite
+Dialogue: 0,0:00:22.89,0:00:25.58,DEFAULT,,0,0,0,,{\r}{\kf15}For{\kf15} one{\kf37} who{\kf22} is{\kf22} on{\kf30}ly{\kf22} a{\kf22}wake{\kf37} at{\kf47} night
+Dialogue: 0,0:00:26.03,0:00:31.66,DEFAULT,,0,0,0,,{\r}{\kf28}The{\kf74} sight{\kf46} of{\kf83} you{\kf46} sure{\kf28} brigh{\kf28}tens{\kf46} up{\kf28} e{\kf55}very{\kf28} ni{\kf73}-ight
+Dialogue: 0,0:00:32.22,0:00:34.80,DEFAULT,,0,0,0,,{\r}{\kf22}More{\kf22} than{\kf14} the{\kf57} sun{\kf36} e{\kf29}ver{\kf78} could
+Dialogue: 0,0:00:37.08,0:00:38.45,DEFAULT,,0,0,0,,{\r}{\kf13}So{\kf20} how{\kf20} a{\kf20}bo{\kf20}-out{\kf44} it?
+Dialogue: 0,0:00:39.11,0:00:43.82,DEFAULT,,0,0,0,,{\r}{\kf20}A{\kf31} co{\kf31}lo{\kf31}-o{\kf92}ny{\kf20} of{\kf31} just{\kf31} me{\kf31}~{\kf51} and{\kf102} you
+Dialogue: 0,0:00:44.38,0:00:47.62,DEFAULT,,0,0,0,,{\r}{\kf38}You're{\kf23} the{\kf30} moon{\kf30}light{\kf23} that{\kf45} shines{\kf15} my{\kf23} way{\kf30} back{\kf67} home
+Dialogue: 0,0:00:47.98,0:00:50.11,DEFAULT,,0,0,0,,{\r}{\kf14}When{\kf41} I{\kf41} don't{\kf21} know{\kf14} what{\kf14} to{\kf68} do
+Dialogue: 0,0:00:50.76,0:00:53.96,DEFAULT,,0,0,0,,{\r}{\kf41}They{\kf25} say{\kf25} "Ear{\kf25}ly{\kf16} to{\kf57} bed{\kf16} and{\kf25} ear{\kf25}ly{\kf16} to{\kf48} rise
+Dialogue: 0,0:00:54.21,0:00:57.15,DEFAULT,,0,0,0,,{\r}{\kf27}Makes{\kf18} a{\kf27} stal{\kf18}li{\kf36}on{\kf27} heal{\kf27}thy,{\kf18} and{\kf18} weal{\kf18}thy{\kf18} and{\kf42} wise"
+Dialogue: 0,0:00:57.45,0:01:00.14,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} do{\kf22} you{\kf29} mind{\kf22} if{\kf22} I{\kf29} stay{\kf22} with{\kf79} you?
+Dialogue: 0,0:01:01.00,0:01:02.32,DEFAULT,,0,0,0,,{\r}{\kf13}A{\kf20} co{\kf40}lo{\kf59}ny
+Dialogue: 0,0:01:03.03,0:01:04.95,DEFAULT,,0,0,0,,{\r}{\kf13}Of{\kf40} just{\kf20} me{\kf13}~{\kf40} and{\kf67} you
+Dialogue: 0,0:01:22.03,0:01:25.43,DEFAULT,,0,0,0,,{\r}{\kf16}A{\kf24} mil{\kf24}li{\kf40}on{\kf49} thoughts{\kf40} run{\kf49} through{\kf24} my{\kf24}~{\kf50} head
+Dialogue: 0,0:01:25.78,0:01:27.55,DEFAULT,,0,0,0,,{\r}{\kf31}Of{\kf38} what{\kf23} I{\kf23} should{\kf62} say
+Dialogue: 0,0:01:28.21,0:01:31.36,DEFAULT,,0,0,0,,{\r}{\kf29}My{\kf21} heart{\kf29} au{\kf29}di{\kf29}ble{\kf21} when{\kf29} I{\kf21} see{\kf29} you{\kf29} in{\kf21} my{\kf27} dreams
+Dialogue: 0,0:01:31.56,0:01:33.99,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf14} when{\kf29} I{\kf29} think{\kf29} of{\kf21} you{\kf21} e{\kf21}very{\kf65} day
+Dialogue: 0,0:01:34.55,0:01:37.79,DEFAULT,,0,0,0,,{\r}{\kf46}I{\kf15} have{\kf15} come{\kf23} quite{\kf23} a{\kf54} way,{\kf15} in{\kf15} this{\kf23} night{\kf23} cold{\kf23} as{\kf49} stone
+Dialogue: 0,0:01:38.04,0:01:41.03,DEFAULT,,0,0,0,,{\r}{\kf26}Hop{\kf18}ing{\kf18} that{\kf18} when{\kf18} I{\kf18} see{\kf18}~{\kf35} you,{\kf18} that{\kf18} you'd{\kf18} be{\kf18} a{\kf58}lone
+Dialogue: 0,0:01:41.49,0:01:44.13,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf26} clo{\kf18}ser{\kf18} I{\kf70} am,{\kf18} the{\kf26} slow{\kf18}er{\kf18} I'll{\kf34} walk
+Dialogue: 0,0:01:44.73,0:01:47.42,DEFAULT,,0,0,0,,{\r}{\kf15}Though{\kf29} my{\kf36} heart{\kf15} is{\kf22} stri{\kf22}-i{\kf36}king,{\kf22} I'm{\kf22} still{\kf15} in{\kf35} shock
+Dialogue: 0,0:01:47.93,0:01:53.50,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf74} sight{\kf46} of{\kf84} you,{\kf46} just{\kf37} shat{\kf46}ters{\kf28} a{\kf37}way{\kf37} my{\kf28} fa{\kf75}tigue
+Dialogue: 0,0:01:54.31,0:01:56.90,DEFAULT,,0,0,0,,{\r}{\kf19}More{\kf13} than{\kf19} day{\kf39}light{\kf39} e{\kf19}ve{\kf19}-er{\kf91} has
+Dialogue: 0,0:01:58.37,0:01:59.48,DEFAULT,,0,0,0,,{\r}{\kf20}How{\kf13} a{\kf20}bo{\kf20}-out{\kf38} it?
+Dialogue: 0,0:02:00.19,0:02:04.95,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf29} co{\kf29}lo{\kf29}-o{\kf87}ny{\kf19} of{\kf39} just{\kf39} me{\kf29}~{\kf58} and{\kf99} you
+Dialogue: 0,0:02:05.41,0:02:08.80,DEFAULT,,0,0,0,,{\r}{\kf45}You're{\kf15} the{\kf30} moon{\kf30}light{\kf23} that{\kf53} shines{\kf15} my{\kf23} way{\kf30} back{\kf76} home
+Dialogue: 0,0:02:09.11,0:02:11.24,DEFAULT,,0,0,0,,{\r}{\kf14}When{\kf36} I{\kf36} don't{\kf21} know{\kf21} what{\kf14} to{\kf71} do
+Dialogue: 0,0:02:11.90,0:02:15.09,DEFAULT,,0,0,0,,{\r}{\kf41}They{\kf16} say{\kf25} "Ear{\kf25}ly{\kf16} to{\kf57} bed{\kf16} and{\kf25} ear{\kf25}ly{\kf16} to{\kf57} rise
+Dialogue: 0,0:02:15.34,0:02:18.38,DEFAULT,,0,0,0,,{\r}{\kf23}Makes{\kf16} a{\kf23} stal{\kf16}li{\kf39}on{\kf23} heal{\kf31}thy,{\kf16} and{\kf23} weal{\kf16}thy{\kf23} and{\kf55} wise"
+Dialogue: 0,0:02:18.64,0:02:21.68,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf14} I'd{\kf27} stay{\kf27} up{\kf20} all{\kf27} night{\kf34} with{\kf135} you
+Dialogue: 0,0:02:22.08,0:02:28.31,DEFAULT,,0,0,0,,{\r}{\kf13}A{\kf20} co{\kf40}lo{\kf53}ny{\kf13} of{\kf40} just{\kf27} me{\kf13}~{\kf40} and{\kf364} you
+Dialogue: 0,0:02:28.77,0:02:30.54,DEFAULT,,0,0,0,,{\r}{\kf41}Woah{\kf18}-oh{\kf18}-oh{\kf18}-woah{\kf41}-oh{\kf41}-oh
+Dialogue: 0,0:02:30.80,0:02:34.80,DEFAULT,,0,0,0,,{\r}{\kf29}Just{\kf17} me{\kf11}~{\kf29} and{\kf314} you
+Dialogue: 0,0:02:35.26,0:02:37.08,DEFAULT,,0,0,0,,{\r}{\kf42}Woah{\kf18}-oh{\kf18}-oh{\kf18}-woah{\kf36}-oh{\kf50}-oh
+Dialogue: 0,0:02:37.28,0:02:39.56,DEFAULT,,0,0,0,,{\r}{\kf35}Just{\kf35} me{\kf35} and{\kf123} you
+Dialogue: 0,0:02:49.45,0:02:55.17,DEFAULT,,0,0,0,,{\r}{\kf48}The{\kf48} per{\kf48}fect{\kf38} night{\kf86} sky,{\kf29} can{\kf29} on{\kf38}ly{\kf29} re{\kf29}volve{\kf38} a{\kf38}round{\kf75} you
+Dialogue: 0,0:02:56.34,0:02:58.31,DEFAULT,,0,0,0,,{\r}{\kf23}No{\kf30} one{\kf23} else{\kf38} but{\kf84} you
+Dialogue: 0,0:02:59.58,0:03:01.56,DEFAULT,,0,0,0,,{\r}{\kf23}No{\kf30} one{\kf30} else{\kf15} bu{\kf15}-ut{\kf85} you
+Dialogue: 0,0:03:02.17,0:03:06.07,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf37} stars{\kf30} live{\kf18} to{\kf18} spo{\kf18}-ot{\kf30}light{\kf221} you
+Dialogue: 0,0:03:06.42,0:03:07.64,DEFAULT,,0,0,0,,{\r}{\kf15}If{\kf15} you'd{\kf15} le{\kf15}-et{\kf62} me
+Dialogue: 0,0:03:08.20,0:03:13.06,DEFAULT,,0,0,0,,{\r}{\kf21}A{\kf31} co{\kf31}lo{\kf31}-o{\kf103}ny{\kf21} of{\kf41} just{\kf52} me{\kf52} and{\kf103} you
+Dialogue: 0,0:03:13.57,0:03:16.91,DEFAULT,,0,0,0,,{\r}{\kf47}Leave{\kf16} our{\kf31} wor{\kf23}ries{\kf23} be{\kf31}hind,{\kf23} take{\kf16} the{\kf23} whole{\kf23} world{\kf23} by{\kf55} storm
+Dialogue: 0,0:03:17.22,0:03:19.65,DEFAULT,,0,0,0,,{\r}{\kf20}Im{\kf27}mer{\kf27}sing{\kf20} in{\kf34} e{\kf34}very{\kf81} view
+Dialogue: 0,0:03:20.05,0:03:23.15,DEFAULT,,0,0,0,,{\r}{\kf33}They{\kf24} say{\kf24} "Ear{\kf24}ly{\kf24} to{\kf49} bed{\kf16} and{\kf24} ear{\kf24}ly{\kf16} to{\kf51} rise
+Dialogue: 0,0:03:23.40,0:03:26.39,DEFAULT,,0,0,0,,{\r}{\kf24}Makes{\kf16} a{\kf24} stal{\kf24}li{\kf39}on{\kf24} heal{\kf31}thy,{\kf16} and{\kf24} weal{\kf16}thy{\kf16} and{\kf45} wise"
+Dialogue: 0,0:03:26.69,0:03:29.78,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf21} I'll{\kf21} stay{\kf28} up{\kf21} all{\kf28} night{\kf28} with{\kf141} you
+Dialogue: 0,0:03:30.14,0:03:34.80,DEFAULT,,0,0,0,,{\r}{\kf18}A{\kf18} co{\kf18}lo{\kf12}ny{\kf18} of{\kf18} just{\kf12} me{\kf12}~{\kf18} and{\kf322} you
+Dialogue: 0,0:03:35.26,0:03:37.08,DEFAULT,,0,0,0,,{\r}{\kf38}Woah{\kf19}-oh{\kf19}-oh{\kf19}-woah{\kf44}-oh{\kf43}-oh
+Dialogue: 0,0:03:37.28,0:03:41.29,DEFAULT,,0,0,0,,{\r}{\kf29}Just{\kf17} me{\kf17}~{\kf23} and{\kf314} you
+Dialogue: 0,0:03:41.74,0:03:43.57,DEFAULT,,0,0,0,,{\r}{\kf38}Woah{\kf19}-oh{\kf19}-oh{\kf19}-woah{\kf38}-oh{\kf49}-oh
+Dialogue: 0,0:03:43.77,0:03:46.10,DEFAULT,,0,0,0,,{\r}{\kf31}Just{\kf37} me{\kf31} and{\kf134} you
+Dialogue: 0,0:03:48.23,0:03:50.66,DEFAULT,,0,0,0,,{\r}{\kf33}Oh{\kf20}-oh,{\kf20} just{\kf20} me{\kf26} and{\kf20}~{\kf104} you
+Dialogue: 0,0:03:53.50,0:03:55.48,DEFAULT,,0,0,0,,{\r}{\kf27}Just{\kf20} me{\kf20}~{\kf27} and{\kf104} you

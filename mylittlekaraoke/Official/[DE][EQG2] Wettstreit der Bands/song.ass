@@ -1,65 +1,72 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Wettstreit der Bands
+Artist: Equestria Girls - Rainbow Rocks
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.71,0:00:02.62,DEFAULT,,0,0,0,,{\kf85}Ah{\kf57} ah{\kf40} ah
-Dialogue: 0,0:00:03.18,0:00:04.81,DEFAULT,,0,0,0,,{\kf68}Ah{\kf90} ah
-Dialogue: 0,0:00:05.37,0:00:07.28,DEFAULT,,0,0,0,,{\kf79}Ah{\kf51} ah{\kf51} ah
-Dialogue: 0,0:00:07.67,0:00:09.30,DEFAULT,,0,0,0,,{\kf79}Ah{\kf79} ah
-Dialogue: 0,0:00:09.92,0:00:11.83,DEFAULT,,0,0,0,,{\kf85}Ah{\kf57} ah{\kf40} ah
-Dialogue: 0,0:00:12.22,0:00:14.02,DEFAULT,,0,0,0,,{\kf79}Ah{\kf90} ah
-Dialogue: 0,0:00:14.63,0:00:16.54,DEFAULT,,0,0,0,,{\kf73}Ah{\kf51} ah{\kf57} ah
-Dialogue: 0,0:00:16.99,0:00:18.73,DEFAULT,,0,0,0,,{\kf68}Ah{\kf102} ah
-Dialogue: 0,0:00:19.12,0:00:21.99,DEFAULT,,0,0,0,,{\kf40}Man{\kf23} sagt{\kf23} Ihr{\kf23} wollt{\kf17} Euch{\kf17} pro{\kf23}fil{\kf29}lie{\kf34}ren
-Dialogue: 0,0:00:23.73,0:00:26.65,DEFAULT,,0,0,0,,{\kf45}Und{\kf29} seid{\kf17} Euch{\kf23} ei{\kf17}nig{\kf34} stets{\kf23} da{\kf57}bei
-Dialogue: 0,0:00:28.55,0:00:31.36,DEFAULT,,0,0,0,,{\kf29}Wir{\kf29} wür{\kf17}den{\kf23} gern{\kf17} was{\kf29} aus{\kf23}pro{\kf23}bie{\kf40}ren
-Dialogue: 0,0:00:33.21,0:00:35.80,DEFAULT,,0,0,0,,{\kf23}Und{\kf23} mach{\kf17}en{\kf23} et{\kf23}was{\kf23} das{\kf17} ist{\kf57} neu
-Dialogue: 0,0:00:38.10,0:00:40.23,DEFAULT,,0,0,0,,{\kf23}Ei{\kf17}nig{\kf29}keit{\kf23} ist{\kf23} ei{\kf17}ne{\kf40} Last
-Dialogue: 0,0:00:42.42,0:00:45.34,DEFAULT,,0,0,0,,{\kf17}Wir{\kf23} wol{\kf17}len{\kf51} hö{\kf29}her{\kf40} flie{\kf62}gen
-Dialogue: 0,0:00:47.30,0:00:49.38,DEFAULT,,0,0,0,,{\kf17}Bes{\kf17}ser{\kf29} zeigst{\kf29} Du{\kf29} was{\kf17} Du{\kf40} hast
-Dialogue: 0,0:00:51.57,0:00:54.49,DEFAULT,,0,0,0,,{\kf23}Willst{\kf12} Du{\kf17} ver{\kf23}lie{\kf23}ren{\kf23} o{\kf12}der{\kf23} sie{\kf51}gen?
-Dialogue: 0,0:00:55.89,0:00:58.14,DEFAULT,,0,0,0,,{\kf29}Wir{\kf17} und{\kf45} Ihr,{\kf23} Ihr{\kf23} und{\kf51} wir
-Dialogue: 0,0:00:58.47,0:01:00.89,DEFAULT,,0,0,0,,{\kf23}Wer{\kf23} bes{\kf17}ser{\kf23} ist,{\kf23} wird{\kf23} man{\kf29} se{\kf29}hen
-Dialogue: 0,0:01:01.11,0:01:05.10,DEFAULT,,0,0,0,,{\kf23}Denn{\kf23} man{\kf23} ist{\kf17} nicht{\kf40} gern{\kf45} ei{\kf23}ner{\kf17} von{\kf45} vie{\kf57}len
-Dialogue: 0,0:01:05.38,0:01:09.31,DEFAULT,,0,0,0,,{\kf23}Ein{\kf23} Wett{\kf23}be{\kf45}werb{\kf23} muss{\kf17} es{\kf29} sein,{\kf12} was{\kf23} spricht{\kf23} da{\kf23}ge{\kf45}gen?
-Dialogue: 0,0:01:10.04,0:01:14.08,DEFAULT,,0,0,0,,{\kf12}Be{\kf29}fürch{\kf17}tet{\kf51} Ihr,{\kf40} Ihr{\kf29} seid{\kf23} uns{\kf17} un{\kf23}ter{\kf17}le{\kf62}gen?
-Dialogue: 0,0:01:14.92,0:01:17.39,DEFAULT,,0,0,0,,{\kf29}Wer{\kf17} ein{\kf29} Star{\kf17} ist,{\kf23} muss{\kf12} es{\kf23} zei{\kf45}gen
-Dialogue: 0,0:01:19.52,0:01:21.94,DEFAULT,,0,0,0,,{\kf23}Denn{\kf23} nur{\kf23} dann{\kf29} steigt{\kf23} er{\kf17} hi{\kf73}nauf
-Dialogue: 0,0:01:23.85,0:01:26.48,DEFAULT,,0,0,0,,{\kf23}Wer{\kf17} Rück{\kf23}sicht{\kf23} nimmt,{\kf17} hat{\kf29} schon{\kf12} ver{\kf73}loren
-Dialogue: 0,0:01:28.39,0:01:31.26,DEFAULT,,0,0,0,,{\kf17}Sie{\kf23} hält{\kf23} Dich{\kf23} beim{\kf17} Er{\kf29}folg{\kf17} nur{\kf85} auf
-Dialogue: 0,0:01:31.59,0:01:34.85,DEFAULT,,0,0,0,,{\kf68}Ah,{\kf79} ah{\kf62} ah{\kf62} ah
-Dialogue: 0,0:01:35.07,0:01:37.94,DEFAULT,,0,0,0,,{\kf23}Je{\kf29}der{\kf23} will{\kf29} ihn{\kf17} ge{\kf23}win{\kf34}nen
-Dialogue: 0,0:01:38.72,0:01:40.35,DEFAULT,,0,0,0,,{\kf23}Den{\kf23} gro{\kf23}ßen{\kf23} Wett{\kf45}streit
-Dialogue: 0,0:01:40.80,0:01:42.99,DEFAULT,,0,0,0,,{\kf23}Uns{\kf23}rer{\kf23} bei{\kf23}den{\kf107} Bands
-Dialogue: 0,0:01:43.32,0:01:44.84,DEFAULT,,0,0,0,,{\kf23}Wer{\kf29} hier{\kf17} da{\kf29}bei{\kf29} ist
-Dialogue: 0,0:01:45.63,0:01:47.20,DEFAULT,,0,0,0,,{\kf23}Kann{\kf29} nicht{\kf23} ent{\kf23}rin{\kf40}nen
-Dialogue: 0,0:01:47.98,0:01:49.44,DEFAULT,,0,0,0,,{\kf23}Wir{\kf23} wer{\kf23}den{\kf29} sie{\kf29}gen
-Dialogue: 0,0:01:50.00,0:01:51.86,DEFAULT,,0,0,0,,{\kf29}In{\kf34} dem{\kf23} Wett{\kf45}streit
-Dialogue: 0,0:01:52.25,0:01:53.93,DEFAULT,,0,0,0,,{\kf29}Uns{\kf23}rer{\kf23} bei{\kf17}den{\kf51} Bands
-Dialogue: 0,0:01:54.21,0:01:55.62,DEFAULT,,0,0,0,,{\kf23}Ich{\kf23} könnte{\kf23} Du{\kf51} sein
-Dialogue: 0,0:01:55.79,0:01:56.29,DEFAULT,,0,0,0,,{\kf51}Wettstreit!
-Dialogue: 0,0:01:56.40,0:01:57.86,DEFAULT,,0,0,0,,{\kf40}Ha,{\kf23} von{\kf17} mir{\kf40} aus...
-Dialogue: 0,0:01:58.03,0:01:58.59,DEFAULT,,0,0,0,,{\kf57}Wettstreit!
-Dialogue: 0,0:01:58.82,0:02:00.16,DEFAULT,,0,0,0,,{\kf23}Ich{\kf17} will{\kf23} das{\kf57} unbedingt
-Dialogue: 0,0:02:00.33,0:02:00.89,DEFAULT,,0,0,0,,{\kf57}Wettstreit!
-Dialogue: 0,0:02:01.17,0:02:02.52,DEFAULT,,0,0,0,,{\kf23}Nicht,{\kf6} wenn{\kf6} ich{\kf6} es{\kf34} zuerst{\kf12} haben{\kf12} kann
-Dialogue: 0,0:02:02.63,0:02:04.77,DEFAULT,,0,0,0,,{\kf29}Wir{\kf23} und{\kf40} Ihr,{\kf23} Ihr{\kf23} und{\kf40} wir
-Dialogue: 0,0:02:05.27,0:02:07.57,DEFAULT,,0,0,0,,{\kf23}Wer{\kf17} bes{\kf17}ser{\kf17} ist,{\kf17} wird{\kf23} man{\kf23} se{\kf29}hen
-Dialogue: 0,0:02:07.85,0:02:11.73,DEFAULT,,0,0,0,,{\kf17}Denn{\kf23} man{\kf17} ist{\kf17} nicht{\kf34} gern{\kf51} ein{\kf17}er{\kf17} von{\kf40} vie{\kf45}len
-Dialogue: 0,0:02:12.18,0:02:15.99,DEFAULT,,0,0,0,,{\kf17}Ein{\kf23} Wett{\kf23}be{\kf40}werb{\kf23} muss{\kf17} es{\kf23} sein,{\kf17} was{\kf23} spricht{\kf23} da{\kf23}ge{\kf40}gen?
-Dialogue: 0,0:02:16.72,0:02:20.60,DEFAULT,,0,0,0,,{\kf23}Wir{\kf23} sind{\kf29} ganz{\kf45} vorn{\kf45} und{\kf29} nie{\kf23}mals{\kf17} un{\kf23}ter{\kf23}le{\kf45}gen
-Dialogue: 0,0:02:21.05,0:02:23.96,DEFAULT,,0,0,0,,{\kf23}Je{\kf29}der{\kf23} will{\kf23} ihn{\kf17} ge{\kf29}win{\kf29}nen
-Dialogue: 0,0:02:24.81,0:02:26.38,DEFAULT,,0,0,0,,{\kf23}Den{\kf17} gro{\kf17}ßen{\kf23} Wett{\kf51}streit
-Dialogue: 0,0:02:26.83,0:02:28.96,DEFAULT,,0,0,0,,{\kf23}Uns{\kf17}rer{\kf23} bei{\kf17} den{\kf102} Bands
-Dialogue: 0,0:02:29.47,0:02:30.93,DEFAULT,,0,0,0,,{\kf17}Wer{\kf29} hier{\kf23} da{\kf23}bei{\kf29} ist
-Dialogue: 0,0:02:31.71,0:02:33.23,DEFAULT,,0,0,0,,{\kf29}Kann{\kf23} nicht{\kf17} ent{\kf29}rin{\kf34}nen
-Dialogue: 0,0:02:34.07,0:02:35.47,DEFAULT,,0,0,0,,{\kf17}Wir{\kf23} wer{\kf23}den{\kf23} sie{\kf34}gen
-Dialogue: 0,0:02:36.03,0:02:37.89,DEFAULT,,0,0,0,,{\kf23}In{\kf40} dem{\kf23} Wett{\kf45}streit
-Dialogue: 0,0:02:38.28,0:02:40.08,DEFAULT,,0,0,0,,{\kf23}Uns{\kf29}rer{\kf29} bei{\kf17}den{\kf62} Bands
+Dialogue: 0,0:00:00.72,0:00:02.63,DEFAULT,,0,0,0,,{\r}{\kf90}Ah{\kf60} ah{\kf41} ah
+Dialogue: 0,0:00:03.19,0:00:04.81,DEFAULT,,0,0,0,,{\r}{\kf70}Ah{\kf93} ah
+Dialogue: 0,0:00:05.38,0:00:07.28,DEFAULT,,0,0,0,,{\r}{\kf84}Ah{\kf54} ah{\kf53} ah
+Dialogue: 0,0:00:07.68,0:00:09.31,DEFAULT,,0,0,0,,{\r}{\kf82}Ah{\kf81} ah
+Dialogue: 0,0:00:09.92,0:00:11.83,DEFAULT,,0,0,0,,{\r}{\kf90}Ah{\kf60} ah{\kf41} ah
+Dialogue: 0,0:00:12.22,0:00:14.02,DEFAULT,,0,0,0,,{\r}{\kf84}Ah{\kf96} ah
+Dialogue: 0,0:00:14.64,0:00:16.55,DEFAULT,,0,0,0,,{\r}{\kf78}Ah{\kf54} ah{\kf59} ah
+Dialogue: 0,0:00:17.00,0:00:18.74,DEFAULT,,0,0,0,,{\r}{\kf70}Ah{\kf104} ah
+Dialogue: 0,0:00:19.13,0:00:21.99,DEFAULT,,0,0,0,,{\r}{\kf50}Man{\kf29} sagt{\kf29} Ihr{\kf29} wollt{\kf21} Euch{\kf21} pro{\kf29}fil{\kf36}lie{\kf42}ren
+Dialogue: 0,0:00:23.73,0:00:26.65,DEFAULT,,0,0,0,,{\r}{\kf54}Und{\kf34} seid{\kf20} Euch{\kf27} ei{\kf20}nig{\kf41} stets{\kf27} da{\kf69}bei
+Dialogue: 0,0:00:28.56,0:00:31.37,DEFAULT,,0,0,0,,{\r}{\kf35}Wir{\kf35} wür{\kf21}den{\kf28} gern{\kf21} was{\kf35} aus{\kf28}pro{\kf28}bie{\kf50}ren
+Dialogue: 0,0:00:33.22,0:00:35.80,DEFAULT,,0,0,0,,{\r}{\kf29}Und{\kf29} mach{\kf22}en{\kf29} et{\kf29}was{\kf29} das{\kf22} ist{\kf69} neu
+Dialogue: 0,0:00:38.10,0:00:40.23,DEFAULT,,0,0,0,,{\r}{\kf28}Ei{\kf21}nig{\kf36}keit{\kf28} ist{\kf28} ei{\kf21}ne{\kf51} Last
+Dialogue: 0,0:00:42.42,0:00:45.34,DEFAULT,,0,0,0,,{\r}{\kf21}Wir{\kf28} wol{\kf21}len{\kf63} hö{\kf35}her{\kf49} flie{\kf75}gen
+Dialogue: 0,0:00:47.31,0:00:49.38,DEFAULT,,0,0,0,,{\r}{\kf20}Bes{\kf20}ser{\kf34} zeigst{\kf34} Du{\kf34} was{\kf20} Du{\kf46} hast
+Dialogue: 0,0:00:51.57,0:00:54.49,DEFAULT,,0,0,0,,{\r}{\kf32}Willst{\kf16} Du{\kf24} ver{\kf32}lie{\kf32}ren{\kf32} o{\kf16}der{\kf32} sie{\kf76}gen?
+Dialogue: 0,0:00:55.90,0:00:58.14,DEFAULT,,0,0,0,,{\r}{\kf34}Wir{\kf20} und{\kf55} Ihr,{\kf27} Ihr{\kf27} und{\kf62} wir
+Dialogue: 0,0:00:58.48,0:01:00.89,DEFAULT,,0,0,0,,{\r}{\kf29}Wer{\kf29} bes{\kf22}ser{\kf29} ist,{\kf29} wird{\kf29} man{\kf37} se{\kf37}hen
+Dialogue: 0,0:01:01.12,0:01:05.10,DEFAULT,,0,0,0,,{\r}{\kf29}Denn{\kf29} man{\kf29} ist{\kf22} nicht{\kf51} gern{\kf58} ei{\kf29}ner{\kf22} von{\kf58} vie{\kf72}len
+Dialogue: 0,0:01:05.38,0:01:09.31,DEFAULT,,0,0,0,,{\r}{\kf29}Ein{\kf29} Wett{\kf29}be{\kf58}werb{\kf29} muss{\kf22} es{\kf36} sein,{\kf15} was{\kf29} spricht{\kf29} da{\kf29}ge{\kf59}gen?
+Dialogue: 0,0:01:10.04,0:01:14.08,DEFAULT,,0,0,0,,{\r}{\kf14}Be{\kf36}fürch{\kf22}tet{\kf65} Ihr,{\kf51} Ihr{\kf36} seid{\kf29} uns{\kf22} un{\kf29}ter{\kf22}le{\kf78}gen?
+Dialogue: 0,0:01:14.93,0:01:17.40,DEFAULT,,0,0,0,,{\r}{\kf36}Wer{\kf22} ein{\kf36} Star{\kf22} ist,{\kf29} muss{\kf15} es{\kf29} zei{\kf58}gen
+Dialogue: 0,0:01:19.53,0:01:21.94,DEFAULT,,0,0,0,,{\r}{\kf26}Denn{\kf26} nur{\kf26} dann{\kf33} steigt{\kf26} er{\kf20} hi{\kf84}nauf
+Dialogue: 0,0:01:23.85,0:01:26.49,DEFAULT,,0,0,0,,{\r}{\kf28}Wer{\kf21} Rück{\kf28}sicht{\kf28} nimmt,{\kf21} hat{\kf35} schon{\kf14} ver{\kf89}loren
+Dialogue: 0,0:01:28.40,0:01:31.26,DEFAULT,,0,0,0,,{\r}{\kf21}Sie{\kf28} hält{\kf28} Dich{\kf28} beim{\kf21} Er{\kf35}folg{\kf21} nur{\kf104} auf
+Dialogue: 0,0:01:31.60,0:01:34.85,DEFAULT,,0,0,0,,{\r}{\kf82}Ah,{\kf95} ah{\kf75} ah{\kf74} ah
+Dialogue: 0,0:01:35.08,0:01:37.94,DEFAULT,,0,0,0,,{\r}{\kf37}Je{\kf46}der{\kf37} will{\kf46} ihn{\kf28} ge{\kf37}win{\kf55}nen
+Dialogue: 0,0:01:38.73,0:01:40.35,DEFAULT,,0,0,0,,{\r}{\kf27}Den{\kf27} gro{\kf27}ßen{\kf27} Wett{\kf55}streit
+Dialogue: 0,0:01:40.80,0:01:42.99,DEFAULT,,0,0,0,,{\r}{\kf25}Uns{\kf25}rer{\kf25} bei{\kf25}den{\kf119} Bands
+Dialogue: 0,0:01:43.33,0:01:44.84,DEFAULT,,0,0,0,,{\r}{\kf28}Wer{\kf35} hier{\kf21} da{\kf35}bei{\kf33} ist
+Dialogue: 0,0:01:45.63,0:01:47.20,DEFAULT,,0,0,0,,{\r}{\kf26}Kann{\kf33} nicht{\kf26} ent{\kf26}rin{\kf46}nen
+Dialogue: 0,0:01:47.99,0:01:49.45,DEFAULT,,0,0,0,,{\r}{\kf27}Wir{\kf27} wer{\kf27}den{\kf33} sie{\kf32}gen
+Dialogue: 0,0:01:50.01,0:01:51.86,DEFAULT,,0,0,0,,{\r}{\kf40}In{\kf48} dem{\kf32} Wett{\kf65}streit
+Dialogue: 0,0:01:52.25,0:01:53.94,DEFAULT,,0,0,0,,{\r}{\kf34}Uns{\kf27}rer{\kf27} bei{\kf20}den{\kf60} Bands
+Dialogue: 0,0:01:54.22,0:01:55.62,DEFAULT,,0,0,0,,{\r}{\kf27}Ich{\kf27} könnte{\kf27} Du{\kf59} sein
+Dialogue: 0,0:01:55.79,0:01:56.30,DEFAULT,,0,0,0,,{\r}{\kf51}Wettstreit!
+Dialogue: 0,0:01:56.41,0:01:57.87,DEFAULT,,0,0,0,,{\r}{\kf49}Ha,{\kf28} von{\kf21} mir{\kf48} aus...
+Dialogue: 0,0:01:58.04,0:01:58.60,DEFAULT,,0,0,0,,{\r}{\kf56}Wettstreit!
+Dialogue: 0,0:01:58.82,0:02:00.17,DEFAULT,,0,0,0,,{\r}{\kf26}Ich{\kf19} will{\kf26} das{\kf64} unbedingt
+Dialogue: 0,0:02:00.34,0:02:00.90,DEFAULT,,0,0,0,,{\r}{\kf56}Wettstreit!
+Dialogue: 0,0:02:01.18,0:02:02.53,DEFAULT,,0,0,0,,{\r}{\kf32}Nicht,{\kf10} wenn{\kf10} ich{\kf10} es{\kf48} zuerst{\kf16} haben{\kf10} kann
+Dialogue: 0,0:02:02.64,0:02:04.77,DEFAULT,,0,0,0,,{\r}{\kf34}Wir{\kf27} und{\kf48} Ihr,{\kf27} Ihr{\kf27} und{\kf50} wir
+Dialogue: 0,0:02:05.28,0:02:07.58,DEFAULT,,0,0,0,,{\r}{\kf32}Wer{\kf24} bes{\kf24}ser{\kf24} ist,{\kf24} wird{\kf32} man{\kf32} se{\kf38}hen
+Dialogue: 0,0:02:07.86,0:02:11.73,DEFAULT,,0,0,0,,{\r}{\kf24}Denn{\kf32} man{\kf24} ist{\kf24} nicht{\kf47} gern{\kf71} ein{\kf24}er{\kf24} von{\kf55} vie{\kf62}len
+Dialogue: 0,0:02:12.18,0:02:16.00,DEFAULT,,0,0,0,,{\r}{\kf22}Ein{\kf30} Wett{\kf30}be{\kf52}werb{\kf30} muss{\kf22} es{\kf30} sein,{\kf22} was{\kf30} spricht{\kf30} da{\kf30}ge{\kf54}gen?
+Dialogue: 0,0:02:16.73,0:02:20.60,DEFAULT,,0,0,0,,{\r}{\kf27}Wir{\kf27} sind{\kf34} ganz{\kf54} vorn{\kf54} und{\kf34} nie{\kf27}mals{\kf20} un{\kf27}ter{\kf27}le{\kf56}gen
+Dialogue: 0,0:02:21.05,0:02:23.97,DEFAULT,,0,0,0,,{\r}{\kf39}Je{\kf49}der{\kf39} will{\kf39} ihn{\kf29} ge{\kf49}win{\kf48}nen
+Dialogue: 0,0:02:24.81,0:02:26.38,DEFAULT,,0,0,0,,{\r}{\kf27}Den{\kf20} gro{\kf20}ßen{\kf27} Wett{\kf63}streit
+Dialogue: 0,0:02:26.83,0:02:28.97,DEFAULT,,0,0,0,,{\r}{\kf27}Uns{\kf20}rer{\kf27} bei{\kf20} den{\kf119} Bands
+Dialogue: 0,0:02:29.47,0:02:30.93,DEFAULT,,0,0,0,,{\r}{\kf21}Wer{\kf35} hier{\kf28} da{\kf28}bei{\kf34} ist
+Dialogue: 0,0:02:31.72,0:02:33.23,DEFAULT,,0,0,0,,{\r}{\kf33}Kann{\kf26} nicht{\kf20} ent{\kf33}rin{\kf40}nen
+Dialogue: 0,0:02:34.07,0:02:35.48,DEFAULT,,0,0,0,,{\r}{\kf20}Wir{\kf27} wer{\kf27}den{\kf27} sie{\kf39}gen
+Dialogue: 0,0:02:36.04,0:02:37.89,DEFAULT,,0,0,0,,{\r}{\kf32}In{\kf56} dem{\kf32} Wett{\kf65}streit
+Dialogue: 0,0:02:38.28,0:02:40.08,DEFAULT,,0,0,0,,{\r}{\kf26}Uns{\kf32}rer{\kf32} bei{\kf19}den{\kf71} Bands

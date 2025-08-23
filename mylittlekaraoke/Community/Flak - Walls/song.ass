@@ -1,39 +1,46 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Walls
+Artist: Flak
+Original Timing: mylittlekaraoke.com by SqueakyBelle
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:15.25,0:00:16.19,DEFAULT,,0,0,0,,{\kf18}I{\kf12}~{\kf15} feel{\kf26}~
-Dialogue: 0,0:00:16.62,0:00:18.44,DEFAULT,,0,0,0,,{\kf23}That{\kf18} I've{\kf20} lost{\kf18} it{\kf18} all{\kf15} a{\kf15}gain{\kf26}~
-Dialogue: 0,0:00:18.95,0:00:20.04,DEFAULT,,0,0,0,,{\kf35}These{\kf18} walls{\kf40}~
-Dialogue: 0,0:00:20.32,0:00:22.11,DEFAULT,,0,0,0,,{\kf20}I{\kf18} can{\kf20} feel{\kf15} them{\kf20} clo{\kf18}sing{\kf20} in{\kf15}~
-Dialogue: 0,0:00:22.66,0:00:23.60,DEFAULT,,0,0,0,,{\kf23}The{\kf15}~{\kf43} world
-Dialogue: 0,0:00:24.02,0:00:25.85,DEFAULT,,0,0,0,,{\kf18}Take{\kf15} this{\kf18} pain{\kf18} a{\kf6}way{\kf12}~{\kf15} from{\kf12} me{\kf32}~
-Dialogue: 0,0:00:27.73,0:00:31.37,DEFAULT,,0,0,0,,{\kf83}I{\kf18} have{\kf52}~{\kf29} seen{\kf146}~
-Dialogue: 0,0:01:29.11,0:01:30.04,DEFAULT,,0,0,0,,{\kf18}I{\kf12}~{\kf15} feel{\kf29}~
-Dialogue: 0,0:01:30.47,0:01:32.30,DEFAULT,,0,0,0,,{\kf23}That{\kf18} I've{\kf20} lost{\kf15} it{\kf18} all{\kf15} a{\kf18}gain{\kf26}~
-Dialogue: 0,0:01:32.81,0:01:33.86,DEFAULT,,0,0,0,,{\kf35}These{\kf18} walls{\kf40}~
-Dialogue: 0,0:01:34.17,0:01:35.97,DEFAULT,,0,0,0,,{\kf20}I{\kf18} can{\kf18} feel{\kf15} them{\kf23} clo{\kf20}sing{\kf20} in{\kf15}~
-Dialogue: 0,0:01:36.48,0:01:37.45,DEFAULT,,0,0,0,,{\kf23}The{\kf18}~{\kf43} world
-Dialogue: 0,0:01:37.88,0:01:39.70,DEFAULT,,0,0,0,,{\kf18}Take{\kf18} this{\kf18} pain{\kf18} a{\kf6}way{\kf15}~{\kf12} from{\kf12} me{\kf35}~
-Dialogue: 0,0:01:41.58,0:01:45.23,DEFAULT,,0,0,0,,{\kf86}I{\kf18} have{\kf52}~{\kf29} seen{\kf146}~
-Dialogue: 0,0:02:20.80,0:02:21.74,DEFAULT,,0,0,0,,{\kf18}I{\kf12}~{\kf15} feel{\kf29}~
-Dialogue: 0,0:02:22.17,0:02:23.99,DEFAULT,,0,0,0,,{\kf23}That{\kf18} I've{\kf20} lost{\kf15} it{\kf23} all{\kf15} a{\kf18}gain{\kf26}~
-Dialogue: 0,0:02:24.50,0:02:25.53,DEFAULT,,0,0,0,,{\kf35}These{\kf15} walls{\kf38}~
-Dialogue: 0,0:02:25.87,0:02:27.66,DEFAULT,,0,0,0,,{\kf20}I{\kf18} can{\kf20} feel{\kf15} them{\kf23} clo{\kf18}sing{\kf20} in{\kf15}~
-Dialogue: 0,0:02:28.21,0:02:29.15,DEFAULT,,0,0,0,,{\kf23}The{\kf18}~{\kf43} world
-Dialogue: 0,0:02:29.57,0:02:31.40,DEFAULT,,0,0,0,,{\kf15}Take{\kf18} this{\kf15} pain{\kf20} a{\kf6}way{\kf15}~{\kf12} from{\kf15} me{\kf32}~
-Dialogue: 0,0:02:33.28,0:02:35.41,DEFAULT,,0,0,0,,{\kf86}I{\kf18} have{\kf52}~{\kf32} seen
-Dialogue: 0,0:02:35.61,0:02:36.52,DEFAULT,,0,0,0,,{\kf15}I{\kf12}~{\kf15} feel{\kf29}~
-Dialogue: 0,0:02:36.95,0:02:38.77,DEFAULT,,0,0,0,,{\kf23}That{\kf18} I've{\kf20} lost{\kf15} it{\kf20} all{\kf12} a{\kf18}gain{\kf26}~
-Dialogue: 0,0:02:39.29,0:02:40.31,DEFAULT,,0,0,0,,{\kf35}These{\kf18} walls{\kf38}~
-Dialogue: 0,0:02:40.68,0:02:42.45,DEFAULT,,0,0,0,,{\kf18}I{\kf18} can{\kf20} feel{\kf18} them{\kf23} clo{\kf18}sing{\kf20} in{\kf15}~
-Dialogue: 0,0:02:42.96,0:02:43.93,DEFAULT,,0,0,0,,{\kf23}The{\kf18}~{\kf43} world
-Dialogue: 0,0:02:44.36,0:02:46.18,DEFAULT,,0,0,0,,{\kf18}Take{\kf20} this{\kf18} pain{\kf20} a{\kf6}way{\kf15}~{\kf15} from{\kf15} me{\kf32}~
-Dialogue: 0,0:02:48.06,0:02:51.73,DEFAULT,,0,0,0,,{\kf83}I{\kf20} have{\kf49}~{\kf35} seen{\kf149}~
+Dialogue: 0,0:00:15.26,0:00:16.19,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf16}~{\kf20} feel{\kf34}~
+Dialogue: 0,0:00:16.62,0:00:18.45,DEFAULT,,0,0,0,,{\r}{\kf28}That{\kf21} I've{\kf25} lost{\kf21} it{\kf21} all{\kf18} a{\kf18}gain{\kf30}~
+Dialogue: 0,0:00:18.96,0:00:20.04,DEFAULT,,0,0,0,,{\r}{\kf40}These{\kf20} walls{\kf48}~
+Dialogue: 0,0:00:20.32,0:00:22.12,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf21} can{\kf25} feel{\kf18} them{\kf25} clo{\kf21}sing{\kf25} in{\kf19}~
+Dialogue: 0,0:00:22.66,0:00:23.60,DEFAULT,,0,0,0,,{\r}{\kf27}The{\kf17}~{\kf50} world
+Dialogue: 0,0:00:24.03,0:00:25.85,DEFAULT,,0,0,0,,{\r}{\kf22}Take{\kf19} this{\kf22} pain{\kf22} a{\kf10}way{\kf15}~{\kf19} from{\kf15} me{\kf38}~
+Dialogue: 0,0:00:27.73,0:00:31.38,DEFAULT,,0,0,0,,{\r}{\kf93}I{\kf19} have{\kf58}~{\kf32} seen{\kf163}~
+Dialogue: 0,0:01:29.11,0:01:30.05,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf15}~{\kf19} feel{\kf37}~
+Dialogue: 0,0:01:30.48,0:01:32.30,DEFAULT,,0,0,0,,{\r}{\kf28}That{\kf21} I've{\kf25} lost{\kf18} it{\kf21} all{\kf18} a{\kf21}gain{\kf30}~
+Dialogue: 0,0:01:32.81,0:01:33.87,DEFAULT,,0,0,0,,{\r}{\kf39}These{\kf20} walls{\kf46}~
+Dialogue: 0,0:01:34.18,0:01:35.97,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf21} can{\kf21} feel{\kf18} them{\kf28} clo{\kf25}sing{\kf25} in{\kf16}~
+Dialogue: 0,0:01:36.49,0:01:37.46,DEFAULT,,0,0,0,,{\r}{\kf27}The{\kf20}~{\kf50} world
+Dialogue: 0,0:01:37.88,0:01:39.71,DEFAULT,,0,0,0,,{\r}{\kf21}Take{\kf21} this{\kf21} pain{\kf21} a{\kf10}way{\kf18}~{\kf14} from{\kf14} me{\kf42}~
+Dialogue: 0,0:01:41.59,0:01:45.23,DEFAULT,,0,0,0,,{\r}{\kf95}I{\kf19} have{\kf57}~{\kf32} seen{\kf162}~
+Dialogue: 0,0:02:20.81,0:02:21.75,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf15}~{\kf19} feel{\kf37}~
+Dialogue: 0,0:02:22.17,0:02:24.00,DEFAULT,,0,0,0,,{\r}{\kf27}That{\kf20} I've{\kf24} lost{\kf17} it{\kf27} all{\kf17} a{\kf20}gain{\kf30}~
+Dialogue: 0,0:02:24.51,0:02:25.53,DEFAULT,,0,0,0,,{\r}{\kf41}These{\kf17} walls{\kf45}~
+Dialogue: 0,0:02:25.88,0:02:27.67,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf21} can{\kf25} feel{\kf18} them{\kf28} clo{\kf21}sing{\kf25} in{\kf16}~
+Dialogue: 0,0:02:28.21,0:02:29.15,DEFAULT,,0,0,0,,{\r}{\kf26}The{\kf19}~{\kf49} world
+Dialogue: 0,0:02:29.58,0:02:31.40,DEFAULT,,0,0,0,,{\r}{\kf18}Take{\kf22} this{\kf18} pain{\kf25} a{\kf10}way{\kf18}~{\kf15} from{\kf18} me{\kf38}~
+Dialogue: 0,0:02:33.28,0:02:35.42,DEFAULT,,0,0,0,,{\r}{\kf99}I{\kf20} have{\kf59}~{\kf36} seen
+Dialogue: 0,0:02:35.62,0:02:36.53,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf15}~{\kf19} feel{\kf38}~
+Dialogue: 0,0:02:36.96,0:02:38.78,DEFAULT,,0,0,0,,{\r}{\kf28}That{\kf21} I've{\kf24} lost{\kf17} it{\kf24} all{\kf14} a{\kf21}gain{\kf33}~
+Dialogue: 0,0:02:39.29,0:02:40.32,DEFAULT,,0,0,0,,{\r}{\kf40}These{\kf20} walls{\kf43}~
+Dialogue: 0,0:02:40.69,0:02:42.45,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21} can{\kf24} feel{\kf21} them{\kf28} clo{\kf21}sing{\kf24} in{\kf17}~
+Dialogue: 0,0:02:42.97,0:02:43.93,DEFAULT,,0,0,0,,{\r}{\kf27}The{\kf20}~{\kf50} world
+Dialogue: 0,0:02:44.36,0:02:46.18,DEFAULT,,0,0,0,,{\r}{\kf20}Take{\kf24} this{\kf20} pain{\kf24} a{\kf10}way{\kf17}~{\kf17} from{\kf17} me{\kf33}~
+Dialogue: 0,0:02:48.06,0:02:51.74,DEFAULT,,0,0,0,,{\r}{\kf91}I{\kf22} have{\kf53}~{\kf38} seen{\kf163}~

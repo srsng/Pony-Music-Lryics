@@ -1,34 +1,41 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Luna Comes to Me in a Dream
+Artist: Le Soldat Pony
+Original Timing: mylittlekaraoke.com by SqueakyBelle
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:50.28,0:00:53.05,DEFAULT,,0,0,0,,{\kf21}The{\kf34} thoughts{\kf13} that{\kf17} I{\kf30} have{\kf51} looked{\kf59} for
-Dialogue: 0,0:00:53.72,0:00:56.11,DEFAULT,,0,0,0,,{\kf17}Are{\kf13} in{\kf17} a{\kf84} lamp{\kf13} on{\kf17} the{\kf30} floor
-Dialogue: 0,0:00:56.57,0:01:00.64,DEFAULT,,0,0,0,,{\kf26}Drift{\kf17}ing{\kf30} slow{\kf21} in{\kf30}to{\kf21}~{\kf30} sun{\kf30}rise{\kf34} morn{\kf26}ing{\kf72} glow
-Dialogue: 0,0:01:12.05,0:01:14.98,DEFAULT,,0,0,0,,{\kf17}She{\kf30} came{\kf17} to{\kf17} me{\kf26} that{\kf59} night{\kf68} for
-Dialogue: 0,0:01:15.69,0:01:18.25,DEFAULT,,0,0,0,,{\kf17}I{\kf17} had{\kf21} no{\kf21}thing{\kf17} but{\kf30} my{\kf72} life
-Dialogue: 0,0:01:18.42,0:01:22.61,DEFAULT,,0,0,0,,{\kf13}And{\kf13} a{\kf26} pock{\kf26}et{\kf34} watch{\kf17} that{\kf38} ne{\kf26}ver{\kf34} would{\kf30} be{\kf89} sold
-Dialogue: 0,0:01:28.65,0:01:33.93,DEFAULT,,0,0,0,,{\kf21}"I{\kf21} have{\kf38} all{\kf17} the{\kf55} po{\kf21}wers{\kf17} of{\kf17} the{\kf21} moon{\kf17}~{\kf21} at{\kf89} my{\kf84} feet"
-Dialogue: 0,0:01:35.32,0:01:38.38,DEFAULT,,0,0,0,,{\kf13}"To{\kf30} set{\kf55} your{\kf30} mind{\kf63}~{\kf55} free"
-Dialogue: 0,0:01:39.38,0:01:44.20,DEFAULT,,0,0,0,,{\kf9}"The{\kf26} wak{\kf17}ing{\kf21} light{\kf21} will{\kf55} tell{\kf26} you{\kf21}~{\kf51} all{\kf21}~{\kf34} you{\kf21}~{\kf17} need{\kf17}~{\kf30}~"
-Dialogue: 0,0:01:45.50,0:01:49.74,DEFAULT,,0,0,0,,{\kf59}"Oh{\kf47} ba{\kf17}~{\kf34}~{\kf42}by,{\kf59} just{\kf84} sleep"
-Dialogue: 0,0:02:01.23,0:02:04.33,DEFAULT,,0,0,0,,{\kf13}I{\kf17} went{\kf21} out{\kf26} catch{\kf26}ing{\kf59} fire{\kf97}flies
-Dialogue: 0,0:02:04.92,0:02:07.35,DEFAULT,,0,0,0,,{\kf13}For{\kf13} the{\kf38} stars{\kf30} are{\kf17} more{\kf21} e{\kf38}lu{\kf17}sive
-Dialogue: 0,0:02:07.60,0:02:11.37,DEFAULT,,0,0,0,,{\kf17}And{\kf17} they{\kf21} burn{\kf34} holes{\kf21} in{\kf17} my{\kf34} pock{\kf30}ets,{\kf30} don't{\kf17} ya{\kf59} know?
-Dialogue: 0,0:02:23.07,0:02:26.72,DEFAULT,,0,0,0,,{\kf13}I{\kf26} con{\kf21}tem{\kf34}pla{\kf21}ted{\kf80} my{\kf21} de{\kf26}mise{\kf68}~
-Dialogue: 0,0:02:26.93,0:02:28.94,DEFAULT,,0,0,0,,{\kf9}And{\kf13} she{\kf21} looked{\kf17} at{\kf17} me{\kf21} and{\kf47} smiled
-Dialogue: 0,0:02:29.32,0:02:33.34,DEFAULT,,0,0,0,,{\kf17}Sing{\kf17}ing,{\kf30} "Where,{\kf34} then,{\kf30} do{\kf17} you{\kf30} think{\kf42}~{\kf17} you{\kf17} will{\kf63} go?"
-Dialogue: 0,0:02:39.42,0:02:44.67,DEFAULT,,0,0,0,,{\kf17}"The{\kf21} swirl{\kf13} of{\kf30} our{\kf21} e{\kf55}ter{\kf13}ni{\kf30}ty{\kf21} has{\kf26} se{\kf26}crets{\kf68} for{\kf13} me{\kf21}~{\kf30}~"
-Dialogue: 0,0:02:46.13,0:02:49.19,DEFAULT,,0,0,0,,{\kf17}"And{\kf21} you,{\kf17} as{\kf34} well,{\kf17} to{\kf26} learn{\kf38} its{\kf26} ma{\kf26}jes{\kf30}ty"
-Dialogue: 0,0:02:50.28,0:02:55.23,DEFAULT,,0,0,0,,{\kf9}"I'm{\kf26} ti{\kf17}red,{\kf30} too,{\kf17} to{\kf42} lift{\kf21} all{\kf17} the{\kf34} light{\kf59}~{\kf30} you{\kf21} see{\kf17}~{\kf30}~"
-Dialogue: 0,0:02:56.49,0:03:02.69,DEFAULT,,0,0,0,,{\kf21}"But{\kf21} it's{\kf84} warm{\kf17} in{\kf21} its{\kf34} com{\kf42}fort,{\kf17} and{\kf13} it's{\kf42} bright{\kf17}er{\kf13} in{\kf26} its{\kf51} mys{\kf38}te{\kf55}ry"
-Dialogue: 0,0:03:31.58,0:03:37.03,DEFAULT,,0,0,0,,{\kf135}Sweet{\kf198} dreams{\kf151}~
-Dialogue: 0,0:03:43.11,0:03:48.61,DEFAULT,,0,0,0,,{\kf227}Sweet{\kf135} dreams{\kf172}~
-Dialogue: 0,0:03:53.93,0:03:59.80,DEFAULT,,0,0,0,,{\kf168}Sweet{\kf231} dreamed{\kf172}~
+Dialogue: 0,0:00:50.29,0:00:53.06,DEFAULT,,0,0,0,,{\r}{\kf26}The{\kf42} thoughts{\kf16} that{\kf21} I{\kf37} have{\kf63} looked{\kf72} for
+Dialogue: 0,0:00:53.73,0:00:56.12,DEFAULT,,0,0,0,,{\r}{\kf21}Are{\kf16} in{\kf21} a{\kf106} lamp{\kf16} on{\kf21} the{\kf38} floor
+Dialogue: 0,0:00:56.58,0:01:00.65,DEFAULT,,0,0,0,,{\r}{\kf31}Drift{\kf21}ing{\kf36} slow{\kf26} in{\kf36}to{\kf26}~{\kf36} sun{\kf36}rise{\kf41} morn{\kf31}ing{\kf87} glow
+Dialogue: 0,0:01:12.05,0:01:14.99,DEFAULT,,0,0,0,,{\r}{\kf21}She{\kf37} came{\kf21} to{\kf21} me{\kf32} that{\kf75} night{\kf87} for
+Dialogue: 0,0:01:15.70,0:01:18.26,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} had{\kf28} no{\kf28}thing{\kf22} but{\kf39} my{\kf95} life
+Dialogue: 0,0:01:18.42,0:01:22.62,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf16} a{\kf31} pock{\kf31}et{\kf41} watch{\kf21} that{\kf47} ne{\kf31}ver{\kf41} would{\kf36} be{\kf108} sold
+Dialogue: 0,0:01:28.65,0:01:33.94,DEFAULT,,0,0,0,,{\r}{\kf25}"I{\kf25} have{\kf46} all{\kf20} the{\kf66} po{\kf25}wers{\kf20} of{\kf20} the{\kf25} moon{\kf20}~{\kf25} at{\kf107} my{\kf104} feet"
+Dialogue: 0,0:01:35.32,0:01:38.38,DEFAULT,,0,0,0,,{\r}{\kf16}"To{\kf37} set{\kf69} your{\kf37} mind{\kf79}~{\kf68} free"
+Dialogue: 0,0:01:39.39,0:01:44.21,DEFAULT,,0,0,0,,{\r}{\kf11}"The{\kf32} wak{\kf21}ing{\kf26} light{\kf26} will{\kf69} tell{\kf32} you{\kf26}~{\kf64} all{\kf26}~{\kf42} you{\kf26}~{\kf21} need{\kf21}~{\kf39}~"
+Dialogue: 0,0:01:45.51,0:01:49.74,DEFAULT,,0,0,0,,{\r}{\kf73}"Oh{\kf57} ba{\kf21}~{\kf42}~{\kf52}by,{\kf73} just{\kf105} sleep"
+Dialogue: 0,0:02:01.23,0:02:04.34,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf20} went{\kf25} out{\kf30} catch{\kf30}ing{\kf71} fire{\kf119}flies
+Dialogue: 0,0:02:04.92,0:02:07.35,DEFAULT,,0,0,0,,{\r}{\kf17}For{\kf17} the{\kf50} stars{\kf39} are{\kf22} more{\kf28} e{\kf50}lu{\kf20}sive
+Dialogue: 0,0:02:07.61,0:02:11.38,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} they{\kf27} burn{\kf43} holes{\kf27} in{\kf22} my{\kf43} pock{\kf38}ets,{\kf38} don't{\kf22} ya{\kf73} know?
+Dialogue: 0,0:02:23.08,0:02:26.73,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf30} con{\kf25}tem{\kf40}pla{\kf25}ted{\kf95} my{\kf25} de{\kf30}mise{\kf80}~
+Dialogue: 0,0:02:26.93,0:02:28.95,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf18} she{\kf30} looked{\kf24} at{\kf24} me{\kf30} and{\kf63} smiled
+Dialogue: 0,0:02:29.32,0:02:33.35,DEFAULT,,0,0,0,,{\r}{\kf22}Sing{\kf22}ing,{\kf38} "Where,{\kf44} then,{\kf38} do{\kf22} you{\kf38} think{\kf54}~{\kf22} you{\kf22} will{\kf81} go?"
+Dialogue: 0,0:02:39.43,0:02:44.67,DEFAULT,,0,0,0,,{\r}{\kf22}"The{\kf28} swirl{\kf17} of{\kf39} our{\kf28} e{\kf72}ter{\kf17}ni{\kf39}ty{\kf28} has{\kf33} se{\kf33}crets{\kf88} for{\kf17} me{\kf28}~{\kf35}~"
+Dialogue: 0,0:02:46.14,0:02:49.20,DEFAULT,,0,0,0,,{\r}{\kf21}"And{\kf26} you,{\kf21} as{\kf41} well,{\kf21} to{\kf31} learn{\kf47} its{\kf31} ma{\kf31}jes{\kf36}ty"
+Dialogue: 0,0:02:50.29,0:02:55.24,DEFAULT,,0,0,0,,{\r}{\kf11}"I'm{\kf34} ti{\kf23}red,{\kf40} too,{\kf23} to{\kf57} lift{\kf28} all{\kf23} the{\kf46} light{\kf80}~{\kf40} you{\kf28} see{\kf23}~{\kf39}~"
+Dialogue: 0,0:02:56.49,0:03:02.70,DEFAULT,,0,0,0,,{\r}{\kf26}"But{\kf26} it's{\kf103} warm{\kf21} in{\kf26} its{\kf41} com{\kf51}fort,{\kf21} and{\kf15} it's{\kf51} bright{\kf21}er{\kf15} in{\kf31} its{\kf62} mys{\kf46}te{\kf65}ry"
+Dialogue: 0,0:03:31.59,0:03:37.04,DEFAULT,,0,0,0,,{\r}{\kf152}Sweet{\kf223} dreams{\kf170}~
+Dialogue: 0,0:03:43.12,0:03:48.61,DEFAULT,,0,0,0,,{\r}{\kf233}Sweet{\kf138} dreams{\kf178}~
+Dialogue: 0,0:03:53.94,0:03:59.81,DEFAULT,,0,0,0,,{\r}{\kf173}Sweet{\kf237} dreamed{\kf177}~

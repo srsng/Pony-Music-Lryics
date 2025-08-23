@@ -1,80 +1,87 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Jingle Bells
+Artist: Daniel Ingram
+Original Timing: mylittlekaraoke.com by Smilley, RD1042
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.36,0:00:02.72,DEFAULT,,0,0,0,,{\kf30}One!{\kf30} Two!{\kf23} One,{\kf15} two,{\kf19} three,{\kf19} four!
-Dialogue: 0,0:00:02.87,0:00:04.52,DEFAULT,,0,0,0,,{\kf19}Dash{\kf19}ing{\kf23} through{\kf19} the{\kf42} snow
-Dialogue: 0,0:00:05.12,0:00:07.04,DEFAULT,,0,0,0,,{\kf8}In{\kf12} a{\kf23} one-{\kf23}horse{\kf19} o{\kf19}pen{\kf42} sleigh
-Dialogue: 0,0:00:07.97,0:00:09.59,DEFAULT,,0,0,0,,{\kf12}O{\kf12}ver{\kf15} the{\kf23} fields{\kf19} we{\kf42} go
-Dialogue: 0,0:00:10.45,0:00:12.10,DEFAULT,,0,0,0,,{\kf23}Laugh{\kf23}ing{\kf23} all{\kf23} the{\kf38} way
-Dialogue: 0,0:00:13.07,0:00:14.65,DEFAULT,,0,0,0,,{\kf23}Bells{\kf19} on{\kf23} bob{\kf27} tail{\kf38} ring
-Dialogue: 0,0:00:15.51,0:00:17.20,DEFAULT,,0,0,0,,{\kf19}Ma{\kf19}king{\kf30} spi{\kf27}rits{\kf42} bright
-Dialogue: 0,0:00:17.80,0:00:20.12,DEFAULT,,0,0,0,,{\kf15}What{\kf27} fun{\kf23} it{\kf27} is{\kf19} to{\kf34} fly{\kf23} and{\kf23} sing
-Dialogue: 0,0:00:20.27,0:00:22.15,DEFAULT,,0,0,0,,{\kf19}A{\kf30} sleigh{\kf23}ing{\kf27} song{\kf23} to{\kf38}night
-Dialogue: 0,0:00:22.52,0:00:24.06,DEFAULT,,0,0,0,,{\kf34}Oh,{\kf23} jin{\kf23}gle{\kf30} bells
-Dialogue: 0,0:00:24.40,0:00:25.30,DEFAULT,,0,0,0,,{\kf23}Jin{\kf15}gle{\kf30} bells
-Dialogue: 0,0:00:25.64,0:00:27.47,DEFAULT,,0,0,0,,{\kf23}Jin{\kf23}gle{\kf34} all{\kf12} the{\kf57} way
-Dialogue: 0,0:00:28.15,0:00:30.29,DEFAULT,,0,0,0,,{\kf27}Oh,{\kf23} what{\kf53} fun{\kf8} it{\kf15} is{\kf19} to{\kf27} fly
-Dialogue: 0,0:00:30.44,0:00:32.35,DEFAULT,,0,0,0,,{\kf8}In{\kf8} a{\kf23} one-{\kf23}horse{\kf19} o{\kf19}pen{\kf45} sleigh
-Dialogue: 0,0:00:33.25,0:00:34.19,DEFAULT,,0,0,0,,{\kf23}Jin{\kf23}gle{\kf38} bells
-Dialogue: 0,0:00:34.49,0:00:35.42,DEFAULT,,0,0,0,,{\kf27}Jin{\kf19}gle{\kf34} bells
-Dialogue: 0,0:00:35.76,0:00:37.52,DEFAULT,,0,0,0,,{\kf27}Jin{\kf19}gle{\kf45} all{\kf15} the{\kf49} way
-Dialogue: 0,0:00:38.35,0:00:40.37,DEFAULT,,0,0,0,,{\kf19}Oh,{\kf23} what{\kf38} fun{\kf12} it{\kf23} is{\kf19} to{\kf23} ride
-Dialogue: 0,0:00:40.52,0:00:42.51,DEFAULT,,0,0,0,,{\kf8}In{\kf8} a{\kf23} one-{\kf23}horse{\kf23} o{\kf19}pen{\kf49} sleigh
-Dialogue: 0,0:00:43.30,0:00:44.99,DEFAULT,,0,0,0,,{\kf30}Thought{\kf23} I'd{\kf23} grab{\kf19} some{\kf45} friends
-Dialogue: 0,0:00:45.55,0:00:47.61,DEFAULT,,0,0,0,,{\kf15}And{\kf23} take{\kf23} them{\kf30} for{\kf19} a{\kf53} ride
-Dialogue: 0,0:00:48.32,0:00:49.94,DEFAULT,,0,0,0,,{\kf19}Not{\kf19} so{\kf34} sure{\kf27} what's{\kf30} up
-Dialogue: 0,0:00:50.57,0:00:52.60,DEFAULT,,0,0,0,,{\kf19}As{\kf27} po{\kf23}nies{\kf30} run{\kf19} and{\kf49} hide
-Dialogue: 0,0:00:53.16,0:00:55.04,DEFAULT,,0,0,0,,{\kf19}Put{\kf15} Ra{\kf15}ri{\kf19}ty{\kf19} in{\kf19} the{\kf38} back
-Dialogue: 0,0:00:55.67,0:00:57.62,DEFAULT,,0,0,0,,{\kf15}Right{\kf23} next{\kf19} to{\kf27} Pin{\kf19}kie{\kf45} Pie
-Dialogue: 0,0:00:58.45,0:01:00.55,DEFAULT,,0,0,0,,{\kf30}Bet{\kf27}ter{\kf19} buck{\kf23}le{\kf23} up,{\kf23} my{\kf23} friends
-Dialogue: 0,0:01:00.74,0:01:02.65,DEFAULT,,0,0,0,,{\kf19}'Cause{\kf27} we're{\kf23} a{\kf23}bout{\kf19} to{\kf42} fly
-Dialogue: 0,0:01:02.95,0:01:04.52,DEFAULT,,0,0,0,,{\kf42}Oh,{\kf27} jin{\kf27}gle{\kf38} bells
-Dialogue: 0,0:01:04.82,0:01:05.72,DEFAULT,,0,0,0,,{\kf19}Jin{\kf27}gle{\kf30} bells
-Dialogue: 0,0:01:06.02,0:01:07.86,DEFAULT,,0,0,0,,{\kf27}Jin{\kf23}gle{\kf45} all{\kf12} the{\kf53} way
-Dialogue: 0,0:01:08.61,0:01:10.67,DEFAULT,,0,0,0,,{\kf27}Oh,{\kf23} what{\kf42} fun{\kf15} it{\kf15} is{\kf23} to{\kf23} fly
-Dialogue: 0,0:01:10.82,0:01:12.81,DEFAULT,,0,0,0,,{\kf12}In{\kf12} a{\kf23} one-{\kf19}horse{\kf23} o{\kf23}pen{\kf49} sleigh
-Dialogue: 0,0:01:13.64,0:01:14.65,DEFAULT,,0,0,0,,{\kf23}Jin{\kf27}gle{\kf42} bells
-Dialogue: 0,0:01:14.91,0:01:15.85,DEFAULT,,0,0,0,,{\kf23}Jin{\kf23}gle{\kf38} bells
-Dialogue: 0,0:01:16.15,0:01:17.91,DEFAULT,,0,0,0,,{\kf30}Jin{\kf23}gle{\kf42} all{\kf12} the{\kf49} way
-Dialogue: 0,0:01:18.70,0:01:20.80,DEFAULT,,0,0,0,,{\kf27}Oh,{\kf19} what{\kf45} fun{\kf12} it{\kf19} is{\kf19} to{\kf23} ride
-Dialogue: 0,0:01:20.95,0:01:22.86,DEFAULT,,0,0,0,,{\kf8}In{\kf8} a{\kf23} one-{\kf23}horse{\kf19} o{\kf19}pen{\kf42} sleigh
-Dialogue: 0,0:01:23.80,0:01:25.34,DEFAULT,,0,0,0,,{\kf19}Go{\kf27} grab{\kf19} App{\kf19}le{\kf34}jack
-Dialogue: 0,0:01:25.97,0:01:28.00,DEFAULT,,0,0,0,,{\kf19}Who's{\kf30} hi{\kf27}ding{\kf19} in{\kf19} the{\kf53} barn
-Dialogue: 0,0:01:28.82,0:01:30.40,DEFAULT,,0,0,0,,{\kf23}Put{\kf27} her{\kf19} in{\kf19} the{\kf38} back
-Dialogue: 0,0:01:31.04,0:01:32.95,DEFAULT,,0,0,0,,{\kf19}And{\kf27} leave{\kf19} be{\kf30}hind{\kf19} the{\kf42} farm
-Dialogue: 0,0:01:33.81,0:01:35.54,DEFAULT,,0,0,0,,{\kf27}Sky{\kf23} is{\kf27} clear{\kf23} and{\kf42} blue
-Dialogue: 0,0:01:36.06,0:01:38.12,DEFAULT,,0,0,0,,{\kf12}And{\kf12} the{\kf27} wind{\kf23} is{\kf30} at{\kf19} our{\kf53} tails
-Dialogue: 0,0:01:38.95,0:01:40.94,DEFAULT,,0,0,0,,{\kf19}Po{\kf23}nies,{\kf27} hold{\kf23} on{\kf23} tight{\kf23} be{\kf23}cause
-Dialogue: 0,0:01:41.09,0:01:43.07,DEFAULT,,0,0,0,,{\kf15}We're{\kf27} 'bout{\kf23} to{\kf23} tip{\kf19} the{\kf42} scales
-Dialogue: 0,0:01:46.86,0:01:49.07,DEFAULT,,0,0,0,,{\kf23}To{\kf15}mor{\kf12}row{\kf12} is{\kf23} Christ{\kf19}mas{\kf30} mor{\kf42}ning
-Dialogue: 0,0:01:51.85,0:01:53.80,DEFAULT,,0,0,0,,{\kf23}To{\kf15}mor{\kf15}row{\kf15} is{\kf27} Christ{\kf23}mas{\kf38} day
-Dialogue: 0,0:01:54.36,0:01:57.10,DEFAULT,,0,0,0,,{\kf23}And{\kf30} San{\kf15}ta's{\kf19} co{\kf19}ming{\kf27} 'round{\kf23} the{\kf30} cor{\kf19}ner
-Dialogue: 0,0:01:57.32,0:01:58.90,DEFAULT,,0,0,0,,{\kf19}And{\kf19} he's{\kf19} brin{\kf19}gin'{\kf19} pre{\kf30}sents
-Dialogue: 0,0:01:59.42,0:02:01.37,DEFAULT,,0,0,0,,{\kf23}'Cause{\kf19} he's{\kf19} been{\kf19} fil{\kf19}lin'{\kf15} up{\kf23} that
-Dialogue: 0,0:02:01.64,0:02:03.74,DEFAULT,,0,0,0,,{\kf19}Fil{\kf19}lin'{\kf19} up{\kf23} that{\kf23} San{\kf19}ta{\kf42} sleigh
-Dialogue: 0,0:02:04.11,0:02:05.65,DEFAULT,,0,0,0,,{\kf19}We{\kf23} start{\kf30} spee{\kf23}ding{\kf34} up
-Dialogue: 0,0:02:06.32,0:02:08.12,DEFAULT,,0,0,0,,{\kf19}As{\kf27} co{\kf15}lors{\kf27} start{\kf19} to{\kf42} show
-Dialogue: 0,0:02:08.91,0:02:10.52,DEFAULT,,0,0,0,,{\kf19}Strea{\kf23}ming{\kf23} through{\kf23} our{\kf42} manes
-Dialogue: 0,0:02:11.05,0:02:12.85,DEFAULT,,0,0,0,,{\kf19}The{\kf23} high{\kf23}er{\kf23} up{\kf23} we{\kf38} go
-Dialogue: 0,0:02:13.82,0:02:15.21,DEFAULT,,0,0,0,,{\kf19}E{\kf23}ven{\kf23} fas{\kf15}ter{\kf38} still
-Dialogue: 0,0:02:15.96,0:02:17.54,DEFAULT,,0,0,0,,{\kf19}Fa{\kf19}ces{\kf23} fea{\kf19}ring{\kf45} doom
-Dialogue: 0,0:02:17.95,0:02:20.12,DEFAULT,,0,0,0,,{\kf19}What{\kf19} fun{\kf19} it{\kf19} is{\kf15} to{\kf30} fly{\kf15} and{\kf23} sing
-Dialogue: 0,0:02:20.27,0:02:22.19,DEFAULT,,0,0,0,,{\kf15}As{\kf19} we{\kf27} SO{\kf27}NIC{\kf23} RAIN{\kf53}BOOM!
-Dialogue: 0,0:02:22.86,0:02:23.69,DEFAULT,,0,0,0,,{\kf23} Jin{\kf19}gle{\kf30} bells
-Dialogue: 0,0:02:23.91,0:02:24.81,DEFAULT,,0,0,0,,{\kf27}Jin{\kf23}gle{\kf30} bells
-Dialogue: 0,0:02:25.11,0:02:26.80,DEFAULT,,0,0,0,,{\kf27}Jin{\kf27}gle{\kf42} all{\kf12} the{\kf49} way
-Dialogue: 0,0:02:27.51,0:02:29.35,DEFAULT,,0,0,0,,{\kf23}Oh,{\kf23} what{\kf45} fun{\kf12} it{\kf15} is{\kf19} to{\kf19} fly
-Dialogue: 0,0:02:29.50,0:02:31.37,DEFAULT,,0,0,0,,{\kf15}In{\kf8} a{\kf23} one-{\kf27}horse{\kf23} o{\kf19}pen{\kf42} sleigh
-Dialogue: 0,0:02:32.12,0:02:33.02,DEFAULT,,0,0,0,,{\kf23}Jin{\kf23}gle{\kf34} bells
-Dialogue: 0,0:02:33.29,0:02:34.19,DEFAULT,,0,0,0,,{\kf27}Jin{\kf23}gle{\kf30} bells
-Dialogue: 0,0:02:34.45,0:02:36.02,DEFAULT,,0,0,0,,{\kf23}Jin{\kf30}gle{\kf34} all{\kf12} the{\kf42} way
-Dialogue: 0,0:02:36.77,0:02:38.65,DEFAULT,,0,0,0,,{\kf27}Oh,{\kf19} what{\kf49} fun{\kf8} it{\kf19} is{\kf23} to{\kf15} ride
-Dialogue: 0,0:02:38.80,0:02:41.91,DEFAULT,,0,0,0,,{\kf15}In{\kf12} a{\kf27} one-{\kf38}horse{\kf45} o{\kf42}pen{\kf53} sleigh
+Dialogue: 0,0:00:00.37,0:00:02.73,DEFAULT,,0,0,0,,{\r}{\kf52}One!{\kf52} Two!{\kf39} One,{\kf26} two,{\kf33} three,{\kf34} four!
+Dialogue: 0,0:00:02.88,0:00:04.53,DEFAULT,,0,0,0,,{\r}{\kf26}Dash{\kf26}ing{\kf31} through{\kf26} the{\kf56} snow
+Dialogue: 0,0:00:05.13,0:00:07.04,DEFAULT,,0,0,0,,{\r}{\kf10}In{\kf15} a{\kf30} one-{\kf30}horse{\kf25} o{\kf25}pen{\kf56} sleigh
+Dialogue: 0,0:00:07.98,0:00:09.59,DEFAULT,,0,0,0,,{\r}{\kf15}O{\kf15}ver{\kf20} the{\kf30} fields{\kf25} we{\kf56} go
+Dialogue: 0,0:00:10.45,0:00:12.10,DEFAULT,,0,0,0,,{\r}{\kf29}Laugh{\kf29}ing{\kf29} all{\kf29} the{\kf49} way
+Dialogue: 0,0:00:13.08,0:00:14.65,DEFAULT,,0,0,0,,{\r}{\kf28}Bells{\kf23} on{\kf28} bob{\kf32} tail{\kf46} ring
+Dialogue: 0,0:00:15.52,0:00:17.20,DEFAULT,,0,0,0,,{\r}{\kf23}Ma{\kf23}king{\kf38} spi{\kf33}rits{\kf52} bright
+Dialogue: 0,0:00:17.80,0:00:20.13,DEFAULT,,0,0,0,,{\r}{\kf19}What{\kf33} fun{\kf28} it{\kf33} is{\kf23} to{\kf42} fly{\kf28} and{\kf27} sing
+Dialogue: 0,0:00:20.28,0:00:22.15,DEFAULT,,0,0,0,,{\r}{\kf22}A{\kf36} sleigh{\kf27}ing{\kf31} song{\kf27} to{\kf45}night
+Dialogue: 0,0:00:22.53,0:00:24.07,DEFAULT,,0,0,0,,{\r}{\kf48}Oh,{\kf32} jin{\kf32}gle{\kf42} bells
+Dialogue: 0,0:00:24.40,0:00:25.30,DEFAULT,,0,0,0,,{\r}{\kf30}Jin{\kf20}gle{\kf40} bells
+Dialogue: 0,0:00:25.64,0:00:27.48,DEFAULT,,0,0,0,,{\r}{\kf28}Jin{\kf28}gle{\kf42} all{\kf14} the{\kf72} way
+Dialogue: 0,0:00:28.15,0:00:30.29,DEFAULT,,0,0,0,,{\r}{\kf33}Oh,{\kf29} what{\kf67} fun{\kf10} it{\kf19} is{\kf24} to{\kf32} fly
+Dialogue: 0,0:00:30.44,0:00:32.35,DEFAULT,,0,0,0,,{\r}{\kf10}In{\kf10} a{\kf30} one-{\kf30}horse{\kf25} o{\kf25}pen{\kf61} sleigh
+Dialogue: 0,0:00:33.25,0:00:34.19,DEFAULT,,0,0,0,,{\r}{\kf26}Jin{\kf26}gle{\kf42} bells
+Dialogue: 0,0:00:34.49,0:00:35.43,DEFAULT,,0,0,0,,{\r}{\kf31}Jin{\kf22}gle{\kf41} bells
+Dialogue: 0,0:00:35.77,0:00:37.53,DEFAULT,,0,0,0,,{\r}{\kf30}Jin{\kf21}gle{\kf52} all{\kf17} the{\kf56} way
+Dialogue: 0,0:00:38.35,0:00:40.38,DEFAULT,,0,0,0,,{\r}{\kf25}Oh,{\kf30} what{\kf50} fun{\kf15} it{\kf30} is{\kf25} to{\kf28} ride
+Dialogue: 0,0:00:40.53,0:00:42.52,DEFAULT,,0,0,0,,{\r}{\kf10}In{\kf10} a{\kf30} one-{\kf30}horse{\kf30} o{\kf25}pen{\kf64} sleigh
+Dialogue: 0,0:00:43.30,0:00:44.99,DEFAULT,,0,0,0,,{\r}{\kf37}Thought{\kf27} I'd{\kf27} grab{\kf23} some{\kf55} friends
+Dialogue: 0,0:00:45.55,0:00:47.62,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf29} take{\kf29} them{\kf38} for{\kf24} a{\kf67} ride
+Dialogue: 0,0:00:48.33,0:00:49.94,DEFAULT,,0,0,0,,{\r}{\kf24}Not{\kf24} so{\kf43} sure{\kf33} what's{\kf37} up
+Dialogue: 0,0:00:50.58,0:00:52.60,DEFAULT,,0,0,0,,{\r}{\kf23}As{\kf32} po{\kf28}nies{\kf37} run{\kf23} and{\kf59} hide
+Dialogue: 0,0:00:53.17,0:00:55.04,DEFAULT,,0,0,0,,{\r}{\kf25}Put{\kf20} Ra{\kf20}ri{\kf25}ty{\kf25} in{\kf25} the{\kf48} back
+Dialogue: 0,0:00:55.68,0:00:57.63,DEFAULT,,0,0,0,,{\r}{\kf20}Right{\kf30} next{\kf25} to{\kf35} Pin{\kf25}kie{\kf60} Pie
+Dialogue: 0,0:00:58.45,0:01:00.55,DEFAULT,,0,0,0,,{\r}{\kf38}Bet{\kf33}ter{\kf24} buck{\kf29}le{\kf29} up,{\kf29} my{\kf28} friends
+Dialogue: 0,0:01:00.74,0:01:02.65,DEFAULT,,0,0,0,,{\r}{\kf24}'Cause{\kf33} we're{\kf29} a{\kf29}bout{\kf24} to{\kf52} fly
+Dialogue: 0,0:01:02.95,0:01:04.53,DEFAULT,,0,0,0,,{\r}{\kf50}Oh,{\kf32} jin{\kf32}gle{\kf44} bells
+Dialogue: 0,0:01:04.83,0:01:05.73,DEFAULT,,0,0,0,,{\r}{\kf22}Jin{\kf32}gle{\kf36} bells
+Dialogue: 0,0:01:06.03,0:01:07.87,DEFAULT,,0,0,0,,{\r}{\kf31}Jin{\kf26}gle{\kf53} all{\kf13} the{\kf61} way
+Dialogue: 0,0:01:08.62,0:01:10.68,DEFAULT,,0,0,0,,{\r}{\kf33}Oh,{\kf28} what{\kf51} fun{\kf19} it{\kf19} is{\kf28} to{\kf28} fly
+Dialogue: 0,0:01:10.83,0:01:12.82,DEFAULT,,0,0,0,,{\r}{\kf14}In{\kf14} a{\kf28} one-{\kf24}horse{\kf28} o{\kf28}pen{\kf63} sleigh
+Dialogue: 0,0:01:13.64,0:01:14.65,DEFAULT,,0,0,0,,{\r}{\kf25}Jin{\kf29}gle{\kf47} bells
+Dialogue: 0,0:01:14.92,0:01:15.85,DEFAULT,,0,0,0,,{\r}{\kf26}Jin{\kf26}gle{\kf42} bells
+Dialogue: 0,0:01:16.15,0:01:17.92,DEFAULT,,0,0,0,,{\r}{\kf34}Jin{\kf26}gle{\kf47} all{\kf13} the{\kf56} way
+Dialogue: 0,0:01:18.70,0:01:20.80,DEFAULT,,0,0,0,,{\r}{\kf34}Oh,{\kf24} what{\kf59} fun{\kf15} it{\kf24} is{\kf24} to{\kf30} ride
+Dialogue: 0,0:01:20.95,0:01:22.87,DEFAULT,,0,0,0,,{\r}{\kf10}In{\kf10} a{\kf31} one-{\kf31}horse{\kf26} o{\kf26}pen{\kf57} sleigh
+Dialogue: 0,0:01:23.80,0:01:25.34,DEFAULT,,0,0,0,,{\r}{\kf25}Go{\kf35} grab{\kf25} App{\kf25}le{\kf44}jack
+Dialogue: 0,0:01:25.98,0:01:28.00,DEFAULT,,0,0,0,,{\r}{\kf23}Who's{\kf37} hi{\kf32}ding{\kf23} in{\kf23} the{\kf65} barn
+Dialogue: 0,0:01:28.83,0:01:30.40,DEFAULT,,0,0,0,,{\r}{\kf29}Put{\kf33} her{\kf24} in{\kf24} the{\kf47} back
+Dialogue: 0,0:01:31.04,0:01:32.95,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf33} leave{\kf23} be{\kf37}hind{\kf23} the{\kf52} farm
+Dialogue: 0,0:01:33.82,0:01:35.54,DEFAULT,,0,0,0,,{\r}{\kf33}Sky{\kf28} is{\kf33} clear{\kf28} and{\kf50} blue
+Dialogue: 0,0:01:36.07,0:01:38.13,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf13} the{\kf31} wind{\kf27} is{\kf36} at{\kf22} our{\kf64} tails
+Dialogue: 0,0:01:38.95,0:01:40.94,DEFAULT,,0,0,0,,{\r}{\kf24}Po{\kf28}nies,{\kf33} hold{\kf28} on{\kf28} tight{\kf28} be{\kf30}cause
+Dialogue: 0,0:01:41.09,0:01:43.08,DEFAULT,,0,0,0,,{\r}{\kf20}We're{\kf36} 'bout{\kf31} to{\kf31} tip{\kf26} the{\kf55} scales
+Dialogue: 0,0:01:46.87,0:01:49.08,DEFAULT,,0,0,0,,{\r}{\kf29}To{\kf19}mor{\kf14}row{\kf14} is{\kf29} Christ{\kf24}mas{\kf38} mor{\kf54}ning
+Dialogue: 0,0:01:51.85,0:01:53.80,DEFAULT,,0,0,0,,{\r}{\kf29}To{\kf19}mor{\kf19}row{\kf19} is{\kf33} Christ{\kf29}mas{\kf47} day
+Dialogue: 0,0:01:54.37,0:01:57.10,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf41} San{\kf20}ta's{\kf25} co{\kf25}ming{\kf36} 'round{\kf30} the{\kf41} cor{\kf26}ner
+Dialogue: 0,0:01:57.33,0:01:58.90,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf24} he's{\kf24} brin{\kf24}gin'{\kf24} pre{\kf37}sents
+Dialogue: 0,0:01:59.43,0:02:01.38,DEFAULT,,0,0,0,,{\r}{\kf32}'Cause{\kf27} he's{\kf27} been{\kf27} fil{\kf27}lin'{\kf22} up{\kf33} that
+Dialogue: 0,0:02:01.64,0:02:03.74,DEFAULT,,0,0,0,,{\r}{\kf24}Fil{\kf24}lin'{\kf24} up{\kf29} that{\kf29} San{\kf24}ta{\kf56} sleigh
+Dialogue: 0,0:02:04.12,0:02:05.65,DEFAULT,,0,0,0,,{\r}{\kf23}We{\kf27} start{\kf36} spee{\kf27}ding{\kf41} up
+Dialogue: 0,0:02:06.33,0:02:08.13,DEFAULT,,0,0,0,,{\r}{\kf23}As{\kf32} co{\kf18}lors{\kf32} start{\kf23} to{\kf52} show
+Dialogue: 0,0:02:08.92,0:02:10.53,DEFAULT,,0,0,0,,{\r}{\kf24}Strea{\kf28}ming{\kf28} through{\kf28} our{\kf53} manes
+Dialogue: 0,0:02:11.05,0:02:12.85,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf28} high{\kf28}er{\kf28} up{\kf28} we{\kf45} go
+Dialogue: 0,0:02:13.83,0:02:15.22,DEFAULT,,0,0,0,,{\r}{\kf22}E{\kf27}ven{\kf27} fas{\kf18}ter{\kf45} still
+Dialogue: 0,0:02:15.97,0:02:17.54,DEFAULT,,0,0,0,,{\r}{\kf24}Fa{\kf24}ces{\kf29} fea{\kf24}ring{\kf56} doom
+Dialogue: 0,0:02:17.95,0:02:20.13,DEFAULT,,0,0,0,,{\r}{\kf26}What{\kf26} fun{\kf26} it{\kf26} is{\kf21} to{\kf41} fly{\kf21} and{\kf30} sing
+Dialogue: 0,0:02:20.28,0:02:22.19,DEFAULT,,0,0,0,,{\r}{\kf18}As{\kf22} we{\kf31} SO{\kf31}NIC{\kf27} RAIN{\kf62}BOOM!
+Dialogue: 0,0:02:22.87,0:02:23.69,DEFAULT,,0,0,0,,{\r}{\kf26} Jin{\kf22}gle{\kf35} bells
+Dialogue: 0,0:02:23.92,0:02:24.82,DEFAULT,,0,0,0,,{\r}{\kf30}Jin{\kf26}gle{\kf34} bells
+Dialogue: 0,0:02:25.12,0:02:26.80,DEFAULT,,0,0,0,,{\r}{\kf29}Jin{\kf29}gle{\kf45} all{\kf12} the{\kf54} way
+Dialogue: 0,0:02:27.52,0:02:29.35,DEFAULT,,0,0,0,,{\r}{\kf27}Oh,{\kf27} what{\kf54} fun{\kf13} it{\kf18} is{\kf22} to{\kf23} fly
+Dialogue: 0,0:02:29.50,0:02:31.38,DEFAULT,,0,0,0,,{\r}{\kf18}In{\kf10} a{\kf28} one-{\kf32}horse{\kf28} o{\kf23}pen{\kf49} sleigh
+Dialogue: 0,0:02:32.13,0:02:33.03,DEFAULT,,0,0,0,,{\r}{\kf26}Jin{\kf26}gle{\kf38} bells
+Dialogue: 0,0:02:33.29,0:02:34.19,DEFAULT,,0,0,0,,{\r}{\kf30}Jin{\kf26}gle{\kf34} bells
+Dialogue: 0,0:02:34.45,0:02:36.03,DEFAULT,,0,0,0,,{\r}{\kf25}Jin{\kf34}gle{\kf38} all{\kf13} the{\kf47} way
+Dialogue: 0,0:02:36.78,0:02:38.65,DEFAULT,,0,0,0,,{\r}{\kf31}Oh,{\kf22} what{\kf58} fun{\kf10} it{\kf22} is{\kf27} to{\kf18} ride
+Dialogue: 0,0:02:38.80,0:02:41.92,DEFAULT,,0,0,0,,{\r}{\kf20}In{\kf15} a{\kf36} one-{\kf51}horse{\kf61} o{\kf56}pen{\kf72} sleigh

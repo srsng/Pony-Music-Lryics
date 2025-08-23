@@ -1,94 +1,100 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: The Vote (As Diamond Tiara and Silver Spoon)
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.73,0:00:05.05,DEFAULT,,0,0,0,,{\kf8}Ha{\kf12}ven't{\kf12} we{\kf15} all{\kf15} had{\kf19} e{\kf19}nough{\kf15} of{\kf19} Dia{\kf19}mond{\kf27} Tia{\kf27}ra?
-Dialogue: 0,0:00:05.69,0:00:08.20,DEFAULT,,0,0,0,,{\kf12}Do{\kf12} we{\kf23} real{\kf19}ly{\kf23} need{\kf15} a{\kf15} big{\kf30} sta{\kf12}tue{\kf15} of{\kf23} her?
-Dialogue: 0,0:00:08.43,0:00:10.71,DEFAULT,,0,0,0,,{\kf19}Es{\kf15}pe{\kf12}cial{\kf12}ly{\kf19} where{\kf19} our{\kf19} play{\kf19}ground{\kf12} e{\kf12}quip{\kf15}ment{\kf15} should{\kf23} be?
-Dialogue: 0,0:00:15.89,0:00:18.36,DEFAULT,,0,0,0,,{\kf19}A{\kf19} vote{\kf15} for{\kf15} Pip{\kf12} is{\kf8} a{\kf27} vote{\kf12} for{\kf12} the{\kf30} play{\kf34}ground
-Dialogue: 0,0:00:18.74,0:00:20.99,DEFAULT,,0,0,0,,{\kf19}A{\kf19} vote{\kf15} for{\kf27} Dia{\kf19}mond{\kf23} Tia{\kf19}ra{\kf19} is{\kf12} a{\kf23} vote
-Dialogue: 0,0:00:21.10,0:00:23.39,DEFAULT,,0,0,0,,{\kf23}For{\kf49} more{\kf27} Dia{\kf30}mond{\kf34} Tia{\kf38}ra
-Dialogue: 0,0:00:24.29,0:00:26.01,DEFAULT,,0,0,0,,{\kf19}It's{\kf19} time{\kf19} to{\kf23} make{\kf19} a{\kf45} change
-Dialogue: 0,0:00:26.43,0:00:27.66,DEFAULT,,0,0,0,,{\kf19}This{\kf23} is{\kf23} our{\kf45} chance
-Dialogue: 0,0:00:28.60,0:00:30.74,DEFAULT,,0,0,0,,{\kf23}Don't{\kf23} be{\kf15} af{\kf23}raid{\kf19} to{\kf23} do{\kf19} what's{\kf27} right
-Dialogue: 0,0:00:30.89,0:00:32.31,DEFAULT,,0,0,0,,{\kf19}He's{\kf30} it,{\kf19} vote{\kf19} for{\kf27} Pip!
-Dialogue: 0,0:00:32.88,0:00:34.64,DEFAULT,,0,0,0,,{\kf12}We{\kf8} got{\kf8} an{\kf23} op{\kf19}por{\kf23}tu{\kf23}ni{\kf30}ty
-Dialogue: 0,0:00:35.01,0:00:36.40,DEFAULT,,0,0,0,,{\kf8}To{\kf27} have{\kf27} fun{\kf15} a{\kf49}gain
-Dialogue: 0,0:00:36.89,0:00:39.55,DEFAULT,,0,0,0,,{\kf12}A{\kf23} vote{\kf19} for{\kf23} Pip{\kf19} and{\kf23} you{\kf19} can{\kf30} join{\kf15} the{\kf38} fight
-Dialogue: 0,0:00:40.56,0:00:42.93,DEFAULT,,0,0,0,,{\kf15}It's{\kf27} time{\kf27} for{\kf45} a{\kf42} new{\kf27} lea{\kf19}der
-Dialogue: 0,0:00:43.04,0:00:44.73,DEFAULT,,0,0,0,,{\kf23}It's{\kf19} time{\kf15} to{\kf23} make{\kf15} a{\kf38} change
-Dialogue: 0,0:00:44.99,0:00:48.14,DEFAULT,,0,0,0,,{\kf23}We're{\kf19} here{\kf19} to{\kf45} fight{\kf38} for{\kf27} what{\kf19} we{\kf23} be{\kf49}lieve
-Dialogue: 0,0:00:48.44,0:00:49.19,DEFAULT,,0,0,0,,{\kf23}Vote{\kf19} for{\kf19} Pip!
-Dialogue: 0,0:00:49.26,0:00:51.63,DEFAULT,,0,0,0,,{\kf19}It's{\kf27} fina{\kf19}lly{\kf45} time{\kf38} we{\kf30} beat{\kf15} her
-Dialogue: 0,0:00:51.78,0:00:53.46,DEFAULT,,0,0,0,,{\kf15}And{\kf30} play{\kf19} a{\kf23} bet{\kf19}ter{\kf38} game
-Dialogue: 0,0:00:53.65,0:00:55.98,DEFAULT,,0,0,0,,{\kf23}'Cause{\kf23} when{\kf23} we{\kf30} vote{\kf23} to{\kf53}get{\kf19}her
-Dialogue: 0,0:00:56.13,0:00:59.09,DEFAULT,,0,0,0,,{\kf30}There's{\kf23} no{\kf19}thing{\kf19} that{\kf49} we{\kf23} can't{\kf19} a{\kf60}chieve
-Dialogue: 0,0:01:02.31,0:01:03.93,DEFAULT,,0,0,0,,{\kf19}I{\kf15} don't{\kf12} be{\kf12}lieve{\kf12} what{\kf8} I{\kf12} am{\kf23} hea{\kf15}ring
-Dialogue: 0,0:01:04.08,0:01:05.80,DEFAULT,,0,0,0,,{\kf15}I'm{\kf15} the{\kf12} on{\kf8}ly{\kf12} one{\kf12} you{\kf15} should{\kf12} be{\kf27} chee{\kf15}ring
-Dialogue: 0,0:01:05.95,0:01:08.20,DEFAULT,,0,0,0,,{\kf15}Pip{\kf27}squeak,{\kf30} try{\kf23} Pips{\kf30}-weak,{\kf19} don't{\kf19} you{\kf34} think?
-Dialogue: 0,0:01:09.21,0:01:10.90,DEFAULT,,0,0,0,,{\kf8}But{\kf8} a{\kf34} dia{\kf23}mond{\kf12} is{\kf12} per{\kf27}fec{\kf19}tion
-Dialogue: 0,0:01:11.01,0:01:12.59,DEFAULT,,0,0,0,,{\kf15}It's{\kf27} na{\kf19}tu{\kf15}ral{\kf12} se{\kf23}lec{\kf12}tion
-Dialogue: 0,0:01:12.74,0:01:14.16,DEFAULT,,0,0,0,,{\kf15}So{\kf12} your{\kf23} vote{\kf12} bet{\kf8}ter{\kf12} be{\kf19} for{\kf15} me
-Dialogue: 0,0:01:14.31,0:01:15.36,DEFAULT,,0,0,0,,{\kf12}Not{\kf12} the{\kf19} wea{\kf19}kest{\kf30} link
-Dialogue: 0,0:01:15.55,0:01:17.20,DEFAULT,,0,0,0,,{\kf23}We'll{\kf23} let{\kf15} the{\kf23} vot{\kf15}ing{\kf19} de{\kf34}cide
-Dialogue: 0,0:01:18.55,0:01:22.83,DEFAULT,,0,0,0,,{\kf49}Eve{\kf34}ry{\kf45}po{\kf23}ny{\kf60} has{\kf19} their{\kf53} lit{\kf15}tle{\kf30} sec{\kf49}rets
-Dialogue: 0,0:01:23.35,0:01:24.51,DEFAULT,,0,0,0,,{\kf15}I{\kf23} know{\kf30} you{\kf38} do
-Dialogue: 0,0:01:25.38,0:01:29.88,DEFAULT,,0,0,0,,{\kf23}A{\kf38} vote{\kf27} for{\kf42} me{\kf30} will{\kf30} help{\kf23} you{\kf38} keep{\kf23} them{\kf64} safe
-Dialogue: 0,0:01:30.18,0:01:32.20,DEFAULT,,0,0,0,,{\kf30}Like{\kf19} your{\kf23} cree{\kf15}py{\kf27} su{\kf15}per{\kf45} strength
-Dialogue: 0,0:01:32.58,0:01:34.15,DEFAULT,,0,0,0,,{\kf19}Or{\kf34} your{\kf23} mane{\kf23} ex{\kf23}ten{\kf12}sion
-Dialogue: 0,0:01:34.26,0:01:36.03,DEFAULT,,0,0,0,,{\kf8}A{\kf12} lit{\kf8}tle{\kf27} thing{\kf19} I{\kf23} won't{\kf23} men{\kf19}tion
-Dialogue: 0,0:01:36.18,0:01:38.54,DEFAULT,,0,0,0,,{\kf12}Or{\kf15} those{\kf19} frea{\kf23}kish{\kf27} large{\kf30} teeth{\kf15} in{\kf27} your{\kf23} face
-Dialogue: 0,0:01:38.76,0:01:41.39,DEFAULT,,0,0,0,,{\kf23}C'{\kf27}mon{\kf23} now{\kf23} po{\kf23}nies,{\kf23} don't{\kf15} lis{\kf12}ten{\kf8} to{\kf45} her!
-Dialogue: 0,0:01:42.18,0:01:43.94,DEFAULT,,0,0,0,,{\kf19}You've{\kf27} got{\kf15}ta{\kf27} vote{\kf19} for{\kf42} change
-Dialogue: 0,0:01:44.31,0:01:46.30,DEFAULT,,0,0,0,,{\kf23}It's{\kf30} time{\kf19} for{\kf19} a{\kf27} new{\kf19} lea{\kf34}der
-Dialogue: 0,0:01:46.53,0:01:48.25,DEFAULT,,0,0,0,,{\kf23}End{\kf27} all{\kf15} the{\kf27} ty{\kf23}ran{\kf42}ny
-Dialogue: 0,0:01:48.70,0:01:50.58,DEFAULT,,0,0,0,,{\kf19}Vote{\kf27} now{\kf19} and{\kf23} we{\kf19} can{\kf23} beat{\kf23} her
-Dialogue: 0,0:01:50.88,0:01:52.71,DEFAULT,,0,0,0,,{\kf23}It's{\kf27} now{\kf19} a{\kf27}no{\kf23}ther{\kf45} day
-Dialogue: 0,0:01:53.09,0:01:55.04,DEFAULT,,0,0,0,,{\kf19}And{\kf23} we{\kf19} be{\kf27}lieve{\kf19} in{\kf27} what's{\kf34} right
-Dialogue: 0,0:01:55.26,0:01:57.03,DEFAULT,,0,0,0,,{\kf19}Vote{\kf23} for{\kf34} Pip!{\kf23} Vote{\kf15} for{\kf23} Pip!
-Dialogue: 0,0:01:57.44,0:01:59.39,DEFAULT,,0,0,0,,{\kf23}Our{\kf23} vic{\kf23}to{\kf27}ry{\kf19} is{\kf15} in{\kf34} sight
-Dialogue: 0,0:01:59.76,0:02:00.14,DEFAULT,,0,0,0,,{\kf38}Stop!
-Dialogue: 0,0:02:00.36,0:02:02.39,DEFAULT,,0,0,0,,{\kf12}E{\kf19}very{\kf15}po{\kf12}ny{\kf12} who{\kf15} has{\kf12}n't{\kf15} vo{\kf12}ted,{\kf19} lis{\kf15}ten{\kf23} up!
-Dialogue: 0,0:02:03.03,0:02:04.90,DEFAULT,,0,0,0,,{\kf19}Pip{\kf23} makes{\kf15} pro{\kf15}mi{\kf19}ses{\kf19} he{\kf27} can't{\kf15} keep
-Dialogue: 0,0:02:05.05,0:02:06.44,DEFAULT,,0,0,0,,{\kf19}But{\kf23} I{\kf19} can{\kf23} do{\kf34} more
-Dialogue: 0,0:02:07.04,0:02:08.76,DEFAULT,,0,0,0,,{\kf15}You{\kf19} could{\kf19} real{\kf15}ly{\kf12} use{\kf8} a{\kf12} new{\kf19} book{\kf30} bag
-Dialogue: 0,0:02:09.25,0:02:10.86,DEFAULT,,0,0,0,,{\kf27}'Cause{\kf27} I'll{\kf27} make{\kf19} things{\kf27} hap{\kf19}pen
-Dialogue: 0,0:02:10.98,0:02:13.30,DEFAULT,,0,0,0,,{\kf15}That{\kf34} none{\kf19} of{\kf19} you{\kf30} here{\kf27} can{\kf23} af{\kf38}ford
-Dialogue: 0,0:02:13.45,0:02:15.14,DEFAULT,,0,0,0,,{\kf27}To{\kf42} do,{\kf30} like{\kf23} e{\kf23}ver
-Dialogue: 0,0:02:16.34,0:02:17.91,DEFAULT,,0,0,0,,{\kf12}Would{\kf12}n't{\kf23} you{\kf12} like{\kf8} a{\kf8} lit{\kf12}tle{\kf15} some{\kf12}thing{\kf23} sweet?
-Dialogue: 0,0:02:18.06,0:02:19.56,DEFAULT,,0,0,0,,{\kf8}Here's{\kf8} a{\kf12} pa{\kf15}ra{\kf15}sol{\kf8} to{\kf12} hide{\kf12} you{\kf8} from{\kf8} the{\kf19} heat
-Dialogue: 0,0:02:19.71,0:02:21.81,DEFAULT,,0,0,0,,{\kf15}Who{\kf27} says{\kf19} tha{\kf12}-at{\kf19} I{\kf19} can't{\kf15} be{\kf38} nice?
-Dialogue: 0,0:02:22.83,0:02:24.25,DEFAULT,,0,0,0,,{\kf19}But{\kf23} first{\kf27} there's{\kf23} one{\kf30} thing
-Dialogue: 0,0:02:24.51,0:02:25.98,DEFAULT,,0,0,0,,{\kf19}An{\kf12} it{\kf12}sy{\kf12}-bit{\kf8}sy{\kf8} lit{\kf8}tle{\kf30} string
-Dialogue: 0,0:02:26.20,0:02:28.56,DEFAULT,,0,0,0,,{\kf27}And{\kf23} vo{\kf23}ting{\kf23} for{\kf30} me{\kf19} is{\kf15} the{\kf38} price
-Dialogue: 0,0:02:30.25,0:02:32.39,DEFAULT,,0,0,0,,{\kf23}I've{\kf15} a{\kf27} ti{\kf19}ny{\kf23} sug{\kf27}ges{\kf45}tion
-Dialogue: 0,0:02:32.99,0:02:35.80,DEFAULT,,0,0,0,,{\kf30}That{\kf38} you{\kf27} should{\kf42} be{\kf19} a{\kf90}ware
-Dialogue: 0,0:02:36.96,0:02:39.74,DEFAULT,,0,0,0,,{\kf27}You{\kf23} could{\kf30} pro{\kf19}bab{\kf23}ly{\kf23} win{\kf19} this{\kf27} e{\kf19}lec{\kf27}tion
-Dialogue: 0,0:02:40.11,0:02:43.04,DEFAULT,,0,0,0,,{\kf42}If{\kf23} you{\kf53} showed{\kf23} them{\kf53} all{\kf30} you{\kf38} rea…
-Dialogue: 0,0:02:43.19,0:02:45.10,DEFAULT,,0,0,0,,{\kf15}I{\kf8} don't{\kf19} re{\kf19}call{\kf23} ask{\kf15}ing{\kf19} you{\kf12} to{\kf30} speak!
-Dialogue: 0,0:02:45.25,0:02:45.70,DEFAULT,,0,0,0,,{\kf45}GASP!
-Dialogue: 0,0:02:46.53,0:02:48.48,DEFAULT,,0,0,0,,{\kf15}Well,{\kf12} if{\kf27} that's{\kf12} how{\kf12} you{\kf19} treat{\kf12} your{\kf19} best{\kf27} friend
-Dialogue: 0,0:02:48.66,0:02:50.20,DEFAULT,,0,0,0,,{\kf15}Then{\kf27} I{\kf30} choose{\kf27} Pip{\kf27}squeak!
-Dialogue: 0,0:02:51.03,0:02:54.06,DEFAULT,,0,0,0,,{\kf38}Stand{\kf49} strong{\kf30} and{\kf23} don't{\kf23} be{\kf30} af{\kf53}raid
-Dialogue: 0,0:02:55.08,0:02:57.21,DEFAULT,,0,0,0,,{\kf23}Let's{\kf30} free{\kf19} our{\kf27}selves{\kf23} from{\kf23} the{\kf42} past
-Dialogue: 0,0:02:57.40,0:02:58.94,DEFAULT,,0,0,0,,{\kf15}He's{\kf15} it!{\kf23} Vote{\kf19} for{\kf27} Pip!
-Dialogue: 0,0:02:59.46,0:03:01.49,DEFAULT,,0,0,0,,{\kf27}We'll{\kf27} let{\kf27} ho{\kf27}nor{\kf19} win{\kf38} out
-Dialogue: 0,0:03:01.79,0:03:03.48,DEFAULT,,0,0,0,,{\kf15}A{\kf19}gainst{\kf15} the{\kf23} ty{\kf23}ran{\kf45}ny
-Dialogue: 0,0:03:03.89,0:03:05.95,DEFAULT,,0,0,0,,{\kf19}And{\kf23} make{\kf19} a{\kf23} change{\kf23} that{\kf23} will{\kf42} last
-Dialogue: 0,0:03:06.29,0:03:07.04,DEFAULT,,0,0,0,,{\kf27}Vote{\kf15} for{\kf19} Pip!
-Dialogue: 0,0:03:07.11,0:03:09.48,DEFAULT,,0,0,0,,{\kf19}It's{\kf23} time{\kf23} for{\kf38} a{\kf42} new{\kf23} lea{\kf15}der
-Dialogue: 0,0:03:09.63,0:03:11.24,DEFAULT,,0,0,0,,{\kf15}It's{\kf23} time{\kf15} to{\kf23} make{\kf19} a{\kf30} change
-Dialogue: 0,0:03:11.54,0:03:14.69,DEFAULT,,0,0,0,,{\kf23}We're{\kf27} here{\kf19} to{\kf42} fight{\kf42} for{\kf27} what{\kf23} we{\kf23} be{\kf45}lieve
-Dialogue: 0,0:03:15.03,0:03:15.78,DEFAULT,,0,0,0,,{\kf23}Vote{\kf19} for{\kf19} Pip!
-Dialogue: 0,0:03:15.89,0:03:18.21,DEFAULT,,0,0,0,,{\kf23}It's{\kf19} fina{\kf19}lly{\kf45} time{\kf45} we{\kf27} beat{\kf15} her
-Dialogue: 0,0:03:18.33,0:03:20.01,DEFAULT,,0,0,0,,{\kf19}And{\kf27} play{\kf19} a{\kf30} bet{\kf19}ter{\kf34} game
-Dialogue: 0,0:03:20.20,0:03:22.60,DEFAULT,,0,0,0,,{\kf23}'Cause{\kf19} when{\kf19} we{\kf27} vote{\kf23} to{\kf53}get{\kf23}her
-Dialogue: 0,0:03:22.75,0:03:25.79,DEFAULT,,0,0,0,,{\kf27}There's{\kf23} no{\kf27}thing{\kf23} that{\kf45} we{\kf27} can't{\kf19} a{\kf64}chieve
-Dialogue: 0,0:03:27.10,0:03:27.85,DEFAULT,,0,0,0,,{\kf19}Vote{\kf19} for{\kf23} Pip!
+Dialogue: 0,0:00:18.74,0:00:20.99,DEFAULT,,0,0,0,,{\r}{\kf22}A{\kf22} vote{\kf18} for{\kf31} Dia{\kf22}mond{\kf26} Tia{\kf22}ra{\kf22} is{\kf13} a{\kf27} vote
+Dialogue: 0,0:00:21.11,0:00:23.39,DEFAULT,,0,0,0,,{\r}{\kf26}For{\kf56} more{\kf30} Dia{\kf35}mond{\kf39} Tia{\kf43}ra
+Dialogue: 0,0:01:02.32,0:01:03.93,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf20} don't{\kf15} be{\kf15}lieve{\kf15} what{\kf10} I{\kf15} am{\kf29} hea{\kf18}ring
+Dialogue: 0,0:01:04.08,0:01:05.81,DEFAULT,,0,0,0,,{\r}{\kf19}I'm{\kf19} the{\kf14} on{\kf10}ly{\kf14} one{\kf14} you{\kf19} should{\kf14} be{\kf33} chee{\kf17}ring
+Dialogue: 0,0:01:05.95,0:01:08.20,DEFAULT,,0,0,0,,{\r}{\kf17}Pip{\kf30}squeak,{\kf35} try{\kf26} Pips{\kf35}-weak,{\kf22} don't{\kf22} you{\kf38} think?
+Dialogue: 0,0:01:09.22,0:01:10.91,DEFAULT,,0,0,0,,{\r}{\kf10}But{\kf10} a{\kf41} dia{\kf27}mond{\kf14} is{\kf14} per{\kf32}fec{\kf21}tion
+Dialogue: 0,0:01:11.02,0:01:12.59,DEFAULT,,0,0,0,,{\r}{\kf20}It's{\kf35} na{\kf25}tu{\kf20}ral{\kf15} se{\kf30}lec{\kf13}tion
+Dialogue: 0,0:01:12.74,0:01:14.17,DEFAULT,,0,0,0,,{\r}{\kf19}So{\kf14} your{\kf28} vote{\kf14} bet{\kf10}ter{\kf14} be{\kf24} for{\kf19} me
+Dialogue: 0,0:01:14.32,0:01:15.37,DEFAULT,,0,0,0,,{\r}{\kf13}Not{\kf13} the{\kf22} wea{\kf22}kest{\kf35} link
+Dialogue: 0,0:01:18.56,0:01:22.83,DEFAULT,,0,0,0,,{\r}{\kf56}Eve{\kf38}ry{\kf51}po{\kf26}ny{\kf68} has{\kf21} their{\kf60} lit{\kf17}tle{\kf34} sec{\kf56}rets
+Dialogue: 0,0:01:23.36,0:01:24.52,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf25} know{\kf33} you{\kf41} do
+Dialogue: 0,0:01:25.38,0:01:29.88,DEFAULT,,0,0,0,,{\r}{\kf30}A{\kf51} vote{\kf35} for{\kf56} me{\kf40} will{\kf40} help{\kf30} you{\kf51} keep{\kf30} them{\kf87} safe
+Dialogue: 0,0:01:30.18,0:01:32.20,DEFAULT,,0,0,0,,{\r}{\kf35}Like{\kf22} your{\kf26} cree{\kf18}py{\kf31} su{\kf18}per{\kf53} strength
+Dialogue: 0,0:01:32.58,0:01:34.16,DEFAULT,,0,0,0,,{\r}{\kf23}Or{\kf41} your{\kf27} mane{\kf27} ex{\kf27}ten{\kf13}sion
+Dialogue: 0,0:01:34.27,0:01:36.03,DEFAULT,,0,0,0,,{\r}{\kf10}A{\kf15} lit{\kf10}tle{\kf34} thing{\kf24} I{\kf29} won't{\kf29} men{\kf25}tion
+Dialogue: 0,0:01:36.18,0:01:38.54,DEFAULT,,0,0,0,,{\r}{\kf14}Or{\kf19} those{\kf24} frea{\kf28}kish{\kf33} large{\kf38} teeth{\kf19} in{\kf33} your{\kf28} face
+Dialogue: 0,0:01:59.77,0:02:00.14,DEFAULT,,0,0,0,,{\r}{\kf38}Stop!
+Dialogue: 0,0:02:00.37,0:02:02.39,DEFAULT,,0,0,0,,{\r}{\kf13}E{\kf21}very{\kf17}po{\kf13}ny{\kf13} who{\kf17} has{\kf13}n't{\kf17} vo{\kf13}ted,{\kf21} lis{\kf17}ten{\kf27} up!
+Dialogue: 0,0:02:03.03,0:02:04.91,DEFAULT,,0,0,0,,{\r}{\kf24}Pip{\kf28} makes{\kf19} pro{\kf19}mi{\kf24}ses{\kf24} he{\kf33} can't{\kf17} keep
+Dialogue: 0,0:02:05.06,0:02:06.44,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf27} I{\kf22} can{\kf27} do{\kf41} more
+Dialogue: 0,0:02:07.04,0:02:08.77,DEFAULT,,0,0,0,,{\r}{\kf18}You{\kf22} could{\kf22} real{\kf18}ly{\kf13} use{\kf10} a{\kf13} new{\kf22} book{\kf35} bag
+Dialogue: 0,0:02:09.25,0:02:10.87,DEFAULT,,0,0,0,,{\r}{\kf30}'Cause{\kf30} I'll{\kf30} make{\kf21} things{\kf30} hap{\kf20}pen
+Dialogue: 0,0:02:10.98,0:02:13.31,DEFAULT,,0,0,0,,{\r}{\kf17}That{\kf39} none{\kf21} of{\kf21} you{\kf34} here{\kf30} can{\kf26} af{\kf44}ford
+Dialogue: 0,0:02:13.46,0:02:15.14,DEFAULT,,0,0,0,,{\r}{\kf31}To{\kf49} do,{\kf36} like{\kf27} e{\kf26}ver
+Dialogue: 0,0:02:16.34,0:02:17.92,DEFAULT,,0,0,0,,{\r}{\kf13}Would{\kf13}n't{\kf27} you{\kf13} like{\kf10} a{\kf10} lit{\kf13}tle{\kf18} some{\kf13}thing{\kf27} sweet?
+Dialogue: 0,0:02:18.07,0:02:19.57,DEFAULT,,0,0,0,,{\r}{\kf10}Here's{\kf10} a{\kf14} pa{\kf19}ra{\kf19}sol{\kf10} to{\kf14} hide{\kf14} you{\kf10} from{\kf10} the{\kf20} heat
+Dialogue: 0,0:02:19.72,0:02:21.82,DEFAULT,,0,0,0,,{\r}{\kf20}Who{\kf34} says{\kf24} tha{\kf15}-at{\kf24} I{\kf24} can't{\kf20} be{\kf49} nice?
+Dialogue: 0,0:02:22.83,0:02:24.25,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf27} first{\kf31} there's{\kf27} one{\kf36} thing
+Dialogue: 0,0:02:24.52,0:02:25.98,DEFAULT,,0,0,0,,{\r}{\kf26}An{\kf16} it{\kf16}sy{\kf16}-bit{\kf10}sy{\kf10} lit{\kf10}tle{\kf42} string
+Dialogue: 0,0:02:26.21,0:02:28.57,DEFAULT,,0,0,0,,{\r}{\kf32}And{\kf27} vo{\kf27}ting{\kf27} for{\kf36} me{\kf23} is{\kf18} the{\kf46} price
+Dialogue: 0,0:02:30.25,0:02:32.39,DEFAULT,,0,0,0,,{\r}{\kf27}I've{\kf18} a{\kf32} ti{\kf23}ny{\kf27} sug{\kf32}ges{\kf55}tion
+Dialogue: 0,0:02:32.99,0:02:35.81,DEFAULT,,0,0,0,,{\r}{\kf35}That{\kf43} you{\kf30} should{\kf48} be{\kf22} a{\kf103}ware
+Dialogue: 0,0:02:36.97,0:02:39.74,DEFAULT,,0,0,0,,{\r}{\kf31}You{\kf27} could{\kf36} pro{\kf22}bab{\kf27}ly{\kf27} win{\kf22} this{\kf31} e{\kf22}lec{\kf32}tion
+Dialogue: 0,0:02:40.12,0:02:43.04,DEFAULT,,0,0,0,,{\r}{\kf47}If{\kf25} you{\kf59} showed{\kf25} them{\kf59} all{\kf34} you{\kf44} rea…
+Dialogue: 0,0:02:43.19,0:02:45.10,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf10} don't{\kf23} re{\kf23}call{\kf27} ask{\kf18}ing{\kf23} you{\kf14} to{\kf35} speak!36.18,0:01:38.54,DEFAULT,,0,0,0,,{\r}{\kf14}Or{\kf19} those{\kf24} frea{\kf28}kish{\kf33} large{\kf38} teeth{\kf19} in{\kf33} your{\kf28} face
+Dialogue: 0,0:01:38.77,0:01:41.39,DEFAULT,,0,0,0,,{\r}{\kf27}C'{\kf32}mon{\kf27} now{\kf27} po{\kf27}nies,{\kf27} don't{\kf18} lis{\kf14}ten{\kf10} to{\kf54} her!
+Dialogue: 0,0:01:42.18,0:01:43.94,DEFAULT,,0,0,0,,{\r}{\kf23}You've{\kf32} got{\kf18}ta{\kf32} vote{\kf23} for{\kf48} change
+Dialogue: 0,0:01:44.32,0:01:46.31,DEFAULT,,0,0,0,,{\r}{\kf27}It's{\kf35} time{\kf22} for{\kf22} a{\kf31} new{\kf22} lea{\kf40}der
+Dialogue: 0,0:01:46.53,0:01:48.25,DEFAULT,,0,0,0,,{\r}{\kf25}End{\kf29} all{\kf17} the{\kf29} ty{\kf25}ran{\kf47}ny
+Dialogue: 0,0:01:48.70,0:01:50.58,DEFAULT,,0,0,0,,{\r}{\kf24}Vote{\kf33} now{\kf24} and{\kf28} we{\kf24} can{\kf28} beat{\kf27} her
+Dialogue: 0,0:01:50.88,0:01:52.72,DEFAULT,,0,0,0,,{\r}{\kf26}It's{\kf30} now{\kf21} a{\kf30}no{\kf26}ther{\kf51} day
+Dialogue: 0,0:01:53.09,0:01:55.04,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf27} we{\kf22} be{\kf31}lieve{\kf22} in{\kf31} what's{\kf40} right
+Dialogue: 0,0:01:55.27,0:01:57.03,DEFAULT,,0,0,0,,{\r}{\kf24}Vote{\kf29} for{\kf44} Pip!{\kf29} Vote{\kf20} for{\kf30} Pip!
+Dialogue: 0,0:01:57.44,0:01:59.39,DEFAULT,,0,0,0,,{\r}{\kf27}Our{\kf27} vic{\kf27}to{\kf32}ry{\kf23} is{\kf18} in{\kf41} sight
+Dialogue: 0,0:01:59.77,0:02:00.14,DEFAULT,,0,0,0,,{\r}{\kf38}Stop!
+Dialogue: 0,0:02:00.37,0:02:02.39,DEFAULT,,0,0,0,,{\r}{\kf13}E{\kf21}very{\kf17}po{\kf13}ny{\kf13} who{\kf17} has{\kf13}n't{\kf17} vo{\kf13}ted,{\kf21} lis{\kf17}ten{\kf27} up!
+Dialogue: 0,0:02:03.03,0:02:04.91,DEFAULT,,0,0,0,,{\r}{\kf24}Pip{\kf28} makes{\kf19} pro{\kf19}mi{\kf24}ses{\kf24} he{\kf33} can't{\kf17} keep
+Dialogue: 0,0:02:05.06,0:02:06.44,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf27} I{\kf22} can{\kf27} do{\kf41} more
+Dialogue: 0,0:02:07.04,0:02:08.77,DEFAULT,,0,0,0,,{\r}{\kf18}You{\kf22} could{\kf22} real{\kf18}ly{\kf13} use{\kf10} a{\kf13} new{\kf22} book{\kf35} bag
+Dialogue: 0,0:02:09.25,0:02:10.87,DEFAULT,,0,0,0,,{\r}{\kf30}'Cause{\kf30} I'll{\kf30} make{\kf21} things{\kf30} hap{\kf20}pen
+Dialogue: 0,0:02:10.98,0:02:13.31,DEFAULT,,0,0,0,,{\r}{\kf17}That{\kf39} none{\kf21} of{\kf21} you{\kf34} here{\kf30} can{\kf26} af{\kf44}ford
+Dialogue: 0,0:02:13.46,0:02:15.14,DEFAULT,,0,0,0,,{\r}{\kf31}To{\kf49} do,{\kf36} like{\kf27} e{\kf26}ver
+Dialogue: 0,0:02:16.34,0:02:17.92,DEFAULT,,0,0,0,,{\r}{\kf13}Would{\kf13}n't{\kf27} you{\kf13} like{\kf10} a{\kf10} lit{\kf13}tle{\kf18} some{\kf13}thing{\kf27} sweet?
+Dialogue: 0,0:02:18.07,0:02:19.57,DEFAULT,,0,0,0,,{\r}{\kf10}Here's{\kf10} a{\kf14} pa{\kf19}ra{\kf19}sol{\kf10} to{\kf14} hide{\kf14} you{\kf10} from{\kf10} the{\kf20} heat
+Dialogue: 0,0:02:19.72,0:02:21.82,DEFAULT,,0,0,0,,{\r}{\kf20}Who{\kf34} says{\kf24} tha{\kf15}-at{\kf24} I{\kf24} can't{\kf20} be{\kf49} nice?
+Dialogue: 0,0:02:22.83,0:02:24.25,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf27} first{\kf31} there's{\kf27} one{\kf36} thing
+Dialogue: 0,0:02:24.52,0:02:25.98,DEFAULT,,0,0,0,,{\r}{\kf26}An{\kf16} it{\kf16}sy{\kf16}-bit{\kf10}sy{\kf10} lit{\kf10}tle{\kf42} string
+Dialogue: 0,0:02:26.21,0:02:28.57,DEFAULT,,0,0,0,,{\r}{\kf32}And{\kf27} vo{\kf27}ting{\kf27} for{\kf36} me{\kf23} is{\kf18} the{\kf46} price
+Dialogue: 0,0:02:30.25,0:02:32.39,DEFAULT,,0,0,0,,{\r}{\kf27}I've{\kf18} a{\kf32} ti{\kf23}ny{\kf27} sug{\kf32}ges{\kf55}tion
+Dialogue: 0,0:02:32.99,0:02:35.81,DEFAULT,,0,0,0,,{\r}{\kf35}That{\kf43} you{\kf30} should{\kf48} be{\kf22} a{\kf103}ware
+Dialogue: 0,0:02:36.97,0:02:39.74,DEFAULT,,0,0,0,,{\r}{\kf31}You{\kf27} could{\kf36} pro{\kf22}bab{\kf27}ly{\kf27} win{\kf22} this{\kf31} e{\kf22}lec{\kf32}tion
+Dialogue: 0,0:02:40.12,0:02:43.04,DEFAULT,,0,0,0,,{\r}{\kf47}If{\kf25} you{\kf59} showed{\kf25} them{\kf59} all{\kf34} you{\kf44} rea…
+Dialogue: 0,0:02:43.19,0:02:45.10,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf10} don't{\kf23} re{\kf23}call{\kf27} ask{\kf18}ing{\kf23} you{\kf14} to{\kf35} speak!
+Dialogue: 0,0:02:45.25,0:02:45.71,DEFAULT,,0,0,0,,{\r}{\kf45}GASP!
+Dialogue: 0,0:02:46.53,0:02:48.48,DEFAULT,,0,0,0,,{\r}{\kf20}Well,{\kf15} if{\kf34} that's{\kf15} how{\kf15} you{\kf24} treat{\kf15} your{\kf24} best{\kf33} friend
+Dialogue: 0,0:02:48.67,0:02:50.21,DEFAULT,,0,0,0,,{\r}{\kf19}Then{\kf33} I{\kf37} choose{\kf33} Pip{\kf32}squeak!
+Dialogue: 0,0:02:51.03,0:02:54.07,DEFAULT,,0,0,0,,{\r}{\kf47}Stand{\kf61} strong{\kf37} and{\kf28} don't{\kf28} be{\kf37} af{\kf66}raid
+Dialogue: 0,0:02:55.08,0:02:57.22,DEFAULT,,0,0,0,,{\r}{\kf26}Let's{\kf35} free{\kf22} our{\kf31}selves{\kf26} from{\kf26} the{\kf48} past
+Dialogue: 0,0:02:57.41,0:02:58.94,DEFAULT,,0,0,0,,{\r}{\kf24}He's{\kf24} it!{\kf36} Vote{\kf30} for{\kf40} Pip!
+Dialogue: 0,0:02:59.47,0:03:01.49,DEFAULT,,0,0,0,,{\r}{\kf33}We'll{\kf33} let{\kf33} ho{\kf33}nor{\kf23} win{\kf47} out
+Dialogue: 0,0:03:01.79,0:03:03.48,DEFAULT,,0,0,0,,{\r}{\kf18}A{\kf23}gainst{\kf18} the{\kf27} ty{\kf27}ran{\kf56}ny
+Dialogue: 0,0:03:03.89,0:03:05.96,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf27} make{\kf23} a{\kf27} change{\kf27} that{\kf27} will{\kf52} last
+Dialogue: 0,0:03:06.29,0:03:07.04,DEFAULT,,0,0,0,,{\r}{\kf33}Vote{\kf19} for{\kf23} Pip!
+Dialogue: 0,0:03:07.12,0:03:09.48,DEFAULT,,0,0,0,,{\r}{\kf25}It's{\kf30} time{\kf30} for{\kf49} a{\kf54} new{\kf30} lea{\kf18}der
+Dialogue: 0,0:03:09.63,0:03:11.24,DEFAULT,,0,0,0,,{\r}{\kf20}It's{\kf29} time{\kf20} to{\kf29} make{\kf24} a{\kf39} change
+Dialogue: 0,0:03:11.54,0:03:14.69,DEFAULT,,0,0,0,,{\r}{\kf27}We're{\kf31} here{\kf22} to{\kf49} fight{\kf49} for{\kf31} what{\kf27} we{\kf27} be{\kf52}lieve
+Dialogue: 0,0:03:15.03,0:03:15.78,DEFAULT,,0,0,0,,{\r}{\kf28}Vote{\kf23} for{\kf24} Pip!
+Dialogue: 0,0:03:15.89,0:03:18.22,DEFAULT,,0,0,0,,{\r}{\kf27}It's{\kf23} fina{\kf23}lly{\kf55} time{\kf55} we{\kf32} beat{\kf18} her
+Dialogue: 0,0:03:18.33,0:03:20.02,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf30} play{\kf22} a{\kf35} bet{\kf22}ter{\kf38} game
+Dialogue: 0,0:03:20.21,0:03:22.60,DEFAULT,,0,0,0,,{\r}{\kf29}'Cause{\kf24} when{\kf24} we{\kf34} vote{\kf29} to{\kf69}get{\kf31}her
+Dialogue: 0,0:03:22.75,0:03:25.79,DEFAULT,,0,0,0,,{\r}{\kf32}There's{\kf27} no{\kf32}thing{\kf27} that{\kf54} we{\kf32} can't{\kf23} a{\kf77}chieve
+Dialogue: 0,0:03:27.10,0:03:27.85,DEFAULT,,0,0,0,,{\r}{\kf23}Vote{\kf23} for{\kf29} Pip!

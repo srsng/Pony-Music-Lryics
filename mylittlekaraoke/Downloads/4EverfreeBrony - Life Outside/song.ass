@@ -1,54 +1,61 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Life Outside
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by tom300z
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:13.01,0:00:17.02,DEFAULT,,0,0,0,,{\kf1318}There's{\kf1312} a{\kf1328} world{\kf1323} that{\kf1323} should{\kf1312} be{\kf1312}~{\kf1328} real{\kf1318} some{\kf1318}~{\kf1411}where
-Dialogue: 0,0:00:18.79,0:00:22.65,DEFAULT,,0,0,0,,{\kf1318}There's{\kf1312} a{\kf1328} lack{\kf1318} of{\kf1333} ten{\kf1318}sion{\kf1318} and{\kf1318} love{\kf1318}~{\kf1318} to{\kf1396} spare
-Dialogue: 0,0:00:24.62,0:00:28.84,DEFAULT,,0,0,0,,{\kf1318}I{\kf1318} would{\kf1328} tell{\kf1318} you{\kf1333} that{\kf1312} I'd{\kf1318}~{\kf1344} been{\kf1312} be{\kf1312}~{\kf1432}fore
-Dialogue: 0,0:00:30.46,0:00:34.52,DEFAULT,,0,0,0,,{\kf1318}It{\kf1318} was{\kf1323} just{\kf1318} be{\kf1354}hind{\kf1318} the{\kf1323} drea{\kf1318}~{\kf1328}mer's{\kf1411} door
-Dialogue: 0,0:00:36.66,0:00:40.98,DEFAULT,,0,0,0,,{\kf1328}Just{\kf1318} be{\kf1349}hind{\kf1318} the{\kf1344} drea{\kf1333}mer's{\kf1474} door
-Dialogue: 0,0:01:23.43,0:01:26.29,DEFAULT,,0,0,0,,{\kf1323}Pain{\kf1328}ted{\kf1328} hills{\kf1328} and{\kf1318} co{\kf1328}lored{\kf1344} skies
-Dialogue: 0,0:01:26.55,0:01:30.77,DEFAULT,,0,0,0,,{\kf1312}A{\kf1323} won{\kf1328}drous{\kf1318} view{\kf1318}~{\kf1323} that{\kf1333} sim{\kf1323}ply{\kf1318} stri{\kf1318}kes{\kf1318} the{\kf1364} heart
-Dialogue: 0,0:01:33.01,0:01:36.19,DEFAULT,,0,0,0,,{\kf1323}There's{\kf1328} one{\kf1333} who{\kf1333} holds{\kf1323} the{\kf1312} stars{\kf1318}~{\kf1323} in{\kf1333} place
-Dialogue: 0,0:01:36.55,0:01:40.87,DEFAULT,,0,0,0,,{\kf1318}An{\kf1318}o{\kf1318}ther{\kf1328} who{\kf1323} keeps{\kf1328} it{\kf1318} all{\kf1323}~{\kf1318} from{\kf1312} fall{\kf1323}ing{\kf1344} a{\kf1354}part
-Dialogue: 0,0:01:43.06,0:01:46.19,DEFAULT,,0,0,0,,{\kf1318}The{\kf1338} same{\kf1328} rou{\kf1328}tine{\kf1318} runs{\kf1318}~{\kf1323} e{\kf1328}very{\kf1328} day
-Dialogue: 0,0:01:46.50,0:01:49.10,DEFAULT,,0,0,0,,{\kf1318}But{\kf1323} that's{\kf1323} just{\kf1333} who{\kf1312} they{\kf1318}~{\kf1364} are
-Dialogue: 0,0:01:50.04,0:01:54.16,DEFAULT,,0,0,0,,{\kf1370}Life{\kf1354} out{\kf1318}side{\kf1370}~{\kf1323} of{\kf1318} the{\kf1318} wall{\kf1359}~
-Dialogue: 0,0:01:54.47,0:01:56.55,DEFAULT,,0,0,0,,{\kf1318}I{\kf1318} could{\kf1328} say{\kf1312} I'd{\kf1318}~{\kf1312} dreamed{\kf1323}~{\kf1323} it
-Dialogue: 0,0:01:56.76,0:02:00.77,DEFAULT,,0,0,0,,{\kf1359}Real{\kf1354} one{\kf1318} time{\kf1354}~,{\kf1318} if{\kf1323} at{\kf1312} all{\kf1359}~
-Dialogue: 0,0:02:01.14,0:02:03.32,DEFAULT,,0,0,0,,{\kf1318}I{\kf1318} could{\kf1333} hard{\kf1312}dly{\kf1318}~{\kf1312} tell{\kf1318}~{\kf1338} you
-Dialogue: 0,0:02:03.69,0:02:06.34,DEFAULT,,0,0,0,,{\kf1318}Who's{\kf1318} to{\kf1328} know{\kf1318}~,{\kf1318} what{\kf1318} you'll{\kf1349} find
-Dialogue: 0,0:02:07.02,0:02:08.79,DEFAULT,,0,0,0,,{\kf1318}But{\kf1318} it's{\kf1312} there{\kf1323}~,{\kf1323} I'm{\kf1344} sure
-Dialogue: 0,0:02:09.47,0:02:11.50,DEFAULT,,0,0,0,,{\kf1318}What{\kf1323} you're{\kf1312} look{\kf1323}~{\kf1312}ing{\kf1318}~{\kf1312} for{\kf1323}~{\kf1318} is
-Dialogue: 0,0:02:11.71,0:02:16.08,DEFAULT,,0,0,0,,{\kf1318}Just{\kf1312} be{\kf1323}hind{\kf1312} the{\kf1318} drea{\kf1318}~{\kf1323}mer's{\kf1568} door
-Dialogue: 0,0:02:19.73,0:02:22.91,DEFAULT,,0,0,0,,{\kf1323}There's{\kf1328} one{\kf1328} who{\kf1328} works{\kf1318} un{\kf1312}til{\kf1318}~{\kf1328} sun{\kf1338}down
-Dialogue: 0,0:02:23.32,0:02:27.07,DEFAULT,,0,0,0,,{\kf1312}An{\kf1312}o{\kf1318}ther{\kf1318} who{\kf1312} sees{\kf1328}~{\kf1328} the{\kf1318} beau{\kf1312}~{\kf1318}ty{\kf1318} in{\kf1328} e{\kf1318}very{\kf1338}one
-Dialogue: 0,0:02:30.04,0:02:32.85,DEFAULT,,0,0,0,,{\kf1323}This{\kf1344} one{\kf1318} takes{\kf1323}~{\kf1318} the{\kf1323} sky{\kf1323}~{\kf1318} to{\kf1333} heart
-Dialogue: 0,0:02:33.22,0:02:37.02,DEFAULT,,0,0,0,,{\kf1312}The{\kf1312} o{\kf1312}ther{\kf1323} one{\kf1318} knows{\kf1318}~{\kf1318} the{\kf1323} best{\kf1333} ways{\kf1318} to{\kf1312}~{\kf1333} have{\kf1333} fun
-Dialogue: 0,0:02:39.83,0:02:42.91,DEFAULT,,0,0,0,,{\kf1318}The{\kf1328} qui{\kf1328}et{\kf1328} one's{\kf1312} still{\kf1318}~{\kf1333} search{\kf1323}ing{\kf1338} but
-Dialogue: 0,0:02:43.22,0:02:45.72,DEFAULT,,0,0,0,,{\kf1318}She{\kf1323} knows{\kf1328} who{\kf1333} she'll{\kf1318} be{\kf1312}~{\kf1318}co{\kf1349}me
-Dialogue: 0,0:02:46.71,0:02:50.77,DEFAULT,,0,0,0,,{\kf1364}Life{\kf1354} out{\kf1318}side{\kf1359}~{\kf1323} of{\kf1318} the{\kf1318} wall{\kf1354}~
-Dialogue: 0,0:02:51.19,0:02:53.22,DEFAULT,,0,0,0,,{\kf1312}I{\kf1318} could{\kf1323} say{\kf1312} I'd{\kf1318}~{\kf1312} dreamed{\kf1323}~{\kf1323} it
-Dialogue: 0,0:02:53.43,0:02:57.44,DEFAULT,,0,0,0,,{\kf1359}Real{\kf1349} one{\kf1318} time{\kf1354}~,{\kf1318} if{\kf1328} at{\kf1312} all{\kf1359}~
-Dialogue: 0,0:02:57.75,0:02:59.94,DEFAULT,,0,0,0,,{\kf1323}I{\kf1318} could{\kf1333} har{\kf1312}dly{\kf1318}~{\kf1318} tell{\kf1318}~{\kf1333} you
-Dialogue: 0,0:03:00.30,0:03:03.06,DEFAULT,,0,0,0,,{\kf1323}Who's{\kf1318} to{\kf1328} know{\kf1318}~,{\kf1318} what{\kf1318} you'll{\kf1354} find
-Dialogue: 0,0:03:03.64,0:03:05.46,DEFAULT,,0,0,0,,{\kf1318}But{\kf1323} it's{\kf1318} there{\kf1318}~,{\kf1323} I'm{\kf1344} sure
-Dialogue: 0,0:03:06.14,0:03:08.17,DEFAULT,,0,0,0,,{\kf1318}What{\kf1323} you're{\kf1312} look{\kf1323}~{\kf1312}king{\kf1318}~{\kf1312} for{\kf1323}~{\kf1323} is
-Dialogue: 0,0:03:08.37,0:03:12.65,DEFAULT,,0,0,0,,{\kf1318}Just{\kf1312} be{\kf1323}hind{\kf1318} the{\kf1318} drea{\kf1318}~{\kf1328}mer's{\kf1562}door
-Dialogue: 0,0:03:13.64,0:03:16.24,DEFAULT,,0,0,0,,{\kf1328}O{\kf1323}pen{\kf1333} up,{\kf1328} take{\kf1323} a{\kf1333} look
-Dialogue: 0,0:03:17.02,0:03:19.62,DEFAULT,,0,0,0,,{\kf1328}You{\kf1323} will{\kf1323} ne{\kf1318}ver{\kf1323} be{\kf1333}lieve{\kf1328}~{\kf1344} it
-Dialogue: 0,0:03:20.30,0:03:22.91,DEFAULT,,0,0,0,,{\kf1323}Take{\kf1318} a{\kf1323} step,{\kf1323} feel{\kf1328} the{\kf1333} air
-Dialogue: 0,0:03:23.32,0:03:30.61,DEFAULT,,0,0,0,,{\kf1338}Che{\kf1323}rish{\kf1333} what{\kf1312} you{\kf1318}~{\kf1453} see{\kf1364}~{\kf1354}~{\kf1521}~
-Dialogue: 0,0:05:22.96,0:05:26.86,DEFAULT,,0,0,0,,{\kf1312}There's{\kf1318} a{\kf1328} girl{\kf1323} who{\kf1338} wants{\kf1318} to{\kf1328} do{\kf1318} her{\kf1333}~{\kf1401} best
-Dialogue: 0,0:05:28.79,0:05:32.59,DEFAULT,,0,0,0,,{\kf1318}'Til{\kf1318} she{\kf1333} has{\kf1323} it,{\kf1318} she{\kf1312} won't{\kf1328}~{\kf1312} stop{\kf1318}~{\kf1338} or{\kf1385} rest
-Dialogue: 0,0:05:34.68,0:05:38.48,DEFAULT,,0,0,0,,{\kf1312}Does{\kf1318}n't{\kf1328} know{\kf1318} just{\kf1328} what{\kf1318} there{\kf1318}~{\kf1328} is{\kf1318} in{\kf1323}~{\kf1396} store
-Dialogue: 0,0:05:40.46,0:05:44.31,DEFAULT,,0,0,0,,{\kf1318}What{\kf1318} there{\kf1328} is{\kf1318} be{\kf1338}hind{\kf1318} the{\kf1333} drea{\kf1318}~{\kf1328}mer's{\kf1396} door
-Dialogue: 0,0:05:46.66,0:05:51.08,DEFAULT,,0,0,0,,{\kf1323}Just{\kf1318} be{\kf1349}hind{\kf1318} the{\kf1359} drea{\kf1328}mer's{\kf1484} door
-Dialogue: 0,0:05:52.65,0:05:58.90,DEFAULT,,0,0,0,,{\kf1375}m{\kf1385}hm{\kf1354}hm{\kf1375}hm{\kf1588}hm
+Dialogue: 0,0:00:13.02,0:00:17.03,DEFAULT,,0,0,0,,{\r}{\kf22}There's{\kf15} a{\kf37} world{\kf30} that{\kf30} should{\kf15} be{\kf15}~{\kf37} real{\kf22} some{\kf22}~{\kf156}where
+Dialogue: 0,0:00:18.80,0:00:22.65,DEFAULT,,0,0,0,,{\r}{\kf22}There's{\kf15} a{\kf37} lack{\kf22} of{\kf44} ten{\kf22}sion{\kf22} and{\kf22} love{\kf22}~{\kf22} to{\kf135} spare
+Dialogue: 0,0:00:24.63,0:00:28.85,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf20} would{\kf34} tell{\kf20} you{\kf41} that{\kf14} I'd{\kf20}~{\kf54} been{\kf14} be{\kf14}~{\kf171}fore
+Dialogue: 0,0:00:30.46,0:00:34.53,DEFAULT,,0,0,0,,{\r}{\kf21}It{\kf21} was{\kf28} just{\kf21} be{\kf69}hind{\kf21} the{\kf28} drea{\kf21}~{\kf34}mer's{\kf142} door
+Dialogue: 0,0:00:36.66,0:00:40.98,DEFAULT,,0,0,0,,{\r}{\kf32}Just{\kf19} be{\kf58}hind{\kf19} the{\kf52} drea{\kf39}mer's{\kf213} door
+Dialogue: 0,0:01:23.43,0:01:26.30,DEFAULT,,0,0,0,,{\r}{\kf33}Pain{\kf41}ted{\kf41} hills{\kf41} and{\kf25} co{\kf41}lored{\kf64} skies
+Dialogue: 0,0:01:26.56,0:01:30.78,DEFAULT,,0,0,0,,{\r}{\kf16}A{\kf32} won{\kf41}drous{\kf24} view{\kf24}~{\kf32} that{\kf49} sim{\kf32}ply{\kf24} stri{\kf24}kes{\kf24} the{\kf100} heart
+Dialogue: 0,0:01:33.02,0:01:36.19,DEFAULT,,0,0,0,,{\r}{\kf32}There's{\kf40} one{\kf48} who{\kf48} holds{\kf32} the{\kf16} stars{\kf24}~{\kf32} in{\kf46} place
+Dialogue: 0,0:01:36.56,0:01:40.88,DEFAULT,,0,0,0,,{\r}{\kf23}An{\kf23}o{\kf23}ther{\kf38} who{\kf30} keeps{\kf38} it{\kf23} all{\kf30}~{\kf23} from{\kf15} fall{\kf30}ing{\kf61} a{\kf75}part
+Dialogue: 0,0:01:43.07,0:01:46.19,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf55} same{\kf39} rou{\kf39}tine{\kf23} runs{\kf23}~{\kf31} e{\kf39}very{\kf41} day
+Dialogue: 0,0:01:46.50,0:01:49.11,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf31} that's{\kf31} just{\kf46} who{\kf15} they{\kf23}~{\kf91} are
+Dialogue: 0,0:01:50.05,0:01:54.16,DEFAULT,,0,0,0,,{\r}{\kf89}Life{\kf69} out{\kf21}side{\kf89}~{\kf27} of{\kf21} the{\kf21} wall{\kf74}~
+Dialogue: 0,0:01:54.47,0:01:56.56,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} could{\kf40} say{\kf16} I'd{\kf24}~{\kf16} dreamed{\kf32}~{\kf32} it
+Dialogue: 0,0:01:56.77,0:02:00.78,DEFAULT,,0,0,0,,{\r}{\kf82}Real{\kf74} one{\kf22} time{\kf74}~,{\kf22} if{\kf30} at{\kf15} all{\kf82}~
+Dialogue: 0,0:02:01.14,0:02:03.33,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf23} could{\kf45} hard{\kf15}dly{\kf23}~{\kf15} tell{\kf23}~{\kf52} you
+Dialogue: 0,0:02:03.69,0:02:06.35,DEFAULT,,0,0,0,,{\r}{\kf28}Who's{\kf28} to{\kf46} know{\kf28}~,{\kf28} what{\kf28} you'll{\kf80} find
+Dialogue: 0,0:02:07.03,0:02:08.80,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} it's{\kf15} there{\kf30}~,{\kf30} I'm{\kf58} sure
+Dialogue: 0,0:02:09.47,0:02:11.50,DEFAULT,,0,0,0,,{\r}{\kf23}What{\kf30} you're{\kf15} look{\kf30}~{\kf15}ing{\kf23}~{\kf15} for{\kf30}~{\kf22} is
+Dialogue: 0,0:02:11.71,0:02:16.09,DEFAULT,,0,0,0,,{\r}{\kf18}Just{\kf12} be{\kf24}hind{\kf12} the{\kf18} drea{\kf18}~{\kf24}mer's{\kf312} door
+Dialogue: 0,0:02:19.73,0:02:22.91,DEFAULT,,0,0,0,,{\r}{\kf33}There's{\kf41} one{\kf41} who{\kf41} works{\kf24} un{\kf16}til{\kf24}~{\kf41} sun{\kf57}down
+Dialogue: 0,0:02:23.33,0:02:27.08,DEFAULT,,0,0,0,,{\r}{\kf16}An{\kf16}o{\kf23}ther{\kf23} who{\kf16} sees{\kf39}~{\kf39} the{\kf23} beau{\kf16}~{\kf23}ty{\kf23} in{\kf39} e{\kf23}very{\kf56}one
+Dialogue: 0,0:02:30.05,0:02:32.86,DEFAULT,,0,0,0,,{\r}{\kf29}This{\kf58} one{\kf22} takes{\kf29}~{\kf22} the{\kf29} sky{\kf29}~{\kf22} to{\kf41} heart
+Dialogue: 0,0:02:33.22,0:02:37.03,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf17} o{\kf17}ther{\kf33} one{\kf25} knows{\kf25}~{\kf25} the{\kf33} best{\kf50} ways{\kf25} to{\kf17}~{\kf50} have{\kf46} fun
+Dialogue: 0,0:02:39.84,0:02:42.91,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf38} qui{\kf38}et{\kf38} one's{\kf15} still{\kf23}~{\kf46} search{\kf31}ing{\kf55} but
+Dialogue: 0,0:02:43.22,0:02:45.72,DEFAULT,,0,0,0,,{\r}{\kf21}She{\kf29} knows{\kf36} who{\kf43} she'll{\kf21} be{\kf14}~{\kf21}co{\kf65}me
+Dialogue: 0,0:02:46.71,0:02:50.78,DEFAULT,,0,0,0,,{\r}{\kf87}Life{\kf72} out{\kf22}side{\kf80}~{\kf29} of{\kf22} the{\kf22} wall{\kf72}~
+Dialogue: 0,0:02:51.19,0:02:53.22,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf25} could{\kf34} say{\kf17} I'd{\kf25}~{\kf17} dreamed{\kf34}~{\kf34} it
+Dialogue: 0,0:02:53.43,0:02:57.44,DEFAULT,,0,0,0,,{\r}{\kf82}Real{\kf67} one{\kf22} time{\kf74}~,{\kf22} if{\kf37} at{\kf15} all{\kf82}~
+Dialogue: 0,0:02:57.75,0:02:59.94,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf22} could{\kf44} har{\kf15}dly{\kf22}~{\kf22} tell{\kf22}~{\kf43} you
+Dialogue: 0,0:03:00.31,0:03:03.07,DEFAULT,,0,0,0,,{\r}{\kf36}Who's{\kf27} to{\kf45} know{\kf27}~,{\kf27} what{\kf27} you'll{\kf87} find
+Dialogue: 0,0:03:03.64,0:03:05.46,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf29} it's{\kf22} there{\kf22}~,{\kf29} I'm{\kf58} sure
+Dialogue: 0,0:03:06.14,0:03:08.17,DEFAULT,,0,0,0,,{\r}{\kf22}What{\kf29} you're{\kf15} look{\kf29}~{\kf15}king{\kf22}~{\kf15} for{\kf29}~{\kf27} is
+Dialogue: 0,0:03:08.38,0:03:12.65,DEFAULT,,0,0,0,,{\r}{\kf18}Just{\kf12} be{\kf23}hind{\kf18} the{\kf18} drea{\kf18}~{\kf29}mer's{\kf291}door
+Dialogue: 0,0:03:13.64,0:03:16.24,DEFAULT,,0,0,0,,{\r}{\kf43}O{\kf35}pen{\kf52} up,{\kf43} take{\kf35} a{\kf52} look
+Dialogue: 0,0:03:17.03,0:03:19.63,DEFAULT,,0,0,0,,{\r}{\kf33}You{\kf27} will{\kf27} ne{\kf20}ver{\kf27} be{\kf40}lieve{\kf33}~{\kf53} it
+Dialogue: 0,0:03:20.31,0:03:22.91,DEFAULT,,0,0,0,,{\r}{\kf40}Take{\kf30} a{\kf40} step,{\kf40} feel{\kf50} the{\kf60} air
+Dialogue: 0,0:03:23.33,0:03:30.62,DEFAULT,,0,0,0,,{\r}{\kf44}Che{\kf25}rish{\kf38} what{\kf13} you{\kf19}~{\kf184} see{\kf76}~{\kf63}~{\kf267}~
+Dialogue: 0,0:05:22.96,0:05:26.87,DEFAULT,,0,0,0,,{\r}{\kf14}There's{\kf21} a{\kf34} girl{\kf27} who{\kf48} wants{\kf21} to{\kf34} do{\kf21} her{\kf41}~{\kf130} best
+Dialogue: 0,0:05:28.80,0:05:32.60,DEFAULT,,0,0,0,,{\r}{\kf21}'Til{\kf21} she{\kf42} has{\kf28} it,{\kf21} she{\kf14} won't{\kf35}~{\kf14} stop{\kf21}~{\kf49} or{\kf114} rest
+Dialogue: 0,0:05:34.68,0:05:38.48,DEFAULT,,0,0,0,,{\r}{\kf14}Does{\kf21}n't{\kf35} know{\kf21} just{\kf35} what{\kf21} there{\kf21}~{\kf35} is{\kf21} in{\kf28}~{\kf128} store
+Dialogue: 0,0:05:40.46,0:05:44.32,DEFAULT,,0,0,0,,{\r}{\kf21}What{\kf21} there{\kf34} is{\kf21} be{\kf48}hind{\kf21} the{\kf41} drea{\kf21}~{\kf34}mer's{\kf123} door
+Dialogue: 0,0:05:46.66,0:05:51.09,DEFAULT,,0,0,0,,{\r}{\kf25}Just{\kf19} be{\kf57}hind{\kf19} the{\kf70} drea{\kf32}mer's{\kf221} door
+Dialogue: 0,0:05:52.65,0:05:58.90,DEFAULT,,0,0,0,,{\r}{\kf80}m{\kf92}hm{\kf57}hm{\kf80}hm{\kf316}hm

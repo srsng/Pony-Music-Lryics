@@ -1,50 +1,57 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Budeš mít roli svou
+Artist: Můj Malý Pony
+Original Timing: mylittlekaraoke.com by wolfrin
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.11,0:00:12.03,DEFAULT,,0,0,0,,{\kf19}Ne{\kf23}ní {\kf15}to, {\kf15}že {\kf42}nej{\kf30}sem {\kf30}vděč{\kf53}ná 
-Dialogue: 0,0:00:12.14,0:00:15.22,DEFAULT,,0,0,0,,{\kf19}za {\kf27}všech{\kf15}no, {\kf38}co {\kf15}da{\kf15}li{\kf27} jste{\kf90} mi
-Dialogue: 0,0:00:16.57,0:00:19.94,DEFAULT,,0,0,0,,{\kf19}Za {\kf23}všech{\kf15}no {\kf23}to, {\kf27}co {\kf34}poz{\kf30}na{\kf27}la {\kf42}jsem 
-Dialogue: 0,0:00:20.06,0:00:23.13,DEFAULT,,0,0,0,,{\kf15}a {\kf12}po{\kf12}u{\kf19}če{\kf53}ní {\kf19}ži{\kf23}vo{\kf102}tní 
-Dialogue: 0,0:00:24.03,0:00:27.52,DEFAULT,,0,0,0,,{\kf12}A{\kf12}le{\kf19} ne{\kf15}tu{\kf30}ším, {\kf23}kam {\kf34}mí{\kf57}řím {\kf27}dá{\kf72}-ál
-Dialogue: 0,0:00:28.01,0:00:31.68,DEFAULT,,0,0,0,,{\kf15}Ja{\kf23}ko{\kf19}u{\kf30} ro{\kf30}li {\kf27}za{\kf23}stat {\kf128}mám 
-Dialogue: 0,0:00:32.58,0:00:35.21,DEFAULT,,0,0,0,,{\kf12}Ne{\kf34}vím{\kf23} kam{\kf27} se{\kf42} mám {\kf19}vy{\kf45}dat
-Dialogue: 0,0:00:35.99,0:00:40.53,DEFAULT,,0,0,0,,{\kf23}když {\kf15}je {\kf19}ces{\kf15}ta {\kf23}mi {\kf30}nez{\kf49}ná{\kf214}má 
-Dialogue: 0,0:00:46.61,0:00:49.38,DEFAULT,,0,0,0,,{\kf27}Svá {\kf15}kří{\kf19}dla {\kf49}mám, {\kf15}ko{\kf15}run{\kf12}ku {\kf72}též 
-Dialogue: 0,0:00:49.83,0:00:53.02,DEFAULT,,0,0,0,,{\kf30}Prin{\kf19}ce{\kf19}zna {\kf57}jsem {\kf34}prav{\kf19}da {\kf79}je 
-Dialogue: 0,0:00:54.82,0:00:57.67,DEFAULT,,0,0,0,,{\kf12}Po{\kf45}řád {\kf15}ne{\kf45}mám {\kf27}po{\kf34}ně{\kf64}tí
-Dialogue: 0,0:00:57.82,0:01:01.42,DEFAULT,,0,0,0,,{\kf19}to {\kf15}co {\kf27}je {\kf23}mi {\kf30}so{\kf19}u{\kf34}ze{\kf139}né 
-Dialogue: 0,0:01:02.54,0:01:05.43,DEFAULT,,0,0,0,,{\kf19}Chtě{\kf19}la {\kf19}bych {\kf60}mít {\kf27}svo{\kf19}u {\kf19}ro{\kf72}li
-Dialogue: 0,0:01:05.77,0:01:09.44,DEFAULT,,0,0,0,,{\kf15}dě{\kf30}lat {\kf34}co {\kf30}je {\kf15}v {\kf27}si{\kf23}lá{\kf27}-ách {\kf117}mých 
-Dialogue: 0,0:01:10.04,0:01:13.08,DEFAULT,,0,0,0,,{\kf19}Chtě{\kf30}la {\kf30}bych {\kf19}k {\kf38}dí{\kf23}lu {\kf27}přis{\kf53}pět
-Dialogue: 0,0:01:13.57,0:01:18.37,DEFAULT,,0,0,0,,{\kf19}tou{\kf34}zím {\kf34}vám {\kf53}být {\kf19}so{\kf15}u{\kf45}čá{\kf207}stí 
-Dialogue: 0,0:01:20.43,0:01:23.13,DEFAULT,,0,0,0,,{\kf27}Tvůj {\kf12}o{\kf19}sud {\kf30}je {\kf34}ne{\kf23}ji{\kf90}stý 
-Dialogue: 0,0:01:23.47,0:01:26.77,DEFAULT,,0,0,0,,{\kf19}a {\kf19}to {\kf23}je {\kf19}ně{\kf19}kdy {\kf27}na {\kf27}ob{\kf139}tíž
-Dialogue: 0,0:01:27.11,0:01:30.82,DEFAULT,,0,0,0,,{\kf23}Však {\kf4}s {\kf23}kaž{\kf27}dým {\kf42}tvým {\kf27}roz{\kf34}hod{\kf30}nu{\kf27}tí{\kf94}-ím
-Dialogue: 0,0:01:30.97,0:01:34.57,DEFAULT,,0,0,0,,{\kf23}vše {\kf19}lé{\kf19}pe {\kf38}pak {\kf23}po{\kf34}cho{\kf147}píš 
-Dialogue: 0,0:01:34.94,0:01:38.13,DEFAULT,,0,0,0,,{\kf19}Če{\kf19}kat {\kf30}jen {\kf42}bý{\kf42}vá {\kf34}těž{\kf83}ké 
-Dialogue: 0,0:01:38.28,0:01:41.81,DEFAULT,,0,0,0,,{\kf19}A {\kf30}chá{\kf15}pu, {\kf27}že {\kf23}ty {\kf34}chceš {\kf135}víc 
-Dialogue: 0,0:01:42.33,0:01:45.67,DEFAULT,,0,0,0,,{\kf19}Ne{\kf19}ní {\kf23}snad{\kf23}né {\kf34}tr{\kf30}pě{\kf38}li{\kf53}vý {\kf57}být
-Dialogue: 0,0:01:45.82,0:01:49.49,DEFAULT,,0,0,0,,{\kf15}než {\kf12}k {\kf19}vý{\kf19}ši{\kf38}nám {\kf38}po{\kf30}le{\kf169}tíš 
-Dialogue: 0,0:01:49.98,0:01:52.72,DEFAULT,,0,0,0,,{\kf12}To, {\kf15}že {\kf12}tu {\kf30}jsi {\kf27}má {\kf19}však {\kf38}dů{\kf68}vod 
-Dialogue: 0,0:01:53.06,0:01:56.54,DEFAULT,,0,0,0,,{\kf15}Jsi {\kf27}sil{\kf34}ná {\kf12}a {\kf34}na{\kf34}da{\kf135}ná 
-Dialogue: 0,0:01:56.84,0:02:03.44,DEFAULT,,0,0,0,,{\kf19}Ko{\kf23}run{\kf15}ka {\kf27}co {\kf27}no {\kf49}síš{\kf23}zna {\kf30}čí,{\kf19} že {\kf30}pat{\kf57}říš {\kf12}k {\kf248}nám 
-Dialogue: 0,0:02:03.56,0:02:07.16,DEFAULT,,0,0,0,,{\kf15}Než {\kf19}se {\kf38}nám {\kf102}vdáš, {\kf19}přij{\kf15}de {\kf42}tvůj {\kf60}čas 
-Dialogue: 0,0:02:07.27,0:02:10.76,DEFAULT,,0,0,0,,{\kf15}Jak {\kf19}slun{\kf19}ce {\kf12}s {\kf23}mě{\kf42}sí{\kf19}cem {\kf15}u{\kf38}ví{\kf79}táš 
-Dialogue: 0,0:02:10.94,0:02:14.51,DEFAULT,,0,0,0,,{\kf19}Ja{\kf15}ko {\kf27}lás{\kf15}ka {\kf8}v {\kf34}srd{\kf38}ci {\kf15}mís{\kf19}to {\kf42}své {\kf83}zná 
-Dialogue: 0,0:02:14.62,0:02:19.68,DEFAULT,,0,0,0,,{\kf23}Prin{\kf19}ce{\kf34}znou {\kf30}teď {\kf57}jsi, {\kf38}svou {\kf98}ro{\kf30}li {\kf90}máš 
-Dialogue: 0,0:02:19.83,0:02:22.98,DEFAULT,,0,0,0,,{\kf15}Pro {\kf12}tebe {\kf34}dob{\kf23}ře, {\kf27}že {\kf15}ch{\kf30}ceš {\kf94}víc 
-Dialogue: 0,0:02:23.32,0:02:26.99,DEFAULT,,0,0,0,,{\kf12}Šan{\kf15}ci {\kf15}za{\kf49}zá{\kf23}řit, {\kf38}vy{\kf42}jít {\kf57}vstří{\kf72}-íc 
-Dialogue: 0,0:02:27.11,0:02:33.11,DEFAULT,,0,0,0,,{\kf30}Přij{\kf23}de {\kf19}de{\kf19}-n, {\kf34}kdy {\kf34}vše {\kf49}se {\kf19}o{\kf23}-o{\kf34}to{\kf188}čí{\kf75}-í 
-Dialogue: 0,0:02:33.22,0:02:36.71,DEFAULT,,0,0,0,,{\kf19}Než {\kf15}se {\kf42}nám {\kf98}vdáš, {\kf27}přij{\kf19}de {\kf42}tvůj {\kf53}čas 
-Dialogue: 0,0:02:36.86,0:02:40.49,DEFAULT,,0,0,0,,{\kf19}Jak {\kf23}slun{\kf23}ce {\kf12}s {\kf30}mě{\kf49}sí{\kf23}cem {\kf19}u{\kf19}ví{\kf19}-í{\kf87}táš 
-Dialogue: 0,0:02:40.61,0:02:43.91,DEFAULT,,0,0,0,,{\kf19}Ja{\kf19}ko {\kf23}lás{\kf15}ka {\kf8}v {\kf27}srd{\kf27}ci {\kf27}mís{\kf8}to {\kf42}své {\kf60}zná 
-Dialogue: 0,0:02:44.28,0:02:51.63,DEFAULT,,0,0,0,,{\kf19}Prin{\kf19}ce{\kf19}zno{\kf19}u {\kf23}teď {\kf53}jsi, {\kf45}svou {\kf90}ro{\kf34}li {\kf319}máš 
-Dialogue: 0,0:02:51.82,0:02:59.69,DEFAULT,,0,0,0,,{\kf23}Prin{\kf15}ce{\kf19}zno{\kf19}u {\kf27}teď {\kf64}jsi, {\kf45}svou {\kf94}ro{\kf68}li {\kf327}máš 
+Dialogue: 0,0:00:09.11,0:00:12.04,DEFAULT,,0,0,0,,{\r}{\kf24}Ne{\kf29}ní{\kf20}to,{\kf20}že{\kf54}nej{\kf39}sem{\kf39}vděč{\kf68}ná
+Dialogue: 0,0:00:12.15,0:00:15.22,DEFAULT,,0,0,0,,{\r}{\kf24}za{\kf33}všech{\kf19}no,{\kf47}co{\kf19}da{\kf19}li{\kf33} jste{\kf114} mi
+Dialogue: 0,0:00:16.57,0:00:19.95,DEFAULT,,0,0,0,,{\r}{\kf27}Za{\kf32}všech{\kf21}no{\kf32}to,{\kf38}co{\kf48}poz{\kf43}na{\kf38}la{\kf59}jsem
+Dialogue: 0,0:00:20.06,0:00:23.14,DEFAULT,,0,0,0,,{\r}{\kf18}a{\kf14}po{\kf14}u{\kf23}če{\kf64}ní{\kf23}ži{\kf27}vo{\kf124}tní
+Dialogue: 0,0:00:24.04,0:00:27.52,DEFAULT,,0,0,0,,{\r}{\kf13}A{\kf13}le{\kf22} ne{\kf18}tu{\kf35}ším,{\kf27}kam{\kf40}mí{\kf66}řím{\kf31}dá{\kf84}-ál
+Dialogue: 0,0:00:28.01,0:00:31.69,DEFAULT,,0,0,0,,{\r}{\kf19}Ja{\kf28}ko{\kf24}u{\kf38} ro{\kf38}li{\kf33}za{\kf28}stat{\kf159}mám
+Dialogue: 0,0:00:32.59,0:00:35.21,DEFAULT,,0,0,0,,{\r}{\kf15}Ne{\kf44}vím{\kf30} kam{\kf35} se{\kf54} mám{\kf25}vy{\kf59}dat
+Dialogue: 0,0:00:36.00,0:00:40.54,DEFAULT,,0,0,0,,{\r}{\kf26}když{\kf18}je{\kf22}ces{\kf18}ta{\kf26}mi{\kf35}nez{\kf57}ná{\kf252}má
+Dialogue: 0,0:00:46.61,0:00:49.39,DEFAULT,,0,0,0,,{\r}{\kf33}Svá{\kf19}kří{\kf23}dla{\kf61}mám,{\kf19}ko{\kf19}run{\kf14}ku{\kf89}též
+Dialogue: 0,0:00:49.84,0:00:53.02,DEFAULT,,0,0,0,,{\r}{\kf38}Prin{\kf23}ce{\kf23}zna{\kf70}jsem{\kf42}prav{\kf23}da{\kf100}je
+Dialogue: 0,0:00:54.82,0:00:57.67,DEFAULT,,0,0,0,,{\r}{\kf13}Po{\kf53}řád{\kf18}ne{\kf53}mám{\kf31}po{\kf40}ně{\kf77}tí
+Dialogue: 0,0:00:57.82,0:01:01.42,DEFAULT,,0,0,0,,{\r}{\kf22}to{\kf18}co{\kf31}je{\kf27}mi{\kf36}so{\kf22}u{\kf40}ze{\kf164}né
+Dialogue: 0,0:01:02.55,0:01:05.44,DEFAULT,,0,0,0,,{\r}{\kf22}Chtě{\kf22}la{\kf22}bych{\kf69}mít{\kf30}svo{\kf22}u{\kf22}ro{\kf80}li
+Dialogue: 0,0:01:05.77,0:01:09.45,DEFAULT,,0,0,0,,{\r}{\kf17}dě{\kf35}lat{\kf39}co{\kf35}je{\kf17}v{\kf31}si{\kf26}lá{\kf31}-ách{\kf136}mých
+Dialogue: 0,0:01:10.05,0:01:13.09,DEFAULT,,0,0,0,,{\r}{\kf24}Chtě{\kf39}la{\kf39}bych{\kf24}k{\kf48}dí{\kf29}lu{\kf34}přis{\kf67}pět
+Dialogue: 0,0:01:13.57,0:01:18.37,DEFAULT,,0,0,0,,{\r}{\kf21}tou{\kf38}zím{\kf38}vám{\kf59}být{\kf21}so{\kf17}u{\kf51}čá{\kf235}stí
+Dialogue: 0,0:01:20.44,0:01:23.14,DEFAULT,,0,0,0,,{\r}{\kf30}Tvůj{\kf13}o{\kf22}sud{\kf35}je{\kf39}ne{\kf26}ji{\kf105}stý
+Dialogue: 0,0:01:23.47,0:01:26.77,DEFAULT,,0,0,0,,{\r}{\kf21}a{\kf21}to{\kf26}je{\kf21}ně{\kf21}kdy{\kf30}na{\kf30}ob{\kf160}tíž
+Dialogue: 0,0:01:27.11,0:01:30.82,DEFAULT,,0,0,0,,{\r}{\kf26}Však{\kf10}s{\kf26}kaž{\kf30}dým{\kf47}tvým{\kf30}roz{\kf38}hod{\kf34}nu{\kf30}tí{\kf100}-ím
+Dialogue: 0,0:01:30.97,0:01:34.57,DEFAULT,,0,0,0,,{\r}{\kf27}vše{\kf22}lé{\kf22}pe{\kf45}pak{\kf27}po{\kf40}cho{\kf177}píš
+Dialogue: 0,0:01:34.95,0:01:38.14,DEFAULT,,0,0,0,,{\r}{\kf22}Če{\kf22}kat{\kf36}jen{\kf49}bý{\kf49}vá{\kf40}těž{\kf101}ké
+Dialogue: 0,0:01:38.29,0:01:41.81,DEFAULT,,0,0,0,,{\r}{\kf23}A{\kf38}chá{\kf19}pu,{\kf33}že{\kf28}ty{\kf42}chceš{\kf169}víc
+Dialogue: 0,0:01:42.34,0:01:45.67,DEFAULT,,0,0,0,,{\r}{\kf21}Ne{\kf21}ní{\kf26}snad{\kf26}né{\kf39}tr{\kf34}pě{\kf43}li{\kf60}vý{\kf64}být
+Dialogue: 0,0:01:45.82,0:01:49.50,DEFAULT,,0,0,0,,{\r}{\kf16}než{\kf12}k{\kf20}vý{\kf20}ši{\kf41}nám{\kf41}po{\kf33}le{\kf184}tíš
+Dialogue: 0,0:01:49.99,0:01:52.72,DEFAULT,,0,0,0,,{\r}{\kf14}To,{\kf19}že{\kf14}tu{\kf38}jsi{\kf33}má{\kf24}však{\kf47}dů{\kf85}vod
+Dialogue: 0,0:01:53.06,0:01:56.55,DEFAULT,,0,0,0,,{\r}{\kf18}Jsi{\kf32}sil{\kf41}ná{\kf14}a{\kf41}na{\kf41}da{\kf162}ná
+Dialogue: 0,0:01:56.85,0:02:03.45,DEFAULT,,0,0,0,,{\r}{\kf22}Ko{\kf26}run{\kf17}ka{\kf30}co{\kf30}no{\kf56}síš{\kf26}zna{\kf35}čí,{\kf22} že{\kf35}pat{\kf65}říš{\kf13}k{\kf283}nám
+Dialogue: 0,0:02:03.56,0:02:07.16,DEFAULT,,0,0,0,,{\r}{\kf18}Než{\kf22}se{\kf44}nám{\kf119}vdáš,{\kf22}přij{\kf18}de{\kf48}tvůj{\kf69}čas
+Dialogue: 0,0:02:07.27,0:02:10.76,DEFAULT,,0,0,0,,{\r}{\kf19}Jak{\kf24}slun{\kf24}ce{\kf14}s{\kf28}mě{\kf52}sí{\kf24}cem{\kf19}u{\kf47}ví{\kf98}táš
+Dialogue: 0,0:02:10.95,0:02:14.51,DEFAULT,,0,0,0,,{\r}{\kf21}Ja{\kf17}ko{\kf30}lás{\kf17}ka{\kf10}v{\kf39}srd{\kf43}ci{\kf17}mís{\kf21}to{\kf47}své{\kf94}zná
+Dialogue: 0,0:02:14.62,0:02:19.69,DEFAULT,,0,0,0,,{\r}{\kf27}Prin{\kf23}ce{\kf41}znou{\kf36}teď{\kf68}jsi,{\kf46}svou{\kf119}ro{\kf36}li{\kf110}máš
+Dialogue: 0,0:02:19.84,0:02:22.99,DEFAULT,,0,0,0,,{\r}{\kf19}Pro{\kf14}tebe{\kf43}dob{\kf29}ře,{\kf33}že{\kf19}ch{\kf38}ceš{\kf120}víc
+Dialogue: 0,0:02:23.32,0:02:27.00,DEFAULT,,0,0,0,,{\r}{\kf13}Šan{\kf17}ci{\kf17}za{\kf56}zá{\kf26}řit,{\kf43}vy{\kf48}jít{\kf65}vstří{\kf83}-íc
+Dialogue: 0,0:02:27.11,0:02:33.11,DEFAULT,,0,0,0,,{\r}{\kf33}Přij{\kf25}de{\kf21}de{\kf21}-n,{\kf37}kdy{\kf37}vše{\kf54}se{\kf21}o{\kf25}-o{\kf37}to{\kf207}čí{\kf82}-í
+Dialogue: 0,0:02:33.22,0:02:36.71,DEFAULT,,0,0,0,,{\r}{\kf21}Než{\kf17}se{\kf46}nám{\kf109}vdáš,{\kf29}přij{\kf21}de{\kf46}tvůj{\kf60}čas
+Dialogue: 0,0:02:36.86,0:02:40.50,DEFAULT,,0,0,0,,{\r}{\kf21}Jak{\kf26}slun{\kf26}ce{\kf13}s{\kf34}mě{\kf56}sí{\kf26}cem{\kf21}u{\kf21}ví{\kf21}-í{\kf99}táš
+Dialogue: 0,0:02:40.61,0:02:43.91,DEFAULT,,0,0,0,,{\r}{\kf23}Ja{\kf23}ko{\kf28}lás{\kf18}ka{\kf10}v{\kf32}srd{\kf32}ci{\kf32}mís{\kf10}to{\kf50}své{\kf72}zná
+Dialogue: 0,0:02:44.29,0:02:51.64,DEFAULT,,0,0,0,,{\r}{\kf22}Prin{\kf22}ce{\kf22}zno{\kf22}u{\kf26}teď{\kf61}jsi,{\kf52}svou{\kf104}ro{\kf39}li{\kf365}máš
+Dialogue: 0,0:02:51.82,0:02:59.70,DEFAULT,,0,0,0,,{\r}{\kf25}Prin{\kf17}ce{\kf21}zno{\kf21}u{\kf30}teď{\kf72}jsi,{\kf51}svou{\kf106}ro{\kf76}li{\kf369}máš

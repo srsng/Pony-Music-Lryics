@@ -1,70 +1,77 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Universe
+Artist: Metajoker feat. Fluttershyay
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:29.07,0:00:30.68,DEFAULT,,0,0,0,,{\kf8}Is{\kf12} it{\kf27} worth{\kf8} a{\kf64} shot
-Dialogue: 0,0:00:31.55,0:00:35.18,DEFAULT,,0,0,0,,{\kf30}Should{\kf34} I{\kf12} real{\kf8}ly{\kf42} change{\kf34} my{\kf60} life{\kf15} for{\kf12}e{\kf34}ver
-Dialogue: 0,0:00:35.93,0:00:40.25,DEFAULT,,0,0,0,,{\kf45}And{\kf68} lose{\kf15} the{\kf42} world{\kf30} that{\kf42} I{\kf45} kno{\kf109}-ow?
-Dialogue: 0,0:00:42.98,0:00:45.01,DEFAULT,,0,0,0,,{\kf12}Is{\kf15} it{\kf38} true{\kf12} or{\kf83} not
-Dialogue: 0,0:00:45.61,0:00:49.47,DEFAULT,,0,0,0,,{\kf23}Can{\kf30} we{\kf15} real{\kf12}ly{\kf34} se{\kf12}-e{\kf27} it{\kf27} a{\kf38}-all{\kf15} to{\kf23}get{\kf34}her
-Dialogue: 0,0:00:50.22,0:00:55.21,DEFAULT,,0,0,0,,{\kf42}Oh,{\kf30} I'm{\kf38} not{\kf30} rea{\kf30}dy{\kf49} to{\kf30} go{\kf195}-o
-Dialogue: 0,0:00:57.31,0:00:59.75,DEFAULT,,0,0,0,,{\kf30}Some{\kf38} called{\kf23} it{\kf15} lu{\kf19}-u{\kf79}-uck
-Dialogue: 0,0:01:00.01,0:01:03.87,DEFAULT,,0,0,0,,{\kf72}But{\kf34} is{\kf12} it{\kf27} re{\kf19}-al{\kf30}ly{\kf34} bet{\kf23}ter{\kf42} know{\kf45}ing
-Dialogue: 0,0:01:04.47,0:01:11.03,DEFAULT,,0,0,0,,{\kf42}I'd{\kf19} al{\kf45}most{\kf27} rat{\kf30}her{\kf53} have{\kf124} ne{\kf75}ver{\kf87} met{\kf75} you
-Dialogue: 0,0:01:11.52,0:01:13.92,DEFAULT,,0,0,0,,{\kf34}I'm{\kf27} light{\kf27}ning{\kf19}-stru{\kf23}-u{\kf75}-uck
-Dialogue: 0,0:01:14.48,0:01:18.31,DEFAULT,,0,0,0,,{\kf27}In{\kf42}side{\kf15} I{\kf38} know{\kf15} that{\kf49} I'll{\kf34} be{\kf27} go{\kf64}ing
-Dialogue: 0,0:01:18.61,0:01:25.47,DEFAULT,,0,0,0,,{\kf42}I{\kf23} know{\kf30} I{\kf23} ne{\kf27}ver{\kf49} could{\kf72} just{\kf79} for{\kf83}get{\kf113} you
-Dialogue: 0,0:01:39.80,0:01:42.38,DEFAULT,,0,0,0,,{\kf15}You're{\kf19} ta{\kf15}king{\kf30} me{\kf12} to{\kf12} a{\kf42}no{\kf27}ther{\kf30} place
-Dialogue: 0,0:01:42.46,0:01:46.40,DEFAULT,,0,0,0,,{\kf15}And{\kf23} I{\kf38} ne{\kf15}ver{\kf15} e{\kf15}ven{\kf27} said{\kf23} my{\kf23} good{\kf154}byes
-Dialogue: 0,0:01:46.88,0:01:49.55,DEFAULT,,0,0,0,,{\kf19}My{\kf27} world{\kf15} ex{\kf34}pands{\kf23} to{\kf8} a{\kf38} u{\kf19}ni{\kf38}verse
-Dialogue: 0,0:01:49.58,0:01:53.37,DEFAULT,,0,0,0,,{\kf12}And{\kf8} the{\kf38} light{\kf12} of{\kf27} stars{\kf15} ref{\kf23}lects{\kf12} in{\kf27} my{\kf132} eyes
-Dialogue: 0,0:01:54.01,0:01:56.60,DEFAULT,,0,0,0,,{\kf19}You're{\kf19} tak{\kf12}ing{\kf38} me{\kf27} to{\kf12} a{\kf30} diff{\kf27}erent{\kf34} time
-Dialogue: 0,0:01:56.71,0:01:59.90,DEFAULT,,0,0,0,,{\kf12}Where{\kf19} my{\kf38} doubts{\kf12} and{\kf23} fears{\kf8} are{\kf23} not{\kf27} to{\kf15} be{\kf79} found
-Dialogue: 0,0:02:00.42,0:02:03.72,DEFAULT,,0,0,0,,{\kf38}My{\kf42} world{\kf12} ex{\kf42}pands{\kf12} and{\kf8} I{\kf38} fe{\kf15}-el{\kf12} a{\kf42}live
-Dialogue: 0,0:02:03.83,0:02:06.76,DEFAULT,,0,0,0,,{\kf12}As{\kf19} my{\kf49} bo{\kf8}dy{\kf15} and{\kf15} my{\kf23} soul{\kf23} leave{\kf12} the{\kf64} ground
-Dialogue: 0,0:02:07.10,0:02:10.28,DEFAULT,,0,0,0,,{\kf42}Oh{\kf19} uh{\kf248} woah
-Dialogue: 0,0:02:22.47,0:02:24.80,DEFAULT,,0,0,0,,{\kf12}A{\kf45} bolt{\kf30} in{\kf15} the{\kf15} blu{\kf23}-u{\kf60}-e
-Dialogue: 0,0:02:25.32,0:02:29.07,DEFAULT,,0,0,0,,{\kf64}An{\kf27} in{\kf12}fi{\kf27}nite{\kf27} dis{\kf38}pla{\kf12}-ay{\kf12} of{\kf38} splen{\kf42}dour
-Dialogue: 0,0:02:29.60,0:02:34.88,DEFAULT,,0,0,0,,{\kf34}Like{\kf15} a{\kf45} door{\kf15} to{\kf53} worlds{\kf27} in{\kf34} my{\kf15} he{\kf27}-e{\kf207}-ad
-Dialogue: 0,0:02:36.80,0:02:39.05,DEFAULT,,0,0,0,,{\kf30}Then{\kf30} there{\kf30} was{\kf8} yo{\kf27}-o{\kf64}-u
-Dialogue: 0,0:02:39.76,0:02:43.58,DEFAULT,,0,0,0,,{\kf12}The{\kf34} guar{\kf15}di{\kf53}an{\kf12} who{\kf49} bade{\kf42} me{\kf15} "En{\kf75}ter"
-Dialogue: 0,0:02:44.67,0:02:48.83,DEFAULT,,0,0,0,,{\kf15}The{\kf23} on{\kf12}ly{\kf27} word{\kf34} that{\kf30} you{\kf45} sa{\kf184}-id
-Dialogue: 0,0:02:50.82,0:02:53.07,DEFAULT,,0,0,0,,{\kf19}You're{\kf30} not{\kf38} as{\kf8} you{\kf12} se{\kf72}-em
-Dialogue: 0,0:02:53.52,0:02:57.42,DEFAULT,,0,0,0,,{\kf12}And{\kf30} now{\kf30} I'm{\kf45} hold{\kf12}ing{\kf57} on{\kf15} for{\kf15} o{\kf12}-ur{\kf15} as{\kf30}cen{\kf34}sion
-Dialogue: 0,0:02:57.98,0:03:04.43,DEFAULT,,0,0,0,,{\kf15}It's{\kf19} al{\kf15}most{\kf34} like{\kf30} I've{\kf23} do{\kf15}-one{\kf30} this{\kf30} be{\kf19}fo{\kf12}-o{\kf12}-o{\kf113}-o{\kf12}-o{\kf8}-o{\kf19}-o{\kf154}-ore
-Dialogue: 0,0:03:05.30,0:03:07.47,DEFAULT,,0,0,0,,{\kf19}In{\kf27} all{\kf30} my{\kf15} dre{\kf90}-ams
-Dialogue: 0,0:03:07.81,0:03:11.63,DEFAULT,,0,0,0,,{\kf12}I{\kf15} ne{\kf30}ver{\kf30} had{\kf8} the{\kf27} sli{\kf19}-ight{\kf30}est{\kf45} glimpse{\kf12} of{\kf23} hea{\kf30}ven
-Dialogue: 0,0:03:12.16,0:03:16.96,DEFAULT,,0,0,0,,{\kf19}But{\kf15} in{\kf15} your{\kf42} eyes{\kf27} I{\kf30} see{\kf42} that,{\kf34} and{\kf42} mo{\kf150}-ore
-Dialogue: 0,0:03:19.28,0:03:21.83,DEFAULT,,0,0,0,,{\kf12}You're{\kf15} ta{\kf15}king{\kf34} me{\kf23} to{\kf8} a{\kf30}no{\kf19}ther{\kf38} place
-Dialogue: 0,0:03:21.98,0:03:25.88,DEFAULT,,0,0,0,,{\kf12}And{\kf19} I{\kf38} ne{\kf23}ver{\kf15} e{\kf12}ven{\kf19} said{\kf19} my{\kf19} good{\kf158}byes
-Dialogue: 0,0:03:26.41,0:03:29.03,DEFAULT,,0,0,0,,{\kf12}My{\kf19} world{\kf12} ex{\kf38}pands{\kf15} to{\kf12} a{\kf34} u{\kf27}ni{\kf38}verse
-Dialogue: 0,0:03:29.15,0:03:32.82,DEFAULT,,0,0,0,,{\kf12}And{\kf8} the{\kf49} light{\kf8} of{\kf30} stars{\kf15} ref{\kf23}lects{\kf15} in{\kf27} my{\kf128} eyes
-Dialogue: 0,0:03:33.46,0:03:36.08,DEFAULT,,0,0,0,,{\kf15}You're{\kf15} tak{\kf19}ing{\kf34} me{\kf23} to{\kf12} a{\kf23} diff{\kf12}e{\kf23}rent{\kf34} time
-Dialogue: 0,0:03:36.20,0:03:39.23,DEFAULT,,0,0,0,,{\kf12}Where{\kf19} my{\kf42} doubts{\kf12} and{\kf27} fears{\kf15} are{\kf19} not{\kf15} to{\kf12} be{\kf68} found
-Dialogue: 0,0:03:39.95,0:03:43.21,DEFAULT,,0,0,0,,{\kf27}My{\kf23} wo{\kf15}-orld{\kf19} ex{\kf42}pands{\kf12} and{\kf12} I{\kf45} fe{\kf15}-el{\kf8} a{\kf34}live
-Dialogue: 0,0:03:43.32,0:03:46.28,DEFAULT,,0,0,0,,{\kf12}As{\kf19} my{\kf42} bo{\kf12}dy{\kf15} and{\kf12} my{\kf27} soul{\kf27} leave{\kf8} the{\kf72} ground
-Dialogue: 0,0:03:46.62,0:03:49.13,DEFAULT,,0,0,0,,{\kf38}Oh{\kf30} uh{\kf83} woah{\kf87} oh
-Dialogue: 0,0:04:01.66,0:04:05.56,DEFAULT,,0,0,0,,{\kf38}Da{\kf19} Da{\kf49} Da{\kf12} Da{\kf53} Da{\kf30} Da{\kf34} Da{\kf12} Da{\kf42} Da
-Dialogue: 0,0:04:05.75,0:04:07.32,DEFAULT,,0,0,0,,{\kf30}Da{\kf42} Da{\kf12} Da{\kf45} Da
-Dialogue: 0,0:04:08.86,0:04:12.65,DEFAULT,,0,0,0,,{\kf38}Da{\kf12} Da{\kf49} Da{\kf15} Da{\kf49} Da{\kf19} Da{\kf38} Da{\kf12} Da{\kf49} Da
-Dialogue: 0,0:04:12.83,0:04:14.37,DEFAULT,,0,0,0,,{\kf23}Da{\kf12} Da{\kf8}-a{\kf8}-a{\kf12} Da{\kf38} Da
-Dialogue: 0,0:04:16.13,0:04:18.76,DEFAULT,,0,0,0,,{\kf15}You're{\kf27} ta{\kf15}king{\kf19} me{\kf15} a{\kf30}cross{\kf23} ti{\kf19}-ime{\kf12} and{\kf42} space
-Dialogue: 0,0:04:18.87,0:04:21.76,DEFAULT,,0,0,0,,{\kf12}To{\kf19} re{\kf30}a{\kf15}li{\kf15}ties{\kf12} my{\kf23} mind{\kf19} could{\kf12}n't{\kf68} see
-Dialogue: 0,0:04:23.30,0:04:25.88,DEFAULT,,0,0,0,,{\kf12}My{\kf12} wo{\kf12}-orld{\kf12} ex{\kf27}pands{\kf12} to{\kf12} a{\kf34} u{\kf27}ni{\kf38}verse
-Dialogue: 0,0:04:26.00,0:04:29.60,DEFAULT,,0,0,0,,{\kf15}Though{\kf30} I'll{\kf23} ne{\kf15}ver{\kf19} know{\kf12} what{\kf15} you{\kf27} see{\kf19} in{\kf124} me
-Dialogue: 0,0:04:30.46,0:04:33.01,DEFAULT,,0,0,0,,{\kf8}You're{\kf19} ta{\kf15}king{\kf42} me{\kf15} to{\kf12} an{\kf27}o{\kf23}ther{\kf49} place
-Dialogue: 0,0:04:33.12,0:04:36.76,DEFAULT,,0,0,0,,{\kf12}And{\kf19} I{\kf38} ne{\kf15}ver{\kf15} e{\kf15}ven{\kf27} said{\kf23} my{\kf23} good{\kf128}byes
-Dialogue: 0,0:04:37.51,0:04:40.06,DEFAULT,,0,0,0,,{\kf15}My{\kf8} wo{\kf12}-orld{\kf12} ex{\kf38}pands{\kf12} to{\kf8} a{\kf42} u{\kf19}ni{\kf34}verse
-Dialogue: 0,0:04:40.40,0:04:43.73,DEFAULT,,0,0,0,,{\kf12}And{\kf8} the{\kf27} light{\kf8} of{\kf27} stars{\kf12} ref{\kf23}lects{\kf15} in{\kf12} my{\kf19}-y{\kf109} eyes
-Dialogue: 0,0:04:44.63,0:04:47.22,DEFAULT,,0,0,0,,{\kf15}You're{\kf19} tak{\kf15}ing{\kf38} me{\kf27} to{\kf8} a{\kf27} diff{\kf8}e{\kf27}rent{\kf38} time
-Dialogue: 0,0:04:47.33,0:04:50.60,DEFAULT,,0,0,0,,{\kf8}Where{\kf23} my{\kf49} doubts{\kf8} and{\kf27} fears{\kf8} are{\kf19} not{\kf23} to{\kf19} be{\kf87} found
-Dialogue: 0,0:04:51.08,0:04:54.31,DEFAULT,,0,0,0,,{\kf38}My{\kf23} wo{\kf19}-orld{\kf15} ex{\kf45}pands{\kf8} and{\kf12} I{\kf49} fe{\kf15}-el{\kf12} a{\kf34}live
-Dialogue: 0,0:04:54.46,0:04:57.35,DEFAULT,,0,0,0,,{\kf12}As{\kf19} my{\kf38} bo{\kf15}dy{\kf12} and{\kf12} my{\kf27} soul{\kf23} leave{\kf15} the{\kf68} ground
-Dialogue: 0,0:04:57.76,0:05:00.65,DEFAULT,,0,0,0,,{\kf30}Oh{\kf23} uh{\kf222} woah
+Dialogue: 0,0:00:29.07,0:00:30.69,DEFAULT,,0,0,0,,{\r}{\kf10}Is{\kf16} it{\kf36} worth{\kf10} a{\kf89} shot
+Dialogue: 0,0:00:31.55,0:00:35.19,DEFAULT,,0,0,0,,{\r}{\kf39}Should{\kf44} I{\kf15} real{\kf10}ly{\kf54} change{\kf44} my{\kf79} life{\kf20} for{\kf15}e{\kf44}ver
+Dialogue: 0,0:00:35.94,0:00:40.25,DEFAULT,,0,0,0,,{\r}{\kf49}And{\kf74} lose{\kf16} the{\kf45} world{\kf33} that{\kf45} I{\kf49} kno{\kf120}-ow?
+Dialogue: 0,0:00:42.99,0:00:45.01,DEFAULT,,0,0,0,,{\r}{\kf15}Is{\kf19} it{\kf48} true{\kf15} or{\kf106} not
+Dialogue: 0,0:00:45.61,0:00:49.48,DEFAULT,,0,0,0,,{\r}{\kf30}Can{\kf41} we{\kf20} real{\kf15}ly{\kf46} se{\kf15}-e{\kf36} it{\kf36} a{\kf51}-all{\kf20} to{\kf30}get{\kf46}her
+Dialogue: 0,0:00:50.23,0:00:55.21,DEFAULT,,0,0,0,,{\r}{\kf47}Oh,{\kf34} I'm{\kf42} not{\kf34} rea{\kf34}dy{\kf55} to{\kf34} go{\kf219}-o
+Dialogue: 0,0:00:57.31,0:00:59.75,DEFAULT,,0,0,0,,{\r}{\kf36}Some{\kf45} called{\kf27} it{\kf18} lu{\kf23}-u{\kf95}-uck
+Dialogue: 0,0:01:00.01,0:01:03.88,DEFAULT,,0,0,0,,{\r}{\kf82}But{\kf39} is{\kf13} it{\kf30} re{\kf22}-al{\kf35}ly{\kf39} bet{\kf26}ter{\kf48} know{\kf52}ing
+Dialogue: 0,0:01:04.47,0:01:11.04,DEFAULT,,0,0,0,,{\r}{\kf47}I'd{\kf21} al{\kf51}most{\kf30} rat{\kf34}her{\kf60} have{\kf141} ne{\kf86}ver{\kf99} met{\kf87} you
+Dialogue: 0,0:01:11.53,0:01:13.92,DEFAULT,,0,0,0,,{\r}{\kf40}I'm{\kf31} light{\kf31}ning{\kf22}-stru{\kf27}-u{\kf89}-uck
+Dialogue: 0,0:01:14.49,0:01:18.31,DEFAULT,,0,0,0,,{\r}{\kf33}In{\kf51}side{\kf19} I{\kf47} know{\kf19} that{\kf61} I'll{\kf42} be{\kf33} go{\kf78}ing
+Dialogue: 0,0:01:18.61,0:01:25.47,DEFAULT,,0,0,0,,{\r}{\kf53}I{\kf29} know{\kf38} I{\kf29} ne{\kf34}ver{\kf62} could{\kf91} just{\kf101} for{\kf106}get{\kf143} you
+Dialogue: 0,0:01:39.80,0:01:42.39,DEFAULT,,0,0,0,,{\r}{\kf20}You're{\kf24} ta{\kf20}king{\kf39} me{\kf15} to{\kf15} a{\kf54}no{\kf34}ther{\kf38} place
+Dialogue: 0,0:01:42.46,0:01:46.40,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf26} I{\kf43} ne{\kf17}ver{\kf17} e{\kf17}ven{\kf30} said{\kf26} my{\kf26} good{\kf175}byes
+Dialogue: 0,0:01:46.89,0:01:49.55,DEFAULT,,0,0,0,,{\r}{\kf23}My{\kf32} world{\kf18} ex{\kf41}pands{\kf28} to{\kf10} a{\kf46} u{\kf23}ni{\kf45}verse
+Dialogue: 0,0:01:49.59,0:01:53.38,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf10} the{\kf47} light{\kf14} of{\kf33} stars{\kf19} ref{\kf28}lects{\kf14} in{\kf33} my{\kf167} eyes
+Dialogue: 0,0:01:54.01,0:01:56.60,DEFAULT,,0,0,0,,{\r}{\kf23}You're{\kf23} tak{\kf14}ing{\kf45} me{\kf32} to{\kf14} a{\kf36} diff{\kf32}erent{\kf40} time
+Dialogue: 0,0:01:56.71,0:01:59.90,DEFAULT,,0,0,0,,{\r}{\kf14}Where{\kf24} my{\kf48} doubts{\kf14} and{\kf29} fears{\kf10} are{\kf29} not{\kf33} to{\kf19} be{\kf99} found
+Dialogue: 0,0:02:00.42,0:02:03.72,DEFAULT,,0,0,0,,{\r}{\kf49}My{\kf53} world{\kf15} ex{\kf53}pands{\kf15} and{\kf10} I{\kf49} fe{\kf19}-el{\kf15} a{\kf52}live
+Dialogue: 0,0:02:03.84,0:02:06.76,DEFAULT,,0,0,0,,{\r}{\kf14}As{\kf23} my{\kf60} bo{\kf10}dy{\kf19} and{\kf19} my{\kf28} soul{\kf28} leave{\kf14} the{\kf77} ground
+Dialogue: 0,0:02:07.10,0:02:10.29,DEFAULT,,0,0,0,,{\r}{\kf43}Oh{\kf19} uh{\kf257} woah
+Dialogue: 0,0:02:22.47,0:02:24.80,DEFAULT,,0,0,0,,{\r}{\kf13}A{\kf53} bolt{\kf35} in{\kf18} the{\kf18} blu{\kf26}-u{\kf69}-e
+Dialogue: 0,0:02:25.32,0:02:29.07,DEFAULT,,0,0,0,,{\r}{\kf82}An{\kf34} in{\kf14}fi{\kf34}nite{\kf34} dis{\kf48}pla{\kf14}-ay{\kf14} of{\kf48} splen{\kf53}dour
+Dialogue: 0,0:02:29.60,0:02:34.89,DEFAULT,,0,0,0,,{\r}{\kf38}Like{\kf17} a{\kf51} door{\kf17} to{\kf59} worlds{\kf30} in{\kf38} my{\kf17} he{\kf30}-e{\kf232}-ad
+Dialogue: 0,0:02:36.80,0:02:39.05,DEFAULT,,0,0,0,,{\r}{\kf36}Then{\kf36} there{\kf36} was{\kf10} yo{\kf32}-o{\kf75}-u
+Dialogue: 0,0:02:39.76,0:02:43.59,DEFAULT,,0,0,0,,{\r}{\kf14}The{\kf42} guar{\kf19}di{\kf66}an{\kf14} who{\kf61} bade{\kf52} me{\kf19} "En{\kf95}ter"
+Dialogue: 0,0:02:44.68,0:02:48.84,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf25} on{\kf13}ly{\kf30} word{\kf38} that{\kf34} you{\kf51} sa{\kf208}-id
+Dialogue: 0,0:02:50.82,0:02:53.07,DEFAULT,,0,0,0,,{\r}{\kf24}You're{\kf38} not{\kf48} as{\kf10} you{\kf14} se{\kf91}-em
+Dialogue: 0,0:02:53.53,0:02:57.43,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf39} now{\kf39} I'm{\kf58} hold{\kf14}ing{\kf72} on{\kf19} for{\kf19} o{\kf14}-ur{\kf19} as{\kf39}cen{\kf44}sion
+Dialogue: 0,0:02:57.99,0:03:04.44,DEFAULT,,0,0,0,,{\r}{\kf17}It's{\kf22} al{\kf17}most{\kf39} like{\kf35} I've{\kf26} do{\kf17}-one{\kf35} this{\kf35} be{\kf22}fo{\kf13}-o{\kf13}-o{\kf131}-o{\kf13}-o{\kf10}-o{\kf22}-o{\kf178}-ore
+Dialogue: 0,0:03:05.30,0:03:07.47,DEFAULT,,0,0,0,,{\r}{\kf23}In{\kf32} all{\kf36} my{\kf18} dre{\kf109}-ams
+Dialogue: 0,0:03:07.81,0:03:11.64,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf21} ne{\kf41}ver{\kf41} had{\kf10} the{\kf36} sli{\kf26}-ight{\kf41}est{\kf62} glimpse{\kf15} of{\kf31} hea{\kf43}ven
+Dialogue: 0,0:03:12.16,0:03:16.96,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf17} in{\kf17} your{\kf48} eyes{\kf31} I{\kf35} see{\kf48} that,{\kf39} and{\kf48} mo{\kf175}-ore
+Dialogue: 0,0:03:19.29,0:03:21.84,DEFAULT,,0,0,0,,{\r}{\kf15}You're{\kf20} ta{\kf20}king{\kf45} me{\kf30} to{\kf10} a{\kf40}no{\kf25}ther{\kf50} place
+Dialogue: 0,0:03:21.99,0:03:25.89,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf22} I{\kf44} ne{\kf27}ver{\kf18} e{\kf13}ven{\kf22} said{\kf22} my{\kf22} good{\kf187}byes
+Dialogue: 0,0:03:26.41,0:03:29.04,DEFAULT,,0,0,0,,{\r}{\kf15}My{\kf24} world{\kf15} ex{\kf49}pands{\kf19} to{\kf15} a{\kf44} u{\kf34}ni{\kf47}verse
+Dialogue: 0,0:03:29.15,0:03:32.82,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf10} the{\kf58} light{\kf10} of{\kf35} stars{\kf18} ref{\kf27}lects{\kf18} in{\kf31} my{\kf148} eyes
+Dialogue: 0,0:03:33.46,0:03:36.09,DEFAULT,,0,0,0,,{\r}{\kf19}You're{\kf19} tak{\kf24}ing{\kf43} me{\kf29} to{\kf14} a{\kf29} diff{\kf14}e{\kf29}rent{\kf43} time
+Dialogue: 0,0:03:36.20,0:03:39.24,DEFAULT,,0,0,0,,{\r}{\kf14}Where{\kf24} my{\kf53} doubts{\kf14} and{\kf34} fears{\kf19} are{\kf24} not{\kf19} to{\kf14} be{\kf89} found
+Dialogue: 0,0:03:39.95,0:03:43.21,DEFAULT,,0,0,0,,{\r}{\kf35}My{\kf30} wo{\kf20}-orld{\kf25} ex{\kf54}pands{\kf15} and{\kf15} I{\kf59} fe{\kf20}-el{\kf10} a{\kf43}live
+Dialogue: 0,0:03:43.32,0:03:46.29,DEFAULT,,0,0,0,,{\r}{\kf14}As{\kf23} my{\kf51} bo{\kf14}dy{\kf18} and{\kf14} my{\kf32} soul{\kf32} leave{\kf10} the{\kf88} ground
+Dialogue: 0,0:03:46.62,0:03:49.14,DEFAULT,,0,0,0,,{\r}{\kf40}Oh{\kf32} uh{\kf88} woah{\kf91} oh
+Dialogue: 0,0:04:01.66,0:04:05.56,DEFAULT,,0,0,0,,{\r}{\kf51}Da{\kf26} Da{\kf67} Da{\kf15} Da{\kf72} Da{\kf41} Da{\kf46} Da{\kf15} Da{\kf57} Da
+Dialogue: 0,0:04:05.75,0:04:07.32,DEFAULT,,0,0,0,,{\r}{\kf37}Da{\kf51} Da{\kf14} Da{\kf55} Da
+Dialogue: 0,0:04:08.86,0:04:12.65,DEFAULT,,0,0,0,,{\r}{\kf51}Da{\kf15} Da{\kf67} Da{\kf20} Da{\kf67} Da{\kf26} Da{\kf51} Da{\kf15} Da{\kf67} Da
+Dialogue: 0,0:04:12.84,0:04:14.38,DEFAULT,,0,0,0,,{\r}{\kf36}Da{\kf18} Da{\kf12}-a{\kf12}-a{\kf18} Da{\kf58} Da
+Dialogue: 0,0:04:16.14,0:04:18.76,DEFAULT,,0,0,0,,{\r}{\kf18}You're{\kf32} ta{\kf18}king{\kf23} me{\kf18} a{\kf37}cross{\kf28} ti{\kf23}-ime{\kf14} and{\kf52} space
+Dialogue: 0,0:04:18.88,0:04:21.76,DEFAULT,,0,0,0,,{\r}{\kf15}To{\kf24} re{\kf39}a{\kf20}li{\kf20}ties{\kf15} my{\kf29} mind{\kf24} could{\kf15}n't{\kf88} see
+Dialogue: 0,0:04:23.30,0:04:25.89,DEFAULT,,0,0,0,,{\r}{\kf15}My{\kf15} wo{\kf15}-orld{\kf15} ex{\kf36}pands{\kf15} to{\kf15} a{\kf46} u{\kf36}ni{\kf51}verse
+Dialogue: 0,0:04:26.00,0:04:29.60,DEFAULT,,0,0,0,,{\r}{\kf18}Though{\kf36} I'll{\kf27} ne{\kf18}ver{\kf23} know{\kf14} what{\kf18} you{\kf32} see{\kf23} in{\kf151} me
+Dialogue: 0,0:04:30.46,0:04:33.01,DEFAULT,,0,0,0,,{\r}{\kf10}You're{\kf23} ta{\kf19}king{\kf51} me{\kf19} to{\kf14} an{\kf32}o{\kf28}ther{\kf59} place
+Dialogue: 0,0:04:33.12,0:04:36.76,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf22} I{\kf44} ne{\kf18}ver{\kf18} e{\kf18}ven{\kf31} said{\kf26} my{\kf26} good{\kf148}byes
+Dialogue: 0,0:04:37.51,0:04:40.06,DEFAULT,,0,0,0,,{\r}{\kf20}My{\kf10} wo{\kf15}-orld{\kf15} ex{\kf49}pands{\kf15} to{\kf10} a{\kf54} u{\kf25}ni{\kf42}verse
+Dialogue: 0,0:04:40.40,0:04:43.74,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf10} the{\kf33} light{\kf10} of{\kf33} stars{\kf14} ref{\kf28}lects{\kf19} in{\kf14} my{\kf24}-y{\kf135} eyes
+Dialogue: 0,0:04:44.64,0:04:47.23,DEFAULT,,0,0,0,,{\r}{\kf18}You're{\kf22} tak{\kf18}ing{\kf45} me{\kf31} to{\kf10} a{\kf31} diff{\kf10}e{\kf31}rent{\kf43} time
+Dialogue: 0,0:04:47.34,0:04:50.60,DEFAULT,,0,0,0,,{\r}{\kf10}Where{\kf28} my{\kf60} doubts{\kf10} and{\kf32} fears{\kf10} are{\kf23} not{\kf28} to{\kf23} be{\kf102} found
+Dialogue: 0,0:04:51.09,0:04:54.31,DEFAULT,,0,0,0,,{\r}{\kf45}My{\kf27} wo{\kf23}-orld{\kf18} ex{\kf54}pands{\kf10} and{\kf14} I{\kf59} fe{\kf18}-el{\kf14} a{\kf40}live
+Dialogue: 0,0:04:54.46,0:04:57.35,DEFAULT,,0,0,0,,{\r}{\kf14}As{\kf23} my{\kf46} bo{\kf18}dy{\kf14} and{\kf14} my{\kf32} soul{\kf28} leave{\kf18} the{\kf82} ground
+Dialogue: 0,0:04:57.76,0:05:00.65,DEFAULT,,0,0,0,,{\r}{\kf32}Oh{\kf24} uh{\kf233} woah

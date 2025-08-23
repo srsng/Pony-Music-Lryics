@@ -1,87 +1,94 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Canción de la cafeteria
+Artist: Equestria Girls
+Original Timing: mylittlekaraoke.com by Tom, Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:30.74,0:00:33.19,DEFAULT,,0,0,0,,{\kf34}¡Hey!{\kf31} ¡Hey!{\kf21} ¡To{\kf21}do el{\kf27} mun{\kf27}do!
-Dialogue: 0,0:00:33.52,0:00:35.50,DEFAULT,,0,0,0,,{\kf21}Nos{\kf21} tie{\kf27}nen{\kf27} que es{\kf14}cu{\kf27}char{\kf17}~
-Dialogue: 0,0:00:35.67,0:00:38.08,DEFAULT,,0,0,0,,{\kf27}So{\kf24}mos{\kf21} di{\kf14}fe{\kf27}ren{\kf27}tes
-Dialogue: 0,0:00:38.42,0:00:40.30,DEFAULT,,0,0,0,,{\kf17}Co{\kf11}mo{\kf14} no{\kf24}che al{\kf24} dí{\kf21}a i{\kf31}gual
-Dialogue: 0,0:00:40.84,0:00:42.95,DEFAULT,,0,0,0,,{\kf17}Pe{\kf14}ro{\kf11} ve un{\kf14} po{\kf17}co{\kf14} más{\kf21} cer{\kf58}ca{\kf24}~
-Dialogue: 0,0:00:43.32,0:00:44.46,DEFAULT,,0,0,0,,{\kf21}Y{\kf21} tu{\kf24} ve{\kf24}rás
-Dialogue: 0,0:00:44.80,0:00:47.14,DEFAULT,,0,0,0,,{\kf21}Que{\kf34} soy{\kf34} co{\kf44}mo{\kf21} tú{\kf21}~
-Dialogue: 0,0:00:47.28,0:00:50.16,DEFAULT,,0,0,0,,{\kf21}Y{\kf27} tú i{\kf27}gual{\kf27} a{\kf21}~{\kf24} mi{\kf27}~{\kf37} ¡Mas!
-Dialogue: 0,0:00:55.03,0:00:57.21,DEFAULT,,0,0,0,,{\kf27}¡Hey!{\kf34} ¡Hey!{\kf27} ¡To{\kf21}do el{\kf27} mun{\kf21}do!
-Dialogue: 0,0:00:57.48,0:00:58.62,DEFAULT,,0,0,0,,{\kf21}Es{\kf21}cu{\kf14}chen{\kf31} ya
-Dialogue: 0,0:00:58.82,0:01:01.51,DEFAULT,,0,0,0,,{\kf21}Que{\kf14} tra{\kf17}e{\kf21}mos{\kf41} la{\kf21} Ma{\kf27}gia{\kf14} de{\kf27} la
-Dialogue: 0,0:01:01.77,0:01:02.91,DEFAULT,,0,0,0,,{\kf21}De{\kf21} la A{\kf14}mis{\kf31}tad
-Dialogue: 0,0:01:03.12,0:01:05.20,DEFAULT,,0,0,0,,{\kf24}Pues{\kf17} so{\kf21}mos{\kf21} di{\kf44}fe{\kf24}ren{\kf21}tes
-Dialogue: 0,0:01:05.33,0:01:07.14,DEFAULT,,0,0,0,,{\kf21}Co{\kf14}mo{\kf24} no{\kf21}che al{\kf24} dí{\kf14}a i{\kf24}gual
-Dialogue: 0,0:01:07.44,0:01:09.46,DEFAULT,,0,0,0,,{\kf21}Pe{\kf17}ro{\kf37} Twi{\kf41}light{\kf21} Spar{\kf14}kle
-Dialogue: 0,0:01:09.59,0:01:11.27,DEFAULT,,0,0,0,,{\kf21}Nos{\kf14} a{\kf17}yu{\kf21}da{\kf21}rá a{\kf21} cam{\kf14}biar
-Dialogue: 0,0:01:11.47,0:01:13.58,DEFAULT,,0,0,0,,{\kf17}A{\kf37} sal{\kf27}tar,{\kf27} bai{\kf27}lar
-Dialogue: 0,0:01:13.79,0:01:15.73,DEFAULT,,0,0,0,,{\kf27}Si{\kf21} nos{\kf21} quie{\kf21}res{\kf21} a{\kf14}yu{\kf27}dar
-Dialogue: 0,0:01:15.97,0:01:18.05,DEFAULT,,0,0,0,,{\kf24}A{\kf17} que{\kf34} Twi{\kf34}light{\kf21} ten{\kf21}ga
-Dialogue: 0,0:01:18.18,0:01:19.86,DEFAULT,,0,0,0,,{\kf14}Su{\kf17} co{\kf17}ro{\kf27}na{\kf24} una{\kf14} vez{\kf14} más
-Dialogue: 0,0:01:20.03,0:01:22.17,DEFAULT,,0,0,0,,{\kf17}A{\kf41} sal{\kf27}tar,{\kf37} bai{\kf27}lar
-Dialogue: 0,0:01:22.44,0:01:24.32,DEFAULT,,0,0,0,,{\kf21}Es{\kf21}to{\kf27} fuer{\kf21}te{\kf21} so{\kf14}na{\kf27}rá
-Dialogue: 0,0:01:24.59,0:01:26.60,DEFAULT,,0,0,0,,{\kf21}Si{\kf21} jun{\kf34}tas{\kf41} es{\kf21}ta{\kf14}mos
-Dialogue: 0,0:01:26.74,0:01:29.19,DEFAULT,,0,0,0,,{\kf21}Twi{\kf21}light{\kf21} su{\kf14} co{\kf17}ro{\kf21}na al{\kf24} fin{\kf21} ten{\kf31}drá
-Dialogue: 0,0:01:29.42,0:01:31.27,DEFAULT,,0,0,0,,{\kf31}¡Ma{\kf27}nos{\kf21} su{\kf17}bi{\kf24}rán!
-Dialogue: 0,0:01:31.54,0:01:33.38,DEFAULT,,0,0,0,,{\kf14}Es{\kf7}to{\kf7} es{\kf7} un{\kf11} men{\kf17}sa{\kf21}je{\kf21} que{\kf21} ten{\kf21}drán
-Dialogue: 0,0:01:33.68,0:01:35.60,DEFAULT,,0,0,0,,{\kf27}Su{\kf21}bi{\kf31}rán,{\kf24} ba{\kf21}ja{\kf27}rán
-Dialogue: 0,0:01:35.86,0:01:37.74,DEFAULT,,0,0,0,,{\kf14}Si{\kf7} tú{\kf14} nos{\kf27} quie{\kf21}res{\kf21} a{\kf14}yu{\kf31}dar
-Dialogue: 0,0:01:37.91,0:01:38.82,DEFAULT,,0,0,0,,{\kf21}Ge{\kf14}ne{\kf14}ro{\kf14}si{\kf31}dad
-Dialogue: 0,0:01:39.02,0:01:39.82,DEFAULT,,0,0,0,,{\kf14}Ho{\kf21}nes{\kf17}ti{\kf27}dad
-Dialogue: 0,0:01:40.09,0:01:42.04,DEFAULT,,0,0,0,,{\kf21}Ri{\kf21}sa,{\kf27} ama{\kf21}ble,{\kf24} y{\kf27} leal{\kf34}tad
-Dialogue: 0,0:01:42.24,0:01:44.15,DEFAULT,,0,0,0,,{\kf24}Twi{\kf24}light{\kf21} nos{\kf24} ha{\kf24} he{\kf21}cho{\kf31} ver
-Dialogue: 0,0:01:44.45,0:01:45.60,DEFAULT,,0,0,0,,{\kf21}Que{\kf21} po{\kf21}de{\kf21}mos{\kf14} ser!
-Dialogue: 0,0:01:45.76,0:01:47.91,DEFAULT,,0,0,0,,{\kf21}A{\kf41} sal{\kf27}tar,{\kf34} bai{\kf34}lar
-Dialogue: 0,0:01:48.15,0:01:50.02,DEFAULT,,0,0,0,,{\kf21}Si{\kf21} nos{\kf21} quie{\kf14}res{\kf21} a{\kf21}yu{\kf31}dar
-Dialogue: 0,0:01:50.26,0:01:52.31,DEFAULT,,0,0,0,,{\kf21}A{\kf21} que{\kf41} Twi{\kf34}light{\kf27} ten{\kf14}ga
-Dialogue: 0,0:01:52.44,0:01:54.18,DEFAULT,,0,0,0,,{\kf21}Su{\kf21} co{\kf21}ro{\kf14}na{\kf27} una{\kf14} vez{\kf17} mas
-Dialogue: 0,0:01:54.32,0:01:56.53,DEFAULT,,0,0,0,,{\kf21}A{\kf47} sal{\kf27}tar,{\kf41} bai{\kf34}lar
-Dialogue: 0,0:01:56.70,0:01:58.58,DEFAULT,,0,0,0,,{\kf21}Es{\kf21}to{\kf21} fuer{\kf21}te{\kf21} so{\kf17}na{\kf27}rá
-Dialogue: 0,0:01:58.88,0:02:00.86,DEFAULT,,0,0,0,,{\kf21}Si{\kf21} jun{\kf34}tas{\kf44} es{\kf21}ta{\kf17}mos
-Dialogue: 0,0:02:01.06,0:02:03.48,DEFAULT,,0,0,0,,{\kf21}Twi{\kf21}light{\kf24} su{\kf21} co{\kf21}ro{\kf17}na{\kf11} al{\kf17} fin{\kf21} ten{\kf34}drá
-Dialogue: 0,0:02:03.95,0:02:05.76,DEFAULT,,0,0,0,,{\kf21}La{\kf21} mis{\kf21}ma{\kf21} voy{\kf21} a{\kf47} ser
-Dialogue: 0,0:02:06.10,0:02:07.98,DEFAULT,,0,0,0,,{\kf21}Pe{\kf27}ro{\kf21} no{\kf21} cam{\kf24}bia{\kf51}ré
-Dialogue: 0,0:02:08.21,0:02:09.89,DEFAULT,,0,0,0,,{\kf21}Si{\kf21} tú{\kf14} no e{\kf24}res{\kf21} i{\kf34}gual
-Dialogue: 0,0:02:10.16,0:02:12.17,DEFAULT,,0,0,0,,{\kf14}Sé{\kf17} fiel{\kf14} a{\kf21} ese{\kf11} que{\kf11} e{\kf14}res{\kf41} tú
-Dialogue: 0,0:02:12.57,0:02:14.02,DEFAULT,,0,0,0,,{\kf17}Si{\kf21} con{\kf21}migo{\kf21} es{\kf41}tás
-Dialogue: 0,0:02:14.12,0:02:16.57,DEFAULT,,0,0,0,,{\kf21}Las{\kf21} di{\kf21}fe{\kf24}ren{\kf21}cias{\kf24} se{\kf17} i{\kf27}rán{\kf27}~
-Dialogue: 0,0:02:16.83,0:02:18.11,DEFAULT,,0,0,0,,{\kf14}Jun{\kf27}tos{\kf21} i{\kf21}re{\kf21}mos
-Dialogue: 0,0:02:18.24,0:02:22.00,DEFAULT,,0,0,0,,{\kf14}Y{\kf27} la es{\kf21}cue{\kf21}la{\kf21} va{\kf21}mos{\kf24} a{\kf21} sal{\kf165}var
-Dialogue: 0,0:02:22.50,0:02:24.42,DEFAULT,,0,0,0,,{\kf41}Sal{\kf21}ta,{\kf24} y{\kf24} gri{\kf21}ta{\kf34} ya
-Dialogue: 0,0:02:24.55,0:02:24.85,DEFAULT,,0,0,0,,{\kf31}¡Hey!
-Dialogue: 0,0:02:25.12,0:02:27.03,DEFAULT,,0,0,0,,{\kf24}Cas{\kf21}cos{\kf41} ya,{\kf21} y a{\kf21} gi{\kf34}rar
-Dialogue: 0,0:02:27.27,0:02:29.08,DEFAULT,,0,0,0,,{\kf31}Haz{\kf17}lo{\kf17} hay{\kf21} que{\kf21} cam{\kf27}biar
-Dialogue: 0,0:02:29.42,0:02:30.79,DEFAULT,,0,0,0,,{\kf21}Pue{\kf17}des{\kf21} in{\kf17}ten{\kf34}tar
-Dialogue: 0,0:02:30.99,0:02:32.94,DEFAULT,,0,0,0,,{\kf44}Sal{\kf27}ta,{\kf17} y{\kf21} grita{\kf21}~{\kf34} ya
-Dialogue: 0,0:02:33.11,0:02:33.44,DEFAULT,,0,0,0,,{\kf34}¡Hey!
-Dialogue: 0,0:02:33.64,0:02:35.59,DEFAULT,,0,0,0,,{\kf21}Cas{\kf21}cos{\kf41} ya,{\kf24} y a{\kf24} gi{\kf31}rar
-Dialogue: 0,0:02:35.86,0:02:36.63,DEFAULT,,0,0,0,,{\kf21}Can{\kf17}ter{\kf27}lot
-Dialogue: 0,0:02:36.87,0:02:37.74,DEFAULT,,0,0,0,,{\kf27}Won{\kf21}der{\kf34}bolts
-Dialogue: 0,0:02:37.94,0:02:39.32,DEFAULT,,0,0,0,,{\kf21}¡E{\kf21}lla{\kf24} ga{\kf27}na{\kf24}rá!
-Dialogue: 0,0:02:39.62,0:02:41.56,DEFAULT,,0,0,0,,{\kf37}Sal{\kf24}ta,{\kf21} y{\kf21} gri{\kf17}ta{\kf37} ya!
-Dialogue: 0,0:02:41.73,0:02:41.97,DEFAULT,,0,0,0,,{\kf24}¡Hey!
-Dialogue: 0,0:02:42.23,0:02:44.11,DEFAULT,,0,0,0,,{\kf27}Cas{\kf21}cos{\kf34} ya,{\kf27} y a{\kf24} gi{\kf24}rar
-Dialogue: 0,0:02:44.42,0:02:46.26,DEFAULT,,0,0,0,,{\kf31}Haz{\kf17}lo,{\kf24} hay{\kf24} que{\kf24} cam{\kf27}biar
-Dialogue: 0,0:02:46.53,0:02:47.94,DEFAULT,,0,0,0,,{\kf21}Pue{\kf21}des{\kf24} in{\kf21}ten{\kf34}tar
-Dialogue: 0,0:02:48.14,0:02:50.09,DEFAULT,,0,0,0,,{\kf41}Sal{\kf21}ta,{\kf21} y{\kf21} gri{\kf17}ta{\kf31} ya!
-Dialogue: 0,0:02:50.29,0:02:50.56,DEFAULT,,0,0,0,,{\kf27}¡Hey!
-Dialogue: 0,0:02:50.76,0:02:52.67,DEFAULT,,0,0,0,,{\kf27}Cas{\kf21}cos{\kf41} ya,{\kf17} y a{\kf17} gi{\kf27}rar
-Dialogue: 0,0:02:52.97,0:02:53.84,DEFAULT,,0,0,0,,{\kf21}Can{\kf21}ter{\kf34}lot
-Dialogue: 0,0:02:54.05,0:02:54.85,DEFAULT,,0,0,0,,{\kf21}Won{\kf17}der{\kf31}bolts
-Dialogue: 0,0:02:55.05,0:02:56.43,DEFAULT,,0,0,0,,{\kf27}¡E{\kf21}lla{\kf24} ga{\kf17}na{\kf27}rá!
-Dialogue: 0,0:02:56.76,0:02:58.68,DEFAULT,,0,0,0,,{\kf37}Sal{\kf21}ta,{\kf24} y{\kf24} gri{\kf17}ta{\kf34} ya!
-Dialogue: 0,0:02:58.88,0:02:59.15,DEFAULT,,0,0,0,,{\kf27}¡Hey!
-Dialogue: 0,0:02:59.38,0:03:01.26,DEFAULT,,0,0,0,,{\kf24}Cas{\kf21}cos{\kf41} ya,{\kf21} y a{\kf21} gi{\kf24}rar
-Dialogue: 0,0:03:01.56,0:03:03.37,DEFAULT,,0,0,0,,{\kf34}Haz{\kf21}lo,{\kf21} hay{\kf21} que{\kf24} cam{\kf27}biar
-Dialogue: 0,0:03:03.64,0:03:05.12,DEFAULT,,0,0,0,,{\kf27}Pue{\kf21}des{\kf21} in{\kf21}ten{\kf37}tar
+Dialogue: 0,0:00:30.74,0:00:33.19,DEFAULT,,0,0,0,,{\r}{\kf52}¡Hey!{\kf47} ¡Hey!{\kf31} ¡To{\kf31}do el{\kf42} mun{\kf42}do!
+Dialogue: 0,0:00:33.53,0:00:35.51,DEFAULT,,0,0,0,,{\r}{\kf26}Nos{\kf26} tie{\kf35}nen{\kf35} que es{\kf18}cu{\kf35}char{\kf23}~
+Dialogue: 0,0:00:35.67,0:00:38.09,DEFAULT,,0,0,0,,{\r}{\kf47}So{\kf41}mos{\kf35} di{\kf24}fe{\kf47}ren{\kf48}tes
+Dialogue: 0,0:00:38.42,0:00:40.30,DEFAULT,,0,0,0,,{\r}{\kf23}Co{\kf14}mo{\kf18} no{\kf32}che al{\kf32} dí{\kf28}a i{\kf41}gual
+Dialogue: 0,0:00:40.84,0:00:42.95,DEFAULT,,0,0,0,,{\r}{\kf19}Pe{\kf15}ro{\kf12} ve un{\kf15} po{\kf19}co{\kf15} más{\kf23} cer{\kf65}ca{\kf28}~
+Dialogue: 0,0:00:43.32,0:00:44.46,DEFAULT,,0,0,0,,{\r}{\kf26}Y{\kf26} tu{\kf31} ve{\kf31}rás
+Dialogue: 0,0:00:44.80,0:00:47.15,DEFAULT,,0,0,0,,{\r}{\kf28}Que{\kf46} soy{\kf46} co{\kf60}mo{\kf28} tú{\kf27}~
+Dialogue: 0,0:00:47.28,0:00:50.17,DEFAULT,,0,0,0,,{\r}{\kf28}Y{\kf37} tú i{\kf37}gual{\kf37} a{\kf28}~{\kf33} mi{\kf37}~{\kf52} ¡Mas!
+Dialogue: 0,0:00:55.03,0:00:57.22,DEFAULT,,0,0,0,,{\r}{\kf38}¡Hey!{\kf47} ¡Hey!{\kf38} ¡To{\kf28}do el{\kf38} mun{\kf29}do!
+Dialogue: 0,0:00:57.48,0:00:58.62,DEFAULT,,0,0,0,,{\r}{\kf27}Es{\kf27}cu{\kf18}chen{\kf42} ya
+Dialogue: 0,0:00:58.83,0:01:01.51,DEFAULT,,0,0,0,,{\r}{\kf27}Que{\kf18} tra{\kf23}e{\kf27}mos{\kf55} la{\kf27} Ma{\kf36}gia{\kf18} de{\kf37} la
+Dialogue: 0,0:01:01.78,0:01:02.92,DEFAULT,,0,0,0,,{\r}{\kf27}De{\kf27} la A{\kf18}mis{\kf42}tad
+Dialogue: 0,0:01:03.12,0:01:05.20,DEFAULT,,0,0,0,,{\r}{\kf29}Pues{\kf21} so{\kf25}mos{\kf25} di{\kf54}fe{\kf29}ren{\kf25}tes
+Dialogue: 0,0:01:05.34,0:01:07.15,DEFAULT,,0,0,0,,{\r}{\kf26}Co{\kf18}mo{\kf31} no{\kf26}che al{\kf31} dí{\kf18}a i{\kf31}gual
+Dialogue: 0,0:01:07.45,0:01:09.46,DEFAULT,,0,0,0,,{\r}{\kf27}Pe{\kf23}ro{\kf50} Twi{\kf55}light{\kf27} Spar{\kf19}kle
+Dialogue: 0,0:01:09.60,0:01:11.27,DEFAULT,,0,0,0,,{\r}{\kf27}Nos{\kf18} a{\kf23}yu{\kf27}da{\kf27}rá a{\kf27} cam{\kf19}biar
+Dialogue: 0,0:01:11.48,0:01:13.59,DEFAULT,,0,0,0,,{\r}{\kf26}A{\kf58} sal{\kf42}tar,{\kf42} bai{\kf43}lar
+Dialogue: 0,0:01:13.79,0:01:15.74,DEFAULT,,0,0,0,,{\r}{\kf35}Si{\kf27} nos{\kf27} quie{\kf27}res{\kf27} a{\kf18}yu{\kf34}dar
+Dialogue: 0,0:01:15.97,0:01:18.05,DEFAULT,,0,0,0,,{\r}{\kf33}A{\kf24} que{\kf47} Twi{\kf47}light{\kf28} ten{\kf29}ga
+Dialogue: 0,0:01:18.19,0:01:19.86,DEFAULT,,0,0,0,,{\r}{\kf18}Su{\kf23} co{\kf23}ro{\kf36}na{\kf32} una{\kf18} vez{\kf18} más
+Dialogue: 0,0:01:20.03,0:01:22.18,DEFAULT,,0,0,0,,{\r}{\kf24}A{\kf59} sal{\kf39}tar,{\kf54} bai{\kf39}lar
+Dialogue: 0,0:01:22.45,0:01:24.33,DEFAULT,,0,0,0,,{\r}{\kf26}Es{\kf26}to{\kf34} fuer{\kf26}te{\kf26} so{\kf17}na{\kf33}rá
+Dialogue: 0,0:01:24.60,0:01:26.61,DEFAULT,,0,0,0,,{\r}{\kf27}Si{\kf27} jun{\kf46}tas{\kf55} es{\kf27}ta{\kf19}mos
+Dialogue: 0,0:01:26.74,0:01:29.19,DEFAULT,,0,0,0,,{\r}{\kf27}Twi{\kf27}light{\kf27} su{\kf18} co{\kf22}ro{\kf27}na al{\kf31} fin{\kf27} ten{\kf39}drá
+Dialogue: 0,0:01:29.43,0:01:31.27,DEFAULT,,0,0,0,,{\r}{\kf48}¡Ma{\kf42}nos{\kf32} su{\kf26}bi{\kf37}rán!
+Dialogue: 0,0:01:31.54,0:01:33.39,DEFAULT,,0,0,0,,{\r}{\kf18}Es{\kf10}to{\kf10} es{\kf10} un{\kf13} men{\kf22}sa{\kf26}je{\kf26} que{\kf26} ten{\kf24}drán
+Dialogue: 0,0:01:33.69,0:01:35.60,DEFAULT,,0,0,0,,{\r}{\kf35}Su{\kf26}bi{\kf39}rán,{\kf30} ba{\kf26}ja{\kf35}rán
+Dialogue: 0,0:01:35.87,0:01:37.75,DEFAULT,,0,0,0,,{\r}{\kf17}Si{\kf10} tú{\kf17} nos{\kf35} quie{\kf26}res{\kf26} a{\kf17}yu{\kf40}dar
+Dialogue: 0,0:01:37.92,0:01:38.82,DEFAULT,,0,0,0,,{\r}{\kf20}Ge{\kf13}ne{\kf13}ro{\kf13}si{\kf32}dad
+Dialogue: 0,0:01:39.02,0:01:39.83,DEFAULT,,0,0,0,,{\r}{\kf14}Ho{\kf21}nes{\kf18}ti{\kf28}dad
+Dialogue: 0,0:01:40.10,0:01:42.04,DEFAULT,,0,0,0,,{\r}{\kf23}Ri{\kf23}sa,{\kf31} ama{\kf23}ble,{\kf27} y{\kf31} leal{\kf37}tad
+Dialogue: 0,0:01:42.24,0:01:44.16,DEFAULT,,0,0,0,,{\r}{\kf27}Twi{\kf27}light{\kf23} nos{\kf27} ha{\kf27} he{\kf23}cho{\kf37} ver
+Dialogue: 0,0:01:44.46,0:01:45.60,DEFAULT,,0,0,0,,{\r}{\kf24}Que{\kf24} po{\kf24}de{\kf24}mos{\kf18} ser!
+Dialogue: 0,0:01:45.77,0:01:47.92,DEFAULT,,0,0,0,,{\r}{\kf28}A{\kf56} sal{\kf37}tar,{\kf47} bai{\kf47}lar
+Dialogue: 0,0:01:48.15,0:01:50.03,DEFAULT,,0,0,0,,{\r}{\kf26}Si{\kf26} nos{\kf26} quie{\kf17}res{\kf26} a{\kf26}yu{\kf41}dar
+Dialogue: 0,0:01:50.26,0:01:52.31,DEFAULT,,0,0,0,,{\r}{\kf27}A{\kf27} que{\kf53} Twi{\kf45}light{\kf36} ten{\kf17}ga
+Dialogue: 0,0:01:52.45,0:01:54.19,DEFAULT,,0,0,0,,{\r}{\kf27}Su{\kf27} co{\kf27}ro{\kf18}na{\kf36} una{\kf18} vez{\kf21} mas
+Dialogue: 0,0:01:54.32,0:01:56.54,DEFAULT,,0,0,0,,{\r}{\kf27}A{\kf62} sal{\kf35}tar,{\kf53} bai{\kf44}lar
+Dialogue: 0,0:01:56.71,0:01:58.59,DEFAULT,,0,0,0,,{\r}{\kf26}Es{\kf26}to{\kf26} fuer{\kf26}te{\kf26} so{\kf22}na{\kf36}rá
+Dialogue: 0,0:01:58.89,0:02:00.87,DEFAULT,,0,0,0,,{\r}{\kf26}Si{\kf26} jun{\kf43}tas{\kf56} es{\kf26}ta{\kf21}mos
+Dialogue: 0,0:02:01.07,0:02:03.48,DEFAULT,,0,0,0,,{\r}{\kf24}Twi{\kf24}light{\kf28} su{\kf24} co{\kf24}ro{\kf20}na{\kf12} al{\kf20} fin{\kf24} ten{\kf42}drá
+Dialogue: 0,0:02:03.95,0:02:05.77,DEFAULT,,0,0,0,,{\r}{\kf25}La{\kf25} mis{\kf25}ma{\kf25} voy{\kf25} a{\kf56} ser
+Dialogue: 0,0:02:06.10,0:02:07.98,DEFAULT,,0,0,0,,{\r}{\kf24}Pe{\kf31}ro{\kf24} no{\kf24} cam{\kf27}bia{\kf58}ré
+Dialogue: 0,0:02:08.22,0:02:09.89,DEFAULT,,0,0,0,,{\r}{\kf26}Si{\kf26} tú{\kf17} no e{\kf30}res{\kf26} i{\kf43}gual
+Dialogue: 0,0:02:10.16,0:02:12.17,DEFAULT,,0,0,0,,{\r}{\kf20}Sé{\kf25} fiel{\kf20} a{\kf29} ese{\kf15} que{\kf15} e{\kf20}res{\kf57} tú
+Dialogue: 0,0:02:12.58,0:02:14.02,DEFAULT,,0,0,0,,{\r}{\kf21}Si{\kf25} con{\kf25}migo{\kf25} es{\kf48}tás
+Dialogue: 0,0:02:14.12,0:02:16.57,DEFAULT,,0,0,0,,{\r}{\kf25}Las{\kf25} di{\kf25}fe{\kf29}ren{\kf25}cias{\kf29} se{\kf21} i{\kf33}rán{\kf33}~
+Dialogue: 0,0:02:16.84,0:02:18.11,DEFAULT,,0,0,0,,{\r}{\kf17}Jun{\kf34}tos{\kf26} i{\kf26}re{\kf25}mos
+Dialogue: 0,0:02:18.25,0:02:22.01,DEFAULT,,0,0,0,,{\r}{\kf15}Y{\kf31} la es{\kf23}cue{\kf23}la{\kf23} va{\kf23}mos{\kf27} a{\kf23} sal{\kf188}var
+Dialogue: 0,0:02:22.51,0:02:24.42,DEFAULT,,0,0,0,,{\r}{\kf48}Sal{\kf24}ta,{\kf28} y{\kf28} gri{\kf24}ta{\kf39} ya
+Dialogue: 0,0:02:24.56,0:02:24.86,DEFAULT,,0,0,0,,{\r}{\kf30}¡Hey!
+Dialogue: 0,0:02:25.13,0:02:27.04,DEFAULT,,0,0,0,,{\r}{\kf28}Cas{\kf24}cos{\kf49} ya,{\kf24} y a{\kf24} gi{\kf42}rar
+Dialogue: 0,0:02:27.27,0:02:29.09,DEFAULT,,0,0,0,,{\r}{\kf42}Haz{\kf23}lo{\kf23} hay{\kf28} que{\kf28} cam{\kf37}biar
+Dialogue: 0,0:02:29.42,0:02:30.80,DEFAULT,,0,0,0,,{\r}{\kf26}Pue{\kf22}des{\kf26} in{\kf22}ten{\kf42}tar
+Dialogue: 0,0:02:31.00,0:02:32.94,DEFAULT,,0,0,0,,{\r}{\kf53}Sal{\kf32}ta,{\kf20} y{\kf24} grita{\kf24}~{\kf42} ya
+Dialogue: 0,0:02:33.11,0:02:33.45,DEFAULT,,0,0,0,,{\r}{\kf34}¡Hey!
+Dialogue: 0,0:02:33.65,0:02:35.60,DEFAULT,,0,0,0,,{\r}{\kf25}Cas{\kf25}cos{\kf50} ya,{\kf29} y a{\kf29} gi{\kf37}rar
+Dialogue: 0,0:02:35.86,0:02:36.64,DEFAULT,,0,0,0,,{\r}{\kf24}Can{\kf20}ter{\kf33}lot
+Dialogue: 0,0:02:36.87,0:02:37.74,DEFAULT,,0,0,0,,{\r}{\kf29}Won{\kf22}der{\kf36}bolts
+Dialogue: 0,0:02:37.94,0:02:39.32,DEFAULT,,0,0,0,,{\r}{\kf24}¡E{\kf24}lla{\kf28} ga{\kf32}na{\kf30}rá!
+Dialogue: 0,0:02:39.62,0:02:41.57,DEFAULT,,0,0,0,,{\r}{\kf47}Sal{\kf30}ta,{\kf25} y{\kf25} gri{\kf21}ta{\kf47} ya!
+Dialogue: 0,0:02:41.74,0:02:41.97,DEFAULT,,0,0,0,,{\r}{\kf23}¡Hey!
+Dialogue: 0,0:02:42.24,0:02:44.12,DEFAULT,,0,0,0,,{\r}{\kf33}Cas{\kf25}cos{\kf41} ya,{\kf33} y a{\kf29} gi{\kf27}rar
+Dialogue: 0,0:02:44.42,0:02:46.27,DEFAULT,,0,0,0,,{\r}{\kf39}Haz{\kf22}lo,{\kf30} hay{\kf30} que{\kf30} cam{\kf34}biar
+Dialogue: 0,0:02:46.53,0:02:47.94,DEFAULT,,0,0,0,,{\r}{\kf24}Pue{\kf24}des{\kf28} in{\kf24}ten{\kf41}tar
+Dialogue: 0,0:02:48.14,0:02:50.09,DEFAULT,,0,0,0,,{\r}{\kf53}Sal{\kf27}ta,{\kf27} y{\kf27} gri{\kf22}ta{\kf39} ya!
+Dialogue: 0,0:02:50.29,0:02:50.56,DEFAULT,,0,0,0,,{\r}{\kf27}¡Hey!
+Dialogue: 0,0:02:50.76,0:02:52.67,DEFAULT,,0,0,0,,{\r}{\kf35}Cas{\kf26}cos{\kf52} ya,{\kf22} y a{\kf22} gi{\kf34}rar
+Dialogue: 0,0:02:52.98,0:02:53.85,DEFAULT,,0,0,0,,{\r}{\kf24}Can{\kf24}ter{\kf39}lot
+Dialogue: 0,0:02:54.05,0:02:54.86,DEFAULT,,0,0,0,,{\r}{\kf24}Won{\kf20}der{\kf37}bolts
+Dialogue: 0,0:02:55.06,0:02:56.43,DEFAULT,,0,0,0,,{\r}{\kf32}¡E{\kf24}lla{\kf28} ga{\kf20}na{\kf34}rá!
+Dialogue: 0,0:02:56.77,0:02:58.68,DEFAULT,,0,0,0,,{\r}{\kf46}Sal{\kf25}ta,{\kf29} y{\kf29} gri{\kf21}ta{\kf41} ya!
+Dialogue: 0,0:02:58.88,0:02:59.15,DEFAULT,,0,0,0,,{\r}{\kf27}¡Hey!
+Dialogue: 0,0:02:59.39,0:03:01.26,DEFAULT,,0,0,0,,{\r}{\kf30}Cas{\kf26}cos{\kf51} ya,{\kf26} y a{\kf26} gi{\kf29}rar
+Dialogue: 0,0:03:01.57,0:03:03.38,DEFAULT,,0,0,0,,{\r}{\kf42}Haz{\kf25}lo,{\kf25} hay{\kf25} que{\kf29} cam{\kf35}biar
+Dialogue: 0,0:03:03.65,0:03:05.12,DEFAULT,,0,0,0,,{\r}{\kf32}Pue{\kf24}des{\kf24} in{\kf24}ten{\kf44}tar

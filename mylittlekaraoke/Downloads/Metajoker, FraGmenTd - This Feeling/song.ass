@@ -1,62 +1,69 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: This Feeling (w/ FraGmenTd, ft. Josh Makosky)
+Artist: Metajoker
+Original Timing: mylittlekaraoke.com by lily
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:48.37,0:00:52.16,DEFAULT,,0,0,0,,{\kf4855}In{\kf4855} the{\kf4863} end,{\kf4850} it{\kf4855} was{\kf4871} ea{\kf4855}sy{\kf4855} for{\kf4859} my{\kf4859} life{\kf4850} to{\kf4867} break
-Dialogue: 0,0:00:56.29,0:01:00.37,DEFAULT,,0,0,0,,{\kf4863}E{\kf4859}very{\kf4859} choice{\kf4859} that{\kf4855} I{\kf4859} made{\kf4859} was{\kf4850} a{\kf4867}no{\kf4863}ther{\kf4859} mis{\kf4875}take
-Dialogue: 0,0:01:04.29,0:01:08.45,DEFAULT,,0,0,0,,{\kf4859}But{\kf4859} a{\kf4850} se{\kf4855}cond{\kf4871} chance{\kf4859} takes{\kf4863} all{\kf4850} the{\kf4871} world{\kf4846} for{\kf4846}~{\kf4855} a{\kf4884} turn
-Dialogue: 0,0:01:12.33,0:01:16.58,DEFAULT,,0,0,0,,{\kf4855}One{\kf4863} more{\kf4855} chance{\kf4850} to{\kf4863} en{\kf4863}trance{\kf4859} and{\kf4859} to{\kf4859} love{\kf4859} and{\kf4859} to{\kf4896} learn
-Dialogue: 0,0:01:19.66,0:01:23.37,DEFAULT,,0,0,0,,{\kf4859}And{\kf4892} woah{\kf4846}-oh{\kf4846}-oh{\kf4863}-woah{\kf4859}-oh,{\kf4850} the{\kf4867} world{\kf4859} will{\kf4859} be{\kf4875} free
-Dialogue: 0,0:01:23.66,0:01:27.50,DEFAULT,,0,0,0,,{\kf4859}And{\kf4925} woah{\kf4888}-oh,{\kf4863} you'll{\kf4850} be{\kf4846}~{\kf4855} with{\kf4888} me
-Dialogue: 0,0:01:28.00,0:01:31.41,DEFAULT,,0,0,0,,{\kf4859}I{\kf4855} used{\kf4863} to{\kf4863} won{\kf4859}der{\kf4850} what{\kf4871} friend{\kf4859}ship{\kf4859} could{\kf4880} be
-Dialogue: 0,0:01:31.70,0:01:37.33,DEFAULT,,0,0,0,,{\kf4855}Now{\kf4859} you're{\kf4859} here{\kf4850} to{\kf4863} share{\kf4867} it{\kf4855} with{\kf5025} me{\kf4930}-e{\kf4871}-e
-Dialogue: 0,0:01:37.83,0:01:41.29,DEFAULT,,0,0,0,,{\kf4846}This{\kf4863} fee{\kf4863}ling{\kf4855} is{\kf4863} tak{\kf4859}ing{\kf4859} me{\kf4896} o{\kf4863}~{\kf4867}ver
-Dialogue: 0,0:01:41.66,0:01:45.33,DEFAULT,,0,0,0,,{\kf4859}This{\kf4863} fee{\kf4859}ling{\kf4850} that{\kf4867} I{\kf4859} can't{\kf4850} de{\kf4984}ny
-Dialogue: 0,0:01:45.83,0:01:49.37,DEFAULT,,0,0,0,,{\kf4846}'Cause{\kf4863} through{\kf4859} all{\kf4850} the{\kf4859} pain{\kf4850}~{\kf4859} and{\kf4863} the{\kf4859} crip{\kf4850}~{\kf4871}pling{\kf4875} loss
-Dialogue: 0,0:01:49.83,0:01:53.41,DEFAULT,,0,0,0,,{\kf4846}It's{\kf4863} so{\kf4859} good{\kf4850} to{\kf4867} know{\kf4859} I'm{\kf4863} a{\kf4980}live
-Dialogue: 0,0:01:53.87,0:01:57.50,DEFAULT,,0,0,0,,{\kf4846}And{\kf4859} I{\kf4859} won't{\kf4850} give{\kf4855} in{\kf4859} to{\kf4859} the{\kf4880} sor{\kf4880}~{\kf4846}row{\kf4846}~{\kf4863}~
-Dialogue: 0,0:01:57.87,0:02:00.50,DEFAULT,,0,0,0,,{\kf4846}And{\kf4859} I{\kf4846} will{\kf4850}~{\kf4859} not{\kf4859} rest{\kf4850} till{\kf4846}~{\kf4850} I've{\kf4850} won{\kf4863}~
-Dialogue: 0,0:02:01.66,0:02:08.08,DEFAULT,,0,0,0,,{\kf4855}And{\kf4859} I'll{\kf4859} make{\kf4850} a{\kf4880} brigh{\kf4863}ter{\kf4863} to{\kf4855}mor{\kf4855}~{\kf4875}~{\kf4996}ro{\kf4863}-o{\kf4946}-ow
-Dialogue: 0,0:02:08.66,0:02:11.70,DEFAULT,,0,0,0,,{\kf4855}And{\kf4863} give{\kf4863} you{\kf4850} the{\kf4871} world{\kf4863} when{\kf4859} I'm{\kf4905} done
-Dialogue: 0,0:02:12.33,0:02:15.62,DEFAULT,,0,0,0,,{\kf4859}And{\kf4859} I'll{\kf4871} leave{\kf4846} you{\kf4855}~{\kf4846} the{\kf4863} world{\kf4863} when{\kf4863} I'm{\kf4900} done
-Dialogue: 0,0:02:23.33,0:02:27.83,DEFAULT,,0,0,0,,{\kf4863}Bro{\kf4863}ken{\kf4863} hearts{\kf4863} can{\kf4863} re{\kf4855}start,{\kf4859} see{\kf4850} the{\kf4867} light{\kf4863} in{\kf4855} the{\kf4921} skies
-Dialogue: 0,0:02:31.33,0:02:35.87,DEFAULT,,0,0,0,,{\kf4863}Look{\kf4850}ing{\kf4859} in{\kf4850}to{\kf4850} the{\kf4871} truth{\kf4859} in{\kf4846} the{\kf4863} depths{\kf4859} of{\kf4863} your{\kf4925} eyes
-Dialogue: 0,0:02:39.33,0:02:43.66,DEFAULT,,0,0,0,,{\kf4863}No{\kf4863} more{\kf4863} sor{\kf4859}row{\kf4846} ar{\kf4850}ri{\kf4855}~{\kf4846}ving{\kf4850}~{\kf4855} at{\kf4859} some{\kf4859} bet{\kf4855}ter{\kf4905} place
-Dialogue: 0,0:02:47.33,0:02:51.91,DEFAULT,,0,0,0,,{\kf4863}Find{\kf4859}ing{\kf4863} home{\kf4859} in{\kf4846} the{\kf4871} heart{\kf4859} and{\kf4859} the{\kf4863} smile{\kf4859} on{\kf4859} your{\kf4930} face
-Dialogue: 0,0:02:54.66,0:02:58.45,DEFAULT,,0,0,0,,{\kf4855}And{\kf4921} woah{\kf4859}-oh{\kf4863}-oh,{\kf4850} the{\kf4871} world{\kf4863} will{\kf4863} be{\kf4880} free
-Dialogue: 0,0:02:58.66,0:03:02.66,DEFAULT,,0,0,0,,{\kf4855}And{\kf4867} woah{\kf4846}-oh{\kf4875}-oh{\kf4846}-woah{\kf4884}-oh,{\kf4863} you'll{\kf4846} be{\kf4846}~{\kf4859} with{\kf4905} me
-Dialogue: 0,0:03:03.00,0:03:06.45,DEFAULT,,0,0,0,,{\kf4859}I{\kf4863} used{\kf4863} to{\kf4859} won{\kf4859}der{\kf4850} what{\kf4867} my{\kf4863} life{\kf4859} could{\kf4884} be
-Dialogue: 0,0:03:06.66,0:03:12.33,DEFAULT,,0,0,0,,{\kf4863}Now{\kf4863} you're{\kf4859} here{\kf4850} to{\kf4859} share{\kf4867} it{\kf4855} with{\kf5030} me{\kf4930}~{\kf4871}~
-Dialogue: 0,0:03:12.83,0:03:16.37,DEFAULT,,0,0,0,,{\kf4846}This{\kf4863} fee{\kf4863}ling{\kf4859} is{\kf4859} tak{\kf4859}ing{\kf4859} me{\kf4880} o{\kf4880}~{\kf4846}ver{\kf4846}~{\kf4850}~
-Dialogue: 0,0:03:16.66,0:03:20.16,DEFAULT,,0,0,0,,{\kf4863}This{\kf4863} fee{\kf4859}ling{\kf4850} that{\kf4867} I{\kf4859} can't{\kf4850} de{\kf4967}ny
-Dialogue: 0,0:03:20.66,0:03:24.41,DEFAULT,,0,0,0,,{\kf4855}'Cause{\kf4859} through{\kf4863} all{\kf4846} the{\kf4875} pain{\kf4859} and{\kf4859} the{\kf4859} crip{\kf4850}~{\kf4867}pling{\kf4880} loss
-Dialogue: 0,0:03:24.83,0:03:28.20,DEFAULT,,0,0,0,,{\kf4846}It's{\kf4859} so{\kf4859} good{\kf4850} to{\kf4846} know{\kf4863}~{\kf4846} I'm{\kf4850}~{\kf4846} a{\kf4846}live{\kf4959}~
-Dialogue: 0,0:03:28.83,0:03:32.37,DEFAULT,,0,0,0,,{\kf4846}And{\kf4863} I{\kf4859} won't{\kf4846} give{\kf4863} in{\kf4863} to{\kf4846} the{\kf4896} sor{\kf4871}~{\kf4846}row{\kf4846}~{\kf4855}~
-Dialogue: 0,0:03:32.66,0:03:35.54,DEFAULT,,0,0,0,,{\kf4855}And{\kf4859} I{\kf4846} will{\kf4850}~{\kf4859} not{\kf4859} rest{\kf4850} till{\kf4846}~{\kf4846} I've{\kf4846}~{\kf4892} won
-Dialogue: 0,0:03:36.70,0:03:43.08,DEFAULT,,0,0,0,,{\kf4855}And{\kf4863} I'll{\kf4863} make{\kf4850} a{\kf4871} brigh{\kf4855}ter{\kf4850} to{\kf4880}mor{\kf4863}~{\kf4867}~{\kf4992}ro{\kf4863}-o{\kf4946}-ow
-Dialogue: 0,0:03:43.66,0:03:46.66,DEFAULT,,0,0,0,,{\kf4855}And{\kf4863} give{\kf4863} you{\kf4846} the{\kf4875} world{\kf4863} when{\kf4863} I'm{\kf4905} done
-Dialogue: 0,0:03:47.33,0:03:50.66,DEFAULT,,0,0,0,,{\kf4859}And{\kf4859} I'll{\kf4875} leave{\kf4859} you{\kf4846} the{\kf4863} world{\kf4863} when{\kf4863} I'm{\kf4900} done
-Dialogue: 0,0:04:22.08,0:04:29.66,DEFAULT,,0,0,0,,{\kf4955}Ah,{\kf4863} ah{\kf4863}-ah{\kf4959}-ah,{\kf4863} ah{\kf4863}-ah{\kf4930}-ah,{\kf4892} ah,{\kf4867} ah{\kf5005}-ah
-Dialogue: 0,0:04:30.08,0:04:37.66,DEFAULT,,0,0,0,,{\kf4955}Ah,{\kf4863} ah{\kf4863}-ah{\kf4963}-ah,{\kf4863} ah{\kf4863}-ah{\kf4963}-ah,{\kf4863} ah{\kf4863}-ah{\kf4930}-ah,{\kf4905} ah
-Dialogue: 0,0:04:38.00,0:04:45.70,DEFAULT,,0,0,0,,{\kf4884}Ah{\kf4875}-ah{\kf4892}-ah,{\kf4863} ah{\kf4930}-ah,{\kf4930} ah,{\kf4875} ah{\kf4880}-ah{\kf4896}-ah{\kf4867}-ah{\kf4930}-ah,{\kf4871} ah{\kf4863}-ah
-Dialogue: 0,0:04:46.00,0:04:53.45,DEFAULT,,0,0,0,,{\kf4880}Ah,{\kf4880} ah{\kf4896}-ah,{\kf4867} ah{\kf4892}-ah,{\kf4867} ah{\kf4892}-ah,{\kf4863} ah{\kf4934}-ah,{\kf4925} ah,{\kf4930} ah,{\kf4884} ah
-Dialogue: 0,0:04:53.66,0:04:57.45,DEFAULT,,0,0,0,,{\kf4859}This{\kf4863} fee{\kf4863}ling{\kf4855} is{\kf4863} tak{\kf4855}ing{\kf4863} me{\kf4880} o{\kf4875}~{\kf4855}ver{\kf4855}~
-Dialogue: 0,0:04:57.66,0:05:01.29,DEFAULT,,0,0,0,,{\kf4859}This{\kf4863} fee{\kf4859}ling{\kf4846} that{\kf4875} I{\kf4863} will{\kf4863} be{\kf4963} free
-Dialogue: 0,0:05:01.66,0:05:05.45,DEFAULT,,0,0,0,,{\kf4859}'Cause{\kf4859} through{\kf4863} all{\kf4846} the{\kf4880} pain{\kf4863} and{\kf4863} the{\kf4863} weight{\kf4846} of{\kf4846}~{\kf4850} the{\kf4892} world
-Dialogue: 0,0:05:05.83,0:05:09.29,DEFAULT,,0,0,0,,{\kf4846}It's{\kf4863} so{\kf4863} good{\kf4863} to{\kf4846} know{\kf4846}~{\kf4846} you're{\kf4846}~{\kf4855} with{\kf4846} me{\kf4950}~
-Dialogue: 0,0:05:09.75,0:05:13.37,DEFAULT,,0,0,0,,{\kf4855}This{\kf4863} fee{\kf4863}ling{\kf4846} is{\kf4871} tak{\kf4846}ing{\kf4875} me{\kf4888} o{\kf4871}~{\kf4846}ver{\kf4846}~{\kf4850}~
-Dialogue: 0,0:05:13.66,0:05:17.16,DEFAULT,,0,0,0,,{\kf4863}This{\kf4863} fee{\kf4863}ling{\kf4850} that{\kf4867} I{\kf4863} can't{\kf4850} de{\kf4963}ny
-Dialogue: 0,0:05:17.83,0:05:21.41,DEFAULT,,0,0,0,,{\kf4846}'Cause{\kf4863} through{\kf4863} all{\kf4846} the{\kf4875} pain{\kf4846} and{\kf4846}~{\kf4859} the{\kf4859} crip{\kf4850}~{\kf4867}pling{\kf4880} loss
-Dialogue: 0,0:05:21.83,0:05:25.25,DEFAULT,,0,0,0,,{\kf4846}It's{\kf4863} so{\kf4863} good{\kf4850} to{\kf4846} know{\kf4863}~{\kf4846} I'm{\kf4846}~{\kf4846} a{\kf4846}live{\kf4963}~
-Dialogue: 0,0:05:25.83,0:05:29.37,DEFAULT,,0,0,0,,{\kf4846}And{\kf4863} I{\kf4855} won't{\kf4846} give{\kf4859} in{\kf4850} to{\kf4871} the{\kf4896} sor{\kf4863}~{\kf4846}row{\kf4846}~{\kf4850}~
-Dialogue: 0,0:05:29.66,0:05:32.54,DEFAULT,,0,0,0,,{\kf4863}And{\kf4863} I{\kf4846} will{\kf4846}~{\kf4855} not{\kf4855} rest{\kf4846} till{\kf4846}~{\kf4855} I've{\kf4884} won
-Dialogue: 0,0:05:33.66,0:05:37.62,DEFAULT,,0,0,0,,{\kf4850}And{\kf4863} I'll{\kf4863} make{\kf4846} a{\kf4855} brigh{\kf4855}~{\kf4855}ter{\kf4859} to{\kf4863}mor{\kf4846}~{\kf4880}~{\kf4900}row
-Dialogue: 0,0:05:37.83,0:05:40.91,DEFAULT,,0,0,0,,{\kf4846}And{\kf4859} give{\kf4850} you{\kf4846}~{\kf4850} the{\kf4875} world{\kf4850} when{\kf4871} I'm{\kf4925} done
-Dialogue: 0,0:05:41.33,0:05:46.66,DEFAULT,,0,0,0,,{\kf4859}And{\kf4859} I'll{\kf4963} leave{\kf4859} you{\kf4859} the{\kf4938} world{\kf4863} when{\kf4863} I'm{\kf4905} done
+Dialogue: 0,0:00:48.38,0:00:52.17,DEFAULT,,0,0,0,,{\r}{\kf27}In{\kf27} the{\kf40} end,{\kf20} it{\kf27} was{\kf53} ea{\kf27}sy{\kf27} for{\kf33} my{\kf33} life{\kf20} to{\kf45} break
+Dialogue: 0,0:00:56.29,0:01:00.38,DEFAULT,,0,0,0,,{\r}{\kf38}E{\kf31}very{\kf31} choice{\kf31} that{\kf25} I{\kf31} made{\kf31} was{\kf19} a{\kf44}no{\kf38}ther{\kf31} mis{\kf58}take
+Dialogue: 0,0:01:04.29,0:01:08.46,DEFAULT,,0,0,0,,{\r}{\kf32}But{\kf32} a{\kf19} se{\kf25}cond{\kf51} chance{\kf32} takes{\kf38} all{\kf19} the{\kf51} world{\kf13} for{\kf13}~{\kf25} a{\kf67} turn
+Dialogue: 0,0:01:12.33,0:01:16.58,DEFAULT,,0,0,0,,{\r}{\kf25}One{\kf38} more{\kf25} chance{\kf19} to{\kf38} en{\kf38}trance{\kf31} and{\kf31} to{\kf31} love{\kf31} and{\kf31} to{\kf87} learn
+Dialogue: 0,0:01:19.67,0:01:23.38,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf78} woah{\kf12}-oh{\kf12}-oh{\kf36}-woah{\kf30}-oh,{\kf18} the{\kf42} world{\kf30} will{\kf30} be{\kf53} free
+Dialogue: 0,0:01:23.67,0:01:27.50,DEFAULT,,0,0,0,,{\r}{\kf29}And{\kf124} woah{\kf71}-oh,{\kf35} you'll{\kf18} be{\kf12}~{\kf24} with{\kf70} me
+Dialogue: 0,0:01:28.00,0:01:31.42,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf24} used{\kf36} to{\kf36} won{\kf30}der{\kf18} what{\kf48} friend{\kf30}ship{\kf30} could{\kf60} be
+Dialogue: 0,0:01:31.71,0:01:37.33,DEFAULT,,0,0,0,,{\r}{\kf21}Now{\kf26} you're{\kf26} here{\kf15} to{\kf31} share{\kf36} it{\kf21} with{\kf232} me{\kf113}-e{\kf41}-e
+Dialogue: 0,0:01:37.83,0:01:41.29,DEFAULT,,0,0,0,,{\r}{\kf11}This{\kf34} fee{\kf34}ling{\kf23} is{\kf34} tak{\kf28}ing{\kf28} me{\kf79} o{\kf34}~{\kf41}ver
+Dialogue: 0,0:01:41.67,0:01:45.33,DEFAULT,,0,0,0,,{\r}{\kf27}This{\kf32} fee{\kf27}ling{\kf16} that{\kf37} I{\kf27} can't{\kf16} de{\kf185}ny
+Dialogue: 0,0:01:45.83,0:01:49.38,DEFAULT,,0,0,0,,{\r}{\kf12}'Cause{\kf35} through{\kf30} all{\kf18} the{\kf30} pain{\kf18}~{\kf30} and{\kf35} the{\kf30} crip{\kf18}~{\kf47}pling{\kf51} loss
+Dialogue: 0,0:01:49.83,0:01:53.42,DEFAULT,,0,0,0,,{\r}{\kf11}It's{\kf32} so{\kf26} good{\kf16} to{\kf37} know{\kf26} I'm{\kf32} a{\kf178}live
+Dialogue: 0,0:01:53.88,0:01:57.50,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf31} I{\kf31} won't{\kf18} give{\kf25} in{\kf31} to{\kf31} the{\kf61} sor{\kf61}~{\kf12}row{\kf12}~{\kf37}~
+Dialogue: 0,0:01:57.88,0:02:00.50,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf34} I{\kf13} will{\kf20}~{\kf34} not{\kf34} rest{\kf20} till{\kf13}~{\kf20} I've{\kf20} won{\kf41}~
+Dialogue: 0,0:02:01.67,0:02:08.08,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf25} I'll{\kf25} make{\kf15} a{\kf51} brigh{\kf31}ter{\kf31} to{\kf20}mor{\kf20}~{\kf46}~{\kf194}ro{\kf31}-o{\kf133}-ow
+Dialogue: 0,0:02:08.67,0:02:11.71,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf34} give{\kf34} you{\kf17} the{\kf45} world{\kf34} when{\kf28} I'm{\kf89} done
+Dialogue: 0,0:02:12.33,0:02:15.62,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf28} I'll{\kf45} leave{\kf11} you{\kf22}~{\kf11} the{\kf33} world{\kf33} when{\kf33} I'm{\kf85} done
+Dialogue: 0,0:02:23.33,0:02:27.83,DEFAULT,,0,0,0,,{\r}{\kf34}Bro{\kf34}ken{\kf34} hearts{\kf34} can{\kf34} re{\kf23}start,{\kf28} see{\kf17} the{\kf40} light{\kf34} in{\kf23} the{\kf115} skies
+Dialogue: 0,0:02:31.33,0:02:35.88,DEFAULT,,0,0,0,,{\r}{\kf37}Look{\kf19}ing{\kf31} in{\kf19}to{\kf19} the{\kf50} truth{\kf31} in{\kf12} the{\kf37} depths{\kf31} of{\kf37} your{\kf131} eyes
+Dialogue: 0,0:02:39.33,0:02:43.67,DEFAULT,,0,0,0,,{\r}{\kf37}No{\kf37} more{\kf37} sor{\kf30}row{\kf12} ar{\kf18}ri{\kf24}~{\kf12}ving{\kf18}~{\kf24} at{\kf30} some{\kf30} bet{\kf24}ter{\kf100} place
+Dialogue: 0,0:02:47.33,0:02:51.92,DEFAULT,,0,0,0,,{\r}{\kf34}Find{\kf29}ing{\kf34} home{\kf29} in{\kf11} the{\kf46} heart{\kf29} and{\kf29} the{\kf34} smile{\kf29} on{\kf29} your{\kf125} face
+Dialogue: 0,0:02:54.67,0:02:58.46,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf111} woah{\kf28}-oh{\kf33}-oh,{\kf17} the{\kf45} world{\kf33} will{\kf33} be{\kf57} free
+Dialogue: 0,0:02:58.67,0:03:02.67,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf42} woah{\kf12}-oh{\kf55}-oh{\kf12}-woah{\kf67}-oh,{\kf36} you'll{\kf12} be{\kf12}~{\kf30} with{\kf98} me
+Dialogue: 0,0:03:03.00,0:03:06.46,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf35} used{\kf35} to{\kf29} won{\kf29}der{\kf18} what{\kf41} my{\kf35} life{\kf29} could{\kf66} be
+Dialogue: 0,0:03:06.67,0:03:12.33,DEFAULT,,0,0,0,,{\r}{\kf30}Now{\kf30} you're{\kf25} here{\kf15} to{\kf25} share{\kf35} it{\kf20} with{\kf233} me{\kf111}~{\kf43}~
+Dialogue: 0,0:03:12.83,0:03:16.38,DEFAULT,,0,0,0,,{\r}{\kf12}This{\kf35} fee{\kf35}ling{\kf29} is{\kf29} tak{\kf29}ing{\kf29} me{\kf58} o{\kf58}~{\kf12}ver{\kf12}~{\kf16}~
+Dialogue: 0,0:03:16.67,0:03:20.17,DEFAULT,,0,0,0,,{\r}{\kf32}This{\kf32} fee{\kf27}ling{\kf16} that{\kf37} I{\kf27} can't{\kf16} de{\kf163}ny
+Dialogue: 0,0:03:20.67,0:03:24.42,DEFAULT,,0,0,0,,{\r}{\kf25}'Cause{\kf31} through{\kf37} all{\kf12} the{\kf55} pain{\kf31} and{\kf31} the{\kf31} crip{\kf18}~{\kf43}pling{\kf61} loss
+Dialogue: 0,0:03:24.83,0:03:28.21,DEFAULT,,0,0,0,,{\r}{\kf11}It's{\kf28} so{\kf28} good{\kf17} to{\kf11} know{\kf33}~{\kf11} I'm{\kf17}~{\kf11} a{\kf11}live{\kf160}~
+Dialogue: 0,0:03:28.83,0:03:32.38,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf36} I{\kf30} won't{\kf12} give{\kf36} in{\kf36} to{\kf12} the{\kf84} sor{\kf48}~{\kf12}row{\kf12}~{\kf24}~
+Dialogue: 0,0:03:32.67,0:03:35.54,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf31} I{\kf13} will{\kf19}~{\kf31} not{\kf31} rest{\kf19} till{\kf13}~{\kf13} I've{\kf13}~{\kf80} won
+Dialogue: 0,0:03:36.71,0:03:43.08,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf30} I'll{\kf30} make{\kf15} a{\kf41} brigh{\kf20}ter{\kf15} to{\kf51}mor{\kf30}~{\kf35}~{\kf187}ro{\kf30}-o{\kf134}-ow
+Dialogue: 0,0:03:43.67,0:03:46.67,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf33} give{\kf33} you{\kf11} the{\kf49} world{\kf33} when{\kf33} I'm{\kf86} done
+Dialogue: 0,0:03:47.33,0:03:50.67,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf28} I'll{\kf51} leave{\kf28} you{\kf11} the{\kf34} world{\kf34} when{\kf34} I'm{\kf85} done
+Dialogue: 0,0:04:22.08,0:04:29.67,DEFAULT,,0,0,0,,{\r}{\kf130}Ah,{\kf28} ah{\kf28}-ah{\kf135}-ah,{\kf28} ah{\kf28}-ah{\kf102}-ah,{\kf60} ah,{\kf33} ah{\kf186}-ah
+Dialogue: 0,0:04:30.08,0:04:37.67,DEFAULT,,0,0,0,,{\r}{\kf131}Ah,{\kf28} ah{\kf28}-ah{\kf140}-ah,{\kf28} ah{\kf28}-ah{\kf140}-ah,{\kf28} ah{\kf28}-ah{\kf103}-ah,{\kf76} ah
+Dialogue: 0,0:04:38.00,0:04:45.71,DEFAULT,,0,0,0,,{\r}{\kf53}Ah{\kf44}-ah{\kf63}-ah,{\kf29} ah{\kf107}-ah,{\kf107} ah,{\kf44} ah{\kf48}-ah{\kf68}-ah{\kf34}-ah{\kf107}-ah,{\kf39} ah{\kf28}-ah
+Dialogue: 0,0:04:46.00,0:04:53.46,DEFAULT,,0,0,0,,{\r}{\kf48}Ah,{\kf48} ah{\kf67}-ah,{\kf33} ah{\kf62}-ah,{\kf33} ah{\kf62}-ah,{\kf29} ah{\kf109}-ah,{\kf100} ah,{\kf105} ah,{\kf50} ah
+Dialogue: 0,0:04:53.67,0:04:57.46,DEFAULT,,0,0,0,,{\r}{\kf30}This{\kf36} fee{\kf36}ling{\kf24} is{\kf36} tak{\kf24}ing{\kf36} me{\kf59} o{\kf53}~{\kf24}ver{\kf21}~
+Dialogue: 0,0:04:57.67,0:05:01.29,DEFAULT,,0,0,0,,{\r}{\kf26}This{\kf31} fee{\kf26}ling{\kf10} that{\kf47} I{\kf31} will{\kf31} be{\kf160} free
+Dialogue: 0,0:05:01.67,0:05:05.46,DEFAULT,,0,0,0,,{\r}{\kf29}'Cause{\kf29} through{\kf34} all{\kf11} the{\kf57} pain{\kf34} and{\kf34} the{\kf34} weight{\kf11} of{\kf11}~{\kf17} the{\kf78} world
+Dialogue: 0,0:05:05.83,0:05:09.29,DEFAULT,,0,0,0,,{\r}{\kf11}It's{\kf34} so{\kf34} good{\kf34} to{\kf11} know{\kf11}~{\kf11} you're{\kf11}~{\kf23} with{\kf11} me{\kf155}~
+Dialogue: 0,0:05:09.75,0:05:13.38,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf34} fee{\kf34}ling{\kf11} is{\kf45} tak{\kf11}ing{\kf51} me{\kf68} o{\kf45}~{\kf11}ver{\kf11}~{\kf18}~
+Dialogue: 0,0:05:13.67,0:05:17.17,DEFAULT,,0,0,0,,{\r}{\kf31}This{\kf31} fee{\kf31}ling{\kf16} that{\kf37} I{\kf31} can't{\kf16} de{\kf157}ny
+Dialogue: 0,0:05:17.83,0:05:21.42,DEFAULT,,0,0,0,,{\r}{\kf12}'Cause{\kf36} through{\kf36} all{\kf12} the{\kf55} pain{\kf12} and{\kf12}~{\kf30} the{\kf30} crip{\kf18}~{\kf42}pling{\kf63} loss
+Dialogue: 0,0:05:21.83,0:05:25.25,DEFAULT,,0,0,0,,{\r}{\kf11}It's{\kf33} so{\kf33} good{\kf16} to{\kf11} know{\kf33}~{\kf11} I'm{\kf11}~{\kf11} a{\kf11}live{\kf161}~
+Dialogue: 0,0:05:25.83,0:05:29.38,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf37} I{\kf25} won't{\kf12} give{\kf31} in{\kf19} to{\kf50} the{\kf87} sor{\kf37}~{\kf12}row{\kf12}~{\kf20}~
+Dialogue: 0,0:05:29.67,0:05:32.54,DEFAULT,,0,0,0,,{\r}{\kf40}And{\kf40} I{\kf13} will{\kf13}~{\kf27} not{\kf27} rest{\kf13} till{\kf13}~{\kf27} I've{\kf74} won
+Dialogue: 0,0:05:33.67,0:05:37.62,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf35} I'll{\kf35} make{\kf12} a{\kf24} brigh{\kf24}~{\kf24}ter{\kf30} to{\kf35}mor{\kf12}~{\kf59}~{\kf88}row
+Dialogue: 0,0:05:37.83,0:05:40.92,DEFAULT,,0,0,0,,{\r}{\kf11}And{\kf28} give{\kf16} you{\kf11}~{\kf16} the{\kf50} world{\kf16} when{\kf44} I'm{\kf116} done
+Dialogue: 0,0:05:41.33,0:05:46.67,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf26} I'll{\kf157} leave{\kf26} you{\kf26} the{\kf125} world{\kf31} when{\kf31} I'm{\kf85} done

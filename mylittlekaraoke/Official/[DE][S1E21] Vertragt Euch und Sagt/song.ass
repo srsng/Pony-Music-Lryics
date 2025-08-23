@@ -1,34 +1,41 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Vertragt Euch und sagt
+Artist: Mein kleines Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:12.24,0:00:14.46,DEFAULT,,0,0,0,,{\kf27}Ge{\kf48}wiss,{\kf27} man{\kf16}ches{\kf38} trennt{\kf38} uns
-Dialogue: 0,0:00:14.72,0:00:16.68,DEFAULT,,0,0,0,,{\kf22}Doch{\kf27} viel{\kf16} ist{\kf32} uns{\kf16} ge{\kf53}mein
-Dialogue: 0,0:00:16.99,0:00:18.95,DEFAULT,,0,0,0,,{\kf16}Denn{\kf16} wir{\kf22} tra{\kf11}gen{\kf27} und{\kf22} Ihr{\kf64} tragt
-Dialogue: 0,0:00:19.21,0:00:22.33,DEFAULT,,0,0,0,,{\kf16}Ei{\kf16}nen{\kf38} Huf{\kf32} an{\kf32} je{\kf22}dem{\kf112} Bein
-Dialogue: 0,0:00:24.92,0:00:26.56,DEFAULT,,0,0,0,,{\kf38}Was{\kf22} soll{\kf11} der{\kf22} Quatsch{\kf16} dass{\kf22} ei{\kf22}ner
-Dialogue: 0,0:00:26.67,0:00:28.20,DEFAULT,,0,0,0,,{\kf22}Den{\kf22} And{\kf16}eren{\kf16} hier{\kf11} ver{\kf22}scheu{\kf22}che
-Dialogue: 0,0:00:28.31,0:00:29.84,DEFAULT,,0,0,0,,{\kf11}Die{\kf16}ser{\kf11} Är{\kf11}ger{\kf11} bringt{\kf22} Euch{\kf16} gar{\kf27}nichts
-Dialogue: 0,0:00:30.00,0:00:31.53,DEFAULT,,0,0,0,,{\kf22}Als{\kf16} Maul-{\kf11} und{\kf22} Klau{\kf16}en{\kf22}seu{\kf22}che
-Dialogue: 0,0:00:31.80,0:00:33.12,DEFAULT,,0,0,0,,{\kf27}Streit{\kf11} will{\kf11} ich{\kf11} hier{\kf16} nicht{\kf38} sehn
-Dialogue: 0,0:00:33.44,0:00:34.76,DEFAULT,,0,0,0,,{\kf27}Lasst{\kf16} uns{\kf22} gra{\kf16}sen{\kf38} gehn
-Dialogue: 0,0:00:34.97,0:00:36.45,DEFAULT,,0,0,0,,{\kf11}Die{\kf16}ser{\kf27} Tag{\kf22} ist{\kf22} so{\kf43} schön
-Dialogue: 0,0:00:36.87,0:00:38.04,DEFAULT,,0,0,0,,{\kf22}Wenn{\kf11} wir{\kf16} uns{\kf16} ver{\kf43}stehn
-Dialogue: 0,0:00:38.09,0:00:41.26,DEFAULT,,0,0,0,,{\kf11}Al{\kf11}so{\kf11} ver{\kf117}tragt{\kf22} Euch{\kf16} und{\kf112} sagt
-Dialogue: 0,0:00:41.58,0:00:43.00,DEFAULT,,0,0,0,,{\kf11}Ja,{\kf11} wir{\kf27} stim{\kf27}men{\kf27} gern{\kf27} ein
-Dialogue: 0,0:00:43.06,0:00:46.34,DEFAULT,,0,0,0,,{\kf11}Al{\kf11}so{\kf16} ver{\kf117}tragt{\kf22} Euch{\kf11} und{\kf117} sagt
-Dialogue: 0,0:00:46.60,0:00:49.45,DEFAULT,,0,0,0,,{\kf11}Al{\kf11}le{\kf22} wol{\kf16}len{\kf27} fried{\kf16}lich{\kf170} sein
-Dialogue: 0,0:00:50.14,0:00:51.46,DEFAULT,,0,0,0,,{\kf22}Ihr{\kf16} er{\kf22}nährt{\kf11} Euch{\kf16} so{\kf11} wie{\kf16} wir
-Dialogue: 0,0:00:51.46,0:00:53.00,DEFAULT,,0,0,0,,{\kf16}Näm{\kf16}lich{\kf11} aus{\kf22}schließ{\kf16}lich{\kf11} ve{\kf11}ge{\kf22}ta{\kf22}risch
-Dialogue: 0,0:00:53.26,0:00:54.64,DEFAULT,,0,0,0,,{\kf16}Heu{\kf11} und{\kf16} Ha{\kf11}fer{\kf16} fresst{\kf22} auch{\kf38} Ihr
-Dialogue: 0,0:00:54.85,0:00:56.22,DEFAULT,,0,0,0,,{\kf11}Wa{\kf11}rum{\kf22} strei{\kf16}ten{\kf16} wir{\kf27} uns{\kf27} hier?
-Dialogue: 0,0:00:56.33,0:00:59.50,DEFAULT,,0,0,0,,{\kf11}Al{\kf11}so{\kf16} ver{\kf112}tragt{\kf27} Euch{\kf16} und{\kf106} sagt
-Dialogue: 0,0:00:59.76,0:01:01.14,DEFAULT,,0,0,0,,{\kf11}Ja,{\kf11} wir{\kf27} stim{\kf27}men{\kf27} gern{\kf16} ein
-Dialogue: 0,0:01:01.30,0:01:07.48,DEFAULT,,0,0,0,,{\kf27}Al{\kf22}le{\kf16} wol{\kf43}len{\kf38} fried{\kf32}lich{\kf397} sein
+Dialogue: 0,0:00:12.24,0:00:14.46,DEFAULT,,0,0,0,,{\r}{\kf31}Ge{\kf56}wiss,{\kf31} man{\kf19}ches{\kf43} trennt{\kf42} uns
+Dialogue: 0,0:00:14.72,0:00:16.68,DEFAULT,,0,0,0,,{\r}{\kf25}Doch{\kf32} viel{\kf19} ist{\kf38} uns{\kf19} ge{\kf63}mein
+Dialogue: 0,0:00:17.00,0:00:18.95,DEFAULT,,0,0,0,,{\r}{\kf18}Denn{\kf18} wir{\kf24} tra{\kf12}gen{\kf30} und{\kf24} Ihr{\kf70} tragt
+Dialogue: 0,0:00:19.22,0:00:22.34,DEFAULT,,0,0,0,,{\r}{\kf19}Ei{\kf19}nen{\kf44} Huf{\kf37} an{\kf37} je{\kf25}dem{\kf131} Bein
+Dialogue: 0,0:00:24.93,0:00:26.57,DEFAULT,,0,0,0,,{\r}{\kf41}Was{\kf23} soll{\kf12} der{\kf23} Quatsch{\kf18} dass{\kf23} ei{\kf24}ner
+Dialogue: 0,0:00:26.67,0:00:28.21,DEFAULT,,0,0,0,,{\r}{\kf26}Den{\kf26} And{\kf19}eren{\kf19} hier{\kf13} ver{\kf26}scheu{\kf24}che
+Dialogue: 0,0:00:28.31,0:00:29.85,DEFAULT,,0,0,0,,{\r}{\kf13}Die{\kf20}ser{\kf13} Är{\kf13}ger{\kf13} bringt{\kf27} Euch{\kf20} gar{\kf34}nichts
+Dialogue: 0,0:00:30.00,0:00:31.54,DEFAULT,,0,0,0,,{\r}{\kf26}Als{\kf19} Maul-{\kf13} und{\kf26} Klau{\kf19}en{\kf26}seu{\kf24}che
+Dialogue: 0,0:00:31.80,0:00:33.12,DEFAULT,,0,0,0,,{\r}{\kf31}Streit{\kf13} will{\kf13} ich{\kf13} hier{\kf19} nicht{\kf43} sehn
+Dialogue: 0,0:00:33.44,0:00:34.76,DEFAULT,,0,0,0,,{\r}{\kf30}Lasst{\kf18} uns{\kf24} gra{\kf18}sen{\kf42} gehn
+Dialogue: 0,0:00:34.97,0:00:36.45,DEFAULT,,0,0,0,,{\r}{\kf11}Die{\kf17}ser{\kf28} Tag{\kf23} ist{\kf23} so{\kf46} schön
+Dialogue: 0,0:00:36.88,0:00:38.04,DEFAULT,,0,0,0,,{\r}{\kf23}Wenn{\kf12} wir{\kf17} uns{\kf17} ver{\kf47}stehn
+Dialogue: 0,0:00:38.09,0:00:41.27,DEFAULT,,0,0,0,,{\r}{\kf11}Al{\kf11}so{\kf11} ver{\kf125}tragt{\kf23} Euch{\kf17} und{\kf119} sagt
+Dialogue: 0,0:00:41.58,0:00:43.01,DEFAULT,,0,0,0,,{\r}{\kf12}Ja,{\kf12} wir{\kf30} stim{\kf30}men{\kf30} gern{\kf29} ein
+Dialogue: 0,0:00:43.06,0:00:46.34,DEFAULT,,0,0,0,,{\r}{\kf12}Al{\kf12}so{\kf17} ver{\kf127}tragt{\kf23} Euch{\kf12} und{\kf125} sagt
+Dialogue: 0,0:00:46.60,0:00:49.46,DEFAULT,,0,0,0,,{\r}{\kf11}Al{\kf11}le{\kf22} wol{\kf17}len{\kf28} fried{\kf17}lich{\kf179} sein
+Dialogue: 0,0:00:50.15,0:00:51.47,DEFAULT,,0,0,0,,{\r}{\kf25}Ihr{\kf19} er{\kf25}nährt{\kf13} Euch{\kf19} so{\kf13} wie{\kf18} wir
+Dialogue: 0,0:00:51.47,0:00:53.00,DEFAULT,,0,0,0,,{\r}{\kf17}Näm{\kf17}lich{\kf11} aus{\kf23}schließ{\kf17}lich{\kf11} ve{\kf11}ge{\kf23}ta{\kf23}risch
+Dialogue: 0,0:00:53.27,0:00:54.64,DEFAULT,,0,0,0,,{\r}{\kf17}Heu{\kf11} und{\kf17} Ha{\kf11}fer{\kf17} fresst{\kf23} auch{\kf41} Ihr
+Dialogue: 0,0:00:54.85,0:00:56.23,DEFAULT,,0,0,0,,{\r}{\kf11}Wa{\kf11}rum{\kf23} strei{\kf17}ten{\kf17} wir{\kf29} uns{\kf29} hier?
+Dialogue: 0,0:00:56.33,0:00:59.50,DEFAULT,,0,0,0,,{\r}{\kf11}Al{\kf11}so{\kf17} ver{\kf119}tragt{\kf28} Euch{\kf17} und{\kf114} sagt
+Dialogue: 0,0:00:59.77,0:01:01.14,DEFAULT,,0,0,0,,{\r}{\kf12}Ja,{\kf12} wir{\kf31} stim{\kf31}men{\kf31} gern{\kf20} ein
+Dialogue: 0,0:01:01.30,0:01:07.49,DEFAULT,,0,0,0,,{\r}{\kf29}Al{\kf23}le{\kf17} wol{\kf46}len{\kf40} fried{\kf34}lich{\kf430} sein

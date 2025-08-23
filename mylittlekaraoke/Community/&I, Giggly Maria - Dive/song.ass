@@ -1,44 +1,51 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Dive
+Artist: &I, Giggly Maria
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:07.73,0:01:10.83,DEFAULT,,0,0,0,,{\kf18}I{\kf24} do{\kf18} not{\kf30} wor{\kf18}ry,{\kf18} I'm{\kf18} ne{\kf18}ver{\kf18} in{\kf18} a{\kf24} hur{\kf18}ry
-Dialogue: 0,0:01:11.07,0:01:14.41,DEFAULT,,0,0,0,,{\kf12}The{\kf18} past{\kf18} so{\kf18} far{\kf18} is{\kf24} just{\kf24} fine,{\kf18} I'll{\kf18} take{\kf18} it,{\kf24} risk{\kf30} it
-Dialogue: 0,0:01:15.29,0:01:18.33,DEFAULT,,0,0,0,,{\kf18}The{\kf18} time{\kf18} that{\kf24} you've{\kf30} spent{\kf18} locked{\kf18} up{\kf18} with{\kf18} de{\kf24}ci{\kf18}sions
-Dialogue: 0,0:01:18.57,0:01:21.91,DEFAULT,,0,0,0,,{\kf12}Has{\kf18} hin{\kf18}dered{\kf18} more{\kf18} than{\kf30} aid{\kf24}ed,{\kf18} I'll{\kf24} free{\kf24} you,{\kf24} free{\kf24} you
-Dialogue: 0,0:01:23.20,0:01:26.19,DEFAULT,,0,0,0,,{\kf18}Don't{\kf18} need{\kf12} a{\kf36} plan,{\kf18} the{\kf18} fun{\kf18} is{\kf36} un{\kf36}known
-Dialogue: 0,0:01:26.54,0:01:29.53,DEFAULT,,0,0,0,,{\kf18}I'm{\kf24} ne{\kf18}ver{\kf42} a{\kf18}lone,{\kf18} I've{\kf24} got{\kf30} you,{\kf24} got{\kf42} you
-Dialogue: 0,0:01:30.76,0:01:33.74,DEFAULT,,0,0,0,,{\kf18}Don't{\kf18} need{\kf18} a{\kf36} map,{\kf18} the{\kf18} fun's{\kf18} ad{\kf42}ven{\kf42}ture
-Dialogue: 0,0:01:34.04,0:01:36.91,DEFAULT,,0,0,0,,{\kf18}And{\kf18} all{\kf18} I've{\kf36} risked{\kf24} yet -{\kf24} Dive{\kf30} in,{\kf24} dive{\kf30} in!
-Dialogue: 0,0:01:39.60,0:01:40.95,DEFAULT,,0,0,0,,{\kf24}Dive{\kf30} in,{\kf24} dive{\kf36} in
-Dialogue: 0,0:01:43.35,0:01:44.70,DEFAULT,,0,0,0,,{\kf24}Dive{\kf30} in,{\kf24} dive{\kf30} in
-Dialogue: 0,0:01:47.10,0:01:49.27,DEFAULT,,0,0,0,,{\kf24}Dive{\kf24} in,{\kf24} dive{\kf112} in
-Dialogue: 0,0:02:52.73,0:02:55.83,DEFAULT,,0,0,0,,{\kf18}I{\kf24} do{\kf18} not{\kf30} wor{\kf18}ry,{\kf18} I'm{\kf18} ne{\kf18}ver{\kf18} in{\kf18} a{\kf24} hur{\kf18}ry
-Dialogue: 0,0:02:56.07,0:02:59.41,DEFAULT,,0,0,0,,{\kf12}The{\kf18} past{\kf18} so{\kf18} far{\kf18} is{\kf24} just{\kf24} fine,{\kf18} I'll{\kf18} take{\kf18} it,{\kf24} risk{\kf30} it
-Dialogue: 0,0:03:00.29,0:03:03.33,DEFAULT,,0,0,0,,{\kf18}The{\kf18} time{\kf18} that{\kf24} you've{\kf30} spent{\kf18} locked{\kf18} up{\kf18} with{\kf18} de{\kf24}ci{\kf18}sions
-Dialogue: 0,0:03:03.57,0:03:06.91,DEFAULT,,0,0,0,,{\kf12}Has{\kf18} hin{\kf18}dered{\kf18} more{\kf18} than{\kf30} aid{\kf24}ed,{\kf18} I'll{\kf24} free{\kf24} you,{\kf24} free{\kf24} you
-Dialogue: 0,0:03:08.20,0:03:11.19,DEFAULT,,0,0,0,,{\kf18}Don't{\kf18} need{\kf12} a{\kf36} plan,{\kf18} the{\kf18} fun{\kf18} is{\kf36} un{\kf36}known
-Dialogue: 0,0:03:11.54,0:03:14.53,DEFAULT,,0,0,0,,{\kf18}I'm{\kf24} ne{\kf18}ver{\kf42} a{\kf18}lone,{\kf18} I've{\kf24} got{\kf30} you,{\kf24} got{\kf42} you
-Dialogue: 0,0:03:15.76,0:03:18.74,DEFAULT,,0,0,0,,{\kf18}Don't{\kf18} need{\kf18} a{\kf36} map,{\kf18} the{\kf18} fun's{\kf18} ad{\kf42}ven{\kf42}ture
-Dialogue: 0,0:03:19.04,0:03:21.91,DEFAULT,,0,0,0,,{\kf18}And{\kf18} all{\kf18} I've{\kf36} risked{\kf24} yet -{\kf24} Dive{\kf30} in,{\kf24} dive{\kf30} in!
-Dialogue: 0,0:03:24.60,0:03:25.95,DEFAULT,,0,0,0,,{\kf24}Dive{\kf30} in,{\kf24} dive{\kf36} in
-Dialogue: 0,0:03:28.35,0:03:29.64,DEFAULT,,0,0,0,,{\kf24}Dive{\kf30} in,{\kf24} dive{\kf30} in
-Dialogue: 0,0:03:32.10,0:03:34.27,DEFAULT,,0,0,0,,{\kf24}Dive{\kf24} in,{\kf24} dive{\kf112} in
-Dialogue: 0,0:03:52.26,0:03:55.54,DEFAULT,,0,0,0,,{\kf18}I{\kf36} hear{\kf36} the{\kf36} wind{\kf24} rush{\kf18}ing{\kf36} past{\kf36} my{\kf30} ears
-Dialogue: 0,0:03:55.78,0:03:59.35,DEFAULT,,0,0,0,,{\kf18}As{\kf18} I{\kf36} start{\kf36} to{\kf36} think,{\kf18} are{\kf18} they{\kf36} lis{\kf36}ten{\kf30}ing?
-Dialogue: 0,0:03:59.58,0:04:03.10,DEFAULT,,0,0,0,,{\kf18}As{\kf18} I{\kf36} fly{\kf36} so{\kf36} fast,{\kf24} far{\kf18}ther{\kf36} than{\kf36} they'd{\kf24} dare
-Dialogue: 0,0:04:03.39,0:04:06.79,DEFAULT,,0,0,0,,{\kf12}'Cause{\kf18} my{\kf36} heart{\kf30} is{\kf36} full,{\kf18} theirs{\kf18} is{\kf36} filled{\kf36} with{\kf24} fear
-Dialogue: 0,0:04:07.08,0:04:10.60,DEFAULT,,0,0,0,,{\kf18}'Cause{\kf18} they{\kf36} can't{\kf36} let{\kf36} go,{\kf18} they{\kf18} keep{\kf42} hold{\kf36}ing{\kf24} on
-Dialogue: 0,0:04:10.83,0:04:14.29,DEFAULT,,0,0,0,,{\kf18}To{\kf18} the{\kf36} past,{\kf30} scared{\kf30} to{\kf18} be{\kf18} out{\kf36} of{\kf30} con{\kf24}trol
-Dialogue: 0,0:04:14.58,0:04:18.10,DEFAULT,,0,0,0,,{\kf18}They{\kf18} will{\kf42} ne{\kf36}ver{\kf30} know{\kf18} of{\kf18} this{\kf36} thrill,{\kf30} just{\kf30} think
-Dialogue: 0,0:04:18.57,0:04:22.08,DEFAULT,,0,0,0,,{\kf12}That{\kf36} I'm{\kf24} cra{\kf24}~{\kf42}zy,{\kf18} when{\kf36} I{\kf42} dive{\kf47} in
-Dialogue: 0,0:04:39.66,0:04:41.01,DEFAULT,,0,0,0,,{\kf24}Dive{\kf30} in,{\kf24} dive{\kf42} in
-Dialogue: 0,0:04:43.35,0:04:44.76,DEFAULT,,0,0,0,,{\kf24}Dive{\kf30} in,{\kf24} dive{\kf42} in
-Dialogue: 0,0:04:47.16,0:04:49.10,DEFAULT,,0,0,0,,{\kf18}Dive{\kf30} in,{\kf24} dive{\kf100} in
+Dialogue: 0,0:01:07.73,0:01:10.84,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf31} do{\kf23} not{\kf39} wor{\kf23}ry,{\kf23} I'm{\kf23} ne{\kf23}ver{\kf23} in{\kf23} a{\kf31} hur{\kf26}ry
+Dialogue: 0,0:01:11.07,0:01:14.41,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf25} past{\kf25} so{\kf25} far{\kf25} is{\kf33} just{\kf33} fine,{\kf25} I'll{\kf25} take{\kf25} it,{\kf33} risk{\kf43} it
+Dialogue: 0,0:01:15.29,0:01:18.34,DEFAULT,,0,0,0,,{\r}{\kf25}The{\kf25} time{\kf25} that{\kf33} you've{\kf41} spent{\kf25} locked{\kf25} up{\kf25} with{\kf25} de{\kf33}ci{\kf23}sions
+Dialogue: 0,0:01:18.57,0:01:21.91,DEFAULT,,0,0,0,,{\r}{\kf16}Has{\kf24} hin{\kf24}dered{\kf24} more{\kf24} than{\kf40} aid{\kf32}ed,{\kf24} I'll{\kf32} free{\kf32} you,{\kf32} free{\kf30} you
+Dialogue: 0,0:01:23.20,0:01:26.19,DEFAULT,,0,0,0,,{\r}{\kf26}Don't{\kf26} need{\kf17} a{\kf51} plan,{\kf26} the{\kf26} fun{\kf26} is{\kf51} un{\kf50}known
+Dialogue: 0,0:01:26.54,0:01:29.53,DEFAULT,,0,0,0,,{\r}{\kf21}I'm{\kf28} ne{\kf21}ver{\kf49} a{\kf21}lone,{\kf21} I've{\kf28} got{\kf35} you,{\kf28} got{\kf47} you
+Dialogue: 0,0:01:30.76,0:01:33.75,DEFAULT,,0,0,0,,{\r}{\kf24}Don't{\kf24} need{\kf24} a{\kf47} map,{\kf24} the{\kf24} fun's{\kf24} ad{\kf55}ven{\kf53}ture
+Dialogue: 0,0:01:34.04,0:01:36.91,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf23} all{\kf23} I've{\kf47} risked{\kf31} yet -{\kf31} Dive{\kf39} in,{\kf31} dive{\kf39} in!
+Dialogue: 0,0:01:39.61,0:01:40.96,DEFAULT,,0,0,0,,{\r}{\kf28}Dive{\kf36} in,{\kf28} dive{\kf43} in
+Dialogue: 0,0:01:43.36,0:01:44.71,DEFAULT,,0,0,0,,{\r}{\kf30}Dive{\kf38} in,{\kf30} dive{\kf37} in
+Dialogue: 0,0:01:47.11,0:01:49.28,DEFAULT,,0,0,0,,{\r}{\kf28}Dive{\kf28} in,{\kf28} dive{\kf133} in
+Dialogue: 0,0:02:52.73,0:02:55.84,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf31} do{\kf23} not{\kf39} wor{\kf23}ry,{\kf23} I'm{\kf23} ne{\kf23}ver{\kf23} in{\kf23} a{\kf31} hur{\kf26}ry
+Dialogue: 0,0:02:56.07,0:02:59.41,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf25} past{\kf25} so{\kf25} far{\kf25} is{\kf33} just{\kf33} fine,{\kf25} I'll{\kf25} take{\kf25} it,{\kf33} risk{\kf43} it
+Dialogue: 0,0:03:00.29,0:03:03.34,DEFAULT,,0,0,0,,{\r}{\kf25}The{\kf25} time{\kf25} that{\kf33} you've{\kf41} spent{\kf25} locked{\kf25} up{\kf25} with{\kf25} de{\kf33}ci{\kf23}sions
+Dialogue: 0,0:03:03.57,0:03:06.91,DEFAULT,,0,0,0,,{\r}{\kf16}Has{\kf24} hin{\kf24}dered{\kf24} more{\kf24} than{\kf40} aid{\kf32}ed,{\kf24} I'll{\kf32} free{\kf32} you,{\kf32} free{\kf30} you
+Dialogue: 0,0:03:08.20,0:03:11.19,DEFAULT,,0,0,0,,{\r}{\kf26}Don't{\kf26} need{\kf17} a{\kf51} plan,{\kf26} the{\kf26} fun{\kf26} is{\kf51} un{\kf50}known
+Dialogue: 0,0:03:11.54,0:03:14.53,DEFAULT,,0,0,0,,{\r}{\kf21}I'm{\kf28} ne{\kf21}ver{\kf49} a{\kf21}lone,{\kf21} I've{\kf28} got{\kf35} you,{\kf28} got{\kf47} you
+Dialogue: 0,0:03:15.76,0:03:18.75,DEFAULT,,0,0,0,,{\r}{\kf24}Don't{\kf24} need{\kf24} a{\kf47} map,{\kf24} the{\kf24} fun's{\kf24} ad{\kf55}ven{\kf53}ture
+Dialogue: 0,0:03:19.04,0:03:21.91,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf23} all{\kf23} I've{\kf47} risked{\kf31} yet -{\kf31} Dive{\kf39} in,{\kf31} dive{\kf39} in!
+Dialogue: 0,0:03:24.61,0:03:25.96,DEFAULT,,0,0,0,,{\r}{\kf28}Dive{\kf36} in,{\kf28} dive{\kf43} in
+Dialogue: 0,0:03:28.36,0:03:29.65,DEFAULT,,0,0,0,,{\r}{\kf29}Dive{\kf36} in,{\kf29} dive{\kf35} in
+Dialogue: 0,0:03:32.11,0:03:34.28,DEFAULT,,0,0,0,,{\r}{\kf28}Dive{\kf28} in,{\kf28} dive{\kf133} in
+Dialogue: 0,0:03:52.27,0:03:55.55,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf44} hear{\kf44} the{\kf44} wind{\kf29} rush{\kf22}ing{\kf44} past{\kf44} my{\kf35} ears
+Dialogue: 0,0:03:55.78,0:03:59.36,DEFAULT,,0,0,0,,{\r}{\kf23}As{\kf23} I{\kf46} start{\kf46} to{\kf46} think,{\kf23} are{\kf23} they{\kf46} lis{\kf46}ten{\kf35}ing?
+Dialogue: 0,0:03:59.59,0:04:03.11,DEFAULT,,0,0,0,,{\r}{\kf22}As{\kf22} I{\kf45} fly{\kf45} so{\kf45} fast,{\kf30} far{\kf22}ther{\kf45} than{\kf45} they'd{\kf31} dare
+Dialogue: 0,0:04:03.40,0:04:06.80,DEFAULT,,0,0,0,,{\r}{\kf15}'Cause{\kf23} my{\kf46} heart{\kf39} is{\kf46} full,{\kf23} theirs{\kf23} is{\kf46} filled{\kf46} with{\kf33} fear
+Dialogue: 0,0:04:07.09,0:04:10.61,DEFAULT,,0,0,0,,{\r}{\kf22}'Cause{\kf22} they{\kf45} can't{\kf45} let{\kf45} go,{\kf22} they{\kf22} keep{\kf52} hold{\kf45}ing{\kf32} on
+Dialogue: 0,0:04:10.84,0:04:14.30,DEFAULT,,0,0,0,,{\r}{\kf24}To{\kf24} the{\kf48} past,{\kf40} scared{\kf40} to{\kf24} be{\kf24} out{\kf48} of{\kf40} con{\kf34}trol
+Dialogue: 0,0:04:14.59,0:04:18.11,DEFAULT,,0,0,0,,{\r}{\kf23}They{\kf23} will{\kf54} ne{\kf46}ver{\kf38} know{\kf23} of{\kf23} this{\kf46} thrill,{\kf38} just{\kf38} think
+Dialogue: 0,0:04:18.57,0:04:22.09,DEFAULT,,0,0,0,,{\r}{\kf15}That{\kf45} I'm{\kf30} cra{\kf30}~{\kf52}zy,{\kf22} when{\kf45} I{\kf52} dive{\kf61} in
+Dialogue: 0,0:04:39.67,0:04:41.02,DEFAULT,,0,0,0,,{\r}{\kf27}Dive{\kf34} in,{\kf27} dive{\kf47} in
+Dialogue: 0,0:04:43.36,0:04:44.77,DEFAULT,,0,0,0,,{\r}{\kf28}Dive{\kf35} in,{\kf28} dive{\kf50} in
+Dialogue: 0,0:04:47.17,0:04:49.10,DEFAULT,,0,0,0,,{\r}{\kf20}Dive{\kf33} in,{\kf27} dive{\kf113} in

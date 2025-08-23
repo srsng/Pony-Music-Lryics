@@ -1,78 +1,85 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: A Sorceress Girl (P1K cover)
+Artist: SoGreatAndPowerful, Pony1Kenobi
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.42,0:00:06.57,DEFAULT,,0,0,0,,{\kf35}Me{\kf31}mo{\kf31}ries{\kf35} of{\kf40} a{\kf31} sor{\kf20}ce{\kf35}ress{\kf56} girl
-Dialogue: 0,0:00:07.12,0:00:14.07,DEFAULT,,0,0,0,,{\kf25}End{\kf25}less{\kf20} fas{\kf16}ci{\kf31}na{\kf25}tion{\kf20} with{\kf25} the{\kf40} se{\kf40}crets{\kf40} of{\kf25} the{\kf35} world{\kf221}~
-Dialogue: 0,0:00:26.42,0:00:31.67,DEFAULT,,0,0,0,,{\kf40}Ma{\kf25}ny{\kf20} a{\kf35} waltz{\kf45} spun{\kf40} awk{\kf35}ward{\kf31}ly{\kf31} out{\kf31} of{\kf20} the{\kf45} rain
-Dialogue: 0,0:00:32.37,0:00:35.72,DEFAULT,,0,0,0,,{\kf35}She{\kf31} was{\kf25} an{\kf31} an{\kf20}xious{\kf31} re{\kf25}frain{\kf56}~
-Dialogue: 0,0:00:40.82,0:00:45.37,DEFAULT,,0,0,0,,{\kf40}Tak{\kf25}in'{\kf31} your{\kf40} time{\kf20} with{\kf20} the{\kf35} im{\kf31}per{\kf35}cep{\kf31}ti{\kf35}ble
-Dialogue: 0,0:00:46.17,0:00:50.22,DEFAULT,,0,0,0,,{\kf20}Beau{\kf16}ti{\kf16}ful{\kf35} myths{\kf25} of{\kf25} be{\kf25}com{\kf35}ing{\kf25} a{\kf20}ni{\kf31}mal{\kf40}~
-Dialogue: 0,0:00:50.77,0:00:54.92,DEFAULT,,0,0,0,,{\kf35}Wasp{\kf20} to{\kf31} or{\kf50}chid,{\kf25} or{\kf31}chid{\kf16} to{\kf16} the{\kf40} win{\kf31}ter
-Dialogue: 0,0:00:55.22,0:00:59.37,DEFAULT,,0,0,0,,{\kf20}Re{\kf20}gress{\kf20} is{\kf25} to{\kf35} move{\kf10} to{\kf25}wards{\kf25} les{\kf35}ser{\kf31} dif{\kf45}ference
-Dialogue: 0,0:01:00.02,0:01:04.32,DEFAULT,,0,0,0,,{\kf31}Me{\kf25}mo{\kf25}ries{\kf45} of{\kf40} a{\kf35} sor{\kf31}ce{\kf25}ress{\kf70} girl
-Dialogue: 0,0:01:04.77,0:01:09.42,DEFAULT,,0,0,0,,{\kf25}End{\kf20}less{\kf20} fas{\kf20}ci{\kf25}na{\kf25}tion{\kf20} with{\kf16} the{\kf35} se{\kf31}crets{\kf40} of{\kf25} the{\kf25} world{\kf16}~
-Dialogue: 0,0:01:09.67,0:01:16.37,DEFAULT,,0,0,0,,{\kf31}Dreams{\kf31} of{\kf25} the{\kf50} youth:{\kf40} those{\kf90} cute,{\kf20} lit{\kf61}tle{\kf100} move{\kf25}ments{\kf50}~
-Dialogue: 0,0:01:16.87,0:01:18.52,DEFAULT,,0,0,0,,{\kf100}Dar{\kf45}lin'
-Dialogue: 0,0:01:18.92,0:01:25.57,DEFAULT,,0,0,0,,{\kf20}E{\kf35}mit{\kf31} and{\kf25} com{\kf86}bine{\kf40} par{\kf25}ti{\kf31}cles{\kf45} signs{\kf25} that{\kf45} trans{\kf121}form
-Dialogue: 0,0:01:26.12,0:01:28.42,DEFAULT,,0,0,0,,{\kf20}A{\kf50} bo{\kf25}dy{\kf31} in{\kf31}to{\kf16} flame
-Dialogue: 0,0:01:28.57,0:01:33.47,DEFAULT,,0,0,0,,{\kf16}So,{\kf20} tell{\kf20} me{\kf20} that{\kf25} this{\kf45} love{\kf40} is{\kf70} all{\kf31} we{\kf56} are{\kf45}~
-Dialogue: 0,0:01:33.97,0:01:38.32,DEFAULT,,0,0,0,,{\kf16}A{\kf20} sim{\kf20}ple{\kf20} sto{\kf25}ry,{\kf20} this{\kf45} ca{\kf40}rou{\kf45}sel{\kf20} we're{\kf31} on
-Dialogue: 0,0:01:38.77,0:01:43.22,DEFAULT,,0,0,0,,{\kf16}A{\kf25} lit{\kf20}tle{\kf25} ma{\kf25}gic,{\kf16} a{\kf45} dif{\kf40}ferent{\kf40} kind{\kf20} of{\kf35} spark
-Dialogue: 0,0:01:43.52,0:01:48.07,DEFAULT,,0,0,0,,{\kf20}Our{\kf20} glas{\kf20}sy{\kf20} es{\kf31}sence{\kf25} just{\kf31} float{\kf20}~{\kf50}ing{\kf35} in{\kf20} the{\kf35} dark
-Dialogue: 0,0:01:48.32,0:01:52.72,DEFAULT,,0,0,0,,{\kf20}It's{\kf20} how{\kf20} you{\kf20} taught{\kf25} us{\kf31} to{\kf75} con{\kf25}jure{\kf56} up{\kf50}~
-Dialogue: 0,0:01:53.12,0:01:57.67,DEFAULT,,0,0,0,,{\kf20}A{\kf25} lit{\kf25}tle{\kf25} kind{\kf31}ness{\kf25} to{\kf45} take{\kf40} in{\kf45}side{\kf25} our{\kf31} hearts
-Dialogue: 0,0:01:57.97,0:01:59.47,DEFAULT,,0,0,0,,{\kf20}Our{\kf20} will{\kf20} to{\kf25} po{\kf35}wer
-Dialogue: 0,0:01:59.72,0:02:02.42,DEFAULT,,0,0,0,,{\kf20}To{\kf25}ge{\kf20}~{\kf31}ther,{\kf45} not{\kf20} a{\kf31}part
-Dialogue: 0,0:02:02.72,0:02:04.17,DEFAULT,,0,0,0,,{\kf16}Trace{\kf20} of{\kf16} the{\kf16} O{\kf31}ther
-Dialogue: 0,0:02:04.52,0:02:07.17,DEFAULT,,0,0,0,,{\kf16}(a{\kf25} tru{\kf20}~{\kf25}ly{\kf20}~{\kf45} mo{\kf25}dern{\kf25} art)
-Dialogue: 0,0:02:07.42,0:02:09.37,DEFAULT,,0,0,0,,{\kf20}All{\kf25} that{\kf25} you{\kf31} are{\kf16}~{\kf31} and
-Dialogue: 0,0:02:09.72,0:02:11.72,DEFAULT,,0,0,0,,{\kf31}All{\kf25} that{\kf25} you'll{\kf40} be{\kf31} is
-Dialogue: 0,0:02:12.02,0:02:15.62,DEFAULT,,0,0,0,,{\kf171}Har{\kf25}mo{\kf31}ny{\kf111}~
-Dialogue: 0,0:02:16.12,0:02:20.57,DEFAULT,,0,0,0,,{\kf20}You{\kf25} are{\kf150} so{\kf75} sil{\kf25}ly{\kf75}~
-Dialogue: 0,0:02:21.32,0:02:25.17,DEFAULT,,0,0,0,,{\kf40}Oh,{\kf16} a{\kf40} kind{\kf61} voice,{\kf20} a{\kf16} gen{\kf16}tle{\kf16} face{\kf45}~
-Dialogue: 0,0:02:26.72,0:02:29.87,DEFAULT,,0,0,0,,{\kf20}A{\kf25} friend{\kf20} who{\kf16} va{\kf31}nished{\kf16} with{\kf16}out{\kf16} a{\kf20} trace{\kf31}~
-Dialogue: 0,0:02:30.62,0:02:35.97,DEFAULT,,0,0,0,,{\kf20}A{\kf25} blue{\kf50} bo{\kf56}dy,{\kf20} an{\kf20} il{\kf50}lu{\kf31}sion{\kf25}ist{\kf31} on{\kf56} stage...
-Dialogue: 0,0:02:40.12,0:02:45.47,DEFAULT,,0,0,0,,{\kf45}Oh{\kf25} twit{\kf20}cha-{\kf20}twit{\kf20}cha,{\kf45} can{\kf35} you{\kf35} stop{\kf20} a{\kf80} mo{\kf20}ment?
-Dialogue: 0,0:02:45.67,0:02:50.12,DEFAULT,,0,0,0,,{\kf20}What{\kf16} does{\kf31} He{\kf20}gel{\kf35} mean{\kf31} by{\kf31} "Ab{\kf25}so{\kf25}lute{\kf40} Spi{\kf31}rit"?
-Dialogue: 0,0:02:50.47,0:02:55.52,DEFAULT,,0,0,0,,{\kf95}So{\kf90} much{\kf100} love{\kf50} you{\kf86} are!
-Dialogue: 0,0:02:59.62,0:03:02.32,DEFAULT,,0,0,0,,{\kf45}Oh{\kf20} this{\kf20} is{\kf20} the{\kf20} place{\kf16} for{\kf50} us
-Dialogue: 0,0:03:03.27,0:03:04.77,DEFAULT,,0,0,0,,{\kf20}The{\kf20} place{\kf20} for{\kf56} us
-Dialogue: 0,0:03:05.12,0:03:07.32,DEFAULT,,0,0,0,,{\kf16}The{\kf20} place{\kf16} we'd{\kf20} real{\kf20}ly{\kf70} love
-Dialogue: 0,0:03:08.12,0:03:09.72,DEFAULT,,0,0,0,,{\kf20}Or{\kf20} learn{\kf20} to{\kf65} love
-Dialogue: 0,0:03:09.97,0:03:12.17,DEFAULT,,0,0,0,,{\kf16}To{\kf16} join{\kf20} our{\kf20} se{\kf20}parate{\kf75} lines
-Dialogue: 0,0:03:12.52,0:03:14.37,DEFAULT,,0,0,0,,{\kf10}To{\kf20} seize{\kf16} and{\kf20} mul{\kf20}ti{\kf50}ply
-Dialogue: 0,0:03:14.77,0:03:18.97,DEFAULT,,0,0,0,,{\kf20}A{\kf20} dis{\kf25}sa{\kf25}sem{\kf16}bly{\kf20} line{\kf20} ex{\kf25}tract{\kf25}ing{\kf40} from{\kf65} you
-Dialogue: 0,0:03:19.27,0:03:22.47,DEFAULT,,0,0,0,,{\kf65}Comb{\kf31} your{\kf40} hair,{\kf65} smooth{\kf25} your{\kf25} dress
-Dialogue: 0,0:03:22.82,0:03:23.67,DEFAULT,,0,0,0,,{\kf40}Ti{\kf10}dy{\kf20} up
-Dialogue: 0,0:03:24.02,0:03:26.67,DEFAULT,,0,0,0,,{\kf70}Smile{\kf20} for{\kf146} us
-Dialogue: 0,0:03:28.87,0:03:32.17,DEFAULT,,0,0,0,,{\kf75}Take{\kf20} a{\kf35} look,{\kf70} take{\kf25} a{\kf31} breath
-Dialogue: 0,0:03:32.42,0:03:33.32,DEFAULT,,0,0,0,,{\kf40}Gid{\kf10}dy{\kf25} up
-Dialogue: 0,0:03:33.67,0:03:36.02,DEFAULT,,0,0,0,,{\kf75}Smile{\kf20} for{\kf121} us
-Dialogue: 0,0:03:38.47,0:03:43.62,DEFAULT,,0,0,0,,{\kf95}So{\kf95} much{\kf111} love{\kf45} you{\kf100} are
-Dialogue: 0,0:03:47.72,0:03:52.72,DEFAULT,,0,0,0,,{\kf20}So,{\kf20} tell{\kf20} me{\kf20} that{\kf20} this{\kf45} love{\kf50} is{\kf75} all{\kf25} we{\kf50} are{\kf50}~
-Dialogue: 0,0:03:53.12,0:03:57.67,DEFAULT,,0,0,0,,{\kf16}This{\kf20} sim{\kf20}ple{\kf25} sto{\kf31}ry,{\kf25} this{\kf50} ca{\kf40}rou{\kf40}sel{\kf20} we're{\kf35} on
-Dialogue: 0,0:03:57.92,0:04:02.42,DEFAULT,,0,0,0,,{\kf16}A{\kf31} lit{\kf20}tle{\kf20} ma{\kf31}gic,{\kf20} a{\kf31} dif{\kf31}ferent{\kf45} kind{\kf16} of{\kf31} spark
-Dialogue: 0,0:04:02.72,0:04:07.32,DEFAULT,,0,0,0,,{\kf20}Our{\kf20} glas{\kf20}sy{\kf20} es{\kf25}sence{\kf20} just{\kf25} float{\kf20}~{\kf31}ing{\kf40} in{\kf20} the{\kf35} dark
-Dialogue: 0,0:04:07.57,0:04:11.97,DEFAULT,,0,0,0,,{\kf20}It's{\kf20} how{\kf20} you{\kf20} taught{\kf25} us{\kf31} to{\kf75} con{\kf25}jure{\kf56} up{\kf50}~
-Dialogue: 0,0:04:12.37,0:04:16.82,DEFAULT,,0,0,0,,{\kf20}A{\kf20} lit{\kf20}tle{\kf20} kind{\kf31}ness{\kf20} to{\kf35} take{\kf25} in{\kf31}side{\kf20}~{\kf20} our{\kf31} hearts
-Dialogue: 0,0:04:17.17,0:04:18.62,DEFAULT,,0,0,0,,{\kf16}Our{\kf20} will{\kf20} to{\kf20} po{\kf31}wer
-Dialogue: 0,0:04:18.92,0:04:21.67,DEFAULT,,0,0,0,,{\kf20}To{\kf25}ge{\kf20}~{\kf45}ther,{\kf40} not{\kf20} a{\kf31}part
-Dialogue: 0,0:04:21.97,0:04:23.42,DEFAULT,,0,0,0,,{\kf20}Trace{\kf20} of{\kf20} the{\kf20} O{\kf31}ther
-Dialogue: 0,0:04:23.77,0:04:26.32,DEFAULT,,0,0,0,,{\kf16}(a{\kf25} tru{\kf20}~{\kf31}ly{\kf16}~{\kf40} mo{\kf25}dern{\kf20} art)
-Dialogue: 0,0:04:26.57,0:04:28.52,DEFAULT,,0,0,0,,{\kf20}All{\kf25} that{\kf20} you{\kf40} are{\kf31} and
-Dialogue: 0,0:04:28.82,0:04:31.02,DEFAULT,,0,0,0,,{\kf31}All{\kf25} that{\kf20} you'll{\kf40} be{\kf40} is
-Dialogue: 0,0:04:31.22,0:04:34.62,DEFAULT,,0,0,0,,{\kf165}Har{\kf25}mo{\kf20}ny{\kf100}~
-Dialogue: 0,0:04:35.37,0:04:41.72,DEFAULT,,0,0,0,,{\kf25}Darl{\kf25}in'{\kf140} walk{\kf70} with{\kf31} me{\kf70}~,{\kf31} ah{\kf121}~
-Dialogue: 0,0:04:59.07,0:05:03.97,DEFAULT,,0,0,0,,{\kf20}Just{\kf35} shine,{\kf20} it's{\kf20} just{\kf25} e{\kf25}very{\kf25}one,{\kf25} e{\kf20}very{\kf20} flock,{\kf20} e{\kf25}very{\kf50} po{\kf31}ny
-Dialogue: 0,0:05:04.22,0:05:07.37,DEFAULT,,0,0,0,,{\kf20}E{\kf20}very{\kf40} po{\kf25}ny,{\kf20} no{\kf31}thing's{\kf40} ea{\kf25}sy
-Dialogue: 0,0:05:07.77,0:05:09.12,DEFAULT,,0,0,0,,{\kf20}No{\kf20}thing's{\kf40} too{\kf20} hard
-Dialogue: 0,0:05:09.32,0:05:13.47,DEFAULT,,0,0,0,,{\kf16}With{\kf25} e{\kf20}very{\kf25}one's{\kf20} love,{\kf20} it's{\kf20} just{\kf20} love,{\kf20} it's{\kf25} e{\kf20}very{\kf45} po{\kf31}ny
-Dialogue: 0,0:05:13.82,0:05:17.22,DEFAULT,,0,0,0,,{\kf25}E{\kf25}very{\kf45} po{\kf25}ny,{\kf20} e{\kf20}very{\kf25} seed{\kf70}~
+Dialogue: 0,0:00:02.42,0:00:06.57,DEFAULT,,0,0,0,,{\r}{\kf47}Me{\kf40}mo{\kf40}ries{\kf47} of{\kf54} a{\kf40} sor{\kf27}ce{\kf47}ress{\kf73} girl
+Dialogue: 0,0:00:07.12,0:00:14.07,DEFAULT,,0,0,0,,{\r}{\kf30}End{\kf30}less{\kf24} fas{\kf18}ci{\kf36}na{\kf30}tion{\kf24} with{\kf30} the{\kf48} se{\kf48}crets{\kf48} of{\kf30} the{\kf42} world{\kf257}~
+Dialogue: 0,0:00:26.42,0:00:31.67,DEFAULT,,0,0,0,,{\r}{\kf53}Ma{\kf33}ny{\kf27} a{\kf47} waltz{\kf60} spun{\kf53} awk{\kf47}ward{\kf40}ly{\kf40} out{\kf40} of{\kf27} the{\kf58} rain
+Dialogue: 0,0:00:32.37,0:00:35.72,DEFAULT,,0,0,0,,{\r}{\kf47}She{\kf40} was{\kf34} an{\kf40} an{\kf27}xious{\kf40} re{\kf34}frain{\kf73}~
+Dialogue: 0,0:00:40.82,0:00:45.37,DEFAULT,,0,0,0,,{\r}{\kf54}Tak{\kf33}in'{\kf40} your{\kf54} time{\kf27} with{\kf27} the{\kf47} im{\kf40}per{\kf47}cep{\kf40}ti{\kf46}ble
+Dialogue: 0,0:00:46.17,0:00:50.22,DEFAULT,,0,0,0,,{\r}{\kf26}Beau{\kf20}ti{\kf20}ful{\kf46} myths{\kf33} of{\kf33} be{\kf33}com{\kf46}ing{\kf33} a{\kf26}ni{\kf39}mal{\kf50}~
+Dialogue: 0,0:00:50.77,0:00:54.92,DEFAULT,,0,0,0,,{\r}{\kf50}Wasp{\kf29} to{\kf43} or{\kf72}chid,{\kf36} or{\kf43}chid{\kf21} to{\kf21} the{\kf57} win{\kf43}ter
+Dialogue: 0,0:00:55.22,0:00:59.37,DEFAULT,,0,0,0,,{\r}{\kf29}Re{\kf29}gress{\kf29} is{\kf36} to{\kf50} move{\kf14} to{\kf36}wards{\kf36} les{\kf50}ser{\kf43} dif{\kf63}ference
+Dialogue: 0,0:01:00.02,0:01:04.32,DEFAULT,,0,0,0,,{\r}{\kf40}Me{\kf33}mo{\kf33}ries{\kf60} of{\kf53} a{\kf46} sor{\kf40}ce{\kf33}ress{\kf92} girl
+Dialogue: 0,0:01:04.77,0:01:09.42,DEFAULT,,0,0,0,,{\r}{\kf34}End{\kf27}less{\kf27} fas{\kf27}ci{\kf34}na{\kf34}tion{\kf27} with{\kf21} the{\kf48} se{\kf41}crets{\kf55} of{\kf34} the{\kf34} world{\kf22}~
+Dialogue: 0,0:01:09.67,0:01:16.37,DEFAULT,,0,0,0,,{\r}{\kf39}Dreams{\kf39} of{\kf32} the{\kf64} youth:{\kf52} those{\kf116} cute,{\kf26} lit{\kf77}tle{\kf129} move{\kf32}ments{\kf64}~
+Dialogue: 0,0:01:16.87,0:01:18.52,DEFAULT,,0,0,0,,{\r}{\kf114}Dar{\kf51}lin'
+Dialogue: 0,0:01:18.92,0:01:25.57,DEFAULT,,0,0,0,,{\r}{\kf25}E{\kf44}mit{\kf38} and{\kf32} com{\kf108}bine{\kf51} par{\kf32}ti{\kf38}cles{\kf57} signs{\kf32} that{\kf57} trans{\kf151}form
+Dialogue: 0,0:01:26.12,0:01:28.42,DEFAULT,,0,0,0,,{\r}{\kf27}A{\kf68} bo{\kf34}dy{\kf41} in{\kf41}to{\kf19} flame
+Dialogue: 0,0:01:28.57,0:01:33.47,DEFAULT,,0,0,0,,{\r}{\kf19}So,{\kf25} tell{\kf25} me{\kf25} that{\kf32} this{\kf57} love{\kf51} is{\kf89} all{\kf38} we{\kf70} are{\kf59}~
+Dialogue: 0,0:01:33.97,0:01:38.32,DEFAULT,,0,0,0,,{\r}{\kf22}A{\kf29} sim{\kf29}ple{\kf29} sto{\kf36}ry,{\kf29} this{\kf65} ca{\kf58}rou{\kf65}sel{\kf29} we're{\kf44} on
+Dialogue: 0,0:01:38.77,0:01:43.22,DEFAULT,,0,0,0,,{\r}{\kf22}A{\kf36} lit{\kf29}tle{\kf36} ma{\kf36}gic,{\kf22} a{\kf66} dif{\kf58}ferent{\kf58} kind{\kf29} of{\kf53} spark
+Dialogue: 0,0:01:43.52,0:01:48.07,DEFAULT,,0,0,0,,{\r}{\kf28}Our{\kf28} glas{\kf28}sy{\kf28} es{\kf42}sence{\kf35} just{\kf42} float{\kf28}~{\kf70}ing{\kf49} in{\kf28} the{\kf49} dark
+Dialogue: 0,0:01:48.32,0:01:52.72,DEFAULT,,0,0,0,,{\r}{\kf26}It's{\kf26} how{\kf26} you{\kf26} taught{\kf32} us{\kf39} to{\kf97} con{\kf32}jure{\kf71} up{\kf65}~
+Dialogue: 0,0:01:53.12,0:01:57.67,DEFAULT,,0,0,0,,{\r}{\kf27}A{\kf34} lit{\kf34}tle{\kf34} kind{\kf41}ness{\kf34} to{\kf61} take{\kf54} in{\kf61}side{\kf34} our{\kf41} hearts
+Dialogue: 0,0:01:57.97,0:01:59.47,DEFAULT,,0,0,0,,{\r}{\kf25}Our{\kf25} will{\kf25} to{\kf31} po{\kf44}wer
+Dialogue: 0,0:01:59.72,0:02:02.42,DEFAULT,,0,0,0,,{\r}{\kf28}To{\kf36}ge{\kf28}~{\kf43}ther,{\kf64} not{\kf28} a{\kf43}part
+Dialogue: 0,0:02:02.72,0:02:04.17,DEFAULT,,0,0,0,,{\r}{\kf23}Trace{\kf31} of{\kf23} the{\kf23} O{\kf45}ther
+Dialogue: 0,0:02:04.52,0:02:07.17,DEFAULT,,0,0,0,,{\r}{\kf20}(a{\kf33} tru{\kf26}~{\kf33}ly{\kf26}~{\kf60} mo{\kf33}dern{\kf34} art)
+Dialogue: 0,0:02:07.42,0:02:09.37,DEFAULT,,0,0,0,,{\r}{\kf27}All{\kf34} that{\kf34} you{\kf40} are{\kf20}~{\kf40} and
+Dialogue: 0,0:02:09.72,0:02:11.72,DEFAULT,,0,0,0,,{\r}{\kf40}All{\kf33} that{\kf33} you'll{\kf53} be{\kf41} is
+Dialogue: 0,0:02:12.02,0:02:15.62,DEFAULT,,0,0,0,,{\r}{\kf183}Har{\kf27}mo{\kf32}ny{\kf118}~
+Dialogue: 0,0:02:16.12,0:02:20.57,DEFAULT,,0,0,0,,{\r}{\kf24}You{\kf30} are{\kf180} so{\kf90} sil{\kf30}ly{\kf91}~
+Dialogue: 0,0:02:21.32,0:02:25.17,DEFAULT,,0,0,0,,{\r}{\kf58}Oh,{\kf22} a{\kf58} kind{\kf87} voice,{\kf29} a{\kf22} gen{\kf22}tle{\kf22} face{\kf65}~
+Dialogue: 0,0:02:26.72,0:02:29.87,DEFAULT,,0,0,0,,{\r}{\kf31}A{\kf38} friend{\kf31} who{\kf23} va{\kf46}nished{\kf23} with{\kf23}out{\kf23} a{\kf31} trace{\kf46}~
+Dialogue: 0,0:02:30.62,0:02:35.97,DEFAULT,,0,0,0,,{\r}{\kf28}A{\kf35} blue{\kf70} bo{\kf77}dy,{\kf28} an{\kf28} il{\kf70}lu{\kf42}sion{\kf35}ist{\kf42} on{\kf80} stage...
+Dialogue: 0,0:02:40.12,0:02:45.47,DEFAULT,,0,0,0,,{\r}{\kf66}Oh{\kf37} twit{\kf29}cha-{\kf29}twit{\kf29}cha,{\kf66} can{\kf51} you{\kf51} stop{\kf29} a{\kf117} mo{\kf31}ment?
+Dialogue: 0,0:02:45.67,0:02:50.12,DEFAULT,,0,0,0,,{\r}{\kf30}What{\kf22} does{\kf44} He{\kf30}gel{\kf52} mean{\kf44} by{\kf44} "Ab{\kf37}so{\kf37}lute{\kf59} Spi{\kf46}rit"?
+Dialogue: 0,0:02:50.47,0:02:55.52,DEFAULT,,0,0,0,,{\r}{\kf114}So{\kf108} much{\kf120} love{\kf60} you{\kf103} are!
+Dialogue: 0,0:02:59.62,0:03:02.32,DEFAULT,,0,0,0,,{\r}{\kf64}Oh{\kf28} this{\kf28} is{\kf28} the{\kf28} place{\kf21} for{\kf73} us
+Dialogue: 0,0:03:03.27,0:03:04.77,DEFAULT,,0,0,0,,{\r}{\kf26}The{\kf26} place{\kf26} for{\kf72} us
+Dialogue: 0,0:03:05.12,0:03:07.32,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf28} place{\kf21} we'd{\kf28} real{\kf28}ly{\kf94} love
+Dialogue: 0,0:03:08.12,0:03:09.72,DEFAULT,,0,0,0,,{\r}{\kf26}Or{\kf26} learn{\kf26} to{\kf82} love
+Dialogue: 0,0:03:09.97,0:03:12.17,DEFAULT,,0,0,0,,{\r}{\kf20}To{\kf20} join{\kf27} our{\kf27} se{\kf27}parate{\kf99} lines
+Dialogue: 0,0:03:12.52,0:03:14.37,DEFAULT,,0,0,0,,{\r}{\kf14}To{\kf27} seize{\kf21} and{\kf27} mul{\kf27}ti{\kf69}ply
+Dialogue: 0,0:03:14.77,0:03:18.97,DEFAULT,,0,0,0,,{\r}{\kf28}A{\kf28} dis{\kf35}sa{\kf35}sem{\kf21}bly{\kf28} line{\kf28} ex{\kf35}tract{\kf35}ing{\kf56} from{\kf91} you
+Dialogue: 0,0:03:19.27,0:03:22.47,DEFAULT,,0,0,0,,{\r}{\kf83}Comb{\kf38} your{\kf51} hair,{\kf83} smooth{\kf32} your{\kf33} dress
+Dialogue: 0,0:03:22.82,0:03:23.67,DEFAULT,,0,0,0,,{\r}{\kf49}Ti{\kf12}dy{\kf24} up
+Dialogue: 0,0:03:24.02,0:03:26.67,DEFAULT,,0,0,0,,{\r}{\kf79}Smile{\kf23} for{\kf163} us
+Dialogue: 0,0:03:28.87,0:03:32.17,DEFAULT,,0,0,0,,{\r}{\kf97}Take{\kf26} a{\kf45} look,{\kf91} take{\kf32} a{\kf39} breath
+Dialogue: 0,0:03:32.42,0:03:33.32,DEFAULT,,0,0,0,,{\r}{\kf48}Gid{\kf12}dy{\kf30} up
+Dialogue: 0,0:03:33.67,0:03:36.02,DEFAULT,,0,0,0,,{\r}{\kf82}Smile{\kf22} for{\kf131} us
+Dialogue: 0,0:03:38.47,0:03:43.62,DEFAULT,,0,0,0,,{\r}{\kf110}So{\kf110} much{\kf127} love{\kf52} you{\kf116} are
+Dialogue: 0,0:03:47.72,0:03:52.72,DEFAULT,,0,0,0,,{\r}{\kf25}So,{\kf25} tell{\kf25} me{\kf25} that{\kf25} this{\kf57} love{\kf63} is{\kf95} all{\kf32} we{\kf63} are{\kf65}~
+Dialogue: 0,0:03:53.12,0:03:57.67,DEFAULT,,0,0,0,,{\r}{\kf21}This{\kf28} sim{\kf28}ple{\kf36} sto{\kf43}ry,{\kf36} this{\kf71} ca{\kf57}rou{\kf57}sel{\kf28} we're{\kf50} on
+Dialogue: 0,0:03:57.92,0:04:02.42,DEFAULT,,0,0,0,,{\r}{\kf24}A{\kf47} lit{\kf32}tle{\kf32} ma{\kf47}gic,{\kf32} a{\kf47} dif{\kf47}ferent{\kf71} kind{\kf24} of{\kf47} spark
+Dialogue: 0,0:04:02.72,0:04:07.32,DEFAULT,,0,0,0,,{\r}{\kf31}Our{\kf31} glas{\kf31}sy{\kf31} es{\kf39}sence{\kf31} just{\kf39} float{\kf31}~{\kf47}ing{\kf62} in{\kf31} the{\kf56} dark
+Dialogue: 0,0:04:07.57,0:04:11.97,DEFAULT,,0,0,0,,{\r}{\kf26}It's{\kf26} how{\kf26} you{\kf26} taught{\kf32} us{\kf39} to{\kf97} con{\kf32}jure{\kf71} up{\kf65}~
+Dialogue: 0,0:04:12.37,0:04:16.82,DEFAULT,,0,0,0,,{\r}{\kf31}A{\kf31} lit{\kf31}tle{\kf31} kind{\kf46}ness{\kf31} to{\kf54} take{\kf38} in{\kf46}side{\kf31}~{\kf31} our{\kf44} hearts
+Dialogue: 0,0:04:17.17,0:04:18.62,DEFAULT,,0,0,0,,{\r}{\kf21}Our{\kf28} will{\kf28} to{\kf28} po{\kf40}wer
+Dialogue: 0,0:04:18.92,0:04:21.67,DEFAULT,,0,0,0,,{\r}{\kf28}To{\kf34}ge{\kf28}~{\kf62}ther,{\kf55} not{\kf28} a{\kf40}part
+Dialogue: 0,0:04:21.97,0:04:23.42,DEFAULT,,0,0,0,,{\r}{\kf26}Trace{\kf26} of{\kf26} the{\kf26} O{\kf41}ther
+Dialogue: 0,0:04:23.77,0:04:26.32,DEFAULT,,0,0,0,,{\r}{\kf20}(a{\kf34} tru{\kf27}~{\kf40}ly{\kf20}~{\kf54} mo{\kf34}dern{\kf26} art)
+Dialogue: 0,0:04:26.57,0:04:28.52,DEFAULT,,0,0,0,,{\r}{\kf29}All{\kf36} that{\kf29} you{\kf58} are{\kf43} and
+Dialogue: 0,0:04:28.82,0:04:31.02,DEFAULT,,0,0,0,,{\r}{\kf43}All{\kf35} that{\kf28} you'll{\kf57} be{\kf57} is
+Dialogue: 0,0:04:31.22,0:04:34.62,DEFAULT,,0,0,0,,{\r}{\kf181}Har{\kf27}mo{\kf22}ny{\kf110}~
+Dialogue: 0,0:04:35.37,0:04:41.72,DEFAULT,,0,0,0,,{\r}{\kf31}Darl{\kf31}in'{\kf174} walk{\kf87} with{\kf37} me{\kf87}~,{\kf37} ah{\kf151}~
+Dialogue: 0,0:04:59.07,0:05:03.97,DEFAULT,,0,0,0,,{\r}{\kf27}Just{\kf48} shine,{\kf27} it's{\kf27} just{\kf34} e{\kf34}very{\kf34}one,{\kf34} e{\kf27}very{\kf27} flock,{\kf27} e{\kf34}very{\kf68} po{\kf42}ny
+Dialogue: 0,0:05:04.22,0:05:07.37,DEFAULT,,0,0,0,,{\r}{\kf29}E{\kf29}very{\kf57} po{\kf36}ny,{\kf29} no{\kf43}thing's{\kf57} ea{\kf35}sy
+Dialogue: 0,0:05:07.77,0:05:09.12,DEFAULT,,0,0,0,,{\r}{\kf27}No{\kf27}thing's{\kf54} too{\kf27} hard
+Dialogue: 0,0:05:09.32,0:05:13.47,DEFAULT,,0,0,0,,{\r}{\kf20}With{\kf34} e{\kf27}very{\kf34}one's{\kf27} love,{\kf27} it's{\kf27} just{\kf27} love,{\kf27} it's{\kf34} e{\kf27}very{\kf61} po{\kf43}ny
+Dialogue: 0,0:05:13.82,0:05:17.22,DEFAULT,,0,0,0,,{\r}{\kf33}E{\kf33}very{\kf60} po{\kf33}ny,{\kf27} e{\kf27}very{\kf33} seed{\kf94}~

@@ -1,67 +1,74 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Fast Enough Rock!
+Artist: Claire Anne Carr
+Original Timing: mylittlekaraoke.com by Sebastian Krzyszkowiak (dos)
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:26.58,0:00:29.41,DEFAULT,,0,0,0,,{\kf25}The{\kf42} wind{\kf59} ruf{\kf59}fling{\kf34} my{\kf42} mane
-Dialogue: 0,0:00:29.58,0:00:32.16,DEFAULT,,0,0,0,,{\kf17}The{\kf34} speed,{\kf25} the{\kf67} sky,{\kf25} the{\kf34} rain
-Dialogue: 0,0:00:32.58,0:00:36.16,DEFAULT,,0,0,0,,{\kf34}I{\kf50} still{\kf34} feel{\kf34} them{\kf34} cons{\kf42}tan{\kf67}tly
-Dialogue: 0,0:00:36.58,0:00:38.24,DEFAULT,,0,0,0,,{\kf17}When{\kf17} we're{\kf25} to{\kf34}ge{\kf59}ther
-Dialogue: 0,0:00:38.24,0:00:40.49,DEFAULT,,0,0,0,,{\kf34}Some{\kf34}times,{\kf42} yes,{\kf34} it's{\kf25} tough
-Dialogue: 0,0:00:40.58,0:00:43.49,DEFAULT,,0,0,0,,{\kf42}(but I){\kf25} Can't{\kf34} rush{\kf59} fast{\kf42} e{\kf34}nough
-Dialogue: 0,0:00:43.91,0:00:46.99,DEFAULT,,0,0,0,,{\kf25}To{\kf50} stand{\kf25} by{\kf34} your{\kf42} side{\kf17} for{\kf25}e{\kf17}ver...
-Dialogue: 0,0:00:47.66,0:00:48.74,DEFAULT,,0,0,0,,{\kf25}Oh{\kf34} Rain{\kf42}bow...
-Dialogue: 0,0:01:34.66,0:01:35.58,DEFAULT,,0,0,0,,{\kf17}Fears{\kf17} and{\kf17} threats
-Dialogue: 0,0:01:35.74,0:01:37.33,DEFAULT,,0,0,0,,{\kf17}Don't{\kf17} wo{\kf17}rry,{\kf17} de{\kf17}feat{\kf17} them
-Dialogue: 0,0:01:37.49,0:01:38.41,DEFAULT,,0,0,0,,{\kf17}Lies,{\kf17} re{\kf17}grets
-Dialogue: 0,0:01:38.58,0:01:40.16,DEFAULT,,0,0,0,,{\kf17}For{\kf17}get{\kf17} those,{\kf17} out{\kf17}wit{\kf17} them
-Dialogue: 0,0:01:40.33,0:01:41.74,DEFAULT,,0,0,0,,{\kf17}Can't{\kf17} you{\kf17} see{\kf17} all{\kf17} that
-Dialogue: 0,0:01:41.91,0:01:45.33,DEFAULT,,0,0,0,,{\kf17}Rea{\kf17}lly{\kf17} mat{\kf17}ters{\kf17} is{\kf50} you{\kf50} and{\kf109} me?
-Dialogue: 0,0:01:45.99,0:01:46.83,DEFAULT,,0,0,0,,{\kf17}Rain{\kf17}bow{\kf17} streams
-Dialogue: 0,0:01:46.99,0:01:48.58,DEFAULT,,0,0,0,,{\kf17}And{\kf17} ap{\kf17}ples{\kf17} are{\kf17} tur{\kf17}ning
-Dialogue: 0,0:01:48.83,0:01:49.49,DEFAULT,,0,0,0,,{\kf17}Ho{\kf17}nes{\kf17}ty
-Dialogue: 0,0:01:49.83,0:01:51.41,DEFAULT,,0,0,0,,{\kf17}Lo{\kf17}yal{\kf17}ty{\kf17} re{\kf17}tur{\kf17}ning
-Dialogue: 0,0:01:51.66,0:01:53.41,DEFAULT,,0,0,0,,{\kf17}If{\kf17} friend{\kf17}ship{\kf17} is{\kf17} ma{\kf17}gic
-Dialogue: 0,0:01:53.58,0:01:56.66,DEFAULT,,0,0,0,,{\kf17}I{\kf17}ma{\kf17}gine{\kf17} what{\kf50} love{\kf50} can{\kf117} be
-Dialogue: 0,0:02:53.74,0:02:55.99,DEFAULT,,0,0,0,,{\kf17}Fa{\kf17}mily{\kf17} an'{\kf59} sky{\kf17} a{\kf17}bove
-Dialogue: 0,0:02:56.16,0:02:58.99,DEFAULT,,0,0,0,,{\kf17}The{\kf34} land{\kf59} Ah{\kf59} know{\kf17} and{\kf34} love
-Dialogue: 0,0:02:59.41,0:03:02.99,DEFAULT,,0,0,0,,{\kf17}(Ah) al{\kf34}ways{\kf17} see{\kf34} them{\kf17} in{\kf42} your{\kf84} eyes
-Dialogue: 0,0:03:03.41,0:03:04.83,DEFAULT,,0,0,0,,{\kf17}When{\kf17} we're{\kf17} to{\kf42}ge{\kf17}ther
-Dialogue: 0,0:03:04.99,0:03:07.33,DEFAULT,,0,0,0,,{\kf17}Dia{\kf34}mond{\kf42} in{\kf17} the{\kf17} rough
-Dialogue: 0,0:03:07.49,0:03:10.33,DEFAULT,,0,0,0,,{\kf17}Ah{\kf17} can't{\kf34} rush{\kf59} fast{\kf17} e{\kf34}nough
-Dialogue: 0,0:03:10.66,0:03:16.24,DEFAULT,,0,0,0,,{\kf17}To{\kf50} stand{\kf17} by{\kf34} you,{\kf17} fo{\kf25}re{\kf275}ver
-Dialogue: 0,0:03:16.33,0:03:17.24,DEFAULT,,0,0,0,,{\kf17}Fears{\kf17} and{\kf17} threats
-Dialogue: 0,0:03:17.41,0:03:18.99,DEFAULT,,0,0,0,,{\kf17}Don't{\kf17} wo{\kf17}rry,{\kf17} de{\kf17}feat{\kf17} them
-Dialogue: 0,0:03:19.16,0:03:20.08,DEFAULT,,0,0,0,,{\kf17}Lies,{\kf17} re{\kf17}grets
-Dialogue: 0,0:03:20.24,0:03:21.83,DEFAULT,,0,0,0,,{\kf17}For{\kf17}get{\kf17} those,{\kf17} out{\kf17}wit{\kf17} them
-Dialogue: 0,0:03:21.99,0:03:23.41,DEFAULT,,0,0,0,,{\kf17}Can't{\kf17} you{\kf17} see{\kf17} all{\kf17} that
-Dialogue: 0,0:03:23.58,0:03:26.99,DEFAULT,,0,0,0,,{\kf17}Rea{\kf17}lly{\kf17} mat{\kf17}ters{\kf17} is{\kf50} you{\kf50} and{\kf109} me?
-Dialogue: 0,0:03:27.74,0:03:28.58,DEFAULT,,0,0,0,,{\kf17}Rain{\kf17}bow{\kf17} streams
-Dialogue: 0,0:03:28.74,0:03:30.33,DEFAULT,,0,0,0,,{\kf17}And{\kf17} ap{\kf17}ples{\kf17} are{\kf17} tur{\kf17}ning
-Dialogue: 0,0:03:30.49,0:03:31.24,DEFAULT,,0,0,0,,{\kf17}Ho{\kf17}nes{\kf17}ty
-Dialogue: 0,0:03:31.58,0:03:33.16,DEFAULT,,0,0,0,,{\kf17}Lo{\kf17}yal{\kf17}ty{\kf17} re{\kf17}tur{\kf17}ning
-Dialogue: 0,0:03:33.33,0:03:35.08,DEFAULT,,0,0,0,,{\kf17}If{\kf17} friend{\kf17}ship{\kf17} is{\kf17} ma{\kf17}gic
-Dialogue: 0,0:03:35.33,0:03:38.41,DEFAULT,,0,0,0,,{\kf17}I{\kf17}ma{\kf17}gine{\kf17} what{\kf50} love{\kf50} can{\kf117} be
-Dialogue: 0,0:03:38.91,0:03:39.74,DEFAULT,,0,0,0,,{\kf17}Fears{\kf17} and{\kf17} threats
-Dialogue: 0,0:03:39.91,0:03:41.49,DEFAULT,,0,0,0,,{\kf17}Don't{\kf17} wo{\kf17}rry,{\kf17} de{\kf17}feat{\kf17} them
-Dialogue: 0,0:03:41.66,0:03:42.58,DEFAULT,,0,0,0,,{\kf17}Lies,{\kf17} re{\kf17}grets
-Dialogue: 0,0:03:42.74,0:03:44.33,DEFAULT,,0,0,0,,{\kf17}For{\kf17}get{\kf17} those,{\kf17} out{\kf17}wit{\kf17} them
-Dialogue: 0,0:03:44.49,0:03:45.91,DEFAULT,,0,0,0,,{\kf17}Can't{\kf17} you{\kf17} see{\kf17} all{\kf17} that
-Dialogue: 0,0:03:46.08,0:03:49.49,DEFAULT,,0,0,0,,{\kf17}Rea{\kf17}lly{\kf17} mat{\kf17}ters{\kf17} is{\kf50} you{\kf50} and{\kf109} me?
-Dialogue: 0,0:03:50.24,0:03:51.08,DEFAULT,,0,0,0,,{\kf17}Rain{\kf17}bow{\kf17} streams
-Dialogue: 0,0:03:51.24,0:03:52.83,DEFAULT,,0,0,0,,{\kf17}And{\kf17} ap{\kf17}ples{\kf17} are{\kf17} tur{\kf17}ning
-Dialogue: 0,0:03:53.08,0:03:53.74,DEFAULT,,0,0,0,,{\kf17}Ho{\kf17}nes{\kf17}ty
-Dialogue: 0,0:03:54.08,0:03:55.66,DEFAULT,,0,0,0,,{\kf17}Lo{\kf17}yal{\kf17}ty{\kf17} re{\kf17}tur{\kf17}ning
-Dialogue: 0,0:03:55.91,0:03:57.66,DEFAULT,,0,0,0,,{\kf17}If{\kf17} friend{\kf17}ship{\kf17} is{\kf17} ma{\kf17}gic
-Dialogue: 0,0:03:57.83,0:04:00.99,DEFAULT,,0,0,0,,{\kf17}I{\kf17}ma{\kf17}gine{\kf17} what{\kf50} love{\kf50} can{\kf117} be
-Dialogue: 0,0:04:01.49,0:04:03.74,DEFAULT,,0,0,0,,{\kf34}Dia{\kf34}mond{\kf42} in{\kf17} the{\kf17} rough
-Dialogue: 0,0:04:03.99,0:04:06.74,DEFAULT,,0,0,0,,{\kf17}Ah{\kf17} can't{\kf34} rush{\kf59} fast{\kf17} e{\kf34}nough
-Dialogue: 0,0:04:07.16,0:04:12.74,DEFAULT,,0,0,0,,{\kf17}To{\kf50} stand{\kf17} by{\kf34} you,{\kf17} fo{\kf25}re{\kf275}ver
-Dialogue: 0,0:04:14.91,0:04:17.49,DEFAULT,,0,0,0,,{\kf34}Fo{\kf25}re{\kf184}ver
-Dialogue: 0,0:04:20.49,0:04:23.66,DEFAULT,,0,0,0,,{\kf34}Fo{\kf50}re{\kf34}ve{\kf192}r
+Dialogue: 0,0:00:26.58,0:00:29.42,DEFAULT,,0,0,0,,{\r}{\kf27}The{\kf46} wind{\kf64} ruf{\kf64}fling{\kf37} my{\kf45} mane
+Dialogue: 0,0:00:29.58,0:00:32.17,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf43} speed,{\kf32} the{\kf86} sky,{\kf32} the{\kf43} rain
+Dialogue: 0,0:00:32.58,0:00:36.17,DEFAULT,,0,0,0,,{\r}{\kf41}I{\kf61} still{\kf41} feel{\kf41} them{\kf41} cons{\kf51}tan{\kf82}tly
+Dialogue: 0,0:00:36.58,0:00:38.25,DEFAULT,,0,0,0,,{\r}{\kf19}When{\kf19} we're{\kf28} to{\kf37}ge{\kf64}ther
+Dialogue: 0,0:00:38.25,0:00:40.50,DEFAULT,,0,0,0,,{\r}{\kf45}Some{\kf45}times,{\kf56} yes,{\kf45} it's{\kf34} tough
+Dialogue: 0,0:00:40.58,0:00:43.50,DEFAULT,,0,0,0,,{\r}{\kf52}(but I){\kf31} Can't{\kf42} rush{\kf73} fast{\kf52} e{\kf42}nough
+Dialogue: 0,0:00:43.92,0:00:47.00,DEFAULT,,0,0,0,,{\r}{\kf33}To{\kf66} stand{\kf33} by{\kf44} your{\kf55} side{\kf22} for{\kf33}e{\kf22}ver...
+Dialogue: 0,0:00:47.67,0:00:48.75,DEFAULT,,0,0,0,,{\r}{\kf27}Oh{\kf36} Rain{\kf45}bow...
+Dialogue: 0,0:01:34.67,0:01:35.58,DEFAULT,,0,0,0,,{\r}{\kf31}Fears{\kf31} and{\kf30} threats
+Dialogue: 0,0:01:35.75,0:01:37.33,DEFAULT,,0,0,0,,{\r}{\kf26}Don't{\kf26} wo{\kf26}rry,{\kf26} de{\kf26}feat{\kf28} them
+Dialogue: 0,0:01:37.50,0:01:38.42,DEFAULT,,0,0,0,,{\r}{\kf31}Lies,{\kf31} re{\kf30}grets
+Dialogue: 0,0:01:38.58,0:01:40.17,DEFAULT,,0,0,0,,{\r}{\kf26}For{\kf26}get{\kf26} those,{\kf26} out{\kf26}wit{\kf28} them
+Dialogue: 0,0:01:40.33,0:01:41.75,DEFAULT,,0,0,0,,{\r}{\kf28}Can't{\kf28} you{\kf28} see{\kf28} all{\kf30} that
+Dialogue: 0,0:01:41.92,0:01:45.33,DEFAULT,,0,0,0,,{\r}{\kf20}Rea{\kf20}lly{\kf20} mat{\kf20}ters{\kf20} is{\kf59} you{\kf59} and{\kf124} me?
+Dialogue: 0,0:01:46.00,0:01:46.83,DEFAULT,,0,0,0,,{\r}{\kf28}Rain{\kf28}bow{\kf27} streams
+Dialogue: 0,0:01:47.00,0:01:48.58,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf26} ap{\kf26}ples{\kf26} are{\kf26} tur{\kf28}ning
+Dialogue: 0,0:01:48.83,0:01:49.50,DEFAULT,,0,0,0,,{\r}{\kf22}Ho{\kf22}nes{\kf23}ty
+Dialogue: 0,0:01:49.83,0:01:51.42,DEFAULT,,0,0,0,,{\r}{\kf26}Lo{\kf26}yal{\kf26}ty{\kf26} re{\kf26}tur{\kf28}ning
+Dialogue: 0,0:01:51.67,0:01:53.42,DEFAULT,,0,0,0,,{\r}{\kf29}If{\kf29} friend{\kf29}ship{\kf29} is{\kf29} ma{\kf30}gic
+Dialogue: 0,0:01:53.58,0:01:56.67,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf18}ma{\kf18}gine{\kf18} what{\kf54} love{\kf54} can{\kf128} be
+Dialogue: 0,0:02:53.75,0:02:56.00,DEFAULT,,0,0,0,,{\r}{\kf26}Fa{\kf26}mily{\kf26} an'{\kf93} sky{\kf26} a{\kf28}bove
+Dialogue: 0,0:02:56.17,0:02:59.00,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf44} land{\kf76} Ah{\kf76} know{\kf22} and{\kf43} love
+Dialogue: 0,0:02:59.42,0:03:03.00,DEFAULT,,0,0,0,,{\r}{\kf25}(Ah) al{\kf49}ways{\kf25} see{\kf49} them{\kf25} in{\kf62} your{\kf123} eyes
+Dialogue: 0,0:03:03.42,0:03:04.83,DEFAULT,,0,0,0,,{\r}{\kf22}When{\kf22} we're{\kf22} to{\kf55}ge{\kf21}ther
+Dialogue: 0,0:03:05.00,0:03:07.33,DEFAULT,,0,0,0,,{\r}{\kf31}Dia{\kf62}mond{\kf78} in{\kf31} the{\kf31} rough
+Dialogue: 0,0:03:07.50,0:03:10.33,DEFAULT,,0,0,0,,{\r}{\kf27}Ah{\kf27} can't{\kf54} rush{\kf94} fast{\kf27} e{\kf54}nough
+Dialogue: 0,0:03:10.67,0:03:16.25,DEFAULT,,0,0,0,,{\r}{\kf21}To{\kf64} stand{\kf21} by{\kf43} you,{\kf21} fo{\kf32}re{\kf356}ver
+Dialogue: 0,0:03:16.33,0:03:17.25,DEFAULT,,0,0,0,,{\r}{\kf31}Fears{\kf31} and{\kf30} threats
+Dialogue: 0,0:03:17.42,0:03:19.00,DEFAULT,,0,0,0,,{\r}{\kf26}Don't{\kf26} wo{\kf26}rry,{\kf26} de{\kf26}feat{\kf28} them
+Dialogue: 0,0:03:19.17,0:03:20.08,DEFAULT,,0,0,0,,{\r}{\kf31}Lies,{\kf31} re{\kf30}grets
+Dialogue: 0,0:03:20.25,0:03:21.83,DEFAULT,,0,0,0,,{\r}{\kf26}For{\kf26}get{\kf26} those,{\kf26} out{\kf26}wit{\kf28} them
+Dialogue: 0,0:03:22.00,0:03:23.42,DEFAULT,,0,0,0,,{\r}{\kf28}Can't{\kf28} you{\kf28} see{\kf28} all{\kf30} that
+Dialogue: 0,0:03:23.58,0:03:27.00,DEFAULT,,0,0,0,,{\r}{\kf20}Rea{\kf20}lly{\kf20} mat{\kf20}ters{\kf20} is{\kf59} you{\kf59} and{\kf124} me?
+Dialogue: 0,0:03:27.75,0:03:28.58,DEFAULT,,0,0,0,,{\r}{\kf28}Rain{\kf28}bow{\kf27} streams
+Dialogue: 0,0:03:28.75,0:03:30.33,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf26} ap{\kf26}ples{\kf26} are{\kf26} tur{\kf28}ning
+Dialogue: 0,0:03:30.50,0:03:31.25,DEFAULT,,0,0,0,,{\r}{\kf25}Ho{\kf25}nes{\kf25}ty
+Dialogue: 0,0:03:31.58,0:03:33.17,DEFAULT,,0,0,0,,{\r}{\kf26}Lo{\kf26}yal{\kf26}ty{\kf26} re{\kf26}tur{\kf28}ning
+Dialogue: 0,0:03:33.33,0:03:35.08,DEFAULT,,0,0,0,,{\r}{\kf29}If{\kf29} friend{\kf29}ship{\kf29} is{\kf29} ma{\kf30}gic
+Dialogue: 0,0:03:35.33,0:03:38.42,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf18}ma{\kf18}gine{\kf18} what{\kf54} love{\kf54} can{\kf128} be
+Dialogue: 0,0:03:38.92,0:03:39.75,DEFAULT,,0,0,0,,{\r}{\kf28}Fears{\kf28} and{\kf27} threats
+Dialogue: 0,0:03:39.92,0:03:41.50,DEFAULT,,0,0,0,,{\r}{\kf26}Don't{\kf26} wo{\kf26}rry,{\kf26} de{\kf26}feat{\kf28} them
+Dialogue: 0,0:03:41.67,0:03:42.58,DEFAULT,,0,0,0,,{\r}{\kf31}Lies,{\kf31} re{\kf30}grets
+Dialogue: 0,0:03:42.75,0:03:44.33,DEFAULT,,0,0,0,,{\r}{\kf26}For{\kf26}get{\kf26} those,{\kf26} out{\kf26}wit{\kf28} them
+Dialogue: 0,0:03:44.50,0:03:45.92,DEFAULT,,0,0,0,,{\r}{\kf28}Can't{\kf28} you{\kf28} see{\kf28} all{\kf30} that
+Dialogue: 0,0:03:46.08,0:03:49.50,DEFAULT,,0,0,0,,{\r}{\kf20}Rea{\kf20}lly{\kf20} mat{\kf20}ters{\kf20} is{\kf59} you{\kf59} and{\kf124} me?
+Dialogue: 0,0:03:50.25,0:03:51.08,DEFAULT,,0,0,0,,{\r}{\kf28}Rain{\kf28}bow{\kf27} streams
+Dialogue: 0,0:03:51.25,0:03:52.83,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf26} ap{\kf26}ples{\kf26} are{\kf26} tur{\kf28}ning
+Dialogue: 0,0:03:53.08,0:03:53.75,DEFAULT,,0,0,0,,{\r}{\kf22}Ho{\kf22}nes{\kf23}ty
+Dialogue: 0,0:03:54.08,0:03:55.67,DEFAULT,,0,0,0,,{\r}{\kf26}Lo{\kf26}yal{\kf26}ty{\kf26} re{\kf26}tur{\kf28}ning
+Dialogue: 0,0:03:55.92,0:03:57.67,DEFAULT,,0,0,0,,{\r}{\kf29}If{\kf29} friend{\kf29}ship{\kf29} is{\kf29} ma{\kf30}gic
+Dialogue: 0,0:03:57.83,0:04:01.00,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf19}ma{\kf19}gine{\kf19} what{\kf56} love{\kf56} can{\kf129} be
+Dialogue: 0,0:04:01.50,0:04:03.75,DEFAULT,,0,0,0,,{\r}{\kf53}Dia{\kf53}mond{\kf66} in{\kf26} the{\kf27} rough
+Dialogue: 0,0:04:04.00,0:04:06.75,DEFAULT,,0,0,0,,{\r}{\kf26}Ah{\kf26} can't{\kf52} rush{\kf92} fast{\kf26} e{\kf53}nough
+Dialogue: 0,0:04:07.17,0:04:12.75,DEFAULT,,0,0,0,,{\r}{\kf21}To{\kf64} stand{\kf21} by{\kf43} you,{\kf21} fo{\kf32}re{\kf356}ver
+Dialogue: 0,0:04:14.92,0:04:17.50,DEFAULT,,0,0,0,,{\r}{\kf36}Fo{\kf27}re{\kf195}ver
+Dialogue: 0,0:04:20.50,0:04:23.67,DEFAULT,,0,0,0,,{\r}{\kf34}Fo{\kf51}re{\kf34}ve{\kf198}r

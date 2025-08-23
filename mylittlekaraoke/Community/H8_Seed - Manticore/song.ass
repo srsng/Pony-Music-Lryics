@@ -1,70 +1,77 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Manticore
+Artist: H8_Seed
+Original Timing: mylittlekaraoke.com by ShTHfan1
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:26.53,0:00:29.02,DEFAULT,,0,0,0,,{\kf13}The{\kf30} clouds{\kf17} rol{\kf13}ling{\kf17} o{\kf17}ver{\kf13}head{\kf13} block{\kf13} out{\kf13} all{\kf13} the{\kf46} light
-Dialogue: 0,0:00:29.19,0:00:31.69,DEFAULT,,0,0,0,,{\kf13}The{\kf17} twist{\kf13}ing{\kf13} trees{\kf13} and{\kf17} branch{\kf13}es{\kf13} are{\kf13} an{\kf13} om{\kf17}in{\kf13}ous{\kf46} sight
-Dialogue: 0,0:00:31.86,0:00:34.19,DEFAULT,,0,0,0,,{\kf13}You{\kf13} know{\kf13} that{\kf17} some{\kf13}thing's{\kf17} watch{\kf13}ing,{\kf13} hear{\kf13} a{\kf13} howl{\kf13} in{\kf13} the{\kf34} night
-Dialogue: 0,0:00:34.36,0:00:37.02,DEFAULT,,0,0,0,,{\kf13}And{\kf17} be{\kf13}neath{\kf13} your{\kf13} calm{\kf17} ex{\kf17}ter{\kf17}i{\kf13}or,{\kf13} you{\kf17} trem{\kf13}ble{\kf13} with{\kf50} fright
-Dialogue: 0,0:00:37.19,0:00:39.36,DEFAULT,,0,0,0,,{\kf13}Your{\kf13} legs{\kf17} be{\kf13}gin{\kf13} to{\kf17} sha{\kf13}-ake{\kf13} and{\kf13} your{\kf13} tail{\kf13} starts{\kf13} to{\kf17} sway
-Dialogue: 0,0:00:39.52,0:00:42.19,DEFAULT,,0,0,0,,{\kf13}You{\kf13} feel{\kf13} its{\kf17} hung{\kf13}er{\kf13} for{\kf13} you{\kf13} as{\kf13} you{\kf13} try{\kf13} to{\kf13} hide{\kf13} your{\kf17} dis{\kf34}may
-Dialogue: 0,0:00:42.52,0:00:44.94,DEFAULT,,0,0,0,,{\kf13}You{\kf13} think{\kf13} you{\kf13} might{\kf13} be{\kf13} able{\kf13} to{\kf13} keep{\kf13} the{\kf13} beast{\kf30} at{\kf42} bay
-Dialogue: 0,0:00:45.19,0:00:48.52,DEFAULT,,0,0,0,,{\kf13}But{\kf13} heed{\kf13} your{\kf17} bet{\kf13}ter{\kf17} judg{\kf17}ment,{\kf13} you{\kf13} know{\kf13} it's{\kf17} un{\kf42}wise{\kf30} to{\kf46} stay
-Dialogue: 0,0:00:49.02,0:00:54.69,DEFAULT,,0,0,0,,{\kf13}SO{\kf13} YOU{\kf17} BET{\kf30}TER{\kf46} RUN{\kf34} A{\kf396}WAY
-Dialogue: 0,0:00:55.02,0:01:00.02,DEFAULT,,0,0,0,,{\kf30}THE{\kf34} MAN{\kf34}TI{\kf396}CORE
-Dialogue: 0,0:01:05.68,0:01:10.68,DEFAULT,,0,0,0,,{\kf30}THE{\kf34} MAN{\kf34}TI{\kf396}CORE
-Dialogue: 0,0:01:11.85,0:01:14.27,DEFAULT,,0,0,0,,{\kf13}A{\kf17} might{\kf13}y{\kf17} bel{\kf13}low{\kf17} sig{\kf13}nals{\kf13} that{\kf13} the{\kf13} hunt{\kf13} has{\kf17} com{\kf42}menced
-Dialogue: 0,0:01:14.52,0:01:17.02,DEFAULT,,0,0,0,,{\kf13}You{\kf13} start{\kf13} to{\kf13} hoof{\kf13} it,{\kf17} bend{\kf13}ing{\kf13} to{\kf13} your{\kf13} own{\kf21} com{\kf13}mon{\kf42} sense
-Dialogue: 0,0:01:17.18,0:01:19.60,DEFAULT,,0,0,0,,{\kf13}You{\kf13} know{\kf13} no{\kf13} one's{\kf17} a{\kf13}round{\kf13} to{\kf13} help{\kf13} you{\kf13} mount{\kf13} a{\kf17} de{\kf42}fense
-Dialogue: 0,0:01:19.85,0:01:22.35,DEFAULT,,0,0,0,,{\kf13}And{\kf13} as{\kf13} you{\kf13} run,{\kf13} the{\kf13} air{\kf13} you're{\kf17} breath{\kf13}ing{\kf13} starts{\kf13} to{\kf13} get{\kf50} dense
-Dialogue: 0,0:01:22.51,0:01:24.93,DEFAULT,,0,0,0,,{\kf13}You{\kf30} try{\kf13} not{\kf13} to{\kf17} stum{\kf13}ble,{\kf13} legs{\kf17} a{\kf17}qui{\kf13}ver{\kf13} with{\kf42} fear
-Dialogue: 0,0:01:25.18,0:01:27.60,DEFAULT,,0,0,0,,{\kf13}And{\kf13} all{\kf13} its{\kf17} vi{\kf13}cious{\kf21} snarl{\kf13}ing's{\kf9} like{\kf13} a{\kf13} gun{\kf13} in{\kf13} your{\kf42} ear
-Dialogue: 0,0:01:27.85,0:01:30.26,DEFAULT,,0,0,0,,{\kf17}A{\kf9}dren{\kf9}a{\kf13}line{\kf13} numbs{\kf13} your{\kf17} bo{\kf13}dy{\kf13} as{\kf13} it{\kf13} kicks{\kf17} in{\kf13}to{\kf42} gear
-Dialogue: 0,0:01:30.51,0:01:33.85,DEFAULT,,0,0,0,,{\kf13}You{\kf13} see{\kf13} your{\kf17} peace{\kf13}ful{\kf17} vil{\kf13}lage{\kf13} and{\kf13} you{\kf17} fin{\kf17}al{\kf13}ly{\kf42} think{\kf25} you're{\kf50} clear
-Dialogue: 0,0:01:34.35,0:01:36.47,DEFAULT,,0,0,0,,{\kf13}BUT{\kf13} YOUR{\kf13} DOOM{\kf25} DRAWS{\kf38} E{\kf30}VER{\kf42} NEAR
-Dialogue: 0,0:01:36.68,0:01:38.34,DEFAULT,,0,0,0,,{\kf30}Run{\kf13} from{\kf13} the{\kf34} man{\kf17}ti{\kf50}core!
-Dialogue: 0,0:01:38.51,0:01:39.68,DEFAULT,,0,0,0,,{\kf13}It{\kf17} sens{\kf13}es{\kf13} your{\kf50} fear
-Dialogue: 0,0:01:39.84,0:01:41.34,DEFAULT,,0,0,0,,{\kf13}So{\kf13} there's{\kf17} no{\kf13}where{\kf13} to{\kf30} hide,{\kf30} now
-Dialogue: 0,0:01:41.68,0:01:43.34,DEFAULT,,0,0,0,,{\kf13}It's{\kf13} a{\kf17} crea{\kf13}ture{\kf13} like{\kf13} no{\kf17} o{\kf13}ther{\kf17} be{\kf17}fore
-Dialogue: 0,0:01:43.51,0:01:45.01,DEFAULT,,0,0,0,,{\kf13}A{\kf17} fer{\kf13}al{\kf17} kil{\kf13}ling{\kf17} ma{\kf46}chine
-Dialogue: 0,0:01:45.18,0:01:46.51,DEFAULT,,0,0,0,,{\kf13}So{\kf13} you{\kf13} should{\kf13} stay{\kf17} in{\kf30}side,{\kf9} now
-Dialogue: 0,0:01:46.68,0:01:48.84,DEFAULT,,0,0,0,,{\kf17}Cow{\kf13}er{\kf17} be{\kf46}fore{\kf25} the{\kf30} man{\kf17}ti{\kf34}core
-Dialogue: 0,0:01:49.01,0:01:50.18,DEFAULT,,0,0,0,,{\kf17}Un{\kf13}der{\kf17} co{\kf13}ver{\kf13} of{\kf34} night
-Dialogue: 0,0:01:50.34,0:01:52.01,DEFAULT,,0,0,0,,{\kf17}It{\kf13}'ll{\kf13} beat{\kf13} you{\kf13} til{\kf13} you're{\kf13} black{\kf17} and{\kf30} blue
-Dialogue: 0,0:01:52.34,0:01:54.34,DEFAULT,,0,0,0,,{\kf30}A{\kf17} ter{\kf17}rif{\kf17}y{\kf13}ing{\kf30} car{\kf17}ni{\kf50}vore
-Dialogue: 0,0:01:54.51,0:01:55.76,DEFAULT,,0,0,0,,{\kf13}You{\kf17} bet{\kf13}ter{\kf13} watch{\kf13} your{\kf13} back{\kf17} be{\kf9}cause
-Dialogue: 0,0:01:55.84,0:01:58.01,DEFAULT,,0,0,0,,{\kf13}It's{\kf17} gon{\kf13}na{\kf13} make{\kf13} a{\kf17} fill{\kf13}y{\kf13} out{\kf13} of{\kf67} you!
-Dialogue: 0,0:02:01.67,0:02:06.67,DEFAULT,,0,0,0,,{\kf30}THE{\kf34} MAN{\kf34}TI{\kf396}CORE
-Dialogue: 0,0:02:51.66,0:02:53.08,DEFAULT,,0,0,0,,{\kf13}BUT{\kf13} YOUR{\kf21} DOOM{\kf21} DRAWS{\kf46} E{\kf9}VER-
-Dialogue: 0,0:02:53.20,0:02:55.62,DEFAULT,,0,0,0,,{\kf13}You{\kf13} loose{\kf13} a{\kf13} cry{\kf13} for{\kf17} he{\kf13}-elp{\kf13} as{\kf13} you{\kf13} duck{\kf17} in{\kf13}to{\kf42} town
-Dialogue: 0,0:02:55.87,0:02:58.29,DEFAULT,,0,0,0,,{\kf13}You{\kf13} feel{\kf13} the{\kf17} mass{\kf13}ive{\kf17} trem{\kf13}ors{\kf13} when{\kf13} its{\kf13} paws{\kf13} hit{\kf13} the{\kf42} ground
-Dialogue: 0,0:02:58.54,0:03:00.95,DEFAULT,,0,0,0,,{\kf13}Your{\kf17} fel{\kf13}low{\kf17} po{\kf13}nies{\kf13} wake{\kf13} from{\kf13} the{\kf17} ca{\kf17}co{\kf17}phon{\kf13}ous{\kf42} sound
-Dialogue: 0,0:03:01.20,0:03:03.62,DEFAULT,,0,0,0,,{\kf13}But{\kf13} no{\kf13} one{\kf13} tries{\kf13} to{\kf13} save{\kf13} you{\kf13} from{\kf13} the{\kf17} mons{\kf13}ter{\kf17} in{\kf42}bound
-Dialogue: 0,0:03:04.04,0:03:06.29,DEFAULT,,0,0,0,,{\kf13}You{\kf17} coll{\kf13}apse,{\kf17} ex{\kf17}haust{\kf13}ed{\kf13} from{\kf13} your{\kf17} per{\kf17}il{\kf13}ous{\kf42} hike
-Dialogue: 0,0:03:06.54,0:03:08.95,DEFAULT,,0,0,0,,{\kf13}The{\kf9} re{\kf9}al{\kf17}i{\kf17}za{\kf13}tion{\kf13} hits{\kf13} you{\kf13} that{\kf13} your{\kf13} head's{\kf13} on{\kf13} a{\kf42} pike
-Dialogue: 0,0:03:09.20,0:03:11.62,DEFAULT,,0,0,0,,{\kf13}You{\kf13} bow{\kf17} be{\kf13}fore{\kf13} the{\kf17} man{\kf17}ti{\kf13}core{\kf13} with{\kf13} tears{\kf13} in{\kf13} your{\kf42} eyes
-Dialogue: 0,0:03:11.87,0:03:15.20,DEFAULT,,0,0,0,,{\kf13}You{\kf13} close{\kf13} your{\kf13} eyes{\kf13} in{\kf17} hor{\kf13}ror{\kf13} as{\kf13} you{\kf13} wait{\kf13} for{\kf13} its{\kf46} blow{\kf30} to{\kf46} strike
-Dialogue: 0,0:03:15.53,0:03:17.87,DEFAULT,,0,0,0,,{\kf13}IT'S{\kf17} GON{\kf13}NA{\kf13} END{\kf30} YOUR{\kf46} LIFE{\kf30} TO{\kf50}NIGHT
-Dialogue: 0,0:03:18.03,0:03:19.70,DEFAULT,,0,0,0,,{\kf30}Run{\kf13} from{\kf13} the{\kf30} man{\kf17}ti{\kf50}core!
-Dialogue: 0,0:03:19.87,0:03:21.03,DEFAULT,,0,0,0,,{\kf13}It{\kf17} sen{\kf13}ses{\kf13} your{\kf50} fear
-Dialogue: 0,0:03:21.20,0:03:22.70,DEFAULT,,0,0,0,,{\kf13}So{\kf13} there's{\kf17} no{\kf13}where{\kf13} to{\kf30} hide,{\kf30} now
-Dialogue: 0,0:03:23.03,0:03:24.70,DEFAULT,,0,0,0,,{\kf13}It's{\kf13} a{\kf17} crea{\kf13}ture{\kf13} like{\kf13} no{\kf17} oth{\kf13}er{\kf17} be{\kf17}fore
-Dialogue: 0,0:03:24.87,0:03:26.37,DEFAULT,,0,0,0,,{\kf13}A{\kf17} fer{\kf13}al{\kf17} kill{\kf13}ing{\kf17} ma{\kf50}chine
-Dialogue: 0,0:03:26.53,0:03:27.86,DEFAULT,,0,0,0,,{\kf13}So{\kf13} you{\kf13} should{\kf13} stay{\kf17} in{\kf30}side,{\kf13} now
-Dialogue: 0,0:03:28.03,0:03:30.20,DEFAULT,,0,0,0,,{\kf17}Cow{\kf13}er{\kf17} be{\kf46}fore{\kf30} the{\kf30} man{\kf17}ti{\kf34}core
-Dialogue: 0,0:03:30.36,0:03:31.53,DEFAULT,,0,0,0,,{\kf17}Un{\kf13}der{\kf17} co{\kf13}ver{\kf13} of{\kf34} night
-Dialogue: 0,0:03:31.70,0:03:33.36,DEFAULT,,0,0,0,,{\kf17}It{\kf13}'ll{\kf13} beat{\kf13} you{\kf13} til{\kf13} you're{\kf13} black{\kf13} and{\kf34} blue
-Dialogue: 0,0:03:33.70,0:03:35.70,DEFAULT,,0,0,0,,{\kf30}A{\kf17} ter{\kf17}rif{\kf17}y{\kf13}ing{\kf30} carn{\kf17}i{\kf50}vore
-Dialogue: 0,0:03:35.86,0:03:37.11,DEFAULT,,0,0,0,,{\kf13}You{\kf17} bet{\kf13}ter{\kf13} watch{\kf13} your{\kf13} back{\kf17} be{\kf9}cause
-Dialogue: 0,0:03:37.20,0:03:39.36,DEFAULT,,0,0,0,,{\kf13}It's{\kf17} gon{\kf13}na{\kf13} make{\kf13} a{\kf17} fil{\kf13}ly{\kf13} out{\kf13} of{\kf67} you!
-Dialogue: 0,0:03:43.03,0:03:48.03,DEFAULT,,0,0,0,,{\kf30}THE{\kf34} MAN{\kf34}TI{\kf396}CORE
-Dialogue: 0,0:03:53.69,0:03:56.98,DEFAULT,,0,0,0,,{\kf30}THE{\kf34} MAN{\kf34}TI{\kf225}CORE
-Dialogue: 0,0:03:57.19,0:03:58.44,DEFAULT,,0,0,0,,{\kf13}You{\kf17} bet{\kf13}ter{\kf13} watch{\kf13} your{\kf13} back{\kf17} be{\kf9}cause
-Dialogue: 0,0:03:58.53,0:04:00.65,DEFAULT,,0,0,0,,{\kf13}It's{\kf17} gon{\kf13}na{\kf13} make{\kf13} a{\kf17} fil{\kf13}ly{\kf13} out{\kf13} of{\kf59} you!
+Dialogue: 0,0:00:26.53,0:00:29.03,DEFAULT,,0,0,0,,{\r}{\kf15}The{\kf34} clouds{\kf20} rol{\kf15}ling{\kf20} o{\kf20}ver{\kf15}head{\kf15} block{\kf15} out{\kf15} all{\kf15} the{\kf51} light
+Dialogue: 0,0:00:29.20,0:00:31.70,DEFAULT,,0,0,0,,{\r}{\kf15}The{\kf20} twist{\kf15}ing{\kf15} trees{\kf15} and{\kf20} branch{\kf15}es{\kf15} are{\kf15} an{\kf15} om{\kf20}in{\kf15}ous{\kf55} sight
+Dialogue: 0,0:00:31.86,0:00:34.20,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf15} know{\kf15} that{\kf20} some{\kf15}thing's{\kf20} watch{\kf15}ing,{\kf15} hear{\kf15} a{\kf15} howl{\kf15} in{\kf15} the{\kf43} night
+Dialogue: 0,0:00:34.36,0:00:37.03,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf19} be{\kf14}neath{\kf14} your{\kf14} calm{\kf19} ex{\kf19}ter{\kf19}i{\kf14}or,{\kf14} you{\kf19} trem{\kf14}ble{\kf14} with{\kf60} fright
+Dialogue: 0,0:00:37.19,0:00:39.36,DEFAULT,,0,0,0,,{\r}{\kf16}Your{\kf16} legs{\kf21} be{\kf16}gin{\kf16} to{\kf21} sha{\kf16}-ake{\kf16} and{\kf16} your{\kf16} tail{\kf16} starts{\kf16} to{\kf15} sway
+Dialogue: 0,0:00:39.53,0:00:42.19,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf15} feel{\kf15} its{\kf21} hung{\kf15}er{\kf15} for{\kf15} you{\kf15} as{\kf15} you{\kf15} try{\kf15} to{\kf15} hide{\kf15} your{\kf21} dis{\kf45}may
+Dialogue: 0,0:00:42.53,0:00:44.94,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf15} think{\kf15} you{\kf15} might{\kf15} be{\kf15} able{\kf15} to{\kf15} keep{\kf15} the{\kf15} beast{\kf36} at{\kf56} bay
+Dialogue: 0,0:00:45.19,0:00:48.53,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf15} heed{\kf15} your{\kf20} bet{\kf15}ter{\kf20} judg{\kf20}ment,{\kf15} you{\kf15} know{\kf15} it's{\kf20} un{\kf51}wise{\kf36} to{\kf61} stay
+Dialogue: 0,0:00:49.03,0:00:54.69,DEFAULT,,0,0,0,,{\r}{\kf13}SO{\kf13} YOU{\kf17} BET{\kf30}TER{\kf48} RUN{\kf35} A{\kf411}WAY
+Dialogue: 0,0:00:55.02,0:01:00.02,DEFAULT,,0,0,0,,{\r}{\kf30}THE{\kf34} MAN{\kf34}TI{\kf402}CORE
+Dialogue: 0,0:01:05.69,0:01:10.69,DEFAULT,,0,0,0,,{\r}{\kf30}THE{\kf34} MAN{\kf34}TI{\kf402}CORE
+Dialogue: 0,0:01:11.85,0:01:14.27,DEFAULT,,0,0,0,,{\r}{\kf15}A{\kf19} might{\kf15}y{\kf19} bel{\kf15}low{\kf19} sig{\kf15}nals{\kf15} that{\kf15} the{\kf15} hunt{\kf15} has{\kf19} com{\kf46}menced
+Dialogue: 0,0:01:14.52,0:01:17.02,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf15} start{\kf15} to{\kf15} hoof{\kf15} it,{\kf20} bend{\kf15}ing{\kf15} to{\kf15} your{\kf15} own{\kf26} com{\kf15}mon{\kf54} sense
+Dialogue: 0,0:01:17.19,0:01:19.60,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf15} know{\kf15} no{\kf15} one's{\kf20} a{\kf15}round{\kf15} to{\kf15} help{\kf15} you{\kf15} mount{\kf15} a{\kf20} de{\kf52}fense
+Dialogue: 0,0:01:19.85,0:01:22.35,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} as{\kf15} you{\kf15} run,{\kf15} the{\kf15} air{\kf15} you're{\kf20} breath{\kf15}ing{\kf15} starts{\kf15} to{\kf15} get{\kf65} dense
+Dialogue: 0,0:01:22.52,0:01:24.94,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf34} try{\kf15} not{\kf15} to{\kf19} stum{\kf15}ble,{\kf15} legs{\kf19} a{\kf19}qui{\kf15}ver{\kf15} with{\kf46} fear
+Dialogue: 0,0:01:25.19,0:01:27.60,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} all{\kf15} its{\kf20} vi{\kf15}cious{\kf25} snarl{\kf15}ing's{\kf10} like{\kf15} a{\kf15} gun{\kf15} in{\kf15} your{\kf52} ear
+Dialogue: 0,0:01:27.85,0:01:30.27,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf10}dren{\kf10}a{\kf15}line{\kf15} numbs{\kf15} your{\kf19} bo{\kf15}dy{\kf15} as{\kf15} it{\kf15} kicks{\kf19} in{\kf15}to{\kf45} gear
+Dialogue: 0,0:01:30.52,0:01:33.85,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf15} see{\kf15} your{\kf20} peace{\kf15}ful{\kf20} vil{\kf15}lage{\kf15} and{\kf15} you{\kf20} fin{\kf20}al{\kf15}ly{\kf49} think{\kf29} you're{\kf55} clear
+Dialogue: 0,0:01:34.35,0:01:36.47,DEFAULT,,0,0,0,,{\r}{\kf16}BUT{\kf16} YOUR{\kf16} DOOM{\kf31} DRAWS{\kf47} E{\kf36}VER{\kf50} NEAR
+Dialogue: 0,0:01:36.68,0:01:38.35,DEFAULT,,0,0,0,,{\r}{\kf32}Run{\kf14} from{\kf14} the{\kf36} man{\kf18}ti{\kf53}core!
+Dialogue: 0,0:01:38.52,0:01:39.68,DEFAULT,,0,0,0,,{\r}{\kf14}It{\kf19} sens{\kf14}es{\kf14} your{\kf56} fear
+Dialogue: 0,0:01:39.85,0:01:41.35,DEFAULT,,0,0,0,,{\r}{\kf15}So{\kf15} there's{\kf20} no{\kf15}where{\kf15} to{\kf35} hide,{\kf35} now
+Dialogue: 0,0:01:41.68,0:01:43.35,DEFAULT,,0,0,0,,{\r}{\kf15}It's{\kf15} a{\kf20} crea{\kf15}ture{\kf15} like{\kf15} no{\kf20} o{\kf15}ther{\kf20} be{\kf17}fore
+Dialogue: 0,0:01:43.52,0:01:45.01,DEFAULT,,0,0,0,,{\r}{\kf14}A{\kf19} fer{\kf14}al{\kf19} kil{\kf14}ling{\kf19} ma{\kf51}chine
+Dialogue: 0,0:01:45.18,0:01:46.51,DEFAULT,,0,0,0,,{\r}{\kf16}So{\kf16} you{\kf16} should{\kf16} stay{\kf21} in{\kf37}side,{\kf11} now
+Dialogue: 0,0:01:46.68,0:01:48.85,DEFAULT,,0,0,0,,{\r}{\kf18}Cow{\kf14}er{\kf18} be{\kf51}fore{\kf28} the{\kf32} man{\kf18}ti{\kf38}core
+Dialogue: 0,0:01:49.01,0:01:50.18,DEFAULT,,0,0,0,,{\r}{\kf19}Un{\kf14}der{\kf19} co{\kf14}ver{\kf14} of{\kf37} night
+Dialogue: 0,0:01:50.35,0:01:52.01,DEFAULT,,0,0,0,,{\r}{\kf20}It{\kf15}'ll{\kf15} beat{\kf15} you{\kf15} til{\kf15} you're{\kf15} black{\kf20} and{\kf37} blue
+Dialogue: 0,0:01:52.35,0:01:54.35,DEFAULT,,0,0,0,,{\r}{\kf31}A{\kf18} ter{\kf18}rif{\kf18}y{\kf13}ing{\kf31} car{\kf18}ni{\kf53}vore
+Dialogue: 0,0:01:54.51,0:01:55.76,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf20} bet{\kf15}ter{\kf15} watch{\kf15} your{\kf15} back{\kf20} be{\kf10}cause
+Dialogue: 0,0:01:55.85,0:01:58.01,DEFAULT,,0,0,0,,{\r}{\kf14}It's{\kf19} gon{\kf14}na{\kf14} make{\kf14} a{\kf19} fill{\kf14}y{\kf14} out{\kf14} of{\kf81} you!
+Dialogue: 0,0:02:01.68,0:02:06.68,DEFAULT,,0,0,0,,{\r}{\kf30}THE{\kf34} MAN{\kf34}TI{\kf402}CORE
+Dialogue: 0,0:02:51.67,0:02:53.08,DEFAULT,,0,0,0,,{\r}{\kf15}BUT{\kf15} YOUR{\kf24} DOOM{\kf24} DRAWS{\kf54} E{\kf10}VER-
+Dialogue: 0,0:02:53.21,0:02:55.63,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf15} loose{\kf15} a{\kf15} cry{\kf15} for{\kf20} he{\kf15}-elp{\kf15} as{\kf15} you{\kf15} duck{\kf20} in{\kf15}to{\kf52} town
+Dialogue: 0,0:02:55.88,0:02:58.29,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf15} feel{\kf15} the{\kf20} mass{\kf15}ive{\kf20} trem{\kf15}ors{\kf15} when{\kf15} its{\kf15} paws{\kf15} hit{\kf15} the{\kf52} ground
+Dialogue: 0,0:02:58.54,0:03:00.96,DEFAULT,,0,0,0,,{\r}{\kf14}Your{\kf19} fel{\kf14}low{\kf19} po{\kf14}nies{\kf14} wake{\kf14} from{\kf14} the{\kf19} ca{\kf19}co{\kf19}phon{\kf14}ous{\kf49} sound
+Dialogue: 0,0:03:01.21,0:03:03.62,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf15} no{\kf15} one{\kf15} tries{\kf15} to{\kf15} save{\kf15} you{\kf15} from{\kf15} the{\kf20} mons{\kf15}ter{\kf20} in{\kf52}bound
+Dialogue: 0,0:03:04.04,0:03:06.29,DEFAULT,,0,0,0,,{\r}{\kf14}You{\kf19} coll{\kf14}apse,{\kf19} ex{\kf19}haust{\kf14}ed{\kf14} from{\kf14} your{\kf19} per{\kf19}il{\kf14}ous{\kf46} hike
+Dialogue: 0,0:03:06.54,0:03:08.96,DEFAULT,,0,0,0,,{\r}{\kf15}The{\kf10} re{\kf10}al{\kf20}i{\kf20}za{\kf15}tion{\kf15} hits{\kf15} you{\kf15} that{\kf15} your{\kf15} head's{\kf15} on{\kf15} a{\kf47} pike
+Dialogue: 0,0:03:09.21,0:03:11.62,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf15} bow{\kf20} be{\kf15}fore{\kf15} the{\kf20} man{\kf20}ti{\kf15}core{\kf15} with{\kf15} tears{\kf15} in{\kf15} your{\kf47} eyes
+Dialogue: 0,0:03:11.87,0:03:15.21,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf15} close{\kf15} your{\kf15} eyes{\kf15} in{\kf20} hor{\kf15}ror{\kf15} as{\kf15} you{\kf15} wait{\kf15} for{\kf15} its{\kf56} blow{\kf35} to{\kf57} strike
+Dialogue: 0,0:03:15.54,0:03:17.87,DEFAULT,,0,0,0,,{\r}{\kf14}IT'S{\kf19} GON{\kf14}NA{\kf14} END{\kf33} YOUR{\kf51} LIFE{\kf33} TO{\kf55}NIGHT
+Dialogue: 0,0:03:18.04,0:03:19.70,DEFAULT,,0,0,0,,{\r}{\kf32}Run{\kf14} from{\kf14} the{\kf32} man{\kf19}ti{\kf56}core!
+Dialogue: 0,0:03:19.87,0:03:21.04,DEFAULT,,0,0,0,,{\r}{\kf14}It{\kf19} sen{\kf14}ses{\kf14} your{\kf56} fear
+Dialogue: 0,0:03:21.20,0:03:22.70,DEFAULT,,0,0,0,,{\r}{\kf15}So{\kf15} there's{\kf20} no{\kf15}where{\kf15} to{\kf35} hide,{\kf35} now
+Dialogue: 0,0:03:23.04,0:03:24.70,DEFAULT,,0,0,0,,{\r}{\kf15}It's{\kf15} a{\kf20} crea{\kf15}ture{\kf15} like{\kf15} no{\kf20} oth{\kf15}er{\kf20} be{\kf17}fore
+Dialogue: 0,0:03:24.87,0:03:26.37,DEFAULT,,0,0,0,,{\r}{\kf14}A{\kf18} fer{\kf14}al{\kf18} kill{\kf14}ing{\kf18} ma{\kf54}chine
+Dialogue: 0,0:03:26.54,0:03:27.87,DEFAULT,,0,0,0,,{\r}{\kf15}So{\kf15} you{\kf15} should{\kf15} stay{\kf20} in{\kf36}side,{\kf17} now
+Dialogue: 0,0:03:28.04,0:03:30.20,DEFAULT,,0,0,0,,{\r}{\kf18}Cow{\kf14}er{\kf18} be{\kf50}fore{\kf32} the{\kf32} man{\kf18}ti{\kf35}core
+Dialogue: 0,0:03:30.37,0:03:31.54,DEFAULT,,0,0,0,,{\r}{\kf19}Un{\kf14}der{\kf19} co{\kf14}ver{\kf14} of{\kf37} night
+Dialogue: 0,0:03:31.70,0:03:33.37,DEFAULT,,0,0,0,,{\r}{\kf20}It{\kf15}'ll{\kf15} beat{\kf15} you{\kf15} til{\kf15} you're{\kf15} black{\kf15} and{\kf42} blue
+Dialogue: 0,0:03:33.70,0:03:35.70,DEFAULT,,0,0,0,,{\r}{\kf31}A{\kf18} ter{\kf18}rif{\kf18}y{\kf13}ing{\kf31} carn{\kf18}i{\kf53}vore
+Dialogue: 0,0:03:35.87,0:03:37.12,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf20} bet{\kf15}ter{\kf15} watch{\kf15} your{\kf15} back{\kf20} be{\kf10}cause
+Dialogue: 0,0:03:37.20,0:03:39.37,DEFAULT,,0,0,0,,{\r}{\kf14}It's{\kf19} gon{\kf14}na{\kf14} make{\kf14} a{\kf19} fil{\kf14}ly{\kf14} out{\kf14} of{\kf81} you!
+Dialogue: 0,0:03:43.03,0:03:48.03,DEFAULT,,0,0,0,,{\r}{\kf30}THE{\kf34} MAN{\kf34}TI{\kf402}CORE
+Dialogue: 0,0:03:53.70,0:03:56.99,DEFAULT,,0,0,0,,{\r}{\kf30}THE{\kf34} MAN{\kf34}TI{\kf231}CORE
+Dialogue: 0,0:03:57.20,0:03:58.45,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf20} bet{\kf15}ter{\kf15} watch{\kf15} your{\kf15} back{\kf20} be{\kf10}cause
+Dialogue: 0,0:03:58.53,0:04:00.66,DEFAULT,,0,0,0,,{\r}{\kf15}It's{\kf20} gon{\kf15}na{\kf15} make{\kf15} a{\kf20} fil{\kf15}ly{\kf15} out{\kf15} of{\kf67} you!

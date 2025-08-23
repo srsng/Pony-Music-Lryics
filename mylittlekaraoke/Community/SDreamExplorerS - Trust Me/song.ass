@@ -1,83 +1,90 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Trust Me!
+Artist: SDreamExplorerS
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.14,0:00:09.34,DEFAULT,,0,0,0,,{\kf51}I{\kf38} know{\kf38} the{\kf38} busi{\kf32}ness{\kf44} dar{\kf19}ling{\kf76}~
-Dialogue: 0,0:00:10.78,0:00:12.28,DEFAULT,,0,0,0,,{\kf19}I{\kf26} know{\kf19} it{\kf44} well
-Dialogue: 0,0:00:13.10,0:00:17.17,DEFAULT,,0,0,0,,{\kf57}I'll{\kf32} leave{\kf32} this{\kf19} room{\kf57}~{\kf32} spark{\kf19}ling{\kf57}~
-Dialogue: 0,0:00:18.29,0:00:20.30,DEFAULT,,0,0,0,,{\kf19}Just{\kf19} like{\kf19} my{\kf32} ca{\kf19}rou{\kf51}sel
-Dialogue: 0,0:00:21.11,0:00:25.37,DEFAULT,,0,0,0,,{\kf32}I{\kf32} know{\kf19} what{\kf26} it{\kf19} takes{\kf32}~{\kf19} to{\kf32} make{\kf26} it{\kf76}~
-Dialogue: 0,0:00:27.13,0:00:28.25,DEFAULT,,0,0,0,,{\kf26}To{\kf19} the{\kf44} top
-Dialogue: 0,0:00:28.82,0:00:33.70,DEFAULT,,0,0,0,,{\kf19}With{\kf26} me{\kf32} a{\kf26}round{\kf26}~{\kf26} you{\kf32} won't{\kf32} have{\kf19} to{\kf19} fake{\kf38}~{\kf26} it{\kf57}~
-Dialogue: 0,0:00:34.33,0:00:36.39,DEFAULT,,0,0,0,,{\kf19}Why{\kf19} would{\kf19} you{\kf26} want{\kf19} me{\kf19} to{\kf32} stop?
-Dialogue: 0,0:00:36.77,0:00:38.40,DEFAULT,,0,0,0,,{\kf19}I{\kf19} know{\kf19} it's{\kf13} gon{\kf19}na{\kf44} work
-Dialogue: 0,0:00:39.34,0:00:42.85,DEFAULT,,0,0,0,,{\kf19}It's{\kf13} gon{\kf19}na{\kf26} work{\kf26} out{\kf26} just{\kf26} fine,{\kf32} trust{\kf76} me
-Dialogue: 0,0:00:43.28,0:00:44.41,DEFAULT,,0,0,0,,{\kf19}It's{\kf13} gon{\kf19}na{\kf44} work
-Dialogue: 0,0:00:44.79,0:00:46.23,DEFAULT,,0,0,0,,{\kf19}I{\kf19} know{\kf19} it's{\kf13} gon{\kf13}na{\kf32} work
-Dialogue: 0,0:00:47.29,0:00:50.80,DEFAULT,,0,0,0,,{\kf19}It's{\kf19} gon{\kf19}na{\kf26} work{\kf19} out{\kf19} just{\kf32} fine,{\kf32} you'll{\kf76} see!
-Dialogue: 0,0:00:51.30,0:00:52.43,DEFAULT,,0,0,0,,{\kf19}It's{\kf13} gon{\kf19}na{\kf44} work
-Dialogue: 0,0:00:52.80,0:00:54.31,DEFAULT,,0,0,0,,{\kf19}I{\kf19} know{\kf19} it's{\kf13} gon{\kf19}na{\kf32} work
-Dialogue: 0,0:00:55.31,0:00:58.94,DEFAULT,,0,0,0,,{\kf19}It's{\kf19} gon{\kf19}na{\kf26} work{\kf26} out{\kf26} just{\kf26} fine{\kf32} trust{\kf88} me
-Dialogue: 0,0:00:59.25,0:01:00.38,DEFAULT,,0,0,0,,{\kf19}It's{\kf13} gon{\kf13}na{\kf38} work
-Dialogue: 0,0:01:00.76,0:01:02.45,DEFAULT,,0,0,0,,{\kf19}I{\kf19} know{\kf19} it's{\kf13} gon{\kf13}na{\kf44} work
-Dialogue: 0,0:01:03.33,0:01:08.34,DEFAULT,,0,0,0,,{\kf19}It's{\kf19} gon{\kf19}na{\kf26} work{\kf19} out{\kf19} just{\kf32} fine{\kf32} you'll{\kf188} see{\kf32}~!
-Dialogue: 0,0:01:16.54,0:01:19.73,DEFAULT,,0,0,0,,{\kf19}To{\kf19} com{\kf26}pete{\kf38} you{\kf26} need{\kf19} to{\kf94} change
-Dialogue: 0,0:01:20.30,0:01:23.81,DEFAULT,,0,0,0,,{\kf19}A{\kf19} whole{\kf19} new{\kf26} po{\kf26}ny{\kf19} I{\kf26} can{\kf32} ar{\kf94}range
-Dialogue: 0,0:01:24.06,0:01:27.00,DEFAULT,,0,0,0,,{\kf26}Dar{\kf26}ling{\kf19} just{\kf19} let{\kf19} my{\kf19} voice{\kf26} guide{\kf51} you
-Dialogue: 0,0:01:27.75,0:01:30.88,DEFAULT,,0,0,0,,{\kf19}I'll{\kf26} lead{\kf26} you{\kf19} to{\kf32} glo{\kf19}ry{\kf19} and{\kf82} fame
-Dialogue: 0,0:01:32.07,0:01:35.20,DEFAULT,,0,0,0,,{\kf26}Dar{\kf26}ling{\kf19} just{\kf19} leave{\kf19} doubts{\kf19} be{\kf32}hind{\kf69} you
-Dialogue: 0,0:01:35.77,0:01:39.65,DEFAULT,,0,0,0,,{\kf19}With{\kf26} me{\kf26} you{\kf32} will{\kf26} win{\kf19} this{\kf157} game
-Dialogue: 0,0:01:40.53,0:01:44.16,DEFAULT,,0,0,0,,{\kf26}It's{\kf26} al{\kf38}most{\kf32} time{\kf26}~{\kf38} to{\kf44} de{\kf32}but,
-Dialogue: 0,0:01:45.04,0:01:48.36,DEFAULT,,0,0,0,,{\kf69}A{\kf76} whole{\kf44} new{\kf19}~{\kf51} you
-Dialogue: 0,0:01:48.80,0:01:52.24,DEFAULT,,0,0,0,,{\kf26}The{\kf26} one{\kf26} that{\kf26} e{\kf26}very{\kf26}one{\kf32}~{\kf19} will{\kf38} see,
-Dialogue: 0,0:01:52.74,0:01:57.13,DEFAULT,,0,0,0,,{\kf19}Is{\kf38} or{\kf38}ches{\kf51}tra{\kf19}~{\kf32}ted{\kf38} by{\kf132} me
-Dialogue: 0,0:01:57.38,0:01:58.44,DEFAULT,,0,0,0,,{\kf19}It's{\kf13} gon{\kf13}na{\kf38} work
-Dialogue: 0,0:01:58.82,0:02:00.38,DEFAULT,,0,0,0,,{\kf19}I{\kf19} know{\kf19} it's{\kf13} gon{\kf13}na{\kf38} work
-Dialogue: 0,0:02:01.26,0:02:04.95,DEFAULT,,0,0,0,,{\kf19}It's{\kf19} gon{\kf19}na{\kf26} work{\kf19} out{\kf19} just{\kf26} fine,{\kf32} trust{\kf88} me
-Dialogue: 0,0:02:05.33,0:02:06.46,DEFAULT,,0,0,0,,{\kf19}It's{\kf13} gon{\kf13}na{\kf44} work
-Dialogue: 0,0:02:06.83,0:02:08.46,DEFAULT,,0,0,0,,{\kf19}I{\kf13} know{\kf19} it's{\kf13} gon{\kf19}na{\kf44} work
-Dialogue: 0,0:02:09.28,0:02:13.03,DEFAULT,,0,0,0,,{\kf19}It's{\kf19} gon{\kf19}na{\kf26} work{\kf26} out{\kf19} just{\kf26} fine,{\kf32} you'll{\kf94} see!
-Dialogue: 0,0:02:13.28,0:02:14.47,DEFAULT,,0,0,0,,{\kf19}It's{\kf13} gon{\kf13}na{\kf51} work
-Dialogue: 0,0:02:14.79,0:02:16.35,DEFAULT,,0,0,0,,{\kf19}I{\kf19} know{\kf13} it's{\kf13} gon{\kf13}na{\kf38} work
-Dialogue: 0,0:02:17.29,0:02:21.05,DEFAULT,,0,0,0,,{\kf19}It's{\kf13} gon{\kf19}na{\kf32} work{\kf19} out{\kf19} just{\kf32} fine,{\kf32} trust{\kf101} me
-Dialogue: 0,0:02:21.30,0:02:22.43,DEFAULT,,0,0,0,,{\kf13}It's{\kf13} gon{\kf19}na{\kf38} work
-Dialogue: 0,0:02:22.87,0:02:24.43,DEFAULT,,0,0,0,,{\kf19}I{\kf13} know{\kf19} it's{\kf13} gon{\kf19}na{\kf44} work
-Dialogue: 0,0:02:25.31,0:02:29.76,DEFAULT,,0,0,0,,{\kf19}It's{\kf19} gon{\kf19}na{\kf19} work{\kf19} out{\kf19} just{\kf32} fine,{\kf32} you'll{\kf170} see!
-Dialogue: 0,0:02:30.07,0:02:32.89,DEFAULT,,0,0,0,,{\kf26}Dar{\kf19}ling{\kf19} you've{\kf32} ne{\kf19}ver{\kf19} looked{\kf32} bet{\kf44}ter
-Dialogue: 0,0:02:33.76,0:02:36.58,DEFAULT,,0,0,0,,{\kf26}Come{\kf19} on{\kf26} blow{\kf26} the{\kf32} crowd{\kf19} a{\kf51} kiss
-Dialogue: 0,0:02:38.09,0:02:40.90,DEFAULT,,0,0,0,,{\kf32}Dar{\kf19}ling{\kf26} you'll{\kf32} ne{\kf19}ver{\kf19} be{\kf32} bet{\kf44}ter
-Dialogue: 0,0:02:41.78,0:02:44.85,DEFAULT,,0,0,0,,{\kf26}You'll{\kf26} ne{\kf19}ver{\kf19} be{\kf32} bet{\kf19}ter{\kf19} than{\kf76} this
-Dialogue: 0,0:03:03.26,0:03:04.45,DEFAULT,,0,0,0,,{\kf19}It's{\kf19} gon{\kf13}na{\kf38} work
-Dialogue: 0,0:03:04.77,0:03:06.33,DEFAULT,,0,0,0,,{\kf19}I{\kf19} know{\kf13} it's{\kf13} gon{\kf13}na{\kf38} work
-Dialogue: 0,0:03:07.27,0:03:10.78,DEFAULT,,0,0,0,,{\kf19}It's{\kf19} gon{\kf19}na{\kf26} work{\kf19} out{\kf19} just{\kf26} fine,{\kf32} you'll{\kf76} see
-Dialogue: 0,0:03:11.28,0:03:12.41,DEFAULT,,0,0,0,,{\kf13}It's{\kf19} gon{\kf13}na{\kf38} work
-Dialogue: 0,0:03:12.78,0:03:14.41,DEFAULT,,0,0,0,,{\kf19}I{\kf19} know{\kf13} it's{\kf13} gon{\kf13}na{\kf44} work
-Dialogue: 0,0:03:15.29,0:03:19.73,DEFAULT,,0,0,0,,{\kf19}It's{\kf19} gon{\kf19}na{\kf26} work{\kf26} out{\kf19} just{\kf32} fine,{\kf32} you'll{\kf170} see!
-Dialogue: 0,0:03:37.21,0:03:41.09,DEFAULT,,0,0,0,,{\kf44}I{\kf38} know{\kf32} the{\kf32} busi{\kf32}ness{\kf44} dar{\kf19}ling{\kf51}~
-Dialogue: 0,0:03:42.85,0:03:44.29,DEFAULT,,0,0,0,,{\kf19}I{\kf26} know{\kf26} it{\kf44} well
-Dialogue: 0,0:03:45.10,0:03:49.05,DEFAULT,,0,0,0,,{\kf51}I'll{\kf32} leave{\kf32} this{\kf19} room{\kf44}~{\kf44} spark{\kf26}ling{\kf44}~
-Dialogue: 0,0:03:50.30,0:03:52.24,DEFAULT,,0,0,0,,{\kf19}Just{\kf19} like{\kf19} my{\kf38} ca{\kf26}rou{\kf44}sel
-Dialogue: 0,0:03:53.05,0:03:57.38,DEFAULT,,0,0,0,,{\kf38}I{\kf32} know{\kf19} what{\kf26} it{\kf26} takes{\kf26}~{\kf19} to{\kf38} make{\kf32} it{\kf69}~
-Dialogue: 0,0:03:59.07,0:04:00.19,DEFAULT,,0,0,0,,{\kf32}To{\kf19} the{\kf38} top
-Dialogue: 0,0:04:00.76,0:04:05.64,DEFAULT,,0,0,0,,{\kf26}With{\kf26} me{\kf32} a{\kf26}round{\kf19}~{\kf26} you{\kf32} won't{\kf38} have{\kf19} to{\kf26} fake{\kf32}~{\kf26} it{\kf51}~
-Dialogue: 0,0:04:06.33,0:04:08.40,DEFAULT,,0,0,0,,{\kf13}Why{\kf19} would{\kf19} you{\kf26} want{\kf19} me{\kf19} to{\kf32} stop?
-Dialogue: 0,0:04:08.84,0:04:10.40,DEFAULT,,0,0,0,,{\kf19}I{\kf13} know{\kf13} it's{\kf13} gon{\kf13}na{\kf44} work
-Dialogue: 0,0:04:11.28,0:04:14.72,DEFAULT,,0,0,0,,{\kf19}It's{\kf19} gon{\kf19}na{\kf26} work{\kf19} out{\kf19} just{\kf26} fine,{\kf38} trust{\kf69} me
-Dialogue: 0,0:04:15.29,0:04:16.35,DEFAULT,,0,0,0,,{\kf13}It's{\kf13} gon{\kf13}na{\kf38} work
-Dialogue: 0,0:04:16.79,0:04:18.42,DEFAULT,,0,0,0,,{\kf13}I{\kf13} know{\kf13} it's{\kf13} gon{\kf13}na{\kf44} work
-Dialogue: 0,0:04:19.30,0:04:22.93,DEFAULT,,0,0,0,,{\kf19}It's{\kf19} gon{\kf13}na{\kf26} work{\kf19} out{\kf19} just{\kf26} fine,{\kf32} you'll{\kf88} see!
-Dialogue: 0,0:04:23.30,0:04:24.43,DEFAULT,,0,0,0,,{\kf19}It's{\kf13} gon{\kf13}na{\kf44} work
-Dialogue: 0,0:04:24.81,0:04:26.56,DEFAULT,,0,0,0,,{\kf19}I{\kf13} know{\kf19} it's{\kf13} gon{\kf13}na{\kf57} work
-Dialogue: 0,0:04:27.31,0:04:31.07,DEFAULT,,0,0,0,,{\kf19}It's{\kf19} gon{\kf19}na{\kf26} work{\kf26} out{\kf19} just{\kf26} fine,{\kf32} trust{\kf101} me
-Dialogue: 0,0:04:31.32,0:04:32.39,DEFAULT,,0,0,0,,{\kf13}It's{\kf13} gon{\kf13}na{\kf38} work
-Dialogue: 0,0:04:32.82,0:04:34.39,DEFAULT,,0,0,0,,{\kf13}I{\kf19} know{\kf13} it's{\kf13} gon{\kf13}na{\kf44} work
-Dialogue: 0,0:04:35.27,0:04:40.65,DEFAULT,,0,0,0,,{\kf19}It's{\kf19} gon{\kf19}na{\kf26} work{\kf19} out{\kf19} just{\kf32} fine,{\kf26} you'll{\kf188} see{\kf63}~!
-Dialogue: 0,0:04:48.36,0:04:51.80,DEFAULT,,0,0,0,,{\kf19}Be{\kf19}cause{\kf19} no{\kf19}po{\kf19}ny{\kf26} knows{\kf19} bet{\kf19}ter{\kf19} than{\kf94} me
-Dialogue: 0,0:04:52.55,0:04:58.75,DEFAULT,,0,0,0,,{\kf19}How{\kf26} to{\kf32} make{\kf32} you{\kf38}~{\kf38} le{\kf51}gen{\kf32}da{\kf264}ry
+Dialogue: 0,0:00:05.15,0:00:09.34,DEFAULT,,0,0,0,,{\r}{\kf63}I{\kf48} know{\kf48} the{\kf48} busi{\kf40}ness{\kf55} dar{\kf24}ling{\kf94}~
+Dialogue: 0,0:00:10.78,0:00:12.29,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf35} know{\kf26} it{\kf63} well
+Dialogue: 0,0:00:13.10,0:00:17.17,DEFAULT,,0,0,0,,{\r}{\kf76}I'll{\kf42} leave{\kf42} this{\kf25} room{\kf76}~{\kf42} spark{\kf25}ling{\kf79}~
+Dialogue: 0,0:00:18.30,0:00:20.30,DEFAULT,,0,0,0,,{\r}{\kf24}Just{\kf24} like{\kf24} my{\kf40} ca{\kf24}rou{\kf64}sel
+Dialogue: 0,0:00:21.12,0:00:25.38,DEFAULT,,0,0,0,,{\r}{\kf43}I{\kf43} know{\kf26} what{\kf35} it{\kf26} takes{\kf43}~{\kf26} to{\kf43} make{\kf35} it{\kf106}~
+Dialogue: 0,0:00:27.13,0:00:28.26,DEFAULT,,0,0,0,,{\r}{\kf32}To{\kf24} the{\kf57} top
+Dialogue: 0,0:00:28.82,0:00:33.71,DEFAULT,,0,0,0,,{\r}{\kf25}With{\kf33} me{\kf41} a{\kf33}round{\kf33}~{\kf33} you{\kf41} won't{\kf41} have{\kf25} to{\kf25} fake{\kf50}~{\kf33} it{\kf76}~
+Dialogue: 0,0:00:34.33,0:00:36.40,DEFAULT,,0,0,0,,{\r}{\kf26}Why{\kf26} would{\kf26} you{\kf34} want{\kf26} me{\kf26} to{\kf43} stop?
+Dialogue: 0,0:00:36.78,0:00:38.40,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf23} know{\kf23} it's{\kf16} gon{\kf23}na{\kf55} work
+Dialogue: 0,0:00:39.34,0:00:42.85,DEFAULT,,0,0,0,,{\r}{\kf26}It's{\kf17} gon{\kf26}na{\kf34} work{\kf34} out{\kf34} just{\kf34} fine,{\kf43} trust{\kf103} me
+Dialogue: 0,0:00:43.29,0:00:44.42,DEFAULT,,0,0,0,,{\r}{\kf23}It's{\kf15} gon{\kf23}na{\kf52} work
+Dialogue: 0,0:00:44.79,0:00:46.23,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} know{\kf24} it's{\kf16} gon{\kf16}na{\kf40} work
+Dialogue: 0,0:00:47.30,0:00:50.80,DEFAULT,,0,0,0,,{\r}{\kf26}It's{\kf26} gon{\kf26}na{\kf34} work{\kf26} out{\kf26} just{\kf43} fine,{\kf43} you'll{\kf101} see!
+Dialogue: 0,0:00:51.31,0:00:52.43,DEFAULT,,0,0,0,,{\r}{\kf23}It's{\kf15} gon{\kf23}na{\kf52} work
+Dialogue: 0,0:00:52.81,0:00:54.31,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} know{\kf24} it's{\kf16} gon{\kf24}na{\kf38} work
+Dialogue: 0,0:00:55.31,0:00:58.95,DEFAULT,,0,0,0,,{\r}{\kf25}It's{\kf25} gon{\kf25}na{\kf33} work{\kf33} out{\kf33} just{\kf33} fine{\kf41} trust{\kf115} me
+Dialogue: 0,0:00:59.26,0:01:00.39,DEFAULT,,0,0,0,,{\r}{\kf26}It's{\kf17} gon{\kf17}na{\kf53} work
+Dialogue: 0,0:01:00.76,0:01:02.45,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf25} know{\kf25} it's{\kf17} gon{\kf17}na{\kf60} work
+Dialogue: 0,0:01:03.33,0:01:08.34,DEFAULT,,0,0,0,,{\r}{\kf23}It's{\kf23} gon{\kf23}na{\kf31} work{\kf23} out{\kf23} just{\kf39} fine{\kf39} you'll{\kf235} see{\kf42}~!
+Dialogue: 0,0:01:16.55,0:01:19.74,DEFAULT,,0,0,0,,{\r}{\kf25}To{\kf25} com{\kf34}pete{\kf50} you{\kf34} need{\kf25} to{\kf126} change
+Dialogue: 0,0:01:20.30,0:01:23.81,DEFAULT,,0,0,0,,{\r}{\kf24}A{\kf24} whole{\kf24} new{\kf32} po{\kf32}ny{\kf24} I{\kf32} can{\kf40} ar{\kf119}range
+Dialogue: 0,0:01:24.06,0:01:27.01,DEFAULT,,0,0,0,,{\r}{\kf37}Dar{\kf37}ling{\kf28} just{\kf28} let{\kf28} my{\kf28} voice{\kf37} guide{\kf71} you
+Dialogue: 0,0:01:27.76,0:01:30.89,DEFAULT,,0,0,0,,{\r}{\kf25}I'll{\kf33} lead{\kf33} you{\kf25} to{\kf41} glo{\kf25}ry{\kf25} and{\kf106} fame
+Dialogue: 0,0:01:32.08,0:01:35.21,DEFAULT,,0,0,0,,{\r}{\kf35}Dar{\kf35}ling{\kf26} just{\kf26} leave{\kf26} doubts{\kf26} be{\kf43}hind{\kf96} you
+Dialogue: 0,0:01:35.77,0:01:39.66,DEFAULT,,0,0,0,,{\r}{\kf24}With{\kf32} me{\kf32} you{\kf40} will{\kf32} win{\kf24} this{\kf204} game
+Dialogue: 0,0:01:40.53,0:01:44.17,DEFAULT,,0,0,0,,{\r}{\kf35}It's{\kf35} al{\kf53}most{\kf44} time{\kf35}~{\kf53} to{\kf62} de{\kf46}but,
+Dialogue: 0,0:01:45.04,0:01:48.36,DEFAULT,,0,0,0,,{\r}{\kf89}A{\kf97} whole{\kf57} new{\kf24}~{\kf65} you
+Dialogue: 0,0:01:48.80,0:01:52.25,DEFAULT,,0,0,0,,{\r}{\kf36}The{\kf36} one{\kf36} that{\kf36} e{\kf36}very{\kf36}one{\kf45}~{\kf27} will{\kf56} see,
+Dialogue: 0,0:01:52.75,0:01:57.13,DEFAULT,,0,0,0,,{\r}{\kf23}Is{\kf45} or{\kf45}ches{\kf60}tra{\kf23}~{\kf38}ted{\kf45} by{\kf159} me
+Dialogue: 0,0:01:57.38,0:01:58.45,DEFAULT,,0,0,0,,{\r}{\kf24}It's{\kf16} gon{\kf16}na{\kf50} work
+Dialogue: 0,0:01:58.82,0:02:00.39,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf25} know{\kf25} it's{\kf17} gon{\kf17}na{\kf48} work
+Dialogue: 0,0:02:01.26,0:02:04.96,DEFAULT,,0,0,0,,{\r}{\kf26}It's{\kf26} gon{\kf26}na{\kf35} work{\kf26} out{\kf26} just{\kf35} fine,{\kf44} trust{\kf126} me
+Dialogue: 0,0:02:05.33,0:02:06.46,DEFAULT,,0,0,0,,{\r}{\kf24}It's{\kf16} gon{\kf16}na{\kf57} work
+Dialogue: 0,0:02:06.84,0:02:08.47,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf16} know{\kf24} it's{\kf16} gon{\kf24}na{\kf59} work
+Dialogue: 0,0:02:09.28,0:02:13.04,DEFAULT,,0,0,0,,{\r}{\kf26}It's{\kf26} gon{\kf26}na{\kf34} work{\kf34} out{\kf26} just{\kf34} fine,{\kf43} you'll{\kf127} see!
+Dialogue: 0,0:02:13.29,0:02:14.48,DEFAULT,,0,0,0,,{\r}{\kf24}It's{\kf16} gon{\kf16}na{\kf63} work
+Dialogue: 0,0:02:14.79,0:02:16.36,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf26} know{\kf17} it's{\kf17} gon{\kf17}na{\kf54} work
+Dialogue: 0,0:02:17.30,0:02:21.06,DEFAULT,,0,0,0,,{\r}{\kf25}It's{\kf17} gon{\kf25}na{\kf42} work{\kf25} out{\kf25} just{\kf42} fine,{\kf42} trust{\kf133} me
+Dialogue: 0,0:02:21.31,0:02:22.43,DEFAULT,,0,0,0,,{\r}{\kf17}It's{\kf17} gon{\kf26}na{\kf53} work
+Dialogue: 0,0:02:22.87,0:02:24.44,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf16} know{\kf24} it's{\kf16} gon{\kf24}na{\kf53} work
+Dialogue: 0,0:02:25.31,0:02:29.76,DEFAULT,,0,0,0,,{\r}{\kf24}It's{\kf24} gon{\kf24}na{\kf24} work{\kf24} out{\kf24} just{\kf40} fine,{\kf40} you'll{\kf221} see!
+Dialogue: 0,0:02:30.07,0:02:32.89,DEFAULT,,0,0,0,,{\r}{\kf34}Dar{\kf26}ling{\kf26} you've{\kf43} ne{\kf26}ver{\kf26} looked{\kf43} bet{\kf58}ter
+Dialogue: 0,0:02:33.77,0:02:36.59,DEFAULT,,0,0,0,,{\r}{\kf36}Come{\kf27} on{\kf36} blow{\kf36} the{\kf45} crowd{\kf27} a{\kf75} kiss
+Dialogue: 0,0:02:38.09,0:02:40.91,DEFAULT,,0,0,0,,{\r}{\kf40}Dar{\kf24}ling{\kf32} you'll{\kf40} ne{\kf24}ver{\kf24} be{\kf40} bet{\kf58}ter
+Dialogue: 0,0:02:41.79,0:02:44.85,DEFAULT,,0,0,0,,{\r}{\kf33}You'll{\kf33} ne{\kf25}ver{\kf25} be{\kf41} bet{\kf25}ter{\kf25} than{\kf100} this
+Dialogue: 0,0:03:03.27,0:03:04.46,DEFAULT,,0,0,0,,{\r}{\kf26}It's{\kf26} gon{\kf17}na{\kf50} work
+Dialogue: 0,0:03:04.77,0:03:06.34,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf26} know{\kf17} it's{\kf17} gon{\kf17}na{\kf54} work
+Dialogue: 0,0:03:07.28,0:03:10.78,DEFAULT,,0,0,0,,{\r}{\kf26}It's{\kf26} gon{\kf26}na{\kf35} work{\kf26} out{\kf26} just{\kf35} fine,{\kf44} you'll{\kf107} see
+Dialogue: 0,0:03:11.28,0:03:12.41,DEFAULT,,0,0,0,,{\r}{\kf17}It's{\kf26} gon{\kf17}na{\kf53} work
+Dialogue: 0,0:03:12.79,0:03:14.42,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf26} know{\kf17} it's{\kf17} gon{\kf17}na{\kf60} work
+Dialogue: 0,0:03:15.29,0:03:19.74,DEFAULT,,0,0,0,,{\r}{\kf23}It's{\kf23} gon{\kf23}na{\kf31} work{\kf31} out{\kf23} just{\kf39} fine,{\kf39} you'll{\kf213} see!
+Dialogue: 0,0:03:37.21,0:03:41.10,DEFAULT,,0,0,0,,{\r}{\kf59}I{\kf51} know{\kf42} the{\kf42} busi{\kf42}ness{\kf59} dar{\kf25}ling{\kf68}~
+Dialogue: 0,0:03:42.85,0:03:44.29,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf32} know{\kf32} it{\kf56} well
+Dialogue: 0,0:03:45.11,0:03:49.05,DEFAULT,,0,0,0,,{\r}{\kf69}I'll{\kf43} leave{\kf43} this{\kf26} room{\kf60}~{\kf60} spark{\kf34}ling{\kf60}~
+Dialogue: 0,0:03:50.30,0:03:52.25,DEFAULT,,0,0,0,,{\r}{\kf22}Just{\kf22} like{\kf22} my{\kf45} ca{\kf30}rou{\kf53}sel
+Dialogue: 0,0:03:53.06,0:03:57.38,DEFAULT,,0,0,0,,{\r}{\kf51}I{\kf42} know{\kf25} what{\kf34} it{\kf34} takes{\kf34}~{\kf25} to{\kf51} make{\kf42} it{\kf94}~
+Dialogue: 0,0:03:59.07,0:04:00.20,DEFAULT,,0,0,0,,{\r}{\kf40}To{\kf24} the{\kf49} top
+Dialogue: 0,0:04:00.76,0:04:05.65,DEFAULT,,0,0,0,,{\r}{\kf33}With{\kf33} me{\kf41} a{\kf33}round{\kf25}~{\kf33} you{\kf41} won't{\kf50} have{\kf25} to{\kf33} fake{\kf41}~{\kf33} it{\kf68}~
+Dialogue: 0,0:04:06.34,0:04:08.40,DEFAULT,,0,0,0,,{\r}{\kf18}Why{\kf27} would{\kf27} you{\kf36} want{\kf27} me{\kf27} to{\kf45} stop?
+Dialogue: 0,0:04:08.84,0:04:10.41,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf17} know{\kf17} it's{\kf17} gon{\kf17}na{\kf63} work
+Dialogue: 0,0:04:11.28,0:04:14.73,DEFAULT,,0,0,0,,{\r}{\kf26}It's{\kf26} gon{\kf26}na{\kf34} work{\kf26} out{\kf26} just{\kf34} fine,{\kf52} trust{\kf94} me
+Dialogue: 0,0:04:15.29,0:04:16.36,DEFAULT,,0,0,0,,{\r}{\kf18}It's{\kf18} gon{\kf18}na{\kf52} work
+Dialogue: 0,0:04:16.80,0:04:18.42,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf19} know{\kf19} it's{\kf19} gon{\kf19}na{\kf68} work
+Dialogue: 0,0:04:19.30,0:04:22.93,DEFAULT,,0,0,0,,{\r}{\kf27}It's{\kf27} gon{\kf18}na{\kf35} work{\kf27} out{\kf27} just{\kf35} fine,{\kf44} you'll{\kf123} see!
+Dialogue: 0,0:04:23.31,0:04:24.44,DEFAULT,,0,0,0,,{\r}{\kf24}It's{\kf16} gon{\kf16}na{\kf57} work
+Dialogue: 0,0:04:24.81,0:04:26.57,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf17} know{\kf25} it's{\kf17} gon{\kf17}na{\kf74} work
+Dialogue: 0,0:04:27.32,0:04:31.08,DEFAULT,,0,0,0,,{\r}{\kf25}It's{\kf25} gon{\kf25}na{\kf33} work{\kf33} out{\kf25} just{\kf33} fine,{\kf42} trust{\kf135} me
+Dialogue: 0,0:04:31.33,0:04:32.39,DEFAULT,,0,0,0,,{\r}{\kf18}It's{\kf18} gon{\kf18}na{\kf52} work
+Dialogue: 0,0:04:32.83,0:04:34.40,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf26} know{\kf17} it's{\kf17} gon{\kf17}na{\kf63} work
+Dialogue: 0,0:04:35.27,0:04:40.66,DEFAULT,,0,0,0,,{\r}{\kf24}It's{\kf24} gon{\kf24}na{\kf32} work{\kf24} out{\kf24} just{\kf40} fine,{\kf32} you'll{\kf238} see{\kf77}~!
+Dialogue: 0,0:04:48.36,0:04:51.81,DEFAULT,,0,0,0,,{\r}{\kf24}Be{\kf24}cause{\kf24} no{\kf24}po{\kf24}ny{\kf32} knows{\kf24} bet{\kf24}ter{\kf24} than{\kf120} me
+Dialogue: 0,0:04:52.56,0:04:58.76,DEFAULT,,0,0,0,,{\r}{\kf22}How{\kf30} to{\kf37} make{\kf37} you{\kf44}~{\kf44} le{\kf59}gen{\kf37}da{\kf310}ry

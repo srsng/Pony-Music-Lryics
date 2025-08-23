@@ -1,84 +1,91 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Constellations
+Artist: PrinceWhateverer & Dreamchan
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:33.54,0:00:35.09,DEFAULT,,0,0,0,,{\kf23}My{\kf21} eyes{\kf19} have{\kf29} seen{\kf36} this
-Dialogue: 0,0:00:35.47,0:00:37.19,DEFAULT,,0,0,0,,{\kf19}The{\kf19} cold{\kf17} of{\kf21} in{\kf19}di{\kf21}gna{\kf42}tion
-Dialogue: 0,0:00:37.40,0:00:38.98,DEFAULT,,0,0,0,,{\kf23}They{\kf25} al{\kf15}ways{\kf25} look{\kf47} here
-Dialogue: 0,0:00:39.20,0:00:41.04,DEFAULT,,0,0,0,,{\kf29}I{\kf23} feel{\kf17} their{\kf19} la{\kf17}ce{\kf23}ra{\kf47}tions
-Dialogue: 0,0:00:41.23,0:00:42.50,DEFAULT,,0,0,0,,{\kf17}I'll{\kf23} ne{\kf23}ver{\kf17} be{\kf19} e{\kf25}nough
-Dialogue: 0,0:00:43.14,0:00:44.54,DEFAULT,,0,0,0,,{\kf19}I'll{\kf19} stum{\kf17}ble{\kf17} back{\kf17} a{\kf40}gain
-Dialogue: 0,0:00:45.01,0:00:46.34,DEFAULT,,0,0,0,,{\kf21}But{\kf21} I{\kf21} don't{\kf17} care{\kf19} e{\kf25}nough
-Dialogue: 0,0:00:46.83,0:00:48.35,DEFAULT,,0,0,0,,{\kf27}I{\kf25} wish{\kf25} I{\kf14} had{\kf17} a{\kf36} friend
-Dialogue: 0,0:00:48.78,0:00:50.60,DEFAULT,,0,0,0,,{\kf21}How{\kf27} ma{\kf19}ny{\kf21} times{\kf19} did{\kf23} I{\kf40} try
-Dialogue: 0,0:00:50.68,0:00:52.33,DEFAULT,,0,0,0,,{\kf23}They{\kf30} pushed{\kf21} me{\kf21} too{\kf44} far
-Dialogue: 0,0:00:52.42,0:00:54.73,DEFAULT,,0,0,0,,{\kf19}The{\kf19} great{\kf19} and{\kf14} the{\kf25} po{\kf25}wer{\kf21}ful{\kf42} Tri{\kf27}xie
-Dialogue: 0,0:00:54.82,0:00:56.19,DEFAULT,,0,0,0,,{\kf21}Knows{\kf19} just{\kf17} what{\kf17} you{\kf49} are
-Dialogue: 0,0:00:56.45,0:00:57.91,DEFAULT,,0,0,0,,{\kf17}But{\kf17} is{\kf21} it{\kf19} worth{\kf19} it{\kf44} now?
-Dialogue: 0,0:00:58.29,0:00:59.84,DEFAULT,,0,0,0,,{\kf19}Is{\kf23} this{\kf17} all{\kf15} that{\kf19} I{\kf44} am?
-Dialogue: 0,0:00:59.99,0:01:01.81,DEFAULT,,0,0,0,,{\kf27}You{\kf25} wish{\kf17} I{\kf19} had{\kf23} ne{\kf23}ver{\kf23} ap{\kf15}peared
-Dialogue: 0,0:01:01.91,0:01:03.52,DEFAULT,,0,0,0,,{\kf19}I{\kf27} just{\kf23} wish{\kf21} you'd{\kf15} give{\kf15} a{\kf32} damn
-Dialogue: 0,0:01:05.69,0:01:10.94,DEFAULT,,0,0,0,,{\kf188}I{\kf92} trus{\kf96}ted{\kf143} them
-Dialogue: 0,0:01:11.19,0:01:14.15,DEFAULT,,0,0,0,,{\kf23}To{\kf30} see{\kf45} what's{\kf34} in{\kf42}side{\kf15} of{\kf27} me{\kf57}~
-Dialogue: 0,0:01:14.23,0:01:18.65,DEFAULT,,0,0,0,,{\kf81}I{\kf113} trus{\kf74}ted{\kf23} me{\kf19}~{\kf128}~
-Dialogue: 0,0:01:18.76,0:01:21.80,DEFAULT,,0,0,0,,{\kf21}To{\kf36} see{\kf44} what's{\kf30} in{\kf32}side{\kf25} of{\kf34} them{\kf55}~
-Dialogue: 0,0:01:28.83,0:01:30.16,DEFAULT,,0,0,0,,{\kf15}I{\kf23} may{\kf21} have{\kf15} stum{\kf14}bled{\kf32} once
-Dialogue: 0,0:01:30.39,0:01:32.13,DEFAULT,,0,0,0,,{\kf19}On{\kf19} my{\kf25} in{\kf27}si{\kf21}gni{\kf19}fi{\kf38}cance
-Dialogue: 0,0:01:32.38,0:01:33.97,DEFAULT,,0,0,0,,{\kf19}But{\kf19} that{\kf25} is{\kf21} all{\kf17} o{\kf15}ver{\kf27} now
-Dialogue: 0,0:01:34.08,0:01:35.90,DEFAULT,,0,0,0,,{\kf19}I've{\kf21} let{\kf23} go{\kf19} of{\kf23} my{\kf17} dis{\kf19}so{\kf32}nance
-Dialogue: 0,0:01:36.11,0:01:38.00,DEFAULT,,0,0,0,,{\kf23}"Our{\kf23} eyes{\kf25} a{\kf44} pur{\kf19}ple{\kf40} haze
-Dialogue: 0,0:01:38.08,0:01:39.73,DEFAULT,,0,0,0,,{\kf23}We{\kf21} share{\kf19} the{\kf38} same{\kf47} shade"
-Dialogue: 0,0:01:39.97,0:01:40.83,DEFAULT,,0,0,0,,{\kf25}Yours{\kf19} see{\kf25} po{\kf14}wer
-Dialogue: 0,0:01:40.91,0:01:41.68,DEFAULT,,0,0,0,,{\kf15}Mine{\kf23} see{\kf21} ma{\kf14}gic
-Dialogue: 0,0:01:41.79,0:01:43.57,DEFAULT,,0,0,0,,{\kf14}See{\kf14} a{\kf25} friend{\kf25}ship{\kf23} we{\kf15} could{\kf10} have{\kf38} made
-Dialogue: 0,0:01:43.78,0:01:45.56,DEFAULT,,0,0,0,,{\kf15}"She{\kf25} is{\kf23} so{\kf36} ta{\kf32}len{\kf36}ted!"
-Dialogue: 0,0:01:45.69,0:01:47.54,DEFAULT,,0,0,0,,{\kf21}But{\kf17} what{\kf27} is{\kf40} there{\kf25} for{\kf23} me{\kf19}~?
-Dialogue: 0,0:01:47.64,0:01:49.25,DEFAULT,,0,0,0,,{\kf17}"I've{\kf23} seen{\kf15} a{\kf40} bet{\kf19}ter{\kf23} show"
-Dialogue: 0,0:01:49.31,0:01:51.39,DEFAULT,,0,0,0,,{\kf15}But{\kf15} I,{\kf17} she{\kf19} will{\kf44} ne{\kf19}ver{\kf51} see
-Dialogue: 0,0:01:51.63,0:01:53.34,DEFAULT,,0,0,0,,{\kf21}O{\kf27}ri{\kf21}on{\kf19} save{\kf25} me{\kf47} now
-Dialogue: 0,0:01:55.53,0:01:57.14,DEFAULT,,0,0,0,,{\kf23}Po{\kf21}la{\kf21}ris{\kf23} guide{\kf27} me{\kf40} now
-Dialogue: 0,0:02:00.93,0:02:06.22,DEFAULT,,0,0,0,,{\kf186}I{\kf85} trus{\kf87}ted{\kf150} them
-Dialogue: 0,0:02:06.44,0:02:09.31,DEFAULT,,0,0,0,,{\kf19}To{\kf30} see{\kf45} what's{\kf30} in{\kf30}side{\kf25} of{\kf30} me{\kf49}~
-Dialogue: 0,0:02:09.52,0:02:13.96,DEFAULT,,0,0,0,,{\kf53}I{\kf111} trus{\kf83}ted{\kf12} me{\kf14}~{\kf134}~
-Dialogue: 0,0:02:14.02,0:02:16.34,DEFAULT,,0,0,0,,{\kf21}To{\kf40} see{\kf49} what's{\kf30} in{\kf34}side{\kf25} of{\kf19} (them)
-Dialogue: 0,0:02:16.44,0:02:17.98,DEFAULT,,0,0,0,,{\kf15}The{\kf25} wa{\kf25}ter's{\kf44} ri{\kf40}sing
-Dialogue: 0,0:02:18.13,0:02:20.08,DEFAULT,,0,0,0,,{\kf36}How{\kf25} long{\kf25} un{\kf21}til{\kf23} I{\kf55} drown?
-Dialogue: 0,0:02:20.28,0:02:23.83,DEFAULT,,0,0,0,,{\kf19}My{\kf19} on{\kf23}ly{\kf23} sor{\kf23}row{\kf23} is{\kf19} my{\kf19} head{\kf19} was{\kf25} ne{\kf21}ver{\kf17} in{\kf21} the{\kf51} clouds
-Dialogue: 0,0:02:23.98,0:02:25.68,DEFAULT,,0,0,0,,{\kf23}The{\kf27} wa{\kf19}ter's{\kf45} ris{\kf49}ing
-Dialogue: 0,0:02:25.78,0:02:27.61,DEFAULT,,0,0,0,,{\kf34}How{\kf27} long{\kf19} un{\kf15}til{\kf19} I{\kf49} die?
-Dialogue: 0,0:02:27.78,0:02:29.41,DEFAULT,,0,0,0,,{\kf25}I'm{\kf23} suf{\kf25}fo{\kf27}ca{\kf29}~{\kf34}ting
-Dialogue: 0,0:02:29.54,0:02:31.48,DEFAULT,,0,0,0,,{\kf19}On{\kf19} tears{\kf21} I{\kf23} hold{\kf23} back{\kf23} in{\kf51}side
-Dialogue: 0,0:02:31.93,0:02:34.74,DEFAULT,,0,0,0,,{\kf75}Wa{\kf36}ter's{\kf47} ris{\kf119}ing
-Dialogue: 0,0:02:35.66,0:02:39.01,DEFAULT,,0,0,0,,{\kf44}How{\kf42} long{\kf27} un{\kf34}til{\kf47} I{\kf66} drown{\kf45}~?
-Dialogue: 0,0:02:39.65,0:02:42.20,DEFAULT,,0,0,0,,{\kf36}My{\kf30} on{\kf27}ly{\kf47} sor{\kf102}row
-Dialogue: 0,0:02:42.37,0:02:46.53,DEFAULT,,0,0,0,,{\kf17}Is{\kf72} that{\kf38} I{\kf25} ne{\kf32}ver{\kf44} stilled{\kf53} my{\kf94} frown
-Dialogue: 0,0:02:47.13,0:02:50.45,DEFAULT,,0,0,0,,{\kf40}The{\kf30} wa{\kf38}ter's{\kf47} ris{\kf160}ing
-Dialogue: 0,0:02:50.94,0:02:54.31,DEFAULT,,0,0,0,,{\kf38}How{\kf44} long{\kf32} un{\kf27}til{\kf74} I{\kf104} die?
-Dialogue: 0,0:02:54.80,0:02:57.58,DEFAULT,,0,0,0,,{\kf34}I'm{\kf49} suf{\kf21}fo{\kf29}ca{\kf30}~{\kf109}ting
-Dialogue: 0,0:02:57.65,0:03:01.87,DEFAULT,,0,0,0,,{\kf19}On{\kf66} tears{\kf32} I'm{\kf42} hold{\kf25}ing{\kf51} back{\kf47} in{\kf105}side
-Dialogue: 0,0:03:02.45,0:03:05.30,DEFAULT,,0,0,0,,{\kf36}I'm{\kf32} on{\kf36}ly{\kf55} drown{\kf117}ing
-Dialogue: 0,0:03:05.69,0:03:09.52,DEFAULT,,0,0,0,,{\kf45}On{\kf44} my{\kf29} loss{\kf27} of{\kf42} self-{\kf57}con{\kf100}trol
-Dialogue: 0,0:03:10.03,0:03:12.74,DEFAULT,,0,0,0,,{\kf34}The{\kf29} wa{\kf38}ter's{\kf36} ri{\kf115}sen
-Dialogue: 0,0:03:13.04,0:03:17.43,DEFAULT,,0,0,0,,{\kf25}And{\kf45} I'm{\kf38} left{\kf32} with{\kf30} an{\kf42} emp{\kf40}ty{\kf100} soul{\kf36}~
-Dialogue: 0,0:03:17.58,0:03:20.86,DEFAULT,,0,0,0,,{\kf40}I've{\kf49} stum{\kf36}bled{\kf42} for{\kf25} the{\kf53} last{\kf49} time
-Dialogue: 0,0:03:21.46,0:03:24.61,DEFAULT,,0,0,0,,{\kf34}I'll{\kf38} leave{\kf36} this{\kf51} place{\kf30} fo{\kf57}re{\kf42}ver
-Dialogue: 0,0:03:25.16,0:03:28.57,DEFAULT,,0,0,0,,{\kf32}My{\kf45} ar{\kf53}ro{\kf45}gance{\kf25} pre{\kf49}cedes{\kf57} me
-Dialogue: 0,0:03:29.04,0:03:32.38,DEFAULT,,0,0,0,,{\kf38}It's{\kf40} been{\kf38} a{\kf47} mute{\kf25} en{\kf66}dea{\kf55}vor
-Dialogue: 0,0:03:32.92,0:03:37.81,DEFAULT,,0,0,0,,{\kf130}I{\kf70} trus{\kf79}ted{\kf165} them
-Dialogue: 0,0:03:37.85,0:03:40.93,DEFAULT,,0,0,0,,{\kf21}To{\kf42} see{\kf42} what's{\kf38} in{\kf23}side{\kf30} of{\kf29} me{\kf62}~
-Dialogue: 0,0:03:41.08,0:03:45.35,DEFAULT,,0,0,0,,{\kf49}I{\kf90} trus{\kf72}ted{\kf36} me{\kf130}~
-Dialogue: 0,0:03:45.43,0:03:48.24,DEFAULT,,0,0,0,,{\kf19}To{\kf42} see{\kf45} what's{\kf30} in{\kf34}side{\kf23} of{\kf32} them{\kf36}~
-Dialogue: 0,0:03:48.59,0:03:51.16,DEFAULT,,0,0,0,,{\kf47}Drown{\kf45}ing{\kf19} on{\kf17} my{\kf15} loss{\kf17} of{\kf21} self-{\kf25}con{\kf25}trol
-Dialogue: 0,0:03:51.61,0:03:53.26,DEFAULT,,0,0,0,,{\kf27}The{\kf21} wa{\kf21}ter's{\kf42} ri{\kf32}sen{\kf17}~
-Dialogue: 0,0:03:53.34,0:03:55.21,DEFAULT,,0,0,0,,{\kf19}And{\kf19} I'm{\kf17} left{\kf12} with{\kf12} a{\kf21} emp{\kf21}ty{\kf45} soul
-Dialogue: 0,0:03:55.53,0:03:57.01,DEFAULT,,0,0,0,,{\kf19}I{\kf19} ne{\kf19}ver{\kf38} thought{\kf36} I'd
-Dialogue: 0,0:03:57.09,0:03:58.98,DEFAULT,,0,0,0,,{\kf23}End{\kf25} with{\kf21}out{\kf19} a{\kf21} cause{\kf17} to{\kf40} blame
-Dialogue: 0,0:03:59.08,0:04:01.06,DEFAULT,,0,0,0,,{\kf19}But{\kf19} you{\kf21} were{\kf21} the{\kf19} one{\kf23} there{\kf19} to{\kf17} show{\kf12} me
-Dialogue: 0,0:04:01.12,0:04:03.52,DEFAULT,,0,0,0,,{\kf19}It's{\kf23} not{\kf27} a{\kf17}bout{\kf23} the{\kf29} fame{\kf87}~
+Dialogue: 0,0:00:33.54,0:00:35.10,DEFAULT,,0,0,0,,{\r}{\kf28}My{\kf26} eyes{\kf23} have{\kf35} seen{\kf44} this
+Dialogue: 0,0:00:35.47,0:00:37.20,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf21} cold{\kf19} of{\kf23} in{\kf21}di{\kf23}gna{\kf45}tion
+Dialogue: 0,0:00:37.41,0:00:38.98,DEFAULT,,0,0,0,,{\r}{\kf27}They{\kf29} al{\kf18}ways{\kf29} look{\kf55} here
+Dialogue: 0,0:00:39.21,0:00:41.04,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf24} feel{\kf18} their{\kf20} la{\kf18}ce{\kf24}ra{\kf50}tions
+Dialogue: 0,0:00:41.23,0:00:42.51,DEFAULT,,0,0,0,,{\r}{\kf18}I'll{\kf23} ne{\kf23}ver{\kf18} be{\kf20} e{\kf25}nough
+Dialogue: 0,0:00:43.14,0:00:44.55,DEFAULT,,0,0,0,,{\r}{\kf21}I'll{\kf21} stum{\kf19}ble{\kf19} back{\kf19} a{\kf42}gain
+Dialogue: 0,0:00:45.02,0:00:46.35,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf23} I{\kf23} don't{\kf18} care{\kf20} e{\kf26}nough
+Dialogue: 0,0:00:46.84,0:00:48.36,DEFAULT,,0,0,0,,{\r}{\kf28}I{\kf26} wish{\kf26} I{\kf14} had{\kf18} a{\kf40} friend
+Dialogue: 0,0:00:48.79,0:00:50.61,DEFAULT,,0,0,0,,{\r}{\kf22}How{\kf29} ma{\kf20}ny{\kf22} times{\kf20} did{\kf25} I{\kf44} try
+Dialogue: 0,0:00:50.68,0:00:52.33,DEFAULT,,0,0,0,,{\r}{\kf27}They{\kf36} pushed{\kf25} me{\kf25} too{\kf52} far
+Dialogue: 0,0:00:52.42,0:00:54.73,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf21} great{\kf21} and{\kf15} the{\kf27} po{\kf27}wer{\kf23}ful{\kf46} Tri{\kf30}xie
+Dialogue: 0,0:00:54.82,0:00:56.19,DEFAULT,,0,0,0,,{\r}{\kf23}Knows{\kf21} just{\kf19} what{\kf19} you{\kf55} are
+Dialogue: 0,0:00:56.46,0:00:57.92,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf18} is{\kf22} it{\kf20} worth{\kf20} it{\kf48} now?
+Dialogue: 0,0:00:58.29,0:00:59.85,DEFAULT,,0,0,0,,{\r}{\kf22}Is{\kf26} this{\kf20} all{\kf17} that{\kf22} I{\kf49} am?
+Dialogue: 0,0:00:60.00,0:01:01.82,DEFAULT,,0,0,0,,{\r}{\kf28}You{\kf26} wish{\kf18} I{\kf20} had{\kf24} ne{\kf24}ver{\kf24} ap{\kf18}peared
+Dialogue: 0,0:01:01.91,0:01:03.52,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf28} just{\kf24} wish{\kf22} you'd{\kf16} give{\kf16} a{\kf35} damn
+Dialogue: 0,0:01:05.70,0:01:10.95,DEFAULT,,0,0,0,,{\r}{\kf190}I{\kf93} trus{\kf97}ted{\kf145} them
+Dialogue: 0,0:01:11.19,0:01:14.16,DEFAULT,,0,0,0,,{\r}{\kf25}To{\kf33} see{\kf49} what's{\kf37} in{\kf45}side{\kf16} of{\kf29} me{\kf62}~
+Dialogue: 0,0:01:14.23,0:01:18.66,DEFAULT,,0,0,0,,{\r}{\kf82}I{\kf114} trus{\kf74}ted{\kf23} me{\kf19}~{\kf130}~
+Dialogue: 0,0:01:18.77,0:01:21.81,DEFAULT,,0,0,0,,{\r}{\kf23}To{\kf40} see{\kf48} what's{\kf33} in{\kf35}side{\kf27} of{\kf37} them{\kf61}~
+Dialogue: 0,0:01:28.84,0:01:30.17,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf25} may{\kf23} have{\kf17} stum{\kf15}bled{\kf36} once
+Dialogue: 0,0:01:30.39,0:01:32.14,DEFAULT,,0,0,0,,{\r}{\kf20}On{\kf20} my{\kf26} in{\kf28}si{\kf22}gni{\kf20}fi{\kf38}cance
+Dialogue: 0,0:01:32.38,0:01:33.97,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf21} that{\kf28} is{\kf23} all{\kf19} o{\kf17}ver{\kf30} now
+Dialogue: 0,0:01:34.09,0:01:35.91,DEFAULT,,0,0,0,,{\r}{\kf20}I've{\kf22} let{\kf24} go{\kf20} of{\kf24} my{\kf18} dis{\kf20}so{\kf34}nance
+Dialogue: 0,0:01:36.11,0:01:38.01,DEFAULT,,0,0,0,,{\r}{\kf25}"Our{\kf25} eyes{\kf27} a{\kf48} pur{\kf21}ple{\kf43} haze
+Dialogue: 0,0:01:38.08,0:01:39.73,DEFAULT,,0,0,0,,{\r}{\kf25}We{\kf23} share{\kf21} the{\kf42} same{\kf54} shade"
+Dialogue: 0,0:01:39.97,0:01:40.84,DEFAULT,,0,0,0,,{\r}{\kf26}Yours{\kf20} see{\kf26} po{\kf14}wer
+Dialogue: 0,0:01:40.91,0:01:41.68,DEFAULT,,0,0,0,,{\r}{\kf16}Mine{\kf24} see{\kf22} ma{\kf15}gic
+Dialogue: 0,0:01:41.79,0:01:43.57,DEFAULT,,0,0,0,,{\r}{\kf15}See{\kf15} a{\kf27} friend{\kf27}ship{\kf25} we{\kf17} could{\kf10} have{\kf42} made
+Dialogue: 0,0:01:43.78,0:01:45.56,DEFAULT,,0,0,0,,{\r}{\kf16}"She{\kf26} is{\kf24} so{\kf38} ta{\kf34}len{\kf40}ted!"
+Dialogue: 0,0:01:45.69,0:01:47.55,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf19} what{\kf29} is{\kf43} there{\kf27} for{\kf25} me{\kf20}~?
+Dialogue: 0,0:01:47.64,0:01:49.26,DEFAULT,,0,0,0,,{\r}{\kf20}"I've{\kf27} seen{\kf18} a{\kf47} bet{\kf22}ter{\kf27} show"
+Dialogue: 0,0:01:49.31,0:01:51.39,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf18} I,{\kf20} she{\kf22} will{\kf50} ne{\kf22}ver{\kf58} see
+Dialogue: 0,0:01:51.64,0:01:53.34,DEFAULT,,0,0,0,,{\r}{\kf22}O{\kf29}ri{\kf22}on{\kf20} save{\kf26} me{\kf52} now
+Dialogue: 0,0:01:55.54,0:01:57.15,DEFAULT,,0,0,0,,{\r}{\kf24}Po{\kf22}la{\kf22}ris{\kf24} guide{\kf28} me{\kf41} now
+Dialogue: 0,0:02:00.94,0:02:06.22,DEFAULT,,0,0,0,,{\r}{\kf194}I{\kf88} trus{\kf90}ted{\kf157} them
+Dialogue: 0,0:02:06.45,0:02:09.32,DEFAULT,,0,0,0,,{\r}{\kf21}To{\kf34} see{\kf50} what's{\kf34} in{\kf34}side{\kf27} of{\kf34} me{\kf53}~
+Dialogue: 0,0:02:09.52,0:02:13.97,DEFAULT,,0,0,0,,{\r}{\kf58}I{\kf122} trus{\kf91}ted{\kf12} me{\kf14}~{\kf147}~
+Dialogue: 0,0:02:14.02,0:02:16.35,DEFAULT,,0,0,0,,{\r}{\kf22}To{\kf43} see{\kf53} what's{\kf32} in{\kf36}side{\kf26} of{\kf21} (them)
+Dialogue: 0,0:02:16.44,0:02:17.98,DEFAULT,,0,0,0,,{\r}{\kf16}The{\kf26} wa{\kf26}ter's{\kf45} ri{\kf41}sing
+Dialogue: 0,0:02:18.13,0:02:20.08,DEFAULT,,0,0,0,,{\r}{\kf38}How{\kf26} long{\kf26} un{\kf22}til{\kf24} I{\kf59} drown?
+Dialogue: 0,0:02:20.29,0:02:23.83,DEFAULT,,0,0,0,,{\r}{\kf21}My{\kf21} on{\kf25}ly{\kf25} sor{\kf25}row{\kf25} is{\kf21} my{\kf21} head{\kf21} was{\kf27} ne{\kf23}ver{\kf19} in{\kf23} the{\kf57} clouds
+Dialogue: 0,0:02:23.98,0:02:25.69,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf28} wa{\kf20}ter's{\kf48} ris{\kf51}ing
+Dialogue: 0,0:02:25.78,0:02:27.62,DEFAULT,,0,0,0,,{\r}{\kf39}How{\kf30} long{\kf21} un{\kf17}til{\kf21} I{\kf56} die?
+Dialogue: 0,0:02:27.79,0:02:29.42,DEFAULT,,0,0,0,,{\r}{\kf25}I'm{\kf23} suf{\kf25}fo{\kf27}ca{\kf29}~{\kf34}ting
+Dialogue: 0,0:02:29.55,0:02:31.48,DEFAULT,,0,0,0,,{\r}{\kf21}On{\kf21} tears{\kf23} I{\kf25} hold{\kf25} back{\kf25} in{\kf53}side
+Dialogue: 0,0:02:31.93,0:02:34.74,DEFAULT,,0,0,0,,{\r}{\kf76}Wa{\kf36}ter's{\kf48} ris{\kf121}ing
+Dialogue: 0,0:02:35.66,0:02:39.02,DEFAULT,,0,0,0,,{\r}{\kf48}How{\kf46} long{\kf29} un{\kf38}til{\kf52} I{\kf73} drown{\kf50}~?
+Dialogue: 0,0:02:39.66,0:02:42.21,DEFAULT,,0,0,0,,{\r}{\kf38}My{\kf32} on{\kf28}ly{\kf50} sor{\kf107}row
+Dialogue: 0,0:02:42.37,0:02:46.54,DEFAULT,,0,0,0,,{\r}{\kf19}Is{\kf80} that{\kf42} I{\kf27} ne{\kf36}ver{\kf48} stilled{\kf59} my{\kf105} frown
+Dialogue: 0,0:02:47.14,0:02:50.46,DEFAULT,,0,0,0,,{\r}{\kf42}The{\kf32} wa{\kf40}ter's{\kf50} ris{\kf168}ing
+Dialogue: 0,0:02:50.94,0:02:54.32,DEFAULT,,0,0,0,,{\r}{\kf40}How{\kf46} long{\kf34} un{\kf28}til{\kf78} I{\kf112} die?
+Dialogue: 0,0:02:54.81,0:02:57.58,DEFAULT,,0,0,0,,{\r}{\kf35}I'm{\kf50} suf{\kf21}fo{\kf29}ca{\kf31}~{\kf112}ting
+Dialogue: 0,0:02:57.66,0:03:01.87,DEFAULT,,0,0,0,,{\r}{\kf21}On{\kf72} tears{\kf35} I'm{\kf45} hold{\kf27}ing{\kf56} back{\kf51} in{\kf115}side
+Dialogue: 0,0:03:02.46,0:03:05.31,DEFAULT,,0,0,0,,{\r}{\kf37}I'm{\kf33} on{\kf37}ly{\kf57} drown{\kf121}ing
+Dialogue: 0,0:03:05.70,0:03:09.52,DEFAULT,,0,0,0,,{\r}{\kf51}On{\kf49} my{\kf32} loss{\kf30} of{\kf47} self-{\kf63}con{\kf111}trol
+Dialogue: 0,0:03:10.03,0:03:12.75,DEFAULT,,0,0,0,,{\r}{\kf37}The{\kf31} wa{\kf41}ter's{\kf39} ri{\kf124}sen
+Dialogue: 0,0:03:13.05,0:03:17.44,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf51} I'm{\kf43} left{\kf36} with{\kf34} an{\kf47} emp{\kf45}ty{\kf113} soul{\kf42}~
+Dialogue: 0,0:03:17.59,0:03:20.87,DEFAULT,,0,0,0,,{\r}{\kf44}I've{\kf55} stum{\kf40}bled{\kf47} for{\kf28} the{\kf59} last{\kf55} time
+Dialogue: 0,0:03:21.47,0:03:24.62,DEFAULT,,0,0,0,,{\r}{\kf37}I'll{\kf41} leave{\kf39} this{\kf56} place{\kf33} fo{\kf62}re{\kf47}ver
+Dialogue: 0,0:03:25.16,0:03:28.57,DEFAULT,,0,0,0,,{\r}{\kf36}My{\kf51} ar{\kf59}ro{\kf51}gance{\kf27} pre{\kf55}cedes{\kf62} me
+Dialogue: 0,0:03:29.04,0:03:32.38,DEFAULT,,0,0,0,,{\r}{\kf41}It's{\kf43} been{\kf41} a{\kf51} mute{\kf27} en{\kf72}dea{\kf59}vor
+Dialogue: 0,0:03:32.92,0:03:37.82,DEFAULT,,0,0,0,,{\r}{\kf143}I{\kf77} trus{\kf87}ted{\kf182} them
+Dialogue: 0,0:03:37.86,0:03:40.93,DEFAULT,,0,0,0,,{\r}{\kf22}To{\kf45} see{\kf45} what's{\kf41} in{\kf24}side{\kf33} of{\kf31} me{\kf67}~
+Dialogue: 0,0:03:41.08,0:03:45.36,DEFAULT,,0,0,0,,{\r}{\kf56}I{\kf103} trus{\kf81}ted{\kf41} me{\kf147}~
+Dialogue: 0,0:03:45.43,0:03:48.24,DEFAULT,,0,0,0,,{\r}{\kf20}To{\kf45} see{\kf49} what's{\kf33} in{\kf37}side{\kf24} of{\kf35} them{\kf38}~
+Dialogue: 0,0:03:48.60,0:03:51.17,DEFAULT,,0,0,0,,{\r}{\kf53}Drown{\kf51}ing{\kf21} on{\kf19} my{\kf17} loss{\kf19} of{\kf23} self-{\kf27}con{\kf27}trol
+Dialogue: 0,0:03:51.62,0:03:53.27,DEFAULT,,0,0,0,,{\r}{\kf28}The{\kf22} wa{\kf22}ter's{\kf43} ri{\kf33}sen{\kf17}~
+Dialogue: 0,0:03:53.34,0:03:55.22,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} I'm{\kf19} left{\kf13} with{\kf13} a{\kf24} emp{\kf24}ty{\kf52} soul
+Dialogue: 0,0:03:55.54,0:03:57.02,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21} ne{\kf21}ver{\kf43} thought{\kf42} I'd
+Dialogue: 0,0:03:57.09,0:03:58.99,DEFAULT,,0,0,0,,{\r}{\kf26}End{\kf28} with{\kf24}out{\kf22} a{\kf24} cause{\kf20} to{\kf45} blame
+Dialogue: 0,0:03:59.08,0:04:01.07,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} you{\kf25} were{\kf25} the{\kf22} one{\kf27} there{\kf22} to{\kf20} show{\kf14} me
+Dialogue: 0,0:04:01.12,0:04:03.52,DEFAULT,,0,0,0,,{\r}{\kf20}It's{\kf24} not{\kf28} a{\kf18}bout{\kf24} the{\kf31} fame{\kf95}~

@@ -1,52 +1,59 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Raise the Sun
+Artist: Forest Rain
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:31.60,0:00:34.55,DEFAULT,,0,0,0,,{\kf34}From{\kf21} the{\kf27} snow{\kf27}-swept{\kf34} moun{\kf27}tain{\kf47} tops
-Dialogue: 0,0:00:35.89,0:00:38.57,DEFAULT,,0,0,0,,{\kf21}To{\kf21} the{\kf27} eme{\kf21}rald{\kf34} green{\kf81} fields
-Dialogue: 0,0:00:39.91,0:00:44.33,DEFAULT,,0,0,0,,{\kf21}A{\kf27}cross{\kf21} the{\kf27} sea{\kf21} and{\kf54} sky,{\kf21} that{\kf27} wond{\kf14}rous{\kf67} light
-Dialogue: 0,0:00:44.73,0:00:46.54,DEFAULT,,0,0,0,,{\kf27}Has{\kf27} touched{\kf21} us{\kf47} all
-Dialogue: 0,0:00:48.61,0:00:52.23,DEFAULT,,0,0,0,,{\kf14}And{\kf21} as{\kf21} the{\kf21} night{\kf21} be{\kf41}gins{\kf21} to{\kf61} fa{\kf41}de
-Dialogue: 0,0:00:53.10,0:00:55.64,DEFAULT,,0,0,0,,{\kf21}And{\kf21} the{\kf54} moon{\kf47} hangs{\kf61} low
-Dialogue: 0,0:00:57.12,0:01:00.66,DEFAULT,,0,0,0,,{\kf21}We{\kf21} wake{\kf21} to{\kf21} see{\kf21} the{\kf67} rise{\kf21} of{\kf61} her
-Dialogue: 0,0:01:01.87,0:01:03.81,DEFAULT,,0,0,0,,{\kf27}Ce{\kf27}les{\kf27}tial{\kf81} glow
-Dialogue: 0,0:01:05.49,0:01:08.43,DEFAULT,,0,0,0,,{\kf94}W{\kf108}o{\kf94}ah
-Dialogue: 0,0:01:08.57,0:01:10.04,DEFAULT,,0,0,0,,{\kf41}Raise{\kf21} the{\kf61} sun
-Dialogue: 0,0:01:13.92,0:01:16.67,DEFAULT,,0,0,0,,{\kf108}W{\kf108}o{\kf61}ah
-Dialogue: 0,0:01:17.20,0:01:18.61,DEFAULT,,0,0,0,,{\kf41}Raise{\kf27} the{\kf54} sun
-Dialogue: 0,0:01:23.03,0:01:26.38,DEFAULT,,0,0,0,,{\kf21}E{\kf21}very{\kf21} po{\kf21}ny{\kf21} and{\kf27} pa{\kf27}ra{\kf94}sprite
-Dialogue: 0,0:01:27.32,0:01:30.33,DEFAULT,,0,0,0,,{\kf21}E{\kf21}very{\kf34} dra{\kf21}gon{\kf21} and{\kf114} bird
-Dialogue: 0,0:01:31.60,0:01:35.55,DEFAULT,,0,0,0,,{\kf21}Knows{\kf21} that{\kf27} with{\kf21}out{\kf21} her{\kf34} light,{\kf21} her{\kf27} lo{\kf21}ving{\kf61} warmth
-Dialogue: 0,0:01:36.29,0:01:37.96,DEFAULT,,0,0,0,,{\kf27}We'd{\kf27} ne{\kf21} ver{\kf54} live
-Dialogue: 0,0:01:39.91,0:01:43.66,DEFAULT,,0,0,0,,{\kf21}Those{\kf27} co{\kf21}wards{\kf61} hide{\kf27} in{\kf27} sha{\kf134}dows
-Dialogue: 0,0:01:44.46,0:01:46.47,DEFAULT,,0,0,0,,{\kf47}Sheathed{\kf47} by{\kf21} the{\kf67} night
-Dialogue: 0,0:01:49.08,0:01:52.50,DEFAULT,,0,0,0,,{\kf21}We{\kf27} fight{\kf21} the{\kf27} dark{\kf21}ness,{\kf21} our{\kf88} swords
-Dialogue: 0,0:01:53.03,0:01:54.91,DEFAULT,,0,0,0,,{\kf27}Raised{\kf27} for{\kf21} the{\kf54} light
-Dialogue: 0,0:01:56.85,0:01:59.59,DEFAULT,,0,0,0,,{\kf101}W{\kf94}o{\kf67}ah
-Dialogue: 0,0:02:00.00,0:02:01.60,DEFAULT,,0,0,0,,{\kf41}Raise{\kf21} the{\kf67} sun
-Dialogue: 0,0:02:05.35,0:02:08.43,DEFAULT,,0,0,0,,{\kf108}W{\kf108}o{\kf94}ah
-Dialogue: 0,0:02:08.57,0:02:10.17,DEFAULT,,0,0,0,,{\kf34}Raise{\kf21} the{\kf74} sun
-Dialogue: 0,0:02:14.33,0:02:17.54,DEFAULT,,0,0,0,,{\kf41}Through{\kf14} out{\kf41} all{\kf14} of{\kf21} E{\kf54}ques{\kf27}tri{\kf54}a
-Dialogue: 0,0:02:18.61,0:02:21.83,DEFAULT,,0,0,0,,{\kf21}The{\kf27} So{\kf21}lar{\kf27} Em{\kf27}pi{\kf21}re{\kf27} en{\kf108}dures
-Dialogue: 0,0:02:22.96,0:02:26.98,DEFAULT,,0,0,0,,{\kf34}E{\kf21}very{\kf27} colt{\kf27} and{\kf67} mare,{\kf27} we{\kf27} stand{\kf27} at{\kf54} arms
-Dialogue: 0,0:02:27.72,0:02:29.73,DEFAULT,,0,0,0,,{\kf34}Ten{\kf27} mil{\kf27}lion{\kf74} strong
-Dialogue: 0,0:02:31.33,0:02:34.15,DEFAULT,,0,0,0,,{\kf21}You{\kf21} best{\kf61} stray{\kf21} from{\kf41} e{\kf54}vil
-Dialogue: 0,0:02:35.62,0:02:37.96,DEFAULT,,0,0,0,,{\kf21}And{\kf27} stay{\kf41} in{\kf21} the{\kf74} light
-Dialogue: 0,0:02:40.04,0:02:44.06,DEFAULT,,0,0,0,,{\kf27}Or{\kf27} be{\kf34} lost{\kf21} to{\kf34} dark{\kf27}ness{\kf27} like{\kf81} tears
-Dialogue: 0,0:02:44.86,0:02:46.40,DEFAULT,,0,0,0,,{\kf27}Shed{\kf21} in{\kf21} the{\kf47} night
-Dialogue: 0,0:02:48.28,0:02:51.29,DEFAULT,,0,0,0,,{\kf101}W{\kf108}o{\kf94}ah
-Dialogue: 0,0:02:51.42,0:02:52.83,DEFAULT,,0,0,0,,{\kf34}Raise{\kf21} the{\kf54} sun
-Dialogue: 0,0:02:56.85,0:02:59.66,DEFAULT,,0,0,0,,{\kf101}W{\kf108}o{\kf74}ah
-Dialogue: 0,0:02:59.93,0:03:01.60,DEFAULT,,0,0,0,,{\kf41}Raise{\kf21} the{\kf74} sun
-Dialogue: 0,0:03:17.87,0:03:19.82,DEFAULT,,0,0,0,,{\kf27}We{\kf34} shall{\kf41} never{\kf81} surrender
-Dialogue: 0,0:03:20.69,0:03:23.03,DEFAULT,,0,0,0,,{\kf21}We{\kf21} shall{\kf34} never{\kf14} let{\kf14} the{\kf54} darkness{\kf81} impede
-Dialogue: 0,0:03:24.10,0:03:26.58,DEFAULT,,0,0,0,,{\kf14}We{\kf21} shall{\kf27} stand{\kf27} strong{\kf14} for{\kf14} all{\kf74} eternity
-Dialogue: 0,0:03:27.25,0:03:31.13,DEFAULT,,0,0,0,,{\kf27}And{\kf67} spread{\kf21} her{\kf61} radiance{\kf21} and{\kf41} love
-Dialogue: 0,0:03:32.81,0:03:33.61,DEFAULT,,0,0,0,,{\kf41}MOVE{\kf41} OUT!
+Dialogue: 0,0:00:31.61,0:00:34.55,DEFAULT,,0,0,0,,{\r}{\kf46}From{\kf28} the{\kf37} snow{\kf37}-swept{\kf46} moun{\kf37}tain{\kf64} tops
+Dialogue: 0,0:00:35.89,0:00:38.57,DEFAULT,,0,0,0,,{\r}{\kf27}To{\kf27} the{\kf36} eme{\kf27}rald{\kf45} green{\kf106} fields
+Dialogue: 0,0:00:39.91,0:00:44.33,DEFAULT,,0,0,0,,{\r}{\kf30}A{\kf40}cross{\kf30} the{\kf40} sea{\kf30} and{\kf80} sky,{\kf30} that{\kf40} wond{\kf20}rous{\kf102} light
+Dialogue: 0,0:00:44.73,0:00:46.54,DEFAULT,,0,0,0,,{\r}{\kf40}Has{\kf40} touched{\kf30} us{\kf71} all
+Dialogue: 0,0:00:48.62,0:00:52.23,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf29} as{\kf29} the{\kf29} night{\kf29} be{\kf57}gins{\kf29} to{\kf86} fa{\kf55}de
+Dialogue: 0,0:00:53.10,0:00:55.65,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf25} the{\kf68} moon{\kf59} hangs{\kf77} low
+Dialogue: 0,0:00:57.12,0:01:00.67,DEFAULT,,0,0,0,,{\r}{\kf29}We{\kf29} wake{\kf29} to{\kf29} see{\kf29} the{\kf96} rise{\kf29} of{\kf85} her
+Dialogue: 0,0:01:01.88,0:01:03.82,DEFAULT,,0,0,0,,{\r}{\kf32}Ce{\kf32}les{\kf32}tial{\kf98} glow
+Dialogue: 0,0:01:05.49,0:01:08.44,DEFAULT,,0,0,0,,{\r}{\kf94}W{\kf107}o{\kf94}ah
+Dialogue: 0,0:01:08.57,0:01:10.04,DEFAULT,,0,0,0,,{\r}{\kf49}Raise{\kf25} the{\kf73} sun
+Dialogue: 0,0:01:13.93,0:01:16.67,DEFAULT,,0,0,0,,{\r}{\kf107}W{\kf107}o{\kf61}ah
+Dialogue: 0,0:01:17.21,0:01:18.62,DEFAULT,,0,0,0,,{\r}{\kf47}Raise{\kf31} the{\kf63} sun
+Dialogue: 0,0:01:23.04,0:01:26.38,DEFAULT,,0,0,0,,{\r}{\kf27}E{\kf27}very{\kf27} po{\kf27}ny{\kf27} and{\kf36} pa{\kf36}ra{\kf128}sprite
+Dialogue: 0,0:01:27.32,0:01:30.33,DEFAULT,,0,0,0,,{\r}{\kf27}E{\kf27}very{\kf44} dra{\kf27}gon{\kf27} and{\kf149} bird
+Dialogue: 0,0:01:31.61,0:01:35.56,DEFAULT,,0,0,0,,{\r}{\kf30}Knows{\kf30} that{\kf40} with{\kf30}out{\kf30} her{\kf49} light,{\kf30} her{\kf40} lo{\kf30}ving{\kf86} warmth
+Dialogue: 0,0:01:36.29,0:01:37.97,DEFAULT,,0,0,0,,{\r}{\kf35}We'd{\kf35} ne{\kf26} ver{\kf71} live
+Dialogue: 0,0:01:39.91,0:01:43.66,DEFAULT,,0,0,0,,{\r}{\kf24}Those{\kf32} co{\kf24}wards{\kf72} hide{\kf32} in{\kf32} sha{\kf159}dows
+Dialogue: 0,0:01:44.46,0:01:46.47,DEFAULT,,0,0,0,,{\r}{\kf52}Sheathed{\kf52} by{\kf22} the{\kf75} night
+Dialogue: 0,0:01:49.08,0:01:52.50,DEFAULT,,0,0,0,,{\r}{\kf31}We{\kf41} fight{\kf31} the{\kf41} dark{\kf31}ness,{\kf31} our{\kf136} swords
+Dialogue: 0,0:01:53.04,0:01:54.91,DEFAULT,,0,0,0,,{\r}{\kf40}Raised{\kf40} for{\kf30} the{\kf78} light
+Dialogue: 0,0:01:56.85,0:01:59.60,DEFAULT,,0,0,0,,{\r}{\kf106}W{\kf99}o{\kf70}ah
+Dialogue: 0,0:02:00.00,0:02:01.61,DEFAULT,,0,0,0,,{\r}{\kf51}Raise{\kf25} the{\kf85} sun
+Dialogue: 0,0:02:05.36,0:02:08.44,DEFAULT,,0,0,0,,{\r}{\kf107}W{\kf107}o{\kf94}ah
+Dialogue: 0,0:02:08.57,0:02:10.18,DEFAULT,,0,0,0,,{\r}{\kf42}Raise{\kf25} the{\kf94} sun
+Dialogue: 0,0:02:14.33,0:02:17.54,DEFAULT,,0,0,0,,{\r}{\kf49}Through{\kf16} out{\kf49} all{\kf16} of{\kf25} E{\kf66}ques{\kf33}tri{\kf67}a
+Dialogue: 0,0:02:18.62,0:02:21.83,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf31} So{\kf23}lar{\kf31} Em{\kf31}pi{\kf23}re{\kf31} en{\kf128}dures
+Dialogue: 0,0:02:22.97,0:02:26.99,DEFAULT,,0,0,0,,{\r}{\kf44}E{\kf26}very{\kf35} colt{\kf35} and{\kf87} mare,{\kf35} we{\kf35} stand{\kf35} at{\kf70} arms
+Dialogue: 0,0:02:27.72,0:02:29.73,DEFAULT,,0,0,0,,{\r}{\kf42}Ten{\kf34} mil{\kf34}lion{\kf91} strong
+Dialogue: 0,0:02:31.34,0:02:34.15,DEFAULT,,0,0,0,,{\r}{\kf26}You{\kf26} best{\kf79} stray{\kf26} from{\kf53} e{\kf71}vil
+Dialogue: 0,0:02:35.62,0:02:37.97,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf35} stay{\kf52} in{\kf26} the{\kf95} light
+Dialogue: 0,0:02:40.04,0:02:44.06,DEFAULT,,0,0,0,,{\r}{\kf39}Or{\kf39} be{\kf49} lost{\kf29} to{\kf49} dark{\kf39}ness{\kf39} like{\kf119} tears
+Dialogue: 0,0:02:44.87,0:02:46.41,DEFAULT,,0,0,0,,{\r}{\kf36}Shed{\kf27} in{\kf27} the{\kf64} night
+Dialogue: 0,0:02:48.28,0:02:51.29,DEFAULT,,0,0,0,,{\r}{\kf100}W{\kf107}o{\kf94}ah
+Dialogue: 0,0:02:51.43,0:02:52.83,DEFAULT,,0,0,0,,{\r}{\kf44}Raise{\kf26} the{\kf71} sun
+Dialogue: 0,0:02:56.85,0:02:59.67,DEFAULT,,0,0,0,,{\r}{\kf100}W{\kf107}o{\kf74}ah
+Dialogue: 0,0:02:59.93,0:03:01.61,DEFAULT,,0,0,0,,{\r}{\kf50}Raise{\kf25} the{\kf92} sun
+Dialogue: 0,0:03:17.88,0:03:19.82,DEFAULT,,0,0,0,,{\r}{\kf29}We{\kf36} shall{\kf43} never{\kf86} surrender
+Dialogue: 0,0:03:20.69,0:03:23.04,DEFAULT,,0,0,0,,{\r}{\kf20}We{\kf20} shall{\kf33} never{\kf13} let{\kf13} the{\kf53} darkness{\kf82} impede
+Dialogue: 0,0:03:24.11,0:03:26.58,DEFAULT,,0,0,0,,{\r}{\kf18}We{\kf27} shall{\kf35} stand{\kf35} strong{\kf18} for{\kf18} all{\kf97} eternity
+Dialogue: 0,0:03:27.25,0:03:31.14,DEFAULT,,0,0,0,,{\r}{\kf44}And{\kf111} spread{\kf33} her{\kf100} radiance{\kf33} and{\kf67} love
+Dialogue: 0,0:03:32.81,0:03:33.62,DEFAULT,,0,0,0,,{\r}{\kf40}MOVE{\kf40} OUT!

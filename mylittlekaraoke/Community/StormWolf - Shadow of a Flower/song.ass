@@ -1,76 +1,83 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Shadow of a Flower
+Artist: StormWolf
+Original Timing: mylittlekaraoke.com by Steven Knapp, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.73,0:00:17.90,DEFAULT,,0,0,0,,{\kf12}With{\kf8}out{\kf12} our{\kf8} lit{\kf8}tle{\kf12} miss{\kf27} Cheer{\kf8}i{\kf98}lee
-Dialogue: 0,0:00:18.24,0:00:21.78,DEFAULT,,0,0,0,,{\kf12}I{\kf19} don't{\kf31} see{\kf12} where{\kf8} the{\kf8} lit{\kf8}tle{\kf12} foals{\kf8} would{\kf42} be{\kf65}~
-Dialogue: 0,0:00:21.82,0:00:24.34,DEFAULT,,0,0,0,,{\kf8}But{\kf8} be{\kf8}hind{\kf8} eve{\kf8}ry{\kf31} smile{\kf23} you{\kf23} see{\kf16} on{\kf8} her{\kf12} face
-Dialogue: 0,0:00:24.49,0:00:27.81,DEFAULT,,0,0,0,,{\kf8}Is{\kf8} a{\kf8} tor{\kf12}ment{\kf16}ed{\kf23} mind{\kf12} her{\kf31} world{\kf19} out{\kf16} of{\kf16} place
-Dialogue: 0,0:00:29.81,0:00:30.64,DEFAULT,,0,0,0,,{\kf16}Ooh{\kf8} ooh{\kf8} ooh{\kf8} ah{\kf8} ah{\kf16} ah
-Dialogue: 0,0:00:32.48,0:00:35.50,DEFAULT,,0,0,0,,{\kf16}Ah{\kf8} ah{\kf8} ah{\kf16} ooh{\kf8} ah{\kf8} ah{\kf8} ah{\kf8} ah{\kf16} ah{\kf8} ee{\kf8} ee{\kf8} ee{\kf38} ee
-Dialogue: 0,0:00:36.89,0:00:37.72,DEFAULT,,0,0,0,,{\kf16}Ooh{\kf8} ooh{\kf8} ooh{\kf8} ah{\kf8} ah{\kf16} ah
-Dialogue: 0,0:00:39.57,0:00:42.62,DEFAULT,,0,0,0,,{\kf16}Ah{\kf8} ah{\kf8} ah{\kf16} ooh{\kf8} ah{\kf8} ah{\kf8} ah{\kf8} ah{\kf16} ah{\kf8} ee{\kf8} ee{\kf8} ee{\kf38} ee
-Dialogue: 0,0:00:44.01,0:00:44.84,DEFAULT,,0,0,0,,{\kf16}Ooh{\kf8} ooh{\kf8} ooh{\kf8} ah{\kf8} ah{\kf16} ah
-Dialogue: 0,0:00:46.69,0:00:49.74,DEFAULT,,0,0,0,,{\kf16}Ah{\kf8} ah{\kf8} ah{\kf16} ooh{\kf8} ah{\kf8} ah{\kf8} ah{\kf8} ah{\kf16} ah{\kf8} ee{\kf8} ee{\kf8} ee{\kf38} ee
-Dialogue: 0,0:00:51.14,0:00:51.97,DEFAULT,,0,0,0,,{\kf16}Ooh{\kf8} ooh{\kf8} ooh{\kf8} ah{\kf8} ah{\kf16} ah
-Dialogue: 0,0:00:53.81,0:00:56.87,DEFAULT,,0,0,0,,{\kf16}Ah{\kf8} ah{\kf8} ah{\kf16} ooh{\kf8} ah{\kf8} ah{\kf8} ah{\kf8} ah{\kf16} ah{\kf8} ee{\kf8} ee{\kf8} ee{\kf38} ee
-Dialogue: 0,0:00:57.39,0:01:00.56,DEFAULT,,0,0,0,,{\kf12}With{\kf8}out{\kf12} our{\kf8} lit{\kf8}tle{\kf12} miss{\kf27} Cheer{\kf8}i{\kf98}lee
-Dialogue: 0,0:01:00.90,0:01:04.29,DEFAULT,,0,0,0,,{\kf12}I{\kf19} don't{\kf31} see{\kf12} where{\kf8} the{\kf8} lit{\kf8}tle{\kf12} foals{\kf8} would{\kf42} be{\kf49}~
-Dialogue: 0,0:01:04.48,0:01:07.00,DEFAULT,,0,0,0,,{\kf8}But{\kf8} be{\kf8}hind{\kf8} eve{\kf8}ry{\kf31} smile{\kf23} you{\kf23} see{\kf16} on{\kf8} her{\kf12} face
-Dialogue: 0,0:01:07.16,0:01:10.47,DEFAULT,,0,0,0,,{\kf8}Is{\kf8} a{\kf8} tor{\kf12}ment{\kf16}ed{\kf23} mind{\kf12} her{\kf31} world{\kf19} out{\kf16} of{\kf16} place
-Dialogue: 0,0:01:11.41,0:01:14.20,DEFAULT,,0,0,0,,{\kf12}Teach{\kf12}ing{\kf12} is{\kf12} her{\kf8} on{\kf12}ly{\kf8} dis{\kf42}trac{\kf19}~{\kf34}tion
-Dialogue: 0,0:01:14.69,0:01:17.78,DEFAULT,,0,0,0,,{\kf8}Her{\kf16} san{\kf12}i{\kf12}ty{\kf8} is{\kf12} los{\kf16}ing{\kf38} trac{\kf23}~{\kf38}tion
-Dialogue: 0,0:01:18.50,0:01:21.51,DEFAULT,,0,0,0,,{\kf16}All{\kf12} she{\kf12} does{\kf8} is{\kf12} cov{\kf8}er{\kf12} up{\kf8} for{\kf8} the{\kf23} good{\kf19} of{\kf8} us{\kf42} all
-Dialogue: 0,0:01:21.82,0:01:26.45,DEFAULT,,0,0,0,,{\kf12}Her{\kf19} own{\kf16} life{\kf8} which{\kf23} she's{\kf16} al{\kf12}ways{\kf27} los{\kf16}ing{\kf8} con{\kf46}trol{\kf49}~{\kf76}~
-Dialogue: 0,0:01:38.93,0:01:39.76,DEFAULT,,0,0,0,,{\kf8}Ee{\kf8} ee{\kf8} ee{\kf38} ee
-Dialogue: 0,0:01:55.13,0:01:55.96,DEFAULT,,0,0,0,,{\kf16}Ooh{\kf8} ooh{\kf8} ooh{\kf8} ah{\kf8} ah{\kf16} ah
-Dialogue: 0,0:01:57.81,0:02:00.86,DEFAULT,,0,0,0,,{\kf16}Ah{\kf8} ah{\kf8} ah{\kf16} ooh{\kf8} ah{\kf8} ah{\kf8} ah{\kf8} ah{\kf16} ah{\kf8} ee{\kf8} ee{\kf8} ee{\kf38} ee
-Dialogue: 0,0:02:02.26,0:02:03.09,DEFAULT,,0,0,0,,{\kf16}Ooh{\kf8} ooh{\kf8} ooh{\kf8} ah{\kf8} ah{\kf16} ah
-Dialogue: 0,0:02:04.89,0:02:07.95,DEFAULT,,0,0,0,,{\kf16}Ah{\kf8} ah{\kf8} ah{\kf16} ooh{\kf8} ah{\kf8} ah{\kf8} ah{\kf8} ah{\kf16} ah{\kf8} ee{\kf8} ee{\kf8} ee{\kf38} ee
-Dialogue: 0,0:02:08.29,0:02:11.45,DEFAULT,,0,0,0,,{\kf23}Tale{\kf12} of{\kf8} a{\kf12} pur{\kf12}ple{\kf27} mare{\kf31} you're{\kf12} al{\kf8}ways{\kf8} in{\kf8} de{\kf19}spair
-Dialogue: 0,0:02:11.64,0:02:13.11,DEFAULT,,0,0,0,,{\kf8}The{\kf8} pain{\kf8} wont{\kf12} last{\kf8} I'm{\kf12} al{\kf12}ways{\kf12} here
-Dialogue: 0,0:02:13.41,0:02:14.99,DEFAULT,,0,0,0,,{\kf8}I'll{\kf12} make{\kf12} sure{\kf8} that{\kf8} your{\kf12} path{\kf8} is{\kf19} clear
-Dialogue: 0,0:02:15.37,0:02:16.69,DEFAULT,,0,0,0,,{\kf16}Don't{\kf12} hide{\kf8} the{\kf8} dark{\kf12} with{\kf12}in
-Dialogue: 0,0:02:17.03,0:02:18.58,DEFAULT,,0,0,0,,{\kf8}I{\kf16} know{\kf12} be{\kf12}neath{\kf8} you{\kf12} nev{\kf8}er{\kf16} sin
-Dialogue: 0,0:02:18.91,0:02:20.54,DEFAULT,,0,0,0,,{\kf8}Eve{\kf8}ry{\kf12} time{\kf8} you{\kf16} hide{\kf8} the{\kf12} pain{\kf8} it{\kf8} keeps
-Dialogue: 0,0:02:20.72,0:02:22.72,DEFAULT,,0,0,0,,{\kf12}you{\kf8} a{\kf12}way{\kf8} from{\kf8} be{\kf12}ing{\kf16} driv{\kf8}en{\kf8} in{\kf16}sane
-Dialogue: 0,0:02:22.98,0:02:25.70,DEFAULT,,0,0,0,,{\kf27}Smile{\kf19} is{\kf8} what{\kf8} she{\kf19} shows{\kf12} to{\kf65} all
-Dialogue: 0,0:02:26.23,0:02:29.28,DEFAULT,,0,0,0,,{\kf12}To{\kf16} hide{\kf12} her{\kf19} in{\kf27}ner{\kf27} de{\kf8}mons'{\kf53} call{\kf19}~
-Dialogue: 0,0:02:29.62,0:02:32.41,DEFAULT,,0,0,0,,{\kf12}Joy{\kf8} nev{\kf8}er{\kf23} lasts{\kf12} in{\kf8} a{\kf23} mind{\kf12} of{\kf12} de{\kf8}pres{\kf16}sion
-Dialogue: 0,0:02:32.67,0:02:36.14,DEFAULT,,0,0,0,,{\kf8}And{\kf12} now{\kf12} Cheer{\kf16}i{\kf16}lee{\kf8} is{\kf12} be{\kf16}yond{\kf12} all{\kf12} cor{\kf23}rec{\kf16}~{\kf49}tion
-Dialogue: 0,0:02:36.74,0:02:39.53,DEFAULT,,0,0,0,,{\kf12}Teach{\kf12}ing{\kf12} is{\kf12} her{\kf8} on{\kf12}ly{\kf8} dis{\kf42}trac{\kf19}~{\kf34}tion
-Dialogue: 0,0:02:40.02,0:02:43.11,DEFAULT,,0,0,0,,{\kf8}Her{\kf16} san{\kf12}i{\kf12}ty{\kf8} is{\kf12} los{\kf16}ing{\kf38} trac{\kf23}~{\kf38}tion
-Dialogue: 0,0:02:43.83,0:02:46.88,DEFAULT,,0,0,0,,{\kf16}All{\kf12} she{\kf12} does{\kf8} is{\kf12} cov{\kf8}er{\kf12} up{\kf8} for{\kf8} the{\kf23} good{\kf19} of{\kf8} us{\kf42} all
-Dialogue: 0,0:02:47.18,0:02:51.78,DEFAULT,,0,0,0,,{\kf12}Her{\kf19} own{\kf16} life{\kf8} which{\kf23} she's{\kf16} al{\kf12}ways{\kf27} los{\kf16}ing{\kf8} con{\kf46}trol{\kf49}~{\kf76}~
-Dialogue: 0,0:03:04.25,0:03:05.08,DEFAULT,,0,0,0,,{\kf8}Ee{\kf8} ee{\kf8} ee{\kf38} ee
-Dialogue: 0,0:03:20.46,0:03:21.29,DEFAULT,,0,0,0,,{\kf16}Ooh{\kf8} ooh{\kf8} ooh{\kf8} ah{\kf8} ah{\kf16} ah
-Dialogue: 0,0:03:23.14,0:03:26.19,DEFAULT,,0,0,0,,{\kf16}Ah{\kf8} ah{\kf8} ah{\kf16} ooh{\kf8} ah{\kf8} ah{\kf8} ah{\kf8} ah{\kf16} ah{\kf8} ee{\kf8} ee{\kf8} ee{\kf38} ee
-Dialogue: 0,0:03:27.58,0:03:28.41,DEFAULT,,0,0,0,,{\kf16}Ooh{\kf8} ooh{\kf8} ooh{\kf8} ah{\kf8} ah{\kf16} ah
-Dialogue: 0,0:03:30.26,0:03:33.31,DEFAULT,,0,0,0,,{\kf16}Ah{\kf8} ah{\kf8} ah{\kf16} ooh{\kf8} ah{\kf8} ah{\kf8} ah{\kf8} ah{\kf16} ah{\kf8} ee{\kf8} ee{\kf8} ee{\kf38} ee
-Dialogue: 0,0:03:33.61,0:03:36.78,DEFAULT,,0,0,0,,{\kf23}Tale{\kf12} of{\kf8} a{\kf12} pur{\kf12}ple{\kf27} mare{\kf31} you're{\kf12} al{\kf8}ways{\kf8} in{\kf8} de{\kf19}spair
-Dialogue: 0,0:03:36.97,0:03:40.32,DEFAULT,,0,0,0,,{\kf8}The{\kf8} pain{\kf8} wont{\kf12} last{\kf8} I'm{\kf12} al{\kf12}ways{\kf12} here{\kf8} I'll{\kf12} make{\kf12} sure{\kf8} that{\kf8} your{\kf12} path{\kf8} is{\kf19} clear
-Dialogue: 0,0:03:40.70,0:03:43.90,DEFAULT,,0,0,0,,{\kf16}Don't{\kf12} hide{\kf8} the{\kf8} dark{\kf12} with{\kf12}in{\kf8} I{\kf16} know{\kf12} be{\kf12}neath{\kf8} you{\kf12} nev{\kf8}er{\kf16} sin
-Dialogue: 0,0:03:44.24,0:03:48.12,DEFAULT,,0,0,0,,{\kf8}Eve{\kf8}ry{\kf12} time{\kf8} you{\kf16} hide{\kf8} the{\kf12} pain{\kf8} it{\kf8} keeps{\kf12} you{\kf8} a{\kf12}way{\kf8} from{\kf8} be{\kf12}ing{\kf16} driv{\kf8}en{\kf8} in{\kf31}sane
-Dialogue: 0,0:03:48.31,0:03:50.65,DEFAULT,,0,0,0,,{\kf19}My{\kf23} sweet{\kf23} dear{\kf31} Cheer{\kf16}i{\kf34}lee
-Dialogue: 0,0:03:51.48,0:03:54.72,DEFAULT,,0,0,0,,{\kf23}You{\kf23} mean{\kf27} more{\kf12} than{\kf16} the{\kf19} world{\kf12}~{\kf16} to{\kf16}~{\kf23} me{\kf23}~{\kf19}~
-Dialogue: 0,0:03:54.94,0:03:57.77,DEFAULT,,0,0,0,,{\kf16}I{\kf16} can{\kf19} be{\kf8} the{\kf23} one{\kf8} who{\kf12} sets{\kf16} you{\kf34} free
-Dialogue: 0,0:03:58.30,0:04:01.46,DEFAULT,,0,0,0,,{\kf8}so{\kf65} please{\kf49}~{\kf38} stay{\kf8}~{\kf8} with{\kf34} me
-Dialogue: 0,0:04:03.12,0:04:03.95,DEFAULT,,0,0,0,,{\kf16}Ooh{\kf8} ooh{\kf8} ooh{\kf8} ah{\kf8} ah{\kf16} ah
-Dialogue: 0,0:04:05.80,0:04:08.85,DEFAULT,,0,0,0,,{\kf16}Ah{\kf8} ah{\kf8} ah{\kf16} ooh{\kf8} ah{\kf8} ah{\kf8} ah{\kf8} ah{\kf16} ah{\kf8} ee{\kf8} ee{\kf8} ee{\kf38} ee
-Dialogue: 0,0:04:10.25,0:04:11.08,DEFAULT,,0,0,0,,{\kf16}Ooh{\kf8} ooh{\kf8} ooh{\kf8} ah{\kf8} ah{\kf16} ah
-Dialogue: 0,0:04:12.92,0:04:15.97,DEFAULT,,0,0,0,,{\kf16}Ah{\kf8} ah{\kf8} ah{\kf16} ooh{\kf8} ah{\kf8} ah{\kf8} ah{\kf8} ah{\kf16} ah{\kf8} ee{\kf8} ee{\kf8} ee{\kf38} ee
-Dialogue: 0,0:04:17.37,0:04:18.16,DEFAULT,,0,0,0,,{\kf16}Ooh{\kf8} ooh{\kf8} ooh{\kf8} ah{\kf8} ah{\kf16} ah
-Dialogue: 0,0:04:20.01,0:04:23.06,DEFAULT,,0,0,0,,{\kf16}Ah{\kf8} ah{\kf8} ah{\kf16} ooh{\kf8} ah{\kf8} ah{\kf8} ah{\kf8} ah{\kf16} ah{\kf8} ee{\kf8} ee{\kf8} ee{\kf38} ee
-Dialogue: 0,0:04:24.45,0:04:25.28,DEFAULT,,0,0,0,,{\kf16}Ooh{\kf8} ooh{\kf8} ooh{\kf8} ah{\kf8} ah{\kf16} ah
-Dialogue: 0,0:04:27.13,0:04:30.18,DEFAULT,,0,0,0,,{\kf16}Ah{\kf8} ah{\kf8} ah{\kf16} ooh{\kf8} ah{\kf8} ah{\kf8} ah{\kf8} ah{\kf16} ah{\kf8} ee{\kf8} ee{\kf8} ee{\kf38} ee
-Dialogue: 0,0:04:30.48,0:04:33.27,DEFAULT,,0,0,0,,{\kf31}Oh{\kf19} my{\kf23} sweet{\kf23} dear{\kf31} Cheer{\kf16}i{\kf31}lee
-Dialogue: 0,0:04:34.14,0:04:37.38,DEFAULT,,0,0,0,,{\kf23}You{\kf23} mean{\kf27} more{\kf12} than{\kf16} the{\kf19} world{\kf12}~{\kf16} to{\kf16}~{\kf23} me{\kf23}~{\kf19}~
-Dialogue: 0,0:04:37.61,0:04:40.47,DEFAULT,,0,0,0,,{\kf16}I{\kf16} can{\kf19} be{\kf8} the{\kf23} one{\kf8} who{\kf12} sets{\kf16} you{\kf34} free
-Dialogue: 0,0:04:40.96,0:04:44.58,DEFAULT,,0,0,0,,{\kf8}so{\kf65} please{\kf49}~{\kf38} stay{\kf8}~{\kf8} with{\kf83} me
+Dialogue: 0,0:00:14.74,0:00:17.90,DEFAULT,,0,0,0,,{\r}{\kf19}With{\kf13}out{\kf19} our{\kf13} lit{\kf13}tle{\kf19} miss{\kf44} Cheer{\kf13}i{\kf164}lee
+Dialogue: 0,0:00:18.24,0:00:21.78,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf31} don't{\kf49} see{\kf18} where{\kf12} the{\kf12} lit{\kf12}tle{\kf18} foals{\kf12} would{\kf67} be{\kf105}~
+Dialogue: 0,0:00:21.82,0:00:24.35,DEFAULT,,0,0,0,,{\r}{\kf13}But{\kf13} be{\kf13}hind{\kf13} eve{\kf13}ry{\kf52} smile{\kf39} you{\kf39} see{\kf26} on{\kf13} her{\kf19} face
+Dialogue: 0,0:00:24.50,0:00:27.81,DEFAULT,,0,0,0,,{\r}{\kf15}Is{\kf15} a{\kf15} tor{\kf23}ment{\kf31}ed{\kf46} mind{\kf23} her{\kf62} world{\kf39} out{\kf31} of{\kf32} place
+Dialogue: 0,0:00:29.81,0:00:30.64,DEFAULT,,0,0,0,,{\r}{\kf21}Ooh{\kf10} ooh{\kf10} ooh{\kf10} ah{\kf10} ah{\kf22} ah
+Dialogue: 0,0:00:32.49,0:00:35.50,DEFAULT,,0,0,0,,{\r}{\kf30}Ah{\kf15} ah{\kf15} ah{\kf30} ooh{\kf15} ah{\kf15} ah{\kf15} ah{\kf15} ah{\kf30} ah{\kf15} ee{\kf15} ee{\kf15} ee{\kf77} ee
+Dialogue: 0,0:00:36.90,0:00:37.73,DEFAULT,,0,0,0,,{\r}{\kf21}Ooh{\kf10} ooh{\kf10} ooh{\kf10} ah{\kf10} ah{\kf22} ah
+Dialogue: 0,0:00:39.57,0:00:42.63,DEFAULT,,0,0,0,,{\r}{\kf30}Ah{\kf15} ah{\kf15} ah{\kf30} ooh{\kf15} ah{\kf15} ah{\kf15} ah{\kf15} ah{\kf30} ah{\kf15} ee{\kf15} ee{\kf15} ee{\kf80} ee
+Dialogue: 0,0:00:44.02,0:00:44.85,DEFAULT,,0,0,0,,{\r}{\kf21}Ooh{\kf10} ooh{\kf10} ooh{\kf10} ah{\kf10} ah{\kf22} ah
+Dialogue: 0,0:00:46.70,0:00:49.75,DEFAULT,,0,0,0,,{\r}{\kf30}Ah{\kf15} ah{\kf15} ah{\kf30} ooh{\kf15} ah{\kf15} ah{\kf15} ah{\kf15} ah{\kf30} ah{\kf15} ee{\kf15} ee{\kf15} ee{\kf80} ee
+Dialogue: 0,0:00:51.14,0:00:51.97,DEFAULT,,0,0,0,,{\r}{\kf21}Ooh{\kf10} ooh{\kf10} ooh{\kf10} ah{\kf10} ah{\kf22} ah
+Dialogue: 0,0:00:53.82,0:00:56.87,DEFAULT,,0,0,0,,{\r}{\kf30}Ah{\kf15} ah{\kf15} ah{\kf30} ooh{\kf15} ah{\kf15} ah{\kf15} ah{\kf15} ah{\kf30} ah{\kf15} ee{\kf15} ee{\kf15} ee{\kf80} ee
+Dialogue: 0,0:00:57.40,0:01:00.57,DEFAULT,,0,0,0,,{\r}{\kf19}With{\kf13}out{\kf19} our{\kf13} lit{\kf13}tle{\kf19} miss{\kf44} Cheer{\kf13}i{\kf164}lee
+Dialogue: 0,0:01:00.90,0:01:04.30,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf31} don't{\kf50} see{\kf19} where{\kf13} the{\kf13} lit{\kf13}tle{\kf19} foals{\kf13} would{\kf69} be{\kf80}~
+Dialogue: 0,0:01:04.48,0:01:07.01,DEFAULT,,0,0,0,,{\r}{\kf13}But{\kf13} be{\kf13}hind{\kf13} eve{\kf13}ry{\kf52} smile{\kf39} you{\kf39} see{\kf26} on{\kf13} her{\kf19} face
+Dialogue: 0,0:01:07.16,0:01:10.48,DEFAULT,,0,0,0,,{\r}{\kf15}Is{\kf15} a{\kf15} tor{\kf23}ment{\kf31}ed{\kf46} mind{\kf23} her{\kf62} world{\kf39} out{\kf31} of{\kf32} place
+Dialogue: 0,0:01:11.42,0:01:14.21,DEFAULT,,0,0,0,,{\r}{\kf19}Teach{\kf19}ing{\kf19} is{\kf19} her{\kf13} on{\kf19}ly{\kf13} dis{\kf70}trac{\kf32}~{\kf56}tion
+Dialogue: 0,0:01:14.70,0:01:17.79,DEFAULT,,0,0,0,,{\r}{\kf13}Her{\kf26} san{\kf20}i{\kf20}ty{\kf13} is{\kf20} los{\kf26}ing{\kf66} trac{\kf39}~{\kf66}tion
+Dialogue: 0,0:01:18.50,0:01:21.52,DEFAULT,,0,0,0,,{\r}{\kf25}All{\kf19} she{\kf19} does{\kf13} is{\kf19} cov{\kf13}er{\kf19} up{\kf13} for{\kf13} the{\kf38} good{\kf31} of{\kf13} us{\kf67} all
+Dialogue: 0,0:01:21.82,0:01:26.46,DEFAULT,,0,0,0,,{\r}{\kf16}Her{\kf27} own{\kf22} life{\kf11} which{\kf33} she's{\kf22} al{\kf16}ways{\kf38} los{\kf22}ing{\kf11} con{\kf66}trol{\kf71}~{\kf109}~
+Dialogue: 0,0:01:38.93,0:01:39.76,DEFAULT,,0,0,0,,{\r}{\kf10}Ee{\kf10} ee{\kf10} ee{\kf53} ee
+Dialogue: 0,0:01:55.14,0:01:55.97,DEFAULT,,0,0,0,,{\r}{\kf21}Ooh{\kf10} ooh{\kf10} ooh{\kf10} ah{\kf10} ah{\kf22} ah
+Dialogue: 0,0:01:57.81,0:02:00.87,DEFAULT,,0,0,0,,{\r}{\kf30}Ah{\kf15} ah{\kf15} ah{\kf30} ooh{\kf15} ah{\kf15} ah{\kf15} ah{\kf15} ah{\kf30} ah{\kf15} ee{\kf15} ee{\kf15} ee{\kf80} ee
+Dialogue: 0,0:02:02.26,0:02:03.09,DEFAULT,,0,0,0,,{\r}{\kf21}Ooh{\kf10} ooh{\kf10} ooh{\kf10} ah{\kf10} ah{\kf22} ah
+Dialogue: 0,0:02:04.90,0:02:07.95,DEFAULT,,0,0,0,,{\r}{\kf30}Ah{\kf15} ah{\kf15} ah{\kf30} ooh{\kf15} ah{\kf15} ah{\kf15} ah{\kf15} ah{\kf30} ah{\kf15} ee{\kf15} ee{\kf15} ee{\kf80} ee
+Dialogue: 0,0:02:08.29,0:02:11.46,DEFAULT,,0,0,0,,{\r}{\kf41}Tale{\kf21} of{\kf14} a{\kf21} pur{\kf21}ple{\kf48} mare{\kf55} you're{\kf21} al{\kf14}ways{\kf14} in{\kf14} de{\kf33}spair
+Dialogue: 0,0:02:11.65,0:02:13.12,DEFAULT,,0,0,0,,{\r}{\kf15}The{\kf15} pain{\kf15} wont{\kf22} last{\kf15} I'm{\kf22} al{\kf22}ways{\kf21} here
+Dialogue: 0,0:02:13.42,0:02:15.00,DEFAULT,,0,0,0,,{\r}{\kf14}I'll{\kf22} make{\kf22} sure{\kf14} that{\kf14} your{\kf22} path{\kf14} is{\kf36} clear
+Dialogue: 0,0:02:15.38,0:02:16.70,DEFAULT,,0,0,0,,{\r}{\kf31}Don't{\kf23} hide{\kf16} the{\kf16} dark{\kf23} with{\kf23}in
+Dialogue: 0,0:02:17.03,0:02:18.58,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf27} know{\kf20} be{\kf20}neath{\kf13} you{\kf20} nev{\kf13}er{\kf29} sin
+Dialogue: 0,0:02:18.92,0:02:20.54,DEFAULT,,0,0,0,,{\r}{\kf15}Eve{\kf15}ry{\kf22} time{\kf15} you{\kf29} hide{\kf15} the{\kf22} pain{\kf15} it{\kf14} keeps
+Dialogue: 0,0:02:20.73,0:02:22.73,DEFAULT,,0,0,0,,{\r}{\kf22}you{\kf15} a{\kf22}way{\kf15} from{\kf15} be{\kf22}ing{\kf30} driv{\kf15}en{\kf15} in{\kf29}sane
+Dialogue: 0,0:02:22.99,0:02:25.70,DEFAULT,,0,0,0,,{\r}{\kf46}Smile{\kf33} is{\kf13} what{\kf13} she{\kf33} shows{\kf20} to{\kf113} all
+Dialogue: 0,0:02:26.23,0:02:29.28,DEFAULT,,0,0,0,,{\r}{\kf18}To{\kf24} hide{\kf18} her{\kf31} in{\kf43}ner{\kf43} de{\kf12}mons'{\kf85} call{\kf31}~
+Dialogue: 0,0:02:29.62,0:02:32.41,DEFAULT,,0,0,0,,{\r}{\kf23}Joy{\kf16} nev{\kf16}er{\kf47} lasts{\kf23} in{\kf16} a{\kf47} mind{\kf23} of{\kf23} de{\kf16}pres{\kf29}sion
+Dialogue: 0,0:02:32.68,0:02:36.14,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf19} now{\kf19} Cheer{\kf26}i{\kf26}lee{\kf13} is{\kf19} be{\kf26}yond{\kf19} all{\kf19} cor{\kf39}rec{\kf26}~{\kf83}tion
+Dialogue: 0,0:02:36.75,0:02:39.53,DEFAULT,,0,0,0,,{\r}{\kf19}Teach{\kf19}ing{\kf19} is{\kf19} her{\kf13} on{\kf19}ly{\kf13} dis{\kf70}trac{\kf32}~{\kf56}tion
+Dialogue: 0,0:02:40.02,0:02:43.12,DEFAULT,,0,0,0,,{\r}{\kf13}Her{\kf26} san{\kf20}i{\kf20}ty{\kf13} is{\kf20} los{\kf26}ing{\kf66} trac{\kf39}~{\kf66}tion
+Dialogue: 0,0:02:43.83,0:02:46.88,DEFAULT,,0,0,0,,{\r}{\kf25}All{\kf19} she{\kf19} does{\kf13} is{\kf19} cov{\kf13}er{\kf19} up{\kf13} for{\kf13} the{\kf38} good{\kf32} of{\kf13} us{\kf69} all
+Dialogue: 0,0:02:47.19,0:02:51.78,DEFAULT,,0,0,0,,{\r}{\kf16}Her{\kf27} own{\kf22} life{\kf11} which{\kf32} she's{\kf22} al{\kf16}ways{\kf38} los{\kf22}ing{\kf11} con{\kf65}trol{\kf70}~{\kf108}~
+Dialogue: 0,0:03:04.26,0:03:05.09,DEFAULT,,0,0,0,,{\r}{\kf10}Ee{\kf10} ee{\kf10} ee{\kf53} ee
+Dialogue: 0,0:03:20.46,0:03:21.29,DEFAULT,,0,0,0,,{\r}{\kf21}Ooh{\kf10} ooh{\kf10} ooh{\kf10} ah{\kf10} ah{\kf22} ah
+Dialogue: 0,0:03:23.14,0:03:26.19,DEFAULT,,0,0,0,,{\r}{\kf30}Ah{\kf15} ah{\kf15} ah{\kf30} ooh{\kf15} ah{\kf15} ah{\kf15} ah{\kf15} ah{\kf30} ah{\kf15} ee{\kf15} ee{\kf15} ee{\kf80} ee
+Dialogue: 0,0:03:27.59,0:03:28.42,DEFAULT,,0,0,0,,{\r}{\kf21}Ooh{\kf10} ooh{\kf10} ooh{\kf10} ah{\kf10} ah{\kf22} ah
+Dialogue: 0,0:03:30.26,0:03:33.32,DEFAULT,,0,0,0,,{\r}{\kf30}Ah{\kf15} ah{\kf15} ah{\kf30} ooh{\kf15} ah{\kf15} ah{\kf15} ah{\kf15} ah{\kf30} ah{\kf15} ee{\kf15} ee{\kf15} ee{\kf80} ee
+Dialogue: 0,0:03:33.62,0:03:36.78,DEFAULT,,0,0,0,,{\r}{\kf41}Tale{\kf21} of{\kf14} a{\kf21} pur{\kf21}ple{\kf48} mare{\kf55} you're{\kf21} al{\kf14}ways{\kf14} in{\kf14} de{\kf33}spair
+Dialogue: 0,0:03:36.97,0:03:40.33,DEFAULT,,0,0,0,,{\r}{\kf16}The{\kf16} pain{\kf16} wont{\kf24} last{\kf16} I'm{\kf24} al{\kf24}ways{\kf24} here{\kf16} I'll{\kf24} make{\kf24} sure{\kf16} that{\kf16} your{\kf24} path{\kf16} is{\kf39} clear
+Dialogue: 0,0:03:40.70,0:03:43.91,DEFAULT,,0,0,0,,{\r}{\kf32}Don't{\kf24} hide{\kf16} the{\kf16} dark{\kf24} with{\kf24}in{\kf16} I{\kf32} know{\kf24} be{\kf24}neath{\kf16} you{\kf24} nev{\kf16}er{\kf32} sin
+Dialogue: 0,0:03:44.25,0:03:48.13,DEFAULT,,0,0,0,,{\r}{\kf15}Eve{\kf15}ry{\kf22} time{\kf15} you{\kf29} hide{\kf15} the{\kf22} pain{\kf15} it{\kf15} keeps{\kf22} you{\kf15} a{\kf22}way{\kf15} from{\kf15} be{\kf22}ing{\kf29} driv{\kf15}en{\kf15} in{\kf55}sane
+Dialogue: 0,0:03:48.32,0:03:50.65,DEFAULT,,0,0,0,,{\r}{\kf31}My{\kf37} sweet{\kf37} dear{\kf49} Cheer{\kf25}i{\kf55}lee
+Dialogue: 0,0:03:51.48,0:03:54.72,DEFAULT,,0,0,0,,{\r}{\kf33}You{\kf33} mean{\kf38} more{\kf16} than{\kf22} the{\kf27} world{\kf16}~{\kf22} to{\kf22}~{\kf33} me{\kf33}~{\kf29}~
+Dialogue: 0,0:03:54.95,0:03:57.78,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf29} can{\kf36} be{\kf15} the{\kf44} one{\kf15} who{\kf22} sets{\kf29} you{\kf64} free
+Dialogue: 0,0:03:58.30,0:04:01.47,DEFAULT,,0,0,0,,{\r}{\kf12}so{\kf98} please{\kf75}~{\kf58} stay{\kf12}~{\kf12} with{\kf50} me
+Dialogue: 0,0:04:03.13,0:04:03.96,DEFAULT,,0,0,0,,{\r}{\kf21}Ooh{\kf10} ooh{\kf10} ooh{\kf10} ah{\kf10} ah{\kf22} ah
+Dialogue: 0,0:04:05.80,0:04:08.86,DEFAULT,,0,0,0,,{\r}{\kf30}Ah{\kf15} ah{\kf15} ah{\kf30} ooh{\kf15} ah{\kf15} ah{\kf15} ah{\kf15} ah{\kf30} ah{\kf15} ee{\kf15} ee{\kf15} ee{\kf80} ee
+Dialogue: 0,0:04:10.25,0:04:11.08,DEFAULT,,0,0,0,,{\r}{\kf21}Ooh{\kf10} ooh{\kf10} ooh{\kf10} ah{\kf10} ah{\kf22} ah
+Dialogue: 0,0:04:12.93,0:04:15.98,DEFAULT,,0,0,0,,{\r}{\kf30}Ah{\kf15} ah{\kf15} ah{\kf30} ooh{\kf15} ah{\kf15} ah{\kf15} ah{\kf15} ah{\kf30} ah{\kf15} ee{\kf15} ee{\kf15} ee{\kf80} ee
+Dialogue: 0,0:04:17.37,0:04:18.17,DEFAULT,,0,0,0,,{\r}{\kf20}Ooh{\kf10} ooh{\kf10} ooh{\kf10} ah{\kf10} ah{\kf19} ah
+Dialogue: 0,0:04:20.01,0:04:23.07,DEFAULT,,0,0,0,,{\r}{\kf30}Ah{\kf15} ah{\kf15} ah{\kf30} ooh{\kf15} ah{\kf15} ah{\kf15} ah{\kf15} ah{\kf30} ah{\kf15} ee{\kf15} ee{\kf15} ee{\kf80} ee
+Dialogue: 0,0:04:24.46,0:04:25.29,DEFAULT,,0,0,0,,{\r}{\kf21}Ooh{\kf10} ooh{\kf10} ooh{\kf10} ah{\kf10} ah{\kf22} ah
+Dialogue: 0,0:04:27.14,0:04:30.19,DEFAULT,,0,0,0,,{\r}{\kf30}Ah{\kf15} ah{\kf15} ah{\kf30} ooh{\kf15} ah{\kf15} ah{\kf15} ah{\kf15} ah{\kf30} ah{\kf15} ee{\kf15} ee{\kf15} ee{\kf80} ee
+Dialogue: 0,0:04:30.49,0:04:33.28,DEFAULT,,0,0,0,,{\r}{\kf50}Oh{\kf31} my{\kf37} sweet{\kf37} dear{\kf50} Cheer{\kf25}i{\kf49}lee
+Dialogue: 0,0:04:34.15,0:04:37.39,DEFAULT,,0,0,0,,{\r}{\kf33}You{\kf33} mean{\kf38} more{\kf16} than{\kf22} the{\kf27} world{\kf16}~{\kf22} to{\kf22}~{\kf33} me{\kf33}~{\kf29}~
+Dialogue: 0,0:04:37.61,0:04:40.48,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf29} can{\kf37} be{\kf15} the{\kf44} one{\kf15} who{\kf22} sets{\kf29} you{\kf66} free
+Dialogue: 0,0:04:40.97,0:04:44.59,DEFAULT,,0,0,0,,{\r}{\kf11}so{\kf90} please{\kf69}~{\kf53} stay{\kf11}~{\kf11} with{\kf117} me

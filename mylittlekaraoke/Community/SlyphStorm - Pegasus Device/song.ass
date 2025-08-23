@@ -1,78 +1,85 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Pegasus Device
+Artist: SlyphStorm
+Original Timing: mylittlekaraoke.com by Diponi
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:36.02,0:00:38.15,DEFAULT,,0,0,0,,{\kf25}Deep{\kf9} in{\kf13} the{\kf13} pag{\kf17}es{\kf21} of{\kf21} his{\kf13}to{\kf34}ry
-Dialogue: 0,0:00:38.27,0:00:40.94,DEFAULT,,0,0,0,,{\kf17}Lies{\kf9} a{\kf17} sha{\kf25}dow{\kf25} hi{\kf17}ding{\kf13} in{\kf9} a{\kf25} mys{\kf13}te{\kf42}ry
-Dialogue: 0,0:00:41.19,0:00:43.39,DEFAULT,,0,0,0,,{\kf9}A{\kf30} late{\kf21} night{\kf17} sto{\kf13}ry{\kf13} bu{\kf17}ried{\kf30} far{\kf9} a{\kf25}way
-Dialogue: 0,0:00:43.52,0:00:46.10,DEFAULT,,0,0,0,,{\kf13}Un{\kf13}til{\kf13} it{\kf30} once{\kf13} a{\kf34}gain{\kf17} sees{\kf9} the{\kf30} light{\kf9} of{\kf30} day
-Dialogue: 0,0:00:46.19,0:00:48.81,DEFAULT,,0,0,0,,{\kf9}And{\kf13} when{\kf9} the{\kf13} lit{\kf13}tle{\kf21} colts{\kf9} and{\kf13} fil{\kf9}lies{\kf17} turn{\kf13} out{\kf21} all{\kf9} the{\kf30} lights
-Dialogue: 0,0:00:48.93,0:00:51.60,DEFAULT,,0,0,0,,{\kf5}And{\kf9} tell{\kf9} the{\kf25} sto{\kf17}ry{\kf13} of{\kf9} a{\kf13} fac{\kf13}to{\kf13}ry{\kf9} as{\kf17} black{\kf21} as{\kf34} night
-Dialogue: 0,0:00:51.81,0:00:54.06,DEFAULT,,0,0,0,,{\kf13}The{\kf13} lu{\kf13}xu{\kf13}ry{\kf13} of{\kf25} rain{\kf17}bows{\kf13} comes{\kf25} at{\kf9} a{\kf25} price
-Dialogue: 0,0:00:54.14,0:00:57.02,DEFAULT,,0,0,0,,{\kf13}So{\kf13} just{\kf13} ig{\kf21}nore{\kf9} the{\kf38} screams,{\kf17} and{\kf34} don't{\kf25} think{\kf25} twi{\kf25}ce
-Dialogue: 0,0:00:57.10,0:00:59.43,DEFAULT,,0,0,0,,{\kf17}You've{\kf25} proven{\kf9} to{\kf13} your{\kf34}self{\kf13} and{\kf13} to{\kf25} all{\kf17} of{\kf17} us
-Dialogue: 0,0:00:59.52,0:01:02.14,DEFAULT,,0,0,0,,{\kf13}That{\kf13} you're{\kf9} not{\kf30} fit{\kf9} to{\kf34} fly{\kf17} like{\kf9} a{\kf21} pe{\kf9}ga{\kf38}sus
-Dialogue: 0,0:01:02.47,0:01:04.89,DEFAULT,,0,0,0,,{\kf13}You{\kf13} don't{\kf25} even{\kf9} de{\kf13}se{\kf17}rve{\kf21} those{\kf25} wings{\kf13} you{\kf34} bear
-Dialogue: 0,0:01:04.97,0:01:07.68,DEFAULT,,0,0,0,,{\kf13}When{\kf9} you{\kf21} stand{\kf9} be{\kf17}side{\kf9} a{\kf9} le{\kf13}gend,{\kf13} you{\kf17} don't{\kf9} e{\kf13}ven{\kf13} com{\kf55}pare
-Dialogue: 0,0:01:07.97,0:01:10.22,DEFAULT,,0,0,0,,{\kf17}All{\kf9} of{\kf9} the{\kf17} fai{\kf25}lures{\kf9} help{\kf9} to{\kf9} fu{\kf13}el{\kf13} suc{\kf21}cess{\kf17}~
-Dialogue: 0,0:01:10.39,0:01:12.80,DEFAULT,,0,0,0,,{\kf9}In{\kf9} the{\kf17} bloo{\kf9}dy{\kf9} and{\kf9} vis{\kf13}ce{\kf9}ral{\kf9} wea{\kf13}ther{\kf13} ga{\kf9}me{\kf9} of{\kf30} chess
-Dialogue: 0,0:01:12.89,0:01:15.55,DEFAULT,,0,0,0,,{\kf9}And{\kf9} just{\kf9} be{\kf17}cause{\kf9} you've{\kf9} dis{\kf9}app{\kf13}oin{\kf9}ted{\kf13} you'll{\kf21} pay{\kf9} the{\kf38} price
-Dialogue: 0,0:01:15.68,0:01:18.39,DEFAULT,,0,0,0,,{\kf13}Now{\kf9} ac{\kf13}cept{\kf9} your{\kf17} fate{\kf9} and{\kf25} die{\kf9} in{\kf9} the{\kf13} pe{\kf9}ga{\kf13}sus{\kf9} de{\kf42}vice
-Dialogue: 0,0:01:29.30,0:01:31.67,DEFAULT,,0,0,0,,{\kf17}Phan{\kf13}tom{\kf25} screams{\kf13} e{\kf13}cho{\kf13} through{\kf9} the{\kf25} ruined{\kf9} fa{\kf30}ci{\kf13}li{\kf9}ty
-Dialogue: 0,0:01:31.84,0:01:34.42,DEFAULT,,0,0,0,,{\kf9}A{\kf21} hor{\kf17}rible{\kf25} si{\kf21}lence{\kf17} builds{\kf9} an{\kf9} ee{\kf13}rie{\kf13} tran{\kf30}qui{\kf17}li{\kf9}ty
-Dialogue: 0,0:01:34.51,0:01:36.88,DEFAULT,,0,0,0,,{\kf9}The{\kf21} souls{\kf9} of{\kf9} ma{\kf13}ny{\kf9} in{\kf38}nocent{\kf17} fill{\kf13}~{\kf13} the{\kf38} air
-Dialogue: 0,0:01:37.01,0:01:39.55,DEFAULT,,0,0,0,,{\kf13}And{\kf9} the{\kf13} hope{\kf13} that{\kf13} they{\kf9} all{\kf17} died{\kf9} with{\kf21} scat{\kf13}tered{\kf13} he{\kf13}re{\kf13} and{\kf38} there
-Dialogue: 0,0:01:39.88,0:01:42.30,DEFAULT,,0,0,0,,{\kf9}A{\kf17} migh{\kf9}ty{\kf9} ma{\kf42}chine{\kf21} built{\kf13} wit{\kf25}hin{\kf9} the{\kf50} wake
-Dialogue: 0,0:01:42.34,0:01:44.92,DEFAULT,,0,0,0,,{\kf13}Of{\kf9} a{\kf30} long{\kf30} dead{\kf17} dre{\kf13}am,{\kf9} lit{\kf9}tle{\kf17} de{\kf13}mon{\kf9} a{\kf46}wake
-Dialogue: 0,0:01:45.17,0:01:47.50,DEFAULT,,0,0,0,,{\kf9}The{\kf13} ci{\kf38}tizens{\kf34} sleep,{\kf13} nev{\kf13}er{\kf17} quite{\kf9} kno{\kf17}wing{\kf34} when
-Dialogue: 0,0:01:47.67,0:01:50.34,DEFAULT,,0,0,0,,{\kf13}The{\kf9} de{\kf17}vice{\kf9} will{\kf25} rea{\kf21}wa{\kf21}ken,{\kf13} hun{\kf13}gry{\kf9} a{\kf50}gain
-Dialogue: 0,0:01:50.46,0:01:52.75,DEFAULT,,0,0,0,,{\kf13}You've{\kf25} proven{\kf9} to{\kf13} your{\kf34}self{\kf9} and{\kf13} to{\kf25} all{\kf13} of{\kf13} us
-Dialogue: 0,0:01:52.84,0:01:55.54,DEFAULT,,0,0,0,,{\kf13}That{\kf13} you're{\kf9} not{\kf25} fit{\kf9} to{\kf34} fly{\kf21} like{\kf9} a{\kf21} pe{\kf9}ga{\kf42}sus
-Dialogue: 0,0:01:55.83,0:01:58.25,DEFAULT,,0,0,0,,{\kf13}You{\kf13} don't{\kf25} even{\kf9} de{\kf13}se{\kf17}rve{\kf21} those{\kf30} wings{\kf13} you{\kf38} bear
-Dialogue: 0,0:01:58.33,0:02:00.92,DEFAULT,,0,0,0,,{\kf13}When{\kf9} you{\kf17} stand{\kf9} be{\kf17}side{\kf9} a{\kf9} le{\kf13}gend,{\kf13} you{\kf13} don't{\kf9} e{\kf13}ven{\kf13} com{\kf42}pare
-Dialogue: 0,0:02:01.37,0:02:03.58,DEFAULT,,0,0,0,,{\kf13}All{\kf9} of{\kf9} the{\kf21} fai{\kf25}lures{\kf9} help{\kf9} to{\kf13} fu{\kf13}el{\kf13} suc{\kf21}cess{\kf21}~
-Dialogue: 0,0:02:03.71,0:02:06.12,DEFAULT,,0,0,0,,{\kf13}In{\kf9} the{\kf17} bloo{\kf9}dy{\kf13} and{\kf17} vis{\kf9}ce{\kf13}ral{\kf13} wea{\kf13}ther{\kf13} ga{\kf17}me{\kf9} of{\kf30} chess
-Dialogue: 0,0:02:06.25,0:02:08.96,DEFAULT,,0,0,0,,{\kf9}And{\kf9} just{\kf13} be{\kf17}cause{\kf9} you've{\kf13} dis{\kf13}ap{\kf17}poin{\kf13}ted{\kf21} you'll{\kf25} pay{\kf13} the{\kf42} price
-Dialogue: 0,0:02:09.04,0:02:11.75,DEFAULT,,0,0,0,,{\kf13}Now{\kf9} ac{\kf13}cept{\kf9} your{\kf17} fate{\kf9} and{\kf25} die{\kf9} in{\kf9} the{\kf13} pe{\kf9}ga{\kf17}sus{\kf9} de{\kf42}vice
-Dialogue: 0,0:02:54.65,0:02:56.90,DEFAULT,,0,0,0,,{\kf17}All{\kf13} of{\kf9} the{\kf25} fai{\kf21}lures{\kf13} help{\kf9} to{\kf13} fu{\kf13}el{\kf13} suc{\kf21}cess{\kf21}~
-Dialogue: 0,0:02:57.03,0:02:59.44,DEFAULT,,0,0,0,,{\kf13}In{\kf9} the{\kf17} bloo{\kf9}dy{\kf9} and{\kf17} vis{\kf9}ce{\kf13}ral{\kf9} wea{\kf9}ther{\kf13} ga{\kf13}me{\kf9} of{\kf25} chess
-Dialogue: 0,0:02:59.53,0:03:02.23,DEFAULT,,0,0,0,,{\kf9}And{\kf13} just{\kf9} be{\kf17}cause{\kf13} you've{\kf13} dis{\kf9}ap{\kf17}poin{\kf13}ted{\kf21} you'll{\kf13} pay{\kf13}~{\kf9} the{\kf42} price
-Dialogue: 0,0:03:02.32,0:03:05.07,DEFAULT,,0,0,0,,{\kf13}Now{\kf9} ac{\kf17}cept{\kf13} your{\kf13} fate{\kf9} and{\kf34} die{\kf13} in{\kf13} the{\kf13} pe{\kf9}ga{\kf21}sus{\kf13} de{\kf46}vice
-Dialogue: 0,0:03:16.02,0:03:18.44,DEFAULT,,0,0,0,,{\kf25}I{\kf30} don't{\kf30} e{\kf17}ven{\kf9} re{\kf21}mem{\kf13}ber{\kf17} my{\kf46} past
-Dialogue: 0,0:03:18.65,0:03:20.94,DEFAULT,,0,0,0,,{\kf21}I{\kf21} don't{\kf30} remem{\kf13}ber{\kf13} who{\kf13} I{\kf25} used{\kf13} to{\kf42} be
-Dialogue: 0,0:03:21.15,0:03:23.60,DEFAULT,,0,0,0,,{\kf13}I{\kf21} don't{\kf46} remem{\kf13}ber{\kf21} my{\kf38} friends{\kf13} of{\kf38} old
-Dialogue: 0,0:03:23.77,0:03:26.15,DEFAULT,,0,0,0,,{\kf17}I{\kf30} don't{\kf38} remem{\kf17}ber{\kf21} my{\kf30} des{\kf13}ti{\kf30}ny
-Dialogue: 0,0:03:26.35,0:03:28.98,DEFAULT,,0,0,0,,{\kf21}My{\kf30} mane{\kf13} is{\kf17} pur{\kf13}ple{\kf13} and{\kf13} my{\kf30} coat{\kf9} is{\kf13} o{\kf30}range
-Dialogue: 0,0:03:29.10,0:03:31.60,DEFAULT,,0,0,0,,{\kf21}What{\kf25} I've{\kf13} be{\kf46}come?{\kf9} I{\kf13} have{\kf21} no{\kf9}~{\kf25} idea{\kf25}~
-Dialogue: 0,0:03:31.64,0:03:34.31,DEFAULT,,0,0,0,,{\kf34}I{\kf21} on{\kf17}ly{\kf34} know{\kf17} one{\kf30} sim{\kf13}ple{\kf21} th{\kf25}ing
-Dialogue: 0,0:03:34.35,0:03:37.68,DEFAULT,,0,0,0,,{\kf9}The{\kf38} name{\kf25} they{\kf30} gave{\kf30} me,{\kf30} Ab{\kf50}sen{\kf21}tia{\kf42}~
-Dialogue: 0,0:03:37.77,0:03:39.48,DEFAULT,,0,0,0,,{\kf21} -your{\kf30}self{\kf17} and{\kf13} to{\kf17} all{\kf17} of{\kf25} us
-Dialogue: 0,0:03:39.52,0:03:42.35,DEFAULT,,0,0,0,,{\kf13}That{\kf13} you're{\kf9} not{\kf34} fit{\kf9} to{\kf34} fly{\kf25} like{\kf9} a{\kf30} pe{\kf13}ga{\kf59}sus
-Dialogue: 0,0:03:42.52,0:03:44.77,DEFAULT,,0,0,0,,{\kf9}You{\kf13} don't{\kf30} even{\kf38} deserve{\kf13} those{\kf9} lit{\kf13}tle{\kf30} wings{\kf9} you{\kf30} bear
-Dialogue: 0,0:03:44.97,0:03:47.60,DEFAULT,,0,0,0,,{\kf13}When{\kf9} you{\kf21} stand{\kf9} be{\kf21}side{\kf9} a{\kf34} legend,{\kf9} you{\kf17} don't{\kf30} even{\kf13} com{\kf42}pare
-Dialogue: 0,0:03:47.97,0:03:50.22,DEFAULT,,0,0,0,,{\kf17}All{\kf9} of{\kf9} the{\kf21} fai{\kf30}lures{\kf13} help{\kf9} to{\kf25} fuel{\kf63} success
-Dialogue: 0,0:03:50.35,0:03:52.85,DEFAULT,,0,0,0,,{\kf13}In{\kf9} the{\kf21} bloo{\kf17}dy{\kf9} and{\kf21} vis{\kf13}ce{\kf17}ral{\kf13} wea{\kf13}ther{\kf30} game{\kf9} of{\kf38} chess
-Dialogue: 0,0:03:52.89,0:03:55.55,DEFAULT,,0,0,0,,{\kf5}And{\kf13} just{\kf13} be{\kf17}cause{\kf9} you've{\kf13} dis{\kf13}ap{\kf25}poin{\kf13}ted{\kf21} you'll{\kf34} pay{\kf9} the{\kf42} price
-Dialogue: 0,0:03:55.72,0:03:58.39,DEFAULT,,0,0,0,,{\kf13}Now{\kf9} ac{\kf21}cept{\kf9} your{\kf17} fate{\kf13} and{\kf30} die{\kf13} in{\kf9} the{\kf13} pe{\kf9}ga{\kf17}sus{\kf13} de{\kf38}vice
-Dialogue: 0,0:03:58.47,0:04:00.80,DEFAULT,,0,0,0,,{\kf13}I{\kf13} don't{\kf30} even{\kf30} re{\kf13}cog{\kf21}nize{\kf13} your{\kf25} rain{\kf17}bow{\kf34} mane
-Dialogue: 0,0:04:00.97,0:04:03.59,DEFAULT,,0,0,0,,{\kf17}When{\kf9} you{\kf17} hide{\kf9} it{\kf9} be{\kf38}hind{\kf34} that{\kf30} mask{\kf9} of{\kf42} shame
-Dialogue: 0,0:04:03.80,0:04:06.18,DEFAULT,,0,0,0,,{\kf9}You{\kf13} don't{\kf30} even{\kf34} deser{\kf13}ve{\kf17} those{\kf34} wings{\kf13} you{\kf34} bear
-Dialogue: 0,0:04:06.43,0:04:08.93,DEFAULT,,0,0,0,,{\kf9}You{\kf17} used{\kf9} to{\kf13} be{\kf9} a{\kf38} le{\kf13}gend,{\kf9} a{\kf34} righ{\kf21}teous{\kf21} ma{\kf17}re
-Dialogue: 0,0:04:09.30,0:04:11.55,DEFAULT,,0,0,0,,{\kf17}All{\kf9} of{\kf13} the{\kf34} fai{\kf17}lures{\kf13} help{\kf9} to{\kf13} fu{\kf9}el{\kf17} suc{\kf38}cess
-Dialogue: 0,0:04:11.68,0:04:14.05,DEFAULT,,0,0,0,,{\kf13}In{\kf9} the{\kf17} bloo{\kf13}dy{\kf13} and{\kf17} vis{\kf9}ce{\kf13}ral{\kf9} wea{\kf13}ther{\kf13} ga{\kf9}me{\kf13} of{\kf25} chess
-Dialogue: 0,0:04:14.17,0:04:15.63,DEFAULT,,0,0,0,,{\kf9}And{\kf13} then{\kf9} you{\kf17} sit{\kf9} u{\kf17}pon{\kf13} your{\kf30} throne
-Dialogue: 0,0:04:15.72,0:04:16.97,DEFAULT,,0,0,0,,{\kf9} And{\kf9} you{\kf13} roll{\kf9} your{\kf13} dia{\kf17}mond{\kf30} dice
-Dialogue: 0,0:04:17.05,0:04:19.59,DEFAULT,,0,0,0,,{\kf13}And{\kf9} you{\kf17} send{\kf13} us{\kf17} all{\kf9} to{\kf25} die{\kf9} in{\kf9} your{\kf13} pe{\kf9}ga{\kf17}sus{\kf9} de{\kf30}vice
-Dialogue: 0,0:04:19.67,0:04:21.67,DEFAULT,,0,0,0,,{\kf13}In{\kf9} the{\kf25} Rain{\kf34}bow{\kf38} Fac{\kf21}to{\kf38}ry
-Dialogue: 0,0:04:22.46,0:04:25.01,DEFAULT,,0,0,0,,{\kf25} Where{\kf34} fears{\kf17} and{\kf17} ho{\kf17}rrors{\kf25} come{\kf80} true
-Dialogue: 0,0:04:25.21,0:04:27.25,DEFAULT,,0,0,0,,{\kf13}In{\kf13} the{\kf30} Rain{\kf30}bow{\kf30} Fac{\kf13}to{\kf46}ry
-Dialogue: 0,0:04:27.46,0:04:31.05,DEFAULT,,0,0,0,,{\kf25} Where{\kf34} not{\kf17} a{\kf34} sin{\kf30}gle{\kf38} soul{\kf30} gets{\kf88} through
-Dialogue: 0,0:04:31.21,0:04:37.29,DEFAULT,,0,0,0,,{\kf13}In{\kf17} the{\kf38} Rain{\kf34}bow{\kf34} Fac{\kf13}to{\kf59}ry,{\kf46} where{\kf34} fai{\kf46}lures{\kf34} pay{\kf34} their{\kf71} toll
-Dialogue: 0,0:04:38.79,0:04:46.08,DEFAULT,,0,0,0,,{\kf34}Now{\kf30} I've{\kf17} a{\kf25}wo{\kf55}ken,{\kf21} and{\kf13} I'm{\kf42} ta{\kf38}king{\kf59} back{\kf38} con{\kf205}trol
+Dialogue: 0,0:00:36.03,0:00:38.15,DEFAULT,,0,0,0,,{\r}{\kf33}Deep{\kf11} in{\kf16} the{\kf16} pag{\kf22}es{\kf27} of{\kf27} his{\kf16}to{\kf44}ry
+Dialogue: 0,0:00:38.28,0:00:40.94,DEFAULT,,0,0,0,,{\r}{\kf21}Lies{\kf11} a{\kf21} sha{\kf32}dow{\kf32} hi{\kf21}ding{\kf16} in{\kf11} a{\kf32} mys{\kf16}te{\kf54}ry
+Dialogue: 0,0:00:41.19,0:00:43.40,DEFAULT,,0,0,0,,{\r}{\kf10}A{\kf36} late{\kf26} night{\kf21} sto{\kf15}ry{\kf15} bu{\kf21}ried{\kf36} far{\kf10} a{\kf31}way
+Dialogue: 0,0:00:43.52,0:00:46.11,DEFAULT,,0,0,0,,{\r}{\kf16}Un{\kf16}til{\kf16} it{\kf37} once{\kf16} a{\kf42}gain{\kf21} sees{\kf11} the{\kf37} light{\kf11} of{\kf35} day
+Dialogue: 0,0:00:46.19,0:00:48.81,DEFAULT,,0,0,0,,{\r}{\kf11}And{\kf17} when{\kf11} the{\kf17} lit{\kf17}tle{\kf28} colts{\kf11} and{\kf17} fil{\kf11}lies{\kf23} turn{\kf17} out{\kf28} all{\kf11} the{\kf43} lights
+Dialogue: 0,0:00:48.94,0:00:51.61,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf11} tell{\kf11} the{\kf33} sto{\kf22}ry{\kf17} of{\kf11} a{\kf17} fac{\kf17}to{\kf17}ry{\kf11} as{\kf22} black{\kf28} as{\kf40} night
+Dialogue: 0,0:00:51.81,0:00:54.06,DEFAULT,,0,0,0,,{\r}{\kf16}The{\kf16} lu{\kf16}xu{\kf16}ry{\kf16} of{\kf32} rain{\kf21}bows{\kf16} comes{\kf32} at{\kf11} a{\kf33} price
+Dialogue: 0,0:00:54.15,0:00:57.02,DEFAULT,,0,0,0,,{\r}{\kf16}So{\kf16} just{\kf16} ig{\kf26}nore{\kf10} the{\kf47} screams,{\kf21} and{\kf42} don't{\kf31} think{\kf31} twi{\kf31}ce
+Dialogue: 0,0:00:57.10,0:00:59.44,DEFAULT,,0,0,0,,{\r}{\kf22}You've{\kf33} proven{\kf11} to{\kf16} your{\kf43}self{\kf16} and{\kf16} to{\kf33} all{\kf22} of{\kf21} us
+Dialogue: 0,0:00:59.52,0:01:02.14,DEFAULT,,0,0,0,,{\r}{\kf17}That{\kf17} you're{\kf11} not{\kf39} fit{\kf11} to{\kf45} fly{\kf22} like{\kf11} a{\kf28} pe{\kf11}ga{\kf50}sus
+Dialogue: 0,0:01:02.48,0:01:04.89,DEFAULT,,0,0,0,,{\r}{\kf17}You{\kf17} don't{\kf34} even{\kf11} de{\kf17}se{\kf23}rve{\kf28} those{\kf34} wings{\kf17} you{\kf44} bear
+Dialogue: 0,0:01:04.98,0:01:07.68,DEFAULT,,0,0,0,,{\r}{\kf16}When{\kf11} you{\kf27} stand{\kf11} be{\kf21}side{\kf11} a{\kf11} le{\kf16}gend,{\kf16} you{\kf21} don't{\kf11} e{\kf16}ven{\kf16} com{\kf67}pare
+Dialogue: 0,0:01:07.98,0:01:10.23,DEFAULT,,0,0,0,,{\r}{\kf23}All{\kf12} of{\kf12} the{\kf23} fai{\kf35}lures{\kf12} help{\kf12} to{\kf12} fu{\kf17}el{\kf17} suc{\kf29}cess{\kf21}~
+Dialogue: 0,0:01:10.39,0:01:12.81,DEFAULT,,0,0,0,,{\r}{\kf13}In{\kf13} the{\kf25} bloo{\kf13}dy{\kf13} and{\kf13} vis{\kf19}ce{\kf13}ral{\kf13} wea{\kf19}ther{\kf19} ga{\kf13}me{\kf13} of{\kf43} chess
+Dialogue: 0,0:01:12.89,0:01:15.56,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf13} just{\kf13} be{\kf27}cause{\kf13} you've{\kf13} dis{\kf13}app{\kf20}oin{\kf13}ted{\kf20} you'll{\kf33} pay{\kf13} the{\kf63} price
+Dialogue: 0,0:01:15.68,0:01:18.39,DEFAULT,,0,0,0,,{\r}{\kf18}Now{\kf12} ac{\kf18}cept{\kf12} your{\kf24} fate{\kf12} and{\kf35} die{\kf12} in{\kf12} the{\kf18} pe{\kf12}ga{\kf18}sus{\kf12} de{\kf56}vice
+Dialogue: 0,0:01:29.30,0:01:31.68,DEFAULT,,0,0,0,,{\r}{\kf22}Phan{\kf16}tom{\kf32} screams{\kf16} e{\kf16}cho{\kf16} through{\kf11} the{\kf32} ruined{\kf11} fa{\kf38}ci{\kf16}li{\kf11}ty
+Dialogue: 0,0:01:31.85,0:01:34.43,DEFAULT,,0,0,0,,{\r}{\kf11}A{\kf26} hor{\kf21}rible{\kf32} si{\kf26}lence{\kf21} builds{\kf11} an{\kf11} ee{\kf16}rie{\kf16} tran{\kf37}qui{\kf21}li{\kf10}ty
+Dialogue: 0,0:01:34.51,0:01:36.89,DEFAULT,,0,0,0,,{\r}{\kf11}The{\kf27} souls{\kf11} of{\kf11} ma{\kf16}ny{\kf11} in{\kf48}nocent{\kf22} fill{\kf16}~{\kf16} the{\kf48} air
+Dialogue: 0,0:01:37.01,0:01:39.55,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf11} the{\kf16} hope{\kf16} that{\kf16} they{\kf11} all{\kf21} died{\kf11} with{\kf26} scat{\kf16}tered{\kf16} he{\kf16}re{\kf16} and{\kf46} there
+Dialogue: 0,0:01:39.89,0:01:42.30,DEFAULT,,0,0,0,,{\r}{\kf10}A{\kf20} migh{\kf10}ty{\kf10} ma{\kf50}chine{\kf25} built{\kf15} wit{\kf30}hin{\kf10} the{\kf62} wake
+Dialogue: 0,0:01:42.34,0:01:44.93,DEFAULT,,0,0,0,,{\r}{\kf15}Of{\kf10} a{\kf36} long{\kf36} dead{\kf21} dre{\kf15}am,{\kf10} lit{\kf10}tle{\kf21} de{\kf15}mon{\kf10} a{\kf59}wake
+Dialogue: 0,0:01:45.18,0:01:47.51,DEFAULT,,0,0,0,,{\r}{\kf10}The{\kf15} ci{\kf46}tizens{\kf41} sleep,{\kf15} nev{\kf15}er{\kf20} quite{\kf10} kno{\kf20}wing{\kf41} when
+Dialogue: 0,0:01:47.67,0:01:50.34,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf11} de{\kf23}vice{\kf11} will{\kf34} rea{\kf28}wa{\kf28}ken,{\kf17} hun{\kf17}gry{\kf11} a{\kf70}gain
+Dialogue: 0,0:01:50.47,0:01:52.76,DEFAULT,,0,0,0,,{\r}{\kf18}You've{\kf35} proven{\kf12} to{\kf18} your{\kf47}self{\kf12} and{\kf18} to{\kf35} all{\kf18} of{\kf16} us
+Dialogue: 0,0:01:52.84,0:01:55.55,DEFAULT,,0,0,0,,{\r}{\kf17}That{\kf17} you're{\kf11} not{\kf34} fit{\kf11} to{\kf45} fly{\kf28} like{\kf11} a{\kf28} pe{\kf11}ga{\kf58}sus
+Dialogue: 0,0:01:55.84,0:01:58.26,DEFAULT,,0,0,0,,{\r}{\kf16}You{\kf16} don't{\kf32} even{\kf11} de{\kf16}se{\kf22}rve{\kf27} those{\kf38} wings{\kf16} you{\kf48} bear
+Dialogue: 0,0:01:58.34,0:02:00.92,DEFAULT,,0,0,0,,{\r}{\kf17}When{\kf11} you{\kf22} stand{\kf11} be{\kf22}side{\kf11} a{\kf11} le{\kf17}gend,{\kf17} you{\kf17} don't{\kf11} e{\kf17}ven{\kf17} com{\kf57}pare
+Dialogue: 0,0:02:01.38,0:02:03.59,DEFAULT,,0,0,0,,{\r}{\kf16}All{\kf11} of{\kf11} the{\kf27} fai{\kf32}lures{\kf11} help{\kf11} to{\kf16} fu{\kf16}el{\kf16} suc{\kf27}cess{\kf27}~
+Dialogue: 0,0:02:03.71,0:02:06.13,DEFAULT,,0,0,0,,{\r}{\kf16}In{\kf11} the{\kf22} bloo{\kf11}dy{\kf16} and{\kf22} vis{\kf11}ce{\kf16}ral{\kf16} wea{\kf16}ther{\kf16} ga{\kf22}me{\kf11} of{\kf36} chess
+Dialogue: 0,0:02:06.25,0:02:08.96,DEFAULT,,0,0,0,,{\r}{\kf11}And{\kf11} just{\kf16} be{\kf22}cause{\kf11} you've{\kf16} dis{\kf16}ap{\kf22}poin{\kf16}ted{\kf27} you'll{\kf33} pay{\kf16} the{\kf54} price
+Dialogue: 0,0:02:09.04,0:02:11.75,DEFAULT,,0,0,0,,{\r}{\kf17}Now{\kf12} ac{\kf17}cept{\kf12} your{\kf23} fate{\kf12} and{\kf35} die{\kf12} in{\kf12} the{\kf17} pe{\kf12}ga{\kf23}sus{\kf12} de{\kf55}vice
+Dialogue: 0,0:02:54.66,0:02:56.91,DEFAULT,,0,0,0,,{\r}{\kf20}All{\kf15} of{\kf10} the{\kf31} fai{\kf26}lures{\kf15} help{\kf10} to{\kf15} fu{\kf15}el{\kf15} suc{\kf26}cess{\kf27}~
+Dialogue: 0,0:02:57.03,0:02:59.45,DEFAULT,,0,0,0,,{\r}{\kf18}In{\kf12} the{\kf24} bloo{\kf12}dy{\kf12} and{\kf24} vis{\kf12}ce{\kf18}ral{\kf12} wea{\kf12}ther{\kf18} ga{\kf18}me{\kf12} of{\kf38} chess
+Dialogue: 0,0:02:59.53,0:03:02.24,DEFAULT,,0,0,0,,{\r}{\kf11}And{\kf17} just{\kf11} be{\kf22}cause{\kf17} you've{\kf17} dis{\kf11}ap{\kf22}poin{\kf17}ted{\kf28} you'll{\kf17} pay{\kf17}~{\kf11} the{\kf53} price
+Dialogue: 0,0:03:02.32,0:03:05.07,DEFAULT,,0,0,0,,{\r}{\kf15}Now{\kf10} ac{\kf20}cept{\kf15} your{\kf15} fate{\kf10} and{\kf40} die{\kf15} in{\kf15} the{\kf15} pe{\kf10}ga{\kf25}sus{\kf15} de{\kf55}vice
+Dialogue: 0,0:03:16.03,0:03:18.44,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf35} don't{\kf35} e{\kf20}ven{\kf10} re{\kf25}mem{\kf15}ber{\kf20} my{\kf52} past
+Dialogue: 0,0:03:18.65,0:03:20.94,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf25} don't{\kf36} remem{\kf15}ber{\kf15} who{\kf15} I{\kf31} used{\kf15} to{\kf52} be
+Dialogue: 0,0:03:21.15,0:03:23.61,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf26} don't{\kf56} remem{\kf15}ber{\kf26} my{\kf46} friends{\kf15} of{\kf47} old
+Dialogue: 0,0:03:23.78,0:03:26.15,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf36} don't{\kf46} remem{\kf21}ber{\kf26} my{\kf36} des{\kf15}ti{\kf36}ny
+Dialogue: 0,0:03:26.36,0:03:28.98,DEFAULT,,0,0,0,,{\r}{\kf28}My{\kf39} mane{\kf17} is{\kf22} pur{\kf17}ple{\kf17} and{\kf17} my{\kf39} coat{\kf11} is{\kf17} o{\kf38}range
+Dialogue: 0,0:03:29.11,0:03:31.61,DEFAULT,,0,0,0,,{\r}{\kf26}What{\kf31} I've{\kf15} be{\kf56}come?{\kf10} I{\kf15} have{\kf26} no{\kf10}~{\kf31} idea{\kf30}~
+Dialogue: 0,0:03:31.65,0:03:34.31,DEFAULT,,0,0,0,,{\r}{\kf43}I{\kf27} on{\kf21}ly{\kf43} know{\kf21} one{\kf37} sim{\kf16}ple{\kf27} th{\kf32}ing
+Dialogue: 0,0:03:34.36,0:03:37.69,DEFAULT,,0,0,0,,{\r}{\kf10}The{\kf46} name{\kf31} they{\kf36} gave{\kf36} me,{\kf36} Ab{\kf61}sen{\kf26}tia{\kf51}~
+Dialogue: 0,0:03:37.77,0:03:39.48,DEFAULT,,0,0,0,,{\r}{\kf26} -your{\kf36}self{\kf21} and{\kf16} to{\kf21} all{\kf21} of{\kf30} us
+Dialogue: 0,0:03:39.52,0:03:42.35,DEFAULT,,0,0,0,,{\r}{\kf15}That{\kf15} you're{\kf10} not{\kf39} fit{\kf10} to{\kf39} fly{\kf29} like{\kf10} a{\kf34} pe{\kf15}ga{\kf67}sus
+Dialogue: 0,0:03:42.52,0:03:44.77,DEFAULT,,0,0,0,,{\r}{\kf10}You{\kf15} don't{\kf35} even{\kf45} deserve{\kf15} those{\kf10} lit{\kf15}tle{\kf35} wings{\kf10} you{\kf35} bear
+Dialogue: 0,0:03:44.98,0:03:47.60,DEFAULT,,0,0,0,,{\r}{\kf15}When{\kf10} you{\kf25} stand{\kf10} be{\kf25}side{\kf10} a{\kf40} legend,{\kf10} you{\kf20} don't{\kf35} even{\kf15} com{\kf47}pare
+Dialogue: 0,0:03:47.98,0:03:50.23,DEFAULT,,0,0,0,,{\r}{\kf20}All{\kf10} of{\kf10} the{\kf24} fai{\kf34}lures{\kf15} help{\kf10} to{\kf29} fuel{\kf73} success
+Dialogue: 0,0:03:50.35,0:03:52.85,DEFAULT,,0,0,0,,{\r}{\kf14}In{\kf10} the{\kf24} bloo{\kf19}dy{\kf10} and{\kf24} vis{\kf14}ce{\kf19}ral{\kf14} wea{\kf14}ther{\kf34} game{\kf10} of{\kf44} chess
+Dialogue: 0,0:03:52.89,0:03:55.56,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf15} just{\kf15} be{\kf20}cause{\kf10} you've{\kf15} dis{\kf15}ap{\kf30}poin{\kf15}ted{\kf25} you'll{\kf40} pay{\kf10} the{\kf47} price
+Dialogue: 0,0:03:55.73,0:03:58.39,DEFAULT,,0,0,0,,{\r}{\kf15}Now{\kf10} ac{\kf26}cept{\kf10} your{\kf21} fate{\kf15} and{\kf36} die{\kf15} in{\kf10} the{\kf15} pe{\kf10}ga{\kf21}sus{\kf15} de{\kf48}vice
+Dialogue: 0,0:03:58.48,0:04:00.81,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf14} don't{\kf33} even{\kf33} re{\kf14}cog{\kf24}nize{\kf14} your{\kf29} rain{\kf19}bow{\kf39} mane
+Dialogue: 0,0:04:00.97,0:04:03.60,DEFAULT,,0,0,0,,{\r}{\kf21}When{\kf10} you{\kf21} hide{\kf10} it{\kf10} be{\kf47}hind{\kf42} that{\kf37} mask{\kf10} of{\kf54} shame
+Dialogue: 0,0:04:03.81,0:04:06.18,DEFAULT,,0,0,0,,{\r}{\kf10}You{\kf15} don't{\kf36} even{\kf41} deser{\kf15}ve{\kf21} those{\kf41} wings{\kf15} you{\kf43} bear
+Dialogue: 0,0:04:06.43,0:04:08.93,DEFAULT,,0,0,0,,{\r}{\kf10}You{\kf20} used{\kf10} to{\kf15} be{\kf10} a{\kf46} le{\kf15}gend,{\kf10} a{\kf41} righ{\kf26}teous{\kf26} ma{\kf21}re
+Dialogue: 0,0:04:09.31,0:04:11.56,DEFAULT,,0,0,0,,{\r}{\kf20}All{\kf10} of{\kf15} the{\kf41} fai{\kf20}lures{\kf15} help{\kf10} to{\kf15} fu{\kf10}el{\kf20} suc{\kf49}cess
+Dialogue: 0,0:04:11.68,0:04:14.05,DEFAULT,,0,0,0,,{\r}{\kf17}In{\kf11} the{\kf22} bloo{\kf17}dy{\kf17} and{\kf22} vis{\kf11}ce{\kf17}ral{\kf11} wea{\kf17}ther{\kf17} ga{\kf11}me{\kf17} of{\kf30} chess
+Dialogue: 0,0:04:14.18,0:04:15.64,DEFAULT,,0,0,0,,{\r}{\kf11}And{\kf16} then{\kf11} you{\kf22} sit{\kf11} u{\kf22}pon{\kf16} your{\kf37} throne
+Dialogue: 0,0:04:15.72,0:04:16.97,DEFAULT,,0,0,0,,{\r}{\kf11} And{\kf11} you{\kf16} roll{\kf11} your{\kf16} dia{\kf22}mond{\kf38} dice
+Dialogue: 0,0:04:17.05,0:04:19.60,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf11} you{\kf22} send{\kf17} us{\kf22} all{\kf11} to{\kf33} die{\kf11} in{\kf11} your{\kf17} pe{\kf11}ga{\kf22}sus{\kf11} de{\kf38}vice
+Dialogue: 0,0:04:19.68,0:04:21.68,DEFAULT,,0,0,0,,{\r}{\kf14}In{\kf10} the{\kf29} Rain{\kf38}bow{\kf43} Fac{\kf24}to{\kf42}ry
+Dialogue: 0,0:04:22.47,0:04:25.01,DEFAULT,,0,0,0,,{\r}{\kf30} Where{\kf40} fears{\kf20} and{\kf20} ho{\kf20}rrors{\kf30} come{\kf94} true
+Dialogue: 0,0:04:25.22,0:04:27.26,DEFAULT,,0,0,0,,{\r}{\kf15}In{\kf15} the{\kf35} Rain{\kf35}bow{\kf35} Fac{\kf15}to{\kf54}ry
+Dialogue: 0,0:04:27.47,0:04:31.05,DEFAULT,,0,0,0,,{\r}{\kf31} Where{\kf41} not{\kf20} a{\kf41} sin{\kf36}gle{\kf46} soul{\kf36} gets{\kf107} through
+Dialogue: 0,0:04:31.22,0:04:37.30,DEFAULT,,0,0,0,,{\r}{\kf16}In{\kf22} the{\kf49} Rain{\kf43}bow{\kf43} Fac{\kf16}to{\kf76}ry,{\kf60} where{\kf43} fai{\kf60}lures{\kf43} pay{\kf43} their{\kf94} toll
+Dialogue: 0,0:04:38.80,0:04:46.09,DEFAULT,,0,0,0,,{\r}{\kf43}Now{\kf37} I've{\kf21} a{\kf32}wo{\kf69}ken,{\kf27} and{\kf16} I'm{\kf53} ta{\kf48}king{\kf74} back{\kf48} con{\kf261}trol

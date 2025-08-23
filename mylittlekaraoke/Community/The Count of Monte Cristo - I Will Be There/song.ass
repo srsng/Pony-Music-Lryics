@@ -1,78 +1,99 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: I Will Be There
+Artist: The Count of Monte Cristo Musical
+Original Timing: mylittlekaraoke.com by RustyHeadphones
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.63,0:00:17.64,DEFAULT,,0,0,0,,{\kf21}In{\kf17} the{\kf29} light{\kf17} that{\kf33} falls{\kf21} at{\kf29} moon{\kf41}rise
-Dialogue: 0,0:00:18.33,0:00:21.09,DEFAULT,,0,0,0,,{\kf21}In{\kf17} the{\kf33} rhy{\kf17}thm{\kf37} of{\kf25} the{\kf78} rain
-Dialogue: 0,0:00:21.99,0:00:28.70,DEFAULT,,0,0,0,,{\kf17}In{\kf13} the{\kf41} mi{\kf21}ra{\kf29}cle{\kf17} of{\kf41} o{\kf25}-or{\kf21}di{\kf45}na{\kf49}ry{\kf265} days
-Dialogue: 0,0:00:29.27,0:00:30.69,DEFAULT,,0,0,0,,{\kf21}In{\kf17} the{\kf13} hush{\kf17} of{\kf33} night
-Dialogue: 0,0:00:31.10,0:00:34.84,DEFAULT,,0,0,0,,{\kf17}I{\kf25} will{\kf29} be{\kf29} in{\kf21} the{\kf17} whis{\kf29}pers{\kf29} of{\kf57} lo{\kf53}vers
-Dialogue: 0,0:00:35.70,0:00:38.14,DEFAULT,,0,0,0,,{\kf53}Eve{\kf33}ry{\kf25}-y{\kf106}where
-Dialogue: 0,0:00:39.36,0:00:43.02,DEFAULT,,0,0,0,,{\kf25}You{\kf25} will{\kf41} find{\kf25} me{\kf171} there
-Dialogue: 0,0:00:44.07,0:00:47.00,DEFAULT,,0,0,0,,{\kf21}In{\kf17} the{\kf13} rus{\kf33}tle{\kf29} of{\kf21} a{\kf33} cur{\kf45}tain
-Dialogue: 0,0:00:47.69,0:00:50.75,DEFAULT,,0,0,0,,{\kf17}In{\kf17} the{\kf21} bus{\kf29}tle{\kf29} of{\kf17} the{\kf13}-e{\kf90} world
-Dialogue: 0,0:00:51.40,0:00:57.74,DEFAULT,,0,0,0,,{\kf21}In{\kf13} a{\kf25} tho{\kf13}-ou{\kf17}sand{\kf21} lit{\kf29}tle{\kf33} un{\kf25}ex{\kf25}pec{\kf45}ted{\kf216} ways
-Dialogue: 0,0:00:58.68,0:01:00.14,DEFAULT,,0,0,0,,{\kf21}When{\kf21} you{\kf13} lift{\kf29} your{\kf33} gaze
-Dialogue: 0,0:01:00.55,0:01:05.43,DEFAULT,,0,0,0,,{\kf21}I{\kf25} will{\kf25} be{\kf21} like{\kf17} the{\kf17} shim{\kf25}mer{\kf17} of{\kf41} o{\kf21}-one{\kf62} small{\kf62} star
-Dialogue: 0,0:01:06.04,0:01:07.79,DEFAULT,,0,0,0,,{\kf33}O{\kf37}-out{\kf86} there
-Dialogue: 0,0:01:08.89,0:01:12.47,DEFAULT,,0,0,0,,{\kf33}Shi{\kf33}ning{\kf41} eve{\kf25}ry{\kf192}where
-Dialogue: 0,0:01:13.08,0:01:14.87,DEFAULT,,0,0,0,,{\kf29}I{\kf29} will{\kf25} be{\kf82} there
-Dialogue: 0,0:01:15.76,0:01:17.06,DEFAULT,,0,0,0,,{\kf13}Be{\kf37}si{\kf17}-ide{\kf29} you
-Dialogue: 0,0:01:17.27,0:01:20.28,DEFAULT,,0,0,0,,{\kf21}Through{\kf21} the{\kf41} lo{\kf21}-one{\kf25}ly{\kf29} nights{\kf25} that{\kf49} fall
-Dialogue: 0,0:01:20.80,0:01:22.39,DEFAULT,,0,0,0,,{\kf21}So{\kf25} close{\kf21} your{\kf66} eyes
-Dialogue: 0,0:01:23.37,0:01:27.19,DEFAULT,,0,0,0,,{\kf17}Re{\kf45}me{\kf21}-em{\kf25}ber{\kf29} my{\kf41} em{\kf143}brace
-Dialogue: 0,0:01:28.33,0:01:30.12,DEFAULT,,0,0,0,,{\kf25}I{\kf29} will{\kf25} be{\kf86} there
-Dialogue: 0,0:01:30.89,0:01:32.23,DEFAULT,,0,0,0,,{\kf21}Like{\kf41} me{\kf17}-er{\kf25}cy
-Dialogue: 0,0:01:32.44,0:01:35.85,DEFAULT,,0,0,0,,{\kf25}I{\kf21} will{\kf37} fi{\kf33}-ind{\kf29} you{\kf21} through{\kf17} it{\kf17} a{\kf86}-all
-Dialogue: 0,0:01:36.79,0:01:38.58,DEFAULT,,0,0,0,,{\kf17}This{\kf25} do{\kf33} I{\kf45} swear
-Dialogue: 0,0:01:39.19,0:01:43.46,DEFAULT,,0,0,0,,{\kf33}I{\kf33} wi{\kf21}-ill{\kf45} be{\kf249} there
-Dialogue: 0,0:01:47.65,0:01:50.78,DEFAULT,,0,0,0,,{\kf17}In{\kf21} a{\kf37} lan{\kf17}guage{\kf33} ne{\kf29}ver{\kf29} spo{\kf62}ken
-Dialogue: 0,0:01:51.43,0:01:54.00,DEFAULT,,0,0,0,,{\kf13}With{\kf13} the{\kf37} pro{\kf13}mis{\kf29}es{\kf33} we{\kf49} made
-Dialogue: 0,0:01:55.05,0:02:01.85,DEFAULT,,0,0,0,,{\kf21}In{\kf17} the{\kf41} end{\kf17}less{\kf57} low{\kf21} that{\kf37} owns{\kf41} me{\kf33} heart{\kf29} and{\kf265} soul
-Dialogue: 0,0:02:02.38,0:02:04.12,DEFAULT,,0,0,0,,{\kf21}In{\kf17} the{\kf29} cer{\kf21}tain{\kf53}ty
-Dialogue: 0,0:02:04.29,0:02:12.10,DEFAULT,,0,0,0,,{\kf21}I{\kf21} will{\kf33} al{\kf17}ways{\kf21} be{\kf29} true{\kf21} and{\kf29} as{\kf70} near{\kf66} as{\kf82} my{\kf29} next{\kf163} prayer
-Dialogue: 0,0:02:12.63,0:02:16.33,DEFAULT,,0,0,0,,{\kf17}You{\kf21} will{\kf74} find{\kf29} me{\kf175} there
-Dialogue: 0,0:02:17.34,0:02:20.56,DEFAULT,,0,0,0,,{\kf21}In{\kf17} the{\kf29} e{\kf29}cho{\kf33} o'{\kf21} the{\kf21} o{\kf62}cean
-Dialogue: 0,0:02:21.05,0:02:23.65,DEFAULT,,0,0,0,,{\kf21}In{\kf21} the{\kf29} haun{\kf17}ting{\kf25} of{\kf25} the{\kf53} wind
-Dialogue: 0,0:02:24.67,0:02:31.50,DEFAULT,,0,0,0,,{\kf17}In{\kf21} mys{\kf33}te{\kf17}ri{\kf25}ous{\kf17} extra{\kf41}or{\kf29}di{\kf33}na{\kf41}ry{\kf269} ways
-Dialogue: 0,0:02:32.03,0:02:33.57,DEFAULT,,0,0,0,,{\kf17}Through{\kf21} the{\kf25} dark{\kf17}est{\kf37} sky
-Dialogue: 0,0:02:33.90,0:02:38.82,DEFAULT,,0,0,0,,{\kf21}I{\kf21} will{\kf25} be{\kf29} like{\kf13} the{\kf29} shim{\kf21}mer{\kf33} of{\kf49} one{\kf70} small{\kf78} star
-Dialogue: 0,0:02:39.47,0:02:41.59,DEFAULT,,0,0,0,,{\kf29}O{\kf33}-out{\kf131} there
-Dialogue: 0,0:02:42.07,0:02:45.82,DEFAULT,,0,0,0,,{\kf25}Shi{\kf21}ning{\kf70} eve{\kf37}ry{\kf171}where
-Dialogue: 0,0:02:46.39,0:02:48.05,DEFAULT,,0,0,0,,{\kf29}I{\kf21} will{\kf21} be{\kf66} there
-Dialogue: 0,0:02:48.99,0:02:50.29,DEFAULT,,0,0,0,,{\kf17}Be{\kf41}si{\kf21}-ide{\kf33} you
-Dialogue: 0,0:02:50.49,0:02:53.67,DEFAULT,,0,0,0,,{\kf29}Through{\kf21} the{\kf33} lo{\kf21}-one{\kf29}ly{\kf29} nights{\kf17} that{\kf66} fall
-Dialogue: 0,0:02:53.91,0:02:55.42,DEFAULT,,0,0,0,,{\kf21}So{\kf25} close{\kf21} your{\kf62} eyes
-Dialogue: 0,0:02:56.43,0:03:01.03,DEFAULT,,0,0,0,,{\kf17}Re{\kf37}me{\kf17}-em{\kf33}ber{\kf33} my{\kf25} em{\kf212}brace
-Dialogue: 0,0:03:01.35,0:03:02.82,DEFAULT,,0,0,0,,{\kf21}I{\kf21} will{\kf25} be{\kf62} there
-Dialogue: 0,0:03:03.84,0:03:05.14,DEFAULT,,0,0,0,,{\kf13}Like{\kf41} free{\kf17}-ee{\kf37}dom
-Dialogue: 0,0:03:05.26,0:03:08.88,DEFAULT,,0,0,0,,{\kf21}I{\kf21} will{\kf53} find{\kf41} you{\kf33} through{\kf13} it{\kf13} a{\kf110}-all
-Dialogue: 0,0:03:09.61,0:03:11.77,DEFAULT,,0,0,0,,{\kf25}This{\kf21} do{\kf25} I{\kf82} swear
-Dialogue: 0,0:03:11.97,0:03:15.23,DEFAULT,,0,0,0,,{\kf37}I{\kf41} will{\kf45} be{\kf151} there
-Dialogue: 0,0:03:17.02,0:03:20.35,DEFAULT,,0,0,0,,{\kf53}In{\kf49} the{\kf53} har{\kf45}bour{\kf33} quar{\kf25}ter
-Dialogue: 0,0:03:20.55,0:03:23.85,DEFAULT,,0,0,0,,{\kf57}In{\kf33} the{\kf37} sto{\kf17}-one{\kf29} and{\kf41} mor{\kf25}tar
-Dialogue: 0,0:03:24.09,0:03:30.19,DEFAULT,,0,0,0,,{\kf53}In{\kf41} the{\kf53} star{\kf49} that{\kf41} we{\kf53} both{\kf232} share
-Dialogue: 0,0:03:30.89,0:03:34.18,DEFAULT,,0,0,0,,{\kf53}In{\kf37} the{\kf57} sound{\kf33} of{\kf25} laugh{\kf29}ter
-Dialogue: 0,0:03:34.38,0:03:37.60,DEFAULT,,0,0,0,,{\kf53}Now{\kf57} and{\kf45} e{\kf17}-e{\kf41}ver{\kf25} af{\kf25}ter
-Dialogue: 0,0:03:37.80,0:03:43.13,DEFAULT,,0,0,0,,{\kf33}Look{\kf45} for{\kf49} me{\kf49} I{\kf37} will{\kf37} be{\kf188} there
-Dialogue: 0,0:03:43.74,0:03:45.77,DEFAULT,,0,0,0,,{\kf33}I{\kf29} WILL{\kf21} BE{\kf106} THERE
-Dialogue: 0,0:03:46.26,0:03:47.56,DEFAULT,,0,0,0,,{\kf13}BE{\kf37}SI{\kf25}-IDE{\kf33} YOU
-Dialogue: 0,0:03:47.68,0:03:50.65,DEFAULT,,0,0,0,,{\kf29}THROUGH{\kf25} THE{\kf41} LO{\kf17}-ONE{\kf29}LY{\kf29} NIGHTS{\kf21} THAT{\kf57} FALL
-Dialogue: 0,0:03:50.94,0:03:52.61,DEFAULT,,0,0,0,,{\kf21}SO{\kf25} CLOSE{\kf21} YOUR{\kf78} EYES
-Dialogue: 0,0:03:53.26,0:03:57.53,DEFAULT,,0,0,0,,{\kf21}RE{\kf41}ME{\kf21}-EM{\kf29}BER{\kf29} MY{\kf33} EM{\kf216}BRACE
-Dialogue: 0,0:03:57.93,0:03:59.81,DEFAULT,,0,0,0,,{\kf25}I{\kf21} WILL{\kf25} BE{\kf98} THERE
-Dialogue: 0,0:04:00.38,0:04:01.60,DEFAULT,,0,0,0,,{\kf21}LIKE{\kf37} JUS{\kf25}TICE
-Dialogue: 0,0:04:01.80,0:04:05.34,DEFAULT,,0,0,0,,{\kf25}I{\kf21} WILL{\kf57} FIND{\kf37} YOU{\kf21} THROUGH{\kf17} IT{\kf17} A{\kf106}-ALL
-Dialogue: 0,0:04:06.03,0:04:08.02,DEFAULT,,0,0,0,,{\kf21}This{\kf25} do{\kf29} I{\kf66} swear
-Dialogue: 0,0:04:08.35,0:04:12.50,DEFAULT,,0,0,0,,{\kf37}I{\kf49} will{\kf29} be{\kf245} there
-Dialogue: 0,0:04:13.43,0:04:15.55,DEFAULT,,0,0,0,,{\kf25}This{\kf29} do{\kf25} I{\kf78} swear
-Dialogue: 0,0:04:15.75,0:04:18.92,DEFAULT,,0,0,0,,{\kf37}I{\kf49} will{\kf33} be{\kf151} there
-Dialogue: 0,0:04:20.59,0:04:22.50,DEFAULT,,0,0,0,,{\kf21}This{\kf21} do{\kf25} I{\kf70} swear
-Dialogue: 0,0:04:23.28,0:04:31.70,DEFAULT,,0,0,0,,{\kf57}I{\kf70} will{\kf74} be{\kf598} there
+Dialogue: 0,0:00:14.63,0:00:17.64,DEFAULT,,0,0,0,,{\r}{\kf30}In{\kf24} the{\kf42} light{\kf24} that{\kf48} falls{\kf30} at{\kf42} moon{\kf61}rise
+Dialogue: 0,0:00:18.33,0:00:21.10,DEFAULT,,0,0,0,,{\r}{\kf25}In{\kf20} the{\kf40} rhy{\kf20}thm{\kf45} of{\kf30} the{\kf97} rain
+Dialogue: 0,0:00:21.99,0:00:28.70,DEFAULT,,0,0,0,,{\r}{\kf19}In{\kf14} the{\kf47} mi{\kf24}ra{\kf33}cle{\kf19} of{\kf47} o{\kf28}-or{\kf24}di{\kf52}na{\kf57}ry{\kf307} days
+Dialogue: 0,0:00:29.27,0:00:30.70,DEFAULT,,0,0,0,,{\r}{\kf30}In{\kf24} the{\kf18} hush{\kf24} of{\kf46} night
+Dialogue: 0,0:00:31.10,0:00:34.85,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf30} will{\kf35} be{\kf35} in{\kf25} the{\kf20} whis{\kf35}pers{\kf35} of{\kf71} lo{\kf68}vers
+Dialogue: 0,0:00:35.70,0:00:38.14,DEFAULT,,0,0,0,,{\r}{\kf60}Eve{\kf37}ry{\kf28}-y{\kf119}where
+Dialogue: 0,0:00:39.36,0:00:43.02,DEFAULT,,0,0,0,,{\r}{\kf31}You{\kf31} will{\kf52} find{\kf31} me{\kf221} there
+Dialogue: 0,0:00:44.08,0:00:47.01,DEFAULT,,0,0,0,,{\r}{\kf29}In{\kf23} the{\kf17} rus{\kf46}tle{\kf40} of{\kf29} a{\kf46} cur{\kf63}tain
+Dialogue: 0,0:00:47.70,0:00:50.75,DEFAULT,,0,0,0,,{\r}{\kf22}In{\kf22} the{\kf27} bus{\kf38}tle{\kf38} of{\kf22} the{\kf16}-e{\kf120} world
+Dialogue: 0,0:00:51.40,0:00:57.75,DEFAULT,,0,0,0,,{\r}{\kf27}In{\kf16} a{\kf33} tho{\kf16}-ou{\kf22}sand{\kf27} lit{\kf38}tle{\kf43} un{\kf33}ex{\kf33}pec{\kf60}ted{\kf287} ways
+Dialogue: 0,0:00:58.68,0:01:00.15,DEFAULT,,0,0,0,,{\r}{\kf26}When{\kf26} you{\kf16} lift{\kf36} your{\kf42} gaze
+Dialogue: 0,0:01:00.55,0:01:05.43,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf34} will{\kf34} be{\kf29} like{\kf23} the{\kf23} shim{\kf34}mer{\kf23} of{\kf57} o{\kf29}-one{\kf86} small{\kf87} star
+Dialogue: 0,0:01:06.04,0:01:07.79,DEFAULT,,0,0,0,,{\r}{\kf37}O{\kf41}-out{\kf97} there
+Dialogue: 0,0:01:08.89,0:01:12.47,DEFAULT,,0,0,0,,{\r}{\kf36}Shi{\kf36}ning{\kf45} eve{\kf27}ry{\kf214}where
+Dialogue: 0,0:01:13.08,0:01:14.87,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf31} will{\kf27} be{\kf90} there
+Dialogue: 0,0:01:15.77,0:01:17.07,DEFAULT,,0,0,0,,{\r}{\kf17}Be{\kf51}si{\kf23}-ide{\kf39} you
+Dialogue: 0,0:01:17.27,0:01:20.28,DEFAULT,,0,0,0,,{\r}{\kf27}Through{\kf27} the{\kf54} lo{\kf27}-one{\kf32}ly{\kf38} nights{\kf32} that{\kf64} fall
+Dialogue: 0,0:01:20.81,0:01:22.40,DEFAULT,,0,0,0,,{\r}{\kf25}So{\kf30} close{\kf25} your{\kf79} eyes
+Dialogue: 0,0:01:23.37,0:01:27.20,DEFAULT,,0,0,0,,{\r}{\kf20}Re{\kf54}me{\kf24}-em{\kf29}ber{\kf34} my{\kf49} em{\kf172}brace
+Dialogue: 0,0:01:28.33,0:01:30.12,DEFAULT,,0,0,0,,{\r}{\kf27}I{\kf31} will{\kf27} be{\kf94} there
+Dialogue: 0,0:01:30.90,0:01:32.24,DEFAULT,,0,0,0,,{\r}{\kf27}Like{\kf54} me{\kf21}-er{\kf32}cy
+Dialogue: 0,0:01:32.44,0:01:35.86,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf25} will{\kf45} fi{\kf40}-ind{\kf35} you{\kf25} through{\kf20} it{\kf20} a{\kf102}-all
+Dialogue: 0,0:01:36.80,0:01:38.58,DEFAULT,,0,0,0,,{\r}{\kf25}This{\kf37} do{\kf49} I{\kf68} swear
+Dialogue: 0,0:01:39.19,0:01:43.47,DEFAULT,,0,0,0,,{\r}{\kf37}I{\kf37} wi{\kf23}-ill{\kf51} be{\kf279} there
+Dialogue: 0,0:01:47.66,0:01:50.79,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf27} a{\kf48} lan{\kf21}guage{\kf42} ne{\kf37}ver{\kf37} spo{\kf80}ken
+Dialogue: 0,0:01:51.44,0:01:54.00,DEFAULT,,0,0,0,,{\r}{\kf17}With{\kf17} the{\kf51} pro{\kf17}mis{\kf40}es{\kf46} we{\kf68} made
+Dialogue: 0,0:01:55.06,0:02:01.85,DEFAULT,,0,0,0,,{\r}{\kf24}In{\kf19} the{\kf48} end{\kf19}less{\kf67} low{\kf24} that{\kf43} owns{\kf48} me{\kf39} heart{\kf34} and{\kf314} soul
+Dialogue: 0,0:02:02.38,0:02:04.13,DEFAULT,,0,0,0,,{\r}{\kf26}In{\kf21} the{\kf36} cer{\kf26}tain{\kf66}ty
+Dialogue: 0,0:02:04.29,0:02:12.10,DEFAULT,,0,0,0,,{\r}{\kf27}I{\kf27} will{\kf43} al{\kf21}ways{\kf27} be{\kf37} true{\kf27} and{\kf37} as{\kf91} near{\kf86} as{\kf107} my{\kf37} next{\kf214} prayer
+Dialogue: 0,0:02:12.63,0:02:16.33,DEFAULT,,0,0,0,,{\r}{\kf19}You{\kf24} will{\kf86} find{\kf34} me{\kf207} there
+Dialogue: 0,0:02:17.35,0:02:20.56,DEFAULT,,0,0,0,,{\r}{\kf29}In{\kf23} the{\kf40} e{\kf40}cho{\kf46} o'{\kf29} the{\kf29} o{\kf85}cean
+Dialogue: 0,0:02:21.05,0:02:23.65,DEFAULT,,0,0,0,,{\r}{\kf28}In{\kf28} the{\kf40} haun{\kf23}ting{\kf34} of{\kf34} the{\kf73} wind
+Dialogue: 0,0:02:24.67,0:02:31.50,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf26} mys{\kf41}te{\kf21}ri{\kf31}ous{\kf21} extra{\kf52}or{\kf36}di{\kf41}na{\kf52}ry{\kf341} ways
+Dialogue: 0,0:02:32.03,0:02:33.58,DEFAULT,,0,0,0,,{\r}{\kf22}Through{\kf28} the{\kf33} dark{\kf22}est{\kf50} sky
+Dialogue: 0,0:02:33.90,0:02:38.83,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf26} will{\kf31} be{\kf37} like{\kf16} the{\kf37} shim{\kf26}mer{\kf42} of{\kf63} one{\kf89} small{\kf99} star
+Dialogue: 0,0:02:39.48,0:02:41.59,DEFAULT,,0,0,0,,{\r}{\kf32}O{\kf36}-out{\kf144} there
+Dialogue: 0,0:02:42.08,0:02:45.82,DEFAULT,,0,0,0,,{\r}{\kf28}Shi{\kf24}ning{\kf80} eve{\kf43}ry{\kf199}where
+Dialogue: 0,0:02:46.39,0:02:48.06,DEFAULT,,0,0,0,,{\r}{\kf35}I{\kf25} will{\kf25} be{\kf82} there
+Dialogue: 0,0:02:48.99,0:02:50.30,DEFAULT,,0,0,0,,{\r}{\kf19}Be{\kf48}si{\kf24}-ide{\kf39} you
+Dialogue: 0,0:02:50.50,0:02:53.67,DEFAULT,,0,0,0,,{\r}{\kf38}Through{\kf27} the{\kf43} lo{\kf27}-one{\kf38}ly{\kf38} nights{\kf21} that{\kf85} fall
+Dialogue: 0,0:02:53.92,0:02:55.42,DEFAULT,,0,0,0,,{\r}{\kf24}So{\kf29} close{\kf24} your{\kf74} eyes
+Dialogue: 0,0:02:56.44,0:03:01.03,DEFAULT,,0,0,0,,{\r}{\kf20}Re{\kf45}me{\kf20}-em{\kf40}ber{\kf40} my{\kf30} em{\kf265}brace
+Dialogue: 0,0:03:01.36,0:03:02.82,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} will{\kf28} be{\kf70} there
+Dialogue: 0,0:03:03.84,0:03:05.14,DEFAULT,,0,0,0,,{\r}{\kf15}Like{\kf50} free{\kf20}-ee{\kf45}dom
+Dialogue: 0,0:03:05.26,0:03:08.88,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} will{\kf64} find{\kf49} you{\kf39} through{\kf15} it{\kf15} a{\kf132}-all
+Dialogue: 0,0:03:09.62,0:03:11.77,DEFAULT,,0,0,0,,{\r}{\kf35}This{\kf29} do{\kf35} I{\kf117} swear
+Dialogue: 0,0:03:11.98,0:03:15.23,DEFAULT,,0,0,0,,{\r}{\kf44}I{\kf49} will{\kf53} be{\kf179} there
+Dialogue: 0,0:03:17.02,0:03:20.36,DEFAULT,,0,0,0,,{\r}{\kf69}In{\kf64} the{\kf69} har{\kf58}bour{\kf42} quar{\kf32}ter
+Dialogue: 0,0:03:20.56,0:03:23.85,DEFAULT,,0,0,0,,{\r}{\kf79}In{\kf45} the{\kf51} sto{\kf23}-one{\kf40} and{\kf57} mor{\kf34}tar
+Dialogue: 0,0:03:24.10,0:03:30.20,DEFAULT,,0,0,0,,{\r}{\kf62}In{\kf48} the{\kf62} star{\kf57} that{\kf48} we{\kf62} both{\kf271} share
+Dialogue: 0,0:03:30.89,0:03:34.19,DEFAULT,,0,0,0,,{\r}{\kf75}In{\kf52} the{\kf81} sound{\kf46} of{\kf35} laugh{\kf40}ter
+Dialogue: 0,0:03:34.39,0:03:37.60,DEFAULT,,0,0,0,,{\r}{\kf65}Now{\kf70} and{\kf55} e{\kf20}-e{\kf50}ver{\kf30} af{\kf31}ter
+Dialogue: 0,0:03:37.81,0:03:43.13,DEFAULT,,0,0,0,,{\r}{\kf40}Look{\kf55} for{\kf60} me{\kf60} I{\kf45} will{\kf45} be{\kf228} there
+Dialogue: 0,0:03:43.74,0:03:45.78,DEFAULT,,0,0,0,,{\r}{\kf35}I{\kf31} WILL{\kf22} BE{\kf115} THERE
+Dialogue: 0,0:03:46.27,0:03:47.57,DEFAULT,,0,0,0,,{\r}{\kf15}BE{\kf45}SI{\kf30}-IDE{\kf40} YOU
+Dialogue: 0,0:03:47.69,0:03:50.66,DEFAULT,,0,0,0,,{\r}{\kf35}THROUGH{\kf30} THE{\kf50} LO{\kf20}-ONE{\kf35}LY{\kf35} NIGHTS{\kf25} THAT{\kf67} FALL
+Dialogue: 0,0:03:50.94,0:03:52.61,DEFAULT,,0,0,0,,{\r}{\kf24}SO{\kf29} CLOSE{\kf24} YOUR{\kf90} EYES
+Dialogue: 0,0:03:53.26,0:03:57.53,DEFAULT,,0,0,0,,{\r}{\kf22}RE{\kf45}ME{\kf22}-EM{\kf31}BER{\kf31} MY{\kf36} EM{\kf240}BRACE
+Dialogue: 0,0:03:57.94,0:03:59.81,DEFAULT,,0,0,0,,{\r}{\kf27}I{\kf23} WILL{\kf27} BE{\kf110} THERE
+Dialogue: 0,0:04:00.38,0:04:01.60,DEFAULT,,0,0,0,,{\r}{\kf30}LIKE{\kf55} JUS{\kf37}TICE
+Dialogue: 0,0:04:01.80,0:04:05.34,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf24} WILL{\kf68} FIND{\kf44} YOU{\kf24} THROUGH{\kf19} IT{\kf19} A{\kf127}-ALL
+Dialogue: 0,0:04:06.03,0:04:08.03,DEFAULT,,0,0,0,,{\r}{\kf29}This{\kf35} do{\kf41} I{\kf94} swear
+Dialogue: 0,0:04:08.35,0:04:12.50,DEFAULT,,0,0,0,,{\r}{\kf42}I{\kf57} will{\kf33} be{\kf283} there
+Dialogue: 0,0:04:13.44,0:04:15.55,DEFAULT,,0,0,0,,{\r}{\kf33}This{\kf39} do{\kf33} I{\kf107} swear
+Dialogue: 0,0:04:15.76,0:04:18.93,DEFAULT,,0,0,0,,{\r}{\kf43}I{\kf58} will{\kf38} be{\kf178} there
+Dialogue: 0,0:04:20.60,0:04:22.51,DEFAULT,,0,0,0,,{\r}{\kf29}This{\kf29} do{\kf35} I{\kf98} swear
+Dialogue: 0,0:04:23.28,0:04:31.70,DEFAULT,,0,0,0,,{\r}{\kf60}I{\kf73} will{\kf77} be{\kf632} there26} BE{\kf109} THERE
+Dialogue: 0,0:03:59.28,0:04:00.30,DEFAULT,,0,0,0,,{\r}{\kf23}I'LL{\kf23} BE{\kf56} THERE
+Dialogue: 0,0:04:00.34,0:04:01.60,DEFAULT,,0,0,0,,{\r}{\kf27}LIKE{\kf55} JUS{\kf44}TICE
+Dialogue: 0,0:04:00.38,0:04:01.60,DEFAULT,,0,0,0,,{\r}{\kf30}LIKE{\kf55} JUS{\kf37}TICE
+Dialogue: 0,0:04:01.72,0:04:05.26,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf24} WILL{\kf67} FIND{\kf43} YOU{\kf24} THROUGH{\kf14} IT{\kf29} A{\kf124}-ALL
+Dialogue: 0,0:04:01.80,0:04:05.34,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf24} WILL{\kf67} FIND{\kf43} YOU{\kf24} THROUGH{\kf14} IT{\kf29} A{\kf124}-ALL
+Dialogue: 0,0:04:06.03,0:04:08.03,DEFAULT,,0,0,0,,{\r}{\kf28}This{\kf44} do{\kf39} I{\kf88} swear
+Dialogue: 0,0:04:06.97,0:04:08.96,DEFAULT,,0,0,0,,{\r}{\kf32}This{\kf22} do{\kf32} I{\kf113} swear
+Dialogue: 0,0:04:08.35,0:04:12.50,DEFAULT,,0,0,0,,{\r}{\kf47}I{\kf56} will{\kf33} be{\kf279} there
+Dialogue: 0,0:04:13.48,0:04:15.59,DEFAULT,,0,0,0,,{\r}{\kf29}This{\kf39} do{\kf29} I{\kf115} swear
+Dialogue: 0,0:04:15.80,0:04:18.97,DEFAULT,,0,0,0,,{\r}{\kf47}I{\kf61} will{\kf37} be{\kf172} there
+Dialogue: 0,0:04:20.56,0:04:22.51,DEFAULT,,0,0,0,,{\r}{\kf17}This{\kf34} do{\kf34} I{\kf110} swear
+Dialogue: 0,0:04:20.60,0:04:22.55,DEFAULT,,0,0,0,,{\r}{\kf17}This{\kf34} do{\kf34} I{\kf110} swear
+Dialogue: 0,0:04:23.28,0:04:31.70,DEFAULT,,0,0,0,,{\r}{\kf60}I{\kf73} will{\kf77} be{\kf632} there
+Dialogue: 0,0:04:23.32,0:04:31.74,DEFAULT,,0,0,0,,{\r}{\kf60}I{\kf73} will{\kf77} be{\kf632} there

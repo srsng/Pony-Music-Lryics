@@ -1,68 +1,75 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Just Can't Be a Dragon Here
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.50,0:00:03.92,DEFAULT,,0,0,0,,{\kf28}Spike,{\kf14} I'm{\kf10} gon{\kf14}na{\kf14} teach{\kf10} you{\kf10} a{\kf10} thing{\kf10} or{\kf10} two{\kf10} a{\kf14}bout{\kf10} be{\kf10}ing{\kf10} a{\kf24} dra{\kf24}gon
-Dialogue: 0,0:00:04.20,0:00:08.05,DEFAULT,,0,0,0,,{\kf19}So,{\kf14} lis{\kf10}ten{\kf14} up,{\kf14} my{\kf24} boy,{\kf19} be{\kf19}cause{\kf19} I'm{\kf14} on{\kf10}ly{\kf14} gon{\kf14}na{\kf19} say{\kf19} this{\kf28} once
-Dialogue: 0,0:00:08.97,0:00:11.56,DEFAULT,,0,0,0,,{\kf19}Look{\kf14} at{\kf19} this{\kf19} cas{\kf14}tle{\kf19} where{\kf14} you{\kf51} live
-Dialogue: 0,0:00:11.80,0:00:13.05,DEFAULT,,0,0,0,,{\kf14}It's{\kf14} pret{\kf14}ty{\kf19} sweet,{\kf24} right?
-Dialogue: 0,0:00:13.37,0:00:16.01,DEFAULT,,0,0,0,,{\kf14}You{\kf19} can't{\kf14} be{\kf14} a{\kf28} dra{\kf28}gon{\kf70} here
-Dialogue: 0,0:00:16.42,0:00:17.58,DEFAULT,,0,0,0,,{\kf28}Uh,{\kf14} I{\kf24} can't?
-Dialogue: 0,0:00:17.77,0:00:20.31,DEFAULT,,0,0,0,,{\kf19}Look{\kf19} at{\kf19} these{\kf19} books{\kf19} up{\kf14} on{\kf14} the{\kf38} wall
-Dialogue: 0,0:00:20.55,0:00:21.80,DEFAULT,,0,0,0,,{\kf10}Hey,{\kf10} I{\kf14} just{\kf10} fi{\kf14}nished{\kf10} or{\kf10}ga{\kf10}niz{\kf10}ing{\kf10} those!
-Dialogue: 0,0:00:21.93,0:00:24.76,DEFAULT,,0,0,0,,{\kf19}This{\kf24} trea{\kf14}sure{\kf24} pile's{\kf19} not{\kf19} right,{\kf24} I{\kf61} fear
-Dialogue: 0,0:00:25.41,0:00:27.17,DEFAULT,,0,0,0,,{\kf24}Trust{\kf19} me,{\kf14} I{\kf14} got{\kf14} you{\kf14} co{\kf14}vered{\kf24} here
-Dialogue: 0,0:00:27.35,0:00:30.17,DEFAULT,,0,0,0,,{\kf19}You{\kf14} see{\kf10} all{\kf19} this{\kf19} soft{\kf19} po{\kf19}ny{\kf19} stuff{\kf14} you're{\kf14} sur{\kf19}round{\kf14}ed{\kf19} with?
-Dialogue: 0,0:00:30.73,0:00:32.91,DEFAULT,,0,0,0,,{\kf19}This{\kf14} has{\kf14} got{\kf10} to{\kf10} be{\kf14} the{\kf14} first{\kf14} thing{\kf10} to{\kf19} go.
-Dialogue: 0,0:00:33.42,0:00:35.64,DEFAULT,,0,0,0,,{\kf19}No{\kf19}thin'{\kf19} 'bout{\kf14} this{\kf19} place{\kf19} says{\kf19} "dra{\kf14}gon{\kf14} den"
-Dialogue: 0,0:00:35.87,0:00:36.93,DEFAULT,,0,0,0,,{\kf14}There's{\kf10} too{\kf19} much{\kf28} fluff
-Dialogue: 0,0:00:37.81,0:00:40.82,DEFAULT,,0,0,0,,{\kf19}All{\kf19} these{\kf24} fan{\kf19}cy{\kf19} robes,{\kf19} toss{\kf14} in{\kf14} a{\kf88} pile
-Dialogue: 0,0:00:42.30,0:00:43.69,DEFAULT,,0,0,0,,{\kf14}Take{\kf19} those{\kf19} go{\kf19}blets,{\kf14} di{\kf10}shes
-Dialogue: 0,0:00:43.88,0:00:45.73,DEFAULT,,0,0,0,,{\kf14}Is{\kf19} that{\kf28} gold?{\kf14} Still{\kf14} not{\kf14} e{\kf24}nough!
-Dialogue: 0,0:00:46.42,0:00:49.94,DEFAULT,,0,0,0,,{\kf14}De-{\kf24}po{\kf24}ni{\kf19}fy{\kf19}ing{\kf19} might{\kf19} just{\kf14} take{\kf14} a{\kf116} while
-Dialogue: 0,0:00:51.15,0:00:53.00,DEFAULT,,0,0,0,,{\kf19}Sure,{\kf14} this{\kf19} place{\kf14} is{\kf24} gran{\kf14}di{\kf24}ose
-Dialogue: 0,0:00:53.18,0:00:55.27,DEFAULT,,0,0,0,,{\kf14}But{\kf14} to{\kf14} a{\kf19} dra{\kf19}gon,{\kf19} it's{\kf19} just{\kf28} gross
-Dialogue: 0,0:00:55.59,0:00:59.06,DEFAULT,,0,0,0,,{\kf19}Time{\kf19} we{\kf19} make{\kf24} the{\kf19} lot{\kf14} all{\kf14} dis{\kf14}ap{\kf33}pear{\kf102}~
-Dialogue: 0,0:00:59.99,0:01:01.89,DEFAULT,,0,0,0,,{\kf14}Re{\kf14}a{\kf19}li{\kf14}ty{\kf14} you{\kf14} need{\kf14} a{\kf28} dose
-Dialogue: 0,0:01:02.12,0:01:04.16,DEFAULT,,0,0,0,,{\kf14}To{\kf14} all{\kf14} these{\kf19} po{\kf14}nies,{\kf14} you're{\kf14} too{\kf33} close
-Dialogue: 0,0:01:04.34,0:01:07.35,DEFAULT,,0,0,0,,{\kf14}You{\kf14} just{\kf19} can't{\kf19} be{\kf19} a{\kf28} dra{\kf28}gon{\kf93} here
-Dialogue: 0,0:01:07.67,0:01:08.55,DEFAULT,,0,0,0,,{\kf14}Good{\kf14} job,{\kf14} my{\kf24} boy!
-Dialogue: 0,0:01:08.83,0:01:10.64,DEFAULT,,0,0,0,,{\kf14}But{\kf14} this{\kf14} is{\kf19} still{\kf14} just{\kf10} the{\kf10} be{\kf14}gin{\kf14}ning!
-Dialogue: 0,0:01:11.10,0:01:14.90,DEFAULT,,0,0,0,,{\kf24}Each{\kf19} and{\kf19} e{\kf14}very{\kf24} dra{\kf19}gon{\kf19} has{\kf14} a{\kf24} swag{\kf19}ger{\kf14} all{\kf19} his{\kf42} own
-Dialogue: 0,0:01:15.50,0:01:18.65,DEFAULT,,0,0,0,,{\kf28}Watch{\kf24} and{\kf19} I'll{\kf19} show{\kf14} you{\kf14} what{\kf14} I{\kf93} mean
-Dialogue: 0,0:01:20.04,0:01:23.79,DEFAULT,,0,0,0,,{\kf19}You{\kf19} can't{\kf19} move{\kf19} like{\kf19} this{\kf19} with{\kf14} so{\kf14} much{\kf24} stuff{\kf19} to{\kf14} weigh{\kf14} you{\kf51} down
-Dialogue: 0,0:01:24.20,0:01:27.35,DEFAULT,,0,0,0,,{\kf19}A{\kf19} dra{\kf19}gon{\kf24} al{\kf14}ways{\kf19} keeps{\kf28} it{\kf93} lean
-Dialogue: 0,0:01:27.72,0:01:28.97,DEFAULT,,0,0,0,,{\kf19}Lose{\kf33} this!{\kf33} This!
-Dialogue: 0,0:01:29.39,0:01:30.55,DEFAULT,,0,0,0,,{\kf28}Ooh,{\kf14} this{\kf10} is{\kf38} nice!
-Dialogue: 0,0:01:31.05,0:01:33.00,DEFAULT,,0,0,0,,{\kf14}Your{\kf14} life{\kf14} is{\kf19} soft,{\kf19} your{\kf14} scales{\kf14} are{\kf28} coiffed
-Dialogue: 0,0:01:33.28,0:01:35.04,DEFAULT,,0,0,0,,{\kf14}These{\kf14} pil{\kf14}lows,{\kf14} beds,{\kf14} and{\kf19} sheets{\kf14} are{\kf14} washed
-Dialogue: 0,0:01:35.27,0:01:39.53,DEFAULT,,0,0,0,,{\kf10}A{\kf14} de{\kf14}light,{\kf14} but{\kf14} it's{\kf14} just{\kf14} not{\kf19} right{\kf14} what's{\kf19} un{\kf14}der{\kf33}neath{\kf56}~{\kf24}~{\kf61}~
-Dialogue: 0,0:01:40.04,0:01:42.03,DEFAULT,,0,0,0,,{\kf24}E{\kf14}very{\kf19} dra{\kf19}gon{\kf19} must{\kf14} be{\kf38} free
-Dialogue: 0,0:01:42.26,0:01:44.16,DEFAULT,,0,0,0,,{\kf14}Look{\kf14} at{\kf14} you{\kf24} then{\kf14} look{\kf14} at{\kf38} me
-Dialogue: 0,0:01:44.34,0:01:47.26,DEFAULT,,0,0,0,,{\kf14}Since{\kf14} when{\kf14} do{\kf24} dra{\kf19}gons{\kf19} brush{\kf33} their{\kf84} teeth?
-Dialogue: 0,0:01:47.54,0:01:48.42,DEFAULT,,0,0,0,,{\kf19}Ha!{\kf42} Please!
-Dialogue: 0,0:01:48.92,0:01:50.73,DEFAULT,,0,0,0,,{\kf19}Sure,{\kf19} this{\kf19} place{\kf14} is{\kf19} gran{\kf14}di{\kf24}ose
-Dialogue: 0,0:01:50.96,0:01:53.05,DEFAULT,,0,0,0,,{\kf14}But{\kf14} to{\kf14} a{\kf19} dra{\kf14}gon,{\kf19} it's{\kf19} just{\kf28} gross
-Dialogue: 0,0:01:53.42,0:01:56.29,DEFAULT,,0,0,0,,{\kf19}Time{\kf14} we{\kf19} make{\kf19} the{\kf24} lot{\kf14} all{\kf19} dis{\kf19}ap{\kf28}pear{\kf47}~
-Dialogue: 0,0:01:56.52,0:01:57.17,DEFAULT,,0,0,0,,{\kf5}What{\kf10} do{\kf10} I{\kf24} do?
-Dialogue: 0,0:01:57.54,0:01:59.71,DEFAULT,,0,0,0,,{\kf14}Just{\kf19} grab{\kf14} it{\kf19} all{\kf19} and{\kf14} give{\kf14} to{\kf33} me
-Dialogue: 0,0:01:59.99,0:02:01.89,DEFAULT,,0,0,0,,{\kf14}Af{\kf14}ter{\kf14} that,{\kf14} then{\kf19} you'll{\kf14} be{\kf33} free
-Dialogue: 0,0:02:02.12,0:02:05.31,DEFAULT,,0,0,0,,{\kf14}You{\kf14} just{\kf14} can't{\kf14} be{\kf14} a{\kf19} dra{\kf28}gon{\kf107} here!
-Dialogue: 0,0:02:05.73,0:02:06.70,DEFAULT,,0,0,0,,{\kf19}Ha!{\kf14} You're{\kf24} right!
-Dialogue: 0,0:02:07.07,0:02:08.28,DEFAULT,,0,0,0,,{\kf14}I{\kf14} feel{\kf14} bet{\kf10}ter{\kf19} al{\kf19}rea{\kf14}dy!
-Dialogue: 0,0:02:08.46,0:02:09.62,DEFAULT,,0,0,0,,{\kf24}See?{\kf5} What{\kf5} did{\kf5} I{\kf19} tell{\kf19} you?
-Dialogue: 0,0:02:09.90,0:02:11.33,DEFAULT,,0,0,0,,{\kf14}You're{\kf10} ve{\kf10}ry{\kf14} lu{\kf10}cky{\kf5} that{\kf10} I{\kf19} found{\kf19} you
-Dialogue: 0,0:02:11.56,0:02:12.77,DEFAULT,,0,0,0,,{\kf14}Now,{\kf14} go{\kf10} get{\kf10} me{\kf14} some{\kf24} more
-Dialogue: 0,0:02:13.28,0:02:13.97,DEFAULT,,0,0,0,,{\kf14}You{\kf14} got{\kf14} it!
-Dialogue: 0,0:02:14.34,0:02:17.17,DEFAULT,,0,0,0,,{\kf10}I'm{\kf10} gon{\kf10}na{\kf14} go{\kf10} get{\kf10} you{\kf14} all{\kf10} the{\kf19} cu{\kf14}shy{\kf19} po{\kf14}ny{\kf14} stuff{\kf19} I've{\kf28} got...
-Dialogue: 0,0:02:17.81,0:02:18.18,DEFAULT,,0,0,0,,{\kf38}Dad
-Dialogue: 0,0:02:18.55,0:02:20.64,DEFAULT,,0,0,0,,{\kf38}Great!{\kf19} Go{\kf14} get{\kf24} 'em...{\kf28} son!
-Dialogue: 0,0:02:21.75,0:02:26.01,DEFAULT,,0,0,0,,{\kf19}'Cause{\kf19} this{\kf24} dra{\kf19}gon{\kf19} just{\kf19} can't{\kf24} wait{\kf19} to{\kf38} live{\kf98} here
-Dialogue: 0,0:02:26.80,0:02:28.65,DEFAULT,,0,0,0,,{\kf186}[sinister_laughter]
+Dialogue: 0,0:00:00.50,0:00:03.93,DEFAULT,,0,0,0,,{\r}{\kf43}Spike,{\kf21} I'm{\kf14} gon{\kf21}na{\kf21} teach{\kf14} you{\kf14} a{\kf14} thing{\kf14} or{\kf14} two{\kf14} a{\kf21}bout{\kf14} be{\kf14}ing{\kf14} a{\kf36} dra{\kf40}gon
+Dialogue: 0,0:00:04.21,0:00:08.05,DEFAULT,,0,0,0,,{\r}{\kf27}So,{\kf20} lis{\kf13}ten{\kf20} up,{\kf20} my{\kf34} boy,{\kf27} be{\kf27}cause{\kf27} I'm{\kf20} on{\kf13}ly{\kf20} gon{\kf20}na{\kf27} say{\kf27} this{\kf42} once
+Dialogue: 0,0:00:08.98,0:00:11.57,DEFAULT,,0,0,0,,{\r}{\kf29}Look{\kf22} at{\kf29} this{\kf29} cas{\kf22}tle{\kf29} where{\kf22} you{\kf77} live
+Dialogue: 0,0:00:11.80,0:00:13.05,DEFAULT,,0,0,0,,{\r}{\kf21}It's{\kf21} pret{\kf21}ty{\kf28} sweet,{\kf34} right?
+Dialogue: 0,0:00:13.37,0:00:16.01,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf26} can't{\kf20} be{\kf20} a{\kf40} dra{\kf40}gon{\kf98} here
+Dialogue: 0,0:00:16.43,0:00:17.59,DEFAULT,,0,0,0,,{\r}{\kf50}Uh,{\kf25} I{\kf41} can't?
+Dialogue: 0,0:00:17.77,0:00:20.32,DEFAULT,,0,0,0,,{\r}{\kf30}Look{\kf30} at{\kf30} these{\kf30} books{\kf30} up{\kf22} on{\kf22} the{\kf61} wall
+Dialogue: 0,0:00:20.55,0:00:21.80,DEFAULT,,0,0,0,,{\r}{\kf11}Hey,{\kf11} I{\kf17} just{\kf11} fi{\kf17}nished{\kf11} or{\kf11}ga{\kf11}niz{\kf11}ing{\kf14} those!
+Dialogue: 0,0:00:21.94,0:00:24.76,DEFAULT,,0,0,0,,{\r}{\kf26}This{\kf33} trea{\kf20}sure{\kf33} pile's{\kf26} not{\kf26} right,{\kf33} I{\kf85} fear
+Dialogue: 0,0:00:25.41,0:00:27.17,DEFAULT,,0,0,0,,{\r}{\kf30}Trust{\kf24} me,{\kf18} I{\kf18} got{\kf18} you{\kf18} co{\kf18}vered{\kf32} here
+Dialogue: 0,0:00:27.36,0:00:30.18,DEFAULT,,0,0,0,,{\r}{\kf25}You{\kf18} see{\kf12} all{\kf25} this{\kf25} soft{\kf25} po{\kf25}ny{\kf25} stuff{\kf18} you're{\kf18} sur{\kf25}round{\kf18}ed{\kf23} with?
+Dialogue: 0,0:00:30.74,0:00:32.91,DEFAULT,,0,0,0,,{\r}{\kf30}This{\kf23} has{\kf23} got{\kf15} to{\kf15} be{\kf23} the{\kf23} first{\kf23} thing{\kf15} to{\kf28} go.
+Dialogue: 0,0:00:33.42,0:00:35.64,DEFAULT,,0,0,0,,{\r}{\kf27}No{\kf27}thin'{\kf27} 'bout{\kf20} this{\kf27} place{\kf27} says{\kf27} "dra{\kf20}gon{\kf20} den"
+Dialogue: 0,0:00:35.87,0:00:36.94,DEFAULT,,0,0,0,,{\r}{\kf21}There's{\kf14} too{\kf28} much{\kf43} fluff
+Dialogue: 0,0:00:37.82,0:00:40.83,DEFAULT,,0,0,0,,{\r}{\kf24}All{\kf24} these{\kf30} fan{\kf24}cy{\kf24} robes,{\kf24} toss{\kf18} in{\kf18} a{\kf115} pile
+Dialogue: 0,0:00:42.31,0:00:43.70,DEFAULT,,0,0,0,,{\r}{\kf21}Take{\kf28} those{\kf28} go{\kf28}blets,{\kf21} di{\kf13}shes
+Dialogue: 0,0:00:43.88,0:00:45.74,DEFAULT,,0,0,0,,{\r}{\kf21}Is{\kf27} that{\kf41} gold?{\kf21} Still{\kf21} not{\kf21} e{\kf33}nough!
+Dialogue: 0,0:00:46.43,0:00:49.95,DEFAULT,,0,0,0,,{\r}{\kf18}De-{\kf29}po{\kf29}ni{\kf23}fy{\kf23}ing{\kf23} might{\kf23} just{\kf18} take{\kf18} a{\kf148} while
+Dialogue: 0,0:00:51.15,0:00:53.00,DEFAULT,,0,0,0,,{\r}{\kf27}Sure,{\kf21} this{\kf27} place{\kf21} is{\kf34} gran{\kf21}di{\kf34}ose
+Dialogue: 0,0:00:53.19,0:00:55.27,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf20} to{\kf20} a{\kf27} dra{\kf27}gon,{\kf27} it's{\kf27} just{\kf40} gross
+Dialogue: 0,0:00:55.60,0:00:59.07,DEFAULT,,0,0,0,,{\r}{\kf24}Time{\kf24} we{\kf24} make{\kf29} the{\kf24} lot{\kf18} all{\kf18} dis{\kf18}ap{\kf41}pear{\kf127}~
+Dialogue: 0,0:00:59.99,0:01:01.89,DEFAULT,,0,0,0,,{\r}{\kf20}Re{\kf20}a{\kf27}li{\kf20}ty{\kf20} you{\kf20} need{\kf20} a{\kf43} dose
+Dialogue: 0,0:01:02.12,0:01:04.16,DEFAULT,,0,0,0,,{\r}{\kf21}To{\kf21} all{\kf21} these{\kf28} po{\kf21}nies,{\kf21} you're{\kf21} too{\kf50} close
+Dialogue: 0,0:01:04.35,0:01:07.36,DEFAULT,,0,0,0,,{\r}{\kf18}You{\kf18} just{\kf24} can't{\kf24} be{\kf24} a{\kf36} dra{\kf36}gon{\kf121} here
+Dialogue: 0,0:01:07.68,0:01:08.56,DEFAULT,,0,0,0,,{\r}{\kf19}Good{\kf19} job,{\kf19} my{\kf31} boy!
+Dialogue: 0,0:01:08.84,0:01:10.64,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf21} this{\kf21} is{\kf28} still{\kf21} just{\kf14} the{\kf14} be{\kf21}gin{\kf20}ning!
+Dialogue: 0,0:01:11.11,0:01:14.90,DEFAULT,,0,0,0,,{\r}{\kf33}Each{\kf27} and{\kf27} e{\kf20}very{\kf33} dra{\kf27}gon{\kf27} has{\kf20} a{\kf33} swag{\kf27}ger{\kf20} all{\kf27} his{\kf59} own
+Dialogue: 0,0:01:15.50,0:01:18.65,DEFAULT,,0,0,0,,{\r}{\kf39}Watch{\kf33} and{\kf26} I'll{\kf26} show{\kf20} you{\kf20} what{\kf20} I{\kf131} mean
+Dialogue: 0,0:01:20.04,0:01:23.79,DEFAULT,,0,0,0,,{\r}{\kf27}You{\kf27} can't{\kf27} move{\kf27} like{\kf27} this{\kf27} with{\kf20} so{\kf20} much{\kf33} stuff{\kf27} to{\kf20} weigh{\kf20} you{\kf73} down
+Dialogue: 0,0:01:24.21,0:01:27.36,DEFAULT,,0,0,0,,{\r}{\kf25}A{\kf25} dra{\kf25}gon{\kf31} al{\kf19}ways{\kf25} keeps{\kf38} it{\kf127} lean
+Dialogue: 0,0:01:27.73,0:01:28.98,DEFAULT,,0,0,0,,{\r}{\kf28}Lose{\kf49} this!{\kf48} This!
+Dialogue: 0,0:01:29.39,0:01:30.55,DEFAULT,,0,0,0,,{\r}{\kf37}Ooh,{\kf18} this{\kf12} is{\kf49} nice!
+Dialogue: 0,0:01:31.06,0:01:33.00,DEFAULT,,0,0,0,,{\r}{\kf20}Your{\kf20} life{\kf20} is{\kf27} soft,{\kf27} your{\kf20} scales{\kf20} are{\kf40} coiffed
+Dialogue: 0,0:01:33.28,0:01:35.04,DEFAULT,,0,0,0,,{\r}{\kf21}These{\kf21} pil{\kf21}lows,{\kf21} beds,{\kf21} and{\kf28} sheets{\kf21} are{\kf22} washed
+Dialogue: 0,0:01:35.27,0:01:39.53,DEFAULT,,0,0,0,,{\r}{\kf12}A{\kf18} de{\kf18}light,{\kf18} but{\kf18} it's{\kf18} just{\kf18} not{\kf24} right{\kf18} what's{\kf24} un{\kf18}der{\kf42}neath{\kf72}~{\kf30}~{\kf78}~
+Dialogue: 0,0:01:40.04,0:01:42.03,DEFAULT,,0,0,0,,{\r}{\kf32}E{\kf19}very{\kf26} dra{\kf26}gon{\kf26} must{\kf19} be{\kf51} free
+Dialogue: 0,0:01:42.26,0:01:44.16,DEFAULT,,0,0,0,,{\r}{\kf20}Look{\kf20} at{\kf20} you{\kf34} then{\kf20} look{\kf20} at{\kf56} me
+Dialogue: 0,0:01:44.35,0:01:47.26,DEFAULT,,0,0,0,,{\r}{\kf19}Since{\kf19} when{\kf19} do{\kf31} dra{\kf25}gons{\kf25} brush{\kf43} their{\kf111} teeth?
+Dialogue: 0,0:01:47.54,0:01:48.42,DEFAULT,,0,0,0,,{\r}{\kf27}Ha!{\kf61} Please!
+Dialogue: 0,0:01:48.93,0:01:50.74,DEFAULT,,0,0,0,,{\r}{\kf27}Sure,{\kf27} this{\kf27} place{\kf20} is{\kf27} gran{\kf20}di{\kf33}ose
+Dialogue: 0,0:01:50.97,0:01:53.05,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf21} to{\kf21} a{\kf28} dra{\kf21}gon,{\kf28} it's{\kf28} just{\kf40} gross
+Dialogue: 0,0:01:53.42,0:01:56.29,DEFAULT,,0,0,0,,{\r}{\kf24}Time{\kf18} we{\kf24} make{\kf24} the{\kf31} lot{\kf18} all{\kf24} dis{\kf24}ap{\kf37}pear{\kf63}~
+Dialogue: 0,0:01:56.52,0:01:57.17,DEFAULT,,0,0,0,,{\r}{\kf10}What{\kf13} do{\kf13} I{\kf29} do?
+Dialogue: 0,0:01:57.54,0:01:59.72,DEFAULT,,0,0,0,,{\r}{\kf21}Just{\kf28} grab{\kf21} it{\kf28} all{\kf28} and{\kf21} give{\kf21} to{\kf50} me
+Dialogue: 0,0:01:59.99,0:02:01.89,DEFAULT,,0,0,0,,{\r}{\kf22}Af{\kf22}ter{\kf22} that,{\kf22} then{\kf29} you'll{\kf22} be{\kf51} free
+Dialogue: 0,0:02:02.12,0:02:05.32,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf20} just{\kf20} can't{\kf20} be{\kf20} a{\kf27} dra{\kf40}gon{\kf152} here!
+Dialogue: 0,0:02:05.74,0:02:06.71,DEFAULT,,0,0,0,,{\r}{\kf32}Ha!{\kf24} You're{\kf41} right!
+Dialogue: 0,0:02:07.08,0:02:08.28,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} feel{\kf16} bet{\kf11}ter{\kf22} al{\kf22}rea{\kf17}dy!
+Dialogue: 0,0:02:08.47,0:02:09.62,DEFAULT,,0,0,0,,{\r}{\kf36}See?{\kf10} What{\kf10} did{\kf10} I{\kf29} tell{\kf21} you?
+Dialogue: 0,0:02:09.90,0:02:11.34,DEFAULT,,0,0,0,,{\r}{\kf19}You're{\kf13} ve{\kf13}ry{\kf19} lu{\kf13}cky{\kf10} that{\kf13} I{\kf25} found{\kf19} you
+Dialogue: 0,0:02:11.57,0:02:12.77,DEFAULT,,0,0,0,,{\r}{\kf20}Now,{\kf20} go{\kf13} get{\kf13} me{\kf20} some{\kf34} more
+Dialogue: 0,0:02:13.28,0:02:13.98,DEFAULT,,0,0,0,,{\r}{\kf23}You{\kf23} got{\kf23} it!
+Dialogue: 0,0:02:14.35,0:02:17.17,DEFAULT,,0,0,0,,{\r}{\kf13}I'm{\kf13} gon{\kf13}na{\kf19} go{\kf13} get{\kf13} you{\kf19} all{\kf13} the{\kf25} cu{\kf19}shy{\kf25} po{\kf19}ny{\kf19} stuff{\kf25} I've{\kf34} got...
+Dialogue: 0,0:02:17.82,0:02:18.19,DEFAULT,,0,0,0,,{\r}{\kf37}Dad
+Dialogue: 0,0:02:18.56,0:02:20.64,DEFAULT,,0,0,0,,{\r}{\kf64}Great!{\kf32} Go{\kf24} get{\kf40} 'em...{\kf48} son!
+Dialogue: 0,0:02:21.75,0:02:26.01,DEFAULT,,0,0,0,,{\r}{\kf27}'Cause{\kf27} this{\kf34} dra{\kf27}gon{\kf27} just{\kf27} can't{\kf34} wait{\kf27} to{\kf54} live{\kf142} here
+Dialogue: 0,0:02:26.80,0:02:28.65,DEFAULT,,0,0,0,,{\r}{\kf185}[sinister_laughter]

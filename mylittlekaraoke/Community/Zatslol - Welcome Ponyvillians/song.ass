@@ -1,52 +1,59 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Welcome Ponyvillians
+Artist: Zatslol
+Original Timing: mylittlekaraoke.com by RD1042
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:12.74,0:00:15.42,DEFAULT,,0,0,0,,{\kf31}Colts{\kf31} and{\kf18} fi{\kf31}llies{\kf36} ga{\kf31}ther{\kf43} round
-Dialogue: 0,0:00:15.54,0:00:18.77,DEFAULT,,0,0,0,,{\kf18}Tri{\kf11}xie's{\kf23} gon{\kf11}na{\kf21} tell{\kf6} you{\kf13} ta-{\kf18}ales{\kf11} that{\kf11} are{\kf26} gon{\kf11}na{\kf13} as{\kf53}tound
-Dialogue: 0,0:00:19.22,0:00:21.69,DEFAULT,,0,0,0,,{\kf43}Sit{\kf33} down{\kf43} and{\kf18} lis{\kf11}ten{\kf16} to{\kf31} me
-Dialogue: 0,0:00:21.94,0:00:24.99,DEFAULT,,0,0,0,,{\kf21}And{\kf6} the{\kf38} tales{\kf16} of{\kf11} the{\kf26} Great{\kf11} and{\kf23} Po{\kf11}wer{\kf21}ful{\kf26} Tri{\kf38}xie
-Dialogue: 0,0:00:25.59,0:00:28.25,DEFAULT,,0,0,0,,{\kf16}It{\kf31} may{\kf28} come{\kf31} as{\kf16} a{\kf26} sur{\kf46}prise
-Dialogue: 0,0:00:28.60,0:00:31.45,DEFAULT,,0,0,0,,{\kf11}To{\kf31} see{\kf8} a{\kf16}ma{\kf16}zing{\kf13} feats{\kf11} be{\kf16}fore{\kf16} your{\kf28} ve{\kf11}-e{\kf11}ry{\kf36} eyes
-Dialogue: 0,0:00:31.85,0:00:34.55,DEFAULT,,0,0,0,,{\kf11}You'll{\kf33} re{\kf21}al{\kf33}ise{\kf33} things{\kf11} you{\kf16} did{\kf18}n't{\kf41} know
-Dialogue: 0,0:00:34.77,0:00:37.95,DEFAULT,,0,0,0,,{\kf18}So{\kf11} sit{\kf16} back{\kf11} my{\kf18} lit{\kf11}tle{\kf23} po{\kf16}ny{\kf16} and{\kf11} en{\kf36}joy{\kf6} the{\kf56} show
-Dialogue: 0,0:00:38.40,0:00:41.05,DEFAULT,,0,0,0,,{\kf31}Wel{\kf13}come{\kf46} Po{\kf23}ny{\kf31}vi{\kf31}lli{\kf41}ans
-Dialogue: 0,0:00:41.20,0:00:44.25,DEFAULT,,0,0,0,,{\kf11}You'll{\kf46} be{\kf11} the{\kf51} first{\kf31} ci{\kf36}vi{\kf26}li{\kf38}ans
-Dialogue: 0,0:00:44.60,0:00:50.05,DEFAULT,,0,0,0,,{\kf11}To{\kf46} wit{\kf46}ness{\kf21} the{\kf41} mys{\kf21}ti{\kf41}ca{\kf16}-al{\kf28} and{\kf38} ma{\kf16}gi{\kf51}cal{\kf16} dis{\kf61}play
-Dialogue: 0,0:00:50.40,0:00:58.55,DEFAULT,,0,0,0,,{\kf31}Of{\kf16} the{\kf233} Great{\kf21} and{\kf61} Po{\kf33}wer{\kf46}ful{\kf53} Tri{\kf43}-i{\kf31}-i{\kf101}-xie
-Dialogue: 0,0:01:10.40,0:01:12.95,DEFAULT,,0,0,0,,{\kf16}Tri{\kf26}xie's{\kf33} trave{\kf16}lled{\kf41} far{\kf16} and{\kf36} wide
-Dialogue: 0,0:01:13.10,0:01:16.25,DEFAULT,,0,0,0,,{\kf8}Al{\kf16}though{\kf11} be{\kf16}fore{\kf11} she{\kf18} came{\kf11} to{\kf11} this{\kf16} town{\kf11} where{\kf11} you{\kf28} po{\kf11}nies{\kf6} re{\kf51}side
-Dialogue: 0,0:01:16.60,0:01:19.23,DEFAULT,,0,0,0,,{\kf11}You{\kf46} might{\kf36} find{\kf28} thi-{\kf16}is{\kf23} hard{\kf16} to{\kf16} be{\kf18}lieve
-Dialogue: 0,0:01:19.36,0:01:22.66,DEFAULT,,0,0,0,,{\kf11}But{\kf18} Tri{\kf16}xie{\kf26} fought{\kf11} an{\kf16} Ur{\kf16}sa{\kf21} Ma{\kf13}jor{\kf16} in{\kf16} the{\kf13} Hoo{\kf13}fing{\kf13}ton{\kf43} streets
-Dialogue: 0,0:01:23.06,0:01:25.63,DEFAULT,,0,0,0,,{\kf8}So{\kf26} Tri{\kf21}xie{\kf28} stands{\kf18} in{\kf31}front{\kf21} of{\kf26} you
-Dialogue: 0,0:01:25.91,0:01:29.01,DEFAULT,,0,0,0,,{\kf11}She{\kf11} can{\kf11} per{\kf21}form{\kf11} a{\kf13}ma{\kf16}zing{\kf18} tricks{\kf11} that{\kf16} eve{\kf13}ry{\kf26} po{\kf13}ny{\kf11} can{\kf38} view
-Dialogue: 0,0:01:29.46,0:01:32.06,DEFAULT,,0,0,0,,{\kf11}And{\kf21} what{\kf21} you{\kf18} do{\kf16} Tri{\kf16}xie{\kf11} can{\kf26} do{\kf21} as{\kf26} well
-Dialogue: 0,0:01:32.18,0:01:35.43,DEFAULT,,0,0,0,,{\kf13}Cause{\kf18} eve{\kf11}ry{\kf23} ta{\kf11}lent{\kf13} you{\kf16} may{\kf16} have{\kf13} Tri{\kf18}xie{\kf13} can{\kf21} cast{\kf11} as{\kf11} a{\kf41} spell.
-Dialogue: 0,0:01:36.03,0:01:38.71,DEFAULT,,0,0,0,,{\kf31}Wel{\kf21}come{\kf48} Po{\kf33}ny{\kf33}vi{\kf28}lli{\kf48}ans
-Dialogue: 0,0:01:38.86,0:01:41.96,DEFAULT,,0,0,0,,{\kf18}You'll{\kf38} be{\kf13} the{\kf48} first{\kf26} of{\kf28} mi{\kf31}lli{\kf48}ons
-Dialogue: 0,0:01:42.26,0:01:47.66,DEFAULT,,0,0,0,,{\kf11}To{\kf46} wit{\kf46}ness{\kf21} the{\kf46} mys{\kf23}ti{\kf36}cal{\kf21}~{\kf21} and{\kf33} ma{\kf21}gi{\kf56}cal{\kf21} dis{\kf61}play
-Dialogue: 0,0:01:47.99,0:01:55.64,DEFAULT,,0,0,0,,{\kf28}Of{\kf18} the{\kf241} Great{\kf16} and{\kf63} Po{\kf31}wer{\kf46}ful{\kf51} Tri-{\kf33}i-{\kf46}i-{\kf53}xie
-Dialogue: 0,0:01:59.71,0:02:02.56,DEFAULT,,0,0,0,,{\kf11}And{\kf33} Po{\kf26}wer{\kf11}ful{\kf33} Tri-{\kf18}i-{\kf26}i-{\kf76}xie
-Dialogue: 0,0:03:18.38,0:03:20.85,DEFAULT,,0,0,0,,{\kf31}O{\kf31}kay,{\kf26} may{\kf21}be{\kf21} Tri{\kf26}xie{\kf28} lied
-Dialogue: 0,0:03:20.98,0:03:24.28,DEFAULT,,0,0,0,,{\kf11}But{\kf16} Tri{\kf11}xie{\kf21} could{\kf11} have{\kf21} fought{\kf11} the{\kf16} Ur{\kf16}sa{\kf26} on{\kf11} her{\kf16} own{\kf8} if{\kf13} she'd{\kf51} tried
-Dialogue: 0,0:03:24.76,0:03:27.38,DEFAULT,,0,0,0,,{\kf61}Twi{\kf26}light{\kf36} may{\kf11} have{\kf28} saved{\kf11} the{\kf41} town
-Dialogue: 0,0:03:27.68,0:03:30.66,DEFAULT,,0,0,0,,{\kf16}But{\kf26} Tri{\kf11}xie's{\kf16} still{\kf16} the{\kf16} most{\kf16} po{\kf18}wer{\kf13}ful{\kf21} po{\kf11}ny{\kf16} a{\kf46}round
-Dialogue: 0,0:03:31.11,0:03:33.78,DEFAULT,,0,0,0,,{\kf11}The{\kf23} Ur{\kf21}sa{\kf26} Mi{\kf16}nor{\kf21} may{\kf21} be{\kf36} gone
-Dialogue: 0,0:03:34.01,0:03:37.03,DEFAULT,,0,0,0,,{\kf16}But{\kf18} Tri{\kf11}xie{\kf21} will{\kf11} be{\kf16} back{\kf8} a{\kf23}gain{\kf11} be{\kf21}fo-{\kf13}ore{\kf16} too{\kf38} long
-Dialogue: 0,0:03:37.36,0:03:40.03,DEFAULT,,0,0,0,,{\kf11}And{\kf61} one{\kf33} day{\kf43} you{\kf31} all{\kf18} will{\kf23} see
-Dialogue: 0,0:03:40.18,0:03:43.38,DEFAULT,,0,0,0,,{\kf11}The{\kf16} awe{\kf11}some{\kf28} po{\kf11}wers{\kf11} of{\kf16} the{\kf21} Great{\kf11} and{\kf18} Po{\kf11}wer{\kf11}ful{\kf16} Tri{\kf38}xie
-Dialogue: 0,0:03:43.98,0:03:46.63,DEFAULT,,0,0,0,,{\kf31}Well{\kf21} done{\kf53} Po{\kf31}ny{\kf28}vi{\kf33}lli{\kf41}ans
-Dialogue: 0,0:03:46.81,0:03:49.86,DEFAULT,,0,0,0,,{\kf13}You've{\kf41} beat{\kf18}en{\kf51} me{\kf38} but{\kf26} on{\kf16}ly{\kf43} once
-Dialogue: 0,0:03:50.24,0:03:55.54,DEFAULT,,0,0,0,,{\kf16}So{\kf26} lis{\kf18}ten{\kf43} to{\kf31} my{\kf36} war{\kf21}ning{\kf38} and{\kf18} re{\kf63}mem{\kf53}ber{\kf16} the{\kf46} name
-Dialogue: 0,0:03:55.99,0:04:03.89,DEFAULT,,0,0,0,,{\kf31}Of{\kf16} the{\kf226} Great{\kf16} and{\kf63} Po{\kf33}wer{\kf46}ful{\kf63} Tri-{\kf33}i-{\kf46}i-{\kf76}xie
-Dialogue: 0,0:04:11.24,0:04:16.34,DEFAULT,,0,0,0,,{\kf46}The{\kf51} Great{\kf31} and{\kf58} Po{\kf48}wer{\kf21}ful{\kf56} Tri-{\kf51}i-{\kf21}i-{\kf41}xie
-Dialogue: 0,0:04:24.59,0:04:29.69,DEFAULT,,0,0,0,,{\kf11}The{\kf31} Great{\kf31} and{\kf61} Po{\kf46}wer{\kf21}ful{\kf26} Tri-{\kf26}i-{\kf21}i-{\kf26}i-{\kf26}i-{\kf41}i-{\kf46}xie
-Dialogue: 0,0:04:37.39,0:04:42.30,DEFAULT,,0,0,0,,{\kf11}The{\kf31} Great{\kf31} and{\kf61} Po-{\kf41}o-{\kf36}o-{\kf36}o-{\kf16}o-{\kf21}o-{\kf26}wer{\kf16}ful{\kf41} Tri{\kf38}xie
-Dialogue: 0,0:04:50.20,0:04:54.80,DEFAULT,,0,0,0,,{\kf16}The{\kf31} Great{\kf21} and{\kf38} Po-{\kf36}o-{\kf38}o-{\kf36}o-{\kf23}o-{\kf16}wer{\kf16}ful{\kf28} Tri-{\kf18}i-{\kf21}i-{\kf36}xie
+Dialogue: 0,0:00:12.75,0:00:15.42,DEFAULT,,0,0,0,,{\r}{\kf37}Colts{\kf37} and{\kf22} fi{\kf37}llies{\kf44} ga{\kf37}ther{\kf54} round
+Dialogue: 0,0:00:15.55,0:00:18.77,DEFAULT,,0,0,0,,{\r}{\kf24}Tri{\kf14}xie's{\kf31} gon{\kf14}na{\kf27} tell{\kf10} you{\kf17} ta-{\kf24}ales{\kf14} that{\kf14} are{\kf34} gon{\kf14}na{\kf17} as{\kf69}tound
+Dialogue: 0,0:00:19.22,0:00:21.70,DEFAULT,,0,0,0,,{\r}{\kf55}Sit{\kf42} down{\kf55} and{\kf23} lis{\kf13}ten{\kf20} to{\kf40} me
+Dialogue: 0,0:00:21.95,0:00:25.00,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf10} the{\kf48} tales{\kf19} of{\kf13} the{\kf32} Great{\kf13} and{\kf29} Po{\kf13}wer{\kf26}ful{\kf32} Tri{\kf44}xie
+Dialogue: 0,0:00:25.60,0:00:28.25,DEFAULT,,0,0,0,,{\r}{\kf21}It{\kf42} may{\kf39} come{\kf42} as{\kf21} a{\kf35} sur{\kf65}prise
+Dialogue: 0,0:00:28.60,0:00:31.45,DEFAULT,,0,0,0,,{\r}{\kf13}To{\kf40} see{\kf10} a{\kf20}ma{\kf20}zing{\kf17} feats{\kf13} be{\kf20}fore{\kf20} your{\kf37} ve{\kf13}-e{\kf13}ry{\kf49} eyes
+Dialogue: 0,0:00:31.85,0:00:34.55,DEFAULT,,0,0,0,,{\r}{\kf13}You'll{\kf42} re{\kf26}al{\kf42}ise{\kf42} things{\kf13} you{\kf19} did{\kf22}n't{\kf51} know
+Dialogue: 0,0:00:34.78,0:00:37.95,DEFAULT,,0,0,0,,{\r}{\kf23}So{\kf13} sit{\kf20} back{\kf13} my{\kf23} lit{\kf13}tle{\kf30} po{\kf20}ny{\kf20} and{\kf13} en{\kf47}joy{\kf10} the{\kf73} show
+Dialogue: 0,0:00:38.40,0:00:41.05,DEFAULT,,0,0,0,,{\r}{\kf38}Wel{\kf16}come{\kf57} Po{\kf28}ny{\kf38}vi{\kf38}lli{\kf50}ans
+Dialogue: 0,0:00:41.20,0:00:44.25,DEFAULT,,0,0,0,,{\r}{\kf13}You'll{\kf57} be{\kf13} the{\kf63} first{\kf38} ci{\kf44}vi{\kf31}li{\kf46}ans
+Dialogue: 0,0:00:44.60,0:00:50.05,DEFAULT,,0,0,0,,{\r}{\kf12}To{\kf56} wit{\kf56}ness{\kf25} the{\kf50} mys{\kf25}ti{\kf50}ca{\kf19}-al{\kf34} and{\kf46} ma{\kf19}gi{\kf62}cal{\kf19} dis{\kf72}play
+Dialogue: 0,0:00:50.40,0:00:58.56,DEFAULT,,0,0,0,,{\r}{\kf37}Of{\kf19} the{\kf287} Great{\kf25} and{\kf74} Po{\kf40}wer{\kf56}ful{\kf65} Tri{\kf52}-i{\kf37}-i{\kf123}-xie
+Dialogue: 0,0:01:10.41,0:01:12.96,DEFAULT,,0,0,0,,{\r}{\kf22}Tri{\kf36}xie's{\kf47} trave{\kf22}lled{\kf57} far{\kf22} and{\kf49} wide
+Dialogue: 0,0:01:13.11,0:01:16.26,DEFAULT,,0,0,0,,{\r}{\kf11}Al{\kf21}though{\kf14} be{\kf21}fore{\kf14} she{\kf25} came{\kf14} to{\kf14} this{\kf21} town{\kf14} where{\kf14} you{\kf39} po{\kf14}nies{\kf10} re{\kf69}side
+Dialogue: 0,0:01:16.61,0:01:19.24,DEFAULT,,0,0,0,,{\r}{\kf13}You{\kf58} might{\kf45} find{\kf36} thi-{\kf19}is{\kf29} hard{\kf19} to{\kf19} be{\kf25}lieve
+Dialogue: 0,0:01:19.36,0:01:22.66,DEFAULT,,0,0,0,,{\r}{\kf13}But{\kf23} Tri{\kf20}xie{\kf33} fought{\kf13} an{\kf20} Ur{\kf20}sa{\kf26} Ma{\kf16}jor{\kf20} in{\kf20} the{\kf16} Hoo{\kf16}fing{\kf16}ton{\kf58} streets
+Dialogue: 0,0:01:23.06,0:01:25.64,DEFAULT,,0,0,0,,{\r}{\kf11}So{\kf37} Tri{\kf30}xie{\kf41} stands{\kf26} in{\kf45}front{\kf30} of{\kf38} you
+Dialogue: 0,0:01:25.91,0:01:29.01,DEFAULT,,0,0,0,,{\r}{\kf14}She{\kf14} can{\kf14} per{\kf27}form{\kf14} a{\kf17}ma{\kf20}zing{\kf24} tricks{\kf14} that{\kf20} eve{\kf17}ry{\kf34} po{\kf17}ny{\kf14} can{\kf50} view
+Dialogue: 0,0:01:29.46,0:01:32.06,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf29} what{\kf29} you{\kf26} do{\kf22} Tri{\kf22}xie{\kf15} can{\kf37} do{\kf29} as{\kf36} well
+Dialogue: 0,0:01:32.19,0:01:35.44,DEFAULT,,0,0,0,,{\r}{\kf17}Cause{\kf24} eve{\kf14}ry{\kf31} ta{\kf14}lent{\kf17} you{\kf21} may{\kf21} have{\kf17} Tri{\kf24}xie{\kf17} can{\kf27} cast{\kf14} as{\kf14} a{\kf53} spell.
+Dialogue: 0,0:01:36.04,0:01:38.71,DEFAULT,,0,0,0,,{\r}{\kf34}Wel{\kf23}come{\kf54} Po{\kf37}ny{\kf37}vi{\kf31}lli{\kf52}ans
+Dialogue: 0,0:01:38.86,0:01:41.96,DEFAULT,,0,0,0,,{\r}{\kf22}You'll{\kf47} be{\kf16} the{\kf60} first{\kf32} of{\kf35} mi{\kf38}lli{\kf60}ons
+Dialogue: 0,0:01:42.26,0:01:47.67,DEFAULT,,0,0,0,,{\r}{\kf12}To{\kf54} wit{\kf54}ness{\kf24} the{\kf54} mys{\kf27}ti{\kf42}cal{\kf24}~{\kf24} and{\kf39} ma{\kf24}gi{\kf66}cal{\kf24} dis{\kf72}play
+Dialogue: 0,0:01:47.99,0:01:55.64,DEFAULT,,0,0,0,,{\r}{\kf34}Of{\kf22} the{\kf297} Great{\kf19} and{\kf77} Po{\kf37}wer{\kf56}ful{\kf62} Tri-{\kf40}i-{\kf56}i-{\kf65}xie
+Dialogue: 0,0:01:59.72,0:02:02.57,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf41} Po{\kf31}wer{\kf13}ful{\kf41} Tri-{\kf22}i-{\kf31}i-{\kf93}xie
+Dialogue: 0,0:03:18.38,0:03:20.86,DEFAULT,,0,0,0,,{\r}{\kf42}O{\kf42}kay,{\kf35} may{\kf28}be{\kf28} Tri{\kf35}xie{\kf38} lied
+Dialogue: 0,0:03:20.98,0:03:24.29,DEFAULT,,0,0,0,,{\r}{\kf13}But{\kf20} Tri{\kf13}xie{\kf27} could{\kf13} have{\kf27} fought{\kf13} the{\kf20} Ur{\kf20}sa{\kf34} on{\kf13} her{\kf20} own{\kf10} if{\kf17} she'd{\kf70} tried
+Dialogue: 0,0:03:24.76,0:03:27.39,DEFAULT,,0,0,0,,{\r}{\kf76}Twi{\kf32}light{\kf44} may{\kf13} have{\kf35} saved{\kf13} the{\kf50} town
+Dialogue: 0,0:03:27.69,0:03:30.66,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf32} Tri{\kf13}xie's{\kf19} still{\kf19} the{\kf19} most{\kf19} po{\kf23}wer{\kf16}ful{\kf26} po{\kf13}ny{\kf19} a{\kf61}round
+Dialogue: 0,0:03:31.11,0:03:33.79,DEFAULT,,0,0,0,,{\r}{\kf16}The{\kf36} Ur{\kf32}sa{\kf40} Mi{\kf24}nor{\kf32} may{\kf32} be{\kf56} gone
+Dialogue: 0,0:03:34.01,0:03:37.04,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf25} Tri{\kf14}xie{\kf29} will{\kf14} be{\kf21} back{\kf11} a{\kf32}gain{\kf14} be{\kf29}fo-{\kf18}ore{\kf21} too{\kf54} long
+Dialogue: 0,0:03:37.36,0:03:40.04,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf75} one{\kf41} day{\kf53} you{\kf37} all{\kf22} will{\kf28} see
+Dialogue: 0,0:03:40.19,0:03:43.39,DEFAULT,,0,0,0,,{\r}{\kf15}The{\kf22} awe{\kf15}some{\kf40} po{\kf15}wers{\kf15} of{\kf22} the{\kf29} Great{\kf15} and{\kf26} Po{\kf15}wer{\kf15}ful{\kf22} Tri{\kf54}xie
+Dialogue: 0,0:03:43.99,0:03:46.64,DEFAULT,,0,0,0,,{\r}{\kf34}Well{\kf23} done{\kf60} Po{\kf34}ny{\kf31}vi{\kf37}lli{\kf46}ans
+Dialogue: 0,0:03:46.81,0:03:49.87,DEFAULT,,0,0,0,,{\r}{\kf16}You've{\kf51} beat{\kf22}en{\kf64} me{\kf48} but{\kf32} on{\kf19}ly{\kf53} once
+Dialogue: 0,0:03:50.24,0:03:55.54,DEFAULT,,0,0,0,,{\r}{\kf19}So{\kf32} lis{\kf22}ten{\kf54} to{\kf38} my{\kf45} war{\kf26}ning{\kf48} and{\kf22} re{\kf80}mem{\kf67}ber{\kf19} the{\kf58} name
+Dialogue: 0,0:03:55.99,0:04:03.89,DEFAULT,,0,0,0,,{\r}{\kf37}Of{\kf19} the{\kf278} Great{\kf19} and{\kf77} Po{\kf40}wer{\kf56}ful{\kf77} Tri-{\kf40}i-{\kf56}i-{\kf91}xie
+Dialogue: 0,0:04:11.24,0:04:16.35,DEFAULT,,0,0,0,,{\r}{\kf55}The{\kf61} Great{\kf37} and{\kf71} Po{\kf58}wer{\kf25}ful{\kf68} Tri-{\kf61}i-{\kf25}i-{\kf49}xie
+Dialogue: 0,0:04:24.60,0:04:29.70,DEFAULT,,0,0,0,,{\r}{\kf13}The{\kf38} Great{\kf38} and{\kf76} Po{\kf57}wer{\kf26}ful{\kf32} Tri-{\kf32}i-{\kf26}i-{\kf32}i-{\kf32}i-{\kf51}i-{\kf57}xie
+Dialogue: 0,0:04:37.40,0:04:42.30,DEFAULT,,0,0,0,,{\r}{\kf12}The{\kf37} Great{\kf37} and{\kf75} Po-{\kf50}o-{\kf44}o-{\kf44}o-{\kf19}o-{\kf25}o-{\kf31}wer{\kf19}ful{\kf50} Tri{\kf47}xie
+Dialogue: 0,0:04:50.20,0:04:54.80,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf38} Great{\kf25} and{\kf48} Po-{\kf44}o-{\kf48}o-{\kf44}o-{\kf29}o-{\kf19}wer{\kf19}ful{\kf35} Tri-{\kf22}i-{\kf25}i-{\kf45}xie

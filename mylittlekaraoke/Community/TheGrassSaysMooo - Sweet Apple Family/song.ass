@@ -1,90 +1,97 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Sweet Apple Family
+Artist: TheGrassSaysMooo
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:28.34,0:00:30.28,DEFAULT,,0,0,0,,{\kf51}Applejack,{\kf37} Apple Bloom,{\kf29} Big{\kf22} Mac{\kf29} bucking
-Dialogue: 0,0:00:30.57,0:00:32.59,DEFAULT,,0,0,0,,{\kf29}Granny{\kf22} Smith,{\kf37} too,{\kf22} giving{\kf15} some{\kf15} big{\kf29} loving
-Dialogue: 0,0:00:33.02,0:00:34.54,DEFAULT,,0,0,0,,{\kf44}Sometimes{\kf15} it's{\kf15} hard{\kf15} to{\kf15} keep{\kf22} trucking
-Dialogue: 0,0:00:34.75,0:00:37.28,DEFAULT,,0,0,0,,{\kf8}But{\kf15} Sweet{\kf37} Apple{\kf44} Family{\kf22} don't{\kf15} ever{\kf29} stop{\kf15} for{\kf29} nothing
-Dialogue: 0,0:00:37.57,0:00:39.44,DEFAULT,,0,0,0,,{\kf44}Applejack,{\kf37} Apple Bloom,{\kf15} Big{\kf22} Mac{\kf29} bucking
-Dialogue: 0,0:00:39.87,0:00:41.89,DEFAULT,,0,0,0,,{\kf22}Granny{\kf15} Smith,{\kf15} too,{\kf29} giving{\kf15} some{\kf15} big{\kf29} loving
-Dialogue: 0,0:00:42.18,0:00:43.91,DEFAULT,,0,0,0,,{\kf51}Sometimes{\kf22} it's{\kf15} hard{\kf15} to{\kf15} keep{\kf37} trucking
-Dialogue: 0,0:00:43.99,0:00:46.58,DEFAULT,,0,0,0,,{\kf15}But{\kf22} Sweet{\kf37} Apple{\kf37} Family{\kf15} don't{\kf22} never{\kf22} stop{\kf15} for{\kf29} nothing
-Dialogue: 0,0:00:46.80,0:00:48.67,DEFAULT,,0,0,0,,{\kf51}Apple Bloom,{\kf15} as{\kf15} a{\kf22} little{\kf15} filly,{\kf29} bucking{\kf15} it
-Dialogue: 0,0:00:48.82,0:00:50.84,DEFAULT,,0,0,0,,{\kf22}Luckin'{\kf15} it,{\kf15} apples{\kf15} falling{\kf15} down,{\kf15} the{\kf15} tree's{\kf15} chuckin{\kf15} it
-Dialogue: 0,0:00:51.12,0:00:53.07,DEFAULT,,0,0,0,,{\kf22}Plucking{\kf15} at{\kf15} the{\kf15} roots{\kf15} of{\kf15} our{\kf37} family{\kf15} to{\kf15} win
-Dialogue: 0,0:00:53.36,0:00:55.60,DEFAULT,,0,0,0,,{\kf37}Harvest{\kf15} the{\kf15} best,{\kf15} for{\kf15} all{\kf15} of{\kf15} the{\kf15} rest,{\kf15} and{\kf15} our{\kf15} kin
-Dialogue: 0,0:00:56.03,0:00:58.48,DEFAULT,,0,0,0,,{\kf15}With{\kf15} a{\kf15} red{\kf22} mane,{\kf22} cream{\kf15} coat,{\kf22} bright{\kf15} pink{\kf29} little{\kf15} bow
-Dialogue: 0,0:00:58.70,0:01:00.28,DEFAULT,,0,0,0,,{\kf15}Hard{\kf15} work{\kf15} cut{\kf15} out,{\kf15} like{\kf15} a{\kf51} steamboat
-Dialogue: 0,0:01:00.64,0:01:02.52,DEFAULT,,0,0,0,,{\kf15}When{\kf15} it's{\kf15} all{\kf15} said{\kf15} and{\kf15} done,{\kf15} and{\kf15} you{\kf15} do{\kf15} your{\kf15} part
-Dialogue: 0,0:01:02.66,0:01:04.90,DEFAULT,,0,0,0,,{\kf15}Time{\kf15} to{\kf15} go{\kf44} crusading{\kf15} for{\kf15} some{\kf44} unfound{\kf22} cutie{\kf37} marks
-Dialogue: 0,0:01:05.26,0:01:07.42,DEFAULT,,0,0,0,,{\kf15}Talk{\kf37} about{\kf22} different{\kf22} apples,{\kf15} that's{\kf15} a{\kf22} line{\kf15} you're{\kf37} overstepping
-Dialogue: 0,0:01:07.57,0:01:09.66,DEFAULT,,0,0,0,,{\kf15}'S',{\kf22} double{\kf15} 'A',{\kf37} Ponyville's{\kf58} apple-reppin'
-Dialogue: 0,0:01:09.87,0:01:11.68,DEFAULT,,0,0,0,,{\kf22}Trekking{\kf15} through{\kf15} the{\kf29} forest{\kf15} to{\kf15} find{\kf15} a{\kf15} new{\kf15} start
-Dialogue: 0,0:01:11.89,0:01:14.06,DEFAULT,,0,0,0,,{\kf51}CMC,{\kf29} pumping{\kf15} out{\kf15} ideas{\kf15} like{\kf15} a{\kf29} beating{\kf15} heart
-Dialogue: 0,0:01:14.49,0:01:16.44,DEFAULT,,0,0,0,,{\kf15}If{\kf15} you{\kf15} want{\kf22} seconds,{\kf15} you{\kf22} better{\kf15} say,{\kf29} "Please"
-Dialogue: 0,0:01:16.65,0:01:18.53,DEFAULT,,0,0,0,,{\kf15}'Cause{\kf15} down{\kf15} here,{\kf15} it's{\kf15} the{\kf29} Apple{\kf44} Family
-Dialogue: 0,0:01:19.11,0:01:20.98,DEFAULT,,0,0,0,,{\kf22}Filly's{\kf15} got{\kf15} skills,{\kf15} but{\kf15} when{\kf29} singing:{\kf15} Off{\kf15} Key
-Dialogue: 0,0:01:21.12,0:01:23.29,DEFAULT,,0,0,0,,{\kf15}But{\kf15} they're{\kf15} like,{\kf22} "Damn,{\kf15} that's{\kf8} a{\kf15} cold{\kf22}-ass{\kf44} honkey!"
-Dialogue: 0,0:01:23.72,0:01:25.67,DEFAULT,,0,0,0,,{\kf44}Applejack,{\kf44} Apple Bloom,{\kf22} Big{\kf15} Mac{\kf29} bucking
-Dialogue: 0,0:01:26.03,0:01:28.05,DEFAULT,,0,0,0,,{\kf37}Granny{\kf15} Smith,{\kf15} too,{\kf29} giving{\kf15} some{\kf15} big{\kf37} loving
-Dialogue: 0,0:01:28.34,0:01:30.07,DEFAULT,,0,0,0,,{\kf51}Sometimes{\kf15} it's{\kf15} hard{\kf15} to{\kf15} keep{\kf29} trucking
-Dialogue: 0,0:01:30.21,0:01:32.66,DEFAULT,,0,0,0,,{\kf15}But{\kf15} Sweet{\kf29} Apple{\kf37} Family{\kf15} don't{\kf22} ever{\kf15} stop{\kf15} for{\kf29} nothing
-Dialogue: 0,0:01:32.95,0:01:34.90,DEFAULT,,0,0,0,,{\kf44}Applejack,{\kf51} Apple Bloom,{\kf15} Big{\kf29} Mac{\kf37} bucking
-Dialogue: 0,0:01:35.26,0:01:37.28,DEFAULT,,0,0,0,,{\kf15}Granny{\kf22} Smith,{\kf29} too,{\kf29} giving{\kf15} some{\kf22} big{\kf29} loving
-Dialogue: 0,0:01:37.57,0:01:39.15,DEFAULT,,0,0,0,,{\kf37}Sometimes{\kf15} it's{\kf15} hard{\kf15} to{\kf15} keep{\kf22} trucking
-Dialogue: 0,0:01:39.30,0:01:41.89,DEFAULT,,0,0,0,,{\kf15}But{\kf37} Sweet{\kf22} Apple{\kf44} Family{\kf22} don't{\kf22} never{\kf15} stop{\kf15} for{\kf37} nothing
-Dialogue: 0,0:01:42.18,0:01:43.99,DEFAULT,,0,0,0,,{\kf37}Applejack{\kf15} is{\kf15} the{\kf44} Element{\kf15} of{\kf37} Honesty
-Dialogue: 0,0:01:44.27,0:01:46.37,DEFAULT,,0,0,0,,{\kf37}Honestly,{\kf15} she{\kf15} would{\kf15} not{\kf15} lie!{\kf15} Well...{\kf44} probably
-Dialogue: 0,0:01:46.80,0:01:48.67,DEFAULT,,0,0,0,,{\kf22}Doesn't{\kf8} like{\kf15} to{\kf22} lose,{\kf51} competitive{\kf37} mare{\kf15} too
-Dialogue: 0,0:01:48.82,0:01:51.05,DEFAULT,,0,0,0,,{\kf22}Plans{\kf15} to{\kf29} better{\kf29} herself,{\kf15} 'cause{\kf15} she{\kf15} cares{\kf15} for{\kf22} Apple{\kf29} Bloom
-Dialogue: 0,0:01:51.49,0:01:53.14,DEFAULT,,0,0,0,,{\kf29}Working{\kf22} all{\kf15} day,{\kf15} not{\kf15} a{\kf22} moment{\kf15} to{\kf15} rest
-Dialogue: 0,0:01:53.36,0:01:55.24,DEFAULT,,0,0,0,,{\kf15}The{\kf37} last{\kf22} thing{\kf15} she'd{\kf22} say{\kf15} is,{\kf15} "Better{\kf15} than{\kf15} best"
-Dialogue: 0,0:01:55.38,0:01:57.62,DEFAULT,,0,0,0,,{\kf29}She's{\kf37} confident,{\kf44} humble,{\kf15} and{\kf51} honestly{\kf37} intense,
-Dialogue: 0,0:01:57.83,0:02:00.00,DEFAULT,,0,0,0,,{\kf15}She'll{\kf15} tell{\kf15} you,{\kf15} "This{\kf29} isn't{\kf15} it!{\kf22} Not{\kf15} just{\kf15} yet!"
-Dialogue: 0,0:02:00.64,0:02:02.30,DEFAULT,,0,0,0,,{\kf22}Big{\kf29} Mac{\kf15} is{\kf22} buffer{\kf15} that{\kf22} most{\kf22} colts,
-Dialogue: 0,0:02:02.37,0:02:04.90,DEFAULT,,0,0,0,,{\kf15}In{\kf15} fact,{\kf15} is{\kf29} battered{\kf15} with{\kf22} mares{\kf29} hoping{\kf15} for-{\kf44} "NOPE!"{\kf15}-Heh
-Dialogue: 0,0:02:05.12,0:02:06.92,DEFAULT,,0,0,0,,{\kf15} He{\kf15} lifts{\kf29} barrels,{\kf15} and{\kf15} wears{\kf29} weighted{\kf37} apparel
-Dialogue: 0,0:02:06.99,0:02:09.30,DEFAULT,,0,0,0,,{\kf15}It's{\kf37} apparent{\kf15} he{\kf15} wants{\kf15} to{\kf29} protect{\kf15} 'em{\kf15} and{\kf37} properly{\kf22} handle{\kf15} it
-Dialogue: 0,0:02:09.95,0:02:11.46,DEFAULT,,0,0,0,,{\kf29}Nothing{\kf15} new,{\kf15} it's{\kf15} a{\kf22} habit{\kf15} to{\kf22} work{\kf15} hard
-Dialogue: 0,0:02:11.61,0:02:13.84,DEFAULT,,0,0,0,,{\kf15}Was{\kf44} difficult{\kf15} at{\kf15} first,{\kf15} but{\kf29} passed{\kf15} the{\kf15} first{\kf15} part
-Dialogue: 0,0:02:13.99,0:02:16.15,DEFAULT,,0,0,0,,{\kf29}Taking{\kf15} care{\kf15} of{\kf15} the{\kf37} family{\kf15} and{\kf15} over{\kf15} her{\kf22} farm
-Dialogue: 0,0:02:16.29,0:02:18.53,DEFAULT,,0,0,0,,{\kf15}Is{\kf15} the{\kf15} mane{\kf87} responsibility{\kf15} in{\kf15} his{\kf29} heart
-Dialogue: 0,0:02:19.11,0:02:21.27,DEFAULT,,0,0,0,,{\kf44}Applejack,{\kf44} Apple Bloom,{\kf29} Big{\kf29} Mac{\kf44} bucking
-Dialogue: 0,0:02:21.34,0:02:23.43,DEFAULT,,0,0,0,,{\kf29}Granny{\kf37} Smith,{\kf22} too,{\kf29} giving{\kf22} some{\kf15} big{\kf37} loving
-Dialogue: 0,0:02:23.65,0:02:25.38,DEFAULT,,0,0,0,,{\kf58}Sometimes{\kf15} it's{\kf15} hard{\kf15} to{\kf15} keep{\kf22} trucking
-Dialogue: 0,0:02:25.52,0:02:27.98,DEFAULT,,0,0,0,,{\kf15}But{\kf22} Sweet{\kf29} Apple{\kf37} Family{\kf15} don't{\kf15} ever{\kf15} stop{\kf15} for{\kf37} nothing
-Dialogue: 0,0:02:28.34,0:02:30.50,DEFAULT,,0,0,0,,{\kf44}Applejack,{\kf44} Apple Bloom,{\kf29} Big{\kf29} Mac{\kf44} bucking
-Dialogue: 0,0:02:30.57,0:02:32.66,DEFAULT,,0,0,0,,{\kf29}Granny{\kf37} Smith,{\kf22} too,{\kf29} giving{\kf22} some{\kf15} big{\kf37} loving
-Dialogue: 0,0:02:32.88,0:02:34.61,DEFAULT,,0,0,0,,{\kf58}Sometimes{\kf15} it's{\kf15} hard{\kf15} to{\kf15} keep{\kf22} trucking
-Dialogue: 0,0:02:34.75,0:02:37.21,DEFAULT,,0,0,0,,{\kf15}But{\kf22} Sweet{\kf29} Apple{\kf37} Family{\kf15} don't{\kf15} never{\kf15} stop{\kf15} for{\kf37} nothing
-Dialogue: 0,0:02:37.57,0:02:39.51,DEFAULT,,0,0,0,,{\kf51}Applejack,{\kf37} Apple Bloom,{\kf29} Big{\kf22} Mac{\kf29} bucking
-Dialogue: 0,0:02:39.80,0:02:41.82,DEFAULT,,0,0,0,,{\kf29}Granny{\kf22} Smith,{\kf37} too,{\kf22} giving{\kf15} some{\kf15} big{\kf29} loving
-Dialogue: 0,0:02:42.25,0:02:43.77,DEFAULT,,0,0,0,,{\kf44}Sometimes{\kf15} it's{\kf15} hard{\kf15} to{\kf15} keep{\kf22} trucking
-Dialogue: 0,0:02:43.99,0:02:45.50,DEFAULT,,0,0,0,,{\kf8}But{\kf15} Sweet{\kf37} Apple{\kf44} Family{\kf22} (...)
-Dialogue: 0,0:02:45.86,0:02:49.61,DEFAULT,,0,0,0,,{\kf22}Now,{\kf29} I{\kf29} know{\kf44} we{\kf44} have{\kf22} our{\kf58} pro{\kf44}blems
-Dialogue: 0,0:02:50.55,0:02:54.51,DEFAULT,,0,0,0,,{\kf15}But{\kf15} I'd{\kf29} look{\kf37} past{\kf29} them{\kf15} for{\kf15} a{\kf29} mi{\kf65}nu{\kf15}t{\kf22}e
-Dialogue: 0,0:02:55.16,0:02:59.20,DEFAULT,,0,0,0,,{\kf15}I{\kf15} am{\kf22} fi{\kf29}nished{\kf15} with{\kf15} the{\kf29} figh{\kf22}ting{\kf15} and{\kf65} whi{\kf87}ning
-Dialogue: 0,0:03:00.43,0:03:07.50,DEFAULT,,0,0,0,,{\kf15}Let's{\kf15} just{\kf29} b{\kf15}e{\kf37} hap{\kf29}py{\kf15} that{\kf15} we're{\kf51} fam{\kf22}ily{\kf37} to{\kf231}nig{\kf29}h{\kf15}t
-Dialogue: 0,0:03:08.72,0:03:09.59,DEFAULT,,0,0,0,,{\kf22}...giving{\kf15} some{\kf15} big{\kf29} loving
-Dialogue: 0,0:03:09.87,0:03:11.39,DEFAULT,,0,0,0,,{\kf44}Sometimes{\kf15} it's{\kf15} hard{\kf15} to{\kf15} keep{\kf22} trucking
-Dialogue: 0,0:03:11.61,0:03:14.13,DEFAULT,,0,0,0,,{\kf8}But{\kf15} Sweet{\kf37} Apple{\kf44} Family{\kf22} don't{\kf15} ever{\kf29} stop{\kf15} for{\kf29} nothing
-Dialogue: 0,0:03:14.42,0:03:16.37,DEFAULT,,0,0,0,,{\kf51}Applejack,{\kf37} Apple Bloom,{\kf29} Big{\kf22} Mac{\kf29} bucking
-Dialogue: 0,0:03:16.65,0:03:18.67,DEFAULT,,0,0,0,,{\kf29}Granny{\kf22} Smith,{\kf37} too,{\kf22} giving{\kf15} some{\kf15} big{\kf29} loving
-Dialogue: 0,0:03:19.11,0:03:20.62,DEFAULT,,0,0,0,,{\kf44}Sometimes{\kf15} it's{\kf15} hard{\kf15} to{\kf15} keep{\kf22} trucking
-Dialogue: 0,0:03:20.84,0:03:23.36,DEFAULT,,0,0,0,,{\kf8}But{\kf15} Sweet{\kf37} Apple{\kf44} Family{\kf22} don't{\kf15} never{\kf29} stop{\kf15} for{\kf29} nothing
-Dialogue: 0,0:03:23.72,0:03:25.67,DEFAULT,,0,0,0,,{\kf51}Applejack,{\kf37} Apple Bloom,{\kf29} Big{\kf22} Mac{\kf29} bucking
-Dialogue: 0,0:03:25.96,0:03:27.98,DEFAULT,,0,0,0,,{\kf29}Granny{\kf22} Smith,{\kf37} too,{\kf22} giving{\kf15} some{\kf15} big{\kf29} loving
-Dialogue: 0,0:03:28.41,0:03:29.92,DEFAULT,,0,0,0,,{\kf44}Sometimes{\kf15} it's{\kf15} hard{\kf15} to{\kf15} keep{\kf22} trucking
-Dialogue: 0,0:03:30.14,0:03:32.66,DEFAULT,,0,0,0,,{\kf8}But{\kf15} Sweet{\kf37} Apple{\kf44} Family{\kf22} don't{\kf15} ever{\kf29} stop{\kf15} for{\kf29} nothing
-Dialogue: 0,0:03:32.95,0:03:34.90,DEFAULT,,0,0,0,,{\kf51}Applejack,{\kf37} Apple Bloom,{\kf29} Big{\kf22} Mac{\kf29} bucking
-Dialogue: 0,0:03:35.19,0:03:37.21,DEFAULT,,0,0,0,,{\kf29}Granny{\kf22} Smith,{\kf37} too,{\kf22} giving{\kf15} some{\kf15} big{\kf29} loving
-Dialogue: 0,0:03:37.64,0:03:39.15,DEFAULT,,0,0,0,,{\kf44}Sometimes{\kf15} it's{\kf15} hard{\kf15} to{\kf15} keep{\kf22} trucking
-Dialogue: 0,0:03:39.37,0:03:41.89,DEFAULT,,0,0,0,,{\kf8}But{\kf15} Sweet{\kf37} Apple{\kf44} Family{\kf22} don't{\kf15} never{\kf29} stop{\kf15} for{\kf29} nothing
+Dialogue: 0,0:00:28.34,0:00:30.29,DEFAULT,,0,0,0,,{\r}{\kf59}Applejack,{\kf42} Apple Bloom,{\kf34} Big{\kf25} Mac{\kf35} bucking
+Dialogue: 0,0:00:30.58,0:00:32.60,DEFAULT,,0,0,0,,{\r}{\kf35}Granny{\kf26} Smith,{\kf44} too,{\kf26} giving{\kf18} some{\kf18} big{\kf35} loving
+Dialogue: 0,0:00:33.03,0:00:34.54,DEFAULT,,0,0,0,,{\r}{\kf53}Sometimes{\kf18} it's{\kf18} hard{\kf18} to{\kf18} keep{\kf26} trucking
+Dialogue: 0,0:00:34.76,0:00:37.28,DEFAULT,,0,0,0,,{\r}{\kf10}But{\kf17} Sweet{\kf43} Apple{\kf52} Family{\kf26} don't{\kf17} ever{\kf35} stop{\kf17} for{\kf35} nothing
+Dialogue: 0,0:00:37.57,0:00:39.45,DEFAULT,,0,0,0,,{\r}{\kf56}Applejack,{\kf47} Apple Bloom,{\kf19} Big{\kf28} Mac{\kf38} bucking
+Dialogue: 0,0:00:39.88,0:00:41.90,DEFAULT,,0,0,0,,{\r}{\kf32}Granny{\kf21} Smith,{\kf21} too,{\kf43} giving{\kf21} some{\kf21} big{\kf43} loving
+Dialogue: 0,0:00:42.19,0:00:43.92,DEFAULT,,0,0,0,,{\r}{\kf58}Sometimes{\kf25} it's{\kf16} hard{\kf16} to{\kf16} keep{\kf42} trucking
+Dialogue: 0,0:00:43.99,0:00:46.59,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf27} Sweet{\kf45} Apple{\kf45} Family{\kf18} don't{\kf27} never{\kf27} stop{\kf18} for{\kf35} nothing
+Dialogue: 0,0:00:46.80,0:00:48.68,DEFAULT,,0,0,0,,{\r}{\kf60}Apple Bloom,{\kf17} as{\kf17} a{\kf26} little{\kf17} filly,{\kf34} bucking{\kf17} it
+Dialogue: 0,0:00:48.82,0:00:50.84,DEFAULT,,0,0,0,,{\r}{\kf32}Luckin'{\kf21} it,{\kf21} apples{\kf21} falling{\kf21} down,{\kf21} the{\kf21} tree's{\kf21} chuckin{\kf23} it
+Dialogue: 0,0:00:51.13,0:00:53.08,DEFAULT,,0,0,0,,{\r}{\kf27}Plucking{\kf18} at{\kf18} the{\kf18} roots{\kf18} of{\kf18} our{\kf44} family{\kf18} to{\kf16} win
+Dialogue: 0,0:00:53.37,0:00:55.60,DEFAULT,,0,0,0,,{\r}{\kf45}Harvest{\kf18} the{\kf18} best,{\kf18} for{\kf18} all{\kf18} of{\kf18} the{\kf18} rest,{\kf18} and{\kf18} our{\kf17} kin
+Dialogue: 0,0:00:56.03,0:00:58.49,DEFAULT,,0,0,0,,{\r}{\kf20}With{\kf20} a{\kf20} red{\kf29} mane,{\kf29} cream{\kf20} coat,{\kf29} bright{\kf20} pink{\kf39} little{\kf19} bow
+Dialogue: 0,0:00:58.70,0:01:00.29,DEFAULT,,0,0,0,,{\r}{\kf17}Hard{\kf17} work{\kf17} cut{\kf17} out,{\kf17} like{\kf17} a{\kf57} steamboat
+Dialogue: 0,0:01:00.65,0:01:02.52,DEFAULT,,0,0,0,,{\r}{\kf17}When{\kf17} it's{\kf17} all{\kf17} said{\kf17} and{\kf17} done,{\kf17} and{\kf17} you{\kf17} do{\kf17} your{\kf18} part
+Dialogue: 0,0:01:02.67,0:01:04.90,DEFAULT,,0,0,0,,{\r}{\kf15}Time{\kf15} to{\kf15} go{\kf45} crusading{\kf15} for{\kf15} some{\kf45} unfound{\kf22} cutie{\kf37} marks
+Dialogue: 0,0:01:05.26,0:01:07.43,DEFAULT,,0,0,0,,{\r}{\kf16}Talk{\kf40} about{\kf24} different{\kf24} apples,{\kf16} that's{\kf16} a{\kf24} line{\kf16} you're{\kf40} overstepping
+Dialogue: 0,0:01:07.57,0:01:09.66,DEFAULT,,0,0,0,,{\r}{\kf21}'S',{\kf31} double{\kf21} 'A',{\kf52} Ponyville's{\kf84} apple-reppin'
+Dialogue: 0,0:01:09.88,0:01:11.68,DEFAULT,,0,0,0,,{\r}{\kf26}Trekking{\kf17} through{\kf17} the{\kf34} forest{\kf17} to{\kf17} find{\kf17} a{\kf17} new{\kf18} start
+Dialogue: 0,0:01:11.90,0:01:14.06,DEFAULT,,0,0,0,,{\r}{\kf60}CMC,{\kf35} pumping{\kf17} out{\kf17} ideas{\kf17} like{\kf17} a{\kf35} beating{\kf18} heart
+Dialogue: 0,0:01:14.50,0:01:16.44,DEFAULT,,0,0,0,,{\r}{\kf20}If{\kf20} you{\kf20} want{\kf29} seconds,{\kf20} you{\kf29} better{\kf20} say,{\kf37} "Please"
+Dialogue: 0,0:01:16.66,0:01:18.53,DEFAULT,,0,0,0,,{\r}{\kf19}'Cause{\kf19} down{\kf19} here,{\kf19} it's{\kf19} the{\kf38} Apple{\kf55} Family
+Dialogue: 0,0:01:19.11,0:01:20.99,DEFAULT,,0,0,0,,{\r}{\kf30}Filly's{\kf20} got{\kf20} skills,{\kf20} but{\kf20} when{\kf40} singing:{\kf20} Off{\kf18} Key
+Dialogue: 0,0:01:21.13,0:01:23.29,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf19} they're{\kf19} like,{\kf28} "Damn,{\kf19} that's{\kf10} a{\kf19} cold{\kf28}-ass{\kf55} honkey!"
+Dialogue: 0,0:01:23.73,0:01:25.67,DEFAULT,,0,0,0,,{\r}{\kf56}Applejack,{\kf56} Apple Bloom,{\kf28} Big{\kf19} Mac{\kf36} bucking
+Dialogue: 0,0:01:26.03,0:01:28.05,DEFAULT,,0,0,0,,{\r}{\kf46}Granny{\kf18} Smith,{\kf18} too,{\kf37} giving{\kf18} some{\kf18} big{\kf47} loving
+Dialogue: 0,0:01:28.34,0:01:30.07,DEFAULT,,0,0,0,,{\r}{\kf64}Sometimes{\kf18} it's{\kf18} hard{\kf18} to{\kf18} keep{\kf37} trucking
+Dialogue: 0,0:01:30.22,0:01:32.67,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf19} Sweet{\kf38} Apple{\kf47} Family{\kf19} don't{\kf28} ever{\kf19} stop{\kf19} for{\kf37} nothing
+Dialogue: 0,0:01:32.96,0:01:34.90,DEFAULT,,0,0,0,,{\r}{\kf49}Applejack,{\kf57} Apple Bloom,{\kf16} Big{\kf32} Mac{\kf41} bucking
+Dialogue: 0,0:01:35.26,0:01:37.28,DEFAULT,,0,0,0,,{\r}{\kf18}Granny{\kf28} Smith,{\kf37} too,{\kf37} giving{\kf18} some{\kf28} big{\kf36} loving
+Dialogue: 0,0:01:37.57,0:01:39.16,DEFAULT,,0,0,0,,{\r}{\kf50}Sometimes{\kf20} it's{\kf20} hard{\kf20} to{\kf20} keep{\kf29} trucking
+Dialogue: 0,0:01:39.30,0:01:41.90,DEFAULT,,0,0,0,,{\r}{\kf17}But{\kf42} Sweet{\kf25} Apple{\kf50} Family{\kf25} don't{\kf25} never{\kf17} stop{\kf17} for{\kf42} nothing
+Dialogue: 0,0:01:42.19,0:01:43.99,DEFAULT,,0,0,0,,{\r}{\kf41}Applejack{\kf16} is{\kf16} the{\kf49} Element{\kf16} of{\kf42} Honesty
+Dialogue: 0,0:01:44.28,0:01:46.37,DEFAULT,,0,0,0,,{\r}{\kf50}Honestly,{\kf20} she{\kf20} would{\kf20} not{\kf20} lie!{\kf20} Well...{\kf59} probably
+Dialogue: 0,0:01:46.80,0:01:48.68,DEFAULT,,0,0,0,,{\r}{\kf25}Doesn't{\kf10} like{\kf16} to{\kf25} lose,{\kf57} competitive{\kf41} mare{\kf14} too
+Dialogue: 0,0:01:48.82,0:01:51.06,DEFAULT,,0,0,0,,{\r}{\kf24}Plans{\kf16} to{\kf32} better{\kf32} herself,{\kf16} 'cause{\kf16} she{\kf16} cares{\kf16} for{\kf24} Apple{\kf32} Bloom
+Dialogue: 0,0:01:51.49,0:01:53.15,DEFAULT,,0,0,0,,{\r}{\kf33}Working{\kf25} all{\kf17} day,{\kf17} not{\kf17} a{\kf25} moment{\kf17} to{\kf15} rest
+Dialogue: 0,0:01:53.37,0:01:55.24,DEFAULT,,0,0,0,,{\r}{\kf16}The{\kf41} last{\kf25} thing{\kf16} she'd{\kf25} say{\kf16} is,{\kf16} "Better{\kf16} than{\kf17} best"
+Dialogue: 0,0:01:55.38,0:01:57.62,DEFAULT,,0,0,0,,{\r}{\kf31}She's{\kf39} confident,{\kf46} humble,{\kf15} and{\kf54} honestly{\kf39} intense,
+Dialogue: 0,0:01:57.84,0:02:00.00,DEFAULT,,0,0,0,,{\r}{\kf21}She'll{\kf21} tell{\kf21} you,{\kf21} "This{\kf41} isn't{\kf21} it!{\kf31} Not{\kf21} just{\kf18} yet!"
+Dialogue: 0,0:02:00.65,0:02:02.31,DEFAULT,,0,0,0,,{\r}{\kf25}Big{\kf33} Mac{\kf17} is{\kf25} buffer{\kf17} that{\kf25} most{\kf24} colts,
+Dialogue: 0,0:02:02.38,0:02:04.90,DEFAULT,,0,0,0,,{\r}{\kf17}In{\kf17} fact,{\kf17} is{\kf35} battered{\kf17} with{\kf26} mares{\kf35} hoping{\kf17} for-{\kf52} "NOPE!"{\kf19}-Heh
+Dialogue: 0,0:02:05.12,0:02:06.92,DEFAULT,,0,0,0,,{\r}{\kf17} He{\kf17} lifts{\kf34} barrels,{\kf17} and{\kf17} wears{\kf34} weighted{\kf44} apparel
+Dialogue: 0,0:02:07.00,0:02:09.30,DEFAULT,,0,0,0,,{\r}{\kf15}It's{\kf37} apparent{\kf15} he{\kf15} wants{\kf15} to{\kf30} protect{\kf15} 'em{\kf15} and{\kf37} properly{\kf22} handle{\kf15} it
+Dialogue: 0,0:02:09.95,0:02:11.47,DEFAULT,,0,0,0,,{\r}{\kf30}Nothing{\kf15} new,{\kf15} it's{\kf15} a{\kf23} habit{\kf15} to{\kf23} work{\kf15} hard
+Dialogue: 0,0:02:11.61,0:02:13.85,DEFAULT,,0,0,0,,{\r}{\kf19}Was{\kf56} difficult{\kf19} at{\kf19} first,{\kf19} but{\kf37} passed{\kf19} the{\kf19} first{\kf17} part
+Dialogue: 0,0:02:13.99,0:02:16.15,DEFAULT,,0,0,0,,{\r}{\kf36}Taking{\kf18} care{\kf18} of{\kf18} the{\kf45} family{\kf18} and{\kf18} over{\kf18} her{\kf27} farm
+Dialogue: 0,0:02:16.30,0:02:18.53,DEFAULT,,0,0,0,,{\r}{\kf17}Is{\kf17} the{\kf17} mane{\kf103} responsibility{\kf17} in{\kf17} his{\kf36} heart
+Dialogue: 0,0:02:19.11,0:02:21.27,DEFAULT,,0,0,0,,{\r}{\kf50}Applejack,{\kf50} Apple Bloom,{\kf33} Big{\kf33} Mac{\kf50} bucking
+Dialogue: 0,0:02:21.35,0:02:23.44,DEFAULT,,0,0,0,,{\r}{\kf32}Granny{\kf40} Smith,{\kf24} too,{\kf32} giving{\kf24} some{\kf16} big{\kf41} loving
+Dialogue: 0,0:02:23.65,0:02:25.38,DEFAULT,,0,0,0,,{\r}{\kf73}Sometimes{\kf18} it's{\kf18} hard{\kf18} to{\kf18} keep{\kf28} trucking
+Dialogue: 0,0:02:25.53,0:02:27.98,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf27} Sweet{\kf36} Apple{\kf45} Family{\kf18} don't{\kf18} ever{\kf18} stop{\kf18} for{\kf47} nothing
+Dialogue: 0,0:02:28.34,0:02:30.50,DEFAULT,,0,0,0,,{\r}{\kf50}Applejack,{\kf50} Apple Bloom,{\kf33} Big{\kf33} Mac{\kf50} bucking
+Dialogue: 0,0:02:30.58,0:02:32.67,DEFAULT,,0,0,0,,{\r}{\kf32}Granny{\kf40} Smith,{\kf24} too,{\kf32} giving{\kf24} some{\kf16} big{\kf41} loving
+Dialogue: 0,0:02:32.88,0:02:34.62,DEFAULT,,0,0,0,,{\r}{\kf73}Sometimes{\kf18} it's{\kf18} hard{\kf18} to{\kf18} keep{\kf28} trucking
+Dialogue: 0,0:02:34.76,0:02:37.21,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf27} Sweet{\kf36} Apple{\kf45} Family{\kf18} don't{\kf18} never{\kf18} stop{\kf18} for{\kf47} nothing
+Dialogue: 0,0:02:37.57,0:02:39.52,DEFAULT,,0,0,0,,{\r}{\kf59}Applejack,{\kf42} Apple Bloom,{\kf34} Big{\kf25} Mac{\kf35} bucking
+Dialogue: 0,0:02:39.81,0:02:41.83,DEFAULT,,0,0,0,,{\r}{\kf35}Granny{\kf26} Smith,{\kf44} too,{\kf26} giving{\kf18} some{\kf18} big{\kf35} loving
+Dialogue: 0,0:02:42.26,0:02:43.77,DEFAULT,,0,0,0,,{\r}{\kf53}Sometimes{\kf18} it's{\kf18} hard{\kf18} to{\kf18} keep{\kf26} trucking
+Dialogue: 0,0:02:43.99,0:02:45.50,DEFAULT,,0,0,0,,{\r}{\kf10}But{\kf18} Sweet{\kf44} Apple{\kf53} Family{\kf26} (...)
+Dialogue: 0,0:02:45.87,0:02:49.62,DEFAULT,,0,0,0,,{\r}{\kf28}Now,{\kf38} I{\kf38} know{\kf56} we{\kf56} have{\kf28} our{\kf75} pro{\kf56}blems
+Dialogue: 0,0:02:50.55,0:02:54.52,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf20} I'd{\kf41} look{\kf51} past{\kf41} them{\kf20} for{\kf20} a{\kf41} mi{\kf92}nu{\kf20}t{\kf31}e
+Dialogue: 0,0:02:55.17,0:02:59.21,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf18} am{\kf27} fi{\kf36}nished{\kf18} with{\kf18} the{\kf36} figh{\kf27}ting{\kf18} and{\kf81} whi{\kf107}ning
+Dialogue: 0,0:03:00.43,0:03:07.50,DEFAULT,,0,0,0,,{\r}{\kf19}Let's{\kf19} just{\kf37} b{\kf19}e{\kf47} hap{\kf37}py{\kf19} that{\kf19} we're{\kf65} fam{\kf28}ily{\kf47} to{\kf298}nig{\kf37}h{\kf16}t
+Dialogue: 0,0:03:08.73,0:03:09.59,DEFAULT,,0,0,0,,{\r}{\kf24}...giving{\kf16} some{\kf16} big{\kf31} loving
+Dialogue: 0,0:03:09.88,0:03:11.39,DEFAULT,,0,0,0,,{\r}{\kf53}Sometimes{\kf18} it's{\kf18} hard{\kf18} to{\kf18} keep{\kf26} trucking
+Dialogue: 0,0:03:11.61,0:03:14.13,DEFAULT,,0,0,0,,{\r}{\kf10}But{\kf17} Sweet{\kf43} Apple{\kf52} Family{\kf26} don't{\kf17} ever{\kf35} stop{\kf17} for{\kf35} nothing
+Dialogue: 0,0:03:14.42,0:03:16.37,DEFAULT,,0,0,0,,{\r}{\kf59}Applejack,{\kf42} Apple Bloom,{\kf34} Big{\kf25} Mac{\kf35} bucking
+Dialogue: 0,0:03:16.66,0:03:18.68,DEFAULT,,0,0,0,,{\r}{\kf35}Granny{\kf26} Smith,{\kf44} too,{\kf26} giving{\kf18} some{\kf18} big{\kf35} loving
+Dialogue: 0,0:03:19.11,0:03:20.62,DEFAULT,,0,0,0,,{\r}{\kf53}Sometimes{\kf18} it's{\kf18} hard{\kf18} to{\kf18} keep{\kf26} trucking
+Dialogue: 0,0:03:20.84,0:03:23.37,DEFAULT,,0,0,0,,{\r}{\kf10}But{\kf17} Sweet{\kf43} Apple{\kf52} Family{\kf26} don't{\kf17} never{\kf35} stop{\kf17} for{\kf35} nothing
+Dialogue: 0,0:03:23.73,0:03:25.67,DEFAULT,,0,0,0,,{\r}{\kf59}Applejack,{\kf42} Apple Bloom,{\kf34} Big{\kf25} Mac{\kf35} bucking
+Dialogue: 0,0:03:25.96,0:03:27.98,DEFAULT,,0,0,0,,{\r}{\kf35}Granny{\kf26} Smith,{\kf44} too,{\kf26} giving{\kf18} some{\kf18} big{\kf35} loving
+Dialogue: 0,0:03:28.41,0:03:29.93,DEFAULT,,0,0,0,,{\r}{\kf53}Sometimes{\kf18} it's{\kf18} hard{\kf18} to{\kf18} keep{\kf26} trucking
+Dialogue: 0,0:03:30.14,0:03:32.67,DEFAULT,,0,0,0,,{\r}{\kf10}But{\kf17} Sweet{\kf43} Apple{\kf52} Family{\kf26} don't{\kf17} ever{\kf35} stop{\kf17} for{\kf35} nothing
+Dialogue: 0,0:03:32.96,0:03:34.90,DEFAULT,,0,0,0,,{\r}{\kf59}Applejack,{\kf42} Apple Bloom,{\kf34} Big{\kf25} Mac{\kf35} bucking
+Dialogue: 0,0:03:35.19,0:03:37.21,DEFAULT,,0,0,0,,{\r}{\kf35}Granny{\kf26} Smith,{\kf44} too,{\kf26} giving{\kf18} some{\kf18} big{\kf35} loving
+Dialogue: 0,0:03:37.64,0:03:39.16,DEFAULT,,0,0,0,,{\r}{\kf53}Sometimes{\kf18} it's{\kf18} hard{\kf18} to{\kf18} keep{\kf26} trucking
+Dialogue: 0,0:03:39.38,0:03:41.90,DEFAULT,,0,0,0,,{\r}{\kf10}But{\kf17} Sweet{\kf43} Apple{\kf52} Family{\kf26} don't{\kf17} never{\kf35} stop{\kf17} for{\kf35} nothing

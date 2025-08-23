@@ -1,78 +1,85 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Damit Twilight ihre Krone tragen kann
+Artist: Equestria Girls
+Original Timing: mylittlekaraoke.com by Gladanos
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:29.40,0:00:31.79,DEFAULT,,0,0,0,,{\kf39}Lasst{\kf39} euch{\kf20} et{\kf20}was{\kf33} sa{\kf33}gen
-Dialogue: 0,0:00:32.04,0:00:34.04,DEFAULT,,0,0,0,,{\kf20}Wir{\kf20} ha{\kf20}ben{\kf26} stets{\kf13} ge{\kf13}da{\kf26}cht
-Dialogue: 0,0:00:34.11,0:00:36.30,DEFAULT,,0,0,0,,{\kf20}Wir{\kf26} wärn'{\kf20} un{\kf20}ter{\kf26}schied{\kf20}lich
-Dialogue: 0,0:00:36.75,0:00:38.55,DEFAULT,,0,0,0,,{\kf13}Ja,{\kf13} so{\kf13} wie{\kf13} Tag{\kf20} und{\kf46} Nacht
-Dialogue: 0,0:00:39.07,0:00:41.07,DEFAULT,,0,0,0,,{\kf13}A{\kf7}ber{\kf13} schaut{\kf13} doch{\kf7} mal{\kf13} ge{\kf26}nau{\kf52} hi{\kf26}n
-Dialogue: 0,0:00:41.46,0:00:42.55,DEFAULT,,0,0,0,,{\kf26}Und{\kf20} ihr{\kf13} er{\kf26}kennt
-Dialogue: 0,0:00:42.94,0:00:45.19,DEFAULT,,0,0,0,,{\kf13}Dass{\kf20} uns{\kf33} viel{\kf52} ver{\kf26}bin{\kf26}det
-Dialogue: 0,0:00:45.26,0:00:47.19,DEFAULT,,0,0,0,,{\kf20}Und{\kf26} nur{\kf46} we{\kf26}nig{\kf26} uns{\kf20} trennt
-Dialogue: 0,0:00:47.77,0:00:48.16,DEFAULT,,0,0,0,,{\kf39}Yeah!
-Dialogue: 0,0:00:52.67,0:00:54.74,DEFAULT,,0,0,0,,{\kf33}Hört,{\kf33} was{\kf26} wir{\kf20} euch{\kf26} sa{\kf20}gen
-Dialogue: 0,0:00:55.06,0:00:56.03,DEFAULT,,0,0,0,,{\kf20}Und{\kf20} denkt{\kf20} da{\kf20}ran
-Dialogue: 0,0:00:56.35,0:00:58.35,DEFAULT,,0,0,0,,{\kf20}Auf{\kf20} das{\kf20} Wun{\kf20}der{\kf26} der{\kf26} Freund{\kf26}schaft
-Dialogue: 0,0:00:58.41,0:01:00.22,DEFAULT,,0,0,0,,{\kf20}Kommt{\kf26} es{\kf20} im{\kf20} Le{\kf20}ben{\kf33} an
-Dialogue: 0,0:01:00.41,0:01:02.47,DEFAULT,,0,0,0,,{\kf20}Ja,{\kf26} wir{\kf26} glaub{\kf20}ten,{\kf33} uns{\kf26} blie{\kf20}be
-Dialogue: 0,0:01:02.54,0:01:04.41,DEFAULT,,0,0,0,,{\kf26}Uns{\kf20}re{\kf20} Ei{\kf26}nig{\kf13}keit{\kf20} ver{\kf39}wehrt
-Dialogue: 0,0:01:04.60,0:01:06.60,DEFAULT,,0,0,0,,{\kf20}A{\kf20}ber{\kf33} Twi{\kf46}light{\kf20} hat{\kf26} uns
-Dialogue: 0,0:01:06.66,0:01:08.34,DEFAULT,,0,0,0,,{\kf20}Ei{\kf20}nes{\kf26} Bes{\kf20}ser{\kf20}en{\kf20} be{\kf26}lehrt
-Dialogue: 0,0:01:08.40,0:01:10.60,DEFAULT,,0,0,0,,{\kf20}Da{\kf33}rum{\kf46} schließt{\kf39} euch{\kf39} an
-Dialogue: 0,0:01:10.72,0:01:12.66,DEFAULT,,0,0,0,,{\kf20}Bes{\kf20}ser{\kf13} jetzt{\kf20} als{\kf26} ir{\kf26}gend{\kf39}wann
-Dialogue: 0,0:01:12.79,0:01:14.72,DEFAULT,,0,0,0,,{\kf20}Da{\kf20}mit{\kf39} Twi{\kf46}light{\kf20} bald{\kf20} schon
-Dialogue: 0,0:01:14.85,0:01:16.59,DEFAULT,,0,0,0,,{\kf20}Ih{\kf20}re{\kf20} Kro{\kf20}ne{\kf26} tra{\kf13}gen{\kf26} kann
-Dialogue: 0,0:01:16.66,0:01:18.78,DEFAULT,,0,0,0,,{\kf20}Da{\kf26}rum{\kf39} schließt{\kf39} euch{\kf39} an
-Dialogue: 0,0:01:18.85,0:01:20.78,DEFAULT,,0,0,0,,{\kf20}Je{\kf13}der{\kf20} steht{\kf20} hier{\kf26} se{\kf20}inen{\kf39} Mann
-Dialogue: 0,0:01:20.91,0:01:22.97,DEFAULT,,0,0,0,,{\kf20}Da{\kf20}mit{\kf33} un{\kf33}sere{\kf33} Twi{\kf20}light
-Dialogue: 0,0:01:23.04,0:01:25.29,DEFAULT,,0,0,0,,{\kf20}Bald{\kf20} schon{\kf20} ih{\kf20}re{\kf20} Kro{\kf20}ne{\kf26} tra{\kf20}gen{\kf20} kann
-Dialogue: 0,0:01:25.62,0:01:27.42,DEFAULT,,0,0,0,,{\kf20}Hän{\kf20}de{\kf26} hoch,{\kf26} klatscht{\kf20} doch{\kf26} mit
-Dialogue: 0,0:01:27.55,0:01:29.49,DEFAULT,,0,0,0,,{\kf7}Denn{\kf13} un{\kf13}se{\kf13}re{\kf20} Bot{\kf20}schaft{\kf20} ist{\kf20} der{\kf26} Hit
-Dialogue: 0,0:01:29.74,0:01:31.48,DEFAULT,,0,0,0,,{\kf20}Hän{\kf20}de{\kf26} hoch,{\kf26} macht's{\kf13} wie{\kf20} wir
-Dialogue: 0,0:01:31.68,0:01:33.55,DEFAULT,,0,0,0,,{\kf7}Dann{\kf13} fei{\kf7}ern{\kf13} wir{\kf13} ei{\kf13}ne{\kf20} Par{\kf20}ty{\kf26} hier
-Dialogue: 0,0:01:33.80,0:01:35.74,DEFAULT,,0,0,0,,{\kf20}Mit{\kf20}ge{\kf26}fühl,{\kf20} Ehr{\kf20}lich{\kf33}keit
-Dialogue: 0,0:01:35.87,0:01:37.80,DEFAULT,,0,0,0,,{\kf20}Freund{\kf26}lich{\kf20}keit,{\kf20} Ver{\kf20}läss{\kf20}lich{\kf39}keit
-Dialogue: 0,0:01:38.00,0:01:39.93,DEFAULT,,0,0,0,,{\kf20}Twi{\kf20}light{\kf13} kam{\kf20} zur{\kf20} rech{\kf20}ten{\kf26} Ze-{\kf20}it
-Dialogue: 0,0:01:39.99,0:01:41.22,DEFAULT,,0,0,0,,{\kf20}Jetzt{\kf20} sind{\kf20} wir{\kf20} be{\kf26}reit!
-Dialogue: 0,0:01:41.28,0:01:43.35,DEFAULT,,0,0,0,,{\kf20}Da{\kf33}rum{\kf39} schließt{\kf33} euch{\kf26} an
-Dialogue: 0,0:01:43.60,0:01:45.41,DEFAULT,,0,0,0,,{\kf20}Bes{\kf20}ser{\kf20} jetzt{\kf20} als{\kf26} ir{\kf26}gend{\kf26}wann
-Dialogue: 0,0:01:45.67,0:01:47.67,DEFAULT,,0,0,0,,{\kf20}Da{\kf20}mit{\kf33} Twi{\kf39}light{\kf26} bald{\kf20} schon
-Dialogue: 0,0:01:47.73,0:01:49.47,DEFAULT,,0,0,0,,{\kf26}Ih{\kf20}re{\kf20} Kro{\kf20}ne{\kf26} tra{\kf13}gen{\kf26} kann
-Dialogue: 0,0:01:49.53,0:01:51.53,DEFAULT,,0,0,0,,{\kf26}Da{\kf33}rum{\kf39} schließt{\kf39} euch{\kf26} an
-Dialogue: 0,0:01:51.79,0:01:53.66,DEFAULT,,0,0,0,,{\kf26}Je{\kf20}der{\kf20} steht{\kf13} hier{\kf26} sei{\kf20}nen{\kf33} Mann
-Dialogue: 0,0:01:53.92,0:01:55.85,DEFAULT,,0,0,0,,{\kf20}Da{\kf26}mit{\kf26} un{\kf33}sere{\kf26} Twi{\kf20}light
-Dialogue: 0,0:01:55.92,0:01:58.24,DEFAULT,,0,0,0,,{\kf20}Bald{\kf26} schon{\kf20} ih{\kf20}re{\kf26} Kro{\kf13}ne{\kf26} tra{\kf20}gen{\kf26} kann
-Dialogue: 0,0:01:58.75,0:02:00.56,DEFAULT,,0,0,0,,{\kf20}Ich{\kf20} bleib{\kf13} mir{\kf26} sel{\kf20}ber{\kf59} treu
-Dialogue: 0,0:02:00.82,0:02:02.62,DEFAULT,,0,0,0,,{\kf26}E{\kf20}gal{\kf20} was{\kf13} ich{\kf20} auch{\kf33} tu{\kf26}-u
-Dialogue: 0,0:02:02.88,0:02:05.07,DEFAULT,,0,0,0,,{\kf20}In{\kf20} je{\kf20}der{\kf26} Freund{\kf26}schaft{\kf20} gibt's{\kf20} Kon{\kf33}flik{\kf13}te
-Dialogue: 0,0:02:05.14,0:02:06.43,DEFAULT,,0,0,0,,{\kf26}Das{\kf20} ge{\kf20}hört{\kf20} da{\kf33}zu
-Dialogue: 0,0:02:06.94,0:02:10.81,DEFAULT,,0,0,0,,{\kf26}Wenn{\kf13} wir{\kf26} zu{\kf26}sam{\kf39}men{\kf20} den{\kf20} Weg{\kf20} mit{\kf20} viel{\kf26} Ver{\kf26}ständ{\kf20}nis{\kf26} ge{\kf26}hen
-Dialogue: 0,0:02:11.07,0:02:16.03,DEFAULT,,0,0,0,,{\kf20}Kann{\kf20} in{\kf13} der{\kf26} Schu{\kf26}le{\kf20} et{\kf20}was{\kf20} Wun{\kf26}der{\kf26}ba{\kf20}res{\kf20} neu{\kf20} ent{\kf162}stehen
-Dialogue: 0,0:02:16.48,0:02:19.00,DEFAULT,,0,0,0,,{\kf46}Springt{\kf26} auf,{\kf26} wer{\kf20}det{\kf46} laut!{\kf52} Hey!
-Dialogue: 0,0:02:19.06,0:02:20.93,DEFAULT,,0,0,0,,{\kf13}Ihr{\kf26} habt{\kf20} lan{\kf20}ge{\kf20} zu{\kf13}ge{\kf46}schaut
-Dialogue: 0,0:02:21.12,0:02:22.99,DEFAULT,,0,0,0,,{\kf26}Es{\kf33} gibt{\kf26} ei{\kf20}nen{\kf39} Weg
-Dialogue: 0,0:02:23.12,0:02:24.61,DEFAULT,,0,0,0,,{\kf20}Wenn{\kf20} man{\kf20} sich{\kf13} nur{\kf46} traut
-Dialogue: 0,0:02:24.74,0:02:27.18,DEFAULT,,0,0,0,,{\kf39}Springt{\kf26} auf,{\kf26} wer{\kf20}det{\kf46} laut!{\kf46} Hey!
-Dialogue: 0,0:02:27.31,0:02:29.12,DEFAULT,,0,0,0,,{\kf13}Ihr{\kf20} habt{\kf26} lan{\kf20}ge{\kf20} zu{\kf20}ge{\kf39}schaut
-Dialogue: 0,0:02:29.31,0:02:31.18,DEFAULT,,0,0,0,,{\kf20}Ih{\kf20}re{\kf20} Kro{\kf20}ne{\kf20} trägt{\kf20} sie{\kf39} gern
-Dialogue: 0,0:02:31.38,0:02:32.73,DEFAULT,,0,0,0,,{\kf20}Wenn{\kf20} man{\kf13} ihr{\kf20} ver{\kf39}traut
-Dialogue: 0,0:02:32.79,0:02:35.44,DEFAULT,,0,0,0,,{\kf59}Springt{\kf46} auf,{\kf26} wer{\kf20}det{\kf46} laut!{\kf46} Hey!
-Dialogue: 0,0:02:35.50,0:02:37.50,DEFAULT,,0,0,0,,{\kf20}Ihr{\kf20} habt{\kf20} lan{\kf20}ge{\kf26} zu{\kf13}ge{\kf52}schaut
-Dialogue: 0,0:02:37.56,0:02:39.50,DEFAULT,,0,0,0,,{\kf33}Es{\kf39} gibt{\kf20} ei{\kf20}nen{\kf46} Weg
-Dialogue: 0,0:02:39.63,0:02:40.98,DEFAULT,,0,0,0,,{\kf20}Wenn{\kf13} man{\kf20} sich{\kf20} nur{\kf39} traut
-Dialogue: 0,0:02:41.11,0:02:43.62,DEFAULT,,0,0,0,,{\kf39}Springt{\kf39} auf,{\kf33} wer{\kf20}det{\kf46} laut!{\kf46} Hey!
-Dialogue: 0,0:02:43.69,0:02:45.56,DEFAULT,,0,0,0,,{\kf20}Ihr{\kf20} habt{\kf20} lan{\kf13}ge{\kf26} zu{\kf13}ge{\kf46}schaut
-Dialogue: 0,0:02:45.69,0:02:47.62,DEFAULT,,0,0,0,,{\kf26}Ih{\kf20}re{\kf20} Kro{\kf20}ne{\kf26} trägt{\kf20} sie{\kf33} gern
-Dialogue: 0,0:02:47.81,0:02:49.10,DEFAULT,,0,0,0,,{\kf13}Wenn{\kf20} man{\kf20} ihr{\kf20} ver{\kf33}traut
-Dialogue: 0,0:02:49.23,0:02:51.81,DEFAULT,,0,0,0,,{\kf52}Springt{\kf46} auf,{\kf20} wer{\kf20}det{\kf46} laut!{\kf46} Hey!
-Dialogue: 0,0:02:51.88,0:02:53.81,DEFAULT,,0,0,0,,{\kf20}Ihr{\kf20} habt{\kf20} lan{\kf20}ge{\kf26} zu{\kf13}ge{\kf46}schaut
-Dialogue: 0,0:02:54.00,0:02:55.94,DEFAULT,,0,0,0,,{\kf26}Es{\kf39} gibt{\kf26} ei{\kf20}nen{\kf46} Weg
-Dialogue: 0,0:02:56.00,0:02:57.42,DEFAULT,,0,0,0,,{\kf20}Wenn{\kf20} man{\kf20} sich{\kf20} nur{\kf39} traut
+Dialogue: 0,0:00:29.41,0:00:31.79,DEFAULT,,0,0,0,,{\r}{\kf51}Lasst{\kf51} euch{\kf26} et{\kf26}was{\kf43} sa{\kf42}gen
+Dialogue: 0,0:00:32.05,0:00:34.05,DEFAULT,,0,0,0,,{\r}{\kf29}Wir{\kf29} ha{\kf29}ben{\kf38} stets{\kf19} ge{\kf19}da{\kf37}cht
+Dialogue: 0,0:00:34.11,0:00:36.30,DEFAULT,,0,0,0,,{\r}{\kf33}Wir{\kf44} wärn'{\kf33} un{\kf33}ter{\kf44}schied{\kf32}lich
+Dialogue: 0,0:00:36.75,0:00:38.56,DEFAULT,,0,0,0,,{\r}{\kf20}Ja,{\kf20} so{\kf20} wie{\kf20} Tag{\kf30} und{\kf71} Nacht
+Dialogue: 0,0:00:39.08,0:00:41.07,DEFAULT,,0,0,0,,{\r}{\kf15}A{\kf10}ber{\kf15} schaut{\kf15} doch{\kf10} mal{\kf15} ge{\kf31}nau{\kf62} hi{\kf27}n
+Dialogue: 0,0:00:41.46,0:00:42.56,DEFAULT,,0,0,0,,{\r}{\kf34}Und{\kf25} ihr{\kf17} er{\kf34}kennt
+Dialogue: 0,0:00:42.94,0:00:45.20,DEFAULT,,0,0,0,,{\r}{\kf17}Dass{\kf26} uns{\kf43} viel{\kf70} ver{\kf35}bin{\kf35}det
+Dialogue: 0,0:00:45.26,0:00:47.20,DEFAULT,,0,0,0,,{\r}{\kf23}Und{\kf31} nur{\kf54} we{\kf31}nig{\kf31} uns{\kf23} trennt
+Dialogue: 0,0:00:47.78,0:00:48.17,DEFAULT,,0,0,0,,{\r}{\kf39}Yeah!
+Dialogue: 0,0:00:52.68,0:00:54.74,DEFAULT,,0,0,0,,{\r}{\kf43}Hört,{\kf43} was{\kf34} wir{\kf26} euch{\kf34} sa{\kf26}gen
+Dialogue: 0,0:00:55.06,0:00:56.03,DEFAULT,,0,0,0,,{\r}{\kf24}Und{\kf24} denkt{\kf24} da{\kf25}ran
+Dialogue: 0,0:00:56.35,0:00:58.35,DEFAULT,,0,0,0,,{\r}{\kf25}Auf{\kf25} das{\kf25} Wun{\kf25}der{\kf33} der{\kf33} Freund{\kf34}schaft
+Dialogue: 0,0:00:58.42,0:01:00.22,DEFAULT,,0,0,0,,{\r}{\kf26}Kommt{\kf34} es{\kf26} im{\kf26} Le{\kf26}ben{\kf43} an
+Dialogue: 0,0:01:00.41,0:01:02.48,DEFAULT,,0,0,0,,{\r}{\kf24}Ja,{\kf32} wir{\kf32} glaub{\kf24}ten,{\kf40} uns{\kf32} blie{\kf22}be
+Dialogue: 0,0:01:02.54,0:01:04.41,DEFAULT,,0,0,0,,{\r}{\kf30}Uns{\kf22}re{\kf22} Ei{\kf30}nig{\kf15}keit{\kf22} ver{\kf46}wehrt
+Dialogue: 0,0:01:04.61,0:01:06.60,DEFAULT,,0,0,0,,{\r}{\kf24}A{\kf24}ber{\kf40} Twi{\kf56}light{\kf24} hat{\kf32} uns
+Dialogue: 0,0:01:06.67,0:01:08.34,DEFAULT,,0,0,0,,{\r}{\kf22}Ei{\kf22}nes{\kf29} Bes{\kf22}ser{\kf22}en{\kf22} be{\kf29}lehrt
+Dialogue: 0,0:01:08.41,0:01:10.60,DEFAULT,,0,0,0,,{\r}{\kf24}Da{\kf41}rum{\kf57} schließt{\kf49} euch{\kf48} an
+Dialogue: 0,0:01:10.73,0:01:12.66,DEFAULT,,0,0,0,,{\r}{\kf23}Bes{\kf23}ser{\kf15} jetzt{\kf23} als{\kf31} ir{\kf31}gend{\kf47}wann
+Dialogue: 0,0:01:12.79,0:01:14.73,DEFAULT,,0,0,0,,{\r}{\kf23}Da{\kf23}mit{\kf46} Twi{\kf54}light{\kf23} bald{\kf24} schon
+Dialogue: 0,0:01:14.86,0:01:16.60,DEFAULT,,0,0,0,,{\r}{\kf24}Ih{\kf24}re{\kf24} Kro{\kf24}ne{\kf32} tra{\kf16}gen{\kf30} kann
+Dialogue: 0,0:01:16.66,0:01:18.79,DEFAULT,,0,0,0,,{\r}{\kf26}Da{\kf34}rum{\kf51} schließt{\kf51} euch{\kf51} an
+Dialogue: 0,0:01:18.85,0:01:20.79,DEFAULT,,0,0,0,,{\r}{\kf24}Je{\kf16}der{\kf24} steht{\kf24} hier{\kf32} se{\kf24}inen{\kf49} Mann
+Dialogue: 0,0:01:20.92,0:01:22.98,DEFAULT,,0,0,0,,{\r}{\kf26}Da{\kf26}mit{\kf43} un{\kf43}sere{\kf43} Twi{\kf25}light
+Dialogue: 0,0:01:23.04,0:01:25.30,DEFAULT,,0,0,0,,{\r}{\kf24}Bald{\kf24} schon{\kf24} ih{\kf24}re{\kf24} Kro{\kf24}ne{\kf32} tra{\kf24}gen{\kf26} kann
+Dialogue: 0,0:01:25.62,0:01:27.43,DEFAULT,,0,0,0,,{\r}{\kf26}Hän{\kf26}de{\kf34} hoch,{\kf34} klatscht{\kf26} doch{\kf35} mit
+Dialogue: 0,0:01:27.56,0:01:29.49,DEFAULT,,0,0,0,,{\r}{\kf10}Denn{\kf17} un{\kf17}se{\kf17}re{\kf25} Bot{\kf25}schaft{\kf25} ist{\kf25} der{\kf32} Hit
+Dialogue: 0,0:01:29.75,0:01:31.49,DEFAULT,,0,0,0,,{\r}{\kf27}Hän{\kf27}de{\kf37} hoch,{\kf37} macht's{\kf18} wie{\kf28} wir
+Dialogue: 0,0:01:31.68,0:01:33.55,DEFAULT,,0,0,0,,{\r}{\kf10}Dann{\kf19} fei{\kf10}ern{\kf19} wir{\kf19} ei{\kf19}ne{\kf28} Par{\kf28}ty{\kf35} hier
+Dialogue: 0,0:01:33.81,0:01:35.74,DEFAULT,,0,0,0,,{\r}{\kf28}Mit{\kf28}ge{\kf37}fühl,{\kf28} Ehr{\kf28}lich{\kf44}keit
+Dialogue: 0,0:01:35.87,0:01:37.81,DEFAULT,,0,0,0,,{\r}{\kf23}Freund{\kf31}lich{\kf23}keit,{\kf23} Ver{\kf23}läss{\kf23}lich{\kf47}keit
+Dialogue: 0,0:01:38.00,0:01:39.93,DEFAULT,,0,0,0,,{\r}{\kf24}Twi{\kf24}light{\kf16} kam{\kf24} zur{\kf24} rech{\kf24}ten{\kf32} Ze-{\kf25}it
+Dialogue: 0,0:01:40.00,0:01:41.22,DEFAULT,,0,0,0,,{\r}{\kf23}Jetzt{\kf23} sind{\kf23} wir{\kf23} be{\kf30}reit!
+Dialogue: 0,0:01:41.29,0:01:43.35,DEFAULT,,0,0,0,,{\r}{\kf27}Da{\kf45}rum{\kf54} schließt{\kf45} euch{\kf35} an
+Dialogue: 0,0:01:43.61,0:01:45.41,DEFAULT,,0,0,0,,{\r}{\kf23}Bes{\kf23}ser{\kf23} jetzt{\kf23} als{\kf30} ir{\kf30}gend{\kf29}wann
+Dialogue: 0,0:01:45.67,0:01:47.67,DEFAULT,,0,0,0,,{\r}{\kf25}Da{\kf25}mit{\kf42} Twi{\kf50}light{\kf33} bald{\kf25} schon
+Dialogue: 0,0:01:47.73,0:01:49.48,DEFAULT,,0,0,0,,{\r}{\kf30}Ih{\kf23}re{\kf23} Kro{\kf23}ne{\kf30} tra{\kf15}gen{\kf30} kann
+Dialogue: 0,0:01:49.54,0:01:51.54,DEFAULT,,0,0,0,,{\r}{\kf32}Da{\kf40}rum{\kf48} schließt{\kf48} euch{\kf32} an
+Dialogue: 0,0:01:51.80,0:01:53.67,DEFAULT,,0,0,0,,{\r}{\kf31}Je{\kf23}der{\kf23} steht{\kf16} hier{\kf31} sei{\kf23}nen{\kf40} Mann
+Dialogue: 0,0:01:53.92,0:01:55.86,DEFAULT,,0,0,0,,{\r}{\kf25}Da{\kf34}mit{\kf34} un{\kf42}sere{\kf34} Twi{\kf24}light
+Dialogue: 0,0:01:55.92,0:01:58.24,DEFAULT,,0,0,0,,{\r}{\kf23}Bald{\kf31} schon{\kf23} ih{\kf23}re{\kf31} Kro{\kf15}ne{\kf31} tra{\kf23}gen{\kf32} kann
+Dialogue: 0,0:01:58.76,0:02:00.56,DEFAULT,,0,0,0,,{\r}{\kf23}Ich{\kf23} bleib{\kf15} mir{\kf30} sel{\kf23}ber{\kf67} treu
+Dialogue: 0,0:02:00.82,0:02:02.63,DEFAULT,,0,0,0,,{\r}{\kf30}E{\kf23}gal{\kf23} was{\kf15} ich{\kf23} auch{\kf38} tu{\kf29}-u
+Dialogue: 0,0:02:02.89,0:02:05.08,DEFAULT,,0,0,0,,{\r}{\kf22}In{\kf22} je{\kf22}der{\kf29} Freund{\kf29}schaft{\kf22} gibt's{\kf22} Kon{\kf36}flik{\kf15}te
+Dialogue: 0,0:02:05.14,0:02:06.43,DEFAULT,,0,0,0,,{\r}{\kf29}Das{\kf22} ge{\kf22}hört{\kf22} da{\kf34}zu
+Dialogue: 0,0:02:06.95,0:02:10.81,DEFAULT,,0,0,0,,{\r}{\kf30}Wenn{\kf15} wir{\kf30} zu{\kf30}sam{\kf46}men{\kf23} den{\kf23} Weg{\kf23} mit{\kf23} viel{\kf30} Ver{\kf30}ständ{\kf23}nis{\kf30} ge{\kf31}hen
+Dialogue: 0,0:02:11.07,0:02:16.04,DEFAULT,,0,0,0,,{\r}{\kf22}Kann{\kf22} in{\kf15} der{\kf30} Schu{\kf30}le{\kf22} et{\kf22}was{\kf22} Wun{\kf30}der{\kf30}ba{\kf22}res{\kf22} neu{\kf22} ent{\kf185}stehen
+Dialogue: 0,0:02:16.49,0:02:19.00,DEFAULT,,0,0,0,,{\r}{\kf53}Springt{\kf30} auf,{\kf30} wer{\kf23}det{\kf53} laut!{\kf62} Hey!
+Dialogue: 0,0:02:19.07,0:02:20.94,DEFAULT,,0,0,0,,{\r}{\kf16}Ihr{\kf31} habt{\kf23} lan{\kf23}ge{\kf23} zu{\kf16}ge{\kf55}schaut
+Dialogue: 0,0:02:21.13,0:02:23.00,DEFAULT,,0,0,0,,{\r}{\kf34}Es{\kf43} gibt{\kf34} ei{\kf26}nen{\kf50} Weg
+Dialogue: 0,0:02:23.13,0:02:24.61,DEFAULT,,0,0,0,,{\r}{\kf25}Wenn{\kf25} man{\kf25} sich{\kf16} nur{\kf57} traut
+Dialogue: 0,0:02:24.74,0:02:27.19,DEFAULT,,0,0,0,,{\r}{\kf47}Springt{\kf32} auf,{\kf32} wer{\kf24}det{\kf55} laut!{\kf55} Hey!
+Dialogue: 0,0:02:27.32,0:02:29.12,DEFAULT,,0,0,0,,{\r}{\kf15}Ihr{\kf23} habt{\kf30} lan{\kf23}ge{\kf23} zu{\kf23}ge{\kf44}schaut
+Dialogue: 0,0:02:29.32,0:02:31.19,DEFAULT,,0,0,0,,{\r}{\kf23}Ih{\kf23}re{\kf23} Kro{\kf23}ne{\kf23} trägt{\kf23} sie{\kf49} gern
+Dialogue: 0,0:02:31.38,0:02:32.73,DEFAULT,,0,0,0,,{\r}{\kf24}Wenn{\kf24} man{\kf16} ihr{\kf24} ver{\kf47}traut
+Dialogue: 0,0:02:32.80,0:02:35.44,DEFAULT,,0,0,0,,{\r}{\kf64}Springt{\kf50} auf,{\kf29} wer{\kf21}det{\kf50} laut!{\kf50} Hey!
+Dialogue: 0,0:02:35.51,0:02:37.50,DEFAULT,,0,0,0,,{\r}{\kf23}Ihr{\kf23} habt{\kf23} lan{\kf23}ge{\kf31} zu{\kf15}ge{\kf62}schaut
+Dialogue: 0,0:02:37.57,0:02:39.50,DEFAULT,,0,0,0,,{\r}{\kf40}Es{\kf48} gibt{\kf24} ei{\kf24}nen{\kf57} Weg
+Dialogue: 0,0:02:39.63,0:02:40.99,DEFAULT,,0,0,0,,{\r}{\kf24}Wenn{\kf16} man{\kf24} sich{\kf24} nur{\kf47} traut
+Dialogue: 0,0:02:41.12,0:02:43.63,DEFAULT,,0,0,0,,{\r}{\kf44}Springt{\kf44} auf,{\kf37} wer{\kf22}det{\kf52} laut!{\kf52} Hey!
+Dialogue: 0,0:02:43.69,0:02:45.56,DEFAULT,,0,0,0,,{\r}{\kf23}Ihr{\kf23} habt{\kf23} lan{\kf16}ge{\kf31} zu{\kf16}ge{\kf55}schaut
+Dialogue: 0,0:02:45.69,0:02:47.63,DEFAULT,,0,0,0,,{\r}{\kf31}Ih{\kf23}re{\kf23} Kro{\kf23}ne{\kf31} trägt{\kf23} sie{\kf39} gern
+Dialogue: 0,0:02:47.82,0:02:49.11,DEFAULT,,0,0,0,,{\r}{\kf16}Wenn{\kf24} man{\kf24} ihr{\kf24} ver{\kf41}traut
+Dialogue: 0,0:02:49.24,0:02:51.82,DEFAULT,,0,0,0,,{\r}{\kf59}Springt{\kf52} auf,{\kf22} wer{\kf22}det{\kf52} laut!{\kf51} Hey!
+Dialogue: 0,0:02:51.88,0:02:53.82,DEFAULT,,0,0,0,,{\r}{\kf23}Ihr{\kf23} habt{\kf23} lan{\kf23}ge{\kf31} zu{\kf15}ge{\kf55}schaut
+Dialogue: 0,0:02:54.01,0:02:55.94,DEFAULT,,0,0,0,,{\r}{\kf32}Es{\kf48} gibt{\kf32} ei{\kf24}nen{\kf57} Weg
+Dialogue: 0,0:02:56.01,0:02:57.43,DEFAULT,,0,0,0,,{\r}{\kf24}Wenn{\kf24} man{\kf24} sich{\kf24} nur{\kf46} traut

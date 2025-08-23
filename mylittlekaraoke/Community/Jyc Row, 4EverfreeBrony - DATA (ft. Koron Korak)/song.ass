@@ -1,68 +1,75 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: DATA (ft. Koron Korak)
+Artist: Jyc Row, 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by ShTHfan1
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:33.05,0:00:36.05,DEFAULT,,0,0,0,,{\kf83}In{\kf210}side
-Dialogue: 0,0:00:36.95,0:00:39.95,DEFAULT,,0,0,0,,{\kf98}My{\kf90} sys{\kf98}tem
-Dialogue: 0,0:00:41.00,0:00:44.00,DEFAULT,,0,0,0,,{\kf87}No{\kf203} sign
-Dialogue: 0,0:00:45.05,0:00:48.65,DEFAULT,,0,0,0,,{\kf75}Of{\kf38} mis{\kf53}com{\kf34}mu{\kf23}ni{\kf38}ca{\kf45}tion
-Dialogue: 0,0:00:48.95,0:00:51.95,DEFAULT,,0,0,0,,{\kf90}Per{\kf53}ha{\kf143}~ps
-Dialogue: 0,0:00:53.00,0:00:58.02,DEFAULT,,0,0,0,,{\kf83}An{\kf45} o{\kf38}ver{\kf23}rid{\kf42}den{\kf225} code
-Dialogue: 0,0:00:59.45,0:01:05.15,DEFAULT,,0,0,0,,{\kf45}A{\kf90} strange{\kf98} sen{\kf83}sa{\kf53}tio{\kf165}~n
-Dialogue: 0,0:01:05.82,0:01:08.97,DEFAULT,,0,0,0,,{\kf83}Speak{\kf60} how{\kf23} you{\kf128} will
-Dialogue: 0,0:01:09.95,0:01:13.40,DEFAULT,,0,0,0,,{\kf68}No{\kf68}thing{\kf23} to{\kf165} lose
-Dialogue: 0,0:01:13.92,0:01:20.97,DEFAULT,,0,0,0,,{\kf72}All{\kf57} of{\kf45} your{\kf60} words{\kf64} will{\kf38} be{\kf72} pro{\kf60}cessed{\kf150} through
-Dialogue: 0,0:01:21.95,0:01:25.32,DEFAULT,,0,0,0,,{\kf64}Go{\kf64} where{\kf23} you{\kf154} please
-Dialogue: 0,0:01:26.00,0:01:28.85,DEFAULT,,0,0,0,,{\kf68}Say{\kf68} what{\kf15} you{\kf113} want
-Dialogue: 0,0:01:29.45,0:01:32.90,DEFAULT,,0,0,0,,{\kf23}For{\kf15} I{\kf23} can{\kf38}not{\kf68} feel{\kf15} a{\kf117} thing
-Dialogue: 0,0:01:33.50,0:01:36.65,DEFAULT,,0,0,0,,{\kf38}Or{\kf75} so{\kf60} I{\kf120} thought
-Dialogue: 0,0:01:38.00,0:01:41.75,DEFAULT,,0,0,0,,{\kf68}Ooh{\kf68} ooh{\kf45} ooh{\kf173} ooh
-Dialogue: 0,0:01:41.97,0:01:45.65,DEFAULT,,0,0,0,,{\kf75}Oh{\kf68} oh{\kf38} oh{\kf165} oh
-Dialogue: 0,0:01:45.95,0:01:49.55,DEFAULT,,0,0,0,,{\kf75}Ah{\kf68} ah{\kf45} ah{\kf150} ah
-Dialogue: 0,0:01:50.00,0:01:53.45,DEFAULT,,0,0,0,,{\kf68}Aah{\kf68} aah{\kf45} aah{\kf143} aah
-Dialogue: 0,0:01:54.05,0:01:57.57,DEFAULT,,0,0,0,,{\kf68}Ooh{\kf60} ooh{\kf45} ooh{\kf158} ooh
-Dialogue: 0,0:01:57.95,0:02:01.55,DEFAULT,,0,0,0,,{\kf75}Oh{\kf68} oh{\kf38} oh{\kf23} oh{\kf15} oh{\kf105} oh
-Dialogue: 0,0:02:02.00,0:02:08.00,DEFAULT,,0,0,0,,{\kf68}Aah{\kf60} aah{\kf45} aah{\kf102} ah{\kf87} ah{\kf195} ah
-Dialogue: 0,0:02:40.85,0:02:43.55,DEFAULT,,0,0,0,,{\kf98}Scans{\kf165} read
-Dialogue: 0,0:02:44.97,0:02:48.05,DEFAULT,,0,0,0,,{\kf90}No{\kf94} da{\kf113}mage
-Dialogue: 0,0:02:48.95,0:02:51.95,DEFAULT,,0,0,0,,{\kf90}And{\kf203} yet
-Dialogue: 0,0:02:53.00,0:02:56.45,DEFAULT,,0,0,0,,{\kf83}I'm{\kf23} some{\kf45}how{\kf45} torn{\kf38} a{\kf75}part
-Dialogue: 0,0:02:56.90,0:02:59.90,DEFAULT,,0,0,0,,{\kf98}Those{\kf195} words
-Dialogue: 0,0:03:00.95,0:03:04.70,DEFAULT,,0,0,0,,{\kf90}Are{\kf23} no{\kf45}thing{\kf38} more{\kf38} than{\kf53} da{\kf45}ta
-Dialogue: 0,0:03:05.90,0:03:11.75,DEFAULT,,0,0,0,,{\kf23}No{\kf45}thing{\kf45} more{\kf38} than{\kf45} da{\kf75}ta{\kf98}~{\kf165}~
-Dialogue: 0,0:03:13.85,0:03:17.00,DEFAULT,,0,0,0,,{\kf83}Speak{\kf60} how{\kf23} you{\kf128} will
-Dialogue: 0,0:03:17.97,0:03:21.42,DEFAULT,,0,0,0,,{\kf68}No{\kf68}thing{\kf23} to{\kf165} lose
-Dialogue: 0,0:03:21.95,0:03:29.00,DEFAULT,,0,0,0,,{\kf75}All{\kf60} of{\kf45} your{\kf68} words{\kf68} will{\kf38} be{\kf75} pro{\kf68}cessed{\kf150} through
-Dialogue: 0,0:03:29.97,0:03:33.35,DEFAULT,,0,0,0,,{\kf68}Go{\kf68} where{\kf23} you{\kf158} please
-Dialogue: 0,0:03:34.02,0:03:36.87,DEFAULT,,0,0,0,,{\kf68}Say{\kf68} what{\kf15} you{\kf113} want
-Dialogue: 0,0:03:37.47,0:03:40.92,DEFAULT,,0,0,0,,{\kf23}For{\kf15} I{\kf23} can{\kf38}not{\kf68} feel{\kf15} a{\kf120} thing
-Dialogue: 0,0:03:41.52,0:03:44.67,DEFAULT,,0,0,0,,{\kf38}Or{\kf75} so{\kf60} I{\kf120} thought
-Dialogue: 0,0:03:45.95,0:03:48.80,DEFAULT,,0,0,0,,{\kf68}Don't{\kf68} cast{\kf23} me{\kf105} out
-Dialogue: 0,0:03:50.00,0:03:52.55,DEFAULT,,0,0,0,,{\kf68}Don't{\kf60} shut{\kf23} me{\kf83} down
-Dialogue: 0,0:03:53.67,0:03:56.30,DEFAULT,,0,0,0,,{\kf23}I{\kf15} pro{\kf38}mise{\kf45} I'd{\kf45} be{\kf23} so{\kf30}rry
-Dialogue: 0,0:03:56.90,0:04:00.35,DEFAULT,,0,0,0,,{\kf23}If{\kf68} I{\kf38} could{\kf23} do{\kf45} more{\kf38} than{\kf68} count
-Dialogue: 0,0:04:01.92,0:04:05.00,DEFAULT,,0,0,0,,{\kf45}Wires{\kf15} on{\kf23}ly{\kf23} un{\kf30}der{\kf135}stand
-Dialogue: 0,0:04:05.67,0:04:08.90,DEFAULT,,0,0,0,,{\kf23}The{\kf60} code{\kf23} of{\kf38} its{\kf23} com{\kf120}mand
-Dialogue: 0,0:04:09.65,0:04:12.20,DEFAULT,,0,0,0,,{\kf15}But{\kf30} some{\kf38}how{\kf38} I{\kf45} can{\kf53} tell
-Dialogue: 0,0:04:12.57,0:04:16.85,DEFAULT,,0,0,0,,{\kf15}That{\kf53} you{\kf42} still{\kf30} love{\kf38} me{\kf45} how{\kf23} I{\kf23}~{\kf105} am
-Dialogue: 0,0:04:17.97,0:04:20.97,DEFAULT,,0,0,0,,{\kf68}Speak{\kf57} how{\kf23} you{\kf117} will
-Dialogue: 0,0:04:21.95,0:04:25.40,DEFAULT,,0,0,0,,{\kf68}No{\kf68}thing{\kf23} to{\kf165} lose
-Dialogue: 0,0:04:25.92,0:04:32.97,DEFAULT,,0,0,0,,{\kf75}All{\kf60} of{\kf45} your{\kf68} words{\kf68} will{\kf38} be{\kf75} pro{\kf68}cessed{\kf150} through
-Dialogue: 0,0:04:33.95,0:04:37.32,DEFAULT,,0,0,0,,{\kf68}Go{\kf68} where{\kf23} you{\kf158} please
-Dialogue: 0,0:04:38.00,0:04:40.85,DEFAULT,,0,0,0,,{\kf68}Say{\kf68} what{\kf15} you{\kf113} want
-Dialogue: 0,0:04:41.45,0:04:44.90,DEFAULT,,0,0,0,,{\kf23}For{\kf15} I{\kf23} can{\kf38}not{\kf64} feel{\kf15} a{\kf109} thing
-Dialogue: 0,0:04:45.50,0:04:48.65,DEFAULT,,0,0,0,,{\kf38}Or{\kf68} so{\kf49} I{\kf113} thought
-Dialogue: 0,0:04:50.00,0:04:53.75,DEFAULT,,0,0,0,,{\kf68}Ooh{\kf68} ooh{\kf45} ooh{\kf173} ooh
-Dialogue: 0,0:04:53.97,0:04:57.65,DEFAULT,,0,0,0,,{\kf75}Oh{\kf68} oh{\kf38} oh{\kf165} oh
-Dialogue: 0,0:04:57.95,0:05:01.55,DEFAULT,,0,0,0,,{\kf72}Ah{\kf64} ah{\kf42} ah{\kf150} ah
-Dialogue: 0,0:05:02.00,0:05:05.45,DEFAULT,,0,0,0,,{\kf68}Aah{\kf68} aah{\kf45} aah{\kf139} aah
-Dialogue: 0,0:05:06.05,0:05:09.57,DEFAULT,,0,0,0,,{\kf68}Ooh{\kf60} ooh{\kf45} ooh{\kf158} ooh
-Dialogue: 0,0:05:09.95,0:05:13.55,DEFAULT,,0,0,0,,{\kf75}Oh{\kf68} oh{\kf38} oh{\kf23} oh{\kf15} oh{\kf105} oh
-Dialogue: 0,0:05:14.00,0:05:20.00,DEFAULT,,0,0,0,,{\kf68}Aah{\kf60} aah{\kf45} aah{\kf102} ah{\kf90} ah{\kf192} ah
+Dialogue: 0,0:00:33.05,0:00:36.05,DEFAULT,,0,0,0,,{\r}{\kf85}In{\kf215}side
+Dialogue: 0,0:00:36.95,0:00:39.95,DEFAULT,,0,0,0,,{\r}{\kf103}My{\kf95} sys{\kf102}tem
+Dialogue: 0,0:00:41.00,0:00:44.00,DEFAULT,,0,0,0,,{\r}{\kf90}No{\kf210} sign
+Dialogue: 0,0:00:45.05,0:00:48.65,DEFAULT,,0,0,0,,{\r}{\kf89}Of{\kf44} mis{\kf62}com{\kf40}mu{\kf27}ni{\kf44}ca{\kf54}tion
+Dialogue: 0,0:00:48.95,0:00:51.95,DEFAULT,,0,0,0,,{\r}{\kf95}Per{\kf55}ha{\kf150}~ps
+Dialogue: 0,0:00:53.00,0:00:58.02,DEFAULT,,0,0,0,,{\r}{\kf91}An{\kf50} o{\kf41}ver{\kf25}rid{\kf46}den{\kf249} code
+Dialogue: 0,0:00:59.45,0:01:05.15,DEFAULT,,0,0,0,,{\r}{\kf48}A{\kf96} strange{\kf104} sen{\kf88}sa{\kf56}tio{\kf178}~n
+Dialogue: 0,0:01:05.83,0:01:08.97,DEFAULT,,0,0,0,,{\r}{\kf89}Speak{\kf65} how{\kf24} you{\kf137} will
+Dialogue: 0,0:01:09.95,0:01:13.40,DEFAULT,,0,0,0,,{\r}{\kf72}No{\kf72}thing{\kf24} to{\kf177} lose
+Dialogue: 0,0:01:13.92,0:01:20.97,DEFAULT,,0,0,0,,{\r}{\kf82}All{\kf64} of{\kf52} your{\kf69} words{\kf73} will{\kf43} be{\kf82} pro{\kf69}cessed{\kf171} through
+Dialogue: 0,0:01:21.95,0:01:25.33,DEFAULT,,0,0,0,,{\r}{\kf71}Go{\kf71} where{\kf25} you{\kf171} please
+Dialogue: 0,0:01:26.00,0:01:28.85,DEFAULT,,0,0,0,,{\r}{\kf73}Say{\kf73} what{\kf16} you{\kf123} want
+Dialogue: 0,0:01:29.45,0:01:32.90,DEFAULT,,0,0,0,,{\r}{\kf26}For{\kf17} I{\kf26} can{\kf44}not{\kf79} feel{\kf17} a{\kf136} thing
+Dialogue: 0,0:01:33.50,0:01:36.65,DEFAULT,,0,0,0,,{\r}{\kf40}Or{\kf81} so{\kf65} I{\kf129} thought
+Dialogue: 0,0:01:38.00,0:01:41.75,DEFAULT,,0,0,0,,{\r}{\kf72}Ooh{\kf72} ooh{\kf48} ooh{\kf183} ooh
+Dialogue: 0,0:01:41.97,0:01:45.65,DEFAULT,,0,0,0,,{\r}{\kf80}Oh{\kf72} oh{\kf40} oh{\kf176} oh
+Dialogue: 0,0:01:45.95,0:01:49.55,DEFAULT,,0,0,0,,{\r}{\kf80}Ah{\kf72} ah{\kf48} ah{\kf160} ah
+Dialogue: 0,0:01:50.00,0:01:53.45,DEFAULT,,0,0,0,,{\r}{\kf72}Aah{\kf72} aah{\kf48} aah{\kf153} aah
+Dialogue: 0,0:01:54.05,0:01:57.58,DEFAULT,,0,0,0,,{\r}{\kf72}Ooh{\kf64} ooh{\kf48} ooh{\kf169} ooh
+Dialogue: 0,0:01:57.95,0:02:01.55,DEFAULT,,0,0,0,,{\r}{\kf84}Oh{\kf75} oh{\kf42} oh{\kf25} oh{\kf17} oh{\kf117} oh
+Dialogue: 0,0:02:02.00,0:02:08.00,DEFAULT,,0,0,0,,{\r}{\kf73}Aah{\kf65} aah{\kf49} aah{\kf109} ah{\kf93} ah{\kf211} ah
+Dialogue: 0,0:02:40.85,0:02:43.55,DEFAULT,,0,0,0,,{\r}{\kf100}Scans{\kf170} read
+Dialogue: 0,0:02:44.97,0:02:48.05,DEFAULT,,0,0,0,,{\r}{\kf93}No{\kf97} da{\kf117}mage
+Dialogue: 0,0:02:48.95,0:02:51.95,DEFAULT,,0,0,0,,{\r}{\kf92}And{\kf208} yet
+Dialogue: 0,0:02:53.00,0:02:56.45,DEFAULT,,0,0,0,,{\r}{\kf93}I'm{\kf25} some{\kf50}how{\kf50} torn{\kf42} a{\kf85}part
+Dialogue: 0,0:02:56.90,0:02:59.90,DEFAULT,,0,0,0,,{\r}{\kf100}Those{\kf200} words
+Dialogue: 0,0:03:00.95,0:03:04.70,DEFAULT,,0,0,0,,{\r}{\kf102}Are{\kf26} no{\kf51}thing{\kf43} more{\kf43} than{\kf60} da{\kf50}ta
+Dialogue: 0,0:03:05.90,0:03:11.75,DEFAULT,,0,0,0,,{\r}{\kf25}No{\kf49}thing{\kf49} more{\kf41} than{\kf49} da{\kf82}ta{\kf107}~{\kf183}~
+Dialogue: 0,0:03:13.85,0:03:17.00,DEFAULT,,0,0,0,,{\r}{\kf89}Speak{\kf65} how{\kf24} you{\kf137} will
+Dialogue: 0,0:03:17.97,0:03:21.43,DEFAULT,,0,0,0,,{\r}{\kf72}No{\kf72}thing{\kf24} to{\kf177} lose
+Dialogue: 0,0:03:21.95,0:03:29.00,DEFAULT,,0,0,0,,{\r}{\kf82}All{\kf66} of{\kf49} your{\kf74} words{\kf74} will{\kf41} be{\kf82} pro{\kf74}cessed{\kf163} through
+Dialogue: 0,0:03:29.97,0:03:33.35,DEFAULT,,0,0,0,,{\r}{\kf72}Go{\kf72} where{\kf24} you{\kf169} please
+Dialogue: 0,0:03:34.03,0:03:36.88,DEFAULT,,0,0,0,,{\r}{\kf73}Say{\kf73} what{\kf16} you{\kf123} want
+Dialogue: 0,0:03:37.47,0:03:40.93,DEFAULT,,0,0,0,,{\r}{\kf26}For{\kf17} I{\kf26} can{\kf43}not{\kf78} feel{\kf17} a{\kf138} thing
+Dialogue: 0,0:03:41.53,0:03:44.68,DEFAULT,,0,0,0,,{\r}{\kf40}Or{\kf81} so{\kf65} I{\kf129} thought
+Dialogue: 0,0:03:45.95,0:03:48.80,DEFAULT,,0,0,0,,{\r}{\kf73}Don't{\kf73} cast{\kf24} me{\kf115} out
+Dialogue: 0,0:03:50.00,0:03:52.55,DEFAULT,,0,0,0,,{\r}{\kf74}Don't{\kf66} shut{\kf25} me{\kf90} down
+Dialogue: 0,0:03:53.68,0:03:56.30,DEFAULT,,0,0,0,,{\r}{\kf27}I{\kf18} pro{\kf45}mise{\kf54} I'd{\kf54} be{\kf27} so{\kf37}rry
+Dialogue: 0,0:03:56.90,0:04:00.35,DEFAULT,,0,0,0,,{\r}{\kf26}If{\kf78} I{\kf43} could{\kf26} do{\kf52} more{\kf43} than{\kf77} count
+Dialogue: 0,0:04:01.93,0:04:05.00,DEFAULT,,0,0,0,,{\r}{\kf51}Wires{\kf17} on{\kf26}ly{\kf26} un{\kf34}der{\kf153}stand
+Dialogue: 0,0:04:05.68,0:04:08.90,DEFAULT,,0,0,0,,{\r}{\kf25}The{\kf68} code{\kf25} of{\kf42} its{\kf25} com{\kf137}mand
+Dialogue: 0,0:04:09.65,0:04:12.20,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf35} some{\kf44}how{\kf44} I{\kf53} can{\kf61} tell
+Dialogue: 0,0:04:12.57,0:04:16.85,DEFAULT,,0,0,0,,{\r}{\kf17}That{\kf61} you{\kf48} still{\kf35} love{\kf43} me{\kf52} how{\kf26} I{\kf26}~{\kf120} am
+Dialogue: 0,0:04:17.98,0:04:20.98,DEFAULT,,0,0,0,,{\r}{\kf77}Speak{\kf64} how{\kf26} you{\kf133} will
+Dialogue: 0,0:04:21.95,0:04:25.40,DEFAULT,,0,0,0,,{\r}{\kf72}No{\kf72}thing{\kf24} to{\kf177} lose
+Dialogue: 0,0:04:25.93,0:04:32.98,DEFAULT,,0,0,0,,{\r}{\kf82}All{\kf66} of{\kf49} your{\kf74} words{\kf74} will{\kf41} be{\kf82} pro{\kf74}cessed{\kf163} through
+Dialogue: 0,0:04:33.95,0:04:37.32,DEFAULT,,0,0,0,,{\r}{\kf72}Go{\kf72} where{\kf24} you{\kf170} please
+Dialogue: 0,0:04:38.00,0:04:40.85,DEFAULT,,0,0,0,,{\r}{\kf73}Say{\kf73} what{\kf16} you{\kf123} want
+Dialogue: 0,0:04:41.45,0:04:44.90,DEFAULT,,0,0,0,,{\r}{\kf27}For{\kf18} I{\kf27} can{\kf45}not{\kf77} feel{\kf18} a{\kf133} thing
+Dialogue: 0,0:04:45.50,0:04:48.65,DEFAULT,,0,0,0,,{\r}{\kf44}Or{\kf80} so{\kf58} I{\kf133} thought
+Dialogue: 0,0:04:50.00,0:04:53.75,DEFAULT,,0,0,0,,{\r}{\kf72}Ooh{\kf72} ooh{\kf48} ooh{\kf183} ooh
+Dialogue: 0,0:04:53.98,0:04:57.65,DEFAULT,,0,0,0,,{\r}{\kf80}Oh{\kf72} oh{\kf40} oh{\kf175} oh
+Dialogue: 0,0:04:57.95,0:05:01.55,DEFAULT,,0,0,0,,{\r}{\kf79}Ah{\kf70} ah{\kf46} ah{\kf165} ah
+Dialogue: 0,0:05:02.00,0:05:05.45,DEFAULT,,0,0,0,,{\r}{\kf73}Aah{\kf73} aah{\kf49} aah{\kf150} aah
+Dialogue: 0,0:05:06.05,0:05:09.57,DEFAULT,,0,0,0,,{\r}{\kf72}Ooh{\kf64} ooh{\kf48} ooh{\kf168} ooh
+Dialogue: 0,0:05:09.95,0:05:13.55,DEFAULT,,0,0,0,,{\r}{\kf84}Oh{\kf75} oh{\kf42} oh{\kf25} oh{\kf17} oh{\kf117} oh
+Dialogue: 0,0:05:14.00,0:05:20.00,DEFAULT,,0,0,0,,{\r}{\kf73}Aah{\kf65} aah{\kf49} aah{\kf109} ah{\kf97} ah{\kf207} ah

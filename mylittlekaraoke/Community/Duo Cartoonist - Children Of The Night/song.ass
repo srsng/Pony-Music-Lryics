@@ -1,43 +1,50 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Children of the Night
+Artist: Duo Cartoonist, Kate Covington
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.23,0:00:09.78,DEFAULT,,0,0,0,,{\kf45}Come{\kf38} lit{\kf34}tle{\kf45} child{\kf53}ren
-Dialogue: 0,0:00:10.01,0:00:12.63,DEFAULT,,0,0,0,,{\kf19}I'll{\kf75} take{\kf23} thee{\kf23} a{\kf87}way
-Dialogue: 0,0:00:13.34,0:00:15.56,DEFAULT,,0,0,0,,{\kf64}In{\kf23}to{\kf23} a{\kf83} land
-Dialogue: 0,0:00:15.63,0:00:18.48,DEFAULT,,0,0,0,,{\kf19}Of{\kf27} en{\kf128}chant{\kf79}ment
-Dialogue: 0,0:00:19.34,0:00:21.86,DEFAULT,,0,0,0,,{\kf53}Come{\kf27} lit{\kf27}tle{\kf45} child{\kf53}ren
-Dialogue: 0,0:00:22.04,0:00:24.48,DEFAULT,,0,0,0,,{\kf15}The{\kf53} time's{\kf53} come{\kf12} to{\kf75} play
-Dialogue: 0,0:00:25.31,0:00:27.89,DEFAULT,,0,0,0,,{\kf57}Here{\kf27} in{\kf38} my{\kf15}-y{\kf72} gar{\kf30}den
-Dialogue: 0,0:00:28.04,0:00:34.76,DEFAULT,,0,0,0,,{\kf19}Of{\kf113} sha{\kf12}-a{\kf19}-a{\kf492}dows
-Dialogue: 0,0:00:35.88,0:00:38.28,DEFAULT,,0,0,0,,{\kf42}Fol{\kf27}low{\kf42} sweet{\kf49} child{\kf42}ren
-Dialogue: 0,0:00:38.54,0:00:41.06,DEFAULT,,0,0,0,,{\kf15}I'll{\kf49} show{\kf53} thee{\kf15} the{\kf72} way
-Dialogue: 0,0:00:41.84,0:00:43.91,DEFAULT,,0,0,0,,{\kf53}Through{\kf42} all{\kf30} the{\kf60} pain
-Dialogue: 0,0:00:44.13,0:00:47.32,DEFAULT,,0,0,0,,{\kf23}And{\kf27} the{\kf135} sor{\kf98}rows
-Dialogue: 0,0:00:47.73,0:00:50.36,DEFAULT,,0,0,0,,{\kf45}Weep{\kf30} not{\kf38} poor{\kf53} child{\kf42}ren
-Dialogue: 0,0:00:50.62,0:00:53.36,DEFAULT,,0,0,0,,{\kf19}For{\kf49} life{\kf49} is{\kf27} this{\kf87} way
-Dialogue: 0,0:00:53.88,0:00:56.43,DEFAULT,,0,0,0,,{\kf57}Mur{\kf30}de{\kf38}ring{\kf60} beau{\kf30}ty
-Dialogue: 0,0:00:56.51,0:01:02.43,DEFAULT,,0,0,0,,{\kf23}A{\kf19}-nd{\kf105} pa{\kf12}-a{\kf15}-a{\kf398}ssions
-Dialogue: 0,0:01:04.42,0:01:06.93,DEFAULT,,0,0,0,,{\kf27}Hush{\kf42} now{\kf42} dear{\kf45} child{\kf45}ren
-Dialogue: 0,0:01:07.16,0:01:09.71,DEFAULT,,0,0,0,,{\kf15}It{\kf45} must{\kf60} be{\kf23} this{\kf60} way
-Dialogue: 0,0:01:10.16,0:01:12.44,DEFAULT,,0,0,0,,{\kf19}To{\kf42} wea{\kf38}ry{\kf30} of{\kf57} life
-Dialogue: 0,0:01:12.71,0:01:15.93,DEFAULT,,0,0,0,,{\kf27}And{\kf19} de{\kf124}cep{\kf98}tions
-Dialogue: 0,0:01:16.46,0:01:19.01,DEFAULT,,0,0,0,,{\kf38}Rest{\kf42} now{\kf34} my{\kf45} child{\kf53}ren
-Dialogue: 0,0:01:19.19,0:01:21.63,DEFAULT,,0,0,0,,{\kf19}For{\kf53} soon{\kf42} we'{\kf23}re{\kf19} a{\kf60}way
-Dialogue: 0,0:01:22.53,0:01:24.52,DEFAULT,,0,0,0,,{\kf42}In{\kf45}to{\kf23} the{\kf60} calm
-Dialogue: 0,0:01:24.86,0:01:28.61,DEFAULT,,0,0,0,,{\kf19}And{\kf27} the{\kf124} qui{\kf12}-i{\kf15}-i{\kf169}et
-Dialogue: 0,0:02:07.76,0:02:10.23,DEFAULT,,0,0,0,,{\kf38}Come{\kf42} lit{\kf34}tle{\kf49} child{\kf45}ren
-Dialogue: 0,0:02:10.46,0:02:12.86,DEFAULT,,0,0,0,,{\kf23}I'll{\kf72} take{\kf19} thee{\kf23} a{\kf83}way
-Dialogue: 0,0:02:13.68,0:02:15.78,DEFAULT,,0,0,0,,{\kf79}In{\kf19}to{\kf19} a{\kf68} land
-Dialogue: 0,0:02:15.97,0:02:19.08,DEFAULT,,0,0,0,,{\kf27}Of{\kf30} en{\kf143}chant{\kf94}ment
-Dialogue: 0,0:02:19.64,0:02:22.23,DEFAULT,,0,0,0,,{\kf57}Come{\kf38} lit{\kf34}tle{\kf45} child{\kf49}ren
-Dialogue: 0,0:02:22.46,0:02:25.16,DEFAULT,,0,0,0,,{\kf19}The{\kf53} time's{\kf53} co{\kf12}-ome{\kf15} to{\kf90} play
-Dialogue: 0,0:02:25.64,0:02:28.46,DEFAULT,,0,0,0,,{\kf53}Here{\kf30} in{\kf34} my{\kf23}-y{\kf75} gar{\kf34}den
-Dialogue: 0,0:02:28.57,0:02:38.21,DEFAULT,,0,0,0,,{\kf19}Of{\kf180} sha{\kf169}-a{\kf23}-a{\kf537}dows
+Dialogue: 0,0:00:07.24,0:00:09.79,DEFAULT,,0,0,0,,{\r}{\kf54}Come{\kf45} lit{\kf40}tle{\kf54} child{\kf62}ren
+Dialogue: 0,0:00:10.01,0:00:12.64,DEFAULT,,0,0,0,,{\r}{\kf22}I'll{\kf87} take{\kf26} thee{\kf26} a{\kf101}way
+Dialogue: 0,0:00:13.35,0:00:15.56,DEFAULT,,0,0,0,,{\r}{\kf74}In{\kf26}to{\kf26} a{\kf95} land
+Dialogue: 0,0:00:15.64,0:00:18.49,DEFAULT,,0,0,0,,{\r}{\kf21}Of{\kf30} en{\kf145}chant{\kf89}ment
+Dialogue: 0,0:00:19.35,0:00:21.86,DEFAULT,,0,0,0,,{\r}{\kf65}Come{\kf33} lit{\kf33}tle{\kf56} child{\kf64}ren
+Dialogue: 0,0:00:22.05,0:00:24.49,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf62} time's{\kf62} come{\kf13} to{\kf89} play
+Dialogue: 0,0:00:25.31,0:00:27.90,DEFAULT,,0,0,0,,{\r}{\kf62}Here{\kf29} in{\kf41} my{\kf16}-y{\kf78} gar{\kf33}den
+Dialogue: 0,0:00:28.05,0:00:34.76,DEFAULT,,0,0,0,,{\r}{\kf19}Of{\kf116} sha{\kf12}-a{\kf19}-a{\kf505}dows
+Dialogue: 0,0:00:35.89,0:00:38.29,DEFAULT,,0,0,0,,{\r}{\kf50}Fol{\kf32}low{\kf50} sweet{\kf59} child{\kf49}ren
+Dialogue: 0,0:00:38.55,0:00:41.06,DEFAULT,,0,0,0,,{\r}{\kf19}I'll{\kf60} show{\kf65} thee{\kf19} the{\kf88} way
+Dialogue: 0,0:00:41.85,0:00:43.91,DEFAULT,,0,0,0,,{\r}{\kf59}Through{\kf46} all{\kf34} the{\kf67} pain
+Dialogue: 0,0:00:44.14,0:00:47.32,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf30} the{\kf153} sor{\kf110}rows
+Dialogue: 0,0:00:47.74,0:00:50.36,DEFAULT,,0,0,0,,{\r}{\kf57}Weep{\kf38} not{\kf48} poor{\kf67} child{\kf52}ren
+Dialogue: 0,0:00:50.62,0:00:53.36,DEFAULT,,0,0,0,,{\r}{\kf22}For{\kf58} life{\kf58} is{\kf31} this{\kf105} way
+Dialogue: 0,0:00:53.89,0:00:56.44,DEFAULT,,0,0,0,,{\r}{\kf67}Mur{\kf36}de{\kf45}ring{\kf72} beau{\kf35}ty
+Dialogue: 0,0:00:56.51,0:01:02.44,DEFAULT,,0,0,0,,{\r}{\kf23}A{\kf20}-nd{\kf109} pa{\kf12}-a{\kf16}-a{\kf413}ssions
+Dialogue: 0,0:01:04.42,0:01:06.94,DEFAULT,,0,0,0,,{\r}{\kf33}Hush{\kf52} now{\kf52} dear{\kf57} child{\kf57}ren
+Dialogue: 0,0:01:07.16,0:01:09.71,DEFAULT,,0,0,0,,{\r}{\kf19}It{\kf57} must{\kf76} be{\kf28} this{\kf75} way
+Dialogue: 0,0:01:10.16,0:01:12.45,DEFAULT,,0,0,0,,{\r}{\kf23}To{\kf51} wea{\kf47}ry{\kf37} of{\kf71} life
+Dialogue: 0,0:01:12.71,0:01:15.94,DEFAULT,,0,0,0,,{\r}{\kf32}And{\kf23} de{\kf150}cep{\kf117}tions
+Dialogue: 0,0:01:16.46,0:01:19.01,DEFAULT,,0,0,0,,{\r}{\kf46}Rest{\kf50} now{\kf41} my{\kf55} child{\kf63}ren
+Dialogue: 0,0:01:19.20,0:01:21.64,DEFAULT,,0,0,0,,{\r}{\kf21}For{\kf60} soon{\kf47} we'{\kf26}re{\kf21} a{\kf69}way
+Dialogue: 0,0:01:22.54,0:01:24.52,DEFAULT,,0,0,0,,{\r}{\kf49}In{\kf53}to{\kf27} the{\kf70} calm
+Dialogue: 0,0:01:24.86,0:01:28.61,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf27} the{\kf128} qui{\kf12}-i{\kf15}-i{\kf174}et
+Dialogue: 0,0:02:07.76,0:02:10.24,DEFAULT,,0,0,0,,{\r}{\kf45}Come{\kf49} lit{\kf40}tle{\kf58} child{\kf55}ren
+Dialogue: 0,0:02:10.46,0:02:12.86,DEFAULT,,0,0,0,,{\r}{\kf25}I'll{\kf79} take{\kf21} thee{\kf25} a{\kf90}way
+Dialogue: 0,0:02:13.69,0:02:15.79,DEFAULT,,0,0,0,,{\r}{\kf90}In{\kf21}to{\kf21} a{\kf78} land
+Dialogue: 0,0:02:15.97,0:02:19.09,DEFAULT,,0,0,0,,{\r}{\kf28}Of{\kf32} en{\kf152}chant{\kf99}ment
+Dialogue: 0,0:02:19.65,0:02:22.24,DEFAULT,,0,0,0,,{\r}{\kf66}Come{\kf44} lit{\kf40}tle{\kf53} child{\kf56}ren
+Dialogue: 0,0:02:22.46,0:02:25.16,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf59} time's{\kf59} co{\kf13}-ome{\kf17} to{\kf101} play
+Dialogue: 0,0:02:25.65,0:02:28.46,DEFAULT,,0,0,0,,{\r}{\kf60}Here{\kf34} in{\kf38} my{\kf26}-y{\kf85} gar{\kf38}den
+Dialogue: 0,0:02:28.57,0:02:38.21,DEFAULT,,0,0,0,,{\r}{\kf20}Of{\kf187} sha{\kf176}-a{\kf23}-a{\kf558}dows

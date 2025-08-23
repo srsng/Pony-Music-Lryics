@@ -1,59 +1,66 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Picture Perfect Lie
+Artist: SlyphStorm
+Original Timing: mylittlekaraoke.com by ShTHfan1
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:11.34,0:00:14.71,DEFAULT,,0,0,0,,{\kf14}And{\kf14} in{\kf18}to{\kf18} her{\kf44} own{\kf14} re{\kf18}flec{\kf22}tion,{\kf18} she{\kf66} stared
-Dialogue: 0,0:00:15.28,0:00:18.65,DEFAULT,,0,0,0,,{\kf14}Year{\kf18}ning{\kf14} for{\kf44} one{\kf14} whose{\kf18} re{\kf22}flec{\kf27}tion{\kf22} she{\kf66} shared
-Dialogue: 0,0:00:19.00,0:00:22.77,DEFAULT,,0,0,0,,{\kf14}And{\kf18} so{\kf22}lemn{\kf14}ly{\kf71} sweared{\kf31} not{\kf14} to{\kf18} be{\kf71} scared
-Dialogue: 0,0:00:22.94,0:00:27.50,DEFAULT,,0,0,0,,{\kf14}At{\kf14} the{\kf9} pros{\kf31}pect{\kf18} of{\kf31} be{\kf44}ing{\kf18} dou{\kf14}bl{\kf22}y{\kf158} mared...
-Dialogue: 0,0:00:41.29,0:00:42.86,DEFAULT,,0,0,0,,{\kf27}An{\kf27}cient{\kf31} ur{\kf14}ban{\kf14} le{\kf18}gends
-Dialogue: 0,0:00:43.04,0:00:45.14,DEFAULT,,0,0,0,,{\kf14}Of{\kf14} a{\kf14} time{\kf14} and{\kf27} place{\kf27} long{\kf14} a{\kf14}go{\kf36}~
-Dialogue: 0,0:00:46.80,0:00:48.56,DEFAULT,,0,0,0,,{\kf14}A{\kf27} long{\kf27} lost{\kf14} ca{\kf27}vern{\kf22} whe{\kf9}~re
-Dialogue: 0,0:00:48.73,0:00:50.66,DEFAULT,,0,0,0,,{\kf27}No{\kf14}po{\kf14}ny{\kf14} has{\kf36} dared{\kf14} to{\kf18} go{\kf18}~
-Dialogue: 0,0:00:51.62,0:00:53.37,DEFAULT,,0,0,0,,{\kf14}A{\kf36} bright{\kf14} mi{\kf27}rror{\kf14} sur{\kf36}face
-Dialogue: 0,0:00:54.25,0:00:57.05,DEFAULT,,0,0,0,,{\kf14}Shows{\kf14} the{\kf27} gaze{\kf14} of{\kf27} your{\kf27} own{\kf123} eyes
-Dialogue: 0,0:00:57.22,0:00:59.33,DEFAULT,,0,0,0,,{\kf14}To{\kf14} tam{\kf27}per{\kf27} with{\kf27} my{\kf14}stic{\kf14} po{\kf36}wers
-Dialogue: 0,0:00:59.85,0:01:02.48,DEFAULT,,0,0,0,,{\kf14}Is{\kf27} most{\kf27} cer{\kf14}tain{\kf27}ly{\kf27} un{\kf14}wi{\kf71}~se
-Dialogue: 0,0:01:03.00,0:01:04.93,DEFAULT,,0,0,0,,{\kf27}Step{\kf14} in{\kf44}to{\kf14} the{\kf27} wa{\kf36}ter
-Dialogue: 0,0:01:05.45,0:01:08.26,DEFAULT,,0,0,0,,{\kf27}And{\kf27} wash{\kf14} your{\kf44} fear{\kf14} a{\kf14}wa{\kf106}~y
-Dialogue: 0,0:01:08.43,0:01:10.88,DEFAULT,,0,0,0,,{\kf14}And{\kf14} make{\kf27} sure{\kf36} that{\kf14} you're{\kf14} po{\kf27}lite{\kf14} as{\kf14} can{\kf27} be
-Dialogue: 0,0:01:11.06,0:01:13.69,DEFAULT,,0,0,0,,{\kf14}When{\kf14} your{\kf27}self{\kf27} comes{\kf14} out{\kf27} to{\kf106} play
-Dialogue: 0,0:01:13.95,0:01:16.57,DEFAULT,,0,0,0,,{\kf14}You've{\kf14} un{\kf27}leashed{\kf14} your{\kf44}self{\kf14} u{\kf44}pon{\kf14} the{\kf36} world
-Dialogue: 0,0:01:16.75,0:01:19.29,DEFAULT,,0,0,0,,{\kf14}And{\kf14} no{\kf14} mat{\kf14}ter{\kf14} how{\kf27} hard{\kf27} you{\kf22} try{\kf71}~
-Dialogue: 0,0:01:19.73,0:01:22.18,DEFAULT,,0,0,0,,{\kf14}The{\kf14} le{\kf14}gends{\kf14} have{\kf27} led{\kf40} you{\kf14} to{\kf14}~{\kf14} cre{\kf27}ate
-Dialogue: 0,0:01:22.35,0:01:24.98,DEFAULT,,0,0,0,,{\kf27}A{\kf27} pic{\kf27}ture{\kf14} per{\kf27}fect{\kf18} lie{\kf79}~
-Dialogue: 0,0:01:37.24,0:01:39.08,DEFAULT,,0,0,0,,{\kf14}A{\kf22} my{\kf14}ste{\kf31}ry{\kf14} fai{\kf31}ry{\kf14} ta{\kf18}~le
-Dialogue: 0,0:01:39.25,0:01:41.27,DEFAULT,,0,0,0,,{\kf27}Passed{\kf31} down{\kf14} from{\kf31} ea{\kf14}~r{\kf14} to{\kf44} ear
-Dialogue: 0,0:01:42.93,0:01:45.03,DEFAULT,,0,0,0,,{\kf14}The{\kf14} te{\kf14}rri{\kf27}fied{\kf27} towns{\kf27}folk{\kf27} are{\kf18} all
-Dialogue: 0,0:01:45.21,0:01:47.13,DEFAULT,,0,0,0,,{\kf31}Shrin{\kf14}king{\kf31} ba{\kf14}~ck{\kf14} in{\kf31} fea{\kf36}~r
-Dialogue: 0,0:01:48.01,0:01:49.67,DEFAULT,,0,0,0,,{\kf36}What{\kf49} have{\kf14} you{\kf44} done?
-Dialogue: 0,0:01:50.46,0:01:53.09,DEFAULT,,0,0,0,,{\kf14}Your{\kf14} in{\kf31}ten{\kf14}tion{\kf27} was{\kf31} sin{\kf22}ce{\kf79}~re
-Dialogue: 0,0:01:53.26,0:01:55.36,DEFAULT,,0,0,0,,{\kf14}But{\kf14} it's{\kf44} all{\kf44} gone{\kf14} so{\kf53} wrong
-Dialogue: 0,0:01:56.06,0:01:58.87,DEFAULT,,0,0,0,,{\kf14}And{\kf14} you{\kf31} shed{\kf14} your{\kf31}self{\kf18} a{\kf18}~{\kf18} tea{\kf97}~r
-Dialogue: 0,0:01:59.22,0:02:01.14,DEFAULT,,0,0,0,,{\kf27}Sink{\kf14} in{\kf44}to{\kf14} the{\kf27} wa{\kf36}ter
-Dialogue: 0,0:02:01.67,0:02:04.47,DEFAULT,,0,0,0,,{\kf27}And{\kf27} wash{\kf14} your{\kf44} fears{\kf14} a{\kf14}wa{\kf106}~y
-Dialogue: 0,0:02:04.65,0:02:07.10,DEFAULT,,0,0,0,,{\kf14}And{\kf14} make{\kf27} sure{\kf36} that{\kf14} you're{\kf14} po{\kf27}lite{\kf14} as{\kf14} can{\kf27} be
-Dialogue: 0,0:02:07.27,0:02:09.90,DEFAULT,,0,0,0,,{\kf14}When{\kf14} your{\kf27}self{\kf27} comes{\kf14} out{\kf27} to{\kf106} play
-Dialogue: 0,0:02:10.07,0:02:12.70,DEFAULT,,0,0,0,,{\kf14}You've{\kf14} un{\kf27}leashed{\kf14} your{\kf44}self{\kf14} u{\kf44}pon{\kf14} the{\kf36} world
-Dialogue: 0,0:02:12.88,0:02:15.50,DEFAULT,,0,0,0,,{\kf14}And{\kf14} no{\kf14} mat{\kf14}ter{\kf14} how{\kf27} hard{\kf27} you{\kf106} cry
-Dialogue: 0,0:02:15.85,0:02:18.30,DEFAULT,,0,0,0,,{\kf14}You{\kf18} can't{\kf27} go{\kf27} back,{\kf31} for{\kf14} the{\kf14} da{\kf14}mage{\kf14} is{\kf27} done
-Dialogue: 0,0:02:18.48,0:02:21.28,DEFAULT,,0,0,0,,{\kf27}And{\kf27} oh,{\kf27} the{\kf14} end{\kf31} is{\kf18} ni{\kf97}~gh!
-Dialogue: 0,0:02:44.22,0:02:46.41,DEFAULT,,0,0,0,,{\kf27}Block{\kf14} the{\kf31} cave,{\kf27} and{\kf27} ne{\kf14}ver{\kf14} re{\kf27}turn
-Dialogue: 0,0:02:46.59,0:02:49.13,DEFAULT,,0,0,0,,{\kf14}Tell{\kf14} them{\kf36} all{\kf14} to{\kf31} stay{\kf14} a{\kf14}~{\kf14}wa{\kf71}~y
-Dialogue: 0,0:02:49.48,0:02:52.10,DEFAULT,,0,0,0,,{\kf14}'Cause{\kf14} that{\kf14} an{\kf27}cient{\kf27} le{\kf14}gend{\kf14} caused{\kf27} far{\kf27} too{\kf36} much
-Dialogue: 0,0:02:52.28,0:02:54.73,DEFAULT,,0,0,0,,{\kf27}Of{\kf14} mi{\kf14}se{\kf27}ry{\kf14} and{\kf27} dis{\kf14}ma{\kf71}~y
-Dialogue: 0,0:02:55.26,0:02:57.62,DEFAULT,,0,0,0,,{\kf14}You'll{\kf14} ne{\kf27}ver{\kf31} make{\kf27} that{\kf14} mis{\kf14}ta{\kf14}~ke{\kf14} a{\kf27}gain
-Dialogue: 0,0:02:57.79,0:03:00.33,DEFAULT,,0,0,0,,{\kf14}No,{\kf18} you'll{\kf14} cer{\kf14}tain{\kf27}ly{\kf14} ne{\kf27}ver{\kf14} try{\kf71}~
-Dialogue: 0,0:03:00.86,0:03:03.40,DEFAULT,,0,0,0,,{\kf14}The{\kf14} me{\kf27}mo{\kf27}ries{\kf27} will{\kf27} haunt{\kf14} you{\kf14} fo{\kf27}re{\kf9}ver
-Dialogue: 0,0:03:03.53,0:03:06.46,DEFAULT,,0,0,0,,{\kf9}When{\kf14} you{\kf27} told{\kf27} your{\kf14}self{\kf27} good{\kf14}bye{\kf123}~!
-Dialogue: 0,0:03:20.21,0:03:23.54,DEFAULT,,0,0,0,,{\kf5}And{\kf22} in{\kf27}to{\kf14} her{\kf53} own{\kf18} re{\kf18}flec{\kf14}tion,{\kf27} she{\kf71} stared
-Dialogue: 0,0:03:23.93,0:03:27.52,DEFAULT,,0,0,0,,{\kf18}Re{\kf22}mem{\kf9}be{\kf22}ring{\kf84} those{\kf31} whose{\kf18} re{\kf18}flec{\kf18}tion{\kf22} she{\kf71} shared
-Dialogue: 0,0:03:27.74,0:03:31.37,DEFAULT,,0,0,0,,{\kf22}And{\kf22} so{\kf14}lemn{\kf18}ly{\kf62} sweared{\kf14} that{\kf5} for{\kf36} those{\kf18} whom{\kf22} she{\kf57} cared
-Dialogue: 0,0:03:31.68,0:03:36.06,DEFAULT,,0,0,0,,{\kf9}She{\kf18} would{\kf22} sa{\kf14}vor{\kf9} the{\kf66} time{\kf27} her{\kf57} life{\kf18} had{\kf127} spared...
+Dialogue: 0,0:00:11.35,0:00:14.72,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf18} in{\kf25}to{\kf25} her{\kf61} own{\kf18} re{\kf25}flec{\kf31}tion,{\kf25} she{\kf91} stared
+Dialogue: 0,0:00:15.29,0:00:18.66,DEFAULT,,0,0,0,,{\r}{\kf17}Year{\kf23}ning{\kf17} for{\kf58} one{\kf17} whose{\kf23} re{\kf29}flec{\kf35}tion{\kf29} she{\kf89} shared
+Dialogue: 0,0:00:19.01,0:00:22.77,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf25} so{\kf31}lemn{\kf19}ly{\kf99} sweared{\kf43} not{\kf19} to{\kf25} be{\kf97} scared
+Dialogue: 0,0:00:22.95,0:00:27.50,DEFAULT,,0,0,0,,{\r}{\kf16}At{\kf16} the{\kf11} pros{\kf38}pect{\kf22} of{\kf38} be{\kf54}ing{\kf22} dou{\kf16}bl{\kf27}y{\kf195} mared...
+Dialogue: 0,0:00:41.29,0:00:42.87,DEFAULT,,0,0,0,,{\r}{\kf33}An{\kf33}cient{\kf38} ur{\kf16}ban{\kf16} le{\kf22}gends
+Dialogue: 0,0:00:43.04,0:00:45.15,DEFAULT,,0,0,0,,{\r}{\kf17}Of{\kf17} a{\kf17} time{\kf17} and{\kf33} place{\kf33} long{\kf17} a{\kf17}go{\kf42}~
+Dialogue: 0,0:00:46.81,0:00:48.56,DEFAULT,,0,0,0,,{\r}{\kf17}A{\kf34} long{\kf34} lost{\kf17} ca{\kf34}vern{\kf28} whe{\kf11}~re
+Dialogue: 0,0:00:48.74,0:00:50.66,DEFAULT,,0,0,0,,{\r}{\kf34}No{\kf17}po{\kf17}ny{\kf17} has{\kf45} dared{\kf17} to{\kf23} go{\kf23}~
+Dialogue: 0,0:00:51.62,0:00:53.38,DEFAULT,,0,0,0,,{\r}{\kf17}A{\kf45} bright{\kf17} mi{\kf34}rror{\kf17} sur{\kf45}face
+Dialogue: 0,0:00:54.25,0:00:57.05,DEFAULT,,0,0,0,,{\r}{\kf15}Shows{\kf15} the{\kf31} gaze{\kf15} of{\kf31} your{\kf31} own{\kf142} eyes
+Dialogue: 0,0:00:57.23,0:00:59.33,DEFAULT,,0,0,0,,{\r}{\kf17}To{\kf17} tam{\kf33}per{\kf33} with{\kf33} my{\kf17}stic{\kf17} po{\kf43}wers
+Dialogue: 0,0:00:59.86,0:01:02.48,DEFAULT,,0,0,0,,{\r}{\kf16}Is{\kf32} most{\kf32} cer{\kf16}tain{\kf32}ly{\kf32} un{\kf16}wi{\kf87}~se
+Dialogue: 0,0:01:03.01,0:01:04.93,DEFAULT,,0,0,0,,{\r}{\kf32}Step{\kf16} in{\kf54}to{\kf16} the{\kf32} wa{\kf43}ter
+Dialogue: 0,0:01:05.46,0:01:08.26,DEFAULT,,0,0,0,,{\r}{\kf31}And{\kf31} wash{\kf15} your{\kf51} fear{\kf15} a{\kf15}wa{\kf122}~y
+Dialogue: 0,0:01:08.44,0:01:10.89,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf17} make{\kf33} sure{\kf45} that{\kf17} you're{\kf17} po{\kf33}lite{\kf17} as{\kf17} can{\kf32} be
+Dialogue: 0,0:01:11.06,0:01:13.69,DEFAULT,,0,0,0,,{\r}{\kf15}When{\kf15} your{\kf31}self{\kf31} comes{\kf15} out{\kf31} to{\kf125} play
+Dialogue: 0,0:01:13.95,0:01:16.58,DEFAULT,,0,0,0,,{\r}{\kf16}You've{\kf16} un{\kf32}leashed{\kf16} your{\kf54}self{\kf16} u{\kf54}pon{\kf16} the{\kf43} world
+Dialogue: 0,0:01:16.75,0:01:19.29,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf16} no{\kf16} mat{\kf16}ter{\kf16} how{\kf32} hard{\kf32} you{\kf26} try{\kf84}~
+Dialogue: 0,0:01:19.73,0:01:22.18,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf18} le{\kf18}gends{\kf18} have{\kf35} led{\kf53} you{\kf18} to{\kf18}~{\kf18} cre{\kf31}ate
+Dialogue: 0,0:01:22.36,0:01:24.99,DEFAULT,,0,0,0,,{\r}{\kf32}A{\kf32} pic{\kf32}ture{\kf16} per{\kf32}fect{\kf21} lie{\kf98}~
+Dialogue: 0,0:01:37.24,0:01:39.08,DEFAULT,,0,0,0,,{\r}{\kf16}A{\kf26} my{\kf16}ste{\kf37}ry{\kf16} fai{\kf37}ry{\kf16} ta{\kf20}~le
+Dialogue: 0,0:01:39.26,0:01:41.27,DEFAULT,,0,0,0,,{\r}{\kf31}Passed{\kf36} down{\kf15} from{\kf36} ea{\kf15}~r{\kf15} to{\kf53} ear
+Dialogue: 0,0:01:42.94,0:01:45.04,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf17} te{\kf17}rri{\kf34}fied{\kf34} towns{\kf34}folk{\kf34} are{\kf23} all
+Dialogue: 0,0:01:45.21,0:01:47.14,DEFAULT,,0,0,0,,{\r}{\kf36}Shrin{\kf15}king{\kf36} ba{\kf15}~ck{\kf15} in{\kf36} fea{\kf40}~r
+Dialogue: 0,0:01:48.01,0:01:49.68,DEFAULT,,0,0,0,,{\r}{\kf42}What{\kf57} have{\kf16} you{\kf51} done?
+Dialogue: 0,0:01:50.47,0:01:53.09,DEFAULT,,0,0,0,,{\r}{\kf15}Your{\kf15} in{\kf35}ten{\kf15}tion{\kf30} was{\kf35} sin{\kf25}ce{\kf93}~re
+Dialogue: 0,0:01:53.27,0:01:55.37,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf15} it's{\kf51} all{\kf51} gone{\kf15} so{\kf63} wrong
+Dialogue: 0,0:01:56.07,0:01:58.87,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} you{\kf34} shed{\kf15} your{\kf34}self{\kf20} a{\kf20}~{\kf20} tea{\kf107}~r
+Dialogue: 0,0:01:59.22,0:02:01.15,DEFAULT,,0,0,0,,{\r}{\kf32}Sink{\kf16} in{\kf54}to{\kf16} the{\kf32} wa{\kf43}ter
+Dialogue: 0,0:02:01.67,0:02:04.48,DEFAULT,,0,0,0,,{\r}{\kf31}And{\kf31} wash{\kf15} your{\kf51} fears{\kf15} a{\kf15}wa{\kf122}~y
+Dialogue: 0,0:02:04.65,0:02:07.10,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf17} make{\kf33} sure{\kf45} that{\kf17} you're{\kf17} po{\kf33}lite{\kf17} as{\kf17} can{\kf32} be
+Dialogue: 0,0:02:07.28,0:02:09.90,DEFAULT,,0,0,0,,{\r}{\kf15}When{\kf15} your{\kf31}self{\kf31} comes{\kf15} out{\kf31} to{\kf125} play
+Dialogue: 0,0:02:10.08,0:02:12.71,DEFAULT,,0,0,0,,{\r}{\kf16}You've{\kf16} un{\kf32}leashed{\kf16} your{\kf54}self{\kf16} u{\kf54}pon{\kf16} the{\kf43} world
+Dialogue: 0,0:02:12.88,0:02:15.51,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} no{\kf15} mat{\kf15}ter{\kf15} how{\kf31} hard{\kf31} you{\kf126} cry
+Dialogue: 0,0:02:15.86,0:02:18.31,DEFAULT,,0,0,0,,{\r}{\kf17}You{\kf22} can't{\kf33} go{\kf33} back,{\kf39} for{\kf17} the{\kf17} da{\kf17}mage{\kf17} is{\kf33} done
+Dialogue: 0,0:02:18.48,0:02:21.29,DEFAULT,,0,0,0,,{\r}{\kf31}And{\kf31} oh,{\kf31} the{\kf16} end{\kf36} is{\kf21} ni{\kf114}~gh!
+Dialogue: 0,0:02:44.23,0:02:46.42,DEFAULT,,0,0,0,,{\r}{\kf33}Block{\kf16} the{\kf38} cave,{\kf33} and{\kf33} ne{\kf16}ver{\kf16} re{\kf34}turn
+Dialogue: 0,0:02:46.59,0:02:49.13,DEFAULT,,0,0,0,,{\r}{\kf16}Tell{\kf16} them{\kf41} all{\kf16} to{\kf36} stay{\kf16} a{\kf16}~{\kf16}wa{\kf81}~y
+Dialogue: 0,0:02:49.48,0:02:52.11,DEFAULT,,0,0,0,,{\r}{\kf17}'Cause{\kf17} that{\kf17} an{\kf34}cient{\kf34} le{\kf17}gend{\kf17} caused{\kf34} far{\kf34} too{\kf42} much
+Dialogue: 0,0:02:52.28,0:02:54.74,DEFAULT,,0,0,0,,{\r}{\kf32}Of{\kf16} mi{\kf16}se{\kf32}ry{\kf16} and{\kf32} dis{\kf16}ma{\kf85}~y
+Dialogue: 0,0:02:55.26,0:02:57.62,DEFAULT,,0,0,0,,{\r}{\kf16}You'll{\kf16} ne{\kf33}ver{\kf38} make{\kf33} that{\kf16} mis{\kf16}ta{\kf16}~ke{\kf16} a{\kf36}gain
+Dialogue: 0,0:02:57.80,0:03:00.34,DEFAULT,,0,0,0,,{\r}{\kf16}No,{\kf22} you'll{\kf16} cer{\kf16}tain{\kf32}ly{\kf16} ne{\kf32}ver{\kf16} try{\kf88}~
+Dialogue: 0,0:03:00.86,0:03:03.40,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf17} me{\kf35}mo{\kf35}ries{\kf35} will{\kf35} haunt{\kf17} you{\kf17} fo{\kf35}re{\kf11}ver
+Dialogue: 0,0:03:03.53,0:03:06.47,DEFAULT,,0,0,0,,{\r}{\kf10}When{\kf15} you{\kf31} told{\kf31} your{\kf15}self{\kf31} good{\kf15}bye{\kf145}~!
+Dialogue: 0,0:03:20.22,0:03:23.54,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf28} in{\kf33}to{\kf17} her{\kf67} own{\kf22} re{\kf22}flec{\kf17}tion,{\kf33} she{\kf84} stared
+Dialogue: 0,0:03:23.94,0:03:27.53,DEFAULT,,0,0,0,,{\r}{\kf19}Re{\kf24}mem{\kf10}be{\kf24}ring{\kf91} those{\kf34} whose{\kf19} re{\kf19}flec{\kf19}tion{\kf24} she{\kf76} shared
+Dialogue: 0,0:03:27.75,0:03:31.38,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf28} so{\kf17}lemn{\kf22}ly{\kf78} sweared{\kf17} that{\kf10} for{\kf45} those{\kf22} whom{\kf28} she{\kf68} cared
+Dialogue: 0,0:03:31.69,0:03:36.06,DEFAULT,,0,0,0,,{\r}{\kf11}She{\kf21} would{\kf26} sa{\kf16}vor{\kf11} the{\kf79} time{\kf32} her{\kf69} life{\kf21} had{\kf152} spared...

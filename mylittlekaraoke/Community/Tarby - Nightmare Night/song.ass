@@ -1,51 +1,58 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Nightmare Night
+Artist: Tarby
+Original Timing: mylittlekaraoke.com by Steven Knapp, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:21.69,0:00:24.86,DEFAULT,,0,0,0,,{\kf5}As{\kf18} the{\kf18} eve{\kf9}ning{\kf18} turns{\kf13} and{\kf13} light{\kf13} be{\kf13}gins{\kf5} to{\kf26} fade{\kf13} a{\kf22}way
-Dialogue: 0,0:00:24.94,0:00:28.24,DEFAULT,,0,0,0,,{\kf13}Hap{\kf18}pi{\kf13}ness{\kf9} is{\kf22} grow{\kf22}ing{\kf13} grey{\kf13}er{\kf22} in{\kf5} the{\kf18} wake{\kf9} of{\kf26} day
-Dialogue: 0,0:00:28.28,0:00:31.46,DEFAULT,,0,0,0,,{\kf13}Don{\kf13} your{\kf18} mask{\kf9} and{\kf13} out{\kf13}fit{\kf13} read{\kf22}y{\kf18} eve{\kf9}ry{\kf22}thing{\kf18} you{\kf18} need
-Dialogue: 0,0:00:31.58,0:00:34.76,DEFAULT,,0,0,0,,{\kf13}Wheth{\kf22}er{\kf18} you're{\kf5} a{\kf9} crea{\kf18}ture{\kf13} mon{\kf18}ster{\kf13} or{\kf5} a{\kf18} de{\kf13}mon{\kf22} steed
-Dialogue: 0,0:00:34.88,0:00:38.01,DEFAULT,,0,0,0,,{\kf9}Raise{\kf22} your{\kf9} head{\kf13} up{\kf22} high{\kf5}~{\kf13} in{\kf9} prep{\kf13}a{\kf9}ra{\kf5}tion{\kf22} for{\kf9} the{\kf13} night
-Dialogue: 0,0:00:38.01,0:00:41.31,DEFAULT,,0,0,0,,{\kf5}And{\kf18} go{\kf13} and{\kf5} head{\kf18} out{\kf13}side{\kf13}~{\kf18} be{\kf13} care{\kf13}ful{\kf13} it's{\kf5} a{\kf13} chill{\kf13}ing{\kf13} sight
-Dialogue: 0,0:00:41.48,0:00:44.74,DEFAULT,,0,0,0,,{\kf9}Sun{\kf13} is{\kf9} start{\kf18}ing{\kf13} to{\kf13}~{\kf18} set{\kf9} lis{\kf13}ten{\kf26} to{\kf5} the{\kf18} chil{\kf18}dren{\kf26} scream
-Dialogue: 0,0:00:44.78,0:00:48.04,DEFAULT,,0,0,0,,{\kf13}Keep{\kf13} your{\kf18} eyes{\kf13} wide{\kf13} o{\kf9}~{\kf9}pen{\kf18} trust{\kf18} me{\kf13} this{\kf9} is{\kf30} not{\kf18} a{\kf30} dream
-Dialogue: 0,0:00:48.04,0:00:52.97,DEFAULT,,0,0,0,,{\kf35}Eve{\kf5}~{\kf30}ry{\kf30}one's{\kf22} a{\kf39}fraid{\kf26} it's{\kf22} that{\kf22} time{\kf18}~{\kf22} of{\kf39} year
-Dialogue: 0,0:00:53.44,0:00:58.33,DEFAULT,,0,0,0,,{\kf35}Get{\kf35} read{\kf30}y{\kf39} to{\kf30} run{\kf30} when{\kf18} the{\kf35} coast{\kf18} is{\kf39} clear
-Dialogue: 0,0:00:58.88,0:01:03.81,DEFAULT,,0,0,0,,{\kf30}Eve{\kf30}ry{\kf30}thing{\kf26} you{\kf30} hate{\kf30} eve{\kf22}ry{\kf30}thing{\kf22} you{\kf43} fear
-Dialogue: 0,0:01:04.11,0:01:09.21,DEFAULT,,0,0,0,,{\kf5}Is{\kf30} com{\kf26}ing{\kf30} out{\kf18} to{\kf35}night{\kf18} scream{\kf22} for{\kf30} me{\kf35} my{\kf43} dear!
-Dialogue: 0,0:01:10.58,0:01:13.71,DEFAULT,,0,0,0,,{\kf60}It's{\kf48} fun{\kf43} it's{\kf48} fine
-Dialogue: 0,0:01:17.14,0:01:22.50,DEFAULT,,0,0,0,,{\kf65}It's{\kf39} not{\kf9} like{\kf18}~{\kf26} our{\kf13} life{\kf9} is{\kf18} on{\kf9} the{\kf26} line{\kf9} just{\kf5} give{\kf9} it{\kf39} time
-Dialogue: 0,0:01:22.58,0:01:25.84,DEFAULT,,0,0,0,,{\kf13}This{\kf5} is{\kf22} Night{\kf18}~{\kf30}mare{\kf35} Night{\kf35} what{\kf22} a{\kf26} fright
-Dialogue: 0,0:01:26.18,0:01:28.93,DEFAULT,,0,0,0,,{\kf26}Give{\kf26} me{\kf18} some{\kf18}thing{\kf22} sweet{\kf22} to{\kf13}~{\kf35} bite
-Dialogue: 0,0:01:39.90,0:01:43.15,DEFAULT,,0,0,0,,{\kf18}Lurk{\kf18}ing{\kf13} in{\kf9} the{\kf18} shad{\kf18}ows{\kf9} wait{\kf13}ing{\kf18} for{\kf5} an{\kf26} eas{\kf18}y{\kf18} prey
-Dialogue: 0,0:01:43.20,0:01:46.50,DEFAULT,,0,0,0,,{\kf13}Some{\kf18}thing{\kf18} she{\kf9} would{\kf18} nev{\kf22}er{\kf9} do{\kf18} while{\kf9} in{\kf5} the{\kf26} light{\kf9} of{\kf22} day
-Dialogue: 0,0:01:46.58,0:01:49.75,DEFAULT,,0,0,0,,{\kf9}Still{\kf13} she's{\kf22} get{\kf9}ting{\kf18} worse{\kf22} in{\kf9} ways{\kf18} no{\kf13} one{\kf9} a{\kf22}live{\kf9} could{\kf18} see
-Dialogue: 0,0:01:49.80,0:01:53.01,DEFAULT,,0,0,0,,{\kf9}Tak{\kf18}ing{\kf18} po{\kf9}nies{\kf18} hos{\kf18}tage{\kf9} with{\kf22} grow{\kf18}ing{\kf9} au{\kf18}dac{\kf26}i{\kf13}ty
-Dialogue: 0,0:01:53.14,0:01:56.44,DEFAULT,,0,0,0,,{\kf9}But{\kf13} to{\kf18}night{\kf9} is{\kf9} dif'{\kf9}rent{\kf13} while{\kf18} they're{\kf18} all{\kf13} dressed{\kf9} in{\kf18} dis{\kf26}guise
-Dialogue: 0,0:01:56.48,0:01:59.74,DEFAULT,,0,0,0,,{\kf9}Out{\kf18} at{\kf18} night{\kf5} and{\kf9} clue{\kf13}~{\kf18}less{\kf13} of{\kf18} their{\kf18} im{\kf13}pend{\kf13}ing{\kf13} de{\kf26}mise
-Dialogue: 0,0:01:59.78,0:02:03.00,DEFAULT,,0,0,0,,{\kf18}Car{\kf13}ry{\kf13}ing{\kf9} them{\kf5} off{\kf9}~{\kf13} the{\kf9} fil{\kf18}ly{\kf26} to{\kf9} the{\kf18} bak{\kf18}er{\kf30}y
-Dialogue: 0,0:02:03.08,0:02:06.25,DEFAULT,,0,0,0,,{\kf30}Pil{\kf13}ing{\kf5} them{\kf5} up{\kf5}~{\kf18} then{\kf18} serv{\kf13}ing{\kf13} them{\kf13} to{\kf26} you{\kf18} and{\kf18} me
-Dialogue: 0,0:02:06.34,0:02:11.27,DEFAULT,,0,0,0,,{\kf35}Eve{\kf30}ry{\kf26}one's{\kf18} a{\kf39}fraid{\kf30} it's{\kf26} that{\kf18} time{\kf13}~{\kf22} of{\kf43} year
-Dialogue: 0,0:02:11.74,0:02:16.62,DEFAULT,,0,0,0,,{\kf30}Get{\kf30} read{\kf26}y{\kf30} to{\kf43} run{\kf18} when{\kf13}~{\kf22} the{\kf18} coast{\kf13}~{\kf18} is{\kf35} clear
-Dialogue: 0,0:02:17.18,0:02:22.02,DEFAULT,,0,0,0,,{\kf35}Eve{\kf30}ry{\kf30}thing{\kf39} you{\kf30} hate{\kf18} eve{\kf18}~{\kf26}ry{\kf26}thing{\kf22} you{\kf30} fear
-Dialogue: 0,0:02:22.32,0:02:27.68,DEFAULT,,0,0,0,,{\kf5}Is{\kf30} com{\kf22}ing{\kf30} out{\kf26} to{\kf35}night{\kf26} scream{\kf26} for{\kf22} me{\kf35} my{\kf65} dear!
-Dialogue: 0,0:02:28.88,0:02:32.01,DEFAULT,,0,0,0,,{\kf60}She's{\kf48} lost{\kf22} her{\kf30}~{\kf48} mind
-Dialogue: 0,0:02:35.44,0:02:40.75,DEFAULT,,0,0,0,,{\kf65}You're{\kf39} run{\kf56}ning{\kf18} out{\kf22}~{\kf22} of{\kf39} time{\kf13} end{\kf5} of{\kf9} the{\kf35} line
-Dialogue: 0,0:02:40.88,0:02:44.14,DEFAULT,,0,0,0,,{\kf13}This{\kf5} is{\kf22} Night{\kf18}~{\kf30}mare{\kf35} Night{\kf35} what{\kf22} a{\kf26} fright
-Dialogue: 0,0:02:44.48,0:02:47.22,DEFAULT,,0,0,0,,{\kf26}Give{\kf26} me{\kf18} some{\kf18}thing{\kf22} sweet{\kf35} to{\kf35} bite
-Dialogue: 0,0:02:47.48,0:02:50.14,DEFAULT,,0,0,0,,{\kf30}Night{\kf30}mare{\kf35} Night{\kf26} noth{\kf22}ing's{\kf26} right
-Dialogue: 0,0:02:50.48,0:02:53.35,DEFAULT,,0,0,0,,{\kf26}Some{\kf26}thing{\kf18} broke{\kf18} it's{\kf30} a{\kf30} de{\kf48}light
-Dialogue: 0,0:05:07.58,0:05:10.66,DEFAULT,,0,0,0,,{\kf60}Some{\kf48}thing's{\kf22} not{\kf30}~{\kf35} right
-Dialogue: 0,0:05:13.88,0:05:19.36,DEFAULT,,0,0,0,,{\kf9}This{\kf30} qui{\kf13}et{\kf35} town{\kf22} is{\kf35} get{\kf30}ting{\kf18} dark{\kf22}~{\kf22} to{\kf39}night{\kf18} run{\kf13} for{\kf9} your{\kf22} life
-Dialogue: 0,0:05:19.58,0:05:22.83,DEFAULT,,0,0,0,,{\kf13}This{\kf5} is{\kf22} Night{\kf18}~{\kf30}mare{\kf35} Night{\kf35} what{\kf22} a{\kf26} fright
-Dialogue: 0,0:05:23.18,0:05:25.92,DEFAULT,,0,0,0,,{\kf26}Make{\kf26} me{\kf18} some{\kf18}thing{\kf22} sweet{\kf35} to{\kf35} bite
-Dialogue: 0,0:05:26.18,0:05:28.83,DEFAULT,,0,0,0,,{\kf30}Night{\kf30}mare{\kf35} Night{\kf26} feel{\kf22} the{\kf26} knife
-Dialogue: 0,0:05:29.18,0:05:31.83,DEFAULT,,0,0,0,,{\kf35}Cart{\kf30} me{\kf18} off{\kf13} and{\kf26} take{\kf30} my{\kf30} life
+Dialogue: 0,0:00:21.69,0:00:24.86,DEFAULT,,0,0,0,,{\r}{\kf10}As{\kf30} the{\kf30} eve{\kf15}ning{\kf30} turns{\kf23} and{\kf23} light{\kf23} be{\kf23}gins{\kf10} to{\kf45} fade{\kf23} a{\kf32}way
+Dialogue: 0,0:00:24.95,0:00:28.25,DEFAULT,,0,0,0,,{\r}{\kf22}Hap{\kf29}pi{\kf22}ness{\kf14} is{\kf36} grow{\kf36}ing{\kf22} grey{\kf22}er{\kf36} in{\kf10} the{\kf29} wake{\kf14} of{\kf38} day
+Dialogue: 0,0:00:28.29,0:00:31.46,DEFAULT,,0,0,0,,{\r}{\kf21}Don{\kf21} your{\kf28} mask{\kf14} and{\kf21} out{\kf21}fit{\kf21} read{\kf35}y{\kf28} eve{\kf14}ry{\kf35}thing{\kf28} you{\kf30} need
+Dialogue: 0,0:00:31.59,0:00:34.76,DEFAULT,,0,0,0,,{\r}{\kf23}Wheth{\kf38}er{\kf30} you're{\kf10} a{\kf15} crea{\kf30}ture{\kf23} mon{\kf30}ster{\kf23} or{\kf10} a{\kf30} de{\kf23}mon{\kf32} steed
+Dialogue: 0,0:00:34.89,0:00:38.02,DEFAULT,,0,0,0,,{\r}{\kf16}Raise{\kf40} your{\kf16} head{\kf24} up{\kf40} high{\kf10}~{\kf24} in{\kf16} prep{\kf24}a{\kf16}ra{\kf10}tion{\kf40} for{\kf16} the{\kf21} night
+Dialogue: 0,0:00:38.02,0:00:41.32,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf31} go{\kf24} and{\kf10} head{\kf31} out{\kf24}side{\kf24}~{\kf31} be{\kf24} care{\kf24}ful{\kf24} it's{\kf10} a{\kf24} chill{\kf24}ing{\kf15} sight
+Dialogue: 0,0:00:41.49,0:00:44.75,DEFAULT,,0,0,0,,{\r}{\kf14}Sun{\kf21} is{\kf14} start{\kf28}ing{\kf21} to{\kf21}~{\kf28} set{\kf14} lis{\kf21}ten{\kf42} to{\kf10} the{\kf28} chil{\kf28}dren{\kf36} scream
+Dialogue: 0,0:00:44.79,0:00:48.05,DEFAULT,,0,0,0,,{\r}{\kf19}Keep{\kf19} your{\kf26} eyes{\kf19} wide{\kf19} o{\kf13}~{\kf13}pen{\kf26} trust{\kf26} me{\kf19} this{\kf13} is{\kf45} not{\kf26} a{\kf43} dream
+Dialogue: 0,0:00:48.05,0:00:52.97,DEFAULT,,0,0,0,,{\r}{\kf56}Eve{\kf10}~{\kf49}ry{\kf49}one's{\kf35} a{\kf62}fraid{\kf42} it's{\kf35} that{\kf35} time{\kf28}~{\kf35} of{\kf57} year
+Dialogue: 0,0:00:53.45,0:00:58.33,DEFAULT,,0,0,0,,{\r}{\kf55}Get{\kf55} read{\kf48}y{\kf62} to{\kf48} run{\kf48} when{\kf28} the{\kf55} coast{\kf28} is{\kf62} clear
+Dialogue: 0,0:00:58.89,0:01:03.82,DEFAULT,,0,0,0,,{\r}{\kf51}Eve{\kf51}ry{\kf51}thing{\kf43} you{\kf51} hate{\kf51} eve{\kf36}ry{\kf51}thing{\kf36} you{\kf72} fear
+Dialogue: 0,0:01:04.12,0:01:09.22,DEFAULT,,0,0,0,,{\r}{\kf10}Is{\kf53} com{\kf46}ing{\kf53} out{\kf30} to{\kf61}night{\kf30} scream{\kf38} for{\kf53} me{\kf61} my{\kf75} dear!
+Dialogue: 0,0:01:10.59,0:01:13.72,DEFAULT,,0,0,0,,{\r}{\kf95}It's{\kf75} fun{\kf68} it's{\kf75} fine
+Dialogue: 0,0:01:17.15,0:01:22.50,DEFAULT,,0,0,0,,{\r}{\kf120}It's{\kf72} not{\kf16} like{\kf32}~{\kf48} our{\kf24} life{\kf16} is{\kf32} on{\kf16} the{\kf48} line{\kf16} just{\kf10} give{\kf16} it{\kf70} time
+Dialogue: 0,0:01:22.59,0:01:25.85,DEFAULT,,0,0,0,,{\r}{\kf21}This{\kf10} is{\kf35} Night{\kf28}~{\kf49}mare{\kf55} Night{\kf55} what{\kf35} a{\kf38} fright
+Dialogue: 0,0:01:26.19,0:01:28.93,DEFAULT,,0,0,0,,{\r}{\kf40}Give{\kf40} me{\kf27} some{\kf27}thing{\kf33} sweet{\kf33} to{\kf20}~{\kf54} bite
+Dialogue: 0,0:01:39.90,0:01:43.16,DEFAULT,,0,0,0,,{\r}{\kf29}Lurk{\kf29}ing{\kf22} in{\kf14} the{\kf29} shad{\kf29}ows{\kf14} wait{\kf22}ing{\kf29} for{\kf10} an{\kf43} eas{\kf29}y{\kf27} prey
+Dialogue: 0,0:01:43.20,0:01:46.50,DEFAULT,,0,0,0,,{\r}{\kf22}Some{\kf30}thing{\kf30} she{\kf15} would{\kf30} nev{\kf37}er{\kf15} do{\kf30} while{\kf15} in{\kf10} the{\kf45} light{\kf15} of{\kf36} day
+Dialogue: 0,0:01:46.59,0:01:49.76,DEFAULT,,0,0,0,,{\r}{\kf15}Still{\kf22} she's{\kf37} get{\kf15}ting{\kf29} worse{\kf37} in{\kf15} ways{\kf29} no{\kf22} one{\kf15} a{\kf37}live{\kf15} could{\kf29} see
+Dialogue: 0,0:01:49.80,0:01:53.02,DEFAULT,,0,0,0,,{\r}{\kf14}Tak{\kf28}ing{\kf28} po{\kf14}nies{\kf28} hos{\kf28}tage{\kf14} with{\kf35} grow{\kf28}ing{\kf14} au{\kf28}dac{\kf42}i{\kf20}ty
+Dialogue: 0,0:01:53.14,0:01:56.44,DEFAULT,,0,0,0,,{\r}{\kf16}But{\kf24} to{\kf32}night{\kf16} is{\kf16} dif'{\kf16}rent{\kf24} while{\kf32} they're{\kf32} all{\kf24} dressed{\kf16} in{\kf32} dis{\kf50}guise
+Dialogue: 0,0:01:56.49,0:01:59.74,DEFAULT,,0,0,0,,{\r}{\kf14}Out{\kf28} at{\kf28} night{\kf10} and{\kf14} clue{\kf21}~{\kf28}less{\kf21} of{\kf28} their{\kf28} im{\kf21}pend{\kf21}ing{\kf21} de{\kf43}mise
+Dialogue: 0,0:01:59.79,0:02:03.00,DEFAULT,,0,0,0,,{\r}{\kf27}Car{\kf20}ry{\kf20}ing{\kf14} them{\kf10} off{\kf14}~{\kf20} the{\kf14} fil{\kf27}ly{\kf41} to{\kf14} the{\kf27} bak{\kf27}er{\kf46}y
+Dialogue: 0,0:02:03.09,0:02:06.26,DEFAULT,,0,0,0,,{\r}{\kf50}Pil{\kf22}ing{\kf10} them{\kf10} up{\kf10}~{\kf29} then{\kf29} serv{\kf22}ing{\kf22} them{\kf22} to{\kf43} you{\kf29} and{\kf19} me
+Dialogue: 0,0:02:06.34,0:02:11.27,DEFAULT,,0,0,0,,{\r}{\kf57}Eve{\kf50}ry{\kf43}one's{\kf29} a{\kf64}fraid{\kf50} it's{\kf43} that{\kf29} time{\kf21}~{\kf36} of{\kf71} year
+Dialogue: 0,0:02:11.74,0:02:16.63,DEFAULT,,0,0,0,,{\r}{\kf50}Get{\kf50} read{\kf43}y{\kf50} to{\kf72} run{\kf29} when{\kf22}~{\kf36} the{\kf29} coast{\kf22}~{\kf29} is{\kf57} clear
+Dialogue: 0,0:02:17.19,0:02:22.03,DEFAULT,,0,0,0,,{\r}{\kf55}Eve{\kf48}ry{\kf48}thing{\kf62} you{\kf48} hate{\kf28} eve{\kf28}~{\kf41}ry{\kf41}thing{\kf35} you{\kf50} fear
+Dialogue: 0,0:02:22.33,0:02:27.69,DEFAULT,,0,0,0,,{\r}{\kf10}Is{\kf51} com{\kf36}ing{\kf51} out{\kf43} to{\kf58}night{\kf43} scream{\kf43} for{\kf36} me{\kf58} my{\kf107} dear!
+Dialogue: 0,0:02:28.89,0:02:32.01,DEFAULT,,0,0,0,,{\r}{\kf91}She's{\kf72} lost{\kf33} her{\kf46}~{\kf71} mind
+Dialogue: 0,0:02:35.44,0:02:40.76,DEFAULT,,0,0,0,,{\r}{\kf108}You're{\kf65} run{\kf93}ning{\kf29} out{\kf36}~{\kf36} of{\kf65} time{\kf22} end{\kf10} of{\kf14} the{\kf53} line
+Dialogue: 0,0:02:40.89,0:02:44.14,DEFAULT,,0,0,0,,{\r}{\kf21}This{\kf10} is{\kf35} Night{\kf28}~{\kf49}mare{\kf55} Night{\kf55} what{\kf35} a{\kf38} fright
+Dialogue: 0,0:02:44.49,0:02:47.23,DEFAULT,,0,0,0,,{\r}{\kf40}Give{\kf40} me{\kf27} some{\kf27}thing{\kf33} sweet{\kf53} to{\kf54} bite
+Dialogue: 0,0:02:47.49,0:02:50.14,DEFAULT,,0,0,0,,{\r}{\kf48}Night{\kf48}mare{\kf55} Night{\kf41} noth{\kf34}ing's{\kf40} right
+Dialogue: 0,0:02:50.49,0:02:53.36,DEFAULT,,0,0,0,,{\r}{\kf38}Some{\kf38}thing{\kf26} broke{\kf26} it's{\kf45} a{\kf45} de{\kf69}light
+Dialogue: 0,0:05:07.58,0:05:10.67,DEFAULT,,0,0,0,,{\r}{\kf96}Some{\kf76}thing's{\kf34} not{\kf48}~{\kf55} right
+Dialogue: 0,0:05:13.88,0:05:19.37,DEFAULT,,0,0,0,,{\r}{\kf14}This{\kf50} qui{\kf21}et{\kf57} town{\kf36} is{\kf57} get{\kf50}ting{\kf29} dark{\kf36}~{\kf36} to{\kf64}night{\kf29} run{\kf21} for{\kf14} your{\kf35} life
+Dialogue: 0,0:05:19.58,0:05:22.84,DEFAULT,,0,0,0,,{\r}{\kf21}This{\kf10} is{\kf35} Night{\kf28}~{\kf49}mare{\kf55} Night{\kf55} what{\kf35} a{\kf38} fright
+Dialogue: 0,0:05:23.18,0:05:25.92,DEFAULT,,0,0,0,,{\r}{\kf40}Make{\kf40} me{\kf27} some{\kf27}thing{\kf33} sweet{\kf53} to{\kf54} bite
+Dialogue: 0,0:05:26.18,0:05:28.84,DEFAULT,,0,0,0,,{\r}{\kf48}Night{\kf48}mare{\kf55} Night{\kf41} feel{\kf34} the{\kf40} knife
+Dialogue: 0,0:05:29.18,0:05:31.84,DEFAULT,,0,0,0,,{\r}{\kf51}Cart{\kf44} me{\kf25} off{\kf19} and{\kf38} take{\kf44} my{\kf45} life

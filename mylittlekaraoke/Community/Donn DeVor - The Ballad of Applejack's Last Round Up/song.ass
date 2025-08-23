@@ -1,56 +1,63 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: The Ballad of Applejack's Last Roundup
+Artist: Donn Devore
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.00,0:00:10.55,DEFAULT,,0,0,0,,{\kf18}Well{\kf24} Der{\kf18}py{\kf24} wrecked{\kf18} the{\kf35} roof
-Dialogue: 0,0:00:10.67,0:00:12.34,DEFAULT,,0,0,0,,{\kf18}With{\kf12} her{\kf24} clum{\kf12}sy{\kf18} lit{\kf12}tle{\kf41} hooves
-Dialogue: 0,0:00:12.51,0:00:15.11,DEFAULT,,0,0,0,,{\kf18}So{\kf18} they{\kf18} had{\kf18} to{\kf18} get{\kf18} some{\kf18} bits{\kf18} to{\kf12} fix{\kf12} it{\kf41} up
-Dialogue: 0,0:00:16.61,0:00:18.00,DEFAULT,,0,0,0,,{\kf24}Rain{\kf18}bow{\kf18} tried{\kf18} her{\kf47} best
-Dialogue: 0,0:00:18.23,0:00:19.73,DEFAULT,,0,0,0,,{\kf18}But{\kf18} Der{\kf18}py{\kf18} is{\kf12} the{\kf35} best
-Dialogue: 0,0:00:20.19,0:00:22.84,DEFAULT,,0,0,0,,{\kf12}At{\kf18} der{\kf12}ping{\kf24} up{\kf12} and{\kf24} ma{\kf12}king{\kf18} a{\kf35} big{\kf47} mess
-Dialogue: 0,0:00:24.00,0:00:25.50,DEFAULT,,0,0,0,,{\kf24}A{\kf18}J{\kf18} said{\kf18} she'd{\kf12} win{\kf12} the{\kf18} prize
-Dialogue: 0,0:00:25.61,0:00:27.57,DEFAULT,,0,0,0,,{\kf18}They{\kf18} stomped{\kf12} the{\kf24} ground{\kf18} and{\kf18} watched{\kf18} her{\kf24} smile
-Dialogue: 0,0:00:27.69,0:00:29.76,DEFAULT,,0,0,0,,{\kf18}When{\kf18} she{\kf18} said{\kf18} she'd{\kf12} give{\kf12} it{\kf24} all{\kf24} a{\kf24}way
-Dialogue: 0,0:00:31.15,0:00:32.94,DEFAULT,,0,0,0,,{\kf12}So{\kf12} she{\kf12} took{\kf12} the{\kf24} train{\kf12} to{\kf18} Can{\kf18}ter{\kf24}lot
-Dialogue: 0,0:00:33.23,0:00:34.78,DEFAULT,,0,0,0,,{\kf12}Thought{\kf12} she'd{\kf12} go{\kf12} and{\kf12} win{\kf12} a{\kf29} lot
-Dialogue: 0,0:00:34.96,0:00:37.50,DEFAULT,,0,0,0,,{\kf12}For{\kf12} all{\kf12} her{\kf12} friends{\kf18} back{\kf18} there{\kf18} in{\kf18} Po{\kf18}ny{\kf58}ville
-Dialogue: 0,0:00:38.59,0:00:40.38,DEFAULT,,0,0,0,,{\kf12}Well{\kf12} a{\kf18} week{\kf12} went{\kf12} by{\kf12} and{\kf12} they{\kf24} all{\kf24} cried
-Dialogue: 0,0:00:40.50,0:00:42.34,DEFAULT,,0,0,0,,{\kf12}When{\kf18} A{\kf18}J{\kf24} scribed{\kf12} and{\kf18} said{\kf18} good{\kf35}bye
-Dialogue: 0,0:00:42.51,0:00:44.76,DEFAULT,,0,0,0,,{\kf18}Say{\kf18}in'{\kf18} that{\kf18} she{\kf18} was{\kf18}n't{\kf18} co{\kf18}ming{\kf41} back
-Dialogue: 0,0:00:46.15,0:00:47.71,DEFAULT,,0,0,0,,{\kf18}Didn't{\kf18} know{\kf18} why{\kf12} but{\kf12} they{\kf12} couldn't{\kf18} stand{\kf18} by
-Dialogue: 0,0:00:47.82,0:00:49.55,DEFAULT,,0,0,0,,{\kf12}So they{\kf18} ran{\kf12} out{\kf12} the{\kf18} door{\kf12} and{\kf12} the{\kf12} pe{\kf12}ga{\kf12}sus{\kf18} fly
-Dialogue: 0,0:00:49.67,0:00:52.03,DEFAULT,,0,0,0,,{\kf12}To{\kf12} search{\kf12} the{\kf12} town{\kf12} for{\kf18} Ap{\kf12}ple{\kf52}jack
-Dialogue: 0,0:00:53.53,0:00:55.15,DEFAULT,,0,0,0,,{\kf18}Poor{\kf18} little{\kf24} A{\kf18}J{\kf18} lost{\kf18} her{\kf12} pride
-Dialogue: 0,0:00:55.26,0:00:56.94,DEFAULT,,0,0,0,,{\kf12}It{\kf12} made{\kf12} her{\kf29} hide{\kf18} it{\kf12} made{\kf12} her{\kf18} cry
-Dialogue: 0,0:00:57.05,0:00:59.30,DEFAULT,,0,0,0,,{\kf12}She{\kf18} could{\kf12}n't{\kf24} show{\kf12} her{\kf18} face{\kf18} in{\kf18} town{\kf18} a{\kf24}gain
-Dialogue: 0,0:01:00.69,0:01:02.42,DEFAULT,,0,0,0,,{\kf18}She{\kf18} ran{\kf12} a{\kf24}way{\kf12} 'cause{\kf12} she{\kf12} lost{\kf18} the{\kf12} game
-Dialogue: 0,0:01:02.53,0:01:04.38,DEFAULT,,0,0,0,,{\kf18}And{\kf18} got{\kf12} a{\kf24} job{\kf12} for{\kf12} the{\kf35} pay
-Dialogue: 0,0:01:04.61,0:01:06.80,DEFAULT,,0,0,0,,{\kf24}Buc{\kf18}kin'{\kf24} cher{\kf18}ry{\kf35} trees{\kf18} for{\kf18} some{\kf24} bits
-Dialogue: 0,0:01:08.13,0:01:11.25,DEFAULT,,0,0,0,,{\kf18}And{\kf18} Cher{\kf18}ry{\kf18} Ju{\kf18}bi{\kf24}lee{\kf12} was{\kf18} just{\kf18} as{\kf18} nice{\kf18} as{\kf12} she{\kf12} could{\kf24} be
-Dialogue: 0,0:01:11.36,0:01:14.48,DEFAULT,,0,0,0,,{\kf12}But{\kf18} Ap{\kf18}ple{\kf18}jack{\kf18} was{\kf18} hi{\kf18}ding{\kf18} facts{\kf18} and{\kf24} dod{\kf18}ging{\kf24} ques{\kf41}tions
-Dialogue: 0,0:01:15.63,0:01:17.42,DEFAULT,,0,0,0,,{\kf12}So{\kf18} Rain{\kf18}bow{\kf18} Dash{\kf12} and{\kf18} Pin{\kf18}kie{\kf35} Pie
-Dialogue: 0,0:01:17.59,0:01:19.09,DEFAULT,,0,0,0,,{\kf18}tried{\kf18} to{\kf18} get{\kf18} her{\kf12} to{\kf12} con{\kf29}fess
-Dialogue: 0,0:01:19.21,0:01:21.92,DEFAULT,,0,0,0,,{\kf12}And{\kf12} put{\kf12} her{\kf12} to{\kf12} the{\kf29} test{\kf18} with{\kf12} cher{\kf12}ry{\kf12} chim{\kf12}my{\kf18} chon{\kf52}gas
-Dialogue: 0,0:01:23.13,0:01:24.75,DEFAULT,,0,0,0,,{\kf18}Kumq{\kf18}uat{\kf18} pickle{\kf18}barrel{\kf18} made{\kf12} her{\kf29} crack
-Dialogue: 0,0:01:24.86,0:01:26.48,DEFAULT,,0,0,0,,{\kf12}'Cause she{\kf12} couldn't{\kf12} really{\kf18} take{\kf18} much{\kf18} more{\kf12} of{\kf18} that
-Dialogue: 0,0:01:26.59,0:01:29.19,DEFAULT,,0,0,0,,{\kf12}And so{\kf12} she{\kf12} said{\kf18} she{\kf12} tell{\kf18} them{\kf24} all{\kf18} what{\kf24} hap{\kf35}pened
-Dialogue: 0,0:01:30.34,0:01:31.96,DEFAULT,,0,0,0,,{\kf12}But{\kf12} she{\kf12} broke{\kf12} her{\kf12} pin{\kf12}kie{\kf12} pro{\kf12}mise{\kf12} and{\kf12} Pin{\kf12}kie{\kf12} raged
-Dialogue: 0,0:01:32.07,0:01:33.86,DEFAULT,,0,0,0,,{\kf12}So{\kf12} they{\kf12} stole{\kf12} a{\kf18} cart{\kf12} and{\kf12} be{\kf18}gan{\kf12} to{\kf29} chase
-Dialogue: 0,0:01:33.98,0:01:36.86,DEFAULT,,0,0,0,,{\kf12}'Cause{\kf29} friend{\kf29}ship{\kf24} is{\kf24} per{\kf24}sis{\kf41}tent
-Dialogue: 0,0:01:37.84,0:01:39.40,DEFAULT,,0,0,0,,{\kf18}Tears{\kf18} were{\kf18} shed{\kf18} and{\kf18} much{\kf18} was{\kf18} said
-Dialogue: 0,0:01:39.51,0:01:42.57,DEFAULT,,0,0,0,,{\kf12}As{\kf18} A{\kf18}J{\kf18} told{\kf18} the{\kf18} truth{\kf18} a{\kf12}bout{\kf12} the{\kf24} rea{\kf18}son{\kf29} she{\kf12} left
-Dialogue: 0,0:01:42.69,0:01:43.84,DEFAULT,,0,0,0,,{\kf18}And{\kf18} said{\kf18} i'm{\kf18} sor{\kf24}ry
-Dialogue: 0,0:01:45.11,0:01:46.84,DEFAULT,,0,0,0,,{\kf12}But{\kf12} it{\kf12} doe{\kf12}sn't{\kf18} mat{\kf12}ter{\kf12} if{\kf12} you{\kf12} did{\kf12}n't{\kf24} win
-Dialogue: 0,0:01:46.96,0:01:48.69,DEFAULT,,0,0,0,,{\kf12}It's{\kf12} who{\kf12} ya{\kf24} are{\kf18} be{\kf12}neath{\kf18} your{\kf24} skin
-Dialogue: 0,0:01:48.92,0:01:51.40,DEFAULT,,0,0,0,,{\kf18}Would{\kf18}n't{\kf18} be{\kf18} the{\kf18} sa{\kf18}me{\kf18} here{\kf18} with{\kf18}out{\kf41} you
-Dialogue: 0,0:01:52.38,0:01:55.38,DEFAULT,,0,0,0,,{\kf18}'Cause{\kf127} we{\kf41} all{\kf24} lo{\kf18}ve{\kf47} you
-Dialogue: 0,0:01:56.30,0:01:59.71,DEFAULT,,0,0,0,,{\kf24}Here{\kf35} in{\kf18} Po{\kf18}ny{\kf18}ville,{\kf18} E{\kf18}ques{\kf12}tri{\kf29}a
-Dialogue: 0,0:02:00.05,0:02:02.82,DEFAULT,,0,0,0,,{\kf122}We{\kf41} all{\kf18} lo{\kf24}ve{\kf47} you
-Dialogue: 0,0:02:03.69,0:02:07.15,DEFAULT,,0,0,0,,{\kf35}Here{\kf29} in{\kf18} Po{\kf18}ny{\kf18}ville,{\kf24} E{\kf18}ques{\kf18}tri{\kf29}a
+Dialogue: 0,0:00:09.00,0:00:10.56,DEFAULT,,0,0,0,,{\r}{\kf20}Well{\kf27} Der{\kf20}py{\kf27} wrecked{\kf20} the{\kf42} roof
+Dialogue: 0,0:00:10.67,0:00:12.35,DEFAULT,,0,0,0,,{\r}{\kf22}With{\kf15} her{\kf29} clum{\kf15}sy{\kf22} lit{\kf15}tle{\kf49} hooves
+Dialogue: 0,0:00:12.52,0:00:15.12,DEFAULT,,0,0,0,,{\r}{\kf22}So{\kf22} they{\kf22} had{\kf22} to{\kf22} get{\kf22} some{\kf22} bits{\kf22} to{\kf15} fix{\kf15} it{\kf54} up
+Dialogue: 0,0:00:16.62,0:00:18.00,DEFAULT,,0,0,0,,{\r}{\kf26}Rain{\kf20}bow{\kf20} tried{\kf20} her{\kf52} best
+Dialogue: 0,0:00:18.23,0:00:19.73,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf23} Der{\kf23}py{\kf23} is{\kf15} the{\kf43} best
+Dialogue: 0,0:00:20.19,0:00:22.85,DEFAULT,,0,0,0,,{\r}{\kf15}At{\kf22} der{\kf15}ping{\kf29} up{\kf15} and{\kf29} ma{\kf15}king{\kf22} a{\kf44} big{\kf59} mess
+Dialogue: 0,0:00:24.00,0:00:25.50,DEFAULT,,0,0,0,,{\r}{\kf30}A{\kf22}J{\kf22} said{\kf22} she'd{\kf15} win{\kf15} the{\kf24} prize
+Dialogue: 0,0:00:25.62,0:00:27.58,DEFAULT,,0,0,0,,{\r}{\kf24}They{\kf24} stomped{\kf16} the{\kf31} ground{\kf24} and{\kf24} watched{\kf24} her{\kf29} smile
+Dialogue: 0,0:00:27.69,0:00:29.77,DEFAULT,,0,0,0,,{\r}{\kf22}When{\kf22} she{\kf22} said{\kf22} she'd{\kf15} give{\kf15} it{\kf30} all{\kf30} a{\kf30}way
+Dialogue: 0,0:00:31.15,0:00:32.94,DEFAULT,,0,0,0,,{\r}{\kf15}So{\kf15} she{\kf15} took{\kf15} the{\kf30} train{\kf15} to{\kf22} Can{\kf22}ter{\kf30}lot
+Dialogue: 0,0:00:33.23,0:00:34.79,DEFAULT,,0,0,0,,{\r}{\kf18}Thought{\kf18} she'd{\kf18} go{\kf18} and{\kf18} win{\kf18} a{\kf48} lot
+Dialogue: 0,0:00:34.96,0:00:37.50,DEFAULT,,0,0,0,,{\r}{\kf15}For{\kf15} all{\kf15} her{\kf15} friends{\kf23} back{\kf23} there{\kf23} in{\kf23} Po{\kf23}ny{\kf79}ville
+Dialogue: 0,0:00:38.60,0:00:40.38,DEFAULT,,0,0,0,,{\r}{\kf16}Well{\kf16} a{\kf23} week{\kf16} went{\kf16} by{\kf16} and{\kf16} they{\kf31} all{\kf29} cried
+Dialogue: 0,0:00:40.50,0:00:42.35,DEFAULT,,0,0,0,,{\r}{\kf14}When{\kf21} A{\kf21}J{\kf28} scribed{\kf14} and{\kf21} said{\kf21} good{\kf45}bye
+Dialogue: 0,0:00:42.52,0:00:44.77,DEFAULT,,0,0,0,,{\r}{\kf22}Say{\kf22}in'{\kf22} that{\kf22} she{\kf22} was{\kf22}n't{\kf22} co{\kf22}ming{\kf49} back
+Dialogue: 0,0:00:46.15,0:00:47.71,DEFAULT,,0,0,0,,{\r}{\kf22}Didn't{\kf22} know{\kf22} why{\kf15} but{\kf15} they{\kf15} couldn't{\kf22} stand{\kf23} by
+Dialogue: 0,0:00:47.83,0:00:49.56,DEFAULT,,0,0,0,,{\r}{\kf14}So they{\kf21} ran{\kf14} out{\kf14} the{\kf21} door{\kf14} and{\kf14} the{\kf14} pe{\kf14}ga{\kf14}sus{\kf19} fly
+Dialogue: 0,0:00:49.67,0:00:52.04,DEFAULT,,0,0,0,,{\r}{\kf20}To{\kf20} search{\kf20} the{\kf20} town{\kf20} for{\kf30} Ap{\kf20}ple{\kf87}jack
+Dialogue: 0,0:00:53.54,0:00:55.15,DEFAULT,,0,0,0,,{\r}{\kf23}Poor{\kf23} little{\kf31} A{\kf23}J{\kf23} lost{\kf23} her{\kf16} pride
+Dialogue: 0,0:00:55.27,0:00:56.94,DEFAULT,,0,0,0,,{\r}{\kf16}It{\kf16} made{\kf16} her{\kf40} hide{\kf24} it{\kf16} made{\kf16} her{\kf23} cry
+Dialogue: 0,0:00:57.06,0:00:59.31,DEFAULT,,0,0,0,,{\r}{\kf16}She{\kf23} could{\kf16}n't{\kf31} show{\kf16} her{\kf23} face{\kf23} in{\kf23} town{\kf23} a{\kf31}gain
+Dialogue: 0,0:01:00.69,0:01:02.42,DEFAULT,,0,0,0,,{\r}{\kf23}She{\kf23} ran{\kf15} a{\kf30}way{\kf15} 'cause{\kf15} she{\kf15} lost{\kf23} the{\kf14} game
+Dialogue: 0,0:01:02.54,0:01:04.38,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf25} got{\kf17} a{\kf34} job{\kf17} for{\kf17} the{\kf50} pay
+Dialogue: 0,0:01:04.62,0:01:06.81,DEFAULT,,0,0,0,,{\r}{\kf29}Buc{\kf22}kin'{\kf29} cher{\kf22}ry{\kf44} trees{\kf22} for{\kf22} some{\kf29} bits
+Dialogue: 0,0:01:08.13,0:01:11.25,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf23} Cher{\kf23}ry{\kf23} Ju{\kf23}bi{\kf30}lee{\kf15} was{\kf23} just{\kf23} as{\kf23} nice{\kf23} as{\kf15} she{\kf15} could{\kf30} be
+Dialogue: 0,0:01:11.37,0:01:14.48,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf21} Ap{\kf21}ple{\kf21}jack{\kf21} was{\kf21} hi{\kf21}ding{\kf21} facts{\kf21} and{\kf28} dod{\kf21}ging{\kf28} ques{\kf53}tions
+Dialogue: 0,0:01:15.63,0:01:17.42,DEFAULT,,0,0,0,,{\r}{\kf14}So{\kf21} Rain{\kf21}bow{\kf21} Dash{\kf14} and{\kf21} Pin{\kf21}kie{\kf46} Pie
+Dialogue: 0,0:01:17.60,0:01:19.10,DEFAULT,,0,0,0,,{\r}{\kf21}tried{\kf21} to{\kf21} get{\kf21} her{\kf14} to{\kf14} con{\kf38}fess
+Dialogue: 0,0:01:19.21,0:01:21.92,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf14} put{\kf14} her{\kf14} to{\kf14} the{\kf36} test{\kf21} with{\kf14} cher{\kf14}ry{\kf14} chim{\kf14}my{\kf21} chon{\kf67}gas
+Dialogue: 0,0:01:23.13,0:01:24.75,DEFAULT,,0,0,0,,{\r}{\kf22}Kumq{\kf22}uat{\kf22} pickle{\kf22}barrel{\kf22} made{\kf15} her{\kf37} crack
+Dialogue: 0,0:01:24.87,0:01:26.48,DEFAULT,,0,0,0,,{\r}{\kf16}'Cause she{\kf16} couldn't{\kf16} really{\kf24} take{\kf24} much{\kf24} more{\kf16} of{\kf26} that
+Dialogue: 0,0:01:26.60,0:01:29.19,DEFAULT,,0,0,0,,{\r}{\kf17}And so{\kf17} she{\kf17} said{\kf25} she{\kf17} tell{\kf25} them{\kf34} all{\kf25} what{\kf34} hap{\kf49}pened
+Dialogue: 0,0:01:30.35,0:01:31.96,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf14} she{\kf14} broke{\kf14} her{\kf14} pin{\kf14}kie{\kf14} pro{\kf14}mise{\kf14} and{\kf14} Pin{\kf14}kie{\kf10} raged
+Dialogue: 0,0:01:32.08,0:01:33.87,DEFAULT,,0,0,0,,{\r}{\kf14}So{\kf14} they{\kf14} stole{\kf14} a{\kf21} cart{\kf14} and{\kf14} be{\kf21}gan{\kf14} to{\kf39} chase
+Dialogue: 0,0:01:33.98,0:01:36.87,DEFAULT,,0,0,0,,{\r}{\kf19}'Cause{\kf46} friend{\kf46}ship{\kf37} is{\kf37} per{\kf37}sis{\kf66}tent
+Dialogue: 0,0:01:37.85,0:01:39.40,DEFAULT,,0,0,0,,{\r}{\kf22}Tears{\kf22} were{\kf22} shed{\kf22} and{\kf22} much{\kf22} was{\kf24} said
+Dialogue: 0,0:01:39.52,0:01:42.58,DEFAULT,,0,0,0,,{\r}{\kf16}As{\kf24} A{\kf24}J{\kf24} told{\kf24} the{\kf24} truth{\kf24} a{\kf16}bout{\kf16} the{\kf32} rea{\kf24}son{\kf40} she{\kf18} left
+Dialogue: 0,0:01:42.69,0:01:43.85,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} said{\kf22} i'm{\kf22} sor{\kf27}ry
+Dialogue: 0,0:01:45.12,0:01:46.85,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf14} it{\kf14} doe{\kf14}sn't{\kf21} mat{\kf14}ter{\kf14} if{\kf14} you{\kf14} did{\kf14}n't{\kf26} win
+Dialogue: 0,0:01:46.96,0:01:48.69,DEFAULT,,0,0,0,,{\r}{\kf16}It's{\kf16} who{\kf16} ya{\kf31} are{\kf24} be{\kf16}neath{\kf24} your{\kf30} skin
+Dialogue: 0,0:01:48.92,0:01:51.40,DEFAULT,,0,0,0,,{\r}{\kf22}Would{\kf22}n't{\kf22} be{\kf22} the{\kf22} sa{\kf22}me{\kf22} here{\kf22} with{\kf22}out{\kf50} you
+Dialogue: 0,0:01:52.38,0:01:55.38,DEFAULT,,0,0,0,,{\r}{\kf19}'Cause{\kf140} we{\kf45} all{\kf26} lo{\kf19}ve{\kf51} you
+Dialogue: 0,0:01:56.31,0:01:59.71,DEFAULT,,0,0,0,,{\r}{\kf42}Here{\kf64} in{\kf32} Po{\kf32}ny{\kf32}ville,{\kf32} E{\kf32}ques{\kf21}tri{\kf53}a
+Dialogue: 0,0:02:00.06,0:02:02.83,DEFAULT,,0,0,0,,{\r}{\kf135}We{\kf45} all{\kf19} lo{\kf26}ve{\kf52} you
+Dialogue: 0,0:02:03.69,0:02:07.15,DEFAULT,,0,0,0,,{\r}{\kf59}Here{\kf49} in{\kf30} Po{\kf30}ny{\kf30}ville,{\kf40} E{\kf30}ques{\kf30}tri{\kf48}a

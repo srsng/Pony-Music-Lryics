@@ -1,37 +1,44 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Summer (Lyra and Bon-Bon)
+Artist: Griffin Village
+Original Timing: mylittlekaraoke.com by Pony Rock Project
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:03.99,0:01:06.57,DEFAULT,,0,0,0,,{\kf16}Pluck{\kf19}ing{\kf34} strings{\kf16} and{\kf16} bro{\kf16}ken{\kf38} wings
-Dialogue: 0,0:01:06.80,0:01:09.91,DEFAULT,,0,0,0,,{\kf16}Are{\kf4} the{\kf31} things{\kf12} that{\kf4} de{\kf23}fined{\kf8} my{\kf23} Po{\kf12}ny{\kf23}ville{\kf12} Sum{\kf12}mer
-Dialogue: 0,0:01:10.21,0:01:12.87,DEFAULT,,0,0,0,,{\kf12}When{\kf16} Nice{\kf16} Nurse{\kf46} Mare{\kf16} from{\kf16} ur{\kf19}gent{\kf34} care
-Dialogue: 0,0:01:13.18,0:01:16.55,DEFAULT,,0,0,0,,{\kf16}Put{\kf16} my{\kf27} wings{\kf8} in{\kf27} slings{\kf8} oh{\kf27} gosh{\kf16} what{\kf31} a{\kf16} bum{\kf38}mer
-Dialogue: 0,0:01:20.00,0:01:23.15,DEFAULT,,0,0,0,,{\kf19}You{\kf19} would{\kf16}n't{\kf27} care{\kf8} when{\kf27} you're{\kf8} in{\kf23} the{\kf23} care{\kf34} of
-Dialogue: 0,0:01:26.08,0:01:29.57,DEFAULT,,0,0,0,,{\kf4}When{\kf23} you're{\kf27} in{\kf4} the{\kf34} care{\kf4} of{\kf19} Ly{\kf8}ra{\kf31} and{\kf31} Bon-{\kf42}Bon
-Dialogue: 0,0:01:55.04,0:01:57.74,DEFAULT,,0,0,0,,{\kf4}I{\kf8} looked{\kf23} all{\kf38} day{\kf8} for{\kf16} a{\kf16} place{\kf4} to{\kf27} stay
-Dialogue: 0,0:01:58.00,0:02:01.15,DEFAULT,,0,0,0,,{\kf12}But{\kf8} no{\kf12} va{\kf8}can{\kf4}cy{\kf53} signs{\kf31} went{\kf27} on{\kf8} for{\kf23} miles{\kf31}~
-Dialogue: 0,0:02:01.34,0:02:04.08,DEFAULT,,0,0,0,,{\kf4}They{\kf16} saw{\kf19} my{\kf31} cast{\kf8} they{\kf8} did{\kf8}n't{\kf23} e{\kf16}ven{\kf31} ask
-Dialogue: 0,0:02:04.64,0:02:07.83,DEFAULT,,0,0,0,,{\kf8}They{\kf8} took{\kf12} me{\kf19} right{\kf27} in{\kf8} to{\kf27} stay{\kf12} for{\kf8} a{\kf19}~{\kf19} while{\kf42}~
-Dialogue: 0,0:02:11.20,0:02:14.20,DEFAULT,,0,0,0,,{\kf8}You{\kf8} would{\kf4}n't{\kf23} ask{\kf4} when{\kf12} you're{\kf8} as{\kf12} des{\kf8}p'rate{\kf16} as{\kf34} I{\kf38}~
-Dialogue: 0,0:02:17.43,0:02:20.69,DEFAULT,,0,0,0,,{\kf8}You{\kf19} don't{\kf23} ask{\kf27} why{\kf12}~{\kf16} when{\kf8} it's{\kf16} Ly{\kf4}ra{\kf27} and{\kf27} Bon-{\kf31}Bon
-Dialogue: 0,0:03:14.93,0:03:18.16,DEFAULT,,0,0,0,,{\kf4}I{\kf12} watched{\kf16} them{\kf8} to{\kf16}geth{\kf16}er{\kf16} while{\kf12} un{\kf19}der{\kf12} the{\kf19} weath{\kf16}er{\kf12} and
-Dialogue: 0,0:03:18.35,0:03:20.82,DEFAULT,,0,0,0,,{\kf16}Could{\kf27}n't{\kf12} be{\kf27}lieve{\kf34} my{\kf87} eyes
-Dialogue: 0,0:03:21.31,0:03:24.31,DEFAULT,,0,0,0,,{\kf4}Two{\kf12} po{\kf23}nies{\kf8} like{\kf12} this{\kf23} who{\kf12} will{\kf16} share{\kf16} eve{\kf8}ry{\kf12} kiss{\kf16} like
-Dialogue: 0,0:03:24.46,0:03:26.82,DEFAULT,,0,0,0,,{\kf8}They'll{\kf31} share{\kf8} the{\kf16} rest{\kf8} of{\kf23} their{\kf61} lives
-Dialogue: 0,0:03:27.54,0:03:30.46,DEFAULT,,0,0,0,,{\kf4}It{\kf19} made{\kf19} me{\kf31} blue{\kf19} and{\kf16} a{\kf8} lit{\kf12}tle{\kf8} bit{\kf34} green
-Dialogue: 0,0:03:30.91,0:03:33.43,DEFAULT,,0,0,0,,{\kf4}That{\kf16} they{\kf4} were{\kf4} flushed{\kf19} red{\kf19} with{\kf87} love
-Dialogue: 0,0:03:33.84,0:03:36.99,DEFAULT,,0,0,0,,{\kf12}I'm{\kf8} too{\kf19} yel{\kf12}low{\kf4} to{\kf23} tell{\kf16} them{\kf16} I'm{\kf16} leav{\kf8}ing{\kf4} to{\kf23}day
-Dialogue: 0,0:03:37.10,0:03:40.25,DEFAULT,,0,0,0,,{\kf12}Un{\kf4}der{\kf4} the{\kf19} or{\kf8}ange{\kf16} sun{\kf12}set{\kf4} a{\kf23}bove{\kf102}~
-Dialogue: 0,0:03:40.85,0:03:47.04,DEFAULT,,0,0,0,,{\kf151}Ooh{\kf154}~{\kf304}~
-Dialogue: 0,0:03:47.23,0:03:52.82,DEFAULT,,0,0,0,,{\kf158}Ooh{\kf154}~{\kf241}~
-Dialogue: 0,0:03:53.61,0:03:59.61,DEFAULT,,0,0,0,,{\kf162}Ooh{\kf154}~{\kf158}~{\kf113}~
-Dialogue: 0,0:04:00.02,0:04:06.25,DEFAULT,,0,0,0,,{\kf154}Ooh{\kf154}~{\kf154}~{\kf151}~
-Dialogue: 0,0:04:06.40,0:04:08.99,DEFAULT,,0,0,0,,{\kf16}Pluck{\kf19}ing{\kf34} strings{\kf16} and{\kf16} bro{\kf16}ken{\kf38} wings
-Dialogue: 0,0:04:09.17,0:04:12.29,DEFAULT,,0,0,0,,{\kf16}Are{\kf4} the{\kf31} things{\kf12} that{\kf4} de{\kf23}fined{\kf8} my{\kf23} Po{\kf12}ny{\kf23}ville{\kf12} Sum{\kf12}mer
+Dialogue: 0,0:01:03.99,0:01:06.58,DEFAULT,,0,0,0,,{\r}{\kf26}Pluck{\kf32}ing{\kf58} strings{\kf26} and{\kf26} bro{\kf26}ken{\kf65} wings
+Dialogue: 0,0:01:06.80,0:01:09.92,DEFAULT,,0,0,0,,{\r}{\kf27}Are{\kf10} the{\kf54} things{\kf20} that{\kf10} de{\kf41}fined{\kf14} my{\kf41} Po{\kf20}ny{\kf41}ville{\kf20} Sum{\kf13}mer
+Dialogue: 0,0:01:10.22,0:01:12.88,DEFAULT,,0,0,0,,{\r}{\kf18}When{\kf24} Nice{\kf24} Nurse{\kf71} Mare{\kf24} from{\kf24} ur{\kf30}gent{\kf51} care
+Dialogue: 0,0:01:13.18,0:01:16.56,DEFAULT,,0,0,0,,{\r}{\kf23}Put{\kf23} my{\kf40} wings{\kf11} in{\kf40} slings{\kf11} oh{\kf40} gosh{\kf23} what{\kf46} a{\kf23} bum{\kf58}mer
+Dialogue: 0,0:01:20.01,0:01:23.16,DEFAULT,,0,0,0,,{\r}{\kf30}You{\kf30} would{\kf24}n't{\kf42} care{\kf12} when{\kf42} you're{\kf12} in{\kf36} the{\kf36} care{\kf51} of
+Dialogue: 0,0:01:26.08,0:01:29.57,DEFAULT,,0,0,0,,{\r}{\kf10}When{\kf35} you're{\kf41} in{\kf10} the{\kf53} care{\kf10} of{\kf30} Ly{\kf12}ra{\kf47} and{\kf47} Bon-{\kf54}Bon
+Dialogue: 0,0:01:55.04,0:01:57.74,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf15} looked{\kf44} all{\kf73} day{\kf15} for{\kf29} a{\kf29} place{\kf10} to{\kf45} stay
+Dialogue: 0,0:01:58.00,0:02:01.16,DEFAULT,,0,0,0,,{\r}{\kf17}But{\kf11} no{\kf17} va{\kf11}can{\kf10}cy{\kf79} signs{\kf45} went{\kf39} on{\kf11} for{\kf34} miles{\kf41}~
+Dialogue: 0,0:02:01.34,0:02:04.08,DEFAULT,,0,0,0,,{\r}{\kf10}They{\kf26} saw{\kf33} my{\kf52} cast{\kf13} they{\kf13} did{\kf13}n't{\kf39} e{\kf26}ven{\kf49} ask
+Dialogue: 0,0:02:04.64,0:02:07.83,DEFAULT,,0,0,0,,{\r}{\kf12}They{\kf12} took{\kf18} me{\kf30} right{\kf41} in{\kf12} to{\kf41} stay{\kf18} for{\kf12} a{\kf30}~{\kf30} while{\kf63}~
+Dialogue: 0,0:02:11.21,0:02:14.21,DEFAULT,,0,0,0,,{\r}{\kf13}You{\kf13} would{\kf10}n't{\kf40} ask{\kf10} when{\kf20} you're{\kf13} as{\kf20} des{\kf13}p'rate{\kf27} as{\kf60} I{\kf61}~
+Dialogue: 0,0:02:17.44,0:02:20.70,DEFAULT,,0,0,0,,{\r}{\kf12}You{\kf29} don't{\kf35} ask{\kf41} why{\kf17}~{\kf23} when{\kf12} it's{\kf23} Ly{\kf10}ra{\kf41} and{\kf41} Bon-{\kf42}Bon
+Dialogue: 0,0:03:14.94,0:03:18.16,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf22} watched{\kf29} them{\kf14} to{\kf29}geth{\kf29}er{\kf29} while{\kf22} un{\kf36}der{\kf22} the{\kf36} weath{\kf29}er{\kf16} and
+Dialogue: 0,0:03:18.35,0:03:20.83,DEFAULT,,0,0,0,,{\r}{\kf19}Could{\kf33}n't{\kf14} be{\kf33}lieve{\kf42} my{\kf107} eyes
+Dialogue: 0,0:03:21.32,0:03:24.32,DEFAULT,,0,0,0,,{\r}{\kf10}Two{\kf22} po{\kf44}nies{\kf15} like{\kf22} this{\kf44} who{\kf22} will{\kf29} share{\kf29} eve{\kf15}ry{\kf22} kiss{\kf26} like
+Dialogue: 0,0:03:24.47,0:03:26.83,DEFAULT,,0,0,0,,{\r}{\kf12}They'll{\kf47} share{\kf12} the{\kf24} rest{\kf12} of{\kf35} their{\kf94} lives
+Dialogue: 0,0:03:27.54,0:03:30.47,DEFAULT,,0,0,0,,{\r}{\kf10}It{\kf33} made{\kf33} me{\kf53} blue{\kf33} and{\kf27} a{\kf13} lit{\kf20}tle{\kf13} bit{\kf58} green
+Dialogue: 0,0:03:30.92,0:03:33.43,DEFAULT,,0,0,0,,{\r}{\kf10}That{\kf25} they{\kf10} were{\kf10} flushed{\kf31} red{\kf31} with{\kf134} love
+Dialogue: 0,0:03:33.84,0:03:36.99,DEFAULT,,0,0,0,,{\r}{\kf23}I'm{\kf15} too{\kf38} yel{\kf23}low{\kf10} to{\kf46} tell{\kf31} them{\kf31} I'm{\kf31} leav{\kf15}ing{\kf10} to{\kf42}day
+Dialogue: 0,0:03:37.11,0:03:40.26,DEFAULT,,0,0,0,,{\r}{\kf18}Un{\kf10}der{\kf10} the{\kf30} or{\kf12}ange{\kf24} sun{\kf18}set{\kf10} a{\kf36}bove{\kf147}~
+Dialogue: 0,0:03:40.86,0:03:47.05,DEFAULT,,0,0,0,,{\r}{\kf153}Ooh{\kf157}~{\kf309}~
+Dialogue: 0,0:03:47.23,0:03:52.82,DEFAULT,,0,0,0,,{\r}{\kf160}Ooh{\kf156}~{\kf243}~
+Dialogue: 0,0:03:53.61,0:03:59.61,DEFAULT,,0,0,0,,{\r}{\kf165}Ooh{\kf158}~{\kf162}~{\kf115}~
+Dialogue: 0,0:04:00.03,0:04:06.25,DEFAULT,,0,0,0,,{\r}{\kf157}Ooh{\kf157}~{\kf157}~{\kf152}~
+Dialogue: 0,0:04:06.40,0:04:08.99,DEFAULT,,0,0,0,,{\r}{\kf26}Pluck{\kf32}ing{\kf58} strings{\kf26} and{\kf26} bro{\kf26}ken{\kf65} wings
+Dialogue: 0,0:04:09.18,0:04:12.29,DEFAULT,,0,0,0,,{\r}{\kf27}Are{\kf10} the{\kf54} things{\kf20} that{\kf10} de{\kf41}fined{\kf14} my{\kf41} Po{\kf20}ny{\kf41}ville{\kf20} Sum{\kf13}mer

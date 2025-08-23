@@ -1,52 +1,59 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Parasitic (ft PrinceWhateverer, Arabesque Sympony, L-Train)
+Artist: Osoch
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:25.05,0:00:27.79,DEFAULT,,0,0,0,,{\kf40}Be{\kf44}fore{\kf36} my{\kf24} dumb{\kf16}struck{\kf32} eyes
-Dialogue: 0,0:00:28.50,0:00:30.50,DEFAULT,,0,0,0,,{\kf12}Lies{\kf12} a{\kf24} know{\kf12}ledge,{\kf16} one{\kf16} so{\kf55} grand
-Dialogue: 0,0:00:31.05,0:00:33.29,DEFAULT,,0,0,0,,{\kf20}The{\kf20} pros{\kf28}pect,{\kf24} en{\kf24}tic{\kf36}ing
-Dialogue: 0,0:00:33.57,0:00:35.45,DEFAULT,,0,0,0,,{\kf20}Hits{\kf20} a{\kf122} nerve
-Dialogue: 0,0:00:35.84,0:00:37.22,DEFAULT,,0,0,0,,{\kf44}Know{\kf24}ing{\kf24} that{\kf28} I
-Dialogue: 0,0:00:37.96,0:00:40.67,DEFAULT,,0,0,0,,{\kf28}Have{\kf20} tried{\kf16} to{\kf20} fill{\kf32} a{\kf24} hole{\kf24} in{\kf55}side
-Dialogue: 0,0:00:41.11,0:00:45.94,DEFAULT,,0,0,0,,{\kf24}With{\kf16} o{\kf20}pen{\kf36} mind,{\kf16} I'll{\kf16} sa{\kf20}tis{\kf36}fy{\kf24} my{\kf24} need{\kf20} and{\kf130} thrive
-Dialogue: 0,0:00:51.63,0:00:54.02,DEFAULT,,0,0,0,,{\kf44}Must{\kf44} I{\kf36} re{\kf67}cur
-Dialogue: 0,0:00:54.46,0:00:56.34,DEFAULT,,0,0,0,,{\kf20}To{\kf16} such{\kf20} foul{\kf16} sor{\kf12}ce{\kf52}ry?
-Dialogue: 0,0:00:56.65,0:00:58.93,DEFAULT,,0,0,0,,{\kf40}Will{\kf44} I{\kf32} en{\kf59}dure
-Dialogue: 0,0:00:59.48,0:01:01.25,DEFAULT,,0,0,0,,{\kf20}The{\kf20} mo{\kf16}ment{\kf16} when{\kf16} it{\kf40} hits?
-Dialogue: 0,0:01:01.64,0:01:05.96,DEFAULT,,0,0,0,,{\kf40}Must{\kf36} I{\kf36} re{\kf52}cur{\kf40} to{\kf118} this?
-Dialogue: 0,0:01:13.93,0:01:16.64,DEFAULT,,0,0,0,,{\kf28}Oh{\kf24} what{\kf16} a{\kf28} feel{\kf20}~{\kf55}ing{\kf48}~
-Dialogue: 0,0:01:19.00,0:01:21.24,DEFAULT,,0,0,0,,{\kf28}I{\kf16} want{\kf20} to{\kf20} feel{\kf16}~{\kf63} it
-Dialogue: 0,0:01:24.14,0:01:27.44,DEFAULT,,0,0,0,,{\kf24}The{\kf24} po{\kf24}wer{\kf28} it{\kf36} will{\kf40} grant{\kf16}~{\kf67}~
-Dialogue: 0,0:01:29.21,0:01:35.45,DEFAULT,,0,0,0,,{\kf20}I{\kf24} want{\kf24} to{\kf28} have{\kf24}~{\kf40} it{\kf99} all{\kf138}~{\kf87}~{\kf40}~
-Dialogue: 0,0:01:51.51,0:01:53.20,DEFAULT,,0,0,0,,{\kf36}Oh,{\kf12} the{\kf12} burn{\kf12}ing{\kf20} sen{\kf24}sa{\kf28}tion
-Dialogue: 0,0:01:53.40,0:01:54.18,DEFAULT,,0,0,0,,{\kf16}(It{\kf8} drives{\kf16} me{\kf24} mad)
-Dialogue: 0,0:01:54.34,0:01:55.56,DEFAULT,,0,0,0,,{\kf8}A{\kf16} hard-{\kf12}gripped{\kf12} suf{\kf12}fo{\kf24}ca{\kf8}tion
-Dialogue: 0,0:01:55.67,0:01:56.85,DEFAULT,,0,0,0,,{\kf28}(Tight{\kf20}ens{\kf20} the{\kf32} grasp)
-Dialogue: 0,0:01:57.01,0:02:01.33,DEFAULT,,0,0,0,,{\kf20}Claim{\kf24}ing{\kf28} my{\kf20} sen{\kf24}ses{\kf16} for{\kf24} its{\kf20} pa{\kf20}ra{\kf20}si{\kf24}tic{\kf103} self
-Dialogue: 0,0:02:02.00,0:02:04.08,DEFAULT,,0,0,0,,{\kf28}For{\kf20} long{\kf16} I{\kf16} have{\kf28} o{\kf63}bliged
-Dialogue: 0,0:02:04.47,0:02:06.51,DEFAULT,,0,0,0,,{\kf24}My{\kf20} mind{\kf12} to{\kf20} all{\kf20} its{\kf55} might
-Dialogue: 0,0:02:06.98,0:02:08.59,DEFAULT,,0,0,0,,{\kf24}What's{\kf24} more?{\kf16} It{\kf20} would{\kf20}n't{\kf16} hurt
-Dialogue: 0,0:02:08.75,0:02:11.62,DEFAULT,,0,0,0,,{\kf20}To{\kf20} give{\kf24} my{\kf24}self{\kf16} in{\kf16} for{\kf24} more{\kf63} time
-Dialogue: 0,0:02:14.64,0:02:17.58,DEFAULT,,0,0,0,,{\kf24}Oh{\kf24} what{\kf20} a{\kf24} feel{\kf24}~{\kf28}ing{\kf103}~
-Dialogue: 0,0:02:19.74,0:02:23.16,DEFAULT,,0,0,0,,{\kf24}Hard{\kf24} to{\kf24} be{\kf32}lieve{\kf40}~{\kf63} it{\kf52}~{\kf24}~
-Dialogue: 0,0:02:24.85,0:02:28.07,DEFAULT,,0,0,0,,{\kf20}The{\kf24} po{\kf24}wer{\kf20} that{\kf36} it{\kf48} grants{\kf12}~{\kf63}~
-Dialogue: 0,0:02:30.23,0:02:33.72,DEFAULT,,0,0,0,,{\kf44}I{\kf44} must{\kf40} have{\kf142} more...
-Dialogue: 0,0:02:59.33,0:03:03.06,DEFAULT,,0,0,0,,{\kf48}Do{\kf87} you{\kf79} re{\kf32}a{\kf32}lize{\kf32}~
-Dialogue: 0,0:03:03.37,0:03:08.83,DEFAULT,,0,0,0,,{\kf24}The{\kf28} harm{\kf16}~{\kf24} this{\kf28} has{\kf55} caused{\kf28} bet{\kf36}ween{\kf185} us?
-Dialogue: 0,0:03:10.32,0:03:14.72,DEFAULT,,0,0,0,,{\kf28}Sure{\kf32}ly{\kf24} the{\kf28} friend{\kf63}~{\kf36} we{\kf28} know{\kf20}~{\kf28} will
-Dialogue: 0,0:03:14.99,0:03:19.74,DEFAULT,,0,0,0,,{\kf36}Fight{\kf32} back{\kf36} her{\kf63} de{\kf205}mons
-Dialogue: 0,0:03:21.28,0:03:23.08,DEFAULT,,0,0,0,,{\kf24}Can't{\kf28} you{\kf83} see
-Dialogue: 0,0:03:23.59,0:03:30.86,DEFAULT,,0,0,0,,{\kf44}How{\kf52} your{\kf40} acts{\kf24} have{\kf16}~{\kf28} tore{\kf20}~{\kf36} you{\kf275} down{\kf55}~?
-Dialogue: 0,0:03:31.21,0:03:34.23,DEFAULT,,0,0,0,,{\kf16}So{\kf40} get{\kf20} back{\kf24} up,{\kf24} fight{\kf36} back
-Dialogue: 0,0:03:34.78,0:03:44.36,DEFAULT,,0,0,0,,{\kf32}And{\kf24} shine{\kf20}~{\kf40} on{\kf40} once{\kf55} a{\kf268}gain{\kf381}~!
-Dialogue: 0,0:05:13.23,0:05:16.25,DEFAULT,,0,0,0,,{\kf24}Oh{\kf24} what{\kf24} a{\kf24} feel{\kf24}~{\kf24}ing{\kf103}~
-Dialogue: 0,0:05:18.29,0:05:21.55,DEFAULT,,0,0,0,,{\kf32}Ne{\kf24}ver{\kf24} con{\kf24}ceive{\kf24} it{\kf24} a{\kf20}gain{\kf107}~
-Dialogue: 0,0:05:23.40,0:05:26.89,DEFAULT,,0,0,0,,{\kf20}The{\kf24} pe{\kf20}ril{\kf20} that{\kf44} it{\kf40} gives{\kf16}~{\kf87}~
-Dialogue: 0,0:05:28.58,0:05:33.72,DEFAULT,,0,0,0,,{\kf20}Is{\kf24} not{\kf20}~{\kf40} worth{\kf40} the{\kf299} shot
+Dialogue: 0,0:00:25.05,0:00:27.80,DEFAULT,,0,0,0,,{\r}{\kf57}Be{\kf63}fore{\kf52} my{\kf34} dumb{\kf23}struck{\kf46} eyes
+Dialogue: 0,0:00:28.51,0:00:30.51,DEFAULT,,0,0,0,,{\r}{\kf16}Lies{\kf16} a{\kf32} know{\kf16}ledge,{\kf22} one{\kf22} so{\kf76} grand
+Dialogue: 0,0:00:31.06,0:00:33.30,DEFAULT,,0,0,0,,{\r}{\kf29}The{\kf29} pros{\kf41}pect,{\kf35} en{\kf35}tic{\kf55}ing
+Dialogue: 0,0:00:33.57,0:00:35.46,DEFAULT,,0,0,0,,{\r}{\kf23}Hits{\kf23} a{\kf142} nerve
+Dialogue: 0,0:00:35.85,0:00:37.22,DEFAULT,,0,0,0,,{\r}{\kf50}Know{\kf27}ing{\kf27} that{\kf33} I
+Dialogue: 0,0:00:37.97,0:00:40.68,DEFAULT,,0,0,0,,{\r}{\kf34}Have{\kf25} tried{\kf20} to{\kf25} fill{\kf39} a{\kf30} hole{\kf30} in{\kf68}side
+Dialogue: 0,0:00:41.11,0:00:45.94,DEFAULT,,0,0,0,,{\r}{\kf30}With{\kf20} o{\kf25}pen{\kf45} mind,{\kf20} I'll{\kf20} sa{\kf25}tis{\kf45}fy{\kf30} my{\kf30} need{\kf25} and{\kf168} thrive
+Dialogue: 0,0:00:51.63,0:00:54.03,DEFAULT,,0,0,0,,{\r}{\kf55}Must{\kf55} I{\kf45} re{\kf85}cur
+Dialogue: 0,0:00:54.46,0:00:56.35,DEFAULT,,0,0,0,,{\r}{\kf28}To{\kf22} such{\kf28} foul{\kf22} sor{\kf17}ce{\kf71}ry?
+Dialogue: 0,0:00:56.66,0:00:58.94,DEFAULT,,0,0,0,,{\r}{\kf52}Will{\kf57} I{\kf41} en{\kf78}dure
+Dialogue: 0,0:00:59.49,0:01:01.25,DEFAULT,,0,0,0,,{\r}{\kf28}The{\kf28} mo{\kf22}ment{\kf22} when{\kf22} it{\kf55} hits?
+Dialogue: 0,0:01:01.65,0:01:05.97,DEFAULT,,0,0,0,,{\r}{\kf53}Must{\kf48} I{\kf48} re{\kf69}cur{\kf53} to{\kf161} this?
+Dialogue: 0,0:01:13.94,0:01:16.65,DEFAULT,,0,0,0,,{\r}{\kf34}Oh{\kf30} what{\kf20} a{\kf34} feel{\kf25}~{\kf69}ing{\kf59}~
+Dialogue: 0,0:01:19.00,0:01:21.24,DEFAULT,,0,0,0,,{\r}{\kf38}I{\kf22} want{\kf27} to{\kf27} feel{\kf22}~{\kf88} it
+Dialogue: 0,0:01:24.15,0:01:27.45,DEFAULT,,0,0,0,,{\r}{\kf30}The{\kf30} po{\kf30}wer{\kf36} it{\kf46} will{\kf51} grant{\kf20}~{\kf87}~
+Dialogue: 0,0:01:29.21,0:01:35.46,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf28} want{\kf28} to{\kf33} have{\kf28}~{\kf47} it{\kf118} all{\kf165}~{\kf104}~{\kf49}~
+Dialogue: 0,0:01:51.52,0:01:53.20,DEFAULT,,0,0,0,,{\r}{\kf42}Oh,{\kf14} the{\kf14} burn{\kf14}ing{\kf23} sen{\kf28}sa{\kf34}tion
+Dialogue: 0,0:01:53.40,0:01:54.19,DEFAULT,,0,0,0,,{\r}{\kf20}(It{\kf10} drives{\kf20} me{\kf29} mad)
+Dialogue: 0,0:01:54.34,0:01:55.56,DEFAULT,,0,0,0,,{\r}{\kf11}A{\kf21} hard-{\kf16}gripped{\kf16} suf{\kf16}fo{\kf32}ca{\kf10}tion
+Dialogue: 0,0:01:55.68,0:01:56.86,DEFAULT,,0,0,0,,{\r}{\kf33}(Tight{\kf24}ens{\kf24} the{\kf37} grasp)
+Dialogue: 0,0:01:57.01,0:02:01.33,DEFAULT,,0,0,0,,{\r}{\kf25}Claim{\kf30}ing{\kf35} my{\kf25} sen{\kf30}ses{\kf20} for{\kf30} its{\kf25} pa{\kf25}ra{\kf25}si{\kf30}tic{\kf132} self
+Dialogue: 0,0:02:02.00,0:02:04.08,DEFAULT,,0,0,0,,{\r}{\kf34}For{\kf24} long{\kf19} I{\kf19} have{\kf34} o{\kf78}bliged
+Dialogue: 0,0:02:04.47,0:02:06.52,DEFAULT,,0,0,0,,{\r}{\kf32}My{\kf27} mind{\kf16} to{\kf27} all{\kf27} its{\kf75} might
+Dialogue: 0,0:02:06.99,0:02:08.60,DEFAULT,,0,0,0,,{\r}{\kf32}What's{\kf32} more?{\kf21} It{\kf27} would{\kf27}n't{\kf22} hurt
+Dialogue: 0,0:02:08.75,0:02:11.62,DEFAULT,,0,0,0,,{\r}{\kf28}To{\kf28} give{\kf33} my{\kf33}self{\kf22} in{\kf22} for{\kf33} more{\kf88} time
+Dialogue: 0,0:02:14.64,0:02:17.59,DEFAULT,,0,0,0,,{\r}{\kf29}Oh{\kf29} what{\kf24} a{\kf29} feel{\kf29}~{\kf33}ing{\kf122}~
+Dialogue: 0,0:02:19.75,0:02:23.17,DEFAULT,,0,0,0,,{\r}{\kf29}Hard{\kf29} to{\kf29} be{\kf39}lieve{\kf48}~{\kf77} it{\kf63}~{\kf28}~
+Dialogue: 0,0:02:24.85,0:02:28.07,DEFAULT,,0,0,0,,{\r}{\kf26}The{\kf31} po{\kf31}wer{\kf26} that{\kf47} it{\kf62} grants{\kf16}~{\kf83}~
+Dialogue: 0,0:02:30.23,0:02:33.73,DEFAULT,,0,0,0,,{\r}{\kf56}I{\kf56} must{\kf51} have{\kf186} more...
+Dialogue: 0,0:02:59.33,0:03:03.06,DEFAULT,,0,0,0,,{\r}{\kf57}Do{\kf105} you{\kf96} re{\kf38}a{\kf38}lize{\kf39}~
+Dialogue: 0,0:03:03.37,0:03:08.83,DEFAULT,,0,0,0,,{\r}{\kf31}The{\kf36} harm{\kf20}~{\kf31} this{\kf36} has{\kf71} caused{\kf36} bet{\kf46}ween{\kf239} us?
+Dialogue: 0,0:03:10.32,0:03:14.72,DEFAULT,,0,0,0,,{\r}{\kf43}Sure{\kf49}ly{\kf37} the{\kf43} friend{\kf98}~{\kf55} we{\kf43} know{\kf31}~{\kf41} will
+Dialogue: 0,0:03:15.00,0:03:19.75,DEFAULT,,0,0,0,,{\r}{\kf45}Fight{\kf40} back{\kf45} her{\kf81} de{\kf264}mons
+Dialogue: 0,0:03:21.28,0:03:23.09,DEFAULT,,0,0,0,,{\r}{\kf32}Can't{\kf37} you{\kf112} see
+Dialogue: 0,0:03:23.60,0:03:30.86,DEFAULT,,0,0,0,,{\r}{\kf54}How{\kf63} your{\kf49} acts{\kf29} have{\kf19}~{\kf34} tore{\kf24}~{\kf44} you{\kf341} down{\kf69}~?
+Dialogue: 0,0:03:31.21,0:03:34.24,DEFAULT,,0,0,0,,{\r}{\kf30}So{\kf76} get{\kf38} back{\kf45} up,{\kf45} fight{\kf68} back
+Dialogue: 0,0:03:34.79,0:03:44.37,DEFAULT,,0,0,0,,{\r}{\kf35}And{\kf26} shine{\kf22}~{\kf44} on{\kf44} once{\kf62} a{\kf299}gain{\kf426}~!
+Dialogue: 0,0:05:13.23,0:05:16.25,DEFAULT,,0,0,0,,{\r}{\kf29}Oh{\kf29} what{\kf29} a{\kf29} feel{\kf29}~{\kf29}ing{\kf128}~
+Dialogue: 0,0:05:18.30,0:05:21.56,DEFAULT,,0,0,0,,{\r}{\kf37}Ne{\kf28}ver{\kf28} con{\kf28}ceive{\kf28} it{\kf28} a{\kf23}gain{\kf126}~
+Dialogue: 0,0:05:23.40,0:05:26.90,DEFAULT,,0,0,0,,{\r}{\kf26}The{\kf31} pe{\kf26}ril{\kf26} that{\kf56} it{\kf51} gives{\kf21}~{\kf112}~
+Dialogue: 0,0:05:28.58,0:05:33.73,DEFAULT,,0,0,0,,{\r}{\kf23}Is{\kf28} not{\kf23}~{\kf46} worth{\kf46} the{\kf348} shot

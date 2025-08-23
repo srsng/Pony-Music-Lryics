@@ -1,39 +1,46 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Beyond Her Garden
+Artist: Glaze
+Original Timing: mylittlekaraoke.com by RarityMLG, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.95,0:00:17.87,DEFAULT,,0,0,0,,{\kf13}You{\kf22} try{\kf22} your{\kf39} best{\kf22} but{\kf22} it's{\kf31} not{\kf31} quite{\kf61} there
-Dialogue: 0,0:00:18.65,0:00:21.66,DEFAULT,,0,0,0,,{\kf18}You{\kf18} kick{\kf18} a{\kf18} hoof{\kf18} and{\kf18} say{\kf18} it's{\kf35} just{\kf39} not{\kf69} fair
-Dialogue: 0,0:00:22.22,0:00:25.35,DEFAULT,,0,0,0,,{\kf18}A{\kf26} sim{\kf22}ple{\kf39} mare{\kf26} li{\kf22}ving{\kf35} sim{\kf31}ple{\kf78} dreams
-Dialogue: 0,0:00:25.87,0:00:29.05,DEFAULT,,0,0,0,,{\kf18}A{\kf22} ru{\kf18}mour{\kf43} that's{\kf39} not{\kf22} quite{\kf22} as{\kf22} it{\kf26} see{\kf61}~ms
-Dialogue: 0,0:00:58.92,0:01:01.84,DEFAULT,,0,0,0,,{\kf13}You{\kf22} try{\kf22} your{\kf39} best{\kf22} but{\kf22} it's{\kf31} not{\kf31} quite{\kf61} there
-Dialogue: 0,0:01:02.62,0:01:05.63,DEFAULT,,0,0,0,,{\kf18}You{\kf18} kick{\kf18} a{\kf18} hoof{\kf18} and{\kf18} say{\kf18} it's{\kf35} just{\kf39} not{\kf69} fair
-Dialogue: 0,0:01:06.18,0:01:09.32,DEFAULT,,0,0,0,,{\kf18}A{\kf26} sim{\kf22}ple{\kf39} mare{\kf26} li{\kf22}ving{\kf35} sim{\kf31}ple{\kf78} dreams
-Dialogue: 0,0:01:09.84,0:01:12.97,DEFAULT,,0,0,0,,{\kf18}A{\kf22} ru{\kf18}mour{\kf43} that's{\kf35} not{\kf22} quite{\kf22} as{\kf22} it{\kf26} see{\kf61}~ms
-Dialogue: 0,0:01:28.02,0:01:29.48,DEFAULT,,0,0,0,,{\kf13}Car{\kf9}rot{\kf26} Top,{\kf9} go{\kf13} be{\kf22}yond{\kf35} us
-Dialogue: 0,0:01:29.52,0:01:31.20,DEFAULT,,0,0,0,,{\kf9}You're{\kf9} a{\kf18} late{\kf35} star,{\kf13} time{\kf5} to{\kf18} fool{\kf26} us
-Dialogue: 0,0:01:31.37,0:01:33.09,DEFAULT,,0,0,0,,{\kf9}Keep{\kf9} your{\kf22} friends{\kf26} close,{\kf9} they're{\kf9} what{\kf22} drive{\kf35} you
-Dialogue: 0,0:01:33.22,0:01:34.81,DEFAULT,,0,0,0,,{\kf9}To{\kf9} the{\kf22} cos{\kf35}mos{\kf9} that{\kf13} des{\kf18}cribes{\kf26} you
-Dialogue: 0,0:01:35.32,0:01:36.79,DEFAULT,,0,0,0,,{\kf13}Car{\kf9}rot{\kf26} Top,{\kf9} go{\kf13} be{\kf22}yond{\kf35} us
-Dialogue: 0,0:01:36.87,0:01:38.55,DEFAULT,,0,0,0,,{\kf9}You're{\kf9} a{\kf18} late{\kf35} star,{\kf13} time{\kf5} to{\kf18} fool{\kf26} us
-Dialogue: 0,0:01:38.68,0:01:40.48,DEFAULT,,0,0,0,,{\kf9}Keep{\kf9} your{\kf22} friends{\kf26} close,{\kf9} they're{\kf9} what{\kf22} drive{\kf35} you
-Dialogue: 0,0:01:40.61,0:01:42.16,DEFAULT,,0,0,0,,{\kf9}To{\kf9} the{\kf22} cos{\kf31}mos{\kf9} that{\kf13} des{\kf18}cribes{\kf26} you
-Dialogue: 0,0:01:43.02,0:01:45.60,DEFAULT,,0,0,0,,{\kf22}Brigh{\kf18}ter{\kf48} than{\kf22} to{\kf31}nights{\kf35} sun{\kf48}set
-Dialogue: 0,0:01:46.59,0:01:49.29,DEFAULT,,0,0,0,,{\kf26}Can't{\kf26} mis{\kf52}take{\kf22} your{\kf31} sil{\kf43}hou{\kf48}ette
-Dialogue: 0,0:01:50.37,0:01:53.16,DEFAULT,,0,0,0,,{\kf18}Not{\kf13} a{\kf69} sound{\kf18} nor{\kf39} voice{\kf31} near{\kf65}by
-Dialogue: 0,0:01:53.76,0:01:57.12,DEFAULT,,0,0,0,,{\kf22}Your{\kf18} mane{\kf22} il{\kf26}lu{\kf22}mi{\kf18}nates{\kf26} this{\kf35} gloo{\kf35}my{\kf35} sky{\kf61}~
-Dialogue: 0,0:02:11.86,0:02:13.40,DEFAULT,,0,0,0,,{\kf13}Car{\kf9}rot{\kf26} Top,{\kf9} go{\kf13} be{\kf22}yond{\kf35} us
-Dialogue: 0,0:02:13.49,0:02:15.17,DEFAULT,,0,0,0,,{\kf9}You're{\kf9} a{\kf18} late{\kf35} star,{\kf13} time{\kf5} to{\kf18} fool{\kf26} us
-Dialogue: 0,0:02:15.30,0:02:17.10,DEFAULT,,0,0,0,,{\kf9}Keep{\kf9} your{\kf22} friends{\kf26} close,{\kf9} they're{\kf9} what{\kf22} drive{\kf35} you
-Dialogue: 0,0:02:17.19,0:02:18.78,DEFAULT,,0,0,0,,{\kf9}To{\kf9} the{\kf22} cos{\kf35}mos{\kf9} that{\kf13} des{\kf18}cribes{\kf26} you
-Dialogue: 0,0:02:19.21,0:02:20.75,DEFAULT,,0,0,0,,{\kf13}Car{\kf9}rot{\kf26} Top,{\kf9} go{\kf13} be{\kf22}yond{\kf35} us
-Dialogue: 0,0:02:20.80,0:02:22.43,DEFAULT,,0,0,0,,{\kf9}You're{\kf9} a{\kf18} late{\kf35} star,{\kf13} time{\kf5} to{\kf18} fool{\kf26} us
-Dialogue: 0,0:02:22.60,0:02:24.41,DEFAULT,,0,0,0,,{\kf9}Keep{\kf9} your{\kf22} friends{\kf26} close,{\kf9} they're{\kf9} what{\kf22} drive{\kf35} you
-Dialogue: 0,0:02:24.49,0:02:26.17,DEFAULT,,0,0,0,,{\kf9}To{\kf9} the{\kf22} cos{\kf35}mos{\kf9} that{\kf13} des{\kf18}cribes{\kf26} you
+Dialogue: 0,0:00:14.96,0:00:17.88,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf24} try{\kf24} your{\kf44} best{\kf24} but{\kf24} it's{\kf34} not{\kf34} quite{\kf69} there
+Dialogue: 0,0:00:18.65,0:00:21.66,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf20} kick{\kf20} a{\kf20} hoof{\kf20} and{\kf20} say{\kf20} it's{\kf39} just{\kf44} not{\kf78} fair
+Dialogue: 0,0:00:22.22,0:00:25.36,DEFAULT,,0,0,0,,{\r}{\kf18}A{\kf28} sim{\kf23}ple{\kf42} mare{\kf28} li{\kf23}ving{\kf37} sim{\kf32}ple{\kf83} dreams
+Dialogue: 0,0:00:25.87,0:00:29.05,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf24} ru{\kf19}mour{\kf47} that's{\kf43} not{\kf24} quite{\kf24} as{\kf24} it{\kf28} see{\kf66}~ms
+Dialogue: 0,0:00:58.93,0:01:01.85,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf24} try{\kf24} your{\kf44} best{\kf24} but{\kf24} it's{\kf34} not{\kf34} quite{\kf69} there
+Dialogue: 0,0:01:02.62,0:01:05.63,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf20} kick{\kf20} a{\kf20} hoof{\kf20} and{\kf20} say{\kf20} it's{\kf39} just{\kf44} not{\kf78} fair
+Dialogue: 0,0:01:06.19,0:01:09.33,DEFAULT,,0,0,0,,{\r}{\kf18}A{\kf28} sim{\kf23}ple{\kf42} mare{\kf28} li{\kf23}ving{\kf37} sim{\kf32}ple{\kf83} dreams
+Dialogue: 0,0:01:09.84,0:01:12.98,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf24} ru{\kf19}mour{\kf48} that's{\kf38} not{\kf24} quite{\kf24} as{\kf24} it{\kf29} see{\kf65}~ms
+Dialogue: 0,0:01:28.02,0:01:29.48,DEFAULT,,0,0,0,,{\r}{\kf15}Car{\kf10}rot{\kf30} Top,{\kf10} go{\kf15} be{\kf25}yond{\kf41} us
+Dialogue: 0,0:01:29.53,0:01:31.20,DEFAULT,,0,0,0,,{\r}{\kf11}You're{\kf11} a{\kf22} late{\kf45} star,{\kf17} time{\kf10} to{\kf22} fool{\kf30} us
+Dialogue: 0,0:01:31.38,0:01:33.09,DEFAULT,,0,0,0,,{\r}{\kf11}Keep{\kf11} your{\kf27} friends{\kf32} close,{\kf11} they're{\kf11} what{\kf27} drive{\kf42} you
+Dialogue: 0,0:01:33.22,0:01:34.81,DEFAULT,,0,0,0,,{\r}{\kf10}To{\kf10} the{\kf25} cos{\kf40}mos{\kf10} that{\kf15} des{\kf20}cribes{\kf29} you
+Dialogue: 0,0:01:35.33,0:01:36.79,DEFAULT,,0,0,0,,{\r}{\kf15}Car{\kf10}rot{\kf30} Top,{\kf10} go{\kf15} be{\kf25}yond{\kf41} us
+Dialogue: 0,0:01:36.88,0:01:38.55,DEFAULT,,0,0,0,,{\r}{\kf11}You're{\kf11} a{\kf22} late{\kf45} star,{\kf17} time{\kf10} to{\kf22} fool{\kf30} us
+Dialogue: 0,0:01:38.68,0:01:40.49,DEFAULT,,0,0,0,,{\r}{\kf11}Keep{\kf11} your{\kf28} friends{\kf34} close,{\kf11} they're{\kf11} what{\kf28} drive{\kf47} you
+Dialogue: 0,0:01:40.62,0:01:42.16,DEFAULT,,0,0,0,,{\r}{\kf10}To{\kf10} the{\kf25} cos{\kf35}mos{\kf10} that{\kf15} des{\kf20}cribes{\kf30} you
+Dialogue: 0,0:01:43.02,0:01:45.60,DEFAULT,,0,0,0,,{\r}{\kf25}Brigh{\kf20}ter{\kf56} than{\kf25} to{\kf35}nights{\kf40} sun{\kf57}set
+Dialogue: 0,0:01:46.59,0:01:49.30,DEFAULT,,0,0,0,,{\r}{\kf29}Can't{\kf29} mis{\kf57}take{\kf24} your{\kf33} sil{\kf48}hou{\kf51}ette
+Dialogue: 0,0:01:50.37,0:01:53.17,DEFAULT,,0,0,0,,{\r}{\kf19}Not{\kf14} a{\kf77} sound{\kf19} nor{\kf43} voice{\kf34} near{\kf73}by
+Dialogue: 0,0:01:53.77,0:01:57.12,DEFAULT,,0,0,0,,{\r}{\kf23}Your{\kf18} mane{\kf23} il{\kf28}lu{\kf23}mi{\kf18}nates{\kf28} this{\kf37} gloo{\kf37}my{\kf37} sky{\kf63}~
+Dialogue: 0,0:02:11.86,0:02:13.41,DEFAULT,,0,0,0,,{\r}{\kf16}Car{\kf11}rot{\kf32} Top,{\kf11} go{\kf16} be{\kf27}yond{\kf42} us
+Dialogue: 0,0:02:13.50,0:02:15.17,DEFAULT,,0,0,0,,{\r}{\kf11}You're{\kf11} a{\kf22} late{\kf45} star,{\kf17} time{\kf10} to{\kf22} fool{\kf30} us
+Dialogue: 0,0:02:15.30,0:02:17.11,DEFAULT,,0,0,0,,{\r}{\kf11}Keep{\kf11} your{\kf28} friends{\kf34} close,{\kf11} they're{\kf11} what{\kf28} drive{\kf47} you
+Dialogue: 0,0:02:17.19,0:02:18.78,DEFAULT,,0,0,0,,{\r}{\kf10}To{\kf10} the{\kf25} cos{\kf40}mos{\kf10} that{\kf15} des{\kf20}cribes{\kf29} you
+Dialogue: 0,0:02:19.21,0:02:20.76,DEFAULT,,0,0,0,,{\r}{\kf16}Car{\kf11}rot{\kf32} Top,{\kf11} go{\kf16} be{\kf27}yond{\kf42} us
+Dialogue: 0,0:02:20.80,0:02:22.44,DEFAULT,,0,0,0,,{\r}{\kf11}You're{\kf11} a{\kf22} late{\kf43} star,{\kf16} time{\kf10} to{\kf22} fool{\kf28} us
+Dialogue: 0,0:02:22.61,0:02:24.41,DEFAULT,,0,0,0,,{\r}{\kf11}Keep{\kf11} your{\kf28} friends{\kf34} close,{\kf11} they're{\kf11} what{\kf28} drive{\kf47} you
+Dialogue: 0,0:02:24.50,0:02:26.17,DEFAULT,,0,0,0,,{\r}{\kf10}To{\kf10} the{\kf26} cos{\kf42}mos{\kf10} that{\kf16} des{\kf21}cribes{\kf33} you

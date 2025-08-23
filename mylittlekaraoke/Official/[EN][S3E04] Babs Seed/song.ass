@@ -1,54 +1,61 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Babs Seed
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Technocolt
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.52,0:00:01.85,DEFAULT,,0,0,0,,{\kf17}Y{\kf17}eah,{\kf23} y{\kf17}eah,{\kf23} y{\kf23}eah
-Dialogue: 0,0:00:02.24,0:00:03.69,DEFAULT,,0,0,0,,{\kf23}Y{\kf17}eah,{\kf23} y{\kf17}eah,{\kf28} y{\kf28}eah
-Dialogue: 0,0:00:04.08,0:00:06.35,DEFAULT,,0,0,0,,{\kf17}Y{\kf17}eah,{\kf23} y{\kf23}eah,{\kf23} y{\kf17}eah,{\kf17} y{\kf17}eah,{\kf23} y{\kf34}eah
-Dialogue: 0,0:00:07.41,0:00:08.58,DEFAULT,,0,0,0,,{\kf17}First,{\kf17} we{\kf12} thought{\kf23} that{\kf28} Babs
-Dialogue: 0,0:00:08.74,0:00:10.36,DEFAULT,,0,0,0,,{\kf17}Was{\kf17} so{\kf17} rea{\kf17}lly,{\kf17} rea{\kf17}lly{\kf28} sweet
-Dialogue: 0,0:00:10.74,0:00:12.08,DEFAULT,,0,0,0,,{\kf12}A{\kf34} new{\kf23} friend{\kf12} to{\kf28} have
-Dialogue: 0,0:00:12.30,0:00:13.91,DEFAULT,,0,0,0,,{\kf17}Then{\kf17} it{\kf17} seemed{\kf17} like{\kf17} such{\kf17} a{\kf28} treat
-Dialogue: 0,0:00:14.69,0:00:15.97,DEFAULT,,0,0,0,,{\kf17}But{\kf23} then,{\kf17} we{\kf17} found{\kf17} the{\kf12} truth;
-Dialogue: 0,0:00:16.08,0:00:17.97,DEFAULT,,0,0,0,,{\kf17}She's{\kf17} just{\kf17} a{\kf17} bul{\kf17}ly{\kf17} from{\kf17} the{\kf39} east
-Dialogue: 0,0:00:18.25,0:00:19.63,DEFAULT,,0,0,0,,{\kf23}She{\kf12} went{\kf17} from{\kf39} Babs,{\kf28} yeah,
-Dialogue: 0,0:00:19.86,0:00:21.58,DEFAULT,,0,0,0,,{\kf17}To{\kf12} a{\kf23} bul{\kf23}ly{\kf17} and{\kf17} a{\kf39} beast
-Dialogue: 0,0:00:22.08,0:00:24.97,DEFAULT,,0,0,0,,{\kf23}Eve{\kf17}ry{\kf23}where{\kf17} we{\kf17} tu{\kf28}rn,{\kf23} she's{\kf17} just{\kf12} a{\kf23} step{\kf23} a{\kf28}head
-Dialogue: 0,0:00:25.19,0:00:28.08,DEFAULT,,0,0,0,,{\kf34}Babs{\kf39} Seed,{\kf34} Babs{\kf34} Seed,{\kf23} what{\kf23} we{\kf17} go{\kf17}nna{\kf28} do?
-Dialogue: 0,0:00:28.30,0:00:29.86,DEFAULT,,0,0,0,,{\kf17}Got{\kf17} a{\kf23} bul{\kf17}ly{\kf17} on{\kf17} our{\kf23} tail
-Dialogue: 0,0:00:30.08,0:00:31.69,DEFAULT,,0,0,0,,{\kf17}Got{\kf17}ta{\kf17} hide,{\kf17} we{\kf17} got{\kf17}ta{\kf34} bail
-Dialogue: 0,0:00:32.25,0:00:35.19,DEFAULT,,0,0,0,,{\kf34}Babs{\kf39} Seed,{\kf39} Babs{\kf39} Seed,{\kf17} if{\kf23} she's{\kf17} af{\kf17}ter{\kf28} you
-Dialogue: 0,0:00:35.41,0:00:36.91,DEFAULT,,0,0,0,,{\kf23}Got{\kf12}ta{\kf23} run,{\kf12} we{\kf23} go{\kf17}tta{\kf23} flee
-Dialogue: 0,0:00:37.14,0:00:38.80,DEFAULT,,0,0,0,,{\kf28}Got{\kf12}ta{\kf17} hur{\kf23}ry,{\kf12} don't{\kf17} you{\kf34} see?
-Dialogue: 0,0:00:39.80,0:00:43.08,DEFAULT,,0,0,0,,{\kf34}Babs{\kf39} Seed,{\kf34} Babs{\kf23} Seed,{\kf17} she's{\kf23} just{\kf12} a{\kf39} bad,{\kf39} bad{\kf17} seed
-Dialogue: 0,0:00:43.19,0:00:44.53,DEFAULT,,0,0,0,,{\kf17}Y{\kf17}eah,{\kf23} y{\kf23}eah,{\kf17} y{\kf23}eah
-Dialogue: 0,0:00:44.97,0:00:46.30,DEFAULT,,0,0,0,,{\kf17}Y{\kf17}eah,{\kf23} y{\kf17}eah,{\kf23} y{\kf23}eah
-Dialogue: 0,0:00:46.75,0:00:49.08,DEFAULT,,0,0,0,,{\kf17}Y{\kf23}eah,{\kf23} y{\kf17}eah,{\kf23} y{\kf17}eah,{\kf23} y{\kf17}eah,{\kf23} y{\kf34}eah
-Dialogue: 0,0:00:50.03,0:00:51.42,DEFAULT,,0,0,0,,{\kf23}Hid{\kf17}in'{\kf23} from{\kf12} a{\kf23} bul{\kf23}ly,
-Dialogue: 0,0:00:51.64,0:00:52.92,DEFAULT,,0,0,0,,{\kf17}We{\kf23} know{\kf12} it{\kf17} is{\kf17}n't{\kf17} right
-Dialogue: 0,0:00:53.14,0:00:54.86,DEFAULT,,0,0,0,,{\kf17}But{\kf23} the{\kf23} Cu{\kf17}tie{\kf17} Mark{\kf12} Cru{\kf28}sa{\kf12}ders,
-Dialogue: 0,0:00:55.03,0:00:56.64,DEFAULT,,0,0,0,,{\kf12}We{\kf17} aren't{\kf17} look{\kf17}in'{\kf17} for{\kf17} a{\kf34} fight
-Dialogue: 0,0:00:57.36,0:00:58.64,DEFAULT,,0,0,0,,{\kf17}Oh,{\kf17} she'll{\kf23} go{\kf28} home{\kf17} soon,
-Dialogue: 0,0:00:58.75,0:01:00.53,DEFAULT,,0,0,0,,{\kf12}And{\kf17} then{\kf17} we'll{\kf17} have{\kf17} some{\kf17} peace{\kf23} a{\kf28}gain
-Dialogue: 0,0:01:01.19,0:01:04.08,DEFAULT,,0,0,0,,{\kf12}But{\kf23} for{\kf12} now,{\kf12} we're{\kf28} stay{\kf17}ing{\kf17} out{\kf12} of{\kf12} her{\kf23}~{\kf23} way{\kf17} 'til{\kf28} then
-Dialogue: 0,0:01:04.69,0:01:07.64,DEFAULT,,0,0,0,,{\kf23}Eve{\kf17}ry{\kf17}where{\kf17} we{\kf17} tu{\kf28}rn,{\kf23} she's{\kf17} just{\kf12} a{\kf23} step{\kf12} a{\kf28}head
-Dialogue: 0,0:01:07.81,0:01:10.75,DEFAULT,,0,0,0,,{\kf39}Babs{\kf39} Seed,{\kf39} Babs{\kf39} Seed,{\kf17} what{\kf17} we{\kf23} gon{\kf17}na{\kf28} do?
-Dialogue: 0,0:01:11.03,0:01:12.58,DEFAULT,,0,0,0,,{\kf17}Got{\kf12} a{\kf23} bul{\kf23}ly{\kf12} on{\kf17} our{\kf28} tail
-Dialogue: 0,0:01:12.75,0:01:14.42,DEFAULT,,0,0,0,,{\kf23}Got{\kf17}ta{\kf17} hide,{\kf12} we{\kf23} got{\kf17}ta{\kf39} bail
-Dialogue: 0,0:01:14.97,0:01:17.86,DEFAULT,,0,0,0,,{\kf34}Babs{\kf39} Seed,{\kf39} Babs{\kf39} Seed,{\kf12} if{\kf28} she's{\kf17} af{\kf17}ter{\kf28} you
-Dialogue: 0,0:01:18.09,0:01:19.64,DEFAULT,,0,0,0,,{\kf23}Got{\kf12}ta{\kf17} run,{\kf23} we{\kf23} got{\kf12}ta{\kf28} flee
-Dialogue: 0,0:01:19.86,0:01:21.42,DEFAULT,,0,0,0,,{\kf23}Got{\kf12}ta{\kf23} hur{\kf17}ry,{\kf17} don't{\kf12} you{\kf34} see?
-Dialogue: 0,0:01:21.97,0:01:25.20,DEFAULT,,0,0,0,,{\kf34}Why{\kf39} so{\kf45} mean?{\kf39} Why{\kf39} so{\kf56} crude?
-Dialogue: 0,0:01:25.47,0:01:28.64,DEFAULT,,0,0,0,,{\kf45}Why{\kf34} so{\kf45} an{\kf34}gry?{\kf28} Why{\kf45} so{\kf39} rude?
-Dialogue: 0,0:01:29.09,0:01:32.25,DEFAULT,,0,0,0,,{\kf23}Can't{\kf23} you{\kf28} be{\kf34} nice?{\kf23} Can't{\kf23} we{\kf23} be{\kf45} friends?
-Dialogue: 0,0:01:32.75,0:01:36.09,DEFAULT,,0,0,0,,{\kf17}Is{\kf17}n't{\kf23} it{\kf39} sad{\kf17} is{\kf17} this{\kf23} how{\kf17} it{\kf34} all{\kf73} ends?
-Dialogue: 0,0:01:36.31,0:01:39.59,DEFAULT,,0,0,0,,{\kf34}Babs{\kf39} Seed,{\kf39} Babs{\kf28} Seed,{\kf23} she's{\kf23} just{\kf12} a{\kf39} bad,{\kf23} bad
-Dialogue: 0,0:01:39.81,0:01:43.14,DEFAULT,,0,0,0,,{\kf39}Babs{\kf34} Seed,{\kf39} Babs{\kf39} Seed,{\kf23} she's{\kf23} just{\kf12} a{\kf34} bad,{\kf28} bad
-Dialogue: 0,0:01:43.37,0:01:47.26,DEFAULT,,0,0,0,,{\kf39}Babs{\kf34} Seed,{\kf39} Babs{\kf34} Seed,{\kf23} she's{\kf17} just{\kf12} a{\kf34} bad,{\kf34} bad{\kf45} seed
+Dialogue: 0,0:00:00.53,0:00:01.86,DEFAULT,,0,0,0,,{\r}{\kf19}Y{\kf19}eah,{\kf25} y{\kf19}eah,{\kf25} y{\kf26}eah
+Dialogue: 0,0:00:02.25,0:00:03.69,DEFAULT,,0,0,0,,{\r}{\kf24}Y{\kf18}eah,{\kf24} y{\kf18}eah,{\kf30} y{\kf30}eah
+Dialogue: 0,0:00:04.08,0:00:06.36,DEFAULT,,0,0,0,,{\r}{\kf18}Y{\kf18}eah,{\kf25} y{\kf25}eah,{\kf25} y{\kf18}eah,{\kf18} y{\kf18}eah,{\kf25} y{\kf38}eah
+Dialogue: 0,0:00:07.42,0:00:08.58,DEFAULT,,0,0,0,,{\r}{\kf21}First,{\kf21} we{\kf14} thought{\kf28} that{\kf33} Babs
+Dialogue: 0,0:00:08.75,0:00:10.36,DEFAULT,,0,0,0,,{\r}{\kf21}Was{\kf21} so{\kf21} rea{\kf21}lly,{\kf21} rea{\kf21}lly{\kf35} sweet
+Dialogue: 0,0:00:10.75,0:00:12.08,DEFAULT,,0,0,0,,{\r}{\kf14}A{\kf42} new{\kf28} friend{\kf14} to{\kf35} have
+Dialogue: 0,0:00:12.31,0:00:13.92,DEFAULT,,0,0,0,,{\r}{\kf21}Then{\kf21} it{\kf21} seemed{\kf21} like{\kf21} such{\kf21} a{\kf35} treat
+Dialogue: 0,0:00:14.69,0:00:15.97,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf28} then,{\kf21} we{\kf21} found{\kf21} the{\kf16} truth;
+Dialogue: 0,0:00:16.08,0:00:17.97,DEFAULT,,0,0,0,,{\r}{\kf20}She's{\kf20} just{\kf20} a{\kf20} bul{\kf20}ly{\kf20} from{\kf20} the{\kf49} east
+Dialogue: 0,0:00:18.25,0:00:19.64,DEFAULT,,0,0,0,,{\r}{\kf26}She{\kf13} went{\kf20} from{\kf46} Babs,{\kf34} yeah,
+Dialogue: 0,0:00:19.86,0:00:21.58,DEFAULT,,0,0,0,,{\r}{\kf20}To{\kf13} a{\kf26} bul{\kf26}ly{\kf20} and{\kf20} a{\kf47} beast
+Dialogue: 0,0:00:22.08,0:00:24.97,DEFAULT,,0,0,0,,{\r}{\kf26}Eve{\kf20}ry{\kf26}where{\kf20} we{\kf20} tu{\kf33}rn,{\kf26} she's{\kf20} just{\kf13} a{\kf26} step{\kf26} a{\kf33}head
+Dialogue: 0,0:00:25.20,0:00:28.08,DEFAULT,,0,0,0,,{\r}{\kf39}Babs{\kf46} Seed,{\kf39} Babs{\kf39} Seed,{\kf26} what{\kf26} we{\kf20} go{\kf20}nna{\kf34} do?
+Dialogue: 0,0:00:28.31,0:00:29.86,DEFAULT,,0,0,0,,{\r}{\kf20}Got{\kf20} a{\kf27} bul{\kf20}ly{\kf20} on{\kf20} our{\kf29} tail
+Dialogue: 0,0:00:30.08,0:00:31.70,DEFAULT,,0,0,0,,{\r}{\kf20}Got{\kf20}ta{\kf20} hide,{\kf20} we{\kf20} got{\kf20}ta{\kf41} bail
+Dialogue: 0,0:00:32.25,0:00:35.20,DEFAULT,,0,0,0,,{\r}{\kf39}Babs{\kf46} Seed,{\kf46} Babs{\kf46} Seed,{\kf20} if{\kf26} she's{\kf20} af{\kf20}ter{\kf31} you
+Dialogue: 0,0:00:35.42,0:00:36.92,DEFAULT,,0,0,0,,{\r}{\kf26}Got{\kf13}ta{\kf26} run,{\kf13} we{\kf26} go{\kf20}tta{\kf26} flee
+Dialogue: 0,0:00:37.14,0:00:38.81,DEFAULT,,0,0,0,,{\r}{\kf33}Got{\kf13}ta{\kf20} hur{\kf27}ry,{\kf13} don't{\kf20} you{\kf41} see?
+Dialogue: 0,0:00:39.81,0:00:43.09,DEFAULT,,0,0,0,,{\r}{\kf40}Babs{\kf47} Seed,{\kf40} Babs{\kf27} Seed,{\kf20} she's{\kf27} just{\kf13} a{\kf47} bad,{\kf47} bad{\kf20} seed
+Dialogue: 0,0:00:43.20,0:00:44.53,DEFAULT,,0,0,0,,{\r}{\kf19}Y{\kf19}eah,{\kf25} y{\kf25}eah,{\kf19} y{\kf26}eah
+Dialogue: 0,0:00:44.98,0:00:46.31,DEFAULT,,0,0,0,,{\r}{\kf19}Y{\kf19}eah,{\kf25} y{\kf19}eah,{\kf25} y{\kf26}eah
+Dialogue: 0,0:00:46.75,0:00:49.09,DEFAULT,,0,0,0,,{\r}{\kf18}Y{\kf25}eah,{\kf25} y{\kf18}eah,{\kf25} y{\kf18}eah,{\kf25} y{\kf18}eah,{\kf25} y{\kf36}eah
+Dialogue: 0,0:00:50.03,0:00:51.42,DEFAULT,,0,0,0,,{\r}{\kf26}Hid{\kf20}in'{\kf26} from{\kf13} a{\kf26} bul{\kf28}ly,
+Dialogue: 0,0:00:51.64,0:00:52.92,DEFAULT,,0,0,0,,{\r}{\kf21}We{\kf28} know{\kf14} it{\kf21} is{\kf21}n't{\kf23} right
+Dialogue: 0,0:00:53.14,0:00:54.87,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf26} the{\kf26} Cu{\kf20}tie{\kf20} Mark{\kf13} Cru{\kf33}sa{\kf14}ders,
+Dialogue: 0,0:00:55.03,0:00:56.64,DEFAULT,,0,0,0,,{\r}{\kf14}We{\kf21} aren't{\kf21} look{\kf21}in'{\kf21} for{\kf21} a{\kf42} fight
+Dialogue: 0,0:00:57.37,0:00:58.64,DEFAULT,,0,0,0,,{\r}{\kf21}Oh,{\kf21} she'll{\kf28} go{\kf36} home{\kf22} soon,
+Dialogue: 0,0:00:58.75,0:01:00.53,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf21} then{\kf21} we'll{\kf21} have{\kf21} some{\kf21} peace{\kf27} a{\kf32}gain
+Dialogue: 0,0:01:01.20,0:01:04.09,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf28} for{\kf14} now,{\kf14} we're{\kf35} stay{\kf21}ing{\kf21} out{\kf14} of{\kf14} her{\kf28}~{\kf28} way{\kf21} 'til{\kf37} then
+Dialogue: 0,0:01:04.70,0:01:07.64,DEFAULT,,0,0,0,,{\r}{\kf29}Eve{\kf22}ry{\kf22}where{\kf22} we{\kf22} tu{\kf36}rn,{\kf29} she's{\kf22} just{\kf14} a{\kf29} step{\kf14} a{\kf33}head
+Dialogue: 0,0:01:07.81,0:01:10.76,DEFAULT,,0,0,0,,{\r}{\kf45}Babs{\kf45} Seed,{\kf45} Babs{\kf45} Seed,{\kf19} what{\kf19} we{\kf26} gon{\kf19}na{\kf31} do?
+Dialogue: 0,0:01:11.03,0:01:12.59,DEFAULT,,0,0,0,,{\r}{\kf20}Got{\kf14} a{\kf27} bul{\kf27}ly{\kf14} on{\kf20} our{\kf34} tail
+Dialogue: 0,0:01:12.76,0:01:14.42,DEFAULT,,0,0,0,,{\r}{\kf26}Got{\kf19}ta{\kf19} hide,{\kf13} we{\kf26} got{\kf19}ta{\kf45} bail
+Dialogue: 0,0:01:14.98,0:01:17.87,DEFAULT,,0,0,0,,{\r}{\kf39}Babs{\kf45} Seed,{\kf45} Babs{\kf45} Seed,{\kf13} if{\kf32} she's{\kf19} af{\kf19}ter{\kf32} you
+Dialogue: 0,0:01:18.09,0:01:19.65,DEFAULT,,0,0,0,,{\r}{\kf26}Got{\kf13}ta{\kf20} run,{\kf26} we{\kf26} got{\kf13}ta{\kf32} flee
+Dialogue: 0,0:01:19.87,0:01:21.42,DEFAULT,,0,0,0,,{\r}{\kf26}Got{\kf13}ta{\kf26} hur{\kf20}ry,{\kf20} don't{\kf13} you{\kf38} see?
+Dialogue: 0,0:01:21.98,0:01:25.20,DEFAULT,,0,0,0,,{\r}{\kf43}Why{\kf50} so{\kf57} mean?{\kf50} Why{\kf50} so{\kf72} crude?
+Dialogue: 0,0:01:25.48,0:01:28.65,DEFAULT,,0,0,0,,{\r}{\kf53}Why{\kf40} so{\kf53} an{\kf40}gry?{\kf33} Why{\kf53} so{\kf45} rude?
+Dialogue: 0,0:01:29.09,0:01:32.26,DEFAULT,,0,0,0,,{\r}{\kf33}Can't{\kf33} you{\kf41} be{\kf49} nice?{\kf33} Can't{\kf33} we{\kf33} be{\kf62} friends?
+Dialogue: 0,0:01:32.76,0:01:36.09,DEFAULT,,0,0,0,,{\r}{\kf20}Is{\kf20}n't{\kf27} it{\kf48} sad{\kf20} is{\kf20} this{\kf27} how{\kf20} it{\kf41} all{\kf90} ends?
+Dialogue: 0,0:01:36.31,0:01:39.59,DEFAULT,,0,0,0,,{\r}{\kf43}Babs{\kf50} Seed,{\kf50} Babs{\kf36} Seed,{\kf29} she's{\kf29} just{\kf14} a{\kf50} bad,{\kf27} bad
+Dialogue: 0,0:01:39.81,0:01:43.15,DEFAULT,,0,0,0,,{\r}{\kf49}Babs{\kf42} Seed,{\kf49} Babs{\kf49} Seed,{\kf28} she's{\kf28} just{\kf14} a{\kf42} bad,{\kf32} bad
+Dialogue: 0,0:01:43.37,0:01:47.26,DEFAULT,,0,0,0,,{\r}{\kf50}Babs{\kf42} Seed,{\kf50} Babs{\kf42} Seed,{\kf28} she's{\kf21} just{\kf14} a{\kf42} bad,{\kf42} bad{\kf58} seed

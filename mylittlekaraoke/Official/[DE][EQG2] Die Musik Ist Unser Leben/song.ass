@@ -1,37 +1,44 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Die Musik Ist Unser Leben
+Artist: Equestria Girls - Rainbow Rocks
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.81,0:00:12.18,DEFAULT,,0,0,0,,{\kf25}Wir{\kf13} ha{\kf13}ben{\kf13} uns{\kf13} oft{\kf13} nicht{\kf19} ver{\kf31}stan{\kf43}den
-Dialogue: 0,0:00:12.37,0:00:14.01,DEFAULT,,0,0,0,,{\kf31}Oh{\kf19}-wo{\kf13}-ah{\kf19}-wo{\kf13}-ah{\kf25}-wo{\kf13}-oah
-Dialogue: 0,0:00:14.13,0:00:16.38,DEFAULT,,0,0,0,,{\kf19}Das{\kf19} war{\kf13} be{\kf25}vor{\kf19} wir{\kf19} er{\kf25}kann{\kf37}ten
-Dialogue: 0,0:00:16.50,0:00:18.26,DEFAULT,,0,0,0,,{\kf37}Oh{\kf19}-wo{\kf13}-ah{\kf19}-wo{\kf13}-ah{\kf25}-wo{\kf13}-oah
-Dialogue: 0,0:00:18.38,0:00:20.63,DEFAULT,,0,0,0,,{\kf19}Das{\kf19} Freund{\kf25}schaft{\kf25} al{\kf19}les{\kf19} ver{\kf25}ze{\kf37}-iht
-Dialogue: 0,0:00:20.82,0:00:22.52,DEFAULT,,0,0,0,,{\kf31}Oh{\kf19}-wo{\kf13}-ah{\kf19}-wo{\kf13}-ah{\kf25}-wo{\kf13}-oah
-Dialogue: 0,0:00:22.58,0:00:25.01,DEFAULT,,0,0,0,,{\kf25}Ist{\kf25} man{\kf19} zur{\kf25} Ehr{\kf19}lich{\kf25}keit{\kf19} be{\kf49}reit
-Dialogue: 0,0:00:25.92,0:00:27.56,DEFAULT,,0,0,0,,{\kf19}Die{\kf13} Mu{\kf25}si{\kf25}-ik{\kf55} ist
-Dialogue: 0,0:00:27.99,0:00:29.69,DEFAULT,,0,0,0,,{\kf19}Un{\kf19}ser{\kf25} Le{\kf25}-e{\kf55}ben
-Dialogue: 0,0:00:29.81,0:00:31.88,DEFAULT,,0,0,0,,{\kf25}Da{\kf19}für{\kf19} sind{\kf19} wir{\kf25} hi{\kf73}-er
-Dialogue: 0,0:00:35.65,0:00:38.02,DEFAULT,,0,0,0,,{\kf25}Schön,{\kf19} wie{\kf25} ein{\kf25} Re{\kf19}gen{\kf19}bo-{\kf25}o{\kf43}gen
-Dialogue: 0,0:00:38.32,0:00:39.78,DEFAULT,,0,0,0,,{\kf19}Spie{\kf25}le{\kf25}-en{\kf61} wir
-Dialogue: 0,0:00:48.42,0:00:50.54,DEFAULT,,0,0,0,,{\kf25}Nimm'{\kf25} Dir{\kf13} ein{\kf25} fach{\kf19} den{\kf25} Ba{\kf43}-ass
-Dialogue: 0,0:00:50.67,0:00:52.37,DEFAULT,,0,0,0,,{\kf37}Oh{\kf19}-wo{\kf13}-ah{\kf19}-wo{\kf13}-ah{\kf25}-wo{\kf13}-oah
-Dialogue: 0,0:00:52.49,0:00:54.74,DEFAULT,,0,0,0,,{\kf25}Auch{\kf19} die{\kf19} Gi{\kf25}tar{\kf19}re{\kf19} ist{\kf25} i{\kf31}-in
-Dialogue: 0,0:00:54.92,0:00:56.75,DEFAULT,,0,0,0,,{\kf31}Oh{\kf19}-wo{\kf13}-ah{\kf19}-wo{\kf13}-ah{\kf25}-wo{\kf25}-oah
-Dialogue: 0,0:00:56.93,0:00:59.00,DEFAULT,,0,0,0,,{\kf25}Schlag{\kf19}zeug{\kf19} spie{\kf25}len{\kf19} macht{\kf25} Spa{\kf37}-aß
-Dialogue: 0,0:00:59.18,0:01:00.94,DEFAULT,,0,0,0,,{\kf31}Oh{\kf19}-wo{\kf13}-ah{\kf19}-wo{\kf13}-ah{\kf25}-wo{\kf19}-oah
-Dialogue: 0,0:01:01.06,0:01:03.80,DEFAULT,,0,0,0,,{\kf19}O{\kf19}der{\kf19} Du{\kf19} wirst{\kf19} Sän{\kf19}ge{\kf122}rin
-Dialogue: 0,0:01:04.28,0:01:05.80,DEFAULT,,0,0,0,,{\kf13}Die{\kf19} Mu{\kf19}si{\kf31}-ik{\kf49} ist
-Dialogue: 0,0:01:06.29,0:01:07.87,DEFAULT,,0,0,0,,{\kf25}Un{\kf19}ser{\kf25} Le{\kf19}-e{\kf49}ben
-Dialogue: 0,0:01:08.18,0:01:10.06,DEFAULT,,0,0,0,,{\kf19}Da{\kf19}für{\kf19} sind{\kf19} wir{\kf25} hi{\kf49}-er
-Dialogue: 0,0:01:14.01,0:01:16.38,DEFAULT,,0,0,0,,{\kf25}Schön,{\kf19} wie{\kf25} ein{\kf25} Re{\kf19}gen{\kf19}bo{\kf19}-o{\kf49}gen
-Dialogue: 0,0:01:16.69,0:01:18.09,DEFAULT,,0,0,0,,{\kf19}Spie{\kf19}le{\kf25}-en{\kf55} wir
-Dialogue: 0,0:01:22.52,0:01:25.02,DEFAULT,,0,0,0,,{\kf25}Schön,{\kf19} wie{\kf25} ein{\kf25} Re{\kf19}gen{\kf19}bo{\kf19}-o{\kf55}gen
-Dialogue: 0,0:01:25.26,0:01:26.66,DEFAULT,,0,0,0,,{\kf19}Spie{\kf25}le{\kf19}-en{\kf61} wir
+Dialogue: 0,0:00:09.82,0:00:12.19,DEFAULT,,0,0,0,,{\r}{\kf33}Wir{\kf16} ha{\kf16}ben{\kf16} uns{\kf16} oft{\kf16} nicht{\kf25} ver{\kf41}stan{\kf58}den
+Dialogue: 0,0:00:12.37,0:00:14.01,DEFAULT,,0,0,0,,{\r}{\kf39}Oh{\kf23}-wo{\kf16}-ah{\kf23}-wo{\kf16}-ah{\kf31}-wo{\kf16}-oah
+Dialogue: 0,0:00:14.13,0:00:16.38,DEFAULT,,0,0,0,,{\r}{\kf24}Das{\kf24} war{\kf16} be{\kf32}vor{\kf24} wir{\kf24} er{\kf32}kann{\kf49}ten
+Dialogue: 0,0:00:16.50,0:00:18.27,DEFAULT,,0,0,0,,{\r}{\kf48}Oh{\kf24}-wo{\kf16}-ah{\kf24}-wo{\kf16}-ah{\kf32}-wo{\kf16}-oah
+Dialogue: 0,0:00:18.39,0:00:20.64,DEFAULT,,0,0,0,,{\r}{\kf22}Das{\kf22} Freund{\kf30}schaft{\kf30} al{\kf22}les{\kf22} ver{\kf30}ze{\kf47}-iht
+Dialogue: 0,0:00:20.82,0:00:22.52,DEFAULT,,0,0,0,,{\r}{\kf40}Oh{\kf24}-wo{\kf16}-ah{\kf24}-wo{\kf16}-ah{\kf32}-wo{\kf18}-oah
+Dialogue: 0,0:00:22.58,0:00:25.02,DEFAULT,,0,0,0,,{\r}{\kf29}Ist{\kf29} man{\kf22} zur{\kf29} Ehr{\kf22}lich{\kf29}keit{\kf22} be{\kf61}reit
+Dialogue: 0,0:00:25.93,0:00:27.57,DEFAULT,,0,0,0,,{\r}{\kf22}Die{\kf15} Mu{\kf30}si{\kf30}-ik{\kf67} ist
+Dialogue: 0,0:00:27.99,0:00:29.70,DEFAULT,,0,0,0,,{\r}{\kf22}Un{\kf22}ser{\kf30} Le{\kf30}-e{\kf66}ben
+Dialogue: 0,0:00:29.82,0:00:31.89,DEFAULT,,0,0,0,,{\r}{\kf29}Da{\kf21}für{\kf21} sind{\kf21} wir{\kf29} hi{\kf86}-er
+Dialogue: 0,0:00:35.65,0:00:38.03,DEFAULT,,0,0,0,,{\r}{\kf30}Schön,{\kf22} wie{\kf30} ein{\kf30} Re{\kf22}gen{\kf22}bo-{\kf30}o{\kf51}gen
+Dialogue: 0,0:00:38.33,0:00:39.79,DEFAULT,,0,0,0,,{\r}{\kf21}Spie{\kf28}le{\kf28}-en{\kf69} wir
+Dialogue: 0,0:00:48.42,0:00:50.55,DEFAULT,,0,0,0,,{\r}{\kf30}Nimm'{\kf30} Dir{\kf15} ein{\kf30} fach{\kf23} den{\kf30} Ba{\kf55}-ass
+Dialogue: 0,0:00:50.67,0:00:52.37,DEFAULT,,0,0,0,,{\r}{\kf46}Oh{\kf23}-wo{\kf15}-ah{\kf23}-wo{\kf15}-ah{\kf31}-wo{\kf17}-oah
+Dialogue: 0,0:00:52.50,0:00:54.74,DEFAULT,,0,0,0,,{\r}{\kf31}Auch{\kf23} die{\kf23} Gi{\kf31}tar{\kf23}re{\kf23} ist{\kf31} i{\kf40}-in
+Dialogue: 0,0:00:54.93,0:00:56.75,DEFAULT,,0,0,0,,{\r}{\kf40}Oh{\kf24}-wo{\kf16}-ah{\kf24}-wo{\kf16}-ah{\kf32}-wo{\kf30}-oah
+Dialogue: 0,0:00:56.93,0:00:59.00,DEFAULT,,0,0,0,,{\r}{\kf31}Schlag{\kf23}zeug{\kf23} spie{\kf31}len{\kf23} macht{\kf31} Spa{\kf45}-aß
+Dialogue: 0,0:00:59.18,0:01:00.95,DEFAULT,,0,0,0,,{\r}{\kf40}Oh{\kf24}-wo{\kf16}-ah{\kf24}-wo{\kf16}-ah{\kf32}-wo{\kf24}-oah
+Dialogue: 0,0:01:01.07,0:01:03.80,DEFAULT,,0,0,0,,{\r}{\kf22}O{\kf22}der{\kf22} Du{\kf22} wirst{\kf22} Sän{\kf22}ge{\kf142}rin
+Dialogue: 0,0:01:04.29,0:01:05.81,DEFAULT,,0,0,0,,{\r}{\kf14}Die{\kf22} Mu{\kf22}si{\kf36}-ik{\kf58} ist
+Dialogue: 0,0:01:06.30,0:01:07.88,DEFAULT,,0,0,0,,{\r}{\kf29}Un{\kf22}ser{\kf29} Le{\kf22}-e{\kf56}ben
+Dialogue: 0,0:01:08.18,0:01:10.07,DEFAULT,,0,0,0,,{\r}{\kf23}Da{\kf23}für{\kf23} sind{\kf23} wir{\kf31} hi{\kf65}-er
+Dialogue: 0,0:01:14.02,0:01:16.39,DEFAULT,,0,0,0,,{\r}{\kf30}Schön,{\kf22} wie{\kf30} ein{\kf30} Re{\kf22}gen{\kf22}bo{\kf22}-o{\kf59}gen
+Dialogue: 0,0:01:16.69,0:01:18.09,DEFAULT,,0,0,0,,{\r}{\kf22}Spie{\kf22}le{\kf29}-en{\kf67} wir
+Dialogue: 0,0:01:22.53,0:01:25.02,DEFAULT,,0,0,0,,{\r}{\kf30}Schön,{\kf23} wie{\kf30} ein{\kf30} Re{\kf23}gen{\kf23}bo{\kf23}-o{\kf67}gen
+Dialogue: 0,0:01:25.26,0:01:26.66,DEFAULT,,0,0,0,,{\r}{\kf21}Spie{\kf28}le{\kf21}-en{\kf70} wir

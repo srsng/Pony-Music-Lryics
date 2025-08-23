@@ -1,39 +1,46 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Flutterwonder
+Artist: PinkiePieSwear
+Original Timing: mylittlekaraoke.com by The Pony Rock Project
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.22,0:00:16.32,DEFAULT,,0,0,0,,{\kf166}Bee{\kf12} eh-{\kf12}eh-{\kf12}eh
-Dialogue: 0,0:00:16.43,0:00:17.64,DEFAULT,,0,0,0,,{\kf34}That{\kf34} eht{\kf34} vai
-Dialogue: 0,0:00:17.75,0:00:21.17,DEFAULT,,0,0,0,,{\kf34}Deep{\kf34} why{\kf23} bem{\kf34} won{\kf12}der{\kf34} deep{\kf34} why{\kf23} bem{\kf34} won{\kf12}der
-Dialogue: 0,0:00:21.28,0:00:24.70,DEFAULT,,0,0,0,,{\kf12}Bill{\kf12} de{\kf34} som{\kf12} bill{\kf12} de{\kf34} som{\kf34} yam{\kf34} ba{\kf34} one
-Dialogue: 0,0:00:24.81,0:00:28.34,DEFAULT,,0,0,0,,{\kf34}Deep{\kf34} why{\kf23} bem{\kf34} won{\kf23}der{\kf23} deep{\kf34} why{\kf23} bem{\kf34} won{\kf23}der
-Dialogue: 0,0:00:28.45,0:00:31.76,DEFAULT,,0,0,0,,{\kf155}Bee{\kf12} eh-{\kf12}eh-{\kf23}eh{\kf23} that{\kf34} eht{\kf34} wai
-Dialogue: 0,0:00:31.87,0:00:35.29,DEFAULT,,0,0,0,,{\kf34}Deep{\kf34} why{\kf23} bem{\kf34} won{\kf12}der{\kf34} deep{\kf34} why{\kf23} bem{\kf34} won{\kf12}der
-Dialogue: 0,0:00:35.40,0:00:38.82,DEFAULT,,0,0,0,,{\kf12}Bill{\kf12} de{\kf34} som{\kf12} bill{\kf12} de{\kf34} som{\kf34} yam{\kf34} ba{\kf34} one
-Dialogue: 0,0:00:38.93,0:00:42.46,DEFAULT,,0,0,0,,{\kf34}Deep{\kf34} why{\kf23} bem{\kf34} won{\kf23}der{\kf23} deep{\kf34} why{\kf23} bem{\kf34} won{\kf23}der
-Dialogue: 0,0:01:10.69,0:01:14.11,DEFAULT,,0,0,0,,{\kf34}Thigh{\kf34} what{\kf12} thi-{\kf12}thi-{\kf34}this{\kf12} bill{\kf12} one{\kf12} one{\kf34} tha{\kf12} thi-{\kf12}thi-{\kf34}this{\kf12} bill
-Dialogue: 0,0:01:14.22,0:01:17.64,DEFAULT,,0,0,0,,{\kf34}Deep{\kf34} why{\kf23} bem{\kf34} won{\kf12}der{\kf34} deep{\kf34} why{\kf23} bem{\kf34} won{\kf12}der
-Dialogue: 0,0:01:17.75,0:01:21.17,DEFAULT,,0,0,0,,{\kf12}Bill{\kf12} de{\kf34} som{\kf12} thi-{\kf12}thi-{\kf34}this{\kf12} bill{\kf12} one{\kf12} one{\kf34} tha{\kf12} thi-{\kf12}thi-{\kf34}this{\kf12} bill
-Dialogue: 0,0:01:21.28,0:01:24.70,DEFAULT,,0,0,0,,{\kf34}Deep{\kf34} why{\kf23} bem{\kf34} won{\kf12}der{\kf34} deep{\kf34} why{\kf23} bem{\kf34} won{\kf12}der
-Dialogue: 0,0:01:24.81,0:01:28.23,DEFAULT,,0,0,0,,{\kf34}Thigh{\kf34} what{\kf12} thi-{\kf12}thi-{\kf34}this{\kf12} bill{\kf12} one{\kf12} one{\kf34} tha{\kf12} thi-{\kf12}thi-{\kf34}this{\kf12} bill
-Dialogue: 0,0:01:28.34,0:01:31.76,DEFAULT,,0,0,0,,{\kf34}Deep{\kf34} why{\kf23} bem{\kf34} won{\kf23}der{\kf23} deep-{\kf12}deep{\kf34} why{\kf23} bem{\kf34} won{\kf12}der
-Dialogue: 0,0:01:31.87,0:01:35.29,DEFAULT,,0,0,0,,{\kf12}Bill{\kf12} de{\kf34} som{\kf12} thi-{\kf12}thi-{\kf34}this{\kf12} bill{\kf12} one{\kf23} one{\kf34}tha{\kf12} thi-{\kf12}thi-{\kf34}this{\kf12} bill
-Dialogue: 0,0:01:35.40,0:01:38.93,DEFAULT,,0,0,0,,{\kf34}Deep{\kf34} why{\kf23} bem{\kf34} won{\kf12}der{\kf34} deep{\kf34} why{\kf23} bem{\kf34} won{\kf23}der
-Dialogue: 0,0:01:53.05,0:01:55.80,DEFAULT,,0,0,0,,{\kf34}Wah{\kf23} thi{\kf23} thi{\kf23} thi{\kf23} thi
-Dialogue: 0,0:01:56.57,0:01:59.99,DEFAULT,,0,0,0,,{\kf34}Wah{\kf23} thi{\kf23} thi{\kf23} thi{\kf23} thi{\kf45} won{\kf12}der
-Dialogue: 0,0:02:00.10,0:02:04.63,DEFAULT,,0,0,0,,{\kf34}Wah{\kf23} thi{\kf34} thi{\kf23} thi{\kf34} thi{\kf34} wah{\kf23} thi{\kf23} thi
-Dialogue: 0,0:02:21.28,0:02:24.70,DEFAULT,,0,0,0,,{\kf100}Oh{\kf34} eh{\kf12} eh{\kf12} one{\kf12} one{\kf45} that{\kf34} eht{\kf34} vai
-Dialogue: 0,0:02:24.81,0:02:28.23,DEFAULT,,0,0,0,,{\kf34}Deep{\kf34} why{\kf23} bem{\kf34} won{\kf12}der{\kf23} deep-{\kf12}deep{\kf34} why{\kf23} bem{\kf34} won{\kf12}der
-Dialogue: 0,0:02:28.34,0:02:31.76,DEFAULT,,0,0,0,,{\kf12}Bill{\kf12} de{\kf12} som{\kf12} on-{\kf12}on-{\kf12}one{\kf12} bill{\kf12} de{\kf34} som{\kf23} bill{\kf12} yeah{\kf12} one{\kf34} that{\kf34} one
-Dialogue: 0,0:02:31.87,0:02:35.29,DEFAULT,,0,0,0,,{\kf34}Deep{\kf34} why{\kf23} bem{\kf34} won{\kf12}der{\kf23} deep{\kf12}-deep{\kf34} why{\kf23} bem{\kf34} won{\kf12}der
-Dialogue: 0,0:02:35.40,0:02:38.82,DEFAULT,,0,0,0,,{\kf100}Oh,{\kf34} eh{\kf12} eh{\kf12} one{\kf12} one{\kf34} that{\kf45} eht{\kf34}vai
-Dialogue: 0,0:02:38.93,0:02:42.35,DEFAULT,,0,0,0,,{\kf34}Deep{\kf34} why{\kf23} bem{\kf34} won{\kf12}der{\kf23} deep-{\kf12}deep{\kf34} why{\kf23} bem{\kf34} won{\kf12}der
-Dialogue: 0,0:02:42.46,0:02:45.88,DEFAULT,,0,0,0,,{\kf12}Bill{\kf12} de{\kf12} som{\kf12} on-{\kf12}on-{\kf12}one{\kf12} bill{\kf12} de{\kf34} som{\kf12} bill{\kf12} yeah{\kf12} one{\kf34} that{\kf34} one
-Dialogue: 0,0:02:45.99,0:02:49.52,DEFAULT,,0,0,0,,{\kf34}Deep{\kf34} why{\kf23} bem{\kf34} won{\kf12}der{\kf34} deep{\kf34} why{\kf23} bem{\kf34} won{\kf23}der
+Dialogue: 0,0:00:14.23,0:00:16.32,DEFAULT,,0,0,0,,{\r}{\kf175}Bee{\kf12} eh-{\kf12}eh-{\kf11}eh
+Dialogue: 0,0:00:16.43,0:00:17.65,DEFAULT,,0,0,0,,{\r}{\kf40}That{\kf40} eht{\kf41} vai
+Dialogue: 0,0:00:17.76,0:00:21.18,DEFAULT,,0,0,0,,{\r}{\kf43}Deep{\kf43} why{\kf28} bem{\kf43} won{\kf14}der{\kf43} deep{\kf43} why{\kf28} bem{\kf43} won{\kf14}der
+Dialogue: 0,0:00:21.29,0:00:24.70,DEFAULT,,0,0,0,,{\r}{\kf18}Bill{\kf18} de{\kf54} som{\kf18} bill{\kf18} de{\kf54} som{\kf54} yam{\kf54} ba{\kf54} one
+Dialogue: 0,0:00:24.82,0:00:28.34,DEFAULT,,0,0,0,,{\r}{\kf42}Deep{\kf42} why{\kf28} bem{\kf42} won{\kf28}der{\kf28} deep{\kf42} why{\kf28} bem{\kf42} won{\kf31}der
+Dialogue: 0,0:00:28.45,0:00:31.76,DEFAULT,,0,0,0,,{\r}{\kf178}Bee{\kf13} eh-{\kf13}eh-{\kf25}eh{\kf25} that{\kf38} eht{\kf39} wai
+Dialogue: 0,0:00:31.87,0:00:35.29,DEFAULT,,0,0,0,,{\r}{\kf43}Deep{\kf43} why{\kf28} bem{\kf43} won{\kf14}der{\kf43} deep{\kf43} why{\kf28} bem{\kf43} won{\kf14}der
+Dialogue: 0,0:00:35.40,0:00:38.82,DEFAULT,,0,0,0,,{\r}{\kf18}Bill{\kf18} de{\kf54} som{\kf18} bill{\kf18} de{\kf54} som{\kf54} yam{\kf54} ba{\kf54} one
+Dialogue: 0,0:00:38.93,0:00:42.46,DEFAULT,,0,0,0,,{\r}{\kf42}Deep{\kf42} why{\kf28} bem{\kf42} won{\kf28}der{\kf28} deep{\kf42} why{\kf28} bem{\kf42} won{\kf31}der
+Dialogue: 0,0:01:10.70,0:01:14.12,DEFAULT,,0,0,0,,{\r}{\kf45}Thigh{\kf45} what{\kf15} thi-{\kf15}thi-{\kf45}this{\kf15} bill{\kf15} one{\kf15} one{\kf45} tha{\kf15} thi-{\kf15}thi-{\kf45}this{\kf12} bill
+Dialogue: 0,0:01:14.23,0:01:17.65,DEFAULT,,0,0,0,,{\r}{\kf43}Deep{\kf43} why{\kf28} bem{\kf43} won{\kf14}der{\kf43} deep{\kf43} why{\kf28} bem{\kf43} won{\kf14}der
+Dialogue: 0,0:01:17.76,0:01:21.18,DEFAULT,,0,0,0,,{\r}{\kf16}Bill{\kf16} de{\kf47} som{\kf16} thi-{\kf16}thi-{\kf47}this{\kf16} bill{\kf16} one{\kf16} one{\kf47} tha{\kf16} thi-{\kf16}thi-{\kf47}this{\kf10} bill
+Dialogue: 0,0:01:21.29,0:01:24.70,DEFAULT,,0,0,0,,{\r}{\kf43}Deep{\kf43} why{\kf28} bem{\kf43} won{\kf14}der{\kf43} deep{\kf43} why{\kf28} bem{\kf43} won{\kf14}der
+Dialogue: 0,0:01:24.82,0:01:28.23,DEFAULT,,0,0,0,,{\r}{\kf45}Thigh{\kf45} what{\kf15} thi-{\kf15}thi-{\kf45}this{\kf15} bill{\kf15} one{\kf15} one{\kf45} tha{\kf15} thi-{\kf15}thi-{\kf45}this{\kf12} bill
+Dialogue: 0,0:01:28.34,0:01:31.76,DEFAULT,,0,0,0,,{\r}{\kf41}Deep{\kf41} why{\kf27} bem{\kf41} won{\kf27}der{\kf27} deep-{\kf14}deep{\kf41} why{\kf27} bem{\kf41} won{\kf15}der
+Dialogue: 0,0:01:31.87,0:01:35.29,DEFAULT,,0,0,0,,{\r}{\kf15}Bill{\kf15} de{\kf45} som{\kf15} thi-{\kf15}thi-{\kf45}this{\kf15} bill{\kf15} one{\kf30} one{\kf45}tha{\kf15} thi-{\kf15}thi-{\kf45}this{\kf12} bill
+Dialogue: 0,0:01:35.40,0:01:38.93,DEFAULT,,0,0,0,,{\r}{\kf42}Deep{\kf42} why{\kf28} bem{\kf42} won{\kf14}der{\kf42} deep{\kf42} why{\kf28} bem{\kf42} won{\kf31}der
+Dialogue: 0,0:01:53.05,0:01:55.81,DEFAULT,,0,0,0,,{\r}{\kf75}Wah{\kf50} thi{\kf50} thi{\kf50} thi{\kf51} thi
+Dialogue: 0,0:01:56.58,0:01:60.00,DEFAULT,,0,0,0,,{\r}{\kf64}Wah{\kf43} thi{\kf43} thi{\kf43} thi{\kf43} thi{\kf85} won{\kf21}der
+Dialogue: 0,0:02:00.11,0:02:04.63,DEFAULT,,0,0,0,,{\r}{\kf68}Wah{\kf45} thi{\kf68} thi{\kf45} thi{\kf68} thi{\kf68} wah{\kf45} thi{\kf45} thi
+Dialogue: 0,0:02:21.29,0:02:24.70,DEFAULT,,0,0,0,,{\r}{\kf123}Oh{\kf41} eh{\kf14} eh{\kf14} one{\kf14} one{\kf55} that{\kf41} eht{\kf40} vai
+Dialogue: 0,0:02:24.82,0:02:28.23,DEFAULT,,0,0,0,,{\r}{\kf43}Deep{\kf43} why{\kf28} bem{\kf43} won{\kf14}der{\kf28} deep-{\kf14}deep{\kf43} why{\kf28} bem{\kf43} won{\kf15}der
+Dialogue: 0,0:02:28.34,0:02:31.76,DEFAULT,,0,0,0,,{\r}{\kf16}Bill{\kf16} de{\kf16} som{\kf16} on-{\kf16}on-{\kf16}one{\kf16} bill{\kf16} de{\kf49} som{\kf33} bill{\kf16} yeah{\kf16} one{\kf49} that{\kf51} one
+Dialogue: 0,0:02:31.87,0:02:35.29,DEFAULT,,0,0,0,,{\r}{\kf43}Deep{\kf43} why{\kf28} bem{\kf43} won{\kf14}der{\kf28} deep{\kf14}-deep{\kf43} why{\kf28} bem{\kf43} won{\kf15}der
+Dialogue: 0,0:02:35.40,0:02:38.82,DEFAULT,,0,0,0,,{\r}{\kf123}Oh,{\kf41} eh{\kf14} eh{\kf14} one{\kf14} one{\kf41} that{\kf55} eht{\kf40}vai
+Dialogue: 0,0:02:38.93,0:02:42.35,DEFAULT,,0,0,0,,{\r}{\kf43}Deep{\kf43} why{\kf28} bem{\kf43} won{\kf14}der{\kf28} deep-{\kf14}deep{\kf43} why{\kf28} bem{\kf43} won{\kf15}der
+Dialogue: 0,0:02:42.46,0:02:45.88,DEFAULT,,0,0,0,,{\r}{\kf17}Bill{\kf17} de{\kf17} som{\kf17} on-{\kf17}on-{\kf17}one{\kf17} bill{\kf17} de{\kf51} som{\kf17} bill{\kf17} yeah{\kf17} one{\kf51} that{\kf53} one
+Dialogue: 0,0:02:45.99,0:02:49.52,DEFAULT,,0,0,0,,{\r}{\kf42}Deep{\kf42} why{\kf28} bem{\kf42} won{\kf14}der{\kf42} deep{\kf42} why{\kf28} bem{\kf42} won{\kf31}der

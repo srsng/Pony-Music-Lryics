@@ -1,55 +1,62 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: What You See Is What You Get
+Artist: The Wonderbolts
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:33.89,0:00:35.61,DEFAULT,,0,0,0,,{\kf8}Well{\kf15} I{\kf23} don't{\kf23} real{\kf23}ly{\kf45} care
-Dialogue: 0,0:00:36.13,0:00:39.00,DEFAULT,,0,0,0,,{\kf19}If{\kf19} I{\kf19} ain't{\kf19} your{\kf23} kind{\kf15}a{\kf19} fil{\kf78}ly
-Dialogue: 0,0:00:43.33,0:00:45.43,DEFAULT,,0,0,0,,{\kf23}Fan{\kf15}cy{\kf23} dres{\kf19}ses{\kf15} and{\kf26} sad{\kf19}dles
-Dialogue: 0,0:00:45.83,0:00:48.37,DEFAULT,,0,0,0,,{\kf23}Al{\kf15}ways{\kf23} make{\kf15} me{\kf19} feel{\kf19} sil{\kf74}ly
-Dialogue: 0,0:00:52.89,0:00:55.06,DEFAULT,,0,0,0,,{\kf19}Since{\kf19} I{\kf19} came{\kf23} back{\kf15} from{\kf19} Mane{\kf19}hat{\kf19}tan
-Dialogue: 0,0:00:55.50,0:00:57.86,DEFAULT,,0,0,0,,{\kf12}I{\kf15} know{\kf19} just{\kf19} who{\kf19} I{\kf100} am
-Dialogue: 0,0:00:58.08,0:01:00.36,DEFAULT,,0,0,0,,{\kf15}A{\kf15} sim{\kf12}ple{\kf34} girl,{\kf23} fa{\kf19}mily{\kf12} at{\kf37} home
-Dialogue: 0,0:01:00.58,0:01:02.60,DEFAULT,,0,0,0,,{\kf12}The{\kf19} Ap{\kf15}ple{\kf26} far{\kf19}mer{\kf19} in{\kf15} com{\kf23}mand
-Dialogue: 0,0:01:03.08,0:01:05.10,DEFAULT,,0,0,0,,{\kf48}Don't{\kf41} have{\kf23} no{\kf15} re{\kf34}gret
-Dialogue: 0,0:01:06.05,0:01:08.33,DEFAULT,,0,0,0,,{\kf23}What{\kf19} you{\kf23} see{\kf19} is{\kf19} what{\kf15} you{\kf63} get
-Dialogue: 0,0:01:26.16,0:01:27.93,DEFAULT,,0,0,0,,{\kf19}My{\kf19} pa{\kf23}rents{\kf12} were{\kf26} ta{\kf23}ken
-Dialogue: 0,0:01:28.19,0:01:31.05,DEFAULT,,0,0,0,,{\kf12}When{\kf15} I{\kf19} was{\kf19} just{\kf19} a{\kf15} lit{\kf15}tle{\kf107} girl
-Dialogue: 0,0:01:35.76,0:01:37.97,DEFAULT,,0,0,0,,{\kf19}They{\kf15} left{\kf15} me{\kf12} with{\kf15} a{\kf30} job{\kf15} to{\kf30} do
-Dialogue: 0,0:01:38.33,0:01:40.43,DEFAULT,,0,0,0,,{\kf12}Ce{\kf15}les{\kf15}tia{\kf15} rest{\kf15} their{\kf74} souls
-Dialogue: 0,0:01:45.25,0:01:46.97,DEFAULT,,0,0,0,,{\kf19}Take{\kf23} care{\kf19} of{\kf15} your{\kf19} sis{\kf23}ter
-Dialogue: 0,0:01:47.67,0:01:49.51,DEFAULT,,0,0,0,,{\kf15}Take{\kf23} care{\kf15} of{\kf15} the{\kf63} farm
-Dialogue: 0,0:01:50.02,0:01:51.90,DEFAULT,,0,0,0,,{\kf19}I{\kf19} might{\kf19} not{\kf19} be{\kf15} the{\kf23} old{\kf15}est
-Dialogue: 0,0:01:52.38,0:01:54.22,DEFAULT,,0,0,0,,{\kf15}But{\kf26} I'm{\kf19} the{\kf15} one{\kf12} in{\kf48} charge
-Dialogue: 0,0:01:54.62,0:01:57.19,DEFAULT,,0,0,0,,{\kf12}And{\kf15} I{\kf45} don't{\kf37} have{\kf23} no{\kf15} re{\kf48}gret
-Dialogue: 0,0:01:57.97,0:02:00.58,DEFAULT,,0,0,0,,{\kf19}What{\kf19} you{\kf23} see{\kf15} is{\kf19} what{\kf12} you{\kf96} get
-Dialogue: 0,0:02:18.00,0:02:19.80,DEFAULT,,0,0,0,,{\kf8}See{\kf12} I{\kf12} ne{\kf12}ver{\kf19} liked{\kf12} a{\kf30} ze{\kf19}bra
-Dialogue: 0,0:02:20.25,0:02:23.19,DEFAULT,,0,0,0,,{\kf19}Till{\kf19} I{\kf19} met{\kf19} one{\kf19} my{\kf151}self
-Dialogue: 0,0:02:27.49,0:02:29.73,DEFAULT,,0,0,0,,{\kf19}But{\kf15} I{\kf15} ad{\kf19}mit{\kf15} when{\kf26} I{\kf23} am{\kf34} wrong
-Dialogue: 0,0:02:29.95,0:02:32.49,DEFAULT,,0,0,0,,{\kf12}It{\kf15} hap{\kf19}pened{\kf19} with{\kf15} the{\kf19} bats{\kf23} as{\kf52} well
-Dialogue: 0,0:02:36.94,0:02:38.81,DEFAULT,,0,0,0,,{\kf19}Some{\kf23}times{\kf12} I{\kf8} can{\kf12} be{\kf12} a{\kf8} lit{\kf12}tle{\kf15} stub{\kf15}born
-Dialogue: 0,0:02:39.36,0:02:41.09,DEFAULT,,0,0,0,,{\kf15}Some{\kf23}times{\kf12} I{\kf12} can{\kf12} be{\kf12} a{\kf52} lot
-Dialogue: 0,0:02:41.68,0:02:43.55,DEFAULT,,0,0,0,,{\kf15}A{\kf19} lit{\kf12}tle{\kf12} o{\kf12}ver{\kf15}pro{\kf23}tec{\kf23}tive
-Dialogue: 0,0:02:43.74,0:02:45.94,DEFAULT,,0,0,0,,{\kf23}She's{\kf12} the{\kf26} on{\kf12}ly{\kf15} sis{\kf12}ter{\kf15} I{\kf45} got
-Dialogue: 0,0:02:46.27,0:02:48.85,DEFAULT,,0,0,0,,{\kf12}And{\kf15} I{\kf37} don't{\kf41} have{\kf19} no{\kf12} re{\kf48}gret
-Dialogue: 0,0:02:49.66,0:02:52.56,DEFAULT,,0,0,0,,{\kf19}What{\kf12} you{\kf23} see{\kf19} is{\kf19} what{\kf15} you{\kf125} get
-Dialogue: 0,0:04:04.00,0:04:05.80,DEFAULT,,0,0,0,,{\kf181}aaaAAAAAAAAAAA
-Dialogue: 0,0:04:06.05,0:04:07.75,DEFAULT,,0,0,0,,{\kf12}Pin{\kf12}kie{\kf34} Pie's{\kf12} a{\kf8} lit{\kf12}tle{\kf23} nee{\kf19}dy
-Dialogue: 0,0:04:08.11,0:04:12.89,DEFAULT,,0,0,0,,{\kf12}Flut{\kf12}ter{\kf23}shy's{\kf19} got{\kf12} hid{\kf12}den{\kf125} rage{\kf12}~{\kf8}~{\kf173}~
-Dialogue: 0,0:04:15.76,0:04:17.97,DEFAULT,,0,0,0,,{\kf19}Rain{\kf15}bow{\kf30} Dash{\kf15} is{\kf15} full{\kf12} of{\kf45} pride
-Dialogue: 0,0:04:18.33,0:04:20.54,DEFAULT,,0,0,0,,{\kf26}Ra{\kf12}ri{\kf23}ty{\kf19} seeks{\kf12} cen{\kf15}ter{\kf59} stage
-Dialogue: 0,0:04:25.32,0:04:27.30,DEFAULT,,0,0,0,,{\kf15}Twi{\kf15}light{\kf19} Spar{\kf15}kle's{\kf19} so{\kf19} high{\kf30} strung
-Dialogue: 0,0:04:27.52,0:04:29.29,DEFAULT,,0,0,0,,{\kf12}I{\kf12} wor{\kf12}ry{\kf12} a{\kf15}bout{\kf15} that{\kf56} girl
-Dialogue: 0,0:04:29.77,0:04:31.57,DEFAULT,,0,0,0,,{\kf19}My{\kf19} friends{\kf19} all{\kf15} might{\kf15} seem{\kf19} cra{\kf15}zy
-Dialogue: 0,0:04:31.86,0:04:33.92,DEFAULT,,0,0,0,,{\kf12}Would{\kf12}n't{\kf37} trade{\kf15} 'em{\kf15} for{\kf12} the{\kf48} world
-Dialogue: 0,0:04:34.33,0:04:36.90,DEFAULT,,0,0,0,,{\kf12}And{\kf15} I{\kf41} don't{\kf37} have{\kf23} no{\kf15} re{\kf45}gret
-Dialogue: 0,0:04:37.67,0:04:40.58,DEFAULT,,0,0,0,,{\kf19}What{\kf15} you{\kf15} see{\kf15} is{\kf15} what{\kf15} you{\kf122} get
-Dialogue: 0,0:04:46.97,0:04:49.69,DEFAULT,,0,0,0,,{\kf15}What{\kf19} you{\kf19} see{\kf19} is{\kf15} what{\kf15} you{\kf103} get
-Dialogue: 0,0:04:57.78,0:05:03.41,DEFAULT,,0,0,0,,{\kf37}Yeah{\kf37} yeah{\kf37} yeah{\kf37} yeah{\kf114} yeah,{\kf19} yeah{\kf19} yeah{\kf15}~{\kf19}~{\kf96} hey
-Dialogue: 0,0:05:06.83,0:05:13.85,DEFAULT,,0,0,0,,{\kf23}What{\kf34} you{\kf41} get-{\kf56} yeah{\kf34}~{\kf37} yeah{\kf34} yeah{\kf48} yeah{\kf15}~{\kf15}~{\kf217}~
+Dialogue: 0,0:00:33.89,0:00:35.62,DEFAULT,,0,0,0,,{\r}{\kf10}Well{\kf19} I{\kf29} don't{\kf29} real{\kf29}ly{\kf57} care
+Dialogue: 0,0:00:36.13,0:00:39.00,DEFAULT,,0,0,0,,{\r}{\kf26}If{\kf26} I{\kf26} ain't{\kf26} your{\kf31} kind{\kf20}a{\kf26} fil{\kf106}ly
+Dialogue: 0,0:00:43.34,0:00:45.43,DEFAULT,,0,0,0,,{\r}{\kf34}Fan{\kf23}cy{\kf34} dres{\kf28}ses{\kf23} and{\kf40} sad{\kf28}dles
+Dialogue: 0,0:00:45.84,0:00:48.38,DEFAULT,,0,0,0,,{\r}{\kf30}Al{\kf20}ways{\kf30} make{\kf20} me{\kf25} feel{\kf25} sil{\kf104}ly
+Dialogue: 0,0:00:52.90,0:00:55.07,DEFAULT,,0,0,0,,{\r}{\kf27}Since{\kf27} I{\kf27} came{\kf33} back{\kf22} from{\kf27} Mane{\kf27}hat{\kf27}tan
+Dialogue: 0,0:00:55.51,0:00:57.86,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf19} know{\kf24} just{\kf24} who{\kf24} I{\kf130} am
+Dialogue: 0,0:00:58.08,0:01:00.36,DEFAULT,,0,0,0,,{\r}{\kf21}A{\kf21} sim{\kf16}ple{\kf47} girl,{\kf31} fa{\kf26}mily{\kf16} at{\kf50} home
+Dialogue: 0,0:01:00.58,0:01:02.60,DEFAULT,,0,0,0,,{\r}{\kf16}The{\kf26} Ap{\kf21}ple{\kf36} far{\kf26}mer{\kf26} in{\kf21} com{\kf30}mand
+Dialogue: 0,0:01:03.08,0:01:05.10,DEFAULT,,0,0,0,,{\r}{\kf61}Don't{\kf52} have{\kf28} no{\kf19} re{\kf42}gret
+Dialogue: 0,0:01:06.06,0:01:08.34,DEFAULT,,0,0,0,,{\r}{\kf28}What{\kf24} you{\kf28} see{\kf24} is{\kf24} what{\kf19} you{\kf81} get
+Dialogue: 0,0:01:26.17,0:01:27.93,DEFAULT,,0,0,0,,{\r}{\kf28}My{\kf28} pa{\kf33}rents{\kf17} were{\kf38} ta{\kf32}ken
+Dialogue: 0,0:01:28.19,0:01:31.06,DEFAULT,,0,0,0,,{\r}{\kf15}When{\kf19} I{\kf24} was{\kf24} just{\kf24} a{\kf19} lit{\kf19}tle{\kf143} girl
+Dialogue: 0,0:01:35.77,0:01:37.97,DEFAULT,,0,0,0,,{\r}{\kf28}They{\kf22} left{\kf22} me{\kf17} with{\kf22} a{\kf44} job{\kf22} to{\kf44} do
+Dialogue: 0,0:01:38.34,0:01:40.43,DEFAULT,,0,0,0,,{\r}{\kf16}Ce{\kf22}les{\kf22}tia{\kf22} rest{\kf22} their{\kf106} souls
+Dialogue: 0,0:01:45.25,0:01:46.98,DEFAULT,,0,0,0,,{\r}{\kf28}Take{\kf33} care{\kf28} of{\kf22} your{\kf28} sis{\kf34}ter
+Dialogue: 0,0:01:47.68,0:01:49.52,DEFAULT,,0,0,0,,{\r}{\kf21}Take{\kf32} care{\kf21} of{\kf21} the{\kf89} farm
+Dialogue: 0,0:01:50.03,0:01:51.90,DEFAULT,,0,0,0,,{\r}{\kf28}I{\kf28} might{\kf28} not{\kf28} be{\kf22} the{\kf33} old{\kf21}est
+Dialogue: 0,0:01:52.38,0:01:54.22,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf36} I'm{\kf26} the{\kf20} one{\kf15} in{\kf67} charge
+Dialogue: 0,0:01:54.63,0:01:57.20,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf20} I{\kf59} don't{\kf49} have{\kf30} no{\kf20} re{\kf64}gret
+Dialogue: 0,0:01:57.97,0:02:00.58,DEFAULT,,0,0,0,,{\r}{\kf24}What{\kf24} you{\kf29} see{\kf19} is{\kf24} what{\kf14} you{\kf127} get
+Dialogue: 0,0:02:18.01,0:02:19.81,DEFAULT,,0,0,0,,{\r}{\kf11}See{\kf17} I{\kf17} ne{\kf17}ver{\kf28} liked{\kf17} a{\kf45} ze{\kf28}bra
+Dialogue: 0,0:02:20.25,0:02:23.19,DEFAULT,,0,0,0,,{\r}{\kf22}Till{\kf22} I{\kf22} met{\kf22} one{\kf22} my{\kf184}self
+Dialogue: 0,0:02:27.49,0:02:29.74,DEFAULT,,0,0,0,,{\r}{\kf25}But{\kf20} I{\kf20} ad{\kf25}mit{\kf20} when{\kf36} I{\kf31} am{\kf47} wrong
+Dialogue: 0,0:02:29.96,0:02:32.49,DEFAULT,,0,0,0,,{\r}{\kf17}It{\kf22} hap{\kf28}pened{\kf28} with{\kf22} the{\kf28} bats{\kf33} as{\kf76} well
+Dialogue: 0,0:02:36.94,0:02:38.82,DEFAULT,,0,0,0,,{\r}{\kf27}Some{\kf32}times{\kf16} I{\kf11} can{\kf16} be{\kf16} a{\kf11} lit{\kf16}tle{\kf21} stub{\kf22}born
+Dialogue: 0,0:02:39.37,0:02:41.10,DEFAULT,,0,0,0,,{\r}{\kf19}Some{\kf29}times{\kf14} I{\kf14} can{\kf14} be{\kf14} a{\kf69} lot
+Dialogue: 0,0:02:41.68,0:02:43.56,DEFAULT,,0,0,0,,{\r}{\kf22}A{\kf28} lit{\kf16}tle{\kf16} o{\kf16}ver{\kf22}pro{\kf33}tec{\kf34}tive
+Dialogue: 0,0:02:43.74,0:02:45.95,DEFAULT,,0,0,0,,{\r}{\kf32}She's{\kf16} the{\kf37} on{\kf16}ly{\kf21} sis{\kf16}ter{\kf21} I{\kf62} got
+Dialogue: 0,0:02:46.28,0:02:48.85,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf21} I{\kf52} don't{\kf58} have{\kf26} no{\kf16} re{\kf68}gret
+Dialogue: 0,0:02:49.66,0:02:52.57,DEFAULT,,0,0,0,,{\r}{\kf23}What{\kf14} you{\kf28} see{\kf23} is{\kf23} what{\kf19} you{\kf160} get
+Dialogue: 0,0:04:04.00,0:04:05.80,DEFAULT,,0,0,0,,{\r}{\kf180}aaaAAAAAAAAAAA
+Dialogue: 0,0:04:06.06,0:04:07.75,DEFAULT,,0,0,0,,{\r}{\kf15}Pin{\kf15}kie{\kf45} Pie's{\kf15} a{\kf10} lit{\kf15}tle{\kf30} nee{\kf24}dy
+Dialogue: 0,0:04:08.12,0:04:12.90,DEFAULT,,0,0,0,,{\r}{\kf13}Flut{\kf13}ter{\kf26}shy's{\kf22} got{\kf13} hid{\kf13}den{\kf149} rage{\kf13}~{\kf10}~{\kf206}~
+Dialogue: 0,0:04:15.76,0:04:17.97,DEFAULT,,0,0,0,,{\r}{\kf28}Rain{\kf22}bow{\kf44} Dash{\kf22} is{\kf22} full{\kf17} of{\kf66} pride
+Dialogue: 0,0:04:18.34,0:04:20.54,DEFAULT,,0,0,0,,{\r}{\kf35}Ra{\kf15}ri{\kf30}ty{\kf25} seeks{\kf15} cen{\kf20}ter{\kf81} stage
+Dialogue: 0,0:04:25.32,0:04:27.31,DEFAULT,,0,0,0,,{\r}{\kf23}Twi{\kf23}light{\kf28} Spar{\kf23}kle's{\kf28} so{\kf28} high{\kf46} strung
+Dialogue: 0,0:04:27.53,0:04:29.29,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf15} wor{\kf15}ry{\kf15} a{\kf20}bout{\kf20} that{\kf76} girl
+Dialogue: 0,0:04:29.77,0:04:31.57,DEFAULT,,0,0,0,,{\r}{\kf28}My{\kf28} friends{\kf28} all{\kf22} might{\kf22} seem{\kf28} cra{\kf24}zy
+Dialogue: 0,0:04:31.87,0:04:33.93,DEFAULT,,0,0,0,,{\r}{\kf15}Would{\kf15}n't{\kf52} trade{\kf21} 'em{\kf21} for{\kf15} the{\kf67} world
+Dialogue: 0,0:04:34.33,0:04:36.90,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf21} I{\kf57} don't{\kf51} have{\kf31} no{\kf21} re{\kf61}gret
+Dialogue: 0,0:04:37.68,0:04:40.58,DEFAULT,,0,0,0,,{\r}{\kf25}What{\kf20} you{\kf20} see{\kf20} is{\kf20} what{\kf20} you{\kf165} get
+Dialogue: 0,0:04:46.98,0:04:49.70,DEFAULT,,0,0,0,,{\r}{\kf20}What{\kf25} you{\kf25} see{\kf25} is{\kf20} what{\kf20} you{\kf137} get
+Dialogue: 0,0:04:57.79,0:05:03.41,DEFAULT,,0,0,0,,{\r}{\kf48}Yeah{\kf48} yeah{\kf48} yeah{\kf48} yeah{\kf150} yeah,{\kf24} yeah{\kf24} yeah{\kf19}~{\kf24}~{\kf129} hey
+Dialogue: 0,0:05:06.83,0:05:13.85,DEFAULT,,0,0,0,,{\r}{\kf28}What{\kf42} you{\kf52} get-{\kf71} yeah{\kf42}~{\kf47} yeah{\kf42} yeah{\kf61} yeah{\kf19}~{\kf19}~{\kf279}~

@@ -1,62 +1,69 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Birdsong (feat. Relative1Pitch) [10th Anniversary Edition]
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by lily
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:17.51,0:00:21.43,DEFAULT,,0,0,0,,{\kf1766}It's{\kf1800} just{\kf1772} so{\kf1772}-o{\kf1796} sim{\kf1772}ple,{\kf1772} a{\kf1759} si{\kf1786}-im{\kf1772}ple{\kf1772}~{\kf1793} song
-Dialogue: 0,0:00:21.87,0:00:27.09,DEFAULT,,0,0,0,,{\kf1769}But{\kf1762} not{\kf1779}~{\kf1786} so{\kf1800} sim{\kf1786}ply{\kf1789} beau{\kf1766}ti{\kf1800}ful{\kf1772} as{\kf1772} you{\kf1844} are
-Dialogue: 0,0:00:29.44,0:00:31.28,DEFAULT,,0,0,0,,{\kf1772}No,{\kf1759} not{\kf1772}~{\kf1786} by{\kf1827} far
-Dialogue: 0,0:00:35.14,0:00:38.85,DEFAULT,,0,0,0,,{\kf1759}One{\kf1789}~{\kf1786} plus{\kf1786} one{\kf1772} is{\kf1766}n't{\kf1786} yo{\kf1759}ou{\kf1772} a{\kf1769}-and{\kf1793} I,
-Dialogue: 0,0:00:39.26,0:00:44.44,DEFAULT,,0,0,0,,{\kf1772}'Cause{\kf1759} I'm{\kf1783}~{\kf1783} just{\kf1796} one{\kf1789} and{\kf1793} you{\kf1793} catch{\kf1772} e{\kf1772}ve{\kf1772}ry{\kf1830} eye
-Dialogue: 0,0:00:47.17,0:00:48.87,DEFAULT,,0,0,0,,{\kf1783}Flut{\kf1779}ter{\kf1837}shy
-Dialogue: 0,0:00:52.59,0:00:55.76,DEFAULT,,0,0,0,,{\kf1766}Lis{\kf1772}ten{\kf1769} to{\kf1772} the{\kf1772} mu{\kf1769}sic{\kf1772} in{\kf1762} the{\kf1847} sky
-Dialogue: 0,0:00:56.95,0:01:00.12,DEFAULT,,0,0,0,,{\kf1772}Feel{\kf1762} it{\kf1772} flow{\kf1772}ing{\kf1772} through{\kf1772} you{\kf1772} as{\kf1766} you{\kf1847} fly
-Dialogue: 0,0:01:01.32,0:01:04.52,DEFAULT,,0,0,0,,{\kf1772}Soft{\kf1772}ly{\kf1776} as{\kf1772} a{\kf1766} whis{\kf1772}pered{\kf1772} lul{\kf1759}la{\kf1861}by
-Dialogue: 0,0:01:07.01,0:01:08.95,DEFAULT,,0,0,0,,{\kf1772}Flut{\kf1769}ter{\kf1885}shy
-Dialogue: 0,0:01:10.35,0:01:13.76,DEFAULT,,0,0,0,,{\kf1759}Ev{\kf1759}ery{\kf1772}po{\kf1759}ny{\kf1783} says{\kf1759} you{\kf1776} don't{\kf1772} sta{\kf1772}-and{\kf1871} out
-Dialogue: 0,0:01:14.71,0:01:18.29,DEFAULT,,0,0,0,,{\kf1759}Well{\kf1759}~,{\kf1772} now{\kf1759} I{\kf1786} know{\kf1759} that{\kf1783} they{\kf1772} we{\kf1772}-ere{\kf1888} wrong
-Dialogue: 0,0:01:19.08,0:01:22.52,DEFAULT,,0,0,0,,{\kf1772}There's{\kf1772} too{\kf1759} ma{\kf1759}ny{\kf1772} ways{\kf1772} to{\kf1772} des{\kf1800}cribe{\kf1759} yo{\kf1861}-ou
-Dialogue: 0,0:01:23.44,0:01:28.66,DEFAULT,,0,0,0,,{\kf1772}So,{\kf1772} I'll{\kf1766} just{\kf1766} sing{\kf1772} you{\kf1772} a{\kf1772} bi{\kf1772}-ird{\kf1854}so{\kf1772}-o{\kf1772}-o{\kf1888}-ong
-Dialogue: 0,0:01:31.62,0:01:35.54,DEFAULT,,0,0,0,,{\kf1769}Your{\kf1789} way{\kf1786} with{\kf1796} crea{\kf1772}tures{\kf1772} and{\kf1800} a{\kf1772}ni{\kf1772}-i{\kf1786}mals
-Dialogue: 0,0:01:35.95,0:01:41.44,DEFAULT,,0,0,0,,{\kf1772}And{\kf1796} how{\kf1772} yo{\kf1772}-ou{\kf1800} reach{\kf1800} them,{\kf1800} take{\kf1769} the{\kf1772}-em{\kf1772} in{\kf1772}to{\kf1772} your{\kf1854} home
-Dialogue: 0,0:01:43.62,0:01:45.50,DEFAULT,,0,0,0,,{\kf1776}No{\kf1759}po{\kf1769}-o{\kf1783}ny{\kf1827} knows
-Dialogue: 0,0:01:49.01,0:01:53.07,DEFAULT,,0,0,0,,{\kf1772}Your{\kf1796} kind{\kf1772}ness{\kf1793} may{\kf1772} show{\kf1766} them{\kf1786} who{\kf1759}-o{\kf1772} yo{\kf1772}-ou{\kf1796} are
-Dialogue: 0,0:01:53.41,0:01:59.34,DEFAULT,,0,0,0,,{\kf1766}But{\kf1800} they{\kf1772} wi{\kf1766}-ill{\kf1800} ne{\kf1793}ver{\kf1786} see{\kf1772} the{\kf1789} light{\kf1783} or{\kf1766} the{\kf1772} sta{\kf1854}-ars
-Dialogue: 0,0:02:01.08,0:02:03.26,DEFAULT,,0,0,0,,{\kf1772}You're{\kf1786} bright{\kf1786} as{\kf1766} a{\kf1834} star
-Dialogue: 0,0:02:06.77,0:02:09.94,DEFAULT,,0,0,0,,{\kf1766}Lis{\kf1772}ten{\kf1769} to{\kf1772} the{\kf1772} mu{\kf1769}sic{\kf1772} in{\kf1762} the{\kf1847} sky
-Dialogue: 0,0:02:11.14,0:02:14.31,DEFAULT,,0,0,0,,{\kf1772}Feel{\kf1762} it{\kf1772} flow{\kf1772}ing{\kf1772} through{\kf1772} you{\kf1772} as{\kf1766} you{\kf1847} fly
-Dialogue: 0,0:02:15.50,0:02:18.74,DEFAULT,,0,0,0,,{\kf1772}Soft{\kf1772}ly{\kf1776} as{\kf1772} a{\kf1766} whis{\kf1772}pered{\kf1772} lul{\kf1762}la{\kf1864}by
-Dialogue: 0,0:02:21.23,0:02:23.17,DEFAULT,,0,0,0,,{\kf1772}Flut{\kf1769}ter{\kf1885}shy
-Dialogue: 0,0:02:24.53,0:02:27.94,DEFAULT,,0,0,0,,{\kf1759}Ev{\kf1762}ery{\kf1776}po{\kf1759}ny{\kf1786} says{\kf1759} you{\kf1779} don't{\kf1772} sta{\kf1772}-and{\kf1871} out
-Dialogue: 0,0:02:28.90,0:02:32.44,DEFAULT,,0,0,0,,{\kf1759}Well{\kf1759}~,{\kf1772} now{\kf1759} I{\kf1786} know{\kf1759} that{\kf1786} they{\kf1772} we{\kf1772}-ere{\kf1885} wrong
-Dialogue: 0,0:02:33.26,0:02:36.77,DEFAULT,,0,0,0,,{\kf1772}None{\kf1772} of{\kf1759} your{\kf1786} a{\kf1759}ni{\kf1779}mals{\kf1762} could{\kf1759} te{\kf1786}-ell{\kf1762} yo{\kf1844}-ou
-Dialogue: 0,0:02:37.59,0:02:42.87,DEFAULT,,0,0,0,,{\kf1766}But{\kf1772} you{\kf1772} can{\kf1772} hear{\kf1772} it{\kf1769} in{\kf1772} bi{\kf1772}-ird{\kf1854}so{\kf1759}-o{\kf1786}-o{\kf1772}-o{\kf1864}-ong
-Dialogue: 0,0:02:59.17,0:03:01.15,DEFAULT,,0,0,0,,{\kf1772}La,{\kf1772} la,{\kf1772} la{\kf1759} la{\kf1772} la{\kf1772} la
-Dialogue: 0,0:03:01.35,0:03:03.33,DEFAULT,,0,0,0,,{\kf1772}La,{\kf1772} la,{\kf1772} la{\kf1762} la{\kf1769} la{\kf1772} la
-Dialogue: 0,0:03:03.53,0:03:05.54,DEFAULT,,0,0,0,,{\kf1772}La,{\kf1772} la,{\kf1772} la{\kf1759} la{\kf1772} la{\kf1772} la
-Dialogue: 0,0:03:05.71,0:03:07.73,DEFAULT,,0,0,0,,{\kf1772}La,{\kf1772} la,{\kf1772} la{\kf1762} la{\kf1769} la{\kf1772} la
-Dialogue: 0,0:03:07.93,0:03:09.87,DEFAULT,,0,0,0,,{\kf1772}La,{\kf1772} la,{\kf1772} la{\kf1759} la{\kf1772} la{\kf1772} la
-Dialogue: 0,0:03:10.08,0:03:12.06,DEFAULT,,0,0,0,,{\kf1772}La,{\kf1772} la,{\kf1772} la{\kf1762} la{\kf1769} la{\kf1772} la
-Dialogue: 0,0:03:12.23,0:03:14.27,DEFAULT,,0,0,0,,{\kf1772}La,{\kf1772} la,{\kf1772} la{\kf1759} la{\kf1772} la{\kf1772} la
-Dialogue: 0,0:03:14.44,0:03:16.45,DEFAULT,,0,0,0,,{\kf1772}La,{\kf1772} la,{\kf1772} la{\kf1759} la{\kf1769} la{\kf1772} la
-Dialogue: 0,0:03:16.66,0:03:20.37,DEFAULT,,0,0,0,,{\kf1837}Don't{\kf1844} you{\kf1909} hide
-Dialogue: 0,0:03:20.95,0:03:24.60,DEFAULT,,0,0,0,,{\kf1847}Don't{\kf1820} yo{\kf1769}-ou{\kf1892} see?
-Dialogue: 0,0:03:25.32,0:03:32.92,DEFAULT,,0,0,0,,{\kf1841}Please{\kf1837} don't{\kf1854} hide{\kf1772} fro{\kf1772}-om{\kf1834} me,{\kf1772} fro{\kf1772}-om{\kf1789} me{\kf1759}-e{\kf1827}-e
-Dialogue: 0,0:03:34.35,0:03:37.76,DEFAULT,,0,0,0,,{\kf1759}Ev{\kf1759}ery{\kf1772}po{\kf1759}ny{\kf1786} says{\kf1759} you{\kf1779} don't{\kf1772} sta{\kf1772}-and{\kf1871} out
-Dialogue: 0,0:03:38.71,0:03:42.26,DEFAULT,,0,0,0,,{\kf1759}We{\kf1759}-ell,{\kf1772} now{\kf1759} I{\kf1786} know{\kf1759} that{\kf1786} they{\kf1772} we{\kf1772}-ere{\kf1885} wrong
-Dialogue: 0,0:03:43.04,0:03:46.49,DEFAULT,,0,0,0,,{\kf1772}There's{\kf1772} too{\kf1766} ma{\kf1759}ny{\kf1772} ways{\kf1772} to{\kf1772} des{\kf1800}cribe{\kf1759} yo{\kf1861}-ou
-Dialogue: 0,0:03:47.44,0:03:52.59,DEFAULT,,0,0,0,,{\kf1766}So,{\kf1772} I'll{\kf1772} just{\kf1772} sing{\kf1772} it{\kf1772} in{\kf1772} bi{\kf1772}-ird{\kf1854}so{\kf1759}-o{\kf1786}-o{\kf1772}-o{\kf1854}-ong
-Dialogue: 0,0:04:04.90,0:04:11.00,DEFAULT,,0,0,0,,{\kf1766}So,{\kf1772} I'll{\kf1772} just{\kf1772} sing{\kf1772} it{\kf1772} in{\kf1772} bi{\kf1772}-ird{\kf1854}so{\kf1759}-o{\kf1786}-o{\kf1772}-o{\kf1847}-ong{\kf1772} (la{\kf1759} la{\kf1772} la{\kf1772} la)
-Dialogue: 0,0:04:11.17,0:04:13.15,DEFAULT,,0,0,0,,{\kf1772}La,{\kf1772} la,{\kf1772} la{\kf1762} la{\kf1766} la{\kf1772} la
-Dialogue: 0,0:04:13.35,0:04:15.33,DEFAULT,,0,0,0,,{\kf1772}La,{\kf1772} la,{\kf1772} la{\kf1759} la{\kf1772} la{\kf1769} la
-Dialogue: 0,0:04:15.53,0:04:17.54,DEFAULT,,0,0,0,,{\kf1772}La,{\kf1772} la,{\kf1769} la{\kf1762} la{\kf1769} la{\kf1772} la
-Dialogue: 0,0:04:17.71,0:04:19.66,DEFAULT,,0,0,0,,{\kf1772}La,{\kf1772} la,{\kf1772} la{\kf1759} la{\kf1772} la{\kf1772} la
-Dialogue: 0,0:04:19.86,0:04:21.87,DEFAULT,,0,0,0,,{\kf1772}La,{\kf1772} la,{\kf1769} la{\kf1762} la{\kf1769} la{\kf1772} la
-Dialogue: 0,0:04:22.04,0:04:24.06,DEFAULT,,0,0,0,,{\kf1772}La,{\kf1772} la,{\kf1772} la{\kf1759} la{\kf1772} la{\kf1772} la
-Dialogue: 0,0:04:24.23,0:04:26.24,DEFAULT,,0,0,0,,{\kf1772}La,{\kf1772} la,{\kf1772} la{\kf1759} la{\kf1769} la{\kf1772} la
+Dialogue: 0,0:00:17.52,0:00:21.44,DEFAULT,,0,0,0,,{\r}{\kf17}It's{\kf60} just{\kf26} so{\kf26}-o{\kf56} sim{\kf26}ple,{\kf26} a{\kf10} si{\kf43}-im{\kf26}ple{\kf26}~{\kf50} song
+Dialogue: 0,0:00:21.88,0:00:27.09,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf13} not{\kf35}~{\kf44} so{\kf62} sim{\kf44}ply{\kf49} beau{\kf18}ti{\kf62}ful{\kf27} as{\kf27} you{\kf119} are
+Dialogue: 0,0:00:29.45,0:00:31.29,DEFAULT,,0,0,0,,{\r}{\kf24}No,{\kf10} not{\kf24}~{\kf40} by{\kf86} far
+Dialogue: 0,0:00:35.14,0:00:38.86,DEFAULT,,0,0,0,,{\r}{\kf10}One{\kf52}~{\kf48} plus{\kf48} one{\kf29} is{\kf19}n't{\kf48} yo{\kf10}ou{\kf29} a{\kf24}-and{\kf55} I,
+Dialogue: 0,0:00:39.27,0:00:44.45,DEFAULT,,0,0,0,,{\r}{\kf27}'Cause{\kf10} I'm{\kf41}~{\kf41} just{\kf59} one{\kf50} and{\kf54} you{\kf54} catch{\kf27} e{\kf27}ve{\kf27}ry{\kf101} eye
+Dialogue: 0,0:00:47.17,0:00:48.88,DEFAULT,,0,0,0,,{\r}{\kf36}Flut{\kf32}ter{\kf102}shy
+Dialogue: 0,0:00:52.59,0:00:55.77,DEFAULT,,0,0,0,,{\r}{\kf18}Lis{\kf28}ten{\kf23} to{\kf28} the{\kf28} mu{\kf23}sic{\kf28} in{\kf14} the{\kf127} sky
+Dialogue: 0,0:00:56.96,0:01:00.13,DEFAULT,,0,0,0,,{\r}{\kf27}Feel{\kf13} it{\kf27} flow{\kf27}ing{\kf27} through{\kf27} you{\kf27} as{\kf18} you{\kf124} fly
+Dialogue: 0,0:01:01.32,0:01:04.53,DEFAULT,,0,0,0,,{\r}{\kf26}Soft{\kf26}ly{\kf30} as{\kf26} a{\kf17} whis{\kf26}pered{\kf26} lul{\kf10}la{\kf133}by
+Dialogue: 0,0:01:07.02,0:01:08.96,DEFAULT,,0,0,0,,{\r}{\kf23}Flut{\kf19}ter{\kf152}shy
+Dialogue: 0,0:01:10.36,0:01:13.77,DEFAULT,,0,0,0,,{\r}{\kf10}Ev{\kf10}ery{\kf27}po{\kf10}ny{\kf40} says{\kf10} you{\kf31} don't{\kf27} sta{\kf27}-and{\kf149} out
+Dialogue: 0,0:01:14.72,0:01:18.30,DEFAULT,,0,0,0,,{\r}{\kf10}Well{\kf10}~,{\kf25} now{\kf10} I{\kf42} know{\kf10} that{\kf38} they{\kf25} we{\kf25}-ere{\kf163} wrong
+Dialogue: 0,0:01:19.08,0:01:22.53,DEFAULT,,0,0,0,,{\r}{\kf25}There's{\kf25} too{\kf10} ma{\kf10}ny{\kf25} ways{\kf25} to{\kf25} des{\kf59}cribe{\kf10} yo{\kf130}-ou
+Dialogue: 0,0:01:23.45,0:01:28.66,DEFAULT,,0,0,0,,{\r}{\kf25}So,{\kf25} I'll{\kf17} just{\kf17} sing{\kf25} you{\kf25} a{\kf25} bi{\kf25}-ird{\kf124}so{\kf25}-o{\kf25}-o{\kf164}-ong
+Dialogue: 0,0:01:31.63,0:01:35.55,DEFAULT,,0,0,0,,{\r}{\kf23}Your{\kf50} way{\kf45} with{\kf59} crea{\kf27}tures{\kf27} and{\kf63} a{\kf27}ni{\kf27}-i{\kf44}mals
+Dialogue: 0,0:01:35.96,0:01:41.45,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf54} how{\kf25} yo{\kf25}-ou{\kf58} reach{\kf58} them,{\kf58} take{\kf21} the{\kf25}-em{\kf25} in{\kf25}to{\kf25} your{\kf125} home
+Dialogue: 0,0:01:43.63,0:01:45.50,DEFAULT,,0,0,0,,{\r}{\kf29}No{\kf10}po{\kf21}-o{\kf38}ny{\kf90} knows
+Dialogue: 0,0:01:49.02,0:01:53.07,DEFAULT,,0,0,0,,{\r}{\kf29}Your{\kf63} kind{\kf29}ness{\kf58} may{\kf29} show{\kf19} them{\kf48} who{\kf10}-o{\kf29} yo{\kf29}-ou{\kf63} are
+Dialogue: 0,0:01:53.41,0:01:59.34,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf64} they{\kf27} wi{\kf18}-ill{\kf64} ne{\kf55}ver{\kf46} see{\kf27} the{\kf50} light{\kf41} or{\kf18} the{\kf27} sta{\kf138}-ars
+Dialogue: 0,0:02:01.08,0:02:03.27,DEFAULT,,0,0,0,,{\r}{\kf24}You're{\kf40} bright{\kf40} as{\kf16} a{\kf98} star
+Dialogue: 0,0:02:06.78,0:02:09.95,DEFAULT,,0,0,0,,{\r}{\kf18}Lis{\kf28}ten{\kf23} to{\kf28} the{\kf28} mu{\kf23}sic{\kf28} in{\kf14} the{\kf127} sky
+Dialogue: 0,0:02:11.14,0:02:14.31,DEFAULT,,0,0,0,,{\r}{\kf27}Feel{\kf13} it{\kf27} flow{\kf27}ing{\kf27} through{\kf27} you{\kf27} as{\kf18} you{\kf124} fly
+Dialogue: 0,0:02:15.50,0:02:18.74,DEFAULT,,0,0,0,,{\r}{\kf25}Soft{\kf25}ly{\kf29} as{\kf25} a{\kf17} whis{\kf25}pered{\kf25} lul{\kf13}la{\kf140}by
+Dialogue: 0,0:02:21.23,0:02:23.17,DEFAULT,,0,0,0,,{\r}{\kf23}Flut{\kf19}ter{\kf152}shy
+Dialogue: 0,0:02:24.54,0:02:27.95,DEFAULT,,0,0,0,,{\r}{\kf10}Ev{\kf13}ery{\kf29}po{\kf10}ny{\kf42} says{\kf10} you{\kf34} don't{\kf25} sta{\kf25}-and{\kf143} out
+Dialogue: 0,0:02:28.90,0:02:32.45,DEFAULT,,0,0,0,,{\r}{\kf10}Well{\kf10}~,{\kf25} now{\kf10} I{\kf42} know{\kf10} that{\kf42} they{\kf25} we{\kf25}-ere{\kf156} wrong
+Dialogue: 0,0:02:33.26,0:02:36.78,DEFAULT,,0,0,0,,{\r}{\kf27}None{\kf27} of{\kf10} your{\kf44} a{\kf10}ni{\kf36}mals{\kf13} could{\kf10} te{\kf44}-ell{\kf13} yo{\kf117}-ou
+Dialogue: 0,0:02:37.59,0:02:42.88,DEFAULT,,0,0,0,,{\r}{\kf17}But{\kf25} you{\kf25} can{\kf25} hear{\kf25} it{\kf21} in{\kf25} bi{\kf25}-ird{\kf126}so{\kf10}-o{\kf42}-o{\kf25}-o{\kf137}-ong
+Dialogue: 0,0:02:59.17,0:03:01.15,DEFAULT,,0,0,0,,{\r}{\kf37}La,{\kf37} la,{\kf37} la{\kf12} la{\kf37} la{\kf38} la
+Dialogue: 0,0:03:01.36,0:03:03.33,DEFAULT,,0,0,0,,{\r}{\kf37}La,{\kf37} la,{\kf37} la{\kf19} la{\kf31} la{\kf37} la
+Dialogue: 0,0:03:03.54,0:03:05.55,DEFAULT,,0,0,0,,{\r}{\kf38}La,{\kf38} la,{\kf38} la{\kf13} la{\kf38} la{\kf36} la
+Dialogue: 0,0:03:05.72,0:03:07.73,DEFAULT,,0,0,0,,{\r}{\kf38}La,{\kf38} la,{\kf38} la{\kf19} la{\kf31} la{\kf37} la
+Dialogue: 0,0:03:07.94,0:03:09.88,DEFAULT,,0,0,0,,{\r}{\kf36}La,{\kf36} la,{\kf36} la{\kf12} la{\kf36} la{\kf38} la
+Dialogue: 0,0:03:10.08,0:03:12.06,DEFAULT,,0,0,0,,{\r}{\kf37}La,{\kf37} la,{\kf37} la{\kf19} la{\kf31} la{\kf37} la
+Dialogue: 0,0:03:12.23,0:03:14.28,DEFAULT,,0,0,0,,{\r}{\kf38}La,{\kf38} la,{\kf38} la{\kf13} la{\kf38} la{\kf40} la
+Dialogue: 0,0:03:14.45,0:03:16.46,DEFAULT,,0,0,0,,{\r}{\kf39}La,{\kf39} la,{\kf39} la{\kf13} la{\kf32} la{\kf39} la
+Dialogue: 0,0:03:16.66,0:03:20.38,DEFAULT,,0,0,0,,{\r}{\kf95}Don't{\kf102} you{\kf175} hide
+Dialogue: 0,0:03:20.96,0:03:24.61,DEFAULT,,0,0,0,,{\r}{\kf109}Don't{\kf78} yo{\kf19}-ou{\kf159} see?
+Dialogue: 0,0:03:25.32,0:03:32.92,DEFAULT,,0,0,0,,{\r}{\kf120}Please{\kf116} don't{\kf139} hide{\kf28} fro{\kf28}-om{\kf111} me,{\kf28} fro{\kf28}-om{\kf51} me{\kf10}-e{\kf101}-e
+Dialogue: 0,0:03:34.36,0:03:37.76,DEFAULT,,0,0,0,,{\r}{\kf10}Ev{\kf10}ery{\kf26}po{\kf10}ny{\kf43} says{\kf10} you{\kf35} don't{\kf26} sta{\kf26}-and{\kf145} out
+Dialogue: 0,0:03:38.72,0:03:42.26,DEFAULT,,0,0,0,,{\r}{\kf10}We{\kf10}-ell,{\kf25} now{\kf10} I{\kf42} know{\kf10} that{\kf42} they{\kf25} we{\kf25}-ere{\kf156} wrong
+Dialogue: 0,0:03:43.05,0:03:46.49,DEFAULT,,0,0,0,,{\r}{\kf25}There's{\kf25} too{\kf16} ma{\kf10}ny{\kf25} ways{\kf25} to{\kf25} des{\kf57}cribe{\kf10} yo{\kf126}-ou
+Dialogue: 0,0:03:47.45,0:03:52.59,DEFAULT,,0,0,0,,{\r}{\kf17}So,{\kf25} I'll{\kf25} just{\kf25} sing{\kf25} it{\kf25} in{\kf25} bi{\kf25}-ird{\kf125}so{\kf10}-o{\kf42}-o{\kf25}-o{\kf121}-ong
+Dialogue: 0,0:04:04.90,0:04:11.00,DEFAULT,,0,0,0,,{\r}{\kf17}So,{\kf26} I'll{\kf26} just{\kf26} sing{\kf26} it{\kf26} in{\kf26} bi{\kf26}-ird{\kf129}so{\kf10}-o{\kf43}-o{\kf26}-o{\kf120}-ong{\kf26} (la{\kf10} la{\kf26} la{\kf21} la)
+Dialogue: 0,0:04:11.17,0:04:13.15,DEFAULT,,0,0,0,,{\r}{\kf38}La,{\kf38} la,{\kf38} la{\kf19} la{\kf26} la{\kf39} la
+Dialogue: 0,0:04:13.36,0:04:15.33,DEFAULT,,0,0,0,,{\r}{\kf38}La,{\kf38} la,{\kf38} la{\kf13} la{\kf38} la{\kf33} la
+Dialogue: 0,0:04:15.54,0:04:17.55,DEFAULT,,0,0,0,,{\r}{\kf39}La,{\kf39} la,{\kf32} la{\kf19} la{\kf32} la{\kf40} la
+Dialogue: 0,0:04:17.72,0:04:19.66,DEFAULT,,0,0,0,,{\r}{\kf36}La,{\kf36} la,{\kf36} la{\kf12} la{\kf36} la{\kf38} la
+Dialogue: 0,0:04:19.87,0:04:21.88,DEFAULT,,0,0,0,,{\r}{\kf39}La,{\kf39} la,{\kf32} la{\kf19} la{\kf32} la{\kf40} la
+Dialogue: 0,0:04:22.05,0:04:24.06,DEFAULT,,0,0,0,,{\r}{\kf38}La,{\kf38} la,{\kf38} la{\kf13} la{\kf38} la{\kf36} la
+Dialogue: 0,0:04:24.23,0:04:26.24,DEFAULT,,0,0,0,,{\r}{\kf39}La,{\kf39} la,{\kf39} la{\kf13} la{\kf32} la{\kf39} la

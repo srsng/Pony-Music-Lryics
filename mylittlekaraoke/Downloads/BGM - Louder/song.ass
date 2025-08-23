@@ -1,34 +1,41 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Louder
+Artist: BGM
+Original Timing: mylittlekaraoke.com by lily
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:28.55,0:00:28.85,DEFAULT,,0,0,0,,{\kf2885}yay
-Dialogue: 0,0:00:29.15,0:00:31.21,DEFAULT,,0,0,0,,{\kf2863}Sing{\kf2863} it{\kf2874} loud,{\kf2863} sing{\kf2863} it{\kf2874} strong,{\kf2863} sing{\kf2863} a{\kf2867} po{\kf2863}ny{\kf2882} song
-Dialogue: 0,0:00:31.55,0:00:33.65,DEFAULT,,0,0,0,,{\kf2863}Shout{\kf2863} it{\kf2874} out{\kf2863} to{\kf2867} the{\kf2870} break{\kf2874} of{\kf2863} da{\kf2863}-a{\kf2885}-awn
-Dialogue: 0,0:00:33.95,0:00:36.05,DEFAULT,,0,0,0,,{\kf2863}Crank{\kf2863} it{\kf2870} up,{\kf2867} 'cause{\kf2867} the{\kf2870} mares{\kf2870} are{\kf2863} rock{\kf2867}in'{\kf2885} on
-Dialogue: 0,0:00:36.35,0:00:38.30,DEFAULT,,0,0,0,,{\kf2863}Sing{\kf2863} it{\kf2874} all{\kf2874} night{\kf2863} lo{\kf2863}-o{\kf2930}-ong
-Dialogue: 0,0:00:38.75,0:00:40.85,DEFAULT,,0,0,0,,{\kf2863}Lis{\kf2863}ten{\kf2870} up{\kf2867} 'cause{\kf2867} the{\kf2878} par{\kf2874}ty's{\kf2863} go{\kf2863}in'{\kf2885} down
-Dialogue: 0,0:00:41.15,0:00:43.25,DEFAULT,,0,0,0,,{\kf2867}Po{\kf2867}nies{\kf2874} dance{\kf2863} to{\kf2867} the{\kf2870} kick{\kf2870}-ass{\kf2863} so{\kf2863}-o{\kf2882}-ound
-Dialogue: 0,0:00:43.55,0:00:45.65,DEFAULT,,0,0,0,,{\kf2867}Par{\kf2863}ty{\kf2867} a{\kf2867}ni{\kf2874}mals{\kf2874} want{\kf2874} the{\kf2863} best{\kf2867} a{\kf2885}round
-Dialogue: 0,0:00:45.95,0:00:47.97,DEFAULT,,0,0,0,,{\kf2867}Sha{\kf2863}kin'{\kf2874} up{\kf2874} the{\kf2867} to{\kf2867}-o{\kf2938}-own
-Dialogue: 0,0:01:36.35,0:01:38.45,DEFAULT,,0,0,0,,{\kf2867}Feel{\kf2867} the{\kf2874} bass{\kf2867} of{\kf2867} the{\kf2867} ins{\kf2863}tru{\kf2863}men{\kf2863}tal{\kf2878} po{\kf2885}wer
-Dialogue: 0,0:01:38.75,0:01:40.85,DEFAULT,,0,0,0,,{\kf2867}Hooves{\kf2867} are{\kf2867} mo{\kf2867}ving{\kf2867} in{\kf2867} the{\kf2867} mu{\kf2863}si{\kf2863}cal{\kf2863} en{\kf2878}coun{\kf2885}ter
-Dialogue: 0,0:01:41.15,0:01:43.21,DEFAULT,,0,0,0,,{\kf2867}Shake{\kf2867} it{\kf2870} up,{\kf2867} as{\kf2867} we{\kf2867} par{\kf2863}ty{\kf2863} on{\kf2863} for{\kf2878} ho{\kf2882}-ours
-Dialogue: 0,0:01:43.40,0:01:44.33,DEFAULT,,0,0,0,,{\kf2867}So{\kf2867} come{\kf2870} on,{\kf2863} and{\kf2863} sing{\kf2859} it
-Dialogue: 0,0:01:44.45,0:01:45.27,DEFAULT,,0,0,0,,{\kf2885}LOUD{\kf2900}ER!!
-Dialogue: 0,0:01:45.42,0:01:45.65,DEFAULT,,0,0,0,,{\kf2878}yay
-Dialogue: 0,0:02:24.35,0:02:26.45,DEFAULT,,0,0,0,,{\kf2863}Sing{\kf2863} it{\kf2874} loud,{\kf2863} sing{\kf2867} it{\kf2874} strong,{\kf2863} sing{\kf2863} a{\kf2863} po{\kf2863}ny{\kf2885} song
-Dialogue: 0,0:02:26.75,0:02:28.85,DEFAULT,,0,0,0,,{\kf2863}Shout{\kf2863} it{\kf2874} out{\kf2863} to{\kf2863} the{\kf2874} break{\kf2874} of{\kf2863} da{\kf2863}-a{\kf2885}-awn
-Dialogue: 0,0:02:29.15,0:02:31.25,DEFAULT,,0,0,0,,{\kf2863}Crank{\kf2863} it{\kf2870} up,{\kf2867} 'cause{\kf2867} the{\kf2874} mares{\kf2874} are{\kf2863} rock{\kf2863}in'{\kf2885} on
-Dialogue: 0,0:02:31.55,0:02:33.50,DEFAULT,,0,0,0,,{\kf2863}Sing{\kf2863} it{\kf2874} all{\kf2874} night{\kf2867} lo{\kf2867}-o{\kf2930}-ong
-Dialogue: 0,0:02:33.95,0:02:36.08,DEFAULT,,0,0,0,,{\kf2863}Lis{\kf2863}ten{\kf2863} up{\kf2867} 'cause{\kf2867} the{\kf2878} par{\kf2874}ty's{\kf2863} go{\kf2863}in'{\kf2889} down
-Dialogue: 0,0:02:36.35,0:02:38.45,DEFAULT,,0,0,0,,{\kf2863}Po{\kf2863}nies{\kf2878} dance{\kf2863} to{\kf2863} the{\kf2874} kick{\kf2870}-ass{\kf2863} so{\kf2863}-o{\kf2885}-ound
-Dialogue: 0,0:02:38.75,0:02:40.85,DEFAULT,,0,0,0,,{\kf2863}Par{\kf2863}ty{\kf2863} a{\kf2863}ni{\kf2874}mals{\kf2874} want{\kf2874} the{\kf2863} best{\kf2863} a{\kf2885}round
-Dialogue: 0,0:02:41.15,0:02:43.17,DEFAULT,,0,0,0,,{\kf2863}Sha{\kf2863}kin'{\kf2870} up{\kf2874} the{\kf2867} to{\kf2867}-o{\kf2938}-own
+Dialogue: 0,0:00:28.55,0:00:28.85,DEFAULT,,0,0,0,,{\r}{\kf30}yay
+Dialogue: 0,0:00:29.15,0:00:31.21,DEFAULT,,0,0,0,,{\r}{\kf12}Sing{\kf12} it{\kf30} loud,{\kf12} sing{\kf12} it{\kf30} strong,{\kf12} sing{\kf12} a{\kf18} po{\kf12}ny{\kf44} song
+Dialogue: 0,0:00:31.55,0:00:33.65,DEFAULT,,0,0,0,,{\r}{\kf12}Shout{\kf12} it{\kf30} out{\kf12} to{\kf18} the{\kf24} break{\kf30} of{\kf12} da{\kf12}-a{\kf48}-awn
+Dialogue: 0,0:00:33.95,0:00:36.05,DEFAULT,,0,0,0,,{\r}{\kf12}Crank{\kf12} it{\kf24} up,{\kf18} 'cause{\kf18} the{\kf24} mares{\kf24} are{\kf12} rock{\kf18}in'{\kf48} on
+Dialogue: 0,0:00:36.35,0:00:38.30,DEFAULT,,0,0,0,,{\r}{\kf10}Sing{\kf10} it{\kf26} all{\kf26} night{\kf10} lo{\kf10}-o{\kf103}-ong
+Dialogue: 0,0:00:38.75,0:00:40.85,DEFAULT,,0,0,0,,{\r}{\kf11}Lis{\kf11}ten{\kf23} up{\kf17} 'cause{\kf17} the{\kf34} par{\kf28}ty's{\kf11} go{\kf11}in'{\kf47} down
+Dialogue: 0,0:00:41.15,0:00:43.25,DEFAULT,,0,0,0,,{\r}{\kf18}Po{\kf18}nies{\kf30} dance{\kf12} to{\kf18} the{\kf24} kick{\kf24}-ass{\kf12} so{\kf12}-o{\kf42}-ound
+Dialogue: 0,0:00:43.55,0:00:45.65,DEFAULT,,0,0,0,,{\r}{\kf16}Par{\kf11}ty{\kf16} a{\kf16}ni{\kf27}mals{\kf27} want{\kf27} the{\kf11} best{\kf16} a{\kf43}round
+Dialogue: 0,0:00:45.95,0:00:47.98,DEFAULT,,0,0,0,,{\r}{\kf14}Sha{\kf10}kin'{\kf24} up{\kf24} the{\kf14} to{\kf14}-o{\kf103}-own
+Dialogue: 0,0:01:36.35,0:01:38.45,DEFAULT,,0,0,0,,{\r}{\kf16}Feel{\kf16} the{\kf26} bass{\kf16} of{\kf16} the{\kf16} ins{\kf10}tru{\kf10}men{\kf10}tal{\kf32} po{\kf42}wer
+Dialogue: 0,0:01:38.75,0:01:40.85,DEFAULT,,0,0,0,,{\r}{\kf15}Hooves{\kf15} are{\kf15} mo{\kf15}ving{\kf15} in{\kf15} the{\kf15} mu{\kf10}si{\kf10}cal{\kf10} en{\kf31}coun{\kf44}ter
+Dialogue: 0,0:01:41.15,0:01:43.21,DEFAULT,,0,0,0,,{\r}{\kf16}Shake{\kf16} it{\kf22} up,{\kf16} as{\kf16} we{\kf16} par{\kf11}ty{\kf11} on{\kf11} for{\kf33} ho{\kf38}-ours
+Dialogue: 0,0:01:43.40,0:01:44.34,DEFAULT,,0,0,0,,{\r}{\kf19}So{\kf19} come{\kf25} on,{\kf13} and{\kf13} sing{\kf10} it
+Dialogue: 0,0:01:44.45,0:01:45.28,DEFAULT,,0,0,0,,{\r}{\kf33}LOUD{\kf50}ER!!
+Dialogue: 0,0:01:45.42,0:01:45.65,DEFAULT,,0,0,0,,{\r}{\kf22}yay
+Dialogue: 0,0:02:24.35,0:02:26.45,DEFAULT,,0,0,0,,{\r}{\kf12}Sing{\kf12} it{\kf30} loud,{\kf12} sing{\kf18} it{\kf30} strong,{\kf12} sing{\kf12} a{\kf12} po{\kf12}ny{\kf48} song
+Dialogue: 0,0:02:26.75,0:02:28.85,DEFAULT,,0,0,0,,{\r}{\kf12}Shout{\kf12} it{\kf30} out{\kf12} to{\kf12} the{\kf30} break{\kf30} of{\kf12} da{\kf12}-a{\kf48}-awn
+Dialogue: 0,0:02:29.15,0:02:31.25,DEFAULT,,0,0,0,,{\r}{\kf12}Crank{\kf12} it{\kf23} up,{\kf18} 'cause{\kf18} the{\kf29} mares{\kf29} are{\kf12} rock{\kf12}in'{\kf45} on
+Dialogue: 0,0:02:31.55,0:02:33.50,DEFAULT,,0,0,0,,{\r}{\kf10}Sing{\kf10} it{\kf24} all{\kf24} night{\kf15} lo{\kf15}-o{\kf97}-ong
+Dialogue: 0,0:02:33.95,0:02:36.09,DEFAULT,,0,0,0,,{\r}{\kf12}Lis{\kf12}ten{\kf12} up{\kf18} 'cause{\kf18} the{\kf36} par{\kf30}ty's{\kf12} go{\kf12}in'{\kf52} down
+Dialogue: 0,0:02:36.35,0:02:38.45,DEFAULT,,0,0,0,,{\r}{\kf12}Po{\kf12}nies{\kf36} dance{\kf12} to{\kf12} the{\kf30} kick{\kf24}-ass{\kf12} so{\kf12}-o{\kf48}-ound
+Dialogue: 0,0:02:38.75,0:02:40.85,DEFAULT,,0,0,0,,{\r}{\kf12}Par{\kf12}ty{\kf12} a{\kf12}ni{\kf30}mals{\kf30} want{\kf30} the{\kf12} best{\kf12} a{\kf48}round
+Dialogue: 0,0:02:41.15,0:02:43.18,DEFAULT,,0,0,0,,{\r}{\kf10}Sha{\kf10}kin'{\kf20} up{\kf25} the{\kf15} to{\kf15}-o{\kf108}-own

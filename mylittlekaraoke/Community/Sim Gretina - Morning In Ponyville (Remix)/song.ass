@@ -1,42 +1,49 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Morning In Ponyville
+Artist: Sim Gretina
+Original Timing: mylittlekaraoke.com by barbeque
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.05,0:00:03.23,DEFAULT,,0,0,0,,{\kf36}Mor{\kf18}ning{\kf18} in{\kf18} Po{\kf12}ny{\kf24}ville{\kf30} shim{\kf102}mers
-Dialogue: 0,0:00:03.89,0:00:07.13,DEFAULT,,0,0,0,,{\kf30}Mor{\kf18}ning{\kf18} in{\kf18} Po{\kf18}ny{\kf24}ville{\kf66} shi{\kf18}-i{\kf30}-ines
-Dialogue: 0,0:00:07.43,0:00:10.91,DEFAULT,,0,0,0,,{\kf18}And{\kf24} I{\kf18} know{\kf12} for{\kf18} ab{\kf18}so{\kf30}lute{\kf24} cer{\kf102}tain
-Dialogue: 0,0:00:11.27,0:00:15.35,DEFAULT,,0,0,0,,{\kf18}That{\kf18} eve{\kf18}ry{\kf18}thing{\kf12} is{\kf18} cer{\kf18}tain{\kf48}ly{\kf168} fine
-Dialogue: 0,0:00:30.35,0:00:33.41,DEFAULT,,0,0,0,,{\kf12}There's{\kf12} the{\kf18} ma{\kf12}yor{\kf18} en{\kf18} route{\kf12} to{\kf30} her{\kf18} of{\kf54}fice
-Dialogue: 0,0:00:34.13,0:00:37.19,DEFAULT,,0,0,0,,{\kf18}There's{\kf12} the{\kf18} so{\kf12}fa{\kf18} clerk{\kf18} sel{\kf12}ling{\kf30} some{\kf72} quills
-Dialogue: 0,0:00:38.15,0:00:41.69,DEFAULT,,0,0,0,,{\kf18}My{\kf36} Po{\kf24}ny{\kf24}ville{\kf18} is{\kf12} so{\kf18} gen{\kf18}tle{\kf24} and{\kf36} still
-Dialogue: 0,0:00:41.99,0:00:43.55,DEFAULT,,0,0,0,,{\kf18}Can{\kf18} things{\kf12} e{\kf12}ver{\kf18} go{\kf30} wrong?
-Dialogue: 0,0:00:43.79,0:00:45.65,DEFAULT,,0,0,0,,{\kf12}I{\kf18} don't{\kf12} think{\kf12} that{\kf12} the{\kf24}-ey{\kf48} will
-Dialogue: 0,0:00:53.87,0:00:56.99,DEFAULT,,0,0,0,,{\kf24}Mor{\kf24}ning{\kf12} in{\kf18} Po{\kf18}ny{\kf30}ville{\kf18} shim{\kf102}mers
-Dialogue: 0,0:00:57.65,0:01:00.89,DEFAULT,,0,0,0,,{\kf30}Mor{\kf18}ning{\kf18} in{\kf18} Po{\kf18}ny{\kf30}ville{\kf18} shi{\kf42}~{\kf18}-i{\kf36}-ines
-Dialogue: 0,0:01:01.19,0:01:04.67,DEFAULT,,0,0,0,,{\kf18}And{\kf30} I{\kf18} know{\kf18} for{\kf18} ab{\kf18}so{\kf30}lute{\kf18} cer{\kf102}tain
-Dialogue: 0,0:01:05.03,0:01:07.55,DEFAULT,,0,0,0,,{\kf18}That{\kf18} e{\kf12}very{\kf18}thing{\kf18} is{\kf18} cer{\kf18}tain{\kf78}ly
-Dialogue: 0,0:01:09.11,0:01:10.97,DEFAULT,,0,0,0,,{\kf186}Fine
-Dialogue: 0,0:01:23.99,0:01:27.05,DEFAULT,,0,0,0,,{\kf18}There's{\kf12} the{\kf18} ma{\kf18}yor{\kf18} en{\kf18} route{\kf12} to{\kf36} her{\kf18} of{\kf36}fice
-Dialogue: 0,0:01:31.91,0:01:35.45,DEFAULT,,0,0,0,,{\kf18}My{\kf30} Po{\kf30}ny{\kf24}ville{\kf18} is{\kf18} so{\kf18} gen{\kf18}tle{\kf24} and{\kf36} still
-Dialogue: 0,0:01:35.93,0:01:39.05,DEFAULT,,0,0,0,,{\kf42}Yes!{\kf18} E{\kf12}very{\kf18}thing's{\kf12} gon{\kf12}na{\kf12} be{\kf24} just{\kf48} fine
-Dialogue: 0,0:01:39.89,0:01:43.01,DEFAULT,,0,0,0,,{\kf30}Mor{\kf24}ning{\kf18} in{\kf18} Po{\kf12}ny{\kf24}ville{\kf24} shim{\kf90}mers
-Dialogue: 0,0:01:43.73,0:01:46.91,DEFAULT,,0,0,0,,{\kf42}Mor{\kf18}ning{\kf12} in{\kf18} Po{\kf18}ny{\kf24}ville{\kf60} shi{\kf18}-i{\kf30}-ines
-Dialogue: 0,0:01:47.27,0:01:50.81,DEFAULT,,0,0,0,,{\kf18}And{\kf36} I{\kf12} know{\kf18} for{\kf18} ab{\kf18}so{\kf24}lute{\kf18} cer{\kf108}tain
-Dialogue: 0,0:01:51.11,0:01:53.50,DEFAULT,,0,0,0,,{\kf18}That{\kf18} e{\kf18}very{\kf18}thing{\kf18} is{\kf12} cer{\kf18}tain{\kf66}ly
-Dialogue: 0,0:01:55.24,0:01:57.04,DEFAULT,,0,0,0,,{\kf180}Fine
-Dialogue: 0,0:02:25.96,0:02:29.02,DEFAULT,,0,0,0,,{\kf36}Mor{\kf18}ning{\kf18} in{\kf18} Po{\kf18}ny{\kf24}ville{\kf18} shim{\kf90}mers
-Dialogue: 0,0:02:29.80,0:02:33.04,DEFAULT,,0,0,0,,{\kf36}Mor{\kf18}ning{\kf12} in{\kf18} Po{\kf18}ny{\kf24}ville{\kf60} shi{\kf18}-i{\kf36}-ines
-Dialogue: 0,0:02:33.40,0:02:36.88,DEFAULT,,0,0,0,,{\kf18}And{\kf30} I{\kf18} know{\kf18} for{\kf18} ab{\kf18}so{\kf36}lute{\kf24} cer{\kf108}tain
-Dialogue: 0,0:02:37.30,0:02:41.02,DEFAULT,,0,0,0,,{\kf18}'Cause{\kf42} e{\kf36}very{\kf42}thing{\kf42} is{\kf78} cer{\kf72}tain-
-Dialogue: 0,0:02:41.32,0:02:44.56,DEFAULT,,0,0,0,,{\kf24}Life{\kf24} in{\kf18} E{\kf18}ques{\kf18}tri{\kf24}a{\kf24} shim{\kf108}mers
-Dialogue: 0,0:02:45.16,0:02:48.40,DEFAULT,,0,0,0,,{\kf24}Life{\kf18} in{\kf18} E{\kf18}ques{\kf24}tri{\kf18}a{\kf60} shi{\kf24}-i{\kf30}-ines
-Dialogue: 0,0:02:48.70,0:02:52.00,DEFAULT,,0,0,0,,{\kf18}And{\kf36} I{\kf18} know{\kf18} for{\kf18} ab{\kf18}so{\kf30}lute{\kf18} cer{\kf78}tain
-Dialogue: 0,0:02:52.30,0:02:56.50,DEFAULT,,0,0,0,,{\kf36}It's{\kf372} fine
-Dialogue: 0,0:02:57.64,0:03:00.34,DEFAULT,,0,0,0,,{\kf18}Some{\kf18}thing{\kf12} tells{\kf12} me{\kf12} e{\kf12}very{\kf12}thing{\kf12} is{\kf18} not{\kf6} go{\kf6}ing{\kf6} to{\kf6} be{\kf42} fine
+Dialogue: 0,0:00:00.06,0:00:03.24,DEFAULT,,0,0,0,,{\r}{\kf44}Mor{\kf22}ning{\kf22} in{\kf22} Po{\kf15}ny{\kf30}ville{\kf37} shim{\kf126}mers
+Dialogue: 0,0:00:03.90,0:00:07.14,DEFAULT,,0,0,0,,{\r}{\kf40}Mor{\kf24}ning{\kf24} in{\kf24} Po{\kf24}ny{\kf32}ville{\kf89} shi{\kf24}-i{\kf43}-ines
+Dialogue: 0,0:00:07.44,0:00:10.92,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf32} I{\kf24} know{\kf16} for{\kf24} ab{\kf24}so{\kf40}lute{\kf32} cer{\kf132}tain
+Dialogue: 0,0:00:11.28,0:00:15.36,DEFAULT,,0,0,0,,{\r}{\kf22}That{\kf22} eve{\kf22}ry{\kf22}thing{\kf15} is{\kf22} cer{\kf22}tain{\kf58}ly{\kf203} fine
+Dialogue: 0,0:00:30.36,0:00:33.42,DEFAULT,,0,0,0,,{\r}{\kf18}There's{\kf18} the{\kf27} ma{\kf18}yor{\kf27} en{\kf27} route{\kf18} to{\kf45} her{\kf27} of{\kf81}fice
+Dialogue: 0,0:00:34.14,0:00:37.20,DEFAULT,,0,0,0,,{\r}{\kf26}There's{\kf17} the{\kf26} so{\kf17}fa{\kf26} clerk{\kf26} sel{\kf17}ling{\kf44} some{\kf107} quills
+Dialogue: 0,0:00:38.16,0:00:41.70,DEFAULT,,0,0,0,,{\r}{\kf28}My{\kf56} Po{\kf37}ny{\kf37}ville{\kf28} is{\kf19} so{\kf28} gen{\kf28}tle{\kf37} and{\kf56} still
+Dialogue: 0,0:00:42.00,0:00:43.56,DEFAULT,,0,0,0,,{\r}{\kf26}Can{\kf26} things{\kf17} e{\kf17}ver{\kf26} go{\kf44} wrong?
+Dialogue: 0,0:00:43.80,0:00:45.66,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf24} don't{\kf16} think{\kf16} that{\kf16} the{\kf32}-ey{\kf66} will
+Dialogue: 0,0:00:53.87,0:00:56.99,DEFAULT,,0,0,0,,{\r}{\kf30}Mor{\kf30}ning{\kf15} in{\kf23} Po{\kf23}ny{\kf38}ville{\kf23} shim{\kf130}mers
+Dialogue: 0,0:00:57.65,0:01:00.89,DEFAULT,,0,0,0,,{\r}{\kf40}Mor{\kf24}ning{\kf24} in{\kf24} Po{\kf24}ny{\kf40}ville{\kf24} shi{\kf55}~{\kf24}-i{\kf45}-ines
+Dialogue: 0,0:01:01.19,0:01:04.67,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf39} I{\kf23} know{\kf23} for{\kf23} ab{\kf23}so{\kf39}lute{\kf23} cer{\kf132}tain
+Dialogue: 0,0:01:05.03,0:01:07.55,DEFAULT,,0,0,0,,{\r}{\kf23}That{\kf23} e{\kf15}very{\kf23}thing{\kf23} is{\kf23} cer{\kf23}tain{\kf99}ly
+Dialogue: 0,0:01:09.11,0:01:10.97,DEFAULT,,0,0,0,,{\r}{\kf186}Fine
+Dialogue: 0,0:01:23.99,0:01:27.05,DEFAULT,,0,0,0,,{\r}{\kf27}There's{\kf18} the{\kf27} ma{\kf27}yor{\kf27} en{\kf27} route{\kf18} to{\kf54} her{\kf27} of{\kf54}fice
+Dialogue: 0,0:01:31.91,0:01:35.45,DEFAULT,,0,0,0,,{\r}{\kf27}My{\kf45} Po{\kf45}ny{\kf36}ville{\kf27} is{\kf27} so{\kf27} gen{\kf27}tle{\kf36} and{\kf57} still
+Dialogue: 0,0:01:35.93,0:01:39.05,DEFAULT,,0,0,0,,{\r}{\kf66}Yes!{\kf28} E{\kf19}very{\kf28}thing's{\kf19} gon{\kf19}na{\kf19} be{\kf38} just{\kf76} fine
+Dialogue: 0,0:01:39.89,0:01:43.01,DEFAULT,,0,0,0,,{\r}{\kf39}Mor{\kf31}ning{\kf23} in{\kf23} Po{\kf16}ny{\kf31}ville{\kf31} shim{\kf118}mers
+Dialogue: 0,0:01:43.73,0:01:46.91,DEFAULT,,0,0,0,,{\r}{\kf56}Mor{\kf24}ning{\kf16} in{\kf24} Po{\kf24}ny{\kf32}ville{\kf80} shi{\kf24}-i{\kf38}-ines
+Dialogue: 0,0:01:47.27,0:01:50.81,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf47} I{\kf16} know{\kf24} for{\kf24} ab{\kf24}so{\kf31}lute{\kf24} cer{\kf140}tain
+Dialogue: 0,0:01:51.11,0:01:53.51,DEFAULT,,0,0,0,,{\r}{\kf23}That{\kf23} e{\kf23}very{\kf23}thing{\kf23} is{\kf15} cer{\kf23}tain{\kf87}ly
+Dialogue: 0,0:01:55.25,0:01:57.05,DEFAULT,,0,0,0,,{\r}{\kf180}Fine
+Dialogue: 0,0:02:25.97,0:02:29.03,DEFAULT,,0,0,0,,{\r}{\kf46}Mor{\kf23}ning{\kf23} in{\kf23} Po{\kf23}ny{\kf31}ville{\kf23} shim{\kf114}mers
+Dialogue: 0,0:02:29.81,0:02:33.05,DEFAULT,,0,0,0,,{\r}{\kf49}Mor{\kf24}ning{\kf16} in{\kf24} Po{\kf24}ny{\kf32}ville{\kf81} shi{\kf24}-i{\kf50}-ines
+Dialogue: 0,0:02:33.41,0:02:36.89,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf36} I{\kf22} know{\kf22} for{\kf22} ab{\kf22}so{\kf44}lute{\kf29} cer{\kf129}tain
+Dialogue: 0,0:02:37.31,0:02:41.03,DEFAULT,,0,0,0,,{\r}{\kf20}'Cause{\kf47} e{\kf41}very{\kf47}thing{\kf47} is{\kf88} cer{\kf82}tain-
+Dialogue: 0,0:02:41.33,0:02:44.57,DEFAULT,,0,0,0,,{\r}{\kf30}Life{\kf30} in{\kf23} E{\kf23}ques{\kf23}tri{\kf30}a{\kf30} shim{\kf135}mers
+Dialogue: 0,0:02:45.17,0:02:48.41,DEFAULT,,0,0,0,,{\r}{\kf33}Life{\kf25} in{\kf25} E{\kf25}ques{\kf33}tri{\kf25}a{\kf83} shi{\kf33}-i{\kf42}-ines
+Dialogue: 0,0:02:48.71,0:02:52.01,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf47} I{\kf24} know{\kf24} for{\kf24} ab{\kf24}so{\kf39}lute{\kf24} cer{\kf100}tain
+Dialogue: 0,0:02:52.31,0:02:56.50,DEFAULT,,0,0,0,,{\r}{\kf37}It's{\kf383} fine
+Dialogue: 0,0:02:57.64,0:03:00.34,DEFAULT,,0,0,0,,{\r}{\kf25}Some{\kf25}thing{\kf17} tells{\kf17} me{\kf17} e{\kf17}very{\kf17}thing{\kf17} is{\kf25} not{\kf10} go{\kf10}ing{\kf10} to{\kf10} be{\kf53} fine

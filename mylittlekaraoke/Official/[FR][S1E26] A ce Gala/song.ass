@@ -1,61 +1,68 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: À Ce Gala
+Artist: Mon Petit Poney
+Original Timing: mylittlekaraoke.com by LardonCru
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.16,0:00:08.91,DEFAULT,,0,0,0,,{\kf9}À{\kf9} ce{\kf17} ga{\kf25}la
-Dialogue: 0,0:00:10.25,0:00:11.91,DEFAULT,,0,0,0,,{\kf9}À{\kf9} ce{\kf17} ga{\kf17}la,{\kf9} dans{\kf9} les{\kf9} jar{\kf17}dins,
-Dialogue: 0,0:00:12.33,0:00:14.00,DEFAULT,,0,0,0,,{\kf9}Je{\kf9} vais{\kf9} tous{\kf9} les{\kf17} ren{\kf17}con{\kf25}tre-{\kf17}er
-Dialogue: 0,0:00:14.33,0:00:18.16,DEFAULT,,0,0,0,,{\kf9}Tous{\kf9} ces{\kf17} a{\kf17}mis,{\kf9} que{\kf9} j'vais{\kf9} ai{\kf17}mer{\kf17} à{\kf17} ce{\kf9} ga{\kf125}la !
-Dialogue: 0,0:00:18.58,0:00:20.25,DEFAULT,,0,0,0,,{\kf9}Tous{\kf9} les{\kf17} oi{\kf17}seaux,{\kf9} tous{\kf9} les{\kf17} ron{\kf9}geurs
-Dialogue: 0,0:00:20.66,0:00:22.50,DEFAULT,,0,0,0,,{\kf9}Tous{\kf9} m'aim'{\kf9}ront{\kf17} grands{\kf9} et{\kf9} pe{\kf25}ti{\kf25}-its
-Dialogue: 0,0:00:22.75,0:00:24.50,DEFAULT,,0,0,0,,{\kf9}Pour{\kf9} la{\kf9} vie{\kf17} nous{\kf17} se{\kf17}ront{\kf17} a{\kf17}mis,
-Dialogue: 0,0:00:25.08,0:00:29.33,DEFAULT,,0,0,0,,{\kf42}I{\kf42}ci{\kf42} à{\kf50} ce{\kf25} ga{\kf184}la!
-Dialogue: 0,0:00:33.16,0:00:34.75,DEFAULT,,0,0,0,,{\kf9}À{\kf9} ce{\kf9} ga{\kf25}la,{\kf9} je{\kf9} vais{\kf9} ven{\kf17}dre
-Dialogue: 0,0:00:35.25,0:00:37.08,DEFAULT,,0,0,0,,{\kf9}Toutes{\kf9} mes{\kf9} po{\kf9}mmes{\kf9} dé{\kf9}li{\kf25}cieu{\kf34}ses
-Dialogue: 0,0:00:37.33,0:00:39.00,DEFAULT,,0,0,0,,{\kf17}Et{\kf9} les{\kf17} po{\kf17}neys,{\kf9} vont{\kf17} tous{\kf17} cra{\kf17}quer
-Dialogue: 0,0:00:39.41,0:00:41.41,DEFAULT,,0,0,0,,{\kf17}Car{\kf9} elles{\kf9} sont{\kf9} douces{\kf17} et{\kf17} ju{\kf25}teu{\kf42}ses
-Dialogue: 0,0:00:41.50,0:00:43.08,DEFAULT,,0,0,0,,{\kf9}Et{\kf9} quand{\kf17} j'au{\kf17}rais{\kf17} tout{\kf17} bien{\kf17} ven{\kf9}du,
-Dialogue: 0,0:00:43.83,0:00:48.08,DEFAULT,,0,0,0,,{\kf17}Toute{\kf25} la{\kf17} fa{\kf34}mille{\kf25} vi{\kf25}vra{\kf25} heu{\kf192}reuse !
-Dialogue: 0,0:00:56.00,0:00:57.83,DEFAULT,,0,0,0,,{\kf17}À{\kf17} ce{\kf17} ga{\kf17}la,{\kf9} toute{\kf9} la{\kf17} nob{\kf17}lesse,
-Dialogue: 0,0:00:58.16,0:01:00.00,DEFAULT,,0,0,0,,{\kf9}Va{\kf9} en{\kf9}fin{\kf17} me{\kf17} ren{\kf25}con{\kf42}trer
-Dialogue: 0,0:01:00.16,0:01:04.08,DEFAULT,,0,0,0,,{\kf17}Ils{\kf9} ve{\kf17}rront{\kf17} qu'mon{\kf17} char{\kf17}m'est{\kf17} à{\kf17} cro{\kf17}quer{\kf17} à{\kf17} ce{\kf25} ga{\kf117}la !
-Dialogue: 0,0:01:04.41,0:01:06.16,DEFAULT,,0,0,0,,{\kf17}Mon{\kf17} prince{\kf17} char{\kf17} mant,{\kf9} je{\kf9} le{\kf25} trouv'{\kf9}rai,
-Dialogue: 0,0:01:06.58,0:01:08.41,DEFAULT,,0,0,0,,{\kf17}Gran{\kf17}de{\kf17} s'ra{\kf17} sa{\kf17} ga{\kf17}lant'{\kf50}rie
-Dialogue: 0,0:01:08.75,0:01:10.83,DEFAULT,,0,0,0,,{\kf9}Il{\kf9} me{\kf17} trait'{\kf17}ra{\kf17} comme{\kf17} une{\kf17} la{\kf50}dy,
-Dialogue: 0,0:01:11.00,0:01:16.08,DEFAULT,,0,0,0,,{\kf50}Ce{\kf34} soir{\kf42} à{\kf25} ce{\kf25} ga{\kf267}la !
-Dialogue: 0,0:01:28.91,0:01:30.75,DEFAULT,,0,0,0,,{\kf17}J'ai{\kf9} pa{\kf17}tien{\kf17}té,{\kf9} j'en{\kf17} ai{\kf17} rê{\kf34}vé
-Dialogue: 0,0:01:31.08,0:01:32.91,DEFAULT,,0,0,0,,{\kf17}De{\kf17} vo{\kf17}ler{\kf17} à{\kf17} leurs{\kf17} cô{\kf25}tés,
-Dialogue: 0,0:01:33.16,0:01:35.08,DEFAULT,,0,0,0,,{\kf17}Les{\kf17} Won{\kf17}der{\kf17}bolts,{\kf17} ils{\kf17} ca{\kf17}bri{\kf17}olent,
-Dialogue: 0,0:01:35.41,0:01:37.16,DEFAULT,,0,0,0,,{\kf17}Osent{\kf17} les{\kf17} pi{\kf17}rouettes{\kf17} les{\kf17} plus{\kf17} folles
-Dialogue: 0,0:01:37.41,0:01:39.08,DEFAULT,,0,0,0,,{\kf9}De{\kf9}vant{\kf17} les{\kf17} yeux{\kf17} é{\kf17}to{\kf17}nnés
-Dialogue: 0,0:01:39.50,0:01:41.16,DEFAULT,,0,0,0,,{\kf9}De{\kf9} foules{\kf9} par{\kf17} mi{\kf17}lliers{\kf17} a{\kf25}ssem{\kf17}blées
-Dialogue: 0,0:01:41.58,0:01:47.75,DEFAULT,,0,0,0,,{\kf17}Les{\kf17} Won{\kf17}der{\kf17}bolts{\kf17} me{\kf34} ve{\kf17}rront{\kf25} i{\kf34}ci,{\kf25} à{\kf25} ce{\kf25} ga{\kf209}la !
-Dialogue: 0,0:01:55.66,0:01:57.33,DEFAULT,,0,0,0,,{\kf9}Et{\kf17} me{\kf17} voi{\kf17}ci{\kf17} au{\kf17} grand{\kf17} ga{\kf17}la,
-Dialogue: 0,0:01:57.66,0:01:59.25,DEFAULT,,0,0,0,,{\kf9}À{\kf9} mon{\kf17} sens{\kf9} la{\kf9} plus{\kf17} grande{\kf25} des{\kf25} fêtes
-Dialogue: 0,0:01:59.75,0:02:03.50,DEFAULT,,0,0,0,,{\kf9}Mais{\kf9} il{\kf17} leur{\kf17} man{\kf17}quait{\kf17} une{\kf17} Pin{\kf17}kie{\kf17} et{\kf17} elle{\kf17} part{\kf17} à{\kf17} leur{\kf17} con{\kf34}quête !
-Dialogue: 0,0:02:04.00,0:02:07.66,DEFAULT,,0,0,0,,{\kf9}Car{\kf9} pour{\kf17} or{\kf17}ga{\kf17}ni{\kf17}ser{\kf17} un{\kf17} bal,{\kf17} je{\kf17} suis{\kf17} la{\kf17} per{\kf17}sonne{\kf17} par{\kf25}faite,
-Dialogue: 0,0:02:08.16,0:02:09.83,DEFAULT,,0,0,0,,{\kf9}On{\kf9} va{\kf17} jou{\kf17}er,{\kf17} on{\kf9} va{\kf17} dan{\kf17}ser
-Dialogue: 0,0:02:10.16,0:02:14.58,DEFAULT,,0,0,0,,{\kf17}Tous{\kf34} en{\kf50}semble{\kf50} à{\kf50} ce{\kf25} ga{\kf175}la !
-Dialogue: 0,0:02:20.58,0:02:22.33,DEFAULT,,0,0,0,,{\kf9}À{\kf9} ce{\kf9} ga{\kf25}la,{\kf9} près{\kf9} d'la{\kf17} prin{\kf9}cesse,
-Dialogue: 0,0:02:22.83,0:02:24.58,DEFAULT,,0,0,0,,{\kf17}En{\kf17}fin{\kf17} j's'rais{\kf9} à{\kf9} ses{\kf17} cô{\kf50}tés
-Dialogue: 0,0:02:24.83,0:02:26.75,DEFAULT,,0,0,0,,{\kf9}Et{\kf9} nous{\kf9} par{\kf17}le{\kf17}rons{\kf17} de{\kf17} ma{\kf34}gie,
-Dialogue: 0,0:02:26.91,0:02:28.58,DEFAULT,,0,0,0,,{\kf17}Tout{\kf17} au{\kf17} long{\kf17} de{\kf9} la{\kf17} soi{\kf34}rée
-Dialogue: 0,0:02:29.08,0:02:30.75,DEFAULT,,0,0,0,,{\kf9}J'par{\kf9}tage{\kf17}rais{\kf17} toutes{\kf17} mes{\kf9} ex{\kf17}pé{\kf25}riences,
-Dialogue: 0,0:02:31.08,0:02:35.50,DEFAULT,,0,0,0,,{\kf9}Quel{\kf9} bo{\kf34}nheur{\kf25} de{\kf34} la{\kf17} re{\kf17}trou{\kf209}ver !
-Dialogue: 0,0:02:50.16,0:02:52.16,DEFAULT,,0,0,0,,{\kf9}Pour{\kf9} ren{\kf9}con{\kf17}trer{\kf9} de{\kf17} nou{\kf25}veaux{\kf17} a{\kf17}mis,{\kf17} oui !
-Dialogue: 0,0:02:52.25,0:02:54.16,DEFAULT,,0,0,0,,{\kf17}À{\kf9} ce{\kf17} ga{\kf17}la,{\kf17} je{\kf17} ven{\kf17}drais{\kf9} mes{\kf9} po{\kf17}mmes !
-Dialogue: 0,0:02:54.41,0:02:56.08,DEFAULT,,0,0,0,,{\kf17}À{\kf9} ce{\kf17} ga{\kf17}la,{\kf9} je{\kf9} trouv'{\kf17}rai{\kf17} mon{\kf17} prince !
-Dialogue: 0,0:02:56.33,0:02:58.25,DEFAULT,,0,0,0,,{\kf17}À{\kf17} ce{\kf17} ga{\kf9}la,{\kf9} ils{\kf9} ve{\kf17}rront{\kf9} qui{\kf9} je{\kf9} suis !
-Dialogue: 0,0:02:58.33,0:02:59.66,DEFAULT,,0,0,0,,{\kf9}Ren{\kf17}con{\kf17}trer !{\kf9} Mar{\kf17}chan{\kf17}der !{\kf9} Trou{\kf9}ver !
-Dialogue: 0,0:02:59.83,0:03:01.33,DEFAULT,,0,0,0,,{\kf17}Prou{\kf17}ver !{\kf17} Cri{\kf17}er !{\kf17} Par{\kf17}ler !
-Dialogue: 0,0:03:01.91,0:03:03.75,DEFAULT,,0,0,0,,{\kf17}À{\kf17} ce{\kf17} grand{\kf17} ga{\kf84}la,
-Dialogue: 0,0:03:04.00,0:03:05.91,DEFAULT,,0,0,0,,{\kf17}À{\kf17} ce{\kf17} grand{\kf25} ga{\kf92}la !
-Dialogue: 0,0:03:06.33,0:03:12.83,DEFAULT,,0,0,0,,{\kf9}Ce{\kf17} se{\kf17} ra{\kf25} la{\kf25} plus{\kf42} belle{\kf25} soi{\kf367}rée !
-Dialogue: 0,0:03:15.00,0:03:15.58,DEFAULT,,0,0,0,,{\kf9}À{\kf9} ce{\kf9} ga{\kf17}la !
+Dialogue: 0,0:00:08.17,0:00:08.92,DEFAULT,,0,0,0,,{\r}{\kf11}À{\kf11} ce{\kf21} ga{\kf32}la
+Dialogue: 0,0:00:10.25,0:00:11.92,DEFAULT,,0,0,0,,{\r}{\kf15}À{\kf15} ce{\kf30} ga{\kf30}la,{\kf15} dans{\kf15} les{\kf15} jar{\kf32}dins,
+Dialogue: 0,0:00:12.33,0:00:14.00,DEFAULT,,0,0,0,,{\r}{\kf13}Je{\kf13} vais{\kf13} tous{\kf13} les{\kf26} ren{\kf26}con{\kf39}tre-{\kf24}er
+Dialogue: 0,0:00:14.33,0:00:18.17,DEFAULT,,0,0,0,,{\r}{\kf12}Tous{\kf12} ces{\kf25} a{\kf25}mis,{\kf12} que{\kf12} j'vais{\kf12} ai{\kf25}mer{\kf25} à{\kf25} ce{\kf12} ga{\kf186}la !
+Dialogue: 0,0:00:18.58,0:00:20.25,DEFAULT,,0,0,0,,{\r}{\kf15}Tous{\kf15} les{\kf30} oi{\kf30}seaux,{\kf15} tous{\kf15} les{\kf30} ron{\kf17}geurs
+Dialogue: 0,0:00:20.67,0:00:22.50,DEFAULT,,0,0,0,,{\r}{\kf14}Tous{\kf14} m'aim'{\kf14}ront{\kf28} grands{\kf14} et{\kf14} pe{\kf42}ti{\kf43}-its
+Dialogue: 0,0:00:22.75,0:00:24.50,DEFAULT,,0,0,0,,{\r}{\kf13}Pour{\kf13} la{\kf13} vie{\kf27} nous{\kf27} se{\kf27}ront{\kf27} a{\kf28}mis,
+Dialogue: 0,0:00:25.08,0:00:29.33,DEFAULT,,0,0,0,,{\r}{\kf46}I{\kf46}ci{\kf46} à{\kf55} ce{\kf28} ga{\kf204}la!
+Dialogue: 0,0:00:33.17,0:00:34.75,DEFAULT,,0,0,0,,{\r}{\kf14}À{\kf14} ce{\kf14} ga{\kf43}la,{\kf14} je{\kf14} vais{\kf14} ven{\kf31}dre
+Dialogue: 0,0:00:35.25,0:00:37.08,DEFAULT,,0,0,0,,{\r}{\kf14}Toutes{\kf14} mes{\kf14} po{\kf14}mmes{\kf14} dé{\kf14}li{\kf42}cieu{\kf57}ses
+Dialogue: 0,0:00:37.33,0:00:39.00,DEFAULT,,0,0,0,,{\r}{\kf24}Et{\kf12} les{\kf24} po{\kf24}neys,{\kf12} vont{\kf24} tous{\kf24} cra{\kf23}quer
+Dialogue: 0,0:00:39.42,0:00:41.42,DEFAULT,,0,0,0,,{\r}{\kf24}Car{\kf12} elles{\kf12} sont{\kf12} douces{\kf24} et{\kf24} ju{\kf35}teu{\kf57}ses
+Dialogue: 0,0:00:41.50,0:00:43.08,DEFAULT,,0,0,0,,{\r}{\kf12}Et{\kf12} quand{\kf24} j'au{\kf24}rais{\kf24} tout{\kf24} bien{\kf24} ven{\kf14}du,
+Dialogue: 0,0:00:43.83,0:00:48.08,DEFAULT,,0,0,0,,{\r}{\kf20}Toute{\kf30} la{\kf20} fa{\kf40}mille{\kf30} vi{\kf30}vra{\kf30} heu{\kf225}reuse !
+Dialogue: 0,0:00:56.00,0:00:57.83,DEFAULT,,0,0,0,,{\r}{\kf26}À{\kf26} ce{\kf26} ga{\kf26}la,{\kf13} toute{\kf13} la{\kf26} nob{\kf27}lesse,
+Dialogue: 0,0:00:58.17,0:01:00.00,DEFAULT,,0,0,0,,{\r}{\kf12}Va{\kf12} en{\kf12}fin{\kf24} me{\kf24} ren{\kf37}con{\kf62}trer
+Dialogue: 0,0:01:00.17,0:01:04.08,DEFAULT,,0,0,0,,{\r}{\kf21}Ils{\kf10} ve{\kf21}rront{\kf21} qu'mon{\kf21} char{\kf21}m'est{\kf21} à{\kf21} cro{\kf21}quer{\kf21} à{\kf21} ce{\kf31} ga{\kf141}la !
+Dialogue: 0,0:01:04.42,0:01:06.17,DEFAULT,,0,0,0,,{\r}{\kf25}Mon{\kf25} prince{\kf25} char{\kf25} mant,{\kf12} je{\kf12} le{\kf38} trouv'{\kf13}rai,
+Dialogue: 0,0:01:06.58,0:01:08.42,DEFAULT,,0,0,0,,{\r}{\kf20}Gran{\kf20}de{\kf20} s'ra{\kf20} sa{\kf20} ga{\kf20}lant'{\kf63}rie
+Dialogue: 0,0:01:08.75,0:01:10.83,DEFAULT,,0,0,0,,{\r}{\kf12}Il{\kf12} me{\kf23} trait'{\kf23}ra{\kf23} comme{\kf23} une{\kf23} la{\kf69}dy,
+Dialogue: 0,0:01:11.00,0:01:16.08,DEFAULT,,0,0,0,,{\r}{\kf58}Ce{\kf38} soir{\kf48} à{\kf29} ce{\kf29} ga{\kf306}la !
+Dialogue: 0,0:01:28.92,0:01:30.75,DEFAULT,,0,0,0,,{\r}{\kf23}J'ai{\kf11} pa{\kf23}tien{\kf23}té,{\kf11} j'en{\kf23} ai{\kf23} rê{\kf46}vé
+Dialogue: 0,0:01:31.08,0:01:32.92,DEFAULT,,0,0,0,,{\r}{\kf24}De{\kf24} vo{\kf24}ler{\kf24} à{\kf24} leurs{\kf24} cô{\kf39}tés,
+Dialogue: 0,0:01:33.17,0:01:35.08,DEFAULT,,0,0,0,,{\r}{\kf24}Les{\kf24} Won{\kf24}der{\kf24}bolts,{\kf24} ils{\kf24} ca{\kf24}bri{\kf24}olent,
+Dialogue: 0,0:01:35.42,0:01:37.17,DEFAULT,,0,0,0,,{\r}{\kf25}Osent{\kf25} les{\kf25} pi{\kf25}rouettes{\kf25} les{\kf25} plus{\kf25} folles
+Dialogue: 0,0:01:37.42,0:01:39.08,DEFAULT,,0,0,0,,{\r}{\kf14}De{\kf14}vant{\kf28} les{\kf28} yeux{\kf28} é{\kf28}to{\kf27}nnés
+Dialogue: 0,0:01:39.50,0:01:41.17,DEFAULT,,0,0,0,,{\r}{\kf12}De{\kf12} foules{\kf12} par{\kf24} mi{\kf24}lliers{\kf24} a{\kf36}ssem{\kf23}blées
+Dialogue: 0,0:01:41.58,0:01:47.75,DEFAULT,,0,0,0,,{\r}{\kf22}Les{\kf22} Won{\kf22}der{\kf22}bolts{\kf22} me{\kf43} ve{\kf22}rront{\kf32} i{\kf43}ci,{\kf32} à{\kf32} ce{\kf32} ga{\kf271}la !
+Dialogue: 0,0:01:55.67,0:01:57.33,DEFAULT,,0,0,0,,{\r}{\kf11}Et{\kf22} me{\kf22} voi{\kf22}ci{\kf22} au{\kf22} grand{\kf22} ga{\kf24}la,
+Dialogue: 0,0:01:57.67,0:01:59.25,DEFAULT,,0,0,0,,{\r}{\kf11}À{\kf11} mon{\kf23} sens{\kf11} la{\kf11} plus{\kf23} grande{\kf34} des{\kf34} fêtes
+Dialogue: 0,0:01:59.75,0:02:03.50,DEFAULT,,0,0,0,,{\r}{\kf12}Mais{\kf12} il{\kf25} leur{\kf25} man{\kf25}quait{\kf25} une{\kf25} Pin{\kf25}kie{\kf25} et{\kf25} elle{\kf25} part{\kf25} à{\kf25} leur{\kf25} con{\kf51}quête !
+Dialogue: 0,0:02:04.00,0:02:07.67,DEFAULT,,0,0,0,,{\r}{\kf13}Car{\kf13} pour{\kf25} or{\kf25}ga{\kf25}ni{\kf25}ser{\kf25} un{\kf25} bal,{\kf25} je{\kf25} suis{\kf25} la{\kf25} per{\kf25}sonne{\kf25} par{\kf41}faite,
+Dialogue: 0,0:02:08.17,0:02:09.83,DEFAULT,,0,0,0,,{\r}{\kf13}On{\kf13} va{\kf26} jou{\kf26}er,{\kf26} on{\kf13} va{\kf26} dan{\kf24}ser
+Dialogue: 0,0:02:10.17,0:02:14.58,DEFAULT,,0,0,0,,{\r}{\kf18}Tous{\kf37} en{\kf55}semble{\kf55} à{\kf55} ce{\kf28} ga{\kf194}la !
+Dialogue: 0,0:02:20.58,0:02:22.33,DEFAULT,,0,0,0,,{\r}{\kf16}À{\kf16} ce{\kf16} ga{\kf48}la,{\kf16} près{\kf16} d'la{\kf32} prin{\kf15}cesse,
+Dialogue: 0,0:02:22.83,0:02:24.58,DEFAULT,,0,0,0,,{\r}{\kf22}En{\kf22}fin{\kf22} j's'rais{\kf11} à{\kf11} ses{\kf22} cô{\kf65}tés
+Dialogue: 0,0:02:24.83,0:02:26.75,DEFAULT,,0,0,0,,{\r}{\kf13}Et{\kf13} nous{\kf13} par{\kf26}le{\kf26}rons{\kf26} de{\kf26} ma{\kf49}gie,
+Dialogue: 0,0:02:26.92,0:02:28.58,DEFAULT,,0,0,0,,{\r}{\kf22}Tout{\kf22} au{\kf22} long{\kf22} de{\kf11} la{\kf22} soi{\kf46}rée
+Dialogue: 0,0:02:29.08,0:02:30.75,DEFAULT,,0,0,0,,{\r}{\kf12}J'par{\kf12}tage{\kf24}rais{\kf24} toutes{\kf24} mes{\kf12} ex{\kf24}pé{\kf35}riences,
+Dialogue: 0,0:02:31.08,0:02:35.50,DEFAULT,,0,0,0,,{\r}{\kf11}Quel{\kf11} bo{\kf42}nheur{\kf32} de{\kf42} la{\kf21} re{\kf21}trou{\kf262}ver !
+Dialogue: 0,0:02:50.17,0:02:52.17,DEFAULT,,0,0,0,,{\r}{\kf12}Pour{\kf12} ren{\kf12}con{\kf24}trer{\kf12} de{\kf24} nou{\kf35}veaux{\kf24} a{\kf24}mis,{\kf21} oui !
+Dialogue: 0,0:02:52.25,0:02:54.17,DEFAULT,,0,0,0,,{\r}{\kf23}À{\kf11} ce{\kf23} ga{\kf23}la,{\kf23} je{\kf23} ven{\kf23}drais{\kf11} mes{\kf11} po{\kf21}mmes !
+Dialogue: 0,0:02:54.42,0:02:56.08,DEFAULT,,0,0,0,,{\r}{\kf22}À{\kf11} ce{\kf22} ga{\kf22}la,{\kf11} je{\kf11} trouv'{\kf22}rai{\kf22} mon{\kf24} prince !
+Dialogue: 0,0:02:56.33,0:02:58.25,DEFAULT,,0,0,0,,{\r}{\kf27}À{\kf27} ce{\kf27} ga{\kf14}la,{\kf14} ils{\kf14} ve{\kf27}rront{\kf14} qui{\kf14} je{\kf14} suis !
+Dialogue: 0,0:02:58.33,0:02:59.67,DEFAULT,,0,0,0,,{\r}{\kf11}Ren{\kf22}con{\kf22}trer !{\kf11} Mar{\kf22}chan{\kf22}der !{\kf11} Trou{\kf12}ver !
+Dialogue: 0,0:02:59.83,0:03:01.33,DEFAULT,,0,0,0,,{\r}{\kf25}Prou{\kf25}ver !{\kf25} Cri{\kf25}er !{\kf25} Par{\kf25}ler !
+Dialogue: 0,0:03:01.92,0:03:03.75,DEFAULT,,0,0,0,,{\r}{\kf20}À{\kf20} ce{\kf20} grand{\kf20} ga{\kf103}la,
+Dialogue: 0,0:03:04.00,0:03:05.92,DEFAULT,,0,0,0,,{\r}{\kf19}À{\kf19} ce{\kf19} grand{\kf29} ga{\kf106}la !
+Dialogue: 0,0:03:06.33,0:03:12.83,DEFAULT,,0,0,0,,{\r}{\kf10}Ce{\kf21} se{\kf21} ra{\kf31} la{\kf31} plus{\kf52} belle{\kf31} soi{\kf453}rée !
+Dialogue: 0,0:03:15.00,0:03:15.58,DEFAULT,,0,0,0,,{\r}{\kf12}À{\kf12} ce{\kf12} ga{\kf22}la !

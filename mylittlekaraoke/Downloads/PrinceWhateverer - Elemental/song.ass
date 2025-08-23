@@ -1,75 +1,82 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Elemental (feat. SableSymphony)
+Artist: PrinceWhateverer
+Original Timing: mylittlekaraoke.com by lily
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.33,0:00:02.78,DEFAULT,,0,0,0,,{\kf62}E{\kf46}el{\kf58}men{\kf62}tal,{\kf62} e{\kf46}le{\kf58}men{\kf70}tal
-Dialogue: 0,0:00:05.38,0:00:07.83,DEFAULT,,0,0,0,,{\kf62}E{\kf46}le{\kf58}men{\kf62}tal,{\kf62} e{\kf46}le{\kf58}men{\kf70}tal
-Dialogue: 0,0:00:10.44,0:00:12.88,DEFAULT,,0,0,0,,{\kf62}E{\kf46}le{\kf58}men{\kf62}tal,{\kf62} e{\kf46}le{\kf58}men{\kf70}tal
-Dialogue: 0,0:00:15.49,0:00:17.94,DEFAULT,,0,0,0,,{\kf62}E{\kf46}le{\kf58}men{\kf62}tal,{\kf62} e{\kf46}le{\kf58}men{\kf70}tal
-Dialogue: 0,0:00:20.54,0:00:22.99,DEFAULT,,0,0,0,,{\kf62}E{\kf46}le{\kf58}men{\kf62}tal,{\kf62} e{\kf46}le{\kf58}men{\kf70}tal
-Dialogue: 0,0:00:25.60,0:00:28.04,DEFAULT,,0,0,0,,{\kf62}E{\kf46}le{\kf58}men{\kf62}tal,{\kf62} e{\kf46}le{\kf58}men{\kf70}tal
-Dialogue: 0,0:00:41.42,0:00:43.40,DEFAULT,,0,0,0,,{\kf42}Far{\kf46}~{\kf46} a{\kf70}way{\kf58} from{\kf54} where{\kf46} you{\kf62} are
-Dialogue: 0,0:00:43.60,0:00:45.92,DEFAULT,,0,0,0,,{\kf46}The{\kf46}~{\kf62} e{\kf46}le{\kf42}me{\kf54}-ents{\kf58} called{\kf58} to{\kf46} a{\kf62} spark
-Dialogue: 0,0:00:46.12,0:00:48.29,DEFAULT,,0,0,0,,{\kf62}Cho{\kf58}sen{\kf42} for{\kf58} some{\kf58}thing{\kf58} grea{\kf78}ter
-Dialogue: 0,0:00:48.65,0:00:51.02,DEFAULT,,0,0,0,,{\kf58}Six{\kf58} friends{\kf58} who{\kf58} would{\kf58} cast{\kf58} out{\kf46} the{\kf62} dark
-Dialogue: 0,0:00:51.25,0:00:53.50,DEFAULT,,0,0,0,,{\kf58}O{\kf54}ver{\kf46} the{\kf70} years{\kf58} our{\kf42} po{\kf46}-o{\kf50}wer{\kf54} grew
-Dialogue: 0,0:00:53.70,0:00:56.03,DEFAULT,,0,0,0,,{\kf54}The{\kf54} strength{\kf46} in{\kf46} me{\kf58}~{\kf50} is{\kf58} in{\kf42} you{\kf50}~{\kf58} too
-Dialogue: 0,0:00:56.23,0:00:58.40,DEFAULT,,0,0,0,,{\kf46}The{\kf46}~{\kf42} ti{\kf46}-ime{\kf50} will{\kf42} co{\kf46}-ome{\kf46} to{\kf58} use{\kf74} it
-Dialogue: 0,0:00:58.75,0:01:00.77,DEFAULT,,0,0,0,,{\kf58}Just{\kf58} hope{\kf58} it{\kf46} does{\kf58}n't{\kf58} come{\kf62} too-
-Dialogue: 0,0:01:01.00,0:01:05.86,DEFAULT,,0,0,0,,{\kf82}Soon{\kf86} you'll{\kf46} ha{\kf74}-ave{\kf42} to{\kf70}~{\kf58} make{\kf46} a{\kf78} choice,{\kf46} to{\kf50} fi{\kf46}-ight{\kf54} or{\kf58} fly{\kf46} a{\kf46}way
-Dialogue: 0,0:01:06.06,0:01:10.95,DEFAULT,,0,0,0,,{\kf82}Just{\kf86} trust{\kf70} in{\kf50}~{\kf86} your{\kf58}self{\kf46} and{\kf58} e{\kf58}very{\kf46}thi{\kf46}-ing{\kf62} will{\kf101} be
-Dialogue: 0,0:01:11.70,0:01:13.71,DEFAULT,,0,0,0,,{\kf58}Are{\kf58} you{\kf54} scared{\kf58} of{\kf58} this{\kf74} fight
-Dialogue: 0,0:01:13.91,0:01:16.12,DEFAULT,,0,0,0,,{\kf58}How{\kf62} do{\kf50} you{\kf46} kno{\kf42}-ow{\kf58} if{\kf62} you're{\kf66} right
-Dialogue: 0,0:01:16.44,0:01:18.45,DEFAULT,,0,0,0,,{\kf58}I{\kf58} trust{\kf58} what's{\kf46} in{\kf54} your{\kf50} hea{\kf74}-art
-Dialogue: 0,0:01:18.65,0:01:21.17,DEFAULT,,0,0,0,,{\kf62}Don't{\kf58} let{\kf54} 'em{\kf58} tear{\kf50} you{\kf58} a{\kf113}part
-Dialogue: 0,0:01:21.49,0:01:23.74,DEFAULT,,0,0,0,,{\kf58}When{\kf58} you{\kf58} think{\kf58} that{\kf54} you're{\kf46} co{\kf50}-or{\kf66}nered
-Dialogue: 0,0:01:24.02,0:01:26.38,DEFAULT,,0,0,0,,{\kf58}We'll{\kf58} be{\kf54} there{\kf62} push{\kf58}ing{\kf62} for{\kf82}ward
-Dialogue: 0,0:01:26.54,0:01:28.63,DEFAULT,,0,0,0,,{\kf54}This{\kf54} is{\kf46} worth{\kf50} fi{\kf46}-ight{\kf50}ing{\kf46} for{\kf70}~{\kf46}~
-Dialogue: 0,0:01:29.07,0:01:31.08,DEFAULT,,0,0,0,,{\kf58}You're{\kf58} part{\kf46} of{\kf58} some{\kf58}thing{\kf66} more,{\kf46} we're-
-Dialogue: 0,0:01:31.28,0:01:33.61,DEFAULT,,0,0,0,,{\kf58}E{\kf46}le{\kf58}men{\kf66}tal,{\kf58} e{\kf46}le{\kf58}men{\kf62}tal
-Dialogue: 0,0:01:33.81,0:01:36.13,DEFAULT,,0,0,0,,{\kf58}Some{\kf58}times{\kf58} you're{\kf58} too{\kf50} te{\kf46}-em{\kf46}per{\kf50}men{\kf66}tal
-Dialogue: 0,0:01:36.33,0:01:38.66,DEFAULT,,0,0,0,,{\kf58}E{\kf46}le{\kf58}men{\kf66}tal,{\kf62} e{\kf46}le{\kf58}men{\kf62}tal
-Dialogue: 0,0:01:38.86,0:01:41.19,DEFAULT,,0,0,0,,{\kf54}God,{\kf54} your{\kf58} e{\kf54}go's{\kf58} mo{\kf50}nu{\kf58}men{\kf62}tal
-Dialogue: 0,0:01:41.38,0:01:43.71,DEFAULT,,0,0,0,,{\kf58}E{\kf46}le{\kf58}men{\kf66}tal,{\kf58} e{\kf46}le{\kf58}men{\kf62}tal
-Dialogue: 0,0:01:43.91,0:01:46.24,DEFAULT,,0,0,0,,{\kf58}Must{\kf58} you{\kf58} be{\kf54} so{\kf58} sen{\kf46}ti{\kf58}men{\kf62}tal
-Dialogue: 0,0:01:46.44,0:01:48.77,DEFAULT,,0,0,0,,{\kf58}E{\kf46}le{\kf58}men{\kf66}tal,{\kf62} e{\kf46}le{\kf58}men{\kf62}tal
-Dialogue: 0,0:01:48.96,0:01:51.37,DEFAULT,,0,0,0,,{\kf58}Us{\kf58} six{\kf46} ca{\kf46}-an't{\kf54} be{\kf54} ac{\kf46}ci{\kf58}den{\kf70}tal
-Dialogue: 0,0:01:54.96,0:01:57.13,DEFAULT,,0,0,0,,{\kf58}So{\kf46} why{\kf58}~{\kf54} are{\kf46} you{\kf62}~{\kf89} here
-Dialogue: 0,0:01:57.81,0:01:59.54,DEFAULT,,0,0,0,,{\kf46}What{\kf62} is{\kf62} it{\kf46} you{\kf58}~{\kf82} fear?
-Dialogue: 0,0:02:00.33,0:02:04.52,DEFAULT,,0,0,0,,{\kf46}Look{\kf58} in{\kf46}si{\kf46}-ide{\kf54} your{\kf62}self,{\kf46} I{\kf54} think{\kf58} you'll{\kf58} see{\kf46} the{\kf62} ans{\kf58}wer's{\kf82} clear
-Dialogue: 0,0:02:05.07,0:02:07.08,DEFAULT,,0,0,0,,{\kf54}There's{\kf58} some{\kf46}thing{\kf54} in{\kf46} the{\kf58}~{\kf74} dark
-Dialogue: 0,0:02:07.44,0:02:09.77,DEFAULT,,0,0,0,,{\kf46}You've{\kf54} been{\kf46} ho{\kf46}-old{\kf46}ing{\kf58} in{\kf46} yo{\kf54}-our{\kf93} heart
-Dialogue: 0,0:02:10.44,0:02:14.19,DEFAULT,,0,0,0,,{\kf46}How{\kf46}~{\kf46} you{\kf46} pla{\kf58}-an{\kf46} to{\kf46} let{\kf58} it{\kf50} out{\kf46}~,{\kf58} now{\kf58} that's{\kf46} the{\kf54} art{\kf46}ful{\kf62} part
-Dialogue: 0,0:02:15.17,0:02:18.77,DEFAULT,,0,0,0,,{\kf58}For{\kf46} bet{\kf54}ter{\kf58} or{\kf46} for{\kf58}~{\kf236} worse
-Dialogue: 0,0:02:20.54,0:02:23.38,DEFAULT,,0,0,0,,{\kf46}We{\kf58} all{\kf58} share{\kf62} this{\kf204} curse
-Dialogue: 0,0:02:25.28,0:02:28.87,DEFAULT,,0,0,0,,{\kf58}For{\kf46} bet{\kf54}ter{\kf58} or{\kf46} for{\kf58}~{\kf236} worse
-Dialogue: 0,0:02:30.65,0:02:33.13,DEFAULT,,0,0,0,,{\kf46}I{\kf58} know{\kf46} how{\kf46}~{\kf58} it{\kf172} hurts
-Dialogue: 0,0:02:35.07,0:02:37.08,DEFAULT,,0,0,0,,{\kf58}Are{\kf58} you{\kf58} scared{\kf54} of{\kf58} this{\kf78} fight
-Dialogue: 0,0:02:37.28,0:02:39.61,DEFAULT,,0,0,0,,{\kf58}How{\kf58} do{\kf54} you{\kf58} know{\kf58} if{\kf58} you're{\kf78} right
-Dialogue: 0,0:02:39.81,0:02:41.82,DEFAULT,,0,0,0,,{\kf58}I{\kf54} trust{\kf58} what's{\kf46} in{\kf54} your{\kf46} hea{\kf74}-art
-Dialogue: 0,0:02:42.02,0:02:44.54,DEFAULT,,0,0,0,,{\kf58}Don't{\kf58} let{\kf58} 'em{\kf58} tear{\kf46} you{\kf58} a{\kf113}part
-Dialogue: 0,0:02:44.86,0:02:47.07,DEFAULT,,0,0,0,,{\kf58}When{\kf58} you{\kf58} think{\kf58} that{\kf54} you're{\kf42} co{\kf50}-or{\kf62}nered
-Dialogue: 0,0:02:47.38,0:02:49.71,DEFAULT,,0,0,0,,{\kf58}We'll{\kf58} be{\kf58} there{\kf58} push{\kf58}ing{\kf62} for{\kf78}ward
-Dialogue: 0,0:02:49.91,0:02:51.88,DEFAULT,,0,0,0,,{\kf58}This{\kf58} is{\kf46} worth{\kf46} fi{\kf46}-ight{\kf54}ing{\kf46} for{\kf74}~
-Dialogue: 0,0:02:52.44,0:02:54.45,DEFAULT,,0,0,0,,{\kf58}You're{\kf58} part{\kf46} of{\kf58} some{\kf58}thing{\kf70} more,{\kf46} we're-
-Dialogue: 0,0:02:54.65,0:02:56.98,DEFAULT,,0,0,0,,{\kf58}E{\kf46}le{\kf58}men{\kf66}tal,{\kf58} e{\kf46}le{\kf58}men{\kf62}tal
-Dialogue: 0,0:02:57.17,0:02:59.50,DEFAULT,,0,0,0,,{\kf54}This{\kf58} ob{\kf58}ses{\kf54}sion's{\kf62} de{\kf46}tri{\kf58}men{\kf62}tal
-Dialogue: 0,0:02:59.70,0:03:02.03,DEFAULT,,0,0,0,,{\kf58}E{\kf46}le{\kf58}men{\kf62}tal,{\kf58} e{\kf46}le{\kf58}men{\kf62}tal
-Dialogue: 0,0:03:02.23,0:03:04.60,DEFAULT,,0,0,0,,{\kf58}These{\kf58} par{\kf58}ties{\kf58} are{\kf58} not{\kf46} es{\kf58}sen{\kf62}tial
-Dialogue: 0,0:03:04.79,0:03:06.92,DEFAULT,,0,0,0,,{\kf54}E{\kf46}le{\kf58}men{\kf62}tal,{\kf58} e{\kf46}le{\kf58}men{\kf46}tal
-Dialogue: 0,0:03:07.12,0:03:09.61,DEFAULT,,0,0,0,,{\kf46}For{\kf62}get{\kf58} a{\kf54}bout{\kf58} the{\kf46} or{\kf46}-r{\kf46}na{\kf62}men{\kf62}tal
-Dialogue: 0,0:03:09.81,0:03:12.13,DEFAULT,,0,0,0,,{\kf58}E{\kf46}le{\kf58}men{\kf66}tal,{\kf62} e{\kf46}le{\kf58}men{\kf62}tal
-Dialogue: 0,0:03:12.33,0:03:14.74,DEFAULT,,0,0,0,,{\kf58}Us{\kf58} six{\kf46} ca{\kf46}-an't{\kf54} be{\kf58} ac{\kf46}ci{\kf58}den{\kf70}tal
-Dialogue: 0,0:03:28.44,0:03:31.87,DEFAULT,,0,0,0,,{\kf50}U{\kf46}ni{\kf50}-i{\kf54}ted{\kf46} by{\kf46}~{\kf46} the{\kf42} spa{\kf220}-ark
-Dialogue: 0,0:03:32.86,0:03:36.06,DEFAULT,,0,0,0,,{\kf58}Six{\kf66} friends{\kf46} who{\kf54} would{\kf54} cast{\kf54} out{\kf46} the{\kf149} dark
-Dialogue: 0,0:03:47.70,0:03:50.11,DEFAULT,,0,0,0,,{\kf58}E{\kf46}le{\kf58}men{\kf62}tal,{\kf58} e{\kf46}le{\kf58}men{\kf70}tal
-Dialogue: 0,0:03:52.75,0:03:55.16,DEFAULT,,0,0,0,,{\kf58}E{\kf46}le{\kf58}men{\kf66}tal,{\kf62} e{\kf46}le{\kf58}men{\kf70}tal
-Dialogue: 0,0:03:57.81,0:04:00.21,DEFAULT,,0,0,0,,{\kf58}E{\kf46}le{\kf58}men{\kf66}tal,{\kf58} e{\kf46}le{\kf58}men{\kf70}tal
-Dialogue: 0,0:04:02.86,0:04:05.31,DEFAULT,,0,0,0,,{\kf58}E{\kf46}le{\kf58}men{\kf66}tal,{\kf62} e{\kf46}le{\kf54}men{\kf70}tal
+Dialogue: 0,0:00:00.34,0:00:02.78,DEFAULT,,0,0,0,,{\r}{\kf36}E{\kf15}el{\kf31}men{\kf36}tal,{\kf36} e{\kf15}le{\kf31}men{\kf45}tal
+Dialogue: 0,0:00:05.39,0:00:07.84,DEFAULT,,0,0,0,,{\r}{\kf36}E{\kf15}le{\kf31}men{\kf36}tal,{\kf36} e{\kf15}le{\kf31}men{\kf45}tal
+Dialogue: 0,0:00:10.44,0:00:12.89,DEFAULT,,0,0,0,,{\r}{\kf36}E{\kf15}le{\kf31}men{\kf36}tal,{\kf36} e{\kf15}le{\kf31}men{\kf45}tal
+Dialogue: 0,0:00:15.49,0:00:17.94,DEFAULT,,0,0,0,,{\r}{\kf36}E{\kf15}le{\kf31}men{\kf36}tal,{\kf36} e{\kf15}le{\kf31}men{\kf45}tal
+Dialogue: 0,0:00:20.55,0:00:22.99,DEFAULT,,0,0,0,,{\r}{\kf36}E{\kf15}le{\kf31}men{\kf36}tal,{\kf36} e{\kf15}le{\kf31}men{\kf45}tal
+Dialogue: 0,0:00:25.60,0:00:28.05,DEFAULT,,0,0,0,,{\r}{\kf36}E{\kf15}le{\kf31}men{\kf36}tal,{\kf36} e{\kf15}le{\kf31}men{\kf45}tal
+Dialogue: 0,0:00:41.43,0:00:43.40,DEFAULT,,0,0,0,,{\r}{\kf10}Far{\kf16}~{\kf16} a{\kf47}way{\kf31} from{\kf26} where{\kf16} you{\kf35} are
+Dialogue: 0,0:00:43.60,0:00:45.93,DEFAULT,,0,0,0,,{\r}{\kf16}The{\kf16}~{\kf36} e{\kf16}le{\kf10}me{\kf26}-ents{\kf31} called{\kf31} to{\kf16} a{\kf35} spark
+Dialogue: 0,0:00:46.13,0:00:48.30,DEFAULT,,0,0,0,,{\r}{\kf35}Cho{\kf30}sen{\kf10} for{\kf30} some{\kf30}thing{\kf30} grea{\kf52}ter
+Dialogue: 0,0:00:48.65,0:00:51.02,DEFAULT,,0,0,0,,{\r}{\kf31}Six{\kf31} friends{\kf31} who{\kf31} would{\kf31} cast{\kf31} out{\kf15} the{\kf36} dark
+Dialogue: 0,0:00:51.26,0:00:53.51,DEFAULT,,0,0,0,,{\r}{\kf31}O{\kf26}ver{\kf16} the{\kf47} years{\kf31} our{\kf10} po{\kf16}-o{\kf21}wer{\kf27} grew
+Dialogue: 0,0:00:53.71,0:00:56.03,DEFAULT,,0,0,0,,{\r}{\kf26}The{\kf26} strength{\kf16} in{\kf16} me{\kf32}~{\kf21} is{\kf32} in{\kf11} you{\kf21}~{\kf32} too
+Dialogue: 0,0:00:56.23,0:00:58.40,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf17}~{\kf11} ti{\kf17}-ime{\kf22} will{\kf11} co{\kf17}-ome{\kf17} to{\kf33} use{\kf55} it
+Dialogue: 0,0:00:58.76,0:01:00.77,DEFAULT,,0,0,0,,{\r}{\kf30}Just{\kf30} hope{\kf30} it{\kf15} does{\kf30}n't{\kf30} come{\kf36} too-
+Dialogue: 0,0:01:01.01,0:01:05.86,DEFAULT,,0,0,0,,{\r}{\kf61}Soon{\kf66} you'll{\kf15} ha{\kf51}-ave{\kf10} to{\kf46}~{\kf30} make{\kf15} a{\kf56} choice,{\kf15} to{\kf20} fi{\kf15}-ight{\kf25} or{\kf30} fly{\kf15} a{\kf16}way
+Dialogue: 0,0:01:06.06,0:01:10.96,DEFAULT,,0,0,0,,{\r}{\kf58}Just{\kf62} trust{\kf43} in{\kf19}~{\kf62} your{\kf29}self{\kf14} and{\kf29} e{\kf29}very{\kf14}thi{\kf14}-ing{\kf34} will{\kf82} be
+Dialogue: 0,0:01:11.71,0:01:13.72,DEFAULT,,0,0,0,,{\r}{\kf31}Are{\kf31} you{\kf26} scared{\kf31} of{\kf31} this{\kf51} fight
+Dialogue: 0,0:01:13.92,0:01:16.13,DEFAULT,,0,0,0,,{\r}{\kf31}How{\kf36} do{\kf21} you{\kf15} kno{\kf10}-ow{\kf31} if{\kf36} you're{\kf41} right
+Dialogue: 0,0:01:16.44,0:01:18.46,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf30} trust{\kf30} what's{\kf15} in{\kf25} your{\kf20} hea{\kf51}-art
+Dialogue: 0,0:01:18.65,0:01:21.18,DEFAULT,,0,0,0,,{\r}{\kf33}Don't{\kf28} let{\kf23} 'em{\kf28} tear{\kf19} you{\kf28} a{\kf94}part
+Dialogue: 0,0:01:21.49,0:01:23.74,DEFAULT,,0,0,0,,{\r}{\kf31}When{\kf31} you{\kf31} think{\kf31} that{\kf26} you're{\kf15} co{\kf20}-or{\kf40}nered
+Dialogue: 0,0:01:24.02,0:01:26.39,DEFAULT,,0,0,0,,{\r}{\kf29}We'll{\kf29} be{\kf24} there{\kf34} push{\kf29}ing{\kf34} for{\kf58}ward
+Dialogue: 0,0:01:26.55,0:01:28.64,DEFAULT,,0,0,0,,{\r}{\kf27}This{\kf27} is{\kf16} worth{\kf21} fi{\kf16}-ight{\kf21}ing{\kf16} for{\kf48}~{\kf17}~
+Dialogue: 0,0:01:29.07,0:01:31.09,DEFAULT,,0,0,0,,{\r}{\kf32}You're{\kf32} part{\kf16} of{\kf32} some{\kf32}thing{\kf42} more,{\kf15} we're-
+Dialogue: 0,0:01:31.28,0:01:33.61,DEFAULT,,0,0,0,,{\r}{\kf31}E{\kf16}le{\kf31}men{\kf41}tal,{\kf31} e{\kf16}le{\kf31}men{\kf36}tal
+Dialogue: 0,0:01:33.81,0:01:36.14,DEFAULT,,0,0,0,,{\r}{\kf30}Some{\kf30}times{\kf30} you're{\kf30} too{\kf20} te{\kf15}-em{\kf15}per{\kf20}men{\kf43}tal
+Dialogue: 0,0:01:36.34,0:01:38.67,DEFAULT,,0,0,0,,{\r}{\kf30}E{\kf15}le{\kf30}men{\kf41}tal,{\kf35} e{\kf15}le{\kf30}men{\kf37}tal
+Dialogue: 0,0:01:38.86,0:01:41.19,DEFAULT,,0,0,0,,{\r}{\kf26}God,{\kf26} your{\kf32} e{\kf26}go's{\kf32} mo{\kf21}nu{\kf32}men{\kf38}tal
+Dialogue: 0,0:01:41.39,0:01:43.72,DEFAULT,,0,0,0,,{\r}{\kf31}E{\kf16}le{\kf31}men{\kf41}tal,{\kf31} e{\kf16}le{\kf31}men{\kf36}tal
+Dialogue: 0,0:01:43.92,0:01:46.24,DEFAULT,,0,0,0,,{\r}{\kf31}Must{\kf31} you{\kf31} be{\kf26} so{\kf31} sen{\kf16}ti{\kf31}men{\kf36}tal
+Dialogue: 0,0:01:46.44,0:01:48.77,DEFAULT,,0,0,0,,{\r}{\kf30}E{\kf15}le{\kf30}men{\kf41}tal,{\kf35} e{\kf15}le{\kf30}men{\kf37}tal
+Dialogue: 0,0:01:48.97,0:01:51.38,DEFAULT,,0,0,0,,{\r}{\kf31}Us{\kf31} six{\kf16} ca{\kf16}-an't{\kf26} be{\kf26} ac{\kf16}ci{\kf31}den{\kf48}tal
+Dialogue: 0,0:01:54.97,0:01:57.14,DEFAULT,,0,0,0,,{\r}{\kf30}So{\kf15} why{\kf30}~{\kf25} are{\kf15} you{\kf35}~{\kf67} here
+Dialogue: 0,0:01:57.81,0:01:59.55,DEFAULT,,0,0,0,,{\r}{\kf14}What{\kf32} is{\kf32} it{\kf14} you{\kf27}~{\kf55} fear?
+Dialogue: 0,0:02:00.34,0:02:04.52,DEFAULT,,0,0,0,,{\r}{\kf17}Look{\kf33} in{\kf17}si{\kf17}-ide{\kf28} your{\kf39}self,{\kf17} I{\kf28} think{\kf33} you'll{\kf33} see{\kf17} the{\kf39} ans{\kf33}wer's{\kf67} clear
+Dialogue: 0,0:02:05.07,0:02:07.09,DEFAULT,,0,0,0,,{\r}{\kf26}There's{\kf32} some{\kf16}thing{\kf26} in{\kf16} the{\kf32}~{\kf53} dark
+Dialogue: 0,0:02:07.44,0:02:09.77,DEFAULT,,0,0,0,,{\r}{\kf15}You've{\kf25} been{\kf15} ho{\kf15}-old{\kf15}ing{\kf30} in{\kf15} yo{\kf25}-our{\kf78} heart
+Dialogue: 0,0:02:10.44,0:02:14.19,DEFAULT,,0,0,0,,{\r}{\kf17}How{\kf17}~{\kf17} you{\kf17} pla{\kf34}-an{\kf17} to{\kf17} let{\kf34} it{\kf22} out{\kf17}~,{\kf34} now{\kf34} that's{\kf17} the{\kf28} art{\kf17}ful{\kf36} part
+Dialogue: 0,0:02:15.18,0:02:18.77,DEFAULT,,0,0,0,,{\r}{\kf27}For{\kf13} bet{\kf22}ter{\kf27} or{\kf13} for{\kf27}~{\kf230} worse
+Dialogue: 0,0:02:20.55,0:02:23.39,DEFAULT,,0,0,0,,{\r}{\kf13}We{\kf26} all{\kf26} share{\kf31} this{\kf188} curse
+Dialogue: 0,0:02:25.28,0:02:28.88,DEFAULT,,0,0,0,,{\r}{\kf27}For{\kf13} bet{\kf22}ter{\kf27} or{\kf13} for{\kf27}~{\kf230} worse
+Dialogue: 0,0:02:30.65,0:02:33.14,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf27} know{\kf13} how{\kf13}~{\kf27} it{\kf156} hurts
+Dialogue: 0,0:02:35.07,0:02:37.09,DEFAULT,,0,0,0,,{\r}{\kf30}Are{\kf30} you{\kf30} scared{\kf25} of{\kf30} this{\kf56} fight
+Dialogue: 0,0:02:37.28,0:02:39.61,DEFAULT,,0,0,0,,{\r}{\kf30}How{\kf30} do{\kf25} you{\kf30} know{\kf30} if{\kf30} you're{\kf58} right
+Dialogue: 0,0:02:39.81,0:02:41.82,DEFAULT,,0,0,0,,{\r}{\kf32}I{\kf26} trust{\kf32} what's{\kf16} in{\kf26} your{\kf16} hea{\kf53}-art
+Dialogue: 0,0:02:42.02,0:02:44.55,DEFAULT,,0,0,0,,{\r}{\kf29}Don't{\kf29} let{\kf29} 'em{\kf29} tear{\kf14} you{\kf29} a{\kf94}part
+Dialogue: 0,0:02:44.86,0:02:47.07,DEFAULT,,0,0,0,,{\r}{\kf32}When{\kf32} you{\kf32} think{\kf32} that{\kf26} you're{\kf11} co{\kf21}-or{\kf35}nered
+Dialogue: 0,0:02:47.39,0:02:49.72,DEFAULT,,0,0,0,,{\r}{\kf29}We'll{\kf29} be{\kf29} there{\kf29} push{\kf29}ing{\kf34} for{\kf54}ward
+Dialogue: 0,0:02:49.92,0:02:51.89,DEFAULT,,0,0,0,,{\r}{\kf30}This{\kf30} is{\kf15} worth{\kf15} fi{\kf15}-ight{\kf25}ing{\kf15} for{\kf52}~
+Dialogue: 0,0:02:52.44,0:02:54.46,DEFAULT,,0,0,0,,{\r}{\kf31}You're{\kf31} part{\kf15} of{\kf31} some{\kf31}thing{\kf46} more,{\kf16} we're-
+Dialogue: 0,0:02:54.65,0:02:56.98,DEFAULT,,0,0,0,,{\r}{\kf31}E{\kf16}le{\kf31}men{\kf41}tal,{\kf31} e{\kf16}le{\kf31}men{\kf36}tal
+Dialogue: 0,0:02:57.18,0:02:59.51,DEFAULT,,0,0,0,,{\r}{\kf26}This{\kf31} ob{\kf31}ses{\kf26}sion's{\kf36} de{\kf16}tri{\kf31}men{\kf36}tal
+Dialogue: 0,0:02:59.71,0:03:02.03,DEFAULT,,0,0,0,,{\r}{\kf32}E{\kf16}le{\kf32}men{\kf37}tal,{\kf32} e{\kf16}le{\kf32}men{\kf36}tal
+Dialogue: 0,0:03:02.23,0:03:04.60,DEFAULT,,0,0,0,,{\r}{\kf31}These{\kf31} par{\kf31}ties{\kf31} are{\kf31} not{\kf15} es{\kf31}sen{\kf36}tial
+Dialogue: 0,0:03:04.80,0:03:06.93,DEFAULT,,0,0,0,,{\r}{\kf27}E{\kf16}le{\kf33}men{\kf38}tal,{\kf33} e{\kf16}le{\kf33}men{\kf17}tal
+Dialogue: 0,0:03:07.13,0:03:09.61,DEFAULT,,0,0,0,,{\r}{\kf15}For{\kf35}get{\kf30} a{\kf25}bout{\kf30} the{\kf15} or{\kf15}-r{\kf15}na{\kf35}men{\kf34}tal
+Dialogue: 0,0:03:09.81,0:03:12.14,DEFAULT,,0,0,0,,{\r}{\kf30}E{\kf15}le{\kf30}men{\kf41}tal,{\kf35} e{\kf15}le{\kf30}men{\kf37}tal
+Dialogue: 0,0:03:12.34,0:03:14.74,DEFAULT,,0,0,0,,{\r}{\kf31}Us{\kf31} six{\kf15} ca{\kf15}-an't{\kf26} be{\kf31} ac{\kf15}ci{\kf31}den{\kf46}tal
+Dialogue: 0,0:03:28.44,0:03:31.88,DEFAULT,,0,0,0,,{\r}{\kf19}U{\kf14}ni{\kf19}-i{\kf23}ted{\kf14} by{\kf14}~{\kf14} the{\kf10} spa{\kf216}-ark
+Dialogue: 0,0:03:32.86,0:03:36.06,DEFAULT,,0,0,0,,{\r}{\kf30}Six{\kf40} friends{\kf15} who{\kf25} would{\kf25} cast{\kf25} out{\kf15} the{\kf145} dark
+Dialogue: 0,0:03:47.71,0:03:50.11,DEFAULT,,0,0,0,,{\r}{\kf31}E{\kf16}le{\kf31}men{\kf37}tal,{\kf31} e{\kf16}le{\kf31}men{\kf48}tal
+Dialogue: 0,0:03:52.76,0:03:55.17,DEFAULT,,0,0,0,,{\r}{\kf30}E{\kf15}le{\kf30}men{\kf40}tal,{\kf35} e{\kf15}le{\kf30}men{\kf46}tal
+Dialogue: 0,0:03:57.81,0:04:00.22,DEFAULT,,0,0,0,,{\r}{\kf31}E{\kf15}le{\kf31}men{\kf41}tal,{\kf31} e{\kf15}le{\kf31}men{\kf46}tal
+Dialogue: 0,0:04:02.86,0:04:05.31,DEFAULT,,0,0,0,,{\r}{\kf31}E{\kf16}le{\kf31}men{\kf42}tal,{\kf36} e{\kf16}le{\kf26}men{\kf47}tal

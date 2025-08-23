@@ -1,49 +1,56 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Sonic Rainboom VIP
+Artist: Silver Note
+Original Timing: mylittlekaraoke.com by SqueakyBelle
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.50,0:00:12.68,DEFAULT,,0,0,0,,{\kf47}There's{\kf22} no{\kf25}thing{\kf13} to{\kf44} fear{\kf22}~,{\kf41} just{\kf19} o{\kf22}pen{\kf22} your{\kf50} ears{\kf35}~
-Dialogue: 0,0:00:13.06,0:00:16.67,DEFAULT,,0,0,0,,{\kf50}Lou{\kf147}der,{\kf44} lou{\kf113}der
-Dialogue: 0,0:00:17.02,0:00:20.67,DEFAULT,,0,0,0,,{\kf25}Su{\kf25}per{\kf41} speed{\kf22} now{\kf19}~,{\kf22} like{\kf22} a{\kf22} so{\kf16}nic{\kf44} rain{\kf60}boom
-Dialogue: 0,0:00:21.07,0:00:24.88,DEFAULT,,0,0,0,,{\kf50}Fas{\kf138}ter,{\kf50} fas{\kf128}ter
-Dialogue: 0,0:00:25.31,0:00:28.49,DEFAULT,,0,0,0,,{\kf25}'Cause{\kf13} we're{\kf32} fly{\kf10}~{\kf32}ing{\kf35} high{\kf13}~{\kf22}~{\kf91}~
-Dialogue: 0,0:00:29.06,0:00:33.48,DEFAULT,,0,0,0,,{\kf47}High{\kf138}er,{\kf50} high{\kf191}er
-Dialogue: 0,0:00:40.50,0:00:43.65,DEFAULT,,0,0,0,,{\kf29}You{\kf47} know{\kf22} you{\kf25} know{\kf22} it's{\kf22} yours{\kf19}~{\kf16} to{\kf78} take
-Dialogue: 0,0:00:44.12,0:00:48.11,DEFAULT,,0,0,0,,{\kf44}Things{\kf25} will{\kf47} ne{\kf47}ver{\kf44} be{\kf19} the{\kf25} same{\kf122}~
-Dialogue: 0,0:00:48.52,0:00:51.42,DEFAULT,,0,0,0,,{\kf50}Train{\kf41} hard,{\kf25} till{\kf19} there's{\kf22} no{\kf19}~{\kf29}thing{\kf57} left
-Dialogue: 0,0:00:51.61,0:00:55.35,DEFAULT,,0,0,0,,{\kf25}Till{\kf22} they{\kf54} know{\kf66} your{\kf175} name
-Dialogue: 0,0:00:56.63,0:01:00.84,DEFAULT,,0,0,0,,{\kf44}There's{\kf29} no{\kf22}thing{\kf16} to{\kf63} fear,{\kf50} just{\kf25} o{\kf25}pen{\kf25} your{\kf88} eyes
-Dialogue: 0,0:01:01.09,0:01:05.52,DEFAULT,,0,0,0,,{\kf29}Feel{\kf22} the{\kf32} a{\kf29}dre{\kf22}na{\kf41}line{\kf44} pum{\kf22}ping{\kf169}~
-Dialogue: 0,0:01:12.56,0:01:16.74,DEFAULT,,0,0,0,,{\kf47}There's{\kf22} no{\kf22}thing{\kf16} to{\kf41} fear{\kf25}~,{\kf41} just{\kf19} o{\kf22}pen{\kf22} your{\kf47} ears{\kf38}~
-Dialogue: 0,0:01:17.12,0:01:20.74,DEFAULT,,0,0,0,,{\kf44}Lou{\kf150}der,{\kf47} lou{\kf113}der
-Dialogue: 0,0:01:21.08,0:01:24.73,DEFAULT,,0,0,0,,{\kf25}Su{\kf25}per{\kf41} speed{\kf22} now{\kf19}~,{\kf22} like{\kf22} a{\kf22} so{\kf16}nic{\kf44} rain{\kf60}boom
-Dialogue: 0,0:01:25.13,0:01:28.94,DEFAULT,,0,0,0,,{\kf47}Fas{\kf141}ter,{\kf47} fas{\kf135}ter
-Dialogue: 0,0:01:29.37,0:01:32.56,DEFAULT,,0,0,0,,{\kf22}'Cause{\kf16} we're{\kf32} fly{\kf10}~{\kf32}ing{\kf35} high{\kf13}~{\kf22}~{\kf91}~
-Dialogue: 0,0:01:33.12,0:01:37.55,DEFAULT,,0,0,0,,{\kf47}High{\kf138}er,{\kf54} high{\kf194}er
-Dialogue: 0,0:01:44.56,0:01:47.65,DEFAULT,,0,0,0,,{\kf25}E{\kf22}v'ry{\kf47}one{\kf19} is{\kf25} wa{\kf16}~{\kf29}tching{\kf22}~{\kf82} you
-Dialogue: 0,0:01:48.06,0:01:52.08,DEFAULT,,0,0,0,,{\kf85}Wa{\kf35}tching{\kf25}~{\kf250} you
-Dialogue: 0,0:01:52.52,0:01:56.67,DEFAULT,,0,0,0,,{\kf29}Can{\kf25} you{\kf44} feel{\kf25} the{\kf22} wind{\kf22}~{\kf25} un{\kf16}der{\kf38}neath{\kf25} your{\kf22}~{\kf85} wings?
-Dialogue: 0,0:01:57.01,0:02:00.06,DEFAULT,,0,0,0,,{\kf75}Your{\kf29}~{\kf197} wings
-Dialogue: 0,0:02:00.59,0:02:03.21,DEFAULT,,0,0,0,,{\kf47}This{\kf47} is{\kf16} your{\kf25} time{\kf25}~{\kf22} now{\kf63}~
-Dialogue: 0,0:02:04.06,0:02:08.08,DEFAULT,,0,0,0,,{\kf191}Your{\kf209} time
-Dialogue: 0,0:02:08.55,0:02:11.26,DEFAULT,,0,0,0,,{\kf29}Time{\kf19} to{\kf47} show{\kf22} the{\kf22} world{\kf119}~
-Dialogue: 0,0:02:12.01,0:02:18.09,DEFAULT,,0,0,0,,{\kf609}Oh
-Dialogue: 0,0:02:18.53,0:02:22.71,DEFAULT,,0,0,0,,{\kf47}There's{\kf22} no{\kf25}thing{\kf13} to{\kf44} fear{\kf22}~,{\kf41} just{\kf19} o{\kf22}pen{\kf22} your{\kf50} ears{\kf35}~
-Dialogue: 0,0:02:23.08,0:02:26.70,DEFAULT,,0,0,0,,{\kf50}Lou{\kf147}der,{\kf44} lou{\kf113}der
-Dialogue: 0,0:02:27.04,0:02:30.69,DEFAULT,,0,0,0,,{\kf25}Su{\kf25}per{\kf41} speed{\kf22} now{\kf19}~,{\kf22} like{\kf22} a{\kf22} so{\kf16}nic{\kf44} rain{\kf60}boom
-Dialogue: 0,0:02:31.10,0:02:34.90,DEFAULT,,0,0,0,,{\kf50}Fas{\kf138}ter,{\kf50} fas{\kf128}ter
-Dialogue: 0,0:02:35.34,0:02:38.52,DEFAULT,,0,0,0,,{\kf25}'Cause{\kf13} we're{\kf32} fly{\kf10}~{\kf32}ing{\kf35} high{\kf13}~{\kf22}~{\kf91}~
-Dialogue: 0,0:02:39.08,0:02:43.51,DEFAULT,,0,0,0,,{\kf47}High{\kf138}er,{\kf47} high{\kf194}er
-Dialogue: 0,0:02:50.50,0:02:53.65,DEFAULT,,0,0,0,,{\kf29}You{\kf47} know{\kf22} you{\kf25} know{\kf22} it's{\kf22} yours{\kf19}~{\kf16} to{\kf78} take
-Dialogue: 0,0:02:54.12,0:02:58.11,DEFAULT,,0,0,0,,{\kf44}Things{\kf25} will{\kf47} ne{\kf47}ver{\kf44} be{\kf19} the{\kf25} same{\kf122}~
-Dialogue: 0,0:02:58.51,0:03:01.41,DEFAULT,,0,0,0,,{\kf50}Train{\kf41} hard,{\kf25} till{\kf19} there's{\kf22} no{\kf19}~{\kf29}thing{\kf57} left
-Dialogue: 0,0:03:01.60,0:03:05.34,DEFAULT,,0,0,0,,{\kf25}Till{\kf22} they{\kf54} know{\kf66} your{\kf175} name
-Dialogue: 0,0:03:06.62,0:03:10.83,DEFAULT,,0,0,0,,{\kf44}There's{\kf25} no{\kf22}thing{\kf19} to{\kf63} fear,{\kf50} just{\kf25} o{\kf22}pen{\kf29} your{\kf88} eyes
-Dialogue: 0,0:03:11.08,0:03:15.51,DEFAULT,,0,0,0,,{\kf29}Feel{\kf22} the{\kf32} a{\kf29}dre{\kf22}na{\kf41}line{\kf44} pum{\kf22}ping{\kf169}~
+Dialogue: 0,0:00:08.51,0:00:12.69,DEFAULT,,0,0,0,,{\r}{\kf55}There's{\kf25} no{\kf29}thing{\kf15} to{\kf51} fear{\kf25}~,{\kf47} just{\kf22} o{\kf25}pen{\kf25} your{\kf58} ears{\kf41}~
+Dialogue: 0,0:00:13.06,0:00:16.68,DEFAULT,,0,0,0,,{\r}{\kf51}Lou{\kf151}der,{\kf45} lou{\kf115}der
+Dialogue: 0,0:00:17.02,0:00:20.67,DEFAULT,,0,0,0,,{\r}{\kf29}Su{\kf29}per{\kf47} speed{\kf25} now{\kf22}~,{\kf25} like{\kf25} a{\kf25} so{\kf18}nic{\kf51} rain{\kf69}boom
+Dialogue: 0,0:00:21.08,0:00:24.88,DEFAULT,,0,0,0,,{\r}{\kf52}Fas{\kf143}ter,{\kf52} fas{\kf134}ter
+Dialogue: 0,0:00:25.32,0:00:28.50,DEFAULT,,0,0,0,,{\r}{\kf30}'Cause{\kf15} we're{\kf37} fly{\kf11}~{\kf37}ing{\kf41} high{\kf15}~{\kf26}~{\kf106}~
+Dialogue: 0,0:00:29.06,0:00:33.49,DEFAULT,,0,0,0,,{\r}{\kf49}High{\kf143}er,{\kf52} high{\kf199}er
+Dialogue: 0,0:00:40.51,0:00:43.66,DEFAULT,,0,0,0,,{\r}{\kf32}You{\kf53} know{\kf25} you{\kf28} know{\kf25} it's{\kf25} yours{\kf21}~{\kf18} to{\kf88} take
+Dialogue: 0,0:00:44.12,0:00:48.12,DEFAULT,,0,0,0,,{\r}{\kf47}Things{\kf27} will{\kf50} ne{\kf50}ver{\kf47} be{\kf20} the{\kf27} same{\kf131}~
+Dialogue: 0,0:00:48.52,0:00:51.42,DEFAULT,,0,0,0,,{\r}{\kf56}Train{\kf45} hard,{\kf28} till{\kf21} there's{\kf24} no{\kf21}~{\kf31}thing{\kf64} left
+Dialogue: 0,0:00:51.61,0:00:55.35,DEFAULT,,0,0,0,,{\r}{\kf27}Till{\kf24} they{\kf58} know{\kf72} your{\kf193} name
+Dialogue: 0,0:00:56.63,0:01:00.84,DEFAULT,,0,0,0,,{\r}{\kf48}There's{\kf31} no{\kf24}thing{\kf17} to{\kf68} fear,{\kf55} just{\kf27} o{\kf27}pen{\kf27} your{\kf97} eyes
+Dialogue: 0,0:01:01.09,0:01:05.52,DEFAULT,,0,0,0,,{\r}{\kf31}Feel{\kf24} the{\kf34} a{\kf31}dre{\kf24}na{\kf44}line{\kf48} pum{\kf24}ping{\kf183}~
+Dialogue: 0,0:01:12.57,0:01:16.75,DEFAULT,,0,0,0,,{\r}{\kf55}There's{\kf25} no{\kf25}thing{\kf18} to{\kf47} fear{\kf29}~,{\kf47} just{\kf22} o{\kf25}pen{\kf25} your{\kf55} ears{\kf45}~
+Dialogue: 0,0:01:17.12,0:01:20.74,DEFAULT,,0,0,0,,{\r}{\kf45}Lou{\kf154}der,{\kf48} lou{\kf115}der
+Dialogue: 0,0:01:21.08,0:01:24.73,DEFAULT,,0,0,0,,{\r}{\kf29}Su{\kf29}per{\kf47} speed{\kf25} now{\kf22}~,{\kf25} like{\kf25} a{\kf25} so{\kf18}nic{\kf51} rain{\kf69}boom
+Dialogue: 0,0:01:25.14,0:01:28.94,DEFAULT,,0,0,0,,{\r}{\kf48}Fas{\kf145}ter,{\kf48} fas{\kf140}ter
+Dialogue: 0,0:01:29.38,0:01:32.56,DEFAULT,,0,0,0,,{\r}{\kf26}'Cause{\kf18} we're{\kf37} fly{\kf11}~{\kf37}ing{\kf41} high{\kf15}~{\kf26}~{\kf107}~
+Dialogue: 0,0:01:33.12,0:01:37.55,DEFAULT,,0,0,0,,{\r}{\kf48}High{\kf141}er,{\kf55} high{\kf199}er
+Dialogue: 0,0:01:44.57,0:01:47.66,DEFAULT,,0,0,0,,{\r}{\kf27}E{\kf24}v'ry{\kf51}one{\kf20} is{\kf27} wa{\kf17}~{\kf31}tching{\kf24}~{\kf88} you
+Dialogue: 0,0:01:48.06,0:01:52.09,DEFAULT,,0,0,0,,{\r}{\kf86}Wa{\kf35}tching{\kf26}~{\kf255} you
+Dialogue: 0,0:01:52.52,0:01:56.67,DEFAULT,,0,0,0,,{\r}{\kf31}Can{\kf28} you{\kf48} feel{\kf28} the{\kf24} wind{\kf24}~{\kf28} un{\kf17}der{\kf42}neath{\kf28} your{\kf24}~{\kf93} wings?
+Dialogue: 0,0:01:57.01,0:02:00.07,DEFAULT,,0,0,0,,{\r}{\kf76}Your{\kf29}~{\kf201} wings
+Dialogue: 0,0:02:00.60,0:02:03.22,DEFAULT,,0,0,0,,{\r}{\kf50}This{\kf50} is{\kf17} your{\kf27} time{\kf27}~{\kf24} now{\kf67}~
+Dialogue: 0,0:02:04.06,0:02:08.09,DEFAULT,,0,0,0,,{\r}{\kf192}Your{\kf210} time
+Dialogue: 0,0:02:08.55,0:02:11.27,DEFAULT,,0,0,0,,{\r}{\kf30}Time{\kf20} to{\kf50} show{\kf23} the{\kf23} world{\kf125}~
+Dialogue: 0,0:02:12.02,0:02:18.10,DEFAULT,,0,0,0,,{\r}{\kf608}Oh
+Dialogue: 0,0:02:18.53,0:02:22.71,DEFAULT,,0,0,0,,{\r}{\kf55}There's{\kf25} no{\kf29}thing{\kf15} to{\kf51} fear{\kf25}~,{\kf47} just{\kf22} o{\kf25}pen{\kf25} your{\kf58} ears{\kf41}~
+Dialogue: 0,0:02:23.09,0:02:26.71,DEFAULT,,0,0,0,,{\r}{\kf51}Lou{\kf151}der,{\kf45} lou{\kf115}der
+Dialogue: 0,0:02:27.05,0:02:30.70,DEFAULT,,0,0,0,,{\r}{\kf29}Su{\kf29}per{\kf47} speed{\kf25} now{\kf22}~,{\kf25} like{\kf25} a{\kf25} so{\kf18}nic{\kf51} rain{\kf69}boom
+Dialogue: 0,0:02:31.10,0:02:34.91,DEFAULT,,0,0,0,,{\r}{\kf52}Fas{\kf143}ter,{\kf52} fas{\kf134}ter
+Dialogue: 0,0:02:35.34,0:02:38.53,DEFAULT,,0,0,0,,{\r}{\kf30}'Cause{\kf15} we're{\kf37} fly{\kf11}~{\kf37}ing{\kf41} high{\kf15}~{\kf26}~{\kf106}~
+Dialogue: 0,0:02:39.09,0:02:43.52,DEFAULT,,0,0,0,,{\r}{\kf49}High{\kf143}er,{\kf49} high{\kf202}er
+Dialogue: 0,0:02:50.50,0:02:53.65,DEFAULT,,0,0,0,,{\r}{\kf32}You{\kf53} know{\kf25} you{\kf28} know{\kf25} it's{\kf25} yours{\kf21}~{\kf18} to{\kf88} take
+Dialogue: 0,0:02:54.12,0:02:58.11,DEFAULT,,0,0,0,,{\r}{\kf47}Things{\kf27} will{\kf50} ne{\kf50}ver{\kf47} be{\kf20} the{\kf27} same{\kf131}~
+Dialogue: 0,0:02:58.52,0:03:01.42,DEFAULT,,0,0,0,,{\r}{\kf56}Train{\kf45} hard,{\kf28} till{\kf21} there's{\kf24} no{\kf21}~{\kf31}thing{\kf64} left
+Dialogue: 0,0:03:01.61,0:03:05.35,DEFAULT,,0,0,0,,{\r}{\kf27}Till{\kf24} they{\kf58} know{\kf72} your{\kf193} name
+Dialogue: 0,0:03:06.63,0:03:10.84,DEFAULT,,0,0,0,,{\r}{\kf48}There's{\kf27} no{\kf24}thing{\kf21} to{\kf68} fear,{\kf55} just{\kf27} o{\kf24}pen{\kf31} your{\kf96} eyes
+Dialogue: 0,0:03:11.09,0:03:15.52,DEFAULT,,0,0,0,,{\r}{\kf31}Feel{\kf24} the{\kf34} a{\kf31}dre{\kf24}na{\kf44}line{\kf48} pum{\kf24}ping{\kf183}~

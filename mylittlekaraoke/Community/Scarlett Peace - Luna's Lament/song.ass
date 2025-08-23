@@ -1,49 +1,56 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Luna's Lament
+Artist: Scarlett Peace
+Original Timing: mylittlekaraoke.com by Linos Melendi, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:23.80,0:00:25.30,DEFAULT,,0,0,0,,{\kf13}I'm{\kf13} Prin{\kf13}cess{\kf13} Lu{\kf25}na
-Dialogue: 0,0:00:26.05,0:00:27.36,DEFAULT,,0,0,0,,{\kf7}Prin{\kf13}cess{\kf13} freak{\kf7}'in{\kf13} Lu{\kf25}na
-Dialogue: 0,0:00:27.55,0:00:30.11,DEFAULT,,0,0,0,,{\kf13}And{\kf13} I{\kf7} Think{\kf13} I{\kf7} de{\kf19}serve{\kf13} bet{\kf13}ter{\kf13} than{\kf25} this
-Dialogue: 0,0:00:31.98,0:00:33.86,DEFAULT,,0,0,0,,{\kf7}I{\kf13} tried{\kf13} to{\kf13} make{\kf7} it{\kf7} e{\kf7}tern{\kf7}ally{\kf13} night{\kf13} time
-Dialogue: 0,0:00:34.05,0:00:36.36,DEFAULT,,0,0,0,,{\kf13}Does{\kf13}n't{\kf13} mean{\kf7} you{\kf7} can{\kf13} lock{\kf13} me{\kf13} in{\kf13} the{\kf44} moon
-Dialogue: 0,0:00:36.55,0:00:38.55,DEFAULT,,0,0,0,,{\kf19}For{\kf19}the{\kf19} rest{\kf19} of{\kf25}~{\kf19} time{\kf44}~
-Dialogue: 0,0:00:40.17,0:00:43.11,DEFAULT,,0,0,0,,{\kf13}May{\kf13}be{\kf7} I{\kf7} should{\kf13}n't{\kf13} have{\kf13} may{\kf13}be{\kf13} it{\kf13} was{\kf7} a{\kf7} mis{\kf19}take
-Dialogue: 0,0:00:43.67,0:00:46.30,DEFAULT,,0,0,0,,{\kf13}May{\kf13}be{\kf32} I{\kf7} am{\kf25} in{\kf7} the{\kf19} wrong
-Dialogue: 0,0:00:47.86,0:00:49.61,DEFAULT,,0,0,0,,{\kf7}The{\kf13} Po{\kf19}nies{\kf7} did{\kf13}n't{\kf7} ap{\kf13}pre{\kf7}ci{\kf13}ate
-Dialogue: 0,0:00:49.86,0:00:51.11,DEFAULT,,0,0,0,,{\kf13}My{\kf13} beau{\kf7}ti{\kf19}ful{\kf19} night
-Dialogue: 0,0:00:51.36,0:00:54.36,DEFAULT,,0,0,0,,{\kf13}But{\kf13} does{\kf13}n't{\kf38} mean{\kf7} I{\kf7} should{\kf13} force{\kf13} them{\kf13}~{\kf38} to
-Dialogue: 0,0:00:55.48,0:00:57.17,DEFAULT,,0,0,0,,{\kf13}May{\kf13}be{\kf13} Ce{\kf13}les{\kf7}t{\kf7}ia{\kf13} was{\kf13} right{\kf13}~
-Dialogue: 0,0:00:57.42,0:01:00.48,DEFAULT,,0,0,0,,{\kf7}May{\kf13}be{\kf7} I{\kf7} de{\kf13}serve{\kf7} to{\kf38} be{\kf19} locked{\kf25} in{\kf7} the{\kf38} moon
-Dialogue: 0,0:01:00.67,0:01:02.61,DEFAULT,,0,0,0,,{\kf13}For{\kf7} the{\kf19} rest{\kf13} of{\kf25}~{\kf57} time
-Dialogue: 0,0:01:04.98,0:01:05.48,DEFAULT,,0,0,0,,{\kf7}I'm{\kf7} sor{\kf13}ry
-Dialogue: 0,0:01:21.92,0:01:25.36,DEFAULT,,0,0,0,,{\kf7}I{\kf13} guess{\kf13} I{\kf7} should{\kf7}n't{\kf13} of{\kf13} got{\kf50}ten{\kf19} so{\kf19}~{\kf50} mad
-Dialogue: 0,0:01:25.55,0:01:28.42,DEFAULT,,0,0,0,,{\kf13}And{\kf38} now{\kf13}kind{\kf13} of{\kf25} feel{\kf44} bad
-Dialogue: 0,0:01:29.86,0:01:33.80,DEFAULT,,0,0,0,,{\kf13}Oh{\kf13} what{\kf13} was{\kf25} I{\kf13} think{\kf19}ing?{\kf7} I{\kf13} made{\kf7} a{\kf19} huge{\kf25}~{\kf7} mis{\kf25}take{\kf13} and{\kf19}~
-Dialogue: 0,0:01:33.98,0:01:36.23,DEFAULT,,0,0,0,,{\kf25}Now{\kf13} there's{\kf25} no{\kf7} go{\kf32}ing{\kf25} back
-Dialogue: 0,0:01:37.80,0:01:39.98,DEFAULT,,0,0,0,,{\kf13}I{\kf13} tried{\kf13} to{\kf13} make{\kf7} it{\kf7} e{\kf7}tern{\kf7}ally{\kf13} night{\kf13}time{\kf7} so
-Dialogue: 0,0:01:40.05,0:01:42.36,DEFAULT,,0,0,0,,{\kf13}I{\kf13} guess{\kf7} I{\kf19} deserve{\kf13} to{\kf13} be{\kf13} locked{\kf13} in{\kf13} the{\kf44} moon
-Dialogue: 0,0:01:42.55,0:01:44.48,DEFAULT,,0,0,0,,{\kf19}For{\kf19} the{\kf13} rest{\kf19} of{\kf19}~{\kf19} time{\kf38}~
-Dialogue: 0,0:01:45.86,0:01:49.17,DEFAULT,,0,0,0,,{\kf13}I'm{\kf7} Sor{\kf32}~{\kf75} ry{\kf32} so{\kf13} sor{\kf25}~{\kf63}ry
-Dialogue: 0,0:01:49.30,0:01:52.17,DEFAULT,,0,0,0,,{\kf13}If{\kf25} I{\kf7} could{\kf19}~{\kf13} I{\kf7} would{\kf7} take{\kf13} it{\kf13}~{\kf7}~{\kf38} back
-Dialogue: 0,0:01:53.86,0:01:57.17,DEFAULT,,0,0,0,,{\kf13}I'm{\kf7} Sor{\kf32}~{\kf75} ry{\kf32} my{\kf13} sis{\kf25}~{\kf63}ter
-Dialogue: 0,0:01:57.30,0:02:00.17,DEFAULT,,0,0,0,,{\kf13}I{\kf13} know{\kf13} I{\kf7} should{\kf7}~{\kf13} n't{\kf19} have{\kf25} done{\kf13}~{\kf13}~{\kf7}~{\kf38} that
-Dialogue: 0,0:02:01.55,0:02:05.17,DEFAULT,,0,0,0,,{\kf19}But{\kf7} wait{\kf19}~{\kf13} on{\kf13} the{\kf13} long{\kf25}~{\kf13}est{\kf32} day
-Dialogue: 0,0:02:05.61,0:02:09.05,DEFAULT,,0,0,0,,{\kf13}Of{\kf13} the{\kf25} thou{\kf13} sandth{\kf38} year{\kf13} the{\kf38} stars{\kf7} will{\kf25} aid
-Dialogue: 0,0:02:09.98,0:02:11.36,DEFAULT,,0,0,0,,{\kf13}In{\kf25} my{\kf13} es{\kf38}cape
-Dialogue: 0,0:02:12.92,0:02:15.86,DEFAULT,,0,0,0,,{\kf7}He{\kf7} he{\kf7} he{\kf7} he{\kf7} he{\kf7} he{\kf7} he{\kf7} he{\kf7} he{\kf7} he{\kf7} he{\kf7} he{\kf19} <breathe>{\kf7} ha{\kf7} ha{\kf7} ha{\kf7} ha{\kf7} ha{\kf7} ha{\kf7} ha{\kf7} ha
-Dialogue: 0,0:02:16.17,0:02:18.55,DEFAULT,,0,0,0,,{\kf7}Ha{\kf7} ha{\kf7} ha{\kf7} ha{\kf7} ha{\kf7} ha{\kf7} ha{\kf7} ha{\kf25} <breathe>{\kf38} <breathe>
-Dialogue: 0,0:02:21.92,0:02:25.23,DEFAULT,,0,0,0,,{\kf13}I'm{\kf13} sor{\kf32}~{\kf75}ry{\kf32} my{\kf13} sis{\kf25}~{\kf63}ter
-Dialogue: 0,0:02:25.61,0:02:28.23,DEFAULT,,0,0,0,,{\kf32}For{\kf13} what{\kf13}~{\kf13} a{\kf25}waits{\kf25}~{\kf38} you
-Dialogue: 0,0:02:29.67,0:02:33.98,DEFAULT,,0,0,0,,{\kf32}I'll{\kf13} get{\kf25} my{\kf57} way{\kf25} there's{\kf13} no{\kf13} more{\kf25}~{\kf38} day{\kf13} the{\kf13} sun{\kf13} will
-Dialogue: 0,0:02:34.17,0:02:36.23,DEFAULT,,0,0,0,,{\kf19}Ne{\kf25}ver{\kf19} shine{\kf19}~{\kf7}~{\kf13} a{\kf32}gain
-Dialogue: 0,0:02:37.92,0:02:39.42,DEFAULT,,0,0,0,,{\kf13}I'm{\kf13} Prin{\kf13}cess{\kf13} Lu{\kf25}na
-Dialogue: 0,0:02:40.17,0:02:41.42,DEFAULT,,0,0,0,,{\kf7}Prin{\kf13}cess{\kf13} freak{\kf13}'in{\kf7} Lu{\kf25}na
-Dialogue: 0,0:02:41.67,0:02:44.23,DEFAULT,,0,0,0,,{\kf13}And{\kf7} you'll{\kf25} get{\kf13} what{\kf19} you{\kf13} de{\kf25}serve
+Dialogue: 0,0:00:23.80,0:00:25.30,DEFAULT,,0,0,0,,{\r}{\kf25}I'm{\kf25} Prin{\kf25}cess{\kf25} Lu{\kf50}na
+Dialogue: 0,0:00:26.05,0:00:27.36,DEFAULT,,0,0,0,,{\r}{\kf11}Prin{\kf22}cess{\kf22} freak{\kf11}'in{\kf22} Lu{\kf43}na
+Dialogue: 0,0:00:27.55,0:00:30.11,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf24} I{\kf12} Think{\kf24} I{\kf12} de{\kf37}serve{\kf24} bet{\kf24}ter{\kf24} than{\kf51} this
+Dialogue: 0,0:00:31.99,0:00:33.86,DEFAULT,,0,0,0,,{\r}{\kf12}I{\kf25} tried{\kf25} to{\kf25} make{\kf12} it{\kf12} e{\kf12}tern{\kf12}ally{\kf25} night{\kf27} time
+Dialogue: 0,0:00:34.05,0:00:36.36,DEFAULT,,0,0,0,,{\r}{\kf20}Does{\kf20}n't{\kf20} mean{\kf10} you{\kf10} can{\kf20} lock{\kf20} me{\kf20} in{\kf20} the{\kf71} moon
+Dialogue: 0,0:00:36.55,0:00:38.55,DEFAULT,,0,0,0,,{\r}{\kf23}For{\kf23}the{\kf23} rest{\kf23} of{\kf31}~{\kf23} time{\kf54}~
+Dialogue: 0,0:00:40.17,0:00:43.11,DEFAULT,,0,0,0,,{\r}{\kf26}May{\kf26}be{\kf13} I{\kf13} should{\kf26}n't{\kf26} have{\kf26} may{\kf26}be{\kf26} it{\kf26} was{\kf13} a{\kf13} mis{\kf34}take
+Dialogue: 0,0:00:43.67,0:00:46.30,DEFAULT,,0,0,0,,{\r}{\kf29}May{\kf29}be{\kf73} I{\kf15} am{\kf58} in{\kf15} the{\kf43} wrong
+Dialogue: 0,0:00:47.86,0:00:49.61,DEFAULT,,0,0,0,,{\r}{\kf12}The{\kf23} Po{\kf35}nies{\kf12} did{\kf23}n't{\kf12} ap{\kf23}pre{\kf12}ci{\kf23}ate
+Dialogue: 0,0:00:49.86,0:00:51.11,DEFAULT,,0,0,0,,{\r}{\kf23}My{\kf23} beau{\kf11}ti{\kf34}ful{\kf34} night
+Dialogue: 0,0:00:51.36,0:00:54.36,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf23} does{\kf23}n't{\kf69} mean{\kf12} I{\kf12} should{\kf23} force{\kf23} them{\kf23}~{\kf69} to
+Dialogue: 0,0:00:55.49,0:00:57.17,DEFAULT,,0,0,0,,{\r}{\kf21}May{\kf21}be{\kf21} Ce{\kf21}les{\kf11}t{\kf11}ia{\kf21} was{\kf21} right{\kf21}~
+Dialogue: 0,0:00:57.42,0:01:00.49,DEFAULT,,0,0,0,,{\r}{\kf11}May{\kf22}be{\kf11} I{\kf11} de{\kf22}serve{\kf11} to{\kf66} be{\kf33} locked{\kf44} in{\kf11} the{\kf64} moon
+Dialogue: 0,0:01:00.67,0:01:02.61,DEFAULT,,0,0,0,,{\r}{\kf18}For{\kf10} the{\kf28} rest{\kf18} of{\kf37}~{\kf83} time
+Dialogue: 0,0:01:04.99,0:01:05.49,DEFAULT,,0,0,0,,{\r}{\kf12}I'm{\kf12} sor{\kf26}ry
+Dialogue: 0,0:01:21.92,0:01:25.36,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf21} guess{\kf21} I{\kf10} should{\kf10}n't{\kf21} of{\kf21} got{\kf83}ten{\kf31} so{\kf31}~{\kf85} mad
+Dialogue: 0,0:01:25.55,0:01:28.42,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf75} now{\kf25}kind{\kf25} of{\kf50} feel{\kf88} bad
+Dialogue: 0,0:01:29.86,0:01:33.80,DEFAULT,,0,0,0,,{\r}{\kf22}Oh{\kf22} what{\kf22} was{\kf44} I{\kf22} think{\kf33}ing?{\kf11} I{\kf22} made{\kf11} a{\kf33} huge{\kf44}~{\kf11} mis{\kf44}take{\kf22} and{\kf31}~
+Dialogue: 0,0:01:33.99,0:01:36.24,DEFAULT,,0,0,0,,{\r}{\kf45}Now{\kf22} there's{\kf45} no{\kf11} go{\kf56}ing{\kf46} back
+Dialogue: 0,0:01:37.80,0:01:39.99,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf26} tried{\kf26} to{\kf26} make{\kf13} it{\kf13} e{\kf13}tern{\kf13}ally{\kf26} night{\kf26}time{\kf11} so
+Dialogue: 0,0:01:40.05,0:01:42.36,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf18} guess{\kf10} I{\kf28} deserve{\kf18} to{\kf18} be{\kf18} locked{\kf18} in{\kf18} the{\kf67} moon
+Dialogue: 0,0:01:42.55,0:01:44.49,DEFAULT,,0,0,0,,{\r}{\kf25}For{\kf25} the{\kf17} rest{\kf25} of{\kf25}~{\kf25} time{\kf52}~
+Dialogue: 0,0:01:45.86,0:01:49.17,DEFAULT,,0,0,0,,{\r}{\kf16}I'm{\kf10} Sor{\kf40}~{\kf97} ry{\kf40} so{\kf16} sor{\kf32}~{\kf80}ry
+Dialogue: 0,0:01:49.30,0:01:52.17,DEFAULT,,0,0,0,,{\r}{\kf23}If{\kf46} I{\kf12} could{\kf35}~{\kf23} I{\kf12} would{\kf12} take{\kf23} it{\kf23}~{\kf12}~{\kf67} back
+Dialogue: 0,0:01:53.86,0:01:57.17,DEFAULT,,0,0,0,,{\r}{\kf16}I'm{\kf10} Sor{\kf40}~{\kf97} ry{\kf40} my{\kf16} sis{\kf32}~{\kf80}ter
+Dialogue: 0,0:01:57.30,0:02:00.17,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21} know{\kf21} I{\kf10} should{\kf10}~{\kf21} n't{\kf31} have{\kf41} done{\kf21}~{\kf21}~{\kf10}~{\kf60} that
+Dialogue: 0,0:02:01.55,0:02:05.17,DEFAULT,,0,0,0,,{\r}{\kf45}But{\kf15} wait{\kf45}~{\kf30} on{\kf30} the{\kf30} long{\kf60}~{\kf30}est{\kf77} day
+Dialogue: 0,0:02:05.61,0:02:09.05,DEFAULT,,0,0,0,,{\r}{\kf24}Of{\kf24} the{\kf47} thou{\kf24} sandth{\kf71} year{\kf24} the{\kf71} stars{\kf12} will{\kf47} aid
+Dialogue: 0,0:02:09.99,0:02:11.36,DEFAULT,,0,0,0,,{\r}{\kf20}In{\kf39} my{\kf20} es{\kf59}cape
+Dialogue: 0,0:02:12.93,0:02:15.86,DEFAULT,,0,0,0,,{\r}{\kf13}He{\kf13} he{\kf13} he{\kf13} he{\kf13} he{\kf13} he{\kf13} he{\kf13} he{\kf13} he{\kf13} he{\kf13} he{\kf13} he{\kf38} <breathe>{\kf13} ha{\kf13} ha{\kf13} ha{\kf13} ha{\kf13} ha{\kf13} ha{\kf13} ha{\kf10} ha
+Dialogue: 0,0:02:16.18,0:02:18.55,DEFAULT,,0,0,0,,{\r}{\kf13}Ha{\kf13} ha{\kf13} ha{\kf13} ha{\kf13} ha{\kf13} ha{\kf13} ha{\kf13} ha{\kf53} <breathe>{\kf81} <breathe>
+Dialogue: 0,0:02:21.93,0:02:25.24,DEFAULT,,0,0,0,,{\r}{\kf16}I'm{\kf16} sor{\kf39}~{\kf95}ry{\kf39} my{\kf16} sis{\kf32}~{\kf78}ter
+Dialogue: 0,0:02:25.61,0:02:28.24,DEFAULT,,0,0,0,,{\r}{\kf52}For{\kf21} what{\kf21}~{\kf21} a{\kf42}waits{\kf42}~{\kf63} you
+Dialogue: 0,0:02:29.68,0:02:33.99,DEFAULT,,0,0,0,,{\r}{\kf49}I'll{\kf20} get{\kf39} my{\kf88} way{\kf39} there's{\kf20} no{\kf20} more{\kf39}~{\kf59} day{\kf20} the{\kf20} sun{\kf18} will
+Dialogue: 0,0:02:34.18,0:02:36.24,DEFAULT,,0,0,0,,{\r}{\kf29}Ne{\kf39}ver{\kf29} shine{\kf29}~{\kf10}~{\kf20} a{\kf50}gain
+Dialogue: 0,0:02:37.93,0:02:39.43,DEFAULT,,0,0,0,,{\r}{\kf25}I'm{\kf25} Prin{\kf25}cess{\kf25} Lu{\kf50}na
+Dialogue: 0,0:02:40.18,0:02:41.43,DEFAULT,,0,0,0,,{\r}{\kf10}Prin{\kf21}cess{\kf21} freak{\kf21}'in{\kf10} Lu{\kf42}na
+Dialogue: 0,0:02:41.68,0:02:44.24,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf14} you'll{\kf57} get{\kf28} what{\kf43} you{\kf28} de{\kf58}serve

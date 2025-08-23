@@ -1,43 +1,50 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Celestia's in my Washing Machine
+Artist: Quicksilver
+Original Timing: mylittlekaraoke.com by ShTHfan1
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.87,0:00:11.67,DEFAULT,,0,0,0,,{\kf23}So{\kf15} let{\kf12} me{\kf23} be{\kf30} ho{\kf42}nest
-Dialogue: 0,0:00:12.27,0:00:14.59,DEFAULT,,0,0,0,,{\kf23}You{\kf12} real{\kf12}ly{\kf23} can’t{\kf38} stay{\kf38} here,{\kf49} no
-Dialogue: 0,0:00:15.27,0:00:17.37,DEFAULT,,0,0,0,,{\kf23}Ex{\kf38}cuse{\kf23} my{\kf23} im{\kf23}pa{\kf23}tience,{\kf15} but
-Dialogue: 0,0:00:17.67,0:00:20.07,DEFAULT,,0,0,0,,{\kf23}I{\kf15} real{\kf23}ly{\kf23} just{\kf23} don’t{\kf23} know{\kf15} you{\kf15} that{\kf30} well
-Dialogue: 0,0:00:20.37,0:00:22.47,DEFAULT,,0,0,0,,{\kf38}Why{\kf23} did{\kf23} you{\kf23} choose{\kf23} my{\kf38} house
-Dialogue: 0,0:00:22.77,0:00:24.27,DEFAULT,,0,0,0,,{\kf38}Now{\kf23} of{\kf38} all{\kf30} times?
-Dialogue: 0,0:00:24.87,0:00:26.82,DEFAULT,,0,0,0,,{\kf23}I’m{\kf15} try{\kf12}ing{\kf12} to{\kf23} do{\kf23} my{\kf60} chores
-Dialogue: 0,0:00:27.12,0:00:29.14,DEFAULT,,0,0,0,,{\kf15}So{\kf19} just{\kf15} let{\kf15} me{\kf27} live{\kf23} my{\kf38} life
-Dialogue: 0,0:00:29.97,0:00:31.92,DEFAULT,,0,0,0,,{\kf23}Where{\kf12} am{\kf30} I{\kf15} gon{\kf12}na{\kf12} do{\kf15} my{\kf30} clothes?
-Dialogue: 0,0:00:32.07,0:00:34.50,DEFAULT,,0,0,0,,{\kf15}I{\kf23} pro{\kf19}mise{\kf23} that{\kf23} my{\kf19} eyes{\kf23} are{\kf45} closed
-Dialogue: 0,0:00:34.65,0:00:37.05,DEFAULT,,0,0,0,,{\kf15}De{\kf15}ter{\kf23}gent{\kf23} is{\kf23} so{\kf23} damn{\kf23} ex{\kf23}pen{\kf30}sive
-Dialogue: 0,0:00:37.20,0:00:39.45,DEFAULT,,0,0,0,,{\kf15}Weak{\kf19} ex{\kf23}cu{\kf23}ses{\kf23} are{\kf23} ex{\kf23}ten{\kf30}sive
-Dialogue: 0,0:00:39.60,0:00:41.85,DEFAULT,,0,0,0,,{\kf23}Real{\kf15}ly{\kf27} need{\kf15} to{\kf15} do{\kf23} my{\kf30} laun{\kf23}dry
-Dialogue: 0,0:00:42.00,0:00:44.10,DEFAULT,,0,0,0,,{\kf23}Run{\kf15}ning{\kf27} low{\kf15} on{\kf19} time,{\kf23} I’m{\kf23} sor{\kf15}ry
-Dialogue: 0,0:00:44.25,0:00:46.35,DEFAULT,,0,0,0,,{\kf12}I{\kf15} real{\kf19}ly{\kf30} wish{\kf23} she’d{\kf15} leave{\kf19} me{\kf30} be
-Dialogue: 0,0:00:46.54,0:00:49.05,DEFAULT,,0,0,0,,{\kf12}But{\kf12} Ce{\kf12}les{\kf12}ti{\kf19}a’s{\kf23} in{\kf23} my{\kf15} wash{\kf15}ing{\kf19} ma{\kf45}chine
-Dialogue: 0,0:01:08.70,0:01:10.65,DEFAULT,,0,0,0,,{\kf15}Just{\kf8} a{\kf15}no{\kf8}ther{\kf23} quick{\kf23} spin{\kf23} cy{\kf45}cle
-Dialogue: 0,0:01:10.95,0:01:12.90,DEFAULT,,0,0,0,,{\kf15}A{\kf15}no{\kf12}ther{\kf23} rinse,{\kf12} then{\kf12} you{\kf23} have{\kf8} to{\kf45} go
-Dialogue: 0,0:01:13.20,0:01:15.15,DEFAULT,,0,0,0,,{\kf23}Sor{\kf23}ry{\kf23} that{\kf23} I’m{\kf23} rush{\kf23}ing{\kf15} you
-Dialogue: 0,0:01:15.30,0:01:18.15,DEFAULT,,0,0,0,,{\kf23}I’m{\kf23} sor{\kf23}ry{\kf23} that{\kf23} I’m{\kf23} rush{\kf23}ing{\kf30} you{\kf38}~
-Dialogue: 0,0:01:18.30,0:01:20.40,DEFAULT,,0,0,0,,{\kf15}Can’t{\kf8} you{\kf23} please{\kf23} move{\kf23} to{\kf15} the{\kf19} sho{\kf45}wer?
-Dialogue: 0,0:01:20.55,0:01:22.65,DEFAULT,,0,0,0,,{\kf12}A{\kf19} rude{\kf23} ges{\kf23}ture’s{\kf23} how{\kf15} you{\kf23} ans{\kf30}wer
-Dialogue: 0,0:01:22.80,0:01:24.75,DEFAULT,,0,0,0,,{\kf27}Sor{\kf23}ry{\kf23} that{\kf23} I’m{\kf23} rush{\kf23}ing{\kf15} you
-Dialogue: 0,0:01:24.90,0:01:27.23,DEFAULT,,0,0,0,,{\kf23}I’ve{\kf23} got{\kf23} some{\kf23} things{\kf23} I{\kf23} need{\kf23} to{\kf23} do
-Dialogue: 0,0:01:27.60,0:01:29.55,DEFAULT,,0,0,0,,{\kf23}Where{\kf15} am{\kf23} I{\kf15} gon{\kf8}na{\kf15} do{\kf23} my{\kf19} clothes?
-Dialogue: 0,0:01:29.70,0:01:32.18,DEFAULT,,0,0,0,,{\kf15}I{\kf23} pro{\kf23}mise{\kf19} that{\kf23} my{\kf23} eyes{\kf23} are{\kf45} closed
-Dialogue: 0,0:01:32.33,0:01:34.73,DEFAULT,,0,0,0,,{\kf15}De{\kf15}ter{\kf23}gent{\kf23} is{\kf23} so{\kf23} damn{\kf23} ex{\kf23}pen{\kf30}sive
-Dialogue: 0,0:01:34.88,0:01:37.13,DEFAULT,,0,0,0,,{\kf15}Weak{\kf19} ex{\kf23}cu{\kf23}ses{\kf23} are{\kf23} ex{\kf23}ten{\kf30}sive
-Dialogue: 0,0:01:37.28,0:01:39.53,DEFAULT,,0,0,0,,{\kf23}Real{\kf15}ly{\kf27} need{\kf12} to{\kf23} do{\kf23} my{\kf23} laun{\kf30}dry
-Dialogue: 0,0:01:39.68,0:01:41.78,DEFAULT,,0,0,0,,{\kf23}Run{\kf12}ning{\kf23} low{\kf23} on{\kf23} time,{\kf23} I’m{\kf23} sor{\kf15}ry
-Dialogue: 0,0:01:41.93,0:01:44.03,DEFAULT,,0,0,0,,{\kf12}I{\kf12} real{\kf23}ly{\kf30} wish{\kf23} she’d{\kf15} leave{\kf19} me{\kf30} be
-Dialogue: 0,0:01:44.18,0:01:46.73,DEFAULT,,0,0,0,,{\kf15}But{\kf12} Ce{\kf12}les{\kf15}ti{\kf19}a’s{\kf23} in{\kf23} my{\kf15} wash{\kf15}ing{\kf19} ma{\kf45}chine
+Dialogue: 0,0:00:09.87,0:00:11.67,DEFAULT,,0,0,0,,{\r}{\kf28}So{\kf19} let{\kf14} me{\kf28} be{\kf38} ho{\kf53}nest
+Dialogue: 0,0:00:12.27,0:00:14.60,DEFAULT,,0,0,0,,{\r}{\kf27}You{\kf14} real{\kf14}ly{\kf27} can’t{\kf45} stay{\kf45} here,{\kf60} no
+Dialogue: 0,0:00:15.27,0:00:17.37,DEFAULT,,0,0,0,,{\r}{\kf29}Ex{\kf48}cuse{\kf29} my{\kf29} im{\kf29}pa{\kf29}tience,{\kf17} but
+Dialogue: 0,0:00:17.67,0:00:20.07,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf19} real{\kf29}ly{\kf29} just{\kf29} don’t{\kf29} know{\kf19} you{\kf19} that{\kf38} well
+Dialogue: 0,0:00:20.37,0:00:22.47,DEFAULT,,0,0,0,,{\r}{\kf48}Why{\kf29} did{\kf29} you{\kf29} choose{\kf29} my{\kf46} house
+Dialogue: 0,0:00:22.77,0:00:24.27,DEFAULT,,0,0,0,,{\r}{\kf44}Now{\kf26} of{\kf44} all{\kf36} times?
+Dialogue: 0,0:00:24.87,0:00:26.82,DEFAULT,,0,0,0,,{\r}{\kf27}I’m{\kf18} try{\kf13}ing{\kf13} to{\kf27} do{\kf27} my{\kf70} chores
+Dialogue: 0,0:00:27.12,0:00:29.15,DEFAULT,,0,0,0,,{\r}{\kf20}So{\kf25} just{\kf20} let{\kf20} me{\kf35} live{\kf30} my{\kf52} life
+Dialogue: 0,0:00:29.97,0:00:31.92,DEFAULT,,0,0,0,,{\r}{\kf30}Where{\kf15} am{\kf40} I{\kf20} gon{\kf15}na{\kf15} do{\kf20} my{\kf40} clothes?
+Dialogue: 0,0:00:32.07,0:00:34.51,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf29} pro{\kf24}mise{\kf29} that{\kf29} my{\kf24} eyes{\kf29} are{\kf60} closed
+Dialogue: 0,0:00:34.66,0:00:37.06,DEFAULT,,0,0,0,,{\r}{\kf18}De{\kf18}ter{\kf28}gent{\kf28} is{\kf28} so{\kf28} damn{\kf28} ex{\kf28}pen{\kf36}sive
+Dialogue: 0,0:00:37.21,0:00:39.46,DEFAULT,,0,0,0,,{\r}{\kf19}Weak{\kf24} ex{\kf29}cu{\kf29}ses{\kf29} are{\kf29} ex{\kf29}ten{\kf37}sive
+Dialogue: 0,0:00:39.61,0:00:41.86,DEFAULT,,0,0,0,,{\r}{\kf30}Real{\kf20}ly{\kf35} need{\kf20} to{\kf20} do{\kf30} my{\kf40} laun{\kf30}dry
+Dialogue: 0,0:00:42.01,0:00:44.11,DEFAULT,,0,0,0,,{\r}{\kf30}Run{\kf20}ning{\kf35} low{\kf20} on{\kf25} time,{\kf30} I’m{\kf30} sor{\kf20}ry
+Dialogue: 0,0:00:44.26,0:00:46.36,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf20} real{\kf24}ly{\kf39} wish{\kf29} she’d{\kf20} leave{\kf24} me{\kf39} be
+Dialogue: 0,0:00:46.55,0:00:49.06,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf14} Ce{\kf14}les{\kf14}ti{\kf23}a’s{\kf28} in{\kf28} my{\kf19} wash{\kf19}ing{\kf23} ma{\kf55}chine
+Dialogue: 0,0:01:08.71,0:01:10.66,DEFAULT,,0,0,0,,{\r}{\kf19}Just{\kf10} a{\kf19}no{\kf10}ther{\kf28} quick{\kf28} spin{\kf28} cy{\kf53}cle
+Dialogue: 0,0:01:10.96,0:01:12.91,DEFAULT,,0,0,0,,{\r}{\kf18}A{\kf18}no{\kf14}ther{\kf27} rinse,{\kf14} then{\kf14} you{\kf27} have{\kf10} to{\kf53} go
+Dialogue: 0,0:01:13.21,0:01:15.16,DEFAULT,,0,0,0,,{\r}{\kf29}Sor{\kf29}ry{\kf29} that{\kf29} I’m{\kf29} rush{\kf29}ing{\kf21} you
+Dialogue: 0,0:01:15.31,0:01:18.16,DEFAULT,,0,0,0,,{\r}{\kf28}I’m{\kf28} sor{\kf28}ry{\kf28} that{\kf28} I’m{\kf28} rush{\kf28}ing{\kf38} you{\kf51}~
+Dialogue: 0,0:01:18.31,0:01:20.41,DEFAULT,,0,0,0,,{\r}{\kf19}Can’t{\kf10} you{\kf28} please{\kf28} move{\kf28} to{\kf19} the{\kf23} sho{\kf55}wer?
+Dialogue: 0,0:01:20.56,0:01:22.66,DEFAULT,,0,0,0,,{\r}{\kf14}A{\kf24} rude{\kf29} ges{\kf29}ture’s{\kf29} how{\kf19} you{\kf29} ans{\kf37}wer
+Dialogue: 0,0:01:22.81,0:01:24.76,DEFAULT,,0,0,0,,{\r}{\kf33}Sor{\kf29}ry{\kf29} that{\kf29} I’m{\kf29} rush{\kf29}ing{\kf17} you
+Dialogue: 0,0:01:24.91,0:01:27.23,DEFAULT,,0,0,0,,{\r}{\kf29}I’ve{\kf29} got{\kf29} some{\kf29} things{\kf29} I{\kf29} need{\kf29} to{\kf30} do
+Dialogue: 0,0:01:27.61,0:01:29.56,DEFAULT,,0,0,0,,{\r}{\kf32}Where{\kf21} am{\kf32} I{\kf21} gon{\kf11}na{\kf21} do{\kf32} my{\kf25} clothes?
+Dialogue: 0,0:01:29.71,0:01:32.18,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf29} pro{\kf29}mise{\kf24} that{\kf29} my{\kf29} eyes{\kf29} are{\kf59} closed
+Dialogue: 0,0:01:32.33,0:01:34.73,DEFAULT,,0,0,0,,{\r}{\kf18}De{\kf18}ter{\kf28}gent{\kf28} is{\kf28} so{\kf28} damn{\kf28} ex{\kf28}pen{\kf36}sive
+Dialogue: 0,0:01:34.88,0:01:37.13,DEFAULT,,0,0,0,,{\r}{\kf19}Weak{\kf24} ex{\kf29}cu{\kf29}ses{\kf29} are{\kf29} ex{\kf29}ten{\kf37}sive
+Dialogue: 0,0:01:37.28,0:01:39.53,DEFAULT,,0,0,0,,{\r}{\kf29}Real{\kf20}ly{\kf34} need{\kf15} to{\kf29} do{\kf29} my{\kf29} laun{\kf40}dry
+Dialogue: 0,0:01:39.68,0:01:41.78,DEFAULT,,0,0,0,,{\r}{\kf29}Run{\kf15}ning{\kf29} low{\kf29} on{\kf29} time,{\kf29} I’m{\kf29} sor{\kf21}ry
+Dialogue: 0,0:01:41.93,0:01:44.03,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf15} real{\kf29}ly{\kf39} wish{\kf29} she’d{\kf20} leave{\kf24} me{\kf39} be
+Dialogue: 0,0:01:44.18,0:01:46.73,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf14} Ce{\kf14}les{\kf18}ti{\kf23}a’s{\kf27} in{\kf27} my{\kf18} wash{\kf18}ing{\kf23} ma{\kf55}chine

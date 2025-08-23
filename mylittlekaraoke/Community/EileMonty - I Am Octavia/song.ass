@@ -1,58 +1,65 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: I Am Octavia
+Artist: EileMonty
+Original Timing: mylittlekaraoke.com by amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.91,0:00:02.27,DEFAULT,,0,0,0,,{\kf12}I{\kf12} comb{\kf12} the{\kf12} crowd{\kf19}~{\kf35}~
-Dialogue: 0,0:00:03.63,0:00:07.94,DEFAULT,,0,0,0,,{\kf16}But{\kf23} I{\kf23}~{\kf8}~{\kf12} can't{\kf35} see{\kf23} your{\kf19} face{\kf12} out{\kf8} there{\kf19}~,{\kf23} no{\kf16}~
-Dialogue: 0,0:00:08.77,0:00:10.13,DEFAULT,,0,0,0,,{\kf12}I'm{\kf12} play{\kf12}ing{\kf12} now{\kf19}~{\kf35}~
-Dialogue: 0,0:00:10.74,0:00:13.20,DEFAULT,,0,0,0,,{\kf12}Won't{\kf8} wait{\kf12} on{\kf69}~{\kf76} love
-Dialogue: 0,0:00:16.64,0:00:18.08,DEFAULT,,0,0,0,,{\kf12}I'm{\kf12} par{\kf12}a{\kf12}lyzed{\kf19}~{\kf42}~
-Dialogue: 0,0:00:19.18,0:00:23.03,DEFAULT,,0,0,0,,{\kf16}From{\kf23} all{\kf19}~{\kf8}~{\kf8} these{\kf16} whis{\kf38}pers{\kf8} in{\kf8} my{\kf16} brain{\kf35}~
-Dialogue: 0,0:00:24.51,0:00:25.87,DEFAULT,,0,0,0,,{\kf12}I'm{\kf12} fo{\kf12}cused{\kf8} now{\kf16}~{\kf35}~
-Dialogue: 0,0:00:26.51,0:00:28.44,DEFAULT,,0,0,0,,{\kf12} I{\kf16} won't{\kf12} give{\kf80}~{\kf23} up
-Dialogue: 0,0:00:32.38,0:00:33.47,DEFAULT,,0,0,0,,{\kf12}I'm{\kf12} res{\kf8}o{\kf35}nant
-Dialogue: 0,0:00:34.31,0:00:35.78,DEFAULT,,0,0,0,,{\kf12}Won't{\kf12} stop{\kf16} for{\kf12}~{\kf42} you
-Dialogue: 0,0:00:36.58,0:00:39.72,DEFAULT,,0,0,0,,{\kf12}Play{\kf12}ing{\kf12} a{\kf27}way{\kf23}~{\kf31} play{\kf12}ing{\kf12} a{\kf38}way
-Dialogue: 0,0:00:40.25,0:00:41.68,DEFAULT,,0,0,0,,{\kf12}You{\kf12} play{\kf12} your{\kf69} games
-Dialogue: 0,0:00:42.21,0:00:43.65,DEFAULT,,0,0,0,,{\kf12}You{\kf12} bring{\kf31} me{\kf46} pain
-Dialogue: 0,0:00:44.44,0:00:47.58,DEFAULT,,0,0,0,,{\kf12}Play{\kf12}ing{\kf12} a{\kf23}way{\kf23}~{\kf27} play{\kf16}ing{\kf12} a{\kf42}way
-Dialogue: 0,0:00:48.11,0:00:49.13,DEFAULT,,0,0,0,,{\kf12}You{\kf12} hurt{\kf8} me{\kf27} now
-Dialogue: 0,0:00:50.08,0:00:51.40,DEFAULT,,0,0,0,,{\kf8}But{\kf12} I{\kf12} won't{\kf12}~{\kf35} cry
-Dialogue: 0,0:00:52.27,0:00:55.34,DEFAULT,,0,0,0,,{\kf12}I{\kf12} am{\kf12} Oc{\kf16}ta{\kf61}~{\kf42}vi{\kf12}~{\kf12}~{\kf19}~{\kf27}a
-Dialogue: 0,0:00:55.98,0:00:57.00,DEFAULT,,0,0,0,,{\kf12}You{\kf12} hurt{\kf8} me{\kf27} now
-Dialogue: 0,0:00:57.87,0:00:59.61,DEFAULT,,0,0,0,,{\kf19}But{\kf12} I{\kf12} won't{\kf12}~{\kf46} cry{\kf27}~
-Dialogue: 0,0:01:00.14,0:01:03.36,DEFAULT,,0,0,0,,{\kf12}I{\kf12} am{\kf12} Oc{\kf16}ta{\kf35}~{\kf8}vi{\kf46}~{\kf38}a
-Dialogue: 0,0:01:08.05,0:01:09.15,DEFAULT,,0,0,0,,{\kf12}Ditch{\kf12} me{\kf8} now{\kf19}~{\kf35}~
-Dialogue: 0,0:01:10.28,0:01:14.86,DEFAULT,,0,0,0,,{\kf12}But{\kf16} it's{\kf23} you{\kf12}~{\kf12} who'll{\kf61} have{\kf19} lost{\kf12} it{\kf12} all{\kf19}~,{\kf27} yeah{\kf16}~
-Dialogue: 0,0:01:15.88,0:01:20.08,DEFAULT,,0,0,0,,{\kf27}Lost{\kf12} now{\kf19}~{\kf35}~{\kf12} and{\kf23} bleed{\kf12}ing{\kf50}~{\kf69} love
-Dialogue: 0,0:01:23.78,0:01:25.07,DEFAULT,,0,0,0,,{\kf12}Rain{\kf12} it{\kf12} pours{\kf19}~{\kf53}~
-Dialogue: 0,0:01:26.24,0:01:30.37,DEFAULT,,0,0,0,,{\kf12}But{\kf19} I{\kf23}~{\kf8}~{\kf12} won't{\kf35} let{\kf19} it{\kf27} bring{\kf23} me{\kf19} down{\kf16}~,{\kf42} no
-Dialogue: 0,0:01:31.39,0:01:32.75,DEFAULT,,0,0,0,,{\kf12}I'm{\kf12} play{\kf12}ing{\kf8} now{\kf16}~{\kf35}~
-Dialogue: 0,0:01:33.39,0:01:35.89,DEFAULT,,0,0,0,,{\kf12}Won't{\kf16} wait{\kf12} on{\kf72}~{\kf80} love
-Dialogue: 0,0:01:39.26,0:01:40.39,DEFAULT,,0,0,0,,{\kf12}I'm{\kf12} res{\kf8}o{\kf38}nant
-Dialogue: 0,0:01:41.18,0:01:42.74,DEFAULT,,0,0,0,,{\kf12}Won't{\kf12} stop{\kf16} for{\kf12}~{\kf50} you
-Dialogue: 0,0:01:43.45,0:01:46.56,DEFAULT,,0,0,0,,{\kf12}Play{\kf12}ing{\kf12} a{\kf27}way{\kf23}~{\kf31} play{\kf12}ing{\kf12} a{\kf42}way
-Dialogue: 0,0:01:47.12,0:01:50.53,DEFAULT,,0,0,0,,{\kf12}You{\kf12} play{\kf12} your{\kf69} games,{\kf12} you{\kf12} bring{\kf31} me{\kf46} pain
-Dialogue: 0,0:01:51.32,0:01:54.42,DEFAULT,,0,0,0,,{\kf12}Play{\kf12}ing{\kf12} a{\kf23}way{\kf23}~{\kf27} play{\kf16}ing{\kf12} a{\kf42}way
-Dialogue: 0,0:01:54.99,0:01:58.55,DEFAULT,,0,0,0,,{\kf12}You{\kf12} hurt{\kf8} me{\kf57} now{\kf8} but{\kf12} I{\kf12} won't{\kf12}~{\kf61} cry
-Dialogue: 0,0:01:59.15,0:02:02.37,DEFAULT,,0,0,0,,{\kf12}I{\kf12} am{\kf12} Oc{\kf19}ta{\kf61}~{\kf42}vi{\kf12}~{\kf12}~{\kf19}~{\kf46}a
-Dialogue: 0,0:02:02.82,0:02:06.49,DEFAULT,,0,0,0,,{\kf12}You{\kf12} hurt{\kf8} me{\kf50} now{\kf12} but{\kf12} I{\kf12} won't{\kf12}~{\kf50} cry{\kf23}~
-Dialogue: 0,0:02:07.02,0:02:13.57,DEFAULT,,0,0,0,,{\kf12}I{\kf12} am{\kf12} Oc{\kf19}ta{\kf72}~{\kf8}vi{\kf42}~{\kf8}~{\kf8}~{\kf19}~{\kf140}a{\kf23}~{\kf27}~{\kf182}~
-Dialogue: 0,0:02:14.93,0:02:21.17,DEFAULT,,0,0,0,,{\kf12}I{\kf12} am{\kf12} Oc{\kf19}ta{\kf61}~{\kf8}vi{\kf35}~{\kf16}~{\kf8}~{\kf19}~{\kf148}a{\kf19}~{\kf23}~{\kf156}~
-Dialogue: 0,0:02:22.79,0:02:26.09,DEFAULT,,0,0,0,,{\kf12}I{\kf12} am{\kf12} Oc{\kf23}ta{\kf50}~{\kf12}vi{\kf38}~{\kf12}~{\kf8}~{\kf16}~{\kf57}a
-Dialogue: 0,0:02:46.40,0:02:49.16,DEFAULT,,0,0,0,,{\kf38}Born{\kf35} strong{\kf12} be{\kf35}lieve{\kf27} none
-Dialogue: 0,0:02:50.33,0:02:52.75,DEFAULT,,0,0,0,,{\kf16}Dy{\kf8}ing{\kf12} o{\kf8}ver{\kf16} bro{\kf8}ken{\kf12}~{\kf46} dreams
-Dialogue: 0,0:02:54.23,0:02:55.06,DEFAULT,,0,0,0,,{\kf31}Born{\kf35} strong
-Dialogue: 0,0:02:56.01,0:03:00.92,DEFAULT,,0,0,0,,{\kf8}And{\kf27} raised{\kf19} with{\kf8} class{\kf46}~{\kf8}~{\kf42}~{\kf8}~{\kf50}~{\kf42} so{\kf31}~{\kf35} yeah{\kf12}~{\kf12}~{\kf46}~
-Dialogue: 0,0:03:01.87,0:03:05.39,DEFAULT,,0,0,0,,{\kf12}You{\kf12} hurt{\kf8} me{\kf57} now{\kf8} but{\kf12} I{\kf12} won't{\kf12}~{\kf53} cry
-Dialogue: 0,0:03:06.07,0:03:09.28,DEFAULT,,0,0,0,,{\kf12}I{\kf12} am{\kf12} Oc{\kf19}ta{\kf61}~{\kf53}vi{\kf12}~{\kf12}~{\kf19}~{\kf46}a
-Dialogue: 0,0:03:09.74,0:03:13.41,DEFAULT,,0,0,0,,{\kf12}You{\kf12} hurt{\kf8} me{\kf50} now{\kf12} but{\kf12} I{\kf8} won't{\kf12}~{\kf50} cry{\kf23}~
-Dialogue: 0,0:03:13.94,0:03:17.15,DEFAULT,,0,0,0,,{\kf12}I{\kf12} am{\kf12} Oc{\kf16}ta{\kf57}~{\kf16}vi{\kf38}~{\kf12}~{\kf8}~{\kf23}~{\kf46}a
-Dialogue: 0,0:03:17.57,0:03:21.16,DEFAULT,,0,0,0,,{\kf12}You{\kf8} hurt{\kf12} me{\kf38} now,{\kf8} but{\kf8} I{\kf8} won't{\kf16}~{\kf50} cry
+Dialogue: 0,0:00:00.91,0:00:02.27,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} comb{\kf16} the{\kf16} crowd{\kf26}~{\kf46}~
+Dialogue: 0,0:00:03.63,0:00:07.95,DEFAULT,,0,0,0,,{\r}{\kf28}But{\kf42} I{\kf42}~{\kf14}~{\kf21} can't{\kf64} see{\kf42} your{\kf35} face{\kf21} out{\kf14} there{\kf35}~,{\kf42} no{\kf31}~
+Dialogue: 0,0:00:08.78,0:00:10.14,DEFAULT,,0,0,0,,{\r}{\kf16}I'm{\kf16} play{\kf16}ing{\kf16} now{\kf26}~{\kf46}~
+Dialogue: 0,0:00:10.75,0:00:13.20,DEFAULT,,0,0,0,,{\r}{\kf16}Won't{\kf11} wait{\kf16} on{\kf96}~{\kf107} love
+Dialogue: 0,0:00:16.65,0:00:18.08,DEFAULT,,0,0,0,,{\r}{\kf15}I'm{\kf15} par{\kf15}a{\kf15}lyzed{\kf26}~{\kf58}~
+Dialogue: 0,0:00:19.18,0:00:23.04,DEFAULT,,0,0,0,,{\r}{\kf31}From{\kf46} all{\kf39}~{\kf15}~{\kf15} these{\kf31} whis{\kf77}pers{\kf15} in{\kf15} my{\kf31} brain{\kf71}~
+Dialogue: 0,0:00:24.51,0:00:25.88,DEFAULT,,0,0,0,,{\r}{\kf17}I'm{\kf17} fo{\kf17}cused{\kf11} now{\kf23}~{\kf51}~
+Dialogue: 0,0:00:26.52,0:00:28.45,DEFAULT,,0,0,0,,{\r}{\kf16} I{\kf21} won't{\kf16} give{\kf110}~{\kf30} up
+Dialogue: 0,0:00:32.38,0:00:33.48,DEFAULT,,0,0,0,,{\r}{\kf19}I'm{\kf19} res{\kf13}o{\kf59}nant
+Dialogue: 0,0:00:34.31,0:00:35.79,DEFAULT,,0,0,0,,{\r}{\kf18}Won't{\kf18} stop{\kf25} for{\kf18}~{\kf69} you
+Dialogue: 0,0:00:36.58,0:00:39.72,DEFAULT,,0,0,0,,{\r}{\kf20}Play{\kf20}ing{\kf20} a{\kf48}way{\kf41}~{\kf55} play{\kf20}ing{\kf20} a{\kf70}way
+Dialogue: 0,0:00:40.25,0:00:41.69,DEFAULT,,0,0,0,,{\r}{\kf16}You{\kf16} play{\kf16} your{\kf96} games
+Dialogue: 0,0:00:42.22,0:00:43.65,DEFAULT,,0,0,0,,{\r}{\kf17}You{\kf17} bring{\kf44} me{\kf66} pain
+Dialogue: 0,0:00:44.45,0:00:47.59,DEFAULT,,0,0,0,,{\r}{\kf20}Play{\kf20}ing{\kf20} a{\kf41}way{\kf41}~{\kf48} play{\kf27}ing{\kf20} a{\kf77}way
+Dialogue: 0,0:00:48.12,0:00:49.14,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf20} hurt{\kf14} me{\kf48} now
+Dialogue: 0,0:00:50.09,0:00:51.41,DEFAULT,,0,0,0,,{\r}{\kf13}But{\kf20} I{\kf20} won't{\kf20}~{\kf59} cry
+Dialogue: 0,0:00:52.28,0:00:55.34,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} am{\kf16} Oc{\kf21}ta{\kf84}~{\kf58}vi{\kf16}~{\kf16}~{\kf26}~{\kf37}a
+Dialogue: 0,0:00:55.99,0:00:57.01,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf20} hurt{\kf14} me{\kf48} now
+Dialogue: 0,0:00:57.88,0:00:59.62,DEFAULT,,0,0,0,,{\r}{\kf26}But{\kf16} I{\kf16} won't{\kf16}~{\kf63} cry{\kf37}~
+Dialogue: 0,0:01:00.15,0:01:03.36,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21} am{\kf21} Oc{\kf28}ta{\kf63}~{\kf14}vi{\kf84}~{\kf70}a
+Dialogue: 0,0:01:08.05,0:01:09.15,DEFAULT,,0,0,0,,{\r}{\kf15}Ditch{\kf15} me{\kf10} now{\kf25}~{\kf45}~
+Dialogue: 0,0:01:10.29,0:01:14.86,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf30} it's{\kf44} you{\kf22}~{\kf22} who'll{\kf118} have{\kf37} lost{\kf22} it{\kf22} all{\kf37}~,{\kf52} yeah{\kf30}~
+Dialogue: 0,0:01:15.88,0:01:20.08,DEFAULT,,0,0,0,,{\r}{\kf44}Lost{\kf19} now{\kf31}~{\kf56}~{\kf19} and{\kf38} bleed{\kf19}ing{\kf81}~{\kf113} love
+Dialogue: 0,0:01:23.79,0:01:25.08,DEFAULT,,0,0,0,,{\r}{\kf14}Rain{\kf14} it{\kf14} pours{\kf23}~{\kf64}~
+Dialogue: 0,0:01:26.25,0:01:30.37,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf31} I{\kf37}~{\kf12}~{\kf19} won't{\kf56} let{\kf31} it{\kf44} bring{\kf37} me{\kf31} down{\kf25}~,{\kf70} no
+Dialogue: 0,0:01:31.39,0:01:32.75,DEFAULT,,0,0,0,,{\r}{\kf17}I'm{\kf17} play{\kf17}ing{\kf11} now{\kf23}~{\kf51}~
+Dialogue: 0,0:01:33.40,0:01:35.89,DEFAULT,,0,0,0,,{\r}{\kf15}Won't{\kf20} wait{\kf15} on{\kf95}~{\kf105} love
+Dialogue: 0,0:01:39.26,0:01:40.40,DEFAULT,,0,0,0,,{\r}{\kf19}I'm{\kf19} res{\kf13}o{\kf62}nant
+Dialogue: 0,0:01:41.19,0:01:42.74,DEFAULT,,0,0,0,,{\r}{\kf18}Won't{\kf18} stop{\kf24} for{\kf18}~{\kf77} you
+Dialogue: 0,0:01:43.46,0:01:46.56,DEFAULT,,0,0,0,,{\r}{\kf20}Play{\kf20}ing{\kf20} a{\kf46}way{\kf40}~{\kf53} play{\kf20}ing{\kf20} a{\kf71}way
+Dialogue: 0,0:01:47.13,0:01:50.53,DEFAULT,,0,0,0,,{\r}{\kf19}You{\kf19} play{\kf19} your{\kf115} games,{\kf19} you{\kf19} bring{\kf51} me{\kf79} pain
+Dialogue: 0,0:01:51.33,0:01:54.43,DEFAULT,,0,0,0,,{\r}{\kf20}Play{\kf20}ing{\kf20} a{\kf40}way{\kf40}~{\kf47} play{\kf27}ing{\kf20} a{\kf76}way
+Dialogue: 0,0:01:55.00,0:01:58.55,DEFAULT,,0,0,0,,{\r}{\kf21}You{\kf21} hurt{\kf14} me{\kf107} now{\kf14} but{\kf21} I{\kf21} won't{\kf21}~{\kf116} cry
+Dialogue: 0,0:01:59.16,0:02:02.37,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf15} am{\kf15} Oc{\kf25}ta{\kf80}~{\kf55}vi{\kf15}~{\kf15}~{\kf25}~{\kf62}a
+Dialogue: 0,0:02:02.83,0:02:06.50,DEFAULT,,0,0,0,,{\r}{\kf21}You{\kf21} hurt{\kf14} me{\kf92} now{\kf21} but{\kf21} I{\kf21} won't{\kf21}~{\kf92} cry{\kf43}~
+Dialogue: 0,0:02:07.03,0:02:13.57,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf13} am{\kf13} Oc{\kf21}ta{\kf81}~{\kf10}vi{\kf47}~{\kf10}~{\kf10}~{\kf21}~{\kf158}a{\kf26}~{\kf30}~{\kf201}~
+Dialogue: 0,0:02:14.93,0:02:21.17,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf13} am{\kf13} Oc{\kf22}ta{\kf70}~{\kf10}vi{\kf39}~{\kf17}~{\kf10}~{\kf22}~{\kf170}a{\kf22}~{\kf26}~{\kf177}~
+Dialogue: 0,0:02:22.80,0:02:26.09,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf15} am{\kf15} Oc{\kf30}ta{\kf66}~{\kf15}vi{\kf51}~{\kf15}~{\kf10}~{\kf20}~{\kf77}a
+Dialogue: 0,0:02:46.40,0:02:49.17,DEFAULT,,0,0,0,,{\r}{\kf73}Born{\kf65} strong{\kf22} be{\kf65}lieve{\kf51} none
+Dialogue: 0,0:02:50.34,0:02:52.76,DEFAULT,,0,0,0,,{\r}{\kf30}Dy{\kf15}ing{\kf23} o{\kf15}ver{\kf30} bro{\kf15}ken{\kf23}~{\kf91} dreams
+Dialogue: 0,0:02:54.23,0:02:55.07,DEFAULT,,0,0,0,,{\r}{\kf39}Born{\kf44} strong
+Dialogue: 0,0:02:56.01,0:03:00.93,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf34} raised{\kf24} with{\kf10} class{\kf58}~{\kf10}~{\kf53}~{\kf10}~{\kf63}~{\kf53} so{\kf39}~{\kf43} yeah{\kf14}~{\kf14}~{\kf57}~
+Dialogue: 0,0:03:01.88,0:03:05.39,DEFAULT,,0,0,0,,{\r}{\kf22}You{\kf22} hurt{\kf15} me{\kf110} now{\kf15} but{\kf22} I{\kf22} won't{\kf22}~{\kf102} cry
+Dialogue: 0,0:03:06.07,0:03:09.29,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf14} am{\kf14} Oc{\kf24}ta{\kf77}~{\kf67}vi{\kf14}~{\kf14}~{\kf24}~{\kf60}a
+Dialogue: 0,0:03:09.74,0:03:13.41,DEFAULT,,0,0,0,,{\r}{\kf22}You{\kf22} hurt{\kf14} me{\kf94} now{\kf22} but{\kf22} I{\kf14} won't{\kf22}~{\kf94} cry{\kf41}~
+Dialogue: 0,0:03:13.94,0:03:17.16,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf15} am{\kf15} Oc{\kf20}ta{\kf74}~{\kf20}vi{\kf50}~{\kf15}~{\kf10}~{\kf30}~{\kf58}a
+Dialogue: 0,0:03:17.57,0:03:21.17,DEFAULT,,0,0,0,,{\r}{\kf26}You{\kf18} hurt{\kf26} me{\kf88} now,{\kf18} but{\kf18} I{\kf18} won't{\kf35}~{\kf112} cry

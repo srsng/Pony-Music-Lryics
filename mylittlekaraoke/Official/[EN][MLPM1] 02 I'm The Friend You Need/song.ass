@@ -1,59 +1,66 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: I'm The Friend You Need
+Artist: My Little Pony - The Movie
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.57,0:00:01.05,DEFAULT,,0,0,0,,{\kf8}You{\kf15} know{\kf19} what?
-Dialogue: 0,0:00:01.35,0:00:02.82,DEFAULT,,0,0,0,,{\kf15}Little{\kf27} Cotton{\kf27} Candy{\kf15} here{\kf15} was{\kf30} right
-Dialogue: 0,0:00:02.97,0:00:05.78,DEFAULT,,0,0,0,,{\kf19}And,{\kf19} if{\kf8} I{\kf12} do{\kf15} say{\kf19} so{\kf34} my{\kf75}selfâ€¦
-Dialogue: 0,0:00:06.57,0:00:09.08,DEFAULT,,0,0,0,,{\kf23}This{\kf102} town{\kf15} is{\kf12} not{\kf8} a{\kf19} nice{\kf38} place
-Dialogue: 0,0:00:09.64,0:00:12.00,DEFAULT,,0,0,0,,{\kf8}For{\kf8} lit{\kf8}tle{\kf15} fil{\kf38}lies{\kf57} all{\kf15} a{\kf53}lone
-Dialogue: 0,0:00:13.05,0:00:15.30,DEFAULT,,0,0,0,,{\kf12}There{\kf8} are{\kf23} lots{\kf15} of{\kf27} twists{\kf15} and{\kf15} cor{\kf34}ners
-Dialogue: 0,0:00:16.09,0:00:18.57,DEFAULT,,0,0,0,,{\kf15}That{\kf19} could{\kf53} lead{\kf15} to{\kf15} the{\kf19} un{\kf72}known
-Dialogue: 0,0:00:19.35,0:00:21.68,DEFAULT,,0,0,0,,{\kf19}Let{\kf15} me{\kf53} guide{\kf23} your{\kf75} way
-Dialogue: 0,0:00:21.87,0:00:24.57,DEFAULT,,0,0,0,,{\kf15}And{\kf12} I'll{\kf12} be{\kf42} sure{\kf12} to{\kf19} help{\kf23} you{\kf64} through
-Dialogue: 0,0:00:25.28,0:00:27.90,DEFAULT,,0,0,0,,{\kf12}You{\kf12} could{\kf30} real{\kf23}ly{\kf23} use{\kf12} a{\kf27} friend{\kf15} out{\kf30} here
-Dialogue: 0,0:00:28.58,0:00:31.80,DEFAULT,,0,0,0,,{\kf27}And{\kf15} luc{\kf12}ki{\kf53}ly{\kf19} for{\kf143} you
-Dialogue: 0,0:00:32.40,0:00:34.80,DEFAULT,,0,0,0,,{\kf27}I'm{\kf12} the{\kf38} friend{\kf19} that{\kf15} you{\kf38} need
-Dialogue: 0,0:00:35.14,0:00:37.58,DEFAULT,,0,0,0,,{\kf27}When{\kf19} you're{\kf19} lost{\kf15} and{\kf12} don't{\kf15} know{\kf15} what{\kf12} to{\kf34} do
-Dialogue: 0,0:00:37.95,0:00:40.84,DEFAULT,,0,0,0,,{\kf23}I'm{\kf15} your{\kf49} pal,{\kf30} your{\kf12} a{\kf30}mi{\kf49}go
-Dialogue: 0,0:00:41.37,0:00:43.13,DEFAULT,,0,0,0,,{\kf15}Use{\kf15}ful{\kf8} and{\kf12} re{\kf23}source{\kf27}ful,{\kf34} too
-Dialogue: 0,0:00:43.54,0:00:46.09,DEFAULT,,0,0,0,,{\kf19}And{\kf30} my{\kf27} help,{\kf23} you'll{\kf19} con{\kf45}cede
-Dialogue: 0,0:00:46.35,0:00:49.20,DEFAULT,,0,0,0,,{\kf34}Is{\kf12} a{\kf45} plus,{\kf27} gua{\kf19}ran{\kf79}teed
-Dialogue: 0,0:00:49.39,0:00:50.70,DEFAULT,,0,0,0,,{\kf12}You{\kf8} can{\kf12} call{\kf8} and{\kf8} I'll{\kf15} come{\kf15} run{\kf12}ning
-Dialogue: 0,0:00:50.82,0:00:52.84,DEFAULT,,0,0,0,,{\kf19}Just{\kf19} fol{\kf15}low{\kf23} my{\kf98} lead
-Dialogue: 0,0:00:53.44,0:00:55.73,DEFAULT,,0,0,0,,{\kf15}'Cause{\kf12} I'm{\kf8} the{\kf27} friend{\kf15} you{\kf105} need
-Dialogue: 0,0:00:56.37,0:00:57.27,DEFAULT,,0,0,0,,{\kf23}Quite{\kf8} a{\kf49} friend
-Dialogue: 0,0:00:57.79,0:00:59.37,DEFAULT,,0,0,0,,{\kf15}He's{\kf8} a{\kf34} friend{\kf15} in{\kf57}deed
-Dialogue: 0,0:01:00.68,0:01:02.70,DEFAULT,,0,0,0,,{\kf23}You{\kf23} need{\kf15} a{\kf12} bud{\kf8} to{\kf15} spot{\kf8} the{\kf19} dan{\kf12}ger
-Dialogue: 0,0:01:02.85,0:01:03.94,DEFAULT,,0,0,0,,{\kf12}A{\kf15} pal{\kf8} to{\kf12} stop{\kf8} the{\kf27} creep
-Dialogue: 0,0:01:04.28,0:01:06.08,DEFAULT,,0,0,0,,{\kf8}A{\kf15} chum{\kf8} and{\kf12} not{\kf4} a{\kf23} stran{\kf8}ger{\kf12} to{\kf8} as{\kf15}sist
-Dialogue: 0,0:01:06.75,0:01:08.18,DEFAULT,,0,0,0,,{\kf12}You{\kf12} need{\kf12} a{\kf23} bro{\kf12} who{\kf12} is{\kf15} cun{\kf8}ning
-Dialogue: 0,0:01:08.29,0:01:09.64,DEFAULT,,0,0,0,,{\kf12}That{\kf12} can{\kf15} help{\kf15} you{\kf15} take{\kf8} the{\kf38} leap
-Dialogue: 0,0:01:09.87,0:01:11.67,DEFAULT,,0,0,0,,{\kf12}A{\kf19} friend{\kf8} who{\kf12} knows{\kf12} what's{\kf19} ly{\kf12}ing{\kf8} in{\kf8} the{\kf30} mist
-Dialogue: 0,0:01:12.53,0:01:14.78,DEFAULT,,0,0,0,,{\kf19}Don't{\kf38} fear{\kf15} these{\kf23} dar{\kf23}kened{\kf15} al{\kf27}leys
-Dialogue: 0,0:01:15.38,0:01:17.55,DEFAULT,,0,0,0,,{\kf15}They're{\kf23} sca{\kf19}ry,{\kf27} yes,{\kf19} I{\kf45} know
-Dialogue: 0,0:01:18.19,0:01:20.40,DEFAULT,,0,0,0,,{\kf19}Why,{\kf23} you{\kf19} could{\kf34} use{\kf8} a{\kf68} friend
-Dialogue: 0,0:01:20.89,0:01:23.29,DEFAULT,,0,0,0,,{\kf12}To{\kf12} pro{\kf15}tect{\kf15} you{\kf12} wher{\kf12}e{\kf12}ver{\kf19} you{\kf60} go
-Dialogue: 0,0:01:23.70,0:01:26.10,DEFAULT,,0,0,0,,{\kf19}And{\kf34} such{\kf15} a{\kf30} dazz{\kf23}ling{\kf27} beau{\kf34}ty
-Dialogue: 0,0:01:26.82,0:01:28.54,DEFAULT,,0,0,0,,{\kf15}Co{\kf15}vered{\kf23} in{\kf27} dirt{\kf15} and{\kf38} muck
-Dialogue: 0,0:01:29.25,0:01:31.95,DEFAULT,,0,0,0,,{\kf19}But{\kf30} now{\kf19} your{\kf30} fate{\kf19} is{\kf27} chan{\kf53}ging
-Dialogue: 0,0:01:32.37,0:01:34.09,DEFAULT,,0,0,0,,{\kf34}Now{\kf30} you{\kf34} are{\kf15} in{\kf34} luck
-Dialogue: 0,0:01:34.35,0:01:37.05,DEFAULT,,0,0,0,,{\kf12}'Cause{\kf27} I'm{\kf12} the{\kf42} friend{\kf23} that{\kf15} you{\kf45} need
-Dialogue: 0,0:01:37.32,0:01:39.87,DEFAULT,,0,0,0,,{\kf23}When{\kf19} you're{\kf27} lost{\kf15} and{\kf12} don't{\kf19} know{\kf12} what{\kf15} to{\kf45} do
-Dialogue: 0,0:01:40.13,0:01:42.90,DEFAULT,,0,0,0,,{\kf15}I'm{\kf23} your{\kf60} pal,{\kf38} your{\kf19} a{\kf23}mi{\kf42}go
-Dialogue: 0,0:01:43.54,0:01:45.27,DEFAULT,,0,0,0,,{\kf15}Loo{\kf15}kin'{\kf12} out{\kf8} for{\kf30} friends{\kf27} like{\kf34} you
-Dialogue: 0,0:01:45.68,0:01:48.12,DEFAULT,,0,0,0,,{\kf23}And{\kf19} my{\kf30} help,{\kf27} you'll{\kf23} con{\kf38}cede
-Dialogue: 0,0:01:48.49,0:01:51.15,DEFAULT,,0,0,0,,{\kf30}Is{\kf12} a{\kf38} plus,{\kf30} gua{\kf27}ran{\kf60}teed
-Dialogue: 0,0:01:51.60,0:01:52.92,DEFAULT,,0,0,0,,{\kf19}Just{\kf19} call{\kf8} and{\kf12} I'll{\kf12} come{\kf12} run{\kf8}ning
-Dialogue: 0,0:01:53.03,0:01:54.79,DEFAULT,,0,0,0,,{\kf15}We'll{\kf15} say{\kf15} it's{\kf15} ag{\kf79}reed
-Dialogue: 0,0:01:55.92,0:01:58.77,DEFAULT,,0,0,0,,{\kf34}Here!{\kf27} Tell{\kf45} Verko:{\kf23} "My{\kf30} place,{\kf27} twenty{\kf38} minutes"
-Dialogue: 0,0:01:59.07,0:02:03.00,DEFAULT,,0,0,0,,{\kf19}I've{\kf23} got{\kf45} something{\kf19} that{\kf12} will{\kf60} magically{\kf27} erase{\kf45} all{\kf23} my{\kf38} debt
-Dialogue: 0,0:02:03.94,0:02:09.34,DEFAULT,,0,0,0,,{\kf15}'Cause{\kf15} I'm{\kf8} the{\kf27} friend{\kf23} you{\kf417} need
-Dialogue: 0,0:02:09.72,0:02:11.22,DEFAULT,,0,0,0,,{\kf19}He's{\kf8} a{\kf27} friend{\kf23} in{\kf49}deed
+Dialogue: 0,0:00:00.57,0:00:01.06,DEFAULT,,0,0,0,,{\r}{\kf10}You{\kf18} know{\kf21} what?
+Dialogue: 0,0:00:01.36,0:00:02.82,DEFAULT,,0,0,0,,{\r}{\kf17}Little{\kf30} Cotton{\kf30} Candy{\kf17} here{\kf17} was{\kf35} right
+Dialogue: 0,0:00:02.97,0:00:05.78,DEFAULT,,0,0,0,,{\r}{\kf27}And,{\kf27} if{\kf11} I{\kf16} do{\kf21} say{\kf27} so{\kf48} my{\kf104}selfâ€¦
+Dialogue: 0,0:00:06.57,0:00:09.08,DEFAULT,,0,0,0,,{\r}{\kf26}This{\kf119} town{\kf18} is{\kf13} not{\kf10} a{\kf22} nice{\kf43} place
+Dialogue: 0,0:00:09.64,0:00:12.01,DEFAULT,,0,0,0,,{\r}{\kf10}For{\kf10} lit{\kf10}tle{\kf18} fil{\kf45}lies{\kf67} all{\kf18} a{\kf58}lone
+Dialogue: 0,0:00:13.06,0:00:15.31,DEFAULT,,0,0,0,,{\r}{\kf17}There{\kf12} are{\kf35} lots{\kf23} of{\kf40} twists{\kf23} and{\kf23} cor{\kf52}ners
+Dialogue: 0,0:00:16.09,0:00:18.57,DEFAULT,,0,0,0,,{\r}{\kf18}That{\kf23} could{\kf63} lead{\kf18} to{\kf18} the{\kf23} un{\kf85}known
+Dialogue: 0,0:00:19.36,0:00:21.68,DEFAULT,,0,0,0,,{\r}{\kf24}Let{\kf19} me{\kf66} guide{\kf28} your{\kf95} way
+Dialogue: 0,0:00:21.87,0:00:24.57,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf16} I'll{\kf16} be{\kf57} sure{\kf16} to{\kf26} help{\kf31} you{\kf87} through
+Dialogue: 0,0:00:25.28,0:00:27.91,DEFAULT,,0,0,0,,{\r}{\kf16}You{\kf16} could{\kf44} real{\kf33}ly{\kf33} use{\kf16} a{\kf38} friend{\kf22} out{\kf45} here
+Dialogue: 0,0:00:28.58,0:00:31.81,DEFAULT,,0,0,0,,{\r}{\kf32}And{\kf18} luc{\kf14}ki{\kf64}ly{\kf23} for{\kf172} you
+Dialogue: 0,0:00:32.41,0:00:34.81,DEFAULT,,0,0,0,,{\r}{\kf43}I'm{\kf18} the{\kf62} friend{\kf31} that{\kf25} you{\kf61} need
+Dialogue: 0,0:00:35.15,0:00:37.58,DEFAULT,,0,0,0,,{\r}{\kf39}When{\kf28} you're{\kf28} lost{\kf22} and{\kf17} don't{\kf22} know{\kf22} what{\kf17} to{\kf49} do
+Dialogue: 0,0:00:37.96,0:00:40.84,DEFAULT,,0,0,0,,{\r}{\kf32}I'm{\kf21} your{\kf68} pal,{\kf42} your{\kf16} a{\kf42}mi{\kf68}go
+Dialogue: 0,0:00:41.37,0:00:43.13,DEFAULT,,0,0,0,,{\r}{\kf20}Use{\kf20}ful{\kf10} and{\kf15} re{\kf30}source{\kf35}ful,{\kf46} too
+Dialogue: 0,0:00:43.55,0:00:46.09,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf47} my{\kf42} help,{\kf36} you'll{\kf30} con{\kf70}cede
+Dialogue: 0,0:00:46.36,0:00:49.21,DEFAULT,,0,0,0,,{\r}{\kf45}Is{\kf15} a{\kf60} plus,{\kf35} gua{\kf25}ran{\kf105}teed
+Dialogue: 0,0:00:49.40,0:00:50.71,DEFAULT,,0,0,0,,{\r}{\kf17}You{\kf11} can{\kf17} call{\kf11} and{\kf11} I'll{\kf23} come{\kf23} run{\kf18}ning
+Dialogue: 0,0:00:50.82,0:00:52.84,DEFAULT,,0,0,0,,{\r}{\kf22}Just{\kf22} fol{\kf18}low{\kf26} my{\kf114} lead
+Dialogue: 0,0:00:53.45,0:00:55.73,DEFAULT,,0,0,0,,{\r}{\kf19}'Cause{\kf14} I'm{\kf10} the{\kf33} friend{\kf19} you{\kf134} need
+Dialogue: 0,0:00:56.37,0:00:57.27,DEFAULT,,0,0,0,,{\r}{\kf26}Quite{\kf10} a{\kf54} friend
+Dialogue: 0,0:00:57.80,0:00:59.37,DEFAULT,,0,0,0,,{\r}{\kf18}He's{\kf10} a{\kf42} friend{\kf18} in{\kf69}deed
+Dialogue: 0,0:01:00.68,0:01:02.71,DEFAULT,,0,0,0,,{\r}{\kf35}You{\kf35} need{\kf23} a{\kf17} bud{\kf12} to{\kf23} spot{\kf12} the{\kf29} dan{\kf16}ger
+Dialogue: 0,0:01:02.86,0:01:03.95,DEFAULT,,0,0,0,,{\r}{\kf16}A{\kf21} pal{\kf10} to{\kf16} stop{\kf10} the{\kf36} creep
+Dialogue: 0,0:01:04.28,0:01:06.08,DEFAULT,,0,0,0,,{\r}{\kf12}A{\kf25} chum{\kf12} and{\kf19} not{\kf10} a{\kf37} stran{\kf12}ger{\kf19} to{\kf12} as{\kf22}sist
+Dialogue: 0,0:01:06.76,0:01:08.18,DEFAULT,,0,0,0,,{\r}{\kf16}You{\kf16} need{\kf16} a{\kf32} bro{\kf16} who{\kf16} is{\kf21} cun{\kf10}ning
+Dialogue: 0,0:01:08.30,0:01:09.64,DEFAULT,,0,0,0,,{\r}{\kf14}That{\kf14} can{\kf18} help{\kf18} you{\kf18} take{\kf10} the{\kf43} leap
+Dialogue: 0,0:01:09.87,0:01:11.67,DEFAULT,,0,0,0,,{\r}{\kf15}A{\kf25} friend{\kf10} who{\kf15} knows{\kf15} what's{\kf25} ly{\kf15}ing{\kf10} in{\kf10} the{\kf40} mist
+Dialogue: 0,0:01:12.53,0:01:14.78,DEFAULT,,0,0,0,,{\r}{\kf27}Don't{\kf54} fear{\kf21} these{\kf32} dar{\kf32}kened{\kf21} al{\kf38}leys
+Dialogue: 0,0:01:15.38,0:01:17.56,DEFAULT,,0,0,0,,{\r}{\kf22}They're{\kf33} sca{\kf28}ry,{\kf39} yes,{\kf28} I{\kf67} know
+Dialogue: 0,0:01:18.19,0:01:20.41,DEFAULT,,0,0,0,,{\r}{\kf25}Why,{\kf29} you{\kf25} could{\kf44} use{\kf10} a{\kf88} friend
+Dialogue: 0,0:01:20.89,0:01:23.30,DEFAULT,,0,0,0,,{\r}{\kf16}To{\kf16} pro{\kf22}tect{\kf22} you{\kf16} wher{\kf16}e{\kf16}ver{\kf27} you{\kf89} go
+Dialogue: 0,0:01:23.71,0:01:26.11,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf45} such{\kf20} a{\kf40} dazz{\kf30}ling{\kf35} beau{\kf45}ty
+Dialogue: 0,0:01:26.82,0:01:28.55,DEFAULT,,0,0,0,,{\r}{\kf20}Co{\kf20}vered{\kf29} in{\kf34} dirt{\kf20} and{\kf49} muck
+Dialogue: 0,0:01:29.26,0:01:31.96,DEFAULT,,0,0,0,,{\r}{\kf26}But{\kf42} now{\kf26} your{\kf42} fate{\kf26} is{\kf36} chan{\kf72}ging
+Dialogue: 0,0:01:32.37,0:01:34.09,DEFAULT,,0,0,0,,{\r}{\kf40}Now{\kf35} you{\kf40} are{\kf18} in{\kf40} luck
+Dialogue: 0,0:01:34.36,0:01:37.06,DEFAULT,,0,0,0,,{\r}{\kf18}'Cause{\kf41} I'm{\kf18} the{\kf65} friend{\kf35} that{\kf23} you{\kf70} need
+Dialogue: 0,0:01:37.32,0:01:39.87,DEFAULT,,0,0,0,,{\r}{\kf31}When{\kf26} you're{\kf36} lost{\kf21} and{\kf16} don't{\kf26} know{\kf16} what{\kf21} to{\kf62} do
+Dialogue: 0,0:01:40.13,0:01:42.91,DEFAULT,,0,0,0,,{\r}{\kf19}I'm{\kf29} your{\kf76} pal,{\kf48} your{\kf24} a{\kf29}mi{\kf52}go
+Dialogue: 0,0:01:43.55,0:01:45.27,DEFAULT,,0,0,0,,{\r}{\kf19}Loo{\kf19}kin'{\kf14} out{\kf10} for{\kf37} friends{\kf33} like{\kf41} you
+Dialogue: 0,0:01:45.68,0:01:48.12,DEFAULT,,0,0,0,,{\r}{\kf35}And{\kf29} my{\kf46} help,{\kf41} you'll{\kf35} con{\kf58}cede
+Dialogue: 0,0:01:48.50,0:01:51.16,DEFAULT,,0,0,0,,{\r}{\kf41}Is{\kf15} a{\kf51} plus,{\kf41} gua{\kf36}ran{\kf82}teed
+Dialogue: 0,0:01:51.61,0:01:52.92,DEFAULT,,0,0,0,,{\r}{\kf28}Just{\kf28} call{\kf11} and{\kf17} I'll{\kf17} come{\kf17} run{\kf13}ning
+Dialogue: 0,0:01:53.03,0:01:54.80,DEFAULT,,0,0,0,,{\r}{\kf19}We'll{\kf19} say{\kf19} it's{\kf19} ag{\kf100}reed
+Dialogue: 0,0:01:55.92,0:01:58.77,DEFAULT,,0,0,0,,{\r}{\kf43}Here!{\kf34} Tell{\kf58} Verko:{\kf29} "My{\kf39} place,{\kf34} twenty{\kf48} minutes"
+Dialogue: 0,0:01:59.07,0:02:03.01,DEFAULT,,0,0,0,,{\r}{\kf24}I've{\kf29} got{\kf58} something{\kf24} that{\kf14} will{\kf77} magically{\kf34} erase{\kf58} all{\kf29} my{\kf47} debt
+Dialogue: 0,0:02:03.94,0:02:09.34,DEFAULT,,0,0,0,,{\r}{\kf16}'Cause{\kf16} I'm{\kf10} the{\kf28} friend{\kf24} you{\kf446} need
+Dialogue: 0,0:02:09.72,0:02:11.22,DEFAULT,,0,0,0,,{\r}{\kf23}He's{\kf10} a{\kf32} friend{\kf27} in{\kf58}deed

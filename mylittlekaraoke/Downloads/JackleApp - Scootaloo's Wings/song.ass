@@ -1,30 +1,37 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Scootaloo's Wings
+Artist: JackleApp
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:25.96,0:00:29.50,DEFAULT,,0,0,0,,{\kf2619}So{\kf2615} I{\kf2624} see{\kf2615} you're{\kf2629} still{\kf2615} stuck{\kf2615} on{\kf2615} the{\kf2615} ground{\kf2642}~
-Dialogue: 0,0:00:31.73,0:00:35.23,DEFAULT,,0,0,0,,{\kf2619}Caught{\kf2619} down{\kf2619} there{\kf2619} all{\kf2619} warm{\kf2619} and{\kf2619} safe{\kf2610} and{\kf2619} sound{\kf2638}~
-Dialogue: 0,0:00:37.55,0:00:40.87,DEFAULT,,0,0,0,,{\kf2619}I{\kf2619} know{\kf2619} what{\kf2615} it's{\kf2619} like{\kf2615} to{\kf2615} be{\kf2619} down{\kf2619} there{\kf2638}~
-Dialogue: 0,0:00:43.23,0:00:46.82,DEFAULT,,0,0,0,,{\kf2610}Dream{\kf2610}ing{\kf2606} of{\kf2610} the{\kf2624} sky{\kf2615} and{\kf2619} wind{\kf2610} blow{\kf2610}in'{\kf2610} through{\kf2615} your{\kf2615} hair{\kf2656}~
-Dialogue: 0,0:00:48.96,0:00:52.55,DEFAULT,,0,0,0,,{\kf2619}One{\kf2624} day{\kf2619} you'll{\kf2615} be{\kf2619} just{\kf2615} like{\kf2619}~{\kf2697} her
-Dialogue: 0,0:00:54.00,0:00:57.59,DEFAULT,,0,0,0,,{\kf2610}Ta{\kf2610}len{\kf2615}ted,{\kf2619} strong{\kf2615} and{\kf2619} fast{\kf2629} I'm{\kf2706} sure
-Dialogue: 0,0:00:58.96,0:01:02.59,DEFAULT,,0,0,0,,{\kf2619}On{\kf2619} that{\kf2615} day,{\kf2619} know{\kf2619} what{\kf2619} she'll{\kf2624}~{\kf2697} do
-Dialogue: 0,0:01:04.05,0:01:08.18,DEFAULT,,0,0,0,,{\kf2619}When{\kf2619} that{\kf2619} day{\kf2619} comes{\kf2619} she'll{\kf2624} no{\kf2615}tice{\kf2624} you{\kf2710}~
-Dialogue: 0,0:01:30.32,0:01:34.64,DEFAULT,,0,0,0,,{\kf2610}You{\kf2615} sigh{\kf2619} and{\kf2619} say{\kf2619} "I'll{\kf2624} ne{\kf2615}ver{\kf2615} be{\kf2615} that{\kf2615} cool"{\kf2710}~
-Dialogue: 0,0:01:36.14,0:01:40.46,DEFAULT,,0,0,0,,{\kf2610}"I'll{\kf2615} try{\kf2624} each{\kf2619} day{\kf2619} and{\kf2619} I'll{\kf2610} end{\kf2610} up{\kf2615} as{\kf2610} the{\kf2619} fool{\kf2715}~"
-Dialogue: 0,0:01:42.05,0:01:46.18,DEFAULT,,0,0,0,,{\kf2610}"How{\kf2610} can{\kf2615} I{\kf2615} be{\kf2615} just{\kf2615} like{\kf2629} her{\kf2610} with{\kf2615} my{\kf2615} wings{\kf2619} so{\kf2619} small{\kf2683}~"
-Dialogue: 0,0:01:47.78,0:01:52.28,DEFAULT,,0,0,0,,{\kf2610}"I{\kf2619} should{\kf2619}n't{\kf2610} be{\kf2619} like{\kf2619} her{\kf2610} I{\kf2610} should{\kf2610}n't{\kf2615} try{\kf2615} at{\kf2610} all{\kf2729}~"
-Dialogue: 0,0:01:53.87,0:01:57.09,DEFAULT,,0,0,0,,{\kf2619}Let{\kf2619} me{\kf2619} tell{\kf2619} you{\kf2619} what{\kf2619} you'll{\kf2619}~{\kf2665} do
-Dialogue: 0,0:01:58.68,0:02:02.87,DEFAULT,,0,0,0,,{\kf2619}You'll{\kf2619} prove{\kf2619} them{\kf2619} wrong{\kf2619} I{\kf2619} know{\kf2615} that's{\kf2615}~{\kf2724} true
-Dialogue: 0,0:02:04.00,0:02:07.68,DEFAULT,,0,0,0,,{\kf2610}You'll{\kf2610} make{\kf2610} a{\kf2615} rain{\kf2624}boom{\kf2610} and{\kf2615} im{\kf2615}press{\kf2615} her{\kf2629}~{\kf2697} too
-Dialogue: 0,0:02:09.05,0:02:13.00,DEFAULT,,0,0,0,,{\kf2610}Just{\kf2619} wait{\kf2619} a{\kf2624}no{\kf2615}ther{\kf2651} day{\kf2610} Scoo{\kf2624}ta{\kf2697}loo
-Dialogue: 0,0:02:17.23,0:02:20.05,DEFAULT,,0,0,0,,{\kf2715}Ooh{\kf2738} ohh
-Dialogue: 0,0:02:21.64,0:02:25.96,DEFAULT,,0,0,0,,{\kf2701}Ooh{\kf2615}~{\kf2710} ooh{\kf2610}~{\kf2747} ooh
-Dialogue: 0,0:02:28.32,0:02:39.59,DEFAULT,,0,0,0,,{\kf2815}Ooh{\kf2742}~{\kf2756}~{\kf2674}~{\kf2697}~{\kf2883}~
+Dialogue: 0,0:00:25.96,0:00:29.51,DEFAULT,,0,0,0,,{\r}{\kf34}So{\kf27} I{\kf41} see{\kf27} you're{\kf48} still{\kf27} stuck{\kf27} on{\kf27} the{\kf27} ground{\kf70}~
+Dialogue: 0,0:00:31.73,0:00:35.23,DEFAULT,,0,0,0,,{\r}{\kf34}Caught{\kf34} down{\kf34} there{\kf34} all{\kf34} warm{\kf34} and{\kf34} safe{\kf20} and{\kf34} sound{\kf58}~
+Dialogue: 0,0:00:37.55,0:00:40.87,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf33} know{\kf33} what{\kf26} it's{\kf33} like{\kf26} to{\kf26} be{\kf33} down{\kf33} there{\kf56}~
+Dialogue: 0,0:00:43.23,0:00:46.83,DEFAULT,,0,0,0,,{\r}{\kf19}Dream{\kf19}ing{\kf13} of{\kf19} the{\kf38} sky{\kf26} and{\kf32} wind{\kf19} blow{\kf19}in'{\kf19} through{\kf26} your{\kf26} hair{\kf84}~
+Dialogue: 0,0:00:48.96,0:00:52.55,DEFAULT,,0,0,0,,{\r}{\kf32}One{\kf38} day{\kf32} you'll{\kf26} be{\kf32} just{\kf26} like{\kf32}~{\kf141} her
+Dialogue: 0,0:00:54.01,0:00:57.60,DEFAULT,,0,0,0,,{\r}{\kf20}Ta{\kf20}len{\kf26}ted,{\kf33} strong{\kf26} and{\kf33} fast{\kf46} I'm{\kf155} sure
+Dialogue: 0,0:00:58.96,0:01:02.60,DEFAULT,,0,0,0,,{\r}{\kf32}On{\kf32} that{\kf26} day,{\kf32} know{\kf32} what{\kf32} she'll{\kf38}~{\kf140} do
+Dialogue: 0,0:01:04.05,0:01:08.19,DEFAULT,,0,0,0,,{\r}{\kf31}When{\kf31} that{\kf31} day{\kf31} comes{\kf31} she'll{\kf38} no{\kf25}tice{\kf38} you{\kf158}~
+Dialogue: 0,0:01:30.33,0:01:34.64,DEFAULT,,0,0,0,,{\r}{\kf19}You{\kf25} sigh{\kf31} and{\kf31} say{\kf31} "I'll{\kf38} ne{\kf25}ver{\kf25} be{\kf25} that{\kf25} cool"{\kf157}~
+Dialogue: 0,0:01:36.14,0:01:40.46,DEFAULT,,0,0,0,,{\r}{\kf18}"I'll{\kf24} try{\kf36} each{\kf30} day{\kf30} and{\kf30} I'll{\kf18} end{\kf18} up{\kf24} as{\kf18} the{\kf30} fool{\kf156}~"
+Dialogue: 0,0:01:42.05,0:01:46.19,DEFAULT,,0,0,0,,{\r}{\kf18}"How{\kf18} can{\kf24} I{\kf24} be{\kf24} just{\kf24} like{\kf42} her{\kf18} with{\kf24} my{\kf24} wings{\kf30} so{\kf30} small{\kf114}~"
+Dialogue: 0,0:01:47.78,0:01:52.28,DEFAULT,,0,0,0,,{\r}{\kf18}"I{\kf30} should{\kf30}n't{\kf18} be{\kf30} like{\kf30} her{\kf18} I{\kf18} should{\kf18}n't{\kf24} try{\kf24} at{\kf18} all{\kf174}~"
+Dialogue: 0,0:01:53.87,0:01:57.10,DEFAULT,,0,0,0,,{\r}{\kf32}Let{\kf32} me{\kf32} tell{\kf32} you{\kf32} what{\kf32} you'll{\kf32}~{\kf99} do
+Dialogue: 0,0:01:58.69,0:02:02.87,DEFAULT,,0,0,0,,{\r}{\kf32}You'll{\kf32} prove{\kf32} them{\kf32} wrong{\kf32} I{\kf32} know{\kf25} that's{\kf25}~{\kf176} true
+Dialogue: 0,0:02:04.01,0:02:07.69,DEFAULT,,0,0,0,,{\r}{\kf18}You'll{\kf18} make{\kf18} a{\kf23} rain{\kf35}boom{\kf18} and{\kf23} im{\kf23}press{\kf23} her{\kf41}~{\kf128} too
+Dialogue: 0,0:02:09.05,0:02:13.01,DEFAULT,,0,0,0,,{\r}{\kf18}Just{\kf30} wait{\kf30} a{\kf36}no{\kf24}ther{\kf72} day{\kf18} Scoo{\kf36}ta{\kf131}loo
+Dialogue: 0,0:02:17.23,0:02:20.05,DEFAULT,,0,0,0,,{\r}{\kf129}Ooh{\kf153} ohh
+Dialogue: 0,0:02:21.64,0:02:25.96,DEFAULT,,0,0,0,,{\r}{\kf113}Ooh{\kf20}~{\kf123} ooh{\kf15}~{\kf161} ooh
+Dialogue: 0,0:02:28.33,0:02:39.60,DEFAULT,,0,0,0,,{\r}{\kf249}Ooh{\kf166}~{\kf182}~{\kf88}~{\kf114}~{\kf328}~

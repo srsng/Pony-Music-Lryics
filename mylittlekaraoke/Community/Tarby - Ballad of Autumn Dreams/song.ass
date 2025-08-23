@@ -1,66 +1,73 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Ballad Of Autumn Dreams
+Artist: Tarby
+Original Timing: mylittlekaraoke.com by RustyHeadphones
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:16.09,0:00:18.26,DEFAULT,,0,0,0,,{\kf46}As{\kf13} the{\kf21} sum{\kf30}me{\kf26}-er{\kf42} ends
-Dialogue: 0,0:00:18.72,0:00:22.68,DEFAULT,,0,0,0,,{\kf17}The{\kf17} leaves{\kf30} will{\kf26} cha{\kf26}-ange{\kf38} from{\kf42} green{\kf17} to{\kf26} re{\kf63}-ed
-Dialogue: 0,0:00:23.72,0:00:26.68,DEFAULT,,0,0,0,,{\kf21}And{\kf26} life{\kf17} be{\kf51}gins{\kf13} to{\kf21} shy{\kf26} a{\kf42}way
-Dialogue: 0,0:00:26.89,0:00:30.14,DEFAULT,,0,0,0,,{\kf30}Lea{\kf42}ving{\kf13} de{\kf51}ca{\kf34}-ay{\kf26} in{\kf26} its{\kf38} stead
-Dialogue: 0,0:00:31.97,0:00:34.14,DEFAULT,,0,0,0,,{\kf63}Will{\kf17} you{\kf30} stay{\kf34} by{\kf42} me
-Dialogue: 0,0:00:34.76,0:00:38.43,DEFAULT,,0,0,0,,{\kf17}Ad{\kf30}mi{\kf30}re{\kf63} all{\kf30} that's{\kf42} there{\kf13} to{\kf63} see?
-Dialogue: 0,0:00:39.68,0:00:42.26,DEFAULT,,0,0,0,,{\kf21}And{\kf55} when{\kf13} the{\kf17} sea{\kf26}son's{\kf46} turned
-Dialogue: 0,0:00:42.97,0:00:46.26,DEFAULT,,0,0,0,,{\kf21}Will{\kf26} you{\kf13} sti{\kf51}-ill{\kf42} be{\kf34} there{\kf17} for{\kf55} me?
-Dialogue: 0,0:00:48.97,0:00:54.14,DEFAULT,,0,0,0,,{\kf34}Run{\kf38}ning{\kf26} throu-{\kf34} ough{\kf21} the{\kf42} leaves,{\kf21} be{\kf38}fore{\kf21} the{\kf46} hold{\kf17} of{\kf38} night
-Dialogue: 0,0:00:56.97,0:01:02.14,DEFAULT,,0,0,0,,{\kf34}Watch{\kf26} the{\kf26} fi{\kf17}-i{\kf42}rey{\kf21} au{\kf26}tumn{\kf46} sky{\kf34}line{\kf26} bur{\kf30}ning{\kf34} bright
-Dialogue: 0,0:01:02.97,0:01:06.98,DEFAULT,,0,0,0,,{\kf26}Sing{\kf38}ing{\kf71} A{\kf26}-ah,{\kf71} a{\kf21}-ah
-Dialogue: 0,0:01:08.02,0:01:10.18,DEFAULT,,0,0,0,,{\kf42}Take{\kf42} me{\kf30} a{\kf38}-a{\kf46}way
-Dialogue: 0,0:01:11.98,0:01:14.93,DEFAULT,,0,0,0,,{\kf67}A{\kf38} -ah,{\kf71} a{\kf21}-ah
-Dialogue: 0,0:01:15.98,0:01:18.10,DEFAULT,,0,0,0,,{\kf46}Fly{\kf42} me{\kf26} a{\kf51}way
-Dialogue: 0,0:01:19.52,0:01:22.10,DEFAULT,,0,0,0,,{\kf38}'til{\kf30} it's{\kf42} all{\kf38} o{\kf46}kay
-Dialogue: 0,0:01:24.06,0:01:26.23,DEFAULT,,0,0,0,,{\kf51}Gaze{\kf21} in{\kf17}to{\kf30} my{\kf21}-y{\kf38} eyes
-Dialogue: 0,0:01:26.69,0:01:30.27,DEFAULT,,0,0,0,,{\kf21}And{\kf21} hold{\kf21} my{\kf26} spi{\kf42}-i{\kf34}rit{\kf17} in{\kf38} your{\kf26} gra{\kf26}-asp
-Dialogue: 0,0:01:33.02,0:01:38.15,DEFAULT,,0,0,0,,{\kf21}Give{\kf38} me{\kf21} a{\kf38}-all{\kf17} the{\kf38} strength{\kf13} I{\kf21} need,{\kf13} and{\kf42} love{\kf26} I{\kf26} know{\kf17} wi{\kf26}-ill{\kf38} last
-Dialogue: 0,0:01:39.94,0:01:42.23,DEFAULT,,0,0,0,,{\kf46}Help{\kf26} me{\kf17} with{\kf34} my{\kf51} pain
-Dialogue: 0,0:01:42.69,0:01:46.31,DEFAULT,,0,0,0,,{\kf21}I'll{\kf21} do{\kf17} the{\kf42} same{\kf17} for{\kf34} you{\kf17} if{\kf26} you{\kf17}-u{\kf42} please
-Dialogue: 0,0:01:47.90,0:01:50.69,DEFAULT,,0,0,0,,{\kf42}We'll{\kf42} float{\kf42} on{\kf13} to{\kf21}ge{\kf17}-e{\kf42}ther
-Dialogue: 0,0:01:51.02,0:01:54.61,DEFAULT,,0,0,0,,{\kf30}Through{\kf26} life's{\kf46} ne{\kf26}ver{\kf46} en{\kf51}ding{\kf59} seas
-Dialogue: 0,0:01:56.98,0:02:02.27,DEFAULT,,0,0,0,,{\kf34}As{\kf42} we{\kf38} har{\kf26}vest{\kf38} all{\kf17} the{\kf13} fru{\kf34}-uits{\kf21} of{\kf34} all{\kf34} our{\kf55} seeds
-Dialogue: 0,0:02:04.98,0:02:10.15,DEFAULT,,0,0,0,,{\kf38}Hear{\kf26} the{\kf30} flow{\kf30}ing{\kf46} wind,{\kf21} as{\kf13} it{\kf30} whist{\kf30}les{\kf34} through{\kf13} the{\kf42} trees
-Dialogue: 0,0:02:10.98,0:02:14.94,DEFAULT,,0,0,0,,{\kf21}Sing{\kf42}ing{\kf71} A{\kf26}-ah,{\kf76} a{\kf21}-ah
-Dialogue: 0,0:02:15.98,0:02:17.94,DEFAULT,,0,0,0,,{\kf38}Take{\kf46} me{\kf21} a{\kf21}-a{\kf38}way
-Dialogue: 0,0:02:19.94,0:02:22.94,DEFAULT,,0,0,0,,{\kf76}A{\kf30} -ah,{\kf71} a{\kf21}-ah
-Dialogue: 0,0:02:24.03,0:02:26.03,DEFAULT,,0,0,0,,{\kf42}Fly{\kf42} me{\kf42} a{\kf46}way
-Dialogue: 0,0:02:27.49,0:02:30.07,DEFAULT,,0,0,0,,{\kf42}'til{\kf34} it's{\kf46} all{\kf30} o{\kf55}kay
-Dialogue: 0,0:02:31.49,0:02:34.20,DEFAULT,,0,0,0,,{\kf38}'til{\kf21} it's{\kf42} all{\kf21} o{\kf21}-o{\kf71}kay
-Dialogue: 0,0:02:39.61,0:02:41.99,DEFAULT,,0,0,0,,{\kf30}'til{\kf21} it's{\kf38} all{\kf42} o{\kf42}kay
-Dialogue: 0,0:02:43.99,0:02:49.11,DEFAULT,,0,0,0,,{\kf71}A{\kf26} -ah{\kf71} a{\kf34}-ah,{\kf101} o{\kf63}-oh
-Dialogue: 0,0:02:51.95,0:02:58.24,DEFAULT,,0,0,0,,{\kf76}A{\kf30} -ah,{\kf63} a{\kf30}-ah,{\kf117} o{\kf21}-o{\kf26}-o{\kf42}-oh
-Dialogue: 0,0:03:00.95,0:03:04.45,DEFAULT,,0,0,0,,{\kf92}A{\kf51} -ah,{\kf88} a{\kf51}-ah
-Dialogue: 0,0:03:08.95,0:03:12.53,DEFAULT,,0,0,0,,{\kf96}A{\kf38} -ah,{\kf92} a{\kf59}-ah
-Dialogue: 0,0:03:16.95,0:03:20.33,DEFAULT,,0,0,0,,{\kf92}A{\kf34} -ah,{\kf88} a{\kf42}-ah
-Dialogue: 0,0:03:24.87,0:03:28.66,DEFAULT,,0,0,0,,{\kf101}A{\kf42} -ah,{\kf92} a{\kf67}-ah
-Dialogue: 0,0:03:30.95,0:03:38.00,DEFAULT,,0,0,0,,{\kf101}A{\kf96} -a{\kf67}-ah,{\kf88} a{\kf101}-a{\kf201}-ah
-Dialogue: 0,0:03:51.96,0:03:54.16,DEFAULT,,0,0,0,,{\kf59}As{\kf21} the{\kf17} nights{\kf17} get{\kf42} cold
-Dialogue: 0,0:03:54.87,0:03:58.75,DEFAULT,,0,0,0,,{\kf21}I{\kf30} still{\kf26} ho{\kf38}-old{\kf30} you{\kf26} close{\kf17} to{\kf38} me{\kf51}-e
-Dialogue: 0,0:04:00.04,0:04:06.29,DEFAULT,,0,0,0,,{\kf42}Si{\kf42}lent{\kf38} in{\kf26} the{\kf21} sha{\kf38}dows{\kf9} of{\kf17} what{\kf21} we{\kf63} kno{\kf30}-ow{\kf34} we{\kf17} co{\kf17}-ould{\kf42} be
-Dialogue: 0,0:04:09.00,0:04:11.46,DEFAULT,,0,0,0,,{\kf21}Sum{\kf34} mer's{\kf42} now{\kf17} be{\kf34}hind{\kf30} us
-Dialogue: 0,0:04:12.04,0:04:14.21,DEFAULT,,0,0,0,,{\kf38}Dead{\kf13} is{\kf38} all{\kf34} that{\kf42} grew
-Dialogue: 0,0:04:16.96,0:04:19.04,DEFAULT,,0,0,0,,{\kf21}What{\kf46} now{\kf30} la{\kf21}-ays{\kf13} a{\kf34}head?
-Dialogue: 0,0:04:19.67,0:04:22.17,DEFAULT,,0,0,0,,{\kf26}I{\kf26} wish{\kf17} that{\kf30} I{\kf38} still{\kf42} knew
-Dialogue: 0,0:04:24.92,0:04:26.88,DEFAULT,,0,0,0,,{\kf26}No{\kf30} thing's{\kf30} cer{\kf46}tain
-Dialogue: 0,0:04:27.38,0:04:30.21,DEFAULT,,0,0,0,,{\kf21}In{\kf9} the{\kf51} fi{\kf42}re{\kf38} of{\kf9} the{\kf46} fall
-Dialogue: 0,0:04:32.84,0:04:34.50,DEFAULT,,0,0,0,,{\kf46}Now{\kf42} you're{\kf46} gone
-Dialogue: 0,0:04:34.67,0:04:38.17,DEFAULT,,0,0,0,,{\kf13}I{\kf51} cry{\kf17} to{\kf46} find{\kf38} point{\kf13} in{\kf26} i{\kf21}-it{\kf42} all
-Dialogue: 0,0:04:38.96,0:04:43.09,DEFAULT,,0,0,0,,{\kf17}Sing{\kf30}ing,{\kf67} A{\kf34}-ah,{\kf67} a{\kf38}-ah
-Dialogue: 0,0:04:44.09,0:04:46.05,DEFAULT,,0,0,0,,{\kf34}Take{\kf38} me{\kf26} a{\kf26}-a{\kf46}way
-Dialogue: 0,0:04:48.01,0:04:51.01,DEFAULT,,0,0,0,,{\kf63}A{\kf42} -ah,{\kf71} a{\kf30}-ah
-Dialogue: 0,0:04:52.01,0:04:54.01,DEFAULT,,0,0,0,,{\kf42}Fly{\kf38} me{\kf38} a{\kf59}way
-Dialogue: 0,0:04:55.59,0:04:57.88,DEFAULT,,0,0,0,,{\kf26}'till{\kf34} it's{\kf38} all{\kf42} o{\kf38}kay
-Dialogue: 0,0:05:03.59,0:05:06.13,DEFAULT,,0,0,0,,{\kf26}'till{\kf38} it's{\kf46} all{\kf30} o{\kf63}kay
+Dialogue: 0,0:00:16.10,0:00:18.26,DEFAULT,,0,0,0,,{\r}{\kf57}As{\kf16} the{\kf26} sum{\kf36}me{\kf31}-er{\kf51} ends
+Dialogue: 0,0:00:18.72,0:00:22.68,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf22} leaves{\kf39} will{\kf33} cha{\kf33}-ange{\kf50} from{\kf56} green{\kf22} to{\kf33} re{\kf86}-ed
+Dialogue: 0,0:00:23.72,0:00:26.68,DEFAULT,,0,0,0,,{\r}{\kf29}And{\kf35} life{\kf23} be{\kf70}gins{\kf17} to{\kf29} shy{\kf35} a{\kf58}way
+Dialogue: 0,0:00:26.89,0:00:30.14,DEFAULT,,0,0,0,,{\r}{\kf37}Lea{\kf53}ving{\kf16} de{\kf64}ca{\kf43}-ay{\kf32} in{\kf32} its{\kf48} stead
+Dialogue: 0,0:00:31.98,0:00:34.14,DEFAULT,,0,0,0,,{\r}{\kf74}Will{\kf20} you{\kf35} stay{\kf39} by{\kf49} me
+Dialogue: 0,0:00:34.77,0:00:38.43,DEFAULT,,0,0,0,,{\r}{\kf22}Ad{\kf38}mi{\kf38}re{\kf81} all{\kf38} that's{\kf54} there{\kf16} to{\kf80} see?
+Dialogue: 0,0:00:39.68,0:00:42.27,DEFAULT,,0,0,0,,{\r}{\kf31}And{\kf80} when{\kf18} the{\kf25} sea{\kf37}son's{\kf67} turned
+Dialogue: 0,0:00:42.98,0:00:46.27,DEFAULT,,0,0,0,,{\r}{\kf27}Will{\kf32} you{\kf16} sti{\kf65}-ill{\kf54} be{\kf43} there{\kf22} for{\kf70} me?
+Dialogue: 0,0:00:48.98,0:00:54.14,DEFAULT,,0,0,0,,{\r}{\kf46}Run{\kf52}ning{\kf35} throu-{\kf46} ough{\kf29} the{\kf58} leaves,{\kf29} be{\kf52}fore{\kf29} the{\kf64} hold{\kf23} of{\kf54} night
+Dialogue: 0,0:00:56.98,0:01:02.15,DEFAULT,,0,0,0,,{\r}{\kf49}Watch{\kf36} the{\kf36} fi{\kf24}-i{\kf61}rey{\kf30} au{\kf36}tumn{\kf67} sky{\kf49}line{\kf36} bur{\kf43}ning{\kf50} bright
+Dialogue: 0,0:01:02.98,0:01:06.98,DEFAULT,,0,0,0,,{\r}{\kf40}Sing{\kf60}ing{\kf113} A{\kf40}-ah,{\kf113} a{\kf34}-ah
+Dialogue: 0,0:01:08.02,0:01:10.19,DEFAULT,,0,0,0,,{\r}{\kf46}Take{\kf46} me{\kf32} a{\kf42}-a{\kf51}way
+Dialogue: 0,0:01:11.98,0:01:14.94,DEFAULT,,0,0,0,,{\r}{\kf101}A{\kf57} -ah,{\kf107} a{\kf31}-ah
+Dialogue: 0,0:01:15.98,0:01:18.11,DEFAULT,,0,0,0,,{\r}{\kf60}Fly{\kf55} me{\kf33} a{\kf65}way
+Dialogue: 0,0:01:19.52,0:01:22.11,DEFAULT,,0,0,0,,{\r}{\kf50}'til{\kf39} it's{\kf56} all{\kf50} o{\kf63}kay
+Dialogue: 0,0:01:24.07,0:01:26.23,DEFAULT,,0,0,0,,{\r}{\kf62}Gaze{\kf26} in{\kf21}to{\kf36} my{\kf26}-y{\kf46} eyes
+Dialogue: 0,0:01:26.69,0:01:30.27,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf28} hold{\kf28} my{\kf34} spi{\kf56}-i{\kf45}rit{\kf22} in{\kf50} your{\kf34} gra{\kf33}-asp
+Dialogue: 0,0:01:33.03,0:01:38.15,DEFAULT,,0,0,0,,{\r}{\kf28}Give{\kf50} me{\kf28} a{\kf50}-all{\kf22} the{\kf50} strength{\kf17} I{\kf28} need,{\kf17} and{\kf55} love{\kf33} I{\kf33} know{\kf22} wi{\kf33}-ill{\kf47} last
+Dialogue: 0,0:01:39.94,0:01:42.23,DEFAULT,,0,0,0,,{\r}{\kf61}Help{\kf34} me{\kf22} with{\kf45} my{\kf67} pain
+Dialogue: 0,0:01:42.69,0:01:46.32,DEFAULT,,0,0,0,,{\r}{\kf30}I'll{\kf30} do{\kf24} the{\kf61} same{\kf24} for{\kf48} you{\kf24} if{\kf36} you{\kf24}-u{\kf62} please
+Dialogue: 0,0:01:47.90,0:01:50.69,DEFAULT,,0,0,0,,{\r}{\kf54}We'll{\kf54} float{\kf54} on{\kf16} to{\kf27}ge{\kf21}-e{\kf53}ther
+Dialogue: 0,0:01:51.03,0:01:54.61,DEFAULT,,0,0,0,,{\r}{\kf37}Through{\kf32} life's{\kf59} ne{\kf32}ver{\kf59} en{\kf64}ding{\kf75} seas
+Dialogue: 0,0:01:56.99,0:02:02.28,DEFAULT,,0,0,0,,{\r}{\kf47}As{\kf58} we{\kf52} har{\kf35}vest{\kf52} all{\kf23} the{\kf17} fru{\kf47}-uits{\kf29} of{\kf47} all{\kf47} our{\kf75} seeds
+Dialogue: 0,0:02:04.99,0:02:10.16,DEFAULT,,0,0,0,,{\r}{\kf56}Hear{\kf37} the{\kf44} flow{\kf44}ing{\kf69} wind,{\kf31} as{\kf19} it{\kf44} whist{\kf44}les{\kf50} through{\kf19} the{\kf60} trees
+Dialogue: 0,0:02:10.99,0:02:14.95,DEFAULT,,0,0,0,,{\r}{\kf32}Sing{\kf65}ing{\kf110} A{\kf39}-ah,{\kf117} a{\kf33}-ah
+Dialogue: 0,0:02:15.99,0:02:17.95,DEFAULT,,0,0,0,,{\r}{\kf45}Take{\kf55} me{\kf25} a{\kf25}-a{\kf46}way
+Dialogue: 0,0:02:19.95,0:02:22.95,DEFAULT,,0,0,0,,{\r}{\kf115}A{\kf45} -ah,{\kf109} a{\kf31}-ah
+Dialogue: 0,0:02:24.03,0:02:26.03,DEFAULT,,0,0,0,,{\r}{\kf49}Fly{\kf49} me{\kf49} a{\kf53}way
+Dialogue: 0,0:02:27.49,0:02:30.07,DEFAULT,,0,0,0,,{\r}{\kf53}'til{\kf42} it's{\kf58} all{\kf37} o{\kf68}kay
+Dialogue: 0,0:02:31.49,0:02:34.20,DEFAULT,,0,0,0,,{\r}{\kf48}'til{\kf27} it's{\kf53} all{\kf27} o{\kf27}-o{\kf89}kay
+Dialogue: 0,0:02:39.62,0:02:41.99,DEFAULT,,0,0,0,,{\r}{\kf41}'til{\kf29} it's{\kf52} all{\kf58} o{\kf58}kay
+Dialogue: 0,0:02:43.99,0:02:49.12,DEFAULT,,0,0,0,,{\r}{\kf100}A{\kf35} -ah{\kf100} a{\kf47}-ah,{\kf142} o{\kf89}-oh
+Dialogue: 0,0:02:51.95,0:02:58.25,DEFAULT,,0,0,0,,{\r}{\kf118}A{\kf46} -ah,{\kf98} a{\kf46}-ah,{\kf183} o{\kf33}-o{\kf39}-o{\kf66}-oh
+Dialogue: 0,0:03:00.95,0:03:04.45,DEFAULT,,0,0,0,,{\r}{\kf115}A{\kf63} -ah,{\kf110} a{\kf62}-ah
+Dialogue: 0,0:03:08.96,0:03:12.54,DEFAULT,,0,0,0,,{\r}{\kf121}A{\kf47} -ah,{\kf116} a{\kf74}-ah
+Dialogue: 0,0:03:16.96,0:03:20.33,DEFAULT,,0,0,0,,{\r}{\kf122}A{\kf44} -ah,{\kf116} a{\kf56}-ah
+Dialogue: 0,0:03:24.87,0:03:28.67,DEFAULT,,0,0,0,,{\r}{\kf126}A{\kf53} -ah,{\kf116} a{\kf84}-ah
+Dialogue: 0,0:03:30.96,0:03:38.00,DEFAULT,,0,0,0,,{\r}{\kf108}A{\kf104} -a{\kf72}-ah,{\kf95} a{\kf108}-a{\kf217}-ah
+Dialogue: 0,0:03:51.96,0:03:54.17,DEFAULT,,0,0,0,,{\r}{\kf84}As{\kf30} the{\kf24} nights{\kf24} get{\kf59} cold
+Dialogue: 0,0:03:54.88,0:03:58.75,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf42} still{\kf36} ho{\kf54}-old{\kf42} you{\kf36} close{\kf24} to{\kf54} me{\kf70}-e
+Dialogue: 0,0:04:00.05,0:04:06.30,DEFAULT,,0,0,0,,{\r}{\kf58}Si{\kf58}lent{\kf52} in{\kf35} the{\kf29} sha{\kf52}dows{\kf12} of{\kf23} what{\kf29} we{\kf87} kno{\kf41}-ow{\kf46} we{\kf23} co{\kf23}-ould{\kf57} be
+Dialogue: 0,0:04:09.01,0:04:11.46,DEFAULT,,0,0,0,,{\r}{\kf29}Sum{\kf47} mer's{\kf59} now{\kf23} be{\kf47}hind{\kf41} us
+Dialogue: 0,0:04:12.05,0:04:14.21,DEFAULT,,0,0,0,,{\r}{\kf50}Dead{\kf17} is{\kf50} all{\kf45} that{\kf55} grew
+Dialogue: 0,0:04:16.96,0:04:19.05,DEFAULT,,0,0,0,,{\r}{\kf27}What{\kf59} now{\kf37} la{\kf27}-ays{\kf16} a{\kf42}head?
+Dialogue: 0,0:04:19.67,0:04:22.17,DEFAULT,,0,0,0,,{\r}{\kf36}I{\kf36} wish{\kf24} that{\kf42} I{\kf54} still{\kf58} knew
+Dialogue: 0,0:04:24.92,0:04:26.88,DEFAULT,,0,0,0,,{\r}{\kf38}No{\kf44} thing's{\kf44} cer{\kf70}tain
+Dialogue: 0,0:04:27.38,0:04:30.22,DEFAULT,,0,0,0,,{\r}{\kf28}In{\kf11} the{\kf67} fi{\kf55}re{\kf50} of{\kf11} the{\kf61} fall
+Dialogue: 0,0:04:32.84,0:04:34.51,DEFAULT,,0,0,0,,{\r}{\kf57}Now{\kf52} you're{\kf58} gone
+Dialogue: 0,0:04:34.68,0:04:38.18,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf67} cry{\kf22} to{\kf61} find{\kf50} point{\kf17} in{\kf33} i{\kf28}-it{\kf55} all
+Dialogue: 0,0:04:38.97,0:04:43.09,DEFAULT,,0,0,0,,{\r}{\kf28}Sing{\kf48}ing,{\kf110} A{\kf55}-ah,{\kf110} a{\kf62}-ah
+Dialogue: 0,0:04:44.09,0:04:46.05,DEFAULT,,0,0,0,,{\r}{\kf39}Take{\kf44} me{\kf29} a{\kf29}-a{\kf55}way
+Dialogue: 0,0:04:48.01,0:04:51.01,DEFAULT,,0,0,0,,{\r}{\kf92}A{\kf61} -ah,{\kf104} a{\kf43}-ah
+Dialogue: 0,0:04:52.01,0:04:54.01,DEFAULT,,0,0,0,,{\r}{\kf48}Fly{\kf43} me{\kf43} a{\kf66}way
+Dialogue: 0,0:04:55.60,0:04:57.89,DEFAULT,,0,0,0,,{\r}{\kf33}'till{\kf44} it's{\kf49} all{\kf55} o{\kf48}kay
+Dialogue: 0,0:05:03.60,0:05:06.14,DEFAULT,,0,0,0,,{\r}{\kf32}'till{\kf48} it's{\kf58} all{\kf37} o{\kf79}kay

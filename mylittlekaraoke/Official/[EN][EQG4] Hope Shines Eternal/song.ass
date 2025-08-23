@@ -1,39 +1,46 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Hope Shines Eternal
+Artist: Equestria Girls - Legend Of Everfree
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:15.76,0:00:17.15,DEFAULT,,0,0,0,,{\kf23}Some{\kf38}where's{\kf12} a{\kf12} bo{\kf27}-ok
-Dialogue: 0,0:00:17.45,0:00:22.96,DEFAULT,,0,0,0,,{\kf12}With{\kf23} chap{\kf34}ters{\kf19} still{\kf15} bla{\kf27}-ank{\kf15} in{\kf117}si{\kf72}-i{\kf165}-ide
-Dialogue: 0,0:00:23.23,0:00:24.88,DEFAULT,,0,0,0,,{\kf8}It's{\kf8} the{\kf23} book{\kf27} of{\kf15} our{\kf45} lives
-Dialogue: 0,0:00:25.10,0:00:30.54,DEFAULT,,0,0,0,,{\kf8}And{\kf8} the{\kf34} sto{\kf23}ry{\kf15} is{\kf38} ours{\kf15} to{\kf349} write
-Dialogue: 0,0:00:31.21,0:00:32.75,DEFAULT,,0,0,0,,{\kf27}Some{\kf30} pa{\kf19}ges{\kf60} fade
-Dialogue: 0,0:00:32.94,0:00:38.49,DEFAULT,,0,0,0,,{\kf15}While{\kf27} o{\kf34}thers{\kf12} are{\kf42} black{\kf19} and{\kf124} whi{\kf72}-i{\kf169}-ite
-Dialogue: 0,0:00:38.68,0:00:40.40,DEFAULT,,0,0,0,,{\kf8}And{\kf8} the{\kf34} sto{\kf30}ry{\kf15} be{\kf45}gins
-Dialogue: 0,0:00:40.66,0:00:45.50,DEFAULT,,0,0,0,,{\kf12}A{\kf38}gain{\kf30} eve{\kf15}ry{\kf45} time{\kf15} we{\kf289} try
-Dialogue: 0,0:00:46.48,0:00:53.49,DEFAULT,,0,0,0,,{\kf19}And{\kf19} ho{\kf237}-ope{\kf45} shines{\kf15} e{\kf15}te{\kf19}-er{\kf267}nal
-Dialogue: 0,0:00:54.24,0:01:01.51,DEFAULT,,0,0,0,,{\kf12}And{\kf15} fri{\kf150}-e{\kf83}-ends{\kf12} are{\kf15} all{\kf15} I{\kf12}-I{\kf203} ne{\kf147}-ed
-Dialogue: 0,0:01:01.89,0:01:08.98,DEFAULT,,0,0,0,,{\kf15}And{\kf15} ho{\kf252}-ope{\kf49} shines{\kf15} e{\kf19}te{\kf19}-er{\kf87}na{\kf75}-a{\kf102}-al
-Dialogue: 0,0:01:09.43,0:01:14.04,DEFAULT,,0,0,0,,{\kf15}And{\kf12} the{\kf15} fu{\kf19}ture{\kf38} is{\kf19} al{\kf30}ways{\kf135} bri{\kf23}-i{\kf19}-i{\kf53}-ight
-Dialogue: 0,0:01:14.30,0:01:15.95,DEFAULT,,0,0,0,,{\kf15}When{\kf19} you're{\kf15} he{\kf15}-ere{\kf19} with{\kf49} me
-Dialogue: 0,0:01:19.33,0:01:21.20,DEFAULT,,0,0,0,,{\kf12}I've{\kf23} fought{\kf27} through{\kf15} the{\kf30} dark{\kf27}ness
-Dialogue: 0,0:01:21.31,0:01:26.79,DEFAULT,,0,0,0,,{\kf15}And{\kf30} come{\kf27} out{\kf23} the{\kf38} o{\kf15}ther{\kf117} si{\kf75}-i{\kf158}-ide
-Dialogue: 0,0:01:27.09,0:01:28.74,DEFAULT,,0,0,0,,{\kf23}For{\kf23} rain{\kf34}clouds{\kf19} will{\kf12} cle{\kf27}-ar
-Dialogue: 0,0:01:29.04,0:01:34.29,DEFAULT,,0,0,0,,{\kf12}The{\kf30} way{\kf30} for{\kf12} the{\kf38} sun{\kf15}ny{\kf334} sky
-Dialogue: 0,0:01:35.04,0:01:36.43,DEFAULT,,0,0,0,,{\kf30}I've{\kf30} been{\kf19} af{\kf42}raid
-Dialogue: 0,0:01:36.69,0:01:42.28,DEFAULT,,0,0,0,,{\kf15}And{\kf30} stayed{\kf34} through{\kf15} the{\kf42} lon{\kf23}gest{\kf117} ni{\kf79}-i{\kf158}-ight
-Dialogue: 0,0:01:42.58,0:01:44.23,DEFAULT,,0,0,0,,{\kf12}But{\kf27} mor{\kf23}ning{\kf19} still{\kf45} comes
-Dialogue: 0,0:01:44.53,0:01:49.89,DEFAULT,,0,0,0,,{\kf15}And{\kf27} with{\kf23} it,{\kf19} it{\kf38} brings{\kf15} a{\kf342} light
-Dialogue: 0,0:01:50.30,0:01:57.43,DEFAULT,,0,0,0,,{\kf15}And{\kf15} ho{\kf255}-ope{\kf45} shines{\kf12} e{\kf23}te{\kf23}-er{\kf274}nal
-Dialogue: 0,0:01:58.06,0:02:05.04,DEFAULT,,0,0,0,,{\kf19}And{\kf15} fri{\kf147}-e{\kf72}-ends{\kf15} are{\kf19} all{\kf15} I{\kf15}I{\kf195} ne{\kf117}-ed
-Dialogue: 0,0:02:05.86,0:02:12.76,DEFAULT,,0,0,0,,{\kf15}And{\kf15} ho{\kf244}-ope{\kf49} shines{\kf12} e{\kf23}te{\kf19}-er{\kf75}na{\kf79}-a{\kf102}-al
-Dialogue: 0,0:02:13.36,0:02:17.11,DEFAULT,,0,0,0,,{\kf15}And{\kf12} the{\kf19} fu{\kf19}ture{\kf38} is{\kf23} al{\kf34}ways{\kf68} bri{\kf19}-i{\kf19}-i{\kf53}-ight
-Dialogue: 0,0:02:17.38,0:02:20.86,DEFAULT,,0,0,0,,{\kf15}The{\kf19} fu{\kf23}ture{\kf38} is{\kf19} al{\kf30}ways{\kf72} bri{\kf27}-i{\kf53}-ight
-Dialogue: 0,0:02:21.01,0:02:25.59,DEFAULT,,0,0,0,,{\kf23}Yeah,{\kf15} the{\kf19} fu{\kf27}ture{\kf30} is{\kf19} al{\kf34}ways{\kf139} bri{\kf19}-i{\kf23}-i{\kf49}-ight
-Dialogue: 0,0:02:25.89,0:02:28.29,DEFAULT,,0,0,0,,{\kf15}When{\kf19} you're{\kf23} he{\kf15}-ere{\kf19} with{\kf120} me
+Dialogue: 0,0:00:15.77,0:00:17.16,DEFAULT,,0,0,0,,{\r}{\kf29}Some{\kf48}where's{\kf14} a{\kf14} bo{\kf34}-ok
+Dialogue: 0,0:00:17.46,0:00:22.97,DEFAULT,,0,0,0,,{\r}{\kf13}With{\kf25} chap{\kf38}ters{\kf21} still{\kf17} bla{\kf29}-ank{\kf17} in{\kf129}si{\kf79}-i{\kf183}-ide
+Dialogue: 0,0:00:23.23,0:00:24.88,DEFAULT,,0,0,0,,{\r}{\kf10}It's{\kf10} the{\kf30} book{\kf35} of{\kf20} our{\kf60} lives
+Dialogue: 0,0:00:25.11,0:00:30.54,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf10} the{\kf38} sto{\kf25}ry{\kf17} is{\kf42} ours{\kf17} to{\kf385} write
+Dialogue: 0,0:00:31.22,0:00:32.76,DEFAULT,,0,0,0,,{\r}{\kf30}Some{\kf34} pa{\kf21}ges{\kf69} fade
+Dialogue: 0,0:00:32.94,0:00:38.49,DEFAULT,,0,0,0,,{\r}{\kf16}While{\kf29} o{\kf37}thers{\kf12} are{\kf45} black{\kf20} and{\kf135} whi{\kf78}-i{\kf183}-ite
+Dialogue: 0,0:00:38.68,0:00:40.41,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf10} the{\kf42} sto{\kf37}ry{\kf19} be{\kf55}gins
+Dialogue: 0,0:00:40.67,0:00:45.51,DEFAULT,,0,0,0,,{\r}{\kf12}A{\kf41}gain{\kf33} eve{\kf16}ry{\kf49} time{\kf16} we{\kf317} try
+Dialogue: 0,0:00:46.48,0:00:53.49,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} ho{\kf261}-ope{\kf50} shines{\kf17} e{\kf17}te{\kf21}-er{\kf293}nal
+Dialogue: 0,0:00:54.24,0:01:01.52,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf17} fri{\kf165}-e{\kf91}-ends{\kf12} are{\kf17} all{\kf17} I{\kf12}-I{\kf223} ne{\kf161}-ed
+Dialogue: 0,0:01:01.89,0:01:08.98,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf16} ho{\kf276}-ope{\kf54} shines{\kf16} e{\kf21}te{\kf21}-er{\kf95}na{\kf82}-a{\kf112}-al
+Dialogue: 0,0:01:09.43,0:01:14.04,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf14} the{\kf18} fu{\kf23}ture{\kf46} is{\kf23} al{\kf37}ways{\kf166} bri{\kf28}-i{\kf23}-i{\kf65}-ight
+Dialogue: 0,0:01:14.31,0:01:15.96,DEFAULT,,0,0,0,,{\r}{\kf19}When{\kf24} you're{\kf19} he{\kf19}-ere{\kf24} with{\kf60} me
+Dialogue: 0,0:01:19.33,0:01:21.21,DEFAULT,,0,0,0,,{\r}{\kf16}I've{\kf32} fought{\kf38} through{\kf21} the{\kf43} dark{\kf38}ness
+Dialogue: 0,0:01:21.32,0:01:26.79,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf33} come{\kf29} out{\kf25} the{\kf42} o{\kf17}ther{\kf129} si{\kf83}-i{\kf173}-ide
+Dialogue: 0,0:01:27.09,0:01:28.74,DEFAULT,,0,0,0,,{\r}{\kf28}For{\kf28} rain{\kf41}clouds{\kf23} will{\kf14} cle{\kf31}-ar
+Dialogue: 0,0:01:29.04,0:01:34.29,DEFAULT,,0,0,0,,{\r}{\kf13}The{\kf34} way{\kf34} for{\kf13} the{\kf42} sun{\kf17}ny{\kf372} sky
+Dialogue: 0,0:01:35.04,0:01:36.43,DEFAULT,,0,0,0,,{\r}{\kf35}I've{\kf35} been{\kf22} af{\kf47}raid
+Dialogue: 0,0:01:36.69,0:01:42.28,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf33} stayed{\kf37} through{\kf16} the{\kf45} lon{\kf25}gest{\kf127} ni{\kf86}-i{\kf174}-ight
+Dialogue: 0,0:01:42.58,0:01:44.23,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf35} mor{\kf30}ning{\kf25} still{\kf60} comes
+Dialogue: 0,0:01:44.53,0:01:49.89,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf30} with{\kf25} it,{\kf21} it{\kf42} brings{\kf17} a{\kf384} light
+Dialogue: 0,0:01:50.31,0:01:57.43,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf16} ho{\kf275}-ope{\kf49} shines{\kf12} e{\kf24}te{\kf24}-er{\kf296}nal
+Dialogue: 0,0:01:58.07,0:02:05.04,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf17} fri{\kf163}-e{\kf79}-ends{\kf17} are{\kf21} all{\kf17} I{\kf17}I{\kf217} ne{\kf128}-ed
+Dialogue: 0,0:02:05.87,0:02:12.77,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf16} ho{\kf267}-ope{\kf53} shines{\kf12} e{\kf25}te{\kf21}-er{\kf82}na{\kf86}-a{\kf112}-al
+Dialogue: 0,0:02:13.37,0:02:17.12,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf13} the{\kf22} fu{\kf22}ture{\kf45} is{\kf27} al{\kf40}ways{\kf80} bri{\kf22}-i{\kf22}-i{\kf64}-ight
+Dialogue: 0,0:02:17.38,0:02:20.87,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf22} fu{\kf27}ture{\kf45} is{\kf22} al{\kf36}ways{\kf85} bri{\kf31}-i{\kf63}-ight
+Dialogue: 0,0:02:21.02,0:02:25.59,DEFAULT,,0,0,0,,{\r}{\kf26}Yeah,{\kf17} the{\kf22} fu{\kf31}ture{\kf35} is{\kf22} al{\kf39}ways{\kf161} bri{\kf22}-i{\kf26}-i{\kf57}-ight
+Dialogue: 0,0:02:25.89,0:02:28.29,DEFAULT,,0,0,0,,{\r}{\kf17}When{\kf21} you're{\kf26} he{\kf17}-ere{\kf21} with{\kf138} me

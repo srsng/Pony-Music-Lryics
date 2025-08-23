@@ -1,110 +1,117 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Let's Go And Meet The Bronies
+Artist: John De Lancie, Tara Strong
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:16.22,0:00:17.53,DEFAULT,,0,0,0,,{\kf12}For{\kf19} one{\kf12} to{\kf30} fully{\kf49} comprehend
-Dialogue: 0,0:00:17.61,0:00:18.92,DEFAULT,,0,0,0,,{\kf23}This{\kf34} Pony{\kf72} fascination
-Dialogue: 0,0:00:18.96,0:00:19.82,DEFAULT,,0,0,0,,{\kf12}Let{\kf12} me{\kf23} first{\kf15} sum{\kf15} up
-Dialogue: 0,0:00:19.82,0:00:22.00,DEFAULT,,0,0,0,,{\kf12}The{\kf49} previous{\kf15} of{\kf34} Pony{\kf94} generations
-Dialogue: 0,0:00:22.15,0:00:24.66,DEFAULT,,0,0,0,,{\kf60}Generation{\kf19} One{\kf30} appeared{\kf12} on{\kf38} TV{\kf15} in{\kf12} the{\kf42} 80s
-Dialogue: 0,0:00:24.73,0:00:26.01,DEFAULT,,0,0,0,,{\kf8}It{\kf12} was{\kf23} made{\kf8} to{\kf23} sell{\kf42} toys
-Dialogue: 0,0:00:26.08,0:00:27.62,DEFAULT,,0,0,0,,{\kf27}Plots{\kf12} were{\kf34} hardly{\kf27} very{\kf49} weighty
-Dialogue: 0,0:00:27.77,0:00:28.82,DEFAULT,,0,0,0,,{\kf15}And{\kf53} Generation{\kf30} Two
-Dialogue: 0,0:00:28.90,0:00:30.40,DEFAULT,,0,0,0,,{\kf12}I{\kf15} do{\kf23} not{\kf15} mean{\kf12} to{\kf27} grouse{\kf12} and{\kf34} gripe
-Dialogue: 0,0:00:30.40,0:00:33.43,DEFAULT,,0,0,0,,{\kf12}But{\kf23} these{\kf49} characters{\kf19} fall{\kf15} right{\kf23} into{\kf15} the{\kf38} "girly"{\kf87} stereotypes
-Dialogue: 0,0:00:33.58,0:00:35.05,DEFAULT,,0,0,0,,{\kf19}And{\kf79} Generation{\kf42} Three
-Dialogue: 0,0:00:35.05,0:00:37.37,DEFAULT,,0,0,0,,{\kf12}Is{\kf23} just{\kf27} too{\kf45} awful{\kf23} and{\kf23} too{\kf64} tragic
-Dialogue: 0,0:00:38.12,0:00:40.00,DEFAULT,,0,0,0,,{\kf15}So{\kf27} let's{\kf23} jump{\kf8} to{\kf30} number{\kf60} Four
-Dialogue: 0,0:00:40.63,0:00:43.52,DEFAULT,,0,0,0,,{\kf27}Where{\kf90} Friendship{\kf19} Is{\kf75} Magic
-Dialogue: 0,0:00:45.28,0:00:46.78,DEFAULT,,0,0,0,,{\kf12}All{\kf15} the{\kf57} characters{\kf57} compelling
-Dialogue: 0,0:00:46.78,0:00:48.25,DEFAULT,,0,0,0,,{\kf15}And{\kf8} the{\kf34} stellar{\kf79} storytelling
-Dialogue: 0,0:00:48.28,0:00:49.78,DEFAULT,,0,0,0,,{\kf19}And{\kf8} the{\kf45} lovely{\kf68} animation
-Dialogue: 0,0:00:49.82,0:00:51.62,DEFAULT,,0,0,0,,{\kf23}Brought{\kf30} about{\kf23} great{\kf90} dedication
-Dialogue: 0,0:00:52.45,0:00:54.02,DEFAULT,,0,0,0,,{\kf15}This{\kf15} is{\kf19} where{\kf12} we{\kf19} meet{\kf8} the{\kf49} Bronies
-Dialogue: 0,0:00:54.10,0:00:55.30,DEFAULT,,0,0,0,,{\kf8}For{\kf8} they{\kf23} like{\kf15} My{\kf19} Little{\kf34} Pony
-Dialogue: 0,0:00:55.33,0:00:56.80,DEFAULT,,0,0,0,,{\kf19}Yes,{\kf12} the{\kf23} bros{\kf34} enjoy{\kf8} the{\kf34} ponies
-Dialogue: 0,0:00:56.80,0:00:58.41,DEFAULT,,0,0,0,,{\kf15}So{\kf23} let's{\kf19} go{\kf12} and{\kf15} meet{\kf12} the{\kf57} Bronies
-Dialogue: 0,0:01:08.98,0:01:10.48,DEFAULT,,0,0,0,,{\kf15}Well{\kf19} the{\kf23} growth{\kf12} in{\kf23} Pony{\kf49} fandom
-Dialogue: 0,0:01:10.56,0:01:11.91,DEFAULT,,0,0,0,,{\kf27}Might{\kf23} simply{\kf19} seem{\kf53} absurd
-Dialogue: 0,0:01:11.98,0:01:13.26,DEFAULT,,0,0,0,,{\kf19}True{\kf34} fans{\kf34} adore{\kf8} the{\kf19} show
-Dialogue: 0,0:01:13.26,0:01:14.80,DEFAULT,,0,0,0,,{\kf12}While{\kf30} others{\kf30} gallop{\kf19} to{\kf12} the{\kf34} Herd
-Dialogue: 0,0:01:15.06,0:01:15.96,DEFAULT,,0,0,0,,{\kf19}For{\kf34} hipster{\kf30} Bronies
-Dialogue: 0,0:01:16.03,0:01:17.72,DEFAULT,,0,0,0,,{\kf30}Watching{\kf30} pastel{\kf34} ponies{\kf15} has{\kf42} appeal
-Dialogue: 0,0:01:18.02,0:01:19.22,DEFAULT,,0,0,0,,{\kf12}Though{\kf23} first{\kf12} it{\kf19} seems{\kf42} ironic
-Dialogue: 0,0:01:19.30,0:01:20.87,DEFAULT,,0,0,0,,{\kf23}Soon{\kf23} enough{\kf19} it's{\kf27} very{\kf53} real
-Dialogue: 0,0:01:20.98,0:01:22.03,DEFAULT,,0,0,0,,{\kf15}For{\kf45} Moderates{\kf15} they{\kf23} start
-Dialogue: 0,0:01:22.03,0:01:23.61,DEFAULT,,0,0,0,,{\kf15}With{\kf15} how{\kf19} they're{\kf34} finding{\kf15} it{\kf23} through{\kf27} hype
-Dialogue: 0,0:01:23.72,0:01:24.96,DEFAULT,,0,0,0,,{\kf15}When{\kf8} the{\kf45} Bronies{\kf12} they'd{\kf34} invade
-Dialogue: 0,0:01:24.96,0:01:26.61,DEFAULT,,0,0,0,,{\kf12}Their{\kf34} favorite{\kf45} forums{\kf12} and{\kf49} websites
-Dialogue: 0,0:01:26.76,0:01:28.30,DEFAULT,,0,0,0,,{\kf12}And{\kf12} though{\kf19} first{\kf15} a{\kf19} little{\kf60} skeptical
-Dialogue: 0,0:01:28.45,0:01:29.65,DEFAULT,,0,0,0,,{\kf15}These{\kf49} Moderates{\kf49} inquired
-Dialogue: 0,0:01:29.87,0:01:31.37,DEFAULT,,0,0,0,,{\kf19}And{\kf23} once{\kf12} they{\kf27} finally{\kf23} saw{\kf8} the{\kf23} show
-Dialogue: 0,0:01:31.41,0:01:32.80,DEFAULT,,0,0,0,,{\kf12}Their{\kf19} love{\kf15} for{\kf12} it{\kf15} caught{\kf49} fire
-Dialogue: 0,0:01:32.87,0:01:34.15,DEFAULT,,0,0,0,,{\kf12}The{\kf42} core{\kf15} of{\kf8} the{\kf38} meetups
-Dialogue: 0,0:01:34.18,0:01:35.57,DEFAULT,,0,0,0,,{\kf12}And{\kf57} conventions{\kf15} that{\kf15} you{\kf34} see
-Dialogue: 0,0:01:35.61,0:01:36.92,DEFAULT,,0,0,0,,{\kf15}Are{\kf8} the{\kf38} social{\kf27} groups{\kf8} that{\kf23} come
-Dialogue: 0,0:01:36.92,0:01:38.53,DEFAULT,,0,0,0,,{\kf12}To{\kf64} BronyCon{\kf8} and{\kf75} Everfree
-Dialogue: 0,0:01:38.53,0:01:40.11,DEFAULT,,0,0,0,,{\kf23}Yes,{\kf12} the{\kf49} Moderates{\kf12} and{\kf49} Hipsters
-Dialogue: 0,0:01:40.11,0:01:41.53,DEFAULT,,0,0,0,,{\kf15}Are{\kf8} the{\kf23} big{\kf30} groups{\kf8} of{\kf12} the{\kf42} Bronies
-Dialogue: 0,0:01:41.61,0:01:42.85,DEFAULT,,0,0,0,,{\kf15}They're{\kf12} the{\kf30} dudes{\kf8} that{\kf15} are{\kf15} the{\kf19} bulk
-Dialogue: 0,0:01:42.85,0:01:44.65,DEFAULT,,0,0,0,,{\kf12}Of{\kf23} all{\kf12} the{\kf23} men{\kf12} who{\kf19} like{\kf12} the{\kf53} ponies
-Dialogue: 0,0:01:57.28,0:01:59.08,DEFAULT,,0,0,0,,{\kf45}Creative{\kf30} Bronies{\kf12} are{\kf8} the{\kf38} final{\kf27} bunch
-Dialogue: 0,0:01:59.12,0:01:59.91,DEFAULT,,0,0,0,,{\kf8}You{\kf19} need{\kf8} to{\kf38} know
-Dialogue: 0,0:01:59.95,0:02:01.45,DEFAULT,,0,0,0,,{\kf30}Making{\kf38} music,{\kf19} art{\kf12} and{\kf42} stories
-Dialogue: 0,0:02:01.52,0:02:02.95,DEFAULT,,0,0,0,,{\kf19}All{\kf57} inspired{\kf12} by{\kf8} the{\kf38} show
-Dialogue: 0,0:02:03.21,0:02:04.33,DEFAULT,,0,0,0,,{\kf15}While{\kf30} counting{\kf15} down{\kf8} the{\kf38} days
-Dialogue: 0,0:02:04.33,0:02:05.83,DEFAULT,,0,0,0,,{\kf15}From{\kf30} Season{\kf19} One{\kf8} to{\kf34} Season{\kf30} Two
-Dialogue: 0,0:02:05.87,0:02:08.01,DEFAULT,,0,0,0,,{\kf12}The{\kf64} musicians{\kf15} wrote{\kf53} funky{\kf27} little{\kf34} songs
-Dialogue: 0,0:02:08.01,0:02:09.10,DEFAULT,,0,0,0,,{\kf19}Like{\kf38} Pinkie's{\kf38} Brew
-Dialogue: 0,0:02:09.25,0:02:12.02,DEFAULT,,0,0,0,,{\kf12}The{\kf30} Pony{\kf72} Generators{\kf19} churn{\kf15} out{\kf27} many{\kf19} new{\kf60} OCs
-Dialogue: 0,0:02:12.10,0:02:13.22,DEFAULT,,0,0,0,,{\kf12}And{\kf12} the{\kf34} artists{\kf19} put{\kf15} their{\kf15} art
-Dialogue: 0,0:02:13.26,0:02:14.98,DEFAULT,,0,0,0,,{\kf12}On{\kf42} TUMBLR{\kf27} blogs{\kf15} for{\kf15} all{\kf12} to{\kf38} see
-Dialogue: 0,0:02:15.25,0:02:16.52,DEFAULT,,0,0,0,,{\kf8}The{\kf38} writers{\kf15} pair{\kf12} their{\kf42} favorites
-Dialogue: 0,0:02:16.56,0:02:17.98,DEFAULT,,0,0,0,,{\kf38}Voicing{\kf38} charming{\kf23} little{\kf34} quips
-Dialogue: 0,0:02:18.10,0:02:19.48,DEFAULT,,0,0,0,,{\kf8}And{\kf27} although{\kf12} they{\kf23} face{\kf15} some{\kf42} critics
-Dialogue: 0,0:02:19.52,0:02:20.95,DEFAULT,,0,0,0,,{\kf12}The{\kf15} will{\kf15} go{\kf19} down{\kf12} with{\kf15} their{\kf38} ships
-Dialogue: 0,0:02:21.25,0:02:22.52,DEFAULT,,0,0,0,,{\kf12}Their{\kf38} talent{\kf15} is{\kf19} their{\kf34} glory
-Dialogue: 0,0:02:22.56,0:02:23.98,DEFAULT,,0,0,0,,{\kf27}Ever{\kf34} growing,{\kf23} never{\kf49} stopping
-Dialogue: 0,0:02:23.98,0:02:25.48,DEFAULT,,0,0,0,,{\kf19}From{\kf12} the{\kf38} music{\kf12} to{\kf8} the{\kf53} stories
-Dialogue: 0,0:02:25.52,0:02:27.17,DEFAULT,,0,0,0,,{\kf8}And{\kf12} the{\kf49} artwork{\kf8} and{\kf8} the{\kf75} clopping
-Dialogue: 0,0:02:28.93,0:02:29.27,DEFAULT,,0,0,0,,{\kf12} Oh{\kf23} dear!
-Dialogue: 0,0:02:29.95,0:02:31.48,DEFAULT,,0,0,0,,{\kf15}But{\kf23} let's{\kf27} steer{\kf23} away{\kf15} from{\kf15} that{\kf15} one
-Dialogue: 0,0:02:31.48,0:02:32.98,DEFAULT,,0,0,0,,{\kf12}And{\kf15} get{\kf23} right{\kf23} back{\kf8} to{\kf15} the{\kf53} ponies
-Dialogue: 0,0:02:33.06,0:02:34.63,DEFAULT,,0,0,0,,{\kf12}For{\kf53} Creatives{\kf12} are{\kf8} the{\kf38} final{\kf23} bunch
-Dialogue: 0,0:02:34.67,0:02:36.21,DEFAULT,,0,0,0,,{\kf8}In{\kf12} the{\kf30} wacky{\kf23} world{\kf12} of{\kf49} Bronies
-Dialogue: 0,0:02:36.88,0:02:39.36,DEFAULT,,0,0,0,,{\kf98}Creatives,{\kf23} and{\kf83} Moderates
-Dialogue: 0,0:02:40.00,0:02:42.51,DEFAULT,,0,0,0,,{\kf19}And{\kf79} lastly{\kf64} Hipster{\kf75} Bronies
-Dialogue: 0,0:02:43.45,0:02:45.51,DEFAULT,,0,0,0,,{\kf12}Are{\kf12} the{\kf49} groups{\kf15} that{\kf15} are{\kf30} quite{\kf53} proud
-Dialogue: 0,0:02:45.51,0:02:46.93,DEFAULT,,0,0,0,,{\kf8}To{\kf27} watch{\kf12} the{\kf75} show
-Dialogue: 0,0:02:47.38,0:02:51.02,DEFAULT,,0,0,0,,{\kf102}My{\kf139} Little{\kf117} Pony
-Dialogue: 0,0:02:56.12,0:02:59.76,DEFAULT,,0,0,0,,{\kf60}Hey!{\kf64} Forgetting{\kf90} somepony?
-Dialogue: 0,0:03:00.88,0:03:02.91,DEFAULT,,0,0,0,,{\kf15}It{\kf57} seems{\kf12} your{\kf30} little{\kf75} lessons
-Dialogue: 0,0:03:02.95,0:03:05.20,DEFAULT,,0,0,0,,{\kf27}Left{\kf12} the{\kf45} fairer{\kf38} sex{\kf83} neglected
-Dialogue: 0,0:03:05.46,0:03:07.75,DEFAULT,,0,0,0,,{\kf23}Well,{\kf23} when{\kf60} girls{\kf27} like{\kf27} little{\kf42} ponies
-Dialogue: 0,0:03:07.78,0:03:09.55,DEFAULT,,0,0,0,,{\kf23}That's{\kf42} very{\kf27} much{\kf79} expected
-Dialogue: 0,0:03:10.33,0:03:12.10,DEFAULT,,0,0,0,,{\kf42}Even{\kf30} so,{\kf19} you{\kf30} can't{\kf42} ignore
-Dialogue: 0,0:03:12.10,0:03:14.08,DEFAULT,,0,0,0,,{\kf27}These{\kf53} fillies'{\kf109} contributions
-Dialogue: 0,0:03:14.68,0:03:16.48,DEFAULT,,0,0,0,,{\kf15}We're{\kf49} involved{\kf19} in{\kf34} Brony{\kf49} culture
-Dialogue: 0,0:03:16.56,0:03:18.85,DEFAULT,,0,0,0,,{\kf15}And{\kf19} we{\kf68} demand{\kf27} our{\kf72} inclusion
-Dialogue: 0,0:03:19.60,0:03:21.17,DEFAULT,,0,0,0,,{\kf15}We{\kf42} attend{\kf12} all{\kf8} the{\kf68} conventions
-Dialogue: 0,0:03:21.25,0:03:22.56,DEFAULT,,0,0,0,,{\kf38}Create{\kf19} art{\kf15} and{\kf27} music{\kf19} too
-Dialogue: 0,0:03:22.60,0:03:23.72,DEFAULT,,0,0,0,,{\kf15}We{\kf42} discuss{\kf12} the{\kf34} show,
-Dialogue: 0,0:03:23.76,0:03:24.58,DEFAULT,,0,0,0,,{\kf23} Talk{\kf15} on{\kf42} forums
-Dialogue: 0,0:03:24.85,0:03:26.53,DEFAULT,,0,0,0,,{\kf42}Everything{\kf12} that{\kf27} these{\kf34} dudes{\kf45} do!
-Dialogue: 0,0:03:27.55,0:03:29.20,DEFAULT,,0,0,0,,{\kf23}No,{\kf23} we're{\kf30} not{\kf72} bros,
-Dialogue: 0,0:03:29.50,0:03:30.66,DEFAULT,,0,0,0,,{\kf15}But{\kf19} we're{\kf75} Bronies
-Dialogue: 0,0:03:31.18,0:03:33.62,DEFAULT,,0,0,0,,{\kf23}Though{\kf38} some{\kf34} prefer{\kf109} Pegasisters
-Dialogue: 0,0:03:34.63,0:03:36.92,DEFAULT,,0,0,0,,{\kf23}And{\kf23} we{\kf60} also{\kf23} are{\kf83} Creatives
-Dialogue: 0,0:03:37.45,0:03:40.26,DEFAULT,,0,0,0,,{\kf72}Moderates,{\kf19} and{\kf57} even{\kf94} Hipsters
-Dialogue: 0,0:03:41.27,0:03:42.21,DEFAULT,,0,0,0,,{\kf12}Well,{\kf23} there{\kf12} you{\kf19} have{\kf15} it!
-Dialogue: 0,0:03:42.70,0:03:43.90,DEFAULT,,0,0,0,,{\kf49}All{\kf12} the{\kf60} Bronies
-Dialogue: 0,0:03:44.57,0:03:47.05,DEFAULT,,0,0,0,,{\kf102}Anypony{\kf30} else{\kf19} I{\kf75} missed?
-Dialogue: 0,0:03:48.06,0:03:50.20,DEFAULT,,0,0,0,,{\kf19}Now,{\kf12} if{\kf15} it's{\kf27} all{\kf12} the{\kf42} same{\kf12} to{\kf60} you
-Dialogue: 0,0:03:50.65,0:03:52.78,DEFAULT,,0,0,0,,{\kf75}Class{\kf124} dismissed!
+Dialogue: 0,0:00:16.23,0:00:17.54,DEFAULT,,0,0,0,,{\r}{\kf12}For{\kf20} one{\kf12} to{\kf33} fully{\kf54} comprehend
+Dialogue: 0,0:00:17.61,0:00:18.93,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf35} Pony{\kf73} fascination
+Dialogue: 0,0:00:18.96,0:00:19.83,DEFAULT,,0,0,0,,{\r}{\kf13}Let{\kf13} me{\kf26} first{\kf17} sum{\kf17} up
+Dialogue: 0,0:00:19.83,0:00:22.00,DEFAULT,,0,0,0,,{\r}{\kf12}The{\kf52} previous{\kf16} of{\kf36} Pony{\kf102} generations
+Dialogue: 0,0:00:22.15,0:00:24.66,DEFAULT,,0,0,0,,{\r}{\kf67}Generation{\kf21} One{\kf33} appeared{\kf13} on{\kf42} TV{\kf17} in{\kf13} the{\kf45} 80s
+Dialogue: 0,0:00:24.74,0:00:26.01,DEFAULT,,0,0,0,,{\r}{\kf10}It{\kf13} was{\kf26} made{\kf10} to{\kf26} sell{\kf43} toys
+Dialogue: 0,0:00:26.09,0:00:27.63,DEFAULT,,0,0,0,,{\r}{\kf28}Plots{\kf12} were{\kf36} hardly{\kf28} very{\kf50} weighty
+Dialogue: 0,0:00:27.78,0:00:28.83,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf57} Generation{\kf32} Two
+Dialogue: 0,0:00:28.90,0:00:30.40,DEFAULT,,0,0,0,,{\r}{\kf12}I{\kf15} do{\kf23} not{\kf15} mean{\kf12} to{\kf27} grouse{\kf12} and{\kf34} gripe
+Dialogue: 0,0:00:30.40,0:00:33.44,DEFAULT,,0,0,0,,{\r}{\kf12}But{\kf25} these{\kf53} characters{\kf21} fall{\kf16} right{\kf25} into{\kf16} the{\kf41} "girly"{\kf95} stereotypes
+Dialogue: 0,0:00:33.59,0:00:35.05,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf83} Generation{\kf43} Three
+Dialogue: 0,0:00:35.05,0:00:37.38,DEFAULT,,0,0,0,,{\r}{\kf12}Is{\kf25} just{\kf29} too{\kf49} awful{\kf25} and{\kf25} too{\kf68} tragic
+Dialogue: 0,0:00:38.13,0:00:40.00,DEFAULT,,0,0,0,,{\r}{\kf17}So{\kf31} let's{\kf26} jump{\kf10} to{\kf35} number{\kf69} Four
+Dialogue: 0,0:00:40.64,0:00:43.53,DEFAULT,,0,0,0,,{\r}{\kf36}Where{\kf124} Friendship{\kf26} Is{\kf103} Magic
+Dialogue: 0,0:00:45.29,0:00:46.79,DEFAULT,,0,0,0,,{\r}{\kf12}All{\kf16} the{\kf61} characters{\kf61} compelling
+Dialogue: 0,0:00:46.79,0:00:48.25,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf10} the{\kf36} stellar{\kf84} storytelling
+Dialogue: 0,0:00:48.29,0:00:49.79,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf10} the{\kf49} lovely{\kf71} animation
+Dialogue: 0,0:00:49.83,0:00:51.63,DEFAULT,,0,0,0,,{\r}{\kf25}Brought{\kf33} about{\kf25} great{\kf97} dedication
+Dialogue: 0,0:00:52.45,0:00:54.03,DEFAULT,,0,0,0,,{\r}{\kf18}This{\kf18} is{\kf22} where{\kf13} we{\kf22} meet{\kf10} the{\kf55} Bronies
+Dialogue: 0,0:00:54.10,0:00:55.30,DEFAULT,,0,0,0,,{\r}{\kf10}For{\kf10} they{\kf26} like{\kf17} My{\kf21} Little{\kf36} Pony
+Dialogue: 0,0:00:55.34,0:00:56.80,DEFAULT,,0,0,0,,{\r}{\kf21}Yes,{\kf13} the{\kf26} bros{\kf39} enjoy{\kf10} the{\kf37} ponies
+Dialogue: 0,0:00:56.80,0:00:58.41,DEFAULT,,0,0,0,,{\r}{\kf16}So{\kf24} let's{\kf20} go{\kf12} and{\kf16} meet{\kf12} the{\kf61} Bronies
+Dialogue: 0,0:01:08.99,0:01:10.49,DEFAULT,,0,0,0,,{\r}{\kf16}Well{\kf20} the{\kf24} growth{\kf12} in{\kf24} Pony{\kf54} fandom
+Dialogue: 0,0:01:10.56,0:01:11.91,DEFAULT,,0,0,0,,{\r}{\kf30}Might{\kf25} simply{\kf21} seem{\kf59} absurd
+Dialogue: 0,0:01:11.99,0:01:13.26,DEFAULT,,0,0,0,,{\r}{\kf21}True{\kf38} fans{\kf38} adore{\kf10} the{\kf20} show
+Dialogue: 0,0:01:13.26,0:01:14.80,DEFAULT,,0,0,0,,{\r}{\kf13}While{\kf34} others{\kf34} gallop{\kf21} to{\kf13} the{\kf39} Herd
+Dialogue: 0,0:01:15.06,0:01:15.96,DEFAULT,,0,0,0,,{\r}{\kf20}For{\kf37} hipster{\kf33} Bronies
+Dialogue: 0,0:01:16.04,0:01:17.73,DEFAULT,,0,0,0,,{\r}{\kf34}Watching{\kf34} pastel{\kf38} ponies{\kf17} has{\kf46} appeal
+Dialogue: 0,0:01:18.03,0:01:19.23,DEFAULT,,0,0,0,,{\r}{\kf13}Though{\kf26} first{\kf13} it{\kf21} seems{\kf47} ironic
+Dialogue: 0,0:01:19.30,0:01:20.88,DEFAULT,,0,0,0,,{\r}{\kf25}Soon{\kf25} enough{\kf21} it's{\kf29} very{\kf58} real
+Dialogue: 0,0:01:20.99,0:01:22.04,DEFAULT,,0,0,0,,{\r}{\kf16}For{\kf48} Moderates{\kf16} they{\kf25} start
+Dialogue: 0,0:01:22.04,0:01:23.61,DEFAULT,,0,0,0,,{\r}{\kf16}With{\kf16} how{\kf20} they're{\kf36} finding{\kf16} it{\kf24} through{\kf30} hype
+Dialogue: 0,0:01:23.73,0:01:24.96,DEFAULT,,0,0,0,,{\r}{\kf17}When{\kf10} the{\kf50} Bronies{\kf12} they'd{\kf35} invade
+Dialogue: 0,0:01:24.96,0:01:26.61,DEFAULT,,0,0,0,,{\r}{\kf12}Their{\kf37} favorite{\kf50} forums{\kf12} and{\kf54} websites
+Dialogue: 0,0:01:26.76,0:01:28.30,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf13} though{\kf21} first{\kf17} a{\kf21} little{\kf69} skeptical
+Dialogue: 0,0:01:28.45,0:01:29.65,DEFAULT,,0,0,0,,{\r}{\kf16}These{\kf52} Moderates{\kf52} inquired
+Dialogue: 0,0:01:29.88,0:01:31.38,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf26} once{\kf13} they{\kf30} finally{\kf26} saw{\kf10} the{\kf24} show
+Dialogue: 0,0:01:31.41,0:01:32.80,DEFAULT,,0,0,0,,{\r}{\kf13}Their{\kf22} love{\kf17} for{\kf13} it{\kf17} caught{\kf57} fire
+Dialogue: 0,0:01:32.88,0:01:34.15,DEFAULT,,0,0,0,,{\r}{\kf13}The{\kf47} core{\kf17} of{\kf10} the{\kf40} meetups
+Dialogue: 0,0:01:34.19,0:01:35.58,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf60} conventions{\kf16} that{\kf16} you{\kf35} see
+Dialogue: 0,0:01:35.61,0:01:36.93,DEFAULT,,0,0,0,,{\r}{\kf17}Are{\kf10} the{\kf42} social{\kf30} groups{\kf10} that{\kf22} come
+Dialogue: 0,0:01:36.93,0:01:38.54,DEFAULT,,0,0,0,,{\r}{\kf12}To{\kf65} BronyCon{\kf10} and{\kf74} Everfree
+Dialogue: 0,0:01:38.54,0:01:40.11,DEFAULT,,0,0,0,,{\r}{\kf25}Yes,{\kf12} the{\kf54} Moderates{\kf12} and{\kf55} Hipsters
+Dialogue: 0,0:01:40.11,0:01:41.54,DEFAULT,,0,0,0,,{\r}{\kf16}Are{\kf10} the{\kf24} big{\kf32} groups{\kf10} of{\kf12} the{\kf38} Bronies
+Dialogue: 0,0:01:41.61,0:01:42.85,DEFAULT,,0,0,0,,{\r}{\kf17}They're{\kf12} the{\kf33} dudes{\kf10} that{\kf17} are{\kf17} the{\kf18} bulk
+Dialogue: 0,0:01:42.85,0:01:44.65,DEFAULT,,0,0,0,,{\r}{\kf13}Of{\kf25} all{\kf13} the{\kf25} men{\kf13} who{\kf21} like{\kf13} the{\kf57} ponies
+Dialogue: 0,0:01:57.29,0:01:59.09,DEFAULT,,0,0,0,,{\r}{\kf51}Creative{\kf34} Bronies{\kf13} are{\kf10} the{\kf43} final{\kf29} bunch
+Dialogue: 0,0:01:59.13,0:01:59.91,DEFAULT,,0,0,0,,{\r}{\kf10}You{\kf21} need{\kf10} to{\kf38} know
+Dialogue: 0,0:01:59.95,0:02:01.45,DEFAULT,,0,0,0,,{\r}{\kf32}Making{\kf41} music,{\kf20} art{\kf12} and{\kf45} stories
+Dialogue: 0,0:02:01.53,0:02:02.95,DEFAULT,,0,0,0,,{\r}{\kf20}All{\kf61} inspired{\kf12} by{\kf10} the{\kf39} show
+Dialogue: 0,0:02:03.21,0:02:04.34,DEFAULT,,0,0,0,,{\r}{\kf16}While{\kf32} counting{\kf16} down{\kf10} the{\kf38} days
+Dialogue: 0,0:02:04.34,0:02:05.84,DEFAULT,,0,0,0,,{\r}{\kf17}From{\kf33} Season{\kf21} One{\kf10} to{\kf38} Season{\kf31} Two
+Dialogue: 0,0:02:05.88,0:02:08.01,DEFAULT,,0,0,0,,{\r}{\kf12}The{\kf67} musicians{\kf16} wrote{\kf55} funky{\kf28} little{\kf36} songs
+Dialogue: 0,0:02:08.01,0:02:09.10,DEFAULT,,0,0,0,,{\r}{\kf22}Like{\kf44} Pinkie's{\kf43} Brew
+Dialogue: 0,0:02:09.25,0:02:12.03,DEFAULT,,0,0,0,,{\r}{\kf12}The{\kf33} Pony{\kf79} Generators{\kf21} churn{\kf17} out{\kf29} many{\kf21} new{\kf65} OCs
+Dialogue: 0,0:02:12.10,0:02:13.23,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf12} the{\kf36} artists{\kf20} put{\kf16} their{\kf16} art
+Dialogue: 0,0:02:13.26,0:02:14.99,DEFAULT,,0,0,0,,{\r}{\kf12}On{\kf45} TUMBLR{\kf29} blogs{\kf16} for{\kf16} all{\kf12} to{\kf42} see
+Dialogue: 0,0:02:15.25,0:02:16.53,DEFAULT,,0,0,0,,{\r}{\kf10}The{\kf42} writers{\kf17} pair{\kf13} their{\kf45} favorites
+Dialogue: 0,0:02:16.56,0:02:17.99,DEFAULT,,0,0,0,,{\r}{\kf41}Voicing{\kf41} charming{\kf24} little{\kf36} quips
+Dialogue: 0,0:02:18.10,0:02:19.49,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf29} although{\kf13} they{\kf25} face{\kf17} some{\kf45} critics
+Dialogue: 0,0:02:19.53,0:02:20.95,DEFAULT,,0,0,0,,{\r}{\kf13}The{\kf17} will{\kf17} go{\kf22} down{\kf13} with{\kf17} their{\kf44} ships
+Dialogue: 0,0:02:21.25,0:02:22.53,DEFAULT,,0,0,0,,{\r}{\kf12}Their{\kf41} talent{\kf17} is{\kf21} their{\kf37} glory
+Dialogue: 0,0:02:22.56,0:02:23.99,DEFAULT,,0,0,0,,{\r}{\kf29}Ever{\kf37} growing,{\kf25} never{\kf52} stopping
+Dialogue: 0,0:02:23.99,0:02:25.49,DEFAULT,,0,0,0,,{\r}{\kf20}From{\kf12} the{\kf41} music{\kf12} to{\kf10} the{\kf55} stories
+Dialogue: 0,0:02:25.53,0:02:27.18,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf12} the{\kf51} artwork{\kf10} and{\kf10} the{\kf72} clopping
+Dialogue: 0,0:02:28.94,0:02:29.28,DEFAULT,,0,0,0,,{\r}{\kf11} Oh{\kf23} dear!
+Dialogue: 0,0:02:29.95,0:02:31.49,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf26} let's{\kf31} steer{\kf26} away{\kf18} from{\kf18} that{\kf17} one
+Dialogue: 0,0:02:31.49,0:02:32.99,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf15} get{\kf23} right{\kf23} back{\kf10} to{\kf15} the{\kf52} ponies
+Dialogue: 0,0:02:33.06,0:02:34.64,DEFAULT,,0,0,0,,{\r}{\kf12}For{\kf58} Creatives{\kf12} are{\kf10} the{\kf41} final{\kf24} bunch
+Dialogue: 0,0:02:34.68,0:02:36.21,DEFAULT,,0,0,0,,{\r}{\kf10}In{\kf13} the{\kf35} wacky{\kf26} world{\kf13} of{\kf57} Bronies
+Dialogue: 0,0:02:36.89,0:02:39.36,DEFAULT,,0,0,0,,{\r}{\kf119}Creatives,{\kf27} and{\kf101} Moderates
+Dialogue: 0,0:02:40.00,0:02:42.51,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf84} lastly{\kf68} Hipster{\kf79} Bronies
+Dialogue: 0,0:02:43.45,0:02:45.51,DEFAULT,,0,0,0,,{\r}{\kf13}Are{\kf13} the{\kf55} groups{\kf17} that{\kf17} are{\kf34} quite{\kf57} proud
+Dialogue: 0,0:02:45.51,0:02:46.94,DEFAULT,,0,0,0,,{\r}{\kf10}To{\kf31} watch{\kf13} the{\kf89} show
+Dialogue: 0,0:02:47.39,0:02:51.03,DEFAULT,,0,0,0,,{\r}{\kf103}My{\kf142} Little{\kf119} Pony
+Dialogue: 0,0:02:56.13,0:02:59.76,DEFAULT,,0,0,0,,{\r}{\kf102}Hey!{\kf109} Forgetting{\kf153} somepony?
+Dialogue: 0,0:03:00.89,0:03:02.91,DEFAULT,,0,0,0,,{\r}{\kf16}It{\kf61} seems{\kf12} your{\kf32} little{\kf82} lessons
+Dialogue: 0,0:03:02.95,0:03:05.20,DEFAULT,,0,0,0,,{\r}{\kf29}Left{\kf12} the{\kf50} fairer{\kf42} sex{\kf92} neglected
+Dialogue: 0,0:03:05.46,0:03:07.75,DEFAULT,,0,0,0,,{\r}{\kf26}Well,{\kf26} when{\kf69} girls{\kf30} like{\kf30} little{\kf48} ponies
+Dialogue: 0,0:03:07.79,0:03:09.55,DEFAULT,,0,0,0,,{\r}{\kf23}That's{\kf43} very{\kf27} much{\kf83} expected
+Dialogue: 0,0:03:10.34,0:03:12.10,DEFAULT,,0,0,0,,{\r}{\kf45}Even{\kf33} so,{\kf20} you{\kf33} can't{\kf45} ignore
+Dialogue: 0,0:03:12.10,0:03:14.09,DEFAULT,,0,0,0,,{\r}{\kf28}These{\kf56} fillies'{\kf115} contributions
+Dialogue: 0,0:03:14.69,0:03:16.49,DEFAULT,,0,0,0,,{\r}{\kf16}We're{\kf53} involved{\kf20} in{\kf37} Brony{\kf54} culture
+Dialogue: 0,0:03:16.56,0:03:18.85,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf22} we{\kf78} demand{\kf30} our{\kf82} inclusion
+Dialogue: 0,0:03:19.60,0:03:21.18,DEFAULT,,0,0,0,,{\r}{\kf17}We{\kf46} attend{\kf12} all{\kf10} the{\kf73} conventions
+Dialogue: 0,0:03:21.25,0:03:22.56,DEFAULT,,0,0,0,,{\r}{\kf42}Create{\kf21} art{\kf17} and{\kf30} music{\kf21} too
+Dialogue: 0,0:03:22.60,0:03:23.73,DEFAULT,,0,0,0,,{\r}{\kf17}We{\kf46} discuss{\kf12} the{\kf37} show,
+Dialogue: 0,0:03:23.76,0:03:24.59,DEFAULT,,0,0,0,,{\r}{\kf23} Talk{\kf16} on{\kf43} forums
+Dialogue: 0,0:03:24.85,0:03:26.54,DEFAULT,,0,0,0,,{\r}{\kf44}Everything{\kf12} that{\kf28} these{\kf36} dudes{\kf49} do!
+Dialogue: 0,0:03:27.55,0:03:29.20,DEFAULT,,0,0,0,,{\r}{\kf25}No,{\kf25} we're{\kf34} not{\kf81} bros,
+Dialogue: 0,0:03:29.50,0:03:30.66,DEFAULT,,0,0,0,,{\r}{\kf16}But{\kf20} we're{\kf80} Bronies
+Dialogue: 0,0:03:31.19,0:03:33.63,DEFAULT,,0,0,0,,{\r}{\kf27}Though{\kf45} some{\kf41} prefer{\kf131} Pegasisters
+Dialogue: 0,0:03:34.64,0:03:36.93,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf25} we{\kf65} also{\kf25} are{\kf89} Creatives
+Dialogue: 0,0:03:37.45,0:03:40.26,DEFAULT,,0,0,0,,{\r}{\kf83}Moderates,{\kf22} and{\kf66} even{\kf110} Hipsters
+Dialogue: 0,0:03:41.28,0:03:42.21,DEFAULT,,0,0,0,,{\r}{\kf13}Well,{\kf27} there{\kf13} you{\kf22} have{\kf19} it!
+Dialogue: 0,0:03:42.70,0:03:43.90,DEFAULT,,0,0,0,,{\r}{\kf49}All{\kf11} the{\kf60} Bronies
+Dialogue: 0,0:03:44.58,0:03:47.05,DEFAULT,,0,0,0,,{\r}{\kf111}Anypony{\kf33} else{\kf21} I{\kf82} missed?
+Dialogue: 0,0:03:48.06,0:03:50.20,DEFAULT,,0,0,0,,{\r}{\kf21}Now,{\kf12} if{\kf16} it's{\kf29} all{\kf12} the{\kf45} same{\kf12} to{\kf67} you
+Dialogue: 0,0:03:50.65,0:03:52.79,DEFAULT,,0,0,0,,{\r}{\kf81}Class{\kf133} dismissed!

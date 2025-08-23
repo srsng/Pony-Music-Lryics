@@ -1,85 +1,92 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: The End Of The World
+Artist: Mathematicus, And The Rainfall
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:39.59,0:00:41.92,DEFAULT,,0,0,0,,{\kf31}Twi{\kf36}light{\kf23} is{\kf27} search{\kf14}ing{\kf40} for
-Dialogue: 0,0:00:42.37,0:00:44.62,DEFAULT,,0,0,0,,{\kf27}Stars{\kf14} to{\kf23} fill{\kf36} her{\kf80} sky
-Dialogue: 0,0:00:45.23,0:00:47.53,DEFAULT,,0,0,0,,{\kf31}White{\kf62} light{\kf36} blinds{\kf45} her
-Dialogue: 0,0:00:47.84,0:00:50.39,DEFAULT,,0,0,0,,{\kf14}The{\kf18} sun{\kf14} is{\kf23} far{\kf18} too{\kf18}~{\kf93} bright
-Dialogue: 0,0:00:50.88,0:00:53.17,DEFAULT,,0,0,0,,{\kf36}Dark{\kf53} night{\kf31} brings{\kf36} her
-Dialogue: 0,0:00:53.53,0:00:55.91,DEFAULT,,0,0,0,,{\kf14}To{\kf18} some{\kf18}where{\kf23} deep{\kf27} in{\kf80}side
-Dialogue: 0,0:00:56.57,0:00:58.78,DEFAULT,,0,0,0,,{\kf36}Twi{\kf36}light{\kf18} is{\kf36} search{\kf36}ing
-Dialogue: 0,0:00:59.13,0:01:02.09,DEFAULT,,0,0,0,,{\kf14}For{\kf18} some{\kf14}thing{\kf23} she{\kf31} can't{\kf45} find{\kf71}~
-Dialogue: 0,0:01:24.72,0:01:27.01,DEFAULT,,0,0,0,,{\kf23}Some{\kf23}thing{\kf18} strange{\kf23} has{\kf27} hap{\kf14}pened{\kf31} to
-Dialogue: 0,0:01:27.37,0:01:29.79,DEFAULT,,0,0,0,,{\kf14}The{\kf27} flo{\kf14}wers{\kf23} and{\kf31} the{\kf80} trees
-Dialogue: 0,0:01:30.41,0:01:32.66,DEFAULT,,0,0,0,,{\kf18}This{\kf23} is{\kf18} not,{\kf18} is{\kf18} not,{\kf14} the{\kf36} time
-Dialogue: 0,0:01:33.06,0:01:35.57,DEFAULT,,0,0,0,,{\kf14}For{\kf18} them{\kf14} to{\kf23} change{\kf27} their{\kf58} leaves{\kf31}~
-Dialogue: 0,0:01:36.06,0:01:38.31,DEFAULT,,0,0,0,,{\kf23}Some{\kf23}thing{\kf23} strange{\kf23} has{\kf23} hap{\kf14}pened{\kf36} to
-Dialogue: 0,0:01:38.62,0:01:41.09,DEFAULT,,0,0,0,,{\kf14}The{\kf23} flo{\kf14}wers{\kf23} and{\kf27} the{\kf84} trees
-Dialogue: 0,0:01:41.66,0:01:43.95,DEFAULT,,0,0,0,,{\kf23}This{\kf18} is{\kf23} not,{\kf18} is{\kf23} not,{\kf14} the{\kf36} time
-Dialogue: 0,0:01:44.31,0:01:47.09,DEFAULT,,0,0,0,,{\kf14}For{\kf23} them{\kf14} to{\kf23} change{\kf23} their{\kf58} leaves{\kf53}~
-Dialogue: 0,0:01:58.25,0:02:00.89,DEFAULT,,0,0,0,,{\kf18}So{\kf36} Twi{\kf53}light{\kf23} wan{\kf14}ders{\kf31} through
-Dialogue: 0,0:02:01.42,0:02:03.59,DEFAULT,,0,0,0,,{\kf27}Let{\kf14}ters{\kf14} she{\kf31} can't{\kf75} write
-Dialogue: 0,0:02:04.25,0:02:06.63,DEFAULT,,0,0,0,,{\kf31}Time{\kf40} stands{\kf18} still{\kf18} when{\kf40} she
-Dialogue: 0,0:02:07.07,0:02:09.28,DEFAULT,,0,0,0,,{\kf23}Looks{\kf14} in{\kf18}to{\kf36} her{\kf80} eyes
-Dialogue: 0,0:02:09.94,0:02:12.19,DEFAULT,,0,0,0,,{\kf36}Twi{\kf62}light's{\kf31} tears{\kf36} flow
-Dialogue: 0,0:02:12.54,0:02:14.97,DEFAULT,,0,0,0,,{\kf14}And{\kf18} pools{\kf14} re{\kf23}flect{\kf14} her{\kf23}~{\kf80} light
-Dialogue: 0,0:02:15.59,0:02:17.88,DEFAULT,,0,0,0,,{\kf31}Try{\kf53} as{\kf31} she{\kf40} might
-Dialogue: 0,0:02:18.23,0:02:21.01,DEFAULT,,0,0,0,,{\kf14}She{\kf18} can{\kf18}not{\kf27} calm{\kf18} the{\kf49} tides{\kf62}~
-Dialogue: 0,0:02:55.07,0:02:57.37,DEFAULT,,0,0,0,,{\kf23}Some{\kf23}thing{\kf23} strange{\kf18} has{\kf23} hap{\kf14}pened{\kf36} to
-Dialogue: 0,0:02:57.72,0:03:00.06,DEFAULT,,0,0,0,,{\kf14}The{\kf18} rain{\kf14}bow{\kf23} in{\kf18} the{\kf75} sky
-Dialogue: 0,0:03:00.54,0:03:02.88,DEFAULT,,0,0,0,,{\kf14}The{\kf18} light{\kf18} has{\kf23} cast{\kf18} a{\kf27} sha{\kf18}dow{\kf18} and
-Dialogue: 0,0:03:03.37,0:03:05.66,DEFAULT,,0,0,0,,{\kf14}The{\kf27} co{\kf14}lors{\kf18} aren't{\kf31} quite{\kf71} right
-Dialogue: 0,0:03:06.41,0:03:08.62,DEFAULT,,0,0,0,,{\kf23}Some{\kf18}thing{\kf23} strange{\kf23} has{\kf27} hap{\kf14}pened{\kf27} to
-Dialogue: 0,0:03:09.06,0:03:11.44,DEFAULT,,0,0,0,,{\kf14}The{\kf23} rain{\kf14}bow{\kf18} in{\kf14} the{\kf14}~{\kf84} sky
-Dialogue: 0,0:03:11.84,0:03:14.35,DEFAULT,,0,0,0,,{\kf14}The{\kf23} light{\kf18} has{\kf23} cast{\kf18} a{\kf27} sha{\kf18}dow{\kf18} and
-Dialogue: 0,0:03:14.53,0:03:17.57,DEFAULT,,0,0,0,,{\kf18}The{\kf23} co{\kf23}lors{\kf23} aren't{\kf18} quite{\kf67} right{\kf14}~{\kf23}~
-Dialogue: 0,0:03:39.89,0:03:42.50,DEFAULT,,0,0,0,,{\kf18}As{\kf27} Twi{\kf31}light{\kf18} is{\kf27} burn{\kf14}ing{\kf27} up
-Dialogue: 0,0:03:42.89,0:03:45.41,DEFAULT,,0,0,0,,{\kf14}A{\kf18} fire{\kf14}~{\kf18} she{\kf14} can't{\kf14}~{\kf89} fight
-Dialogue: 0,0:03:45.94,0:03:48.23,DEFAULT,,0,0,0,,{\kf27}Crys{\kf49}tal{\kf36} trees{\kf40} shine
-Dialogue: 0,0:03:48.54,0:03:51.01,DEFAULT,,0,0,0,,{\kf14}With{\kf14} leaves{\kf14} as{\kf27} sharp{\kf27} as{\kf89} knives
-Dialogue: 0,0:03:51.63,0:03:53.88,DEFAULT,,0,0,0,,{\kf27}Ink{\kf62} and{\kf36} gra{\kf40}phite
-Dialogue: 0,0:03:54.19,0:03:56.66,DEFAULT,,0,0,0,,{\kf14}Be{\kf18}come{\kf14} the{\kf27} dark{\kf23}est{\kf93} light
-Dialogue: 0,0:03:57.19,0:03:59.44,DEFAULT,,0,0,0,,{\kf36}Twi{\kf53}light{\kf23} takes{\kf31} flight
-Dialogue: 0,0:03:59.84,0:04:02.39,DEFAULT,,0,0,0,,{\kf14}She{\kf23} can{\kf18}not{\kf27} bear{\kf18} to{\kf53} cry{\kf31}~
-Dialogue: 0,0:04:02.84,0:04:05.09,DEFAULT,,0,0,0,,{\kf23}Some{\kf23}thing{\kf27} strange{\kf18} has{\kf27} hap{\kf14}pened{\kf31} to
-Dialogue: 0,0:04:05.48,0:04:07.78,DEFAULT,,0,0,0,,{\kf14}The{\kf18} sun,{\kf14} the{\kf23} moon{\kf27} and{\kf67} stars
-Dialogue: 0,0:04:08.31,0:04:10.78,DEFAULT,,0,0,0,,{\kf14}The{\kf23} cons{\kf18}tel{\kf40}la{\kf23}tions{\kf27} va{\kf18}nished,{\kf14} but
-Dialogue: 0,0:04:11.00,0:04:13.51,DEFAULT,,0,0,0,,{\kf18}Their{\kf23} light{\kf18} has{\kf23} left{\kf18} a{\kf75} scar
-Dialogue: 0,0:04:14.13,0:04:16.29,DEFAULT,,0,0,0,,{\kf18}Some{\kf18}thing{\kf23} strange{\kf18} has{\kf23} hap{\kf14}pened{\kf18} to
-Dialogue: 0,0:04:16.78,0:04:19.07,DEFAULT,,0,0,0,,{\kf14}The{\kf18} sun,{\kf14} the{\kf27} moon{\kf23} and{\kf71} stars
-Dialogue: 0,0:04:19.64,0:04:22.12,DEFAULT,,0,0,0,,{\kf14}The{\kf23} cons{\kf14}tel{\kf36}la{\kf23}tions{\kf23} va{\kf23}nished,{\kf18} but
-Dialogue: 0,0:04:22.34,0:04:25.12,DEFAULT,,0,0,0,,{\kf18}Their{\kf18} light{\kf18} has{\kf23} left{\kf18} a{\kf102} scar
-Dialogue: 0,0:04:36.41,0:04:39.01,DEFAULT,,0,0,0,,{\kf18}But{\kf27} Twi{\kf14}~{\kf36}light{\kf18} is{\kf27} fad{\kf14}ing{\kf31} as
-Dialogue: 0,0:04:39.50,0:04:41.57,DEFAULT,,0,0,0,,{\kf23}Dark{\kf18}ness{\kf18} fills{\kf23} the{\kf58} sky
-Dialogue: 0,0:04:42.37,0:04:44.79,DEFAULT,,0,0,0,,{\kf36}Moon{\kf36}light{\kf23} is{\kf23} drip{\kf14}ping{\kf45} in-
-Dialogue: 0,0:04:45.23,0:04:47.35,DEFAULT,,0,0,0,,{\kf18}To{\kf18} her{\kf31} vio{\kf31}let{\kf67} eyes
-Dialogue: 0,0:04:48.06,0:04:50.35,DEFAULT,,0,0,0,,{\kf40}Star{\kf36}light{\kf23} is{\kf31} sing{\kf40}ing
-Dialogue: 0,0:04:50.70,0:04:53.09,DEFAULT,,0,0,0,,{\kf14}A{\kf23} lone{\kf14}ly{\kf27} lul{\kf36}la{\kf75}by
-Dialogue: 0,0:04:53.66,0:04:55.91,DEFAULT,,0,0,0,,{\kf36}Day{\kf36}light{\kf18} is{\kf36} danc{\kf27}ing
-Dialogue: 0,0:04:56.31,0:04:58.91,DEFAULT,,0,0,0,,{\kf14}A{\kf18}way{\kf18} from{\kf23} pa{\kf18}ra{\kf58}dise{\kf53}~
-Dialogue: 0,0:05:21.89,0:05:24.23,DEFAULT,,0,0,0,,{\kf23}Some{\kf18}thing{\kf18} strange{\kf23} has{\kf23} hap{\kf18}pened{\kf31} to
-Dialogue: 0,0:05:24.63,0:05:26.88,DEFAULT,,0,0,0,,{\kf14}The{\kf18} ri{\kf14}vers{\kf23} and{\kf18} the{\kf75} sea
-Dialogue: 0,0:05:27.41,0:05:29.26,DEFAULT,,0,0,0,,{\kf14}The{\kf23} wa{\kf23}ter's{\kf23} stand{\kf18}ing{\kf31} still
-Dialogue: 0,0:05:29.66,0:05:32.48,DEFAULT,,0,0,0,,{\kf18}And{\kf18} re{\kf18}flec{\kf18}tions{\kf18} can't{\kf18} be{\kf67} seen
-Dialogue: 0,0:05:33.19,0:05:35.53,DEFAULT,,0,0,0,,{\kf23}Some{\kf18}thing{\kf18} strange{\kf18} has{\kf27} hap{\kf18}pened{\kf36} to
-Dialogue: 0,0:05:35.88,0:05:38.13,DEFAULT,,0,0,0,,{\kf14}The{\kf23} ri{\kf14}vers{\kf23} and{\kf14} the{\kf14}~{\kf71} sea
-Dialogue: 0,0:05:38.62,0:05:40.73,DEFAULT,,0,0,0,,{\kf14}The{\kf23} wa{\kf18}ter's{\kf27} stand{\kf23}ing{\kf49} still
-Dialogue: 0,0:05:40.91,0:05:44.92,DEFAULT,,0,0,0,,{\kf18}And{\kf23} re{\kf18}flec{\kf18}tions{\kf18} can't{\kf23} be{\kf181} seen
-Dialogue: 0,0:06:07.12,0:06:12.23,DEFAULT,,0,0,0,,{\kf128}Ah{\kf128} ah{\kf230} ah
-Dialogue: 0,0:06:18.41,0:06:23.53,DEFAULT,,0,0,0,,{\kf128}Ah{\kf128} ah{\kf230} ah
-Dialogue: 0,0:06:29.70,0:06:34.73,DEFAULT,,0,0,0,,{\kf128}Ah{\kf115} ah{\kf225} ah
-Dialogue: 0,0:06:35.39,0:06:40.29,DEFAULT,,0,0,0,,{\kf98}Ah{\kf137} ah{\kf111} ah{\kf75} ah
-Dialogue: 0,0:06:40.60,0:06:43.25,DEFAULT,,0,0,0,,{\kf23}Now{\kf40} Twi{\kf36}light{\kf18} is{\kf27} sleep{\kf18}ing{\kf27} as
-Dialogue: 0,0:06:43.87,0:06:46.20,DEFAULT,,0,0,0,,{\kf18}Me{\kf14}mories{\kf23} pass{\kf14} her{\kf18}~{\kf93} by
-Dialogue: 0,0:06:52.29,0:06:54.63,DEFAULT,,0,0,0,,{\kf31}Sun{\kf40} fol{\kf23}lows{\kf31} moon{\kf36}shine
-Dialogue: 0,0:06:54.98,0:06:57.28,DEFAULT,,0,0,0,,{\kf14}The{\kf18} beau{\kf18}ty{\kf18} of{\kf14} the{\kf18}~{\kf75} night
-Dialogue: 0,0:06:57.94,0:07:00.19,DEFAULT,,0,0,0,,{\kf40}Twi{\kf40}light{\kf18} is{\kf31} end{\kf36}ing
-Dialogue: 0,0:07:00.59,0:07:04.78,DEFAULT,,0,0,0,,{\kf14}And{\kf18} so{\kf14} she{\kf18} says{\kf177} good{\kf53}bye
+Dialogue: 0,0:00:39.59,0:00:41.93,DEFAULT,,0,0,0,,{\r}{\kf43}Twi{\kf49}light{\kf31} is{\kf37} search{\kf18}ing{\kf56} for
+Dialogue: 0,0:00:42.37,0:00:44.62,DEFAULT,,0,0,0,,{\r}{\kf34}Stars{\kf17} to{\kf28} fill{\kf45} her{\kf101} sky
+Dialogue: 0,0:00:45.24,0:00:47.53,DEFAULT,,0,0,0,,{\r}{\kf41}White{\kf82} light{\kf47} blinds{\kf59} her
+Dialogue: 0,0:00:47.84,0:00:50.40,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf23} sun{\kf17} is{\kf29} far{\kf23} too{\kf23}~{\kf124} bright
+Dialogue: 0,0:00:50.89,0:00:53.18,DEFAULT,,0,0,0,,{\r}{\kf52}Dark{\kf79} night{\kf46} brings{\kf52} her
+Dialogue: 0,0:00:53.53,0:00:55.91,DEFAULT,,0,0,0,,{\r}{\kf18}To{\kf24} some{\kf24}where{\kf30} deep{\kf36} in{\kf106}side
+Dialogue: 0,0:00:56.58,0:00:58.78,DEFAULT,,0,0,0,,{\r}{\kf49}Twi{\kf49}light{\kf25} is{\kf49} search{\kf49}ing
+Dialogue: 0,0:00:59.14,0:01:02.09,DEFAULT,,0,0,0,,{\r}{\kf18}For{\kf25} some{\kf18}thing{\kf31} she{\kf43} can't{\kf62} find{\kf99}~
+Dialogue: 0,0:01:24.72,0:01:27.02,DEFAULT,,0,0,0,,{\r}{\kf33}Some{\kf33}thing{\kf26} strange{\kf33} has{\kf39} hap{\kf20}pened{\kf45} to
+Dialogue: 0,0:01:27.37,0:01:29.80,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf35} flo{\kf17}wers{\kf29} and{\kf40} the{\kf105} trees
+Dialogue: 0,0:01:30.41,0:01:32.66,DEFAULT,,0,0,0,,{\r}{\kf28}This{\kf35} is{\kf28} not,{\kf28} is{\kf28} not,{\kf21} the{\kf57} time
+Dialogue: 0,0:01:33.06,0:01:35.58,DEFAULT,,0,0,0,,{\r}{\kf18}For{\kf24} them{\kf18} to{\kf31} change{\kf37} their{\kf80} leaves{\kf43}~
+Dialogue: 0,0:01:36.06,0:01:38.31,DEFAULT,,0,0,0,,{\r}{\kf31}Some{\kf31}thing{\kf31} strange{\kf31} has{\kf31} hap{\kf19}pened{\kf51} to
+Dialogue: 0,0:01:38.62,0:01:41.09,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf30} flo{\kf18}wers{\kf30} and{\kf36} the{\kf115} trees
+Dialogue: 0,0:01:41.66,0:01:43.96,DEFAULT,,0,0,0,,{\r}{\kf34}This{\kf27} is{\kf34} not,{\kf27} is{\kf34} not,{\kf20} the{\kf53} time
+Dialogue: 0,0:01:44.31,0:01:47.09,DEFAULT,,0,0,0,,{\r}{\kf18}For{\kf30} them{\kf18} to{\kf30} change{\kf30} their{\kf79} leaves{\kf73}~
+Dialogue: 0,0:01:58.25,0:02:00.90,DEFAULT,,0,0,0,,{\r}{\kf27}So{\kf54} Twi{\kf82}light{\kf34} wan{\kf20}ders{\kf48} through
+Dialogue: 0,0:02:01.43,0:02:03.59,DEFAULT,,0,0,0,,{\r}{\kf36}Let{\kf18}ters{\kf18} she{\kf42} can't{\kf102} write
+Dialogue: 0,0:02:04.25,0:02:06.64,DEFAULT,,0,0,0,,{\r}{\kf50}Time{\kf65} stands{\kf29} still{\kf29} when{\kf65} she
+Dialogue: 0,0:02:07.08,0:02:09.28,DEFAULT,,0,0,0,,{\r}{\kf29}Looks{\kf17} in{\kf23}to{\kf47} her{\kf105} eyes
+Dialogue: 0,0:02:09.94,0:02:12.19,DEFAULT,,0,0,0,,{\r}{\kf49}Twi{\kf85}light's{\kf43} tears{\kf48} flow
+Dialogue: 0,0:02:12.55,0:02:14.97,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf24} pools{\kf18} re{\kf30}flect{\kf18} her{\kf30}~{\kf105} light
+Dialogue: 0,0:02:15.59,0:02:17.89,DEFAULT,,0,0,0,,{\r}{\kf46}Try{\kf79} as{\kf46} she{\kf58} might
+Dialogue: 0,0:02:18.24,0:02:21.02,DEFAULT,,0,0,0,,{\r}{\kf18}She{\kf24} can{\kf24}not{\kf36} calm{\kf24} the{\kf66} tides{\kf86}~
+Dialogue: 0,0:02:55.08,0:02:57.37,DEFAULT,,0,0,0,,{\r}{\kf33}Some{\kf33}thing{\kf33} strange{\kf26} has{\kf33} hap{\kf20}pened{\kf51} to
+Dialogue: 0,0:02:57.72,0:03:00.06,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf26} rain{\kf20}bow{\kf32} in{\kf26} the{\kf110} sky
+Dialogue: 0,0:03:00.55,0:03:02.89,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf28} light{\kf28} has{\kf34} cast{\kf28} a{\kf41} sha{\kf28}dow{\kf26} and
+Dialogue: 0,0:03:03.37,0:03:05.66,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf35} co{\kf18}lors{\kf23} aren't{\kf41} quite{\kf94} right
+Dialogue: 0,0:03:06.41,0:03:08.62,DEFAULT,,0,0,0,,{\r}{\kf32}Some{\kf26}thing{\kf32} strange{\kf32} has{\kf39} hap{\kf20}pened{\kf40} to
+Dialogue: 0,0:03:09.06,0:03:11.44,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf30} rain{\kf18}bow{\kf24} in{\kf18} the{\kf18}~{\kf112} sky
+Dialogue: 0,0:03:11.84,0:03:14.36,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf36} light{\kf29} has{\kf36} cast{\kf29} a{\kf43} sha{\kf29}dow{\kf27} and
+Dialogue: 0,0:03:14.53,0:03:17.58,DEFAULT,,0,0,0,,{\r}{\kf26}The{\kf33} co{\kf33}lors{\kf33} aren't{\kf26} quite{\kf99} right{\kf20}~{\kf34}~
+Dialogue: 0,0:03:39.90,0:03:42.50,DEFAULT,,0,0,0,,{\r}{\kf29}As{\kf43} Twi{\kf51}light{\kf29} is{\kf43} burn{\kf22}ing{\kf43} up
+Dialogue: 0,0:03:42.90,0:03:45.41,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf25} fire{\kf19}~{\kf25} she{\kf19} can't{\kf19}~{\kf125} fight
+Dialogue: 0,0:03:45.94,0:03:48.24,DEFAULT,,0,0,0,,{\r}{\kf40}Crys{\kf74}tal{\kf54} trees{\kf61} shine
+Dialogue: 0,0:03:48.55,0:03:51.02,DEFAULT,,0,0,0,,{\r}{\kf18}With{\kf18} leaves{\kf18} as{\kf36} sharp{\kf36} as{\kf121} knives
+Dialogue: 0,0:03:51.64,0:03:53.89,DEFAULT,,0,0,0,,{\r}{\kf36}Ink{\kf85} and{\kf49} gra{\kf55}phite
+Dialogue: 0,0:03:54.19,0:03:56.66,DEFAULT,,0,0,0,,{\r}{\kf18}Be{\kf24}come{\kf18} the{\kf35} dark{\kf29}est{\kf123} light
+Dialogue: 0,0:03:57.19,0:03:59.44,DEFAULT,,0,0,0,,{\r}{\kf56}Twi{\kf84}light{\kf35} takes{\kf50} flight
+Dialogue: 0,0:03:59.84,0:04:02.40,DEFAULT,,0,0,0,,{\r}{\kf19}She{\kf31} can{\kf25}not{\kf37} bear{\kf25} to{\kf75} cry{\kf44}~
+Dialogue: 0,0:04:02.84,0:04:05.09,DEFAULT,,0,0,0,,{\r}{\kf31}Some{\kf31}thing{\kf38} strange{\kf25} has{\kf38} hap{\kf19}pened{\kf43} to
+Dialogue: 0,0:04:05.49,0:04:07.78,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf25} sun,{\kf19} the{\kf32} moon{\kf38} and{\kf96} stars
+Dialogue: 0,0:04:08.31,0:04:10.78,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf32} cons{\kf25}tel{\kf57}la{\kf32}tions{\kf38} va{\kf25}nished,{\kf19} but
+Dialogue: 0,0:04:11.00,0:04:13.52,DEFAULT,,0,0,0,,{\r}{\kf26}Their{\kf32} light{\kf26} has{\kf32} left{\kf26} a{\kf109} scar
+Dialogue: 0,0:04:14.14,0:04:16.30,DEFAULT,,0,0,0,,{\r}{\kf30}Some{\kf30}thing{\kf37} strange{\kf30} has{\kf37} hap{\kf22}pened{\kf30} to
+Dialogue: 0,0:04:16.78,0:04:19.08,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf25} sun,{\kf19} the{\kf37} moon{\kf31} and{\kf98} stars
+Dialogue: 0,0:04:19.65,0:04:22.12,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf32} cons{\kf20}tel{\kf52}la{\kf32}tions{\kf32} va{\kf32}nished,{\kf27} but
+Dialogue: 0,0:04:22.34,0:04:25.12,DEFAULT,,0,0,0,,{\r}{\kf25}Their{\kf25} light{\kf25} has{\kf32} left{\kf25} a{\kf146} scar
+Dialogue: 0,0:04:36.41,0:04:39.02,DEFAULT,,0,0,0,,{\r}{\kf25}But{\kf38} Twi{\kf19}~{\kf51}light{\kf25} is{\kf38} fad{\kf19}ing{\kf45} as
+Dialogue: 0,0:04:39.50,0:04:41.58,DEFAULT,,0,0,0,,{\r}{\kf33}Dark{\kf27}ness{\kf27} fills{\kf33} the{\kf87} sky
+Dialogue: 0,0:04:42.37,0:04:44.80,DEFAULT,,0,0,0,,{\r}{\kf50}Moon{\kf50}light{\kf31} is{\kf31} drip{\kf19}ping{\kf62} in-
+Dialogue: 0,0:04:45.24,0:04:47.36,DEFAULT,,0,0,0,,{\r}{\kf23}To{\kf23} her{\kf40} vio{\kf40}let{\kf86} eyes
+Dialogue: 0,0:04:48.06,0:04:50.36,DEFAULT,,0,0,0,,{\r}{\kf54}Star{\kf48}light{\kf30} is{\kf42} sing{\kf55}ing
+Dialogue: 0,0:04:50.71,0:04:53.09,DEFAULT,,0,0,0,,{\r}{\kf17}A{\kf28} lone{\kf17}ly{\kf34} lul{\kf45}la{\kf97}by
+Dialogue: 0,0:04:53.66,0:04:55.91,DEFAULT,,0,0,0,,{\r}{\kf53}Day{\kf53}light{\kf26} is{\kf53} danc{\kf40}ing
+Dialogue: 0,0:04:56.31,0:04:58.91,DEFAULT,,0,0,0,,{\r}{\kf17}A{\kf23}way{\kf23} from{\kf29} pa{\kf23}ra{\kf75}dise{\kf70}~
+Dialogue: 0,0:05:21.90,0:05:24.24,DEFAULT,,0,0,0,,{\r}{\kf34}Some{\kf28}thing{\kf28} strange{\kf34} has{\kf34} hap{\kf28}pened{\kf48} to
+Dialogue: 0,0:05:24.64,0:05:26.89,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf25} ri{\kf19}vers{\kf31} and{\kf25} the{\kf106} sea
+Dialogue: 0,0:05:27.41,0:05:29.27,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf32} wa{\kf32}ter's{\kf32} stand{\kf26}ing{\kf44} still
+Dialogue: 0,0:05:29.66,0:05:32.49,DEFAULT,,0,0,0,,{\r}{\kf29}And{\kf29} re{\kf29}flec{\kf29}tions{\kf29} can't{\kf29} be{\kf108} seen
+Dialogue: 0,0:05:33.19,0:05:35.53,DEFAULT,,0,0,0,,{\r}{\kf33}Some{\kf27}thing{\kf27} strange{\kf27} has{\kf40} hap{\kf27}pened{\kf53} to
+Dialogue: 0,0:05:35.89,0:05:38.14,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf30} ri{\kf18}vers{\kf30} and{\kf18} the{\kf18}~{\kf93} sea
+Dialogue: 0,0:05:38.62,0:05:40.74,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf31} wa{\kf25}ter's{\kf37} stand{\kf31}ing{\kf69} still
+Dialogue: 0,0:05:40.91,0:05:44.93,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf30} re{\kf24}flec{\kf24}tions{\kf24} can't{\kf30} be{\kf245} seen
+Dialogue: 0,0:06:07.12,0:06:12.24,DEFAULT,,0,0,0,,{\r}{\kf135}Ah{\kf135} ah{\kf242} ah
+Dialogue: 0,0:06:18.41,0:06:23.53,DEFAULT,,0,0,0,,{\r}{\kf135}Ah{\kf135} ah{\kf242} ah
+Dialogue: 0,0:06:29.71,0:06:34.74,DEFAULT,,0,0,0,,{\r}{\kf138}Ah{\kf123} ah{\kf242} ah
+Dialogue: 0,0:06:35.40,0:06:40.30,DEFAULT,,0,0,0,,{\r}{\kf113}Ah{\kf160} ah{\kf129} ah{\kf88} ah
+Dialogue: 0,0:06:40.61,0:06:43.25,DEFAULT,,0,0,0,,{\r}{\kf32}Now{\kf57} Twi{\kf50}light{\kf25} is{\kf38} sleep{\kf25}ing{\kf38} as
+Dialogue: 0,0:06:43.87,0:06:46.21,DEFAULT,,0,0,0,,{\r}{\kf23}Me{\kf18}mories{\kf29} pass{\kf18} her{\kf23}~{\kf123} by
+Dialogue: 0,0:06:52.30,0:06:54.64,DEFAULT,,0,0,0,,{\r}{\kf46}Sun{\kf58} fol{\kf32}lows{\kf46} moon{\kf52}shine
+Dialogue: 0,0:06:54.99,0:06:57.28,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf23} beau{\kf23}ty{\kf23} of{\kf18} the{\kf23}~{\kf101} night
+Dialogue: 0,0:06:57.94,0:07:00.19,DEFAULT,,0,0,0,,{\r}{\kf55}Twi{\kf55}light{\kf24} is{\kf43} end{\kf48}ing
+Dialogue: 0,0:07:00.59,0:07:04.78,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf25} so{\kf19} she{\kf25} says{\kf254} good{\kf77}bye

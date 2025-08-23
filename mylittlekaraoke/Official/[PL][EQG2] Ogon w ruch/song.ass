@@ -1,60 +1,67 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Ogon W Ruch
+Artist: Equestria Girls - Rainbow Rocks
+Original Timing: mylittlekaraoke.com by Imagination
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.55,0:00:01.89,DEFAULT,,0,0,0,,{\kf11}Dzwo{\kf17}nek{\kf22} dał{\kf17} nam{\kf49} znać
-Dialogue: 0,0:00:02.74,0:00:04.25,DEFAULT,,0,0,0,,{\kf17}Już{\kf27} po{\kf38} szko{\kf38}le
-Dialogue: 0,0:00:04.62,0:00:06.98,DEFAULT,,0,0,0,,{\kf17}i{\kf17} do{\kf17}cze{\kf11}kać{\kf22} nie{\kf17} mo{\kf22}że{\kf17}my{\kf22} si{\kf27}ę
-Dialogue: 0,0:00:07.46,0:00:08.80,DEFAULT,,0,0,0,,{\kf6}bo{\kf11} w{\kf27} wie{\kf17}czór{\kf43} ten
-Dialogue: 0,0:00:09.23,0:00:11.16,DEFAULT,,0,0,0,,{\kf38}ba{\kf11}wić{\kf17} się{\kf11} bę{\kf38}dzie{\kf43}my
-Dialogue: 0,0:00:11.59,0:00:13.74,DEFAULT,,0,0,0,,{\kf11}Wkła{\kf17}daj{\kf17} kie{\kf17}cę,{\kf17} wy{\kf17}cho{\kf17}dzi{\kf17}my{\kf49} gdzieś
-Dialogue: 0,0:00:15.61,0:00:16.85,DEFAULT,,0,0,0,,{\kf17}Nikt{\kf22} nie{\kf17} wie{\kf54} co
-Dialogue: 0,0:00:17.27,0:00:18.67,DEFAULT,,0,0,0,,{\kf17}Co{\kf17} się{\kf17} wy{\kf17}da{\kf43}rzy
-Dialogue: 0,0:00:19.04,0:00:20.06,DEFAULT,,0,0,0,,{\kf17}Nikt{\kf22} nie{\kf11} wie{\kf38} kto
-Dialogue: 0,0:00:20.76,0:00:22.31,DEFAULT,,0,0,0,,{\kf17}Kto{\kf17} się{\kf11} po{\kf22}ja{\kf11}-a{\kf43}wi
-Dialogue: 0,0:00:22.58,0:00:23.92,DEFAULT,,0,0,0,,{\kf11}Po{\kf11}my{\kf11}słów{\kf11} w{\kf11} gło{\kf11}wie{\kf38} sto
-Dialogue: 0,0:00:24.35,0:00:28.80,DEFAULT,,0,0,0,,{\kf17}Czas{\kf17} roz{\kf17}krę{\kf22}cić{\kf11} tę{\kf59} no{\kf17}-o{\kf54}-oc{\kf17} jest{\kf54} mo{\kf22}-o{\kf70}-oc!
-Dialogue: 0,0:00:29.07,0:00:30.30,DEFAULT,,0,0,0,,{\kf38}O{\kf33}gon{\kf11} w{\kf22} ruch
-Dialogue: 0,0:00:30.36,0:00:32.50,DEFAULT,,0,0,0,,{\kf17} Ca{\kf17}ły{\kf17} świat{\kf17} dziś{\kf17} bę{\kf17}dzie{\kf17} u{\kf11} na{\kf17}szych{\kf17} stóp
-Dialogue: 0,0:00:32.61,0:00:35.83,DEFAULT,,0,0,0,,{\kf17}O{\kf27}gon{\kf17} w{\kf43} ruch,{\kf33} o{\kf27}gon{\kf17} w{\kf27} ru{\kf22}-u{\kf22}-uch
-Dialogue: 0,0:00:35.99,0:00:37.11,DEFAULT,,0,0,0,,{\kf33}O{\kf33}gon{\kf11} w{\kf17} ruch
-Dialogue: 0,0:00:37.22,0:00:39.36,DEFAULT,,0,0,0,,{\kf22} ca{\kf17}ły{\kf17} świat{\kf11} dziś{\kf17} bę{\kf17}dzie{\kf17} u{\kf11} na{\kf17}szych{\kf17} stóp
-Dialogue: 0,0:00:39.42,0:00:42.74,DEFAULT,,0,0,0,,{\kf27}O{\kf27}gon{\kf11} w{\kf38} ruch,{\kf22} o{\kf33}gon{\kf11} w{\kf33} ru{\kf17}-u{\kf33}-uch
-Dialogue: 0,0:00:43.28,0:00:46.28,DEFAULT,,0,0,0,,{\kf27}To{\kf17} co,{\kf17} że{\kf17} nic{\kf17} nie{\kf17} i{\kf17}dzie{\kf17} Ci{\kf17} od{\kf33} ra{\kf43}na
-Dialogue: 0,0:00:46.50,0:00:49.71,DEFAULT,,0,0,0,,{\kf22}Uś{\kf17}miech{\kf11}nij{\kf38} się,{\kf17} prze{\kf17}cież{\kf17} nie{\kf17} jest{\kf17} aż{\kf11} tak{\kf43} źle
-Dialogue: 0,0:00:49.93,0:00:53.04,DEFAULT,,0,0,0,,{\kf17}Do{\kf17} gó{\kf11}ry{\kf43} łeb,{\kf17} jes{\kf17}teś{\kf17} su{\kf11}per{\kf17} prze{\kf17}cież{\kf38} wiesz
-Dialogue: 0,0:00:53.36,0:00:56.42,DEFAULT,,0,0,0,,{\kf11}Ma{\kf22}rze{\kf17}nia{\kf22} speł{\kf11}nią{\kf17} się,{\kf17} je{\kf11}że{\kf11}li{\kf17} tyl{\kf17}ko{\kf22} bar{\kf11}dzo{\kf33} chcesz
-Dialogue: 0,0:00:56.52,0:00:58.61,DEFAULT,,0,0,0,,{\kf156}Ha-{\kf43}ha!
-Dialogue: 0,0:00:58.94,0:01:00.22,DEFAULT,,0,0,0,,{\kf11}Dzwo{\kf17}nek{\kf17} dał{\kf11} nam{\kf49} znać
-Dialogue: 0,0:01:01.03,0:01:02.53,DEFAULT,,0,0,0,,{\kf22}Już{\kf27} po{\kf43} szko{\kf38}le
-Dialogue: 0,0:01:02.96,0:01:05.15,DEFAULT,,0,0,0,,{\kf17}i{\kf17} do{\kf11}cze{\kf22}kać{\kf17} nie{\kf17} mo{\kf22}że{\kf11}my{\kf22} si{\kf22}ę
-Dialogue: 0,0:01:05.74,0:01:07.14,DEFAULT,,0,0,0,,{\kf6}bo{\kf11} w{\kf33} wie{\kf17}czór{\kf49} ten
-Dialogue: 0,0:01:07.51,0:01:09.61,DEFAULT,,0,0,0,,{\kf33}ba{\kf17}wić{\kf17} się{\kf17} bę{\kf38}dzie{\kf59}my
-Dialogue: 0,0:01:09.87,0:01:12.07,DEFAULT,,0,0,0,,{\kf11}Wkła{\kf17}daj{\kf17} kie{\kf17}cę,{\kf11} wy{\kf17}cho{\kf17}dzi{\kf17}my{\kf54} gdzieś
-Dialogue: 0,0:01:13.89,0:01:15.13,DEFAULT,,0,0,0,,{\kf17}Nikt{\kf17} nie{\kf17} wie{\kf54} co
-Dialogue: 0,0:01:15.61,0:01:16.95,DEFAULT,,0,0,0,,{\kf11}Co{\kf17} się{\kf17} wy{\kf17}da{\kf49}rzy
-Dialogue: 0,0:01:17.33,0:01:18.45,DEFAULT,,0,0,0,,{\kf17}Nikt{\kf22} nie{\kf11} wie{\kf49} kto
-Dialogue: 0,0:01:18.88,0:01:20.60,DEFAULT,,0,0,0,,{\kf22} Kto{\kf17} się{\kf17} po{\kf22}ja{\kf11}-a{\kf49}wi
-Dialogue: 0,0:01:20.81,0:01:22.15,DEFAULT,,0,0,0,,{\kf17}Po{\kf11}mys{\kf17}łów{\kf6} w{\kf11} głó{\kf11}wie{\kf33} sto
-Dialogue: 0,0:01:22.69,0:01:27.03,DEFAULT,,0,0,0,,{\kf17}Czas{\kf17} roz{\kf17}krę{\kf17}cić{\kf17} tę{\kf65} no{\kf17}-o{\kf54}-oc,{\kf17} jest{\kf54} mo{\kf22}-o{\kf65}-oc!
-Dialogue: 0,0:01:27.35,0:01:28.59,DEFAULT,,0,0,0,,{\kf33}O{\kf27}gon{\kf11} w{\kf27} ruch
-Dialogue: 0,0:01:28.69,0:01:30.78,DEFAULT,,0,0,0,,{\kf22} ca{\kf11}ły{\kf22} świat{\kf17} dziś{\kf11} bę{\kf17}dzie{\kf11} u{\kf17} na{\kf17}szych{\kf17} stóp
-Dialogue: 0,0:01:30.84,0:01:33.73,DEFAULT,,0,0,0,,{\kf22}O{\kf22}gon{\kf17} w{\kf38} ruch,{\kf33} o{\kf33}gon{\kf11} w{\kf49} ruch
-Dialogue: 0,0:01:34.27,0:01:35.45,DEFAULT,,0,0,0,,{\kf27}O{\kf27}gon{\kf11} w{\kf27} ruch
-Dialogue: 0,0:01:35.56,0:01:37.65,DEFAULT,,0,0,0,,{\kf17} ca{\kf11}ły{\kf27} świat{\kf17} dziś{\kf11} bę{\kf22}dzie{\kf17} u{\kf11} na{\kf17}szych{\kf17} stóp
-Dialogue: 0,0:01:37.70,0:01:40.65,DEFAULT,,0,0,0,,{\kf27}O{\kf38}gon{\kf11} w{\kf43} ruch,{\kf27} o{\kf33}gon{\kf11} w{\kf54} ruch
-Dialogue: 0,0:01:41.08,0:01:42.31,DEFAULT,,0,0,0,,{\kf33}O{\kf38}gon{\kf11} w{\kf22} ruch
-Dialogue: 0,0:01:42.42,0:01:44.51,DEFAULT,,0,0,0,,{\kf17} ca{\kf11}ły{\kf22} świat{\kf22} dziś{\kf11} bę{\kf22}dzie{\kf11} u{\kf17} na{\kf17}szych{\kf17} stóp
-Dialogue: 0,0:01:44.56,0:01:47.62,DEFAULT,,0,0,0,,{\kf33}O{\kf33}gon{\kf11} w{\kf49} ruch,{\kf27} o{\kf33}gon{\kf11} w{\kf59} ruch
-Dialogue: 0,0:01:47.94,0:01:49.12,DEFAULT,,0,0,0,,{\kf27}O{\kf27}gon{\kf11} w{\kf22} ruch
-Dialogue: 0,0:01:49.23,0:01:51.32,DEFAULT,,0,0,0,,{\kf17} ca{\kf17}ły{\kf22} świat{\kf17} dziś{\kf11} bę{\kf22}dzie{\kf11} u{\kf17} na{\kf11}szych{\kf17} stóp
-Dialogue: 0,0:01:51.43,0:01:54.38,DEFAULT,,0,0,0,,{\kf27}O{\kf38}gon{\kf11} w{\kf38} ruch,{\kf27} o{\kf38}gon{\kf6} w{\kf54} ruch
-Dialogue: 0,0:01:54.75,0:01:55.98,DEFAULT,,0,0,0,,{\kf38}O{\kf33}gon{\kf11} w{\kf27} ruch
-Dialogue: 0,0:01:56.09,0:01:58.50,DEFAULT,,0,0,0,,{\kf17} ca{\kf11}ły{\kf22} świat{\kf17} dziś{\kf11} bę{\kf22}dzie{\kf17} u{\kf11} na{\kf11}szych{\kf59} stóp
+Dialogue: 0,0:00:00.55,0:00:01.89,DEFAULT,,0,0,0,,{\r}{\kf13}Dzwo{\kf19}nek{\kf26} dał{\kf19} nam{\kf57} znać
+Dialogue: 0,0:00:02.75,0:00:04.25,DEFAULT,,0,0,0,,{\r}{\kf20}Już{\kf34} po{\kf48} szko{\kf48}le
+Dialogue: 0,0:00:04.63,0:00:06.99,DEFAULT,,0,0,0,,{\r}{\kf21}i{\kf21} do{\kf21}cze{\kf14}kać{\kf28} nie{\kf21} mo{\kf28}że{\kf21}my{\kf28} si{\kf33}ę
+Dialogue: 0,0:00:07.47,0:00:08.81,DEFAULT,,0,0,0,,{\r}{\kf10}bo{\kf14} w{\kf35} wie{\kf21}czór{\kf54} ten
+Dialogue: 0,0:00:09.24,0:00:11.17,DEFAULT,,0,0,0,,{\r}{\kf47}ba{\kf13}wić{\kf20} się{\kf13} bę{\kf47}dzie{\kf53}my
+Dialogue: 0,0:00:11.60,0:00:13.74,DEFAULT,,0,0,0,,{\r}{\kf13}Wkła{\kf20}daj{\kf20} kie{\kf20}cę,{\kf20} wy{\kf20}cho{\kf20}dzi{\kf20}my{\kf61} gdzieś
+Dialogue: 0,0:00:15.62,0:00:16.85,DEFAULT,,0,0,0,,{\r}{\kf18}Nikt{\kf25} nie{\kf18} wie{\kf62} co
+Dialogue: 0,0:00:17.28,0:00:18.67,DEFAULT,,0,0,0,,{\r}{\kf21}Co{\kf21} się{\kf21} wy{\kf21}da{\kf55}rzy
+Dialogue: 0,0:00:19.05,0:00:20.07,DEFAULT,,0,0,0,,{\r}{\kf19}Nikt{\kf26} nie{\kf13} wie{\kf44} kto
+Dialogue: 0,0:00:20.76,0:00:22.32,DEFAULT,,0,0,0,,{\r}{\kf21}Kto{\kf21} się{\kf14} po{\kf28}ja{\kf14}-a{\kf57}wi
+Dialogue: 0,0:00:22.59,0:00:23.93,DEFAULT,,0,0,0,,{\r}{\kf14}Po{\kf14}my{\kf14}słów{\kf14} w{\kf14} gło{\kf14}wie{\kf50} sto
+Dialogue: 0,0:00:24.36,0:00:28.81,DEFAULT,,0,0,0,,{\r}{\kf19}Czas{\kf19} roz{\kf19}krę{\kf26}cić{\kf13} tę{\kf71} no{\kf19}-o{\kf64}-oc{\kf19} jest{\kf64} mo{\kf26}-o{\kf86}-oc!
+Dialogue: 0,0:00:29.08,0:00:30.31,DEFAULT,,0,0,0,,{\r}{\kf45}O{\kf39}gon{\kf13} w{\kf26} ruch
+Dialogue: 0,0:00:30.36,0:00:32.51,DEFAULT,,0,0,0,,{\r}{\kf22} Ca{\kf22}ły{\kf22} świat{\kf22} dziś{\kf22} bę{\kf22}dzie{\kf22} u{\kf15} na{\kf22}szych{\kf23} stóp
+Dialogue: 0,0:00:32.61,0:00:35.83,DEFAULT,,0,0,0,,{\r}{\kf21}O{\kf35}gon{\kf21} w{\kf56} ruch,{\kf42} o{\kf35}gon{\kf21} w{\kf35} ru{\kf28}-u{\kf28}-uch
+Dialogue: 0,0:00:35.99,0:00:37.12,DEFAULT,,0,0,0,,{\r}{\kf40}O{\kf40}gon{\kf13} w{\kf20} ruch
+Dialogue: 0,0:00:37.23,0:00:39.37,DEFAULT,,0,0,0,,{\r}{\kf30} ca{\kf22}ły{\kf22} świat{\kf15} dziś{\kf22} bę{\kf22}dzie{\kf22} u{\kf15} na{\kf22}szych{\kf22} stóp
+Dialogue: 0,0:00:39.42,0:00:42.75,DEFAULT,,0,0,0,,{\r}{\kf36}O{\kf36}gon{\kf14} w{\kf51} ruch,{\kf29} o{\kf43}gon{\kf14} w{\kf43} ru{\kf22}-u{\kf44}-uch
+Dialogue: 0,0:00:43.28,0:00:46.29,DEFAULT,,0,0,0,,{\r}{\kf35}To{\kf21} co,{\kf21} że{\kf21} nic{\kf21} nie{\kf21} i{\kf21}dzie{\kf21} Ci{\kf21} od{\kf42} ra{\kf55}na
+Dialogue: 0,0:00:46.50,0:00:49.72,DEFAULT,,0,0,0,,{\r}{\kf31}Uś{\kf24}miech{\kf16}nij{\kf55} się,{\kf24} prze{\kf24}cież{\kf24} nie{\kf24} jest{\kf24} aż{\kf16} tak{\kf60} źle
+Dialogue: 0,0:00:49.93,0:00:53.04,DEFAULT,,0,0,0,,{\r}{\kf23}Do{\kf23} gó{\kf16}ry{\kf62} łeb,{\kf23} jes{\kf23}teś{\kf23} su{\kf16}per{\kf23} prze{\kf23}cież{\kf56} wiesz
+Dialogue: 0,0:00:53.36,0:00:56.42,DEFAULT,,0,0,0,,{\r}{\kf14}Ma{\kf28}rze{\kf21}nia{\kf28} speł{\kf14}nią{\kf21} się,{\kf21} je{\kf14}że{\kf14}li{\kf21} tyl{\kf21}ko{\kf28} bar{\kf14}dzo{\kf47} chcesz
+Dialogue: 0,0:00:56.53,0:00:58.62,DEFAULT,,0,0,0,,{\r}{\kf164}Ha-{\kf45}ha!
+Dialogue: 0,0:00:58.94,0:01:00.23,DEFAULT,,0,0,0,,{\r}{\kf14}Dzwo{\kf20}nek{\kf20} dał{\kf14} nam{\kf61} znać
+Dialogue: 0,0:01:01.03,0:01:02.53,DEFAULT,,0,0,0,,{\r}{\kf25}Już{\kf31} po{\kf50} szko{\kf44}le
+Dialogue: 0,0:01:02.96,0:01:05.16,DEFAULT,,0,0,0,,{\r}{\kf21}i{\kf21} do{\kf14}cze{\kf27}kać{\kf21} nie{\kf21} mo{\kf27}że{\kf14}my{\kf27} si{\kf27}ę
+Dialogue: 0,0:01:05.75,0:01:07.14,DEFAULT,,0,0,0,,{\r}{\kf10}bo{\kf13} w{\kf40} wie{\kf20}czór{\kf56} ten
+Dialogue: 0,0:01:07.52,0:01:09.61,DEFAULT,,0,0,0,,{\r}{\kf38}ba{\kf19}wić{\kf19} się{\kf19} bę{\kf44}dzie{\kf70}my
+Dialogue: 0,0:01:09.88,0:01:12.08,DEFAULT,,0,0,0,,{\r}{\kf14}Wkła{\kf21}daj{\kf21} kie{\kf21}cę,{\kf14} wy{\kf21}cho{\kf21}dzi{\kf21}my{\kf66} gdzieś
+Dialogue: 0,0:01:13.90,0:01:15.13,DEFAULT,,0,0,0,,{\r}{\kf19}Nikt{\kf19} nie{\kf19} wie{\kf66} co
+Dialogue: 0,0:01:15.62,0:01:16.96,DEFAULT,,0,0,0,,{\r}{\kf13}Co{\kf20} się{\kf20} wy{\kf20}da{\kf61}rzy
+Dialogue: 0,0:01:17.33,0:01:18.46,DEFAULT,,0,0,0,,{\r}{\kf19}Nikt{\kf25} nie{\kf13} wie{\kf56} kto
+Dialogue: 0,0:01:18.89,0:01:20.60,DEFAULT,,0,0,0,,{\r}{\kf28} Kto{\kf21} się{\kf21} po{\kf28}ja{\kf14}-a{\kf60}wi
+Dialogue: 0,0:01:20.82,0:01:22.16,DEFAULT,,0,0,0,,{\r}{\kf21}Po{\kf14}mys{\kf21}łów{\kf10} w{\kf14} głó{\kf14}wie{\kf40} sto
+Dialogue: 0,0:01:22.69,0:01:27.04,DEFAULT,,0,0,0,,{\r}{\kf19}Czas{\kf19} roz{\kf19}krę{\kf19}cić{\kf19} tę{\kf75} no{\kf19}-o{\kf63}-oc,{\kf19} jest{\kf63} mo{\kf25}-o{\kf75}-oc!
+Dialogue: 0,0:01:27.36,0:01:28.59,DEFAULT,,0,0,0,,{\r}{\kf41}O{\kf34}gon{\kf14} w{\kf34} ruch
+Dialogue: 0,0:01:28.70,0:01:30.79,DEFAULT,,0,0,0,,{\r}{\kf29} ca{\kf14}ły{\kf29} świat{\kf22} dziś{\kf14} bę{\kf22}dzie{\kf14} u{\kf22} na{\kf22}szych{\kf21} stóp
+Dialogue: 0,0:01:30.84,0:01:33.74,DEFAULT,,0,0,0,,{\r}{\kf28}O{\kf28}gon{\kf21} w{\kf50} ruch,{\kf42} o{\kf42}gon{\kf14} w{\kf65} ruch
+Dialogue: 0,0:01:34.27,0:01:35.45,DEFAULT,,0,0,0,,{\r}{\kf35}O{\kf35}gon{\kf14} w{\kf34} ruch
+Dialogue: 0,0:01:35.56,0:01:37.65,DEFAULT,,0,0,0,,{\r}{\kf21} ca{\kf14}ły{\kf35} świat{\kf21} dziś{\kf14} bę{\kf28}dzie{\kf21} u{\kf14} na{\kf21}szych{\kf20} stóp
+Dialogue: 0,0:01:37.71,0:01:40.65,DEFAULT,,0,0,0,,{\r}{\kf33}O{\kf46}gon{\kf13} w{\kf52} ruch,{\kf33} o{\kf39}gon{\kf13} w{\kf66} ruch
+Dialogue: 0,0:01:41.08,0:01:42.32,DEFAULT,,0,0,0,,{\r}{\kf39}O{\kf45}gon{\kf13} w{\kf26} ruch
+Dialogue: 0,0:01:42.42,0:01:44.52,DEFAULT,,0,0,0,,{\r}{\kf21} ca{\kf14}ły{\kf28} świat{\kf28} dziś{\kf14} bę{\kf28}dzie{\kf14} u{\kf21} na{\kf21}szych{\kf20} stóp
+Dialogue: 0,0:01:44.57,0:01:47.62,DEFAULT,,0,0,0,,{\r}{\kf39}O{\kf39}gon{\kf13} w{\kf59} ruch,{\kf33} o{\kf39}gon{\kf13} w{\kf71} ruch
+Dialogue: 0,0:01:47.95,0:01:49.13,DEFAULT,,0,0,0,,{\r}{\kf37}O{\kf37}gon{\kf15} w{\kf29} ruch
+Dialogue: 0,0:01:49.23,0:01:51.32,DEFAULT,,0,0,0,,{\r}{\kf22} ca{\kf22}ły{\kf29} świat{\kf22} dziś{\kf14} bę{\kf29}dzie{\kf14} u{\kf22} na{\kf14}szych{\kf21} stóp
+Dialogue: 0,0:01:51.43,0:01:54.38,DEFAULT,,0,0,0,,{\r}{\kf34}O{\kf47}gon{\kf13} w{\kf47} ruch,{\kf34} o{\kf47}gon{\kf10} w{\kf63} ruch
+Dialogue: 0,0:01:54.76,0:01:55.99,DEFAULT,,0,0,0,,{\r}{\kf43}O{\kf37}gon{\kf12} w{\kf31} ruch
+Dialogue: 0,0:01:56.10,0:01:58.51,DEFAULT,,0,0,0,,{\r}{\kf20} ca{\kf13}ły{\kf27} świat{\kf20} dziś{\kf13} bę{\kf27}dzie{\kf20} u{\kf13} na{\kf13}szych{\kf75} stóp

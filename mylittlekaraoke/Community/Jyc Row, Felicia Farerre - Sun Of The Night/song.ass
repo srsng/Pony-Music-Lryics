@@ -1,47 +1,54 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Sun Of The Night
+Artist: Jyc Row, Felicia Farerre
+Original Timing: mylittlekaraoke.com by SqueakyBelle
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:40.88,0:00:42.57,DEFAULT,,0,0,0,,{\kf12}Bright{\kf20}~{\kf35} win{\kf24}ged{\kf39} flame{\kf12}~
-Dialogue: 0,0:00:42.92,0:00:45.00,DEFAULT,,0,0,0,,{\kf12}Full{\kf8} of{\kf24} po{\kf20}~{\kf35}wer{\kf27} and{\kf54} grace
-Dialogue: 0,0:00:45.58,0:00:47.23,DEFAULT,,0,0,0,,{\kf35}Glo{\kf8}~{\kf35}ri{\kf31}ous{\kf43} one
-Dialogue: 0,0:00:47.73,0:00:50.19,DEFAULT,,0,0,0,,{\kf8}We{\kf20} all{\kf12} bow{\kf24}~{\kf27} to{\kf24} your{\kf12} ma{\kf24}~{\kf35}jes{\kf16}ty
-Dialogue: 0,0:00:50.38,0:00:51.92,DEFAULT,,0,0,0,,{\kf24}War{\kf12}ri{\kf39}or{\kf24} in{\kf35} flight
-Dialogue: 0,0:00:52.50,0:00:54.35,DEFAULT,,0,0,0,,{\kf12}From{\kf8} the{\kf16} depths{\kf27}~{\kf31} you{\kf16} a{\kf39}rise
-Dialogue: 0,0:00:54.85,0:00:59.54,DEFAULT,,0,0,0,,{\kf20}To{\kf12} e{\kf20}rase{\kf89}~{\kf20} the{\kf47}~{\kf104} sha{\kf16}~{\kf77}dows
-Dialogue: 0,0:00:59.89,0:01:01.66,DEFAULT,,0,0,0,,{\kf27}Swift{\kf16}~{\kf43}ly{\kf31} you{\kf31} move{\kf12}~
-Dialogue: 0,0:01:02.00,0:01:04.04,DEFAULT,,0,0,0,,{\kf16}To{\kf16} re{\kf24}claim{\kf24}~{\kf24} and{\kf27} to{\kf43} prove
-Dialogue: 0,0:01:04.47,0:01:06.70,DEFAULT,,0,0,0,,{\kf16}You're{\kf20} the{\kf16} go{\kf16}~{\kf39}ddess{\kf20} of{\kf51} fi{\kf20}re
-Dialogue: 0,0:01:06.93,0:01:09.39,DEFAULT,,0,0,0,,{\kf20}And{\kf20} none{\kf24}~{\kf20} can{\kf35} with{\kf20}stand{\kf24}~{\kf20} your{\kf16} flare
-Dialogue: 0,0:01:09.58,0:01:11.12,DEFAULT,,0,0,0,,{\kf35}All{\kf35} must{\kf20} give{\kf35} way
-Dialogue: 0,0:01:11.54,0:01:13.47,DEFAULT,,0,0,0,,{\kf27}To{\kf12} the{\kf16} e{\kf24}~{\kf31}ter{\kf35}nal{\kf27} day
-Dialogue: 0,0:01:14.08,0:01:18.78,DEFAULT,,0,0,0,,{\kf12}May{\kf16} you{\kf24} reign{\kf170}~{\kf12}~{\kf8}~{\kf8} for{\kf8}e{\kf16}~{\kf70}~{\kf24}~{\kf66}ver
-Dialogue: 0,0:01:19.24,0:01:26.24,DEFAULT,,0,0,0,,{\kf24}Bur{\kf77}~{\kf97}ning{\kf20}~{\kf201} eye{\kf16} of{\kf16} the{\kf220} sky
-Dialogue: 0,0:01:28.86,0:01:36.51,DEFAULT,,0,0,0,,{\kf116}Shi{\kf20}ning{\kf66}~{\kf16}~{\kf204} sun{\kf16} of{\kf16} the{\kf289} night
-Dialogue: 0,0:01:38.48,0:01:40.17,DEFAULT,,0,0,0,,{\kf8}Le{\kf16}~{\kf35}gends{\kf24} fore{\kf47}told{\kf12}~
-Dialogue: 0,0:01:40.44,0:01:42.67,DEFAULT,,0,0,0,,{\kf12}Of{\kf20} your{\kf24} crown{\kf20}~{\kf35} and{\kf31} your{\kf62} throne
-Dialogue: 0,0:01:43.17,0:01:45.09,DEFAULT,,0,0,0,,{\kf27}Stan{\kf16}~{\kf31}ding{\kf24} to{\kf43} con{\kf27}quer
-Dialogue: 0,0:01:45.28,0:01:47.86,DEFAULT,,0,0,0,,{\kf31}The{\kf12} ar{\kf16}~{\kf35}my{\kf20} of{\kf12} e{\kf20}~{\kf12}vil's{\kf24}~{\kf24} hold
-Dialogue: 0,0:01:48.09,0:01:49.79,DEFAULT,,0,0,0,,{\kf12}Pi{\kf16}~{\kf35}llar{\kf24} and{\kf62} spark
-Dialogue: 0,0:01:50.06,0:01:52.13,DEFAULT,,0,0,0,,{\kf12}As{\kf16} the{\kf12} new{\kf16}~{\kf39} dawn{\kf20} now{\kf58} starts
-Dialogue: 0,0:01:52.44,0:01:57.21,DEFAULT,,0,0,0,,{\kf20}We{\kf12} a{\kf16}wait{\kf74}~{\kf20} your{\kf54}~{\kf93} pre{\kf20}~{\kf77}sence
-Dialogue: 0,0:01:57.63,0:01:59.37,DEFAULT,,0,0,0,,{\kf20}Warm{\kf20}~{\kf35} winds{\kf16} have{\kf39} stirred{\kf16}~
-Dialogue: 0,0:01:59.67,0:02:01.64,DEFAULT,,0,0,0,,{\kf12}A{\kf20} ce{\kf12}les{\kf24}~{\kf35}tial{\kf24} re{\kf39}birth
-Dialogue: 0,0:02:02.33,0:02:04.25,DEFAULT,,0,0,0,,{\kf24}Si{\kf16}~{\kf43}gnaled{\kf20} your{\kf43} co{\kf24}ming
-Dialogue: 0,0:02:04.44,0:02:06.98,DEFAULT,,0,0,0,,{\kf20}The{\kf24} time{\kf24}~{\kf24} of{\kf16} your{\kf20} grand{\kf24}~{\kf8} re{\kf20}~{\kf16}turn
-Dialogue: 0,0:02:07.18,0:02:08.91,DEFAULT,,0,0,0,,{\kf43}Lu{\kf35}mi{\kf31}nous{\kf54} star
-Dialogue: 0,0:02:09.25,0:02:11.18,DEFAULT,,0,0,0,,{\kf12}Like{\kf16} a{\kf16} sword{\kf24}~{\kf39} through{\kf20} the{\kf31} dark
-Dialogue: 0,0:02:11.72,0:02:15.95,DEFAULT,,0,0,0,,{\kf12}You'll{\kf16} re{\kf27}veal{\kf166}~{\kf16}~{\kf16} the{\kf20} mor{\kf70}~{\kf20}~{\kf31}ning
-Dialogue: 0,0:02:16.83,0:02:24.57,DEFAULT,,0,0,0,,{\kf24}Bur{\kf77}~{\kf97}ning{\kf20}~{\kf201} eye{\kf16} of{\kf16} the{\kf293} sky
-Dialogue: 0,0:02:26.45,0:02:35.07,DEFAULT,,0,0,0,,{\kf116}Shi{\kf20}ning{\kf66}~{\kf16}~{\kf204} sun{\kf16} of{\kf16} the{\kf385} night
-Dialogue: 0,0:02:55.19,0:03:04.31,DEFAULT,,0,0,0,,{\kf24}Bur{\kf77}~{\kf97}ning{\kf20}~{\kf201} eye{\kf16} of{\kf16} the{\kf431} sky
-Dialogue: 0,0:03:04.81,0:03:13.89,DEFAULT,,0,0,0,,{\kf27}Shi{\kf62}~{\kf20}~{\kf93}ning{\kf20}~{\kf101} sun{\kf24}~{\kf101} of{\kf431} night
-Dialogue: 0,0:03:17.46,0:03:23.27,DEFAULT,,0,0,0,,{\kf16}Sun{\kf116}~{\kf16} of{\kf16}~{\kf404} night
-Dialogue: 0,0:03:25.12,0:03:36.12,DEFAULT,,0,0,0,,{\kf108}Will{\kf12}~{\kf101} reign{\kf85} for{\kf16}~{\kf466}e{\kf20}~{\kf247}ver
+Dialogue: 0,0:00:40.89,0:00:42.58,DEFAULT,,0,0,0,,{\r}{\kf14}Bright{\kf23}~{\kf42} win{\kf28}ged{\kf47} flame{\kf15}~
+Dialogue: 0,0:00:42.93,0:00:45.00,DEFAULT,,0,0,0,,{\r}{\kf14}Full{\kf10} of{\kf27} po{\kf23}~{\kf41}wer{\kf32} and{\kf61} grace
+Dialogue: 0,0:00:45.58,0:00:47.23,DEFAULT,,0,0,0,,{\r}{\kf38}Glo{\kf10}~{\kf38}ri{\kf34}ous{\kf45} one
+Dialogue: 0,0:00:47.74,0:00:50.20,DEFAULT,,0,0,0,,{\r}{\kf10}We{\kf24} all{\kf14} bow{\kf29}~{\kf34} to{\kf29} your{\kf14} ma{\kf29}~{\kf43}jes{\kf20}ty
+Dialogue: 0,0:00:50.39,0:00:51.93,DEFAULT,,0,0,0,,{\r}{\kf27}War{\kf14}ri{\kf45}or{\kf27} in{\kf41} flight
+Dialogue: 0,0:00:52.51,0:00:54.35,DEFAULT,,0,0,0,,{\r}{\kf15}From{\kf10} the{\kf19} depths{\kf34}~{\kf39} you{\kf19} a{\kf49}rise
+Dialogue: 0,0:00:54.85,0:00:59.55,DEFAULT,,0,0,0,,{\r}{\kf23}To{\kf14} e{\kf23}rase{\kf104}~{\kf23} the{\kf54}~{\kf122} sha{\kf18}~{\kf88}dows
+Dialogue: 0,0:00:59.89,0:01:01.66,DEFAULT,,0,0,0,,{\r}{\kf30}Swift{\kf17}~{\kf47}ly{\kf35} you{\kf35} move{\kf13}~
+Dialogue: 0,0:01:02.01,0:01:04.05,DEFAULT,,0,0,0,,{\r}{\kf19}To{\kf19} re{\kf28}claim{\kf28}~{\kf28} and{\kf32} to{\kf50} prove
+Dialogue: 0,0:01:04.47,0:01:06.70,DEFAULT,,0,0,0,,{\r}{\kf18}You're{\kf22} the{\kf18} go{\kf18}~{\kf45}ddess{\kf22} of{\kf58} fi{\kf22}re
+Dialogue: 0,0:01:06.93,0:01:09.40,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf25} none{\kf30}~{\kf25} can{\kf44} with{\kf25}stand{\kf30}~{\kf25} your{\kf17} flare
+Dialogue: 0,0:01:09.59,0:01:11.13,DEFAULT,,0,0,0,,{\r}{\kf43}All{\kf43} must{\kf24} give{\kf44} way
+Dialogue: 0,0:01:11.55,0:01:13.47,DEFAULT,,0,0,0,,{\r}{\kf31}To{\kf13} the{\kf17} e{\kf26}~{\kf35}ter{\kf39}nal{\kf31} day
+Dialogue: 0,0:01:14.09,0:01:18.78,DEFAULT,,0,0,0,,{\r}{\kf13}May{\kf17} you{\kf25} reign{\kf186}~{\kf13}~{\kf10}~{\kf10} for{\kf10}e{\kf17}~{\kf76}~{\kf25}~{\kf67}ver
+Dialogue: 0,0:01:19.24,0:01:26.25,DEFAULT,,0,0,0,,{\r}{\kf24}Bur{\kf81}~{\kf101}ning{\kf20}~{\kf210} eye{\kf16} of{\kf16} the{\kf232} sky
+Dialogue: 0,0:01:28.86,0:01:36.52,DEFAULT,,0,0,0,,{\r}{\kf120}Shi{\kf20}ning{\kf68}~{\kf16}~{\kf211} sun{\kf16} of{\kf16} the{\kf299} night
+Dialogue: 0,0:01:38.48,0:01:40.17,DEFAULT,,0,0,0,,{\r}{\kf10}Le{\kf19}~{\kf42}gends{\kf28} fore{\kf56}told{\kf14}~
+Dialogue: 0,0:01:40.44,0:01:42.67,DEFAULT,,0,0,0,,{\r}{\kf13}Of{\kf21} your{\kf26} crown{\kf21}~{\kf39} and{\kf34} your{\kf69} throne
+Dialogue: 0,0:01:43.17,0:01:45.10,DEFAULT,,0,0,0,,{\r}{\kf31}Stan{\kf18}~{\kf36}ding{\kf27} to{\kf49} con{\kf31}quer
+Dialogue: 0,0:01:45.29,0:01:47.87,DEFAULT,,0,0,0,,{\r}{\kf40}The{\kf15} ar{\kf20}~{\kf45}my{\kf25} of{\kf15} e{\kf25}~{\kf15}vil's{\kf30}~{\kf28} hold
+Dialogue: 0,0:01:48.10,0:01:49.79,DEFAULT,,0,0,0,,{\r}{\kf13}Pi{\kf18}~{\kf40}llar{\kf27} and{\kf71} spark
+Dialogue: 0,0:01:50.06,0:01:52.14,DEFAULT,,0,0,0,,{\r}{\kf14}As{\kf19} the{\kf14} new{\kf19}~{\kf47} dawn{\kf24} now{\kf71} starts
+Dialogue: 0,0:01:52.45,0:01:57.22,DEFAULT,,0,0,0,,{\r}{\kf24}We{\kf14} a{\kf19}wait{\kf92}~{\kf24} your{\kf67}~{\kf116} pre{\kf24}~{\kf97}sence
+Dialogue: 0,0:01:57.64,0:01:59.37,DEFAULT,,0,0,0,,{\r}{\kf23}Warm{\kf23}~{\kf42} winds{\kf19} have{\kf47} stirred{\kf19}~
+Dialogue: 0,0:01:59.68,0:02:01.64,DEFAULT,,0,0,0,,{\r}{\kf14}A{\kf23} ce{\kf14}les{\kf28}~{\kf42}tial{\kf28} re{\kf47}birth
+Dialogue: 0,0:02:02.33,0:02:04.26,DEFAULT,,0,0,0,,{\r}{\kf27}Si{\kf18}~{\kf49}gnaled{\kf22} your{\kf49} co{\kf27}ming
+Dialogue: 0,0:02:04.45,0:02:06.99,DEFAULT,,0,0,0,,{\r}{\kf26}The{\kf31} time{\kf31}~{\kf31} of{\kf21} your{\kf26} grand{\kf31}~{\kf10} re{\kf26}~{\kf21}turn
+Dialogue: 0,0:02:07.18,0:02:08.91,DEFAULT,,0,0,0,,{\r}{\kf45}Lu{\kf37}mi{\kf33}nous{\kf58} star
+Dialogue: 0,0:02:09.26,0:02:11.18,DEFAULT,,0,0,0,,{\r}{\kf14}Like{\kf19} a{\kf19} sword{\kf29}~{\kf48} through{\kf24} the{\kf39} dark
+Dialogue: 0,0:02:11.72,0:02:15.95,DEFAULT,,0,0,0,,{\r}{\kf13}You'll{\kf17} re{\kf29}veal{\kf180}~{\kf17}~{\kf17} the{\kf21} mor{\kf75}~{\kf21}~{\kf33}ning
+Dialogue: 0,0:02:16.84,0:02:24.57,DEFAULT,,0,0,0,,{\r}{\kf24}Bur{\kf81}~{\kf101}ning{\kf20}~{\kf209} eye{\kf16} of{\kf16} the{\kf306} sky
+Dialogue: 0,0:02:26.46,0:02:35.07,DEFAULT,,0,0,0,,{\r}{\kf119}Shi{\kf20}ning{\kf68}~{\kf16}~{\kf211} sun{\kf16} of{\kf16} the{\kf396} night
+Dialogue: 0,0:02:55.19,0:03:04.31,DEFAULT,,0,0,0,,{\r}{\kf24}Bur{\kf80}~{\kf100}ning{\kf20}~{\kf208} eye{\kf16} of{\kf16} the{\kf448} sky
+Dialogue: 0,0:03:04.81,0:03:13.89,DEFAULT,,0,0,0,,{\r}{\kf28}Shi{\kf64}~{\kf20}~{\kf96}ning{\kf20}~{\kf104} sun{\kf24}~{\kf104} of{\kf448} night
+Dialogue: 0,0:03:17.47,0:03:23.28,DEFAULT,,0,0,0,,{\r}{\kf16}Sun{\kf119}~{\kf16} of{\kf16}~{\kf414} night
+Dialogue: 0,0:03:25.13,0:03:36.13,DEFAULT,,0,0,0,,{\r}{\kf113}Will{\kf12}~{\kf105} reign{\kf89} for{\kf16}~{\kf488}e{\kf20}~{\kf257}ver

@@ -1,31 +1,38 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Husch husch, leise sein
+Artist: Mein kleines Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.29,0:00:02.26,DEFAULT,,0,0,0,,{\kf36}Husch{\kf42} husch,{\kf36} komm'{\kf24} und{\kf24} schlüpf'
-Dialogue: 0,0:00:02.38,0:00:04.66,DEFAULT,,0,0,0,,{\kf18}In's{\kf18} ku{\kf24}schel{\kf30}wei{\kf18}che{\kf36} Bett{\kf18} hi{\kf30}nein
-Dialogue: 0,0:00:05.02,0:00:07.11,DEFAULT,,0,0,0,,{\kf36}Husch{\kf36} husch,{\kf30} lei{\kf18}se{\kf30} sein
-Dialogue: 0,0:00:07.11,0:00:09.69,DEFAULT,,0,0,0,,{\kf18}Dann{\kf36} schläfst{\kf24} Du{\kf24} fried{\kf24}lich{\kf108} ein
-Dialogue: 0,0:00:11.07,0:00:12.20,DEFAULT,,0,0,0,,{\kf24}Hey, {\kf18}das{\kf12} Lied{\kf24} kenn'{\kf30} ich!
-Dialogue: 0,0:00:12.38,0:00:13.76,DEFAULT,,0,0,0,,{\kf12}Oh, {\kf18}Du{\kf30} kennst{\kf12} es?{\kf12} Wie{\kf48} schön!
-Dialogue: 0,0:00:13.76,0:00:15.14,DEFAULT,,0,0,0,,{\kf24}Dann{\kf24} singen{\kf24} wir's{\kf66} zusammen.
-Dialogue: 0,0:00:19.75,0:00:21.36,DEFAULT,,0,0,0,,{\kf30}Husch{\kf30} husch,{\kf24} komm' {\kf12}und{\kf30} schlüpf'
-Dialogue: 0,0:00:21.42,0:00:23.22,DEFAULT,,0,0,0,,{\kf18}In's{\kf18}  ku{\kf18}schel{\kf24}wei{\kf18}che{\kf24} Bett{\kf18} hi{\kf36}nein
-Dialogue: 0,0:00:23.28,0:00:25.08,DEFAULT,,0,0,0,,{\kf6}A{\kf6}ber{\kf24} husch{\kf24} husch,{\kf24} lei{\kf12}se{\kf36} sein
-Dialogue: 0,0:00:25.08,0:00:27.35,DEFAULT,,0,0,0,,{\kf12}Dann{\kf24} schläfst{\kf12} Du{\kf24} fried{\kf24}lich{\kf126} ein
-Dialogue: 0,0:00:27.89,0:00:29.33,DEFAULT,,0,0,0,,{\kf42}Schlaf'{\kf24} gut,{\kf36} die{\kf18}ser
-Dialogue: 0,0:00:29.39,0:00:31.54,DEFAULT,,0,0,0,,{\kf18}Span{\kf12}nen{\kf12}de{\kf24} Tag{\kf18} ist{\kf18} nun{\kf18} ver{\kf36}gan{\kf24}ge{\kf24}-en
-Dialogue: 0,0:00:31.66,0:00:33.34,DEFAULT,,0,0,0,,{\kf30}Schlaf'{\kf24} gut,{\kf36} herz{\kf24}lich{\kf18} wirst
-Dialogue: 0,0:00:33.34,0:00:35.97,DEFAULT,,0,0,0,,{\kf6}Du{\kf12} im{\kf24} Traum{\kf24}land{\kf18}  nun{\kf12} emp{\kf24}fan{\kf132}gen
-Dialogue: 0,0:00:36.39,0:00:37.95,DEFAULT,,0,0,0,,{\kf24}Husch{\kf24} husch,{\kf18} es{\kf12} ist{\kf36} Zeit
-Dialogue: 0,0:00:38.07,0:00:39.62,DEFAULT,,0,0,0,,{\kf30}Schlüpf'{\kf12} ins{\kf24} Bett{\kf18} hi{\kf66}nein
-Dialogue: 0,0:00:40.04,0:00:41.66,DEFAULT,,0,0,0,,{\kf24}Husch{\kf24} husch,{\kf24} lei{\kf12}se{\kf36} sein
-Dialogue: 0,0:00:41.72,0:00:45.61,DEFAULT,,0,0,0,,{\kf12}Dann{\kf24} schläfst{\kf18} Du{\kf18} fried{\kf18}lich{\kf282} ein!
-Dialogue: 0,0:00:45.67,0:00:46.39,DEFAULT,,0,0,0,,{\kf72}Au!
+Dialogue: 0,0:00:00.29,0:00:02.27,DEFAULT,,0,0,0,,{\r}{\kf44}Husch{\kf51} husch,{\kf44} komm'{\kf29} und{\kf30} schlüpf'
+Dialogue: 0,0:00:02.39,0:00:04.66,DEFAULT,,0,0,0,,{\r}{\kf21}In's{\kf21} ku{\kf28}schel{\kf36}wei{\kf21}che{\kf43} Bett{\kf21} hi{\kf37}nein
+Dialogue: 0,0:00:05.02,0:00:07.12,DEFAULT,,0,0,0,,{\r}{\kf50}Husch{\kf50} husch,{\kf42} lei{\kf25}se{\kf43} sein
+Dialogue: 0,0:00:07.12,0:00:09.69,DEFAULT,,0,0,0,,{\r}{\kf20}Dann{\kf40} schläfst{\kf26} Du{\kf26} fried{\kf26}lich{\kf119} ein
+Dialogue: 0,0:00:11.07,0:00:12.21,DEFAULT,,0,0,0,,{\r}{\kf25}Hey,{\kf19}das{\kf13} Lied{\kf25} kenn'{\kf32} ich!
+Dialogue: 0,0:00:12.39,0:00:13.76,DEFAULT,,0,0,0,,{\r}{\kf13}Oh,{\kf19}Du{\kf31} kennst{\kf13} es?{\kf13} Wie{\kf49} schön!
+Dialogue: 0,0:00:13.76,0:00:15.14,DEFAULT,,0,0,0,,{\r}{\kf24}Dann{\kf24} singen{\kf24} wir's{\kf66} zusammen.
+Dialogue: 0,0:00:19.75,0:00:21.37,DEFAULT,,0,0,0,,{\r}{\kf39}Husch{\kf39} husch,{\kf31} komm'{\kf15}und{\kf38} schlüpf'
+Dialogue: 0,0:00:21.43,0:00:23.22,DEFAULT,,0,0,0,,{\r}{\kf19}In's{\kf19}  ku{\kf19}schel{\kf25}wei{\kf19}che{\kf25} Bett{\kf19} hi{\kf35}nein
+Dialogue: 0,0:00:23.28,0:00:25.08,DEFAULT,,0,0,0,,{\r}{\kf10}A{\kf10}ber{\kf33} husch{\kf33} husch,{\kf33} lei{\kf16}se{\kf45} sein
+Dialogue: 0,0:00:25.08,0:00:27.36,DEFAULT,,0,0,0,,{\r}{\kf12}Dann{\kf25} schläfst{\kf12} Du{\kf25} fried{\kf25}lich{\kf129} ein
+Dialogue: 0,0:00:27.89,0:00:29.33,DEFAULT,,0,0,0,,{\r}{\kf50}Schlaf'{\kf29} gut,{\kf43} die{\kf22}ser
+Dialogue: 0,0:00:29.39,0:00:31.55,DEFAULT,,0,0,0,,{\r}{\kf19}Span{\kf13}nen{\kf13}de{\kf25} Tag{\kf19} ist{\kf19} nun{\kf19} ver{\kf38}gan{\kf25}ge{\kf26}-en
+Dialogue: 0,0:00:31.67,0:00:33.34,DEFAULT,,0,0,0,,{\r}{\kf38}Schlaf'{\kf31} gut,{\kf46} herz{\kf31}lich{\kf22} wirst
+Dialogue: 0,0:00:33.34,0:00:35.98,DEFAULT,,0,0,0,,{\r}{\kf10}Du{\kf13} im{\kf25} Traum{\kf25}land{\kf19}  nun{\kf13} emp{\kf25}fan{\kf133}gen
+Dialogue: 0,0:00:36.40,0:00:37.95,DEFAULT,,0,0,0,,{\r}{\kf33}Husch{\kf33} husch,{\kf25} es{\kf16} ist{\kf49} Zeit
+Dialogue: 0,0:00:38.07,0:00:39.63,DEFAULT,,0,0,0,,{\r}{\kf31}Schlüpf'{\kf12} ins{\kf25} Bett{\kf19} hi{\kf69}nein
+Dialogue: 0,0:00:40.05,0:00:41.66,DEFAULT,,0,0,0,,{\r}{\kf32}Husch{\kf32} husch,{\kf32} lei{\kf16}se{\kf50} sein
+Dialogue: 0,0:00:41.72,0:00:45.62,DEFAULT,,0,0,0,,{\r}{\kf13}Dann{\kf25} schläfst{\kf19} Du{\kf19} fried{\kf19}lich{\kf294} ein!
+Dialogue: 0,0:00:45.68,0:00:46.39,DEFAULT,,0,0,0,,{\r}{\kf72}Au!

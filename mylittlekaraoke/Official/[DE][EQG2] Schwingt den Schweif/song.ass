@@ -1,56 +1,63 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Schwingt den Schweif
+Artist: Equestria Girls - Rainbow Rocks
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.34,0:00:09.62,DEFAULT,,0,0,0,,{\kf17}Heut'{\kf11} ist{\kf11} un{\kf17}ser{\kf49} Tag
-Dialogue: 0,0:00:10.32,0:00:11.77,DEFAULT,,0,0,0,,{\kf22}Macht{\kf27} Euch{\kf38} fer{\kf38}tig
-Dialogue: 0,0:00:12.20,0:00:14.39,DEFAULT,,0,0,0,,{\kf17}Denn{\kf11} wir{\kf17} dür{\kf17}fen{\kf17} kei{\kf11}ne{\kf22} Zeit{\kf11} ver{\kf17}lie{\kf38}ren
-Dialogue: 0,0:00:14.88,0:00:16.22,DEFAULT,,0,0,0,,{\kf17}Ja,{\kf27} heu{\kf11}te{\kf54} Nacht
-Dialogue: 0,0:00:16.54,0:00:18.42,DEFAULT,,0,0,0,,{\kf38}Steigt{\kf11} un{\kf17}se{\kf11}re{\kf33} Par{\kf43}ty
-Dialogue: 0,0:00:18.74,0:00:20.88,DEFAULT,,0,0,0,,{\kf17}Je{\kf11}den{\kf22} Spaß{\kf11} woll'n{\kf22} wir{\kf11} gern{\kf22} aus{\kf11}pro{\kf49}bieren
-Dialogue: 0,0:00:22.71,0:00:25.55,DEFAULT,,0,0,0,,{\kf17}Kei{\kf17}ne{\kf11}-er{\kf59} weiß,{\kf17} was{\kf17} wird{\kf17} pas{\kf17}sie{\kf43}ren
-Dialogue: 0,0:00:25.98,0:00:29.09,DEFAULT,,0,0,0,,{\kf17}Eins{\kf27} ist{\kf43} klar:{\kf11} er{\kf17}laubt{\kf17} ist,{\kf17} was{\kf17} ge{\kf49}fällt
-Dialogue: 0,0:00:29.41,0:00:30.64,DEFAULT,,0,0,0,,{\kf17}Die{\kf11}se{\kf17} Freund{\kf17}schaft{\kf38} hier
-Dialogue: 0,0:00:31.07,0:00:35.31,DEFAULT,,0,0,0,,{\kf17}Ist{\kf17} das{\kf17} was{\kf17} uns{\kf11}re{\kf54} We{\kf17}-e{\kf49}-elt{\kf17} er{\kf49}he{\kf17}-e{\kf70}-ellt
-Dialogue: 0,0:00:35.57,0:00:36.81,DEFAULT,,0,0,0,,{\kf38}Schwingt{\kf22} den{\kf43} Schweif
-Dialogue: 0,0:00:36.81,0:00:38.90,DEFAULT,,0,0,0,,{\kf17}Uns'{\kf17}re{\kf17} Par{\kf17}ty{\kf17} heut'{\kf17} soll{\kf17} nie{\kf17}mals{\kf17} en{\kf17}den
-Dialogue: 0,0:00:38.84,0:00:41.95,DEFAULT,,0,0,0,,{\kf27}Habt{\kf27} die{\kf43} Zeit,{\kf27} seid{\kf22} be{\kf38}re{\kf11}-e{\kf27}-eit
-Dialogue: 0,0:00:42.11,0:00:43.29,DEFAULT,,0,0,0,,{\kf33}Schwingt{\kf27} den{\kf33} Schweif
-Dialogue: 0,0:00:43.40,0:00:45.44,DEFAULT,,0,0,0,,{\kf17}Uns'{\kf17}re{\kf17} Par{\kf11}ty{\kf17} heut'{\kf17} soll{\kf17} nie{\kf17}mals{\kf17} en{\kf17}den
-Dialogue: 0,0:00:45.44,0:00:48.60,DEFAULT,,0,0,0,,{\kf33}Habt{\kf22} die{\kf38} Zeit,{\kf27} seid{\kf27} be{\kf33}re{\kf17}-e{\kf27}-eit
-Dialogue: 0,0:00:49.09,0:00:51.98,DEFAULT,,0,0,0,,{\kf33}Hast{\kf17} Du{\kf17} nicht{\kf17} im{\kf17}mer{\kf11} al{\kf17}les{\kf17} gleich{\kf17} ver{\kf33}stan{\kf38}den?
-Dialogue: 0,0:00:52.36,0:00:55.30,DEFAULT,,0,0,0,,{\kf22}Halb{\kf17} so{\kf38} wild,{\kf17} das{\kf17} ist{\kf11} wirk{\kf17}lich{\kf17} nicht{\kf11} so{\kf43} schlimm
-Dialogue: 0,0:00:55.68,0:00:58.58,DEFAULT,,0,0,0,,{\kf22}Bleib'{\kf17} Dir{\kf33} treu,{\kf17} be{\kf17}wahr'{\kf17} Dei{\kf17}ne{\kf11} Per{\kf22}sön{\kf17}lich{\kf33}keit
-Dialogue: 0,0:00:58.84,0:01:01.79,DEFAULT,,0,0,0,,{\kf17}Dei{\kf33}ne{\kf17} Ein{\kf17}fäl{\kf22}le{\kf22} mag{\kf17} man{\kf11} hier{\kf17} zu{\kf17} je{\kf11}der{\kf33} Zeit
-Dialogue: 0,0:01:01.85,0:01:03.88,DEFAULT,,0,0,0,,{\kf156}Oh{\kf43} ja!
-Dialogue: 0,0:01:04.15,0:01:05.38,DEFAULT,,0,0,0,,{\kf17}Heut'{\kf17} ist{\kf11} un{\kf17}ser{\kf43} Tag
-Dialogue: 0,0:01:06.14,0:01:07.64,DEFAULT,,0,0,0,,{\kf27}Macht{\kf27} Euch{\kf38} fer{\kf38}tig
-Dialogue: 0,0:01:08.07,0:01:10.42,DEFAULT,,0,0,0,,{\kf17}Denn{\kf11} wir{\kf17} dür{\kf17}fen{\kf17} kei{\kf11}ne{\kf22} Zeit{\kf11} ver{\kf22}lie{\kf43}ren
-Dialogue: 0,0:01:10.75,0:01:12.03,DEFAULT,,0,0,0,,{\kf17}Ja,{\kf27} heu{\kf11}te{\kf49} Nacht
-Dialogue: 0,0:01:12.36,0:01:14.23,DEFAULT,,0,0,0,,{\kf38}Steigt{\kf11} un{\kf17}se{\kf17}re{\kf27} Par{\kf49}ty
-Dialogue: 0,0:01:14.66,0:01:16.75,DEFAULT,,0,0,0,,{\kf17}Je{\kf11}den{\kf17} Spaß{\kf17} woll'n{\kf17} wir{\kf17} gern{\kf17} aus{\kf17}pro{\kf43}bieren
-Dialogue: 0,0:01:18.52,0:01:21.47,DEFAULT,,0,0,0,,{\kf22}Kei{\kf17}ne{\kf17}-er{\kf49} weiß,{\kf17} was{\kf17} wird{\kf11} pas{\kf17}sie{\kf49}ren
-Dialogue: 0,0:01:21.79,0:01:24.90,DEFAULT,,0,0,0,,{\kf22}Eins{\kf27} ist{\kf49} klar:{\kf17} er{\kf17}laubt{\kf17} ist,{\kf17} was{\kf11} ge{\kf49}fällt
-Dialogue: 0,0:01:25.28,0:01:26.51,DEFAULT,,0,0,0,,{\kf17}Die{\kf11}se{\kf17} Freund{\kf11}schaft{\kf33} hier
-Dialogue: 0,0:01:26.94,0:01:31.07,DEFAULT,,0,0,0,,{\kf17}Ist{\kf17} das{\kf17} was{\kf17} uns{\kf17}re{\kf54} We{\kf17}-e{\kf49}-elt{\kf17} er{\kf54}he{\kf22}-e{\kf54}-ellt
-Dialogue: 0,0:01:31.44,0:01:32.68,DEFAULT,,0,0,0,,{\kf33}Schwingt{\kf27} den{\kf43} Schweif
-Dialogue: 0,0:01:32.73,0:01:34.77,DEFAULT,,0,0,0,,{\kf17}Uns'{\kf17}re{\kf17} Par{\kf11}ty{\kf17} heut'{\kf17} soll{\kf17} nie{\kf17}mals{\kf17} en{\kf17}den
-Dialogue: 0,0:01:34.71,0:01:37.88,DEFAULT,,0,0,0,,{\kf33}Habt{\kf22} die{\kf38} Zeit,{\kf27} seid{\kf22} be{\kf43}re{\kf17}-e{\kf22}-eit
-Dialogue: 0,0:01:38.04,0:01:39.22,DEFAULT,,0,0,0,,{\kf38}Schwingt{\kf22} den{\kf38} Schweif
-Dialogue: 0,0:01:39.27,0:01:41.31,DEFAULT,,0,0,0,,{\kf17}Uns'{\kf17}re{\kf17} Par{\kf17}ty{\kf17} heut'{\kf17} soll{\kf11} nie{\kf17}mals{\kf17} en{\kf17}den
-Dialogue: 0,0:01:41.31,0:01:44.53,DEFAULT,,0,0,0,,{\kf27}Habt{\kf27} die{\kf43} Zeit,{\kf27} seid{\kf27} be{\kf43}re{\kf17}-e{\kf22}-eit
-Dialogue: 0,0:01:44.58,0:01:45.76,DEFAULT,,0,0,0,,{\kf27}Schwingt{\kf22} den{\kf38} Schweif
-Dialogue: 0,0:01:45.87,0:01:47.85,DEFAULT,,0,0,0,,{\kf17} Uns{\kf17}re{\kf17} Par{\kf11}ty{\kf17} heut'{\kf17} soll{\kf11} nie{\kf22}mals{\kf11} en{\kf17}den
-Dialogue: 0,0:01:47.90,0:01:50.96,DEFAULT,,0,0,0,,{\kf27}Habt{\kf22} die{\kf49} Zeit,{\kf27} seid{\kf22} be{\kf33}re{\kf17}-e{\kf27}-eit
-Dialogue: 0,0:01:51.17,0:01:52.30,DEFAULT,,0,0,0,,{\kf27}Schwingt{\kf27} den{\kf27} Schweif
-Dialogue: 0,0:01:52.46,0:01:54.44,DEFAULT,,0,0,0,,{\kf17} Uns'{\kf17}re{\kf11} Par{\kf17}ty{\kf17} heut'{\kf17} soll{\kf17} nie{\kf17}mals{\kf11} en{\kf17}den
-Dialogue: 0,0:01:54.44,0:01:57.55,DEFAULT,,0,0,0,,{\kf27}Habt{\kf27} die{\kf38} Zeit,{\kf27} seid{\kf22} be{\kf43}re{\kf17}-e{\kf17}-eit
-Dialogue: 0,0:01:57.72,0:01:58.84,DEFAULT,,0,0,0,,{\kf27}Schwingt{\kf22} den{\kf33} Schweif
-Dialogue: 0,0:01:59.00,0:02:01.09,DEFAULT,,0,0,0,,{\kf17}Uns'{\kf11}re{\kf17} Par{\kf17}ty{\kf17} heut'{\kf17} soll{\kf17} nie{\kf17}mals{\kf17} en{\kf22}den
+Dialogue: 0,0:00:08.34,0:00:09.63,DEFAULT,,0,0,0,,{\r}{\kf20}Heut'{\kf14} ist{\kf14} un{\kf20}ser{\kf61} Tag
+Dialogue: 0,0:00:10.32,0:00:11.77,DEFAULT,,0,0,0,,{\r}{\kf25}Macht{\kf32} Euch{\kf44} fer{\kf44}tig
+Dialogue: 0,0:00:12.20,0:00:14.40,DEFAULT,,0,0,0,,{\r}{\kf21}Denn{\kf14} wir{\kf21} dür{\kf21}fen{\kf21} kei{\kf14}ne{\kf28} Zeit{\kf14} ver{\kf21}lie{\kf45}ren
+Dialogue: 0,0:00:14.88,0:00:16.22,DEFAULT,,0,0,0,,{\r}{\kf20}Ja,{\kf34} heu{\kf13}te{\kf67} Nacht
+Dialogue: 0,0:00:16.54,0:00:18.42,DEFAULT,,0,0,0,,{\r}{\kf47}Steigt{\kf13} un{\kf20}se{\kf13}re{\kf40} Par{\kf55}ty
+Dialogue: 0,0:00:18.74,0:00:20.89,DEFAULT,,0,0,0,,{\r}{\kf20}Je{\kf13}den{\kf27} Spaß{\kf13} woll'n{\kf27} wir{\kf13} gern{\kf27} aus{\kf13}pro{\kf61}bieren
+Dialogue: 0,0:00:22.71,0:00:25.55,DEFAULT,,0,0,0,,{\r}{\kf22}Kei{\kf22}ne{\kf15}-er{\kf80} weiß,{\kf22} was{\kf22} wird{\kf22} pas{\kf22}sie{\kf57}ren
+Dialogue: 0,0:00:25.98,0:00:29.09,DEFAULT,,0,0,0,,{\r}{\kf24}Eins{\kf40} ist{\kf64} klar:{\kf16} er{\kf24}laubt{\kf24} ist,{\kf24} was{\kf24} ge{\kf71}fällt
+Dialogue: 0,0:00:29.41,0:00:30.65,DEFAULT,,0,0,0,,{\r}{\kf21}Die{\kf14}se{\kf21} Freund{\kf21}schaft{\kf46} hier
+Dialogue: 0,0:00:31.07,0:00:35.31,DEFAULT,,0,0,0,,{\r}{\kf20}Ist{\kf20} das{\kf20} was{\kf20} uns{\kf13}re{\kf66} We{\kf20}-e{\kf60}-elt{\kf20} er{\kf60}he{\kf20}-e{\kf85}-ellt
+Dialogue: 0,0:00:35.58,0:00:36.81,DEFAULT,,0,0,0,,{\r}{\kf45}Schwingt{\kf26} den{\kf52} Schweif
+Dialogue: 0,0:00:36.81,0:00:38.90,DEFAULT,,0,0,0,,{\r}{\kf21}Uns'{\kf21}re{\kf21} Par{\kf21}ty{\kf21} heut'{\kf21} soll{\kf21} nie{\kf21}mals{\kf21} en{\kf20}den
+Dialogue: 0,0:00:38.85,0:00:41.96,DEFAULT,,0,0,0,,{\r}{\kf38}Habt{\kf38} die{\kf61} Zeit,{\kf38} seid{\kf30} be{\kf53}re{\kf15}-e{\kf38}-eit
+Dialogue: 0,0:00:42.12,0:00:43.30,DEFAULT,,0,0,0,,{\r}{\kf42}Schwingt{\kf35} den{\kf41} Schweif
+Dialogue: 0,0:00:43.41,0:00:45.44,DEFAULT,,0,0,0,,{\r}{\kf21}Uns'{\kf21}re{\kf21} Par{\kf14}ty{\kf21} heut'{\kf21} soll{\kf21} nie{\kf21}mals{\kf21} en{\kf22}den
+Dialogue: 0,0:00:45.44,0:00:48.61,DEFAULT,,0,0,0,,{\r}{\kf46}Habt{\kf31} die{\kf54} Zeit,{\kf39} seid{\kf39} be{\kf46}re{\kf23}-e{\kf38}-eit
+Dialogue: 0,0:00:49.09,0:00:51.99,DEFAULT,,0,0,0,,{\r}{\kf41}Hast{\kf21} Du{\kf21} nicht{\kf21} im{\kf21}mer{\kf14} al{\kf21}les{\kf21} gleich{\kf21} ver{\kf41}stan{\kf47}den?
+Dialogue: 0,0:00:52.36,0:00:55.31,DEFAULT,,0,0,0,,{\r}{\kf31}Halb{\kf23} so{\kf54} wild,{\kf23} das{\kf23} ist{\kf16} wirk{\kf23}lich{\kf23} nicht{\kf16} so{\kf63} schlimm
+Dialogue: 0,0:00:55.69,0:00:58.58,DEFAULT,,0,0,0,,{\r}{\kf29}Bleib'{\kf22} Dir{\kf44} treu,{\kf22} be{\kf22}wahr'{\kf22} Dei{\kf22}ne{\kf14} Per{\kf29}sön{\kf22}lich{\kf42}keit
+Dialogue: 0,0:00:58.85,0:01:01.80,DEFAULT,,0,0,0,,{\r}{\kf21}Dei{\kf42}ne{\kf21} Ein{\kf21}fäl{\kf28}le{\kf28} mag{\kf21} man{\kf14} hier{\kf21} zu{\kf21} je{\kf14}der{\kf43} Zeit
+Dialogue: 0,0:01:01.85,0:01:03.89,DEFAULT,,0,0,0,,{\r}{\kf160}Oh{\kf44} ja!
+Dialogue: 0,0:01:04.16,0:01:05.39,DEFAULT,,0,0,0,,{\r}{\kf19}Heut'{\kf19} ist{\kf13} un{\kf19}ser{\kf53} Tag
+Dialogue: 0,0:01:06.14,0:01:07.64,DEFAULT,,0,0,0,,{\r}{\kf31}Macht{\kf31} Euch{\kf44} fer{\kf44}tig
+Dialogue: 0,0:01:08.07,0:01:10.43,DEFAULT,,0,0,0,,{\r}{\kf21}Denn{\kf14} wir{\kf21} dür{\kf21}fen{\kf21} kei{\kf14}ne{\kf28} Zeit{\kf14} ver{\kf28}lie{\kf54}ren
+Dialogue: 0,0:01:10.75,0:01:12.04,DEFAULT,,0,0,0,,{\r}{\kf20}Ja,{\kf34} heu{\kf14}te{\kf61} Nacht
+Dialogue: 0,0:01:12.36,0:01:14.24,DEFAULT,,0,0,0,,{\r}{\kf45}Steigt{\kf13} un{\kf19}se{\kf19}re{\kf32} Par{\kf60}ty
+Dialogue: 0,0:01:14.67,0:01:16.76,DEFAULT,,0,0,0,,{\r}{\kf20}Je{\kf13}den{\kf20} Spaß{\kf20} woll'n{\kf20} wir{\kf20} gern{\kf20} aus{\kf20}pro{\kf56}bieren
+Dialogue: 0,0:01:18.53,0:01:21.48,DEFAULT,,0,0,0,,{\r}{\kf30}Kei{\kf23}ne{\kf23}-er{\kf68} weiß,{\kf23} was{\kf23} wird{\kf15} pas{\kf23}sie{\kf67}ren
+Dialogue: 0,0:01:21.80,0:01:24.91,DEFAULT,,0,0,0,,{\r}{\kf30}Eins{\kf38} ist{\kf68} klar:{\kf23} er{\kf23}laubt{\kf23} ist,{\kf23} was{\kf15} ge{\kf68}fällt
+Dialogue: 0,0:01:25.28,0:01:26.52,DEFAULT,,0,0,0,,{\r}{\kf23}Die{\kf15}se{\kf23} Freund{\kf15}schaft{\kf47} hier
+Dialogue: 0,0:01:26.94,0:01:31.07,DEFAULT,,0,0,0,,{\r}{\kf19}Ist{\kf19} das{\kf19} was{\kf19} uns{\kf19}re{\kf65} We{\kf19}-e{\kf58}-elt{\kf19} er{\kf65}he{\kf26}-e{\kf66}-ellt
+Dialogue: 0,0:01:31.45,0:01:32.68,DEFAULT,,0,0,0,,{\r}{\kf39}Schwingt{\kf32} den{\kf52} Schweif
+Dialogue: 0,0:01:32.73,0:01:34.77,DEFAULT,,0,0,0,,{\r}{\kf21}Uns'{\kf21}re{\kf21} Par{\kf14}ty{\kf21} heut'{\kf21} soll{\kf21} nie{\kf21}mals{\kf21} en{\kf22}den
+Dialogue: 0,0:01:34.72,0:01:37.88,DEFAULT,,0,0,0,,{\r}{\kf46}Habt{\kf31} die{\kf54} Zeit,{\kf39} seid{\kf31} be{\kf62}re{\kf23}-e{\kf30}-eit
+Dialogue: 0,0:01:38.04,0:01:39.22,DEFAULT,,0,0,0,,{\r}{\kf46}Schwingt{\kf26} den{\kf46} Schweif
+Dialogue: 0,0:01:39.28,0:01:41.31,DEFAULT,,0,0,0,,{\r}{\kf21}Uns'{\kf21}re{\kf21} Par{\kf21}ty{\kf21} heut'{\kf21} soll{\kf14} nie{\kf21}mals{\kf21} en{\kf22}den
+Dialogue: 0,0:01:41.31,0:01:44.53,DEFAULT,,0,0,0,,{\r}{\kf37}Habt{\kf37} die{\kf60} Zeit,{\kf37} seid{\kf37} be{\kf60}re{\kf22}-e{\kf32}-eit
+Dialogue: 0,0:01:44.58,0:01:45.76,DEFAULT,,0,0,0,,{\r}{\kf37}Schwingt{\kf30} den{\kf51} Schweif
+Dialogue: 0,0:01:45.87,0:01:47.85,DEFAULT,,0,0,0,,{\r}{\kf21} Uns{\kf21}re{\kf21} Par{\kf14}ty{\kf21} heut'{\kf21} soll{\kf14} nie{\kf28}mals{\kf14} en{\kf23}den
+Dialogue: 0,0:01:47.91,0:01:50.96,DEFAULT,,0,0,0,,{\r}{\kf37}Habt{\kf30} die{\kf67} Zeit,{\kf37} seid{\kf30} be{\kf45}re{\kf22}-e{\kf38}-eit
+Dialogue: 0,0:01:51.18,0:01:52.31,DEFAULT,,0,0,0,,{\r}{\kf38}Schwingt{\kf38} den{\kf37} Schweif
+Dialogue: 0,0:01:52.47,0:01:54.45,DEFAULT,,0,0,0,,{\r}{\kf21} Uns'{\kf21}re{\kf14} Par{\kf21}ty{\kf21} heut'{\kf21} soll{\kf21} nie{\kf21}mals{\kf14} en{\kf23}den
+Dialogue: 0,0:01:54.45,0:01:57.56,DEFAULT,,0,0,0,,{\r}{\kf39}Habt{\kf39} die{\kf54} Zeit,{\kf39} seid{\kf31} be{\kf62}re{\kf23}-e{\kf24}-eit
+Dialogue: 0,0:01:57.72,0:01:58.85,DEFAULT,,0,0,0,,{\r}{\kf38}Schwingt{\kf30} den{\kf45} Schweif
+Dialogue: 0,0:01:59.01,0:02:01.10,DEFAULT,,0,0,0,,{\r}{\kf21}Uns'{\kf14}re{\kf21} Par{\kf21}ty{\kf21} heut'{\kf21} soll{\kf21} nie{\kf21}mals{\kf21} en{\kf27}den

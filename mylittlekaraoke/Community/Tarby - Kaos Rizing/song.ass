@@ -1,65 +1,72 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Kaos Rizing (Radio Edit)
+Artist: Tarby
+Original Timing: mylittlekaraoke.com by Pony Rock Project
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.62,0:00:16.50,DEFAULT,,0,0,0,,{\kf75}I'm{\kf100} back
-Dialogue: 0,0:00:18.00,0:00:20.25,DEFAULT,,0,0,0,,{\kf13}And{\kf13} it{\kf50} feels{\kf38} good{\kf63} too
-Dialogue: 0,0:00:28.62,0:00:31.25,DEFAULT,,0,0,0,,{\kf25}Oh{\kf13} this{\kf13} is{\kf13} gonna{\kf13} be{\kf13} so{\kf25} much{\kf13} fun{\kf13} my{\kf38} friends
-Dialogue: 0,0:00:32.62,0:00:33.75,DEFAULT,,0,0,0,,{\kf13}Just{\kf13} stick{\kf25} around{\kf13} for a{\kf25} while
-Dialogue: 0,0:00:34.62,0:00:35.50,DEFAULT,,0,0,0,,{\kf25}Trust{\kf50} me
-Dialogue: 0,0:00:36.62,0:00:38.00,DEFAULT,,0,0,0,,{\kf13}You're{\kf13} gon{\kf13}na{\kf25} love{\kf63} it
-Dialogue: 0,0:00:40.25,0:00:41.25,DEFAULT,,0,0,0,,{\kf100}Ooh
-Dialogue: 0,0:00:48.12,0:00:53.12,DEFAULT,,0,0,0,,{\kf100}Hmm{\kf63}-hmm{\kf25} heh{\kf38}-heh{\kf63}Oh{\kf38} h{\kf38}o{\kf38}~
-Dialogue: 0,0:00:57.25,0:01:03.50,DEFAULT,,0,0,0,,{\kf50}Hmm{\kf25}-h{\kf50}m{\kf63}mm{\kf38} M{\kf50}mm{\kf38} hm{\kf50}m{\kf100}mm
-Dialogue: 0,0:01:04.50,0:01:10.62,DEFAULT,,0,0,0,,{\kf63}H{\kf38}m{\kf25}-h{\kf75}m{\kf100}mm{\kf50} H{\kf50}uh{\kf50} h{\kf63}oo
-Dialogue: 0,0:01:11.25,0:01:14.25,DEFAULT,,0,0,0,,{\kf25}Locked{\kf25} a{\kf13}way{\kf13} for{\kf25} years{\kf13} 'cause{\kf13} I{\kf13} caused{\kf25} some{\kf25} tears
-Dialogue: 0,0:01:14.50,0:01:17.37,DEFAULT,,0,0,0,,{\kf25}Some{\kf25}one{\kf13} took{\kf13} a{\kf25} joke{\kf13} wrong{\kf13} so{\kf25} I{\kf13} be{\kf25}came{\kf25} feared
-Dialogue: 0,0:01:17.75,0:01:20.62,DEFAULT,,0,0,0,,{\kf38}Thou{\kf13}sand{\kf25} years{\kf13} of{\kf25} stone,{\kf25} sit{\kf13}ting{\kf25} on{\kf13} my{\kf25} own
-Dialogue: 0,0:01:21.00,0:01:23.87,DEFAULT,,0,0,0,,{\kf13}Stuck{\kf25} with{\kf25}out{\kf13} a{\kf13} chance{\kf25} to{\kf13} prove{\kf25} my{\kf13}self{\kf13} a{\kf38}long
-Dialogue: 0,0:01:24.25,0:01:27.00,DEFAULT,,0,0,0,,{\kf38}Thou{\kf13}sand{\kf13} years{\kf13} have{\kf38} passed,{\kf13} my{\kf13} shell{\kf13} starts{\kf13} to{\kf25} crack
-Dialogue: 0,0:01:27.37,0:01:30.25,DEFAULT,,0,0,0,,{\kf13}I've{\kf13} had{\kf25} e{\kf13}nough{\kf25} time{\kf13} to{\kf13} plan{\kf13} out{\kf13} my{\kf25} att{\kf25}ack
-Dialogue: 0,0:01:30.75,0:01:33.50,DEFAULT,,0,0,0,,{\kf13}Y'all{\kf25} got{\kf13} num{\kf13}bered{\kf38} days,{\kf13} Ka{\kf25}os{\kf13} will{\kf13} be{\kf25} raised
-Dialogue: 0,0:01:33.87,0:01:36.62,DEFAULT,,0,0,0,,{\kf25}Time{\kf13} for{\kf25} me{\kf25} to{\kf25} -{\kf13} be{\kf38}cause{\kf25} now
-Dialogue: 0,0:01:36.75,0:01:40.00,DEFAULT,,0,0,0,,{\kf25}I'm{\kf13} back{\kf13} and{\kf13} on{\kf13} the{\kf13} prowl,{\kf13} dont{\kf13} give{\kf25} me{\kf13} a{\kf25}ny{\kf25} lip
-Dialogue: 0,0:01:40.12,0:01:43.12,DEFAULT,,0,0,0,,{\kf13}I'll{\kf13} put{\kf13} you{\kf13} in{\kf25} your{\kf13} place{\kf25} won't{\kf13} de{\kf25}al{\kf13} with{\kf50} such -
-Dialogue: 0,0:01:43.37,0:01:46.50,DEFAULT,,0,0,0,,{\kf13}So{\kf13} get{\kf13} down{\kf25} on{\kf13} your{\kf25} knees,{\kf13} be{\kf25} sure{\kf13} to{\kf25} o{\kf13}pen{\kf13} wi{\kf25}de
-Dialogue: 0,0:01:46.87,0:01:48.00,DEFAULT,,0,0,0,,{\kf13}I'm{\kf13} making{\kf13} you{\kf13} my{\kf25}-
-Dialogue: 0,0:01:48.12,0:01:51.25,DEFAULT,,0,0,0,,{\kf13}I'm{\kf25} back{\kf25} ba{\kf13}by,{\kf25} I{\kf25} am{\kf25} a{\kf100}live
-Dialogue: 0,0:01:57.12,0:02:02.25,DEFAULT,,0,0,0,,{\kf13}I{\kf25} am{\kf25} a{\kf100}li{\kf63}~{\kf38}~{\kf88}~{\kf138}~ve
-Dialogue: 0,0:02:05.75,0:02:10.25,DEFAULT,,0,0,0,,{\kf13}F{\kf38}ran{\kf50}tic{\kf25} for{\kf38} the{\kf50} fac{\kf38}tor{\kf38} I{\kf25} re{\kf63} place
-Dialogue: 0,0:02:13.50,0:02:18.00,DEFAULT,,0,0,0,,{\kf38}Such{\kf38} dry{\kf63} wea{\kf25}ther{\kf38} needs{\kf25} a{\kf50} change{\kf25} of{\kf63} pace
-Dialogue: 0,0:02:21.25,0:02:24.62,DEFAULT,,0,0,0,,{\kf13}Tr{\kf13}y{\kf13} to{\kf50} con{\kf25}test{\kf13} me,{\kf13} then{\kf25} it's{\kf25} time{\kf25} you're{\kf38} gone
-Dialogue: 0,0:02:25.12,0:02:28.50,DEFAULT,,0,0,0,,{\kf25}Learn{\kf13} to{\kf38} res{\kf13}pect{\kf25} me,{\kf13} 'cause{\kf38} I'm{\kf25} num{\kf25}ber{\kf38} one
-Dialogue: 0,0:02:29.00,0:02:32.25,DEFAULT,,0,0,0,,{\kf25}Think{\kf13} you'll{\kf50} out{\kf25}smart{\kf25} me,{\kf13} you'll{\kf13} soon{\kf25} find{\kf25} you're{\kf25} wrong
-Dialogue: 0,0:02:32.37,0:02:36.00,DEFAULT,,0,0,0,,{\kf13}It's{\kf13} a{\kf25} crime{\kf13} that{\kf25} I'm{\kf25} free{\kf13} so{\kf13} come{\kf38} on{\kf25} fol{\kf13}low{\kf25} on
-Dialogue: 0,0:02:36.37,0:02:39.62,DEFAULT,,0,0,0,,{\kf25}I'm{\kf13} back{\kf13} and{\kf25} on{\kf13} the{\kf13} prowl,{\kf25} don't{\kf13} give{\kf13} me{\kf13} a{\kf25}ny{\kf25} lip
-Dialogue: 0,0:02:39.87,0:02:42.75,DEFAULT,,0,0,0,,{\kf13}I'll{\kf13} put{\kf25} you{\kf13} in{\kf13} your{\kf25} place,{\kf38} won't{\kf13} de{\kf13}al{\kf25} with{\kf13} your{\kf13} -
-Dialogue: 0,0:02:43.00,0:02:46.00,DEFAULT,,0,0,0,,{\kf13}So{\kf13} get{\kf13} down{\kf13} on{\kf13} your{\kf13} knees,{\kf25} be{\kf13} sure{\kf13} to{\kf25} o{\kf13}pen{\kf13} wi{\kf13}de
-Dialogue: 0,0:02:46.37,0:02:47.50,DEFAULT,,0,0,0,,{\kf13}I'm{\kf25} mak{\kf13}ing{\kf13} you{\kf25} my{\kf13}-
-Dialogue: 0,0:02:47.75,0:02:50.87,DEFAULT,,0,0,0,,{\kf13}Come{\kf25} back{\kf38} ba{\kf13}by,{\kf25} I{\kf13} am{\kf38} a{\kf88}live
-Dialogue: 0,0:04:20.25,0:04:25.50,DEFAULT,,0,0,0,,{\kf38}In{\kf50}sa{\kf50}ni{\kf38}ty{\kf38} is{\kf38} plea{\kf38}sing{\kf25} t{\kf13}o{\kf25} th{\kf13}e{\kf100} eyes
-Dialogue: 0,0:04:28.37,0:04:34.25,DEFAULT,,0,0,0,,{\kf50}Re{\kf25}lish{\kf25} in{\kf38} des{\kf50}truc{\kf25}tion{\kf25} and{\kf25} de{\kf25}mi{\kf38}~{\kf38}~{\kf100}se
-Dialogue: 0,0:04:36.12,0:04:39.37,DEFAULT,,0,0,0,,{\kf13}Give{\kf25} you{\kf13} a{\kf25} wink{\kf25} then{\kf13} I'll{\kf25} leave{\kf13} you{\kf13} to{\kf50} cry
-Dialogue: 0,0:04:40.00,0:04:43.37,DEFAULT,,0,0,0,,{\kf25}Use{\kf13} and{\kf13} a{\kf50}buse{\kf13} till{\kf38} your{\kf13} streams{\kf13} have{\kf25} run{\kf50} dry
-Dialogue: 0,0:04:43.87,0:04:47.25,DEFAULT,,0,0,0,,{\kf25}Don't{\kf13} dare{\kf13} to{\kf25} fi{\kf25}ght{\kf25} it,{\kf13} you{\kf13} know{\kf38} you{\kf13} can't{\kf38} fly
-Dialogue: 0,0:04:47.50,0:04:51.00,DEFAULT,,0,0,0,,{\kf13}Don't{\kf13} lie{\kf13} to{\kf38} your{\kf25}self{\kf25} 'cause{\kf13} I'm{\kf25} like{\kf13} no{\kf25} one{\kf38} else
-Dialogue: 0,0:04:51.37,0:04:54.50,DEFAULT,,0,0,0,,{\kf13}I'm{\kf13} back{\kf13} and{\kf13} on{\kf13} the{\kf13} prowl,{\kf38} don't{\kf13} give{\kf25} me{\kf13} a{\kf25}ny{\kf25} lip
-Dialogue: 0,0:04:54.62,0:04:57.25,DEFAULT,,0,0,0,,{\kf13}I'll{\kf13} put{\kf13} you{\kf13} in{\kf25} your{\kf13} place,{\kf25} won't{\kf13} de{\kf25}al{\kf13} with{\kf13} such -
-Dialogue: 0,0:04:57.87,0:05:00.87,DEFAULT,,0,0,0,,{\kf13}So{\kf13} get{\kf13} down{\kf13} on{\kf13} your{\kf25} knees,{\kf13} be{\kf25} sure{\kf13} to{\kf25} o{\kf13}pen{\kf13} wi{\kf13}de
-Dialogue: 0,0:05:01.12,0:05:02.00,DEFAULT,,0,0,0,,{\kf13}I'm{\kf13} mak{\kf25}ing{\kf13} you -
-Dialogue: 0,0:05:02.62,0:05:04.12,DEFAULT,,0,0,0,,{\kf13}I'm{\kf25} star{\kf13}ting{\kf13} up{\kf25} your{\kf25} tide
-Dialogue: 0,0:05:04.25,0:05:07.37,DEFAULT,,0,0,0,,{\kf13}I'm{\kf13} back{\kf13} and{\kf25} on{\kf13} the{\kf13} scene,{\kf25} so{\kf25} co{\kf13}wer{\kf13} if{\kf25} you{\kf13} wi{\kf13}ll
-Dialogue: 0,0:05:07.50,0:05:10.62,DEFAULT,,0,0,0,,{\kf13}Just{\kf13} kn{\kf25}ow{\kf13} when{\kf13} I{\kf13} got{\kf13} you{\kf13} I'll{\kf13} give{\kf13} such{\kf13} a{\kf25} thrill
-Dialogue: 0,0:05:11.00,0:05:13.87,DEFAULT,,0,0,0,,{\kf13}Cha{\kf25}os{\kf13} is{\kf13} the{\kf13} thing{\kf25} you{\kf13} y{\kf13}earn{\kf13} for{\kf13} deep{\kf25} in{\kf13}side
-Dialogue: 0,0:05:14.12,0:05:18.75,DEFAULT,,0,0,0,,{\kf13}To{\kf13}night{\kf13} you'll{\kf13} be{\kf38} -,{\kf13} I'm{\kf25} back{\kf38} ba{\kf13}by{\kf25} I{\kf13} am{\kf38} a{\kf100}live
-Dialogue: 0,0:05:20.50,0:05:27.00,DEFAULT,,0,0,0,,{\kf13}M{\kf88}mm{\kf63} h{\kf138}umm{\kf88} Hm{\kf63} hm{\kf88}m
-Dialogue: 0,0:05:28.37,0:05:34.50,DEFAULT,,0,0,0,,{\kf88}Hm{\kf63} hm{\kf113}mmm{\kf88} Hm{\kf63} hu{\kf63}h
-Dialogue: 0,0:05:36.12,0:05:42.25,DEFAULT,,0,0,0,,{\kf88}Hm{\kf75} hm{\kf88}mm{\kf88} huh{\kf75} ho{\kf50}oh
-Dialogue: 0,0:05:43.87,0:05:51.87,DEFAULT,,0,0,0,,{\kf238}Huu-hooh{\kf425} hu-oooh
+Dialogue: 0,0:00:14.62,0:00:16.50,DEFAULT,,0,0,0,,{\r}{\kf81}I'm{\kf107} back
+Dialogue: 0,0:00:18.00,0:00:20.25,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf16} it{\kf64} feels{\kf48} good{\kf81} too
+Dialogue: 0,0:00:28.62,0:00:31.25,DEFAULT,,0,0,0,,{\r}{\kf37}Oh{\kf19} this{\kf19} is{\kf19} gonna{\kf19} be{\kf19} so{\kf37} much{\kf19} fun{\kf19} my{\kf55} friends
+Dialogue: 0,0:00:32.62,0:00:33.75,DEFAULT,,0,0,0,,{\r}{\kf16}Just{\kf16} stick{\kf32} around{\kf16} for a{\kf32} while
+Dialogue: 0,0:00:34.62,0:00:35.50,DEFAULT,,0,0,0,,{\r}{\kf29}Trust{\kf59} me
+Dialogue: 0,0:00:36.62,0:00:38.00,DEFAULT,,0,0,0,,{\r}{\kf14}You're{\kf14} gon{\kf14}na{\kf28} love{\kf68} it
+Dialogue: 0,0:00:40.25,0:00:41.25,DEFAULT,,0,0,0,,{\r}{\kf100}Ooh
+Dialogue: 0,0:00:48.12,0:00:53.12,DEFAULT,,0,0,0,,{\r}{\kf125}Hmm{\kf78}-hmm{\kf31} heh{\kf47}-heh{\kf78}Oh{\kf47} h{\kf47}o{\kf47}~
+Dialogue: 0,0:00:57.25,0:01:03.50,DEFAULT,,0,0,0,,{\r}{\kf68}Hmm{\kf34}-h{\kf68}m{\kf84}mm{\kf51} M{\kf68}mm{\kf51} hm{\kf68}m{\kf133}mm
+Dialogue: 0,0:01:04.50,0:01:10.62,DEFAULT,,0,0,0,,{\r}{\kf75}H{\kf45}m{\kf30}-h{\kf90}m{\kf119}mm{\kf60} H{\kf60}uh{\kf60} h{\kf73}oo
+Dialogue: 0,0:01:11.25,0:01:14.25,DEFAULT,,0,0,0,,{\r}{\kf40}Locked{\kf40} a{\kf20}way{\kf20} for{\kf40} years{\kf20} 'cause{\kf20} I{\kf20} caused{\kf40} some{\kf40} tears
+Dialogue: 0,0:01:14.50,0:01:17.38,DEFAULT,,0,0,0,,{\r}{\kf34}Some{\kf34}one{\kf17} took{\kf17} a{\kf34} joke{\kf17} wrong{\kf17} so{\kf34} I{\kf17} be{\kf34}came{\kf33} feared
+Dialogue: 0,0:01:17.75,0:01:20.62,DEFAULT,,0,0,0,,{\r}{\kf51}Thou{\kf17}sand{\kf34} years{\kf17} of{\kf34} stone,{\kf34} sit{\kf17}ting{\kf34} on{\kf17} my{\kf33} own
+Dialogue: 0,0:01:21.00,0:01:23.88,DEFAULT,,0,0,0,,{\r}{\kf17}Stuck{\kf34} with{\kf34}out{\kf17} a{\kf17} chance{\kf34} to{\kf17} prove{\kf34} my{\kf17}self{\kf17} a{\kf50}long
+Dialogue: 0,0:01:24.25,0:01:27.00,DEFAULT,,0,0,0,,{\r}{\kf55}Thou{\kf18}sand{\kf18} years{\kf18} have{\kf55} passed,{\kf18} my{\kf18} shell{\kf18} starts{\kf18} to{\kf39} crack
+Dialogue: 0,0:01:27.38,0:01:30.25,DEFAULT,,0,0,0,,{\r}{\kf19}I've{\kf19} had{\kf38} e{\kf19}nough{\kf38} time{\kf19} to{\kf19} plan{\kf19} out{\kf19} my{\kf38} att{\kf41}ack
+Dialogue: 0,0:01:30.75,0:01:33.50,DEFAULT,,0,0,0,,{\r}{\kf18}Y'all{\kf37} got{\kf18} num{\kf18}bered{\kf55} days,{\kf18} Ka{\kf37}os{\kf18} will{\kf18} be{\kf38} raised
+Dialogue: 0,0:01:33.88,0:01:36.62,DEFAULT,,0,0,0,,{\r}{\kf37}Time{\kf18} for{\kf37} me{\kf37} to{\kf37} -{\kf18} be{\kf55}cause{\kf36} now
+Dialogue: 0,0:01:36.75,0:01:40.00,DEFAULT,,0,0,0,,{\r}{\kf41}I'm{\kf20} back{\kf20} and{\kf20} on{\kf20} the{\kf20} prowl,{\kf20} dont{\kf20} give{\kf41} me{\kf20} a{\kf41}ny{\kf42} lip
+Dialogue: 0,0:01:40.12,0:01:43.12,DEFAULT,,0,0,0,,{\r}{\kf18}I'll{\kf18} put{\kf18} you{\kf18} in{\kf35} your{\kf18} place{\kf35} won't{\kf18} de{\kf35}al{\kf18} with{\kf69} such -
+Dialogue: 0,0:01:43.38,0:01:46.50,DEFAULT,,0,0,0,,{\r}{\kf17}So{\kf17} get{\kf17} down{\kf35} on{\kf17} your{\kf35} knees,{\kf17} be{\kf35} sure{\kf17} to{\kf35} o{\kf17}pen{\kf17} wi{\kf36}de
+Dialogue: 0,0:01:46.88,0:01:48.00,DEFAULT,,0,0,0,,{\r}{\kf19}I'm{\kf19} making{\kf19} you{\kf19} my{\kf36}-
+Dialogue: 0,0:01:48.12,0:01:51.25,DEFAULT,,0,0,0,,{\r}{\kf16}I'm{\kf31} back{\kf31} ba{\kf16}by,{\kf31} I{\kf31} am{\kf31} a{\kf125}live
+Dialogue: 0,0:01:57.12,0:02:02.25,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf26} am{\kf26} a{\kf105}li{\kf66}~{\kf39}~{\kf92}~{\kf145}~ve
+Dialogue: 0,0:02:05.75,0:02:10.25,DEFAULT,,0,0,0,,{\r}{\kf15}F{\kf45}ran{\kf60}tic{\kf30} for{\kf45} the{\kf60} fac{\kf45}tor{\kf45} I{\kf30} re{\kf75} place
+Dialogue: 0,0:02:13.50,0:02:18.00,DEFAULT,,0,0,0,,{\r}{\kf47}Such{\kf47} dry{\kf78} wea{\kf31}ther{\kf47} needs{\kf31} a{\kf62} change{\kf31} of{\kf76} pace
+Dialogue: 0,0:02:21.25,0:02:24.62,DEFAULT,,0,0,0,,{\r}{\kf17}Tr{\kf17}y{\kf17} to{\kf68} con{\kf34}test{\kf17} me,{\kf17} then{\kf34} it's{\kf34} time{\kf34} you're{\kf49} gone
+Dialogue: 0,0:02:25.12,0:02:28.50,DEFAULT,,0,0,0,,{\r}{\kf34}Learn{\kf17} to{\kf51} res{\kf17}pect{\kf34} me,{\kf17} 'cause{\kf51} I'm{\kf34} num{\kf34}ber{\kf49} one
+Dialogue: 0,0:02:29.00,0:02:32.25,DEFAULT,,0,0,0,,{\r}{\kf34}Think{\kf17} you'll{\kf68} out{\kf34}smart{\kf34} me,{\kf17} you'll{\kf17} soon{\kf34} find{\kf34} you're{\kf36} wrong
+Dialogue: 0,0:02:32.38,0:02:36.00,DEFAULT,,0,0,0,,{\r}{\kf19}It's{\kf19} a{\kf38} crime{\kf19} that{\kf38} I'm{\kf38} free{\kf19} so{\kf19} come{\kf57} on{\kf38} fol{\kf19}low{\kf39} on
+Dialogue: 0,0:02:36.38,0:02:39.62,DEFAULT,,0,0,0,,{\r}{\kf38}I'm{\kf19} back{\kf19} and{\kf38} on{\kf19} the{\kf19} prowl,{\kf38} don't{\kf19} give{\kf19} me{\kf19} a{\kf38}ny{\kf40} lip
+Dialogue: 0,0:02:39.88,0:02:42.75,DEFAULT,,0,0,0,,{\r}{\kf17}I'll{\kf17} put{\kf34} you{\kf17} in{\kf17} your{\kf34} place,{\kf51} won't{\kf17} de{\kf17}al{\kf34} with{\kf17} your{\kf16} -
+Dialogue: 0,0:02:43.00,0:02:46.00,DEFAULT,,0,0,0,,{\r}{\kf20}So{\kf20} get{\kf20} down{\kf20} on{\kf20} your{\kf20} knees,{\kf40} be{\kf20} sure{\kf20} to{\kf40} o{\kf20}pen{\kf20} wi{\kf20}de
+Dialogue: 0,0:02:46.38,0:02:47.50,DEFAULT,,0,0,0,,{\r}{\kf14}I'm{\kf28} mak{\kf14}ing{\kf14} you{\kf28} my{\kf14}-
+Dialogue: 0,0:02:47.75,0:02:50.88,DEFAULT,,0,0,0,,{\r}{\kf16}Come{\kf31} back{\kf47} ba{\kf16}by,{\kf31} I{\kf16} am{\kf47} a{\kf108}live
+Dialogue: 0,0:04:20.25,0:04:25.50,DEFAULT,,0,0,0,,{\r}{\kf43}In{\kf57}sa{\kf57}ni{\kf43}ty{\kf43} is{\kf43} plea{\kf43}sing{\kf28} t{\kf14}o{\kf28} th{\kf14}e{\kf112} eyes
+Dialogue: 0,0:04:28.38,0:04:34.25,DEFAULT,,0,0,0,,{\r}{\kf64}Re{\kf32}lish{\kf32} in{\kf48} des{\kf64}truc{\kf32}tion{\kf32} and{\kf32} de{\kf32}mi{\kf48}~{\kf48}~{\kf124}se
+Dialogue: 0,0:04:36.12,0:04:39.38,DEFAULT,,0,0,0,,{\r}{\kf19}Give{\kf38} you{\kf19} a{\kf38} wink{\kf38} then{\kf19} I'll{\kf38} leave{\kf19} you{\kf19} to{\kf78} cry
+Dialogue: 0,0:04:40.00,0:04:43.38,DEFAULT,,0,0,0,,{\r}{\kf34}Use{\kf17} and{\kf17} a{\kf68}buse{\kf17} till{\kf51} your{\kf17} streams{\kf17} have{\kf34} run{\kf66} dry
+Dialogue: 0,0:04:43.88,0:04:47.25,DEFAULT,,0,0,0,,{\r}{\kf36}Don't{\kf18} dare{\kf18} to{\kf36} fi{\kf36}ght{\kf36} it,{\kf18} you{\kf18} know{\kf53} you{\kf18} can't{\kf51} fly
+Dialogue: 0,0:04:47.50,0:04:51.00,DEFAULT,,0,0,0,,{\r}{\kf18}Don't{\kf18} lie{\kf18} to{\kf55} your{\kf37}self{\kf37} 'cause{\kf18} I'm{\kf37} like{\kf18} no{\kf37} one{\kf57} else
+Dialogue: 0,0:04:51.38,0:04:54.50,DEFAULT,,0,0,0,,{\r}{\kf18}I'm{\kf18} back{\kf18} and{\kf18} on{\kf18} the{\kf18} prowl,{\kf55} don't{\kf18} give{\kf37} me{\kf18} a{\kf37}ny{\kf39} lip
+Dialogue: 0,0:04:54.62,0:04:57.25,DEFAULT,,0,0,0,,{\r}{\kf19}I'll{\kf19} put{\kf19} you{\kf19} in{\kf37} your{\kf19} place,{\kf37} won't{\kf19} de{\kf37}al{\kf19} with{\kf18} such -
+Dialogue: 0,0:04:57.88,0:05:00.88,DEFAULT,,0,0,0,,{\r}{\kf19}So{\kf19} get{\kf19} down{\kf19} on{\kf19} your{\kf38} knees,{\kf19} be{\kf38} sure{\kf19} to{\kf38} o{\kf19}pen{\kf19} wi{\kf15}de
+Dialogue: 0,0:05:01.12,0:05:02.00,DEFAULT,,0,0,0,,{\r}{\kf18}I'm{\kf18} mak{\kf35}ing{\kf17} you -
+Dialogue: 0,0:05:02.62,0:05:04.12,DEFAULT,,0,0,0,,{\r}{\kf17}I'm{\kf33} star{\kf17}ting{\kf17} up{\kf33} your{\kf33} tide
+Dialogue: 0,0:05:04.25,0:05:07.38,DEFAULT,,0,0,0,,{\r}{\kf18}I'm{\kf18} back{\kf18} and{\kf37} on{\kf18} the{\kf18} scene,{\kf37} so{\kf37} co{\kf18}wer{\kf18} if{\kf37} you{\kf18} wi{\kf20}ll
+Dialogue: 0,0:05:07.50,0:05:10.62,DEFAULT,,0,0,0,,{\r}{\kf22}Just{\kf22} kn{\kf45}ow{\kf22} when{\kf22} I{\kf22} got{\kf22} you{\kf22} I'll{\kf22} give{\kf22} such{\kf22} a{\kf47} thrill
+Dialogue: 0,0:05:11.00,0:05:13.88,DEFAULT,,0,0,0,,{\r}{\kf19}Cha{\kf38}os{\kf19} is{\kf19} the{\kf19} thing{\kf38} you{\kf19} y{\kf19}earn{\kf19} for{\kf19} deep{\kf38} in{\kf22}side
+Dialogue: 0,0:05:14.12,0:05:18.75,DEFAULT,,0,0,0,,{\r}{\kf16}To{\kf16}night{\kf16} you'll{\kf16} be{\kf50} -,{\kf16} I'm{\kf33} back{\kf50} ba{\kf16}by{\kf33} I{\kf16} am{\kf50} a{\kf134}live
+Dialogue: 0,0:05:20.50,0:05:27.00,DEFAULT,,0,0,0,,{\r}{\kf15}M{\kf106}mm{\kf76} h{\kf166}umm{\kf106} Hm{\kf76} hm{\kf105}m
+Dialogue: 0,0:05:28.38,0:05:34.50,DEFAULT,,0,0,0,,{\r}{\kf113}Hm{\kf81} hm{\kf145}mmm{\kf113} Hm{\kf81} hu{\kf79}h
+Dialogue: 0,0:05:36.12,0:05:42.25,DEFAULT,,0,0,0,,{\r}{\kf116}Hm{\kf99} hm{\kf116}mm{\kf116} huh{\kf99} ho{\kf66}oh
+Dialogue: 0,0:05:43.88,0:05:51.88,DEFAULT,,0,0,0,,{\r}{\kf287}Huu-hooh{\kf513} hu-oooh

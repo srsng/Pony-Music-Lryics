@@ -1,57 +1,64 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Muffinproof
+Artist: La Hooves
+Original Timing: mylittlekaraoke.com by Frodo5
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:15.93,0:00:17.51,DEFAULT,,0,0,0,,{\kf19}Ran{\kf19} there,{\kf19} played{\kf19} that,{\kf19} derped{\kf7} a{\kf25}round
-Dialogue: 0,0:00:17.64,0:00:19.46,DEFAULT,,0,0,0,,{\kf19}I'm{\kf7} hav{\kf13}ing{\kf25} fun,{\kf19} oh{\kf19} look,{\kf7} a{\kf25} clown!
-Dialogue: 0,0:00:19.59,0:00:22.15,DEFAULT,,0,0,0,,{\kf13}I{\kf7} won{\kf7}der{\kf19} if{\kf19} he'll{\kf19} let{\kf13} me{\kf7} tou{\kf19}ch{\kf19} his{\kf43} shoes
-Dialogue: 0,0:00:23.79,0:00:25.32,DEFAULT,,0,0,0,,{\kf13}I{\kf13} won't{\kf13} eat{\kf19} a{\kf13} brick{\kf7} a{\kf31}gain
-Dialogue: 0,0:00:25.44,0:00:27.27,DEFAULT,,0,0,0,,{\kf13}The{\kf19} taste{\kf7} was{\kf25} bad,{\kf13} a{\kf13} nas{\kf7}ty{\kf31} blend
-Dialogue: 0,0:00:27.33,0:00:29.95,DEFAULT,,0,0,0,,{\kf19}Aw{\kf19} jeez,{\kf13} I{\kf19} can't{\kf31} get{\kf13} this{\kf19} mail{\kf13} to{\kf19} fit{\kf49} in!
-Dialogue: 0,0:00:31.54,0:00:33.12,DEFAULT,,0,0,0,,{\kf19}Ea{\kf19}ting{\kf19} muf{\kf19}fins{\kf13} is{\kf13} so{\kf25} fun
-Dialogue: 0,0:00:33.31,0:00:35.14,DEFAULT,,0,0,0,,{\kf19}I{\kf13} love{\kf13} their{\kf19} taste!{\kf13} Yum{\kf19} yum{\kf7}my{\kf31} YUM!
-Dialogue: 0,0:00:35.20,0:00:37.82,DEFAULT,,0,0,0,,{\kf19}I'm{\kf13} pret{\kf13}ty{\kf13} sure{\kf7} they're{\kf31} all{\kf13} I'll{\kf13} e{\kf25}ver{\kf49} eat
-Dialogue: 0,0:00:39.28,0:00:40.81,DEFAULT,,0,0,0,,{\kf19}Flown{\kf19} there,{\kf19} ate{\kf19} that,{\kf25} derped{\kf7} a{\kf13}round
-Dialogue: 0,0:00:40.99,0:00:42.76,DEFAULT,,0,0,0,,{\kf19}I'm{\kf13} hav{\kf13}ing{\kf25} fun,{\kf19} I{\kf13} love{\kf13} this{\kf13} town!
-Dialogue: 0,0:00:42.82,0:00:45.62,DEFAULT,,0,0,0,,{\kf25}I{\kf13} won{\kf19}der{\kf25} if{\kf13} the{\kf19} moon{\kf13} is{\kf19} made{\kf25} of{\kf43} cheese
-Dialogue: 0,0:00:48.85,0:00:52.76,DEFAULT,,0,0,0,,{\kf31}This{\kf31} time,{\kf31} po{\kf31}ny,{\kf25} I'll{\kf68} be{\kf68}~
-Dialogue: 0,0:00:53.06,0:00:55.68,DEFAULT,,0,0,0,,{\kf19}Muf{\kf147}fin-{\kf74}proof!
-Dialogue: 0,0:00:56.66,0:01:00.56,DEFAULT,,0,0,0,,{\kf31}This{\kf31} time,{\kf31} po{\kf31}ny,{\kf25} I'll{\kf61} be{\kf68}~
-Dialogue: 0,0:01:00.75,0:01:03.61,DEFAULT,,0,0,0,,{\kf19}Muf{\kf147}fin-{\kf86}proof!
-Dialogue: 0,0:01:12.45,0:01:13.98,DEFAULT,,0,0,0,,{\kf13}I{\kf13} can't{\kf19} find{\kf13} my{\kf13} way{\kf13} a{\kf13}round
-Dialogue: 0,0:01:14.22,0:01:16.05,DEFAULT,,0,0,0,,{\kf13}My{\kf19} eyes{\kf13} are{\kf19} big{\kf19} and{\kf13} ve{\kf13}ry{\kf13} round
-Dialogue: 0,0:01:16.23,0:01:18.79,DEFAULT,,0,0,0,,{\kf7}I'm{\kf19} al{\kf7}ways{\kf25} loo{\kf13}kin{\kf13} at{\kf13} two{\kf13} things{\kf13} at{\kf43} once!
-Dialogue: 0,0:01:20.38,0:01:21.90,DEFAULT,,0,0,0,,{\kf13}Eat,{\kf13} eat,{\kf13} eat{\kf13} your{\kf13} tas{\kf7}ty{\kf31} treats
-Dialogue: 0,0:01:22.03,0:01:23.85,DEFAULT,,0,0,0,,{\kf13}Cup{\kf13} cakes{\kf13} are{\kf31} nice,{\kf13} but{\kf13} just{\kf13} too{\kf25} sweet
-Dialogue: 0,0:01:23.92,0:01:26.54,DEFAULT,,0,0,0,,{\kf25}I'd{\kf13} ra{\kf13}ther{\kf25} have{\kf19} a{\kf19} batch{\kf19} of{\kf19} warm{\kf19} muf{\kf43}fins
-Dialogue: 0,0:01:28.12,0:01:29.71,DEFAULT,,0,0,0,,{\kf13}Doo{\kf13} doo{\kf13} doo{\kf13} doo{\kf13} here{\kf7} I{\kf25} am
-Dialogue: 0,0:01:29.77,0:01:31.48,DEFAULT,,0,0,0,,{\kf19}a{\kf13} funk{\kf13}a{\kf13}de{\kf13}lic{\kf19} pe{\kf7}ga{\kf13}sus
-Dialogue: 0,0:01:31.66,0:01:34.28,DEFAULT,,0,0,0,,{\kf19}Oh{\kf13} po{\kf19}ny{\kf19} I{\kf13} think{\kf13} I{\kf13} lost{\kf13} my{\kf43} head
-Dialogue: 0,0:01:35.99,0:01:37.57,DEFAULT,,0,0,0,,{\kf13}I{\kf19} won't{\kf19} let{\kf13} you{\kf13} eat{\kf13} my{\kf13} fo{\kf13}od
-Dialogue: 0,0:01:37.64,0:01:39.46,DEFAULT,,0,0,0,,{\kf13}Es{\kf13}pe{\kf13}cial{\kf19}ly{\kf19} if{\kf13} you{\kf13} are{\kf13} rude
-Dialogue: 0,0:01:39.53,0:01:42.03,DEFAULT,,0,0,0,,{\kf43}5:{\kf19}4{\kf19}2{\kf25} A-{\kf19}M?{\kf13} It's{\kf19} time{\kf19} for{\kf31} bed
-Dialogue: 0,0:01:43.49,0:01:47.51,DEFAULT,,0,0,0,,{\kf37}This{\kf37} time,{\kf37} po{\kf37}ny,{\kf37} I'll{\kf74} be{\kf80}-
-Dialogue: 0,0:01:47.57,0:01:50.50,DEFAULT,,0,0,0,,{\kf25}Muf{\kf122}fin-{\kf92}proof!
-Dialogue: 0,0:01:51.23,0:01:55.26,DEFAULT,,0,0,0,,{\kf25}This{\kf31} time,{\kf25} po{\kf25}ny,{\kf19} I'll{\kf80} be{\kf61}-
-Dialogue: 0,0:01:55.50,0:01:58.31,DEFAULT,,0,0,0,,{\kf19}Muf{\kf159}fin-{\kf86}proof!
-Dialogue: 0,0:01:59.16,0:02:02.88,DEFAULT,,0,0,0,,{\kf13}This{\kf25}~{\kf37} time,{\kf19} po{\kf19}ny{\kf19}~,{\kf19} I'll{\kf19}~{\kf86} be{\kf19}~{\kf19}~
-Dialogue: 0,0:02:03.25,0:02:06.29,DEFAULT,,0,0,0,,{\kf19}Muf{\kf159}fin-{\kf110}proof!
-Dialogue: 0,0:02:06.90,0:02:10.87,DEFAULT,,0,0,0,,{\kf31}This{\kf37} time{\kf55} po{\kf31}ny{\kf13}~,{\kf19} I'll{\kf25}~{\kf92} be{\kf25}~{\kf31}~
-Dialogue: 0,0:02:11.05,0:02:13.98,DEFAULT,,0,0,0,,{\kf19}Muf{\kf153}fin-{\kf104}proof!
-Dialogue: 0,0:02:14.95,0:02:21.54,DEFAULT,,0,0,0,,{\kf31}This{\kf80} time{\kf37} I'll{\kf92} be{\kf31} muf{\kf141}fin-{\kf80}proof
-Dialogue: 0,0:02:22.76,0:02:29.46,DEFAULT,,0,0,0,,{\kf43}This{\kf104} time{\kf43} I'll{\kf104} be{\kf25} muf{\kf141}fin-{\kf98}proof
-Dialogue: 0,0:02:45.93,0:02:49.59,DEFAULT,,0,0,0,,{\kf43}This{\kf37} time,{\kf43} po{\kf37}ny,{\kf37} I'll{\kf68} be{\kf49}~
-Dialogue: 0,0:02:50.01,0:02:53.31,DEFAULT,,0,0,0,,{\kf25}Muf{\kf147}fin-{\kf129}proof!
-Dialogue: 0,0:02:53.73,0:02:57.82,DEFAULT,,0,0,0,,{\kf31}This{\kf37} time,{\kf37} po{\kf37}ny,{\kf31} I'll{\kf68} be{\kf86}~
-Dialogue: 0,0:02:57.94,0:03:00.87,DEFAULT,,0,0,0,,{\kf19}Muf{\kf147}fin-{\kf104}proof
-Dialogue: 0,0:03:01.54,0:03:05.50,DEFAULT,,0,0,0,,{\kf19}This{\kf19}~{\kf55} time,{\kf25} po{\kf19}ny{\kf25}~,{\kf31} I'll{\kf80} be{\kf19}~{\kf31}~
-Dialogue: 0,0:03:05.75,0:03:09.16,DEFAULT,,0,0,0,,{\kf19}Muf{\kf153}fin-{\kf153}proof
-Dialogue: 0,0:03:09.22,0:03:13.43,DEFAULT,,0,0,0,,{\kf13}This{\kf25}~{\kf74} time{\kf19} po{\kf19}ny{\kf19}~,{\kf55} I'll{\kf80} be{\kf19}~{\kf43}~
-Dialogue: 0,0:03:13.49,0:03:16.60,DEFAULT,,0,0,0,,{\kf19}Muf{\kf141}fin{\kf116}proof!
+Dialogue: 0,0:00:15.93,0:00:17.52,DEFAULT,,0,0,0,,{\r}{\kf24}Ran{\kf24} there,{\kf24} played{\kf24} that,{\kf24} derped{\kf10} a{\kf29}round
+Dialogue: 0,0:00:17.64,0:00:19.47,DEFAULT,,0,0,0,,{\r}{\kf26}I'm{\kf10} hav{\kf17}ing{\kf35} fun,{\kf26} oh{\kf26} look,{\kf10} a{\kf33} clown!
+Dialogue: 0,0:00:19.59,0:00:22.15,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf10} won{\kf10}der{\kf26} if{\kf26} he'll{\kf26} let{\kf18} me{\kf10} tou{\kf26}ch{\kf26} his{\kf60} shoes
+Dialogue: 0,0:00:23.80,0:00:25.32,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf18} won't{\kf18} eat{\kf27} a{\kf18} brick{\kf10} a{\kf43}gain
+Dialogue: 0,0:00:25.45,0:00:27.27,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf27} taste{\kf10} was{\kf37} bad,{\kf18} a{\kf18} nas{\kf10}ty{\kf45} blend
+Dialogue: 0,0:00:27.34,0:00:29.96,DEFAULT,,0,0,0,,{\r}{\kf23}Aw{\kf23} jeez,{\kf15} I{\kf23} can't{\kf39} get{\kf15} this{\kf23} mail{\kf15} to{\kf23} fit{\kf63} in!
+Dialogue: 0,0:00:31.54,0:00:33.13,DEFAULT,,0,0,0,,{\r}{\kf24}Ea{\kf24}ting{\kf24} muf{\kf24}fins{\kf16} is{\kf16} so{\kf31} fun
+Dialogue: 0,0:00:33.31,0:00:35.14,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf17} love{\kf17} their{\kf26} taste!{\kf17} Yum{\kf26} yum{\kf10}my{\kf44} YUM!
+Dialogue: 0,0:00:35.20,0:00:37.82,DEFAULT,,0,0,0,,{\r}{\kf25}I'm{\kf17} pret{\kf17}ty{\kf17} sure{\kf10} they're{\kf42} all{\kf17} I'll{\kf17} e{\kf34}ver{\kf66} eat
+Dialogue: 0,0:00:39.29,0:00:40.81,DEFAULT,,0,0,0,,{\r}{\kf24}Flown{\kf24} there,{\kf24} ate{\kf24} that,{\kf32} derped{\kf10} a{\kf14}round
+Dialogue: 0,0:00:40.99,0:00:42.76,DEFAULT,,0,0,0,,{\r}{\kf27}I'm{\kf18} hav{\kf18}ing{\kf35} fun,{\kf27} I{\kf18} love{\kf18} this{\kf16} town!
+Dialogue: 0,0:00:42.82,0:00:45.63,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf16} won{\kf25}der{\kf33} if{\kf16} the{\kf25} moon{\kf16} is{\kf25} made{\kf33} of{\kf58} cheese
+Dialogue: 0,0:00:48.86,0:00:52.76,DEFAULT,,0,0,0,,{\r}{\kf42}This{\kf42} time,{\kf42} po{\kf42}ny,{\kf34} I'll{\kf93} be{\kf95}~
+Dialogue: 0,0:00:53.07,0:00:55.69,DEFAULT,,0,0,0,,{\r}{\kf20}Muf{\kf161}fin-{\kf81}proof!
+Dialogue: 0,0:00:56.66,0:01:00.57,DEFAULT,,0,0,0,,{\r}{\kf43}This{\kf43} time,{\kf43} po{\kf43}ny,{\kf35} I'll{\kf87} be{\kf96}~
+Dialogue: 0,0:01:00.75,0:01:03.62,DEFAULT,,0,0,0,,{\r}{\kf21}Muf{\kf168}fin-{\kf98}proof!
+Dialogue: 0,0:01:12.46,0:01:13.98,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf20} can't{\kf30} find{\kf20} my{\kf20} way{\kf20} a{\kf22}round
+Dialogue: 0,0:01:14.23,0:01:16.05,DEFAULT,,0,0,0,,{\r}{\kf19}My{\kf29} eyes{\kf19} are{\kf29} big{\kf29} and{\kf19} ve{\kf19}ry{\kf20} round
+Dialogue: 0,0:01:16.24,0:01:18.80,DEFAULT,,0,0,0,,{\r}{\kf10}I'm{\kf30} al{\kf10}ways{\kf39} loo{\kf20}kin{\kf20} at{\kf20} two{\kf20} things{\kf20} at{\kf67} once!
+Dialogue: 0,0:01:20.38,0:01:21.91,DEFAULT,,0,0,0,,{\r}{\kf19}Eat,{\kf19} eat,{\kf19} eat{\kf19} your{\kf19} tas{\kf10}ty{\kf47} treats
+Dialogue: 0,0:01:22.03,0:01:23.86,DEFAULT,,0,0,0,,{\r}{\kf17}Cup{\kf17} cakes{\kf17} are{\kf44} nice,{\kf17} but{\kf17} just{\kf17} too{\kf37} sweet
+Dialogue: 0,0:01:23.92,0:01:26.54,DEFAULT,,0,0,0,,{\r}{\kf31}I'd{\kf15} ra{\kf15}ther{\kf31} have{\kf23} a{\kf23} batch{\kf23} of{\kf23} warm{\kf23} muf{\kf55}fins
+Dialogue: 0,0:01:28.13,0:01:29.71,DEFAULT,,0,0,0,,{\r}{\kf21}Doo{\kf21} doo{\kf21} doo{\kf21} doo{\kf21} here{\kf11} I{\kf43} am
+Dialogue: 0,0:01:29.77,0:01:31.48,DEFAULT,,0,0,0,,{\r}{\kf30}a{\kf20} funk{\kf20}a{\kf20}de{\kf20}lic{\kf30} pe{\kf10}ga{\kf21}sus
+Dialogue: 0,0:01:31.66,0:01:34.29,DEFAULT,,0,0,0,,{\r}{\kf30}Oh{\kf20} po{\kf30}ny{\kf30} I{\kf20} think{\kf20} I{\kf20} lost{\kf20} my{\kf72} head
+Dialogue: 0,0:01:35.99,0:01:37.58,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf26} won't{\kf26} let{\kf18} you{\kf18} eat{\kf18} my{\kf18} fo{\kf17}od
+Dialogue: 0,0:01:37.64,0:01:39.47,DEFAULT,,0,0,0,,{\r}{\kf20}Es{\kf20}pe{\kf20}cial{\kf30}ly{\kf30} if{\kf20} you{\kf20} are{\kf23} rude
+Dialogue: 0,0:01:39.53,0:01:42.03,DEFAULT,,0,0,0,,{\r}{\kf53}5:{\kf23}4{\kf23}2{\kf30} A-{\kf23}M?{\kf15} It's{\kf23} time{\kf23} for{\kf37} bed
+Dialogue: 0,0:01:43.49,0:01:47.52,DEFAULT,,0,0,0,,{\r}{\kf44}This{\kf44} time,{\kf44} po{\kf44}ny,{\kf44} I'll{\kf88} be{\kf94}-
+Dialogue: 0,0:01:47.58,0:01:50.51,DEFAULT,,0,0,0,,{\r}{\kf30}Muf{\kf150}fin-{\kf113}proof!
+Dialogue: 0,0:01:51.24,0:01:55.26,DEFAULT,,0,0,0,,{\r}{\kf37}This{\kf47} time,{\kf37} po{\kf37}ny,{\kf28} I'll{\kf122} be{\kf94}-
+Dialogue: 0,0:01:55.51,0:01:58.31,DEFAULT,,0,0,0,,{\r}{\kf20}Muf{\kf169}fin-{\kf91}proof!
+Dialogue: 0,0:01:59.16,0:02:02.88,DEFAULT,,0,0,0,,{\r}{\kf16}This{\kf32}~{\kf47} time,{\kf24} po{\kf24}ny{\kf24}~,{\kf24} I'll{\kf24}~{\kf111} be{\kf24}~{\kf22}~
+Dialogue: 0,0:02:03.25,0:02:06.30,DEFAULT,,0,0,0,,{\r}{\kf19}Muf{\kf169}fin-{\kf117}proof!
+Dialogue: 0,0:02:06.91,0:02:10.87,DEFAULT,,0,0,0,,{\r}{\kf34}This{\kf41} time{\kf61} po{\kf34}ny{\kf14}~,{\kf20} I'll{\kf27}~{\kf102} be{\kf27}~{\kf36}~
+Dialogue: 0,0:02:11.05,0:02:13.98,DEFAULT,,0,0,0,,{\r}{\kf20}Muf{\kf163}fin-{\kf110}proof!
+Dialogue: 0,0:02:14.96,0:02:21.54,DEFAULT,,0,0,0,,{\r}{\kf41}This{\kf107} time{\kf49} I'll{\kf124} be{\kf41} muf{\kf189}fin-{\kf108}proof
+Dialogue: 0,0:02:22.76,0:02:29.47,DEFAULT,,0,0,0,,{\r}{\kf52}This{\kf125} time{\kf52} I'll{\kf125} be{\kf29} muf{\kf170}fin-{\kf118}proof
+Dialogue: 0,0:02:45.93,0:02:49.59,DEFAULT,,0,0,0,,{\r}{\kf50}This{\kf43} time,{\kf50} po{\kf43}ny,{\kf43} I'll{\kf79} be{\kf58}~
+Dialogue: 0,0:02:50.02,0:02:53.31,DEFAULT,,0,0,0,,{\r}{\kf27}Muf{\kf161}fin-{\kf141}proof!
+Dialogue: 0,0:02:53.74,0:02:57.82,DEFAULT,,0,0,0,,{\r}{\kf39}This{\kf46} time,{\kf46} po{\kf46}ny,{\kf39} I'll{\kf85} be{\kf108}~
+Dialogue: 0,0:02:57.95,0:03:00.87,DEFAULT,,0,0,0,,{\r}{\kf20}Muf{\kf160}fin-{\kf113}proof
+Dialogue: 0,0:03:01.54,0:03:05.51,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf23}~{\kf69} time,{\kf30} po{\kf23}ny{\kf30}~,{\kf38} I'll{\kf99} be{\kf23}~{\kf38}~
+Dialogue: 0,0:03:05.75,0:03:09.16,DEFAULT,,0,0,0,,{\r}{\kf19}Muf{\kf161}fin-{\kf161}proof
+Dialogue: 0,0:03:09.23,0:03:13.43,DEFAULT,,0,0,0,,{\r}{\kf14}This{\kf29}~{\kf86} time{\kf21} po{\kf21}ny{\kf21}~,{\kf64} I'll{\kf93} be{\kf21}~{\kf51}~
+Dialogue: 0,0:03:13.49,0:03:16.60,DEFAULT,,0,0,0,,{\r}{\kf21}Muf{\kf159}fin{\kf131}proof!

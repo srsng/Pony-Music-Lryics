@@ -1,115 +1,122 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Already Gone
+Artist: Freewave & Friends
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:11.51,0:00:13.63,DEFAULT,,0,0,0,,{\kf28}Not{\kf23} a{\kf28} Cle{\kf32}ver{\kf37} Po{\kf50}ny
-Dialogue: 0,0:00:13.82,0:00:16.08,DEFAULT,,0,0,0,,{\kf14}Yeah{\kf19} you{\kf41} were{\kf28} there{\kf23} from{\kf19} the{\kf41} start
-Dialogue: 0,0:00:16.76,0:00:19.44,DEFAULT,,0,0,0,,{\kf19}When{\kf14} I{\kf37} heard{\kf19} the{\kf32} Lu{\kf19}na{\kf37} E{\kf46}P
-Dialogue: 0,0:00:19.62,0:00:21.97,DEFAULT,,0,0,0,,{\kf19}It{\kf14} started{\kf14} a{\kf32} fire{\kf28} down{\kf23} in{\kf28} my{\kf50} heart
-Dialogue: 0,0:00:22.74,0:00:25.42,DEFAULT,,0,0,0,,{\kf19}Cause{\kf14} the{\kf28} pas{\kf50}sion{\kf19} and{\kf19} the{\kf55} feel{\kf41}ing
-Dialogue: 0,0:00:25.64,0:00:27.77,DEFAULT,,0,0,0,,{\kf14}All{\kf14} the{\kf23} beau{\kf28}ty{\kf28} and{\kf32} con{\kf50}trol
-Dialogue: 0,0:00:28.50,0:00:31.04,DEFAULT,,0,0,0,,{\kf19}Did{\kf14} the{\kf23} best{\kf19} of{\kf28} cap{\kf23}tur{\kf14}ing{\kf41} Lu{\kf37}na
-Dialogue: 0,0:00:31.26,0:00:33.62,DEFAULT,,0,0,0,,{\kf19}Like{\kf14} you'd{\kf41} gone{\kf32} cap{\kf19}tured{\kf28} her{\kf50} soul
-Dialogue: 0,0:00:34.12,0:00:36.66,DEFAULT,,0,0,0,,{\kf19}And{\kf14} then{\kf19} you're{\kf41} gone,{\kf32} you're{\kf55} gone
-Dialogue: 0,0:00:37.20,0:00:39.47,DEFAULT,,0,0,0,,{\kf32}You're{\kf73} al{\kf23}rea{\kf23}dy{\kf59} gone
-Dialogue: 0,0:00:40.15,0:00:42.55,DEFAULT,,0,0,0,,{\kf19}Cause{\kf14} you{\kf19} felt{\kf19} we{\kf23} would{\kf23} not{\kf19} be{\kf23} rea{\kf37}dy
-Dialogue: 0,0:00:42.86,0:00:45.22,DEFAULT,,0,0,0,,{\kf14}For{\kf19} the{\kf41} change{\kf14} you{\kf19} had{\kf37} planned{\kf41} on
-Dialogue: 0,0:00:45.90,0:00:48.30,DEFAULT,,0,0,0,,{\kf14}Cause{\kf14} you're{\kf46} gone,{\kf32} you're{\kf59} gone
-Dialogue: 0,0:00:48.76,0:00:50.98,DEFAULT,,0,0,0,,{\kf32}You're{\kf68} al{\kf37}rea{\kf23}dy{\kf55} gone
-Dialogue: 0,0:00:51.66,0:00:54.47,DEFAULT,,0,0,0,,{\kf19}And{\kf14} I{\kf23} know{\kf19} I{\kf32} can't{\kf32} for{\kf19}get{\kf28} you{\kf50} now
-Dialogue: 0,0:00:54.60,0:00:56.69,DEFAULT,,0,0,0,,{\kf28}That's{\kf23} why{\kf23} I{\kf28} wrote{\kf32} this{\kf46} song
-Dialogue: 0,0:00:57.91,0:00:59.77,DEFAULT,,0,0,0,,{\kf28}Pin{\kf23}kie{\kf41} Pie{\kf55} Swear
-Dialogue: 0,0:01:00.22,0:01:02.49,DEFAULT,,0,0,0,,{\kf14}You{\kf14} were{\kf14} a{\kf37} fa{\kf23}vorite{\kf19} from{\kf19} the{\kf50} start
-Dialogue: 0,0:01:03.03,0:01:05.89,DEFAULT,,0,0,0,,{\kf14}The{\kf14} way{\kf19} you{\kf23} chopped{\kf14} and{\kf23} diced{\kf28} those{\kf32} words{\kf28} my{\kf28} friend
-Dialogue: 0,0:01:06.02,0:01:08.24,DEFAULT,,0,0,0,,{\kf14}It{\kf19} went{\kf28} straight{\kf23} in{\kf19}to{\kf28} my{\kf41} heart
-Dialogue: 0,0:01:08.79,0:01:11.82,DEFAULT,,0,0,0,,{\kf14}And{\kf19} you{\kf32} thought{\kf23} it{\kf28} was{\kf28} so{\kf55} sil{\kf64}ly
-Dialogue: 0,0:01:12.05,0:01:14.04,DEFAULT,,0,0,0,,{\kf14}To{\kf23} fo{\kf19}cus{\kf19} sole{\kf14}ly{\kf14} on{\kf19} a{\kf50} show
-Dialogue: 0,0:01:14.68,0:01:17.26,DEFAULT,,0,0,0,,{\kf14}You{\kf14} want{\kf14} to{\kf23} keep{\kf23} on{\kf28} mak{\kf23}ing{\kf37} mu{\kf37}sic
-Dialogue: 0,0:01:17.58,0:01:19.89,DEFAULT,,0,0,0,,{\kf14}But{\kf14} the{\kf50} fan{\kf28}dom{\kf23} you{\kf28} let{\kf46} go
-Dialogue: 0,0:01:20.52,0:01:23.02,DEFAULT,,0,0,0,,{\kf14}And{\kf14} then{\kf14} you're{\kf46} gone,{\kf28} you're{\kf55} gone
-Dialogue: 0,0:01:23.51,0:01:25.87,DEFAULT,,0,0,0,,{\kf28}You're{\kf68} al{\kf32}rea{\kf28}dy{\kf64} gone
-Dialogue: 0,0:01:26.41,0:01:29.09,DEFAULT,,0,0,0,,{\kf14}Cause{\kf19} you{\kf23} felt{\kf23} like{\kf19} it{\kf32} would{\kf28} li{\kf32}mit{\kf37} you
-Dialogue: 0,0:01:29.27,0:01:31.44,DEFAULT,,0,0,0,,{\kf19}Like{\kf19} you{\kf41} had{\kf14} to{\kf23} run{\kf28} a{\kf50}long
-Dialogue: 0,0:01:32.08,0:01:34.57,DEFAULT,,0,0,0,,{\kf23}Cause{\kf19} you're{\kf41} gone,{\kf28} you're{\kf55} gone
-Dialogue: 0,0:01:35.07,0:01:37.20,DEFAULT,,0,0,0,,{\kf32}You're{\kf59} al{\kf28}rea{\kf19}dy{\kf55} gone
-Dialogue: 0,0:01:38.02,0:01:40.73,DEFAULT,,0,0,0,,{\kf14}And{\kf14} your{\kf37} mu{\kf19}sic{\kf19} it{\kf23} was{\kf37} ma{\kf37}gi{\kf41}cal
-Dialogue: 0,0:01:40.92,0:01:42.96,DEFAULT,,0,0,0,,{\kf28}That's{\kf28} why{\kf19} I{\kf23} wrote{\kf28} this{\kf41} song
-Dialogue: 0,0:01:44.86,0:01:46.58,DEFAULT,,0,0,0,,{\kf32}Oh{\kf28} oh{\kf105} oh
-Dialogue: 0,0:01:47.71,0:01:50.61,DEFAULT,,0,0,0,,{\kf32}Oh{\kf32} oh{\kf59} oh{\kf32} oh{\kf37} oh{\kf68} oh
-Dialogue: 0,0:01:56.41,0:01:58.14,DEFAULT,,0,0,0,,{\kf32}Oh{\kf32} oh{\kf100} oh
-Dialogue: 0,0:01:59.27,0:02:02.62,DEFAULT,,0,0,0,,{\kf32}Oh{\kf32} oh{\kf59} oh{\kf37} oh{\kf32} oh{\kf109} oh
-Dialogue: 0,0:02:13.00,0:02:15.09,DEFAULT,,0,0,0,,{\kf32}Ja{\kf23}ckle{\kf23}app{\kf19} I{\kf19} tried{\kf14} to{\kf23} reach{\kf28} you
-Dialogue: 0,0:02:15.54,0:02:17.67,DEFAULT,,0,0,0,,{\kf10}Yeah{\kf14} I{\kf37} tried{\kf23}~{\kf28} se{\kf23}veral{\kf55} times
-Dialogue: 0,0:02:18.62,0:02:21.25,DEFAULT,,0,0,0,,{\kf14}I{\kf50} went{\kf28} and{\kf32} re{\kf23}mixed{\kf32} your{\kf46} song
-Dialogue: 0,0:02:21.34,0:02:23.47,DEFAULT,,0,0,0,,{\kf23}But{\kf23} ne{\kf19}ver{\kf23} heard{\kf14} a{\kf23} re{\kf50}ply
-Dialogue: 0,0:02:24.19,0:02:26.78,DEFAULT,,0,0,0,,{\kf19}Whe{\kf19}ther{\kf37} you{\kf32} were{\kf19} too{\kf41} bu{\kf41}sy
-Dialogue: 0,0:02:27.00,0:02:29.31,DEFAULT,,0,0,0,,{\kf14}Or{\kf28} like{\kf23} Flut{\kf19}ter{\kf28} you{\kf23} were{\kf59} shy
-Dialogue: 0,0:02:30.13,0:02:32.71,DEFAULT,,0,0,0,,{\kf14}I{\kf19} ne{\kf14}ver{\kf28} see{\kf32} mu{\kf23}sic{\kf28} from{\kf23} ya{\kf41} now
-Dialogue: 0,0:02:32.89,0:02:35.02,DEFAULT,,0,0,0,,{\kf19}Just{\kf19} a{\kf19}no{\kf23}ther{\kf19} to{\kf19} say{\kf32} good{\kf41}bye
-Dialogue: 0,0:02:35.70,0:02:38.60,DEFAULT,,0,0,0,,{\kf10}It's{\kf14} like{\kf14} you're{\kf50} gone,{\kf32} you're{\kf68} gone{\kf32}~
-Dialogue: 0,0:02:38.74,0:02:40.96,DEFAULT,,0,0,0,,{\kf32}You're{\kf64} al{\kf28}rea{\kf19}dy{\kf64} gone
-Dialogue: 0,0:02:41.37,0:02:44.41,DEFAULT,,0,0,0,,{\kf19}I{\kf23} just{\kf28} want{\kf23}ed{\kf28} to{\kf23} hear{\kf23} back{\kf28} from{\kf50} ya
-Dialogue: 0,0:02:44.54,0:02:46.67,DEFAULT,,0,0,0,,{\kf19}Be{\kf28}cause{\kf28} I{\kf23} loved{\kf32} your{\kf59} songs
-Dialogue: 0,0:02:47.12,0:02:50.02,DEFAULT,,0,0,0,,{\kf19}It's{\kf14} like{\kf19} you're{\kf46} gone,{\kf32} you're{\kf59} gone{\kf28}~
-Dialogue: 0,0:02:50.21,0:02:52.43,DEFAULT,,0,0,0,,{\kf37}You're{\kf59} al{\kf23}rea{\kf28}dy{\kf50} gone
-Dialogue: 0,0:02:53.11,0:02:55.78,DEFAULT,,0,0,0,,{\kf14}And{\kf14} I{\kf19} want{\kf23} to{\kf32} say{\kf23} it{\kf23} hurt{\kf28} me{\kf32} deep
-Dialogue: 0,0:02:56.01,0:02:58.18,DEFAULT,,0,0,0,,{\kf32}That's{\kf23} why{\kf23} I{\kf28} wrote{\kf23} this{\kf55} song
-Dialogue: 0,0:02:59.09,0:03:01.54,DEFAULT,,0,0,0,,{\kf14}Mak{\kf19}kon{\kf23} I{\kf28} wish{\kf32} I{\kf32} knew{\kf23} you{\kf19} bet{\kf14}ter
-Dialogue: 0,0:03:01.72,0:03:03.67,DEFAULT,,0,0,0,,{\kf10}You{\kf10} were{\kf10} the{\kf32} i{\kf19}dol{\kf19} of{\kf19} us{\kf41} all
-Dialogue: 0,0:03:04.62,0:03:07.47,DEFAULT,,0,0,0,,{\kf14}You{\kf10} had{\kf10} the{\kf28} know{\kf19}ledge{\kf37} and{\kf32} ma{\kf37}tu{\kf32}ri{\kf41}ty
-Dialogue: 0,0:03:07.79,0:03:09.87,DEFAULT,,0,0,0,,{\kf14}To{\kf32} try{\kf23} to{\kf28} stop{\kf19} the{\kf55} squall
-Dialogue: 0,0:03:10.28,0:03:13.23,DEFAULT,,0,0,0,,{\kf14}And{\kf14} when{\kf19} I{\kf28} heard{\kf23} that{\kf23} you{\kf28} were{\kf46} leav{\kf59}ing
-Dialogue: 0,0:03:13.45,0:03:15.63,DEFAULT,,0,0,0,,{\kf28}It{\kf23} was{\kf23}n't{\kf23} a{\kf32} sur{\kf59}prise
-Dialogue: 0,0:03:16.22,0:03:18.98,DEFAULT,,0,0,0,,{\kf23}E{\kf19}very{\kf28} time{\kf23} peo{\kf32}ple{\kf28} were{\kf41} trol{\kf28}ling{\kf28} here
-Dialogue: 0,0:03:19.12,0:03:21.38,DEFAULT,,0,0,0,,{\kf10}I{\kf10} saw{\kf19} our{\kf28} in{\kf23}com{\kf28}ing{\kf23} de{\kf50}mise
-Dialogue: 0,0:03:21.93,0:03:24.47,DEFAULT,,0,0,0,,{\kf10}And{\kf14} now{\kf14} you're{\kf46} gone,{\kf28} you're{\kf64} gone
-Dialogue: 0,0:03:24.92,0:03:27.14,DEFAULT,,0,0,0,,{\kf28}You're{\kf64} al{\kf23}rea{\kf37}dy{\kf50} gone
-Dialogue: 0,0:03:27.77,0:03:30.45,DEFAULT,,0,0,0,,{\kf14}You{\kf10} were{\kf14} the{\kf32} wi{\kf28}sest{\kf23} of{\kf23} us{\kf23} all
-Dialogue: 0,0:03:30.63,0:03:32.85,DEFAULT,,0,0,0,,{\kf14}You{\kf14} just{\kf32} wan{\kf19}ted{\kf19} us{\kf19} to{\kf28} e{\kf41}volve
-Dialogue: 0,0:03:33.53,0:03:36.07,DEFAULT,,0,0,0,,{\kf14}I{\kf14} know{\kf14} you're{\kf50} gone,{\kf23} you're{\kf64} gone
-Dialogue: 0,0:03:36.61,0:03:38.83,DEFAULT,,0,0,0,,{\kf23}You're{\kf68} al{\kf28}rea{\kf23}dy{\kf59} gone
-Dialogue: 0,0:03:39.38,0:03:42.18,DEFAULT,,0,0,0,,{\kf19}And{\kf19} you've{\kf23} left{\kf19} a{\kf32} ve{\kf19}ry{\kf23} deep{\kf32} hole{\kf23} for{\kf32} us
-Dialogue: 0,0:03:42.32,0:03:44.45,DEFAULT,,0,0,0,,{\kf14}And{\kf14} that's{\kf28} why{\kf23} I{\kf28} wrote{\kf28} this{\kf46} song
-Dialogue: 0,0:03:46.22,0:03:48.17,DEFAULT,,0,0,0,,{\kf37}Oh{\kf41} oh{\kf109} oh
-Dialogue: 0,0:03:49.12,0:03:52.11,DEFAULT,,0,0,0,,{\kf37}Oh{\kf37} oh{\kf55} oh{\kf37} oh{\kf32} oh{\kf78} oh
-Dialogue: 0,0:03:57.82,0:03:59.45,DEFAULT,,0,0,0,,{\kf37}Oh{\kf32} oh{\kf87} oh
-Dialogue: 0,0:04:00.76,0:04:02.80,DEFAULT,,0,0,0,,{\kf28}Oh{\kf28} oh{\kf64} oh{\kf32} oh{\kf28} oh
-Dialogue: 0,0:04:02.94,0:04:04.53,DEFAULT,,0,0,0,,{\kf28}In{\kf19} the{\kf23} end{\kf23} I{\kf46} know
-Dialogue: 0,0:04:05.16,0:04:07.43,DEFAULT,,0,0,0,,{\kf14}I{\kf14} was{\kf14} a{\kf28} fan{\kf23} and{\kf28} not{\kf23} a{\kf46} friend
-Dialogue: 0,0:04:08.51,0:04:11.10,DEFAULT,,0,0,0,,{\kf14}I{\kf23} hope{\kf23} that{\kf28} you{\kf19} can{\kf28} hear{\kf28} my{\kf41} words
-Dialogue: 0,0:04:11.51,0:04:13.23,DEFAULT,,0,0,0,,{\kf32}Try{\kf19} to{\kf32} com{\kf37}pre{\kf46}hend
-Dialogue: 0,0:04:14.09,0:04:16.44,DEFAULT,,0,0,0,,{\kf19}E{\kf19}ven{\kf28} if{\kf50} the{\kf46} feel{\kf37}ings
-Dialogue: 0,0:04:16.94,0:04:19.03,DEFAULT,,0,0,0,,{\kf23}Were{\kf14}n't{\kf28} al{\kf23}ways{\kf32} warm{\kf28} and{\kf46} nice
-Dialogue: 0,0:04:20.07,0:04:22.65,DEFAULT,,0,0,0,,{\kf14}I'd{\kf23} ra{\kf28}ther{\kf23} have{\kf28} you{\kf32} here{\kf28} ya{\kf46} know
-Dialogue: 0,0:04:22.74,0:04:24.92,DEFAULT,,0,0,0,,{\kf23}Than{\kf23} say{\kf19}ing{\kf23} all{\kf23} your{\kf23} good{\kf50}byes
-Dialogue: 0,0:04:26.01,0:04:28.41,DEFAULT,,0,0,0,,{\kf32}H8_{\kf59}Seed{\kf19} you{\kf23} won't{\kf14} be{\kf14} the{\kf37} last
-Dialogue: 0,0:04:28.68,0:04:30.72,DEFAULT,,0,0,0,,{\kf23}To{\kf23} say{\kf23} good{\kf23}bye{\kf10} to{\kf23} us{\kf50} all
-Dialogue: 0,0:04:31.58,0:04:33.98,DEFAULT,,0,0,0,,{\kf10}You{\kf19} de{\kf23}le{\kf19}ted{\kf37} all{\kf23} your{\kf37} mu{\kf41}sic
-Dialogue: 0,0:04:34.12,0:04:36.61,DEFAULT,,0,0,0,,{\kf19}Like{\kf14} it{\kf19} was{\kf19} ne{\kf23}ver{\kf32} there{\kf28} at{\kf59} all
-Dialogue: 0,0:04:37.11,0:04:40.05,DEFAULT,,0,0,0,,{\kf14}I{\kf14} know{\kf19} I{\kf28} felt{\kf28} bad{\kf37} things{\kf23} a{\kf32}bout{\kf68} ya
-Dialogue: 0,0:04:40.19,0:04:42.09,DEFAULT,,0,0,0,,{\kf14}Like{\kf14} ya{\kf19} did{\kf19}n't{\kf28} care{\kf28} that{\kf37} much
-Dialogue: 0,0:04:42.82,0:04:45.63,DEFAULT,,0,0,0,,{\kf19}A{\kf14}bout{\kf14} the{\kf32} rest{\kf23} of{\kf28} the{\kf50} fan{\kf46}dom
-Dialogue: 0,0:04:45.81,0:04:47.94,DEFAULT,,0,0,0,,{\kf23}Like{\kf14} we{\kf28} were{\kf23} just{\kf19} a{\kf23} big{\kf37} crutch
-Dialogue: 0,0:04:48.98,0:04:51.11,DEFAULT,,0,0,0,,{\kf19}So{\kf19} ma{\kf23}ny{\kf28} just{\kf32} like{\kf37} Ar{\kf19}chie
-Dialogue: 0,0:04:51.29,0:04:53.88,DEFAULT,,0,0,0,,{\kf50}Use{\kf14} this{\kf28} fan{\kf23}dom{\kf28} as{\kf28} a{\kf50} stop
-Dialogue: 0,0:04:54.60,0:04:57.09,DEFAULT,,0,0,0,,{\kf14}On{\kf14} the{\kf28} train{\kf19} that{\kf23} you{\kf23} are{\kf46} ri{\kf46}ding
-Dialogue: 0,0:04:57.28,0:04:59.54,DEFAULT,,0,0,0,,{\kf19}For{\kf10} a{\kf19} ca{\kf32}reer{\kf23} up{\kf19} to{\kf19} the{\kf41} top
-Dialogue: 0,0:05:00.58,0:05:03.12,DEFAULT,,0,0,0,,{\kf14}So{\kf19} ma{\kf23}ny{\kf50} leave{\kf23} and{\kf19} turn{\kf28} their{\kf37} backs
-Dialogue: 0,0:05:03.44,0:05:05.57,DEFAULT,,0,0,0,,{\kf19}With{\kf23}out{\kf19} a{\kf32} scarce{\kf32} good{\kf64}bye
-Dialogue: 0,0:05:06.11,0:05:08.88,DEFAULT,,0,0,0,,{\kf14}But{\kf14} a{\kf14}ny{\kf28} an{\kf19}ger's{\kf32} turned{\kf14} to{\kf46} sad{\kf59}ness
-Dialogue: 0,0:05:09.01,0:05:11.19,DEFAULT,,0,0,0,,{\kf19}And{\kf14} it{\kf14} makes{\kf23} me{\kf28} want{\kf23} to{\kf55} cry
-Dialogue: 0,0:05:11.82,0:05:14.81,DEFAULT,,0,0,0,,{\kf19}Be{\kf14}cause{\kf14} they're{\kf32} gone,{\kf28} they're{\kf64} gone{\kf46}~
-Dialogue: 0,0:05:14.99,0:05:17.44,DEFAULT,,0,0,0,,{\kf19}They're{\kf64} al{\kf28}rea{\kf23}dy{\kf37} gone{\kf28}~{\kf37}~
-Dialogue: 0,0:05:17.58,0:05:20.30,DEFAULT,,0,0,0,,{\kf19}And{\kf19} if{\kf46} friend{\kf37}ship{\kf28} is{\kf32} ma{\kf37}gi{\kf28}cal
-Dialogue: 0,0:05:20.43,0:05:22.74,DEFAULT,,0,0,0,,{\kf19}Then{\kf14} I{\kf37} hope{\kf23} that{\kf19} it{\kf28} lives{\kf55} on
-Dialogue: 0,0:05:23.33,0:05:26.19,DEFAULT,,0,0,0,,{\kf19}Be{\kf14}cause{\kf19} they're{\kf37} gone,{\kf28} they're{\kf64} gone{\kf37}~
-Dialogue: 0,0:05:26.37,0:05:28.45,DEFAULT,,0,0,0,,{\kf23}They're{\kf68} al{\kf28}rea{\kf23}dy{\kf46} gone
-Dialogue: 0,0:05:29.22,0:05:31.85,DEFAULT,,0,0,0,,{\kf19}And{\kf19} your{\kf46} mu{\kf37}sic{\kf23} it{\kf28} touched{\kf23} us{\kf32} deep
-Dialogue: 0,0:05:31.99,0:05:34.39,DEFAULT,,0,0,0,,{\kf14}And{\kf19} that's{\kf32} why{\kf19} I{\kf37} wrote{\kf23} this{\kf46} song
+Dialogue: 0,0:00:11.51,0:00:13.64,DEFAULT,,0,0,0,,{\r}{\kf30}Not{\kf25} a{\kf30} Cle{\kf35}ver{\kf40} Po{\kf53}ny
+Dialogue: 0,0:00:13.82,0:00:16.09,DEFAULT,,0,0,0,,{\r}{\kf17}Yeah{\kf23} you{\kf51} were{\kf34} there{\kf28} from{\kf23} the{\kf51} start
+Dialogue: 0,0:00:16.77,0:00:19.44,DEFAULT,,0,0,0,,{\r}{\kf22}When{\kf17} I{\kf44} heard{\kf22} the{\kf39} Lu{\kf22}na{\kf44} E{\kf57}P
+Dialogue: 0,0:00:19.62,0:00:21.98,DEFAULT,,0,0,0,,{\r}{\kf21}It{\kf16} started{\kf16} a{\kf37} fire{\kf31} down{\kf26} in{\kf31} my{\kf58} heart
+Dialogue: 0,0:00:22.75,0:00:25.42,DEFAULT,,0,0,0,,{\r}{\kf20}Cause{\kf15} the{\kf30} pas{\kf55}sion{\kf20} and{\kf20} the{\kf60} feel{\kf47}ing
+Dialogue: 0,0:00:25.65,0:00:27.78,DEFAULT,,0,0,0,,{\r}{\kf16}All{\kf16} the{\kf26} beau{\kf31}ty{\kf31} and{\kf36} con{\kf57}trol
+Dialogue: 0,0:00:28.50,0:00:31.04,DEFAULT,,0,0,0,,{\r}{\kf22}Did{\kf16} the{\kf27} best{\kf22} of{\kf32} cap{\kf27}tur{\kf16}ing{\kf49} Lu{\kf43}na
+Dialogue: 0,0:00:31.27,0:00:33.62,DEFAULT,,0,0,0,,{\r}{\kf21}Like{\kf16} you'd{\kf48} gone{\kf38} cap{\kf21}tured{\kf32} her{\kf60} soul
+Dialogue: 0,0:00:34.12,0:00:36.66,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf20} then{\kf26} you're{\kf59} gone,{\kf46} you're{\kf77} gone
+Dialogue: 0,0:00:37.20,0:00:39.47,DEFAULT,,0,0,0,,{\r}{\kf35}You're{\kf79} al{\kf25}rea{\kf25}dy{\kf63} gone
+Dialogue: 0,0:00:40.15,0:00:42.55,DEFAULT,,0,0,0,,{\r}{\kf23}Cause{\kf17} you{\kf23} felt{\kf23} we{\kf29} would{\kf29} not{\kf23} be{\kf29} rea{\kf44}dy
+Dialogue: 0,0:00:42.87,0:00:45.23,DEFAULT,,0,0,0,,{\r}{\kf18}For{\kf24} the{\kf53} change{\kf18} you{\kf24} had{\kf47} planned{\kf52} on
+Dialogue: 0,0:00:45.91,0:00:48.31,DEFAULT,,0,0,0,,{\r}{\kf20}Cause{\kf20} you're{\kf67} gone,{\kf47} you're{\kf86} gone
+Dialogue: 0,0:00:48.76,0:00:50.98,DEFAULT,,0,0,0,,{\r}{\kf33}You're{\kf71} al{\kf38}rea{\kf24}dy{\kf56} gone
+Dialogue: 0,0:00:51.66,0:00:54.47,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf17} I{\kf28} know{\kf22} I{\kf39} can't{\kf39} for{\kf22}get{\kf33} you{\kf59} now
+Dialogue: 0,0:00:54.61,0:00:56.69,DEFAULT,,0,0,0,,{\r}{\kf32}That's{\kf27} why{\kf27} I{\kf32} wrote{\kf37} this{\kf53} song
+Dialogue: 0,0:00:57.91,0:00:59.77,DEFAULT,,0,0,0,,{\r}{\kf35}Pin{\kf29}kie{\kf52} Pie{\kf70} Swear
+Dialogue: 0,0:01:00.23,0:01:02.49,DEFAULT,,0,0,0,,{\r}{\kf17}You{\kf17} were{\kf17} a{\kf44} fa{\kf28}vorite{\kf22} from{\kf22} the{\kf60} start
+Dialogue: 0,0:01:03.04,0:01:05.89,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf18} way{\kf24} you{\kf30} chopped{\kf18} and{\kf30} diced{\kf36} those{\kf42} words{\kf36} my{\kf33} friend
+Dialogue: 0,0:01:06.03,0:01:08.25,DEFAULT,,0,0,0,,{\r}{\kf18}It{\kf24} went{\kf36} straight{\kf30} in{\kf24}to{\kf36} my{\kf54} heart
+Dialogue: 0,0:01:08.79,0:01:11.83,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf21} you{\kf37} thought{\kf27} it{\kf32} was{\kf32} so{\kf64} sil{\kf75}ly
+Dialogue: 0,0:01:12.05,0:01:14.05,DEFAULT,,0,0,0,,{\r}{\kf16}To{\kf27} fo{\kf22}cus{\kf22} sole{\kf16}ly{\kf16} on{\kf22} a{\kf58} show
+Dialogue: 0,0:01:14.68,0:01:17.27,DEFAULT,,0,0,0,,{\r}{\kf17}You{\kf17} want{\kf17} to{\kf28} keep{\kf28} on{\kf34} mak{\kf28}ing{\kf45} mu{\kf44}sic
+Dialogue: 0,0:01:17.58,0:01:19.89,DEFAULT,,0,0,0,,{\r}{\kf16}But{\kf16} the{\kf58} fan{\kf31}dom{\kf26} you{\kf31} let{\kf53} go
+Dialogue: 0,0:01:20.53,0:01:23.02,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} then{\kf20} you're{\kf67} gone,{\kf40} you're{\kf82} gone
+Dialogue: 0,0:01:23.52,0:01:25.88,DEFAULT,,0,0,0,,{\r}{\kf30}You're{\kf74} al{\kf34}rea{\kf30}dy{\kf68} gone
+Dialogue: 0,0:01:26.42,0:01:29.09,DEFAULT,,0,0,0,,{\r}{\kf16}Cause{\kf22} you{\kf27} felt{\kf27} like{\kf22} it{\kf38} would{\kf33} li{\kf38}mit{\kf44} you
+Dialogue: 0,0:01:29.27,0:01:31.45,DEFAULT,,0,0,0,,{\r}{\kf21}Like{\kf21} you{\kf47} had{\kf16} to{\kf26} run{\kf31} a{\kf56}long
+Dialogue: 0,0:01:32.08,0:01:34.58,DEFAULT,,0,0,0,,{\r}{\kf35}Cause{\kf28} you're{\kf62} gone,{\kf42} you're{\kf82} gone
+Dialogue: 0,0:01:35.07,0:01:37.20,DEFAULT,,0,0,0,,{\r}{\kf36}You're{\kf66} al{\kf30}rea{\kf20}dy{\kf61} gone
+Dialogue: 0,0:01:38.02,0:01:40.74,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf16} your{\kf42} mu{\kf21}sic{\kf21} it{\kf26} was{\kf42} ma{\kf42}gi{\kf46}cal
+Dialogue: 0,0:01:40.92,0:01:42.96,DEFAULT,,0,0,0,,{\r}{\kf34}That's{\kf34} why{\kf23} I{\kf28} wrote{\kf34} this{\kf51} song
+Dialogue: 0,0:01:44.86,0:01:46.59,DEFAULT,,0,0,0,,{\r}{\kf33}Oh{\kf29} oh{\kf110} oh
+Dialogue: 0,0:01:47.72,0:01:50.62,DEFAULT,,0,0,0,,{\r}{\kf36}Oh{\kf36} oh{\kf66} oh{\kf36} oh{\kf41} oh{\kf75} oh
+Dialogue: 0,0:01:56.42,0:01:58.14,DEFAULT,,0,0,0,,{\r}{\kf33}Oh{\kf33} oh{\kf106} oh
+Dialogue: 0,0:01:59.27,0:02:02.63,DEFAULT,,0,0,0,,{\r}{\kf36}Oh{\kf36} oh{\kf66} oh{\kf41} oh{\kf36} oh{\kf120} oh
+Dialogue: 0,0:02:13.01,0:02:15.09,DEFAULT,,0,0,0,,{\r}{\kf37}Ja{\kf27}ckle{\kf27}app{\kf21} I{\kf21} tried{\kf16} to{\kf27} reach{\kf32} you
+Dialogue: 0,0:02:15.54,0:02:17.67,DEFAULT,,0,0,0,,{\r}{\kf10}Yeah{\kf16} I{\kf42} tried{\kf26}~{\kf31} se{\kf26}veral{\kf62} times
+Dialogue: 0,0:02:18.62,0:02:21.25,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf59} went{\kf32} and{\kf38} re{\kf27}mixed{\kf38} your{\kf53} song
+Dialogue: 0,0:02:21.34,0:02:23.47,DEFAULT,,0,0,0,,{\r}{\kf28}But{\kf28} ne{\kf22}ver{\kf28} heard{\kf17} a{\kf28} re{\kf62}ply
+Dialogue: 0,0:02:24.20,0:02:26.78,DEFAULT,,0,0,0,,{\r}{\kf23}Whe{\kf23}ther{\kf46} you{\kf40} were{\kf23} too{\kf52} bu{\kf51}sy
+Dialogue: 0,0:02:27.01,0:02:29.32,DEFAULT,,0,0,0,,{\r}{\kf17}Or{\kf33} like{\kf28} Flut{\kf22}ter{\kf33} you{\kf28} were{\kf70} shy
+Dialogue: 0,0:02:30.14,0:02:32.72,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf22} ne{\kf16}ver{\kf32} see{\kf38} mu{\kf27}sic{\kf32} from{\kf27} ya{\kf48} now
+Dialogue: 0,0:02:32.90,0:02:35.03,DEFAULT,,0,0,0,,{\r}{\kf21}Just{\kf21} a{\kf21}no{\kf26}ther{\kf21} to{\kf21} say{\kf36} good{\kf46}bye
+Dialogue: 0,0:02:35.71,0:02:38.61,DEFAULT,,0,0,0,,{\r}{\kf12}It's{\kf18} like{\kf18} you're{\kf66} gone,{\kf42} you're{\kf91} gone{\kf43}~
+Dialogue: 0,0:02:38.75,0:02:40.97,DEFAULT,,0,0,0,,{\r}{\kf35}You're{\kf69} al{\kf30}rea{\kf20}dy{\kf68} gone
+Dialogue: 0,0:02:41.37,0:02:44.41,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf29} just{\kf34} want{\kf29}ed{\kf34} to{\kf29} hear{\kf29} back{\kf34} from{\kf63} ya
+Dialogue: 0,0:02:44.55,0:02:46.68,DEFAULT,,0,0,0,,{\r}{\kf21}Be{\kf31}cause{\kf31} I{\kf26} loved{\kf36} your{\kf68} songs
+Dialogue: 0,0:02:47.13,0:02:50.03,DEFAULT,,0,0,0,,{\r}{\kf25}It's{\kf19} like{\kf25} you're{\kf62} gone,{\kf43} you're{\kf80} gone{\kf36}~
+Dialogue: 0,0:02:50.21,0:02:52.43,DEFAULT,,0,0,0,,{\r}{\kf41}You're{\kf67} al{\kf26}rea{\kf31}dy{\kf57} gone
+Dialogue: 0,0:02:53.11,0:02:55.78,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf18} I{\kf24} want{\kf30} to{\kf42} say{\kf30} it{\kf30} hurt{\kf36} me{\kf39} deep
+Dialogue: 0,0:02:56.01,0:02:58.19,DEFAULT,,0,0,0,,{\r}{\kf38}That's{\kf27} why{\kf27} I{\kf33} wrote{\kf27} this{\kf66} song
+Dialogue: 0,0:02:59.09,0:03:01.54,DEFAULT,,0,0,0,,{\r}{\kf17}Mak{\kf22}kon{\kf28} I{\kf33} wish{\kf39} I{\kf39} knew{\kf28} you{\kf22} bet{\kf17}ter
+Dialogue: 0,0:03:01.72,0:03:03.67,DEFAULT,,0,0,0,,{\r}{\kf11}You{\kf11} were{\kf11} the{\kf40} i{\kf23}dol{\kf23} of{\kf23} us{\kf53} all
+Dialogue: 0,0:03:04.62,0:03:07.48,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf10} had{\kf10} the{\kf31} know{\kf20}ledge{\kf41} and{\kf36} ma{\kf41}tu{\kf36}ri{\kf45}ty
+Dialogue: 0,0:03:07.79,0:03:09.88,DEFAULT,,0,0,0,,{\r}{\kf17}To{\kf39} try{\kf28} to{\kf34} stop{\kf22} the{\kf68} squall
+Dialogue: 0,0:03:10.29,0:03:13.23,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf16} when{\kf21} I{\kf32} heard{\kf27} that{\kf27} you{\kf32} were{\kf54} leav{\kf70}ing
+Dialogue: 0,0:03:13.46,0:03:15.63,DEFAULT,,0,0,0,,{\r}{\kf32}It{\kf27} was{\kf27}n't{\kf27} a{\kf37} sur{\kf68}prise
+Dialogue: 0,0:03:16.22,0:03:18.99,DEFAULT,,0,0,0,,{\r}{\kf26}E{\kf20}very{\kf31} time{\kf26} peo{\kf36}ple{\kf31} were{\kf46} trol{\kf31}ling{\kf29} here
+Dialogue: 0,0:03:19.12,0:03:21.39,DEFAULT,,0,0,0,,{\r}{\kf11}I{\kf11} saw{\kf22} our{\kf33} in{\kf28}com{\kf33}ing{\kf28} de{\kf61}mise
+Dialogue: 0,0:03:21.93,0:03:24.47,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf20} now{\kf20} you're{\kf67} gone,{\kf40} you're{\kf94} gone
+Dialogue: 0,0:03:24.92,0:03:27.14,DEFAULT,,0,0,0,,{\r}{\kf30}You're{\kf71} al{\kf25}rea{\kf40}dy{\kf56} gone
+Dialogue: 0,0:03:27.78,0:03:30.45,DEFAULT,,0,0,0,,{\r}{\kf22}You{\kf15} were{\kf22} the{\kf52} wi{\kf45}sest{\kf37} of{\kf37} us{\kf37} all
+Dialogue: 0,0:03:30.63,0:03:32.85,DEFAULT,,0,0,0,,{\r}{\kf17}You{\kf17} just{\kf39} wan{\kf22}ted{\kf22} us{\kf22} to{\kf33} e{\kf50}volve
+Dialogue: 0,0:03:33.53,0:03:36.07,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf20} know{\kf20} you're{\kf72} gone,{\kf33} you're{\kf89} gone
+Dialogue: 0,0:03:36.62,0:03:38.84,DEFAULT,,0,0,0,,{\r}{\kf25}You're{\kf76} al{\kf30}rea{\kf25}dy{\kf66} gone
+Dialogue: 0,0:03:39.38,0:03:42.19,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} you've{\kf27} left{\kf22} a{\kf38} ve{\kf22}ry{\kf27} deep{\kf38} hole{\kf27} for{\kf36} us
+Dialogue: 0,0:03:42.33,0:03:44.46,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf16} that's{\kf33} why{\kf27} I{\kf33} wrote{\kf33} this{\kf55} song
+Dialogue: 0,0:03:46.22,0:03:48.17,DEFAULT,,0,0,0,,{\r}{\kf38}Oh{\kf43} oh{\kf114} oh
+Dialogue: 0,0:03:49.12,0:03:52.11,DEFAULT,,0,0,0,,{\r}{\kf40}Oh{\kf40} oh{\kf60} oh{\kf40} oh{\kf35} oh{\kf84} oh
+Dialogue: 0,0:03:57.82,0:03:59.46,DEFAULT,,0,0,0,,{\r}{\kf38}Oh{\kf34} oh{\kf91} oh
+Dialogue: 0,0:04:00.77,0:04:02.81,DEFAULT,,0,0,0,,{\r}{\kf31}Oh{\kf31} oh{\kf73} oh{\kf37} oh{\kf32} oh
+Dialogue: 0,0:04:02.95,0:04:04.53,DEFAULT,,0,0,0,,{\r}{\kf32}In{\kf21} the{\kf26} end{\kf26} I{\kf54} know
+Dialogue: 0,0:04:05.17,0:04:07.43,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf17} was{\kf17} a{\kf33} fan{\kf28} and{\kf33} not{\kf28} a{\kf54} friend
+Dialogue: 0,0:04:08.52,0:04:11.10,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf29} hope{\kf29} that{\kf35} you{\kf23} can{\kf35} hear{\kf35} my{\kf54} words
+Dialogue: 0,0:04:11.51,0:04:13.23,DEFAULT,,0,0,0,,{\r}{\kf33}Try{\kf19} to{\kf33} com{\kf38}pre{\kf49}hend
+Dialogue: 0,0:04:14.09,0:04:16.45,DEFAULT,,0,0,0,,{\r}{\kf22}E{\kf22}ven{\kf33} if{\kf60} the{\kf55} feel{\kf44}ings
+Dialogue: 0,0:04:16.95,0:04:19.03,DEFAULT,,0,0,0,,{\r}{\kf25}Were{\kf15}n't{\kf30} al{\kf25}ways{\kf35} warm{\kf30} and{\kf48} nice
+Dialogue: 0,0:04:20.07,0:04:22.66,DEFAULT,,0,0,0,,{\r}{\kf16}I'd{\kf27} ra{\kf32}ther{\kf27} have{\kf32} you{\kf38} here{\kf32} ya{\kf54} know
+Dialogue: 0,0:04:22.75,0:04:24.92,DEFAULT,,0,0,0,,{\r}{\kf27}Than{\kf27} say{\kf22}ing{\kf27} all{\kf27} your{\kf27} good{\kf61}byes
+Dialogue: 0,0:04:26.01,0:04:28.41,DEFAULT,,0,0,0,,{\r}{\kf39}H8_{\kf73}Seed{\kf22} you{\kf28} won't{\kf17} be{\kf17} the{\kf44} last
+Dialogue: 0,0:04:28.69,0:04:30.72,DEFAULT,,0,0,0,,{\r}{\kf27}To{\kf27} say{\kf27} good{\kf27}bye{\kf11} to{\kf27} us{\kf58} all
+Dialogue: 0,0:04:31.59,0:04:33.99,DEFAULT,,0,0,0,,{\r}{\kf11}You{\kf21} de{\kf27}le{\kf21}ted{\kf43} all{\kf27} your{\kf43} mu{\kf47}sic
+Dialogue: 0,0:04:34.12,0:04:36.62,DEFAULT,,0,0,0,,{\r}{\kf22}Like{\kf16} it{\kf22} was{\kf22} ne{\kf27}ver{\kf38} there{\kf32} at{\kf70} all
+Dialogue: 0,0:04:37.11,0:04:40.06,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} know{\kf21} I{\kf31} felt{\kf31} bad{\kf41} things{\kf26} a{\kf36}bout{\kf77} ya
+Dialogue: 0,0:04:40.20,0:04:42.10,DEFAULT,,0,0,0,,{\r}{\kf17}Like{\kf17} ya{\kf22} did{\kf22}n't{\kf34} care{\kf34} that{\kf44} much
+Dialogue: 0,0:04:42.82,0:04:45.63,DEFAULT,,0,0,0,,{\r}{\kf23}A{\kf17}bout{\kf17} the{\kf40} rest{\kf29} of{\kf34} the{\kf63} fan{\kf58}dom
+Dialogue: 0,0:04:45.82,0:04:47.95,DEFAULT,,0,0,0,,{\r}{\kf30}Like{\kf18} we{\kf36} were{\kf30} just{\kf24} a{\kf30} big{\kf45} crutch
+Dialogue: 0,0:04:48.99,0:04:51.12,DEFAULT,,0,0,0,,{\r}{\kf22}So{\kf22} ma{\kf28}ny{\kf34} just{\kf39} like{\kf45} Ar{\kf23}chie
+Dialogue: 0,0:04:51.30,0:04:53.88,DEFAULT,,0,0,0,,{\r}{\kf59}Use{\kf16} this{\kf32} fan{\kf27}dom{\kf32} as{\kf32} a{\kf60} stop
+Dialogue: 0,0:04:54.61,0:04:57.10,DEFAULT,,0,0,0,,{\r}{\kf16}On{\kf16} the{\kf32} train{\kf22} that{\kf27} you{\kf27} are{\kf54} ri{\kf55}ding
+Dialogue: 0,0:04:57.28,0:04:59.55,DEFAULT,,0,0,0,,{\r}{\kf23}For{\kf12} a{\kf23} ca{\kf41}reer{\kf29} up{\kf23} to{\kf23} the{\kf53} top
+Dialogue: 0,0:05:00.59,0:05:03.13,DEFAULT,,0,0,0,,{\r}{\kf17}So{\kf22} ma{\kf28}ny{\kf61} leave{\kf28} and{\kf22} turn{\kf33} their{\kf43} backs
+Dialogue: 0,0:05:03.44,0:05:05.57,DEFAULT,,0,0,0,,{\r}{\kf21}With{\kf26}out{\kf21} a{\kf36} scarce{\kf36} good{\kf73}bye
+Dialogue: 0,0:05:06.12,0:05:08.88,DEFAULT,,0,0,0,,{\r}{\kf16}But{\kf16} a{\kf16}ny{\kf32} an{\kf21}ger's{\kf37} turned{\kf16} to{\kf53} sad{\kf69}ness
+Dialogue: 0,0:05:09.02,0:05:11.19,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf17} it{\kf17} makes{\kf29} me{\kf34} want{\kf29} to{\kf69} cry
+Dialogue: 0,0:05:11.83,0:05:14.82,DEFAULT,,0,0,0,,{\r}{\kf25}Be{\kf19}cause{\kf19} they're{\kf45} gone,{\kf38} they're{\kf89} gone{\kf64}~
+Dialogue: 0,0:05:15.00,0:05:17.45,DEFAULT,,0,0,0,,{\r}{\kf19}They're{\kf67} al{\kf29}rea{\kf24}dy{\kf38} gone{\kf29}~{\kf39}~
+Dialogue: 0,0:05:17.58,0:05:20.30,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} if{\kf51} friend{\kf41}ship{\kf31} is{\kf36} ma{\kf41}gi{\kf30}cal
+Dialogue: 0,0:05:20.44,0:05:22.75,DEFAULT,,0,0,0,,{\r}{\kf22}Then{\kf17} I{\kf44} hope{\kf28} that{\kf22} it{\kf33} lives{\kf65} on
+Dialogue: 0,0:05:23.34,0:05:26.19,DEFAULT,,0,0,0,,{\r}{\kf24}Be{\kf18}cause{\kf24} they're{\kf49} gone,{\kf36} they're{\kf85} gone{\kf49}~
+Dialogue: 0,0:05:26.37,0:05:28.46,DEFAULT,,0,0,0,,{\r}{\kf25}They're{\kf76} al{\kf30}rea{\kf25}dy{\kf52} gone
+Dialogue: 0,0:05:29.23,0:05:31.86,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} your{\kf54} mu{\kf43}sic{\kf27} it{\kf32} touched{\kf27} us{\kf38} deep
+Dialogue: 0,0:05:31.99,0:05:34.40,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf23} that's{\kf41} why{\kf23} I{\kf47} wrote{\kf29} this{\kf59} song

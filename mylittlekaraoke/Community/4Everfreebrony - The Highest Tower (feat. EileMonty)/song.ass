@@ -1,61 +1,68 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: The Highest Tower (feat. EileMonty)
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by barbeque
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:15.08,0:00:16.60,DEFAULT,,0,0,0,,{\kf16}Po{\kf20}nies{\kf12} are{\kf39} walk{\kf35}ing
-Dialogue: 0,0:00:16.87,0:00:21.42,DEFAULT,,0,0,0,,{\kf20}Out{\kf12} in{\kf16} the{\kf62} dark{\kf16} of{\kf287} night
-Dialogue: 0,0:00:22.38,0:00:23.94,DEFAULT,,0,0,0,,{\kf16}They{\kf20} have{\kf12} me{\kf46} wond{\kf27}'ring
-Dialogue: 0,0:00:24.29,0:00:28.07,DEFAULT,,0,0,0,,{\kf16}If{\kf16} I{\kf12} am{\kf58} see{\kf20}ing{\kf218} right
-Dialogue: 0,0:00:29.52,0:00:35.14,DEFAULT,,0,0,0,,{\kf16}I{\kf16} kno{\kf20}-ow{\kf31} it's{\kf35} not{\kf27} ex{\kf27}act{\kf23}ly{\kf16}~{\kf16} a{\kf16}-as{\kf20} be{\kf176}fore
-Dialogue: 0,0:00:36.25,0:00:42.82,DEFAULT,,0,0,0,,{\kf20}Ne{\kf20}-e{\kf27}ver{\kf23}more{\kf20}~{\kf20}~{\kf20}~{\kf23}~{\kf20}~{\kf20}~{\kf20}~{\kf375}~
-Dialogue: 0,0:00:43.67,0:00:46.88,DEFAULT,,0,0,0,,{\kf65}The{\kf96} world{\kf35} is{\kf62} mine
-Dialogue: 0,0:00:47.30,0:00:50.58,DEFAULT,,0,0,0,,{\kf69}To{\kf104} keep{\kf27} in{\kf69} sight
-Dialogue: 0,0:00:51.04,0:00:54.25,DEFAULT,,0,0,0,,{\kf65}There's{\kf108} no{\kf23} sur{\kf65}prise
-Dialogue: 0,0:00:54.67,0:00:58.11,DEFAULT,,0,0,0,,{\kf69}This{\kf20} time{\kf20}~{\kf16}~{\kf16}~{\kf16}~{\kf16}~{\kf16}~{\kf16}~{\kf58}~
-Dialogue: 0,0:00:58.42,0:01:01.63,DEFAULT,,0,0,0,,{\kf73}So{\kf96} come{\kf31} what{\kf62} may
-Dialogue: 0,0:01:02.09,0:01:05.72,DEFAULT,,0,0,0,,{\kf65}'Cause{\kf100} here{\kf35} I'll{\kf96} stay
-Dialogue: 0,0:01:06.68,0:01:11.26,DEFAULT,,0,0,0,,{\kf43}Up{\kf73} with{\kf31} the{\kf46} high{\kf46}~{\kf31}er{\kf27} po{\kf100}wer
-Dialogue: 0,0:01:11.76,0:01:16.77,DEFAULT,,0,0,0,,{\kf35}The{\kf39} high{\kf35}~{\kf27}e{\kf85}-est{\kf35} to{\kf192}wer
-Dialogue: 0,0:01:28.84,0:01:30.30,DEFAULT,,0,0,0,,{\kf20}Some{\kf20}thing{\kf20} is{\kf27} stir{\kf27}ring
-Dialogue: 0,0:01:30.72,0:01:34.16,DEFAULT,,0,0,0,,{\kf20}Out{\kf12} in{\kf12} the{\kf54} hills{\kf16} be{\kf180}yond
-Dialogue: 0,0:01:36.22,0:01:37.75,DEFAULT,,0,0,0,,{\kf16}No{\kf16}po{\kf16}ny{\kf16} knows{\kf12}~{\kf31} yet
-Dialogue: 0,0:01:38.06,0:01:41.69,DEFAULT,,0,0,0,,{\kf20}What's{\kf16} real{\kf16}ly{\kf50} go{\kf23}ing{\kf188} on
-Dialogue: 0,0:01:43.10,0:01:49.10,DEFAULT,,0,0,0,,{\kf31}Their{\kf27} se{\kf39}crets{\kf31} aren't{\kf27} so{\kf31} se{\kf31}cret{\kf31} now{\kf23} at{\kf188} all
-Dialogue: 0,0:01:50.13,0:01:56.90,DEFAULT,,0,0,0,,{\kf27}Watch{\kf31} them{\kf23} fall{\kf20}~{\kf20}~{\kf20}~{\kf20}~{\kf20}~{\kf20}~{\kf20}~{\kf402}~
-Dialogue: 0,0:01:57.47,0:02:00.68,DEFAULT,,0,0,0,,{\kf69}The{\kf96} world{\kf27} is{\kf65} mine
-Dialogue: 0,0:02:01.14,0:02:04.39,DEFAULT,,0,0,0,,{\kf69}To{\kf104} keep{\kf23} in{\kf65} sight
-Dialogue: 0,0:02:04.85,0:02:08.02,DEFAULT,,0,0,0,,{\kf65}There's{\kf92} no{\kf35} sur{\kf65}prise
-Dialogue: 0,0:02:08.52,0:02:11.23,DEFAULT,,0,0,0,,{\kf62}This{\kf23} time{\kf16}~{\kf16}~{\kf16}~{\kf85}~
-Dialogue: 0,0:02:12.65,0:02:15.40,DEFAULT,,0,0,0,,{\kf35}So{\kf96} come{\kf31} what{\kf58} may
-Dialogue: 0,0:02:15.93,0:02:19.37,DEFAULT,,0,0,0,,{\kf65}'Cause{\kf96} here{\kf27} I'll{\kf85} stay
-Dialogue: 0,0:02:20.60,0:02:25.07,DEFAULT,,0,0,0,,{\kf27}Up{\kf69} with{\kf27} the{\kf46} high{\kf43}~{\kf31}er{\kf43} po{\kf85}wer
-Dialogue: 0,0:02:25.60,0:02:32.41,DEFAULT,,0,0,0,,{\kf23}The{\kf39} high{\kf31}~{\kf35}est{\kf43} to{\kf455}wer
-Dialogue: 0,0:02:35.39,0:02:38.18,DEFAULT,,0,0,0,,{\kf23}There{\kf20} is{\kf39} no{\kf31} way{\kf16} to{\kf92} hide
-Dialogue: 0,0:02:38.98,0:02:41.73,DEFAULT,,0,0,0,,{\kf20}From{\kf23} this{\kf31} all{\kf16}-see{\kf16}ing{\kf96} eye
-Dialogue: 0,0:02:42.65,0:02:44.60,DEFAULT,,0,0,0,,{\kf23}E{\kf23}very{\kf27}po{\kf20}ny{\kf16} can{\kf27} see
-Dialogue: 0,0:02:44.95,0:02:49.61,DEFAULT,,0,0,0,,{\kf27}Who{\kf23} ha{\kf16}-as{\kf16} the{\kf43} high{\kf27} ground{\kf241}~
-Dialogue: 0,0:02:50.07,0:02:52.78,DEFAULT,,0,0,0,,{\kf20}Fear{\kf20} not,{\kf31} lit{\kf23}tle{\kf127} ones
-Dialogue: 0,0:02:53.55,0:02:56.53,DEFAULT,,0,0,0,,{\kf16}I{\kf20} may{\kf27} not{\kf31} raise{\kf16} the{\kf127} sun
-Dialogue: 0,0:02:57.21,0:02:59.35,DEFAULT,,0,0,0,,{\kf16}But{\kf20} you{\kf23} can{\kf35} trust{\kf16} in{\kf16} the{\kf27} one
-Dialogue: 0,0:02:59.85,0:03:02.91,DEFAULT,,0,0,0,,{\kf20}Who's{\kf23} look{\kf23}ing{\kf192} down
-Dialogue: 0,0:03:33.95,0:03:36.77,DEFAULT,,0,0,0,,{\kf31}The{\kf92} world{\kf31} is{\kf69} mine
-Dialogue: 0,0:03:37.58,0:03:40.67,DEFAULT,,0,0,0,,{\kf31}To{\kf100} keep{\kf31} in{\kf96} sight
-Dialogue: 0,0:03:41.25,0:03:44.08,DEFAULT,,0,0,0,,{\kf31}There's{\kf96} no{\kf31} sur{\kf65}prise
-Dialogue: 0,0:03:44.53,0:03:47.48,DEFAULT,,0,0,0,,{\kf73}This{\kf23} time{\kf16}~{\kf16}~{\kf16}~{\kf104}~
-Dialogue: 0,0:03:48.20,0:03:51.53,DEFAULT,,0,0,0,,{\kf69}So{\kf96} come{\kf27} what{\kf73} may
-Dialogue: 0,0:03:52.18,0:03:55.27,DEFAULT,,0,0,0,,{\kf46}'Cause{\kf58} here{\kf43} I'll{\kf58} stay
-Dialogue: 0,0:03:56.54,0:04:01.05,DEFAULT,,0,0,0,,{\kf31}Up{\kf77} with{\kf31} the{\kf88} high{\kf35}er{\kf35} po{\kf88}wer
-Dialogue: 0,0:04:01.58,0:04:03.99,DEFAULT,,0,0,0,,{\kf27}The{\kf77} high{\kf88}est
-Dialogue: 0,0:04:05.79,0:04:09.19,DEFAULT,,0,0,0,,{\kf39}Tow{\kf299}er
-Dialogue: 0,0:04:10.87,0:04:13.01,DEFAULT,,0,0,0,,{\kf23}The{\kf85} high{\kf73}est
-Dialogue: 0,0:04:13.54,0:04:17.71,DEFAULT,,0,0,0,,{\kf35}Tow{\kf257}er{\kf81}~
-Dialogue: 0,0:04:18.25,0:04:22.14,DEFAULT,,0,0,0,,{\kf31}The{\kf39} high{\kf31}~{\kf35}est{\kf20} to{\kf16}-o{\kf157}wer
-Dialogue: 0,0:04:24.32,0:04:25.09,DEFAULT,,0,0,0,,{\kf77}Oh
-Dialogue: 0,0:04:25.62,0:04:32.35,DEFAULT,,0,0,0,,{\kf23}The{\kf81} high{\kf65}est{\kf43} to{\kf180}wer{\kf16}~{\kf16}~{\kf16}~{\kf16}~{\kf69}~
+Dialogue: 0,0:00:15.08,0:00:16.61,DEFAULT,,0,0,0,,{\r}{\kf20}Po{\kf25}nies{\kf15} are{\kf49} walk{\kf44}ing
+Dialogue: 0,0:00:16.88,0:00:21.42,DEFAULT,,0,0,0,,{\r}{\kf21}Out{\kf13} in{\kf17} the{\kf68} dark{\kf17} of{\kf319} night
+Dialogue: 0,0:00:22.38,0:00:23.95,DEFAULT,,0,0,0,,{\r}{\kf20}They{\kf25} have{\kf15} me{\kf61} wond{\kf36}'ring
+Dialogue: 0,0:00:24.29,0:00:28.08,DEFAULT,,0,0,0,,{\r}{\kf17}If{\kf17} I{\kf13} am{\kf64} see{\kf21}ing{\kf246} right
+Dialogue: 0,0:00:29.53,0:00:35.15,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf20} kno{\kf25}-ow{\kf40} it's{\kf45} not{\kf35} ex{\kf35}act{\kf30}ly{\kf20}~{\kf20} a{\kf20}-as{\kf25} be{\kf227}fore
+Dialogue: 0,0:00:36.26,0:00:42.83,DEFAULT,,0,0,0,,{\r}{\kf21}Ne{\kf21}-e{\kf29}ver{\kf25}more{\kf21}~{\kf21}~{\kf21}~{\kf25}~{\kf21}~{\kf21}~{\kf21}~{\kf410}~
+Dialogue: 0,0:00:43.67,0:00:46.88,DEFAULT,,0,0,0,,{\r}{\kf81}The{\kf120} world{\kf43} is{\kf77} mine
+Dialogue: 0,0:00:47.30,0:00:50.59,DEFAULT,,0,0,0,,{\r}{\kf85}To{\kf127} keep{\kf33} in{\kf84} sight
+Dialogue: 0,0:00:51.05,0:00:54.26,DEFAULT,,0,0,0,,{\r}{\kf80}There's{\kf132} no{\kf28} sur{\kf81}prise
+Dialogue: 0,0:00:54.68,0:00:58.12,DEFAULT,,0,0,0,,{\r}{\kf92}This{\kf26} time{\kf26}~{\kf21}~{\kf21}~{\kf21}~{\kf21}~{\kf21}~{\kf21}~{\kf74}~
+Dialogue: 0,0:00:58.42,0:01:01.63,DEFAULT,,0,0,0,,{\r}{\kf90}So{\kf118} come{\kf38} what{\kf75} may
+Dialogue: 0,0:01:02.09,0:01:05.72,DEFAULT,,0,0,0,,{\r}{\kf80}'Cause{\kf123} here{\kf42} I'll{\kf118} stay
+Dialogue: 0,0:01:06.68,0:01:11.27,DEFAULT,,0,0,0,,{\r}{\kf49}Up{\kf85} with{\kf36} the{\kf53} high{\kf53}~{\kf36}er{\kf31} po{\kf116}wer
+Dialogue: 0,0:01:11.76,0:01:16.77,DEFAULT,,0,0,0,,{\r}{\kf39}The{\kf43} high{\kf39}~{\kf30}e{\kf95}-est{\kf39} to{\kf216}wer
+Dialogue: 0,0:01:28.85,0:01:30.30,DEFAULT,,0,0,0,,{\r}{\kf25}Some{\kf25}thing{\kf25} is{\kf35} stir{\kf35}ring
+Dialogue: 0,0:01:30.72,0:01:34.16,DEFAULT,,0,0,0,,{\r}{\kf23}Out{\kf14} in{\kf14} the{\kf63} hills{\kf18} be{\kf212}yond
+Dialogue: 0,0:01:36.23,0:01:37.76,DEFAULT,,0,0,0,,{\r}{\kf23}No{\kf23}po{\kf23}ny{\kf23} knows{\kf17}~{\kf44} yet
+Dialogue: 0,0:01:38.06,0:01:41.69,DEFAULT,,0,0,0,,{\r}{\kf22}What's{\kf18} real{\kf18}ly{\kf58} go{\kf27}ing{\kf220} on
+Dialogue: 0,0:01:43.11,0:01:49.11,DEFAULT,,0,0,0,,{\r}{\kf40}Their{\kf35} se{\kf50}crets{\kf40} aren't{\kf35} so{\kf40} se{\kf40}cret{\kf40} now{\kf30} at{\kf250} all
+Dialogue: 0,0:01:50.14,0:01:56.90,DEFAULT,,0,0,0,,{\r}{\kf29}Watch{\kf34} them{\kf25} fall{\kf21}~{\kf21}~{\kf21}~{\kf21}~{\kf21}~{\kf21}~{\kf21}~{\kf442}~
+Dialogue: 0,0:01:57.48,0:02:00.69,DEFAULT,,0,0,0,,{\r}{\kf86}The{\kf120} world{\kf34} is{\kf81} mine
+Dialogue: 0,0:02:01.15,0:02:04.40,DEFAULT,,0,0,0,,{\r}{\kf86}To{\kf129} keep{\kf29} in{\kf81} sight
+Dialogue: 0,0:02:04.85,0:02:08.03,DEFAULT,,0,0,0,,{\r}{\kf80}There's{\kf114} no{\kf43} sur{\kf80}prise
+Dialogue: 0,0:02:08.52,0:02:11.24,DEFAULT,,0,0,0,,{\r}{\kf77}This{\kf29} time{\kf19}~{\kf19}~{\kf19}~{\kf108}~
+Dialogue: 0,0:02:12.65,0:02:15.40,DEFAULT,,0,0,0,,{\r}{\kf43}So{\kf121} come{\kf39} what{\kf72} may
+Dialogue: 0,0:02:15.94,0:02:19.38,DEFAULT,,0,0,0,,{\r}{\kf82}'Cause{\kf121} here{\kf34} I'll{\kf107} stay
+Dialogue: 0,0:02:20.60,0:02:25.07,DEFAULT,,0,0,0,,{\r}{\kf33}Up{\kf84} with{\kf33} the{\kf56} high{\kf51}~{\kf37}er{\kf51} po{\kf102}wer
+Dialogue: 0,0:02:25.61,0:02:32.41,DEFAULT,,0,0,0,,{\r}{\kf25}The{\kf42} high{\kf33}~{\kf38}est{\kf46} to{\kf496}wer
+Dialogue: 0,0:02:35.39,0:02:38.18,DEFAULT,,0,0,0,,{\r}{\kf29}There{\kf24} is{\kf49} no{\kf39} way{\kf20} to{\kf118} hide
+Dialogue: 0,0:02:38.99,0:02:41.74,DEFAULT,,0,0,0,,{\r}{\kf26}From{\kf32} this{\kf42} all{\kf21}-see{\kf21}ing{\kf133} eye
+Dialogue: 0,0:02:42.66,0:02:44.61,DEFAULT,,0,0,0,,{\r}{\kf33}E{\kf33}very{\kf39}po{\kf28}ny{\kf22} can{\kf40} see
+Dialogue: 0,0:02:44.95,0:02:49.61,DEFAULT,,0,0,0,,{\r}{\kf32}Who{\kf27} ha{\kf18}-as{\kf18} the{\kf50} high{\kf32} ground{\kf289}~
+Dialogue: 0,0:02:50.07,0:02:52.79,DEFAULT,,0,0,0,,{\r}{\kf24}Fear{\kf24} not,{\kf38} lit{\kf29}tle{\kf156} ones
+Dialogue: 0,0:02:53.55,0:02:56.53,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf24} may{\kf34} not{\kf39} raise{\kf20} the{\kf161} sun
+Dialogue: 0,0:02:57.22,0:02:59.36,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf27} you{\kf33} can{\kf49} trust{\kf22} in{\kf22} the{\kf39} one
+Dialogue: 0,0:02:59.86,0:03:02.91,DEFAULT,,0,0,0,,{\r}{\kf23}Who's{\kf27} look{\kf27}ing{\kf229} down
+Dialogue: 0,0:03:33.95,0:03:36.78,DEFAULT,,0,0,0,,{\r}{\kf39}The{\kf117} world{\kf39} is{\kf88} mine
+Dialogue: 0,0:03:37.58,0:03:40.68,DEFAULT,,0,0,0,,{\r}{\kf37}To{\kf120} keep{\kf37} in{\kf116} sight
+Dialogue: 0,0:03:41.25,0:03:44.08,DEFAULT,,0,0,0,,{\r}{\kf39}There's{\kf122} no{\kf39} sur{\kf83}prise
+Dialogue: 0,0:03:44.54,0:03:47.48,DEFAULT,,0,0,0,,{\r}{\kf87}This{\kf28} time{\kf18}~{\kf18}~{\kf18}~{\kf125}~
+Dialogue: 0,0:03:48.21,0:03:51.53,DEFAULT,,0,0,0,,{\r}{\kf87}So{\kf121} come{\kf34} what{\kf91} may
+Dialogue: 0,0:03:52.18,0:03:55.28,DEFAULT,,0,0,0,,{\r}{\kf70}'Cause{\kf88} here{\kf64} I'll{\kf88} stay
+Dialogue: 0,0:03:56.54,0:04:01.05,DEFAULT,,0,0,0,,{\r}{\kf36}Up{\kf90} with{\kf36} the{\kf104} high{\kf41}er{\kf41} po{\kf103}wer
+Dialogue: 0,0:04:01.59,0:04:03.99,DEFAULT,,0,0,0,,{\r}{\kf34}The{\kf96} high{\kf111}est
+Dialogue: 0,0:04:05.79,0:04:09.19,DEFAULT,,0,0,0,,{\r}{\kf39}Tow{\kf301}er
+Dialogue: 0,0:04:10.87,0:04:13.01,DEFAULT,,0,0,0,,{\r}{\kf27}The{\kf100} high{\kf87}est
+Dialogue: 0,0:04:13.55,0:04:17.72,DEFAULT,,0,0,0,,{\r}{\kf39}Tow{\kf288}er{\kf90}~
+Dialogue: 0,0:04:18.25,0:04:22.15,DEFAULT,,0,0,0,,{\r}{\kf37}The{\kf46} high{\kf37}~{\kf41}est{\kf23} to{\kf18}-o{\kf188}wer
+Dialogue: 0,0:04:24.33,0:04:25.09,DEFAULT,,0,0,0,,{\r}{\kf76}Oh
+Dialogue: 0,0:04:25.63,0:04:32.35,DEFAULT,,0,0,0,,{\r}{\kf30}The{\kf104} high{\kf84}est{\kf54} to{\kf233}wer{\kf20}~{\kf20}~{\kf20}~{\kf20}~{\kf88}~

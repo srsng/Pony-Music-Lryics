@@ -1,52 +1,59 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: One Last Letter
+Artist: Aviators, Bronyfied
+Original Timing: mylittlekaraoke.com by Linos Melendi, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:52.84,0:00:56.42,DEFAULT,,0,0,0,,{\kf16}Dear{\kf32}~{\kf12} prin{\kf32}cess{\kf12} I{\kf16} should{\kf24} have{\kf12} seen{\kf20}~{\kf16} the{\kf32} signs
-Dialogue: 0,0:00:56.93,0:01:01.21,DEFAULT,,0,0,0,,{\kf16}Cha{\kf12}os{\kf12} has{\kf16} ri{\kf12}sen{\kf12} a{\kf8}gain{\kf39}~{\kf12} af{\kf12}ter{\kf43} all{\kf20} this{\kf16}~{\kf43} time
-Dialogue: 0,0:01:01.56,0:01:05.15,DEFAULT,,0,0,0,,{\kf16}Some{\kf16}~{\kf20}how{\kf16}~{\kf16} I{\kf12} have{\kf16}~{\kf24} to{\kf12} es{\kf28}cape{\kf36} from
-Dialogue: 0,0:01:05.65,0:01:09.67,DEFAULT,,0,0,0,,{\kf12}This{\kf24} night{\kf16}mare{\kf12} of{\kf12} a{\kf16} world{\kf16}~{\kf20} ours{\kf16}~{\kf39} has{\kf12} be{\kf8}~{\kf4}~{\kf16}~{\kf16}come
-Dialogue: 0,0:01:10.29,0:01:14.07,DEFAULT,,0,0,0,,{\kf12}What{\kf24}~{\kf12} hap{\kf12}pened{\kf12} to{\kf12} the{\kf39} na{\kf12}tion{\kf12} we{\kf36}~{\kf28} all{\kf8}~{\kf24} knew
-Dialogue: 0,0:01:14.65,0:01:18.59,DEFAULT,,0,0,0,,{\kf32}We're{\kf36} crushed{\kf8} un{\kf28}~{\kf20}der{\kf32} Dis{\kf24}cord's{\kf16}~{\kf32} rule
-Dialogue: 0,0:01:19.02,0:01:22.68,DEFAULT,,0,0,0,,{\kf8}Where{\kf20}~{\kf12}~{\kf55} has{\kf12} har{\kf36}~{\kf12}mo{\kf39}ny{\kf28} gone?{\kf39}~
-Dialogue: 0,0:01:23.11,0:01:27.27,DEFAULT,,0,0,0,,{\kf16}Feels{\kf12} like{\kf16} E{\kf12}ques{\kf12}tri{\kf16}a's{\kf16} been{\kf12} gone{\kf28}~{\kf12} for{\kf51} so{\kf36}~{\kf36} long
-Dialogue: 0,0:01:27.74,0:01:31.72,DEFAULT,,0,0,0,,{\kf12}One{\kf32}~{\kf55} last{\kf39} thing{\kf12} that{\kf12} I've{\kf12} got{\kf12} to{\kf39} say
-Dialogue: 0,0:01:32.11,0:01:35.88,DEFAULT,,0,0,0,,{\kf12}One{\kf12}~{\kf16}~{\kf24} more{\kf20}~{\kf12} re{\kf51}port{\kf16} be{\kf12}fore{\kf12} it's{\kf12} too{\kf12}~{\kf24} late
-Dialogue: 0,0:01:36.24,0:01:43.72,DEFAULT,,0,0,0,,{\kf12}I'm{\kf12} beg{\kf12}~{\kf16}ging{\kf24} you{\kf20}~{\kf28} to{\kf12} stop{\kf28}~{\kf32} this{\kf12} cha{\kf16}os{\kf12} to{\kf12}day{\kf67}~{\kf24}~{\kf90}~{\kf28}~{\kf82}~{\kf28}~{\kf43}~
-Dialogue: 0,0:01:45.20,0:01:49.17,DEFAULT,,0,0,0,,{\kf12}One{\kf32}~{\kf55} last{\kf39} thing{\kf16} that{\kf12} I{\kf12} got{\kf12}ta{\kf39} prove
-Dialogue: 0,0:01:49.56,0:01:53.38,DEFAULT,,0,0,0,,{\kf12}One{\kf12}~{\kf16}~{\kf12} fi{\kf20}nal{\kf16} good{\kf28}bye{\kf12} be{\kf16}fore{\kf12} we{\kf28} meet{\kf12} our{\kf24}~{\kf28} doom
-Dialogue: 0,0:01:53.92,0:01:57.82,DEFAULT,,0,0,0,,{\kf12}Some{\kf12}~{\kf12}thing{\kf16} hap{\kf16}pened{\kf12} to{\kf12} the{\kf12} peace{\kf16}~{\kf16} that{\kf8} we{\kf20}~{\kf20} all{\kf12}~{\kf39} knew
-Dialogue: 0,0:01:58.29,0:02:02.18,DEFAULT,,0,0,0,,{\kf28}This{\kf12} is{\kf20}~{\kf28} my{\kf12} one{\kf28}~{\kf32} last{\kf12} let{\kf12}ter{\kf12} to{\kf36} you
-Dialogue: 0,0:02:20.10,0:02:23.88,DEFAULT,,0,0,0,,{\kf39}I've{\kf16} tried{\kf28}~{\kf32} to{\kf12} stop{\kf32}~{\kf36} this{\kf12} on{\kf28} my{\kf16}~{\kf24} own
-Dialogue: 0,0:02:24.27,0:02:28.28,DEFAULT,,0,0,0,,{\kf12}But{\kf16} my{\kf39} friends{\kf16} have{\kf20} turned{\kf12} a{\kf12}gainst{\kf20}~{\kf20} me{\kf39} I'm{\kf28} a{\kf16}~{\kf28}lone
-Dialogue: 0,0:02:28.83,0:02:32.57,DEFAULT,,0,0,0,,{\kf12}So{\kf16}~{\kf16}~{\kf16} ma{\kf24}ny{\kf12} run{\kf24}~{\kf16}ning{\kf24} and{\kf16}~{\kf39} scream{\kf20}ing{\kf28}~
-Dialogue: 0,0:02:32.92,0:02:36.82,DEFAULT,,0,0,0,,{\kf12}I'm{\kf12} cry{\kf12}~{\kf12}ing{\kf12} out{\kf24}~{\kf12} can{\kf32}~{\kf24} you{\kf16}~{\kf28} hear{\kf12}~{\kf36} me?
-Dialogue: 0,0:02:37.28,0:02:41.34,DEFAULT,,0,0,0,,{\kf12}I{\kf12} re{\kf12}fuse{\kf36}~{\kf16} to{\kf12} be{\kf12}lieve{\kf82}~{\kf12} that{\kf12} ma{\kf12}~{\kf12}gic{\kf12} is{\kf24} dead
-Dialogue: 0,0:02:41.73,0:02:45.78,DEFAULT,,0,0,0,,{\kf12}There{\kf16} has{\kf12} to{\kf16} be{\kf12} more{\kf12} than{\kf16} the{\kf16} con{\kf28}~{\kf12}flict{\kf4}~{\kf20} in{\kf12}~{\kf24} my{\kf20}~{\kf24} head
-Dialogue: 0,0:02:46.32,0:02:51.93,DEFAULT,,0,0,0,,{\kf12}Dear{\kf20}~{\kf16} prin{\kf39}cess{\kf12} help{\kf16}~{\kf28} me{\kf28} find{\kf20}~{\kf24} a{\kf16}~{\kf28} way{\kf12} to{\kf12} de{\kf36}feat{\kf12} the{\kf36}~
-Dialogue: 0,0:02:52.28,0:02:54.43,DEFAULT,,0,0,0,,{\kf20}CHA{\kf43}OS{\kf16} RI{\kf12}SING{\kf12} TO{\kf24}DAY
-Dialogue: 0,0:02:55.01,0:02:58.98,DEFAULT,,0,0,0,,{\kf12}One{\kf32}~{\kf55} last{\kf39} thing{\kf16} that{\kf12} I've{\kf12} got{\kf12} to{\kf39} say
-Dialogue: 0,0:02:59.37,0:03:03.15,DEFAULT,,0,0,0,,{\kf12}One{\kf12}~{\kf16}~{\kf24} more{\kf20}~{\kf16} re{\kf51}port{\kf12} be{\kf12}fore{\kf16} it's{\kf12} too{\kf12}~{\kf24} late
-Dialogue: 0,0:03:03.50,0:03:10.98,DEFAULT,,0,0,0,,{\kf16}I'm{\kf12} beg{\kf12}~{\kf12}ging{\kf24} you{\kf20}~{\kf28} to{\kf16} stop{\kf28}~{\kf32} this{\kf12} cha{\kf12}os{\kf12} to{\kf12}day{\kf67}~{\kf24}~{\kf90}~{\kf28}~{\kf82}~{\kf28}~{\kf43}~
-Dialogue: 0,0:03:12.46,0:03:16.44,DEFAULT,,0,0,0,,{\kf12}One{\kf32}~{\kf55} last{\kf39} thing{\kf12} that{\kf16} I{\kf12} got{\kf12}ta{\kf39} prove
-Dialogue: 0,0:03:16.83,0:03:20.65,DEFAULT,,0,0,0,,{\kf12}One{\kf12}~{\kf16}~{\kf12} fi{\kf20}nal{\kf12} good{\kf32}bye{\kf12} be{\kf12}fore{\kf16} we{\kf28} meet{\kf12} our{\kf24}~{\kf28} doom
-Dialogue: 0,0:03:21.19,0:03:25.09,DEFAULT,,0,0,0,,{\kf12}Some{\kf12}~{\kf16}thing{\kf12} hap{\kf16}pened{\kf16} to{\kf12} the{\kf12} peace{\kf16}~{\kf16} that{\kf8} we{\kf20}~{\kf20} all{\kf12}~{\kf39} knew
-Dialogue: 0,0:03:25.55,0:03:29.49,DEFAULT,,0,0,0,,{\kf28}This{\kf12} is{\kf20}~{\kf28} my{\kf12} one{\kf28}~{\kf32} last{\kf16} let{\kf12}ter{\kf12} to{\kf39} you
-Dialogue: 0,0:04:22.01,0:04:26.14,DEFAULT,,0,0,0,,{\kf20}Is{\kf28}~{\kf16}n't{\kf39} there{\kf8} some{\kf12}~{\kf24}thing{\kf39}~{\kf16} you{\kf28} can{\kf36} do
-Dialogue: 0,0:04:26.64,0:04:30.46,DEFAULT,,0,0,0,,{\kf8}To{\kf8}~{\kf8} save{\kf28}~{\kf12} the{\kf24} world{\kf39}~{\kf24} that{\kf16} we{\kf20} once{\kf32} knew
-Dialogue: 0,0:04:31.01,0:04:34.63,DEFAULT,,0,0,0,,{\kf16}Dear{\kf24}~{\kf16} prin{\kf32}cess{\kf16} the{\kf12} les{\kf12}son{\kf8} I{\kf12}~{\kf39} learned{\kf8} to{\kf36}day
-Dialogue: 0,0:04:35.14,0:04:41.56,DEFAULT,,0,0,0,,{\kf16}Is{\kf12} that{\kf12} some{\kf12}times{\kf12} ev{\kf12}ery{\kf20}thing{\kf39}~{\kf32} just{\kf12} fades{\kf63}~{\kf12} a{\kf67}~{\kf75}way
-Dialogue: 0,0:04:44.10,0:04:48.07,DEFAULT,,0,0,0,,{\kf12}One{\kf32}~{\kf55} last{\kf39} thing{\kf16} that{\kf16} I've{\kf12} got{\kf12} to{\kf39} say
-Dialogue: 0,0:04:48.46,0:04:52.24,DEFAULT,,0,0,0,,{\kf12}One{\kf12}~{\kf16}~{\kf24} more{\kf20}~{\kf16} re{\kf51}port{\kf12} be{\kf12}fore{\kf16} it's{\kf12} too{\kf12}~{\kf24} late
-Dialogue: 0,0:04:52.59,0:05:00.07,DEFAULT,,0,0,0,,{\kf12}I'm{\kf12} beg{\kf12}~{\kf12}ging{\kf24} you{\kf20}~{\kf28} to{\kf12} stop{\kf28}~{\kf32} this{\kf12} cha{\kf12}os{\kf12} to{\kf12}day{\kf67}~{\kf24}~{\kf90}~{\kf28}~{\kf82}~{\kf28}~{\kf43}~
-Dialogue: 0,0:05:01.55,0:05:05.52,DEFAULT,,0,0,0,,{\kf12}One{\kf32}~{\kf55} last{\kf39} thing{\kf12} that{\kf12} I{\kf12} got{\kf12}ta{\kf39} prove
-Dialogue: 0,0:05:05.91,0:05:09.73,DEFAULT,,0,0,0,,{\kf12}One{\kf12}~{\kf16}~{\kf12} fi{\kf20}nal{\kf12} good{\kf28}bye{\kf12} be{\kf12}fore{\kf12} we{\kf28} meet{\kf12} our{\kf24}~{\kf28} doom
-Dialogue: 0,0:05:10.28,0:05:14.17,DEFAULT,,0,0,0,,{\kf12}Some{\kf12}~{\kf16}thing{\kf12} hap{\kf16}pened{\kf12} to{\kf12} the{\kf12} peace{\kf16}~{\kf16} that{\kf8} we{\kf20}~{\kf20} all{\kf16}~{\kf39} knew
-Dialogue: 0,0:05:14.64,0:05:18.57,DEFAULT,,0,0,0,,{\kf28}This{\kf12} is{\kf20}~{\kf28} my{\kf12} one{\kf28}~{\kf32} last{\kf12} let{\kf16}ter{\kf12} to{\kf39} you
+Dialogue: 0,0:00:52.84,0:00:56.42,DEFAULT,,0,0,0,,{\r}{\kf26}Dear{\kf51}~{\kf19} prin{\kf51}cess{\kf19} I{\kf26} should{\kf38} have{\kf19} seen{\kf32}~{\kf26} the{\kf51} signs
+Dialogue: 0,0:00:56.93,0:01:01.22,DEFAULT,,0,0,0,,{\r}{\kf25}Cha{\kf19}os{\kf19} has{\kf25} ri{\kf19}sen{\kf19} a{\kf12}gain{\kf62}~{\kf19} af{\kf19}ter{\kf68} all{\kf31} this{\kf25}~{\kf67} time
+Dialogue: 0,0:01:01.57,0:01:05.15,DEFAULT,,0,0,0,,{\r}{\kf27}Some{\kf27}~{\kf34}how{\kf27}~{\kf27} I{\kf20} have{\kf27}~{\kf41} to{\kf20} es{\kf47}cape{\kf61} from
+Dialogue: 0,0:01:05.66,0:01:09.67,DEFAULT,,0,0,0,,{\r}{\kf20}This{\kf40} night{\kf27}mare{\kf20} of{\kf20} a{\kf27} world{\kf27}~{\kf33} ours{\kf27}~{\kf67} has{\kf20} be{\kf13}~{\kf10}~{\kf27}~{\kf23}come
+Dialogue: 0,0:01:10.29,0:01:14.07,DEFAULT,,0,0,0,,{\r}{\kf19}What{\kf37}~{\kf19} hap{\kf19}pened{\kf19} to{\kf19} the{\kf62} na{\kf19}tion{\kf19} we{\kf56}~{\kf43} all{\kf12}~{\kf35} knew
+Dialogue: 0,0:01:14.66,0:01:18.59,DEFAULT,,0,0,0,,{\r}{\kf55}We're{\kf62} crushed{\kf14} un{\kf48}~{\kf34}der{\kf55} Dis{\kf41}cord's{\kf28}~{\kf56} rule
+Dialogue: 0,0:01:19.02,0:01:22.68,DEFAULT,,0,0,0,,{\r}{\kf11}Where{\kf28}~{\kf17}~{\kf78} has{\kf17} har{\kf50}~{\kf17}mo{\kf55}ny{\kf39} gone?{\kf54}~
+Dialogue: 0,0:01:23.11,0:01:27.28,DEFAULT,,0,0,0,,{\r}{\kf24}Feels{\kf18} like{\kf24} E{\kf18}ques{\kf18}tri{\kf24}a's{\kf24} been{\kf18} gone{\kf42}~{\kf18} for{\kf79} so{\kf54}~{\kf56} long
+Dialogue: 0,0:01:27.75,0:01:31.72,DEFAULT,,0,0,0,,{\r}{\kf21}One{\kf56}~{\kf98} last{\kf70} thing{\kf21} that{\kf21} I've{\kf21} got{\kf21} to{\kf68} say
+Dialogue: 0,0:01:32.11,0:01:35.89,DEFAULT,,0,0,0,,{\r}{\kf19}One{\kf19}~{\kf26}~{\kf38} more{\kf32}~{\kf19} re{\kf83}port{\kf26} be{\kf19}fore{\kf19} it's{\kf19} too{\kf19}~{\kf40} late
+Dialogue: 0,0:01:36.24,0:01:43.72,DEFAULT,,0,0,0,,{\r}{\kf15}I'm{\kf15} beg{\kf15}~{\kf19}ging{\kf29} you{\kf24}~{\kf34} to{\kf15} stop{\kf34}~{\kf39} this{\kf15} cha{\kf19}os{\kf15} to{\kf15}day{\kf83}~{\kf29}~{\kf112}~{\kf34}~{\kf102}~{\kf34}~{\kf51}~
+Dialogue: 0,0:01:45.20,0:01:49.17,DEFAULT,,0,0,0,,{\r}{\kf21}One{\kf55}~{\kf96} last{\kf68} thing{\kf27} that{\kf21} I{\kf21} got{\kf21}ta{\kf67} prove
+Dialogue: 0,0:01:49.56,0:01:53.38,DEFAULT,,0,0,0,,{\r}{\kf18}One{\kf18}~{\kf25}~{\kf18} fi{\kf31}nal{\kf25} good{\kf43}bye{\kf18} be{\kf25}fore{\kf18} we{\kf43} meet{\kf18} our{\kf37}~{\kf45} doom
+Dialogue: 0,0:01:53.93,0:01:57.82,DEFAULT,,0,0,0,,{\r}{\kf20}Some{\kf20}~{\kf20}thing{\kf26} hap{\kf26}pened{\kf20} to{\kf20} the{\kf20} peace{\kf26}~{\kf26} that{\kf13} we{\kf33}~{\kf33} all{\kf20}~{\kf67} knew
+Dialogue: 0,0:01:58.29,0:02:02.19,DEFAULT,,0,0,0,,{\r}{\kf47}This{\kf20} is{\kf34}~{\kf47} my{\kf20} one{\kf47}~{\kf54} last{\kf20} let{\kf20}ter{\kf20} to{\kf61} you
+Dialogue: 0,0:02:20.11,0:02:23.89,DEFAULT,,0,0,0,,{\r}{\kf55}I've{\kf22} tried{\kf38}~{\kf44} to{\kf16} stop{\kf44}~{\kf49} this{\kf16} on{\kf38} my{\kf22}~{\kf34} own
+Dialogue: 0,0:02:24.28,0:02:28.29,DEFAULT,,0,0,0,,{\r}{\kf17}But{\kf23} my{\kf57} friends{\kf23} have{\kf29} turned{\kf17} a{\kf17}gainst{\kf29}~{\kf29} me{\kf57} I'm{\kf40} a{\kf23}~{\kf40}lone
+Dialogue: 0,0:02:28.84,0:02:32.58,DEFAULT,,0,0,0,,{\r}{\kf17}So{\kf23}~{\kf23}~{\kf23} ma{\kf34}ny{\kf17} run{\kf34}~{\kf23}ning{\kf34} and{\kf23}~{\kf57} scream{\kf28}ing{\kf38}~
+Dialogue: 0,0:02:32.93,0:02:36.82,DEFAULT,,0,0,0,,{\r}{\kf19}I'm{\kf19} cry{\kf19}~{\kf19}ing{\kf19} out{\kf38}~{\kf19} can{\kf51}~{\kf38} you{\kf26}~{\kf45} hear{\kf19}~{\kf59} me?
+Dialogue: 0,0:02:37.29,0:02:41.34,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf17} re{\kf17}fuse{\kf52}~{\kf23} to{\kf17} be{\kf17}lieve{\kf121}~{\kf17} that{\kf17} ma{\kf17}~{\kf17}gic{\kf17} is{\kf39} dead
+Dialogue: 0,0:02:41.73,0:02:45.78,DEFAULT,,0,0,0,,{\r}{\kf19}There{\kf25} has{\kf19} to{\kf25} be{\kf19} more{\kf19} than{\kf25} the{\kf25} con{\kf44}~{\kf19}flict{\kf10}~{\kf32} in{\kf19}~{\kf38} my{\kf32}~{\kf35} head
+Dialogue: 0,0:02:46.33,0:02:51.94,DEFAULT,,0,0,0,,{\r}{\kf18}Dear{\kf30}~{\kf24} prin{\kf61}cess{\kf18} help{\kf24}~{\kf43} me{\kf43} find{\kf30}~{\kf37} a{\kf24}~{\kf43} way{\kf18} to{\kf18} de{\kf55}feat{\kf18} the{\kf57}~
+Dialogue: 0,0:02:52.29,0:02:54.43,DEFAULT,,0,0,0,,{\r}{\kf33}CHA{\kf74}OS{\kf27} RI{\kf20}SING{\kf20} TO{\kf40}DAY
+Dialogue: 0,0:02:55.02,0:02:58.99,DEFAULT,,0,0,0,,{\r}{\kf21}One{\kf55}~{\kf96} last{\kf68} thing{\kf27} that{\kf21} I've{\kf21} got{\kf21} to{\kf67} say
+Dialogue: 0,0:02:59.38,0:03:03.16,DEFAULT,,0,0,0,,{\r}{\kf19}One{\kf19}~{\kf25}~{\kf38} more{\kf31}~{\kf25} re{\kf82}port{\kf19} be{\kf19}fore{\kf25} it's{\kf19} too{\kf19}~{\kf38} late
+Dialogue: 0,0:03:03.51,0:03:10.99,DEFAULT,,0,0,0,,{\r}{\kf19}I'm{\kf15} beg{\kf15}~{\kf15}ging{\kf29} you{\kf24}~{\kf34} to{\kf19} stop{\kf34}~{\kf39} this{\kf15} cha{\kf15}os{\kf15} to{\kf15}day{\kf83}~{\kf29}~{\kf112}~{\kf34}~{\kf102}~{\kf34}~{\kf51}~
+Dialogue: 0,0:03:12.47,0:03:16.44,DEFAULT,,0,0,0,,{\r}{\kf21}One{\kf55}~{\kf96} last{\kf68} thing{\kf21} that{\kf27} I{\kf21} got{\kf21}ta{\kf67} prove
+Dialogue: 0,0:03:16.83,0:03:20.65,DEFAULT,,0,0,0,,{\r}{\kf18}One{\kf18}~{\kf25}~{\kf18} fi{\kf31}nal{\kf18} good{\kf49}bye{\kf18} be{\kf18}fore{\kf25} we{\kf43} meet{\kf18} our{\kf37}~{\kf46} doom
+Dialogue: 0,0:03:21.20,0:03:25.09,DEFAULT,,0,0,0,,{\r}{\kf20}Some{\kf20}~{\kf26}thing{\kf20} hap{\kf26}pened{\kf26} to{\kf20} the{\kf20} peace{\kf26}~{\kf26} that{\kf13} we{\kf33}~{\kf33} all{\kf20}~{\kf61} knew
+Dialogue: 0,0:03:25.56,0:03:29.49,DEFAULT,,0,0,0,,{\r}{\kf46}This{\kf20} is{\kf33}~{\kf46} my{\kf20} one{\kf46}~{\kf52} last{\kf26} let{\kf20}ter{\kf20} to{\kf64} you
+Dialogue: 0,0:04:22.01,0:04:26.14,DEFAULT,,0,0,0,,{\r}{\kf31}Is{\kf43}~{\kf25}n't{\kf62} there{\kf12} some{\kf18}~{\kf37}thing{\kf62}~{\kf25} you{\kf43} can{\kf55} do
+Dialogue: 0,0:04:26.65,0:04:30.47,DEFAULT,,0,0,0,,{\r}{\kf14}To{\kf14}~{\kf14} save{\kf49}~{\kf21} the{\kf42} world{\kf69}~{\kf42} that{\kf28} we{\kf35} once{\kf54} knew
+Dialogue: 0,0:04:31.01,0:04:34.63,DEFAULT,,0,0,0,,{\r}{\kf25}Dear{\kf37}~{\kf25} prin{\kf50}cess{\kf25} the{\kf19} les{\kf19}son{\kf12} I{\kf19}~{\kf62} learned{\kf12} to{\kf57}day
+Dialogue: 0,0:04:35.14,0:04:41.57,DEFAULT,,0,0,0,,{\r}{\kf26}Is{\kf19} that{\kf19} some{\kf19}times{\kf19} ev{\kf19}ery{\kf32}thing{\kf64}~{\kf51} just{\kf19} fades{\kf103}~{\kf19} a{\kf109}~{\kf125}way
+Dialogue: 0,0:04:44.10,0:04:48.07,DEFAULT,,0,0,0,,{\r}{\kf20}One{\kf54}~{\kf94} last{\kf67} thing{\kf27} that{\kf27} I've{\kf20} got{\kf20} to{\kf68} say
+Dialogue: 0,0:04:48.46,0:04:52.24,DEFAULT,,0,0,0,,{\r}{\kf19}One{\kf19}~{\kf25}~{\kf38} more{\kf31}~{\kf25} re{\kf82}port{\kf19} be{\kf19}fore{\kf25} it's{\kf19} too{\kf19}~{\kf38} late
+Dialogue: 0,0:04:52.59,0:05:00.07,DEFAULT,,0,0,0,,{\r}{\kf15}I'm{\kf15} beg{\kf15}~{\kf15}ging{\kf30} you{\kf25}~{\kf34} to{\kf15} stop{\kf34}~{\kf39} this{\kf15} cha{\kf15}os{\kf15} to{\kf15}day{\kf84}~{\kf30}~{\kf113}~{\kf34}~{\kf103}~{\kf34}~{\kf53}~
+Dialogue: 0,0:05:01.55,0:05:05.53,DEFAULT,,0,0,0,,{\r}{\kf21}One{\kf56}~{\kf98} last{\kf70} thing{\kf21} that{\kf21} I{\kf21} got{\kf21}ta{\kf68} prove
+Dialogue: 0,0:05:05.92,0:05:09.74,DEFAULT,,0,0,0,,{\r}{\kf19}One{\kf19}~{\kf25}~{\kf19} fi{\kf32}nal{\kf19} good{\kf45}bye{\kf19} be{\kf19}fore{\kf19} we{\kf45} meet{\kf19} our{\kf38}~{\kf45} doom
+Dialogue: 0,0:05:10.28,0:05:14.18,DEFAULT,,0,0,0,,{\r}{\kf20}Some{\kf20}~{\kf26}thing{\kf20} hap{\kf26}pened{\kf20} to{\kf20} the{\kf20} peace{\kf26}~{\kf26} that{\kf13} we{\kf33}~{\kf33} all{\kf26}~{\kf61} knew
+Dialogue: 0,0:05:14.64,0:05:18.58,DEFAULT,,0,0,0,,{\r}{\kf46}This{\kf20} is{\kf33}~{\kf46} my{\kf20} one{\kf46}~{\kf52} last{\kf20} let{\kf26}ter{\kf20} to{\kf64} you

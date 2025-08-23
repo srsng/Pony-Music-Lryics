@@ -1,71 +1,78 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Danger, Danger
+Artist: My Little Pony G5
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.73,0:00:05.66,DEFAULT,,0,0,0,,{\kf27}Now{\kf14} is{\kf14} not{\kf14} the{\kf23} time{\kf14} to{\kf14} be{\kf23} com{\kf20}pla{\kf27}cent!
-Dialogue: 0,0:00:06.45,0:00:07.98,DEFAULT,,0,0,0,,{\kf20}We{\kf20} should{\kf20} do{\kf17} some{\kf27}thing!
-Dialogue: 0,0:00:08.53,0:00:10.33,DEFAULT,,0,0,0,,{\kf10}Some{\kf10}thing{\kf14} is{\kf23} lurk{\kf17}ing,{\kf10} some{\kf10}thing{\kf14} is{\kf27} near
-Dialogue: 0,0:00:10.65,0:00:12.51,DEFAULT,,0,0,0,,{\kf10}Some{\kf10}thing{\kf14} is{\kf20} feel{\kf14}ing{\kf17} stran{\kf17}ger,{\kf17} stran{\kf14}ger
-Dialogue: 0,0:00:12.68,0:00:14.50,DEFAULT,,0,0,0,,{\kf10}Stir{\kf10}ring{\kf10} up{\kf17} dis{\kf14}cord,{\kf14} whip{\kf10}ping{\kf14} up{\kf27} fear
-Dialogue: 0,0:00:14.76,0:00:16.72,DEFAULT,,0,0,0,,{\kf14}Whis{\kf10}per{\kf14}ing{\kf17} sof{\kf17}tly,{\kf17} "dan{\kf17}ger,{\kf17} dan{\kf14}ger!"
-Dialogue: 0,0:00:16.85,0:00:18.71,DEFAULT,,0,0,0,,{\kf17}Out{\kf17}si{\kf14}ders{\kf14} creep{\kf14} up{\kf10} slow{\kf10} and{\kf10} stea{\kf14}dy
-Dialogue: 0,0:00:18.94,0:00:20.83,DEFAULT,,0,0,0,,{\kf27}Wings{\kf17} glis{\kf10}ten{\kf14}ing,{\kf17} horns{\kf10} at{\kf10} the{\kf10} rea{\kf20}dy
-Dialogue: 0,0:00:21.02,0:00:23.70,DEFAULT,,0,0,0,,{\kf27}Think{\kf17} what{\kf14} they{\kf17} could{\kf23} do{\kf10} to{\kf10} the{\kf17} sta{\kf14}tus{\kf17} quo{\kf10}~{\kf27}~
-Dialogue: 0,0:00:23.86,0:00:25.03,DEFAULT,,0,0,0,,{\kf14}Oh{\kf17} no{\kf10}~{\kf56}~!
-Dialogue: 0,0:00:25.26,0:00:27.02,DEFAULT,,0,0,0,,{\kf23}They're{\kf14} gon{\kf10}na{\kf17} steal,{\kf14} plun{\kf10}der{\kf10} and{\kf10} pil{\kf14}lage
-Dialogue: 0,0:00:27.28,0:00:29.05,DEFAULT,,0,0,0,,{\kf27}They're{\kf17} gon{\kf10}na{\kf17} take{\kf14} o{\kf10}ver{\kf10} the{\kf10} vil{\kf10}lage
-Dialogue: 0,0:00:29.18,0:00:31.03,DEFAULT,,0,0,0,,{\kf10}Don't{\kf14} just{\kf10} sit{\kf10} on{\kf14} your{\kf14} butts{\kf10} and{\kf10} do{\kf10} no{\kf10}thing{\kf10} and{\kf14} wait
-Dialogue: 0,0:00:31.23,0:00:34.75,DEFAULT,,0,0,0,,{\kf17}Let's{\kf14} en{\kf10}ter{\kf14} a{\kf20} blind{\kf10} ir{\kf10}ra{\kf14}tio{\kf14}nal{\kf167} state
-Dialogue: 0,0:00:35.66,0:00:37.52,DEFAULT,,0,0,0,,{\kf10}Bet{\kf10}ter{\kf14} get{\kf17} ner{\kf17}vous,{\kf10} bet{\kf14}ter{\kf14} get{\kf30} tense
-Dialogue: 0,0:00:37.78,0:00:39.68,DEFAULT,,0,0,0,,{\kf10}Bet{\kf14}ter{\kf14} not{\kf14} let{\kf17} them{\kf17} catch{\kf17} you{\kf17} blink{\kf14}ing
-Dialogue: 0,0:00:39.81,0:00:41.60,DEFAULT,,0,0,0,,{\kf10}You{\kf10} don't{\kf10} need{\kf10} a{\kf10} rea{\kf17}son,{\kf10} fil{\kf10}lies{\kf14} and{\kf20} gents
-Dialogue: 0,0:00:41.96,0:00:43.88,DEFAULT,,0,0,0,,{\kf10}This{\kf10} is{\kf14} no{\kf14} time{\kf17} for{\kf17} so{\kf17}ber{\kf14} think{\kf14}ing
-Dialogue: 0,0:00:44.01,0:00:44.86,DEFAULT,,0,0,0,,{\kf40}Mob!{\kf30} Mob?
-Dialogue: 0,0:00:45.02,0:00:45.87,DEFAULT,,0,0,0,,{\kf10}M-{\kf10}M-{\kf20}Mob{\kf30} mob!
-Dialogue: 0,0:00:46.07,0:00:46.98,DEFAULT,,0,0,0,,{\kf30}Mob?{\kf40} Mob?
-Dialogue: 0,0:00:47.11,0:00:48.06,DEFAULT,,0,0,0,,{\kf17}An{\kf17}gry{\kf17} an{\kf17}gry!
-Dialogue: 0,0:00:48.19,0:00:50.08,DEFAULT,,0,0,0,,{\kf33}Mob,{\kf36} mob,{\kf10} m-{\kf10}m-{\kf14}mob,{\kf33} mob!
-Dialogue: 0,0:00:50.27,0:00:52.23,DEFAULT,,0,0,0,,{\kf30}Mob,{\kf40} mob,{\kf17} an{\kf17}gry{\kf17} an{\kf14}gry!
-Dialogue: 0,0:00:52.36,0:00:54.06,DEFAULT,,0,0,0,,{\kf10}Shar{\kf10}pen{\kf14} your{\kf17} sen{\kf17}ses,{\kf14} shar{\kf10}pen{\kf10} your{\kf17} tongues
-Dialogue: 0,0:00:54.45,0:00:56.44,DEFAULT,,0,0,0,,{\kf14}Shar{\kf10}pen{\kf14} your{\kf17} mo{\kf17}ral{\kf17} in{\kf14}di{\kf17}gna{\kf17}tion
-Dialogue: 0,0:00:56.57,0:00:58.30,DEFAULT,,0,0,0,,{\kf10}Ga{\kf10}ther{\kf14} in{\kf17} groups{\kf14} and{\kf10} rea{\kf10}dy{\kf17} your{\kf20} lungs
-Dialogue: 0,0:00:58.65,0:01:00.64,DEFAULT,,0,0,0,,{\kf10}Hol{\kf10}ler{\kf14} with{\kf17} pent-{\kf17}up{\kf17} ag{\kf17}gra{\kf20}va{\kf17}tion
-Dialogue: 0,0:01:00.77,0:01:02.60,DEFAULT,,0,0,0,,{\kf33}Mob,{\kf40} mob,{\kf10} m-{\kf10}m-{\kf14}mob,{\kf33} mob!
-Dialogue: 0,0:01:02.80,0:01:04.78,DEFAULT,,0,0,0,,{\kf36}Mob,{\kf36} mob,{\kf17} an{\kf17}gry{\kf17} an{\kf17}gry!
-Dialogue: 0,0:01:04.91,0:01:06.74,DEFAULT,,0,0,0,,{\kf33}Mob,{\kf36} mob,{\kf10} m-{\kf10}m-{\kf10}mob,{\kf30} mob!
-Dialogue: 0,0:01:06.97,0:01:08.96,DEFAULT,,0,0,0,,{\kf36}Mob,{\kf36} mob,{\kf17} an{\kf17}gry{\kf17} an{\kf17}gry!
-Dialogue: 0,0:01:09.12,0:01:09.55,DEFAULT,,0,0,0,,{\kf43}Fight
-Dialogue: 0,0:01:10.13,0:01:11.27,DEFAULT,,0,0,0,,{\kf14}See{\kf10} in{\kf14} black{\kf10} and{\kf33} white
-Dialogue: 0,0:01:12.15,0:01:13.39,DEFAULT,,0,0,0,,{\kf17}That's{\kf20} your{\kf10} po{\kf10}ny{\kf30} right
-Dialogue: 0,0:01:14.34,0:01:16.88,DEFAULT,,0,0,0,,{\kf17}Time{\kf10} to{\kf10} lift{\kf14} your{\kf56} manes{\kf17} and{\kf27} proud{\kf36}ly
-Dialogue: 0,0:01:17.31,0:01:17.96,DEFAULT,,0,0,0,,{\kf66}Throng
-Dialogue: 0,0:01:18.45,0:01:19.91,DEFAULT,,0,0,0,,{\kf14}Num{\kf14}bers{\kf14} make{\kf14} you{\kf59} strong
-Dialogue: 0,0:01:20.53,0:01:21.97,DEFAULT,,0,0,0,,{\kf14}Mil{\kf17}lions{\kf14} can't{\kf10} be{\kf59} wrong
-Dialogue: 0,0:01:22.62,0:01:25.33,DEFAULT,,0,0,0,,{\kf14}Espe{\kf14}cially{\kf14} when{\kf17} they're{\kf59} scream{\kf20}ing{\kf23} loud{\kf53}ly
-Dialogue: 0,0:01:25.72,0:01:29.40,DEFAULT,,0,0,0,,{\kf27}You{\kf27} might{\kf17} not{\kf46} have{\kf14}~{\kf14} a{\kf23} bale{\kf14} of{\kf20} hay{\kf10} to{\kf17} bor{\kf56}row
-Dialogue: 0,0:01:29.66,0:01:31.49,DEFAULT,,0,0,0,,{\kf10}Are{\kf14} you{\kf14} sad{\kf10}dled{\kf10} with{\kf14} your{\kf17} sor{\kf49}row?
-Dialogue: 0,0:01:31.69,0:01:33.51,DEFAULT,,0,0,0,,{\kf14}Are{\kf14} you{\kf14} scared{\kf10} a{\kf14}bout{\kf10} to{\kf14}mor{\kf46}row?
-Dialogue: 0,0:01:33.74,0:01:37.36,DEFAULT,,0,0,0,,{\kf14}Well{\kf14} it's{\kf30} all{\kf20} gon{\kf14}na{\kf23} work{\kf30} out{\kf53} pain{\kf17}less{\kf62}ly
-Dialogue: 0,0:01:37.95,0:01:41.99,DEFAULT,,0,0,0,,{\kf14}If{\kf17} you{\kf17} fol{\kf17}low{\kf20} my{\kf30} or{\kf27}ders{\kf30} brain{\kf23}less{\kf124}ly
-Dialogue: 0,0:01:42.35,0:01:43.16,DEFAULT,,0,0,0,,{\kf10}Who{\kf14} are{\kf43} we?
-Dialogue: 0,0:01:43.30,0:01:44.24,DEFAULT,,0,0,0,,{\kf10}We're{\kf10} an{\kf10} an{\kf10}gry{\kf30} mob!
-Dialogue: 0,0:01:44.53,0:01:45.15,DEFAULT,,0,0,0,,{\kf10}What{\kf14} are{\kf23} we?
-Dialogue: 0,0:01:45.38,0:01:46.26,DEFAULT,,0,0,0,,{\kf10}We're{\kf10} an{\kf10} an{\kf10}gry{\kf27} mob!
-Dialogue: 0,0:01:46.65,0:01:47.47,DEFAULT,,0,0,0,,{\kf10}Look{\kf10} at{\kf10} this{\kf33} corn!
-Dialogue: 0,0:01:47.63,0:01:48.48,DEFAULT,,0,0,0,,{\kf10}It's{\kf14} on{\kf14} the{\kf33} cob!
-Dialogue: 0,0:01:48.68,0:01:49.49,DEFAULT,,0,0,0,,{\kf10}Look{\kf10} at{\kf10} that{\kf27} guy!
-Dialogue: 0,0:01:49.65,0:01:50.57,DEFAULT,,0,0,0,,{\kf14}Uh,{\kf10} my{\kf14} name's{\kf33} Rob.
-Dialogue: 0,0:01:50.76,0:01:52.75,DEFAULT,,0,0,0,,{\kf36}Mob,{\kf33} mob,{\kf10} m-{\kf10}m-{\kf14}mob,{\kf40} mob!
-Dialogue: 0,0:01:52.88,0:01:54.87,DEFAULT,,0,0,0,,{\kf36}Mob,{\kf36} mob,{\kf17} an{\kf17}gry{\kf17} an{\kf14}gry!
-Dialogue: 0,0:01:55.00,0:01:56.89,DEFAULT,,0,0,0,,{\kf33}Mob,{\kf33} mob,{\kf10} m-{\kf14}m-{\kf14}mob,{\kf33} mob!
-Dialogue: 0,0:01:57.06,0:01:59.05,DEFAULT,,0,0,0,,{\kf33}Mob,{\kf33} mob,{\kf17} an{\kf17}gry{\kf17} an{\kf17}gry!
-Dialogue: 0,0:01:59.63,0:02:03.51,DEFAULT,,0,0,0,,{\kf20}M-{\kf56}mob,{\kf17} m-{\kf14}mob{\kf20}~,{\kf17} m-{\kf23}mob{\kf36}~,{\kf14} m-{\kf23}mob{\kf23}~
-Dialogue: 0,0:02:03.84,0:02:06.28,DEFAULT,,0,0,0,,{\kf17}M-{\kf69}mob,{\kf17} m-{\kf62}mob,{\kf36} mob
-Dialogue: 0,0:02:06.45,0:02:08.08,DEFAULT,,0,0,0,,{\kf20}An{\kf17}gry{\kf20} an{\kf17}gry{\kf59} mob!
+Dialogue: 0,0:00:02.73,0:00:05.67,DEFAULT,,0,0,0,,{\r}{\kf42}Now{\kf21} is{\kf21} not{\kf21} the{\kf37} time{\kf21} to{\kf21} be{\kf37} com{\kf31}pla{\kf41}cent!
+Dialogue: 0,0:00:06.45,0:00:07.99,DEFAULT,,0,0,0,,{\r}{\kf30}We{\kf30} should{\kf30} do{\kf25} some{\kf38}thing!
+Dialogue: 0,0:00:08.54,0:00:10.33,DEFAULT,,0,0,0,,{\r}{\kf13}Some{\kf13}thing{\kf18} is{\kf31} lurk{\kf22}ing,{\kf13} some{\kf13}thing{\kf18} is{\kf38} near
+Dialogue: 0,0:00:10.66,0:00:12.52,DEFAULT,,0,0,0,,{\r}{\kf14}Some{\kf14}thing{\kf19} is{\kf29} feel{\kf19}ing{\kf24} stran{\kf24}ger,{\kf24} stran{\kf19}ger
+Dialogue: 0,0:00:12.68,0:00:14.51,DEFAULT,,0,0,0,,{\r}{\kf15}Stir{\kf15}ring{\kf15} up{\kf25} dis{\kf20}cord,{\kf20} whip{\kf15}ping{\kf20} up{\kf38} fear
+Dialogue: 0,0:00:14.77,0:00:16.72,DEFAULT,,0,0,0,,{\r}{\kf20}Whis{\kf15}per{\kf20}ing{\kf24} sof{\kf24}tly,{\kf24} "dan{\kf24}ger,{\kf24} dan{\kf21}ger!"
+Dialogue: 0,0:00:16.85,0:00:18.71,DEFAULT,,0,0,0,,{\r}{\kf27}Out{\kf27}si{\kf21}ders{\kf21} creep{\kf21} up{\kf16} slow{\kf16} and{\kf16} stea{\kf21}dy
+Dialogue: 0,0:00:18.94,0:00:20.83,DEFAULT,,0,0,0,,{\r}{\kf38}Wings{\kf24} glis{\kf14}ten{\kf19}ing,{\kf24} horns{\kf14} at{\kf14} the{\kf14} rea{\kf28}dy
+Dialogue: 0,0:00:21.03,0:00:23.70,DEFAULT,,0,0,0,,{\r}{\kf36}Think{\kf22} what{\kf18} they{\kf22} could{\kf31} do{\kf13} to{\kf13} the{\kf22} sta{\kf18}tus{\kf22} quo{\kf13}~{\kf37}~
+Dialogue: 0,0:00:23.87,0:00:25.04,DEFAULT,,0,0,0,,{\r}{\kf16}Oh{\kf20} no{\kf12}~{\kf69}~!
+Dialogue: 0,0:00:25.27,0:00:27.03,DEFAULT,,0,0,0,,{\r}{\kf34}They're{\kf20} gon{\kf15}na{\kf24} steal,{\kf20} plun{\kf15}der{\kf15} and{\kf15} pil{\kf18}lage
+Dialogue: 0,0:00:27.29,0:00:29.05,DEFAULT,,0,0,0,,{\r}{\kf38}They're{\kf24} gon{\kf14}na{\kf24} take{\kf19} o{\kf14}ver{\kf14} the{\kf14} vil{\kf15}lage
+Dialogue: 0,0:00:29.18,0:00:31.04,DEFAULT,,0,0,0,,{\r}{\kf14}Don't{\kf19} just{\kf14} sit{\kf14} on{\kf19} your{\kf19} butts{\kf14} and{\kf14} do{\kf14} no{\kf14}thing{\kf14} and{\kf17} wait
+Dialogue: 0,0:00:31.23,0:00:34.76,DEFAULT,,0,0,0,,{\r}{\kf20}Let's{\kf16} en{\kf12}ter{\kf16} a{\kf24} blind{\kf12} ir{\kf12}ra{\kf16}tio{\kf16}nal{\kf208} state
+Dialogue: 0,0:00:35.67,0:00:37.53,DEFAULT,,0,0,0,,{\r}{\kf14}Bet{\kf14}ter{\kf19} get{\kf23} ner{\kf23}vous,{\kf14} bet{\kf19}ter{\kf19} get{\kf41} tense
+Dialogue: 0,0:00:37.79,0:00:39.68,DEFAULT,,0,0,0,,{\r}{\kf15}Bet{\kf19}ter{\kf19} not{\kf19} let{\kf24} them{\kf24} catch{\kf24} you{\kf24} blink{\kf21}ing
+Dialogue: 0,0:00:39.81,0:00:41.60,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf15} don't{\kf15} need{\kf15} a{\kf15} rea{\kf25}son,{\kf15} fil{\kf15}lies{\kf20} and{\kf29} gents
+Dialogue: 0,0:00:41.96,0:00:43.89,DEFAULT,,0,0,0,,{\r}{\kf16}This{\kf16} is{\kf21} no{\kf21} time{\kf26} for{\kf26} so{\kf26}ber{\kf21} think{\kf19}ing
+Dialogue: 0,0:00:44.02,0:00:44.87,DEFAULT,,0,0,0,,{\r}{\kf49}Mob!{\kf36} Mob?
+Dialogue: 0,0:00:45.03,0:00:45.88,DEFAULT,,0,0,0,,{\r}{\kf12}M-{\kf12}M-{\kf24}Mob{\kf37} mob!
+Dialogue: 0,0:00:46.07,0:00:46.98,DEFAULT,,0,0,0,,{\r}{\kf39}Mob?{\kf52} Mob?
+Dialogue: 0,0:00:47.12,0:00:48.06,DEFAULT,,0,0,0,,{\r}{\kf24}An{\kf24}gry{\kf24} an{\kf23}gry!
+Dialogue: 0,0:00:48.19,0:00:50.08,DEFAULT,,0,0,0,,{\r}{\kf46}Mob,{\kf51} mob,{\kf14} m-{\kf14}m-{\kf18}mob,{\kf46} mob!
+Dialogue: 0,0:00:50.28,0:00:52.23,DEFAULT,,0,0,0,,{\r}{\kf44}Mob,{\kf59} mob,{\kf24} an{\kf24}gry{\kf24} an{\kf21}gry!
+Dialogue: 0,0:00:52.37,0:00:54.06,DEFAULT,,0,0,0,,{\r}{\kf15}Shar{\kf15}pen{\kf19} your{\kf24} sen{\kf24}ses,{\kf19} shar{\kf15}pen{\kf15} your{\kf24} tongues
+Dialogue: 0,0:00:54.45,0:00:56.44,DEFAULT,,0,0,0,,{\r}{\kf20}Shar{\kf15}pen{\kf20} your{\kf25} mo{\kf25}ral{\kf25} in{\kf20}di{\kf25}gna{\kf24}tion
+Dialogue: 0,0:00:56.57,0:00:58.30,DEFAULT,,0,0,0,,{\r}{\kf14}Ga{\kf14}ther{\kf19} in{\kf24} groups{\kf19} and{\kf14} rea{\kf14}dy{\kf24} your{\kf31} lungs
+Dialogue: 0,0:00:58.66,0:01:00.65,DEFAULT,,0,0,0,,{\r}{\kf15}Hol{\kf15}ler{\kf19} with{\kf24} pent-{\kf24}up{\kf24} ag{\kf24}gra{\kf29}va{\kf25}tion
+Dialogue: 0,0:01:00.78,0:01:02.60,DEFAULT,,0,0,0,,{\r}{\kf44}Mob,{\kf52} mob,{\kf13} m-{\kf13}m-{\kf17}mob,{\kf44} mob!
+Dialogue: 0,0:01:02.80,0:01:04.79,DEFAULT,,0,0,0,,{\r}{\kf52}Mob,{\kf52} mob,{\kf24} an{\kf24}gry{\kf24} an{\kf23}gry!
+Dialogue: 0,0:01:04.92,0:01:06.75,DEFAULT,,0,0,0,,{\r}{\kf47}Mob,{\kf52} mob,{\kf14} m-{\kf14}m-{\kf14}mob,{\kf42} mob!
+Dialogue: 0,0:01:06.97,0:01:08.96,DEFAULT,,0,0,0,,{\r}{\kf52}Mob,{\kf52} mob,{\kf24} an{\kf24}gry{\kf24} an{\kf23}gry!
+Dialogue: 0,0:01:09.13,0:01:09.55,DEFAULT,,0,0,0,,{\r}{\kf42}Fight
+Dialogue: 0,0:01:10.14,0:01:11.28,DEFAULT,,0,0,0,,{\r}{\kf19}See{\kf14} in{\kf19} black{\kf14} and{\kf48} white
+Dialogue: 0,0:01:12.16,0:01:13.40,DEFAULT,,0,0,0,,{\r}{\kf24}That's{\kf29} your{\kf14} po{\kf14}ny{\kf43} right
+Dialogue: 0,0:01:14.34,0:01:16.89,DEFAULT,,0,0,0,,{\r}{\kf23}Time{\kf14} to{\kf14} lift{\kf18} your{\kf77} manes{\kf23} and{\kf36} proud{\kf49}ly
+Dialogue: 0,0:01:17.31,0:01:17.96,DEFAULT,,0,0,0,,{\r}{\kf65}Throng
+Dialogue: 0,0:01:18.45,0:01:19.92,DEFAULT,,0,0,0,,{\r}{\kf17}Num{\kf17}bers{\kf17} make{\kf17} you{\kf79} strong
+Dialogue: 0,0:01:20.54,0:01:21.97,DEFAULT,,0,0,0,,{\r}{\kf17}Mil{\kf21}lions{\kf17} can't{\kf13} be{\kf75} wrong
+Dialogue: 0,0:01:22.63,0:01:25.33,DEFAULT,,0,0,0,,{\r}{\kf17}Espe{\kf17}cially{\kf17} when{\kf21} they're{\kf76} scream{\kf25}ing{\kf30} loud{\kf68}ly
+Dialogue: 0,0:01:25.72,0:01:29.41,DEFAULT,,0,0,0,,{\r}{\kf35}You{\kf35} might{\kf22} not{\kf61} have{\kf17}~{\kf17} a{\kf30} bale{\kf17} of{\kf26} hay{\kf13} to{\kf22} bor{\kf73}row
+Dialogue: 0,0:01:29.67,0:01:31.50,DEFAULT,,0,0,0,,{\r}{\kf13}Are{\kf18} you{\kf18} sad{\kf13}dled{\kf13} with{\kf18} your{\kf22} sor{\kf68}row?
+Dialogue: 0,0:01:31.69,0:01:33.52,DEFAULT,,0,0,0,,{\r}{\kf18}Are{\kf18} you{\kf18} scared{\kf14} a{\kf18}bout{\kf14} to{\kf18}mor{\kf65}row?
+Dialogue: 0,0:01:33.75,0:01:37.37,DEFAULT,,0,0,0,,{\r}{\kf17}Well{\kf17} it's{\kf39} all{\kf26} gon{\kf17}na{\kf31} work{\kf39} out{\kf70} pain{\kf22}less{\kf84}ly
+Dialogue: 0,0:01:37.95,0:01:42.00,DEFAULT,,0,0,0,,{\r}{\kf17}If{\kf21} you{\kf21} fol{\kf21}low{\kf25} my{\kf38} or{\kf34}ders{\kf38} brain{\kf29}less{\kf160}ly
+Dialogue: 0,0:01:42.35,0:01:43.17,DEFAULT,,0,0,0,,{\r}{\kf12}Who{\kf16} are{\kf54} we?
+Dialogue: 0,0:01:43.30,0:01:44.25,DEFAULT,,0,0,0,,{\r}{\kf14}We're{\kf14} an{\kf14} an{\kf14}gry{\kf39} mob!
+Dialogue: 0,0:01:44.54,0:01:45.16,DEFAULT,,0,0,0,,{\r}{\kf13}What{\kf18} are{\kf31} we?
+Dialogue: 0,0:01:45.39,0:01:46.27,DEFAULT,,0,0,0,,{\r}{\kf13}We're{\kf13} an{\kf13} an{\kf13}gry{\kf36} mob!
+Dialogue: 0,0:01:46.66,0:01:47.47,DEFAULT,,0,0,0,,{\r}{\kf13}Look{\kf13} at{\kf13} this{\kf43} corn!
+Dialogue: 0,0:01:47.64,0:01:48.48,DEFAULT,,0,0,0,,{\r}{\kf12}It's{\kf16} on{\kf16} the{\kf41} cob!
+Dialogue: 0,0:01:48.68,0:01:49.50,DEFAULT,,0,0,0,,{\r}{\kf14}Look{\kf14} at{\kf14} that{\kf40} guy!
+Dialogue: 0,0:01:49.66,0:01:50.57,DEFAULT,,0,0,0,,{\r}{\kf17}Uh,{\kf13} my{\kf17} name's{\kf44} Rob.
+Dialogue: 0,0:01:50.77,0:01:52.76,DEFAULT,,0,0,0,,{\r}{\kf51}Mob,{\kf46} mob,{\kf14} m-{\kf14}m-{\kf19}mob,{\kf55} mob!
+Dialogue: 0,0:01:52.89,0:01:54.88,DEFAULT,,0,0,0,,{\r}{\kf53}Mob,{\kf53} mob,{\kf24} an{\kf24}gry{\kf24} an{\kf21}gry!
+Dialogue: 0,0:01:55.01,0:01:56.90,DEFAULT,,0,0,0,,{\r}{\kf46}Mob,{\kf46} mob,{\kf14} m-{\kf18}m-{\kf18}mob,{\kf47} mob!
+Dialogue: 0,0:01:57.06,0:01:59.05,DEFAULT,,0,0,0,,{\r}{\kf50}Mob,{\kf50} mob,{\kf25} an{\kf25}gry{\kf25} an{\kf24}gry!
+Dialogue: 0,0:01:59.64,0:02:03.52,DEFAULT,,0,0,0,,{\r}{\kf29}M-{\kf83}mob,{\kf25} m-{\kf20}mob{\kf29}~,{\kf25} m-{\kf34}mob{\kf54}~,{\kf20} m-{\kf34}mob{\kf35}~
+Dialogue: 0,0:02:03.84,0:02:06.29,DEFAULT,,0,0,0,,{\r}{\kf20}M-{\kf84}mob,{\kf20} m-{\kf76}mob,{\kf45} mob
+Dialogue: 0,0:02:06.45,0:02:08.08,DEFAULT,,0,0,0,,{\r}{\kf24}An{\kf20}gry{\kf24} an{\kf20}gry{\kf75} mob!

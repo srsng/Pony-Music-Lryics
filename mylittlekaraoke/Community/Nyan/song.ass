@@ -1,38 +1,45 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Nyan Nyan
+Artist: Derpy Hooves
+Original Timing: mylittlekaraoke.com
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.49,0:00:02.07,DEFAULT,,0,0,0,,{\kf33}Nyan{\kf33} nyan{\kf33} nyan{\kf28} nyan
-Dialogue: 0,0:00:02.23,0:00:03.43,DEFAULT,,0,0,0,,{\kf33}Nii{\kf22} ha{\kf17}o{\kf39} nyan
-Dialogue: 0,0:00:03.98,0:00:07.03,DEFAULT,,0,0,0,,{\kf39}Gor{\kf22}geous{\kf17}~{\kf22} de{\kf22}li{\kf22}cious{\kf17}~{\kf22} de{\kf22}cul{\kf22}~{\kf22}ture{\kf50}~
-Dialogue: 0,0:00:07.47,0:00:09.05,DEFAULT,,0,0,0,,{\kf33}Nyan{\kf33} nyan{\kf33} nyan{\kf28} nyan
-Dialogue: 0,0:00:09.21,0:00:10.41,DEFAULT,,0,0,0,,{\kf33}Nii{\kf22} ha{\kf17}o{\kf39} nyan
-Dialogue: 0,0:00:10.96,0:00:14.01,DEFAULT,,0,0,0,,{\kf39}Goo{\kf22}ja{\kf17}su{\kf22} de{\kf22}ri{\kf22}sha{\kf17}su{\kf22} de{\kf22}ka{\kf22}ru{\kf22}cha{\kf50}a
-Dialogue: 0,0:00:14.40,0:00:15.98,DEFAULT,,0,0,0,,{\kf33}Nyan{\kf33} nyan{\kf33} nyan{\kf28} nyan
-Dialogue: 0,0:00:16.14,0:00:17.34,DEFAULT,,0,0,0,,{\kf33}Nii{\kf22} ha{\kf17}o{\kf39} nyan
-Dialogue: 0,0:00:17.89,0:00:20.94,DEFAULT,,0,0,0,,{\kf39}Goo{\kf22}ja{\kf17}su{\kf22} de{\kf22}ri{\kf22}sha{\kf17}su{\kf22} de{\kf22}ka{\kf22}ru{\kf22}cha{\kf50}a
-Dialogue: 0,0:00:21.38,0:00:22.96,DEFAULT,,0,0,0,,{\kf33}Nyan{\kf33} nyan{\kf33} nyan{\kf28} nyan
-Dialogue: 0,0:00:23.12,0:00:24.32,DEFAULT,,0,0,0,,{\kf33}Nii{\kf22} ha{\kf17}o{\kf39} nyan
-Dialogue: 0,0:00:24.87,0:00:27.92,DEFAULT,,0,0,0,,{\kf39}Goo{\kf22}ja{\kf17}su{\kf22} de{\kf22}ri{\kf22}sha{\kf17}su{\kf22} de{\kf22}ka{\kf22}ru{\kf22}cha{\kf50}a
-Dialogue: 0,0:00:28.36,0:00:29.94,DEFAULT,,0,0,0,,{\kf33}Nyan{\kf33} nyan{\kf33} nyan{\kf28} nyan
-Dialogue: 0,0:00:30.11,0:00:31.31,DEFAULT,,0,0,0,,{\kf33}Nii{\kf22} ha{\kf17}o{\kf39} nyan
-Dialogue: 0,0:00:31.85,0:00:34.91,DEFAULT,,0,0,0,,{\kf39}Goo{\kf22}ja{\kf17}su{\kf22} de{\kf22}ri{\kf22}sha{\kf17}su{\kf22} de{\kf22}ka{\kf22}ru{\kf22}cha{\kf50}a
-Dialogue: 0,0:00:56.18,0:00:57.76,DEFAULT,,0,0,0,,{\kf33}Nyan{\kf33} nyan{\kf33} nyan{\kf28} nyan
-Dialogue: 0,0:00:57.92,0:00:59.12,DEFAULT,,0,0,0,,{\kf33}Nii{\kf22} ha{\kf17}o{\kf39} nyan
-Dialogue: 0,0:00:59.67,0:01:02.72,DEFAULT,,0,0,0,,{\kf39}Goo{\kf22}ja{\kf17}su{\kf22} de{\kf22}ri{\kf22}sha{\kf17}su{\kf22} de{\kf22}ka{\kf22}ru{\kf22}cha{\kf50}a
-Dialogue: 0,0:01:03.11,0:01:04.69,DEFAULT,,0,0,0,,{\kf33}Nyan{\kf33} nyan{\kf33} nyan{\kf28} nyan
-Dialogue: 0,0:01:04.85,0:01:06.05,DEFAULT,,0,0,0,,{\kf33}Nii{\kf22} ha{\kf17}o{\kf39} nyan
-Dialogue: 0,0:01:06.60,0:01:09.65,DEFAULT,,0,0,0,,{\kf39}Goo{\kf22}ja{\kf17}su{\kf22} de{\kf22}ri{\kf22}sha{\kf17}su{\kf22} de{\kf22}ka{\kf22}ru{\kf22}cha{\kf50}a
-Dialogue: 0,0:01:10.09,0:01:11.67,DEFAULT,,0,0,0,,{\kf33}Nyan{\kf33} nyan{\kf33} nyan{\kf28} nyan
-Dialogue: 0,0:01:11.83,0:01:13.03,DEFAULT,,0,0,0,,{\kf33}Nii{\kf22} ha{\kf17}o{\kf39} nyan
-Dialogue: 0,0:01:13.58,0:01:16.63,DEFAULT,,0,0,0,,{\kf39}Goo{\kf22}ja{\kf17}su{\kf22} de{\kf22}ri{\kf22}sha{\kf17}su{\kf22} de{\kf22}ka{\kf22}ru{\kf22}cha{\kf50}a
-Dialogue: 0,0:01:17.01,0:01:18.60,DEFAULT,,0,0,0,,{\kf33}Nyan{\kf33} nyan{\kf33} nyan{\kf28} nyan
-Dialogue: 0,0:01:18.76,0:01:19.96,DEFAULT,,0,0,0,,{\kf33}Nii{\kf22} ha{\kf17}o{\kf39} nyan
-Dialogue: 0,0:01:20.51,0:01:23.56,DEFAULT,,0,0,0,,{\kf39}Goo{\kf22}ja{\kf17}su{\kf22} de{\kf22}ri{\kf22}sha{\kf17}su{\kf22} de{\kf22}ka{\kf22}ru{\kf22}cha{\kf50}a
+Dialogue: 0,0:00:00.49,0:00:02.07,DEFAULT,,0,0,0,,{\r}{\kf41}Nyan{\kf41} nyan{\kf41} nyan{\kf35} nyan
+Dialogue: 0,0:00:02.24,0:00:03.44,DEFAULT,,0,0,0,,{\r}{\kf36}Nii{\kf24} ha{\kf18}o{\kf42} nyan
+Dialogue: 0,0:00:03.98,0:00:07.04,DEFAULT,,0,0,0,,{\r}{\kf40}Gor{\kf23}geous{\kf17}~{\kf23} de{\kf23}li{\kf23}cious{\kf17}~{\kf23} de{\kf23}cul{\kf23}~{\kf23}ture{\kf47}~
+Dialogue: 0,0:00:07.47,0:00:09.06,DEFAULT,,0,0,0,,{\r}{\kf41}Nyan{\kf41} nyan{\kf41} nyan{\kf35} nyan
+Dialogue: 0,0:00:09.22,0:00:10.42,DEFAULT,,0,0,0,,{\r}{\kf36}Nii{\kf24} ha{\kf18}o{\kf42} nyan
+Dialogue: 0,0:00:10.96,0:00:14.02,DEFAULT,,0,0,0,,{\r}{\kf40}Goo{\kf23}ja{\kf17}su{\kf23} de{\kf23}ri{\kf23}sha{\kf17}su{\kf23} de{\kf23}ka{\kf23}ru{\kf23}cha{\kf47}a
+Dialogue: 0,0:00:14.40,0:00:15.98,DEFAULT,,0,0,0,,{\r}{\kf41}Nyan{\kf41} nyan{\kf41} nyan{\kf35} nyan
+Dialogue: 0,0:00:16.15,0:00:17.35,DEFAULT,,0,0,0,,{\r}{\kf36}Nii{\kf24} ha{\kf18}o{\kf42} nyan
+Dialogue: 0,0:00:17.89,0:00:20.95,DEFAULT,,0,0,0,,{\r}{\kf40}Goo{\kf23}ja{\kf17}su{\kf23} de{\kf23}ri{\kf23}sha{\kf17}su{\kf23} de{\kf23}ka{\kf23}ru{\kf23}cha{\kf47}a
+Dialogue: 0,0:00:21.38,0:00:22.96,DEFAULT,,0,0,0,,{\r}{\kf41}Nyan{\kf41} nyan{\kf41} nyan{\kf35} nyan
+Dialogue: 0,0:00:23.13,0:00:24.33,DEFAULT,,0,0,0,,{\r}{\kf36}Nii{\kf24} ha{\kf18}o{\kf42} nyan
+Dialogue: 0,0:00:24.87,0:00:27.93,DEFAULT,,0,0,0,,{\r}{\kf40}Goo{\kf23}ja{\kf17}su{\kf23} de{\kf23}ri{\kf23}sha{\kf17}su{\kf23} de{\kf23}ka{\kf23}ru{\kf23}cha{\kf47}a
+Dialogue: 0,0:00:28.36,0:00:29.95,DEFAULT,,0,0,0,,{\r}{\kf41}Nyan{\kf41} nyan{\kf41} nyan{\kf35} nyan
+Dialogue: 0,0:00:30.11,0:00:31.31,DEFAULT,,0,0,0,,{\r}{\kf36}Nii{\kf24} ha{\kf18}o{\kf42} nyan
+Dialogue: 0,0:00:31.86,0:00:34.91,DEFAULT,,0,0,0,,{\r}{\kf40}Goo{\kf23}ja{\kf17}su{\kf23} de{\kf23}ri{\kf23}sha{\kf17}su{\kf23} de{\kf23}ka{\kf23}ru{\kf23}cha{\kf47}a
+Dialogue: 0,0:00:56.18,0:00:57.76,DEFAULT,,0,0,0,,{\r}{\kf41}Nyan{\kf41} nyan{\kf41} nyan{\kf35} nyan
+Dialogue: 0,0:00:57.93,0:00:59.13,DEFAULT,,0,0,0,,{\r}{\kf36}Nii{\kf24} ha{\kf18}o{\kf42} nyan
+Dialogue: 0,0:00:59.67,0:01:02.73,DEFAULT,,0,0,0,,{\r}{\kf40}Goo{\kf23}ja{\kf17}su{\kf23} de{\kf23}ri{\kf23}sha{\kf17}su{\kf23} de{\kf23}ka{\kf23}ru{\kf23}cha{\kf47}a
+Dialogue: 0,0:01:03.11,0:01:04.69,DEFAULT,,0,0,0,,{\r}{\kf41}Nyan{\kf41} nyan{\kf41} nyan{\kf35} nyan
+Dialogue: 0,0:01:04.86,0:01:06.06,DEFAULT,,0,0,0,,{\r}{\kf36}Nii{\kf24} ha{\kf18}o{\kf42} nyan
+Dialogue: 0,0:01:06.60,0:01:09.66,DEFAULT,,0,0,0,,{\r}{\kf40}Goo{\kf23}ja{\kf17}su{\kf23} de{\kf23}ri{\kf23}sha{\kf17}su{\kf23} de{\kf23}ka{\kf23}ru{\kf23}cha{\kf47}a
+Dialogue: 0,0:01:10.09,0:01:11.67,DEFAULT,,0,0,0,,{\r}{\kf41}Nyan{\kf41} nyan{\kf41} nyan{\kf35} nyan
+Dialogue: 0,0:01:11.84,0:01:13.04,DEFAULT,,0,0,0,,{\r}{\kf36}Nii{\kf24} ha{\kf18}o{\kf42} nyan
+Dialogue: 0,0:01:13.58,0:01:16.64,DEFAULT,,0,0,0,,{\r}{\kf40}Goo{\kf23}ja{\kf17}su{\kf23} de{\kf23}ri{\kf23}sha{\kf17}su{\kf23} de{\kf23}ka{\kf23}ru{\kf23}cha{\kf47}a
+Dialogue: 0,0:01:17.02,0:01:18.60,DEFAULT,,0,0,0,,{\r}{\kf41}Nyan{\kf41} nyan{\kf41} nyan{\kf35} nyan
+Dialogue: 0,0:01:18.76,0:01:19.96,DEFAULT,,0,0,0,,{\r}{\kf36}Nii{\kf24} ha{\kf18}o{\kf42} nyan
+Dialogue: 0,0:01:20.51,0:01:23.56,DEFAULT,,0,0,0,,{\r}{\kf40}Goo{\kf23}ja{\kf17}su{\kf23} de{\kf23}ri{\kf23}sha{\kf17}su{\kf23} de{\kf23}ka{\kf23}ru{\kf23}cha{\kf47}a

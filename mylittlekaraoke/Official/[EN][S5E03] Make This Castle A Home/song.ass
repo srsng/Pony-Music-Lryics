@@ -1,73 +1,80 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Make This Castle A Home
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.46,0:00:13.08,DEFAULT,,0,0,0,,{\kf29}Let's{\kf19} all{\kf41} work{\kf13} to{\kf22}ge{\kf19}-et{\kf116}he{\kf16}-e{\kf38}-er
-Dialogue: 0,0:00:13.27,0:00:16.68,DEFAULT,,0,0,0,,{\kf16}To{\kf25} make{\kf19} this{\kf25} cas{\kf22}tle{\kf69} shi{\kf22}-i{\kf22}-i{\kf60}-ine
-Dialogue: 0,0:00:17.52,0:00:19.86,DEFAULT,,0,0,0,,{\kf22}Once{\kf19} we{\kf29} add{\kf16} some{\kf22} spa{\kf13}-ar{\kf57}kle
-Dialogue: 0,0:00:20.27,0:00:21.08,DEFAULT,,0,0,0,,{\kf25}It{\kf10}'ll{\kf35} feel
-Dialogue: 0,0:00:21.27,0:00:22.08,DEFAULT,,0,0,0,,{\kf25}It{\kf10}'ll{\kf35} feel
-Dialogue: 0,0:00:22.27,0:00:23.08,DEFAULT,,0,0,0,,{\kf25}It{\kf10}'ll{\kf35} feel
-Dialogue: 0,0:00:23.33,0:00:26.99,DEFAULT,,0,0,0,,{\kf19}It{\kf13}'ll{\kf29} fe{\kf22}-el{\kf10} di{\kf32}vi{\kf216}-ine
-Dialogue: 0,0:00:29.48,0:00:32.11,DEFAULT,,0,0,0,,{\kf29}Crates{\kf13} of{\kf22} app{\kf25}les{\kf16} and{\kf50} bales{\kf13} o'{\kf60} hay
-Dialogue: 0,0:00:33.26,0:00:36.20,DEFAULT,,0,0,0,,{\kf16}Just{\kf22} makes{\kf10} you{\kf35} feel{\kf25} at{\kf147} home
-Dialogue: 0,0:00:37.45,0:00:40.11,DEFAULT,,0,0,0,,{\kf19}Fur{\kf16}ry{\kf22} friends{\kf19} and{\kf16} some{\kf25} po{\kf22}pin{\kf63}jays
-Dialogue: 0,0:00:41.20,0:00:43.54,DEFAULT,,0,0,0,,{\kf22}So{\kf22} she{\kf19} won't{\kf25} be{\kf38} a{\kf72}lone
-Dialogue: 0,0:00:44.23,0:00:45.01,DEFAULT,,0,0,0,,{\kf25}And{\kf16} we'll{\kf25} make
-Dialogue: 0,0:00:45.23,0:00:46.01,DEFAULT,,0,0,0,,{\kf25}And{\kf16} we'll{\kf25} make
-Dialogue: 0,0:00:46.23,0:00:47.01,DEFAULT,,0,0,0,,{\kf25}And{\kf16} we'll{\kf25} make
-Dialogue: 0,0:00:47.26,0:00:51.60,DEFAULT,,0,0,0,,{\kf32}This{\kf47} cas{\kf29}tle{\kf16} a{\kf22} ho{\kf257}-ome
-Dialogue: 0,0:00:53.48,0:00:56.82,DEFAULT,,0,0,0,,{\kf19}The{\kf25}-ere's{\kf22} no{\kf22}thing{\kf19} like{\kf16} bal{\kf38}loons{\kf19} and{\kf19} con{\kf44}fet{\kf32}ti
-Dialogue: 0,0:00:57.23,0:01:00.91,DEFAULT,,0,0,0,,{\kf16}To{\kf25} greet{\kf19} you{\kf16} eve{\kf19}ry{\kf25}time{\kf22} you{\kf47} walk{\kf22} through{\kf16} the{\kf29} do{\kf63}-or
-Dialogue: 0,0:01:01.48,0:01:02.85,DEFAULT,,0,0,0,,{\kf22}She'll{\kf22} need{\kf19} this{\kf16} and{\kf32} those
-Dialogue: 0,0:01:03.01,0:01:05.22,DEFAULT,,0,0,0,,{\kf16}Pos{\kf25}ters{\kf13} of{\kf19} all{\kf22} my{\kf35} he{\kf47}roes
-Dialogue: 0,0:01:05.51,0:01:07.41,DEFAULT,,0,0,0,,{\kf19}How{\kf16} could{\kf25} a{\kf19}ny{\kf22}po{\kf16}ny{\kf19} awe{\kf16}some
-Dialogue: 0,0:01:07.57,0:01:11.32,DEFAULT,,0,0,0,,{\kf16}E{\kf16}ver{\kf29} ask{\kf35} for{\kf22} mo{\kf232}-ore
-Dialogue: 0,0:01:12.19,0:01:12.97,DEFAULT,,0,0,0,,{\kf25}And{\kf16} we'll{\kf25} make
-Dialogue: 0,0:01:13.19,0:01:13.97,DEFAULT,,0,0,0,,{\kf25}And{\kf16} we'll{\kf25} make
-Dialogue: 0,0:01:14.22,0:01:15.00,DEFAULT,,0,0,0,,{\kf25}And{\kf16} we'll{\kf25} make
-Dialogue: 0,0:01:15.31,0:01:19.47,DEFAULT,,0,0,0,,{\kf19}A{\kf41} home{\kf29} she'll{\kf19} a{\kf25}do{\kf241}-ore
-Dialogue: 0,0:01:21.47,0:01:25.12,DEFAULT,,0,0,0,,{\kf29}Bright{\kf22} cur{\kf16}tains,{\kf10} a{\kf41} flo{\kf35}wing{\kf35} silk{\kf25} and{\kf32} lace
-Dialogue: 0,0:01:25.53,0:01:29.09,DEFAULT,,0,0,0,,{\kf25}This{\kf19} pic{\kf22}ture{\kf16} of{\kf41} me{\kf41} win{\kf50}ning{\kf29} a{\kf38} race
-Dialogue: 0,0:01:29.50,0:01:33.28,DEFAULT,,0,0,0,,{\kf22}Par{\kf22}ty{\kf22} can{\kf22}nons{\kf13} to{\kf44} give{\kf35} her{\kf29} a{\kf44} sur{\kf54}prise
-Dialogue: 0,0:01:33.47,0:01:37.31,DEFAULT,,0,0,0,,{\kf29}Hoes{\kf13} and{\kf29} rakes{\kf16} and{\kf19} some{\kf41} more{\kf47} gar{\kf35}den{\kf44} sup{\kf54}plies
-Dialogue: 0,0:01:37.53,0:01:41.12,DEFAULT,,0,0,0,,{\kf19}Get{\kf22}ting{\kf22} hugs{\kf22} from{\kf16} this{\kf29} nice{\kf35} big{\kf35} friend{\kf38}ly{\kf38} bear
-Dialogue: 0,0:01:41.53,0:01:45.24,DEFAULT,,0,0,0,,{\kf16}De{\kf16}co{\kf22}rate{\kf13} with{\kf22} some{\kf32} gem{\kf44}stones{\kf41} bright{\kf29} and{\kf50} rare
-Dialogue: 0,0:01:45.59,0:01:46.74,DEFAULT,,0,0,0,,{\kf16}More{\kf16} of{\kf16} this{\kf16} and{\kf29} that
-Dialogue: 0,0:01:47.02,0:01:48.90,DEFAULT,,0,0,0,,{\kf16}Don't{\kf19} for{\kf19}get{\kf10} the{\kf25} par{\kf19}ty{\kf41} hats
-Dialogue: 0,0:01:49.46,0:01:51.43,DEFAULT,,0,0,0,,{\kf19}How{\kf19} could{\kf19} a{\kf22}ny{\kf16}po{\kf19}ny{\kf16} awe{\kf13}some
-Dialogue: 0,0:01:51.59,0:01:53.12,DEFAULT,,0,0,0,,{\kf19}Ask{\kf13} for{\kf32} more{\kf29} than{\kf41} that?
-Dialogue: 0,0:01:57.49,0:02:00.21,DEFAULT,,0,0,0,,{\kf25}Let's{\kf22} all{\kf32} work{\kf19} to{\kf22}ge{\kf22}-et{\kf94}her
-Dialogue: 0,0:02:01.18,0:02:04.18,DEFAULT,,0,0,0,,{\kf13}To{\kf25} show{\kf19} that{\kf25} we{\kf32} have{\kf25} sho{\kf22}-o{\kf94}-own
-Dialogue: 0,0:02:05.55,0:02:07.96,DEFAULT,,0,0,0,,{\kf19}Prin{\kf19}cess{\kf35} Twi{\kf22}light{\kf19} Spa{\kf16}-ar{\kf72}kle
-Dialogue: 0,0:02:08.27,0:02:09.08,DEFAULT,,0,0,0,,{\kf25}How{\kf16} we{\kf29} make
-Dialogue: 0,0:02:09.24,0:02:10.05,DEFAULT,,0,0,0,,{\kf25}How{\kf16} we{\kf29} make
-Dialogue: 0,0:02:10.24,0:02:11.05,DEFAULT,,0,0,0,,{\kf25}How{\kf16} we{\kf29} make
-Dialogue: 0,0:02:11.27,0:02:13.05,DEFAULT,,0,0,0,,{\kf22}This{\kf41} cas{\kf25}tle{\kf16} a{\kf22} ho{\kf13}-ome
-Dialogue: 0,0:02:13.20,0:02:14.02,DEFAULT,,0,0,0,,{\kf25}How{\kf16} we{\kf29} make
-Dialogue: 0,0:02:14.20,0:02:15.02,DEFAULT,,0,0,0,,{\kf25}How{\kf16} we{\kf29} make
-Dialogue: 0,0:02:15.33,0:02:17.02,DEFAULT,,0,0,0,,{\kf13}This{\kf38} cas{\kf25}tle{\kf16} a{\kf32} home
-Dialogue: 0,0:02:17.20,0:02:18.02,DEFAULT,,0,0,0,,{\kf25}How{\kf16} we{\kf29} make
-Dialogue: 0,0:02:18.23,0:02:19.05,DEFAULT,,0,0,0,,{\kf25}How{\kf16} we{\kf29} make
-Dialogue: 0,0:02:19.26,0:02:24.61,DEFAULT,,0,0,0,,{\kf25}This{\kf44} cas{\kf25}tle{\kf16} a{\kf22} ho{\kf363}-ome
-Dialogue: 0,0:02:36.63,0:02:39.26,DEFAULT,,0,0,0,,{\kf19}It's{\kf22} not{\kf10} the{\kf19} things{\kf13} that{\kf16} you{\kf25} gat{\kf19}her{\kf54} 'round
-Dialogue: 0,0:02:40.70,0:02:42.98,DEFAULT,,0,0,0,,{\kf16}It's{\kf22} not{\kf16} how{\kf25} much{\kf29} you{\kf69} own
-Dialogue: 0,0:02:44.66,0:02:48.51,DEFAULT,,0,0,0,,{\kf13}The{\kf29} things{\kf16} that{\kf16} ho{\kf22}-old{\kf16} the{\kf44} mea{\kf44}ning{\kf19} i{\kf22}-in{\kf44} your{\kf35} life
-Dialogue: 0,0:02:48.73,0:02:50.97,DEFAULT,,0,0,0,,{\kf10}Are{\kf7} the{\kf19} me{\kf16}mo{\kf47}ries{\kf16} you've{\kf75} sown
-Dialogue: 0,0:02:51.72,0:02:52.51,DEFAULT,,0,0,0,,{\kf25}So{\kf16} we{\kf25} make
-Dialogue: 0,0:02:52.72,0:02:53.50,DEFAULT,,0,0,0,,{\kf25}So{\kf16} we{\kf25} make
-Dialogue: 0,0:02:53.69,0:02:54.47,DEFAULT,,0,0,0,,{\kf25}So{\kf16} we{\kf25} make
-Dialogue: 0,0:02:54.69,0:02:56.54,DEFAULT,,0,0,0,,{\kf22}This{\kf35} cas{\kf22}tle{\kf13} a{\kf19} ho{\kf19}-ome
-Dialogue: 0,0:02:56.69,0:02:57.47,DEFAULT,,0,0,0,,{\kf25}So{\kf16} we{\kf25} make
-Dialogue: 0,0:02:57.69,0:02:58.47,DEFAULT,,0,0,0,,{\kf25}So{\kf16} we{\kf25} make
-Dialogue: 0,0:02:58.69,0:03:00.41,DEFAULT,,0,0,0,,{\kf22}This{\kf41} cas{\kf22}tle{\kf13} a{\kf29} home
-Dialogue: 0,0:03:00.69,0:03:01.47,DEFAULT,,0,0,0,,{\kf25}So{\kf16} we{\kf25} make
-Dialogue: 0,0:03:01.69,0:03:02.47,DEFAULT,,0,0,0,,{\kf25}So{\kf16} we{\kf25} make
-Dialogue: 0,0:03:02.69,0:03:08.03,DEFAULT,,0,0,0,,{\kf25}This{\kf47} cas{\kf22}-tle{\kf13} a{\kf25} ho{\kf363}-ome
+Dialogue: 0,0:00:09.46,0:00:13.09,DEFAULT,,0,0,0,,{\r}{\kf33}Let's{\kf22} all{\kf48} work{\kf15} to{\kf26}ge{\kf22}-et{\kf135}he{\kf18}-e{\kf43}-er
+Dialogue: 0,0:00:13.28,0:00:16.68,DEFAULT,,0,0,0,,{\r}{\kf19}To{\kf31} make{\kf23} this{\kf31} cas{\kf27}tle{\kf84} shi{\kf27}-i{\kf27}-i{\kf72}-ine
+Dialogue: 0,0:00:17.52,0:00:19.87,DEFAULT,,0,0,0,,{\r}{\kf29}Once{\kf25} we{\kf38} add{\kf21} some{\kf29} spa{\kf17}-ar{\kf75}kle
+Dialogue: 0,0:00:20.27,0:00:21.09,DEFAULT,,0,0,0,,{\r}{\kf29}It{\kf11}'ll{\kf41} feel
+Dialogue: 0,0:00:21.27,0:00:22.09,DEFAULT,,0,0,0,,{\r}{\kf29}It{\kf11}'ll{\kf41} feel
+Dialogue: 0,0:00:22.27,0:00:23.09,DEFAULT,,0,0,0,,{\r}{\kf29}It{\kf11}'ll{\kf41} feel
+Dialogue: 0,0:00:23.33,0:00:26.99,DEFAULT,,0,0,0,,{\r}{\kf20}It{\kf14}'ll{\kf30} fe{\kf24}-el{\kf10} di{\kf34}vi{\kf234}-ine
+Dialogue: 0,0:00:29.49,0:00:32.11,DEFAULT,,0,0,0,,{\r}{\kf33}Crates{\kf15} of{\kf25} app{\kf29}les{\kf18} and{\kf58} bales{\kf15} o'{\kf69} hay
+Dialogue: 0,0:00:33.27,0:00:36.21,DEFAULT,,0,0,0,,{\r}{\kf18}Just{\kf25} makes{\kf11} you{\kf40} feel{\kf29} at{\kf171} home
+Dialogue: 0,0:00:37.46,0:00:40.11,DEFAULT,,0,0,0,,{\r}{\kf25}Fur{\kf21}ry{\kf29} friends{\kf25} and{\kf21} some{\kf33} po{\kf29}pin{\kf83}jays
+Dialogue: 0,0:00:41.20,0:00:43.55,DEFAULT,,0,0,0,,{\r}{\kf26}So{\kf26} she{\kf22} won't{\kf30} be{\kf45} a{\kf85}lone
+Dialogue: 0,0:00:44.24,0:00:45.02,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf19} we'll{\kf29} make
+Dialogue: 0,0:00:45.23,0:00:46.02,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf19} we'll{\kf29} make
+Dialogue: 0,0:00:46.23,0:00:47.02,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf19} we'll{\kf29} make
+Dialogue: 0,0:00:47.27,0:00:51.61,DEFAULT,,0,0,0,,{\r}{\kf34}This{\kf51} cas{\kf31}tle{\kf17} a{\kf24} ho{\kf277}-ome
+Dialogue: 0,0:00:53.48,0:00:56.83,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf31}-ere's{\kf27} no{\kf27}thing{\kf23} like{\kf19} bal{\kf46}loons{\kf23} and{\kf23} con{\kf54}fet{\kf38}ti
+Dialogue: 0,0:00:57.23,0:01:00.92,DEFAULT,,0,0,0,,{\r}{\kf18}To{\kf29} greet{\kf22} you{\kf18} eve{\kf22}ry{\kf29}time{\kf26} you{\kf55} walk{\kf26} through{\kf18} the{\kf33} do{\kf73}-or
+Dialogue: 0,0:01:01.48,0:01:02.85,DEFAULT,,0,0,0,,{\r}{\kf27}She'll{\kf27} need{\kf23} this{\kf20} and{\kf40} those
+Dialogue: 0,0:01:03.01,0:01:05.23,DEFAULT,,0,0,0,,{\r}{\kf20}Pos{\kf32}ters{\kf16} of{\kf24} all{\kf28} my{\kf44} he{\kf58}roes
+Dialogue: 0,0:01:05.51,0:01:07.42,DEFAULT,,0,0,0,,{\r}{\kf24}How{\kf20} could{\kf32} a{\kf24}ny{\kf28}po{\kf20}ny{\kf24} awe{\kf19}some
+Dialogue: 0,0:01:07.57,0:01:11.32,DEFAULT,,0,0,0,,{\r}{\kf17}E{\kf17}ver{\kf30} ask{\kf37} for{\kf24} mo{\kf250}-ore
+Dialogue: 0,0:01:12.20,0:01:12.98,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf19} we'll{\kf29} make
+Dialogue: 0,0:01:13.20,0:01:13.98,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf19} we'll{\kf29} make
+Dialogue: 0,0:01:14.23,0:01:15.01,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf19} we'll{\kf29} make
+Dialogue: 0,0:01:15.32,0:01:19.47,DEFAULT,,0,0,0,,{\r}{\kf21}A{\kf45} home{\kf31} she'll{\kf21} a{\kf28}do{\kf270}-ore
+Dialogue: 0,0:01:21.47,0:01:25.13,DEFAULT,,0,0,0,,{\r}{\kf43}Bright{\kf33} cur{\kf24}tains,{\kf14} a{\kf62} flo{\kf52}wing{\kf52} silk{\kf38} and{\kf48} lace
+Dialogue: 0,0:01:25.54,0:01:29.10,DEFAULT,,0,0,0,,{\r}{\kf32}This{\kf24} pic{\kf28}ture{\kf20} of{\kf52} me{\kf52} win{\kf64}ning{\kf36} a{\kf48} race
+Dialogue: 0,0:01:29.50,0:01:33.28,DEFAULT,,0,0,0,,{\r}{\kf27}Par{\kf27}ty{\kf27} can{\kf27}nons{\kf16} to{\kf55} give{\kf43} her{\kf35} a{\kf55} sur{\kf66}prise
+Dialogue: 0,0:01:33.47,0:01:37.31,DEFAULT,,0,0,0,,{\r}{\kf34}Hoes{\kf15} and{\kf34} rakes{\kf19} and{\kf22} some{\kf48} more{\kf56} gar{\kf41}den{\kf52} sup{\kf63}plies
+Dialogue: 0,0:01:37.53,0:01:41.12,DEFAULT,,0,0,0,,{\r}{\kf25}Get{\kf29}ting{\kf29} hugs{\kf29} from{\kf21} this{\kf37} nice{\kf45} big{\kf45} friend{\kf50}ly{\kf49} bear
+Dialogue: 0,0:01:41.53,0:01:45.25,DEFAULT,,0,0,0,,{\r}{\kf21}De{\kf21}co{\kf29}rate{\kf17} with{\kf29} some{\kf41} gem{\kf58}stones{\kf54} bright{\kf37} and{\kf65} rare
+Dialogue: 0,0:01:45.59,0:01:46.75,DEFAULT,,0,0,0,,{\r}{\kf20}More{\kf20} of{\kf20} this{\kf20} and{\kf36} that
+Dialogue: 0,0:01:47.03,0:01:48.90,DEFAULT,,0,0,0,,{\r}{\kf20}Don't{\kf24} for{\kf24}get{\kf12} the{\kf32} par{\kf24}ty{\kf51} hats
+Dialogue: 0,0:01:49.47,0:01:51.43,DEFAULT,,0,0,0,,{\r}{\kf26}How{\kf26} could{\kf26} a{\kf31}ny{\kf22}po{\kf26}ny{\kf22} awe{\kf18}some
+Dialogue: 0,0:01:51.59,0:01:53.12,DEFAULT,,0,0,0,,{\r}{\kf22}Ask{\kf15} for{\kf36} more{\kf33} than{\kf47} that?
+Dialogue: 0,0:01:57.49,0:02:00.21,DEFAULT,,0,0,0,,{\r}{\kf29}Let's{\kf25} all{\kf36} work{\kf22} to{\kf25}ge{\kf25}-et{\kf110}her
+Dialogue: 0,0:02:01.18,0:02:04.18,DEFAULT,,0,0,0,,{\r}{\kf15}To{\kf30} show{\kf22} that{\kf30} we{\kf37} have{\kf30} sho{\kf26}-o{\kf110}-own
+Dialogue: 0,0:02:05.56,0:02:07.96,DEFAULT,,0,0,0,,{\r}{\kf23}Prin{\kf23}cess{\kf41} Twi{\kf26}light{\kf23} Spa{\kf19}-ar{\kf86}kle
+Dialogue: 0,0:02:08.27,0:02:09.09,DEFAULT,,0,0,0,,{\r}{\kf29}How{\kf18} we{\kf34} make
+Dialogue: 0,0:02:09.24,0:02:10.05,DEFAULT,,0,0,0,,{\r}{\kf29}How{\kf18} we{\kf34} make
+Dialogue: 0,0:02:10.24,0:02:11.05,DEFAULT,,0,0,0,,{\r}{\kf29}How{\kf18} we{\kf34} make
+Dialogue: 0,0:02:11.27,0:02:13.05,DEFAULT,,0,0,0,,{\r}{\kf28}This{\kf53} cas{\kf32}tle{\kf20} a{\kf28} ho{\kf17}-ome
+Dialogue: 0,0:02:13.21,0:02:14.02,DEFAULT,,0,0,0,,{\r}{\kf29}How{\kf18} we{\kf34} make
+Dialogue: 0,0:02:14.21,0:02:15.02,DEFAULT,,0,0,0,,{\r}{\kf29}How{\kf18} we{\kf34} make
+Dialogue: 0,0:02:15.33,0:02:17.02,DEFAULT,,0,0,0,,{\r}{\kf17}This{\kf52} cas{\kf35}tle{\kf22} a{\kf43} home
+Dialogue: 0,0:02:17.21,0:02:18.02,DEFAULT,,0,0,0,,{\r}{\kf29}How{\kf18} we{\kf34} make
+Dialogue: 0,0:02:18.24,0:02:19.05,DEFAULT,,0,0,0,,{\r}{\kf29}How{\kf18} we{\kf34} make
+Dialogue: 0,0:02:19.27,0:02:24.61,DEFAULT,,0,0,0,,{\r}{\kf27}This{\kf47} cas{\kf27}tle{\kf17} a{\kf24} ho{\kf392}-ome
+Dialogue: 0,0:02:36.64,0:02:39.26,DEFAULT,,0,0,0,,{\r}{\kf25}It's{\kf30} not{\kf13} the{\kf25} things{\kf17} that{\kf21} you{\kf34} gat{\kf25}her{\kf72} 'round
+Dialogue: 0,0:02:40.70,0:02:42.98,DEFAULT,,0,0,0,,{\r}{\kf20}It's{\kf28} not{\kf20} how{\kf33} much{\kf37} you{\kf90} own
+Dialogue: 0,0:02:44.67,0:02:48.51,DEFAULT,,0,0,0,,{\r}{\kf15}The{\kf34} things{\kf19} that{\kf19} ho{\kf27}-old{\kf19} the{\kf53} mea{\kf53}ning{\kf23} i{\kf27}-in{\kf53} your{\kf42} life
+Dialogue: 0,0:02:48.73,0:02:50.98,DEFAULT,,0,0,0,,{\r}{\kf11}Are{\kf10} the{\kf22} me{\kf19}mo{\kf56}ries{\kf19} you've{\kf88} sown
+Dialogue: 0,0:02:51.73,0:02:52.51,DEFAULT,,0,0,0,,{\r}{\kf30}So{\kf19} we{\kf29} make
+Dialogue: 0,0:02:52.73,0:02:53.51,DEFAULT,,0,0,0,,{\r}{\kf30}So{\kf19} we{\kf29} make
+Dialogue: 0,0:02:53.70,0:02:54.48,DEFAULT,,0,0,0,,{\r}{\kf30}So{\kf19} we{\kf29} make
+Dialogue: 0,0:02:54.70,0:02:56.54,DEFAULT,,0,0,0,,{\r}{\kf31}This{\kf49} cas{\kf31}tle{\kf18} a{\kf27} ho{\kf28}-ome
+Dialogue: 0,0:02:56.70,0:02:57.48,DEFAULT,,0,0,0,,{\r}{\kf30}So{\kf19} we{\kf29} make
+Dialogue: 0,0:02:57.70,0:02:58.48,DEFAULT,,0,0,0,,{\r}{\kf30}So{\kf19} we{\kf29} make
+Dialogue: 0,0:02:58.70,0:03:00.41,DEFAULT,,0,0,0,,{\r}{\kf30}This{\kf56} cas{\kf30}tle{\kf17} a{\kf39} home
+Dialogue: 0,0:03:00.70,0:03:01.48,DEFAULT,,0,0,0,,{\r}{\kf30}So{\kf19} we{\kf29} make
+Dialogue: 0,0:03:01.70,0:03:02.48,DEFAULT,,0,0,0,,{\r}{\kf30}So{\kf19} we{\kf29} make
+Dialogue: 0,0:03:02.69,0:03:08.04,DEFAULT,,0,0,0,,{\r}{\kf27}This{\kf51} cas{\kf24}-tle{\kf14} a{\kf27} ho{\kf391}-ome

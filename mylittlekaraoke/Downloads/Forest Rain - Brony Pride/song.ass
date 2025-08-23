@@ -1,82 +1,89 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Brony Pride (Instrumental)
+Artist: Forest Rain
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:28.29,0:00:30.22,DEFAULT,,0,0,0,,{\kf2843}When{\kf2848} I{\kf2843} was{\kf2848} just{\kf2852} six{\kf2878}teen
-Dialogue: 0,0:00:30.75,0:00:32.94,DEFAULT,,0,0,0,,{\kf2839}I{\kf2843} had{\kf2843} a{\kf2852} car{\kf2843} that{\kf2843} was{\kf2848} lean{\kf2843} and{\kf2852} mean{\kf2848}~
-Dialogue: 0,0:00:33.73,0:00:35.92,DEFAULT,,0,0,0,,{\kf2852}Put{\kf2856} Da{\kf2848}shie{\kf2848} in{\kf2852} my{\kf2852} win{\kf2856}dow
-Dialogue: 0,0:00:36.14,0:00:39.08,DEFAULT,,0,0,0,,{\kf2856}Was{\kf2848} the{\kf2856} cool{\kf2852}est{\kf2848} thing{\kf2883} I'd{\kf2870} seen
-Dialogue: 0,0:00:39.39,0:00:41.58,DEFAULT,,0,0,0,,{\kf2843}But{\kf2843} these{\kf2848} kids{\kf2843} from{\kf2861} down{\kf2843} the{\kf2861} road{\kf2843}~
-Dialogue: 0,0:00:42.59,0:00:44.43,DEFAULT,,0,0,0,,{\kf2852}They{\kf2843} were{\kf2861} ra{\kf2843}ther{\kf2852} cold{\kf2870}~
-Dialogue: 0,0:00:44.87,0:00:47.41,DEFAULT,,0,0,0,,{\kf2843}I{\kf2843} found{\kf2843} my{\kf2852} Dash{\kf2843}ie{\kf2852} lay{\kf2843} in{\kf2852} pie{\kf2878}ces
-Dialogue: 0,0:00:48.16,0:00:50.13,DEFAULT,,0,0,0,,{\kf2852}Bro{\kf2843}ken{\kf2852} and{\kf2865} a{\kf2883}lone
-Dialogue: 0,0:00:52.06,0:00:54.12,DEFAULT,,0,0,0,,{\kf2843}But{\kf2843} I{\kf2848} had{\kf2852} my{\kf2848} group{\kf2843} of{\kf2848} friends{\kf2856}~
-Dialogue: 0,0:00:54.78,0:00:57.24,DEFAULT,,0,0,0,,{\kf2839}Who{\kf2843} would{\kf2843} de{\kf2848}fend{\kf2843} me{\kf2843} to{\kf2848} the{\kf2848} end{\kf2848}~{\kf2883}~
-Dialogue: 0,0:00:59.12,0:01:01.71,DEFAULT,,0,0,0,,{\kf2843}And{\kf2843} we{\kf2843} picked{\kf2852} up{\kf2848} e{\kf2843}very{\kf2856} piece{\kf2848} and{\kf2856} tried
-Dialogue: 0,0:01:01.93,0:01:03.91,DEFAULT,,0,0,0,,{\kf2843}To{\kf2852} make{\kf2848} her{\kf2852} whole{\kf2843} a{\kf2878}gain
-Dialogue: 0,0:01:05.83,0:01:08.60,DEFAULT,,0,0,0,,{\kf2848}'Cause{\kf2843} to{\kf2848}ge{\kf2852}~{\kf2848}ther{\kf2848} we{\kf2848} can{\kf2865} do{\kf2856} it
-Dialogue: 0,0:01:08.99,0:01:10.97,DEFAULT,,0,0,0,,{\kf2843}O{\kf2843}ver{\kf2848}come{\kf2852} our{\kf2852} fears{\kf2852} and{\kf2865} doubts
-Dialogue: 0,0:01:11.71,0:01:14.26,DEFAULT,,0,0,0,,{\kf2843}Though{\kf2839} e{\kf2843}very{\kf2843}po{\kf2852}ny{\kf2848} loves{\kf2843}~{\kf2843} to{\kf2865} shun{\kf2856} us
-Dialogue: 0,0:01:14.83,0:01:16.84,DEFAULT,,0,0,0,,{\kf2843}To{\kf2848}ge{\kf2848}ther{\kf2852} we{\kf2861} stand{\kf2874} proud
-Dialogue: 0,0:01:17.11,0:01:19.91,DEFAULT,,0,0,0,,{\kf2852}Hoof{\kf2852} in{\kf2852} hoof{\kf2843} we{\kf2852} all{\kf2848} will{\kf2870} wea{\kf2861}ther
-Dialogue: 0,0:01:20.53,0:01:22.28,DEFAULT,,0,0,0,,{\kf2843}The{\kf2843} storm{\kf2843}~{\kf2848} and{\kf2843} the{\kf2843}~{\kf2861} hate
-Dialogue: 0,0:01:23.12,0:01:25.44,DEFAULT,,0,0,0,,{\kf2843}'Cause{\kf2843} as{\kf2848} long{\kf2843} as{\kf2852} we're{\kf2852} to{\kf2865}ge{\kf2848}ther
-Dialogue: 0,0:01:26.14,0:01:28.16,DEFAULT,,0,0,0,,{\kf2843}We're{\kf2843} bet{\kf2848}ter{\kf2852} off{\kf2861} this{\kf2874} way
-Dialogue: 0,0:01:28.55,0:01:31.49,DEFAULT,,0,0,0,,{\kf2843}We've{\kf2843} got{\kf2848} bro{\kf2848}ny{\kf2852} pride{\kf2848}~{\kf2848} for{\kf2843}e{\kf2918}ver
-Dialogue: 0,0:01:35.79,0:01:38.07,DEFAULT,,0,0,0,,{\kf2848}Well{\kf2843} it{\kf2843} was{\kf2848}n't{\kf2852} long{\kf2848} there{\kf2856}af{\kf2856}ter
-Dialogue: 0,0:01:38.82,0:01:40.75,DEFAULT,,0,0,0,,{\kf2843}I{\kf2848} went{\kf2843} to{\kf2852} my{\kf2852} first{\kf2874} con
-Dialogue: 0,0:01:41.45,0:01:43.77,DEFAULT,,0,0,0,,{\kf2843}Had{\kf2843} a{\kf2848} lot{\kf2843} of{\kf2843} new{\kf2843}~{\kf2848} ad{\kf2852}ven{\kf2861}tures
-Dialogue: 0,0:01:43.99,0:01:46.58,DEFAULT,,0,0,0,,{\kf2843}And{\kf2856} I{\kf2856} had{\kf2843} a{\kf2852} lot{\kf2861} of{\kf2874} fun
-Dialogue: 0,0:01:46.98,0:01:49.21,DEFAULT,,0,0,0,,{\kf2843}I{\kf2843} spent{\kf2843} a{\kf2843} week{\kf2852}end{\kf2848} in{\kf2848}~{\kf2843} a{\kf2874} world
-Dialogue: 0,0:01:49.96,0:01:52.02,DEFAULT,,0,0,0,,{\kf2848}Much{\kf2848} dif{\kf2848}ferent{\kf2848} from{\kf2848} my{\kf2874} own
-Dialogue: 0,0:01:52.76,0:01:55.22,DEFAULT,,0,0,0,,{\kf2843}And{\kf2843} I{\kf2848} learned{\kf2843} a{\kf2848} mil{\kf2852}lion{\kf2856} things{\kf2843} a{\kf2848}bout
-Dialogue: 0,0:01:55.44,0:01:58.33,DEFAULT,,0,0,0,,{\kf2848}The{\kf2870} po{\kf2848}nies{\kf2848} from{\kf2878} the{\kf2887} show
-Dialogue: 0,0:01:59.65,0:02:02.06,DEFAULT,,0,0,0,,{\kf2843}But{\kf2843} when{\kf2843} I{\kf2848} had{\kf2843} to{\kf2852} say{\kf2843}~{\kf2843} good{\kf2848}bye{\kf2870}~
-Dialogue: 0,0:02:02.81,0:02:05.92,DEFAULT,,0,0,0,,{\kf2843}The{\kf2852} tears{\kf2848} fell{\kf2843} from{\kf2852} my{\kf2852} eyes{\kf2966}~
-Dialogue: 0,0:02:06.89,0:02:09.26,DEFAULT,,0,0,0,,{\kf2843}But{\kf2843} I{\kf2852} forced{\kf2843} a{\kf2852} smile{\kf2843} and{\kf2848} turned{\kf2843} a{\kf2848}way
-Dialogue: 0,0:02:09.43,0:02:11.76,DEFAULT,,0,0,0,,{\kf2843}And{\kf2843} said{\kf2843} I{\kf2843} think{\kf2848} I'll{\kf2843} be{\kf2852} al{\kf2892}right
-Dialogue: 0,0:02:13.60,0:02:16.36,DEFAULT,,0,0,0,,{\kf2848}'Cause{\kf2843} to{\kf2852}ge{\kf2852}~{\kf2843}ther{\kf2848} we{\kf2852} can{\kf2865} do{\kf2856} it
-Dialogue: 0,0:02:16.76,0:02:18.73,DEFAULT,,0,0,0,,{\kf2843}O{\kf2843}ver{\kf2843}come{\kf2852} our{\kf2848} fears{\kf2852} and{\kf2865} doubts
-Dialogue: 0,0:02:19.48,0:02:22.02,DEFAULT,,0,0,0,,{\kf2843}Though{\kf2839} e{\kf2843}very{\kf2843}po{\kf2856}ny{\kf2848} loves{\kf2843}~{\kf2843} to{\kf2870} shun{\kf2856} us
-Dialogue: 0,0:02:22.59,0:02:24.61,DEFAULT,,0,0,0,,{\kf2843}To{\kf2843}ge{\kf2848}ther{\kf2848} we{\kf2843} stand{\kf2852}~{\kf2874} proud
-Dialogue: 0,0:02:24.91,0:02:27.63,DEFAULT,,0,0,0,,{\kf2852}Hoof{\kf2852} in{\kf2852} hoof{\kf2843} we{\kf2848} all{\kf2852} will{\kf2865} wea{\kf2856}ther
-Dialogue: 0,0:02:28.29,0:02:30.09,DEFAULT,,0,0,0,,{\kf2843}The{\kf2843} storm{\kf2843}~{\kf2848} and{\kf2843} the{\kf2843}~{\kf2865} hate
-Dialogue: 0,0:02:30.88,0:02:33.20,DEFAULT,,0,0,0,,{\kf2843}'Cause{\kf2843} as{\kf2848} long{\kf2843} as{\kf2848} we're{\kf2856} to{\kf2874}ge{\kf2848}ther
-Dialogue: 0,0:02:33.91,0:02:35.97,DEFAULT,,0,0,0,,{\kf2843}We're{\kf2843} bet{\kf2852}ter{\kf2852} off{\kf2852} this{\kf2878} way
-Dialogue: 0,0:02:36.36,0:02:39.17,DEFAULT,,0,0,0,,{\kf2843}We've{\kf2843} got{\kf2843} bro{\kf2848}ny{\kf2848} pride{\kf2852}~{\kf2843} for{\kf2848}e{\kf2909}ver
-Dialogue: 0,0:02:43.82,0:02:45.88,DEFAULT,,0,0,0,,{\kf2843}These{\kf2848} years{\kf2843} have{\kf2848} sure{\kf2856} flown{\kf2874} by
-Dialogue: 0,0:02:46.62,0:02:49.21,DEFAULT,,0,0,0,,{\kf2843}Still{\kf2852} got{\kf2852} Dash{\kf2843}ie{\kf2852} by{\kf2852} my{\kf2848} side{\kf2843}~{\kf2861}~
-Dialogue: 0,0:02:50.09,0:02:51.98,DEFAULT,,0,0,0,,{\kf2861}I{\kf2843} still{\kf2848} have{\kf2843} my{\kf2852} pride{\kf2865}~
-Dialogue: 0,0:02:52.15,0:02:54.26,DEFAULT,,0,0,0,,{\kf2843}And{\kf2848} I'm{\kf2848} still{\kf2843} a{\kf2848} bro{\kf2843}~{\kf2874}ny
-Dialogue: 0,0:02:56.10,0:02:58.12,DEFAULT,,0,0,0,,{\kf2843}And{\kf2843} ma{\kf2848}ny{\kf2843} years{\kf2848}~{\kf2843} from{\kf2878} now
-Dialogue: 0,0:02:58.95,0:03:01.49,DEFAULT,,0,0,0,,{\kf2843}Gon{\kf2843}na{\kf2843} sit{\kf2848} my{\kf2852} chil{\kf2848}dren{\kf2865} down{\kf2843}~{\kf2856}~
-Dialogue: 0,0:03:02.28,0:03:04.17,DEFAULT,,0,0,0,,{\kf2843}And{\kf2852} tell{\kf2848} them{\kf2865} all{\kf2843} a{\kf2852}bout{\kf2848}~
-Dialogue: 0,0:03:04.39,0:03:06.84,DEFAULT,,0,0,0,,{\kf2843}These{\kf2843} a{\kf2852}maz{\kf2905}ing{\kf2839}~{\kf2848}~{\kf2892} times
-Dialogue: 0,0:03:08.38,0:03:10.97,DEFAULT,,0,0,0,,{\kf2843}I{\kf2852} joined{\kf2843} the{\kf2861} herd{\kf2843} and{\kf2865} learned{\kf2848} that{\kf2852} I
-Dialogue: 0,0:03:11.19,0:03:13.95,DEFAULT,,0,0,0,,{\kf2843}Will{\kf2848} ne{\kf2856}~{\kf2843}ver{\kf2856} be{\kf2848} a{\kf2848}lone{\kf2843}~{\kf2900}~
-Dialogue: 0,0:03:15.88,0:03:18.86,DEFAULT,,0,0,0,,{\kf2843}I'm{\kf2843} sur{\kf2852}round{\kf2843}ed{\kf2852} by{\kf2848}~{\kf2848} my{\kf2852} friends{\kf2843} who{\kf2865} al{\kf2843}ways
-Dialogue: 0,0:03:19.12,0:03:20.66,DEFAULT,,0,0,0,,{\kf2843}Help{\kf2843} me{\kf2848} feel{\kf2848} at{\kf2874} home
-Dialogue: 0,0:03:25.62,0:03:28.20,DEFAULT,,0,0,0,,{\kf2843}'Cause{\kf2848} to{\kf2856}ge{\kf2843}ther{\kf2852} we{\kf2852} can{\kf2865} do{\kf2856} it
-Dialogue: 0,0:03:28.60,0:03:30.62,DEFAULT,,0,0,0,,{\kf2843}O{\kf2843}ver{\kf2843}come{\kf2848} our{\kf2848} fears{\kf2848} and{\kf2870} doubts
-Dialogue: 0,0:03:31.27,0:03:33.86,DEFAULT,,0,0,0,,{\kf2843}Though{\kf2839} e{\kf2843}very{\kf2843}po{\kf2852}ny{\kf2848} loves{\kf2848}~{\kf2843} to{\kf2861} shun{\kf2861} us
-Dialogue: 0,0:03:34.43,0:03:36.45,DEFAULT,,0,0,0,,{\kf2843}To{\kf2843}ge{\kf2852}ther{\kf2852} we{\kf2865} stand{\kf2870} proud
-Dialogue: 0,0:03:36.76,0:03:39.56,DEFAULT,,0,0,0,,{\kf2852}Hoof{\kf2848} in{\kf2852} hoof{\kf2848} we{\kf2848} all{\kf2856} will{\kf2865} wea{\kf2865}ther
-Dialogue: 0,0:03:40.09,0:03:41.93,DEFAULT,,0,0,0,,{\kf2843}The{\kf2843} storm{\kf2848}~{\kf2848} and{\kf2856} the{\kf2870} hate
-Dialogue: 0,0:03:42.72,0:03:45.26,DEFAULT,,0,0,0,,{\kf2843}'Cause{\kf2843} as{\kf2852} long{\kf2843} as{\kf2848} we're{\kf2848} to{\kf2878}ge{\kf2865}ther
-Dialogue: 0,0:03:45.75,0:03:47.63,DEFAULT,,0,0,0,,{\kf2843}We're{\kf2843} bet{\kf2852}ter{\kf2852} off{\kf2865} this{\kf2861} way
-Dialogue: 0,0:03:48.03,0:03:50.83,DEFAULT,,0,0,0,,{\kf2843}Yes,{\kf2852} to{\kf2848}ge{\kf2848}ther{\kf2852} we{\kf2848} can{\kf2865} do{\kf2861} it
-Dialogue: 0,0:03:51.23,0:03:53.20,DEFAULT,,0,0,0,,{\kf2843}O{\kf2843}ver{\kf2843}come{\kf2848} our{\kf2852} fears{\kf2848} and{\kf2870} doubts
-Dialogue: 0,0:03:53.86,0:03:56.45,DEFAULT,,0,0,0,,{\kf2843}Though{\kf2839} e{\kf2843}very{\kf2843}po{\kf2856}ny{\kf2848} loves{\kf2843}~{\kf2843} to{\kf2874} shun{\kf2856} us
-Dialogue: 0,0:03:57.02,0:03:58.95,DEFAULT,,0,0,0,,{\kf2843}To{\kf2843}ge{\kf2852}ther{\kf2848} we{\kf2865} stand{\kf2861} proud
-Dialogue: 0,0:03:59.34,0:04:02.15,DEFAULT,,0,0,0,,{\kf2848}Hoof{\kf2852} in{\kf2852} hoof{\kf2843} we{\kf2848} all{\kf2848} will{\kf2870} wea{\kf2865}ther
-Dialogue: 0,0:04:02.68,0:04:04.48,DEFAULT,,0,0,0,,{\kf2839}The{\kf2848} storm{\kf2848}~{\kf2848} and{\kf2856} the{\kf2865} hate
-Dialogue: 0,0:04:05.31,0:04:07.81,DEFAULT,,0,0,0,,{\kf2843}'Cause{\kf2843} as{\kf2848} long{\kf2843} as{\kf2848} we're{\kf2848} to{\kf2874}ge{\kf2865}ther
-Dialogue: 0,0:04:08.29,0:04:10.31,DEFAULT,,0,0,0,,{\kf2843}We're{\kf2843} bet{\kf2848}ter{\kf2848} off{\kf2861} this{\kf2870} way
-Dialogue: 0,0:04:10.79,0:04:14.39,DEFAULT,,0,0,0,,{\kf2843}We've{\kf2843} got{\kf2843} bro{\kf2848}ny{\kf2848} pride{\kf2856}~{\kf2843} for{\kf2843}e{\kf2984}ver
+Dialogue: 0,0:00:28.30,0:00:30.23,DEFAULT,,0,0,0,,{\r}{\kf19}When{\kf26} I{\kf19} was{\kf26} just{\kf32} six{\kf71}teen
+Dialogue: 0,0:00:30.75,0:00:32.95,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf19} had{\kf19} a{\kf31} car{\kf19} that{\kf19} was{\kf25} lean{\kf19} and{\kf31} mean{\kf24}~
+Dialogue: 0,0:00:33.73,0:00:35.93,DEFAULT,,0,0,0,,{\r}{\kf31}Put{\kf38} Da{\kf25}shie{\kf25} in{\kf31} my{\kf31} win{\kf38}dow
+Dialogue: 0,0:00:36.15,0:00:39.09,DEFAULT,,0,0,0,,{\r}{\kf38}Was{\kf26} the{\kf38} cool{\kf32}est{\kf26} thing{\kf77} I'd{\kf57} seen
+Dialogue: 0,0:00:39.39,0:00:41.59,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf20} these{\kf27} kids{\kf20} from{\kf46} down{\kf20} the{\kf46} road{\kf20}~
+Dialogue: 0,0:00:42.59,0:00:44.44,DEFAULT,,0,0,0,,{\r}{\kf29}They{\kf17} were{\kf40} ra{\kf17}ther{\kf29} cold{\kf52}~
+Dialogue: 0,0:00:44.87,0:00:47.42,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf19} found{\kf19} my{\kf31} Dash{\kf19}ie{\kf31} lay{\kf19} in{\kf31} pie{\kf66}ces
+Dialogue: 0,0:00:48.16,0:00:50.14,DEFAULT,,0,0,0,,{\r}{\kf30}Bro{\kf18}ken{\kf30} and{\kf48} a{\kf71}lone
+Dialogue: 0,0:00:52.07,0:00:54.13,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf19} I{\kf26} had{\kf32} my{\kf26} group{\kf19} of{\kf26} friends{\kf39}~
+Dialogue: 0,0:00:54.79,0:00:57.24,DEFAULT,,0,0,0,,{\r}{\kf12}Who{\kf18} would{\kf18} de{\kf23}fend{\kf18} me{\kf18} to{\kf23} the{\kf23} end{\kf23}~{\kf70}~
+Dialogue: 0,0:00:59.13,0:01:01.72,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} we{\kf21} picked{\kf35} up{\kf28} e{\kf21}very{\kf42} piece{\kf28} and{\kf42} tried
+Dialogue: 0,0:01:01.94,0:01:03.91,DEFAULT,,0,0,0,,{\r}{\kf19}To{\kf32} make{\kf25} her{\kf32} whole{\kf19} a{\kf70}gain
+Dialogue: 0,0:01:05.84,0:01:08.60,DEFAULT,,0,0,0,,{\r}{\kf26}'Cause{\kf20} to{\kf26}ge{\kf33}~{\kf26}ther{\kf26} we{\kf26} can{\kf53} do{\kf40} it
+Dialogue: 0,0:01:09.00,0:01:10.97,DEFAULT,,0,0,0,,{\r}{\kf18}O{\kf18}ver{\kf24}come{\kf30} our{\kf30} fears{\kf30} and{\kf47} doubts
+Dialogue: 0,0:01:11.72,0:01:14.26,DEFAULT,,0,0,0,,{\r}{\kf19}Though{\kf13} e{\kf19}very{\kf19}po{\kf32}ny{\kf25} loves{\kf19}~{\kf19} to{\kf51} shun{\kf38} us
+Dialogue: 0,0:01:14.83,0:01:16.85,DEFAULT,,0,0,0,,{\r}{\kf18}To{\kf24}ge{\kf24}ther{\kf31} we{\kf43} stand{\kf62} proud
+Dialogue: 0,0:01:17.11,0:01:19.92,DEFAULT,,0,0,0,,{\r}{\kf33}Hoof{\kf33} in{\kf33} hoof{\kf20} we{\kf33} all{\kf26} will{\kf59} wea{\kf44}ther
+Dialogue: 0,0:01:20.53,0:01:22.29,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf20} storm{\kf20}~{\kf27} and{\kf20} the{\kf20}~{\kf48} hate
+Dialogue: 0,0:01:23.12,0:01:25.45,DEFAULT,,0,0,0,,{\r}{\kf20}'Cause{\kf20} as{\kf27} long{\kf20} as{\kf33} we're{\kf33} to{\kf53}ge{\kf26}ther
+Dialogue: 0,0:01:26.15,0:01:28.16,DEFAULT,,0,0,0,,{\r}{\kf19}We're{\kf19} bet{\kf25}ter{\kf32} off{\kf44} this{\kf63} way
+Dialogue: 0,0:01:28.56,0:01:31.50,DEFAULT,,0,0,0,,{\r}{\kf18}We've{\kf18} got{\kf24} bro{\kf24}ny{\kf29} pride{\kf24}~{\kf24} for{\kf18}e{\kf115}ver
+Dialogue: 0,0:01:35.80,0:01:38.08,DEFAULT,,0,0,0,,{\r}{\kf26}Well{\kf20} it{\kf20} was{\kf26}n't{\kf33} long{\kf26} there{\kf39}af{\kf38}ter
+Dialogue: 0,0:01:38.82,0:01:40.75,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf26} went{\kf19} to{\kf32} my{\kf32} first{\kf65} con
+Dialogue: 0,0:01:41.45,0:01:43.78,DEFAULT,,0,0,0,,{\r}{\kf20}Had{\kf20} a{\kf27} lot{\kf20} of{\kf20} new{\kf20}~{\kf27} ad{\kf33}ven{\kf45}tures
+Dialogue: 0,0:01:44.00,0:01:46.59,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf39} I{\kf39} had{\kf19} a{\kf32} lot{\kf45} of{\kf66} fun
+Dialogue: 0,0:01:46.98,0:01:49.22,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf18} spent{\kf18} a{\kf18} week{\kf29}end{\kf24} in{\kf24}~{\kf18} a{\kf57} world
+Dialogue: 0,0:01:49.96,0:01:52.02,DEFAULT,,0,0,0,,{\r}{\kf27}Much{\kf27} dif{\kf27}ferent{\kf27} from{\kf27} my{\kf71} own
+Dialogue: 0,0:01:52.77,0:01:55.23,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} I{\kf28} learned{\kf21} a{\kf28} mil{\kf35}lion{\kf42} things{\kf21} a{\kf29}bout
+Dialogue: 0,0:01:55.45,0:01:58.34,DEFAULT,,0,0,0,,{\r}{\kf26}The{\kf58} po{\kf26}nies{\kf26} from{\kf71} the{\kf82} show
+Dialogue: 0,0:01:59.66,0:02:02.07,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf18} when{\kf18} I{\kf24} had{\kf18} to{\kf30} say{\kf18}~{\kf18} good{\kf24}bye{\kf55}~
+Dialogue: 0,0:02:02.81,0:02:05.93,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf28} tears{\kf22} fell{\kf17} from{\kf28} my{\kf28} eyes{\kf171}~
+Dialogue: 0,0:02:06.89,0:02:09.26,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} I{\kf36} forced{\kf22} a{\kf36} smile{\kf22} and{\kf29} turned{\kf22} a{\kf26}way
+Dialogue: 0,0:02:09.44,0:02:11.76,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf18} said{\kf18} I{\kf18} think{\kf24} I'll{\kf18} be{\kf31} al{\kf87}right
+Dialogue: 0,0:02:13.60,0:02:16.37,DEFAULT,,0,0,0,,{\r}{\kf26}'Cause{\kf19} to{\kf32}ge{\kf32}~{\kf19}ther{\kf26} we{\kf32} can{\kf51} do{\kf39} it
+Dialogue: 0,0:02:16.76,0:02:18.73,DEFAULT,,0,0,0,,{\r}{\kf19}O{\kf19}ver{\kf19}come{\kf32} our{\kf25} fears{\kf32} and{\kf51} doubts
+Dialogue: 0,0:02:19.48,0:02:22.02,DEFAULT,,0,0,0,,{\r}{\kf18}Though{\kf12} e{\kf18}very{\kf18}po{\kf36}ny{\kf24} loves{\kf18}~{\kf18} to{\kf54} shun{\kf38} us
+Dialogue: 0,0:02:22.59,0:02:24.61,DEFAULT,,0,0,0,,{\r}{\kf19}To{\kf19}ge{\kf25}ther{\kf25} we{\kf19} stand{\kf32}~{\kf63} proud
+Dialogue: 0,0:02:24.92,0:02:27.64,DEFAULT,,0,0,0,,{\r}{\kf33}Hoof{\kf33} in{\kf33} hoof{\kf20} we{\kf27} all{\kf33} will{\kf53} wea{\kf40}ther
+Dialogue: 0,0:02:28.30,0:02:30.09,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf20} storm{\kf20}~{\kf27} and{\kf20} the{\kf20}~{\kf53} hate
+Dialogue: 0,0:02:30.88,0:02:33.21,DEFAULT,,0,0,0,,{\r}{\kf19}'Cause{\kf19} as{\kf25} long{\kf19} as{\kf25} we're{\kf38} to{\kf63}ge{\kf24}ther
+Dialogue: 0,0:02:33.91,0:02:35.97,DEFAULT,,0,0,0,,{\r}{\kf19}We're{\kf19} bet{\kf32}ter{\kf32} off{\kf32} this{\kf72} way
+Dialogue: 0,0:02:36.37,0:02:39.17,DEFAULT,,0,0,0,,{\r}{\kf18}We've{\kf18} got{\kf18} bro{\kf24}ny{\kf24} pride{\kf30}~{\kf18} for{\kf24}e{\kf107}ver
+Dialogue: 0,0:02:43.82,0:02:45.88,DEFAULT,,0,0,0,,{\r}{\kf21}These{\kf27} years{\kf21} have{\kf27} sure{\kf41} flown{\kf69} by
+Dialogue: 0,0:02:46.63,0:02:49.22,DEFAULT,,0,0,0,,{\r}{\kf19}Still{\kf32} got{\kf32} Dash{\kf19}ie{\kf32} by{\kf32} my{\kf26} side{\kf19}~{\kf48}~
+Dialogue: 0,0:02:50.09,0:02:51.98,DEFAULT,,0,0,0,,{\r}{\kf44}I{\kf19} still{\kf25} have{\kf19} my{\kf32} pride{\kf50}~
+Dialogue: 0,0:02:52.16,0:02:54.26,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf27} I'm{\kf27} still{\kf20} a{\kf27} bro{\kf20}~{\kf70}ny
+Dialogue: 0,0:02:56.10,0:02:58.12,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} ma{\kf26}ny{\kf20} years{\kf26}~{\kf20} from{\kf70} now
+Dialogue: 0,0:02:58.95,0:03:01.50,DEFAULT,,0,0,0,,{\r}{\kf20}Gon{\kf20}na{\kf20} sit{\kf26} my{\kf33} chil{\kf26}dren{\kf52} down{\kf20}~{\kf37}~
+Dialogue: 0,0:03:02.29,0:03:04.17,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf30} tell{\kf24} them{\kf47} all{\kf18} a{\kf30}bout{\kf22}~
+Dialogue: 0,0:03:04.39,0:03:06.85,DEFAULT,,0,0,0,,{\r}{\kf15}These{\kf15} a{\kf26}maz{\kf87}ing{\kf10}~{\kf20}~{\kf73} times
+Dialogue: 0,0:03:08.38,0:03:10.97,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf34} joined{\kf20} the{\kf48} herd{\kf20} and{\kf55} learned{\kf27} that{\kf35} I
+Dialogue: 0,0:03:11.19,0:03:13.95,DEFAULT,,0,0,0,,{\r}{\kf17}Will{\kf23} ne{\kf34}~{\kf17}ver{\kf34} be{\kf23} a{\kf23}lone{\kf17}~{\kf88}~
+Dialogue: 0,0:03:15.88,0:03:18.87,DEFAULT,,0,0,0,,{\r}{\kf19}I'm{\kf19} sur{\kf32}round{\kf19}ed{\kf32} by{\kf26}~{\kf26} my{\kf32} friends{\kf19} who{\kf52} al{\kf22}ways
+Dialogue: 0,0:03:19.13,0:03:20.66,DEFAULT,,0,0,0,,{\r}{\kf19}Help{\kf19} me{\kf26} feel{\kf26} at{\kf64} home
+Dialogue: 0,0:03:25.62,0:03:28.21,DEFAULT,,0,0,0,,{\r}{\kf19}'Cause{\kf26} to{\kf39}ge{\kf19}ther{\kf32} we{\kf32} can{\kf52} do{\kf40} it
+Dialogue: 0,0:03:28.60,0:03:30.62,DEFAULT,,0,0,0,,{\r}{\kf20}O{\kf20}ver{\kf20}come{\kf27} our{\kf27} fears{\kf27} and{\kf61} doubts
+Dialogue: 0,0:03:31.28,0:03:33.87,DEFAULT,,0,0,0,,{\r}{\kf19}Though{\kf13} e{\kf19}very{\kf19}po{\kf32}ny{\kf25} loves{\kf25}~{\kf19} to{\kf44} shun{\kf44} us
+Dialogue: 0,0:03:34.44,0:03:36.45,DEFAULT,,0,0,0,,{\r}{\kf18}To{\kf18}ge{\kf31}ther{\kf31} we{\kf49} stand{\kf55} proud
+Dialogue: 0,0:03:36.76,0:03:39.57,DEFAULT,,0,0,0,,{\r}{\kf32}Hoof{\kf26} in{\kf32} hoof{\kf26} we{\kf26} all{\kf38} will{\kf51} wea{\kf50}ther
+Dialogue: 0,0:03:40.09,0:03:41.94,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf19} storm{\kf25}~{\kf25} and{\kf38} the{\kf58} hate
+Dialogue: 0,0:03:42.73,0:03:45.27,DEFAULT,,0,0,0,,{\r}{\kf19}'Cause{\kf19} as{\kf31} long{\kf19} as{\kf25} we're{\kf25} to{\kf68}ge{\kf48}ther
+Dialogue: 0,0:03:45.75,0:03:47.64,DEFAULT,,0,0,0,,{\r}{\kf18}We're{\kf18} bet{\kf30}ter{\kf30} off{\kf49} this{\kf44} way
+Dialogue: 0,0:03:48.03,0:03:50.84,DEFAULT,,0,0,0,,{\r}{\kf21}Yes,{\kf35} to{\kf28}ge{\kf28}ther{\kf35} we{\kf28} can{\kf56} do{\kf50} it
+Dialogue: 0,0:03:51.23,0:03:53.21,DEFAULT,,0,0,0,,{\r}{\kf19}O{\kf19}ver{\kf19}come{\kf25} our{\kf32} fears{\kf25} and{\kf58} doubts
+Dialogue: 0,0:03:53.87,0:03:56.45,DEFAULT,,0,0,0,,{\r}{\kf18}Though{\kf12} e{\kf18}very{\kf18}po{\kf36}ny{\kf24} loves{\kf18}~{\kf18} to{\kf60} shun{\kf37} us
+Dialogue: 0,0:03:57.02,0:03:58.95,DEFAULT,,0,0,0,,{\r}{\kf19}To{\kf19}ge{\kf32}ther{\kf26} we{\kf51} stand{\kf46} proud
+Dialogue: 0,0:03:59.35,0:04:02.16,DEFAULT,,0,0,0,,{\r}{\kf27}Hoof{\kf33} in{\kf33} hoof{\kf20} we{\kf27} all{\kf27} will{\kf60} wea{\kf54}ther
+Dialogue: 0,0:04:02.68,0:04:04.48,DEFAULT,,0,0,0,,{\r}{\kf13}The{\kf26} storm{\kf26}~{\kf26} and{\kf39} the{\kf50} hate
+Dialogue: 0,0:04:05.31,0:04:07.81,DEFAULT,,0,0,0,,{\r}{\kf19}'Cause{\kf19} as{\kf26} long{\kf19} as{\kf26} we're{\kf26} to{\kf64}ge{\kf51}ther
+Dialogue: 0,0:04:08.30,0:04:10.31,DEFAULT,,0,0,0,,{\r}{\kf20}We're{\kf20} bet{\kf27}ter{\kf27} off{\kf47} this{\kf61} way
+Dialogue: 0,0:04:10.80,0:04:14.39,DEFAULT,,0,0,0,,{\r}{\kf17}We've{\kf17} got{\kf17} bro{\kf22}ny{\kf22} pride{\kf34}~{\kf17} for{\kf17}e{\kf197}ver

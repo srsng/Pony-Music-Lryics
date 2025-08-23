@@ -1,19 +1,26 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: A Day With Prince
+Artist: KnifeH
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.34,0:00:03.36,DEFAULT,,0,0,0,,{\kf5}Ah{\kf15} ah{\kf15} ah{\kf20} ah{\kf15} ah{\kf10} ah{\kf25} ah{\kf25} ha{\kf25} ha{\kf35} ah{\kf30} ha{\kf15} ha{\kf55} ha
-Dialogue: 0,0:00:03.90,0:00:05.83,DEFAULT,,0,0,0,,{\kf30}Ah{\kf35} ah{\kf20} ah{\kf90} ha
-Dialogue: 0,0:00:06.28,0:00:09.84,DEFAULT,,0,0,0,,{\kf35}Ah{\kf25} ah{\kf25} ha{\kf10} ha{\kf20} ha{\kf35} ha{\kf25} ah{\kf15} ah{\kf15} ah{\kf30} ah{\kf20} ah{\kf20} ah{\kf20} ah{\kf20} ah{\kf25} ah
-Dialogue: 0,0:00:10.18,0:00:10.87,DEFAULT,,0,0,0,,{\kf70}Ah
-Dialogue: 0,0:00:11.42,0:00:12.95,DEFAULT,,0,0,0,,{\kf35}Ah{\kf15} ha{\kf35} ha{\kf20} ah{\kf10} ah{\kf15} ah{\kf25} ah
-Dialogue: 0,0:00:13.30,0:00:13.89,DEFAULT,,0,0,0,,{\kf10}Ah{\kf30} ah{\kf20} ah
-Dialogue: 0,0:00:14.19,0:00:16.41,DEFAULT,,0,0,0,,{\kf50}Oh{\kf60} oh{\kf60} ah{\kf20} ah{\kf35} ah
-Dialogue: 0,0:00:17.01,0:00:17.35,DEFAULT,,0,0,0,,{\kf15}Ha{\kf20} ha
+Dialogue: 0,0:00:00.35,0:00:03.36,DEFAULT,,0,0,0,,{\r}{\kf10}Ah{\kf16} ah{\kf16} ah{\kf21} ah{\kf16} ah{\kf10} ah{\kf26} ah{\kf26} ha{\kf26} ha{\kf36} ah{\kf31} ha{\kf16} ha{\kf52} ha
+Dialogue: 0,0:00:03.91,0:00:05.84,DEFAULT,,0,0,0,,{\r}{\kf33}Ah{\kf39} ah{\kf22} ah{\kf99} ha
+Dialogue: 0,0:00:06.28,0:00:09.84,DEFAULT,,0,0,0,,{\r}{\kf37}Ah{\kf26} ah{\kf26} ha{\kf10} ha{\kf21} ha{\kf37} ha{\kf26} ah{\kf16} ah{\kf16} ah{\kf31} ah{\kf21} ah{\kf21} ah{\kf21} ah{\kf21} ah{\kf26} ah
+Dialogue: 0,0:00:10.19,0:00:10.88,DEFAULT,,0,0,0,,{\r}{\kf69}Ah
+Dialogue: 0,0:00:11.42,0:00:12.96,DEFAULT,,0,0,0,,{\r}{\kf35}Ah{\kf15} ha{\kf35} ha{\kf20} ah{\kf10} ah{\kf15} ah{\kf23} ah
+Dialogue: 0,0:00:13.30,0:00:13.90,DEFAULT,,0,0,0,,{\r}{\kf10}Ah{\kf30} ah{\kf19} ah
+Dialogue: 0,0:00:14.19,0:00:16.42,DEFAULT,,0,0,0,,{\r}{\kf50}Oh{\kf59} oh{\kf59} ah{\kf20} ah{\kf35} ah
+Dialogue: 0,0:00:17.01,0:00:17.36,DEFAULT,,0,0,0,,{\r}{\kf15}Ha{\kf20} ha

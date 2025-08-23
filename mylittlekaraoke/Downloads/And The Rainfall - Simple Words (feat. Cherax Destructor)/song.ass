@@ -1,71 +1,78 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Simple Words
+Artist: And The Rainfall, Cherax Destructor
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:17.12,0:00:20.30,DEFAULT,,0,0,0,,{\kf1730}It{\kf1730} has{\kf1743}n't{\kf1772} been{\kf1730} near{\kf1734}ly{\kf1730} long{\kf1730} e{\kf1747}nough
-Dialogue: 0,0:00:20.93,0:00:23.69,DEFAULT,,0,0,0,,{\kf1730}But{\kf1730} I{\kf1730} seem{\kf1730} to{\kf1730} be{\kf1747} do{\kf1734}ing{\kf1730} al{\kf1755}right
-Dialogue: 0,0:00:25.26,0:00:31.57,DEFAULT,,0,0,0,,{\kf1730}I{\kf1734} was{\kf1734} to{\kf1764}day;{\kf1730} I{\kf1730} made{\kf1743} my{\kf1739} meals{\kf1887}~{\kf1828}~
-Dialogue: 0,0:00:33.60,0:00:36.49,DEFAULT,,0,0,0,,{\kf1768}Some{\kf1785} days{\kf1730} I{\kf1730} can't{\kf1726} be{\kf1743} sure
-Dialogue: 0,0:00:36.70,0:00:38.27,DEFAULT,,0,0,0,,{\kf1730}That{\kf1730} I'm{\kf1730} out{\kf1730} of{\kf1730} my{\kf1739} curse
-Dialogue: 0,0:00:38.48,0:00:40.60,DEFAULT,,0,0,0,,{\kf1726}That{\kf1730} I{\kf1730} can't{\kf1730} go{\kf1730} back{\kf1730} a{\kf1734}gain{\kf1743}~
-Dialogue: 0,0:00:41.53,0:00:48.73,DEFAULT,,0,0,0,,{\kf1730}I{\kf1734} se{\kf1739}cret{\kf1772}ly{\kf1734} hope{\kf1743} I{\kf1734} won't{\kf1802}~{\kf1730} if{\kf1743} I{\kf1730}~{\kf1870} try{\kf1734}~
-Dialogue: 0,0:01:05.68,0:01:09.75,DEFAULT,,0,0,0,,{\kf1730}I{\kf1730} see{\kf1751} friend{\kf1734}ly{\kf1747} fa{\kf1747}ces{\kf1730} from{\kf1730} time{\kf1730} to{\kf1760} time{\kf1760}~
-Dialogue: 0,0:01:10.00,0:01:13.69,DEFAULT,,0,0,0,,{\kf1730}Some{\kf1734} days{\kf1739} it's{\kf1743} hard{\kf1734} to{\kf1730} e{\kf1730}ven{\kf1730} stand{\kf1730} up{\kf1760}right{\kf1747}~
-Dialogue: 0,0:01:14.03,0:01:15.77,DEFAULT,,0,0,0,,{\kf1730}Some{\kf1739} days{\kf1730} are{\kf1734} bet{\kf1755}ter
-Dialogue: 0,0:01:19.15,0:01:23.99,DEFAULT,,0,0,0,,{\kf1726}I{\kf1730} e{\kf1743}ven{\kf1751} go{\kf1739} out{\kf1989}side
-Dialogue: 0,0:01:55.04,0:01:58.10,DEFAULT,,0,0,0,,{\kf1730}May{\kf1730}be{\kf1730} it's{\kf1751} true{\kf1726} that{\kf1730} time{\kf1730} heals{\kf1734} all{\kf1739} wounds
-Dialogue: 0,0:01:59.11,0:02:02.08,DEFAULT,,0,0,0,,{\kf1726}May{\kf1730}be{\kf1730} it{\kf1777} works{\kf1760} both{\kf1760} ways
-Dialogue: 0,0:02:03.18,0:02:06.02,DEFAULT,,0,0,0,,{\kf1730}One{\kf1726} fate{\kf1726} for{\kf1739} me{\kf1730} and{\kf1730} for{\kf1726} the{\kf1734} rest{\kf1730} of{\kf1743} us
-Dialogue: 0,0:02:06.49,0:02:09.58,DEFAULT,,0,0,0,,{\kf1730}Where{\kf1726} con{\kf1726}se{\kf1734}quence{\kf1730} is{\kf1730} a{\kf1751} no{\kf1730}vel{\kf1734} i{\kf1730}dea{\kf1743}~
-Dialogue: 0,0:02:11.06,0:02:14.32,DEFAULT,,0,0,0,,{\kf1726}And{\kf1730} it{\kf1739} still{\kf1781} feels{\kf1785} like{\kf1751}~
-Dialogue: 0,0:02:15.13,0:02:18.43,DEFAULT,,0,0,0,,{\kf1726}A{\kf1730}no{\kf1743}ther{\kf1755} en{\kf1730}core's{\kf1726} a{\kf1739} blink{\kf1730} a{\kf1734}way{\kf1739}~
-Dialogue: 0,0:02:18.65,0:02:20.43,DEFAULT,,0,0,0,,{\kf1726}There's{\kf1730} some{\kf1730}thing{\kf1730} bet{\kf1730}ter{\kf1730} a{\kf1739}head
-Dialogue: 0,0:02:20.93,0:02:22.42,DEFAULT,,0,0,0,,{\kf1726}And{\kf1730} it's{\kf1730} wait{\kf1730}ing{\kf1730} for{\kf1734} me
-Dialogue: 0,0:02:25.77,0:02:26.61,DEFAULT,,0,0,0,,{\kf1730}Wait{\kf1730} for{\kf1747} me
-Dialogue: 0,0:02:44.07,0:02:46.95,DEFAULT,,0,0,0,,{\kf1730}A{\kf1726}long{\kf1726} the{\kf1730} streets{\kf1747} that{\kf1747} saw{\kf1734} me{\kf1734} die{\kf1743}~
-Dialogue: 0,0:02:47.63,0:02:50.13,DEFAULT,,0,0,0,,{\kf1730}The{\kf1726} rain{\kf1730} is{\kf1730} danc{\kf1730}ing{\kf1730} un{\kf1730}der{\kf1726} the{\kf1739} sun{\kf1730}~
-Dialogue: 0,0:02:51.19,0:02:53.94,DEFAULT,,0,0,0,,{\kf1726}It{\kf1730} washed{\kf1726} a{\kf1730}way{\kf1730}~{\kf1730} all{\kf1726} the{\kf1730} blood{\kf1726} and{\kf1726} the{\kf1734} death
-Dialogue: 0,0:02:54.24,0:02:57.04,DEFAULT,,0,0,0,,{\kf1730}And{\kf1726} all{\kf1730} that's{\kf1730} left{\kf1730} is{\kf1730} all{\kf1730} the{\kf1730} time{\kf1726} that{\kf1730} is{\kf1739} mine
-Dialogue: 0,0:02:57.29,0:03:00.47,DEFAULT,,0,0,0,,{\kf1726}I{\kf1726} can{\kf1730} wait{\kf1726}~{\kf1730} for{\kf1730} peace{\kf1730} to{\kf1730} catch{\kf1730} up{\kf1730} with{\kf1730} my{\kf1755} head
-Dialogue: 0,0:03:02.38,0:03:04.66,DEFAULT,,0,0,0,,{\kf1726}For{\kf1726} the{\kf1734} sur{\kf1730}pri{\kf1730}ses{\kf1730} up{\kf1730} a{\kf1734}head{\kf1734}~
-Dialogue: 0,0:03:06.44,0:03:08.73,DEFAULT,,0,0,0,,{\kf1730}For{\kf1730} the{\kf1730} de{\kf1730}ci{\kf1730}sions{\kf1730} left{\kf1730} to{\kf1764} make
-Dialogue: 0,0:03:10.51,0:03:12.80,DEFAULT,,0,0,0,,{\kf1726}For{\kf1730} all{\kf1726} the{\kf1730} love{\kf1730} left{\kf1730} to{\kf1734} give{\kf1755}~
-Dialogue: 0,0:03:14.83,0:03:16.57,DEFAULT,,0,0,0,,{\kf1726}And{\kf1730} I{\kf1730} know{\kf1726} it's{\kf1730} been{\kf1730}~{\kf1734} rough
-Dialogue: 0,0:03:16.74,0:03:18.35,DEFAULT,,0,0,0,,{\kf1726}And{\kf1726} I{\kf1743} can't{\kf1734} say{\kf1730} e{\kf1730}nough
-Dialogue: 0,0:03:18.60,0:03:20.43,DEFAULT,,0,0,0,,{\kf1730}And{\kf1730} nei{\kf1730}ther{\kf1730} can{\kf1730} I{\kf1730} pre{\kf1739}tend
-Dialogue: 0,0:03:20.72,0:03:22.42,DEFAULT,,0,0,0,,{\kf1730}That{\kf1730} I{\kf1743} un{\kf1743}der{\kf1734}stand
-Dialogue: 0,0:03:22.67,0:03:25.72,DEFAULT,,0,0,0,,{\kf1726}But{\kf1730} if{\kf1730} you{\kf1739} put{\kf1743} your{\kf1734} trust{\kf1734} in{\kf1760} me
-Dialogue: 0,0:03:26.23,0:03:29.58,DEFAULT,,0,0,0,,{\kf1730}I'll{\kf1730} show{\kf1734} you{\kf1739} how{\kf1730} spe{\kf1730}cial{\kf1726} your{\kf1747} time{\kf1734} can{\kf1764} be
-Dialogue: 0,0:03:30.55,0:03:32.76,DEFAULT,,0,0,0,,{\kf1726}And{\kf1726} e{\kf1726}ven{\kf1730} if{\kf1730} I{\kf1730} can't{\kf1730} know{\kf1730} what{\kf1730} it's{\kf1726} like
-Dialogue: 0,0:03:32.97,0:03:34.75,DEFAULT,,0,0,0,,{\kf1726}Be{\kf1726}cause{\kf1730} your{\kf1734} life's{\kf1734} not{\kf1747} mine
-Dialogue: 0,0:03:34.96,0:03:36.65,DEFAULT,,0,0,0,,{\kf1726}I{\kf1730} can{\kf1730} show{\kf1730} you{\kf1730} that{\kf1730} I{\kf1734} care
-Dialogue: 0,0:03:36.99,0:03:38.73,DEFAULT,,0,0,0,,{\kf1726}For{\kf1730} you{\kf1730} I'm{\kf1739} al{\kf1734}ways{\kf1739} there
-Dialogue: 0,0:03:38.99,0:03:42.21,DEFAULT,,0,0,0,,{\kf1726}You{\kf1730} have{\kf1730} some{\kf1730}one{\kf1730} to{\kf1730} help{\kf1730} you{\kf1734} see{\kf1747} things{\kf1781} through
-Dialogue: 0,0:03:42.54,0:03:47.04,DEFAULT,,0,0,0,,{\kf1730}If{\kf1730} you{\kf1730} be{\kf1726}lieve{\kf1726} in{\kf1730} me{\kf1730} I'll{\kf1730} be{\kf1743} good{\kf1734} to{\kf1815} you{\kf1755} too
-Dialogue: 0,0:04:03.65,0:04:07.93,DEFAULT,,0,0,0,,{\kf1730}I{\kf1730} don't{\kf1730} want{\kf1726} to{\kf1730} be{\kf1743} lone{\kf1967}ly
-Dialogue: 0,0:04:08.69,0:04:11.40,DEFAULT,,0,0,0,,{\kf1734}I'll{\kf1743} stay,{\kf1734} I'll{\kf1743} stay,{\kf1734} with{\kf1747} you
-Dialogue: 0,0:04:11.82,0:04:16.06,DEFAULT,,0,0,0,,{\kf1730}When{\kf1726} I{\kf1730} feel{\kf1730} like{\kf1730} I'm{\kf1747} fal{\kf1959}ling
-Dialogue: 0,0:04:16.87,0:04:19.54,DEFAULT,,0,0,0,,{\kf1730}I'll{\kf1739} stay,{\kf1734} I'll{\kf1743} stay,{\kf1734} with{\kf1747} you
-Dialogue: 0,0:04:19.92,0:04:24.37,DEFAULT,,0,0,0,,{\kf1730}When{\kf1730} the{\kf1730} night{\kf1730}mares{\kf1730} get{\kf1747} to{\kf1980} me
-Dialogue: 0,0:04:24.96,0:04:27.67,DEFAULT,,0,0,0,,{\kf1734}I'll{\kf1743} stay,{\kf1734} I'll{\kf1739} stay,{\kf1734} with{\kf1747} you
-Dialogue: 0,0:04:28.05,0:04:32.88,DEFAULT,,0,0,0,,{\kf1730}When{\kf1730} I{\kf1730} feel{\kf1739} too{\kf1743} tired{\kf1734} to{\kf1849} breathe{\kf1734}~{\kf1730}~{\kf1730}~{\kf1734}~
-Dialogue: 0,0:04:33.14,0:04:36.65,DEFAULT,,0,0,0,,{\kf1730}I'll{\kf1751} stay,{\kf1734} I'll{\kf1743} stay,{\kf1734} with{\kf1747} you{\kf1739}~{\kf1755}~
-Dialogue: 0,0:04:37.46,0:04:41.23,DEFAULT,,0,0,0,,{\kf1730}'Cause{\kf1726} in{\kf1739} this{\kf1751} time{\kf1743}~{\kf1785}line{\kf1811}~
-Dialogue: 0,0:04:41.78,0:04:45.34,DEFAULT,,0,0,0,,{\kf1730}We've{\kf1730} got{\kf1726} a{\kf1747} shot{\kf1726} at{\kf1730} a{\kf1751} hap{\kf1730}py{\kf1743} end{\kf1764}ing
-Dialogue: 0,0:04:45.60,0:04:50.47,DEFAULT,,0,0,0,,{\kf1730}The{\kf1739} rest{\kf1747} can{\kf1743} wait{\kf1743} un{\kf1743}til{\kf1730} to{\kf1730}mor{\kf1870}row
-Dialogue: 0,0:04:53.82,0:04:57.46,DEFAULT,,0,0,0,,{\kf1726}And{\kf1730} it{\kf1743} still{\kf1777} feels{\kf1730}~{\kf1781} like{\kf1802}~
-Dialogue: 0,0:04:57.97,0:05:01.27,DEFAULT,,0,0,0,,{\kf1726}A{\kf1730}no{\kf1751}ther{\kf1747} en{\kf1734}core's{\kf1730} a{\kf1747} blink{\kf1730} a{\kf1739}way{\kf1739}~
-Dialogue: 0,0:05:01.87,0:05:07.21,DEFAULT,,0,0,0,,{\kf1730}But{\kf1739} it{\kf1739} can{\kf1743} wait{\kf1743} un{\kf1743}til{\kf1730} to{\kf1730}mor{\kf1912}row
-Dialogue: 0,0:05:16.82,0:05:21.27,DEFAULT,,0,0,0,,{\kf1734}I{\kf1730} don't{\kf1730} want{\kf1730} to{\kf1730} be{\kf1747} lone{\kf1976}ly
-Dialogue: 0,0:05:21.95,0:05:25.47,DEFAULT,,0,0,0,,{\kf1730}I'll{\kf1751} stay,{\kf1730} I'll{\kf1747} stay,{\kf1730} with{\kf1755} you{\kf1734}~{\kf1755}~
-Dialogue: 0,0:05:26.06,0:05:27.71,DEFAULT,,0,0,0,,{\kf1730}I'll{\kf1747} stay,{\kf1734} I'll{\kf1751} stay
-Dialogue: 0,0:05:29.88,0:05:33.52,DEFAULT,,0,0,0,,{\kf1726}Oh{\kf1730} I'll{\kf1743} stay,{\kf1734} I'll{\kf1743} stay,{\kf1734} with{\kf1755} you{\kf1734}~{\kf1751}~
-Dialogue: 0,0:05:34.11,0:05:35.85,DEFAULT,,0,0,0,,{\kf1730}I'll{\kf1743} stay,{\kf1730} I'll{\kf1751} stay
-Dialogue: 0,0:05:38.22,0:05:41.82,DEFAULT,,0,0,0,,{\kf1730}I'll{\kf1747} stay,{\kf1730} I'll{\kf1751} stay,{\kf1730} with{\kf1760} you{\kf1734}~{\kf1760}~
+Dialogue: 0,0:00:17.13,0:00:20.30,DEFAULT,,0,0,0,,{\r}{\kf24}It{\kf24} has{\kf41}n't{\kf82} been{\kf24} near{\kf29}ly{\kf24} long{\kf24} e{\kf46}nough
+Dialogue: 0,0:00:20.94,0:00:23.69,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf23} I{\kf23} seem{\kf23} to{\kf23} be{\kf47} do{\kf29}ing{\kf23} al{\kf61}right
+Dialogue: 0,0:00:25.26,0:00:31.58,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf27} was{\kf27} to{\kf66}day;{\kf22} I{\kf22} made{\kf38} my{\kf33} meals{\kf225}~{\kf149}~
+Dialogue: 0,0:00:33.61,0:00:36.49,DEFAULT,,0,0,0,,{\r}{\kf78}Some{\kf102} days{\kf24} I{\kf24} can't{\kf18} be{\kf42} sure
+Dialogue: 0,0:00:36.70,0:00:38.27,DEFAULT,,0,0,0,,{\r}{\kf24}That{\kf24} I'm{\kf24} out{\kf24} of{\kf24} my{\kf37} curse
+Dialogue: 0,0:00:38.48,0:00:40.60,DEFAULT,,0,0,0,,{\r}{\kf18}That{\kf24} I{\kf24} can't{\kf24} go{\kf24} back{\kf24} a{\kf30}gain{\kf44}~
+Dialogue: 0,0:00:41.53,0:00:48.74,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf29} se{\kf35}cret{\kf81}ly{\kf29} hope{\kf41} I{\kf29} won't{\kf122}~{\kf23} if{\kf41} I{\kf23}~{\kf215} try{\kf29}~
+Dialogue: 0,0:01:05.69,0:01:09.75,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf23} see{\kf51} friend{\kf28}ly{\kf45} fa{\kf45}ces{\kf23} from{\kf23} time{\kf23} to{\kf62} time{\kf61}~
+Dialogue: 0,0:01:10.01,0:01:13.69,DEFAULT,,0,0,0,,{\r}{\kf24}Some{\kf30} days{\kf36} it's{\kf42} hard{\kf30} to{\kf24} e{\kf24}ven{\kf24} stand{\kf24} up{\kf65}right{\kf46}~
+Dialogue: 0,0:01:14.03,0:01:15.77,DEFAULT,,0,0,0,,{\r}{\kf24}Some{\kf36} days{\kf24} are{\kf30} bet{\kf60}ter
+Dialogue: 0,0:01:19.16,0:01:23.99,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf21} e{\kf36}ven{\kf46} go{\kf31} out{\kf334}side
+Dialogue: 0,0:01:55.05,0:01:58.10,DEFAULT,,0,0,0,,{\r}{\kf28}May{\kf28}be{\kf28} it's{\kf64} true{\kf21} that{\kf28} time{\kf28} heals{\kf35} all{\kf45} wounds
+Dialogue: 0,0:01:59.12,0:02:02.08,DEFAULT,,0,0,0,,{\r}{\kf19}May{\kf25}be{\kf25} it{\kf93} works{\kf68} both{\kf67} ways
+Dialogue: 0,0:02:03.19,0:02:06.02,DEFAULT,,0,0,0,,{\r}{\kf26}One{\kf20} fate{\kf20} for{\kf40} me{\kf26} and{\kf26} for{\kf20} the{\kf33} rest{\kf26} of{\kf47} us
+Dialogue: 0,0:02:06.49,0:02:09.58,DEFAULT,,0,0,0,,{\r}{\kf24}Where{\kf18} con{\kf18}se{\kf30}quence{\kf24} is{\kf24} a{\kf53} no{\kf24}vel{\kf30} i{\kf24}dea{\kf40}~
+Dialogue: 0,0:02:11.07,0:02:14.33,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf24} it{\kf36} still{\kf95} feels{\kf101} like{\kf52}~
+Dialogue: 0,0:02:15.13,0:02:18.44,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf25}no{\kf45}ther{\kf64} en{\kf25}core's{\kf19} a{\kf38} blink{\kf25} a{\kf32}way{\kf39}~
+Dialogue: 0,0:02:18.65,0:02:20.43,DEFAULT,,0,0,0,,{\r}{\kf18}There's{\kf25} some{\kf25}thing{\kf25} bet{\kf25}ter{\kf25} a{\kf35}head
+Dialogue: 0,0:02:20.94,0:02:22.42,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf25} it's{\kf25} wait{\kf25}ing{\kf25} for{\kf30} me
+Dialogue: 0,0:02:25.77,0:02:26.62,DEFAULT,,0,0,0,,{\r}{\kf21}Wait{\kf21} for{\kf43} me
+Dialogue: 0,0:02:44.08,0:02:46.96,DEFAULT,,0,0,0,,{\r}{\kf25}A{\kf18}long{\kf18} the{\kf25} streets{\kf49} that{\kf49} saw{\kf31} me{\kf31} die{\kf42}~
+Dialogue: 0,0:02:47.63,0:02:50.13,DEFAULT,,0,0,0,,{\r}{\kf25}The{\kf19} rain{\kf25} is{\kf25} danc{\kf25}ing{\kf25} un{\kf25}der{\kf19} the{\kf37} sun{\kf25}~
+Dialogue: 0,0:02:51.19,0:02:53.95,DEFAULT,,0,0,0,,{\r}{\kf21}It{\kf28} washed{\kf21} a{\kf28}way{\kf28}~{\kf28} all{\kf21} the{\kf28} blood{\kf21} and{\kf21} the{\kf30} death
+Dialogue: 0,0:02:54.24,0:02:57.04,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf19} all{\kf25} that's{\kf25} left{\kf25} is{\kf25} all{\kf25} the{\kf25} time{\kf19} that{\kf25} is{\kf42} mine
+Dialogue: 0,0:02:57.30,0:03:00.47,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf19} can{\kf25} wait{\kf19}~{\kf25} for{\kf25} peace{\kf25} to{\kf25} catch{\kf25} up{\kf25} with{\kf25} my{\kf61} head
+Dialogue: 0,0:03:02.38,0:03:04.67,DEFAULT,,0,0,0,,{\r}{\kf19}For{\kf19} the{\kf31} sur{\kf25}pri{\kf25}ses{\kf25} up{\kf25} a{\kf31}head{\kf29}~
+Dialogue: 0,0:03:06.45,0:03:08.74,DEFAULT,,0,0,0,,{\r}{\kf23}For{\kf23} the{\kf23} de{\kf23}ci{\kf23}sions{\kf23} left{\kf23} to{\kf68} make
+Dialogue: 0,0:03:10.52,0:03:12.80,DEFAULT,,0,0,0,,{\r}{\kf19}For{\kf25} all{\kf19} the{\kf25} love{\kf25} left{\kf25} to{\kf31} give{\kf60}~
+Dialogue: 0,0:03:14.84,0:03:16.58,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf26} I{\kf26} know{\kf19} it's{\kf26} been{\kf26}~{\kf32} rough
+Dialogue: 0,0:03:16.74,0:03:18.35,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} I{\kf43} can't{\kf31} say{\kf25} e{\kf24}nough
+Dialogue: 0,0:03:18.61,0:03:20.43,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf24} nei{\kf24}ther{\kf24} can{\kf24} I{\kf24} pre{\kf38}tend
+Dialogue: 0,0:03:20.73,0:03:22.42,DEFAULT,,0,0,0,,{\r}{\kf25}That{\kf25} I{\kf44} un{\kf44}der{\kf31}stand
+Dialogue: 0,0:03:22.68,0:03:25.73,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf27} if{\kf27} you{\kf41} put{\kf47} your{\kf34} trust{\kf34} in{\kf75} me
+Dialogue: 0,0:03:26.24,0:03:29.58,DEFAULT,,0,0,0,,{\r}{\kf24}I'll{\kf24} show{\kf30} you{\kf37} how{\kf24} spe{\kf24}cial{\kf18} your{\kf49} time{\kf30} can{\kf75} be
+Dialogue: 0,0:03:30.56,0:03:32.76,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf18} e{\kf18}ven{\kf24} if{\kf24} I{\kf24} can't{\kf24} know{\kf24} what{\kf24} it's{\kf22} like
+Dialogue: 0,0:03:32.97,0:03:34.75,DEFAULT,,0,0,0,,{\r}{\kf19}Be{\kf19}cause{\kf25} your{\kf32} life's{\kf32} not{\kf51} mine
+Dialogue: 0,0:03:34.96,0:03:36.66,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf24} can{\kf24} show{\kf24} you{\kf24} that{\kf24} I{\kf31} care
+Dialogue: 0,0:03:37.00,0:03:38.74,DEFAULT,,0,0,0,,{\r}{\kf19}For{\kf25} you{\kf25} I'm{\kf37} al{\kf31}ways{\kf37} there
+Dialogue: 0,0:03:38.99,0:03:42.21,DEFAULT,,0,0,0,,{\r}{\kf17}You{\kf23} have{\kf23} some{\kf23}one{\kf23} to{\kf23} help{\kf23} you{\kf29} see{\kf46} things{\kf92} through
+Dialogue: 0,0:03:42.55,0:03:47.04,DEFAULT,,0,0,0,,{\r}{\kf24}If{\kf24} you{\kf24} be{\kf18}lieve{\kf18} in{\kf24} me{\kf24} I'll{\kf24} be{\kf41} good{\kf30} to{\kf142} you{\kf56} too
+Dialogue: 0,0:04:03.65,0:04:07.93,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf20} don't{\kf20} want{\kf15} to{\kf20} be{\kf35} lone{\kf298}ly
+Dialogue: 0,0:04:08.69,0:04:11.41,DEFAULT,,0,0,0,,{\r}{\kf37}I'll{\kf51} stay,{\kf37} I'll{\kf51} stay,{\kf37} with{\kf58} you
+Dialogue: 0,0:04:11.83,0:04:16.07,DEFAULT,,0,0,0,,{\r}{\kf20}When{\kf15} I{\kf20} feel{\kf20} like{\kf20} I'm{\kf40} fal{\kf289}ling
+Dialogue: 0,0:04:16.87,0:04:19.54,DEFAULT,,0,0,0,,{\r}{\kf31}I'll{\kf46} stay,{\kf38} I'll{\kf53} stay,{\kf38} with{\kf61} you
+Dialogue: 0,0:04:19.92,0:04:24.37,DEFAULT,,0,0,0,,{\r}{\kf20}When{\kf20} the{\kf20} night{\kf20}mares{\kf20} get{\kf39} to{\kf306} me
+Dialogue: 0,0:04:24.96,0:04:27.68,DEFAULT,,0,0,0,,{\r}{\kf38}I'll{\kf53} stay,{\kf38} I'll{\kf45} stay,{\kf38} with{\kf59} you
+Dialogue: 0,0:04:28.06,0:04:32.89,DEFAULT,,0,0,0,,{\r}{\kf24}When{\kf24} I{\kf24} feel{\kf36} too{\kf42} tired{\kf30} to{\kf193} breathe{\kf30}~{\kf24}~{\kf24}~{\kf32}~
+Dialogue: 0,0:04:33.14,0:04:36.66,DEFAULT,,0,0,0,,{\r}{\kf26}I'll{\kf59} stay,{\kf33} I'll{\kf46} stay,{\kf33} with{\kf52} you{\kf39}~{\kf64}~
+Dialogue: 0,0:04:37.46,0:04:41.24,DEFAULT,,0,0,0,,{\r}{\kf22}'Cause{\kf16} in{\kf33} this{\kf49} time{\kf38}~{\kf93}line{\kf126}~
+Dialogue: 0,0:04:41.79,0:04:45.35,DEFAULT,,0,0,0,,{\r}{\kf25}We've{\kf25} got{\kf18} a{\kf49} shot{\kf18} at{\kf25} a{\kf55} hap{\kf25}py{\kf43} end{\kf73}ing
+Dialogue: 0,0:04:45.60,0:04:50.47,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf35} rest{\kf46} can{\kf41} wait{\kf41} un{\kf41}til{\kf23} to{\kf23}mor{\kf214}row
+Dialogue: 0,0:04:53.82,0:04:57.46,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf21} it{\kf36} still{\kf78} feels{\kf21}~{\kf83} like{\kf109}~
+Dialogue: 0,0:04:57.97,0:05:01.28,DEFAULT,,0,0,0,,{\r}{\kf17}A{\kf23}no{\kf52}ther{\kf46} en{\kf29}core's{\kf23} a{\kf46} blink{\kf23} a{\kf35}way{\kf37}~
+Dialogue: 0,0:05:01.87,0:05:07.21,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf35} it{\kf35} can{\kf41} wait{\kf41} un{\kf41}til{\kf23} to{\kf23}mor{\kf272}row
+Dialogue: 0,0:05:16.83,0:05:21.28,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf20} don't{\kf20} want{\kf20} to{\kf20} be{\kf39} lone{\kf302}ly
+Dialogue: 0,0:05:21.96,0:05:25.47,DEFAULT,,0,0,0,,{\r}{\kf26}I'll{\kf59} stay,{\kf26} I'll{\kf52} stay,{\kf26} with{\kf65} you{\kf33}~{\kf65}~
+Dialogue: 0,0:05:26.07,0:05:27.72,DEFAULT,,0,0,0,,{\r}{\kf25}I'll{\kf51} stay,{\kf32} I'll{\kf57} stay
+Dialogue: 0,0:05:29.88,0:05:33.52,DEFAULT,,0,0,0,,{\r}{\kf20}Oh{\kf26} I'll{\kf46} stay,{\kf33} I'll{\kf46} stay,{\kf33} with{\kf66} you{\kf33}~{\kf61}~
+Dialogue: 0,0:05:34.12,0:05:35.85,DEFAULT,,0,0,0,,{\r}{\kf29}I'll{\kf51} stay,{\kf29} I'll{\kf65} stay
+Dialogue: 0,0:05:38.23,0:05:41.83,DEFAULT,,0,0,0,,{\r}{\kf26}I'll{\kf51} stay,{\kf26} I'll{\kf58} stay,{\kf26} with{\kf71} you{\kf32}~{\kf70}~

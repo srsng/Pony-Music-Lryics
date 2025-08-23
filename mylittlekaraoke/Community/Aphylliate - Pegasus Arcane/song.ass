@@ -1,96 +1,103 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Pegasus Arcane
+Artist: Aphylliate, SkelterWise
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.35,0:00:06.15,DEFAULT,,0,0,0,,{\kf20}At{\kf25}ten{\kf35}tion
-Dialogue: 0,0:00:06.90,0:00:09.10,DEFAULT,,0,0,0,,{\kf20}All{\kf31} Ar{\kf25}cane{\kf20} pi{\kf16}lots{\kf16} to{\kf16} bat{\kf16}tle{\kf20} sta{\kf20}tions
-Dialogue: 0,0:00:10.20,0:00:12.40,DEFAULT,,0,0,0,,{\kf20}All{\kf31} Ar{\kf25}cane{\kf20} pi{\kf16}lots{\kf16} to{\kf16} bat{\kf16}tle{\kf20} sta{\kf20}tions
-Dialogue: 0,0:00:13.95,0:00:15.10,DEFAULT,,0,0,0,,{\kf16}E{\kf10}ne{\kf10}mies{\kf20} ap{\kf20}proach{\kf35}ing
-Dialogue: 0,0:00:15.70,0:00:17.90,DEFAULT,,0,0,0,,{\kf16}On{\kf20} this{\kf35} day,{\kf16} a{\kf20} hun{\kf10}dred{\kf20} years{\kf16} a{\kf25}go
-Dialogue: 0,0:00:19.20,0:00:21.50,DEFAULT,,0,0,0,,{\kf16}The{\kf20} pe{\kf16}ga{\kf16}si{\kf25} reached{\kf16} a{\kf10} state{\kf10} of{\kf16} in{\kf16}de{\kf20}pen{\kf25}dence
-Dialogue: 0,0:00:22.70,0:00:24.15,DEFAULT,,0,0,0,,{\kf16}And{\kf20} we've{\kf20} kept{\kf16} it{\kf20} that{\kf31} way
-Dialogue: 0,0:00:25.50,0:00:27.25,DEFAULT,,0,0,0,,{\kf16}We're{\kf20} not{\kf10} gon{\kf10}na{\kf10} lose{\kf20} our{\kf16} free{\kf10}dom{\kf10} a{\kf25}gain
-Dialogue: 0,0:00:28.25,0:00:30.80,DEFAULT,,0,0,0,,{\kf25}Not{\kf16} to{\kf31}day,{\kf25} not{\kf16} a{\kf16}ny{\kf35} day
-Dialogue: 0,0:00:31.95,0:00:33.85,DEFAULT,,0,0,0,,{\kf16}Hit{\kf16} 'em{\kf20} hard{\kf16} and{\kf20} don't{\kf25} hold{\kf35} back
-Dialogue: 0,0:01:00.30,0:01:01.45,DEFAULT,,0,0,0,,{\kf16}When{\kf25} I{\kf20} was{\kf31} small
-Dialogue: 0,0:01:01.65,0:01:02.95,DEFAULT,,0,0,0,,{\kf20}No{\kf16} one{\kf16} knew{\kf20} me{\kf16} at{\kf20} all
-Dialogue: 0,0:01:03.15,0:01:04.70,DEFAULT,,0,0,0,,{\kf10}I{\kf16} ne{\kf16}ver{\kf25} trust{\kf20}ed{\kf20} my{\kf20} wings
-Dialogue: 0,0:01:04.90,0:01:06.30,DEFAULT,,0,0,0,,{\kf16}'Cause{\kf20} I'd{\kf20} suf{\kf20}fer{\kf20} the{\kf20} fall
-Dialogue: 0,0:01:06.50,0:01:07.75,DEFAULT,,0,0,0,,{\kf20}Mo{\kf16}ther{\kf20} said{\kf16} to{\kf20} me
-Dialogue: 0,0:01:08.10,0:01:09.45,DEFAULT,,0,0,0,,{\kf20}"There{\kf10} is{\kf25} more{\kf16} to{\kf35} see"
-Dialogue: 0,0:01:09.90,0:01:11.15,DEFAULT,,0,0,0,,{\kf20}She{\kf20} flew{\kf20} me{\kf16} so{\kf25} far
-Dialogue: 0,0:01:11.35,0:01:12.85,DEFAULT,,0,0,0,,{\kf16}And{\kf16} she{\kf20} showed{\kf16} me{\kf16} the{\kf35} stars
-Dialogue: 0,0:01:13.05,0:01:15.95,DEFAULT,,0,0,0,,{\kf16}I{\kf35} close{\kf16} my{\kf50} eyes,{\kf16} all{\kf16} I{\kf20} see{\kf20} is{\kf45} lies
-Dialogue: 0,0:01:16.15,0:01:19.30,DEFAULT,,0,0,0,,{\kf16}Just{\kf16} be{\kf20}cause{\kf20} I{\kf16} can't{\kf31} fly,{\kf20} does{\kf16}n't{\kf16} mean{\kf16} I{\kf25} won't{\kf40} try
-Dialogue: 0,0:01:19.50,0:01:22.40,DEFAULT,,0,0,0,,{\kf10}I{\kf10} de{\kf25}signed{\kf16} a{\kf20} cre{\kf20}a{\kf16}tion{\kf16} that{\kf16} could{\kf16} soar{\kf20} a{\kf16}cross{\kf16} the{\kf20} na{\kf10}tion
-Dialogue: 0,0:01:22.55,0:01:25.75,DEFAULT,,0,0,0,,{\kf10}With{\kf16} the{\kf25} wings{\kf25} and{\kf16} the{\kf25} grace{\kf20} of{\kf20} the{\kf31} Pe{\kf20}ga{\kf20}sus{\kf45} race
-Dialogue: 0,0:01:25.95,0:01:28.80,DEFAULT,,0,0,0,,{\kf16}These{\kf31} lights{\kf35} I{\kf35} see,{\kf35} they{\kf35} must{\kf31} be{\kf20} known
-Dialogue: 0,0:01:29.00,0:01:32.05,DEFAULT,,0,0,0,,{\kf31}And{\kf40} e{\kf31}ven{\kf31} if{\kf31} they're{\kf35} far{\kf31} from{\kf25} home
-Dialogue: 0,0:01:32.25,0:01:35.20,DEFAULT,,0,0,0,,{\kf10}With{\kf20} an{\kf40} air{\kf31}craft{\kf35} I{\kf35} can{\kf35} call{\kf35} my{\kf20} own
-Dialogue: 0,0:01:35.40,0:01:39.35,DEFAULT,,0,0,0,,{\kf25}These{\kf45} e{\kf31}vils{\kf35} shan't{\kf31} be{\kf31} left{\kf40} a{\kf111}lone
-Dialogue: 0,0:01:40.00,0:01:41.30,DEFAULT,,0,0,0,,{\kf20}This{\kf16} is{\kf35} my{\kf25} do{\kf20}main
-Dialogue: 0,0:01:41.50,0:01:43.10,DEFAULT,,0,0,0,,{\kf16}I'll{\kf16} build{\kf16} the{\kf20} Pe{\kf20}ga{\kf16}sus{\kf20} Ar{\kf20}cane
-Dialogue: 0,0:01:43.30,0:01:46.30,DEFAULT,,0,0,0,,{\kf20}Claim{\kf16} the{\kf25} free{\kf20}dom{\kf20} you{\kf31} stole{\kf25} for{\kf35} cen{\kf31}tu{\kf40}ries
-Dialogue: 0,0:01:46.45,0:01:47.70,DEFAULT,,0,0,0,,{\kf20}I'll{\kf20} con{\kf35}trol{\kf16} the{\kf20} skies
-Dialogue: 0,0:01:47.90,0:01:49.65,DEFAULT,,0,0,0,,{\kf10}One{\kf16} day{\kf20} you'll{\kf20} meet{\kf20} your{\kf20} de{\kf35}mise
-Dialogue: 0,0:01:49.85,0:01:51.05,DEFAULT,,0,0,0,,{\kf10}If{\kf10} you{\kf20} wish{\kf20} to{\kf20} be{\kf16} wise
-Dialogue: 0,0:01:51.25,0:01:53.95,DEFAULT,,0,0,0,,{\kf31}Don't{\kf35} f---{\kf31} with{\kf20} these{\kf10}~{\kf20} pe{\kf20}ga{\kf61}si
-Dialogue: 0,0:01:54.60,0:01:57.70,DEFAULT,,0,0,0,,{\kf16}The{\kf16} best{\kf10} way{\kf10} to{\kf16} fly{\kf10} a{\kf10} Pe{\kf16}ga{\kf16}sus{\kf20} Ar{\kf20}cane{\kf10} is{\kf10} to{\kf16} un{\kf25}der{\kf16}stand{\kf25} it
-Dialogue: 0,0:01:57.95,0:02:01.55,DEFAULT,,0,0,0,,{\kf16}Emp{\kf10}ty{\kf16} your{\kf25} mind,{\kf16} o{\kf10}pen{\kf16} your{\kf25} heart,{\kf20} loo{\kf16}sen{\kf10} your{\kf16} mus{\kf25}cles
-Dialogue: 0,0:02:02.50,0:02:04.35,DEFAULT,,0,0,0,,{\kf25}And{\kf10} don't{\kf16} for{\kf10}get{\kf5} to{\kf5} put{\kf10} your{\kf16} seat{\kf16}belt{\kf20} on
-Dialogue: 0,0:02:06.30,0:02:09.05,DEFAULT,,0,0,0,,{\kf16}Lay{\kf16} down{\kf16} the{\kf20} blue{\kf16}prints,{\kf16} put{\kf16} your{\kf16} gog{\kf16}gles{\kf16} on,{\kf20} get{\kf20} weld{\kf20}~{\kf16}ing
-Dialogue: 0,0:02:09.25,0:02:12.25,DEFAULT,,0,0,0,,{\kf25}Com{\kf31}bine{\kf16} the{\kf20} e{\kf20}le{\kf16}ments{\kf16} to{\kf16} make{\kf16} some{\kf20} ro{\kf20}cket{\kf50} fuel
-Dialogue: 0,0:02:12.70,0:02:15.50,DEFAULT,,0,0,0,,{\kf16}She{\kf16} needs{\kf16} some{\kf20} ca{\kf20}mou{\kf16}flage,{\kf16} some{\kf20} co{\kf16}lours{\kf16} fit{\kf16} for{\kf20} fly{\kf20}~{\kf20}ing
-Dialogue: 0,0:02:15.70,0:02:18.40,DEFAULT,,0,0,0,,{\kf16}Brand{\kf16} it{\kf16} with{\kf16} your{\kf20} cu{\kf16}tie{\kf20} mark,{\kf10} your{\kf16} ship{\kf16} is{\kf16} gon{\kf16}na{\kf31} rule
-Dialogue: 0,0:02:37.70,0:02:40.70,DEFAULT,,0,0,0,,{\kf31}I{\kf45} ne{\kf35}ver{\kf35} saw{\kf40} my{\kf25} mo{\kf25}ther{\kf25} a{\kf16}gain
-Dialogue: 0,0:02:40.90,0:02:43.95,DEFAULT,,0,0,0,,{\kf40}Be{\kf35}yond{\kf35} the{\kf35} day{\kf35} they{\kf40} land{\kf40}~{\kf25}ed
-Dialogue: 0,0:02:44.15,0:02:47.20,DEFAULT,,0,0,0,,{\kf31}Her{\kf35} soul,{\kf35} my{\kf40} heart,{\kf20} were{\kf25} torn{\kf31}~{\kf20} a{\kf31}part
-Dialogue: 0,0:02:47.40,0:02:50.30,DEFAULT,,0,0,0,,{\kf31}My{\kf35} me{\kf40}mo{\kf35}ries{\kf35} left{\kf40} strand{\kf40}~{\kf20}ed
-Dialogue: 0,0:02:50.50,0:02:53.50,DEFAULT,,0,0,0,,{\kf31}But{\kf35} now{\kf35} it's{\kf25} time{\kf25} to{\kf20} re{\kf31}co{\kf20}ver{\kf20} the{\kf16} past
-Dialogue: 0,0:02:53.70,0:02:58.60,DEFAULT,,0,0,0,,{\kf31}Their{\kf40} po{\kf40}wers{\kf20} ain't{\kf31} gon{\kf20}na{\kf291} last
-Dialogue: 0,0:02:58.85,0:02:59.95,DEFAULT,,0,0,0,,{\kf16}I'm{\kf16} los{\kf20}ing{\kf31} po{\kf20}wer
-Dialogue: 0,0:03:00.20,0:03:01.50,DEFAULT,,0,0,0,,{\kf16}Com{\kf20}man{\kf10}der,{\kf10} do{\kf20} you{\kf25} co{\kf16}py?
-Dialogue: 0,0:03:02.50,0:03:05.25,DEFAULT,,0,0,0,,{\kf20}Our{\kf16} ships{\kf16} have{\kf20} been{\kf10} part{\kf10} of{\kf16} us{\kf16} e{\kf10}ver{\kf20} since{\kf16} we{\kf16} first{\kf16} flew{\kf20} them
-Dialogue: 0,0:03:05.65,0:03:06.50,DEFAULT,,0,0,0,,{\kf10}You're{\kf16} right{\kf20} sol{\kf25}dier
-Dialogue: 0,0:03:07.15,0:03:08.65,DEFAULT,,0,0,0,,{\kf10}I{\kf16} was{\kf20} born{\kf16} with{\kf10} my{\kf25} ar{\kf25}cane
-Dialogue: 0,0:03:09.00,0:03:11.30,DEFAULT,,0,0,0,,{\kf10}You{\kf10} can{\kf16} bet{\kf10} your{\kf25} ass{\kf10} I'm{\kf5} gon{\kf5}na{\kf16} go{\kf25} down{\kf16} with{\kf20} it
-Dialogue: 0,0:03:18.10,0:03:19.50,DEFAULT,,0,0,0,,{\kf16}Hit{\kf16} 'em{\kf16} hard{\kf20} un{\kf16}til{\kf16} they{\kf20} fall
-Dialogue: 0,0:03:19.70,0:03:21.05,DEFAULT,,0,0,0,,{\kf16}All{\kf16} for{\kf16} one{\kf16} and{\kf16} one{\kf16} for{\kf16} all
-Dialogue: 0,0:03:21.30,0:03:22.65,DEFAULT,,0,0,0,,{\kf16}Live{\kf16} to{\kf16} fight{\kf16} and{\kf16} do{\kf16} or{\kf16} die
-Dialogue: 0,0:03:22.90,0:03:24.25,DEFAULT,,0,0,0,,{\kf16}That's{\kf16} the{\kf16} way,{\kf16} the{\kf16} way{\kf16} we{\kf16} fly
-Dialogue: 0,0:03:24.50,0:03:25.85,DEFAULT,,0,0,0,,{\kf16}Hit{\kf16} 'em{\kf16} hard{\kf20} un{\kf16}til{\kf16} they{\kf16} fall
-Dialogue: 0,0:03:26.15,0:03:27.50,DEFAULT,,0,0,0,,{\kf16}All{\kf16} for{\kf16} one{\kf16} and{\kf16} one{\kf16} for{\kf16} all
-Dialogue: 0,0:03:27.70,0:03:29.05,DEFAULT,,0,0,0,,{\kf16}Live{\kf16} to{\kf16} fight{\kf16} and{\kf16} do{\kf16} or{\kf16} die
-Dialogue: 0,0:03:29.30,0:03:30.65,DEFAULT,,0,0,0,,{\kf16}That's{\kf16} the{\kf16} way,{\kf16} the{\kf16} way{\kf16} we{\kf16} fly
-Dialogue: 0,0:03:30.90,0:03:32.25,DEFAULT,,0,0,0,,{\kf16}Hit{\kf16} 'em{\kf16} hard{\kf20} un{\kf16}til{\kf16} they{\kf16} fall
-Dialogue: 0,0:03:32.55,0:03:33.90,DEFAULT,,0,0,0,,{\kf16}All{\kf16} for{\kf16} one{\kf16} and{\kf16} one{\kf16} for{\kf16} all
-Dialogue: 0,0:03:34.10,0:03:35.45,DEFAULT,,0,0,0,,{\kf16}Live{\kf16} to{\kf16} fight{\kf16} and{\kf16} do{\kf16} or{\kf16} die
-Dialogue: 0,0:03:35.70,0:03:37.05,DEFAULT,,0,0,0,,{\kf16}That's{\kf16} the{\kf16} way,{\kf16} the{\kf16} way{\kf16} we{\kf16} fly
-Dialogue: 0,0:03:37.30,0:03:38.65,DEFAULT,,0,0,0,,{\kf16}Hit{\kf16} 'em{\kf16} hard{\kf20} un{\kf16}til{\kf16} they{\kf16} fall
-Dialogue: 0,0:03:38.90,0:03:40.25,DEFAULT,,0,0,0,,{\kf16}All{\kf16} for{\kf16} one{\kf16} and{\kf16} one{\kf16} for{\kf16} all
-Dialogue: 0,0:03:40.50,0:03:41.85,DEFAULT,,0,0,0,,{\kf16}Live{\kf16} to{\kf16} fight{\kf16} and{\kf16} do{\kf16} or{\kf16} die
-Dialogue: 0,0:03:42.10,0:03:42.65,DEFAULT,,0,0,0,,{\kf16}That's{\kf16} the{\kf16} way (...)
-Dialogue: 0,0:03:43.25,0:03:46.25,DEFAULT,,0,0,0,,{\kf20}We{\kf20} be{\kf25}lieve{\kf20} in{\kf16} each{\kf20} o{\kf16}ther,{\kf16} let{\kf16} our{\kf20} po{\kf16}wers{\kf16} work{\kf16} as{\kf16} one
-Dialogue: 0,0:03:46.45,0:03:49.40,DEFAULT,,0,0,0,,{\kf20}We'll{\kf16} be{\kf31} soar{\kf20}ing{\kf20} to{\kf25}ge{\kf16}ther,{\kf16} till{\kf16} our{\kf20} work{\kf20} here{\kf20} is{\kf10} done
-Dialogue: 0,0:03:49.60,0:03:52.65,DEFAULT,,0,0,0,,{\kf16}Through{\kf20} the{\kf25} winds{\kf20} and{\kf20} the{\kf25} hail,{\kf16} in{\kf16} the{\kf20} snow{\kf16} and{\kf16} in{\kf16} the{\kf16} rain
-Dialogue: 0,0:03:52.85,0:03:55.80,DEFAULT,,0,0,0,,{\kf16}We'll{\kf16} be{\kf31} stand{\kf25}ing{\kf16} our{\kf20} ground,{\kf20} if{\kf16} you{\kf20} need{\kf20} us{\kf20} a{\kf16}gain
-Dialogue: 0,0:03:56.00,0:03:57.30,DEFAULT,,0,0,0,,{\kf16}This{\kf20} is{\kf31} our{\kf20} do{\kf20}main
-Dialogue: 0,0:03:57.50,0:03:59.05,DEFAULT,,0,0,0,,{\kf16}We{\kf16} fly{\kf16} the{\kf20} Pe{\kf20}ga{\kf16}sus{\kf20} Ar{\kf16}cane
-Dialogue: 0,0:03:59.25,0:04:02.20,DEFAULT,,0,0,0,,{\kf20}Kept{\kf16} the{\kf31} free{\kf20}dom{\kf20} we've{\kf31} earned{\kf25} for{\kf40} cen{\kf25}tu{\kf31}ries
-Dialogue: 0,0:04:02.50,0:04:03.70,DEFAULT,,0,0,0,,{\kf16}We{\kf20} con{\kf31}trol{\kf16} the{\kf16} skies
-Dialogue: 0,0:04:03.90,0:04:05.50,DEFAULT,,0,0,0,,{\kf20}To{\kf16}day{\kf16} will{\kf16} be{\kf20} your{\kf20} de{\kf25}mise
-Dialogue: 0,0:04:05.70,0:04:07.05,DEFAULT,,0,0,0,,{\kf16}If{\kf16} you{\kf20} wish{\kf20} to{\kf20} be{\kf16} wise
-Dialogue: 0,0:04:07.25,0:04:09.90,DEFAULT,,0,0,0,,{\kf25}Don't{\kf25} f---{\kf25} with{\kf31} these{\kf20} pe{\kf20}ga{\kf65}si
-Dialogue: 0,0:04:10.25,0:04:11.90,DEFAULT,,0,0,0,,{\kf20}We{\kf16} fly{\kf16} the{\kf20} Pe{\kf20}ga{\kf16}sus{\kf20} Ar{\kf20}cane
-Dialogue: 0,0:04:12.10,0:04:15.00,DEFAULT,,0,0,0,,{\kf16}Kept{\kf16} the{\kf31} free{\kf20}dom{\kf20} we've{\kf25} earned{\kf25} for{\kf35} cen{\kf20}tu{\kf35}ries
-Dialogue: 0,0:04:15.30,0:04:16.50,DEFAULT,,0,0,0,,{\kf16}We{\kf20} con{\kf35}trol{\kf16} the{\kf20} skies
-Dialogue: 0,0:04:16.70,0:04:18.35,DEFAULT,,0,0,0,,{\kf20}To{\kf16}day{\kf16} will{\kf20} be{\kf20} your{\kf20} de{\kf25}mise
-Dialogue: 0,0:04:18.55,0:04:19.90,DEFAULT,,0,0,0,,{\kf16}If{\kf16} you{\kf20} wish{\kf16} to{\kf16} be{\kf20} wise
-Dialogue: 0,0:04:20.10,0:04:22.55,DEFAULT,,0,0,0,,{\kf31}Don't{\kf25} f---{\kf25} with{\kf31} these{\kf20} pe{\kf20}ga{\kf45}si
+Dialogue: 0,0:00:05.35,0:00:06.15,DEFAULT,,0,0,0,,{\r}{\kf20}At{\kf25}ten{\kf35}tion
+Dialogue: 0,0:00:06.90,0:00:09.10,DEFAULT,,0,0,0,,{\r}{\kf23}All{\kf34} Ar{\kf28}cane{\kf23} pi{\kf17}lots{\kf17} to{\kf17} bat{\kf17}tle{\kf23} sta{\kf21}tions
+Dialogue: 0,0:00:10.20,0:00:12.40,DEFAULT,,0,0,0,,{\r}{\kf23}All{\kf34} Ar{\kf28}cane{\kf23} pi{\kf17}lots{\kf17} to{\kf17} bat{\kf17}tle{\kf23} sta{\kf21}tions
+Dialogue: 0,0:00:13.95,0:00:15.10,DEFAULT,,0,0,0,,{\r}{\kf16}E{\kf10}ne{\kf10}mies{\kf21} ap{\kf21}proach{\kf37}ing
+Dialogue: 0,0:00:15.70,0:00:17.90,DEFAULT,,0,0,0,,{\r}{\kf19}On{\kf25} this{\kf44} day,{\kf19} a{\kf25} hun{\kf13}dred{\kf25} years{\kf19} a{\kf31}go
+Dialogue: 0,0:00:19.20,0:00:21.50,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf23} pe{\kf17}ga{\kf17}si{\kf29} reached{\kf17} a{\kf12} state{\kf12} of{\kf17} in{\kf17}de{\kf23}pen{\kf29}dence
+Dialogue: 0,0:00:22.70,0:00:24.15,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf24} we've{\kf24} kept{\kf18} it{\kf24} that{\kf37} way
+Dialogue: 0,0:00:25.50,0:00:27.25,DEFAULT,,0,0,0,,{\r}{\kf18}We're{\kf24} not{\kf12} gon{\kf12}na{\kf12} lose{\kf24} our{\kf18} free{\kf12}dom{\kf12} a{\kf31}gain
+Dialogue: 0,0:00:28.25,0:00:30.80,DEFAULT,,0,0,0,,{\r}{\kf40}Not{\kf24} to{\kf48}day,{\kf40} not{\kf24} a{\kf24}ny{\kf55} day
+Dialogue: 0,0:00:31.95,0:00:33.85,DEFAULT,,0,0,0,,{\r}{\kf20}Hit{\kf20} 'em{\kf26} hard{\kf20} and{\kf26} don't{\kf33} hold{\kf45} back
+Dialogue: 0,0:01:00.30,0:01:01.45,DEFAULT,,0,0,0,,{\r}{\kf19}When{\kf32} I{\kf26} was{\kf38} small
+Dialogue: 0,0:01:01.65,0:01:02.95,DEFAULT,,0,0,0,,{\r}{\kf25}No{\kf19} one{\kf19} knew{\kf25} me{\kf19} at{\kf23} all
+Dialogue: 0,0:01:03.15,0:01:04.70,DEFAULT,,0,0,0,,{\r}{\kf12}I{\kf19} ne{\kf19}ver{\kf31} trust{\kf25}ed{\kf25} my{\kf24} wings
+Dialogue: 0,0:01:04.90,0:01:06.30,DEFAULT,,0,0,0,,{\r}{\kf18}'Cause{\kf24} I'd{\kf24} suf{\kf24}fer{\kf24} the{\kf26} fall
+Dialogue: 0,0:01:06.50,0:01:07.75,DEFAULT,,0,0,0,,{\r}{\kf28}Mo{\kf21}ther{\kf28} said{\kf21} to{\kf27} me
+Dialogue: 0,0:01:08.10,0:01:09.45,DEFAULT,,0,0,0,,{\r}{\kf26}"There{\kf13} is{\kf32} more{\kf19} to{\kf45} see"
+Dialogue: 0,0:01:09.90,0:01:11.15,DEFAULT,,0,0,0,,{\r}{\kf25}She{\kf25} flew{\kf25} me{\kf19} so{\kf31} far
+Dialogue: 0,0:01:11.35,0:01:12.85,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} she{\kf26} showed{\kf20} me{\kf20} the{\kf44} stars
+Dialogue: 0,0:01:13.05,0:01:15.95,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf44} close{\kf19} my{\kf63} eyes,{\kf19} all{\kf19} I{\kf25} see{\kf25} is{\kf57} lies
+Dialogue: 0,0:01:16.15,0:01:19.30,DEFAULT,,0,0,0,,{\r}{\kf19}Just{\kf19} be{\kf26}cause{\kf26} I{\kf19} can't{\kf39} fly,{\kf26} does{\kf19}n't{\kf19} mean{\kf19} I{\kf32} won't{\kf52} try
+Dialogue: 0,0:01:19.50,0:01:22.40,DEFAULT,,0,0,0,,{\r}{\kf12}I{\kf12} de{\kf30}signed{\kf18} a{\kf24} cre{\kf24}a{\kf18}tion{\kf18} that{\kf18} could{\kf18} soar{\kf24} a{\kf18}cross{\kf18} the{\kf24} na{\kf14}tion
+Dialogue: 0,0:01:22.55,0:01:25.75,DEFAULT,,0,0,0,,{\r}{\kf12}With{\kf18} the{\kf30} wings{\kf30} and{\kf18} the{\kf30} grace{\kf24} of{\kf24} the{\kf36} Pe{\kf24}ga{\kf24}sus{\kf50} race
+Dialogue: 0,0:01:25.95,0:01:28.80,DEFAULT,,0,0,0,,{\r}{\kf18}These{\kf36} lights{\kf42} I{\kf42} see,{\kf42} they{\kf42} must{\kf36} be{\kf27} known
+Dialogue: 0,0:01:29.00,0:01:32.05,DEFAULT,,0,0,0,,{\r}{\kf37}And{\kf49} e{\kf37}ven{\kf37} if{\kf37} they're{\kf43} far{\kf37} from{\kf28} home
+Dialogue: 0,0:01:32.25,0:01:35.20,DEFAULT,,0,0,0,,{\r}{\kf11}With{\kf23} an{\kf45} air{\kf34}craft{\kf40} I{\kf40} can{\kf40} call{\kf40} my{\kf22} own
+Dialogue: 0,0:01:35.40,0:01:39.35,DEFAULT,,0,0,0,,{\r}{\kf29}These{\kf52} e{\kf34}vils{\kf40} shan't{\kf34} be{\kf34} left{\kf46} a{\kf126}lone
+Dialogue: 0,0:01:40.00,0:01:41.30,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf17} is{\kf40} my{\kf28} do{\kf22}main
+Dialogue: 0,0:01:41.50,0:01:43.10,DEFAULT,,0,0,0,,{\r}{\kf17}I'll{\kf17} build{\kf17} the{\kf23} Pe{\kf23}ga{\kf17}sus{\kf23} Ar{\kf23}cane
+Dialogue: 0,0:01:43.30,0:01:46.30,DEFAULT,,0,0,0,,{\r}{\kf23}Claim{\kf17} the{\kf29} free{\kf23}dom{\kf23} you{\kf35} stole{\kf29} for{\kf40} cen{\kf35}tu{\kf46}ries
+Dialogue: 0,0:01:46.45,0:01:47.70,DEFAULT,,0,0,0,,{\r}{\kf23}I'll{\kf23} con{\kf40}trol{\kf17} the{\kf22} skies
+Dialogue: 0,0:01:47.90,0:01:49.65,DEFAULT,,0,0,0,,{\r}{\kf13}One{\kf19} day{\kf25} you'll{\kf25} meet{\kf25} your{\kf25} de{\kf43}mise
+Dialogue: 0,0:01:49.85,0:01:51.05,DEFAULT,,0,0,0,,{\r}{\kf13}If{\kf13} you{\kf25} wish{\kf25} to{\kf25} be{\kf19} wise
+Dialogue: 0,0:01:51.25,0:01:53.95,DEFAULT,,0,0,0,,{\r}{\kf36}Don't{\kf42} f---{\kf36} with{\kf24} these{\kf12}~{\kf24} pe{\kf24}ga{\kf72}si
+Dialogue: 0,0:01:54.60,0:01:57.70,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf18} best{\kf12} way{\kf12} to{\kf18} fly{\kf12} a{\kf12} Pe{\kf18}ga{\kf18}sus{\kf24} Ar{\kf24}cane{\kf12} is{\kf12} to{\kf18} un{\kf30}der{\kf18}stand{\kf34} it
+Dialogue: 0,0:01:57.95,0:02:01.55,DEFAULT,,0,0,0,,{\r}{\kf25}Emp{\kf17}ty{\kf25} your{\kf42} mind,{\kf25} o{\kf17}pen{\kf25} your{\kf42} heart,{\kf33} loo{\kf25}sen{\kf17} your{\kf25} mus{\kf42}cles
+Dialogue: 0,0:02:02.50,0:02:04.35,DEFAULT,,0,0,0,,{\r}{\kf36}And{\kf14} don't{\kf21} for{\kf14}get{\kf10} to{\kf10} put{\kf14} your{\kf21} seat{\kf21}belt{\kf24} on
+Dialogue: 0,0:02:06.30,0:02:09.05,DEFAULT,,0,0,0,,{\r}{\kf18}Lay{\kf18} down{\kf18} the{\kf24} blue{\kf18}prints,{\kf18} put{\kf18} your{\kf18} gog{\kf18}gles{\kf18} on,{\kf24} get{\kf24} weld{\kf24}~{\kf17}ing
+Dialogue: 0,0:02:09.25,0:02:12.25,DEFAULT,,0,0,0,,{\r}{\kf29}Com{\kf35}bine{\kf17} the{\kf23} e{\kf23}le{\kf17}ments{\kf17} to{\kf17} make{\kf17} some{\kf23} ro{\kf23}cket{\kf59} fuel
+Dialogue: 0,0:02:12.70,0:02:15.50,DEFAULT,,0,0,0,,{\r}{\kf18}She{\kf18} needs{\kf18} some{\kf23} ca{\kf23}mou{\kf18}flage,{\kf18} some{\kf23} co{\kf18}lours{\kf18} fit{\kf18} for{\kf23} fly{\kf23}~{\kf21}ing
+Dialogue: 0,0:02:15.70,0:02:18.40,DEFAULT,,0,0,0,,{\r}{\kf19}Brand{\kf19} it{\kf19} with{\kf19} your{\kf25} cu{\kf19}tie{\kf25} mark,{\kf13} your{\kf19} ship{\kf19} is{\kf19} gon{\kf19}na{\kf36} rule
+Dialogue: 0,0:02:37.70,0:02:40.70,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf49} ne{\kf38}ver{\kf38} saw{\kf44} my{\kf27} mo{\kf27}ther{\kf27} a{\kf17}gain
+Dialogue: 0,0:02:40.90,0:02:43.95,DEFAULT,,0,0,0,,{\r}{\kf43}Be{\kf37}yond{\kf37} the{\kf37} day{\kf37} they{\kf43} land{\kf43}~{\kf28}ed
+Dialogue: 0,0:02:44.15,0:02:47.20,DEFAULT,,0,0,0,,{\r}{\kf35}Her{\kf40} soul,{\kf40} my{\kf46} heart,{\kf23} were{\kf29} torn{\kf35}~{\kf23} a{\kf34}part
+Dialogue: 0,0:02:47.40,0:02:50.30,DEFAULT,,0,0,0,,{\r}{\kf32}My{\kf37} me{\kf42}mo{\kf37}ries{\kf37} left{\kf42} strand{\kf42}~{\kf21}ed
+Dialogue: 0,0:02:50.50,0:02:53.50,DEFAULT,,0,0,0,,{\r}{\kf35}But{\kf41} now{\kf41} it's{\kf29} time{\kf29} to{\kf24} re{\kf35}co{\kf24}ver{\kf24} the{\kf18} past
+Dialogue: 0,0:02:53.70,0:02:58.60,DEFAULT,,0,0,0,,{\r}{\kf31}Their{\kf42} po{\kf42}wers{\kf21} ain't{\kf31} gon{\kf21}na{\kf302} last
+Dialogue: 0,0:02:58.85,0:02:59.95,DEFAULT,,0,0,0,,{\r}{\kf16}I'm{\kf16} los{\kf22}ing{\kf33} po{\kf23}wer
+Dialogue: 0,0:03:00.20,0:03:01.50,DEFAULT,,0,0,0,,{\r}{\kf17}Com{\kf23}man{\kf11}der,{\kf11} do{\kf23} you{\kf28} co{\kf17}py?
+Dialogue: 0,0:03:02.50,0:03:05.25,DEFAULT,,0,0,0,,{\r}{\kf26}Our{\kf19} ships{\kf19} have{\kf26} been{\kf13} part{\kf13} of{\kf19} us{\kf19} e{\kf13}ver{\kf26} since{\kf19} we{\kf19} first{\kf19} flew{\kf25} them
+Dialogue: 0,0:03:05.65,0:03:06.50,DEFAULT,,0,0,0,,{\r}{\kf12}You're{\kf18} right{\kf24} sol{\kf31}dier
+Dialogue: 0,0:03:07.15,0:03:08.65,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf19} was{\kf25} born{\kf19} with{\kf13} my{\kf31} ar{\kf30}cane
+Dialogue: 0,0:03:09.00,0:03:11.30,DEFAULT,,0,0,0,,{\r}{\kf14}You{\kf14} can{\kf21} bet{\kf14} your{\kf35} ass{\kf14} I'm{\kf10} gon{\kf10}na{\kf21} go{\kf35} down{\kf21} with{\kf21} it
+Dialogue: 0,0:03:18.10,0:03:19.50,DEFAULT,,0,0,0,,{\r}{\kf18}Hit{\kf18} 'em{\kf18} hard{\kf24} un{\kf18}til{\kf18} they{\kf26} fall
+Dialogue: 0,0:03:19.70,0:03:21.05,DEFAULT,,0,0,0,,{\r}{\kf19}All{\kf19} for{\kf19} one{\kf19} and{\kf19} one{\kf19} for{\kf21} all
+Dialogue: 0,0:03:21.30,0:03:22.65,DEFAULT,,0,0,0,,{\r}{\kf19}Live{\kf19} to{\kf19} fight{\kf19} and{\kf19} do{\kf19} or{\kf21} die
+Dialogue: 0,0:03:22.90,0:03:24.25,DEFAULT,,0,0,0,,{\r}{\kf19}That's{\kf19} the{\kf19} way,{\kf19} the{\kf19} way{\kf19} we{\kf21} fly
+Dialogue: 0,0:03:24.50,0:03:25.85,DEFAULT,,0,0,0,,{\r}{\kf18}Hit{\kf18} 'em{\kf18} hard{\kf25} un{\kf18}til{\kf18} they{\kf20} fall
+Dialogue: 0,0:03:26.15,0:03:27.50,DEFAULT,,0,0,0,,{\r}{\kf19}All{\kf19} for{\kf19} one{\kf19} and{\kf19} one{\kf19} for{\kf21} all
+Dialogue: 0,0:03:27.70,0:03:29.05,DEFAULT,,0,0,0,,{\r}{\kf19}Live{\kf19} to{\kf19} fight{\kf19} and{\kf19} do{\kf19} or{\kf21} die
+Dialogue: 0,0:03:29.30,0:03:30.65,DEFAULT,,0,0,0,,{\r}{\kf19}That's{\kf19} the{\kf19} way,{\kf19} the{\kf19} way{\kf19} we{\kf21} fly
+Dialogue: 0,0:03:30.90,0:03:32.25,DEFAULT,,0,0,0,,{\r}{\kf18}Hit{\kf18} 'em{\kf18} hard{\kf25} un{\kf18}til{\kf18} they{\kf20} fall
+Dialogue: 0,0:03:32.55,0:03:33.90,DEFAULT,,0,0,0,,{\r}{\kf19}All{\kf19} for{\kf19} one{\kf19} and{\kf19} one{\kf19} for{\kf21} all
+Dialogue: 0,0:03:34.10,0:03:35.45,DEFAULT,,0,0,0,,{\r}{\kf19}Live{\kf19} to{\kf19} fight{\kf19} and{\kf19} do{\kf19} or{\kf21} die
+Dialogue: 0,0:03:35.70,0:03:37.05,DEFAULT,,0,0,0,,{\r}{\kf19}That's{\kf19} the{\kf19} way,{\kf19} the{\kf19} way{\kf19} we{\kf21} fly
+Dialogue: 0,0:03:37.30,0:03:38.65,DEFAULT,,0,0,0,,{\r}{\kf18}Hit{\kf18} 'em{\kf18} hard{\kf25} un{\kf18}til{\kf18} they{\kf20} fall
+Dialogue: 0,0:03:38.90,0:03:40.25,DEFAULT,,0,0,0,,{\r}{\kf19}All{\kf19} for{\kf19} one{\kf19} and{\kf19} one{\kf19} for{\kf21} all
+Dialogue: 0,0:03:40.50,0:03:41.85,DEFAULT,,0,0,0,,{\r}{\kf19}Live{\kf19} to{\kf19} fight{\kf19} and{\kf19} do{\kf19} or{\kf21} die
+Dialogue: 0,0:03:42.10,0:03:42.65,DEFAULT,,0,0,0,,{\r}{\kf18}That's{\kf18} the{\kf19} way (...)
+Dialogue: 0,0:03:43.25,0:03:46.25,DEFAULT,,0,0,0,,{\r}{\kf24}We{\kf24} be{\kf31}lieve{\kf24} in{\kf18} each{\kf24} o{\kf18}ther,{\kf18} let{\kf18} our{\kf24} po{\kf18}wers{\kf18} work{\kf18} as{\kf23} one
+Dialogue: 0,0:03:46.45,0:03:49.40,DEFAULT,,0,0,0,,{\r}{\kf24}We'll{\kf18} be{\kf36} soar{\kf24}ing{\kf24} to{\kf30}ge{\kf18}ther,{\kf18} till{\kf18} our{\kf24} work{\kf24} here{\kf24} is{\kf13} done
+Dialogue: 0,0:03:49.60,0:03:52.65,DEFAULT,,0,0,0,,{\r}{\kf19}Through{\kf26} the{\kf32} winds{\kf26} and{\kf26} the{\kf32} hail,{\kf19} in{\kf19} the{\kf26} snow{\kf19} and{\kf19} in{\kf19} the{\kf23} rain
+Dialogue: 0,0:03:52.85,0:03:55.80,DEFAULT,,0,0,0,,{\r}{\kf19}We'll{\kf19} be{\kf38} stand{\kf32}ing{\kf19} our{\kf26} ground,{\kf26} if{\kf19} you{\kf26} need{\kf26} us{\kf26} a{\kf19}gain
+Dialogue: 0,0:03:56.00,0:03:57.30,DEFAULT,,0,0,0,,{\r}{\kf19}This{\kf25} is{\kf37} our{\kf25} do{\kf24}main
+Dialogue: 0,0:03:57.50,0:03:59.05,DEFAULT,,0,0,0,,{\r}{\kf17}We{\kf17} fly{\kf17} the{\kf23} Pe{\kf23}ga{\kf17}sus{\kf23} Ar{\kf18}cane
+Dialogue: 0,0:03:59.25,0:04:02.20,DEFAULT,,0,0,0,,{\r}{\kf23}Kept{\kf17} the{\kf35} free{\kf23}dom{\kf23} we've{\kf35} earned{\kf29} for{\kf46} cen{\kf29}tu{\kf35}ries
+Dialogue: 0,0:04:02.50,0:04:03.70,DEFAULT,,0,0,0,,{\r}{\kf19}We{\kf25} con{\kf38}trol{\kf19} the{\kf19} skies
+Dialogue: 0,0:04:03.90,0:04:05.50,DEFAULT,,0,0,0,,{\r}{\kf25}To{\kf18}day{\kf18} will{\kf18} be{\kf25} your{\kf25} de{\kf31}mise
+Dialogue: 0,0:04:05.70,0:04:07.05,DEFAULT,,0,0,0,,{\r}{\kf19}If{\kf19} you{\kf26} wish{\kf26} to{\kf26} be{\kf19} wise
+Dialogue: 0,0:04:07.25,0:04:09.90,DEFAULT,,0,0,0,,{\r}{\kf32}Don't{\kf32} f---{\kf32} with{\kf38} these{\kf25} pe{\kf25}ga{\kf81}si
+Dialogue: 0,0:04:10.25,0:04:11.90,DEFAULT,,0,0,0,,{\r}{\kf23}We{\kf17} fly{\kf17} the{\kf23} Pe{\kf23}ga{\kf17}sus{\kf23} Ar{\kf22}cane
+Dialogue: 0,0:04:12.10,0:04:15.00,DEFAULT,,0,0,0,,{\r}{\kf18}Kept{\kf18} the{\kf36} free{\kf24}dom{\kf24} we've{\kf30} earned{\kf30} for{\kf42} cen{\kf24}tu{\kf44}ries
+Dialogue: 0,0:04:15.30,0:04:16.50,DEFAULT,,0,0,0,,{\r}{\kf17}We{\kf23} con{\kf40}trol{\kf17} the{\kf23} skies
+Dialogue: 0,0:04:16.70,0:04:18.35,DEFAULT,,0,0,0,,{\r}{\kf24}To{\kf18}day{\kf18} will{\kf24} be{\kf24} your{\kf24} de{\kf33}mise
+Dialogue: 0,0:04:18.55,0:04:19.90,DEFAULT,,0,0,0,,{\r}{\kf20}If{\kf20} you{\kf27} wish{\kf20} to{\kf20} be{\kf28} wise
+Dialogue: 0,0:04:20.10,0:04:22.55,DEFAULT,,0,0,0,,{\r}{\kf38}Don't{\kf31} f---{\kf31} with{\kf38} these{\kf25} pe{\kf25}ga{\kf57}si

@@ -1,39 +1,46 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Spirits ft. Decibelle
+Artist: Slyphstorm, Decibelle
+Original Timing: mylittlekaraoke.com by SqueakyBelle
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:44.05,0:00:51.58,DEFAULT,,0,0,0,,{\kf179}Wind{\kf24} blows{\kf167}~{\kf20} a{\kf129}cross{\kf63} this{\kf70} waste{\kf63}land
-Dialogue: 0,0:00:52.36,0:00:59.46,DEFAULT,,0,0,0,,{\kf105}No{\kf28}~{\kf35} one{\kf101} here{\kf20}~{\kf32} to{\kf12}~{\kf299} see
-Dialogue: 0,0:01:00.74,0:01:07.42,DEFAULT,,0,0,0,,{\kf16}I{\kf160}~{\kf132} stand{\kf55} here{\kf113} by{\kf8}~{\kf32} my{\kf20}~{\kf59}self
-Dialogue: 0,0:01:08.15,0:01:16.46,DEFAULT,,0,0,0,,{\kf74}Ex{\kf125}cept{\kf35} when{\kf101} you're{\kf35}~{\kf39} with{\kf342} me
-Dialogue: 0,0:01:17.24,0:01:22.32,DEFAULT,,0,0,0,,{\kf132}Days{\kf51} and{\kf24} days{\kf78}~{\kf28}~{\kf63} go{\kf35} by{\kf59}~
-Dialogue: 0,0:01:25.47,0:01:30.51,DEFAULT,,0,0,0,,{\kf20}Un{\kf51}~{\kf63}der{\kf35} the{\kf24} bur{\kf105}~{\kf16}ning{\kf24}~{\kf12}~{\kf63} sky{\kf16}~
-Dialogue: 0,0:01:33.81,0:01:38.74,DEFAULT,,0,0,0,,{\kf70}No{\kf59} mat{\kf63}ter{\kf16} how{\kf86}~{\kf28}~{\kf51} we{\kf24} cry{\kf51}~{\kf16}~
-Dialogue: 0,0:01:42.00,0:01:50.12,DEFAULT,,0,0,0,,{\kf70}Ne{\kf63}ver{\kf47} can{\kf175} we{\kf24}~{\kf101} an{\kf51}swer{\kf183} why
-Dialogue: 0,0:01:50.31,0:01:57.26,DEFAULT,,0,0,0,,{\kf70}Just{\kf63} keep{\kf66} on{\kf59} wal{\kf32}king{\kf32}~,{\kf51} and{\kf24} don't{\kf86}~{\kf59} look{\kf78} back
-Dialogue: 0,0:01:57.76,0:02:05.49,DEFAULT,,0,0,0,,{\kf47}Just{\kf28}~{\kf63} keep{\kf66} your{\kf63} eyes{\kf63} for{\kf70}ward{\kf32} and{\kf32}~{\kf98} stay{\kf28}~{\kf55} on{\kf78} track
-Dialogue: 0,0:02:06.07,0:02:13.76,DEFAULT,,0,0,0,,{\kf59}We'll{\kf63} find{\kf43} a{\kf63} way{\kf39} out{\kf32}~{\kf28} of{\kf28}~{\kf55} this{\kf16} mess{\kf78}~{\kf35}~,{\kf47} I{\kf70} pray
-Dialogue: 0,0:02:14.42,0:02:23.38,DEFAULT,,0,0,0,,{\kf12}As{\kf28}~{\kf20}~{\kf66} long{\kf66} as{\kf43} the{\kf66} spi{\kf101}rits{\kf101} guide{\kf24}~{\kf35} our{\kf39}~{\kf206} way
-Dialogue: 0,0:02:31.65,0:02:39.38,DEFAULT,,0,0,0,,{\kf187}Dusk{\kf63} falls{\kf129}~,{\kf98} howls{\kf32} in{\kf47} the{\kf152} dark
-Dialogue: 0,0:02:39.96,0:02:47.68,DEFAULT,,0,0,0,,{\kf136}E{\kf59}vil{\kf66} comes{\kf70} out{\kf24} to{\kf12}~{\kf32}~{\kf350} play
-Dialogue: 0,0:02:48.30,0:02:55.68,DEFAULT,,0,0,0,,{\kf132}Dis{\kf66}a{\kf136}ppear{\kf70} wi{\kf129}thin{\kf24} our{\kf39}~{\kf117} caves
-Dialogue: 0,0:02:55.87,0:03:04.41,DEFAULT,,0,0,0,,{\kf66}As{\kf136} prey,{\kf55} we{\kf101} hide{\kf28}~{\kf35} a{\kf28}~{\kf369}way
-Dialogue: 0,0:03:04.84,0:03:09.93,DEFAULT,,0,0,0,,{\kf132}Days{\kf51} and{\kf24} days{\kf78}~{\kf24}~{\kf66} go{\kf32} by{\kf63}~
-Dialogue: 0,0:03:13.07,0:03:18.12,DEFAULT,,0,0,0,,{\kf20}Un{\kf51}~{\kf63}der{\kf35} the{\kf20} bur{\kf109}~{\kf16}ning{\kf24}~{\kf12}~{\kf66} sky{\kf16}~
-Dialogue: 0,0:03:21.38,0:03:26.35,DEFAULT,,0,0,0,,{\kf74}No{\kf59} mat{\kf59}ter{\kf20} how{\kf82}~{\kf32}~{\kf51} we{\kf24} try{\kf35}~{\kf32}~
-Dialogue: 0,0:03:29.65,0:03:37.68,DEFAULT,,0,0,0,,{\kf132}With{\kf66} the{\kf16} ri{\kf47}~{\kf70}sing{\kf55} of{\kf98} free{\kf24}~{\kf43}zing{\kf20} dawn{\kf164}~
-Dialogue: 0,0:03:37.88,0:03:44.82,DEFAULT,,0,0,0,,{\kf70}Just{\kf63} keep{\kf66} on{\kf59} wal{\kf32}king{\kf32}~,{\kf51} and{\kf24} don't{\kf86}~{\kf59} look{\kf78} back
-Dialogue: 0,0:03:45.37,0:03:53.05,DEFAULT,,0,0,0,,{\kf43}Just{\kf28}~{\kf63} keep{\kf66} your{\kf63} eyes{\kf63} for{\kf70}ward{\kf32} and{\kf32}~{\kf98} stay{\kf28}~{\kf55} on{\kf78} track
-Dialogue: 0,0:03:53.64,0:04:01.32,DEFAULT,,0,0,0,,{\kf59}We'll{\kf63} find{\kf43} a{\kf63} way{\kf32} out{\kf39}~{\kf28} of{\kf28}~{\kf55} this{\kf16} mess{\kf78}~{\kf35}~,{\kf47} I{\kf70} pray
-Dialogue: 0,0:04:01.98,0:04:10.79,DEFAULT,,0,0,0,,{\kf12}As{\kf28}~{\kf20}~{\kf66} long{\kf66} as{\kf43} the{\kf66} spi{\kf101}rits{\kf101} guide{\kf24}~{\kf35} our{\kf39}~{\kf191} way
-Dialogue: 0,0:04:10.99,0:04:17.94,DEFAULT,,0,0,0,,{\kf70}Just{\kf63} keep{\kf66} on{\kf59} wal{\kf32}king{\kf32}~,{\kf51} and{\kf20} don't{\kf90}~{\kf59} look{\kf78} back
-Dialogue: 0,0:04:18.44,0:04:26.16,DEFAULT,,0,0,0,,{\kf47}Just{\kf28}~{\kf63} keep{\kf66} your{\kf63} eyes{\kf63} for{\kf70}ward{\kf32} and{\kf32}~{\kf98} stay{\kf28}~{\kf55} on{\kf78} track
-Dialogue: 0,0:04:26.75,0:04:34.43,DEFAULT,,0,0,0,,{\kf59}We'll{\kf63} find{\kf43} a{\kf63} way{\kf35} out{\kf35}~{\kf28} of{\kf28}~{\kf55} this{\kf16} mess{\kf78}~{\kf35}~,{\kf47} I{\kf70} pray
-Dialogue: 0,0:04:35.09,0:04:44.06,DEFAULT,,0,0,0,,{\kf12}As{\kf28}~{\kf20}~{\kf66} long{\kf66} as{\kf43} the{\kf66} spi{\kf101}rits{\kf101} guide{\kf24}~{\kf35} our{\kf39}~{\kf206} way
+Dialogue: 0,0:00:44.05,0:00:51.58,DEFAULT,,0,0,0,,{\r}{\kf189}Wind{\kf25} blows{\kf177}~{\kf21} a{\kf136}cross{\kf66} this{\kf74} waste{\kf65}land
+Dialogue: 0,0:00:52.36,0:00:59.46,DEFAULT,,0,0,0,,{\r}{\kf118}No{\kf31}~{\kf39} one{\kf114} here{\kf22}~{\kf35} to{\kf13}~{\kf338} see
+Dialogue: 0,0:01:00.75,0:01:07.42,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf180}~{\kf149} stand{\kf62} here{\kf127} by{\kf10}~{\kf35} my{\kf22}~{\kf65}self
+Dialogue: 0,0:01:08.16,0:01:16.47,DEFAULT,,0,0,0,,{\r}{\kf82}Ex{\kf138}cept{\kf39} when{\kf112} you're{\kf39}~{\kf43} with{\kf378} me
+Dialogue: 0,0:01:17.24,0:01:22.33,DEFAULT,,0,0,0,,{\r}{\kf144}Days{\kf55} and{\kf25} days{\kf85}~{\kf30}~{\kf68} go{\kf38} by{\kf64}~
+Dialogue: 0,0:01:25.47,0:01:30.52,DEFAULT,,0,0,0,,{\r}{\kf23}Un{\kf60}~{\kf74}der{\kf42} the{\kf28} bur{\kf125}~{\kf19}ning{\kf28}~{\kf14}~{\kf74} sky{\kf18}~
+Dialogue: 0,0:01:33.82,0:01:38.75,DEFAULT,,0,0,0,,{\r}{\kf75}No{\kf63} mat{\kf67}ter{\kf17} how{\kf92}~{\kf29}~{\kf54} we{\kf25} cry{\kf54}~{\kf17}~
+Dialogue: 0,0:01:42.01,0:01:50.12,DEFAULT,,0,0,0,,{\r}{\kf80}Ne{\kf71}ver{\kf53} can{\kf199} we{\kf27}~{\kf115} an{\kf58}swer{\kf208} why
+Dialogue: 0,0:01:50.32,0:01:57.26,DEFAULT,,0,0,0,,{\r}{\kf79}Just{\kf70} keep{\kf75} on{\kf66} wal{\kf35}king{\kf35}~,{\kf57} and{\kf26} don't{\kf97}~{\kf66} look{\kf89} back
+Dialogue: 0,0:01:57.77,0:02:05.49,DEFAULT,,0,0,0,,{\r}{\kf50}Just{\kf29}~{\kf67} keep{\kf71} your{\kf67} eyes{\kf67} for{\kf76}ward{\kf34} and{\kf34}~{\kf105} stay{\kf29}~{\kf59} on{\kf84} track
+Dialogue: 0,0:02:06.08,0:02:13.76,DEFAULT,,0,0,0,,{\r}{\kf69}We'll{\kf74} find{\kf51} a{\kf74} way{\kf46} out{\kf37}~{\kf32} of{\kf32}~{\kf64} this{\kf18} mess{\kf92}~{\kf41}~,{\kf55} I{\kf84} pray
+Dialogue: 0,0:02:14.42,0:02:23.39,DEFAULT,,0,0,0,,{\r}{\kf13}As{\kf30}~{\kf22}~{\kf74} long{\kf74} as{\kf48} the{\kf74} spi{\kf113}rits{\kf113} guide{\kf26}~{\kf39} our{\kf43}~{\kf228} way
+Dialogue: 0,0:02:31.66,0:02:39.38,DEFAULT,,0,0,0,,{\r}{\kf205}Dusk{\kf68} falls{\kf141}~,{\kf107} howls{\kf34} in{\kf51} the{\kf166} dark
+Dialogue: 0,0:02:39.96,0:02:47.69,DEFAULT,,0,0,0,,{\r}{\kf141}E{\kf60}vil{\kf68} comes{\kf72} out{\kf24} to{\kf12}~{\kf32}~{\kf363} play
+Dialogue: 0,0:02:48.31,0:02:55.69,DEFAULT,,0,0,0,,{\r}{\kf137}Dis{\kf69}a{\kf141}ppear{\kf73} wi{\kf133}thin{\kf24} our{\kf40}~{\kf121} caves
+Dialogue: 0,0:02:55.88,0:03:04.42,DEFAULT,,0,0,0,,{\r}{\kf69}As{\kf142} prey,{\kf57} we{\kf106} hide{\kf28}~{\kf37} a{\kf28}~{\kf387}way
+Dialogue: 0,0:03:04.85,0:03:09.93,DEFAULT,,0,0,0,,{\r}{\kf144}Days{\kf55} and{\kf25} days{\kf85}~{\kf25}~{\kf72} go{\kf34} by{\kf69}~
+Dialogue: 0,0:03:13.08,0:03:18.12,DEFAULT,,0,0,0,,{\r}{\kf23}Un{\kf60}~{\kf73}der{\kf41} the{\kf23} bur{\kf129}~{\kf18}ning{\kf28}~{\kf14}~{\kf78} sky{\kf18}~
+Dialogue: 0,0:03:21.38,0:03:26.35,DEFAULT,,0,0,0,,{\r}{\kf79}No{\kf63} mat{\kf63}ter{\kf21} how{\kf88}~{\kf33}~{\kf54} we{\kf25} try{\kf38}~{\kf33}~
+Dialogue: 0,0:03:29.65,0:03:37.69,DEFAULT,,0,0,0,,{\r}{\kf145}With{\kf73} the{\kf17} ri{\kf51}~{\kf77}sing{\kf60} of{\kf107} free{\kf26}~{\kf47}zing{\kf21} dawn{\kf180}~
+Dialogue: 0,0:03:37.88,0:03:44.83,DEFAULT,,0,0,0,,{\r}{\kf79}Just{\kf70} keep{\kf75} on{\kf66} wal{\kf35}king{\kf35}~,{\kf57} and{\kf26} don't{\kf97}~{\kf66} look{\kf89} back
+Dialogue: 0,0:03:45.37,0:03:53.06,DEFAULT,,0,0,0,,{\r}{\kf46}Just{\kf29}~{\kf67} keep{\kf71} your{\kf67} eyes{\kf67} for{\kf76}ward{\kf34} and{\kf34}~{\kf105} stay{\kf29}~{\kf59} on{\kf85} track
+Dialogue: 0,0:03:53.64,0:04:01.33,DEFAULT,,0,0,0,,{\r}{\kf69}We'll{\kf74} find{\kf51} a{\kf74} way{\kf37} out{\kf46}~{\kf32} of{\kf32}~{\kf64} this{\kf18} mess{\kf92}~{\kf41}~,{\kf55} I{\kf84} pray
+Dialogue: 0,0:04:01.99,0:04:10.80,DEFAULT,,0,0,0,,{\r}{\kf13}As{\kf30}~{\kf22}~{\kf74} long{\kf74} as{\kf48} the{\kf74} spi{\kf113}rits{\kf113} guide{\kf26}~{\kf39} our{\kf43}~{\kf212} way
+Dialogue: 0,0:04:10.99,0:04:17.94,DEFAULT,,0,0,0,,{\r}{\kf79}Just{\kf70} keep{\kf75} on{\kf66} wal{\kf35}king{\kf35}~,{\kf57} and{\kf22} don't{\kf101}~{\kf66} look{\kf89} back
+Dialogue: 0,0:04:18.45,0:04:26.17,DEFAULT,,0,0,0,,{\r}{\kf50}Just{\kf29}~{\kf67} keep{\kf71} your{\kf67} eyes{\kf67} for{\kf76}ward{\kf34} and{\kf34}~{\kf105} stay{\kf29}~{\kf59} on{\kf84} track
+Dialogue: 0,0:04:26.75,0:04:34.44,DEFAULT,,0,0,0,,{\r}{\kf69}We'll{\kf74} find{\kf51} a{\kf74} way{\kf41} out{\kf41}~{\kf32} of{\kf32}~{\kf64} this{\kf18} mess{\kf92}~{\kf41}~,{\kf55} I{\kf85} pray
+Dialogue: 0,0:04:35.10,0:04:44.06,DEFAULT,,0,0,0,,{\r}{\kf13}As{\kf30}~{\kf22}~{\kf74} long{\kf74} as{\kf48} the{\kf74} spi{\kf113}rits{\kf113} guide{\kf26}~{\kf39} our{\kf43}~{\kf228} way

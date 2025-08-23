@@ -1,45 +1,52 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Shining Star
+Artist: WoodLore
+Original Timing: mylittlekaraoke.com by lily
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:11.17,0:00:15.58,DEFAULT,,0,0,0,,{\kf1131}The{\kf1136} farm's{\kf1144} been{\kf1131} do{\kf1136}ing{\kf1153} fi{\kf1136}-ine{\kf1144} since{\kf1136} the{\kf1153} spring{\kf1144} be{\kf1162}gan
-Dialogue: 0,0:00:16.77,0:00:18.76,DEFAULT,,0,0,0,,{\kf1131}As{\kf1131} good{\kf1136} as{\kf1131} a{\kf1131}ny{\kf1131} o{\kf1136}ther{\kf1162} year
-Dialogue: 0,0:00:22.60,0:00:27.67,DEFAULT,,0,0,0,,{\kf1144}Sales{\kf1136} are{\kf1136} go{\kf1149}in'{\kf1144} stea{\kf1144}dy{\kf1144} and{\kf1144} we're{\kf1162} work{\kf1153}ing{\kf1175} hard{\kf1131}~{\kf1153}~
-Dialogue: 0,0:00:28.29,0:00:30.36,DEFAULT,,0,0,0,,{\kf1136}No{\kf1136}thing's{\kf1131} real{\kf1131}ly{\kf1140} chang{\kf1131}ing{\kf1162} here
-Dialogue: 0,0:00:34.29,0:00:37.51,DEFAULT,,0,0,0,,{\kf1136}I{\kf1140} tend{\kf1131} your{\kf1158} gar{\kf1131}den{\kf1158} e{\kf1131}very{\kf1131} morn{\kf1136}~{\kf1158}ing
-Dialogue: 0,0:00:39.58,0:00:43.77,DEFAULT,,0,0,0,,{\kf1140}Just{\kf1131} the{\kf1153} way{\kf1136} you{\kf1149} taught{\kf1131} me{\kf1153} long{\kf1131} a{\kf1268}go
-Dialogue: 0,0:00:45.05,0:00:49.73,DEFAULT,,0,0,0,,{\kf1131}The{\kf1144} flo{\kf1144}wers{\kf1140} still{\kf1131} re{\kf1149}mind{\kf1131} me{\kf1158} of{\kf1127} the{\kf1136} song{\kf1136}~{\kf1136} you{\kf1140} used{\kf1131} to{\kf1162} sing
-Dialogue: 0,0:00:49.99,0:00:55.46,DEFAULT,,0,0,0,,{\kf1131}When{\kf1131} we{\kf1136} were{\kf1162} out{\kf1136} there{\kf1144} work{\kf1131}ing{\kf1153} hours{\kf1131}~{\kf1224} all{\kf1131} a{\kf1131}~{\kf1224}lone
-Dialogue: 0,0:00:56.48,0:01:01.20,DEFAULT,,0,0,0,,{\kf1144}What{\kf1144} I{\kf1131} would{\kf1136}n't{\kf1153} give{\kf1144} to{\kf1144} have{\kf1131} you{\kf1144} back{\kf1144} for{\kf1144} just{\kf1127} a{\kf1175} day
-Dialogue: 0,0:01:01.95,0:01:06.18,DEFAULT,,0,0,0,,{\kf1131}I{\kf1140} miss{\kf1131} the{\kf1158} way{\kf1136} you'd{\kf1144} smile{\kf1136} when{\kf1153} I{\kf1136} was{\kf1140}~{\kf1206} scared
-Dialogue: 0,0:01:07.77,0:01:12.27,DEFAULT,,0,0,0,,{\kf1144}All{\kf1144} I{\kf1131} wan{\kf1136}na{\kf1153} say{\kf1144} is{\kf1131} that{\kf1153} I{\kf1140} hope{\kf1131} that{\kf1136} I{\kf1131} can{\kf1166} be
-Dialogue: 0,0:01:13.29,0:01:16.60,DEFAULT,,0,0,0,,{\kf1131}The{\kf1131} shin{\kf1136}ing{\kf1149} star{\kf1136} that{\kf1140} you{\kf1140} both{\kf1144} were{\kf1131} to{\kf1162} me
-Dialogue: 0,0:01:19.15,0:01:23.48,DEFAULT,,0,0,0,,{\kf1144}Ap{\kf1131}ple{\kf1162}bloom's{\kf1136} a{\kf1144} lit{\kf1144}tle{\kf1144} big{\kf1140}ger{\kf1153} e{\kf1140}very{\kf1171} day
-Dialogue: 0,0:01:24.58,0:01:27.01,DEFAULT,,0,0,0,,{\kf1136}Had{\kf1136} no{\kf1131} i{\kf1136}dea{\kf1136} how{\kf1140} quick{\kf1136} she'd{\kf1171} grow
-Dialogue: 0,0:01:30.40,0:01:35.61,DEFAULT,,0,0,0,,{\kf1144}Late{\kf1144}ly{\kf1144} she's{\kf1144} been{\kf1144} learn{\kf1144}ing{\kf1144} who{\kf1144} she{\kf1149} wants{\kf1158} to{\kf1175} be{\kf1127}~{\kf1162}~
-Dialogue: 0,0:01:36.32,0:01:38.79,DEFAULT,,0,0,0,,{\kf1131}Could{\kf1131} real{\kf1131}ly{\kf1144} use{\kf1131} her{\kf1140} ma{\kf1131}ma{\kf1188} though
-Dialogue: 0,0:01:41.70,0:01:45.54,DEFAULT,,0,0,0,,{\kf1140}Mac{\kf1140} sings{\kf1136} with{\kf1131} a{\kf1158} choir{\kf1131}~{\kf1153} e{\kf1136}very{\kf1153} Sun{\kf1188}day
-Dialogue: 0,0:01:47.30,0:01:51.62,DEFAULT,,0,0,0,,{\kf1144}First{\kf1144} thing{\kf1131} that{\kf1131} he's{\kf1149} done{\kf1131} since{\kf1149} you've{\kf1171} been{\kf1233} gone
-Dialogue: 0,0:01:52.99,0:01:57.49,DEFAULT,,0,0,0,,{\kf1144}Gran{\kf1144}ny's{\kf1136} slow{\kf1136}in'{\kf1149} down{\kf1136} but{\kf1140} she's{\kf1153} still{\kf1144} e{\kf1136}very{\kf1131} bit{\kf1136} as{\kf1162} strong
-Dialogue: 0,0:01:57.93,0:02:02.79,DEFAULT,,0,0,0,,{\kf1140}As{\kf1131} the{\kf1158} days{\kf1131} when{\kf1140} we'd{\kf1140} throw{\kf1140} horse{\kf1153}shoes{\kf1202} on{\kf1131} the{\kf1131}~{\kf1180} lawn
-Dialogue: 0,0:02:04.24,0:02:08.96,DEFAULT,,0,0,0,,{\kf1144}What{\kf1144} I{\kf1131} woul{\kf1131}dn't{\kf1153} give{\kf1144} to{\kf1140} have{\kf1131} you{\kf1136} back{\kf1144} for{\kf1144} just{\kf1127} a{\kf1180} day
-Dialogue: 0,0:02:09.71,0:02:13.82,DEFAULT,,0,0,0,,{\kf1131}I{\kf1140} miss{\kf1131} the{\kf1153} way{\kf1140} you'd{\kf1144} smile{\kf1131} when{\kf1158} I{\kf1136} was{\kf1140}~{\kf1188} scared
-Dialogue: 0,0:02:15.54,0:02:19.99,DEFAULT,,0,0,0,,{\kf1144}All{\kf1140} I{\kf1131} wan{\kf1136}na{\kf1153} say{\kf1144} is{\kf1131} that{\kf1149} I{\kf1144} hope{\kf1131} that{\kf1136} I{\kf1127} can{\kf1171} be
-Dialogue: 0,0:02:21.05,0:02:24.32,DEFAULT,,0,0,0,,{\kf1127}The{\kf1131} shin{\kf1136}ing{\kf1149} star{\kf1136} that{\kf1140} you{\kf1140} both{\kf1144} were{\kf1131} to{\kf1162} me
-Dialogue: 0,0:02:49.29,0:02:53.43,DEFAULT,,0,0,0,,{\kf1131}I{\kf1144} wan{\kf1131}na{\kf1153} hear{\kf1131} you{\kf1153} tell{\kf1131} me{\kf1149} that{\kf1131} you're{\kf1144} proud{\kf1131}~{\kf1131} of{\kf1180} me
-Dialogue: 0,0:02:54.93,0:02:59.74,DEFAULT,,0,0,0,,{\kf1131}I{\kf1144} wan{\kf1131}na{\kf1158} feel{\kf1131} your{\kf1153} warmth{\kf1131} a{\kf1136}gainst{\kf1175} my{\kf1268} fur
-Dialogue: 0,0:03:00.58,0:03:05.12,DEFAULT,,0,0,0,,{\kf1131}I{\kf1140} try{\kf1136} to{\kf1140} be{\kf1131} the{\kf1158} a{\kf1140}dult{\kf1136} that{\kf1149} I{\kf1136} know{\kf1131}~{\kf1131} that{\kf1140} I{\kf1136} should{\kf1153} be
-Dialogue: 0,0:03:05.74,0:03:10.82,DEFAULT,,0,0,0,,{\kf1131}But{\kf1131} it's{\kf1162} hard{\kf1136} to{\kf1149} fill{\kf1131} the{\kf1153} hole{\kf1136} where{\kf1144} you{\kf1131} two{\kf1162}~{\kf1180} were{\kf1131}~{\kf1158}~
-Dialogue: 0,0:03:12.01,0:03:16.55,DEFAULT,,0,0,0,,{\kf1144}What{\kf1144} I{\kf1131} woul{\kf1131}dn't{\kf1149} give{\kf1140} to{\kf1140} have{\kf1131} you{\kf1144} back{\kf1144} for{\kf1144} just{\kf1127} a{\kf1162} day
-Dialogue: 0,0:03:17.52,0:03:21.71,DEFAULT,,0,0,0,,{\kf1131}I{\kf1140} miss{\kf1131} the{\kf1153} way{\kf1136} you'd{\kf1144} smile{\kf1131} when{\kf1153} I{\kf1131} was{\kf1140}~{\kf1202} scared
-Dialogue: 0,0:03:23.35,0:03:27.54,DEFAULT,,0,0,0,,{\kf1144}All{\kf1140} I{\kf1131} wan{\kf1136}na{\kf1149} say{\kf1144} is{\kf1131} that{\kf1153} I{\kf1144} hope{\kf1131} that{\kf1140} I{\kf1127} can{\kf1144} be
-Dialogue: 0,0:03:28.77,0:03:32.04,DEFAULT,,0,0,0,,{\kf1131}The{\kf1131} shin{\kf1136}ing{\kf1153} star{\kf1136} that{\kf1136} you{\kf1136} both{\kf1144} were{\kf1131} to{\kf1153} me
-Dialogue: 0,0:03:34.64,0:03:38.83,DEFAULT,,0,0,0,,{\kf1144}All{\kf1144} I{\kf1131} wan{\kf1136}na{\kf1153} say{\kf1144} is{\kf1131} that{\kf1153} I{\kf1144} hope{\kf1131} that{\kf1136} I{\kf1131} can{\kf1144} be
-Dialogue: 0,0:03:40.20,0:03:43.99,DEFAULT,,0,0,0,,{\kf1127}The{\kf1131} shin{\kf1136}ing{\kf1149} star{\kf1136} that{\kf1136} you{\kf1136} both{\kf1162} were{\kf1131} to{\kf1188} me
+Dialogue: 0,0:00:11.17,0:00:15.59,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf27} farm's{\kf40} been{\kf20} do{\kf27}ing{\kf53} fi{\kf27}-ine{\kf40} since{\kf27} the{\kf53} spring{\kf40} be{\kf67}gan
+Dialogue: 0,0:00:16.78,0:00:18.76,DEFAULT,,0,0,0,,{\r}{\kf18}As{\kf18} good{\kf24} as{\kf18} a{\kf18}ny{\kf18} o{\kf24}ther{\kf61} year
+Dialogue: 0,0:00:22.60,0:00:27.67,DEFAULT,,0,0,0,,{\r}{\kf35}Sales{\kf23} are{\kf23} go{\kf41}in'{\kf35} stea{\kf35}dy{\kf35} and{\kf35} we're{\kf58} work{\kf47}ing{\kf76} hard{\kf17}~{\kf47}~
+Dialogue: 0,0:00:28.29,0:00:30.37,DEFAULT,,0,0,0,,{\r}{\kf26}No{\kf26}thing's{\kf19} real{\kf19}ly{\kf32} chang{\kf19}ing{\kf66} here
+Dialogue: 0,0:00:34.29,0:00:37.51,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf31} tend{\kf19} your{\kf56} gar{\kf19}den{\kf56} e{\kf19}very{\kf19} morn{\kf25}~{\kf53}ing
+Dialogue: 0,0:00:39.59,0:00:43.78,DEFAULT,,0,0,0,,{\r}{\kf28}Just{\kf17} the{\kf45} way{\kf22} you{\kf39} taught{\kf17} me{\kf45} long{\kf17} a{\kf189}go
+Dialogue: 0,0:00:45.06,0:00:49.73,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf38} flo{\kf38}wers{\kf32} still{\kf19} re{\kf44}mind{\kf19} me{\kf57} of{\kf13} the{\kf25} song{\kf25}~{\kf25} you{\kf32} used{\kf19} to{\kf63} sing
+Dialogue: 0,0:00:50.00,0:00:55.47,DEFAULT,,0,0,0,,{\r}{\kf17}When{\kf17} we{\kf22} were{\kf56} out{\kf22} there{\kf33} work{\kf17}ing{\kf45} hours{\kf17}~{\kf134} all{\kf17} a{\kf17}~{\kf133}lone
+Dialogue: 0,0:00:56.48,0:01:01.20,DEFAULT,,0,0,0,,{\r}{\kf38}What{\kf38} I{\kf19} would{\kf25}n't{\kf50} give{\kf38} to{\kf38} have{\kf19} you{\kf38} back{\kf38} for{\kf38} just{\kf13} a{\kf80} day
+Dialogue: 0,0:01:01.95,0:01:06.19,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf30} miss{\kf18} the{\kf54} way{\kf24} you'd{\kf36} smile{\kf24} when{\kf48} I{\kf24} was{\kf30}~{\kf118} scared
+Dialogue: 0,0:01:07.78,0:01:12.28,DEFAULT,,0,0,0,,{\r}{\kf39}All{\kf39} I{\kf19} wan{\kf26}na{\kf51} say{\kf39} is{\kf19} that{\kf51} I{\kf32} hope{\kf19} that{\kf26} I{\kf19} can{\kf71} be
+Dialogue: 0,0:01:13.29,0:01:16.60,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf20} shin{\kf26}ing{\kf46} star{\kf26} that{\kf33} you{\kf33} both{\kf40} were{\kf20} to{\kf67} me
+Dialogue: 0,0:01:19.16,0:01:23.48,DEFAULT,,0,0,0,,{\r}{\kf37}Ap{\kf18}ple{\kf61}bloom's{\kf24} a{\kf37} lit{\kf37}tle{\kf37} big{\kf30}ger{\kf49} e{\kf30}very{\kf72} day
+Dialogue: 0,0:01:24.59,0:01:27.01,DEFAULT,,0,0,0,,{\r}{\kf24}Had{\kf24} no{\kf18} i{\kf24}dea{\kf24} how{\kf30} quick{\kf24} she'd{\kf75} grow
+Dialogue: 0,0:01:30.41,0:01:35.62,DEFAULT,,0,0,0,,{\r}{\kf35}Late{\kf35}ly{\kf35} she's{\kf35} been{\kf35} learn{\kf35}ing{\kf35} who{\kf35} she{\kf41} wants{\kf53} to{\kf76} be{\kf12}~{\kf59}~
+Dialogue: 0,0:01:36.32,0:01:38.79,DEFAULT,,0,0,0,,{\r}{\kf18}Could{\kf18} real{\kf18}ly{\kf35} use{\kf18} her{\kf29} ma{\kf18}ma{\kf93} though
+Dialogue: 0,0:01:41.70,0:01:45.54,DEFAULT,,0,0,0,,{\r}{\kf30}Mac{\kf30} sings{\kf24} with{\kf18} a{\kf53} choir{\kf18}~{\kf47} e{\kf24}very{\kf47} Sun{\kf93}day
+Dialogue: 0,0:01:47.31,0:01:51.63,DEFAULT,,0,0,0,,{\r}{\kf36}First{\kf36} thing{\kf18} that{\kf18} he's{\kf41} done{\kf18} since{\kf41} you've{\kf71} been{\kf153} gone
+Dialogue: 0,0:01:53.00,0:01:57.50,DEFAULT,,0,0,0,,{\r}{\kf38}Gran{\kf38}ny's{\kf25} slow{\kf25}in'{\kf44} down{\kf25} but{\kf32} she's{\kf51} still{\kf38} e{\kf25}very{\kf19} bit{\kf25} as{\kf65} strong
+Dialogue: 0,0:01:57.94,0:02:02.79,DEFAULT,,0,0,0,,{\r}{\kf30}As{\kf18} the{\kf53} days{\kf18} when{\kf30} we'd{\kf30} throw{\kf30} horse{\kf47}shoes{\kf112} on{\kf18} the{\kf18}~{\kf81} lawn
+Dialogue: 0,0:02:04.25,0:02:08.97,DEFAULT,,0,0,0,,{\r}{\kf39}What{\kf39} I{\kf20} woul{\kf20}dn't{\kf52} give{\kf39} to{\kf33} have{\kf20} you{\kf26} back{\kf39} for{\kf39} just{\kf13} a{\kf93} day
+Dialogue: 0,0:02:09.72,0:02:13.82,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf31} miss{\kf18} the{\kf49} way{\kf31} you'd{\kf37} smile{\kf18} when{\kf55} I{\kf24} was{\kf31}~{\kf98} scared
+Dialogue: 0,0:02:15.54,0:02:20.00,DEFAULT,,0,0,0,,{\r}{\kf39}All{\kf32} I{\kf19} wan{\kf26}na{\kf52} say{\kf39} is{\kf19} that{\kf45} I{\kf39} hope{\kf19} that{\kf26} I{\kf13} can{\kf78} be
+Dialogue: 0,0:02:21.06,0:02:24.32,DEFAULT,,0,0,0,,{\r}{\kf13}The{\kf20} shin{\kf27}ing{\kf47} star{\kf27} that{\kf33} you{\kf33} both{\kf40} were{\kf20} to{\kf66} me
+Dialogue: 0,0:02:49.29,0:02:53.44,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf36} wan{\kf18}na{\kf47} hear{\kf18} you{\kf47} tell{\kf18} me{\kf42} that{\kf18} you're{\kf36} proud{\kf18}~{\kf18} of{\kf81} me
+Dialogue: 0,0:02:54.94,0:02:59.75,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf34} wan{\kf17}na{\kf50} feel{\kf17} your{\kf45} warmth{\kf17} a{\kf22}gainst{\kf73} my{\kf189} fur
+Dialogue: 0,0:03:00.59,0:03:05.13,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf32} try{\kf25} to{\kf32} be{\kf19} the{\kf57} a{\kf32}dult{\kf25} that{\kf44} I{\kf25} know{\kf19}~{\kf19} that{\kf32} I{\kf25} should{\kf49} be
+Dialogue: 0,0:03:05.75,0:03:10.82,DEFAULT,,0,0,0,,{\r}{\kf17}But{\kf17} it's{\kf58} hard{\kf23} to{\kf41} fill{\kf17} the{\kf47} hole{\kf23} where{\kf35} you{\kf17} two{\kf58}~{\kf82} were{\kf17}~{\kf55}~
+Dialogue: 0,0:03:12.01,0:03:16.56,DEFAULT,,0,0,0,,{\r}{\kf40}What{\kf40} I{\kf20} woul{\kf20}dn't{\kf47} give{\kf33} to{\kf33} have{\kf20} you{\kf40} back{\kf40} for{\kf40} just{\kf13} a{\kf68} day
+Dialogue: 0,0:03:17.53,0:03:21.72,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf31} miss{\kf19} the{\kf50} way{\kf25} you'd{\kf38} smile{\kf19} when{\kf50} I{\kf19} was{\kf31}~{\kf118} scared
+Dialogue: 0,0:03:23.35,0:03:27.54,DEFAULT,,0,0,0,,{\r}{\kf39}All{\kf33} I{\kf20} wan{\kf26}na{\kf46} say{\kf39} is{\kf20} that{\kf52} I{\kf39} hope{\kf20} that{\kf33} I{\kf13} can{\kf39} be
+Dialogue: 0,0:03:28.78,0:03:32.04,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf21} shin{\kf28}ing{\kf55} star{\kf28} that{\kf28} you{\kf28} both{\kf42} were{\kf21} to{\kf54} me
+Dialogue: 0,0:03:34.64,0:03:38.84,DEFAULT,,0,0,0,,{\r}{\kf38}All{\kf38} I{\kf19} wan{\kf25}na{\kf51} say{\kf38} is{\kf19} that{\kf51} I{\kf38} hope{\kf19} that{\kf25} I{\kf19} can{\kf39} be
+Dialogue: 0,0:03:40.20,0:03:44.00,DEFAULT,,0,0,0,,{\r}{\kf13}The{\kf20} shin{\kf27}ing{\kf47} star{\kf27} that{\kf27} you{\kf27} both{\kf66} were{\kf20} to{\kf105} me

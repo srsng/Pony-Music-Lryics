@@ -1,49 +1,56 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Leaving Colours (L-Train cover)
+Artist: Feather
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:41.75,0:00:45.31,DEFAULT,,0,0,0,,{\kf19}Some{\kf19}times{\kf19} I{\kf19} think{\kf19} my{\kf25} head{\kf19} is{\kf38} filled{\kf38} with{\kf57} clouds
-Dialogue: 0,0:00:46.00,0:00:49.31,DEFAULT,,0,0,0,,{\kf19}Kick{\kf19}ing{\kf19} up{\kf19} a{\kf32} storm{\kf19} when{\kf25} I{\kf19} feel{\kf19}~{\kf44} down
-Dialogue: 0,0:00:49.75,0:00:53.38,DEFAULT,,0,0,0,,{\kf19}I{\kf19} can't{\kf19} put{\kf19} it{\kf19} in{\kf25} words{\kf25}~{\kf32} like{\kf25} you{\kf63} can
-Dialogue: 0,0:00:54.25,0:00:57.31,DEFAULT,,0,0,0,,{\kf19}Though{\kf19} it{\kf19} don't{\kf19} mat{\kf19}ter{\kf19} 'cause{\kf19} you{\kf25} un{\kf25}der{\kf38}stand
-Dialogue: 0,0:00:57.75,0:01:01.38,DEFAULT,,0,0,0,,{\kf19}Some{\kf19}times{\kf19} I{\kf19} think{\kf19} that{\kf19} I{\kf25} am{\kf32} o{\kf38}ver{\kf57}whelmed
-Dialogue: 0,0:01:02.25,0:01:05.25,DEFAULT,,0,0,0,,{\kf19}By{\kf19} the{\kf32} vast{\kf32}ness{\kf32} of{\kf25} my{\kf50} realm
-Dialogue: 0,0:01:06.25,0:01:09.38,DEFAULT,,0,0,0,,{\kf19}Reach{\kf19}ing{\kf25} up{\kf19} the{\kf25} sun{\kf25} splits{\kf19} in{\kf50} five
-Dialogue: 0,0:01:10.25,0:01:13.25,DEFAULT,,0,0,0,,{\kf19}And{\kf32} some{\kf25}how{\kf25} I{\kf32} know{\kf19} I'm{\kf19} a{\kf44}live
-Dialogue: 0,0:01:16.19,0:01:17.25,DEFAULT,,0,0,0,,{\kf19}I'm{\kf19} a{\kf50}live
-Dialogue: 0,0:01:20.25,0:01:21.25,DEFAULT,,0,0,0,,{\kf19}I'm{\kf19} a{\kf44}live
-Dialogue: 0,0:01:22.88,0:01:28.00,DEFAULT,,0,0,0,,{\kf107}Woah{\kf38} I{\kf38} know{\kf25}~{\kf50} I'm{\kf19} a{\kf119}live
-Dialogue: 0,0:01:28.44,0:01:29.75,DEFAULT,,0,0,0,,{\kf25}A{\kf94}live
-Dialogue: 0,0:01:30.00,0:01:33.19,DEFAULT,,0,0,0,,{\kf19}Rip{\kf19}ping{\kf19} up{\kf19} the{\kf19} sky,{\kf19} I{\kf38} leave{\kf32} my{\kf44} mark
-Dialogue: 0,0:01:33.75,0:01:37.31,DEFAULT,,0,0,0,,{\kf19}And{\kf19} though{\kf19} I'm{\kf19} not{\kf19} quite{\kf19} there,{\kf25} I{\kf32} feel{\kf25} a{\kf50} part
-Dialogue: 0,0:01:37.69,0:01:41.88,DEFAULT,,0,0,0,,{\kf19}Of{\kf19} some{\kf32}thing{\kf32} more{\kf25} than{\kf44} just{\kf25}~{\kf113} me
-Dialogue: 0,0:01:42.50,0:01:45.50,DEFAULT,,0,0,0,,{\kf19}And{\kf19} I{\kf19} know{\kf25} I'm{\kf32} meant{\kf32} to{\kf75} be
-Dialogue: 0,0:01:46.00,0:01:51.50,DEFAULT,,0,0,0,,{\kf19}Leav{\kf32}ing{\kf25} co{\kf19}~{\kf25}lours{\kf32} in{\kf32} my{\kf263} wake
-Dialogue: 0,0:01:53.94,0:02:02.00,DEFAULT,,0,0,0,,{\kf19}Leav{\kf32}ing{\kf25} co{\kf19}~{\kf19}lours{\kf32} in{\kf32} my{\kf113} wake{\kf19}~{\kf19}~{\kf82}~{\kf44}~{\kf38}~{\kf119}~
-Dialogue: 0,0:02:05.75,0:02:09.38,DEFAULT,,0,0,0,,{\kf19}Some{\kf19}times{\kf19} I{\kf19} think{\kf19} the{\kf19} weight{\kf25} will{\kf25} make{\kf32} me{\kf63} fall
-Dialogue: 0,0:02:10.31,0:02:13.31,DEFAULT,,0,0,0,,{\kf13}And{\kf19} yet{\kf19} I{\kf19} don't{\kf25} seem{\kf19} to{\kf25} care{\kf19} at{\kf50} all
-Dialogue: 0,0:02:14.44,0:02:17.19,DEFAULT,,0,0,0,,{\kf19}May{\kf19}be{\kf19} 'cause{\kf25} I{\kf32} don't{\kf19} be{\kf38}lieve
-Dialogue: 0,0:02:18.25,0:02:21.25,DEFAULT,,0,0,0,,{\kf19}That{\kf19} I{\kf19} o{\kf19}bey{\kf19} the{\kf19} laws{\kf13} of{\kf25} gra{\kf19}vi{\kf50}ty
-Dialogue: 0,0:02:24.25,0:02:25.56,DEFAULT,,0,0,0,,{\kf19}I{\kf19} can{\kf75} fly
-Dialogue: 0,0:02:28.31,0:02:29.63,DEFAULT,,0,0,0,,{\kf19}I{\kf19} can{\kf75} fly
-Dialogue: 0,0:02:32.75,0:02:39.56,DEFAULT,,0,0,0,,{\kf38}I{\kf19}~{\kf38} can{\kf19}~{\kf100} fly{\kf13}~{\kf25}~{\kf19}~{\kf25}~{\kf25}~{\kf244}~
-Dialogue: 0,0:02:50.19,0:02:53.81,DEFAULT,,0,0,0,,{\kf19}And{\kf19} no{\kf25}thing{\kf25} can{\kf19} stop{\kf25} me{\kf119}~
-Dialogue: 0,0:02:53.94,0:02:57.13,DEFAULT,,0,0,0,,{\kf19}Rip{\kf19}ping{\kf19} up{\kf19} the{\kf19} sky,{\kf19} I{\kf38} leave{\kf32} my{\kf44} mark
-Dialogue: 0,0:02:57.69,0:03:01.25,DEFAULT,,0,0,0,,{\kf19}And{\kf19} though{\kf19} I'm{\kf19} not{\kf19} quite{\kf19} there,{\kf25} I{\kf32} feel{\kf25} a{\kf50} part
-Dialogue: 0,0:03:01.63,0:03:05.81,DEFAULT,,0,0,0,,{\kf19}Of{\kf19} some{\kf32}thing{\kf32} more{\kf25} than{\kf44} just{\kf25}~{\kf113} me
-Dialogue: 0,0:03:06.44,0:03:09.44,DEFAULT,,0,0,0,,{\kf19}And{\kf19} I{\kf19} know{\kf25} I'm{\kf32} meant{\kf32} to{\kf75} be
-Dialogue: 0,0:03:09.94,0:03:13.13,DEFAULT,,0,0,0,,{\kf19}Rip{\kf19}ping{\kf19} up{\kf19} the{\kf19} sky,{\kf19} I{\kf38} leave{\kf32} my{\kf44} mark
-Dialogue: 0,0:03:13.69,0:03:17.25,DEFAULT,,0,0,0,,{\kf19}And{\kf19} though{\kf19} I'm{\kf19} not{\kf19} quite{\kf19} there,{\kf25} I{\kf32} feel{\kf25} a{\kf50} part
-Dialogue: 0,0:03:17.63,0:03:21.81,DEFAULT,,0,0,0,,{\kf19}Of{\kf19} some{\kf32}thing{\kf32} more{\kf25} than{\kf44} just{\kf25}~{\kf113} me
-Dialogue: 0,0:03:22.44,0:03:25.44,DEFAULT,,0,0,0,,{\kf19}And{\kf19} I{\kf19} know{\kf25} I'm{\kf32} meant{\kf32} to{\kf75} be
-Dialogue: 0,0:03:26.00,0:03:31.50,DEFAULT,,0,0,0,,{\kf19}Leav{\kf32}ing{\kf25} co{\kf19}~{\kf25}lours{\kf32} in{\kf32} my{\kf263} wake
-Dialogue: 0,0:03:33.94,0:03:39.44,DEFAULT,,0,0,0,,{\kf19}Leav{\kf32}ing{\kf25} co{\kf19}~{\kf25}lours{\kf32} in{\kf32} my{\kf263} wake
-Dialogue: 0,0:03:41.94,0:03:47.44,DEFAULT,,0,0,0,,{\kf19}Leav{\kf32}ing{\kf25} co{\kf19}~{\kf25}lours{\kf32} in{\kf32} my{\kf263} wake
-Dialogue: 0,0:03:49.94,0:03:58.25,DEFAULT,,0,0,0,,{\kf19}Leav{\kf32}ing{\kf32} co{\kf32}lours{\kf32} in{\kf32} my{\kf75} wake{\kf119}~{\kf163}~{\kf163}~
+Dialogue: 0,0:00:41.76,0:00:45.32,DEFAULT,,0,0,0,,{\r}{\kf25}Some{\kf25}times{\kf25} I{\kf25} think{\kf25} my{\kf33} head{\kf25} is{\kf50} filled{\kf50} with{\kf73} clouds
+Dialogue: 0,0:00:46.01,0:00:49.32,DEFAULT,,0,0,0,,{\r}{\kf27}Kick{\kf27}ing{\kf27} up{\kf27} a{\kf45} storm{\kf27} when{\kf36} I{\kf27} feel{\kf27}~{\kf61} down
+Dialogue: 0,0:00:49.76,0:00:53.38,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf26} can't{\kf26} put{\kf26} it{\kf26} in{\kf34} words{\kf34}~{\kf43} like{\kf34} you{\kf87} can
+Dialogue: 0,0:00:54.26,0:00:57.32,DEFAULT,,0,0,0,,{\r}{\kf26}Though{\kf26} it{\kf26} don't{\kf26} mat{\kf26}ter{\kf26} 'cause{\kf26} you{\kf35} un{\kf35}der{\kf54}stand
+Dialogue: 0,0:00:57.76,0:01:01.38,DEFAULT,,0,0,0,,{\r}{\kf26}Some{\kf26}times{\kf26} I{\kf26} think{\kf26} that{\kf26} I{\kf34} am{\kf43} o{\kf52}ver{\kf77}whelmed
+Dialogue: 0,0:01:02.26,0:01:05.26,DEFAULT,,0,0,0,,{\r}{\kf27}By{\kf27} the{\kf45} vast{\kf45}ness{\kf45} of{\kf36} my{\kf75} realm
+Dialogue: 0,0:01:06.26,0:01:09.38,DEFAULT,,0,0,0,,{\r}{\kf29}Reach{\kf29}ing{\kf39} up{\kf29} the{\kf39} sun{\kf39} splits{\kf29} in{\kf79} five
+Dialogue: 0,0:01:10.26,0:01:13.26,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf44} some{\kf35}how{\kf35} I{\kf44} know{\kf26} I'm{\kf26} a{\kf64}live
+Dialogue: 0,0:01:16.19,0:01:17.26,DEFAULT,,0,0,0,,{\r}{\kf23}I'm{\kf23} a{\kf60}live
+Dialogue: 0,0:01:20.26,0:01:21.26,DEFAULT,,0,0,0,,{\r}{\kf23}I'm{\kf23} a{\kf54}live
+Dialogue: 0,0:01:22.88,0:01:28.01,DEFAULT,,0,0,0,,{\r}{\kf138}Woah{\kf49} I{\kf49} know{\kf33}~{\kf65} I'm{\kf24} a{\kf154}live
+Dialogue: 0,0:01:28.44,0:01:29.76,DEFAULT,,0,0,0,,{\r}{\kf28}A{\kf103}live
+Dialogue: 0,0:01:30.01,0:01:33.19,DEFAULT,,0,0,0,,{\r}{\kf27}Rip{\kf27}ping{\kf27} up{\kf27} the{\kf27} sky,{\kf27} I{\kf53} leave{\kf44} my{\kf60} mark
+Dialogue: 0,0:01:33.76,0:01:37.32,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf27} though{\kf27} I'm{\kf27} not{\kf27} quite{\kf27} there,{\kf37} I{\kf46} feel{\kf37} a{\kf74} part
+Dialogue: 0,0:01:37.69,0:01:41.88,DEFAULT,,0,0,0,,{\r}{\kf26}Of{\kf26} some{\kf43}thing{\kf43} more{\kf34} than{\kf60} just{\kf34}~{\kf153} me
+Dialogue: 0,0:01:42.51,0:01:45.51,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf26} I{\kf26} know{\kf34} I'm{\kf43} meant{\kf43} to{\kf102} be
+Dialogue: 0,0:01:46.01,0:01:51.51,DEFAULT,,0,0,0,,{\r}{\kf23}Leav{\kf39}ing{\kf31} co{\kf23}~{\kf31}lours{\kf39} in{\kf39} my{\kf325} wake
+Dialogue: 0,0:01:53.94,0:02:02.01,DEFAULT,,0,0,0,,{\r}{\kf25}Leav{\kf42}ing{\kf33} co{\kf25}~{\kf25}lours{\kf42} in{\kf42} my{\kf150} wake{\kf25}~{\kf25}~{\kf108}~{\kf58}~{\kf50}~{\kf156}~
+Dialogue: 0,0:02:05.76,0:02:09.38,DEFAULT,,0,0,0,,{\r}{\kf26}Some{\kf26}times{\kf26} I{\kf26} think{\kf26} the{\kf26} weight{\kf35} will{\kf35} make{\kf44} me{\kf92} fall
+Dialogue: 0,0:02:10.32,0:02:13.32,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf27} yet{\kf27} I{\kf27} don't{\kf36} seem{\kf27} to{\kf36} care{\kf27} at{\kf75} all
+Dialogue: 0,0:02:14.44,0:02:17.19,DEFAULT,,0,0,0,,{\r}{\kf31}May{\kf31}be{\kf31} 'cause{\kf41} I{\kf51} don't{\kf31} be{\kf59}lieve
+Dialogue: 0,0:02:18.26,0:02:21.26,DEFAULT,,0,0,0,,{\r}{\kf26}That{\kf26} I{\kf26} o{\kf26}bey{\kf26} the{\kf26} laws{\kf17} of{\kf34} gra{\kf26}vi{\kf67}ty
+Dialogue: 0,0:02:24.26,0:02:25.57,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} can{\kf87} fly
+Dialogue: 0,0:02:28.32,0:02:29.63,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} can{\kf87} fly
+Dialogue: 0,0:02:32.76,0:02:39.57,DEFAULT,,0,0,0,,{\r}{\kf45}I{\kf23}~{\kf45} can{\kf23}~{\kf121} fly{\kf15}~{\kf30}~{\kf23}~{\kf30}~{\kf30}~{\kf296}~
+Dialogue: 0,0:02:50.19,0:02:53.82,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf27} no{\kf36}thing{\kf36} can{\kf27} stop{\kf36} me{\kf173}~
+Dialogue: 0,0:02:53.94,0:02:57.13,DEFAULT,,0,0,0,,{\r}{\kf27}Rip{\kf27}ping{\kf27} up{\kf27} the{\kf27} sky,{\kf27} I{\kf53} leave{\kf44} my{\kf60} mark
+Dialogue: 0,0:02:57.69,0:03:01.26,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf27} though{\kf27} I'm{\kf27} not{\kf27} quite{\kf27} there,{\kf37} I{\kf46} feel{\kf37} a{\kf74} part
+Dialogue: 0,0:03:01.63,0:03:05.82,DEFAULT,,0,0,0,,{\r}{\kf26}Of{\kf26} some{\kf43}thing{\kf43} more{\kf34} than{\kf60} just{\kf34}~{\kf153} me
+Dialogue: 0,0:03:06.44,0:03:09.44,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf26} I{\kf26} know{\kf34} I'm{\kf43} meant{\kf43} to{\kf102} be
+Dialogue: 0,0:03:09.94,0:03:13.13,DEFAULT,,0,0,0,,{\r}{\kf27}Rip{\kf27}ping{\kf27} up{\kf27} the{\kf27} sky,{\kf27} I{\kf53} leave{\kf44} my{\kf60} mark
+Dialogue: 0,0:03:13.69,0:03:17.26,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf27} though{\kf27} I'm{\kf27} not{\kf27} quite{\kf27} there,{\kf37} I{\kf46} feel{\kf37} a{\kf74} part
+Dialogue: 0,0:03:17.63,0:03:21.82,DEFAULT,,0,0,0,,{\r}{\kf26}Of{\kf26} some{\kf43}thing{\kf43} more{\kf34} than{\kf60} just{\kf34}~{\kf153} me
+Dialogue: 0,0:03:22.44,0:03:25.44,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf26} I{\kf26} know{\kf34} I'm{\kf43} meant{\kf43} to{\kf102} be
+Dialogue: 0,0:03:26.01,0:03:31.51,DEFAULT,,0,0,0,,{\r}{\kf23}Leav{\kf39}ing{\kf31} co{\kf23}~{\kf31}lours{\kf39} in{\kf39} my{\kf325} wake
+Dialogue: 0,0:03:33.94,0:03:39.44,DEFAULT,,0,0,0,,{\r}{\kf23}Leav{\kf39}ing{\kf31} co{\kf23}~{\kf31}lours{\kf39} in{\kf39} my{\kf325} wake
+Dialogue: 0,0:03:41.94,0:03:47.44,DEFAULT,,0,0,0,,{\r}{\kf23}Leav{\kf39}ing{\kf31} co{\kf23}~{\kf31}lours{\kf39} in{\kf39} my{\kf325} wake
+Dialogue: 0,0:03:49.94,0:03:58.26,DEFAULT,,0,0,0,,{\r}{\kf22}Leav{\kf37}ing{\kf37} co{\kf37}lours{\kf37} in{\kf37} my{\kf90} wake{\kf142}~{\kf195}~{\kf197}~

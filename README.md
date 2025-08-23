@@ -7,9 +7,20 @@
 所有歌词文件都已经上传，包括但不限于通过工具自动下载的与我手动调整过的，多数歌曲歌词还没有精校，具体确定可用的歌曲歌词请查看[check.md](./check.md)
 
 > [!IMPORTANT]  
-> 较大更新(2025年4月16日)，添加了来自My Little Karaoke (mylittlekaraoke.com)的大多数Official曲子与Community的 lrc 与 ass 到mylittlekaraoke文件夹中  (目前ass有问题)
+> 较大更新(2025年8月23日)，更新 My Little Karaoke (mylittlekaraoke.com) 的歌词，优化解析与格式化，包含6种格式
 
-*mylittlekaraoke原始歌词文件不是ASS与LRC，而是我自行构建脚本转换来的，可能存在解析错误，欢迎提issue*
+6种格式说明：
+
+- .lrc 逐字lrc
+- .simple.lrc 逐行lrc
+- .ass 逐字卡拉OK ass
+- .simple.ass 逐行 ass
+- .txt.lrc 纯歌词
+- .simple.txt.lrc 纯歌词，且移除了一些重复音节，比如 abc-bc-bcd => abcd
+
+主分支只提供lrc与ass, 完整6种格式到full分支
+
+*以上格式只针对 mylittlekaraoke部分*
 
 *[mylittlekaraoke](mylittlekaraoke.com)是一款小马同人游戏，有大多官曲以及众多同人曲包，都支持卡拉OK。除了mylittlekaraoke，还有一个相似的游戏 [ponytone](https://ponytone.online/),在线版本，支持多人，提供的主要内容相同*
 

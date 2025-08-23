@@ -1,43 +1,50 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Fight for the Crystal Empire
+Artist: Bronyfied, Cyril the Wolf
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:13.67,0:00:25.61,DEFAULT,,0,0,0,,{\kf61}Ah{\kf1127} yeah
-Dialogue: 0,0:00:28.99,0:00:31.20,DEFAULT,,0,0,0,,{\kf33}Trapped{\kf25} in{\kf21} the{\kf33} fro{\kf25}zen{\kf69} wastes
-Dialogue: 0,0:00:31.40,0:00:34.66,DEFAULT,,0,0,0,,{\kf25}A{\kf33}no{\kf25}ther{\kf45} e{\kf29}vil{\kf29} you{\kf41} must{\kf69} face
-Dialogue: 0,0:00:34.90,0:00:38.00,DEFAULT,,0,0,0,,{\kf21}The{\kf33} Crys{\kf29}tal{\kf21}line{\kf33} King{\kf33}dom{\kf33} re{\kf33}ap{\kf61}peared
-Dialogue: 0,0:00:38.20,0:00:41.74,DEFAULT,,0,0,0,,{\kf25}He{\kf21} will{\kf25} feast{\kf29} u{\kf25}pon{\kf25} all{\kf21} your{\kf45} fears{\kf113}~
-Dialogue: 0,0:00:42.34,0:00:46.76,DEFAULT,,0,0,0,,{\kf41}King{\kf41} Som{\kf37}bra{\kf33} will{\kf41} make{\kf33} e{\kf29}very{\kf25}thing{\kf137} burn
-Dialogue: 0,0:00:49.18,0:00:53.60,DEFAULT,,0,0,0,,{\kf33}You{\kf37} must{\kf33} fight{\kf37} to{\kf41} stop{\kf37} his{\kf65} re{\kf117}turn
-Dialogue: 0,0:00:55.97,0:01:00.64,DEFAULT,,0,0,0,,{\kf45}The{\kf41} em{\kf37}pire{\kf29} of{\kf33} light{\kf29} was{\kf25} sealed{\kf33} a{\kf161}way
-Dialogue: 0,0:01:02.00,0:01:06.71,DEFAULT,,0,0,0,,{\kf49}Cor{\kf41}rup{\kf37}tion{\kf41} and{\kf41} crys{\kf57}tal{\kf45} de{\kf81}cay
-Dialogue: 0,0:01:09.36,0:01:15.84,DEFAULT,,0,0,0,,{\kf85}E{\kf69}vil{\kf45} ri{\kf41}~{\kf37}ses{\kf41} from{\kf73} its{\kf41} arc{\kf41}tic{\kf41} pri{\kf37}~{\kf57}son
-Dialogue: 0,0:01:16.20,0:01:22.80,DEFAULT,,0,0,0,,{\kf73}To{\kf65} re{\kf21}a{\kf37}li{\kf41}ze{\kf29} it's{\kf37} a{\kf93}po{\kf81}ca{\kf37}lyp{\kf37}tic{\kf41} vi{\kf29}sion
-Dialogue: 0,0:01:23.00,0:01:29.39,DEFAULT,,0,0,0,,{\kf81}But{\kf37} with{\kf29} the{\kf41} E{\kf45}le{\kf29}ments{\kf37} and{\kf93} Prin{\kf65}cess{\kf37} Ca{\kf49}~{\kf37}dance
-Dialogue: 0,0:01:29.83,0:01:35.99,DEFAULT,,0,0,0,,{\kf81}The{\kf45} Crys{\kf41}tal{\kf37} Heart{\kf37} will{\kf37} be{\kf41} charged{\kf77} to{\kf49} save{\kf37}~{\kf97} us
-Dialogue: 0,0:01:37.07,0:01:39.57,DEFAULT,,0,0,0,,{\kf49}He{\kf25} breaks{\kf25} through{\kf21} the{\kf41} bar{\kf25}ri{\kf45}er
-Dialogue: 0,0:01:39.69,0:01:43.02,DEFAULT,,0,0,0,,{\kf41}As{\kf53} Her{\kf41} ma{\kf21}gic{\kf29} grows{\kf29} ti{\kf21}~{\kf65}red
-Dialogue: 0,0:01:43.35,0:01:46.40,DEFAULT,,0,0,0,,{\kf25}The{\kf33} Crys{\kf25}tal{\kf77} Fair{\kf25} from{\kf25} the{\kf49} start
-Dialogue: 0,0:01:46.56,0:01:50.06,DEFAULT,,0,0,0,,{\kf17}Is{\kf25} the{\kf29} key{\kf21} to{\kf25} the{\kf45} Crys{\kf33}tal{\kf129} Heart
-Dialogue: 0,0:01:50.42,0:01:54.85,DEFAULT,,0,0,0,,{\kf73}Twi{\kf53}light{\kf37} is{\kf57} trapped{\kf57} by{\kf37} his{\kf97} cage
-Dialogue: 0,0:01:57.22,0:02:01.84,DEFAULT,,0,0,0,,{\kf69}Coun{\kf29}ter{\kf29}ing{\kf21} the{\kf25} ma{\kf29}gic{\kf33} cast{\kf33} by{\kf17} the{\kf133} mage
-Dialogue: 0,0:02:04.62,0:02:10.61,DEFAULT,,0,0,0,,{\kf33}Her{\kf45} dra{\kf29}gon{\kf33} brings{\kf33} the{\kf29} Crys{\kf29}tal{\kf29} our{\kf101} hope{\kf77}~{\kf129}~
-Dialogue: 0,0:02:10.97,0:02:16.68,DEFAULT,,0,0,0,,{\kf37}Ca{\kf33}dance,{\kf21} a{\kf21} mis{\kf21}sile,{\kf29} re{\kf37}claims{\kf29}~{\kf25}~{\kf33} her{\kf190} throne{\kf17}~{\kf21}~
-Dialogue: 0,0:02:17.89,0:02:24.48,DEFAULT,,0,0,0,,{\kf89}E{\kf77}vil{\kf45} ri{\kf37}~{\kf33}ses{\kf29} from{\kf77} its{\kf41} arc{\kf33}tic{\kf41} pri{\kf45}~{\kf57}son
-Dialogue: 0,0:02:24.69,0:02:31.40,DEFAULT,,0,0,0,,{\kf77}To{\kf45} re{\kf33}a{\kf41}li{\kf45}ze{\kf33} it's{\kf49} a{\kf89}po{\kf77}ca{\kf41}lyp{\kf37}tic{\kf45} vi{\kf25}sion
-Dialogue: 0,0:02:31.64,0:02:38.12,DEFAULT,,0,0,0,,{\kf73}But{\kf33} with{\kf37} the{\kf41} E{\kf41}le{\kf37}ments{\kf33} and{\kf85} Prin{\kf77}cess{\kf33} Ca{\kf21}~{\kf29}~{\kf49}dance
-Dialogue: 0,0:02:38.40,0:02:44.55,DEFAULT,,0,0,0,,{\kf77}The{\kf41} Crys{\kf33}tal{\kf33} Heart{\kf45} will{\kf41} be{\kf37} charged{\kf61} to{\kf53} save{\kf33}~{\kf97} us
-Dialogue: 0,0:02:44.79,0:02:53.36,DEFAULT,,0,0,0,,{\kf49}Oh{\kf270} Oh{\kf81}~{\kf290}~{\kf25}~{\kf25}~{\kf117}~
-Dialogue: 0,0:02:54.24,0:02:58.75,DEFAULT,,0,0,0,,{\kf49}Re{\kf29}turn{\kf25} to{\kf29} the{\kf25} sha{\kf29}dows{\kf25} from{\kf37} where{\kf37} you{\kf141} came
-Dialogue: 0,0:03:33.25,0:03:39.89,DEFAULT,,0,0,0,,{\kf89}E{\kf73}vil{\kf49} ri{\kf41}~{\kf37}ses{\kf33} from{\kf69} its{\kf45} arc{\kf37}tic{\kf49} pri{\kf41}~{\kf53}son
-Dialogue: 0,0:03:40.17,0:03:46.80,DEFAULT,,0,0,0,,{\kf73}To{\kf69} re{\kf25}a{\kf37}lize{\kf37}~{\kf25} it's{\kf49} a{\kf89}po{\kf85}ca{\kf37}lyp{\kf33}tic{\kf45} vi{\kf25}sion
-Dialogue: 0,0:03:47.09,0:03:53.56,DEFAULT,,0,0,0,,{\kf77}But{\kf29} with{\kf37} the{\kf45} E{\kf45}le{\kf29}ments{\kf33} and{\kf81} Prin{\kf81}cess{\kf33} Ca{\kf33}~{\kf29}~{\kf45}dance
-Dialogue: 0,0:03:53.84,0:03:59.67,DEFAULT,,0,0,0,,{\kf57}The{\kf41} Crys{\kf37}tal{\kf41} Heart{\kf29} will{\kf41} be{\kf37} charged{\kf65} to{\kf49} save{\kf41}~{\kf61} us
-Dialogue: 0,0:03:59.87,0:04:03.01,DEFAULT,,0,0,0,,{\kf25}To{\kf41} save{\kf226} us
+Dialogue: 0,0:00:13.67,0:00:25.62,DEFAULT,,0,0,0,,{\r}{\kf61}Ah{\kf1133} yeah
+Dialogue: 0,0:00:28.99,0:00:31.21,DEFAULT,,0,0,0,,{\r}{\kf35}Trapped{\kf27} in{\kf22} the{\kf35} fro{\kf27}zen{\kf75} wastes
+Dialogue: 0,0:00:31.41,0:00:34.66,DEFAULT,,0,0,0,,{\r}{\kf27}A{\kf36}no{\kf27}ther{\kf50} e{\kf32}vil{\kf32} you{\kf45} must{\kf77} face
+Dialogue: 0,0:00:34.91,0:00:38.00,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf34} Crys{\kf30}tal{\kf22}line{\kf34} King{\kf34}dom{\kf34} re{\kf34}ap{\kf66}peared
+Dialogue: 0,0:00:38.20,0:00:41.74,DEFAULT,,0,0,0,,{\r}{\kf27}He{\kf22} will{\kf27} feast{\kf31} u{\kf27}pon{\kf27} all{\kf22} your{\kf49} fears{\kf122}~
+Dialogue: 0,0:00:42.34,0:00:46.77,DEFAULT,,0,0,0,,{\r}{\kf43}King{\kf43} Som{\kf39}bra{\kf35} will{\kf43} make{\kf35} e{\kf30}very{\kf26}thing{\kf148} burn
+Dialogue: 0,0:00:49.18,0:00:53.60,DEFAULT,,0,0,0,,{\r}{\kf36}You{\kf41} must{\kf36} fight{\kf41} to{\kf45} stop{\kf41} his{\kf72} re{\kf130}turn
+Dialogue: 0,0:00:55.98,0:01:00.64,DEFAULT,,0,0,0,,{\r}{\kf48}The{\kf44} em{\kf40}pire{\kf31} of{\kf35} light{\kf31} was{\kf26} sealed{\kf35} a{\kf176}way
+Dialogue: 0,0:01:02.01,0:01:06.71,DEFAULT,,0,0,0,,{\r}{\kf59}Cor{\kf49}rup{\kf44}tion{\kf49} and{\kf49} crys{\kf69}tal{\kf54} de{\kf98}cay
+Dialogue: 0,0:01:09.37,0:01:15.84,DEFAULT,,0,0,0,,{\r}{\kf91}E{\kf74}vil{\kf48} ri{\kf43}~{\kf39}ses{\kf43} from{\kf78} its{\kf43} arc{\kf43}tic{\kf43} pri{\kf39}~{\kf63}son
+Dialogue: 0,0:01:16.21,0:01:22.80,DEFAULT,,0,0,0,,{\r}{\kf78}To{\kf69} re{\kf22}a{\kf39}li{\kf43}ze{\kf30} it's{\kf39} a{\kf100}po{\kf87}ca{\kf39}lyp{\kf39}tic{\kf43} vi{\kf32}sion
+Dialogue: 0,0:01:23.00,0:01:29.40,DEFAULT,,0,0,0,,{\r}{\kf90}But{\kf40} with{\kf32} the{\kf45} E{\kf50}le{\kf32}ments{\kf40} and{\kf104} Prin{\kf72}cess{\kf40} Ca{\kf54}~{\kf40}dance
+Dialogue: 0,0:01:29.84,0:01:35.99,DEFAULT,,0,0,0,,{\r}{\kf87}The{\kf48} Crys{\kf43}tal{\kf39} Heart{\kf39} will{\kf39} be{\kf43} charged{\kf82} to{\kf52} save{\kf39}~{\kf104} us
+Dialogue: 0,0:01:37.08,0:01:39.57,DEFAULT,,0,0,0,,{\r}{\kf53}He{\kf27} breaks{\kf27} through{\kf22} the{\kf44} bar{\kf27}ri{\kf49}er
+Dialogue: 0,0:01:39.69,0:01:43.03,DEFAULT,,0,0,0,,{\r}{\kf46}As{\kf59} Her{\kf46} ma{\kf23}gic{\kf32} grows{\kf32} ti{\kf23}~{\kf73}red
+Dialogue: 0,0:01:43.35,0:01:46.41,DEFAULT,,0,0,0,,{\r}{\kf29}The{\kf39} Crys{\kf29}tal{\kf92} Fair{\kf29} from{\kf29} the{\kf59} start
+Dialogue: 0,0:01:46.57,0:01:50.07,DEFAULT,,0,0,0,,{\r}{\kf18}Is{\kf27} the{\kf31} key{\kf22} to{\kf27} the{\kf49} Crys{\kf35}tal{\kf141} Heart
+Dialogue: 0,0:01:50.43,0:01:54.85,DEFAULT,,0,0,0,,{\r}{\kf79}Twi{\kf57}light{\kf39} is{\kf61} trapped{\kf61} by{\kf39} his{\kf106} cage
+Dialogue: 0,0:01:57.22,0:02:01.85,DEFAULT,,0,0,0,,{\r}{\kf77}Coun{\kf32}ter{\kf32}ing{\kf23} the{\kf27} ma{\kf32}gic{\kf36} cast{\kf36} by{\kf18} the{\kf149} mage
+Dialogue: 0,0:02:04.62,0:02:10.62,DEFAULT,,0,0,0,,{\r}{\kf34}Her{\kf47} dra{\kf30}gon{\kf34} brings{\kf34} the{\kf30} Crys{\kf30}tal{\kf30} our{\kf108} hope{\kf82}~{\kf140}~
+Dialogue: 0,0:02:10.98,0:02:16.69,DEFAULT,,0,0,0,,{\r}{\kf41}Ca{\kf37}dance,{\kf23} a{\kf23} mis{\kf23}sile,{\kf32} re{\kf41}claims{\kf32}~{\kf27}~{\kf37} her{\kf215} throne{\kf18}~{\kf22}~
+Dialogue: 0,0:02:17.89,0:02:24.49,DEFAULT,,0,0,0,,{\r}{\kf98}E{\kf85}vil{\kf49} ri{\kf40}~{\kf36}ses{\kf31} from{\kf85} its{\kf45} arc{\kf36}tic{\kf45} pri{\kf49}~{\kf61}son
+Dialogue: 0,0:02:24.69,0:02:31.41,DEFAULT,,0,0,0,,{\r}{\kf82}To{\kf47} re{\kf34}a{\kf43}li{\kf47}ze{\kf34} it's{\kf52} a{\kf95}po{\kf82}ca{\kf43}lyp{\kf39}tic{\kf47} vi{\kf27}sion
+Dialogue: 0,0:02:31.65,0:02:38.12,DEFAULT,,0,0,0,,{\r}{\kf81}But{\kf36} with{\kf40} the{\kf45} E{\kf45}le{\kf40}ments{\kf36} and{\kf94} Prin{\kf85}cess{\kf36} Ca{\kf22}~{\kf31}~{\kf56}dance
+Dialogue: 0,0:02:38.40,0:02:44.56,DEFAULT,,0,0,0,,{\r}{\kf87}The{\kf46} Crys{\kf36}tal{\kf36} Heart{\kf50} will{\kf46} be{\kf41} charged{\kf68} to{\kf59} save{\kf36}~{\kf110} us
+Dialogue: 0,0:02:44.80,0:02:53.36,DEFAULT,,0,0,0,,{\r}{\kf49}Oh{\kf271} Oh{\kf81}~{\kf291}~{\kf24}~{\kf24}~{\kf117}~
+Dialogue: 0,0:02:54.25,0:02:58.75,DEFAULT,,0,0,0,,{\r}{\kf52}Re{\kf30}turn{\kf26} to{\kf30} the{\kf26} sha{\kf30}dows{\kf26} from{\kf39} where{\kf39} you{\kf152} came
+Dialogue: 0,0:03:33.26,0:03:39.89,DEFAULT,,0,0,0,,{\r}{\kf97}E{\kf79}vil{\kf53} ri{\kf44}~{\kf40}ses{\kf35} from{\kf75} its{\kf48} arc{\kf40}tic{\kf53} pri{\kf44}~{\kf56}son
+Dialogue: 0,0:03:40.17,0:03:46.81,DEFAULT,,0,0,0,,{\r}{\kf78}To{\kf73} re{\kf26}a{\kf39}lize{\kf39}~{\kf26} it's{\kf52} a{\kf95}po{\kf91}ca{\kf39}lyp{\kf34}tic{\kf47} vi{\kf25}sion
+Dialogue: 0,0:03:47.09,0:03:53.56,DEFAULT,,0,0,0,,{\r}{\kf84}But{\kf31} with{\kf40} the{\kf49} E{\kf49}le{\kf31}ments{\kf35} and{\kf89} Prin{\kf89}cess{\kf35} Ca{\kf35}~{\kf31}~{\kf49}dance
+Dialogue: 0,0:03:53.85,0:03:59.68,DEFAULT,,0,0,0,,{\r}{\kf67}The{\kf48} Crys{\kf43}tal{\kf48} Heart{\kf33} will{\kf48} be{\kf43} charged{\kf76} to{\kf57} save{\kf48}~{\kf72} us
+Dialogue: 0,0:03:59.88,0:04:03.02,DEFAULT,,0,0,0,,{\r}{\kf26}To{\kf44} save{\kf244} us

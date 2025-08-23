@@ -1,40 +1,47 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Nevess, amíg van szusz
+Artist: Én Kicsi Pónim
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.23,0:00:02.19,DEFAULT,,0,0,0,,{\kf45}Jaj,{\kf52} lányok!{\kf18} Nem{\kf73} értitek?
-Dialogue: 0,0:00:02.67,0:00:04.90,DEFAULT,,0,0,0,,{\kf21}Mi{\kf18}kor{\kf21} es{\kf14}te{\kf11} a{\kf18} Nap{\kf14} a{\kf28}lud{\kf21}ni{\kf38} tért
-Dialogue: 0,0:00:05.14,0:00:08.21,DEFAULT,,0,0,0,,{\kf25}Kis{\kf28}lány{\kf14}ko{\kf25}rom{\kf62}ba{\kf14}-a{\kf21}-a{\kf97}-an
-Dialogue: 0,0:00:08.28,0:00:09.24,DEFAULT,,0,0,0,,{\kf49}Mondjátok,{\kf21} hogy{\kf28} nem...
-Dialogue: 0,0:00:09.34,0:00:11.03,DEFAULT,,0,0,0,,{\kf21}Ár{\kf28}nyék{\kf21} volt{\kf18} és{\kf18} sö{\kf21}tét{\kf25}ség
-Dialogue: 0,0:00:11.10,0:00:14.50,DEFAULT,,0,0,0,,{\kf0}És{\kf25} én{\kf28} ös{\kf21}sze{\kf18}ku{\kf14}po{\kf21}rod{\kf76}ta{\kf14}-a{\kf21}-a{\kf97}-am
-Dialogue: 0,0:00:14.64,0:00:15.33,DEFAULT,,0,0,0,,{\kf18}De{\kf49} igen...
-Dialogue: 0,0:00:15.33,0:00:17.25,DEFAULT,,0,0,0,,{\kf14}A{\kf21} pár{\kf14}na{\kf14} a{\kf42}lá{\kf21} búj{\kf35}tam
-Dialogue: 0,0:00:17.39,0:00:19.32,DEFAULT,,0,0,0,,{\kf21}Az{\kf21} árny{\kf21}ké{\kf28}pek{\kf14} e{\kf69}lől
-Dialogue: 0,0:00:19.42,0:00:21.73,DEFAULT,,0,0,0,,{\kf18}De{\kf14} a{\kf14} na{\kf14}gyi{\kf18} sze{\kf28}rint{\kf14} ez{\kf28} nem{\kf25} jó{\kf35} út
-Dialogue: 0,0:00:21.90,0:00:23.96,DEFAULT,,0,0,0,,{\kf14} "Ne{\kf28} légy{\kf28} gyá{\kf21}va{\kf104} nyúl!"
-Dialogue: 0,0:00:23.89,0:00:24.48,DEFAULT,,0,0,0,,{\kf25}Hát{\kf31} akkor?
-Dialogue: 0,0:00:24.55,0:00:27.51,DEFAULT,,0,0,0,,{\kf14}Így{\kf28} szólt:{\kf42} "Pin{\kf42}kie,{\kf18} u{\kf14}no{\kf35}kám{\kf14} ne{\kf42} félj!
-Dialogue: 0,0:00:27.54,0:00:29.06,DEFAULT,,0,0,0,,{\kf31}Győzd{\kf21} le{\kf28} fé{\kf25}lel{\kf18}me{\kf25}det!
-Dialogue: 0,0:00:29.19,0:00:31.22,DEFAULT,,0,0,0,,{\kf42}Meg{\kf52}lásd,{\kf11} ha{\kf14} ne{\kf28}vetsz{\kf25} raj{\kf21}ta
-Dialogue: 0,0:00:31.33,0:00:34.04,DEFAULT,,0,0,0,,{\kf21}nem{\kf21} lesz{\kf31} töb{\kf14}bé{\kf28} sem{\kf18}mi{\kf124} vész."
-Dialogue: 0,0:00:34.35,0:00:35.80,DEFAULT,,0,0,0,,{\kf49}Ha!{\kf45} Ha!{\kf35} Ha!
-Dialogue: 0,0:00:38.28,0:00:41.17,DEFAULT,,0,0,0,,{\kf90}Hát,{\kf25} ne{\kf21}vess{\kf18} a{\kf21}míg{\kf25} van{\kf56} szusz
-Dialogue: 0,0:00:41.41,0:00:43.33,DEFAULT,,0,0,0,,{\kf18}Ka{\kf35}cagj,{\kf18} a{\kf18}míg{\kf35} csak{\kf56} tudsz
-Dialogue: 0,0:00:43.50,0:00:45.33,DEFAULT,,0,0,0,,{\kf25}Nin{\kf21}csen{\kf28} töb{\kf21}bé{\kf38} szel{\kf38}lem
-Dialogue: 0,0:00:45.60,0:00:47.50,DEFAULT,,0,0,0,,{\kf25}Kön{\kf21}nye{\kf28}id{\kf18}  fe{\kf35}lejtsd{\kf49} el
-Dialogue: 0,0:00:47.70,0:00:49.56,DEFAULT,,0,0,0,,{\kf25}Kun{\kf31}cogj,{\kf21} mint{\kf14} egy{\kf21} bo{\kf59}hóc
-Dialogue: 0,0:00:49.73,0:00:51.73,DEFAULT,,0,0,0,,{\kf28}Az{\kf21} ott{\kf28} csak{\kf18} egy{\kf28} pok{\kf42}ró{\kf21}-óc
-Dialogue: 0,0:00:51.73,0:00:52.69,DEFAULT,,0,0,0,,{\kf14}S{\kf28} hogyha{\kf25} nagyon{\kf31} félsz
-Dialogue: 0,0:00:52.66,0:00:53.79,DEFAULT,,0,0,0,,{\kf28}Akkor{\kf14} ne{\kf38} remegjen{\kf11} a{\kf25} térd
-Dialogue: 0,0:00:53.96,0:00:55.06,DEFAULT,,0,0,0,,{\kf18}Tűnj{\kf11} el{\kf31} szellem,{\kf28} tágulj{\kf25} tőlem
-Dialogue: 0,0:00:55.10,0:00:56.17,DEFAULT,,0,0,0,,{\kf11}De{\kf14} ha{\kf11} nem{\kf11} mész,{\kf14}van{\kf11} itt{\kf18} sok,{\kf11} mi{\kf11} szép
-Dialogue: 0,0:00:56.17,0:00:57.95,DEFAULT,,0,0,0,,{\kf31}Mondom,{\kf14} hogy{\kf14} ez{\kf7} a{\kf35} legjobb,{\kf11} ne{\kf14} tégy{\kf21} mást{\kf35} csak
-Dialogue: 0,0:01:00.64,0:01:05.42,DEFAULT,,0,0,0,,{\kf31}Ne{\kf448}vess!
+Dialogue: 0,0:00:00.23,0:00:02.19,DEFAULT,,0,0,0,,{\r}{\kf47}Jaj,{\kf54} lányok!{\kf18} Nem{\kf77} értitek?
+Dialogue: 0,0:00:02.67,0:00:04.91,DEFAULT,,0,0,0,,{\r}{\kf23}Mi{\kf19}kor{\kf23} es{\kf15}te{\kf12} a{\kf19} Nap{\kf15} a{\kf31}lud{\kf23}ni{\kf44} tért
+Dialogue: 0,0:00:05.15,0:00:08.21,DEFAULT,,0,0,0,,{\r}{\kf26}Kis{\kf30}lány{\kf15}ko{\kf26}rom{\kf67}ba{\kf15}-a{\kf22}-a{\kf105}-an
+Dialogue: 0,0:00:08.28,0:00:09.24,DEFAULT,,0,0,0,,{\r}{\kf48}Mondjátok,{\kf21} hogy{\kf27} nem...
+Dialogue: 0,0:00:09.35,0:00:11.03,DEFAULT,,0,0,0,,{\r}{\kf24}Ár{\kf31}nyék{\kf24} volt{\kf20} és{\kf20} sö{\kf24}tét{\kf26}ség
+Dialogue: 0,0:00:11.17,0:00:14.51,DEFAULT,,0,0,0,,{\r}{\kf24} én{\kf28} ös{\kf21}sze{\kf17}ku{\kf14}po{\kf21}rod{\kf77}ta{\kf14}-a{\kf21}-a{\kf97}-am
+Dialogue: 0,0:00:14.65,0:00:15.33,DEFAULT,,0,0,0,,{\r}{\kf18}De{\kf51} igen...
+Dialogue: 0,0:00:15.33,0:00:17.26,DEFAULT,,0,0,0,,{\r}{\kf17}A{\kf25} pár{\kf17}na{\kf17} a{\kf50}lá{\kf25} búj{\kf42}tam
+Dialogue: 0,0:00:17.40,0:00:19.32,DEFAULT,,0,0,0,,{\r}{\kf23}Az{\kf23} árny{\kf23}ké{\kf31}pek{\kf15} e{\kf78}lől
+Dialogue: 0,0:00:19.43,0:00:21.73,DEFAULT,,0,0,0,,{\r}{\kf20}De{\kf16} a{\kf16} na{\kf16}gyi{\kf20} sze{\kf31}rint{\kf16} ez{\kf31} nem{\kf27} jó{\kf38} út
+Dialogue: 0,0:00:21.90,0:00:23.97,DEFAULT,,0,0,0,,{\r}{\kf15} "Ne{\kf29} légy{\kf29} gyá{\kf22}va{\kf111} nyúl!"
+Dialogue: 0,0:00:23.90,0:00:24.48,DEFAULT,,0,0,0,,{\r}{\kf25}Hát{\kf33} akkor?
+Dialogue: 0,0:00:24.55,0:00:27.51,DEFAULT,,0,0,0,,{\r}{\kf17}Így{\kf33} szólt:{\kf50} "Pin{\kf50}kie,{\kf21} u{\kf17}no{\kf42}kám{\kf17} ne{\kf49} félj!
+Dialogue: 0,0:00:27.55,0:00:29.06,DEFAULT,,0,0,0,,{\r}{\kf32}Győzd{\kf22} le{\kf29} fé{\kf25}lel{\kf18}me{\kf25}det!
+Dialogue: 0,0:00:29.20,0:00:31.23,DEFAULT,,0,0,0,,{\r}{\kf44}Meg{\kf55}lásd,{\kf11} ha{\kf15} ne{\kf30}vetsz{\kf26} raj{\kf22}ta
+Dialogue: 0,0:00:31.33,0:00:34.05,DEFAULT,,0,0,0,,{\r}{\kf22}nem{\kf22} lesz{\kf33} töb{\kf15}bé{\kf29} sem{\kf18}mi{\kf133} vész."
+Dialogue: 0,0:00:34.36,0:00:35.80,DEFAULT,,0,0,0,,{\r}{\kf54}Ha!{\kf51} Ha!{\kf39} Ha!
+Dialogue: 0,0:00:38.28,0:00:41.17,DEFAULT,,0,0,0,,{\r}{\kf103}Hát,{\kf28} ne{\kf24}vess{\kf20} a{\kf24}míg{\kf28} van{\kf62} szusz
+Dialogue: 0,0:00:41.41,0:00:43.34,DEFAULT,,0,0,0,,{\r}{\kf19}Ka{\kf38}cagj,{\kf19} a{\kf19}míg{\kf38} csak{\kf60} tudsz
+Dialogue: 0,0:00:43.51,0:00:45.33,DEFAULT,,0,0,0,,{\r}{\kf26}Nin{\kf22}csen{\kf30} töb{\kf22}bé{\kf41} szel{\kf41}lem
+Dialogue: 0,0:00:45.61,0:00:47.50,DEFAULT,,0,0,0,,{\r}{\kf26}Kön{\kf23}nye{\kf30}id{\kf19}  fe{\kf38}lejtsd{\kf53} el
+Dialogue: 0,0:00:47.71,0:00:49.56,DEFAULT,,0,0,0,,{\r}{\kf27}Kun{\kf34}cogj,{\kf23} mint{\kf15} egy{\kf23} bo{\kf64}hóc
+Dialogue: 0,0:00:49.74,0:00:51.73,DEFAULT,,0,0,0,,{\r}{\kf30}Az{\kf23} ott{\kf30} csak{\kf19} egy{\kf30} pok{\kf45}ró{\kf23}-óc
+Dialogue: 0,0:00:51.73,0:00:52.70,DEFAULT,,0,0,0,,{\r}{\kf14}S{\kf27} hogyha{\kf24} nagyon{\kf31} félsz
+Dialogue: 0,0:00:52.66,0:00:53.80,DEFAULT,,0,0,0,,{\r}{\kf28}Akkor{\kf14} ne{\kf38} remegjen{\kf10} a{\kf24} térd
+Dialogue: 0,0:00:53.97,0:00:55.07,DEFAULT,,0,0,0,,{\r}{\kf17}Tűnj{\kf10} el{\kf31} szellem,{\kf28} tágulj{\kf24} tőlem
+Dialogue: 0,0:00:55.10,0:00:56.17,DEFAULT,,0,0,0,,{\r}{\kf10}De{\kf14} ha{\kf10} nem{\kf10} mész,{\kf14}van{\kf10} itt{\kf17} sok,{\kf10} mi{\kf12} szép
+Dialogue: 0,0:00:56.17,0:00:57.96,DEFAULT,,0,0,0,,{\r}{\kf31}Mondom,{\kf14} hogy{\kf14} ez{\kf10} a{\kf34} legjobb,{\kf10} ne{\kf14} tégy{\kf21} mást{\kf31} csak
+Dialogue: 0,0:01:00.64,0:01:05.42,DEFAULT,,0,0,0,,{\r}{\kf31}Ne{\kf447}vess!

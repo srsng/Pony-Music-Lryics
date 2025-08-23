@@ -1,82 +1,89 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Raise This Barn
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.25,0:00:03.16,DEFAULT,,0,0,0,,{\kf191}Yahoo!
-Dialogue: 0,0:00:03.97,0:00:04.84,DEFAULT,,0,0,0,,{\kf29}Raise{\kf18} this{\kf35} barn
-Dialogue: 0,0:00:04.96,0:00:05.82,DEFAULT,,0,0,0,,{\kf24}Raise{\kf12} this{\kf41} barn
-Dialogue: 0,0:00:05.88,0:00:07.44,DEFAULT,,0,0,0,,{\kf29}One,{\kf29} two,{\kf29} three,{\kf18} four
-Dialogue: 0,0:00:07.50,0:00:09.41,DEFAULT,,0,0,0,,{\kf12}To{\kf24}ge{\kf12}ther{\kf18} we{\kf18} can{\kf24} raise{\kf12} this{\kf29} barn
-Dialogue: 0,0:00:09.64,0:00:11.26,DEFAULT,,0,0,0,,{\kf24}One,{\kf24} two,{\kf29} three,{\kf24} four
-Dialogue: 0,0:00:11.49,0:00:13.17,DEFAULT,,0,0,0,,{\kf12}Up,{\kf12} up,{\kf12} up,{\kf18} go{\kf12} the{\kf35} beams
-Dialogue: 0,0:00:13.29,0:00:14.04,DEFAULT,,0,0,0,,{\kf12}Ham{\kf12}mer{\kf18} those{\kf29} joints,
-Dialogue: 0,0:00:14.21,0:00:14.97,DEFAULT,,0,0,0,,{\kf24}Work{\kf12} in{\kf29} teams
-Dialogue: 0,0:00:15.14,0:00:16.76,DEFAULT,,0,0,0,,{\kf12}Turn{\kf12} 'em{\kf12} round{\kf18} quick{\kf12} by{\kf6} the{\kf24} right{\kf18} el{\kf24}bow
-Dialogue: 0,0:00:16.93,0:00:17.86,DEFAULT,,0,0,0,,{\kf18}Grab{\kf6} a{\kf18} new{\kf24} part{\kf18}ner
-Dialogue: 0,0:00:17.92,0:00:18.55,DEFAULT,,0,0,0,,{\kf12}Here{\kf18} we{\kf24} go
-Dialogue: 0,0:00:19.94,0:00:21.27,DEFAULT,,0,0,0,,{\kf24}Come{\kf24} on,{\kf24} Apple{\kf47} family
-Dialogue: 0,0:00:21.62,0:00:24.74,DEFAULT,,0,0,0,,{\kf24}Let's{\kf24} get{\kf24} to{\kf18} it!{\kf203} Whoo-hoo!
-Dialogue: 0,0:00:26.25,0:00:27.06,DEFAULT,,0,0,0,,{\kf24}Raise{\kf12} this{\kf35} barn
-Dialogue: 0,0:00:27.12,0:00:27.99,DEFAULT,,0,0,0,,{\kf29}Raise{\kf12} this{\kf41} barn
-Dialogue: 0,0:00:28.04,0:00:29.61,DEFAULT,,0,0,0,,{\kf29}One,{\kf24} two,{\kf29} three,{\kf18} four
-Dialogue: 0,0:00:29.66,0:00:31.57,DEFAULT,,0,0,0,,{\kf18}To{\kf24}ge{\kf18}ther{\kf18} we{\kf18} can{\kf24} raise{\kf12} this{\kf29} barn
-Dialogue: 0,0:00:31.75,0:00:33.37,DEFAULT,,0,0,0,,{\kf29}One,{\kf24} two,{\kf29} three,{\kf24} four
-Dialogue: 0,0:00:33.60,0:00:34.23,DEFAULT,,0,0,0,,{\kf6}Fi{\kf18}nish{\kf6} the{\kf18} frame
-Dialogue: 0,0:00:34.23,0:00:35.22,DEFAULT,,0,0,0,,{\kf12}Re{\kf18}cyc{\kf24}ling{\kf29} wood
-Dialogue: 0,0:00:35.45,0:00:37.07,DEFAULT,,0,0,0,,{\kf12}Wor{\kf18}king{\kf18} hard,{\kf18} you're{\kf24} do{\kf18}ing{\kf24} good
-Dialogue: 0,0:00:37.30,0:00:38.86,DEFAULT,,0,0,0,,{\kf12}Turn{\kf12} 'em{\kf18} round{\kf18} quick{\kf12} by{\kf6} the{\kf24} right{\kf18} el{\kf18}bow
-Dialogue: 0,0:00:39.09,0:00:39.96,DEFAULT,,0,0,0,,{\kf24}Grab{\kf6} a{\kf12} new{\kf24} part{\kf18}ner
-Dialogue: 0,0:00:40.08,0:00:40.72,DEFAULT,,0,0,0,,{\kf18}Here{\kf18} we{\kf24} go
-Dialogue: 0,0:00:40.83,0:00:41.24,DEFAULT,,0,0,0,,{\kf41}Yeah!
-Dialogue: 0,0:00:41.64,0:00:43.20,DEFAULT,,0,0,0,,{\kf110}Whoo{\kf35}-whee!
-Dialogue: 0,0:00:44.71,0:00:45.52,DEFAULT,,0,0,0,,{\kf24}Raise{\kf18} this{\kf18} ba{\kf18}-arn
-Dialogue: 0,0:00:45.58,0:00:46.33,DEFAULT,,0,0,0,,{\kf29}Raise{\kf18} this{\kf29} barn
-Dialogue: 0,0:00:46.50,0:00:48.18,DEFAULT,,0,0,0,,{\kf29}One,{\kf29} two,{\kf29} three,{\kf29} four
-Dialogue: 0,0:00:48.24,0:00:50.15,DEFAULT,,0,0,0,,{\kf12}To{\kf24}ge{\kf18}ther{\kf18} we{\kf18} can{\kf24} raise{\kf18} this{\kf35} barn
-Dialogue: 0,0:00:50.20,0:00:51.88,DEFAULT,,0,0,0,,{\kf29}One,{\kf29} two,{\kf24} three,{\kf29} four
-Dialogue: 0,0:00:52.00,0:00:53.73,DEFAULT,,0,0,0,,{\kf29}Slats{\kf12} of{\kf18} wood{\kf24} come{\kf18} off{\kf12} the{\kf35} ground
-Dialogue: 0,0:00:53.91,0:00:55.59,DEFAULT,,0,0,0,,{\kf24}Hold{\kf18} 'em{\kf24} up{\kf12} and{\kf24} nail{\kf18} 'em{\kf29} down
-Dialogue: 0,0:00:55.76,0:00:57.32,DEFAULT,,0,0,0,,{\kf12}Turn{\kf12} 'em{\kf24} round{\kf18} quick{\kf12} by{\kf6} the{\kf24} left{\kf18} el{\kf24}bow
-Dialogue: 0,0:00:57.55,0:00:58.42,DEFAULT,,0,0,0,,{\kf18}Grab{\kf12} a{\kf12} new{\kf24} part{\kf18}ner
-Dialogue: 0,0:00:58.54,0:00:59.23,DEFAULT,,0,0,0,,{\kf18}Here{\kf18} we{\kf29} go
-Dialogue: 0,0:00:59.81,0:01:00.68,DEFAULT,,0,0,0,,{\kf18}Come{\kf24} on,{\kf41} Apples!
-Dialogue: 0,0:01:00.97,0:01:01.78,DEFAULT,,0,0,0,,{\kf18}Get{\kf12} her{\kf53} done!
-Dialogue: 0,0:01:03.11,0:01:04.96,DEFAULT,,0,0,0,,{\kf24}Look{\kf18} at{\kf18} us,{\kf12} we're{\kf24} fa{\kf18}mi{\kf47}ly
-Dialogue: 0,0:01:04.90,0:01:06.58,DEFAULT,,0,0,0,,{\kf18}Wor{\kf18}king{\kf12} to{\kf18}ge{\kf18}ther{\kf18} thank{\kf24}ful{\kf18}ly
-Dialogue: 0,0:01:06.64,0:01:08.49,DEFAULT,,0,0,0,,{\kf18}We{\kf18} Ap{\kf24}ples{\kf18} we{\kf18} are{\kf18} proud{\kf18} to{\kf29} say
-Dialogue: 0,0:01:08.66,0:01:10.34,DEFAULT,,0,0,0,,{\kf18}Stick{\kf18} to{\kf18}ge{\kf12}ther{\kf12} the{\kf24} po{\kf18}ny{\kf29} way
-Dialogue: 0,0:01:10.51,0:01:12.19,DEFAULT,,0,0,0,,{\kf18}Bow{\kf6} to{\kf18} your{\kf18} par{\kf18}tner,{\kf24} cir{\kf18}cle{\kf29} right
-Dialogue: 0,0:01:12.37,0:01:14.04,DEFAULT,,0,0,0,,{\kf24}Get{\kf18} down{\kf12} if{\kf18} you're{\kf24} scared{\kf12} of{\kf35} heights
-Dialogue: 0,0:01:14.22,0:01:15.84,DEFAULT,,0,0,0,,{\kf18}For{\kf18}ward,{\kf18} back{\kf18} and{\kf24} twirl{\kf18} a{\kf29}round
-Dialogue: 0,0:01:15.78,0:01:17.69,DEFAULT,,0,0,0,,{\kf18}The{\kf29} barn's{\kf12} gon{\kf12}na{\kf24} be{\kf12} the{\kf18} best{\kf18} in{\kf29} town
-Dialogue: 0,0:01:17.75,0:01:18.21,DEFAULT,,0,0,0,,{\kf47}Yeah!
-Dialogue: 0,0:01:18.67,0:01:21.45,DEFAULT,,0,0,0,,{\kf168}Yee-haw!{\kf99} Attagirl!
-Dialogue: 0,0:01:21.51,0:01:23.36,DEFAULT,,0,0,0,,{\kf29}All{\kf41} right! {\kf29}Let's{\kf24} get{\kf29} to{\kf12} it!
-Dialogue: 0,0:01:25.27,0:01:26.14,DEFAULT,,0,0,0,,{\kf29}Raise{\kf12} this{\kf41} barn
-Dialogue: 0,0:01:26.20,0:01:27.06,DEFAULT,,0,0,0,,{\kf29}Raise{\kf12} this{\kf41} barn
-Dialogue: 0,0:01:27.18,0:01:28.68,DEFAULT,,0,0,0,,{\kf29}One,{\kf29} two,{\kf29} three,{\kf18} four
-Dialogue: 0,0:01:28.80,0:01:30.71,DEFAULT,,0,0,0,,{\kf12}To{\kf29}ge{\kf24}ther{\kf18} we{\kf18} can{\kf24} raise{\kf18} this{\kf35} barn
-Dialogue: 0,0:01:30.82,0:01:32.45,DEFAULT,,0,0,0,,{\kf29}One,{\kf29} two,{\kf29} three,{\kf24} four
-Dialogue: 0,0:01:32.62,0:01:33.54,DEFAULT,,0,0,0,,{\kf29}Take{\kf18} your{\kf47} brushes
-Dialogue: 0,0:01:33.54,0:01:34.35,DEFAULT,,0,0,0,,{\kf29}Young{\kf12} and{\kf35} old
-Dialogue: 0,0:01:34.47,0:01:36.15,DEFAULT,,0,0,0,,{\kf12}To{\kf18}ge{\kf24}ther{\kf18} paint{\kf12} it{\kf24} bright{\kf18} and{\kf29} bold
-Dialogue: 0,0:01:36.38,0:01:37.94,DEFAULT,,0,0,0,,{\kf12}Turn{\kf12} 'em{\kf18} round{\kf24} quick{\kf18} by{\kf6} the{\kf24} left{\kf12} el{\kf29}bow
-Dialogue: 0,0:01:38.17,0:01:39.10,DEFAULT,,0,0,0,,{\kf18}Grab{\kf6} a{\kf18} new{\kf29} part{\kf18}ner
-Dialogue: 0,0:01:39.10,0:01:39.85,DEFAULT,,0,0,0,,{\kf18}Here{\kf18} we{\kf29} go
-Dialogue: 0,0:01:44.13,0:01:45.23,DEFAULT,,0,0,0,,{\kf18}We{\kf24} raised{\kf18} this{\kf29} barn
-Dialogue: 0,0:01:45.29,0:01:46.68,DEFAULT,,0,0,0,,{\kf18}We{\kf35} raised{\kf18} this{\kf41} barn
-Dialogue: 0,0:01:46.91,0:01:48.94,DEFAULT,,0,0,0,,{\kf35}Yes,{\kf53} we{\kf76} did
-Dialogue: 0,0:01:49.17,0:01:51.89,DEFAULT,,0,0,0,,{\kf24}To{\kf29}ge{\kf24}ther{\kf18} we{\kf24} sure{\kf35} raised{\kf24} this{\kf53} barn,
-Dialogue: 0,0:01:51.95,0:01:53.97,DEFAULT,,0,0,0,,{\kf47}Yes{\kf35} we{\kf24}-e{\kf70} did
-Dialogue: 0,0:01:54.61,0:01:56.86,DEFAULT,,0,0,0,,{\kf18}Be{\kf18}ing{\kf18} to{\kf29}ge{\kf24}ther{\kf29} counts{\kf18} the{\kf35} most
-Dialogue: 0,0:01:57.04,0:01:59.53,DEFAULT,,0,0,0,,{\kf18}We{\kf29} all{\kf29} came{\kf35} here{\kf24} from{\kf29} coast{\kf24} to{\kf47} coast
-Dialogue: 0,0:01:59.81,0:02:03.00,DEFAULT,,0,0,0,,{\kf29}All{\kf29} we{\kf35} need{\kf18} to{\kf41} strive{\kf18} to{\kf128} be
-Dialogue: 0,0:02:03.40,0:02:10.92,DEFAULT,,0,0,0,,{\kf29}Is{\kf70} part{\kf24} of{\kf35} the{\kf24} Ap{\kf47}ple{\kf93} fa{\kf93}mi{\kf278}ly
-Dialogue: 0,0:02:11.56,0:02:12.08,DEFAULT,,0,0,0,,{\kf53}Yeah!
+Dialogue: 0,0:00:01.26,0:00:03.17,DEFAULT,,0,0,0,,{\r}{\kf191}Yahoo!
+Dialogue: 0,0:00:03.98,0:00:04.84,DEFAULT,,0,0,0,,{\r}{\kf31}Raise{\kf19} this{\kf37} barn
+Dialogue: 0,0:00:04.96,0:00:05.83,DEFAULT,,0,0,0,,{\r}{\kf27}Raise{\kf13} this{\kf47} barn
+Dialogue: 0,0:00:05.89,0:00:07.45,DEFAULT,,0,0,0,,{\r}{\kf43}One,{\kf43} two,{\kf43} three,{\kf27} four
+Dialogue: 0,0:00:07.51,0:00:09.42,DEFAULT,,0,0,0,,{\r}{\kf15}To{\kf31}ge{\kf15}ther{\kf23} we{\kf23} can{\kf31} raise{\kf15} this{\kf38} barn
+Dialogue: 0,0:00:09.65,0:00:11.27,DEFAULT,,0,0,0,,{\r}{\kf38}One,{\kf38} two,{\kf48} three,{\kf38} four
+Dialogue: 0,0:00:11.50,0:00:13.18,DEFAULT,,0,0,0,,{\r}{\kf20}Up,{\kf20} up,{\kf20} up,{\kf30} go{\kf20} the{\kf58} beams
+Dialogue: 0,0:00:13.29,0:00:14.04,DEFAULT,,0,0,0,,{\r}{\kf13}Ham{\kf13}mer{\kf19} those{\kf30} joints,
+Dialogue: 0,0:00:14.22,0:00:14.97,DEFAULT,,0,0,0,,{\r}{\kf27}Work{\kf14} in{\kf34} teams
+Dialogue: 0,0:00:15.14,0:00:16.76,DEFAULT,,0,0,0,,{\r}{\kf14}Turn{\kf14} 'em{\kf14} round{\kf21} quick{\kf14} by{\kf10} the{\kf28} right{\kf21} el{\kf26}bow
+Dialogue: 0,0:00:16.94,0:00:17.86,DEFAULT,,0,0,0,,{\r}{\kf20}Grab{\kf10} a{\kf20} new{\kf27} part{\kf16}ner
+Dialogue: 0,0:00:17.92,0:00:18.56,DEFAULT,,0,0,0,,{\r}{\kf14}Here{\kf21} we{\kf29} go
+Dialogue: 0,0:00:19.95,0:00:21.28,DEFAULT,,0,0,0,,{\r}{\kf27}Come{\kf27} on,{\kf27} Apple{\kf52} family
+Dialogue: 0,0:00:21.63,0:00:24.75,DEFAULT,,0,0,0,,{\r}{\kf25}Let's{\kf25} get{\kf25} to{\kf19} it!{\kf218} Whoo-hoo!
+Dialogue: 0,0:00:26.25,0:00:27.06,DEFAULT,,0,0,0,,{\r}{\kf27}Raise{\kf14} this{\kf40} barn
+Dialogue: 0,0:00:27.12,0:00:27.99,DEFAULT,,0,0,0,,{\r}{\kf31}Raise{\kf12} this{\kf44} barn
+Dialogue: 0,0:00:28.05,0:00:29.61,DEFAULT,,0,0,0,,{\r}{\kf46}One,{\kf37} two,{\kf46} three,{\kf27} four
+Dialogue: 0,0:00:29.67,0:00:31.58,DEFAULT,,0,0,0,,{\r}{\kf21}To{\kf28}ge{\kf21}ther{\kf21} we{\kf21} can{\kf28} raise{\kf14} this{\kf37} barn
+Dialogue: 0,0:00:31.75,0:00:33.37,DEFAULT,,0,0,0,,{\r}{\kf45}One,{\kf36} two,{\kf45} three,{\kf36} four
+Dialogue: 0,0:00:33.60,0:00:34.24,DEFAULT,,0,0,0,,{\r}{\kf10}Fi{\kf24}nish{\kf10} the{\kf20} frame
+Dialogue: 0,0:00:34.24,0:00:35.22,DEFAULT,,0,0,0,,{\r}{\kf14}Re{\kf21}cyc{\kf28}ling{\kf35} wood
+Dialogue: 0,0:00:35.45,0:00:37.07,DEFAULT,,0,0,0,,{\r}{\kf15}Wor{\kf22}king{\kf22} hard,{\kf22} you're{\kf29} do{\kf22}ing{\kf30} good
+Dialogue: 0,0:00:37.31,0:00:38.87,DEFAULT,,0,0,0,,{\r}{\kf14}Turn{\kf14} 'em{\kf20} round{\kf20} quick{\kf14} by{\kf10} the{\kf27} right{\kf20} el{\kf17}bow
+Dialogue: 0,0:00:39.10,0:00:39.97,DEFAULT,,0,0,0,,{\r}{\kf25}Grab{\kf10} a{\kf12} new{\kf25} part{\kf15}ner
+Dialogue: 0,0:00:40.08,0:00:40.72,DEFAULT,,0,0,0,,{\r}{\kf19}Here{\kf19} we{\kf26} go
+Dialogue: 0,0:00:40.84,0:00:41.24,DEFAULT,,0,0,0,,{\r}{\kf41}Yeah!
+Dialogue: 0,0:00:41.65,0:00:43.21,DEFAULT,,0,0,0,,{\r}{\kf119}Whoo{\kf37}-whee!
+Dialogue: 0,0:00:44.71,0:00:45.52,DEFAULT,,0,0,0,,{\r}{\kf25}Raise{\kf19} this{\kf19} ba{\kf18}-arn
+Dialogue: 0,0:00:45.58,0:00:46.33,DEFAULT,,0,0,0,,{\r}{\kf29}Raise{\kf17} this{\kf29} barn
+Dialogue: 0,0:00:46.51,0:00:48.18,DEFAULT,,0,0,0,,{\r}{\kf42}One,{\kf42} two,{\kf42} three,{\kf42} four
+Dialogue: 0,0:00:48.24,0:00:50.15,DEFAULT,,0,0,0,,{\r}{\kf14}To{\kf27}ge{\kf20}ther{\kf20} we{\kf20} can{\kf27} raise{\kf20} this{\kf43} barn
+Dialogue: 0,0:00:50.21,0:00:51.89,DEFAULT,,0,0,0,,{\r}{\kf44}One,{\kf44} two,{\kf35} three,{\kf45} four
+Dialogue: 0,0:00:52.00,0:00:53.74,DEFAULT,,0,0,0,,{\r}{\kf35}Slats{\kf14} of{\kf21} wood{\kf28} come{\kf21} off{\kf14} the{\kf41} ground
+Dialogue: 0,0:00:53.91,0:00:55.59,DEFAULT,,0,0,0,,{\r}{\kf27}Hold{\kf20} 'em{\kf27} up{\kf13} and{\kf27} nail{\kf20} 'em{\kf34} down
+Dialogue: 0,0:00:55.76,0:00:57.33,DEFAULT,,0,0,0,,{\r}{\kf12}Turn{\kf12} 'em{\kf25} round{\kf19} quick{\kf12} by{\kf10} the{\kf25} left{\kf19} el{\kf22}bow
+Dialogue: 0,0:00:57.56,0:00:58.43,DEFAULT,,0,0,0,,{\r}{\kf19}Grab{\kf12} a{\kf12} new{\kf25} part{\kf19}ner
+Dialogue: 0,0:00:58.54,0:00:59.24,DEFAULT,,0,0,0,,{\r}{\kf19}Here{\kf19} we{\kf31} go
+Dialogue: 0,0:00:59.82,0:01:00.68,DEFAULT,,0,0,0,,{\r}{\kf19}Come{\kf25} on,{\kf43} Apples!
+Dialogue: 0,0:01:00.97,0:01:01.78,DEFAULT,,0,0,0,,{\r}{\kf17}Get{\kf12} her{\kf52} done!
+Dialogue: 0,0:01:03.11,0:01:04.96,DEFAULT,,0,0,0,,{\r}{\kf27}Look{\kf21} at{\kf21} us,{\kf14} we're{\kf27} fa{\kf21}mi{\kf54}ly
+Dialogue: 0,0:01:04.91,0:01:06.59,DEFAULT,,0,0,0,,{\r}{\kf21}Wor{\kf21}king{\kf14} to{\kf21}ge{\kf21}ther{\kf21} thank{\kf28}ful{\kf21}ly
+Dialogue: 0,0:01:06.64,0:01:08.49,DEFAULT,,0,0,0,,{\r}{\kf21}We{\kf21} Ap{\kf27}ples{\kf21} we{\kf21} are{\kf21} proud{\kf21} to{\kf32} say
+Dialogue: 0,0:01:08.67,0:01:10.35,DEFAULT,,0,0,0,,{\r}{\kf20}Stick{\kf20} to{\kf20}ge{\kf13}ther{\kf13} the{\kf27} po{\kf20}ny{\kf35} way
+Dialogue: 0,0:01:10.52,0:01:12.20,DEFAULT,,0,0,0,,{\r}{\kf20}Bow{\kf10} to{\kf20} your{\kf20} par{\kf20}tner,{\kf27} cir{\kf20}cle{\kf31} right
+Dialogue: 0,0:01:12.37,0:01:14.05,DEFAULT,,0,0,0,,{\r}{\kf28}Get{\kf21} down{\kf14} if{\kf21} you're{\kf28} scared{\kf14} of{\kf42} heights
+Dialogue: 0,0:01:14.22,0:01:15.84,DEFAULT,,0,0,0,,{\r}{\kf20}For{\kf20}ward,{\kf20} back{\kf20} and{\kf27} twirl{\kf20} a{\kf35}round
+Dialogue: 0,0:01:15.79,0:01:17.69,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf33} barn's{\kf13} gon{\kf13}na{\kf26} be{\kf13} the{\kf20} best{\kf20} in{\kf33} town
+Dialogue: 0,0:01:17.75,0:01:18.22,DEFAULT,,0,0,0,,{\r}{\kf46}Yeah!
+Dialogue: 0,0:01:18.68,0:01:21.46,DEFAULT,,0,0,0,,{\r}{\kf175}Yee-haw!{\kf103} Attagirl!
+Dialogue: 0,0:01:21.51,0:01:23.37,DEFAULT,,0,0,0,,{\r}{\kf33}All{\kf46} right!{\kf33}Let's{\kf26} get{\kf33} to{\kf14} it!
+Dialogue: 0,0:01:25.28,0:01:26.14,DEFAULT,,0,0,0,,{\r}{\kf31}Raise{\kf12} this{\kf44} barn
+Dialogue: 0,0:01:26.20,0:01:27.07,DEFAULT,,0,0,0,,{\r}{\kf31}Raise{\kf12} this{\kf44} barn
+Dialogue: 0,0:01:27.18,0:01:28.69,DEFAULT,,0,0,0,,{\r}{\kf42}One,{\kf42} two,{\kf42} three,{\kf24} four
+Dialogue: 0,0:01:28.80,0:01:30.71,DEFAULT,,0,0,0,,{\r}{\kf13}To{\kf32}ge{\kf25}ther{\kf19} we{\kf19} can{\kf25} raise{\kf19} this{\kf39} barn
+Dialogue: 0,0:01:30.83,0:01:32.45,DEFAULT,,0,0,0,,{\r}{\kf43}One,{\kf43} two,{\kf43} three,{\kf33} four
+Dialogue: 0,0:01:32.62,0:01:33.55,DEFAULT,,0,0,0,,{\r}{\kf29}Take{\kf17} your{\kf47} brushes
+Dialogue: 0,0:01:33.55,0:01:34.36,DEFAULT,,0,0,0,,{\r}{\kf31}Young{\kf12} and{\kf38} old
+Dialogue: 0,0:01:34.48,0:01:36.15,DEFAULT,,0,0,0,,{\r}{\kf13}To{\kf19}ge{\kf26}ther{\kf19} paint{\kf13} it{\kf26} bright{\kf19} and{\kf33} bold
+Dialogue: 0,0:01:36.38,0:01:37.95,DEFAULT,,0,0,0,,{\r}{\kf12}Turn{\kf12} 'em{\kf18} round{\kf24} quick{\kf18} by{\kf10} the{\kf24} left{\kf12} el{\kf26}bow
+Dialogue: 0,0:01:38.18,0:01:39.10,DEFAULT,,0,0,0,,{\r}{\kf19}Grab{\kf10} a{\kf19} new{\kf31} part{\kf14}ner
+Dialogue: 0,0:01:39.10,0:01:39.86,DEFAULT,,0,0,0,,{\r}{\kf20}Here{\kf20} we{\kf35} go
+Dialogue: 0,0:01:44.14,0:01:45.24,DEFAULT,,0,0,0,,{\r}{\kf22}We{\kf29} raised{\kf22} this{\kf37} barn
+Dialogue: 0,0:01:45.30,0:01:46.68,DEFAULT,,0,0,0,,{\r}{\kf22}We{\kf44} raised{\kf22} this{\kf51} barn
+Dialogue: 0,0:01:46.92,0:01:48.94,DEFAULT,,0,0,0,,{\r}{\kf44}Yes,{\kf65} we{\kf94} did
+Dialogue: 0,0:01:49.17,0:01:51.89,DEFAULT,,0,0,0,,{\r}{\kf28}To{\kf35}ge{\kf28}ther{\kf21} we{\kf28} sure{\kf42} raised{\kf28} this{\kf62} barn,
+Dialogue: 0,0:01:51.95,0:01:53.98,DEFAULT,,0,0,0,,{\r}{\kf54}Yes{\kf41} we{\kf27}-e{\kf81} did
+Dialogue: 0,0:01:54.61,0:01:56.87,DEFAULT,,0,0,0,,{\r}{\kf21}Be{\kf21}ing{\kf21} to{\kf35}ge{\kf28}ther{\kf35} counts{\kf21} the{\kf44} most
+Dialogue: 0,0:01:57.04,0:01:59.53,DEFAULT,,0,0,0,,{\r}{\kf19}We{\kf31} all{\kf31} came{\kf37} here{\kf25} from{\kf31} coast{\kf25} to{\kf50} coast
+Dialogue: 0,0:01:59.82,0:02:03.00,DEFAULT,,0,0,0,,{\r}{\kf31}All{\kf31} we{\kf37} need{\kf19} to{\kf44} strive{\kf19} to{\kf137} be
+Dialogue: 0,0:02:03.41,0:02:10.93,DEFAULT,,0,0,0,,{\r}{\kf32}Is{\kf76} part{\kf25} of{\kf38} the{\kf25} Ap{\kf51}ple{\kf101} fa{\kf101}mi{\kf303}ly
+Dialogue: 0,0:02:11.57,0:02:12.09,DEFAULT,,0,0,0,,{\r}{\kf52}Yeah!

@@ -1,52 +1,59 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: The Beginning of Order
+Artist: StormWolf
+Original Timing: mylittlekaraoke.com by Linos Melendi, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:49.57,0:00:52.27,DEFAULT,,0,0,0,,{\kf39}Ri{\kf15}vers{\kf15} ran{\kf34} dry,{\kf15} on{\kf15}ly{\kf39} cha{\kf15}os{\kf15} flew{\kf15} through{\kf15} it
-Dialogue: 0,0:00:52.66,0:00:55.37,DEFAULT,,0,0,0,,{\kf25}Dis{\kf25}co{\kf15}-ord's{\kf30} reign,{\kf15} no{\kf15}po{\kf30}ny{\kf20} cared{\kf15} a{\kf20}bout{\kf15} it
-Dialogue: 0,0:00:55.76,0:00:58.42,DEFAULT,,0,0,0,,{\kf15}No{\kf15} con{\kf20}trol,{\kf10} no{\kf15} con{\kf15}stants,{\kf15} just{\kf20} like{\kf30} na{\kf25}ture{\kf15} in{\kf20}ten{\kf15}ded
-Dialogue: 0,0:00:58.71,0:01:01.66,DEFAULT,,0,0,0,,{\kf5}But{\kf10} hu{\kf15}mi{\kf15}li{\kf15}ty{\kf15} is{\kf30} rare{\kf25} and{\kf15} a{\kf15}va{\kf15}rice{\kf15} cor{\kf20}rup{\kf30}ted
-Dialogue: 0,0:01:02.34,0:01:05.05,DEFAULT,,0,0,0,,{\kf15}Twis{\kf15}ted{\kf34} forms{\kf20} of{\kf20} ob{\kf20}ses{\kf49}sion{\kf25} star{\kf15}ted
-Dialogue: 0,0:01:05.29,0:01:07.95,DEFAULT,,0,0,0,,{\kf10}He{\kf20}re{\kf15}ti{\kf39}cal{\kf25} pro{\kf25}gres{\kf39}si{\kf34}-on
-Dialogue: 0,0:01:08.39,0:01:13.71,DEFAULT,,0,0,0,,{\kf10}A{\kf20}gainst{\kf10} the{\kf20} world{\kf10} of{\kf10} e{\kf39}ter{\kf10}ni{\kf15}ty's{\kf15} suc{\kf20}cess{\kf20}ful{\kf20} in{\kf25}ven{\kf228}tion
-Dialogue: 0,0:01:14.24,0:01:15.55,DEFAULT,,0,0,0,,{\kf10}An{\kf15} a{\kf10}li{\kf20}corn's{\kf15} de{\kf44}sire
-Dialogue: 0,0:01:15.79,0:01:17.34,DEFAULT,,0,0,0,,{\kf10}At{\kf20}tempts{\kf15} to{\kf10} wel{\kf20}come{\kf20} har{\kf15}mo{\kf25}ny
-Dialogue: 0,0:01:17.48,0:01:20.34,DEFAULT,,0,0,0,,{\kf15}Try{\kf15} to{\kf15} cre{\kf20}ate{\kf20} or{\kf15}der{\kf10} and{\kf15} to{\kf20} force{\kf15} res{\kf15}pon{\kf15}si{\kf15}bi{\kf15}li{\kf20}ty
-Dialogue: 0,0:01:20.63,0:01:23.44,DEFAULT,,0,0,0,,{\kf15}O{\kf10}ver{\kf20}throw{\kf15} the{\kf34} king{\kf15} un{\kf10}der{\kf20} claims{\kf10} of{\kf15} so{\kf20}-called{\kf20} an{\kf15}ar{\kf15}chy
-Dialogue: 0,0:01:23.73,0:01:26.53,DEFAULT,,0,0,0,,{\kf30}Now{\kf20} all{\kf15} are{\kf15} forced{\kf15} to{\kf15} la{\kf15}bor{\kf10} 'neath{\kf15} Ce{\kf20}les{\kf15}tia's{\kf15} ty{\kf20}ran{\kf15}ny
-Dialogue: 0,0:01:26.63,0:01:29.34,DEFAULT,,0,0,0,,{\kf10}Con{\kf20}trol{\kf15} o{\kf20}ver{\kf10} the{\kf20} a{\kf15}ni{\kf15}mals,{\kf15} con{\kf20}trol{\kf15} o{\kf20}ver{\kf15} the{\kf25} light
-Dialogue: 0,0:01:29.68,0:01:32.48,DEFAULT,,0,0,0,,{\kf15}A{\kf15} ru{\kf15}ler{\kf15} o{\kf15}ver{\kf30} all{\kf20} claims{\kf15} no{\kf34} e{\kf20}vil,{\kf15} no{\kf30} blight
-Dialogue: 0,0:01:32.77,0:01:35.53,DEFAULT,,0,0,0,,{\kf15}A{\kf34} world{\kf15} with{\kf15}out{\kf30} fear,{\kf20} where{\kf20} we{\kf25} lock{\kf15} a{\kf20}way{\kf10} the{\kf30} strife
-Dialogue: 0,0:01:35.87,0:01:39.50,DEFAULT,,0,0,0,,{\kf10}An{\kf10} il{\kf10}lu{\kf20}sion{\kf15} to{\kf20} hide{\kf10} the{\kf15} em{\kf20}pi{\kf20}re{\kf34} ru{\kf15}ling{\kf15} our{\kf44} li{\kf39}-i{\kf34}-ife
-Dialogue: 0,0:01:51.55,0:01:54.16,DEFAULT,,0,0,0,,{\kf39}Gone{\kf15} are{\kf15} the{\kf39} days{\kf10} of{\kf10} the{\kf20} gifts{\kf10} of{\kf20} choco{\kf15}late{\kf34} rain
-Dialogue: 0,0:01:54.50,0:01:57.21,DEFAULT,,0,0,0,,{\kf5}An{\kf10} oc{\kf15}ca{\kf15}sion{\kf15}al{\kf15} va{\kf25}ri{\kf10}e{\kf20}ty{\kf20} now{\kf20} ne{\kf10}ver{\kf10} to{\kf20} come{\kf15} a{\kf30}gain
-Dialogue: 0,0:01:57.55,0:02:00.36,DEFAULT,,0,0,0,,{\kf15}Cha{\kf15}o{\kf15}tic{\kf25} and{\kf15} un{\kf15}con{\kf20}trolled{\kf10} is{\kf5} the{\kf15} re{\kf15}fuge{\kf15} for{\kf10} the{\kf34} sane
-Dialogue: 0,0:02:00.65,0:02:03.74,DEFAULT,,0,0,0,,{\kf10}But{\kf34} some{\kf15} have{\kf10} to{\kf25} fight,{\kf30} some{\kf20} think{\kf15} of{\kf15} it{\kf20} as{\kf20} pa{\kf34}-in
-Dialogue: 0,0:02:03.89,0:02:06.50,DEFAULT,,0,0,0,,{\kf25}Now{\kf20} he's{\kf30} fro{\kf20}zen{\kf15} al{\kf39}ways{\kf25} in{\kf54} stone
-Dialogue: 0,0:02:06.89,0:02:09.74,DEFAULT,,0,0,0,,{\kf25}All{\kf15} of{\kf15} this{\kf25} world{\kf34} she{\kf34} rules{\kf25} a{\kf39}lo{\kf25}-one
-Dialogue: 0,0:02:09.89,0:02:15.60,DEFAULT,,0,0,0,,{\kf10}And{\kf20} eve{\kf15}ry{\kf15} piece{\kf15} of{\kf34} land{\kf20} and{\kf20} o{\kf25}cean{\kf15} her{\kf34} po{\kf15}wer's{\kf15} o{\kf15}ver{\kf242}thrown
-Dialogue: 0,0:02:16.13,0:02:17.44,DEFAULT,,0,0,0,,{\kf15}An{\kf20} a{\kf15}li{\kf15}corn's{\kf15} de{\kf44}sire
-Dialogue: 0,0:02:17.68,0:02:19.27,DEFAULT,,0,0,0,,{\kf10}At{\kf20}tempts{\kf15} to{\kf15} wel{\kf15}come{\kf20} har{\kf15}mo{\kf30}ny
-Dialogue: 0,0:02:19.42,0:02:22.27,DEFAULT,,0,0,0,,{\kf15}Try{\kf15} to{\kf15} cre{\kf20}ate{\kf20} or{\kf20}der{\kf10} and{\kf10} to{\kf20} force{\kf15} res{\kf15}pon{\kf15}si{\kf15}bi{\kf20}li{\kf20}ty
-Dialogue: 0,0:02:22.52,0:02:25.37,DEFAULT,,0,0,0,,{\kf15}O{\kf10}ver{\kf20}throw{\kf15} the{\kf39} king{\kf15} un{\kf10}der{\kf20} claims{\kf10} of{\kf20} so{\kf20}-called{\kf20} an{\kf15}ar{\kf20}chy
-Dialogue: 0,0:02:25.61,0:02:28.42,DEFAULT,,0,0,0,,{\kf30}Now{\kf20} all{\kf15} are{\kf15} forced{\kf15} to{\kf20} la{\kf15}bor{\kf15} 'neath{\kf15} Ce{\kf15}les{\kf15}tia's{\kf20} ty{\kf15}ran{\kf15}ny
-Dialogue: 0,0:02:28.52,0:02:31.23,DEFAULT,,0,0,0,,{\kf15}Con{\kf20}trol{\kf15} o{\kf20}ver{\kf10} the{\kf20} a{\kf15}ni{\kf15}mals,{\kf15} con{\kf20}trol{\kf15} o{\kf20}ver{\kf15} the{\kf25} light
-Dialogue: 0,0:02:31.57,0:02:34.42,DEFAULT,,0,0,0,,{\kf15}A{\kf15} ru{\kf15}ler{\kf15} o{\kf15}ver{\kf30} all{\kf25} claims{\kf10} no{\kf30} e{\kf20}vil,{\kf15} no{\kf34} blight
-Dialogue: 0,0:02:34.71,0:02:37.42,DEFAULT,,0,0,0,,{\kf10}A{\kf34} world{\kf15} with{\kf10}out{\kf30} fear,{\kf20} where{\kf15} we{\kf20} lock{\kf15} a{\kf20}way{\kf10} the{\kf30} strife
-Dialogue: 0,0:02:37.76,0:02:41.39,DEFAULT,,0,0,0,,{\kf10}An{\kf10} il{\kf15}lu{\kf15}sion{\kf15} to{\kf15} hide{\kf10} the{\kf15} em{\kf25}pi{\kf15}re{\kf34} ru{\kf20}ling{\kf15} our{\kf44} li{\kf34}-i{\kf34}-ife
-Dialogue: 0,0:03:07.23,0:03:08.53,DEFAULT,,0,0,0,,{\kf10}An{\kf15} a{\kf10}li{\kf20}corn's{\kf15} de{\kf44}sire
-Dialogue: 0,0:03:08.77,0:03:10.32,DEFAULT,,0,0,0,,{\kf10}At{\kf20}tempts{\kf15} to{\kf15} wel{\kf15}come{\kf20} har{\kf15}mo{\kf25}ny
-Dialogue: 0,0:03:10.47,0:03:13.32,DEFAULT,,0,0,0,,{\kf15}Try{\kf15} to{\kf15} cre{\kf20}ate{\kf15} or{\kf15}der{\kf15} and{\kf10} to{\kf20} force{\kf15} res{\kf15}pon{\kf15}si{\kf15}bi{\kf15}li{\kf20}ty
-Dialogue: 0,0:03:13.61,0:03:16.42,DEFAULT,,0,0,0,,{\kf15}O{\kf10}ver{\kf20}throw{\kf15} the{\kf39} king{\kf15} un{\kf15}der{\kf20} claims{\kf10} of{\kf15} so{\kf20}-called{\kf15} an{\kf20}ar{\kf15}chy
-Dialogue: 0,0:03:16.71,0:03:19.52,DEFAULT,,0,0,0,,{\kf30}Now{\kf20} all{\kf15} are{\kf15} forced{\kf15} to{\kf15} la{\kf15}bor{\kf15} 'neath{\kf10} Ce{\kf15}les{\kf15}tia's{\kf20} ty{\kf20}ran{\kf15}ny
-Dialogue: 0,0:03:19.61,0:03:22.32,DEFAULT,,0,0,0,,{\kf15}Con{\kf20}trol{\kf15} o{\kf20}ver{\kf10} the{\kf20} a{\kf15}ni{\kf15}mals,{\kf15} con{\kf20}trol{\kf15} o{\kf20}ver{\kf15} the{\kf25} light
-Dialogue: 0,0:03:22.66,0:03:25.52,DEFAULT,,0,0,0,,{\kf15}A{\kf15} ru{\kf15}ler{\kf10} o{\kf15}ver{\kf30} all{\kf25} claims{\kf15} no{\kf34} e{\kf20}vil,{\kf15} no{\kf34} blight
-Dialogue: 0,0:03:25.81,0:03:28.52,DEFAULT,,0,0,0,,{\kf10}A{\kf34} world{\kf20} with{\kf10}out{\kf30} fear,{\kf20} where{\kf15} we{\kf20} lock{\kf15} a{\kf15}way{\kf10} the{\kf30} strife
-Dialogue: 0,0:03:28.86,0:03:32.48,DEFAULT,,0,0,0,,{\kf10}An{\kf10} il{\kf15}lu{\kf20}sion{\kf15} to{\kf15} hide{\kf15} the{\kf15} em{\kf20}pi{\kf15}re{\kf39} ru{\kf20}ling{\kf10} our{\kf39} li{\kf39}-i{\kf34}-ife
+Dialogue: 0,0:00:49.57,0:00:52.28,DEFAULT,,0,0,0,,{\r}{\kf46}Ri{\kf17}vers{\kf17} ran{\kf40} dry,{\kf17} on{\kf17}ly{\kf46} cha{\kf17}os{\kf17} flew{\kf17} through{\kf20} it
+Dialogue: 0,0:00:52.67,0:00:55.38,DEFAULT,,0,0,0,,{\r}{\kf30}Dis{\kf30}co{\kf18}-ord's{\kf36} reign,{\kf18} no{\kf18}po{\kf36}ny{\kf24} cared{\kf18} a{\kf24}bout{\kf19} it
+Dialogue: 0,0:00:55.76,0:00:58.42,DEFAULT,,0,0,0,,{\r}{\kf17}No{\kf17} con{\kf23}trol,{\kf12} no{\kf17} con{\kf17}stants,{\kf17} just{\kf23} like{\kf35} na{\kf29}ture{\kf17} in{\kf23}ten{\kf19}ded
+Dialogue: 0,0:00:58.72,0:01:01.67,DEFAULT,,0,0,0,,{\r}{\kf10}But{\kf12} hu{\kf18}mi{\kf18}li{\kf18}ty{\kf18} is{\kf37} rare{\kf31} and{\kf18} a{\kf18}va{\kf18}rice{\kf18} cor{\kf25}rup{\kf36}ted
+Dialogue: 0,0:01:02.34,0:01:05.05,DEFAULT,,0,0,0,,{\r}{\kf19}Twis{\kf19}ted{\kf44} forms{\kf25} of{\kf25} ob{\kf25}ses{\kf63}sion{\kf32} star{\kf19}ted
+Dialogue: 0,0:01:05.30,0:01:07.96,DEFAULT,,0,0,0,,{\r}{\kf13}He{\kf25}re{\kf19}ti{\kf51}cal{\kf32} pro{\kf32}gres{\kf51}si{\kf43}-on
+Dialogue: 0,0:01:08.39,0:01:13.72,DEFAULT,,0,0,0,,{\r}{\kf11}A{\kf22}gainst{\kf11} the{\kf22} world{\kf11} of{\kf11} e{\kf44}ter{\kf11}ni{\kf17}ty's{\kf17} suc{\kf22}cess{\kf22}ful{\kf22} in{\kf28}ven{\kf261}tion
+Dialogue: 0,0:01:14.25,0:01:15.55,DEFAULT,,0,0,0,,{\r}{\kf11}An{\kf17} a{\kf11}li{\kf23}corn's{\kf17} de{\kf52}sire
+Dialogue: 0,0:01:15.80,0:01:17.34,DEFAULT,,0,0,0,,{\r}{\kf11}At{\kf23}tempts{\kf17} to{\kf11} wel{\kf23}come{\kf23} har{\kf17}mo{\kf30}ny
+Dialogue: 0,0:01:17.49,0:01:20.34,DEFAULT,,0,0,0,,{\r}{\kf18}Try{\kf18} to{\kf18} cre{\kf24}ate{\kf24} or{\kf18}der{\kf12} and{\kf18} to{\kf24} force{\kf18} res{\kf18}pon{\kf18}si{\kf18}bi{\kf18}li{\kf21}ty
+Dialogue: 0,0:01:20.63,0:01:23.44,DEFAULT,,0,0,0,,{\r}{\kf18}O{\kf12}ver{\kf24}throw{\kf18} the{\kf42} king{\kf18} un{\kf12}der{\kf24} claims{\kf12} of{\kf18} so{\kf24}-called{\kf24} an{\kf18}ar{\kf17}chy
+Dialogue: 0,0:01:23.73,0:01:26.54,DEFAULT,,0,0,0,,{\r}{\kf36}Now{\kf24} all{\kf18} are{\kf18} forced{\kf18} to{\kf18} la{\kf18}bor{\kf12} 'neath{\kf18} Ce{\kf24}les{\kf18}tia's{\kf18} ty{\kf24}ran{\kf17}ny
+Dialogue: 0,0:01:26.63,0:01:29.34,DEFAULT,,0,0,0,,{\r}{\kf12}Con{\kf23}trol{\kf17} o{\kf23}ver{\kf12} the{\kf23} a{\kf17}ni{\kf17}mals,{\kf17} con{\kf23}trol{\kf17} o{\kf23}ver{\kf17} the{\kf30} light
+Dialogue: 0,0:01:29.68,0:01:32.49,DEFAULT,,0,0,0,,{\r}{\kf18}A{\kf18} ru{\kf18}ler{\kf18} o{\kf18}ver{\kf35} all{\kf23} claims{\kf18} no{\kf41} e{\kf23}vil,{\kf18} no{\kf33} blight
+Dialogue: 0,0:01:32.78,0:01:35.54,DEFAULT,,0,0,0,,{\r}{\kf17}A{\kf39} world{\kf17} with{\kf17}out{\kf33} fear,{\kf22} where{\kf22} we{\kf28} lock{\kf17} a{\kf22}way{\kf11} the{\kf31} strife
+Dialogue: 0,0:01:35.88,0:01:39.51,DEFAULT,,0,0,0,,{\r}{\kf11}An{\kf11} il{\kf11}lu{\kf22}sion{\kf16} to{\kf22} hide{\kf11} the{\kf16} em{\kf22}pi{\kf22}re{\kf38} ru{\kf16}ling{\kf16} our{\kf49} li{\kf43}-i{\kf37}-ife
+Dialogue: 0,0:01:51.55,0:01:54.17,DEFAULT,,0,0,0,,{\r}{\kf45}Gone{\kf17} are{\kf17} the{\kf45} days{\kf11} of{\kf11} the{\kf23} gifts{\kf11} of{\kf23} choco{\kf17}late{\kf41} rain
+Dialogue: 0,0:01:54.51,0:01:57.22,DEFAULT,,0,0,0,,{\r}{\kf10}An{\kf11} oc{\kf16}ca{\kf16}sion{\kf16}al{\kf16} va{\kf27}ri{\kf11}e{\kf21}ty{\kf21} now{\kf21} ne{\kf11}ver{\kf11} to{\kf21} come{\kf16} a{\kf26}gain
+Dialogue: 0,0:01:57.55,0:02:00.36,DEFAULT,,0,0,0,,{\r}{\kf19}Cha{\kf19}o{\kf19}tic{\kf31} and{\kf19} un{\kf19}con{\kf25}trolled{\kf12} is{\kf10} the{\kf19} re{\kf19}fuge{\kf19} for{\kf12} the{\kf39} sane
+Dialogue: 0,0:02:00.65,0:02:03.75,DEFAULT,,0,0,0,,{\r}{\kf12}But{\kf43} some{\kf19} have{\kf12} to{\kf31} fight,{\kf37} some{\kf25} think{\kf19} of{\kf19} it{\kf25} as{\kf25} pa{\kf43}-in
+Dialogue: 0,0:02:03.89,0:02:06.51,DEFAULT,,0,0,0,,{\r}{\kf28}Now{\kf23} he's{\kf34} fro{\kf23}zen{\kf17} al{\kf45}ways{\kf28} in{\kf63} stone
+Dialogue: 0,0:02:06.89,0:02:09.75,DEFAULT,,0,0,0,,{\r}{\kf30}All{\kf18} of{\kf18} this{\kf30} world{\kf42} she{\kf42} rules{\kf30} a{\kf48}lo{\kf27}-one
+Dialogue: 0,0:02:09.89,0:02:15.60,DEFAULT,,0,0,0,,{\r}{\kf11}And{\kf22} eve{\kf16}ry{\kf16} piece{\kf16} of{\kf38} land{\kf22} and{\kf22} o{\kf27}cean{\kf16} her{\kf38} po{\kf16}wer's{\kf16} o{\kf16}ver{\kf279}thrown
+Dialogue: 0,0:02:16.13,0:02:17.44,DEFAULT,,0,0,0,,{\r}{\kf16}An{\kf21} a{\kf16}li{\kf16}corn's{\kf16} de{\kf46}sire
+Dialogue: 0,0:02:17.68,0:02:19.28,DEFAULT,,0,0,0,,{\r}{\kf11}At{\kf23}tempts{\kf17} to{\kf17} wel{\kf17}come{\kf23} har{\kf17}mo{\kf35}ny
+Dialogue: 0,0:02:19.42,0:02:22.28,DEFAULT,,0,0,0,,{\r}{\kf17}Try{\kf17} to{\kf17} cre{\kf23}ate{\kf23} or{\kf23}der{\kf12} and{\kf12} to{\kf23} force{\kf17} res{\kf17}pon{\kf17}si{\kf17}bi{\kf23}li{\kf27}ty
+Dialogue: 0,0:02:22.52,0:02:25.38,DEFAULT,,0,0,0,,{\r}{\kf17}O{\kf11}ver{\kf23}throw{\kf17} the{\kf46} king{\kf17} un{\kf11}der{\kf23} claims{\kf11} of{\kf23} so{\kf23}-called{\kf23} an{\kf17}ar{\kf23}chy
+Dialogue: 0,0:02:25.62,0:02:28.42,DEFAULT,,0,0,0,,{\r}{\kf35}Now{\kf23} all{\kf18} are{\kf18} forced{\kf18} to{\kf23} la{\kf18}bor{\kf18} 'neath{\kf18} Ce{\kf18}les{\kf18}tia's{\kf23} ty{\kf18}ran{\kf15}ny
+Dialogue: 0,0:02:28.52,0:02:31.23,DEFAULT,,0,0,0,,{\r}{\kf17}Con{\kf23}trol{\kf17} o{\kf23}ver{\kf11} the{\kf23} a{\kf17}ni{\kf17}mals,{\kf17} con{\kf23}trol{\kf17} o{\kf23}ver{\kf17} the{\kf26} light
+Dialogue: 0,0:02:31.57,0:02:34.42,DEFAULT,,0,0,0,,{\r}{\kf18}A{\kf18} ru{\kf18}ler{\kf18} o{\kf18}ver{\kf36} all{\kf30} claims{\kf12} no{\kf36} e{\kf24}vil,{\kf18} no{\kf39} blight
+Dialogue: 0,0:02:34.72,0:02:37.42,DEFAULT,,0,0,0,,{\r}{\kf12}A{\kf41} world{\kf18} with{\kf12}out{\kf35} fear,{\kf24} where{\kf18} we{\kf24} lock{\kf18} a{\kf24}way{\kf12} the{\kf33} strife
+Dialogue: 0,0:02:37.76,0:02:41.39,DEFAULT,,0,0,0,,{\r}{\kf11}An{\kf11} il{\kf16}lu{\kf16}sion{\kf16} to{\kf16} hide{\kf11} the{\kf16} em{\kf28}pi{\kf16}re{\kf38} ru{\kf22}ling{\kf16} our{\kf49} li{\kf38}-i{\kf43}-ife
+Dialogue: 0,0:03:07.23,0:03:08.54,DEFAULT,,0,0,0,,{\r}{\kf11}An{\kf17} a{\kf11}li{\kf23}corn's{\kf17} de{\kf52}sire
+Dialogue: 0,0:03:08.78,0:03:10.33,DEFAULT,,0,0,0,,{\r}{\kf11}At{\kf23}tempts{\kf17} to{\kf17} wel{\kf17}come{\kf23} har{\kf17}mo{\kf30}ny
+Dialogue: 0,0:03:10.47,0:03:13.33,DEFAULT,,0,0,0,,{\r}{\kf18}Try{\kf18} to{\kf18} cre{\kf24}ate{\kf18} or{\kf18}der{\kf18} and{\kf12} to{\kf24} force{\kf18} res{\kf18}pon{\kf18}si{\kf18}bi{\kf18}li{\kf27}ty
+Dialogue: 0,0:03:13.62,0:03:16.42,DEFAULT,,0,0,0,,{\r}{\kf17}O{\kf11}ver{\kf23}throw{\kf17} the{\kf46} king{\kf17} un{\kf17}der{\kf23} claims{\kf11} of{\kf17} so{\kf23}-called{\kf17} an{\kf23}ar{\kf19}chy
+Dialogue: 0,0:03:16.72,0:03:19.52,DEFAULT,,0,0,0,,{\r}{\kf36}Now{\kf24} all{\kf18} are{\kf18} forced{\kf18} to{\kf18} la{\kf18}bor{\kf18} 'neath{\kf12} Ce{\kf18}les{\kf18}tia's{\kf24} ty{\kf24}ran{\kf17}ny
+Dialogue: 0,0:03:19.62,0:03:22.33,DEFAULT,,0,0,0,,{\r}{\kf17}Con{\kf23}trol{\kf17} o{\kf23}ver{\kf11} the{\kf23} a{\kf17}ni{\kf17}mals,{\kf17} con{\kf23}trol{\kf17} o{\kf23}ver{\kf17} the{\kf26} light
+Dialogue: 0,0:03:22.67,0:03:25.52,DEFAULT,,0,0,0,,{\r}{\kf17}A{\kf17} ru{\kf17}ler{\kf12} o{\kf17}ver{\kf35} all{\kf29} claims{\kf17} no{\kf41} e{\kf23}vil,{\kf17} no{\kf43} blight
+Dialogue: 0,0:03:25.81,0:03:28.52,DEFAULT,,0,0,0,,{\r}{\kf12}A{\kf41} world{\kf24} with{\kf12}out{\kf35} fear,{\kf24} where{\kf18} we{\kf24} lock{\kf18} a{\kf18}way{\kf12} the{\kf33} strife
+Dialogue: 0,0:03:28.86,0:03:32.49,DEFAULT,,0,0,0,,{\r}{\kf11}An{\kf11} il{\kf16}lu{\kf22}sion{\kf16} to{\kf16} hide{\kf16} the{\kf16} em{\kf22}pi{\kf16}re{\kf43} ru{\kf22}ling{\kf11} our{\kf43} li{\kf43}-i{\kf39}-ife

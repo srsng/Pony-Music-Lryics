@@ -1,66 +1,73 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Three's a Team
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:25.43,0:00:31.43,DEFAULT,,0,0,0,,{\kf32}March{\kf44}ing{\kf88} on,{\kf25} we{\kf32} try{\kf32} a{\kf63}gain{\kf32} a{\kf38}no{\kf25}ther{\kf38} go{\kf19}~{\kf69}~
-Dialogue: 0,0:00:33.24,0:00:37.18,DEFAULT,,0,0,0,,{\kf19}But{\kf32} no{\kf32} a{\kf88}vail,{\kf19} not{\kf38} e{\kf25}ven{\kf94} close
-Dialogue: 0,0:00:41.49,0:00:47.68,DEFAULT,,0,0,0,,{\kf32}One{\kf32} by{\kf75} one,{\kf32} new{\kf38} i{\kf100}deas{\kf32} come{\kf25} and{\kf44} go{\kf19}~{\kf82}~
-Dialogue: 0,0:00:49.24,0:00:53.43,DEFAULT,,0,0,0,,{\kf19}We{\kf38} al{\kf25}ways{\kf88} try{\kf19} to{\kf32} make{\kf32} the{\kf125} most
-Dialogue: 0,0:00:56.99,0:00:59.99,DEFAULT,,0,0,0,,{\kf19}If{\kf19} we{\kf44} keep{\kf38} on{\kf25} keep{\kf32}ing{\kf25} on{\kf50}~
-Dialogue: 0,0:01:00.43,0:01:03.56,DEFAULT,,0,0,0,,{\kf25}We'll{\kf32} reach{\kf25} our{\kf50} des{\kf32}ti{\kf38}~{\kf82}ny
-Dialogue: 0,0:01:03.99,0:01:08.18,DEFAULT,,0,0,0,,{\kf19}And{\kf19} we're{\kf50} ne{\kf44}ver{\kf25} giv{\kf25}ing{\kf38} up,{\kf57} 'cause{\kf19} 1,{\kf19} 2,
-Dialogue: 0,0:01:08.49,0:01:10.93,DEFAULT,,0,0,0,,{\kf38}Three{\kf25} is{\kf32} fa{\kf32}mi{\kf75}ly
-Dialogue: 0,0:01:11.49,0:01:15.18,DEFAULT,,0,0,0,,{\kf32}There's{\kf25} a{\kf50} 'we',{\kf32} not{\kf32} just{\kf25} a{\kf94} 'me'
-Dialogue: 0,0:01:16.24,0:01:18.99,DEFAULT,,0,0,0,,{\kf19}You{\kf44} see,{\kf32} we{\kf25} can{\kf75} be
-Dialogue: 0,0:01:19.49,0:01:23.31,DEFAULT,,0,0,0,,{\kf32}What{\kf32} we{\kf50} want{\kf25} in{\kf19} a{\kf32} life{\kf38} so{\kf88} free
-Dialogue: 0,0:01:24.18,0:01:26.87,DEFAULT,,0,0,0,,{\kf25}And{\kf38} we,{\kf25} we{\kf25} can{\kf63} see
-Dialogue: 0,0:01:27.56,0:01:30.99,DEFAULT,,0,0,0,,{\kf32}E{\kf25}very{\kf50} sin{\kf19}gle{\kf25} pos{\kf25}si{\kf38}bi{\kf38}li{\kf75}ty
-Dialogue: 0,0:01:31.18,0:01:32.24,DEFAULT,,0,0,0,,{\kf19}Oh{\kf19} oh{\kf50} oh
-Dialogue: 0,0:01:32.49,0:01:35.12,DEFAULT,,0,0,0,,{\kf38}Three's{\kf38} not{\kf32} just{\kf25} a{\kf88} crowd
-Dialogue: 0,0:01:35.49,0:01:37.87,DEFAULT,,0,0,0,,{\kf38}Three's{\kf19} a{\kf25} team{\kf144}~
-Dialogue: 0,0:01:45.56,0:01:48.93,DEFAULT,,0,0,0,,{\kf32}Al{\kf32}ways{\kf63} seems{\kf19} we'd{\kf32} come{\kf32} up{\kf69} short
-Dialogue: 0,0:01:49.18,0:01:51.18,DEFAULT,,0,0,0,,{\kf25}With{\kf32}out{\kf25} our{\kf32} marks{\kf19}~{\kf50}~
-Dialogue: 0,0:01:53.49,0:01:57.18,DEFAULT,,0,0,0,,{\kf38}Me{\kf38}mo{\kf69}ries{\kf38} are{\kf32} made{\kf32} with{\kf94} scars
-Dialogue: 0,0:02:01.56,0:02:08.06,DEFAULT,,0,0,0,,{\kf25}Look{\kf32} a{\kf88}round,{\kf32} there's{\kf32} so{\kf50} ma{\kf63}ny{\kf32} dif{\kf44}ferent{\kf50} ways{\kf132}~
-Dialogue: 0,0:02:09.49,0:02:13.18,DEFAULT,,0,0,0,,{\kf25}But{\kf38} you{\kf44} can't{\kf38} see{\kf32} ve{\kf38}ry{\kf88} far
-Dialogue: 0,0:02:16.99,0:02:20.12,DEFAULT,,0,0,0,,{\kf19}If{\kf19} we{\kf44} keep{\kf38} on{\kf25} keep{\kf44}ing{\kf25} on{\kf63}~
-Dialogue: 0,0:02:20.43,0:02:23.62,DEFAULT,,0,0,0,,{\kf25}We'll{\kf38} reach{\kf19} our{\kf50} des{\kf32}ti{\kf44}~{\kf88}ny
-Dialogue: 0,0:02:23.99,0:02:28.18,DEFAULT,,0,0,0,,{\kf19}And{\kf19} we're{\kf50} ne{\kf38}ver{\kf25} giv{\kf38}ing{\kf38} up,{\kf63} 'cause{\kf19} 1,{\kf19} 2,
-Dialogue: 0,0:02:28.49,0:02:30.93,DEFAULT,,0,0,0,,{\kf38}Three{\kf25} is{\kf38} fa{\kf32}mi{\kf69}ly
-Dialogue: 0,0:02:31.49,0:02:34.93,DEFAULT,,0,0,0,,{\kf32}There's{\kf25} a{\kf38} 'we',{\kf32} not{\kf25} just{\kf32} a{\kf69} 'me'
-Dialogue: 0,0:02:36.24,0:02:38.93,DEFAULT,,0,0,0,,{\kf25}You{\kf32} see,{\kf32} we{\kf32} can{\kf69} be
-Dialogue: 0,0:02:39.56,0:02:43.37,DEFAULT,,0,0,0,,{\kf25}What{\kf32} we{\kf57} want{\kf19} in{\kf19} a{\kf38} life{\kf38} so{\kf88} free
-Dialogue: 0,0:02:44.24,0:02:46.87,DEFAULT,,0,0,0,,{\kf19}And{\kf63} we,{\kf25} we{\kf38} can{\kf63} see
-Dialogue: 0,0:02:47.49,0:02:50.99,DEFAULT,,0,0,0,,{\kf38}E{\kf25}very{\kf50} sin{\kf19}gle{\kf25} pos{\kf25}si{\kf38}bi{\kf32}li{\kf75}ty
-Dialogue: 0,0:02:51.24,0:02:52.18,DEFAULT,,0,0,0,,{\kf19}Oh{\kf19} oh{\kf44} oh
-Dialogue: 0,0:02:52.56,0:02:55.18,DEFAULT,,0,0,0,,{\kf38}Three's{\kf38} not{\kf38} just{\kf19} a{\kf88} crowd
-Dialogue: 0,0:02:55.49,0:02:57.62,DEFAULT,,0,0,0,,{\kf44}Three's{\kf19} a{\kf132} team
-Dialogue: 0,0:03:12.49,0:03:18.93,DEFAULT,,0,0,0,,{\kf63}Oh,{\kf19} oh{\kf25} oh{\kf25} oh{\kf63} oh,{\kf19} oh{\kf25} oh{\kf25} oh{\kf50} oh,{\kf19} oh{\kf19} oh{\kf25} oh{\kf25} oh{\kf63} oh
-Dialogue: 0,0:03:19.31,0:03:20.24,DEFAULT,,0,0,0,,{\kf19}Oh{\kf19} oh{\kf38} oh
-Dialogue: 0,0:03:20.49,0:03:26.93,DEFAULT,,0,0,0,,{\kf63}Oh,{\kf19} oh{\kf25} oh{\kf25} oh{\kf63} oh,{\kf19} oh{\kf25} oh{\kf25} oh{\kf50} oh,{\kf19} oh{\kf19} oh{\kf25} oh{\kf25} oh{\kf63} oh
-Dialogue: 0,0:03:27.31,0:03:28.24,DEFAULT,,0,0,0,,{\kf19}Oh{\kf19} oh{\kf38} oh
-Dialogue: 0,0:03:28.43,0:03:30.81,DEFAULT,,0,0,0,,{\kf44}Three{\kf19} is{\kf25} all{\kf32} we{\kf57} need
-Dialogue: 0,0:03:31.49,0:03:35.18,DEFAULT,,0,0,0,,{\kf32}There's{\kf25} a{\kf50} 'we',{\kf32} not{\kf25} just{\kf32} a{\kf88} 'me'
-Dialogue: 0,0:03:36.18,0:03:38.87,DEFAULT,,0,0,0,,{\kf19}You{\kf57} see,{\kf25} we{\kf25} can{\kf63} be
-Dialogue: 0,0:03:39.49,0:03:43.31,DEFAULT,,0,0,0,,{\kf38}What{\kf25} we{\kf57} want{\kf25} in{\kf19} a{\kf32} life{\kf38} so{\kf82} free
-Dialogue: 0,0:03:44.24,0:03:46.93,DEFAULT,,0,0,0,,{\kf25}And{\kf38} we,{\kf32} we{\kf25} can{\kf69} see
-Dialogue: 0,0:03:47.56,0:03:51.06,DEFAULT,,0,0,0,,{\kf38}E{\kf25}very{\kf44} sin{\kf25}gle{\kf25} pos{\kf25}si{\kf38}bi{\kf32}li{\kf82}ty
-Dialogue: 0,0:03:51.37,0:03:52.24,DEFAULT,,0,0,0,,{\kf19}Oh{\kf19} oh{\kf38} oh
-Dialogue: 0,0:03:52.56,0:03:55.12,DEFAULT,,0,0,0,,{\kf38}Three's{\kf32} not{\kf32} just{\kf19} a{\kf82} crowd
-Dialogue: 0,0:03:55.49,0:03:58.87,DEFAULT,,0,0,0,,{\kf38}Three's{\kf25} a{\kf263} team
-Dialogue: 0,0:03:59.24,0:04:00.31,DEFAULT,,0,0,0,,{\kf19}Oh{\kf19} oh{\kf50} oh
-Dialogue: 0,0:04:00.49,0:04:06.93,DEFAULT,,0,0,0,,{\kf63}Oh,{\kf19} oh{\kf25} oh{\kf25} oh{\kf63} oh,{\kf19} oh{\kf25} oh{\kf25} oh{\kf50} oh,{\kf19} oh{\kf19} oh{\kf25} oh{\kf25} oh{\kf63} oh
-Dialogue: 0,0:04:07.31,0:04:08.31,DEFAULT,,0,0,0,,{\kf19}Oh{\kf19} oh{\kf38} oh
-Dialogue: 0,0:04:08.49,0:04:14.93,DEFAULT,,0,0,0,,{\kf63}Oh,{\kf19} oh{\kf25} oh{\kf25} oh{\kf63} oh,{\kf19} oh{\kf25} oh{\kf25} oh{\kf50} oh,{\kf19} oh{\kf19} oh{\kf25} oh{\kf25} oh{\kf63} oh
-Dialogue: 0,0:04:15.37,0:04:16.18,DEFAULT,,0,0,0,,{\kf19}Oh{\kf13} oh{\kf38} oh
-Dialogue: 0,0:04:16.56,0:04:22.93,DEFAULT,,0,0,0,,{\kf57}Oh,{\kf19} oh{\kf25} oh{\kf25} oh{\kf63} oh,{\kf19} oh{\kf25} oh{\kf25} oh{\kf50} oh,{\kf19} oh{\kf19} oh{\kf25} oh{\kf25} oh{\kf63} oh
-Dialogue: 0,0:04:23.37,0:04:24.37,DEFAULT,,0,0,0,,{\kf13}Oh{\kf13} oh{\kf50} oh
-Dialogue: 0,0:04:24.56,0:04:28.87,DEFAULT,,0,0,0,,{\kf57}Oh,{\kf13} oh{\kf25} oh{\kf19} oh{\kf75} oh,{\kf13} oh{\kf25} oh{\kf19} oh{\kf57} oh
-Dialogue: 0,0:04:29.06,0:04:31.43,DEFAULT,,0,0,0,,{\kf19}Oh{\kf19} oh{\kf32} oh{\kf19} oh{\kf113} oh
+Dialogue: 0,0:00:25.44,0:00:31.44,DEFAULT,,0,0,0,,{\r}{\kf35}March{\kf49}ing{\kf99} on,{\kf28} we{\kf35} try{\kf35} a{\kf71}gain{\kf35} a{\kf42}no{\kf28}ther{\kf42} go{\kf21}~{\kf80}~
+Dialogue: 0,0:00:33.25,0:00:37.19,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf36} no{\kf36} a{\kf100}vail,{\kf21} not{\kf43} e{\kf29}ven{\kf108} close
+Dialogue: 0,0:00:41.50,0:00:47.69,DEFAULT,,0,0,0,,{\r}{\kf38}One{\kf38} by{\kf92} one,{\kf38} new{\kf46} i{\kf122}deas{\kf38} come{\kf31} and{\kf53} go{\kf23}~{\kf100}~
+Dialogue: 0,0:00:49.25,0:00:53.44,DEFAULT,,0,0,0,,{\r}{\kf21}We{\kf42} al{\kf28}ways{\kf98} try{\kf21} to{\kf35} make{\kf35} the{\kf139} most
+Dialogue: 0,0:00:57.00,0:00:60.00,DEFAULT,,0,0,0,,{\r}{\kf22}If{\kf22} we{\kf52} keep{\kf45} on{\kf30} keep{\kf38}ing{\kf30} on{\kf61}~
+Dialogue: 0,0:01:00.44,0:01:03.56,DEFAULT,,0,0,0,,{\r}{\kf28}We'll{\kf35} reach{\kf28} our{\kf55} des{\kf35}ti{\kf42}~{\kf89}ny
+Dialogue: 0,0:01:04.00,0:01:08.19,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf25} we're{\kf67} ne{\kf59}ver{\kf34} giv{\kf34}ing{\kf50} up,{\kf75} 'cause{\kf25} 1,{\kf25} 2,
+Dialogue: 0,0:01:08.50,0:01:10.94,DEFAULT,,0,0,0,,{\r}{\kf46}Three{\kf30} is{\kf38} fa{\kf38}mi{\kf92}ly
+Dialogue: 0,0:01:11.50,0:01:15.19,DEFAULT,,0,0,0,,{\r}{\kf40}There's{\kf32} a{\kf64} 'we',{\kf40} not{\kf40} just{\kf32} a{\kf121} 'me'
+Dialogue: 0,0:01:16.25,0:01:19.00,DEFAULT,,0,0,0,,{\r}{\kf27}You{\kf62} see,{\kf44} we{\kf35} can{\kf107} be
+Dialogue: 0,0:01:19.50,0:01:23.31,DEFAULT,,0,0,0,,{\r}{\kf38}What{\kf38} we{\kf61} want{\kf30} in{\kf23} a{\kf38} life{\kf46} so{\kf107} free
+Dialogue: 0,0:01:24.19,0:01:26.87,DEFAULT,,0,0,0,,{\r}{\kf38}And{\kf58} we,{\kf38} we{\kf38} can{\kf97} see
+Dialogue: 0,0:01:27.56,0:01:31.00,DEFAULT,,0,0,0,,{\r}{\kf33}E{\kf26}very{\kf53} sin{\kf20}gle{\kf26} pos{\kf26}si{\kf40}bi{\kf40}li{\kf80}ty
+Dialogue: 0,0:01:31.19,0:01:32.25,DEFAULT,,0,0,0,,{\r}{\kf23}Oh{\kf23} oh{\kf60} oh
+Dialogue: 0,0:01:32.50,0:01:35.12,DEFAULT,,0,0,0,,{\r}{\kf45}Three's{\kf45} not{\kf37} just{\kf30} a{\kf105} crowd
+Dialogue: 0,0:01:35.50,0:01:37.87,DEFAULT,,0,0,0,,{\r}{\kf40}Three's{\kf20} a{\kf26} team{\kf152}~
+Dialogue: 0,0:01:45.56,0:01:48.94,DEFAULT,,0,0,0,,{\r}{\kf38}Al{\kf38}ways{\kf77} seems{\kf23} we'd{\kf38} come{\kf38} up{\kf86} short
+Dialogue: 0,0:01:49.19,0:01:51.19,DEFAULT,,0,0,0,,{\r}{\kf28}With{\kf34}out{\kf28} our{\kf34} marks{\kf21}~{\kf55}~
+Dialogue: 0,0:01:53.50,0:01:57.19,DEFAULT,,0,0,0,,{\r}{\kf41}Me{\kf41}mo{\kf75}ries{\kf41} are{\kf34} made{\kf34} with{\kf103} scars
+Dialogue: 0,0:02:01.56,0:02:08.06,DEFAULT,,0,0,0,,{\r}{\kf28}Look{\kf35} a{\kf99}round,{\kf35} there's{\kf35} so{\kf57} ma{\kf71}ny{\kf35} dif{\kf49}ferent{\kf57} ways{\kf149}~
+Dialogue: 0,0:02:09.50,0:02:13.19,DEFAULT,,0,0,0,,{\r}{\kf31}But{\kf46} you{\kf54} can't{\kf46} see{\kf38} ve{\kf46}ry{\kf108} far
+Dialogue: 0,0:02:17.00,0:02:20.12,DEFAULT,,0,0,0,,{\r}{\kf21}If{\kf21} we{\kf50} keep{\kf43} on{\kf28} keep{\kf50}ing{\kf28} on{\kf71}~
+Dialogue: 0,0:02:20.44,0:02:23.62,DEFAULT,,0,0,0,,{\r}{\kf27}We'll{\kf41} reach{\kf20} our{\kf54} des{\kf34}ti{\kf48}~{\kf95}ny
+Dialogue: 0,0:02:24.00,0:02:28.19,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf24} we're{\kf64} ne{\kf48}ver{\kf32} giv{\kf48}ing{\kf48} up,{\kf81} 'cause{\kf24} 1,{\kf26} 2,
+Dialogue: 0,0:02:28.50,0:02:30.94,DEFAULT,,0,0,0,,{\r}{\kf46}Three{\kf30} is{\kf46} fa{\kf38}mi{\kf84}ly
+Dialogue: 0,0:02:31.50,0:02:34.94,DEFAULT,,0,0,0,,{\r}{\kf43}There's{\kf34} a{\kf52} 'we',{\kf43} not{\kf34} just{\kf43} a{\kf95} 'me'
+Dialogue: 0,0:02:36.25,0:02:38.94,DEFAULT,,0,0,0,,{\r}{\kf36}You{\kf45} see,{\kf45} we{\kf45} can{\kf98} be
+Dialogue: 0,0:02:39.56,0:02:43.37,DEFAULT,,0,0,0,,{\r}{\kf30}What{\kf38} we{\kf69} want{\kf23} in{\kf23} a{\kf46} life{\kf46} so{\kf106} free
+Dialogue: 0,0:02:44.25,0:02:46.87,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf79} we,{\kf32} we{\kf48} can{\kf79} see
+Dialogue: 0,0:02:47.50,0:02:51.00,DEFAULT,,0,0,0,,{\r}{\kf40}E{\kf27}very{\kf54} sin{\kf20}gle{\kf27} pos{\kf27}si{\kf40}bi{\kf34}li{\kf81}ty
+Dialogue: 0,0:02:51.25,0:02:52.19,DEFAULT,,0,0,0,,{\r}{\kf22}Oh{\kf22} oh{\kf50} oh
+Dialogue: 0,0:02:52.56,0:02:55.19,DEFAULT,,0,0,0,,{\r}{\kf45}Three's{\kf45} not{\kf45} just{\kf22} a{\kf105} crowd
+Dialogue: 0,0:02:55.50,0:02:57.62,DEFAULT,,0,0,0,,{\r}{\kf48}Three's{\kf21} a{\kf143} team
+Dialogue: 0,0:03:12.50,0:03:18.94,DEFAULT,,0,0,0,,{\r}{\kf87}Oh,{\kf26} oh{\kf35} oh{\kf35} oh{\kf87} oh,{\kf26} oh{\kf35} oh{\kf35} oh{\kf70} oh,{\kf26} oh{\kf26} oh{\kf35} oh{\kf35} oh{\kf86} oh
+Dialogue: 0,0:03:19.31,0:03:20.25,DEFAULT,,0,0,0,,{\r}{\kf24}Oh{\kf24} oh{\kf46} oh
+Dialogue: 0,0:03:20.50,0:03:26.94,DEFAULT,,0,0,0,,{\r}{\kf87}Oh,{\kf26} oh{\kf35} oh{\kf35} oh{\kf87} oh,{\kf26} oh{\kf35} oh{\kf35} oh{\kf70} oh,{\kf26} oh{\kf26} oh{\kf35} oh{\kf35} oh{\kf86} oh
+Dialogue: 0,0:03:27.31,0:03:28.25,DEFAULT,,0,0,0,,{\r}{\kf24}Oh{\kf24} oh{\kf46} oh
+Dialogue: 0,0:03:28.44,0:03:30.81,DEFAULT,,0,0,0,,{\r}{\kf60}Three{\kf26} is{\kf34} all{\kf42} we{\kf76} need
+Dialogue: 0,0:03:31.50,0:03:35.19,DEFAULT,,0,0,0,,{\r}{\kf41}There's{\kf33} a{\kf66} 'we',{\kf41} not{\kf33} just{\kf41} a{\kf114} 'me'
+Dialogue: 0,0:03:36.19,0:03:38.87,DEFAULT,,0,0,0,,{\r}{\kf27}You{\kf81} see,{\kf36} we{\kf36} can{\kf89} be
+Dialogue: 0,0:03:39.50,0:03:43.31,DEFAULT,,0,0,0,,{\r}{\kf46}What{\kf30} we{\kf69} want{\kf30} in{\kf23} a{\kf38} life{\kf46} so{\kf99} free
+Dialogue: 0,0:03:44.25,0:03:46.94,DEFAULT,,0,0,0,,{\r}{\kf36}And{\kf54} we,{\kf45} we{\kf36} can{\kf98} see
+Dialogue: 0,0:03:47.56,0:03:51.06,DEFAULT,,0,0,0,,{\r}{\kf40}E{\kf26}very{\kf46} sin{\kf26}gle{\kf26} pos{\kf26}si{\kf40}bi{\kf33}li{\kf87}ty
+Dialogue: 0,0:03:51.37,0:03:52.25,DEFAULT,,0,0,0,,{\r}{\kf22}Oh{\kf22} oh{\kf44} oh
+Dialogue: 0,0:03:52.56,0:03:55.12,DEFAULT,,0,0,0,,{\r}{\kf48}Three's{\kf40} not{\kf40} just{\kf24} a{\kf104} crowd
+Dialogue: 0,0:03:55.50,0:03:58.87,DEFAULT,,0,0,0,,{\r}{\kf39}Three's{\kf26} a{\kf273} team
+Dialogue: 0,0:03:59.25,0:04:00.31,DEFAULT,,0,0,0,,{\r}{\kf23}Oh{\kf23} oh{\kf60} oh
+Dialogue: 0,0:04:00.50,0:04:06.94,DEFAULT,,0,0,0,,{\r}{\kf87}Oh,{\kf26} oh{\kf35} oh{\kf35} oh{\kf87} oh,{\kf26} oh{\kf35} oh{\kf35} oh{\kf70} oh,{\kf26} oh{\kf26} oh{\kf35} oh{\kf35} oh{\kf86} oh
+Dialogue: 0,0:04:07.31,0:04:08.31,DEFAULT,,0,0,0,,{\r}{\kf25}Oh{\kf25} oh{\kf50} oh
+Dialogue: 0,0:04:08.50,0:04:14.94,DEFAULT,,0,0,0,,{\r}{\kf87}Oh,{\kf26} oh{\kf35} oh{\kf35} oh{\kf87} oh,{\kf26} oh{\kf35} oh{\kf35} oh{\kf70} oh,{\kf26} oh{\kf26} oh{\kf35} oh{\kf35} oh{\kf86} oh
+Dialogue: 0,0:04:15.37,0:04:16.19,DEFAULT,,0,0,0,,{\r}{\kf22}Oh{\kf15} oh{\kf44} oh
+Dialogue: 0,0:04:16.56,0:04:22.94,DEFAULT,,0,0,0,,{\r}{\kf79}Oh,{\kf26} oh{\kf35} oh{\kf35} oh{\kf87} oh,{\kf26} oh{\kf35} oh{\kf35} oh{\kf70} oh,{\kf26} oh{\kf26} oh{\kf35} oh{\kf35} oh{\kf88} oh
+Dialogue: 0,0:04:23.37,0:04:24.37,DEFAULT,,0,0,0,,{\r}{\kf17}Oh{\kf17} oh{\kf66} oh
+Dialogue: 0,0:04:24.56,0:04:28.87,DEFAULT,,0,0,0,,{\r}{\kf81}Oh,{\kf18} oh{\kf36} oh{\kf27} oh{\kf108} oh,{\kf18} oh{\kf36} oh{\kf27} oh{\kf80} oh
+Dialogue: 0,0:04:29.06,0:04:31.44,DEFAULT,,0,0,0,,{\r}{\kf22}Oh{\kf22} oh{\kf37} oh{\kf22} oh{\kf135} oh

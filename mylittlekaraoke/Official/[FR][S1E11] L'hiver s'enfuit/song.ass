@@ -1,91 +1,98 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: L'Hiver s'enfuit
+Artist: Mon Petit Poney
+Original Timing: mylittlekaraoke.com by LardonCru
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:02.41,DEFAULT,,0,0,0,,{\kf34}De{\kf34}puis{\kf25} trois{\kf25} mois{\kf17} nous{\kf34} vi{\kf42}vons
-Dialogue: 0,0:00:02.58,0:00:04.83,DEFAULT,,0,0,0,,{\kf17}Dans{\kf17} le{\kf17} froid{\kf17} de{\kf42} l'hi{\kf67}ver
-Dialogue: 0,0:00:05.08,0:00:07.50,DEFAULT,,0,0,0,,{\kf34}Nos{\kf17} p'tits{\kf25} sa{\kf17}bots{\kf34} sont{\kf17} bien{\kf25} au{\kf34} chaud
-Dialogue: 0,0:00:07.66,0:00:09.75,DEFAULT,,0,0,0,,{\kf34}On{\kf17} n'a{\kf17} rien{\kf17} d'autre{\kf34} à{\kf59} faire
-Dialogue: 0,0:00:10.08,0:00:12.50,DEFAULT,,0,0,0,,{\kf17}Il{\kf9} fait{\kf17} bien{\kf17} trop{\kf34} froid{\kf25} pour{\kf17} tra{\kf17}va{\kf34}iller
-Dialogue: 0,0:00:12.66,0:00:14.66,DEFAULT,,0,0,0,,{\kf9}De{\kf17}hors{\kf25} rien{\kf25} ne{\kf17} peut{\kf34} pou{\kf50}sser
-Dialogue: 0,0:00:15.16,0:00:17.66,DEFAULT,,0,0,0,,{\kf17}Et{\kf17} même{\kf9} si{\kf25} j'a{\kf17}dore{\kf17} mes{\kf17} bo{\kf34}ttines
-Dialogue: 0,0:00:17.66,0:00:20.25,DEFAULT,,0,0,0,,{\kf17}La{\kf17} mode{\kf17} en{\kf25} est{\kf34} pa{\kf109}ssée
-Dialogue: 0,0:00:21.00,0:00:23.58,DEFAULT,,0,0,0,,{\kf17}Il{\kf17} faut{\kf17} qu'a{\kf17}rri{\kf9}ve{\kf17} le{\kf42} prin{\kf42}temps
-Dialogue: 0,0:00:23.83,0:00:25.33,DEFAULT,,0,0,0,,{\kf9}Que{\kf17} s'é{\kf25}veille{\kf25} la{\kf17} na{\kf25}ture
-Dialogue: 0,0:00:25.41,0:00:27.83,DEFAULT,,0,0,0,,{\kf9}Main{\kf9}te{\kf17}nant{\kf17} il{\kf25} faut{\kf17} bien{\kf42} s'a{\kf17}cti{\kf42}ver
-Dialogue: 0,0:00:28.08,0:00:29.66,DEFAULT,,0,0,0,,{\kf17}L'hi{\kf17}ver{\kf9} est{\kf17} au{\kf17} pied{\kf17} du{\kf34} mur
-Dialogue: 0,0:00:30.16,0:00:32.41,DEFAULT,,0,0,0,,{\kf17}Que{\kf17} puis{\kf17} je{\kf17} faire{\kf17} pour{\kf17} vous{\kf25} ai{\kf34}der
-Dialogue: 0,0:00:32.66,0:00:33.91,DEFAULT,,0,0,0,,{\kf9}Voi{\kf9}là{\kf9} ce{\kf9} qui{\kf17} me{\kf17} tra{\kf34}casse
-Dialogue: 0,0:00:34.50,0:00:36.83,DEFAULT,,0,0,0,,{\kf17}Je{\kf17} me{\kf17} sens{\kf25} per{\kf17}due{\kf25} sans{\kf25} ma{\kf34} ma{\kf25}gie
-Dialogue: 0,0:00:37.16,0:00:39.66,DEFAULT,,0,0,0,,{\kf17}Co{\kf17}mment{\kf9} trou{\kf17}ver{\kf17} ma{\kf117} place ?
-Dialogue: 0,0:00:40.66,0:00:42.75,DEFAULT,,0,0,0,,{\kf17}L'hi{\kf17}ver{\kf17} s'en{\kf17}fuit,{\kf17} L'hi{\kf25}ver{\kf17} s'en{\kf25}fuit
-Dialogue: 0,0:00:43.00,0:00:44.83,DEFAULT,,0,0,0,,{\kf9}Nos{\kf9} va{\kf17}cances{\kf17} fi{\kf17}nissent{\kf17} dans{\kf25} la{\kf34} joie
-Dialogue: 0,0:00:44.83,0:00:46.75,DEFAULT,,0,0,0,,{\kf17}L'hi{\kf17}ver{\kf25} s'en{\kf17}fuit,{\kf25} l'hi{\kf25}ver{\kf25} s'en{\kf17}fuit
-Dialogue: 0,0:00:47.08,0:00:48.91,DEFAULT,,0,0,0,,{\kf9}Bien{\kf9}tôt{\kf17} l'prin{\kf17}temps{\kf17} se{\kf25}ra{\kf42} là
-Dialogue: 0,0:00:49.16,0:00:50.83,DEFAULT,,0,0,0,,{\kf9}Bien{\kf9}tôt{\kf25} l'prin{\kf17}temps{\kf25} se{\kf34}ra{\kf34} là
-Dialogue: 0,0:00:51.00,0:00:53.08,DEFAULT,,0,0,0,,{\kf17}Rap'{\kf17}ler{\kf17} les{\kf17} ois{\kf17}eaux{\kf42} du{\kf34} sud
-Dialogue: 0,0:00:53.33,0:00:54.83,DEFAULT,,0,0,0,,{\kf9}Où{\kf9} ils{\kf17} ont{\kf17} tous{\kf17} mi{\kf25}gré
-Dialogue: 0,0:00:54.91,0:00:57.25,DEFAULT,,0,0,0,,{\kf17}E{\kf17}clair{\kf17}cir{\kf17} les{\kf17} cieux{\kf34} très{\kf17} ob{\kf42}scurs
-Dialogue: 0,0:00:57.41,0:00:58.91,DEFAULT,,0,0,0,,{\kf17}Qui{\kf9} troublent{\kf9} leur{\kf17} tran{\kf25}qui{\kf25}li{\kf17}té
-Dialogue: 0,0:00:59.41,0:01:03.08,DEFAULT,,0,0,0,,{\kf17}Dé{\kf9}blay{\kf9}er{\kf17} la{\kf25} nei{\kf25}-eige{\kf17} voi{\kf17}ci{\kf25} toutes{\kf17} nos{\kf34} mi{\kf67}ssions
-Dialogue: 0,0:01:03.58,0:01:07.58,DEFAULT,,0,0,0,,{\kf17}Pour{\kf17} que{\kf17} le{\kf25} so{\kf17}leil{\kf17} nous{\kf17} ré{\kf17}chauffe{\kf17} à{\kf17} la{\kf17} per{\kf42}fec{\kf84}tion
-Dialogue: 0,0:01:09.58,0:01:11.83,DEFAULT,,0,0,0,,{\kf25}L'hi{\kf17}ver{\kf25} s'en{\kf17}fuit,{\kf17} l'hi{\kf25}ver{\kf25} s'en{\kf42}fuit
-Dialogue: 0,0:01:12.00,0:01:13.75,DEFAULT,,0,0,0,,{\kf9}Nos{\kf9} va{\kf9}cances{\kf17} fi{\kf17}nissent{\kf17} dans{\kf17} la{\kf34} joie
-Dialogue: 0,0:01:13.75,0:01:16.00,DEFAULT,,0,0,0,,{\kf17}L'hi{\kf17}ver{\kf17} s'en{\kf17}fuit,{\kf25} l'hi{\kf25}ver{\kf34} s'en{\kf42}fuit,
-Dialogue: 0,0:01:16.08,0:01:17.83,DEFAULT,,0,0,0,,{\kf17}Bien{\kf9}tôt{\kf25} l'prin{\kf9}temps {\kf25} se{\kf34}ra{\kf34} là,
-Dialogue: 0,0:01:17.91,0:01:20.08,DEFAULT,,0,0,0,,{\kf17}L'hi{\kf17}ver{\kf25} s'en{\kf17}fuit,{\kf17} l'hi{\kf25}ver{\kf25} s'en{\kf42}fuit
-Dialogue: 0,0:01:20.16,0:01:22.08,DEFAULT,,0,0,0,,{\kf17}Bien{\kf9}tôt{\kf17} l'prin{\kf17}temps{\kf34} se{\kf34}ra{\kf42} là
-Dialogue: 0,0:01:22.25,0:01:23.91,DEFAULT,,0,0,0,,{\kf17}Bien{\kf9}tôt{\kf25} l'prin{\kf17}temps{\kf25} se{\kf17}ra{\kf34} là
-Dialogue: 0,0:01:24.08,0:01:26.08,DEFAULT,,0,0,0,,{\kf17}Des{\kf17} p'tites{\kf17} cré{\kf25}a{\kf25}tures{\kf25} hi{\kf25}bernent
-Dialogue: 0,0:01:26.41,0:01:27.91,DEFAULT,,0,0,0,,{\kf17}Sous{\kf17} la{\kf17} neige{\kf34} et{\kf17} la{\kf25} glace
-Dialogue: 0,0:01:28.00,0:01:30.25,DEFAULT,,0,0,0,,{\kf17}Tran{\kf17}quille{\kf17}ment{\kf17} nous{\kf17} les{\kf25} ré{\kf25}vei{\kf34}llons
-Dialogue: 0,0:01:30.50,0:01:32.16,DEFAULT,,0,0,0,,{\kf17}Douce{\kf34}ment{\kf25} et{\kf25} sans{\kf17} an{\kf34}goisse
-Dialogue: 0,0:01:32.58,0:01:34.75,DEFAULT,,0,0,0,,{\kf17}Nous{\kf25} ra{\kf34}ssem{\kf17}blons{\kf17} la{\kf17} nou{\kf34}rri{\kf34}ture
-Dialogue: 0,0:01:34.91,0:01:36.50,DEFAULT,,0,0,0,,{\kf17}Soi{\kf17}gnons{\kf25} leurs{\kf9} mai{\kf67}sons
-Dialogue: 0,0:01:36.75,0:01:39.00,DEFAULT,,0,0,0,,{\kf9}Et{\kf25} nos{\kf25} a{\kf17}mis{\kf17} qui{\kf25} viennent{\kf34} du{\kf34} sud
-Dialogue: 0,0:01:39.33,0:01:42.00,DEFAULT,,0,0,0,,{\kf17}Tous{\kf17} nous{\kf17} les{\kf17} a{\kf42}ccue{\kf117}illons
-Dialogue: 0,0:01:42.66,0:01:44.75,DEFAULT,,0,0,0,,{\kf25}L'hi{\kf25}ver{\kf17} s'en{\kf17}fuit,{\kf25} l'hi{\kf25}ver{\kf25} s'en{\kf34}fuit
-Dialogue: 0,0:01:45.00,0:01:46.75,DEFAULT,,0,0,0,,{\kf17}Nos{\kf17} va{\kf9}cances{\kf17} fi{\kf17}nissent{\kf17} dans{\kf25} la{\kf17} joie
-Dialogue: 0,0:01:46.83,0:01:49.00,DEFAULT,,0,0,0,,{\kf25}L'hi{\kf25}ver{\kf25} s'en{\kf17}fuit,{\kf25} l'hi{\kf25}ver{\kf25} s'en{\kf42}fuit
-Dialogue: 0,0:01:49.16,0:01:51.00,DEFAULT,,0,0,0,,{\kf17}Bien{\kf9}tôt{\kf17} l'prin{\kf17}temps{\kf34} se{\kf34}ra{\kf34} là
-Dialogue: 0,0:01:50.91,0:01:53.08,DEFAULT,,0,0,0,,{\kf25}L'hi{\kf25}ver{\kf25} s'en{\kf17}fuit,{\kf25} l'hi{\kf25}ver{\kf25} s'en{\kf34}fuit
-Dialogue: 0,0:01:53.33,0:01:55.25,DEFAULT,,0,0,0,,{\kf9}Bien{\kf9}tôt{\kf25} l'prin{\kf9}temps{\kf34} se{\kf42}ra{\kf42} là
-Dialogue: 0,0:01:55.41,0:01:56.91,DEFAULT,,0,0,0,,{\kf9}Bien{\kf9}tôt{\kf25} l'prin{\kf17}temps{\kf17} se{\kf17}ra{\kf25} là
-Dialogue: 0,0:01:57.00,0:01:59.41,DEFAULT,,0,0,0,,{\kf17}Cul{\kf17}ti{\kf25}ver{\kf25} les{\kf25} fruits{\kf25} de{\kf25} la{\kf42} terre
-Dialogue: 0,0:01:59.58,0:02:01.25,DEFAULT,,0,0,0,,{\kf25}Quel{\kf17} tra{\kf25}vail{\kf17} e{\kf25}xi{\kf42}geant
-Dialogue: 0,0:02:01.75,0:02:03.83,DEFAULT,,0,0,0,,{\kf17}Mais{\kf25} a{\kf17}vec{\kf42} coeur{\kf17} et{\kf25} pa{\kf42}tience
-Dialogue: 0,0:02:04.08,0:02:05.50,DEFAULT,,0,0,0,,{\kf17}Tout{\kf17} l'monde{\kf17} s'ra{\kf17} con{\kf42}tent
-Dialogue: 0,0:02:05.75,0:02:07.50,DEFAULT,,0,0,0,,{\kf17}Pommes,{\kf17} ca{\kf17}ro{\kf17}ttes,{\kf17} z'et{\kf9} cé{\kf9}le{\kf34}ri
-Dialogue: 0,0:02:07.66,0:02:09.33,DEFAULT,,0,0,0,,{\kf17}Et{\kf9} des{\kf17} fleurs{\kf17} par{\kf25} cen{\kf59}taines
-Dialogue: 0,0:02:09.91,0:02:11.75,DEFAULT,,0,0,0,,{\kf34}Ca{\kf25} de{\kf17}mande{\kf25} beau{\kf17}coup{\kf17} d'e{\kf34}fforts
-Dialogue: 0,0:02:11.83,0:02:13.91,DEFAULT,,0,0,0,,{\kf17}Pour{\kf17} faire{\kf17} pou{\kf17}sser{\kf17} nos{\kf84} graines
-Dialogue: 0,0:02:14.33,0:02:16.41,DEFAULT,,0,0,0,,{\kf25}L'hi{\kf17}ver{\kf25} s'en{\kf17}fuit,{\kf17} l'hi{\kf17}ver{\kf25} s'en{\kf42}fuit
-Dialogue: 0,0:02:16.58,0:02:18.41,DEFAULT,,0,0,0,,{\kf25}Nos{\kf17} va{\kf17}cances{\kf17} fi{\kf25}nissent{\kf17} dans{\kf25} la{\kf25} joie
-Dialogue: 0,0:02:18.41,0:02:20.58,DEFAULT,,0,0,0,,{\kf25}L'hi{\kf25}ver{\kf17} s'en{\kf17}fuit,{\kf17} l'hi{\kf25}ver{\kf25} s'en{\kf42}fuit
-Dialogue: 0,0:02:20.75,0:02:22.50,DEFAULT,,0,0,0,,{\kf17}Bien{\kf9}tôt{\kf17} l'prin{\kf17}temps{\kf34} se{\kf42}ra{\kf17} là
-Dialogue: 0,0:02:22.58,0:02:24.75,DEFAULT,,0,0,0,,{\kf25}L'hi{\kf17}ver{\kf25} s'en{\kf17}fuit,{\kf17} l'hi{\kf17}ver{\kf25} s'en{\kf42}fuit
-Dialogue: 0,0:02:24.91,0:02:26.75,DEFAULT,,0,0,0,,{\kf17}Bien{\kf9}tôt{\kf25} l'prin{\kf17}temps{\kf25} se{\kf42}ra{\kf34} là
-Dialogue: 0,0:02:26.91,0:02:28.66,DEFAULT,,0,0,0,,{\kf17}Bien{\kf17}tôt{\kf25} l'prin{\kf9}temps{\kf34} se{\kf17}ra{\kf42} là
-Dialogue: 0,0:02:29.16,0:02:31.50,DEFAULT,,0,0,0,,{\kf17}De{\kf17} cha{\kf42}cun{\kf25} je{\kf17} co{\kf17}nnais{\kf34} les{\kf34} tâches
-Dialogue: 0,0:02:31.75,0:02:34.00,DEFAULT,,0,0,0,,{\kf17}Quel{\kf17} se{\kf17}ra{\kf34} mon{\kf25} ou{\kf100}vrage ?
-Dialogue: 0,0:02:34.25,0:02:36.50,DEFAULT,,0,0,0,,{\kf17}Je{\kf25} veux{\kf34} ai{\kf17}der{\kf17} de{\kf17} tout{\kf42} mon{\kf34} coeur
-Dialogue: 0,0:02:36.58,0:02:38.50,DEFAULT,,0,0,0,,{\kf17}Faire{\kf34} mon{\kf17} a{\kf25}ppren{\kf25}ti{\kf59}ssage
-Dialogue: 0,0:02:39.16,0:02:41.58,DEFAULT,,0,0,0,,{\kf17}Mais{\kf9} co{\kf25}mment{\kf17} faire{\kf17} sans{\kf25} pou{\kf34}voirs{\kf34} ma{\kf17}giques
-Dialogue: 0,0:02:41.91,0:02:43.91,DEFAULT,,0,0,0,,{\kf25}S't'un{\kf17} tra{\kf34}vail{\kf34} di{\kf25}ffi{\kf42}cile
-Dialogue: 0,0:02:44.08,0:02:46.58,DEFAULT,,0,0,0,,{\kf17}Mais{\kf17} j'veux{\kf17} prou{\kf42}ver{\kf25} qu'j'suis{\kf42} l'une{\kf42} d'eux
-Dialogue: 0,0:02:46.91,0:02:48.91,DEFAULT,,0,0,0,,{\kf25}J'fe{\kf17}rais{\kf34} de{\kf42} mon{\kf67} mieux
-Dialogue: 0,0:02:49.33,0:02:53.08,DEFAULT,,0,0,0,,{\kf25}J'fe{\kf17}rais{\kf34} de{\kf59} mon{\kf217} mieux
-Dialogue: 0,0:02:53.41,0:02:55.16,DEFAULT,,0,0,0,,{\kf17}Nos{\kf17} va{\kf17}cances{\kf17} fi{\kf25}nissent{\kf17} dans{\kf17} la{\kf34} joie
-Dialogue: 0,0:02:55.25,0:02:57.33,DEFAULT,,0,0,0,,{\kf17}L'hi{\kf17}ver{\kf17} s'en{\kf17}fuit,{\kf25} l'hi{\kf17}ver{\kf17} s'en{\kf34}fuit
-Dialogue: 0,0:02:57.58,0:02:59.33,DEFAULT,,0,0,0,,{\kf9}Bien{\kf17}tôt{\kf17} l'prin{\kf17}temps{\kf25} se{\kf42}ra{\kf25} là
-Dialogue: 0,0:02:59.33,0:03:01.58,DEFAULT,,0,0,0,,{\kf25}L'hi{\kf17}ver{\kf25} s'en{\kf25}fuit,{\kf25} l'hi{\kf17}ver{\kf25} s'en{\kf42}fuit
-Dialogue: 0,0:03:01.66,0:03:03.58,DEFAULT,,0,0,0,,{\kf17}Bien{\kf9}tôt{\kf17} l'prin{\kf17}temps{\kf25} se{\kf42}ra{\kf42} là
-Dialogue: 0,0:03:03.83,0:03:05.66,DEFAULT,,0,0,0,,{\kf9}Bien{\kf9}tôt{\kf17} l'prin{\kf17}temps{\kf34} se{\kf42}ra{\kf42} là
-Dialogue: 0,0:03:05.83,0:03:11.00,DEFAULT,,0,0,0,,{\kf9}Bien{\kf9}tôt{\kf17} l'prin{\kf9}temps{\kf34} se{\kf42}ra{\kf359} là
+Dialogue: 0,0:00:00.00,0:00:02.42,DEFAULT,,0,0,0,,{\r}{\kf39}De{\kf39}puis{\kf29} trois{\kf29} mois{\kf19} nous{\kf39} vi{\kf48}vons
+Dialogue: 0,0:00:02.58,0:00:04.83,DEFAULT,,0,0,0,,{\r}{\kf21}Dans{\kf21} le{\kf21} froid{\kf21} de{\kf54} l'hi{\kf87}ver
+Dialogue: 0,0:00:05.08,0:00:07.50,DEFAULT,,0,0,0,,{\r}{\kf40}Nos{\kf20} p'tits{\kf30} sa{\kf20}bots{\kf40} sont{\kf20} bien{\kf30} au{\kf42} chaud
+Dialogue: 0,0:00:07.67,0:00:09.75,DEFAULT,,0,0,0,,{\r}{\kf40}On{\kf20} n'a{\kf20} rien{\kf20} d'autre{\kf40} à{\kf68} faire
+Dialogue: 0,0:00:10.08,0:00:12.50,DEFAULT,,0,0,0,,{\r}{\kf22}Il{\kf11} fait{\kf22} bien{\kf22} trop{\kf44} froid{\kf33} pour{\kf22} tra{\kf22}va{\kf44}iller
+Dialogue: 0,0:00:12.67,0:00:14.67,DEFAULT,,0,0,0,,{\r}{\kf10}De{\kf19}hors{\kf29} rien{\kf29} ne{\kf19} peut{\kf38} pou{\kf56}sser
+Dialogue: 0,0:00:15.17,0:00:17.67,DEFAULT,,0,0,0,,{\r}{\kf28}Et{\kf28} même{\kf14} si{\kf42} j'a{\kf28}dore{\kf28} mes{\kf28} bo{\kf54}ttines
+Dialogue: 0,0:00:17.67,0:00:20.25,DEFAULT,,0,0,0,,{\r}{\kf20}La{\kf20} mode{\kf20} en{\kf30} est{\kf40} pa{\kf128}ssée
+Dialogue: 0,0:00:21.00,0:00:23.58,DEFAULT,,0,0,0,,{\r}{\kf25}Il{\kf25} faut{\kf25} qu'a{\kf25}rri{\kf12}ve{\kf25} le{\kf61} prin{\kf60}temps
+Dialogue: 0,0:00:23.83,0:00:25.33,DEFAULT,,0,0,0,,{\r}{\kf11}Que{\kf21} s'é{\kf32}veille{\kf32} la{\kf21} na{\kf33}ture
+Dialogue: 0,0:00:25.42,0:00:27.83,DEFAULT,,0,0,0,,{\r}{\kf11}Main{\kf11}te{\kf21}nant{\kf21} il{\kf32} faut{\kf21} bien{\kf53} s'a{\kf21}cti{\kf51}ver
+Dialogue: 0,0:00:28.08,0:00:29.67,DEFAULT,,0,0,0,,{\r}{\kf21}L'hi{\kf21}ver{\kf11} est{\kf21} au{\kf21} pied{\kf21} du{\kf42} mur
+Dialogue: 0,0:00:30.17,0:00:32.42,DEFAULT,,0,0,0,,{\r}{\kf24}Que{\kf24} puis{\kf24} je{\kf24} faire{\kf24} pour{\kf24} vous{\kf36} ai{\kf45}der
+Dialogue: 0,0:00:32.67,0:00:33.92,DEFAULT,,0,0,0,,{\r}{\kf10}Voi{\kf10}là{\kf10} ce{\kf10} qui{\kf21} me{\kf21} tra{\kf43}casse
+Dialogue: 0,0:00:34.50,0:00:36.83,DEFAULT,,0,0,0,,{\r}{\kf19}Je{\kf19} me{\kf19} sens{\kf29} per{\kf19}due{\kf29} sans{\kf29} ma{\kf39} ma{\kf31}gie
+Dialogue: 0,0:00:37.17,0:00:39.67,DEFAULT,,0,0,0,,{\r}{\kf22}Co{\kf22}mment{\kf11} trou{\kf22}ver{\kf22} ma{\kf151} place ?
+Dialogue: 0,0:00:40.67,0:00:42.75,DEFAULT,,0,0,0,,{\r}{\kf23}L'hi{\kf23}ver{\kf23} s'en{\kf23}fuit,{\kf23} L'hi{\kf35}ver{\kf23} s'en{\kf35}fuit
+Dialogue: 0,0:00:43.00,0:00:44.83,DEFAULT,,0,0,0,,{\r}{\kf11}Nos{\kf11} va{\kf22}cances{\kf22} fi{\kf22}nissent{\kf22} dans{\kf32} la{\kf41} joie
+Dialogue: 0,0:00:44.83,0:00:46.75,DEFAULT,,0,0,0,,{\r}{\kf19}L'hi{\kf19}ver{\kf29} s'en{\kf19}fuit,{\kf29} l'hi{\kf29}ver{\kf29} s'en{\kf19}fuit
+Dialogue: 0,0:00:47.08,0:00:48.92,DEFAULT,,0,0,0,,{\r}{\kf11}Bien{\kf11}tôt{\kf23} l'prin{\kf23}temps{\kf23} se{\kf34}ra{\kf58} là
+Dialogue: 0,0:00:49.17,0:00:50.83,DEFAULT,,0,0,0,,{\r}{\kf10}Bien{\kf10}tôt{\kf28} l'prin{\kf19}temps{\kf28} se{\kf37}ra{\kf35} là
+Dialogue: 0,0:00:51.00,0:00:53.08,DEFAULT,,0,0,0,,{\r}{\kf22}Rap'{\kf22}ler{\kf22} les{\kf22} ois{\kf22}eaux{\kf55} du{\kf43} sud
+Dialogue: 0,0:00:53.33,0:00:54.83,DEFAULT,,0,0,0,,{\r}{\kf14}Où{\kf14} ils{\kf27} ont{\kf27} tous{\kf27} mi{\kf41}gré
+Dialogue: 0,0:00:54.92,0:00:57.25,DEFAULT,,0,0,0,,{\r}{\kf22}E{\kf22}clair{\kf22}cir{\kf22} les{\kf22} cieux{\kf44} très{\kf22} ob{\kf57}scurs
+Dialogue: 0,0:00:57.42,0:00:58.92,DEFAULT,,0,0,0,,{\r}{\kf21}Qui{\kf11} troublent{\kf11} leur{\kf21} tran{\kf32}qui{\kf32}li{\kf22}té
+Dialogue: 0,0:00:59.42,0:01:03.08,DEFAULT,,0,0,0,,{\r}{\kf22}Dé{\kf11}blay{\kf11}er{\kf22} la{\kf33} nei{\kf33}-eige{\kf22} voi{\kf22}ci{\kf33} toutes{\kf22} nos{\kf44} mi{\kf92}ssions
+Dialogue: 0,0:01:03.58,0:01:07.58,DEFAULT,,0,0,0,,{\r}{\kf21}Pour{\kf21} que{\kf21} le{\kf32} so{\kf21}leil{\kf21} nous{\kf21} ré{\kf21}chauffe{\kf21} à{\kf21} la{\kf21} per{\kf53}fec{\kf105}tion
+Dialogue: 0,0:01:09.58,0:01:11.83,DEFAULT,,0,0,0,,{\r}{\kf29}L'hi{\kf20}ver{\kf29} s'en{\kf20}fuit,{\kf20} l'hi{\kf29}ver{\kf29} s'en{\kf49}fuit
+Dialogue: 0,0:01:12.00,0:01:13.75,DEFAULT,,0,0,0,,{\r}{\kf12}Nos{\kf12} va{\kf12}cances{\kf23} fi{\kf23}nissent{\kf23} dans{\kf23} la{\kf47} joie
+Dialogue: 0,0:01:13.75,0:01:16.00,DEFAULT,,0,0,0,,{\r}{\kf20}L'hi{\kf20}ver{\kf20} s'en{\kf20}fuit,{\kf29} l'hi{\kf29}ver{\kf39} s'en{\kf48}fuit,
+Dialogue: 0,0:01:16.08,0:01:17.83,DEFAULT,,0,0,0,,{\r}{\kf19}Bien{\kf10}tôt{\kf29} l'prin{\kf10}temps{\kf29} se{\kf39}ra{\kf39} là,
+Dialogue: 0,0:01:17.92,0:01:20.08,DEFAULT,,0,0,0,,{\r}{\kf20}L'hi{\kf20}ver{\kf30} s'en{\kf20}fuit,{\kf20} l'hi{\kf30}ver{\kf30} s'en{\kf47}fuit
+Dialogue: 0,0:01:20.17,0:01:22.08,DEFAULT,,0,0,0,,{\r}{\kf19}Bien{\kf10}tôt{\kf19} l'prin{\kf19}temps{\kf38} se{\kf38}ra{\kf49} là
+Dialogue: 0,0:01:22.25,0:01:23.92,DEFAULT,,0,0,0,,{\r}{\kf20}Bien{\kf10}tôt{\kf29} l'prin{\kf20}temps{\kf29} se{\kf20}ra{\kf39} là
+Dialogue: 0,0:01:24.08,0:01:26.08,DEFAULT,,0,0,0,,{\r}{\kf22}Des{\kf22} p'tites{\kf22} cré{\kf33}a{\kf33}tures{\kf33} hi{\kf35}bernent
+Dialogue: 0,0:01:26.42,0:01:27.92,DEFAULT,,0,0,0,,{\r}{\kf20}Sous{\kf20} la{\kf20} neige{\kf40} et{\kf20} la{\kf30} glace
+Dialogue: 0,0:01:28.00,0:01:30.25,DEFAULT,,0,0,0,,{\r}{\kf22}Tran{\kf22}quille{\kf22}ment{\kf22} nous{\kf22} les{\kf34} ré{\kf34}vei{\kf47}llons
+Dialogue: 0,0:01:30.50,0:01:32.17,DEFAULT,,0,0,0,,{\r}{\kf19}Douce{\kf37}ment{\kf28} et{\kf28} sans{\kf19} an{\kf36}goisse
+Dialogue: 0,0:01:32.58,0:01:34.75,DEFAULT,,0,0,0,,{\r}{\kf19}Nous{\kf28} ra{\kf38}ssem{\kf19}blons{\kf19} la{\kf19} nou{\kf38}rri{\kf37}ture
+Dialogue: 0,0:01:34.92,0:01:36.50,DEFAULT,,0,0,0,,{\r}{\kf20}Soi{\kf20}gnons{\kf30} leurs{\kf10} mai{\kf78}sons
+Dialogue: 0,0:01:36.75,0:01:39.00,DEFAULT,,0,0,0,,{\r}{\kf10}Et{\kf31} nos{\kf31} a{\kf20}mis{\kf20} qui{\kf31} viennent{\kf41} du{\kf41} sud
+Dialogue: 0,0:01:39.33,0:01:42.00,DEFAULT,,0,0,0,,{\r}{\kf20}Tous{\kf20} nous{\kf20} les{\kf20} a{\kf49}ccue{\kf138}illons
+Dialogue: 0,0:01:42.67,0:01:44.75,DEFAULT,,0,0,0,,{\r}{\kf27}L'hi{\kf27}ver{\kf18} s'en{\kf18}fuit,{\kf27} l'hi{\kf27}ver{\kf27} s'en{\kf37}fuit
+Dialogue: 0,0:01:45.00,0:01:46.75,DEFAULT,,0,0,0,,{\r}{\kf22}Nos{\kf22} va{\kf11}cances{\kf22} fi{\kf22}nissent{\kf22} dans{\kf33} la{\kf21} joie
+Dialogue: 0,0:01:46.83,0:01:49.00,DEFAULT,,0,0,0,,{\r}{\kf26}L'hi{\kf26}ver{\kf26} s'en{\kf17}fuit,{\kf26} l'hi{\kf26}ver{\kf26} s'en{\kf44}fuit
+Dialogue: 0,0:01:49.17,0:01:51.00,DEFAULT,,0,0,0,,{\r}{\kf19}Bien{\kf10}tôt{\kf19} l'prin{\kf19}temps{\kf39} se{\kf39}ra{\kf38} là
+Dialogue: 0,0:01:50.92,0:01:53.08,DEFAULT,,0,0,0,,{\r}{\kf27}L'hi{\kf27}ver{\kf27} s'en{\kf18}fuit,{\kf27} l'hi{\kf27}ver{\kf27} s'en{\kf37}fuit
+Dialogue: 0,0:01:53.33,0:01:55.25,DEFAULT,,0,0,0,,{\r}{\kf10}Bien{\kf10}tôt{\kf29} l'prin{\kf10}temps{\kf38} se{\kf48}ra{\kf47} là
+Dialogue: 0,0:01:55.42,0:01:56.92,DEFAULT,,0,0,0,,{\r}{\kf11}Bien{\kf11}tôt{\kf32} l'prin{\kf21}temps{\kf21} se{\kf21}ra{\kf33} là
+Dialogue: 0,0:01:57.00,0:01:59.42,DEFAULT,,0,0,0,,{\r}{\kf20}Cul{\kf20}ti{\kf30}ver{\kf30} les{\kf30} fruits{\kf30} de{\kf30} la{\kf52} terre
+Dialogue: 0,0:01:59.58,0:02:01.25,DEFAULT,,0,0,0,,{\r}{\kf28}Quel{\kf19} tra{\kf28}vail{\kf19} e{\kf28}xi{\kf45}geant
+Dialogue: 0,0:02:01.75,0:02:03.83,DEFAULT,,0,0,0,,{\r}{\kf19}Mais{\kf28} a{\kf19}vec{\kf47} coeur{\kf19} et{\kf28} pa{\kf48}tience
+Dialogue: 0,0:02:04.08,0:02:05.50,DEFAULT,,0,0,0,,{\r}{\kf22}Tout{\kf22} l'monde{\kf22} s'ra{\kf22} con{\kf54}tent
+Dialogue: 0,0:02:05.75,0:02:07.50,DEFAULT,,0,0,0,,{\r}{\kf22}Pommes,{\kf22} ca{\kf22}ro{\kf22}ttes,{\kf22} z'et{\kf11} cé{\kf11}le{\kf43}ri
+Dialogue: 0,0:02:07.67,0:02:09.33,DEFAULT,,0,0,0,,{\r}{\kf20}Et{\kf10} des{\kf20} fleurs{\kf20} par{\kf29} cen{\kf68}taines
+Dialogue: 0,0:02:09.92,0:02:11.75,DEFAULT,,0,0,0,,{\r}{\kf37}Ca{\kf27} de{\kf18}mande{\kf27} beau{\kf18}coup{\kf18} d'e{\kf38}fforts
+Dialogue: 0,0:02:11.83,0:02:13.92,DEFAULT,,0,0,0,,{\r}{\kf21}Pour{\kf21} faire{\kf21} pou{\kf21}sser{\kf21} nos{\kf103} graines
+Dialogue: 0,0:02:14.33,0:02:16.42,DEFAULT,,0,0,0,,{\r}{\kf28}L'hi{\kf19}ver{\kf28} s'en{\kf19}fuit,{\kf19} l'hi{\kf19}ver{\kf28} s'en{\kf48}fuit
+Dialogue: 0,0:02:16.58,0:02:18.42,DEFAULT,,0,0,0,,{\r}{\kf27}Nos{\kf18} va{\kf18}cances{\kf18} fi{\kf27}nissent{\kf18} dans{\kf27} la{\kf30} joie
+Dialogue: 0,0:02:18.42,0:02:20.58,DEFAULT,,0,0,0,,{\r}{\kf28}L'hi{\kf28}ver{\kf19} s'en{\kf19}fuit,{\kf19} l'hi{\kf28}ver{\kf28} s'en{\kf48}fuit
+Dialogue: 0,0:02:20.75,0:02:22.50,DEFAULT,,0,0,0,,{\r}{\kf19}Bien{\kf10}tôt{\kf19} l'prin{\kf19}temps{\kf39} se{\kf49}ra{\kf20} là
+Dialogue: 0,0:02:22.58,0:02:24.75,DEFAULT,,0,0,0,,{\r}{\kf30}L'hi{\kf20}ver{\kf30} s'en{\kf20}fuit,{\kf20} l'hi{\kf20}ver{\kf30} s'en{\kf47}fuit
+Dialogue: 0,0:02:24.92,0:02:26.75,DEFAULT,,0,0,0,,{\r}{\kf18}Bien{\kf10}tôt{\kf27} l'prin{\kf18}temps{\kf27} se{\kf46}ra{\kf37} là
+Dialogue: 0,0:02:26.92,0:02:28.67,DEFAULT,,0,0,0,,{\r}{\kf18}Bien{\kf18}tôt{\kf28} l'prin{\kf10}temps{\kf37} se{\kf18}ra{\kf46} là
+Dialogue: 0,0:02:29.17,0:02:31.50,DEFAULT,,0,0,0,,{\r}{\kf19}De{\kf19} cha{\kf49}cun{\kf29} je{\kf19} co{\kf19}nnais{\kf39} les{\kf40} tâches
+Dialogue: 0,0:02:31.75,0:02:34.00,DEFAULT,,0,0,0,,{\r}{\kf18}Quel{\kf18} se{\kf18}ra{\kf36} mon{\kf27} ou{\kf108}vrage ?
+Dialogue: 0,0:02:34.25,0:02:36.50,DEFAULT,,0,0,0,,{\r}{\kf19}Je{\kf28} veux{\kf38} ai{\kf19}der{\kf19} de{\kf19} tout{\kf47} mon{\kf36} coeur
+Dialogue: 0,0:02:36.58,0:02:38.50,DEFAULT,,0,0,0,,{\r}{\kf18}Faire{\kf37} mon{\kf18} a{\kf27}ppren{\kf27}ti{\kf65}ssage
+Dialogue: 0,0:02:39.17,0:02:41.58,DEFAULT,,0,0,0,,{\r}{\kf21}Mais{\kf11} co{\kf32}mment{\kf21} faire{\kf21} sans{\kf32} pou{\kf42}voirs{\kf42} ma{\kf20}giques
+Dialogue: 0,0:02:41.92,0:02:43.92,DEFAULT,,0,0,0,,{\r}{\kf29}S't'un{\kf19} tra{\kf38}vail{\kf38} di{\kf29}ffi{\kf47}cile
+Dialogue: 0,0:02:44.08,0:02:46.58,DEFAULT,,0,0,0,,{\r}{\kf21}Mais{\kf21} j'veux{\kf21} prou{\kf52}ver{\kf31} qu'j'suis{\kf52} l'une{\kf52} d'eux
+Dialogue: 0,0:02:46.92,0:02:48.92,DEFAULT,,0,0,0,,{\r}{\kf27}J'fe{\kf18}rais{\kf36} de{\kf45} mon{\kf74} mieux
+Dialogue: 0,0:02:49.33,0:02:53.08,DEFAULT,,0,0,0,,{\r}{\kf27}J'fe{\kf18}rais{\kf36} de{\kf63} mon{\kf231} mieux
+Dialogue: 0,0:02:53.42,0:02:55.17,DEFAULT,,0,0,0,,{\r}{\kf18}Nos{\kf18} va{\kf18}cances{\kf18} fi{\kf28}nissent{\kf18} dans{\kf18} la{\kf39} joie
+Dialogue: 0,0:02:55.25,0:02:57.33,DEFAULT,,0,0,0,,{\r}{\kf22}L'hi{\kf22}ver{\kf22} s'en{\kf22}fuit,{\kf33} l'hi{\kf22}ver{\kf22} s'en{\kf43}fuit
+Dialogue: 0,0:02:57.58,0:02:59.33,DEFAULT,,0,0,0,,{\r}{\kf10}Bien{\kf19}tôt{\kf19} l'prin{\kf19}temps{\kf29} se{\kf49}ra{\kf30} là
+Dialogue: 0,0:02:59.33,0:03:01.58,DEFAULT,,0,0,0,,{\r}{\kf28}L'hi{\kf19}ver{\kf28} s'en{\kf28}fuit,{\kf28} l'hi{\kf19}ver{\kf28} s'en{\kf47}fuit
+Dialogue: 0,0:03:01.67,0:03:03.58,DEFAULT,,0,0,0,,{\r}{\kf19}Bien{\kf10}tôt{\kf19} l'prin{\kf19}temps{\kf29} se{\kf48}ra{\kf48} là
+Dialogue: 0,0:03:03.83,0:03:05.67,DEFAULT,,0,0,0,,{\r}{\kf10}Bien{\kf10}tôt{\kf18} l'prin{\kf18}temps{\kf37} se{\kf46}ra{\kf44} là
+Dialogue: 0,0:03:05.83,0:03:11.00,DEFAULT,,0,0,0,,{\r}{\kf10}Bien{\kf10}tôt{\kf18} l'prin{\kf10}temps{\kf36} se{\kf45}ra{\kf388} là

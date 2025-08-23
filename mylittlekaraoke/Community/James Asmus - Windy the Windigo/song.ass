@@ -1,41 +1,48 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Windy the Windigo
+Artist: James Asmus, Julie Nichols, Andrew Knox
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.92,0:00:05.13,DEFAULT,,0,0,0,,{\kf15}You{\kf15} may{\kf15} have{\kf34} heard{\kf15} the{\kf15} his{\kf15}to{\kf27}ry
-Dialogue: 0,0:00:05.51,0:00:07.35,DEFAULT,,0,0,0,,{\kf19}Of{\kf15} this{\kf27} great{\kf12} ho{\kf12}li{\kf45}day
-Dialogue: 0,0:00:08.21,0:00:10.68,DEFAULT,,0,0,0,,{\kf19}How{\kf19} po{\kf19}ny,{\kf34} 'corn,{\kf19} and{\kf15} pe{\kf15}ga{\kf19}sus
-Dialogue: 0,0:00:11.28,0:00:13.42,DEFAULT,,0,0,0,,{\kf27}Drove{\kf27} win{\kf15}di{\kf27}gos{\kf15} a{\kf49}way
-Dialogue: 0,0:00:14.32,0:00:15.82,DEFAULT,,0,0,0,,{\kf12}But{\kf12} have{\kf12} you{\kf12} e{\kf15}ver{\kf19} won{\kf30}dered
-Dialogue: 0,0:00:17.06,0:00:19.27,DEFAULT,,0,0,0,,{\kf27}Since{\kf30} they{\kf19} dis{\kf23}ap{\kf83}peared
-Dialogue: 0,0:00:19.83,0:00:23.02,DEFAULT,,0,0,0,,{\kf30}How{\kf23} we{\kf23} get{\kf27} snow{\kf27} on{\kf23} Hearths{\kf27}warm{\kf42}ing
-Dialogue: 0,0:00:23.36,0:00:27.07,DEFAULT,,0,0,0,,{\kf27}Each{\kf23} and{\kf30} e{\kf30}very{\kf199} year?
-Dialogue: 0,0:00:27.86,0:00:29.66,DEFAULT,,0,0,0,,{\kf30}Win{\kf30}dy{\kf12} the{\kf12} Win{\kf12}di{\kf34}go!
-Dialogue: 0,0:00:29.81,0:00:31.61,DEFAULT,,0,0,0,,{\kf15}She's{\kf15} the{\kf19} one{\kf12} to{\kf12} make{\kf12} it{\kf34} snow
-Dialogue: 0,0:00:31.80,0:00:34.91,DEFAULT,,0,0,0,,{\kf15}Just{\kf19} e{\kf15}nough{\kf15} on{\kf15} each{\kf19} Hearths{\kf15}warm{\kf15}ing{\kf113} Eve!
-Dialogue: 0,0:00:35.51,0:00:37.50,DEFAULT,,0,0,0,,{\kf19}So{\kf19} fi{\kf15}re{\kf19} up{\kf12} the{\kf19} fi{\kf15}re{\kf23}place!
-Dialogue: 0,0:00:37.80,0:00:39.45,DEFAULT,,0,0,0,,{\kf15}Pour{\kf15} hot{\kf19} ci{\kf19}der{\kf15} in{\kf19} your{\kf19} face!
-Dialogue: 0,0:00:39.60,0:00:43.20,DEFAULT,,0,0,0,,{\kf12}She'll{\kf15} bring{\kf15} the{\kf15} cold{\kf15} as{\kf19} long{\kf15} as{\kf15} you{\kf15} be{\kf147}lieve!
-Dialogue: 0,0:00:43.46,0:00:45.33,DEFAULT,,0,0,0,,{\kf15}Which{\kf19} brings{\kf15} us{\kf15} back{\kf12} to{\kf12} the{\kf19} coo{\kf27}kies!
-Dialogue: 0,0:00:45.63,0:00:47.70,DEFAULT,,0,0,0,,{\kf30}These{\kf15} are{\kf19} Win{\kf27}dy's{\kf19} fa{\kf23}vorite!
-Dialogue: 0,0:00:48.03,0:00:51.00,DEFAULT,,0,0,0,,{\kf12}You{\kf15} see,{\kf19} kind{\kf19}ness{\kf19} keeps{\kf27} most{\kf19} win{\kf15}di{\kf23}gos{\kf12} a{\kf27}way
-Dialogue: 0,0:00:51.56,0:00:53.02,DEFAULT,,0,0,0,,{\kf19}But{\kf19} Win{\kf19}dy's{\kf23} spe{\kf27}cial!
-Dialogue: 0,0:00:53.58,0:00:55.35,DEFAULT,,0,0,0,,{\kf15}Show{\kf12}ing{\kf8} her{\kf8} a{\kf8} lit{\kf12}tle{\kf23} kind{\kf15}ness{\kf12} en{\kf19}sures
-Dialogue: 0,0:00:55.53,0:00:57.48,DEFAULT,,0,0,0,,{\kf12}We{\kf19} have{\kf15} just{\kf12} the{\kf12} right{\kf12} a{\kf12}mount{\kf12} of{\kf19} snow
-Dialogue: 0,0:00:57.93,0:00:59.73,DEFAULT,,0,0,0,,{\kf12}To{\kf15} make{\kf23} Hearths{\kf15}warm{\kf15}ing{\kf27} co{\kf23}zy
-Dialogue: 0,0:01:00.41,0:01:01.31,DEFAULT,,0,0,0,,{\kf90}So
-Dialogue: 0,0:01:02.36,0:01:04.23,DEFAULT,,0,0,0,,{\kf12}When{\kf15} you{\kf15} want{\kf23} cold{\kf8} but{\kf15} not{\kf15} too{\kf23} much
-Dialogue: 0,0:01:04.50,0:01:06.07,DEFAULT,,0,0,0,,{\kf19}Win{\kf15}dy{\kf23} brings{\kf12} her{\kf15} ma{\kf12}gic{\kf12} touch!
-Dialogue: 0,0:01:06.22,0:01:09.97,DEFAULT,,0,0,0,,{\kf12}And{\kf12} a{\kf12} per{\kf19}fect{\kf19} gust{\kf19} of{\kf19} nice{\kf19} and{\kf19} fros{\kf19}ty{\kf139} air
-Dialogue: 0,0:01:10.27,0:01:12.30,DEFAULT,,0,0,0,,{\kf15}So{\kf19} buy{\kf15} these{\kf19} coo{\kf15}kies,{\kf15} tell{\kf12} you{\kf38} why
-Dialogue: 0,0:01:12.56,0:01:14.10,DEFAULT,,0,0,0,,{\kf12}Throw{\kf12} them{\kf15} up{\kf15} in{\kf12}to{\kf12} the{\kf30} sky
-Dialogue: 0,0:01:14.25,0:01:18.07,DEFAULT,,0,0,0,,{\kf15}And{\kf30} then{\kf15} you{\kf15} will{\kf42} know{\kf19} that{\kf75} Win{\kf60}dy
-Dialogue: 0,0:01:18.45,0:01:20.25,DEFAULT,,0,0,0,,{\kf75}Will{\kf83} be
-Dialogue: 0,0:01:20.43,0:01:23.92,DEFAULT,,0,0,0,,{\kf60}There{\kf19}~{\kf72}~{\kf19}~{\kf64}~{\kf23}~{\kf49}~!
+Dialogue: 0,0:00:02.92,0:00:05.14,DEFAULT,,0,0,0,,{\r}{\kf22}You{\kf22} may{\kf22} have{\kf50} heard{\kf22} the{\kf22} his{\kf22}to{\kf39}ry
+Dialogue: 0,0:00:05.51,0:00:07.35,DEFAULT,,0,0,0,,{\r}{\kf27}Of{\kf22} this{\kf38} great{\kf16} ho{\kf16}li{\kf65}day
+Dialogue: 0,0:00:08.21,0:00:10.69,DEFAULT,,0,0,0,,{\r}{\kf30}How{\kf30} po{\kf30}ny,{\kf53} 'corn,{\kf30} and{\kf24} pe{\kf24}ga{\kf27}sus
+Dialogue: 0,0:00:11.29,0:00:13.43,DEFAULT,,0,0,0,,{\r}{\kf36}Drove{\kf36} win{\kf20}di{\kf36}gos{\kf20} a{\kf66}way
+Dialogue: 0,0:00:14.32,0:00:15.82,DEFAULT,,0,0,0,,{\r}{\kf16}But{\kf16} have{\kf16} you{\kf16} e{\kf21}ver{\kf26} won{\kf39}dered
+Dialogue: 0,0:00:17.06,0:00:19.27,DEFAULT,,0,0,0,,{\r}{\kf32}Since{\kf37} they{\kf23} dis{\kf28}ap{\kf101}peared
+Dialogue: 0,0:00:19.84,0:00:23.02,DEFAULT,,0,0,0,,{\r}{\kf44}How{\kf33} we{\kf33} get{\kf39} snow{\kf39} on{\kf33} Hearths{\kf39}warm{\kf59}ing
+Dialogue: 0,0:00:23.36,0:00:27.07,DEFAULT,,0,0,0,,{\r}{\kf32}Each{\kf27} and{\kf36} e{\kf36}very{\kf240} year?
+Dialogue: 0,0:00:27.86,0:00:29.66,DEFAULT,,0,0,0,,{\r}{\kf42}Win{\kf42}dy{\kf16} the{\kf16} Win{\kf16}di{\kf48}go!
+Dialogue: 0,0:00:29.81,0:00:31.61,DEFAULT,,0,0,0,,{\r}{\kf23}She's{\kf23} the{\kf29} one{\kf17} to{\kf17} make{\kf17} it{\kf54} snow
+Dialogue: 0,0:00:31.80,0:00:34.91,DEFAULT,,0,0,0,,{\r}{\kf19}Just{\kf24} e{\kf19}nough{\kf19} on{\kf19} each{\kf24} Hearths{\kf19}warm{\kf19}ing{\kf149} Eve!
+Dialogue: 0,0:00:35.51,0:00:37.50,DEFAULT,,0,0,0,,{\r}{\kf27}So{\kf27} fi{\kf22}re{\kf27} up{\kf16} the{\kf27} fi{\kf22}re{\kf31}place!
+Dialogue: 0,0:00:37.80,0:00:39.45,DEFAULT,,0,0,0,,{\r}{\kf21}Pour{\kf21} hot{\kf26} ci{\kf26}der{\kf21} in{\kf26} your{\kf24} face!
+Dialogue: 0,0:00:39.60,0:00:43.20,DEFAULT,,0,0,0,,{\r}{\kf14}She'll{\kf19} bring{\kf19} the{\kf19} cold{\kf19} as{\kf24} long{\kf19} as{\kf19} you{\kf19} be{\kf189}lieve!
+Dialogue: 0,0:00:43.46,0:00:45.34,DEFAULT,,0,0,0,,{\r}{\kf21}Which{\kf27} brings{\kf21} us{\kf21} back{\kf16} to{\kf16} the{\kf27} coo{\kf39}kies!
+Dialogue: 0,0:00:45.64,0:00:47.70,DEFAULT,,0,0,0,,{\r}{\kf47}These{\kf24} are{\kf29} Win{\kf41}dy's{\kf29} fa{\kf36}vorite!
+Dialogue: 0,0:00:48.04,0:00:51.00,DEFAULT,,0,0,0,,{\r}{\kf16}You{\kf22} see,{\kf27} kind{\kf27}ness{\kf27} keeps{\kf38} most{\kf27} win{\kf22}di{\kf33}gos{\kf16} a{\kf41}way
+Dialogue: 0,0:00:51.56,0:00:53.02,DEFAULT,,0,0,0,,{\r}{\kf26}But{\kf26} Win{\kf26}dy's{\kf31} spe{\kf37}cial!
+Dialogue: 0,0:00:53.59,0:00:55.35,DEFAULT,,0,0,0,,{\r}{\kf21}Show{\kf16}ing{\kf10} her{\kf10} a{\kf10} lit{\kf16}tle{\kf31} kind{\kf21}ness{\kf16} en{\kf25}sures
+Dialogue: 0,0:00:55.54,0:00:57.49,DEFAULT,,0,0,0,,{\r}{\kf18}We{\kf30} have{\kf24} just{\kf18} the{\kf18} right{\kf18} a{\kf18}mount{\kf18} of{\kf33} snow
+Dialogue: 0,0:00:57.94,0:00:59.74,DEFAULT,,0,0,0,,{\r}{\kf16}To{\kf21} make{\kf32} Hearths{\kf21}warm{\kf21}ing{\kf37} co{\kf32}zy
+Dialogue: 0,0:01:00.41,0:01:01.31,DEFAULT,,0,0,0,,{\r}{\kf90}So
+Dialogue: 0,0:01:02.36,0:01:04.24,DEFAULT,,0,0,0,,{\r}{\kf17}When{\kf23} you{\kf23} want{\kf34} cold{\kf11} but{\kf23} not{\kf23} too{\kf34} much
+Dialogue: 0,0:01:04.50,0:01:06.08,DEFAULT,,0,0,0,,{\r}{\kf28}Win{\kf23}dy{\kf34} brings{\kf17} her{\kf23} ma{\kf17}gic{\kf16} touch!
+Dialogue: 0,0:01:06.22,0:01:09.97,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf14} a{\kf14} per{\kf23}fect{\kf23} gust{\kf23} of{\kf23} nice{\kf23} and{\kf23} fros{\kf23}ty{\kf172} air
+Dialogue: 0,0:01:10.28,0:01:12.30,DEFAULT,,0,0,0,,{\r}{\kf21}So{\kf26} buy{\kf21} these{\kf26} coo{\kf21}kies,{\kf21} tell{\kf16} you{\kf51} why
+Dialogue: 0,0:01:12.56,0:01:14.10,DEFAULT,,0,0,0,,{\r}{\kf16}Throw{\kf16} them{\kf22} up{\kf22} in{\kf16}to{\kf16} the{\kf46} sky
+Dialogue: 0,0:01:14.25,0:01:18.08,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf42} then{\kf21} you{\kf21} will{\kf58} know{\kf27} that{\kf106} Win{\kf86}dy
+Dialogue: 0,0:01:18.45,0:01:20.25,DEFAULT,,0,0,0,,{\r}{\kf86}Will{\kf94} be
+Dialogue: 0,0:01:20.44,0:01:23.92,DEFAULT,,0,0,0,,{\r}{\kf69}There{\kf22}~{\kf82}~{\kf22}~{\kf73}~{\kf26}~{\kf55}~!

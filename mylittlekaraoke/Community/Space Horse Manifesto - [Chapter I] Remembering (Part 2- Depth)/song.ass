@@ -1,34 +1,41 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: [Chapter I] Remembering (Part 2: Depth)
+Artist: Space Horse Manifesto
+Original Timing: mylittlekaraoke.com by SqueakyBelle
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:47.99,0:00:51.46,DEFAULT,,0,0,0,,{\kf41}Three{\kf25} mi{\kf22}nutes{\kf16} and{\kf47} dawn{\kf19} will{\kf25} a{\kf13}rise{\kf19}~{\kf16} a{\kf16}gain{\kf28}~
-Dialogue: 0,0:00:51.95,0:00:55.52,DEFAULT,,0,0,0,,{\kf38}Three{\kf22} mi{\kf16}nutes{\kf16} and{\kf19} a{\kf19} bles{\kf19}sing{\kf28} will{\kf25} shine{\kf19}~{\kf19} on{\kf25} me
-Dialogue: 0,0:00:55.92,0:00:58.46,DEFAULT,,0,0,0,,{\kf25}Fil{\kf25}ling{\kf13} me{\kf19} with{\kf22} song{\kf13} and{\kf19} wis{\kf19}dom{\kf13} and{\kf31} joy
-Dialogue: 0,0:00:58.68,0:01:00.45,DEFAULT,,0,0,0,,{\kf22}'Cause{\kf19} I'll{\kf19} stay{\kf10} close{\kf22}~{\kf16} to{\kf28} you
-Dialogue: 0,0:01:00.63,0:01:03.92,DEFAULT,,0,0,0,,{\kf28}With{\kf13}out{\kf19} fear{\kf19}~{\kf25} that{\kf19} you{\kf31} might{\kf25} for{\kf19}get{\kf19}~{\kf50}~
-Dialogue: 0,0:01:11.08,0:01:15.29,DEFAULT,,0,0,0,,{\kf22}O{\kf22}a{\kf19}sis{\kf19} in{\kf19} my{\kf13} eyes{\kf25}~,{\kf22} an{\kf19} an{\kf19}~{\kf19}chor{\kf28} kee{\kf16}~{\kf28}ping{\kf16}~{\kf16} me{\kf25} sane
-Dialogue: 0,0:01:15.57,0:01:19.41,DEFAULT,,0,0,0,,{\kf16}"And{\kf22} you'll{\kf38} prove{\kf22} to{\kf19} me{\kf16} that{\kf16} I{\kf25} am{\kf22} made{\kf38} to{\kf31} be{\kf19} loved{\kf19}~"
-Dialogue: 0,0:01:19.60,0:01:22.26,DEFAULT,,0,0,0,,{\kf13}I{\kf19} pray{\kf16} this{\kf25} sto{\kf16}ry{\kf22} won't{\kf16} be{\kf25} end{\kf16}ing{\kf16} in{\kf25} pain
-Dialogue: 0,0:01:22.45,0:01:24.47,DEFAULT,,0,0,0,,{\kf25}'Cause{\kf16} I{\kf16} can't{\kf19} reach{\kf16} for{\kf22} you{\kf19} my{\kf25} dear
-Dialogue: 0,0:01:24.71,0:01:28.56,DEFAULT,,0,0,0,,{\kf22}As{\kf19} these{\kf19}~{\kf19} wings{\kf22} are{\kf35} stuck{\kf16} here{\kf25}~{\kf131}~
-Dialogue: 0,0:01:43.59,0:01:47.34,DEFAULT,,0,0,0,,{\kf16}Warm{\kf25}~{\kf62} breeze{\kf31} af{\kf25}ter{\kf13} warm{\kf19}~{\kf47} breeze{\kf35} I{\kf35} try
-Dialogue: 0,0:01:47.52,0:01:52.14,DEFAULT,,0,0,0,,{\kf19}And{\kf19} seize{\kf22} one{\kf19} of{\kf19} all{\kf19} these{\kf22} mo{\kf25}ments{\kf28} slip{\kf19}ping{\kf25} by{\kf16}~{\kf112}~
-Dialogue: 0,0:01:58.90,0:02:02.77,DEFAULT,,0,0,0,,{\kf22}Seiz{\kf22}ing{\kf19} us{\kf25} be{\kf25}fore{\kf25} you'll{\kf19} fade{\kf25}~{\kf35} in{\kf35}to{\kf13} me{\kf13}~{\kf35}mo{\kf13}ries
-Dialogue: 0,0:02:02.96,0:02:06.86,DEFAULT,,0,0,0,,{\kf22}Sav{\kf19}ing{\kf22} you{\kf19} be{\kf22}fore{\kf28} I'll{\kf47} fade{\kf38} in{\kf35}to{\kf25} my{\kf47} dreams
-Dialogue: 0,0:02:07.14,0:02:09.84,DEFAULT,,0,0,0,,{\kf16}And{\kf22} as{\kf19} your{\kf28} An{\kf35}gel,{\kf19} I{\kf19}~{\kf59} know
-Dialogue: 0,0:02:10.12,0:02:16.07,DEFAULT,,0,0,0,,{\kf19}This{\kf22} ho{\kf22}ly{\kf19} ri{\kf41}ver{\kf38} will{\kf47} for{\kf13}e{\kf28}~{\kf38}ver{\kf115} flow{\kf81}~{\kf25}~
-Dialogue: 0,0:02:16.31,0:02:17.86,DEFAULT,,0,0,0,,{\kf22}Hold{\kf56} on,{\kf25} my{\kf28} dear
-Dialogue: 0,0:02:18.02,0:02:22.39,DEFAULT,,0,0,0,,{\kf19}Cause{\kf19} I{\kf22} will{\kf44} run,{\kf44} run,{\kf38} run{\kf19} to{\kf41} save{\kf22} you{\kf16} in{\kf19} the{\kf16} mor{\kf31}~{\kf13}ning—
-Dialogue: 0,0:02:22.54,0:02:26.70,DEFAULT,,0,0,0,,{\kf19}O{\kf19}a{\kf22}sis{\kf22} in{\kf19} my{\kf13} eyes{\kf22}~,{\kf25} an{\kf19} an{\kf19}~{\kf19}chor{\kf25} keep{\kf16}~{\kf25}ing{\kf16}~{\kf16} me{\kf25} sane
-Dialogue: 0,0:02:26.98,0:02:30.82,DEFAULT,,0,0,0,,{\kf16}"And{\kf19} you'll{\kf38} prove{\kf22} to{\kf19} me{\kf16} that{\kf16} I{\kf22} am{\kf19} made{\kf41} to{\kf28} be{\kf16} loved{\kf19}~"
-Dialogue: 0,0:02:31.00,0:02:33.67,DEFAULT,,0,0,0,,{\kf16}I{\kf19} pray{\kf16} this{\kf25} sto{\kf16}ry{\kf22} won't{\kf19} be{\kf22} end{\kf19}ing{\kf16} in{\kf25} pain
-Dialogue: 0,0:02:33.86,0:02:35.87,DEFAULT,,0,0,0,,{\kf25}'Cause{\kf19} I{\kf16} won't{\kf19} reach{\kf16} for{\kf22} you{\kf19} my{\kf25} dear
-Dialogue: 0,0:02:36.15,0:02:39.96,DEFAULT,,0,0,0,,{\kf19}As{\kf19} these{\kf19}~{\kf19} wings{\kf22} are{\kf35} stuck{\kf16} here{\kf25}~{\kf134}~
+Dialogue: 0,0:00:47.99,0:00:51.46,DEFAULT,,0,0,0,,{\r}{\kf50}Three{\kf31} mi{\kf27}nutes{\kf19} and{\kf57} dawn{\kf23} will{\kf31} a{\kf15}rise{\kf23}~{\kf19} a{\kf19}gain{\kf33}~
+Dialogue: 0,0:00:51.96,0:00:55.52,DEFAULT,,0,0,0,,{\r}{\kf51}Three{\kf30} mi{\kf21}nutes{\kf21} and{\kf25} a{\kf25} bles{\kf25}sing{\kf38} will{\kf34} shine{\kf25}~{\kf25} on{\kf36} me
+Dialogue: 0,0:00:55.93,0:00:58.47,DEFAULT,,0,0,0,,{\r}{\kf32}Fil{\kf32}ling{\kf16} me{\kf24} with{\kf28} song{\kf16} and{\kf24} wis{\kf24}dom{\kf16} and{\kf42} joy
+Dialogue: 0,0:00:58.69,0:01:00.45,DEFAULT,,0,0,0,,{\r}{\kf29}'Cause{\kf25} I'll{\kf25} stay{\kf12} close{\kf29}~{\kf21} to{\kf36} you
+Dialogue: 0,0:01:00.64,0:01:03.92,DEFAULT,,0,0,0,,{\r}{\kf35}With{\kf15}out{\kf23} fear{\kf23}~{\kf31} that{\kf23} you{\kf39} might{\kf31} for{\kf23}get{\kf23}~{\kf63}~
+Dialogue: 0,0:01:11.08,0:01:15.30,DEFAULT,,0,0,0,,{\r}{\kf27}O{\kf27}a{\kf23}sis{\kf23} in{\kf23} my{\kf15} eyes{\kf31}~,{\kf27} an{\kf23} an{\kf23}~{\kf23}chor{\kf34} kee{\kf19}~{\kf34}ping{\kf19}~{\kf19} me{\kf31} sane
+Dialogue: 0,0:01:15.58,0:01:19.42,DEFAULT,,0,0,0,,{\r}{\kf20}"And{\kf28} you'll{\kf48} prove{\kf28} to{\kf24} me{\kf20} that{\kf20} I{\kf32} am{\kf28} made{\kf48} to{\kf40} be{\kf24} loved{\kf24}~"
+Dialogue: 0,0:01:19.60,0:01:22.27,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf24} pray{\kf20} this{\kf32} sto{\kf20}ry{\kf28} won't{\kf20} be{\kf32} end{\kf20}ing{\kf20} in{\kf35} pain
+Dialogue: 0,0:01:22.46,0:01:24.47,DEFAULT,,0,0,0,,{\r}{\kf32}'Cause{\kf20} I{\kf20} can't{\kf24} reach{\kf20} for{\kf28} you{\kf24} my{\kf33} dear
+Dialogue: 0,0:01:24.72,0:01:28.56,DEFAULT,,0,0,0,,{\r}{\kf27}As{\kf24} these{\kf24}~{\kf24} wings{\kf27} are{\kf43} stuck{\kf20} here{\kf31}~{\kf164}~
+Dialogue: 0,0:01:43.59,0:01:47.34,DEFAULT,,0,0,0,,{\r}{\kf19}Warm{\kf31}~{\kf77} breeze{\kf38} af{\kf31}ter{\kf15} warm{\kf23}~{\kf57} breeze{\kf42} I{\kf42} try
+Dialogue: 0,0:01:47.53,0:01:52.15,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf24} seize{\kf28} one{\kf24} of{\kf24} all{\kf24} these{\kf28} mo{\kf32}ments{\kf36} slip{\kf24}ping{\kf32} by{\kf20}~{\kf142}~
+Dialogue: 0,0:01:58.90,0:02:02.78,DEFAULT,,0,0,0,,{\r}{\kf26}Seiz{\kf26}ing{\kf23} us{\kf30} be{\kf30}fore{\kf30} you'll{\kf23} fade{\kf30}~{\kf41} in{\kf41}to{\kf15} me{\kf15}~{\kf41}mo{\kf16}ries
+Dialogue: 0,0:02:02.96,0:02:06.87,DEFAULT,,0,0,0,,{\r}{\kf27}Sav{\kf23}ing{\kf27} you{\kf23} be{\kf27}fore{\kf34} I'll{\kf57} fade{\kf45} in{\kf42}to{\kf30} my{\kf55} dreams
+Dialogue: 0,0:02:07.15,0:02:09.84,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf27} as{\kf23} your{\kf35} An{\kf43}gel,{\kf23} I{\kf23}~{\kf76} know
+Dialogue: 0,0:02:10.12,0:02:16.07,DEFAULT,,0,0,0,,{\r}{\kf22}This{\kf26} ho{\kf26}ly{\kf22} ri{\kf48}ver{\kf44} will{\kf55} for{\kf15}e{\kf33}~{\kf44}ver{\kf136} flow{\kf95}~{\kf29}~
+Dialogue: 0,0:02:16.32,0:02:17.87,DEFAULT,,0,0,0,,{\r}{\kf26}Hold{\kf66} on,{\kf30} my{\kf33} dear
+Dialogue: 0,0:02:18.02,0:02:22.39,DEFAULT,,0,0,0,,{\r}{\kf23}Cause{\kf23} I{\kf27} will{\kf53} run,{\kf53} run,{\kf46} run{\kf23} to{\kf49} save{\kf27} you{\kf19} in{\kf23} the{\kf19} mor{\kf38}~{\kf14}ning—
+Dialogue: 0,0:02:22.55,0:02:26.70,DEFAULT,,0,0,0,,{\r}{\kf23}O{\kf23}a{\kf27}sis{\kf27} in{\kf23} my{\kf15} eyes{\kf27}~,{\kf31} an{\kf23} an{\kf23}~{\kf23}chor{\kf31} keep{\kf19}~{\kf31}ing{\kf19}~{\kf19} me{\kf31} sane
+Dialogue: 0,0:02:26.98,0:02:30.82,DEFAULT,,0,0,0,,{\r}{\kf21}"And{\kf25} you'll{\kf50} prove{\kf29} to{\kf25} me{\kf21} that{\kf21} I{\kf29} am{\kf25} made{\kf54} to{\kf38} be{\kf21} loved{\kf25}~"
+Dialogue: 0,0:02:31.01,0:02:33.67,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf24} pray{\kf20} this{\kf31} sto{\kf20}ry{\kf27} won't{\kf24} be{\kf27} end{\kf24}ing{\kf20} in{\kf30} pain
+Dialogue: 0,0:02:33.86,0:02:35.88,DEFAULT,,0,0,0,,{\r}{\kf32}'Cause{\kf24} I{\kf20} won't{\kf24} reach{\kf20} for{\kf28} you{\kf24} my{\kf29} dear
+Dialogue: 0,0:02:36.15,0:02:39.97,DEFAULT,,0,0,0,,{\r}{\kf23}As{\kf23} these{\kf23}~{\kf23} wings{\kf27} are{\kf43} stuck{\kf19} here{\kf31}~{\kf169}~

@@ -1,77 +1,84 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: We'll Make Our Mark
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.29,0:00:07.65,DEFAULT,,0,0,0,,{\kf12}We've{\kf12} been{\kf27} sear{\kf15}chin'{\kf23} for{\kf15} our{\kf12} cu{\kf15}-u{\kf19}tie{\kf38} marks
-Dialogue: 0,0:00:08.06,0:00:09.19,DEFAULT,,0,0,0,,{\kf19}For{\kf15} a{\kf15} whi{\kf15}-ile{\kf34} now
-Dialogue: 0,0:00:10.12,0:00:12.67,DEFAULT,,0,0,0,,{\kf12}Tryin'{\kf12} to{\kf27} find{\kf19} out{\kf38} how{\kf23} we{\kf12} fi{\kf15}-it{\kf53} in
-Dialogue: 0,0:00:13.72,0:00:16.01,DEFAULT,,0,0,0,,{\kf27}So{\kf15} ma{\kf19}ny{\kf30} ways{\kf19} we've{\kf30} tried{\kf15} be{\kf34}fore
-Dialogue: 0,0:00:16.39,0:00:18.45,DEFAULT,,0,0,0,,{\kf23}But{\kf15} we{\kf23} keep{\kf15} on{\kf30} try{\kf19}in'{\kf34} more
-Dialogue: 0,0:00:18.82,0:00:22.31,DEFAULT,,0,0,0,,{\kf27}'Cause{\kf15} the{\kf23} Cu{\kf19}tie{\kf23} Mark{\kf23} Cru{\kf30}sa{\kf23}ders{\kf30} don't{\kf19} give{\kf57} in
-Dialogue: 0,0:00:23.29,0:00:25.24,DEFAULT,,0,0,0,,{\kf27}We'll{\kf30} make{\kf42} our{\kf68} mark
-Dialogue: 0,0:00:26.02,0:00:28.05,DEFAULT,,0,0,0,,{\kf45}One{\kf53} way{\kf23} or{\kf12} a{\kf23}no{\kf12}ther
-Dialogue: 0,0:00:28.20,0:00:29.85,DEFAULT,,0,0,0,,{\kf19}We'll{\kf27} make{\kf42} our{\kf53} mark
-Dialogue: 0,0:00:30.86,0:00:33.07,DEFAULT,,0,0,0,,{\kf19}On{\kf12} the{\kf27} day{\kf19} that{\kf30} we{\kf15} dis{\kf27}co{\kf27}ver
-Dialogue: 0,0:00:33.56,0:00:36.45,DEFAULT,,0,0,0,,{\kf19}The{\kf53} ul{\kf27}ti{\kf42}mate{\kf45} re{\kf57}ward
-Dialogue: 0,0:00:36.82,0:00:38.85,DEFAULT,,0,0,0,,{\kf23}Of{\kf23} our{\kf27} cu{\kf42}tie{\kf49} marks
-Dialogue: 0,0:00:39.15,0:00:40.76,DEFAULT,,0,0,0,,{\kf23}Now{\kf30} that's{\kf27} more{\kf30} like{\kf27} it!
-Dialogue: 0,0:00:45.90,0:00:48.11,DEFAULT,,0,0,0,,{\kf15}We{\kf23} all{\kf19} got{\kf15} the{\kf30} same{\kf30} cu{\kf19}tie{\kf30} mark!
-Dialogue: 0,0:00:48.60,0:00:51.26,DEFAULT,,0,0,0,,{\kf19}Cu{\kf12}tie{\kf23} Mark{\kf15} Cru{\kf27}sa{\kf23}ders{\kf19} for{\kf27}e{\kf72}ver!
-Dialogue: 0,0:00:52.31,0:00:54.56,DEFAULT,,0,0,0,,{\kf12}We{\kf12} were{\kf27} sear{\kf27}ching{\kf19} for{\kf15} our{\kf30} cu{\kf23}tie{\kf27} marks
-Dialogue: 0,0:00:55.05,0:00:56.14,DEFAULT,,0,0,0,,{\kf19}For{\kf15} a{\kf30} while{\kf34} there
-Dialogue: 0,0:00:57.11,0:00:59.51,DEFAULT,,0,0,0,,{\kf15}Trying{\kf12} to{\kf23} find{\kf30} out{\kf38} how{\kf30} we{\kf23} fit{\kf45} in
-Dialogue: 0,0:01:00.67,0:01:03.07,DEFAULT,,0,0,0,,{\kf23}So{\kf19} ma{\kf23}ny{\kf30} ways{\kf19} we've{\kf34} tried{\kf15} be{\kf38}fore
-Dialogue: 0,0:01:03.41,0:01:05.40,DEFAULT,,0,0,0,,{\kf19}But{\kf19} we{\kf23} kept{\kf19} on{\kf34} try{\kf23}in'{\kf30} more
-Dialogue: 0,0:01:05.81,0:01:09.37,DEFAULT,,0,0,0,,{\kf27}'Cause{\kf15} the{\kf19} Cu{\kf23}tie{\kf30} Mark{\kf19} Cru{\kf27}sa{\kf30}ders{\kf27} don't{\kf15} give{\kf57} in
-Dialogue: 0,0:01:11.55,0:01:14.02,DEFAULT,,0,0,0,,{\kf15}Now{\kf12} we{\kf23} know{\kf8} what{\kf8} it{\kf27} took{\kf27} all{\kf19} a{\kf53}long
-Dialogue: 0,0:01:15.49,0:01:18.90,DEFAULT,,0,0,0,,{\kf19}And{\kf15} our{\kf23} jour{\kf27}ney{\kf30} here{\kf19} is{\kf19} ne{\kf19}ver{\kf27} real{\kf23}ly{\kf60} done
-Dialogue: 0,0:01:19.99,0:01:22.27,DEFAULT,,0,0,0,,{\kf27}For{\kf12} it{\kf23} is{\kf30} more{\kf27} than{\kf27} just{\kf12} a{\kf34} mark
-Dialogue: 0,0:01:22.65,0:01:24.71,DEFAULT,,0,0,0,,{\kf19}It's{\kf12} a{\kf23} place{\kf19} for{\kf23} us{\kf15} to{\kf34} start
-Dialogue: 0,0:01:25.01,0:01:28.46,DEFAULT,,0,0,0,,{\kf27}An{\kf23} ad{\kf15}ven{\kf27}ture{\kf27} that{\kf27} has{\kf27} on{\kf19}ly{\kf30} just{\kf19} be{\kf53}gun
-Dialogue: 0,0:01:29.47,0:01:31.39,DEFAULT,,0,0,0,,{\kf19}We'll{\kf27} make{\kf42} our{\kf64} mark
-Dialogue: 0,0:01:32.21,0:01:34.12,DEFAULT,,0,0,0,,{\kf23}Show{\kf15} the{\kf30} world{\kf19} what{\kf27} we{\kf19} can{\kf27} do
-Dialogue: 0,0:01:34.35,0:01:36.11,DEFAULT,,0,0,0,,{\kf19}We'll{\kf27} make{\kf42} our{\kf57} mark
-Dialogue: 0,0:01:37.05,0:01:39.04,DEFAULT,,0,0,0,,{\kf19}Hel{\kf19}ping{\kf19} fil{\kf19}lies{\kf23} to{\kf27} break{\kf30} through
-Dialogue: 0,0:01:39.37,0:01:42.64,DEFAULT,,0,0,0,,{\kf27}To{\kf23} the{\kf38} ul{\kf30}ti{\kf45}mate{\kf49} re{\kf53}ward
-Dialogue: 0,0:01:42.97,0:01:44.96,DEFAULT,,0,0,0,,{\kf30}Of{\kf23} a{\kf30} cu{\kf38}tie{\kf45} mark
-Dialogue: 0,0:01:45.60,0:01:46.87,DEFAULT,,0,0,0,,{\kf42}All{\kf19} right,{\kf12} e{\kf15}very{\kf15}po{\kf15}ny!
-Dialogue: 0,0:01:47.21,0:01:48.26,DEFAULT,,0,0,0,,{\kf12}Get{\kf15} rea{\kf8}dy{\kf12} for{\kf12} the{\kf19} big{\kf12}gest
-Dialogue: 0,0:01:48.41,0:01:50.59,DEFAULT,,0,0,0,,{\kf15}Cute{\kf15}cea{\kf19}Ã±e{\kf19}ra{\kf12} ce{\kf15}le{\kf15}bra{\kf19}tion{\kf15} e{\kf42}ver!
-Dialogue: 0,0:01:51.45,0:01:52.35,DEFAULT,,0,0,0,,{\kf19}Oh,{\kf15} su{\kf19}gar{\kf23}cube!
-Dialogue: 0,0:01:52.80,0:01:53.96,DEFAULT,,0,0,0,,{\kf12}If{\kf15} Mom{\kf12} and{\kf19} Dad{\kf12} were{\kf30} here,
-Dialogue: 0,0:01:54.26,0:01:55.61,DEFAULT,,0,0,0,,{\kf19}They'd{\kf12} be{\kf19} so{\kf12} proud{\kf12} of{\kf19} ya
-Dialogue: 0,0:01:55.87,0:01:57.56,DEFAULT,,0,0,0,,{\kf34}Oh!{\kf27} Thanks,{\kf15} Ap{\kf19}ple{\kf27}jack
-Dialogue: 0,0:01:58.05,0:01:59.92,DEFAULT,,0,0,0,,{\kf27}Now{\kf19} go{\kf15} on{\kf15} and{\kf19} par{\kf12}ty{\kf12} with{\kf12} your{\kf30} pals
-Dialogue: 0,0:02:02.17,0:02:05.59,DEFAULT,,0,0,0,,{\kf23}I'm{\kf19} so{\kf38} proud{\kf30} of{\kf34} you,{\kf23} lit{\kf19}tle{\kf23} bud{\kf38}dy
-Dialogue: 0,0:02:07.05,0:02:09.45,DEFAULT,,0,0,0,,{\kf19}You've{\kf23} taught{\kf19} me{\kf12} a{\kf23} thing{\kf19} or{\kf72} two
-Dialogue: 0,0:02:11.85,0:02:15.30,DEFAULT,,0,0,0,,{\kf15}You've{\kf19} in{\kf30}spi{\kf27}red{\kf23} eve{\kf19}ry{\kf23}po{\kf30}ny{\kf15} a{\kf23}round{\kf45} you
-Dialogue: 0,0:02:16.31,0:02:19.35,DEFAULT,,0,0,0,,{\kf27}And{\kf27} you've{\kf15} in{\kf27}spi{\kf27}red{\kf15} me{\kf12}-e,{\kf15} to{\kf94}-o
-Dialogue: 0,0:02:19.87,0:02:21.90,DEFAULT,,0,0,0,,{\kf34}You've{\kf27} made{\kf45} your{\kf72} mark
-Dialogue: 0,0:02:22.65,0:02:24.60,DEFAULT,,0,0,0,,{\kf19}Done{\kf15} E{\kf19}ques{\kf23}tri{\kf19}a{\kf27} so{\kf30} proud
-Dialogue: 0,0:02:24.79,0:02:26.59,DEFAULT,,0,0,0,,{\kf23}You've{\kf27} made{\kf42} your{\kf64} mark
-Dialogue: 0,0:02:27.45,0:02:29.44,DEFAULT,,0,0,0,,{\kf19}And{\kf15} we're{\kf23} here{\kf15} to{\kf27} sing{\kf15} it{\kf38} loud
-Dialogue: 0,0:02:29.85,0:02:33.07,DEFAULT,,0,0,0,,{\kf19}For{\kf30} the{\kf45} ul{\kf23}ti{\kf34}mate{\kf49} re{\kf57}ward
-Dialogue: 0,0:02:33.45,0:02:36.00,DEFAULT,,0,0,0,,{\kf23}Of{\kf27} your{\kf30} cu{\kf34}tie{\kf98} mark
-Dialogue: 0,0:02:36.45,0:02:38.02,DEFAULT,,0,0,0,,{\kf19}Well,{\kf12} what'd{\kf15} you{\kf27} think,{\kf23} Cru{\kf23}sa{\kf27}ders?
-Dialogue: 0,0:02:38.32,0:02:41.44,DEFAULT,,0,0,0,,{\kf19}Were{\kf19} these{\kf19} cu{\kf12}tie{\kf27} marks{\kf23} to{\kf8}tal{\kf12}ly{\kf15} worth{\kf23} wai{\kf15}ting{\kf19} for{\kf19} or{\kf30} what?
-Dialogue: 0,0:02:41.66,0:02:44.29,DEFAULT,,0,0,0,,{\kf38}Yeah!{\kf15} I{\kf23} can't{\kf19} wait{\kf8} to{\kf15} see{\kf8} who{\kf12} we're{\kf12} gon{\kf8}na{\kf19} help{\kf27} next!
-Dialogue: 0,0:02:45.15,0:02:47.29,DEFAULT,,0,0,0,,{\kf19}We{\kf23} star{\kf23}ted{\kf27} out{\kf34} just{\kf34} three
-Dialogue: 0,0:02:47.59,0:02:49.54,DEFAULT,,0,0,0,,{\kf23}Cru{\kf23}sa{\kf23}ders{\kf23} dri{\kf27}ven{\kf15} to{\kf27} see
-Dialogue: 0,0:02:49.95,0:02:52.01,DEFAULT,,0,0,0,,{\kf27}What{\kf19} we{\kf27} find{\kf27} in{\kf30} our{\kf30} hearts
-Dialogue: 0,0:02:52.35,0:02:54.45,DEFAULT,,0,0,0,,{\kf23}Dis{\kf19}co{\kf23}ver{\kf23} our{\kf23} des{\kf23}ti{\kf27}ny
-Dialogue: 0,0:02:54.75,0:02:56.81,DEFAULT,,0,0,0,,{\kf23}And{\kf19} here{\kf19} we{\kf19} are,{\kf30} best{\kf27} friends
-Dialogue: 0,0:02:57.11,0:02:59.25,DEFAULT,,0,0,0,,{\kf19}A{\kf27}bout{\kf19} to{\kf30} start{\kf19} it{\kf19} a{\kf34}gain
-Dialogue: 0,0:02:59.44,0:03:02.81,DEFAULT,,0,0,0,,{\kf23}An{\kf23} ad{\kf34}ven{\kf23}ture{\kf23} that{\kf49} ne{\kf23}ver{\kf27} will{\kf27} end
-Dialogue: 0,0:03:03.07,0:03:05.10,DEFAULT,,0,0,0,,{\kf27}We'll{\kf23} make{\kf42} our{\kf75} mark
-Dialogue: 0,0:03:05.85,0:03:07.69,DEFAULT,,0,0,0,,{\kf19}Hel{\kf23}ping{\kf19} fil{\kf23}lies{\kf19} most{\kf19} in{\kf23} need
-Dialogue: 0,0:03:07.91,0:03:09.86,DEFAULT,,0,0,0,,{\kf23}We'll{\kf27} make{\kf45} our{\kf68} mark
-Dialogue: 0,0:03:10.61,0:03:12.64,DEFAULT,,0,0,0,,{\kf19}So{\kf27} each{\kf19} one{\kf19} of{\kf19} them{\kf23} suc{\kf34}ceeds
-Dialogue: 0,0:03:13.05,0:03:16.24,DEFAULT,,0,0,0,,{\kf23}'Cause{\kf19} the{\kf53} ul{\kf23}ti{\kf45}mate{\kf53} re{\kf49}ward
-Dialogue: 0,0:03:16.54,0:03:21.34,DEFAULT,,0,0,0,,{\kf34}Is{\kf23} a{\kf34} cu{\kf30}ti{\kf19}-e{\kf312} mark!
+Dialogue: 0,0:00:05.29,0:00:07.65,DEFAULT,,0,0,0,,{\r}{\kf14}We've{\kf14} been{\kf34} sear{\kf19}chin'{\kf29} for{\kf19} our{\kf14} cu{\kf19}-u{\kf24}tie{\kf50} marks
+Dialogue: 0,0:00:08.06,0:00:09.19,DEFAULT,,0,0,0,,{\r}{\kf22}For{\kf17} a{\kf17} whi{\kf17}-ile{\kf39} now
+Dialogue: 0,0:00:10.13,0:00:12.68,DEFAULT,,0,0,0,,{\r}{\kf14}Tryin'{\kf14} to{\kf32} find{\kf23} out{\kf46} how{\kf28} we{\kf14} fi{\kf19}-it{\kf65} in
+Dialogue: 0,0:00:13.73,0:00:16.02,DEFAULT,,0,0,0,,{\r}{\kf32}So{\kf18} ma{\kf23}ny{\kf37} ways{\kf23} we've{\kf37} tried{\kf18} be{\kf41}fore
+Dialogue: 0,0:00:16.39,0:00:18.45,DEFAULT,,0,0,0,,{\r}{\kf29}But{\kf20} we{\kf29} keep{\kf20} on{\kf39} try{\kf25}in'{\kf44} more
+Dialogue: 0,0:00:18.83,0:00:22.32,DEFAULT,,0,0,0,,{\r}{\kf32}'Cause{\kf18} the{\kf28} Cu{\kf23}tie{\kf28} Mark{\kf28} Cru{\kf37}sa{\kf28}ders{\kf37} don't{\kf23} give{\kf67} in
+Dialogue: 0,0:00:23.29,0:00:25.24,DEFAULT,,0,0,0,,{\r}{\kf31}We'll{\kf35} make{\kf49} our{\kf80} mark
+Dialogue: 0,0:00:26.03,0:00:28.05,DEFAULT,,0,0,0,,{\r}{\kf55}One{\kf64} way{\kf28} or{\kf14} a{\kf28}no{\kf13}ther
+Dialogue: 0,0:00:28.20,0:00:29.85,DEFAULT,,0,0,0,,{\r}{\kf22}We'll{\kf31} make{\kf49} our{\kf63} mark
+Dialogue: 0,0:00:30.86,0:00:33.08,DEFAULT,,0,0,0,,{\r}{\kf24}On{\kf14} the{\kf34} day{\kf24} that{\kf38} we{\kf19} dis{\kf34}co{\kf34}ver
+Dialogue: 0,0:00:33.56,0:00:36.45,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf63} ul{\kf32}ti{\kf50}mate{\kf54} re{\kf67}ward
+Dialogue: 0,0:00:36.83,0:00:38.85,DEFAULT,,0,0,0,,{\r}{\kf28}Of{\kf28} our{\kf33} cu{\kf52}tie{\kf61} marks
+Dialogue: 0,0:00:39.15,0:00:40.77,DEFAULT,,0,0,0,,{\r}{\kf27}Now{\kf36} that's{\kf31} more{\kf36} like{\kf31} it!
+Dialogue: 0,0:00:45.90,0:00:48.12,DEFAULT,,0,0,0,,{\r}{\kf18}We{\kf28} all{\kf23} got{\kf18} the{\kf37} same{\kf37} cu{\kf23}tie{\kf37} mark!
+Dialogue: 0,0:00:48.60,0:00:51.27,DEFAULT,,0,0,0,,{\r}{\kf21}Cu{\kf13}tie{\kf26} Mark{\kf17} Cru{\kf30}sa{\kf26}ders{\kf21} for{\kf30}e{\kf82}ver!
+Dialogue: 0,0:00:52.31,0:00:54.56,DEFAULT,,0,0,0,,{\r}{\kf14}We{\kf14} were{\kf32} sear{\kf32}ching{\kf22} for{\kf18} our{\kf36} cu{\kf27}tie{\kf30} marks
+Dialogue: 0,0:00:55.05,0:00:56.14,DEFAULT,,0,0,0,,{\r}{\kf21}For{\kf17} a{\kf34} while{\kf37} there
+Dialogue: 0,0:00:57.12,0:00:59.52,DEFAULT,,0,0,0,,{\r}{\kf17}Trying{\kf13} to{\kf25} find{\kf34} out{\kf42} how{\kf34} we{\kf25} fit{\kf50} in
+Dialogue: 0,0:01:00.68,0:01:03.08,DEFAULT,,0,0,0,,{\r}{\kf27}So{\kf23} ma{\kf27}ny{\kf36} ways{\kf23} we've{\kf41} tried{\kf18} be{\kf45}fore
+Dialogue: 0,0:01:03.41,0:01:05.40,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf23} we{\kf27} kept{\kf23} on{\kf41} try{\kf27}in'{\kf35} more
+Dialogue: 0,0:01:05.81,0:01:09.38,DEFAULT,,0,0,0,,{\r}{\kf33}'Cause{\kf19} the{\kf23} Cu{\kf28}tie{\kf37} Mark{\kf23} Cru{\kf33}sa{\kf37}ders{\kf33} don't{\kf19} give{\kf71} in
+Dialogue: 0,0:01:11.55,0:01:14.03,DEFAULT,,0,0,0,,{\r}{\kf20}Now{\kf15} we{\kf30} know{\kf10} what{\kf10} it{\kf35} took{\kf35} all{\kf25} a{\kf68}long
+Dialogue: 0,0:01:15.49,0:01:18.90,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf18} our{\kf28} jour{\kf32}ney{\kf37} here{\kf23} is{\kf23} ne{\kf23}ver{\kf32} real{\kf28}ly{\kf74} done
+Dialogue: 0,0:01:19.99,0:01:22.28,DEFAULT,,0,0,0,,{\r}{\kf32}For{\kf14} it{\kf27} is{\kf37} more{\kf32} than{\kf32} just{\kf14} a{\kf41} mark
+Dialogue: 0,0:01:22.65,0:01:24.72,DEFAULT,,0,0,0,,{\r}{\kf27}It's{\kf16} a{\kf33} place{\kf27} for{\kf33} us{\kf22} to{\kf48} start
+Dialogue: 0,0:01:25.02,0:01:28.47,DEFAULT,,0,0,0,,{\r}{\kf31}An{\kf27} ad{\kf18}ven{\kf31}ture{\kf31} that{\kf31} has{\kf31} on{\kf22}ly{\kf36} just{\kf22} be{\kf65}gun
+Dialogue: 0,0:01:29.48,0:01:31.39,DEFAULT,,0,0,0,,{\r}{\kf24}We'll{\kf33} make{\kf53} our{\kf81} mark
+Dialogue: 0,0:01:32.22,0:01:34.13,DEFAULT,,0,0,0,,{\r}{\kf27}Show{\kf18} the{\kf36} world{\kf23} what{\kf32} we{\kf23} can{\kf32} do
+Dialogue: 0,0:01:34.35,0:01:36.11,DEFAULT,,0,0,0,,{\r}{\kf23}We'll{\kf32} make{\kf51} our{\kf70} mark
+Dialogue: 0,0:01:37.05,0:01:39.04,DEFAULT,,0,0,0,,{\r}{\kf24}Hel{\kf24}ping{\kf24} fil{\kf24}lies{\kf29} to{\kf34} break{\kf40} through
+Dialogue: 0,0:01:39.38,0:01:42.64,DEFAULT,,0,0,0,,{\r}{\kf33}To{\kf28} the{\kf47} ul{\kf37}ti{\kf56}mate{\kf61} re{\kf64}ward
+Dialogue: 0,0:01:42.98,0:01:44.97,DEFAULT,,0,0,0,,{\r}{\kf36}Of{\kf27} a{\kf36} cu{\kf45}tie{\kf55} mark
+Dialogue: 0,0:01:45.60,0:01:46.88,DEFAULT,,0,0,0,,{\r}{\kf45}All{\kf21} right,{\kf12} e{\kf17}very{\kf17}po{\kf16}ny!
+Dialogue: 0,0:01:47.22,0:01:48.27,DEFAULT,,0,0,0,,{\r}{\kf14}Get{\kf18} rea{\kf10}dy{\kf14} for{\kf14} the{\kf23} big{\kf12}gest
+Dialogue: 0,0:01:48.42,0:01:50.59,DEFAULT,,0,0,0,,{\r}{\kf18}Cute{\kf18}cea{\kf22}Ã±e{\kf22}ra{\kf13} ce{\kf18}le{\kf18}bra{\kf22}tion{\kf18} e{\kf48}ver!
+Dialogue: 0,0:01:51.45,0:01:52.35,DEFAULT,,0,0,0,,{\r}{\kf22}Oh,{\kf18} su{\kf22}gar{\kf28}cube!
+Dialogue: 0,0:01:52.80,0:01:53.97,DEFAULT,,0,0,0,,{\r}{\kf13}If{\kf18} Mom{\kf13} and{\kf22} Dad{\kf13} were{\kf37} here,
+Dialogue: 0,0:01:54.27,0:01:55.61,DEFAULT,,0,0,0,,{\r}{\kf28}They'd{\kf17} be{\kf28} so{\kf17} proud{\kf17} of{\kf28} ya
+Dialogue: 0,0:01:55.88,0:01:57.56,DEFAULT,,0,0,0,,{\r}{\kf48}Oh!{\kf37} Thanks,{\kf21} Ap{\kf26}ple{\kf37}jack
+Dialogue: 0,0:01:58.05,0:01:59.93,DEFAULT,,0,0,0,,{\r}{\kf31}Now{\kf22} go{\kf18} on{\kf18} and{\kf22} par{\kf13}ty{\kf13} with{\kf13} your{\kf38} pals
+Dialogue: 0,0:02:02.18,0:02:05.59,DEFAULT,,0,0,0,,{\r}{\kf31}I'm{\kf26} so{\kf52} proud{\kf42} of{\kf47} you,{\kf31} lit{\kf26}tle{\kf31} bud{\kf55}dy
+Dialogue: 0,0:02:07.05,0:02:09.45,DEFAULT,,0,0,0,,{\r}{\kf24}You've{\kf29} taught{\kf24} me{\kf15} a{\kf29} thing{\kf24} or{\kf95} two
+Dialogue: 0,0:02:11.85,0:02:15.30,DEFAULT,,0,0,0,,{\r}{\kf19}You've{\kf24} in{\kf39}spi{\kf34}red{\kf29} eve{\kf24}ry{\kf29}po{\kf39}ny{\kf19} a{\kf29}round{\kf60} you
+Dialogue: 0,0:02:16.31,0:02:19.35,DEFAULT,,0,0,0,,{\r}{\kf31}And{\kf31} you've{\kf18} in{\kf31}spi{\kf31}red{\kf18} me{\kf13}-e,{\kf18} to{\kf113}-o
+Dialogue: 0,0:02:19.88,0:02:21.90,DEFAULT,,0,0,0,,{\r}{\kf39}You've{\kf30} made{\kf52} your{\kf82} mark
+Dialogue: 0,0:02:22.65,0:02:24.60,DEFAULT,,0,0,0,,{\r}{\kf24}Done{\kf20} E{\kf24}ques{\kf29}tri{\kf24}a{\kf34} so{\kf40} proud
+Dialogue: 0,0:02:24.79,0:02:26.59,DEFAULT,,0,0,0,,{\r}{\kf26}You've{\kf31} made{\kf48} your{\kf75} mark
+Dialogue: 0,0:02:27.45,0:02:29.44,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf20} we're{\kf30} here{\kf20} to{\kf35} sing{\kf20} it{\kf49} loud
+Dialogue: 0,0:02:29.85,0:02:33.08,DEFAULT,,0,0,0,,{\r}{\kf24}For{\kf38} the{\kf57} ul{\kf28}ti{\kf43}mate{\kf62} re{\kf70}ward
+Dialogue: 0,0:02:33.45,0:02:36.00,DEFAULT,,0,0,0,,{\r}{\kf27}Of{\kf32} your{\kf36} cu{\kf41}tie{\kf119} mark
+Dialogue: 0,0:02:36.45,0:02:38.03,DEFAULT,,0,0,0,,{\r}{\kf21}Well,{\kf12} what'd{\kf17} you{\kf29} think,{\kf25} Cru{\kf25}sa{\kf28}ders?
+Dialogue: 0,0:02:38.33,0:02:41.44,DEFAULT,,0,0,0,,{\r}{\kf23}Were{\kf23} these{\kf23} cu{\kf14}tie{\kf32} marks{\kf27} to{\kf10}tal{\kf14}ly{\kf18} worth{\kf27} wai{\kf18}ting{\kf23} for{\kf23} or{\kf36} what?
+Dialogue: 0,0:02:41.66,0:02:44.29,DEFAULT,,0,0,0,,{\r}{\kf49}Yeah!{\kf20} I{\kf30} can't{\kf25} wait{\kf10} to{\kf20} see{\kf10} who{\kf15} we're{\kf15} gon{\kf10}na{\kf25} help{\kf33} next!
+Dialogue: 0,0:02:45.15,0:02:47.29,DEFAULT,,0,0,0,,{\r}{\kf25}We{\kf31} star{\kf31}ted{\kf36} out{\kf46} just{\kf45} three
+Dialogue: 0,0:02:47.59,0:02:49.54,DEFAULT,,0,0,0,,{\r}{\kf28}Cru{\kf28}sa{\kf28}ders{\kf28} dri{\kf33}ven{\kf19} to{\kf31} see
+Dialogue: 0,0:02:49.95,0:02:52.01,DEFAULT,,0,0,0,,{\r}{\kf34}What{\kf25} we{\kf34} find{\kf34} in{\kf39} our{\kf40} hearts
+Dialogue: 0,0:02:52.35,0:02:54.45,DEFAULT,,0,0,0,,{\r}{\kf30}Dis{\kf25}co{\kf30}ver{\kf30} our{\kf30} des{\kf30}ti{\kf35}ny
+Dialogue: 0,0:02:54.75,0:02:56.81,DEFAULT,,0,0,0,,{\r}{\kf34}And{\kf29} here{\kf29} we{\kf29} are,{\kf46} best{\kf39} friends
+Dialogue: 0,0:02:57.12,0:02:59.25,DEFAULT,,0,0,0,,{\r}{\kf24}A{\kf34}bout{\kf24} to{\kf39} start{\kf24} it{\kf24} a{\kf45}gain
+Dialogue: 0,0:02:59.44,0:03:02.81,DEFAULT,,0,0,0,,{\r}{\kf31}An{\kf31} ad{\kf46}ven{\kf31}ture{\kf31} that{\kf66} ne{\kf31}ver{\kf36} will{\kf34} end
+Dialogue: 0,0:03:03.08,0:03:05.10,DEFAULT,,0,0,0,,{\r}{\kf32}We'll{\kf28} make{\kf51} our{\kf92} mark
+Dialogue: 0,0:03:05.85,0:03:07.69,DEFAULT,,0,0,0,,{\r}{\kf24}Hel{\kf29}ping{\kf24} fil{\kf29}lies{\kf24} most{\kf24} in{\kf30} need
+Dialogue: 0,0:03:07.91,0:03:09.87,DEFAULT,,0,0,0,,{\r}{\kf27}We'll{\kf32} make{\kf54} our{\kf82} mark
+Dialogue: 0,0:03:10.62,0:03:12.64,DEFAULT,,0,0,0,,{\r}{\kf24}So{\kf34} each{\kf24} one{\kf24} of{\kf24} them{\kf29} suc{\kf44}ceeds
+Dialogue: 0,0:03:13.05,0:03:16.24,DEFAULT,,0,0,0,,{\r}{\kf27}'Cause{\kf23} the{\kf64} ul{\kf27}ti{\kf55}mate{\kf64} re{\kf59}ward
+Dialogue: 0,0:03:16.54,0:03:21.34,DEFAULT,,0,0,0,,{\r}{\kf36}Is{\kf24} a{\kf36} cu{\kf32}ti{\kf20}-e{\kf332} mark!

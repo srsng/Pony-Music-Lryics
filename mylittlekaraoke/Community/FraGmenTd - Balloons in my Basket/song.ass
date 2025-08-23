@@ -1,77 +1,84 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Balloons In My Basket
+Artist: FraGmenTd
+Original Timing: mylittlekaraoke.com by Pony Rock Project/RD1042
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:00.66,0:01:03.70,DEFAULT,,0,0,0,,{\kf16}I{\kf24} used{\kf8} to{\kf36} hide{\kf16} my{\kf32}self{\kf12} a{\kf24}way
-Dialogue: 0,0:01:05.11,0:01:07.45,DEFAULT,,0,0,0,,{\kf16}From{\kf8} the{\kf24} clou{\kf20}dy{\kf47} skies{\kf24} of{\kf28} gray
-Dialogue: 0,0:01:08.15,0:01:11.20,DEFAULT,,0,0,0,,{\kf16}I{\kf24} did{\kf12}n't{\kf32} laugh{\kf16} I{\kf20} did{\kf8}n't{\kf16} know{\kf24} how
-Dialogue: 0,0:01:12.88,0:01:15.03,DEFAULT,,0,0,0,,{\kf12}But{\kf12} all{\kf12} that's{\kf20} be{\kf24}hind{\kf32} me{\kf32} now
-Dialogue: 0,0:01:15.65,0:01:18.70,DEFAULT,,0,0,0,,{\kf16}No{\kf28} clouds{\kf16} to{\kf36}day{\kf8} the{\kf43} sky{\kf16} is{\kf24} clear
-Dialogue: 0,0:01:20.11,0:01:22.37,DEFAULT,,0,0,0,,{\kf24}Just{\kf24} laugh{\kf8} to{\kf16} make{\kf16} them{\kf12} dis{\kf16}a{\kf32}ppear
-Dialogue: 0,0:01:22.84,0:01:25.65,DEFAULT,,0,0,0,,{\kf12}I{\kf12} was{\kf24} go{\kf20}ing{\kf16} to{\kf40} bring{\kf20} cup{\kf20}cakes
-Dialogue: 0,0:01:26.63,0:01:29.87,DEFAULT,,0,0,0,,{\kf12}But{\kf16} I{\kf16} ate{\kf16} them{\kf47} all{\kf20} so-{\kf20}o
-Dialogue: 0,0:01:30.85,0:01:34.17,DEFAULT,,0,0,0,,{\kf16}I{\kf16} put{\kf16} ba{\kf55}lloons{\kf16} in{\kf16} my{\kf28} bas{\kf28}ket
-Dialogue: 0,0:01:35.07,0:01:37.45,DEFAULT,,0,0,0,,{\kf28}And{\kf32} watched{\kf20} them{\kf51} float{\kf16} a{\kf24}way
-Dialogue: 0,0:01:38.15,0:01:41.75,DEFAULT,,0,0,0,,{\kf20}I{\kf16} hope{\kf16} that{\kf16} it{\kf40} fills{\kf16} you{\kf16} with{\kf32} laugh{\kf32}ter
-Dialogue: 0,0:01:42.69,0:01:44.95,DEFAULT,,0,0,0,,{\kf16}And{\kf32} sweeps{\kf32} your{\kf40} fears{\kf16} a{\kf24}way
-Dialogue: 0,0:01:45.89,0:01:49.17,DEFAULT,,0,0,0,,{\kf16}I{\kf16} put{\kf16} ba{\kf43}lloons{\kf16} in{\kf16} my{\kf28} bas{\kf24}ket
-Dialogue: 0,0:01:50.34,0:01:52.53,DEFAULT,,0,0,0,,{\kf12}It{\kf24} us{\kf12}ual{\kf8}ly{\kf12} gets{\kf12} a{\kf24} laugh{\kf16} or{\kf32} two
-Dialogue: 0,0:01:53.11,0:01:56.67,DEFAULT,,0,0,0,,{\kf16}It's{\kf16} much{\kf32} more{\kf36} fun{\kf28} when{\kf8} it's{\kf16} un{\kf36}ex{\kf47}pect{\kf28}ed
-Dialogue: 0,0:01:57.37,0:01:59.95,DEFAULT,,0,0,0,,{\kf16}I{\kf16} threw{\kf12} this{\kf43} par{\kf32}ty{\kf24} just{\kf24} for{\kf24} you
-Dialogue: 0,0:02:15.65,0:02:18.93,DEFAULT,,0,0,0,,{\kf16}I{\kf36} know{\kf24} that{\kf55} I'm{\kf16} hard{\kf16} to{\kf24} un{\kf24}der{\kf43}stand
-Dialogue: 0,0:02:19.87,0:02:22.53,DEFAULT,,0,0,0,,{\kf24}Some{\kf24}times{\kf16} I{\kf16} don't{\kf16} e{\kf16}ven{\kf32} get{\kf40} my{\kf32}self
-Dialogue: 0,0:02:23.15,0:02:26.43,DEFAULT,,0,0,0,,{\kf16}But{\kf36} where's{\kf16} the{\kf43} fun{\kf24} think{\kf28}ing{\kf16} so-{\kf28}o{\kf40} hard?
-Dialogue: 0,0:02:27.33,0:02:29.40,DEFAULT,,0,0,0,,{\kf12}Let's{\kf12} just{\kf16} go{\kf28} roll{\kf16} on{\kf8} the{\kf67} ground
-Dialogue: 0,0:02:29.56,0:02:31.39,DEFAULT,,0,0,0,,{\kf8}The-{\kf20}ere's{\kf8} lots{\kf8} of{\kf8} o{\kf8}ther{\kf16} things{\kf8} that{\kf4} I'd{\kf12} ra{\kf12}ther{\kf12} do
-Dialogue: 0,0:02:31.59,0:02:33.27,DEFAULT,,0,0,0,,{\kf12} eat{\kf8}ing{\kf20} lots{\kf12} of{\kf12} sug{\kf12}ar{\kf8}y{\kf16} things{\kf8} with{\kf12} you
-Dialogue: 0,0:02:33.47,0:02:35.26,DEFAULT,,0,0,0,,{\kf12} Ice{\kf20} cream{\kf16} can{\kf8}dy{\kf16} pie{\kf12} and{\kf20} choco{\kf12}late{\kf24} rain
-Dialogue: 0,0:02:35.42,0:02:37.10,DEFAULT,,0,0,0,,{\kf12} ig{\kf20}nore{\kf8} the{\kf16} crowd{\kf8} they{\kf8} just{\kf12} think{\kf12} we're{\kf8} in{\kf16}sane
-Dialogue: 0,0:02:37.25,0:02:39.05,DEFAULT,,0,0,0,,{\kf8} run{\kf8} in{\kf16}to{\kf8} the{\kf12} for{\kf16}est{\kf8} just{\kf8} to{\kf12} laugh{\kf4} at{\kf8} the{\kf28} trees
-Dialogue: 0,0:02:39.09,0:02:41.04,DEFAULT,,0,0,0,,{\kf16}then{\kf12} run{\kf12} back{\kf12} out{\kf16} while{\kf8} gig{\kf4}gl{\kf8}ing{\kf8} at{\kf8} the{\kf16} ghost{\kf8}ly
-Dialogue: 0,0:02:41.12,0:02:41.90,DEFAULT,,0,0,0,,{\kf8} there's{\kf8} E{\kf8}vil{\kf8} en{\kf12}chan{\kf16}tress
-Dialogue: 0,0:02:42.06,0:02:42.76,DEFAULT,,0,0,0,,{\kf8} who{\kf8} does{\kf8} e{\kf8}vil{\kf20} dan{\kf8}ces
-Dialogue: 0,0:02:42.84,0:02:44.87,DEFAULT,,0,0,0,,{\kf8} when{\kf8} you{\kf4} look{\kf8} deep{\kf8} in{\kf8} her{\kf16} eyes{\kf8} she{\kf12} puts{\kf8} you{\kf8} in{\kf8} the{\kf12} punch{\kf16} bowl
-Dialogue: 0,0:02:47.72,0:02:51.04,DEFAULT,,0,0,0,,{\kf20}I{\kf16} put{\kf16} ba{\kf47}lloons{\kf12} in{\kf12} my{\kf32} bas{\kf24}ket
-Dialogue: 0,0:02:51.94,0:02:54.40,DEFAULT,,0,0,0,,{\kf28}And{\kf32} watched{\kf20} them{\kf43} float{\kf24} a{\kf32}way
-Dialogue: 0,0:02:54.99,0:02:58.54,DEFAULT,,0,0,0,,{\kf16}I{\kf16} hope{\kf12} that{\kf12} it{\kf40} fills{\kf20} you{\kf16} with{\kf32} laugh{\kf24}ter
-Dialogue: 0,0:02:59.48,0:03:01.90,DEFAULT,,0,0,0,,{\kf20}And{\kf24} sweeps{\kf20} your{\kf36} fears{\kf12} a{\kf36}way
-Dialogue: 0,0:03:02.72,0:03:06.04,DEFAULT,,0,0,0,,{\kf20}I{\kf16} put{\kf16} ba{\kf43}lloons{\kf16} in{\kf12} my{\kf36} bas{\kf24}ket
-Dialogue: 0,0:03:07.21,0:03:09.40,DEFAULT,,0,0,0,,{\kf16}It{\kf24} us{\kf8}ual{\kf12}ly{\kf24} gets{\kf12} a{\kf28} laugh{\kf16} or{\kf32} two
-Dialogue: 0,0:03:09.99,0:03:13.54,DEFAULT,,0,0,0,,{\kf16}It's{\kf20} much{\kf32} more{\kf40} fun{\kf24} when{\kf16} it's{\kf16} un{\kf36}ex{\kf24}pect{\kf28}ed
-Dialogue: 0,0:03:14.21,0:03:16.82,DEFAULT,,0,0,0,,{\kf12}I{\kf20} threw{\kf20} this{\kf47} par{\kf28}ty{\kf28} just{\kf16} for{\kf28} you
-Dialogue: 0,0:03:31.86,0:03:35.34,DEFAULT,,0,0,0,,{\kf12}I-{\kf20}I{\kf24} may{\kf24} seem{\kf36} so{\kf36} ve{\kf20}ry{\kf55} cra{\kf16}zy
-Dialogue: 0,0:03:35.57,0:03:38.93,DEFAULT,,0,0,0,,{\kf24} When{\kf12} I{\kf20} say{\kf16} my{\kf24} ta{\kf8}il{\kf16} makes{\kf16} the{\kf20} fu{\kf20}ture{\kf32} less{\kf12} ha-{\kf32}a{\kf12}zy
-Dialogue: 0,0:03:39.09,0:03:42.21,DEFAULT,,0,0,0,,{\kf8} but{\kf20} come{\kf16} a{\kf24}long{\kf8} with{\kf20} me-{\kf32}e{\kf16} and{\kf12} I'm{\kf20} sure{\kf28} you'll{\kf32} find
-Dialogue: 0,0:03:42.37,0:03:46.51,DEFAULT,,0,0,0,,{\kf28} fal{\kf16}ling{\kf20} pi{\kf20}an{\kf16}os{\kf32} won't{\kf16} get{\kf24} you{\kf16} when{\kf12} you're{\kf32} right{\kf47} be{\kf40}hind{\kf20} me
-Dialogue: 0,0:03:46.82,0:03:48.58,DEFAULT,,0,0,0,,{\kf12} All{\kf8} it{\kf8} real{\kf8}ly{\kf20} takes{\kf8} is{\kf8} a{\kf8} cup{\kf8} of{\kf28} flou{\kf8}r
-Dialogue: 0,0:03:48.62,0:03:50.26,DEFAULT,,0,0,0,,{\kf4} and{\kf8} sud{\kf8}den{\kf12}ly{\kf12} you're{\kf20} go{\kf8}ing{\kf16} nine{\kf8}ty{\kf20} miles{\kf4} an{\kf8} hour
-Dialogue: 0,0:03:50.34,0:03:52.13,DEFAULT,,0,0,0,,{\kf12} ev{\kf8}ery{\kf16}po{\kf20}ny{\kf16} thinks{\kf8} I'm{\kf8} an{\kf16}noy{\kf8}ing{\kf12} some{\kf16}times
-Dialogue: 0,0:03:52.29,0:03:54.17,DEFAULT,,0,0,0,,{\kf8}but{\kf8} they{\kf8} all{\kf4} a{\kf12}gree{\kf8} my{\kf8} par{\kf8}ties{\kf8} are{\kf20} real{\kf8}ly{\kf12} fun{\kf28} times
-Dialogue: 0,0:03:54.40,0:03:56.28,DEFAULT,,0,0,0,,{\kf8} Learn{\kf8}ing{\kf8} how{\kf8} to{\kf8} laugh{\kf4} at{\kf8} your{\kf28} flaws{\kf12} is{\kf8} part{\kf4} of{\kf4} the{\kf20} fun
-Dialogue: 0,0:03:56.35,0:03:57.64,DEFAULT,,0,0,0,,{\kf4} but{\kf8} I{\kf12} don't{\kf16} laugh{\kf16} at{\kf24} a{\kf12}ny{\kf16}one
-Dialogue: 0,0:03:57.88,0:03:59.67,DEFAULT,,0,0,0,,{\kf16} I'm{\kf8} en{\kf12}er{\kf12}ge{\kf8}tic{\kf16} sym{\kf8}pa{\kf8}the{\kf8}tic{\kf12} there{\kf8} when{\kf8} you{\kf16} need{\kf8} me
-Dialogue: 0,0:03:59.71,0:04:01.74,DEFAULT,,0,0,0,,{\kf12} sil{\kf8}ly{\kf12} po{\kf8}nies{\kf8} who{\kf8} don't{\kf8} lis{\kf8}ten{\kf12} get{\kf12} eat{\kf16}en{\kf8} by{\kf8} the{\kf12} par{\kf8}a{\kf20}sprites
-Dialogue: 0,0:04:02.10,0:04:03.38,DEFAULT,,0,0,0,,{\kf12}Can{\kf8}dy{\kf20} cakes{\kf12} and{\kf20} pies{\kf8} o-{\kf4}oh{\kf16} my-{\kf8}y
-Dialogue: 0,0:04:03.46,0:04:05.10,DEFAULT,,0,0,0,,{\kf8} where{\kf8} were{\kf16} you{\kf4} when{\kf8} I{\kf4} was{\kf12} kick{\kf8}in'{\kf4} it{\kf8} with{\kf16} Flut{\kf8}ter{\kf16}gu-{\kf8}uy?
-Dialogue: 0,0:04:05.34,0:04:07.10,DEFAULT,,0,0,0,,{\kf8} with{\kf8} a{\kf8} twit{\kf12}chin'{\kf16} twitch{\kf16} twitch{\kf16} Twi{\kf8} fell{\kf8} in{\kf8}to{\kf8} a{\kf8} ditch
-Dialogue: 0,0:04:07.29,0:04:09.24,DEFAULT,,0,0,0,,{\kf4} I{\kf8} got{\kf8} knocked{\kf8} in{\kf12}to{\kf4} a{\kf16} bush{\kf8} with{\kf8} a{\kf12} bump{\kf12} from{\kf12} Flut{\kf16}ter{\kf12}bitch
-Dialogue: 0,0:04:09.48,0:04:10.96,DEFAULT,,0,0,0,,{\kf4}I{\kf12} would{\kf8}n't{\kf16} trade{\kf12} my{\kf16} sense{\kf8} of{\kf20} hu{\kf12}mor
-Dialogue: 0,0:04:11.08,0:04:12.68,DEFAULT,,0,0,0,,{\kf8} for{\kf16} all{\kf8} the{\kf24} su{\kf24}gar{\kf16} in{\kf8} the{\kf16} world
-Dialogue: 0,0:04:12.84,0:04:14.63,DEFAULT,,0,0,0,,{\kf20} cause{\kf12} I'm{\kf8} the{\kf12} par{\kf12}ty{\kf20}ing{\kf8}est{\kf20} po{\kf12}ny{\kf12} in{\kf16} town
-Dialogue: 0,0:04:14.71,0:04:16.59,DEFAULT,,0,0,0,,{\kf8} stick{\kf8} with{\kf12} me{\kf8} and{\kf12} I'll{\kf8} show{\kf8} you{\kf12} how{\kf8} to{\kf16} rock{\kf12} that{\kf24} frown
-Dialogue: 0,0:04:16.82,0:04:17.52,DEFAULT,,0,0,0,,{\kf16}Up{\kf24}side{\kf20} down
-Dialogue: 0,0:04:19.63,0:04:22.92,DEFAULT,,0,0,0,,{\kf16}I{\kf16} put{\kf20} ba{\kf51}lloons{\kf16} in{\kf12} my{\kf28} bas{\kf24}ket
-Dialogue: 0,0:04:23.93,0:04:26.16,DEFAULT,,0,0,0,,{\kf24}And{\kf32} watched{\kf32} them{\kf51} float{\kf12} a{\kf24}way
-Dialogue: 0,0:04:26.90,0:04:30.42,DEFAULT,,0,0,0,,{\kf16}I{\kf20} hope{\kf20} that{\kf16} it{\kf40} fills{\kf16} you{\kf20} with{\kf32} laugh{\kf24}ter
-Dialogue: 0,0:04:31.43,0:04:33.77,DEFAULT,,0,0,0,,{\kf16}And{\kf36} sweeps{\kf24} your{\kf40} fears{\kf12} a{\kf36}way
-Dialogue: 0,0:04:34.56,0:04:37.91,DEFAULT,,0,0,0,,{\kf28}I{\kf16} put{\kf20} ba{\kf51}lloons{\kf20} in{\kf16} my{\kf28} bas{\kf24}ket
-Dialogue: 0,0:04:39.09,0:04:41.27,DEFAULT,,0,0,0,,{\kf16}It{\kf20} us{\kf12}ual{\kf8}ly{\kf28} gets{\kf12} a{\kf24} laugh{\kf16} or{\kf32} two
-Dialogue: 0,0:04:41.90,0:04:45.41,DEFAULT,,0,0,0,,{\kf12}It's{\kf20} much{\kf32} more{\kf32} fun{\kf24} when{\kf16} it's{\kf20} un{\kf32}ex{\kf24}pect{\kf24}ed
-Dialogue: 0,0:04:46.12,0:04:50.02,DEFAULT,,0,0,0,,{\kf16}I{\kf20} threw{\kf12} this{\kf51} par{\kf36}ty{\kf28} just{\kf24} for{\kf149} you
+Dialogue: 0,0:01:00.66,0:01:03.71,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf44} used{\kf15} to{\kf65} hide{\kf29} my{\kf58}self{\kf22} a{\kf43}way
+Dialogue: 0,0:01:05.11,0:01:07.46,DEFAULT,,0,0,0,,{\r}{\kf22}From{\kf11} the{\kf33} clou{\kf28}dy{\kf67} skies{\kf33} of{\kf40} gray
+Dialogue: 0,0:01:08.16,0:01:11.21,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf44} did{\kf22}n't{\kf58} laugh{\kf29} I{\kf36} did{\kf15}n't{\kf29} know{\kf43} how
+Dialogue: 0,0:01:12.89,0:01:15.03,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf18} all{\kf18} that's{\kf30} be{\kf36}hind{\kf48} me{\kf47} now
+Dialogue: 0,0:01:15.66,0:01:18.71,DEFAULT,,0,0,0,,{\r}{\kf26}No{\kf45} clouds{\kf26} to{\kf58}day{\kf13} the{\kf71} sky{\kf26} is{\kf40} clear
+Dialogue: 0,0:01:20.11,0:01:22.38,DEFAULT,,0,0,0,,{\r}{\kf37}Just{\kf37} laugh{\kf12} to{\kf25} make{\kf25} them{\kf18} dis{\kf25}a{\kf48}ppear
+Dialogue: 0,0:01:22.85,0:01:25.66,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21} was{\kf41} go{\kf34}ing{\kf27} to{\kf69} bring{\kf34} cup{\kf34}cakes
+Dialogue: 0,0:01:26.64,0:01:29.88,DEFAULT,,0,0,0,,{\r}{\kf26}But{\kf35} I{\kf35} ate{\kf35} them{\kf105} all{\kf44} so-{\kf44}o
+Dialogue: 0,0:01:30.85,0:01:34.17,DEFAULT,,0,0,0,,{\r}{\kf28}I{\kf28} put{\kf28} ba{\kf97}lloons{\kf28} in{\kf28} my{\kf48} bas{\kf47}ket
+Dialogue: 0,0:01:35.07,0:01:37.46,DEFAULT,,0,0,0,,{\r}{\kf39}And{\kf44} watched{\kf28} them{\kf72} float{\kf22} a{\kf33}way
+Dialogue: 0,0:01:38.16,0:01:41.75,DEFAULT,,0,0,0,,{\r}{\kf35}I{\kf28} hope{\kf28} that{\kf28} it{\kf70} fills{\kf28} you{\kf28} with{\kf56} laugh{\kf58}ter
+Dialogue: 0,0:01:42.69,0:01:44.96,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf45} sweeps{\kf45} your{\kf57} fears{\kf23} a{\kf34}way
+Dialogue: 0,0:01:45.89,0:01:49.17,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf30} put{\kf30} ba{\kf82}lloons{\kf30} in{\kf30} my{\kf52} bas{\kf44}ket
+Dialogue: 0,0:01:50.35,0:01:52.53,DEFAULT,,0,0,0,,{\r}{\kf17}It{\kf35} us{\kf17}ual{\kf12}ly{\kf17} gets{\kf17} a{\kf35} laugh{\kf23} or{\kf46} two
+Dialogue: 0,0:01:53.12,0:01:56.67,DEFAULT,,0,0,0,,{\r}{\kf22}It's{\kf22} much{\kf43} more{\kf48} fun{\kf38} when{\kf11} it's{\kf22} un{\kf48}ex{\kf65}pect{\kf36}ed
+Dialogue: 0,0:01:57.38,0:01:59.96,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} threw{\kf16} this{\kf59} par{\kf43}ty{\kf32} just{\kf32} for{\kf32} you
+Dialogue: 0,0:02:15.66,0:02:18.94,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf46} know{\kf31} that{\kf72} I'm{\kf20} hard{\kf20} to{\kf31} un{\kf31}der{\kf57}stand
+Dialogue: 0,0:02:19.88,0:02:22.53,DEFAULT,,0,0,0,,{\r}{\kf30}Some{\kf30}times{\kf20} I{\kf20} don't{\kf20} e{\kf20}ven{\kf39} get{\kf49} my{\kf38}self
+Dialogue: 0,0:02:23.16,0:02:26.44,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf48} where's{\kf21} the{\kf58} fun{\kf32} think{\kf37}ing{\kf21} so-{\kf37}o{\kf53} hard?
+Dialogue: 0,0:02:27.34,0:02:29.41,DEFAULT,,0,0,0,,{\r}{\kf16}Let's{\kf16} just{\kf21} go{\kf36} roll{\kf21} on{\kf10} the{\kf87} ground
+Dialogue: 0,0:02:29.56,0:02:31.40,DEFAULT,,0,0,0,,{\r}{\kf12}The-{\kf30}ere's{\kf12} lots{\kf12} of{\kf12} o{\kf12}ther{\kf24} things{\kf12} that{\kf10} I'd{\kf18} ra{\kf18}ther{\kf12} do
+Dialogue: 0,0:02:31.60,0:02:33.27,DEFAULT,,0,0,0,,{\r}{\kf17} eat{\kf11}ing{\kf28} lots{\kf17} of{\kf17} sug{\kf17}ar{\kf11}y{\kf22} things{\kf11} with{\kf17} you
+Dialogue: 0,0:02:33.47,0:02:35.27,DEFAULT,,0,0,0,,{\r}{\kf15} Ice{\kf26} cream{\kf21} can{\kf10}dy{\kf21} pie{\kf15} and{\kf26} choco{\kf15}late{\kf31} rain
+Dialogue: 0,0:02:35.42,0:02:37.10,DEFAULT,,0,0,0,,{\r}{\kf17} ig{\kf28}nore{\kf11} the{\kf22} crowd{\kf11} they{\kf11} just{\kf17} think{\kf17} we're{\kf11} in{\kf23}sane
+Dialogue: 0,0:02:37.26,0:02:39.06,DEFAULT,,0,0,0,,{\r}{\kf11} run{\kf11} in{\kf21}to{\kf11} the{\kf16} for{\kf21}est{\kf11} just{\kf11} to{\kf16} laugh{\kf10} at{\kf11} the{\kf30} trees
+Dialogue: 0,0:02:39.09,0:02:41.05,DEFAULT,,0,0,0,,{\r}{\kf24}then{\kf18} run{\kf18} back{\kf18} out{\kf24} while{\kf12} gig{\kf10}gl{\kf12}ing{\kf12} at{\kf12} the{\kf24} ghost{\kf11}ly
+Dialogue: 0,0:02:41.13,0:02:41.91,DEFAULT,,0,0,0,,{\r}{\kf10} there's{\kf10} E{\kf10}vil{\kf10} en{\kf16}chan{\kf22}tress
+Dialogue: 0,0:02:42.06,0:02:42.77,DEFAULT,,0,0,0,,{\r}{\kf10} who{\kf10} does{\kf10} e{\kf10}vil{\kf23} dan{\kf10}ces
+Dialogue: 0,0:02:42.84,0:02:44.88,DEFAULT,,0,0,0,,{\r}{\kf12} when{\kf12} you{\kf10} look{\kf12} deep{\kf12} in{\kf12} her{\kf25} eyes{\kf12} she{\kf18} puts{\kf12} you{\kf12} in{\kf12} the{\kf18} punch{\kf24} bowl
+Dialogue: 0,0:02:47.73,0:02:51.05,DEFAULT,,0,0,0,,{\r}{\kf37}I{\kf30} put{\kf30} ba{\kf89}lloons{\kf22} in{\kf22} my{\kf59} bas{\kf43}ket
+Dialogue: 0,0:02:51.95,0:02:54.41,DEFAULT,,0,0,0,,{\r}{\kf38}And{\kf44} watched{\kf27} them{\kf60} float{\kf33} a{\kf44}way
+Dialogue: 0,0:02:54.99,0:02:58.55,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf30} hope{\kf23} that{\kf23} it{\kf76} fills{\kf38} you{\kf30} with{\kf60} laugh{\kf45}ter
+Dialogue: 0,0:02:59.49,0:03:01.91,DEFAULT,,0,0,0,,{\r}{\kf33}And{\kf39} sweeps{\kf33} your{\kf59} fears{\kf20} a{\kf58}way
+Dialogue: 0,0:03:02.73,0:03:06.05,DEFAULT,,0,0,0,,{\r}{\kf36}I{\kf29} put{\kf29} ba{\kf79}lloons{\kf29} in{\kf22} my{\kf65} bas{\kf43}ket
+Dialogue: 0,0:03:07.22,0:03:09.41,DEFAULT,,0,0,0,,{\r}{\kf20}It{\kf31} us{\kf10}ual{\kf15}ly{\kf31} gets{\kf15} a{\kf36} laugh{\kf20} or{\kf41} two
+Dialogue: 0,0:03:09.99,0:03:13.55,DEFAULT,,0,0,0,,{\r}{\kf23}It's{\kf28} much{\kf45} more{\kf56} fun{\kf34} when{\kf23} it's{\kf23} un{\kf51}ex{\kf34}pect{\kf38}ed
+Dialogue: 0,0:03:14.21,0:03:16.83,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf26} threw{\kf26} this{\kf63} par{\kf37}ty{\kf37} just{\kf21} for{\kf36} you
+Dialogue: 0,0:03:31.87,0:03:35.34,DEFAULT,,0,0,0,,{\r}{\kf17}I-{\kf29}I{\kf34} may{\kf34} seem{\kf51} so{\kf51} ve{\kf29}ry{\kf80} cra{\kf23}zy
+Dialogue: 0,0:03:35.58,0:03:38.94,DEFAULT,,0,0,0,,{\r}{\kf31} When{\kf15} I{\kf25} say{\kf20} my{\kf31} ta{\kf10}il{\kf20} makes{\kf20} the{\kf25} fu{\kf25}ture{\kf41} less{\kf15} ha-{\kf41}a{\kf17}zy
+Dialogue: 0,0:03:39.09,0:03:42.22,DEFAULT,,0,0,0,,{\r}{\kf11} but{\kf26} come{\kf21} a{\kf32}long{\kf11} with{\kf26} me-{\kf42}e{\kf21} and{\kf16} I'm{\kf26} sure{\kf37} you'll{\kf43} find
+Dialogue: 0,0:03:42.37,0:03:46.52,DEFAULT,,0,0,0,,{\r}{\kf34} fal{\kf19}ling{\kf24} pi{\kf24}an{\kf19}os{\kf39} won't{\kf19} get{\kf29} you{\kf19} when{\kf15} you're{\kf39} right{\kf58} be{\kf49}hind{\kf27} me
+Dialogue: 0,0:03:46.83,0:03:48.59,DEFAULT,,0,0,0,,{\r}{\kf17} All{\kf11} it{\kf11} real{\kf11}ly{\kf28} takes{\kf11} is{\kf11} a{\kf11} cup{\kf11} of{\kf40} flou{\kf14}r
+Dialogue: 0,0:03:48.62,0:03:50.26,DEFAULT,,0,0,0,,{\r}{\kf10} and{\kf10} sud{\kf10}den{\kf15}ly{\kf15} you're{\kf26} go{\kf10}ing{\kf20} nine{\kf10}ty{\kf26} miles{\kf10} an{\kf10} hour
+Dialogue: 0,0:03:50.34,0:03:52.14,DEFAULT,,0,0,0,,{\r}{\kf15} ev{\kf10}ery{\kf21}po{\kf26}ny{\kf21} thinks{\kf10} I'm{\kf10} an{\kf21}noy{\kf10}ing{\kf15} some{\kf21}times
+Dialogue: 0,0:03:52.30,0:03:54.17,DEFAULT,,0,0,0,,{\r}{\kf11}but{\kf11} they{\kf11} all{\kf10} a{\kf16}gree{\kf11} my{\kf11} par{\kf11}ties{\kf11} are{\kf27} real{\kf11}ly{\kf16} fun{\kf30} times
+Dialogue: 0,0:03:54.41,0:03:56.28,DEFAULT,,0,0,0,,{\r}{\kf12} Learn{\kf12}ing{\kf12} how{\kf12} to{\kf12} laugh{\kf10} at{\kf12} your{\kf41} flaws{\kf18} is{\kf12} part{\kf10} of{\kf10} the{\kf14} fun
+Dialogue: 0,0:03:56.36,0:03:57.65,DEFAULT,,0,0,0,,{\r}{\kf10} but{\kf10} I{\kf14} don't{\kf19} laugh{\kf19} at{\kf29} a{\kf14}ny{\kf14}one
+Dialogue: 0,0:03:57.88,0:03:59.68,DEFAULT,,0,0,0,,{\r}{\kf19} I'm{\kf10} en{\kf15}er{\kf15}ge{\kf10}tic{\kf19} sym{\kf10}pa{\kf10}the{\kf10}tic{\kf15} there{\kf10} when{\kf10} you{\kf19} need{\kf10} me
+Dialogue: 0,0:03:59.72,0:04:01.75,DEFAULT,,0,0,0,,{\r}{\kf15} sil{\kf10}ly{\kf15} po{\kf10}nies{\kf10} who{\kf10} don't{\kf10} lis{\kf10}ten{\kf15} get{\kf15} eat{\kf19}en{\kf10} by{\kf10} the{\kf15} par{\kf10}a{\kf19}sprites
+Dialogue: 0,0:04:02.10,0:04:03.39,DEFAULT,,0,0,0,,{\r}{\kf14}Can{\kf10}dy{\kf24} cakes{\kf14} and{\kf24} pies{\kf10} o-{\kf10}oh{\kf19} my-{\kf10}y
+Dialogue: 0,0:04:03.47,0:04:05.11,DEFAULT,,0,0,0,,{\r}{\kf10} where{\kf10} were{\kf20} you{\kf10} when{\kf10} I{\kf10} was{\kf15} kick{\kf10}in'{\kf10} it{\kf10} with{\kf20} Flut{\kf10}ter{\kf20}gu-{\kf10}uy?
+Dialogue: 0,0:04:05.34,0:04:07.10,DEFAULT,,0,0,0,,{\r}{\kf11} with{\kf11} a{\kf11} twit{\kf17}chin'{\kf23} twitch{\kf23} twitch{\kf23} Twi{\kf11} fell{\kf11} in{\kf11}to{\kf11} a{\kf13} ditch
+Dialogue: 0,0:04:07.30,0:04:09.25,DEFAULT,,0,0,0,,{\r}{\kf10} I{\kf11} got{\kf11} knocked{\kf11} in{\kf17}to{\kf10} a{\kf22} bush{\kf11} with{\kf11} a{\kf17} bump{\kf17} from{\kf17} Flut{\kf22}ter{\kf10}bitch
+Dialogue: 0,0:04:09.48,0:04:10.97,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf16} would{\kf11}n't{\kf22} trade{\kf16} my{\kf22} sense{\kf11} of{\kf27} hu{\kf13}mor
+Dialogue: 0,0:04:11.08,0:04:12.69,DEFAULT,,0,0,0,,{\r}{\kf11} for{\kf21} all{\kf11} the{\kf32} su{\kf32}gar{\kf21} in{\kf11} the{\kf21} world
+Dialogue: 0,0:04:12.84,0:04:14.64,DEFAULT,,0,0,0,,{\r}{\kf24} cause{\kf14} I'm{\kf10} the{\kf14} par{\kf14}ty{\kf24}ing{\kf10}est{\kf24} po{\kf14}ny{\kf14} in{\kf18} town
+Dialogue: 0,0:04:14.72,0:04:16.59,DEFAULT,,0,0,0,,{\r}{\kf11} stick{\kf11} with{\kf16} me{\kf11} and{\kf16} I'll{\kf11} show{\kf11} you{\kf16} how{\kf11} to{\kf22} rock{\kf16} that{\kf35} frown
+Dialogue: 0,0:04:16.83,0:04:17.53,DEFAULT,,0,0,0,,{\r}{\kf19}Up{\kf28}side{\kf23} down
+Dialogue: 0,0:04:19.64,0:04:22.92,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf29} put{\kf36} ba{\kf93}lloons{\kf29} in{\kf21} my{\kf50} bas{\kf41}ket
+Dialogue: 0,0:04:23.94,0:04:26.16,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf41} watched{\kf41} them{\kf66} float{\kf15} a{\kf30}way
+Dialogue: 0,0:04:26.90,0:04:30.42,DEFAULT,,0,0,0,,{\r}{\kf28}I{\kf35} hope{\kf35} that{\kf28} it{\kf69} fills{\kf28} you{\kf35} with{\kf55} laugh{\kf39}ter
+Dialogue: 0,0:04:31.44,0:04:33.78,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf51} sweeps{\kf34} your{\kf57} fears{\kf17} a{\kf52}way
+Dialogue: 0,0:04:34.56,0:04:37.92,DEFAULT,,0,0,0,,{\r}{\kf46}I{\kf26} put{\kf33} ba{\kf86}lloons{\kf33} in{\kf26} my{\kf46} bas{\kf40}ket
+Dialogue: 0,0:04:39.09,0:04:41.28,DEFAULT,,0,0,0,,{\r}{\kf21}It{\kf26} us{\kf16}ual{\kf10}ly{\kf36} gets{\kf16} a{\kf31} laugh{\kf21} or{\kf42} two
+Dialogue: 0,0:04:41.90,0:04:45.42,DEFAULT,,0,0,0,,{\r}{\kf18}It's{\kf30} much{\kf48} more{\kf48} fun{\kf36} when{\kf24} it's{\kf30} un{\kf48}ex{\kf36}pect{\kf34}ed
+Dialogue: 0,0:04:46.12,0:04:50.03,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf23} threw{\kf14} this{\kf60} par{\kf41}ty{\kf32} just{\kf28} for{\kf175} you

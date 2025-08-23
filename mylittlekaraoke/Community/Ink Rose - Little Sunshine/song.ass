@@ -1,95 +1,102 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Little Sunshine
+Artist: Ink Rose
+Original Timing: mylittlekaraoke.com by ShTHfan1
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:55.74,0:00:59.19,DEFAULT,,0,0,0,,{\kf60}Hey,{\kf53} there{\kf23} Lit{\kf27}tle{\kf49} Sun{\kf30}shi{\kf45}-ine
-Dialogue: 0,0:00:59.94,0:01:02.49,DEFAULT,,0,0,0,,{\kf60}How{\kf83} do{\kf23} you{\kf53} do?
-Dialogue: 0,0:01:03.77,0:01:07.14,DEFAULT,,0,0,0,,{\kf53}There’s{\kf53} a{\kf60} great{\kf23} ki{\kf38}-ing{\kf60}dom
-Dialogue: 0,0:01:07.89,0:01:11.49,DEFAULT,,0,0,0,,{\kf53}Wai{\kf53}ting{\kf45} fo{\kf15}-or{\kf150} you!
-Dialogue: 0,0:01:12.24,0:01:15.84,DEFAULT,,0,0,0,,{\kf23}As{\kf53} you{\kf68} lay{\kf45} your{\kf30} ti{\kf30}ny{\kf60} head
-Dialogue: 0,0:01:16.59,0:01:19.59,DEFAULT,,0,0,0,,{\kf68}Dream{\kf83} of{\kf30} the{\kf90} world
-Dialogue: 0,0:01:20.49,0:01:23.79,DEFAULT,,0,0,0,,{\kf68}They’re{\kf75} gon{\kf30}na{\kf30} lo{\kf23}-ove{\kf60} you
-Dialogue: 0,0:01:24.24,0:01:29.04,DEFAULT,,0,0,0,,{\kf30}Their{\kf60} sun{\kf60} will{\kf68} re{\kf225}turn!
-Dialogue: 0,0:01:29.83,0:01:31.59,DEFAULT,,0,0,0,,{\kf34}Lit{\kf23}tle{\kf53} Sun{\kf45}shine
-Dialogue: 0,0:01:31.74,0:01:33.54,DEFAULT,,0,0,0,,{\kf30}Lit{\kf23}tle{\kf60} Sun{\kf45}shine
-Dialogue: 0,0:01:33.69,0:01:36.99,DEFAULT,,0,0,0,,{\kf23}Let{\kf23} your{\kf60} ra{\kf83}di{\kf23}ance{\kf68} show!
-Dialogue: 0,0:01:37.67,0:01:39.39,DEFAULT,,0,0,0,,{\kf27}Lit{\kf27}tle{\kf49} Sun{\kf49}shine
-Dialogue: 0,0:01:39.54,0:01:41.31,DEFAULT,,0,0,0,,{\kf23}Lit{\kf30}tle{\kf53} Sun{\kf49}shine
-Dialogue: 0,0:01:41.46,0:01:44.49,DEFAULT,,0,0,0,,{\kf27}Let{\kf23} your{\kf60} kind{\kf68} he{\kf30}-art{\kf60} glow!
-Dialogue: 0,0:01:45.47,0:01:49.22,DEFAULT,,0,0,0,,{\kf23}Though{\kf27} the{\kf60} sha{\kf87}dows{\kf27} may{\kf34} clo{\kf27}-ose{\kf45} in
-Dialogue: 0,0:01:49.89,0:01:52.44,DEFAULT,,0,0,0,,{\kf53}You{\kf53} will{\kf45} stay{\kf60} strong
-Dialogue: 0,0:01:53.64,0:01:56.87,DEFAULT,,0,0,0,,{\kf68}Your{\kf83} lit{\kf23}tle{\kf30} spark{\kf23} of{\kf60} love
-Dialogue: 0,0:01:57.24,0:02:01.44,DEFAULT,,0,0,0,,{\kf23}Will{\kf68} cast{\kf60} out{\kf60} the{\kf180} dark!
-Dialogue: 0,0:02:01.74,0:02:04.89,DEFAULT,,0,0,0,,{\kf60}Know{\kf83} that{\kf30} you’re{\kf34} not{\kf27} a{\kf53}lone
-Dialogue: 0,0:02:05.64,0:02:08.34,DEFAULT,,0,0,0,,{\kf23}The{\kf53} moon’s{\kf83} at{\kf30} your{\kf53} side
-Dialogue: 0,0:02:09.39,0:02:12.99,DEFAULT,,0,0,0,,{\kf23}To{\kf49}ge{\kf75}ther,{\kf30} you’ll{\kf30} cleanse{\kf23} the{\kf68} world
-Dialogue: 0,0:02:13.37,0:02:18.92,DEFAULT,,0,0,0,,{\kf23}You’ll{\kf30} al{\kf30}ways{\kf53} be{\kf42} my{\kf15}-y{\kf323} pride!
-Dialogue: 0,0:02:19.44,0:02:21.17,DEFAULT,,0,0,0,,{\kf30}Lit{\kf27}tle{\kf53} Sun{\kf45}shine
-Dialogue: 0,0:02:21.32,0:02:23.08,DEFAULT,,0,0,0,,{\kf30}Lit{\kf23}tle{\kf49} Sun{\kf53}shine
-Dialogue: 0,0:02:23.27,0:02:26.27,DEFAULT,,0,0,0,,{\kf23}Let{\kf23} your{\kf49} ra{\kf83}di{\kf23}ance{\kf60} show!
-Dialogue: 0,0:02:27.02,0:02:28.74,DEFAULT,,0,0,0,,{\kf27}Lit{\kf23}tle{\kf49} Sun{\kf53}shine
-Dialogue: 0,0:02:28.89,0:02:30.54,DEFAULT,,0,0,0,,{\kf23}Lit{\kf23}tle{\kf53} Sun{\kf45}shine
-Dialogue: 0,0:02:30.69,0:02:33.62,DEFAULT,,0,0,0,,{\kf23}Let{\kf23} your{\kf53} kind{\kf75} he{\kf23}-art{\kf60} glow!
-Dialogue: 0,0:02:34.59,0:02:38.12,DEFAULT,,0,0,0,,{\kf23}I{\kf60} may{\kf60} not{\kf27} al{\kf27}ways{\kf27} be{\kf23}-e{\kf60} here
-Dialogue: 0,0:02:38.64,0:02:41.57,DEFAULT,,0,0,0,,{\kf23}To{\kf45} gu{\kf57}-ide{\kf60} your{\kf75} way
-Dialogue: 0,0:02:42.32,0:02:45.58,DEFAULT,,0,0,0,,{\kf15}But{\kf53} I{\kf87} know{\kf27} you’ll{\kf30} be{\kf27}-e{\kf53} fine
-Dialogue: 0,0:02:46.41,0:02:50.16,DEFAULT,,0,0,0,,{\kf64}Ru{\kf60}ling{\kf53} the{\kf177} day!
-Dialogue: 0,0:02:50.34,0:02:53.57,DEFAULT,,0,0,0,,{\kf45}Dance{\kf15} a{\kf49}mong{\kf23} the{\kf30} clouds,{\kf30} my{\kf45} dear
-Dialogue: 0,0:02:54.39,0:02:56.64,DEFAULT,,0,0,0,,{\kf57}Bring{\kf60} in{\kf15} the{\kf53} light
-Dialogue: 0,0:02:58.07,0:03:00.92,DEFAULT,,0,0,0,,{\kf49}Be{\kf60} good{\kf23} for{\kf23} me,{\kf30} my{\kf38} dear
-Dialogue: 0,0:03:01.74,0:03:04.74,DEFAULT,,0,0,0,,{\kf23}As{\kf53} my{\kf53} soul{\kf23} a{\kf60}lights...
-Dialogue: 0,0:03:06.62,0:03:08.79,DEFAULT,,0,0,0,,{\kf23}Lit{\kf23}tle{\kf57} Sun{\kf75}shine
-Dialogue: 0,0:03:09.47,0:03:11.64,DEFAULT,,0,0,0,,{\kf27}Lit{\kf30}tle{\kf53} Sun{\kf75}shine
-Dialogue: 0,0:03:12.69,0:03:16.89,DEFAULT,,0,0,0,,{\kf34}Let{\kf34} your{\kf68} ra{\kf75}di{\kf72}ance{\kf68} show...
-Dialogue: 0,0:03:18.54,0:03:21.09,DEFAULT,,0,0,0,,{\kf34}Lit{\kf30}tle{\kf57} Sun{\kf90}shine
-Dialogue: 0,0:03:21.99,0:03:24.39,DEFAULT,,0,0,0,,{\kf30}Lit{\kf34}tle{\kf57} Sun{\kf75}shine
-Dialogue: 0,0:03:25.67,0:03:31.44,DEFAULT,,0,0,0,,{\kf30}Let{\kf30} your{\kf75} kind{\kf90} he{\kf94}-art{\kf83} glow...
-Dialogue: 0,0:03:51.39,0:03:54.54,DEFAULT,,0,0,0,,{\kf53}Hey,{\kf53} there{\kf23} Lit{\kf15}tle{\kf53} Moon{\kf75}beam
-Dialogue: 0,0:03:55.14,0:03:57.58,DEFAULT,,0,0,0,,{\kf60}How{\kf90} do{\kf34} you{\kf42} do?
-Dialogue: 0,0:03:59.04,0:04:02.19,DEFAULT,,0,0,0,,{\kf53}There’s{\kf60} a{\kf45} great{\kf30} ki{\kf23}-ing{\kf60}dom
-Dialogue: 0,0:04:02.64,0:04:05.94,DEFAULT,,0,0,0,,{\kf23}Wai{\kf23}ting{\kf23} for{\kf60} me{\kf30} a{\kf30}-nd{\kf90} you!
-Dialogue: 0,0:04:06.92,0:04:10.44,DEFAULT,,0,0,0,,{\kf30}As{\kf60} you{\kf60} lay{\kf45} your{\kf38} ti{\kf23}ny{\kf45} head
-Dialogue: 0,0:04:11.42,0:04:14.12,DEFAULT,,0,0,0,,{\kf53}Dream{\kf94} of{\kf30} the{\kf75} world
-Dialogue: 0,0:04:15.09,0:04:18.17,DEFAULT,,0,0,0,,{\kf53}They’re{\kf83} gon{\kf23}na{\kf30} lo{\kf23}-ove{\kf53} you
-Dialogue: 0,0:04:18.54,0:04:22.89,DEFAULT,,0,0,0,,{\kf30}Their{\kf53} moon{\kf60} will{\kf53} re{\kf210}turn!
-Dialogue: 0,0:04:23.79,0:04:25.59,DEFAULT,,0,0,0,,{\kf23}Lit{\kf23}tle{\kf60} Moon{\kf53}beam
-Dialogue: 0,0:04:25.74,0:04:27.54,DEFAULT,,0,0,0,,{\kf27}Lit{\kf19}tle{\kf60} Moon{\kf53}beam
-Dialogue: 0,0:04:27.69,0:04:30.69,DEFAULT,,0,0,0,,{\kf23}Let{\kf23} your{\kf53} ra{\kf60}di{\kf45}ance{\kf53} show!
-Dialogue: 0,0:04:31.44,0:04:33.17,DEFAULT,,0,0,0,,{\kf34}Lit{\kf19}tle{\kf53} Moon{\kf45}beam
-Dialogue: 0,0:04:33.32,0:04:35.27,DEFAULT,,0,0,0,,{\kf38}Lit{\kf19}tle{\kf60} Moon{\kf53}beam
-Dialogue: 0,0:04:35.42,0:04:38.27,DEFAULT,,0,0,0,,{\kf23}Let{\kf23} your{\kf60} kind{\kf75} he{\kf27}-art{\kf38} glow!
-Dialogue: 0,0:04:39.62,0:04:43.07,DEFAULT,,0,0,0,,{\kf23}Though{\kf60} sha{\kf83}dows{\kf30} may{\kf38} clo{\kf15}-ose{\kf60} in
-Dialogue: 0,0:04:43.59,0:04:46.14,DEFAULT,,0,0,0,,{\kf45}You{\kf53} will{\kf45} stay{\kf75} strong
-Dialogue: 0,0:04:46.97,0:04:50.34,DEFAULT,,0,0,0,,{\kf23}Your{\kf45} lit{\kf57}tl{\kf45}-le{\kf27} spark{\kf30} of{\kf60} love
-Dialogue: 0,0:04:50.79,0:04:54.24,DEFAULT,,0,0,0,,{\kf23}Will{\kf45} cast{\kf57} out{\kf53} the{\kf120} dark!
-Dialogue: 0,0:04:55.07,0:04:57.92,DEFAULT,,0,0,0,,{\kf45}Know{\kf79} that{\kf30} you’re{\kf23} not{\kf23} a{\kf53}lone
-Dialogue: 0,0:04:58.37,0:05:01.22,DEFAULT,,0,0,0,,{\kf23}The{\kf53} sun’s{\kf79} at{\kf23} your{\kf75} side
-Dialogue: 0,0:05:01.89,0:05:05.42,DEFAULT,,0,0,0,,{\kf23}To{\kf53}ge{\kf90}ther,{\kf23} we’ll{\kf30} cleanse{\kf19} the{\kf72} world
-Dialogue: 0,0:05:05.72,0:05:10.14,DEFAULT,,0,0,0,,{\kf23}We’ll{\kf23} al{\kf30}ways{\kf45} be{\kf27} mo{\kf30}-om's{\kf225} pride!
-Dialogue: 0,0:05:10.89,0:05:12.54,DEFAULT,,0,0,0,,{\kf23}Lit{\kf23}tle{\kf53} Moon{\kf45}beam
-Dialogue: 0,0:05:12.69,0:05:14.27,DEFAULT,,0,0,0,,{\kf23}Lit{\kf27}tle{\kf53} Moon{\kf38}beam
-Dialogue: 0,0:05:14.42,0:05:17.49,DEFAULT,,0,0,0,,{\kf23}Let{\kf23} your{\kf53} ra{\kf60}di{\kf45}ance{\kf60} show!
-Dialogue: 0,0:05:18.39,0:05:20.04,DEFAULT,,0,0,0,,{\kf23}Lit{\kf23}tle{\kf53} Moon{\kf45}beam
-Dialogue: 0,0:05:20.19,0:05:21.84,DEFAULT,,0,0,0,,{\kf23}Lit{\kf23}tle{\kf53} Moon{\kf45}beam
-Dialogue: 0,0:05:21.99,0:05:25.29,DEFAULT,,0,0,0,,{\kf30}Let{\kf23} your{\kf53} kind{\kf68} he{\kf23}-art{\kf90} glow!
-Dialogue: 0,0:05:26.19,0:05:29.12,DEFAULT,,0,0,0,,{\kf53}Mom{\kf53} may{\kf53} not{\kf15} be{\kf30} here{\kf53} now
-Dialogue: 0,0:05:29.49,0:05:32.19,DEFAULT,,0,0,0,,{\kf15}But{\kf53} I'll{\kf83} guide{\kf23} your{\kf68} way
-Dialogue: 0,0:05:33.17,0:05:35.94,DEFAULT,,0,0,0,,{\kf45}I{\kf68} know{\kf23} that{\kf23} we’ll{\kf23} be{\kf60} fine
-Dialogue: 0,0:05:36.39,0:05:39.84,DEFAULT,,0,0,0,,{\kf23}Ru{\kf23}ling{\kf23} the{\kf45} night{\kf30} a{\kf23}-nd{\kf150} day!
-Dialogue: 0,0:05:40.14,0:05:42.99,DEFAULT,,0,0,0,,{\kf23}Dance{\kf23} a{\kf75}mong{\kf23} the{\kf30} clo{\kf68}-uds
-Dialogue: 0,0:05:43.89,0:05:46.07,DEFAULT,,0,0,0,,{\kf45}Bring{\kf75} in{\kf15} the{\kf60} night
-Dialogue: 0,0:05:47.34,0:05:50.12,DEFAULT,,0,0,0,,{\kf53}Be{\kf75} good{\kf23} for{\kf23} me,{\kf30} sis{\kf30}ter
-Dialogue: 0,0:05:50.79,0:05:54.54,DEFAULT,,0,0,0,,{\kf23}As{\kf45} our{\kf53} so{\kf38}-uls{\kf180} fly!
-Dialogue: 0,0:05:56.12,0:05:57.77,DEFAULT,,0,0,0,,{\kf27}Lit{\kf23}tle{\kf53} Moon{\kf45}beam
-Dialogue: 0,0:05:57.92,0:05:59.57,DEFAULT,,0,0,0,,{\kf27}Lit{\kf23}tle{\kf53} Moon{\kf45}beam
-Dialogue: 0,0:05:59.72,0:06:02.79,DEFAULT,,0,0,0,,{\kf19}Let{\kf23} your{\kf60} ra{\kf60}di{\kf45}ance{\kf53} show!
-Dialogue: 0,0:06:03.62,0:06:05.27,DEFAULT,,0,0,0,,{\kf30}Lit{\kf19}tle{\kf53} Moon{\kf45}beam
-Dialogue: 0,0:06:05.42,0:06:07.07,DEFAULT,,0,0,0,,{\kf23}Lit{\kf23}tle{\kf53} Moon{\kf45}beam
-Dialogue: 0,0:06:07.22,0:06:14.79,DEFAULT,,0,0,0,,{\kf23}Let{\kf23} your{\kf60} kind{\kf68} he{\kf128}-art{\kf323} glow!
+Dialogue: 0,0:00:55.75,0:00:59.20,DEFAULT,,0,0,0,,{\r}{\kf73}Hey,{\kf64} there{\kf27} Lit{\kf32}tle{\kf59} Sun{\kf36}shi{\kf54}-ine
+Dialogue: 0,0:00:59.95,0:01:02.50,DEFAULT,,0,0,0,,{\r}{\kf70}How{\kf97} do{\kf26} you{\kf62} do?
+Dialogue: 0,0:01:03.77,0:01:07.15,DEFAULT,,0,0,0,,{\r}{\kf62}There’s{\kf62} a{\kf71} great{\kf27} ki{\kf44}-ing{\kf72}dom
+Dialogue: 0,0:01:07.90,0:01:11.50,DEFAULT,,0,0,0,,{\r}{\kf60}Wai{\kf60}ting{\kf51} fo{\kf17}-or{\kf172} you!
+Dialogue: 0,0:01:12.25,0:01:15.85,DEFAULT,,0,0,0,,{\r}{\kf26}As{\kf61} you{\kf79} lay{\kf53} your{\kf35} ti{\kf35}ny{\kf71} head
+Dialogue: 0,0:01:16.60,0:01:19.60,DEFAULT,,0,0,0,,{\r}{\kf75}Dream{\kf92} of{\kf33} the{\kf100} world
+Dialogue: 0,0:01:20.50,0:01:23.80,DEFAULT,,0,0,0,,{\r}{\kf78}They’re{\kf87} gon{\kf35}na{\kf35} lo{\kf26}-ove{\kf69} you
+Dialogue: 0,0:01:24.25,0:01:29.05,DEFAULT,,0,0,0,,{\r}{\kf33}Their{\kf65} sun{\kf65} will{\kf73} re{\kf244}turn!
+Dialogue: 0,0:01:29.84,0:01:31.60,DEFAULT,,0,0,0,,{\r}{\kf39}Lit{\kf26}tle{\kf60} Sun{\kf51}shine
+Dialogue: 0,0:01:31.75,0:01:33.55,DEFAULT,,0,0,0,,{\r}{\kf34}Lit{\kf26}tle{\kf69} Sun{\kf51}shine
+Dialogue: 0,0:01:33.70,0:01:37.00,DEFAULT,,0,0,0,,{\r}{\kf27}Let{\kf27} your{\kf71} ra{\kf98}di{\kf27}ance{\kf80} show!
+Dialogue: 0,0:01:37.67,0:01:39.40,DEFAULT,,0,0,0,,{\r}{\kf30}Lit{\kf30}tle{\kf56} Sun{\kf56}shine
+Dialogue: 0,0:01:39.55,0:01:41.31,DEFAULT,,0,0,0,,{\r}{\kf26}Lit{\kf34}tle{\kf60} Sun{\kf56}shine
+Dialogue: 0,0:01:41.46,0:01:44.50,DEFAULT,,0,0,0,,{\r}{\kf30}Let{\kf26} your{\kf69} kind{\kf77} he{\kf34}-art{\kf68} glow!
+Dialogue: 0,0:01:45.47,0:01:49.22,DEFAULT,,0,0,0,,{\r}{\kf26}Though{\kf30} the{\kf69} sha{\kf99}dows{\kf30} may{\kf39} clo{\kf30}-ose{\kf52} in
+Dialogue: 0,0:01:49.90,0:01:52.45,DEFAULT,,0,0,0,,{\r}{\kf64}You{\kf64} will{\kf55} stay{\kf72} strong
+Dialogue: 0,0:01:53.65,0:01:56.87,DEFAULT,,0,0,0,,{\r}{\kf76}Your{\kf93} lit{\kf25}tle{\kf34} spark{\kf25} of{\kf69} love
+Dialogue: 0,0:01:57.25,0:02:01.45,DEFAULT,,0,0,0,,{\r}{\kf24}Will{\kf73} cast{\kf65} out{\kf65} the{\kf193} dark!
+Dialogue: 0,0:02:01.75,0:02:04.90,DEFAULT,,0,0,0,,{\r}{\kf66}Know{\kf91} that{\kf33} you’re{\kf37} not{\kf29} a{\kf59}lone
+Dialogue: 0,0:02:05.65,0:02:08.35,DEFAULT,,0,0,0,,{\r}{\kf25}The{\kf59} moon’s{\kf93} at{\kf34} your{\kf59} side
+Dialogue: 0,0:02:09.40,0:02:13.00,DEFAULT,,0,0,0,,{\r}{\kf27}To{\kf59}ge{\kf91}ther,{\kf36} you’ll{\kf36} cleanse{\kf27} the{\kf84} world
+Dialogue: 0,0:02:13.37,0:02:18.92,DEFAULT,,0,0,0,,{\r}{\kf24}You’ll{\kf32} al{\kf32}ways{\kf57} be{\kf45} my{\kf16}-y{\kf349} pride!
+Dialogue: 0,0:02:19.45,0:02:21.17,DEFAULT,,0,0,0,,{\r}{\kf34}Lit{\kf29}tle{\kf59} Sun{\kf50}shine
+Dialogue: 0,0:02:21.32,0:02:23.09,DEFAULT,,0,0,0,,{\r}{\kf34}Lit{\kf26}tle{\kf56} Sun{\kf60}shine
+Dialogue: 0,0:02:23.27,0:02:26.27,DEFAULT,,0,0,0,,{\r}{\kf26}Let{\kf26} your{\kf57} ra{\kf96}di{\kf26}ance{\kf69} show!
+Dialogue: 0,0:02:27.02,0:02:28.75,DEFAULT,,0,0,0,,{\r}{\kf30}Lit{\kf26}tle{\kf56} Sun{\kf60}shine
+Dialogue: 0,0:02:28.90,0:02:30.55,DEFAULT,,0,0,0,,{\r}{\kf26}Lit{\kf26}tle{\kf61} Sun{\kf52}shine
+Dialogue: 0,0:02:30.70,0:02:33.62,DEFAULT,,0,0,0,,{\r}{\kf26}Let{\kf26} your{\kf60} kind{\kf86} he{\kf26}-art{\kf68} glow!
+Dialogue: 0,0:02:34.60,0:02:38.12,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf70} may{\kf70} not{\kf31} al{\kf31}ways{\kf31} be{\kf26}-e{\kf68} here
+Dialogue: 0,0:02:38.65,0:02:41.57,DEFAULT,,0,0,0,,{\r}{\kf25}To{\kf51} gu{\kf64}-ide{\kf68} your{\kf85} way
+Dialogue: 0,0:02:42.32,0:02:45.59,DEFAULT,,0,0,0,,{\r}{\kf17}But{\kf59} I{\kf97} know{\kf30} you’ll{\kf34} be{\kf30}-e{\kf59} fine
+Dialogue: 0,0:02:46.41,0:02:50.16,DEFAULT,,0,0,0,,{\r}{\kf68}Ru{\kf64}ling{\kf56} the{\kf187} day!
+Dialogue: 0,0:02:50.35,0:02:53.57,DEFAULT,,0,0,0,,{\r}{\kf61}Dance{\kf20} a{\kf66}mong{\kf31} the{\kf41} clouds,{\kf41} my{\kf62} dear
+Dialogue: 0,0:02:54.40,0:02:56.65,DEFAULT,,0,0,0,,{\r}{\kf69}Bring{\kf73} in{\kf18} the{\kf65} light
+Dialogue: 0,0:02:58.07,0:03:00.92,DEFAULT,,0,0,0,,{\r}{\kf63}Be{\kf77} good{\kf29} for{\kf29} me,{\kf39} my{\kf48} dear
+Dialogue: 0,0:03:01.75,0:03:04.75,DEFAULT,,0,0,0,,{\r}{\kf32}As{\kf75} my{\kf75} soul{\kf32} a{\kf86}lights...
+Dialogue: 0,0:03:06.62,0:03:08.80,DEFAULT,,0,0,0,,{\r}{\kf28}Lit{\kf28}tle{\kf70} Sun{\kf92}shine
+Dialogue: 0,0:03:09.47,0:03:11.65,DEFAULT,,0,0,0,,{\r}{\kf31}Lit{\kf36}tle{\kf62} Sun{\kf89}shine
+Dialogue: 0,0:03:12.70,0:03:16.90,DEFAULT,,0,0,0,,{\r}{\kf41}Let{\kf41} your{\kf81} ra{\kf90}di{\kf86}ance{\kf81} show...
+Dialogue: 0,0:03:18.55,0:03:21.10,DEFAULT,,0,0,0,,{\r}{\kf41}Lit{\kf36}tle{\kf68} Sun{\kf110}shine
+Dialogue: 0,0:03:22.00,0:03:24.40,DEFAULT,,0,0,0,,{\r}{\kf37}Lit{\kf42}tle{\kf69} Sun{\kf92}shine
+Dialogue: 0,0:03:25.67,0:03:31.45,DEFAULT,,0,0,0,,{\r}{\kf43}Let{\kf43} your{\kf108} kind{\kf129} he{\kf135}-art{\kf119} glow...
+Dialogue: 0,0:03:51.40,0:03:54.55,DEFAULT,,0,0,0,,{\r}{\kf61}Hey,{\kf61} there{\kf26} Lit{\kf18}tle{\kf61} Moon{\kf88}beam
+Dialogue: 0,0:03:55.15,0:03:57.59,DEFAULT,,0,0,0,,{\r}{\kf65}How{\kf98} do{\kf37} you{\kf44} do?
+Dialogue: 0,0:03:59.05,0:04:02.20,DEFAULT,,0,0,0,,{\r}{\kf61}There’s{\kf70} a{\kf52} great{\kf35} ki{\kf26}-ing{\kf71}dom
+Dialogue: 0,0:04:02.65,0:04:05.95,DEFAULT,,0,0,0,,{\r}{\kf27}Wai{\kf27}ting{\kf27} for{\kf71} me{\kf36} a{\kf36}-nd{\kf106} you!
+Dialogue: 0,0:04:06.92,0:04:10.45,DEFAULT,,0,0,0,,{\r}{\kf35}As{\kf70} you{\kf70} lay{\kf53} your{\kf44} ti{\kf26}ny{\kf54} head
+Dialogue: 0,0:04:11.42,0:04:14.12,DEFAULT,,0,0,0,,{\r}{\kf56}Dream{\kf101} of{\kf32} the{\kf81} world
+Dialogue: 0,0:04:15.10,0:04:18.17,DEFAULT,,0,0,0,,{\r}{\kf62}They’re{\kf97} gon{\kf26}na{\kf35} lo{\kf26}-ove{\kf62} you
+Dialogue: 0,0:04:18.55,0:04:22.90,DEFAULT,,0,0,0,,{\r}{\kf32}Their{\kf56} moon{\kf64} will{\kf56} re{\kf227}turn!
+Dialogue: 0,0:04:23.80,0:04:25.60,DEFAULT,,0,0,0,,{\r}{\kf26}Lit{\kf26}tle{\kf69} Moon{\kf59}beam
+Dialogue: 0,0:04:25.75,0:04:27.55,DEFAULT,,0,0,0,,{\r}{\kf30}Lit{\kf21}tle{\kf69} Moon{\kf60}beam
+Dialogue: 0,0:04:27.70,0:04:30.70,DEFAULT,,0,0,0,,{\r}{\kf26}Let{\kf26} your{\kf62} ra{\kf71}di{\kf53}ance{\kf62} show!
+Dialogue: 0,0:04:31.45,0:04:33.17,DEFAULT,,0,0,0,,{\r}{\kf39}Lit{\kf22}tle{\kf61} Moon{\kf51}beam
+Dialogue: 0,0:04:33.32,0:04:35.27,DEFAULT,,0,0,0,,{\r}{\kf43}Lit{\kf22}tle{\kf69} Moon{\kf61}beam
+Dialogue: 0,0:04:35.42,0:04:38.27,DEFAULT,,0,0,0,,{\r}{\kf26}Let{\kf26} your{\kf70} kind{\kf88} he{\kf31}-art{\kf44} glow!
+Dialogue: 0,0:04:39.62,0:04:43.07,DEFAULT,,0,0,0,,{\r}{\kf25}Though{\kf67} sha{\kf93}dows{\kf34} may{\kf42} clo{\kf17}-ose{\kf67} in
+Dialogue: 0,0:04:43.60,0:04:46.15,DEFAULT,,0,0,0,,{\r}{\kf53}You{\kf62} will{\kf53} stay{\kf87} strong
+Dialogue: 0,0:04:46.97,0:04:50.35,DEFAULT,,0,0,0,,{\r}{\kf27}Your{\kf53} lit{\kf67}tl{\kf53}-le{\kf31} spark{\kf36} of{\kf71} love
+Dialogue: 0,0:04:50.80,0:04:54.25,DEFAULT,,0,0,0,,{\r}{\kf26}Will{\kf52} cast{\kf66} out{\kf61} the{\kf140} dark!
+Dialogue: 0,0:04:55.07,0:04:57.92,DEFAULT,,0,0,0,,{\r}{\kf51}Know{\kf89} that{\kf34} you’re{\kf26} not{\kf26} a{\kf59}lone
+Dialogue: 0,0:04:58.37,0:05:01.22,DEFAULT,,0,0,0,,{\r}{\kf26}The{\kf60} sun’s{\kf89} at{\kf26} your{\kf84} side
+Dialogue: 0,0:05:01.90,0:05:05.42,DEFAULT,,0,0,0,,{\r}{\kf26}To{\kf60}ge{\kf103}ther,{\kf26} we’ll{\kf34} cleanse{\kf21} the{\kf82} world
+Dialogue: 0,0:05:05.72,0:05:10.15,DEFAULT,,0,0,0,,{\r}{\kf25}We’ll{\kf25} al{\kf33}ways{\kf50} be{\kf29} mo{\kf33}-om's{\kf248} pride!
+Dialogue: 0,0:05:10.90,0:05:12.55,DEFAULT,,0,0,0,,{\r}{\kf26}Lit{\kf26}tle{\kf61} Moon{\kf52}beam
+Dialogue: 0,0:05:12.70,0:05:14.27,DEFAULT,,0,0,0,,{\r}{\kf25}Lit{\kf30}tle{\kf59} Moon{\kf43}beam
+Dialogue: 0,0:05:14.42,0:05:17.50,DEFAULT,,0,0,0,,{\r}{\kf26}Let{\kf26} your{\kf61} ra{\kf70}di{\kf53}ance{\kf71} show!
+Dialogue: 0,0:05:18.40,0:05:20.05,DEFAULT,,0,0,0,,{\r}{\kf26}Lit{\kf26}tle{\kf61} Moon{\kf52}beam
+Dialogue: 0,0:05:20.20,0:05:21.85,DEFAULT,,0,0,0,,{\r}{\kf26}Lit{\kf26}tle{\kf61} Moon{\kf52}beam
+Dialogue: 0,0:05:22.00,0:05:25.30,DEFAULT,,0,0,0,,{\r}{\kf35}Let{\kf26} your{\kf61} kind{\kf78} he{\kf26}-art{\kf104} glow!
+Dialogue: 0,0:05:26.20,0:05:29.12,DEFAULT,,0,0,0,,{\r}{\kf60}Mom{\kf60} may{\kf60} not{\kf17} be{\kf34} here{\kf62} now
+Dialogue: 0,0:05:29.50,0:05:32.20,DEFAULT,,0,0,0,,{\r}{\kf17}But{\kf59} I'll{\kf93} guide{\kf25} your{\kf76} way
+Dialogue: 0,0:05:33.17,0:05:35.95,DEFAULT,,0,0,0,,{\r}{\kf52}I{\kf78} know{\kf26} that{\kf26} we’ll{\kf26} be{\kf70} fine
+Dialogue: 0,0:05:36.40,0:05:39.85,DEFAULT,,0,0,0,,{\r}{\kf25}Ru{\kf25}ling{\kf25} the{\kf49} night{\kf33} a{\kf25}-nd{\kf163} day!
+Dialogue: 0,0:05:40.15,0:05:43.00,DEFAULT,,0,0,0,,{\r}{\kf27}Dance{\kf27} a{\kf89}mong{\kf27} the{\kf36} clo{\kf79}-uds
+Dialogue: 0,0:05:43.90,0:05:46.07,DEFAULT,,0,0,0,,{\r}{\kf50}Bring{\kf84} in{\kf17} the{\kf67} night
+Dialogue: 0,0:05:47.35,0:05:50.12,DEFAULT,,0,0,0,,{\r}{\kf63}Be{\kf89} good{\kf27} for{\kf27} me,{\kf36} sis{\kf35}ter
+Dialogue: 0,0:05:50.80,0:05:54.55,DEFAULT,,0,0,0,,{\r}{\kf25}As{\kf50} our{\kf58} so{\kf42}-uls{\kf200} fly!
+Dialogue: 0,0:05:56.12,0:05:57.77,DEFAULT,,0,0,0,,{\r}{\kf30}Lit{\kf25}tle{\kf59} Moon{\kf51}beam
+Dialogue: 0,0:05:57.92,0:05:59.57,DEFAULT,,0,0,0,,{\r}{\kf30}Lit{\kf25}tle{\kf59} Moon{\kf51}beam
+Dialogue: 0,0:05:59.72,0:06:02.80,DEFAULT,,0,0,0,,{\r}{\kf22}Let{\kf27} your{\kf71} ra{\kf71}di{\kf53}ance{\kf63} show!
+Dialogue: 0,0:06:03.62,0:06:05.27,DEFAULT,,0,0,0,,{\r}{\kf34}Lit{\kf21}tle{\kf59} Moon{\kf51}beam
+Dialogue: 0,0:06:05.42,0:06:07.07,DEFAULT,,0,0,0,,{\r}{\kf26}Lit{\kf26}tle{\kf61} Moon{\kf52}beam
+Dialogue: 0,0:06:07.22,0:06:14.80,DEFAULT,,0,0,0,,{\r}{\kf27}Let{\kf27} your{\kf73} kind{\kf82} he{\kf155}-art{\kf393} glow!

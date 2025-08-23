@@ -1,76 +1,83 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Under My Wings (ft Coconeru)
+Artist: Matthew Mosier
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.69,0:00:08.99,DEFAULT,,0,0,0,,{\kf20}The{\kf20} blue{\kf56} sky
-Dialogue: 0,0:00:09.35,0:00:10.70,DEFAULT,,0,0,0,,{\kf12}Is{\kf20} all{\kf20} I{\kf40} need
-Dialogue: 0,0:00:11.02,0:00:12.53,DEFAULT,,0,0,0,,{\kf16}The{\kf32} wind{\kf16} in{\kf16} my{\kf28} face
-Dialogue: 0,0:00:12.76,0:00:14.51,DEFAULT,,0,0,0,,{\kf12}And{\kf16} the{\kf40} warmth{\kf8} of{\kf12} the{\kf32} sun
-Dialogue: 0,0:00:14.67,0:00:16.57,DEFAULT,,0,0,0,,{\kf16}I'm{\kf16} just{\kf28} beam{\kf100}ing
-Dialogue: 0,0:00:22.80,0:00:25.94,DEFAULT,,0,0,0,,{\kf20}Wher{\kf24}e{\kf24}ver{\kf32} I{\kf16} am{\kf16} to{\kf32} go{\kf20}~{\kf60}~
-Dialogue: 0,0:00:26.18,0:00:29.91,DEFAULT,,0,0,0,,{\kf20}I{\kf16} will{\kf52} know{\kf28}~{\kf48}~{\kf16}~{\kf16} to{\kf44}day{\kf12}~{\kf64}~
-Dialogue: 0,0:00:30.74,0:00:33.84,DEFAULT,,0,0,0,,{\kf68}If{\kf20} e{\kf16}ver{\kf16} the{\kf24} world{\kf12}~{\kf28} should{\kf44} slow
-Dialogue: 0,0:00:34.51,0:00:37.72,DEFAULT,,0,0,0,,{\kf20}I'll{\kf16} be{\kf16} in{\kf16} the{\kf32} sky{\kf20} mak{\kf16}ing{\kf16} my{\kf24} own{\kf56} shade
-Dialogue: 0,0:00:37.96,0:00:39.39,DEFAULT,,0,0,0,,{\kf32}And{\kf96} I
-Dialogue: 0,0:00:39.59,0:00:41.34,DEFAULT,,0,0,0,,{\kf16}Will{\kf16} just{\kf28} fly{\kf20}~{\kf20} a{\kf28}way
-Dialogue: 0,0:00:41.49,0:00:43.60,DEFAULT,,0,0,0,,{\kf12}Let{\kf16} the{\kf52} breeze{\kf20} car{\kf16}ry{\kf36} me
-Dialogue: 0,0:00:43.92,0:00:45.70,DEFAULT,,0,0,0,,{\kf40}Sky{\kf32}ward{\kf36} danc{\kf24}ing{\kf8}~
-Dialogue: 0,0:00:45.86,0:00:46.97,DEFAULT,,0,0,0,,{\kf12}And{\kf88} I
-Dialogue: 0,0:00:47.33,0:00:49.03,DEFAULT,,0,0,0,,{\kf12}Will{\kf16} just{\kf24} soar{\kf32}~{\kf16} to{\kf28}day
-Dialogue: 0,0:00:49.23,0:00:50.98,DEFAULT,,0,0,0,,{\kf12}Let{\kf16} the{\kf32} gusts{\kf28} of{\kf36} wind
-Dialogue: 0,0:00:51.34,0:00:55.34,DEFAULT,,0,0,0,,{\kf32}Glide{\kf24} un{\kf24}der{\kf24} my{\kf24} wings{\kf20}~{\kf20}~{\kf159}~
-Dialogue: 0,0:01:01.45,0:01:02.69,DEFAULT,,0,0,0,,{\kf28}Free{\kf20}dom{\kf56} flies
-Dialogue: 0,0:01:03.32,0:01:04.59,DEFAULT,,0,0,0,,{\kf24}Fast{\kf16} and{\kf52} free
-Dialogue: 0,0:01:04.75,0:01:06.61,DEFAULT,,0,0,0,,{\kf16}The{\kf32} rain{\kf16} clouds{\kf12} are{\kf24} too{\kf16} slow
-Dialogue: 0,0:01:06.81,0:01:09.99,DEFAULT,,0,0,0,,{\kf16}And{\kf28} they{\kf16} will{\kf20} ne{\kf16}ver{\kf20} catch{\kf20} up{\kf24} with{\kf68} me
-Dialogue: 0,0:01:12.96,0:01:15.22,DEFAULT,,0,0,0,,{\kf60}Catch{\kf56} up{\kf24} with{\kf48} me
-Dialogue: 0,0:01:16.53,0:01:19.83,DEFAULT,,0,0,0,,{\kf24}I'll{\kf40} drift{\kf16} be{\kf40}yond{\kf12}~{\kf16} the{\kf20} sky{\kf12}~{\kf20}~{\kf12}~{\kf36}~
-Dialogue: 0,0:01:20.19,0:01:24.03,DEFAULT,,0,0,0,,{\kf16}Fill{\kf16} my{\kf28} lungs{\kf16} with{\kf32} un{\kf20}touched{\kf12}~{\kf28} air{\kf16}~{\kf96}~
-Dialogue: 0,0:01:24.43,0:01:27.57,DEFAULT,,0,0,0,,{\kf88}Soar{\kf16} where{\kf12} there{\kf12} is{\kf28} no{\kf24} such{\kf48} war
-Dialogue: 0,0:01:28.08,0:01:31.30,DEFAULT,,0,0,0,,{\kf16}Not{\kf16} e{\kf16}ven{\kf16} the{\kf36} trees{\kf32} can{\kf20} reach{\kf24} us{\kf36} here
-Dialogue: 0,0:01:31.69,0:01:33.16,DEFAULT,,0,0,0,,{\kf28}And{\kf100} I
-Dialogue: 0,0:01:33.40,0:01:35.11,DEFAULT,,0,0,0,,{\kf12}Will{\kf16} just{\kf24} fly{\kf28}~{\kf16} a{\kf32}way
-Dialogue: 0,0:01:35.26,0:01:37.29,DEFAULT,,0,0,0,,{\kf12}Let{\kf16} the{\kf56} breeze{\kf16} car{\kf16}ry{\kf32} me
-Dialogue: 0,0:01:37.69,0:01:39.47,DEFAULT,,0,0,0,,{\kf40}Sky{\kf32}ward{\kf32} danc{\kf24}ing{\kf8}~
-Dialogue: 0,0:01:39.63,0:01:40.74,DEFAULT,,0,0,0,,{\kf12}And{\kf88} I
-Dialogue: 0,0:01:41.06,0:01:42.80,DEFAULT,,0,0,0,,{\kf12}Will{\kf12} just{\kf24} soar{\kf36}~{\kf12} to{\kf32}day
-Dialogue: 0,0:01:43.00,0:01:44.71,DEFAULT,,0,0,0,,{\kf12}Let{\kf12} the{\kf24} gusts{\kf24} of{\kf36} wind
-Dialogue: 0,0:01:45.11,0:01:46.93,DEFAULT,,0,0,0,,{\kf24}Glide{\kf28} un{\kf20}der{\kf24} my{\kf24} wings
-Dialogue: 0,0:01:47.09,0:01:48.52,DEFAULT,,0,0,0,,{\kf28}And{\kf92} I
-Dialogue: 0,0:01:48.76,0:01:50.46,DEFAULT,,0,0,0,,{\kf12}Will{\kf16} just{\kf32} fly{\kf16}~{\kf16} a{\kf32}way
-Dialogue: 0,0:01:50.66,0:01:52.69,DEFAULT,,0,0,0,,{\kf12}Let{\kf12} the{\kf52} breeze{\kf20} car{\kf16}ry{\kf32} me
-Dialogue: 0,0:01:53.04,0:01:54.75,DEFAULT,,0,0,0,,{\kf32}Sky{\kf32}ward{\kf32} danc{\kf28}ing
-Dialogue: 0,0:01:54.99,0:01:56.10,DEFAULT,,0,0,0,,{\kf12}And{\kf88} I
-Dialogue: 0,0:01:56.45,0:01:58.12,DEFAULT,,0,0,0,,{\kf12}Will{\kf16} just{\kf20} soar{\kf36}~{\kf12} to{\kf24}day
-Dialogue: 0,0:01:58.40,0:02:00.07,DEFAULT,,0,0,0,,{\kf12}Let{\kf12} the{\kf28} gusts{\kf28} of{\kf28} wind
-Dialogue: 0,0:02:00.46,0:02:04.47,DEFAULT,,0,0,0,,{\kf32}Glide{\kf24} un{\kf20}der{\kf24} my{\kf20} wings{\kf16}~{\kf16}~{\kf167}~
-Dialogue: 0,0:02:18.20,0:02:19.67,DEFAULT,,0,0,0,,{\kf28}Got{\kf16}ta{\kf16} leave{\kf20} Clouds{\kf16}dale
-Dialogue: 0,0:02:19.83,0:02:21.34,DEFAULT,,0,0,0,,{\kf20}There's{\kf24} more{\kf16} than{\kf20} this{\kf24} home
-Dialogue: 0,0:02:21.69,0:02:23.56,DEFAULT,,0,0,0,,{\kf12}If{\kf12} you{\kf24} wan{\kf16}na{\kf16} see{\kf28} beau{\kf12}ty
-Dialogue: 0,0:02:23.76,0:02:25.26,DEFAULT,,0,0,0,,{\kf24}Be{\kf20}yond{\kf16} what{\kf20} you've{\kf28} known
-Dialogue: 0,0:02:25.94,0:02:27.09,DEFAULT,,0,0,0,,{\kf16}Look{\kf12} to{\kf16} the{\kf20} moon
-Dialogue: 0,0:02:27.25,0:02:29.15,DEFAULT,,0,0,0,,{\kf20}As{\kf16} it{\kf20} sits{\kf12} in{\kf12} the{\kf36} sky
-Dialogue: 0,0:02:29.51,0:02:31.22,DEFAULT,,0,0,0,,{\kf16}The{\kf28} ma{\kf20}gic,{\kf20} the{\kf28} won{\kf12}der
-Dialogue: 0,0:02:31.38,0:02:34.19,DEFAULT,,0,0,0,,{\kf12}Of{\kf32} float{\kf20}ing{\kf28} on{\kf131} high
-Dialogue: 0,0:02:34.83,0:02:36.57,DEFAULT,,0,0,0,,{\kf16}...Will{\kf16} just{\kf20} fly{\kf16}~{\kf16} a{\kf32}way
-Dialogue: 0,0:02:36.73,0:02:38.76,DEFAULT,,0,0,0,,{\kf12}Let{\kf16} the{\kf48} breeze{\kf24} car{\kf16}ry{\kf28} me
-Dialogue: 0,0:02:39.15,0:02:40.82,DEFAULT,,0,0,0,,{\kf36}Sky{\kf28}ward{\kf28} danc{\kf24}ing
-Dialogue: 0,0:02:41.02,0:02:42.13,DEFAULT,,0,0,0,,{\kf16}And{\kf84} I
-Dialogue: 0,0:02:42.53,0:02:44.23,DEFAULT,,0,0,0,,{\kf12}Will{\kf12} just{\kf24} soar{\kf28}~{\kf16} to{\kf28}day
-Dialogue: 0,0:02:44.43,0:02:46.14,DEFAULT,,0,0,0,,{\kf12}Let{\kf12} the{\kf32} gusts{\kf24} of{\kf32} wind
-Dialogue: 0,0:02:46.53,0:02:48.40,DEFAULT,,0,0,0,,{\kf32}Glide{\kf20} un{\kf24}der{\kf32} my{\kf20} wings
-Dialogue: 0,0:02:48.60,0:02:49.91,DEFAULT,,0,0,0,,{\kf12}And{\kf92} I
-Dialogue: 0,0:02:50.15,0:02:51.85,DEFAULT,,0,0,0,,{\kf16}Will{\kf16} just{\kf24} fly{\kf20}~{\kf20} a{\kf28}way
-Dialogue: 0,0:02:52.05,0:02:54.07,DEFAULT,,0,0,0,,{\kf16}Let{\kf16} the{\kf48} breeze{\kf16} car{\kf16}ry{\kf32} me
-Dialogue: 0,0:02:54.51,0:02:56.18,DEFAULT,,0,0,0,,{\kf32}Sky{\kf28}ward{\kf32} danc{\kf24}ing
-Dialogue: 0,0:02:56.38,0:02:57.53,DEFAULT,,0,0,0,,{\kf12}And{\kf88} I
-Dialogue: 0,0:02:57.84,0:02:59.59,DEFAULT,,0,0,0,,{\kf12}Will{\kf12} just{\kf20} soar{\kf36}~{\kf12} to{\kf28}day
-Dialogue: 0,0:02:59.79,0:03:01.49,DEFAULT,,0,0,0,,{\kf12}Let{\kf12} the{\kf28} gusts{\kf24} of{\kf28} wind
-Dialogue: 0,0:03:01.93,0:03:05.82,DEFAULT,,0,0,0,,{\kf32}Glide{\kf24} un{\kf20}der{\kf28} my{\kf16} wings{\kf20}~{\kf20}~{\kf151}~
+Dialogue: 0,0:00:07.69,0:00:09.00,DEFAULT,,0,0,0,,{\r}{\kf27}The{\kf27} blue{\kf77} sky
+Dialogue: 0,0:00:09.36,0:00:10.71,DEFAULT,,0,0,0,,{\r}{\kf18}Is{\kf29} all{\kf29} I{\kf59} need
+Dialogue: 0,0:00:11.02,0:00:12.53,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf45} wind{\kf22} in{\kf22} my{\kf40} face
+Dialogue: 0,0:00:12.77,0:00:14.52,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf23} the{\kf58} warmth{\kf12} of{\kf18} the{\kf46} sun
+Dialogue: 0,0:00:14.67,0:00:16.58,DEFAULT,,0,0,0,,{\r}{\kf19}I'm{\kf19} just{\kf33} beam{\kf119}ing
+Dialogue: 0,0:00:22.81,0:00:25.94,DEFAULT,,0,0,0,,{\r}{\kf26}Wher{\kf31}e{\kf31}ver{\kf41} I{\kf21} am{\kf21} to{\kf41} go{\kf26}~{\kf75}~
+Dialogue: 0,0:00:26.18,0:00:29.91,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf19} will{\kf61} know{\kf33}~{\kf57}~{\kf19}~{\kf19} to{\kf52}day{\kf14}~{\kf75}~
+Dialogue: 0,0:00:30.75,0:00:33.84,DEFAULT,,0,0,0,,{\r}{\kf92}If{\kf27} e{\kf22}ver{\kf22} the{\kf33} world{\kf16}~{\kf38} should{\kf60} slow
+Dialogue: 0,0:00:34.52,0:00:37.73,DEFAULT,,0,0,0,,{\r}{\kf28}I'll{\kf22} be{\kf22} in{\kf22} the{\kf44} sky{\kf28} mak{\kf22}ing{\kf22} my{\kf33} own{\kf78} shade
+Dialogue: 0,0:00:37.97,0:00:39.40,DEFAULT,,0,0,0,,{\r}{\kf36}And{\kf107} I
+Dialogue: 0,0:00:39.59,0:00:41.34,DEFAULT,,0,0,0,,{\r}{\kf22}Will{\kf22} just{\kf38} fly{\kf27}~{\kf27} a{\kf39}way
+Dialogue: 0,0:00:41.50,0:00:43.60,DEFAULT,,0,0,0,,{\r}{\kf17}Let{\kf22} the{\kf72} breeze{\kf28} car{\kf22}ry{\kf49} me
+Dialogue: 0,0:00:43.92,0:00:45.71,DEFAULT,,0,0,0,,{\r}{\kf51}Sky{\kf41}ward{\kf46} danc{\kf31}ing{\kf10}~
+Dialogue: 0,0:00:45.86,0:00:46.98,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf98} I
+Dialogue: 0,0:00:47.33,0:00:49.04,DEFAULT,,0,0,0,,{\r}{\kf16}Will{\kf21} just{\kf32} soar{\kf43}~{\kf21} to{\kf38}day
+Dialogue: 0,0:00:49.24,0:00:50.98,DEFAULT,,0,0,0,,{\r}{\kf17}Let{\kf23} the{\kf45} gusts{\kf40} of{\kf50} wind
+Dialogue: 0,0:00:51.34,0:00:55.35,DEFAULT,,0,0,0,,{\r}{\kf39}Glide{\kf29} un{\kf29}der{\kf29} my{\kf29} wings{\kf24}~{\kf24}~{\kf198}~
+Dialogue: 0,0:01:01.46,0:01:02.69,DEFAULT,,0,0,0,,{\r}{\kf33}Free{\kf24}dom{\kf66} flies
+Dialogue: 0,0:01:03.32,0:01:04.59,DEFAULT,,0,0,0,,{\r}{\kf33}Fast{\kf22} and{\kf72} free
+Dialogue: 0,0:01:04.75,0:01:06.62,DEFAULT,,0,0,0,,{\r}{\kf26}The{\kf52} rain{\kf26} clouds{\kf19} are{\kf39} too{\kf25} slow
+Dialogue: 0,0:01:06.82,0:01:09.99,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf39} they{\kf22} will{\kf28} ne{\kf22}ver{\kf28} catch{\kf28} up{\kf33} with{\kf95} me
+Dialogue: 0,0:01:12.97,0:01:15.23,DEFAULT,,0,0,0,,{\r}{\kf72}Catch{\kf67} up{\kf29} with{\kf58} me
+Dialogue: 0,0:01:16.54,0:01:19.83,DEFAULT,,0,0,0,,{\r}{\kf32}I'll{\kf53} drift{\kf21} be{\kf53}yond{\kf16}~{\kf21} the{\kf27} sky{\kf16}~{\kf27}~{\kf16}~{\kf47}~
+Dialogue: 0,0:01:20.19,0:01:24.04,DEFAULT,,0,0,0,,{\r}{\kf22}Fill{\kf22} my{\kf38} lungs{\kf22} with{\kf44} un{\kf28}touched{\kf16}~{\kf38} air{\kf22}~{\kf133}~
+Dialogue: 0,0:01:24.44,0:01:27.57,DEFAULT,,0,0,0,,{\r}{\kf121}Soar{\kf22} where{\kf16} there{\kf16} is{\kf38} no{\kf33} such{\kf67} war
+Dialogue: 0,0:01:28.09,0:01:31.30,DEFAULT,,0,0,0,,{\r}{\kf24}Not{\kf24} e{\kf24}ven{\kf24} the{\kf55} trees{\kf48} can{\kf30} reach{\kf36} us{\kf56} here
+Dialogue: 0,0:01:31.70,0:01:33.17,DEFAULT,,0,0,0,,{\r}{\kf32}And{\kf115} I
+Dialogue: 0,0:01:33.40,0:01:35.11,DEFAULT,,0,0,0,,{\r}{\kf16}Will{\kf21} just{\kf32} fly{\kf37}~{\kf21} a{\kf44}way
+Dialogue: 0,0:01:35.27,0:01:37.29,DEFAULT,,0,0,0,,{\r}{\kf16}Let{\kf22} the{\kf76} breeze{\kf22} car{\kf22}ry{\kf44} me
+Dialogue: 0,0:01:37.69,0:01:39.48,DEFAULT,,0,0,0,,{\r}{\kf53}Sky{\kf42}ward{\kf42} danc{\kf32}ing{\kf10}~
+Dialogue: 0,0:01:39.63,0:01:40.75,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf98} I
+Dialogue: 0,0:01:41.06,0:01:42.81,DEFAULT,,0,0,0,,{\r}{\kf16}Will{\kf16} just{\kf33} soar{\kf49}~{\kf16} to{\kf45}day
+Dialogue: 0,0:01:43.01,0:01:44.71,DEFAULT,,0,0,0,,{\r}{\kf19}Let{\kf19} the{\kf38} gusts{\kf38} of{\kf57} wind
+Dialogue: 0,0:01:45.11,0:01:46.94,DEFAULT,,0,0,0,,{\r}{\kf37}Glide{\kf43} un{\kf30}der{\kf37} my{\kf36} wings
+Dialogue: 0,0:01:47.09,0:01:48.52,DEFAULT,,0,0,0,,{\r}{\kf33}And{\kf110} I
+Dialogue: 0,0:01:48.76,0:01:50.47,DEFAULT,,0,0,0,,{\r}{\kf17}Will{\kf22} just{\kf44} fly{\kf22}~{\kf22} a{\kf44}way
+Dialogue: 0,0:01:50.67,0:01:52.69,DEFAULT,,0,0,0,,{\r}{\kf17}Let{\kf17} the{\kf73} breeze{\kf28} car{\kf22}ry{\kf45} me
+Dialogue: 0,0:01:53.05,0:01:54.75,DEFAULT,,0,0,0,,{\r}{\kf44}Sky{\kf44}ward{\kf44} danc{\kf39}ing
+Dialogue: 0,0:01:54.99,0:01:56.10,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf98} I
+Dialogue: 0,0:01:56.46,0:01:58.13,DEFAULT,,0,0,0,,{\r}{\kf17}Will{\kf22} just{\kf28} soar{\kf50}~{\kf17} to{\kf33}day
+Dialogue: 0,0:01:58.40,0:02:00.07,DEFAULT,,0,0,0,,{\r}{\kf19}Let{\kf19} the{\kf43} gusts{\kf43} of{\kf43} wind
+Dialogue: 0,0:02:00.47,0:02:04.48,DEFAULT,,0,0,0,,{\r}{\kf40}Glide{\kf30} un{\kf25}der{\kf30} my{\kf25} wings{\kf20}~{\kf20}~{\kf211}~
+Dialogue: 0,0:02:18.21,0:02:19.67,DEFAULT,,0,0,0,,{\r}{\kf43}Got{\kf24}ta{\kf24} leave{\kf31} Clouds{\kf25}dale
+Dialogue: 0,0:02:19.83,0:02:21.34,DEFAULT,,0,0,0,,{\r}{\kf29}There's{\kf35} more{\kf23} than{\kf29} this{\kf35} home
+Dialogue: 0,0:02:21.70,0:02:23.56,DEFAULT,,0,0,0,,{\r}{\kf19}If{\kf19} you{\kf37} wan{\kf25}na{\kf25} see{\kf44} beau{\kf18}ty
+Dialogue: 0,0:02:23.76,0:02:25.27,DEFAULT,,0,0,0,,{\r}{\kf34}Be{\kf28}yond{\kf22} what{\kf28} you've{\kf39} known
+Dialogue: 0,0:02:25.94,0:02:27.09,DEFAULT,,0,0,0,,{\r}{\kf29}Look{\kf22} to{\kf29} the{\kf35} moon
+Dialogue: 0,0:02:27.25,0:02:29.16,DEFAULT,,0,0,0,,{\r}{\kf33}As{\kf26} it{\kf33} sits{\kf20} in{\kf20} the{\kf58} sky
+Dialogue: 0,0:02:29.52,0:02:31.22,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf39} ma{\kf28}gic,{\kf28} the{\kf39} won{\kf15}der
+Dialogue: 0,0:02:31.38,0:02:34.20,DEFAULT,,0,0,0,,{\r}{\kf15}Of{\kf40} float{\kf25}ing{\kf35} on{\kf167} high
+Dialogue: 0,0:02:34.83,0:02:36.58,DEFAULT,,0,0,0,,{\r}{\kf24}...Will{\kf24} just{\kf30} fly{\kf24}~{\kf24} a{\kf49}way
+Dialogue: 0,0:02:36.74,0:02:38.76,DEFAULT,,0,0,0,,{\r}{\kf17}Let{\kf22} the{\kf67} breeze{\kf34} car{\kf22}ry{\kf40} me
+Dialogue: 0,0:02:39.16,0:02:40.82,DEFAULT,,0,0,0,,{\r}{\kf52}Sky{\kf40}ward{\kf40} danc{\kf35}ing
+Dialogue: 0,0:02:41.02,0:02:42.13,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf93} I
+Dialogue: 0,0:02:42.53,0:02:44.24,DEFAULT,,0,0,0,,{\r}{\kf17}Will{\kf17} just{\kf34} soar{\kf40}~{\kf23} to{\kf40}day
+Dialogue: 0,0:02:44.44,0:02:46.14,DEFAULT,,0,0,0,,{\r}{\kf18}Let{\kf18} the{\kf49} gusts{\kf37} of{\kf49} wind
+Dialogue: 0,0:02:46.54,0:02:48.40,DEFAULT,,0,0,0,,{\r}{\kf47}Glide{\kf29} un{\kf35}der{\kf47} my{\kf29} wings
+Dialogue: 0,0:02:48.60,0:02:49.91,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf116} I
+Dialogue: 0,0:02:50.15,0:02:51.86,DEFAULT,,0,0,0,,{\r}{\kf22}Will{\kf22} just{\kf33} fly{\kf28}~{\kf28} a{\kf38}way
+Dialogue: 0,0:02:52.06,0:02:54.08,DEFAULT,,0,0,0,,{\r}{\kf22}Let{\kf22} the{\kf67} breeze{\kf22} car{\kf22}ry{\kf47} me
+Dialogue: 0,0:02:54.52,0:02:56.18,DEFAULT,,0,0,0,,{\r}{\kf46}Sky{\kf40}ward{\kf46} danc{\kf35}ing
+Dialogue: 0,0:02:56.38,0:02:57.53,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf101} I
+Dialogue: 0,0:02:57.85,0:02:59.59,DEFAULT,,0,0,0,,{\r}{\kf17}Will{\kf17} just{\kf29} soar{\kf52}~{\kf17} to{\kf43}day
+Dialogue: 0,0:02:59.79,0:03:01.50,DEFAULT,,0,0,0,,{\r}{\kf20}Let{\kf20} the{\kf46} gusts{\kf39} of{\kf46} wind
+Dialogue: 0,0:03:01.94,0:03:05.82,DEFAULT,,0,0,0,,{\r}{\kf40}Glide{\kf30} un{\kf25}der{\kf35} my{\kf20} wings{\kf25}~{\kf25}~{\kf189}~

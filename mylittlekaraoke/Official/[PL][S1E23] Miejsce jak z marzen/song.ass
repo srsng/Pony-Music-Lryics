@@ -1,21 +1,28 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Miejsce jak z marzeń
+Artist: Mój Mały Kucyk
+Original Timing: mylittlekaraoke.com by LardonCru, Vengir
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.66,0:00:06.58,DEFAULT,,0,0,0,,{\kf17}Czy{\kf17} wie{\kf17}rzył{\kf25} ktoś{\kf25} w ta{\kf17}kie{\kf25} miej{\kf34}sce{\kf17} jak{\kf34} z ma{\kf17}rzeń?
-Dialogue: 0,0:00:07.00,0:00:11.08,DEFAULT,,0,0,0,,{\kf25}Że{\kf17} do{\kf17}bry{\kf34} los{\kf25} ta{\kf25}ki{\kf25} cud{\kf25} mi{\kf34} po{\kf25}ka{\kf34}że
-Dialogue: 0,0:00:11.41,0:00:15.66,DEFAULT,,0,0,0,,{\kf34}Gdzieś{\kf17} po{\kf17}śród{\kf34} drzew{\kf25} kró{\kf17}lik{\kf34} mknie{\kf17} i{\kf17} wie{\kf50}wiór{\kf25}ka
-Dialogue: 0,0:00:16.00,0:00:20.33,DEFAULT,,0,0,0,,{\kf34}W krąg{\kf34} pta{\kf17}ków{\kf25} śpiew{\kf34} pysz{\kf25}ny{\kf34} miód{\kf17} ro{\kf17}bi{\kf42} pszczół{\kf17}ka
-Dialogue: 0,0:00:20.75,0:00:25.50,DEFAULT,,0,0,0,,{\kf134}Pszczół{\kf334}ka!
-Dialogue: 0,0:00:26.66,0:00:28.66,DEFAULT,,0,0,0,,{\kf100}O,{\kf17} jest{\kf17} miej{\kf9}sce{\kf17} jak{\kf17} to
-Dialogue: 0,0:00:29.25,0:00:32.00,DEFAULT,,0,0,0,,{\kf17} Co{\kf9} zach{\kf25}wy{\kf17}ca{\kf25} mnie{\kf9} no{\kf9} bo{\kf9} cu{\kf17}dów{\kf9} ma{\kf34} sto
-Dialogue: 0,0:00:32.50,0:00:34.75,DEFAULT,,0,0,0,,{\kf9}Od{\kf9}na{\kf25}la{\kf17}złam{\kf17} dziś{\kf9} raj{\kf9} cu{\kf17}dow{\kf9}ny{\kf17} ze{\kf17} snu
-Dialogue: 0,0:00:35.41,0:00:37.83,DEFAULT,,0,0,0,,{\kf17}I{\kf9} z ra{\kf17}doś{\kf25}ci{\kf25} wiel{\kf17}kiej{\kf17} aż{\kf17} brak{\kf17} mi{\kf17} tchu
-Dialogue: 0,0:00:38.33,0:00:45.41,DEFAULT,,0,0,0,,{\kf17}Bo{\kf17} chcę{\kf42} być{\kf50} tyl{\kf50}ko{\kf375} tu!
+Dialogue: 0,0:00:02.67,0:00:06.58,DEFAULT,,0,0,0,,{\r}{\kf27}Czy{\kf27} wie{\kf27}rzył{\kf41} ktoś{\kf41} w ta{\kf27}kie{\kf41} miej{\kf54}sce{\kf27} jak{\kf54} z ma{\kf26}rzeń?
+Dialogue: 0,0:00:07.00,0:00:11.08,DEFAULT,,0,0,0,,{\r}{\kf36}Że{\kf24} do{\kf24}bry{\kf48} los{\kf36} ta{\kf36}ki{\kf36} cud{\kf36} mi{\kf48} po{\kf36}ka{\kf48}że
+Dialogue: 0,0:00:11.42,0:00:15.67,DEFAULT,,0,0,0,,{\r}{\kf50}Gdzieś{\kf25} po{\kf25}śród{\kf50} drzew{\kf38} kró{\kf25}lik{\kf50} mknie{\kf25} i{\kf25} wie{\kf75}wiór{\kf37}ka
+Dialogue: 0,0:00:16.00,0:00:20.33,DEFAULT,,0,0,0,,{\r}{\kf49}W krąg{\kf49} pta{\kf25}ków{\kf37} śpiew{\kf49} pysz{\kf37}ny{\kf49} miód{\kf25} ro{\kf25}bi{\kf62} pszczół{\kf26}ka
+Dialogue: 0,0:00:20.75,0:00:25.50,DEFAULT,,0,0,0,,{\r}{\kf136}Pszczół{\kf339}ka!
+Dialogue: 0,0:00:26.67,0:00:28.67,DEFAULT,,0,0,0,,{\r}{\kf114}O,{\kf19} jest{\kf19} miej{\kf10}sce{\kf19} jak{\kf19} to
+Dialogue: 0,0:00:29.25,0:00:32.00,DEFAULT,,0,0,0,,{\r}{\kf26} Co{\kf13} zach{\kf39}wy{\kf26}ca{\kf39} mnie{\kf13} no{\kf13} bo{\kf13} cu{\kf26}dów{\kf13} ma{\kf54} sto
+Dialogue: 0,0:00:32.50,0:00:34.75,DEFAULT,,0,0,0,,{\r}{\kf12}Od{\kf12}na{\kf38}la{\kf25}złam{\kf25} dziś{\kf12} raj{\kf12} cu{\kf25}dow{\kf12}ny{\kf25} ze{\kf27} snu
+Dialogue: 0,0:00:35.42,0:00:37.83,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf12} z ra{\kf23}doś{\kf35}ci{\kf35} wiel{\kf23}kiej{\kf23} aż{\kf23} brak{\kf23} mi{\kf22} tchu
+Dialogue: 0,0:00:38.33,0:00:45.42,DEFAULT,,0,0,0,,{\r}{\kf21}Bo{\kf21} chcę{\kf54} być{\kf64} tyl{\kf64}ko{\kf484} tu!

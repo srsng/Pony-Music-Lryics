@@ -1,43 +1,50 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Cutie Mark Crusaders (Power Metal)
+Artist: Hatesteed
+Original Timing: mylittlekaraoke.com by Pony Rock Project
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.00,0:00:11.77,DEFAULT,,0,0,0,,{\kf21}Look{\kf45} here{\kf13} are{\kf9} three{\kf21} lit{\kf13}tle{\kf37} po{\kf37}nies
-Dialogue: 0,0:00:12.53,0:00:14.98,DEFAULT,,0,0,0,,{\kf13}Read{\kf9}y{\kf17} to{\kf25} sing{\kf13} for{\kf13} this{\kf53} crowd
-Dialogue: 0,0:00:15.87,0:00:18.56,DEFAULT,,0,0,0,,{\kf9}Lis{\kf21}ten{\kf13} up{\kf13} 'cause{\kf13} here's{\kf17} our{\kf37} sto{\kf37}ry
-Dialogue: 0,0:00:19.04,0:00:23.06,DEFAULT,,0,0,0,,{\kf21}I'm{\kf9} gon{\kf13}na{\kf13} sing{\kf17} it{\kf21} ver{\kf17}y{\kf17} loud{\kf93}~{\kf77}~
-Dialogue: 0,0:00:29.61,0:00:32.46,DEFAULT,,0,0,0,,{\kf13}When{\kf25} you're{\kf9} a{\kf17} young{\kf21}er{\kf17} po{\kf21}~{\kf53}ny
-Dialogue: 0,0:00:32.90,0:00:35.63,DEFAULT,,0,0,0,,{\kf25}And{\kf5} your{\kf25} flank{\kf9} is{\kf37} ver{\kf29}y{\kf29} bare{\kf49}~
-Dialogue: 0,0:00:36.48,0:00:39.53,DEFAULT,,0,0,0,,{\kf21}Feels{\kf21} like{\kf5} the{\kf37} sun{\kf9} will{\kf29} nev{\kf21}er{\kf13} come{\kf21}~
-Dialogue: 0,0:00:39.89,0:00:42.58,DEFAULT,,0,0,0,,{\kf9}When{\kf5} your{\kf13} cut{\kf21}ie{\kf17} mark's{\kf21} not{\kf17} there{\kf69}~
-Dialogue: 0,0:00:43.31,0:00:45.40,DEFAULT,,0,0,0,,{\kf13}So{\kf5} the{\kf13} three{\kf9} of{\kf5} us{\kf5} will{\kf17} fight{\kf5} the{\kf17} fight
-Dialogue: 0,0:00:46.68,0:00:49.33,DEFAULT,,0,0,0,,{\kf17}There{\kf9} is{\kf9} noth{\kf17}ing{\kf21} that{\kf21} we{\kf25} fear{\kf45}~
-Dialogue: 0,0:00:49.98,0:00:53.11,DEFAULT,,0,0,0,,{\kf13}We'll{\kf9} have{\kf5} to{\kf13} fig{\kf25}ure{\kf17} out{\kf9} what{\kf25} we'll{\kf17} do{\kf17} next
-Dialogue: 0,0:00:53.63,0:00:56.33,DEFAULT,,0,0,0,,{\kf9}'Til{\kf9} our{\kf17} cut{\kf25}ie{\kf21} marks{\kf25} are{\kf21} here{\kf61}~
-Dialogue: 0,0:00:57.41,0:01:00.75,DEFAULT,,0,0,0,,{\kf21}We{\kf9} are{\kf5} the{\kf17} Cut{\kf25}~{\kf17}ie{\kf17} Mark{\kf17} Cru{\kf17}sad{\kf25}~{\kf53}ers
-Dialogue: 0,0:01:01.31,0:01:03.76,DEFAULT,,0,0,0,,{\kf9}On{\kf9} a{\kf5} quest{\kf5} to{\kf13} find{\kf13} out{\kf13} who{\kf41} we{\kf25} are{\kf33}~
-Dialogue: 0,0:01:04.48,0:01:07.37,DEFAULT,,0,0,0,,{\kf9}And{\kf9} we'll{\kf33} nev{\kf17}er{\kf17} stop{\kf21} the{\kf17} jour{\kf17}~{\kf29}ney
-Dialogue: 0,0:01:08.14,0:01:15.49,DEFAULT,,0,0,0,,{\kf17}Not{\kf9} un{\kf17}til{\kf5} we{\kf21} have{\kf9} our{\kf13} cut{\kf17}ie{\kf45} marks{\kf157}~{\kf173}~{\kf25}~{\kf153}~
-Dialogue: 0,0:01:17.42,0:01:20.43,DEFAULT,,0,0,0,,{\kf9}They{\kf17} all{\kf33} say{\kf13} that{\kf9} you'll{\kf9} get{\kf25} your{\kf41} mark{\kf49}~
-Dialogue: 0,0:01:20.92,0:01:23.73,DEFAULT,,0,0,0,,{\kf9}When{\kf5} the{\kf33} time{\kf5} is{\kf29} re{\kf5}al{\kf21}ly{\kf17} right{\kf65}~
-Dialogue: 0,0:01:24.37,0:01:27.46,DEFAULT,,0,0,0,,{\kf9}And{\kf13} you{\kf29} know{\kf9} just{\kf13} what{\kf5} you're{\kf5} sup{\kf13}posed{\kf21}~{\kf9} to{\kf29} do
-Dialogue: 0,0:01:27.87,0:01:30.52,DEFAULT,,0,0,0,,{\kf9}And{\kf5} your{\kf5} tal{\kf21}ent{\kf29} comes{\kf25} to{\kf21} light{\kf61}~
-Dialogue: 0,0:01:31.08,0:01:34.29,DEFAULT,,0,0,0,,{\kf17}But{\kf9} it's{\kf21} not{\kf21} as{\kf17} eas{\kf13}y{\kf25} as{\kf13} it{\kf45} sounds{\kf61}~
-Dialogue: 0,0:01:34.66,0:01:37.47,DEFAULT,,0,0,0,,{\kf13}And{\kf13} that{\kf21} wait{\kf29}ing's{\kf29} hard{\kf9} to{\kf13}~{\kf21} do{\kf61}~
-Dialogue: 0,0:01:37.99,0:01:41.13,DEFAULT,,0,0,0,,{\kf9}So{\kf9} we{\kf13} test{\kf21} our{\kf25} tal{\kf13}ents{\kf13} eve{\kf17}~{\kf33}ry{\kf25}where
-Dialogue: 0,0:01:41.57,0:01:44.82,DEFAULT,,0,0,0,,{\kf13}Un{\kf25}til{\kf21} our{\kf9} face{\kf13}~{\kf25} turns{\kf21} blue{\kf109}~
-Dialogue: 0,0:01:45.75,0:01:48.60,DEFAULT,,0,0,0,,{\kf9}We{\kf13} are{\kf5} the{\kf13} Cut{\kf13}ie{\kf21} Mark{\kf9} Cru{\kf13}sad{\kf25}~{\kf41}ers
-Dialogue: 0,0:01:49.24,0:01:52.01,DEFAULT,,0,0,0,,{\kf13}On{\kf5} a{\kf5} quest{\kf5} to{\kf17} find{\kf17} out{\kf21} who{\kf29} we{\kf29} are{\kf57}~
-Dialogue: 0,0:01:52.46,0:01:55.63,DEFAULT,,0,0,0,,{\kf21}And{\kf9} we{\kf9} will{\kf13} nev{\kf13}er{\kf21} stop{\kf17} the{\kf13} jour{\kf25}~{\kf53}ney
-Dialogue: 0,0:01:56.15,0:01:59.05,DEFAULT,,0,0,0,,{\kf17}Not{\kf9} un{\kf9}til{\kf17} we{\kf9} have{\kf9} our{\kf9} cut{\kf17}ie{\kf25} marks{\kf73}~
-Dialogue: 0,0:01:59.41,0:02:02.18,DEFAULT,,0,0,0,,{\kf13}We{\kf9} are{\kf9} the{\kf9} Cut{\kf17}ie{\kf21} Mark{\kf13} Cru{\kf9}sad{\kf25}~{\kf21}ers
-Dialogue: 0,0:02:02.98,0:02:05.67,DEFAULT,,0,0,0,,{\kf9}On{\kf5} a{\kf5} quest{\kf5} to{\kf13} find{\kf17} out{\kf9} who{\kf37} we{\kf17} are{\kf57}~
-Dialogue: 0,0:02:06.24,0:02:09.09,DEFAULT,,0,0,0,,{\kf13}And{\kf13} we{\kf13} will{\kf17} nev{\kf13}er{\kf17} stop{\kf17} the{\kf17} jour{\kf21}~{\kf33}ney
-Dialogue: 0,0:02:09.85,0:02:12.46,DEFAULT,,0,0,0,,{\kf17}Not{\kf9} un{\kf13}til{\kf13} we{\kf9} have{\kf9} our{\kf13} cut{\kf21}ie{\kf25} marks{\kf45}~
+Dialogue: 0,0:00:09.00,0:00:11.77,DEFAULT,,0,0,0,,{\r}{\kf29}Look{\kf65} here{\kf18} are{\kf12} three{\kf29} lit{\kf18}tle{\kf53} po{\kf53}nies
+Dialogue: 0,0:00:12.54,0:00:14.99,DEFAULT,,0,0,0,,{\r}{\kf22}Read{\kf14}y{\kf29} to{\kf43} sing{\kf22} for{\kf22} this{\kf93} crowd
+Dialogue: 0,0:00:15.87,0:00:18.56,DEFAULT,,0,0,0,,{\r}{\kf14}Lis{\kf35}ten{\kf21} up{\kf21} 'cause{\kf21} here's{\kf28} our{\kf64} sto{\kf65}ry
+Dialogue: 0,0:00:19.04,0:00:23.06,DEFAULT,,0,0,0,,{\r}{\kf28}I'm{\kf11} gon{\kf17}na{\kf17} sing{\kf22} it{\kf28} ver{\kf22}y{\kf22} loud{\kf128}~{\kf107}~
+Dialogue: 0,0:00:29.61,0:00:32.46,DEFAULT,,0,0,0,,{\r}{\kf20}When{\kf41} you're{\kf14} a{\kf27} young{\kf34}er{\kf27} po{\kf34}~{\kf88}ny
+Dialogue: 0,0:00:32.91,0:00:35.64,DEFAULT,,0,0,0,,{\r}{\kf33}And{\kf10} your{\kf33} flank{\kf11} is{\kf49} ver{\kf38}y{\kf38} bare{\kf61}~
+Dialogue: 0,0:00:36.48,0:00:39.54,DEFAULT,,0,0,0,,{\r}{\kf36}Feels{\kf36} like{\kf10} the{\kf65} sun{\kf15} will{\kf51} nev{\kf36}er{\kf22} come{\kf34}~
+Dialogue: 0,0:00:39.90,0:00:42.59,DEFAULT,,0,0,0,,{\r}{\kf13}When{\kf10} your{\kf20} cut{\kf33}ie{\kf26} mark's{\kf33} not{\kf26} there{\kf108}~
+Dialogue: 0,0:00:43.31,0:00:45.40,DEFAULT,,0,0,0,,{\r}{\kf31}So{\kf10} the{\kf31} three{\kf21} of{\kf10} us{\kf10} will{\kf42} fight{\kf10} the{\kf44} fight
+Dialogue: 0,0:00:46.69,0:00:49.34,DEFAULT,,0,0,0,,{\r}{\kf27}There{\kf14} is{\kf14} noth{\kf27}ing{\kf34} that{\kf34} we{\kf41} fear{\kf74}~
+Dialogue: 0,0:00:49.98,0:00:53.12,DEFAULT,,0,0,0,,{\r}{\kf27}We'll{\kf18} have{\kf10} to{\kf27} fig{\kf54}ure{\kf36} out{\kf18} what{\kf54} we'll{\kf36} do{\kf33} next
+Dialogue: 0,0:00:53.64,0:00:56.33,DEFAULT,,0,0,0,,{\r}{\kf12}'Til{\kf12} our{\kf24} cut{\kf36}ie{\kf30} marks{\kf36} are{\kf30} here{\kf89}~
+Dialogue: 0,0:00:57.42,0:01:00.75,DEFAULT,,0,0,0,,{\r}{\kf31}We{\kf13} are{\kf10} the{\kf25} Cut{\kf38}~{\kf25}ie{\kf25} Mark{\kf25} Cru{\kf25}sad{\kf38}~{\kf78}ers
+Dialogue: 0,0:01:01.31,0:01:03.76,DEFAULT,,0,0,0,,{\r}{\kf13}On{\kf13} a{\kf10} quest{\kf10} to{\kf19} find{\kf19} out{\kf19} who{\kf63} we{\kf38} are{\kf41}~
+Dialogue: 0,0:01:04.49,0:01:07.38,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf14} we'll{\kf58} nev{\kf29}er{\kf29} stop{\kf36} the{\kf29} jour{\kf29}~{\kf51}ney
+Dialogue: 0,0:01:08.14,0:01:15.50,DEFAULT,,0,0,0,,{\r}{\kf18}Not{\kf10} un{\kf18}til{\kf10} we{\kf23} have{\kf10} our{\kf14} cut{\kf18}ie{\kf50} marks{\kf177}~{\kf195}~{\kf27}~{\kf165}~
+Dialogue: 0,0:01:17.42,0:01:20.44,DEFAULT,,0,0,0,,{\r}{\kf12}They{\kf25} all{\kf49} say{\kf18} that{\kf12} you'll{\kf12} get{\kf37} your{\kf61} mark{\kf75}~
+Dialogue: 0,0:01:20.92,0:01:23.73,DEFAULT,,0,0,0,,{\r}{\kf12}When{\kf10} the{\kf50} time{\kf10} is{\kf44} re{\kf10}al{\kf31}ly{\kf25} right{\kf89}~
+Dialogue: 0,0:01:24.38,0:01:27.47,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf26} you{\kf60} know{\kf17} just{\kf26} what{\kf10} you're{\kf10} sup{\kf26}posed{\kf43}~{\kf17} to{\kf57} do
+Dialogue: 0,0:01:27.87,0:01:30.52,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf10} your{\kf10} tal{\kf32}ent{\kf44} comes{\kf38} to{\kf32} light{\kf86}~
+Dialogue: 0,0:01:31.09,0:01:34.30,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf11} it's{\kf28} not{\kf28} as{\kf22} eas{\kf17}y{\kf33} as{\kf17} it{\kf61} sounds{\kf82}~
+Dialogue: 0,0:01:34.66,0:01:37.47,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf17} that{\kf28} wait{\kf39}ing's{\kf39} hard{\kf11} to{\kf17}~{\kf28} do{\kf85}~
+Dialogue: 0,0:01:38.00,0:01:41.13,DEFAULT,,0,0,0,,{\r}{\kf15}So{\kf15} we{\kf22} test{\kf37} our{\kf45} tal{\kf22}ents{\kf22} eve{\kf30}~{\kf60}ry{\kf45}where
+Dialogue: 0,0:01:41.57,0:01:44.83,DEFAULT,,0,0,0,,{\r}{\kf17}Un{\kf34}til{\kf29} our{\kf11} face{\kf17}~{\kf34} turns{\kf29} blue{\kf154}~
+Dialogue: 0,0:01:45.75,0:01:48.60,DEFAULT,,0,0,0,,{\r}{\kf15}We{\kf22} are{\kf10} the{\kf22} Cut{\kf22}ie{\kf38} Mark{\kf15} Cru{\kf22}sad{\kf45}~{\kf74}ers
+Dialogue: 0,0:01:49.25,0:01:52.02,DEFAULT,,0,0,0,,{\r}{\kf18}On{\kf10} a{\kf10} quest{\kf10} to{\kf24} find{\kf24} out{\kf29} who{\kf41} we{\kf41} are{\kf70}~
+Dialogue: 0,0:01:52.46,0:01:55.63,DEFAULT,,0,0,0,,{\r}{\kf34}And{\kf14} we{\kf14} will{\kf21} nev{\kf21}er{\kf34} stop{\kf28} the{\kf21} jour{\kf41}~{\kf89}ney
+Dialogue: 0,0:01:56.16,0:01:59.05,DEFAULT,,0,0,0,,{\r}{\kf25}Not{\kf13} un{\kf13}til{\kf25} we{\kf13} have{\kf13} our{\kf13} cut{\kf25}ie{\kf38} marks{\kf111}~
+Dialogue: 0,0:01:59.41,0:02:02.18,DEFAULT,,0,0,0,,{\r}{\kf24}We{\kf16} are{\kf16} the{\kf16} Cut{\kf33}ie{\kf41} Mark{\kf24} Cru{\kf16}sad{\kf49}~{\kf42}ers
+Dialogue: 0,0:02:02.99,0:02:05.68,DEFAULT,,0,0,0,,{\r}{\kf13}On{\kf10} a{\kf10} quest{\kf10} to{\kf20} find{\kf26} out{\kf13} who{\kf59} we{\kf26} are{\kf82}~
+Dialogue: 0,0:02:06.24,0:02:09.09,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} we{\kf21} will{\kf28} nev{\kf21}er{\kf28} stop{\kf28} the{\kf28} jour{\kf35}~{\kf54}ney
+Dialogue: 0,0:02:09.86,0:02:12.47,DEFAULT,,0,0,0,,{\r}{\kf25}Not{\kf13} un{\kf19}til{\kf19} we{\kf13} have{\kf13} our{\kf19} cut{\kf32}ie{\kf38} marks{\kf70}~

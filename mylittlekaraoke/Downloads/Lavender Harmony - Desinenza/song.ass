@@ -1,75 +1,82 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Desinenza (Edit)
+Artist: Lavender Harmony
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:45.38,0:00:46.51,DEFAULT,,0,0,0,,{\kf4552}I{\kf4552} see{\kf4556} you{\kf4585} there
-Dialogue: 0,0:00:47.30,0:00:49.75,DEFAULT,,0,0,0,,{\kf4564}From{\kf4560} my{\kf4560} perch{\kf4556} on{\kf4573} high{\kf4556}~{\kf4593}~
-Dialogue: 0,0:00:50.37,0:00:52.82,DEFAULT,,0,0,0,,{\kf4556}An{\kf4556} em{\kf4556}bo{\kf4556}di{\kf4568}ment{\kf4556} of{\kf4568} e{\kf4581}vil
-Dialogue: 0,0:00:53.32,0:00:55.27,DEFAULT,,0,0,0,,{\kf4552}A{\kf4560} fact{\kf4560} you{\kf4560} can't{\kf4556} de{\kf4589}ny
-Dialogue: 0,0:00:56.02,0:00:58.39,DEFAULT,,0,0,0,,{\kf4552}You{\kf4556} have{\kf4552} to{\kf4573} see,{\kf4552} my{\kf4556} reign{\kf4560} has{\kf4577} come
-Dialogue: 0,0:00:58.60,0:01:00.47,DEFAULT,,0,0,0,,{\kf4556}There's{\kf4556} no{\kf4556}thing{\kf4564} you{\kf4556} can{\kf4581} do
-Dialogue: 0,0:01:01.34,0:01:03.75,DEFAULT,,0,0,0,,{\kf4552}So{\kf4552} lis{\kf4556}ten{\kf4564} up{\kf4564} you{\kf4564} girls{\kf4556} and{\kf4577} boys
-Dialogue: 0,0:01:04.00,0:01:05.74,DEFAULT,,0,0,0,,{\kf4552}I'm{\kf4552} gon{\kf4556}na{\kf4564} play{\kf4560} with{\kf4573} you
-Dialogue: 0,0:01:06.91,0:01:08.32,DEFAULT,,0,0,0,,{\kf4564}Run{\kf4568} hide{\kf4581} flee
-Dialogue: 0,0:01:09.36,0:01:11.06,DEFAULT,,0,0,0,,{\kf4552}There's{\kf4552} no{\kf4556} es{\kf4560}cap{\kf4560}ing{\kf4568} me
-Dialogue: 0,0:01:11.27,0:01:13.26,DEFAULT,,0,0,0,,{\kf4564}Run{\kf4598} hide{\kf4581} flee
-Dialogue: 0,0:01:14.35,0:01:16.05,DEFAULT,,0,0,0,,{\kf4556}You{\kf4556} just{\kf4564} try{\kf4552} to{\kf4552} run{\kf4552} a{\kf4573}way
-Dialogue: 0,0:01:16.55,0:01:18.00,DEFAULT,,0,0,0,,{\kf4564}Run{\kf4568} hide{\kf4581} flee
-Dialogue: 0,0:01:19.66,0:01:21.70,DEFAULT,,0,0,0,,{\kf4552}For{\kf4560} there's{\kf4556} no{\kf4556} es{\kf4560}cap{\kf4560}ing{\kf4568} me
-Dialogue: 0,0:01:21.99,0:01:24.36,DEFAULT,,0,0,0,,{\kf4556}I'll{\kf4560} chase{\kf4552} you{\kf4564} down{\kf4552} and{\kf4556} then{\kf4560} you'll{\kf4573} see
-Dialogue: 0,0:01:24.90,0:01:27.10,DEFAULT,,0,0,0,,{\kf4560}It's{\kf4552} no{\kf4560} use{\kf4552} to{\kf4556} run,{\kf4560} hide,{\kf4573} flee
-Dialogue: 0,0:01:27.31,0:01:29.64,DEFAULT,,0,0,0,,{\kf4552}The{\kf4556} town{\kf4560} cries{\kf4556} out{\kf4552} "The{\kf4560} mons{\kf4560}ter's{\kf4564} here!"
-Dialogue: 0,0:01:29.84,0:01:32.38,DEFAULT,,0,0,0,,{\kf4556}Watch{\kf4556} all{\kf4556} of{\kf4564} us{\kf4560} scram{\kf4556}bling{\kf4556} in{\kf4573} fear
-Dialogue: 0,0:01:32.67,0:01:35.04,DEFAULT,,0,0,0,,{\kf4552}To{\kf4556} arms,{\kf4552} to{\kf4560} arms{\kf4560} we're{\kf4560} gon{\kf4564}na{\kf4573} fight
-Dialogue: 0,0:01:35.25,0:01:37.90,DEFAULT,,0,0,0,,{\kf4560}Cha{\kf4560}os{\kf4556} a{\kf4560}gainst{\kf4560} us{\kf4560} in{\kf4560} the{\kf4593} light
-Dialogue: 0,0:01:38.49,0:01:40.31,DEFAULT,,0,0,0,,{\kf4552}The{\kf4560} hous{\kf4560}es{\kf4552} a{\kf4556}round{\kf4556} us{\kf4568} burn
-Dialogue: 0,0:01:40.52,0:01:43.10,DEFAULT,,0,0,0,,{\kf4556}The{\kf4552} e{\kf4556}ne{\kf4552}my{\kf4564} march{\kf4556}ing{\kf4556} with{\kf4552} no{\kf4548}~{\kf4556} con{\kf4568}cern
-Dialogue: 0,0:01:43.35,0:01:45.59,DEFAULT,,0,0,0,,{\kf4552}No{\kf4556} tel{\kf4556}ling{\kf4564} if{\kf4556} it's{\kf4560} night{\kf4556} or{\kf4560} day
-Dialogue: 0,0:01:45.88,0:01:50.00,DEFAULT,,0,0,0,,{\kf4560}As{\kf4564} we{\kf4564} fall{\kf4564} un{\kf4556}der{\kf4560}neath{\kf4564} his{\kf4577} sway{\kf4689}~
-Dialogue: 0,0:01:52.03,0:01:53.15,DEFAULT,,0,0,0,,{\kf4552}I{\kf4552} see{\kf4556} you{\kf4585} there
-Dialogue: 0,0:01:54.03,0:01:56.44,DEFAULT,,0,0,0,,{\kf4560}From{\kf4560} my{\kf4560} perch{\kf4556} on{\kf4573} high{\kf4556}~{\kf4593}~
-Dialogue: 0,0:01:57.06,0:01:59.51,DEFAULT,,0,0,0,,{\kf4556}An{\kf4556} em{\kf4556}bo{\kf4556}di{\kf4568}ment{\kf4556} of{\kf4568} e{\kf4581}vil
-Dialogue: 0,0:02:00.01,0:02:01.92,DEFAULT,,0,0,0,,{\kf4552}A{\kf4560} fact{\kf4560} you{\kf4560} can't{\kf4556} de{\kf4589}ny
-Dialogue: 0,0:02:02.63,0:02:05.00,DEFAULT,,0,0,0,,{\kf4552}You{\kf4556} have{\kf4552} to{\kf4573} see,{\kf4552} my{\kf4556} reign{\kf4560} has{\kf4573} come
-Dialogue: 0,0:02:05.25,0:02:07.12,DEFAULT,,0,0,0,,{\kf4556}There's{\kf4556} no{\kf4556}thing{\kf4564} you{\kf4556} can{\kf4581} do
-Dialogue: 0,0:02:07.99,0:02:10.36,DEFAULT,,0,0,0,,{\kf4552}So{\kf4552} lis{\kf4556}ten{\kf4564} up{\kf4560} you{\kf4564} girls{\kf4556} and{\kf4577} boys
-Dialogue: 0,0:02:10.65,0:02:12.43,DEFAULT,,0,0,0,,{\kf4552}I'm{\kf4552} gon{\kf4556}na{\kf4564} play{\kf4560} with{\kf4573} you
-Dialogue: 0,0:02:13.56,0:02:14.97,DEFAULT,,0,0,0,,{\kf4564}Run{\kf4568} hide{\kf4581} flee
-Dialogue: 0,0:02:16.01,0:02:17.67,DEFAULT,,0,0,0,,{\kf4552}There's{\kf4552} no{\kf4556} es{\kf4560}cap{\kf4560}ing{\kf4564} me
-Dialogue: 0,0:02:17.84,0:02:19.87,DEFAULT,,0,0,0,,{\kf4573}Run{\kf4598} hide{\kf4581} flee
-Dialogue: 0,0:02:21.03,0:02:22.70,DEFAULT,,0,0,0,,{\kf4552}You{\kf4556} just{\kf4564} try{\kf4552} to{\kf4552} run{\kf4552} a{\kf4573}way
-Dialogue: 0,0:02:23.24,0:02:24.65,DEFAULT,,0,0,0,,{\kf4564}Run{\kf4568} hide{\kf4581} flee
-Dialogue: 0,0:02:26.35,0:02:28.35,DEFAULT,,0,0,0,,{\kf4552}For{\kf4560} there's{\kf4556} no{\kf4556} es{\kf4560}cap{\kf4560}ing{\kf4568} me
-Dialogue: 0,0:02:28.64,0:02:31.01,DEFAULT,,0,0,0,,{\kf4556}I'll{\kf4560} chase{\kf4552} you{\kf4564} down{\kf4552} and{\kf4556} then{\kf4560} you'll{\kf4568} see
-Dialogue: 0,0:02:31.55,0:02:33.79,DEFAULT,,0,0,0,,{\kf4556}It's{\kf4552} no{\kf4564} use{\kf4552} to{\kf4556} run,{\kf4560} hide,{\kf4577} flee
-Dialogue: 0,0:03:38.15,0:03:40.27,DEFAULT,,0,0,0,,{\kf4560}Shades{\kf4552} of{\kf4564} grey{\kf4560} sur{\kf4564}round{\kf4560}ing{\kf4560} here
-Dialogue: 0,0:03:40.48,0:03:43.06,DEFAULT,,0,0,0,,{\kf4560}We{\kf4552} can{\kf4556}not{\kf4564} move{\kf4556} nor{\kf4560} can{\kf4560} we{\kf4577} fear
-Dialogue: 0,0:03:43.51,0:03:45.59,DEFAULT,,0,0,0,,{\kf4560}Home{\kf4552} is{\kf4564} gone{\kf4556} there{\kf4560} is{\kf4556} no{\kf4564} light
-Dialogue: 0,0:03:45.80,0:03:48.87,DEFAULT,,0,0,0,,{\kf4560}No{\kf4564} lon{\kf4552}ger{\kf4556} is{\kf4560} the{\kf4560} end{\kf4556} in{\kf4560} sight{\kf4556}~{\kf4564}~
-Dialogue: 0,0:03:49.29,0:03:50.99,DEFAULT,,0,0,0,,{\kf4552}The{\kf4560} land{\kf4552} be{\kf4560}low{\kf4556} us{\kf4568} burns
-Dialogue: 0,0:03:51.16,0:03:53.69,DEFAULT,,0,0,0,,{\kf4556}Our{\kf4560} walls{\kf4556} will{\kf4556} fall{\kf4560} as{\kf4560} we{\kf4556} all{\kf4573} turn
-Dialogue: 0,0:03:54.19,0:03:56.27,DEFAULT,,0,0,0,,{\kf4560}Walk{\kf4552} a{\kf4564}way,{\kf4560} walk{\kf4564} a{\kf4568}way
-Dialogue: 0,0:03:56.52,0:04:00.55,DEFAULT,,0,0,0,,{\kf4564}Ar{\kf4556}ri{\kf4560}ve{\kf4560}der{\kf4560}ci{\kf4564} to{\kf4560} this{\kf4581} day{\kf4677}~!
-Dialogue: 0,0:04:05.29,0:04:06.41,DEFAULT,,0,0,0,,{\kf4552}I{\kf4552} see{\kf4556} you{\kf4585} there
-Dialogue: 0,0:04:07.28,0:04:09.69,DEFAULT,,0,0,0,,{\kf4560}From{\kf4560} my{\kf4560} perch{\kf4556} on{\kf4568} high{\kf4552}~{\kf4589}~
-Dialogue: 0,0:04:10.31,0:04:12.81,DEFAULT,,0,0,0,,{\kf4556}An{\kf4556} em{\kf4556}bo{\kf4556}di{\kf4564}ment{\kf4556} of{\kf4564} e{\kf4581}vil
-Dialogue: 0,0:04:13.31,0:04:15.26,DEFAULT,,0,0,0,,{\kf4552}A{\kf4560} fact{\kf4560} you{\kf4560} can't{\kf4556} de{\kf4589}ny
-Dialogue: 0,0:04:16.01,0:04:18.38,DEFAULT,,0,0,0,,{\kf4552}You{\kf4556} have{\kf4552} to{\kf4573} see,{\kf4552} my{\kf4556} reign{\kf4560} has{\kf4577} come
-Dialogue: 0,0:04:18.58,0:04:20.45,DEFAULT,,0,0,0,,{\kf4556}There's{\kf4556} no{\kf4556}thing{\kf4564} you{\kf4556} can{\kf4581} do
-Dialogue: 0,0:04:21.33,0:04:23.74,DEFAULT,,0,0,0,,{\kf4552}So{\kf4552} lis{\kf4556}ten{\kf4564} up{\kf4556} you{\kf4564} girls{\kf4556} and{\kf4577} boys
-Dialogue: 0,0:04:23.99,0:04:25.73,DEFAULT,,0,0,0,,{\kf4552}I'm{\kf4552} gon{\kf4556}na{\kf4560} play{\kf4560} with{\kf4573} you
-Dialogue: 0,0:04:26.89,0:04:28.31,DEFAULT,,0,0,0,,{\kf4564}Run{\kf4568} hide{\kf4581} flee
-Dialogue: 0,0:04:29.35,0:04:31.05,DEFAULT,,0,0,0,,{\kf4552}There's{\kf4552} no{\kf4556} es{\kf4560}cap{\kf4560}ing{\kf4568} me
-Dialogue: 0,0:04:31.26,0:04:33.25,DEFAULT,,0,0,0,,{\kf4564}Run{\kf4598} hide{\kf4581} flee
-Dialogue: 0,0:04:34.37,0:04:36.03,DEFAULT,,0,0,0,,{\kf4552}You{\kf4556} just{\kf4564} try{\kf4552} to{\kf4552} run{\kf4552} a{\kf4573}way
-Dialogue: 0,0:04:36.53,0:04:37.99,DEFAULT,,0,0,0,,{\kf4564}Run{\kf4568} hide{\kf4581} flee
-Dialogue: 0,0:04:39.65,0:04:41.69,DEFAULT,,0,0,0,,{\kf4552}For{\kf4560} there's{\kf4556} no{\kf4556} es{\kf4560}cap{\kf4560}ing{\kf4568} me
-Dialogue: 0,0:04:41.98,0:04:44.35,DEFAULT,,0,0,0,,{\kf4556}I'll{\kf4560} chase{\kf4552} you{\kf4564} down{\kf4552} and{\kf4556} then{\kf4560} you'll{\kf4573} see
-Dialogue: 0,0:04:44.89,0:04:47.13,DEFAULT,,0,0,0,,{\kf4560}It's{\kf4552} no{\kf4564} use{\kf4552} to{\kf4556} run,{\kf4560} hide,{\kf4577} flee
+Dialogue: 0,0:00:45.39,0:00:46.51,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} see{\kf21} you{\kf59} there
+Dialogue: 0,0:00:47.30,0:00:49.75,DEFAULT,,0,0,0,,{\r}{\kf33}From{\kf27} my{\kf27} perch{\kf22} on{\kf44} high{\kf22}~{\kf70}~
+Dialogue: 0,0:00:50.38,0:00:52.83,DEFAULT,,0,0,0,,{\r}{\kf22}An{\kf22} em{\kf22}bo{\kf22}di{\kf39}ment{\kf22} of{\kf39} e{\kf57}vil
+Dialogue: 0,0:00:53.33,0:00:55.28,DEFAULT,,0,0,0,,{\r}{\kf17}A{\kf29} fact{\kf29} you{\kf29} can't{\kf23} de{\kf68}ny
+Dialogue: 0,0:00:56.03,0:00:58.39,DEFAULT,,0,0,0,,{\r}{\kf18}You{\kf24} have{\kf18} to{\kf49} see,{\kf18} my{\kf24} reign{\kf30} has{\kf56} come
+Dialogue: 0,0:00:58.60,0:01:00.47,DEFAULT,,0,0,0,,{\r}{\kf23}There's{\kf23} no{\kf23}thing{\kf35} you{\kf23} can{\kf60} do
+Dialogue: 0,0:01:01.34,0:01:03.75,DEFAULT,,0,0,0,,{\r}{\kf18}So{\kf18} lis{\kf24}ten{\kf35} up{\kf35} you{\kf35} girls{\kf24} and{\kf52} boys
+Dialogue: 0,0:01:04.00,0:01:05.75,DEFAULT,,0,0,0,,{\r}{\kf18}I'm{\kf18} gon{\kf24}na{\kf36} play{\kf30} with{\kf49} you
+Dialogue: 0,0:01:06.91,0:01:08.33,DEFAULT,,0,0,0,,{\r}{\kf37}Run{\kf43} hide{\kf61} flee
+Dialogue: 0,0:01:09.36,0:01:11.07,DEFAULT,,0,0,0,,{\r}{\kf19}There's{\kf19} no{\kf25} es{\kf31}cap{\kf31}ing{\kf45} me
+Dialogue: 0,0:01:11.28,0:01:13.27,DEFAULT,,0,0,0,,{\r}{\kf40}Run{\kf93} hide{\kf66} flee
+Dialogue: 0,0:01:14.35,0:01:16.05,DEFAULT,,0,0,0,,{\r}{\kf22}You{\kf22} just{\kf33} try{\kf16} to{\kf16} run{\kf16} a{\kf45}way
+Dialogue: 0,0:01:16.55,0:01:18.01,DEFAULT,,0,0,0,,{\r}{\kf38}Run{\kf44} hide{\kf63} flee
+Dialogue: 0,0:01:19.67,0:01:21.70,DEFAULT,,0,0,0,,{\r}{\kf19}For{\kf31} there's{\kf25} no{\kf25} es{\kf31}cap{\kf31}ing{\kf42} me
+Dialogue: 0,0:01:22.00,0:01:24.36,DEFAULT,,0,0,0,,{\r}{\kf25}I'll{\kf31} chase{\kf19} you{\kf37} down{\kf19} and{\kf25} then{\kf31} you'll{\kf50} see
+Dialogue: 0,0:01:24.90,0:01:27.11,DEFAULT,,0,0,0,,{\r}{\kf33}It's{\kf20} no{\kf33} use{\kf20} to{\kf27} run,{\kf33} hide,{\kf54} flee
+Dialogue: 0,0:01:27.31,0:01:29.64,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf27} town{\kf33} cries{\kf27} out{\kf20} "The{\kf33} mons{\kf33}ter's{\kf40} here!"
+Dialogue: 0,0:01:29.85,0:01:32.38,DEFAULT,,0,0,0,,{\r}{\kf26}Watch{\kf26} all{\kf26} of{\kf39} us{\kf32} scram{\kf26}bling{\kf26} in{\kf52} fear
+Dialogue: 0,0:01:32.67,0:01:35.04,DEFAULT,,0,0,0,,{\r}{\kf18}To{\kf24} arms,{\kf18} to{\kf30} arms{\kf30} we're{\kf30} gon{\kf36}na{\kf51} fight
+Dialogue: 0,0:01:35.25,0:01:37.91,DEFAULT,,0,0,0,,{\r}{\kf28}Cha{\kf28}os{\kf23} a{\kf28}gainst{\kf28} us{\kf28} in{\kf28} the{\kf75} light
+Dialogue: 0,0:01:38.49,0:01:40.32,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf30} hous{\kf30}es{\kf18} a{\kf24}round{\kf24} us{\kf39} burn
+Dialogue: 0,0:01:40.53,0:01:43.10,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf18} e{\kf23}ne{\kf18}my{\kf35} march{\kf23}ing{\kf23} with{\kf18} no{\kf12}~{\kf23} con{\kf42}cern
+Dialogue: 0,0:01:43.35,0:01:45.60,DEFAULT,,0,0,0,,{\r}{\kf19}No{\kf26} tel{\kf26}ling{\kf38} if{\kf26} it's{\kf32} night{\kf26} or{\kf31} day
+Dialogue: 0,0:01:45.89,0:01:50.00,DEFAULT,,0,0,0,,{\r}{\kf25}As{\kf30} we{\kf30} fall{\kf30} un{\kf20}der{\kf25}neath{\kf30} his{\kf45} sway{\kf176}~
+Dialogue: 0,0:01:52.04,0:01:53.16,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} see{\kf21} you{\kf59} there
+Dialogue: 0,0:01:54.03,0:01:56.44,DEFAULT,,0,0,0,,{\r}{\kf27}From{\kf27} my{\kf27} perch{\kf22} on{\kf44} high{\kf22}~{\kf72}~
+Dialogue: 0,0:01:57.06,0:01:59.52,DEFAULT,,0,0,0,,{\r}{\kf22}An{\kf22} em{\kf22}bo{\kf22}di{\kf39}ment{\kf22} of{\kf39} e{\kf57}vil
+Dialogue: 0,0:02:00.02,0:02:01.93,DEFAULT,,0,0,0,,{\r}{\kf17}A{\kf28} fact{\kf28} you{\kf28} can't{\kf22} de{\kf68}ny
+Dialogue: 0,0:02:02.63,0:02:05.00,DEFAULT,,0,0,0,,{\r}{\kf19}You{\kf25} have{\kf19} to{\kf50} see,{\kf19} my{\kf25} reign{\kf31} has{\kf49} come
+Dialogue: 0,0:02:05.25,0:02:07.12,DEFAULT,,0,0,0,,{\r}{\kf23}There's{\kf23} no{\kf23}thing{\kf35} you{\kf23} can{\kf60} do
+Dialogue: 0,0:02:07.99,0:02:10.36,DEFAULT,,0,0,0,,{\r}{\kf18}So{\kf18} lis{\kf24}ten{\kf36} up{\kf30} you{\kf36} girls{\kf24} and{\kf51} boys
+Dialogue: 0,0:02:10.65,0:02:12.44,DEFAULT,,0,0,0,,{\r}{\kf19}I'm{\kf19} gon{\kf25}na{\kf37} play{\kf31} with{\kf48} you
+Dialogue: 0,0:02:13.56,0:02:14.97,DEFAULT,,0,0,0,,{\r}{\kf37}Run{\kf43} hide{\kf61} flee
+Dialogue: 0,0:02:16.01,0:02:17.67,DEFAULT,,0,0,0,,{\r}{\kf19}There's{\kf19} no{\kf26} es{\kf32}cap{\kf32}ing{\kf38} me
+Dialogue: 0,0:02:17.84,0:02:19.88,DEFAULT,,0,0,0,,{\r}{\kf51}Run{\kf89} hide{\kf64} flee
+Dialogue: 0,0:02:21.04,0:02:22.70,DEFAULT,,0,0,0,,{\r}{\kf17}You{\kf22} just{\kf33} try{\kf17} to{\kf17} run{\kf17} a{\kf43}way
+Dialogue: 0,0:02:23.24,0:02:24.65,DEFAULT,,0,0,0,,{\r}{\kf37}Run{\kf43} hide{\kf61} flee
+Dialogue: 0,0:02:26.36,0:02:28.35,DEFAULT,,0,0,0,,{\r}{\kf18}For{\kf30} there's{\kf24} no{\kf24} es{\kf30}cap{\kf30}ing{\kf43} me
+Dialogue: 0,0:02:28.64,0:02:31.01,DEFAULT,,0,0,0,,{\r}{\kf26}I'll{\kf32} chase{\kf19} you{\kf38} down{\kf19} and{\kf26} then{\kf32} you'll{\kf45} see
+Dialogue: 0,0:02:31.55,0:02:33.80,DEFAULT,,0,0,0,,{\r}{\kf26}It's{\kf20} no{\kf40} use{\kf20} to{\kf26} run,{\kf33} hide,{\kf59} flee
+Dialogue: 0,0:03:38.16,0:03:40.28,DEFAULT,,0,0,0,,{\r}{\kf30}Shades{\kf18} of{\kf36} grey{\kf30} sur{\kf36}round{\kf30}ing{\kf32} here
+Dialogue: 0,0:03:40.49,0:03:43.06,DEFAULT,,0,0,0,,{\r}{\kf31}We{\kf19} can{\kf25}not{\kf38} move{\kf25} nor{\kf31} can{\kf31} we{\kf58} fear
+Dialogue: 0,0:03:43.52,0:03:45.60,DEFAULT,,0,0,0,,{\r}{\kf32}Home{\kf19} is{\kf38} gone{\kf25} there{\kf32} is{\kf25} no{\kf37} light
+Dialogue: 0,0:03:45.80,0:03:48.88,DEFAULT,,0,0,0,,{\r}{\kf33}No{\kf39} lon{\kf20}ger{\kf26} is{\kf33} the{\kf33} end{\kf26} in{\kf33} sight{\kf26}~{\kf38}~
+Dialogue: 0,0:03:49.29,0:03:51.00,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf31} land{\kf19} be{\kf31}low{\kf25} us{\kf45} burns
+Dialogue: 0,0:03:51.16,0:03:53.70,DEFAULT,,0,0,0,,{\r}{\kf26}Our{\kf32} walls{\kf26} will{\kf26} fall{\kf32} as{\kf32} we{\kf26} all{\kf53} turn
+Dialogue: 0,0:03:54.20,0:03:56.28,DEFAULT,,0,0,0,,{\r}{\kf32}Walk{\kf19} a{\kf39}way,{\kf32} walk{\kf39} a{\kf47}way
+Dialogue: 0,0:03:56.52,0:04:00.56,DEFAULT,,0,0,0,,{\r}{\kf31}Ar{\kf20}ri{\kf26}ve{\kf26}der{\kf26}ci{\kf31} to{\kf26} this{\kf51} day{\kf166}~!
+Dialogue: 0,0:04:05.29,0:04:06.41,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} see{\kf21} you{\kf59} there
+Dialogue: 0,0:04:07.29,0:04:09.70,DEFAULT,,0,0,0,,{\r}{\kf29}From{\kf29} my{\kf29} perch{\kf24} on{\kf41} high{\kf18}~{\kf71}~
+Dialogue: 0,0:04:10.32,0:04:12.81,DEFAULT,,0,0,0,,{\r}{\kf24}An{\kf24} em{\kf24}bo{\kf24}di{\kf36}ment{\kf24} of{\kf36} e{\kf57}vil
+Dialogue: 0,0:04:13.31,0:04:15.26,DEFAULT,,0,0,0,,{\r}{\kf17}A{\kf29} fact{\kf29} you{\kf29} can't{\kf23} de{\kf68}ny
+Dialogue: 0,0:04:16.01,0:04:18.38,DEFAULT,,0,0,0,,{\r}{\kf18}You{\kf24} have{\kf18} to{\kf49} see,{\kf18} my{\kf24} reign{\kf30} has{\kf56} come
+Dialogue: 0,0:04:18.59,0:04:20.46,DEFAULT,,0,0,0,,{\r}{\kf23}There's{\kf23} no{\kf23}thing{\kf35} you{\kf23} can{\kf60} do
+Dialogue: 0,0:04:21.33,0:04:23.74,DEFAULT,,0,0,0,,{\r}{\kf19}So{\kf19} lis{\kf25}ten{\kf37} up{\kf25} you{\kf37} girls{\kf25} and{\kf54} boys
+Dialogue: 0,0:04:23.99,0:04:25.74,DEFAULT,,0,0,0,,{\r}{\kf19}I'm{\kf19} gon{\kf25}na{\kf31} play{\kf31} with{\kf50} you
+Dialogue: 0,0:04:26.90,0:04:28.31,DEFAULT,,0,0,0,,{\r}{\kf37}Run{\kf43} hide{\kf61} flee
+Dialogue: 0,0:04:29.35,0:04:31.05,DEFAULT,,0,0,0,,{\r}{\kf19}There's{\kf19} no{\kf25} es{\kf31}cap{\kf31}ing{\kf45} me
+Dialogue: 0,0:04:31.26,0:04:33.26,DEFAULT,,0,0,0,,{\r}{\kf40}Run{\kf93} hide{\kf66} flee
+Dialogue: 0,0:04:34.38,0:04:36.04,DEFAULT,,0,0,0,,{\r}{\kf17}You{\kf22} just{\kf33} try{\kf17} to{\kf17} run{\kf17} a{\kf43}way
+Dialogue: 0,0:04:36.54,0:04:37.99,DEFAULT,,0,0,0,,{\r}{\kf38}Run{\kf44} hide{\kf63} flee
+Dialogue: 0,0:04:39.65,0:04:41.69,DEFAULT,,0,0,0,,{\r}{\kf19}For{\kf31} there's{\kf25} no{\kf25} es{\kf31}cap{\kf31}ing{\kf42} me
+Dialogue: 0,0:04:41.98,0:04:44.35,DEFAULT,,0,0,0,,{\r}{\kf25}I'll{\kf31} chase{\kf19} you{\kf37} down{\kf19} and{\kf25} then{\kf31} you'll{\kf50} see
+Dialogue: 0,0:04:44.89,0:04:47.13,DEFAULT,,0,0,0,,{\r}{\kf32}It's{\kf19} no{\kf38} use{\kf19} to{\kf26} run,{\kf32} hide,{\kf58} flee

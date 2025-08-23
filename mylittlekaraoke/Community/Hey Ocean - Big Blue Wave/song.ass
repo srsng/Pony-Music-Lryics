@@ -1,41 +1,48 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Big Blue Wave
+Artist: Hey Ocean!
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.68,0:00:12.42,DEFAULT,,0,0,0,,{\kf17}All{\kf17} we{\kf17} do{\kf17} is{\kf28} mess{\kf44} a{\kf94}roud
-Dialogue: 0,0:00:14.78,0:00:17.57,DEFAULT,,0,0,0,,{\kf17}But{\kf17} I{\kf17} know{\kf17} that{\kf17} it's{\kf22} love{\kf17} we{\kf88} found
-Dialogue: 0,0:00:20.19,0:00:22.60,DEFAULT,,0,0,0,,{\kf17}I{\kf17} know{\kf17} that{\kf17} it's{\kf28} here{\kf17} to{\kf66} stay
-Dialogue: 0,0:00:25.18,0:00:28.02,DEFAULT,,0,0,0,,{\kf17}It's{\kf17} more{\kf17} than{\kf17} just{\kf17} a{\kf28} word{\kf28} we{\kf83} say
-Dialogue: 0,0:00:30.49,0:00:33.06,DEFAULT,,0,0,0,,{\kf17}No{\kf17} I{\kf17} don't{\kf17} wan{\kf17}na{\kf22} fuss{\kf22} or{\kf61} fight
-Dialogue: 0,0:00:35.74,0:00:37.93,DEFAULT,,0,0,0,,{\kf17}And{\kf17} I'm{\kf17} not{\kf17} one{\kf17} to{\kf17} give{\kf22} ad{\kf44}vice
-Dialogue: 0,0:00:41.00,0:00:43.74,DEFAULT,,0,0,0,,{\kf17}But{\kf17} there's{\kf17} no{\kf17} need{\kf17} to{\kf33} be{\kf17} a{\kf77}fraid
-Dialogue: 0,0:00:46.42,0:00:51.89,DEFAULT,,0,0,0,,{\kf22}Ba{\kf17}by{\kf17} there's{\kf17} no{\kf17} time{\kf17} to{\kf88} wa{\kf88}s{\kf198}te
-Dialogue: 0,0:00:52.55,0:00:56.00,DEFAULT,,0,0,0,,{\kf17}Sing{\kf17} un{\kf17}til{\kf17} you{\kf28} have{\kf22} no{\kf170} voice
-Dialogue: 0,0:00:57.69,0:01:01.03,DEFAULT,,0,0,0,,{\kf22}Sing{\kf17} be{\kf17}cause{\kf17} you{\kf22} have{\kf22} no{\kf148} choice
-Dialogue: 0,0:01:03.06,0:01:06.67,DEFAULT,,0,0,0,,{\kf17}Sing{\kf22} un{\kf17}til{\kf17} you{\kf28} float{\kf44} a{\kf187}way
-Dialogue: 0,0:01:08.10,0:01:13.63,DEFAULT,,0,0,0,,{\kf17}Our{\kf17} love{\kf17} is{\kf17} like{\kf17} a{\kf22} big{\kf22} blue{\kf176} wa{\kf181}ve
-Dialogue: 0,0:01:16.53,0:01:19.05,DEFAULT,,0,0,0,,{\kf17}It's{\kf17} like{\kf17} a{\kf17} big{\kf22} blue{\kf99} wave
-Dialogue: 0,0:01:23.86,0:01:26.65,DEFAULT,,0,0,0,,{\kf17}Don't{\kf17} tell{\kf17} me{\kf17} that{\kf17} we've{\kf22} come{\kf22} this{\kf72} far
-Dialogue: 0,0:01:29.17,0:01:31.58,DEFAULT,,0,0,0,,{\kf17}To{\kf17} start{\kf17} a{\kf17}gain{\kf17} or{\kf17} fall{\kf22} a{\kf66}part
-Dialogue: 0,0:01:34.65,0:01:39.03,DEFAULT,,0,0,0,,{\kf17}Sing{\kf17} it{\kf17} when{\kf17} you're{\kf17} lost{\kf17} at{\kf263} sea
-Dialogue: 0,0:01:39.63,0:01:45.54,DEFAULT,,0,0,0,,{\kf17}And{\kf17} love{\kf17} will{\kf17} bring{\kf17} you{\kf17} back{\kf17} to{\kf88} m{\kf88}e{\kf88}~{\kf126}~
-Dialogue: 0,0:01:45.82,0:01:49.26,DEFAULT,,0,0,0,,{\kf33}Sing{\kf17} un{\kf17}til{\kf17} you{\kf17} have{\kf17} no{\kf148} voice
-Dialogue: 0,0:01:51.29,0:01:54.36,DEFAULT,,0,0,0,,{\kf17}Sing{\kf22} be{\kf17}cause{\kf17} you{\kf17} have{\kf17} no{\kf132} choice
-Dialogue: 0,0:01:56.49,0:02:00.21,DEFAULT,,0,0,0,,{\kf22}Sing{\kf22} un{\kf17}til{\kf17} you{\kf28} float{\kf44} a{\kf192}way
-Dialogue: 0,0:02:01.58,0:02:08.81,DEFAULT,,0,0,0,,{\kf17}Our{\kf17} love{\kf17} is{\kf17} like{\kf17} a{\kf28} big{\kf28} blue{\kf329} wa{\kf77}v{\kf115}e
-Dialogue: 0,0:02:09.57,0:02:13.90,DEFAULT,,0,0,0,,{\kf22}Sing{\kf22} un{\kf17}til{\kf17} you{\kf28} have{\kf17} no{\kf247} voice
-Dialogue: 0,0:02:14.83,0:02:19.26,DEFAULT,,0,0,0,,{\kf22}Sing{\kf22} be{\kf17}cause{\kf17} you{\kf22} have{\kf22} no{\kf176} cho{\kf83}ice
-Dialogue: 0,0:02:20.09,0:02:24.41,DEFAULT,,0,0,0,,{\kf22}Sing{\kf22} un{\kf17}til{\kf17} you{\kf17} float{\kf44} a{\kf176}way{\kf72}~
-Dialogue: 0,0:02:25.40,0:02:31.03,DEFAULT,,0,0,0,,{\kf22}Sing{\kf22} un{\kf17}til{\kf17} you're{\kf28} home{\kf44} a{\kf307}gain{\kf22}~{\kf55}~
-Dialogue: 0,0:02:42.04,0:02:45.38,DEFAULT,,0,0,0,,{\kf22}Sing{\kf22} un{\kf17}til{\kf17} you{\kf28} have{\kf17} no{\kf154} voice
-Dialogue: 0,0:02:47.35,0:02:50.58,DEFAULT,,0,0,0,,{\kf17}Sing{\kf22} be{\kf17}cause{\kf17} you{\kf28} have{\kf17} no{\kf148} choice
-Dialogue: 0,0:02:52.55,0:02:56.16,DEFAULT,,0,0,0,,{\kf17}Sing{\kf22} un{\kf17}til{\kf17} you{\kf22} float{\kf44} a{\kf181}way
-Dialogue: 0,0:02:57.64,0:03:06.02,DEFAULT,,0,0,0,,{\kf17}Our{\kf17} love{\kf17} is{\kf17} like{\kf17} a{\kf17} big{\kf17} blue{\kf641} wave
-Dialogue: 0,0:03:08.59,0:03:11.05,DEFAULT,,0,0,0,,{\kf17}It's{\kf17} like{\kf17} a{\kf17} big{\kf17} blue{\kf94} wave
+Dialogue: 0,0:00:09.69,0:00:12.43,DEFAULT,,0,0,0,,{\r}{\kf20}All{\kf20} we{\kf20} do{\kf20} is{\kf33} mess{\kf52} a{\kf109}roud
+Dialogue: 0,0:00:14.78,0:00:17.57,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} I{\kf22} know{\kf22} that{\kf22} it's{\kf29} love{\kf22} we{\kf118} found
+Dialogue: 0,0:00:20.20,0:00:22.61,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf23} know{\kf23} that{\kf23} it's{\kf38} here{\kf23} to{\kf88} stay
+Dialogue: 0,0:00:25.18,0:00:28.03,DEFAULT,,0,0,0,,{\r}{\kf21}It's{\kf21} more{\kf21} than{\kf21} just{\kf21} a{\kf36} word{\kf36} we{\kf108} say
+Dialogue: 0,0:00:30.49,0:00:33.06,DEFAULT,,0,0,0,,{\r}{\kf23}No{\kf23} I{\kf23} don't{\kf23} wan{\kf23}na{\kf30} fuss{\kf30} or{\kf82} fight
+Dialogue: 0,0:00:35.75,0:00:37.94,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} I'm{\kf22} not{\kf22} one{\kf22} to{\kf22} give{\kf29} ad{\kf58}vice
+Dialogue: 0,0:00:41.00,0:00:43.74,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} there's{\kf22} no{\kf22} need{\kf22} to{\kf43} be{\kf22} a{\kf99}fraid
+Dialogue: 0,0:00:46.42,0:00:51.90,DEFAULT,,0,0,0,,{\r}{\kf25}Ba{\kf19}by{\kf19} there's{\kf19} no{\kf19} time{\kf19} to{\kf101} wa{\kf101}s{\kf225}te
+Dialogue: 0,0:00:52.55,0:00:56.00,DEFAULT,,0,0,0,,{\r}{\kf20}Sing{\kf20} un{\kf20}til{\kf20} you{\kf33} have{\kf27} no{\kf205} voice
+Dialogue: 0,0:00:57.70,0:01:01.04,DEFAULT,,0,0,0,,{\r}{\kf28}Sing{\kf21} be{\kf21}cause{\kf21} you{\kf28} have{\kf28} no{\kf187} choice
+Dialogue: 0,0:01:03.06,0:01:06.68,DEFAULT,,0,0,0,,{\r}{\kf18}Sing{\kf24} un{\kf18}til{\kf18} you{\kf30} float{\kf48} a{\kf205}way
+Dialogue: 0,0:01:08.10,0:01:13.63,DEFAULT,,0,0,0,,{\r}{\kf19}Our{\kf19} love{\kf19} is{\kf19} like{\kf19} a{\kf25} big{\kf25} blue{\kf201} wa{\kf207}ve
+Dialogue: 0,0:01:16.53,0:01:19.05,DEFAULT,,0,0,0,,{\r}{\kf22}It's{\kf22} like{\kf22} a{\kf22} big{\kf30} blue{\kf134} wave
+Dialogue: 0,0:01:23.87,0:01:26.66,DEFAULT,,0,0,0,,{\r}{\kf23}Don't{\kf23} tell{\kf23} me{\kf23} that{\kf23} we've{\kf31} come{\kf31} this{\kf102} far
+Dialogue: 0,0:01:29.18,0:01:31.59,DEFAULT,,0,0,0,,{\r}{\kf21}To{\kf21} start{\kf21} a{\kf21}gain{\kf21} or{\kf21} fall{\kf28} a{\kf87}part
+Dialogue: 0,0:01:34.65,0:01:39.03,DEFAULT,,0,0,0,,{\r}{\kf20}Sing{\kf20} it{\kf20} when{\kf20} you're{\kf20} lost{\kf20} at{\kf318} sea
+Dialogue: 0,0:01:39.63,0:01:45.55,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} love{\kf19} will{\kf19} bring{\kf19} you{\kf19} back{\kf19} to{\kf103} m{\kf103}e{\kf103}~{\kf149}~
+Dialogue: 0,0:01:45.82,0:01:49.27,DEFAULT,,0,0,0,,{\r}{\kf43}Sing{\kf22} un{\kf22}til{\kf22} you{\kf22} have{\kf22} no{\kf192} voice
+Dialogue: 0,0:01:51.29,0:01:54.36,DEFAULT,,0,0,0,,{\r}{\kf21}Sing{\kf29} be{\kf21}cause{\kf21} you{\kf21} have{\kf21} no{\kf173} choice
+Dialogue: 0,0:01:56.50,0:02:00.22,DEFAULT,,0,0,0,,{\r}{\kf24}Sing{\kf24} un{\kf18}til{\kf18} you{\kf30} float{\kf48} a{\kf210}way
+Dialogue: 0,0:02:01.59,0:02:08.81,DEFAULT,,0,0,0,,{\r}{\kf18}Our{\kf18} love{\kf18} is{\kf18} like{\kf18} a{\kf30} big{\kf30} blue{\kf362} wa{\kf84}v{\kf127}e
+Dialogue: 0,0:02:09.58,0:02:13.90,DEFAULT,,0,0,0,,{\r}{\kf26}Sing{\kf26} un{\kf19}til{\kf19} you{\kf32} have{\kf19} no{\kf291} voice
+Dialogue: 0,0:02:14.83,0:02:19.27,DEFAULT,,0,0,0,,{\r}{\kf26}Sing{\kf26} be{\kf19}cause{\kf19} you{\kf26} have{\kf26} no{\kf205} cho{\kf96}ice
+Dialogue: 0,0:02:20.09,0:02:24.42,DEFAULT,,0,0,0,,{\r}{\kf25}Sing{\kf25} un{\kf19}til{\kf19} you{\kf19} float{\kf49} a{\kf197}way{\kf79}~
+Dialogue: 0,0:02:25.40,0:02:31.04,DEFAULT,,0,0,0,,{\r}{\kf23}Sing{\kf23} un{\kf17}til{\kf17} you're{\kf29} home{\kf47} a{\kf326}gain{\kf23}~{\kf59}~
+Dialogue: 0,0:02:42.04,0:02:45.38,DEFAULT,,0,0,0,,{\r}{\kf27}Sing{\kf27} un{\kf20}til{\kf20} you{\kf33} have{\kf20} no{\kf187} voice
+Dialogue: 0,0:02:47.35,0:02:50.58,DEFAULT,,0,0,0,,{\r}{\kf20}Sing{\kf27} be{\kf20}cause{\kf20} you{\kf34} have{\kf20} no{\kf182} choice
+Dialogue: 0,0:02:52.55,0:02:56.17,DEFAULT,,0,0,0,,{\r}{\kf19}Sing{\kf25} un{\kf19}til{\kf19} you{\kf25} float{\kf50} a{\kf204}way
+Dialogue: 0,0:02:57.65,0:03:06.02,DEFAULT,,0,0,0,,{\r}{\kf18}Our{\kf18} love{\kf18} is{\kf18} like{\kf18} a{\kf18} big{\kf18} blue{\kf712} wave
+Dialogue: 0,0:03:08.59,0:03:11.06,DEFAULT,,0,0,0,,{\r}{\kf23}It's{\kf23} like{\kf23} a{\kf23} big{\kf23} blue{\kf131} wave

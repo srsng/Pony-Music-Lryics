@@ -1,61 +1,68 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Lunar Pirate (ft. MEMJ & EileMonty)
+Artist: Carbon Maestro
+Original Timing: mylittlekaraoke.com
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:28.17,0:00:34.09,DEFAULT,,0,0,0,,{\kf67}Day{\kf67}time{\kf71} sleeps{\kf81} and{\kf36} dre{\kf32}ams{\kf81} of{\kf64} night
-Dialogue: 0,0:00:34.24,0:00:40.02,DEFAULT,,0,0,0,,{\kf60}While{\kf71} beau{\kf74}ty{\kf78} flanks{\kf71} your{\kf148} bed
-Dialogue: 0,0:00:41.81,0:00:48.53,DEFAULT,,0,0,0,,{\kf88}White-{\kf88}blue{\kf60} stars{\kf67} soar{\kf88} sky{\kf85}ward{\kf64} year{\kf64}ning
-Dialogue: 0,0:00:48.74,0:00:52.99,DEFAULT,,0,0,0,,{\kf74}Love{\kf81} your{\kf67} heart{\kf64} mis{\kf85}read
-Dialogue: 0,0:00:55.54,0:01:02.20,DEFAULT,,0,0,0,,{\kf78}Night{\kf64} burns{\kf74} bright{\kf64} and{\kf78} blends{\kf74} with{\kf64} sha{\kf60}dow
-Dialogue: 0,0:01:02.34,0:01:08.86,DEFAULT,,0,0,0,,{\kf88}Fills{\kf67} your{\kf67} heart{\kf64} with{\kf302} gloom
-Dialogue: 0,0:01:09.32,0:01:15.87,DEFAULT,,0,0,0,,{\kf81}Prin{\kf81}cess{\kf64} Lu{\kf64}na,{\kf95} roa{\kf95}mer{\kf46} of{\kf57} dreams
-Dialogue: 0,0:01:16.08,0:01:23.51,DEFAULT,,0,0,0,,{\kf71}Steal{\kf71} my{\kf60} heart{\kf64} and{\kf404} bloom
-Dialogue: 0,0:01:38.90,0:01:40.37,DEFAULT,,0,0,0,,{\kf36}Dance{\kf32} with{\kf53} me
-Dialogue: 0,0:01:40.47,0:01:41.84,DEFAULT,,0,0,0,,{\kf43}Sing{\kf32} with{\kf43} me
-Dialogue: 0,0:01:41.98,0:01:43.63,DEFAULT,,0,0,0,,{\kf60}Play{\kf36} with{\kf46} me
-Dialogue: 0,0:01:43.80,0:01:45.24,DEFAULT,,0,0,0,,{\kf39}Fly{\kf25} with{\kf60} me
-Dialogue: 0,0:01:45.38,0:01:47.03,DEFAULT,,0,0,0,,{\kf50}Run{\kf36} with{\kf53} me
-Dialogue: 0,0:01:47.13,0:01:48.60,DEFAULT,,0,0,0,,{\kf36}Trot{\kf22} with{\kf71} me
-Dialogue: 0,0:01:48.78,0:01:50.25,DEFAULT,,0,0,0,,{\kf46}Laugh{\kf25} with{\kf53} me
-Dialogue: 0,0:01:50.53,0:01:51.97,DEFAULT,,0,0,0,,{\kf46}Steal{\kf25} from{\kf53} me
-Dialogue: 0,0:01:52.60,0:01:54.00,DEFAULT,,0,0,0,,{\kf25}All{\kf18} deck{\kf11}hands{\kf18} on{\kf32} deck!
-Dialogue: 0,0:01:54.25,0:01:55.72,DEFAULT,,0,0,0,,{\kf18}Swa{\kf18}sher{\kf18} and{\kf18} black{\kf46}jack!
-Dialogue: 0,0:01:55.96,0:01:57.19,DEFAULT,,0,0,0,,{\kf15}Peel{\kf18} off{\kf22} to{\kf18} port{\kf15} tack!
-Dialogue: 0,0:01:57.30,0:01:58.87,DEFAULT,,0,0,0,,{\kf18}Hear{\kf18}ties{\kf18} go{\kf18} find{\kf18} me{\kf22} gold!
-Dialogue: 0,0:01:59.33,0:02:00.63,DEFAULT,,0,0,0,,{\kf18}All{\kf15} deck{\kf18}hands{\kf18} on{\kf29} deck!
-Dialogue: 0,0:02:00.98,0:02:02.31,DEFAULT,,0,0,0,,{\kf15}Swa{\kf18}sher{\kf15} and{\kf18} black{\kf29}jack!
-Dialogue: 0,0:02:02.59,0:02:03.92,DEFAULT,,0,0,0,,{\kf18}Peel{\kf15} off{\kf18} to{\kf18} port{\kf18} tack!
-Dialogue: 0,0:02:04.06,0:02:05.64,DEFAULT,,0,0,0,,{\kf22}Bli{\kf22}mey,{\kf11} you{\kf15} got{\kf18} me{\kf25} sold!
-Dialogue: 0,0:02:19.24,0:02:22.39,DEFAULT,,0,0,0,,{\kf11}Pi{\kf36}rate{\kf15} Lu{\kf39}na,{\kf22} come{\kf18} steal{\kf22} my{\kf18} heart{\kf18} made{\kf18} of{\kf18} gold
-Dialogue: 0,0:02:22.49,0:02:25.79,DEFAULT,,0,0,0,,{\kf43}Live{\kf11} in{\kf15} my{\kf39} dreams,{\kf22} we'll{\kf15} fight{\kf15} sca{\kf15}lly{\kf22}wags{\kf18} and{\kf18} the{\kf18} mold
-Dialogue: 0,0:02:25.86,0:02:27.23,DEFAULT,,0,0,0,,{\kf18}Scream{\kf15} out{\kf11} a{\kf60}hoy!
-Dialogue: 0,0:02:27.30,0:02:28.84,DEFAULT,,0,0,0,,{\kf15}Lift{\kf15} up{\kf15} your{\kf18} spi{\kf46}rits
-Dialogue: 0,0:02:28.98,0:02:32.24,DEFAULT,,0,0,0,,{\kf22}Live{\kf43} on{\kf18} the{\kf18} ves{\kf11}sel{\kf8} of{\kf8} the{\kf22} lu{\kf15}nar{\kf18} pi{\kf50}rate
-Dialogue: 0,0:02:33.11,0:02:34.31,DEFAULT,,0,0,0,,{\kf11}All{\kf15} deck{\kf22}hands{\kf18} on{\kf25} deck!
-Dialogue: 0,0:02:34.62,0:02:35.95,DEFAULT,,0,0,0,,{\kf15}Swa{\kf25}sher{\kf15} and{\kf18} black{\kf25}jack!
-Dialogue: 0,0:02:36.27,0:02:37.60,DEFAULT,,0,0,0,,{\kf18}Peel{\kf18} off{\kf18} to{\kf22} port{\kf22} tack!
-Dialogue: 0,0:02:37.70,0:02:39.28,DEFAULT,,0,0,0,,{\kf18}Hear{\kf18}ties{\kf15} go{\kf18} find{\kf18} me{\kf25} gold!
-Dialogue: 0,0:02:39.63,0:02:41.00,DEFAULT,,0,0,0,,{\kf22}All{\kf15} deck{\kf15}hands{\kf18} on{\kf32} deck!
-Dialogue: 0,0:02:41.31,0:02:42.72,DEFAULT,,0,0,0,,{\kf18}Swa{\kf22}sher{\kf18} and{\kf18} black{\kf32}jack!
-Dialogue: 0,0:02:43.00,0:02:44.29,DEFAULT,,0,0,0,,{\kf18}Peel{\kf18} off{\kf18} to{\kf18} port{\kf22} tack!
-Dialogue: 0,0:02:44.40,0:02:45.63,DEFAULT,,0,0,0,,{\kf11}Bli{\kf8}mey,{\kf22} you{\kf18} got{\kf15} me{\kf15} sold!
-Dialogue: 0,0:02:45.98,0:02:49.34,DEFAULT,,0,0,0,,{\kf25}Pi{\kf22}rate{\kf11} Lu{\kf43}na,{\kf15} come{\kf18} steal{\kf18} my{\kf22} heart{\kf15} made{\kf18} of{\kf22} gold
-Dialogue: 0,0:02:49.45,0:02:52.70,DEFAULT,,0,0,0,,{\kf18}Live{\kf18} in{\kf15} my{\kf43} dreams,{\kf18} we'll{\kf22} fight{\kf18} sca{\kf15}lly{\kf15}wags{\kf18} and{\kf11} the{\kf25} mold
-Dialogue: 0,0:02:52.77,0:02:54.07,DEFAULT,,0,0,0,,{\kf22}Scream{\kf15} out{\kf18} a{\kf46}hoy!
-Dialogue: 0,0:02:54.21,0:02:55.65,DEFAULT,,0,0,0,,{\kf11}Lift{\kf18} up{\kf18} your{\kf22} spi{\kf32}rits
-Dialogue: 0,0:02:55.93,0:02:59.22,DEFAULT,,0,0,0,,{\kf22}Live{\kf36} on{\kf22} the{\kf18} ves{\kf15}sel{\kf11} of{\kf4} the{\kf8} lu{\kf15}nar{\kf25} pi{\kf53}rate
-Dialogue: 0,0:02:59.50,0:03:02.80,DEFAULT,,0,0,0,,{\kf46}Pi{\kf11}rate{\kf15} Lu{\kf32}na,{\kf15} come{\kf22} steal{\kf15} my{\kf18} heart{\kf22} made{\kf15} of{\kf18} gold
-Dialogue: 0,0:03:02.90,0:03:06.20,DEFAULT,,0,0,0,,{\kf15}Live{\kf18} in{\kf18} my{\kf50} dreams,{\kf18} we'll{\kf22} fight{\kf15} sca{\kf15}lly{\kf11}wags{\kf22} and{\kf15} the{\kf18} mold
-Dialogue: 0,0:03:06.27,0:03:07.49,DEFAULT,,0,0,0,,{\kf22}Scream{\kf15} out{\kf18} a{\kf39}hoy!
-Dialogue: 0,0:03:07.60,0:03:09.18,DEFAULT,,0,0,0,,{\kf22}Lift{\kf18} up{\kf22} your{\kf18} spi{\kf43}rits
-Dialogue: 0,0:03:09.35,0:03:12.68,DEFAULT,,0,0,0,,{\kf22}Live{\kf39} on{\kf15} the{\kf18} ves{\kf15}sel{\kf8} of{\kf8} the{\kf11} lu{\kf18}nar{\kf18} pi{\kf53}rate
-Dialogue: 0,0:03:13.00,0:03:19.41,DEFAULT,,0,0,0,,{\kf71}Re{\kf74}gi{\kf67}na{\kf60} noc{\kf67}tis{\kf78} pro{\kf64} no{\kf60}bis
-Dialogue: 0,0:03:19.62,0:03:26.21,DEFAULT,,0,0,0,,{\kf74}Re{\kf71}gi{\kf74}na{\kf60} noc{\kf74}tis{\kf78} pro{\kf67} no{\kf57}bis
-Dialogue: 0,0:03:26.49,0:03:32.73,DEFAULT,,0,0,0,,{\kf151}Lu{\kf158}næ{\kf144} lu{\kf123}men
+Dialogue: 0,0:00:28.18,0:00:34.10,DEFAULT,,0,0,0,,{\r}{\kf80}Day{\kf80}time{\kf84} sleeps{\kf97} and{\kf42} dre{\kf38}ams{\kf97} of{\kf74} night
+Dialogue: 0,0:00:34.24,0:00:40.02,DEFAULT,,0,0,0,,{\r}{\kf69}While{\kf81} beau{\kf85}ty{\kf90} flanks{\kf81} your{\kf172} bed
+Dialogue: 0,0:00:41.81,0:00:48.54,DEFAULT,,0,0,0,,{\r}{\kf98}White-{\kf98}blue{\kf67} stars{\kf75} soar{\kf98} sky{\kf94}ward{\kf71} year{\kf72}ning
+Dialogue: 0,0:00:48.75,0:00:52.99,DEFAULT,,0,0,0,,{\r}{\kf85}Love{\kf93} your{\kf77} heart{\kf73} mis{\kf96}read
+Dialogue: 0,0:00:55.55,0:01:02.21,DEFAULT,,0,0,0,,{\r}{\kf93}Night{\kf76} burns{\kf89} bright{\kf76} and{\kf93} blends{\kf89} with{\kf76} sha{\kf74}dow
+Dialogue: 0,0:01:02.35,0:01:08.87,DEFAULT,,0,0,0,,{\r}{\kf98}Fills{\kf74} your{\kf74} heart{\kf70} with{\kf336} gloom
+Dialogue: 0,0:01:09.32,0:01:15.88,DEFAULT,,0,0,0,,{\r}{\kf91}Prin{\kf91}cess{\kf71} Lu{\kf71}na,{\kf107} roa{\kf107}mer{\kf52} of{\kf65} dreams
+Dialogue: 0,0:01:16.09,0:01:23.52,DEFAULT,,0,0,0,,{\r}{\kf78}Steal{\kf78} my{\kf66} heart{\kf70} and{\kf451} bloom
+Dialogue: 0,0:01:38.90,0:01:40.37,DEFAULT,,0,0,0,,{\r}{\kf43}Dance{\kf39} with{\kf65} me
+Dialogue: 0,0:01:40.48,0:01:41.85,DEFAULT,,0,0,0,,{\r}{\kf50}Sing{\kf37} with{\kf50} me
+Dialogue: 0,0:01:41.99,0:01:43.63,DEFAULT,,0,0,0,,{\r}{\kf70}Play{\kf41} with{\kf54} me
+Dialogue: 0,0:01:43.81,0:01:45.24,DEFAULT,,0,0,0,,{\r}{\kf45}Fly{\kf29} with{\kf70} me
+Dialogue: 0,0:01:45.38,0:01:47.03,DEFAULT,,0,0,0,,{\r}{\kf59}Run{\kf42} with{\kf64} me
+Dialogue: 0,0:01:47.14,0:01:48.61,DEFAULT,,0,0,0,,{\r}{\kf41}Trot{\kf24} with{\kf82} me
+Dialogue: 0,0:01:48.78,0:01:50.26,DEFAULT,,0,0,0,,{\r}{\kf55}Laugh{\kf29} with{\kf63} me
+Dialogue: 0,0:01:50.54,0:01:51.97,DEFAULT,,0,0,0,,{\r}{\kf53}Steal{\kf29} from{\kf62} me
+Dialogue: 0,0:01:52.60,0:01:54.01,DEFAULT,,0,0,0,,{\r}{\kf34}All{\kf24} deck{\kf14}hands{\kf24} on{\kf44} deck!
+Dialogue: 0,0:01:54.25,0:01:55.72,DEFAULT,,0,0,0,,{\r}{\kf22}Swa{\kf22}sher{\kf22} and{\kf22} black{\kf59}jack!
+Dialogue: 0,0:01:55.97,0:01:57.20,DEFAULT,,0,0,0,,{\r}{\kf20}Peel{\kf26} off{\kf31} to{\kf26} port{\kf20} tack!
+Dialogue: 0,0:01:57.30,0:01:58.88,DEFAULT,,0,0,0,,{\r}{\kf25}Hear{\kf25}ties{\kf25} go{\kf25} find{\kf25} me{\kf33} gold!
+Dialogue: 0,0:01:59.33,0:02:00.63,DEFAULT,,0,0,0,,{\r}{\kf24}All{\kf19} deck{\kf24}hands{\kf24} on{\kf39} deck!
+Dialogue: 0,0:02:00.98,0:02:02.31,DEFAULT,,0,0,0,,{\r}{\kf20}Swa{\kf26}sher{\kf20} and{\kf26} black{\kf41}jack!
+Dialogue: 0,0:02:02.59,0:02:03.92,DEFAULT,,0,0,0,,{\r}{\kf28}Peel{\kf22} off{\kf28} to{\kf28} port{\kf27} tack!
+Dialogue: 0,0:02:04.06,0:02:05.64,DEFAULT,,0,0,0,,{\r}{\kf31}Bli{\kf31}mey,{\kf15} you{\kf20} got{\kf25} me{\kf36} sold!
+Dialogue: 0,0:02:19.24,0:02:22.39,DEFAULT,,0,0,0,,{\r}{\kf15}Pi{\kf48}rate{\kf19} Lu{\kf53}na,{\kf29} come{\kf24} steal{\kf29} my{\kf24} heart{\kf24} made{\kf24} of{\kf26} gold
+Dialogue: 0,0:02:22.50,0:02:25.79,DEFAULT,,0,0,0,,{\r}{\kf57}Live{\kf14} in{\kf19} my{\kf52} dreams,{\kf29} we'll{\kf19} fight{\kf19} sca{\kf19}lly{\kf29}wags{\kf24} and{\kf24} the{\kf24} mold
+Dialogue: 0,0:02:25.86,0:02:27.23,DEFAULT,,0,0,0,,{\r}{\kf24}Scream{\kf19} out{\kf14} a{\kf80}hoy!
+Dialogue: 0,0:02:27.30,0:02:28.84,DEFAULT,,0,0,0,,{\r}{\kf21}Lift{\kf21} up{\kf21} your{\kf26} spi{\kf65}rits
+Dialogue: 0,0:02:28.98,0:02:32.24,DEFAULT,,0,0,0,,{\r}{\kf31}Live{\kf61} on{\kf25} the{\kf25} ves{\kf15}sel{\kf10} of{\kf10} the{\kf31} lu{\kf20}nar{\kf25} pi{\kf73}rate
+Dialogue: 0,0:02:33.12,0:02:34.31,DEFAULT,,0,0,0,,{\r}{\kf14}All{\kf19} deck{\kf29}hands{\kf24} on{\kf33} deck!
+Dialogue: 0,0:02:34.63,0:02:35.96,DEFAULT,,0,0,0,,{\r}{\kf20}Swa{\kf34}sher{\kf20} and{\kf25} black{\kf34}jack!
+Dialogue: 0,0:02:36.27,0:02:37.60,DEFAULT,,0,0,0,,{\r}{\kf25}Peel{\kf25} off{\kf25} to{\kf30} port{\kf28} tack!
+Dialogue: 0,0:02:37.71,0:02:39.29,DEFAULT,,0,0,0,,{\r}{\kf25}Hear{\kf25}ties{\kf20} go{\kf25} find{\kf25} me{\kf38} gold!
+Dialogue: 0,0:02:39.64,0:02:41.00,DEFAULT,,0,0,0,,{\r}{\kf29}All{\kf20} deck{\kf20}hands{\kf24} on{\kf44} deck!
+Dialogue: 0,0:02:41.32,0:02:42.72,DEFAULT,,0,0,0,,{\r}{\kf23}Swa{\kf28}sher{\kf23} and{\kf23} black{\kf43}jack!
+Dialogue: 0,0:02:43.00,0:02:44.30,DEFAULT,,0,0,0,,{\r}{\kf25}Peel{\kf25} off{\kf25} to{\kf25} port{\kf30} tack!
+Dialogue: 0,0:02:44.40,0:02:45.63,DEFAULT,,0,0,0,,{\r}{\kf15}Bli{\kf10}mey,{\kf31} you{\kf26} got{\kf20} me{\kf21} sold!
+Dialogue: 0,0:02:45.98,0:02:49.35,DEFAULT,,0,0,0,,{\r}{\kf37}Pi{\kf32}rate{\kf16} Lu{\kf64}na,{\kf21} come{\kf27} steal{\kf27} my{\kf32} heart{\kf21} made{\kf27} of{\kf32} gold
+Dialogue: 0,0:02:49.45,0:02:52.71,DEFAULT,,0,0,0,,{\r}{\kf25}Live{\kf25} in{\kf20} my{\kf60} dreams,{\kf25} we'll{\kf30} fight{\kf25} sca{\kf20}lly{\kf20}wags{\kf25} and{\kf15} the{\kf36} mold
+Dialogue: 0,0:02:52.78,0:02:54.08,DEFAULT,,0,0,0,,{\r}{\kf28}Scream{\kf19} out{\kf23} a{\kf60}hoy!
+Dialogue: 0,0:02:54.22,0:02:55.65,DEFAULT,,0,0,0,,{\r}{\kf15}Lift{\kf26} up{\kf26} your{\kf31} spi{\kf46}rits
+Dialogue: 0,0:02:55.93,0:02:59.23,DEFAULT,,0,0,0,,{\r}{\kf31}Live{\kf52} on{\kf31} the{\kf26} ves{\kf21}sel{\kf16} of{\kf10} the{\kf10} lu{\kf21}nar{\kf37} pi{\kf74}rate
+Dialogue: 0,0:02:59.51,0:03:02.80,DEFAULT,,0,0,0,,{\r}{\kf68}Pi{\kf16}rate{\kf21} Lu{\kf47}na,{\kf21} come{\kf31} steal{\kf21} my{\kf26} heart{\kf31} made{\kf21} of{\kf26} gold
+Dialogue: 0,0:03:02.91,0:03:06.20,DEFAULT,,0,0,0,,{\r}{\kf20}Live{\kf25} in{\kf25} my{\kf71} dreams,{\kf25} we'll{\kf30} fight{\kf20} sca{\kf20}lly{\kf15}wags{\kf30} and{\kf20} the{\kf28} mold
+Dialogue: 0,0:03:06.27,0:03:07.50,DEFAULT,,0,0,0,,{\r}{\kf28}Scream{\kf19} out{\kf24} a{\kf52}hoy!
+Dialogue: 0,0:03:07.60,0:03:09.18,DEFAULT,,0,0,0,,{\r}{\kf28}Lift{\kf23} up{\kf28} your{\kf23} spi{\kf56}rits
+Dialogue: 0,0:03:09.36,0:03:12.69,DEFAULT,,0,0,0,,{\r}{\kf32}Live{\kf59} on{\kf21} the{\kf27} ves{\kf21}sel{\kf11} of{\kf11} the{\kf16} lu{\kf27}nar{\kf27} pi{\kf81}rate
+Dialogue: 0,0:03:13.00,0:03:19.42,DEFAULT,,0,0,0,,{\r}{\kf84}Re{\kf88}gi{\kf80}na{\kf71} noc{\kf80}tis{\kf92} pro{\kf75} no{\kf71}bis
+Dialogue: 0,0:03:19.63,0:03:26.21,DEFAULT,,0,0,0,,{\r}{\kf88}Re{\kf84}gi{\kf88}na{\kf71} noc{\kf88}tis{\kf92} pro{\kf80} no{\kf68}bis
+Dialogue: 0,0:03:26.49,0:03:32.73,DEFAULT,,0,0,0,,{\r}{\kf164}Lu{\kf171}næ{\kf156} lu{\kf133}men

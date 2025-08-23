@@ -1,17 +1,24 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: The Ticket Song
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Pluie
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.51,0:00:04.83,DEFAULT,,0,0,0,,{\kf22}Twi{\kf15}light{\kf15} is{\kf10} my{\kf13} best{\kf13}est{\kf8} friend
-Dialogue: 0,0:00:04.92,0:00:06.17,DEFAULT,,0,0,0,,{\kf18}Whoo{\kf30}pie,{\kf18} whoo{\kf18}pie!
-Dialogue: 0,0:00:06.34,0:00:09.33,DEFAULT,,0,0,0,,{\kf13}She's{\kf20} the{\kf15} cu{\kf13}test,{\kf18} smar{\kf10}test,{\kf10} all{\kf8} a{\kf18}round{\kf15} best{\kf15} po{\kf32}ny,{\kf18} po{\kf25}ny!
-Dialogue: 0,0:00:09.62,0:00:12.50,DEFAULT,,0,0,0,,{\kf13}I{\kf10} bet{\kf8} if{\kf13} I{\kf13} throw{\kf8} a{\kf13} su{\kf10}per{\kf8}-du{\kf8}per{\kf13} fun{\kf18} par{\kf27}ty,{\kf22} par{\kf27}ty!
-Dialogue: 0,0:00:12.76,0:00:15.25,DEFAULT,,0,0,0,,{\kf18}She'll{\kf10} give{\kf10} her{\kf13} ex{\kf13}tra{\kf10} tic{\kf8}ket{\kf8} to{\kf8} the{\kf10} Ga{\kf10}la{\kf10} to{\kf66} me!
-Dialogue: 0,0:00:15.39,0:00:17.85,DEFAULT,,0,0,0,,{\kf71}PIIIN{\kf173}KIIIE!!
+Dialogue: 0,0:00:03.52,0:00:04.83,DEFAULT,,0,0,0,,{\r}{\kf31}Twi{\kf21}light{\kf21} is{\kf14} my{\kf17} best{\kf17}est{\kf10} friend
+Dialogue: 0,0:00:04.93,0:00:06.17,DEFAULT,,0,0,0,,{\r}{\kf26}Whoo{\kf45}pie,{\kf26} whoo{\kf27}pie!
+Dialogue: 0,0:00:06.34,0:00:09.34,DEFAULT,,0,0,0,,{\r}{\kf16}She's{\kf26} the{\kf20} cu{\kf16}test,{\kf23} smar{\kf13}test,{\kf13} all{\kf10} a{\kf23}round{\kf20} best{\kf20} po{\kf43}ny,{\kf23} po{\kf34}ny!
+Dialogue: 0,0:00:09.63,0:00:12.50,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf14} bet{\kf10} if{\kf17} I{\kf17} throw{\kf10} a{\kf17} su{\kf14}per{\kf10}-du{\kf10}per{\kf17} fun{\kf24} par{\kf38}ty,{\kf31} par{\kf41}ty!
+Dialogue: 0,0:00:12.77,0:00:15.25,DEFAULT,,0,0,0,,{\r}{\kf23}She'll{\kf13} give{\kf13} her{\kf16} ex{\kf16}tra{\kf13} tic{\kf10}ket{\kf10} to{\kf10} the{\kf13} Ga{\kf13}la{\kf13} to{\kf85} me!
+Dialogue: 0,0:00:15.40,0:00:17.86,DEFAULT,,0,0,0,,{\r}{\kf71}PIIIN{\kf175}KIIIE!!

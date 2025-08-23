@@ -1,31 +1,38 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Spin That Record, Vinyl Scratch
+Artist: Icky
+Original Timing: mylittlekaraoke.com by Melendi, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.31,0:00:12.15,DEFAULT,,0,0,0,,{\kf8}Spin{\kf12} that{\kf8} re{\kf8}cord{\kf12} Vi{\kf8}nyl{\kf8} Scratch{\kf8} and{\kf8} ne{\kf8}ver{\kf12} stop{\kf12} the{\kf24} mu{\kf16}sic
-Dialogue: 0,0:00:23.92,0:00:24.61,DEFAULT,,0,0,0,,{\kf12}Spin{\kf8} that{\kf8} re{\kf12}cord
-Dialogue: 0,0:00:35.84,0:00:36.96,DEFAULT,,0,0,0,,{\kf8}Spin{\kf8} that{\kf8} re{\kf12}cord{\kf12} to{\kf20}night
-Dialogue: 0,0:00:47.77,0:00:48.81,DEFAULT,,0,0,0,,{\kf8}Spin{\kf8} that{\kf8} spin{\kf12} that{\kf8} re{\kf8}cord
-Dialogue: 0,0:00:49.31,0:00:51.96,DEFAULT,,0,0,0,,{\kf8}Spin{\kf8} that{\kf8} re{\kf8}cord{\kf12} spin{\kf8} that{\kf8} re{\kf12}cord{\kf12} to{\kf16}night
-Dialogue: 0,0:00:52.38,0:00:54.96,DEFAULT,,0,0,0,,{\kf8}Spin{\kf8} that{\kf8} re{\kf8}cord{\kf12} spin{\kf8} that{\kf8} spin{\kf8} that{\kf8} re{\kf8}cord
-Dialogue: 0,0:00:55.46,0:00:58.11,DEFAULT,,0,0,0,,{\kf8}Spin{\kf8} that{\kf12} re{\kf8}cord{\kf8} spin{\kf8} that{\kf8} re{\kf8}cord{\kf16} to{\kf12}night
-Dialogue: 0,0:00:58.54,0:01:01.38,DEFAULT,,0,0,0,,{\kf8}Spin{\kf8} that{\kf12} re{\kf8}cord{\kf8} Vi{\kf8}nyl{\kf8} Scratch{\kf8} and{\kf16} ne{\kf12}ver{\kf8} stop{\kf8} the{\kf24} mu{\kf16}sic
-Dialogue: 0,0:01:17.00,0:01:19.19,DEFAULT,,0,0,0,,{\kf8}Vi{\kf8}nyl{\kf8} Scratch{\kf8} knows{\kf12} how{\kf8} to{\kf8} get{\kf12} the{\kf8} feel{\kf8}ing{\kf8} al{\kf8}right
-Dialogue: 0,0:01:20.07,0:01:22.27,DEFAULT,,0,0,0,,{\kf8}We{\kf12} are{\kf8} gon{\kf8}na{\kf20} dance{\kf20} and{\kf8} par{\kf8}ty{\kf8} to{\kf8}night
-Dialogue: 0,0:01:22.96,0:01:25.84,DEFAULT,,0,0,0,,{\kf8}To{\kf8}night{\kf8} is{\kf8} the{\kf8} night{\kf20} that{\kf12} we're{\kf8} gon{\kf8}na{\kf31} lose{\kf24} it
-Dialogue: 0,0:01:26.04,0:01:29.11,DEFAULT,,0,0,0,,{\kf8}So{\kf8} spin{\kf8} that{\kf8} re{\kf8}cord{\kf8} Vi{\kf12}nyl{\kf8} Scratch{\kf8} and{\kf12} ne{\kf8}ver{\kf8} stop{\kf8} the{\kf27} mu{\kf20}sic
-Dialogue: 0,0:01:29.31,0:01:31.50,DEFAULT,,0,0,0,,{\kf8}Vi{\kf8}nyl{\kf12} Scratch{\kf8} knows{\kf8} how{\kf12} to{\kf8} get{\kf8} the{\kf8} feel{\kf8}ing{\kf8} al{\kf8}right
-Dialogue: 0,0:01:32.38,0:01:34.57,DEFAULT,,0,0,0,,{\kf8}We{\kf8} are{\kf12} gon{\kf8}na{\kf20} dance{\kf20} and{\kf8} par{\kf8}ty{\kf8} to{\kf8}night
-Dialogue: 0,0:01:35.27,0:01:38.15,DEFAULT,,0,0,0,,{\kf12}To{\kf8}night{\kf8} is{\kf8} the{\kf8} night{\kf20} that{\kf8} we're{\kf12} gon{\kf8}na{\kf31} lose{\kf20} it
-Dialogue: 0,0:01:38.34,0:01:41.42,DEFAULT,,0,0,0,,{\kf8}So{\kf8} spin{\kf8} that{\kf8} re{\kf8}cord{\kf8} Vi{\kf8}nyl{\kf12} Scratch{\kf8} and{\kf8} ne{\kf12}ver{\kf8} stop{\kf8} the{\kf31} mu{\kf20}sic
-Dialogue: 0,0:02:06.23,0:02:08.42,DEFAULT,,0,0,0,,{\kf8}Vi{\kf8}nyl{\kf12} Scratch{\kf8} knows{\kf8} how{\kf8} to{\kf8} get{\kf8} the{\kf8} feel{\kf8}ing{\kf8} al{\kf8}right
-Dialogue: 0,0:02:09.31,0:02:11.50,DEFAULT,,0,0,0,,{\kf8}We{\kf8} are{\kf8} gon{\kf8}na{\kf20} dance{\kf20} and{\kf8} par{\kf12}ty{\kf8} to{\kf8}night
-Dialogue: 0,0:02:12.19,0:02:15.07,DEFAULT,,0,0,0,,{\kf8}To{\kf8}night{\kf8} is{\kf8} the{\kf8} night{\kf20} that{\kf8} we're{\kf12} gon{\kf8}na{\kf27} lose{\kf20} it
-Dialogue: 0,0:02:15.27,0:02:18.34,DEFAULT,,0,0,0,,{\kf8}So{\kf8} spin{\kf8} that{\kf8} re{\kf12}cord{\kf8} Vi{\kf8}nyl{\kf12} Scratch{\kf8} and{\kf8} ne{\kf8}ver{\kf8} stop{\kf8} the{\kf31} mu{\kf20}sic
+Dialogue: 0,0:00:09.31,0:00:12.16,DEFAULT,,0,0,0,,{\r}{\kf15}Spin{\kf22} that{\kf15} re{\kf15}cord{\kf22} Vi{\kf15}nyl{\kf15} Scratch{\kf15} and{\kf15} ne{\kf15}ver{\kf22} stop{\kf22} the{\kf45} mu{\kf32}sic
+Dialogue: 0,0:00:23.93,0:00:24.62,DEFAULT,,0,0,0,,{\r}{\kf21}Spin{\kf14} that{\kf14} re{\kf20}cord
+Dialogue: 0,0:00:35.85,0:00:36.96,DEFAULT,,0,0,0,,{\r}{\kf13}Spin{\kf13} that{\kf13} re{\kf20}cord{\kf20} to{\kf33}night
+Dialogue: 0,0:00:47.77,0:00:48.81,DEFAULT,,0,0,0,,{\r}{\kf16}Spin{\kf16} that{\kf16} spin{\kf24} that{\kf16} re{\kf16}cord
+Dialogue: 0,0:00:49.31,0:00:51.96,DEFAULT,,0,0,0,,{\r}{\kf21}Spin{\kf21} that{\kf21} re{\kf21}cord{\kf32} spin{\kf21} that{\kf21} re{\kf32}cord{\kf32} to{\kf43}night
+Dialogue: 0,0:00:52.39,0:00:54.96,DEFAULT,,0,0,0,,{\r}{\kf25}Spin{\kf25} that{\kf25} re{\kf25}cord{\kf37} spin{\kf25} that{\kf25} spin{\kf25} that{\kf25} re{\kf21}cord
+Dialogue: 0,0:00:55.46,0:00:58.12,DEFAULT,,0,0,0,,{\r}{\kf22}Spin{\kf22} that{\kf33} re{\kf22}cord{\kf22} spin{\kf22} that{\kf22} re{\kf22}cord{\kf44} to{\kf34}night
+Dialogue: 0,0:00:58.54,0:01:01.39,DEFAULT,,0,0,0,,{\r}{\kf15}Spin{\kf15} that{\kf22} re{\kf15}cord{\kf15} Vi{\kf15}nyl{\kf15} Scratch{\kf15} and{\kf30} ne{\kf22}ver{\kf15} stop{\kf15} the{\kf45} mu{\kf31}sic
+Dialogue: 0,0:01:17.00,0:01:19.19,DEFAULT,,0,0,0,,{\r}{\kf17}Vi{\kf17}nyl{\kf17} Scratch{\kf17} knows{\kf25} how{\kf17} to{\kf17} get{\kf25} the{\kf17} feel{\kf17}ing{\kf17} al{\kf16}right
+Dialogue: 0,0:01:20.08,0:01:22.27,DEFAULT,,0,0,0,,{\r}{\kf16}We{\kf24} are{\kf16} gon{\kf16}na{\kf41} dance{\kf41} and{\kf16} par{\kf16}ty{\kf16} to{\kf17}night
+Dialogue: 0,0:01:22.96,0:01:25.85,DEFAULT,,0,0,0,,{\r}{\kf16}To{\kf16}night{\kf16} is{\kf16} the{\kf16} night{\kf40} that{\kf24} we're{\kf16} gon{\kf16}na{\kf64} lose{\kf48} it
+Dialogue: 0,0:01:26.04,0:01:29.12,DEFAULT,,0,0,0,,{\r}{\kf15}So{\kf15} spin{\kf15} that{\kf15} re{\kf15}cord{\kf15} Vi{\kf23}nyl{\kf15} Scratch{\kf15} and{\kf23} ne{\kf15}ver{\kf15} stop{\kf15} the{\kf54} mu{\kf43}sic
+Dialogue: 0,0:01:29.31,0:01:31.50,DEFAULT,,0,0,0,,{\r}{\kf17}Vi{\kf17}nyl{\kf25} Scratch{\kf17} knows{\kf17} how{\kf25} to{\kf17} get{\kf17} the{\kf17} feel{\kf17}ing{\kf17} al{\kf16}right
+Dialogue: 0,0:01:32.39,0:01:34.58,DEFAULT,,0,0,0,,{\r}{\kf16}We{\kf16} are{\kf24} gon{\kf16}na{\kf41} dance{\kf41} and{\kf16} par{\kf16}ty{\kf16} to{\kf17}night
+Dialogue: 0,0:01:35.27,0:01:38.16,DEFAULT,,0,0,0,,{\r}{\kf24}To{\kf16}night{\kf16} is{\kf16} the{\kf16} night{\kf40} that{\kf16} we're{\kf24} gon{\kf16}na{\kf64} lose{\kf40} it
+Dialogue: 0,0:01:38.35,0:01:41.43,DEFAULT,,0,0,0,,{\r}{\kf15}So{\kf15} spin{\kf15} that{\kf15} re{\kf15}cord{\kf15} Vi{\kf15}nyl{\kf23} Scratch{\kf15} and{\kf15} ne{\kf23}ver{\kf15} stop{\kf15} the{\kf60} mu{\kf37}sic
+Dialogue: 0,0:02:06.23,0:02:08.43,DEFAULT,,0,0,0,,{\r}{\kf18}Vi{\kf18}nyl{\kf26} Scratch{\kf18} knows{\kf18} how{\kf18} to{\kf18} get{\kf18} the{\kf18} feel{\kf18}ing{\kf18} al{\kf13}right
+Dialogue: 0,0:02:09.31,0:02:11.50,DEFAULT,,0,0,0,,{\r}{\kf16}We{\kf16} are{\kf16} gon{\kf16}na{\kf41} dance{\kf41} and{\kf16} par{\kf24}ty{\kf16} to{\kf17}night
+Dialogue: 0,0:02:12.19,0:02:15.08,DEFAULT,,0,0,0,,{\r}{\kf17}To{\kf17}night{\kf17} is{\kf17} the{\kf17} night{\kf42} that{\kf17} we're{\kf25} gon{\kf17}na{\kf59} lose{\kf43} it
+Dialogue: 0,0:02:15.27,0:02:18.35,DEFAULT,,0,0,0,,{\r}{\kf15}So{\kf15} spin{\kf15} that{\kf15} re{\kf23}cord{\kf15} Vi{\kf15}nyl{\kf23} Scratch{\kf15} and{\kf15} ne{\kf15}ver{\kf15} stop{\kf15} the{\kf60} mu{\kf37}sic

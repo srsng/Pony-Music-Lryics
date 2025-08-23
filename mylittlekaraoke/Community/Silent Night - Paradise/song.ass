@@ -1,51 +1,58 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Paradise (Edit)
+Artist: Silent Night
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:37.01,0:00:40.42,DEFAULT,,0,0,0,,{\kf27}Once{\kf27} long{\kf19} a{\kf30}go{\kf23} I{\kf27} was{\kf27} born{\kf23} to{\kf27} the{\kf49} earth
-Dialogue: 0,0:00:40.57,0:00:43.76,DEFAULT,,0,0,0,,{\kf23}I{\kf57} saw{\kf19} the{\kf27} fear{\kf23} in{\kf27} their{\kf98} eyes
-Dialogue: 0,0:00:44.09,0:00:45.93,DEFAULT,,0,0,0,,{\kf27}They{\kf23} were{\kf19} told{\kf15} that{\kf34} one{\kf34} day
-Dialogue: 0,0:00:46.04,0:00:47.96,DEFAULT,,0,0,0,,{\kf15}I'd{\kf23} bring{\kf23} change{\kf23} to{\kf27} this{\kf45} world
-Dialogue: 0,0:00:48.18,0:00:51.22,DEFAULT,,0,0,0,,{\kf23}My{\kf45} face{\kf27} they{\kf27} hid{\kf23} from{\kf23} the{\kf83} skies
-Dialogue: 0,0:00:51.71,0:00:55.57,DEFAULT,,0,0,0,,{\kf23}Let{\kf23} me{\kf27} tell{\kf15} you{\kf27} the{\kf34} tale{\kf23} of{\kf23} a{\kf23} time{\kf23} long{\kf30} un{\kf45}told
-Dialogue: 0,0:00:55.72,0:00:57.48,DEFAULT,,0,0,0,,{\kf15}When{\kf19} the{\kf19} wolves{\kf15} would{\kf30} run{\kf38} wild
-Dialogue: 0,0:00:57.56,0:00:59.58,DEFAULT,,0,0,0,,{\kf15}And{\kf23} the{\kf42} land{\kf42} grew{\kf53} old
-Dialogue: 0,0:00:59.99,0:01:03.37,DEFAULT,,0,0,0,,{\kf27}Hard{\kf15} were{\kf34} our{\kf23} hearts{\kf23} as{\kf27} we{\kf30} wan{\kf23}dered{\kf27} the{\kf57} plains
-Dialogue: 0,0:01:03.52,0:01:06.37,DEFAULT,,0,0,0,,{\kf23}With{\kf23} no{\kf15}thing{\kf42} and{\kf27} no{\kf23} one{\kf27} to{\kf68} blame
-Dialogue: 0,0:01:06.71,0:01:08.99,DEFAULT,,0,0,0,,{\kf27}So{\kf23} long{\kf38} a{\kf135}go
-Dialogue: 0,0:01:22.98,0:01:26.06,DEFAULT,,0,0,0,,{\kf23}Once{\kf23} long{\kf19} a{\kf34}go{\kf23} when{\kf23} the{\kf27} ma{\kf27}gic{\kf23} was{\kf30} lost
-Dialogue: 0,0:01:26.17,0:01:29.54,DEFAULT,,0,0,0,,{\kf27}To{\kf23} the{\kf23} ones{\kf23} who{\kf23} would{\kf23} use{\kf23} it{\kf23} for{\kf87} few
-Dialogue: 0,0:01:29.96,0:01:33.89,DEFAULT,,0,0,0,,{\kf27}E{\kf27}very{\kf27} spell{\kf23} was{\kf15} a{\kf38} game{\kf27} a{\kf23}gainst{\kf34} har{\kf19}mo{\kf34}ny's{\kf49} ways
-Dialogue: 0,0:01:34.12,0:01:37.23,DEFAULT,,0,0,0,,{\kf23}We{\kf23} took{\kf15} it{\kf27} and{\kf27} gave{\kf23} it{\kf27} to{\kf90} you
-Dialogue: 0,0:01:38.24,0:01:41.62,DEFAULT,,0,0,0,,{\kf34}Ga{\kf15}ther{\kf34}ing{\kf23} strength{\kf23} from{\kf23} the{\kf23} friends{\kf27} that{\kf27} we'd{\kf49} meet
-Dialogue: 0,0:01:41.81,0:01:45.33,DEFAULT,,0,0,0,,{\kf23}We{\kf30} tra{\kf15}veled{\kf27} the{\kf38} na{\kf23}tions{\kf19} from{\kf38} sea{\kf38} to{\kf42} sea
-Dialogue: 0,0:01:45.63,0:01:49.27,DEFAULT,,0,0,0,,{\kf23}The{\kf34} moun{\kf23}tains{\kf23} and{\kf23} fo{\kf23}rests{\kf23} and{\kf34} wan{\kf30}der{\kf23}ing{\kf49} plains
-Dialogue: 0,0:01:49.49,0:01:52.91,DEFAULT,,0,0,0,,{\kf23}And{\kf38} this{\kf15} is{\kf19} the{\kf27} land{\kf27} that{\kf27} we{\kf124} tamed
-Dialogue: 0,0:01:53.54,0:01:56.81,DEFAULT,,0,0,0,,{\kf105}Free{\kf94}~{\kf128}~
-Dialogue: 0,0:01:57.33,0:02:00.89,DEFAULT,,0,0,0,,{\kf30}Live{\kf23} by{\kf23} the{\kf57} night{\kf23} but{\kf23} stay{\kf27} by{\kf27} my{\kf64} side
-Dialogue: 0,0:02:01.27,0:02:04.46,DEFAULT,,0,0,0,,{\kf98}Free{\kf98}~{\kf124}~
-Dialogue: 0,0:02:04.98,0:02:07.98,DEFAULT,,0,0,0,,{\kf27}Live{\kf27} by{\kf27} my{\kf27} side{\kf27} once{\kf30} a{\kf102}gain
-Dialogue: 0,0:02:08.92,0:02:12.26,DEFAULT,,0,0,0,,{\kf27}Long{\kf15} were{\kf34} the{\kf30} days{\kf27} oh{\kf27} so{\kf30} long{\kf30} was{\kf30} my{\kf45} reign
-Dialogue: 0,0:02:12.41,0:02:16.16,DEFAULT,,0,0,0,,{\kf30}'Cause{\kf30} no{\kf15}thing{\kf27} and{\kf27} no{\kf27} one{\kf27} could{\kf34} take{\kf34} your{\kf60} place
-Dialogue: 0,0:02:16.53,0:02:19.91,DEFAULT,,0,0,0,,{\kf27}Dear{\kf30} sis{\kf23}ter{\kf27} moon{\kf27} it's{\kf27} for{\kf23} you{\kf15} that{\kf30} I{\kf53} wait
-Dialogue: 0,0:02:20.02,0:02:25.19,DEFAULT,,0,0,0,,{\kf27}Right{\kf34} here{\kf15} in{\kf23} the{\kf27} land{\kf27} that{\kf27} we{\kf285} tamed
-Dialogue: 0,0:02:26.09,0:02:29.43,DEFAULT,,0,0,0,,{\kf105}Free{\kf94}~{\kf135}~
-Dialogue: 0,0:02:29.88,0:02:33.44,DEFAULT,,0,0,0,,{\kf27}Live{\kf27} by{\kf27} the{\kf53} night{\kf27} but{\kf27} stay{\kf23} by{\kf23} my{\kf64} side
-Dialogue: 0,0:02:33.78,0:02:36.89,DEFAULT,,0,0,0,,{\kf105}Free{\kf90}~{\kf117}~
-Dialogue: 0,0:02:37.57,0:02:40.53,DEFAULT,,0,0,0,,{\kf27}Live{\kf27} by{\kf27} my{\kf27} side{\kf27} once{\kf30} a{\kf102}gain
-Dialogue: 0,0:02:41.43,0:02:44.96,DEFAULT,,0,0,0,,{\kf30}Live{\kf27} by{\kf27} the{\kf34} night{\kf19}~{\kf27} but{\kf30} stay{\kf27} by{\kf27} my{\kf38} side{\kf30}~
-Dialogue: 0,0:02:45.33,0:02:48.86,DEFAULT,,0,0,0,,{\kf30}Live{\kf27} by{\kf27} the{\kf34} night{\kf19}~{\kf27} but{\kf30} stay{\kf27} by{\kf27} my{\kf38} side{\kf30}~
-Dialogue: 0,0:02:49.12,0:02:52.64,DEFAULT,,0,0,0,,{\kf30}Live{\kf27} by{\kf27} the{\kf34} night{\kf19}~{\kf27} but{\kf30} stay{\kf27} by{\kf27} my{\kf38} side{\kf30}~
-Dialogue: 0,0:02:52.91,0:02:56.43,DEFAULT,,0,0,0,,{\kf30}Live{\kf27} by{\kf27} the{\kf34} night{\kf19}~{\kf27} but{\kf30} stay{\kf27} by{\kf27} my{\kf38} side{\kf30}~
-Dialogue: 0,0:02:56.73,0:03:00.26,DEFAULT,,0,0,0,,{\kf30}Live{\kf27} by{\kf27} the{\kf34} night{\kf19}~{\kf27} but{\kf30} stay{\kf27} by{\kf27} my{\kf38} side{\kf30}~
-Dialogue: 0,0:03:00.56,0:03:04.08,DEFAULT,,0,0,0,,{\kf30}Live{\kf27} by{\kf27} the{\kf34} night{\kf19}~{\kf27} but{\kf30} stay{\kf27} by{\kf27} my{\kf38} side{\kf30}~
-Dialogue: 0,0:03:04.42,0:03:07.94,DEFAULT,,0,0,0,,{\kf30}Live{\kf27} by{\kf27} the{\kf34} night{\kf19}~{\kf27} but{\kf30} stay{\kf27} by{\kf27} my{\kf38} side{\kf30}~
-Dialogue: 0,0:03:08.28,0:03:11.24,DEFAULT,,0,0,0,,{\kf30}Live{\kf27} by{\kf27} the{\kf34} night{\kf19}~{\kf27} but{\kf30} stay{\kf27} by{\kf27} my{\kf12} side
-Dialogue: 0,0:03:11.39,0:03:12.63,DEFAULT,,0,0,0,,{\kf38}Pa{\kf34}ra{\kf53}dise
+Dialogue: 0,0:00:37.01,0:00:40.42,DEFAULT,,0,0,0,,{\r}{\kf33}Once{\kf33} long{\kf23} a{\kf37}go{\kf28} I{\kf33} was{\kf33} born{\kf28} to{\kf33} the{\kf60} earth
+Dialogue: 0,0:00:40.57,0:00:43.76,DEFAULT,,0,0,0,,{\r}{\kf27}I{\kf66} saw{\kf22} the{\kf31} fear{\kf27} in{\kf31} their{\kf115} eyes
+Dialogue: 0,0:00:44.10,0:00:45.94,DEFAULT,,0,0,0,,{\r}{\kf32}They{\kf28} were{\kf23} told{\kf18} that{\kf41} one{\kf42} day
+Dialogue: 0,0:00:46.05,0:00:47.96,DEFAULT,,0,0,0,,{\r}{\kf19}I'd{\kf28} bring{\kf28} change{\kf28} to{\kf33} this{\kf55} world
+Dialogue: 0,0:00:48.19,0:00:51.22,DEFAULT,,0,0,0,,{\r}{\kf28}My{\kf55} face{\kf32} they{\kf32} hid{\kf28} from{\kf28} the{\kf101} skies
+Dialogue: 0,0:00:51.71,0:00:55.57,DEFAULT,,0,0,0,,{\r}{\kf28}Let{\kf28} me{\kf33} tell{\kf19} you{\kf33} the{\kf42} tale{\kf28} of{\kf28} a{\kf28} time{\kf28} long{\kf37} un{\kf54}told
+Dialogue: 0,0:00:55.72,0:00:57.49,DEFAULT,,0,0,0,,{\r}{\kf20}When{\kf24} the{\kf24} wolves{\kf20} would{\kf39} run{\kf49} wild
+Dialogue: 0,0:00:57.56,0:00:59.59,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf26} the{\kf48} land{\kf48} grew{\kf62} old
+Dialogue: 0,0:00:60.00,0:01:03.37,DEFAULT,,0,0,0,,{\r}{\kf32}Hard{\kf18} were{\kf41} our{\kf27} hearts{\kf27} as{\kf32} we{\kf36} wan{\kf27}dered{\kf32} the{\kf66} plains
+Dialogue: 0,0:01:03.52,0:01:06.37,DEFAULT,,0,0,0,,{\r}{\kf26}With{\kf26} no{\kf18}thing{\kf48} and{\kf31} no{\kf26} one{\kf31} to{\kf79} blame
+Dialogue: 0,0:01:06.71,0:01:09.00,DEFAULT,,0,0,0,,{\r}{\kf27}So{\kf23} long{\kf39} a{\kf140}go
+Dialogue: 0,0:01:22.99,0:01:26.06,DEFAULT,,0,0,0,,{\r}{\kf28}Once{\kf28} long{\kf23} a{\kf42}go{\kf28} when{\kf28} the{\kf33} ma{\kf33}gic{\kf28} was{\kf37} lost
+Dialogue: 0,0:01:26.17,0:01:29.55,DEFAULT,,0,0,0,,{\r}{\kf33}To{\kf28} the{\kf28} ones{\kf28} who{\kf28} would{\kf28} use{\kf28} it{\kf28} for{\kf109} few
+Dialogue: 0,0:01:29.96,0:01:33.90,DEFAULT,,0,0,0,,{\r}{\kf31}E{\kf31}very{\kf31} spell{\kf26} was{\kf18} a{\kf44} game{\kf31} a{\kf26}gainst{\kf39} har{\kf22}mo{\kf39}ny's{\kf56} ways
+Dialogue: 0,0:01:34.12,0:01:37.24,DEFAULT,,0,0,0,,{\r}{\kf28}We{\kf28} took{\kf19} it{\kf32} and{\kf32} gave{\kf28} it{\kf32} to{\kf112} you
+Dialogue: 0,0:01:38.25,0:01:41.62,DEFAULT,,0,0,0,,{\r}{\kf42}Ga{\kf19}ther{\kf42}ing{\kf28} strength{\kf28} from{\kf28} the{\kf28} friends{\kf32} that{\kf32} we'd{\kf59} meet
+Dialogue: 0,0:01:41.81,0:01:45.34,DEFAULT,,0,0,0,,{\r}{\kf27}We{\kf37} tra{\kf18}veled{\kf32} the{\kf46} na{\kf27}tions{\kf23} from{\kf46} sea{\kf46} to{\kf50} sea
+Dialogue: 0,0:01:45.64,0:01:49.27,DEFAULT,,0,0,0,,{\r}{\kf27}The{\kf40} moun{\kf27}tains{\kf27} and{\kf27} fo{\kf27}rests{\kf27} and{\kf40} wan{\kf36}der{\kf27}ing{\kf59} plains
+Dialogue: 0,0:01:49.50,0:01:52.91,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf43} this{\kf17} is{\kf22} the{\kf30} land{\kf30} that{\kf30} we{\kf143} tamed
+Dialogue: 0,0:01:53.55,0:01:56.81,DEFAULT,,0,0,0,,{\r}{\kf105}Free{\kf94}~{\kf127}~
+Dialogue: 0,0:01:57.34,0:02:00.90,DEFAULT,,0,0,0,,{\r}{\kf37}Live{\kf27} by{\kf27} the{\kf68} night{\kf27} but{\kf27} stay{\kf32} by{\kf32} my{\kf79} side
+Dialogue: 0,0:02:01.27,0:02:04.46,DEFAULT,,0,0,0,,{\r}{\kf98}Free{\kf98}~{\kf123}~
+Dialogue: 0,0:02:04.99,0:02:07.99,DEFAULT,,0,0,0,,{\r}{\kf30}Live{\kf30} by{\kf30} my{\kf30} side{\kf30} once{\kf34} a{\kf116}gain
+Dialogue: 0,0:02:08.92,0:02:12.26,DEFAULT,,0,0,0,,{\r}{\kf30}Long{\kf17} were{\kf39} the{\kf34} days{\kf30} oh{\kf30} so{\kf34} long{\kf34} was{\kf34} my{\kf52} reign
+Dialogue: 0,0:02:12.41,0:02:16.16,DEFAULT,,0,0,0,,{\r}{\kf37}'Cause{\kf37} no{\kf18}thing{\kf32} and{\kf32} no{\kf32} one{\kf32} could{\kf41} take{\kf41} your{\kf73} place
+Dialogue: 0,0:02:16.54,0:02:19.91,DEFAULT,,0,0,0,,{\r}{\kf32}Dear{\kf37} sis{\kf27}ter{\kf32} moon{\kf32} it's{\kf32} for{\kf27} you{\kf18} that{\kf37} I{\kf64} wait
+Dialogue: 0,0:02:20.02,0:02:25.20,DEFAULT,,0,0,0,,{\r}{\kf29}Right{\kf38} here{\kf17} in{\kf25} the{\kf29} land{\kf29} that{\kf29} we{\kf322} tamed
+Dialogue: 0,0:02:26.10,0:02:29.44,DEFAULT,,0,0,0,,{\r}{\kf105}Free{\kf94}~{\kf135}~
+Dialogue: 0,0:02:29.89,0:02:33.45,DEFAULT,,0,0,0,,{\r}{\kf32}Live{\kf32} by{\kf32} the{\kf64} night{\kf32} but{\kf32} stay{\kf27} by{\kf27} my{\kf78} side
+Dialogue: 0,0:02:33.79,0:02:36.90,DEFAULT,,0,0,0,,{\r}{\kf105}Free{\kf90}~{\kf116}~
+Dialogue: 0,0:02:37.57,0:02:40.54,DEFAULT,,0,0,0,,{\r}{\kf30}Live{\kf30} by{\kf30} my{\kf30} side{\kf30} once{\kf34} a{\kf112}gain
+Dialogue: 0,0:02:41.44,0:02:44.96,DEFAULT,,0,0,0,,{\r}{\kf34}Live{\kf30} by{\kf30} the{\kf38} night{\kf21}~{\kf30} but{\kf34} stay{\kf30} by{\kf30} my{\kf43} side{\kf33}~
+Dialogue: 0,0:02:45.34,0:02:48.86,DEFAULT,,0,0,0,,{\r}{\kf34}Live{\kf30} by{\kf30} the{\kf38} night{\kf21}~{\kf30} but{\kf34} stay{\kf30} by{\kf30} my{\kf43} side{\kf33}~
+Dialogue: 0,0:02:49.12,0:02:52.65,DEFAULT,,0,0,0,,{\r}{\kf34}Live{\kf30} by{\kf30} the{\kf38} night{\kf21}~{\kf30} but{\kf34} stay{\kf30} by{\kf30} my{\kf43} side{\kf33}~
+Dialogue: 0,0:02:52.91,0:02:56.44,DEFAULT,,0,0,0,,{\r}{\kf34}Live{\kf30} by{\kf30} the{\kf38} night{\kf21}~{\kf30} but{\kf34} stay{\kf30} by{\kf30} my{\kf43} side{\kf33}~
+Dialogue: 0,0:02:56.74,0:03:00.26,DEFAULT,,0,0,0,,{\r}{\kf34}Live{\kf30} by{\kf30} the{\kf38} night{\kf21}~{\kf30} but{\kf34} stay{\kf30} by{\kf30} my{\kf43} side{\kf33}~
+Dialogue: 0,0:03:00.56,0:03:04.09,DEFAULT,,0,0,0,,{\r}{\kf34}Live{\kf30} by{\kf30} the{\kf38} night{\kf21}~{\kf30} but{\kf34} stay{\kf30} by{\kf30} my{\kf43} side{\kf33}~
+Dialogue: 0,0:03:04.42,0:03:07.95,DEFAULT,,0,0,0,,{\r}{\kf34}Live{\kf30} by{\kf30} the{\kf38} night{\kf21}~{\kf30} but{\kf34} stay{\kf30} by{\kf30} my{\kf43} side{\kf33}~
+Dialogue: 0,0:03:08.29,0:03:11.25,DEFAULT,,0,0,0,,{\r}{\kf35}Live{\kf30} by{\kf30} the{\kf39} night{\kf22}~{\kf30} but{\kf35} stay{\kf30} by{\kf30} my{\kf15} side
+Dialogue: 0,0:03:11.40,0:03:12.64,DEFAULT,,0,0,0,,{\r}{\kf38}Pa{\kf34}ra{\kf52}dise

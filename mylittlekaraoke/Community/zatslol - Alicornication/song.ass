@@ -1,69 +1,76 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Alicornication
+Artist: Zatslol
+Original Timing: mylittlekaraoke.com by Renard/Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:19.84,0:00:21.71,DEFAULT,,0,0,0,,{\kf16}An{\kf24} e{\kf24}vil{\kf24} night{\kf16}ma{\kf16}re{\kf24} po{\kf16}ny
-Dialogue: 0,0:00:21.87,0:00:24.49,DEFAULT,,0,0,0,,{\kf32}Tries{\kf16} to{\kf36} steal{\kf16} her{\kf32} mind{\kf24} and{\kf20} wa{\kf47}ken
-Dialogue: 0,0:00:25.00,0:00:27.22,DEFAULT,,0,0,0,,{\kf16}Lit{\kf16}tle{\kf47} Lu{\kf12}n{\kf12}a{\kf32} sleeps{\kf24} and{\kf32} dreams
-Dialogue: 0,0:00:27.34,0:00:29.33,DEFAULT,,0,0,0,,{\kf16}Of{\kf24} her{\kf16} new{\kf28} in{\kf28}can{\kf12}t{\kf12}a{\kf32}tion
-Dialogue: 0,0:00:29.84,0:00:32.22,DEFAULT,,0,0,0,,{\kf16}And{\kf20} if{\kf24} you{\kf32} want{\kf16} the{\kf16}se{\kf32} kind{\kf16} of{\kf36} dreams
-Dialogue: 0,0:00:32.30,0:00:34.84,DEFAULT,,0,0,0,,{\kf16}It's{\kf28} A{\kf16}li{\kf32}cor{\kf16}ni{\kf47}ca{\kf63}tion
-Dialogue: 0,0:00:44.45,0:00:46.64,DEFAULT,,0,0,0,,{\kf16}It's{\kf32} the{\kf28} end{\kf28} of{\kf12} Equ{\kf24}es{\kf16}tri{\kf8}a
-Dialogue: 0,0:00:46.71,0:00:49.37,DEFAULT,,0,0,0,,{\kf16}And{\kf24} all{\kf16} of{\kf32} po{\kf20}ny{\kf24} civi{\kf24}li{\kf24}za{\kf43}tion
-Dialogue: 0,0:00:49.84,0:00:51.40,DEFAULT,,0,0,0,,{\kf16}The{\kf20} prin{\kf32}cess{\kf20} lifts{\kf12} the{\kf32} sun
-Dialogue: 0,0:00:51.64,0:00:54.37,DEFAULT,,0,0,0,,{\kf12}But{\kf24} some{\kf12} be{\kf12}lieve{\kf12} the{\kf28} night{\kf20} lacks{\kf28} appre{\kf28}ci{\kf16}a{\kf40}tion
-Dialogue: 0,0:00:54.68,0:00:56.91,DEFAULT,,0,0,0,,{\kf16}And{\kf12} be{\kf16}lieve{\kf16} it{\kf16} or{\kf24} not{\kf28} but{\kf40} Can{\kf12}ter{\kf20}lot
-Dialogue: 0,0:00:57.18,0:00:59.96,DEFAULT,,0,0,0,,{\kf32}Sells{\kf24} A{\kf24}li{\kf36}cor{\kf16}ni{\kf47}ca{\kf67}tion
-Dialogue: 0,0:01:10.00,0:01:12.14,DEFAULT,,0,0,0,,{\kf24}The{\kf28} moon{\kf24} is{\kf20} where{\kf28} she{\kf16} was{\kf43} sent
-Dialogue: 0,0:01:12.26,0:01:14.64,DEFAULT,,0,0,0,,{\kf12}For{\kf12} a{\kf24} thou{\kf16}sand{\kf40} years{\kf16} of{\kf43} a{\kf40}ging
-Dialogue: 0,0:01:15.00,0:01:17.10,DEFAULT,,0,0,0,,{\kf16}So{\kf24} she{\kf16} could{\kf16}n't{\kf16} spread{\kf12} e{\kf28}ter{\kf20}nal{\kf24} night
-Dialogue: 0,0:01:17.53,0:01:19.92,DEFAULT,,0,0,0,,{\kf28}All{\kf16} a{\kf36}cross{\kf24} the{\kf47} na{\kf67}tion
-Dialogue: 0,0:01:21.17,0:01:23.75,DEFAULT,,0,0,0,,{\kf32}First{\kf32} born{\kf20} A{\kf12}li{\kf55}co{\kf86}rn
-Dialogue: 0,0:01:25.54,0:01:28.75,DEFAULT,,0,0,0,,{\kf20}Her{\kf51} sis{\kf55}ter's{\kf67} sco{\kf86}rn
-Dialogue: 0,0:01:30.00,0:01:33.51,DEFAULT,,0,0,0,,{\kf36}Dream{\kf20} of{\kf24} A{\kf12}l{\kf12}i{\kf67}cor{\kf24}ni{\kf24}c{\kf28}at{\kf79}ion
-Dialogue: 0,0:01:35.00,0:01:39.68,DEFAULT,,0,0,0,,{\kf28}Dream{\kf28} of{\kf24} A{\kf16}l{\kf16}i{\kf55}cor{\kf32}ni{\kf24}c{\kf24}a{\kf71}ti{\kf118}on
-Dialogue: 0,0:01:49.96,0:01:52.34,DEFAULT,,0,0,0,,{\kf24}Lu{\kf16}na{\kf24} looked{\kf20} up{\kf24} to{\kf20} her{\kf28} sis{\kf24}ter
-Dialogue: 0,0:01:52.57,0:01:54.29,DEFAULT,,0,0,0,,{\kf24}With{\kf24} great{\kf24} ad{\kf16}mi{\kf32}ra{\kf32}tion
-Dialogue: 0,0:01:54.80,0:01:57.07,DEFAULT,,0,0,0,,{\kf16}But{\kf20} ev{\kf28}ery{\kf24}one{\kf32} slept{\kf20} through{\kf16} her{\kf28} night
-Dialogue: 0,0:01:57.18,0:01:59.37,DEFAULT,,0,0,0,,{\kf24}Which{\kf32} caused{\kf16} her{\kf28} great{\kf24} frus{\kf32}tra{\kf36}tion
-Dialogue: 0,0:01:59.76,0:02:02.03,DEFAULT,,0,0,0,,{\kf24}And{\kf16} li{\kf16}ving{\kf24} with{\kf24}out{\kf12} a{\kf12}~{\kf28} mo{\kf16}ther's{\kf28} hard
-Dialogue: 0,0:02:02.03,0:02:04.92,DEFAULT,,0,0,0,,{\kf12}But {\kf24}that's{\kf28} A{\kf24}li{\kf32}cor{\kf16}ni{\kf55}ca{\kf63}tion
-Dialogue: 0,0:02:14.88,0:02:17.14,DEFAULT,,0,0,0,,{\kf32}Space{\kf24} may{\kf24} be{\kf12} a{\kf24} lone{\kf16}ly{\kf20} de{\kf36}mise
-Dialogue: 0,0:02:17.22,0:02:19.49,DEFAULT,,0,0,0,,{\kf8}But{\kf16} her{\kf32} po{\kf16}wer{\kf36} grows{\kf16} with{\kf24} pa{\kf51}tience
-Dialogue: 0,0:02:19.80,0:02:21.87,DEFAULT,,0,0,0,,{\kf16}Ce{\kf32}les{\kf12}ti{\kf12}a,{\kf24} can{\kf24} you{\kf16} hear{\kf16} her{\kf16} cries
-Dialogue: 0,0:02:21.91,0:02:24.37,DEFAULT,,0,0,0,,{\kf24}'Cause{\kf24} you{\kf32} doomed{\kf24} her{\kf24} to{\kf28} dam{\kf24}na{\kf40}tion
-Dialogue: 0,0:02:24.68,0:02:27.14,DEFAULT,,0,0,0,,{\kf16}And{\kf24} now{\kf24} she's{\kf32} gone{\kf16} s{\kf12}o{\kf40} far{\kf24} a{\kf28}way
-Dialogue: 0,0:02:27.18,0:02:29.84,DEFAULT,,0,0,0,,{\kf24}It's{\kf24} A{\kf24}li{\kf32}cor{\kf24}ni{\kf40}ca{\kf63}tion
-Dialogue: 0,0:02:39.84,0:02:42.10,DEFAULT,,0,0,0,,{\kf40}Sad{\kf12} and{\kf12} a{\kf32}shamed{\kf12} for{\kf12} the{\kf24} sis{\kf12}ter{\kf16} you{\kf32} raised
-Dialogue: 0,0:02:42.18,0:02:44.60,DEFAULT,,0,0,0,,{\kf28}For{\kf24} acts{\kf16} so{\kf36} de{\kf32}vas{\kf47}ta{\kf32}ting
-Dialogue: 0,0:02:44.60,0:02:46.87,DEFAULT,,0,0,0,,{\kf16}Raise{\kf16} the{\kf32} moon{\kf12} and{\kf24} sun{\kf16} for{\kf12} a{\kf12} mil{\kf24}len{\kf28}ni{\kf20}um
-Dialogue: 0,0:02:46.99,0:02:49.92,DEFAULT,,0,0,0,,{\kf16}But{\kf24} your{\kf24} sis{\kf24}ter's{\kf16} up{\kf24} there{\kf40} wai{\kf55}ting
-Dialogue: 0,0:02:51.21,0:02:53.67,DEFAULT,,0,0,0,,{\kf28}First{\kf28} born{\kf16} A{\kf16}li{\kf55}co{\kf79}rn
-Dialogue: 0,0:02:55.39,0:02:58.75,DEFAULT,,0,0,0,,{\kf40}Her{\kf51} sis{\kf47}ter's{\kf79} sco{\kf86}rn
-Dialogue: 0,0:02:59.92,0:03:03.75,DEFAULT,,0,0,0,,{\kf24}Dream{\kf24} of{\kf24} A{\kf32}li{\kf47}cor{\kf24}ni{\kf40}ca{\kf94}tion
-Dialogue: 0,0:03:05.07,0:03:08.98,DEFAULT,,0,0,0,,{\kf24}Dream{\kf24} of{\kf24} A{\kf24}li{\kf55}cor{\kf24}ni{\kf32}ca{\kf110}tion
-Dialogue: 0,0:03:10.00,0:03:13.59,DEFAULT,,0,0,0,,{\kf24}Dream{\kf24} of{\kf24} A{\kf24}li{\kf55}cor{\kf24}ni{\kf55}ca{\kf79}tion
-Dialogue: 0,0:03:15.00,0:03:19.68,DEFAULT,,0,0,0,,{\kf24}Dream{\kf24} of{\kf24} A{\kf24}li{\kf47}cor{\kf24}ni{\kf63}ca{\kf55}ti{\kf110}on
-Dialogue: 0,0:04:09.45,0:04:12.14,DEFAULT,,0,0,0,,{\kf16}Her{\kf16} re{\kf32}turn{\kf40} leads{\kf24} to{\kf12} a{\kf24} ve{\kf16}ry{\kf24} rough{\kf36} road
-Dialogue: 0,0:04:12.22,0:04:14.37,DEFAULT,,0,0,0,,{\kf8}But{\kf8} it{\kf16} al{\kf16}so{\kf32} breeds{\kf24} des{\kf20}pe{\kf24}ra{\kf47}tion
-Dialogue: 0,0:04:14.96,0:04:16.67,DEFAULT,,0,0,0,,{\kf24}Six{\kf20} young{\kf40} girls{\kf20} start{\kf12} to{\kf20} pa{\kf24}nic
-Dialogue: 0,0:04:16.95,0:04:19.33,DEFAULT,,0,0,0,,{\kf16}And{\kf24} give{\kf24} Lu{\kf16}na{\kf24} her{\kf32} sal{\kf24}va{\kf40}tion
-Dialogue: 0,0:04:19.68,0:04:22.07,DEFAULT,,0,0,0,,{\kf28}And{\kf24} then{\kf16} their{\kf32} friend{\kf28}ship{\kf24} saved{\kf16} the{\kf40} world
-Dialogue: 0,0:04:22.14,0:04:24.88,DEFAULT,,0,0,0,,{\kf24}From{\kf24} A{\kf12}li{\kf43}cor{\kf24}ni{\kf40}ca{\kf63}tion
-Dialogue: 0,0:04:34.57,0:04:37.03,DEFAULT,,0,0,0,,{\kf20}She{\kf43} sees{\kf8} her{\kf40} sis{\kf20}ter{\kf36} once{\kf12} a{\kf32}gain
-Dialogue: 0,0:04:37.03,0:04:39.68,DEFAULT,,0,0,0,,{\kf12}Af{\kf12}ter{\kf12} a{\kf24} thou{\kf24}sand{\kf32} years{\kf20} of{\kf40} a{\kf51}ging
-Dialogue: 0,0:04:39.88,0:04:42.10,DEFAULT,,0,0,0,,{\kf36}Some{\kf20} of{\kf59} us{\kf32} lose{\kf20} our{\kf36} way
-Dialogue: 0,0:04:42.10,0:04:44.84,DEFAULT,,0,0,0,,{\kf28}But{\kf28} e{\kf16}very{\kf43}one's{\kf20} worth{\kf59} sa{\kf55}ving
-Dialogue: 0,0:04:46.09,0:04:48.94,DEFAULT,,0,0,0,,{\kf32}First{\kf40} born{\kf12} A{\kf12}li{\kf55}co{\kf118}rn
-Dialogue: 0,0:04:50.39,0:04:53.98,DEFAULT,,0,0,0,,{\kf24}Her{\kf63} sis{\kf55}ter's{\kf63} sco{\kf125}rn
-Dialogue: 0,0:04:54.92,0:04:58.78,DEFAULT,,0,0,0,,{\kf40}Dream{\kf20} of{\kf24} A{\kf16}l{\kf12}i{\kf59}cor{\kf24}ni{\kf32}c{\kf24}at{\kf106}ion
-Dialogue: 0,0:04:59.88,0:05:03.98,DEFAULT,,0,0,0,,{\kf40}Dream{\kf24} of{\kf24} A{\kf16}l{\kf16}i{\kf63}cor{\kf24}ni{\kf32}c{\kf20}at{\kf125}ion
-Dialogue: 0,0:05:04.92,0:05:08.59,DEFAULT,,0,0,0,,{\kf36}Dream{\kf24} of{\kf24} A{\kf16}l{\kf12}i{\kf59}cor{\kf24}ni{\kf28}c{\kf28}at{\kf90}ion
-Dialogue: 0,0:05:10.00,0:05:15.00,DEFAULT,,0,0,0,,{\kf28}Dream{\kf28} of{\kf24} A{\kf16}l{\kf16}i{\kf55}cor{\kf24}ni{\kf28}c{\kf28}a{\kf47}ti{\kf172}on
+Dialogue: 0,0:00:19.84,0:00:21.72,DEFAULT,,0,0,0,,{\r}{\kf19}An{\kf28} e{\kf28}vil{\kf28} night{\kf19}ma{\kf19}re{\kf28} po{\kf19}ny
+Dialogue: 0,0:00:21.88,0:00:24.49,DEFAULT,,0,0,0,,{\r}{\kf37}Tries{\kf19} to{\kf42} steal{\kf19} her{\kf37} mind{\kf28} and{\kf23} wa{\kf57}ken
+Dialogue: 0,0:00:25.00,0:00:27.23,DEFAULT,,0,0,0,,{\r}{\kf19}Lit{\kf19}tle{\kf56} Lu{\kf14}n{\kf14}a{\kf37} sleeps{\kf28} and{\kf36} dreams
+Dialogue: 0,0:00:27.34,0:00:29.34,DEFAULT,,0,0,0,,{\r}{\kf19}Of{\kf28} her{\kf19} new{\kf33} in{\kf33}can{\kf14}t{\kf14}a{\kf39}tion
+Dialogue: 0,0:00:29.84,0:00:32.23,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf23} if{\kf27} you{\kf37} want{\kf18} the{\kf18}se{\kf37} kind{\kf18} of{\kf42} dreams
+Dialogue: 0,0:00:32.30,0:00:34.84,DEFAULT,,0,0,0,,{\r}{\kf18}It's{\kf32} A{\kf18}li{\kf37}cor{\kf18}ni{\kf55}ca{\kf76}tion
+Dialogue: 0,0:00:44.45,0:00:46.64,DEFAULT,,0,0,0,,{\r}{\kf21}It's{\kf43} the{\kf37} end{\kf37} of{\kf16} Equ{\kf32}es{\kf21}tri{\kf12}a
+Dialogue: 0,0:00:46.72,0:00:49.38,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf28} all{\kf19} of{\kf38} po{\kf24}ny{\kf28} civi{\kf28}li{\kf28}za{\kf54}tion
+Dialogue: 0,0:00:49.84,0:00:51.41,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf24} prin{\kf38}cess{\kf24} lifts{\kf14} the{\kf37} sun
+Dialogue: 0,0:00:51.64,0:00:54.38,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf28} some{\kf14} be{\kf14}lieve{\kf14} the{\kf33} night{\kf24} lacks{\kf33} appre{\kf33}ci{\kf19}a{\kf47}tion
+Dialogue: 0,0:00:54.69,0:00:56.91,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf13} be{\kf18}lieve{\kf18} it{\kf18} or{\kf27} not{\kf31} but{\kf45} Can{\kf13}ter{\kf22}lot
+Dialogue: 0,0:00:57.19,0:00:59.96,DEFAULT,,0,0,0,,{\r}{\kf36}Sells{\kf27} A{\kf27}li{\kf40}cor{\kf18}ni{\kf54}ca{\kf75}tion
+Dialogue: 0,0:01:10.00,0:01:12.15,DEFAULT,,0,0,0,,{\r}{\kf28}The{\kf33} moon{\kf28} is{\kf23} where{\kf33} she{\kf19} was{\kf51} sent
+Dialogue: 0,0:01:12.27,0:01:14.65,DEFAULT,,0,0,0,,{\r}{\kf14}For{\kf14} a{\kf28} thou{\kf19}sand{\kf47} years{\kf19} of{\kf51} a{\kf46}ging
+Dialogue: 0,0:01:15.00,0:01:17.11,DEFAULT,,0,0,0,,{\r}{\kf20}So{\kf29} she{\kf20} could{\kf20}n't{\kf20} spread{\kf15} e{\kf34}ter{\kf25}nal{\kf28} night
+Dialogue: 0,0:01:17.54,0:01:19.92,DEFAULT,,0,0,0,,{\r}{\kf30}All{\kf17} a{\kf39}cross{\kf26} the{\kf52} na{\kf74}tion
+Dialogue: 0,0:01:21.17,0:01:23.75,DEFAULT,,0,0,0,,{\r}{\kf34}First{\kf34} born{\kf22} A{\kf13}li{\kf60}co{\kf95}rn
+Dialogue: 0,0:01:25.55,0:01:28.75,DEFAULT,,0,0,0,,{\r}{\kf23}Her{\kf59} sis{\kf63}ter's{\kf77} sco{\kf98}rn
+Dialogue: 0,0:01:30.00,0:01:33.52,DEFAULT,,0,0,0,,{\r}{\kf39}Dream{\kf21} of{\kf26} A{\kf13}l{\kf13}i{\kf73}cor{\kf26}ni{\kf26}c{\kf30}at{\kf85}ion
+Dialogue: 0,0:01:35.00,0:01:39.69,DEFAULT,,0,0,0,,{\r}{\kf30}Dream{\kf30} of{\kf26} A{\kf17}l{\kf17}i{\kf60}cor{\kf34}ni{\kf26}c{\kf26}a{\kf77}ti{\kf126}on
+Dialogue: 0,0:01:49.96,0:01:52.34,DEFAULT,,0,0,0,,{\r}{\kf32}Lu{\kf21}na{\kf32} looked{\kf26} up{\kf32} to{\kf26} her{\kf37} sis{\kf32}ter
+Dialogue: 0,0:01:52.58,0:01:54.30,DEFAULT,,0,0,0,,{\r}{\kf27}With{\kf27} great{\kf27} ad{\kf18}mi{\kf36}ra{\kf37}tion
+Dialogue: 0,0:01:54.80,0:01:57.07,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf25} ev{\kf35}ery{\kf30}one{\kf39} slept{\kf25} through{\kf20} her{\kf33} night
+Dialogue: 0,0:01:57.19,0:01:59.38,DEFAULT,,0,0,0,,{\r}{\kf27}Which{\kf36} caused{\kf18} her{\kf32} great{\kf27} frus{\kf36}tra{\kf43}tion
+Dialogue: 0,0:01:59.77,0:02:02.03,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf18} li{\kf18}ving{\kf27} with{\kf27}out{\kf14} a{\kf14}~{\kf32} mo{\kf18}ther's{\kf32} hard
+Dialogue: 0,0:02:02.03,0:02:04.92,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf27}that's{\kf32} A{\kf27}li{\kf36}cor{\kf18}ni{\kf63}ca{\kf72}tion
+Dialogue: 0,0:02:14.88,0:02:17.15,DEFAULT,,0,0,0,,{\r}{\kf39}Space{\kf29} may{\kf29} be{\kf14} a{\kf29} lone{\kf19}ly{\kf24} de{\kf44}mise
+Dialogue: 0,0:02:17.23,0:02:19.49,DEFAULT,,0,0,0,,{\r}{\kf10}But{\kf18} her{\kf36} po{\kf18}wer{\kf41} grows{\kf18} with{\kf27} pa{\kf59}tience
+Dialogue: 0,0:02:19.80,0:02:21.88,DEFAULT,,0,0,0,,{\r}{\kf20}Ce{\kf39}les{\kf15}ti{\kf15}a,{\kf30} can{\kf30} you{\kf20} hear{\kf20} her{\kf18} cries
+Dialogue: 0,0:02:21.91,0:02:24.38,DEFAULT,,0,0,0,,{\r}{\kf27}'Cause{\kf27} you{\kf36} doomed{\kf27} her{\kf27} to{\kf31} dam{\kf27}na{\kf44}tion
+Dialogue: 0,0:02:24.69,0:02:27.15,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf27} now{\kf27} she's{\kf36} gone{\kf18} s{\kf14}o{\kf46} far{\kf27} a{\kf33}way
+Dialogue: 0,0:02:27.19,0:02:29.84,DEFAULT,,0,0,0,,{\r}{\kf28}It's{\kf28} A{\kf28}li{\kf37}cor{\kf28}ni{\kf46}ca{\kf71}tion
+Dialogue: 0,0:02:39.84,0:02:42.11,DEFAULT,,0,0,0,,{\r}{\kf45}Sad{\kf13} and{\kf13} a{\kf36}shamed{\kf13} for{\kf13} the{\kf27} sis{\kf13}ter{\kf18} you{\kf36} raised
+Dialogue: 0,0:02:42.19,0:02:44.61,DEFAULT,,0,0,0,,{\r}{\kf31}For{\kf27} acts{\kf18} so{\kf40} de{\kf36}vas{\kf54}ta{\kf36}ting
+Dialogue: 0,0:02:44.61,0:02:46.88,DEFAULT,,0,0,0,,{\r}{\kf17}Raise{\kf17} the{\kf34} moon{\kf13} and{\kf26} sun{\kf17} for{\kf13} a{\kf13} mil{\kf26}len{\kf30}ni{\kf21}um
+Dialogue: 0,0:02:46.99,0:02:49.92,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf31} your{\kf31} sis{\kf31}ter's{\kf21} up{\kf31} there{\kf52} wai{\kf75}ting
+Dialogue: 0,0:02:51.21,0:02:53.67,DEFAULT,,0,0,0,,{\r}{\kf31}First{\kf31} born{\kf18} A{\kf18}li{\kf62}co{\kf86}rn
+Dialogue: 0,0:02:55.39,0:02:58.75,DEFAULT,,0,0,0,,{\r}{\kf44}Her{\kf57} sis{\kf52}ter's{\kf87} sco{\kf96}rn
+Dialogue: 0,0:02:59.92,0:03:03.75,DEFAULT,,0,0,0,,{\r}{\kf29}Dream{\kf29} of{\kf29} A{\kf39}li{\kf59}cor{\kf29}ni{\kf49}ca{\kf120}tion
+Dialogue: 0,0:03:05.08,0:03:08.98,DEFAULT,,0,0,0,,{\r}{\kf29}Dream{\kf29} of{\kf29} A{\kf29}li{\kf68}cor{\kf29}ni{\kf39}ca{\kf139}tion
+Dialogue: 0,0:03:10.00,0:03:13.59,DEFAULT,,0,0,0,,{\r}{\kf28}Dream{\kf28} of{\kf28} A{\kf28}li{\kf64}cor{\kf28}ni{\kf64}ca{\kf91}tion
+Dialogue: 0,0:03:15.00,0:03:19.69,DEFAULT,,0,0,0,,{\r}{\kf28}Dream{\kf28} of{\kf28} A{\kf28}li{\kf56}cor{\kf28}ni{\kf75}ca{\kf66}ti{\kf132}on
+Dialogue: 0,0:04:09.45,0:04:12.15,DEFAULT,,0,0,0,,{\r}{\kf18}Her{\kf18} re{\kf36}turn{\kf45} leads{\kf27} to{\kf14} a{\kf27} ve{\kf18}ry{\kf27} rough{\kf40} road
+Dialogue: 0,0:04:12.23,0:04:14.38,DEFAULT,,0,0,0,,{\r}{\kf10}But{\kf10} it{\kf18} al{\kf18}so{\kf35} breeds{\kf26} des{\kf22}pe{\kf26}ra{\kf50}tion
+Dialogue: 0,0:04:14.96,0:04:16.68,DEFAULT,,0,0,0,,{\r}{\kf26}Six{\kf22} young{\kf43} girls{\kf22} start{\kf13} to{\kf22} pa{\kf24}nic
+Dialogue: 0,0:04:16.95,0:04:19.34,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf29} give{\kf29} Lu{\kf19}na{\kf29} her{\kf38} sal{\kf29}va{\kf46}tion
+Dialogue: 0,0:04:19.69,0:04:22.07,DEFAULT,,0,0,0,,{\r}{\kf32}And{\kf27} then{\kf18} their{\kf37} friend{\kf32}ship{\kf27} saved{\kf18} the{\kf47} world
+Dialogue: 0,0:04:22.15,0:04:24.88,DEFAULT,,0,0,0,,{\r}{\kf28}From{\kf28} A{\kf14}li{\kf52}cor{\kf28}ni{\kf47}ca{\kf76}tion
+Dialogue: 0,0:04:34.57,0:04:37.03,DEFAULT,,0,0,0,,{\r}{\kf23}She{\kf51} sees{\kf10} her{\kf46} sis{\kf23}ter{\kf42} once{\kf14} a{\kf37}gain
+Dialogue: 0,0:04:37.03,0:04:39.69,DEFAULT,,0,0,0,,{\r}{\kf14}Af{\kf14}ter{\kf14} a{\kf28} thou{\kf28}sand{\kf37} years{\kf23} of{\kf47} a{\kf61}ging
+Dialogue: 0,0:04:39.88,0:04:42.11,DEFAULT,,0,0,0,,{\r}{\kf39}Some{\kf22} of{\kf66} us{\kf35} lose{\kf22} our{\kf39} way
+Dialogue: 0,0:04:42.11,0:04:44.84,DEFAULT,,0,0,0,,{\r}{\kf30}But{\kf30} e{\kf17}very{\kf48}one's{\kf22} worth{\kf65} sa{\kf61}ving
+Dialogue: 0,0:04:46.09,0:04:48.95,DEFAULT,,0,0,0,,{\r}{\kf34}First{\kf42} born{\kf13} A{\kf13}li{\kf59}co{\kf124}rn
+Dialogue: 0,0:04:50.39,0:04:53.98,DEFAULT,,0,0,0,,{\r}{\kf26}Her{\kf68} sis{\kf60}ter's{\kf68} sco{\kf137}rn
+Dialogue: 0,0:04:54.92,0:04:58.79,DEFAULT,,0,0,0,,{\r}{\kf43}Dream{\kf22} of{\kf26} A{\kf17}l{\kf13}i{\kf64}cor{\kf26}ni{\kf34}c{\kf26}at{\kf116}ion
+Dialogue: 0,0:04:59.88,0:05:03.98,DEFAULT,,0,0,0,,{\r}{\kf42}Dream{\kf25} of{\kf25} A{\kf17}l{\kf17}i{\kf68}cor{\kf25}ni{\kf34}c{\kf21}at{\kf136}ion
+Dialogue: 0,0:05:04.92,0:05:08.59,DEFAULT,,0,0,0,,{\r}{\kf38}Dream{\kf26} of{\kf26} A{\kf17}l{\kf13}i{\kf64}cor{\kf26}ni{\kf30}c{\kf30}at{\kf97}ion
+Dialogue: 0,0:05:10.00,0:05:15.00,DEFAULT,,0,0,0,,{\r}{\kf30}Dream{\kf30} of{\kf25} A{\kf17}l{\kf17}i{\kf59}cor{\kf25}ni{\kf30}c{\kf30}a{\kf51}ti{\kf186}on

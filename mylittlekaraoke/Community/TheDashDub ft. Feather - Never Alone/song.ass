@@ -1,54 +1,61 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Never Alone
+Artist: TheDashDub, Feather
+Original Timing: mylittlekaraoke.com by SqueakyBelle
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:16.99,0:00:19.24,DEFAULT,,0,0,0,,{\kf225}Ahh
-Dialogue: 0,0:00:21.20,0:00:23.25,DEFAULT,,0,0,0,,{\kf205}Ahh
-Dialogue: 0,0:00:25.42,0:00:27.71,DEFAULT,,0,0,0,,{\kf230}Ahh
-Dialogue: 0,0:00:29.63,0:00:31.55,DEFAULT,,0,0,0,,{\kf193}Ahh
-Dialogue: 0,0:00:33.88,0:00:35.97,DEFAULT,,0,0,0,,{\kf209}Ahh
-Dialogue: 0,0:00:38.14,0:00:40.10,DEFAULT,,0,0,0,,{\kf197}Ahh
-Dialogue: 0,0:00:42.35,0:00:44.15,DEFAULT,,0,0,0,,{\kf180}Ahh
-Dialogue: 0,0:00:46.60,0:00:48.94,DEFAULT,,0,0,0,,{\kf234}Ahh
-Dialogue: 0,0:00:51.72,0:00:58.02,DEFAULT,,0,0,0,,{\kf307}Scoo{\kf41}ta{\kf37}~{\kf33}~{\kf189}loo
-Dialogue: 0,0:00:59.53,0:01:02.84,DEFAULT,,0,0,0,,{\kf33}Don't{\kf58} you{\kf221} cry
-Dialogue: 0,0:01:03.87,0:01:06.98,DEFAULT,,0,0,0,,{\kf33}We'll{\kf41} get{\kf197} by
-Dialogue: 0,0:01:08.61,0:01:15.36,DEFAULT,,0,0,0,,{\kf242}I -{\kf29} I{\kf62} need{\kf13} you{\kf17}~{\kf221} too
-Dialogue: 0,0:01:16.18,0:01:19.33,DEFAULT,,0,0,0,,{\kf33}More{\kf45} than{\kf70} I{\kf156} knew
-Dialogue: 0,0:01:20.02,0:01:24.24,DEFAULT,,0,0,0,,{\kf37}Be{\kf33}fore{\kf37} I{\kf62} met{\kf230} you
-Dialogue: 0,0:01:25.67,0:01:32.46,DEFAULT,,0,0,0,,{\kf307}Scoo{\kf70}ta{\kf9}~{\kf25}~{\kf238}loo
-Dialogue: 0,0:01:33.40,0:01:36.96,DEFAULT,,0,0,0,,{\kf33}Don't{\kf50} you{\kf246} fear
-Dialogue: 0,0:01:37.82,0:01:40.76,DEFAULT,,0,0,0,,{\kf29}I{\kf13} am{\kf25}~{\kf180} near
-Dialogue: 0,0:01:42.36,0:01:48.86,DEFAULT,,0,0,0,,{\kf29}My{\kf283} world{\kf50} was{\kf9}~{\kf41}~{\kf160} grey
-Dialogue: 0,0:01:49.47,0:01:53.16,DEFAULT,,0,0,0,,{\kf29}But{\kf25} we{\kf29} found{\kf41} a{\kf230} way
-Dialogue: 0,0:01:53.69,0:01:58.15,DEFAULT,,0,0,0,,{\kf17}A{\kf50} brand{\kf33} new{\kf54}~{\kf254} day
-Dialogue: 0,0:01:59.62,0:02:01.50,DEFAULT,,0,0,0,,{\kf33}I'll{\kf29} be{\kf29} there{\kf13} by{\kf13} your{\kf54} side
-Dialogue: 0,0:02:01.70,0:02:04.69,DEFAULT,,0,0,0,,{\kf9}Re{\kf29}mem{\kf29}ber{\kf25} that{\kf33} you're{\kf33} not{\kf13} a{\kf17}~{\kf82}lone
-Dialogue: 0,0:02:05.84,0:02:09.93,DEFAULT,,0,0,0,,{\kf17}You'll{\kf29} al{\kf25}ways{\kf13} have{\kf17} a{\kf33} place{\kf29} to{\kf17} call{\kf13}~{\kf185} home
-Dialogue: 0,0:02:11.28,0:02:14.88,DEFAULT,,0,0,0,,{\kf33}When{\kf33} I'm{\kf29} with{\kf21}~{\kf217} you
-Dialogue: 0,0:02:16.59,0:02:18.31,DEFAULT,,0,0,0,,{\kf29}Ne{\kf29}ver{\kf29} too{\kf13} far{\kf13} a{\kf41}way
-Dialogue: 0,0:02:18.68,0:02:22.16,DEFAULT,,0,0,0,,{\kf29}Don't{\kf33} for{\kf29}get{\kf33} that{\kf33} all{\kf17} it{\kf152} takes
-Dialogue: 0,0:02:22.57,0:02:26.78,DEFAULT,,0,0,0,,{\kf17}Is{\kf13} to{\kf103} call{\kf58} on{\kf9} my{\kf13}~{\kf164} name
-Dialogue: 0,0:02:28.58,0:02:36.31,DEFAULT,,0,0,0,,{\kf25}And{\kf50} I'll{\kf74} be -{\kf37} I'll{\kf33} be{\kf82} right{\kf70} next{\kf29} to{\kf279} you
-Dialogue: 0,0:02:41.79,0:02:48.62,DEFAULT,,0,0,0,,{\kf320}Scoo{\kf66}ta{\kf9}~{\kf33}~{\kf205}loo
-Dialogue: 0,0:02:49.36,0:02:53.04,DEFAULT,,0,0,0,,{\kf41}Don't{\kf54} you{\kf246} see
-Dialogue: 0,0:02:53.94,0:02:57.38,DEFAULT,,0,0,0,,{\kf41}We're{\kf25} a{\kf25}~{\kf217} team
-Dialogue: 0,0:02:58.93,0:03:05.72,DEFAULT,,0,0,0,,{\kf246}We'll{\kf86} chase{\kf17} the{\kf29}~{\kf217} sun
-Dialogue: 0,0:03:06.50,0:03:09.52,DEFAULT,,0,0,0,,{\kf50}Just{\kf33} for{\kf9} our{\kf17}~{\kf156} fun
-Dialogue: 0,0:03:10.55,0:03:14.76,DEFAULT,,0,0,0,,{\kf29}And{\kf25} when{\kf25} we're{\kf33}~{\kf270} done
-Dialogue: 0,0:03:15.86,0:03:17.75,DEFAULT,,0,0,0,,{\kf33}I'll{\kf29} be{\kf29} there{\kf13} by{\kf13} your{\kf54} side
-Dialogue: 0,0:03:17.95,0:03:20.94,DEFAULT,,0,0,0,,{\kf9}Re{\kf29}mem{\kf29}ber{\kf25} that{\kf33} you're{\kf33} not{\kf13} a{\kf17}~{\kf82}lone
-Dialogue: 0,0:03:22.08,0:03:26.17,DEFAULT,,0,0,0,,{\kf17}You'll{\kf29} al{\kf25}ways{\kf13} have{\kf17} a{\kf33} place{\kf29} to{\kf17} call{\kf13}~{\kf185} home
-Dialogue: 0,0:03:27.52,0:03:31.12,DEFAULT,,0,0,0,,{\kf33}When{\kf33} I'm{\kf29} with{\kf21}~{\kf217} you
-Dialogue: 0,0:03:32.84,0:03:34.56,DEFAULT,,0,0,0,,{\kf29}Ne{\kf29}ver{\kf29} too{\kf13} far{\kf13} a{\kf41}way
-Dialogue: 0,0:03:34.93,0:03:38.40,DEFAULT,,0,0,0,,{\kf29}Don't{\kf33} for{\kf29}get{\kf33} that{\kf33} all{\kf17} it{\kf152} takes
-Dialogue: 0,0:03:38.81,0:03:43.02,DEFAULT,,0,0,0,,{\kf17}Is{\kf13} to{\kf103} call{\kf58} on{\kf9} my{\kf13}~{\kf164} name
-Dialogue: 0,0:03:44.82,0:03:53.01,DEFAULT,,0,0,0,,{\kf25}And{\kf50} I'll{\kf74} be -{\kf37} I'll{\kf33} be{\kf82} right{\kf70} next{\kf29} to{\kf324} you
-Dialogue: 0,0:04:20.78,0:04:26.22,DEFAULT,,0,0,0,,{\kf33}I'll{\kf33} be{\kf74} right{\kf13} next{\kf17}~{\kf41}~{\kf21} to{\kf258} you
+Dialogue: 0,0:00:17.00,0:00:19.24,DEFAULT,,0,0,0,,{\r}{\kf225}Ahh
+Dialogue: 0,0:00:21.21,0:00:23.25,DEFAULT,,0,0,0,,{\r}{\kf205}Ahh
+Dialogue: 0,0:00:25.42,0:00:27.71,DEFAULT,,0,0,0,,{\r}{\kf229}Ahh
+Dialogue: 0,0:00:29.63,0:00:31.56,DEFAULT,,0,0,0,,{\r}{\kf192}Ahh
+Dialogue: 0,0:00:33.89,0:00:35.97,DEFAULT,,0,0,0,,{\r}{\kf209}Ahh
+Dialogue: 0,0:00:38.14,0:00:40.11,DEFAULT,,0,0,0,,{\r}{\kf196}Ahh
+Dialogue: 0,0:00:42.36,0:00:44.16,DEFAULT,,0,0,0,,{\r}{\kf180}Ahh
+Dialogue: 0,0:00:46.61,0:00:48.94,DEFAULT,,0,0,0,,{\r}{\kf233}Ahh
+Dialogue: 0,0:00:51.72,0:00:58.02,DEFAULT,,0,0,0,,{\r}{\kf319}Scoo{\kf43}ta{\kf38}~{\kf34}~{\kf196}loo
+Dialogue: 0,0:00:59.54,0:01:02.85,DEFAULT,,0,0,0,,{\r}{\kf35}Don't{\kf61} you{\kf235} cry
+Dialogue: 0,0:01:03.87,0:01:06.98,DEFAULT,,0,0,0,,{\r}{\kf38}We'll{\kf47} get{\kf226} by
+Dialogue: 0,0:01:08.62,0:01:15.37,DEFAULT,,0,0,0,,{\r}{\kf280}I -{\kf33} I{\kf71} need{\kf14} you{\kf19}~{\kf258} too
+Dialogue: 0,0:01:16.18,0:01:19.33,DEFAULT,,0,0,0,,{\r}{\kf34}More{\kf47} than{\kf72} I{\kf162} knew
+Dialogue: 0,0:01:20.03,0:01:24.24,DEFAULT,,0,0,0,,{\r}{\kf39}Be{\kf35}fore{\kf39} I{\kf65} met{\kf243} you
+Dialogue: 0,0:01:25.67,0:01:32.46,DEFAULT,,0,0,0,,{\r}{\kf322}Scoo{\kf73}ta{\kf10}~{\kf26}~{\kf248}loo
+Dialogue: 0,0:01:33.40,0:01:36.96,DEFAULT,,0,0,0,,{\r}{\kf36}Don't{\kf53} you{\kf267} fear
+Dialogue: 0,0:01:37.82,0:01:40.77,DEFAULT,,0,0,0,,{\r}{\kf34}I{\kf15} am{\kf30}~{\kf216} near
+Dialogue: 0,0:01:42.36,0:01:48.87,DEFAULT,,0,0,0,,{\r}{\kf33}My{\kf323} world{\kf56} was{\kf10}~{\kf47}~{\kf181} grey
+Dialogue: 0,0:01:49.48,0:01:53.16,DEFAULT,,0,0,0,,{\r}{\kf30}But{\kf26} we{\kf30} found{\kf43} a{\kf239} way
+Dialogue: 0,0:01:53.69,0:01:58.15,DEFAULT,,0,0,0,,{\r}{\kf18}A{\kf54} brand{\kf36} new{\kf59}~{\kf279} day
+Dialogue: 0,0:01:59.62,0:02:01.51,DEFAULT,,0,0,0,,{\r}{\kf37}I'll{\kf32} be{\kf32} there{\kf14} by{\kf14} your{\kf59} side
+Dialogue: 0,0:02:01.71,0:02:04.70,DEFAULT,,0,0,0,,{\r}{\kf10}Re{\kf32}mem{\kf32}ber{\kf28} that{\kf37} you're{\kf37} not{\kf14} a{\kf18}~{\kf91}lone
+Dialogue: 0,0:02:05.84,0:02:09.93,DEFAULT,,0,0,0,,{\r}{\kf18}You'll{\kf31} al{\kf27}ways{\kf13} have{\kf18} a{\kf36} place{\kf31} to{\kf18} call{\kf13}~{\kf204} home
+Dialogue: 0,0:02:11.28,0:02:14.88,DEFAULT,,0,0,0,,{\r}{\kf36}When{\kf36} I'm{\kf31} with{\kf22}~{\kf235} you
+Dialogue: 0,0:02:16.60,0:02:18.32,DEFAULT,,0,0,0,,{\r}{\kf33}Ne{\kf33}ver{\kf33} too{\kf14} far{\kf14} a{\kf45}way
+Dialogue: 0,0:02:18.69,0:02:22.16,DEFAULT,,0,0,0,,{\r}{\kf31}Don't{\kf35} for{\kf31}get{\kf35} that{\kf35} all{\kf18} it{\kf163} takes
+Dialogue: 0,0:02:22.57,0:02:26.78,DEFAULT,,0,0,0,,{\r}{\kf19}Is{\kf14} to{\kf116} call{\kf65} on{\kf10} my{\kf14}~{\kf183} name
+Dialogue: 0,0:02:28.58,0:02:36.31,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf56} I'll{\kf84} be -{\kf42} I'll{\kf37} be{\kf94} right{\kf80} next{\kf33} to{\kf319} you
+Dialogue: 0,0:02:41.80,0:02:48.63,DEFAULT,,0,0,0,,{\r}{\kf346}Scoo{\kf71}ta{\kf10}~{\kf35}~{\kf221}loo
+Dialogue: 0,0:02:49.36,0:02:53.04,DEFAULT,,0,0,0,,{\r}{\kf44}Don't{\kf58} you{\kf266} see
+Dialogue: 0,0:02:53.94,0:02:57.38,DEFAULT,,0,0,0,,{\r}{\kf46}We're{\kf28} a{\kf28}~{\kf242} team
+Dialogue: 0,0:02:58.93,0:03:05.73,DEFAULT,,0,0,0,,{\r}{\kf281}We'll{\kf98} chase{\kf19} the{\kf33}~{\kf248} sun
+Dialogue: 0,0:03:06.50,0:03:09.53,DEFAULT,,0,0,0,,{\r}{\kf57}Just{\kf38} for{\kf10} our{\kf19}~{\kf179} fun
+Dialogue: 0,0:03:10.55,0:03:14.76,DEFAULT,,0,0,0,,{\r}{\kf32}And{\kf27} when{\kf27} we're{\kf36}~{\kf299} done
+Dialogue: 0,0:03:15.87,0:03:17.75,DEFAULT,,0,0,0,,{\r}{\kf37}I'll{\kf32} be{\kf32} there{\kf14} by{\kf14} your{\kf59} side
+Dialogue: 0,0:03:17.96,0:03:20.94,DEFAULT,,0,0,0,,{\r}{\kf10}Re{\kf32}mem{\kf32}ber{\kf28} that{\kf37} you're{\kf37} not{\kf14} a{\kf18}~{\kf91}lone
+Dialogue: 0,0:03:22.09,0:03:26.18,DEFAULT,,0,0,0,,{\r}{\kf18}You'll{\kf31} al{\kf27}ways{\kf13} have{\kf18} a{\kf36} place{\kf31} to{\kf18} call{\kf13}~{\kf204} home
+Dialogue: 0,0:03:27.53,0:03:31.13,DEFAULT,,0,0,0,,{\r}{\kf36}When{\kf36} I'm{\kf31} with{\kf22}~{\kf235} you
+Dialogue: 0,0:03:32.84,0:03:34.56,DEFAULT,,0,0,0,,{\r}{\kf33}Ne{\kf33}ver{\kf33} too{\kf14} far{\kf14} a{\kf45}way
+Dialogue: 0,0:03:34.93,0:03:38.41,DEFAULT,,0,0,0,,{\r}{\kf31}Don't{\kf35} for{\kf31}get{\kf35} that{\kf35} all{\kf18} it{\kf163} takes
+Dialogue: 0,0:03:38.82,0:03:43.03,DEFAULT,,0,0,0,,{\r}{\kf19}Is{\kf14} to{\kf116} call{\kf65} on{\kf10} my{\kf14}~{\kf183} name
+Dialogue: 0,0:03:44.83,0:03:53.01,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf56} I'll{\kf84} be -{\kf42} I'll{\kf37} be{\kf93} right{\kf79} next{\kf33} to{\kf366} you
+Dialogue: 0,0:04:20.78,0:04:26.22,DEFAULT,,0,0,0,,{\r}{\kf37}I'll{\kf37} be{\kf82} right{\kf14} next{\kf18}~{\kf46}~{\kf23} to{\kf287} you

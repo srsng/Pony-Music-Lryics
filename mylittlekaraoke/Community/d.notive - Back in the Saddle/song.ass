@@ -1,80 +1,87 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Back in the Saddle
+Artist: d.notive
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:58.40,0:01:01.29,DEFAULT,,0,0,0,,{\kf15}I{\kf23} saw{\kf23} you{\kf19} stand{\kf12}~{\kf15}ing{\kf108} there
-Dialogue: 0,0:01:01.73,0:01:04.58,DEFAULT,,0,0,0,,{\kf15}With{\kf23}out{\kf15}~{\kf19} an{\kf56} ex{\kf19}pla{\kf26}na{\kf41}tion
-Dialogue: 0,0:01:05.47,0:01:08.25,DEFAULT,,0,0,0,,{\kf19}You{\kf34} say{\kf30} that{\kf26} you{\kf15} don't{\kf89} care
-Dialogue: 0,0:01:08.84,0:01:11.77,DEFAULT,,0,0,0,,{\kf15}A{\kf30}bout{\kf15} my{\kf15}~{\kf52} dis{\kf19}po{\kf30}si{\kf49}tion
-Dialogue: 0,0:01:12.62,0:01:15.40,DEFAULT,,0,0,0,,{\kf19}Well{\kf19} I've{\kf30} got{\kf34} news{\kf15} for{\kf19} you{\kf19}~{\kf49}~
-Dialogue: 0,0:01:15.92,0:01:18.88,DEFAULT,,0,0,0,,{\kf19}I'm{\kf26} tak{\kf30}ing{\kf26} back{\kf26} what's{\kf19} mine{\kf19}~{\kf49}~
-Dialogue: 0,0:01:19.73,0:01:22.70,DEFAULT,,0,0,0,,{\kf15}Just{\kf23} one{\kf26} thing{\kf26} left{\kf19} to{\kf19} do{\kf19}~{\kf71}~
-Dialogue: 0,0:01:22.99,0:01:24.81,DEFAULT,,0,0,0,,{\kf15}I{\kf23} think{\kf23}~{\kf19} that{\kf15} it{\kf12}~{\kf15} is
-Dialogue: 0,0:01:25.07,0:01:28.44,DEFAULT,,0,0,0,,{\kf45}Time{\kf15} to{\kf45} face{\kf15} the{\kf45} rain{\kf19} a{\kf23}gain{\kf23} as
-Dialogue: 0,0:01:28.66,0:01:30.88,DEFAULT,,0,0,0,,{\kf26}I{\kf30} stand{\kf26} all{\kf19} a{\kf15}~{\kf45}lone
-Dialogue: 0,0:01:32.25,0:01:35.10,DEFAULT,,0,0,0,,{\kf15}No{\kf26} need{\kf15} to{\kf41} face{\kf15} the{\kf52} pain{\kf15} a{\kf23}gain
-Dialogue: 0,0:01:35.32,0:01:39.07,DEFAULT,,0,0,0,,{\kf23}I'll{\kf23} make{\kf26} it{\kf30} on{\kf34} my{\kf19} own{\kf34}~{\kf19}~{\kf60}~
-Dialogue: 0,0:01:39.55,0:01:42.29,DEFAULT,,0,0,0,,{\kf23}I{\kf26} start{\kf26} all{\kf26} the{\kf30} fires{\kf15} to{\kf30}night
-Dialogue: 0,0:01:42.66,0:01:45.92,DEFAULT,,0,0,0,,{\kf26}As{\kf26} you{\kf30} wan{\kf30}der{\kf23} in{\kf26} aim{\kf19}less{\kf41} flight
-Dialogue: 0,0:01:46.66,0:01:49.44,DEFAULT,,0,0,0,,{\kf26}You're{\kf30} con{\kf26}vinced{\kf26} that{\kf34} you{\kf15} were{\kf34} right
-Dialogue: 0,0:01:49.77,0:01:53.03,DEFAULT,,0,0,0,,{\kf30}While{\kf15} I{\kf12}~{\kf26} i{\kf30}gnite{\kf30} the{\kf30} skies{\kf15} to{\kf38}night
-Dialogue: 0,0:01:53.32,0:01:54.95,DEFAULT,,0,0,0,,{\kf12}'Cause{\kf19} I'm{\kf15} back{\kf12} in{\kf12} the{\kf34} sad{\kf12}dle
-Dialogue: 0,0:01:55.10,0:01:56.03,DEFAULT,,0,0,0,,{\kf12}Back{\kf15} in{\kf15} con{\kf26}trol
-Dialogue: 0,0:01:56.18,0:01:56.99,DEFAULT,,0,0,0,,{\kf15}You're{\kf30} mad{\kf12} 'cause
-Dialogue: 0,0:01:57.14,0:01:58.51,DEFAULT,,0,0,0,,{\kf12}Your{\kf12} love{\kf12} does{\kf15}n't{\kf34} mat{\kf12}ter
-Dialogue: 0,0:01:58.66,0:01:59.47,DEFAULT,,0,0,0,,{\kf12}It's{\kf15} get{\kf12}ting{\kf19} old
-Dialogue: 0,0:01:59.73,0:02:00.51,DEFAULT,,0,0,0,,{\kf15}You're{\kf30} sad{\kf12} 'cause
-Dialogue: 0,0:02:00.66,0:02:02.07,DEFAULT,,0,0,0,,{\kf12}I'm{\kf12} back{\kf12} in{\kf12} the{\kf19} sad{\kf12}~{\kf12}dle
-Dialogue: 0,0:02:02.21,0:02:03.07,DEFAULT,,0,0,0,,{\kf12}Back{\kf12} in{\kf15} con{\kf23}trol
-Dialogue: 0,0:02:03.29,0:02:04.07,DEFAULT,,0,0,0,,{\kf15}You're{\kf26} mad{\kf12} 'cause
-Dialogue: 0,0:02:04.21,0:02:05.32,DEFAULT,,0,0,0,,{\kf12}Your{\kf15} love{\kf15} does{\kf15}n't{\kf23} count
-Dialogue: 0,0:02:05.55,0:02:06.73,DEFAULT,,0,0,0,,{\kf12}Des{\kf12}pite{\kf15} what{\kf15} you're{\kf30} told
-Dialogue: 0,0:02:09.36,0:02:12.07,DEFAULT,,0,0,0,,{\kf23}The{\kf30} task{\kf30} is{\kf26} now{\kf15} at{\kf71} hand
-Dialogue: 0,0:02:12.84,0:02:15.77,DEFAULT,,0,0,0,,{\kf15}To{\kf30} stand{\kf26} up{\kf41} and{\kf19} de{\kf30}fy{\kf45} you
-Dialogue: 0,0:02:16.51,0:02:19.47,DEFAULT,,0,0,0,,{\kf23}You're{\kf38} do{\kf26}ing{\kf30} all{\kf15} you{\kf100} can
-Dialogue: 0,0:02:19.95,0:02:22.88,DEFAULT,,0,0,0,,{\kf15}To{\kf26} make{\kf34} sure{\kf49} I{\kf15} don't{\kf26} get{\kf49} through
-Dialogue: 0,0:02:23.77,0:02:26.62,DEFAULT,,0,0,0,,{\kf19}Well{\kf26} I've{\kf30} got{\kf34} news{\kf19} for{\kf15} you{\kf15}~{\kf63}~
-Dialogue: 0,0:02:27.07,0:02:29.99,DEFAULT,,0,0,0,,{\kf19}You're{\kf34} run{\kf26}ning{\kf34} out{\kf26} of{\kf19} time{\kf19}~{\kf45}~
-Dialogue: 0,0:02:30.81,0:02:33.73,DEFAULT,,0,0,0,,{\kf15}Just{\kf26} one{\kf34} thing{\kf26} left{\kf15} to{\kf15} do{\kf19}~{\kf63}~
-Dialogue: 0,0:02:34.21,0:02:36.66,DEFAULT,,0,0,0,,{\kf15}I{\kf19} think{\kf30}~{\kf19} that{\kf15} it{\kf15}~{\kf23} is{\kf49} time
-Dialogue: 0,0:02:36.84,0:02:39.10,DEFAULT,,0,0,0,,{\kf15}To{\kf49} face{\kf15} the{\kf45} hate{\kf15} a{\kf23}gain
-Dialogue: 0,0:02:39.32,0:02:41.99,DEFAULT,,0,0,0,,{\kf19}As{\kf26} I{\kf19} tear{\kf12}~{\kf26} down{\kf30} your{\kf45} throne
-Dialogue: 0,0:02:43.58,0:02:46.25,DEFAULT,,0,0,0,,{\kf26}If{\kf15} you{\kf45} try{\kf15} to{\kf52} lead{\kf15} the{\kf26} way
-Dialogue: 0,0:02:46.44,0:02:50.10,DEFAULT,,0,0,0,,{\kf26}I'll{\kf26} have{\kf23} to{\kf26} go{\kf23} a{\kf19}lone{\kf30}~{\kf19}~{\kf56}~
-Dialogue: 0,0:02:50.70,0:02:53.44,DEFAULT,,0,0,0,,{\kf23}I{\kf26} start{\kf26} all{\kf26} the{\kf30} fires{\kf15} to{\kf30}night
-Dialogue: 0,0:02:53.81,0:02:57.07,DEFAULT,,0,0,0,,{\kf26}As{\kf26} you{\kf30} wan{\kf30}der{\kf23} in{\kf26} aim{\kf19}less{\kf41} flight
-Dialogue: 0,0:02:57.81,0:03:00.58,DEFAULT,,0,0,0,,{\kf26}You're{\kf30} con{\kf26}vinced{\kf26} that{\kf34} you{\kf15} were{\kf34} right
-Dialogue: 0,0:03:00.92,0:03:04.18,DEFAULT,,0,0,0,,{\kf30}While{\kf15} I{\kf12}~{\kf26} i{\kf30}gnite{\kf30} the{\kf30} skies{\kf15} to{\kf38}night
-Dialogue: 0,0:03:04.47,0:03:06.10,DEFAULT,,0,0,0,,{\kf12}'Cause{\kf19} I'm{\kf15} back{\kf12} in{\kf12} the{\kf34} sad{\kf12}dle
-Dialogue: 0,0:03:06.25,0:03:07.18,DEFAULT,,0,0,0,,{\kf12}Back{\kf15} in{\kf15} con{\kf26}trol
-Dialogue: 0,0:03:07.32,0:03:08.14,DEFAULT,,0,0,0,,{\kf15}You're{\kf30} mad{\kf12} 'cause
-Dialogue: 0,0:03:08.29,0:03:09.66,DEFAULT,,0,0,0,,{\kf12}Your{\kf12} love{\kf12} does{\kf15}n't{\kf34} mat{\kf12}ter
-Dialogue: 0,0:03:09.81,0:03:10.62,DEFAULT,,0,0,0,,{\kf12}It's{\kf15} get{\kf12}ting{\kf19} old
-Dialogue: 0,0:03:10.88,0:03:11.66,DEFAULT,,0,0,0,,{\kf15}You're{\kf30} sad{\kf12} 'cause
-Dialogue: 0,0:03:11.81,0:03:13.21,DEFAULT,,0,0,0,,{\kf12}I'm{\kf12} back{\kf12} in{\kf12} the{\kf19} sad{\kf12}~{\kf12}dle
-Dialogue: 0,0:03:13.36,0:03:14.21,DEFAULT,,0,0,0,,{\kf12}Back{\kf12} in{\kf15} con{\kf23}trol
-Dialogue: 0,0:03:14.44,0:03:15.21,DEFAULT,,0,0,0,,{\kf15}You're{\kf26} mad{\kf12} 'cause
-Dialogue: 0,0:03:15.36,0:03:16.47,DEFAULT,,0,0,0,,{\kf12}Your{\kf15} love{\kf15} does{\kf15}n't{\kf23} count
-Dialogue: 0,0:03:16.70,0:03:17.88,DEFAULT,,0,0,0,,{\kf12}Des{\kf12}pite{\kf15} what{\kf15} you're{\kf30} told
-Dialogue: 0,0:04:01.77,0:04:04.51,DEFAULT,,0,0,0,,{\kf23}I{\kf26} start{\kf26} all{\kf26} the{\kf30} fires{\kf15} to{\kf30}night
-Dialogue: 0,0:04:04.88,0:04:08.14,DEFAULT,,0,0,0,,{\kf26}As{\kf26} you{\kf30} wan{\kf30}der{\kf23} in{\kf26} aim{\kf19}less{\kf41} flight
-Dialogue: 0,0:04:08.88,0:04:11.66,DEFAULT,,0,0,0,,{\kf26}You're{\kf30} con{\kf26}vinced{\kf26} that{\kf34} you{\kf15} were{\kf34} right
-Dialogue: 0,0:04:11.99,0:04:15.25,DEFAULT,,0,0,0,,{\kf30}While{\kf15} I{\kf12}~{\kf26} i{\kf30}gnite{\kf30} the{\kf30} skies{\kf15} to{\kf38}night
-Dialogue: 0,0:04:15.55,0:04:17.18,DEFAULT,,0,0,0,,{\kf12}'Cause{\kf19} I'm{\kf15} back{\kf12} in{\kf12} the{\kf34} sad{\kf12}dle
-Dialogue: 0,0:04:17.32,0:04:18.25,DEFAULT,,0,0,0,,{\kf12}Back{\kf15} in{\kf15} con{\kf26}trol
-Dialogue: 0,0:04:18.40,0:04:19.21,DEFAULT,,0,0,0,,{\kf15}You're{\kf30} mad{\kf12} 'cause
-Dialogue: 0,0:04:19.36,0:04:20.73,DEFAULT,,0,0,0,,{\kf12}Your{\kf12} love{\kf12} does{\kf15}n't{\kf34} mat{\kf12}ter
-Dialogue: 0,0:04:20.88,0:04:21.70,DEFAULT,,0,0,0,,{\kf12}It's{\kf15} get{\kf12}ting{\kf19} old
-Dialogue: 0,0:04:21.95,0:04:22.73,DEFAULT,,0,0,0,,{\kf15}You're{\kf30} sad{\kf12} 'cause
-Dialogue: 0,0:04:22.88,0:04:24.29,DEFAULT,,0,0,0,,{\kf12}I'm{\kf12} back{\kf12} in{\kf12} the{\kf19} sad{\kf12}~{\kf12}dle
-Dialogue: 0,0:04:24.44,0:04:25.29,DEFAULT,,0,0,0,,{\kf12}Back{\kf12} in{\kf15} con{\kf23}trol
-Dialogue: 0,0:04:25.51,0:04:26.29,DEFAULT,,0,0,0,,{\kf15}You're{\kf26} mad{\kf12} 'cause
-Dialogue: 0,0:04:26.44,0:04:27.55,DEFAULT,,0,0,0,,{\kf12}Your{\kf15} love{\kf15} does{\kf15}n't{\kf23} count
-Dialogue: 0,0:04:27.77,0:04:28.95,DEFAULT,,0,0,0,,{\kf12}Des{\kf12}pite{\kf15} what{\kf15} you're{\kf30} told
+Dialogue: 0,0:00:58.40,0:01:01.29,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf30} saw{\kf30} you{\kf25} stand{\kf15}~{\kf20}ing{\kf149} there
+Dialogue: 0,0:01:01.74,0:01:04.59,DEFAULT,,0,0,0,,{\r}{\kf20}With{\kf30}out{\kf20}~{\kf25} an{\kf75} ex{\kf25}pla{\kf35}na{\kf55}tion
+Dialogue: 0,0:01:05.48,0:01:08.26,DEFAULT,,0,0,0,,{\r}{\kf24}You{\kf44} say{\kf39} that{\kf34} you{\kf20} don't{\kf117} care
+Dialogue: 0,0:01:08.85,0:01:11.77,DEFAULT,,0,0,0,,{\r}{\kf20}A{\kf39}bout{\kf20} my{\kf20}~{\kf68} dis{\kf24}po{\kf39}si{\kf63}tion
+Dialogue: 0,0:01:12.63,0:01:15.40,DEFAULT,,0,0,0,,{\r}{\kf26}Well{\kf26} I've{\kf41} got{\kf46} news{\kf21} for{\kf26} you{\kf26}~{\kf66}~
+Dialogue: 0,0:01:15.92,0:01:18.89,DEFAULT,,0,0,0,,{\r}{\kf26}I'm{\kf36} tak{\kf42}ing{\kf36} back{\kf36} what's{\kf26} mine{\kf26}~{\kf68}~
+Dialogue: 0,0:01:19.74,0:01:22.70,DEFAULT,,0,0,0,,{\r}{\kf20}Just{\kf31} one{\kf36} thing{\kf36} left{\kf26} to{\kf26} do{\kf26}~{\kf95}~
+Dialogue: 0,0:01:23.00,0:01:24.81,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf34} think{\kf34}~{\kf28} that{\kf23} it{\kf17}~{\kf22} is
+Dialogue: 0,0:01:25.07,0:01:28.44,DEFAULT,,0,0,0,,{\r}{\kf66}Time{\kf22} to{\kf66} face{\kf22} the{\kf66} rain{\kf28} a{\kf33}gain{\kf34} as
+Dialogue: 0,0:01:28.66,0:01:30.89,DEFAULT,,0,0,0,,{\r}{\kf36}I{\kf41} stand{\kf36} all{\kf26} a{\kf21}~{\kf62}lone
+Dialogue: 0,0:01:32.26,0:01:35.11,DEFAULT,,0,0,0,,{\r}{\kf21}No{\kf37} need{\kf21} to{\kf58} face{\kf21} the{\kf74} pain{\kf21} a{\kf32}gain
+Dialogue: 0,0:01:35.33,0:01:39.07,DEFAULT,,0,0,0,,{\r}{\kf32}I'll{\kf32} make{\kf37} it{\kf42} on{\kf47} my{\kf26} own{\kf47}~{\kf26}~{\kf85}~
+Dialogue: 0,0:01:39.55,0:01:42.29,DEFAULT,,0,0,0,,{\r}{\kf35}I{\kf41} start{\kf41} all{\kf41} the{\kf47} fires{\kf23} to{\kf46}night
+Dialogue: 0,0:01:42.66,0:01:45.92,DEFAULT,,0,0,0,,{\r}{\kf39}As{\kf39} you{\kf44} wan{\kf44}der{\kf33} in{\kf39} aim{\kf28}less{\kf60} flight
+Dialogue: 0,0:01:46.66,0:01:49.44,DEFAULT,,0,0,0,,{\r}{\kf38}You're{\kf44} con{\kf38}vinced{\kf38} that{\kf49} you{\kf22} were{\kf49} right
+Dialogue: 0,0:01:49.77,0:01:53.03,DEFAULT,,0,0,0,,{\r}{\kf43}While{\kf22} I{\kf16}~{\kf38} i{\kf43}gnite{\kf43} the{\kf43} skies{\kf22} to{\kf56}night
+Dialogue: 0,0:01:53.33,0:01:54.96,DEFAULT,,0,0,0,,{\r}{\kf16}'Cause{\kf27} I'm{\kf22} back{\kf16} in{\kf16} the{\kf49} sad{\kf17}dle
+Dialogue: 0,0:01:55.11,0:01:56.03,DEFAULT,,0,0,0,,{\r}{\kf16}Back{\kf21} in{\kf21} con{\kf35}trol
+Dialogue: 0,0:01:56.18,0:01:57.00,DEFAULT,,0,0,0,,{\r}{\kf22}You're{\kf43} mad{\kf16} 'cause
+Dialogue: 0,0:01:57.14,0:01:58.52,DEFAULT,,0,0,0,,{\r}{\kf16}Your{\kf16} love{\kf16} does{\kf22}n't{\kf49} mat{\kf18}ter
+Dialogue: 0,0:01:58.66,0:01:59.48,DEFAULT,,0,0,0,,{\r}{\kf16}It's{\kf22} get{\kf16}ting{\kf27} old
+Dialogue: 0,0:01:59.74,0:02:00.52,DEFAULT,,0,0,0,,{\r}{\kf21}You're{\kf42} sad{\kf15} 'cause
+Dialogue: 0,0:02:00.66,0:02:02.07,DEFAULT,,0,0,0,,{\r}{\kf18}I'm{\kf18} back{\kf18} in{\kf18} the{\kf31} sad{\kf18}~{\kf20}dle
+Dialogue: 0,0:02:02.22,0:02:03.07,DEFAULT,,0,0,0,,{\r}{\kf16}Back{\kf16} in{\kf21} con{\kf32}trol
+Dialogue: 0,0:02:03.29,0:02:04.07,DEFAULT,,0,0,0,,{\r}{\kf22}You're{\kf39} mad{\kf17} 'cause
+Dialogue: 0,0:02:04.22,0:02:05.33,DEFAULT,,0,0,0,,{\r}{\kf16}Your{\kf21} love{\kf21} does{\kf21}n't{\kf32} count
+Dialogue: 0,0:02:05.55,0:02:06.74,DEFAULT,,0,0,0,,{\r}{\kf16}Des{\kf16}pite{\kf22} what{\kf22} you're{\kf43} told
+Dialogue: 0,0:02:09.37,0:02:12.07,DEFAULT,,0,0,0,,{\r}{\kf31}The{\kf42} task{\kf42} is{\kf36} now{\kf21} at{\kf98} hand
+Dialogue: 0,0:02:12.85,0:02:15.77,DEFAULT,,0,0,0,,{\r}{\kf21}To{\kf43} stand{\kf37} up{\kf59} and{\kf27} de{\kf43}fy{\kf63} you
+Dialogue: 0,0:02:16.52,0:02:19.48,DEFAULT,,0,0,0,,{\r}{\kf29}You're{\kf48} do{\kf33}ing{\kf38} all{\kf19} you{\kf129} can
+Dialogue: 0,0:02:19.96,0:02:22.89,DEFAULT,,0,0,0,,{\r}{\kf21}To{\kf36} make{\kf46} sure{\kf67} I{\kf21} don't{\kf36} get{\kf66} through
+Dialogue: 0,0:02:23.77,0:02:26.63,DEFAULT,,0,0,0,,{\r}{\kf24}Well{\kf34} I've{\kf39} got{\kf43} news{\kf24} for{\kf19} you{\kf19}~{\kf83}~
+Dialogue: 0,0:02:27.07,0:02:30.00,DEFAULT,,0,0,0,,{\r}{\kf25}You're{\kf45} run{\kf35}ning{\kf45} out{\kf35} of{\kf25} time{\kf25}~{\kf58}~
+Dialogue: 0,0:02:30.81,0:02:33.74,DEFAULT,,0,0,0,,{\r}{\kf21}Just{\kf36} one{\kf46} thing{\kf36} left{\kf21} to{\kf21} do{\kf26}~{\kf86}~
+Dialogue: 0,0:02:34.22,0:02:36.66,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf25} think{\kf40}~{\kf25} that{\kf20} it{\kf20}~{\kf30} is{\kf64} time
+Dialogue: 0,0:02:36.85,0:02:39.11,DEFAULT,,0,0,0,,{\r}{\kf21}To{\kf68} face{\kf21} the{\kf63} hate{\kf21} a{\kf32}gain
+Dialogue: 0,0:02:39.33,0:02:42.00,DEFAULT,,0,0,0,,{\r}{\kf28}As{\kf40} I{\kf28} tear{\kf17}~{\kf40} down{\kf45} your{\kf69} throne
+Dialogue: 0,0:02:43.59,0:02:46.26,DEFAULT,,0,0,0,,{\r}{\kf36}If{\kf21} you{\kf62} try{\kf21} to{\kf72} lead{\kf21} the{\kf34} way
+Dialogue: 0,0:02:46.44,0:02:50.11,DEFAULT,,0,0,0,,{\r}{\kf39}I'll{\kf39} have{\kf33} to{\kf39} go{\kf33} a{\kf28}lone{\kf44}~{\kf28}~{\kf84}~
+Dialogue: 0,0:02:50.70,0:02:53.44,DEFAULT,,0,0,0,,{\r}{\kf35}I{\kf41} start{\kf41} all{\kf41} the{\kf47} fires{\kf23} to{\kf46}night
+Dialogue: 0,0:02:53.81,0:02:57.07,DEFAULT,,0,0,0,,{\r}{\kf39}As{\kf39} you{\kf44} wan{\kf44}der{\kf33} in{\kf39} aim{\kf28}less{\kf60} flight
+Dialogue: 0,0:02:57.81,0:03:00.59,DEFAULT,,0,0,0,,{\r}{\kf38}You're{\kf44} con{\kf38}vinced{\kf38} that{\kf49} you{\kf22} were{\kf49} right
+Dialogue: 0,0:03:00.92,0:03:04.18,DEFAULT,,0,0,0,,{\r}{\kf43}While{\kf22} I{\kf16}~{\kf38} i{\kf43}gnite{\kf43} the{\kf43} skies{\kf22} to{\kf56}night
+Dialogue: 0,0:03:04.48,0:03:06.11,DEFAULT,,0,0,0,,{\r}{\kf16}'Cause{\kf27} I'm{\kf22} back{\kf16} in{\kf16} the{\kf49} sad{\kf17}dle
+Dialogue: 0,0:03:06.26,0:03:07.18,DEFAULT,,0,0,0,,{\r}{\kf16}Back{\kf21} in{\kf21} con{\kf35}trol
+Dialogue: 0,0:03:07.33,0:03:08.14,DEFAULT,,0,0,0,,{\r}{\kf22}You're{\kf43} mad{\kf16} 'cause
+Dialogue: 0,0:03:08.29,0:03:09.66,DEFAULT,,0,0,0,,{\r}{\kf16}Your{\kf16} love{\kf16} does{\kf22}n't{\kf49} mat{\kf18}ter
+Dialogue: 0,0:03:09.81,0:03:10.63,DEFAULT,,0,0,0,,{\r}{\kf16}It's{\kf22} get{\kf16}ting{\kf27} old
+Dialogue: 0,0:03:10.89,0:03:11.66,DEFAULT,,0,0,0,,{\r}{\kf21}You're{\kf42} sad{\kf15} 'cause
+Dialogue: 0,0:03:11.81,0:03:13.22,DEFAULT,,0,0,0,,{\r}{\kf18}I'm{\kf18} back{\kf18} in{\kf18} the{\kf31} sad{\kf18}~{\kf20}dle
+Dialogue: 0,0:03:13.37,0:03:14.22,DEFAULT,,0,0,0,,{\r}{\kf16}Back{\kf16} in{\kf21} con{\kf32}trol
+Dialogue: 0,0:03:14.44,0:03:15.22,DEFAULT,,0,0,0,,{\r}{\kf22}You're{\kf39} mad{\kf17} 'cause
+Dialogue: 0,0:03:15.37,0:03:16.48,DEFAULT,,0,0,0,,{\r}{\kf16}Your{\kf21} love{\kf21} does{\kf21}n't{\kf32} count
+Dialogue: 0,0:03:16.70,0:03:17.89,DEFAULT,,0,0,0,,{\r}{\kf16}Des{\kf16}pite{\kf22} what{\kf22} you're{\kf43} told
+Dialogue: 0,0:04:01.77,0:04:04.52,DEFAULT,,0,0,0,,{\r}{\kf35}I{\kf41} start{\kf41} all{\kf41} the{\kf47} fires{\kf23} to{\kf46}night
+Dialogue: 0,0:04:04.89,0:04:08.14,DEFAULT,,0,0,0,,{\r}{\kf39}As{\kf39} you{\kf44} wan{\kf44}der{\kf33} in{\kf39} aim{\kf28}less{\kf60} flight
+Dialogue: 0,0:04:08.89,0:04:11.66,DEFAULT,,0,0,0,,{\r}{\kf38}You're{\kf44} con{\kf38}vinced{\kf38} that{\kf49} you{\kf22} were{\kf49} right
+Dialogue: 0,0:04:12.00,0:04:15.26,DEFAULT,,0,0,0,,{\r}{\kf43}While{\kf22} I{\kf16}~{\kf38} i{\kf43}gnite{\kf43} the{\kf43} skies{\kf22} to{\kf56}night
+Dialogue: 0,0:04:15.55,0:04:17.18,DEFAULT,,0,0,0,,{\r}{\kf16}'Cause{\kf27} I'm{\kf22} back{\kf16} in{\kf16} the{\kf49} sad{\kf17}dle
+Dialogue: 0,0:04:17.33,0:04:18.26,DEFAULT,,0,0,0,,{\r}{\kf16}Back{\kf21} in{\kf21} con{\kf35}trol
+Dialogue: 0,0:04:18.40,0:04:19.22,DEFAULT,,0,0,0,,{\r}{\kf22}You're{\kf43} mad{\kf16} 'cause
+Dialogue: 0,0:04:19.37,0:04:20.74,DEFAULT,,0,0,0,,{\r}{\kf16}Your{\kf16} love{\kf16} does{\kf22}n't{\kf49} mat{\kf18}ter
+Dialogue: 0,0:04:20.89,0:04:21.70,DEFAULT,,0,0,0,,{\r}{\kf16}It's{\kf22} get{\kf16}ting{\kf27} old
+Dialogue: 0,0:04:21.96,0:04:22.74,DEFAULT,,0,0,0,,{\r}{\kf21}You're{\kf42} sad{\kf15} 'cause
+Dialogue: 0,0:04:22.89,0:04:24.29,DEFAULT,,0,0,0,,{\r}{\kf18}I'm{\kf18} back{\kf18} in{\kf18} the{\kf31} sad{\kf18}~{\kf20}dle
+Dialogue: 0,0:04:24.44,0:04:25.29,DEFAULT,,0,0,0,,{\r}{\kf16}Back{\kf16} in{\kf21} con{\kf32}trol
+Dialogue: 0,0:04:25.52,0:04:26.29,DEFAULT,,0,0,0,,{\r}{\kf22}You're{\kf39} mad{\kf17} 'cause
+Dialogue: 0,0:04:26.44,0:04:27.55,DEFAULT,,0,0,0,,{\r}{\kf16}Your{\kf21} love{\kf21} does{\kf21}n't{\kf32} count
+Dialogue: 0,0:04:27.77,0:04:28.96,DEFAULT,,0,0,0,,{\r}{\kf16}Des{\kf16}pite{\kf22} what{\kf22} you're{\kf43} told

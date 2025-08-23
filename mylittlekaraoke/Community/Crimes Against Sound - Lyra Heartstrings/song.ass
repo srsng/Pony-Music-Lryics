@@ -1,30 +1,37 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Lyra Heartstrings
+Artist: Crimes Against Sound
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:46.74,0:00:49.68,DEFAULT,,0,0,0,,{\kf38}Play{\kf14} the{\kf19} gui{\kf159}tar{\kf33}~
-Dialogue: 0,0:00:50.05,0:00:54.33,DEFAULT,,0,0,0,,{\kf47}Play{\kf14} it{\kf14} a{\kf84}gain{\kf14}~,{\kf28} my{\kf80} po{\kf80}ne
-Dialogue: 0,0:00:56.10,0:00:59.04,DEFAULT,,0,0,0,,{\kf108}May{\kf19}be{\kf19} I'm{\kf108} cold
-Dialogue: 0,0:00:59.27,0:01:05.14,DEFAULT,,0,0,0,,{\kf19}But{\kf75} at{\kf38} least{\kf28} you're{\kf112} safe{\kf28} I{\kf205} think
-Dialogue: 0,0:01:06.03,0:01:09.15,DEFAULT,,0,0,0,,{\kf14}There{\kf24} is{\kf103} no{\kf14} o{\kf24}ther{\kf94} mare
-Dialogue: 0,0:01:09.38,0:01:12.46,DEFAULT,,0,0,0,,{\kf14}Like{\kf28} this{\kf14} u{\kf19}ni{\kf187}corn
-Dialogue: 0,0:01:12.97,0:01:16.37,DEFAULT,,0,0,0,,{\kf24}The{\kf108} one{\kf14} that{\kf24} they{\kf126} call
-Dialogue: 0,0:01:16.65,0:01:22.00,DEFAULT,,0,0,0,,{\kf75}Ly{\kf70}ra{\kf42} Heart{\kf24}~{\kf266}strings
-Dialogue: 0,0:01:23.87,0:01:29.37,DEFAULT,,0,0,0,,{\kf24}Play{\kf14} it{\kf14} a{\kf56}gain,{\kf28} Ly{\kf14}ra{\kf33} Heart{\kf126}strings{\kf70}~{\kf66}~
-Dialogue: 0,0:01:36.45,0:01:39.01,DEFAULT,,0,0,0,,{\kf28}Whe{\kf19}ther{\kf24} you{\kf164} go
-Dialogue: 0,0:01:39.94,0:01:42.73,DEFAULT,,0,0,0,,{\kf75}Whe{\kf33}ther{\kf28} you{\kf108} stay
-Dialogue: 0,0:01:42.97,0:01:46.18,DEFAULT,,0,0,0,,{\kf19}Bring{\kf52} friend{\kf178}ship{\kf14}~
-Dialogue: 0,0:01:46.74,0:01:49.63,DEFAULT,,0,0,0,,{\kf94}Life{\kf19} can{\kf19} be{\kf117} cruel
-Dialogue: 0,0:01:49.86,0:01:56.29,DEFAULT,,0,0,0,,{\kf19}But{\kf66} we{\kf38} can{\kf24} be{\kf103} kind{\kf42} I{\kf261} think
-Dialogue: 0,0:01:56.57,0:01:59.64,DEFAULT,,0,0,0,,{\kf14}There{\kf14} is{\kf84} no{\kf24} talk{\kf24}ing{\kf84} horse
-Dialogue: 0,0:01:59.88,0:02:02.25,DEFAULT,,0,0,0,,{\kf24}As{\kf24} green{\kf19} u{\kf24}ni{\kf108}corn
-Dialogue: 0,0:02:03.56,0:02:07.05,DEFAULT,,0,0,0,,{\kf24}The{\kf98} one{\kf19} that{\kf19} they{\kf145} call
-Dialogue: 0,0:02:07.28,0:02:12.64,DEFAULT,,0,0,0,,{\kf75}Ly{\kf66}ra{\kf42} Heart{\kf38}~{\kf261}strings
-Dialogue: 0,0:02:14.23,0:02:22.10,DEFAULT,,0,0,0,,{\kf24}Play{\kf19} it{\kf19} a{\kf42}gain,{\kf24} Ly{\kf19}ra{\kf14} Heart{\kf33}~{\kf126}strings{\kf150}~{\kf205}~
+Dialogue: 0,0:00:46.75,0:00:49.68,DEFAULT,,0,0,0,,{\r}{\kf42}Play{\kf16} the{\kf21} gui{\kf178}tar{\kf36}~
+Dialogue: 0,0:00:50.05,0:00:54.34,DEFAULT,,0,0,0,,{\r}{\kf56}Play{\kf17} it{\kf17} a{\kf100}gain{\kf17}~,{\kf33} my{\kf95} po{\kf94}ne
+Dialogue: 0,0:00:56.11,0:00:59.04,DEFAULT,,0,0,0,,{\r}{\kf125}May{\kf22}be{\kf22} I'm{\kf124} cold
+Dialogue: 0,0:00:59.28,0:01:05.15,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf87} at{\kf43} least{\kf33} you're{\kf130} safe{\kf33} I{\kf239} think
+Dialogue: 0,0:01:06.03,0:01:09.15,DEFAULT,,0,0,0,,{\r}{\kf16}There{\kf27} is{\kf118} no{\kf16} o{\kf27}ther{\kf108} mare
+Dialogue: 0,0:01:09.39,0:01:12.46,DEFAULT,,0,0,0,,{\r}{\kf16}Like{\kf33} this{\kf16} u{\kf22}ni{\kf220}corn
+Dialogue: 0,0:01:12.97,0:01:16.37,DEFAULT,,0,0,0,,{\r}{\kf27}The{\kf124} one{\kf16} that{\kf27} they{\kf146} call
+Dialogue: 0,0:01:16.65,0:01:22.01,DEFAULT,,0,0,0,,{\r}{\kf84}Ly{\kf79}ra{\kf47} Heart{\kf26}~{\kf300}strings
+Dialogue: 0,0:01:23.87,0:01:29.37,DEFAULT,,0,0,0,,{\r}{\kf29}Play{\kf17} it{\kf17} a{\kf69}gain,{\kf35} Ly{\kf17}ra{\kf41} Heart{\kf156}strings{\kf87}~{\kf82}~
+Dialogue: 0,0:01:36.45,0:01:39.01,DEFAULT,,0,0,0,,{\r}{\kf31}Whe{\kf20}ther{\kf26} you{\kf179} go
+Dialogue: 0,0:01:39.94,0:01:42.74,DEFAULT,,0,0,0,,{\r}{\kf86}Whe{\kf38}ther{\kf32} you{\kf124} stay
+Dialogue: 0,0:01:42.97,0:01:46.19,DEFAULT,,0,0,0,,{\r}{\kf23}Bring{\kf63} friend{\kf218}ship{\kf17}~
+Dialogue: 0,0:01:46.75,0:01:49.63,DEFAULT,,0,0,0,,{\r}{\kf109}Life{\kf22} can{\kf22} be{\kf136} cruel
+Dialogue: 0,0:01:49.87,0:01:56.30,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf76} we{\kf44} can{\kf27} be{\kf120} kind{\kf49} I{\kf305} think
+Dialogue: 0,0:01:56.58,0:01:59.65,DEFAULT,,0,0,0,,{\r}{\kf18}There{\kf18} is{\kf106} no{\kf30} talk{\kf30}ing{\kf105} horse
+Dialogue: 0,0:01:59.88,0:02:02.26,DEFAULT,,0,0,0,,{\r}{\kf28}As{\kf28} green{\kf23} u{\kf28}ni{\kf131}corn
+Dialogue: 0,0:02:03.56,0:02:07.06,DEFAULT,,0,0,0,,{\r}{\kf27}The{\kf113} one{\kf21} that{\kf21} they{\kf167} call
+Dialogue: 0,0:02:07.29,0:02:12.65,DEFAULT,,0,0,0,,{\r}{\kf83}Ly{\kf73}ra{\kf47} Heart{\kf42}~{\kf291}strings
+Dialogue: 0,0:02:14.23,0:02:22.10,DEFAULT,,0,0,0,,{\r}{\kf27}Play{\kf22} it{\kf22} a{\kf49}gain,{\kf27} Ly{\kf22}ra{\kf16} Heart{\kf38}~{\kf148}strings{\kf175}~{\kf241}~

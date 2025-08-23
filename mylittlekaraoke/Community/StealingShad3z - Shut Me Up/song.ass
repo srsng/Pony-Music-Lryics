@@ -1,63 +1,70 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Shut Me Up
+Artist: StealingShad3z ft. Agatan
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:20.71,0:00:23.78,DEFAULT,,0,0,0,,{\kf15}Dear{\kf22} old{\kf29} friends{\kf25} say{\kf29} can{\kf29} you{\kf29} hear{\kf25} me
-Dialogue: 0,0:00:24.14,0:00:27.89,DEFAULT,,0,0,0,,{\kf15}I{\kf25} know{\kf25} it{\kf25} has{\kf40} been{\kf15} a{\kf33} long{\kf33} long{\kf50} time
-Dialogue: 0,0:00:28.43,0:00:31.89,DEFAULT,,0,0,0,,{\kf18}Since{\kf33} our{\kf33} homes{\kf18} have{\kf29} gone{\kf43} to{\kf47} fire
-Dialogue: 0,0:00:34.43,0:00:37.50,DEFAULT,,0,0,0,,{\kf15}We{\kf29} can{\kf33} re{\kf33}build{\kf25} all{\kf22} that{\kf33} we{\kf25} lost
-Dialogue: 0,0:00:37.85,0:00:41.46,DEFAULT,,0,0,0,,{\kf15}But{\kf29} to{\kf22} you{\kf25} that's{\kf33} just{\kf15} a{\kf29} waste{\kf25} of{\kf36} time
-Dialogue: 0,0:00:42.14,0:00:45.53,DEFAULT,,0,0,0,,{\kf15}So{\kf29} we{\kf33} kiss{\kf15} our{\kf25} mouths{\kf61} good{\kf40}bye
-Dialogue: 0,0:00:48.78,0:00:51.78,DEFAULT,,0,0,0,,{\kf15}So{\kf25} will{\kf25} you{\kf15} list{\kf18}en{\kf15} to{\kf11} the{\kf15} words{\kf25} I{\kf40} say
-Dialogue: 0,0:00:52.21,0:00:55.32,DEFAULT,,0,0,0,,{\kf15}At{\kf15} least{\kf22} to{\kf18} let{\kf18}~{\kf29} me{\kf18} hope{\kf18} one{\kf22} day{\kf25}~
-Dialogue: 0,0:00:55.82,0:00:58.32,DEFAULT,,0,0,0,,{\kf18}Things{\kf22} will{\kf18} change{\kf15}~{\kf22} for{\kf15} the{\kf22} bet{\kf50}ter
-Dialogue: 0,0:00:59.03,0:01:02.03,DEFAULT,,0,0,0,,{\kf15}They{\kf29} tried{\kf25} to{\kf25} shut{\kf18} me{\kf29} up{\kf22} this{\kf40} time
-Dialogue: 0,0:01:02.75,0:01:05.50,DEFAULT,,0,0,0,,{\kf15}I{\kf22} know{\kf18} that{\kf22}~{\kf22} they{\kf22} see{\kf22} the{\kf43} signs
-Dialogue: 0,0:01:05.89,0:01:09.18,DEFAULT,,0,0,0,,{\kf18}Com{\kf18}mu{\kf25}ni{\kf25}ca{\kf22}tion{\kf22} is{\kf22} so{\kf25} cru{\kf25}cial
-Dialogue: 0,0:01:09.43,0:01:12.50,DEFAULT,,0,0,0,,{\kf25}Why{\kf22} did{\kf18} they{\kf25} have{\kf15} to{\kf29} be{\kf33} so{\kf36} blind
-Dialogue: 0,0:01:12.78,0:01:15.82,DEFAULT,,0,0,0,,{\kf18}You{\kf29} think{\kf29} e{\kf15}mo{\kf11}~{\kf22}tions{\kf25} can{\kf25} be{\kf33} drowned
-Dialogue: 0,0:01:16.21,0:01:19.18,DEFAULT,,0,0,0,,{\kf15}Well{\kf11} that{\kf22} is{\kf25} false{\kf18} and{\kf22} I'll{\kf18} tell{\kf22} you{\kf36} how
-Dialogue: 0,0:01:19.64,0:01:22.89,DEFAULT,,0,0,0,,{\kf18}If{\kf15} an{\kf22}ger{\kf25} burns{\kf22} you{\kf15} then{\kf15} I{\kf29} have{\kf25} bad{\kf25} news
-Dialogue: 0,0:01:23.10,0:01:26.53,DEFAULT,,0,0,0,,{\kf22}That{\kf25} the{\kf33} world{\kf25} ain't{\kf25} fi{\kf29}re{\kf29}proof{\kf18}~
-Dialogue: 0,0:01:39.60,0:01:42.64,DEFAULT,,0,0,0,,{\kf15}Dear{\kf18} old{\kf25} friends{\kf25} say{\kf22} can{\kf22} you{\kf29} hear{\kf29} me
-Dialogue: 0,0:01:42.96,0:01:46.89,DEFAULT,,0,0,0,,{\kf18}With{\kf18} the{\kf25} rain{\kf29} I{\kf25} know{\kf15}~{\kf25} things{\kf18} seem{\kf43} so{\kf47} low
-Dialogue: 0,0:01:47.32,0:01:50.71,DEFAULT,,0,0,0,,{\kf15}But{\kf22} there's{\kf29} some{\kf22}thing{\kf25} you{\kf43} should{\kf43} know
-Dialogue: 0,0:01:53.32,0:01:56.35,DEFAULT,,0,0,0,,{\kf15}What{\kf18} is{\kf25} fear{\kf25} and{\kf25} pa{\kf22}ra{\kf25}no{\kf25}ia
-Dialogue: 0,0:01:56.68,0:02:00.46,DEFAULT,,0,0,0,,{\kf18}We{\kf25} just{\kf18} need{\kf22} to{\kf36} fil{\kf22}ter{\kf18} out{\kf25} our{\kf33} flames
-Dialogue: 0,0:02:00.82,0:02:04.53,DEFAULT,,0,0,0,,{\kf15}To{\kf15} bring{\kf29} back{\kf33} all{\kf15} the{\kf25} fun{\kf43} and{\kf54} games
-Dialogue: 0,0:02:07.68,0:02:10.68,DEFAULT,,0,0,0,,{\kf15}So{\kf18} will{\kf22} you{\kf22} list{\kf15}en{\kf15} to{\kf15} the{\kf15} words{\kf22} I{\kf43} say
-Dialogue: 0,0:02:11.25,0:02:14.10,DEFAULT,,0,0,0,,{\kf18}When{\kf25} I{\kf22} know{\kf18} you{\kf22} can't{\kf18} do{\kf18} the{\kf47} same
-Dialogue: 0,0:02:14.71,0:02:17.07,DEFAULT,,0,0,0,,{\kf15}I{\kf29} know{\kf25} things{\kf22} will{\kf15} get{\kf18} bet{\kf36}ter
-Dialogue: 0,0:02:17.96,0:02:20.96,DEFAULT,,0,0,0,,{\kf11}They{\kf25} tried{\kf22} to{\kf25} shut{\kf15} me{\kf25} up{\kf22} this{\kf40} time
-Dialogue: 0,0:02:21.60,0:02:24.39,DEFAULT,,0,0,0,,{\kf15}I{\kf25} know{\kf18} that{\kf25}~{\kf18} they{\kf15} see{\kf15} the{\kf43} signs
-Dialogue: 0,0:02:24.82,0:02:28.03,DEFAULT,,0,0,0,,{\kf15}Com{\kf15}mu{\kf25}ni{\kf29}ca{\kf25}tion{\kf25} is{\kf25} so{\kf22} cru{\kf25}cial
-Dialogue: 0,0:02:28.25,0:02:31.28,DEFAULT,,0,0,0,,{\kf22}Why{\kf25} did{\kf15} they{\kf11} have{\kf18}~{\kf11} to{\kf22} be{\kf33} so{\kf33} blind
-Dialogue: 0,0:02:31.71,0:02:34.75,DEFAULT,,0,0,0,,{\kf15}You{\kf18} think{\kf25} e{\kf18}mo{\kf15}~{\kf15}tions{\kf22} can{\kf29} be{\kf40} drowned
-Dialogue: 0,0:02:35.10,0:02:38.10,DEFAULT,,0,0,0,,{\kf15}Well{\kf15} that{\kf22} is{\kf15} false{\kf22}~{\kf15} and{\kf18} I'll{\kf18} tell{\kf22} you{\kf43} how
-Dialogue: 0,0:02:38.50,0:02:41.71,DEFAULT,,0,0,0,,{\kf15}If{\kf15} an{\kf22}ger{\kf33} burns{\kf18} you{\kf25} then{\kf15} I{\kf25} have{\kf25} bad{\kf25} news
-Dialogue: 0,0:02:41.93,0:02:45.32,DEFAULT,,0,0,0,,{\kf22}That{\kf18} the{\kf18} world{\kf18}~{\kf22} ain't{\kf22} fi{\kf33}re{\kf22}proof{\kf18}~
-Dialogue: 0,0:02:46.50,0:02:49.32,DEFAULT,,0,0,0,,{\kf33}Just{\kf33} like{\kf22} your{\kf33} words{\kf18}~{\kf72}~
-Dialogue: 0,0:02:49.71,0:02:51.75,DEFAULT,,0,0,0,,{\kf36}Will{\kf25} you{\kf18} let{\kf22} them{\kf36} burn
-Dialogue: 0,0:02:53.32,0:02:55.21,DEFAULT,,0,0,0,,{\kf29}Will{\kf25} you{\kf15} let{\kf29} them{\kf22} burn
-Dialogue: 0,0:02:55.43,0:02:57.93,DEFAULT,,0,0,0,,{\kf15}Let{\kf18} me{\kf22} in{\kf18} I'm{\kf29} wal{\kf29}low{\kf36}ing
-Dialogue: 0,0:02:58.43,0:03:00.39,DEFAULT,,0,0,0,,{\kf18}Wal{\kf22}low{\kf25}ing{\kf25} in{\kf54}side
-Dialogue: 0,0:03:02.25,0:03:06.60,DEFAULT,,0,0,0,,{\kf29}For{\kf29} just{\kf29} a{\kf15} lit{\kf29}tle{\kf18} bit{\kf50} of{\kf43} light{\kf65}~
-Dialogue: 0,0:03:08.93,0:03:12.18,DEFAULT,,0,0,0,,{\kf15}You{\kf15} kick{\kf15} me{\kf29} out{\kf29} 'cause{\kf22} I'm{\kf25} not{\kf25} like{\kf18} you{\kf22}~
-Dialogue: 0,0:03:12.53,0:03:15.60,DEFAULT,,0,0,0,,{\kf15}Can{\kf18} you{\kf15} not{\kf11}~{\kf25} see{\kf18} what{\kf29} you're{\kf18} gon{\kf15}na{\kf47} do
-Dialogue: 0,0:03:16.18,0:03:20.35,DEFAULT,,0,0,0,,{\kf11}The{\kf18} si{\kf15}lence{\kf29} will{\kf25} drive{\kf18} us{\kf33} all{\kf40} in{\kf36}sane{\kf58}~
-Dialogue: 0,0:03:20.96,0:03:22.82,DEFAULT,,0,0,0,,{\kf11}So{\kf11} what{\kf11} is{\kf25} there{\kf18} to{\kf43} gain
-Dialogue: 0,0:03:23.10,0:03:26.10,DEFAULT,,0,0,0,,{\kf11}They{\kf25} tried{\kf25} to{\kf25} shut{\kf18} me{\kf18} up{\kf22} this{\kf40} time
-Dialogue: 0,0:03:26.78,0:03:29.53,DEFAULT,,0,0,0,,{\kf15}I{\kf22} know{\kf18} that{\kf22}~{\kf18} they{\kf15}~{\kf18} see{\kf22} the{\kf47} signs
-Dialogue: 0,0:03:30.14,0:03:33.18,DEFAULT,,0,0,0,,{\kf15}Com{\kf15}mu{\kf15}ni{\kf29}ca{\kf22}tion{\kf18} is{\kf25} so{\kf22} cru{\kf25}cial
-Dialogue: 0,0:03:33.39,0:03:36.53,DEFAULT,,0,0,0,,{\kf25}Why{\kf22} did{\kf15} they{\kf11} have{\kf15}~{\kf15} to{\kf22} be{\kf33} so{\kf40} blind
-Dialogue: 0,0:03:36.78,0:03:39.89,DEFAULT,,0,0,0,,{\kf15}You{\kf22} think{\kf25} e{\kf18}mo{\kf15}~{\kf18}tions{\kf22} can{\kf33} be{\kf36} drowned
-Dialogue: 0,0:03:40.28,0:03:43.14,DEFAULT,,0,0,0,,{\kf11}Well{\kf15} that{\kf22} is{\kf18} false{\kf15}~{\kf15} and{\kf22} I'll{\kf18} tell{\kf25} you{\kf33} how
-Dialogue: 0,0:03:43.60,0:03:47.25,DEFAULT,,0,0,0,,{\kf15}If{\kf18} an{\kf29}ger{\kf29} burns{\kf18} you{\kf18} then{\kf18} I{\kf25} have{\kf22} bad{\kf25} news{\kf18} that
-Dialogue: 0,0:03:47.46,0:03:50.50,DEFAULT,,0,0,0,,{\kf22}The{\kf33} world{\kf15}~{\kf25} ain't{\kf29} fi{\kf29}re{\kf22}proof{\kf25}~
+Dialogue: 0,0:00:20.72,0:00:23.79,DEFAULT,,0,0,0,,{\r}{\kf22}Dear{\kf33} old{\kf44} friends{\kf38} say{\kf44} can{\kf44} you{\kf44} hear{\kf38} me
+Dialogue: 0,0:00:24.14,0:00:27.89,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf36} know{\kf36} it{\kf36} has{\kf57} been{\kf21} a{\kf47} long{\kf47} long{\kf74} time
+Dialogue: 0,0:00:28.43,0:00:31.89,DEFAULT,,0,0,0,,{\r}{\kf28}Since{\kf51} our{\kf51} homes{\kf28} have{\kf45} gone{\kf68} to{\kf75} fire
+Dialogue: 0,0:00:34.43,0:00:37.50,DEFAULT,,0,0,0,,{\r}{\kf21}We{\kf42} can{\kf47} re{\kf47}build{\kf36} all{\kf31} that{\kf47} we{\kf36} lost
+Dialogue: 0,0:00:37.86,0:00:41.47,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf46} to{\kf34} you{\kf40} that's{\kf52} just{\kf23} a{\kf46} waste{\kf40} of{\kf57} time
+Dialogue: 0,0:00:42.14,0:00:45.54,DEFAULT,,0,0,0,,{\r}{\kf23}So{\kf45} we{\kf51} kiss{\kf23} our{\kf40} mouths{\kf96} good{\kf61}bye
+Dialogue: 0,0:00:48.79,0:00:51.79,DEFAULT,,0,0,0,,{\r}{\kf21}So{\kf38} will{\kf38} you{\kf21} list{\kf27}en{\kf21} to{\kf16} the{\kf21} words{\kf38} I{\kf59} say
+Dialogue: 0,0:00:52.22,0:00:55.32,DEFAULT,,0,0,0,,{\r}{\kf23}At{\kf23} least{\kf34} to{\kf28} let{\kf28}~{\kf45} me{\kf28} hope{\kf28} one{\kf34} day{\kf40}~
+Dialogue: 0,0:00:55.82,0:00:58.32,DEFAULT,,0,0,0,,{\r}{\kf25}Things{\kf30} will{\kf25} change{\kf20}~{\kf30} for{\kf20} the{\kf30} bet{\kf70}ter
+Dialogue: 0,0:00:59.04,0:01:02.04,DEFAULT,,0,0,0,,{\r}{\kf21}They{\kf43} tried{\kf38} to{\kf38} shut{\kf27} me{\kf43} up{\kf32} this{\kf58} time
+Dialogue: 0,0:01:02.75,0:01:05.50,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf32} know{\kf27} that{\kf32}~{\kf32} they{\kf32} see{\kf32} the{\kf66} signs
+Dialogue: 0,0:01:05.89,0:01:09.18,DEFAULT,,0,0,0,,{\r}{\kf29}Com{\kf29}mu{\kf41}ni{\kf41}ca{\kf35}tion{\kf35} is{\kf35} so{\kf41} cru{\kf43}cial
+Dialogue: 0,0:01:09.43,0:01:12.50,DEFAULT,,0,0,0,,{\r}{\kf38}Why{\kf33} did{\kf27} they{\kf38} have{\kf22} to{\kf44} be{\kf49} so{\kf56} blind
+Dialogue: 0,0:01:12.79,0:01:15.82,DEFAULT,,0,0,0,,{\r}{\kf27}You{\kf43} think{\kf43} e{\kf21}mo{\kf16}~{\kf32}tions{\kf37} can{\kf37} be{\kf48} drowned
+Dialogue: 0,0:01:16.22,0:01:19.18,DEFAULT,,0,0,0,,{\r}{\kf23}Well{\kf17} that{\kf34} is{\kf40} false{\kf28} and{\kf34} I'll{\kf28} tell{\kf34} you{\kf58} how
+Dialogue: 0,0:01:19.64,0:01:22.89,DEFAULT,,0,0,0,,{\r}{\kf28}If{\kf22} an{\kf34}ger{\kf39} burns{\kf34} you{\kf22} then{\kf22} I{\kf45} have{\kf39} bad{\kf40} news
+Dialogue: 0,0:01:23.11,0:01:26.54,DEFAULT,,0,0,0,,{\r}{\kf36}That{\kf42} the{\kf54} world{\kf42} ain't{\kf42} fi{\kf48}re{\kf48}proof{\kf31}~
+Dialogue: 0,0:01:39.61,0:01:42.64,DEFAULT,,0,0,0,,{\r}{\kf24}Dear{\kf30} old{\kf42} friends{\kf42} say{\kf36} can{\kf36} you{\kf48} hear{\kf46} me
+Dialogue: 0,0:01:42.97,0:01:46.89,DEFAULT,,0,0,0,,{\r}{\kf27}With{\kf27} the{\kf38} rain{\kf43} I{\kf38} know{\kf22}~{\kf38} things{\kf27} seem{\kf65} so{\kf68} low
+Dialogue: 0,0:01:47.32,0:01:50.72,DEFAULT,,0,0,0,,{\r}{\kf25}But{\kf37} there's{\kf49} some{\kf37}thing{\kf43} you{\kf74} should{\kf74} know
+Dialogue: 0,0:01:53.32,0:01:56.36,DEFAULT,,0,0,0,,{\r}{\kf24}What{\kf30} is{\kf43} fear{\kf43} and{\kf43} pa{\kf36}ra{\kf43}no{\kf42}ia
+Dialogue: 0,0:01:56.68,0:02:00.47,DEFAULT,,0,0,0,,{\r}{\kf32}We{\kf44} just{\kf32} need{\kf38} to{\kf63} fil{\kf38}ter{\kf32} out{\kf44} our{\kf56} flames
+Dialogue: 0,0:02:00.82,0:02:04.54,DEFAULT,,0,0,0,,{\r}{\kf24}To{\kf24} bring{\kf47} back{\kf53} all{\kf24} the{\kf41} fun{\kf71} and{\kf87} games
+Dialogue: 0,0:02:07.68,0:02:10.68,DEFAULT,,0,0,0,,{\r}{\kf22}So{\kf27} will{\kf33} you{\kf33} list{\kf22}en{\kf22} to{\kf22} the{\kf22} words{\kf33} I{\kf64} say
+Dialogue: 0,0:02:11.25,0:02:14.11,DEFAULT,,0,0,0,,{\r}{\kf28}When{\kf38} I{\kf33} know{\kf28} you{\kf33} can't{\kf28} do{\kf28} the{\kf70} same
+Dialogue: 0,0:02:14.72,0:02:17.07,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf43} know{\kf38} things{\kf32} will{\kf21} get{\kf27} bet{\kf54}ter
+Dialogue: 0,0:02:17.97,0:02:20.97,DEFAULT,,0,0,0,,{\r}{\kf18}They{\kf41} tried{\kf35} to{\kf41} shut{\kf24} me{\kf41} up{\kf35} this{\kf65} time
+Dialogue: 0,0:02:21.61,0:02:24.39,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf41} know{\kf29} that{\kf41}~{\kf29} they{\kf23} see{\kf23} the{\kf70} signs
+Dialogue: 0,0:02:24.82,0:02:28.04,DEFAULT,,0,0,0,,{\r}{\kf23}Com{\kf23}mu{\kf39}ni{\kf45}ca{\kf39}tion{\kf39} is{\kf39} so{\kf34} cru{\kf40}cial
+Dialogue: 0,0:02:28.25,0:02:31.29,DEFAULT,,0,0,0,,{\r}{\kf35}Why{\kf41} did{\kf23} they{\kf18} have{\kf29}~{\kf18} to{\kf35} be{\kf53} so{\kf52} blind
+Dialogue: 0,0:02:31.72,0:02:34.75,DEFAULT,,0,0,0,,{\r}{\kf23}You{\kf28} think{\kf39} e{\kf28}mo{\kf23}~{\kf23}tions{\kf34} can{\kf45} be{\kf61} drowned
+Dialogue: 0,0:02:35.11,0:02:38.11,DEFAULT,,0,0,0,,{\r}{\kf21}Well{\kf21} that{\kf32} is{\kf21} false{\kf32}~{\kf21} and{\kf27} I'll{\kf27} tell{\kf32} you{\kf66} how
+Dialogue: 0,0:02:38.50,0:02:41.72,DEFAULT,,0,0,0,,{\r}{\kf21}If{\kf21} an{\kf32}ger{\kf48} burns{\kf27} you{\kf37} then{\kf21} I{\kf37} have{\kf37} bad{\kf40} news
+Dialogue: 0,0:02:41.93,0:02:45.32,DEFAULT,,0,0,0,,{\r}{\kf38}That{\kf32} the{\kf32} world{\kf32}~{\kf38} ain't{\kf38} fi{\kf58}re{\kf38}proof{\kf33}~
+Dialogue: 0,0:02:46.50,0:02:49.32,DEFAULT,,0,0,0,,{\r}{\kf44}Just{\kf44} like{\kf29} your{\kf44} words{\kf24}~{\kf97}~
+Dialogue: 0,0:02:49.72,0:02:51.75,DEFAULT,,0,0,0,,{\r}{\kf54}Will{\kf38} you{\kf27} let{\kf32} them{\kf53} burn
+Dialogue: 0,0:02:53.32,0:02:55.22,DEFAULT,,0,0,0,,{\r}{\kf46}Will{\kf40} you{\kf23} let{\kf46} them{\kf34} burn
+Dialogue: 0,0:02:55.43,0:02:57.93,DEFAULT,,0,0,0,,{\r}{\kf22}Let{\kf27} me{\kf33} in{\kf27} I'm{\kf43} wal{\kf43}low{\kf55}ing
+Dialogue: 0,0:02:58.43,0:03:00.39,DEFAULT,,0,0,0,,{\r}{\kf25}Wal{\kf29}low{\kf34}ing{\kf34} in{\kf74}side
+Dialogue: 0,0:03:02.25,0:03:06.61,DEFAULT,,0,0,0,,{\r}{\kf41}For{\kf41} just{\kf41} a{\kf21} lit{\kf41}tle{\kf26} bit{\kf72} of{\kf62} light{\kf91}~
+Dialogue: 0,0:03:08.93,0:03:12.18,DEFAULT,,0,0,0,,{\r}{\kf22}You{\kf22} kick{\kf22} me{\kf44} out{\kf44} 'cause{\kf33} I'm{\kf39} not{\kf39} like{\kf28} you{\kf32}~
+Dialogue: 0,0:03:12.54,0:03:15.61,DEFAULT,,0,0,0,,{\r}{\kf21}Can{\kf26} you{\kf21} not{\kf16}~{\kf37} see{\kf26} what{\kf42} you're{\kf26} gon{\kf21}na{\kf71} do
+Dialogue: 0,0:03:16.18,0:03:20.36,DEFAULT,,0,0,0,,{\r}{\kf16}The{\kf27} si{\kf21}lence{\kf43} will{\kf38} drive{\kf27} us{\kf48} all{\kf59} in{\kf54}sane{\kf85}~
+Dialogue: 0,0:03:20.97,0:03:22.82,DEFAULT,,0,0,0,,{\r}{\kf17}So{\kf17} what{\kf17} is{\kf39} there{\kf28} to{\kf68} gain
+Dialogue: 0,0:03:23.11,0:03:26.11,DEFAULT,,0,0,0,,{\r}{\kf18}They{\kf41} tried{\kf41} to{\kf41} shut{\kf29} me{\kf29} up{\kf35} this{\kf66} time
+Dialogue: 0,0:03:26.79,0:03:29.54,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf31} know{\kf25} that{\kf31}~{\kf25} they{\kf20}~{\kf25} see{\kf31} the{\kf67} signs
+Dialogue: 0,0:03:30.14,0:03:33.18,DEFAULT,,0,0,0,,{\r}{\kf24}Com{\kf24}mu{\kf24}ni{\kf48}ca{\kf36}tion{\kf30} is{\kf42} so{\kf36} cru{\kf40}cial
+Dialogue: 0,0:03:33.39,0:03:36.54,DEFAULT,,0,0,0,,{\r}{\kf41}Why{\kf35} did{\kf23} they{\kf17} have{\kf23}~{\kf23} to{\kf35} be{\kf52} so{\kf65} blind
+Dialogue: 0,0:03:36.79,0:03:39.89,DEFAULT,,0,0,0,,{\r}{\kf22}You{\kf33} think{\kf39} e{\kf28}mo{\kf22}~{\kf28}tions{\kf33} can{\kf50} be{\kf56} drowned
+Dialogue: 0,0:03:40.29,0:03:43.14,DEFAULT,,0,0,0,,{\r}{\kf16}Well{\kf22} that{\kf32} is{\kf27} false{\kf22}~{\kf22} and{\kf32} I'll{\kf27} tell{\kf38} you{\kf48} how
+Dialogue: 0,0:03:43.61,0:03:47.25,DEFAULT,,0,0,0,,{\r}{\kf22}If{\kf28} an{\kf45}ger{\kf45} burns{\kf28} you{\kf28} then{\kf28} I{\kf39} have{\kf34} bad{\kf39} news{\kf28} that
+Dialogue: 0,0:03:47.47,0:03:50.50,DEFAULT,,0,0,0,,{\r}{\kf33}The{\kf50} world{\kf22}~{\kf39} ain't{\kf44} fi{\kf44}re{\kf33}proof{\kf39}~

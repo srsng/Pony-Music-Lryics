@@ -1,35 +1,42 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: We Will Stand for Everfree
+Artist: Equestria Girls - Legend of Everfree
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.21,0:00:03.98,DEFAULT,,0,0,0,,{\kf15}I{\kf12} have{\kf34} wai{\kf23}ted{\kf38} for{\kf23} the{\kf27} da{\kf49}-ay
-Dialogue: 0,0:00:04.24,0:00:07.24,DEFAULT,,0,0,0,,{\kf12}To{\kf19} send{\kf12} this{\kf23} gree{\kf23}dy{\kf34} wolf{\kf19} a{\kf23}wa{\kf45}-ay
-Dialogue: 0,0:00:07.73,0:00:10.54,DEFAULT,,0,0,0,,{\kf19}Now{\kf12} the{\kf23} ma{\kf19}gic{\kf23} is{\kf30} my{\kf30} sal{\kf27}va{\kf34}tion
-Dialogue: 0,0:00:11.07,0:00:13.73,DEFAULT,,0,0,0,,{\kf15}Gat{\kf15}her{\kf27} close{\kf23} in{\kf30} my{\kf27} pro{\kf27}tec{\kf23}tion
-Dialogue: 0,0:00:13.88,0:00:22.28,DEFAULT,,0,0,0,,{\kf94}We{\kf75} will{\kf68} stand{\kf79} for{\kf68} E{\kf68}ver{\kf173}free
-Dialogue: 0,0:00:24.23,0:00:29.93,DEFAULT,,0,0,0,,{\kf23}Be{\kf30}hold{\kf15} the{\kf53} beau{\kf38}ty{\kf27} of{\kf27} na{\kf45}ture{\kf12} in{\kf19} all{\kf23} its{\kf19} glo{\kf19}-o{\kf90}ry
-Dialogue: 0,0:00:30.57,0:00:35.14,DEFAULT,,0,0,0,,{\kf27}No{\kf34} need{\kf15} to{\kf19} fe{\kf23}-ar{\kf12} the{\kf23} vul{\kf53}tures{\kf12} at{\kf12} the{\kf135} door
-Dialogue: 0,0:00:37.06,0:00:40.47,DEFAULT,,0,0,0,,{\kf23}Right{\kf27} here{\kf23} you{\kf30} have{\kf23} me{\kf27} to{\kf15} pro{\kf27}tect{\kf45} you
-Dialogue: 0,0:00:40.77,0:00:42.91,DEFAULT,,0,0,0,,{\kf15}With{\kf12}in{\kf15} these{\kf23} walls{\kf15} of{\kf105} thorns
-Dialogue: 0,0:00:43.39,0:00:48.87,DEFAULT,,0,0,0,,{\kf34}For{\kf19} E{\kf19}ver{\kf45}free,{\kf34} for{\kf23}e{\kf19}ver{\kf274} more
-Dialogue: 0,0:00:49.81,0:00:52.43,DEFAULT,,0,0,0,,{\kf15}They{\kf15} have{\kf34} come{\kf15} in{\kf15}to{\kf27} our{\kf27} do{\kf30}ma{\kf38}-in
-Dialogue: 0,0:00:52.99,0:00:55.73,DEFAULT,,0,0,0,,{\kf15}Here{\kf8} to{\kf42} seal{\kf19} our{\kf38} camp{\kf23} in{\kf19} cha{\kf53}-ins
-Dialogue: 0,0:00:56.03,0:00:58.99,DEFAULT,,0,0,0,,{\kf12}But{\kf15} we{\kf15} have{\kf23} held{\kf12} it{\kf34} for{\kf34} ge{\kf23}ne{\kf27}ra{\kf42}tions
-Dialogue: 0,0:00:59.37,0:01:01.99,DEFAULT,,0,0,0,,{\kf12}This{\kf12} is{\kf27} just{\kf15} a{\kf19} comp{\kf19}li{\kf23}ca{\kf19}tion
-Dialogue: 0,0:01:02.14,0:01:10.43,DEFAULT,,0,0,0,,{\kf83}We{\kf79} will{\kf64} stand{\kf83} for{\kf49} E{\kf64}ver{\kf192}free
-Dialogue: 0,0:01:12.53,0:01:15.79,DEFAULT,,0,0,0,,{\kf34}Trust{\kf23} in{\kf34} me,{\kf19} this{\kf12} is{\kf34} for{\kf38} your{\kf27} own{\kf38} good
-Dialogue: 0,0:01:16.62,0:01:23.22,DEFAULT,,0,0,0,,{\kf53}Don't{\kf45} be{\kf30} af{\kf83}raid,{\kf30} na{\kf42}ture{\kf30} is{\kf23} our{\kf184} friend
-Dialogue: 0,0:01:25.36,0:01:28.66,DEFAULT,,0,0,0,,{\kf23}All{\kf8} of{\kf23} this{\kf34} beau{\kf23}ty{\kf23} that{\kf23} sur{\kf45}rounds{\kf38} us
-Dialogue: 0,0:01:29.41,0:01:36.12,DEFAULT,,0,0,0,,{\kf30}Eve{\kf27}ry{\kf30} love{\kf34}ly{\kf72} bloom{\kf27} de{\kf68}signed{\kf30} to{\kf30} de{\kf195}fend
-Dialogue: 0,0:01:37.73,0:01:40.39,DEFAULT,,0,0,0,,{\kf19}Let{\kf15} them{\kf30} come,{\kf19} just{\kf27} let{\kf27} them{\kf23} try{\kf42}-y
-Dialogue: 0,0:01:40.81,0:01:43.69,DEFAULT,,0,0,0,,{\kf19}I'm{\kf15} not{\kf12} a{\kf30}bout{\kf15} to{\kf34} say{\kf27} good{\kf23}bye{\kf45}-e
-Dialogue: 0,0:01:43.99,0:01:46.99,DEFAULT,,0,0,0,,{\kf12}This{\kf15} camp{\kf12} will{\kf15} be{\kf23} here{\kf30} through{\kf27}out{\kf38} the{\kf15} a{\kf12}-a{\kf38}ges
-Dialogue: 0,0:01:47.37,0:01:50.07,DEFAULT,,0,0,0,,{\kf19}Writ{\kf19}ten{\kf15} in{\kf15}to{\kf23} the{\kf23} his{\kf27}tory{\kf38} pa{\kf23}ges
-Dialogue: 0,0:01:50.22,0:01:58.39,DEFAULT,,0,0,0,,{\kf75}We{\kf64} will{\kf68} stand{\kf79} for{\kf42} E{\kf27}-e{\kf38}ve{\kf27}-er{\kf177}free
+Dialogue: 0,0:00:01.21,0:00:03.99,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf14} have{\kf43} wai{\kf29}ted{\kf48} for{\kf29} the{\kf34} da{\kf62}-ay
+Dialogue: 0,0:00:04.25,0:00:07.25,DEFAULT,,0,0,0,,{\r}{\kf16}To{\kf27} send{\kf16} this{\kf33} gree{\kf33}dy{\kf49} wolf{\kf27} a{\kf33}wa{\kf66}-ay
+Dialogue: 0,0:00:07.74,0:00:10.55,DEFAULT,,0,0,0,,{\r}{\kf25}Now{\kf15} the{\kf30} ma{\kf25}gic{\kf30} is{\kf39} my{\kf39} sal{\kf35}va{\kf43}tion
+Dialogue: 0,0:00:11.07,0:00:13.74,DEFAULT,,0,0,0,,{\r}{\kf22}Gat{\kf22}her{\kf38} close{\kf33} in{\kf43} my{\kf38} pro{\kf38}tec{\kf32}tion
+Dialogue: 0,0:00:13.89,0:00:22.29,DEFAULT,,0,0,0,,{\r}{\kf127}We{\kf101} will{\kf91} stand{\kf106} for{\kf91} E{\kf91}ver{\kf233}free
+Dialogue: 0,0:00:24.24,0:00:29.94,DEFAULT,,0,0,0,,{\r}{\kf29}Be{\kf39}hold{\kf20} the{\kf69} beau{\kf49}ty{\kf34} of{\kf34} na{\kf59}ture{\kf15} in{\kf25} all{\kf29} its{\kf25} glo{\kf25}-o{\kf118}ry
+Dialogue: 0,0:00:30.57,0:00:35.15,DEFAULT,,0,0,0,,{\r}{\kf33}No{\kf43} need{\kf19} to{\kf24} fe{\kf29}-ar{\kf14} the{\kf29} vul{\kf67}tures{\kf14} at{\kf14} the{\kf172} door
+Dialogue: 0,0:00:37.06,0:00:40.47,DEFAULT,,0,0,0,,{\r}{\kf32}Right{\kf38} here{\kf32} you{\kf43} have{\kf32} me{\kf38} to{\kf22} pro{\kf38}tect{\kf66} you
+Dialogue: 0,0:00:40.77,0:00:42.91,DEFAULT,,0,0,0,,{\r}{\kf17}With{\kf13}in{\kf17} these{\kf26} walls{\kf17} of{\kf124} thorns
+Dialogue: 0,0:00:43.40,0:00:48.87,DEFAULT,,0,0,0,,{\r}{\kf40}For{\kf22} E{\kf22}ver{\kf53}free,{\kf40} for{\kf26}e{\kf22}ver{\kf322} more
+Dialogue: 0,0:00:49.81,0:00:52.44,DEFAULT,,0,0,0,,{\r}{\kf18}They{\kf18} have{\kf41} come{\kf18} in{\kf18}to{\kf32} our{\kf32} do{\kf37}ma{\kf48}-in
+Dialogue: 0,0:00:53.00,0:00:55.74,DEFAULT,,0,0,0,,{\r}{\kf19}Here{\kf10} to{\kf53} seal{\kf24} our{\kf48} camp{\kf29} in{\kf24} cha{\kf67}-ins
+Dialogue: 0,0:00:56.04,0:00:59.00,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf19} we{\kf19} have{\kf29} held{\kf14} it{\kf43} for{\kf43} ge{\kf29}ne{\kf33}ra{\kf53}tions
+Dialogue: 0,0:00:59.37,0:01:02.00,DEFAULT,,0,0,0,,{\r}{\kf21}This{\kf21} is{\kf48} just{\kf28} a{\kf34} comp{\kf34}li{\kf41}ca{\kf35}tion
+Dialogue: 0,0:01:02.15,0:01:10.44,DEFAULT,,0,0,0,,{\r}{\kf112}We{\kf107} will{\kf86} stand{\kf112} for{\kf66} E{\kf86}ver{\kf260}free
+Dialogue: 0,0:01:12.54,0:01:15.80,DEFAULT,,0,0,0,,{\r}{\kf43}Trust{\kf29} in{\kf43} me,{\kf24} this{\kf14} is{\kf43} for{\kf48} your{\kf34} own{\kf48} good
+Dialogue: 0,0:01:16.62,0:01:23.22,DEFAULT,,0,0,0,,{\r}{\kf67}Don't{\kf57} be{\kf38} af{\kf105}raid,{\kf38} na{\kf53}ture{\kf38} is{\kf29} our{\kf235} friend
+Dialogue: 0,0:01:25.36,0:01:28.66,DEFAULT,,0,0,0,,{\r}{\kf31}All{\kf10} of{\kf31} this{\kf47} beau{\kf31}ty{\kf31} that{\kf31} sur{\kf63}rounds{\kf55} us
+Dialogue: 0,0:01:29.41,0:01:36.12,DEFAULT,,0,0,0,,{\r}{\kf37}Eve{\kf33}ry{\kf37} love{\kf42}ly{\kf89} bloom{\kf33} de{\kf84}signed{\kf37} to{\kf37} de{\kf242}fend
+Dialogue: 0,0:01:37.74,0:01:40.40,DEFAULT,,0,0,0,,{\r}{\kf25}Let{\kf20} them{\kf40} come,{\kf25} just{\kf35} let{\kf35} them{\kf30} try{\kf56}-y
+Dialogue: 0,0:01:40.81,0:01:43.70,DEFAULT,,0,0,0,,{\r}{\kf25}I'm{\kf20} not{\kf15} a{\kf40}bout{\kf20} to{\kf45} say{\kf35} good{\kf30}bye{\kf59}-e
+Dialogue: 0,0:01:44.00,0:01:47.00,DEFAULT,,0,0,0,,{\r}{\kf15}This{\kf19} camp{\kf15} will{\kf19} be{\kf29} here{\kf39} through{\kf34}out{\kf48} the{\kf19} a{\kf15}-a{\kf48}ges
+Dialogue: 0,0:01:47.37,0:01:50.07,DEFAULT,,0,0,0,,{\r}{\kf25}Writ{\kf25}ten{\kf20} in{\kf20}to{\kf31} the{\kf31} his{\kf36}tory{\kf51} pa{\kf31}ges
+Dialogue: 0,0:01:50.22,0:01:58.40,DEFAULT,,0,0,0,,{\r}{\kf103}We{\kf88} will{\kf93} stand{\kf109} for{\kf57} E{\kf36}-e{\kf52}ve{\kf36}-er{\kf243}free

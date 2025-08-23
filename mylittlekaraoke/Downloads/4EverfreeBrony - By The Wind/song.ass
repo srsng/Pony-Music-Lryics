@@ -1,54 +1,61 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: By The Wind (ft. MEMJ0123, Metajoker, CyrilTheWolf, & Whirlwind)
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by lily
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:22.86,0:00:25.71,DEFAULT,,0,0,0,,{\kf2294}O{\kf2294}~{\kf2294}ver{\kf2294} the{\kf2302} blue{\kf2294} the{\kf2294} in{\kf2294}vi{\kf2294}si{\kf2302}ble{\kf2302} cur{\kf2302}rent{\kf2382} blows
-Dialogue: 0,0:00:26.43,0:00:28.93,DEFAULT,,0,0,0,,{\kf2302}A{\kf2346} wave{\kf2302} that{\kf2314} can't{\kf2294} be{\kf2302}~{\kf2342} seen
-Dialogue: 0,0:00:29.28,0:00:33.09,DEFAULT,,0,0,0,,{\kf2302}And{\kf2326} we{\kf2326} are{\kf2294} dri{\kf2294}-i{\kf2294}ven{\kf2294} a{\kf2302}way{\kf2302} to{\kf2298} some{\kf2294}where{\kf2302} no{\kf2302}bo{\kf2302}dy{\kf2358} knows
-Dialogue: 0,0:00:34.05,0:00:36.23,DEFAULT,,0,0,0,,{\kf2302}A{\kf2334}way{\kf2302} from{\kf2314} ev{\kf2294}er{\kf2302}y{\kf2306}thing
-Dialogue: 0,0:00:36.43,0:00:41.31,DEFAULT,,0,0,0,,{\kf2318}And{\kf2298} we{\kf2310}~{\kf2294} are{\kf2326}~{\kf2302} fear{\kf2302}~{\kf2334}ful{\kf2302} for{\kf2314} both{\kf2298} our{\kf2298}~{\kf2342} lives
-Dialogue: 0,0:00:41.66,0:00:44.28,DEFAULT,,0,0,0,,{\kf2302}We{\kf2294} ma{\kf2310}-ay{\kf2318} just{\kf2326} not{\kf2302} sur{\kf2302}vi{\kf2334}-ive
-Dialogue: 0,0:00:44.52,0:00:47.02,DEFAULT,,0,0,0,,{\kf2302}Wi{\kf2310}thin{\kf2306} this{\kf2298} bre{\kf2417}-eeze
-Dialogue: 0,0:00:48.33,0:00:51.27,DEFAULT,,0,0,0,,{\kf2302}Wi{\kf2310}thin{\kf2306} this{\kf2306} bre{\kf2453}-eeze
-Dialogue: 0,0:00:53.33,0:00:56.39,DEFAULT,,0,0,0,,{\kf2294}O{\kf2402}-oh{\kf2298}-o{\kf2302}-oh{\kf2306} wo{\kf2294}-o{\kf2366}-oah
-Dialogue: 0,0:00:56.66,0:00:59.52,DEFAULT,,0,0,0,,{\kf2302}'Cross{\kf2302} the{\kf2302} wa{\kf2302}ter{\kf2302} by{\kf2302} the{\kf2314} wind{\kf2314} we{\kf2358} go
-Dialogue: 0,0:01:00.95,0:01:04.01,DEFAULT,,0,0,0,,{\kf2294}O{\kf2402}-oh{\kf2318}-oh{\kf2318} wo{\kf2294}-o{\kf2346}-oah
-Dialogue: 0,0:01:04.28,0:01:06.98,DEFAULT,,0,0,0,,{\kf2302}Still{\kf2302} our{\kf2302} fi{\kf2302}nal{\kf2302} stop{\kf2302} re{\kf2310}mains{\kf2314} un{\kf2342}known
-Dialogue: 0,0:01:07.38,0:01:10.24,DEFAULT,,0,0,0,,{\kf2298}If{\kf2298} we{\kf2306}~{\kf2310} could{\kf2310} sail{\kf2318} through{\kf2302} the{\kf2302} o{\kf2302}~{\kf2310}cean
-Dialogue: 0,0:01:10.47,0:01:12.18,DEFAULT,,0,0,0,,{\kf2294}Pa{\kf2302}-ad{\kf2314}dle{\kf2302} with{\kf2302} so{\kf2302}-ome{\kf2314}thing
-Dialogue: 0,0:01:12.38,0:01:14.64,DEFAULT,,0,0,0,,{\kf2318}Fate{\kf2302} mi{\kf2302}-ight{\kf2302} let{\kf2310} us{\kf2346} float
-Dialogue: 0,0:01:15.00,0:01:21.07,DEFAULT,,0,0,0,,{\kf2302}And{\kf2326} as{\kf2326} we{\kf2302} ro{\kf2588}-o{\kf2322}-o{\kf2302}-o{\kf2298}-o{\kf2354}-ow
-Dialogue: 0,0:01:21.66,0:01:23.53,DEFAULT,,0,0,0,,{\kf2298}The{\kf2302} life{\kf2294} in{\kf2294} the{\kf2302} air{\kf2302} will{\kf2294} let{\kf2294} us{\kf2302} know
-Dialogue: 0,0:01:23.81,0:01:26.47,DEFAULT,,0,0,0,,{\kf2294}Out{\kf2294}~{\kf2294} of{\kf2294} the{\kf2294} way{\kf2294} of{\kf2294} a{\kf2294}ny{\kf2298} ci{\kf2298}vil{\kf2302}i{\kf2302}za{\kf2302}tion{\kf2358} known
-Dialogue: 0,0:01:27.30,0:01:29.80,DEFAULT,,0,0,0,,{\kf2298}It{\kf2338} seems{\kf2302} wе've{\kf2314} gone{\kf2298} too{\kf2298}~{\kf2334} far
-Dialogue: 0,0:01:30.24,0:01:34.01,DEFAULT,,0,0,0,,{\kf2298}And{\kf2322} I{\kf2322} could{\kf2294} look{\kf2294}~{\kf2294} from{\kf2294} a{\kf2302} cloud{\kf2294} but{\kf2294} I'll{\kf2294} ne{\kf2294}vеr{\kf2302} leave{\kf2302} you{\kf2306} a{\kf2350}lone
-Dialogue: 0,0:01:35.00,0:01:37.26,DEFAULT,,0,0,0,,{\kf2302}For{\kf2350} when{\kf2302} the{\kf2294} tide{\kf2302}~{\kf2302} hits{\kf2314} hard
-Dialogue: 0,0:01:37.50,0:01:42.14,DEFAULT,,0,0,0,,{\kf2306}And{\kf2298} we{\kf2306}~{\kf2302} are{\kf2314}~{\kf2302} fear{\kf2302}~{\kf2350}ful{\kf2306} for{\kf2318} both{\kf2298} our{\kf2298}~{\kf2330} lives
-Dialogue: 0,0:01:42.62,0:01:45.24,DEFAULT,,0,0,0,,{\kf2298}We{\kf2294} ma{\kf2314}-ay{\kf2310} just{\kf2310} not{\kf2302} sur{\kf2302}vi{\kf2334}-ive
-Dialogue: 0,0:01:45.47,0:01:47.62,DEFAULT,,0,0,0,,{\kf2302}So{\kf2294} ma{\kf2302}~{\kf2314}ny{\kf2398} scars
-Dialogue: 0,0:01:49.28,0:01:53.05,DEFAULT,,0,0,0,,{\kf2302}So{\kf2314} ma{\kf2314}ny{\kf2306} sca{\kf2533}-ars
-Dialogue: 0,0:01:54.28,0:01:57.38,DEFAULT,,0,0,0,,{\kf2298}O{\kf2406}-oh{\kf2298}-o{\kf2306}-oh{\kf2302} wo{\kf2294}-o{\kf2370}-oah
-Dialogue: 0,0:01:57.62,0:02:00.47,DEFAULT,,0,0,0,,{\kf2302}'Cross{\kf2302} the{\kf2302} wa{\kf2302}ter{\kf2302} by{\kf2302} the{\kf2314} wind{\kf2314} we{\kf2358} go
-Dialogue: 0,0:02:01.86,0:02:05.00,DEFAULT,,0,0,0,,{\kf2298}O{\kf2398}-oh{\kf2326}-oh{\kf2322} wo{\kf2294}-o{\kf2354}-oah
-Dialogue: 0,0:02:05.24,0:02:07.93,DEFAULT,,0,0,0,,{\kf2302}Still{\kf2302} our{\kf2302} fi{\kf2302}nal{\kf2302} stop{\kf2302} re{\kf2310}mains{\kf2314} un{\kf2342}known
-Dialogue: 0,0:02:08.33,0:02:11.15,DEFAULT,,0,0,0,,{\kf2298}If{\kf2298} we{\kf2310}~{\kf2326} could{\kf2310} sail{\kf2318} through{\kf2302} the{\kf2302} o{\kf2302}~{\kf2306}cean
-Dialogue: 0,0:02:11.43,0:02:13.13,DEFAULT,,0,0,0,,{\kf2298}Pa{\kf2302}-ad{\kf2314}dle{\kf2302} with{\kf2302} so{\kf2302}-ome{\kf2314}thing
-Dialogue: 0,0:02:13.33,0:02:15.55,DEFAULT,,0,0,0,,{\kf2314}Fate{\kf2302} mi{\kf2302}-ight{\kf2302} let{\kf2310} us{\kf2342} float
-Dialogue: 0,0:02:15.95,0:02:22.86,DEFAULT,,0,0,0,,{\kf2302}And{\kf2326} as{\kf2326} we{\kf2302} ro{\kf2592}-o{\kf2322}-o{\kf2318}-o{\kf2294}-o{\kf2429}-ow
-Dialogue: 0,0:02:23.81,0:02:30.67,DEFAULT,,0,0,0,,{\kf2318}As{\kf2322} we{\kf2302} ro{\kf2592}-o{\kf2302}-o{\kf2302}-o{\kf2310}-o{\kf2298}-o{\kf2445}-ow
-Dialogue: 0,0:03:02.82,0:03:05.91,DEFAULT,,0,0,0,,{\kf2298}O{\kf2406}-oh{\kf2294}-o{\kf2310}-oh{\kf2306} wo{\kf2294}-o{\kf2366}-oah
-Dialogue: 0,0:03:06.19,0:03:09.05,DEFAULT,,0,0,0,,{\kf2302}'Cross{\kf2302} the{\kf2302} wa{\kf2302}ter{\kf2302} by{\kf2302} the{\kf2314} wind{\kf2314} we{\kf2358} go
-Dialogue: 0,0:03:10.43,0:03:13.57,DEFAULT,,0,0,0,,{\kf2298}O{\kf2406}-oh{\kf2326}-oh{\kf2318} wo{\kf2294}-o{\kf2358}-oah
-Dialogue: 0,0:03:13.81,0:03:16.55,DEFAULT,,0,0,0,,{\kf2302}Still{\kf2302} our{\kf2302} fi{\kf2302}nal{\kf2302} stop{\kf2302} re{\kf2310}mains{\kf2310} un{\kf2346}known
-Dialogue: 0,0:03:16.90,0:03:19.76,DEFAULT,,0,0,0,,{\kf2298}If{\kf2298} we{\kf2306}~{\kf2318} could{\kf2310} sail{\kf2318} through{\kf2302} the{\kf2302} o{\kf2302}~{\kf2310}cean
-Dialogue: 0,0:03:20.00,0:03:21.66,DEFAULT,,0,0,0,,{\kf2298}Pa{\kf2302}-ad{\kf2314}dle{\kf2302} with{\kf2302} so{\kf2302}-ome{\kf2310}thing
-Dialogue: 0,0:03:21.90,0:03:24.24,DEFAULT,,0,0,0,,{\kf2318}Fate{\kf2302} mi{\kf2302}-ight{\kf2302} let{\kf2310} us{\kf2354} float
-Dialogue: 0,0:03:24.52,0:03:30.59,DEFAULT,,0,0,0,,{\kf2302}And{\kf2326} as{\kf2326} we{\kf2302} ro{\kf2592}-o{\kf2322}-o{\kf2302}-o{\kf2298}-o{\kf2354}-ow
-Dialogue: 0,0:03:31.19,0:03:33.85,DEFAULT,,0,0,0,,{\kf2302}The{\kf2302} life{\kf2294} in{\kf2294} the{\kf2302} air{\kf2302} will{\kf2294} let{\kf2298} us{\kf2378} know
+Dialogue: 0,0:00:22.86,0:00:25.72,DEFAULT,,0,0,0,,{\r}{\kf10}O{\kf10}~{\kf10}ver{\kf10} the{\kf20} blue{\kf10} the{\kf10} in{\kf10}vi{\kf10}si{\kf20}ble{\kf20} cur{\kf20}rent{\kf126} blows
+Dialogue: 0,0:00:26.43,0:00:28.93,DEFAULT,,0,0,0,,{\r}{\kf20}A{\kf75} wave{\kf20} that{\kf35} can't{\kf10} be{\kf20}~{\kf70} seen
+Dialogue: 0,0:00:29.29,0:00:33.10,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf51} we{\kf51} are{\kf10} dri{\kf10}-i{\kf10}ven{\kf10} a{\kf20}way{\kf20} to{\kf15} some{\kf10}where{\kf20} no{\kf20}bo{\kf20}dy{\kf94} knows
+Dialogue: 0,0:00:34.05,0:00:36.23,DEFAULT,,0,0,0,,{\r}{\kf23}A{\kf69}way{\kf23} from{\kf40} ev{\kf11}er{\kf23}y{\kf29}thing
+Dialogue: 0,0:00:36.43,0:00:41.31,DEFAULT,,0,0,0,,{\r}{\kf49}And{\kf18} we{\kf37}~{\kf12} are{\kf61}~{\kf24} fear{\kf24}~{\kf73}ful{\kf24} for{\kf43} both{\kf18} our{\kf18}~{\kf87} lives
+Dialogue: 0,0:00:41.67,0:00:44.29,DEFAULT,,0,0,0,,{\r}{\kf21}We{\kf10} ma{\kf31}-ay{\kf42} just{\kf52} not{\kf21} sur{\kf21}vi{\kf64}-ive
+Dialogue: 0,0:00:44.53,0:00:47.03,DEFAULT,,0,0,0,,{\r}{\kf20}Wi{\kf29}thin{\kf25} this{\kf15} bre{\kf161}-eeze
+Dialogue: 0,0:00:48.34,0:00:51.27,DEFAULT,,0,0,0,,{\r}{\kf19}Wi{\kf28}thin{\kf24} this{\kf24} bre{\kf199}-eeze
+Dialogue: 0,0:00:53.34,0:00:56.39,DEFAULT,,0,0,0,,{\r}{\kf10}O{\kf137}-oh{\kf14}-o{\kf19}-oh{\kf24} wo{\kf10}-o{\kf92}-oah
+Dialogue: 0,0:00:56.67,0:00:59.53,DEFAULT,,0,0,0,,{\r}{\kf20}'Cross{\kf20} the{\kf20} wa{\kf20}ter{\kf20} by{\kf20} the{\kf36} wind{\kf36} we{\kf94} go
+Dialogue: 0,0:01:00.96,0:01:04.01,DEFAULT,,0,0,0,,{\r}{\kf10}O{\kf139}-oh{\kf38}-oh{\kf38} wo{\kf10}-o{\kf71}-oah
+Dialogue: 0,0:01:04.29,0:01:06.99,DEFAULT,,0,0,0,,{\r}{\kf21}Still{\kf21} our{\kf21} fi{\kf21}nal{\kf21} stop{\kf21} re{\kf32}mains{\kf37} un{\kf75}known
+Dialogue: 0,0:01:07.38,0:01:10.24,DEFAULT,,0,0,0,,{\r}{\kf18}If{\kf18} we{\kf29}~{\kf35} could{\kf35} sail{\kf47} through{\kf23} the{\kf23} o{\kf23}~{\kf35}cean
+Dialogue: 0,0:01:10.48,0:01:12.19,DEFAULT,,0,0,0,,{\r}{\kf11}Pa{\kf21}-ad{\kf37}dle{\kf21} with{\kf21} so{\kf21}-ome{\kf39}thing
+Dialogue: 0,0:01:12.38,0:01:14.65,DEFAULT,,0,0,0,,{\r}{\kf44}Fate{\kf22} mi{\kf22}-ight{\kf22} let{\kf33} us{\kf83} float
+Dialogue: 0,0:01:15.00,0:01:21.07,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf44} as{\kf44} we{\kf18} ro{\kf337}-o{\kf40}-o{\kf18}-o{\kf13}-o{\kf75}-ow
+Dialogue: 0,0:01:21.67,0:01:23.53,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf28} life{\kf14} in{\kf14} the{\kf28} air{\kf28} will{\kf14} let{\kf14} us{\kf26} know
+Dialogue: 0,0:01:23.81,0:01:26.47,DEFAULT,,0,0,0,,{\r}{\kf10}Out{\kf10}~{\kf10} of{\kf10} the{\kf10} way{\kf10} of{\kf10} a{\kf10}ny{\kf15} ci{\kf15}vil{\kf20}i{\kf20}za{\kf20}tion{\kf96} known
+Dialogue: 0,0:01:27.30,0:01:29.80,DEFAULT,,0,0,0,,{\r}{\kf17}It{\kf72} seems{\kf22} wе've{\kf39} gone{\kf17} too{\kf17}~{\kf66} far
+Dialogue: 0,0:01:30.24,0:01:34.01,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf48} I{\kf48} could{\kf11} look{\kf11}~{\kf11} from{\kf11} a{\kf22} cloud{\kf11} but{\kf11} I'll{\kf11} ne{\kf11}vеr{\kf22} leave{\kf22} you{\kf27} a{\kf84}lone
+Dialogue: 0,0:01:35.00,0:01:37.26,DEFAULT,,0,0,0,,{\r}{\kf22}For{\kf88} when{\kf22} the{\kf11} tide{\kf22}~{\kf22} hits{\kf39} hard
+Dialogue: 0,0:01:37.50,0:01:42.15,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf18} we{\kf30}~{\kf24} are{\kf42}~{\kf24} fear{\kf24}~{\kf95}ful{\kf30} for{\kf48} both{\kf18} our{\kf18}~{\kf63} lives
+Dialogue: 0,0:01:42.62,0:01:45.24,DEFAULT,,0,0,0,,{\r}{\kf18}We{\kf12} ma{\kf42}-ay{\kf36} just{\kf36} not{\kf24} sur{\kf24}vi{\kf70}-ive
+Dialogue: 0,0:01:45.48,0:01:47.62,DEFAULT,,0,0,0,,{\r}{\kf19}So{\kf10} ma{\kf19}~{\kf33}ny{\kf133} scars
+Dialogue: 0,0:01:49.29,0:01:53.06,DEFAULT,,0,0,0,,{\r}{\kf18}So{\kf31} ma{\kf31}ny{\kf22} sca{\kf275}-ars
+Dialogue: 0,0:01:54.29,0:01:57.38,DEFAULT,,0,0,0,,{\r}{\kf14}O{\kf137}-oh{\kf14}-o{\kf23}-oh{\kf18} wo{\kf10}-o{\kf94}-oah
+Dialogue: 0,0:01:57.62,0:02:00.48,DEFAULT,,0,0,0,,{\r}{\kf20}'Cross{\kf20} the{\kf20} wa{\kf20}ter{\kf20} by{\kf20} the{\kf36} wind{\kf36} we{\kf94} go
+Dialogue: 0,0:02:01.87,0:02:05.00,DEFAULT,,0,0,0,,{\r}{\kf14}O{\kf127}-oh{\kf45}-oh{\kf41} wo{\kf10}-o{\kf76}-oah
+Dialogue: 0,0:02:05.24,0:02:07.94,DEFAULT,,0,0,0,,{\r}{\kf21}Still{\kf21} our{\kf21} fi{\kf21}nal{\kf21} stop{\kf21} re{\kf32}mains{\kf37} un{\kf75}known
+Dialogue: 0,0:02:08.34,0:02:11.15,DEFAULT,,0,0,0,,{\r}{\kf16}If{\kf16} we{\kf32}~{\kf53} could{\kf32} sail{\kf43} through{\kf21} the{\kf21} o{\kf21}~{\kf27}cean
+Dialogue: 0,0:02:11.43,0:02:13.14,DEFAULT,,0,0,0,,{\r}{\kf16}Pa{\kf21}-ad{\kf36}dle{\kf21} with{\kf21} so{\kf21}-ome{\kf35}thing
+Dialogue: 0,0:02:13.34,0:02:15.56,DEFAULT,,0,0,0,,{\r}{\kf40}Fate{\kf23} mi{\kf23}-ight{\kf23} let{\kf34} us{\kf79} float
+Dialogue: 0,0:02:15.96,0:02:22.86,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf43} as{\kf43} we{\kf17} ro{\kf332}-o{\kf39}-o{\kf35}-o{\kf10}-o{\kf154}-ow
+Dialogue: 0,0:02:23.81,0:02:30.68,DEFAULT,,0,0,0,,{\r}{\kf35}As{\kf40} we{\kf18} ro{\kf341}-o{\kf18}-o{\kf18}-o{\kf27}-o{\kf13}-o{\kf177}-ow
+Dialogue: 0,0:03:02.82,0:03:05.92,DEFAULT,,0,0,0,,{\r}{\kf14}O{\kf137}-oh{\kf10}-o{\kf27}-oh{\kf23} wo{\kf10}-o{\kf89}-oah
+Dialogue: 0,0:03:06.19,0:03:09.05,DEFAULT,,0,0,0,,{\r}{\kf20}'Cross{\kf20} the{\kf20} wa{\kf20}ter{\kf20} by{\kf20} the{\kf36} wind{\kf36} we{\kf94} go
+Dialogue: 0,0:03:10.44,0:03:13.57,DEFAULT,,0,0,0,,{\r}{\kf13}O{\kf132}-oh{\kf44}-oh{\kf35} wo{\kf10}-o{\kf79}-oah
+Dialogue: 0,0:03:13.81,0:03:16.55,DEFAULT,,0,0,0,,{\r}{\kf21}Still{\kf21} our{\kf21} fi{\kf21}nal{\kf21} stop{\kf21} re{\kf32}mains{\kf32} un{\kf84}known
+Dialogue: 0,0:03:16.91,0:03:19.76,DEFAULT,,0,0,0,,{\r}{\kf17}If{\kf17} we{\kf28}~{\kf45} could{\kf34} sail{\kf45} through{\kf22} the{\kf22} o{\kf22}~{\kf34}cean
+Dialogue: 0,0:03:20.00,0:03:21.67,DEFAULT,,0,0,0,,{\r}{\kf16}Pa{\kf21}-ad{\kf37}dle{\kf21} with{\kf21} so{\kf21}-ome{\kf30}thing
+Dialogue: 0,0:03:21.91,0:03:24.25,DEFAULT,,0,0,0,,{\r}{\kf44}Fate{\kf22} mi{\kf22}-ight{\kf22} let{\kf33} us{\kf91} float
+Dialogue: 0,0:03:24.53,0:03:30.60,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf44} as{\kf44} we{\kf18} ro{\kf339}-o{\kf40}-o{\kf18}-o{\kf13}-o{\kf73}-ow
+Dialogue: 0,0:03:31.19,0:03:33.85,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf22} life{\kf11} in{\kf11} the{\kf22} air{\kf22} will{\kf11} let{\kf17} us{\kf128} know

@@ -1,63 +1,70 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Pilot Light
+Artist: The Combine (feat. Feather)
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:30.35,0:00:33.93,DEFAULT,,0,0,0,,{\kf65}Wings{\kf36} that{\kf71} can't{\kf83} fly
-Dialogue: 0,0:00:35.04,0:00:37.63,DEFAULT,,0,0,0,,{\kf24}They{\kf36} aren't{\kf47} wings{\kf30} at{\kf89} all
-Dialogue: 0,0:00:38.74,0:00:44.99,DEFAULT,,0,0,0,,{\kf24}But{\kf36} he{\kf47} told{\kf36} me{\kf65} he{\kf24} be{\kf30}lieved{\kf180}~{\kf153}~
-Dialogue: 0,0:00:45.52,0:00:47.46,DEFAULT,,0,0,0,,{\kf24}And{\kf30} now{\kf18} I'm{\kf24} on{\kf30} fire{\kf42}~
-Dialogue: 0,0:00:47.64,0:00:49.34,DEFAULT,,0,0,0,,{\kf18}And{\kf12} I'm{\kf30} fly{\kf24}ing{\kf30} high{\kf42}er
-Dialogue: 0,0:00:49.57,0:00:53.21,DEFAULT,,0,0,0,,{\kf18}Than{\kf24} I{\kf18} e{\kf30}ver{\kf65} dreamed{\kf24} be{\kf42}fore{\kf30}~{\kf77}~
-Dialogue: 0,0:00:53.74,0:01:00.02,DEFAULT,,0,0,0,,{\kf53}You{\kf36} got{\kf30}~{\kf53} me{\kf53} soa{\kf30}~{\kf288}rin'
-Dialogue: 0,0:01:30.55,0:01:32.34,DEFAULT,,0,0,0,,{\kf24}There's{\kf12} just{\kf12} one{\kf24} chance,{\kf24} one{\kf21} mo{\kf30}ment
-Dialogue: 0,0:01:32.67,0:01:34.22,DEFAULT,,0,0,0,,{\kf18}Hold{\kf15} it{\kf27} fast,{\kf24} don't{\kf21} blow{\kf33} it
-Dialogue: 0,0:01:34.87,0:01:37.95,DEFAULT,,0,0,0,,{\kf77}You{\kf50} got{\kf42} to{\kf53} stay{\kf30}~{\kf36} strong
-Dialogue: 0,0:01:38.07,0:01:39.86,DEFAULT,,0,0,0,,{\kf24}I'll{\kf18} tell{\kf15} you{\kf24} what{\kf21} he{\kf21} told{\kf39} me
-Dialogue: 0,0:01:39.98,0:01:41.77,DEFAULT,,0,0,0,,{\kf24}That{\kf27} "yes,{\kf27} you{\kf27} are{\kf24} wor{\kf39}thy"
-Dialogue: 0,0:01:42.44,0:01:45.49,DEFAULT,,0,0,0,,{\kf27}"In{\kf24} the{\kf59} sky{\kf30}~{\kf59} you{\kf24} be{\kf36}long"
-Dialogue: 0,0:01:45.64,0:01:47.23,DEFAULT,,0,0,0,,{\kf18}Now{\kf15} pick{\kf15} your{\kf24}self{\kf21} up,{\kf21} do{\kf21} it
-Dialogue: 0,0:01:47.34,0:01:49.02,DEFAULT,,0,0,0,,{\kf12}You're{\kf12} a{\kf21} Won{\kf18}der{\kf21}bolt?{\kf21} Then{\kf24} prove{\kf15} it!
-Dialogue: 0,0:01:49.90,0:01:52.92,DEFAULT,,0,0,0,,{\kf56}Your{\kf39} heart{\kf30} won't{\kf47} steer{\kf27} you{\kf36} wrong
-Dialogue: 0,0:01:53.01,0:01:54.68,DEFAULT,,0,0,0,,{\kf9}I{\kf12} can{\kf15} see{\kf12} that{\kf21} you've{\kf24} got{\kf24} ta{\kf21}lent
-Dialogue: 0,0:01:54.86,0:01:56.59,DEFAULT,,0,0,0,,{\kf15}You're{\kf12} tough,{\kf15} you're{\kf27} smart,{\kf18} you're{\kf27} gal{\kf27}lant
-Dialogue: 0,0:01:57.35,0:02:00.29,DEFAULT,,0,0,0,,{\kf56}Colt,{\kf45} ain't{\kf30} you{\kf45} gon{\kf36}na{\kf30} soar
-Dialogue: 0,0:02:00.55,0:02:02.20,DEFAULT,,0,0,0,,{\kf24}I'm{\kf21} not{\kf12} a{\kf21} mare{\kf18} to{\kf47} lie
-Dialogue: 0,0:02:02.64,0:02:04.07,DEFAULT,,0,0,0,,{\kf18}I{\kf12} just{\kf21} can't{\kf21} de{\kf45}ny
-Dialogue: 0,0:02:04.90,0:02:07.83,DEFAULT,,0,0,0,,{\kf36}I{\kf30} think{\kf39} I've{\kf39} seen{\kf45} you{\kf21} be{\kf33}fore
-Dialogue: 0,0:02:07.98,0:02:09.80,DEFAULT,,0,0,0,,{\kf18}Could{\kf9} it{\kf15} be{\kf15} that{\kf21} I,{\kf24} I{\kf18} know{\kf27} you?
-Dialogue: 0,0:02:10.18,0:02:11.47,DEFAULT,,0,0,0,,{\kf18}Can{\kf12} you{\kf21} see{\kf24} it{\kf24} too?
-Dialogue: 0,0:02:12.59,0:02:22.30,DEFAULT,,0,0,0,,{\kf59}I{\kf39} want{\kf36} to{\kf39} know{\kf39} you{\kf215} more{\kf180}~{\kf200}~{\kf127}~
-Dialogue: 0,0:02:24.56,0:02:30.29,DEFAULT,,0,0,0,,{\kf45}More{\kf42}~{\kf42}~{\kf53}~{\kf47}~{\kf50}~{\kf118}~{\kf180}~
-Dialogue: 0,0:03:00.70,0:03:02.05,DEFAULT,,0,0,0,,{\kf15}All{\kf18} those{\kf33} years{\kf24} a{\kf33}go
-Dialogue: 0,0:03:02.58,0:03:04.22,DEFAULT,,0,0,0,,{\kf15}It{\kf15} was{\kf27} you{\kf24} who{\kf21} told{\kf36} me
-Dialogue: 0,0:03:05.69,0:03:08.16,DEFAULT,,0,0,0,,{\kf42}Told{\kf42} me{\kf47} you{\kf36} be{\kf50}lieved
-Dialogue: 0,0:03:09.51,0:03:14.17,DEFAULT,,0,0,0,,{\kf80}You{\kf42} got{\kf30} me{\kf50} soa{\kf218}rin'
-Dialogue: 0,0:03:17.11,0:03:21.28,DEFAULT,,0,0,0,,{\kf65}You{\kf42} got{\kf45} me{\kf53} soa{\kf177}rin'
-Dialogue: 0,0:03:24.68,0:03:29.06,DEFAULT,,0,0,0,,{\kf50}You{\kf36} got{\kf36} me{\kf59} Soa{\kf206}rin
-Dialogue: 0,0:03:29.55,0:03:30.35,DEFAULT,,0,0,0,,{\kf21}You{\kf24} got{\kf24} me
-Dialogue: 0,0:03:30.55,0:03:32.31,DEFAULT,,0,0,0,,{\kf21}There's{\kf18} just{\kf12} one{\kf24} chance,{\kf18} one{\kf21} mo{\kf27}ment
-Dialogue: 0,0:03:32.67,0:03:34.22,DEFAULT,,0,0,0,,{\kf18}Hold{\kf15} it{\kf21} fast,{\kf18} don't{\kf18} blow{\kf36} it
-Dialogue: 0,0:03:34.98,0:03:38.01,DEFAULT,,0,0,0,,{\kf53}You{\kf42} got{\kf33} to{\kf50} stay{\kf27}~{\kf42} strong
-Dialogue: 0,0:03:38.10,0:03:39.77,DEFAULT,,0,0,0,,{\kf18}I'll{\kf15} tell{\kf21} you{\kf21} what{\kf18} he{\kf24} told{\kf27} me
-Dialogue: 0,0:03:39.95,0:03:41.68,DEFAULT,,0,0,0,,{\kf27}That{\kf21} "yes,{\kf24} you{\kf24} are{\kf24} wor{\kf30}thy"
-Dialogue: 0,0:03:42.47,0:03:45.46,DEFAULT,,0,0,0,,{\kf21}"In{\kf24} the{\kf47} sky{\kf30}~{\kf50} you{\kf27} be{\kf30}long"
-Dialogue: 0,0:03:45.64,0:03:47.28,DEFAULT,,0,0,0,,{\kf15}Now{\kf15} pick{\kf21} your{\kf24}self{\kf15} up,{\kf24} do{\kf27} it
-Dialogue: 0,0:03:47.37,0:03:49.19,DEFAULT,,0,0,0,,{\kf15}You're{\kf12} a{\kf21} Won{\kf18}der{\kf15}bolt?{\kf18} Then{\kf24} prove{\kf36} it!
-Dialogue: 0,0:03:49.84,0:03:52.92,DEFAULT,,0,0,0,,{\kf71}Your{\kf45} heart{\kf36} won't{\kf47} steer{\kf42} you{\kf36} wrong
-Dialogue: 0,0:03:53.04,0:03:54.71,DEFAULT,,0,0,0,,{\kf12}I{\kf12} can{\kf12} see{\kf15} that{\kf21} you've{\kf18} got{\kf24} ta{\kf30}lent
-Dialogue: 0,0:03:54.83,0:03:56.68,DEFAULT,,0,0,0,,{\kf24}You're{\kf15} tough,{\kf15} you're{\kf24} smart,{\kf18} you're{\kf27} gal{\kf33}lant
-Dialogue: 0,0:03:57.44,0:04:00.44,DEFAULT,,0,0,0,,{\kf39}Colt,{\kf39} ain't{\kf45} you{\kf45} gon{\kf33}na{\kf45} soar
-Dialogue: 0,0:04:00.61,0:04:02.17,DEFAULT,,0,0,0,,{\kf15}I'm{\kf15} not{\kf12} a{\kf18} mare{\kf18} to{\kf39} lie
-Dialogue: 0,0:04:02.64,0:04:04.13,DEFAULT,,0,0,0,,{\kf21}I{\kf15} just{\kf18} can't{\kf24} de{\kf50}ny
-Dialogue: 0,0:04:05.04,0:04:07.89,DEFAULT,,0,0,0,,{\kf21}I{\kf24} think{\kf42} I've{\kf33} seen{\kf47} you{\kf27} be{\kf39}fore
-Dialogue: 0,0:04:08.04,0:04:09.80,DEFAULT,,0,0,0,,{\kf15}Could{\kf12} it{\kf15} be{\kf12} that{\kf18} I,{\kf21} I{\kf24} know{\kf33} you?
-Dialogue: 0,0:04:10.18,0:04:11.56,DEFAULT,,0,0,0,,{\kf15}Can{\kf15} you{\kf21} see{\kf30} it{\kf39} too?
-Dialogue: 0,0:04:12.53,0:04:22.33,DEFAULT,,0,0,0,,{\kf62}I{\kf39} want{\kf36} to{\kf36} know{\kf36} you{\kf215} more{\kf206}~{\kf180}~{\kf121}~
-Dialogue: 0,0:04:39.56,0:04:45.32,DEFAULT,,0,0,0,,{\kf47}More{\kf42}~{\kf45}~{\kf47}~{\kf47}~{\kf56}~{\kf112}~{\kf182}~
+Dialogue: 0,0:00:30.35,0:00:33.93,DEFAULT,,0,0,0,,{\r}{\kf92}Wings{\kf50} that{\kf100} can't{\kf116} fly
+Dialogue: 0,0:00:35.05,0:00:37.63,DEFAULT,,0,0,0,,{\r}{\kf27}They{\kf41} aren't{\kf54} wings{\kf34} at{\kf102} all
+Dialogue: 0,0:00:38.75,0:00:45.00,DEFAULT,,0,0,0,,{\r}{\kf25}But{\kf37} he{\kf50} told{\kf37} me{\kf68} he{\kf25} be{\kf31}lieved{\kf190}~{\kf162}~
+Dialogue: 0,0:00:45.53,0:00:47.47,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf35} now{\kf21} I'm{\kf28} on{\kf35} fire{\kf47}~
+Dialogue: 0,0:00:47.64,0:00:49.34,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf13} I'm{\kf33} fly{\kf26}ing{\kf33} high{\kf45}er
+Dialogue: 0,0:00:49.58,0:00:53.22,DEFAULT,,0,0,0,,{\r}{\kf20}Than{\kf26} I{\kf20} e{\kf33}ver{\kf73} dreamed{\kf26} be{\kf46}fore{\kf33}~{\kf87}~
+Dialogue: 0,0:00:53.75,0:01:00.03,DEFAULT,,0,0,0,,{\r}{\kf61}You{\kf41} got{\kf34}~{\kf61} me{\kf61} soa{\kf34}~{\kf336}rin'
+Dialogue: 0,0:01:30.56,0:01:32.35,DEFAULT,,0,0,0,,{\r}{\kf29}There's{\kf15} just{\kf15} one{\kf29} chance,{\kf29} one{\kf26} mo{\kf36}ment
+Dialogue: 0,0:01:32.67,0:01:34.23,DEFAULT,,0,0,0,,{\r}{\kf20}Hold{\kf17} it{\kf31} fast,{\kf27} don't{\kf24} blow{\kf37} it
+Dialogue: 0,0:01:34.87,0:01:37.95,DEFAULT,,0,0,0,,{\r}{\kf83}You{\kf54} got{\kf44} to{\kf57} stay{\kf32}~{\kf38} strong
+Dialogue: 0,0:01:38.07,0:01:39.86,DEFAULT,,0,0,0,,{\r}{\kf27}I'll{\kf20} tell{\kf17} you{\kf27} what{\kf23} he{\kf23} told{\kf42} me
+Dialogue: 0,0:01:39.98,0:01:41.77,DEFAULT,,0,0,0,,{\r}{\kf26}That{\kf29} "yes,{\kf29} you{\kf29} are{\kf26} wor{\kf40}thy"
+Dialogue: 0,0:01:42.45,0:01:45.50,DEFAULT,,0,0,0,,{\r}{\kf32}"In{\kf28} the{\kf70} sky{\kf35}~{\kf70} you{\kf28} be{\kf42}long"
+Dialogue: 0,0:01:45.65,0:01:47.23,DEFAULT,,0,0,0,,{\r}{\kf21}Now{\kf18} pick{\kf18} your{\kf28}self{\kf25} up,{\kf25} do{\kf24} it
+Dialogue: 0,0:01:47.35,0:01:49.02,DEFAULT,,0,0,0,,{\r}{\kf14}You're{\kf14} a{\kf24} Won{\kf21}der{\kf24}bolt?{\kf24} Then{\kf28} prove{\kf18} it!
+Dialogue: 0,0:01:49.90,0:01:52.93,DEFAULT,,0,0,0,,{\r}{\kf73}Your{\kf50} heart{\kf38} won't{\kf61} steer{\kf34} you{\kf46} wrong
+Dialogue: 0,0:01:53.01,0:01:54.69,DEFAULT,,0,0,0,,{\r}{\kf11}I{\kf15} can{\kf18} see{\kf15} that{\kf25} you've{\kf29} got{\kf29} ta{\kf25}lent
+Dialogue: 0,0:01:54.86,0:01:56.59,DEFAULT,,0,0,0,,{\r}{\kf18}You're{\kf15} tough,{\kf18} you're{\kf33} smart,{\kf22} you're{\kf33} gal{\kf34}lant
+Dialogue: 0,0:01:57.36,0:02:00.29,DEFAULT,,0,0,0,,{\r}{\kf69}Colt,{\kf54} ain't{\kf36} you{\kf54} gon{\kf44}na{\kf37} soar
+Dialogue: 0,0:02:00.56,0:02:02.20,DEFAULT,,0,0,0,,{\r}{\kf27}I'm{\kf24} not{\kf14} a{\kf24} mare{\kf20} to{\kf55} lie
+Dialogue: 0,0:02:02.64,0:02:04.08,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf15} just{\kf26} can't{\kf26} de{\kf55}ny
+Dialogue: 0,0:02:04.90,0:02:07.84,DEFAULT,,0,0,0,,{\r}{\kf44}I{\kf36} think{\kf47} I've{\kf47} seen{\kf54} you{\kf25} be{\kf41}fore
+Dialogue: 0,0:02:07.98,0:02:09.80,DEFAULT,,0,0,0,,{\r}{\kf22}Could{\kf11} it{\kf19} be{\kf19} that{\kf26} I,{\kf30} I{\kf22} know{\kf33} you?
+Dialogue: 0,0:02:10.19,0:02:11.48,DEFAULT,,0,0,0,,{\r}{\kf23}Can{\kf16} you{\kf27} see{\kf31} it{\kf32} too?
+Dialogue: 0,0:02:12.59,0:02:22.31,DEFAULT,,0,0,0,,{\r}{\kf62}I{\kf40} want{\kf37} to{\kf40} know{\kf40} you{\kf225} more{\kf188}~{\kf209}~{\kf131}~
+Dialogue: 0,0:02:24.57,0:02:30.29,DEFAULT,,0,0,0,,{\r}{\kf44}More{\kf41}~{\kf41}~{\kf53}~{\kf47}~{\kf50}~{\kf117}~{\kf179}~
+Dialogue: 0,0:03:00.70,0:03:02.05,DEFAULT,,0,0,0,,{\r}{\kf16}All{\kf20} those{\kf36} years{\kf26} a{\kf37}go
+Dialogue: 0,0:03:02.58,0:03:04.23,DEFAULT,,0,0,0,,{\r}{\kf18}It{\kf18} was{\kf32} you{\kf29} who{\kf25} told{\kf42} me
+Dialogue: 0,0:03:05.69,0:03:08.16,DEFAULT,,0,0,0,,{\r}{\kf47}Told{\kf47} me{\kf54} you{\kf41} be{\kf58}lieved
+Dialogue: 0,0:03:09.51,0:03:14.18,DEFAULT,,0,0,0,,{\r}{\kf89}You{\kf46} got{\kf33} me{\kf56} soa{\kf243}rin'
+Dialogue: 0,0:03:17.11,0:03:21.28,DEFAULT,,0,0,0,,{\r}{\kf71}You{\kf45} got{\kf48} me{\kf58} soa{\kf195}rin'
+Dialogue: 0,0:03:24.69,0:03:29.06,DEFAULT,,0,0,0,,{\r}{\kf57}You{\kf40} got{\kf40} me{\kf67} Soa{\kf233}rin
+Dialogue: 0,0:03:29.56,0:03:30.35,DEFAULT,,0,0,0,,{\r}{\kf24}You{\kf27} got{\kf28} me
+Dialogue: 0,0:03:30.56,0:03:32.32,DEFAULT,,0,0,0,,{\r}{\kf26}There's{\kf22} just{\kf15} one{\kf30} chance,{\kf22} one{\kf26} mo{\kf35}ment
+Dialogue: 0,0:03:32.67,0:03:34.23,DEFAULT,,0,0,0,,{\r}{\kf22}Hold{\kf19} it{\kf26} fast,{\kf22} don't{\kf22} blow{\kf45} it
+Dialogue: 0,0:03:34.99,0:03:38.01,DEFAULT,,0,0,0,,{\r}{\kf65}You{\kf51} got{\kf40} to{\kf62} stay{\kf33}~{\kf51} strong
+Dialogue: 0,0:03:38.10,0:03:39.77,DEFAULT,,0,0,0,,{\r}{\kf21}I'll{\kf17} tell{\kf24} you{\kf24} what{\kf21} he{\kf28} told{\kf32} me
+Dialogue: 0,0:03:39.95,0:03:41.68,DEFAULT,,0,0,0,,{\r}{\kf31}That{\kf24} "yes,{\kf28} you{\kf28} are{\kf28} wor{\kf34}thy"
+Dialogue: 0,0:03:42.48,0:03:45.47,DEFAULT,,0,0,0,,{\r}{\kf27}"In{\kf31} the{\kf62} sky{\kf39}~{\kf66} you{\kf35} be{\kf39}long"
+Dialogue: 0,0:03:45.65,0:03:47.29,DEFAULT,,0,0,0,,{\r}{\kf17}Now{\kf17} pick{\kf24} your{\kf28}self{\kf17} up,{\kf28} do{\kf33} it
+Dialogue: 0,0:03:47.38,0:03:49.20,DEFAULT,,0,0,0,,{\r}{\kf17}You're{\kf14} a{\kf24} Won{\kf21}der{\kf17}bolt?{\kf21} Then{\kf27} prove{\kf41} it!
+Dialogue: 0,0:03:49.84,0:03:52.93,DEFAULT,,0,0,0,,{\r}{\kf79}Your{\kf50} heart{\kf40} won't{\kf53} steer{\kf46} you{\kf40} wrong
+Dialogue: 0,0:03:53.04,0:03:54.72,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf14} can{\kf14} see{\kf17} that{\kf24} you've{\kf21} got{\kf28} ta{\kf35}lent
+Dialogue: 0,0:03:54.83,0:03:56.68,DEFAULT,,0,0,0,,{\r}{\kf28}You're{\kf18} tough,{\kf18} you're{\kf28} smart,{\kf21} you're{\kf32} gal{\kf40}lant
+Dialogue: 0,0:03:57.45,0:04:00.44,DEFAULT,,0,0,0,,{\r}{\kf47}Colt,{\kf47} ain't{\kf55} you{\kf55} gon{\kf40}na{\kf55} soar
+Dialogue: 0,0:04:00.62,0:04:02.17,DEFAULT,,0,0,0,,{\r}{\kf20}I'm{\kf20} not{\kf16} a{\kf24} mare{\kf24} to{\kf52} lie
+Dialogue: 0,0:04:02.64,0:04:04.14,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf17} just{\kf21} can't{\kf28} de{\kf60}ny
+Dialogue: 0,0:04:05.05,0:04:07.90,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf29} think{\kf51} I've{\kf40} seen{\kf58} you{\kf33} be{\kf48}fore
+Dialogue: 0,0:04:08.04,0:04:09.80,DEFAULT,,0,0,0,,{\r}{\kf18}Could{\kf14} it{\kf18} be{\kf14} that{\kf21} I,{\kf25} I{\kf28} know{\kf38} you?
+Dialogue: 0,0:04:10.19,0:04:11.57,DEFAULT,,0,0,0,,{\r}{\kf17}Can{\kf17} you{\kf24} see{\kf34} it{\kf46} too?
+Dialogue: 0,0:04:12.53,0:04:22.34,DEFAULT,,0,0,0,,{\r}{\kf65}I{\kf40} want{\kf37} to{\kf37} know{\kf37} you{\kf227} more{\kf218}~{\kf190}~{\kf129}~
+Dialogue: 0,0:04:39.57,0:04:45.32,DEFAULT,,0,0,0,,{\r}{\kf47}More{\kf41}~{\kf44}~{\kf47}~{\kf47}~{\kf56}~{\kf111}~{\kf182}~

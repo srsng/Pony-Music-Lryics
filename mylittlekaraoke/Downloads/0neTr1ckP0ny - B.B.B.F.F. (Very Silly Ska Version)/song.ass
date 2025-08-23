@@ -1,45 +1,52 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: BBBFF (Very Silly Ska Version)
+Artist: 0neTr1ckP0ny
+Original Timing: mylittlekaraoke.com by Smilley,barbeque
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.03,0:00:10.81,DEFAULT,,0,0,0,,{\kf917}When{\kf920} I{\kf920} was{\kf923} just{\kf913} a{\kf923} fil{\kf920}ly
-Dialogue: 0,0:00:10.94,0:00:13.12,DEFAULT,,0,0,0,,{\kf917}I{\kf943} found{\kf917} it {\kf927}ra{\kf913}ther{\kf920} sil{\kf930}ly
-Dialogue: 0,0:00:13.45,0:00:16.95,DEFAULT,,0,0,0,,{\kf917}To{\kf920} see{\kf923} how{\kf913} ma{\kf913}ny{\kf913} o{\kf917}ther{\kf920} po{\kf923}nies{\kf917} I{\kf937} could{\kf970} meet
-Dialogue: 0,0:00:18.01,0:00:19.70,DEFAULT,,0,0,0,,{\kf920}I{\kf920} had{\kf923} my{\kf920} books{\kf920} to{\kf933} read
-Dialogue: 0,0:00:19.96,0:00:21.94,DEFAULT,,0,0,0,,{\kf913}Did{\kf913}n't{\kf917} know{\kf913} that{\kf920} I{\kf923} would{\kf920} e{\kf920}ver{\kf930} need
-Dialogue: 0,0:00:22.24,0:00:26.07,DEFAULT,,0,0,0,,{\kf920}O{\kf923}ther{\kf920} po{\kf927}nies{\kf917} to{\kf923} make{\kf920} my{\kf923} life{\kf940} comp{\kf979}lete
-Dialogue: 0,0:00:26.47,0:00:29.15,DEFAULT,,0,0,0,,{\kf920}But{\kf923} there{\kf920} was{\kf920} one{\kf923} colt{\kf920} that{\kf923} I{\kf930} cared{\kf930} for
-Dialogue: 0,0:00:29.48,0:00:32.81,DEFAULT,,0,0,0,,{\kf913}I{\kf917} knew{\kf920} he{\kf920} would{\kf923} be{\kf940} there{\kf927} fo{\kf946}r{\kf970} me
-Dialogue: 0,0:00:33.54,0:00:36.88,DEFAULT,,0,0,0,,{\kf923}My{\kf923} Big{\kf923} Bro{\kf920}ther{\kf927} Best{\kf940} Friend{\kf950} For{\kf923}e{\kf923}ver
-Dialogue: 0,0:00:38.03,0:00:40.18,DEFAULT,,0,0,0,,{\kf923}Like{\kf920} two{\kf946} peas{\kf923} in{\kf917} a{\kf943} pod
-Dialogue: 0,0:00:40.35,0:00:42.53,DEFAULT,,0,0,0,,{\kf923}We{\kf923} did{\kf920} eve{\kf923}ry{\kf920}thing{\kf920} to{\kf920}ge{\kf923}ther
-Dialogue: 0,0:00:43.45,0:00:45.90,DEFAULT,,0,0,0,,{\kf923}He{\kf923} taught{\kf920} me{\kf920} how{\kf917} to{\kf930} fly{\kf917} a{\kf946} kite
-Dialogue: 0,0:00:47.98,0:00:50.62,DEFAULT,,0,0,0,,{\kf920}We{\kf923} ne{\kf920}ver{\kf927} had{\kf917} a{\kf920} sin{\kf933}gle{\kf940} fight
-Dialogue: 0,0:00:51.91,0:00:56.40,DEFAULT,,0,0,0,,{\kf920}We{\kf946} shared{\kf943} our{\kf953} hopes,{\kf920} we{\kf950} shared{\kf923} o{\kf920}ur{\kf923} dre{\kf956}ams
-Dialogue: 0,0:00:57.00,0:01:00.14,DEFAULT,,0,0,0,,{\kf923}I{\kf920} miss{\kf923} him{\kf927} more{\kf920} than{\kf940} I{\kf927} re{\kf930}a{\kf960}lized
-Dialogue: 0,0:01:00.73,0:01:02.35,DEFAULT,,0,0,0,,{\kf913} I{\kf930}-it{\kf1009} seems
-Dialogue: 0,0:01:03.01,0:01:06.41,DEFAULT,,0,0,0,,{\kf923}My{\kf923} Big{\kf923} Bro{\kf927}ther{\kf923} Best{\kf940} Friend{\kf950} For{\kf923}e{\kf927}ver
-Dialogue: 0,0:01:12.03,0:01:15.43,DEFAULT,,0,0,0,,{\kf923}My{\kf923} Big{\kf923} Bro{\kf927}ther{\kf923} Best{\kf940} Friend{\kf950} For{\kf923}e{\kf927}ver
-Dialogue: 0,0:01:32.42,0:01:35.82,DEFAULT,,0,0,0,,{\kf923}My{\kf923} Big{\kf923} Bro{\kf927}ther{\kf923} Best{\kf940} Friend{\kf950} For{\kf923}e{\kf927}ver
-Dialogue: 0,0:01:36.91,0:01:39.09,DEFAULT,,0,0,0,,{\kf923}Like{\kf920} two{\kf953} peas{\kf923} in{\kf917} a{\kf946} pod
-Dialogue: 0,0:01:39.22,0:01:41.37,DEFAULT,,0,0,0,,{\kf923}We{\kf923} did{\kf920} eve{\kf923}ry{\kf917}thing{\kf920} to{\kf923}ge{\kf923}ther
-Dialogue: 0,0:01:42.33,0:01:44.77,DEFAULT,,0,0,0,,{\kf923}He{\kf923} taught{\kf920} me{\kf920} how{\kf917} to{\kf927} fly{\kf917} a{\kf950} kite
-Dialogue: 0,0:01:46.86,0:01:49.47,DEFAULT,,0,0,0,,{\kf920}We{\kf923} ne{\kf920}ver{\kf927} had{\kf917} a{\kf923} sin{\kf937}gle{\kf937} fight
-Dialogue: 0,0:01:50.79,0:01:55.25,DEFAULT,,0,0,0,,{\kf917}We{\kf956} shared{\kf943} our{\kf953} hopes,{\kf920} we{\kf953} shared{\kf923} o{\kf923}ur{\kf927} dre{\kf950}ams
-Dialogue: 0,0:01:55.88,0:01:59.11,DEFAULT,,0,0,0,,{\kf923}I{\kf920} miss{\kf927} him{\kf927} more{\kf920} than{\kf943} I{\kf927} re{\kf930}a{\kf970}lized
-Dialogue: 0,0:01:59.61,0:02:01.19,DEFAULT,,0,0,0,,{\kf913} I{\kf927}-it{\kf1006} seems
-Dialogue: 0,0:02:01.86,0:02:05.16,DEFAULT,,0,0,0,,{\kf923}Your{\kf927} Big{\kf923} Bro{\kf927}ther{\kf927} Best{\kf940} Friend{\kf946} For{\kf923}e{\kf923}ver
-Dialogue: 0,0:02:06.35,0:02:08.53,DEFAULT,,0,0,0,,{\kf927}Like{\kf923} two{\kf950} peas{\kf927} in{\kf917} a{\kf946} pod
-Dialogue: 0,0:02:08.66,0:02:10.78,DEFAULT,,0,0,0,,{\kf920}You{\kf923} did{\kf923} eve{\kf923}ry{\kf927}thing{\kf920} to{\kf920}ge{\kf920}ther
-Dialogue: 0,0:02:11.73,0:02:14.15,DEFAULT,,0,0,0,,{\kf927}And{\kf927} though{\kf923} he's{\kf920} oh{\kf923} so{\kf933} far{\kf920} a{\kf940}way
-Dialogue: 0,0:02:14.58,0:02:17.38,DEFAULT,,0,0,0,,{\kf920}I{\kf923} hope{\kf927} that{\kf930} he{\kf933} would{\kf1013} stay
-Dialogue: 0,0:02:18.01,0:02:21.75,DEFAULT,,0,0,0,,{\kf923}My{\kf946} Big{\kf927} Bro{\kf927}ther{\kf940} Best{\kf1079} Friend
-Dialogue: 0,0:02:22.24,0:02:25.54,DEFAULT,,0,0,0,,{\kf950}For{\kf930}e{\kf1145}ver
-Dialogue: 0,0:02:26.73,0:02:31.76,DEFAULT,,0,0,0,,{\kf946}For{\kf930}e{\kf943}ve{\kf923}-e{\kf940}-e{\kf1184}-er
+Dialogue: 0,0:00:09.03,0:00:10.81,DEFAULT,,0,0,0,,{\r}{\kf21}When{\kf26} I{\kf26} was{\kf31} just{\kf16} a{\kf31} fil{\kf27}ly
+Dialogue: 0,0:00:10.95,0:00:13.13,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf61} found{\kf20} it{\kf35}ra{\kf15}ther{\kf25} sil{\kf42}ly
+Dialogue: 0,0:00:13.46,0:00:16.96,DEFAULT,,0,0,0,,{\r}{\kf19}To{\kf24} see{\kf29} how{\kf14} ma{\kf14}ny{\kf14} o{\kf19}ther{\kf24} po{\kf29}nies{\kf19} I{\kf48} could{\kf97} meet
+Dialogue: 0,0:00:18.02,0:00:19.70,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} had{\kf29} my{\kf24} books{\kf24} to{\kf44} read
+Dialogue: 0,0:00:19.97,0:00:21.95,DEFAULT,,0,0,0,,{\r}{\kf14}Did{\kf14}n't{\kf19} know{\kf14} that{\kf24} I{\kf28} would{\kf24} e{\kf24}ver{\kf37} need
+Dialogue: 0,0:00:22.25,0:00:26.08,DEFAULT,,0,0,0,,{\r}{\kf25}O{\kf29}ther{\kf25} po{\kf34}nies{\kf20} to{\kf29} make{\kf25} my{\kf29} life{\kf54} comp{\kf113}lete
+Dialogue: 0,0:00:26.47,0:00:29.15,DEFAULT,,0,0,0,,{\r}{\kf25}But{\kf30} there{\kf25} was{\kf25} one{\kf30} colt{\kf25} that{\kf30} I{\kf40} cared{\kf38} for
+Dialogue: 0,0:00:29.48,0:00:32.82,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf18} knew{\kf23} he{\kf23} would{\kf27} be{\kf50} there{\kf32} fo{\kf59}r{\kf88} me
+Dialogue: 0,0:00:33.55,0:00:36.88,DEFAULT,,0,0,0,,{\r}{\kf30}My{\kf30} Big{\kf30} Bro{\kf25}ther{\kf35} Best{\kf55} Friend{\kf70} For{\kf30}e{\kf29}ver
+Dialogue: 0,0:00:38.04,0:00:40.19,DEFAULT,,0,0,0,,{\r}{\kf28}Like{\kf23} two{\kf61} peas{\kf28} in{\kf19} a{\kf56} pod
+Dialogue: 0,0:00:40.35,0:00:42.53,DEFAULT,,0,0,0,,{\r}{\kf30}We{\kf30} did{\kf25} eve{\kf30}ry{\kf25}thing{\kf25} to{\kf25}ge{\kf28}ther
+Dialogue: 0,0:00:43.46,0:00:45.90,DEFAULT,,0,0,0,,{\r}{\kf29}He{\kf29} taught{\kf24} me{\kf24} how{\kf19} to{\kf38} fly{\kf19} a{\kf62} kite
+Dialogue: 0,0:00:47.98,0:00:50.63,DEFAULT,,0,0,0,,{\r}{\kf25}We{\kf30} ne{\kf25}ver{\kf36} had{\kf20} a{\kf25} sin{\kf46}gle{\kf57} fight
+Dialogue: 0,0:00:51.92,0:00:56.41,DEFAULT,,0,0,0,,{\r}{\kf23}We{\kf60} shared{\kf56} our{\kf69} hopes,{\kf23} we{\kf65} shared{\kf28} o{\kf23}ur{\kf28} dre{\kf74}ams
+Dialogue: 0,0:00:57.00,0:01:00.14,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf22} miss{\kf26} him{\kf31} more{\kf22} than{\kf48} I{\kf31} re{\kf35}a{\kf73}lized
+Dialogue: 0,0:01:00.74,0:01:02.36,DEFAULT,,0,0,0,,{\r}{\kf11} I{\kf30}-it{\kf121} seems
+Dialogue: 0,0:01:03.02,0:01:06.42,DEFAULT,,0,0,0,,{\r}{\kf30}My{\kf30} Big{\kf30} Bro{\kf34}ther{\kf30} Best{\kf54} Friend{\kf69} For{\kf30}e{\kf33}ver
+Dialogue: 0,0:01:12.04,0:01:15.44,DEFAULT,,0,0,0,,{\r}{\kf30}My{\kf30} Big{\kf30} Bro{\kf34}ther{\kf30} Best{\kf54} Friend{\kf69} For{\kf30}e{\kf33}ver
+Dialogue: 0,0:01:32.42,0:01:35.83,DEFAULT,,0,0,0,,{\r}{\kf30}My{\kf30} Big{\kf30} Bro{\kf34}ther{\kf30} Best{\kf54} Friend{\kf69} For{\kf30}e{\kf33}ver
+Dialogue: 0,0:01:36.92,0:01:39.10,DEFAULT,,0,0,0,,{\r}{\kf27}Like{\kf22} two{\kf67} peas{\kf27} in{\kf18} a{\kf57} pod
+Dialogue: 0,0:01:39.23,0:01:41.38,DEFAULT,,0,0,0,,{\r}{\kf29}We{\kf29} did{\kf24} eve{\kf29}ry{\kf20}thing{\kf24} to{\kf29}ge{\kf31}ther
+Dialogue: 0,0:01:42.33,0:01:44.78,DEFAULT,,0,0,0,,{\r}{\kf29}He{\kf29} taught{\kf24} me{\kf24} how{\kf19} to{\kf33} fly{\kf19} a{\kf67} kite
+Dialogue: 0,0:01:46.86,0:01:49.47,DEFAULT,,0,0,0,,{\r}{\kf25}We{\kf30} ne{\kf25}ver{\kf34} had{\kf20} a{\kf30} sin{\kf49}gle{\kf48} fight
+Dialogue: 0,0:01:50.79,0:01:55.25,DEFAULT,,0,0,0,,{\r}{\kf18}We{\kf71} shared{\kf54} our{\kf67} hopes,{\kf22} we{\kf67} shared{\kf27} o{\kf27}ur{\kf31} dre{\kf62}ams
+Dialogue: 0,0:01:55.88,0:01:59.12,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf21} miss{\kf29} him{\kf29} more{\kf21} than{\kf50} I{\kf29} re{\kf34}a{\kf86}lized
+Dialogue: 0,0:01:59.61,0:02:01.20,DEFAULT,,0,0,0,,{\r}{\kf12} I{\kf27}-it{\kf120} seems
+Dialogue: 0,0:02:01.86,0:02:05.16,DEFAULT,,0,0,0,,{\r}{\kf29}Your{\kf33} Big{\kf29} Bro{\kf33}ther{\kf33} Best{\kf53} Friend{\kf62} For{\kf29}e{\kf29}ver
+Dialogue: 0,0:02:06.35,0:02:08.53,DEFAULT,,0,0,0,,{\r}{\kf30}Like{\kf26} two{\kf60} peas{\kf30} in{\kf17} a{\kf55} pod
+Dialogue: 0,0:02:08.67,0:02:10.78,DEFAULT,,0,0,0,,{\r}{\kf23}You{\kf28} did{\kf28} eve{\kf28}ry{\kf33}thing{\kf23} to{\kf23}ge{\kf25}ther
+Dialogue: 0,0:02:11.74,0:02:14.15,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf30} though{\kf26} he's{\kf22} oh{\kf26} so{\kf39} far{\kf22} a{\kf46}way
+Dialogue: 0,0:02:14.58,0:02:17.39,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf25} hope{\kf29} that{\kf33} he{\kf37} would{\kf136} stay
+Dialogue: 0,0:02:18.02,0:02:21.75,DEFAULT,,0,0,0,,{\r}{\kf23}My{\kf50} Big{\kf27} Bro{\kf27}ther{\kf42} Best{\kf204} Friend
+Dialogue: 0,0:02:22.25,0:02:25.55,DEFAULT,,0,0,0,,{\r}{\kf49}For{\kf28}e{\kf253}ver
+Dialogue: 0,0:02:26.74,0:02:31.76,DEFAULT,,0,0,0,,{\r}{\kf48}For{\kf30}e{\kf45}ve{\kf22}-e{\kf41}-e{\kf316}-er

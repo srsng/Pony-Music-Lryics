@@ -1,80 +1,87 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Fluttershys (20% Cooler)
+Artist: Mithent, ilysabeth
+Original Timing: mylittlekaraoke.com by SapphireFaye
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:23.40,0:00:25.73,DEFAULT,,0,0,0,,{\kf12}You{\kf23} would{\kf23} not{\kf12} be{\kf28}lieve{\kf23} your{\kf67} eyes
-Dialogue: 0,0:00:26.06,0:00:28.28,DEFAULT,,0,0,0,,{\kf12}If{\kf23} ten{\kf17} mi{\kf17}llion{\kf23} Flut{\kf23}ter{\kf56}shys
-Dialogue: 0,0:00:28.67,0:00:29.67,DEFAULT,,0,0,0,,{\kf23}Flew{\kf23} in{\kf6} the{\kf17} room
-Dialogue: 0,0:00:29.89,0:00:31.56,DEFAULT,,0,0,0,,{\kf12}As{\kf23} I{\kf28} fell{\kf17} a{\kf62}sleep
-Dialogue: 0,0:00:33.84,0:00:36.23,DEFAULT,,0,0,0,,{\kf12}Cause{\kf23} they'd{\kf23} fill{\kf28} the{\kf12} o{\kf23}pen{\kf56} air
-Dialogue: 0,0:00:36.56,0:00:38.34,DEFAULT,,0,0,0,,{\kf12}And{\kf17} their{\kf34} squea{\kf34}king{\kf23} e{\kf17}very{\kf12}where
-Dialogue: 0,0:00:38.56,0:00:39.73,DEFAULT,,0,0,0,,{\kf17}would{\kf17} be{\kf12} so{\kf17}~{\kf17} cute
-Dialogue: 0,0:00:39.95,0:00:43.11,DEFAULT,,0,0,0,,{\kf17}That{\kf23} I{\kf12} would{\kf23} just{\kf23} stand{\kf28} and{\kf84} smile
-Dialogue: 0,0:00:44.72,0:00:48.22,DEFAULT,,0,0,0,,{\kf17}I'd{\kf23} like{\kf12} to{\kf23} make{\kf34} my{\kf34}self{\kf12} be{\kf134}lieve
-Dialogue: 0,0:00:48.78,0:00:50.78,DEFAULT,,0,0,0,,{\kf23}E{\kf28}ques{\kf17}tri{\kf106}a's{\kf12}~
-Dialogue: 0,0:00:51.00,0:00:54.28,DEFAULT,,0,0,0,,{\kf84}kind{\kf100} po{\kf34}~{\kf56}ny
-Dialogue: 0,0:00:54.83,0:00:55.72,DEFAULT,,0,0,0,,{\kf12}Would{\kf23} come{\kf12} to{\kf17} me
-Dialogue: 0,0:00:55.89,0:00:57.17,DEFAULT,,0,0,0,,{\kf12}When{\kf23} I'm{\kf12} fee{\kf28}ling{\kf17} tired
-Dialogue: 0,0:00:57.33,0:00:59.50,DEFAULT,,0,0,0,,{\kf17}And{\kf34} snug{\kf28}gle{\kf23} me{\kf12} to{\kf67} sleep
-Dialogue: 0,0:01:00.22,0:01:01.94,DEFAULT,,0,0,0,,{\kf12}Cause{\kf23} po{\kf28}nies{\kf28} have{\kf28} in{\kf17}va{\kf12}ded
-Dialogue: 0,0:01:02.11,0:01:04.89,DEFAULT,,0,0,0,,{\kf39} All{\kf23} my{\kf206} dreams
-Dialogue: 0,0:01:06.00,0:01:08.28,DEFAULT,,0,0,0,,{\kf17}Cause{\kf17} in{\kf28}to{\kf17} my{\kf28} room{\kf23} they'd{\kf67} fly
-Dialogue: 0,0:01:08.72,0:01:10.89,DEFAULT,,0,0,0,,{\kf12}Those{\kf23} ten{\kf23} thou{\kf23}sand{\kf17} pe{\kf23}ga{\kf62}si
-Dialogue: 0,0:01:11.16,0:01:13.89,DEFAULT,,0,0,0,,{\kf12}As{\kf17} they{\kf23} sung{\kf17} me{\kf17} lul{\kf34}la{\kf28}bies{\kf6} to{\kf45} sleep
-Dialogue: 0,0:01:16.66,0:01:18.88,DEFAULT,,0,0,0,,{\kf12}"Time{\kf23} to{\kf17} lay{\kf12} your{\kf34} slee{\kf23}py{\kf56} head,
-Dialogue: 0,0:01:19.38,0:01:21.16,DEFAULT,,0,0,0,,{\kf12}Hush{\kf28} now,{\kf23} time{\kf12} to{\kf23} go{\kf23} to{\kf17} bed"
-Dialogue: 0,0:01:21.33,0:01:22.33,DEFAULT,,0,0,0,,{\kf17}I'd{\kf28} slum{\kf28}ber{\kf12} then,
-Dialogue: 0,0:01:22.50,0:01:24.61,DEFAULT,,0,0,0,,{\kf34}Snug{\kf28} un{\kf17}der{\kf23} my{\kf23} warm{\kf28} bed{\kf39}spread
-Dialogue: 0,0:01:27.38,0:01:30.83,DEFAULT,,0,0,0,,{\kf23}I'd{\kf23} like{\kf12} to{\kf23} make{\kf34} my{\kf28}self{\kf17} be{\kf134}lieve
-Dialogue: 0,0:01:31.38,0:01:33.49,DEFAULT,,0,0,0,,{\kf23}E{\kf28}ques{\kf17}tri{\kf106}a's{\kf23}~
-Dialogue: 0,0:01:33.72,0:01:36.83,DEFAULT,,0,0,0,,{\kf78}Kind{\kf95} po{\kf17}~{\kf56}ny
-Dialogue: 0,0:01:37.49,0:01:38.27,DEFAULT,,0,0,0,,{\kf12}Would{\kf23} come{\kf12} to{\kf12} me
-Dialogue: 0,0:01:38.44,0:01:39.83,DEFAULT,,0,0,0,,{\kf17}when{\kf28} I'm{\kf12} fee{\kf28}ling{\kf23} tired
-Dialogue: 0,0:01:40.05,0:01:41.82,DEFAULT,,0,0,0,,{\kf12}And{\kf34} snug{\kf28}gle{\kf23} me{\kf12} to{\kf39} sleep
-Dialogue: 0,0:01:42.77,0:01:44.60,DEFAULT,,0,0,0,,{\kf17}Cause{\kf17} po{\kf28}nies{\kf23} have{\kf23} in{\kf17}va{\kf12}ded
-Dialogue: 0,0:01:44.82,0:01:46.88,DEFAULT,,0,0,0,,{\kf23}All{\kf23} my{\kf145} dreams
-Dialogue: 0,0:01:47.27,0:01:48.77,DEFAULT,,0,0,0,,{\kf12}When{\kf23} I{\kf23} fall{\kf12} a{\kf45}sleep
-Dialogue: 0,0:01:51.43,0:01:54.16,DEFAULT,,0,0,0,,{\kf23}Don't{\kf23} close{\kf23} my{\kf12} brow{\kf34}ser{\kf28} for{\kf12} a{\kf67} bit
-Dialogue: 0,0:01:56.54,0:01:59.27,DEFAULT,,0,0,0,,{\kf12}Cause{\kf23} I{\kf34} need{\kf23} a{\kf12}no{\kf17}ther{\kf17} po{\kf17}ny{\kf39} hit
-Dialogue: 0,0:02:02.10,0:02:04.65,DEFAULT,,0,0,0,,{\kf17}Why{\kf23} can't{\kf17} I{\kf23} stop{\kf17} with{\kf23} one{\kf17} more{\kf45} peek
-Dialogue: 0,0:02:07.43,0:02:10.15,DEFAULT,,0,0,0,,{\kf17}It's{\kf28} 5{\kf28} A{\kf12}M{\kf17} and{\kf17} I{\kf34} need{\kf12} to{\kf56} sleep
-Dialogue: 0,0:02:12.60,0:02:15.04,DEFAULT,,0,0,0,,{\kf12}To{\kf28} ten{\kf17} mi{\kf23}llion{\kf23} Flut{\kf17}ter{\kf73}shys
-Dialogue: 0,0:02:15.26,0:02:17.60,DEFAULT,,0,0,0,,{\kf17}I'm{\kf23} weird{\kf34} cause{\kf12} I{\kf17} hate{\kf28} good{\kf56}byes
-Dialogue: 0,0:02:17.87,0:02:19.04,DEFAULT,,0,0,0,,{\kf12}I{\kf23} got{\kf23} mis{\kf17}ty{\kf23} eyes
-Dialogue: 0,0:02:19.21,0:02:21.32,DEFAULT,,0,0,0,,{\kf12}As{\kf17} they{\kf39} said{\kf45} fare{\kf73}well
-Dialogue: 0,0:02:23.15,0:02:25.54,DEFAULT,,0,0,0,,{\kf17}But{\kf23} I'll{\kf23} know{\kf17} where{\kf17} seve{\kf17}ral{\kf73} hide
-Dialogue: 0,0:02:25.82,0:02:27.71,DEFAULT,,0,0,0,,{\kf12}When{\kf23} my{\kf28} dreams{\kf23} get{\kf23} po{\kf17}ni{\kf17}fied
-Dialogue: 0,0:02:27.93,0:02:29.04,DEFAULT,,0,0,0,,{\kf6}Cause{\kf6} I{\kf34} saved{\kf23} a{\kf23} few
-Dialogue: 0,0:02:29.26,0:02:31.48,DEFAULT,,0,0,0,,{\kf23}And{\kf23} in{\kf12}to{\kf23} my{\kf28} room{\kf23} they'll{\kf56} glide
-Dialogue: 0,0:02:34.04,0:02:37.48,DEFAULT,,0,0,0,,{\kf23}I'd{\kf23} like{\kf12} to{\kf28} make{\kf28} my{\kf34}self{\kf12} be{\kf128}lieve
-Dialogue: 0,0:02:38.09,0:02:40.09,DEFAULT,,0,0,0,,{\kf17}E{\kf28}ques{\kf17}tri{\kf100}a's{\kf12}~
-Dialogue: 0,0:02:40.31,0:02:43.48,DEFAULT,,0,0,0,,{\kf84}kind{\kf95} po{\kf17}~{\kf45}ny
-Dialogue: 0,0:02:44.15,0:02:44.98,DEFAULT,,0,0,0,,{\kf12}Would{\kf23} come{\kf12} to{\kf17} me
-Dialogue: 0,0:02:45.26,0:02:46.48,DEFAULT,,0,0,0,,{\kf12}When{\kf23} I'm{\kf12} fee{\kf28}ling{\kf23} tired
-Dialogue: 0,0:02:46.70,0:02:48.98,DEFAULT,,0,0,0,,{\kf17}And{\kf28} snug{\kf34}gle{\kf23} me{\kf12} to{\kf84} sleep
-Dialogue: 0,0:02:49.53,0:02:50.59,DEFAULT,,0,0,0,,{\kf12}Cause{\kf23} po{\kf28}nies{\kf23} have
-Dialogue: 0,0:02:50.76,0:02:53.53,DEFAULT,,0,0,0,,{\kf23}in{\kf17}va{\kf12}ded{\kf45} all{\kf17} my{\kf134} dreams
-Dialogue: 0,0:02:55.48,0:02:58.92,DEFAULT,,0,0,0,,{\kf17}I'd{\kf23} like{\kf12} to{\kf28} make{\kf39} my{\kf34}self{\kf12} be{\kf139}lieve
-Dialogue: 0,0:02:59.42,0:03:01.53,DEFAULT,,0,0,0,,{\kf17}E{\kf28}ques{\kf12}tri{\kf117}a's{\kf23}~
-Dialogue: 0,0:03:01.75,0:03:05.03,DEFAULT,,0,0,0,,{\kf78}kind{\kf95} po{\kf23}~{\kf67}ny
-Dialogue: 0,0:03:05.42,0:03:06.31,DEFAULT,,0,0,0,,{\kf12}Would{\kf28} come{\kf12} to{\kf17} me
-Dialogue: 0,0:03:06.59,0:03:07.86,DEFAULT,,0,0,0,,{\kf6}When{\kf23} I'm{\kf17} fee{\kf23}ling{\kf28} tired
-Dialogue: 0,0:03:08.09,0:03:10.03,DEFAULT,,0,0,0,,{\kf12}And{\kf34} snug{\kf28}gle{\kf23} me{\kf12} to{\kf56} sleep
-Dialogue: 0,0:03:10.92,0:03:11.92,DEFAULT,,0,0,0,,{\kf12}Cause{\kf23} po{\kf23}nies{\kf28} have
-Dialogue: 0,0:03:12.14,0:03:14.81,DEFAULT,,0,0,0,,{\kf17}in{\kf12}va{\kf12}ded{\kf39} all{\kf23} my{\kf128} dreams
-Dialogue: 0,0:03:15.14,0:03:16.53,DEFAULT,,0,0,0,,{\kf12}When{\kf23} I{\kf28} fall{\kf12} a{\kf34}sleep
-Dialogue: 0,0:03:16.75,0:03:20.14,DEFAULT,,0,0,0,,{\kf17}I'd{\kf23} like{\kf12} to{\kf23} make{\kf34} my{\kf34}self{\kf12} be{\kf128}lieve
-Dialogue: 0,0:03:20.81,0:03:22.81,DEFAULT,,0,0,0,,{\kf12}E{\kf28}ques{\kf17}tri{\kf100}a's{\kf17}~
-Dialogue: 0,0:03:23.03,0:03:26.19,DEFAULT,,0,0,0,,{\kf67}Kind{\kf89} po{\kf17}~{\kf62}ny
-Dialogue: 0,0:03:26.86,0:03:27.64,DEFAULT,,0,0,0,,{\kf6}would{\kf23} come{\kf6} to{\kf23} me
-Dialogue: 0,0:03:27.81,0:03:29.19,DEFAULT,,0,0,0,,{\kf12}when{\kf28} I'm{\kf17} fee{\kf28}ling{\kf28} tired
-Dialogue: 0,0:03:29.42,0:03:31.30,DEFAULT,,0,0,0,,{\kf12}And{\kf28} snuggle me{\kf23}~{\kf23}~{\kf12} to{\kf50} sleep
-Dialogue: 0,0:03:32.19,0:03:33.14,DEFAULT,,0,0,0,,{\kf12}'Cause{\kf28} I'm{\kf17} ob{\kf23}sessed
-Dialogue: 0,0:03:33.36,0:03:36.08,DEFAULT,,0,0,0,,{\kf23}with{\kf17} po{\kf17}nies,{\kf45} so{\kf17} it{\kf134} seems
+Dialogue: 0,0:00:23.40,0:00:25.73,DEFAULT,,0,0,0,,{\r}{\kf14}You{\kf28} would{\kf28} not{\kf14} be{\kf35}lieve{\kf28} your{\kf86} eyes
+Dialogue: 0,0:00:26.07,0:00:28.29,DEFAULT,,0,0,0,,{\r}{\kf15}If{\kf30} ten{\kf22} mi{\kf22}llion{\kf30} Flut{\kf30}ter{\kf73}shys
+Dialogue: 0,0:00:28.68,0:00:29.68,DEFAULT,,0,0,0,,{\r}{\kf33}Flew{\kf33} in{\kf10} the{\kf24} room
+Dialogue: 0,0:00:29.90,0:00:31.57,DEFAULT,,0,0,0,,{\r}{\kf13}As{\kf27} I{\kf33} fell{\kf20} a{\kf74}sleep
+Dialogue: 0,0:00:33.84,0:00:36.23,DEFAULT,,0,0,0,,{\r}{\kf15}Cause{\kf31} they'd{\kf31} fill{\kf39} the{\kf15} o{\kf31}pen{\kf77} air
+Dialogue: 0,0:00:36.56,0:00:38.34,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf21} their{\kf41} squea{\kf41}king{\kf27} e{\kf21}very{\kf13}where
+Dialogue: 0,0:00:38.56,0:00:39.73,DEFAULT,,0,0,0,,{\r}{\kf25}would{\kf25} be{\kf17} so{\kf25}~{\kf25} cute
+Dialogue: 0,0:00:39.95,0:00:43.12,DEFAULT,,0,0,0,,{\r}{\kf26}That{\kf34} I{\kf17} would{\kf34} just{\kf34} stand{\kf43} and{\kf129} smile
+Dialogue: 0,0:00:44.73,0:00:48.23,DEFAULT,,0,0,0,,{\r}{\kf21}I'd{\kf27} like{\kf14} to{\kf27} make{\kf41} my{\kf41}self{\kf14} be{\kf165}lieve
+Dialogue: 0,0:00:48.78,0:00:50.78,DEFAULT,,0,0,0,,{\r}{\kf24}E{\kf30}ques{\kf18}tri{\kf115}a's{\kf13}~
+Dialogue: 0,0:00:51.01,0:00:54.28,DEFAULT,,0,0,0,,{\r}{\kf100}kind{\kf120} po{\kf40}~{\kf68}ny
+Dialogue: 0,0:00:54.84,0:00:55.73,DEFAULT,,0,0,0,,{\r}{\kf16}Would{\kf32} come{\kf16} to{\kf25} me
+Dialogue: 0,0:00:55.89,0:00:57.17,DEFAULT,,0,0,0,,{\r}{\kf16}When{\kf32} I'm{\kf16} fee{\kf40}ling{\kf24} tired
+Dialogue: 0,0:00:57.34,0:00:59.50,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf41} snug{\kf34}gle{\kf27} me{\kf14} to{\kf81} sleep
+Dialogue: 0,0:01:00.23,0:01:01.95,DEFAULT,,0,0,0,,{\r}{\kf13}Cause{\kf26} po{\kf33}nies{\kf33} have{\kf33} in{\kf20}va{\kf14}ded
+Dialogue: 0,0:01:02.12,0:01:04.89,DEFAULT,,0,0,0,,{\r}{\kf41} All{\kf23} my{\kf214} dreams
+Dialogue: 0,0:01:06.00,0:01:08.28,DEFAULT,,0,0,0,,{\r}{\kf20}Cause{\kf20} in{\kf33}to{\kf20} my{\kf33} room{\kf26} they'd{\kf76} fly
+Dialogue: 0,0:01:08.72,0:01:10.89,DEFAULT,,0,0,0,,{\r}{\kf14}Those{\kf27} ten{\kf27} thou{\kf27}sand{\kf20} pe{\kf27}ga{\kf75}si
+Dialogue: 0,0:01:11.17,0:01:13.89,DEFAULT,,0,0,0,,{\r}{\kf16}As{\kf23} they{\kf31} sung{\kf23} me{\kf23} lul{\kf47}la{\kf39}bies{\kf10} to{\kf60} sleep
+Dialogue: 0,0:01:16.67,0:01:18.89,DEFAULT,,0,0,0,,{\r}{\kf14}"Time{\kf29} to{\kf21} lay{\kf14} your{\kf43} slee{\kf29}py{\kf72} head,
+Dialogue: 0,0:01:19.39,0:01:21.17,DEFAULT,,0,0,0,,{\r}{\kf15}Hush{\kf37} now,{\kf30} time{\kf15} to{\kf30} go{\kf30} to{\kf21} bed"
+Dialogue: 0,0:01:21.33,0:01:22.33,DEFAULT,,0,0,0,,{\r}{\kf20}I'd{\kf33} slum{\kf33}ber{\kf14} then,
+Dialogue: 0,0:01:22.50,0:01:24.61,DEFAULT,,0,0,0,,{\r}{\kf37}Snug{\kf31} un{\kf19}der{\kf25} my{\kf25} warm{\kf31} bed{\kf43}spread
+Dialogue: 0,0:01:27.39,0:01:30.83,DEFAULT,,0,0,0,,{\r}{\kf26}I'd{\kf26} like{\kf13} to{\kf26} make{\kf40} my{\kf33}self{\kf20} be{\kf160}lieve
+Dialogue: 0,0:01:31.39,0:01:33.50,DEFAULT,,0,0,0,,{\r}{\kf24}E{\kf30}ques{\kf18}tri{\kf115}a's{\kf24}~
+Dialogue: 0,0:01:33.72,0:01:36.83,DEFAULT,,0,0,0,,{\r}{\kf99}Kind{\kf120} po{\kf21}~{\kf71}ny
+Dialogue: 0,0:01:37.50,0:01:38.28,DEFAULT,,0,0,0,,{\r}{\kf16}Would{\kf31} come{\kf16} to{\kf15} me
+Dialogue: 0,0:01:38.44,0:01:39.83,DEFAULT,,0,0,0,,{\r}{\kf22}when{\kf37} I'm{\kf15} fee{\kf37}ling{\kf28} tired
+Dialogue: 0,0:01:40.05,0:01:41.83,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf41} snug{\kf34}gle{\kf27} me{\kf14} to{\kf48} sleep
+Dialogue: 0,0:01:42.77,0:01:44.61,DEFAULT,,0,0,0,,{\r}{\kf23}Cause{\kf23} po{\kf38}nies{\kf30} have{\kf30} in{\kf23}va{\kf16}ded
+Dialogue: 0,0:01:44.83,0:01:46.88,DEFAULT,,0,0,0,,{\r}{\kf24}All{\kf24} my{\kf158} dreams
+Dialogue: 0,0:01:47.27,0:01:48.77,DEFAULT,,0,0,0,,{\r}{\kf15}When{\kf30} I{\kf30} fall{\kf15} a{\kf60}sleep
+Dialogue: 0,0:01:51.44,0:01:54.16,DEFAULT,,0,0,0,,{\r}{\kf28}Don't{\kf28} close{\kf28} my{\kf14} brow{\kf42}ser{\kf35} for{\kf14} a{\kf83} bit
+Dialogue: 0,0:01:56.55,0:01:59.27,DEFAULT,,0,0,0,,{\r}{\kf16}Cause{\kf32} I{\kf48} need{\kf32} a{\kf16}no{\kf24}ther{\kf24} po{\kf24}ny{\kf56} hit
+Dialogue: 0,0:02:02.10,0:02:04.66,DEFAULT,,0,0,0,,{\r}{\kf24}Why{\kf32} can't{\kf24} I{\kf32} stop{\kf24} with{\kf32} one{\kf24} more{\kf64} peek
+Dialogue: 0,0:02:07.44,0:02:10.16,DEFAULT,,0,0,0,,{\r}{\kf21}It's{\kf35} 5{\kf35} A{\kf14}M{\kf21} and{\kf21} I{\kf42} need{\kf14} to{\kf69} sleep
+Dialogue: 0,0:02:12.60,0:02:15.05,DEFAULT,,0,0,0,,{\r}{\kf14}To{\kf36} ten{\kf22} mi{\kf29}llion{\kf29} Flut{\kf22}ter{\kf92}shys
+Dialogue: 0,0:02:15.27,0:02:17.60,DEFAULT,,0,0,0,,{\r}{\kf21}I'm{\kf28} weird{\kf42} cause{\kf14} I{\kf21} hate{\kf35} good{\kf72}byes
+Dialogue: 0,0:02:17.88,0:02:19.05,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf28} got{\kf28} mis{\kf21}ty{\kf26} eyes
+Dialogue: 0,0:02:19.21,0:02:21.32,DEFAULT,,0,0,0,,{\r}{\kf13}As{\kf19} they{\kf45} said{\kf51} fare{\kf83}well
+Dialogue: 0,0:02:23.16,0:02:25.54,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf29} I'll{\kf29} know{\kf22} where{\kf22} seve{\kf22}ral{\kf93} hide
+Dialogue: 0,0:02:25.82,0:02:27.71,DEFAULT,,0,0,0,,{\r}{\kf15}When{\kf30} my{\kf38} dreams{\kf30} get{\kf30} po{\kf23}ni{\kf23}fied
+Dialogue: 0,0:02:27.93,0:02:29.04,DEFAULT,,0,0,0,,{\r}{\kf10}Cause{\kf10} I{\kf42} saved{\kf28} a{\kf21} few
+Dialogue: 0,0:02:29.27,0:02:31.49,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf27} in{\kf13}to{\kf27} my{\kf34} room{\kf27} they'll{\kf67} glide
+Dialogue: 0,0:02:34.04,0:02:37.49,DEFAULT,,0,0,0,,{\r}{\kf27}I'd{\kf27} like{\kf13} to{\kf34} make{\kf34} my{\kf40}self{\kf13} be{\kf156}lieve
+Dialogue: 0,0:02:38.10,0:02:40.10,DEFAULT,,0,0,0,,{\r}{\kf19}E{\kf32}ques{\kf19}tri{\kf116}a's{\kf14}~
+Dialogue: 0,0:02:40.32,0:02:43.49,DEFAULT,,0,0,0,,{\r}{\kf111}kind{\kf125} po{\kf22}~{\kf59}ny
+Dialogue: 0,0:02:44.15,0:02:44.98,DEFAULT,,0,0,0,,{\r}{\kf15}Would{\kf30} come{\kf15} to{\kf23} me
+Dialogue: 0,0:02:45.26,0:02:46.48,DEFAULT,,0,0,0,,{\r}{\kf14}When{\kf29} I'm{\kf14} fee{\kf36}ling{\kf29} tired
+Dialogue: 0,0:02:46.71,0:02:48.98,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf33} snug{\kf39}gle{\kf26} me{\kf13} to{\kf97} sleep
+Dialogue: 0,0:02:49.54,0:02:50.59,DEFAULT,,0,0,0,,{\r}{\kf14}Cause{\kf28} po{\kf35}nies{\kf29} have
+Dialogue: 0,0:02:50.76,0:02:53.54,DEFAULT,,0,0,0,,{\r}{\kf25}in{\kf19}va{\kf13}ded{\kf51} all{\kf19} my{\kf151} dreams
+Dialogue: 0,0:02:55.48,0:02:58.93,DEFAULT,,0,0,0,,{\r}{\kf19}I'd{\kf25} like{\kf13} to{\kf32} make{\kf45} my{\kf38}self{\kf13} be{\kf159}lieve
+Dialogue: 0,0:02:59.43,0:03:01.54,DEFAULT,,0,0,0,,{\r}{\kf18}E{\kf30}ques{\kf12}tri{\kf127}a's{\kf24}~
+Dialogue: 0,0:03:01.76,0:03:05.04,DEFAULT,,0,0,0,,{\r}{\kf98}kind{\kf119} po{\kf28}~{\kf83}ny
+Dialogue: 0,0:03:05.43,0:03:06.31,DEFAULT,,0,0,0,,{\r}{\kf15}Would{\kf37} come{\kf15} to{\kf22} me
+Dialogue: 0,0:03:06.59,0:03:07.87,DEFAULT,,0,0,0,,{\r}{\kf10}When{\kf30} I'm{\kf23} fee{\kf30}ling{\kf35} tired
+Dialogue: 0,0:03:08.09,0:03:10.04,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf40} snug{\kf33}gle{\kf27} me{\kf13} to{\kf68} sleep
+Dialogue: 0,0:03:10.92,0:03:11.92,DEFAULT,,0,0,0,,{\r}{\kf13}Cause{\kf27} po{\kf27}nies{\kf33} have
+Dialogue: 0,0:03:12.15,0:03:14.81,DEFAULT,,0,0,0,,{\r}{\kf20}in{\kf13}va{\kf13}ded{\kf46} all{\kf26} my{\kf149} dreams
+Dialogue: 0,0:03:15.15,0:03:16.53,DEFAULT,,0,0,0,,{\r}{\kf15}When{\kf29} I{\kf37} fall{\kf15} a{\kf43}sleep
+Dialogue: 0,0:03:16.76,0:03:20.15,DEFAULT,,0,0,0,,{\r}{\kf20}I'd{\kf27} like{\kf14} to{\kf27} make{\kf41} my{\kf41}self{\kf14} be{\kf155}lieve
+Dialogue: 0,0:03:20.81,0:03:22.81,DEFAULT,,0,0,0,,{\r}{\kf13}E{\kf32}ques{\kf19}tri{\kf116}a's{\kf20}~
+Dialogue: 0,0:03:23.03,0:03:26.20,DEFAULT,,0,0,0,,{\r}{\kf91}Kind{\kf121} po{\kf23}~{\kf82}ny
+Dialogue: 0,0:03:26.87,0:03:27.64,DEFAULT,,0,0,0,,{\r}{\kf10}would{\kf31} come{\kf10} to{\kf27} me
+Dialogue: 0,0:03:27.81,0:03:29.20,DEFAULT,,0,0,0,,{\r}{\kf14}when{\kf35} I'm{\kf21} fee{\kf35}ling{\kf34} tired
+Dialogue: 0,0:03:29.42,0:03:31.31,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf36} snuggle me{\kf29}~{\kf29}~{\kf15} to{\kf65} sleep
+Dialogue: 0,0:03:32.20,0:03:33.14,DEFAULT,,0,0,0,,{\r}{\kf13}'Cause{\kf34} I'm{\kf20} ob{\kf27}sessed
+Dialogue: 0,0:03:33.36,0:03:36.09,DEFAULT,,0,0,0,,{\r}{\kf24}with{\kf18} po{\kf18}nies,{\kf48} so{\kf18} it{\kf146} seems

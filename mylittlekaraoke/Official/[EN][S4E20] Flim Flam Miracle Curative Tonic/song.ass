@@ -1,87 +1,94 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Flim Flam Miracle Curative Tonic
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:42.12,0:00:43.62,DEFAULT,,0,0,0,,{\kf23}There's{\kf19} ail{\kf23}ments{\kf19} all{\kf12} a{\kf27}round{\kf8} us
-Dialogue: 0,0:00:43.70,0:00:45.46,DEFAULT,,0,0,0,,{\kf8}In{\kf12} eve{\kf15}ry{\kf19}thing{\kf15} we{\kf23} touch{\kf12} and{\kf30} see
-Dialogue: 0,0:00:45.87,0:00:47.75,DEFAULT,,0,0,0,,{\kf15}A{\kf19} sick{\kf15}ness{\kf15} that{\kf19} lies{\kf15} wai{\kf15}ting{\kf27} there
-Dialogue: 0,0:00:47.90,0:00:49.55,DEFAULT,,0,0,0,,{\kf12}In{\kf19} eve{\kf12}ry{\kf27} breath{\kf15} you{\kf53} breathe
-Dialogue: 0,0:00:49.74,0:00:51.20,DEFAULT,,0,0,0,,{\kf12}Dis{\kf27}ease{\kf15} will{\kf15} up{\kf15} and{\kf19} grab{\kf15} you
-Dialogue: 0,0:00:51.35,0:00:53.19,DEFAULT,,0,0,0,,{\kf12}As{\kf8} it{\kf23} crawls{\kf19} from{\kf23} land{\kf15} and{\kf45} sea
-Dialogue: 0,0:00:53.45,0:00:55.17,DEFAULT,,0,0,0,,{\kf12}It's{\kf8} a{\kf12}ma{\kf15}zing{\kf23} how{\kf12} in{\kf19}fec{\kf15}ted{\kf12} that
-Dialogue: 0,0:00:55.32,0:00:58.25,DEFAULT,,0,0,0,,{\kf15}The{\kf15} na{\kf8}tu{\kf15}ral{\kf23} world{\kf12} and{\kf23} all{\kf19} its{\kf19} things{\kf23} can{\kf68} be
-Dialogue: 0,0:00:58.44,0:01:00.12,DEFAULT,,0,0,0,,{\kf23}Now{\kf8} I{\kf64} understand{\kf15} that{\kf15} some{\kf8} of{\kf8} you
-Dialogue: 0,0:01:00.24,0:01:01.32,DEFAULT,,0,0,0,,{\kf23}Don't{\kf23} think{\kf15} you're{\kf30} sick
-Dialogue: 0,0:01:01.44,0:01:03.61,DEFAULT,,0,0,0,,{\kf19}But{\kf75} twisted{\kf38} hooves{\kf12} and{\kf34} aching{\kf19} joints
-Dialogue: 0,0:01:03.72,0:01:05.26,DEFAULT,,0,0,0,,{\kf23}Don't{\kf30} heal{\kf19} all{\kf19} that{\kf45} quick
-Dialogue: 0,0:01:05.37,0:01:07.89,DEFAULT,,0,0,0,,{\kf53}Consider{\kf19} just{\kf19} how{\kf60} dangerous{\kf19} this{\kf30} world{\kf30} is!
-Dialogue: 0,0:01:08.00,0:01:08.56,DEFAULT,,0,0,0,,{\kf23}You{\kf30} might
-Dialogue: 0,0:01:08.67,0:01:10.51,DEFAULT,,0,0,0,,{\kf38}Slip{\kf19} and{\kf38} fall,{\kf15} break{\kf8} or{\kf34} sprain
-Dialogue: 0,0:01:10.66,0:01:11.90,DEFAULT,,0,0,0,,{\kf19}Some{\kf23}thing{\kf15} here{\kf12} to{\kf27}night
-Dialogue: 0,0:01:12.09,0:01:13.62,DEFAULT,,0,0,0,,{\kf27}But{\kf12} lu{\kf12}cki{\kf30}ly{\kf19} for{\kf15} you
-Dialogue: 0,0:01:13.74,0:01:15.54,DEFAULT,,0,0,0,,{\kf19}We've{\kf15} got{\kf15} the{\kf19} thing{\kf19} you{\kf64} need
-Dialogue: 0,0:01:16.10,0:01:19.51,DEFAULT,,0,0,0,,{\kf12}And{\kf12} it's{\kf15} ea{\kf15}si{\kf15}er{\kf23} when{\kf15} all{\kf15} you{\kf27} need's{\kf15} the{\kf124} cure
-Dialogue: 0,0:01:19.89,0:01:23.19,DEFAULT,,0,0,0,,{\kf19}The{\kf23} Flim{\kf19} Flam{\kf8} Mi{\kf8}ra{\kf15}cle{\kf19} Cu{\kf23}ra{\kf42}tive{\kf19} To{\kf87}nic
-Dialogue: 0,0:01:23.64,0:01:26.15,DEFAULT,,0,0,0,,{\kf15}Is{\kf19} just{\kf12} what{\kf8} the{\kf19} doc{\kf19}tor{\kf27} or{\kf19}dered,{\kf23} I'm{\kf38} sure
-Dialogue: 0,0:01:26.30,0:01:28.25,DEFAULT,,0,0,0,,{\kf19}Now{\kf12} I{\kf15} know{\kf15} our{\kf30} claims{\kf23} seem{\kf60} fantastical
-Dialogue: 0,0:01:28.40,0:01:29.22,DEFAULT,,0,0,0,,{\kf83}Impractical
-Dialogue: 0,0:01:29.34,0:01:30.09,DEFAULT,,0,0,0,,{\kf75}Improbable
-Dialogue: 0,0:01:30.20,0:01:31.14,DEFAULT,,0,0,0,,{\kf94}Impossible
-Dialogue: 0,0:01:31.47,0:01:32.64,DEFAULT,,0,0,0,,{\kf38}And{\kf75} magical!
-Dialogue: 0,0:01:32.97,0:01:35.19,DEFAULT,,0,0,0,,{\kf34}So{\kf15} we{\kf42} welcome{\kf38} every{\kf57} suffering{\kf19} pony
-Dialogue: 0,0:01:35.30,0:01:36.76,DEFAULT,,0,0,0,,{\kf8}To{\kf15} make{\kf12} their{\kf19} way{\kf12} up{\kf8} to{\kf12} the{\kf38} stage
-Dialogue: 0,0:01:36.91,0:01:37.85,DEFAULT,,0,0,0,,{\kf23}Now{\kf23} don't{\kf42} crowd!
-Dialogue: 0,0:01:38.00,0:01:39.87,DEFAULT,,0,0,0,,{\kf30}And{\kf15} we'll{\kf19} prove{\kf12} our{\kf34} tonic's{\kf49} effectiveness
-Dialogue: 0,0:01:40.02,0:01:41.45,DEFAULT,,0,0,0,,{\kf38}Before{\kf19} your{\kf30} very{\kf45} eyes
-Dialogue: 0,0:01:41.60,0:01:42.27,DEFAULT,,0,0,0,,{\kf27}You{\kf38} there!
-Dialogue: 0,0:01:42.50,0:01:43.70,DEFAULT,,0,0,0,,{\kf19} Come{\kf12} up{\kf23} here,{\kf15} good{\kf34} sir!
-Dialogue: 0,0:01:43.96,0:01:46.59,DEFAULT,,0,0,0,,{\kf34}I'll{\kf30} wager{\kf19} you're{\kf38} tired{\kf8} of{\kf15} those{\kf34} crutches,{\kf12} my{\kf38} friend?
-Dialogue: 0,0:01:46.74,0:01:48.84,DEFAULT,,0,0,0,,{\kf30}Try{\kf27} taking{\kf8} a{\kf27} sip{\kf23} of{\kf45} this!
-Dialogue: 0,0:02:04.44,0:02:06.69,DEFAULT,,0,0,0,,{\kf27}That's{\kf42} why{\kf34} you're{\kf34} so{\kf19} lu{\kf30}cky
-Dialogue: 0,0:02:07.36,0:02:09.01,DEFAULT,,0,0,0,,{\kf23}We've{\kf19} got{\kf15} the{\kf19} thing{\kf12} for{\kf45} you
-Dialogue: 0,0:02:09.69,0:02:10.62,DEFAULT,,0,0,0,,{\kf23}Just{\kf27} come{\kf23} on{\kf8} up
-Dialogue: 0,0:02:10.74,0:02:12.99,DEFAULT,,0,0,0,,{\kf19}We've{\kf19} al{\kf15}ways{\kf19} got{\kf19} some{\kf109} more
-Dialogue: 0,0:02:13.44,0:02:16.62,DEFAULT,,0,0,0,,{\kf15}Of{\kf8} the{\kf15} Flim{\kf19} Flam{\kf8} Mi{\kf12}ra{\kf15}cle{\kf19} Cu{\kf19}ra{\kf34}tive{\kf27} To{\kf68}nic
-Dialogue: 0,0:02:17.19,0:02:20.34,DEFAULT,,0,0,0,,{\kf12}I{\kf19} won't{\kf19} need{\kf19} these{\kf19} cru{\kf19}tches{\kf19} to{\kf23} dance{\kf15} out{\kf15} the{\kf87} door
-Dialogue: 0,0:02:20.82,0:02:22.40,DEFAULT,,0,0,0,,{\kf19}Now{\kf27} how{\kf4} do{\kf15} ya{\kf27} like{\kf45} that?
-Dialogue: 0,0:02:22.59,0:02:23.37,DEFAULT,,0,0,0,,{\kf30}I{\kf42} don't
-Dialogue: 0,0:02:23.64,0:02:26.04,DEFAULT,,0,0,0,,{\kf23}There's{\kf30} somethin'{\kf27} funny{\kf23} about{\kf15} this{\kf42} whole{\kf30} thing
-Dialogue: 0,0:02:28.47,0:02:30.54,DEFAULT,,0,0,0,,{\kf34}Now{\kf15} some{\kf15} of{\kf23} you{\kf19} may{\kf23} suf{\kf23}fer
-Dialogue: 0,0:02:30.80,0:02:32.71,DEFAULT,,0,0,0,,{\kf27}From{\kf15} fee{\kf23}lings{\kf15} of{\kf15} des{\kf49}pair
-Dialogue: 0,0:02:32.97,0:02:34.96,DEFAULT,,0,0,0,,{\kf23}You're{\kf19} old,{\kf19} you're{\kf23} tired,{\kf15} your{\kf27} legs{\kf19} won't{\kf12} work
-Dialogue: 0,0:02:35.07,0:02:37.06,DEFAULT,,0,0,0,,{\kf23}There's{\kf23} gray{\kf19}ing{\kf15} in{\kf23} your{\kf64} hair
-Dialogue: 0,0:02:37.21,0:02:39.24,DEFAULT,,0,0,0,,{\kf19}Just{\kf23} lis{\kf23}ten{\kf19} and{\kf19} I'll{\kf30} tell{\kf30} you
-Dialogue: 0,0:02:39.39,0:02:41.34,DEFAULT,,0,0,0,,{\kf15}That{\kf19} you{\kf19} don't{\kf27} need{\kf23} to{\kf64} fear
-Dialogue: 0,0:02:41.49,0:02:43.25,DEFAULT,,0,0,0,,{\kf23}Your{\kf23} ears{\kf19} will{\kf19} work,{\kf19} your{\kf15} mus{\kf19}cles{\kf15} tone
-Dialogue: 0,0:02:43.36,0:02:45.24,DEFAULT,,0,0,0,,{\kf27}Your{\kf23} eyes{\kf15} will{\kf19} see{\kf19} so{\kf64} clear
-Dialogue: 0,0:02:45.50,0:02:46.59,DEFAULT,,0,0,0,,{\kf15}Luc{\kf8}ki{\kf27}ly{\kf15} for{\kf12} us
-Dialogue: 0,0:02:46.70,0:02:48.39,DEFAULT,,0,0,0,,{\kf19}You've{\kf15} got{\kf12} the{\kf15} thing{\kf15} we{\kf57} need
-Dialogue: 0,0:02:49.06,0:02:52.47,DEFAULT,,0,0,0,,{\kf27}The{\kf15} ans{\kf19}wers{\kf15} to{\kf15} our{\kf12} prob{\kf19}lems{\kf15} in{\kf12} a{\kf132} jar
-Dialogue: 0,0:02:52.85,0:02:56.04,DEFAULT,,0,0,0,,{\kf19}The{\kf23} Flim{\kf19} Flam{\kf8} Mi{\kf12}ra{\kf15}cle{\kf19} Cu{\kf15}ra{\kf42}tive{\kf15} To{\kf83}nic
-Dialogue: 0,0:02:56.60,0:02:59.22,DEFAULT,,0,0,0,,{\kf12}Is{\kf12} the{\kf23} grea{\kf19}test{\kf12} e{\kf15}ver{\kf15} mi{\kf12}ra{\kf15}cle{\kf23} by{\kf49} far
-Dialogue: 0,0:02:59.37,0:03:01.10,DEFAULT,,0,0,0,,{\kf19}It{\kf34} cures{\kf12} the{\kf42} reins,{\kf12} the{\kf30} spurs
-Dialogue: 0,0:03:01.25,0:03:02.79,DEFAULT,,0,0,0,,{\kf12}And{\kf8} the{\kf68} Clydesdale{\kf27} fur{\kf19} blight
-Dialogue: 0,0:03:02.94,0:03:04.47,DEFAULT,,0,0,0,,{\kf72}Hooferia{\kf15} and{\kf60} horsentery
-Dialogue: 0,0:03:04.62,0:03:05.94,DEFAULT,,0,0,0,,{\kf34}Cured{\kf12} in{\kf23} just{\kf12} a{\kf34} night
-Dialogue: 0,0:03:06.09,0:03:08.04,DEFAULT,,0,0,0,,{\kf23}You've{\kf15} got{\kf38} swollen{\kf30} hooves{\kf15} and{\kf49} hindquarters
-Dialogue: 0,0:03:08.19,0:03:09.80,DEFAULT,,0,0,0,,{\kf15}Or{\kf34} terrible{\kf57} bridle-bit{\kf42} cleft
-Dialogue: 0,0:03:09.95,0:03:11.49,DEFAULT,,0,0,0,,{\kf42}Saunter{\kf27} sitz{\kf12} and{\kf30} gallop{\kf19} plop
-Dialogue: 0,0:03:11.60,0:03:13.29,DEFAULT,,0,0,0,,{\kf15}Or{\kf19} give{\kf15} your{\kf30} tail{\kf19} some{\kf38} heft
-Dialogue: 0,0:03:13.44,0:03:16.55,DEFAULT,,0,0,0,,{\kf49}Mane{\kf30} loss,{\kf30} hay{\kf30} fever,{\kf15} or{\kf49} terrible{\kf83} tonsillitis
-Dialogue: 0,0:03:16.70,0:03:17.90,DEFAULT,,0,0,0,,{\kf23}You{\kf19} heard{\kf8} it{\kf23} here,{\kf30} folks!
-Dialogue: 0,0:03:18.12,0:03:20.90,DEFAULT,,0,0,0,,{\kf15}This{\kf8} is{\kf8} the{\kf19} only{\kf23} place{\kf8} in{\kf8} all{\kf4} of{\kf60} Equestria{\kf23} you'll{\kf23} find{\kf19} it
-Dialogue: 0,0:03:21.35,0:03:23.22,DEFAULT,,0,0,0,,{\kf19}It{\kf23} can{\kf23} make{\kf12} you{\kf27} shor{\kf12}ter,{\kf23} tal{\kf15}ler,
-Dialogue: 0,0:03:23.34,0:03:24.72,DEFAULT,,0,0,0,,{\kf19}Or{\kf15} e{\kf19}ven{\kf19} grow{\kf49} old
-Dialogue: 0,0:03:24.95,0:03:25.77,DEFAULT,,0,0,0,,{\kf15}But{\kf27} who'd{\kf19} want{\kf8} that?
-Dialogue: 0,0:03:25.89,0:03:26.90,DEFAULT,,0,0,0,,{\kf19}When{\kf19} with{\kf15} one{\kf30} drink
-Dialogue: 0,0:03:27.01,0:03:28.70,DEFAULT,,0,0,0,,{\kf30}You{\kf19} can{\kf34} be{\kf27} young{\kf15} a{\kf23}gain
-Dialogue: 0,0:03:28.85,0:03:30.05,DEFAULT,,0,0,0,,{\kf120}SOLD!
-Dialogue: 0,0:03:30.35,0:03:32.07,DEFAULT,,0,0,0,,{\kf113}Congratulations,{\kf27} Granny{\kf27} Smith!
-Dialogue: 0,0:03:32.34,0:03:34.92,DEFAULT,,0,0,0,,{\kf27}You{\kf19} just{\kf23} made{\kf12} the{\kf49} purchase{\kf8} of{\kf12} a{\kf75} lifetime!
+Dialogue: 0,0:00:42.13,0:00:43.63,DEFAULT,,0,0,0,,{\r}{\kf26}There's{\kf22} ail{\kf26}ments{\kf22} all{\kf13} a{\kf31}round{\kf10} us
+Dialogue: 0,0:00:43.70,0:00:45.47,DEFAULT,,0,0,0,,{\r}{\kf10}In{\kf15} eve{\kf20}ry{\kf25}thing{\kf20} we{\kf30} touch{\kf15} and{\kf41} see
+Dialogue: 0,0:00:45.88,0:00:47.75,DEFAULT,,0,0,0,,{\r}{\kf20}A{\kf25} sick{\kf20}ness{\kf20} that{\kf25} lies{\kf20} wai{\kf20}ting{\kf38} there
+Dialogue: 0,0:00:47.90,0:00:49.55,DEFAULT,,0,0,0,,{\r}{\kf14}In{\kf23} eve{\kf14}ry{\kf32} breath{\kf18} you{\kf64} breathe
+Dialogue: 0,0:00:49.74,0:00:51.20,DEFAULT,,0,0,0,,{\r}{\kf14}Dis{\kf33}ease{\kf19} will{\kf19} up{\kf19} and{\kf24} grab{\kf18} you
+Dialogue: 0,0:00:51.35,0:00:53.19,DEFAULT,,0,0,0,,{\r}{\kf15}As{\kf10} it{\kf29} crawls{\kf24} from{\kf29} land{\kf19} and{\kf58} sea
+Dialogue: 0,0:00:53.45,0:00:55.18,DEFAULT,,0,0,0,,{\r}{\kf16}It's{\kf10} a{\kf16}ma{\kf21}zing{\kf31} how{\kf16} in{\kf26}fec{\kf21}ted{\kf15} that
+Dialogue: 0,0:00:55.33,0:00:58.25,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf19} na{\kf10}tu{\kf19}ral{\kf28} world{\kf14} and{\kf28} all{\kf23} its{\kf23} things{\kf28} can{\kf81} be
+Dialogue: 0,0:00:58.44,0:01:00.13,DEFAULT,,0,0,0,,{\r}{\kf27}Now{\kf10} I{\kf78} understand{\kf18} that{\kf18} some{\kf10} of{\kf10} you
+Dialogue: 0,0:01:00.24,0:01:01.33,DEFAULT,,0,0,0,,{\r}{\kf27}Don't{\kf27} think{\kf18} you're{\kf37} sick
+Dialogue: 0,0:01:01.44,0:01:03.62,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf83} twisted{\kf42} hooves{\kf13} and{\kf38} aching{\kf20} joints
+Dialogue: 0,0:01:03.73,0:01:05.27,DEFAULT,,0,0,0,,{\r}{\kf26}Don't{\kf34} heal{\kf21} all{\kf21} that{\kf52} quick
+Dialogue: 0,0:01:05.38,0:01:07.89,DEFAULT,,0,0,0,,{\r}{\kf58}Consider{\kf21} just{\kf21} how{\kf66} dangerous{\kf21} this{\kf33} world{\kf31} is!
+Dialogue: 0,0:01:08.00,0:01:08.57,DEFAULT,,0,0,0,,{\r}{\kf24}You{\kf32} might
+Dialogue: 0,0:01:08.68,0:01:10.52,DEFAULT,,0,0,0,,{\r}{\kf46}Slip{\kf23} and{\kf46} fall,{\kf18} break{\kf10} or{\kf41} sprain
+Dialogue: 0,0:01:10.67,0:01:11.90,DEFAULT,,0,0,0,,{\r}{\kf25}Some{\kf30}thing{\kf20} here{\kf15} to{\kf34}night
+Dialogue: 0,0:01:12.09,0:01:13.63,DEFAULT,,0,0,0,,{\r}{\kf36}But{\kf15} lu{\kf15}cki{\kf41}ly{\kf26} for{\kf21} you
+Dialogue: 0,0:01:13.74,0:01:15.54,DEFAULT,,0,0,0,,{\r}{\kf22}We've{\kf18} got{\kf18} the{\kf22} thing{\kf22} you{\kf78} need
+Dialogue: 0,0:01:16.10,0:01:19.52,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf13} it's{\kf18} ea{\kf18}si{\kf18}er{\kf27} when{\kf18} all{\kf18} you{\kf31} need's{\kf18} the{\kf149} cure
+Dialogue: 0,0:01:19.89,0:01:23.19,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf27} Flim{\kf22} Flam{\kf10} Mi{\kf10}ra{\kf18}cle{\kf22} Cu{\kf27}ra{\kf49}tive{\kf22} To{\kf101}nic
+Dialogue: 0,0:01:23.64,0:01:26.15,DEFAULT,,0,0,0,,{\r}{\kf19}Is{\kf24} just{\kf14} what{\kf10} the{\kf24} doc{\kf24}tor{\kf34} or{\kf24}dered,{\kf29} I'm{\kf49} sure
+Dialogue: 0,0:01:26.30,0:01:28.25,DEFAULT,,0,0,0,,{\r}{\kf21}Now{\kf13} I{\kf17} know{\kf17} our{\kf34} claims{\kf25} seem{\kf68} fantastical
+Dialogue: 0,0:01:28.40,0:01:29.23,DEFAULT,,0,0,0,,{\r}{\kf83}Impractical
+Dialogue: 0,0:01:29.34,0:01:30.09,DEFAULT,,0,0,0,,{\r}{\kf75}Improbable
+Dialogue: 0,0:01:30.20,0:01:31.14,DEFAULT,,0,0,0,,{\r}{\kf94}Impossible
+Dialogue: 0,0:01:31.48,0:01:32.64,DEFAULT,,0,0,0,,{\r}{\kf39}And{\kf77} magical!
+Dialogue: 0,0:01:32.98,0:01:35.19,DEFAULT,,0,0,0,,{\r}{\kf37}So{\kf16} we{\kf45} welcome{\kf41} every{\kf61} suffering{\kf21} pony
+Dialogue: 0,0:01:35.30,0:01:36.77,DEFAULT,,0,0,0,,{\r}{\kf10}To{\kf18} make{\kf14} their{\kf23} way{\kf14} up{\kf10} to{\kf14} the{\kf43} stage
+Dialogue: 0,0:01:36.92,0:01:37.85,DEFAULT,,0,0,0,,{\r}{\kf25}Now{\kf25} don't{\kf44} crowd!
+Dialogue: 0,0:01:38.00,0:01:39.88,DEFAULT,,0,0,0,,{\r}{\kf36}And{\kf18} we'll{\kf22} prove{\kf13} our{\kf40} tonic's{\kf59} effectiveness
+Dialogue: 0,0:01:40.03,0:01:41.45,DEFAULT,,0,0,0,,{\r}{\kf41}Before{\kf20} your{\kf33} very{\kf49} eyes
+Dialogue: 0,0:01:41.60,0:01:42.28,DEFAULT,,0,0,0,,{\r}{\kf28}You{\kf39} there!
+Dialogue: 0,0:01:42.50,0:01:43.70,DEFAULT,,0,0,0,,{\r}{\kf22} Come{\kf13} up{\kf27} here,{\kf18} good{\kf40} sir!
+Dialogue: 0,0:01:43.97,0:01:46.59,DEFAULT,,0,0,0,,{\r}{\kf39}I'll{\kf35} wager{\kf22} you're{\kf44} tired{\kf10} of{\kf18} those{\kf39} crutches,{\kf13} my{\kf43} friend?
+Dialogue: 0,0:01:46.74,0:01:48.84,DEFAULT,,0,0,0,,{\r}{\kf40}Try{\kf35} taking{\kf10} a{\kf35} sip{\kf30} of{\kf60} this!
+Dialogue: 0,0:02:04.44,0:02:06.69,DEFAULT,,0,0,0,,{\r}{\kf32}That's{\kf51} why{\kf41} you're{\kf41} so{\kf23} lu{\kf37}cky
+Dialogue: 0,0:02:07.37,0:02:09.02,DEFAULT,,0,0,0,,{\r}{\kf28}We've{\kf24} got{\kf19} the{\kf24} thing{\kf14} for{\kf56} you
+Dialogue: 0,0:02:09.69,0:02:10.63,DEFAULT,,0,0,0,,{\r}{\kf27}Just{\kf31} come{\kf27} on{\kf10} up
+Dialogue: 0,0:02:10.74,0:02:12.99,DEFAULT,,0,0,0,,{\r}{\kf21}We've{\kf21} al{\kf17}ways{\kf21} got{\kf21} some{\kf124} more
+Dialogue: 0,0:02:13.44,0:02:16.63,DEFAULT,,0,0,0,,{\r}{\kf19}Of{\kf10} the{\kf19} Flim{\kf23} Flam{\kf10} Mi{\kf14}ra{\kf19}cle{\kf23} Cu{\kf23}ra{\kf42}tive{\kf33} To{\kf84}nic
+Dialogue: 0,0:02:17.19,0:02:20.34,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf22} won't{\kf22} need{\kf22} these{\kf22} cru{\kf22}tches{\kf22} to{\kf27} dance{\kf18} out{\kf18} the{\kf106} door
+Dialogue: 0,0:02:20.83,0:02:22.40,DEFAULT,,0,0,0,,{\r}{\kf22}Now{\kf31} how{\kf10} do{\kf17} ya{\kf31} like{\kf46} that?
+Dialogue: 0,0:02:22.59,0:02:23.38,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf46} don't
+Dialogue: 0,0:02:23.64,0:02:26.04,DEFAULT,,0,0,0,,{\r}{\kf29}There's{\kf38} somethin'{\kf34} funny{\kf29} about{\kf19} this{\kf53} whole{\kf38} thing
+Dialogue: 0,0:02:28.48,0:02:30.54,DEFAULT,,0,0,0,,{\r}{\kf46}Now{\kf21} some{\kf21} of{\kf31} you{\kf26} may{\kf31} suf{\kf30}fer
+Dialogue: 0,0:02:30.80,0:02:32.72,DEFAULT,,0,0,0,,{\r}{\kf35}From{\kf20} fee{\kf30}lings{\kf20} of{\kf20} des{\kf66}pair
+Dialogue: 0,0:02:32.98,0:02:34.97,DEFAULT,,0,0,0,,{\r}{\kf29}You're{\kf24} old,{\kf24} you're{\kf29} tired,{\kf19} your{\kf34} legs{\kf24} won't{\kf16} work
+Dialogue: 0,0:02:35.08,0:02:37.07,DEFAULT,,0,0,0,,{\r}{\kf27}There's{\kf27} gray{\kf23}ing{\kf18} in{\kf27} your{\kf77} hair
+Dialogue: 0,0:02:37.22,0:02:39.24,DEFAULT,,0,0,0,,{\r}{\kf23}Just{\kf28} lis{\kf28}ten{\kf23} and{\kf23} I'll{\kf38} tell{\kf39} you
+Dialogue: 0,0:02:39.39,0:02:41.34,DEFAULT,,0,0,0,,{\r}{\kf18}That{\kf22} you{\kf22} don't{\kf31} need{\kf27} to{\kf75} fear
+Dialogue: 0,0:02:41.49,0:02:43.25,DEFAULT,,0,0,0,,{\r}{\kf26}Your{\kf26} ears{\kf22} will{\kf22} work,{\kf22} your{\kf18} mus{\kf22}cles{\kf18} tone
+Dialogue: 0,0:02:43.37,0:02:45.24,DEFAULT,,0,0,0,,{\r}{\kf30}Your{\kf26} eyes{\kf17} will{\kf21} see{\kf21} so{\kf73} clear
+Dialogue: 0,0:02:45.50,0:02:46.59,DEFAULT,,0,0,0,,{\r}{\kf22}Luc{\kf11}ki{\kf38}ly{\kf22} for{\kf16} us
+Dialogue: 0,0:02:46.70,0:02:48.39,DEFAULT,,0,0,0,,{\r}{\kf24}You've{\kf19} got{\kf14} the{\kf19} thing{\kf19} we{\kf74} need
+Dialogue: 0,0:02:49.07,0:02:52.48,DEFAULT,,0,0,0,,{\r}{\kf32}The{\kf18} ans{\kf23}wers{\kf18} to{\kf18} our{\kf14} prob{\kf23}lems{\kf18} in{\kf14} a{\kf163} jar
+Dialogue: 0,0:02:52.85,0:02:56.04,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf27} Flim{\kf22} Flam{\kf10} Mi{\kf13}ra{\kf18}cle{\kf22} Cu{\kf18}ra{\kf49}tive{\kf18} To{\kf100}nic
+Dialogue: 0,0:02:56.60,0:02:59.23,DEFAULT,,0,0,0,,{\r}{\kf15}Is{\kf15} the{\kf29} grea{\kf24}test{\kf15} e{\kf19}ver{\kf19} mi{\kf15}ra{\kf19}cle{\kf29} by{\kf63} far
+Dialogue: 0,0:02:59.38,0:03:01.10,DEFAULT,,0,0,0,,{\r}{\kf22}It{\kf40} cures{\kf13} the{\kf49} reins,{\kf13} the{\kf36} spurs
+Dialogue: 0,0:03:01.25,0:03:02.79,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf10} the{\kf79} Clydesdale{\kf31} fur{\kf21} blight
+Dialogue: 0,0:03:02.94,0:03:04.48,DEFAULT,,0,0,0,,{\r}{\kf75}Hooferia{\kf16} and{\kf63} horsentery
+Dialogue: 0,0:03:04.63,0:03:05.94,DEFAULT,,0,0,0,,{\r}{\kf39}Cured{\kf13} in{\kf26} just{\kf13} a{\kf40} night
+Dialogue: 0,0:03:06.09,0:03:08.04,DEFAULT,,0,0,0,,{\r}{\kf26}You've{\kf17} got{\kf43} swollen{\kf35} hooves{\kf17} and{\kf57} hindquarters
+Dialogue: 0,0:03:08.19,0:03:09.80,DEFAULT,,0,0,0,,{\r}{\kf17}Or{\kf37} terrible{\kf62} bridle-bit{\kf45} cleft
+Dialogue: 0,0:03:09.95,0:03:11.49,DEFAULT,,0,0,0,,{\r}{\kf50}Saunter{\kf32} sitz{\kf14} and{\kf36} gallop{\kf22} plop
+Dialogue: 0,0:03:11.60,0:03:13.29,DEFAULT,,0,0,0,,{\r}{\kf19}Or{\kf23} give{\kf19} your{\kf38} tail{\kf23} some{\kf47} heft
+Dialogue: 0,0:03:13.44,0:03:16.55,DEFAULT,,0,0,0,,{\r}{\kf53}Mane{\kf33} loss,{\kf33} hay{\kf33} fever,{\kf16} or{\kf53} terrible{\kf90} tonsillitis
+Dialogue: 0,0:03:16.70,0:03:17.90,DEFAULT,,0,0,0,,{\r}{\kf27}You{\kf22} heard{\kf10} it{\kf27} here,{\kf34} folks!
+Dialogue: 0,0:03:18.13,0:03:20.90,DEFAULT,,0,0,0,,{\r}{\kf20}This{\kf10} is{\kf10} the{\kf24} only{\kf29} place{\kf10} in{\kf10} all{\kf10} of{\kf78} Equestria{\kf29} you'll{\kf29} find{\kf19} it
+Dialogue: 0,0:03:21.35,0:03:23.23,DEFAULT,,0,0,0,,{\r}{\kf23}It{\kf28} can{\kf28} make{\kf14} you{\kf33} shor{\kf14}ter,{\kf28} tal{\kf19}ler,
+Dialogue: 0,0:03:23.34,0:03:24.73,DEFAULT,,0,0,0,,{\r}{\kf22}Or{\kf17} e{\kf22}ven{\kf22} grow{\kf56} old
+Dialogue: 0,0:03:24.95,0:03:25.78,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf32} who'd{\kf23} want{\kf10} that?
+Dialogue: 0,0:03:25.89,0:03:26.90,DEFAULT,,0,0,0,,{\r}{\kf23}When{\kf23} with{\kf18} one{\kf37} drink
+Dialogue: 0,0:03:27.02,0:03:28.70,DEFAULT,,0,0,0,,{\r}{\kf35}You{\kf22} can{\kf39} be{\kf30} young{\kf17} a{\kf26}gain
+Dialogue: 0,0:03:28.85,0:03:30.05,DEFAULT,,0,0,0,,{\r}{\kf120}SOLD!
+Dialogue: 0,0:03:30.35,0:03:32.08,DEFAULT,,0,0,0,,{\r}{\kf117}Congratulations,{\kf27} Granny{\kf28} Smith!
+Dialogue: 0,0:03:32.34,0:03:34.93,DEFAULT,,0,0,0,,{\r}{\kf31}You{\kf22} just{\kf26} made{\kf13} the{\kf57} purchase{\kf10} of{\kf13} a{\kf87} lifetime!

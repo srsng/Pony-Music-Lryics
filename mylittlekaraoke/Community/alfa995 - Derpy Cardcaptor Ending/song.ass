@@ -1,39 +1,46 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Derpy Cardcaptor Ending
+Artist: alfa995
+Original Timing: mylittlekaraoke.com by Selfie Snapshots
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.07,0:00:02.44,DEFAULT,,0,0,0,,{\kf19}La{\kf19} la{\kf19} la{\kf19} la{\kf19} la{\kf13} la
-Dialogue: 0,0:00:02.69,0:00:04.32,DEFAULT,,0,0,0,,{\kf44}La{\kf19} la{\kf19} la{\kf19} la{\kf19} la{\kf13} la
-Dialogue: 0,0:00:04.94,0:00:07.94,DEFAULT,,0,0,0,,{\kf19}la{\kf19} la{\kf19} la{\kf19} la{\kf19} la{\kf19} la{\kf19} la{\kf125} la
-Dialogue: 0,0:00:09.07,0:00:10.75,DEFAULT,,0,0,0,,{\kf19}Ma{\kf19}chi{\kf19} ni{\kf19} de{\kf19}ka{\kf19}ke{\kf19}you
-Dialogue: 0,0:00:11.00,0:00:12.75,DEFAULT,,0,0,0,,{\kf19}Hi{\kf19}to{\kf19}ri{\kf19} de{\kf19} i{\kf19}ta{\kf25}~
-Dialogue: 0,0:00:12.94,0:00:14.82,DEFAULT,,0,0,0,,{\kf19}Tte{\kf19} ku{\kf19}ra{\kf19}i{\kf19} da{\kf19}ke{\kf19} de{\kf13}shou
-Dialogue: 0,0:00:15.94,0:00:17.25,DEFAULT,,0,0,0,,{\kf19}Ru{\kf19}~{\kf38}pu{\kf19} shi{\kf13}te
-Dialogue: 0,0:00:17.88,0:00:19.32,DEFAULT,,0,0,0,,{\kf19}O{\kf19}chi{\kf44}ko{\kf19}n{\kf19}de
-Dialogue: 0,0:00:20.07,0:00:21.25,DEFAULT,,0,0,0,,{\kf19}Na{\kf44}o{\kf19}sa{\kf19}ra
-Dialogue: 0,0:00:21.75,0:00:24.25,DEFAULT,,0,0,0,,{\kf25}Ah{\kf32}~{\kf19} na{\kf19}ya{\kf19}n{\kf44}ja{\kf19}tte{\kf25}~
-Dialogue: 0,0:00:24.69,0:00:26.38,DEFAULT,,0,0,0,,{\kf19}So{\kf19}to{\kf19} ni{\kf19} to{\kf19}bi{\kf19}da{\kf19}sou
-Dialogue: 0,0:00:26.69,0:00:28.69,DEFAULT,,0,0,0,,{\kf32}Shin{\kf19}pa{\kf19}i{\kf19} i{\kf19}ra{\kf32}na{\kf13}i
-Dialogue: 0,0:00:28.82,0:00:30.44,DEFAULT,,0,0,0,,{\kf19}O{\kf19}o{\kf19}mu{\kf19}ka{\kf19}shi{\kf19} ka{\kf13}ra
-Dialogue: 0,0:00:31.50,0:00:32.88,DEFAULT,,0,0,0,,{\kf19}Chi{\kf19}kyuu{\kf44} da{\kf19}~{\kf13}tte
-Dialogue: 0,0:00:33.44,0:00:34.88,DEFAULT,,0,0,0,,{\kf19}Ma{\kf19}wa{\kf44}~{\kf19}tte{\kf19}ru
-Dialogue: 0,0:00:35.19,0:00:37.57,DEFAULT,,0,0,0,,{\kf75}Ki{\kf138}tto
-Dialogue: 0,0:00:38.13,0:00:40.88,DEFAULT,,0,0,0,,{\kf44}tsu{\kf19}ki{\kf44} da{\kf32}~{\kf25}tte{\kf69}~
-Dialogue: 0,0:00:41.38,0:00:44.00,DEFAULT,,0,0,0,,{\kf25}Ma{\kf19}wa{\kf163}ru{\kf25} yo
-Dialogue: 0,0:00:45.94,0:00:47.38,DEFAULT,,0,0,0,,{\kf19}Brand{\kf19} New{\kf19} Love{\kf19}~{\kf19} So{\kf19}~ong
-Dialogue: 0,0:00:47.63,0:00:49.25,DEFAULT,,0,0,0,,{\kf44}Ha{\kf19}re{\kf19} ha{\kf19}re{\kf19}ru{\kf13}ya
-Dialogue: 0,0:00:49.82,0:00:51.13,DEFAULT,,0,0,0,,{\kf19}Min{\kf19}na{\kf19} ha{\kf19}ji{\kf19}ke{\kf7}te
-Dialogue: 0,0:00:51.32,0:00:53.13,DEFAULT,,0,0,0,,{\kf19}A{\kf44}i{\kf19}shi{\kf19}a{\kf57}ou
-Dialogue: 0,0:00:53.75,0:00:55.07,DEFAULT,,0,0,0,,{\kf19}Tan{\kf19}chou{\kf19} na{\kf19} ni{\kf19}chi{\kf7}jou
-Dialogue: 0,0:00:55.44,0:00:57.07,DEFAULT,,0,0,0,,{\kf44}Tsuu{\kf19}jou{\kf19} na{\kf19} ka{\kf19}n{\kf13}jou
-Dialogue: 0,0:00:57.63,0:00:58.94,DEFAULT,,0,0,0,,{\kf19}Ma{\kf19}mo{\kf19}ra{\kf19}na{\kf19}ku{\kf7}cha
-Dialogue: 0,0:00:59.13,0:01:00.69,DEFAULT,,0,0,0,,{\kf19}Da{\kf44}me{\kf19} na{\kf19} ko{\kf32}to
-Dialogue: 0,0:01:01.07,0:01:04.50,DEFAULT,,0,0,0,,{\kf19}It{\kf19}su{\kf294}mo
-Dialogue: 0,0:01:05.00,0:01:05.88,DEFAULT,,0,0,0,,{\kf38}A{\kf44} ru
+Dialogue: 0,0:00:01.07,0:00:02.44,DEFAULT,,0,0,0,,{\r}{\kf24}La{\kf24} la{\kf24} la{\kf24} la{\kf24} la{\kf18} la
+Dialogue: 0,0:00:02.69,0:00:04.32,DEFAULT,,0,0,0,,{\r}{\kf54}La{\kf23} la{\kf23} la{\kf23} la{\kf23} la{\kf16} la
+Dialogue: 0,0:00:04.95,0:00:07.95,DEFAULT,,0,0,0,,{\r}{\kf22}la{\kf22} la{\kf22} la{\kf22} la{\kf22} la{\kf22} la{\kf22} la{\kf146} la
+Dialogue: 0,0:00:09.07,0:00:10.76,DEFAULT,,0,0,0,,{\r}{\kf24}Ma{\kf24}chi{\kf24} ni{\kf24} de{\kf24}ka{\kf24}ke{\kf25}you
+Dialogue: 0,0:00:11.01,0:00:12.76,DEFAULT,,0,0,0,,{\r}{\kf24}Hi{\kf24}to{\kf24}ri{\kf24} de{\kf24} i{\kf24}ta{\kf31}~
+Dialogue: 0,0:00:12.95,0:00:14.82,DEFAULT,,0,0,0,,{\r}{\kf25}Tte{\kf25} ku{\kf25}ra{\kf25}i{\kf25} da{\kf25}ke{\kf25} de{\kf13}shou
+Dialogue: 0,0:00:15.95,0:00:17.26,DEFAULT,,0,0,0,,{\r}{\kf23}Ru{\kf23}~{\kf46}pu{\kf23} shi{\kf16}te
+Dialogue: 0,0:00:17.88,0:00:19.32,DEFAULT,,0,0,0,,{\r}{\kf23}O{\kf23}chi{\kf53}ko{\kf23}n{\kf22}de
+Dialogue: 0,0:00:20.07,0:00:21.26,DEFAULT,,0,0,0,,{\r}{\kf22}Na{\kf52}o{\kf22}sa{\kf23}ra
+Dialogue: 0,0:00:21.76,0:00:24.26,DEFAULT,,0,0,0,,{\r}{\kf31}Ah{\kf39}~{\kf23} na{\kf23}ya{\kf23}n{\kf55}ja{\kf23}tte{\kf33}~
+Dialogue: 0,0:00:24.70,0:00:26.38,DEFAULT,,0,0,0,,{\r}{\kf24}So{\kf24}to{\kf24} ni{\kf24} to{\kf24}bi{\kf24}da{\kf25}sou
+Dialogue: 0,0:00:26.70,0:00:28.70,DEFAULT,,0,0,0,,{\r}{\kf42}Shin{\kf25}pa{\kf25}i{\kf25} i{\kf25}ra{\kf42}na{\kf16}i
+Dialogue: 0,0:00:28.82,0:00:30.45,DEFAULT,,0,0,0,,{\r}{\kf24}O{\kf24}o{\kf24}mu{\kf24}ka{\kf24}shi{\kf24} ka{\kf18}ra
+Dialogue: 0,0:00:31.51,0:00:32.88,DEFAULT,,0,0,0,,{\r}{\kf23}Chi{\kf23}kyuu{\kf54} da{\kf23}~{\kf15}tte
+Dialogue: 0,0:00:33.45,0:00:34.88,DEFAULT,,0,0,0,,{\r}{\kf23}Ma{\kf23}wa{\kf53}~{\kf23}tte{\kf22}ru
+Dialogue: 0,0:00:35.20,0:00:37.57,DEFAULT,,0,0,0,,{\r}{\kf84}Ki{\kf154}tto
+Dialogue: 0,0:00:38.13,0:00:40.88,DEFAULT,,0,0,0,,{\r}{\kf52}tsu{\kf22}ki{\kf52} da{\kf37}~{\kf30}tte{\kf82}~
+Dialogue: 0,0:00:41.38,0:00:44.01,DEFAULT,,0,0,0,,{\r}{\kf28}Ma{\kf21}wa{\kf184}ru{\kf29} yo
+Dialogue: 0,0:00:45.95,0:00:47.38,DEFAULT,,0,0,0,,{\r}{\kf24}Brand{\kf24} New{\kf24} Love{\kf24}~{\kf24} So{\kf24}~ong
+Dialogue: 0,0:00:47.63,0:00:49.26,DEFAULT,,0,0,0,,{\r}{\kf54}Ha{\kf23}re{\kf23} ha{\kf23}re{\kf23}ru{\kf16}ya
+Dialogue: 0,0:00:49.82,0:00:51.13,DEFAULT,,0,0,0,,{\r}{\kf25}Min{\kf25}na{\kf25} ha{\kf25}ji{\kf25}ke{\kf10}te
+Dialogue: 0,0:00:51.32,0:00:53.13,DEFAULT,,0,0,0,,{\r}{\kf22}A{\kf51}i{\kf22}shi{\kf22}a{\kf64}ou
+Dialogue: 0,0:00:53.76,0:00:55.07,DEFAULT,,0,0,0,,{\r}{\kf25}Tan{\kf25}chou{\kf25} na{\kf25} ni{\kf25}chi{\kf10}jou
+Dialogue: 0,0:00:55.45,0:00:57.07,DEFAULT,,0,0,0,,{\r}{\kf54}Tsuu{\kf23}jou{\kf23} na{\kf23} ka{\kf23}n{\kf16}jou
+Dialogue: 0,0:00:57.63,0:00:58.95,DEFAULT,,0,0,0,,{\r}{\kf25}Ma{\kf25}mo{\kf25}ra{\kf25}na{\kf25}ku{\kf10}cha
+Dialogue: 0,0:00:59.13,0:01:00.70,DEFAULT,,0,0,0,,{\r}{\kf22}Da{\kf52}me{\kf22} na{\kf22} ko{\kf38}to
+Dialogue: 0,0:01:01.07,0:01:04.51,DEFAULT,,0,0,0,,{\r}{\kf19}It{\kf19}su{\kf306}mo
+Dialogue: 0,0:01:05.01,0:01:05.88,DEFAULT,,0,0,0,,{\r}{\kf41}A{\kf47} ru

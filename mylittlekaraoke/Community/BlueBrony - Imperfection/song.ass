@@ -1,43 +1,50 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Imperfection
+Artist: BlueBrony
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:12.87,0:00:17.10,DEFAULT,,0,0,0,,{\kf57}Re{\kf57}write{\kf68} my{\kf57} pro{\kf53}gram
-Dialogue: 0,0:00:18.79,0:00:22.58,DEFAULT,,0,0,0,,{\kf49}Re{\kf57}set{\kf79} my{\kf117} brain
-Dialogue: 0,0:00:23.63,0:00:29.25,DEFAULT,,0,0,0,,{\kf27}I{\kf45} think{\kf57} there's{\kf60} some{\kf49}thing{\kf49} wrong{\kf53} with{\kf60} what
-Dialogue: 0,0:00:29.89,0:00:34.32,DEFAULT,,0,0,0,,{\kf132}I{\kf293} think
-Dialogue: 0,0:00:36.94,0:00:41.52,DEFAULT,,0,0,0,,{\kf45}A{\kf53}lone{\kf87} I{\kf75} wan{\kf102}der
-Dialogue: 0,0:00:42.90,0:00:46.65,DEFAULT,,0,0,0,,{\kf53}Through{\kf60} waste{\kf90}land{\kf94} scene
-Dialogue: 0,0:00:47.63,0:00:59.18,DEFAULT,,0,0,0,,{\kf30}But{\kf53} still{\kf49} I{\kf53} find{\kf49} my{\kf49} mind{\kf45} won't{\kf53} let{\kf75} me{\kf229} be{\kf15}~{\kf15}~{\kf188}~
-Dialogue: 0,0:01:18.12,0:01:22.54,DEFAULT,,0,0,0,,{\kf49}I{\kf57} am{\kf53} im{\kf30}per{\kf49}fec{\kf102}tion
-Dialogue: 0,0:01:24.12,0:01:28.65,DEFAULT,,0,0,0,,{\kf53}I{\kf53} know{\kf38} I{\kf45} am{\kf177} flawed
-Dialogue: 0,0:01:30.15,0:01:35.29,DEFAULT,,0,0,0,,{\kf45}Can{\kf64} some{\kf53}bo{\kf30}dy{\kf53} help{\kf57} me{\kf102} find
-Dialogue: 0,0:01:36.00,0:01:41.25,DEFAULT,,0,0,0,,{\kf27}What{\kf53} I{\kf87} lost{\kf30} be{\kf124}fore{\kf15}~{\kf90}~
-Dialogue: 0,0:01:42.15,0:01:46.95,DEFAULT,,0,0,0,,{\kf60}I{\kf49} am{\kf53} li{\kf42}mi{\kf42}ta{\kf147}tion
-Dialogue: 0,0:01:48.08,0:01:53.44,DEFAULT,,0,0,0,,{\kf49}I{\kf38} know{\kf30} I{\kf34} can't{\kf53} ex{\kf252}ceed
-Dialogue: 0,0:01:54.19,0:01:58.05,DEFAULT,,0,0,0,,{\kf90}Is{\kf34} there{\kf45} a{\kf38}ny{\kf109} hope
-Dialogue: 0,0:01:58.58,0:02:00.83,DEFAULT,,0,0,0,,{\kf98}For{\kf27} a{\kf64} heart
-Dialogue: 0,0:02:01.62,0:02:09.23,DEFAULT,,0,0,0,,{\kf124}That{\kf124} can{\kf135}not{\kf304} be
-Dialogue: 0,0:02:29.70,0:02:35.40,DEFAULT,,0,0,0,,{\kf30}I{\kf42} fought,{\kf34} I{\kf45} fought,{\kf34} I{\kf42} fought{\kf34} for{\kf23} a{\kf49} fu{\kf30}ture
-Dialogue: 0,0:02:35.59,0:02:40.80,DEFAULT,,0,0,0,,{\kf15}Where{\kf19} my{\kf53} life{\kf27} meant{\kf34} some{\kf53}thing{\kf195} real
-Dialogue: 0,0:02:41.59,0:02:47.07,DEFAULT,,0,0,0,,{\kf34}I{\kf45} thought,{\kf27} I{\kf53} thought,{\kf27} I{\kf38} thought{\kf27} if{\kf30} I{\kf53} tried
-Dialogue: 0,0:02:47.52,0:02:52.99,DEFAULT,,0,0,0,,{\kf27}Hard{\kf15} e{\kf45}nough,{\kf15} I{\kf19} could{\kf42} find{\kf45} my{\kf57} own{\kf150} will
-Dialogue: 0,0:02:53.70,0:02:59.48,DEFAULT,,0,0,0,,{\kf19}But{\kf45} cir{\kf42}cui{\kf38}try{\kf38} keeps{\kf34} me{\kf30} from{\kf49} chang{\kf34}ing{\kf34} my{\kf45} func{\kf38}tion
-Dialogue: 0,0:02:59.89,0:03:05.48,DEFAULT,,0,0,0,,{\kf19}A{\kf34} glitch{\kf27} in{\kf30} the{\kf34} sys{\kf34}tem{\kf30} is{\kf38} all{\kf30} I{\kf30} have{\kf38} for{\kf38} it
-Dialogue: 0,0:03:06.08,0:03:13.17,DEFAULT,,0,0,0,,{\kf45}Why{\kf42} would{\kf23} the{\kf38} ma{\kf30}ker{\kf38} make{\kf34} me{\kf34} a{\kf34}ware{\kf57} of{\kf68} the{\kf105} flaw
-Dialogue: 0,0:03:13.62,0:03:17.63,DEFAULT,,0,0,0,,{\kf132}I{\kf120} can't{\kf102} change
-Dialogue: 0,0:03:18.30,0:03:23.22,DEFAULT,,0,0,0,,{\kf38}I{\kf49} am{\kf53} im{\kf34}per{\kf49}fec{\kf184}tion
-Dialogue: 0,0:03:23.97,0:03:29.37,DEFAULT,,0,0,0,,{\kf42}I{\kf45} know{\kf34} that{\kf42} I{\kf53} am{\kf270} flawed
-Dialogue: 0,0:03:30.04,0:03:35.33,DEFAULT,,0,0,0,,{\kf57}Can{\kf53} some{\kf68}bo{\kf34}dy{\kf53} help{\kf60} me{\kf113} find
-Dialogue: 0,0:03:35.97,0:03:41.52,DEFAULT,,0,0,0,,{\kf34}What{\kf53} I{\kf102} lost{\kf30} be{\kf57}fore{\kf23}~{\kf15}~{\kf165}~
-Dialogue: 0,0:03:42.00,0:03:47.37,DEFAULT,,0,0,0,,{\kf57}I{\kf57} am{\kf57} i{\kf38}mi{\kf68}ta{\kf188}tion
-Dialogue: 0,0:03:48.04,0:03:53.44,DEFAULT,,0,0,0,,{\kf30}I{\kf42} know{\kf30} I{\kf34} can't{\kf53} ex{\kf270}ceed
-Dialogue: 0,0:03:54.00,0:03:59.37,DEFAULT,,0,0,0,,{\kf98}Is{\kf38} there{\kf49} a{\kf30}ny{\kf113} hope{\kf124} for
-Dialogue: 0,0:03:59.63,0:04:11.63,DEFAULT,,0,0,0,,{\kf34}A{\kf68} heart{\kf120} that{\kf124} can{\kf147}not{\kf540} be
+Dialogue: 0,0:00:12.87,0:00:17.11,DEFAULT,,0,0,0,,{\r}{\kf83}Re{\kf83}write{\kf99} my{\kf83} pro{\kf76}gram
+Dialogue: 0,0:00:18.80,0:00:22.58,DEFAULT,,0,0,0,,{\r}{\kf62}Re{\kf71}set{\kf99} my{\kf147} brain
+Dialogue: 0,0:00:23.63,0:00:29.26,DEFAULT,,0,0,0,,{\r}{\kf37}I{\kf64} think{\kf80} there's{\kf85} some{\kf69}thing{\kf69} wrong{\kf74} with{\kf85} what
+Dialogue: 0,0:00:29.90,0:00:34.32,DEFAULT,,0,0,0,,{\r}{\kf137}I{\kf305} think
+Dialogue: 0,0:00:36.95,0:00:41.52,DEFAULT,,0,0,0,,{\r}{\kf57}A{\kf67}lone{\kf110} I{\kf95} wan{\kf129}der
+Dialogue: 0,0:00:42.91,0:00:46.66,DEFAULT,,0,0,0,,{\r}{\kf66}Through{\kf76} waste{\kf114}land{\kf119} scene
+Dialogue: 0,0:00:47.63,0:00:59.18,DEFAULT,,0,0,0,,{\r}{\kf38}But{\kf67} still{\kf63} I{\kf67} find{\kf63} my{\kf63} mind{\kf58} won't{\kf67} let{\kf96} me{\kf294} be{\kf19}~{\kf19}~{\kf241}~
+Dialogue: 0,0:01:18.12,0:01:22.55,DEFAULT,,0,0,0,,{\r}{\kf64}I{\kf74} am{\kf69} im{\kf39}per{\kf64}fec{\kf132}tion
+Dialogue: 0,0:01:24.12,0:01:28.66,DEFAULT,,0,0,0,,{\r}{\kf66}I{\kf66} know{\kf47} I{\kf56} am{\kf219} flawed
+Dialogue: 0,0:01:30.16,0:01:35.30,DEFAULT,,0,0,0,,{\r}{\kf58}Can{\kf82} some{\kf67}bo{\kf38}dy{\kf67} help{\kf72} me{\kf130} find
+Dialogue: 0,0:01:36.01,0:01:41.26,DEFAULT,,0,0,0,,{\r}{\kf33}What{\kf65} I{\kf107} lost{\kf37} be{\kf153}fore{\kf19}~{\kf111}~
+Dialogue: 0,0:01:42.16,0:01:46.96,DEFAULT,,0,0,0,,{\r}{\kf74}I{\kf60} am{\kf65} li{\kf51}mi{\kf51}ta{\kf179}tion
+Dialogue: 0,0:01:48.08,0:01:53.45,DEFAULT,,0,0,0,,{\r}{\kf58}I{\kf44} know{\kf35} I{\kf40} can't{\kf62} ex{\kf297}ceed
+Dialogue: 0,0:01:54.20,0:01:58.06,DEFAULT,,0,0,0,,{\r}{\kf110}Is{\kf41} there{\kf55} a{\kf46}ny{\kf134} hope
+Dialogue: 0,0:01:58.58,0:02:00.83,DEFAULT,,0,0,0,,{\r}{\kf117}For{\kf32} a{\kf76} heart
+Dialogue: 0,0:02:01.62,0:02:09.23,DEFAULT,,0,0,0,,{\r}{\kf137}That{\kf137} can{\kf150}not{\kf337} be
+Dialogue: 0,0:02:29.71,0:02:35.41,DEFAULT,,0,0,0,,{\r}{\kf48}I{\kf65} fought,{\kf53} I{\kf71} fought,{\kf53} I{\kf65} fought{\kf53} for{\kf36} a{\kf77} fu{\kf49}ture
+Dialogue: 0,0:02:35.60,0:02:40.81,DEFAULT,,0,0,0,,{\r}{\kf20}Where{\kf25} my{\kf69} life{\kf35} meant{\kf45} some{\kf69}thing{\kf258} real
+Dialogue: 0,0:02:41.60,0:02:47.07,DEFAULT,,0,0,0,,{\r}{\kf56}I{\kf75} thought,{\kf44} I{\kf87} thought,{\kf44} I{\kf62} thought{\kf44} if{\kf50} I{\kf86} tried
+Dialogue: 0,0:02:47.52,0:02:53.00,DEFAULT,,0,0,0,,{\r}{\kf35}Hard{\kf20} e{\kf60}nough,{\kf20} I{\kf25} could{\kf55} find{\kf60} my{\kf75} own{\kf197} will
+Dialogue: 0,0:02:53.71,0:02:59.48,DEFAULT,,0,0,0,,{\r}{\kf24}But{\kf59} cir{\kf54}cui{\kf49}try{\kf49} keeps{\kf44} me{\kf39} from{\kf64} chang{\kf44}ing{\kf44} my{\kf59} func{\kf49}tion
+Dialogue: 0,0:02:59.90,0:03:05.48,DEFAULT,,0,0,0,,{\r}{\kf28}A{\kf50} glitch{\kf39} in{\kf44} the{\kf50} sys{\kf50}tem{\kf44} is{\kf55} all{\kf44} I{\kf44} have{\kf55} for{\kf56} it
+Dialogue: 0,0:03:06.08,0:03:13.17,DEFAULT,,0,0,0,,{\r}{\kf59}Why{\kf54} would{\kf29} the{\kf49} ma{\kf39}ker{\kf49} make{\kf44} me{\kf44} a{\kf44}ware{\kf73} of{\kf88} the{\kf137} flaw
+Dialogue: 0,0:03:13.62,0:03:17.63,DEFAULT,,0,0,0,,{\r}{\kf149}I{\kf137} can't{\kf115} change
+Dialogue: 0,0:03:18.31,0:03:23.22,DEFAULT,,0,0,0,,{\r}{\kf45}I{\kf59} am{\kf64} im{\kf41}per{\kf59}fec{\kf223}tion
+Dialogue: 0,0:03:23.97,0:03:29.37,DEFAULT,,0,0,0,,{\r}{\kf46}I{\kf50} know{\kf38} that{\kf46} I{\kf59} am{\kf301} flawed
+Dialogue: 0,0:03:30.05,0:03:35.33,DEFAULT,,0,0,0,,{\r}{\kf68}Can{\kf64} some{\kf82}bo{\kf41}dy{\kf64} help{\kf73} me{\kf137} find
+Dialogue: 0,0:03:35.97,0:03:41.52,DEFAULT,,0,0,0,,{\r}{\kf39}What{\kf61} I{\kf118} lost{\kf35} be{\kf66}fore{\kf26}~{\kf17}~{\kf193}~
+Dialogue: 0,0:03:42.01,0:03:47.37,DEFAULT,,0,0,0,,{\r}{\kf65}I{\kf65} am{\kf65} i{\kf44}mi{\kf78}ta{\kf219}tion
+Dialogue: 0,0:03:48.05,0:03:53.45,DEFAULT,,0,0,0,,{\r}{\kf35}I{\kf49} know{\kf35} I{\kf40} can't{\kf62} ex{\kf319}ceed
+Dialogue: 0,0:03:54.01,0:03:59.37,DEFAULT,,0,0,0,,{\r}{\kf116}Is{\kf45} there{\kf58} a{\kf36}ny{\kf134} hope{\kf147} for
+Dialogue: 0,0:03:59.63,0:04:11.63,DEFAULT,,0,0,0,,{\r}{\kf39}A{\kf79} heart{\kf140} that{\kf144} can{\kf170}not{\kf628} be

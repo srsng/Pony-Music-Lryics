@@ -1,57 +1,64 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: In Our Town (Eurotopia Mix)
+Artist: Eurobeat Brony ft. Odyssey
+Original Timing: mylittlekaraoke.com by barbeque
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.81,0:00:16.05,DEFAULT,,0,0,0,,{\kf27}Heads{\kf27} high,{\kf23} po{\kf34}nies!
-Dialogue: 0,0:00:16.35,0:00:17.50,DEFAULT,,0,0,0,,{\kf23}Mar{\kf27}ching{\kf53} proud!
-Dialogue: 0,0:00:18.33,0:00:20.49,DEFAULT,,0,0,0,,{\kf12}All{\kf8} to{\kf12}get{\kf12}her{\kf30} now,{\kf19} eve{\kf19}ry{\kf15} one{\kf12} of{\kf38} you!
-Dialogue: 0,0:00:21.39,0:00:23.29,DEFAULT,,0,0,0,,{\kf23}No{\kf23}po{\kf23}ny{\kf23} left{\kf15} be{\kf53}hind!
-Dialogue: 0,0:00:36.33,0:00:38.72,DEFAULT,,0,0,0,,{\kf23}Life{\kf12} is{\kf12} so{\kf27} grand{\kf19} in{\kf27} our{\kf45} town
-Dialogue: 0,0:00:39.17,0:00:41.44,DEFAULT,,0,0,0,,{\kf12}We're{\kf27} al{\kf23}ways{\kf23} filled{\kf15} with{\kf57} cheer
-Dialogue: 0,0:00:42.19,0:00:44.62,DEFAULT,,0,0,0,,{\kf15}We{\kf19} ne{\kf27}ver{\kf23} have{\kf23} to{\kf15} look{\kf15} a{\kf34}round
-Dialogue: 0,0:00:45.22,0:00:47.31,DEFAULT,,0,0,0,,{\kf12}To{\kf27} know{\kf23} that{\kf19} we're{\kf23} all{\kf27} here
-Dialogue: 0,0:00:48.05,0:00:50.89,DEFAULT,,0,0,0,,{\kf23}In{\kf27} our{\kf42} town,{\kf23} in{\kf27} our{\kf64} town
-Dialogue: 0,0:00:51.42,0:00:53.10,DEFAULT,,0,0,0,,{\kf23}We{\kf27} don't{\kf23} have{\kf19} to{\kf23} wait
-Dialogue: 0,0:00:54.11,0:00:57.06,DEFAULT,,0,0,0,,{\kf15}To{\kf30} find{\kf30} out{\kf27} that{\kf27} our{\kf27} des{\kf23}ti{\kf42}ny
-Dialogue: 0,0:00:57.28,0:00:59.15,DEFAULT,,0,0,0,,{\kf15}Is{\kf23} just{\kf27} to{\kf23} em{\kf23}u{\kf19}late
-Dialogue: 0,0:01:02.28,0:01:04.67,DEFAULT,,0,0,0,,{\kf15}Let's{\kf15} see{\kf15} those{\kf30} big,{\kf19} hap{\kf19}py{\kf71} smiles
-Dialogue: 0,0:01:05.01,0:01:07.25,DEFAULT,,0,0,0,,{\kf19}Life{\kf12} is{\kf12} a{\kf30} smile{\kf19} in{\kf23} our{\kf42} town
-Dialogue: 0,0:01:07.77,0:01:09.98,DEFAULT,,0,0,0,,{\kf15}Our{\kf23} Cu{\kf23}tie{\kf23} Marks{\kf19} the{\kf49} same
-Dialogue: 0,0:01:10.80,0:01:13.38,DEFAULT,,0,0,0,,{\kf15}Be{\kf23}cause{\kf27} we{\kf19} do{\kf23} not{\kf15} se{\kf12}pa{\kf49}rate
-Dialogue: 0,0:01:13.83,0:01:16.10,DEFAULT,,0,0,0,,{\kf12}Our{\kf27}selves{\kf23} by{\kf30} more{\kf30} than{\kf60} name
-Dialogue: 0,0:01:16.66,0:01:19.32,DEFAULT,,0,0,0,,{\kf19}In{\kf19} our{\kf42} town,{\kf23} in{\kf27} our{\kf42} town
-Dialogue: 0,0:01:20.06,0:01:21.82,DEFAULT,,0,0,0,,{\kf23}We{\kf19} dare{\kf23} not{\kf27} com{\kf27}pete
-Dialogue: 0,0:01:23.09,0:01:25.59,DEFAULT,,0,0,0,,{\kf27}Win{\kf23}ning{\kf23} on{\kf27}ly{\kf23} breeds{\kf19} the{\kf30} worst
-Dialogue: 0,0:01:26.23,0:01:27.87,DEFAULT,,0,0,0,,{\kf23}E{\kf19}go-{\kf23}filled{\kf23} con{\kf27}ceit
-Dialogue: 0,0:01:28.09,0:01:30.78,DEFAULT,,0,0,0,,{\kf19}You{\kf38} see,{\kf34} now{\kf27} eve{\kf19}ry{\kf19}po{\kf12}ny{\kf64} wins
-Dialogue: 0,0:01:33.69,0:01:36.12,DEFAULT,,0,0,0,,{\kf19}Life{\kf15} is{\kf12} a{\kf27} joy{\kf23} in{\kf27} our{\kf53} town
-Dialogue: 0,0:01:36.65,0:01:38.74,DEFAULT,,0,0,0,,{\kf27}We're{\kf27} all{\kf23} e{\kf30}qual{\kf45} here
-Dialogue: 0,0:01:39.78,0:01:42.02,DEFAULT,,0,0,0,,{\kf23}No{\kf23}-one{\kf19} is{\kf27} su{\kf15}pe{\kf15}ri{\kf42}or
-Dialogue: 0,0:01:42.55,0:01:44.86,DEFAULT,,0,0,0,,{\kf15}And{\kf23} no{\kf23}-one{\kf27} shakes{\kf19} in{\kf60} fear
-Dialogue: 0,0:01:45.50,0:01:48.04,DEFAULT,,0,0,0,,{\kf23}In{\kf27} our{\kf42} town,{\kf23} in{\kf23} our{\kf42} town
-Dialogue: 0,0:01:48.82,0:01:50.65,DEFAULT,,0,0,0,,{\kf23}We{\kf30} work{\kf34} as{\kf19} a{\kf38} team
-Dialogue: 0,0:01:51.81,0:01:53.94,DEFAULT,,0,0,0,,{\kf23}You{\kf27} can't{\kf30} have{\kf19} a{\kf23} night{\kf30}mare
-Dialogue: 0,0:01:54.83,0:01:56.59,DEFAULT,,0,0,0,,{\kf19}If{\kf23} you{\kf23} ne{\kf27}ver{\kf34} dream
-Dialogue: 0,0:01:59.43,0:02:01.52,DEFAULT,,0,0,0,,{\kf23}O{\kf23}ther{\kf27} po{\kf27}nies{\kf23} ar{\kf34}gue
-Dialogue: 0,0:02:02.01,0:02:04.43,DEFAULT,,0,0,0,,{\kf12}Do{\kf19} you{\kf23} ev{\kf23}er{\kf30} won{\kf23}der{\kf57} why?
-Dialogue: 0,0:02:04.99,0:02:07.42,DEFAULT,,0,0,0,,{\kf15}When{\kf12} you{\kf23} think{\kf27} your{\kf19} ta{\kf23}lent's{\kf19} spe{\kf27}cial
-Dialogue: 0,0:02:08.24,0:02:10.71,DEFAULT,,0,0,0,,{\kf15}You{\kf27} don't{\kf27} see{\kf23} eye{\kf27} to{\kf71} eye
-Dialogue: 0,0:02:11.12,0:02:13.73,DEFAULT,,0,0,0,,{\kf23}There's{\kf27} just{\kf19} too{\kf23} ma{\kf30}ny{\kf19} dif{\kf15}feren{\kf30}ces
-Dialogue: 0,0:02:14.26,0:02:16.46,DEFAULT,,0,0,0,,{\kf15}That{\kf19} lead{\kf23} to{\kf27} di{\kf30}sa{\kf49}rray
-Dialogue: 0,0:02:17.24,0:02:19.97,DEFAULT,,0,0,0,,{\kf12}But{\kf30} when{\kf23} you{\kf30} learn{\kf19} to{\kf23} act{\kf23} as{\kf27} one
-Dialogue: 0,0:02:20.23,0:02:22.66,DEFAULT,,0,0,0,,{\kf15}It's{\kf27} like{\kf23} a{\kf23} ho{\kf30}li{\kf64}day
-Dialogue: 0,0:02:23.18,0:02:25.72,DEFAULT,,0,0,0,,{\kf19}In{\kf23} our{\kf38} town,{\kf23} in{\kf19} our{\kf34} town
-Dialogue: 0,0:02:26.51,0:02:28.26,DEFAULT,,0,0,0,,{\kf27}We{\kf23} don't{\kf27} com{\kf27}pli{\kf27}cate
-Dialogue: 0,0:02:29.53,0:02:32.07,DEFAULT,,0,0,0,,{\kf27}When{\kf23} you{\kf30} learn{\kf15} to{\kf27} sim{\kf23}pli{\kf42}fy
-Dialogue: 0,0:02:32.56,0:02:34.27,DEFAULT,,0,0,0,,{\kf23}Life{\kf23} is{\kf19} oh{\kf27} so{\kf30} great
-Dialogue: 0,0:02:35.58,0:02:38.05,DEFAULT,,0,0,0,,{\kf30}Join{\kf27} in{\kf23} our{\kf23} u{\kf23}to{\kf27}pi{\kf27}a
-Dialogue: 0,0:02:38.64,0:02:40.33,DEFAULT,,0,0,0,,{\kf27}Come{\kf23} out{\kf23} of{\kf23} the{\kf27} dark
-Dialogue: 0,0:02:41.67,0:02:44.10,DEFAULT,,0,0,0,,{\kf23}Ban{\kf27}ded{\kf27} by{\kf23} e{\kf27}qua{\kf23}li{\kf34}ty
-Dialogue: 0,0:02:44.62,0:02:46.41,DEFAULT,,0,0,0,,{\kf27}By{\kf27} our{\kf23} Cu{\kf27}tie{\kf30} mark
+Dialogue: 0,0:00:14.82,0:00:16.05,DEFAULT,,0,0,0,,{\r}{\kf30}Heads{\kf30} high,{\kf25} po{\kf38}nies!
+Dialogue: 0,0:00:16.35,0:00:17.51,DEFAULT,,0,0,0,,{\r}{\kf26}Mar{\kf30}ching{\kf60} proud!
+Dialogue: 0,0:00:18.33,0:00:20.50,DEFAULT,,0,0,0,,{\r}{\kf14}All{\kf10} to{\kf14}get{\kf14}her{\kf38} now,{\kf24} eve{\kf24}ry{\kf19} one{\kf14} of{\kf46} you!
+Dialogue: 0,0:00:21.39,0:00:23.30,DEFAULT,,0,0,0,,{\r}{\kf27}No{\kf27}po{\kf27}ny{\kf27} left{\kf18} be{\kf64}hind!
+Dialogue: 0,0:00:36.33,0:00:38.72,DEFAULT,,0,0,0,,{\r}{\kf33}Life{\kf17} is{\kf17} so{\kf39} grand{\kf28} in{\kf39} our{\kf66} town
+Dialogue: 0,0:00:39.17,0:00:41.45,DEFAULT,,0,0,0,,{\r}{\kf17}We're{\kf39} al{\kf33}ways{\kf33} filled{\kf22} with{\kf84} cheer
+Dialogue: 0,0:00:42.20,0:00:44.62,DEFAULT,,0,0,0,,{\r}{\kf22}We{\kf27} ne{\kf38}ver{\kf32} have{\kf32} to{\kf22} look{\kf22} a{\kf48}round
+Dialogue: 0,0:00:45.22,0:00:47.31,DEFAULT,,0,0,0,,{\r}{\kf18}To{\kf43} know{\kf37} that{\kf31} we're{\kf37} all{\kf43} here
+Dialogue: 0,0:00:48.06,0:00:50.90,DEFAULT,,0,0,0,,{\r}{\kf32}In{\kf37} our{\kf58} town,{\kf32} in{\kf37} our{\kf88} town
+Dialogue: 0,0:00:51.42,0:00:53.10,DEFAULT,,0,0,0,,{\r}{\kf34}We{\kf39} don't{\kf34} have{\kf28} to{\kf33} wait
+Dialogue: 0,0:00:54.11,0:00:57.06,DEFAULT,,0,0,0,,{\r}{\kf20}To{\kf41} find{\kf41} out{\kf36} that{\kf36} our{\kf36} des{\kf31}ti{\kf54}ny
+Dialogue: 0,0:00:57.28,0:00:59.15,DEFAULT,,0,0,0,,{\r}{\kf22}Is{\kf33} just{\kf38} to{\kf33} em{\kf33}u{\kf28}late
+Dialogue: 0,0:01:02.29,0:01:04.68,DEFAULT,,0,0,0,,{\r}{\kf20}Let's{\kf20} see{\kf20} those{\kf39} big,{\kf24} hap{\kf24}py{\kf92} smiles
+Dialogue: 0,0:01:05.02,0:01:07.26,DEFAULT,,0,0,0,,{\r}{\kf27}Life{\kf16} is{\kf16} a{\kf44} smile{\kf27} in{\kf33} our{\kf61} town
+Dialogue: 0,0:01:07.78,0:01:09.98,DEFAULT,,0,0,0,,{\r}{\kf22}Our{\kf33} Cu{\kf33}tie{\kf33} Marks{\kf28} the{\kf71} same
+Dialogue: 0,0:01:10.81,0:01:13.38,DEFAULT,,0,0,0,,{\r}{\kf22}Be{\kf32}cause{\kf38} we{\kf27} do{\kf32} not{\kf22} se{\kf16}pa{\kf69}rate
+Dialogue: 0,0:01:13.83,0:01:16.11,DEFAULT,,0,0,0,,{\r}{\kf14}Our{\kf33}selves{\kf28} by{\kf38} more{\kf38} than{\kf77} name
+Dialogue: 0,0:01:16.67,0:01:19.32,DEFAULT,,0,0,0,,{\r}{\kf29}In{\kf29} our{\kf65} town,{\kf35} in{\kf41} our{\kf66} town
+Dialogue: 0,0:01:20.07,0:01:21.82,DEFAULT,,0,0,0,,{\r}{\kf34}We{\kf28} dare{\kf34} not{\kf40} com{\kf40}pete
+Dialogue: 0,0:01:23.09,0:01:25.60,DEFAULT,,0,0,0,,{\r}{\kf39}Win{\kf33}ning{\kf33} on{\kf39}ly{\kf33} breeds{\kf28} the{\kf45} worst
+Dialogue: 0,0:01:26.23,0:01:27.87,DEFAULT,,0,0,0,,{\r}{\kf33}E{\kf27}go-{\kf33}filled{\kf33} con{\kf38}ceit
+Dialogue: 0,0:01:28.10,0:01:30.79,DEFAULT,,0,0,0,,{\r}{\kf22}You{\kf44} see,{\kf40} now{\kf31} eve{\kf22}ry{\kf22}po{\kf13}ny{\kf75} wins
+Dialogue: 0,0:01:33.70,0:01:36.13,DEFAULT,,0,0,0,,{\r}{\kf26}Life{\kf21} is{\kf16} a{\kf37} joy{\kf32} in{\kf37} our{\kf74} town
+Dialogue: 0,0:01:36.65,0:01:38.74,DEFAULT,,0,0,0,,{\r}{\kf37}We're{\kf37} all{\kf31} e{\kf42}qual{\kf62} here
+Dialogue: 0,0:01:39.79,0:01:42.03,DEFAULT,,0,0,0,,{\r}{\kf31}No{\kf31}-one{\kf26} is{\kf36} su{\kf21}pe{\kf21}ri{\kf58}or
+Dialogue: 0,0:01:42.55,0:01:44.87,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf32} no{\kf32}-one{\kf37} shakes{\kf26} in{\kf84} fear
+Dialogue: 0,0:01:45.50,0:01:48.04,DEFAULT,,0,0,0,,{\r}{\kf32}In{\kf38} our{\kf59} town,{\kf32} in{\kf32} our{\kf61} town
+Dialogue: 0,0:01:48.83,0:01:50.66,DEFAULT,,0,0,0,,{\r}{\kf29}We{\kf39} work{\kf43} as{\kf24} a{\kf48} team
+Dialogue: 0,0:01:51.81,0:01:53.94,DEFAULT,,0,0,0,,{\r}{\kf32}You{\kf37} can't{\kf43} have{\kf27} a{\kf32} night{\kf42}mare
+Dialogue: 0,0:01:54.84,0:01:56.59,DEFAULT,,0,0,0,,{\r}{\kf27}If{\kf32} you{\kf32} ne{\kf37}ver{\kf48} dream
+Dialogue: 0,0:01:59.43,0:02:01.52,DEFAULT,,0,0,0,,{\r}{\kf31}O{\kf31}ther{\kf36} po{\kf36}nies{\kf31} ar{\kf44}gue
+Dialogue: 0,0:02:02.01,0:02:04.44,DEFAULT,,0,0,0,,{\r}{\kf15}Do{\kf25} you{\kf30} ev{\kf30}er{\kf40} won{\kf30}der{\kf73} why?
+Dialogue: 0,0:02:05.00,0:02:07.43,DEFAULT,,0,0,0,,{\r}{\kf23}When{\kf17} you{\kf34} think{\kf40} your{\kf28} ta{\kf34}lent's{\kf28} spe{\kf39}cial
+Dialogue: 0,0:02:08.25,0:02:10.71,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf35} don't{\kf35} see{\kf30} eye{\kf35} to{\kf92} eye
+Dialogue: 0,0:02:11.12,0:02:13.74,DEFAULT,,0,0,0,,{\r}{\kf32}There's{\kf37} just{\kf27} too{\kf32} ma{\kf43}ny{\kf27} dif{\kf21}feren{\kf42}ces
+Dialogue: 0,0:02:14.26,0:02:16.46,DEFAULT,,0,0,0,,{\r}{\kf20}That{\kf26} lead{\kf31} to{\kf36} di{\kf41}sa{\kf66}rray
+Dialogue: 0,0:02:17.25,0:02:19.98,DEFAULT,,0,0,0,,{\r}{\kf17}But{\kf45} when{\kf33} you{\kf45} learn{\kf28} to{\kf33} act{\kf33} as{\kf39} one
+Dialogue: 0,0:02:20.24,0:02:22.66,DEFAULT,,0,0,0,,{\r}{\kf20}It's{\kf35} like{\kf30} a{\kf30} ho{\kf40}li{\kf88}day
+Dialogue: 0,0:02:23.19,0:02:25.73,DEFAULT,,0,0,0,,{\r}{\kf31}In{\kf37} our{\kf62} town,{\kf37} in{\kf31} our{\kf56} town
+Dialogue: 0,0:02:26.51,0:02:28.27,DEFAULT,,0,0,0,,{\r}{\kf36}We{\kf31} don't{\kf36} com{\kf36}pli{\kf37}cate
+Dialogue: 0,0:02:29.54,0:02:32.08,DEFAULT,,0,0,0,,{\r}{\kf36}When{\kf31} you{\kf41} learn{\kf21} to{\kf36} sim{\kf31}pli{\kf58}fy
+Dialogue: 0,0:02:32.56,0:02:34.28,DEFAULT,,0,0,0,,{\r}{\kf32}Life{\kf32} is{\kf27} oh{\kf38} so{\kf43} great
+Dialogue: 0,0:02:35.59,0:02:38.05,DEFAULT,,0,0,0,,{\r}{\kf42}Join{\kf37} in{\kf32} our{\kf32} u{\kf32}to{\kf37}pi{\kf35}a
+Dialogue: 0,0:02:38.65,0:02:40.33,DEFAULT,,0,0,0,,{\r}{\kf37}Come{\kf32} out{\kf32} of{\kf32} the{\kf35} dark
+Dialogue: 0,0:02:41.67,0:02:44.10,DEFAULT,,0,0,0,,{\r}{\kf30}Ban{\kf35}ded{\kf35} by{\kf30} e{\kf35}qua{\kf30}li{\kf48}ty
+Dialogue: 0,0:02:44.63,0:02:46.42,DEFAULT,,0,0,0,,{\r}{\kf36}By{\kf36} our{\kf31} Cu{\kf36}tie{\kf40} mark

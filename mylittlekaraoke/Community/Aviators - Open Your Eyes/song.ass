@@ -1,71 +1,78 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Open Your Eyes
+Artist: Aviators
+Original Timing: mylittlekaraoke.com by Pete993;ShTHfan1
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:15.95,0:00:19.36,DEFAULT,,0,0,0,,{\kf30}I{\kf42} watched{\kf36} them{\kf42} change{\kf36} be{\kf36}fore{\kf18} my{\kf36} eyes
-Dialogue: 0,0:00:19.66,0:00:23.25,DEFAULT,,0,0,0,,{\kf24}Des{\kf24}ti{\kf30}nies{\kf24} re{\kf24}ar{\kf18}ranged{\kf42} to{\kf30} my{\kf30} sur{\kf18}pri{\kf18}~se
-Dialogue: 0,0:00:23.61,0:00:26.90,DEFAULT,,0,0,0,,{\kf30}I{\kf36} tried{\kf30} so{\kf36} hard{\kf30} to{\kf36} make{\kf18} a{\kf30}mends
-Dialogue: 0,0:00:27.14,0:00:30.92,DEFAULT,,0,0,0,,{\kf18}But{\kf18} my{\kf24} mis{\kf30}take{\kf42} has{\kf24} se{\kf36}par{\kf36}a{\kf18}ted{\kf18} my{\kf24} fri{\kf18}~ends
-Dialogue: 0,0:00:31.21,0:00:34.75,DEFAULT,,0,0,0,,{\kf36}White{\kf42} turned{\kf18} to{\kf18} blu{\kf36}~ue,{\kf24} and{\kf30} blue{\kf18} to{\kf36} white
-Dialogue: 0,0:00:35.05,0:00:38.64,DEFAULT,,0,0,0,,{\kf24}Har{\kf24}mo{\kf36}ny{\kf42} re{\kf24}wri{\kf42}tten{\kf12} ou{\kf18}~t{\kf30} of{\kf18} si{\kf24}~ght
-Dialogue: 0,0:00:39.00,0:00:42.29,DEFAULT,,0,0,0,,{\kf30}What{\kf18} can{\kf30} I{\kf42} do{\kf30} to{\kf36} bring{\kf18} you{\kf24} back?
-Dialogue: 0,0:00:42.53,0:00:46.48,DEFAULT,,0,0,0,,{\kf18}My{\kf24} tech{\kf18}ni{\kf24}co{\kf36}lor{\kf24} world{\kf36} has{\kf36} fa{\kf18}ded{\kf18} to{\kf18} bla{\kf42}~ck
-Dialogue: 0,0:00:47.14,0:00:50.20,DEFAULT,,0,0,0,,{\kf36}Wake{\kf30} up{\kf36} now{\kf24} and{\kf42} see{\kf18} the{\kf42} truth
-Dialogue: 0,0:00:50.68,0:00:53.97,DEFAULT,,0,0,0,,{\kf18}I'm{\kf42} here{\kf18} to{\kf66} show{\kf24} the{\kf60} world{\kf18} to{\kf36} you
-Dialogue: 0,0:00:54.81,0:00:57.86,DEFAULT,,0,0,0,,{\kf36}The{\kf42} way{\kf36} it{\kf42} was{\kf36} meant{\kf18} to{\kf42} be
-Dialogue: 0,0:00:58.58,0:01:01.57,DEFAULT,,0,0,0,,{\kf30}So{\kf24} fol{\kf54}low{\kf24} your{\kf48} des{\kf24}ti{\kf30}ny
-Dialogue: 0,0:01:02.11,0:01:05.47,DEFAULT,,0,0,0,,{\kf24}This{\kf36} twist{\kf30}ed{\kf30} fu{\kf36}ture{\kf18} is{\kf30}n't{\kf42} right
-Dialogue: 0,0:01:06.00,0:01:09.36,DEFAULT,,0,0,0,,{\kf18}Let's{\kf42} bring{\kf18} the{\kf54} real{\kf42} you{\kf18} to{\kf30} the{\kf48} light
-Dialogue: 0,0:01:09.96,0:01:13.67,DEFAULT,,0,0,0,,{\kf18}I'm{\kf30} going{\kf36} to{\kf36} make{\kf30} you{\kf48} re{\kf18}a{\kf90}lize
-Dialogue: 0,0:01:14.45,0:01:17.38,DEFAULT,,0,0,0,,{\kf24}So{\kf30} o{\kf30}pen{\kf42} your{\kf18} e{\kf30}yes
-Dialogue: 0,0:01:32.71,0:01:36.12,DEFAULT,,0,0,0,,{\kf30}I've{\kf36} made{\kf30} mis{\kf42}takes{\kf30} and{\kf30} failed{\kf24} be{\kf30}fore
-Dialogue: 0,0:01:36.48,0:01:40.08,DEFAULT,,0,0,0,,{\kf18}But{\kf24} some{\kf36}how{\kf30} this{\kf30} time{\kf30} it's{\kf30} some{\kf24}thing{\kf24} mo{\kf18}~re
-Dialogue: 0,0:01:40.38,0:01:43.97,DEFAULT,,0,0,0,,{\kf36}Bro{\kf36}ken{\kf42} your{\kf42} life{\kf24} and{\kf42} who{\kf18} you{\kf48} are
-Dialogue: 0,0:01:44.21,0:01:47.74,DEFAULT,,0,0,0,,{\kf18}I'm{\kf24} a{\kf18}fraid{\kf36} I've{\kf18} left{\kf30} a{\kf36} ter{\kf24}ri{\kf18}ble{\kf18} scar{\kf18}~
-Dialogue: 0,0:01:48.04,0:01:51.39,DEFAULT,,0,0,0,,{\kf18}But{\kf24} a{\kf48}po{\kf24}lo{\kf24}gi{\kf30}~es{\kf24} won't{\kf36} save{\kf18} me{\kf24} now
-Dialogue: 0,0:01:51.63,0:01:55.41,DEFAULT,,0,0,0,,{\kf18}It's{\kf18} up{\kf18} to{\kf30} me{\kf30} to{\kf24} re{\kf36}store{\kf36} you{\kf30} some{\kf18}ho{\kf18}~w
-Dialogue: 0,0:01:55.71,0:01:59.30,DEFAULT,,0,0,0,,{\kf42}I'll{\kf42} bring{\kf42} you{\kf42} back{\kf48} your{\kf36} mem{\kf24}or{\kf48}ies
-Dialogue: 0,0:01:59.54,0:02:03.25,DEFAULT,,0,0,0,,{\kf18}Piece{\kf18} by{\kf36} piece{\kf30} re{\kf30}stor{\kf36}ing{\kf48} har{\kf42}mo{\kf18}ny{\kf36}~
-Dialogue: 0,0:02:03.85,0:02:07.02,DEFAULT,,0,0,0,,{\kf42}Wake{\kf42} up{\kf36} now{\kf24} and{\kf42} see{\kf18} the{\kf48} truth
-Dialogue: 0,0:02:07.44,0:02:10.74,DEFAULT,,0,0,0,,{\kf18}I'm{\kf42} here{\kf18} to{\kf66} show{\kf18} the{\kf60} world{\kf18} to{\kf30} you
-Dialogue: 0,0:02:11.63,0:02:14.69,DEFAULT,,0,0,0,,{\kf30}The{\kf36} way{\kf42} it{\kf36} was{\kf36} meant{\kf18} to{\kf54} be
-Dialogue: 0,0:02:15.35,0:02:18.46,DEFAULT,,0,0,0,,{\kf30}So{\kf24} fol{\kf54}low{\kf18} your{\kf48} des{\kf24}ti{\kf36}ny
-Dialogue: 0,0:02:18.94,0:02:22.23,DEFAULT,,0,0,0,,{\kf18}This{\kf36} twi{\kf36}sted{\kf42} fu{\kf30}ture{\kf24} is{\kf30}n't{\kf36} right
-Dialogue: 0,0:02:22.83,0:02:26.12,DEFAULT,,0,0,0,,{\kf18}Let's{\kf42} bring{\kf18} the{\kf48} real{\kf36} you{\kf18} to{\kf30} the{\kf42} light
-Dialogue: 0,0:02:26.72,0:02:30.20,DEFAULT,,0,0,0,,{\kf18}I'm{\kf30} going{\kf30} to{\kf36} make{\kf36} you{\kf36} re{\kf24}a{\kf60}lize
-Dialogue: 0,0:02:31.21,0:02:34.27,DEFAULT,,0,0,0,,{\kf24}So{\kf36} o{\kf30}pen{\kf42} your{\kf24} e{\kf36}yes
-Dialogue: 0,0:03:04.93,0:03:07.38,DEFAULT,,0,0,0,,{\kf18}I've{\kf30} got{\kf30} to{\kf36} find{\kf24} a{\kf42} way
-Dialogue: 0,0:03:08.70,0:03:11.69,DEFAULT,,0,0,0,,{\kf18}To{\kf36} make{\kf30} this{\kf36} all{\kf24} o{\kf18}ka{\kf18}~{\kf36}~y
-Dialogue: 0,0:03:12.47,0:03:15.11,DEFAULT,,0,0,0,,{\kf18}I've{\kf48} got{\kf30} to{\kf36} find{\kf30} a{\kf42} way
-Dialogue: 0,0:03:16.30,0:03:19.24,DEFAULT,,0,0,0,,{\kf18}To{\kf30} fix{\kf42} my{\kf30} own{\kf24} mis{\kf18}ta{\kf18}~{\kf24}~ke
-Dialogue: 0,0:03:19.72,0:03:21.93,DEFAULT,,0,0,0,,{\kf42}Oh,{\kf18} but{\kf12} I{\kf18} pro{\kf18}mise{\kf18} to{\kf18} suc{\kf36}ceed
-Dialogue: 0,0:03:22.41,0:03:23.97,DEFAULT,,0,0,0,,{\kf12}I{\kf12} know{\kf18} you're{\kf12} still{\kf18} in{\kf48} need
-Dialogue: 0,0:03:24.33,0:03:25.65,DEFAULT,,0,0,0,,{\kf12}I{\kf18} know{\kf18} you've{\kf18} been{\kf24} mis{\kf18}used
-Dialogue: 0,0:03:25.95,0:03:27.62,DEFAULT,,0,0,0,,{\kf18}And{\kf18} you're{\kf24} pro{\kf24}ba{\kf18}bly{\kf24} con{\kf24}fused
-Dialogue: 0,0:03:27.98,0:03:29.78,DEFAULT,,0,0,0,,{\kf12}But{\kf18} there's{\kf18} not{\kf18} much{\kf18} I{\kf18} can{\kf42} do
-Dialogue: 0,0:03:30.08,0:03:31.63,DEFAULT,,0,0,0,,{\kf12}The{\kf18} cure{\kf18} is{\kf24} with{\kf18}in{\kf42} you
-Dialogue: 0,0:03:32.05,0:03:33.55,DEFAULT,,0,0,0,,{\kf12}So{\kf18} hold{\kf30} on{\kf66} tight
-Dialogue: 0,0:03:33.91,0:03:35.83,DEFAULT,,0,0,0,,{\kf18}And{\kf24} o{\kf18}pen{\kf18} your{\kf48} e{\kf24}~{\kf24}~yes
-Dialogue: 0,0:03:36.12,0:03:39.18,DEFAULT,,0,0,0,,{\kf36}Wake{\kf30} up{\kf42} now{\kf18} and{\kf42} see{\kf18} the{\kf48} truth
-Dialogue: 0,0:03:39.66,0:03:43.01,DEFAULT,,0,0,0,,{\kf18}I'm{\kf42} here{\kf18} to{\kf60} show{\kf18} the{\kf60} world{\kf18} to{\kf48} you
-Dialogue: 0,0:03:43.73,0:03:46.90,DEFAULT,,0,0,0,,{\kf42}The{\kf42} way{\kf30} it{\kf30} was{\kf30} meant{\kf18} to{\kf60} be
-Dialogue: 0,0:03:47.56,0:03:50.68,DEFAULT,,0,0,0,,{\kf30}So{\kf24} fol{\kf60}low{\kf18} your{\kf48} des{\kf24}ti{\kf42}ny
-Dialogue: 0,0:03:51.15,0:03:54.51,DEFAULT,,0,0,0,,{\kf18}This{\kf36} twi{\kf36}sted{\kf42} fu{\kf36}ture{\kf18} is{\kf30}n't{\kf48} right
-Dialogue: 0,0:03:54.93,0:03:58.22,DEFAULT,,0,0,0,,{\kf18}Let's{\kf36} bring{\kf18} the{\kf48} real{\kf42} you{\kf18} to{\kf30} the{\kf48} light
-Dialogue: 0,0:03:58.94,0:04:02.65,DEFAULT,,0,0,0,,{\kf18}I'm{\kf30} going{\kf36} to{\kf42} make{\kf36} you{\kf48} re{\kf24}a{\kf96}lize
-Dialogue: 0,0:04:03.43,0:04:06.60,DEFAULT,,0,0,0,,{\kf30}So{\kf36} o{\kf30}pen{\kf48} your{\kf24} e{\kf54}~yes
-Dialogue: 0,0:04:22.05,0:04:25.23,DEFAULT,,0,0,0,,{\kf42}Wake{\kf36} up{\kf36} now{\kf24} and{\kf42} see{\kf18} the{\kf48} truth
-Dialogue: 0,0:04:25.71,0:04:29.00,DEFAULT,,0,0,0,,{\kf18}I'm{\kf42} here{\kf18} to{\kf60} show{\kf18} the{\kf54} world{\kf18} to{\kf36} you
-Dialogue: 0,0:04:29.78,0:04:32.89,DEFAULT,,0,0,0,,{\kf36}The{\kf36} way{\kf36} it{\kf36} was{\kf36} meant{\kf18} to{\kf48} be
-Dialogue: 0,0:04:33.61,0:04:36.78,DEFAULT,,0,0,0,,{\kf36}So{\kf24} fol{\kf54}low{\kf24} your{\kf42} des{\kf24}ti{\kf42}ny
-Dialogue: 0,0:04:37.26,0:04:40.50,DEFAULT,,0,0,0,,{\kf18}This{\kf36} twi{\kf36}sted{\kf30} fu{\kf36}ture{\kf24} is{\kf30}n't{\kf42} right
-Dialogue: 0,0:04:41.03,0:04:44.33,DEFAULT,,0,0,0,,{\kf18}Let's{\kf36} bring{\kf18} the{\kf48} real{\kf36} you{\kf24} to{\kf30} the{\kf42} light
-Dialogue: 0,0:04:45.05,0:04:48.46,DEFAULT,,0,0,0,,{\kf18}I'm{\kf30} going{\kf42} to{\kf42} make{\kf24} you{\kf42} re{\kf24}a{\kf60}lize
-Dialogue: 0,0:04:49.48,0:04:52.65,DEFAULT,,0,0,0,,{\kf36}So{\kf36} o{\kf36}pen{\kf48} your{\kf24} e{\kf48}~yes
+Dialogue: 0,0:00:15.95,0:00:19.36,DEFAULT,,0,0,0,,{\r}{\kf37}I{\kf52} watched{\kf44} them{\kf52} change{\kf44} be{\kf44}fore{\kf22} my{\kf46} eyes
+Dialogue: 0,0:00:19.66,0:00:23.26,DEFAULT,,0,0,0,,{\r}{\kf31}Des{\kf31}ti{\kf38}nies{\kf31} re{\kf31}ar{\kf23}ranged{\kf53} to{\kf38} my{\kf38} sur{\kf23}pri{\kf22}~se
+Dialogue: 0,0:00:23.61,0:00:26.91,DEFAULT,,0,0,0,,{\r}{\kf40}I{\kf48} tried{\kf40} so{\kf48} hard{\kf40} to{\kf48} make{\kf24} a{\kf41}mends
+Dialogue: 0,0:00:27.15,0:00:30.92,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} my{\kf30} mis{\kf37}take{\kf52} has{\kf30} se{\kf44}par{\kf44}a{\kf22}ted{\kf22} my{\kf30} fri{\kf22}~ends
+Dialogue: 0,0:00:31.22,0:00:34.75,DEFAULT,,0,0,0,,{\r}{\kf49}White{\kf57} turned{\kf25} to{\kf25} blu{\kf49}~ue,{\kf33} and{\kf41} blue{\kf25} to{\kf49} white
+Dialogue: 0,0:00:35.05,0:00:38.64,DEFAULT,,0,0,0,,{\r}{\kf29}Har{\kf29}mo{\kf44}ny{\kf51} re{\kf29}wri{\kf51}tten{\kf15} ou{\kf22}~t{\kf37} of{\kf22} si{\kf30}~ght
+Dialogue: 0,0:00:39.00,0:00:42.30,DEFAULT,,0,0,0,,{\r}{\kf43}What{\kf26} can{\kf43} I{\kf61} do{\kf43} to{\kf52} bring{\kf26} you{\kf35} back?
+Dialogue: 0,0:00:42.54,0:00:46.49,DEFAULT,,0,0,0,,{\r}{\kf23}My{\kf30} tech{\kf23}ni{\kf30}co{\kf46}lor{\kf30} world{\kf46} has{\kf46} fa{\kf23}ded{\kf23} to{\kf23} bla{\kf52}~ck
+Dialogue: 0,0:00:47.15,0:00:50.20,DEFAULT,,0,0,0,,{\r}{\kf48}Wake{\kf40} up{\kf48} now{\kf32} and{\kf56} see{\kf24} the{\kf57} truth
+Dialogue: 0,0:00:50.68,0:00:53.97,DEFAULT,,0,0,0,,{\r}{\kf21}I'm{\kf49} here{\kf21} to{\kf77} show{\kf28} the{\kf70} world{\kf21} to{\kf42} you
+Dialogue: 0,0:00:54.81,0:00:57.87,DEFAULT,,0,0,0,,{\r}{\kf44}The{\kf51} way{\kf44} it{\kf51} was{\kf44} meant{\kf22} to{\kf49} be
+Dialogue: 0,0:00:58.58,0:01:01.58,DEFAULT,,0,0,0,,{\r}{\kf38}So{\kf31} fol{\kf69}low{\kf31} your{\kf61} des{\kf31}ti{\kf38}ny
+Dialogue: 0,0:01:02.12,0:01:05.47,DEFAULT,,0,0,0,,{\r}{\kf33}This{\kf49} twist{\kf41}ed{\kf41} fu{\kf49}ture{\kf25} is{\kf41}n't{\kf56} right
+Dialogue: 0,0:01:06.01,0:01:09.36,DEFAULT,,0,0,0,,{\r}{\kf22}Let's{\kf52} bring{\kf22} the{\kf67} real{\kf52} you{\kf22} to{\kf37} the{\kf61} light
+Dialogue: 0,0:01:09.96,0:01:13.67,DEFAULT,,0,0,0,,{\r}{\kf22}I'm{\kf36} going{\kf44} to{\kf44} make{\kf36} you{\kf58} re{\kf22}a{\kf109}lize
+Dialogue: 0,0:01:14.45,0:01:17.39,DEFAULT,,0,0,0,,{\r}{\kf40}So{\kf51} o{\kf51}pen{\kf71} your{\kf30} e{\kf50}yes
+Dialogue: 0,0:01:32.72,0:01:36.13,DEFAULT,,0,0,0,,{\r}{\kf41}I've{\kf49} made{\kf41} mis{\kf57}takes{\kf41} and{\kf41} failed{\kf32} be{\kf39}fore
+Dialogue: 0,0:01:36.49,0:01:40.08,DEFAULT,,0,0,0,,{\r}{\kf24}But{\kf33} some{\kf49}how{\kf41} this{\kf41} time{\kf41} it's{\kf41} some{\kf33}thing{\kf33} mo{\kf23}~re
+Dialogue: 0,0:01:40.38,0:01:43.97,DEFAULT,,0,0,0,,{\r}{\kf45}Bro{\kf45}ken{\kf52} your{\kf52} life{\kf30} and{\kf52} who{\kf22} you{\kf61} are
+Dialogue: 0,0:01:44.21,0:01:47.75,DEFAULT,,0,0,0,,{\r}{\kf25}I'm{\kf33} a{\kf25}fraid{\kf49} I've{\kf25} left{\kf41} a{\kf49} ter{\kf33}ri{\kf25}ble{\kf25} scar{\kf23}~
+Dialogue: 0,0:01:48.05,0:01:51.40,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf30} a{\kf60}po{\kf30}lo{\kf30}gi{\kf37}~es{\kf30} won't{\kf45} save{\kf22} me{\kf29} now
+Dialogue: 0,0:01:51.64,0:01:55.41,DEFAULT,,0,0,0,,{\r}{\kf25}It's{\kf25} up{\kf25} to{\kf41} me{\kf41} to{\kf33} re{\kf49}store{\kf49} you{\kf41} some{\kf25}ho{\kf23}~w
+Dialogue: 0,0:01:55.71,0:01:59.30,DEFAULT,,0,0,0,,{\r}{\kf47}I'll{\kf47} bring{\kf47} you{\kf47} back{\kf53} your{\kf40} mem{\kf27}or{\kf51}ies
+Dialogue: 0,0:01:59.54,0:02:03.26,DEFAULT,,0,0,0,,{\r}{\kf21}Piece{\kf21} by{\kf43} piece{\kf36} re{\kf36}stor{\kf43}ing{\kf57} har{\kf50}mo{\kf21}ny{\kf43}~
+Dialogue: 0,0:02:03.85,0:02:07.03,DEFAULT,,0,0,0,,{\r}{\kf53}Wake{\kf53} up{\kf45} now{\kf30} and{\kf53} see{\kf23} the{\kf60} truth
+Dialogue: 0,0:02:07.45,0:02:10.74,DEFAULT,,0,0,0,,{\r}{\kf22}I'm{\kf51} here{\kf22} to{\kf80} show{\kf22} the{\kf73} world{\kf22} to{\kf37} you
+Dialogue: 0,0:02:11.64,0:02:14.69,DEFAULT,,0,0,0,,{\r}{\kf36}The{\kf44} way{\kf51} it{\kf44} was{\kf44} meant{\kf22} to{\kf64} be
+Dialogue: 0,0:02:15.35,0:02:18.46,DEFAULT,,0,0,0,,{\r}{\kf40}So{\kf32} fol{\kf72}low{\kf24} your{\kf64} des{\kf32}ti{\kf47}ny
+Dialogue: 0,0:02:18.94,0:02:22.24,DEFAULT,,0,0,0,,{\r}{\kf24}This{\kf47} twi{\kf47}sted{\kf55} fu{\kf39}ture{\kf31} is{\kf39}n't{\kf47} right
+Dialogue: 0,0:02:22.84,0:02:26.13,DEFAULT,,0,0,0,,{\r}{\kf24}Let's{\kf55} bring{\kf24} the{\kf63} real{\kf47} you{\kf24} to{\kf39} the{\kf53} light
+Dialogue: 0,0:02:26.73,0:02:30.20,DEFAULT,,0,0,0,,{\r}{\kf23}I'm{\kf39} going{\kf39} to{\kf46} make{\kf46} you{\kf46} re{\kf31}a{\kf77}lize
+Dialogue: 0,0:02:31.22,0:02:34.27,DEFAULT,,0,0,0,,{\r}{\kf38}So{\kf57} o{\kf48}pen{\kf67} your{\kf38} e{\kf57}yes
+Dialogue: 0,0:03:04.93,0:03:07.39,DEFAULT,,0,0,0,,{\r}{\kf25}I've{\kf41} got{\kf41} to{\kf49} find{\kf33} a{\kf57} way
+Dialogue: 0,0:03:08.70,0:03:11.70,DEFAULT,,0,0,0,,{\r}{\kf25}To{\kf50} make{\kf42} this{\kf50} all{\kf33} o{\kf25}ka{\kf25}~{\kf49}~y
+Dialogue: 0,0:03:12.48,0:03:15.11,DEFAULT,,0,0,0,,{\r}{\kf23}I've{\kf62} got{\kf39} to{\kf46} find{\kf39} a{\kf54} way
+Dialogue: 0,0:03:16.31,0:03:19.24,DEFAULT,,0,0,0,,{\r}{\kf26}To{\kf43} fix{\kf60} my{\kf43} own{\kf34} mis{\kf26}ta{\kf26}~{\kf35}~ke
+Dialogue: 0,0:03:19.72,0:03:21.94,DEFAULT,,0,0,0,,{\r}{\kf52}Oh,{\kf22} but{\kf15} I{\kf22} pro{\kf22}mise{\kf22} to{\kf22} suc{\kf45}ceed
+Dialogue: 0,0:03:22.42,0:03:23.97,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} know{\kf23} you're{\kf16} still{\kf23} in{\kf62} need
+Dialogue: 0,0:03:24.33,0:03:25.65,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf22} know{\kf22} you've{\kf22} been{\kf29} mis{\kf22}used
+Dialogue: 0,0:03:25.95,0:03:27.63,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} you're{\kf27} pro{\kf27}ba{\kf20}bly{\kf27} con{\kf27}fused
+Dialogue: 0,0:03:27.99,0:03:29.78,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf22} there's{\kf22} not{\kf22} much{\kf22} I{\kf22} can{\kf55} do
+Dialogue: 0,0:03:30.08,0:03:31.64,DEFAULT,,0,0,0,,{\r}{\kf14}The{\kf21} cure{\kf21} is{\kf28} with{\kf21}in{\kf51} you
+Dialogue: 0,0:03:32.06,0:03:33.55,DEFAULT,,0,0,0,,{\r}{\kf14}So{\kf21} hold{\kf36} on{\kf79} tight
+Dialogue: 0,0:03:33.91,0:03:35.83,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf26} o{\kf20}pen{\kf20} your{\kf53} e{\kf26}~{\kf27}~yes
+Dialogue: 0,0:03:36.13,0:03:39.18,DEFAULT,,0,0,0,,{\r}{\kf47}Wake{\kf39} up{\kf55} now{\kf23} and{\kf55} see{\kf23} the{\kf63} truth
+Dialogue: 0,0:03:39.66,0:03:43.02,DEFAULT,,0,0,0,,{\r}{\kf21}I'm{\kf50} here{\kf21} to{\kf71} show{\kf21} the{\kf71} world{\kf21} to{\kf59} you
+Dialogue: 0,0:03:43.73,0:03:46.91,DEFAULT,,0,0,0,,{\r}{\kf53}The{\kf53} way{\kf38} it{\kf38} was{\kf38} meant{\kf23} to{\kf74} be
+Dialogue: 0,0:03:47.57,0:03:50.68,DEFAULT,,0,0,0,,{\r}{\kf38}So{\kf30} fol{\kf76}low{\kf23} your{\kf61} des{\kf30}ti{\kf53}ny
+Dialogue: 0,0:03:51.16,0:03:54.51,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf46} twi{\kf46}sted{\kf53} fu{\kf46}ture{\kf23} is{\kf38}n't{\kf60} right
+Dialogue: 0,0:03:54.93,0:03:58.23,DEFAULT,,0,0,0,,{\r}{\kf23}Let's{\kf46} bring{\kf23} the{\kf61} real{\kf54} you{\kf23} to{\kf38} the{\kf61} light
+Dialogue: 0,0:03:58.94,0:04:02.66,DEFAULT,,0,0,0,,{\r}{\kf20}I'm{\kf34} going{\kf40} to{\kf47} make{\kf40} you{\kf54} re{\kf27}a{\kf109}lize
+Dialogue: 0,0:04:03.44,0:04:06.61,DEFAULT,,0,0,0,,{\r}{\kf43}So{\kf51} o{\kf43}pen{\kf69} your{\kf34} e{\kf77}~yes
+Dialogue: 0,0:04:22.06,0:04:25.23,DEFAULT,,0,0,0,,{\r}{\kf54}Wake{\kf46} up{\kf46} now{\kf31} and{\kf54} see{\kf23} the{\kf63} truth
+Dialogue: 0,0:04:25.71,0:04:29.00,DEFAULT,,0,0,0,,{\r}{\kf22}I'm{\kf52} here{\kf22} to{\kf75} show{\kf22} the{\kf67} world{\kf22} to{\kf47} you
+Dialogue: 0,0:04:29.78,0:04:32.90,DEFAULT,,0,0,0,,{\r}{\kf46}The{\kf46} way{\kf46} it{\kf46} was{\kf46} meant{\kf23} to{\kf58} be
+Dialogue: 0,0:04:33.61,0:04:36.79,DEFAULT,,0,0,0,,{\r}{\kf46}So{\kf31} fol{\kf70}low{\kf31} your{\kf54} des{\kf31}ti{\kf54}ny
+Dialogue: 0,0:04:37.27,0:04:40.50,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf46} twi{\kf46}sted{\kf38} fu{\kf46}ture{\kf31} is{\kf38}n't{\kf55} right
+Dialogue: 0,0:04:41.04,0:04:44.33,DEFAULT,,0,0,0,,{\r}{\kf24}Let's{\kf47} bring{\kf24} the{\kf63} real{\kf47} you{\kf31} to{\kf39} the{\kf54} light
+Dialogue: 0,0:04:45.05,0:04:48.46,DEFAULT,,0,0,0,,{\r}{\kf22}I'm{\kf36} going{\kf51} to{\kf51} make{\kf29} you{\kf51} re{\kf29}a{\kf72}lize
+Dialogue: 0,0:04:49.48,0:04:52.66,DEFAULT,,0,0,0,,{\r}{\kf50}So{\kf50} o{\kf50}pen{\kf67} your{\kf33} e{\kf67}~yes

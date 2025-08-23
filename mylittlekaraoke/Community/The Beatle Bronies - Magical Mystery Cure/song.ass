@@ -1,45 +1,52 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Magical Mystery Cure
+Artist: The Beatles Bronies
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.68,0:00:07.37,DEFAULT,,0,0,0,,{\kf12}Come{\kf16} up,{\kf16} come{\kf16} up{\kf12} with{\kf8} a{\kf20} ma{\kf16}gi{\kf16}cal{\kf16} mys{\kf16}te{\kf20}ry{\kf27} cure
-Dialogue: 0,0:00:07.64,0:00:08.95,DEFAULT,,0,0,0,,{\kf16}To{\kf20} save{\kf12} the{\kf54} day!
-Dialogue: 0,0:00:09.72,0:00:11.98,DEFAULT,,0,0,0,,{\kf16}Come{\kf200} up!
-Dialogue: 0,0:00:12.60,0:00:14.91,DEFAULT,,0,0,0,,{\kf16}Come{\kf20} up{\kf12} with{\kf12} a{\kf20} mys{\kf12}te{\kf16}ry{\kf58} cure!
-Dialogue: 0,0:00:15.48,0:00:17.87,DEFAULT,,0,0,0,,{\kf12}Come{\kf216} up!
-Dialogue: 0,0:00:18.33,0:00:20.60,DEFAULT,,0,0,0,,{\kf12}Come{\kf24} up{\kf12} with{\kf16} a{\kf20} mys{\kf16}te{\kf12}ry{\kf54} cure!
-Dialogue: 0,0:00:21.68,0:00:23.64,DEFAULT,,0,0,0,,{\kf12}A{\kf16} per{\kf12}fect{\kf24} pre{\kf16}pa{\kf31}ra{\kf35}tion
-Dialogue: 0,0:00:27.64,0:00:29.52,DEFAULT,,0,0,0,,{\kf12}For{\kf12} a{\kf27} co{\kf16}ro{\kf35}na{\kf39}tion
-Dialogue: 0,0:00:32.79,0:00:34.83,DEFAULT,,0,0,0,,{\kf20}The{\kf16} ma{\kf16}gi{\kf16}cal{\kf16} mys{\kf16}te{\kf16}ry{\kf27} cure
-Dialogue: 0,0:00:35.02,0:00:37.37,DEFAULT,,0,0,0,,{\kf16}Is{\kf20} friend{\kf16}ship{\kf16} that's{\kf16} sav{\kf16}ing{\kf16} the{\kf62} day
-Dialogue: 0,0:00:38.06,0:00:40.37,DEFAULT,,0,0,0,,{\kf16}Ma{\kf16}gic{\kf16} that's{\kf16} sav{\kf16}ing{\kf16} the{\kf74} day
-Dialogue: 0,0:00:41.33,0:00:43.72,DEFAULT,,0,0,0,,{\kf12}Come{\kf216} up!
-Dialogue: 0,0:00:44.25,0:00:46.52,DEFAULT,,0,0,0,,{\kf16}Come{\kf16} up{\kf12} with{\kf12} a{\kf24} mys{\kf12}te{\kf12}ry{\kf62} cure!
-Dialogue: 0,0:00:47.02,0:00:49.41,DEFAULT,,0,0,0,,{\kf12}Come{\kf216} up!
-Dialogue: 0,0:00:49.95,0:00:52.06,DEFAULT,,0,0,0,,{\kf12}Come{\kf20} up{\kf12} with{\kf12} a{\kf20} mys{\kf12}te{\kf12}ry{\kf43} cure!
-Dialogue: 0,0:00:53.29,0:00:55.02,DEFAULT,,0,0,0,,{\kf12}You{\kf12} know{\kf24} friend{\kf12}ship's{\kf12} all{\kf12} you{\kf47} need
-Dialogue: 0,0:00:59.06,0:01:00.79,DEFAULT,,0,0,0,,{\kf12}It{\kf16} will{\kf27} res{\kf12}tore{\kf12} har{\kf12}mo{\kf43}ny
-Dialogue: 0,0:01:04.41,0:01:06.45,DEFAULT,,0,0,0,,{\kf16}The{\kf20} ma{\kf12}gi{\kf16}cal{\kf16} mys{\kf16}te{\kf16}ry{\kf24} cure
-Dialogue: 0,0:01:06.64,0:01:08.95,DEFAULT,,0,0,0,,{\kf16}Is{\kf16} friend{\kf16}ship{\kf16} that's{\kf16} sav{\kf16}ing{\kf16} the{\kf58} day
-Dialogue: 0,0:01:09.68,0:01:11.95,DEFAULT,,0,0,0,,{\kf16}Ma{\kf16}gic{\kf16} that's{\kf16} sav{\kf12}ing{\kf16} the{\kf77} day
-Dialogue: 0,0:01:16.22,0:01:17.60,DEFAULT,,0,0,0,,{\kf24}Mys{\kf20}tery{\kf58} spell
-Dialogue: 0,0:01:26.98,0:01:30.52,DEFAULT,,0,0,0,,{\kf354}Aaaaah!
-Dialogue: 0,0:01:31.18,0:01:33.83,DEFAULT,,0,0,0,,{\kf16}The{\kf31} ma{\kf16}gi{\kf16}cal{\kf24} mys{\kf16}te{\kf20}ry{\kf50} cure
-Dialogue: 0,0:01:34.83,0:01:37.95,DEFAULT,,0,0,0,,{\kf16}Come{\kf281} up!
-Dialogue: 0,0:01:38.60,0:01:41.37,DEFAULT,,0,0,0,,{\kf16}Come{\kf20} up{\kf16} with{\kf12} a{\kf27} mys{\kf16}te{\kf16}ry{\kf62} cure
-Dialogue: 0,0:01:42.98,0:01:45.41,DEFAULT,,0,0,0,,{\kf16}A{\kf16} per{\kf12}fect{\kf27} pre{\kf20}pa{\kf35}ra{\kf35}tion
-Dialogue: 0,0:01:50.64,0:01:52.91,DEFAULT,,0,0,0,,{\kf16}For{\kf16} a{\kf27} co{\kf16}ro{\kf43}na{\kf39}tion
-Dialogue: 0,0:01:57.41,0:02:00.06,DEFAULT,,0,0,0,,{\kf20}The{\kf24} ma{\kf24}gi{\kf20}cal{\kf20} mys{\kf20}te{\kf20}ry{\kf39} cure
-Dialogue: 0,0:02:00.33,0:02:03.56,DEFAULT,,0,0,0,,{\kf16}Is{\kf20} friend{\kf20}ship{\kf20} that's{\kf24} sav{\kf20}ing{\kf20} the{\kf100} day
-Dialogue: 0,0:02:04.48,0:02:08.06,DEFAULT,,0,0,0,,{\kf24}Ma{\kf16}gic{\kf20} that's{\kf24} sav{\kf20}ing{\kf20} the{\kf154} day
-Dialogue: 0,0:02:09.10,0:02:11.75,DEFAULT,,0,0,0,,{\kf16}The{\kf24} ma{\kf20}gi{\kf20}cal{\kf20} mys{\kf20}te{\kf20}ry{\kf39} cure
-Dialogue: 0,0:02:11.98,0:02:15.48,DEFAULT,,0,0,0,,{\kf24}Is{\kf20} fix{\kf20}ing{\kf20} what's{\kf24} hap{\kf20}pened{\kf24} to{\kf116}day
-Dialogue: 0,0:02:16.25,0:02:18.87,DEFAULT,,0,0,0,,{\kf24}Fix{\kf16}ing{\kf20} what's{\kf24} hap{\kf24}pened{\kf20} to{\kf66}day
-Dialogue: 0,0:02:19.22,0:02:23.91,DEFAULT,,0,0,0,,{\kf20}Oh{\kf20} what{\kf20} a{\kf370} day
+Dialogue: 0,0:00:04.68,0:00:07.37,DEFAULT,,0,0,0,,{\r}{\kf15}Come{\kf20} up,{\kf20} come{\kf20} up{\kf15} with{\kf10} a{\kf25} ma{\kf20}gi{\kf20}cal{\kf20} mys{\kf20}te{\kf25}ry{\kf39} cure
+Dialogue: 0,0:00:07.64,0:00:08.95,DEFAULT,,0,0,0,,{\r}{\kf20}To{\kf25} save{\kf15} the{\kf71} day!
+Dialogue: 0,0:00:09.72,0:00:11.99,DEFAULT,,0,0,0,,{\r}{\kf16}Come{\kf211} up!
+Dialogue: 0,0:00:12.61,0:00:14.91,DEFAULT,,0,0,0,,{\r}{\kf22}Come{\kf28} up{\kf16} with{\kf16} a{\kf28} mys{\kf16}te{\kf22}ry{\kf83} cure!
+Dialogue: 0,0:00:15.49,0:00:17.87,DEFAULT,,0,0,0,,{\r}{\kf12}Come{\kf226} up!
+Dialogue: 0,0:00:18.34,0:00:20.61,DEFAULT,,0,0,0,,{\r}{\kf16}Come{\kf32} up{\kf16} with{\kf22} a{\kf27} mys{\kf22}te{\kf16}ry{\kf76} cure!
+Dialogue: 0,0:00:21.68,0:00:23.64,DEFAULT,,0,0,0,,{\r}{\kf16}A{\kf21} per{\kf16}fect{\kf32} pre{\kf21}pa{\kf42}ra{\kf48}tion
+Dialogue: 0,0:00:27.64,0:00:29.53,DEFAULT,,0,0,0,,{\r}{\kf16}For{\kf16} a{\kf37} co{\kf21}ro{\kf47}na{\kf51}tion
+Dialogue: 0,0:00:32.80,0:00:34.84,DEFAULT,,0,0,0,,{\r}{\kf28}The{\kf23} ma{\kf23}gi{\kf23}cal{\kf23} mys{\kf23}te{\kf23}ry{\kf38} cure
+Dialogue: 0,0:00:35.03,0:00:37.37,DEFAULT,,0,0,0,,{\r}{\kf21}Is{\kf26} friend{\kf21}ship{\kf21} that's{\kf21} sav{\kf21}ing{\kf21} the{\kf83} day
+Dialogue: 0,0:00:38.07,0:00:40.37,DEFAULT,,0,0,0,,{\r}{\kf21}Ma{\kf21}gic{\kf21} that's{\kf21} sav{\kf21}ing{\kf21} the{\kf105} day
+Dialogue: 0,0:00:41.34,0:00:43.72,DEFAULT,,0,0,0,,{\r}{\kf12}Come{\kf226} up!
+Dialogue: 0,0:00:44.26,0:00:46.53,DEFAULT,,0,0,0,,{\r}{\kf22}Come{\kf22} up{\kf16} with{\kf16} a{\kf32} mys{\kf16}te{\kf16}ry{\kf87} cure!
+Dialogue: 0,0:00:47.03,0:00:49.41,DEFAULT,,0,0,0,,{\r}{\kf12}Come{\kf226} up!
+Dialogue: 0,0:00:49.95,0:00:52.07,DEFAULT,,0,0,0,,{\r}{\kf18}Come{\kf29} up{\kf18} with{\kf18} a{\kf29} mys{\kf18}te{\kf18}ry{\kf64} cure!
+Dialogue: 0,0:00:53.30,0:00:55.03,DEFAULT,,0,0,0,,{\r}{\kf16}You{\kf16} know{\kf31} friend{\kf16}ship's{\kf16} all{\kf16} you{\kf62} need
+Dialogue: 0,0:00:59.07,0:01:00.80,DEFAULT,,0,0,0,,{\r}{\kf15}It{\kf20} will{\kf36} res{\kf15}tore{\kf15} har{\kf15}mo{\kf57}ny
+Dialogue: 0,0:01:04.41,0:01:06.45,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf30} ma{\kf18}gi{\kf24}cal{\kf24} mys{\kf24}te{\kf24}ry{\kf36} cure
+Dialogue: 0,0:01:06.64,0:01:08.95,DEFAULT,,0,0,0,,{\r}{\kf21}Is{\kf21} friend{\kf21}ship{\kf21} that's{\kf21} sav{\kf21}ing{\kf21} the{\kf84} day
+Dialogue: 0,0:01:09.68,0:01:11.95,DEFAULT,,0,0,0,,{\r}{\kf21}Ma{\kf21}gic{\kf21} that's{\kf21} sav{\kf16}ing{\kf21} the{\kf106} day
+Dialogue: 0,0:01:16.22,0:01:17.61,DEFAULT,,0,0,0,,{\r}{\kf32}Mys{\kf27}tery{\kf79} spell
+Dialogue: 0,0:01:26.99,0:01:30.53,DEFAULT,,0,0,0,,{\r}{\kf354}Aaaaah!
+Dialogue: 0,0:01:31.18,0:01:33.84,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf44} ma{\kf22}gi{\kf22}cal{\kf33} mys{\kf22}te{\kf28}ry{\kf72} cure
+Dialogue: 0,0:01:34.84,0:01:37.95,DEFAULT,,0,0,0,,{\r}{\kf16}Come{\kf296} up!
+Dialogue: 0,0:01:38.61,0:01:41.37,DEFAULT,,0,0,0,,{\r}{\kf24}Come{\kf29} up{\kf24} with{\kf18} a{\kf41} mys{\kf24}te{\kf24}ry{\kf93} cure
+Dialogue: 0,0:01:42.99,0:01:45.41,DEFAULT,,0,0,0,,{\r}{\kf24}A{\kf24} per{\kf18}fect{\kf41} pre{\kf30}pa{\kf53}ra{\kf52}tion
+Dialogue: 0,0:01:50.64,0:01:52.91,DEFAULT,,0,0,0,,{\r}{\kf23}For{\kf23} a{\kf40} co{\kf23}ro{\kf62}na{\kf56}tion
+Dialogue: 0,0:01:57.41,0:02:00.07,DEFAULT,,0,0,0,,{\r}{\kf28}The{\kf34} ma{\kf34}gi{\kf28}cal{\kf28} mys{\kf28}te{\kf28}ry{\kf57} cure
+Dialogue: 0,0:02:00.34,0:02:03.57,DEFAULT,,0,0,0,,{\r}{\kf21}Is{\kf26} friend{\kf26}ship{\kf26} that's{\kf32} sav{\kf26}ing{\kf26} the{\kf140} day
+Dialogue: 0,0:02:04.49,0:02:08.07,DEFAULT,,0,0,0,,{\r}{\kf30}Ma{\kf20}gic{\kf25} that's{\kf30} sav{\kf25}ing{\kf25} the{\kf203} day
+Dialogue: 0,0:02:09.11,0:02:11.76,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf35} ma{\kf29}gi{\kf29}cal{\kf29} mys{\kf29}te{\kf29}ry{\kf61} cure
+Dialogue: 0,0:02:11.99,0:02:15.49,DEFAULT,,0,0,0,,{\r}{\kf31}Is{\kf26} fix{\kf26}ing{\kf26} what's{\kf31} hap{\kf26}pened{\kf31} to{\kf153}day
+Dialogue: 0,0:02:16.26,0:02:18.87,DEFAULT,,0,0,0,,{\r}{\kf32}Fix{\kf21}ing{\kf27} what's{\kf32} hap{\kf32}pened{\kf27} to{\kf91}day
+Dialogue: 0,0:02:19.22,0:02:23.91,DEFAULT,,0,0,0,,{\r}{\kf21}Oh{\kf21} what{\kf21} a{\kf406} day

@@ -1,47 +1,54 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Light and Darkness (Light)
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:42.40,0:00:45.99,DEFAULT,,0,0,0,,{\kf45}Some{\kf37}one{\kf77} tell{\kf142} me
-Dialogue: 0,0:00:47.28,0:00:50.79,DEFAULT,,0,0,0,,{\kf37}Some{\kf41}one{\kf61} show{\kf142} me
-Dialogue: 0,0:00:52.16,0:00:56.27,DEFAULT,,0,0,0,,{\kf41}Some{\kf37}one{\kf65} let{\kf53} me{\kf17}~{\kf109} know
-Dialogue: 0,0:00:57.00,0:01:01.27,DEFAULT,,0,0,0,,{\kf33}Who{\kf29} I'm{\kf25} sup{\kf158}posed{\kf21} to{\kf89} be
-Dialogue: 0,0:01:01.88,0:01:05.22,DEFAULT,,0,0,0,,{\kf33}If{\kf37} you{\kf73} know{\kf130} me
-Dialogue: 0,0:01:06.68,0:01:10.22,DEFAULT,,0,0,0,,{\kf37}You{\kf37} can{\kf49} take{\kf17}~{\kf146} me
-Dialogue: 0,0:01:11.60,0:01:15.67,DEFAULT,,0,0,0,,{\kf37}To{\kf29} the{\kf17}~{\kf49} deep{\kf61} blue{\kf113} sky
-Dialogue: 0,0:01:16.39,0:01:20.79,DEFAULT,,0,0,0,,{\kf33}O{\kf29}ver{\kf21} the{\kf53} big{\kf17}~{\kf69} blue{\kf138} sea
-Dialogue: 0,0:01:21.80,0:01:23.05,DEFAULT,,0,0,0,,{\kf21}I{\kf89} know
-Dialogue: 0,0:01:23.89,0:01:25.43,DEFAULT,,0,0,0,,{\kf21}Where{\kf21} I'll{\kf85} be
-Dialogue: 0,0:01:26.68,0:01:28.17,DEFAULT,,0,0,0,,{\kf33}Oh{\kf89} please
-Dialogue: 0,0:01:28.77,0:01:30.43,DEFAULT,,0,0,0,,{\kf21}I{\kf21} can{\kf97} dream
-Dialogue: 0,0:01:31.51,0:01:32.97,DEFAULT,,0,0,0,,{\kf37}I'm{\kf85} lost
-Dialogue: 0,0:01:33.61,0:01:35.43,DEFAULT,,0,0,0,,{\kf21}And{\kf21} be{\kf117}hind
-Dialogue: 0,0:01:36.07,0:01:37.97,DEFAULT,,0,0,0,,{\kf21}But{\kf37} I{\kf97} found
-Dialogue: 0,0:01:38.77,0:01:40.26,DEFAULT,,0,0,0,,{\kf25}My{\kf109} light
-Dialogue: 0,0:02:39.38,0:02:40.55,DEFAULT,,0,0,0,,{\kf21}I{\kf81} know
-Dialogue: 0,0:02:41.47,0:02:43.09,DEFAULT,,0,0,0,,{\kf25}Where{\kf21} I'll{\kf93} be
-Dialogue: 0,0:02:44.26,0:02:45.79,DEFAULT,,0,0,0,,{\kf41}Oh{\kf93} please
-Dialogue: 0,0:02:46.35,0:02:48.05,DEFAULT,,0,0,0,,{\kf21}I{\kf21} can{\kf101} dream
-Dialogue: 0,0:02:49.06,0:02:50.63,DEFAULT,,0,0,0,,{\kf41}I'm{\kf93} lost
-Dialogue: 0,0:02:51.19,0:02:52.93,DEFAULT,,0,0,0,,{\kf21}And{\kf21} be{\kf109}hind
-Dialogue: 0,0:02:53.61,0:02:55.51,DEFAULT,,0,0,0,,{\kf25}But{\kf33} I{\kf93} found
-Dialogue: 0,0:02:56.39,0:02:57.85,DEFAULT,,0,0,0,,{\kf25}My{\kf109} light
-Dialogue: 0,0:02:58.81,0:02:59.98,DEFAULT,,0,0,0,,{\kf21}I{\kf85} know
-Dialogue: 0,0:03:00.91,0:03:02.48,DEFAULT,,0,0,0,,{\kf21}Where{\kf21} I'll{\kf93} be
-Dialogue: 0,0:03:03.65,0:03:05.14,DEFAULT,,0,0,0,,{\kf41}Oh{\kf89} please
-Dialogue: 0,0:03:05.75,0:03:07.40,DEFAULT,,0,0,0,,{\kf21}I{\kf21} can{\kf97} dream
-Dialogue: 0,0:03:08.45,0:03:09.98,DEFAULT,,0,0,0,,{\kf41}I'm{\kf89} lost
-Dialogue: 0,0:03:10.59,0:03:12.40,DEFAULT,,0,0,0,,{\kf21}And{\kf17} be{\kf121}hind
-Dialogue: 0,0:03:13.01,0:03:14.94,DEFAULT,,0,0,0,,{\kf21}But{\kf37} I{\kf97} found
-Dialogue: 0,0:03:15.79,0:03:17.28,DEFAULT,,0,0,0,,{\kf21}My{\kf109} light
-Dialogue: 0,0:03:38.21,0:03:42.16,DEFAULT,,0,0,0,,{\kf17}Oooh{\kf53}~{\kf77} ooh{\kf45} ooh{\kf150} ooh
-Dialogue: 0,0:03:43.05,0:03:47.00,DEFAULT,,0,0,0,,{\kf77}Oooh{\kf73} ooh{\kf49} ooh{\kf150} ooh
-Dialogue: 0,0:03:47.89,0:03:51.43,DEFAULT,,0,0,0,,{\kf69}Oooh{\kf81} ooh{\kf37} ooh{\kf109} ooh
-Dialogue: 0,0:03:52.16,0:03:56.03,DEFAULT,,0,0,0,,{\kf21}Oooh{\kf351}~
+Dialogue: 0,0:00:42.41,0:00:46.00,DEFAULT,,0,0,0,,{\r}{\kf53}Some{\kf44}one{\kf92} tell{\kf170} me
+Dialogue: 0,0:00:47.29,0:00:50.79,DEFAULT,,0,0,0,,{\r}{\kf46}Some{\kf51}one{\kf76} show{\kf178} me
+Dialogue: 0,0:00:52.17,0:00:56.28,DEFAULT,,0,0,0,,{\r}{\kf52}Some{\kf47}one{\kf83} let{\kf68} me{\kf21}~{\kf140} know
+Dialogue: 0,0:00:57.00,0:01:01.28,DEFAULT,,0,0,0,,{\r}{\kf39}Who{\kf34} I'm{\kf29} sup{\kf191}posed{\kf25} to{\kf109} be
+Dialogue: 0,0:01:01.88,0:01:05.23,DEFAULT,,0,0,0,,{\r}{\kf40}If{\kf45} you{\kf90} know{\kf160} me
+Dialogue: 0,0:01:06.68,0:01:10.23,DEFAULT,,0,0,0,,{\r}{\kf46}You{\kf46} can{\kf61} take{\kf20}~{\kf182} me
+Dialogue: 0,0:01:11.60,0:01:15.67,DEFAULT,,0,0,0,,{\r}{\kf49}To{\kf38} the{\kf22}~{\kf65} deep{\kf81} blue{\kf152} sky
+Dialogue: 0,0:01:16.40,0:01:20.79,DEFAULT,,0,0,0,,{\r}{\kf40}O{\kf35}ver{\kf25} the{\kf65} big{\kf20}~{\kf85} blue{\kf170} sea
+Dialogue: 0,0:01:21.80,0:01:23.05,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf102} know
+Dialogue: 0,0:01:23.90,0:01:25.43,DEFAULT,,0,0,0,,{\r}{\kf25}Where{\kf25} I'll{\kf103} be
+Dialogue: 0,0:01:26.68,0:01:28.17,DEFAULT,,0,0,0,,{\r}{\kf40}Oh{\kf109} please
+Dialogue: 0,0:01:28.78,0:01:30.43,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} can{\kf117} dream
+Dialogue: 0,0:01:31.52,0:01:32.97,DEFAULT,,0,0,0,,{\r}{\kf44}I'm{\kf101} lost
+Dialogue: 0,0:01:33.62,0:01:35.43,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf23} be{\kf135}hind
+Dialogue: 0,0:01:36.08,0:01:37.97,DEFAULT,,0,0,0,,{\r}{\kf25}But{\kf45} I{\kf120} found
+Dialogue: 0,0:01:38.78,0:01:40.27,DEFAULT,,0,0,0,,{\r}{\kf27}My{\kf122} light
+Dialogue: 0,0:02:39.38,0:02:40.55,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf94} know
+Dialogue: 0,0:02:41.48,0:02:43.09,DEFAULT,,0,0,0,,{\r}{\kf28}Where{\kf24} I'll{\kf109} be
+Dialogue: 0,0:02:44.26,0:02:45.79,DEFAULT,,0,0,0,,{\r}{\kf46}Oh{\kf107} please
+Dialogue: 0,0:02:46.36,0:02:48.05,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} can{\kf121} dream
+Dialogue: 0,0:02:49.06,0:02:50.63,DEFAULT,,0,0,0,,{\r}{\kf48}I'm{\kf109} lost
+Dialogue: 0,0:02:51.20,0:02:52.93,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf23} be{\kf127}hind
+Dialogue: 0,0:02:53.62,0:02:55.51,DEFAULT,,0,0,0,,{\r}{\kf31}But{\kf41} I{\kf118} found
+Dialogue: 0,0:02:56.40,0:02:57.85,DEFAULT,,0,0,0,,{\r}{\kf26}My{\kf119} light
+Dialogue: 0,0:02:58.82,0:02:59.99,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf95} know
+Dialogue: 0,0:03:00.92,0:03:02.49,DEFAULT,,0,0,0,,{\r}{\kf24}Where{\kf24} I'll{\kf109} be
+Dialogue: 0,0:03:03.66,0:03:05.15,DEFAULT,,0,0,0,,{\r}{\kf47}Oh{\kf102} please
+Dialogue: 0,0:03:05.75,0:03:07.41,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} can{\kf117} dream
+Dialogue: 0,0:03:08.46,0:03:09.99,DEFAULT,,0,0,0,,{\r}{\kf48}I'm{\kf105} lost
+Dialogue: 0,0:03:10.59,0:03:12.41,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf19} be{\kf139}hind
+Dialogue: 0,0:03:13.01,0:03:14.95,DEFAULT,,0,0,0,,{\r}{\kf26}But{\kf46} I{\kf122} found
+Dialogue: 0,0:03:15.79,0:03:17.29,DEFAULT,,0,0,0,,{\r}{\kf23}My{\kf126} light
+Dialogue: 0,0:03:38.21,0:03:42.17,DEFAULT,,0,0,0,,{\r}{\kf19}Oooh{\kf61}~{\kf89} ooh{\kf52} ooh{\kf174} ooh
+Dialogue: 0,0:03:43.05,0:03:47.00,DEFAULT,,0,0,0,,{\r}{\kf87}Oooh{\kf83} ooh{\kf55} ooh{\kf170} ooh
+Dialogue: 0,0:03:47.89,0:03:51.44,DEFAULT,,0,0,0,,{\r}{\kf83}Oooh{\kf97} ooh{\kf44} ooh{\kf131} ooh
+Dialogue: 0,0:03:52.17,0:03:56.04,DEFAULT,,0,0,0,,{\r}{\kf21}Oooh{\kf366}~

@@ -1,82 +1,89 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Subterranean Pegasus Blues
+Artist: Replacer
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.67,0:00:10.02,DEFAULT,,0,0,0,,{\kf31}Pin{\kf18}kie's{\kf14} in{\kf9} the{\kf31} base{\kf18}ment
-Dialogue: 0,0:00:10.20,0:00:11.46,DEFAULT,,0,0,0,,{\kf22}Mix{\kf14}ing{\kf14} up{\kf14} the{\kf18} me{\kf18}di{\kf18}cine
-Dialogue: 0,0:00:11.55,0:00:12.73,DEFAULT,,0,0,0,,{\kf22}I'm{\kf14} on{\kf9} the{\kf31} pave{\kf22}ment
-Dialogue: 0,0:00:12.81,0:00:14.08,DEFAULT,,0,0,0,,{\kf9}Try{\kf9}ing{\kf9} to{\kf18} find{\kf14} the{\kf18} E{\kf18}le{\kf18}ments
-Dialogue: 0,0:00:14.30,0:00:15.65,DEFAULT,,0,0,0,,{\kf9}The{\kf22} po{\kf14}ny{\kf14} with{\kf9} a{\kf22} blue{\kf18} coat
-Dialogue: 0,0:00:15.78,0:00:16.96,DEFAULT,,0,0,0,,{\kf31}Flies{\kf22} in{\kf22} ticked{\kf27} off
-Dialogue: 0,0:00:17.17,0:00:18.48,DEFAULT,,0,0,0,,{\kf22}Wants{\kf9} to{\kf14} make{\kf14} it{\kf27} rain{\kf27} boom
-Dialogue: 0,0:00:18.57,0:00:19.75,DEFAULT,,0,0,0,,{\kf18}Soon{\kf14} it's{\kf14} gon{\kf18}na{\kf18} kick{\kf22} off
-Dialogue: 0,0:00:19.97,0:00:20.92,DEFAULT,,0,0,0,,{\kf18}Look{\kf22} out{\kf18} fil{\kf22}ly
-Dialogue: 0,0:00:21.23,0:00:22.28,DEFAULT,,0,0,0,,{\kf14}The{\kf14} air's{\kf18} get{\kf14}tin'{\kf18} chil{\kf18}ly
-Dialogue: 0,0:00:22.63,0:00:23.80,DEFAULT,,0,0,0,,{\kf40}Too{\kf27} much{\kf22} win{\kf14}ter
-Dialogue: 0,0:00:23.98,0:00:25.02,DEFAULT,,0,0,0,,{\kf14}Bet{\kf9}ter{\kf14} wrap{\kf14} it{\kf14} up{\kf14} a{\kf14}gain
-Dialogue: 0,0:00:25.15,0:00:26.90,DEFAULT,,0,0,0,,{\kf9}You{\kf14} bet{\kf14}ter{\kf18} head{\kf18} down{\kf14} to{\kf18} Po{\kf18}ny{\kf22}ville
-Dialogue: 0,0:00:27.03,0:00:28.12,DEFAULT,,0,0,0,,{\kf18}Look{\kf9}ing{\kf14} for{\kf14} some{\kf14} new{\kf27} friends
-Dialogue: 0,0:00:28.25,0:00:29.25,DEFAULT,,0,0,0,,{\kf9}The{\kf18} mare{\kf14} you{\kf18} were{\kf18} think{\kf9}ing
-Dialogue: 0,0:00:29.34,0:00:30.43,DEFAULT,,0,0,0,,{\kf14}You{\kf14} should{\kf18} buy{\kf18} just{\kf18} then
-Dialogue: 0,0:00:30.52,0:00:32.04,DEFAULT,,0,0,0,,{\kf22}Costs{\kf18} five{\kf22} hun{\kf18}dred{\kf18} ma{\kf14}gic{\kf18} gems
-Dialogue: 0,0:00:32.31,0:00:33.70,DEFAULT,,0,0,0,,{\kf14}And{\kf18} you{\kf18} on{\kf18}ly{\kf22} got{\kf27} ten
-Dialogue: 0,0:00:39.28,0:00:40.77,DEFAULT,,0,0,0,,{\kf40}Lan{\kf18}cie{\kf22} comes{\kf22} fleet{\kf22} foot
-Dialogue: 0,0:00:40.90,0:00:42.20,DEFAULT,,0,0,0,,{\kf22}Face{\kf14} full{\kf18} of{\kf22} black{\kf27} soot
-Dialogue: 0,0:00:42.29,0:00:43.56,DEFAULT,,0,0,0,,{\kf22}Talk{\kf14}in'{\kf18} that{\kf14} the{\kf22} fans{\kf18} put
-Dialogue: 0,0:00:43.69,0:00:44.86,DEFAULT,,0,0,0,,{\kf27}Film{\kf14} on{\kf14} the{\kf18} net{\kf9} but
-Dialogue: 0,0:00:44.99,0:00:46.35,DEFAULT,,0,0,0,,{\kf14}It's{\kf18} bad{\kf22} press{\kf18} a{\kf22}ny{\kf14}way
-Dialogue: 0,0:00:46.48,0:00:47.70,DEFAULT,,0,0,0,,{\kf18}Ma{\kf14}ker{\kf18} says{\kf14} that{\kf18} ma{\kf14}ny{\kf14} flayed
-Dialogue: 0,0:00:47.79,0:00:49.14,DEFAULT,,0,0,0,,{\kf9}A{\kf18} fil{\kf14}ly{\kf14} in{\kf14} the{\kf18} Der{\kf14}py{\kf18} fray
-Dialogue: 0,0:00:49.31,0:00:50.49,DEFAULT,,0,0,0,,{\kf22}Tal{\kf14}king{\kf14} on{\kf9} her{\kf27} d{\kf22}A
-Dialogue: 0,0:00:50.66,0:00:51.54,DEFAULT,,0,0,0,,{\kf18}Look{\kf18} out{\kf18} fil{\kf18}ly
-Dialogue: 0,0:00:51.93,0:00:53.06,DEFAULT,,0,0,0,,{\kf14}You{\kf14} make{\kf14} us{\kf14} look{\kf18} sil{\kf27}ly
-Dialogue: 0,0:00:53.32,0:00:54.72,DEFAULT,,0,0,0,,{\kf14}Just{\kf18} watch{\kf18} how{\kf14} the{\kf22} road{\kf18} smokes
-Dialogue: 0,0:00:54.89,0:00:56.16,DEFAULT,,0,0,0,,{\kf18}Don't{\kf22} make{\kf22} rape{\kf27} jokes
-Dialogue: 0,0:00:56.29,0:00:57.51,DEFAULT,,0,0,0,,{\kf18}Don't{\kf18} be{\kf14}lieve{\kf9} in{\kf22} e{\kf9}very{\kf18} hoax
-Dialogue: 0,0:00:57.64,0:00:58.99,DEFAULT,,0,0,0,,{\kf9}And{\kf14} hang{\kf14} a{\kf14}round{\kf14} the{\kf22} best{\kf27} folks
-Dialogue: 0,0:00:59.38,0:01:00.34,DEFAULT,,0,0,0,,{\kf18}Trust{\kf9} the{\kf22} wheel{\kf22} spokes
-Dialogue: 0,0:01:00.65,0:01:01.56,DEFAULT,,0,0,0,,{\kf18}Watch{\kf18} your{\kf22} key{\kf22}strokes
-Dialogue: 0,0:01:01.70,0:01:03.18,DEFAULT,,0,0,0,,{\kf18}You{\kf18} don't{\kf18} need{\kf9} a{\kf22} win{\kf18}di{\kf9}go{\kf9} to
-Dialogue: 0,0:01:03.31,0:01:04.57,DEFAULT,,0,0,0,,{\kf14}Know{\kf14} the{\kf14} way{\kf14} the{\kf22} snow{\kf27} soaks
-Dialogue: 0,0:01:10.24,0:01:11.55,DEFAULT,,0,0,0,,{\kf31}Get{\kf22} sick{\kf27} get{\kf27} well
-Dialogue: 0,0:01:11.64,0:01:12.77,DEFAULT,,0,0,0,,{\kf18}E{\kf18}very{\kf18}thing's{\kf9} a{\kf14} death{\kf27} knell
-Dialogue: 0,0:01:12.99,0:01:14.21,DEFAULT,,0,0,0,,{\kf31}New{\kf22} spell{\kf14} hard{\kf14} to{\kf14} tell
-Dialogue: 0,0:01:14.30,0:01:15.69,DEFAULT,,0,0,0,,{\kf9}If{\kf14} wings{\kf14} will{\kf18} grow{\kf14} on{\kf14} you{\kf14} as{\kf18} well
-Dialogue: 0,0:01:15.82,0:01:17.09,DEFAULT,,0,0,0,,{\kf22}Rave{\kf22} train{\kf22} fan{\kf22} game
-Dialogue: 0,0:01:17.26,0:01:18.35,DEFAULT,,0,0,0,,{\kf14}Try{\kf22} hard{\kf22} get{\kf27} banned
-Dialogue: 0,0:01:18.66,0:01:19.92,DEFAULT,,0,0,0,,{\kf22}Thing's{\kf27} canned{\kf27} new{\kf27} brand
-Dialogue: 0,0:01:20.05,0:01:21.27,DEFAULT,,0,0,0,,{\kf18}Lau{\kf14}ren's{\kf9} in{\kf14} to{\kf18} lend{\kf14} a{\kf18} hand
-Dialogue: 0,0:01:21.40,0:01:22.32,DEFAULT,,0,0,0,,{\kf18}Look{\kf22} out{\kf18} fil{\kf22}ly
-Dialogue: 0,0:01:22.63,0:01:23.72,DEFAULT,,0,0,0,,{\kf14}It's{\kf14} gon{\kf14}na{\kf14} get{\kf18} hil{\kf22}ly
-Dialogue: 0,0:01:24.06,0:01:25.42,DEFAULT,,0,0,0,,{\kf14}As{\kf31} u{\kf27}sers{\kf27} cha{\kf27}sers
-Dialogue: 0,0:01:25.50,0:01:26.68,DEFAULT,,0,0,0,,{\kf22}Big{\kf22} time{\kf35} lo{\kf22}sers
-Dialogue: 0,0:01:26.86,0:01:28.08,DEFAULT,,0,0,0,,{\kf27}Flee{\kf18} con{\kf18}ven{\kf14}tion{\kf18} spa{\kf18}ces
-Dialogue: 0,0:01:28.42,0:01:29.65,DEFAULT,,0,0,0,,{\kf22}Boys{\kf18} down{\kf9} at{\kf22} Has{\kf22}bro
-Dialogue: 0,0:01:29.78,0:01:30.95,DEFAULT,,0,0,0,,{\kf18}Start{\kf14}ing{\kf9} up{\kf9} a{\kf22} new{\kf31} show
-Dialogue: 0,0:01:31.17,0:01:32.35,DEFAULT,,0,0,0,,{\kf27}Go{\kf18} through{\kf9} your{\kf22} pa{\kf22}ces
-Dialogue: 0,0:01:32.57,0:01:33.66,DEFAULT,,0,0,0,,{\kf18}Big{\kf14} day{\kf14} at{\kf14} the{\kf18} ra{\kf18}ces
-Dialogue: 0,0:01:40.94,0:01:42.03,DEFAULT,,0,0,0,,{\kf22}Get{\kf22} born,{\kf22} de{\kf18}form
-Dialogue: 0,0:01:42.20,0:01:43.51,DEFAULT,,0,0,0,,{\kf27}Con{\kf27}form,{\kf31} trans{\kf22}form
-Dialogue: 0,0:01:43.64,0:01:45.04,DEFAULT,,0,0,0,,{\kf18}See{\kf14} the{\kf27} show,{\kf22} get{\kf27} blessed
-Dialogue: 0,0:01:45.13,0:01:47.04,DEFAULT,,0,0,0,,{\kf22}Get{\kf22} stressed,{\kf18} try{\kf14} to{\kf14} be{\kf9} a{\kf22} suc{\kf18}cess
-Dialogue: 0,0:01:47.22,0:01:49.14,DEFAULT,,0,0,0,,{\kf18}Please{\kf22} Seth,{\kf27} please{\kf27} fans,{\kf22} make{\kf40} light
-Dialogue: 0,0:01:49.31,0:01:50.49,DEFAULT,,0,0,0,,{\kf22}Don't{\kf22} quit,{\kf18} don't{\kf27} fight
-Dialogue: 0,0:01:50.75,0:01:51.71,DEFAULT,,0,0,0,,{\kf18}Twen{\kf9}ty{\kf22} thou{\kf14}sand{\kf14} subs{\kf9} will
-Dialogue: 0,0:01:51.80,0:01:53.32,DEFAULT,,0,0,0,,{\kf14}Be{\kf14} e{\kf18}nough{\kf14} to{\kf14} make{\kf14} it{\kf31} al{\kf18}right
-Dialogue: 0,0:01:53.45,0:01:54.37,DEFAULT,,0,0,0,,{\kf22}Look{\kf22} out{\kf18} fil{\kf18}ly
-Dialogue: 0,0:01:54.59,0:01:55.90,DEFAULT,,0,0,0,,{\kf14}O{\kf14}thers{\kf22} got{\kf18} here{\kf27} ear{\kf22}ly
-Dialogue: 0,0:01:56.16,0:01:57.47,DEFAULT,,0,0,0,,{\kf9}Just{\kf18} try{\kf9} to{\kf18} write{\kf9} an{\kf18} an{\kf18}them
-Dialogue: 0,0:01:57.60,0:01:58.86,DEFAULT,,0,0,0,,{\kf27}Know{\kf18} how{\kf14} to{\kf27} brand{\kf18} 'em
-Dialogue: 0,0:01:58.99,0:02:00.26,DEFAULT,,0,0,0,,{\kf18}Make{\kf14} it{\kf22} sound{\kf27} hand{\kf18}some
-Dialogue: 0,0:02:00.39,0:02:01.70,DEFAULT,,0,0,0,,{\kf14}At{\kf14}ten{\kf14}tion{\kf14} comes{\kf9} at{\kf31} ran{\kf22}dom
-Dialogue: 0,0:02:02.17,0:02:03.31,DEFAULT,,0,0,0,,{\kf18}Don't{\kf14} wan{\kf14}na{\kf14} play{\kf18} their{\kf22} game
-Dialogue: 0,0:02:03.44,0:02:04.36,DEFAULT,,0,0,0,,{\kf14}You{\kf14} should{\kf14} for{\kf18}get{\kf22} 'fame'
-Dialogue: 0,0:02:04.44,0:02:05.49,DEFAULT,,0,0,0,,{\kf18}Your{\kf22} plan{\kf27} won't{\kf14} work
-Dialogue: 0,0:02:05.62,0:02:07.32,DEFAULT,,0,0,0,,{\kf18}Cause{\kf9} the{\kf22} fan{\kf18}dom{\kf14} works{\kf9} in{\kf35} tan{\kf22}dem
+Dialogue: 0,0:00:08.68,0:00:10.03,DEFAULT,,0,0,0,,{\r}{\kf35}Pin{\kf20}kie's{\kf15} in{\kf10} the{\kf35} base{\kf20}ment
+Dialogue: 0,0:00:10.20,0:00:11.47,DEFAULT,,0,0,0,,{\r}{\kf24}Mix{\kf15}ing{\kf15} up{\kf15} the{\kf19} me{\kf19}di{\kf19}cine
+Dialogue: 0,0:00:11.55,0:00:12.73,DEFAULT,,0,0,0,,{\r}{\kf27}I'm{\kf16} on{\kf11} the{\kf38} pave{\kf26}ment
+Dialogue: 0,0:00:12.82,0:00:14.08,DEFAULT,,0,0,0,,{\r}{\kf10}Try{\kf10}ing{\kf10} to{\kf20} find{\kf15} the{\kf20} E{\kf20}le{\kf21}ments
+Dialogue: 0,0:00:14.30,0:00:15.65,DEFAULT,,0,0,0,,{\r}{\kf11}The{\kf28} po{\kf17}ny{\kf17} with{\kf11} a{\kf28} blue{\kf23} coat
+Dialogue: 0,0:00:15.78,0:00:16.96,DEFAULT,,0,0,0,,{\r}{\kf36}Flies{\kf26} in{\kf26} ticked{\kf30} off
+Dialogue: 0,0:00:17.18,0:00:18.49,DEFAULT,,0,0,0,,{\r}{\kf26}Wants{\kf10} to{\kf16} make{\kf16} it{\kf31} rain{\kf32} boom
+Dialogue: 0,0:00:18.58,0:00:19.75,DEFAULT,,0,0,0,,{\r}{\kf21}Soon{\kf15} it's{\kf15} gon{\kf21}na{\kf21} kick{\kf25} off
+Dialogue: 0,0:00:19.97,0:00:20.93,DEFAULT,,0,0,0,,{\r}{\kf21}Look{\kf27} out{\kf21} fil{\kf27}ly
+Dialogue: 0,0:00:21.24,0:00:22.28,DEFAULT,,0,0,0,,{\r}{\kf15}The{\kf15} air's{\kf20} get{\kf15}tin'{\kf20} chil{\kf20}ly
+Dialogue: 0,0:00:22.63,0:00:23.81,DEFAULT,,0,0,0,,{\r}{\kf46}Too{\kf31} much{\kf26} win{\kf15}ter
+Dialogue: 0,0:00:23.98,0:00:25.03,DEFAULT,,0,0,0,,{\r}{\kf16}Bet{\kf10}ter{\kf16} wrap{\kf16} it{\kf16} up{\kf16} a{\kf15}gain
+Dialogue: 0,0:00:25.16,0:00:26.90,DEFAULT,,0,0,0,,{\r}{\kf11}You{\kf16} bet{\kf16}ter{\kf22} head{\kf22} down{\kf16} to{\kf22} Po{\kf22}ny{\kf27}ville
+Dialogue: 0,0:00:27.03,0:00:28.12,DEFAULT,,0,0,0,,{\r}{\kf21}Look{\kf10}ing{\kf16} for{\kf16} some{\kf16} new{\kf30} friends
+Dialogue: 0,0:00:28.26,0:00:29.26,DEFAULT,,0,0,0,,{\r}{\kf11}The{\kf21} mare{\kf16} you{\kf21} were{\kf21} think{\kf10}ing
+Dialogue: 0,0:00:29.35,0:00:30.44,DEFAULT,,0,0,0,,{\r}{\kf18}You{\kf18} should{\kf24} buy{\kf24} just{\kf25} then
+Dialogue: 0,0:00:30.52,0:00:32.05,DEFAULT,,0,0,0,,{\r}{\kf26}Costs{\kf21} five{\kf26} hun{\kf21}dred{\kf21} ma{\kf16}gic{\kf22} gems
+Dialogue: 0,0:00:32.31,0:00:33.71,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf22} you{\kf22} on{\kf22}ly{\kf27} got{\kf31} ten
+Dialogue: 0,0:00:39.29,0:00:40.77,DEFAULT,,0,0,0,,{\r}{\kf48}Lan{\kf21}cie{\kf26} comes{\kf26} fleet{\kf27} foot
+Dialogue: 0,0:00:40.90,0:00:42.21,DEFAULT,,0,0,0,,{\r}{\kf28}Face{\kf17} full{\kf23} of{\kf28} black{\kf35} soot
+Dialogue: 0,0:00:42.30,0:00:43.56,DEFAULT,,0,0,0,,{\r}{\kf26}Talk{\kf16}in'{\kf21} that{\kf16} the{\kf26} fans{\kf21} put
+Dialogue: 0,0:00:43.69,0:00:44.87,DEFAULT,,0,0,0,,{\r}{\kf39}Film{\kf20} on{\kf20} the{\kf26} net{\kf13} but
+Dialogue: 0,0:00:45.00,0:00:46.35,DEFAULT,,0,0,0,,{\r}{\kf17}It's{\kf22} bad{\kf28} press{\kf22} a{\kf28}ny{\kf18}way
+Dialogue: 0,0:00:46.48,0:00:47.70,DEFAULT,,0,0,0,,{\r}{\kf20}Ma{\kf15}ker{\kf20} says{\kf15} that{\kf20} ma{\kf15}ny{\kf17} flayed
+Dialogue: 0,0:00:47.79,0:00:49.14,DEFAULT,,0,0,0,,{\r}{\kf10}A{\kf21} fil{\kf16}ly{\kf16} in{\kf16} the{\kf21} Der{\kf16}py{\kf19} fray
+Dialogue: 0,0:00:49.32,0:00:50.49,DEFAULT,,0,0,0,,{\r}{\kf25}Tal{\kf15}king{\kf15} on{\kf10} her{\kf30} d{\kf23}A
+Dialogue: 0,0:00:50.67,0:00:51.54,DEFAULT,,0,0,0,,{\r}{\kf22}Look{\kf22} out{\kf22} fil{\kf21}ly
+Dialogue: 0,0:00:51.93,0:00:53.07,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf15} make{\kf15} us{\kf15} look{\kf21} sil{\kf32}ly
+Dialogue: 0,0:00:53.33,0:00:54.72,DEFAULT,,0,0,0,,{\r}{\kf18}Just{\kf24} watch{\kf24} how{\kf18} the{\kf30} road{\kf26} smokes
+Dialogue: 0,0:00:54.90,0:00:56.16,DEFAULT,,0,0,0,,{\r}{\kf25}Don't{\kf32} make{\kf32} rape{\kf37} jokes
+Dialogue: 0,0:00:56.29,0:00:57.51,DEFAULT,,0,0,0,,{\r}{\kf20}Don't{\kf20} be{\kf15}lieve{\kf10} in{\kf25} e{\kf10}very{\kf22} hoax
+Dialogue: 0,0:00:57.65,0:00:59.00,DEFAULT,,0,0,0,,{\r}{\kf11}And{\kf16} hang{\kf16} a{\kf16}round{\kf16} the{\kf27} best{\kf33} folks
+Dialogue: 0,0:00:59.39,0:01:00.35,DEFAULT,,0,0,0,,{\r}{\kf24}Trust{\kf12} the{\kf30} wheel{\kf30} spokes
+Dialogue: 0,0:01:00.65,0:01:01.57,DEFAULT,,0,0,0,,{\r}{\kf20}Watch{\kf20} your{\kf26} key{\kf26}strokes
+Dialogue: 0,0:01:01.70,0:01:03.18,DEFAULT,,0,0,0,,{\r}{\kf22}You{\kf22} don't{\kf22} need{\kf11} a{\kf27} win{\kf22}di{\kf11}go{\kf11} to
+Dialogue: 0,0:01:03.31,0:01:04.58,DEFAULT,,0,0,0,,{\r}{\kf16}Know{\kf16} the{\kf16} way{\kf16} the{\kf27} snow{\kf35} soaks
+Dialogue: 0,0:01:10.25,0:01:11.55,DEFAULT,,0,0,0,,{\r}{\kf38}Get{\kf27} sick{\kf33} get{\kf33} well
+Dialogue: 0,0:01:11.64,0:01:12.78,DEFAULT,,0,0,0,,{\r}{\kf20}E{\kf20}very{\kf20}thing's{\kf10} a{\kf15} death{\kf28} knell
+Dialogue: 0,0:01:12.99,0:01:14.21,DEFAULT,,0,0,0,,{\r}{\kf41}New{\kf29} spell{\kf17} hard{\kf17} to{\kf18} tell
+Dialogue: 0,0:01:14.30,0:01:15.70,DEFAULT,,0,0,0,,{\r}{\kf11}If{\kf17} wings{\kf17} will{\kf22} grow{\kf17} on{\kf17} you{\kf17} as{\kf22} well
+Dialogue: 0,0:01:15.83,0:01:17.09,DEFAULT,,0,0,0,,{\r}{\kf32}Rave{\kf32} train{\kf32} fan{\kf30} game
+Dialogue: 0,0:01:17.27,0:01:18.36,DEFAULT,,0,0,0,,{\r}{\kf17}Try{\kf29} hard{\kf29} get{\kf34} banned
+Dialogue: 0,0:01:18.66,0:01:19.93,DEFAULT,,0,0,0,,{\r}{\kf27}Thing's{\kf33} canned{\kf33} new{\kf33} brand
+Dialogue: 0,0:01:20.06,0:01:21.28,DEFAULT,,0,0,0,,{\r}{\kf21}Lau{\kf16}ren's{\kf11} in{\kf16} to{\kf21} lend{\kf16} a{\kf21} hand
+Dialogue: 0,0:01:21.41,0:01:22.33,DEFAULT,,0,0,0,,{\r}{\kf20}Look{\kf26} out{\kf20} fil{\kf26}ly
+Dialogue: 0,0:01:22.63,0:01:23.72,DEFAULT,,0,0,0,,{\r}{\kf16}It's{\kf16} gon{\kf16}na{\kf16} get{\kf21} hil{\kf24}ly
+Dialogue: 0,0:01:24.07,0:01:25.42,DEFAULT,,0,0,0,,{\r}{\kf14}As{\kf34} u{\kf29}sers{\kf29} cha{\kf29}sers
+Dialogue: 0,0:01:25.51,0:01:26.69,DEFAULT,,0,0,0,,{\r}{\kf26}Big{\kf26} time{\kf41} lo{\kf25}sers
+Dialogue: 0,0:01:26.86,0:01:28.08,DEFAULT,,0,0,0,,{\r}{\kf29}Flee{\kf20} con{\kf20}ven{\kf15}tion{\kf20} spa{\kf18}ces
+Dialogue: 0,0:01:28.43,0:01:29.65,DEFAULT,,0,0,0,,{\r}{\kf29}Boys{\kf23} down{\kf12} at{\kf29} Has{\kf29}bro
+Dialogue: 0,0:01:29.78,0:01:30.96,DEFAULT,,0,0,0,,{\r}{\kf21}Start{\kf15}ing{\kf10} up{\kf10} a{\kf26} new{\kf36} show
+Dialogue: 0,0:01:31.18,0:01:32.35,DEFAULT,,0,0,0,,{\r}{\kf32}Go{\kf21} through{\kf11} your{\kf27} pa{\kf27}ces
+Dialogue: 0,0:01:32.57,0:01:33.66,DEFAULT,,0,0,0,,{\r}{\kf21}Big{\kf16} day{\kf16} at{\kf16} the{\kf21} ra{\kf19}ces
+Dialogue: 0,0:01:40.94,0:01:42.03,DEFAULT,,0,0,0,,{\r}{\kf29}Get{\kf29} born,{\kf29} de{\kf22}form
+Dialogue: 0,0:01:42.21,0:01:43.52,DEFAULT,,0,0,0,,{\r}{\kf33}Con{\kf33}form,{\kf38} trans{\kf27}form
+Dialogue: 0,0:01:43.65,0:01:45.04,DEFAULT,,0,0,0,,{\r}{\kf23}See{\kf18} the{\kf35} show,{\kf29} get{\kf35} blessed
+Dialogue: 0,0:01:45.13,0:01:47.05,DEFAULT,,0,0,0,,{\r}{\kf31}Get{\kf31} stressed,{\kf25} try{\kf19} to{\kf19} be{\kf12} a{\kf31} suc{\kf24}cess
+Dialogue: 0,0:01:47.22,0:01:49.14,DEFAULT,,0,0,0,,{\r}{\kf22}Please{\kf27} Seth,{\kf33} please{\kf33} fans,{\kf27} make{\kf50} light
+Dialogue: 0,0:01:49.32,0:01:50.49,DEFAULT,,0,0,0,,{\r}{\kf30}Don't{\kf30} quit,{\kf24} don't{\kf34} fight
+Dialogue: 0,0:01:50.76,0:01:51.71,DEFAULT,,0,0,0,,{\r}{\kf20}Twen{\kf10}ty{\kf25} thou{\kf15}sand{\kf15} subs{\kf11} will
+Dialogue: 0,0:01:51.80,0:01:53.33,DEFAULT,,0,0,0,,{\r}{\kf15}Be{\kf15} e{\kf20}nough{\kf15} to{\kf15} make{\kf15} it{\kf36} al{\kf22}right
+Dialogue: 0,0:01:53.46,0:01:54.37,DEFAULT,,0,0,0,,{\r}{\kf26}Look{\kf26} out{\kf20} fil{\kf20}ly
+Dialogue: 0,0:01:54.59,0:01:55.90,DEFAULT,,0,0,0,,{\r}{\kf15}O{\kf15}thers{\kf25} got{\kf20} here{\kf30} ear{\kf26}ly
+Dialogue: 0,0:01:56.16,0:01:57.47,DEFAULT,,0,0,0,,{\r}{\kf12}Just{\kf24} try{\kf12} to{\kf24} write{\kf12} an{\kf24} an{\kf23}them
+Dialogue: 0,0:01:57.60,0:01:58.87,DEFAULT,,0,0,0,,{\r}{\kf33}Know{\kf22} how{\kf16} to{\kf33} brand{\kf22} 'em
+Dialogue: 0,0:01:59.00,0:02:00.26,DEFAULT,,0,0,0,,{\r}{\kf23}Make{\kf17} it{\kf29} sound{\kf34} hand{\kf23}some
+Dialogue: 0,0:02:00.39,0:02:01.70,DEFAULT,,0,0,0,,{\r}{\kf15}At{\kf15}ten{\kf15}tion{\kf15} comes{\kf10} at{\kf35} ran{\kf26}dom
+Dialogue: 0,0:02:02.18,0:02:03.31,DEFAULT,,0,0,0,,{\r}{\kf21}Don't{\kf15} wan{\kf15}na{\kf15} play{\kf21} their{\kf26} game
+Dialogue: 0,0:02:03.44,0:02:04.36,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf15} should{\kf15} for{\kf20}get{\kf27} 'fame'
+Dialogue: 0,0:02:04.45,0:02:05.49,DEFAULT,,0,0,0,,{\r}{\kf23}Your{\kf29} plan{\kf35} won't{\kf18} work
+Dialogue: 0,0:02:05.62,0:02:07.33,DEFAULT,,0,0,0,,{\r}{\kf21}Cause{\kf10} the{\kf26} fan{\kf21}dom{\kf15} works{\kf10} in{\kf41} tan{\kf26}dem

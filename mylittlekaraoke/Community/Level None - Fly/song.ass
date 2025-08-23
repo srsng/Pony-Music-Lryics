@@ -1,33 +1,40 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Fly
+Artist: LevelNone
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:46.16,0:00:49.33,DEFAULT,,0,0,0,,{\kf34}Her{\kf34} rain{\kf25}bow{\kf25} mane{\kf30} pas{\kf25}ses{\kf105} by
-Dialogue: 0,0:00:51.58,0:00:56.20,DEFAULT,,0,0,0,,{\kf25}She{\kf30} spreads{\kf25} her{\kf55} wings,{\kf30} and{\kf25} takes{\kf25} to{\kf34} the{\kf17}~{\kf92} sky
-Dialogue: 0,0:00:56.95,0:01:02.04,DEFAULT,,0,0,0,,{\kf34}Lo{\kf30}yal{\kf25} to{\kf59} you,{\kf21} you{\kf25} know{\kf30} that{\kf34} she'll{\kf30}~{\kf42} try{\kf30}~
-Dialogue: 0,0:01:02.37,0:01:07.37,DEFAULT,,0,0,0,,{\kf30}She'll{\kf25} be{\kf25} your{\kf50} friend,{\kf25} there's{\kf30} no{\kf25} need{\kf34} to{\kf34}~{\kf92} cry
-Dialogue: 0,0:01:08.04,0:01:14.49,DEFAULT,,0,0,0,,{\kf63}And{\kf46} I{\kf50} will{\kf113} spread{\kf55} my{\kf59}~{\kf100} wings
-Dialogue: 0,0:01:18.79,0:01:25.45,DEFAULT,,0,0,0,,{\kf67}And{\kf50} you{\kf50} will{\kf117} fly{\kf63} with{\kf42}~{\kf92} me
-Dialogue: 0,0:01:29.29,0:01:31.79,DEFAULT,,0,0,0,,{\kf30}Don't{\kf38} wor{\kf38}ry,{\kf30} I'll{\kf25} be{\kf38} fine
-Dialogue: 0,0:01:31.99,0:01:34.45,DEFAULT,,0,0,0,,{\kf34}Just{\kf25} as{\kf38} long,{\kf25} as{\kf25} there's{\kf42} time
-Dialogue: 0,0:01:34.74,0:01:38.70,DEFAULT,,0,0,0,,{\kf30}For{\kf25}~{\kf38} you,{\kf42} to{\kf42}~{\kf96} see
-Dialogue: 0,0:01:40.16,0:01:42.49,DEFAULT,,0,0,0,,{\kf25}You{\kf21} and{\kf46} me,{\kf25} we{\kf21} will{\kf38} fly
-Dialogue: 0,0:01:42.83,0:01:50.29,DEFAULT,,0,0,0,,{\kf30}Spread{\kf21} our{\kf30} wings,{\kf25} take{\kf25} to{\kf34} the{\kf205} sky{\kf242}~
-Dialogue: 0,0:02:12.49,0:02:15.95,DEFAULT,,0,0,0,,{\kf25}Her{\kf25} coat{\kf25} is{\kf25} blue{\kf25} as{\kf25} the{\kf142} sky
-Dialogue: 0,0:02:17.83,0:02:22.74,DEFAULT,,0,0,0,,{\kf30}It's{\kf25} just{\kf25} a{\kf59} blur,{\kf21} as{\kf25} she{\kf38} rock{\kf34}ets{\kf38}~{\kf80} by
-Dialogue: 0,0:02:23.24,0:02:28.16,DEFAULT,,0,0,0,,{\kf30}She'll{\kf30} take{\kf25} me{\kf55} up,{\kf30} she'll{\kf38} car{\kf21}ry{\kf38} me{\kf42}~{\kf75} high
-Dialogue: 0,0:02:28.70,0:02:33.99,DEFAULT,,0,0,0,,{\kf30}In{\kf30}to{\kf25} the{\kf25} clouds,{\kf25} I{\kf25} know{\kf50} that{\kf38} she'll{\kf25}~{\kf75} be{\kf30} mine
-Dialogue: 0,0:02:34.37,0:02:40.74,DEFAULT,,0,0,0,,{\kf50}And{\kf50} I{\kf46} will{\kf109} spread{\kf50} my{\kf59}~{\kf100} wings
-Dialogue: 0,0:02:45.16,0:02:51.99,DEFAULT,,0,0,0,,{\kf42}And{\kf55} you{\kf46} will{\kf130} fly{\kf67} with{\kf34}~{\kf117} me
-Dialogue: 0,0:02:55.62,0:02:58.04,DEFAULT,,0,0,0,,{\kf30}Don't{\kf34} wor{\kf34}ry,{\kf25} I'll{\kf25} be{\kf34} fine,
-Dialogue: 0,0:02:58.33,0:03:00.70,DEFAULT,,0,0,0,,{\kf30}Just{\kf25} as{\kf30} long,{\kf30} as{\kf25} there's{\kf34} time
-Dialogue: 0,0:03:00.99,0:03:04.95,DEFAULT,,0,0,0,,{\kf34}For{\kf30}~{\kf38} you,{\kf42} to{\kf25}~{\kf96} see
-Dialogue: 0,0:03:06.41,0:03:08.79,DEFAULT,,0,0,0,,{\kf30}You{\kf25} and{\kf38} me,{\kf21} we{\kf25} will{\kf34} fly
-Dialogue: 0,0:03:09.08,0:03:16.70,DEFAULT,,0,0,0,,{\kf34}Spread{\kf21} our{\kf30} wings,{\kf25} take{\kf25} to{\kf34} the{\kf209} sky{\kf250}~
+Dialogue: 0,0:00:46.17,0:00:49.33,DEFAULT,,0,0,0,,{\r}{\kf38}Her{\kf38} rain{\kf29}bow{\kf29} mane{\kf34} pas{\kf29}ses{\kf120} by
+Dialogue: 0,0:00:51.58,0:00:56.21,DEFAULT,,0,0,0,,{\r}{\kf33}She{\kf38} spreads{\kf33} her{\kf71} wings,{\kf38} and{\kf33} takes{\kf33} to{\kf43} the{\kf22}~{\kf118} sky
+Dialogue: 0,0:00:56.96,0:01:02.04,DEFAULT,,0,0,0,,{\r}{\kf48}Lo{\kf42}yal{\kf36} to{\kf84} you,{\kf30} you{\kf36} know{\kf42} that{\kf48} she'll{\kf42}~{\kf60} try{\kf40}~
+Dialogue: 0,0:01:02.37,0:01:07.37,DEFAULT,,0,0,0,,{\r}{\kf40}She'll{\kf34} be{\kf34} your{\kf68} friend,{\kf34} there's{\kf40} no{\kf34} need{\kf45} to{\kf45}~{\kf126} cry
+Dialogue: 0,0:01:08.04,0:01:14.50,DEFAULT,,0,0,0,,{\r}{\kf84}And{\kf61} I{\kf67} will{\kf150} spread{\kf72} my{\kf78}~{\kf134} wings
+Dialogue: 0,0:01:18.79,0:01:25.46,DEFAULT,,0,0,0,,{\r}{\kf93}And{\kf70} you{\kf70} will{\kf162} fly{\kf87} with{\kf58}~{\kf127} me
+Dialogue: 0,0:01:29.29,0:01:31.79,DEFAULT,,0,0,0,,{\r}{\kf37}Don't{\kf48} wor{\kf48}ry,{\kf37} I'll{\kf32} be{\kf48} fine
+Dialogue: 0,0:01:32.00,0:01:34.46,DEFAULT,,0,0,0,,{\r}{\kf44}Just{\kf33} as{\kf49} long,{\kf33} as{\kf33} there's{\kf54} time
+Dialogue: 0,0:01:34.75,0:01:38.71,DEFAULT,,0,0,0,,{\r}{\kf43}For{\kf37}~{\kf55} you,{\kf61} to{\kf61}~{\kf139} see
+Dialogue: 0,0:01:40.17,0:01:42.50,DEFAULT,,0,0,0,,{\r}{\kf33}You{\kf28} and{\kf61} me,{\kf33} we{\kf28} will{\kf50} fly
+Dialogue: 0,0:01:42.83,0:01:50.29,DEFAULT,,0,0,0,,{\r}{\kf36}Spread{\kf26} our{\kf36} wings,{\kf31} take{\kf31} to{\kf41} the{\kf250} sky{\kf295}~
+Dialogue: 0,0:02:12.50,0:02:15.96,DEFAULT,,0,0,0,,{\r}{\kf30}Her{\kf30} coat{\kf30} is{\kf30} blue{\kf30} as{\kf30} the{\kf166} sky
+Dialogue: 0,0:02:17.83,0:02:22.75,DEFAULT,,0,0,0,,{\r}{\kf39}It's{\kf33} just{\kf33} a{\kf77} blur,{\kf28} as{\kf33} she{\kf50} rock{\kf44}ets{\kf50}~{\kf105} by
+Dialogue: 0,0:02:23.25,0:02:28.17,DEFAULT,,0,0,0,,{\r}{\kf38}She'll{\kf38} take{\kf32} me{\kf70} up,{\kf38} she'll{\kf49} car{\kf27}ry{\kf49} me{\kf54}~{\kf97} high
+Dialogue: 0,0:02:28.71,0:02:34.00,DEFAULT,,0,0,0,,{\r}{\kf41}In{\kf41}to{\kf35} the{\kf35} clouds,{\kf35} I{\kf35} know{\kf71} that{\kf53} she'll{\kf35}~{\kf106} be{\kf42} mine
+Dialogue: 0,0:02:34.37,0:02:40.75,DEFAULT,,0,0,0,,{\r}{\kf69}And{\kf69} I{\kf63} will{\kf149} spread{\kf69} my{\kf80}~{\kf139} wings
+Dialogue: 0,0:02:45.17,0:02:52.00,DEFAULT,,0,0,0,,{\r}{\kf58}And{\kf76} you{\kf64} will{\kf181} fly{\kf93} with{\kf47}~{\kf164} me
+Dialogue: 0,0:02:55.62,0:02:58.04,DEFAULT,,0,0,0,,{\r}{\kf39}Don't{\kf45} wor{\kf45}ry,{\kf34} I'll{\kf34} be{\kf45} fine,
+Dialogue: 0,0:02:58.33,0:03:00.71,DEFAULT,,0,0,0,,{\r}{\kf41}Just{\kf35} as{\kf41} long,{\kf41} as{\kf35} there's{\kf45} time
+Dialogue: 0,0:03:01.00,0:03:04.96,DEFAULT,,0,0,0,,{\r}{\kf50}For{\kf44}~{\kf57} you,{\kf63} to{\kf38}~{\kf144} see
+Dialogue: 0,0:03:06.42,0:03:08.79,DEFAULT,,0,0,0,,{\r}{\kf41}You{\kf35} and{\kf52} me,{\kf29} we{\kf35} will{\kf46} fly
+Dialogue: 0,0:03:09.08,0:03:16.71,DEFAULT,,0,0,0,,{\r}{\kf41}Spread{\kf25} our{\kf36} wings,{\kf30} take{\kf30} to{\kf41} the{\kf254} sky{\kf305}~

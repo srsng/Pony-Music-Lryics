@@ -1,113 +1,120 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Stupeflip Vite !!!
+Artist: Stupeflip
+Original Timing: mylittlekaraoke.com by Romeo Nightinamare
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.83,0:00:02.50,DEFAULT,,0,0,0,,{\kf13}Et{\kf21} trés{\kf25}sail{\kf17}lez{\kf13} d'al{\kf21}lé{\kf46}gresse
-Dialogue: 0,0:00:03.29,0:00:08.70,DEFAULT,,0,0,0,,{\kf17}Car{\kf21} votre{\kf25} ré{\kf25}com{\kf55}pense{\kf21} se{\kf17}ra{\kf80} grande{\kf17} dans{\kf17} le{\kf130} ciel
-Dialogue: 0,0:00:08.91,0:00:11.16,DEFAULT,,0,0,0,,{\kf9}Moi{\kf17} j'suis{\kf13} Ras{\kf17}car{\kf13} Ca{\kf13}pac{\kf13} et{\kf13} j't'at{\kf13}taque{\kf9} a{\kf9}vec{\kf13} mon{\kf9} Mac
-Dialogue: 0,0:00:11.33,0:00:12.16,DEFAULT,,0,0,0,,{\kf9}La{\kf9} vie{\kf9} une{\kf17} chausse-{\kf17}trappe
-Dialogue: 0,0:00:12.33,0:00:13.87,DEFAULT,,0,0,0,,{\kf13}Pas{\kf13} d'quar{\kf13}tier{\kf9} quand{\kf5} les{\kf13} ly{\kf13}rics{\kf13} frappent
-Dialogue: 0,0:00:14.00,0:00:14.83,DEFAULT,,0,0,0,,{\kf9}Mon{\kf9} sou{\kf13}rire{\kf9} te{\kf13} glace
-Dialogue: 0,0:00:14.95,0:00:16.00,DEFAULT,,0,0,0,,{\kf9}Comme{\kf9} un{\kf17} clic-{\kf13}clac{\kf5} qui{\kf13} grince
-Dialogue: 0,0:00:16.16,0:00:17.00,DEFAULT,,0,0,0,,{\kf5}Le{\kf9} v'là{\kf9} qui{\kf17} r'vient,{\kf25} mince !
-Dialogue: 0,0:00:17.25,0:00:18.66,DEFAULT,,0,0,0,,{\kf5}Tous{\kf9} les{\kf13} mar{\kf9}dis{\kf9} pour{\kf9} te{\kf9} ser{\kf9}rer{\kf9} la{\kf13} pince
-Dialogue: 0,0:00:18.83,0:00:20.70,DEFAULT,,0,0,0,,{\kf13}Donne-{\kf13}moi{\kf17} l'cou{\kf13}rage{\kf13} d'al{\kf9}ler{\kf13} bouf{\kf13}fer{\kf9} tous{\kf13} les{\kf9} nu{\kf9}ages
-Dialogue: 0,0:00:20.87,0:00:21.33,DEFAULT,,0,0,0,,{\kf9}É{\kf9}coute{\kf9} mon{\kf9} cœur
-Dialogue: 0,0:00:21.45,0:00:21.91,DEFAULT,,0,0,0,,{\kf9}É{\kf13}coute{\kf9} la{\kf9} rage
-Dialogue: 0,0:00:22.08,0:00:23.25,DEFAULT,,0,0,0,,{\kf9}É{\kf9}coute{\kf9} ce{\kf17} texte{\kf13} an{\kf9}thro{\kf13}po{\kf9}phage
-Dialogue: 0,0:00:23.37,0:00:24.33,DEFAULT,,0,0,0,,{\kf9}Écoute{\kf9} ce{\kf13} mec{\kf5} qui{\kf9} vote{\kf9} ré{\kf9}ac'
-Dialogue: 0,0:00:24.45,0:00:25.54,DEFAULT,,0,0,0,,{\kf9}É{\kf9}coute{\kf9} cette{\kf13} mère{\kf17} seule{\kf13} qui{\kf9} craque
-Dialogue: 0,0:00:25.66,0:00:28.00,DEFAULT,,0,0,0,,{\kf9}É{\kf13}coute{\kf9} le{\kf13} cri{\kf9} des{\kf13} a{\kf17}ni{\kf13}maux{\kf9} quand{\kf13} on{\kf9} les{\kf13} en{\kf13}fouit{\kf9} dans{\kf13} un{\kf9} sac
-Dialogue: 0,0:00:28.08,0:00:29.04,DEFAULT,,0,0,0,,{\kf9}Le{\kf9} crew{\kf13} re{\kf17}vient{\kf30} fier
-Dialogue: 0,0:00:29.25,0:00:30.70,DEFAULT,,0,0,0,,{\kf9}Ta{\kf9}pi{\kf13} dans{\kf13} l'ombre{\kf13} pen{\kf9}dant{\kf9} des{\kf13} mil{\kf9}lé{\kf17}naires
-Dialogue: 0,0:00:30.87,0:00:32.79,DEFAULT,,0,0,0,,{\kf9}Ses{\kf13} pou{\kf9}mons{\kf13} t'é{\kf17}clairent{\kf9} comme{\kf13} l'E{\kf13}D{\kf13}F{\kf13} ou{\kf13} l'nu{\kf13}clé{\kf13}aire
-Dialogue: 0,0:00:32.95,0:00:33.87,DEFAULT,,0,0,0,,{\kf9}A{\kf9}lors{\kf17} ferme{\kf13} ta{\kf13} gueule
-Dialogue: 0,0:00:34.04,0:00:34.95,DEFAULT,,0,0,0,,{\kf9}Les{\kf13} Ar{\kf9}gé{\kf17}miones{\kf13} marchent{\kf9} seuls
-Dialogue: 0,0:00:35.37,0:00:36.95,DEFAULT,,0,0,0,,{\kf17}Pas{\kf13} d'meuf,{\kf13} pas{\kf17} d'taff,{\kf13} pas{\kf13} d'bouffe
-Dialogue: 0,0:00:37.12,0:00:37.91,DEFAULT,,0,0,0,,{\kf13}C'est{\kf13} bien{\kf13} casse-{\kf13}gueule
-Dialogue: 0,0:00:38.04,0:00:40.00,DEFAULT,,0,0,0,,{\kf13}J'me{\kf13} cal{\kf13}merai{\kf9} ja{\kf13}mais{\kf5} j'en{\kf13} ai{\kf9} trop{\kf13} gros{\kf9} sur{\kf9} la{\kf9} pa{\kf13}tate
-Dialogue: 0,0:00:40.16,0:00:42.33,DEFAULT,,0,0,0,,{\kf17}J'coupe{\kf13} les{\kf17} pattes,{\kf13} t'é{\kf9}pate,{\kf9} en{\kf13}core{\kf13} don{\kf9}ner{\kf9} des{\kf13} coups{\kf13} d'sa{\kf9}vate
-Dialogue: 0,0:00:42.45,0:00:43.62,DEFAULT,,0,0,0,,{\kf9}Et{\kf9} c'est{\kf13} l'hy{\kf13}po{\kf13}cri{\kf9}sie{\kf13} to{\kf17}tale
-Dialogue: 0,0:00:43.79,0:00:44.83,DEFAULT,,0,0,0,,{\kf9}Peu{\kf13} d'es{\kf13}poir{\kf9} que{\kf9} ça{\kf9} dé{\kf17}range
-Dialogue: 0,0:00:44.95,0:00:46.00,DEFAULT,,0,0,0,,{\kf9}C'est{\kf13} l'a{\kf13}pa{\kf9}thie{\kf9} gé{\kf13}né{\kf13}rale
-Dialogue: 0,0:00:46.16,0:00:47.54,DEFAULT,,0,0,0,,{\kf9}Peu{\kf9} d'es{\kf13}poir{\kf5} que{\kf9} les{\kf13} gens{\kf21} changent{\kf9} mais
-Dialogue: 0,0:00:47.66,0:00:50.50,DEFAULT,,0,0,0,,{\kf9}Stu{\kf13}pe{\kf13}flip{\kf17} vite{\kf9} Stu{\kf9}pe{\kf13}flip{\kf17} vite{\kf13} Stu{\kf9}pé-{\kf13}stu{\kf5}pe{\kf13}flip{\kf13} vite
-Dialogue: 0,0:00:50.66,0:00:51.95,DEFAULT,,0,0,0,,{\kf9}Stu{\kf9}pe{\kf13}flip{\kf21} vite{\kf13} Stu{\kf9}pe{\kf13}flip
-Dialogue: 0,0:00:52.12,0:00:54.45,DEFAULT,,0,0,0,,{\kf9}Le{\kf9} truc{\kf9} est{\kf13} vi{\kf13}vant{\kf5} dans{\kf9} les{\kf13} têtes{\kf9} même{\kf9} s'il{\kf9} est{\kf13} cra{\kf9}mé{\kf5} dans{\kf9} les{\kf21} Fnac
-Dialogue: 0,0:00:54.58,0:00:56.95,DEFAULT,,0,0,0,,{\kf9}Tu{\kf9} l'as{\kf13} sé{\kf17}ques{\kf30}tré,{\kf13} bâil{\kf9}lon{\kf21}né,{\kf9} li{\kf9}go{\kf30}té
-Dialogue: 0,0:00:57.25,0:01:00.95,DEFAULT,,0,0,0,,{\kf9}Stu{\kf13}pe{\kf13}flip{\kf13} vite{\kf13} Stu{\kf13}pe{\kf13}flip{\kf17} vite{\kf9} Stu{\kf13}pe{\kf13}flip{\kf13} vite{\kf13} Stu{\kf9}pé-{\kf13}stu{\kf9}pe{\kf17}flip{\kf13} vite
-Dialogue: 0,0:01:01.12,0:01:01.54,DEFAULT,,0,0,0,,{\kf13}Stu{\kf9}pe{\kf13}flip
-Dialogue: 0,0:01:01.66,0:01:04.04,DEFAULT,,0,0,0,,{\kf9}Le{\kf9} truc{\kf9} est{\kf9} vi{\kf13}vant{\kf9} dans{\kf13} les{\kf13} têtes{\kf9} même{\kf9} s'il{\kf13} est{\kf13} cra{\kf9}mé{\kf9} dans{\kf9} les{\kf17} Fnac
-Dialogue: 0,0:01:04.20,0:01:06.54,DEFAULT,,0,0,0,,{\kf9}Tu{\kf9} l'as{\kf13} sé{\kf17}ques{\kf30}tré,{\kf9} bâil{\kf9}lo{\kf21}né,{\kf9} li{\kf9}go{\kf30}té
-Dialogue: 0,0:01:07.16,0:01:08.66,DEFAULT,,0,0,0,,{\kf13}Ca{\kf13}dil{\kf13}lac{\kf9} en{\kf13} peer-{\kf9}to-{\kf30}peer
-Dialogue: 0,0:01:08.83,0:01:10.04,DEFAULT,,0,0,0,,{\kf9}Re{\kf13}viens{\kf5} te{\kf13} chier{\kf13} dans{\kf34} l'crâne
-Dialogue: 0,0:01:10.45,0:01:11.16,DEFAULT,,0,0,0,,{\kf13}Faire{\kf9} un{\kf13} p'tit{\kf13} tas
-Dialogue: 0,0:01:11.29,0:01:12.25,DEFAULT,,0,0,0,,{\kf13}C'est{\kf9} au{\kf9} p'tiot{\kf13} que{\kf17} j'cause
-Dialogue: 0,0:01:12.45,0:01:13.62,DEFAULT,,0,0,0,,{\kf5}Qui{\kf5} est{\kf13} en{\kf13} toi{\kf9} à{\kf13} qui{\kf17} j'cause
-Dialogue: 0,0:01:13.79,0:01:14.83,DEFAULT,,0,0,0,,{\kf9}Dans{\kf9} ton{\kf17} for{\kf13} in{\kf13}té{\kf13}rieur
-Dialogue: 0,0:01:15.00,0:01:16.00,DEFAULT,,0,0,0,,{\kf9}Y'a{\kf9} un{\kf13} en{\kf13}fant{\kf13} qui{\kf21} pleure
-Dialogue: 0,0:01:16.20,0:01:17.83,DEFAULT,,0,0,0,,{\kf9}Toi{\kf9} tu{\kf17} t'sens{\kf21} plus,{\kf13} lui{\kf9} y{\kf17} s'sent{\kf17} mal
-Dialogue: 0,0:01:18.00,0:01:20.25,DEFAULT,,0,0,0,,{\kf9}Tu{\kf9} l'as{\kf13} sé{\kf13}ques{\kf30}tré,{\kf13} bâil{\kf13}lon{\kf17}né,{\kf9} li{\kf13}go{\kf21}té
-Dialogue: 0,0:01:21.00,0:01:22.66,DEFAULT,,0,0,0,,{\kf13}Tu{\kf13} r'con{\kf13}nais{\kf13} le{\kf9} p'tit{\kf13} gars{\kf13} qu'est{\kf9} en{\kf17} toi
-Dialogue: 0,0:01:23.25,0:01:25.58,DEFAULT,,0,0,0,,{\kf13}Le{\kf17} p'tiot,{\kf13} la{\kf17} p'tiote{\kf13} qui{\kf17} chiale{\kf13} dans{\kf17} l'fond{\kf13} c'est{\kf21} toi
-Dialogue: 0,0:01:26.25,0:01:27.29,DEFAULT,,0,0,0,,{\kf9}Tu{\kf9} pré{\kf13}fères{\kf9} te{\kf13} ca{\kf17}cher
-Dialogue: 0,0:01:27.62,0:01:28.70,DEFAULT,,0,0,0,,{\kf9}Faire{\kf9} le{\kf13} steak{\kf13} ha{\kf25}ché
-Dialogue: 0,0:01:28.91,0:01:29.20,DEFAULT,,0,0,0,,{\kf9}Sous{\kf17} vide
-Dialogue: 0,0:01:29.50,0:01:30.75,DEFAULT,,0,0,0,,{\kf9}T'as{\kf13} du{\kf17} mal{\kf9} à{\kf9} res{\kf13}pi{\kf21}rer
-Dialogue: 0,0:01:30.91,0:01:31.54,DEFAULT,,0,0,0,,{\kf9}C'est{\kf9} toi{\kf13} là-{\kf13}haut ?
-Dialogue: 0,0:01:31.87,0:01:33.58,DEFAULT,,0,0,0,,{\kf9}Dans{\kf9} la{\kf21} cour{\kf9} des{\kf21} grands{\kf9} tu{\kf13} fais{\kf13} sem{\kf25}blant
-Dialogue: 0,0:01:33.79,0:01:36.04,DEFAULT,,0,0,0,,{\kf17}L'coq,{\kf9} le{\kf13} fan{\kf9}fa{\kf13}ron,{\kf9} la{\kf13} pu{\kf17}tain{\kf9} qui{\kf13} tourne{\kf13} en{\kf17} rond
-Dialogue: 0,0:01:36.37,0:01:37.75,DEFAULT,,0,0,0,,{\kf138}Ah !
-Dialogue: 0,0:01:37.91,0:01:38.62,DEFAULT,,0,0,0,,{\kf9}Tu{\kf17} crois{\kf9} gé{\kf21}rer
-Dialogue: 0,0:01:39.00,0:01:40.08,DEFAULT,,0,0,0,,{\kf9}Mais{\kf9} t'es{\kf17} mal{\kf9} di{\kf13}gé{\kf21}ré
-Dialogue: 0,0:01:40.79,0:01:42.25,DEFAULT,,0,0,0,,{\kf9}Il{\kf9} est{\kf13} où{\kf13} le{\kf13} p'tiot{\kf13} qu't'é{\kf17}tais ?
-Dialogue: 0,0:01:43.08,0:01:44.50,DEFAULT,,0,0,0,,{\kf5}Il{\kf9} est{\kf21} mort{\kf9} le{\kf13} p'tiot{\kf9} qu't'é{\kf21}tais ?
-Dialogue: 0,0:01:45.25,0:01:48.08,DEFAULT,,0,0,0,,{\kf9}Stu{\kf13}pe{\kf13}flip{\kf13} vite{\kf9} Stu{\kf9}pe{\kf13}flip{\kf17} vite{\kf13} Stu{\kf9}pé-{\kf13}stu{\kf9}pe{\kf13}flip{\kf13} vite
-Dialogue: 0,0:01:48.25,0:01:49.54,DEFAULT,,0,0,0,,{\kf9}Stu{\kf9}pe{\kf13}flip{\kf21} vite{\kf13} Stu{\kf9}pe{\kf13}flip
-Dialogue: 0,0:01:49.70,0:01:51.95,DEFAULT,,0,0,0,,{\kf9}Le{\kf9} truc{\kf9} est{\kf9} vi{\kf13}vant{\kf9} dans{\kf9} les{\kf13} têtes{\kf13} même{\kf9} s'il{\kf9} est{\kf9} cra{\kf9}mé{\kf9} dans{\kf9} les{\kf13} Fnac
-Dialogue: 0,0:01:52.16,0:01:54.54,DEFAULT,,0,0,0,,{\kf9}Tu{\kf9} l'as{\kf13} sé{\kf17}ques{\kf30}tré,{\kf13} bâil{\kf9}lon{\kf21}né,{\kf9} li{\kf9}go{\kf30}té
-Dialogue: 0,0:01:54.87,0:01:58.54,DEFAULT,,0,0,0,,{\kf9}Stu{\kf13}pe{\kf13}flip{\kf13} vite{\kf13} Stu{\kf13}pe{\kf13}flip{\kf17} vite{\kf9} Stu{\kf13}pe{\kf13}flip{\kf13} vite{\kf13} Stu{\kf9}pé-{\kf13}stu{\kf9}pe{\kf17}flip{\kf13} vite
-Dialogue: 0,0:01:58.70,0:01:59.12,DEFAULT,,0,0,0,,{\kf13}Stu{\kf9}pe{\kf13}flip
-Dialogue: 0,0:01:59.29,0:02:01.58,DEFAULT,,0,0,0,,{\kf9}Le{\kf9} truc{\kf9} est{\kf9} vi{\kf13}vant{\kf9} dans{\kf13} les{\kf13} têtes{\kf9} même{\kf9} s'il{\kf9} est{\kf13} cra{\kf9}mé{\kf9} dans{\kf9} les{\kf13} Fnac
-Dialogue: 0,0:02:01.79,0:02:04.04,DEFAULT,,0,0,0,,{\kf9}Tu{\kf9} l'as{\kf13} sé{\kf17}ques{\kf30}tré,{\kf9} bâil{\kf9}lon{\kf21}né,{\kf9} li{\kf9}go{\kf21}té
-Dialogue: 0,0:02:04.20,0:02:06.75,DEFAULT,,0,0,0,,{\kf9}Je{\kf9} ne{\kf17} casse{\kf17} pas,{\kf9} je{\kf9} n'me{\kf13} marre{\kf17} pas,{\kf9} je{\kf13} n'es{\kf17}père{\kf17} pas
-Dialogue: 0,0:02:06.91,0:02:09.12,DEFAULT,,0,0,0,,{\kf9}J'ob{\kf17}ser{\kf9}ve{\kf9} les{\kf13} autres{\kf9} qui{\kf9} partent{\kf9} en{\kf13} couille{\kf9} ou{\kf9} en{\kf13} chi{\kf13}po{\kf9}la{\kf13}ta
-Dialogue: 0,0:02:09.29,0:02:11.54,DEFAULT,,0,0,0,,{\kf13}Viens{\kf13} pas{\kf13} m'ju{\kf13}ger{\kf13} j'fais{\kf13} c'que{\kf13} j'peux{\kf13} a{\kf9}vec{\kf9} c'que{\kf21} j'ai,{\kf13} grand
-Dialogue: 0,0:02:11.70,0:02:13.91,DEFAULT,,0,0,0,,{\kf9}C'est{\kf9} pas{\kf13} l'car{\kf9}na{\kf9}val{\kf9} des{\kf13} en{\kf9}foi{\kf13}rés{\kf9} ni{\kf9} Au{\kf13}gus{\kf9}tin{\kf13} Le{\kf13}grand
-Dialogue: 0,0:02:14.08,0:02:16.37,DEFAULT,,0,0,0,,{\kf13}4{\kf13} par{\kf13} 4{\kf13} j'dé{\kf17}coupe{\kf9} mes{\kf13} rêves{\kf9} a{\kf9}vec{\kf9} un{\kf17} cime{\kf17}terre
-Dialogue: 0,0:02:16.54,0:02:18.75,DEFAULT,,0,0,0,,{\kf9}Noie{\kf13} les{\kf13} p'tits{\kf13} chats,{\kf9} tue{\kf9} les{\kf13} es{\kf13}poirs{\kf9} a{\kf9}vec{\kf9} un{\kf21} lance-{\kf13}pierre
-Dialogue: 0,0:02:18.91,0:02:20.75,DEFAULT,,0,0,0,,{\kf9}Mais{\kf13} d'où{\kf9} j'ai{\kf9} pas{\kf9} fais{\kf9} tous{\kf9} les{\kf9} trucs{\kf9} que{\kf9} j'au{\kf9}rais{\kf13} dû{\kf9} faire ?
-Dialogue: 0,0:02:20.91,0:02:22.04,DEFAULT,,0,0,0,,{\kf5}J'ai{\kf9} fait{\kf9} mes{\kf13} soi{\kf17}xante{\kf13} pri{\kf13}ères
-Dialogue: 0,0:02:22.25,0:02:23.58,DEFAULT,,0,0,0,,{\kf17}Par{\kf21} terre{\kf9} dans{\kf9} la{\kf13} pou{\kf13}dri{\kf13}ère
-Dialogue: 0,0:02:23.79,0:02:25.62,DEFAULT,,0,0,0,,{\kf13}Foule{\kf13} sen{\kf9}ti{\kf17}men{\kf13}tale{\kf9} je{\kf9} t'ai{\kf17} sou{\kf9}vent{\kf13} cher{\kf9}chée
-Dialogue: 0,0:02:25.70,0:02:27.95,DEFAULT,,0,0,0,,{\kf9}Mais{\kf13} où{\kf13} es-{\kf9}tu ?{\kf9} Où{\kf13} sont{\kf9} les{\kf13} u{\kf13}to{\kf9}pies ?{\kf13} Où{\kf13} sont{\kf9} les{\kf13} é{\kf13}veil{\kf9}lés ?
-Dialogue: 0,0:02:28.08,0:02:29.41,DEFAULT,,0,0,0,,{\kf9}Où{\kf9} sont{\kf13} les{\kf17} belles{\kf13} dames,{\kf9} les{\kf13} belles{\kf9} âmes ?
-Dialogue: 0,0:02:29.54,0:02:30.45,DEFAULT,,0,0,0,,{\kf9}Où{\kf13} sont{\kf9} les{\kf9} cé{\kf13}ré{\kf17}brés ?
-Dialogue: 0,0:02:30.62,0:02:31.54,DEFAULT,,0,0,0,,{\kf13}Ras-{\kf17}l'-bol{\kf13} d'être{\kf9} tout{\kf9} seul
-Dialogue: 0,0:02:31.66,0:02:32.91,DEFAULT,,0,0,0,,{\kf9}Je{\kf13} suis{\kf13} fa{\kf9}ti{\kf9}gué{\kf13} d'ex{\kf13}pli{\kf9}quer
-Dialogue: 0,0:02:33.04,0:02:34.04,DEFAULT,,0,0,0,,{\kf9}U{\kf13}to{\kf13}pis{\kf9}tes{\kf13} de{\kf13}bout
-Dialogue: 0,0:02:34.20,0:02:35.20,DEFAULT,,0,0,0,,{\kf9}J'ai{\kf9} des{\kf9} ly{\kf13}rics{\kf17} en{\kf13} stock
-Dialogue: 0,0:02:35.29,0:02:37.66,DEFAULT,,0,0,0,,{\kf5}Et{\kf9} si{\kf13} plus{\kf17} per{\kf17}sonne{\kf17} com{\kf13}prend,{\kf9} je{\kf13} m'e{\kf13}xile{\kf9} à{\kf13} Pé{\kf13}ta{\kf13}ou{\kf17}chnok
-Dialogue: 0,0:02:37.83,0:02:40.29,DEFAULT,,0,0,0,,{\kf9}A{\kf13}lors{\kf13} laisse-{\kf17}moi{\kf13} tri{\kf9}per,{\kf13} laisse{\kf30} rir{\kf17}oum'd{\kf13} tanv{\kf9}a{\kf13} erid'l{\kf17} iom
-Dialogue: 0,0:02:40.45,0:02:42.62,DEFAULT,,0,0,0,,{\kf13}J'suis{\kf9} pas{\kf13} cet{\kf13} es{\kf13}clave{\kf9} qu'at{\kf13}tends{\kf13} l'week-{\kf17}end{\kf13} pour{\kf17} s'en{\kf21}fuir
-Dialogue: 0,0:02:42.87,0:02:45.66,DEFAULT,,0,0,0,,{\kf9}Stu{\kf13}pe{\kf13}flip{\kf13} vite{\kf9} Stu{\kf13}pe{\kf13}flip{\kf17} vite{\kf9} Stu{\kf13}pé-{\kf13}stu{\kf13}pe{\kf13}flip{\kf13} vite
-Dialogue: 0,0:02:45.83,0:02:47.12,DEFAULT,,0,0,0,,{\kf9}Stu{\kf9}pe{\kf13}flip{\kf21} vite{\kf13} Stu{\kf9}pe{\kf13}flip
-Dialogue: 0,0:02:47.29,0:02:49.58,DEFAULT,,0,0,0,,{\kf9}Le{\kf9} truc{\kf9} est{\kf9} vi{\kf13}vant{\kf9} dans{\kf9} les{\kf13} têtes{\kf9} même{\kf9} s'il{\kf9} est{\kf9} cra{\kf9}mé{\kf9} dans{\kf9} les{\kf13} Fnac
-Dialogue: 0,0:02:49.75,0:02:52.12,DEFAULT,,0,0,0,,{\kf9}Tu{\kf9} l'as{\kf13} sé{\kf17}ques{\kf30}tré,{\kf13} bâil{\kf9}lon{\kf21}né,{\kf9} li{\kf9}go{\kf30}té
-Dialogue: 0,0:02:52.45,0:02:56.12,DEFAULT,,0,0,0,,{\kf9}Stu{\kf13}pe{\kf13}flip{\kf13} vite{\kf9} Stu{\kf9}pe{\kf13}flip{\kf17} vite{\kf9} Stu{\kf9}pe{\kf13}flip{\kf13} vite{\kf13} Stu{\kf9}pé-{\kf13}stu{\kf9}pe{\kf17}flip{\kf13} vite
-Dialogue: 0,0:02:56.29,0:02:56.70,DEFAULT,,0,0,0,,{\kf13}Stu{\kf9}pe{\kf13}flip
-Dialogue: 0,0:02:56.87,0:02:59.20,DEFAULT,,0,0,0,,{\kf9}Le{\kf9} truc{\kf9} est{\kf9} vi{\kf13}vant{\kf9} dans{\kf13} les{\kf13} têtes{\kf9} même{\kf9} s'il{\kf9} est{\kf13} cra{\kf9}mé{\kf9} dans{\kf9} les{\kf13} Fnac
-Dialogue: 0,0:02:59.37,0:03:01.66,DEFAULT,,0,0,0,,{\kf9}Tu{\kf9} l'as{\kf13} sé{\kf17}ques{\kf30}tré,{\kf9} bâil{\kf9}lon{\kf21}né,{\kf9} li{\kf9}go{\kf25}té
-Dialogue: 0,0:03:09.00,0:03:11.29,DEFAULT,,0,0,0,,{\kf9}Tu{\kf9} l'as{\kf13} sé{\kf17}ques{\kf30}tré,{\kf9} bâil{\kf9}lon{\kf21}né,{\kf9} li{\kf9}go{\kf25}té
-Dialogue: 0,0:03:18.58,0:03:20.79,DEFAULT,,0,0,0,,{\kf9}Tu{\kf9} l'as{\kf13} sé{\kf17}ques{\kf30}tré,{\kf9} bâil{\kf9}lon{\kf21}né,{\kf9} li{\kf9}go{\kf17}té
-Dialogue: 0,0:03:20.95,0:03:22.00,DEFAULT,,0,0,0,,{\kf9}Bâil{\kf9}lon{\kf21}né,{\kf9} li{\kf9}go{\kf17}té
-Dialogue: 0,0:03:22.16,0:03:23.20,DEFAULT,,0,0,0,,{\kf9}Bâil{\kf9}lon{\kf21}né,{\kf9} li{\kf9}go{\kf17}té
-Dialogue: 0,0:03:23.37,0:03:24.41,DEFAULT,,0,0,0,,{\kf9}Bâil{\kf9}lon{\kf21}né,{\kf9} li{\kf9}go{\kf17}té
-Dialogue: 0,0:03:24.58,0:03:25.70,DEFAULT,,0,0,0,,{\kf9}Bâil{\kf9}lon{\kf21}né,{\kf9} li{\kf9}go{\kf25}té
+Dialogue: 0,0:00:00.83,0:00:02.50,DEFAULT,,0,0,0,,{\r}{\kf14}Et{\kf23} trés{\kf27}sail{\kf18}lez{\kf14} d'al{\kf23}lé{\kf48}gresse
+Dialogue: 0,0:00:03.29,0:00:08.71,DEFAULT,,0,0,0,,{\r}{\kf21}Car{\kf27} votre{\kf32} ré{\kf32}com{\kf70}pense{\kf27} se{\kf21}ra{\kf102} grande{\kf21} dans{\kf21} le{\kf168} ciel
+Dialogue: 0,0:00:08.92,0:00:11.17,DEFAULT,,0,0,0,,{\r}{\kf12}Moi{\kf24} j'suis{\kf18} Ras{\kf24}car{\kf18} Ca{\kf18}pac{\kf18} et{\kf18} j't'at{\kf18}taque{\kf12} a{\kf12}vec{\kf18} mon{\kf15} Mac
+Dialogue: 0,0:00:11.33,0:00:12.17,DEFAULT,,0,0,0,,{\r}{\kf12}La{\kf12} vie{\kf12} une{\kf24} chausse-{\kf23}trappe
+Dialogue: 0,0:00:12.33,0:00:13.88,DEFAULT,,0,0,0,,{\r}{\kf22}Pas{\kf22} d'quar{\kf22}tier{\kf15} quand{\kf10} les{\kf22} ly{\kf22}rics{\kf19} frappent
+Dialogue: 0,0:00:14.00,0:00:14.83,DEFAULT,,0,0,0,,{\r}{\kf14}Mon{\kf14} sou{\kf21}rire{\kf14} te{\kf20} glace
+Dialogue: 0,0:00:14.96,0:00:16.00,DEFAULT,,0,0,0,,{\r}{\kf14}Comme{\kf14} un{\kf28} clic-{\kf21}clac{\kf10} qui{\kf17} grince
+Dialogue: 0,0:00:16.17,0:00:17.00,DEFAULT,,0,0,0,,{\r}{\kf10}Le{\kf11} v'là{\kf11} qui{\kf22} r'vient,{\kf29} mince !
+Dialogue: 0,0:00:17.25,0:00:18.67,DEFAULT,,0,0,0,,{\r}{\kf10}Tous{\kf14} les{\kf20} mar{\kf14}dis{\kf14} pour{\kf14} te{\kf14} ser{\kf14}rer{\kf14} la{\kf14} pince
+Dialogue: 0,0:00:18.83,0:00:20.71,DEFAULT,,0,0,0,,{\r}{\kf17}Donne-{\kf17}moi{\kf23} l'cou{\kf17}rage{\kf17} d'al{\kf11}ler{\kf17} bouf{\kf17}fer{\kf11} tous{\kf17} les{\kf11} nu{\kf13}ages
+Dialogue: 0,0:00:20.88,0:00:21.33,DEFAULT,,0,0,0,,{\r}{\kf12}É{\kf12}coute{\kf12} mon{\kf10} cœur
+Dialogue: 0,0:00:21.46,0:00:21.92,DEFAULT,,0,0,0,,{\r}{\kf10}É{\kf15}coute{\kf10} la{\kf11} rage
+Dialogue: 0,0:00:22.08,0:00:23.25,DEFAULT,,0,0,0,,{\r}{\kf12}É{\kf12}coute{\kf12} ce{\kf23} texte{\kf18} an{\kf12}thro{\kf18}po{\kf10}phage
+Dialogue: 0,0:00:23.38,0:00:24.33,DEFAULT,,0,0,0,,{\r}{\kf14}Écoute{\kf14} ce{\kf21} mec{\kf10} qui{\kf14} vote{\kf14} ré{\kf10}ac'
+Dialogue: 0,0:00:24.46,0:00:25.54,DEFAULT,,0,0,0,,{\r}{\kf12}É{\kf12}coute{\kf12} cette{\kf18} mère{\kf24} seule{\kf18} qui{\kf12} craque
+Dialogue: 0,0:00:25.67,0:00:28.00,DEFAULT,,0,0,0,,{\r}{\kf11}É{\kf17}coute{\kf11} le{\kf17} cri{\kf11} des{\kf17} a{\kf22}ni{\kf17}maux{\kf11} quand{\kf17} on{\kf11} les{\kf17} en{\kf17}fouit{\kf11} dans{\kf17} un{\kf10} sac
+Dialogue: 0,0:00:28.08,0:00:29.04,DEFAULT,,0,0,0,,{\r}{\kf11}Le{\kf11} crew{\kf16} re{\kf21}vient{\kf37} fier
+Dialogue: 0,0:00:29.25,0:00:30.71,DEFAULT,,0,0,0,,{\r}{\kf11}Ta{\kf11}pi{\kf17} dans{\kf17} l'ombre{\kf17} pen{\kf11}dant{\kf11} des{\kf17} mil{\kf11}lé{\kf23}naires
+Dialogue: 0,0:00:30.88,0:00:32.79,DEFAULT,,0,0,0,,{\r}{\kf10}Ses{\kf16} pou{\kf10}mons{\kf16} t'é{\kf21}clairent{\kf10} comme{\kf16} l'E{\kf16}D{\kf16}F{\kf16} ou{\kf16} l'nu{\kf16}clé{\kf13}aire
+Dialogue: 0,0:00:32.96,0:00:33.88,DEFAULT,,0,0,0,,{\r}{\kf13}A{\kf13}lors{\kf26} ferme{\kf20} ta{\kf20} gueule
+Dialogue: 0,0:00:34.04,0:00:34.96,DEFAULT,,0,0,0,,{\r}{\kf12}Les{\kf17} Ar{\kf12}gé{\kf23}miones{\kf17} marchent{\kf11} seuls
+Dialogue: 0,0:00:35.38,0:00:36.96,DEFAULT,,0,0,0,,{\r}{\kf32}Pas{\kf24} d'meuf,{\kf24} pas{\kf32} d'taff,{\kf24} pas{\kf22} d'bouffe
+Dialogue: 0,0:00:37.12,0:00:37.92,DEFAULT,,0,0,0,,{\r}{\kf20}C'est{\kf20} bien{\kf20} casse-{\kf19}gueule
+Dialogue: 0,0:00:38.04,0:00:40.00,DEFAULT,,0,0,0,,{\r}{\kf18}J'me{\kf18} cal{\kf18}merai{\kf12} ja{\kf18}mais{\kf10} j'en{\kf18} ai{\kf12} trop{\kf18} gros{\kf12} sur{\kf12} la{\kf12} pa{\kf18}tate
+Dialogue: 0,0:00:40.17,0:00:42.33,DEFAULT,,0,0,0,,{\r}{\kf24}J'coupe{\kf18} les{\kf24} pattes,{\kf18} t'é{\kf12}pate,{\kf12} en{\kf18}core{\kf18} don{\kf12}ner{\kf12} des{\kf18} coups{\kf18} d'sa{\kf13}vate
+Dialogue: 0,0:00:42.46,0:00:43.62,DEFAULT,,0,0,0,,{\r}{\kf11}Et{\kf11} c'est{\kf16} l'hy{\kf16}po{\kf16}cri{\kf11}sie{\kf16} to{\kf20}tale
+Dialogue: 0,0:00:43.79,0:00:44.83,DEFAULT,,0,0,0,,{\r}{\kf12}Peu{\kf17} d'es{\kf17}poir{\kf12} que{\kf12} ça{\kf12} dé{\kf22}range
+Dialogue: 0,0:00:44.96,0:00:46.00,DEFAULT,,0,0,0,,{\r}{\kf12}C'est{\kf17} l'a{\kf17}pa{\kf12}thie{\kf12} gé{\kf17}né{\kf17}rale
+Dialogue: 0,0:00:46.17,0:00:47.54,DEFAULT,,0,0,0,,{\r}{\kf14}Peu{\kf14} d'es{\kf21}poir{\kf10} que{\kf14} les{\kf21} gens{\kf34} changent{\kf10} mais
+Dialogue: 0,0:00:47.67,0:00:50.50,DEFAULT,,0,0,0,,{\r}{\kf15}Stu{\kf22}pe{\kf22}flip{\kf30} vite{\kf15} Stu{\kf15}pe{\kf22}flip{\kf30} vite{\kf22} Stu{\kf15}pé-{\kf22}stu{\kf10}pe{\kf22}flip{\kf21} vite
+Dialogue: 0,0:00:50.67,0:00:51.96,DEFAULT,,0,0,0,,{\r}{\kf13}Stu{\kf13}pe{\kf19}flip{\kf32} vite{\kf19} Stu{\kf13}pe{\kf20}flip
+Dialogue: 0,0:00:52.12,0:00:54.46,DEFAULT,,0,0,0,,{\r}{\kf13}Le{\kf13} truc{\kf13} est{\kf19} vi{\kf19}vant{\kf10} dans{\kf13} les{\kf19} têtes{\kf13} même{\kf13} s'il{\kf13} est{\kf19} cra{\kf13}mé{\kf10} dans{\kf13} les{\kf20} Fnac
+Dialogue: 0,0:00:54.58,0:00:56.96,DEFAULT,,0,0,0,,{\r}{\kf12}Tu{\kf12} l'as{\kf18} sé{\kf24}ques{\kf43}tré,{\kf18} bâil{\kf12}lon{\kf30}né,{\kf12} li{\kf12}go{\kf44}té
+Dialogue: 0,0:00:57.25,0:01:00.96,DEFAULT,,0,0,0,,{\r}{\kf14}Stu{\kf21}pe{\kf21}flip{\kf21} vite{\kf21} Stu{\kf21}pe{\kf21}flip{\kf29} vite{\kf14} Stu{\kf21}pe{\kf21}flip{\kf21} vite{\kf21} Stu{\kf14}pé-{\kf21}stu{\kf14}pe{\kf29}flip{\kf26} vite
+Dialogue: 0,0:01:01.12,0:01:01.54,DEFAULT,,0,0,0,,{\r}{\kf16}Stu{\kf10}pe{\kf16}flip
+Dialogue: 0,0:01:01.67,0:01:04.04,DEFAULT,,0,0,0,,{\r}{\kf12}Le{\kf12} truc{\kf12} est{\kf12} vi{\kf18}vant{\kf12} dans{\kf18} les{\kf18} têtes{\kf12} même{\kf12} s'il{\kf18} est{\kf18} cra{\kf12}mé{\kf12} dans{\kf12} les{\kf28} Fnac
+Dialogue: 0,0:01:04.21,0:01:06.54,DEFAULT,,0,0,0,,{\r}{\kf12}Tu{\kf12} l'as{\kf18} sé{\kf25}ques{\kf43}tré,{\kf12} bâil{\kf12}lo{\kf31}né,{\kf12} li{\kf12}go{\kf44}té
+Dialogue: 0,0:01:07.17,0:01:08.67,DEFAULT,,0,0,0,,{\r}{\kf20}Ca{\kf20}dil{\kf20}lac{\kf13} en{\kf20} peer-{\kf13}to-{\kf44}peer
+Dialogue: 0,0:01:08.83,0:01:10.04,DEFAULT,,0,0,0,,{\r}{\kf12}Re{\kf18}viens{\kf10} te{\kf18} chier{\kf18} dans{\kf45} l'crâne
+Dialogue: 0,0:01:10.46,0:01:11.17,DEFAULT,,0,0,0,,{\r}{\kf19}Faire{\kf13} un{\kf19} p'tit{\kf20} tas
+Dialogue: 0,0:01:11.29,0:01:12.25,DEFAULT,,0,0,0,,{\r}{\kf21}C'est{\kf14} au{\kf14} p'tiot{\kf21} que{\kf26} j'cause
+Dialogue: 0,0:01:12.46,0:01:13.62,DEFAULT,,0,0,0,,{\r}{\kf10}Qui{\kf10} est{\kf21} en{\kf21} toi{\kf14} à{\kf21} qui{\kf20} j'cause
+Dialogue: 0,0:01:13.79,0:01:14.83,DEFAULT,,0,0,0,,{\r}{\kf12}Dans{\kf12} ton{\kf24} for{\kf18} in{\kf18}té{\kf20}rieur
+Dialogue: 0,0:01:15.00,0:01:16.00,DEFAULT,,0,0,0,,{\r}{\kf11}Y'a{\kf11} un{\kf17} en{\kf17}fant{\kf17} qui{\kf27} pleure
+Dialogue: 0,0:01:16.21,0:01:17.83,DEFAULT,,0,0,0,,{\r}{\kf13}Toi{\kf13} tu{\kf25} t'sens{\kf31} plus,{\kf19} lui{\kf13} y{\kf25} s'sent{\kf24} mal
+Dialogue: 0,0:01:18.00,0:01:20.25,DEFAULT,,0,0,0,,{\r}{\kf12}Tu{\kf12} l'as{\kf18} sé{\kf18}ques{\kf43}tré,{\kf18} bâil{\kf18}lon{\kf24}né,{\kf12} li{\kf18}go{\kf32}té
+Dialogue: 0,0:01:21.00,0:01:22.67,DEFAULT,,0,0,0,,{\r}{\kf19}Tu{\kf19} r'con{\kf19}nais{\kf19} le{\kf13} p'tit{\kf19} gars{\kf19} qu'est{\kf13} en{\kf27} toi
+Dialogue: 0,0:01:23.25,0:01:25.58,DEFAULT,,0,0,0,,{\r}{\kf19}Le{\kf26} p'tiot,{\kf19} la{\kf26} p'tiote{\kf19} qui{\kf26} chiale{\kf19} dans{\kf26} l'fond{\kf19} c'est{\kf34} toi
+Dialogue: 0,0:01:26.25,0:01:27.29,DEFAULT,,0,0,0,,{\r}{\kf13}Tu{\kf13} pré{\kf20}fères{\kf13} te{\kf20} ca{\kf25}cher
+Dialogue: 0,0:01:27.62,0:01:28.71,DEFAULT,,0,0,0,,{\r}{\kf14}Faire{\kf14} le{\kf20} steak{\kf20} ha{\kf40}ché
+Dialogue: 0,0:01:28.92,0:01:29.21,DEFAULT,,0,0,0,,{\r}{\kf10}Sous{\kf19} vide
+Dialogue: 0,0:01:29.50,0:01:30.75,DEFAULT,,0,0,0,,{\r}{\kf12}T'as{\kf18} du{\kf24} mal{\kf12} à{\kf12} res{\kf18}pi{\kf29}rer
+Dialogue: 0,0:01:30.92,0:01:31.54,DEFAULT,,0,0,0,,{\r}{\kf12}C'est{\kf12} toi{\kf19} là-{\kf19}haut ?
+Dialogue: 0,0:01:31.88,0:01:33.58,DEFAULT,,0,0,0,,{\r}{\kf11}Dans{\kf11} la{\kf29} cour{\kf11} des{\kf29} grands{\kf11} tu{\kf17} fais{\kf17} sem{\kf35}blant
+Dialogue: 0,0:01:33.79,0:01:36.04,DEFAULT,,0,0,0,,{\r}{\kf26}L'coq,{\kf13} le{\kf19} fan{\kf13}fa{\kf19}ron,{\kf13} la{\kf19} pu{\kf26}tain{\kf13} qui{\kf19} tourne{\kf19} en{\kf26} rond
+Dialogue: 0,0:01:36.38,0:01:37.75,DEFAULT,,0,0,0,,{\r}{\kf138}Ah !
+Dialogue: 0,0:01:37.92,0:01:38.62,DEFAULT,,0,0,0,,{\r}{\kf11}Tu{\kf22} crois{\kf11} gé{\kf27}rer
+Dialogue: 0,0:01:39.00,0:01:40.08,DEFAULT,,0,0,0,,{\r}{\kf12}Mais{\kf12} t'es{\kf24} mal{\kf12} di{\kf18}gé{\kf30}ré
+Dialogue: 0,0:01:40.79,0:01:42.25,DEFAULT,,0,0,0,,{\r}{\kf15}Il{\kf15} est{\kf22} où{\kf22} le{\kf22} p'tiot{\kf22} qu't'é{\kf28}tais ?
+Dialogue: 0,0:01:43.08,0:01:44.50,DEFAULT,,0,0,0,,{\r}{\kf10}Il{\kf14} est{\kf35} mort{\kf14} le{\kf21} p'tiot{\kf14} qu't'é{\kf34}tais ?
+Dialogue: 0,0:01:45.25,0:01:48.08,DEFAULT,,0,0,0,,{\r}{\kf15}Stu{\kf22}pe{\kf22}flip{\kf22} vite{\kf15} Stu{\kf15}pe{\kf22}flip{\kf30} vite{\kf22} Stu{\kf15}pé-{\kf22}stu{\kf15}pe{\kf22}flip{\kf24} vite
+Dialogue: 0,0:01:48.25,0:01:49.54,DEFAULT,,0,0,0,,{\r}{\kf13}Stu{\kf13}pe{\kf19}flip{\kf32} vite{\kf19} Stu{\kf13}pe{\kf20}flip
+Dialogue: 0,0:01:49.71,0:01:51.96,DEFAULT,,0,0,0,,{\r}{\kf12}Le{\kf12} truc{\kf12} est{\kf12} vi{\kf19}vant{\kf12} dans{\kf12} les{\kf19} têtes{\kf19} même{\kf12} s'il{\kf12} est{\kf12} cra{\kf12}mé{\kf12} dans{\kf12} les{\kf24} Fnac
+Dialogue: 0,0:01:52.17,0:01:54.54,DEFAULT,,0,0,0,,{\r}{\kf12}Tu{\kf12} l'as{\kf18} sé{\kf24}ques{\kf43}tré,{\kf18} bâil{\kf12}lon{\kf31}né,{\kf12} li{\kf12}go{\kf44}té
+Dialogue: 0,0:01:54.88,0:01:58.54,DEFAULT,,0,0,0,,{\r}{\kf14}Stu{\kf21}pe{\kf21}flip{\kf21} vite{\kf21} Stu{\kf21}pe{\kf21}flip{\kf28} vite{\kf14} Stu{\kf21}pe{\kf21}flip{\kf21} vite{\kf21} Stu{\kf14}pé-{\kf21}stu{\kf14}pe{\kf28}flip{\kf24} vite
+Dialogue: 0,0:01:58.71,0:01:59.12,DEFAULT,,0,0,0,,{\r}{\kf16}Stu{\kf10}pe{\kf16}flip
+Dialogue: 0,0:01:59.29,0:02:01.58,DEFAULT,,0,0,0,,{\r}{\kf12}Le{\kf12} truc{\kf12} est{\kf12} vi{\kf19}vant{\kf12} dans{\kf19} les{\kf19} têtes{\kf12} même{\kf12} s'il{\kf12} est{\kf19} cra{\kf12}mé{\kf12} dans{\kf12} les{\kf21} Fnac
+Dialogue: 0,0:02:01.79,0:02:04.04,DEFAULT,,0,0,0,,{\r}{\kf12}Tu{\kf12} l'as{\kf19} sé{\kf25}ques{\kf44}tré,{\kf12} bâil{\kf12}lon{\kf31}né,{\kf12} li{\kf12}go{\kf34}té
+Dialogue: 0,0:02:04.21,0:02:06.75,DEFAULT,,0,0,0,,{\r}{\kf14}Je{\kf14} ne{\kf28} casse{\kf28} pas,{\kf14} je{\kf14} n'me{\kf21} marre{\kf28} pas,{\kf14} je{\kf21} n'es{\kf28}père{\kf30} pas
+Dialogue: 0,0:02:06.92,0:02:09.12,DEFAULT,,0,0,0,,{\r}{\kf12}J'ob{\kf24}ser{\kf12}ve{\kf12} les{\kf18} autres{\kf12} qui{\kf12} partent{\kf12} en{\kf18} couille{\kf12} ou{\kf12} en{\kf18} chi{\kf18}po{\kf12}la{\kf17}ta
+Dialogue: 0,0:02:09.29,0:02:11.54,DEFAULT,,0,0,0,,{\r}{\kf19}Viens{\kf19} pas{\kf19} m'ju{\kf19}ger{\kf19} j'fais{\kf19} c'que{\kf19} j'peux{\kf19} a{\kf12}vec{\kf12} c'que{\kf31} j'ai,{\kf18} grand
+Dialogue: 0,0:02:11.71,0:02:13.92,DEFAULT,,0,0,0,,{\r}{\kf12}C'est{\kf12} pas{\kf18} l'car{\kf12}na{\kf12}val{\kf12} des{\kf18} en{\kf12}foi{\kf18}rés{\kf12} ni{\kf12} Au{\kf18}gus{\kf12}tin{\kf18} Le{\kf23}grand
+Dialogue: 0,0:02:14.08,0:02:16.38,DEFAULT,,0,0,0,,{\r}{\kf20}4{\kf20} par{\kf20} 4{\kf20} j'dé{\kf26}coupe{\kf13} mes{\kf20} rêves{\kf13} a{\kf13}vec{\kf13} un{\kf26} cime{\kf25}terre
+Dialogue: 0,0:02:16.54,0:02:18.75,DEFAULT,,0,0,0,,{\r}{\kf13}Noie{\kf19} les{\kf19} p'tits{\kf19} chats,{\kf13} tue{\kf13} les{\kf19} es{\kf19}poirs{\kf13} a{\kf13}vec{\kf13} un{\kf32} lance-{\kf16}pierre
+Dialogue: 0,0:02:18.92,0:02:20.75,DEFAULT,,0,0,0,,{\r}{\kf13}Mais{\kf20} d'où{\kf13} j'ai{\kf13} pas{\kf13} fais{\kf13} tous{\kf13} les{\kf13} trucs{\kf13} que{\kf13} j'au{\kf13}rais{\kf20} dû{\kf13} faire ?
+Dialogue: 0,0:02:20.92,0:02:22.04,DEFAULT,,0,0,0,,{\r}{\kf10}J'ai{\kf12} fait{\kf12} mes{\kf19} soi{\kf25}xante{\kf19} pri{\kf15}ères
+Dialogue: 0,0:02:22.25,0:02:23.58,DEFAULT,,0,0,0,,{\r}{\kf24}Par{\kf30} terre{\kf12} dans{\kf12} la{\kf18} pou{\kf18}dri{\kf19}ère
+Dialogue: 0,0:02:23.79,0:02:25.62,DEFAULT,,0,0,0,,{\r}{\kf18}Foule{\kf18} sen{\kf12}ti{\kf24}men{\kf18}tale{\kf12} je{\kf12} t'ai{\kf24} sou{\kf12}vent{\kf18} cher{\kf15}chée
+Dialogue: 0,0:02:25.71,0:02:27.96,DEFAULT,,0,0,0,,{\r}{\kf11}Mais{\kf16} où{\kf16} es-{\kf11}tu ?{\kf11} Où{\kf16} sont{\kf11} les{\kf16} u{\kf16}to{\kf11}pies ?{\kf16} Où{\kf16} sont{\kf11} les{\kf16} é{\kf16}veil{\kf15}lés ?
+Dialogue: 0,0:02:28.08,0:02:29.42,DEFAULT,,0,0,0,,{\r}{\kf13}Où{\kf13} sont{\kf19} les{\kf25} belles{\kf19} dames,{\kf13} les{\kf19} belles{\kf12} âmes ?
+Dialogue: 0,0:02:29.54,0:02:30.46,DEFAULT,,0,0,0,,{\r}{\kf12}Où{\kf17} sont{\kf12} les{\kf12} cé{\kf17}ré{\kf22}brés ?
+Dialogue: 0,0:02:30.62,0:02:31.54,DEFAULT,,0,0,0,,{\r}{\kf20}Ras-{\kf26}l'-bol{\kf20} d'être{\kf13} tout{\kf13} seul
+Dialogue: 0,0:02:31.67,0:02:32.92,DEFAULT,,0,0,0,,{\r}{\kf12}Je{\kf19} suis{\kf19} fa{\kf12}ti{\kf12}gué{\kf19} d'ex{\kf19}pli{\kf13}quer
+Dialogue: 0,0:02:33.04,0:02:34.04,DEFAULT,,0,0,0,,{\r}{\kf12}U{\kf19}to{\kf19}pis{\kf12}tes{\kf19} de{\kf19}bout
+Dialogue: 0,0:02:34.21,0:02:35.21,DEFAULT,,0,0,0,,{\r}{\kf12}J'ai{\kf12} des{\kf12} ly{\kf19}rics{\kf25} en{\kf20} stock
+Dialogue: 0,0:02:35.29,0:02:37.67,DEFAULT,,0,0,0,,{\r}{\kf10}Et{\kf11} si{\kf16} plus{\kf22} per{\kf22}sonne{\kf22} com{\kf16}prend,{\kf11} je{\kf16} m'e{\kf16}xile{\kf11} à{\kf16} Pé{\kf16}ta{\kf16}ou{\kf17}chnok
+Dialogue: 0,0:02:37.83,0:02:40.29,DEFAULT,,0,0,0,,{\r}{\kf11}A{\kf17}lors{\kf17} laisse-{\kf23}moi{\kf17} tri{\kf11}per,{\kf17} laisse{\kf40} rir{\kf23}oum'd{\kf17} tanv{\kf11}a{\kf17} erid'l{\kf25} iom
+Dialogue: 0,0:02:40.46,0:02:42.62,DEFAULT,,0,0,0,,{\r}{\kf17}J'suis{\kf11} pas{\kf17} cet{\kf17} es{\kf17}clave{\kf11} qu'at{\kf17}tends{\kf17} l'week-{\kf23}end{\kf17} pour{\kf23} s'en{\kf30}fuir
+Dialogue: 0,0:02:42.88,0:02:45.67,DEFAULT,,0,0,0,,{\r}{\kf14}Stu{\kf21}pe{\kf21}flip{\kf21} vite{\kf14} Stu{\kf21}pe{\kf21}flip{\kf28} vite{\kf14} Stu{\kf21}pé-{\kf21}stu{\kf21}pe{\kf21}flip{\kf20} vite
+Dialogue: 0,0:02:45.83,0:02:47.12,DEFAULT,,0,0,0,,{\r}{\kf13}Stu{\kf13}pe{\kf19}flip{\kf32} vite{\kf19} Stu{\kf13}pe{\kf20}flip
+Dialogue: 0,0:02:47.29,0:02:49.58,DEFAULT,,0,0,0,,{\r}{\kf13}Le{\kf13} truc{\kf13} est{\kf13} vi{\kf20}vant{\kf13} dans{\kf13} les{\kf20} têtes{\kf13} même{\kf13} s'il{\kf13} est{\kf13} cra{\kf13}mé{\kf13} dans{\kf13} les{\kf20} Fnac
+Dialogue: 0,0:02:49.75,0:02:52.12,DEFAULT,,0,0,0,,{\r}{\kf12}Tu{\kf12} l'as{\kf18} sé{\kf24}ques{\kf43}tré,{\kf18} bâil{\kf12}lon{\kf31}né,{\kf12} li{\kf12}go{\kf44}té
+Dialogue: 0,0:02:52.46,0:02:56.12,DEFAULT,,0,0,0,,{\r}{\kf15}Stu{\kf22}pe{\kf22}flip{\kf22} vite{\kf15} Stu{\kf15}pe{\kf22}flip{\kf30} vite{\kf15} Stu{\kf15}pe{\kf22}flip{\kf22} vite{\kf22} Stu{\kf15}pé-{\kf22}stu{\kf15}pe{\kf30}flip{\kf26} vite
+Dialogue: 0,0:02:56.29,0:02:56.71,DEFAULT,,0,0,0,,{\r}{\kf16}Stu{\kf10}pe{\kf16}flip
+Dialogue: 0,0:02:56.88,0:02:59.21,DEFAULT,,0,0,0,,{\r}{\kf13}Le{\kf13} truc{\kf13} est{\kf13} vi{\kf19}vant{\kf13} dans{\kf19} les{\kf19} têtes{\kf13} même{\kf13} s'il{\kf13} est{\kf19} cra{\kf13}mé{\kf13} dans{\kf13} les{\kf14} Fnac
+Dialogue: 0,0:02:59.38,0:03:01.67,DEFAULT,,0,0,0,,{\r}{\kf12}Tu{\kf12} l'as{\kf19} sé{\kf25}ques{\kf43}tré,{\kf12} bâil{\kf12}lon{\kf31}né,{\kf12} li{\kf12}go{\kf39}té
+Dialogue: 0,0:03:09.00,0:03:11.29,DEFAULT,,0,0,0,,{\r}{\kf12}Tu{\kf12} l'as{\kf19} sé{\kf25}ques{\kf43}tré,{\kf12} bâil{\kf12}lon{\kf31}né,{\kf12} li{\kf12}go{\kf39}té
+Dialogue: 0,0:03:18.58,0:03:20.79,DEFAULT,,0,0,0,,{\r}{\kf13}Tu{\kf13} l'as{\kf19} sé{\kf25}ques{\kf44}tré,{\kf13} bâil{\kf13}lon{\kf32}né,{\kf13} li{\kf13}go{\kf23}té
+Dialogue: 0,0:03:20.96,0:03:22.00,DEFAULT,,0,0,0,,{\r}{\kf12}Bâil{\kf12}lon{\kf31}né,{\kf12} li{\kf12}go{\kf25}té
+Dialogue: 0,0:03:22.17,0:03:23.21,DEFAULT,,0,0,0,,{\r}{\kf12}Bâil{\kf12}lon{\kf31}né,{\kf12} li{\kf12}go{\kf25}té
+Dialogue: 0,0:03:23.38,0:03:24.42,DEFAULT,,0,0,0,,{\r}{\kf12}Bâil{\kf12}lon{\kf31}né,{\kf12} li{\kf12}go{\kf25}té
+Dialogue: 0,0:03:24.58,0:03:25.71,DEFAULT,,0,0,0,,{\r}{\kf12}Bâil{\kf12}lon{\kf29}né,{\kf12} li{\kf12}go{\kf35}té

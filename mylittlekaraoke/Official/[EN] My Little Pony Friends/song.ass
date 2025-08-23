@@ -1,51 +1,58 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: My Little Pony Friends
+Artist: Equestria Girls
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:27.72,0:00:28.89,DEFAULT,,0,0,0,,{\kf18}For{\kf18} eve{\kf18}ry{\kf44} day
-Dialogue: 0,0:00:29.54,0:00:31.09,DEFAULT,,0,0,0,,{\kf18} I{\kf18} look{\kf13} a{\kf48}round{\kf39} me
-Dialogue: 0,0:00:31.44,0:00:34.33,DEFAULT,,0,0,0,,{\kf18}For{\kf13} eve{\kf18}ry{\kf35} time{\kf22} I{\kf18} se{\kf13}-e{\kf22} you{\kf65} near
-Dialogue: 0,0:00:35.07,0:00:36.36,DEFAULT,,0,0,0,,{\kf18}I{\kf18} thank{\kf9} the{\kf61} stars
-Dialogue: 0,0:00:36.88,0:00:38.44,DEFAULT,,0,0,0,,{\kf18} Whose{\kf18} light{\kf18} sur{\kf44}rounds{\kf39} me
-Dialogue: 0,0:00:38.78,0:00:41.89,DEFAULT,,0,0,0,,{\kf13}I{\kf18} thank{\kf13} the{\kf35} earth{\kf22} that{\kf35} keeps{\kf31} you{\kf61} here
-Dialogue: 0,0:00:42.72,0:00:46.91,DEFAULT,,0,0,0,,{\kf39}'Cause{\kf74} I{\kf65} will{\kf31} on{\kf26}ly{\kf48} fol{\kf52}low
-Dialogue: 0,0:00:47.30,0:00:49.41,DEFAULT,,0,0,0,,{\kf31}My{\kf39} tru{\kf26}-e{\kf74} heart
-Dialogue: 0,0:00:50.06,0:00:54.17,DEFAULT,,0,0,0,,{\kf44}And{\kf83} I{\kf65} can{\kf31} see{\kf26} it{\kf39} clear{\kf48} now
-Dialogue: 0,0:00:54.60,0:00:56.67,DEFAULT,,0,0,0,,{\kf35}Right{\kf31} from{\kf22} the{\kf13}-e{\kf65} start
-Dialogue: 0,0:00:56.93,0:01:01.47,DEFAULT,,0,0,0,,{\kf13}Yo{\kf18}-u{\kf18} we{\kf13}-re{\kf83} My{\kf22} Lit{\kf26}tle{\kf44} Po{\kf152}ny
-Dialogue: 0,0:01:01.82,0:01:05.23,DEFAULT,,0,0,0,,{\kf22}I{\kf18} used{\kf13} to{\kf39} won{\kf13}der{\kf22} what{\kf31} friend{\kf26}ship{\kf22} could{\kf39} be
-Dialogue: 0,0:01:05.40,0:01:08.60,DEFAULT,,0,0,0,,{\kf57}My{\kf22} Lit{\kf26}tle{\kf44} Po{\kf18}ny{\kf104}-y
-Dialogue: 0,0:01:08.77,0:01:11.80,DEFAULT,,0,0,0,,{\kf13}Un{\kf22}til{\kf18} you{\kf35} shared{\kf31} its{\kf35} ma{\kf26}gic{\kf26} with{\kf9} me
-Dialogue: 0,0:01:11.97,0:01:13.10,DEFAULT,,0,0,0,,{\kf13}You{\kf22} saw{\kf13} the{\kf44} change
-Dialogue: 0,0:01:13.83,0:01:15.43,DEFAULT,,0,0,0,,{\kf13}That{\kf26} we{\kf13} all{\kf44} nee{\kf44}ded
-Dialogue: 0,0:01:15.69,0:01:18.67,DEFAULT,,0,0,0,,{\kf13}You{\kf22} saw{\kf18} how{\kf31} good{\kf26} that{\kf35} we{\kf35} could{\kf48} be
-Dialogue: 0,0:01:19.45,0:01:22.73,DEFAULT,,0,0,0,,{\kf13}We'll{\kf18} ne{\kf13}ver{\kf26} let{\kf22} lit{\kf18}tle{\kf31} things{\kf22} come{\kf13} bet{\kf39}ween{\kf31} us
-Dialogue: 0,0:01:23.04,0:01:26.54,DEFAULT,,0,0,0,,{\kf22}Now{\kf13} that{\kf13} we{\kf44} found{\kf26} this{\kf31} des{\kf22}ti{\kf22}ny{\kf74}-y
-Dialogue: 0,0:01:26.97,0:01:31.25,DEFAULT,,0,0,0,,{\kf31}And{\kf83} we{\kf65} can{\kf39} stand{\kf18} up{\kf35} tall{\kf61} now
-Dialogue: 0,0:01:31.55,0:01:33.84,DEFAULT,,0,0,0,,{\kf44}To{\kf18} a{\kf52}ny{\kf96} hate
-Dialogue: 0,0:01:34.27,0:01:38.55,DEFAULT,,0,0,0,,{\kf35}'Cause{\kf78} best{\kf74} friends{\kf26} stick{\kf44} to{\kf39}get{\kf52}her
-Dialogue: 0,0:01:38.94,0:01:41.83,DEFAULT,,0,0,0,,{\kf31}We{\kf44} love{\kf22} and{\kf39} to{\kf35}le{\kf61}rate
-Dialogue: 0,0:01:42.09,0:01:45.25,DEFAULT,,0,0,0,,{\kf78}My{\kf26} Lit{\kf26}tle{\kf35} Po{\kf100}ny
-Dialogue: 0,0:01:46.11,0:01:49.48,DEFAULT,,0,0,0,,{\kf22}I{\kf18} used{\kf13} to{\kf31} won{\kf18}der{\kf26} what{\kf31} friend{\kf22}ship{\kf22} could{\kf39} be
-Dialogue: 0,0:01:49.66,0:01:52.85,DEFAULT,,0,0,0,,{\kf78}My{\kf22} Lit{\kf18}tle{\kf44} Po{\kf18}ny{\kf100}-y
-Dialogue: 0,0:01:53.03,0:01:56.40,DEFAULT,,0,0,0,,{\kf18}Un{\kf18}til{\kf31} you{\kf39} shared{\kf39} its{\kf26} ma{\kf26}gic{\kf26} with{\kf44} me
-Dialogue: 0,0:01:56.61,0:02:03.27,DEFAULT,,0,0,0,,{\kf22}If{\kf169} one{\kf173} falls{\kf173} do{\kf87}-own
-Dialogue: 0,0:02:03.87,0:02:10.14,DEFAULT,,0,0,0,,{\kf35}We{\kf160} all{\kf143} come{\kf22} a{\kf26}ro{\kf186}-und
-Dialogue: 0,0:02:11.22,0:02:17.75,DEFAULT,,0,0,0,,{\kf35}Yeah,{\kf134} you're{\kf39} so{\kf39}-o{\kf44}-o{\kf31}-o{\kf247} free
-Dialogue: 0,0:02:18.39,0:02:20.34,DEFAULT,,0,0,0,,{\kf22}To{\kf31} be{\kf22} a{\kf18}ny{\kf78}thing,
-Dialogue: 0,0:02:20.90,0:02:26.26,DEFAULT,,0,0,0,,{\kf13}A{\kf13}ny{\kf22}thing{\kf13} that{\kf18} you{\kf13} want{\kf13} to{\kf18} be{\kf156}-e,{\kf160} yeah
-Dialogue: 0,0:02:26.48,0:02:29.63,DEFAULT,,0,0,0,,{\kf74}My{\kf22} Lit{\kf26}tle{\kf35} Po{\kf113}ny
-Dialogue: 0,0:02:30.41,0:02:33.78,DEFAULT,,0,0,0,,{\kf22}I{\kf13} used{\kf22} to{\kf22} won{\kf22}der{\kf26} what{\kf26} friend{\kf31}ship{\kf22} could{\kf22} be{\kf13}-e
-Dialogue: 0,0:02:33.95,0:02:37.11,DEFAULT,,0,0,0,,{\kf74}My{\kf18} Lit{\kf22}tle{\kf31} Po{\kf18}ny{\kf96}-y
-Dialogue: 0,0:02:37.37,0:02:41.08,DEFAULT,,0,0,0,,{\kf13}Un{\kf22}til{\kf26} you{\kf48} shared{\kf22} its{\kf39} ma{\kf22}gic{\kf26} with{\kf22} me{\kf26}-e
-Dialogue: 0,0:02:41.26,0:02:44.63,DEFAULT,,0,0,0,,{\kf83}My{\kf26} Lit{\kf22}tle{\kf13} Po{\kf13}-o{\kf134}ny
-Dialogue: 0,0:02:45.10,0:02:48.56,DEFAULT,,0,0,0,,{\kf26}I{\kf22} used{\kf13} to{\kf35} won{\kf22}der{\kf35} what{\kf31} friend{\kf31}ship{\kf18} could{\kf18} be{\kf18}-e
-Dialogue: 0,0:02:48.73,0:02:51.76,DEFAULT,,0,0,0,,{\kf74}My{\kf26} lit{\kf26}tle{\kf39} po{\kf22}ny{\kf78}-y
-Dialogue: 0,0:02:52.10,0:02:57.63,DEFAULT,,0,0,0,,{\kf13}Un{\kf22}til{\kf26} you{\kf44} shared{\kf26} its{\kf35} ma{\kf22}gic{\kf44} wi{\kf22}-ith{\kf13} me{\kf182}-e
+Dialogue: 0,0:00:27.73,0:00:28.89,DEFAULT,,0,0,0,,{\r}{\kf21}For{\kf21} eve{\kf21}ry{\kf54} day
+Dialogue: 0,0:00:29.54,0:00:31.10,DEFAULT,,0,0,0,,{\r}{\kf20} I{\kf20} look{\kf15} a{\kf55}round{\kf46} me
+Dialogue: 0,0:00:31.44,0:00:34.34,DEFAULT,,0,0,0,,{\r}{\kf23}For{\kf17} eve{\kf23}ry{\kf45} time{\kf28} I{\kf23} se{\kf17}-e{\kf28} you{\kf86} near
+Dialogue: 0,0:00:35.07,0:00:36.37,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} thank{\kf11} the{\kf75} stars
+Dialogue: 0,0:00:36.89,0:00:38.44,DEFAULT,,0,0,0,,{\r}{\kf20} Whose{\kf20} light{\kf20} sur{\kf50}rounds{\kf46} me
+Dialogue: 0,0:00:38.79,0:00:41.90,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf24} thank{\kf18} the{\kf48} earth{\kf30} that{\kf48} keeps{\kf42} you{\kf83} here
+Dialogue: 0,0:00:42.72,0:00:46.91,DEFAULT,,0,0,0,,{\r}{\kf49}'Cause{\kf93} I{\kf82} will{\kf38} on{\kf33}ly{\kf60} fol{\kf64}low
+Dialogue: 0,0:00:47.30,0:00:49.42,DEFAULT,,0,0,0,,{\r}{\kf38}My{\kf49} tru{\kf33}-e{\kf92} heart
+Dialogue: 0,0:00:50.07,0:00:54.17,DEFAULT,,0,0,0,,{\r}{\kf53}And{\kf101} I{\kf80} can{\kf37} see{\kf32} it{\kf48} clear{\kf60} now
+Dialogue: 0,0:00:54.60,0:00:56.68,DEFAULT,,0,0,0,,{\r}{\kf44}Right{\kf38} from{\kf27} the{\kf16}-e{\kf82} start
+Dialogue: 0,0:00:56.94,0:01:01.48,DEFAULT,,0,0,0,,{\r}{\kf15}Yo{\kf20}-u{\kf20} we{\kf15}-re{\kf97} My{\kf26} Lit{\kf31}tle{\kf51} Po{\kf179}ny
+Dialogue: 0,0:01:01.82,0:01:05.24,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf24} used{\kf18} to{\kf55} won{\kf18}der{\kf30} what{\kf43} friend{\kf37}ship{\kf30} could{\kf56} be
+Dialogue: 0,0:01:05.41,0:01:08.61,DEFAULT,,0,0,0,,{\r}{\kf67}My{\kf26} Lit{\kf31}tle{\kf52} Po{\kf21}ny{\kf123}-y
+Dialogue: 0,0:01:08.78,0:01:11.80,DEFAULT,,0,0,0,,{\r}{\kf19}Un{\kf31}til{\kf25} you{\kf49} shared{\kf43} its{\kf49} ma{\kf37}gic{\kf37} with{\kf13} me
+Dialogue: 0,0:01:11.98,0:01:13.10,DEFAULT,,0,0,0,,{\r}{\kf16}You{\kf27} saw{\kf16} the{\kf53} change
+Dialogue: 0,0:01:13.84,0:01:15.43,DEFAULT,,0,0,0,,{\r}{\kf15}That{\kf30} we{\kf15} all{\kf50} nee{\kf50}ded
+Dialogue: 0,0:01:15.69,0:01:18.68,DEFAULT,,0,0,0,,{\r}{\kf17}You{\kf29} saw{\kf23} how{\kf40} good{\kf34} that{\kf46} we{\kf46} could{\kf63} be
+Dialogue: 0,0:01:19.45,0:01:22.74,DEFAULT,,0,0,0,,{\r}{\kf18}We'll{\kf23} ne{\kf18}ver{\kf35} let{\kf29} lit{\kf23}tle{\kf41} things{\kf29} come{\kf18} bet{\kf53}ween{\kf41} us
+Dialogue: 0,0:01:23.04,0:01:26.54,DEFAULT,,0,0,0,,{\r}{\kf29}Now{\kf17} that{\kf17} we{\kf57} found{\kf34} this{\kf40} des{\kf29}ti{\kf29}ny{\kf98}-y
+Dialogue: 0,0:01:26.97,0:01:31.25,DEFAULT,,0,0,0,,{\r}{\kf39}And{\kf107} we{\kf84} can{\kf51} stand{\kf23} up{\kf45} tall{\kf79} now
+Dialogue: 0,0:01:31.55,0:01:33.84,DEFAULT,,0,0,0,,{\r}{\kf48}To{\kf19} a{\kf57}ny{\kf105} hate
+Dialogue: 0,0:01:34.28,0:01:38.55,DEFAULT,,0,0,0,,{\r}{\kf43}'Cause{\kf96} best{\kf91} friends{\kf32} stick{\kf54} to{\kf48}get{\kf64}her
+Dialogue: 0,0:01:38.94,0:01:41.84,DEFAULT,,0,0,0,,{\r}{\kf38}We{\kf55} love{\kf27} and{\kf49} to{\kf44}le{\kf77}rate
+Dialogue: 0,0:01:42.10,0:01:45.25,DEFAULT,,0,0,0,,{\r}{\kf93}My{\kf31} Lit{\kf31}tle{\kf41} Po{\kf119}ny
+Dialogue: 0,0:01:46.12,0:01:49.49,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf25} used{\kf18} to{\kf43} won{\kf25}der{\kf37} what{\kf43} friend{\kf31}ship{\kf31} could{\kf53} be
+Dialogue: 0,0:01:49.66,0:01:52.86,DEFAULT,,0,0,0,,{\r}{\kf90}My{\kf25} Lit{\kf20}tle{\kf50} Po{\kf20}ny{\kf115}-y
+Dialogue: 0,0:01:53.03,0:01:56.40,DEFAULT,,0,0,0,,{\r}{\kf22}Un{\kf22}til{\kf39} you{\kf50} shared{\kf50} its{\kf33} ma{\kf33}gic{\kf33} with{\kf55} me
+Dialogue: 0,0:01:56.62,0:02:03.27,DEFAULT,,0,0,0,,{\r}{\kf23}If{\kf180} one{\kf185} falls{\kf185} do{\kf93}-own
+Dialogue: 0,0:02:03.88,0:02:10.15,DEFAULT,,0,0,0,,{\r}{\kf38}We{\kf176} all{\kf157} come{\kf24} a{\kf28}ro{\kf204}-und
+Dialogue: 0,0:02:11.23,0:02:17.75,DEFAULT,,0,0,0,,{\r}{\kf40}Yeah,{\kf155} you're{\kf45} so{\kf45}-o{\kf50}-o{\kf35}-o{\kf283} free
+Dialogue: 0,0:02:18.40,0:02:20.34,DEFAULT,,0,0,0,,{\r}{\kf25}To{\kf35} be{\kf25} a{\kf20}ny{\kf89}thing,
+Dialogue: 0,0:02:20.91,0:02:26.26,DEFAULT,,0,0,0,,{\r}{\kf16}A{\kf16}ny{\kf27}thing{\kf16} that{\kf21} you{\kf16} want{\kf16} to{\kf21} be{\kf191}-e,{\kf196} yeah
+Dialogue: 0,0:02:26.48,0:02:29.64,DEFAULT,,0,0,0,,{\r}{\kf86}My{\kf25} Lit{\kf30}tle{\kf41} Po{\kf133}ny
+Dialogue: 0,0:02:30.41,0:02:33.78,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf18} used{\kf31} to{\kf31} won{\kf31}der{\kf37} what{\kf37} friend{\kf43}ship{\kf31} could{\kf31} be{\kf16}-e
+Dialogue: 0,0:02:33.96,0:02:37.11,DEFAULT,,0,0,0,,{\r}{\kf91}My{\kf21} Lit{\kf27}tle{\kf37} Po{\kf21}ny{\kf118}-y
+Dialogue: 0,0:02:37.37,0:02:41.09,DEFAULT,,0,0,0,,{\r}{\kf18}Un{\kf30}til{\kf37} you{\kf67} shared{\kf30} its{\kf55} ma{\kf30}gic{\kf37} with{\kf30} me{\kf38}-e
+Dialogue: 0,0:02:41.26,0:02:44.63,DEFAULT,,0,0,0,,{\r}{\kf96}My{\kf30} Lit{\kf25}tle{\kf15} Po{\kf15}-o{\kf156}ny
+Dialogue: 0,0:02:45.11,0:02:48.56,DEFAULT,,0,0,0,,{\r}{\kf34}I{\kf28} used{\kf17} to{\kf45} won{\kf28}der{\kf45} what{\kf40} friend{\kf40}ship{\kf23} could{\kf23} be{\kf23}-e
+Dialogue: 0,0:02:48.74,0:02:51.76,DEFAULT,,0,0,0,,{\r}{\kf84}My{\kf30} lit{\kf30}tle{\kf45} po{\kf25}ny{\kf89}-y
+Dialogue: 0,0:02:52.11,0:02:57.64,DEFAULT,,0,0,0,,{\r}{\kf16}Un{\kf27}til{\kf32} you{\kf54} shared{\kf32} its{\kf43} ma{\kf27}gic{\kf54} wi{\kf27}-ith{\kf16} me{\kf225}-e

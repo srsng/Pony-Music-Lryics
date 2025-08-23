@@ -1,51 +1,58 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: The Rock
+Artist: Luna Ticks
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.18,0:00:05.09,DEFAULT,,0,0,0,,{\kf21}She's{\kf21} been{\kf21} shrink{\kf17}~{\kf73}ing
-Dialogue: 0,0:00:05.45,0:00:07.72,DEFAULT,,0,0,0,,{\kf21}And{\kf21} no{\kf25} one{\kf17} knows{\kf21}~{\kf78} why
-Dialogue: 0,0:00:08.29,0:00:10.24,DEFAULT,,0,0,0,,{\kf25}We've{\kf25} been{\kf13} think{\kf21}~{\kf73}ing
-Dialogue: 0,0:00:10.97,0:00:12.99,DEFAULT,,0,0,0,,{\kf21}Is{\kf21} she{\kf25} gon{\kf13}na{\kf82} die?
-Dialogue: 0,0:00:13.24,0:00:15.39,DEFAULT,,0,0,0,,{\kf21}I{\kf21} have{\kf21} an{\kf17} ink{\kf21}~{\kf69}ling
-Dialogue: 0,0:00:15.83,0:00:18.83,DEFAULT,,0,0,0,,{\kf21}Of{\kf21} when{\kf21} she's{\kf17} gon{\kf21}na{\kf146} stop
-Dialogue: 0,0:00:21.63,0:00:24.22,DEFAULT,,0,0,0,,{\kf25}When{\kf25} she{\kf21} be{\kf29}comes{\kf17} the{\kf29} rock{\kf57}~
-Dialogue: 0,0:00:29.05,0:00:31.08,DEFAULT,,0,0,0,,{\kf33}She's{\kf21} been{\kf21} turn{\kf17}ing{\kf82} grey
-Dialogue: 0,0:00:31.40,0:00:33.71,DEFAULT,,0,0,0,,{\kf21}Or{\kf21} is{\kf21} it{\kf21} just{\kf17} our{\kf78} eyes
-Dialogue: 0,0:00:33.99,0:00:36.35,DEFAULT,,0,0,0,,{\kf25}If{\kf21} she{\kf21} gets{\kf21} stuck{\kf25} this{\kf69} way
-Dialogue: 0,0:00:36.59,0:00:38.86,DEFAULT,,0,0,0,,{\kf25}Can{\kf17} we{\kf21} ad{\kf21}just{\kf17} our{\kf73} lives?
-Dialogue: 0,0:00:39.47,0:00:41.49,DEFAULT,,0,0,0,,{\kf25}Will{\kf21} she{\kf17} be{\kf21} o{\kf78}kay
-Dialogue: 0,0:00:41.78,0:00:46.60,DEFAULT,,0,0,0,,{\kf25}Will{\kf17} we{\kf21} still{\kf21} hear{\kf41} her{\kf288} talk?
-Dialogue: 0,0:00:47.66,0:00:51.79,DEFAULT,,0,0,0,,{\kf21}When{\kf21} she{\kf25} be{\kf29}comes{\kf13} the{\kf252} rock
-Dialogue: 0,0:01:05.41,0:01:08.98,DEFAULT,,0,0,0,,{\kf21}E{\kf21}very{\kf25}thing{\kf21} a{\kf21}bout{\kf21} her{\kf17} is{\kf21}~{\kf110} big
-Dialogue: 0,0:01:10.93,0:01:15.10,DEFAULT,,0,0,0,,{\kf25}Ex{\kf25}cept{\kf21} for{\kf21} her{\kf264} size
-Dialogue: 0,0:01:15.87,0:01:18.71,DEFAULT,,0,0,0,,{\kf37}Don't{\kf25} waste{\kf21} your{\kf21} time{\kf17} feel{\kf17}ing{\kf25} sad{\kf17} for{\kf41} her
-Dialogue: 0,0:01:18.99,0:01:20.58,DEFAULT,,0,0,0,,{\kf25}You'll{\kf21} be{\kf21} sor{\kf17}ry{\kf37} kid
-Dialogue: 0,0:01:20.78,0:01:23.98,DEFAULT,,0,0,0,,{\kf17}The{\kf21} time{\kf21} of{\kf21} Maud{\kf21} is{\kf21} on{\kf17} the{\kf110} rise
-Dialogue: 0,0:01:24.14,0:01:26.54,DEFAULT,,0,0,0,,{\kf25}Right{\kf21} be{\kf21}fore{\kf21} your{\kf106} eyes
-Dialogue: 0,0:01:31.40,0:01:33.47,DEFAULT,,0,0,0,,{\kf21}She's{\kf21} been{\kf17} get{\kf17}ting{\kf90} hard
-Dialogue: 0,0:01:33.71,0:01:36.06,DEFAULT,,0,0,0,,{\kf21}Es{\kf25}pe{\kf21}cially{\kf13} in{\kf17} her{\kf94} stare
-Dialogue: 0,0:01:36.55,0:01:38.45,DEFAULT,,0,0,0,,{\kf21}It's{\kf21} no{\kf17} lie{\kf17} this{\kf13} part{\kf53}~
-Dialogue: 0,0:01:38.86,0:01:41.17,DEFAULT,,0,0,0,,{\kf21}We're{\kf25} get{\kf17}ting{\kf21} kin{\kf17}da{\kf82} scared
-Dialogue: 0,0:01:41.49,0:01:43.68,DEFAULT,,0,0,0,,{\kf17}So{\kf21} lock{\kf21} your{\kf21} doors{\kf13} at{\kf73} night
-Dialogue: 0,0:01:44.09,0:01:47.21,DEFAULT,,0,0,0,,{\kf17}'Cause{\kf17} you{\kf37} might{\kf17} hear{\kf17} a{\kf45} knock{\kf21}~{\kf82}~
-Dialogue: 0,0:01:49.85,0:01:52.52,DEFAULT,,0,0,0,,{\kf21}When{\kf21} she{\kf21} be{\kf29}comes{\kf13} the{\kf98} rock
-Dialogue: 0,0:01:57.31,0:01:59.29,DEFAULT,,0,0,0,,{\kf21}She's{\kf21} been{\kf17} get{\kf17}ting{\kf78} smooth
-Dialogue: 0,0:01:59.62,0:02:01.52,DEFAULT,,0,0,0,,{\kf21}Does{\kf21} she{\kf21} still{\kf17} have{\kf13}~{\kf49} fur
-Dialogue: 0,0:02:02.25,0:02:04.48,DEFAULT,,0,0,0,,{\kf41}There{\kf25} are{\kf17} no{\kf17}~{\kf78} grooves
-Dialogue: 0,0:02:04.81,0:02:07.08,DEFAULT,,0,0,0,,{\kf21}A{\kf21}ny{\kf25}where{\kf21} on{\kf21}~{\kf73} her
-Dialogue: 0,0:02:07.40,0:02:09.55,DEFAULT,,0,0,0,,{\kf13}If{\kf13} you{\kf17} thought{\kf13} she{\kf13} was{\kf21} hard{\kf17} to{\kf61} move
-Dialogue: 0,0:02:09.95,0:02:12.87,DEFAULT,,0,0,0,,{\kf25}Well{\kf17} you're{\kf25} in{\kf17} for{\kf17} a{\kf45} shock{\kf21}~{\kf57}~
-Dialogue: 0,0:02:15.83,0:02:19.12,DEFAULT,,0,0,0,,{\kf21}When{\kf21} she{\kf25} be{\kf29}comes{\kf13} the{\kf110} rock{\kf45}~
-Dialogue: 0,0:02:28.48,0:02:32.21,DEFAULT,,0,0,0,,{\kf21}E{\kf21}very{\kf21}thing{\kf21} a{\kf17}bout{\kf21} her{\kf17} is{\kf21}~{\kf126} big
-Dialogue: 0,0:02:33.99,0:02:38.09,DEFAULT,,0,0,0,,{\kf21}Ex{\kf25}cept{\kf21} for{\kf21} her{\kf264} size
-Dialogue: 0,0:02:38.49,0:02:41.58,DEFAULT,,0,0,0,,{\kf25}Don't{\kf21} waste{\kf13} your{\kf53} time{\kf17} feel{\kf29}ing{\kf21} sad{\kf13} for{\kf29} her
-Dialogue: 0,0:02:41.74,0:02:43.52,DEFAULT,,0,0,0,,{\kf13}You'll{\kf13} be{\kf21} sor{\kf21}ry{\kf25} that{\kf13} you{\kf29} did
-Dialogue: 0,0:02:43.81,0:02:47.01,DEFAULT,,0,0,0,,{\kf17}The{\kf21} time{\kf21} of{\kf21} Maud{\kf21} is{\kf25} on{\kf17} the{\kf114} rise
-Dialogue: 0,0:02:47.25,0:02:50.01,DEFAULT,,0,0,0,,{\kf25}Right{\kf21} be{\kf21}fore{\kf21} your{\kf146} eyes
+Dialogue: 0,0:00:03.19,0:00:05.09,DEFAULT,,0,0,0,,{\r}{\kf26}She's{\kf26} been{\kf26} shrink{\kf21}~{\kf92}ing
+Dialogue: 0,0:00:05.46,0:00:07.73,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf26} no{\kf31} one{\kf21} knows{\kf26}~{\kf97} why
+Dialogue: 0,0:00:08.30,0:00:10.24,DEFAULT,,0,0,0,,{\r}{\kf31}We've{\kf31} been{\kf15} think{\kf26}~{\kf92}ing
+Dialogue: 0,0:00:10.97,0:00:13.00,DEFAULT,,0,0,0,,{\r}{\kf26}Is{\kf26} she{\kf31} gon{\kf16}na{\kf104} die?
+Dialogue: 0,0:00:13.24,0:00:15.39,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf26} have{\kf26} an{\kf21} ink{\kf26}~{\kf90}ling
+Dialogue: 0,0:00:15.84,0:00:18.84,DEFAULT,,0,0,0,,{\r}{\kf25}Of{\kf25} when{\kf25} she's{\kf20} gon{\kf25}na{\kf180} stop
+Dialogue: 0,0:00:21.63,0:00:24.23,DEFAULT,,0,0,0,,{\r}{\kf32}When{\kf32} she{\kf26} be{\kf37}comes{\kf21} the{\kf37} rock{\kf74}~
+Dialogue: 0,0:00:29.05,0:00:31.08,DEFAULT,,0,0,0,,{\r}{\kf39}She's{\kf24} been{\kf24} turn{\kf19}ing{\kf97} grey
+Dialogue: 0,0:00:31.41,0:00:33.72,DEFAULT,,0,0,0,,{\r}{\kf27}Or{\kf27} is{\kf27} it{\kf27} just{\kf21} our{\kf102} eyes
+Dialogue: 0,0:00:34.00,0:00:36.35,DEFAULT,,0,0,0,,{\r}{\kf32}If{\kf27} she{\kf27} gets{\kf27} stuck{\kf32} this{\kf90} way
+Dialogue: 0,0:00:36.59,0:00:38.86,DEFAULT,,0,0,0,,{\r}{\kf32}Can{\kf22} we{\kf27} ad{\kf27}just{\kf22} our{\kf97} lives?
+Dialogue: 0,0:00:39.47,0:00:41.50,DEFAULT,,0,0,0,,{\r}{\kf31}Will{\kf26} she{\kf21} be{\kf26} o{\kf99}kay
+Dialogue: 0,0:00:41.78,0:00:46.61,DEFAULT,,0,0,0,,{\r}{\kf29}Will{\kf19} we{\kf24} still{\kf24} hear{\kf48} her{\kf338} talk?
+Dialogue: 0,0:00:47.66,0:00:51.80,DEFAULT,,0,0,0,,{\r}{\kf24}When{\kf24} she{\kf28} be{\kf33}comes{\kf14} the{\kf291} rock
+Dialogue: 0,0:01:05.42,0:01:08.99,DEFAULT,,0,0,0,,{\r}{\kf27}E{\kf27}very{\kf32}thing{\kf27} a{\kf27}bout{\kf27} her{\kf21} is{\kf27}~{\kf142} big
+Dialogue: 0,0:01:10.93,0:01:15.11,DEFAULT,,0,0,0,,{\r}{\kf29}Ex{\kf29}cept{\kf24} for{\kf24} her{\kf312} size
+Dialogue: 0,0:01:15.88,0:01:18.72,DEFAULT,,0,0,0,,{\r}{\kf48}Don't{\kf32} waste{\kf27} your{\kf27} time{\kf21} feel{\kf21}ing{\kf32} sad{\kf21} for{\kf55} her
+Dialogue: 0,0:01:19.00,0:01:20.58,DEFAULT,,0,0,0,,{\r}{\kf33}You'll{\kf27} be{\kf27} sor{\kf22}ry{\kf49} kid
+Dialogue: 0,0:01:20.78,0:01:23.99,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf27} time{\kf27} of{\kf27} Maud{\kf27} is{\kf27} on{\kf21} the{\kf143} rise
+Dialogue: 0,0:01:24.15,0:01:26.54,DEFAULT,,0,0,0,,{\r}{\kf31}Right{\kf25} be{\kf25}fore{\kf25} your{\kf133} eyes
+Dialogue: 0,0:01:31.41,0:01:33.47,DEFAULT,,0,0,0,,{\r}{\kf26}She's{\kf26} been{\kf21} get{\kf21}ting{\kf113} hard
+Dialogue: 0,0:01:33.72,0:01:36.07,DEFAULT,,0,0,0,,{\r}{\kf26}Es{\kf31}pe{\kf26}cially{\kf15} in{\kf20} her{\kf117} stare
+Dialogue: 0,0:01:36.55,0:01:38.46,DEFAULT,,0,0,0,,{\r}{\kf28}It's{\kf28} no{\kf22} lie{\kf22} this{\kf17} part{\kf74}~
+Dialogue: 0,0:01:38.86,0:01:41.18,DEFAULT,,0,0,0,,{\r}{\kf26}We're{\kf32} get{\kf21}ting{\kf26} kin{\kf21}da{\kf105} scared
+Dialogue: 0,0:01:41.50,0:01:43.69,DEFAULT,,0,0,0,,{\r}{\kf22}So{\kf27} lock{\kf27} your{\kf27} doors{\kf16} at{\kf100} night
+Dialogue: 0,0:01:44.09,0:01:47.22,DEFAULT,,0,0,0,,{\r}{\kf20}'Cause{\kf20} you{\kf46} might{\kf20} hear{\kf20} a{\kf56} knock{\kf26}~{\kf104}~
+Dialogue: 0,0:01:49.85,0:01:52.53,DEFAULT,,0,0,0,,{\r}{\kf27}When{\kf27} she{\kf27} be{\kf38}comes{\kf16} the{\kf133} rock
+Dialogue: 0,0:01:57.31,0:01:59.30,DEFAULT,,0,0,0,,{\r}{\kf27}She's{\kf27} been{\kf22} get{\kf22}ting{\kf101} smooth
+Dialogue: 0,0:01:59.62,0:02:01.53,DEFAULT,,0,0,0,,{\r}{\kf28}Does{\kf28} she{\kf28} still{\kf22} have{\kf17}~{\kf68} fur
+Dialogue: 0,0:02:02.26,0:02:04.49,DEFAULT,,0,0,0,,{\r}{\kf52}There{\kf31} are{\kf21} no{\kf21}~{\kf98} grooves
+Dialogue: 0,0:02:04.81,0:02:07.08,DEFAULT,,0,0,0,,{\r}{\kf26}A{\kf26}ny{\kf31}where{\kf26} on{\kf26}~{\kf92} her
+Dialogue: 0,0:02:07.41,0:02:09.55,DEFAULT,,0,0,0,,{\r}{\kf16}If{\kf16} you{\kf22} thought{\kf16} she{\kf16} was{\kf27} hard{\kf22} to{\kf80} move
+Dialogue: 0,0:02:09.96,0:02:12.88,DEFAULT,,0,0,0,,{\r}{\kf32}Well{\kf22} you're{\kf32} in{\kf22} for{\kf22} a{\kf59} shock{\kf27}~{\kf76}~
+Dialogue: 0,0:02:15.84,0:02:19.12,DEFAULT,,0,0,0,,{\r}{\kf26}When{\kf26} she{\kf31} be{\kf36}comes{\kf15} the{\kf138} rock{\kf56}~
+Dialogue: 0,0:02:28.49,0:02:32.22,DEFAULT,,0,0,0,,{\r}{\kf27}E{\kf27}very{\kf27}thing{\kf27} a{\kf22}bout{\kf27} her{\kf22} is{\kf27}~{\kf167} big
+Dialogue: 0,0:02:34.00,0:02:38.09,DEFAULT,,0,0,0,,{\r}{\kf24}Ex{\kf29}cept{\kf24} for{\kf24} her{\kf308} size
+Dialogue: 0,0:02:38.50,0:02:41.58,DEFAULT,,0,0,0,,{\r}{\kf35}Don't{\kf29} waste{\kf17} your{\kf76} time{\kf23} feel{\kf41}ing{\kf29} sad{\kf17} for{\kf41} her
+Dialogue: 0,0:02:41.74,0:02:43.53,DEFAULT,,0,0,0,,{\r}{\kf17}You'll{\kf17} be{\kf28} sor{\kf28}ry{\kf33} that{\kf17} you{\kf38} did
+Dialogue: 0,0:02:43.81,0:02:47.01,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf26} time{\kf26} of{\kf26} Maud{\kf26} is{\kf31} on{\kf21} the{\kf143} rise
+Dialogue: 0,0:02:47.26,0:02:50.01,DEFAULT,,0,0,0,,{\r}{\kf29}Right{\kf24} be{\kf24}fore{\kf24} your{\kf175} eyes

@@ -1,33 +1,40 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Winter
+Artist: Griffin Village
+Original Timing: mylittlekaraoke.com by RD1042
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:11.91,0:00:17.98,DEFAULT,,0,0,0,,{\kf30}I{\kf30} once{\kf40} saw{\kf20} you{\kf40} run{\kf25}ning{\kf35} from{\kf25} them{\kf40} wha{\kf30}-at{\kf45} did{\kf20} they{\kf45} do{\kf20} to{\kf55} you
-Dialogue: 0,0:00:18.28,0:00:24.25,DEFAULT,,0,0,0,,{\kf25}They{\kf30} turned{\kf50} you{\kf20} in{\kf40}to{\kf20} a{\kf70} fool,{\kf30} bu{\kf30}-ut{\kf35} you're{\kf30} no{\kf35}bo{\kf25}dy's{\kf55} fool
-Dialogue: 0,0:00:24.55,0:00:27.41,DEFAULT,,0,0,0,,{\kf20}They{\kf25} took{\kf45} some{\kf15}thing{\kf30} spe{\kf20}cial{\kf35} from{\kf15} you
-Dialogue: 0,0:00:27.61,0:00:30.52,DEFAULT,,0,0,0,,{\kf30}Some{\kf30}thing{\kf45} you{\kf20} would{\kf45} not{\kf20} re{\kf45}lease
-Dialogue: 0,0:00:30.82,0:00:33.68,DEFAULT,,0,0,0,,{\kf35}Shed{\kf30} your{\kf45} tears{\kf15} and{\kf30} let{\kf35} them{\kf55} freeze
-Dialogue: 0,0:00:33.88,0:00:36.89,DEFAULT,,0,0,0,,{\kf30}Shed{\kf35} your{\kf55} tears{\kf15} and{\kf25} let{\kf25} them{\kf60} freeze
-Dialogue: 0,0:00:37.14,0:00:43.07,DEFAULT,,0,0,0,,{\kf30}They{\kf35} don't{\kf40} know{\kf20} you{\kf35} like{\kf30} I{\kf25} know{\kf25} you{\kf25} all{\kf30} those{\kf55} po{\kf20}nies{\kf30} are{\kf20} the{\kf45} same
-Dialogue: 0,0:00:43.36,0:00:50.13,DEFAULT,,0,0,0,,{\kf25}I{\kf40} swear{\kf45} I{\kf20} won't{\kf35} go{\kf30} a{\kf70}way,{\kf25} I{\kf45} swear{\kf45} I{\kf25} won't{\kf35} go{\kf25} a{\kf114}way
-Dialogue: 0,0:01:44.16,0:01:46.33,DEFAULT,,0,0,0,,{\kf25}There{\kf10} is{\kf15} a{\kf35} girl{\kf15} that{\kf15} I{\kf75} know
-Dialogue: 0,0:01:47.27,0:01:51.22,DEFAULT,,0,0,0,,{\kf20}Fea{\kf20}thers{\kf20} as{\kf35} white{\kf15} as{\kf20} our{\kf30} win{\kf30}ter's{\kf35} blan{\kf15}ket{\kf15} of{\kf84} snow
-Dialogue: 0,0:01:51.47,0:01:52.75,DEFAULT,,0,0,0,,{\kf20}But{\kf20} I{\kf75} know
-Dialogue: 0,0:01:53.10,0:01:56.01,DEFAULT,,0,0,0,,{\kf15}But{\kf20} I{\kf70} kno{\kf70}-o{\kf94}-ow
-Dialogue: 0,0:01:56.55,0:02:02.13,DEFAULT,,0,0,0,,{\kf20}Her{\kf20} heart{\kf25} is{\kf35} long{\kf30}ing{\kf30} for{\kf35} some{\kf35}one{\kf30} to{\kf134} call{\kf15} her{\kf75} own
-Dialogue: 0,0:02:02.53,0:02:05.30,DEFAULT,,0,0,0,,{\kf15}But{\kf20} she's{\kf99} all{\kf30} a{\kf80}lone
-Dialogue: 0,0:02:05.89,0:02:09.34,DEFAULT,,0,0,0,,{\kf20}She's{\kf109} all{\kf25} a{\kf30}lo{\kf40}-o{\kf84}-one
-Dialogue: 0,0:02:34.24,0:02:40.11,DEFAULT,,0,0,0,,{\kf20}Now{\kf25} the{\kf50} snow{\kf20} is{\kf35} get{\kf25}ting{\kf35} hea{\kf30}vy{\kf35} won't{\kf25} you{\kf50} please{\kf25} come{\kf40} back{\kf20} with{\kf55} me
-Dialogue: 0,0:02:40.36,0:02:43.27,DEFAULT,,0,0,0,,{\kf30}Won't{\kf30} you{\kf45} please{\kf20} come{\kf35} back{\kf30} with{\kf55} me
-Dialogue: 0,0:02:43.47,0:02:46.38,DEFAULT,,0,0,0,,{\kf30}Won't{\kf30} you{\kf45} please{\kf20} come{\kf35} back{\kf30} with{\kf55} me
-Dialogue: 0,0:02:46.63,0:02:49.55,DEFAULT,,0,0,0,,{\kf30}Won't{\kf30} you{\kf45} please{\kf20} come{\kf35} back{\kf30} with{\kf55} me
-Dialogue: 0,0:02:49.79,0:02:52.71,DEFAULT,,0,0,0,,{\kf30}Won't{\kf30} you{\kf45} please{\kf20} come{\kf35} back{\kf30} with{\kf55} me
-Dialogue: 0,0:02:53.00,0:02:55.87,DEFAULT,,0,0,0,,{\kf30}Won't{\kf30} you{\kf40} please{\kf20} come{\kf35} back{\kf25} with{\kf65} me
-Dialogue: 0,0:02:56.16,0:03:00.11,DEFAULT,,0,0,0,,{\kf30}Won't{\kf30} you{\kf45} please{\kf25} come{\kf30} back{\kf30} with{\kf163} me
+Dialogue: 0,0:00:11.91,0:00:17.98,DEFAULT,,0,0,0,,{\r}{\kf36}I{\kf36} once{\kf49} saw{\kf24} you{\kf49} run{\kf30}ning{\kf42} from{\kf30} them{\kf49} wha{\kf36}-at{\kf55} did{\kf24} they{\kf55} do{\kf24} to{\kf68} you
+Dialogue: 0,0:00:18.28,0:00:24.26,DEFAULT,,0,0,0,,{\r}{\kf30}They{\kf36} turned{\kf60} you{\kf24} in{\kf48}to{\kf24} a{\kf85} fool,{\kf36} bu{\kf36}-ut{\kf42} you're{\kf36} no{\kf42}bo{\kf30}dy's{\kf69} fool
+Dialogue: 0,0:00:24.55,0:00:27.42,DEFAULT,,0,0,0,,{\r}{\kf28}They{\kf35} took{\kf63} some{\kf21}thing{\kf42} spe{\kf28}cial{\kf49} from{\kf20} you
+Dialogue: 0,0:00:27.61,0:00:30.53,DEFAULT,,0,0,0,,{\r}{\kf37}Some{\kf37}thing{\kf56} you{\kf25} would{\kf56} not{\kf25} re{\kf55}lease
+Dialogue: 0,0:00:30.82,0:00:33.69,DEFAULT,,0,0,0,,{\r}{\kf41}Shed{\kf35} your{\kf53} tears{\kf18} and{\kf35} let{\kf41} them{\kf63} freeze
+Dialogue: 0,0:00:33.89,0:00:36.90,DEFAULT,,0,0,0,,{\r}{\kf37}Shed{\kf43} your{\kf68} tears{\kf18} and{\kf31} let{\kf31} them{\kf73} freeze
+Dialogue: 0,0:00:37.15,0:00:43.07,DEFAULT,,0,0,0,,{\r}{\kf38}They{\kf45} don't{\kf51} know{\kf26} you{\kf45} like{\kf38} I{\kf32} know{\kf32} you{\kf32} all{\kf38} those{\kf70} po{\kf26}nies{\kf38} are{\kf26} the{\kf56} same
+Dialogue: 0,0:00:43.37,0:00:50.13,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf47} swear{\kf53} I{\kf23} won't{\kf41} go{\kf35} a{\kf82}way,{\kf29} I{\kf53} swear{\kf53} I{\kf29} won't{\kf41} go{\kf29} a{\kf133}way
+Dialogue: 0,0:01:44.16,0:01:46.34,DEFAULT,,0,0,0,,{\r}{\kf29}There{\kf11} is{\kf17} a{\kf40} girl{\kf17} that{\kf17} I{\kf86} know
+Dialogue: 0,0:01:47.27,0:01:51.23,DEFAULT,,0,0,0,,{\r}{\kf23}Fea{\kf23}thers{\kf23} as{\kf41} white{\kf17} as{\kf23} our{\kf35} win{\kf35}ter's{\kf41} blan{\kf17}ket{\kf17} of{\kf100} snow
+Dialogue: 0,0:01:51.47,0:01:52.76,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} I{\kf84} know
+Dialogue: 0,0:01:53.10,0:01:56.02,DEFAULT,,0,0,0,,{\r}{\kf16}But{\kf22} I{\kf75} kno{\kf75}-o{\kf103}-ow
+Dialogue: 0,0:01:56.56,0:02:02.14,DEFAULT,,0,0,0,,{\r}{\kf23}Her{\kf23} heart{\kf29} is{\kf40} long{\kf35}ing{\kf35} for{\kf40} some{\kf40}one{\kf35} to{\kf155} call{\kf17} her{\kf86} own
+Dialogue: 0,0:02:02.53,0:02:05.30,DEFAULT,,0,0,0,,{\r}{\kf17}But{\kf23} she's{\kf113} all{\kf34} a{\kf90}lone
+Dialogue: 0,0:02:05.89,0:02:09.35,DEFAULT,,0,0,0,,{\r}{\kf22}She's{\kf123} all{\kf28} a{\kf33}lo{\kf45}-o{\kf95}-one
+Dialogue: 0,0:02:34.24,0:02:40.12,DEFAULT,,0,0,0,,{\r}{\kf24}Now{\kf30} the{\kf60} snow{\kf24} is{\kf42} get{\kf30}ting{\kf42} hea{\kf36}vy{\kf42} won't{\kf30} you{\kf60} please{\kf30} come{\kf48} back{\kf24} with{\kf66} me
+Dialogue: 0,0:02:40.36,0:02:43.28,DEFAULT,,0,0,0,,{\r}{\kf36}Won't{\kf36} you{\kf53} please{\kf24} come{\kf42} back{\kf36} with{\kf64} me
+Dialogue: 0,0:02:43.48,0:02:46.39,DEFAULT,,0,0,0,,{\r}{\kf36}Won't{\kf36} you{\kf53} please{\kf24} come{\kf42} back{\kf36} with{\kf64} me
+Dialogue: 0,0:02:46.64,0:02:49.55,DEFAULT,,0,0,0,,{\r}{\kf36}Won't{\kf36} you{\kf53} please{\kf24} come{\kf42} back{\kf36} with{\kf64} me
+Dialogue: 0,0:02:49.80,0:02:52.71,DEFAULT,,0,0,0,,{\r}{\kf36}Won't{\kf36} you{\kf53} please{\kf24} come{\kf42} back{\kf36} with{\kf64} me
+Dialogue: 0,0:02:53.01,0:02:55.87,DEFAULT,,0,0,0,,{\r}{\kf35}Won't{\kf35} you{\kf47} please{\kf23} come{\kf41} back{\kf29} with{\kf76} me
+Dialogue: 0,0:02:56.17,0:03:00.12,DEFAULT,,0,0,0,,{\r}{\kf33}Won't{\kf33} you{\kf50} please{\kf28} come{\kf33} back{\kf33} with{\kf185} me

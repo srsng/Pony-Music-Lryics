@@ -1,31 +1,38 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: From Now Until Forever
+Artist: Filly Funtasia
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.99,0:00:13.02,DEFAULT,,0,0,0,,{\kf15}From{\kf18} no{\kf37}-ow{\kf15} un{\kf43}til{\kf26} for{\kf32}e{\kf40}ver,{\kf20} a{\kf20}-a{\kf120}way
-Dialogue: 0,0:00:13.73,0:00:14.95,DEFAULT,,0,0,0,,{\kf29}Ay,{\kf35} ay,{\kf35} ay
-Dialogue: 0,0:00:15.06,0:00:16.00,DEFAULT,,0,0,0,,{\kf20}Me{\kf18} and{\kf46} you
-Dialogue: 0,0:00:16.85,0:00:17.78,DEFAULT,,0,0,0,,{\kf23}You{\kf15} and{\kf43} me
-Dialogue: 0,0:00:19.32,0:00:22.24,DEFAULT,,0,0,0,,{\kf15}No{\kf23}thing's{\kf15} e{\kf12}ver{\kf23} gon{\kf12}na{\kf20} get{\kf26} in{\kf29}-bet{\kf35}ween
-Dialogue: 0,0:00:22.32,0:00:23.18,DEFAULT,,0,0,0,,{\kf15}What{\kf15} we{\kf40} got
-Dialogue: 0,0:00:24.11,0:00:25.11,DEFAULT,,0,0,0,,{\kf18}What{\kf20} we{\kf52} have
-Dialogue: 0,0:00:26.41,0:00:28.60,DEFAULT,,0,0,0,,{\kf12}We{\kf18} know{\kf18} that{\kf32} it's{\kf32} built{\kf15} to{\kf32} last
-Dialogue: 0,0:00:28.71,0:00:29.48,DEFAULT,,0,0,0,,{\kf26}Oh{\kf37} yeah
-Dialogue: 0,0:00:29.56,0:00:31.58,DEFAULT,,0,0,0,,{\kf20}So{\kf20} get{\kf15} the{\kf35} mu{\kf32}sic{\kf20} go{\kf18}in'
-Dialogue: 0,0:00:31.66,0:00:33.48,DEFAULT,,0,0,0,,{\kf15}'Cause{\kf15} to{\kf32}day{\kf35} we're{\kf20} kno{\kf26}win'
-Dialogue: 0,0:00:33.68,0:00:36.77,DEFAULT,,0,0,0,,{\kf29}From{\kf37} now{\kf40} on{\kf40} right{\kf35} here,{\kf37} right{\kf40} now
-Dialogue: 0,0:00:37.11,0:00:38.81,DEFAULT,,0,0,0,,{\kf18}There{\kf15} is{\kf40} no{\kf32} more{\kf18} wai{\kf18}tin'
-Dialogue: 0,0:00:38.90,0:00:40.71,DEFAULT,,0,0,0,,{\kf23}We'll{\kf12} be{\kf40} ce{\kf40}le{\kf23}bra{\kf18}tin'
-Dialogue: 0,0:00:40.80,0:00:41.82,DEFAULT,,0,0,0,,{\kf15}Here{\kf18} we{\kf66} go
-Dialogue: 0,0:00:42.76,0:00:44.06,DEFAULT,,0,0,0,,{\kf26}Oh,{\kf26} oh,{\kf43} oh
-Dialogue: 0,0:00:44.35,0:00:47.27,DEFAULT,,0,0,0,,{\kf18}From{\kf20} no{\kf37}-ow{\kf18} un{\kf49}til{\kf23} for{\kf32}e{\kf43}ver
-Dialogue: 0,0:00:48.21,0:00:51.36,DEFAULT,,0,0,0,,{\kf20}We'll{\kf37} be{\kf20} to{\kf35}get{\kf32}her,{\kf32} I{\kf37} can't{\kf43} wait
-Dialogue: 0,0:00:51.58,0:00:56.38,DEFAULT,,0,0,0,,{\kf20}From{\kf20} no{\kf40}-ow{\kf20} un{\kf52}til{\kf26} for{\kf29}e{\kf43}ver{\kf29} and{\kf18} a{\kf20}-a{\kf91}way
-Dialogue: 0,0:00:57.32,0:00:58.56,DEFAULT,,0,0,0,,{\kf26}Eh,{\kf29} eh,{\kf40} eh
+Dialogue: 0,0:00:08.00,0:00:13.02,DEFAULT,,0,0,0,,{\r}{\kf19}From{\kf22} no{\kf49}-ow{\kf19} un{\kf56}til{\kf34} for{\kf41}e{\kf52}ver,{\kf26} a{\kf26}-a{\kf158}way
+Dialogue: 0,0:00:13.73,0:00:14.95,DEFAULT,,0,0,0,,{\r}{\kf36}Ay,{\kf43} ay,{\kf43} ay
+Dialogue: 0,0:00:15.06,0:00:16.00,DEFAULT,,0,0,0,,{\r}{\kf23}Me{\kf19} and{\kf52} you
+Dialogue: 0,0:00:16.85,0:00:17.79,DEFAULT,,0,0,0,,{\r}{\kf27}You{\kf17} and{\kf50} me
+Dialogue: 0,0:00:19.32,0:00:22.24,DEFAULT,,0,0,0,,{\r}{\kf20}No{\kf32}thing's{\kf20} e{\kf16}ver{\kf32} gon{\kf16}na{\kf28} get{\kf37} in{\kf41}-bet{\kf50}ween
+Dialogue: 0,0:00:22.33,0:00:23.18,DEFAULT,,0,0,0,,{\r}{\kf18}What{\kf18} we{\kf49} got
+Dialogue: 0,0:00:24.12,0:00:25.11,DEFAULT,,0,0,0,,{\r}{\kf19}What{\kf22} we{\kf58} have
+Dialogue: 0,0:00:26.42,0:00:28.60,DEFAULT,,0,0,0,,{\r}{\kf16}We{\kf24} know{\kf24} that{\kf45} it's{\kf45} built{\kf20} to{\kf45} last
+Dialogue: 0,0:00:28.71,0:00:29.48,DEFAULT,,0,0,0,,{\r}{\kf32}Oh{\kf45} yeah
+Dialogue: 0,0:00:29.57,0:00:31.58,DEFAULT,,0,0,0,,{\r}{\kf26}So{\kf26} get{\kf18} the{\kf44} mu{\kf40}sic{\kf26} go{\kf21}in'
+Dialogue: 0,0:00:31.67,0:00:33.48,DEFAULT,,0,0,0,,{\r}{\kf19}'Cause{\kf19} to{\kf41}day{\kf45} we're{\kf26} kno{\kf32}win'
+Dialogue: 0,0:00:33.68,0:00:36.77,DEFAULT,,0,0,0,,{\r}{\kf34}From{\kf45} now{\kf48} on{\kf48} right{\kf41} here,{\kf45} right{\kf48} now
+Dialogue: 0,0:00:37.11,0:00:38.82,DEFAULT,,0,0,0,,{\r}{\kf21}There{\kf18} is{\kf50} no{\kf39} more{\kf21} wai{\kf21}tin'
+Dialogue: 0,0:00:38.90,0:00:40.72,DEFAULT,,0,0,0,,{\r}{\kf27}We'll{\kf13} be{\kf47} ce{\kf47}le{\kf27}bra{\kf21}tin'
+Dialogue: 0,0:00:40.80,0:00:41.83,DEFAULT,,0,0,0,,{\r}{\kf15}Here{\kf18} we{\kf69} go
+Dialogue: 0,0:00:42.76,0:00:44.07,DEFAULT,,0,0,0,,{\r}{\kf36}Oh,{\kf36} oh,{\kf59} oh
+Dialogue: 0,0:00:44.35,0:00:47.27,DEFAULT,,0,0,0,,{\r}{\kf21}From{\kf25} no{\kf46}-ow{\kf21} un{\kf60}til{\kf28} for{\kf39}e{\kf52}ver
+Dialogue: 0,0:00:48.21,0:00:51.36,DEFAULT,,0,0,0,,{\r}{\kf25}We'll{\kf46} be{\kf25} to{\kf42}get{\kf39}her,{\kf39} I{\kf46} can't{\kf53} wait
+Dialogue: 0,0:00:51.59,0:00:56.38,DEFAULT,,0,0,0,,{\r}{\kf24}From{\kf24} no{\kf47}-ow{\kf24} un{\kf61}til{\kf30} for{\kf34}e{\kf51}ver{\kf34} and{\kf20} a{\kf24}-a{\kf107}way
+Dialogue: 0,0:00:57.32,0:00:58.57,DEFAULT,,0,0,0,,{\r}{\kf34}Eh,{\kf38} eh,{\kf53} eh

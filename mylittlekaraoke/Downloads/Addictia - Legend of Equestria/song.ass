@@ -1,52 +1,59 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Legend of Equestria
+Artist: Addictia (feat. Metajoker)
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:26.28,0:00:29.13,DEFAULT,,0,0,0,,{\kf2643}I'm{\kf2643} wak{\kf2648}ing{\kf2673} up,{\kf2643} the{\kf2653} sun{\kf2648} shines{\kf2639}~{\kf2658} in
-Dialogue: 0,0:00:32.68,0:00:35.53,DEFAULT,,0,0,0,,{\kf2643}I{\kf2643} want{\kf2648} to{\kf2658} learn{\kf2643} to{\kf2648} fight,{\kf2643} to{\kf2643}~{\kf2658} win
-Dialogue: 0,0:01:36.83,0:01:39.63,DEFAULT,,0,0,0,,{\kf2643}I'm{\kf2643} wak{\kf2653}ing{\kf2664} up,{\kf2643} the{\kf2653} sun{\kf2653} shines{\kf2643}~{\kf2648} in
-Dialogue: 0,0:01:40.03,0:01:42.88,DEFAULT,,0,0,0,,{\kf2643}The{\kf2643} day{\kf2648} a{\kf2658}gain,{\kf2643} a{\kf2658} long{\kf2658}ing{\kf2653} heart
-Dialogue: 0,0:01:43.23,0:01:46.08,DEFAULT,,0,0,0,,{\kf2643}I{\kf2648} want{\kf2648} to{\kf2664} learn{\kf2643} to{\kf2653} fight,{\kf2648} to{\kf2639}~{\kf2653} win
-Dialogue: 0,0:01:46.43,0:01:49.23,DEFAULT,,0,0,0,,{\kf2643}For{\kf2643} now{\kf2648} is{\kf2658} when{\kf2643} I{\kf2658} must{\kf2668} de{\kf2653}part
-Dialogue: 0,0:01:49.48,0:01:52.28,DEFAULT,,0,0,0,,{\kf2643}An{\kf2643} o{\kf2653}pen{\kf2664} land{\kf2643} a{\kf2648}waits{\kf2658} to{\kf2658} try
-Dialogue: 0,0:01:52.63,0:01:55.58,DEFAULT,,0,0,0,,{\kf2643}A{\kf2643}no{\kf2648}ther{\kf2664} cause{\kf2643} to{\kf2648} quench{\kf2658} de{\kf2639}~{\kf2658}sire
-Dialogue: 0,0:01:55.88,0:01:58.78,DEFAULT,,0,0,0,,{\kf2643}I'm{\kf2648} rea{\kf2653}dy{\kf2664} and{\kf2643} I{\kf2653} say{\kf2664} good{\kf2658}bye
-Dialogue: 0,0:02:01.23,0:02:04.08,DEFAULT,,0,0,0,,{\kf2643}I'm{\kf2639} a{\kf2643} sto{\kf2643}ry,{\kf2643} a{\kf2643} le{\kf2643}gend,{\kf2643} I'll{\kf2653} ne{\kf2643}ver{\kf2639} be{\kf2643} gone
-Dialogue: 0,0:02:04.28,0:02:05.13,DEFAULT,,0,0,0,,{\kf2639}I'll{\kf2643} change{\kf2639} the{\kf2653} world
-Dialogue: 0,0:02:05.48,0:02:07.33,DEFAULT,,0,0,0,,{\kf2639}'Cause{\kf2643} all{\kf2643} it{\kf2643} e{\kf2643}ver{\kf2643} takes{\kf2648} is{\kf2643} one
-Dialogue: 0,0:02:07.48,0:02:08.48,DEFAULT,,0,0,0,,{\kf2639}You{\kf2643} will{\kf2639} re{\kf2643}vere{\kf2648} me
-Dialogue: 0,0:02:08.63,0:02:10.43,DEFAULT,,0,0,0,,{\kf2643}The{\kf2643} fight{\kf2639}er{\kf2643} for{\kf2643} Ce{\kf2643}les{\kf2648}ti{\kf2639}~{\kf2643}a
-Dialogue: 0,0:02:10.73,0:02:11.68,DEFAULT,,0,0,0,,{\kf2639}I{\kf2643} am{\kf2639} a{\kf2643} Le{\kf2648}gend
-Dialogue: 0,0:02:11.88,0:02:13.83,DEFAULT,,0,0,0,,{\kf2639}A{\kf2643} Le{\kf2643}gend{\kf2643} of{\kf2643} E{\kf2648}ques{\kf2653}tri{\kf2643}a
-Dialogue: 0,0:02:14.03,0:02:14.88,DEFAULT,,0,0,0,,{\kf2643}I'm{\kf2643} a{\kf2643} war{\kf2653}rior
-Dialogue: 0,0:02:15.08,0:02:16.83,DEFAULT,,0,0,0,,{\kf2643}A{\kf2648} myth,{\kf2643} and{\kf2643} I'm{\kf2639} fi{\kf2643}nal{\kf2639}ly{\kf2643} set
-Dialogue: 0,0:02:17.18,0:02:20.08,DEFAULT,,0,0,0,,{\kf2643}I'm{\kf2639} the{\kf2643} me{\kf2639}mo{\kf2643}ry{\kf2639} the{\kf2643} world{\kf2643} will{\kf2643} not{\kf2643} soon{\kf2648} for{\kf2643}~{\kf2648}get
-Dialogue: 0,0:02:20.33,0:02:21.28,DEFAULT,,0,0,0,,{\kf2639}I{\kf2639} will{\kf2643} de{\kf2643}fend{\kf2643} you
-Dialogue: 0,0:02:21.48,0:02:23.28,DEFAULT,,0,0,0,,{\kf2643}The{\kf2643} po{\kf2639}nies{\kf2643} of{\kf2643} Ce{\kf2648}les{\kf2653}ti{\kf2643}a
-Dialogue: 0,0:02:23.48,0:02:24.48,DEFAULT,,0,0,0,,{\kf2639}I{\kf2643} am{\kf2639} a{\kf2643} Le{\kf2648}gend
-Dialogue: 0,0:02:24.68,0:02:26.93,DEFAULT,,0,0,0,,{\kf2639}A{\kf2643} Le{\kf2639}gend{\kf2643} of{\kf2643} E{\kf2653}ques{\kf2648}tri{\kf2673}a
-Dialogue: 0,0:02:31.88,0:02:34.03,DEFAULT,,0,0,0,,{\kf2643}A{\kf2643} Le{\kf2639}gend{\kf2643} of{\kf2643} E{\kf2653}ques{\kf2653}tri{\kf2664}a
-Dialogue: 0,0:02:40.13,0:02:45.88,DEFAULT,,0,0,0,,{\kf2848}Ahhhhh{\kf2658}~{\kf2658}~{\kf2889}~
-Dialogue: 0,0:02:47.28,0:02:52.53,DEFAULT,,0,0,0,,{\kf2773}Ohhhhh{\kf2723}~{\kf2643}~{\kf2718}~{\kf2643}~{\kf2753}~
-Dialogue: 0,0:03:18.08,0:03:20.88,DEFAULT,,0,0,0,,{\kf2643}I'm{\kf2639} a{\kf2643} sto{\kf2643}ry,{\kf2643} a{\kf2643} le{\kf2643}gend,{\kf2648} I'll{\kf2653} ne{\kf2643}ver{\kf2643} be{\kf2643} gone
-Dialogue: 0,0:03:21.13,0:03:22.03,DEFAULT,,0,0,0,,{\kf2639}I'll{\kf2643} change{\kf2639} the{\kf2664} world
-Dialogue: 0,0:03:22.33,0:03:24.08,DEFAULT,,0,0,0,,{\kf2639}'Cause{\kf2643} all{\kf2639} it{\kf2643} e{\kf2643}ver{\kf2643} takes{\kf2648} is{\kf2643} one
-Dialogue: 0,0:03:24.28,0:03:25.28,DEFAULT,,0,0,0,,{\kf2639}You{\kf2643} will{\kf2639} re{\kf2643}vere{\kf2648} me
-Dialogue: 0,0:03:25.43,0:03:27.23,DEFAULT,,0,0,0,,{\kf2643}The{\kf2643} fight{\kf2639}er{\kf2643} for{\kf2643} Ce{\kf2643}les{\kf2648}ti{\kf2639}~{\kf2643}a
-Dialogue: 0,0:03:27.48,0:03:28.48,DEFAULT,,0,0,0,,{\kf2639}I{\kf2643} am{\kf2639} a{\kf2643} Le{\kf2648}gend
-Dialogue: 0,0:03:28.73,0:03:30.63,DEFAULT,,0,0,0,,{\kf2639}A{\kf2643} Le{\kf2643}gend{\kf2643} of{\kf2643} E{\kf2648}ques{\kf2653}tri{\kf2643}a
-Dialogue: 0,0:03:30.83,0:03:31.73,DEFAULT,,0,0,0,,{\kf2643}I'm{\kf2643} a{\kf2643} war{\kf2653}rior
-Dialogue: 0,0:03:31.93,0:03:33.68,DEFAULT,,0,0,0,,{\kf2643}A{\kf2648} myth,{\kf2643} and{\kf2643} I'm{\kf2639} fi{\kf2643}nal{\kf2643}ly{\kf2643} set
-Dialogue: 0,0:03:34.03,0:03:36.93,DEFAULT,,0,0,0,,{\kf2643}I'm{\kf2639} the{\kf2643} me{\kf2639}mo{\kf2643}ry{\kf2639} the{\kf2643} world{\kf2643} will{\kf2643} not{\kf2643} soon{\kf2648} for{\kf2648}get
-Dialogue: 0,0:03:37.18,0:03:38.08,DEFAULT,,0,0,0,,{\kf2639}I{\kf2639} will{\kf2639} de{\kf2643}fend{\kf2643} you
-Dialogue: 0,0:03:38.33,0:03:41.28,DEFAULT,,0,0,0,,{\kf2643}The{\kf2643} po{\kf2639}nies{\kf2643} of{\kf2643} Ce{\kf2643}les{\kf2653}ti{\kf2643}a{\kf2643}-a{\kf2643}-a{\kf2643}-a
-Dialogue: 0,0:03:42.33,0:03:44.53,DEFAULT,,0,0,0,,{\kf2639}A{\kf2643} Le{\kf2639}gend{\kf2643} of{\kf2643} E{\kf2648}ques{\kf2653}tri{\kf2668}a
-Dialogue: 0,0:04:12.88,0:04:18.68,DEFAULT,,0,0,0,,{\kf2843}Ahhhhh{\kf2658}~{\kf2658}~{\kf2889}~
-Dialogue: 0,0:04:20.08,0:04:25.28,DEFAULT,,0,0,0,,{\kf2773}Ohhhhh{\kf2723}~{\kf2643}~{\kf2718}~{\kf2643}~{\kf2748}~
+Dialogue: 0,0:00:26.28,0:00:29.13,DEFAULT,,0,0,0,,{\r}{\kf22}I'm{\kf22} wak{\kf29}ing{\kf66} up,{\kf22} the{\kf37} sun{\kf29} shines{\kf15}~{\kf43} in
+Dialogue: 0,0:00:32.68,0:00:35.53,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} want{\kf33} to{\kf49} learn{\kf24} to{\kf33} fight,{\kf24} to{\kf24}~{\kf50} win
+Dialogue: 0,0:01:36.83,0:01:39.63,DEFAULT,,0,0,0,,{\r}{\kf22}I'm{\kf22} wak{\kf37}ing{\kf52} up,{\kf22} the{\kf37} sun{\kf37} shines{\kf22}~{\kf29} in
+Dialogue: 0,0:01:40.03,0:01:42.88,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf24} day{\kf32} a{\kf48}gain,{\kf24} a{\kf48} long{\kf48}ing{\kf37} heart
+Dialogue: 0,0:01:43.23,0:01:46.08,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf31} want{\kf31} to{\kf54} learn{\kf23} to{\kf39} fight,{\kf31} to{\kf15}~{\kf38} win
+Dialogue: 0,0:01:46.43,0:01:49.23,DEFAULT,,0,0,0,,{\r}{\kf22}For{\kf22} now{\kf29} is{\kf44} when{\kf22} I{\kf44} must{\kf59} de{\kf38}part
+Dialogue: 0,0:01:49.48,0:01:52.28,DEFAULT,,0,0,0,,{\r}{\kf23}An{\kf23} o{\kf38}pen{\kf53} land{\kf23} a{\kf30}waits{\kf45} to{\kf45} try
+Dialogue: 0,0:01:52.63,0:01:55.58,DEFAULT,,0,0,0,,{\r}{\kf23}A{\kf23}no{\kf31}ther{\kf54} cause{\kf23} to{\kf31} quench{\kf47} de{\kf16}~{\kf47}sire
+Dialogue: 0,0:01:55.88,0:01:58.78,DEFAULT,,0,0,0,,{\r}{\kf22}I'm{\kf29} rea{\kf36}dy{\kf51} and{\kf22} I{\kf36} say{\kf51} good{\kf43}bye
+Dialogue: 0,0:02:01.23,0:02:04.08,DEFAULT,,0,0,0,,{\r}{\kf24}I'm{\kf16} a{\kf24} sto{\kf24}ry,{\kf24} a{\kf24} le{\kf24}gend,{\kf24} I'll{\kf40} ne{\kf24}ver{\kf16} be{\kf21} gone
+Dialogue: 0,0:02:04.28,0:02:05.13,DEFAULT,,0,0,0,,{\r}{\kf14}I'll{\kf21} change{\kf14} the{\kf36} world
+Dialogue: 0,0:02:05.48,0:02:07.33,DEFAULT,,0,0,0,,{\r}{\kf15}'Cause{\kf23} all{\kf23} it{\kf23} e{\kf23}ver{\kf23} takes{\kf31} is{\kf24} one
+Dialogue: 0,0:02:07.48,0:02:08.48,DEFAULT,,0,0,0,,{\r}{\kf14}You{\kf21} will{\kf14} re{\kf21}vere{\kf30} me
+Dialogue: 0,0:02:08.63,0:02:10.43,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf21} fight{\kf14}er{\kf21} for{\kf21} Ce{\kf21}les{\kf28}ti{\kf14}~{\kf19}a
+Dialogue: 0,0:02:10.73,0:02:11.68,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf20} am{\kf14} a{\kf20} Le{\kf27}gend
+Dialogue: 0,0:02:11.88,0:02:13.83,DEFAULT,,0,0,0,,{\r}{\kf15}A{\kf22} Le{\kf22}gend{\kf22} of{\kf22} E{\kf30}ques{\kf38}tri{\kf24}a
+Dialogue: 0,0:02:14.03,0:02:14.88,DEFAULT,,0,0,0,,{\r}{\kf18}I'm{\kf18} a{\kf18} war{\kf31}rior
+Dialogue: 0,0:02:15.08,0:02:16.83,DEFAULT,,0,0,0,,{\r}{\kf23}A{\kf30} myth,{\kf23} and{\kf23} I'm{\kf15} fi{\kf23}nal{\kf15}ly{\kf23} set
+Dialogue: 0,0:02:17.18,0:02:20.08,DEFAULT,,0,0,0,,{\r}{\kf23}I'm{\kf15} the{\kf23} me{\kf15}mo{\kf23}ry{\kf15} the{\kf23} world{\kf23} will{\kf23} not{\kf23} soon{\kf31} for{\kf23}~{\kf30}get
+Dialogue: 0,0:02:20.33,0:02:21.28,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf15} will{\kf22} de{\kf22}fend{\kf21} you
+Dialogue: 0,0:02:21.48,0:02:23.28,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf21} po{\kf14}nies{\kf21} of{\kf21} Ce{\kf28}les{\kf35}ti{\kf19}a
+Dialogue: 0,0:02:23.48,0:02:24.48,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf21} am{\kf14} a{\kf21} Le{\kf30}gend
+Dialogue: 0,0:02:24.68,0:02:26.93,DEFAULT,,0,0,0,,{\r}{\kf15}A{\kf22} Le{\kf15}gend{\kf22} of{\kf22} E{\kf36}ques{\kf29}tri{\kf64}a
+Dialogue: 0,0:02:31.88,0:02:34.03,DEFAULT,,0,0,0,,{\r}{\kf21}A{\kf21} Le{\kf14}gend{\kf21} of{\kf21} E{\kf35}ques{\kf35}tri{\kf47}a
+Dialogue: 0,0:02:40.13,0:02:45.88,DEFAULT,,0,0,0,,{\r}{\kf234}Ahhhhh{\kf32}~{\kf32}~{\kf277}~
+Dialogue: 0,0:02:47.28,0:02:52.53,DEFAULT,,0,0,0,,{\r}{\kf157}Ohhhhh{\kf103}~{\kf16}~{\kf97}~{\kf16}~{\kf136}~
+Dialogue: 0,0:03:18.08,0:03:20.88,DEFAULT,,0,0,0,,{\r}{\kf22}I'm{\kf15} a{\kf22} sto{\kf22}ry,{\kf22} a{\kf22} le{\kf22}gend,{\kf29} I'll{\kf37} ne{\kf22}ver{\kf22} be{\kf23} gone
+Dialogue: 0,0:03:21.13,0:03:22.03,DEFAULT,,0,0,0,,{\r}{\kf13}I'll{\kf19} change{\kf13} the{\kf45} world
+Dialogue: 0,0:03:22.33,0:03:24.08,DEFAULT,,0,0,0,,{\r}{\kf15}'Cause{\kf23} all{\kf15} it{\kf23} e{\kf23}ver{\kf23} takes{\kf30} is{\kf23} one
+Dialogue: 0,0:03:24.28,0:03:25.28,DEFAULT,,0,0,0,,{\r}{\kf14}You{\kf21} will{\kf14} re{\kf21}vere{\kf30} me
+Dialogue: 0,0:03:25.43,0:03:27.23,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf21} fight{\kf14}er{\kf21} for{\kf21} Ce{\kf21}les{\kf28}ti{\kf14}~{\kf19}a
+Dialogue: 0,0:03:27.48,0:03:28.48,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf21} am{\kf14} a{\kf21} Le{\kf30}gend
+Dialogue: 0,0:03:28.73,0:03:30.63,DEFAULT,,0,0,0,,{\r}{\kf15}A{\kf22} Le{\kf22}gend{\kf22} of{\kf22} E{\kf29}ques{\kf37}tri{\kf21}a
+Dialogue: 0,0:03:30.83,0:03:31.73,DEFAULT,,0,0,0,,{\r}{\kf19}I'm{\kf19} a{\kf19} war{\kf33}rior
+Dialogue: 0,0:03:31.93,0:03:33.68,DEFAULT,,0,0,0,,{\r}{\kf22}A{\kf29} myth,{\kf22} and{\kf22} I'm{\kf15} fi{\kf22}nal{\kf22}ly{\kf21} set
+Dialogue: 0,0:03:34.03,0:03:36.93,DEFAULT,,0,0,0,,{\r}{\kf25}I'm{\kf17} the{\kf25} me{\kf17}mo{\kf25}ry{\kf17} the{\kf25} world{\kf25} will{\kf25} not{\kf25} soon{\kf33} for{\kf31}get
+Dialogue: 0,0:03:37.18,0:03:38.08,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf15} will{\kf15} de{\kf22}fend{\kf23} you
+Dialogue: 0,0:03:38.33,0:03:41.28,DEFAULT,,0,0,0,,{\r}{\kf26}The{\kf26} po{\kf17}nies{\kf26} of{\kf26} Ce{\kf26}les{\kf43}ti{\kf26}a{\kf26}-a{\kf26}-a{\kf27}-a
+Dialogue: 0,0:03:42.33,0:03:44.53,DEFAULT,,0,0,0,,{\r}{\kf15}A{\kf22} Le{\kf15}gend{\kf22} of{\kf22} E{\kf29}ques{\kf37}tri{\kf58}a
+Dialogue: 0,0:04:12.88,0:04:18.68,DEFAULT,,0,0,0,,{\r}{\kf233}Ahhhhh{\kf33}~{\kf33}~{\kf281}~
+Dialogue: 0,0:04:20.08,0:04:25.28,DEFAULT,,0,0,0,,{\r}{\kf157}Ohhhhh{\kf103}~{\kf16}~{\kf98}~{\kf16}~{\kf130}~

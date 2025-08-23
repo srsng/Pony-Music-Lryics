@@ -1,83 +1,90 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Faster Than A Lightning
+Artist: Secret Metal
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:16.39,0:00:18.95,DEFAULT,,0,0,0,,{\kf19}Ah{\kf15}~{\kf11}~{\kf11}~{\kf11}~{\kf132}~
-Dialogue: 0,0:00:36.34,0:00:38.75,DEFAULT,,0,0,0,,{\kf22}I've{\kf22} kicked{\kf37} dra{\kf22}gons{\kf22} in{\kf22} the{\kf22} face
-Dialogue: 0,0:00:39.05,0:00:41.09,DEFAULT,,0,0,0,,{\kf22}I've{\kf22} won{\kf22} death{\kf30} in{\kf22} the{\kf19} race
-Dialogue: 0,0:00:41.39,0:00:43.50,DEFAULT,,0,0,0,,{\kf22}I{\kf26} clear{\kf11} skies{\kf11} in{\kf19} ten{\kf11} se{\kf22}conds{\kf33} flat
-Dialogue: 0,0:00:43.72,0:00:45.81,DEFAULT,,0,0,0,,{\kf19}I{\kf19} bet{\kf30} you{\kf22} can't{\kf22} beat{\kf22} that
-Dialogue: 0,0:00:46.10,0:00:48.04,DEFAULT,,0,0,0,,{\kf22}I{\kf19} fly{\kf19} fas{\kf11}ter{\kf15} than{\kf19} the{\kf15} sound
-Dialogue: 0,0:00:48.18,0:00:50.52,DEFAULT,,0,0,0,,{\kf15}I'll{\kf22} beat{\kf19} my{\kf30} foes{\kf26} to{\kf22} the{\kf26} ground
-Dialogue: 0,0:00:50.70,0:00:52.79,DEFAULT,,0,0,0,,{\kf26}I'm{\kf30} the{\kf19} strong{\kf19}est{\kf22} thing{\kf22} a{\kf26}round
-Dialogue: 0,0:00:52.93,0:00:55.23,DEFAULT,,0,0,0,,{\kf11}I'd{\kf19} kick{\kf22} the{\kf26} shit{\kf22} out{\kf11} of{\kf15} hell{\kf41} hound
-Dialogue: 0,0:00:55.38,0:00:57.17,DEFAULT,,0,0,0,,{\kf19}Like{\kf15} a{\kf22} flam{\kf22}ing{\kf11} ar{\kf37}row
-Dialogue: 0,0:00:57.75,0:01:03.67,DEFAULT,,0,0,0,,{\kf22}Fly{\kf19}ing{\kf19} o{\kf22}ver{\kf22} cas{\kf48}tle{\kf388} walls
-Dialogue: 0,0:01:04.51,0:01:06.45,DEFAULT,,0,0,0,,{\kf11}Burn{\kf11}ing{\kf19} down{\kf19} my{\kf19} e{\kf19}ne{\kf30}mies{\kf33}~
-Dialogue: 0,0:01:06.82,0:01:13.14,DEFAULT,,0,0,0,,{\kf19}Lead{\kf19}ing{\kf19} my{\kf22} friends{\kf19} to{\kf19} vic{\kf37}to{\kf22}~{\kf395}ry
-Dialogue: 0,0:01:13.28,0:01:15.58,DEFAULT,,0,0,0,,{\kf11}I'm{\kf22} fas{\kf15}ter{\kf15} than{\kf15} a{\kf33} light{\kf59}ning
-Dialogue: 0,0:01:15.77,0:01:17.67,DEFAULT,,0,0,0,,{\kf22}Soar{\kf15}ing{\kf22} through{\kf11} the{\kf77} sky
-Dialogue: 0,0:01:18.18,0:01:20.22,DEFAULT,,0,0,0,,{\kf22}Loud{\kf22}er{\kf15} than{\kf11} the{\kf22} thun{\kf63}der
-Dialogue: 0,0:01:20.59,0:01:22.45,DEFAULT,,0,0,0,,{\kf19}Roar{\kf15}ing{\kf15} in{\kf15} the{\kf55} night{\kf26}~
-Dialogue: 0,0:01:22.75,0:01:25.05,DEFAULT,,0,0,0,,{\kf22}Strong{\kf22}er{\kf15} than{\kf15} a{\kf19} hur{\kf22}ri{\kf59}cane
-Dialogue: 0,0:01:25.45,0:01:26.98,DEFAULT,,0,0,0,,{\kf19}In{\kf19} all{\kf19} its{\kf77} might
-Dialogue: 0,0:01:27.42,0:01:29.47,DEFAULT,,0,0,0,,{\kf22}Proud{\kf19}er{\kf22} than{\kf11} a{\kf22} li{\kf63}on
-Dialogue: 0,0:01:30.09,0:01:34.95,DEFAULT,,0,0,0,,{\kf19}I'm{\kf11} rea{\kf11}dy{\kf15} to{\kf406} fight
-Dialogue: 0,0:01:35.42,0:01:36.45,DEFAULT,,0,0,0,,{\kf44}Fas{\kf52}ter
-Dialogue: 0,0:01:37.84,0:01:38.75,DEFAULT,,0,0,0,,{\kf26}Loud{\kf52}er
-Dialogue: 0,0:01:40.17,0:01:41.05,DEFAULT,,0,0,0,,{\kf30}Strong{\kf48}er
-Dialogue: 0,0:01:42.62,0:01:43.43,DEFAULT,,0,0,0,,{\kf22}Proud{\kf44}er
-Dialogue: 0,0:01:45.00,0:01:45.44,DEFAULT,,0,0,0,,{\kf44}Oh!
-Dialogue: 0,0:02:03.67,0:02:06.22,DEFAULT,,0,0,0,,{\kf26}I'm{\kf22} a{\kf26} sa{\kf37}vior{\kf15} from{\kf15} the{\kf30} skies
-Dialogue: 0,0:02:06.37,0:02:08.60,DEFAULT,,0,0,0,,{\kf33}He{\kf19}ro{\kf22} with{\kf22} no{\kf22} dis{\kf33}guise
-Dialogue: 0,0:02:08.75,0:02:10.83,DEFAULT,,0,0,0,,{\kf22}Brigh{\kf19}ter{\kf19} than{\kf11} the{\kf19} thou{\kf19}sands{\kf22} suns
-Dialogue: 0,0:02:11.08,0:02:13.24,DEFAULT,,0,0,0,,{\kf22}I'll{\kf19} be{\kf15} there{\kf15} with{\kf30} blaz{\kf19}ing{\kf30} guns
-Dialogue: 0,0:02:13.42,0:02:15.62,DEFAULT,,0,0,0,,{\kf15}I{\kf26} am{\kf26} your{\kf22} tur{\kf22}bo{\kf11}lo{\kf19}ver
-Dialogue: 0,0:02:15.76,0:02:17.88,DEFAULT,,0,0,0,,{\kf19}It{\kf22} takes{\kf26} days{\kf19} to{\kf15} re{\kf15}co{\kf15}ver
-Dialogue: 0,0:02:18.03,0:02:20.18,DEFAULT,,0,0,0,,{\kf15}Be{\kf15}ing{\kf19} cool{\kf11} is{\kf22} my{\kf26} des{\kf19}ti{\kf26}ny
-Dialogue: 0,0:02:20.36,0:02:22.37,DEFAULT,,0,0,0,,{\kf26}Kneel{\kf22} be{\kf19}fore{\kf15} my{\kf15} su{\kf15}pre{\kf15}ma{\kf22}cy
-Dialogue: 0,0:02:22.56,0:02:24.75,DEFAULT,,0,0,0,,{\kf22}Like{\kf19} ar{\kf15}mor{\kf22} pier{\kf15}cing{\kf15} bul{\kf59}let
-Dialogue: 0,0:02:25.15,0:02:30.49,DEFAULT,,0,0,0,,{\kf19}Go{\kf15}ing{\kf26} through{\kf15} the{\kf15} six{\kf33} inch{\kf22}~{\kf329} steel
-Dialogue: 0,0:02:31.87,0:02:34.18,DEFAULT,,0,0,0,,{\kf22}Des{\kf19}troy{\kf19}ing{\kf15} my{\kf15} e{\kf15}ne{\kf22}mies'{\kf41} guard
-Dialogue: 0,0:02:34.54,0:02:40.17,DEFAULT,,0,0,0,,{\kf15}Lead{\kf11}ing{\kf15} my{\kf19} friends{\kf15} to{\kf19} vic{\kf30}to{\kf33}~{\kf355}ry
-Dialogue: 0,0:02:40.64,0:02:42.91,DEFAULT,,0,0,0,,{\kf11}I'm{\kf30} fas{\kf22}ter{\kf15} than{\kf11} a{\kf30} light{\kf55}ning
-Dialogue: 0,0:02:43.16,0:02:45.03,DEFAULT,,0,0,0,,{\kf22}Soar{\kf22}ing{\kf19} through{\kf15} the{\kf77} sky
-Dialogue: 0,0:02:45.43,0:02:47.59,DEFAULT,,0,0,0,,{\kf26}Loud{\kf22}er{\kf19} than{\kf11} the{\kf22} thun{\kf70}der
-Dialogue: 0,0:02:47.80,0:02:49.96,DEFAULT,,0,0,0,,{\kf26}Roar{\kf19}ing{\kf15} in{\kf15} the{\kf41} night{\kf52}~
-Dialogue: 0,0:02:50.11,0:02:52.33,DEFAULT,,0,0,0,,{\kf30}Strong{\kf22}er{\kf15} than{\kf15} a{\kf22} hur{\kf22}ri{\kf52}cane
-Dialogue: 0,0:02:52.85,0:02:54.42,DEFAULT,,0,0,0,,{\kf15}In{\kf15} all{\kf15} its{\kf85} might
-Dialogue: 0,0:02:54.78,0:02:57.01,DEFAULT,,0,0,0,,{\kf26}Proud{\kf22}er{\kf19} than{\kf15} a{\kf19} li{\kf85}on
-Dialogue: 0,0:02:57.52,0:03:02.75,DEFAULT,,0,0,0,,{\kf15}I'm{\kf11} rea{\kf11}dy{\kf15} to{\kf446} fight
-Dialogue: 0,0:03:12.43,0:03:16.38,DEFAULT,,0,0,0,,{\kf154}Ah{\kf22} ah{\kf19}~{\kf172} ah
-Dialogue: 0,0:03:54.30,0:03:56.13,DEFAULT,,0,0,0,,{\kf30}Fas{\kf19}ter{\kf11} than{\kf19} a{\kf33} light{\kf33}ning
-Dialogue: 0,0:03:56.49,0:03:58.43,DEFAULT,,0,0,0,,{\kf37}Soar{\kf19}ing{\kf19} through{\kf11} the{\kf70} sky
-Dialogue: 0,0:03:58.83,0:04:00.99,DEFAULT,,0,0,0,,{\kf26}Loud{\kf22}er{\kf19} than{\kf15} the{\kf30} thun{\kf55}der
-Dialogue: 0,0:04:01.17,0:04:03.03,DEFAULT,,0,0,0,,{\kf37}Roar{\kf15}ing{\kf15} in{\kf15} the{\kf70} night
-Dialogue: 0,0:04:03.51,0:04:06.03,DEFAULT,,0,0,0,,{\kf33}Strong{\kf22}er{\kf15} than{\kf15} a{\kf26} hur{\kf26}ri{\kf77}cane
-Dialogue: 0,0:04:06.21,0:04:07.97,DEFAULT,,0,0,0,,{\kf26}In{\kf19} all{\kf15} its{\kf92} might
-Dialogue: 0,0:04:08.19,0:04:10.42,DEFAULT,,0,0,0,,{\kf30}Proud{\kf22}er{\kf15} than{\kf19} a{\kf37} li{\kf63}on
-Dialogue: 0,0:04:10.89,0:04:16.70,DEFAULT,,0,0,0,,{\kf26}She's{\kf15} rea{\kf11}dy{\kf11} to{\kf497} fight
-Dialogue: 0,0:04:17.06,0:04:19.48,DEFAULT,,0,0,0,,{\kf26}I'm{\kf30} fas{\kf30}ter{\kf19} than{\kf15} a{\kf26} light{\kf41}ning
-Dialogue: 0,0:04:19.81,0:04:21.81,DEFAULT,,0,0,0,,{\kf30}Soar{\kf19}ing{\kf19} through{\kf15} the{\kf81} sky
-Dialogue: 0,0:04:22.14,0:04:24.19,DEFAULT,,0,0,0,,{\kf22}Loud{\kf22}er{\kf19} than{\kf15} the{\kf15} thun{\kf59}der
-Dialogue: 0,0:04:24.59,0:04:26.60,DEFAULT,,0,0,0,,{\kf15}Roar{\kf19}ing{\kf15} in{\kf15} the{\kf52} night{\kf33}~
-Dialogue: 0,0:04:26.78,0:04:29.09,DEFAULT,,0,0,0,,{\kf33}Strong{\kf22}er{\kf19} than{\kf15} a{\kf19} hur{\kf26}ri{\kf52}cane
-Dialogue: 0,0:04:29.56,0:04:30.88,DEFAULT,,0,0,0,,{\kf19}In{\kf15} all{\kf15} its{\kf55} might
-Dialogue: 0,0:04:31.42,0:04:33.76,DEFAULT,,0,0,0,,{\kf26}Proud{\kf26}er{\kf19} than{\kf15} a{\kf19} li{\kf81}on
-Dialogue: 0,0:04:34.24,0:04:36.03,DEFAULT,,0,0,0,,{\kf19}I'm{\kf11} rea{\kf11}dy{\kf15} to{\kf103} fight
-Dialogue: 0,0:04:39.57,0:04:42.46,DEFAULT,,0,0,0,,{\kf26}Soa{\kf19}ring{\kf19} in{\kf26} the{\kf161} sky
-Dialogue: 0,0:04:44.29,0:04:46.22,DEFAULT,,0,0,0,,{\kf22}Roa{\kf19}ring{\kf19} in{\kf19} the{\kf77} night
-Dialogue: 0,0:04:49.22,0:04:51.41,DEFAULT,,0,0,0,,{\kf26}In{\kf22} all{\kf22} its{\kf125} might
-Dialogue: 0,0:04:54.04,0:04:57.40,DEFAULT,,0,0,0,,{\kf19}I'm{\kf15} rea{\kf11}dy{\kf11} to{\kf260} fight
-Dialogue: 0,0:04:58.28,0:04:59.48,DEFAULT,,0,0,0,,{\kf37}Ah{\kf77} ah
-Dialogue: 0,0:05:00.62,0:05:01.64,DEFAULT,,0,0,0,,{\kf33}Ah{\kf55} ah
-Dialogue: 0,0:05:02.99,0:05:04.31,DEFAULT,,0,0,0,,{\kf22}Ah{\kf88} oh
-Dialogue: 0,0:05:05.22,0:05:06.24,DEFAULT,,0,0,0,,{\kf26}Ah{\kf55} ah
-Dialogue: 0,0:05:06.50,0:05:07.38,DEFAULT,,0,0,0,,{\kf19}Come{\kf66} on!
+Dialogue: 0,0:00:16.40,0:00:18.96,DEFAULT,,0,0,0,,{\r}{\kf24}Ah{\kf19}~{\kf14}~{\kf14}~{\kf14}~{\kf171}~
+Dialogue: 0,0:00:36.35,0:00:38.76,DEFAULT,,0,0,0,,{\r}{\kf31}I've{\kf31} kicked{\kf52} dra{\kf31}gons{\kf31} in{\kf31} the{\kf34} face
+Dialogue: 0,0:00:39.05,0:00:41.10,DEFAULT,,0,0,0,,{\r}{\kf33}I've{\kf33} won{\kf33} death{\kf44} in{\kf33} the{\kf29} race
+Dialogue: 0,0:00:41.39,0:00:43.51,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf35} clear{\kf15} skies{\kf15} in{\kf25} ten{\kf15} se{\kf30}conds{\kf47} flat
+Dialogue: 0,0:00:43.73,0:00:45.81,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf29} bet{\kf46} you{\kf35} can't{\kf35} beat{\kf34} that
+Dialogue: 0,0:00:46.10,0:00:48.04,DEFAULT,,0,0,0,,{\r}{\kf36}I{\kf30} fly{\kf30} fas{\kf18}ter{\kf24} than{\kf30} the{\kf26} sound
+Dialogue: 0,0:00:48.19,0:00:50.52,DEFAULT,,0,0,0,,{\r}{\kf22}I'll{\kf33} beat{\kf27} my{\kf44} foes{\kf38} to{\kf33} the{\kf37} ground
+Dialogue: 0,0:00:50.71,0:00:52.79,DEFAULT,,0,0,0,,{\r}{\kf33}I'm{\kf38} the{\kf24} strong{\kf24}est{\kf28} thing{\kf28} a{\kf33}round
+Dialogue: 0,0:00:52.94,0:00:55.24,DEFAULT,,0,0,0,,{\r}{\kf15}I'd{\kf26} kick{\kf31} the{\kf36} shit{\kf31} out{\kf15} of{\kf20} hell{\kf56} hound
+Dialogue: 0,0:00:55.38,0:00:57.17,DEFAULT,,0,0,0,,{\r}{\kf26}Like{\kf21} a{\kf32} flam{\kf32}ing{\kf16} ar{\kf52}row
+Dialogue: 0,0:00:57.76,0:01:03.68,DEFAULT,,0,0,0,,{\r}{\kf24}Fly{\kf20}ing{\kf20} o{\kf24}ver{\kf24} cas{\kf52}tle{\kf428} walls
+Dialogue: 0,0:01:04.52,0:01:06.46,DEFAULT,,0,0,0,,{\r}{\kf14}Burn{\kf14}ing{\kf23} down{\kf23} my{\kf23} e{\kf23}ne{\kf36}mies{\kf38}~
+Dialogue: 0,0:01:06.82,0:01:13.14,DEFAULT,,0,0,0,,{\r}{\kf20}Lead{\kf20}ing{\kf20} my{\kf24} friends{\kf20} to{\kf20} vic{\kf41}to{\kf24}~{\kf443}ry
+Dialogue: 0,0:01:13.29,0:01:15.59,DEFAULT,,0,0,0,,{\r}{\kf15}I'm{\kf30} fas{\kf20}ter{\kf20} than{\kf20} a{\kf45} light{\kf80}ning
+Dialogue: 0,0:01:15.77,0:01:17.67,DEFAULT,,0,0,0,,{\r}{\kf28}Soar{\kf19}ing{\kf28} through{\kf14} the{\kf101} sky
+Dialogue: 0,0:01:18.18,0:01:20.23,DEFAULT,,0,0,0,,{\r}{\kf29}Loud{\kf29}er{\kf20} than{\kf15} the{\kf29} thun{\kf83}der
+Dialogue: 0,0:01:20.59,0:01:22.46,DEFAULT,,0,0,0,,{\r}{\kf24}Roar{\kf19}ing{\kf19} in{\kf19} the{\kf72} night{\kf33}~
+Dialogue: 0,0:01:22.75,0:01:25.05,DEFAULT,,0,0,0,,{\r}{\kf29}Strong{\kf29}er{\kf20} than{\kf20} a{\kf24} hur{\kf29}ri{\kf79}cane
+Dialogue: 0,0:01:25.45,0:01:26.99,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf21} all{\kf21} its{\kf90} might
+Dialogue: 0,0:01:27.43,0:01:29.47,DEFAULT,,0,0,0,,{\r}{\kf29}Proud{\kf24}er{\kf29} than{\kf14} a{\kf29} li{\kf80}on
+Dialogue: 0,0:01:30.09,0:01:34.95,DEFAULT,,0,0,0,,{\r}{\kf19}I'm{\kf12} rea{\kf12}dy{\kf15} to{\kf428} fight
+Dialogue: 0,0:01:35.43,0:01:36.45,DEFAULT,,0,0,0,,{\r}{\kf47}Fas{\kf55}ter
+Dialogue: 0,0:01:37.84,0:01:38.75,DEFAULT,,0,0,0,,{\r}{\kf30}Loud{\kf61}er
+Dialogue: 0,0:01:40.18,0:01:41.06,DEFAULT,,0,0,0,,{\r}{\kf34}Strong{\kf54}er
+Dialogue: 0,0:01:42.63,0:01:43.43,DEFAULT,,0,0,0,,{\r}{\kf27}Proud{\kf53}er
+Dialogue: 0,0:01:45.00,0:01:45.44,DEFAULT,,0,0,0,,{\r}{\kf44}Oh!
+Dialogue: 0,0:02:03.67,0:02:06.23,DEFAULT,,0,0,0,,{\r}{\kf39}I'm{\kf33} a{\kf39} sa{\kf56}vior{\kf22} from{\kf22} the{\kf45} skies
+Dialogue: 0,0:02:06.38,0:02:08.60,DEFAULT,,0,0,0,,{\r}{\kf49}He{\kf27}ro{\kf33} with{\kf33} no{\kf33} dis{\kf48}guise
+Dialogue: 0,0:02:08.75,0:02:10.83,DEFAULT,,0,0,0,,{\r}{\kf36}Brigh{\kf30}ter{\kf30} than{\kf18} the{\kf30} thou{\kf30}sands{\kf34} suns
+Dialogue: 0,0:02:11.09,0:02:13.25,DEFAULT,,0,0,0,,{\r}{\kf32}I'll{\kf27} be{\kf22} there{\kf22} with{\kf43} blaz{\kf27}ing{\kf43} guns
+Dialogue: 0,0:02:13.43,0:02:15.62,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf40} am{\kf40} your{\kf35} tur{\kf35}bo{\kf17}lo{\kf29}ver
+Dialogue: 0,0:02:15.77,0:02:17.89,DEFAULT,,0,0,0,,{\r}{\kf30}It{\kf36} takes{\kf42} days{\kf30} to{\kf24} re{\kf24}co{\kf26}ver
+Dialogue: 0,0:02:18.03,0:02:20.19,DEFAULT,,0,0,0,,{\r}{\kf21}Be{\kf21}ing{\kf26} cool{\kf16} is{\kf32} my{\kf37} des{\kf26}ti{\kf37}ny
+Dialogue: 0,0:02:20.37,0:02:22.38,DEFAULT,,0,0,0,,{\r}{\kf35}Kneel{\kf30} be{\kf25}fore{\kf20} my{\kf20} su{\kf20}pre{\kf20}ma{\kf31}cy
+Dialogue: 0,0:02:22.56,0:02:24.75,DEFAULT,,0,0,0,,{\r}{\kf29}Like{\kf24} ar{\kf19}mor{\kf29} pier{\kf19}cing{\kf19} bul{\kf80}let
+Dialogue: 0,0:02:25.16,0:02:30.49,DEFAULT,,0,0,0,,{\r}{\kf21}Go{\kf17}ing{\kf29} through{\kf17} the{\kf17} six{\kf37} inch{\kf25}~{\kf370} steel
+Dialogue: 0,0:02:31.88,0:02:34.18,DEFAULT,,0,0,0,,{\r}{\kf31}Des{\kf26}troy{\kf26}ing{\kf20} my{\kf20} e{\kf20}ne{\kf31}mies'{\kf56} guard
+Dialogue: 0,0:02:34.55,0:02:40.17,DEFAULT,,0,0,0,,{\r}{\kf16}Lead{\kf12}ing{\kf16} my{\kf20} friends{\kf16} to{\kf20} vic{\kf32}to{\kf36}~{\kf395}ry
+Dialogue: 0,0:02:40.65,0:02:42.91,DEFAULT,,0,0,0,,{\r}{\kf14}I'm{\kf39} fas{\kf29}ter{\kf19} than{\kf14} a{\kf39} light{\kf73}ning
+Dialogue: 0,0:02:43.17,0:02:45.03,DEFAULT,,0,0,0,,{\r}{\kf27}Soar{\kf27}ing{\kf22} through{\kf18} the{\kf92} sky
+Dialogue: 0,0:02:45.43,0:02:47.59,DEFAULT,,0,0,0,,{\r}{\kf33}Loud{\kf28}er{\kf23} than{\kf14} the{\kf28} thun{\kf90}der
+Dialogue: 0,0:02:47.81,0:02:49.97,DEFAULT,,0,0,0,,{\r}{\kf34}Roar{\kf24}ing{\kf19} in{\kf19} the{\kf53} night{\kf67}~
+Dialogue: 0,0:02:50.11,0:02:52.34,DEFAULT,,0,0,0,,{\r}{\kf37}Strong{\kf28}er{\kf19} than{\kf19} a{\kf28} hur{\kf28}ri{\kf64}cane
+Dialogue: 0,0:02:52.85,0:02:54.42,DEFAULT,,0,0,0,,{\r}{\kf18}In{\kf18} all{\kf18} its{\kf103} might
+Dialogue: 0,0:02:54.79,0:02:57.02,DEFAULT,,0,0,0,,{\r}{\kf31}Proud{\kf27}er{\kf22} than{\kf18} a{\kf22} li{\kf103}on
+Dialogue: 0,0:02:57.53,0:03:02.75,DEFAULT,,0,0,0,,{\r}{\kf15}I'm{\kf12} rea{\kf12}dy{\kf15} to{\kf468} fight
+Dialogue: 0,0:03:12.44,0:03:16.38,DEFAULT,,0,0,0,,{\r}{\kf166}Ah{\kf24} ah{\kf20}~{\kf185} ah
+Dialogue: 0,0:03:54.31,0:03:56.13,DEFAULT,,0,0,0,,{\r}{\kf38}Fas{\kf23}ter{\kf14} than{\kf23} a{\kf42} light{\kf43}ning
+Dialogue: 0,0:03:56.50,0:03:58.44,DEFAULT,,0,0,0,,{\r}{\kf46}Soar{\kf23}ing{\kf23} through{\kf14} the{\kf88} sky
+Dialogue: 0,0:03:58.84,0:04:00.99,DEFAULT,,0,0,0,,{\r}{\kf34}Loud{\kf29}er{\kf24} than{\kf19} the{\kf38} thun{\kf72}der
+Dialogue: 0,0:04:01.18,0:04:03.04,DEFAULT,,0,0,0,,{\r}{\kf45}Roar{\kf18}ing{\kf18} in{\kf18} the{\kf87} night
+Dialogue: 0,0:04:03.51,0:04:06.04,DEFAULT,,0,0,0,,{\r}{\kf39}Strong{\kf26}er{\kf17} than{\kf17} a{\kf30} hur{\kf30}ri{\kf93}cane
+Dialogue: 0,0:04:06.22,0:04:07.97,DEFAULT,,0,0,0,,{\r}{\kf30}In{\kf21} all{\kf17} its{\kf107} might
+Dialogue: 0,0:04:08.19,0:04:10.42,DEFAULT,,0,0,0,,{\r}{\kf36}Proud{\kf27}er{\kf18} than{\kf22} a{\kf45} li{\kf75}on
+Dialogue: 0,0:04:10.90,0:04:16.70,DEFAULT,,0,0,0,,{\r}{\kf27}She's{\kf15} rea{\kf11}dy{\kf11} to{\kf517} fight
+Dialogue: 0,0:04:17.07,0:04:19.48,DEFAULT,,0,0,0,,{\r}{\kf34}I'm{\kf39} fas{\kf39}ter{\kf24} than{\kf19} a{\kf34} light{\kf52}ning
+Dialogue: 0,0:04:19.81,0:04:21.82,DEFAULT,,0,0,0,,{\r}{\kf37}Soar{\kf23}ing{\kf23} through{\kf18} the{\kf100} sky
+Dialogue: 0,0:04:22.15,0:04:24.19,DEFAULT,,0,0,0,,{\r}{\kf30}Loud{\kf30}er{\kf25} than{\kf20} the{\kf20} thun{\kf80}der
+Dialogue: 0,0:04:24.60,0:04:26.61,DEFAULT,,0,0,0,,{\r}{\kf20}Roar{\kf25}ing{\kf20} in{\kf20} the{\kf70} night{\kf46}~
+Dialogue: 0,0:04:26.79,0:04:29.09,DEFAULT,,0,0,0,,{\r}{\kf41}Strong{\kf28}er{\kf23} than{\kf18} a{\kf23} hur{\kf32}ri{\kf65}cane
+Dialogue: 0,0:04:29.57,0:04:30.88,DEFAULT,,0,0,0,,{\r}{\kf24}In{\kf19} all{\kf19} its{\kf70} might
+Dialogue: 0,0:04:31.43,0:04:33.77,DEFAULT,,0,0,0,,{\r}{\kf33}Proud{\kf33}er{\kf23} than{\kf19} a{\kf23} li{\kf103}on
+Dialogue: 0,0:04:34.24,0:04:36.03,DEFAULT,,0,0,0,,{\r}{\kf21}I'm{\kf12} rea{\kf12}dy{\kf17} to{\kf117} fight
+Dialogue: 0,0:04:39.58,0:04:42.46,DEFAULT,,0,0,0,,{\r}{\kf30}Soa{\kf21}ring{\kf21} in{\kf30} the{\kf187} sky
+Dialogue: 0,0:04:44.29,0:04:46.23,DEFAULT,,0,0,0,,{\r}{\kf28}Roa{\kf23}ring{\kf23} in{\kf23} the{\kf97} night
+Dialogue: 0,0:04:49.22,0:04:51.41,DEFAULT,,0,0,0,,{\r}{\kf29}In{\kf25} all{\kf25} its{\kf140} might
+Dialogue: 0,0:04:54.05,0:04:57.41,DEFAULT,,0,0,0,,{\r}{\kf20}I'm{\kf16} rea{\kf12}dy{\kf12} to{\kf276} fight
+Dialogue: 0,0:04:58.28,0:04:59.49,DEFAULT,,0,0,0,,{\r}{\kf39}Ah{\kf82} ah
+Dialogue: 0,0:05:00.62,0:05:01.65,DEFAULT,,0,0,0,,{\r}{\kf38}Ah{\kf64} ah
+Dialogue: 0,0:05:03.00,0:05:04.31,DEFAULT,,0,0,0,,{\r}{\kf26}Ah{\kf106} oh
+Dialogue: 0,0:05:05.23,0:05:06.25,DEFAULT,,0,0,0,,{\r}{\kf32}Ah{\kf70} ah
+Dialogue: 0,0:05:06.50,0:05:07.38,DEFAULT,,0,0,0,,{\r}{\kf19}Come{\kf69} on!

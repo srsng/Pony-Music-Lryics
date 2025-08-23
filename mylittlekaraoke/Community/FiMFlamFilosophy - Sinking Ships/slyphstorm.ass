@@ -1,88 +1,95 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Sinking Ships (SlyphStorm cover)
+Artist: FiMFlamFilosophy
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.40,0:00:04.69,DEFAULT,,0,0,0,,{\kf25}O{\kf37}kay,{\kf19} the{\kf19} world{\kf25} pre{\kf19}sents{\kf19} some{\kf25} pro{\kf13}blems
-Dialogue: 0,0:00:04.87,0:00:06.74,DEFAULT,,0,0,0,,{\kf13}And{\kf19} we{\kf19} don't{\kf19} know{\kf19} what{\kf19} to{\kf43} do
-Dialogue: 0,0:00:06.98,0:00:08.55,DEFAULT,,0,0,0,,{\kf19}You've{\kf19} come{\kf19} to{\kf19} find{\kf19} your{\kf25} fee{\kf13}lings
-Dialogue: 0,0:00:08.73,0:00:10.48,DEFAULT,,0,0,0,,{\kf19}Aren't{\kf19} ex{\kf25}act{\kf19}ly{\kf19} what{\kf19} you{\kf37} knew
-Dialogue: 0,0:00:10.84,0:00:12.40,DEFAULT,,0,0,0,,{\kf25}The{\kf19} odds{\kf13} are{\kf19} stacked{\kf25} quite{\kf19} poor{\kf13}ly
-Dialogue: 0,0:00:12.52,0:00:14.39,DEFAULT,,0,0,0,,{\kf19}If{\kf25} with{\kf19}out{\kf19} a{\kf25} win{\kf19}ning{\kf43} hand
-Dialogue: 0,0:00:14.63,0:00:17.77,DEFAULT,,0,0,0,,{\kf19}But{\kf19} bear{\kf19} in{\kf19} mind{\kf19} your{\kf25} far{\kf19}ing's{\kf25} on{\kf19}ly{\kf25} worse{\kf19} if{\kf19} you{\kf19} don't
-Dialogue: 0,0:00:17.89,0:00:19.87,DEFAULT,,0,0,0,,{\kf19}Chin{\kf31} up!{\kf19} Don't{\kf19} bet{\kf19} on{\kf25} sin{\kf19}king{\kf13} ships
-Dialogue: 0,0:00:20.05,0:00:22.10,DEFAULT,,0,0,0,,{\kf19}Be{\kf19}cause{\kf19} they'll{\kf19} turn{\kf19} your{\kf19} chips{\kf19} to{\kf43} trash
-Dialogue: 0,0:00:22.40,0:00:24.27,DEFAULT,,0,0,0,,{\kf19}You've{\kf19} got{\kf19} to{\kf19} set{\kf19} your{\kf19} sights{\kf19} and{\kf19} hopes
-Dialogue: 0,0:00:24.39,0:00:26.14,DEFAULT,,0,0,0,,{\kf13}On{\kf19} set{\kf19}ting{\kf19} not{\kf19} to{\kf61} crash
-Dialogue: 0,0:00:26.32,0:00:27.64,DEFAULT,,0,0,0,,{\kf13}The{\kf19} truth{\kf19} can{\kf19} seem{\kf19} quite{\kf19} bleak
-Dialogue: 0,0:00:27.71,0:00:29.75,DEFAULT,,0,0,0,,{\kf13}If{\kf19} you{\kf19} don't{\kf19} make{\kf19} your{\kf19} plans{\kf25} un{\kf43}furl
-Dialogue: 0,0:00:30.11,0:00:32.89,DEFAULT,,0,0,0,,{\kf13}But{\kf19} I{\kf19} would{\kf19} not{\kf19} let{\kf19} that{\kf19} mar{\kf19} my{\kf25} o{\kf25}pin{\kf19}ion{\kf19} of-
-Dialogue: 0,0:00:33.19,0:00:34.69,DEFAULT,,0,0,0,,{\kf13}Fact{\kf19} is{\kf19} that{\kf19} if{\kf19} you{\kf19} could{\kf13} fix
-Dialogue: 0,0:00:34.81,0:00:37.16,DEFAULT,,0,0,0,,{\kf19}The{\kf25} fai{\kf19}lings{\kf19} of{\kf19} the{\kf25} cur{\kf19}rent{\kf25} pa{\kf25}ra{\kf19}digm
-Dialogue: 0,0:00:37.40,0:00:39.51,DEFAULT,,0,0,0,,{\kf19}We{\kf19} would{\kf19} have{\kf19} a{\kf25} he{\kf19}ro{\kf19} who's{\kf19} both{\kf19} been
-Dialogue: 0,0:00:39.69,0:00:41.38,DEFAULT,,0,0,0,,{\kf19}E{\kf25}lu{\kf19}sive{\kf19} and{\kf19} on{\kf55} time
-Dialogue: 0,0:00:42.28,0:00:43.37,DEFAULT,,0,0,0,,{\kf19}Just{\kf19} one{\kf61} time
-Dialogue: 0,0:00:44.45,0:00:45.18,DEFAULT,,0,0,0,,{\kf19}And{\kf49} then
-Dialogue: 0,0:00:46.38,0:00:48.43,DEFAULT,,0,0,0,,{\kf19}We{\kf31} would{\kf19} all{\kf19} con{\kf19}trive{\kf19} new{\kf19} con{\kf13}flict
-Dialogue: 0,0:00:48.61,0:00:50.60,DEFAULT,,0,0,0,,{\kf13}Chin{\kf19} up!{\kf19} Don't{\kf19} bet{\kf19} on{\kf25} sin{\kf19}king{\kf13} ships
-Dialogue: 0,0:00:50.78,0:00:52.83,DEFAULT,,0,0,0,,{\kf19}Be{\kf19}cause{\kf19} they'll{\kf19} turn{\kf19} your{\kf19} chips{\kf19} to{\kf43} trash
-Dialogue: 0,0:00:53.07,0:00:54.87,DEFAULT,,0,0,0,,{\kf19}You've{\kf19} got{\kf19} to{\kf19} set{\kf19} your{\kf19} sights{\kf19} and{\kf13} hopes
-Dialogue: 0,0:00:55.11,0:00:56.68,DEFAULT,,0,0,0,,{\kf13}On{\kf25} set{\kf19}ting{\kf19} not{\kf19} to{\kf43} crash
-Dialogue: 0,0:00:56.92,0:00:58.25,DEFAULT,,0,0,0,,{\kf19}The{\kf19} truth{\kf19} can{\kf19} seem{\kf19} quite{\kf13} bleak
-Dialogue: 0,0:00:58.43,0:01:00.48,DEFAULT,,0,0,0,,{\kf13}If{\kf19} you{\kf19} don't{\kf19} make{\kf19} your{\kf19} plans{\kf25} un{\kf43}furl
-Dialogue: 0,0:01:00.78,0:01:03.67,DEFAULT,,0,0,0,,{\kf19}But{\kf19} I{\kf19} would{\kf19} not{\kf19} let{\kf19} that{\kf19} mar{\kf19} my{\kf25} o{\kf25}pin{\kf19}ion{\kf25} of the--
-Dialogue: 0,0:01:03.91,0:01:05.96,DEFAULT,,0,0,0,,{\kf19}Chin{\kf31} up!{\kf19} Don't{\kf19} bet{\kf19} on{\kf19} sin{\kf19}king{\kf13} ships
-Dialogue: 0,0:01:06.14,0:01:08.19,DEFAULT,,0,0,0,,{\kf19}Be{\kf19}cause{\kf19} they'll{\kf19} turn{\kf19} your{\kf19} chips{\kf19} to{\kf43} trash
-Dialogue: 0,0:01:08.43,0:01:10.24,DEFAULT,,0,0,0,,{\kf19}You've{\kf19} got{\kf19} to{\kf19} set{\kf19} your{\kf19} sights{\kf19} and{\kf13} hopes
-Dialogue: 0,0:01:10.42,0:01:12.04,DEFAULT,,0,0,0,,{\kf13}On{\kf25} set{\kf19}ting{\kf19} not{\kf19} to{\kf49} crash
-Dialogue: 0,0:01:12.28,0:01:13.61,DEFAULT,,0,0,0,,{\kf19}The{\kf19} truth{\kf19} can{\kf19} seem{\kf19} quite{\kf13} bleak
-Dialogue: 0,0:01:13.79,0:01:15.84,DEFAULT,,0,0,0,,{\kf13}If{\kf19} you{\kf19} don't{\kf19} make{\kf19} your{\kf19} plans{\kf25} un{\kf43}furl
-Dialogue: 0,0:01:16.14,0:01:18.97,DEFAULT,,0,0,0,,{\kf19}But{\kf19} I{\kf19} would{\kf19} not{\kf19} let{\kf19} that{\kf19} mar{\kf19} my{\kf25} o{\kf25}pin{\kf19}ion{\kf19} of the-
-Dialogue: 0,0:01:19.21,0:01:21.02,DEFAULT,,0,0,0,,{\kf25}Sti{\kf25}pu{\kf25}la{\kf19}tions{\kf25} placed{\kf19} be{\kf19}fore{\kf13} you
-Dialogue: 0,0:01:21.20,0:01:23.25,DEFAULT,,0,0,0,,{\kf13}To{\kf19} get{\kf19} all{\kf19} the{\kf19} things{\kf19} you{\kf25} real{\kf19}ly{\kf19} need
-Dialogue: 0,0:01:23.55,0:01:25.11,DEFAULT,,0,0,0,,{\kf25}Mis{\kf19}ter{\kf19} Big{\kf19} may{\kf19} make{\kf19} things{\kf13} hard
-Dialogue: 0,0:01:25.30,0:01:27.46,DEFAULT,,0,0,0,,{\kf13}But{\kf19} you{\kf19} have{\kf19} got{\kf19} to{\kf19} plant{\kf19} your{\kf55} seeds
-Dialogue: 0,0:01:28.37,0:01:29.27,DEFAULT,,0,0,0,,{\kf19}Go{\kf19} to{\kf43} war
-Dialogue: 0,0:01:30.48,0:01:31.20,DEFAULT,,0,0,0,,{\kf25}Fight{\kf43} more
-Dialogue: 0,0:01:32.40,0:01:34.45,DEFAULT,,0,0,0,,{\kf19}Your{\kf31} dreams{\kf19} thrive{\kf19} by{\kf25} com{\kf25}pe{\kf25}ti{\kf13}tion
-Dialogue: 0,0:01:34.57,0:01:36.86,DEFAULT,,0,0,0,,{\kf19}You'll{\kf19} find{\kf19} no{\kf19} one{\kf25} fam{\kf19}ous{\kf25} e{\kf19}ver{\kf19} got{\kf13} there
-Dialogue: 0,0:01:36.98,0:01:38.73,DEFAULT,,0,0,0,,{\kf19}Just{\kf19} by{\kf25} flinch{\kf19}ing{\kf19} at{\kf19} their{\kf31} foes
-Dialogue: 0,0:01:38.91,0:01:40.24,DEFAULT,,0,0,0,,{\kf19}Cling{\kf25} a{\kf19}gainst{\kf19} the{\kf25} tor{\kf13}ment
-Dialogue: 0,0:01:40.36,0:01:42.58,DEFAULT,,0,0,0,,{\kf19}Claw{\kf19} with{\kf19} all{\kf19} your{\kf19} might{\kf19} at{\kf19} what{\kf19} you{\kf31} know
-Dialogue: 0,0:01:43.79,0:01:44.81,DEFAULT,,0,0,0,,{\kf13}Don't{\kf19} let{\kf61} go
-Dialogue: 0,0:01:45.84,0:01:46.62,DEFAULT,,0,0,0,,{\kf19}Just{\kf55} grow
-Dialogue: 0,0:01:47.77,0:01:49.81,DEFAULT,,0,0,0,,{\kf19}Don't{\kf19} wait{\kf19} or{\kf19} play{\kf19} to{\kf25} in{\kf25}de{\kf25}ci{\kf13}sion
-Dialogue: 0,0:01:49.93,0:01:51.98,DEFAULT,,0,0,0,,{\kf19}Chin{\kf25} up!{\kf19} Don't{\kf19} bet{\kf19} on{\kf25} sin{\kf19}king{\kf13} ships
-Dialogue: 0,0:01:52.16,0:01:54.21,DEFAULT,,0,0,0,,{\kf19}Be{\kf19}cause{\kf19} you've{\kf19} got{\kf19} to{\kf19} be{\kf19} more{\kf43} grand
-Dialogue: 0,0:01:54.51,0:01:55.84,DEFAULT,,0,0,0,,{\kf19}You've{\kf19} got{\kf19} to{\kf19} think{\kf25} a{\kf13}head
-Dialogue: 0,0:01:56.02,0:01:58.07,DEFAULT,,0,0,0,,{\kf19}And{\kf19} car{\kf19}ry{\kf19} out{\kf19} the{\kf19} things{\kf19} you've{\kf43} planned
-Dialogue: 0,0:01:58.37,0:01:59.69,DEFAULT,,0,0,0,,{\kf19}The{\kf19} truth{\kf19} can{\kf19} be{\kf19} of{\kf13} use
-Dialogue: 0,0:01:59.81,0:02:01.92,DEFAULT,,0,0,0,,{\kf13}When{\kf19} you{\kf19} can{\kf19} see{\kf19} where{\kf25} false{\kf19}hoods{\kf49} lay
-Dialogue: 0,0:02:02.16,0:02:03.49,DEFAULT,,0,0,0,,{\kf19}Don't{\kf19} quit{\kf19} on{\kf19} hopes{\kf19} or{\kf13} dreams
-Dialogue: 0,0:02:03.67,0:02:05.18,DEFAULT,,0,0,0,,{\kf13}When{\kf19} you{\kf19} have{\kf19} sim{\kf19}ply{\kf19} got{\kf13} to
-Dialogue: 0,0:02:05.36,0:02:07.40,DEFAULT,,0,0,0,,{\kf19}Chin{\kf19} up!{\kf19} Don't{\kf19} bet{\kf19} on{\kf25} sin{\kf19}king{\kf13} ships
-Dialogue: 0,0:02:07.58,0:02:09.57,DEFAULT,,0,0,0,,{\kf13}Be{\kf19}cause{\kf19} they'll{\kf19} on{\kf19}ly{\kf19} drag{\kf19} you{\kf43} down
-Dialogue: 0,0:02:09.87,0:02:11.44,DEFAULT,,0,0,0,,{\kf19}You've{\kf19} got{\kf19} to{\kf19} keep{\kf19} on{\kf25} sail{\kf13}ing
-Dialogue: 0,0:02:11.62,0:02:13.37,DEFAULT,,0,0,0,,{\kf19}E{\kf19}ven{\kf19} when{\kf19} you{\kf19} want{\kf19} to{\kf37} frown
-Dialogue: 0,0:02:13.67,0:02:15.24,DEFAULT,,0,0,0,,{\kf19}The{\kf19} world{\kf19} will{\kf19} keep{\kf19} on{\kf25} turn{\kf13}ing
-Dialogue: 0,0:02:15.42,0:02:17.22,DEFAULT,,0,0,0,,{\kf19}With{\kf19}out{\kf25} mat{\kf19}ter{\kf19} where{\kf19} you{\kf43} land
-Dialogue: 0,0:02:17.52,0:02:19.09,DEFAULT,,0,0,0,,{\kf19}You{\kf19} might{\kf19} as{\kf19} well{\kf19} be{\kf25} run{\kf13}ning
-Dialogue: 0,0:02:19.27,0:02:21.08,DEFAULT,,0,0,0,,{\kf13}When{\kf19} your{\kf19} feet{\kf19} should{\kf19} hit{\kf19} the{\kf43} sand
-Dialogue: 0,0:02:35.96,0:02:38.07,DEFAULT,,0,0,0,,{\kf19}Chin{\kf37} up!{\kf19} Don't{\kf19} bet{\kf19} on{\kf25} sin{\kf19}king{\kf13} ships
-Dialogue: 0,0:02:38.25,0:02:40.42,DEFAULT,,0,0,0,,{\kf19}Be{\kf13}cause{\kf19} you've{\kf19} got{\kf19} to{\kf19} be{\kf19} more{\kf55} grand
-Dialogue: 0,0:02:40.60,0:02:41.92,DEFAULT,,0,0,0,,{\kf19}You've{\kf19} got{\kf19} to{\kf19} think{\kf25} a{\kf13}head
-Dialogue: 0,0:02:42.10,0:02:44.21,DEFAULT,,0,0,0,,{\kf13}And{\kf19} car{\kf19}ry{\kf19} out{\kf19} the{\kf25} things{\kf19} you've{\kf49} planned
-Dialogue: 0,0:02:44.39,0:02:45.72,DEFAULT,,0,0,0,,{\kf19}The{\kf19} truth{\kf19} can{\kf19} be{\kf19} of{\kf13} use
-Dialogue: 0,0:02:45.90,0:02:47.89,DEFAULT,,0,0,0,,{\kf13}When{\kf19} you{\kf19} can{\kf19} see{\kf19} where{\kf25} false{\kf19}hoods{\kf37} lay
-Dialogue: 0,0:02:48.25,0:02:49.57,DEFAULT,,0,0,0,,{\kf19}Don't{\kf19} quit{\kf19} on{\kf19} hopes{\kf19} or{\kf13} dreams
-Dialogue: 0,0:02:49.75,0:02:51.26,DEFAULT,,0,0,0,,{\kf13}When{\kf19} you{\kf19} have{\kf25} sim{\kf19}ply{\kf19} got{\kf13} to
-Dialogue: 0,0:02:51.44,0:02:53.43,DEFAULT,,0,0,0,,{\kf13}Chin{\kf25} up!{\kf19} Don't{\kf19} bet{\kf19} on{\kf25} sin{\kf19}king{\kf13} ships
-Dialogue: 0,0:02:53.61,0:02:55.78,DEFAULT,,0,0,0,,{\kf19}Be{\kf19}cause{\kf19} they'll{\kf19} on{\kf19}ly{\kf19} drag{\kf19} you{\kf55} down
-Dialogue: 0,0:02:56.02,0:02:57.34,DEFAULT,,0,0,0,,{\kf19}You've{\kf19} got{\kf19} the{\kf19} means{\kf19} to{\kf13} live
-Dialogue: 0,0:02:57.46,0:02:59.69,DEFAULT,,0,0,0,,{\kf13}And{\kf19} it{\kf19} needs{\kf25} mere{\kf19}ly{\kf19} to{\kf13} be{\kf61} found
+Dialogue: 0,0:00:02.41,0:00:04.70,DEFAULT,,0,0,0,,{\r}{\kf29}O{\kf43}kay,{\kf21} the{\kf21} world{\kf29} pre{\kf21}sents{\kf21} some{\kf29} pro{\kf15}blems
+Dialogue: 0,0:00:04.88,0:00:06.75,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf23} we{\kf23} don't{\kf23} know{\kf23} what{\kf23} to{\kf56} do
+Dialogue: 0,0:00:06.99,0:00:08.55,DEFAULT,,0,0,0,,{\r}{\kf22}You've{\kf22} come{\kf22} to{\kf22} find{\kf22} your{\kf30} fee{\kf17}lings
+Dialogue: 0,0:00:08.73,0:00:10.48,DEFAULT,,0,0,0,,{\r}{\kf21}Aren't{\kf21} ex{\kf28}act{\kf21}ly{\kf21} what{\kf21} you{\kf42} knew
+Dialogue: 0,0:00:10.84,0:00:12.41,DEFAULT,,0,0,0,,{\r}{\kf30}The{\kf22} odds{\kf15} are{\kf22} stacked{\kf30} quite{\kf22} poor{\kf16}ly
+Dialogue: 0,0:00:12.53,0:00:14.40,DEFAULT,,0,0,0,,{\r}{\kf21}If{\kf28} with{\kf21}out{\kf21} a{\kf28} win{\kf21}ning{\kf47} hand
+Dialogue: 0,0:00:14.64,0:00:17.77,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} bear{\kf22} in{\kf22} mind{\kf22} your{\kf30} far{\kf22}ing's{\kf30} on{\kf22}ly{\kf30} worse{\kf22} if{\kf22} you{\kf25} don't
+Dialogue: 0,0:00:17.89,0:00:19.88,DEFAULT,,0,0,0,,{\r}{\kf23}Chin{\kf38} up!{\kf23} Don't{\kf23} bet{\kf23} on{\kf31} sin{\kf23}king{\kf15} ships
+Dialogue: 0,0:00:20.06,0:00:22.11,DEFAULT,,0,0,0,,{\r}{\kf22}Be{\kf22}cause{\kf22} they'll{\kf22} turn{\kf22} your{\kf22} chips{\kf22} to{\kf51} trash
+Dialogue: 0,0:00:22.41,0:00:24.28,DEFAULT,,0,0,0,,{\r}{\kf23}You've{\kf23} got{\kf23} to{\kf23} set{\kf23} your{\kf23} sights{\kf23} and{\kf26} hopes
+Dialogue: 0,0:00:24.40,0:00:26.14,DEFAULT,,0,0,0,,{\r}{\kf15}On{\kf22} set{\kf22}ting{\kf22} not{\kf22} to{\kf72} crash
+Dialogue: 0,0:00:26.32,0:00:27.65,DEFAULT,,0,0,0,,{\r}{\kf16}The{\kf23} truth{\kf23} can{\kf23} seem{\kf23} quite{\kf25} bleak
+Dialogue: 0,0:00:27.71,0:00:29.76,DEFAULT,,0,0,0,,{\r}{\kf15}If{\kf22} you{\kf22} don't{\kf22} make{\kf22} your{\kf22} plans{\kf29} un{\kf51}furl
+Dialogue: 0,0:00:30.12,0:00:32.89,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf22} I{\kf22} would{\kf22} not{\kf22} let{\kf22} that{\kf22} mar{\kf22} my{\kf30} o{\kf30}pin{\kf22}ion{\kf26} of-
+Dialogue: 0,0:00:33.19,0:00:34.70,DEFAULT,,0,0,0,,{\r}{\kf16}Fact{\kf24} is{\kf24} that{\kf24} if{\kf24} you{\kf24} could{\kf15} fix
+Dialogue: 0,0:00:34.82,0:00:37.17,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf28} fai{\kf21}lings{\kf21} of{\kf21} the{\kf28} cur{\kf21}rent{\kf28} pa{\kf28}ra{\kf18}digm
+Dialogue: 0,0:00:37.41,0:00:39.52,DEFAULT,,0,0,0,,{\r}{\kf23}We{\kf23} would{\kf23} have{\kf23} a{\kf30} he{\kf23}ro{\kf23} who's{\kf23} both{\kf20} been
+Dialogue: 0,0:00:39.70,0:00:41.38,DEFAULT,,0,0,0,,{\r}{\kf20}E{\kf27}lu{\kf20}sive{\kf20} and{\kf20} on{\kf62} time
+Dialogue: 0,0:00:42.29,0:00:43.37,DEFAULT,,0,0,0,,{\r}{\kf20}Just{\kf20} one{\kf68} time
+Dialogue: 0,0:00:44.46,0:00:45.18,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf52} then
+Dialogue: 0,0:00:46.38,0:00:48.43,DEFAULT,,0,0,0,,{\r}{\kf25}We{\kf41} would{\kf25} all{\kf25} con{\kf25}trive{\kf25} new{\kf25} con{\kf14}flict
+Dialogue: 0,0:00:48.61,0:00:50.60,DEFAULT,,0,0,0,,{\r}{\kf17}Chin{\kf26} up!{\kf26} Don't{\kf26} bet{\kf26} on{\kf35} sin{\kf26}king{\kf17} ships
+Dialogue: 0,0:00:50.78,0:00:52.83,DEFAULT,,0,0,0,,{\r}{\kf22}Be{\kf22}cause{\kf22} they'll{\kf22} turn{\kf22} your{\kf22} chips{\kf22} to{\kf51} trash
+Dialogue: 0,0:00:53.07,0:00:54.88,DEFAULT,,0,0,0,,{\r}{\kf24}You've{\kf24} got{\kf24} to{\kf24} set{\kf24} your{\kf24} sights{\kf24} and{\kf13} hopes
+Dialogue: 0,0:00:55.12,0:00:56.69,DEFAULT,,0,0,0,,{\r}{\kf14}On{\kf29} set{\kf21}ting{\kf21} not{\kf21} to{\kf51} crash
+Dialogue: 0,0:00:56.93,0:00:58.25,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf23} truth{\kf23} can{\kf23} seem{\kf23} quite{\kf18} bleak
+Dialogue: 0,0:00:58.43,0:01:00.48,DEFAULT,,0,0,0,,{\r}{\kf15}If{\kf22} you{\kf22} don't{\kf22} make{\kf22} your{\kf22} plans{\kf29} un{\kf51}furl
+Dialogue: 0,0:01:00.78,0:01:03.67,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} I{\kf22} would{\kf22} not{\kf22} let{\kf22} that{\kf22} mar{\kf22} my{\kf30} o{\kf30}pin{\kf22}ion{\kf31} of the--
+Dialogue: 0,0:01:03.92,0:01:05.96,DEFAULT,,0,0,0,,{\r}{\kf25}Chin{\kf41} up!{\kf25} Don't{\kf25} bet{\kf25} on{\kf25} sin{\kf25}king{\kf14} ships
+Dialogue: 0,0:01:06.14,0:01:08.19,DEFAULT,,0,0,0,,{\r}{\kf22}Be{\kf22}cause{\kf22} they'll{\kf22} turn{\kf22} your{\kf22} chips{\kf22} to{\kf51} trash
+Dialogue: 0,0:01:08.43,0:01:10.24,DEFAULT,,0,0,0,,{\r}{\kf24}You've{\kf24} got{\kf24} to{\kf24} set{\kf24} your{\kf24} sights{\kf24} and{\kf13} hopes
+Dialogue: 0,0:01:10.42,0:01:12.05,DEFAULT,,0,0,0,,{\r}{\kf14}On{\kf28} set{\kf21}ting{\kf21} not{\kf21} to{\kf58} crash
+Dialogue: 0,0:01:12.29,0:01:13.61,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf23} truth{\kf23} can{\kf23} seem{\kf23} quite{\kf18} bleak
+Dialogue: 0,0:01:13.79,0:01:15.84,DEFAULT,,0,0,0,,{\r}{\kf15}If{\kf22} you{\kf22} don't{\kf22} make{\kf22} your{\kf22} plans{\kf29} un{\kf51}furl
+Dialogue: 0,0:01:16.14,0:01:18.98,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} I{\kf22} would{\kf22} not{\kf22} let{\kf22} that{\kf22} mar{\kf22} my{\kf30} o{\kf30}pin{\kf22}ion{\kf25} of the-
+Dialogue: 0,0:01:19.22,0:01:21.02,DEFAULT,,0,0,0,,{\r}{\kf27}Sti{\kf27}pu{\kf27}la{\kf20}tions{\kf27} placed{\kf20} be{\kf20}fore{\kf13} you
+Dialogue: 0,0:01:21.20,0:01:23.25,DEFAULT,,0,0,0,,{\r}{\kf15}To{\kf23} get{\kf23} all{\kf23} the{\kf23} things{\kf23} you{\kf30} real{\kf23}ly{\kf22} need
+Dialogue: 0,0:01:23.55,0:01:25.12,DEFAULT,,0,0,0,,{\r}{\kf30}Mis{\kf22}ter{\kf22} Big{\kf22} may{\kf22} make{\kf22} things{\kf17} hard
+Dialogue: 0,0:01:25.30,0:01:27.47,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf22} you{\kf22} have{\kf22} got{\kf22} to{\kf22} plant{\kf22} your{\kf70} seeds
+Dialogue: 0,0:01:28.37,0:01:29.28,DEFAULT,,0,0,0,,{\r}{\kf21}Go{\kf21} to{\kf48} war
+Dialogue: 0,0:01:30.48,0:01:31.20,DEFAULT,,0,0,0,,{\r}{\kf26}Fight{\kf46} more
+Dialogue: 0,0:01:32.41,0:01:34.46,DEFAULT,,0,0,0,,{\r}{\kf22}Your{\kf37} dreams{\kf22} thrive{\kf22} by{\kf29} com{\kf29}pe{\kf29}ti{\kf15}tion
+Dialogue: 0,0:01:34.58,0:01:36.87,DEFAULT,,0,0,0,,{\r}{\kf22}You'll{\kf22} find{\kf22} no{\kf22} one{\kf30} fam{\kf22}ous{\kf30} e{\kf22}ver{\kf22} got{\kf15} there
+Dialogue: 0,0:01:36.99,0:01:38.73,DEFAULT,,0,0,0,,{\r}{\kf22}Just{\kf22} by{\kf29} flinch{\kf22}ing{\kf22} at{\kf22} their{\kf36} foes
+Dialogue: 0,0:01:38.92,0:01:40.24,DEFAULT,,0,0,0,,{\r}{\kf21}Cling{\kf28} a{\kf21}gainst{\kf21} the{\kf28} tor{\kf14}ment
+Dialogue: 0,0:01:40.36,0:01:42.59,DEFAULT,,0,0,0,,{\r}{\kf23}Claw{\kf23} with{\kf23} all{\kf23} your{\kf23} might{\kf23} at{\kf23} what{\kf23} you{\kf39} know
+Dialogue: 0,0:01:43.79,0:01:44.82,DEFAULT,,0,0,0,,{\r}{\kf14}Don't{\kf20} let{\kf68} go
+Dialogue: 0,0:01:45.84,0:01:46.63,DEFAULT,,0,0,0,,{\r}{\kf20}Just{\kf58} grow
+Dialogue: 0,0:01:47.77,0:01:49.82,DEFAULT,,0,0,0,,{\r}{\kf21}Don't{\kf21} wait{\kf21} or{\kf21} play{\kf21} to{\kf28} in{\kf28}de{\kf28}ci{\kf16}sion
+Dialogue: 0,0:01:49.94,0:01:51.99,DEFAULT,,0,0,0,,{\r}{\kf25}Chin{\kf33} up!{\kf25} Don't{\kf25} bet{\kf25} on{\kf33} sin{\kf25}king{\kf14} ships
+Dialogue: 0,0:01:52.17,0:01:54.22,DEFAULT,,0,0,0,,{\r}{\kf22}Be{\kf22}cause{\kf22} you've{\kf22} got{\kf22} to{\kf22} be{\kf22} more{\kf51} grand
+Dialogue: 0,0:01:54.52,0:01:55.84,DEFAULT,,0,0,0,,{\r}{\kf22}You've{\kf22} got{\kf22} to{\kf22} think{\kf30} a{\kf15}head
+Dialogue: 0,0:01:56.02,0:01:58.07,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} car{\kf22}ry{\kf22} out{\kf22} the{\kf22} things{\kf22} you've{\kf51} planned
+Dialogue: 0,0:01:58.37,0:01:59.70,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf23} truth{\kf23} can{\kf23} be{\kf23} of{\kf18} use
+Dialogue: 0,0:01:59.82,0:02:01.93,DEFAULT,,0,0,0,,{\r}{\kf15}When{\kf22} you{\kf22} can{\kf22} see{\kf22} where{\kf29} false{\kf22}hoods{\kf57} lay
+Dialogue: 0,0:02:02.17,0:02:03.49,DEFAULT,,0,0,0,,{\r}{\kf23}Don't{\kf23} quit{\kf23} on{\kf23} hopes{\kf23} or{\kf18} dreams
+Dialogue: 0,0:02:03.67,0:02:05.18,DEFAULT,,0,0,0,,{\r}{\kf16}When{\kf24} you{\kf24} have{\kf24} sim{\kf24}ply{\kf24} got{\kf15} to
+Dialogue: 0,0:02:05.36,0:02:07.41,DEFAULT,,0,0,0,,{\r}{\kf26}Chin{\kf26} up!{\kf26} Don't{\kf26} bet{\kf26} on{\kf34} sin{\kf26}king{\kf15} ships
+Dialogue: 0,0:02:07.59,0:02:09.58,DEFAULT,,0,0,0,,{\r}{\kf15}Be{\kf22}cause{\kf22} they'll{\kf22} on{\kf22}ly{\kf22} drag{\kf22} you{\kf52} down
+Dialogue: 0,0:02:09.88,0:02:11.45,DEFAULT,,0,0,0,,{\r}{\kf22}You've{\kf22} got{\kf22} to{\kf22} keep{\kf22} on{\kf30} sail{\kf17}ing
+Dialogue: 0,0:02:11.63,0:02:13.37,DEFAULT,,0,0,0,,{\r}{\kf22}E{\kf22}ven{\kf22} when{\kf22} you{\kf22} want{\kf22} to{\kf43} frown
+Dialogue: 0,0:02:13.67,0:02:15.24,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf22} world{\kf22} will{\kf22} keep{\kf22} on{\kf30} turn{\kf17}ing
+Dialogue: 0,0:02:15.42,0:02:17.23,DEFAULT,,0,0,0,,{\r}{\kf21}With{\kf21}out{\kf28} mat{\kf21}ter{\kf21} where{\kf21} you{\kf48} land
+Dialogue: 0,0:02:17.53,0:02:19.10,DEFAULT,,0,0,0,,{\r}{\kf22}You{\kf22} might{\kf22} as{\kf22} well{\kf22} be{\kf30} run{\kf17}ning
+Dialogue: 0,0:02:19.28,0:02:21.08,DEFAULT,,0,0,0,,{\r}{\kf15}When{\kf23} your{\kf23} feet{\kf23} should{\kf23} hit{\kf23} the{\kf51} sand
+Dialogue: 0,0:02:35.96,0:02:38.07,DEFAULT,,0,0,0,,{\r}{\kf23}Chin{\kf47} up!{\kf23} Don't{\kf23} bet{\kf23} on{\kf31} sin{\kf23}king{\kf18} ships
+Dialogue: 0,0:02:38.25,0:02:40.42,DEFAULT,,0,0,0,,{\r}{\kf22}Be{\kf15}cause{\kf22} you've{\kf22} got{\kf22} to{\kf22} be{\kf22} more{\kf70} grand
+Dialogue: 0,0:02:40.60,0:02:41.93,DEFAULT,,0,0,0,,{\r}{\kf22}You've{\kf22} got{\kf22} to{\kf22} think{\kf30} a{\kf15}head
+Dialogue: 0,0:02:42.11,0:02:44.22,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf22} car{\kf22}ry{\kf22} out{\kf22} the{\kf29} things{\kf22} you've{\kf57} planned
+Dialogue: 0,0:02:44.40,0:02:45.72,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf23} truth{\kf23} can{\kf23} be{\kf23} of{\kf18} use
+Dialogue: 0,0:02:45.90,0:02:47.89,DEFAULT,,0,0,0,,{\r}{\kf15}When{\kf22} you{\kf22} can{\kf22} see{\kf22} where{\kf29} false{\kf22}hoods{\kf45} lay
+Dialogue: 0,0:02:48.25,0:02:49.58,DEFAULT,,0,0,0,,{\r}{\kf23}Don't{\kf23} quit{\kf23} on{\kf23} hopes{\kf23} or{\kf18} dreams
+Dialogue: 0,0:02:49.76,0:02:51.26,DEFAULT,,0,0,0,,{\r}{\kf15}When{\kf23} you{\kf23} have{\kf30} sim{\kf23}ply{\kf23} got{\kf14} to
+Dialogue: 0,0:02:51.45,0:02:53.43,DEFAULT,,0,0,0,,{\r}{\kf17}Chin{\kf33} up!{\kf25} Don't{\kf25} bet{\kf25} on{\kf33} sin{\kf25}king{\kf16} ships
+Dialogue: 0,0:02:53.61,0:02:55.78,DEFAULT,,0,0,0,,{\r}{\kf22}Be{\kf22}cause{\kf22} they'll{\kf22} on{\kf22}ly{\kf22} drag{\kf22} you{\kf63} down
+Dialogue: 0,0:02:56.02,0:02:57.35,DEFAULT,,0,0,0,,{\r}{\kf23}You've{\kf23} got{\kf23} the{\kf23} means{\kf23} to{\kf18} live
+Dialogue: 0,0:02:57.47,0:02:59.70,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf22} it{\kf22} needs{\kf30} mere{\kf22}ly{\kf22} to{\kf15} be{\kf75} found

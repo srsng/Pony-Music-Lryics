@@ -1,59 +1,66 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Alone
+Artist: Hirosashii
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.82,0:00:09.24,DEFAULT,,0,0,0,,{\kf29}Same{\kf91} day
-Dialogue: 0,0:00:09.58,0:00:10.94,DEFAULT,,0,0,0,,{\kf17}Dif{\kf17}ferent{\kf29} sto{\kf40}ry
-Dialogue: 0,0:00:11.39,0:00:14.50,DEFAULT,,0,0,0,,{\kf17}Ne{\kf17}ver{\kf23} could{\kf17} find{\kf12} the{\kf29} path{\kf23} plead{\kf12}ing{\kf23} for{\kf40} me
-Dialogue: 0,0:00:15.01,0:00:16.31,DEFAULT,,0,0,0,,{\kf29}All{\kf80} day
-Dialogue: 0,0:00:16.65,0:00:18.07,DEFAULT,,0,0,0,,{\kf17}And{\kf46} all{\kf17} night{\kf29}~
-Dialogue: 0,0:00:18.46,0:00:19.43,DEFAULT,,0,0,0,,{\kf17}I{\kf23} worked{\kf34} hard
-Dialogue: 0,0:00:19.65,0:00:21.69,DEFAULT,,0,0,0,,{\kf12}But{\kf12} I{\kf17} ne{\kf17}ver{\kf17} reached{\kf23} the{\kf51} light
-Dialogue: 0,0:00:22.99,0:00:26.11,DEFAULT,,0,0,0,,{\kf29}In{\kf23} the{\kf29} ci{\kf23}ty{\kf23} on{\kf17} the{\kf102} hill
-Dialogue: 0,0:00:26.67,0:00:29.79,DEFAULT,,0,0,0,,{\kf23}I{\kf23} just{\kf29} know{\kf17} that's{\kf17} the{\kf23} place{\kf23} I{\kf74} will
-Dialogue: 0,0:00:30.41,0:00:33.52,DEFAULT,,0,0,0,,{\kf17}Turn{\kf17} my{\kf23} dreams{\kf17} to{\kf23} re{\kf23}a{\kf17}li{\kf97}ty
-Dialogue: 0,0:00:33.97,0:00:36.52,DEFAULT,,0,0,0,,{\kf17}But{\kf23} I{\kf23} can't{\kf17} do{\kf17} a{\kf23} thing{\kf17} for{\kf29} me
-Dialogue: 0,0:00:36.80,0:00:40.20,DEFAULT,,0,0,0,,{\kf34}I{\kf29} don't{\kf34} know{\kf23} where{\kf17} to{\kf29} go{\kf29} from{\kf40} here
-Dialogue: 0,0:00:40.48,0:00:43.71,DEFAULT,,0,0,0,,{\kf23}The{\kf34} fu{\kf29}ture's{\kf29} all{\kf17} I{\kf23} have{\kf23} to{\kf29} fear
-Dialogue: 0,0:00:44.16,0:00:47.28,DEFAULT,,0,0,0,,{\kf23}I've{\kf23} got{\kf23} to{\kf34} find{\kf17} my{\kf29}self{\kf29} a{\kf29} way
-Dialogue: 0,0:00:47.79,0:00:50.90,DEFAULT,,0,0,0,,{\kf29}To{\kf23} live{\kf29} with{\kf34} hap{\kf17}pi{\kf23}ness{\kf29} each{\kf23} day
-Dialogue: 0,0:00:51.41,0:00:54.63,DEFAULT,,0,0,0,,{\kf29}And{\kf34} I{\kf68}~{\kf29} can't{\kf23} stop{\kf63} it
-Dialogue: 0,0:00:55.03,0:00:58.31,DEFAULT,,0,0,0,,{\kf23}And{\kf40} you{\kf63}~{\kf34} won't{\kf23} stop{\kf63} it
-Dialogue: 0,0:00:58.88,0:01:01.82,DEFAULT,,0,0,0,,{\kf17}I{\kf23} wish{\kf17} that{\kf17} my{\kf29} friends{\kf17} would{\kf17} have{\kf29} known{\kf51}~
-Dialogue: 0,0:01:02.39,0:01:05.90,DEFAULT,,0,0,0,,{\kf17}That{\kf17} I{\kf23} used{\kf29} to{\kf29} cry{\kf34} when{\kf17} I{\kf17} was{\kf17} a{\kf51}lone
-Dialogue: 0,0:01:17.05,0:01:20.16,DEFAULT,,0,0,0,,{\kf17}I{\kf29} used{\kf23} to{\kf29} cry{\kf29} when{\kf17} I{\kf17} was{\kf17} a{\kf34}lone
-Dialogue: 0,0:01:20.50,0:01:23.73,DEFAULT,,0,0,0,,{\kf29}And{\kf34} I{\kf63}~{\kf34} can't{\kf23} stop{\kf57} it
-Dialogue: 0,0:01:24.12,0:01:27.35,DEFAULT,,0,0,0,,{\kf29}And{\kf34} you{\kf57}~{\kf29} won't{\kf23} stop{\kf57} it
-Dialogue: 0,0:01:27.97,0:01:30.92,DEFAULT,,0,0,0,,{\kf17}I{\kf23} wish{\kf17} that{\kf17} my{\kf23} friends{\kf23} could{\kf17} have{\kf23} known{\kf57}~
-Dialogue: 0,0:01:31.37,0:01:34.94,DEFAULT,,0,0,0,,{\kf17}That{\kf17} I{\kf29} used{\kf29} to{\kf29} cry{\kf29} 'cause{\kf17} I{\kf17} was{\kf17} a{\kf57}lone
-Dialogue: 0,0:01:36.75,0:01:39.12,DEFAULT,,0,0,0,,{\kf17}No{\kf23} hard{\kf23} feel{\kf23}ings{\kf17} to{\kf23} Po{\kf23}ny{\kf23}ville
-Dialogue: 0,0:01:39.35,0:01:40.88,DEFAULT,,0,0,0,,{\kf17}The{\kf17} place{\kf17} where{\kf17} I{\kf17} can{\kf17} chill
-Dialogue: 0,0:01:41.11,0:01:43.26,DEFAULT,,0,0,0,,{\kf17}But{\kf17} al{\kf17}so{\kf17} where{\kf17} life{\kf29} stands{\kf29} still
-Dialogue: 0,0:01:43.94,0:01:46.60,DEFAULT,,0,0,0,,{\kf17}I{\kf17} need{\kf17} to{\kf17} stop{\kf23} think{\kf17}ing{\kf23} who{\kf23} I{\kf17} should{\kf12} be
-Dialogue: 0,0:01:46.82,0:01:50.45,DEFAULT,,0,0,0,,{\kf17}I'm{\kf17} ge{\kf17}ne{\kf23}ro{\kf17}si{\kf17}ty,{\kf17} but{\kf17} I{\kf17} need{\kf29} care{\kf17} for{\kf34} me
-Dialogue: 0,0:01:50.73,0:01:54.18,DEFAULT,,0,0,0,,{\kf17}And{\kf17} I{\kf17} wait{\kf17} for{\kf17} the{\kf23} day{\kf17} when{\kf17} I{\kf17} say{\kf17} I{\kf23} need{\kf12} stray
-Dialogue: 0,0:01:54.41,0:01:57.86,DEFAULT,,0,0,0,,{\kf17}A{\kf23}way{\kf17} from{\kf17} my{\kf23} life{\kf23} as{\kf17} of{\kf23} now;{\kf29} it's{\kf23} child's{\kf17}~{\kf12} play
-Dialogue: 0,0:01:58.09,0:02:01.43,DEFAULT,,0,0,0,,{\kf12}But{\kf17} my{\kf23} friends{\kf17} have{\kf17} been{\kf23} friends{\kf17} from{\kf23} the{\kf17} start{\kf17} to{\kf17} the{\kf12} end
-Dialogue: 0,0:02:01.65,0:02:05.56,DEFAULT,,0,0,0,,{\kf17}I{\kf17} hope{\kf23} when{\kf17} I{\kf17} leave,{\kf23} if{\kf17} I{\kf23} leave,{\kf17} that{\kf17} my{\kf17} heart{\kf23} ex{\kf46}tends
-Dialogue: 0,0:02:05.96,0:02:15.29,DEFAULT,,0,0,0,,{\kf29}It's{\kf572} love{\kf46}~{\kf210}~
-Dialogue: 0,0:02:15.69,0:02:18.24,DEFAULT,,0,0,0,,{\kf255}(yeah)
-Dialogue: 0,0:02:20.45,0:02:23.73,DEFAULT,,0,0,0,,{\kf29}And{\kf40} I{\kf63}~{\kf34} can't{\kf23} stop{\kf63} it
-Dialogue: 0,0:02:24.12,0:02:27.46,DEFAULT,,0,0,0,,{\kf29}And{\kf40} you{\kf63}~{\kf29} won't{\kf23} stop{\kf68} it
-Dialogue: 0,0:02:27.97,0:02:30.97,DEFAULT,,0,0,0,,{\kf17}I{\kf23} wish{\kf17} that{\kf17} my{\kf23} friends{\kf17} could{\kf17} have{\kf23} known{\kf51}~
-Dialogue: 0,0:02:31.43,0:02:34.82,DEFAULT,,0,0,0,,{\kf17}That{\kf17} I{\kf29} used{\kf23} to{\kf29} cry{\kf29} 'cause{\kf17} I{\kf17} was{\kf17} a{\kf34}lone
-Dialogue: 0,0:02:38.84,0:02:42.41,DEFAULT,,0,0,0,,{\kf17}I{\kf29} used{\kf23} to{\kf29} cry{\kf29} 'cause{\kf17} I{\kf17} was{\kf17} a{\kf74}lone
-Dialogue: 0,0:02:46.14,0:02:48.52,DEFAULT,,0,0,0,,{\kf17}I{\kf23} used{\kf23} to{\kf23} cry{\kf23} 'cause{\kf29} I
-Dialogue: 0,0:02:49.60,0:02:52.71,DEFAULT,,0,0,0,,{\kf29}And{\kf34} I{\kf63}~{\kf34} can't{\kf23} stop{\kf46} it
-Dialogue: 0,0:02:53.22,0:02:56.45,DEFAULT,,0,0,0,,{\kf23}And{\kf40} you{\kf74}~{\kf29} won't{\kf23} stop{\kf57} it
-Dialogue: 0,0:02:57.07,0:03:00.01,DEFAULT,,0,0,0,,{\kf17}I{\kf23} wish{\kf17} that{\kf17} my{\kf23} friends{\kf17} would{\kf17} have{\kf23} known{\kf57}~
-Dialogue: 0,0:03:00.46,0:03:05.45,DEFAULT,,0,0,0,,{\kf17}That{\kf23} I{\kf23} used{\kf29} to{\kf29} cry{\kf17} when{\kf17} I{\kf17} was{\kf17} a{\kf199}lone
-Dialogue: 0,0:03:05.96,0:03:09.24,DEFAULT,,0,0,0,,{\kf17}When{\kf17} I{\kf23} was{\kf17} a{\kf114}lone{\kf23}~{\kf17}~{\kf34}~
-Dialogue: 0,0:03:09.58,0:03:12.69,DEFAULT,,0,0,0,,{\kf17}When{\kf17} I{\kf23} was{\kf17} a{\kf29}lone{\kf68}~{\kf97}~
-Dialogue: 0,0:03:14.11,0:03:18.80,DEFAULT,,0,0,0,,{\kf470}Yeah
+Dialogue: 0,0:00:07.83,0:00:09.24,DEFAULT,,0,0,0,,{\r}{\kf34}Same{\kf108} day
+Dialogue: 0,0:00:09.58,0:00:10.94,DEFAULT,,0,0,0,,{\r}{\kf23}Dif{\kf23}ferent{\kf38} sto{\kf52}ry
+Dialogue: 0,0:00:11.39,0:00:14.51,DEFAULT,,0,0,0,,{\r}{\kf25}Ne{\kf25}ver{\kf34} could{\kf25} find{\kf17} the{\kf42} path{\kf34} plead{\kf17}ing{\kf34} for{\kf58} me
+Dialogue: 0,0:00:15.02,0:00:16.32,DEFAULT,,0,0,0,,{\r}{\kf34}All{\kf96} day
+Dialogue: 0,0:00:16.66,0:00:18.07,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf60} all{\kf22} night{\kf38}~
+Dialogue: 0,0:00:18.47,0:00:19.43,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf30} worked{\kf44} hard
+Dialogue: 0,0:00:19.66,0:00:21.70,DEFAULT,,0,0,0,,{\r}{\kf16}But{\kf16} I{\kf24} ne{\kf24}ver{\kf24} reached{\kf31} the{\kf69} light
+Dialogue: 0,0:00:23.00,0:00:26.11,DEFAULT,,0,0,0,,{\r}{\kf36}In{\kf29} the{\kf36} ci{\kf29}ty{\kf29} on{\kf22} the{\kf130} hill
+Dialogue: 0,0:00:26.68,0:00:29.79,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf31} just{\kf39} know{\kf23} that's{\kf23} the{\kf31} place{\kf31} I{\kf102} will
+Dialogue: 0,0:00:30.41,0:00:33.53,DEFAULT,,0,0,0,,{\r}{\kf23}Turn{\kf23} my{\kf30} dreams{\kf23} to{\kf30} re{\kf30}a{\kf23}li{\kf129}ty
+Dialogue: 0,0:00:33.98,0:00:36.53,DEFAULT,,0,0,0,,{\r}{\kf26}But{\kf35} I{\kf35} can't{\kf26} do{\kf26} a{\kf35} thing{\kf26} for{\kf46} me
+Dialogue: 0,0:00:36.81,0:00:40.21,DEFAULT,,0,0,0,,{\r}{\kf50}I{\kf41} don't{\kf50} know{\kf33} where{\kf25} to{\kf41} go{\kf41} from{\kf59} here
+Dialogue: 0,0:00:40.49,0:00:43.71,DEFAULT,,0,0,0,,{\r}{\kf36}The{\kf54} fu{\kf45}ture's{\kf45} all{\kf27} I{\kf36} have{\kf36} to{\kf44} fear
+Dialogue: 0,0:00:44.17,0:00:47.28,DEFAULT,,0,0,0,,{\r}{\kf35}I've{\kf35} got{\kf35} to{\kf52} find{\kf26} my{\kf43}self{\kf43} a{\kf42} way
+Dialogue: 0,0:00:47.79,0:00:50.90,DEFAULT,,0,0,0,,{\r}{\kf43}To{\kf35} live{\kf43} with{\kf52} hap{\kf26}pi{\kf35}ness{\kf43} each{\kf34} day
+Dialogue: 0,0:00:51.41,0:00:54.64,DEFAULT,,0,0,0,,{\r}{\kf38}And{\kf45} I{\kf90}~{\kf38} can't{\kf30} stop{\kf82} it
+Dialogue: 0,0:00:55.04,0:00:58.32,DEFAULT,,0,0,0,,{\r}{\kf31}And{\kf53} you{\kf84}~{\kf46} won't{\kf31} stop{\kf83} it
+Dialogue: 0,0:00:58.88,0:01:01.83,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf31} wish{\kf23} that{\kf23} my{\kf39} friends{\kf23} would{\kf23} have{\kf39} known{\kf70}~
+Dialogue: 0,0:01:02.39,0:01:05.90,DEFAULT,,0,0,0,,{\r}{\kf24}That{\kf24} I{\kf32} used{\kf40} to{\kf40} cry{\kf48} when{\kf24} I{\kf24} was{\kf24} a{\kf71}lone
+Dialogue: 0,0:01:17.05,0:01:20.17,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf42} used{\kf34} to{\kf42} cry{\kf42} when{\kf25} I{\kf25} was{\kf25} a{\kf51}lone
+Dialogue: 0,0:01:20.51,0:01:23.73,DEFAULT,,0,0,0,,{\r}{\kf38}And{\kf46} I{\kf85}~{\kf46} can't{\kf31} stop{\kf77} it
+Dialogue: 0,0:01:24.13,0:01:27.36,DEFAULT,,0,0,0,,{\r}{\kf40}And{\kf48} you{\kf81}~{\kf40} won't{\kf32} stop{\kf82} it
+Dialogue: 0,0:01:27.98,0:01:30.92,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf31} wish{\kf23} that{\kf23} my{\kf31} friends{\kf31} could{\kf23} have{\kf31} known{\kf78}~
+Dialogue: 0,0:01:31.38,0:01:34.94,DEFAULT,,0,0,0,,{\r}{\kf24}That{\kf24} I{\kf40} used{\kf40} to{\kf40} cry{\kf40} 'cause{\kf24} I{\kf24} was{\kf24} a{\kf77}lone
+Dialogue: 0,0:01:36.75,0:01:39.13,DEFAULT,,0,0,0,,{\r}{\kf24}No{\kf32} hard{\kf32} feel{\kf32}ings{\kf24} to{\kf32} Po{\kf32}ny{\kf30}ville
+Dialogue: 0,0:01:39.36,0:01:40.88,DEFAULT,,0,0,0,,{\r}{\kf26}The{\kf26} place{\kf26} where{\kf26} I{\kf26} can{\kf23} chill
+Dialogue: 0,0:01:41.11,0:01:43.26,DEFAULT,,0,0,0,,{\r}{\kf26}But{\kf26} al{\kf26}so{\kf26} where{\kf26} life{\kf43} stands{\kf42} still
+Dialogue: 0,0:01:43.94,0:01:46.60,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf25} need{\kf25} to{\kf25} stop{\kf33} think{\kf25}ing{\kf33} who{\kf33} I{\kf25} should{\kf17} be
+Dialogue: 0,0:01:46.83,0:01:50.45,DEFAULT,,0,0,0,,{\r}{\kf26}I'm{\kf26} ge{\kf26}ne{\kf34}ro{\kf26}si{\kf26}ty,{\kf26} but{\kf26} I{\kf26} need{\kf43} care{\kf26} for{\kf51} me
+Dialogue: 0,0:01:50.73,0:01:54.19,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf28} I{\kf28} wait{\kf28} for{\kf28} the{\kf37} day{\kf28} when{\kf28} I{\kf28} say{\kf28} I{\kf37} need{\kf19} stray
+Dialogue: 0,0:01:54.41,0:01:57.87,DEFAULT,,0,0,0,,{\r}{\kf25}A{\kf33}way{\kf25} from{\kf25} my{\kf33} life{\kf33} as{\kf25} of{\kf33} now;{\kf41} it's{\kf33} child's{\kf25}~{\kf14} play
+Dialogue: 0,0:01:58.09,0:02:01.43,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf27} my{\kf36} friends{\kf27} have{\kf27} been{\kf36} friends{\kf27} from{\kf36} the{\kf27} start{\kf27} to{\kf27} the{\kf19} end
+Dialogue: 0,0:02:01.66,0:02:05.56,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} hope{\kf33} when{\kf24} I{\kf24} leave,{\kf33} if{\kf24} I{\kf33} leave,{\kf24} that{\kf24} my{\kf24} heart{\kf33} ex{\kf67}tends
+Dialogue: 0,0:02:05.96,0:02:15.30,DEFAULT,,0,0,0,,{\r}{\kf31}It's{\kf625} love{\kf49}~{\kf229}~
+Dialogue: 0,0:02:15.70,0:02:18.24,DEFAULT,,0,0,0,,{\r}{\kf255}(yeah)
+Dialogue: 0,0:02:20.45,0:02:23.73,DEFAULT,,0,0,0,,{\r}{\kf37}And{\kf52} I{\kf82}~{\kf45} can't{\kf30} stop{\kf82} it
+Dialogue: 0,0:02:24.13,0:02:27.47,DEFAULT,,0,0,0,,{\r}{\kf38}And{\kf53} you{\kf84}~{\kf38} won't{\kf30} stop{\kf91} it
+Dialogue: 0,0:02:27.98,0:02:30.98,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf33} wish{\kf25} that{\kf25} my{\kf33} friends{\kf25} could{\kf25} have{\kf33} known{\kf76}~
+Dialogue: 0,0:02:31.43,0:02:34.83,DEFAULT,,0,0,0,,{\r}{\kf26}That{\kf26} I{\kf42} used{\kf34} to{\kf42} cry{\kf42} 'cause{\kf26} I{\kf26} was{\kf26} a{\kf50}lone
+Dialogue: 0,0:02:38.85,0:02:42.41,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf41} used{\kf32} to{\kf41} cry{\kf41} 'cause{\kf24} I{\kf24} was{\kf24} a{\kf106}lone
+Dialogue: 0,0:02:46.15,0:02:48.53,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf40} used{\kf40} to{\kf40} cry{\kf40} 'cause{\kf48} I
+Dialogue: 0,0:02:49.60,0:02:52.71,DEFAULT,,0,0,0,,{\r}{\kf39}And{\kf47} I{\kf86}~{\kf47} can't{\kf31} stop{\kf61} it
+Dialogue: 0,0:02:53.22,0:02:56.45,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf53} you{\kf98}~{\kf38} won't{\kf30} stop{\kf74} it
+Dialogue: 0,0:02:57.07,0:03:00.02,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf32} wish{\kf24} that{\kf24} my{\kf32} friends{\kf24} would{\kf24} have{\kf32} known{\kf78}~
+Dialogue: 0,0:03:00.47,0:03:05.45,DEFAULT,,0,0,0,,{\r}{\kf22}That{\kf29} I{\kf29} used{\kf37} to{\kf37} cry{\kf22} when{\kf22} I{\kf22} was{\kf22} a{\kf256}lone
+Dialogue: 0,0:03:05.96,0:03:09.24,DEFAULT,,0,0,0,,{\r}{\kf21}When{\kf21} I{\kf29} was{\kf21} a{\kf143}lone{\kf29}~{\kf21}~{\kf43}~
+Dialogue: 0,0:03:09.58,0:03:12.70,DEFAULT,,0,0,0,,{\r}{\kf20}When{\kf20} I{\kf26} was{\kf20} a{\kf33}lone{\kf79}~{\kf113}~
+Dialogue: 0,0:03:14.11,0:03:18.81,DEFAULT,,0,0,0,,{\r}{\kf470}Yeah

@@ -1,58 +1,65 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Rainbow
+Artist: My Little Pony - The Movie, Sia
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:06.15,0:00:11.10,DEFAULT,,0,0,0,,{\kf41}I{\kf37} know{\kf46} you,{\kf28} you're{\kf19} a{\kf37} spe{\kf19}~{\kf37}cial{\kf50} one
-Dialogue: 0,0:00:12.01,0:00:16.74,DEFAULT,,0,0,0,,{\kf41}Some{\kf19} see{\kf23}~{\kf32} cra{\kf37}zy,{\kf23} where{\kf41} I{\kf32} see{\kf23} love{\kf46}~
-Dialogue: 0,0:00:17.83,0:00:22.74,DEFAULT,,0,0,0,,{\kf46}You{\kf60} fall{\kf37} so{\kf41} low{\kf19} but{\kf19} shoot{\kf19}~{\kf19}~{\kf32} so{\kf50} high{\kf23}~
-Dialogue: 0,0:00:23.69,0:00:28.56,DEFAULT,,0,0,0,,{\kf46}Big{\kf69} dream{\kf55}ers{\kf28} shoot{\kf28} for{\kf19} o{\kf14}~{\kf10}~{\kf28}pen{\kf78} sky
-Dialogue: 0,0:00:29.51,0:00:34.69,DEFAULT,,0,0,0,,{\kf28}So{\kf23}~{\kf50} much{\kf37} life{\kf14}~{\kf23} in{\kf55} those{\kf55} o{\kf28}pen{\kf60} eyes{\kf14}~
-Dialogue: 0,0:00:35.38,0:00:40.60,DEFAULT,,0,0,0,,{\kf41}So{\kf14}~{\kf37} much{\kf14}~{\kf37} depth{\kf19}~,{\kf19} you{\kf55} look{\kf37} for{\kf28}~{\kf19} the{\kf41} light{\kf46}~
-Dialogue: 0,0:00:41.24,0:00:46.10,DEFAULT,,0,0,0,,{\kf41}When{\kf46} your{\kf60} wounds{\kf23} o{\kf37}pen{\kf23}~,{\kf14} you{\kf14}~{\kf19}~{\kf28} will{\kf50} cry{\kf28}~
-Dialogue: 0,0:00:46.92,0:00:52.24,DEFAULT,,0,0,0,,{\kf19}You’ll{\kf28} cry{\kf41} out{\kf37} now{\kf19}~{\kf55} and{\kf32} you’ll{\kf50} quest{\kf46}ion{\kf46} why{\kf28}~
-Dialogue: 0,0:00:54.38,0:00:56.56,DEFAULT,,0,0,0,,{\kf19}I{\kf19} can{\kf14} see{\kf14} a{\kf32} rain{\kf69}bow{\kf23}~
-Dialogue: 0,0:00:56.79,0:00:59.29,DEFAULT,,0,0,0,,{\kf14}In{\kf14} your{\kf19} tears{\kf14} as{\kf14} they{\kf19} fall{\kf19} on{\kf64} down
-Dialogue: 0,0:01:00.24,0:01:02.42,DEFAULT,,0,0,0,,{\kf14}I{\kf14} can{\kf14} see{\kf19} your{\kf14} soul{\kf14}~{\kf28} grow{\kf69}~
-Dialogue: 0,0:01:02.65,0:01:05.10,DEFAULT,,0,0,0,,{\kf14}Through{\kf14} the{\kf23} pain{\kf19} as{\kf14} they{\kf23} hit{\kf14} the{\kf73} ground
-Dialogue: 0,0:01:06.15,0:01:08.19,DEFAULT,,0,0,0,,{\kf14}I{\kf14} can{\kf14} see{\kf14} a{\kf32} rain{\kf64}bow{\kf23}~
-Dialogue: 0,0:01:08.47,0:01:11.74,DEFAULT,,0,0,0,,{\kf19}In{\kf14} your{\kf28} tears{\kf14} as{\kf14} the{\kf28} sun{\kf23} comes{\kf132} out
-Dialogue: 0,0:01:12.06,0:01:16.15,DEFAULT,,0,0,0,,{\kf23}As{\kf19} the{\kf37} sun{\kf41} comes{\kf32} out{\kf19}~{\kf46}~{\kf19}~{\kf137}~
-Dialogue: 0,0:01:16.38,0:01:21.69,DEFAULT,,0,0,0,,{\kf46}I{\kf46} am{\kf46} here{\kf28} and{\kf28} I{\kf37} see{\kf32}~{\kf23} your{\kf32}~{\kf55} pain
-Dialogue: 0,0:01:22.19,0:01:27.29,DEFAULT,,0,0,0,,{\kf50}Through{\kf50} the{\kf46} storms,{\kf37} through{\kf23} the{\kf37} clouds{\kf19}~,{\kf37} the{\kf19}~{\kf69} rain
-Dialogue: 0,0:01:28.10,0:01:33.06,DEFAULT,,0,0,0,,{\kf37}I’m{\kf50} tel{\kf23}ling{\kf41} you,{\kf32} you{\kf28} can{\kf32} now{\kf14}~{\kf14}~{\kf46} es{\kf50}cape{\kf19}~
-Dialogue: 0,0:01:33.92,0:01:39.15,DEFAULT,,0,0,0,,{\kf46}You{\kf64} can{\kf23} do{\kf23}~{\kf28} it,{\kf28} just{\kf41} feel{\kf14}~{\kf37} ba{\kf19}~{\kf41}by{\kf19}~{\kf19}~
-Dialogue: 0,0:01:41.19,0:01:43.38,DEFAULT,,0,0,0,,{\kf19}I{\kf19} can{\kf14} see{\kf14} a{\kf28} rain{\kf69}bow{\kf23}~
-Dialogue: 0,0:01:43.60,0:01:46.24,DEFAULT,,0,0,0,,{\kf19}In{\kf14} your{\kf23} tears{\kf14} as{\kf19} they{\kf23} fall{\kf28} on{\kf73} down
-Dialogue: 0,0:01:47.06,0:01:49.10,DEFAULT,,0,0,0,,{\kf14}I{\kf19} can{\kf14} see{\kf19} your{\kf10} soul{\kf14}~{\kf28} grow{\kf50}~
-Dialogue: 0,0:01:49.47,0:01:51.92,DEFAULT,,0,0,0,,{\kf14}Through{\kf14} the{\kf23} pain{\kf14} as{\kf19} they{\kf23} hit{\kf14} the{\kf73} ground
-Dialogue: 0,0:01:52.92,0:01:54.97,DEFAULT,,0,0,0,,{\kf14}I{\kf14} can{\kf14} see{\kf14} a{\kf14} rain{\kf14}~{\kf60}bow{\kf23}~
-Dialogue: 0,0:01:55.29,0:01:58.56,DEFAULT,,0,0,0,,{\kf14}In{\kf14} your{\kf28} tears{\kf14} as{\kf14} the{\kf23} sun{\kf14} comes{\kf14}~{\kf132} out
-Dialogue: 0,0:01:58.97,0:02:03.06,DEFAULT,,0,0,0,,{\kf19}As{\kf14} the{\kf14} sun{\kf19}~{\kf32} comes{\kf41} out{\kf19}~{\kf41}~{\kf19}~{\kf119}~{\kf23}~
-Dialogue: 0,0:02:05.01,0:02:07.29,DEFAULT,,0,0,0,,{\kf28}Here{\kf28} comes{\kf14} the{\kf55} sun{\kf14}~{\kf37}~
-Dialogue: 0,0:02:07.60,0:02:10.15,DEFAULT,,0,0,0,,{\kf60}Smil{\kf55}ing{\kf55} down{\kf41}~
-Dialogue: 0,0:02:10.83,0:02:13.10,DEFAULT,,0,0,0,,{\kf32}Here{\kf46} comes{\kf14} the{\kf55} sun{\kf14}~{\kf32}~
-Dialogue: 0,0:02:13.47,0:02:16.10,DEFAULT,,0,0,0,,{\kf55}Smil{\kf60}ing{\kf82} down{\kf28}~
-Dialogue: 0,0:02:16.74,0:02:18.88,DEFAULT,,0,0,0,,{\kf28}Here{\kf46} comes{\kf19} the{\kf64} sun{\kf23}~
-Dialogue: 0,0:02:19.29,0:02:21.69,DEFAULT,,0,0,0,,{\kf69}Smil{\kf50}ing{\kf91} down
-Dialogue: 0,0:02:22.19,0:02:24.88,DEFAULT,,0,0,0,,{\kf60}Smil{\kf60}ing{\kf69} down{\kf37}~
-Dialogue: 0,0:02:28.10,0:02:30.24,DEFAULT,,0,0,0,,{\kf14}I{\kf19} can{\kf14} see{\kf14} a{\kf14} rain{\kf14}~{\kf69}bow{\kf28}~
-Dialogue: 0,0:02:30.47,0:02:33.19,DEFAULT,,0,0,0,,{\kf14}In{\kf14} your{\kf10} tears{\kf10}~{\kf14} as{\kf14} they{\kf23} fall{\kf28} on{\kf87} down
-Dialogue: 0,0:02:33.92,0:02:36.01,DEFAULT,,0,0,0,,{\kf14}I{\kf14} can{\kf14} see{\kf14} your{\kf28} soul{\kf37} grow{\kf32}~{\kf19}~
-Dialogue: 0,0:02:36.33,0:02:39.01,DEFAULT,,0,0,0,,{\kf14}Through{\kf14} the{\kf37} pain{\kf10} as{\kf19} they{\kf28} hit{\kf10} the{\kf55} ground{\kf14}~{\kf19}~
-Dialogue: 0,0:02:39.79,0:02:41.83,DEFAULT,,0,0,0,,{\kf14}I{\kf14} can{\kf14} see{\kf14} a{\kf19} rain{\kf14}~{\kf55}bow{\kf10}~{\kf14}~
-Dialogue: 0,0:02:42.15,0:02:45.47,DEFAULT,,0,0,0,,{\kf14}In{\kf14} your{\kf28} tears{\kf14} as{\kf14} the{\kf28} sun{\kf19} comes{\kf10}~{\kf141} out
-Dialogue: 0,0:02:45.79,0:02:50.01,DEFAULT,,0,0,0,,{\kf14}As{\kf19} the{\kf14} sun{\kf14}~{\kf19} comes{\kf14}~{\kf37} out{\kf14}~{\kf55}~{\kf14}~{\kf114}~{\kf32}~
-Dialogue: 0,0:02:51.51,0:02:53.65,DEFAULT,,0,0,0,,{\kf14}I{\kf14} can{\kf14} see{\kf14} a{\kf19} rain{\kf10}~{\kf69}bow{\kf23}~
-Dialogue: 0,0:02:53.88,0:02:56.56,DEFAULT,,0,0,0,,{\kf14}In{\kf14} your{\kf10} tears{\kf14}~{\kf10} as{\kf14} they{\kf28} fall{\kf28} on{\kf82} down
-Dialogue: 0,0:02:57.33,0:02:59.47,DEFAULT,,0,0,0,,{\kf14}I{\kf14} can{\kf14} see{\kf14} your{\kf14} soul{\kf14}~{\kf28} grow{\kf37}~{\kf19}~
-Dialogue: 0,0:02:59.74,0:03:02.24,DEFAULT,,0,0,0,,{\kf14}Through{\kf14} the{\kf28} pain{\kf19} as{\kf19} they{\kf23} hit{\kf14} the{\kf82} ground
-Dialogue: 0,0:03:03.19,0:03:05.33,DEFAULT,,0,0,0,,{\kf14}I{\kf14} can{\kf14} see{\kf14} a{\kf19} rain{\kf14}~{\kf69}bow{\kf28}~
-Dialogue: 0,0:03:05.60,0:03:08.65,DEFAULT,,0,0,0,,{\kf14}In{\kf14} your{\kf19} tears{\kf14} as{\kf14} the{\kf28} sun{\kf23} comes{\kf114} out
-Dialogue: 0,0:03:09.29,0:03:13.33,DEFAULT,,0,0,0,,{\kf14}As{\kf14} the{\kf32} sun{\kf37} comes{\kf32} out{\kf19}~{\kf50}~{\kf19}~{\kf114}~{\kf28}~
+Dialogue: 0,0:00:06.15,0:00:11.11,DEFAULT,,0,0,0,,{\r}{\kf66}I{\kf58} know{\kf73} you,{\kf44} you're{\kf29} a{\kf58} spe{\kf29}~{\kf58}cial{\kf80} one
+Dialogue: 0,0:00:12.02,0:00:16.74,DEFAULT,,0,0,0,,{\r}{\kf62}Some{\kf27} see{\kf34}~{\kf48} cra{\kf55}zy,{\kf34} where{\kf62} I{\kf48} see{\kf34} love{\kf69}~
+Dialogue: 0,0:00:17.84,0:00:22.74,DEFAULT,,0,0,0,,{\r}{\kf62}You{\kf81} fall{\kf50} so{\kf56} low{\kf25} but{\kf25} shoot{\kf25}~{\kf25}~{\kf44} so{\kf68} high{\kf30}~
+Dialogue: 0,0:00:23.70,0:00:28.56,DEFAULT,,0,0,0,,{\r}{\kf60}Big{\kf90} dream{\kf72}ers{\kf36} shoot{\kf36} for{\kf24} o{\kf18}~{\kf12}~{\kf36}pen{\kf102} sky
+Dialogue: 0,0:00:29.52,0:00:34.70,DEFAULT,,0,0,0,,{\r}{\kf37}So{\kf31}~{\kf68} much{\kf49} life{\kf18}~{\kf31} in{\kf74} those{\kf74} o{\kf37}pen{\kf80} eyes{\kf19}~
+Dialogue: 0,0:00:35.38,0:00:40.61,DEFAULT,,0,0,0,,{\r}{\kf53}So{\kf18}~{\kf48} much{\kf18}~{\kf48} depth{\kf24}~,{\kf24} you{\kf71} look{\kf48} for{\kf36}~{\kf24} the{\kf53} light{\kf58}~
+Dialogue: 0,0:00:41.24,0:00:46.11,DEFAULT,,0,0,0,,{\r}{\kf53}When{\kf59} your{\kf76} wounds{\kf29} o{\kf47}pen{\kf29}~,{\kf18} you{\kf18}~{\kf23}~{\kf35} will{\kf64} cry{\kf35}~
+Dialogue: 0,0:00:46.93,0:00:52.24,DEFAULT,,0,0,0,,{\r}{\kf24}You’ll{\kf37} cry{\kf55} out{\kf49} now{\kf24}~{\kf73} and{\kf43} you’ll{\kf67} quest{\kf61}ion{\kf61} why{\kf38}~
+Dialogue: 0,0:00:54.38,0:00:56.56,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21} can{\kf16} see{\kf16} a{\kf37} rain{\kf80}bow{\kf27}~
+Dialogue: 0,0:00:56.79,0:00:59.29,DEFAULT,,0,0,0,,{\r}{\kf20}In{\kf20} your{\kf26} tears{\kf20} as{\kf20} they{\kf26} fall{\kf26} on{\kf92} down
+Dialogue: 0,0:01:00.24,0:01:02.43,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} can{\kf16} see{\kf22} your{\kf16} soul{\kf16}~{\kf33} grow{\kf83}~
+Dialogue: 0,0:01:02.65,0:01:05.11,DEFAULT,,0,0,0,,{\r}{\kf18}Through{\kf18} the{\kf29} pain{\kf23} as{\kf18} they{\kf29} hit{\kf18} the{\kf92} ground
+Dialogue: 0,0:01:06.15,0:01:08.20,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} can{\kf16} see{\kf16} a{\kf38} rain{\kf76}bow{\kf27}~
+Dialogue: 0,0:01:08.47,0:01:11.74,DEFAULT,,0,0,0,,{\r}{\kf22}In{\kf17} your{\kf33} tears{\kf17} as{\kf17} the{\kf33} sun{\kf28} comes{\kf160} out
+Dialogue: 0,0:01:12.06,0:01:16.15,DEFAULT,,0,0,0,,{\r}{\kf25}As{\kf20} the{\kf40} sun{\kf45} comes{\kf35} out{\kf20}~{\kf50}~{\kf20}~{\kf154}~
+Dialogue: 0,0:01:16.38,0:01:21.70,DEFAULT,,0,0,0,,{\r}{\kf66}I{\kf66} am{\kf66} here{\kf39} and{\kf39} I{\kf53} see{\kf46}~{\kf33} your{\kf46}~{\kf78} pain
+Dialogue: 0,0:01:22.20,0:01:27.29,DEFAULT,,0,0,0,,{\r}{\kf67}Through{\kf67} the{\kf61} storms,{\kf48} through{\kf30} the{\kf48} clouds{\kf24}~,{\kf48} the{\kf24}~{\kf92} rain
+Dialogue: 0,0:01:28.11,0:01:33.06,DEFAULT,,0,0,0,,{\r}{\kf47}I’m{\kf65} tel{\kf29}ling{\kf53} you,{\kf41} you{\kf35} can{\kf41} now{\kf18}~{\kf18}~{\kf59} es{\kf65}cape{\kf24}~
+Dialogue: 0,0:01:33.93,0:01:39.15,DEFAULT,,0,0,0,,{\r}{\kf60}You{\kf84} can{\kf30} do{\kf30}~{\kf36} it,{\kf36} just{\kf54} feel{\kf18}~{\kf48} ba{\kf24}~{\kf54}by{\kf24}~{\kf25}~
+Dialogue: 0,0:01:41.20,0:01:43.38,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} can{\kf16} see{\kf16} a{\kf33} rain{\kf82}bow{\kf27}~
+Dialogue: 0,0:01:43.61,0:01:46.24,DEFAULT,,0,0,0,,{\r}{\kf23}In{\kf17} your{\kf29} tears{\kf17} as{\kf23} they{\kf29} fall{\kf34} on{\kf92} down
+Dialogue: 0,0:01:47.06,0:01:49.11,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf23} can{\kf17} see{\kf23} your{\kf11} soul{\kf17}~{\kf34} grow{\kf63}~
+Dialogue: 0,0:01:49.47,0:01:51.93,DEFAULT,,0,0,0,,{\r}{\kf18}Through{\kf18} the{\kf29} pain{\kf18} as{\kf23} they{\kf29} hit{\kf18} the{\kf92} ground
+Dialogue: 0,0:01:52.93,0:01:54.97,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf17} can{\kf17} see{\kf17} a{\kf17} rain{\kf17}~{\kf74}bow{\kf29}~
+Dialogue: 0,0:01:55.29,0:01:58.56,DEFAULT,,0,0,0,,{\r}{\kf17}In{\kf17} your{\kf34} tears{\kf17} as{\kf17} the{\kf28} sun{\kf17} comes{\kf17}~{\kf163} out
+Dialogue: 0,0:01:58.97,0:02:03.06,DEFAULT,,0,0,0,,{\r}{\kf21}As{\kf16} the{\kf16} sun{\kf21}~{\kf37} comes{\kf47} out{\kf21}~{\kf47}~{\kf21}~{\kf136}~{\kf26}~
+Dialogue: 0,0:02:05.02,0:02:07.29,DEFAULT,,0,0,0,,{\r}{\kf36}Here{\kf36} comes{\kf18} the{\kf72} sun{\kf18}~{\kf47}~
+Dialogue: 0,0:02:07.61,0:02:10.15,DEFAULT,,0,0,0,,{\r}{\kf72}Smil{\kf67}ing{\kf67} down{\kf49}~
+Dialogue: 0,0:02:10.84,0:02:13.11,DEFAULT,,0,0,0,,{\r}{\kf38}Here{\kf54} comes{\kf16} the{\kf65} sun{\kf16}~{\kf38}~
+Dialogue: 0,0:02:13.47,0:02:16.11,DEFAULT,,0,0,0,,{\r}{\kf65}Smil{\kf70}ing{\kf97} down{\kf32}~
+Dialogue: 0,0:02:16.74,0:02:18.88,DEFAULT,,0,0,0,,{\r}{\kf33}Here{\kf55} comes{\kf22} the{\kf77} sun{\kf27}~
+Dialogue: 0,0:02:19.29,0:02:21.70,DEFAULT,,0,0,0,,{\r}{\kf79}Smil{\kf58}ing{\kf104} down
+Dialogue: 0,0:02:22.20,0:02:24.88,DEFAULT,,0,0,0,,{\r}{\kf71}Smil{\kf71}ing{\kf82} down{\kf44}~
+Dialogue: 0,0:02:28.11,0:02:30.24,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf21} can{\kf16} see{\kf16} a{\kf16} rain{\kf16}~{\kf80}bow{\kf33}~
+Dialogue: 0,0:02:30.47,0:02:33.20,DEFAULT,,0,0,0,,{\r}{\kf18}In{\kf18} your{\kf12} tears{\kf12}~{\kf18} as{\kf18} they{\kf30} fall{\kf36} on{\kf111} down
+Dialogue: 0,0:02:33.93,0:02:36.02,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf17} can{\kf17} see{\kf17} your{\kf34} soul{\kf45} grow{\kf40}~{\kf22}~
+Dialogue: 0,0:02:36.34,0:02:39.02,DEFAULT,,0,0,0,,{\r}{\kf17}Through{\kf17} the{\kf46} pain{\kf11} as{\kf23} they{\kf34} hit{\kf11} the{\kf68} ground{\kf17}~{\kf24}~
+Dialogue: 0,0:02:39.79,0:02:41.84,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf17} can{\kf17} see{\kf17} a{\kf23} rain{\kf17}~{\kf68}bow{\kf11}~{\kf18}~
+Dialogue: 0,0:02:42.15,0:02:45.47,DEFAULT,,0,0,0,,{\r}{\kf16}In{\kf16} your{\kf33} tears{\kf16} as{\kf16} the{\kf33} sun{\kf22} comes{\kf11}~{\kf169} out
+Dialogue: 0,0:02:45.79,0:02:50.02,DEFAULT,,0,0,0,,{\r}{\kf16}As{\kf22} the{\kf16} sun{\kf16}~{\kf22} comes{\kf16}~{\kf43} out{\kf16}~{\kf65}~{\kf16}~{\kf136}~{\kf39}~
+Dialogue: 0,0:02:51.52,0:02:53.65,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf17} can{\kf17} see{\kf17} a{\kf23} rain{\kf11}~{\kf84}bow{\kf28}~
+Dialogue: 0,0:02:53.88,0:02:56.56,DEFAULT,,0,0,0,,{\r}{\kf17}In{\kf17} your{\kf12} tears{\kf17}~{\kf12} as{\kf17} they{\kf35} fall{\kf35} on{\kf106} down
+Dialogue: 0,0:02:57.34,0:02:59.47,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf18} can{\kf18} see{\kf18} your{\kf18} soul{\kf18}~{\kf36} grow{\kf48}~{\kf22}~
+Dialogue: 0,0:02:59.74,0:03:02.24,DEFAULT,,0,0,0,,{\r}{\kf16}Through{\kf16} the{\kf33} pain{\kf22} as{\kf22} they{\kf27} hit{\kf16} the{\kf98} ground
+Dialogue: 0,0:03:03.20,0:03:05.34,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} can{\kf16} see{\kf16} a{\kf21} rain{\kf16}~{\kf80}bow{\kf33}~
+Dialogue: 0,0:03:05.61,0:03:08.65,DEFAULT,,0,0,0,,{\r}{\kf18}In{\kf18} your{\kf23} tears{\kf18} as{\kf18} the{\kf35} sun{\kf29} comes{\kf146} out
+Dialogue: 0,0:03:09.29,0:03:13.34,DEFAULT,,0,0,0,,{\r}{\kf16}As{\kf16} the{\kf36} sun{\kf42} comes{\kf36} out{\kf21}~{\kf57}~{\kf21}~{\kf130}~{\kf30}~

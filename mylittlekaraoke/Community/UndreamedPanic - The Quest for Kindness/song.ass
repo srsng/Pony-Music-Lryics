@@ -1,60 +1,67 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: The Quest For Kindness (ft. Metajoker)
+Artist: UndreamedPanic
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.13,0:00:16.65,DEFAULT,,0,0,0,,{\kf18}I{\kf18} can{\kf206} tell
-Dialogue: 0,0:00:17.88,0:00:20.75,DEFAULT,,0,0,0,,{\kf18}Who{\kf18} you{\kf106} think{\kf18} you{\kf71} are
-Dialogue: 0,0:00:21.40,0:00:24.03,DEFAULT,,0,0,0,,{\kf24}Ask{\kf24} your{\kf188}self
-Dialogue: 0,0:00:25.32,0:00:28.31,DEFAULT,,0,0,0,,{\kf18}How{\kf18} you{\kf94} got{\kf42} this{\kf65} far
-Dialogue: 0,0:00:29.37,0:00:30.71,DEFAULT,,0,0,0,,{\kf18}The{\kf18} words{\kf18} you{\kf18} can{\kf12}not{\kf18} form
-Dialogue: 0,0:00:31.01,0:00:32.41,DEFAULT,,0,0,0,,{\kf30}I'll{\kf18} say{\kf18} them{\kf18} to{\kf18} you
-Dialogue: 0,0:00:32.65,0:00:34.05,DEFAULT,,0,0,0,,{\kf18}The{\kf18} cha{\kf18}os{\kf18} of{\kf18} the{\kf24} storm
-Dialogue: 0,0:00:34.29,0:00:36.10,DEFAULT,,0,0,0,,{\kf30}I{\kf30} will{\kf18} wea{\kf18}ther{\kf18} it{\kf18} too
-Dialogue: 0,0:00:36.40,0:00:39.09,DEFAULT,,0,0,0,,{\kf18}'Cause{\kf18} I{\kf24} am{\kf36} with{\kf24} you{\kf100} now
-Dialogue: 0,0:00:40.15,0:00:43.49,DEFAULT,,0,0,0,,{\kf18}Yeah{\kf18} I{\kf18} am{\kf65} with{\kf59} you{\kf77} now
-Dialogue: 0,0:00:44.60,0:00:50.75,DEFAULT,,0,0,0,,{\kf65}I{\kf65} won't{\kf59} let{\kf65} you{\kf59} lose{\kf59} your{\kf59}self
-Dialogue: 0,0:00:51.16,0:00:57.08,DEFAULT,,0,0,0,,{\kf47}Just{\kf65} let{\kf65} my{\kf71} kind{\kf65}ness{\kf118} through
-Dialogue: 0,0:00:57.73,0:01:06.98,DEFAULT,,0,0,0,,{\kf36}There{\kf24} is{\kf24} good{\kf24} in{\kf762} you
-Dialogue: 0,0:01:30.48,0:01:31.89,DEFAULT,,0,0,0,,{\kf36}See{\kf30} the{\kf42} light
-Dialogue: 0,0:01:32.35,0:01:33.70,DEFAULT,,0,0,0,,{\kf24}Leave{\kf24} the{\kf42} lies
-Dialogue: 0,0:01:34.23,0:01:37.45,DEFAULT,,0,0,0,,{\kf30}You{\kf30} will{\kf36} not{\kf18} be{\kf24}lieve{\kf30} your{\kf24} eyes{\kf36}~
-Dialogue: 0,0:01:37.98,0:01:39.39,DEFAULT,,0,0,0,,{\kf30}As{\kf36} you{\kf18} fall{\kf18}~
-Dialogue: 0,0:01:39.62,0:01:41.20,DEFAULT,,0,0,0,,{\kf30}From{\kf30} the{\kf24} skies{\kf36}~
-Dialogue: 0,0:01:42.02,0:01:44.95,DEFAULT,,0,0,0,,{\kf24}See{\kf24} a{\kf24} mil{\kf18}lion{\kf24} but{\kf24}~{\kf18}ter{\kf65}flies
-Dialogue: 0,0:01:45.54,0:01:48.64,DEFAULT,,0,0,0,,{\kf30}Beat{\kf24}ing{\kf42} wings{\kf30} fill{\kf30} the{\kf24} air{\kf30}~
-Dialogue: 0,0:01:49.35,0:01:52.51,DEFAULT,,0,0,0,,{\kf30}You{\kf30} will{\kf24} find{\kf36} your{\kf30} pur{\kf30}pose{\kf42} there
-Dialogue: 0,0:01:53.04,0:01:54.27,DEFAULT,,0,0,0,,{\kf30}Hold{\kf24} it{\kf30} close
-Dialogue: 0,0:01:54.62,0:01:56.26,DEFAULT,,0,0,0,,{\kf30}E{\kf30}ver{\kf24}more{\kf42}~
-Dialogue: 0,0:01:57.02,0:02:01.12,DEFAULT,,0,0,0,,{\kf24}This{\kf24} is{\kf24} what{\kf24} my{\kf18} life{\kf24}~{\kf36} was{\kf147} for
-Dialogue: 0,0:02:14.19,0:02:17.18,DEFAULT,,0,0,0,,{\kf18}Here{\kf18} we{\kf247} are
-Dialogue: 0,0:02:17.88,0:02:20.40,DEFAULT,,0,0,0,,{\kf18}On{\kf18} the{\kf124} pre{\kf18}ci{\kf36}pice
-Dialogue: 0,0:02:21.40,0:02:23.68,DEFAULT,,0,0,0,,{\kf18}At{\kf18} the{\kf176} start
-Dialogue: 0,0:02:25.15,0:02:27.84,DEFAULT,,0,0,0,,{\kf18}Of{\kf18} the{\kf141} end{\kf18} of{\kf36} this
-Dialogue: 0,0:02:28.96,0:02:31.77,DEFAULT,,0,0,0,,{\kf18}All{\kf12} the{\kf176} pain{\kf53}~
-Dialogue: 0,0:02:32.65,0:02:35.52,DEFAULT,,0,0,0,,{\kf18}That{\kf30} you've{\kf88} e{\kf71}ver{\kf30} known
-Dialogue: 0,0:02:36.34,0:02:39.39,DEFAULT,,0,0,0,,{\kf24}You're{\kf24} a{\kf182}fraid{\kf42}~
-Dialogue: 0,0:02:40.15,0:02:43.08,DEFAULT,,0,0,0,,{\kf18}But{\kf24} you're{\kf118} not{\kf18} a{\kf59}lone
-Dialogue: 0,0:02:44.60,0:02:50.81,DEFAULT,,0,0,0,,{\kf71}All{\kf59} the{\kf71} fears{\kf65} you{\kf71} can't{\kf77} ex{\kf59}plain
-Dialogue: 0,0:02:51.16,0:02:57.20,DEFAULT,,0,0,0,,{\kf42}Are{\kf71} fad{\kf65}ing{\kf71} out{\kf71} of{\kf129} view
-Dialogue: 0,0:02:57.67,0:03:07.04,DEFAULT,,0,0,0,,{\kf30}There{\kf24} is{\kf24} good{\kf24} in{\kf768} you
-Dialogue: 0,0:03:13.72,0:03:16.83,DEFAULT,,0,0,0,,{\kf24}Aah{\kf30} oh{\kf135} oh{\kf59} oh
-Dialogue: 0,0:03:17.47,0:03:20.52,DEFAULT,,0,0,0,,{\kf24}Aah{\kf24} oh{\kf112} oh{\kf12} oh{\kf12} oh{\kf59} oh
-Dialogue: 0,0:03:21.28,0:03:27.84,DEFAULT,,0,0,0,,{\kf24}Aah{\kf30} oh{\kf141} oh{\kf83} oh{\kf18} oh{\kf24} oh{\kf30} oh{\kf217} oh
-Dialogue: 0,0:03:30.48,0:03:31.89,DEFAULT,,0,0,0,,{\kf36}See{\kf30} the{\kf42} light
-Dialogue: 0,0:03:32.35,0:03:33.70,DEFAULT,,0,0,0,,{\kf24}Leave{\kf24} the{\kf42} lies
-Dialogue: 0,0:03:34.23,0:03:37.45,DEFAULT,,0,0,0,,{\kf30}You{\kf30} will{\kf36} not{\kf18} be{\kf24}lieve{\kf30} your{\kf24} eyes{\kf36}~
-Dialogue: 0,0:03:37.98,0:03:39.39,DEFAULT,,0,0,0,,{\kf30}As{\kf36} you{\kf18} fall{\kf18}~
-Dialogue: 0,0:03:39.62,0:03:41.20,DEFAULT,,0,0,0,,{\kf30}From{\kf30} the{\kf24} skies{\kf36}~
-Dialogue: 0,0:03:42.02,0:03:44.95,DEFAULT,,0,0,0,,{\kf24}See{\kf24} a{\kf24} mil{\kf18}lion{\kf24} but{\kf24}~{\kf18}ter{\kf65}flies
-Dialogue: 0,0:03:45.54,0:03:48.64,DEFAULT,,0,0,0,,{\kf30}Beat{\kf24}ing{\kf42} wings{\kf30} fill{\kf30} the{\kf24} air{\kf30}~
-Dialogue: 0,0:03:49.35,0:03:52.51,DEFAULT,,0,0,0,,{\kf30}You{\kf30} will{\kf24} find{\kf36} your{\kf30} pur{\kf30}pose{\kf42} there
-Dialogue: 0,0:03:52.80,0:03:54.03,DEFAULT,,0,0,0,,{\kf30}Hold{\kf24} it{\kf30} close
-Dialogue: 0,0:03:54.62,0:03:56.26,DEFAULT,,0,0,0,,{\kf30}E{\kf30}ver{\kf24}more{\kf42}~
-Dialogue: 0,0:03:57.02,0:04:01.12,DEFAULT,,0,0,0,,{\kf24}This{\kf24} is{\kf24} what{\kf24} your{\kf18} life{\kf24}~{\kf36} was{\kf147} for
+Dialogue: 0,0:00:14.14,0:00:16.66,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf18} can{\kf216} tell
+Dialogue: 0,0:00:17.89,0:00:20.76,DEFAULT,,0,0,0,,{\r}{\kf22}Who{\kf22} you{\kf132} think{\kf22} you{\kf89} are
+Dialogue: 0,0:00:21.40,0:00:24.04,DEFAULT,,0,0,0,,{\r}{\kf26}Ask{\kf26} your{\kf212}self
+Dialogue: 0,0:00:25.33,0:00:28.32,DEFAULT,,0,0,0,,{\r}{\kf22}How{\kf22} you{\kf120} got{\kf52} this{\kf83} far
+Dialogue: 0,0:00:29.37,0:00:30.72,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf24} words{\kf24} you{\kf24} can{\kf16}not{\kf23} form
+Dialogue: 0,0:00:31.01,0:00:32.42,DEFAULT,,0,0,0,,{\r}{\kf41}I'll{\kf25} say{\kf25} them{\kf25} to{\kf25} you
+Dialogue: 0,0:00:32.65,0:00:34.06,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf22} cha{\kf22}os{\kf22} of{\kf22} the{\kf31} storm
+Dialogue: 0,0:00:34.29,0:00:36.11,DEFAULT,,0,0,0,,{\r}{\kf41}I{\kf41} will{\kf25} wea{\kf25}ther{\kf25} it{\kf25} too
+Dialogue: 0,0:00:36.40,0:00:39.10,DEFAULT,,0,0,0,,{\r}{\kf22}'Cause{\kf22} I{\kf29} am{\kf44} with{\kf29} you{\kf124} now
+Dialogue: 0,0:00:40.15,0:00:43.49,DEFAULT,,0,0,0,,{\r}{\kf23}Yeah{\kf23} I{\kf23} am{\kf85} with{\kf78} you{\kf102} now
+Dialogue: 0,0:00:44.61,0:00:50.76,DEFAULT,,0,0,0,,{\r}{\kf93}I{\kf93} won't{\kf84} let{\kf93} you{\kf84} lose{\kf84} your{\kf84}self
+Dialogue: 0,0:00:51.17,0:00:57.09,DEFAULT,,0,0,0,,{\r}{\kf65}Just{\kf89} let{\kf89} my{\kf97} kind{\kf89}ness{\kf163} through
+Dialogue: 0,0:00:57.73,0:01:06.99,DEFAULT,,0,0,0,,{\r}{\kf38}There{\kf25} is{\kf25} good{\kf25} in{\kf813} you
+Dialogue: 0,0:01:30.48,0:01:31.89,DEFAULT,,0,0,0,,{\r}{\kf47}See{\kf39} the{\kf55} light
+Dialogue: 0,0:01:32.36,0:01:33.71,DEFAULT,,0,0,0,,{\r}{\kf36}Leave{\kf36} the{\kf63} lies
+Dialogue: 0,0:01:34.23,0:01:37.46,DEFAULT,,0,0,0,,{\r}{\kf42}You{\kf42} will{\kf51} not{\kf25} be{\kf34}lieve{\kf42} your{\kf34} eyes{\kf52}~
+Dialogue: 0,0:01:37.98,0:01:39.39,DEFAULT,,0,0,0,,{\r}{\kf41}As{\kf50} you{\kf25} fall{\kf25}~
+Dialogue: 0,0:01:39.63,0:01:41.21,DEFAULT,,0,0,0,,{\r}{\kf40}From{\kf40} the{\kf32} skies{\kf46}~
+Dialogue: 0,0:01:42.03,0:01:44.96,DEFAULT,,0,0,0,,{\r}{\kf32}See{\kf32} a{\kf32} mil{\kf24}lion{\kf32} but{\kf32}~{\kf24}ter{\kf85}flies
+Dialogue: 0,0:01:45.54,0:01:48.65,DEFAULT,,0,0,0,,{\r}{\kf44}Beat{\kf36}ing{\kf62} wings{\kf44} fill{\kf44} the{\kf36} air{\kf45}~
+Dialogue: 0,0:01:49.35,0:01:52.52,DEFAULT,,0,0,0,,{\r}{\kf43}You{\kf43} will{\kf34} find{\kf51} your{\kf43} pur{\kf43}pose{\kf59} there
+Dialogue: 0,0:01:53.04,0:01:54.27,DEFAULT,,0,0,0,,{\r}{\kf44}Hold{\kf35} it{\kf44} close
+Dialogue: 0,0:01:54.63,0:01:56.27,DEFAULT,,0,0,0,,{\r}{\kf39}E{\kf39}ver{\kf31}more{\kf55}~
+Dialogue: 0,0:01:57.03,0:02:01.13,DEFAULT,,0,0,0,,{\r}{\kf30}This{\kf30} is{\kf30} what{\kf30} my{\kf23} life{\kf30}~{\kf46} was{\kf191} for
+Dialogue: 0,0:02:14.20,0:02:17.18,DEFAULT,,0,0,0,,{\r}{\kf19}Here{\kf19} we{\kf261} are
+Dialogue: 0,0:02:17.89,0:02:20.41,DEFAULT,,0,0,0,,{\r}{\kf21}On{\kf21} the{\kf147} pre{\kf21}ci{\kf42}pice
+Dialogue: 0,0:02:21.40,0:02:23.69,DEFAULT,,0,0,0,,{\r}{\kf19}At{\kf19} the{\kf191} start
+Dialogue: 0,0:02:25.15,0:02:27.85,DEFAULT,,0,0,0,,{\r}{\kf21}Of{\kf21} the{\kf166} end{\kf21} of{\kf41} this
+Dialogue: 0,0:02:28.96,0:02:31.77,DEFAULT,,0,0,0,,{\r}{\kf19}All{\kf13} the{\kf192} pain{\kf57}~
+Dialogue: 0,0:02:32.65,0:02:35.52,DEFAULT,,0,0,0,,{\r}{\kf22}That{\kf36} you've{\kf108} e{\kf86}ver{\kf35} known
+Dialogue: 0,0:02:36.34,0:02:39.39,DEFAULT,,0,0,0,,{\r}{\kf27}You're{\kf27} a{\kf206}fraid{\kf45}~
+Dialogue: 0,0:02:40.15,0:02:43.08,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf29} you're{\kf146} not{\kf22} a{\kf74}lone
+Dialogue: 0,0:02:44.61,0:02:50.82,DEFAULT,,0,0,0,,{\r}{\kf93}All{\kf78} the{\kf93} fears{\kf85} you{\kf93} can't{\kf101} ex{\kf78}plain
+Dialogue: 0,0:02:51.17,0:02:57.20,DEFAULT,,0,0,0,,{\r}{\kf56}Are{\kf95} fad{\kf87}ing{\kf95} out{\kf95} of{\kf176} view
+Dialogue: 0,0:02:57.67,0:03:07.05,DEFAULT,,0,0,0,,{\r}{\kf32}There{\kf25} is{\kf25} good{\kf25} in{\kf831} you
+Dialogue: 0,0:03:13.73,0:03:16.83,DEFAULT,,0,0,0,,{\r}{\kf30}Aah{\kf37} oh{\kf170} oh{\kf74} oh
+Dialogue: 0,0:03:17.48,0:03:20.52,DEFAULT,,0,0,0,,{\r}{\kf30}Aah{\kf30} oh{\kf141} oh{\kf15} oh{\kf15} oh{\kf74} oh
+Dialogue: 0,0:03:21.29,0:03:27.85,DEFAULT,,0,0,0,,{\r}{\kf27}Aah{\kf34} oh{\kf164} oh{\kf96} oh{\kf20} oh{\kf27} oh{\kf34} oh{\kf254} oh
+Dialogue: 0,0:03:30.48,0:03:31.89,DEFAULT,,0,0,0,,{\r}{\kf47}See{\kf39} the{\kf55} light
+Dialogue: 0,0:03:32.36,0:03:33.71,DEFAULT,,0,0,0,,{\r}{\kf36}Leave{\kf36} the{\kf63} lies
+Dialogue: 0,0:03:34.23,0:03:37.46,DEFAULT,,0,0,0,,{\r}{\kf42}You{\kf42} will{\kf51} not{\kf25} be{\kf34}lieve{\kf42} your{\kf34} eyes{\kf52}~
+Dialogue: 0,0:03:37.98,0:03:39.39,DEFAULT,,0,0,0,,{\r}{\kf41}As{\kf50} you{\kf25} fall{\kf25}~
+Dialogue: 0,0:03:39.63,0:03:41.21,DEFAULT,,0,0,0,,{\r}{\kf40}From{\kf40} the{\kf32} skies{\kf46}~
+Dialogue: 0,0:03:42.03,0:03:44.96,DEFAULT,,0,0,0,,{\r}{\kf32}See{\kf32} a{\kf32} mil{\kf24}lion{\kf32} but{\kf32}~{\kf24}ter{\kf85}flies
+Dialogue: 0,0:03:45.54,0:03:48.65,DEFAULT,,0,0,0,,{\r}{\kf44}Beat{\kf36}ing{\kf62} wings{\kf44} fill{\kf44} the{\kf36} air{\kf45}~
+Dialogue: 0,0:03:49.35,0:03:52.52,DEFAULT,,0,0,0,,{\r}{\kf43}You{\kf43} will{\kf34} find{\kf51} your{\kf43} pur{\kf43}pose{\kf59} there
+Dialogue: 0,0:03:52.81,0:03:54.04,DEFAULT,,0,0,0,,{\r}{\kf44}Hold{\kf35} it{\kf44} close
+Dialogue: 0,0:03:54.63,0:03:56.27,DEFAULT,,0,0,0,,{\r}{\kf39}E{\kf39}ver{\kf31}more{\kf55}~
+Dialogue: 0,0:03:57.03,0:04:01.13,DEFAULT,,0,0,0,,{\r}{\kf30}This{\kf30} is{\kf30} what{\kf30} your{\kf23} life{\kf30}~{\kf46} was{\kf191} for

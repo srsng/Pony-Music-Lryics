@@ -1,23 +1,30 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: MLP Mane Theme
+Artist: Tay Zonday
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.32,0:00:03.65,DEFAULT,,0,0,0,,{\kf20}My{\kf14} Lit{\kf20}tle{\kf20} Po{\kf33}ny,{\kf27} My{\kf20} Lit{\kf20}tle{\kf27} Po{\kf46}ny
-Dialogue: 0,0:00:03.78,0:00:05.60,DEFAULT,,0,0,0,,{\kf40}Ah{\kf46}-ah{\kf33}-ah{\kf40}-ah
-Dialogue: 0,0:00:05.73,0:00:07.82,DEFAULT,,0,0,0,,{\kf46}My{\kf14} Lit{\kf20}tle{\kf20} Po{\kf79}ny
-Dialogue: 0,0:00:08.08,0:00:09.91,DEFAULT,,0,0,0,,{\kf20}I{\kf14} used{\kf7} to{\kf20} won{\kf14}der{\kf20} what{\kf20} friend{\kf20}ship{\kf20} could...
-Dialogue: 0,0:00:10.04,0:00:11.73,DEFAULT,,0,0,0,,{\kf46}My{\kf20} Lit{\kf14}tle{\kf33} Po{\kf40}ny
-Dialogue: 0,0:00:11.86,0:00:14.08,DEFAULT,,0,0,0,,{\kf14}Un{\kf14}til{\kf14} you{\kf20} all{\kf20} shared{\kf20} its{\kf20} ma{\kf14}gic{\kf14} with{\kf20} me
-Dialogue: 0,0:00:14.67,0:00:16.30,DEFAULT,,0,0,0,,{\kf14}Big{\kf14} ad{\kf20}ven{\kf14}tures,{\kf33} tons{\kf14} of{\kf40} fun
-Dialogue: 0,0:00:16.50,0:00:18.58,DEFAULT,,0,0,0,,{\kf7}A{\kf14} beau{\kf7}ti{\kf20}ful{\kf20} heart,{\kf20} faith{\kf14}ful{\kf14} and{\kf46} strong
-Dialogue: 0,0:00:18.71,0:00:20.67,DEFAULT,,0,0,0,,{\kf14} Sha{\kf20}ring{\kf27} kind{\kf14}ness,{\kf7} it's{\kf14} an{\kf14} ea{\kf20}sy{\kf46} feat
-Dialogue: 0,0:00:20.73,0:00:22.95,DEFAULT,,0,0,0,,{\kf14}and{\kf20} ma{\kf20}gic{\kf33} makes{\kf20} it{\kf27} all{\kf20} com{\kf40}plete
-Dialogue: 0,0:00:23.02,0:00:24.65,DEFAULT,,0,0,0,,{\kf40}My{\kf14} Lit{\kf20}tle{\kf27} Po{\kf40}ny
-Dialogue: 0,0:00:24.91,0:00:30.00,DEFAULT,,0,0,0,,{\kf14}Did{\kf14} you{\kf27} know{\kf20} you're{\kf20} all{\kf27} my{\kf27} ve{\kf20}ry{\kf33} best{\kf274} friends
+Dialogue: 0,0:00:00.33,0:00:03.65,DEFAULT,,0,0,0,,{\r}{\kf27}My{\kf18} Lit{\kf27}tle{\kf27} Po{\kf45}ny,{\kf36} My{\kf27} Lit{\kf27}tle{\kf36} Po{\kf63}ny
+Dialogue: 0,0:00:03.78,0:00:05.61,DEFAULT,,0,0,0,,{\r}{\kf46}Ah{\kf53}-ah{\kf38}-ah{\kf46}-ah
+Dialogue: 0,0:00:05.74,0:00:07.83,DEFAULT,,0,0,0,,{\r}{\kf54}My{\kf15} Lit{\kf23}tle{\kf23} Po{\kf94}ny
+Dialogue: 0,0:00:08.09,0:00:09.91,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf16} used{\kf10} to{\kf24} won{\kf16}der{\kf24} what{\kf24} friend{\kf24}ship{\kf21} could...
+Dialogue: 0,0:00:10.04,0:00:11.74,DEFAULT,,0,0,0,,{\r}{\kf52}My{\kf22} Lit{\kf15}tle{\kf37} Po{\kf44}ny
+Dialogue: 0,0:00:11.87,0:00:14.09,DEFAULT,,0,0,0,,{\r}{\kf18}Un{\kf18}til{\kf18} you{\kf27} all{\kf27} shared{\kf27} its{\kf27} ma{\kf18}gic{\kf18} with{\kf24} me
+Dialogue: 0,0:00:14.67,0:00:16.30,DEFAULT,,0,0,0,,{\r}{\kf15}Big{\kf15} ad{\kf22}ven{\kf15}tures,{\kf37} tons{\kf15} of{\kf44} fun
+Dialogue: 0,0:00:16.50,0:00:18.59,DEFAULT,,0,0,0,,{\r}{\kf10}A{\kf17} beau{\kf10}ti{\kf26}ful{\kf26} heart,{\kf26} faith{\kf17}ful{\kf17} and{\kf60} strong
+Dialogue: 0,0:00:18.72,0:00:20.67,DEFAULT,,0,0,0,,{\r}{\kf15} Sha{\kf23}ring{\kf30} kind{\kf15}ness,{\kf10} it's{\kf15} an{\kf15} ea{\kf23}sy{\kf50} feat
+Dialogue: 0,0:00:20.74,0:00:22.96,DEFAULT,,0,0,0,,{\r}{\kf15}and{\kf23} ma{\kf23}gic{\kf38} makes{\kf23} it{\kf31} all{\kf23} com{\kf46}plete
+Dialogue: 0,0:00:23.02,0:00:24.65,DEFAULT,,0,0,0,,{\r}{\kf47}My{\kf16} Lit{\kf23}tle{\kf31} Po{\kf46}ny
+Dialogue: 0,0:00:24.91,0:00:30.00,DEFAULT,,0,0,0,,{\r}{\kf14}Did{\kf14} you{\kf28} know{\kf21} you're{\kf21} all{\kf28} my{\kf28} ve{\kf21}ry{\kf35} best{\kf299} friends

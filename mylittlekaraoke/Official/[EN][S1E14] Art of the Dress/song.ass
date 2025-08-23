@@ -1,110 +1,117 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Art of the Dress
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by LardonCru
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.16,0:00:07.33,DEFAULT,,0,0,0,,{\kf25}Thread{\kf9} by{\kf13}-y{\kf42} thread,{\kf17} sti{\kf9}tching{\kf9} it{\kf13} to{\kf9}ge{\kf17}-e{\kf75}ther
-Dialogue: 0,0:00:08.20,0:00:11.54,DEFAULT,,0,0,0,,{\kf38}Twi{\kf30}light's{\kf30} dress,{\kf13} cut{\kf9}ting{\kf9} out{\kf9} the{\kf17} pat{\kf17}tern{\kf17} snip{\kf13} by{\kf21} snip
-Dialogue: 0,0:00:11.91,0:00:13.99,DEFAULT,,0,0,0,,{\kf9}Ma{\kf9}king{\kf9} sure{\kf5} the{\kf25} fa{\kf17}bric{\kf17} folds{\kf38} nice{\kf30}ly
-Dialogue: 0,0:00:13.99,0:00:15.91,DEFAULT,,0,0,0,,{\kf9}It's{\kf9} the{\kf9} per{\kf13}fect{\kf17} co{\kf17}lor{\kf21} and{\kf17} so{\kf42} hip
-Dialogue: 0,0:00:16.08,0:00:17.99,DEFAULT,,0,0,0,,{\kf9}Al{\kf13}ways{\kf13} got{\kf9} to{\kf17} keep{\kf9} in{\kf21} mind{\kf17} my{\kf17} pa{\kf17}cing
-Dialogue: 0,0:00:18.08,0:00:20.16,DEFAULT,,0,0,0,,{\kf9}Ma{\kf9}king{\kf9} sure{\kf9} the{\kf25} cloth's{\kf30} cor{\kf17}rect{\kf13}ly{\kf17} fa{\kf25}cing
-Dialogue: 0,0:00:20.49,0:00:24.87,DEFAULT,,0,0,0,,{\kf13}I'm{\kf17} stit{\kf63}ching{\kf55} Twi{\kf92}light's{\kf167} dress
-Dialogue: 0,0:00:26.91,0:00:30.33,DEFAULT,,0,0,0,,{\kf25}Yard{\kf13} by{\kf17}-y{\kf46} yard,{\kf17} fu{\kf17}ssing{\kf9} on{\kf9} the{\kf34} de{\kf100}tails
-Dialogue: 0,0:00:31.08,0:00:32.16,DEFAULT,,0,0,0,,{\kf25}Jewel{\kf13} ne{\kf17}-eck{\kf34}line
-Dialogue: 0,0:00:32.58,0:00:34.45,DEFAULT,,0,0,0,,{\kf13}Don't{\kf9} you{\kf9} know{\kf5} a{\kf25} stitch{\kf17} in{\kf25} time{\kf21} saves{\kf30} nine?
-Dialogue: 0,0:00:34.62,0:00:36.66,DEFAULT,,0,0,0,,{\kf13}Make{\kf9} her{\kf9} some{\kf9}thing{\kf13} per{\kf21}fect{\kf21} to{\kf9} in{\kf34}spi{\kf17}re
-Dialogue: 0,0:00:36.74,0:00:38.58,DEFAULT,,0,0,0,,{\kf9}E{\kf9}ven{\kf9} though{\kf9} she{\kf17} hates{\kf17} for{\kf25}mal{\kf17} at{\kf34}tire
-Dialogue: 0,0:00:38.83,0:00:40.66,DEFAULT,,0,0,0,,{\kf9}Got{\kf9}ta{\kf9} mind{\kf13} those{\kf13} in{\kf9}tim{\kf17}ate{\kf25} de{\kf42}tails
-Dialogue: 0,0:00:40.83,0:00:42.79,DEFAULT,,0,0,0,,{\kf9}Ev{\kf9}en{\kf9} though{\kf9} she's{\kf21} more{\kf13} con{\kf25}cerned{\kf9} with{\kf42} sales
-Dialogue: 0,0:00:42.99,0:00:47.83,DEFAULT,,0,0,0,,{\kf34}It's{\kf13} App{\kf9}le{\kf96}jack's{\kf84} new{\kf200} dress
-Dialogue: 0,0:00:49.54,0:00:51.16,DEFAULT,,0,0,0,,{\kf34}Dress{\kf46}ma{\kf21}king's{\kf13} ea{\kf25}sy
-Dialogue: 0,0:00:51.54,0:00:53.37,DEFAULT,,0,0,0,,{\kf9}For{\kf13} Pin{\kf9}kie{\kf13} Pie{\kf25} some{\kf17}thing{\kf59} pink
-Dialogue: 0,0:00:53.79,0:00:55.33,DEFAULT,,0,0,0,,{\kf9}Flut{\kf9}ter{\kf21}shy{\kf25} some{\kf17}thing{\kf21} bree{\kf25}zy
-Dialogue: 0,0:00:55.66,0:00:56.54,DEFAULT,,0,0,0,,{\kf13}Blend{\kf9} col{\kf9}or{\kf13} and{\kf17} form
-Dialogue: 0,0:00:56.66,0:00:58.16,DEFAULT,,0,0,0,,{\kf9}Do{\kf9} you{\kf13} think{\kf9} it{\kf21} looks{\kf75} cheesy?
-Dialogue: 0,0:01:02.08,0:01:05.49,DEFAULT,,0,0,0,,{\kf25}Some{\kf25}thing{\kf50} brash,{\kf13} per{\kf25}haps{\kf17} quite{\kf25} fet{\kf100}ching
-Dialogue: 0,0:01:06.24,0:01:09.70,DEFAULT,,0,0,0,,{\kf21}Hook{\kf30} and{\kf42} eye,{\kf30} couldn't{\kf30} you{\kf17} just{\kf42} simply{\kf46} DIE
-Dialogue: 0,0:01:09.83,0:01:11.66,DEFAULT,,0,0,0,,{\kf9}Mak{\kf9}ing{\kf17} sure{\kf9} it{\kf21} fits{\kf13} fore{\kf25}lock{\kf9} and{\kf34} crest
-Dialogue: 0,0:01:11.91,0:01:13.62,DEFAULT,,0,0,0,,{\kf9}Don't{\kf9} for{\kf9}get{\kf13} some{\kf17} ma{\kf9}gic{\kf21} in{\kf9} the{\kf25} dress
-Dialogue: 0,0:01:13.99,0:01:15.79,DEFAULT,,0,0,0,,{\kf13}Ev{\kf9}en{\kf9} though{\kf9} it{\kf30} rides{\kf17} high{\kf21} on{\kf9} the{\kf30} flank
-Dialogue: 0,0:01:16.08,0:01:17.87,DEFAULT,,0,0,0,,{\kf17}Rain{\kf17}bow{\kf21} won't{\kf13} look{\kf21} like{\kf21} a{\kf42} tank
-Dialogue: 0,0:01:18.16,0:01:23.83,DEFAULT,,0,0,0,,{\kf21}I'm{\kf25} stit{\kf63}ching{\kf42} Rain{\kf84}bow's{\kf284} dress
-Dialogue: 0,0:01:25.08,0:01:26.87,DEFAULT,,0,0,0,,{\kf13}Piece{\kf17} by{\kf34} piece,{\kf25} snip{\kf17} by{\kf30} snip
-Dialogue: 0,0:01:27.16,0:01:28.87,DEFAULT,,0,0,0,,{\kf17}Croup,{\kf21} dock,{\kf30} haunch,{\kf25} shoul{\kf17}ders,{\kf17} hip
-Dialogue: 0,0:01:29.24,0:01:30.99,DEFAULT,,0,0,0,,{\kf17}Thread{\kf21} by{\kf25} thread,{\kf21} primmed{\kf13} and{\kf21} pressed
-Dialogue: 0,0:01:31.29,0:01:33.16,DEFAULT,,0,0,0,,{\kf25}Yard{\kf17} by{\kf25} yard,{\kf25} ne{\kf13}ver{\kf38} stressed
-Dialogue: 0,0:01:33.41,0:01:39.83,DEFAULT,,0,0,0,,{\kf17}And{\kf21} that's{\kf17} the{\kf25} art{\kf25} of{\kf50} the{\kf17} dre{\kf409}-ess
-Dialogue: 0,0:01:42.16,0:01:43.49,DEFAULT,,0,0,0,,{\kf25}Now,{\kf9} the{\kf34} stars{\kf9} on{\kf13} my{\kf21} belt
-Dialogue: 0,0:01:43.62,0:01:44.91,DEFAULT,,0,0,0,,{\kf13}Need{\kf9} to{\kf9} be{\kf50} technically{\kf42} accurate
-Dialogue: 0,0:01:45.24,0:01:46.58,DEFAULT,,0,0,0,,{\kf46}Orion{\kf17} has{\kf30} three{\kf21} stars
-Dialogue: 0,0:01:46.66,0:01:47.99,DEFAULT,,0,0,0,,{\kf9}On{\kf17} his{\kf34} belt,{\kf13} not{\kf42} four
-Dialogue: 0,0:01:49.45,0:01:52.83,DEFAULT,,0,0,0,,{\kf34}Stitch{\kf21} by{\kf55} stitch,{\kf17} stitch{\kf13}ing{\kf9} it{\kf9} to{\kf25}ge{\kf92}ther
-Dialogue: 0,0:01:53.58,0:01:54.79,DEFAULT,,0,0,0,,{\kf30}Dead{\kf34}line{\kf42} looms
-Dialogue: 0,0:01:55.08,0:01:56.91,DEFAULT,,0,0,0,,{\kf9}Don't{\kf9} you{\kf9} know{\kf9} the{\kf30} cli{\kf25}ent's{\kf21} al{\kf17}ways{\kf25} right
-Dialogue: 0,0:01:57.16,0:01:59.12,DEFAULT,,0,0,0,,{\kf9}Ev{\kf9}en{\kf9} if{\kf9} my{\kf17} fab{\kf13}ric{\kf30} choice{\kf13} was{\kf21} per{\kf21}fect
-Dialogue: 0,0:01:59.20,0:02:00.99,DEFAULT,,0,0,0,,{\kf9}Got{\kf5}ta{\kf9} get{\kf9} them{\kf21} all{\kf25} done{\kf13} by{\kf17} to{\kf34}night
-Dialogue: 0,0:02:01.24,0:02:03.12,DEFAULT,,0,0,0,,{\kf9}Pin{\kf9}kie{\kf9} Pie,{\kf9} the{\kf21} co{\kf17}lor's{\kf21} too{\kf9} ob{\kf25}tru{\kf17}sive
-Dialogue: 0,0:02:03.24,0:02:04.95,DEFAULT,,0,0,0,,{\kf13}Wait{\kf9} un{\kf9}til{\kf9} you{\kf25} see{\kf13} it{\kf13} in{\kf13} the{\kf25} light
-Dialogue: 0,0:02:05.24,0:02:09.62,DEFAULT,,0,0,0,,{\kf38}I'm{\kf25} sew{\kf63}ing{\kf42} them{\kf50} to{\kf17}ge{\kf155}ther
-Dialogue: 0,0:02:09.70,0:02:10.41,DEFAULT,,0,0,0,,{\kf9}Don't{\kf9} you{\kf13} think{\kf9} my{\kf17} gown
-Dialogue: 0,0:02:10.49,0:02:11.33,DEFAULT,,0,0,0,,{\kf9}Would{\kf9} be{\kf9} more{\kf38} me
-Dialogue: 0,0:02:11.37,0:02:12.49,DEFAULT,,0,0,0,,{\kf9}With{\kf17} some{\kf75} lollipops?
-Dialogue: 0,0:02:12.83,0:02:13.45,DEFAULT,,0,0,0,,{\kf25}Well,{\kf9} I{\kf21} think...
-Dialogue: 0,0:02:13.49,0:02:14.08,DEFAULT,,0,0,0,,{\kf59}Balloons?
-Dialogue: 0,0:02:14.16,0:02:14.58,DEFAULT,,0,0,0,,{\kf42}Well...
-Dialogue: 0,0:02:14.83,0:02:15.66,DEFAULT,,0,0,0,,{\kf17}Do{\kf50} it!
-Dialogue: 0,0:02:15.91,0:02:19.20,DEFAULT,,0,0,0,,{\kf34}Hour{\kf30} by{\kf34} ho{\kf38}ur,{\kf34} one{\kf25} more{\kf46} change
-Dialogue: 0,0:02:19.49,0:02:23.41,DEFAULT,,0,0,0,,{\kf34}I'm{\kf17} sew{\kf17}ing{\kf13} them{\kf25} to{\kf42}ge{\kf25}ther,{\kf25} take{\kf25} great{\kf63} pains
-Dialogue: 0,0:02:24.29,0:02:26.24,DEFAULT,,0,0,0,,{\kf17}Flu{\kf9}tter{\kf21}shy,{\kf17} you're{\kf9} put{\kf17}ting{\kf13} me{\kf9} in{\kf9} a{\kf25} bind
-Dialogue: 0,0:02:26.41,0:02:28.24,DEFAULT,,0,0,0,,{\kf21}Rain{\kf21}bow{\kf21} Dash,{\kf17} what{\kf13} is{\kf13} on{\kf17} your{\kf25} mind
-Dialogue: 0,0:02:28.41,0:02:30.41,DEFAULT,,0,0,0,,{\kf9}Oh{\kf9} my{\kf21} gosh,{\kf13} there's{\kf21} simp{\kf13}ly{\kf17} not{\kf21} much{\kf34} time
-Dialogue: 0,0:02:30.45,0:02:31.95,DEFAULT,,0,0,0,,{\kf13}Don't{\kf9} for{\kf25}get,{\kf13} App{\kf9}le{\kf21}jack's{\kf21} duds
-Dialogue: 0,0:02:31.99,0:02:36.08,DEFAULT,,0,0,0,,{\kf17}Must{\kf88} shi{\kf109}-i{\kf175}-ine
-Dialogue: 0,0:02:36.33,0:02:37.99,DEFAULT,,0,0,0,,{\kf25}Dress{\kf30}ma{\kf30}king's{\kf17} ea{\kf42}sy
-Dialogue: 0,0:02:38.33,0:02:39.87,DEFAULT,,0,0,0,,{\kf21}Eve{\kf17}ry{\kf13} cus{\kf9}to{\kf17}mer's{\kf50} call
-Dialogue: 0,0:02:40.33,0:02:41.91,DEFAULT,,0,0,0,,{\kf13}Brings{\kf9} a{\kf17} whole{\kf25} new{\kf17} re{\kf17}vi{\kf30}sion
-Dialogue: 0,0:02:42.16,0:02:43.08,DEFAULT,,0,0,0,,{\kf9}Have{\kf9} to{\kf9} pick{\kf9} up{\kf9} the{\kf25} pace
-Dialogue: 0,0:02:43.20,0:02:44.58,DEFAULT,,0,0,0,,{\kf13}Still{\kf17} hold{\kf9} to{\kf13} my{\kf25} vi{\kf42}sion
-Dialogue: 0,0:02:45.70,0:02:49.33,DEFAULT,,0,0,0,,{\kf34}That{\kf67} constellation{\kf9} is{\kf50} Canis{\kf67} Major,{\kf25} not{\kf59} Minor
-Dialogue: 0,0:02:50.08,0:02:52.33,DEFAULT,,0,0,0,,{\kf38}French{\kf25} haute{\kf67} couture,{\kf75} please
-Dialogue: 0,0:02:53.58,0:02:53.99,DEFAULT,,0,0,0,,{\kf42}Eeeh...
-Dialogue: 0,0:02:55.87,0:02:58.33,DEFAULT,,0,0,0,,{\kf17}What{\kf9} if{\kf9} it{\kf50} rains?{\kf92} Galoshes!
-Dialogue: 0,0:02:59.45,0:03:01.83,DEFAULT,,0,0,0,,{\kf17}More{\kf59} balloons!{\kf5} Oh{\kf17} no,{\kf17} that's{\kf9} too{\kf17} many{\kf42} balloons
-Dialogue: 0,0:03:02.04,0:03:03.91,DEFAULT,,0,0,0,,{\kf17}More{\kf50} candy!{\kf9} Oh,{\kf17} less{\kf42} candy
-Dialogue: 0,0:03:04.08,0:03:05.91,DEFAULT,,0,0,0,,{\kf9}Oh{\kf25} wait,{\kf17} I{\kf25} know!{\kf84} Streamers!
-Dialogue: 0,0:03:06.49,0:03:07.24,DEFAULT,,0,0,0,,{\kf75}Streamers?
-Dialogue: 0,0:03:07.58,0:03:08.91,DEFAULT,,0,0,0,,{\kf34}Whose{\kf34} dress{\kf9} is{\kf42} this?
-Dialogue: 0,0:03:09.37,0:03:10.37,DEFAULT,,0,0,0,,{\kf59}Streamers{\kf9} it{\kf25} is
-Dialogue: 0,0:03:14.83,0:03:15.24,DEFAULT,,0,0,0,,{\kf42}What?
-Dialogue: 0,0:03:15.49,0:03:16.29,DEFAULT,,0,0,0,,{\kf17}Aren't{\kf9} you{\kf9} going{\kf5} to{\kf17} tell{\kf9} me
-Dialogue: 0,0:03:16.33,0:03:17.33,DEFAULT,,0,0,0,,{\kf9}To{\kf21} change{\kf30} something{\kf25} too?
-Dialogue: 0,0:03:17.87,0:03:18.74,DEFAULT,,0,0,0,,{\kf42}No,{\kf9} I{\kf9} just{\kf9} want
-Dialogue: 0,0:03:18.74,0:03:20.08,DEFAULT,,0,0,0,,{\kf13}My{\kf13} dress{\kf9} to{\kf17} be...{\kf59} cool
-Dialogue: 0,0:03:20.58,0:03:21.41,DEFAULT,,0,0,0,,{\kf5}Do{\kf9} you{\kf9} not{\kf17} like{\kf9} the{\kf25} color?
-Dialogue: 0,0:03:21.99,0:03:23.08,DEFAULT,,0,0,0,,{\kf17}The{\kf34} color's{\kf34} fine
-Dialogue: 0,0:03:23.33,0:03:24.33,DEFAULT,,0,0,0,,{\kf9}Just{\kf9} make{\kf9} it{\kf13} look{\kf42} cooler
-Dialogue: 0,0:03:24.66,0:03:25.54,DEFAULT,,0,0,0,,{\kf9}Do{\kf9} you{\kf9} not{\kf17} like{\kf5} the{\kf34} shape?
-Dialogue: 0,0:03:25.83,0:03:26.58,DEFAULT,,0,0,0,,{\kf9}The{\kf25} shape's{\kf25} fine
-Dialogue: 0,0:03:26.66,0:03:27.83,DEFAULT,,0,0,0,,{\kf13}Just{\kf17} make{\kf5} the{\kf21} whole{\kf34} thing,
-Dialogue: 0,0:03:27.91,0:03:29.08,DEFAULT,,0,0,0,,{\kf9}You{\kf25} know,{\kf59} cooler
-Dialogue: 0,0:03:29.83,0:03:31.95,DEFAULT,,0,0,0,,{\kf17}It{\kf17} needs{\kf9} to{\kf9} be{\kf17} about{\kf59} 20%{\kf59} cooler.
-Dialogue: 0,0:03:33.58,0:03:35.49,DEFAULT,,0,0,0,,{\kf9}All{\kf9} we{\kf9} e{\kf9}ver{\kf25} want{\kf21} is{\kf13} in{\kf17}de{\kf25}ci{\kf17}sion
-Dialogue: 0,0:03:35.58,0:03:37.33,DEFAULT,,0,0,0,,{\kf9}All{\kf9} we{\kf9} real{\kf9}ly{\kf25} like{\kf13} is{\kf17} what{\kf9} we{\kf34} know
-Dialogue: 0,0:03:37.58,0:03:39.58,DEFAULT,,0,0,0,,{\kf13}Got{\kf9}ta{\kf9} ba{\kf13}lance{\kf25} sty{\kf13}le{\kf17} with{\kf17} ad{\kf25}her{\kf21}ence
-Dialogue: 0,0:03:39.66,0:03:41.62,DEFAULT,,0,0,0,,{\kf9}Ma{\kf13}king{\kf9} sure{\kf9} we{\kf25} make{\kf9} a{\kf25} good{\kf13} a{\kf25}ppear{\kf17}ance
-Dialogue: 0,0:03:41.66,0:03:43.62,DEFAULT,,0,0,0,,{\kf9}E{\kf13}ven{\kf9} if{\kf5} you{\kf25} simp{\kf17}ly{\kf17} have{\kf9} to{\kf25} fudge{\kf17} it
-Dialogue: 0,0:03:43.66,0:03:45.62,DEFAULT,,0,0,0,,{\kf13}Make{\kf9} sure{\kf9} that{\kf9} it{\kf25} stays{\kf17} wi{\kf21}thin{\kf9} our{\kf17} bud{\kf17}get
-Dialogue: 0,0:03:45.74,0:03:47.62,DEFAULT,,0,0,0,,{\kf9}Got{\kf9} to{\kf9} o{\kf9}ver{\kf21}come{\kf17} in{\kf21}ti{\kf21}mi{\kf13}da{\kf17}tion
-Dialogue: 0,0:03:47.70,0:03:50.99,DEFAULT,,0,0,0,,{\kf9}Re{\kf13}mem{\kf9}ber{\kf17} it's{\kf17} all{\kf9} in{\kf9} the{\kf17} pre{\kf17}sen{\kf25}ta{\kf142}tion
-Dialogue: 0,0:03:52.66,0:03:54.37,DEFAULT,,0,0,0,,{\kf17}Piece{\kf17} by{\kf25} piece,{\kf21} snip{\kf17} by{\kf25} snip
-Dialogue: 0,0:03:54.66,0:03:56.37,DEFAULT,,0,0,0,,{\kf17}Croup,{\kf17} dock,{\kf38} haunch,{\kf25} shoul{\kf13}ders,{\kf17} hip
-Dialogue: 0,0:03:56.74,0:03:58.45,DEFAULT,,0,0,0,,{\kf17}Bolt{\kf17} by{\kf25} bolt,{\kf25} primmed{\kf13} and{\kf25} pressed
-Dialogue: 0,0:03:58.74,0:04:00.62,DEFAULT,,0,0,0,,{\kf17}Yard{\kf17} by{\kf30} yard,{\kf17} al{\kf17}ways{\kf34} stressed
-Dialogue: 0,0:04:00.83,0:04:06.41,DEFAULT,,0,0,0,,{\kf17}And{\kf17} that's{\kf17} the{\kf30} art{\kf30} of{\kf42} the{\kf17} dre{\kf342}-ess
+Dialogue: 0,0:00:04.17,0:00:07.33,DEFAULT,,0,0,0,,{\r}{\kf34}Thread{\kf11} by{\kf17}-y{\kf57} thread,{\kf23} sti{\kf11}tching{\kf11} it{\kf17} to{\kf11}ge{\kf23}-e{\kf102}ther
+Dialogue: 0,0:00:08.21,0:00:11.54,DEFAULT,,0,0,0,,{\r}{\kf58}Twi{\kf45}light's{\kf45} dress,{\kf19} cut{\kf13}ting{\kf13} out{\kf13} the{\kf26} pat{\kf26}tern{\kf26} snip{\kf19} by{\kf30} snip
+Dialogue: 0,0:00:11.92,0:00:14.00,DEFAULT,,0,0,0,,{\r}{\kf11}Ma{\kf11}king{\kf11} sure{\kf10} the{\kf34} fa{\kf22}bric{\kf22} folds{\kf51} nice{\kf36}ly
+Dialogue: 0,0:00:14.00,0:00:15.92,DEFAULT,,0,0,0,,{\r}{\kf11}It's{\kf11} the{\kf11} per{\kf16}fect{\kf21} co{\kf21}lor{\kf27} and{\kf21} so{\kf53} hip
+Dialogue: 0,0:00:16.08,0:00:18.00,DEFAULT,,0,0,0,,{\r}{\kf12}Al{\kf17}ways{\kf17} got{\kf12} to{\kf23} keep{\kf12} in{\kf29} mind{\kf23} my{\kf23} pa{\kf24}cing
+Dialogue: 0,0:00:18.08,0:00:20.17,DEFAULT,,0,0,0,,{\r}{\kf11}Ma{\kf11}king{\kf11} sure{\kf11} the{\kf33} cloth's{\kf38} cor{\kf22}rect{\kf16}ly{\kf22} fa{\kf33}cing
+Dialogue: 0,0:00:20.50,0:00:24.87,DEFAULT,,0,0,0,,{\r}{\kf14}I'm{\kf18} stit{\kf68}ching{\kf59} Twi{\kf99}light's{\kf180} dress
+Dialogue: 0,0:00:26.92,0:00:30.33,DEFAULT,,0,0,0,,{\r}{\kf30}Yard{\kf15} by{\kf20}-y{\kf55} yard,{\kf20} fu{\kf20}ssing{\kf10} on{\kf10} the{\kf40} de{\kf122}tails
+Dialogue: 0,0:00:31.08,0:00:32.17,DEFAULT,,0,0,0,,{\r}{\kf31}Jewel{\kf15} ne{\kf21}-eck{\kf41}line
+Dialogue: 0,0:00:32.58,0:00:34.46,DEFAULT,,0,0,0,,{\r}{\kf16}Don't{\kf10} you{\kf10} know{\kf10} a{\kf31} stitch{\kf21} in{\kf31} time{\kf26} saves{\kf32} nine?
+Dialogue: 0,0:00:34.62,0:00:36.67,DEFAULT,,0,0,0,,{\r}{\kf17}Make{\kf11} her{\kf11} some{\kf11}thing{\kf17} per{\kf28}fect{\kf28} to{\kf11} in{\kf45}spi{\kf25}re
+Dialogue: 0,0:00:36.75,0:00:38.58,DEFAULT,,0,0,0,,{\r}{\kf11}E{\kf11}ven{\kf11} though{\kf11} she{\kf22} hates{\kf22} for{\kf32}mal{\kf22} at{\kf41}tire
+Dialogue: 0,0:00:38.83,0:00:40.67,DEFAULT,,0,0,0,,{\r}{\kf11}Got{\kf11}ta{\kf11} mind{\kf16} those{\kf16} in{\kf11}tim{\kf22}ate{\kf32} de{\kf53}tails
+Dialogue: 0,0:00:40.83,0:00:42.79,DEFAULT,,0,0,0,,{\r}{\kf12}Ev{\kf12}en{\kf12} though{\kf12} she's{\kf29} more{\kf17} con{\kf35}cerned{\kf12} with{\kf55} sales
+Dialogue: 0,0:00:43.00,0:00:47.83,DEFAULT,,0,0,0,,{\r}{\kf37}It's{\kf14} App{\kf10}le{\kf107}jack's{\kf93} new{\kf222} dress
+Dialogue: 0,0:00:49.54,0:00:51.17,DEFAULT,,0,0,0,,{\r}{\kf39}Dress{\kf54}ma{\kf25}king's{\kf15} ea{\kf29}sy
+Dialogue: 0,0:00:51.54,0:00:53.37,DEFAULT,,0,0,0,,{\r}{\kf11}For{\kf16} Pin{\kf11}kie{\kf16} Pie{\kf32} some{\kf22}thing{\kf75} pink
+Dialogue: 0,0:00:53.79,0:00:55.33,DEFAULT,,0,0,0,,{\r}{\kf10}Flut{\kf10}ter{\kf26}shy{\kf31} some{\kf21}thing{\kf26} bree{\kf30}zy
+Dialogue: 0,0:00:55.67,0:00:56.54,DEFAULT,,0,0,0,,{\r}{\kf19}Blend{\kf13} col{\kf13}or{\kf19} and{\kf24} form
+Dialogue: 0,0:00:56.67,0:00:58.17,DEFAULT,,0,0,0,,{\r}{\kf10}Do{\kf10} you{\kf14} think{\kf10} it{\kf23} looks{\kf83} cheesy?
+Dialogue: 0,0:01:02.08,0:01:05.50,DEFAULT,,0,0,0,,{\r}{\kf31}Some{\kf31}thing{\kf61} brash,{\kf15} per{\kf31}haps{\kf20} quite{\kf31} fet{\kf122}ching
+Dialogue: 0,0:01:06.25,0:01:09.71,DEFAULT,,0,0,0,,{\r}{\kf28}Hook{\kf40} and{\kf57} eye,{\kf40} couldn't{\kf40} you{\kf23} just{\kf57} simply{\kf61} DIE
+Dialogue: 0,0:01:09.83,0:01:11.67,DEFAULT,,0,0,0,,{\r}{\kf11}Mak{\kf11}ing{\kf22} sure{\kf11} it{\kf27} fits{\kf16} fore{\kf32}lock{\kf11} and{\kf42} crest
+Dialogue: 0,0:01:11.92,0:01:13.62,DEFAULT,,0,0,0,,{\r}{\kf12}Don't{\kf12} for{\kf12}get{\kf18} some{\kf24} ma{\kf12}gic{\kf31} in{\kf12} the{\kf38} dress
+Dialogue: 0,0:01:14.00,0:01:15.79,DEFAULT,,0,0,0,,{\r}{\kf16}Ev{\kf11}en{\kf11} though{\kf11} it{\kf37} rides{\kf21} high{\kf26} on{\kf11} the{\kf35} flank
+Dialogue: 0,0:01:16.08,0:01:17.87,DEFAULT,,0,0,0,,{\r}{\kf20}Rain{\kf20}bow{\kf25} won't{\kf15} look{\kf25} like{\kf25} a{\kf49} tank
+Dialogue: 0,0:01:18.17,0:01:23.83,DEFAULT,,0,0,0,,{\r}{\kf23}I'm{\kf27} stit{\kf69}ching{\kf46} Rain{\kf91}bow's{\kf311} dress
+Dialogue: 0,0:01:25.08,0:01:26.87,DEFAULT,,0,0,0,,{\r}{\kf17}Piece{\kf22} by{\kf45} piece,{\kf34} snip{\kf22} by{\kf39} snip
+Dialogue: 0,0:01:27.17,0:01:28.87,DEFAULT,,0,0,0,,{\r}{\kf23}Croup,{\kf28} dock,{\kf40} haunch,{\kf34} shoul{\kf23}ders,{\kf23} hip
+Dialogue: 0,0:01:29.25,0:01:31.00,DEFAULT,,0,0,0,,{\r}{\kf25}Thread{\kf31} by{\kf38} thread,{\kf31} primmed{\kf19} and{\kf31} pressed
+Dialogue: 0,0:01:31.29,0:01:33.17,DEFAULT,,0,0,0,,{\r}{\kf33}Yard{\kf22} by{\kf33} yard,{\kf33} ne{\kf17}ver{\kf50} stressed
+Dialogue: 0,0:01:33.42,0:01:39.83,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf23} that's{\kf18} the{\kf28} art{\kf28} of{\kf55} the{\kf18} dre{\kf454}-ess
+Dialogue: 0,0:01:42.17,0:01:43.50,DEFAULT,,0,0,0,,{\r}{\kf31}Now,{\kf10} the{\kf41} stars{\kf10} on{\kf15} my{\kf26} belt
+Dialogue: 0,0:01:43.62,0:01:44.92,DEFAULT,,0,0,0,,{\r}{\kf13}Need{\kf10} to{\kf10} be{\kf53} technically{\kf43} accurate
+Dialogue: 0,0:01:45.25,0:01:46.58,DEFAULT,,0,0,0,,{\r}{\kf54}Orion{\kf20} has{\kf34} three{\kf25} stars
+Dialogue: 0,0:01:46.67,0:01:48.00,DEFAULT,,0,0,0,,{\r}{\kf10}On{\kf20} his{\kf39} belt,{\kf15} not{\kf49} four
+Dialogue: 0,0:01:49.46,0:01:52.83,DEFAULT,,0,0,0,,{\r}{\kf42}Stitch{\kf26} by{\kf68} stitch,{\kf21} stitch{\kf16}ing{\kf10} it{\kf10} to{\kf31}ge{\kf114}ther
+Dialogue: 0,0:01:53.58,0:01:54.79,DEFAULT,,0,0,0,,{\r}{\kf34}Dead{\kf39}line{\kf48} looms
+Dialogue: 0,0:01:55.08,0:01:56.92,DEFAULT,,0,0,0,,{\r}{\kf10}Don't{\kf10} you{\kf10} know{\kf10} the{\kf36} cli{\kf30}ent's{\kf25} al{\kf20}ways{\kf32} right
+Dialogue: 0,0:01:57.17,0:01:59.12,DEFAULT,,0,0,0,,{\r}{\kf11}Ev{\kf11}en{\kf11} if{\kf11} my{\kf22} fab{\kf17}ric{\kf39} choice{\kf17} was{\kf28} per{\kf29}fect
+Dialogue: 0,0:01:59.21,0:02:01.00,DEFAULT,,0,0,0,,{\r}{\kf11}Got{\kf10}ta{\kf11} get{\kf11} them{\kf27} all{\kf33} done{\kf16} by{\kf22} to{\kf38}night
+Dialogue: 0,0:02:01.25,0:02:03.12,DEFAULT,,0,0,0,,{\r}{\kf11}Pin{\kf11}kie{\kf11} Pie,{\kf11} the{\kf28} co{\kf22}lor's{\kf28} too{\kf11} ob{\kf33}tru{\kf22}sive
+Dialogue: 0,0:02:03.25,0:02:04.96,DEFAULT,,0,0,0,,{\r}{\kf17}Wait{\kf11} un{\kf11}til{\kf11} you{\kf34} see{\kf17} it{\kf17} in{\kf17} the{\kf36} light
+Dialogue: 0,0:02:05.25,0:02:09.62,DEFAULT,,0,0,0,,{\r}{\kf42}I'm{\kf28} sew{\kf71}ing{\kf47} them{\kf57} to{\kf19}ge{\kf174}ther
+Dialogue: 0,0:02:09.71,0:02:10.42,DEFAULT,,0,0,0,,{\r}{\kf11}Don't{\kf11} you{\kf16} think{\kf11} my{\kf22} gown
+Dialogue: 0,0:02:10.50,0:02:11.33,DEFAULT,,0,0,0,,{\r}{\kf11}Would{\kf11} be{\kf11} more{\kf50} me
+Dialogue: 0,0:02:11.37,0:02:12.50,DEFAULT,,0,0,0,,{\r}{\kf10}With{\kf19} some{\kf83} lollipops?
+Dialogue: 0,0:02:12.83,0:02:13.46,DEFAULT,,0,0,0,,{\r}{\kf29}Well,{\kf10} I{\kf24} think...
+Dialogue: 0,0:02:13.50,0:02:14.08,DEFAULT,,0,0,0,,{\r}{\kf58}Balloons?
+Dialogue: 0,0:02:14.17,0:02:14.58,DEFAULT,,0,0,0,,{\r}{\kf42}Well...
+Dialogue: 0,0:02:14.83,0:02:15.67,DEFAULT,,0,0,0,,{\r}{\kf21}Do{\kf62} it!
+Dialogue: 0,0:02:15.92,0:02:19.21,DEFAULT,,0,0,0,,{\r}{\kf46}Hour{\kf40} by{\kf46} ho{\kf52}ur,{\kf46} one{\kf35} more{\kf64} change
+Dialogue: 0,0:02:19.50,0:02:23.42,DEFAULT,,0,0,0,,{\r}{\kf46}I'm{\kf23} sew{\kf23}ing{\kf17} them{\kf35} to{\kf58}ge{\kf35}ther,{\kf35} take{\kf35} great{\kf85} pains
+Dialogue: 0,0:02:24.29,0:02:26.25,DEFAULT,,0,0,0,,{\r}{\kf23}Flu{\kf12}tter{\kf29}shy,{\kf23} you're{\kf12} put{\kf23}ting{\kf17} me{\kf12} in{\kf12} a{\kf33} bind
+Dialogue: 0,0:02:26.42,0:02:28.25,DEFAULT,,0,0,0,,{\r}{\kf26}Rain{\kf26}bow{\kf26} Dash,{\kf21} what{\kf16} is{\kf16} on{\kf21} your{\kf31} mind
+Dialogue: 0,0:02:28.42,0:02:30.42,DEFAULT,,0,0,0,,{\r}{\kf11}Oh{\kf11} my{\kf27} gosh,{\kf16} there's{\kf27} simp{\kf16}ly{\kf22} not{\kf27} much{\kf43} time
+Dialogue: 0,0:02:30.46,0:02:31.96,DEFAULT,,0,0,0,,{\r}{\kf17}Don't{\kf12} for{\kf35}get,{\kf17} App{\kf12}le{\kf29}jack's{\kf28} duds
+Dialogue: 0,0:02:32.00,0:02:36.08,DEFAULT,,0,0,0,,{\r}{\kf18}Must{\kf92} shi{\kf114}-i{\kf184}-ine
+Dialogue: 0,0:02:36.33,0:02:38.00,DEFAULT,,0,0,0,,{\r}{\kf29}Dress{\kf34}ma{\kf34}king's{\kf20} ea{\kf50}sy
+Dialogue: 0,0:02:38.33,0:02:39.87,DEFAULT,,0,0,0,,{\r}{\kf26}Eve{\kf21}ry{\kf15} cus{\kf10}to{\kf21}mer's{\kf61} call
+Dialogue: 0,0:02:40.33,0:02:41.92,DEFAULT,,0,0,0,,{\r}{\kf16}Brings{\kf11} a{\kf21} whole{\kf32} new{\kf21} re{\kf21}vi{\kf36}sion
+Dialogue: 0,0:02:42.17,0:02:43.08,DEFAULT,,0,0,0,,{\r}{\kf12}Have{\kf12} to{\kf12} pick{\kf12} up{\kf12} the{\kf32} pace
+Dialogue: 0,0:02:43.21,0:02:44.58,DEFAULT,,0,0,0,,{\r}{\kf15}Still{\kf20} hold{\kf10} to{\kf15} my{\kf30} vi{\kf48}sion
+Dialogue: 0,0:02:45.71,0:02:49.33,DEFAULT,,0,0,0,,{\r}{\kf39}That{\kf78} constellation{\kf10} is{\kf59} Canis{\kf78} Major,{\kf29} not{\kf70} Minor
+Dialogue: 0,0:02:50.08,0:02:52.33,DEFAULT,,0,0,0,,{\r}{\kf41}French{\kf28} haute{\kf73} couture,{\kf83} please
+Dialogue: 0,0:02:53.58,0:02:54.00,DEFAULT,,0,0,0,,{\r}{\kf42}Eeeh...
+Dialogue: 0,0:02:55.87,0:02:58.33,DEFAULT,,0,0,0,,{\r}{\kf23}What{\kf12} if{\kf12} it{\kf70} rains?{\kf129} Galoshes!
+Dialogue: 0,0:02:59.46,0:03:01.83,DEFAULT,,0,0,0,,{\r}{\kf22}More{\kf77} balloons!{\kf10} Oh{\kf22} no,{\kf22} that's{\kf11} too{\kf22} many{\kf52} balloons
+Dialogue: 0,0:03:02.04,0:03:03.92,DEFAULT,,0,0,0,,{\r}{\kf24}More{\kf70} candy!{\kf12} Oh,{\kf24} less{\kf58} candy
+Dialogue: 0,0:03:04.08,0:03:05.92,DEFAULT,,0,0,0,,{\r}{\kf10}Oh{\kf29} wait,{\kf19} I{\kf29} know!{\kf96} Streamers!
+Dialogue: 0,0:03:06.50,0:03:07.25,DEFAULT,,0,0,0,,{\r}{\kf75}Streamers?
+Dialogue: 0,0:03:07.58,0:03:08.92,DEFAULT,,0,0,0,,{\r}{\kf38}Whose{\kf38} dress{\kf10} is{\kf47} this?
+Dialogue: 0,0:03:09.37,0:03:10.37,DEFAULT,,0,0,0,,{\r}{\kf64}Streamers{\kf10} it{\kf26} is
+Dialogue: 0,0:03:14.83,0:03:15.25,DEFAULT,,0,0,0,,{\r}{\kf42}What?
+Dialogue: 0,0:03:15.50,0:03:16.29,DEFAULT,,0,0,0,,{\r}{\kf21}Aren't{\kf11} you{\kf11} going{\kf10} to{\kf21} tell{\kf10} me
+Dialogue: 0,0:03:16.33,0:03:17.33,DEFAULT,,0,0,0,,{\r}{\kf10}To{\kf25} change{\kf35} something{\kf30} too?
+Dialogue: 0,0:03:17.87,0:03:18.75,DEFAULT,,0,0,0,,{\r}{\kf55}No,{\kf11} I{\kf11} just{\kf11} want
+Dialogue: 0,0:03:18.75,0:03:20.08,DEFAULT,,0,0,0,,{\r}{\kf15}My{\kf15} dress{\kf10} to{\kf20} be...{\kf73} cool
+Dialogue: 0,0:03:20.58,0:03:21.42,DEFAULT,,0,0,0,,{\r}{\kf10}Do{\kf10} you{\kf10} not{\kf20} like{\kf10} the{\kf23} color?
+Dialogue: 0,0:03:22.00,0:03:23.08,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf43} color's{\kf43} fine
+Dialogue: 0,0:03:23.33,0:03:24.33,DEFAULT,,0,0,0,,{\r}{\kf11}Just{\kf11} make{\kf11} it{\kf16} look{\kf51} cooler
+Dialogue: 0,0:03:24.67,0:03:25.54,DEFAULT,,0,0,0,,{\r}{\kf10}Do{\kf10} you{\kf10} not{\kf19} like{\kf10} the{\kf29} shape?
+Dialogue: 0,0:03:25.83,0:03:26.58,DEFAULT,,0,0,0,,{\r}{\kf11}The{\kf32} shape's{\kf32} fine
+Dialogue: 0,0:03:26.67,0:03:27.83,DEFAULT,,0,0,0,,{\r}{\kf17}Just{\kf22} make{\kf10} the{\kf28} whole{\kf40} thing,
+Dialogue: 0,0:03:27.92,0:03:29.08,DEFAULT,,0,0,0,,{\r}{\kf11}You{\kf32} know,{\kf74} cooler
+Dialogue: 0,0:03:29.83,0:03:31.96,DEFAULT,,0,0,0,,{\r}{\kf19}It{\kf19} needs{\kf10} to{\kf10} be{\kf19} about{\kf68} 20%{\kf68} cooler.
+Dialogue: 0,0:03:33.58,0:03:35.50,DEFAULT,,0,0,0,,{\r}{\kf11}All{\kf11} we{\kf11} e{\kf11}ver{\kf32} want{\kf27} is{\kf16} in{\kf21}de{\kf32}ci{\kf20}sion
+Dialogue: 0,0:03:35.58,0:03:37.33,DEFAULT,,0,0,0,,{\r}{\kf11}All{\kf11} we{\kf11} real{\kf11}ly{\kf34} like{\kf17} is{\kf23} what{\kf11} we{\kf46} know
+Dialogue: 0,0:03:37.58,0:03:39.58,DEFAULT,,0,0,0,,{\r}{\kf16}Got{\kf11}ta{\kf11} ba{\kf16}lance{\kf32} sty{\kf16}le{\kf21} with{\kf21} ad{\kf32}her{\kf24}ence
+Dialogue: 0,0:03:39.67,0:03:41.62,DEFAULT,,0,0,0,,{\r}{\kf11}Ma{\kf16}king{\kf11} sure{\kf11} we{\kf33} make{\kf11} a{\kf33} good{\kf16} a{\kf33}ppear{\kf21}ance
+Dialogue: 0,0:03:41.67,0:03:43.62,DEFAULT,,0,0,0,,{\r}{\kf12}E{\kf17}ven{\kf12} if{\kf10} you{\kf35} simp{\kf23}ly{\kf23} have{\kf12} to{\kf35} fudge{\kf17} it
+Dialogue: 0,0:03:43.67,0:03:45.62,DEFAULT,,0,0,0,,{\r}{\kf17}Make{\kf12} sure{\kf12} that{\kf12} it{\kf35} stays{\kf23} wi{\kf29}thin{\kf12} our{\kf23} bud{\kf21}get
+Dialogue: 0,0:03:45.75,0:03:47.62,DEFAULT,,0,0,0,,{\r}{\kf11}Got{\kf11} to{\kf11} o{\kf11}ver{\kf28}come{\kf22} in{\kf28}ti{\kf28}mi{\kf16}da{\kf21}tion
+Dialogue: 0,0:03:47.71,0:03:51.00,DEFAULT,,0,0,0,,{\r}{\kf10}Re{\kf15}mem{\kf10}ber{\kf20} it's{\kf20} all{\kf10} in{\kf10} the{\kf20} pre{\kf20}sen{\kf29}ta{\kf165}tion
+Dialogue: 0,0:03:52.67,0:03:54.37,DEFAULT,,0,0,0,,{\r}{\kf24}Piece{\kf24} by{\kf35} piece,{\kf29} snip{\kf24} by{\kf35} snip
+Dialogue: 0,0:03:54.67,0:03:56.37,DEFAULT,,0,0,0,,{\r}{\kf23}Croup,{\kf23} dock,{\kf51} haunch,{\kf34} shoul{\kf17}ders,{\kf23} hip
+Dialogue: 0,0:03:56.75,0:03:58.46,DEFAULT,,0,0,0,,{\r}{\kf24}Bolt{\kf24} by{\kf35} bolt,{\kf35} primmed{\kf18} and{\kf35} pressed
+Dialogue: 0,0:03:58.75,0:04:00.62,DEFAULT,,0,0,0,,{\r}{\kf24}Yard{\kf24} by{\kf42} yard,{\kf24} al{\kf24}ways{\kf50} stressed
+Dialogue: 0,0:04:00.83,0:04:06.42,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf18} that's{\kf18} the{\kf32} art{\kf32} of{\kf46} the{\kf18} dre{\kf376}-ess

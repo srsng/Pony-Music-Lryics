@@ -1,50 +1,57 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Love Letters
+Artist: Griffinilla, Toastwaffle
+Original Timing: mylittlekaraoke.com by RD1042
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:33.60,0:00:37.32,DEFAULT,,0,0,0,,{\kf25}And{\kf15} when{\kf25} you're{\kf40} blue,{\kf20} she{\kf15} will{\kf40} send{\kf25} an{\kf10} "I{\kf49} love{\kf59} you"
-Dialogue: 0,0:00:37.71,0:00:41.33,DEFAULT,,0,0,0,,{\kf35}And{\kf10} if{\kf15} you're{\kf59} not,{\kf20} X-{\kf25}O-{\kf20}X-{\kf20}O{\kf20} marks{\kf25} the{\kf54} spot
-Dialogue: 0,0:00:41.92,0:00:45.50,DEFAULT,,0,0,0,,{\kf20}Like{\kf25} hid{\kf15}den{\kf30} trea{\kf25}sure{\kf30} there's{\kf10} a{\kf35} let{\kf25}ter{\kf10} un{\kf69}fet{\kf35}tered
-Dialogue: 0,0:00:45.59,0:00:48.09,DEFAULT,,0,0,0,,{\kf15}But{\kf30} how{\kf15} did{\kf20} she{\kf20} break{\kf20} in{\kf20}to{\kf25} my{\kf45} house?
-Dialogue: 0,0:00:49.07,0:00:51.27,DEFAULT,,0,0,0,,{\kf25}(oh{\kf49} no...{\kf15} did{\kf5} she{\kf15} climb{\kf5} in{\kf5} through{\kf10} my{\kf54} chimney??)
-Dialogue: 0,0:00:52.11,0:00:54.11,DEFAULT,,0,0,0,,{\kf30}Drop{\kf10} a{\kf30} note{\kf25} right{\kf20} in{\kf15} her{\kf15} ask{\kf20} box
-Dialogue: 0,0:00:54.21,0:00:56.17,DEFAULT,,0,0,0,,{\kf15}She{\kf20} can't{\kf25} speak{\kf20} but{\kf15} she's{\kf10} got{\kf25} sweet{\kf15} talk
-Dialogue: 0,0:00:56.22,0:00:58.86,DEFAULT,,0,0,0,,{\kf35}Sprea{\kf20}ding{\kf20} her{\kf25} love{\kf15} let{\kf30}ters{\kf25} through{\kf10} the{\kf59} town
-Dialogue: 0,0:01:00.48,0:01:02.43,DEFAULT,,0,0,0,,{\kf20}Coat{\kf15} is{\kf25} pink{\kf25} and{\kf15} mane{\kf10} is{\kf30} stri{\kf15}pey
-Dialogue: 0,0:01:02.48,0:01:04.49,DEFAULT,,0,0,0,,{\kf25}Neck{\kf15} so{\kf35} long{\kf20} it's{\kf25} kin{\kf5}da{\kf30} frighte{\kf10}ning!
-Dialogue: 0,0:01:04.54,0:01:07.53,DEFAULT,,0,0,0,,{\kf40}Sprea{\kf20}ding{\kf20} her{\kf20} love{\kf20} let{\kf25}ters{\kf25} through{\kf10} the{\kf94} town
-Dialogue: 0,0:01:25.79,0:01:29.41,DEFAULT,,0,0,0,,{\kf25}That{\kf15} Dis{\kf25}sy{\kf40} Dee,{\kf20} she{\kf20} can{\kf25} be{\kf25} ra{\kf25}ther{\kf45} an{\kf54}gry
-Dialogue: 0,0:01:29.90,0:01:33.52,DEFAULT,,0,0,0,,{\kf15}She{\kf30} said,{\kf15} "E{\kf40}nough!"{\kf25} then{\kf15} she{\kf25} left{\kf20} in{\kf10} a{\kf45} big{\kf54} huff
-Dialogue: 0,0:01:34.11,0:01:37.73,DEFAULT,,0,0,0,,{\kf20}Our{\kf20} poor{\kf25} Love{\kf30} Let{\kf15}ters{\kf20} knit{\kf10} a{\kf35} sweat{\kf25}er{\kf15} to{\kf54} get{\kf45} her
-Dialogue: 0,0:01:37.78,0:01:40.18,DEFAULT,,0,0,0,,{\kf20}But{\kf20} Dis{\kf30}sy{\kf20} u{\kf30}ses{\kf20} it{\kf20} as{\kf15} a{\kf30} mop
-Dialogue: 0,0:01:41.45,0:01:43.51,DEFAULT,,0,0,0,,{\kf10}(she{\kf20} pretends{\kf5} she{\kf20} doesn't{\kf10} like{\kf5} it,{\kf35} but{\kf20} she{\kf35} does)
-Dialogue: 0,0:01:44.29,0:01:46.25,DEFAULT,,0,0,0,,{\kf20}She{\kf20} writes{\kf30} let{\kf25}ters,{\kf25} decked{\kf10} in{\kf20} glit{\kf15}ter
-Dialogue: 0,0:01:46.35,0:01:48.36,DEFAULT,,0,0,0,,{\kf25}Hearts{\kf10} and{\kf35} stars{\kf15} and{\kf25} smi{\kf10}ling{\kf15} sti{\kf25}ckers
-Dialogue: 0,0:01:48.40,0:01:50.95,DEFAULT,,0,0,0,,{\kf35}Sprea{\kf15}ding{\kf25} her{\kf20} love{\kf15} let{\kf25}ters{\kf25} through{\kf10} the{\kf54} town
-Dialogue: 0,0:01:52.61,0:01:54.67,DEFAULT,,0,0,0,,{\kf30}She{\kf20} wears{\kf15} per{\kf30}fume{\kf30} like{\kf5} a{\kf20} suns{\kf30}creen
-Dialogue: 0,0:01:54.72,0:01:56.73,DEFAULT,,0,0,0,,{\kf25}Don't{\kf10} get{\kf35} trapped{\kf15} in{\kf30}side{\kf10} her{\kf15} love{\kf20} beams!
-Dialogue: 0,0:01:56.78,0:01:59.57,DEFAULT,,0,0,0,,{\kf35}Sprea{\kf15}ding{\kf15} her{\kf25} love{\kf20} let{\kf25}ters{\kf30} through{\kf5} the{\kf79} town
-Dialogue: 0,0:02:26.00,0:02:27.96,DEFAULT,,0,0,0,,{\kf30}Val{\kf15}en{\kf35}tine's{\kf20} gets{\kf15} her{\kf15} ex{\kf30}cit{\kf10}ed
-Dialogue: 0,0:02:28.11,0:02:30.07,DEFAULT,,0,0,0,,{\kf25}Once{\kf10} a{\kf25} year{\kf30} she's{\kf20} in{\kf10} the{\kf20} lime{\kf20}light
-Dialogue: 0,0:02:30.11,0:02:33.25,DEFAULT,,0,0,0,,{\kf35}Sprea{\kf20}ding{\kf15} her{\kf25} love{\kf15} let{\kf20}ters{\kf25} through{\kf10} the{\kf113} town
-Dialogue: 0,0:03:07.76,0:03:09.77,DEFAULT,,0,0,0,,{\kf30}Friend{\kf20}ly{\kf25} gift{\kf25} or{\kf15} im{\kf15}po{\kf20}si{\kf25}tion?
-Dialogue: 0,0:03:09.87,0:03:11.82,DEFAULT,,0,0,0,,{\kf20}Pu{\kf20}pil{\kf30} hearts{\kf15} or{\kf20} eye{\kf15} con{\kf10}di{\kf30}tion?
-Dialogue: 0,0:03:11.92,0:03:14.52,DEFAULT,,0,0,0,,{\kf25}Ne{\kf15}ver{\kf25} can{\kf15} be{\kf20} too{\kf30} sure{\kf15} in{\kf15} this{\kf54} town
-Dialogue: 0,0:03:16.08,0:03:18.09,DEFAULT,,0,0,0,,{\kf15}She{\kf25} sells{\kf25} gift{\kf30} cards{\kf30} as{\kf10} a{\kf20} busi{\kf15}ness
-Dialogue: 0,0:03:18.24,0:03:20.15,DEFAULT,,0,0,0,,{\kf25}Cheers{\kf20} you{\kf10} up{\kf25} with{\kf30} hugs{\kf10} and{\kf20} kis{\kf15}ses
-Dialogue: 0,0:03:20.24,0:03:23.28,DEFAULT,,0,0,0,,{\kf35}Bare{\kf15}ly{\kf30} turns{\kf10} a{\kf25} pro{\kf15}fit{\kf15} in{\kf30} this{\kf69} town
-Dialogue: 0,0:03:43.94,0:03:49.47,DEFAULT,,0,0,0,,{\kf54}X-{\kf49} O-{\kf59} X-{\kf54} O,{\kf45} love{\kf20} is{\kf20} ip{\kf20}so{\kf79} fac{\kf54}to
-Dialogue: 0,0:03:49.62,0:03:53.14,DEFAULT,,0,0,0,,{\kf54}Love{\kf30} un{\kf40}con{\kf20}di{\kf35}tio{\kf79}na{\kf79}lly
-Dialogue: 0,0:03:55.30,0:04:00.73,DEFAULT,,0,0,0,,{\kf54}X-{\kf59} O-{\kf69} X-{\kf45} O,{\kf40} love{\kf20} is{\kf20} ip{\kf25}so{\kf64} fac{\kf45}to
-Dialogue: 0,0:04:01.02,0:04:04.75,DEFAULT,,0,0,0,,{\kf49}Love{\kf35} un{\kf30}con{\kf30}di{\kf40}tio{\kf79}na{\kf94}lly
-Dialogue: 0,0:04:06.61,0:04:12.09,DEFAULT,,0,0,0,,{\kf74}la{\kf59} la{\kf79} la{\kf49} la{\kf49} la{\kf25}la{\kf49}la{\kf20}la{\kf54} la{\kf49} la
-Dialogue: 0,0:04:12.48,0:04:16.05,DEFAULT,,0,0,0,,{\kf45}la{\kf30} la{\kf30}la{\kf45}la{\kf25}la{\kf79}la{\kf74} la
-Dialogue: 0,0:04:18.21,0:04:23.89,DEFAULT,,0,0,0,,{\kf59}la{\kf59} la{\kf69} la{\kf45} la{\kf49} la{\kf30}la{\kf40}la{\kf25}la{\kf79} la{\kf59} love
-Dialogue: 0,0:04:24.08,0:04:28.49,DEFAULT,,0,0,0,,{\kf59}love{\kf40} un{\kf40}con{\kf25}di{\kf49}tion{\kf64}al{\kf142}ly
+Dialogue: 0,0:00:33.60,0:00:37.33,DEFAULT,,0,0,0,,{\r}{\kf29}And{\kf17} when{\kf29} you're{\kf46} blue,{\kf23} she{\kf17} will{\kf46} send{\kf29} an{\kf11} "I{\kf57} love{\kf68} you"
+Dialogue: 0,0:00:37.72,0:00:41.34,DEFAULT,,0,0,0,,{\r}{\kf42}And{\kf12} if{\kf18} you're{\kf71} not,{\kf24} X-{\kf30}O-{\kf24}X-{\kf24}O{\kf24} marks{\kf30} the{\kf63} spot
+Dialogue: 0,0:00:41.93,0:00:45.50,DEFAULT,,0,0,0,,{\r}{\kf22}Like{\kf27} hid{\kf16}den{\kf32} trea{\kf27}sure{\kf32} there's{\kf11} a{\kf38} let{\kf27}ter{\kf11} un{\kf76}fet{\kf38}tered
+Dialogue: 0,0:00:45.60,0:00:48.10,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf36} how{\kf18} did{\kf24} she{\kf24} break{\kf24} in{\kf24}to{\kf30} my{\kf52} house?
+Dialogue: 0,0:00:49.07,0:00:51.28,DEFAULT,,0,0,0,,{\r}{\kf30}(oh{\kf59} no...{\kf18} did{\kf10} she{\kf18} climb{\kf10} in{\kf10} through{\kf12} my{\kf53} chimney??)
+Dialogue: 0,0:00:52.11,0:00:54.12,DEFAULT,,0,0,0,,{\r}{\kf37}Drop{\kf12} a{\kf37} note{\kf30} right{\kf24} in{\kf18} her{\kf18} ask{\kf25} box
+Dialogue: 0,0:00:54.22,0:00:56.17,DEFAULT,,0,0,0,,{\r}{\kf20}She{\kf27} can't{\kf34} speak{\kf27} but{\kf20} she's{\kf14} got{\kf34} sweet{\kf20} talk
+Dialogue: 0,0:00:56.22,0:00:58.87,DEFAULT,,0,0,0,,{\r}{\kf38}Sprea{\kf22}ding{\kf22} her{\kf28} love{\kf16} let{\kf33}ters{\kf28} through{\kf11} the{\kf66} town
+Dialogue: 0,0:01:00.48,0:01:02.44,DEFAULT,,0,0,0,,{\r}{\kf25}Coat{\kf19} is{\kf32} pink{\kf32} and{\kf19} mane{\kf13} is{\kf38} stri{\kf18}pey
+Dialogue: 0,0:01:02.49,0:01:04.50,DEFAULT,,0,0,0,,{\r}{\kf30}Neck{\kf18} so{\kf43} long{\kf24} it's{\kf30} kin{\kf10}da{\kf37} frighte{\kf10}ning!
+Dialogue: 0,0:01:04.54,0:01:07.53,DEFAULT,,0,0,0,,{\r}{\kf43}Sprea{\kf22}ding{\kf22} her{\kf22} love{\kf22} let{\kf27}ters{\kf27} through{\kf11} the{\kf103} town
+Dialogue: 0,0:01:25.79,0:01:29.41,DEFAULT,,0,0,0,,{\r}{\kf28}That{\kf17} Dis{\kf28}sy{\kf45} Dee,{\kf23} she{\kf23} can{\kf28} be{\kf28} ra{\kf28}ther{\kf51} an{\kf63}gry
+Dialogue: 0,0:01:29.90,0:01:33.53,DEFAULT,,0,0,0,,{\r}{\kf18}She{\kf37} said,{\kf18} "E{\kf49}nough!"{\kf31} then{\kf18} she{\kf31} left{\kf25} in{\kf12} a{\kf55} big{\kf68} huff
+Dialogue: 0,0:01:34.11,0:01:37.74,DEFAULT,,0,0,0,,{\r}{\kf23}Our{\kf23} poor{\kf29} Love{\kf34} Let{\kf17}ters{\kf23} knit{\kf11} a{\kf40} sweat{\kf29}er{\kf17} to{\kf63} get{\kf53} her
+Dialogue: 0,0:01:37.79,0:01:40.18,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf23} Dis{\kf35}sy{\kf23} u{\kf35}ses{\kf23} it{\kf23} as{\kf18} a{\kf37} mop
+Dialogue: 0,0:01:41.46,0:01:43.51,DEFAULT,,0,0,0,,{\r}{\kf13}(she{\kf26} pretends{\kf10} she{\kf26} doesn't{\kf13} like{\kf10} it,{\kf45} but{\kf26} she{\kf37} does)
+Dialogue: 0,0:01:44.30,0:01:46.26,DEFAULT,,0,0,0,,{\r}{\kf24}She{\kf24} writes{\kf36} let{\kf30}ters,{\kf30} decked{\kf12} in{\kf24} glit{\kf16}ter
+Dialogue: 0,0:01:46.35,0:01:48.36,DEFAULT,,0,0,0,,{\r}{\kf31}Hearts{\kf13} and{\kf44} stars{\kf19} and{\kf31} smi{\kf13}ling{\kf19} sti{\kf31}ckers
+Dialogue: 0,0:01:48.41,0:01:50.95,DEFAULT,,0,0,0,,{\r}{\kf40}Sprea{\kf17}ding{\kf28} her{\kf23} love{\kf17} let{\kf28}ters{\kf28} through{\kf11} the{\kf63} town
+Dialogue: 0,0:01:52.62,0:01:54.68,DEFAULT,,0,0,0,,{\r}{\kf34}She{\kf23} wears{\kf17} per{\kf34}fume{\kf34} like{\kf10} a{\kf23} suns{\kf31}creen
+Dialogue: 0,0:01:54.72,0:01:56.73,DEFAULT,,0,0,0,,{\r}{\kf31}Don't{\kf13} get{\kf44} trapped{\kf19} in{\kf38}side{\kf13} her{\kf19} love{\kf24} beams!
+Dialogue: 0,0:01:56.78,0:01:59.57,DEFAULT,,0,0,0,,{\r}{\kf39}Sprea{\kf17}ding{\kf17} her{\kf28} love{\kf22} let{\kf28}ters{\kf33} through{\kf10} the{\kf85} town
+Dialogue: 0,0:02:26.01,0:02:27.97,DEFAULT,,0,0,0,,{\r}{\kf35}Val{\kf17}en{\kf40}tine's{\kf23} gets{\kf17} her{\kf17} ex{\kf35}cit{\kf12}ed
+Dialogue: 0,0:02:28.11,0:02:30.07,DEFAULT,,0,0,0,,{\r}{\kf31}Once{\kf12} a{\kf31} year{\kf37} she's{\kf24} in{\kf12} the{\kf24} lime{\kf25}light
+Dialogue: 0,0:02:30.12,0:02:33.25,DEFAULT,,0,0,0,,{\r}{\kf39}Sprea{\kf22}ding{\kf17} her{\kf28} love{\kf17} let{\kf22}ters{\kf28} through{\kf11} the{\kf129} town
+Dialogue: 0,0:03:07.77,0:03:09.77,DEFAULT,,0,0,0,,{\r}{\kf34}Friend{\kf23}ly{\kf29} gift{\kf29} or{\kf17} im{\kf17}po{\kf23}si{\kf29}tion?
+Dialogue: 0,0:03:09.87,0:03:11.83,DEFAULT,,0,0,0,,{\r}{\kf24}Pu{\kf24}pil{\kf37} hearts{\kf18} or{\kf24} eye{\kf18} con{\kf12}di{\kf39}tion?
+Dialogue: 0,0:03:11.93,0:03:14.52,DEFAULT,,0,0,0,,{\r}{\kf30}Ne{\kf18}ver{\kf30} can{\kf18} be{\kf24} too{\kf36} sure{\kf18} in{\kf18} this{\kf67} town
+Dialogue: 0,0:03:16.09,0:03:18.10,DEFAULT,,0,0,0,,{\r}{\kf18}She{\kf30} sells{\kf30} gift{\kf35} cards{\kf35} as{\kf12} a{\kf24} busi{\kf17}ness
+Dialogue: 0,0:03:18.24,0:03:20.15,DEFAULT,,0,0,0,,{\r}{\kf31}Cheers{\kf25} you{\kf12} up{\kf31} with{\kf37} hugs{\kf12} and{\kf25} kis{\kf18}ses
+Dialogue: 0,0:03:20.25,0:03:23.29,DEFAULT,,0,0,0,,{\r}{\kf43}Bare{\kf19}ly{\kf37} turns{\kf12} a{\kf31} pro{\kf19}fit{\kf19} in{\kf37} this{\kf87} town
+Dialogue: 0,0:03:43.94,0:03:49.48,DEFAULT,,0,0,0,,{\r}{\kf66}X-{\kf60} O-{\kf72} X-{\kf66} O,{\kf54} love{\kf24} is{\kf24} ip{\kf24}so{\kf96} fac{\kf67}to
+Dialogue: 0,0:03:49.62,0:03:53.15,DEFAULT,,0,0,0,,{\r}{\kf57}Love{\kf31} un{\kf41}con{\kf21}di{\kf36}tio{\kf83}na{\kf83}lly
+Dialogue: 0,0:03:55.30,0:04:00.74,DEFAULT,,0,0,0,,{\r}{\kf67}X-{\kf73} O-{\kf85} X-{\kf55} O,{\kf49} love{\kf24} is{\kf24} ip{\kf31}so{\kf79} fac{\kf56}to
+Dialogue: 0,0:04:01.03,0:04:04.75,DEFAULT,,0,0,0,,{\r}{\kf52}Love{\kf36} un{\kf31}con{\kf31}di{\kf41}tio{\kf83}na{\kf98}lly
+Dialogue: 0,0:04:06.61,0:04:12.09,DEFAULT,,0,0,0,,{\r}{\kf80}la{\kf64} la{\kf85} la{\kf53} la{\kf53} la{\kf27}la{\kf53}la{\kf21}la{\kf59} la{\kf53} la
+Dialogue: 0,0:04:12.49,0:04:16.06,DEFAULT,,0,0,0,,{\r}{\kf49}la{\kf32} la{\kf32}la{\kf49}la{\kf27}la{\kf87}la{\kf81} la
+Dialogue: 0,0:04:18.21,0:04:23.89,DEFAULT,,0,0,0,,{\r}{\kf66}la{\kf66} la{\kf76} la{\kf49} la{\kf55} la{\kf33}la{\kf44}la{\kf27}la{\kf87} la{\kf65} love
+Dialogue: 0,0:04:24.09,0:04:28.49,DEFAULT,,0,0,0,,{\r}{\kf62}love{\kf42} un{\kf42}con{\kf26}di{\kf52}tion{\kf67}al{\kf150}ly

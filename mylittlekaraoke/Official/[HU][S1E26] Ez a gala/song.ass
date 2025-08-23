@@ -1,64 +1,71 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Ez a gála
+Artist: Én Kicsi Pónim
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.58,0:00:09.41,DEFAULT,,0,0,0,,{\kf12}Ez{\kf12} a{\kf27} gá{\kf30}la!
-Dialogue: 0,0:00:09.48,0:00:11.36,DEFAULT,,0,0,0,,{\kf19}Ez{\kf12} a{\kf27} gá{\kf27}la,{\kf15} kint{\kf12} a{\kf27} kert{\kf30}ben
-Dialogue: 0,0:00:11.51,0:00:13.27,DEFAULT,,0,0,0,,{\kf19}A{\kf12}ki{\kf27} szá{\kf27}mít{\kf27} ott{\kf19} van{\kf27} má{\kf19}-ár
-Dialogue: 0,0:00:13.46,0:00:16.91,DEFAULT,,0,0,0,,{\kf12}S{\kf12} a{\kf12}ki{\kf23} ott{\kf23} lesz,{\kf19} mind{\kf12} ba{\kf27}rá{\kf27}tunk.{\kf23} Ez{\kf19} a{\kf27} gá{\kf83}la!
-Dialogue: 0,0:00:17.47,0:00:19.42,DEFAULT,,0,0,0,,{\kf19}A{\kf15}ki{\kf23} má{\kf30}szik,{\kf19} a{\kf12}ki{\kf30} röp{\kf34}pen
-Dialogue: 0,0:00:19.53,0:00:21.48,DEFAULT,,0,0,0,,{\kf15}Ki{\kf15}csi,{\kf23} nagy{\kf27} és{\kf27} té{\kf19}ged{\kf34} vá{\kf30}-ár
-Dialogue: 0,0:00:21.52,0:00:23.43,DEFAULT,,0,0,0,,{\kf19}Jó{\kf15} ba{\kf23}rá{\kf27}tok,{\kf15} kö{\kf19}zös{\kf23} em{\kf34}lék
-Dialogue: 0,0:00:23.81,0:00:27.86,DEFAULT,,0,0,0,,{\kf23}Ös{\kf53}sze{\kf53}fűz{\kf38} a{\kf38} gá{\kf165}la!
-Dialogue: 0,0:00:31.53,0:00:33.22,DEFAULT,,0,0,0,,{\kf19}Ez{\kf12} a{\kf15} gá{\kf30}la, {\kf12}csu{\kf12}da{\kf23} üz{\kf23}let
-Dialogue: 0,0:00:33.59,0:00:35.09,DEFAULT,,0,0,0,,{\kf19}Az{\kf23} al{\kf27}mám{\kf19} é{\kf27}des,{\kf34} friss
-Dialogue: 0,0:00:35.51,0:00:37.38,DEFAULT,,0,0,0,,{\kf15}Ki{\kf15}es{\kf27} pó{\kf34}ni, {\kf15}gye{\kf12}re{\kf23} vedd{\kf30} meg
-Dialogue: 0,0:00:37.53,0:00:39.11,DEFAULT,,0,0,0,,{\kf15}Ve{\kf12}gyél{\kf23} al{\kf23}más{\kf19} ré{\kf15}test{\kf30} is
-Dialogue: 0,0:00:39.59,0:00:41.47,DEFAULT,,0,0,0,,{\kf19}A{\kf27} mun{\kf27}kám{\kf23}nak{\kf19} gyü{\kf23}möl{\kf38}cse
-Dialogue: 0,0:00:41.92,0:00:45.97,DEFAULT,,0,0,0,,{\kf34}Vég{\kf49}re{\kf45} be{\kf45} is{\kf27} é{\kf188}rik!
-Dialogue: 0,0:00:53.54,0:00:55.46,DEFAULT,,0,0,0,,{\kf12}A{\kf12}ki{\kf19} itt{\kf23} lesz,{\kf15} csu{\kf12}pa{\kf23} fel{\kf38}ség
-Dialogue: 0,0:00:55.53,0:00:57.33,DEFAULT,,0,0,0,,{\kf15}Va{\kf15}la{\kf19}men{\kf23}nyi{\kf34} lát{\kf19} en{\kf53}gem
-Dialogue: 0,0:00:57.44,0:01:01.42,DEFAULT,,0,0,0,,{\kf8}S{\kf19} fel{\kf19}e{\kf19}mel{\kf23} hoz{\kf30}zá{\kf23}juk{\kf23} en{\kf23}gem{\kf19} is{\kf19} a{\kf30} gá{\kf132}la!
-Dialogue: 0,0:01:01.53,0:01:03.33,DEFAULT,,0,0,0,,{\kf15}En{\kf15}gem{\kf19} is{\kf42} vár{\kf15} itt{\kf15} egy{\kf27} her{\kf23}ceg
-Dialogue: 0,0:01:03.52,0:01:05.43,DEFAULT,,0,0,0,,{\kf19}Ke{\kf19}res{\kf19}sük{\kf19} egy{\kf27}mást{\kf23} ket{\kf60}ten
-Dialogue: 0,0:01:05.54,0:01:07.68,DEFAULT,,0,0,0,,{\kf19}Ne{\kf23}kem{\kf23} ő{\kf38} kell,{\kf8} s{\kf19} tu{\kf19}dom{\kf23} én{\kf34} is
-Dialogue: 0,0:01:07.87,0:01:13.19,DEFAULT,,0,0,0,,{\kf45}Jó{\kf45} le{\kf45}szek{\kf42} majd{\kf42} ná{\kf293}la!
-Dialogue: 0,0:01:25.04,0:01:26.81,DEFAULT,,0,0,0,,{\kf27}Csak{\kf30} ál{\kf19}mok,{\kf15} csak{\kf15} a{\kf30} vá{\kf27}gyak
-Dialogue: 0,0:01:27.03,0:01:28.87,DEFAULT,,0,0,0,,{\kf23}Ér{\kf27}zem,{\kf19} hogy{\kf19} va{\kf15}ló{\kf12}ra{\kf27} vál{\kf30}nak
-Dialogue: 0,0:01:29.06,0:01:30.82,DEFAULT,,0,0,0,,{\kf15}Ki{\kf23} ed{\kf27}dig{\kf23} még{\kf23} csak{\kf23} pél{\kf15}da{\kf23}ként
-Dialogue: 0,0:01:31.27,0:01:32.88,DEFAULT,,0,0,0,,{\kf19}Ve{\kf15}lem{\kf27} száll{\kf15} most{\kf23} fecs{\kf15}ke{\kf30}ként
-Dialogue: 0,0:01:33.11,0:01:35.02,DEFAULT,,0,0,0,,{\kf23}A{\kf23} pat{\kf30}kóm{\kf15} lán{\kf15}go{\kf30}kat{\kf49} szór
-Dialogue: 0,0:01:35.09,0:01:36.86,DEFAULT,,0,0,0,,{\kf12}A{\kf15} kö{\kf15}zön{\kf42}ség{\kf19} majd{\kf23} tap{\kf38}sol
-Dialogue: 0,0:01:37.04,0:01:38.84,DEFAULT,,0,0,0,,{\kf23}És{\kf19} pe{\kf19}ga{\kf27}zus{\kf34}sá{\kf27} tesz{\kf23} majd
-Dialogue: 0,0:01:38.96,0:01:43.31,DEFAULT,,0,0,0,,{\kf34}En{\kf57}gem{\kf19} is{\kf45} a{\kf45} gá{\kf203}la! 
-Dialogue: 0,0:01:50.54,0:01:52.31,DEFAULT,,0,0,0,,{\kf15}I{\kf15}gen{\kf15} el{\kf27}jöt{\kf23}tem{\kf30} hát{\kf23} én{\kf15} is.
-Dialogue: 0,0:01:52.57,0:01:54.37,DEFAULT,,0,0,0,,{\kf19}U{\kf12}gyan{\kf19}úgy{\kf19} mint{\kf30} bár{\kf23}ki{\kf53} más
-Dialogue: 0,0:01:54.59,0:01:56.28,DEFAULT,,0,0,0,,{\kf12}I{\kf12}de{\kf23} már{\kf23} csak{\kf23} én{\kf30} kel{\kf23}let{\kf19}tem
-Dialogue: 0,0:01:56.36,0:01:58.27,DEFAULT,,0,0,0,,{\kf19}Ró{\kf15}zsa{\kf27}szí{\kf30}nű{\kf27} rá{\kf19}a{\kf45}dás
-Dialogue: 0,0:01:58.53,0:02:00.59,DEFAULT,,0,0,0,,{\kf12}Hi{\kf15}szen{\kf27} par{\kf23}ti{\kf30}ban{\kf23} én{\kf30} nagy{\kf23} va{\kf23}gyok
-Dialogue: 0,0:02:00.63,0:02:02.36,DEFAULT,,0,0,0,,{\kf19}Ezt{\kf19} u{\kf23}gye{\kf27} tud{\kf27}juk{\kf45} jól
-Dialogue: 0,0:02:02.58,0:02:04.46,DEFAULT,,0,0,0,,{\kf15}Gye{\kf15}re{\kf23} tán{\kf34}colj,{\kf15} gye{\kf12}re{\kf23} lán{\kf34}golj
-Dialogue: 0,0:02:04.64,0:02:09.07,DEFAULT,,0,0,0,,{\kf15}Gye{\kf15}re,{\kf38} hív{\kf42} té{\kf49}ged{\kf42} a{\kf34} gá{\kf184}la!
-Dialogue: 0,0:02:14.58,0:02:16.49,DEFAULT,,0,0,0,,{\kf19}Ez{\kf12} a{\kf23} gá{\kf30}la,{\kf15} her{\kf15}ceg{\kf27}nőm{\kf30}mel
-Dialogue: 0,0:02:16.61,0:02:18.29,DEFAULT,,0,0,0,,{\kf15}Ne{\kf19}kem{\kf15} ott{\kf19} van{\kf19} a{\kf23} he{\kf49}lyem
-Dialogue: 0,0:02:18.63,0:02:20.62,DEFAULT,,0,0,0,,{\kf15}Ne{\kf15}ki{\kf19} mon{\kf23}dok{\kf23} majd{\kf19} sok{\kf30} cso{\kf53}dát
-Dialogue: 0,0:02:20.62,0:02:22.42,DEFAULT,,0,0,0,,{\kf23}Mit{\kf23} lá{\kf30}tott{\kf15} a{\kf19} sze{\kf60}mem
-Dialogue: 0,0:02:22.64,0:02:24.44,DEFAULT,,0,0,0,,{\kf15}És{\kf12} az{\kf23} es{\kf23}tét{\kf15} ki{\kf23}vel{\kf34} töl{\kf27}ti
-Dialogue: 0,0:02:24.56,0:02:29.17,DEFAULT,,0,0,0,,{\kf34}Nem{\kf38} más{\kf45}sal,{\kf49} csak{\kf49} ve{\kf225}lem
-Dialogue: 0,0:02:42.89,0:02:44.81,DEFAULT,,0,0,0,,{\kf19}Itt{\kf15} van{\kf12} a{\kf19} gá{\kf27}la, {\kf23} is{\kf23}mer{\kf45}kedj!
-Dialogue: 0,0:02:44.88,0:02:46.79,DEFAULT,,0,0,0,,{\kf19}Itt{\kf15} van{\kf12} a{\kf15} gá{\kf19}la,{\kf27} rág{\kf23}csálj{\kf23} al{\kf23}mát!
-Dialogue: 0,0:02:46.79,0:02:48.74,DEFAULT,,0,0,0,,{\kf27}Itt{\kf15} van{\kf15} a{\kf19} gá{\kf30}la,{\kf27} her{\kf27}ceg{\kf38} vár!
-Dialogue: 0,0:02:48.89,0:02:49.83,DEFAULT,,0,0,0,,{\kf23}Ak{\kf15}ro{\kf12}ba{\kf27}ták{\kf19}kal
-Dialogue: 0,0:02:50.81,0:02:54.03,DEFAULT,,0,0,0,,{\kf15}Gye{\kf19}re!{\kf15} Ke{\kf27}ress!{\kf19} Sze{\kf34}ress!{\kf15} Re{\kf34}pülj!{\kf15} Ne{\kf34}vess!{\kf15} Be{\kf34}szélj!
-Dialogue: 0,0:02:54.14,0:02:56.13,DEFAULT,,0,0,0,,{\kf23}Itt{\kf23} van{\kf23} a{\kf27} gá{\kf94}la!
-Dialogue: 0,0:02:56.13,0:02:58.08,DEFAULT,,0,0,0,,{\kf27}Itt{\kf23} van{\kf23} a{\kf27} gá{\kf90}la!
-Dialogue: 0,0:02:58.49,0:03:00.86,DEFAULT,,0,0,0,,{\kf15}Ez{\kf19} a{\kf38} leg{\kf53}szebb{\kf53} éj{\kf49}jel
-Dialogue: 0,0:03:00.93,0:03:05.17,DEFAULT,,0,0,0,,{\kf27}Ne{\kf394}kem!
-Dialogue: 0,0:03:06.59,0:03:07.42,DEFAULT,,0,0,0,,{\kf15}Ez{\kf15} a{\kf19} gá{\kf30}la! 
+Dialogue: 0,0:00:08.59,0:00:09.41,DEFAULT,,0,0,0,,{\r}{\kf12}Ez{\kf12} a{\kf28} gá{\kf31}la!
+Dialogue: 0,0:00:09.49,0:00:11.36,DEFAULT,,0,0,0,,{\r}{\kf21}Ez{\kf13} a{\kf30} gá{\kf30}la,{\kf17} kint{\kf13} a{\kf30} kert{\kf34}ben
+Dialogue: 0,0:00:11.51,0:00:13.27,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf11}ki{\kf27} szá{\kf27}mít{\kf27} ott{\kf19} van{\kf27} má{\kf19}-ár
+Dialogue: 0,0:00:13.46,0:00:16.91,DEFAULT,,0,0,0,,{\r}{\kf12}S{\kf12} a{\kf12}ki{\kf25} ott{\kf25} lesz,{\kf21} mind{\kf12} ba{\kf29}rá{\kf29}tunk.{\kf25} Ez{\kf21} a{\kf29} gá{\kf93}la!
+Dialogue: 0,0:00:17.47,0:00:19.42,DEFAULT,,0,0,0,,{\r}{\kf20}A{\kf16}ki{\kf24} má{\kf32}szik,{\kf20} a{\kf12}ki{\kf32} röp{\kf39}pen
+Dialogue: 0,0:00:19.54,0:00:21.49,DEFAULT,,0,0,0,,{\r}{\kf16}Ki{\kf16}csi,{\kf23} nagy{\kf27} és{\kf27} té{\kf20}ged{\kf35} vá{\kf31}-ár
+Dialogue: 0,0:00:21.52,0:00:23.44,DEFAULT,,0,0,0,,{\r}{\kf21}Jó{\kf17} ba{\kf25}rá{\kf29}tok,{\kf17} kö{\kf21}zös{\kf25} em{\kf36}lék
+Dialogue: 0,0:00:23.81,0:00:27.86,DEFAULT,,0,0,0,,{\r}{\kf25}Ös{\kf58}sze{\kf58}fűz{\kf41} a{\kf41} gá{\kf182}la!
+Dialogue: 0,0:00:31.54,0:00:33.22,DEFAULT,,0,0,0,,{\r}{\kf22}Ez{\kf13} a{\kf18} gá{\kf36}la,{\kf13}csu{\kf13}da{\kf27} üz{\kf27}let
+Dialogue: 0,0:00:33.60,0:00:35.10,DEFAULT,,0,0,0,,{\r}{\kf19}Az{\kf23} al{\kf27}mám{\kf19} é{\kf27}des,{\kf35} friss
+Dialogue: 0,0:00:35.51,0:00:37.39,DEFAULT,,0,0,0,,{\r}{\kf17}Ki{\kf17}es{\kf29} pó{\kf37}ni,{\kf17}gye{\kf12}re{\kf25} vedd{\kf33} meg
+Dialogue: 0,0:00:37.54,0:00:39.11,DEFAULT,,0,0,0,,{\r}{\kf17}Ve{\kf13}gyél{\kf26} al{\kf26}más{\kf22} ré{\kf17}test{\kf36} is
+Dialogue: 0,0:00:39.60,0:00:41.47,DEFAULT,,0,0,0,,{\r}{\kf20}A{\kf29} mun{\kf29}kám{\kf25}nak{\kf20} gyü{\kf25}möl{\kf40}cse
+Dialogue: 0,0:00:41.92,0:00:45.97,DEFAULT,,0,0,0,,{\r}{\kf35}Vég{\kf51}re{\kf47} be{\kf47} is{\kf28} é{\kf197}rik!
+Dialogue: 0,0:00:53.55,0:00:55.46,DEFAULT,,0,0,0,,{\r}{\kf14}A{\kf14}ki{\kf24} itt{\kf29} lesz,{\kf19} csu{\kf14}pa{\kf29} fel{\kf48}ség
+Dialogue: 0,0:00:55.54,0:00:57.34,DEFAULT,,0,0,0,,{\r}{\kf15}Va{\kf15}la{\kf19}men{\kf23}nyi{\kf34} lát{\kf19} en{\kf55}gem
+Dialogue: 0,0:00:57.45,0:01:01.42,DEFAULT,,0,0,0,,{\r}{\kf10}S{\kf20} fel{\kf20}e{\kf20}mel{\kf23} hoz{\kf31}zá{\kf23}juk{\kf23} en{\kf23}gem{\kf20} is{\kf20} a{\kf31} gá{\kf134}la!
+Dialogue: 0,0:01:01.54,0:01:03.34,DEFAULT,,0,0,0,,{\r}{\kf16}En{\kf16}gem{\kf20} is{\kf44} vár{\kf16} itt{\kf16} egy{\kf28} her{\kf24}ceg
+Dialogue: 0,0:01:03.52,0:01:05.44,DEFAULT,,0,0,0,,{\r}{\kf19}Ke{\kf19}res{\kf19}sük{\kf19} egy{\kf27}mást{\kf23} ket{\kf65}ten
+Dialogue: 0,0:01:05.55,0:01:07.69,DEFAULT,,0,0,0,,{\r}{\kf20}Ne{\kf24}kem{\kf24} ő{\kf40} kell,{\kf10} s{\kf20} tu{\kf20}dom{\kf24} én{\kf32} is
+Dialogue: 0,0:01:07.87,0:01:13.20,DEFAULT,,0,0,0,,{\r}{\kf47}Jó{\kf47} le{\kf47}szek{\kf43} majd{\kf43} ná{\kf305}la!
+Dialogue: 0,0:01:25.05,0:01:26.81,DEFAULT,,0,0,0,,{\r}{\kf29}Csak{\kf33} ál{\kf20}mok,{\kf16} csak{\kf16} a{\kf33} vá{\kf29}gyak
+Dialogue: 0,0:01:27.04,0:01:28.87,DEFAULT,,0,0,0,,{\r}{\kf25}Ér{\kf29}zem,{\kf20} hogy{\kf20} va{\kf16}ló{\kf12}ra{\kf29} vál{\kf33}nak
+Dialogue: 0,0:01:29.06,0:01:30.82,DEFAULT,,0,0,0,,{\r}{\kf16}Ki{\kf23} ed{\kf27}dig{\kf23} még{\kf23} csak{\kf23} pél{\kf16}da{\kf25}ként
+Dialogue: 0,0:01:31.27,0:01:32.89,DEFAULT,,0,0,0,,{\r}{\kf21}Ve{\kf17}lem{\kf30} száll{\kf17} most{\kf25} fecs{\kf17}ke{\kf34}ként
+Dialogue: 0,0:01:33.11,0:01:35.02,DEFAULT,,0,0,0,,{\r}{\kf23}A{\kf23} pat{\kf31}kóm{\kf16} lán{\kf16}go{\kf31}kat{\kf51} szór
+Dialogue: 0,0:01:35.10,0:01:36.86,DEFAULT,,0,0,0,,{\r}{\kf12}A{\kf16} kö{\kf16}zön{\kf45}ség{\kf20} majd{\kf25} tap{\kf42}sol
+Dialogue: 0,0:01:37.05,0:01:38.85,DEFAULT,,0,0,0,,{\r}{\kf24}És{\kf20} pe{\kf20}ga{\kf28}zus{\kf36}sá{\kf28} tesz{\kf24} majd
+Dialogue: 0,0:01:38.96,0:01:43.31,DEFAULT,,0,0,0,,{\r}{\kf37}En{\kf61}gem{\kf20} is{\kf49} a{\kf49} gá{\kf219}la!
+Dialogue: 0,0:01:50.55,0:01:52.31,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16}gen{\kf16} el{\kf29}jöt{\kf25}tem{\kf33} hát{\kf25} én{\kf16} is.
+Dialogue: 0,0:01:52.57,0:01:54.37,DEFAULT,,0,0,0,,{\r}{\kf20}U{\kf12}gyan{\kf20}úgy{\kf20} mint{\kf31} bár{\kf23}ki{\kf54} más
+Dialogue: 0,0:01:54.60,0:01:56.29,DEFAULT,,0,0,0,,{\r}{\kf12}I{\kf12}de{\kf24} már{\kf24} csak{\kf24} én{\kf31} kel{\kf24}let{\kf18}tem
+Dialogue: 0,0:01:56.36,0:01:58.27,DEFAULT,,0,0,0,,{\r}{\kf20}Ró{\kf16}zsa{\kf28}szí{\kf32}nű{\kf28} rá{\kf20}a{\kf47}dás
+Dialogue: 0,0:01:58.54,0:02:00.60,DEFAULT,,0,0,0,,{\r}{\kf11}Hi{\kf15}szen{\kf27} par{\kf23}ti{\kf31}ban{\kf23} én{\kf31} nagy{\kf23} va{\kf22}gyok
+Dialogue: 0,0:02:00.64,0:02:02.36,DEFAULT,,0,0,0,,{\r}{\kf21}Ezt{\kf21} u{\kf25}gye{\kf29} tud{\kf29}juk{\kf48} jól
+Dialogue: 0,0:02:02.59,0:02:04.46,DEFAULT,,0,0,0,,{\r}{\kf17}Gye{\kf17}re{\kf25} tán{\kf38}colj,{\kf17} gye{\kf13}re{\kf25} lán{\kf36}golj
+Dialogue: 0,0:02:04.65,0:02:09.07,DEFAULT,,0,0,0,,{\r}{\kf16}Gye{\kf16}re,{\kf40} hív{\kf44} té{\kf52}ged{\kf44} a{\kf36} gá{\kf194}la!
+Dialogue: 0,0:02:14.59,0:02:16.50,DEFAULT,,0,0,0,,{\r}{\kf21}Ez{\kf13} a{\kf25} gá{\kf34}la,{\kf17} her{\kf17}ceg{\kf30}nőm{\kf34}mel
+Dialogue: 0,0:02:16.61,0:02:18.30,DEFAULT,,0,0,0,,{\r}{\kf16}Ne{\kf20}kem{\kf16} ott{\kf20} van{\kf20} a{\kf24} he{\kf53}lyem
+Dialogue: 0,0:02:18.64,0:02:20.62,DEFAULT,,0,0,0,,{\r}{\kf15}Ne{\kf15}ki{\kf19} mon{\kf23}dok{\kf23} majd{\kf19} sok{\kf31} cso{\kf54}dát
+Dialogue: 0,0:02:20.62,0:02:22.42,DEFAULT,,0,0,0,,{\r}{\kf24}Mit{\kf24} lá{\kf32}tott{\kf16} a{\kf20} sze{\kf64}mem
+Dialogue: 0,0:02:22.65,0:02:24.45,DEFAULT,,0,0,0,,{\r}{\kf16}És{\kf12} az{\kf24} es{\kf24}tét{\kf16} ki{\kf24}vel{\kf36} töl{\kf28}ti
+Dialogue: 0,0:02:24.56,0:02:29.17,DEFAULT,,0,0,0,,{\r}{\kf35}Nem{\kf39} más{\kf47}sal,{\kf51} csak{\kf51} ve{\kf238}lem
+Dialogue: 0,0:02:42.90,0:02:44.81,DEFAULT,,0,0,0,,{\r}{\kf20}Itt{\kf16} van{\kf12} a{\kf20} gá{\kf28}la,{\kf24} is{\kf24}mer{\kf47}kedj!
+Dialogue: 0,0:02:44.89,0:02:46.80,DEFAULT,,0,0,0,,{\r}{\kf21}Itt{\kf17} van{\kf12} a{\kf17} gá{\kf21}la,{\kf29} rág{\kf25}csálj{\kf25} al{\kf24}mát!
+Dialogue: 0,0:02:46.80,0:02:48.75,DEFAULT,,0,0,0,,{\r}{\kf26}Itt{\kf15} van{\kf15} a{\kf19} gá{\kf30}la,{\kf26} her{\kf26}ceg{\kf38} vár!
+Dialogue: 0,0:02:48.90,0:02:49.84,DEFAULT,,0,0,0,,{\r}{\kf23}Ak{\kf15}ro{\kf11}ba{\kf26}ták{\kf19}kal
+Dialogue: 0,0:02:50.81,0:02:54.04,DEFAULT,,0,0,0,,{\r}{\kf18}Gye{\kf22}re!{\kf18} Ke{\kf31}ress!{\kf22} Sze{\kf40}ress!{\kf18} Re{\kf40}pülj!{\kf18} Ne{\kf40}vess!{\kf18} Be{\kf38}szélj!
+Dialogue: 0,0:02:54.15,0:02:56.14,DEFAULT,,0,0,0,,{\r}{\kf24}Itt{\kf24} van{\kf24} a{\kf28} gá{\kf99}la!
+Dialogue: 0,0:02:56.14,0:02:58.09,DEFAULT,,0,0,0,,{\r}{\kf27}Itt{\kf23} van{\kf23} a{\kf27} gá{\kf95}la!
+Dialogue: 0,0:02:58.50,0:03:00.86,DEFAULT,,0,0,0,,{\r}{\kf16}Ez{\kf20} a{\kf39} leg{\kf55}szebb{\kf55} éj{\kf51}jel
+Dialogue: 0,0:03:00.94,0:03:05.17,DEFAULT,,0,0,0,,{\r}{\kf26}Ne{\kf398}kem!
+Dialogue: 0,0:03:06.60,0:03:07.42,DEFAULT,,0,0,0,,{\r}{\kf16}Ez{\kf16} a{\kf20} gá{\kf31}la!

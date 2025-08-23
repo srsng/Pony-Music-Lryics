@@ -1,71 +1,78 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Antonymph
+Artist: Vylet Pony
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:28.87,0:00:31.82,DEFAULT,,0,0,0,,{\kf2903}I{\kf2906} mes{\kf2903}saged{\kf2910} some{\kf2903}po{\kf2903}ny{\kf2903} o{\kf2899}ver{\kf2903} Tum{\kf2903}blr{\kf2903} last{\kf2910} night
-Dialogue: 0,0:00:32.05,0:00:35.61,DEFAULT,,0,0,0,,{\kf2903}She{\kf2910} said{\kf2918} "RAWR{\kf2914} X{\kf2903}3"{\kf2899} so{\kf2903} it's{\kf2903} true{\kf2903} love{\kf2899} at{\kf2903} first{\kf2925} sight
-Dialogue: 0,0:00:36.18,0:00:37.65,DEFAULT,,0,0,0,,{\kf2903}Throw{\kf2899} on{\kf2903} my{\kf2903} kan{\kf2903}di{\kf2899} bra{\kf2903}celets
-Dialogue: 0,0:00:37.80,0:00:39.13,DEFAULT,,0,0,0,,{\kf2899}Now{\kf2899} I'm{\kf2906} head{\kf2899}ed{\kf2899} to{\kf2910} class
-Dialogue: 0,0:00:39.28,0:00:40.87,DEFAULT,,0,0,0,,{\kf2903}I'm{\kf2906} still{\kf2906} twen{\kf2903}ty{\kf2903} per{\kf2910}cent
-Dialogue: 0,0:00:41.18,0:00:43.56,DEFAULT,,0,0,0,,{\kf2899}So{\kf2903} get{\kf2903} your{\kf2903} head{\kf2906} out{\kf2906} your{\kf2910} ass{\kf2895}~{\kf2895}~{\kf2918}~
-Dialogue: 0,0:00:44.09,0:00:45.30,DEFAULT,,0,0,0,,{\kf2903}I'm{\kf2899} the{\kf2903} an{\kf2903}to{\kf2918}nymph
-Dialogue: 0,0:00:45.46,0:00:46.63,DEFAULT,,0,0,0,,{\kf2903}Of{\kf2899} the{\kf2903} in{\kf2903}ter{\kf2914}net
-Dialogue: 0,0:00:47.08,0:00:49.09,DEFAULT,,0,0,0,,{\kf2903}Still{\kf2903} clean{\kf2903}ing{\kf2903} up{\kf2903} the{\kf2906} vi{\kf2903}ru{\kf2929}ses
-Dialogue: 0,0:00:49.36,0:00:50.99,DEFAULT,,0,0,0,,{\kf2899}That{\kf2903} you{\kf2903} had{\kf2910} left{\kf2895}~{\kf2891}~{\kf2941}~
-Dialogue: 0,0:00:51.14,0:00:54.43,DEFAULT,,0,0,0,,{\kf2903}I{\kf2903} think{\kf2903} I'm{\kf2899} fal{\kf2903}ling{\kf2914} in{\kf2925} love{\kf2918} a{\kf2967}gain
-Dialogue: 0,0:00:55.00,0:00:58.15,DEFAULT,,0,0,0,,{\kf2914}Don't{\kf2918} stop,{\kf2914} don't{\kf2906} stop{\kf2903} un{\kf2899}til{\kf2903} you{\kf2903} hear{\kf2903} the{\kf2929} yay
-Dialogue: 0,0:00:58.64,0:00:59.89,DEFAULT,,0,0,0,,{\kf2903}I'm{\kf2903} the{\kf2903} an{\kf2903}to{\kf2918}nymph
-Dialogue: 0,0:01:00.04,0:01:01.40,DEFAULT,,0,0,0,,{\kf2903}Of{\kf2899} the{\kf2906} in{\kf2903}ter{\kf2933}net
-Dialogue: 0,0:01:01.63,0:01:05.46,DEFAULT,,0,0,0,,{\kf2903}Been{\kf2903} fight{\kf2903}ing{\kf2914} on{\kf2906} New{\kf2903}grounds{\kf2903} o{\kf2903}ver{\kf2903} if{\kf2903} my{\kf2903} love{\kf2903} is{\kf2929} va{\kf2929}lid
-Dialogue: 0,0:01:05.91,0:01:08.64,DEFAULT,,0,0,0,,{\kf2903}Fuck{\kf2903} the{\kf2903} cy{\kf2903}ni{\kf2903}ci{\kf2903}sm{\kf2903} let{\kf2899} the{\kf2903} co{\kf2903}lours{\kf2929} fly
-Dialogue: 0,0:01:08.87,0:01:12.77,DEFAULT,,0,0,0,,{\kf2903}Don't{\kf2903} care{\kf2903} you{\kf2903} think{\kf2903} it's{\kf2903} cringe{\kf2903} be{\kf2903}cause{\kf2903} it's{\kf2906} not{\kf2914} your{\kf2914} life{\kf2895}~{\kf2891}~{\kf2933}~
-Dialogue: 0,0:01:14.09,0:01:17.65,DEFAULT,,0,0,0,,{\kf2903}She{\kf2903} said{\kf2903} do{\kf2903} you{\kf2910} like{\kf2922} waf{\kf2903}fles?{\kf2903} I{\kf2910} said{\kf2922} HELL{\kf2925} YEAH!
-Dialogue: 0,0:01:17.99,0:01:21.33,DEFAULT,,0,0,0,,{\kf2899}Been{\kf2906} watch{\kf2903}ing{\kf2903} E{\kf2903}quals{\kf2903} Three{\kf2903} un{\kf2910}til{\kf2910} 2{\kf2914}a{\kf2933}m
-Dialogue: 0,0:01:21.55,0:01:24.58,DEFAULT,,0,0,0,,{\kf2903}I{\kf2903} ain't{\kf2903} got{\kf2918} no{\kf2918} i{\kf2906}Phone{\kf2895} but{\kf2895} I{\kf2903} got{\kf2903} a{\kf2903} D{\kf2910}S
-Dialogue: 0,0:01:25.00,0:01:26.48,DEFAULT,,0,0,0,,{\kf2903}With{\kf2903} a{\kf2903} key{\kf2903}chain{\kf2903} of{\kf2903} Pin{\kf2899}kie
-Dialogue: 0,0:01:26.63,0:01:28.30,DEFAULT,,0,0,0,,{\kf2899}Her{\kf2903} cup{\kf2903}cakez{\kf2914} are{\kf2903} the{\kf2922} best
-Dialogue: 0,0:01:28.64,0:01:30.23,DEFAULT,,0,0,0,,{\kf2903}I've{\kf2903} been{\kf2903} fail{\kf2903}ing{\kf2903} my{\kf2903} clas{\kf2910}ses
-Dialogue: 0,0:01:30.46,0:01:31.90,DEFAULT,,0,0,0,,{\kf2903}'Cuz{\kf2903} I{\kf2903} don't{\kf2903} give{\kf2903} a{\kf2918} damn
-Dialogue: 0,0:01:32.05,0:01:35.61,DEFAULT,,0,0,0,,{\kf2903}They{\kf2903} say{\kf2903} the{\kf2903} world{\kf2903} is{\kf2903} my{\kf2903} oys{\kf2903}ter{\kf2903} but{\kf2903} the{\kf2903} free{\kf2903} mar{\kf2903}ket's{\kf2903} a{\kf2922} scam
-Dialogue: 0,0:01:36.10,0:01:39.21,DEFAULT,,0,0,0,,{\kf2895}E{\kf2899}very{\kf2899}thing's{\kf2903} been{\kf2903} chang{\kf2903}ing{\kf2903} since{\kf2903} last{\kf2903} ge{\kf2903}ne{\kf2903}ra{\kf2903}tion{\kf2903} was{\kf2922} born
-Dialogue: 0,0:01:39.55,0:01:43.71,DEFAULT,,0,0,0,,{\kf2903}And{\kf2903} they{\kf2903} won't{\kf2903} try{\kf2903} to{\kf2903} take{\kf2903} in{\kf2903} change{\kf2903} is{\kf2903} a{\kf2906} two{\kf2914} edged{\kf2929} sword{\kf2937}~
-Dialogue: 0,0:01:58.64,0:01:59.89,DEFAULT,,0,0,0,,{\kf2903}I'm{\kf2903} the{\kf2906} an{\kf2903}to{\kf2918}nymph
-Dialogue: 0,0:02:00.04,0:02:01.18,DEFAULT,,0,0,0,,{\kf2903}Of{\kf2903} the{\kf2899} in{\kf2903}ter{\kf2914}net
-Dialogue: 0,0:02:01.59,0:02:03.60,DEFAULT,,0,0,0,,{\kf2903}Still{\kf2903} clean{\kf2903}ing{\kf2903} up{\kf2903} the{\kf2903} vi{\kf2903}ru{\kf2929}ses
-Dialogue: 0,0:02:03.87,0:02:05.49,DEFAULT,,0,0,0,,{\kf2903}That{\kf2903} you{\kf2903} had{\kf2910} left{\kf2895}~{\kf2895}~{\kf2933}~
-Dialogue: 0,0:02:05.68,0:02:08.98,DEFAULT,,0,0,0,,{\kf2903}I{\kf2903} think{\kf2903} I'm{\kf2899} fal{\kf2903}ling{\kf2914} in{\kf2918} love{\kf2918} a{\kf2967}gain
-Dialogue: 0,0:02:09.55,0:02:11.82,DEFAULT,,0,0,0,,{\kf2914}Don't{\kf2914} stop,{\kf2914} don't{\kf2906} stop{\kf2903} un{\kf2903}til{\kf2906} you-
-Dialogue: 0,0:02:13.18,0:02:14.43,DEFAULT,,0,0,0,,{\kf2903}I'm{\kf2903} the{\kf2903} an{\kf2903}to{\kf2922}nymph
-Dialogue: 0,0:02:14.58,0:02:15.87,DEFAULT,,0,0,0,,{\kf2899}Of{\kf2903} the{\kf2903} in{\kf2903}ter{\kf2929}net
-Dialogue: 0,0:02:16.18,0:02:19.93,DEFAULT,,0,0,0,,{\kf2903}Been{\kf2903} fight{\kf2903}ing{\kf2914} on{\kf2899} New{\kf2903}grounds{\kf2903} o{\kf2899}ver{\kf2903} if{\kf2903} my{\kf2903} love{\kf2903} is{\kf2918} va{\kf2929}lid
-Dialogue: 0,0:02:20.46,0:02:23.22,DEFAULT,,0,0,0,,{\kf2903}Fuck{\kf2903} the{\kf2903} cy{\kf2903}ni{\kf2903}ci{\kf2903}sm{\kf2903} let{\kf2903} the{\kf2903} co{\kf2903}lours{\kf2933} fly
-Dialogue: 0,0:02:23.41,0:02:27.27,DEFAULT,,0,0,0,,{\kf2903}Don't{\kf2903} care{\kf2903} you{\kf2903} think{\kf2903} it's{\kf2903} cringe{\kf2903} be{\kf2903}cause{\kf2903} it's{\kf2906} not{\kf2914} your{\kf2910} life{\kf2895}~{\kf2895}~{\kf2925}~
-Dialogue: 0,0:02:30.68,0:02:33.79,DEFAULT,,0,0,0,,{\kf2899}It's{\kf2903} ne{\kf2903}ver{\kf2910} too{\kf2906} late{\kf2903} to{\kf2903} fall{\kf2903} in{\kf2903} love{\kf2899} with{\kf2903} the{\kf2922} world
-Dialogue: 0,0:02:34.32,0:02:37.46,DEFAULT,,0,0,0,,{\kf2899}Your{\kf2899} past{\kf2903} is{\kf2903} not{\kf2903} to{\kf2903}day{\kf2903} so{\kf2903} set{\kf2899} your{\kf2903} stride{\kf2899} with{\kf2899} a{\kf2929} twirl
-Dialogue: 0,0:02:37.73,0:02:40.00,DEFAULT,,0,0,0,,{\kf2903}Yeah{\kf2903} we've{\kf2910} all{\kf2906} made{\kf2903} mis{\kf2910}takes{\kf2903} be{\kf2910}fore
-Dialogue: 0,0:02:40.23,0:02:41.82,DEFAULT,,0,0,0,,{\kf2903}That's{\kf2899} a{\kf2910} fact{\kf2899} of{\kf2899} life{\kf2910}~
-Dialogue: 0,0:02:42.05,0:02:43.68,DEFAULT,,0,0,0,,{\kf2903}But{\kf2903} once{\kf2903} you{\kf2903} re{\kf2903}stitch{\kf2903} your{\kf2914} heart
-Dialogue: 0,0:02:43.90,0:02:46.06,DEFAULT,,0,0,0,,{\kf2918}You'll{\kf2914} be{\kf2910} just{\kf2910} fine{\kf2944}~
-Dialogue: 0,0:02:46.63,0:02:49.47,DEFAULT,,0,0,0,,{\kf2899}Now{\kf2899} it's{\kf2899} your{\kf2899} life,{\kf2903} you'll{\kf2910} say{\kf2906} "It's{\kf2906} all{\kf2948} mine!
-Dialogue: 0,0:02:50.46,0:02:51.71,DEFAULT,,0,0,0,,{\kf2910}All{\kf2906} mine..{\kf2895}."{\kf2937}~
-Dialogue: 0,0:02:52.73,0:02:55.87,DEFAULT,,0,0,0,,{\kf2903}Re{\kf2903}vel{\kf2903} in{\kf2903} your{\kf2903} friends{\kf2903} and{\kf2906} hob{\kf2899}bies,{\kf2903} let{\kf2899} your{\kf2914} heart{\kf2903} speak{\kf2906}~
-Dialogue: 0,0:02:56.10,0:02:57.35,DEFAULT,,0,0,0,,{\kf2899}When{\kf2899} a{\kf2899} drif{\kf2899}ter{\kf2899} says{\kf2899} some{\kf2899} shit
-Dialogue: 0,0:02:57.50,0:03:00.61,DEFAULT,,0,0,0,,{\kf2903}Just{\kf2903} block{\kf2903} that{\kf2903} in{\kf2903}ter{\kf2899}net{\kf2925} freak{\kf2997}~
-Dialogue: 0,0:03:02.27,0:03:03.49,DEFAULT,,0,0,0,,{\kf2903}I'm{\kf2903} the{\kf2903} an{\kf2903}to{\kf2918}nymph
-Dialogue: 0,0:03:03.64,0:03:04.77,DEFAULT,,0,0,0,,{\kf2903}Of{\kf2903} the{\kf2903} in{\kf2903}ter{\kf2910}net
-Dialogue: 0,0:03:05.23,0:03:07.24,DEFAULT,,0,0,0,,{\kf2903}Still{\kf2903} clean{\kf2903}ing{\kf2903} up{\kf2903} the{\kf2899} vi{\kf2903}ru{\kf2929}ses
-Dialogue: 0,0:03:07.54,0:03:09.05,DEFAULT,,0,0,0,,{\kf2899}That{\kf2903} you{\kf2903} had{\kf2906} left{\kf2895}~{\kf2895}~{\kf2929}~
-Dialogue: 0,0:03:09.36,0:03:12.50,DEFAULT,,0,0,0,,{\kf2903}I{\kf2899} think{\kf2903} I'm{\kf2903} fal{\kf2903}ling{\kf2910} in{\kf2918} love{\kf2922} a{\kf2952}gain
-Dialogue: 0,0:03:13.18,0:03:15.38,DEFAULT,,0,0,0,,{\kf2914}Don't{\kf2918} stop,{\kf2918} don't{\kf2903} stop{\kf2903} un{\kf2903}til{\kf2903} you-
-Dialogue: 0,0:03:16.82,0:03:18.03,DEFAULT,,0,0,0,,{\kf2903}I'm{\kf2903} the{\kf2903} an{\kf2903}to{\kf2918}nymph
-Dialogue: 0,0:03:18.18,0:03:19.55,DEFAULT,,0,0,0,,{\kf2903}Of{\kf2903} the{\kf2903} in{\kf2903}ter{\kf2933}net
-Dialogue: 0,0:03:19.81,0:03:23.56,DEFAULT,,0,0,0,,{\kf2903}Been{\kf2903} fight{\kf2903}ing{\kf2910} on{\kf2903} New{\kf2903}grounds{\kf2899} o{\kf2903}ver{\kf2903} if{\kf2903} my{\kf2903} love{\kf2903} is{\kf2922} va{\kf2925}lid
-Dialogue: 0,0:03:24.09,0:03:26.82,DEFAULT,,0,0,0,,{\kf2903}Fuck{\kf2899} the{\kf2899} cy{\kf2903}ni{\kf2903}ci{\kf2903}sm{\kf2903} let{\kf2903} the{\kf2903} co{\kf2903}lours{\kf2929} fly
-Dialogue: 0,0:03:27.05,0:03:30.95,DEFAULT,,0,0,0,,{\kf2903}Don't{\kf2903} care{\kf2903} you{\kf2903} think{\kf2903} it's{\kf2903} cringe{\kf2903} be{\kf2899}cause{\kf2903} it's{\kf2906} not{\kf2910} your{\kf2910} life{\kf2895}~{\kf2895}~{\kf2933}~
+Dialogue: 0,0:00:28.87,0:00:31.82,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf28} mes{\kf23}saged{\kf34} some{\kf23}po{\kf23}ny{\kf23} o{\kf17}ver{\kf23} Tum{\kf23}blr{\kf23} last{\kf32} night
+Dialogue: 0,0:00:32.05,0:00:35.61,DEFAULT,,0,0,0,,{\r}{\kf23}She{\kf35} said{\kf47} "RAWR{\kf41} X{\kf23}3"{\kf18} so{\kf23} it's{\kf23} true{\kf23} love{\kf18} at{\kf23} first{\kf59} sight
+Dialogue: 0,0:00:36.18,0:00:37.66,DEFAULT,,0,0,0,,{\r}{\kf23}Throw{\kf17} on{\kf23} my{\kf23} kan{\kf23}di{\kf17} bra{\kf22}celets
+Dialogue: 0,0:00:37.81,0:00:39.14,DEFAULT,,0,0,0,,{\r}{\kf17}Now{\kf17} I'm{\kf29} head{\kf17}ed{\kf17} to{\kf36} class
+Dialogue: 0,0:00:39.29,0:00:40.88,DEFAULT,,0,0,0,,{\r}{\kf23}I'm{\kf28} still{\kf28} twen{\kf23}ty{\kf23} per{\kf34}cent
+Dialogue: 0,0:00:41.18,0:00:43.57,DEFAULT,,0,0,0,,{\r}{\kf17}So{\kf22} get{\kf22} your{\kf22} head{\kf28} out{\kf28} your{\kf33} ass{\kf11}~{\kf11}~{\kf45}~
+Dialogue: 0,0:00:44.10,0:00:45.31,DEFAULT,,0,0,0,,{\r}{\kf21}I'm{\kf16} the{\kf21} an{\kf21}to{\kf42}nymph
+Dialogue: 0,0:00:45.46,0:00:46.64,DEFAULT,,0,0,0,,{\r}{\kf21}Of{\kf16} the{\kf21} in{\kf21}ter{\kf38}net
+Dialogue: 0,0:00:47.09,0:00:49.10,DEFAULT,,0,0,0,,{\r}{\kf20}Still{\kf20} clean{\kf20}ing{\kf20} up{\kf20} the{\kf25} vi{\kf20}ru{\kf56}ses
+Dialogue: 0,0:00:49.36,0:00:50.99,DEFAULT,,0,0,0,,{\r}{\kf14}That{\kf19} you{\kf19} had{\kf29} left{\kf10}~{\kf10}~{\kf62}~
+Dialogue: 0,0:00:51.14,0:00:54.44,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf20} think{\kf20} I'm{\kf15} fal{\kf20}ling{\kf36} in{\kf51} love{\kf41} a{\kf107}gain
+Dialogue: 0,0:00:55.01,0:00:58.15,DEFAULT,,0,0,0,,{\r}{\kf39}Don't{\kf44} stop,{\kf39} don't{\kf28} stop{\kf22} un{\kf17}til{\kf22} you{\kf22} hear{\kf22} the{\kf59} yay
+Dialogue: 0,0:00:58.64,0:00:59.89,DEFAULT,,0,0,0,,{\r}{\kf21}I'm{\kf21} the{\kf21} an{\kf21}to{\kf41}nymph
+Dialogue: 0,0:01:00.04,0:01:01.41,DEFAULT,,0,0,0,,{\r}{\kf19}Of{\kf15} the{\kf24} in{\kf19}ter{\kf59}net
+Dialogue: 0,0:01:01.64,0:01:05.46,DEFAULT,,0,0,0,,{\r}{\kf21}Been{\kf21} fight{\kf21}ing{\kf36} on{\kf26} New{\kf21}grounds{\kf21} o{\kf21}ver{\kf21} if{\kf21} my{\kf21} love{\kf21} is{\kf57} va{\kf54}lid
+Dialogue: 0,0:01:05.92,0:01:08.64,DEFAULT,,0,0,0,,{\r}{\kf22}Fuck{\kf22} the{\kf22} cy{\kf22}ni{\kf22}ci{\kf22}sm{\kf22} let{\kf16} the{\kf22} co{\kf22}lours{\kf59} fly
+Dialogue: 0,0:01:08.87,0:01:12.77,DEFAULT,,0,0,0,,{\r}{\kf22}Don't{\kf22} care{\kf22} you{\kf22} think{\kf22} it's{\kf22} cringe{\kf22} be{\kf22}cause{\kf22} it's{\kf28} not{\kf39} your{\kf39} life{\kf11}~{\kf10}~{\kf65}~
+Dialogue: 0,0:01:14.10,0:01:17.66,DEFAULT,,0,0,0,,{\r}{\kf22}She{\kf22} said{\kf22} do{\kf22} you{\kf33} like{\kf50} waf{\kf22}fles?{\kf22} I{\kf33} said{\kf50} HELL{\kf58} YEAH!
+Dialogue: 0,0:01:18.00,0:01:21.33,DEFAULT,,0,0,0,,{\r}{\kf17}Been{\kf28} watch{\kf23}ing{\kf23} E{\kf23}quals{\kf23} Three{\kf23} un{\kf34}til{\kf34} 2{\kf40}a{\kf65}m
+Dialogue: 0,0:01:21.56,0:01:24.59,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} ain't{\kf22} got{\kf44} no{\kf44} i{\kf28}Phone{\kf11} but{\kf11} I{\kf22} got{\kf22} a{\kf22} D{\kf33}S
+Dialogue: 0,0:01:25.01,0:01:26.48,DEFAULT,,0,0,0,,{\r}{\kf22}With{\kf22} a{\kf22} key{\kf22}chain{\kf22} of{\kf22} Pin{\kf16}kie
+Dialogue: 0,0:01:26.64,0:01:28.30,DEFAULT,,0,0,0,,{\r}{\kf16}Her{\kf22} cup{\kf22}cakez{\kf38} are{\kf22} the{\kf47} best
+Dialogue: 0,0:01:28.64,0:01:30.23,DEFAULT,,0,0,0,,{\r}{\kf21}I've{\kf21} been{\kf21} fail{\kf21}ing{\kf21} my{\kf21} clas{\kf33}ses
+Dialogue: 0,0:01:30.46,0:01:31.90,DEFAULT,,0,0,0,,{\r}{\kf21}'Cuz{\kf21} I{\kf21} don't{\kf21} give{\kf21} a{\kf39} damn
+Dialogue: 0,0:01:32.05,0:01:35.61,DEFAULT,,0,0,0,,{\r}{\kf22}They{\kf22} say{\kf22} the{\kf22} world{\kf22} is{\kf22} my{\kf22} oys{\kf22}ter{\kf22} but{\kf22} the{\kf22} free{\kf22} mar{\kf22}ket's{\kf22} a{\kf48} scam
+Dialogue: 0,0:01:36.10,0:01:39.21,DEFAULT,,0,0,0,,{\r}{\kf11}E{\kf16}very{\kf16}thing's{\kf22} been{\kf22} chang{\kf22}ing{\kf22} since{\kf22} last{\kf22} ge{\kf22}ne{\kf22}ra{\kf22}tion{\kf22} was{\kf48} born
+Dialogue: 0,0:01:39.55,0:01:43.72,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} they{\kf22} won't{\kf22} try{\kf22} to{\kf22} take{\kf22} in{\kf22} change{\kf22} is{\kf22} a{\kf27} two{\kf38} edged{\kf60} sword{\kf72}~
+Dialogue: 0,0:01:58.64,0:01:59.89,DEFAULT,,0,0,0,,{\r}{\kf20}I'm{\kf20} the{\kf25} an{\kf20}to{\kf40}nymph
+Dialogue: 0,0:02:00.04,0:02:01.18,DEFAULT,,0,0,0,,{\r}{\kf21}Of{\kf21} the{\kf16} in{\kf21}ter{\kf35}net
+Dialogue: 0,0:02:01.60,0:02:03.60,DEFAULT,,0,0,0,,{\r}{\kf21}Still{\kf21} clean{\kf21}ing{\kf21} up{\kf21} the{\kf21} vi{\kf21}ru{\kf54}ses
+Dialogue: 0,0:02:03.87,0:02:05.50,DEFAULT,,0,0,0,,{\r}{\kf19}That{\kf19} you{\kf19} had{\kf29} left{\kf10}~{\kf10}~{\kf57}~
+Dialogue: 0,0:02:05.69,0:02:08.98,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21} think{\kf21} I'm{\kf16} fal{\kf21}ling{\kf37} in{\kf42} love{\kf42} a{\kf109}gain
+Dialogue: 0,0:02:09.55,0:02:11.82,DEFAULT,,0,0,0,,{\r}{\kf41}Don't{\kf41} stop,{\kf41} don't{\kf29} stop{\kf23} un{\kf23}til{\kf29} you-
+Dialogue: 0,0:02:13.19,0:02:14.44,DEFAULT,,0,0,0,,{\r}{\kf20}I'm{\kf20} the{\kf20} an{\kf20}to{\kf45}nymph
+Dialogue: 0,0:02:14.59,0:02:15.88,DEFAULT,,0,0,0,,{\r}{\kf15}Of{\kf20} the{\kf20} in{\kf20}ter{\kf54}net
+Dialogue: 0,0:02:16.18,0:02:19.93,DEFAULT,,0,0,0,,{\r}{\kf22}Been{\kf22} fight{\kf22}ing{\kf39} on{\kf17} New{\kf22}grounds{\kf22} o{\kf17}ver{\kf22} if{\kf22} my{\kf22} love{\kf22} is{\kf44} va{\kf60}lid
+Dialogue: 0,0:02:20.46,0:02:23.23,DEFAULT,,0,0,0,,{\r}{\kf21}Fuck{\kf21} the{\kf21} cy{\kf21}ni{\kf21}ci{\kf21}sm{\kf21} let{\kf21} the{\kf21} co{\kf21}lours{\kf67} fly
+Dialogue: 0,0:02:23.42,0:02:27.28,DEFAULT,,0,0,0,,{\r}{\kf23}Don't{\kf23} care{\kf23} you{\kf23} think{\kf23} it's{\kf23} cringe{\kf23} be{\kf23}cause{\kf23} it's{\kf28} not{\kf40} your{\kf34} life{\kf11}~{\kf11}~{\kf55}~
+Dialogue: 0,0:02:30.69,0:02:33.79,DEFAULT,,0,0,0,,{\r}{\kf17}It's{\kf23} ne{\kf23}ver{\kf35} too{\kf29} late{\kf23} to{\kf23} fall{\kf23} in{\kf23} love{\kf17} with{\kf23} the{\kf52} world
+Dialogue: 0,0:02:34.32,0:02:37.47,DEFAULT,,0,0,0,,{\r}{\kf17}Your{\kf17} past{\kf23} is{\kf23} not{\kf23} to{\kf23}day{\kf23} so{\kf23} set{\kf17} your{\kf23} stride{\kf17} with{\kf17} a{\kf68} twirl
+Dialogue: 0,0:02:37.73,0:02:40.01,DEFAULT,,0,0,0,,{\r}{\kf23}Yeah{\kf23} we've{\kf35} all{\kf29} made{\kf23} mis{\kf35}takes{\kf23} be{\kf36}fore
+Dialogue: 0,0:02:40.23,0:02:41.82,DEFAULT,,0,0,0,,{\r}{\kf25}That's{\kf19} a{\kf38} fact{\kf19} of{\kf19} life{\kf39}~
+Dialogue: 0,0:02:42.05,0:02:43.68,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf21} once{\kf21} you{\kf21} re{\kf21}stitch{\kf21} your{\kf37} heart
+Dialogue: 0,0:02:43.91,0:02:46.07,DEFAULT,,0,0,0,,{\r}{\kf41}You'll{\kf36} be{\kf31} just{\kf31} fine{\kf77}~
+Dialogue: 0,0:02:46.64,0:02:49.48,DEFAULT,,0,0,0,,{\r}{\kf18}Now{\kf18} it's{\kf18} your{\kf18} life,{\kf24} you'll{\kf35} say{\kf30} "It's{\kf30} all{\kf93} mine!
+Dialogue: 0,0:02:50.46,0:02:51.71,DEFAULT,,0,0,0,,{\r}{\kf29}All{\kf24} mine..{\kf10}."{\kf62}~
+Dialogue: 0,0:02:52.73,0:02:55.88,DEFAULT,,0,0,0,,{\r}{\kf23}Re{\kf23}vel{\kf23} in{\kf23} your{\kf23} friends{\kf23} and{\kf29} hob{\kf17}bies,{\kf23} let{\kf17} your{\kf40} heart{\kf23} speak{\kf27}~
+Dialogue: 0,0:02:56.10,0:02:57.35,DEFAULT,,0,0,0,,{\r}{\kf18}When{\kf18} a{\kf18} drif{\kf18}ter{\kf18} says{\kf18} some{\kf17} shit
+Dialogue: 0,0:02:57.51,0:03:00.61,DEFAULT,,0,0,0,,{\r}{\kf20}Just{\kf20} block{\kf20} that{\kf20} in{\kf20}ter{\kf15}net{\kf50} freak{\kf146}~
+Dialogue: 0,0:03:02.28,0:03:03.49,DEFAULT,,0,0,0,,{\r}{\kf20}I'm{\kf20} the{\kf20} an{\kf20}to{\kf41}nymph
+Dialogue: 0,0:03:03.64,0:03:04.78,DEFAULT,,0,0,0,,{\r}{\kf21}Of{\kf21} the{\kf21} in{\kf21}ter{\kf30}net
+Dialogue: 0,0:03:05.23,0:03:07.24,DEFAULT,,0,0,0,,{\r}{\kf21}Still{\kf21} clean{\kf21}ing{\kf21} up{\kf21} the{\kf16} vi{\kf21}ru{\kf59}ses
+Dialogue: 0,0:03:07.54,0:03:09.06,DEFAULT,,0,0,0,,{\r}{\kf15}That{\kf20} you{\kf20} had{\kf25} left{\kf10}~{\kf10}~{\kf52}~
+Dialogue: 0,0:03:09.36,0:03:12.51,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf16} think{\kf21} I'm{\kf21} fal{\kf21}ling{\kf32} in{\kf43} love{\kf48} a{\kf91}gain
+Dialogue: 0,0:03:13.19,0:03:15.39,DEFAULT,,0,0,0,,{\r}{\kf39}Don't{\kf45} stop,{\kf45} don't{\kf23} stop{\kf23} un{\kf23}til{\kf22} you-
+Dialogue: 0,0:03:16.82,0:03:18.04,DEFAULT,,0,0,0,,{\r}{\kf20}I'm{\kf20} the{\kf20} an{\kf20}to{\kf41}nymph
+Dialogue: 0,0:03:18.19,0:03:19.55,DEFAULT,,0,0,0,,{\r}{\kf19}Of{\kf19} the{\kf19} in{\kf19}ter{\kf60}net
+Dialogue: 0,0:03:19.82,0:03:23.57,DEFAULT,,0,0,0,,{\r}{\kf22}Been{\kf22} fight{\kf22}ing{\kf33} on{\kf22} New{\kf22}grounds{\kf17} o{\kf22}ver{\kf22} if{\kf22} my{\kf22} love{\kf22} is{\kf50} va{\kf55}lid
+Dialogue: 0,0:03:24.10,0:03:26.82,DEFAULT,,0,0,0,,{\r}{\kf22}Fuck{\kf17} the{\kf17} cy{\kf22}ni{\kf22}ci{\kf22}sm{\kf22} let{\kf22} the{\kf22} co{\kf22}lours{\kf63} fly
+Dialogue: 0,0:03:27.05,0:03:30.95,DEFAULT,,0,0,0,,{\r}{\kf23}Don't{\kf23} care{\kf23} you{\kf23} think{\kf23} it's{\kf23} cringe{\kf23} be{\kf17}cause{\kf23} it's{\kf29} not{\kf34} your{\kf34} life{\kf11}~{\kf11}~{\kf70}~

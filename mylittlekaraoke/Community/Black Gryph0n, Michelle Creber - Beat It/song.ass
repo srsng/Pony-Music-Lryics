@@ -1,96 +1,103 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Beat It
+Artist: BlackGryph0n, Michelle Creber
+Original Timing: mylittlekaraoke.com by Lichtschatten
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:19.45,0:00:20.00,DEFAULT,,0,0,0,,{\kf16}They{\kf16} told{\kf16} him
-Dialogue: 0,0:00:20.05,0:00:20.80,DEFAULT,,0,0,0,,{\kf16}don't{\kf16} you{\kf16} e{\kf16}ver
-Dialogue: 0,0:00:20.85,0:00:22.05,DEFAULT,,0,0,0,,{\kf16}come{\kf16} a{\kf21}round{\kf41} here
-Dialogue: 0,0:00:22.25,0:00:23.35,DEFAULT,,0,0,0,,{\kf16}Don't{\kf16} wan{\kf16}na{\kf16} see{\kf16} your{\kf11} face
-Dialogue: 0,0:00:23.50,0:00:24.75,DEFAULT,,0,0,0,,{\kf11}you{\kf16} bet{\kf21}ter{\kf21} dis{\kf21}ap{\kf31}pear
-Dialogue: 0,0:00:25.45,0:00:26.70,DEFAULT,,0,0,0,,{\kf16}The{\kf21} fire{\kf16} is{\kf16} in{\kf16} their{\kf21} eyes
-Dialogue: 0,0:00:26.85,0:00:28.25,DEFAULT,,0,0,0,,{\kf16}and{\kf16} their{\kf16} words{\kf16} are{\kf16} real{\kf16}ly{\kf21} clear
-Dialogue: 0,0:00:28.45,0:00:29.20,DEFAULT,,0,0,0,,{\kf21}So{\kf21} beat{\kf16} it
-Dialogue: 0,0:00:30.10,0:00:30.80,DEFAULT,,0,0,0,,{\kf31}just{\kf16} beat{\kf11} it
-Dialogue: 0,0:00:32.25,0:00:32.95,DEFAULT,,0,0,0,,{\kf16}You{\kf16} bet{\kf16}ter{\kf11} run,
-Dialogue: 0,0:00:33.10,0:00:34.85,DEFAULT,,0,0,0,,{\kf11}you{\kf16} bet{\kf16}ter{\kf16} do{\kf16} what{\kf26} you{\kf46} can
-Dialogue: 0,0:00:35.05,0:00:36.20,DEFAULT,,0,0,0,,{\kf16}Don't{\kf16} wan{\kf16}na{\kf16} see{\kf21} no{\kf11} blood
-Dialogue: 0,0:00:36.30,0:00:37.55,DEFAULT,,0,0,0,,{\kf11}don't{\kf16} be{\kf16} a{\kf16} ma{\kf16}cho{\kf31} man
-Dialogue: 0,0:00:38.25,0:00:39.50,DEFAULT,,0,0,0,,{\kf16}You{\kf16} wan{\kf16}na{\kf26} be{\kf26} tough
-Dialogue: 0,0:00:39.65,0:00:41.05,DEFAULT,,0,0,0,,{\kf16}bet{\kf21}ter{\kf16} do{\kf16} what{\kf26} you{\kf21} can
-Dialogue: 0,0:00:41.25,0:00:42.00,DEFAULT,,0,0,0,,{\kf26}So{\kf21} beat{\kf11} it
-Dialogue: 0,0:00:42.95,0:00:44.35,DEFAULT,,0,0,0,,{\kf16}but{\kf11} you{\kf16} want{\kf16} to{\kf26} be{\kf31} bad
-Dialogue: 0,0:00:44.55,0:00:45.95,DEFAULT,,0,0,0,,{\kf36}Just{\kf26} beat{\kf71} it
-Dialogue: 0,0:00:46.55,0:00:47.50,DEFAULT,,0,0,0,,{\kf26}beat{\kf66} it
-Dialogue: 0,0:00:47.85,0:00:49.05,DEFAULT,,0,0,0,,{\kf36}No{\kf16} one{\kf16} wants{\kf16} to{\kf21} be
-Dialogue: 0,0:00:49.25,0:00:49.95,DEFAULT,,0,0,0,,{\kf16}de{\kf36}feat{\kf11}ed
-Dialogue: 0,0:00:51.05,0:00:52.45,DEFAULT,,0,0,0,,{\kf31}Show{\kf16}in'{\kf26} how{\kf16} funk{\kf21}y
-Dialogue: 0,0:00:52.65,0:00:53.95,DEFAULT,,0,0,0,,{\kf31}strong{\kf16} is{\kf26} your{\kf16} fight{\kf11}~
-Dialogue: 0,0:00:54.25,0:00:55.65,DEFAULT,,0,0,0,,{\kf31}It{\kf16} does{\kf21}n't{\kf16} mat{\kf21}ter
-Dialogue: 0,0:00:55.85,0:00:57.10,DEFAULT,,0,0,0,,{\kf31}who's{\kf16} wrong{\kf26} or{\kf21} right
-Dialogue: 0,0:00:57.30,0:00:58.05,DEFAULT,,0,0,0,,{\kf31}Just{\kf21} beat{\kf11} it
-Dialogue: 0,0:00:58.95,0:00:59.70,DEFAULT,,0,0,0,,{\kf36}Just{\kf21} beat{\kf11} it
-Dialogue: 0,0:01:00.45,0:01:01.25,DEFAULT,,0,0,0,,{\kf41}Just{\kf21} beat{\kf11} it
-Dialogue: 0,0:01:02.00,0:01:02.85,DEFAULT,,0,0,0,,{\kf51}Just{\kf11} beat{\kf16} it
-Dialogue: 0,0:01:04.25,0:01:05.20,DEFAULT,,0,0,0,,{\kf26}They're{\kf16} out{\kf11} to{\kf16} get{\kf11} you
-Dialogue: 0,0:01:05.35,0:01:06.90,DEFAULT,,0,0,0,,{\kf16}bet{\kf16}ter{\kf16} leave{\kf21} while{\kf31} you{\kf36} can
-Dialogue: 0,0:01:07.10,0:01:08.20,DEFAULT,,0,0,0,,{\kf21}Don't{\kf16} wan{\kf21}na{\kf16} be{\kf11} a{\kf11} boy
-Dialogue: 0,0:01:08.35,0:01:09.60,DEFAULT,,0,0,0,,{\kf11}you{\kf16} wan{\kf16}na{\kf16} be{\kf16} a{\kf31} man
-Dialogue: 0,0:01:10.30,0:01:11.45,DEFAULT,,0,0,0,,{\kf16}You{\kf11} wan{\kf11}na{\kf26} stay{\kf11} a{\kf21}live
-Dialogue: 0,0:01:11.70,0:01:13.10,DEFAULT,,0,0,0,,{\kf16}bet{\kf16}ter{\kf16} do{\kf16} what{\kf26} you{\kf31} can
-Dialogue: 0,0:01:13.30,0:01:14.00,DEFAULT,,0,0,0,,{\kf21}So{\kf16} beat{\kf11} it
-Dialogue: 0,0:01:14.85,0:01:15.65,DEFAULT,,0,0,0,,{\kf41}just{\kf16} beat{\kf16} it
-Dialogue: 0,0:01:17.10,0:01:18.75,DEFAULT,,0,0,0,,{\kf16}You{\kf16} have{\kf16} to{\kf16} show{\kf16} them{\kf16} that{\kf16} you're{\kf16} real{\kf6}ly
-Dialogue: 0,0:01:18.90,0:01:19.65,DEFAULT,,0,0,0,,{\kf26}not{\kf46} scared
-Dialogue: 0,0:01:19.90,0:01:21.00,DEFAULT,,0,0,0,,{\kf16}You're{\kf16} play{\kf16}in'{\kf16} with{\kf16} your{\kf11} life
-Dialogue: 0,0:01:21.05,0:01:22.35,DEFAULT,,0,0,0,,{\kf16}this{\kf16} ain't{\kf16} no{\kf16} truth{\kf16} or{\kf31} dare
-Dialogue: 0,0:01:23.05,0:01:24.30,DEFAULT,,0,0,0,,{\kf16}They'll{\kf16} kick{\kf16} you,{\kf16} then{\kf16} they'll{\kf16} beat{\kf6} you
-Dialogue: 0,0:01:24.45,0:01:25.85,DEFAULT,,0,0,0,,{\kf16}then{\kf16} they'll{\kf16} tell{\kf16} you{\kf26} it's{\kf21} fair
-Dialogue: 0,0:01:26.05,0:01:26.75,DEFAULT,,0,0,0,,{\kf21}So{\kf16} beat{\kf11} it
-Dialogue: 0,0:01:27.65,0:01:29.05,DEFAULT,,0,0,0,,{\kf16}but{\kf16} you{\kf16} wan{\kf16}na{\kf21} be{\kf21} bad
-Dialogue: 0,0:01:29.25,0:01:30.65,DEFAULT,,0,0,0,,{\kf36}Just{\kf16} beat{\kf81} it
-Dialogue: 0,0:01:31.30,0:01:32.10,DEFAULT,,0,0,0,,{\kf26}beat{\kf51} it
-Dialogue: 0,0:01:32.65,0:01:34.90,DEFAULT,,0,0,0,,{\kf31}No{\kf16} one{\kf16} wants{\kf16} to{\kf36} be{\kf16}de{\kf36}feat{\kf26}ed
-Dialogue: 0,0:01:35.80,0:01:37.20,DEFAULT,,0,0,0,,{\kf31}Sho{\kf16}win'{\kf26} how{\kf16} funk{\kf21}y
-Dialogue: 0,0:01:37.40,0:01:38.70,DEFAULT,,0,0,0,,{\kf31}strong{\kf16} is{\kf21} your{\kf16} fight{\kf11}~
-Dialogue: 0,0:01:39.00,0:01:40.40,DEFAULT,,0,0,0,,{\kf31}It{\kf16} does{\kf21}n't{\kf16} mat{\kf21}ter
-Dialogue: 0,0:01:40.60,0:01:41.85,DEFAULT,,0,0,0,,{\kf31}who's{\kf21} wrong{\kf21} or{\kf21} right
-Dialogue: 0,0:01:42.05,0:01:43.55,DEFAULT,,0,0,0,,{\kf26}Just{\kf26} beat{\kf81} it
-Dialogue: 0,0:01:44.05,0:01:45.00,DEFAULT,,0,0,0,,{\kf31}beat{\kf61} it
-Dialogue: 0,0:01:45.55,0:01:47.65,DEFAULT,,0,0,0,,{\kf31}No{\kf16} one{\kf16} wants{\kf16} to{\kf31} be{\kf16} de{\kf31}feat{\kf11}ed
-Dialogue: 0,0:01:48.75,0:01:50.15,DEFAULT,,0,0,0,,{\kf31}Show{\kf16}in'{\kf26} how{\kf16} funk{\kf21}y
-Dialogue: 0,0:01:50.35,0:01:51.65,DEFAULT,,0,0,0,,{\kf31}strong{\kf16} is{\kf21} your{\kf16} fight{\kf11}~
-Dialogue: 0,0:01:51.95,0:01:53.35,DEFAULT,,0,0,0,,{\kf31}It{\kf16} does{\kf21}n't{\kf16} mat{\kf21}ter
-Dialogue: 0,0:01:53.55,0:01:54.75,DEFAULT,,0,0,0,,{\kf31}who's{\kf16} wrong{\kf26} or{\kf26} right
-Dialogue: 0,0:01:54.95,0:01:55.70,DEFAULT,,0,0,0,,{\kf21}Just{\kf16} beat{\kf16} it
-Dialogue: 0,0:02:33.75,0:02:34.55,DEFAULT,,0,0,0,,{\kf16}Beat{\kf61} it
-Dialogue: 0,0:02:35.35,0:02:36.05,DEFAULT,,0,0,0,,{\kf16}beat{\kf51} it
-Dialogue: 0,0:02:36.75,0:02:37.95,DEFAULT,,0,0,0,,{\kf31}No{\kf16} one{\kf16} wants{\kf16} to{\kf21} be
-Dialogue: 0,0:02:38.15,0:02:38.85,DEFAULT,,0,0,0,,{\kf16}de{\kf36}feat{\kf11}ed
-Dialogue: 0,0:02:39.95,0:02:41.35,DEFAULT,,0,0,0,,{\kf31}Show{\kf16}in'{\kf26} how{\kf16} funk{\kf21}y
-Dialogue: 0,0:02:41.55,0:02:42.85,DEFAULT,,0,0,0,,{\kf31}strong{\kf16} is{\kf26} your{\kf16} fight{\kf11}~
-Dialogue: 0,0:02:43.05,0:02:44.45,DEFAULT,,0,0,0,,{\kf26}It{\kf16} does{\kf26}n't{\kf16} mat{\kf21}ter
-Dialogue: 0,0:02:44.65,0:02:45.75,DEFAULT,,0,0,0,,{\kf31}who's{\kf16} wrong{\kf26} or{\kf16} right
-Dialogue: 0,0:02:46.05,0:02:47.30,DEFAULT,,0,0,0,,{\kf21}Just{\kf16} beat{\kf66} it
-Dialogue: 0,0:02:48.15,0:02:48.85,DEFAULT,,0,0,0,,{\kf16}beat{\kf51} it
-Dialogue: 0,0:02:49.45,0:02:50.65,DEFAULT,,0,0,0,,{\kf31}No{\kf16} one{\kf16} wants{\kf16} to{\kf21} be
-Dialogue: 0,0:02:50.85,0:02:51.55,DEFAULT,,0,0,0,,{\kf16}de{\kf36}feat{\kf11}ed
-Dialogue: 0,0:02:52.65,0:02:54.05,DEFAULT,,0,0,0,,{\kf31}Show{\kf16}in'{\kf26} how{\kf16} funk{\kf21}y
-Dialogue: 0,0:02:54.25,0:02:55.55,DEFAULT,,0,0,0,,{\kf31}strong{\kf16} is{\kf26} your{\kf16} fight{\kf11}~
-Dialogue: 0,0:02:55.85,0:02:57.25,DEFAULT,,0,0,0,,{\kf26}It{\kf16} does{\kf21}n't{\kf16} mat{\kf21}ter
-Dialogue: 0,0:02:57.45,0:02:58.70,DEFAULT,,0,0,0,,{\kf31}who's{\kf16} wrong{\kf26} or{\kf31} right
-Dialogue: 0,0:02:58.90,0:03:00.10,DEFAULT,,0,0,0,,{\kf21}Just{\kf16} beat{\kf61} it
-Dialogue: 0,0:03:00.95,0:03:01.55,DEFAULT,,0,0,0,,{\kf16}beat{\kf41} it
-Dialogue: 0,0:03:02.35,0:03:03.55,DEFAULT,,0,0,0,,{\kf31}No{\kf16} one{\kf16} wants{\kf16} to{\kf21} be
-Dialogue: 0,0:03:03.75,0:03:04.45,DEFAULT,,0,0,0,,{\kf16}de{\kf36}feat{\kf11}ed
-Dialogue: 0,0:03:05.55,0:03:06.95,DEFAULT,,0,0,0,,{\kf31}Show{\kf16}in'{\kf21} how{\kf16} funk{\kf21}y
-Dialogue: 0,0:03:07.15,0:03:08.45,DEFAULT,,0,0,0,,{\kf31}strong{\kf16} is{\kf26} your{\kf16} fight{\kf11}~
-Dialogue: 0,0:03:08.70,0:03:10.10,DEFAULT,,0,0,0,,{\kf26}It{\kf16} does{\kf21}n't{\kf16} mat{\kf21}ter
-Dialogue: 0,0:03:10.30,0:03:11.50,DEFAULT,,0,0,0,,{\kf31}who's{\kf16} wrong{\kf31} or{\kf26} right
-Dialogue: 0,0:03:11.70,0:03:12.90,DEFAULT,,0,0,0,,{\kf21}Just{\kf16} beat{\kf61} it
+Dialogue: 0,0:00:19.45,0:00:20.00,DEFAULT,,0,0,0,,{\r}{\kf18}They{\kf18} told{\kf19} him
+Dialogue: 0,0:00:20.05,0:00:20.80,DEFAULT,,0,0,0,,{\r}{\kf19}don't{\kf19} you{\kf19} e{\kf18}ver
+Dialogue: 0,0:00:20.85,0:00:22.05,DEFAULT,,0,0,0,,{\r}{\kf20}come{\kf20} a{\kf27}round{\kf53} here
+Dialogue: 0,0:00:22.25,0:00:23.35,DEFAULT,,0,0,0,,{\r}{\kf19}Don't{\kf19} wan{\kf19}na{\kf19} see{\kf19} your{\kf15} face
+Dialogue: 0,0:00:23.50,0:00:24.75,DEFAULT,,0,0,0,,{\r}{\kf11}you{\kf16} bet{\kf22}ter{\kf22} dis{\kf22}ap{\kf32}pear
+Dialogue: 0,0:00:25.45,0:00:26.70,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf25} fire{\kf19} is{\kf19} in{\kf19} their{\kf24} eyes
+Dialogue: 0,0:00:26.85,0:00:28.25,DEFAULT,,0,0,0,,{\r}{\kf19}and{\kf19} their{\kf19} words{\kf19} are{\kf19} real{\kf19}ly{\kf26} clear
+Dialogue: 0,0:00:28.45,0:00:29.20,DEFAULT,,0,0,0,,{\r}{\kf27}So{\kf27} beat{\kf21} it
+Dialogue: 0,0:00:30.10,0:00:30.80,DEFAULT,,0,0,0,,{\r}{\kf38}just{\kf19} beat{\kf13} it
+Dialogue: 0,0:00:32.25,0:00:32.95,DEFAULT,,0,0,0,,{\r}{\kf19}You{\kf19} bet{\kf19}ter{\kf13} run,
+Dialogue: 0,0:00:33.10,0:00:34.85,DEFAULT,,0,0,0,,{\r}{\kf12}you{\kf19} bet{\kf19}ter{\kf19} do{\kf19} what{\kf31} you{\kf56} can
+Dialogue: 0,0:00:35.05,0:00:36.20,DEFAULT,,0,0,0,,{\r}{\kf19}Don't{\kf19} wan{\kf19}na{\kf19} see{\kf26} no{\kf13} blood
+Dialogue: 0,0:00:36.30,0:00:37.55,DEFAULT,,0,0,0,,{\r}{\kf12}don't{\kf19} be{\kf19} a{\kf19} ma{\kf19}cho{\kf37} man
+Dialogue: 0,0:00:38.25,0:00:39.50,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf20} wan{\kf20}na{\kf33} be{\kf32} tough
+Dialogue: 0,0:00:39.65,0:00:41.05,DEFAULT,,0,0,0,,{\r}{\kf19}bet{\kf25}ter{\kf19} do{\kf19} what{\kf32} you{\kf26} can
+Dialogue: 0,0:00:41.25,0:00:42.00,DEFAULT,,0,0,0,,{\r}{\kf34}So{\kf27} beat{\kf14} it
+Dialogue: 0,0:00:42.95,0:00:44.35,DEFAULT,,0,0,0,,{\r}{\kf19}but{\kf13} you{\kf19} want{\kf19} to{\kf32} be{\kf38} bad
+Dialogue: 0,0:00:44.55,0:00:45.95,DEFAULT,,0,0,0,,{\r}{\kf38}Just{\kf27} beat{\kf75} it
+Dialogue: 0,0:00:46.55,0:00:47.50,DEFAULT,,0,0,0,,{\r}{\kf26}beat{\kf69} it
+Dialogue: 0,0:00:47.85,0:00:49.05,DEFAULT,,0,0,0,,{\r}{\kf42}No{\kf18} one{\kf18} wants{\kf18} to{\kf24} be
+Dialogue: 0,0:00:49.25,0:00:49.95,DEFAULT,,0,0,0,,{\r}{\kf18}de{\kf41}feat{\kf11}ed
+Dialogue: 0,0:00:51.05,0:00:52.45,DEFAULT,,0,0,0,,{\r}{\kf40}Show{\kf20}in'{\kf33} how{\kf20} funk{\kf27}y
+Dialogue: 0,0:00:52.65,0:00:53.95,DEFAULT,,0,0,0,,{\r}{\kf41}strong{\kf21} is{\kf34} your{\kf21} fight{\kf13}~
+Dialogue: 0,0:00:54.25,0:00:55.65,DEFAULT,,0,0,0,,{\r}{\kf42}It{\kf21} does{\kf28}n't{\kf21} mat{\kf28}ter
+Dialogue: 0,0:00:55.85,0:00:57.10,DEFAULT,,0,0,0,,{\r}{\kf42}who's{\kf21} wrong{\kf35} or{\kf27} right
+Dialogue: 0,0:00:57.30,0:00:58.05,DEFAULT,,0,0,0,,{\r}{\kf38}Just{\kf25} beat{\kf12} it
+Dialogue: 0,0:00:58.95,0:00:59.70,DEFAULT,,0,0,0,,{\r}{\kf40}Just{\kf23} beat{\kf12} it
+Dialogue: 0,0:01:00.45,0:01:01.25,DEFAULT,,0,0,0,,{\r}{\kf46}Just{\kf23} beat{\kf11} it
+Dialogue: 0,0:01:02.00,0:01:02.85,DEFAULT,,0,0,0,,{\r}{\kf57}Just{\kf11} beat{\kf17} it
+Dialogue: 0,0:01:04.25,0:01:05.20,DEFAULT,,0,0,0,,{\r}{\kf32}They're{\kf19} out{\kf13} to{\kf19} get{\kf12} you
+Dialogue: 0,0:01:05.35,0:01:06.90,DEFAULT,,0,0,0,,{\r}{\kf18}bet{\kf18}ter{\kf18} leave{\kf24} while{\kf36} you{\kf41} can
+Dialogue: 0,0:01:07.10,0:01:08.20,DEFAULT,,0,0,0,,{\r}{\kf24}Don't{\kf18} wan{\kf24}na{\kf18} be{\kf12} a{\kf14} boy
+Dialogue: 0,0:01:08.35,0:01:09.60,DEFAULT,,0,0,0,,{\r}{\kf12}you{\kf19} wan{\kf19}na{\kf19} be{\kf19} a{\kf37} man
+Dialogue: 0,0:01:10.30,0:01:11.45,DEFAULT,,0,0,0,,{\r}{\kf19}You{\kf13} wan{\kf13}na{\kf32} stay{\kf13} a{\kf25}live
+Dialogue: 0,0:01:11.70,0:01:13.10,DEFAULT,,0,0,0,,{\r}{\kf18}bet{\kf18}ter{\kf18} do{\kf18} what{\kf30} you{\kf38} can
+Dialogue: 0,0:01:13.30,0:01:14.00,DEFAULT,,0,0,0,,{\r}{\kf31}So{\kf23} beat{\kf16} it
+Dialogue: 0,0:01:14.85,0:01:15.65,DEFAULT,,0,0,0,,{\r}{\kf46}just{\kf17} beat{\kf17} it
+Dialogue: 0,0:01:17.10,0:01:18.75,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf20} have{\kf20} to{\kf20} show{\kf20} them{\kf20} that{\kf20} you're{\kf20} real{\kf10}ly
+Dialogue: 0,0:01:18.90,0:01:19.66,DEFAULT,,0,0,0,,{\r}{\kf27}not{\kf48} scared
+Dialogue: 0,0:01:19.91,0:01:21.01,DEFAULT,,0,0,0,,{\r}{\kf19}You're{\kf19} play{\kf19}in'{\kf19} with{\kf19} your{\kf15} life
+Dialogue: 0,0:01:21.06,0:01:22.36,DEFAULT,,0,0,0,,{\r}{\kf19}this{\kf19} ain't{\kf19} no{\kf19} truth{\kf19} or{\kf35} dare
+Dialogue: 0,0:01:23.06,0:01:24.31,DEFAULT,,0,0,0,,{\r}{\kf20}They'll{\kf20} kick{\kf20} you,{\kf20} then{\kf20} they'll{\kf20} beat{\kf10} you
+Dialogue: 0,0:01:24.46,0:01:25.86,DEFAULT,,0,0,0,,{\r}{\kf20}then{\kf20} they'll{\kf20} tell{\kf20} you{\kf33} it's{\kf27} fair
+Dialogue: 0,0:01:26.06,0:01:26.76,DEFAULT,,0,0,0,,{\r}{\kf31}So{\kf23} beat{\kf16} it
+Dialogue: 0,0:01:27.66,0:01:29.06,DEFAULT,,0,0,0,,{\r}{\kf21}but{\kf21} you{\kf21} wan{\kf21}na{\kf28} be{\kf28} bad
+Dialogue: 0,0:01:29.26,0:01:30.66,DEFAULT,,0,0,0,,{\r}{\kf38}Just{\kf16} beat{\kf86} it
+Dialogue: 0,0:01:31.31,0:01:32.11,DEFAULT,,0,0,0,,{\r}{\kf27}beat{\kf53} it
+Dialogue: 0,0:01:32.66,0:01:34.91,DEFAULT,,0,0,0,,{\r}{\kf36}No{\kf18} one{\kf18} wants{\kf18} to{\kf43} be{\kf18}de{\kf43}feat{\kf31}ed
+Dialogue: 0,0:01:35.81,0:01:37.21,DEFAULT,,0,0,0,,{\r}{\kf40}Sho{\kf20}win'{\kf33} how{\kf20} funk{\kf27}y
+Dialogue: 0,0:01:37.41,0:01:38.71,DEFAULT,,0,0,0,,{\r}{\kf43}strong{\kf22} is{\kf29} your{\kf22} fight{\kf14}~
+Dialogue: 0,0:01:39.01,0:01:40.41,DEFAULT,,0,0,0,,{\r}{\kf42}It{\kf21} does{\kf28}n't{\kf21} mat{\kf28}ter
+Dialogue: 0,0:01:40.61,0:01:41.86,DEFAULT,,0,0,0,,{\r}{\kf42}who's{\kf28} wrong{\kf28} or{\kf27} right
+Dialogue: 0,0:01:42.06,0:01:43.56,DEFAULT,,0,0,0,,{\r}{\kf29}Just{\kf29} beat{\kf92} it
+Dialogue: 0,0:01:44.06,0:01:45.01,DEFAULT,,0,0,0,,{\r}{\kf32}beat{\kf63} it
+Dialogue: 0,0:01:45.56,0:01:47.66,DEFAULT,,0,0,0,,{\r}{\kf39}No{\kf20} one{\kf20} wants{\kf20} to{\kf39} be{\kf20} de{\kf39}feat{\kf13}ed
+Dialogue: 0,0:01:48.76,0:01:50.16,DEFAULT,,0,0,0,,{\r}{\kf40}Show{\kf20}in'{\kf33} how{\kf20} funk{\kf27}y
+Dialogue: 0,0:01:50.36,0:01:51.66,DEFAULT,,0,0,0,,{\r}{\kf43}strong{\kf22} is{\kf29} your{\kf22} fight{\kf14}~
+Dialogue: 0,0:01:51.96,0:01:53.36,DEFAULT,,0,0,0,,{\r}{\kf42}It{\kf21} does{\kf28}n't{\kf21} mat{\kf28}ter
+Dialogue: 0,0:01:53.56,0:01:54.76,DEFAULT,,0,0,0,,{\r}{\kf38}who's{\kf19} wrong{\kf32} or{\kf31} right
+Dialogue: 0,0:01:54.96,0:01:55.71,DEFAULT,,0,0,0,,{\r}{\kf30}Just{\kf22} beat{\kf23} it
+Dialogue: 0,0:02:33.76,0:02:34.56,DEFAULT,,0,0,0,,{\r}{\kf16}Beat{\kf64} it
+Dialogue: 0,0:02:35.36,0:02:36.06,DEFAULT,,0,0,0,,{\r}{\kf16}beat{\kf54} it
+Dialogue: 0,0:02:36.76,0:02:37.96,DEFAULT,,0,0,0,,{\r}{\kf38}No{\kf19} one{\kf19} wants{\kf19} to{\kf25} be
+Dialogue: 0,0:02:38.16,0:02:38.86,DEFAULT,,0,0,0,,{\r}{\kf18}de{\kf41}feat{\kf11}ed
+Dialogue: 0,0:02:39.96,0:02:41.36,DEFAULT,,0,0,0,,{\r}{\kf40}Show{\kf20}in'{\kf33} how{\kf20} funk{\kf27}y
+Dialogue: 0,0:02:41.56,0:02:42.86,DEFAULT,,0,0,0,,{\r}{\kf41}strong{\kf21} is{\kf34} your{\kf21} fight{\kf13}~
+Dialogue: 0,0:02:43.06,0:02:44.46,DEFAULT,,0,0,0,,{\r}{\kf35}It{\kf21} does{\kf35}n't{\kf21} mat{\kf28}ter
+Dialogue: 0,0:02:44.66,0:02:45.76,DEFAULT,,0,0,0,,{\r}{\kf39}who's{\kf19} wrong{\kf32} or{\kf20} right
+Dialogue: 0,0:02:46.06,0:02:47.31,DEFAULT,,0,0,0,,{\r}{\kf25}Just{\kf19} beat{\kf81} it
+Dialogue: 0,0:02:48.16,0:02:48.86,DEFAULT,,0,0,0,,{\r}{\kf16}beat{\kf54} it
+Dialogue: 0,0:02:49.46,0:02:50.66,DEFAULT,,0,0,0,,{\r}{\kf38}No{\kf19} one{\kf19} wants{\kf19} to{\kf25} be
+Dialogue: 0,0:02:50.86,0:02:51.56,DEFAULT,,0,0,0,,{\r}{\kf18}de{\kf41}feat{\kf11}ed
+Dialogue: 0,0:02:52.66,0:02:54.06,DEFAULT,,0,0,0,,{\r}{\kf40}Show{\kf20}in'{\kf33} how{\kf20} funk{\kf27}y
+Dialogue: 0,0:02:54.26,0:02:55.56,DEFAULT,,0,0,0,,{\r}{\kf41}strong{\kf21} is{\kf34} your{\kf21} fight{\kf13}~
+Dialogue: 0,0:02:55.86,0:02:57.26,DEFAULT,,0,0,0,,{\r}{\kf37}It{\kf22} does{\kf29}n't{\kf22} mat{\kf30}ter
+Dialogue: 0,0:02:57.46,0:02:58.71,DEFAULT,,0,0,0,,{\r}{\kf38}who's{\kf19} wrong{\kf31} or{\kf37} right
+Dialogue: 0,0:02:58.91,0:03:00.11,DEFAULT,,0,0,0,,{\r}{\kf25}Just{\kf19} beat{\kf76} it
+Dialogue: 0,0:03:00.96,0:03:01.56,DEFAULT,,0,0,0,,{\r}{\kf16}beat{\kf44} it
+Dialogue: 0,0:03:02.36,0:03:03.56,DEFAULT,,0,0,0,,{\r}{\kf38}No{\kf19} one{\kf19} wants{\kf19} to{\kf25} be
+Dialogue: 0,0:03:03.76,0:03:04.46,DEFAULT,,0,0,0,,{\r}{\kf18}de{\kf41}feat{\kf11}ed
+Dialogue: 0,0:03:05.56,0:03:06.96,DEFAULT,,0,0,0,,{\r}{\kf42}Show{\kf21}in'{\kf28} how{\kf21} funk{\kf28}y
+Dialogue: 0,0:03:07.16,0:03:08.46,DEFAULT,,0,0,0,,{\r}{\kf41}strong{\kf21} is{\kf34} your{\kf21} fight{\kf13}~
+Dialogue: 0,0:03:08.71,0:03:10.11,DEFAULT,,0,0,0,,{\r}{\kf37}It{\kf22} does{\kf29}n't{\kf22} mat{\kf30}ter
+Dialogue: 0,0:03:10.31,0:03:11.51,DEFAULT,,0,0,0,,{\r}{\kf36}who's{\kf18} wrong{\kf36} or{\kf30} right
+Dialogue: 0,0:03:11.71,0:03:12.91,DEFAULT,,0,0,0,,{\r}{\kf25}Just{\kf19} beat{\kf76} it

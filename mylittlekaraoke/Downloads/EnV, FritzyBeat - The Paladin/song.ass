@@ -1,31 +1,38 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: The Paladin
+Artist: EnV, FritzyBeat
+Original Timing: mylittlekaraoke.com by paradigm
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.97,0:00:21.14,DEFAULT,,0,0,0,,{\kf1740}Why{\kf1521} don't{\kf1512} you{\kf1527} see{\kf1515} the{\kf1530} sun{\kf1515}rise{\kf1608}~
-Dialogue: 0,0:00:22.41,0:00:27.98,DEFAULT,,0,0,0,,{\kf1683}Why{\kf1515} are{\kf1512} there{\kf1535} tears{\kf1515} in{\kf1530} your{\kf1530} eyes{\kf1535} child{\kf1573}~
-Dialogue: 0,0:00:30.03,0:00:33.05,DEFAULT,,0,0,0,,{\kf1515}It's{\kf1527} not{\kf1533} like{\kf1518} life{\kf1510} is{\kf1512} filled{\kf1512} with{\kf1538} good{\kf1550}byes
-Dialogue: 0,0:00:33.95,0:00:37.12,DEFAULT,,0,0,0,,{\kf1527}Oh{\kf1518} why{\kf1507}~{\kf1515} all{\kf1512} the{\kf1521} sad{\kf1515}ness{\kf1518} and{\kf1533} lies{\kf1538}~
-Dialogue: 0,0:00:37.61,0:00:46.21,DEFAULT,,0,0,0,,{\kf1521}Why{\kf1518} you{\kf1524} ask{\kf1518} with{\kf1535} tears{\kf1535}~{\kf1533} in{\kf1533} your{\kf1518} eyes{\kf1654}~{\kf1625}~{\kf1521}~{\kf1541}~{\kf1660}~
-Dialogue: 0,0:00:46.64,0:00:49.67,DEFAULT,,0,0,0,,{\kf1515}What{\kf1512} do{\kf1515} you{\kf1527} do{\kf1515} when{\kf1512} the{\kf1533} sun{\kf1533} goes{\kf1547} down
-Dialogue: 0,0:00:50.30,0:00:53.88,DEFAULT,,0,0,0,,{\kf1515}With{\kf1512} all{\kf1515} the{\kf1530} dark{\kf1521}ness{\kf1533} clo{\kf1521}sing{\kf1515}~{\kf1530} 'round{\kf1535}~{\kf1527}~
-Dialogue: 0,0:00:54.05,0:00:56.99,DEFAULT,,0,0,0,,{\kf1512}Oh{\kf1512} won't{\kf1515} you{\kf1518} please{\kf1527} just{\kf1518} lis{\kf1518}ten{\kf1533} to{\kf1538} me
-Dialogue: 0,0:00:57.92,0:01:04.64,DEFAULT,,0,0,0,,{\kf1518}We{\kf1518} can{\kf1518} live{\kf1524} in{\kf1533} per{\kf1535}fect{\kf1515} har{\kf1510}~{\kf1533}mo{\kf1521}ny{\kf1835}~
-Dialogue: 0,0:02:00.25,0:02:06.42,DEFAULT,,0,0,0,,{\kf1732}Why{\kf1518} don't{\kf1515} you{\kf1524} see{\kf1515} the{\kf1530} sun{\kf1521}rise{\kf1605}~
-Dialogue: 0,0:02:07.66,0:02:13.46,DEFAULT,,0,0,0,,{\kf1671}Why{\kf1521} are{\kf1515} there{\kf1535} tears{\kf1515} in{\kf1530} your{\kf1533} eyes{\kf1535} child{\kf1593}~-
-Dialogue: 0,0:02:16.40,0:02:33.27,DEFAULT,,0,0,0,,{\kf1535}8{\kf1541} 7{\kf1544} 6{\kf1538} 5{\kf1538} 4{\kf1541} 3{\kf1535} 2{\kf1530} 1{\kf1533} 1{\kf1533}-1{\kf1533}-1{\kf1533}-1{\kf1668}-...
-Dialogue: 0,0:02:37.42,0:02:40.48,DEFAULT,,0,0,0,,{\kf1512}What{\kf1510} do{\kf1515} you{\kf1535} do{\kf1515} when{\kf1510} the{\kf1533} sun{\kf1527} goes{\kf1547} down
-Dialogue: 0,0:02:41.09,0:02:44.64,DEFAULT,,0,0,0,,{\kf1512}With{\kf1512} all{\kf1510} the{\kf1530} dark{\kf1515}ness{\kf1530} clo{\kf1521}sing{\kf1512}~{\kf1524} 'round{\kf1533}~{\kf1527}~
-Dialogue: 0,0:02:44.78,0:02:47.66,DEFAULT,,0,0,0,,{\kf1515}Oh{\kf1515} won't{\kf1515} you{\kf1515} please{\kf1512}~{\kf1521} just{\kf1512} lis{\kf1518}ten{\kf1515} to{\kf1510}~{\kf1527} me
-Dialogue: 0,0:02:48.67,0:02:51.99,DEFAULT,,0,0,0,,{\kf1515}We{\kf1515} can{\kf1515} live{\kf1527} in{\kf1527} per{\kf1533}fect{\kf1518} har{\kf1515}~{\kf1538}mo{\kf1521}ny
-Dialogue: 0,0:02:52.22,0:02:55.25,DEFAULT,,0,0,0,,{\kf1512}What{\kf1515} do{\kf1515} you{\kf1533} do{\kf1512} when{\kf1512} the{\kf1533} sun{\kf1535} goes{\kf1547} down
-Dialogue: 0,0:02:55.86,0:02:59.46,DEFAULT,,0,0,0,,{\kf1518}With{\kf1518} all{\kf1515} the{\kf1527} dark{\kf1515}ness{\kf1530} clo{\kf1518}sing{\kf1515}~{\kf1515} 'ro{\kf1518}~{\kf1530}und{\kf1530}~
-Dialogue: 0,0:02:59.63,0:03:02.49,DEFAULT,,0,0,0,,{\kf1512}Oh{\kf1515} won't{\kf1515} you{\kf1515} please{\kf1512}~{\kf1521} just{\kf1518} lis{\kf1515}ten{\kf1527} to{\kf1533} me
-Dialogue: 0,0:03:03.47,0:03:11.32,DEFAULT,,0,0,0,,{\kf1515}We{\kf1518} can{\kf1518} live{\kf1524} in{\kf1527} per{\kf1530}fect{\kf1518} har{\kf1515}~{\kf1533}mo{\kf1515}ny{\kf1954}~
+Dialogue: 0,0:00:14.97,0:00:21.15,DEFAULT,,0,0,0,,{\r}{\kf308}Why{\kf29} don't{\kf18} you{\kf37} see{\kf22} the{\kf40} sun{\kf22}rise{\kf141}~
+Dialogue: 0,0:00:22.42,0:00:27.98,DEFAULT,,0,0,0,,{\r}{\kf230}Why{\kf22} are{\kf18} there{\kf47} tears{\kf22} in{\kf40} your{\kf40} eyes{\kf47} child{\kf91}~
+Dialogue: 0,0:00:30.03,0:00:33.06,DEFAULT,,0,0,0,,{\r}{\kf22}It's{\kf37} not{\kf45} like{\kf26} life{\kf15} is{\kf19} filled{\kf19} with{\kf52} good{\kf68}byes
+Dialogue: 0,0:00:33.95,0:00:37.13,DEFAULT,,0,0,0,,{\r}{\kf41}Oh{\kf28} why{\kf12}~{\kf24} all{\kf20} the{\kf33} sad{\kf24}ness{\kf28} and{\kf49} lies{\kf58}~
+Dialogue: 0,0:00:37.62,0:00:46.21,DEFAULT,,0,0,0,,{\r}{\kf26}Why{\kf23} you{\kf29} ask{\kf23} with{\kf42} tears{\kf42}~{\kf39} in{\kf39} your{\kf23} eyes{\kf175}~{\kf143}~{\kf26}~{\kf49}~{\kf181}~
+Dialogue: 0,0:00:46.64,0:00:49.67,DEFAULT,,0,0,0,,{\r}{\kf23}What{\kf19} do{\kf23} you{\kf38} do{\kf23} when{\kf19} the{\kf46} sun{\kf46} goes{\kf66} down
+Dialogue: 0,0:00:50.31,0:00:53.88,DEFAULT,,0,0,0,,{\r}{\kf22}With{\kf19} all{\kf22} the{\kf41} dark{\kf30}ness{\kf45} clo{\kf30}sing{\kf22}~{\kf41} 'round{\kf48}~{\kf38}~
+Dialogue: 0,0:00:54.06,0:00:57.00,DEFAULT,,0,0,0,,{\r}{\kf20}Oh{\kf20} won't{\kf24} you{\kf28} please{\kf40} just{\kf28} lis{\kf28}ten{\kf48} to{\kf58} me
+Dialogue: 0,0:00:57.92,0:01:04.64,DEFAULT,,0,0,0,,{\r}{\kf23}We{\kf23} can{\kf23} live{\kf30} in{\kf40} per{\kf43}fect{\kf20} har{\kf13}~{\kf40}mo{\kf27}ny{\kf390}~
+Dialogue: 0,0:02:00.25,0:02:06.42,DEFAULT,,0,0,0,,{\r}{\kf303}Why{\kf26} don't{\kf22} you{\kf34} see{\kf22} the{\kf41} sun{\kf30}rise{\kf139}~
+Dialogue: 0,0:02:07.66,0:02:13.46,DEFAULT,,0,0,0,,{\r}{\kf215}Why{\kf29} are{\kf21} there{\kf47} tears{\kf21} in{\kf39} your{\kf43} eyes{\kf47} child{\kf118}~-
+Dialogue: 0,0:02:16.40,0:02:33.28,DEFAULT,,0,0,0,,{\r}{\kf101}8{\kf116} 7{\kf124} 6{\kf108} 5{\kf108} 4{\kf116} 3{\kf101} 2{\kf85} 1{\kf93} 1{\kf93}-1{\kf93}-1{\kf93}-1{\kf456}-...
+Dialogue: 0,0:02:37.43,0:02:40.49,DEFAULT,,0,0,0,,{\r}{\kf20}What{\kf16} do{\kf24} you{\kf52} do{\kf24} when{\kf16} the{\kf48} sun{\kf40} goes{\kf66} down
+Dialogue: 0,0:02:41.09,0:02:44.64,DEFAULT,,0,0,0,,{\r}{\kf21}With{\kf21} all{\kf17} the{\kf45} dark{\kf25}ness{\kf45} clo{\kf33}sing{\kf21}~{\kf37} 'round{\kf50}~{\kf40}~
+Dialogue: 0,0:02:44.78,0:02:47.67,DEFAULT,,0,0,0,,{\r}{\kf25}Oh{\kf25} won't{\kf25} you{\kf25} please{\kf21}~{\kf33} just{\kf21} lis{\kf29}ten{\kf25} to{\kf17}~{\kf42} me
+Dialogue: 0,0:02:48.68,0:02:52.00,DEFAULT,,0,0,0,,{\r}{\kf23}We{\kf23} can{\kf23} live{\kf39} in{\kf39} per{\kf47}fect{\kf27} har{\kf23}~{\kf55}mo{\kf33}ny
+Dialogue: 0,0:02:52.23,0:02:55.25,DEFAULT,,0,0,0,,{\r}{\kf19}What{\kf22} do{\kf22} you{\kf45} do{\kf19} when{\kf19} the{\kf45} sun{\kf49} goes{\kf63} down
+Dialogue: 0,0:02:55.86,0:02:59.47,DEFAULT,,0,0,0,,{\r}{\kf27}With{\kf27} all{\kf23} the{\kf38} dark{\kf23}ness{\kf42} clo{\kf27}sing{\kf23}~{\kf23} 'ro{\kf27}~{\kf42}und{\kf39}~
+Dialogue: 0,0:02:59.64,0:03:02.49,DEFAULT,,0,0,0,,{\r}{\kf20}Oh{\kf24} won't{\kf24} you{\kf24} please{\kf20}~{\kf32} just{\kf28} lis{\kf24}ten{\kf40} to{\kf50} me
+Dialogue: 0,0:03:03.47,0:03:11.32,DEFAULT,,0,0,0,,{\r}{\kf20}We{\kf23} can{\kf23} live{\kf30} in{\kf33} per{\kf36}fect{\kf23} har{\kf20}~{\kf39}mo{\kf20}ny{\kf518}~

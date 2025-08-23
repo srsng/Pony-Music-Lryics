@@ -1,134 +1,141 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Alternate Realities
+Artist: Round Trip, Ashley H, TPressleyJ
+Original Timing: mylittlekaraoke.com by barbeque
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:13.09,0:00:14.18,DEFAULT,,0,0,0,,{\kf17}So{\kf14} I'm{\kf11} a{\kf19} prin{\kf22}cess
-Dialogue: 0,0:00:15.01,0:00:16.51,DEFAULT,,0,0,0,,{\kf17}Am{\kf14} I{\kf17} right{\kf11} for{\kf11} this{\kf43} job?
-Dialogue: 0,0:00:17.37,0:00:19.18,DEFAULT,,0,0,0,,{\kf14}I{\kf17} guess{\kf17} it{\kf27} all{\kf14} de{\kf51}pends
-Dialogue: 0,0:00:19.93,0:00:21.67,DEFAULT,,0,0,0,,{\kf14}I've{\kf11} got{\kf17} my{\kf30} pros{\kf17} and{\kf35} cons
-Dialogue: 0,0:00:21.99,0:00:23.44,DEFAULT,,0,0,0,,{\kf19}But{\kf11} why'd{\kf14} they{\kf27} choose{\kf30} me?
-Dialogue: 0,0:00:23.81,0:00:26.84,DEFAULT,,0,0,0,,{\kf11}They{\kf11} could{\kf11} have{\kf19} picked{\kf11} lit{\kf11}er{\kf17}al{\kf17}ly{\kf11} a{\kf11}ny{\kf17} of{\kf17} my{\kf25} friends
-Dialogue: 0,0:00:27.24,0:00:28.47,DEFAULT,,0,0,0,,{\kf11}They{\kf17} al{\kf11}so{\kf17} have{\kf11} their{\kf22} strengths
-Dialogue: 0,0:00:28.74,0:00:29.99,DEFAULT,,0,0,0,,{\kf11}And{\kf17} their{\kf22} weak{\kf17}nes{\kf22}ses
-Dialogue: 0,0:00:30.45,0:00:32.91,DEFAULT,,0,0,0,,{\kf11}They{\kf17} have{\kf17} ad{\kf14}mi{\kf22}rable{\kf19} qual{\kf17}~{\kf14}i{\kf49}ties
-Dialogue: 0,0:00:34.03,0:00:35.58,DEFAULT,,0,0,0,,{\kf14}I{\kf19} can't{\kf17} help{\kf14} but{\kf11} i{\kf19}ma{\kf19}gine
-Dialogue: 0,0:00:35.74,0:00:37.16,DEFAULT,,0,0,0,,{\kf17}What{\kf25} things{\kf17} might{\kf14} be{\kf30} like
-Dialogue: 0,0:00:37.51,0:00:42.86,DEFAULT,,0,0,0,,{\kf17}In{\kf17} al{\kf17}ter{\kf17}nate{\kf17} re{\kf30}a{\kf22}li{\kf343}ties
-Dialogue: 0,0:00:43.10,0:00:44.71,DEFAULT,,0,0,0,,{\kf17}I'm{\kf14} Prin{\kf14}cess{\kf17} Rain{\kf22}bow{\kf27} Dash
-Dialogue: 0,0:00:44.92,0:00:46.47,DEFAULT,,0,0,0,,{\kf14}And{\kf11} I've{\kf17} got{\kf14} loads{\kf14} of{\kf14} prin{\kf11}cess{\kf14} cash
-Dialogue: 0,0:00:46.58,0:00:48.08,DEFAULT,,0,0,0,,{\kf17}My{\kf17} reign{\kf14} is{\kf14} gon{\kf14}na{\kf11}~{\kf25} last
-Dialogue: 0,0:00:48.29,0:00:49.84,DEFAULT,,0,0,0,,{\kf14}Til{\kf17} I{\kf17} e{\kf14}ven{\kf14}tual{\kf11}ly{\kf14} get{\kf11} bored
-Dialogue: 0,0:00:49.95,0:00:51.61,DEFAULT,,0,0,0,,{\kf14}But{\kf17} that{\kf11} will{\kf17} be{\kf30} quite{\kf11} hard{\kf17}~
-Dialogue: 0,0:00:51.72,0:00:53.13,DEFAULT,,0,0,0,,{\kf14}Be{\kf17}cause{\kf14} my{\kf19} roy{\kf22}al{\kf22} guard
-Dialogue: 0,0:00:53.38,0:00:54.95,DEFAULT,,0,0,0,,{\kf14}Is{\kf17} fear{\kf17}less{\kf17} 'cause{\kf27} I've{\kf11} armed{\kf11}~
-Dialogue: 0,0:00:55.09,0:00:56.77,DEFAULT,,0,0,0,,{\kf14}Them{\kf11} all{\kf11} with{\kf17} ma{\kf14}gic{\kf14} la{\kf14}ser{\kf19} swords
-Dialogue: 0,0:00:56.85,0:00:57.58,DEFAULT,,0,0,0,,{\kf14}I{\kf14} don't{\kf17} waste{\kf14} time
-Dialogue: 0,0:00:57.71,0:00:59.31,DEFAULT,,0,0,0,,{\kf14}So{\kf17} if{\kf14} you{\kf14} wan{\kf14}na{\kf14} feel{\kf19} a{\kf14}live
-Dialogue: 0,0:00:59.45,0:01:01.03,DEFAULT,,0,0,0,,{\kf14}Then{\kf14} I{\kf14} high{\kf11}ly{\kf17} sug{\kf17}gest{\kf11} you{\kf17} ride
-Dialogue: 0,0:01:01.16,0:01:02.79,DEFAULT,,0,0,0,,{\kf14}The{\kf11} new{\kf11} high{\kf14}-speed{\kf11} Friend{\kf17}ship{\kf14} Ex{\kf17}press
-Dialogue: 0,0:01:02.95,0:01:04.42,DEFAULT,,0,0,0,,{\kf11}And{\kf11} all{\kf11} your{\kf30} mail{\kf17} will{\kf11} ar{\kf14}rive
-Dialogue: 0,0:01:04.58,0:01:08.52,DEFAULT,,0,0,0,,{\kf14}From{\kf14} a{\kf14}ny{\kf14}where{\kf14} in{\kf17} for{\kf11}ty{\kf17}-five{\kf14} mi{\kf11}nutes{\kf11} or{\kf11} less{\kf140}~
-Dialogue: 0,0:01:10.52,0:01:12.08,DEFAULT,,0,0,0,,{\kf11}I'm{\kf14} Prin{\kf11}cess{\kf22} Ra{\kf17}ri{\kf30}ty
-Dialogue: 0,0:01:12.24,0:01:13.76,DEFAULT,,0,0,0,,{\kf11}Look{\kf14} how{\kf11} I{\kf22} sty{\kf22}lish{\kf27}ly
-Dialogue: 0,0:01:13.98,0:01:15.47,DEFAULT,,0,0,0,,{\kf14}E{\kf11}nact{\kf17} my{\kf19} po{\kf22}li{\kf11}cies{\kf14}~
-Dialogue: 0,0:01:15.71,0:01:17.29,DEFAULT,,0,0,0,,{\kf11}To{\kf14} make{\kf14} sure{\kf17} e{\kf11}very{\kf17}po{\kf11}ny's{\kf14} fine
-Dialogue: 0,0:01:17.43,0:01:18.90,DEFAULT,,0,0,0,,{\kf11}And{\kf14} all{\kf17} E{\kf14}ques{\kf19}tri{\kf17}a{\kf22} knows
-Dialogue: 0,0:01:19.14,0:01:20.56,DEFAULT,,0,0,0,,{\kf14}As{\kf11} the{\kf11} e{\kf17}co{\kf14}no{\kf11}my{\kf19} grows
-Dialogue: 0,0:01:20.82,0:01:22.30,DEFAULT,,0,0,0,,{\kf17}We'll{\kf17} give{\kf11} out{\kf17} fa{\kf11}bu{\kf17}lous{\kf19} clothes
-Dialogue: 0,0:01:22.56,0:01:24.14,DEFAULT,,0,0,0,,{\kf11}But{\kf14} none{\kf14} more{\kf19} gla{\kf14}mo{\kf14}rous{\kf14} than{\kf11} mine
-Dialogue: 0,0:01:24.25,0:01:25.40,DEFAULT,,0,0,0,,{\kf11}I{\kf14} use{\kf14} my{\kf14} store{\kf14} busi{\kf11}ness
-Dialogue: 0,0:01:25.51,0:01:26.92,DEFAULT,,0,0,0,,{\kf19}Know{\kf14}ledge{\kf14} and{\kf14} know{\kf14}-how{\kf11} for{\kf11} this
-Dialogue: 0,0:01:27.08,0:01:28.34,DEFAULT,,0,0,0,,{\kf11}Min{\kf11}ing{\kf17} gems{\kf14} helps{\kf11} us{\kf11} af{\kf17}ford
-Dialogue: 0,0:01:28.50,0:01:30.16,DEFAULT,,0,0,0,,{\kf11}The{\kf17} sleek{\kf14}est{\kf19} homes{\kf11} and{\kf17} lat{\kf17}est{\kf17} tech
-Dialogue: 0,0:01:30.43,0:01:32.03,DEFAULT,,0,0,0,,{\kf17}And{\kf11} to{\kf17} keep{\kf14} you{\kf14} po{\kf14}nies{\kf17} gor{\kf9}geous
-Dialogue: 0,0:01:32.17,0:01:36.07,DEFAULT,,0,0,0,,{\kf14}You{\kf14} all{\kf14} get{\kf11} a{\kf17} big{\kf11} e{\kf14}nor{\kf14}mous{\kf17} bo{\kf11}nus{\kf33} check{\kf129}~
-Dialogue: 0,0:01:38.00,0:01:39.55,DEFAULT,,0,0,0,,{\kf14}I'm{\kf11} Prin{\kf11}cess{\kf17} Flut{\kf22}ter{\kf30}shy
-Dialogue: 0,0:01:39.69,0:01:41.26,DEFAULT,,0,0,0,,{\kf17}Thank{\kf17} you{\kf11} for{\kf19} stop{\kf22}ping{\kf27} by
-Dialogue: 0,0:01:41.42,0:01:43.00,DEFAULT,,0,0,0,,{\kf14}I'm{\kf14} here{\kf14} to{\kf17} al{\kf22}ways{\kf30} try
-Dialogue: 0,0:01:43.14,0:01:44.71,DEFAULT,,0,0,0,,{\kf11}To{\kf14} do{\kf11} the{\kf14} ve{\kf14}ry{\kf11} best{\kf11} I{\kf9} can
-Dialogue: 0,0:01:44.82,0:01:46.61,DEFAULT,,0,0,0,,{\kf11}I'm{\kf17} con{\kf14}quer{\kf17}ing{\kf19} my{\kf11} shy{\kf17}~{\kf9}ness
-Dialogue: 0,0:01:46.77,0:01:48.35,DEFAULT,,0,0,0,,{\kf14}Just{\kf11} to{\kf14} spread{\kf17} some{\kf11} kind{\kf14}~{\kf14}ness
-Dialogue: 0,0:01:48.46,0:01:50.07,DEFAULT,,0,0,0,,{\kf14}But{\kf30} why{\kf14} they{\kf14} call{\kf14} me{\kf14} high{\kf14}ness
-Dialogue: 0,0:01:50.25,0:01:51.67,DEFAULT,,0,0,0,,{\kf11}I{\kf11} will{\kf17} ne{\kf14}ver{\kf14} un{\kf17}der{\kf14}stand
-Dialogue: 0,0:01:51.86,0:01:52.45,DEFAULT,,0,0,0,,{\kf11}It's{\kf11} who{\kf11} I{\kf11} am
-Dialogue: 0,0:01:52.55,0:01:54.21,DEFAULT,,0,0,0,,{\kf11}To{\kf17} help{\kf14} my{\kf14} friends{\kf11} a{\kf17}cross{\kf11} the{\kf19} land
-Dialogue: 0,0:01:54.32,0:01:55.84,DEFAULT,,0,0,0,,{\kf11}By{\kf14} mak{\kf14}ing{\kf14} nests{\kf14} and{\kf14} bur{\kf17}rows{\kf11} and
-Dialogue: 0,0:01:55.98,0:01:57.66,DEFAULT,,0,0,0,,{\kf11}A{\kf14} bunch{\kf11} of{\kf17} na{\kf11}tu{\kf17}ral{\kf11} pre{\kf22}serves
-Dialogue: 0,0:01:57.93,0:01:59.35,DEFAULT,,0,0,0,,{\kf14}'Cause{\kf9} a{\kf14} home{\kf14} that's{\kf17} safe{\kf14} and{\kf14} grand
-Dialogue: 0,0:01:59.46,0:02:03.47,DEFAULT,,0,0,0,,{\kf11}Is{\kf11} just{\kf14} what{\kf17} each{\kf17} and{\kf19} e{\kf11}very{\kf14} a{\kf11}ni{\kf17}mal{\kf11} de{\kf14}serves{\kf150}~
-Dialogue: 0,0:02:04.91,0:02:06.25,DEFAULT,,0,0,0,,{\kf17}They{\kf11} gave{\kf14} me{\kf14} a{\kf43} crown
-Dialogue: 0,0:02:06.52,0:02:08.02,DEFAULT,,0,0,0,,{\kf11}But{\kf11} I{\kf11} have{\kf11} to{\kf14} dis{\kf14}a{\kf27}gree
-Dialogue: 0,0:02:08.18,0:02:10.61,DEFAULT,,0,0,0,,{\kf11}With{\kf11} the{\kf19} mes{\kf38}sage{\kf17} that{\kf17}~{\kf11} it{\kf49} sends
-Dialogue: 0,0:02:12.06,0:02:13.29,DEFAULT,,0,0,0,,{\kf11}I'm{\kf14} not{\kf9} a{\kf11}ny{\kf22} strong{\kf17}er
-Dialogue: 0,0:02:13.50,0:02:14.92,DEFAULT,,0,0,0,,{\kf14}Or{\kf22} more{\kf17} qua{\kf14}li{\kf30}fied
-Dialogue: 0,0:02:15.16,0:02:17.73,DEFAULT,,0,0,0,,{\kf19}Than{\kf19} a{\kf35}ny{\kf22} of{\kf25} my{\kf78} friends
-Dialogue: 0,0:02:18.66,0:02:21.05,DEFAULT,,0,0,0,,{\kf14}I{\kf11} can't{\kf17}~{\kf33} help{\kf27} but{\kf17} i{\kf27}ma{\kf27}gine
-Dialogue: 0,0:02:21.23,0:02:24.39,DEFAULT,,0,0,0,,{\kf11}What{\kf14} al{\kf11}ter{\kf14}nate{\kf19} re{\kf19}a{\kf17}li{\kf30}ties{\kf30} might{\kf17} have{\kf14} been{\kf35}~
-Dialogue: 0,0:02:25.09,0:02:29.66,DEFAULT,,0,0,0,,{\kf33}Some{\kf27}day{\kf17} I'll{\kf17} find{\kf17} a{\kf17} way{\kf11} to{\kf11} be{\kf17} o{\kf17}kay{\kf11} with{\kf14} the{\kf22} one{\kf19} I'm{\kf22} liv{\kf17}ing{\kf49} in
-Dialogue: 0,0:02:30.28,0:02:37.39,DEFAULT,,0,0,0,,{\kf30}Some{\kf27}day{\kf17} I'll{\kf17} find{\kf11} a{\kf19} way{\kf11} to{\kf14} be{\kf17} o{\kf22}kay{\kf14} with{\kf14} the{\kf25} one{\kf19} I'm{\kf22} liv{\kf17}ing{\kf75} in{\kf78}~{\kf134}~
-Dialogue: 0,0:02:37.98,0:02:39.45,DEFAULT,,0,0,0,,{\kf17}I'm{\kf17} Prin{\kf11}cess{\kf17} Ap{\kf22}ple{\kf27}jack
-Dialogue: 0,0:02:39.72,0:02:41.14,DEFAULT,,0,0,0,,{\kf11}And{\kf14} I{\kf14} know{\kf17} for{\kf17} a{\kf22} fact
-Dialogue: 0,0:02:41.43,0:02:42.96,DEFAULT,,0,0,0,,{\kf14}I've{\kf14} al{\kf14}ways{\kf17} got{\kf14} y'a{\kf19}-all's{\kf22} back
-Dialogue: 0,0:02:43.14,0:02:44.75,DEFAULT,,0,0,0,,{\kf11}Un{\kf17}til{\kf11} the{\kf14} u{\kf17}ni{\kf17}verse{\kf14} ex{\kf17}plodes
-Dialogue: 0,0:02:44.86,0:02:46.62,DEFAULT,,0,0,0,,{\kf11}New{\kf14} in{\kf14}fra{\kf14}struc{\kf27}ture's{\kf41} com{\kf9}ing
-Dialogue: 0,0:02:46.76,0:02:48.31,DEFAULT,,0,0,0,,{\kf11}To{\kf11} keep{\kf19} busi{\kf17}nes{\kf17}ses{\kf30} run{\kf11}ning
-Dialogue: 0,0:02:48.44,0:02:50.07,DEFAULT,,0,0,0,,{\kf17}So{\kf14} I'm{\kf17} fix{\kf17}ing{\kf14} all{\kf11} the{\kf22} plumb{\kf9}ing
-Dialogue: 0,0:02:50.18,0:02:51.62,DEFAULT,,0,0,0,,{\kf14}And{\kf14} re{\kf19}pair{\kf11}ing{\kf14} all{\kf14} the{\kf17} roads
-Dialogue: 0,0:02:51.73,0:02:52.45,DEFAULT,,0,0,0,,{\kf17}Now{\kf17} Ap{\kf17}ple{\kf11} Bloom
-Dialogue: 0,0:02:52.56,0:02:54.17,DEFAULT,,0,0,0,,{\kf11}Is{\kf11} tech{\kf17}nic{\kf11}'lly{\kf17} roy{\kf19}al{\kf17}ty{\kf11} too
-Dialogue: 0,0:02:54.27,0:02:55.88,DEFAULT,,0,0,0,,{\kf17}She{\kf19} gets{\kf11} a{\kf17} su{\kf19}per{\kf14} awe{\kf14}some{\kf14} room
-Dialogue: 0,0:02:56.01,0:02:57.67,DEFAULT,,0,0,0,,{\kf17}Just{\kf14} like{\kf14} Big{\kf14} Mac{\kf11} and{\kf11} Gran{\kf11}ny{\kf25} Smith
-Dialogue: 0,0:02:57.86,0:02:59.28,DEFAULT,,0,0,0,,{\kf9}And{\kf11} this{\kf11} here{\kf19} ma{\kf11}gic{\kf17} horn,{\kf11} who{\kf11} knew
-Dialogue: 0,0:02:59.44,0:03:03.18,DEFAULT,,0,0,0,,{\kf17}I{\kf17} tell{\kf14} ya,{\kf14} it's{\kf17} one{\kf17} han{\kf11}dy{\kf19} tool{\kf14} to{\kf14} build{\kf17} stuff{\kf11} with{\kf129}~
-Dialogue: 0,0:03:05.40,0:03:07.06,DEFAULT,,0,0,0,,{\kf17}I'm{\kf11} Prin{\kf17}cess{\kf17} Pin{\kf30}kie{\kf35} Pie
-Dialogue: 0,0:03:07.20,0:03:08.67,DEFAULT,,0,0,0,,{\kf11}And{\kf11} if{\kf14} you're{\kf17} won{\kf22}dering{\kf27} why
-Dialogue: 0,0:03:08.80,0:03:10.49,DEFAULT,,0,0,0,,{\kf17}There's{\kf17} glit{\kf14}ter{\kf17} in{\kf22} the{\kf35} sky
-Dialogue: 0,0:03:10.67,0:03:12.17,DEFAULT,,0,0,0,,{\kf11}It's{\kf11} 'cause{\kf11} I{\kf11} think{\kf14} it's{\kf17} real{\kf17}ly{\kf17} cool
-Dialogue: 0,0:03:12.30,0:03:13.86,DEFAULT,,0,0,0,,{\kf11}It's{\kf17} Fri{\kf17}day{\kf14} all{\kf19} the{\kf11} time{\kf19}~
-Dialogue: 0,0:03:13.99,0:03:15.54,DEFAULT,,0,0,0,,{\kf14}All{\kf17} le{\kf14}gis{\kf11}la{\kf14}tion{\kf17} has{\kf11} to{\kf11} rhyme
-Dialogue: 0,0:03:15.68,0:03:17.23,DEFAULT,,0,0,0,,{\kf14}My{\kf17} throne{\kf14} is{\kf14} made{\kf19} of{\kf30} slime
-Dialogue: 0,0:03:17.41,0:03:19.05,DEFAULT,,0,0,0,,{\kf14}And{\kf17} Gum{\kf17}my's{\kf11} in{\kf11} the{\kf14} cast{\kf11}le{\kf17} pool
-Dialogue: 0,0:03:19.15,0:03:20.09,DEFAULT,,0,0,0,,{\kf11}This{\kf14} is{\kf14} ter{\kf17}rif{\kf14}ic
-Dialogue: 0,0:03:20.20,0:03:21.75,DEFAULT,,0,0,0,,{\kf17}Pa{\kf11}lace{\kf17} food{\kf11} is{\kf22} sug{\kf11}ar{\kf17}rif{\kf11}ic
-Dialogue: 0,0:03:21.86,0:03:23.49,DEFAULT,,0,0,0,,{\kf14}The{\kf14} cup{\kf19}cakes,{\kf14} to{\kf11} be{\kf17} spe{\kf19}ci{\kf11}fic
-Dialogue: 0,0:03:23.59,0:03:25.12,DEFAULT,,0,0,0,,{\kf11}Helped{\kf17} us{\kf17} win{\kf14} an{\kf11} e{\kf14}pic{\kf27} war
-Dialogue: 0,0:03:25.33,0:03:26.91,DEFAULT,,0,0,0,,{\kf17}So{\kf11} I'm{\kf17} stay{\kf14}ing{\kf14} op{\kf14}ti{\kf17}mis{\kf9}tic
-Dialogue: 0,0:03:27.02,0:03:29.67,DEFAULT,,0,0,0,,{\kf14}That{\kf17} my{\kf17} chefs{\kf14} will{\kf11} bake{\kf14} si{\kf19}gni{\kf14}fi{\kf17}can{\kf11}tly{\kf46} more
-Dialogue: 0,0:03:30.02,0:03:30.55,DEFAULT,,0,0,0,,{\kf54}More
-Dialogue: 0,0:03:30.90,0:03:32.53,DEFAULT,,0,0,0,,{\kf73}More{\kf73}~
-Dialogue: 0,0:03:32.90,0:03:34.67,DEFAULT,,0,0,0,,{\kf14}I'm{\kf17} Prin{\kf14}cess{\kf17} Star{\kf22}light{\kf22} Glim{\kf22}mer
-Dialogue: 0,0:03:34.83,0:03:36.46,DEFAULT,,0,0,0,,{\kf11}Prin{\kf14}cess{\kf17} Sun{\kf17}set{\kf35} Shim{\kf22}mer
-Dialogue: 0,0:03:36.57,0:03:38.07,DEFAULT,,0,0,0,,{\kf11}Prin{\kf17}cess{\kf22} Shin{\kf17}ing{\kf17} Ar{\kf33}mor?
-Dialogue: 0,0:03:38.18,0:03:39.62,DEFAULT,,0,0,0,,{\kf11}Prin{\kf17}cess{\kf14} Tri{\kf14}xie{\kf11} Lu{\kf14}la{\kf22}moon
-Dialogue: 0,0:03:39.78,0:03:41.23,DEFAULT,,0,0,0,,{\kf11}I'm{\kf14} Prin{\kf11}cess{\kf14} Co{\kf17}co{\kf14} Pom{\kf19}mel
-Dialogue: 0,0:03:41.39,0:03:43.02,DEFAULT,,0,0,0,,{\kf17}I'm{\kf14} Prin{\kf14}cess{\kf17} Sweet{\kf33}ie{\kf30} Belle
-Dialogue: 0,0:03:43.12,0:03:44.70,DEFAULT,,0,0,0,,{\kf14}And{\kf17} Ap{\kf14}ple{\kf17} Bloom{\kf27} as{\kf25} well
-Dialogue: 0,0:03:44.84,0:03:46.55,DEFAULT,,0,0,0,,{\kf11}And{\kf14} al{\kf14}so{\kf14} Prin{\kf17}cess{\kf19} Scoo{\kf14}ta{\kf22}loo
-Dialogue: 0,0:03:46.74,0:03:48.34,DEFAULT,,0,0,0,,{\kf11}Prin{\kf17}cess{\kf11} Cheer{\kf11}i{\kf11}lee,{\kf11} Prin{\kf22}cess{\kf14} Ra{\kf14}ra
-Dialogue: 0,0:03:48.45,0:03:49.95,DEFAULT,,0,0,0,,{\kf14}Prin{\kf14}cess{\kf17} Spike{\kf14} and{\kf14} Prin{\kf17}cess{\kf19} Babs
-Dialogue: 0,0:03:50.21,0:03:51.77,DEFAULT,,0,0,0,,{\kf11}And{\kf17} Prin{\kf17}cess{\kf17} Dia{\kf17}mond{\kf14} Ti{\kf14}a{\kf17}ra
-Dialogue: 0,0:03:51.90,0:03:53.37,DEFAULT,,0,0,0,,{\kf11}Prin{\kf14}cess{\kf17} Mom{\kf11} and{\kf14} Prin{\kf17}cess{\kf22} Dad
-Dialogue: 0,0:03:53.61,0:03:55.19,DEFAULT,,0,0,0,,{\kf11}Prin{\kf17}cess,{\kf17} prin{\kf14}cess,{\kf17} prin{\kf14}cess,{\kf11} prin{\kf17}cess
-Dialogue: 0,0:03:55.30,0:03:56.93,DEFAULT,,0,0,0,,{\kf11}Prin{\kf17}cess,{\kf11} prin{\kf11}cess,{\kf11} prin{\kf17}cess,{\kf17} prin{\kf14}cess
-Dialogue: 0,0:03:57.01,0:03:59.60,DEFAULT,,0,0,0,,{\kf14}Prin{\kf17}cess,{\kf19} prin{\kf17}cess,{\kf17} prin{\kf14}cess,{\kf17} prin{\kf17}cess,{\kf17} prin{\kf17}cess,{\kf17} prin{\kf30}cess
-Dialogue: 0,0:03:59.98,0:04:02.87,DEFAULT,,0,0,0,,{\kf22}Twi{\kf27}light,{\kf49} you're{\kf17} the{\kf19} lea{\kf11}der{\kf14} we{\kf14} ad{\kf27}mire
-Dialogue: 0,0:04:03.06,0:04:05.54,DEFAULT,,0,0,0,,{\kf14}Who{\kf11} pro{\kf22}tects,{\kf38} serves,{\kf27} and{\kf17} de{\kf57}fends
-Dialogue: 0,0:04:06.72,0:04:07.84,DEFAULT,,0,0,0,,{\kf14}You're{\kf33} real{\kf17}ly{\kf25} good
-Dialogue: 0,0:04:08.01,0:04:09.74,DEFAULT,,0,0,0,,{\kf11}But{\kf14} if{\kf11} you{\kf19} e{\kf11}ver{\kf14} need{\kf14} ad{\kf27}vice
-Dialogue: 0,0:04:09.90,0:04:12.23,DEFAULT,,0,0,0,,{\kf11}You{\kf17} can{\kf17} al{\kf17}ways{\kf17} call{\kf11} up{\kf9} a{\kf11}ny{\kf9} of{\kf11} your{\kf35} friends
-Dialogue: 0,0:04:12.53,0:04:12.98,DEFAULT,,0,0,0,,{\kf14}Thanks,{\kf22} guys
-Dialogue: 0,0:04:13.49,0:04:15.04,DEFAULT,,0,0,0,,{\kf19}It's{\kf27} fun{\kf19} to{\kf17} i{\kf19}ma{\kf19}gine
-Dialogue: 0,0:04:15.20,0:04:17.88,DEFAULT,,0,0,0,,{\kf17}What{\kf11} all{\kf11} of{\kf33} these{\kf17} al{\kf17}ter{\kf14}nate{\kf17} re{\kf19}a{\kf17}li{\kf30}ties
-Dialogue: 0,0:04:18.04,0:04:19.16,DEFAULT,,0,0,0,,{\kf22}Might{\kf11}~{\kf17} have{\kf46} been
-Dialogue: 0,0:04:19.96,0:04:24.62,DEFAULT,,0,0,0,,{\kf22}But{\kf25} hey,{\kf14} I{\kf17} got{\kf14}ta{\kf17} say{\kf17} I'm{\kf17} o{\kf22}kay{\kf17} with{\kf14} the{\kf33} one{\kf17} I'm{\kf22} liv{\kf11}ing{\kf59} in
-Dialogue: 0,0:04:25.07,0:04:29.81,DEFAULT,,0,0,0,,{\kf25}But{\kf25} hey,{\kf19} I{\kf17} got{\kf11}ta{\kf17} say{\kf19} I'm{\kf14} o{\kf30}kay{\kf19} with{\kf11} the{\kf22} one{\kf19} I'm{\kf19} liv{\kf19}ing{\kf59} in
-Dialogue: 0,0:04:30.24,0:04:31.95,DEFAULT,,0,0,0,,{\kf17}But{\kf17} what{\kf14} the{\kf19} hay,{\kf14} I{\kf17} got{\kf11}ta{\kf25} say
-Dialogue: 0,0:04:32.14,0:04:34.73,DEFAULT,,0,0,0,,{\kf17}I'll{\kf17} be{\kf17} more{\kf14} or{\kf17} less{\kf14} o{\kf27}kay{\kf17} with{\kf14} the{\kf43} one
-Dialogue: 0,0:04:35.16,0:04:39.87,DEFAULT,,0,0,0,,{\kf62}I'm{\kf17} li{\kf49}-iv{\kf54}ing{\kf30} in{\kf174}~
+Dialogue: 0,0:00:13.09,0:00:14.19,DEFAULT,,0,0,0,,{\r}{\kf22}So{\kf18} I'm{\kf15} a{\kf26} prin{\kf29}cess
+Dialogue: 0,0:00:15.02,0:00:16.51,DEFAULT,,0,0,0,,{\r}{\kf22}Am{\kf18} I{\kf22} right{\kf15} for{\kf15} this{\kf58} job?
+Dialogue: 0,0:00:17.37,0:00:19.19,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf21} guess{\kf21} it{\kf36} all{\kf18} de{\kf68}pends
+Dialogue: 0,0:00:19.94,0:00:21.68,DEFAULT,,0,0,0,,{\r}{\kf19}I've{\kf15} got{\kf23} my{\kf43} pros{\kf23} and{\kf51} cons
+Dialogue: 0,0:00:22.00,0:00:23.44,DEFAULT,,0,0,0,,{\r}{\kf27}But{\kf16} why'd{\kf19} they{\kf39} choose{\kf43} me?
+Dialogue: 0,0:00:23.82,0:00:26.84,DEFAULT,,0,0,0,,{\r}{\kf18}They{\kf18} could{\kf18} have{\kf31} picked{\kf18} lit{\kf18}er{\kf27}al{\kf27}ly{\kf18} a{\kf18}ny{\kf27} of{\kf27} my{\kf37} friends
+Dialogue: 0,0:00:27.24,0:00:28.47,DEFAULT,,0,0,0,,{\r}{\kf15}They{\kf23} al{\kf15}so{\kf23} have{\kf15} their{\kf32} strengths
+Dialogue: 0,0:00:28.74,0:00:30.00,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf24} their{\kf32} weak{\kf24}nes{\kf30}ses
+Dialogue: 0,0:00:30.45,0:00:32.91,DEFAULT,,0,0,0,,{\r}{\kf15}They{\kf23} have{\kf23} ad{\kf19}mi{\kf30}rable{\kf26} qual{\kf23}~{\kf19}i{\kf68}ties
+Dialogue: 0,0:00:34.04,0:00:35.59,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf26} can't{\kf23} help{\kf19} but{\kf15} i{\kf26}ma{\kf27}gine
+Dialogue: 0,0:00:35.75,0:00:37.17,DEFAULT,,0,0,0,,{\r}{\kf23}What{\kf35} things{\kf23} might{\kf19} be{\kf42} like
+Dialogue: 0,0:00:37.52,0:00:42.87,DEFAULT,,0,0,0,,{\r}{\kf18}In{\kf18} al{\kf18}ter{\kf18}nate{\kf18} re{\kf33}a{\kf24}li{\kf388}ties
+Dialogue: 0,0:00:43.11,0:00:44.71,DEFAULT,,0,0,0,,{\r}{\kf24}I'm{\kf20} Prin{\kf20}cess{\kf24} Rain{\kf32}bow{\kf41} Dash
+Dialogue: 0,0:00:44.93,0:00:46.48,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf16} I've{\kf24} got{\kf20} loads{\kf20} of{\kf20} prin{\kf16}cess{\kf19} cash
+Dialogue: 0,0:00:46.59,0:00:48.08,DEFAULT,,0,0,0,,{\r}{\kf23}My{\kf23} reign{\kf19} is{\kf19} gon{\kf19}na{\kf15}~{\kf32} last
+Dialogue: 0,0:00:48.30,0:00:49.85,DEFAULT,,0,0,0,,{\r}{\kf19}Til{\kf23} I{\kf23} e{\kf19}ven{\kf19}tual{\kf16}ly{\kf19} get{\kf17} bored
+Dialogue: 0,0:00:49.96,0:00:51.61,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf24} that{\kf16} will{\kf24} be{\kf43} quite{\kf16} hard{\kf23}~
+Dialogue: 0,0:00:51.72,0:00:53.14,DEFAULT,,0,0,0,,{\r}{\kf18}Be{\kf22}cause{\kf18} my{\kf25} roy{\kf29}al{\kf30} guard
+Dialogue: 0,0:00:53.38,0:00:54.96,DEFAULT,,0,0,0,,{\r}{\kf19}Is{\kf23} fear{\kf23}less{\kf23} 'cause{\kf39} I've{\kf15} armed{\kf16}~
+Dialogue: 0,0:00:55.09,0:00:56.78,DEFAULT,,0,0,0,,{\r}{\kf21}Them{\kf16} all{\kf16} with{\kf25} ma{\kf21}gic{\kf21} la{\kf21}ser{\kf28} swords
+Dialogue: 0,0:00:56.86,0:00:57.58,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf17} don't{\kf21} waste{\kf17} time
+Dialogue: 0,0:00:57.71,0:00:59.32,DEFAULT,,0,0,0,,{\r}{\kf19}So{\kf22} if{\kf19} you{\kf19} wan{\kf19}na{\kf19} feel{\kf26} a{\kf18}live
+Dialogue: 0,0:00:59.45,0:01:01.03,DEFAULT,,0,0,0,,{\r}{\kf19}Then{\kf19} I{\kf19} high{\kf15}ly{\kf23} sug{\kf23}gest{\kf15} you{\kf25} ride
+Dialogue: 0,0:01:01.17,0:01:02.80,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf17} new{\kf17} high{\kf21}-speed{\kf17} Friend{\kf25}ship{\kf21} Ex{\kf24}press
+Dialogue: 0,0:01:02.96,0:01:04.43,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} all{\kf15} your{\kf43} mail{\kf23} will{\kf15} ar{\kf21}rive
+Dialogue: 0,0:01:04.59,0:01:08.52,DEFAULT,,0,0,0,,{\r}{\kf18}From{\kf18} a{\kf18}ny{\kf18}where{\kf18} in{\kf21} for{\kf14}ty{\kf21}-five{\kf18} mi{\kf14}nutes{\kf14} or{\kf14} less{\kf187}~
+Dialogue: 0,0:01:10.53,0:01:12.08,DEFAULT,,0,0,0,,{\r}{\kf16}I'm{\kf20} Prin{\kf16}cess{\kf33} Ra{\kf24}ri{\kf46}ty
+Dialogue: 0,0:01:12.24,0:01:13.77,DEFAULT,,0,0,0,,{\r}{\kf16}Look{\kf19} how{\kf16} I{\kf31} sty{\kf31}lish{\kf39}ly
+Dialogue: 0,0:01:13.98,0:01:15.48,DEFAULT,,0,0,0,,{\r}{\kf19}E{\kf15}nact{\kf23} my{\kf27} po{\kf31}li{\kf15}cies{\kf20}~
+Dialogue: 0,0:01:15.72,0:01:17.30,DEFAULT,,0,0,0,,{\r}{\kf16}To{\kf20} make{\kf20} sure{\kf24} e{\kf16}very{\kf24}po{\kf16}ny's{\kf22} fine
+Dialogue: 0,0:01:17.43,0:01:18.90,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf18} all{\kf22} E{\kf18}ques{\kf25}tri{\kf22}a{\kf28} knows
+Dialogue: 0,0:01:19.14,0:01:20.56,DEFAULT,,0,0,0,,{\r}{\kf20}As{\kf16} the{\kf16} e{\kf24}co{\kf20}no{\kf16}my{\kf30} grows
+Dialogue: 0,0:01:20.83,0:01:22.30,DEFAULT,,0,0,0,,{\r}{\kf23}We'll{\kf23} give{\kf15} out{\kf23} fa{\kf15}bu{\kf23}lous{\kf25} clothes
+Dialogue: 0,0:01:22.57,0:01:24.15,DEFAULT,,0,0,0,,{\r}{\kf16}But{\kf20} none{\kf20} more{\kf28} gla{\kf20}mo{\kf20}rous{\kf20} than{\kf14} mine
+Dialogue: 0,0:01:24.25,0:01:25.40,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf21} use{\kf21} my{\kf21} store{\kf21} busi{\kf15}ness
+Dialogue: 0,0:01:25.51,0:01:26.93,DEFAULT,,0,0,0,,{\r}{\kf28}Know{\kf20}ledge{\kf20} and{\kf20} know{\kf20}-how{\kf16} for{\kf18} this
+Dialogue: 0,0:01:27.09,0:01:28.35,DEFAULT,,0,0,0,,{\r}{\kf15}Min{\kf15}ing{\kf23} gems{\kf19} helps{\kf15} us{\kf15} af{\kf24}ford
+Dialogue: 0,0:01:28.51,0:01:30.17,DEFAULT,,0,0,0,,{\r}{\kf15}The{\kf23} sleek{\kf19}est{\kf26} homes{\kf15} and{\kf23} lat{\kf23}est{\kf22} tech
+Dialogue: 0,0:01:30.43,0:01:32.04,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf16} to{\kf24} keep{\kf20} you{\kf20} po{\kf20}nies{\kf24} gor{\kf13}geous
+Dialogue: 0,0:01:32.17,0:01:36.08,DEFAULT,,0,0,0,,{\r}{\kf18}You{\kf18} all{\kf18} get{\kf14} a{\kf22} big{\kf14} e{\kf18}nor{\kf18}mous{\kf22} bo{\kf14}nus{\kf43} check{\kf172}~
+Dialogue: 0,0:01:38.00,0:01:39.56,DEFAULT,,0,0,0,,{\r}{\kf20}I'm{\kf16} Prin{\kf16}cess{\kf24} Flut{\kf33}ter{\kf46}shy
+Dialogue: 0,0:01:39.69,0:01:41.27,DEFAULT,,0,0,0,,{\r}{\kf23}Thank{\kf23} you{\kf15} for{\kf27} stop{\kf31}ping{\kf39} by
+Dialogue: 0,0:01:41.43,0:01:43.01,DEFAULT,,0,0,0,,{\r}{\kf20}I'm{\kf20} here{\kf20} to{\kf24} al{\kf32}ways{\kf42} try
+Dialogue: 0,0:01:43.14,0:01:44.72,DEFAULT,,0,0,0,,{\r}{\kf19}To{\kf23} do{\kf19} the{\kf23} ve{\kf23}ry{\kf19} best{\kf19} I{\kf13} can
+Dialogue: 0,0:01:44.83,0:01:46.62,DEFAULT,,0,0,0,,{\r}{\kf17}I'm{\kf26} con{\kf22}quer{\kf26}ing{\kf31} my{\kf17} shy{\kf26}~{\kf14}ness
+Dialogue: 0,0:01:46.78,0:01:48.36,DEFAULT,,0,0,0,,{\r}{\kf23}Just{\kf19} to{\kf23} spread{\kf28} some{\kf19} kind{\kf23}~{\kf23}ness
+Dialogue: 0,0:01:48.47,0:01:50.07,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf43} why{\kf20} they{\kf20} call{\kf20} me{\kf20} high{\kf18}ness
+Dialogue: 0,0:01:50.26,0:01:51.68,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} will{\kf24} ne{\kf20}ver{\kf20} un{\kf24}der{\kf22}stand
+Dialogue: 0,0:01:51.86,0:01:52.45,DEFAULT,,0,0,0,,{\r}{\kf15}It's{\kf15} who{\kf15} I{\kf14} am
+Dialogue: 0,0:01:52.56,0:01:54.22,DEFAULT,,0,0,0,,{\r}{\kf16}To{\kf24} help{\kf20} my{\kf20} friends{\kf16} a{\kf24}cross{\kf16} the{\kf30} land
+Dialogue: 0,0:01:54.32,0:01:55.85,DEFAULT,,0,0,0,,{\r}{\kf16}By{\kf19} mak{\kf19}ing{\kf19} nests{\kf19} and{\kf19} bur{\kf23}rows{\kf18} and
+Dialogue: 0,0:01:55.98,0:01:57.67,DEFAULT,,0,0,0,,{\r}{\kf16}A{\kf21} bunch{\kf16} of{\kf25} na{\kf16}tu{\kf25}ral{\kf16} pre{\kf34}serves
+Dialogue: 0,0:01:57.94,0:01:59.35,DEFAULT,,0,0,0,,{\r}{\kf21}'Cause{\kf13} a{\kf21} home{\kf21} that's{\kf25} safe{\kf21} and{\kf20} grand
+Dialogue: 0,0:01:59.46,0:02:03.47,DEFAULT,,0,0,0,,{\r}{\kf14}Is{\kf14} just{\kf17} what{\kf21} each{\kf21} and{\kf24} e{\kf14}very{\kf17} a{\kf14}ni{\kf21}mal{\kf14} de{\kf17}serves{\kf193}~
+Dialogue: 0,0:02:04.92,0:02:06.26,DEFAULT,,0,0,0,,{\r}{\kf22}They{\kf15} gave{\kf19} me{\kf19} a{\kf59} crown
+Dialogue: 0,0:02:06.52,0:02:08.02,DEFAULT,,0,0,0,,{\r}{\kf17}But{\kf17} I{\kf17} have{\kf17} to{\kf21} dis{\kf21}a{\kf40}gree
+Dialogue: 0,0:02:08.18,0:02:10.62,DEFAULT,,0,0,0,,{\r}{\kf15}With{\kf15} the{\kf27} mes{\kf54}sage{\kf23} that{\kf23}~{\kf15} it{\kf71} sends
+Dialogue: 0,0:02:12.06,0:02:13.29,DEFAULT,,0,0,0,,{\r}{\kf16}I'm{\kf20} not{\kf12} a{\kf16}ny{\kf33} strong{\kf26}er
+Dialogue: 0,0:02:13.51,0:02:14.92,DEFAULT,,0,0,0,,{\r}{\kf20}Or{\kf32} more{\kf24} qua{\kf20}li{\kf46}fied
+Dialogue: 0,0:02:15.16,0:02:17.73,DEFAULT,,0,0,0,,{\r}{\kf25}Than{\kf25} a{\kf46}ny{\kf28} of{\kf32} my{\kf101} friends
+Dialogue: 0,0:02:18.67,0:02:21.05,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf15} can't{\kf23}~{\kf45} help{\kf38} but{\kf23} i{\kf38}ma{\kf37}gine
+Dialogue: 0,0:02:21.24,0:02:24.39,DEFAULT,,0,0,0,,{\r}{\kf15}What{\kf19} al{\kf15}ter{\kf19}nate{\kf26} re{\kf26}a{\kf23}li{\kf41}ties{\kf41} might{\kf23} have{\kf19} been{\kf49}~
+Dialogue: 0,0:02:25.09,0:02:29.67,DEFAULT,,0,0,0,,{\r}{\kf45}Some{\kf37}day{\kf22} I'll{\kf22} find{\kf22} a{\kf22} way{\kf15} to{\kf15} be{\kf22} o{\kf22}kay{\kf15} with{\kf19} the{\kf30} one{\kf26} I'm{\kf30} liv{\kf22}ing{\kf71} in
+Dialogue: 0,0:02:30.28,0:02:37.40,DEFAULT,,0,0,0,,{\r}{\kf37}Some{\kf33}day{\kf20} I'll{\kf20} find{\kf13} a{\kf23} way{\kf13} to{\kf17} be{\kf20} o{\kf27}kay{\kf17} with{\kf17} the{\kf30} one{\kf23} I'm{\kf27} liv{\kf20}ing{\kf93} in{\kf96}~{\kf166}~
+Dialogue: 0,0:02:37.99,0:02:39.46,DEFAULT,,0,0,0,,{\r}{\kf22}I'm{\kf22} Prin{\kf15}cess{\kf22} Ap{\kf29}ple{\kf37}jack
+Dialogue: 0,0:02:39.72,0:02:41.14,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf21} I{\kf21} know{\kf25} for{\kf25} a{\kf33} fact
+Dialogue: 0,0:02:41.44,0:02:42.96,DEFAULT,,0,0,0,,{\r}{\kf19}I've{\kf19} al{\kf19}ways{\kf22} got{\kf19} y'a{\kf26}-all's{\kf28} back
+Dialogue: 0,0:02:43.15,0:02:44.75,DEFAULT,,0,0,0,,{\r}{\kf15}Un{\kf23}til{\kf15} the{\kf19} u{\kf23}ni{\kf23}verse{\kf19} ex{\kf24}plodes
+Dialogue: 0,0:02:44.86,0:02:46.63,DEFAULT,,0,0,0,,{\r}{\kf15}New{\kf19} in{\kf19}fra{\kf19}struc{\kf38}ture's{\kf56} com{\kf11}ing
+Dialogue: 0,0:02:46.76,0:02:48.31,DEFAULT,,0,0,0,,{\r}{\kf15}To{\kf15} keep{\kf26} busi{\kf22}nes{\kf22}ses{\kf41} run{\kf14}ning
+Dialogue: 0,0:02:48.45,0:02:50.08,DEFAULT,,0,0,0,,{\r}{\kf23}So{\kf19} I'm{\kf23} fix{\kf23}ing{\kf19} all{\kf15} the{\kf30} plumb{\kf11}ing
+Dialogue: 0,0:02:50.18,0:02:51.63,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} re{\kf27}pair{\kf16}ing{\kf19} all{\kf19} the{\kf25} roads
+Dialogue: 0,0:02:51.74,0:02:52.46,DEFAULT,,0,0,0,,{\r}{\kf20}Now{\kf20} Ap{\kf20}ple{\kf12} Bloom
+Dialogue: 0,0:02:52.57,0:02:54.17,DEFAULT,,0,0,0,,{\r}{\kf16}Is{\kf16} tech{\kf24}nic{\kf16}'lly{\kf24} roy{\kf27}al{\kf24}ty{\kf14} too
+Dialogue: 0,0:02:54.28,0:02:55.88,DEFAULT,,0,0,0,,{\r}{\kf21}She{\kf25} gets{\kf14} a{\kf21} su{\kf25}per{\kf18} awe{\kf18}some{\kf19} room
+Dialogue: 0,0:02:56.02,0:02:57.68,DEFAULT,,0,0,0,,{\r}{\kf24}Just{\kf20} like{\kf20} Big{\kf20} Mac{\kf16} and{\kf16} Gran{\kf16}ny{\kf34} Smith
+Dialogue: 0,0:02:57.86,0:02:59.28,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf16} this{\kf16} here{\kf28} ma{\kf16}gic{\kf24} horn,{\kf16} who{\kf14} knew
+Dialogue: 0,0:02:59.44,0:03:03.19,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf20} tell{\kf17} ya,{\kf17} it's{\kf20} one{\kf20} han{\kf13}dy{\kf23} tool{\kf17} to{\kf17} build{\kf20} stuff{\kf13} with{\kf158}~
+Dialogue: 0,0:03:05.41,0:03:07.07,DEFAULT,,0,0,0,,{\r}{\kf22}I'm{\kf14} Prin{\kf22}cess{\kf22} Pin{\kf40}kie{\kf46} Pie
+Dialogue: 0,0:03:07.20,0:03:08.67,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf16} if{\kf20} you're{\kf24} won{\kf32}dering{\kf39} why
+Dialogue: 0,0:03:08.81,0:03:10.49,DEFAULT,,0,0,0,,{\r}{\kf23}There's{\kf23} glit{\kf19}ter{\kf23} in{\kf31} the{\kf50} sky
+Dialogue: 0,0:03:10.68,0:03:12.18,DEFAULT,,0,0,0,,{\r}{\kf15}It's{\kf15} 'cause{\kf15} I{\kf15} think{\kf19} it's{\kf23} real{\kf23}ly{\kf25} cool
+Dialogue: 0,0:03:12.31,0:03:13.86,DEFAULT,,0,0,0,,{\r}{\kf16}It's{\kf24} Fri{\kf24}day{\kf20} all{\kf28} the{\kf16} time{\kf27}~
+Dialogue: 0,0:03:14.00,0:03:15.55,DEFAULT,,0,0,0,,{\r}{\kf20}All{\kf24} le{\kf20}gis{\kf16}la{\kf20}tion{\kf24} has{\kf16} to{\kf15} rhyme
+Dialogue: 0,0:03:15.68,0:03:17.23,DEFAULT,,0,0,0,,{\r}{\kf20}My{\kf24} throne{\kf20} is{\kf20} made{\kf28} of{\kf43} slime
+Dialogue: 0,0:03:17.42,0:03:19.05,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf24} Gum{\kf24}my's{\kf16} in{\kf16} the{\kf20} cast{\kf16}le{\kf27} pool
+Dialogue: 0,0:03:19.16,0:03:20.10,DEFAULT,,0,0,0,,{\r}{\kf15}This{\kf19} is{\kf19} ter{\kf23}rif{\kf18}ic
+Dialogue: 0,0:03:20.20,0:03:21.75,DEFAULT,,0,0,0,,{\r}{\kf22}Pa{\kf15}lace{\kf22} food{\kf15} is{\kf30} sug{\kf15}ar{\kf22}rif{\kf14}ic
+Dialogue: 0,0:03:21.86,0:03:23.49,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf19} cup{\kf27}cakes,{\kf19} to{\kf15} be{\kf23} spe{\kf27}ci{\kf14}fic
+Dialogue: 0,0:03:23.60,0:03:25.12,DEFAULT,,0,0,0,,{\r}{\kf15}Helped{\kf23} us{\kf23} win{\kf19} an{\kf15} e{\kf19}pic{\kf38} war
+Dialogue: 0,0:03:25.34,0:03:26.92,DEFAULT,,0,0,0,,{\r}{\kf24}So{\kf16} I'm{\kf24} stay{\kf20}ing{\kf20} op{\kf20}ti{\kf24}mis{\kf10}tic
+Dialogue: 0,0:03:27.02,0:03:29.67,DEFAULT,,0,0,0,,{\r}{\kf19}That{\kf23} my{\kf23} chefs{\kf19} will{\kf15} bake{\kf19} si{\kf26}gni{\kf19}fi{\kf23}can{\kf15}tly{\kf64} more
+Dialogue: 0,0:03:30.02,0:03:30.56,DEFAULT,,0,0,0,,{\r}{\kf54}More
+Dialogue: 0,0:03:30.90,0:03:32.54,DEFAULT,,0,0,0,,{\r}{\kf82}More{\kf81}~
+Dialogue: 0,0:03:32.91,0:03:34.68,DEFAULT,,0,0,0,,{\r}{\kf19}I'm{\kf23} Prin{\kf19}cess{\kf23} Star{\kf31}light{\kf31} Glim{\kf31}mer
+Dialogue: 0,0:03:34.84,0:03:36.47,DEFAULT,,0,0,0,,{\r}{\kf16}Prin{\kf19}cess{\kf23} Sun{\kf23}set{\kf50} Shim{\kf32}mer
+Dialogue: 0,0:03:36.58,0:03:38.07,DEFAULT,,0,0,0,,{\r}{\kf14}Prin{\kf21}cess{\kf29} Shin{\kf21}ing{\kf21} Ar{\kf44}mor?
+Dialogue: 0,0:03:38.18,0:03:39.62,DEFAULT,,0,0,0,,{\r}{\kf16}Prin{\kf23}cess{\kf19} Tri{\kf19}xie{\kf16} Lu{\kf19}la{\kf32}moon
+Dialogue: 0,0:03:39.79,0:03:41.23,DEFAULT,,0,0,0,,{\r}{\kf16}I'm{\kf20} Prin{\kf16}cess{\kf20} Co{\kf24}co{\kf20} Pom{\kf28}mel
+Dialogue: 0,0:03:41.39,0:03:43.02,DEFAULT,,0,0,0,,{\r}{\kf22}I'm{\kf18} Prin{\kf18}cess{\kf22} Sweet{\kf43}ie{\kf40} Belle
+Dialogue: 0,0:03:43.13,0:03:44.71,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf23} Ap{\kf19}ple{\kf23} Bloom{\kf39} as{\kf35} well
+Dialogue: 0,0:03:44.84,0:03:46.55,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf19} al{\kf19}so{\kf19} Prin{\kf23}cess{\kf27} Scoo{\kf19}ta{\kf30}loo
+Dialogue: 0,0:03:46.74,0:03:48.35,DEFAULT,,0,0,0,,{\r}{\kf15}Prin{\kf22}cess{\kf15} Cheer{\kf15}i{\kf15}lee,{\kf15} Prin{\kf29}cess{\kf18} Ra{\kf17}ra
+Dialogue: 0,0:03:48.45,0:03:49.95,DEFAULT,,0,0,0,,{\r}{\kf19}Prin{\kf19}cess{\kf23} Spike{\kf19} and{\kf19} Prin{\kf23}cess{\kf28} Babs
+Dialogue: 0,0:03:50.22,0:03:51.77,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf21} Prin{\kf21}cess{\kf21} Dia{\kf21}mond{\kf18} Ti{\kf18}a{\kf21}ra
+Dialogue: 0,0:03:51.90,0:03:53.38,DEFAULT,,0,0,0,,{\r}{\kf15}Prin{\kf19}cess{\kf23} Mom{\kf15} and{\kf19} Prin{\kf23}cess{\kf33} Dad
+Dialogue: 0,0:03:53.62,0:03:55.20,DEFAULT,,0,0,0,,{\r}{\kf15}Prin{\kf23}cess,{\kf23} prin{\kf19}cess,{\kf23} prin{\kf19}cess,{\kf15} prin{\kf21}cess
+Dialogue: 0,0:03:55.30,0:03:56.93,DEFAULT,,0,0,0,,{\r}{\kf17}Prin{\kf25}cess,{\kf17} prin{\kf17}cess,{\kf17} prin{\kf25}cess,{\kf25} prin{\kf20}cess
+Dialogue: 0,0:03:57.01,0:03:59.61,DEFAULT,,0,0,0,,{\r}{\kf17}Prin{\kf21}cess,{\kf24} prin{\kf21}cess,{\kf21} prin{\kf17}cess,{\kf21} prin{\kf21}cess,{\kf21} prin{\kf21}cess,{\kf21} prin{\kf34}cess
+Dialogue: 0,0:03:59.98,0:04:02.87,DEFAULT,,0,0,0,,{\r}{\kf32}Twi{\kf40}light,{\kf71} you're{\kf24} the{\kf28} lea{\kf16}der{\kf20} we{\kf20} ad{\kf38}mire
+Dialogue: 0,0:04:03.06,0:04:05.55,DEFAULT,,0,0,0,,{\r}{\kf18}Who{\kf15} pro{\kf29}tects,{\kf51} serves,{\kf37} and{\kf22} de{\kf77}fends
+Dialogue: 0,0:04:06.73,0:04:07.85,DEFAULT,,0,0,0,,{\r}{\kf17}You're{\kf42} real{\kf21}ly{\kf32} good
+Dialogue: 0,0:04:08.01,0:04:09.75,DEFAULT,,0,0,0,,{\r}{\kf16}But{\kf20} if{\kf16} you{\kf28} e{\kf16}ver{\kf20} need{\kf20} ad{\kf38}vice
+Dialogue: 0,0:04:09.91,0:04:12.24,DEFAULT,,0,0,0,,{\r}{\kf16}You{\kf24} can{\kf24} al{\kf24}ways{\kf24} call{\kf16} up{\kf12} a{\kf16}ny{\kf12} of{\kf16} your{\kf49} friends
+Dialogue: 0,0:04:12.53,0:04:12.99,DEFAULT,,0,0,0,,{\r}{\kf17}Thanks,{\kf28} guys
+Dialogue: 0,0:04:13.49,0:04:15.05,DEFAULT,,0,0,0,,{\r}{\kf25}It's{\kf35} fun{\kf25} to{\kf21} i{\kf25}ma{\kf24}gine
+Dialogue: 0,0:04:15.21,0:04:17.88,DEFAULT,,0,0,0,,{\r}{\kf22}What{\kf15} all{\kf15} of{\kf44} these{\kf22} al{\kf22}ter{\kf18}nate{\kf22} re{\kf26}a{\kf22}li{\kf40}ties
+Dialogue: 0,0:04:18.04,0:04:19.17,DEFAULT,,0,0,0,,{\r}{\kf26}Might{\kf13}~{\kf19} have{\kf54} been
+Dialogue: 0,0:04:19.97,0:04:24.62,DEFAULT,,0,0,0,,{\r}{\kf31}But{\kf34} hey,{\kf19} I{\kf23} got{\kf19}ta{\kf23} say{\kf23} I'm{\kf23} o{\kf31}kay{\kf23} with{\kf19} the{\kf46} one{\kf23} I'm{\kf31} liv{\kf15}ing{\kf83} in
+Dialogue: 0,0:04:25.08,0:04:29.81,DEFAULT,,0,0,0,,{\r}{\kf34}But{\kf34} hey,{\kf26} I{\kf23} got{\kf15}ta{\kf23} say{\kf26} I'm{\kf19} o{\kf41}kay{\kf26} with{\kf15} the{\kf30} one{\kf26} I'm{\kf26} liv{\kf26}ing{\kf84} in
+Dialogue: 0,0:04:30.24,0:04:31.95,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf21} what{\kf18} the{\kf25} hay,{\kf18} I{\kf21} got{\kf14}ta{\kf33} say
+Dialogue: 0,0:04:32.14,0:04:34.74,DEFAULT,,0,0,0,,{\r}{\kf22}I'll{\kf22} be{\kf22} more{\kf18} or{\kf22} less{\kf18} o{\kf37}kay{\kf22} with{\kf18} the{\kf59} one
+Dialogue: 0,0:04:35.16,0:04:39.87,DEFAULT,,0,0,0,,{\r}{\kf76}I'm{\kf20} li{\kf59}-iv{\kf66}ing{\kf36} in{\kf214}~

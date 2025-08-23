@@ -1,51 +1,58 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: For Luna
+Artist: Vafrous Coyote
+Original Timing: mylittlekaraoke.com by Pony Rock Project
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:57.00,0:00:59.85,DEFAULT,,0,0,0,,{\kf19}Hey{\kf19} there{\kf8} big{\kf16} sis{\kf143}ter
-Dialogue: 0,0:01:01.01,0:01:03.86,DEFAULT,,0,0,0,,{\kf19}I've{\kf27} got{\kf12} a{\kf16} ques{\kf132}tion
-Dialogue: 0,0:01:05.02,0:01:07.99,DEFAULT,,0,0,0,,{\kf31}Why{\kf19} do{\kf23} they{\kf38} love{\kf139} you
-Dialogue: 0,0:01:09.08,0:01:12.45,DEFAULT,,0,0,0,,{\kf31}Why{\kf23} do{\kf12} they{\kf38} scorn{\kf49} my{\kf31} beau{\kf91}ty
-Dialogue: 0,0:01:21.34,0:01:24.53,DEFAULT,,0,0,0,,{\kf27}Moon's{\kf12} in{\kf8} the{\kf31} sky{\kf169} now
-Dialogue: 0,0:01:25.32,0:01:28.44,DEFAULT,,0,0,0,,{\kf12}Not{\kf23} long{\kf12} 'till{\kf23} sun{\kf158}rise
-Dialogue: 0,0:01:29.45,0:01:32.45,DEFAULT,,0,0,0,,{\kf19}You{\kf27} say{\kf8} to{\kf31} drop{\kf151} it
-Dialogue: 0,0:01:33.46,0:01:36.84,DEFAULT,,0,0,0,,{\kf23}I{\kf16} don't{\kf19} see{\kf38} why{\kf46} I{\kf16} have{\kf87} to
-Dialogue: 0,0:01:37.63,0:01:44.31,DEFAULT,,0,0,0,,{\kf12}And{\kf169} I{\kf16} feel{\kf49}~{\kf61} so{\kf16} a{\kf16}live{\kf241}~
-Dialogue: 0,0:01:45.13,0:01:52.04,DEFAULT,,0,0,0,,{\kf23}As{\kf169} I{\kf16} take{\kf34}~{\kf53} to{\kf19} the{\kf16} skies{\kf263}~
-Dialogue: 0,0:01:52.64,0:01:59.43,DEFAULT,,0,0,0,,{\kf16}And{\kf147} I{\kf12} shout{\kf23}~{\kf46} my{\kf19} de{\kf16}cry{\kf252}~
-Dialogue: 0,0:02:00.18,0:02:05.65,DEFAULT,,0,0,0,,{\kf16}Look{\kf151} up{\kf16} now{\kf46}~{\kf53} say{\kf19} good{\kf16}bye{\kf124}~
-Dialogue: 0,0:02:05.77,0:02:08.58,DEFAULT,,0,0,0,,{\kf16}You{\kf27} won't{\kf23} see{\kf12} it{\kf23} rise{\kf4} to{\kf19}mor{\kf34}row
-Dialogue: 0,0:02:43.02,0:02:45.95,DEFAULT,,0,0,0,,{\kf27}Hey{\kf19} there{\kf8} big{\kf16} sis{\kf147}ter
-Dialogue: 0,0:02:47.08,0:02:49.78,DEFAULT,,0,0,0,,{\kf27}Why{\kf19} the{\kf16} long{\kf53} face?{\kf121}~
-Dialogue: 0,0:02:51.05,0:02:54.20,DEFAULT,,0,0,0,,{\kf27}Are{\kf27} you{\kf12} just{\kf38} jeal{\kf158}ous
-Dialogue: 0,0:02:55.14,0:02:58.56,DEFAULT,,0,0,0,,{\kf27}Jeal{\kf12}ous{\kf12} that{\kf49} they{\kf38} a{\kf38}dore{\kf91} me?
-Dialogue: 0,0:02:59.34,0:03:02.50,DEFAULT,,0,0,0,,{\kf16}No{\kf19} point{\kf8} in{\kf49} fight{\kf166}ing
-Dialogue: 0,0:03:03.32,0:03:06.55,DEFAULT,,0,0,0,,{\kf23}I'm{\kf16} in{\kf4} con{\kf34}trol{\kf188} now
-Dialogue: 0,0:03:07.07,0:03:10.71,DEFAULT,,0,0,0,,{\kf8}Cel{\kf12}es{\kf23}ti{\kf19}a{\kf49} dar{\kf169}ling
-Dialogue: 0,0:03:11.46,0:03:13.86,DEFAULT,,0,0,0,,{\kf12}This{\kf16} is{\kf19} my{\kf42} new{\kf12} re{\kf12}pub{\kf27}lic
-Dialogue: 0,0:03:15.63,0:03:22.27,DEFAULT,,0,0,0,,{\kf12}And{\kf169} I{\kf16} feel{\kf49}~{\kf61} so{\kf16} a{\kf16}live{\kf241}~
-Dialogue: 0,0:03:23.09,0:03:30.00,DEFAULT,,0,0,0,,{\kf23}As{\kf169} I{\kf16} take{\kf34}~{\kf53} to{\kf19} the{\kf16} skies{\kf263}~
-Dialogue: 0,0:03:30.60,0:03:37.39,DEFAULT,,0,0,0,,{\kf16}And{\kf147} I{\kf12} shout{\kf23}~{\kf46} my{\kf19} de{\kf16}cry{\kf252}~
-Dialogue: 0,0:03:38.14,0:03:43.62,DEFAULT,,0,0,0,,{\kf16}Look{\kf151} up{\kf16} now{\kf46}~{\kf53} say{\kf19} good{\kf16}bye{\kf124}~
-Dialogue: 0,0:03:43.77,0:03:46.54,DEFAULT,,0,0,0,,{\kf16}You{\kf27} won't{\kf23} see{\kf12} it{\kf23} rise{\kf4} to{\kf19}mor{\kf34}row
-Dialogue: 0,0:03:56.30,0:04:01.14,DEFAULT,,0,0,0,,{\kf16}The{\kf181} price{\kf8} of{\kf19} free{\kf173}dom
-Dialogue: 0,0:04:01.96,0:04:08.53,DEFAULT,,0,0,0,,{\kf12}To{\kf16}night{\kf12} we{\kf34} end{\kf12} the{\kf19} tyr{\kf8}an{\kf12}ny{\kf19} of{\kf19} our{\kf46} so{\kf31}lar{\kf192} queen
-Dialogue: 0,0:05:02.11,0:05:06.08,DEFAULT,,0,0,0,,{\kf12}Low{\kf12}er{\kf8} the{\kf57} moon{\kf8} they{\kf38} cry{\kf8} as{\kf8} they{\kf19} fall{\kf12} from{\kf8} the{\kf68} skies
-Dialogue: 0,0:05:06.76,0:05:09.46,DEFAULT,,0,0,0,,{\kf27}Fear{\kf12} on{\kf8} their{\kf12} treach{\kf4}er{\kf12}ous{\kf16} sun{\kf12}lov{\kf4}ing{\kf19} fac{\kf16}es
-Dialogue: 0,0:05:10.51,0:05:16.47,DEFAULT,,0,0,0,,{\kf8}A{\kf23} small{\kf16} price{\kf4} to{\kf42} pay{\kf8} for{\kf12} they{\kf46} all{\kf19} now{\kf42} bow{\kf23} to{\kf154} me
-Dialogue: 0,0:06:01.95,0:06:06.45,DEFAULT,,0,0,0,,{\kf19}Come{\kf23} at{\kf19} me{\kf12} if{\kf23} you{\kf42} dare{\kf19} strike{\kf19} down{\kf19} the{\kf23} ones{\kf19} you{\kf49} love
-Dialogue: 0,0:06:06.97,0:06:11.51,DEFAULT,,0,0,0,,{\kf12}But{\kf19} you{\kf19} won't{\kf23} ev{\kf19}er{\kf23} douse{\kf8} the{\kf23} fire{\kf12} that{\kf23} burns{\kf8} in{\kf23}side{\kf12} of{\kf57} me
-Dialogue: 0,0:06:11.96,0:06:16.17,DEFAULT,,0,0,0,,{\kf23}Tor{\kf23}ture{\kf19} me{\kf31} all{\kf19} you{\kf31} want{\kf12} lock{\kf23} me{\kf16} up{\kf23} in{\kf16} a{\kf16} cell
-Dialogue: 0,0:06:16.32,0:06:26.60,DEFAULT,,0,0,0,,{\kf12}You{\kf19} bul{\kf23}ly{\kf19} me{\kf19} with{\kf16} your{\kf12} friends{\kf16} but{\kf23} nev{\kf19}er{\kf19} will{\kf19} I{\kf27} low{\kf16}er{\kf16} the{\kf530} moon
-Dialogue: 0,0:06:41.27,0:06:47.95,DEFAULT,,0,0,0,,{\kf12}And{\kf169} I{\kf64} feel{\kf61} so{\kf16} a{\kf256}live
-Dialogue: 0,0:06:48.73,0:06:55.60,DEFAULT,,0,0,0,,{\kf23}As{\kf169} I{\kf46} take{\kf53} to{\kf19} the{\kf274} skies
-Dialogue: 0,0:06:57.21,0:07:02.80,DEFAULT,,0,0,0,,{\kf19}The{\kf16} moon{\kf46}~{\kf42} takes{\kf53} me{\kf12} in{\kf42} her{\kf8} cold{\kf38}~{\kf8} em{\kf57}brace
-Dialogue: 0,0:07:05.13,0:07:08.81,DEFAULT,,0,0,0,,{\kf34}No{\kf16} re{\kf19}grets{\kf16} for{\kf12} what{\kf38} I've{\kf91} done
-Dialogue: 0,0:07:25.05,0:07:31.43,DEFAULT,,0,0,0,,{\kf16}The{\kf23} night{\kf27} shall{\kf23} last{\kf19} for{\kf23}ev{\kf319}er
+Dialogue: 0,0:00:57.00,0:00:59.85,DEFAULT,,0,0,0,,{\r}{\kf26}Hey{\kf26} there{\kf11} big{\kf21} sis{\kf201}ter
+Dialogue: 0,0:01:01.01,0:01:03.87,DEFAULT,,0,0,0,,{\r}{\kf26}I've{\kf37} got{\kf16} a{\kf21} ques{\kf185}tion
+Dialogue: 0,0:01:05.03,0:01:07.99,DEFAULT,,0,0,0,,{\r}{\kf36}Why{\kf22} do{\kf27} they{\kf45} love{\kf166} you
+Dialogue: 0,0:01:09.08,0:01:12.46,DEFAULT,,0,0,0,,{\r}{\kf38}Why{\kf28} do{\kf14} they{\kf47} scorn{\kf61} my{\kf38} beau{\kf112}ty
+Dialogue: 0,0:01:21.35,0:01:24.54,DEFAULT,,0,0,0,,{\r}{\kf34}Moon's{\kf15} in{\kf10} the{\kf39} sky{\kf221} now
+Dialogue: 0,0:01:25.33,0:01:28.44,DEFAULT,,0,0,0,,{\r}{\kf16}Not{\kf31} long{\kf16} 'till{\kf31} sun{\kf217}rise
+Dialogue: 0,0:01:29.45,0:01:32.46,DEFAULT,,0,0,0,,{\r}{\kf24}You{\kf34} say{\kf10} to{\kf39} drop{\kf193} it
+Dialogue: 0,0:01:33.47,0:01:36.84,DEFAULT,,0,0,0,,{\r}{\kf32}I{\kf21} don't{\kf26} see{\kf53} why{\kf63} I{\kf21} have{\kf122} to
+Dialogue: 0,0:01:37.63,0:01:44.31,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf196} I{\kf17} feel{\kf57}~{\kf70} so{\kf17} a{\kf17}live{\kf281}~
+Dialogue: 0,0:01:45.14,0:01:52.04,DEFAULT,,0,0,0,,{\r}{\kf26}As{\kf198} I{\kf18} take{\kf40}~{\kf62} to{\kf22} the{\kf18} skies{\kf306}~
+Dialogue: 0,0:01:52.64,0:01:59.43,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf189} I{\kf15} shout{\kf29}~{\kf58} my{\kf24} de{\kf19}cry{\kf326}~
+Dialogue: 0,0:02:00.18,0:02:05.66,DEFAULT,,0,0,0,,{\r}{\kf19}Look{\kf189} up{\kf19} now{\kf57}~{\kf66} say{\kf24} good{\kf19}bye{\kf155}~
+Dialogue: 0,0:02:05.77,0:02:08.59,DEFAULT,,0,0,0,,{\r}{\kf27}You{\kf48} won't{\kf41} see{\kf21} it{\kf41} rise{\kf10} to{\kf34}mor{\kf59}row
+Dialogue: 0,0:02:43.03,0:02:45.95,DEFAULT,,0,0,0,,{\r}{\kf36}Hey{\kf26} there{\kf10} big{\kf21} sis{\kf200}ter
+Dialogue: 0,0:02:47.08,0:02:49.78,DEFAULT,,0,0,0,,{\r}{\kf30}Why{\kf22} the{\kf17} long{\kf61} face?{\kf140}~
+Dialogue: 0,0:02:51.06,0:02:54.21,DEFAULT,,0,0,0,,{\r}{\kf32}Are{\kf32} you{\kf14} just{\kf46} jeal{\kf191}ous
+Dialogue: 0,0:02:55.15,0:02:58.56,DEFAULT,,0,0,0,,{\r}{\kf34}Jeal{\kf15}ous{\kf15} that{\kf63} they{\kf49} a{\kf49}dore{\kf116} me?
+Dialogue: 0,0:02:59.35,0:03:02.50,DEFAULT,,0,0,0,,{\r}{\kf19}No{\kf23} point{\kf10} in{\kf60} fight{\kf203}ing
+Dialogue: 0,0:03:03.33,0:03:06.55,DEFAULT,,0,0,0,,{\r}{\kf28}I'm{\kf18} in{\kf10} con{\kf42}trol{\kf225} now
+Dialogue: 0,0:03:07.08,0:03:10.72,DEFAULT,,0,0,0,,{\r}{\kf10}Cel{\kf15}es{\kf30}ti{\kf25}a{\kf64} dar{\kf220}ling
+Dialogue: 0,0:03:11.47,0:03:13.87,DEFAULT,,0,0,0,,{\r}{\kf20}This{\kf27} is{\kf33} my{\kf73} new{\kf20} re{\kf20}pub{\kf47}lic
+Dialogue: 0,0:03:15.63,0:03:22.27,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf195} I{\kf17} feel{\kf56}~{\kf69} so{\kf17} a{\kf17}live{\kf280}~
+Dialogue: 0,0:03:23.10,0:03:30.00,DEFAULT,,0,0,0,,{\r}{\kf26}As{\kf198} I{\kf18} take{\kf40}~{\kf62} to{\kf22} the{\kf18} skies{\kf306}~
+Dialogue: 0,0:03:30.60,0:03:37.39,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf189} I{\kf15} shout{\kf29}~{\kf58} my{\kf24} de{\kf19}cry{\kf326}~
+Dialogue: 0,0:03:38.14,0:03:43.62,DEFAULT,,0,0,0,,{\r}{\kf19}Look{\kf189} up{\kf19} now{\kf57}~{\kf66} say{\kf24} good{\kf19}bye{\kf155}~
+Dialogue: 0,0:03:43.77,0:03:46.55,DEFAULT,,0,0,0,,{\r}{\kf27}You{\kf47} won't{\kf41} see{\kf20} it{\kf41} rise{\kf10} to{\kf34}mor{\kf58}row
+Dialogue: 0,0:03:56.30,0:04:01.14,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf221} price{\kf10} of{\kf23} free{\kf212}dom
+Dialogue: 0,0:04:01.97,0:04:08.53,DEFAULT,,0,0,0,,{\r}{\kf17}To{\kf23}night{\kf17} we{\kf52} end{\kf17} the{\kf29} tyr{\kf12}an{\kf17}ny{\kf29} of{\kf29} our{\kf70} so{\kf47}lar{\kf298} queen
+Dialogue: 0,0:05:02.11,0:05:06.09,DEFAULT,,0,0,0,,{\r}{\kf18}Low{\kf18}er{\kf12} the{\kf89} moon{\kf12} they{\kf59} cry{\kf12} as{\kf12} they{\kf30} fall{\kf18} from{\kf12} the{\kf106} skies
+Dialogue: 0,0:05:06.76,0:05:09.46,DEFAULT,,0,0,0,,{\r}{\kf53}Fear{\kf23} on{\kf15} their{\kf23} treach{\kf10}er{\kf23}ous{\kf30} sun{\kf23}lov{\kf10}ing{\kf38} fac{\kf22}es
+Dialogue: 0,0:05:10.51,0:05:16.48,DEFAULT,,0,0,0,,{\r}{\kf11}A{\kf34} small{\kf23} price{\kf10} to{\kf63} pay{\kf11} for{\kf17} they{\kf69} all{\kf29} now{\kf63} bow{\kf34} to{\kf233} me
+Dialogue: 0,0:06:01.95,0:06:06.45,DEFAULT,,0,0,0,,{\r}{\kf30}Come{\kf36} at{\kf30} me{\kf18} if{\kf36} you{\kf66} dare{\kf30} strike{\kf30} down{\kf30} the{\kf36} ones{\kf30} you{\kf78} love
+Dialogue: 0,0:06:06.98,0:06:11.52,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf31} you{\kf31} won't{\kf37} ev{\kf31}er{\kf37} douse{\kf12} the{\kf37} fire{\kf19} that{\kf37} burns{\kf12} in{\kf37}side{\kf19} of{\kf95} me
+Dialogue: 0,0:06:11.97,0:06:16.17,DEFAULT,,0,0,0,,{\r}{\kf39}Tor{\kf39}ture{\kf32} me{\kf52} all{\kf32} you{\kf52} want{\kf19} lock{\kf39} me{\kf26} up{\kf39} in{\kf26} a{\kf25} cell
+Dialogue: 0,0:06:16.32,0:06:26.60,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf24} bul{\kf29}ly{\kf24} me{\kf24} with{\kf19} your{\kf15} friends{\kf19} but{\kf29} nev{\kf24}er{\kf24} will{\kf24} I{\kf34} low{\kf19}er{\kf19} the{\kf686} moon
+Dialogue: 0,0:06:41.27,0:06:47.95,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf196} I{\kf74} feel{\kf70} so{\kf17} a{\kf298}live
+Dialogue: 0,0:06:48.74,0:06:55.60,DEFAULT,,0,0,0,,{\r}{\kf27}As{\kf199} I{\kf53} take{\kf62} to{\kf22} the{\kf324} skies
+Dialogue: 0,0:06:57.22,0:07:02.81,DEFAULT,,0,0,0,,{\r}{\kf31}The{\kf25} moon{\kf75}~{\kf69} takes{\kf88} me{\kf19} in{\kf69} her{\kf13} cold{\kf63}~{\kf13} em{\kf94}brace
+Dialogue: 0,0:07:05.13,0:07:08.81,DEFAULT,,0,0,0,,{\r}{\kf56}No{\kf25} re{\kf31}grets{\kf25} for{\kf19} what{\kf62} I've{\kf150} done
+Dialogue: 0,0:07:25.06,0:07:31.43,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf32} night{\kf38} shall{\kf32} last{\kf27} for{\kf32}ev{\kf456}er

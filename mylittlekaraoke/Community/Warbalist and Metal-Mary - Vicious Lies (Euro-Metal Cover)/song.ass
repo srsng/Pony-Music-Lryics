@@ -1,52 +1,59 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Vicious Lies (Euro-Metal Cover)
+Artist: Warbalist and Metal-Mary
+Original Timing: mylittlekaraoke.com by Linos Melendi, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:44.01,0:00:47.92,DEFAULT,,0,0,0,,{\kf25}You've{\kf25}~{\kf29} got{\kf45} no{\kf45} al{\kf13}i{\kf25}bi{\kf103}~
-Dialogue: 0,0:00:48.33,0:00:52.41,DEFAULT,,0,0,0,,{\kf13}'Cause{\kf9} ev{\kf17}~{\kf21}ery{\kf29}thing{\kf21}~{\kf17} you{\kf9} say{\kf45}~{\kf17} is{\kf17} a{\kf123} lie
-Dialogue: 0,0:00:52.90,0:00:56.62,DEFAULT,,0,0,0,,{\kf9}You're{\kf9} gun{\kf37}~{\kf29}ning{\kf21}~{\kf29} for{\kf17} half{\kf9} past{\kf17}~{\kf9} twelve{\kf54}~
-Dialogue: 0,0:00:57.47,0:01:01.56,DEFAULT,,0,0,0,,{\kf13}It's{\kf9} dee{\kf17}~{\kf21}per{\kf21} in{\kf21}to{\kf17} your{\kf9} mind{\kf25}~{\kf41}~{\kf21} we{\kf123} delve
-Dialogue: 0,0:01:02.05,0:01:05.96,DEFAULT,,0,0,0,,{\kf17}The{\kf13} ol{\kf13}~{\kf13}der{\kf17} sis{\kf13}ter{\kf29} of{\kf17}~{\kf41} one{\kf37} makes{\kf17} two{\kf62}~
-Dialogue: 0,0:01:06.82,0:01:10.70,DEFAULT,,0,0,0,,{\kf9}But{\kf17}~{\kf21} you{\kf25} say{\kf21} she's{\kf17} com{\kf17}ing{\kf45} af{\kf13}ter{\kf123} you
-Dialogue: 0,0:01:11.19,0:01:15.39,DEFAULT,,0,0,0,,{\kf9}A{\kf9} lit{\kf13}~{\kf17}tle{\kf29} lie{\kf21}~{\kf17} lets{\kf13} the{\kf13} stor{\kf13}y{\kf9} un{\kf41}~{\kf9}fold{\kf103}~
-Dialogue: 0,0:01:15.76,0:01:20.05,DEFAULT,,0,0,0,,{\kf13}That{\kf9} lit{\kf17}~{\kf21}tle{\kf29} lie{\kf21}~{\kf13} keeps{\kf13} the{\kf9} stor{\kf25}~{\kf25}y{\kf13} told{\kf13}~{\kf119}~
-Dialogue: 0,0:01:38.62,0:01:42.33,DEFAULT,,0,0,0,,{\kf9}A{\kf25} tall{\kf25}~{\kf37} tale{\kf13} of{\kf13} am{\kf17}bi{\kf13}tion{\kf21} and{\kf21} power{\kf37}~
-Dialogue: 0,0:01:43.39,0:01:47.27,DEFAULT,,0,0,0,,{\kf9}Lun{\kf17}~{\kf21}a's{\kf25} ruse{\kf21} is{\kf17} the{\kf9} one{\kf45}~{\kf17} of{\kf17} the{\kf123} hour
-Dialogue: 0,0:01:47.76,0:01:51.39,DEFAULT,,0,0,0,,{\kf9}Your{\kf9} sis{\kf13}~{\kf13}ter's{\kf25} mind{\kf21}~{\kf17} has{\kf17} been{\kf17} bought{\kf9} and{\kf17}~{\kf9} sold{\kf45}~
-Dialogue: 0,0:01:52.29,0:01:56.45,DEFAULT,,0,0,0,,{\kf13}Now{\kf9} ev{\kf17}~{\kf21}ery{\kf21}po{\kf21}ny{\kf17} thinks{\kf9} you're{\kf9} made{\kf29}~{\kf17} of{\kf21} gold{\kf107}~
-Dialogue: 0,0:01:56.90,0:02:00.82,DEFAULT,,0,0,0,,{\kf17}But{\kf13} what{\kf13}~{\kf13} they{\kf17} don't{\kf13} know{\kf21} sure{\kf17}ly{\kf41} can't{\kf37} do{\kf17} harm{\kf62}~
-Dialogue: 0,0:02:01.47,0:02:05.56,DEFAULT,,0,0,0,,{\kf9}It's{\kf9} bet{\kf17}~{\kf21}ter{\kf25} sound{\kf21}ing{\kf17} Night{\kf17}mare{\kf45} Moon's{\kf13} a{\kf123}larm
-Dialogue: 0,0:02:06.05,0:02:10.01,DEFAULT,,0,0,0,,{\kf9}A{\kf9} lit{\kf13}~{\kf17}tle{\kf29} lie{\kf21}~{\kf21} sends{\kf17} her{\kf21} to{\kf13} the{\kf9} moon{\kf13}~{\kf13}~{\kf49}~
-Dialogue: 0,0:02:10.62,0:02:14.29,DEFAULT,,0,0,0,,{\kf13}A{\kf17} lit{\kf21}tle{\kf29} lie{\kf21}~{\kf17} gets{\kf13} dis{\kf9}co{\kf21}~{\kf25}vered{\kf25} soon{\kf58}~
-Dialogue: 0,0:02:15.76,0:02:23.84,DEFAULT,,0,0,0,,{\kf13}A{\kf41} lit{\kf13}tle{\kf41} stor{\kf135}y{\kf9} and{\kf13} you've{\kf33}~{\kf25} got{\kf13}~{\kf45} all{\kf9} the{\kf237} power
-Dialogue: 0,0:02:25.19,0:02:32.90,DEFAULT,,0,0,0,,{\kf45}Gone{\kf9} a{\kf66} thou{\kf9}sand{\kf13} years{\kf21}~{\kf111}~{\kf17} with{\kf9} the{\kf17} tale{\kf13} of{\kf13} the{\kf229} hour
-Dialogue: 0,0:02:34.90,0:02:39.76,DEFAULT,,0,0,0,,{\kf33}You're{\kf13} tel{\kf33}~{\kf29}ling{\kf45} vi{\kf9}cious{\kf229} lies
-Dialogue: 0,0:02:44.05,0:02:50.21,DEFAULT,,0,0,0,,{\kf33}Your{\kf49} pow{\kf29}er{\kf41} knows{\kf29} no{\kf9} com{\kf37}~{\kf9}pro{\kf245}mise
-Dialogue: 0,0:02:53.19,0:02:58.05,DEFAULT,,0,0,0,,{\kf33}You're{\kf13} tel{\kf33}~{\kf29}ling{\kf41} vi{\kf9}cious{\kf229} lies
-Dialogue: 0,0:03:02.33,0:03:08.49,DEFAULT,,0,0,0,,{\kf33}To{\kf49} be{\kf29} the{\kf41} sa{\kf29}vior{\kf9} in{\kf37}~{\kf9} their{\kf245} eyes
-Dialogue: 0,0:03:10.25,0:03:13.96,DEFAULT,,0,0,0,,{\kf17}Night{\kf25}mare{\kf17} Night{\kf13} de{\kf17}scends{\kf17} up{\kf41}on{\kf17} the{\kf21} world{\kf107}~
-Dialogue: 0,0:03:14.62,0:03:18.70,DEFAULT,,0,0,0,,{\kf13}Your{\kf9} web{\kf17}~{\kf17} of{\kf29} lies{\kf25}~{\kf17} and{\kf17} de{\kf25}ceit{\kf41} un{\kf127}furl
-Dialogue: 0,0:03:19.19,0:03:22.74,DEFAULT,,0,0,0,,{\kf9}With{\kf9} ev{\kf9}~{\kf13}ery{\kf13}po{\kf13}ny{\kf17} look{\kf17}ing{\kf33} to{\kf17} the{\kf13} sky{\kf58}~
-Dialogue: 0,0:03:23.96,0:03:27.84,DEFAULT,,0,0,0,,{\kf9}Ne{\kf17}~{\kf17}ver{\kf21} know{\kf21}ing{\kf17} that{\kf21} it's{\kf17} all{\kf21} a{\kf123} lie
-Dialogue: 0,0:03:28.62,0:03:32.21,DEFAULT,,0,0,0,,{\kf9}Send{\kf13}~{\kf13} the{\kf17} el{\kf17}e{\kf21}ments{\kf17} to{\kf45} beat{\kf37} her{\kf17} down{\kf58}~
-Dialogue: 0,0:03:33.11,0:03:36.98,DEFAULT,,0,0,0,,{\kf9}Ne{\kf17}~{\kf21}ver{\kf21}mind{\kf17} you're{\kf17} no{\kf17}where{\kf45} to{\kf17} be{\kf123} found
-Dialogue: 0,0:03:37.47,0:03:41.19,DEFAULT,,0,0,0,,{\kf9}A{\kf9}no{\kf13}~{\kf17}ther{\kf29} lie{\kf21}~{\kf17} on{\kf13}ly{\kf25} seals{\kf9} their{\kf17}~{\kf17} fate{\kf78}~
-Dialogue: 0,0:03:42.25,0:03:46.21,DEFAULT,,0,0,0,,{\kf9}For{\kf17}~{\kf17} all{\kf21} time{\kf21} it's{\kf17} Night{\kf13}mare{\kf9} Moon{\kf25}~{\kf21} they{\kf17} hate{\kf123}~
-Dialogue: 0,0:04:14.62,0:04:22.70,DEFAULT,,0,0,0,,{\kf13}A{\kf41} lit{\kf13}tle{\kf45} stor{\kf135}y{\kf9} and{\kf9} you've{\kf33}~{\kf25} got{\kf17}~{\kf41} all{\kf9} the{\kf237} power
-Dialogue: 0,0:04:24.05,0:04:27.47,DEFAULT,,0,0,0,,{\kf45}Gone{\kf9} a{\kf66} thou{\kf9}sand{\kf13} years{\kf21}~{\kf111}~
-Dialogue: 0,0:04:28.01,0:04:33.52,DEFAULT,,0,0,0,,{\kf17}with{\kf9} the{\kf17} tale{\kf13} of{\kf17} the{\kf29} hour{\kf29}~{\kf29}~{\kf29}~{\kf29}~{\kf25}~{\kf29}~{\kf66}~{\kf143}~
-Dialogue: 0,0:04:33.76,0:04:38.62,DEFAULT,,0,0,0,,{\kf33}You're{\kf13} tel{\kf33}~{\kf29}ling{\kf41} vi{\kf9}cious{\kf229} lies
-Dialogue: 0,0:04:42.90,0:04:48.74,DEFAULT,,0,0,0,,{\kf33}Your{\kf49} pow{\kf29}er{\kf41} knows{\kf29} no{\kf9} com{\kf37}~{\kf9}pro{\kf213}mise
-Dialogue: 0,0:04:52.05,0:04:56.90,DEFAULT,,0,0,0,,{\kf33}You're{\kf13} tel{\kf33}~{\kf29}ling{\kf41} vi{\kf9}cious{\kf229} lies
-Dialogue: 0,0:05:01.19,0:05:07.11,DEFAULT,,0,0,0,,{\kf33}To{\kf49} be{\kf29} the{\kf41} sa{\kf29}vior{\kf9} in{\kf37}~{\kf9} their{\kf221} eyes
-Dialogue: 0,0:05:10.33,0:05:15.19,DEFAULT,,0,0,0,,{\kf33}You're{\kf13} tel{\kf33}~{\kf29}ling{\kf45} vi{\kf9}cious{\kf229} lies
-Dialogue: 0,0:05:19.47,0:05:25.35,DEFAULT,,0,0,0,,{\kf33}Your{\kf25} pow{\kf33}er{\kf41} knows{\kf33} no{\kf9} com{\kf37}~{\kf9}pro{\kf217}mise
-Dialogue: 0,0:05:28.62,0:05:34.78,DEFAULT,,0,0,0,,{\kf33}You're{\kf13} tel{\kf33}~{\kf29}ling{\kf41} vi{\kf9}cious{\kf172} lies{\kf29}~{\kf160}~
-Dialogue: 0,0:05:37.76,0:05:45.11,DEFAULT,,0,0,0,,{\kf33}To{\kf49} be{\kf33} the{\kf41} sa{\kf29}vior{\kf9} in{\kf66}~{\kf74} their{\kf282} eyes
+Dialogue: 0,0:00:44.01,0:00:47.93,DEFAULT,,0,0,0,,{\r}{\kf31}You've{\kf31}~{\kf37} got{\kf57} no{\kf57} al{\kf16}i{\kf31}bi{\kf132}~
+Dialogue: 0,0:00:48.34,0:00:52.42,DEFAULT,,0,0,0,,{\r}{\kf15}'Cause{\kf10} ev{\kf20}~{\kf25}ery{\kf35}thing{\kf25}~{\kf20} you{\kf10} say{\kf55}~{\kf20} is{\kf20} a{\kf153} lie
+Dialogue: 0,0:00:52.91,0:00:56.62,DEFAULT,,0,0,0,,{\r}{\kf13}You're{\kf13} gun{\kf59}~{\kf46}ning{\kf33}~{\kf46} for{\kf26} half{\kf13} past{\kf26}~{\kf13} twelve{\kf83}~
+Dialogue: 0,0:00:57.48,0:01:01.56,DEFAULT,,0,0,0,,{\r}{\kf15}It's{\kf10} dee{\kf20}~{\kf25}per{\kf25} in{\kf25}to{\kf20} your{\kf10} mind{\kf30}~{\kf50}~{\kf25} we{\kf153} delve
+Dialogue: 0,0:01:02.05,0:01:05.97,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf17} ol{\kf17}~{\kf17}der{\kf23} sis{\kf17}ter{\kf40} of{\kf23}~{\kf57} one{\kf51} makes{\kf23} two{\kf84}~
+Dialogue: 0,0:01:06.83,0:01:10.70,DEFAULT,,0,0,0,,{\r}{\kf10}But{\kf21}~{\kf26} you{\kf31} say{\kf26} she's{\kf21} com{\kf21}ing{\kf58} af{\kf16}ter{\kf158} you
+Dialogue: 0,0:01:11.19,0:01:15.40,DEFAULT,,0,0,0,,{\r}{\kf11}A{\kf11} lit{\kf17}~{\kf22}tle{\kf39} lie{\kf28}~{\kf22} lets{\kf17} the{\kf17} stor{\kf17}y{\kf11} un{\kf56}~{\kf11}fold{\kf141}~
+Dialogue: 0,0:01:15.77,0:01:20.05,DEFAULT,,0,0,0,,{\r}{\kf16}That{\kf11} lit{\kf21}~{\kf26}tle{\kf37} lie{\kf26}~{\kf16} keeps{\kf16} the{\kf11} stor{\kf32}~{\kf32}y{\kf16} told{\kf16}~{\kf153}~
+Dialogue: 0,0:01:38.62,0:01:42.34,DEFAULT,,0,0,0,,{\r}{\kf13}A{\kf40} tall{\kf40}~{\kf61} tale{\kf20} of{\kf20} am{\kf27}bi{\kf20}tion{\kf34} and{\kf34} power{\kf62}~
+Dialogue: 0,0:01:43.40,0:01:47.28,DEFAULT,,0,0,0,,{\r}{\kf10}Lun{\kf20}~{\kf25}a's{\kf30} ruse{\kf25} is{\kf20} the{\kf10} one{\kf55}~{\kf20} of{\kf20} the{\kf153} hour
+Dialogue: 0,0:01:47.77,0:01:51.40,DEFAULT,,0,0,0,,{\r}{\kf14}Your{\kf14} sis{\kf21}~{\kf21}ter's{\kf42} mind{\kf35}~{\kf28} has{\kf28} been{\kf28} bought{\kf14} and{\kf28}~{\kf14} sold{\kf76}~
+Dialogue: 0,0:01:52.30,0:01:56.46,DEFAULT,,0,0,0,,{\r}{\kf17}Now{\kf11} ev{\kf22}~{\kf28}ery{\kf28}po{\kf28}ny{\kf22} thinks{\kf11} you're{\kf11} made{\kf39}~{\kf22} of{\kf28} gold{\kf149}~
+Dialogue: 0,0:01:56.91,0:02:00.83,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf18} what{\kf18}~{\kf18} they{\kf23} don't{\kf18} know{\kf29} sure{\kf23}ly{\kf59} can't{\kf53} do{\kf23} harm{\kf87}~
+Dialogue: 0,0:02:01.48,0:02:05.56,DEFAULT,,0,0,0,,{\r}{\kf11}It's{\kf11} bet{\kf21}~{\kf27}ter{\kf32} sound{\kf27}ing{\kf21} Night{\kf21}mare{\kf59} Moon's{\kf16} a{\kf162}larm
+Dialogue: 0,0:02:06.05,0:02:10.01,DEFAULT,,0,0,0,,{\r}{\kf13}A{\kf13} lit{\kf20}~{\kf26}tle{\kf46} lie{\kf33}~{\kf33} sends{\kf26} her{\kf33} to{\kf20} the{\kf13} moon{\kf20}~{\kf20}~{\kf80}~
+Dialogue: 0,0:02:10.62,0:02:14.30,DEFAULT,,0,0,0,,{\r}{\kf17}A{\kf23} lit{\kf29}tle{\kf40} lie{\kf29}~{\kf23} gets{\kf17} dis{\kf11}co{\kf29}~{\kf34}vered{\kf34} soon{\kf81}~
+Dialogue: 0,0:02:15.77,0:02:23.85,DEFAULT,,0,0,0,,{\r}{\kf16}A{\kf53} lit{\kf16}tle{\kf53} stor{\kf175}y{\kf11} and{\kf16} you've{\kf43}~{\kf32} got{\kf16}~{\kf58} all{\kf11} the{\kf308} power
+Dialogue: 0,0:02:25.19,0:02:32.91,DEFAULT,,0,0,0,,{\r}{\kf61}Gone{\kf11} a{\kf89} thou{\kf11}sand{\kf17} years{\kf28}~{\kf151}~{\kf22} with{\kf11} the{\kf22} tale{\kf17} of{\kf17} the{\kf314} hour
+Dialogue: 0,0:02:34.91,0:02:39.77,DEFAULT,,0,0,0,,{\r}{\kf41}You're{\kf15} tel{\kf41}~{\kf36}ling{\kf56} vi{\kf10}cious{\kf287} lies
+Dialogue: 0,0:02:44.05,0:02:50.21,DEFAULT,,0,0,0,,{\r}{\kf42}Your{\kf63} pow{\kf37}er{\kf53} knows{\kf37} no{\kf11} com{\kf47}~{\kf11}pro{\kf315}mise
+Dialogue: 0,0:02:53.19,0:02:58.05,DEFAULT,,0,0,0,,{\r}{\kf41}You're{\kf16} tel{\kf41}~{\kf36}ling{\kf52} vi{\kf10}cious{\kf290} lies
+Dialogue: 0,0:03:02.34,0:03:08.50,DEFAULT,,0,0,0,,{\r}{\kf42}To{\kf63} be{\kf37} the{\kf53} sa{\kf37}vior{\kf11} in{\kf47}~{\kf11} their{\kf315} eyes
+Dialogue: 0,0:03:10.25,0:03:13.97,DEFAULT,,0,0,0,,{\r}{\kf21}Night{\kf32}mare{\kf21} Night{\kf16} de{\kf21}scends{\kf21} up{\kf53}on{\kf21} the{\kf26} world{\kf139}~
+Dialogue: 0,0:03:14.62,0:03:18.70,DEFAULT,,0,0,0,,{\r}{\kf15}Your{\kf10} web{\kf20}~{\kf20} of{\kf35} lies{\kf30}~{\kf20} and{\kf20} de{\kf30}ceit{\kf50} un{\kf158}furl
+Dialogue: 0,0:03:19.19,0:03:22.74,DEFAULT,,0,0,0,,{\r}{\kf14}With{\kf14} ev{\kf14}~{\kf20}ery{\kf20}po{\kf20}ny{\kf27} look{\kf27}ing{\kf55} to{\kf27} the{\kf20} sky{\kf97}~
+Dialogue: 0,0:03:23.97,0:03:27.85,DEFAULT,,0,0,0,,{\r}{\kf11}Ne{\kf23}~{\kf23}ver{\kf29} know{\kf29}ing{\kf23} that{\kf29} it's{\kf23} all{\kf29} a{\kf169} lie
+Dialogue: 0,0:03:28.62,0:03:32.21,DEFAULT,,0,0,0,,{\r}{\kf11}Send{\kf17}~{\kf17} the{\kf23} el{\kf23}e{\kf28}ments{\kf23} to{\kf63} beat{\kf51} her{\kf23} down{\kf80}~
+Dialogue: 0,0:03:33.11,0:03:36.99,DEFAULT,,0,0,0,,{\r}{\kf11}Ne{\kf21}~{\kf27}ver{\kf27}mind{\kf21} you're{\kf21} no{\kf21}where{\kf58} to{\kf21} be{\kf160} found
+Dialogue: 0,0:03:37.48,0:03:41.19,DEFAULT,,0,0,0,,{\r}{\kf11}A{\kf11}no{\kf17}~{\kf23}ther{\kf40} lie{\kf29}~{\kf23} on{\kf17}ly{\kf34} seals{\kf11} their{\kf23}~{\kf23} fate{\kf109}~
+Dialogue: 0,0:03:42.25,0:03:46.21,DEFAULT,,0,0,0,,{\r}{\kf11}For{\kf21}~{\kf21} all{\kf27} time{\kf27} it's{\kf21} Night{\kf16}mare{\kf11} Moon{\kf32}~{\kf27} they{\kf21} hate{\kf161}~
+Dialogue: 0,0:04:14.62,0:04:22.70,DEFAULT,,0,0,0,,{\r}{\kf16}A{\kf53} lit{\kf16}tle{\kf58} stor{\kf175}y{\kf11} and{\kf11} you've{\kf43}~{\kf32} got{\kf21}~{\kf53} all{\kf11} the{\kf308} power
+Dialogue: 0,0:04:24.05,0:04:27.48,DEFAULT,,0,0,0,,{\r}{\kf57}Gone{\kf10} a{\kf83} thou{\kf10}sand{\kf16} years{\kf26}~{\kf141}~
+Dialogue: 0,0:04:28.01,0:04:33.52,DEFAULT,,0,0,0,,{\r}{\kf19}with{\kf10} the{\kf19} tale{\kf14} of{\kf19} the{\kf33} hour{\kf33}~{\kf33}~{\kf33}~{\kf33}~{\kf29}~{\kf33}~{\kf76}~{\kf167}~
+Dialogue: 0,0:04:33.77,0:04:38.62,DEFAULT,,0,0,0,,{\r}{\kf41}You're{\kf16} tel{\kf41}~{\kf36}ling{\kf52} vi{\kf10}cious{\kf290} lies
+Dialogue: 0,0:04:42.91,0:04:48.74,DEFAULT,,0,0,0,,{\r}{\kf43}Your{\kf64} pow{\kf38}er{\kf54} knows{\kf38} no{\kf11} com{\kf48}~{\kf11}pro{\kf277}mise
+Dialogue: 0,0:04:52.05,0:04:56.91,DEFAULT,,0,0,0,,{\r}{\kf41}You're{\kf16} tel{\kf41}~{\kf36}ling{\kf52} vi{\kf10}cious{\kf290} lies
+Dialogue: 0,0:05:01.19,0:05:07.11,DEFAULT,,0,0,0,,{\r}{\kf43}To{\kf64} be{\kf37} the{\kf53} sa{\kf37}vior{\kf11} in{\kf48}~{\kf11} their{\kf288} eyes
+Dialogue: 0,0:05:10.34,0:05:15.19,DEFAULT,,0,0,0,,{\r}{\kf41}You're{\kf15} tel{\kf41}~{\kf36}ling{\kf56} vi{\kf10}cious{\kf287} lies
+Dialogue: 0,0:05:19.48,0:05:25.36,DEFAULT,,0,0,0,,{\r}{\kf44}Your{\kf33} pow{\kf44}er{\kf55} knows{\kf44} no{\kf11} com{\kf50}~{\kf11}pro{\kf296}mise
+Dialogue: 0,0:05:28.62,0:05:34.79,DEFAULT,,0,0,0,,{\r}{\kf39}You're{\kf15} tel{\kf39}~{\kf34}ling{\kf49} vi{\kf10}cious{\kf205} lies{\kf34}~{\kf191}~
+Dialogue: 0,0:05:37.77,0:05:45.11,DEFAULT,,0,0,0,,{\r}{\kf39}To{\kf59} be{\kf39} the{\kf49} sa{\kf34}vior{\kf10} in{\kf78}~{\kf88} their{\kf339} eyes

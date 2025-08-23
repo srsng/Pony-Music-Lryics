@@ -1,35 +1,42 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Fillies' Lullaby
+Artist: Arvianth, M-G UniNew
+Original Timing: mylittlekaraoke.com by RD1042
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.21,0:00:20.62,DEFAULT,,0,0,0,,{\kf48}Good{\kf96} night,{\kf38} my{\kf106} fel{\kf41}low{\kf69} po{\kf110}nies
-Dialogue: 0,0:00:21.81,0:00:27.97,DEFAULT,,0,0,0,,{\kf31}For{\kf116} I{\kf41} shall{\kf127} guard{\kf45} your{\kf174} dreams
-Dialogue: 0,0:00:29.13,0:00:35.50,DEFAULT,,0,0,0,,{\kf38}Un{\kf116}til{\kf31} the{\kf110} moon{\kf35}light{\kf58} lo{\kf120}wers
-Dialogue: 0,0:00:36.63,0:00:42.86,DEFAULT,,0,0,0,,{\kf28}You're{\kf92} safe{\kf35} from{\kf28} trou{\kf35}bles{\kf62} life{\kf45} can{\kf147} bring
-Dialogue: 0,0:00:44.22,0:00:51.17,DEFAULT,,0,0,0,,{\kf127}Close{\kf38} your{\kf120} eyes,{\kf96} leave{\kf35} be{\kf123}hind
-Dialogue: 0,0:00:51.85,0:00:57.92,DEFAULT,,0,0,0,,{\kf75}Wor{\kf62}ries,{\kf72} griefs{\kf82} and{\kf215} fears
-Dialogue: 0,0:00:59.31,0:01:05.92,DEFAULT,,0,0,0,,{\kf103}Lis{\kf45}ten{\kf86} to{\kf99} twink{\kf58}ling{\kf75} stars
-Dialogue: 0,0:01:06.57,0:01:12.53,DEFAULT,,0,0,0,,{\kf41}Whis{\kf31}pers{\kf41} of{\kf24} the{\kf38} sum{\kf116}mer{\kf31} wi-{\kf195}ind
-Dialogue: 0,0:01:13.99,0:01:20.40,DEFAULT,,0,0,0,,{\kf103}Night{\kf48} may{\kf82} not{\kf69} be{\kf89} light{\kf69} and{\kf130} bright
-Dialogue: 0,0:01:20.81,0:01:26.12,DEFAULT,,0,0,0,,{\kf75}Like{\kf69} my{\kf79} sis{\kf72}ter's{\kf195} day
-Dialogue: 0,0:01:26.97,0:01:33.78,DEFAULT,,0,0,0,,{\kf41}But{\kf79} it{\kf69} can{\kf72} take{\kf69} you{\kf116} far{\kf38} a{\kf92}way
-Dialogue: 0,0:01:34.12,0:01:39.68,DEFAULT,,0,0,0,,{\kf18}To-{\kf21}o{\kf65} heart's{\kf65} de{\kf72}si{\kf69}red{\kf21} pla-{\kf147}ace
-Dialogue: 0,0:01:41.79,0:01:47.75,DEFAULT,,0,0,0,,{\kf79}Hush,{\kf41} my{\kf120} lit{\kf45}tle{\kf79} po{\kf161}nies
-Dialogue: 0,0:01:49.01,0:01:54.46,DEFAULT,,0,0,0,,{\kf110}Catch{\kf35} your{\kf110} swee{\kf52}test{\kf164} dreams
-Dialogue: 0,0:01:56.26,0:02:02.06,DEFAULT,,0,0,0,,{\kf127}Fly{\kf21} a{\kf150}mid{\kf41} the{\kf38} pla{\kf137}nets
-Dialogue: 0,0:02:03.69,0:02:09.14,DEFAULT,,0,0,0,,{\kf127}Drift{\kf21} in{\kf45} sta{\kf38}-a{\kf35}-ar{\kf38}ry{\kf147} streams
-Dialogue: 0,0:02:11.15,0:02:17.93,DEFAULT,,0,0,0,,{\kf96}Fear{\kf52} you{\kf120} not,{\kf110} I'll{\kf38} be{\kf137} there
-Dialogue: 0,0:02:18.51,0:02:24.20,DEFAULT,,0,0,0,,{\kf79}Shall{\kf79} the{\kf75} night{\kf72}mares{\kf198} come
-Dialogue: 0,0:02:25.93,0:02:32.24,DEFAULT,,0,0,0,,{\kf92}Lay{\kf38} to{\kf28} rest{\kf69}~,{\kf35} be{\kf103} well{\kf38} pre{\kf99}pared
-Dialogue: 0,0:02:32.75,0:02:39.08,DEFAULT,,0,0,0,,{\kf38}To{\kf75} meet{\kf75} the{\kf82} sun{\kf92} at{\kf212} dawn
-Dialogue: 0,0:03:10.18,0:03:17.03,DEFAULT,,0,0,0,,{\kf116}Night{\kf41} may{\kf79} not{\kf69} be{\kf86} light{\kf69} and{\kf123} bright
-Dialogue: 0,0:03:17.57,0:03:23.70,DEFAULT,,0,0,0,,{\kf82}Like{\kf69} my{\kf82} sis{\kf75}ter's{\kf45} da{\kf188}-ay
-Dialogue: 0,0:03:24.25,0:03:31.57,DEFAULT,,0,0,0,,{\kf35}But{\kf103} it{\kf75} can{\kf69} take{\kf79} you{\kf106} far{\kf45} a{\kf99}way
-Dialogue: 0,0:03:31.91,0:03:39.07,DEFAULT,,0,0,0,,{\kf18}To{\kf18}-o{\kf72} heart's{\kf82} de{\kf86}si{\kf79}red{\kf290} lands
+Dialogue: 0,0:00:14.22,0:00:20.62,DEFAULT,,0,0,0,,{\r}{\kf61}Good{\kf121} night,{\kf48} my{\kf134} fel{\kf52}low{\kf86} po{\kf138}nies
+Dialogue: 0,0:00:21.81,0:00:27.98,DEFAULT,,0,0,0,,{\r}{\kf36}For{\kf134} I{\kf47} shall{\kf146} guard{\kf51} your{\kf203} dreams
+Dialogue: 0,0:00:29.14,0:00:35.51,DEFAULT,,0,0,0,,{\r}{\kf47}Un{\kf146}til{\kf39} the{\kf138} moon{\kf43}light{\kf73} lo{\kf151}wers
+Dialogue: 0,0:00:36.63,0:00:42.86,DEFAULT,,0,0,0,,{\r}{\kf36}You're{\kf123} safe{\kf45} from{\kf36} trou{\kf45}bles{\kf82} life{\kf59} can{\kf197} bring
+Dialogue: 0,0:00:44.23,0:00:51.18,DEFAULT,,0,0,0,,{\r}{\kf164}Close{\kf49} your{\kf155} eyes,{\kf124} leave{\kf44} be{\kf159}hind
+Dialogue: 0,0:00:51.86,0:00:57.92,DEFAULT,,0,0,0,,{\r}{\kf90}Wor{\kf74}ries,{\kf86} griefs{\kf98} and{\kf258} fears
+Dialogue: 0,0:00:59.32,0:01:05.92,DEFAULT,,0,0,0,,{\r}{\kf146}Lis{\kf63}ten{\kf122} to{\kf141} twink{\kf83}ling{\kf106} stars
+Dialogue: 0,0:01:06.57,0:01:12.53,DEFAULT,,0,0,0,,{\r}{\kf47}Whis{\kf36}pers{\kf47} of{\kf28} the{\kf43} sum{\kf134}mer{\kf36} wi-{\kf225}ind
+Dialogue: 0,0:01:14.00,0:01:20.40,DEFAULT,,0,0,0,,{\r}{\kf112}Night{\kf52} may{\kf89} not{\kf74} be{\kf97} light{\kf74} and{\kf142} bright
+Dialogue: 0,0:01:20.81,0:01:26.12,DEFAULT,,0,0,0,,{\r}{\kf82}Like{\kf74} my{\kf85} sis{\kf78}ter's{\kf212} day
+Dialogue: 0,0:01:26.98,0:01:33.79,DEFAULT,,0,0,0,,{\r}{\kf49}But{\kf93} it{\kf81} can{\kf85} take{\kf81} you{\kf138} far{\kf45} a{\kf109}way
+Dialogue: 0,0:01:34.13,0:01:39.68,DEFAULT,,0,0,0,,{\r}{\kf20}To-{\kf24}o{\kf76} heart's{\kf76} de{\kf84}si{\kf80}red{\kf24} pla-{\kf171}ace
+Dialogue: 0,0:01:41.79,0:01:47.75,DEFAULT,,0,0,0,,{\r}{\kf90}Hush,{\kf47} my{\kf136} lit{\kf51}tle{\kf90} po{\kf182}nies
+Dialogue: 0,0:01:49.01,0:01:54.46,DEFAULT,,0,0,0,,{\r}{\kf127}Catch{\kf40} your{\kf127} swee{\kf60}test{\kf191} dreams
+Dialogue: 0,0:01:56.27,0:02:02.06,DEFAULT,,0,0,0,,{\r}{\kf143}Fly{\kf23} a{\kf170}mid{\kf46} the{\kf42} pla{\kf155}nets
+Dialogue: 0,0:02:03.70,0:02:09.15,DEFAULT,,0,0,0,,{\r}{\kf154}Drift{\kf25} in{\kf54} sta{\kf46}-a{\kf42}-ar{\kf46}ry{\kf178} streams
+Dialogue: 0,0:02:11.16,0:02:17.93,DEFAULT,,0,0,0,,{\r}{\kf118}Fear{\kf63} you{\kf147} not,{\kf135} I'll{\kf46} be{\kf169} there
+Dialogue: 0,0:02:18.51,0:02:24.20,DEFAULT,,0,0,0,,{\r}{\kf89}Shall{\kf89} the{\kf85} night{\kf81}mares{\kf225} come
+Dialogue: 0,0:02:25.94,0:02:32.24,DEFAULT,,0,0,0,,{\r}{\kf117}Lay{\kf47} to{\kf35} rest{\kf86}~,{\kf43} be{\kf129} well{\kf47} pre{\kf126}pared
+Dialogue: 0,0:02:32.75,0:02:39.09,DEFAULT,,0,0,0,,{\r}{\kf42}To{\kf83} meet{\kf83} the{\kf91} sun{\kf102} at{\kf233} dawn
+Dialogue: 0,0:03:10.19,0:03:17.03,DEFAULT,,0,0,0,,{\r}{\kf137}Night{\kf48} may{\kf93} not{\kf81} be{\kf101} light{\kf81} and{\kf144} bright
+Dialogue: 0,0:03:17.58,0:03:23.71,DEFAULT,,0,0,0,,{\r}{\kf93}Like{\kf78} my{\kf93} sis{\kf85}ter's{\kf50} da{\kf214}-ay
+Dialogue: 0,0:03:24.25,0:03:31.58,DEFAULT,,0,0,0,,{\r}{\kf41}But{\kf123} it{\kf90} can{\kf82} take{\kf95} you{\kf127} far{\kf53} a{\kf121}way
+Dialogue: 0,0:03:31.92,0:03:39.07,DEFAULT,,0,0,0,,{\r}{\kf19}To{\kf19}-o{\kf80} heart's{\kf91} de{\kf95}si{\kf87}red{\kf324} lands

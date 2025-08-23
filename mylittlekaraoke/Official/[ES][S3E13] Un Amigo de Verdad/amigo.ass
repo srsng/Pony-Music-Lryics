@@ -1,107 +1,114 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Un Amigo de Verdad
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by TOM
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.82,0:00:04.45,DEFAULT,,0,0,0,,{\kf22}Fun{\kf44}cionó,{\kf22} fun{\kf44}cionó!
-Dialogue: 0,0:00:04.83,0:00:05.48,DEFAULT,,0,0,0,,{\kf19}Es{\kf19}toy{\kf13} fe{\kf16}liz
-Dialogue: 0,0:00:05.51,0:00:06.92,DEFAULT,,0,0,0,,{\kf32}De que{\kf19} seas{\kf19} tú{\kf72} otra vez!
-Dialogue: 0,0:00:07.17,0:00:08.67,DEFAULT,,0,0,0,,{\kf41}Nece{\kf16}si{\kf19}to{\kf13} tu{\kf63} ayuda!
-Dialogue: 0,0:00:09.64,0:00:11.39,DEFAULT,,0,0,0,,{\kf63}Cuando{\kf16} un{\kf38} a{\kf32}mi{\kf19}go
-Dialogue: 0,0:00:11.61,0:00:13.42,DEFAULT,,0,0,0,,{\kf29}Es{\kf44} de{\kf47} ver{\kf54}dad
-Dialogue: 0,0:00:13.64,0:00:15.71,DEFAULT,,0,0,0,,{\kf22}Te{\kf44} ayu{\kf47}da{\kf41}rá{\kf19} a{\kf19} ver
-Dialogue: 0,0:00:15.71,0:00:17.43,DEFAULT,,0,0,0,,{\kf22}La{\kf44} rea{\kf44}li{\kf51}dad
-Dialogue: 0,0:00:17.68,0:00:19.65,DEFAULT,,0,0,0,,{\kf57}Cuando{\kf22} un,{\kf38} a{\kf38}mi{\kf32}go
-Dialogue: 0,0:00:19.68,0:00:21.18,DEFAULT,,0,0,0,,{\kf29}Es{\kf44} de{\kf41} ver{\kf32}dad
-Dialogue: 0,0:00:21.21,0:00:22.62,DEFAULT,,0,0,0,,{\kf29}Ve{\kf19}rás{\kf16} la{\kf72} luz
-Dialogue: 0,0:00:22.65,0:00:25.93,DEFAULT,,0,0,0,,{\kf29}Que{\kf54} hay{\kf22} en{\kf22} la{\kf32} a{\kf60}mis{\kf82}tad.
-Dialogue: 0,0:00:26.03,0:00:26.84,DEFAULT,,0,0,0,,{\kf26}Um,{\kf54} hola!
-Dialogue: 0,0:00:26.87,0:00:28.37,DEFAULT,,0,0,0,,{\kf47}Amiga{\kf51} atrapada{\kf51} recuerdan?
-Dialogue: 0,0:00:28.62,0:00:31.90,DEFAULT,,0,0,0,,{\kf32}A{\kf32} Ra{\kf22}ri{\kf22}ty{\kf41} hay que{\kf85} ayu{\kf85}dar.
-Dialogue: 0,0:00:32.15,0:00:33.37,DEFAULT,,0,0,0,,{\kf19}Pues{\kf22} se ha{\kf16} es{\kf19}for{\kf44}zado
-Dialogue: 0,0:00:33.40,0:00:35.91,DEFAULT,,0,0,0,,{\kf29}Por{\kf22} co{\kf41}o{\kf79}pe{\kf66}rar
-Dialogue: 0,0:00:36.37,0:00:37.66,DEFAULT,,0,0,0,,{\kf26}Lo{\kf26} ha{\kf72}rás,
-Dialogue: 0,0:00:37.75,0:00:39.69,DEFAULT,,0,0,0,,{\kf16}In{\kf22}ten{\kf19}ta{\kf13} y{\kf38} ve{\kf82}rás
-Dialogue: 0,0:00:40.35,0:00:41.66,DEFAULT,,0,0,0,,{\kf29}Y{\kf26} muy{\kf22} pron{\kf51}to
-Dialogue: 0,0:00:41.69,0:00:43.82,DEFAULT,,0,0,0,,{\kf22}Tu{\kf13} lo{\kf26} en{\kf22}ten{\kf29}de{\kf91}rás
-Dialogue: 0,0:00:44.66,0:00:46.66,DEFAULT,,0,0,0,,{\kf63}Cuando{\kf16} un{\kf44} a{\kf38}mi{\kf29}go
-Dialogue: 0,0:00:46.69,0:00:48.41,DEFAULT,,0,0,0,,{\kf29}Es{\kf47} de{\kf51} ver{\kf44}dad
-Dialogue: 0,0:00:48.60,0:00:50.41,DEFAULT,,0,0,0,,{\kf22}Te{\kf19} a{\kf44}yu{\kf47}da{\kf41}rá
-Dialogue: 0,0:00:50.48,0:00:52.42,DEFAULT,,0,0,0,,{\kf22}A ver{\kf26} la{\kf47} rea{\kf101}lidad
-Dialogue: 0,0:00:52.70,0:00:54.64,DEFAULT,,0,0,0,,{\kf66}Cuando{\kf19} un{\kf32} a{\kf47}mi{\kf26}go
-Dialogue: 0,0:00:54.76,0:00:56.23,DEFAULT,,0,0,0,,{\kf22}Es{\kf41} de{\kf51} ver{\kf35}dad
-Dialogue: 0,0:00:56.26,0:00:57.45,DEFAULT,,0,0,0,,{\kf22}Ve{\kf19}rás{\kf16} la{\kf60} luz
-Dialogue: 0,0:00:57.64,0:01:01.86,DEFAULT,,0,0,0,,{\kf41}Que{\kf38} hay{\kf22} en{\kf32} la{\kf41} a{\kf57}mis{\kf172}tad.
-Dialogue: 0,0:01:02.45,0:01:04.64,DEFAULT,,0,0,0,,{\kf97}Am,{\kf22} que{\kf35} acaba{\kf63} de pasar?
-Dialogue: 0,0:01:05.14,0:01:06.42,DEFAULT,,0,0,0,,{\kf13}No{\kf13} hay{\kf26} tiempo{\kf29} para{\kf51} explicar,
-Dialogue: 0,0:01:06.58,0:01:07.74,DEFAULT,,0,0,0,,{\kf32}pero{\kf10} te{\kf76} necesitamos
-Dialogue: 0,0:01:07.96,0:01:09.68,DEFAULT,,0,0,0,,{\kf51}Applejack{\kf41} intenta{\kf19} hacer{\kf63} vestidos!
-Dialogue: 0,0:01:10.18,0:01:11.33,DEFAULT,,0,0,0,,{\kf26}No{\kf35} digas{\kf57} más!
-Dialogue: 0,0:01:11.90,0:01:14.58,DEFAULT,,0,0,0,,{\kf19}A{\kf54} applejack{\kf19} hay{\kf51} que a{\kf57}yu{\kf63}dar
-Dialogue: 0,0:01:15.12,0:01:16.40,DEFAULT,,0,0,0,,{\kf16}Se{\kf22} ha{\kf19} es{\kf69}forzado
-Dialogue: 0,0:01:16.43,0:01:18.96,DEFAULT,,0,0,0,,{\kf19}Por{\kf16} co{\kf38}o{\kf41}pe{\kf113}rar
-Dialogue: 0,0:01:19.37,0:01:20.37,DEFAULT,,0,0,0,,{\kf22}lo{\kf22} ha{\kf51}rás,
-Dialogue: 0,0:01:20.59,0:01:23.00,DEFAULT,,0,0,0,,{\kf26}In{\kf16}ten{\kf19}ta{\kf47} y ve{\kf116}rás
-Dialogue: 0,0:01:23.34,0:01:24.59,DEFAULT,,0,0,0,,{\kf22}Y{\kf26} muy{\kf69} pronto
-Dialogue: 0,0:01:24.62,0:01:26.97,DEFAULT,,0,0,0,,{\kf29}Tu{\kf26} lo{\kf19} en{\kf26}ten{\kf26}de{\kf107}rás
-Dialogue: 0,0:01:27.62,0:01:29.69,DEFAULT,,0,0,0,,{\kf72}Cuando{\kf10} un{\kf32} a{\kf57}mi{\kf29}go
-Dialogue: 0,0:01:29.72,0:01:31.50,DEFAULT,,0,0,0,,{\kf29}Es{\kf35} de{\kf51} ver{\kf63}dad
-Dialogue: 0,0:01:31.56,0:01:33.25,DEFAULT,,0,0,0,,{\kf22}Te{\kf19} a{\kf38}yu{\kf41}da{\kf44}rá
-Dialogue: 0,0:01:33.25,0:01:35.50,DEFAULT,,0,0,0,,{\kf41}A ver{\kf16} la{\kf54} rea{\kf57}li{\kf54}dad
-Dialogue: 0,0:01:35.63,0:01:37.69,DEFAULT,,0,0,0,,{\kf60}Cuando{\kf19} un{\kf38} a{\kf57}mi{\kf29}go
-Dialogue: 0,0:01:37.72,0:01:39.16,DEFAULT,,0,0,0,,{\kf26}Es{\kf35} de{\kf47} ver{\kf32}dad
-Dialogue: 0,0:01:39.19,0:01:40.60,DEFAULT,,0,0,0,,{\kf22}ve{\kf22}rás{\kf13} la{\kf76} luz
-Dialogue: 0,0:01:40.66,0:01:44.70,DEFAULT,,0,0,0,,{\kf29}Que{\kf38} hay{\kf22} en{\kf16} la{\kf44} a{\kf69}mis{\kf160}tad.
-Dialogue: 0,0:01:44.79,0:01:47.64,DEFAULT,,0,0,0,,{\kf60}*Suspiro*{\kf41} wow,{\kf16} que{\kf41} horrible{\kf51} pesadilla{\kf69} tuve.
-Dialogue: 0,0:01:48.04,0:01:49.89,DEFAULT,,0,0,0,,{\kf44}O{\kf44} tal vez{\kf13} aún{\kf22} la{\kf47} tengo.
-Dialogue: 0,0:01:50.26,0:01:51.83,DEFAULT,,0,0,0,,{\kf57}Rarity,{\kf66} Pinkie Pie{\kf35} perderá
-Dialogue: 0,0:01:51.83,0:01:52.89,DEFAULT,,0,0,0,,{\kf10}la{\kf47} granja{\kf51} apple
-Dialogue: 0,0:01:52.98,0:01:54.51,DEFAULT,,0,0,0,,{\kf72}Nececitamos{\kf13} a{\kf69} Applejack!
-Dialogue: 0,0:01:54.98,0:01:56.52,DEFAULT,,0,0,0,,{\kf41}¿Perder{\kf13} la{\kf38} granja{\kf63} apple?
-Dialogue: 0,0:01:56.64,0:01:57.99,DEFAULT,,0,0,0,,{\kf19}No{\kf35} podemos{\kf57} permitir{\kf26} eso,
-Dialogue: 0,0:01:57.99,0:01:58.77,DEFAULT,,0,0,0,,{\kf79}Verdad?
-Dialogue: 0,0:01:58.92,0:02:02.08,DEFAULT,,0,0,0,,{\kf60}Pinkie{\kf44} es{\kf26}tá{\kf26} en{\kf41} pro{\kf57}ble{\kf63}mas
-Dialogue: 0,0:02:02.21,0:02:03.46,DEFAULT,,0,0,0,,{\kf32}Y{\kf19} a{\kf22} su{\kf26} la{\kf22}do
-Dialogue: 0,0:02:03.52,0:02:06.08,DEFAULT,,0,0,0,,{\kf44}Hay{\kf47} que{\kf41} es{\kf113}tar
-Dialogue: 0,0:02:06.36,0:02:07.90,DEFAULT,,0,0,0,,{\kf26}Hay{\kf13} que{\kf41} hacer{\kf22} lo{\kf44} que
-Dialogue: 0,0:02:07.90,0:02:10.15,DEFAULT,,0,0,0,,{\kf41}ya{\kf47} sa{\kf44}be{\kf76}mos
-Dialogue: 0,0:02:10.37,0:02:14.49,DEFAULT,,0,0,0,,{\kf22}ya{\kf19} que{\kf47} juntas{\kf22} la po{\kf107}demos{\kf35} gui{\kf141}ar!
-Dialogue: 0,0:02:14.62,0:02:16.71,DEFAULT,,0,0,0,,{\kf66}Cuando{\kf19} un{\kf38} a{\kf88}migo
-Dialogue: 0,0:02:16.75,0:02:18.40,DEFAULT,,0,0,0,,{\kf22}Es{\kf38} de{\kf47} ver{\kf57}dad
-Dialogue: 0,0:02:18.65,0:02:20.65,DEFAULT,,0,0,0,,{\kf16}Te{\kf57} ayu{\kf44}da{\kf51}rá{\kf29} a ver
-Dialogue: 0,0:02:20.69,0:02:22.56,DEFAULT,,0,0,0,,{\kf19}La{\kf47} rea{\kf35}li{\kf79}dad.
-Dialogue: 0,0:02:22.59,0:02:24.69,DEFAULT,,0,0,0,,{\kf63}Cuando{\kf19} un{\kf41} a{\kf51}mi{\kf32}go
-Dialogue: 0,0:02:24.72,0:02:26.19,DEFAULT,,0,0,0,,{\kf26}Es{\kf38} de{\kf47} ver{\kf35}dad
-Dialogue: 0,0:02:26.22,0:02:27.50,DEFAULT,,0,0,0,,{\kf22}Ve{\kf19}rás{\kf26} la{\kf60} luz
-Dialogue: 0,0:02:27.66,0:02:32.57,DEFAULT,,0,0,0,,{\kf29}Que{\kf41} hay{\kf26} en{\kf19} la{\kf41} a{\kf72}mis{\kf244}tad
-Dialogue: 0,0:02:32.76,0:02:35.13,DEFAULT,,0,0,0,,{\kf104}Yee-haa!{\kf76} Asi me{\kf60} gusta!
-Dialogue: 0,0:02:35.13,0:02:35.91,DEFAULT,,0,0,0,,{\kf29}¿Que{\kf51} sigue?
-Dialogue: 0,0:02:36.07,0:02:37.82,DEFAULT,,0,0,0,,{\kf26}Los{\kf57} habitantes{\kf22} están{\kf72} furiosos
-Dialogue: 0,0:02:37.82,0:02:39.57,DEFAULT,,0,0,0,,{\kf79}Necesitamos{\kf19} a{\kf41} Pinkie{\kf38} pie!
-Dialogue: 0,0:02:39.60,0:02:41.51,DEFAULT,,0,0,0,,{\kf13}yo{\kf51} me encargo,{\kf32} se{\kf13} lo{\kf13} que{\kf13} hay{\kf60} que hacer
-Dialogue: 0,0:02:41.67,0:02:43.45,DEFAULT,,0,0,0,,{\kf22}Los{\kf69} Ponis{\kf19} del{\kf32} pue{\kf29}blo,
-Dialogue: 0,0:02:43.45,0:02:45.48,DEFAULT,,0,0,0,,{\kf26}Ya{\kf16} muy{\kf54} tris{\kf19}tes{\kf19} es{\kf60}tán
-Dialogue: 0,0:02:45.61,0:02:47.48,DEFAULT,,0,0,0,,{\kf22}Con{\kf29} ce{\kf29}ños{\kf44} frun{\kf22}ci{\kf32}dos
-Dialogue: 0,0:02:47.48,0:02:49.52,DEFAULT,,0,0,0,,{\kf41}Y ya{\kf19} no{\kf16} son{\kf35}rí{\kf10}en{\kf69} más
-Dialogue: 0,0:02:49.61,0:02:51.39,DEFAULT,,0,0,0,,{\kf32}si{\kf22} quie{\kf26}res{\kf13} a{\kf22}yu{\kf26}dar{\kf26}los,
-Dialogue: 0,0:02:51.39,0:02:54.55,DEFAULT,,0,0,0,,{\kf26}Muy{\kf16} con{\kf19}ten{\kf26}tos{\kf29} es{\kf10}ta{\kf169}rán!
-Dialogue: 0,0:02:54.67,0:02:56.43,DEFAULT,,0,0,0,,{\kf13}Si{\kf16} tu{\kf29} vas{\kf13} y{\kf26} los{\kf13} a{\kf26}le{\kf29}gras
-Dialogue: 0,0:02:56.46,0:02:59.80,DEFAULT,,0,0,0,,{\kf26}De{\kf32} aquí{\kf26} hasta{\kf26} Can{\kf19}ter{\kf191}lot!
-Dialogue: 0,0:02:59.83,0:03:00.90,DEFAULT,,0,0,0,,{\kf51}¡Vamos{\kf57} ponies!
-Dialogue: 0,0:03:00.93,0:03:03.21,DEFAULT,,0,0,0,,{\kf26}¡Los{\kf51} quiero{\kf35} ver{\kf119} sonreir!
-Dialogue: 0,0:03:03.21,0:03:04.52,DEFAULT,,0,0,0,,{\kf132}Pinkie!
-Dialogue: 0,0:03:04.65,0:03:06.62,DEFAULT,,0,0,0,,{\kf69}Cuando{\kf13} un{\kf35} a{\kf76}migo
-Dialogue: 0,0:03:06.65,0:03:08.56,DEFAULT,,0,0,0,,{\kf29}Es{\kf32} de{\kf63} ver{\kf60}dad
-Dialogue: 0,0:03:08.65,0:03:10.40,DEFAULT,,0,0,0,,{\kf16}Te{\kf22} a{\kf38}yu{\kf41}da{\kf47}rá
-Dialogue: 0,0:03:10.43,0:03:12.37,DEFAULT,,0,0,0,,{\kf29}A ver{\kf29} la{\kf51} rea{\kf79}lidad.
-Dialogue: 0,0:03:12.56,0:03:14.69,DEFAULT,,0,0,0,,{\kf76}Cuando{\kf22} un{\kf32} a{\kf47}mi{\kf29}go
-Dialogue: 0,0:03:14.69,0:03:16.09,DEFAULT,,0,0,0,,{\kf32}Es{\kf35} de{\kf41} ver{\kf26}dad
-Dialogue: 0,0:03:16.12,0:03:18.09,DEFAULT,,0,0,0,,{\kf32}Ve{\kf26}rás{\kf19} la{\kf119} luz
-Dialogue: 0,0:03:18.50,0:03:20.19,DEFAULT,,0,0,0,,{\kf47}Que{\kf119} hay
-Dialogue: 0,0:03:20.35,0:03:27.04,DEFAULT,,0,0,0,,{\kf29}¡En{\kf26} la{\kf97} a{\kf91}mis{\kf416}tad!
+Dialogue: 0,0:00:02.83,0:00:04.46,DEFAULT,,0,0,0,,{\r}{\kf27}Fun{\kf54}cionó,{\kf27} fun{\kf55}cionó!
+Dialogue: 0,0:00:04.83,0:00:05.49,DEFAULT,,0,0,0,,{\r}{\kf19}Es{\kf19}toy{\kf13} fe{\kf15}liz
+Dialogue: 0,0:00:05.52,0:00:06.93,DEFAULT,,0,0,0,,{\r}{\kf31}De que{\kf19} seas{\kf19} tú{\kf72} otra vez!
+Dialogue: 0,0:00:07.18,0:00:08.68,DEFAULT,,0,0,0,,{\r}{\kf41}Nece{\kf16}si{\kf19}to{\kf12} tu{\kf62} ayuda!
+Dialogue: 0,0:00:09.65,0:00:11.40,DEFAULT,,0,0,0,,{\r}{\kf66}Cuando{\kf17} un{\kf40} a{\kf33}mi{\kf19}go
+Dialogue: 0,0:00:11.62,0:00:13.43,DEFAULT,,0,0,0,,{\r}{\kf30}Es{\kf46} de{\kf49} ver{\kf56}dad
+Dialogue: 0,0:00:13.65,0:00:15.71,DEFAULT,,0,0,0,,{\r}{\kf24}Te{\kf47} ayu{\kf51}da{\kf44}rá{\kf20} a{\kf20} ver
+Dialogue: 0,0:00:15.71,0:00:17.43,DEFAULT,,0,0,0,,{\r}{\kf24}La{\kf47} rea{\kf47}li{\kf54}dad
+Dialogue: 0,0:00:17.68,0:00:19.65,DEFAULT,,0,0,0,,{\r}{\kf60}Cuando{\kf23} un,{\kf40} a{\kf40}mi{\kf34}go
+Dialogue: 0,0:00:19.68,0:00:21.18,DEFAULT,,0,0,0,,{\r}{\kf29}Es{\kf46} de{\kf42} ver{\kf33}dad
+Dialogue: 0,0:00:21.21,0:00:22.62,DEFAULT,,0,0,0,,{\r}{\kf30}Ve{\kf20}rás{\kf16} la{\kf75} luz
+Dialogue: 0,0:00:22.65,0:00:25.94,DEFAULT,,0,0,0,,{\r}{\kf31}Que{\kf59} hay{\kf24} en{\kf24} la{\kf35} a{\kf66}mis{\kf89}tad.
+Dialogue: 0,0:00:26.03,0:00:26.84,DEFAULT,,0,0,0,,{\r}{\kf26}Um,{\kf55} hola!
+Dialogue: 0,0:00:26.87,0:00:28.38,DEFAULT,,0,0,0,,{\r}{\kf48}Amiga{\kf51} atrapada{\kf51} recuerdan?
+Dialogue: 0,0:00:28.63,0:00:31.91,DEFAULT,,0,0,0,,{\r}{\kf32}A{\kf32} Ra{\kf23}ri{\kf23}ty{\kf42} hay que{\kf88} ayu{\kf88}dar.
+Dialogue: 0,0:00:32.16,0:00:33.38,DEFAULT,,0,0,0,,{\r}{\kf19}Pues{\kf22} se ha{\kf16} es{\kf19}for{\kf46}zado
+Dialogue: 0,0:00:33.41,0:00:35.91,DEFAULT,,0,0,0,,{\r}{\kf30}Por{\kf23} co{\kf43}o{\kf83}pe{\kf71}rar
+Dialogue: 0,0:00:36.38,0:00:37.66,DEFAULT,,0,0,0,,{\r}{\kf26}Lo{\kf26} ha{\kf76}rás,
+Dialogue: 0,0:00:37.76,0:00:39.69,DEFAULT,,0,0,0,,{\r}{\kf16}In{\kf23}ten{\kf19}ta{\kf13} y{\kf39} ve{\kf84}rás
+Dialogue: 0,0:00:40.35,0:00:41.66,DEFAULT,,0,0,0,,{\r}{\kf29}Y{\kf26} muy{\kf23} pron{\kf53}to
+Dialogue: 0,0:00:41.70,0:00:43.82,DEFAULT,,0,0,0,,{\r}{\kf23}Tu{\kf13} lo{\kf27} en{\kf23}ten{\kf30}de{\kf97}rás
+Dialogue: 0,0:00:44.67,0:00:46.67,DEFAULT,,0,0,0,,{\r}{\kf67}Cuando{\kf17} un{\kf47} a{\kf40}mi{\kf29}go
+Dialogue: 0,0:00:46.70,0:00:48.42,DEFAULT,,0,0,0,,{\r}{\kf29}Es{\kf48} de{\kf51} ver{\kf44}dad
+Dialogue: 0,0:00:48.61,0:00:50.42,DEFAULT,,0,0,0,,{\r}{\kf23}Te{\kf20} a{\kf46}yu{\kf49}da{\kf43}rá
+Dialogue: 0,0:00:50.48,0:00:52.42,DEFAULT,,0,0,0,,{\r}{\kf22}A ver{\kf25} la{\kf47} rea{\kf100}lidad
+Dialogue: 0,0:00:52.70,0:00:54.64,DEFAULT,,0,0,0,,{\r}{\kf68}Cuando{\kf19} un{\kf32} a{\kf49}mi{\kf26}go
+Dialogue: 0,0:00:54.77,0:00:56.24,DEFAULT,,0,0,0,,{\r}{\kf22}Es{\kf41} de{\kf50} ver{\kf34}dad
+Dialogue: 0,0:00:56.27,0:00:57.45,DEFAULT,,0,0,0,,{\r}{\kf23}Ve{\kf19}rás{\kf16} la{\kf61} luz
+Dialogue: 0,0:00:57.64,0:01:01.86,DEFAULT,,0,0,0,,{\r}{\kf43}Que{\kf40} hay{\kf23} en{\kf33} la{\kf43} a{\kf59}mis{\kf181}tad.
+Dialogue: 0,0:01:02.46,0:01:04.65,DEFAULT,,0,0,0,,{\r}{\kf98}Am,{\kf22} que{\kf35} acaba{\kf64} de pasar?
+Dialogue: 0,0:01:05.15,0:01:06.43,DEFAULT,,0,0,0,,{\r}{\kf12}No{\kf12} hay{\kf25} tiempo{\kf28} para{\kf51} explicar,
+Dialogue: 0,0:01:06.59,0:01:07.74,DEFAULT,,0,0,0,,{\r}{\kf31}pero{\kf10} te{\kf75} necesitamos
+Dialogue: 0,0:01:07.96,0:01:09.68,DEFAULT,,0,0,0,,{\r}{\kf50}Applejack{\kf41} intenta{\kf19} hacer{\kf62} vestidos!
+Dialogue: 0,0:01:10.18,0:01:11.34,DEFAULT,,0,0,0,,{\r}{\kf25}No{\kf34} digas{\kf57} más!
+Dialogue: 0,0:01:11.90,0:01:14.59,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf55} applejack{\kf19} hay{\kf52} que a{\kf58}yu{\kf66}dar
+Dialogue: 0,0:01:15.12,0:01:16.40,DEFAULT,,0,0,0,,{\r}{\kf16}Se{\kf22} ha{\kf19} es{\kf71}forzado
+Dialogue: 0,0:01:16.43,0:01:18.97,DEFAULT,,0,0,0,,{\r}{\kf21}Por{\kf18} co{\kf42}o{\kf46}pe{\kf126}rar
+Dialogue: 0,0:01:19.37,0:01:20.37,DEFAULT,,0,0,0,,{\r}{\kf23}lo{\kf23} ha{\kf54}rás,
+Dialogue: 0,0:01:20.59,0:01:23.00,DEFAULT,,0,0,0,,{\r}{\kf27}In{\kf17}ten{\kf20}ta{\kf51} y ve{\kf126}rás
+Dialogue: 0,0:01:23.34,0:01:24.60,DEFAULT,,0,0,0,,{\r}{\kf24}Y{\kf27} muy{\kf74} pronto
+Dialogue: 0,0:01:24.63,0:01:26.97,DEFAULT,,0,0,0,,{\r}{\kf29}Tu{\kf26} lo{\kf19} en{\kf26}ten{\kf26}de{\kf109}rás
+Dialogue: 0,0:01:27.63,0:01:29.69,DEFAULT,,0,0,0,,{\r}{\kf75}Cuando{\kf10} un{\kf33} a{\kf59}mi{\kf29}go
+Dialogue: 0,0:01:29.72,0:01:31.51,DEFAULT,,0,0,0,,{\r}{\kf29}Es{\kf35} de{\kf51} ver{\kf63}dad
+Dialogue: 0,0:01:31.57,0:01:33.26,DEFAULT,,0,0,0,,{\r}{\kf23}Te{\kf20} a{\kf39}yu{\kf42}da{\kf45}rá
+Dialogue: 0,0:01:33.26,0:01:35.51,DEFAULT,,0,0,0,,{\r}{\kf42}A ver{\kf16} la{\kf55} rea{\kf58}li{\kf54}dad
+Dialogue: 0,0:01:35.63,0:01:37.70,DEFAULT,,0,0,0,,{\r}{\kf61}Cuando{\kf19} un{\kf39} a{\kf58}mi{\kf29}go
+Dialogue: 0,0:01:37.73,0:01:39.17,DEFAULT,,0,0,0,,{\r}{\kf26}Es{\kf36} de{\kf49} ver{\kf33}dad
+Dialogue: 0,0:01:39.20,0:01:40.60,DEFAULT,,0,0,0,,{\r}{\kf24}ve{\kf24}rás{\kf13} la{\kf80} luz
+Dialogue: 0,0:01:40.67,0:01:44.70,DEFAULT,,0,0,0,,{\r}{\kf30}Que{\kf40} hay{\kf24} en{\kf17} la{\kf47} a{\kf74}mis{\kf171}tad.
+Dialogue: 0,0:01:44.79,0:01:47.64,DEFAULT,,0,0,0,,{\r}{\kf62}*Suspiro*{\kf42} wow,{\kf16} que{\kf42} horrible{\kf52} pesadilla{\kf71} tuve.
+Dialogue: 0,0:01:48.05,0:01:49.89,DEFAULT,,0,0,0,,{\r}{\kf48}O{\kf48} tal vez{\kf14} aún{\kf24} la{\kf50} tengo.
+Dialogue: 0,0:01:50.27,0:01:51.83,DEFAULT,,0,0,0,,{\r}{\kf56}Rarity,{\kf66} Pinkie Pie{\kf34} perderá
+Dialogue: 0,0:01:51.83,0:01:52.89,DEFAULT,,0,0,0,,{\r}{\kf10}la{\kf47} granja{\kf49} apple
+Dialogue: 0,0:01:52.99,0:01:54.52,DEFAULT,,0,0,0,,{\r}{\kf72}Nececitamos{\kf12} a{\kf69} Applejack!
+Dialogue: 0,0:01:54.99,0:01:56.52,DEFAULT,,0,0,0,,{\r}{\kf41}¿Perder{\kf12} la{\kf37} granja{\kf63} apple?
+Dialogue: 0,0:01:56.65,0:01:57.99,DEFAULT,,0,0,0,,{\r}{\kf19}No{\kf34} podemos{\kf56} permitir{\kf25} eso,
+Dialogue: 0,0:01:57.99,0:01:58.77,DEFAULT,,0,0,0,,{\r}{\kf78}Verdad?
+Dialogue: 0,0:01:58.93,0:02:02.09,DEFAULT,,0,0,0,,{\r}{\kf60}Pinkie{\kf44} es{\kf25}tá{\kf25} en{\kf41} pro{\kf57}ble{\kf64}mas
+Dialogue: 0,0:02:02.21,0:02:03.46,DEFAULT,,0,0,0,,{\r}{\kf33}Y{\kf20} a{\kf23} su{\kf26} la{\kf23}do
+Dialogue: 0,0:02:03.52,0:02:06.09,DEFAULT,,0,0,0,,{\r}{\kf46}Hay{\kf49} que{\kf43} es{\kf118}tar
+Dialogue: 0,0:02:06.37,0:02:07.90,DEFAULT,,0,0,0,,{\r}{\kf27}Hay{\kf13} que{\kf43} hacer{\kf23} lo{\kf47} que
+Dialogue: 0,0:02:07.90,0:02:10.15,DEFAULT,,0,0,0,,{\r}{\kf44}ya{\kf51} sa{\kf48}be{\kf82}mos
+Dialogue: 0,0:02:10.37,0:02:14.50,DEFAULT,,0,0,0,,{\r}{\kf23}ya{\kf20} que{\kf50} juntas{\kf23} la po{\kf112}demos{\kf36} gui{\kf149}ar!
+Dialogue: 0,0:02:14.62,0:02:16.72,DEFAULT,,0,0,0,,{\r}{\kf66}Cuando{\kf19} un{\kf37} a{\kf87}migo
+Dialogue: 0,0:02:16.75,0:02:18.41,DEFAULT,,0,0,0,,{\r}{\kf22}Es{\kf38} de{\kf48} ver{\kf58}dad
+Dialogue: 0,0:02:18.66,0:02:20.66,DEFAULT,,0,0,0,,{\r}{\kf16}Te{\kf58} ayu{\kf45}da{\kf52}rá{\kf29} a ver
+Dialogue: 0,0:02:20.69,0:02:22.57,DEFAULT,,0,0,0,,{\r}{\kf20}La{\kf49} rea{\kf36}li{\kf83}dad.
+Dialogue: 0,0:02:22.60,0:02:24.69,DEFAULT,,0,0,0,,{\r}{\kf64}Cuando{\kf19} un{\kf42} a{\kf51}mi{\kf33}go
+Dialogue: 0,0:02:24.72,0:02:26.19,DEFAULT,,0,0,0,,{\r}{\kf26}Es{\kf38} de{\kf48} ver{\kf35}dad
+Dialogue: 0,0:02:26.23,0:02:27.51,DEFAULT,,0,0,0,,{\r}{\kf22}Ve{\kf19}rás{\kf26} la{\kf61} luz
+Dialogue: 0,0:02:27.66,0:02:32.57,DEFAULT,,0,0,0,,{\r}{\kf29}Que{\kf43} hay{\kf26} en{\kf20} la{\kf43} a{\kf75}mis{\kf255}tad
+Dialogue: 0,0:02:32.76,0:02:35.14,DEFAULT,,0,0,0,,{\r}{\kf103}Yee-haa!{\kf75} Asi me{\kf60} gusta!
+Dialogue: 0,0:02:35.14,0:02:35.92,DEFAULT,,0,0,0,,{\r}{\kf28}¿Que{\kf50} sigue?
+Dialogue: 0,0:02:36.07,0:02:37.83,DEFAULT,,0,0,0,,{\r}{\kf25}Los{\kf56} habitantes{\kf22} están{\kf72} furiosos
+Dialogue: 0,0:02:37.83,0:02:39.58,DEFAULT,,0,0,0,,{\r}{\kf78}Necesitamos{\kf19} a{\kf41} Pinkie{\kf37} pie!
+Dialogue: 0,0:02:39.61,0:02:41.52,DEFAULT,,0,0,0,,{\r}{\kf13}yo{\kf50} me encargo,{\kf31} se{\kf13} lo{\kf13} que{\kf13} hay{\kf58} que hacer
+Dialogue: 0,0:02:41.67,0:02:43.45,DEFAULT,,0,0,0,,{\r}{\kf23}Los{\kf73} Ponis{\kf20} del{\kf33} pue{\kf29}blo,
+Dialogue: 0,0:02:43.45,0:02:45.49,DEFAULT,,0,0,0,,{\r}{\kf27}Ya{\kf17} muy{\kf57} tris{\kf20}tes{\kf20} es{\kf62}tán
+Dialogue: 0,0:02:45.61,0:02:47.49,DEFAULT,,0,0,0,,{\r}{\kf23}Con{\kf30} ce{\kf30}ños{\kf47} frun{\kf23}ci{\kf35}dos
+Dialogue: 0,0:02:47.49,0:02:49.52,DEFAULT,,0,0,0,,{\r}{\kf44}Y ya{\kf20} no{\kf17} son{\kf37}rí{\kf10}en{\kf75} más
+Dialogue: 0,0:02:49.61,0:02:51.40,DEFAULT,,0,0,0,,{\r}{\kf34}si{\kf24} quie{\kf27}res{\kf14} a{\kf24}yu{\kf27}dar{\kf28}los,
+Dialogue: 0,0:02:51.40,0:02:54.55,DEFAULT,,0,0,0,,{\r}{\kf27}Muy{\kf17} con{\kf20}ten{\kf27}tos{\kf31} es{\kf10}ta{\kf184}rán!
+Dialogue: 0,0:02:54.68,0:02:56.43,DEFAULT,,0,0,0,,{\r}{\kf14}Si{\kf17} tu{\kf31} vas{\kf14} y{\kf27} los{\kf14} a{\kf27}le{\kf31}gras
+Dialogue: 0,0:02:56.46,0:02:59.81,DEFAULT,,0,0,0,,{\r}{\kf27}De{\kf33} aquí{\kf27} hasta{\kf27} Can{\kf20}ter{\kf201}lot!
+Dialogue: 0,0:02:59.84,0:03:00.90,DEFAULT,,0,0,0,,{\r}{\kf50}¡Vamos{\kf56} ponies!
+Dialogue: 0,0:03:00.93,0:03:03.22,DEFAULT,,0,0,0,,{\r}{\kf25}¡Los{\kf50} quiero{\kf34} ver{\kf119} sonreir!
+Dialogue: 0,0:03:03.22,0:03:04.53,DEFAULT,,0,0,0,,{\r}{\kf131}Pinkie!
+Dialogue: 0,0:03:04.65,0:03:06.62,DEFAULT,,0,0,0,,{\r}{\kf71}Cuando{\kf13} un{\kf36} a{\kf77}migo
+Dialogue: 0,0:03:06.66,0:03:08.56,DEFAULT,,0,0,0,,{\r}{\kf30}Es{\kf33} de{\kf66} ver{\kf62}dad
+Dialogue: 0,0:03:08.66,0:03:10.41,DEFAULT,,0,0,0,,{\r}{\kf17}Te{\kf24} a{\kf40}yu{\kf44}da{\kf50}rá
+Dialogue: 0,0:03:10.44,0:03:12.38,DEFAULT,,0,0,0,,{\r}{\kf30}A ver{\kf30} la{\kf53} rea{\kf81}lidad.
+Dialogue: 0,0:03:12.56,0:03:14.69,DEFAULT,,0,0,0,,{\r}{\kf79}Cuando{\kf23} un{\kf33} a{\kf49}mi{\kf29}go
+Dialogue: 0,0:03:14.69,0:03:16.10,DEFAULT,,0,0,0,,{\r}{\kf34}Es{\kf37} de{\kf44} ver{\kf26}dad
+Dialogue: 0,0:03:16.13,0:03:18.10,DEFAULT,,0,0,0,,{\r}{\kf32}Ve{\kf25}rás{\kf19} la{\kf121} luz
+Dialogue: 0,0:03:18.51,0:03:20.19,DEFAULT,,0,0,0,,{\r}{\kf48}Que{\kf121} hay
+Dialogue: 0,0:03:20.35,0:03:27.04,DEFAULT,,0,0,0,,{\r}{\kf29}¡En{\kf25} la{\kf99} a{\kf92}mis{\kf424}tad!

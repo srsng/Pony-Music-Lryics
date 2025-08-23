@@ -1,52 +1,59 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Patience
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by lily
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:13.78,0:00:17.35,DEFAULT,,0,0,0,,{\kf1393}There's{\kf1400} so{\kf1397} much{\kf1400} a{\kf1400}bout{\kf1400} my{\kf1390}self{\kf1400}~{\kf1407} I{\kf1411} ne{\kf1393}ver{\kf1411} knew
-Dialogue: 0,0:00:17.64,0:00:21.71,DEFAULT,,0,0,0,,{\kf1393}And{\kf1397} so{\kf1407} much{\kf1407} I{\kf1397} ne{\kf1393}~{\kf1407}ver{\kf1407} would{\kf1393} have{\kf1393}~{\kf1465} known{\kf1393}~
-Dialogue: 0,0:00:23.42,0:00:25.78,DEFAULT,,0,0,0,,{\kf1407}With{\kf1436}out{\kf1486} you
-Dialogue: 0,0:00:27.53,0:00:30.56,DEFAULT,,0,0,0,,{\kf1393}It's{\kf1404} cra{\kf1393}zy{\kf1393} to{\kf1400} think{\kf1400} I've{\kf1393} come{\kf1393}~{\kf1404} this{\kf1425} far
-Dialogue: 0,0:00:30.92,0:00:35.42,DEFAULT,,0,0,0,,{\kf1393}For{\kf1400} most{\kf1400} of{\kf1393} my{\kf1400} life{\kf1400} I{\kf1390} felt{\kf1393}~{\kf1404} it'd{\kf1400} be{\kf1390} too{\kf1393}~{\kf1450} hard{\kf1400}~
-Dialogue: 0,0:00:36.71,0:00:39.28,DEFAULT,,0,0,0,,{\kf1407}Then{\kf1407} I{\kf1436} found{\kf1465} you
-Dialogue: 0,0:00:41.85,0:00:47.35,DEFAULT,,0,0,0,,{\kf1407}This{\kf1407} far{\kf1407}-less{\kf1393} ta{\kf1393}~{\kf1407}ken{\kf1400} path{\kf1404} is{\kf1429} long{\kf1429} and{\kf1429} win{\kf1390}ding{\kf1415}~
-Dialogue: 0,0:00:47.64,0:00:50.46,DEFAULT,,0,0,0,,{\kf1393}But{\kf1393} now{\kf1390} the{\kf1393} jour{\kf1393}ney{\kf1397} doe{\kf1393}sn't{\kf1400} feel{\kf1400} so{\kf1393} thank{\kf1393}~{\kf1404}less
-Dialogue: 0,0:00:50.64,0:00:53.17,DEFAULT,,0,0,0,,{\kf1407}Thanks{\kf1393} to{\kf1393} your{\kf1397} pa{\kf1393}~{\kf1497}tience
-Dialogue: 0,0:00:54.92,0:00:57.28,DEFAULT,,0,0,0,,{\kf1393}I{\kf1393} can't{\kf1400} help{\kf1415} feel{\kf1407}ing{\kf1393} weight{\kf1393}~{\kf1400}less
-Dialogue: 0,0:00:57.49,0:01:00.92,DEFAULT,,0,0,0,,{\kf1393}When{\kf1393} you{\kf1393}~{\kf1393} be{\kf1432}lieve{\kf1393}~{\kf1411} in{\kf1393}~{\kf1486} me
-Dialogue: 0,0:01:01.78,0:01:04.35,DEFAULT,,0,0,0,,{\kf1393}And{\kf1415} when{\kf1393} I{\kf1393} fall{\kf1393}~{\kf1393} a{\kf1393}~{\kf1432}gain{\kf1400}~
-Dialogue: 0,0:01:04.99,0:01:07.85,DEFAULT,,0,0,0,,{\kf1407}I{\kf1407} know{\kf1393} you'll{\kf1393} be{\kf1393}~{\kf1404} my{\kf1468} friend
-Dialogue: 0,0:01:08.42,0:01:17.56,DEFAULT,,0,0,0,,{\kf1407}So{\kf1436} tha{\kf1393}~{\kf1457}-a{\kf1436}-a{\kf1393}~{\kf1436}-a{\kf1393}-ank{\kf1522} you,{\kf1415} for{\kf1393} your{\kf1415} pa{\kf1393}~{\kf1522}tience
-Dialogue: 0,0:01:22.35,0:01:25.42,DEFAULT,,0,0,0,,{\kf1393}For{\kf1407} far{\kf1393} too{\kf1407} long{\kf1407} I'd{\kf1393} bathed{\kf1393}~{\kf1407} in{\kf1429} lies
-Dialogue: 0,0:01:25.78,0:01:30.85,DEFAULT,,0,0,0,,{\kf1393}You{\kf1407} came{\kf1393} a{\kf1407}long{\kf1407} and{\kf1393} proved{\kf1393}~{\kf1415} how{\kf1415} I{\kf1393} could{\kf1450}~{\kf1457} live{\kf1393}~
-Dialogue: 0,0:01:31.56,0:01:34.49,DEFAULT,,0,0,0,,{\kf1407}(How{\kf1407} life{\kf1440} could{\kf1497} be)
-Dialogue: 0,0:01:36.06,0:01:39.17,DEFAULT,,0,0,0,,{\kf1393}It{\kf1393} took{\kf1407} so{\kf1407} much{\kf1407} be{\kf1393}lief{\kf1393}~{\kf1407} in{\kf1432} me
-Dialogue: 0,0:01:39.49,0:01:45.03,DEFAULT,,0,0,0,,{\kf1393}You{\kf1397} said{\kf1407} it{\kf1407} would{\kf1407} be{\kf1393} worth{\kf1393}~{\kf1407} it,{\kf1407} now{\kf1393} I{\kf1443}~{\kf1525} see
-Dialogue: 0,0:01:45.28,0:01:48.35,DEFAULT,,0,0,0,,{\kf1415}(And{\kf1407} now{\kf1393} I{\kf1429}~{\kf1515} see)
-Dialogue: 0,0:01:50.42,0:01:52.81,DEFAULT,,0,0,0,,{\kf1407}This{\kf1407} far{\kf1407}-less{\kf1393} ta{\kf1393}~{\kf1407}ken{\kf1400} path
-Dialogue: 0,0:01:52.99,0:01:55.85,DEFAULT,,0,0,0,,{\kf1407}Is{\kf1429} long{\kf1429} and{\kf1429} win{\kf1386}ding{\kf1415}~
-Dialogue: 0,0:01:56.21,0:01:59.03,DEFAULT,,0,0,0,,{\kf1393}But{\kf1393} now{\kf1393} the{\kf1393} jour{\kf1393}ney{\kf1397} doe{\kf1393}sn't{\kf1397} feel{\kf1400} so{\kf1393} thank{\kf1393}~{\kf1404}less
-Dialogue: 0,0:01:59.21,0:02:01.74,DEFAULT,,0,0,0,,{\kf1407}Thanks{\kf1393} to{\kf1393} your{\kf1393} pa{\kf1393}~{\kf1500}tience
-Dialogue: 0,0:02:03.49,0:02:05.92,DEFAULT,,0,0,0,,{\kf1393}I{\kf1393} can't{\kf1404} help{\kf1411} feel{\kf1400}ing{\kf1393} weight{\kf1393}~{\kf1404}less
-Dialogue: 0,0:02:06.06,0:02:09.49,DEFAULT,,0,0,0,,{\kf1393}When{\kf1393} you{\kf1393}~{\kf1393} be{\kf1436}lieve{\kf1393}~{\kf1411} in{\kf1393}~{\kf1486} me
-Dialogue: 0,0:02:10.35,0:02:12.92,DEFAULT,,0,0,0,,{\kf1393}And{\kf1415} when{\kf1393} I{\kf1393} fall{\kf1393}~{\kf1393} a{\kf1393}~{\kf1436}gain{\kf1397}~
-Dialogue: 0,0:02:13.56,0:02:16.42,DEFAULT,,0,0,0,,{\kf1407}I{\kf1407} know{\kf1393} you'll{\kf1393} be{\kf1393}~{\kf1407} my{\kf1468} friend
-Dialogue: 0,0:02:16.99,0:02:25.92,DEFAULT,,0,0,0,,{\kf1407}So{\kf1436} tha{\kf1393}~{\kf1457}-a{\kf1436}-a{\kf1393}~{\kf1436}-a{\kf1393}-ank{\kf1522} you,{\kf1415} for{\kf1393} your{\kf1407} pa{\kf1400}~{\kf1472}tience{\kf1400}~
-Dialogue: 0,0:02:37.99,0:02:44.21,DEFAULT,,0,0,0,,{\kf1450}Gone{\kf1450} so{\kf1450} far{\kf1450} yet{\kf1450} far{\kf1450} to{\kf1486} go
-Dialogue: 0,0:02:44.85,0:02:51.06,DEFAULT,,0,0,0,,{\kf1450}Ne{\kf1450}ver{\kf1450}-end{\kf1450}ing{\kf1450} cy{\kf1436}-y{\kf1393}~{\kf1486}-cle
-Dialogue: 0,0:02:51.71,0:02:57.92,DEFAULT,,0,0,0,,{\kf1450}Your{\kf1450} love{\kf1450} gives{\kf1450} me{\kf1450} room{\kf1436} to{\kf1393}~{\kf1486} grow
-Dialogue: 0,0:02:58.56,0:03:04.56,DEFAULT,,0,0,0,,{\kf1450}Road{\kf1450} is{\kf1436} clear{\kf1393}~,{\kf1450} yet{\kf1450} so{\kf1393} un{\kf1436}~{\kf1465}known
-Dialogue: 0,0:03:04.78,0:03:07.60,DEFAULT,,0,0,0,,{\kf1393}But{\kf1393} now{\kf1393} the{\kf1393} jour{\kf1393}ney{\kf1397} doe{\kf1393}sn't{\kf1400} feel{\kf1400} so{\kf1393} thank{\kf1397}~{\kf1400}less
-Dialogue: 0,0:03:07.78,0:03:10.31,DEFAULT,,0,0,0,,{\kf1407}Thanks{\kf1393} to{\kf1393} your{\kf1393} pa{\kf1393}~{\kf1500}tience
-Dialogue: 0,0:03:12.06,0:03:14.46,DEFAULT,,0,0,0,,{\kf1393}I{\kf1393} can't{\kf1400} help{\kf1407} feel{\kf1400}ing{\kf1393} weight{\kf1393}~{\kf1400}less
-Dialogue: 0,0:03:14.64,0:03:18.06,DEFAULT,,0,0,0,,{\kf1393}When{\kf1393} you{\kf1393}~{\kf1393} be{\kf1432}lieve{\kf1393}~{\kf1411} in{\kf1393}~{\kf1482} me
-Dialogue: 0,0:03:18.92,0:03:21.49,DEFAULT,,0,0,0,,{\kf1393}And{\kf1411} when{\kf1393} I{\kf1393} fall{\kf1393}~{\kf1393} a{\kf1393}~{\kf1436}gain{\kf1400}~
-Dialogue: 0,0:03:22.14,0:03:25.03,DEFAULT,,0,0,0,,{\kf1407}I{\kf1407} know{\kf1393} you'll{\kf1393} be{\kf1393}~{\kf1407} my{\kf1472} friend
-Dialogue: 0,0:03:25.56,0:03:34.71,DEFAULT,,0,0,0,,{\kf1407}So{\kf1436} tha{\kf1393}~{\kf1457}-a{\kf1436}-a{\kf1393}~{\kf1436}-a{\kf1393}-ank{\kf1522} you,{\kf1415} for{\kf1393} your{\kf1415} pa{\kf1393}~{\kf1522}tience
-Dialogue: 0,0:03:38.85,0:03:41.35,DEFAULT,,0,0,0,,{\kf1415}For{\kf1393} your{\kf1407} pa{\kf1400}~{\kf1472}tience{\kf1400}~
+Dialogue: 0,0:00:13.78,0:00:17.36,DEFAULT,,0,0,0,,{\r}{\kf20}There's{\kf30} so{\kf25} much{\kf30} a{\kf30}bout{\kf30} my{\kf15}self{\kf30}~{\kf40} I{\kf45} ne{\kf20}ver{\kf42} knew
+Dialogue: 0,0:00:17.64,0:00:21.71,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf24} so{\kf38} much{\kf38} I{\kf24} ne{\kf19}~{\kf38}ver{\kf38} would{\kf19} have{\kf19}~{\kf114} known{\kf17}~
+Dialogue: 0,0:00:23.43,0:00:25.78,DEFAULT,,0,0,0,,{\r}{\kf35}With{\kf70}out{\kf131} you
+Dialogue: 0,0:00:27.53,0:00:30.57,DEFAULT,,0,0,0,,{\r}{\kf21}It's{\kf36} cra{\kf21}zy{\kf21} to{\kf31} think{\kf31} I've{\kf21} come{\kf21}~{\kf36} this{\kf65} far
+Dialogue: 0,0:00:30.93,0:00:35.43,DEFAULT,,0,0,0,,{\r}{\kf21}For{\kf32} most{\kf32} of{\kf21} my{\kf32} life{\kf32} I{\kf16} felt{\kf21}~{\kf37} it'd{\kf32} be{\kf16} too{\kf21}~{\kf106} hard{\kf31}~
+Dialogue: 0,0:00:36.71,0:00:39.28,DEFAULT,,0,0,0,,{\r}{\kf37}Then{\kf37} I{\kf73} found{\kf110} you
+Dialogue: 0,0:00:41.86,0:00:47.36,DEFAULT,,0,0,0,,{\r}{\kf41}This{\kf41} far{\kf41}-less{\kf20} ta{\kf20}~{\kf41}ken{\kf31} path{\kf36} is{\kf71} long{\kf71} and{\kf71} win{\kf15}ding{\kf51}~
+Dialogue: 0,0:00:47.64,0:00:50.46,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf21} now{\kf15} the{\kf21} jour{\kf21}ney{\kf26} doe{\kf21}sn't{\kf31} feel{\kf31} so{\kf21} thank{\kf21}~{\kf32}less
+Dialogue: 0,0:00:50.64,0:00:53.18,DEFAULT,,0,0,0,,{\r}{\kf35}Thanks{\kf18} to{\kf18} your{\kf22} pa{\kf18}~{\kf143}tience
+Dialogue: 0,0:00:54.93,0:00:57.28,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21} can't{\kf31} help{\kf51} feel{\kf41}ing{\kf21} weight{\kf21}~{\kf29}less
+Dialogue: 0,0:00:57.50,0:01:00.93,DEFAULT,,0,0,0,,{\r}{\kf18}When{\kf18} you{\kf18}~{\kf18} be{\kf66}lieve{\kf18}~{\kf40} in{\kf18}~{\kf129} me
+Dialogue: 0,0:01:01.78,0:01:04.36,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf47} when{\kf19} I{\kf19} fall{\kf19}~{\kf19} a{\kf19}~{\kf70}gain{\kf26}~
+Dialogue: 0,0:01:05.00,0:01:07.86,DEFAULT,,0,0,0,,{\r}{\kf38}I{\kf38} know{\kf19} you'll{\kf19} be{\kf19}~{\kf33} my{\kf120} friend
+Dialogue: 0,0:01:08.43,0:01:17.57,DEFAULT,,0,0,0,,{\r}{\kf37}So{\kf74} tha{\kf18}~{\kf102}-a{\kf74}-a{\kf18}~{\kf74}-a{\kf18}-ank{\kf185} you,{\kf46} for{\kf18} your{\kf46} pa{\kf18}~{\kf186}tience
+Dialogue: 0,0:01:22.36,0:01:25.43,DEFAULT,,0,0,0,,{\r}{\kf20}For{\kf40} far{\kf20} too{\kf40} long{\kf40} I'd{\kf20} bathed{\kf20}~{\kf40} in{\kf67} lies
+Dialogue: 0,0:01:25.78,0:01:30.86,DEFAULT,,0,0,0,,{\r}{\kf18}You{\kf37} came{\kf18} a{\kf37}long{\kf37} and{\kf18} proved{\kf18}~{\kf46} how{\kf46} I{\kf18} could{\kf92}~{\kf101} live{\kf21}~
+Dialogue: 0,0:01:31.57,0:01:34.50,DEFAULT,,0,0,0,,{\r}{\kf36}(How{\kf36} life{\kf75} could{\kf146} be)
+Dialogue: 0,0:01:36.07,0:01:39.18,DEFAULT,,0,0,0,,{\r}{\kf20}It{\kf20} took{\kf39} so{\kf39} much{\kf39} be{\kf20}lief{\kf20}~{\kf39} in{\kf75} me
+Dialogue: 0,0:01:39.50,0:01:45.03,DEFAULT,,0,0,0,,{\r}{\kf18}You{\kf23} said{\kf37} it{\kf37} would{\kf37} be{\kf18} worth{\kf18}~{\kf37} it,{\kf37} now{\kf18} I{\kf83}~{\kf191} see
+Dialogue: 0,0:01:45.28,0:01:48.36,DEFAULT,,0,0,0,,{\r}{\kf41}(And{\kf33} now{\kf17} I{\kf58}~{\kf158} see)
+Dialogue: 0,0:01:50.43,0:01:52.82,DEFAULT,,0,0,0,,{\r}{\kf42}This{\kf42} far{\kf42}-less{\kf21} ta{\kf21}~{\kf42}ken{\kf29} path
+Dialogue: 0,0:01:53.00,0:01:55.86,DEFAULT,,0,0,0,,{\r}{\kf37}Is{\kf65} long{\kf65} and{\kf65} win{\kf10}ding{\kf44}~
+Dialogue: 0,0:01:56.21,0:01:59.03,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf21} now{\kf21} the{\kf21} jour{\kf21}ney{\kf26} doe{\kf21}sn't{\kf26} feel{\kf31} so{\kf21} thank{\kf21}~{\kf31}less
+Dialogue: 0,0:01:59.21,0:02:01.75,DEFAULT,,0,0,0,,{\r}{\kf35}Thanks{\kf18} to{\kf18} your{\kf18} pa{\kf18}~{\kf147}tience
+Dialogue: 0,0:02:03.50,0:02:05.93,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} can't{\kf38} help{\kf49} feel{\kf32}ing{\kf22} weight{\kf22}~{\kf36}less
+Dialogue: 0,0:02:06.07,0:02:09.50,DEFAULT,,0,0,0,,{\r}{\kf17}When{\kf17} you{\kf17}~{\kf17} be{\kf69}lieve{\kf17}~{\kf39} in{\kf17}~{\kf133} me
+Dialogue: 0,0:02:10.36,0:02:12.93,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf47} when{\kf19} I{\kf19} fall{\kf19}~{\kf19} a{\kf19}~{\kf75}gain{\kf21}~
+Dialogue: 0,0:02:13.57,0:02:16.43,DEFAULT,,0,0,0,,{\r}{\kf38}I{\kf38} know{\kf19} you'll{\kf19} be{\kf19}~{\kf38} my{\kf115} friend
+Dialogue: 0,0:02:17.00,0:02:25.93,DEFAULT,,0,0,0,,{\r}{\kf38}So{\kf75} tha{\kf19}~{\kf103}-a{\kf75}-a{\kf19}~{\kf75}-a{\kf19}-ank{\kf188} you,{\kf47} for{\kf19} your{\kf38} pa{\kf28}~{\kf122}tience{\kf28}~
+Dialogue: 0,0:02:38.00,0:02:44.21,DEFAULT,,0,0,0,,{\r}{\kf83}Gone{\kf83} so{\kf83} far{\kf83} yet{\kf83} far{\kf83} to{\kf123} go
+Dialogue: 0,0:02:44.86,0:02:51.07,DEFAULT,,0,0,0,,{\r}{\kf83}Ne{\kf83}ver{\kf83}-end{\kf83}ing{\kf83} cy{\kf66}-y{\kf17}~{\kf123}-cle
+Dialogue: 0,0:02:51.71,0:02:57.93,DEFAULT,,0,0,0,,{\r}{\kf83}Your{\kf83} love{\kf83} gives{\kf83} me{\kf83} room{\kf66} to{\kf17}~{\kf123} grow
+Dialogue: 0,0:02:58.57,0:03:04.57,DEFAULT,,0,0,0,,{\r}{\kf83}Road{\kf83} is{\kf67} clear{\kf17}~,{\kf83} yet{\kf83} so{\kf17} un{\kf67}~{\kf100}known
+Dialogue: 0,0:03:04.78,0:03:07.61,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf20} now{\kf20} the{\kf20} jour{\kf20}ney{\kf25} doe{\kf20}sn't{\kf30} feel{\kf30} so{\kf20} thank{\kf25}~{\kf32}less
+Dialogue: 0,0:03:07.78,0:03:10.32,DEFAULT,,0,0,0,,{\r}{\kf35}Thanks{\kf18} to{\kf18} your{\kf18} pa{\kf18}~{\kf147}tience
+Dialogue: 0,0:03:12.07,0:03:14.46,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf23} can't{\kf34} help{\kf46} feel{\kf34}ing{\kf23} weight{\kf23}~{\kf33}less
+Dialogue: 0,0:03:14.64,0:03:18.07,DEFAULT,,0,0,0,,{\r}{\kf18}When{\kf18} you{\kf18}~{\kf18} be{\kf67}lieve{\kf18}~{\kf40} in{\kf18}~{\kf128} me
+Dialogue: 0,0:03:18.93,0:03:21.50,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf42} when{\kf19} I{\kf19} fall{\kf19}~{\kf19} a{\kf19}~{\kf75}gain{\kf26}~
+Dialogue: 0,0:03:22.14,0:03:25.03,DEFAULT,,0,0,0,,{\r}{\kf37}I{\kf37} know{\kf19} you'll{\kf19} be{\kf19}~{\kf37} my{\kf121} friend
+Dialogue: 0,0:03:25.57,0:03:34.71,DEFAULT,,0,0,0,,{\r}{\kf37}So{\kf74} tha{\kf18}~{\kf102}-a{\kf74}-a{\kf18}~{\kf74}-a{\kf18}-ank{\kf185} you,{\kf46} for{\kf18} your{\kf46} pa{\kf18}~{\kf186}tience
+Dialogue: 0,0:03:38.86,0:03:41.36,DEFAULT,,0,0,0,,{\r}{\kf42}For{\kf17} your{\kf33} pa{\kf25}~{\kf108}tience{\kf25}~

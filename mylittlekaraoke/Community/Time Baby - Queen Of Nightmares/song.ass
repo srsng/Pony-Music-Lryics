@@ -1,46 +1,53 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Queen Of Nightmares
+Artist: Time Baby
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:07.32,0:01:13.63,DEFAULT,,0,0,0,,{\kf36}So{\kf173} this{\kf23}~{\kf27} is{\kf203} my{\kf40} as{\kf58}cent
-Dialogue: 0,0:01:18.66,0:01:25.01,DEFAULT,,0,0,0,,{\kf31}A{\kf31} co{\kf71}ro{\kf36}na{\kf36}~{\kf53}tion{\kf31} on{\kf31}~{\kf62}ly{\kf58} I'll{\kf31} at{\kf53}~{\kf67}tend
-Dialogue: 0,0:01:29.95,0:01:36.48,DEFAULT,,0,0,0,,{\kf27}The{\kf173} night{\kf23}~{\kf31} of{\kf181} which{\kf27} I{\kf31} dreamed{\kf49}~
-Dialogue: 0,0:01:41.20,0:01:47.69,DEFAULT,,0,0,0,,{\kf31}With{\kf36} no{\kf53} one{\kf45} to{\kf49}~{\kf36} ad{\kf67}mi{\kf62}re{\kf45} it{\kf27} but{\kf49} me{\kf31}~
-Dialogue: 0,0:01:52.94,0:01:57.44,DEFAULT,,0,0,0,,{\kf23}In{\kf40} the{\kf36} dark{\kf27}~{\kf45}ness{\kf62} I've{\kf58} em{\kf67}braced
-Dialogue: 0,0:01:58.58,0:02:03.04,DEFAULT,,0,0,0,,{\kf27}I{\kf45} still{\kf58} see{\kf53} your{\kf53} twis{\kf36}ted{\kf23}~{\kf62} face
-Dialogue: 0,0:02:04.19,0:02:10.19,DEFAULT,,0,0,0,,{\kf40}"To{\kf27}~{\kf23} the{\kf58} moon" -{\kf31} my{\kf36} sis{\kf53}ter's{\kf71} i{\kf45}ro{\kf36}~{\kf36}ny{\kf31}~
-Dialogue: 0,0:03:00.30,0:03:06.70,DEFAULT,,0,0,0,,{\kf36}If{\kf168} this{\kf23}~{\kf31} is{\kf190} how{\kf31} it{\kf71} ends
-Dialogue: 0,0:03:11.91,0:03:17.77,DEFAULT,,0,0,0,,{\kf40}Night{\kf62}mare{\kf31} in{\kf27}~{\kf53}side{\kf67} me{\kf31} my{\kf71} on{\kf31}ly{\kf23}~{\kf58} friend
-Dialogue: 0,0:03:22.94,0:03:29.24,DEFAULT,,0,0,0,,{\kf23}How{\kf195} dif{\kf27}ferent{\kf173} will{\kf23} it{\kf40} be{\kf31}~
-Dialogue: 0,0:03:34.23,0:03:40.54,DEFAULT,,0,0,0,,{\kf23}From{\kf40} reign{\kf53}ing{\kf40} o{\kf31}~{\kf36}ver{\kf67} qui{\kf62}e{\kf71}tude{\kf31} and{\kf27}~{\kf36} sleep{\kf36}~
-Dialogue: 0,0:03:45.83,0:03:50.20,DEFAULT,,0,0,0,,{\kf27}Safe{\kf53} in{\kf40} dreams{\kf27}~{\kf45} so{\kf71} bright{\kf36} and{\kf23}~{\kf49} clear
-Dialogue: 0,0:03:51.17,0:03:55.98,DEFAULT,,0,0,0,,{\kf31}My{\kf36} sub{\kf45}jects{\kf40} can{\kf23}~{\kf58} i{\kf62}gnore{\kf31} their{\kf23}~{\kf62} fears
-Dialogue: 0,0:03:56.77,0:04:03.22,DEFAULT,,0,0,0,,{\kf23}But{\kf36} al{\kf40}so{\kf40} all{\kf27}~{\kf45} of{\kf53} my{\kf53} night's{\kf62} ma{\kf49}jes{\kf40}ty{\kf40}~
-Dialogue: 0,0:04:09.17,0:04:14.38,DEFAULT,,0,0,0,,{\kf45}My{\kf40} sto{\kf67}ry{\kf45} does{\kf40} not{\kf27}~{\kf62} end{\kf23} in{\kf31} this{\kf67} fall
-Dialogue: 0,0:04:14.60,0:04:17.86,DEFAULT,,0,0,0,,{\kf27}(My{\kf27} sto{\kf49}ry{\kf23} ne{\kf23}ver{\kf58} ends)
-Dialogue: 0,0:04:20.38,0:04:24.39,DEFAULT,,0,0,0,,{\kf45}Des{\kf36}pite{\kf23}~{\kf40} this{\kf62} e{\kf49}xo{\kf31}~{\kf75}dus
-Dialogue: 0,0:04:25.32,0:04:29.95,DEFAULT,,0,0,0,,{\kf36}I'll{\kf31}~{\kf27} re{\kf58}turn{\kf40}~{\kf31} to{\kf62} rule{\kf36} you{\kf18}~{\kf71} all
-Dialogue: 0,0:04:31.67,0:04:36.92,DEFAULT,,0,0,0,,{\kf45}So{\kf36} spend{\kf36} this{\kf67} night{\kf45} in{\kf67} sweet{\kf45} pur{\kf58}suit
-Dialogue: 0,0:04:42.04,0:04:47.11,DEFAULT,,0,0,0,,{\kf23}And{\kf45} hope{\kf23} the{\kf45} queen{\kf27}~{\kf49} of{\kf62} night{\kf62}mares{\kf45} smiles{\kf53}~
-Dialogue: 0,0:04:47.55,0:04:50.86,DEFAULT,,0,0,0,,{\kf36}U{\kf40}pon{\kf58}~{\kf45} your{\kf62} tri{\kf45}bute
-Dialogue: 0,0:05:15.88,0:05:22.14,DEFAULT,,0,0,0,,{\kf27}So{\kf173} dream{\kf31}~{\kf27} of{\kf195} me{\kf40} to{\kf67}night
-Dialogue: 0,0:05:27.44,0:05:33.39,DEFAULT,,0,0,0,,{\kf31}Show{\kf67} me{\kf36} your{\kf27}~{\kf62} de{\kf62}vo{\kf53}tion{\kf53} in{\kf58} your{\kf67} fright
-Dialogue: 0,0:05:38.77,0:05:44.64,DEFAULT,,0,0,0,,{\kf31}Know{\kf58} a{\kf36} world{\kf27}~{\kf58} fo{\kf53}re{\kf58}ver{\kf45} with{\kf53}out{\kf58} sun
-Dialogue: 0,0:05:50.02,0:05:56.20,DEFAULT,,0,0,0,,{\kf45}Drown{\kf53}ing{\kf53} in{\kf58} this{\kf67} ter{\kf62}ror{\kf58} I've{\kf40} be{\kf80}come
-Dialogue: 0,0:06:00.97,0:06:05.91,DEFAULT,,0,0,0,,{\kf31}My{\kf40} sis{\kf58}ter{\kf36} hides{\kf31}~{\kf49} a{\kf71} ty{\kf49}rant's{\kf71} lies
-Dialogue: 0,0:06:06.66,0:06:11.47,DEFAULT,,0,0,0,,{\kf27}In{\kf36} bright{\kf53}est{\kf40} day{\kf27}~{\kf40} and{\kf49} sun{\kf53}lit{\kf67} skies
-Dialogue: 0,0:06:12.30,0:06:18.52,DEFAULT,,0,0,0,,{\kf18}But{\kf40} in{\kf31} the{\kf40} world{\kf27}~{\kf40} I{\kf58} rule,{\kf31} there{\kf40} is{\kf53} no{\kf58} light
-Dialogue: 0,0:06:24.74,0:06:29.86,DEFAULT,,0,0,0,,{\kf49}My{\kf36} sto{\kf53}ry{\kf49} does{\kf36} not{\kf31}~{\kf49} end{\kf27} in{\kf31} this{\kf62} fall
-Dialogue: 0,0:06:30.08,0:06:33.44,DEFAULT,,0,0,0,,{\kf31}(My{\kf27} sto{\kf49}ry{\kf18} ne{\kf27}ver{\kf62} ends)
-Dialogue: 0,0:06:35.91,0:06:39.88,DEFAULT,,0,0,0,,{\kf36}Des{\kf36}pite{\kf27}~{\kf49} this{\kf53} e{\kf40}xo{\kf27}~{\kf71}dus
-Dialogue: 0,0:06:40.85,0:06:45.39,DEFAULT,,0,0,0,,{\kf40}I'll{\kf27}~{\kf36} re{\kf40}turn{\kf45}~{\kf27} to{\kf58} rule{\kf40} you{\kf23}~{\kf62} all
-Dialogue: 0,0:06:47.16,0:06:52.45,DEFAULT,,0,0,0,,{\kf45}So{\kf36} spend{\kf45} this{\kf67} night{\kf49} in{\kf67} sweet{\kf40} pur{\kf62}suit
-Dialogue: 0,0:06:57.57,0:07:02.55,DEFAULT,,0,0,0,,{\kf23}And{\kf53} hope{\kf27} the{\kf40} queen{\kf23}~{\kf40} of{\kf62} night{\kf58}mares{\kf45} smiles{\kf45}~
-Dialogue: 0,0:07:03.13,0:07:06.52,DEFAULT,,0,0,0,,{\kf36}U{\kf36}pon{\kf53}~{\kf49} your{\kf40} tri{\kf27}~{\kf53}bute
+Dialogue: 0,0:01:07.32,0:01:13.63,DEFAULT,,0,0,0,,{\r}{\kf40}So{\kf195} this{\kf25}~{\kf30} is{\kf230} my{\kf45} as{\kf66}cent
+Dialogue: 0,0:01:18.66,0:01:25.01,DEFAULT,,0,0,0,,{\r}{\kf33}A{\kf33} co{\kf76}ro{\kf38}na{\kf38}~{\kf57}tion{\kf33} on{\kf33}~{\kf67}ly{\kf62} I'll{\kf33} at{\kf57}~{\kf75}tend
+Dialogue: 0,0:01:29.96,0:01:36.48,DEFAULT,,0,0,0,,{\r}{\kf32}The{\kf209} night{\kf27}~{\kf37} of{\kf219} which{\kf32} I{\kf37} dreamed{\kf60}~
+Dialogue: 0,0:01:41.21,0:01:47.69,DEFAULT,,0,0,0,,{\r}{\kf38}With{\kf44} no{\kf65} one{\kf55} to{\kf60}~{\kf44} ad{\kf82}mi{\kf76}re{\kf55} it{\kf33} but{\kf60} me{\kf37}~
+Dialogue: 0,0:01:52.94,0:01:57.44,DEFAULT,,0,0,0,,{\r}{\kf28}In{\kf51} the{\kf45} dark{\kf34}~{\kf56}ness{\kf79} I've{\kf73} em{\kf84}braced
+Dialogue: 0,0:01:58.59,0:02:03.04,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf56} still{\kf72} see{\kf67} your{\kf67} twis{\kf45}ted{\kf28}~{\kf78} face
+Dialogue: 0,0:02:04.19,0:02:10.19,DEFAULT,,0,0,0,,{\r}{\kf50}"To{\kf33}~{\kf28} the{\kf72} moon" -{\kf39} my{\kf44} sis{\kf66}ter's{\kf88} i{\kf55}ro{\kf44}~{\kf44}ny{\kf37}~
+Dialogue: 0,0:03:00.31,0:03:06.71,DEFAULT,,0,0,0,,{\r}{\kf41}If{\kf196} this{\kf26}~{\kf36} is{\kf222} how{\kf36} it{\kf83} ends
+Dialogue: 0,0:03:11.91,0:03:17.78,DEFAULT,,0,0,0,,{\r}{\kf48}Night{\kf74}mare{\kf37} in{\kf32}~{\kf63}side{\kf79} me{\kf37} my{\kf85} on{\kf37}ly{\kf26}~{\kf69} friend
+Dialogue: 0,0:03:22.94,0:03:29.25,DEFAULT,,0,0,0,,{\r}{\kf27}How{\kf241} dif{\kf33}ferent{\kf214} will{\kf27} it{\kf49} be{\kf40}~
+Dialogue: 0,0:03:34.23,0:03:40.54,DEFAULT,,0,0,0,,{\r}{\kf25}From{\kf46} reign{\kf61}ing{\kf46} o{\kf36}~{\kf41}ver{\kf76} qui{\kf71}e{\kf81}tude{\kf36} and{\kf31}~{\kf41} sleep{\kf40}~
+Dialogue: 0,0:03:45.84,0:03:50.21,DEFAULT,,0,0,0,,{\r}{\kf32}Safe{\kf63} in{\kf47} dreams{\kf32}~{\kf53} so{\kf84} bright{\kf42} and{\kf26}~{\kf58} clear
+Dialogue: 0,0:03:51.18,0:03:55.98,DEFAULT,,0,0,0,,{\r}{\kf37}My{\kf42} sub{\kf52}jects{\kf47} can{\kf26}~{\kf68} i{\kf73}gnore{\kf37} their{\kf26}~{\kf73} fears
+Dialogue: 0,0:03:56.78,0:04:03.22,DEFAULT,,0,0,0,,{\r}{\kf28}But{\kf45} al{\kf51}so{\kf51} all{\kf34}~{\kf56} of{\kf68} my{\kf68} night's{\kf79} ma{\kf62}jes{\kf51}ty{\kf51}~
+Dialogue: 0,0:04:09.18,0:04:14.38,DEFAULT,,0,0,0,,{\r}{\kf52}My{\kf47} sto{\kf78}ry{\kf52} does{\kf47} not{\kf31}~{\kf73} end{\kf26} in{\kf36} this{\kf79} fall
+Dialogue: 0,0:04:14.60,0:04:17.87,DEFAULT,,0,0,0,,{\r}{\kf43}(My{\kf43} sto{\kf78}ry{\kf35} ne{\kf35}ver{\kf92} ends)
+Dialogue: 0,0:04:20.38,0:04:24.40,DEFAULT,,0,0,0,,{\r}{\kf50}Des{\kf40}pite{\kf25}~{\kf45} this{\kf69} e{\kf54}xo{\kf35}~{\kf83}dus
+Dialogue: 0,0:04:25.32,0:04:29.96,DEFAULT,,0,0,0,,{\r}{\kf40}I'll{\kf35}~{\kf30} re{\kf65}turn{\kf45}~{\kf35} to{\kf70} rule{\kf40} you{\kf20}~{\kf83} all
+Dialogue: 0,0:04:31.68,0:04:36.93,DEFAULT,,0,0,0,,{\r}{\kf59}So{\kf47} spend{\kf47} this{\kf88} night{\kf59} in{\kf88} sweet{\kf59} pur{\kf78}suit
+Dialogue: 0,0:04:42.04,0:04:47.12,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf52} hope{\kf26} the{\kf52} queen{\kf31}~{\kf57} of{\kf73} night{\kf73}mares{\kf52} smiles{\kf65}~
+Dialogue: 0,0:04:47.56,0:04:50.87,DEFAULT,,0,0,0,,{\r}{\kf41}U{\kf47}pon{\kf67}~{\kf52} your{\kf72} tri{\kf52}bute
+Dialogue: 0,0:05:15.88,0:05:22.15,DEFAULT,,0,0,0,,{\r}{\kf30}So{\kf194} dream{\kf35}~{\kf30} of{\kf219} me{\kf45} to{\kf73}night
+Dialogue: 0,0:05:27.44,0:05:33.40,DEFAULT,,0,0,0,,{\r}{\kf36}Show{\kf77} me{\kf41} your{\kf31}~{\kf72} de{\kf72}vo{\kf62}tion{\kf62} in{\kf67} your{\kf76} fright
+Dialogue: 0,0:05:38.78,0:05:44.65,DEFAULT,,0,0,0,,{\r}{\kf38}Know{\kf71} a{\kf44} world{\kf33}~{\kf71} fo{\kf66}re{\kf71}ver{\kf55} with{\kf66}out{\kf72} sun
+Dialogue: 0,0:05:50.03,0:05:56.21,DEFAULT,,0,0,0,,{\r}{\kf53}Drown{\kf64}ing{\kf64} in{\kf69} this{\kf80} ter{\kf75}ror{\kf69} I've{\kf48} be{\kf96}come
+Dialogue: 0,0:06:00.97,0:06:05.91,DEFAULT,,0,0,0,,{\r}{\kf35}My{\kf45} sis{\kf66}ter{\kf40} hides{\kf35}~{\kf55} a{\kf81} ty{\kf55}rant's{\kf82} lies
+Dialogue: 0,0:06:06.66,0:06:11.47,DEFAULT,,0,0,0,,{\r}{\kf33}In{\kf44} bright{\kf66}est{\kf49} day{\kf33}~{\kf49} and{\kf60} sun{\kf66}lit{\kf81} skies
+Dialogue: 0,0:06:12.31,0:06:18.53,DEFAULT,,0,0,0,,{\r}{\kf25}But{\kf57} in{\kf44} the{\kf57} world{\kf38}~{\kf57} I{\kf83} rule,{\kf44} there{\kf57} is{\kf76} no{\kf84} light
+Dialogue: 0,0:06:24.75,0:06:29.87,DEFAULT,,0,0,0,,{\r}{\kf59}My{\kf43} sto{\kf65}ry{\kf59} does{\kf43} not{\kf38}~{\kf59} end{\kf32} in{\kf38} this{\kf76} fall
+Dialogue: 0,0:06:30.09,0:06:33.44,DEFAULT,,0,0,0,,{\r}{\kf49}(My{\kf42} sto{\kf77}ry{\kf28} ne{\kf42}ver{\kf97} ends)
+Dialogue: 0,0:06:35.91,0:06:39.88,DEFAULT,,0,0,0,,{\r}{\kf42}Des{\kf42}pite{\kf31}~{\kf57} this{\kf63} e{\kf47}xo{\kf31}~{\kf84}dus
+Dialogue: 0,0:06:40.85,0:06:45.40,DEFAULT,,0,0,0,,{\r}{\kf46}I'll{\kf31}~{\kf41} re{\kf46}turn{\kf51}~{\kf31} to{\kf66} rule{\kf46} you{\kf26}~{\kf70} all
+Dialogue: 0,0:06:47.16,0:06:52.46,DEFAULT,,0,0,0,,{\r}{\kf58}So{\kf46} spend{\kf58} this{\kf86} night{\kf63} in{\kf86} sweet{\kf52} pur{\kf80}suit
+Dialogue: 0,0:06:57.57,0:07:02.56,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf64} hope{\kf32} the{\kf48} queen{\kf27}~{\kf48} of{\kf75} night{\kf70}mares{\kf54} smiles{\kf54}~
+Dialogue: 0,0:07:03.13,0:07:06.53,DEFAULT,,0,0,0,,{\r}{\kf41}U{\kf41}pon{\kf62}~{\kf57} your{\kf46} tri{\kf31}~{\kf62}bute

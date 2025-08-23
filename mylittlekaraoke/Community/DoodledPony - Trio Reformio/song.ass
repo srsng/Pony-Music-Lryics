@@ -1,21 +1,28 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Trio Reformio
+Artist: DoodledPony
+Original Timing: mylittlekaraoke.com by ShTHfan1
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.03,0:00:01.64,DEFAULT,,0,0,0,,{\kf15}Yeah,{\kf12} you{\kf27} guys{\kf12} should{\kf19} form{\kf12} a{\kf45} band
-Dialogue: 0,0:00:01.72,0:00:04.12,DEFAULT,,0,0,0,,{\kf23}Like{\kf15} the{\kf30} Tri{\kf23}o{\kf19} Re{\kf19}for{\kf19}mi{\kf53}o!
-Dialogue: 0,0:00:04.27,0:00:05.36,DEFAULT,,0,0,0,,{\kf19}We{\kf15} used{\kf19} to{\kf12} be{\kf27} bad
-Dialogue: 0,0:00:05.43,0:00:06.78,DEFAULT,,0,0,0,,{\kf27}But{\kf23} now{\kf23} we're{\kf15} o{\kf12}kay{\kf19}-ish
-Dialogue: 0,0:00:06.86,0:00:08.02,DEFAULT,,0,0,0,,{\kf4}I{\kf8} mean,{\kf8} I{\kf19} guess{\kf23} I'm{\kf15} O{\kf19}P
-Dialogue: 0,0:00:08.13,0:00:09.41,DEFAULT,,0,0,0,,{\kf30}And{\kf15} this{\kf23} guy's{\kf19} swiss{\kf27} cheese
-Dialogue: 0,0:00:09.48,0:00:11.06,DEFAULT,,0,0,0,,{\kf27}And{\kf15} Tri{\kf8}xie's{\kf15} still{\kf15} a{\kf30} jerk,{\kf27} but
-Dialogue: 0,0:00:11.13,0:00:11.58,DEFAULT,,0,0,0,,{\kf45}HEY!
-Dialogue: 0,0:00:11.62,0:00:13.34,DEFAULT,,0,0,0,,{\kf12}At{\kf15} least{\kf12} we're{\kf30} not{\kf15} e{\kf72}vil
-Dialogue: 0,0:00:13.42,0:00:14.77,DEFAULT,,0,0,0,,{\kf12}A{\kf15}ny{\kf98}more...
+Dialogue: 0,0:00:00.04,0:00:01.65,DEFAULT,,0,0,0,,{\r}{\kf17}Yeah,{\kf13} you{\kf30} guys{\kf13} should{\kf22} form{\kf13} a{\kf53} band
+Dialogue: 0,0:00:01.72,0:00:04.12,DEFAULT,,0,0,0,,{\r}{\kf27}Like{\kf18} the{\kf36} Tri{\kf27}o{\kf23} Re{\kf23}for{\kf23}mi{\kf63}o!
+Dialogue: 0,0:00:04.27,0:00:05.36,DEFAULT,,0,0,0,,{\r}{\kf23}We{\kf18} used{\kf23} to{\kf14} be{\kf31} bad
+Dialogue: 0,0:00:05.44,0:00:06.79,DEFAULT,,0,0,0,,{\r}{\kf30}But{\kf26} now{\kf26} we're{\kf17} o{\kf13}kay{\kf23}-ish
+Dialogue: 0,0:00:06.86,0:00:08.02,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf10} mean,{\kf10} I{\kf23} guess{\kf28} I'm{\kf19} O{\kf16}P
+Dialogue: 0,0:00:08.14,0:00:09.41,DEFAULT,,0,0,0,,{\r}{\kf34}And{\kf17} this{\kf26} guy's{\kf21} swiss{\kf30} cheese
+Dialogue: 0,0:00:09.49,0:00:11.06,DEFAULT,,0,0,0,,{\r}{\kf31}And{\kf17} Tri{\kf10}xie's{\kf17} still{\kf17} a{\kf35} jerk,{\kf30} but
+Dialogue: 0,0:00:11.14,0:00:11.59,DEFAULT,,0,0,0,,{\r}{\kf45}HEY!
+Dialogue: 0,0:00:11.62,0:00:13.35,DEFAULT,,0,0,0,,{\r}{\kf13}At{\kf17} least{\kf13} we're{\kf34} not{\kf17} e{\kf78}vil
+Dialogue: 0,0:00:13.42,0:00:14.77,DEFAULT,,0,0,0,,{\r}{\kf12}A{\kf16}ny{\kf107}more...

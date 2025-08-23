@@ -1,28 +1,35 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Szemem tele csodával
+Artist: Én Kicsi Pónim
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.64,0:00:03.21,DEFAULT,,0,0,0,,{\kf39}Men{\kf29}nye{\kf24}i{\kf53} táj
-Dialogue: 0,0:00:03.31,0:00:05.79,DEFAULT,,0,0,0,,{\kf20}Sze{\kf24}mem{\kf24} te{\kf29}le{\kf29} cso{\kf43}dá{\kf39}val
-Dialogue: 0,0:00:06.03,0:00:07.56,DEFAULT,,0,0,0,,{\kf29}Bű{\kf29}bá{\kf29}jos{\kf48} hely
-Dialogue: 0,0:00:07.75,0:00:10.33,DEFAULT,,0,0,0,,{\kf20}Csu{\kf20}pa{\kf39} szí{\kf29}nes{\kf24} va{\kf43}ráz{\kf48}zsal
-Dialogue: 0,0:00:10.62,0:00:12.10,DEFAULT,,0,0,0,,{\kf34}Mó{\kf29}kus{\kf20} a{\kf48} fán
-Dialogue: 0,0:00:12.19,0:00:14.49,DEFAULT,,0,0,0,,{\kf20}Nyu{\kf20}szi{\kf34} köly{\kf34}kök{\kf15} a{\kf39} fű{\kf29}ben
-Dialogue: 0,0:00:14.87,0:00:16.44,DEFAULT,,0,0,0,,{\kf39}Fenn{\kf20} a{\kf20} ma{\kf53}dár
-Dialogue: 0,0:00:16.68,0:00:19.31,DEFAULT,,0,0,0,,{\kf20}I{\kf20}de{\kf48}lenn{\kf29} ki{\kf29}csi{\kf58} mé{\kf39}hek
-Dialogue: 0,0:00:19.55,0:00:23.42,DEFAULT,,0,0,0,,{\kf129}Él{\kf258}nek
-Dialogue: 0,0:00:25.23,0:00:27.67,DEFAULT,,0,0,0,,{\kf106}Ó,{\kf20} csu{\kf15}da{\kf24} gyö{\kf15}nyö{\kf20}rű{\kf34} táj
-Dialogue: 0,0:00:27.72,0:00:29.06,DEFAULT,,0,0,0,,{\kf24}Ott{\kf15} az{\kf29} ég{\kf20}ben{\kf24} sok
-Dialogue: 0,0:00:29.20,0:00:30.58,DEFAULT,,0,0,0,,{\kf29}Szár{\kf20}nyas{\kf20} pe{\kf15}ga{\kf15}zus{\kf34} száll
-Dialogue: 0,0:00:30.78,0:00:32.16,DEFAULT,,0,0,0,,{\kf20}Most{\kf10} hogy{\kf29} lát{\kf29}tam{\kf39} már
-Dialogue: 0,0:00:32.21,0:00:33.55,DEFAULT,,0,0,0,,{\kf20}Ezt{\kf20} a{\kf20} csu{\kf20}da{\kf20} he{\kf29}lyet
-Dialogue: 0,0:00:33.69,0:00:35.07,DEFAULT,,0,0,0,,{\kf20}Ma{\kf10}ra{\kf20}dok{\kf29} itt{\kf24} to{\kf39}vább
-Dialogue: 0,0:00:35.12,0:00:36.46,DEFAULT,,0,0,0,,{\kf34}És{\kf20} so{\kf24}se{\kf20} me{\kf29}gyek
-Dialogue: 0,0:00:36.56,0:00:44.68,DEFAULT,,0,0,0,,{\kf34}Itt{\kf58} él{\kf53}ni{\kf72} sze{\kf72}re{\kf478}tek!
+Dialogue: 0,0:00:01.64,0:00:03.22,DEFAULT,,0,0,0,,{\r}{\kf42}Men{\kf32}nye{\kf26}i{\kf58} táj
+Dialogue: 0,0:00:03.31,0:00:05.80,DEFAULT,,0,0,0,,{\r}{\kf23}Sze{\kf29}mem{\kf29} te{\kf35}le{\kf35} cso{\kf52}dá{\kf45}val
+Dialogue: 0,0:00:06.03,0:00:07.56,DEFAULT,,0,0,0,,{\r}{\kf33}Bű{\kf33}bá{\kf33}jos{\kf54} hely
+Dialogue: 0,0:00:07.75,0:00:10.33,DEFAULT,,0,0,0,,{\r}{\kf22}Csu{\kf22}pa{\kf45} szí{\kf34}nes{\kf28} va{\kf50}ráz{\kf57}zsal
+Dialogue: 0,0:00:10.62,0:00:12.10,DEFAULT,,0,0,0,,{\r}{\kf38}Mó{\kf33}kus{\kf22} a{\kf55} fán
+Dialogue: 0,0:00:12.20,0:00:14.49,DEFAULT,,0,0,0,,{\r}{\kf23}Nyu{\kf23}szi{\kf41} köly{\kf41}kök{\kf18} a{\kf47} fű{\kf36}ben
+Dialogue: 0,0:00:14.87,0:00:16.45,DEFAULT,,0,0,0,,{\r}{\kf47}Fenn{\kf23} a{\kf23} ma{\kf65}dár
+Dialogue: 0,0:00:16.69,0:00:19.32,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21}de{\kf53}lenn{\kf32} ki{\kf32}csi{\kf63} mé{\kf41}hek
+Dialogue: 0,0:00:19.55,0:00:23.42,DEFAULT,,0,0,0,,{\r}{\kf129}Él{\kf258}nek
+Dialogue: 0,0:00:25.24,0:00:27.68,DEFAULT,,0,0,0,,{\r}{\kf112}Ó,{\kf20} csu{\kf15}da{\kf25} gyö{\kf15}nyö{\kf20}rű{\kf37} táj
+Dialogue: 0,0:00:27.72,0:00:29.06,DEFAULT,,0,0,0,,{\r}{\kf29}Ott{\kf17} az{\kf35} ég{\kf23}ben{\kf30} sok
+Dialogue: 0,0:00:29.20,0:00:30.59,DEFAULT,,0,0,0,,{\r}{\kf31}Szár{\kf21}nyas{\kf21} pe{\kf15}ga{\kf15}zus{\kf36} száll
+Dialogue: 0,0:00:30.78,0:00:32.17,DEFAULT,,0,0,0,,{\r}{\kf21}Most{\kf11} hogy{\kf32} lát{\kf32}tam{\kf43} már
+Dialogue: 0,0:00:32.21,0:00:33.55,DEFAULT,,0,0,0,,{\r}{\kf21}Ezt{\kf21} a{\kf21} csu{\kf21}da{\kf21} he{\kf29}lyet
+Dialogue: 0,0:00:33.69,0:00:35.08,DEFAULT,,0,0,0,,{\r}{\kf19}Ma{\kf10}ra{\kf19}dok{\kf29} itt{\kf24} to{\kf38}vább
+Dialogue: 0,0:00:35.13,0:00:36.46,DEFAULT,,0,0,0,,{\r}{\kf36}És{\kf21} so{\kf26}se{\kf21} me{\kf30}gyek
+Dialogue: 0,0:00:36.56,0:00:44.68,DEFAULT,,0,0,0,,{\r}{\kf36}Itt{\kf61} él{\kf56}ni{\kf76} sze{\kf76}re{\kf507}tek!

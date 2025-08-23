@@ -1,66 +1,73 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Hell To Your Doorstep
+Artist: The Count Of Monte Cristo
+Original Timing: mylittlekaraoke.com by RustyHeadphones
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.66,0:00:06.81,DEFAULT,,0,0,0,,{\kf19}The{\kf19} world{\kf12} is{\kf10} a{\kf21} place
-Dialogue: 0,0:00:07.59,0:00:09.99,DEFAULT,,0,0,0,,{\kf14}Where{\kf14} the{\kf14} vil{\kf14}lains{\kf14} wear{\kf10} a{\kf19} smile{\kf12} on{\kf17} their{\kf30} face
-Dialogue: 0,0:00:10.50,0:00:12.73,DEFAULT,,0,0,0,,{\kf17}While{\kf17} they{\kf14} take{\kf10} what{\kf14} you{\kf21} can{\kf14} ne{\kf12}ver{\kf14} re{\kf26}place
-Dialogue: 0,0:00:13.40,0:00:15.84,DEFAULT,,0,0,0,,{\kf14}Sto{\kf17}len{\kf17} mo{\kf17}ments{\kf26} gone{\kf21} for{\kf19}e{\kf56}ver
-Dialogue: 0,0:00:17.23,0:00:18.56,DEFAULT,,0,0,0,,{\kf17}Well,{\kf24} ta{\kf12}bles{\kf12} can{\kf28} turn
-Dialogue: 0,0:00:19.25,0:00:21.97,DEFAULT,,0,0,0,,{\kf12}As{\kf14} my{\kf17} e{\kf17}ne{\kf14}mies{\kf21} will{\kf24} soon{\kf14} e{\kf14}nough{\kf58} learn
-Dialogue: 0,0:00:22.16,0:00:24.69,DEFAULT,,0,0,0,,{\kf17}I{\kf17} will{\kf17} strike{\kf14} a{\kf14} match{\kf19} and{\kf17} then{\kf17} watch{\kf19} them{\kf30} burn
-Dialogue: 0,0:00:25.06,0:00:27.53,DEFAULT,,0,0,0,,{\kf19}On{\kf17} the{\kf14} py{\kf12}re{\kf17} of{\kf14} ob{\kf19}ses{\kf67}sion
-Dialogue: 0,0:00:28.80,0:00:30.06,DEFAULT,,0,0,0,,{\kf19}You{\kf24} run{\kf10} ’till{\kf17} you{\kf21} drop
-Dialogue: 0,0:00:30.82,0:00:32.64,DEFAULT,,0,0,0,,{\kf19}Cha{\kf19}sing{\kf28} on{\kf14} ad{\kf21}van{\kf24}tage
-Dialogue: 0,0:00:34.74,0:00:36.13,DEFAULT,,0,0,0,,{\kf17}You’ll{\kf30} pay{\kf12} a{\kf17}ny{\kf35} price
-Dialogue: 0,0:00:36.68,0:00:40.14,DEFAULT,,0,0,0,,{\kf21}If{\kf21} you{\kf26} think{\kf47} it’s{\kf134} free
-Dialogue: 0,0:00:40.83,0:00:43.66,DEFAULT,,0,0,0,,{\kf33}I{\kf28} will{\kf35} car{\kf30}ry{\kf33} hell{\kf12} to{\kf21} your{\kf28} door{\kf21}step
-Dialogue: 0,0:00:44.01,0:00:45.76,DEFAULT,,0,0,0,,{\kf26}I{\kf21} will{\kf24} make{\kf26} you{\kf54} pay
-Dialogue: 0,0:00:46.68,0:00:49.29,DEFAULT,,0,0,0,,{\kf28}You{\kf30} will{\kf26} reap{\kf21} the{\kf24} hate{\kf21} you’ve{\kf33} sown
-Dialogue: 0,0:00:49.84,0:00:52.40,DEFAULT,,0,0,0,,{\kf26}On{\kf21} my{\kf26} judg{\kf19}ment{\kf19} da{\kf12}-a{\kf93}-ay
-Dialogue: 0,0:00:52.67,0:00:55.46,DEFAULT,,0,0,0,,{\kf35}Sleep{\kf26}less{\kf35} nights{\kf14} and{\kf24} days{\kf14} of{\kf17} dam{\kf28}na{\kf26}tion
-Dialogue: 0,0:00:55.90,0:00:57.65,DEFAULT,,0,0,0,,{\kf21}Soon{\kf30} and{\kf21} e{\kf21}ver{\kf49}more
-Dialogue: 0,0:00:58.53,0:01:01.09,DEFAULT,,0,0,0,,{\kf28}I{\kf28} will{\kf26} bring{\kf24} the{\kf17} Châ{\kf19}teau{\kf30} D’If
-Dialogue: 0,0:01:01.48,0:01:03.74,DEFAULT,,0,0,0,,{\kf24}Kno{\kf14}cking{\kf17} u{\kf26}pon{\kf19} your{\kf54} door
-Dialogue: 0,0:01:05.58,0:01:06.96,DEFAULT,,0,0,0,,{\kf21}And{\kf24} love{\kf10} is{\kf10} a{\kf49} lie
-Dialogue: 0,0:01:07.61,0:01:10.19,DEFAULT,,0,0,0,,{\kf17}Swea{\kf19}ring{\kf17} that{\kf17} no{\kf14} mat{\kf12}ter{\kf19} what{\kf19} it{\kf24} won’t{\kf54} die
-Dialogue: 0,0:01:10.56,0:01:12.86,DEFAULT,,0,0,0,,{\kf12}Dis{\kf17}ap{\kf14}pea{\kf17}ring{\kf17} like{\kf12} a{\kf17} star{\kf14} in{\kf17} the{\kf26} sky
-Dialogue: 0,0:01:13.46,0:01:16.09,DEFAULT,,0,0,0,,{\kf21}In{\kf17} the{\kf19} hot{\kf24} light{\kf19} of{\kf54} mor{\kf83}ning
-Dialogue: 0,0:01:17.34,0:01:18.81,DEFAULT,,0,0,0,,{\kf21}But{\kf21} what{\kf17} do{\kf19} I{\kf54} care?
-Dialogue: 0,0:01:19.36,0:01:21.90,DEFAULT,,0,0,0,,{\kf12}There{\kf17} are{\kf17} wo{\kf14}men{\kf17} to{\kf17} be{\kf26} had{\kf24} e{\kf26}very{\kf44}where
-Dialogue: 0,0:01:22.34,0:01:24.85,DEFAULT,,0,0,0,,{\kf17}First{\kf14} there’s{\kf14} re{\kf12}tri{\kf17}bu{\kf12}tion{\kf19} I{\kf12} must{\kf17} pre{\kf56}pare
-Dialogue: 0,0:01:25.31,0:01:28.54,DEFAULT,,0,0,0,,{\kf17}Migh{\kf12}ty{\kf21} ven{\kf21}geance{\kf17} is{\kf192} mine
-Dialogue: 0,0:01:29.18,0:01:30.84,DEFAULT,,0,0,0,,{\kf17}I{\kf17} have{\kf19} a{\kf26} nice{\kf51} show
-Dialogue: 0,0:01:31.19,0:01:34.25,DEFAULT,,0,0,0,,{\kf24}That{\kf17} will{\kf26} tempt{\kf17} you{\kf35} o{\kf26}-on{\kf97}ward
-Dialogue: 0,0:01:35.15,0:01:36.93,DEFAULT,,0,0,0,,{\kf19}And{\kf17} just{\kf17} when{\kf21} you’re{\kf63} sure
-Dialogue: 0,0:01:37.23,0:01:40.62,DEFAULT,,0,0,0,,{\kf17}That{\kf10} the{\kf56} prize{\kf17} is{\kf199} yours
-Dialogue: 0,0:01:41.26,0:01:44.12,DEFAULT,,0,0,0,,{\kf28}I’ll{\kf30} de{\kf26}li{\kf30}ver{\kf26} hell{\kf14} to{\kf17} your{\kf24} door{\kf24}step
-Dialogue: 0,0:01:44.51,0:01:46.61,DEFAULT,,0,0,0,,{\kf19}Dressed{\kf21} in{\kf24} rich{\kf17} fa{\kf65}cade
-Dialogue: 0,0:01:47.18,0:01:49.83,DEFAULT,,0,0,0,,{\kf26}Then,{\kf30} I’ll{\kf33} burn{\kf30} you{\kf30} to{\kf21} the{\kf49} ground
-Dialogue: 0,0:01:50.43,0:01:52.88,DEFAULT,,0,0,0,,{\kf17}Like{\kf19} an{\kf33} an{\kf12}gry{\kf24} go{\kf12}-o{\kf93}-od
-Dialogue: 0,0:01:53.34,0:01:55.92,DEFAULT,,0,0,0,,{\kf19}Once{\kf17} you’re{\kf30} in{\kf24} my{\kf30} shi{\kf12}ning{\kf17} ca{\kf26}the{\kf33}dral
-Dialogue: 0,0:01:56.20,0:01:57.95,DEFAULT,,0,0,0,,{\kf26}Heed{\kf17} the{\kf30} tol{\kf17}ling{\kf14} be{\kf40}-ell
-Dialogue: 0,0:01:58.94,0:02:01.64,DEFAULT,,0,0,0,,{\kf21}It’s{\kf24} the{\kf30} fi{\kf24}nal{\kf28} sound{\kf28} you{\kf37} hear
-Dialogue: 0,0:02:01.96,0:02:04.01,DEFAULT,,0,0,0,,{\kf24}As{\kf21} you{\kf17} de{\kf40}scend{\kf12} to{\kf47} hell
-Dialogue: 0,0:02:04.98,0:02:07.51,DEFAULT,,0,0,0,,{\kf72}Fall{\kf51} down{\kf24} on{\kf30} your{\kf30} knees
-Dialogue: 0,0:02:07.95,0:02:10.32,DEFAULT,,0,0,0,,{\kf33}Fall{\kf17} down{\kf17} and{\kf17} let{\kf19} me{\kf26} hear{\kf21} you{\kf33} pray
-Dialogue: 0,0:02:10.99,0:02:13.48,DEFAULT,,0,0,0,,{\kf58}Fall{\kf54} down{\kf24} on{\kf24} your{\kf30} knees
-Dialogue: 0,0:02:13.90,0:02:16.82,DEFAULT,,0,0,0,,{\kf26}’till{\kf24} I{\kf14} can{\kf24} hear{\kf30} you{\kf19} bar{\kf12}gai{\kf21}ning,{\kf17} sche{\kf26}ming
-Dialogue: 0,0:02:17.17,0:02:20.67,DEFAULT,,0,0,0,,{\kf12}Beg{\kf17}ging{\kf17} and{\kf21} screa{\kf24}ming{\kf14} to{\kf226} me
-Dialogue: 0,0:02:21.23,0:02:24.11,DEFAULT,,0,0,0,,{\kf30}I{\kf28} will{\kf35} car{\kf35}ry{\kf28} hell{\kf12} to{\kf21} your{\kf28} door{\kf30}step
-Dialogue: 0,0:02:24.36,0:02:26.21,DEFAULT,,0,0,0,,{\kf26}You{\kf24} will{\kf35} ru{\kf24}-ue{\kf12} the{\kf40} day
-Dialogue: 0,0:02:27.13,0:02:29.89,DEFAULT,,0,0,0,,{\kf28}You{\kf33} will{\kf30} reap{\kf28} the{\kf26} hate{\kf19} you’ve{\kf40} sown
-Dialogue: 0,0:02:30.26,0:02:32.66,DEFAULT,,0,0,0,,{\kf19}No{\kf17} mat{\kf17}ter{\kf21} how{\kf19} hard{\kf17} you{\kf104} pray
-Dialogue: 0,0:02:33.10,0:02:35.89,DEFAULT,,0,0,0,,{\kf21}It’s{\kf26} a{\kf28} place{\kf17} with{\kf28}out{\kf14} a{\kf21}ny{\kf33} mer{\kf33}cy
-Dialogue: 0,0:02:36.25,0:02:38.01,DEFAULT,,0,0,0,,{\kf26}Fa{\kf21}shioned{\kf19} in{\kf30} cold{\kf42} blood
-Dialogue: 0,0:02:38.88,0:02:41.51,DEFAULT,,0,0,0,,{\kf37}Stones{\kf17} of{\kf30} fear{\kf21} and{\kf24} stones{\kf19} of{\kf33} doubt
-Dialogue: 0,0:02:42.11,0:02:44.60,DEFAULT,,0,0,0,,{\kf28}No{\kf19} for{\kf21}give{\kf17}ness,{\kf24} no{\kf17} way{\kf47} out
-Dialogue: 0,0:02:45.10,0:02:46.28,DEFAULT,,0,0,0,,{\kf19}On{\kf21}ly{\kf28} jus{\kf40}tice
-Dialogue: 0,0:02:47.09,0:02:51.65,DEFAULT,,0,0,0,,{\kf35}Then,{\kf35} a{\kf12}me{\kf369}-en
+Dialogue: 0,0:00:05.66,0:00:06.81,DEFAULT,,0,0,0,,{\r}{\kf27}The{\kf27} world{\kf17} is{\kf14} a{\kf30} place
+Dialogue: 0,0:00:07.60,0:00:09.99,DEFAULT,,0,0,0,,{\r}{\kf21}Where{\kf21} the{\kf21} vil{\kf21}lains{\kf21} wear{\kf14} a{\kf29} smile{\kf18} on{\kf25} their{\kf49} face
+Dialogue: 0,0:00:10.50,0:00:12.74,DEFAULT,,0,0,0,,{\r}{\kf23}While{\kf23} they{\kf20} take{\kf13} what{\kf20} you{\kf30} can{\kf20} ne{\kf17}ver{\kf20} re{\kf38}place
+Dialogue: 0,0:00:13.40,0:00:15.85,DEFAULT,,0,0,0,,{\r}{\kf19}Sto{\kf22}len{\kf22} mo{\kf22}ments{\kf34} gone{\kf28} for{\kf25}e{\kf72}ver
+Dialogue: 0,0:00:17.23,0:00:18.57,DEFAULT,,0,0,0,,{\r}{\kf24}Well,{\kf34} ta{\kf17}bles{\kf17} can{\kf42} turn
+Dialogue: 0,0:00:19.26,0:00:21.98,DEFAULT,,0,0,0,,{\r}{\kf16}As{\kf19} my{\kf22} e{\kf22}ne{\kf19}mies{\kf28} will{\kf31} soon{\kf19} e{\kf19}nough{\kf77} learn
+Dialogue: 0,0:00:22.16,0:00:24.70,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf23} will{\kf23} strike{\kf20} a{\kf20} match{\kf27} and{\kf23} then{\kf23} watch{\kf27} them{\kf45} burn
+Dialogue: 0,0:00:25.07,0:00:27.53,DEFAULT,,0,0,0,,{\r}{\kf26}On{\kf23} the{\kf20} py{\kf16}re{\kf23} of{\kf20} ob{\kf26}ses{\kf93}sion
+Dialogue: 0,0:00:28.80,0:00:30.07,DEFAULT,,0,0,0,,{\r}{\kf27}You{\kf33} run{\kf13} ’till{\kf23} you{\kf31} drop
+Dialogue: 0,0:00:30.83,0:00:32.65,DEFAULT,,0,0,0,,{\r}{\kf27}Cha{\kf27}sing{\kf41} on{\kf21} ad{\kf31}van{\kf35}tage
+Dialogue: 0,0:00:34.75,0:00:36.13,DEFAULT,,0,0,0,,{\r}{\kf21}You’ll{\kf38} pay{\kf15} a{\kf21}ny{\kf43} price
+Dialogue: 0,0:00:36.68,0:00:40.14,DEFAULT,,0,0,0,,{\r}{\kf29}If{\kf29} you{\kf36} think{\kf65} it’s{\kf187} free
+Dialogue: 0,0:00:40.83,0:00:43.67,DEFAULT,,0,0,0,,{\r}{\kf38}I{\kf33} will{\kf41} car{\kf36}ry{\kf38} hell{\kf14} to{\kf25} your{\kf33} door{\kf25}step
+Dialogue: 0,0:00:44.01,0:00:45.76,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf25} will{\kf27} make{\kf30} you{\kf63} pay
+Dialogue: 0,0:00:46.69,0:00:49.29,DEFAULT,,0,0,0,,{\r}{\kf40}You{\kf43} will{\kf37} reap{\kf30} the{\kf33} hate{\kf30} you’ve{\kf47} sown
+Dialogue: 0,0:00:49.84,0:00:52.40,DEFAULT,,0,0,0,,{\r}{\kf31}On{\kf25} my{\kf31} judg{\kf22}ment{\kf22} da{\kf14}-a{\kf111}-ay
+Dialogue: 0,0:00:52.68,0:00:55.47,DEFAULT,,0,0,0,,{\r}{\kf45}Sleep{\kf33}less{\kf45} nights{\kf18} and{\kf30} days{\kf18} of{\kf21} dam{\kf36}na{\kf33}tion
+Dialogue: 0,0:00:55.91,0:00:57.66,DEFAULT,,0,0,0,,{\r}{\kf26}Soon{\kf37} and{\kf26} e{\kf26}ver{\kf60}more
+Dialogue: 0,0:00:58.53,0:01:01.09,DEFAULT,,0,0,0,,{\r}{\kf42}I{\kf42} will{\kf39} bring{\kf35} the{\kf25} Châ{\kf28}teau{\kf45} D’If
+Dialogue: 0,0:01:01.48,0:01:03.74,DEFAULT,,0,0,0,,{\r}{\kf35}Kno{\kf21}cking{\kf24} u{\kf38}pon{\kf28} your{\kf80} door
+Dialogue: 0,0:01:05.59,0:01:06.97,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf29} love{\kf12} is{\kf12} a{\kf59} lie
+Dialogue: 0,0:01:07.61,0:01:10.20,DEFAULT,,0,0,0,,{\r}{\kf20}Swea{\kf23}ring{\kf20} that{\kf20} no{\kf17} mat{\kf14}ter{\kf23} what{\kf23} it{\kf29} won’t{\kf69} die
+Dialogue: 0,0:01:10.56,0:01:12.87,DEFAULT,,0,0,0,,{\r}{\kf17}Dis{\kf24}ap{\kf20}pea{\kf24}ring{\kf24} like{\kf17} a{\kf24} star{\kf20} in{\kf24} the{\kf36} sky
+Dialogue: 0,0:01:13.47,0:01:16.10,DEFAULT,,0,0,0,,{\r}{\kf23}In{\kf18} the{\kf21} hot{\kf26} light{\kf21} of{\kf60} mor{\kf94}ning
+Dialogue: 0,0:01:17.34,0:01:18.82,DEFAULT,,0,0,0,,{\r}{\kf24}But{\kf24} what{\kf19} do{\kf21} I{\kf60} care?
+Dialogue: 0,0:01:19.37,0:01:21.90,DEFAULT,,0,0,0,,{\r}{\kf14}There{\kf20} are{\kf20} wo{\kf17}men{\kf20} to{\kf20} be{\kf31} had{\kf28} e{\kf31}very{\kf53}where
+Dialogue: 0,0:01:22.34,0:01:24.85,DEFAULT,,0,0,0,,{\r}{\kf22}First{\kf19} there’s{\kf19} re{\kf16}tri{\kf22}bu{\kf16}tion{\kf25} I{\kf16} must{\kf22} pre{\kf74}pare
+Dialogue: 0,0:01:25.32,0:01:28.54,DEFAULT,,0,0,0,,{\r}{\kf19}Migh{\kf13}ty{\kf24} ven{\kf24}geance{\kf19} is{\kf224} mine
+Dialogue: 0,0:01:29.19,0:01:30.85,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21} have{\kf24} a{\kf33} nice{\kf67} show
+Dialogue: 0,0:01:31.19,0:01:34.26,DEFAULT,,0,0,0,,{\r}{\kf30}That{\kf21} will{\kf33} tempt{\kf21} you{\kf45} o{\kf33}-on{\kf124}ward
+Dialogue: 0,0:01:35.16,0:01:36.93,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf21} just{\kf21} when{\kf27} you’re{\kf84} sure
+Dialogue: 0,0:01:37.23,0:01:40.62,DEFAULT,,0,0,0,,{\r}{\kf19}That{\kf11} the{\kf64} prize{\kf19} is{\kf226} yours
+Dialogue: 0,0:01:41.27,0:01:44.12,DEFAULT,,0,0,0,,{\r}{\kf37}I’ll{\kf40} de{\kf34}li{\kf40}ver{\kf34} hell{\kf18} to{\kf22} your{\kf31} door{\kf30}step
+Dialogue: 0,0:01:44.52,0:01:46.61,DEFAULT,,0,0,0,,{\r}{\kf27}Dressed{\kf30} in{\kf34} rich{\kf24} fa{\kf95}cade
+Dialogue: 0,0:01:47.19,0:01:49.84,DEFAULT,,0,0,0,,{\r}{\kf31}Then,{\kf37} I’ll{\kf39} burn{\kf37} you{\kf37} to{\kf25} the{\kf59} ground
+Dialogue: 0,0:01:50.44,0:01:52.88,DEFAULT,,0,0,0,,{\r}{\kf19}Like{\kf22} an{\kf38} an{\kf14}gry{\kf27} go{\kf14}-o{\kf110}-od
+Dialogue: 0,0:01:53.34,0:01:55.92,DEFAULT,,0,0,0,,{\r}{\kf23}Once{\kf21} you’re{\kf38} in{\kf29} my{\kf38} shi{\kf15}ning{\kf21} ca{\kf32}the{\kf41}dral
+Dialogue: 0,0:01:56.20,0:01:57.95,DEFAULT,,0,0,0,,{\r}{\kf32}Heed{\kf20} the{\kf37} tol{\kf20}ling{\kf17} be{\kf49}-ell
+Dialogue: 0,0:01:58.94,0:02:01.64,DEFAULT,,0,0,0,,{\r}{\kf30}It’s{\kf33} the{\kf43} fi{\kf33}nal{\kf40} sound{\kf40} you{\kf51} hear
+Dialogue: 0,0:02:01.96,0:02:04.01,DEFAULT,,0,0,0,,{\r}{\kf30}As{\kf27} you{\kf21} de{\kf51}scend{\kf15} to{\kf61} hell
+Dialogue: 0,0:02:04.98,0:02:07.52,DEFAULT,,0,0,0,,{\r}{\kf88}Fall{\kf63} down{\kf29} on{\kf37} your{\kf37} knees
+Dialogue: 0,0:02:07.96,0:02:10.33,DEFAULT,,0,0,0,,{\r}{\kf43}Fall{\kf22} down{\kf22} and{\kf22} let{\kf25} me{\kf34} hear{\kf28} you{\kf41} pray
+Dialogue: 0,0:02:11.00,0:02:13.49,DEFAULT,,0,0,0,,{\r}{\kf77}Fall{\kf71} down{\kf31} on{\kf31} your{\kf39} knees
+Dialogue: 0,0:02:13.90,0:02:16.83,DEFAULT,,0,0,0,,{\r}{\kf36}’till{\kf33} I{\kf20} can{\kf33} hear{\kf42} you{\kf26} bar{\kf16}gai{\kf29}ning,{\kf23} sche{\kf35}ming
+Dialogue: 0,0:02:17.18,0:02:20.68,DEFAULT,,0,0,0,,{\r}{\kf12}Beg{\kf17}ging{\kf17} and{\kf22} screa{\kf25}ming{\kf15} to{\kf242} me
+Dialogue: 0,0:02:21.23,0:02:24.11,DEFAULT,,0,0,0,,{\r}{\kf35}I{\kf33} will{\kf41} car{\kf41}ry{\kf33} hell{\kf14} to{\kf24} your{\kf33} door{\kf34}step
+Dialogue: 0,0:02:24.37,0:02:26.21,DEFAULT,,0,0,0,,{\r}{\kf30}You{\kf27} will{\kf41} ru{\kf27}-ue{\kf14} the{\kf45} day
+Dialogue: 0,0:02:27.13,0:02:29.90,DEFAULT,,0,0,0,,{\r}{\kf38}You{\kf45} will{\kf41} reap{\kf38} the{\kf35} hate{\kf25} you’ve{\kf55} sown
+Dialogue: 0,0:02:30.27,0:02:32.66,DEFAULT,,0,0,0,,{\r}{\kf21}No{\kf18} mat{\kf18}ter{\kf24} how{\kf21} hard{\kf18} you{\kf120} pray
+Dialogue: 0,0:02:33.10,0:02:35.89,DEFAULT,,0,0,0,,{\r}{\kf27}It’s{\kf33} a{\kf36} place{\kf21} with{\kf36}out{\kf18} a{\kf27}ny{\kf42} mer{\kf39}cy
+Dialogue: 0,0:02:36.26,0:02:38.01,DEFAULT,,0,0,0,,{\r}{\kf33}Fa{\kf27}shioned{\kf24} in{\kf39} cold{\kf52} blood
+Dialogue: 0,0:02:38.89,0:02:41.51,DEFAULT,,0,0,0,,{\r}{\kf55}Stones{\kf24} of{\kf44} fear{\kf31} and{\kf34} stones{\kf27} of{\kf48} doubt
+Dialogue: 0,0:02:42.11,0:02:44.60,DEFAULT,,0,0,0,,{\r}{\kf41}No{\kf27} for{\kf31}give{\kf24}ness,{\kf34} no{\kf24} way{\kf68} out
+Dialogue: 0,0:02:45.11,0:02:46.29,DEFAULT,,0,0,0,,{\r}{\kf21}On{\kf23}ly{\kf31} jus{\kf43}tice
+Dialogue: 0,0:02:47.09,0:02:51.66,DEFAULT,,0,0,0,,{\r}{\kf35}Then,{\kf35} a{\kf12}me{\kf374}-en

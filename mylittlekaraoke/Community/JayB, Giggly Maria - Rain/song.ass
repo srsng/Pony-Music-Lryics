@@ -1,31 +1,38 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Rain (Original Mix)
+Artist: JayB, Giggly Maria
+Original Timing: mylittlekaraoke.com by SqueakyBelle
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:02:00.42,0:02:07.08,DEFAULT,,0,0,0,,{\kf26}A{\kf15} hea{\kf24}~{\kf21}vy{\kf96} cloud{\kf35} is{\kf78} tra{\kf12}cing{\kf35}~{\kf26} me{\kf70} since{\kf15} I'm{\kf35}~{\kf38} here
-Dialogue: 0,0:02:07.86,0:02:14.58,DEFAULT,,0,0,0,,{\kf21}The{\kf21} sha{\kf18}dow{\kf18} it{\kf110} casts{\kf35} tou{\kf70}ches{\kf50} e{\kf24}very{\kf50}thing{\kf24} I{\kf41} can{\kf21} see
-Dialogue: 0,0:02:15.22,0:02:22.11,DEFAULT,,0,0,0,,{\kf18}It{\kf26} seems{\kf21} that{\kf18} it{\kf101} takes{\kf38} all{\kf55} bright{\kf21} co{\kf47}~{\kf47}lours{\kf67} from{\kf35} this{\kf70} world
-Dialogue: 0,0:02:22.57,0:02:29.26,DEFAULT,,0,0,0,,{\kf18}To{\kf26} leave{\kf18} it{\kf21} in{\kf61} grey,{\kf41} my{\kf18} vi{\kf41}~{\kf61}sion{\kf32} is{\kf26} blurred{\kf159}~{\kf12}~
-Dialogue: 0,0:03:29.03,0:03:35.31,DEFAULT,,0,0,0,,{\kf29}Some{\kf21} hou{\kf24}rs{\kf18} have{\kf96} passed,{\kf41} the{\kf58} sun{\kf26} should{\kf26}~{\kf44} be{\kf44} set{\kf21}ting{\kf26}~{\kf26} now
-Dialogue: 0,0:03:36.35,0:03:42.87,DEFAULT,,0,0,0,,{\kf21}I{\kf24} ca{\kf29}nnot{\kf26} walk{\kf75} on,{\kf47} and{\kf18} fall{\kf38}~{\kf67} to{\kf24} the{\kf32} ground{\kf127}~{\kf21}~
-Dialogue: 0,0:03:43.82,0:03:50.57,DEFAULT,,0,0,0,,{\kf18}I{\kf26} keep{\kf18} loo{\kf18}king{\kf44} up{\kf35} in{\kf67} search{\kf18} for{\kf50}~{\kf50} a{\kf52} ray{\kf24} of{\kf38}~{\kf67} light
-Dialogue: 0,0:03:51.24,0:03:57.47,DEFAULT,,0,0,0,,{\kf18}Now{\kf26} stop{\kf18} to{\kf15} pre{\kf73}tend!{\kf47} There's{\kf15} no-{\kf38}~{\kf58}thing{\kf21} to{\kf32} find{\kf119}~{\kf12}~
-Dialogue: 0,0:03:58.62,0:04:05.08,DEFAULT,,0,0,0,,{\kf15}I'm{\kf15} wai{\kf26}~{\kf26}ting{\kf24} for{\kf44}~{\kf24} the{\kf58} rain{\kf21} to{\kf21} flood{\kf47}~{\kf21} this{\kf67} land{\kf18} and{\kf18} drench{\kf41}~{\kf24} my{\kf73} mane{\kf15}~
-Dialogue: 0,0:04:05.74,0:04:12.18,DEFAULT,,0,0,0,,{\kf18}I{\kf26} can{\kf15} feel{\kf24}~{\kf21} it{\kf18} ru{\kf44}~{\kf26}nning{\kf61} down{\kf29} my{\kf26} skin{\kf142}~{\kf18}~{\kf12}~{\kf116}~{\kf12}~
-Dialogue: 0,0:04:13.36,0:04:19.99,DEFAULT,,0,0,0,,{\kf24}So{\kf12} o{\kf29}~{\kf21}pen{\kf18} up{\kf50}~{\kf15} the{\kf61} gates,{\kf29} just{\kf18} let{\kf41}~{\kf29} it{\kf47} out,{\kf29} don't{\kf15} he{\kf47}~{\kf18}si{\kf75}tate{\kf29}~
-Dialogue: 0,0:04:20.77,0:04:27.12,DEFAULT,,0,0,0,,{\kf12}And{\kf15} take{\kf35}~{\kf21} the{\kf15} last{\kf35}~{\kf21} hope{\kf26} that{\kf12} I{\kf24}~{\kf179} kept{\kf15}~{\kf12}~{\kf113}~{\kf35}~
-Dialogue: 0,0:05:27.25,0:05:33.71,DEFAULT,,0,0,0,,{\kf15}I'm{\kf15} wai{\kf26}~{\kf26}ting{\kf21} for{\kf41}~{\kf21} the{\kf67} rain{\kf21} to{\kf21} flood{\kf38}~{\kf32} this{\kf64} land{\kf18} and{\kf18} drench{\kf41}~{\kf24} my{\kf64} mane{\kf24}~
-Dialogue: 0,0:05:34.38,0:05:40.81,DEFAULT,,0,0,0,,{\kf18}I{\kf26} can{\kf15} feel{\kf24}~{\kf21} it{\kf18} ru{\kf44}~{\kf26}nning{\kf61} down{\kf29} my{\kf24} skin{\kf142}~{\kf12}~{\kf15}~{\kf122}~{\kf12}~
-Dialogue: 0,0:05:41.99,0:05:48.63,DEFAULT,,0,0,0,,{\kf24}So{\kf9} o{\kf32}~{\kf21}pen{\kf18} up{\kf50}~{\kf15} the{\kf61} gates,{\kf29} just{\kf18} let{\kf41}~{\kf29} it{\kf47} out,{\kf29} don't{\kf15} he{\kf47}~{\kf18}si{\kf67}tate{\kf38}~
-Dialogue: 0,0:05:49.41,0:05:55.61,DEFAULT,,0,0,0,,{\kf12}And{\kf15} take{\kf35}~{\kf21} the{\kf15} last{\kf35}~{\kf21} hope{\kf26} that{\kf12} I{\kf24}~{\kf179} kept{\kf15}~{\kf12}~{\kf104}~{\kf29}~
-Dialogue: 0,0:05:56.13,0:06:02.93,DEFAULT,,0,0,0,,{\kf24}Wai{\kf38}~{\kf67}ting{\kf9} for{\kf29}~{\kf44} the{\kf26}~{\kf90} rain{\kf12}~{\kf9}~{\kf125}~{\kf26}~{\kf153}~
-Dialogue: 0,0:06:03.51,0:06:10.17,DEFAULT,,0,0,0,,{\kf15}Wai{\kf47}~{\kf67}ting{\kf9} for{\kf29}~{\kf44} the{\kf24}~{\kf70} rain{\kf18}~{\kf205}~{\kf116}~
-Dialogue: 0,0:06:10.86,0:06:17.15,DEFAULT,,0,0,0,,{\kf12}Wai{\kf44}~{\kf75}ting{\kf6} for{\kf29}~{\kf35} the{\kf29}~{\kf61} rain{\kf35}~{\kf18}~{\kf130}~{\kf24}~{\kf101}~
-Dialogue: 0,0:06:18.16,0:06:23.76,DEFAULT,,0,0,0,,{\kf18}Wai{\kf70}~{\kf55}ting{\kf6} for{\kf24}~{\kf44} the{\kf18}~{\kf58} rain{\kf26}~{\kf220}~
+Dialogue: 0,0:02:00.43,0:02:07.09,DEFAULT,,0,0,0,,{\r}{\kf33}A{\kf18} hea{\kf30}~{\kf26}vy{\kf122} cloud{\kf44} is{\kf100} tra{\kf15}cing{\kf44}~{\kf33} me{\kf89} since{\kf18} I'm{\kf44}~{\kf50} here
+Dialogue: 0,0:02:07.87,0:02:14.59,DEFAULT,,0,0,0,,{\r}{\kf28}The{\kf28} sha{\kf24}dow{\kf24} it{\kf149} casts{\kf47} tou{\kf94}ches{\kf67} e{\kf31}very{\kf67}thing{\kf31} I{\kf55} can{\kf27} see
+Dialogue: 0,0:02:15.22,0:02:22.12,DEFAULT,,0,0,0,,{\r}{\kf21}It{\kf32} seems{\kf25} that{\kf21} it{\kf125} takes{\kf46} all{\kf68} bright{\kf25} co{\kf57}~{\kf57}lours{\kf82} from{\kf43} this{\kf87} world
+Dialogue: 0,0:02:22.58,0:02:29.27,DEFAULT,,0,0,0,,{\r}{\kf22}To{\kf33} leave{\kf22} it{\kf26} in{\kf77} grey,{\kf51} my{\kf22} vi{\kf51}~{\kf77}sion{\kf40} is{\kf33} blurred{\kf201}~{\kf14}~
+Dialogue: 0,0:03:29.03,0:03:35.32,DEFAULT,,0,0,0,,{\r}{\kf37}Some{\kf26} hou{\kf29}rs{\kf22} have{\kf121} passed,{\kf51} the{\kf74} sun{\kf33} should{\kf33}~{\kf55} be{\kf55} set{\kf26}ting{\kf33}~{\kf34} now
+Dialogue: 0,0:03:36.36,0:03:42.88,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf28} ca{\kf35}nnot{\kf31} walk{\kf90} on,{\kf55} and{\kf21} fall{\kf45}~{\kf80} to{\kf28} the{\kf38} ground{\kf153}~{\kf24}~
+Dialogue: 0,0:03:43.83,0:03:50.58,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf34} keep{\kf23} loo{\kf23}king{\kf57} up{\kf45} in{\kf87} search{\kf23} for{\kf64}~{\kf64} a{\kf68} ray{\kf30} of{\kf49}~{\kf85} light
+Dialogue: 0,0:03:51.24,0:03:57.47,DEFAULT,,0,0,0,,{\r}{\kf22}Now{\kf33} stop{\kf22} to{\kf19} pre{\kf93}tend!{\kf59} There's{\kf19} no-{\kf48}~{\kf74}thing{\kf26} to{\kf41} find{\kf152}~{\kf15}~
+Dialogue: 0,0:03:58.62,0:04:05.09,DEFAULT,,0,0,0,,{\r}{\kf16}I'm{\kf16} wai{\kf29}~{\kf29}ting{\kf25} for{\kf48}~{\kf25} the{\kf64} rain{\kf22} to{\kf22} flood{\kf51}~{\kf22} this{\kf73} land{\kf19} and{\kf19} drench{\kf45}~{\kf25} my{\kf80} mane{\kf16}~
+Dialogue: 0,0:04:05.75,0:04:12.18,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf28} can{\kf15} feel{\kf25}~{\kf22} it{\kf19} ru{\kf46}~{\kf28}nning{\kf65} down{\kf31} my{\kf28} skin{\kf151}~{\kf19}~{\kf12}~{\kf124}~{\kf11}~
+Dialogue: 0,0:04:13.36,0:04:20.00,DEFAULT,,0,0,0,,{\r}{\kf26}So{\kf13} o{\kf32}~{\kf22}pen{\kf19} up{\kf54}~{\kf16} the{\kf67} gates,{\kf32} just{\kf19} let{\kf45}~{\kf32} it{\kf51} out,{\kf32} don't{\kf16} he{\kf51}~{\kf19}si{\kf83}tate{\kf34}~
+Dialogue: 0,0:04:20.78,0:04:27.12,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf16} take{\kf39}~{\kf23} the{\kf16} last{\kf39}~{\kf23} hope{\kf29} that{\kf13} I{\kf26}~{\kf202} kept{\kf16}~{\kf13}~{\kf127}~{\kf40}~
+Dialogue: 0,0:05:27.26,0:05:33.72,DEFAULT,,0,0,0,,{\r}{\kf16}I'm{\kf16} wai{\kf29}~{\kf29}ting{\kf22} for{\kf45}~{\kf22} the{\kf73} rain{\kf22} to{\kf22} flood{\kf41}~{\kf35} this{\kf70} land{\kf19} and{\kf19} drench{\kf45}~{\kf25} my{\kf70} mane{\kf26}~
+Dialogue: 0,0:05:34.38,0:05:40.82,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf28} can{\kf15} feel{\kf25}~{\kf22} it{\kf19} ru{\kf46}~{\kf28}nning{\kf65} down{\kf31} my{\kf25} skin{\kf151}~{\kf12}~{\kf15}~{\kf130}~{\kf12}~
+Dialogue: 0,0:05:42.00,0:05:48.63,DEFAULT,,0,0,0,,{\r}{\kf26}So{\kf10} o{\kf35}~{\kf22}pen{\kf19} up{\kf54}~{\kf16} the{\kf67} gates,{\kf32} just{\kf19} let{\kf45}~{\kf32} it{\kf51} out,{\kf32} don't{\kf16} he{\kf51}~{\kf19}si{\kf74}tate{\kf43}~
+Dialogue: 0,0:05:49.41,0:05:55.61,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf16} take{\kf39}~{\kf23} the{\kf16} last{\kf39}~{\kf23} hope{\kf29} that{\kf13} I{\kf26}~{\kf202} kept{\kf16}~{\kf13}~{\kf117}~{\kf35}~
+Dialogue: 0,0:05:56.13,0:06:02.94,DEFAULT,,0,0,0,,{\r}{\kf24}Wai{\kf40}~{\kf70}ting{\kf10} for{\kf30}~{\kf46} the{\kf27}~{\kf94} rain{\kf12}~{\kf10}~{\kf131}~{\kf27}~{\kf160}~
+Dialogue: 0,0:06:03.51,0:06:10.18,DEFAULT,,0,0,0,,{\r}{\kf15}Wai{\kf48}~{\kf69}ting{\kf10} for{\kf30}~{\kf45} the{\kf24}~{\kf72} rain{\kf18}~{\kf214}~{\kf121}~
+Dialogue: 0,0:06:10.87,0:06:17.16,DEFAULT,,0,0,0,,{\r}{\kf12}Wai{\kf46}~{\kf79}ting{\kf10} for{\kf31}~{\kf37} the{\kf31}~{\kf64} rain{\kf37}~{\kf18}~{\kf137}~{\kf24}~{\kf103}~
+Dialogue: 0,0:06:18.17,0:06:23.76,DEFAULT,,0,0,0,,{\r}{\kf18}Wai{\kf73}~{\kf58}ting{\kf10} for{\kf24}~{\kf45} the{\kf18}~{\kf61} rain{\kf27}~{\kf226}~

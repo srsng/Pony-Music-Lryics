@@ -1,48 +1,55 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Let the Rainbow Remind You (Extended)
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.88,0:00:17.43,DEFAULT,,0,0,0,,{\kf35}Each{\kf18} one{\kf18} of{\kf18} us{\kf12} has{\kf18} some{\kf12}thing{\kf18} spec{\kf53}ial
-Dialogue: 0,0:00:17.89,0:00:19.46,DEFAULT,,0,0,0,,{\kf12}That{\kf18} makes{\kf18} us{\kf24} diffe{\kf58}rent
-Dialogue: 0,0:00:19.75,0:00:21.43,DEFAULT,,0,0,0,,{\kf12}That{\kf24} makes{\kf12} u{\kf24}-us{\kf70} rare
-Dialogue: 0,0:00:22.35,0:00:24.96,DEFAULT,,0,0,0,,{\kf35}We{\kf24} have{\kf12} a{\kf24} light{\kf12} that{\kf24} shines{\kf18} with{\kf18}in{\kf47} us
-Dialogue: 0,0:00:25.43,0:00:29.66,DEFAULT,,0,0,0,,{\kf24}That{\kf12} we{\kf18} were{\kf18} al{\kf64}ways{\kf24} meant{\kf12} to{\kf64} sha{\kf18}-a{\kf99}-are
-Dialogue: 0,0:00:30.07,0:00:31.75,DEFAULT,,0,0,0,,{\kf12}And{\kf18} when{\kf18} we{\kf18} come{\kf12} to{\kf18}get{\kf24}her
-Dialogue: 0,0:00:31.98,0:00:34.01,DEFAULT,,0,0,0,,{\kf18}Com{\kf18}bine{\kf12} the{\kf24} light{\kf12} that{\kf29} shines{\kf12} with{\kf41}in
-Dialogue: 0,0:00:34.07,0:00:35.63,DEFAULT,,0,0,0,,{\kf24}There{\kf12} is{\kf12} no{\kf18}thing{\kf18} we{\kf18} can't{\kf18} do
-Dialogue: 0,0:00:35.75,0:00:37.72,DEFAULT,,0,0,0,,{\kf18}There{\kf18} is{\kf12} no{\kf24} bat{\kf18}tle{\kf12} we{\kf18} can't{\kf41} win
-Dialogue: 0,0:00:37.83,0:00:39.40,DEFAULT,,0,0,0,,{\kf18}When{\kf18} we{\kf18} come{\kf18} to{\kf18}get{\kf41}her
-Dialogue: 0,0:00:39.52,0:00:41.43,DEFAULT,,0,0,0,,{\kf12}There'll{\kf18} be{\kf12} a{\kf24} star{\kf12} to{\kf18} guide{\kf12} the{\kf41} way
-Dialogue: 0,0:00:41.54,0:00:43.81,DEFAULT,,0,0,0,,{\kf24}It's{\kf12} in{\kf24}side{\kf18} us{\kf24} eve{\kf35}ry{\kf53}day
-Dialogue: 0,0:00:44.10,0:00:45.49,DEFAULT,,0,0,0,,{\kf24}See{\kf18} it{\kf87} now
-Dialogue: 0,0:00:46.01,0:00:47.46,DEFAULT,,0,0,0,,{\kf18}See{\kf18} it{\kf99} now
-Dialogue: 0,0:00:48.10,0:00:51.23,DEFAULT,,0,0,0,,{\kf24}Let{\kf18} the{\kf41} rain{\kf76}bow{\kf18} re{\kf47}mind{\kf53} you
-Dialogue: 0,0:00:51.81,0:00:55.05,DEFAULT,,0,0,0,,{\kf18}That{\kf18} to{\kf18}get{\kf18}her{\kf18} we{\kf24} will{\kf18} al{\kf35}ways{\kf111} shine
-Dialogue: 0,0:00:55.58,0:00:59.11,DEFAULT,,0,0,0,,{\kf24}Let{\kf12} the{\kf41} rain{\kf82}bow{\kf18} re{\kf41}mind{\kf35} yo{\kf47}-u
-Dialogue: 0,0:00:59.34,0:01:02.53,DEFAULT,,0,0,0,,{\kf18}That{\kf24} for{\kf18}e{\kf18}ver{\kf18} this{\kf18} will{\kf18} be{\kf24} our{\kf111} time
-Dialogue: 0,0:01:03.69,0:01:06.13,DEFAULT,,0,0,0,,{\kf29}Each{\kf24} one{\kf18} of{\kf18} us{\kf12} will{\kf18} some{\kf24}times{\kf18} fal{\kf41}ter
-Dialogue: 0,0:01:06.82,0:01:10.59,DEFAULT,,0,0,0,,{\kf24}We{\kf12} may{\kf29} stum{\kf41}ble,{\kf18} we{\kf24} may{\kf64} fa{\kf18}-a{\kf64}-all
-Dialogue: 0,0:01:11.17,0:01:13.72,DEFAULT,,0,0,0,,{\kf24}But{\kf24} we{\kf18} still{\kf18} have{\kf12} a{\kf18} kind{\kf12} of{\kf24} ma{\kf53}gic
-Dialogue: 0,0:01:14.07,0:01:17.78,DEFAULT,,0,0,0,,{\kf18}One{\kf18} that{\kf12} will{\kf29} see{\kf47} us{\kf24} through{\kf18} it{\kf122} all
-Dialogue: 0,0:01:18.82,0:01:20.51,DEFAULT,,0,0,0,,{\kf18}And{\kf18} when{\kf18} we{\kf18} come{\kf12} to{\kf24}get{\kf29}her
-Dialogue: 0,0:01:20.68,0:01:22.71,DEFAULT,,0,0,0,,{\kf18}Com{\kf18}bine{\kf18} the{\kf18} light{\kf12} that{\kf24} shines{\kf18} with{\kf35}in
-Dialogue: 0,0:01:22.82,0:01:24.39,DEFAULT,,0,0,0,,{\kf18}There{\kf18} is{\kf18} no{\kf12}thing{\kf18} we{\kf24} can't{\kf18} do
-Dialogue: 0,0:01:24.45,0:01:26.36,DEFAULT,,0,0,0,,{\kf18}There{\kf12} is{\kf18} no{\kf24} bat{\kf18}tle{\kf12} we{\kf18} can't{\kf29} win
-Dialogue: 0,0:01:26.54,0:01:28.10,DEFAULT,,0,0,0,,{\kf18}When{\kf18} we{\kf18} come{\kf18} to{\kf18}get{\kf35}her
-Dialogue: 0,0:01:28.27,0:01:30.13,DEFAULT,,0,0,0,,{\kf18}There'll{\kf12} be{\kf12} a{\kf24} star{\kf12} to{\kf24} guide{\kf12} the{\kf35} way
-Dialogue: 0,0:01:30.30,0:01:32.68,DEFAULT,,0,0,0,,{\kf18}It's{\kf12} in{\kf29}side{\kf18} us{\kf18} eve{\kf35}ry{\kf76}day
-Dialogue: 0,0:01:32.86,0:01:34.36,DEFAULT,,0,0,0,,{\kf18}See{\kf18} it{\kf99} now
-Dialogue: 0,0:01:34.77,0:01:36.28,DEFAULT,,0,0,0,,{\kf18}See{\kf18} it{\kf105} now
-Dialogue: 0,0:01:36.86,0:01:40.04,DEFAULT,,0,0,0,,{\kf24}Let{\kf18} the{\kf35} rain{\kf82}bow{\kf24} re{\kf35}mind{\kf64} you
-Dialogue: 0,0:01:40.57,0:01:43.81,DEFAULT,,0,0,0,,{\kf24}That{\kf12} to{\kf24}get{\kf18}her{\kf18} we{\kf24} will{\kf18} al{\kf29}ways{\kf111} shine
-Dialogue: 0,0:01:44.33,0:01:47.87,DEFAULT,,0,0,0,,{\kf18}Let{\kf12} the{\kf41} rain{\kf87}bow{\kf18} re{\kf41}mind{\kf29} yo{\kf47}-u
-Dialogue: 0,0:01:48.10,0:01:51.41,DEFAULT,,0,0,0,,{\kf18}That{\kf18} for{\kf18}e{\kf18}ver{\kf18} this{\kf18} will{\kf18} be{\kf35} our{\kf122} time
-Dialogue: 0,0:01:59.29,0:02:02.60,DEFAULT,,0,0,0,,{\kf24}Let{\kf24} the{\kf47} rain{\kf64}bo{\kf12}-ow{\kf18} re{\kf47}mind{\kf58} you
-Dialogue: 0,0:02:03.18,0:02:08.40,DEFAULT,,0,0,0,,{\kf24}That{\kf18} to{\kf24}get{\kf24}her{\kf24} we{\kf24} will{\kf41} al{\kf99}ways{\kf203} shine
+Dialogue: 0,0:00:14.88,0:00:17.43,DEFAULT,,0,0,0,,{\r}{\kf45}Each{\kf22} one{\kf22} of{\kf22} us{\kf15} has{\kf22} some{\kf15}thing{\kf22} spec{\kf70}ial
+Dialogue: 0,0:00:17.89,0:00:19.46,DEFAULT,,0,0,0,,{\r}{\kf14}That{\kf21} makes{\kf21} us{\kf29} diffe{\kf72}rent
+Dialogue: 0,0:00:19.75,0:00:21.43,DEFAULT,,0,0,0,,{\r}{\kf14}That{\kf28} makes{\kf14} u{\kf28}-us{\kf84} rare
+Dialogue: 0,0:00:22.36,0:00:24.97,DEFAULT,,0,0,0,,{\r}{\kf44}We{\kf29} have{\kf15} a{\kf29} light{\kf15} that{\kf29} shines{\kf22} with{\kf22}in{\kf56} us
+Dialogue: 0,0:00:25.43,0:00:29.66,DEFAULT,,0,0,0,,{\r}{\kf28}That{\kf14} we{\kf21} were{\kf21} al{\kf78}ways{\kf28} meant{\kf14} to{\kf78} sha{\kf21}-a{\kf120}-are
+Dialogue: 0,0:00:30.07,0:00:31.75,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf25} when{\kf25} we{\kf25} come{\kf17} to{\kf25}get{\kf34}her
+Dialogue: 0,0:00:31.98,0:00:34.01,DEFAULT,,0,0,0,,{\r}{\kf22}Com{\kf22}bine{\kf14} the{\kf29} light{\kf14} that{\kf36} shines{\kf14} with{\kf52}in
+Dialogue: 0,0:00:34.07,0:00:35.64,DEFAULT,,0,0,0,,{\r}{\kf31}There{\kf16} is{\kf16} no{\kf24}thing{\kf24} we{\kf24} can't{\kf22} do
+Dialogue: 0,0:00:35.75,0:00:37.72,DEFAULT,,0,0,0,,{\r}{\kf22}There{\kf22} is{\kf15} no{\kf29} bat{\kf22}tle{\kf15} we{\kf22} can't{\kf50} win
+Dialogue: 0,0:00:37.84,0:00:39.40,DEFAULT,,0,0,0,,{\r}{\kf21}When{\kf21} we{\kf21} come{\kf21} to{\kf21}get{\kf52}her
+Dialogue: 0,0:00:39.52,0:00:41.43,DEFAULT,,0,0,0,,{\r}{\kf15}There'll{\kf23} be{\kf15} a{\kf31} star{\kf15} to{\kf23} guide{\kf15} the{\kf54} way
+Dialogue: 0,0:00:41.55,0:00:43.81,DEFAULT,,0,0,0,,{\r}{\kf28}It's{\kf14} in{\kf28}side{\kf21} us{\kf28} eve{\kf42}ry{\kf65}day
+Dialogue: 0,0:00:44.10,0:00:45.49,DEFAULT,,0,0,0,,{\r}{\kf25}See{\kf19} it{\kf95} now
+Dialogue: 0,0:00:46.01,0:00:47.46,DEFAULT,,0,0,0,,{\r}{\kf19}See{\kf19} it{\kf107} now
+Dialogue: 0,0:00:48.10,0:00:51.23,DEFAULT,,0,0,0,,{\r}{\kf27}Let{\kf20} the{\kf47} rain{\kf87}bow{\kf20} re{\kf53}mind{\kf59} you
+Dialogue: 0,0:00:51.81,0:00:55.06,DEFAULT,,0,0,0,,{\r}{\kf21}That{\kf21} to{\kf21}get{\kf21}her{\kf21} we{\kf28} will{\kf21} al{\kf41}ways{\kf130} shine
+Dialogue: 0,0:00:55.58,0:00:59.12,DEFAULT,,0,0,0,,{\r}{\kf28}Let{\kf14} the{\kf49} rain{\kf97}bow{\kf21} re{\kf49}mind{\kf42} yo{\kf54}-u
+Dialogue: 0,0:00:59.35,0:01:02.54,DEFAULT,,0,0,0,,{\r}{\kf21}That{\kf28} for{\kf21}e{\kf21}ver{\kf21} this{\kf21} will{\kf21} be{\kf28} our{\kf137} time
+Dialogue: 0,0:01:03.70,0:01:06.13,DEFAULT,,0,0,0,,{\r}{\kf36}Each{\kf29} one{\kf22} of{\kf22} us{\kf14} will{\kf22} some{\kf29}times{\kf22} fal{\kf48}ter
+Dialogue: 0,0:01:06.83,0:01:10.60,DEFAULT,,0,0,0,,{\r}{\kf30}We{\kf15} may{\kf38} stum{\kf53}ble,{\kf23} we{\kf30} may{\kf83} fa{\kf23}-a{\kf82}-all
+Dialogue: 0,0:01:11.18,0:01:13.73,DEFAULT,,0,0,0,,{\r}{\kf30}But{\kf30} we{\kf22} still{\kf22} have{\kf15} a{\kf22} kind{\kf15} of{\kf30} ma{\kf69}gic
+Dialogue: 0,0:01:14.08,0:01:17.79,DEFAULT,,0,0,0,,{\r}{\kf23}One{\kf23} that{\kf15} will{\kf38} see{\kf61} us{\kf30} through{\kf23} it{\kf158} all
+Dialogue: 0,0:01:18.83,0:01:20.51,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} when{\kf22} we{\kf22} come{\kf15} to{\kf29}get{\kf36}her
+Dialogue: 0,0:01:20.68,0:01:22.71,DEFAULT,,0,0,0,,{\r}{\kf23}Com{\kf23}bine{\kf23} the{\kf23} light{\kf15} that{\kf30} shines{\kf23} with{\kf43}in
+Dialogue: 0,0:01:22.83,0:01:24.40,DEFAULT,,0,0,0,,{\r}{\kf22}There{\kf22} is{\kf22} no{\kf15}thing{\kf22} we{\kf30} can't{\kf24} do
+Dialogue: 0,0:01:24.45,0:01:26.37,DEFAULT,,0,0,0,,{\r}{\kf23}There{\kf15} is{\kf23} no{\kf31} bat{\kf23}tle{\kf15} we{\kf23} can't{\kf38} win
+Dialogue: 0,0:01:26.54,0:01:28.11,DEFAULT,,0,0,0,,{\r}{\kf22}When{\kf22} we{\kf22} come{\kf22} to{\kf22}get{\kf47}her
+Dialogue: 0,0:01:28.28,0:01:30.14,DEFAULT,,0,0,0,,{\r}{\kf22}There'll{\kf15} be{\kf15} a{\kf30} star{\kf15} to{\kf30} guide{\kf15} the{\kf44} way
+Dialogue: 0,0:01:30.31,0:01:32.69,DEFAULT,,0,0,0,,{\r}{\kf20}It's{\kf14} in{\kf34}side{\kf20} us{\kf20} eve{\kf41}ry{\kf89}day
+Dialogue: 0,0:01:32.86,0:01:34.37,DEFAULT,,0,0,0,,{\r}{\kf20}See{\kf20} it{\kf111} now
+Dialogue: 0,0:01:34.77,0:01:36.28,DEFAULT,,0,0,0,,{\r}{\kf19}See{\kf19} it{\kf113} now
+Dialogue: 0,0:01:36.86,0:01:40.05,DEFAULT,,0,0,0,,{\r}{\kf27}Let{\kf20} the{\kf40} rain{\kf93}bow{\kf27} re{\kf40}mind{\kf72} you
+Dialogue: 0,0:01:40.57,0:01:43.82,DEFAULT,,0,0,0,,{\r}{\kf28}That{\kf14} to{\kf28}get{\kf21}her{\kf21} we{\kf28} will{\kf21} al{\kf35}ways{\kf129} shine
+Dialogue: 0,0:01:44.34,0:01:47.88,DEFAULT,,0,0,0,,{\r}{\kf21}Let{\kf14} the{\kf50} rain{\kf106}bow{\kf21} re{\kf50}mind{\kf35} yo{\kf57}-u
+Dialogue: 0,0:01:48.11,0:01:51.41,DEFAULT,,0,0,0,,{\r}{\kf21}That{\kf21} for{\kf21}e{\kf21}ver{\kf21} this{\kf21} will{\kf21} be{\kf41} our{\kf142} time
+Dialogue: 0,0:01:59.30,0:02:02.60,DEFAULT,,0,0,0,,{\r}{\kf26}Let{\kf26} the{\kf53} rain{\kf73}bo{\kf13}-ow{\kf20} re{\kf53}mind{\kf66} you
+Dialogue: 0,0:02:03.18,0:02:08.40,DEFAULT,,0,0,0,,{\r}{\kf25}That{\kf19} to{\kf25}get{\kf25}her{\kf25} we{\kf25} will{\kf45} al{\kf108}ways{\kf225} shine

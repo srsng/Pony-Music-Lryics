@@ -1,61 +1,68 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Fluttershy's Gala
+Artist: F3nning
+Original Timing: mylittlekaraoke.com by Pony Rock Project
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.37,0:00:12.90,DEFAULT,,0,0,0,,{\kf6}At{\kf6} the{\kf12} Ga{\kf18}la{\kf6} in{\kf6} the{\kf18} gar{\kf24}den{\kf12} I'm{\kf6} go{\kf6}ing{\kf12} to{\kf18} see{\kf18} them{\kf18} all{\kf18}~
-Dialogue: 0,0:00:13.20,0:00:16.74,DEFAULT,,0,0,0,,{\kf6}All{\kf6} the{\kf12} crea{\kf6}~{\kf18}tures{\kf6} I'll{\kf6} be{\kf12} friend{\kf12} them{\kf12} at{\kf12} the{\kf12} Ga{\kf78}la{\kf36}~
-Dialogue: 0,0:00:17.52,0:00:19.26,DEFAULT,,0,0,0,,{\kf6}All{\kf6} the{\kf12} bir{\kf18}dies{\kf6} and{\kf6} the{\kf18} crit{\kf24}ters
-Dialogue: 0,0:00:19.50,0:00:21.12,DEFAULT,,0,0,0,,{\kf12} they{\kf6} will{\kf12} love{\kf12} me{\kf18} big{\kf18} and{\kf24} small{\kf18}~
-Dialogue: 0,0:00:21.36,0:00:22.98,DEFAULT,,0,0,0,,{\kf6}We'll{\kf6} be{\kf12}come{\kf12} good{\kf12} friends{\kf12} for{\kf12}e{\kf12}ver
-Dialogue: 0,0:00:23.10,0:00:26.40,DEFAULT,,0,0,0,,{\kf30} right{\kf36} here{\kf36} at{\kf36} the{\kf12} Ga{\kf78}la{\kf42}~
-Dialogue: 0,0:00:26.64,0:00:28.32,DEFAULT,,0,0,0,,{\kf6} at{\kf6} the{\kf12} Ga{\kf78}la{\kf42}~
-Dialogue: 0,0:00:29.04,0:00:30.66,DEFAULT,,0,0,0,,{\kf6}We'll{\kf6} be{\kf12}come{\kf12} good{\kf12} friends{\kf12} for{\kf12}e{\kf12}ver
-Dialogue: 0,0:00:30.78,0:00:34.08,DEFAULT,,0,0,0,,{\kf30} right{\kf36} here{\kf36} at{\kf36} the{\kf12} Ga{\kf78}la{\kf42}~
-Dialogue: 0,0:00:34.32,0:00:36.00,DEFAULT,,0,0,0,,{\kf6} at{\kf6} the{\kf12} Ga{\kf78}la{\kf42}~
-Dialogue: 0,0:00:36.72,0:00:38.34,DEFAULT,,0,0,0,,{\kf6}We'll{\kf6} be{\kf12}come{\kf12} good{\kf12} friends{\kf12} for{\kf12}e{\kf12}ver
-Dialogue: 0,0:00:38.46,0:00:41.76,DEFAULT,,0,0,0,,{\kf30} right{\kf36} here{\kf36} at{\kf36} the{\kf12} Ga{\kf120}la
-Dialogue: 0,0:00:42.00,0:00:43.68,DEFAULT,,0,0,0,,{\kf6} at{\kf6} the{\kf18} Ga{\kf120}la
-Dialogue: 0,0:00:43.92,0:00:47.52,DEFAULT,,0,0,0,,{\kf6}At{\kf6} the{\kf18} Ga{\kf72}la{\kf48}~{\kf6} at{\kf6} the{\kf18} Ga{\kf120}la
-Dialogue: 0,0:00:47.76,0:00:51.36,DEFAULT,,0,0,0,,{\kf6}At{\kf6} the{\kf12} Ga{\kf120}la{\kf6} at{\kf6} the{\kf18} Ga{\kf120}la
-Dialogue: 0,0:00:51.60,0:00:57.12,DEFAULT,,0,0,0,,{\kf6}At{\kf6} the{\kf18} Ga{\kf72}la{\kf48}~{\kf36} right{\kf36} here{\kf36} at{\kf36} the{\kf12} Ga{\kf120}la
-Dialogue: 0,0:00:57.36,0:00:59.04,DEFAULT,,0,0,0,,{\kf6} at{\kf6} the{\kf18} Ga{\kf120}la
-Dialogue: 0,0:00:59.28,0:01:02.88,DEFAULT,,0,0,0,,{\kf6}At{\kf6} the{\kf18} Ga{\kf72}la{\kf48}~{\kf6} at{\kf6} the{\kf18} Ga{\kf120}la
-Dialogue: 0,0:01:03.12,0:01:06.72,DEFAULT,,0,0,0,,{\kf6}At{\kf6} the{\kf12} Ga{\kf120}la{\kf6} at{\kf6} the{\kf18} Ga{\kf120}la
-Dialogue: 0,0:01:06.96,0:01:11.46,DEFAULT,,0,0,0,,{\kf6}At{\kf6} the{\kf18} Ga{\kf72}la{\kf48}~{\kf36} right{\kf36} here{\kf36} at{\kf36} the{\kf12} Ga{\kf18}la
-Dialogue: 0,0:01:14.64,0:01:15.30,DEFAULT,,0,0,0,,{\kf6} at{\kf6} the{\kf12} Ga{\kf18}la
-Dialogue: 0,0:01:18.72,0:01:19.14,DEFAULT,,0,0,0,,{\kf12}Ga{\kf18}la
-Dialogue: 0,0:01:22.32,0:01:22.98,DEFAULT,,0,0,0,,{\kf6} at{\kf6} the{\kf12} Ga{\kf18}la
-Dialogue: 0,0:01:26.16,0:01:26.82,DEFAULT,,0,0,0,,{\kf6}At{\kf6} the{\kf12} Ga{\kf18}la
-Dialogue: 0,0:01:30.00,0:01:30.66,DEFAULT,,0,0,0,,{\kf6} at{\kf6} the{\kf12} Ga{\kf18}la
-Dialogue: 0,0:01:34.08,0:01:34.50,DEFAULT,,0,0,0,,{\kf12}Ga{\kf18}la
-Dialogue: 0,0:01:37.68,0:01:38.34,DEFAULT,,0,0,0,,{\kf6} at{\kf6} the{\kf12} Ga{\kf18}la
-Dialogue: 0,0:01:56.88,0:02:00.42,DEFAULT,,0,0,0,,{\kf6}At{\kf6} the{\kf12} Ga{\kf18}la{\kf6} in{\kf6} the{\kf18} gar{\kf24}den{\kf12} I'm{\kf6} go{\kf6}ing{\kf12} to{\kf18} see{\kf18} them{\kf18} all{\kf18}~
-Dialogue: 0,0:02:00.72,0:02:04.26,DEFAULT,,0,0,0,,{\kf6}All{\kf6} the{\kf12} crea{\kf6}~{\kf18}tures{\kf6} I'll{\kf6} be{\kf12} friend{\kf12} them{\kf12} at{\kf12} the{\kf12} Ga{\kf78}la{\kf36}~
-Dialogue: 0,0:02:05.04,0:02:08.64,DEFAULT,,0,0,0,,{\kf6}All{\kf6} the{\kf12} bir{\kf18}dies{\kf6} and{\kf6} the{\kf18} crit{\kf24}ters{\kf12} they{\kf6} will{\kf12} love{\kf12} me{\kf18} big{\kf18} and{\kf24} small{\kf18}~
-Dialogue: 0,0:02:08.88,0:02:13.92,DEFAULT,,0,0,0,,{\kf6}We'll{\kf6} be{\kf12}come{\kf12} good{\kf12} friends{\kf12} for{\kf12}e{\kf12}ver{\kf36} right{\kf36} here{\kf36} at{\kf36} the{\kf12} Ga{\kf78}la{\kf42}~
-Dialogue: 0,0:02:14.16,0:02:15.84,DEFAULT,,0,0,0,,{\kf6} at{\kf6} the{\kf12} Ga{\kf78}la{\kf42}~
-Dialogue: 0,0:02:16.56,0:02:21.60,DEFAULT,,0,0,0,,{\kf6}We'll{\kf6} be{\kf12}come{\kf12} good{\kf12} friends{\kf12} for{\kf12}e{\kf12}ver{\kf36} right{\kf36} here{\kf36} at{\kf36} the{\kf12} Ga{\kf78}la{\kf42}~
-Dialogue: 0,0:02:21.84,0:02:23.52,DEFAULT,,0,0,0,,{\kf6} at{\kf6} the{\kf12} Ga{\kf78}la{\kf42}~
-Dialogue: 0,0:02:24.24,0:02:25.86,DEFAULT,,0,0,0,,{\kf6}We'll{\kf6} be{\kf12}come{\kf12} good{\kf12} friends{\kf12} for{\kf12}e{\kf12}ver
-Dialogue: 0,0:02:25.98,0:02:31.20,DEFAULT,,0,0,0,,{\kf30} right{\kf36} here{\kf36} at{\kf36} the{\kf12} Ga{\kf120}la{\kf6} at{\kf6} the{\kf18} Ga{\kf120}la
-Dialogue: 0,0:02:31.44,0:02:35.04,DEFAULT,,0,0,0,,{\kf6}At{\kf6} the{\kf18} Ga{\kf72}la{\kf48}~{\kf6} at{\kf6} the{\kf18} Ga{\kf120}la
-Dialogue: 0,0:02:35.28,0:02:38.88,DEFAULT,,0,0,0,,{\kf6}At{\kf6} the{\kf12} Ga{\kf120}la{\kf6} at{\kf6} the{\kf18} Ga{\kf120}la
-Dialogue: 0,0:02:39.12,0:02:44.64,DEFAULT,,0,0,0,,{\kf6}At{\kf6} the{\kf18} Ga{\kf72}la{\kf48}~{\kf36} right{\kf36} here{\kf36} at{\kf36} the{\kf12} Ga{\kf120}la
-Dialogue: 0,0:02:44.88,0:02:46.56,DEFAULT,,0,0,0,,{\kf6} at{\kf6} the{\kf18} Ga{\kf120}la
-Dialogue: 0,0:02:46.80,0:02:50.40,DEFAULT,,0,0,0,,{\kf6}At{\kf6} the{\kf18} Ga{\kf72}la{\kf48}~{\kf6} at{\kf6} the{\kf18} Ga{\kf120}la
-Dialogue: 0,0:02:50.64,0:02:54.24,DEFAULT,,0,0,0,,{\kf6}At{\kf6} the{\kf12} Ga{\kf120}la{\kf6} at{\kf6} the{\kf18} Ga{\kf120}la
-Dialogue: 0,0:02:54.48,0:02:58.98,DEFAULT,,0,0,0,,{\kf6}At{\kf6} the{\kf18} Ga{\kf72}la{\kf48}~{\kf36} right{\kf36} here{\kf36} at{\kf36} the{\kf12} Ga{\kf18}la
-Dialogue: 0,0:03:02.16,0:03:02.82,DEFAULT,,0,0,0,,{\kf6} at{\kf6} the{\kf12} Ga{\kf18}la
-Dialogue: 0,0:03:06.24,0:03:06.66,DEFAULT,,0,0,0,,{\kf12}Ga{\kf18}la
-Dialogue: 0,0:03:09.84,0:03:10.50,DEFAULT,,0,0,0,,{\kf6} at{\kf6} the{\kf12} Ga{\kf18}la
-Dialogue: 0,0:03:13.68,0:03:14.34,DEFAULT,,0,0,0,,{\kf6}At{\kf6} the{\kf12} Ga{\kf18}la
-Dialogue: 0,0:03:17.52,0:03:18.18,DEFAULT,,0,0,0,,{\kf6} at{\kf6} the{\kf12} Ga{\kf18}la
-Dialogue: 0,0:03:21.60,0:03:22.02,DEFAULT,,0,0,0,,{\kf12}Ga{\kf18}la
-Dialogue: 0,0:03:25.20,0:03:25.86,DEFAULT,,0,0,0,,{\kf6} at{\kf6} the{\kf12} Ga{\kf18}la
+Dialogue: 0,0:00:09.37,0:00:12.91,DEFAULT,,0,0,0,,{\r}{\kf10}At{\kf10} the{\kf21} Ga{\kf31}la{\kf10} in{\kf10} the{\kf31} gar{\kf42}den{\kf21} I'm{\kf10} go{\kf10}ing{\kf21} to{\kf31} see{\kf31} them{\kf31} all{\kf34}~
+Dialogue: 0,0:00:13.21,0:00:16.75,DEFAULT,,0,0,0,,{\r}{\kf10}All{\kf10} the{\kf18} crea{\kf10}~{\kf27}tures{\kf10} I'll{\kf10} be{\kf18} friend{\kf18} them{\kf18} at{\kf18} the{\kf18} Ga{\kf118}la{\kf51}~
+Dialogue: 0,0:00:17.53,0:00:19.27,DEFAULT,,0,0,0,,{\r}{\kf11}All{\kf11} the{\kf22} bir{\kf33}dies{\kf11} and{\kf11} the{\kf33} crit{\kf42}ters
+Dialogue: 0,0:00:19.51,0:00:21.13,DEFAULT,,0,0,0,,{\r}{\kf16} they{\kf10} will{\kf16} love{\kf16} me{\kf24} big{\kf24} and{\kf32} small{\kf24}~
+Dialogue: 0,0:00:21.37,0:00:22.99,DEFAULT,,0,0,0,,{\r}{\kf12}We'll{\kf12} be{\kf23}come{\kf23} good{\kf23} friends{\kf23} for{\kf23}e{\kf23}ver
+Dialogue: 0,0:00:23.11,0:00:26.41,DEFAULT,,0,0,0,,{\r}{\kf37} right{\kf44} here{\kf44} at{\kf44} the{\kf15} Ga{\kf95}la{\kf51}~
+Dialogue: 0,0:00:26.65,0:00:28.33,DEFAULT,,0,0,0,,{\r}{\kf10} at{\kf10} the{\kf14} Ga{\kf91}la{\kf43}~
+Dialogue: 0,0:00:29.05,0:00:30.67,DEFAULT,,0,0,0,,{\r}{\kf12}We'll{\kf12} be{\kf23}come{\kf23} good{\kf23} friends{\kf23} for{\kf23}e{\kf23}ver
+Dialogue: 0,0:00:30.79,0:00:34.09,DEFAULT,,0,0,0,,{\r}{\kf37} right{\kf44} here{\kf44} at{\kf44} the{\kf15} Ga{\kf95}la{\kf51}~
+Dialogue: 0,0:00:34.33,0:00:36.01,DEFAULT,,0,0,0,,{\r}{\kf10} at{\kf10} the{\kf14} Ga{\kf91}la{\kf43}~
+Dialogue: 0,0:00:36.73,0:00:38.35,DEFAULT,,0,0,0,,{\r}{\kf12}We'll{\kf12} be{\kf23}come{\kf23} good{\kf23} friends{\kf23} for{\kf23}e{\kf23}ver
+Dialogue: 0,0:00:38.47,0:00:41.77,DEFAULT,,0,0,0,,{\r}{\kf37} right{\kf44} here{\kf44} at{\kf44} the{\kf15} Ga{\kf146}la
+Dialogue: 0,0:00:42.01,0:00:43.69,DEFAULT,,0,0,0,,{\r}{\kf10} at{\kf10} the{\kf20} Ga{\kf128}la
+Dialogue: 0,0:00:43.93,0:00:47.53,DEFAULT,,0,0,0,,{\r}{\kf10}At{\kf10} the{\kf22} Ga{\kf86}la{\kf58}~{\kf10} at{\kf10} the{\kf22} Ga{\kf132}la
+Dialogue: 0,0:00:47.77,0:00:51.37,DEFAULT,,0,0,0,,{\r}{\kf10}At{\kf10} the{\kf15} Ga{\kf147}la{\kf10} at{\kf10} the{\kf22} Ga{\kf136}la
+Dialogue: 0,0:00:51.61,0:00:57.13,DEFAULT,,0,0,0,,{\r}{\kf10}At{\kf10} the{\kf23} Ga{\kf93}la{\kf62}~{\kf47} right{\kf47} here{\kf47} at{\kf47} the{\kf16} Ga{\kf150}la
+Dialogue: 0,0:00:57.37,0:00:59.05,DEFAULT,,0,0,0,,{\r}{\kf10} at{\kf10} the{\kf20} Ga{\kf128}la
+Dialogue: 0,0:00:59.29,0:01:02.89,DEFAULT,,0,0,0,,{\r}{\kf10}At{\kf10} the{\kf22} Ga{\kf86}la{\kf58}~{\kf10} at{\kf10} the{\kf22} Ga{\kf132}la
+Dialogue: 0,0:01:03.13,0:01:06.73,DEFAULT,,0,0,0,,{\r}{\kf10}At{\kf10} the{\kf15} Ga{\kf147}la{\kf10} at{\kf10} the{\kf22} Ga{\kf136}la
+Dialogue: 0,0:01:06.97,0:01:11.47,DEFAULT,,0,0,0,,{\r}{\kf10}At{\kf10} the{\kf25} Ga{\kf100}la{\kf67}~{\kf50} right{\kf50} here{\kf50} at{\kf50} the{\kf17} Ga{\kf21}la
+Dialogue: 0,0:01:14.65,0:01:15.31,DEFAULT,,0,0,0,,{\r}{\kf10} at{\kf10} the{\kf19} Ga{\kf27}la
+Dialogue: 0,0:01:18.73,0:01:19.15,DEFAULT,,0,0,0,,{\r}{\kf17}Ga{\kf25}la
+Dialogue: 0,0:01:22.33,0:01:22.99,DEFAULT,,0,0,0,,{\r}{\kf10} at{\kf10} the{\kf19} Ga{\kf27}la
+Dialogue: 0,0:01:26.17,0:01:26.83,DEFAULT,,0,0,0,,{\r}{\kf10}At{\kf10} the{\kf19} Ga{\kf27}la
+Dialogue: 0,0:01:30.01,0:01:30.67,DEFAULT,,0,0,0,,{\r}{\kf10} at{\kf10} the{\kf19} Ga{\kf27}la
+Dialogue: 0,0:01:34.09,0:01:34.51,DEFAULT,,0,0,0,,{\r}{\kf17}Ga{\kf25}la
+Dialogue: 0,0:01:37.69,0:01:38.35,DEFAULT,,0,0,0,,{\r}{\kf10} at{\kf10} the{\kf19} Ga{\kf27}la
+Dialogue: 0,0:01:56.89,0:02:00.43,DEFAULT,,0,0,0,,{\r}{\kf10}At{\kf10} the{\kf21} Ga{\kf31}la{\kf10} in{\kf10} the{\kf31} gar{\kf42}den{\kf21} I'm{\kf10} go{\kf10}ing{\kf21} to{\kf31} see{\kf31} them{\kf31} all{\kf34}~
+Dialogue: 0,0:02:00.73,0:02:04.27,DEFAULT,,0,0,0,,{\r}{\kf10}All{\kf10} the{\kf18} crea{\kf10}~{\kf27}tures{\kf10} I'll{\kf10} be{\kf18} friend{\kf18} them{\kf18} at{\kf18} the{\kf18} Ga{\kf118}la{\kf51}~
+Dialogue: 0,0:02:05.05,0:02:08.65,DEFAULT,,0,0,0,,{\r}{\kf10}All{\kf10} the{\kf20} bir{\kf30}dies{\kf10} and{\kf10} the{\kf30} crit{\kf40}ters{\kf20} they{\kf10} will{\kf20} love{\kf20} me{\kf30} big{\kf30} and{\kf40} small{\kf30}~
+Dialogue: 0,0:02:08.89,0:02:13.93,DEFAULT,,0,0,0,,{\r}{\kf10}We'll{\kf10} be{\kf17}come{\kf17} good{\kf17} friends{\kf17} for{\kf17}e{\kf17}ver{\kf50} right{\kf50} here{\kf50} at{\kf50} the{\kf17} Ga{\kf109}la{\kf56}~
+Dialogue: 0,0:02:14.17,0:02:15.84,DEFAULT,,0,0,0,,{\r}{\kf10} at{\kf10} the{\kf14} Ga{\kf91}la{\kf43}~
+Dialogue: 0,0:02:16.56,0:02:21.60,DEFAULT,,0,0,0,,{\r}{\kf10}We'll{\kf10} be{\kf17}come{\kf17} good{\kf17} friends{\kf17} for{\kf17}e{\kf17}ver{\kf50} right{\kf50} here{\kf50} at{\kf50} the{\kf17} Ga{\kf109}la{\kf56}~
+Dialogue: 0,0:02:21.84,0:02:23.52,DEFAULT,,0,0,0,,{\r}{\kf10} at{\kf10} the{\kf14} Ga{\kf91}la{\kf43}~
+Dialogue: 0,0:02:24.24,0:02:25.86,DEFAULT,,0,0,0,,{\r}{\kf12}We'll{\kf12} be{\kf23}come{\kf23} good{\kf23} friends{\kf23} for{\kf23}e{\kf23}ver
+Dialogue: 0,0:02:25.98,0:02:31.20,DEFAULT,,0,0,0,,{\r}{\kf37} right{\kf45} here{\kf45} at{\kf45} the{\kf15} Ga{\kf149}la{\kf10} at{\kf10} the{\kf22} Ga{\kf144}la
+Dialogue: 0,0:02:31.44,0:02:35.04,DEFAULT,,0,0,0,,{\r}{\kf10}At{\kf10} the{\kf22} Ga{\kf86}la{\kf58}~{\kf10} at{\kf10} the{\kf22} Ga{\kf132}la
+Dialogue: 0,0:02:35.28,0:02:38.88,DEFAULT,,0,0,0,,{\r}{\kf10}At{\kf10} the{\kf15} Ga{\kf147}la{\kf10} at{\kf10} the{\kf22} Ga{\kf136}la
+Dialogue: 0,0:02:39.12,0:02:44.64,DEFAULT,,0,0,0,,{\r}{\kf10}At{\kf10} the{\kf23} Ga{\kf93}la{\kf62}~{\kf47} right{\kf47} here{\kf47} at{\kf47} the{\kf16} Ga{\kf150}la
+Dialogue: 0,0:02:44.88,0:02:46.56,DEFAULT,,0,0,0,,{\r}{\kf10} at{\kf10} the{\kf20} Ga{\kf128}la
+Dialogue: 0,0:02:46.80,0:02:50.40,DEFAULT,,0,0,0,,{\r}{\kf10}At{\kf10} the{\kf22} Ga{\kf86}la{\kf58}~{\kf10} at{\kf10} the{\kf22} Ga{\kf132}la
+Dialogue: 0,0:02:50.64,0:02:54.24,DEFAULT,,0,0,0,,{\r}{\kf10}At{\kf10} the{\kf15} Ga{\kf147}la{\kf10} at{\kf10} the{\kf22} Ga{\kf136}la
+Dialogue: 0,0:02:54.48,0:02:58.98,DEFAULT,,0,0,0,,{\r}{\kf10}At{\kf10} the{\kf25} Ga{\kf100}la{\kf67}~{\kf50} right{\kf50} here{\kf50} at{\kf50} the{\kf17} Ga{\kf21}la
+Dialogue: 0,0:03:02.16,0:03:02.82,DEFAULT,,0,0,0,,{\r}{\kf10} at{\kf10} the{\kf19} Ga{\kf27}la
+Dialogue: 0,0:03:06.24,0:03:06.66,DEFAULT,,0,0,0,,{\r}{\kf17}Ga{\kf25}la
+Dialogue: 0,0:03:09.84,0:03:10.50,DEFAULT,,0,0,0,,{\r}{\kf10} at{\kf10} the{\kf19} Ga{\kf27}la
+Dialogue: 0,0:03:13.68,0:03:14.34,DEFAULT,,0,0,0,,{\r}{\kf10}At{\kf10} the{\kf19} Ga{\kf27}la
+Dialogue: 0,0:03:17.52,0:03:18.18,DEFAULT,,0,0,0,,{\r}{\kf10} at{\kf10} the{\kf19} Ga{\kf27}la
+Dialogue: 0,0:03:21.60,0:03:22.02,DEFAULT,,0,0,0,,{\r}{\kf17}Ga{\kf25}la
+Dialogue: 0,0:03:25.20,0:03:25.86,DEFAULT,,0,0,0,,{\r}{\kf10} at{\kf10} the{\kf19} Ga{\kf27}la

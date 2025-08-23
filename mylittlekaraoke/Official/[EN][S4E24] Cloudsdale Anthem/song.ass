@@ -1,42 +1,49 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Cloudsdale Anthem (by Spike)
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.73,0:00:05.84,DEFAULT,,0,0,0,,{\kf30}Oh{\kf23} we're{\kf15} the{\kf19} Won{\kf15}der{\kf30}bolts{\kf34} and{\kf38} we're{\kf23} su{\kf19}per{\kf23} fast
-Dialogue: 0,0:00:05.99,0:00:07.31,DEFAULT,,0,0,0,,{\kf23}And{\kf15} we're{\kf27} from{\kf34} Clouds{\kf12}dale
-Dialogue: 0,0:00:07.42,0:00:08.99,DEFAULT,,0,0,0,,{\kf12}Which{\kf8} is{\kf4} a{\kf8} part{\kf12} of{\kf12} E{\kf19}ques{\kf15}tri{\kf23}a{\kf8} ah{\kf12}ah
-Dialogue: 0,0:00:09.29,0:00:12.44,DEFAULT,,0,0,0,,{\kf30}That{\kf34} we{\kf30} like{\kf27} best{\kf23} and{\kf15} we're{\kf27} proud{\kf23} and{\kf15} we're{\kf30} fast
-Dialogue: 0,0:00:12.56,0:00:15.33,DEFAULT,,0,0,0,,{\kf15}And{\kf15} we{\kf19} like{\kf8} it{\kf12} be{\kf15}cause{\kf12} it{\kf15} real{\kf23}ly{\kf19} has{\kf23} nice{\kf68} trees
-Dialogue: 0,0:00:15.78,0:00:18.41,DEFAULT,,0,0,0,,{\kf15}Yeah{\kf8} and{\kf15} we{\kf12} love{\kf15} the{\kf34} town{\kf15} be{\kf19}cause{\kf15} it's{\kf19} so{\kf30} cool{\kf19} and
-Dialogue: 0,0:00:18.63,0:00:20.39,DEFAULT,,0,0,0,,{\kf19}And{\kf8} we{\kf19} like{\kf15} to{\kf34} fly{\kf23} real{\kf15}ly{\kf19} fast
-Dialogue: 0,0:00:20.69,0:00:22.08,DEFAULT,,0,0,0,,{\kf23}And{\kf23} e{\kf15}very{\kf19}thing{\kf15} like{\kf23} that
-Dialogue: 0,0:00:23.09,0:00:25.38,DEFAULT,,0,0,0,,{\kf27}I{\kf23} kind{\kf12}a{\kf23} wish{\kf15} this{\kf30} was{\kf45} o{\kf27}ver
-Dialogue: 0,0:00:25.49,0:00:26.28,DEFAULT,,0,0,0,,{\kf23}'Cause{\kf12} it{\kf38} is
-Dialogue: 0,0:00:26.73,0:00:27.03,DEFAULT,,0,0,0,,{\kf30}n't
-Dialogue: 0,0:00:27.52,0:00:27.97,DEFAULT,,0,0,0,,{\kf45}yet
-Dialogue: 0,0:00:28.83,0:00:29.24,DEFAULT,,0,0,0,,{\kf15}o{\kf27}ver
-Dialogue: 0,0:00:30.14,0:00:30.41,DEFAULT,,0,0,0,,{\kf27}now
-Dialogue: 0,0:00:30.89,0:00:31.46,DEFAULT,,0,0,0,,{\kf30}Oh{\kf27}~
-Dialogue: 0,0:00:31.64,0:00:34.27,DEFAULT,,0,0,0,,{\kf30}We're{\kf12} the{\kf19} Won{\kf15}der{\kf30}bolts{\kf19} and{\kf19} we're{\kf27} su{\kf19}per{\kf27} fast{\kf23}~
-Dialogue: 0,0:00:34.57,0:00:37.01,DEFAULT,,0,0,0,,{\kf27}And{\kf30} we're{\kf38} cloud--{\kf34} From{\kf34} Clouds{\kf57}dale
-Dialogue: 0,0:00:37.68,0:00:38.77,DEFAULT,,0,0,0,,{\kf30}We{\kf27} like{\kf12} it{\kf27} there
-Dialogue: 0,0:00:38.96,0:00:39.97,DEFAULT,,0,0,0,,{\kf15}'Cause{\kf19} it's{\kf19} real{\kf15}ly{\kf23} nice
-Dialogue: 0,0:00:40.19,0:00:43.79,DEFAULT,,0,0,0,,{\kf19}And{\kf15} the{\kf34} trees{\kf34} are{\kf38} cool{\kf15} and{\kf19} I{\kf19} hope{\kf15} this{\kf8} is{\kf15} o{\kf15}ver{\kf75} now
-Dialogue: 0,0:00:44.24,0:00:44.62,DEFAULT,,0,0,0,,{\kf38}and
-Dialogue: 0,0:00:45.26,0:00:47.32,DEFAULT,,0,0,0,,{\kf19}It{\kf27} keeps{\kf27} go{\kf12}ing{\kf34} on{\kf23} la{\kf12} la{\kf27} la
-Dialogue: 0,0:00:47.54,0:00:48.48,DEFAULT,,0,0,0,,{\kf27}And{\kf15} we{\kf19} real{\kf27}ly
-Dialogue: 0,0:00:48.78,0:00:50.06,DEFAULT,,0,0,0,,{\kf30}Love{\kf23} the{\kf27} town{\kf38}~
-Dialogue: 0,0:00:50.88,0:00:52.34,DEFAULT,,0,0,0,,{\kf12}So{\kf12} I{\kf27} wish{\kf30} that{\kf38} this
-Dialogue: 0,0:00:52.64,0:00:53.36,DEFAULT,,0,0,0,,{\kf72}Song
-Dialogue: 0,0:00:53.84,0:00:55.34,DEFAULT,,0,0,0,,{\kf34}Was{\kf15} o{\kf34}ver{\kf49} now
-Dialogue: 0,0:00:56.28,0:00:56.96,DEFAULT,,0,0,0,,{\kf19}O{\kf49}ver
-Dialogue: 0,0:00:57.97,0:00:58.42,DEFAULT,,0,0,0,,{\kf45}now
-Dialogue: 0,0:01:01.94,0:01:02.43,DEFAULT,,0,0,0,,{\kf19}O{\kf30}ver
-Dialogue: 0,0:01:03.44,0:01:03.82,DEFAULT,,0,0,0,,{\kf38}now
+Dialogue: 0,0:00:02.74,0:00:05.85,DEFAULT,,0,0,0,,{\r}{\kf35}Oh{\kf26} we're{\kf18} the{\kf22} Won{\kf18}der{\kf35}bolts{\kf39} and{\kf44} we're{\kf26} su{\kf22}per{\kf26} fast
+Dialogue: 0,0:00:06.00,0:00:07.31,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf18} we're{\kf32} from{\kf41} Clouds{\kf13}dale
+Dialogue: 0,0:00:07.42,0:00:09.00,DEFAULT,,0,0,0,,{\r}{\kf14}Which{\kf10} is{\kf10} a{\kf10} part{\kf14} of{\kf14} E{\kf23}ques{\kf19}tri{\kf28}a{\kf10} ah{\kf10}ah
+Dialogue: 0,0:00:09.30,0:00:12.45,DEFAULT,,0,0,0,,{\r}{\kf38}That{\kf42} we{\kf38} like{\kf33} best{\kf28} and{\kf19} we're{\kf33} proud{\kf28} and{\kf19} we're{\kf37} fast
+Dialogue: 0,0:00:12.56,0:00:15.34,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf17} we{\kf22} like{\kf10} it{\kf13} be{\kf17}cause{\kf13} it{\kf17} real{\kf26}ly{\kf22} has{\kf26} nice{\kf78} trees
+Dialogue: 0,0:00:15.79,0:00:18.41,DEFAULT,,0,0,0,,{\r}{\kf18}Yeah{\kf10} and{\kf18} we{\kf14} love{\kf18} the{\kf41} town{\kf18} be{\kf23}cause{\kf18} it's{\kf23} so{\kf37} cool{\kf24} and
+Dialogue: 0,0:00:18.64,0:00:20.40,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf10} we{\kf22} like{\kf18} to{\kf40} fly{\kf26} real{\kf18}ly{\kf20} fast
+Dialogue: 0,0:00:20.70,0:00:22.09,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf27} e{\kf18}very{\kf22}thing{\kf18} like{\kf27} that
+Dialogue: 0,0:00:23.10,0:00:25.39,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf26} kind{\kf13}a{\kf26} wish{\kf17} this{\kf35} was{\kf52} o{\kf30}ver
+Dialogue: 0,0:00:25.50,0:00:26.29,DEFAULT,,0,0,0,,{\r}{\kf25}'Cause{\kf12} it{\kf42} is
+Dialogue: 0,0:00:26.74,0:00:27.04,DEFAULT,,0,0,0,,{\r}{\kf30}n't
+Dialogue: 0,0:00:27.52,0:00:27.97,DEFAULT,,0,0,0,,{\r}{\kf45}yet
+Dialogue: 0,0:00:28.84,0:00:29.25,DEFAULT,,0,0,0,,{\r}{\kf15}o{\kf26}ver
+Dialogue: 0,0:00:30.15,0:00:30.41,DEFAULT,,0,0,0,,{\r}{\kf26}now
+Dialogue: 0,0:00:30.90,0:00:31.46,DEFAULT,,0,0,0,,{\r}{\kf30}Oh{\kf26}~
+Dialogue: 0,0:00:31.65,0:00:34.27,DEFAULT,,0,0,0,,{\r}{\kf33}We're{\kf12} the{\kf21} Won{\kf17}der{\kf33}bolts{\kf21} and{\kf21} we're{\kf29} su{\kf21}per{\kf29} fast{\kf25}~
+Dialogue: 0,0:00:34.57,0:00:37.01,DEFAULT,,0,0,0,,{\r}{\kf29}And{\kf34} we're{\kf42} cloud--{\kf38} From{\kf38} Clouds{\kf63}dale
+Dialogue: 0,0:00:37.69,0:00:38.77,DEFAULT,,0,0,0,,{\r}{\kf35}We{\kf31} like{\kf13} it{\kf30} there
+Dialogue: 0,0:00:38.96,0:00:39.97,DEFAULT,,0,0,0,,{\r}{\kf17}'Cause{\kf21} it's{\kf21} real{\kf17}ly{\kf25} nice
+Dialogue: 0,0:00:40.20,0:00:43.80,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf17} the{\kf38} trees{\kf38} are{\kf42} cool{\kf17} and{\kf21} I{\kf21} hope{\kf17} this{\kf10} is{\kf17} o{\kf17}ver{\kf84} now
+Dialogue: 0,0:00:44.25,0:00:44.62,DEFAULT,,0,0,0,,{\r}{\kf38}and
+Dialogue: 0,0:00:45.26,0:00:47.32,DEFAULT,,0,0,0,,{\r}{\kf22}It{\kf31} keeps{\kf31} go{\kf13}ing{\kf39} on{\kf26} la{\kf13} la{\kf31} la
+Dialogue: 0,0:00:47.55,0:00:48.49,DEFAULT,,0,0,0,,{\r}{\kf29}And{\kf16} we{\kf20} real{\kf29}ly
+Dialogue: 0,0:00:48.79,0:00:50.06,DEFAULT,,0,0,0,,{\r}{\kf33}Love{\kf25} the{\kf29} town{\kf41}~
+Dialogue: 0,0:00:50.89,0:00:52.35,DEFAULT,,0,0,0,,{\r}{\kf14}So{\kf14} I{\kf33} wish{\kf38} that{\kf47} this
+Dialogue: 0,0:00:52.65,0:00:53.36,DEFAULT,,0,0,0,,{\r}{\kf71}Song
+Dialogue: 0,0:00:53.85,0:00:55.35,DEFAULT,,0,0,0,,{\r}{\kf39}Was{\kf17} o{\kf39}ver{\kf55} now
+Dialogue: 0,0:00:56.29,0:00:56.96,DEFAULT,,0,0,0,,{\r}{\kf19}O{\kf48}ver
+Dialogue: 0,0:00:57.97,0:00:58.42,DEFAULT,,0,0,0,,{\r}{\kf45}now
+Dialogue: 0,0:01:01.95,0:01:02.44,DEFAULT,,0,0,0,,{\r}{\kf19}O{\kf30}ver
+Dialogue: 0,0:01:03.45,0:01:03.82,DEFAULT,,0,0,0,,{\r}{\kf38}now

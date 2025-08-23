@@ -1,62 +1,69 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Feed Me with Your Heart
+Artist: Ponyphonic
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.96,0:00:17.23,DEFAULT,,0,0,0,,{\kf20}Mis{\kf35}sing?{\kf24} Good{\kf24}ness,{\kf43} no!
-Dialogue: 0,0:00:17.46,0:00:20.81,DEFAULT,,0,0,0,,{\kf24}I{\kf16} have{\kf20} been{\kf27} right{\kf31} here{\kf39} all{\kf20} a{\kf62}long
-Dialogue: 0,0:00:21.35,0:00:24.31,DEFAULT,,0,0,0,,{\kf27}Well,{\kf24} I{\kf27} stepped{\kf35} out{\kf27} for{\kf16} a{\kf24} mo{\kf24}ment
-Dialogue: 0,0:00:25.15,0:00:28.00,DEFAULT,,0,0,0,,{\kf20}But{\kf20} I'm{\kf27} back{\kf16} where{\kf39} I{\kf20} be{\kf66}long
-Dialogue: 0,0:00:28.85,0:00:31.73,DEFAULT,,0,0,0,,{\kf20}Yes,{\kf35} I,{\kf16} the{\kf20} one{\kf16} you{\kf24} care{\kf39} for
-Dialogue: 0,0:00:32.27,0:00:35.38,DEFAULT,,0,0,0,,{\kf20}Real{\kf20}ly,{\kf16} who{\kf35} else{\kf24} would{\kf35} I{\kf70} be?
-Dialogue: 0,0:00:35.96,0:00:39.11,DEFAULT,,0,0,0,,{\kf27}Now{\kf27} just{\kf20} re{\kf35}lax,{\kf35} my{\kf31} darl{\kf39}ing
-Dialogue: 0,0:00:39.54,0:00:43.08,DEFAULT,,0,0,0,,{\kf24}And{\kf16} give{\kf35} all{\kf24} your{\kf47} love{\kf24} to{\kf108} me
-Dialogue: 0,0:00:45.00,0:00:47.88,DEFAULT,,0,0,0,,{\kf27}This{\kf27} room{\kf24} is{\kf27} ra{\kf20}ther{\kf27} co{\kf39}zy
-Dialogue: 0,0:00:48.15,0:00:51.11,DEFAULT,,0,0,0,,{\kf24}And{\kf27} this{\kf27} clo{\kf27}thing's{\kf35} aw{\kf24}fully{\kf35} nice
-Dialogue: 0,0:00:51.73,0:00:55.38,DEFAULT,,0,0,0,,{\kf24}Your{\kf27} af{\kf24}fec{\kf24}tion{\kf27} is{\kf20} de{\kf27}lec{\kf20}ta{\kf43}ble
-Dialogue: 0,0:00:56.00,0:00:58.58,DEFAULT,,0,0,0,,{\kf20}I{\kf20} think{\kf24} this{\kf35} will{\kf20} suf{\kf62}fice
-Dialogue: 0,0:00:59.81,0:01:02.23,DEFAULT,,0,0,0,,{\kf27}Call{\kf24} me{\kf39} a{\kf31} ro{\kf31}man{\kf31}tic
-Dialogue: 0,0:01:02.85,0:01:05.81,DEFAULT,,0,0,0,,{\kf16}But{\kf16} I{\kf39} feel{\kf24} we're{\kf27} quite{\kf20} the{\kf62} pair
-Dialogue: 0,0:01:06.88,0:01:09.65,DEFAULT,,0,0,0,,{\kf47}Me,{\kf16} the{\kf24} change{\kf39}ling{\kf20} suc{\kf24}cu{\kf24}bus
-Dialogue: 0,0:01:09.92,0:01:13.19,DEFAULT,,0,0,0,,{\kf27}And{\kf43} you,{\kf16} the{\kf20} un{\kf27}a{\kf85}ware
-Dialogue: 0,0:01:13.73,0:01:16.35,DEFAULT,,0,0,0,,{\kf31}So{\kf50} feed{\kf24} me{\kf16} with{\kf24} your{\kf47} heart
-Dialogue: 0,0:01:16.54,0:01:20.11,DEFAULT,,0,0,0,,{\kf31}My{\kf27} sweet,{\kf20} un{\kf20}wit{\kf47}ting{\kf35} de{\kf24}vo{\kf77}tee
-Dialogue: 0,0:01:20.81,0:01:23.54,DEFAULT,,0,0,0,,{\kf39}You've{\kf27} some{\kf20}one{\kf50} else{\kf20} in{\kf50} mind
-Dialogue: 0,0:01:23.88,0:01:27.42,DEFAULT,,0,0,0,,{\kf16}But{\kf20} it's{\kf27} al{\kf39}right{\kf20} with{\kf85} me
-Dialogue: 0,0:01:27.92,0:01:31.00,DEFAULT,,0,0,0,,{\kf31}Just{\kf31} give{\kf20} your{\kf35}self{\kf24} com{\kf39}plete{\kf39}ly
-Dialogue: 0,0:01:31.35,0:01:34.38,DEFAULT,,0,0,0,,{\kf24}I'll{\kf20} take{\kf50} all{\kf20} you{\kf31} have{\kf24} and{\kf62} more
-Dialogue: 0,0:01:35.19,0:01:40.19,DEFAULT,,0,0,0,,{\kf39}You'll{\kf27} love{\kf39} me{\kf24} like{\kf31} you've{\kf24} ne{\kf24}ver{\kf50} loved{\kf24} be{\kf100}fore
-Dialogue: 0,0:01:45.92,0:01:48.46,DEFAULT,,0,0,0,,{\kf31}I{\kf39} wear{\kf24} this{\kf27} bor{\kf31}rowed{\kf31} face
-Dialogue: 0,0:01:48.65,0:01:52.27,DEFAULT,,0,0,0,,{\kf24}That{\kf24} says{\kf35} I'm{\kf43} sweet{\kf16} and{\kf31} safe{\kf20} and{\kf54} kind
-Dialogue: 0,0:01:52.69,0:01:56.31,DEFAULT,,0,0,0,,{\kf24}For{\kf31} I{\kf35} fear{\kf20} that{\kf27} you'd{\kf27} be{\kf35} fear{\kf27}ful{\kf35} of
-Dialogue: 0,0:01:56.69,0:01:59.50,DEFAULT,,0,0,0,,{\kf16}The{\kf35} thing{\kf24} that{\kf54} lies{\kf24} be{\kf74}hind
-Dialogue: 0,0:02:00.65,0:02:03.31,DEFAULT,,0,0,0,,{\kf27}Moth{\kf24}-eat{\kf20}en{\kf16} and{\kf20} sick{\kf43}ly
-Dialogue: 0,0:02:03.65,0:02:06.42,DEFAULT,,0,0,0,,{\kf20}Mat{\kf16}ted{\kf24} tres{\kf31}ses,{\kf24} shar{\kf20}pened{\kf43} teeth
-Dialogue: 0,0:02:07.08,0:02:10.77,DEFAULT,,0,0,0,,{\kf24}Slit{\kf20}ted{\kf47} eyes{\kf20} of{\kf50} green{\kf16} with{\kf20} char{\kf31}coal{\kf35} skin
-Dialogue: 0,0:02:10.96,0:02:13.85,DEFAULT,,0,0,0,,{\kf24}And{\kf20} a{\kf31}shen{\kf35} heart{\kf16} be{\kf66}neath
-Dialogue: 0,0:02:16.35,0:02:19.23,DEFAULT,,0,0,0,,{\kf35}My{\kf27} hun{\kf27}ger{\kf31} springs{\kf24} e{\kf16}ter{\kf24}~{\kf24}nal
-Dialogue: 0,0:02:19.46,0:02:22.88,DEFAULT,,0,0,0,,{\kf31}I've{\kf20} an{\kf27} emp{\kf20}ti{\kf31}ness{\kf27} in{\kf70}side
-Dialogue: 0,0:02:23.61,0:02:27.04,DEFAULT,,0,0,0,,{\kf27}I{\kf24} pray{\kf20} that{\kf39} I{\kf27} may{\kf31} prey{\kf24} on{\kf50} you
-Dialogue: 0,0:02:27.35,0:02:30.15,DEFAULT,,0,0,0,,{\kf12}Un{\kf24}til{\kf27} I'm{\kf27} sa{\kf24}tis{\kf85}fied
-Dialogue: 0,0:02:31.04,0:02:34.11,DEFAULT,,0,0,0,,{\kf39}I{\kf31} care{\kf31} not{\kf24} for{\kf39} flesh,{\kf16} nor{\kf27} I
-Dialogue: 0,0:02:34.35,0:02:37.04,DEFAULT,,0,0,0,,{\kf20}For{\kf31} fruit,{\kf24} or{\kf39} leaf,{\kf24} or{\kf50} seed
-Dialogue: 0,0:02:37.42,0:02:41.35,DEFAULT,,0,0,0,,{\kf39}No,{\kf24} I{\kf39} feast{\kf20} on{\kf27} your{\kf20} de{\kf24}vo{\kf27}~{\kf24}tion,{\kf47} dear
-Dialogue: 0,0:02:41.69,0:02:44.42,DEFAULT,,0,0,0,,{\kf27}Your{\kf35} love{\kf24} is{\kf12} all{\kf27}~{\kf24} I{\kf62} need
-Dialogue: 0,0:02:44.65,0:02:47.85,DEFAULT,,0,0,0,,{\kf74}So{\kf39} feed{\kf27} me{\kf20} with{\kf31} your{\kf35} heart
-Dialogue: 0,0:02:48.04,0:02:51.77,DEFAULT,,0,0,0,,{\kf31}My{\kf27} sweet,{\kf24} un{\kf24}wit{\kf35}ting{\kf31} de{\kf35}vo{\kf74}tee
-Dialogue: 0,0:02:52.42,0:02:55.04,DEFAULT,,0,0,0,,{\kf31}You've{\kf27} some{\kf20}one{\kf39} else{\kf20} in{\kf43} mind
-Dialogue: 0,0:02:55.42,0:02:59.15,DEFAULT,,0,0,0,,{\kf24}But{\kf20} it's{\kf31} al{\kf62}right{\kf27} with{\kf93} me
-Dialogue: 0,0:02:59.50,0:03:03.00,DEFAULT,,0,0,0,,{\kf31}Your{\kf31} pa{\kf24}ra{\kf27}si{\kf27}tic{\kf35} pa{\kf24}ra{\kf50}mour
-Dialogue: 0,0:03:03.35,0:03:06.00,DEFAULT,,0,0,0,,{\kf27}Will{\kf31} steal{\kf27} your{\kf31} heart{\kf20} and{\kf54} then
-Dialogue: 0,0:03:06.81,0:03:08.00,DEFAULT,,0,0,0,,{\kf27}I'll{\kf35} leave{\kf35} you
-Dialogue: 0,0:03:08.42,0:03:12.92,DEFAULT,,0,0,0,,{\kf20}And{\kf20} you'll{\kf24} ne{\kf27}ver{\kf50} love{\kf16} a{\kf212}gain
-Dialogue: 0,0:03:28.19,0:03:31.54,DEFAULT,,0,0,0,,{\kf47}Your{\kf27} pa{\kf27}ra{\kf24}si{\kf24}tic{\kf31} pa{\kf16}ra{\kf47}mour
-Dialogue: 0,0:03:32.00,0:03:34.65,DEFAULT,,0,0,0,,{\kf31}Will{\kf43} steal{\kf20} your{\kf27} heart{\kf16} and{\kf54} then
-Dialogue: 0,0:03:35.31,0:03:40.69,DEFAULT,,0,0,0,,{\kf39}I'll{\kf35} leave{\kf31} you,{\kf35} and{\kf27} you'll{\kf31} ne{\kf35}ver{\kf47} love{\kf27} a{\kf112}gain
-Dialogue: 0,0:03:42.61,0:03:47.23,DEFAULT,,0,0,0,,{\kf27}You'll{\kf31} love{\kf31} me,{\kf24} then{\kf16} you'll{\kf24} ne{\kf27}ver{\kf43} love{\kf12} a{\kf66}gain
+Dialogue: 0,0:00:14.97,0:00:17.24,DEFAULT,,0,0,0,,{\r}{\kf31}Mis{\kf55}sing?{\kf37} Good{\kf37}ness,{\kf67} no!
+Dialogue: 0,0:00:17.47,0:00:20.81,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf22} have{\kf27} been{\kf38} right{\kf44} here{\kf55} all{\kf27} a{\kf89}long
+Dialogue: 0,0:00:21.35,0:00:24.31,DEFAULT,,0,0,0,,{\r}{\kf40}Well,{\kf34} I{\kf40} stepped{\kf51} out{\kf40} for{\kf23} a{\kf34} mo{\kf34}ment
+Dialogue: 0,0:00:25.16,0:00:28.00,DEFAULT,,0,0,0,,{\r}{\kf27}But{\kf27} I'm{\kf38} back{\kf22} where{\kf54} I{\kf27} be{\kf90}long
+Dialogue: 0,0:00:28.85,0:00:31.74,DEFAULT,,0,0,0,,{\r}{\kf33}Yes,{\kf60} I,{\kf27} the{\kf33} one{\kf27} you{\kf40} care{\kf68} for
+Dialogue: 0,0:00:32.27,0:00:35.39,DEFAULT,,0,0,0,,{\r}{\kf28}Real{\kf28}ly,{\kf22} who{\kf50} else{\kf33} would{\kf50} I{\kf101} be?
+Dialogue: 0,0:00:35.97,0:00:39.12,DEFAULT,,0,0,0,,{\r}{\kf40}Now{\kf40} just{\kf29} re{\kf52}lax,{\kf52} my{\kf46} darl{\kf56}ing
+Dialogue: 0,0:00:39.54,0:00:43.08,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf20} give{\kf45} all{\kf30} your{\kf60} love{\kf30} to{\kf139} me
+Dialogue: 0,0:00:45.00,0:00:47.89,DEFAULT,,0,0,0,,{\r}{\kf41}This{\kf41} room{\kf35} is{\kf41} ra{\kf29}ther{\kf41} co{\kf60}zy
+Dialogue: 0,0:00:48.16,0:00:51.12,DEFAULT,,0,0,0,,{\r}{\kf35}And{\kf41} this{\kf41} clo{\kf41}thing's{\kf52} aw{\kf35}fully{\kf51} nice
+Dialogue: 0,0:00:51.74,0:00:55.39,DEFAULT,,0,0,0,,{\r}{\kf37}Your{\kf43} af{\kf37}fec{\kf37}tion{\kf43} is{\kf30} de{\kf43}lec{\kf30}ta{\kf65}ble
+Dialogue: 0,0:00:56.00,0:00:58.58,DEFAULT,,0,0,0,,{\r}{\kf28}I{\kf28} think{\kf34} this{\kf50} will{\kf28} suf{\kf90}fice
+Dialogue: 0,0:00:59.81,0:01:02.24,DEFAULT,,0,0,0,,{\r}{\kf36}Call{\kf31} me{\kf51} a{\kf41} ro{\kf41}man{\kf42}tic
+Dialogue: 0,0:01:02.85,0:01:05.81,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf23} I{\kf57} feel{\kf34} we're{\kf40} quite{\kf28} the{\kf91} pair
+Dialogue: 0,0:01:06.89,0:01:09.66,DEFAULT,,0,0,0,,{\r}{\kf68}Me,{\kf23} the{\kf34} change{\kf57}ling{\kf28} suc{\kf34}cu{\kf33}bus
+Dialogue: 0,0:01:09.93,0:01:13.20,DEFAULT,,0,0,0,,{\r}{\kf41}And{\kf64} you,{\kf23} the{\kf29} un{\kf41}a{\kf129}ware
+Dialogue: 0,0:01:13.74,0:01:16.35,DEFAULT,,0,0,0,,{\r}{\kf43}So{\kf70} feed{\kf32} me{\kf21} with{\kf32} your{\kf64} heart
+Dialogue: 0,0:01:16.54,0:01:20.12,DEFAULT,,0,0,0,,{\r}{\kf40}My{\kf35} sweet,{\kf25} un{\kf25}wit{\kf60}ting{\kf45} de{\kf30}vo{\kf98}tee
+Dialogue: 0,0:01:20.81,0:01:23.54,DEFAULT,,0,0,0,,{\r}{\kf52}You've{\kf36} some{\kf26}one{\kf67} else{\kf26} in{\kf66} mind
+Dialogue: 0,0:01:23.89,0:01:27.43,DEFAULT,,0,0,0,,{\r}{\kf27}But{\kf33} it's{\kf47} al{\kf67}right{\kf33} with{\kf147} me
+Dialogue: 0,0:01:27.93,0:01:31.00,DEFAULT,,0,0,0,,{\r}{\kf44}Just{\kf44} give{\kf28} your{\kf50}self{\kf33} com{\kf55}plete{\kf54}ly
+Dialogue: 0,0:01:31.35,0:01:34.39,DEFAULT,,0,0,0,,{\r}{\kf31}I'll{\kf26} take{\kf67} all{\kf26} you{\kf41} have{\kf31} and{\kf82} more
+Dialogue: 0,0:01:35.20,0:01:40.20,DEFAULT,,0,0,0,,{\r}{\kf51}You'll{\kf36} love{\kf51} me{\kf31} like{\kf41} you've{\kf31} ne{\kf31}ver{\kf66} loved{\kf31} be{\kf131}fore
+Dialogue: 0,0:01:45.93,0:01:48.47,DEFAULT,,0,0,0,,{\r}{\kf43}I{\kf54} wear{\kf32} this{\kf38} bor{\kf43}rowed{\kf44} face
+Dialogue: 0,0:01:48.66,0:01:52.27,DEFAULT,,0,0,0,,{\r}{\kf34}That{\kf34} says{\kf52} I'm{\kf63} sweet{\kf23} and{\kf46} safe{\kf29} and{\kf81} kind
+Dialogue: 0,0:01:52.70,0:01:56.31,DEFAULT,,0,0,0,,{\r}{\kf32}For{\kf43} I{\kf49} fear{\kf27} that{\kf38} you'd{\kf38} be{\kf49} fear{\kf38}ful{\kf48} of
+Dialogue: 0,0:01:56.70,0:01:59.50,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf44} thing{\kf29} that{\kf68} lies{\kf29} be{\kf92}hind
+Dialogue: 0,0:02:00.66,0:02:03.31,DEFAULT,,0,0,0,,{\r}{\kf49}Moth{\kf42}-eat{\kf35}en{\kf28} and{\kf35} sick{\kf76}ly
+Dialogue: 0,0:02:03.66,0:02:06.43,DEFAULT,,0,0,0,,{\r}{\kf31}Mat{\kf25}ted{\kf37} tres{\kf49}ses,{\kf37} shar{\kf31}pened{\kf67} teeth
+Dialogue: 0,0:02:07.08,0:02:10.77,DEFAULT,,0,0,0,,{\r}{\kf33}Slit{\kf28}ted{\kf66} eyes{\kf28} of{\kf72} green{\kf22} with{\kf28} char{\kf44}coal{\kf48} skin
+Dialogue: 0,0:02:10.97,0:02:13.85,DEFAULT,,0,0,0,,{\r}{\kf35}And{\kf29} a{\kf47}shen{\kf53} heart{\kf24} be{\kf100}neath
+Dialogue: 0,0:02:16.35,0:02:19.24,DEFAULT,,0,0,0,,{\r}{\kf49}My{\kf38} hun{\kf38}ger{\kf43} springs{\kf33} e{\kf22}ter{\kf33}~{\kf32}nal
+Dialogue: 0,0:02:19.47,0:02:22.89,DEFAULT,,0,0,0,,{\r}{\kf47}I've{\kf29} an{\kf41} emp{\kf29}ti{\kf47}ness{\kf41} in{\kf108}side
+Dialogue: 0,0:02:23.62,0:02:27.04,DEFAULT,,0,0,0,,{\r}{\kf39}I{\kf33} pray{\kf28} that{\kf55} I{\kf39} may{\kf44} prey{\kf33} on{\kf71} you
+Dialogue: 0,0:02:27.35,0:02:30.16,DEFAULT,,0,0,0,,{\r}{\kf17}Un{\kf33}til{\kf39} I'm{\kf39} sa{\kf33}tis{\kf120}fied
+Dialogue: 0,0:02:31.04,0:02:34.12,DEFAULT,,0,0,0,,{\r}{\kf58}I{\kf46} care{\kf46} not{\kf35} for{\kf58} flesh,{\kf23} nor{\kf42} I
+Dialogue: 0,0:02:34.35,0:02:37.04,DEFAULT,,0,0,0,,{\r}{\kf28}For{\kf45} fruit,{\kf34} or{\kf56} leaf,{\kf34} or{\kf72} seed
+Dialogue: 0,0:02:37.43,0:02:41.35,DEFAULT,,0,0,0,,{\r}{\kf53}No,{\kf32} I{\kf53} feast{\kf26} on{\kf37} your{\kf26} de{\kf32}vo{\kf37}~{\kf32}tion,{\kf64} dear
+Dialogue: 0,0:02:41.70,0:02:44.43,DEFAULT,,0,0,0,,{\r}{\kf35}Your{\kf46} love{\kf30} is{\kf15} all{\kf35}~{\kf30} I{\kf82} need
+Dialogue: 0,0:02:44.66,0:02:47.85,DEFAULT,,0,0,0,,{\r}{\kf104}So{\kf55} feed{\kf38} me{\kf28} with{\kf44} your{\kf50} heart
+Dialogue: 0,0:02:48.04,0:02:51.77,DEFAULT,,0,0,0,,{\r}{\kf41}My{\kf36} sweet,{\kf31} un{\kf31}wit{\kf47}ting{\kf41} de{\kf47}vo{\kf99}tee
+Dialogue: 0,0:02:52.43,0:02:55.04,DEFAULT,,0,0,0,,{\r}{\kf46}You've{\kf40} some{\kf28}one{\kf57} else{\kf28} in{\kf63} mind
+Dialogue: 0,0:02:55.43,0:02:59.16,DEFAULT,,0,0,0,,{\r}{\kf34}But{\kf28} it's{\kf45} al{\kf90}right{\kf40} with{\kf136} me
+Dialogue: 0,0:02:59.50,0:03:03.00,DEFAULT,,0,0,0,,{\r}{\kf44}Your{\kf44} pa{\kf33}ra{\kf38}si{\kf38}tic{\kf49} pa{\kf33}ra{\kf71}mour
+Dialogue: 0,0:03:03.35,0:03:06.00,DEFAULT,,0,0,0,,{\r}{\kf38}Will{\kf43} steal{\kf38} your{\kf43} heart{\kf27} and{\kf76} then
+Dialogue: 0,0:03:06.81,0:03:08.00,DEFAULT,,0,0,0,,{\r}{\kf33}I'll{\kf43} leave{\kf43} you
+Dialogue: 0,0:03:08.43,0:03:12.93,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf24} you'll{\kf28} ne{\kf33}ver{\kf62} love{\kf19} a{\kf260}gain
+Dialogue: 0,0:03:28.20,0:03:31.54,DEFAULT,,0,0,0,,{\r}{\kf65}Your{\kf38} pa{\kf38}ra{\kf32}si{\kf32}tic{\kf43} pa{\kf22}ra{\kf65}mour
+Dialogue: 0,0:03:32.00,0:03:34.66,DEFAULT,,0,0,0,,{\r}{\kf43}Will{\kf59} steal{\kf27} your{\kf38} heart{\kf22} and{\kf76} then
+Dialogue: 0,0:03:35.31,0:03:40.70,DEFAULT,,0,0,0,,{\r}{\kf50}I'll{\kf45} leave{\kf40} you,{\kf45} and{\kf35} you'll{\kf40} ne{\kf45}ver{\kf60} love{\kf35} a{\kf143}gain
+Dialogue: 0,0:03:42.62,0:03:47.24,DEFAULT,,0,0,0,,{\r}{\kf42}You'll{\kf48} love{\kf48} me,{\kf36} then{\kf24} you'll{\kf36} ne{\kf42}ver{\kf66} love{\kf18} a{\kf102}gain

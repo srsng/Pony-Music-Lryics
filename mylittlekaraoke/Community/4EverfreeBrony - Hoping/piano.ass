@@ -1,47 +1,54 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Hoping (Piano Version)
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by RustyHeadphones
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.34,0:00:16.95,DEFAULT,,0,0,0,,{\kf17}I{\kf26} saved{\kf13} a{\kf13} ro{\kf17}-ow{\kf26} e{\kf17}ven{\kf22} though
-Dialogue: 0,0:00:17.53,0:00:20.02,DEFAULT,,0,0,0,,{\kf13}I{\kf13} know{\kf17} it{\kf22} wo{\kf22}-on't{\kf22} be{\kf30} ta{\kf43}ken
-Dialogue: 0,0:00:20.61,0:00:23.43,DEFAULT,,0,0,0,,{\kf13}I{\kf13} thought{\kf17} at{\kf17} fi{\kf22}-irst{\kf17} you'd{\kf17} ne{\kf17}ver{\kf51} go
-Dialogue: 0,0:00:23.89,0:00:26.08,DEFAULT,,0,0,0,,{\kf17}I{\kf17} was{\kf13} so{\kf22}-o{\kf13} mi{\kf17}-is{\kf26}ta{\kf26}ken
-Dialogue: 0,0:00:26.54,0:00:28.40,DEFAULT,,0,0,0,,{\kf30}I{\kf26} was{\kf89} told
-Dialogue: 0,0:00:29.28,0:00:31.85,DEFAULT,,0,0,0,,{\kf22}Life{\kf26} won't{\kf26} last{\kf17} for{\kf17}e{\kf26}-e{\kf59}ver
-Dialogue: 0,0:00:33.20,0:00:36.06,DEFAULT,,0,0,0,,{\kf13}But{\kf17} I've{\kf26} go{\kf26}-one{\kf17} be{\kf22}yond{\kf13} the{\kf17} ma{\kf17}-ar{\kf34}ker
-Dialogue: 0,0:00:37.03,0:00:39.26,DEFAULT,,0,0,0,,{\kf30}What's{\kf26} one{\kf22} to{\kf22}-o{\kf80} do
-Dialogue: 0,0:00:40.10,0:00:42.46,DEFAULT,,0,0,0,,{\kf26}How's{\kf22} one{\kf13} to{\kf17}-o{\kf43} fee{\kf17}-ee{\kf38}-eel
-Dialogue: 0,0:00:43.17,0:00:47.93,DEFAULT,,0,0,0,,{\kf26}Where's{\kf26} one{\kf13} to{\kf22}-o{\kf30} go{\kf26}-o{\kf30} when{\kf22} their{\kf30} heart{\kf17} won't{\kf30} o{\kf38}pen?
-Dialogue: 0,0:00:49.40,0:00:54.92,DEFAULT,,0,0,0,,{\kf22}So{\kf38} far{\kf34} a{\kf93}way,{\kf22} yet{\kf30} so{\kf43} near{\kf30}by{\kf17}-y{\kf51}-y
-Dialogue: 0,0:00:55.64,0:01:00.39,DEFAULT,,0,0,0,,{\kf26}Feels{\kf26} as{\kf26} if{\kf43} so{\kf22}-ome{\kf43}one's{\kf34} still{\kf38} wat{\kf17}ching{\kf30} o{\kf13}ver{\kf34} me
-Dialogue: 0,0:01:01.61,0:01:03.34,DEFAULT,,0,0,0,,{\kf17}So,{\kf30} here's{\kf13} to{\kf30} ho{\kf30}ping
-Dialogue: 0,0:01:16.48,0:01:19.17,DEFAULT,,0,0,0,,{\kf13}No{\kf26}wa{\kf17}da{\kf22}-ays,{\kf13} I{\kf22} pick{\kf22} and{\kf38} choose
-Dialogue: 0,0:01:19.97,0:01:21.95,DEFAULT,,0,0,0,,{\kf17}My{\kf30} cir{\kf22}cum{\kf26}stan{\kf43}ces
-Dialogue: 0,0:01:22.50,0:01:25.15,DEFAULT,,0,0,0,,{\kf17}I{\kf26} don't{\kf17} be{\kf17}lie{\kf30}-ieve{\kf13} that{\kf30} fate{\kf13} is{\kf30} up
-Dialogue: 0,0:01:25.65,0:01:27.93,DEFAULT,,0,0,0,,{\kf17}For{\kf13} gi{\kf17}ving{\kf17} se{\kf17}-e{\kf13}co{\kf17}-ond{\kf26} chan{\kf22}ces
-Dialogue: 0,0:01:28.47,0:01:30.62,DEFAULT,,0,0,0,,{\kf22}If{\kf47} I'm{\kf110} right
-Dialogue: 0,0:01:31.21,0:01:33.86,DEFAULT,,0,0,0,,{\kf34}Time{\kf22} goes{\kf30} on{\kf22} for{\kf17}e{\kf22}-e{\kf68}ver
-Dialogue: 0,0:01:34.96,0:01:37.95,DEFAULT,,0,0,0,,{\kf13}Feels{\kf17} like{\kf22} there's{\kf17} so{\kf22}-o{\kf22} much{\kf22} to{\kf17} re{\kf17}mem{\kf51}ber
-Dialogue: 0,0:01:38.91,0:01:41.31,DEFAULT,,0,0,0,,{\kf22}What's{\kf26} one{\kf17} to{\kf38}-o{\kf80} do
-Dialogue: 0,0:01:42.07,0:01:44.30,DEFAULT,,0,0,0,,{\kf22}How's{\kf26} one{\kf9} to{\kf22}-o{\kf102} feel
-Dialogue: 0,0:01:45.10,0:01:49.82,DEFAULT,,0,0,0,,{\kf30}Where's{\kf26} one{\kf13} to{\kf22}-o{\kf43} go{\kf17}-o{\kf47} when{\kf26} their{\kf34} heart{\kf17} won't{\kf30} o{\kf47}pen?
-Dialogue: 0,0:01:51.38,0:01:56.30,DEFAULT,,0,0,0,,{\kf30}So{\kf30} far{\kf34} a{\kf102}way,{\kf22} yet{\kf30} so{\kf17}-o{\kf43} near{\kf17}by{\kf38}-y
-Dialogue: 0,0:01:57.57,0:02:02.58,DEFAULT,,0,0,0,,{\kf30}Feels{\kf22} as{\kf30} if{\kf38} so{\kf26}-ome{\kf34}one's{\kf34} still{\kf34} wat{\kf26}ching{\kf26} o{\kf17}ver{\kf59} me
-Dialogue: 0,0:02:03.50,0:02:04.89,DEFAULT,,0,0,0,,{\kf17}So{\kf51} here's{\kf34} to
-Dialogue: 0,0:02:05.31,0:02:07.88,DEFAULT,,0,0,0,,{\kf30}Hol{\kf17}ding{\kf17} o{\kf22}-on{\kf13} to{\kf13} a{\kf13} lit{\kf13}tle{\kf22}-e{\kf43} faith
-Dialogue: 0,0:02:08.43,0:02:11.04,DEFAULT,,0,0,0,,{\kf30}Kee{\kf17}ping{\kf17} u{\kf26}-up{\kf13} with{\kf9} the{\kf17} pre{\kf43}sent{\kf30} day
-Dialogue: 0,0:02:11.63,0:02:14.28,DEFAULT,,0,0,0,,{\kf26}Stan{\kf13}ding{\kf17} we{\kf22}-ell{\kf13} with{\kf13} the{\kf26} friends{\kf17} I{\kf13}-I{\kf38} made
-Dialogue: 0,0:02:14.66,0:02:18.19,DEFAULT,,0,0,0,,{\kf34}Ma{\kf17}king{\kf17} su{\kf30}-ure{\kf13} that{\kf26} I{\kf13} do{\kf13}-on't{\kf22} lose{\kf17} my{\kf17}-y{\kf43} way
-Dialogue: 0,0:02:19.29,0:02:21.35,DEFAULT,,0,0,0,,{\kf26}What's{\kf30} one{\kf22} to{\kf22}-o{\kf59} do
-Dialogue: 0,0:02:22.32,0:02:24.17,DEFAULT,,0,0,0,,{\kf26}How's{\kf26} one{\kf17} to{\kf26}-o{\kf47} feel
-Dialogue: 0,0:02:25.48,0:02:30.19,DEFAULT,,0,0,0,,{\kf22}Where's{\kf30} one{\kf17} to{\kf22}-o{\kf43} go{\kf22}-o{\kf30} when{\kf22} their{\kf43} heart{\kf17} won't{\kf22} o{\kf34}pen?
-Dialogue: 0,0:02:31.62,0:02:36.80,DEFAULT,,0,0,0,,{\kf26}So{\kf34} far{\kf30} a{\kf118}way,{\kf30} yet{\kf26} so{\kf34} near{\kf51}by{\kf13}-y{\kf22}-y
-Dialogue: 0,0:02:37.81,0:02:42.87,DEFAULT,,0,0,0,,{\kf26}Feels{\kf22} as{\kf30} if{\kf38} so{\kf22}-ome{\kf38}one's{\kf30} still{\kf34} wat{\kf17}ching{\kf22} o{\kf22}ver{\kf59} me
-Dialogue: 0,0:02:43.79,0:02:45.56,DEFAULT,,0,0,0,,{\kf13}So,{\kf34} here's{\kf13} to{\kf30} ho{\kf38}ping
+Dialogue: 0,0:00:14.34,0:00:16.95,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf45} saved{\kf22} a{\kf22} ro{\kf30}-ow{\kf45} e{\kf30}ven{\kf37} though
+Dialogue: 0,0:00:17.54,0:00:20.02,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf18} know{\kf24} it{\kf30} wo{\kf30}-on't{\kf30} be{\kf41} ta{\kf57}ken
+Dialogue: 0,0:00:20.61,0:00:23.43,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf20} thought{\kf26} at{\kf26} fi{\kf33}-irst{\kf26} you'd{\kf26} ne{\kf26}ver{\kf79} go
+Dialogue: 0,0:00:23.90,0:00:26.09,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf25} was{\kf19} so{\kf31}-o{\kf19} mi{\kf25}-is{\kf38}ta{\kf37}ken
+Dialogue: 0,0:00:26.55,0:00:28.40,DEFAULT,,0,0,0,,{\r}{\kf38}I{\kf33} was{\kf114} told
+Dialogue: 0,0:00:29.29,0:00:31.85,DEFAULT,,0,0,0,,{\r}{\kf29}Life{\kf34} won't{\kf34} last{\kf23} for{\kf23}e{\kf34}-e{\kf80}ver
+Dialogue: 0,0:00:33.20,0:00:36.06,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf24} I've{\kf37} go{\kf37}-one{\kf24} be{\kf30}yond{\kf18} the{\kf24} ma{\kf24}-ar{\kf50}ker
+Dialogue: 0,0:00:37.03,0:00:39.26,DEFAULT,,0,0,0,,{\r}{\kf37}What's{\kf32} one{\kf27} to{\kf27}-o{\kf100} do
+Dialogue: 0,0:00:40.11,0:00:42.46,DEFAULT,,0,0,0,,{\r}{\kf35}How's{\kf29} one{\kf17} to{\kf23}-o{\kf58} fee{\kf23}-ee{\kf51}-eel
+Dialogue: 0,0:00:43.18,0:00:47.94,DEFAULT,,0,0,0,,{\r}{\kf40}Where's{\kf40} one{\kf20} to{\kf33}-o{\kf46} go{\kf40}-o{\kf46} when{\kf33} their{\kf46} heart{\kf26} won't{\kf46} o{\kf60}pen?
+Dialogue: 0,0:00:49.41,0:00:54.92,DEFAULT,,0,0,0,,{\r}{\kf31}So{\kf56} far{\kf50} a{\kf136}way,{\kf31} yet{\kf43} so{\kf62} near{\kf43}by{\kf25}-y{\kf75}-y
+Dialogue: 0,0:00:55.64,0:01:00.40,DEFAULT,,0,0,0,,{\r}{\kf35}Feels{\kf35} as{\kf35} if{\kf58} so{\kf29}-ome{\kf58}one's{\kf46} still{\kf52} wat{\kf23}ching{\kf41} o{\kf17}ver{\kf47} me
+Dialogue: 0,0:01:01.62,0:01:03.35,DEFAULT,,0,0,0,,{\r}{\kf25}So,{\kf43} here's{\kf19} to{\kf43} ho{\kf43}ping
+Dialogue: 0,0:01:16.48,0:01:19.17,DEFAULT,,0,0,0,,{\r}{\kf20}No{\kf40}wa{\kf27}da{\kf34}-ays,{\kf20} I{\kf34} pick{\kf34} and{\kf60} choose
+Dialogue: 0,0:01:19.97,0:01:21.95,DEFAULT,,0,0,0,,{\r}{\kf25}My{\kf43} cir{\kf31}cum{\kf37}stan{\kf62}ces
+Dialogue: 0,0:01:22.50,0:01:25.15,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf35} don't{\kf24} be{\kf24}lie{\kf41}-ieve{\kf18} that{\kf41} fate{\kf18} is{\kf40} up
+Dialogue: 0,0:01:25.66,0:01:27.93,DEFAULT,,0,0,0,,{\r}{\kf25}For{\kf18} gi{\kf25}ving{\kf25} se{\kf25}-e{\kf18}co{\kf25}-ond{\kf37} chan{\kf29}ces
+Dialogue: 0,0:01:28.48,0:01:30.63,DEFAULT,,0,0,0,,{\r}{\kf26}If{\kf56} I'm{\kf133} right
+Dialogue: 0,0:01:31.22,0:01:33.87,DEFAULT,,0,0,0,,{\r}{\kf42}Time{\kf26} goes{\kf37} on{\kf26} for{\kf21}e{\kf26}-e{\kf87}ver
+Dialogue: 0,0:01:34.96,0:01:37.95,DEFAULT,,0,0,0,,{\r}{\kf18}Feels{\kf23} like{\kf29} there's{\kf23} so{\kf29}-o{\kf29} much{\kf29} to{\kf23} re{\kf23}mem{\kf73}ber
+Dialogue: 0,0:01:38.92,0:01:41.32,DEFAULT,,0,0,0,,{\r}{\kf28}What's{\kf33} one{\kf22} to{\kf50}-o{\kf107} do
+Dialogue: 0,0:01:42.08,0:01:44.31,DEFAULT,,0,0,0,,{\r}{\kf27}How's{\kf32} one{\kf11} to{\kf27}-o{\kf126} feel
+Dialogue: 0,0:01:45.11,0:01:49.82,DEFAULT,,0,0,0,,{\r}{\kf40}Where's{\kf35} one{\kf17} to{\kf29}-o{\kf58} go{\kf23}-o{\kf63} when{\kf35} their{\kf46} heart{\kf23} won't{\kf40} o{\kf63}pen?
+Dialogue: 0,0:01:51.38,0:01:56.31,DEFAULT,,0,0,0,,{\r}{\kf41}So{\kf41} far{\kf46} a{\kf139}way,{\kf29} yet{\kf41} so{\kf23}-o{\kf58} near{\kf23}by{\kf52}-y
+Dialogue: 0,0:01:57.57,0:02:02.58,DEFAULT,,0,0,0,,{\r}{\kf40}Feels{\kf28} as{\kf40} if{\kf51} so{\kf34}-ome{\kf46}one's{\kf46} still{\kf46} wat{\kf34}ching{\kf34} o{\kf23}ver{\kf79} me
+Dialogue: 0,0:02:03.51,0:02:04.90,DEFAULT,,0,0,0,,{\r}{\kf23}So{\kf70} here's{\kf46} to
+Dialogue: 0,0:02:05.32,0:02:07.89,DEFAULT,,0,0,0,,{\r}{\kf38}Hol{\kf22}ding{\kf22} o{\kf27}-on{\kf16} to{\kf16} a{\kf16} lit{\kf16}tle{\kf27}-e{\kf57} faith
+Dialogue: 0,0:02:08.43,0:02:11.04,DEFAULT,,0,0,0,,{\r}{\kf39}Kee{\kf22}ping{\kf22} u{\kf33}-up{\kf17} with{\kf11} the{\kf22} pre{\kf56}sent{\kf39} day
+Dialogue: 0,0:02:11.63,0:02:14.28,DEFAULT,,0,0,0,,{\r}{\kf35}Stan{\kf17}ding{\kf23} we{\kf29}-ell{\kf17} with{\kf17} the{\kf35} friends{\kf23} I{\kf17}-I{\kf52} made
+Dialogue: 0,0:02:14.66,0:02:18.20,DEFAULT,,0,0,0,,{\r}{\kf46}Ma{\kf23}king{\kf23} su{\kf41}-ure{\kf17} that{\kf35} I{\kf17} do{\kf17}-on't{\kf29} lose{\kf23} my{\kf23}-y{\kf60} way
+Dialogue: 0,0:02:19.29,0:02:21.36,DEFAULT,,0,0,0,,{\r}{\kf33}What's{\kf39} one{\kf28} to{\kf28}-o{\kf78} do
+Dialogue: 0,0:02:22.33,0:02:24.18,DEFAULT,,0,0,0,,{\r}{\kf34}How's{\kf34} one{\kf22} to{\kf34}-o{\kf61} feel
+Dialogue: 0,0:02:25.48,0:02:30.20,DEFAULT,,0,0,0,,{\r}{\kf31}Where's{\kf44} one{\kf25} to{\kf31}-o{\kf63} go{\kf31}-o{\kf44} when{\kf31} their{\kf63} heart{\kf25} won't{\kf31} o{\kf53}pen?
+Dialogue: 0,0:02:31.63,0:02:36.81,DEFAULT,,0,0,0,,{\r}{\kf35}So{\kf46} far{\kf40} a{\kf161}way,{\kf40} yet{\kf35} so{\kf46} near{\kf69}by{\kf17}-y{\kf29}-y
+Dialogue: 0,0:02:37.82,0:02:42.87,DEFAULT,,0,0,0,,{\r}{\kf36}Feels{\kf30} as{\kf42} if{\kf54} so{\kf30}-ome{\kf54}one's{\kf42} still{\kf48} wat{\kf24}ching{\kf30} o{\kf30}ver{\kf85} me
+Dialogue: 0,0:02:43.80,0:02:45.57,DEFAULT,,0,0,0,,{\r}{\kf18}So,{\kf47} here's{\kf18} to{\kf41} ho{\kf53}ping

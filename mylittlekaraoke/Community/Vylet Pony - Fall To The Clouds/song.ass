@@ -1,46 +1,53 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Fall to the Clouds
+Artist: Vylet Pony, LilyCloud
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.73,0:00:10.83,DEFAULT,,0,0,0,,{\kf24}See{\kf18} the{\kf24} ho{\kf24}ri{\kf24}zon{\kf24} the{\kf36} dawn{\kf30} is{\kf47} new
-Dialogue: 0,0:00:11.48,0:00:14.64,DEFAULT,,0,0,0,,{\kf18}It{\kf18} was{\kf47} ne{\kf24}ver{\kf30} our{\kf42} last{\kf47} a{\kf53}dieu
-Dialogue: 0,0:00:15.23,0:00:17.75,DEFAULT,,0,0,0,,{\kf24}Liv{\kf24}ing{\kf36} faith{\kf24}ful{\kf18} to{\kf18} a{\kf24} lov{\kf18}er's{\kf36} eye
-Dialogue: 0,0:00:18.98,0:00:22.08,DEFAULT,,0,0,0,,{\kf24}In{\kf24}sen{\kf24}si{\kf18}ble{\kf18} to{\kf18} when{\kf18} the{\kf42} moon{\kf36} will{\kf53} rise
-Dialogue: 0,0:00:22.73,0:00:25.95,DEFAULT,,0,0,0,,{\kf24}A{\kf24}las{\kf18} you{\kf30} shan't{\kf24} be{\kf24} a{\kf153}shamed
-Dialogue: 0,0:00:26.48,0:00:29.58,DEFAULT,,0,0,0,,{\kf18}Their{\kf24} cy{\kf18}nic{\kf24} par{\kf24}ley{\kf18} is{\kf18} just{\kf18} the{\kf18} way{\kf18} they{\kf53} cry
-Dialogue: 0,0:00:30.29,0:00:33.04,DEFAULT,,0,0,0,,{\kf12}The{\kf24} ci{\kf18}ty{\kf18} we{\kf30} built{\kf42} turns{\kf18} to{\kf47} flame
-Dialogue: 0,0:00:33.92,0:00:36.79,DEFAULT,,0,0,0,,{\kf18}Just{\kf24} close{\kf18} your{\kf36} eyes{\kf18} and{\kf30} fall{\kf18} to{\kf18} the{\kf42} sky
-Dialogue: 0,0:00:37.79,0:00:39.31,DEFAULT,,0,0,0,,{\kf18}Where{\kf18} will{\kf18} we{\kf36} fly{\kf42} to?
-Dialogue: 0,0:00:39.60,0:00:41.36,DEFAULT,,0,0,0,,{\kf18}Is{\kf18} this{\kf24} the{\kf36} ho{\kf24}nest{\kf36} truth?
-Dialogue: 0,0:00:41.54,0:00:43.06,DEFAULT,,0,0,0,,{\kf18}Should{\kf18} I{\kf24} be{\kf18}lieve{\kf18} that{\kf18} it's{\kf12} a
-Dialogue: 0,0:00:43.18,0:00:44.88,DEFAULT,,0,0,0,,{\kf18}world{\kf18} where{\kf18} I{\kf18} can't{\kf36} love{\kf36} you?
-Dialogue: 0,0:00:45.29,0:00:46.81,DEFAULT,,0,0,0,,{\kf18}Why{\kf12} do{\kf18} we{\kf18} live{\kf18} at{\kf42} all?
-Dialogue: 0,0:00:47.10,0:00:48.74,DEFAULT,,0,0,0,,{\kf24}Des{\kf18}tined{\kf18} a{\kf24} fa{\kf18}tal{\kf47} flaw
-Dialogue: 0,0:00:49.04,0:00:50.39,DEFAULT,,0,0,0,,{\kf12}Is{\kf18} this{\kf18} some{\kf24} cur{\kf18}tain{\kf24} call
-Dialogue: 0,0:00:50.85,0:00:58.65,DEFAULT,,0,0,0,,{\kf18}Or{\kf18} from{\kf18} the{\kf24} ri{\kf18}ver{\kf18} will{\kf24} we{\kf182} draw{\kf141}~{\kf24}~{\kf24}~{\kf241}~?
-Dialogue: 0,0:01:37.90,0:01:40.66,DEFAULT,,0,0,0,,{\kf24}Well{\kf18} we{\kf30} know{\kf24} how{\kf18} the{\kf36} sto{\kf36}ry{\kf53} ends
-Dialogue: 0,0:01:41.01,0:01:44.82,DEFAULT,,0,0,0,,{\kf18}The{\kf24} he{\kf18}ro{\kf18} de{\kf30}clines{\kf59}~{\kf18} and{\kf18} then{\kf18} he{\kf24} as{\kf100}cends
-Dialogue: 0,0:01:45.40,0:01:48.16,DEFAULT,,0,0,0,,{\kf24}Ne{\kf36}ver{\kf18} to{\kf18} see{\kf18} his{\kf42} love{\kf24} a{\kf65}gain
-Dialogue: 0,0:01:48.51,0:01:51.73,DEFAULT,,0,0,0,,{\kf18}To{\kf36} tell{\kf18} the{\kf30} tale{\kf59}~{\kf12} of{\kf12} what{\kf12} he{\kf36} learned{\kf36} then
-Dialogue: 0,0:01:52.26,0:01:53.78,DEFAULT,,0,0,0,,{\kf18}"With{\kf24} fea{\kf18}thers{\kf18} like{\kf59} yours
-Dialogue: 0,0:01:54.08,0:01:56.24,DEFAULT,,0,0,0,,{\kf18}The{\kf24} sky{\kf24} is{\kf36} no{\kf24} li{\kf24}~{\kf47}mit"
-Dialogue: 0,0:01:56.65,0:01:57.71,DEFAULT,,0,0,0,,{\kf18}From{\kf24} the{\kf53} gaze
-Dialogue: 0,0:01:57.94,0:02:00.05,DEFAULT,,0,0,0,,{\kf18}His{\kf36} eyes{\kf30} slow{\kf18}ly{\kf53} drif{\kf42}ted
-Dialogue: 0,0:02:00.46,0:02:03.28,DEFAULT,,0,0,0,,{\kf24}"Fly{\kf24}~,{\kf36} girl,{\kf18} don't{\kf18} you{\kf18} wait{\kf18} here{\kf24} a{\kf24}ny{\kf47}more"
-Dialogue: 0,0:02:03.51,0:02:05.09,DEFAULT,,0,0,0,,{\kf12}And{\kf12} with{\kf30}out{\kf24} a{\kf65} word
-Dialogue: 0,0:02:05.33,0:02:08.96,DEFAULT,,0,0,0,,{\kf18}The{\kf18} mare{\kf18} left{\kf24} him{\kf30} once{\kf24}~{\kf24} more{\kf182}~
-Dialogue: 0,0:02:22.79,0:02:24.31,DEFAULT,,0,0,0,,{\kf18}Where{\kf12} will{\kf18} we{\kf30} fly{\kf42} to?
-Dialogue: 0,0:02:24.60,0:02:26.24,DEFAULT,,0,0,0,,{\kf18}Is{\kf18} this{\kf18} the{\kf42} ho{\kf24}nest{\kf24} truth?
-Dialogue: 0,0:02:26.48,0:02:27.94,DEFAULT,,0,0,0,,{\kf18}Should{\kf18} I{\kf24} be{\kf18}lieve{\kf18} that{\kf18} it's{\kf6} a
-Dialogue: 0,0:02:28.12,0:02:30.05,DEFAULT,,0,0,0,,{\kf18}world{\kf18} where{\kf18} I{\kf18} can't{\kf24} love{\kf18}~{\kf47} you?
-Dialogue: 0,0:02:30.23,0:02:31.75,DEFAULT,,0,0,0,,{\kf18}Why{\kf18} do{\kf18} we{\kf18} live{\kf18} at{\kf36} all?
-Dialogue: 0,0:02:32.10,0:02:33.69,DEFAULT,,0,0,0,,{\kf24}Des{\kf18}tined{\kf18} a{\kf24} fa{\kf18}tal{\kf42} flaw
-Dialogue: 0,0:02:33.98,0:02:35.39,DEFAULT,,0,0,0,,{\kf18}Is{\kf12} this{\kf18} some{\kf24} cur{\kf24}tain{\kf24} call
-Dialogue: 0,0:02:35.85,0:02:43.47,DEFAULT,,0,0,0,,{\kf18}Or{\kf18} from{\kf18} the{\kf24} ri{\kf18}ver{\kf18} will{\kf18} we{\kf188} draw{\kf141}~{\kf24}~{\kf24}~{\kf223}~?
+Dialogue: 0,0:00:07.73,0:00:10.84,DEFAULT,,0,0,0,,{\r}{\kf30}See{\kf22} the{\kf30} ho{\kf30}ri{\kf30}zon{\kf30} the{\kf44} dawn{\kf37} is{\kf58} new
+Dialogue: 0,0:00:11.48,0:00:14.65,DEFAULT,,0,0,0,,{\r}{\kf20}It{\kf20} was{\kf54} ne{\kf27}ver{\kf34} our{\kf47} last{\kf54} a{\kf60}dieu
+Dialogue: 0,0:00:15.23,0:00:17.75,DEFAULT,,0,0,0,,{\r}{\kf27}Liv{\kf27}ing{\kf41} faith{\kf27}ful{\kf20} to{\kf20} a{\kf27} lov{\kf20}er's{\kf43} eye
+Dialogue: 0,0:00:18.98,0:00:22.09,DEFAULT,,0,0,0,,{\r}{\kf27}In{\kf27}sen{\kf27}si{\kf20}ble{\kf20} to{\kf20} when{\kf20} the{\kf47} moon{\kf41} will{\kf62} rise
+Dialogue: 0,0:00:22.73,0:00:25.96,DEFAULT,,0,0,0,,{\r}{\kf26}A{\kf26}las{\kf19} you{\kf32} shan't{\kf26} be{\kf26} a{\kf167}shamed
+Dialogue: 0,0:00:26.48,0:00:29.59,DEFAULT,,0,0,0,,{\r}{\kf22}Their{\kf30} cy{\kf22}nic{\kf30} par{\kf30}ley{\kf22} is{\kf22} just{\kf22} the{\kf22} way{\kf22} they{\kf67} cry
+Dialogue: 0,0:00:30.29,0:00:33.05,DEFAULT,,0,0,0,,{\r}{\kf16}The{\kf31} ci{\kf24}ty{\kf24} we{\kf39} built{\kf55} turns{\kf24} to{\kf62} flame
+Dialogue: 0,0:00:33.93,0:00:36.80,DEFAULT,,0,0,0,,{\r}{\kf23}Just{\kf31} close{\kf23} your{\kf47} eyes{\kf23} and{\kf39} fall{\kf23} to{\kf23} the{\kf55} sky
+Dialogue: 0,0:00:37.79,0:00:39.32,DEFAULT,,0,0,0,,{\r}{\kf21}Where{\kf21} will{\kf21} we{\kf41} fly{\kf48} to?
+Dialogue: 0,0:00:39.61,0:00:41.37,DEFAULT,,0,0,0,,{\r}{\kf20}Is{\kf20} this{\kf27} the{\kf41} ho{\kf27}nest{\kf41} truth?
+Dialogue: 0,0:00:41.54,0:00:43.07,DEFAULT,,0,0,0,,{\r}{\kf22}Should{\kf22} I{\kf29} be{\kf22}lieve{\kf22} that{\kf22} it's{\kf13} a
+Dialogue: 0,0:00:43.18,0:00:44.88,DEFAULT,,0,0,0,,{\r}{\kf21}world{\kf21} where{\kf21} I{\kf21} can't{\kf42} love{\kf44} you?
+Dialogue: 0,0:00:45.29,0:00:46.82,DEFAULT,,0,0,0,,{\r}{\kf22}Why{\kf14} do{\kf22} we{\kf22} live{\kf22} at{\kf50} all?
+Dialogue: 0,0:00:47.11,0:00:48.75,DEFAULT,,0,0,0,,{\r}{\kf26}Des{\kf20}tined{\kf20} a{\kf26} fa{\kf20}tal{\kf52} flaw
+Dialogue: 0,0:00:49.04,0:00:50.39,DEFAULT,,0,0,0,,{\r}{\kf14}Is{\kf21} this{\kf21} some{\kf28} cur{\kf21}tain{\kf30} call
+Dialogue: 0,0:00:50.86,0:00:58.65,DEFAULT,,0,0,0,,{\r}{\kf18}Or{\kf18} from{\kf18} the{\kf25} ri{\kf18}ver{\kf18} will{\kf25} we{\kf190} draw{\kf147}~{\kf25}~{\kf25}~{\kf252}~?
+Dialogue: 0,0:01:37.91,0:01:40.66,DEFAULT,,0,0,0,,{\r}{\kf28}Well{\kf21} we{\kf34} know{\kf28} how{\kf21} the{\kf41} sto{\kf41}ry{\kf61} ends
+Dialogue: 0,0:01:41.02,0:01:44.82,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf26} he{\kf20}ro{\kf20} de{\kf33}clines{\kf66}~{\kf20} and{\kf20} then{\kf20} he{\kf26} as{\kf110}cends
+Dialogue: 0,0:01:45.41,0:01:48.16,DEFAULT,,0,0,0,,{\r}{\kf27}Ne{\kf40}ver{\kf20} to{\kf20} see{\kf20} his{\kf47} love{\kf27} a{\kf74}gain
+Dialogue: 0,0:01:48.52,0:01:51.74,DEFAULT,,0,0,0,,{\r}{\kf21}To{\kf43} tell{\kf21} the{\kf36} tale{\kf72}~{\kf14} of{\kf14} what{\kf14} he{\kf43} learned{\kf44} then
+Dialogue: 0,0:01:52.27,0:01:53.79,DEFAULT,,0,0,0,,{\r}{\kf20}"With{\kf26} fea{\kf20}thers{\kf20} like{\kf66} yours
+Dialogue: 0,0:01:54.08,0:01:56.25,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf26} sky{\kf26} is{\kf39} no{\kf26} li{\kf26}~{\kf54}mit"
+Dialogue: 0,0:01:56.66,0:01:57.71,DEFAULT,,0,0,0,,{\r}{\kf20}From{\kf26} the{\kf59} gaze
+Dialogue: 0,0:01:57.95,0:02:00.06,DEFAULT,,0,0,0,,{\r}{\kf19}His{\kf38} eyes{\kf32} slow{\kf19}ly{\kf58} drif{\kf45}ted
+Dialogue: 0,0:02:00.47,0:02:03.28,DEFAULT,,0,0,0,,{\r}{\kf27}"Fly{\kf27}~,{\kf40} girl,{\kf20} don't{\kf20} you{\kf20} wait{\kf20} here{\kf27} a{\kf27}ny{\kf53}more"
+Dialogue: 0,0:02:03.52,0:02:05.10,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf13} with{\kf33}out{\kf26} a{\kf73} word
+Dialogue: 0,0:02:05.33,0:02:08.96,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf19} mare{\kf19} left{\kf25} him{\kf32} once{\kf25}~{\kf25} more{\kf199}~
+Dialogue: 0,0:02:22.79,0:02:24.32,DEFAULT,,0,0,0,,{\r}{\kf23}Where{\kf15} will{\kf23} we{\kf38} fly{\kf53} to?
+Dialogue: 0,0:02:24.61,0:02:26.25,DEFAULT,,0,0,0,,{\r}{\kf20}Is{\kf20} this{\kf20} the{\kf48} ho{\kf27}nest{\kf29} truth?
+Dialogue: 0,0:02:26.48,0:02:27.95,DEFAULT,,0,0,0,,{\r}{\kf22}Should{\kf22} I{\kf29} be{\kf22}lieve{\kf22} that{\kf22} it's{\kf10} a
+Dialogue: 0,0:02:28.12,0:02:30.06,DEFAULT,,0,0,0,,{\r}{\kf21}world{\kf21} where{\kf21} I{\kf21} can't{\kf29} love{\kf21}~{\kf59} you?
+Dialogue: 0,0:02:30.23,0:02:31.76,DEFAULT,,0,0,0,,{\r}{\kf22}Why{\kf22} do{\kf22} we{\kf22} live{\kf22} at{\kf42} all?
+Dialogue: 0,0:02:32.11,0:02:33.69,DEFAULT,,0,0,0,,{\r}{\kf26}Des{\kf20}tined{\kf20} a{\kf26} fa{\kf20}tal{\kf46} flaw
+Dialogue: 0,0:02:33.98,0:02:35.39,DEFAULT,,0,0,0,,{\r}{\kf21}Is{\kf14} this{\kf21} some{\kf28} cur{\kf28}tain{\kf29} call
+Dialogue: 0,0:02:35.86,0:02:43.48,DEFAULT,,0,0,0,,{\r}{\kf18}Or{\kf18} from{\kf18} the{\kf25} ri{\kf18}ver{\kf18} will{\kf18} we{\kf197} draw{\kf147}~{\kf25}~{\kf25}~{\kf235}~?

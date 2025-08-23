@@ -1,54 +1,61 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Embrace the Magic
+Artist: Equestria Girls - Legend Of Everfree
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.27,0:00:01.77,DEFAULT,,0,0,0,,{\kf12}So{\kf8} you{\kf15} ha{\kf30}-ave{\kf12} ma{\kf15}-a{\kf34}gic
-Dialogue: 0,0:00:02.30,0:00:03.80,DEFAULT,,0,0,0,,{\kf12}And{\kf12} it's{\kf15} not{\kf45} that{\kf27} great
-Dialogue: 0,0:00:04.85,0:00:07.10,DEFAULT,,0,0,0,,{\kf12}But{\kf15} when{\kf12} it{\kf57} fo{\kf19}-o{\kf30}-und{\kf57} you
-Dialogue: 0,0:00:07.32,0:00:09.05,DEFAULT,,0,0,0,,{\kf8}You{\kf15} know{\kf12} it{\kf49} was{\kf30} fa{\kf42}-ate
-Dialogue: 0,0:00:09.57,0:00:11.94,DEFAULT,,0,0,0,,{\kf12}And{\kf8} it{\kf19} might{\kf15} se{\kf27}-em{\kf27} sca{\kf27}ry{\kf57} now
-Dialogue: 0,0:00:12.16,0:00:14.07,DEFAULT,,0,0,0,,{\kf12}But{\kf12} it{\kf8} can{\kf19} be{\kf27} won{\kf12}der{\kf30}ful,{\kf30} too
-Dialogue: 0,0:00:14.82,0:00:17.94,DEFAULT,,0,0,0,,{\kf8}So{\kf19} how{\kf27} 'bout{\kf15} we{\kf8} emb{\kf19}race{\kf8} the{\kf38} ma{\kf49}gi{\kf15}-i{\kf53}-ic
-Dialogue: 0,0:00:18.46,0:00:20.37,DEFAULT,,0,0,0,,{\kf8}And{\kf12} make{\kf8} the{\kf15} ma{\kf19}gic{\kf30} part{\kf8} of{\kf60} you
-Dialogue: 0,0:00:24.16,0:00:26.37,DEFAULT,,0,0,0,,{\kf8}You{\kf15} take{\kf8} a{\kf8} lit{\kf12}tle{\kf27} dash{\kf23} of{\kf23} ma{\kf34}gic
-Dialogue: 0,0:00:26.71,0:00:28.55,DEFAULT,,0,0,0,,{\kf19}And{\kf19} you{\kf23} let{\kf15} it{\kf30} ig{\kf45}nite
-Dialogue: 0,0:00:29.07,0:00:30.91,DEFAULT,,0,0,0,,{\kf23}Mix{\kf27} things{\kf15} up{\kf12} a{\kf23} lit{\kf15}tle{\kf38} bit
-Dialogue: 0,0:00:31.32,0:00:33.31,DEFAULT,,0,0,0,,{\kf8}And{\kf15} it{\kf19} might{\kf23} start{\kf15} to{\kf12} go{\kf23}-o{\kf38} right
-Dialogue: 0,0:00:33.91,0:00:35.71,DEFAULT,,0,0,0,,{\kf19}In{\kf19} just{\kf38} five{\kf12} se{\kf15}conds{\kf42} flat
-Dialogue: 0,0:00:36.24,0:00:38.22,DEFAULT,,0,0,0,,{\kf27}How{\kf12} the{\kf27} sto{\kf12}ry{\kf12} ha{\kf15}-as{\kf49} changed
-Dialogue: 0,0:00:38.67,0:00:41.60,DEFAULT,,0,0,0,,{\kf19}All{\kf15} 'cause{\kf27} now{\kf15} you've{\kf12} emb{\kf23}raced{\kf12} the{\kf30} ma{\kf87}gic
-Dialogue: 0,0:00:42.01,0:00:44.45,DEFAULT,,0,0,0,,{\kf12}And{\kf8} it{\kf19} just{\kf19} got{\kf15} bet{\kf12}ter{\kf12} in{\kf23} eve{\kf12}ry{\kf64} way
-Dialogue: 0,0:00:47.97,0:00:51.91,DEFAULT,,0,0,0,,{\kf15}I{\kf34} say{\kf23} emb{\kf169}race{\kf15} the{\kf27} ma{\kf68}gic
-Dialogue: 0,0:00:52.74,0:00:56.07,DEFAULT,,0,0,0,,{\kf23}No{\kf23} more{\kf23} hol{\kf19}ding{\kf23} back,{\kf19} just{\kf12} le{\kf15}-et{\kf23} it{\kf90} out
-Dialogue: 0,0:00:57.57,0:01:01.51,DEFAULT,,0,0,0,,{\kf19}If{\kf23} you{\kf23} can{\kf90} ta{\kf75}-ake{\kf19} the{\kf12} ma{\kf15}-a{\kf72}gic
-Dialogue: 0,0:01:02.34,0:01:05.60,DEFAULT,,0,0,0,,{\kf19}And{\kf34} learn{\kf15} a{\kf19} lit{\kf15}tle{\kf30} more{\kf12} wha{\kf15}-at{\kf12} it{\kf30} can{\kf68} do
-Dialogue: 0,0:01:06.27,0:01:08.67,DEFAULT,,0,0,0,,{\kf23}Once{\kf15} the{\kf15} ma{\kf12}gic{\kf8} is{\kf27} part{\kf12} of{\kf19} yo{\kf72}-u
-Dialogue: 0,0:01:10.74,0:01:12.87,DEFAULT,,0,0,0,,{\kf19}What's{\kf34} stan{\kf23}ding{\kf34} in{\kf38} your{\kf34} way
-Dialogue: 0,0:01:13.14,0:01:15.24,DEFAULT,,0,0,0,,{\kf19}That{\kf15} you{\kf19} can't{\kf34} move{\kf34} to{\kf34}day?
-Dialogue: 0,0:01:15.50,0:01:17.60,DEFAULT,,0,0,0,,{\kf19}You've{\kf19} got{\kf12} the{\kf34} strength{\kf30} in{\kf30} you
-Dialogue: 0,0:01:17.90,0:01:20.00,DEFAULT,,0,0,0,,{\kf19}To{\kf19} make{\kf23} your{\kf42} dreams{\kf15} co{\kf15}-ome{\kf30} true
-Dialogue: 0,0:01:20.34,0:01:22.47,DEFAULT,,0,0,0,,{\kf19}No{\kf23} need{\kf15} to{\kf38} shield{\kf27} your{\kf38}self
-Dialogue: 0,0:01:22.70,0:01:24.91,DEFAULT,,0,0,0,,{\kf12}From{\kf12} the{\kf30} ma{\kf19}gic{\kf30} that{\kf27} can{\kf42} help
-Dialogue: 0,0:01:25.14,0:01:28.77,DEFAULT,,0,0,0,,{\kf19}Pro{\kf19}tect{\kf27} from{\kf27} a{\kf45}ny{\kf57} harm{\kf19} that{\kf19} might{\kf68} come
-Dialogue: 0,0:01:29.00,0:01:30.69,DEFAULT,,0,0,0,,{\kf12}So{\kf12} you{\kf53} have{\kf19} ma{\kf45}gic
-Dialogue: 0,0:01:31.14,0:01:32.75,DEFAULT,,0,0,0,,{\kf12}And{\kf12} it's{\kf23} not{\kf45} that{\kf38} great
-Dialogue: 0,0:01:33.65,0:01:35.79,DEFAULT,,0,0,0,,{\kf12}But{\kf12} when{\kf12} it{\kf53} fo{\kf27}-o{\kf19}-ound{\kf45} you
-Dialogue: 0,0:01:36.09,0:01:37.77,DEFAULT,,0,0,0,,{\kf8}You{\kf19} know{\kf8} it{\kf45} was{\kf30} fa{\kf34}-ate
-Dialogue: 0,0:01:38.45,0:01:40.59,DEFAULT,,0,0,0,,{\kf12}So,{\kf15} if{\kf68} you{\kf19} lis{\kf19}ten{\kf49} close
-Dialogue: 0,0:01:41.04,0:01:42.91,DEFAULT,,0,0,0,,{\kf23}You{\kf19} might{\kf27} make{\kf12} a{\kf30} new{\kf45} friend
-Dialogue: 0,0:01:43.74,0:01:47.75,DEFAULT,,0,0,0,,{\kf15}And{\kf12} to{\kf15}get{\kf23}her{\kf23} we{\kf23} can{\kf38} make{\kf139} i{\kf83}-it
-Dialogue: 0,0:01:48.01,0:01:52.02,DEFAULT,,0,0,0,,{\kf12}I{\kf30} say{\kf23} emb{\kf169}race{\kf19} the{\kf23} ma{\kf75}gic
-Dialogue: 0,0:01:52.74,0:01:55.85,DEFAULT,,0,0,0,,{\kf19}No{\kf23} more{\kf30} hol{\kf19}ding{\kf23} back,{\kf23} just{\kf30} let{\kf19} it{\kf75} out
-Dialogue: 0,0:01:57.61,0:02:01.74,DEFAULT,,0,0,0,,{\kf15}If{\kf23} you{\kf23} can{\kf79} ta{\kf90}-ake{\kf15} the{\kf15} ma{\kf8}-a{\kf12}-a{\kf72}gic
-Dialogue: 0,0:02:02.45,0:02:06.27,DEFAULT,,0,0,0,,{\kf15}And{\kf19} learn{\kf12} a{\kf15} lit{\kf19}tle{\kf30} more{\kf12} wha{\kf15}-at{\kf15} it{\kf27} can{\kf34} do-{\kf45}o{\kf12}-o{\kf38}-o
-Dialogue: 0,0:02:06.54,0:02:11.00,DEFAULT,,0,0,0,,{\kf15}Once{\kf12} the{\kf12} ma{\kf12}gic{\kf8} is{\kf23} part{\kf12} of{\kf19} yo{\kf180}-o{\kf15}-o{\kf23}-o{\kf12}-o{\kf53}-u
-Dialogue: 0,0:02:11.30,0:02:15.61,DEFAULT,,0,0,0,,{\kf15}Once{\kf12} the{\kf15} ma{\kf12}gic{\kf12} is{\kf19} part{\kf12} of{\kf19} yo{\kf87}-o{\kf90}-o{\kf27}-o{\kf72}-u
-Dialogue: 0,0:02:15.91,0:02:20.45,DEFAULT,,0,0,0,,{\kf12}Once{\kf19} the{\kf15} ma{\kf12}gic{\kf8} is{\kf23} part{\kf12} of{\kf19} yo{\kf150}-o{\kf23}-o{\kf27}-o{\kf8}-o{\kf15}-o{\kf15}-o{\kf38}-u
-Dialogue: 0,0:02:20.94,0:02:23.90,DEFAULT,,0,0,0,,{\kf15}Once{\kf12} the{\kf12} ma{\kf12}gic{\kf8} is{\kf12} pa{\kf15}-art{\kf12} of{\kf165} you
+Dialogue: 0,0:00:00.28,0:00:01.78,DEFAULT,,0,0,0,,{\r}{\kf14}So{\kf10} you{\kf18} ha{\kf36}-ave{\kf14} ma{\kf18}-a{\kf40}gic
+Dialogue: 0,0:00:02.30,0:00:03.80,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf16} it's{\kf21} not{\kf62} that{\kf35} great
+Dialogue: 0,0:00:04.85,0:00:07.10,DEFAULT,,0,0,0,,{\r}{\kf13}But{\kf17} when{\kf13} it{\kf64} fo{\kf21}-o{\kf34}-und{\kf63} you
+Dialogue: 0,0:00:07.33,0:00:09.05,DEFAULT,,0,0,0,,{\r}{\kf10}You{\kf17} know{\kf13} it{\kf55} was{\kf34} fa{\kf44}-ate
+Dialogue: 0,0:00:09.58,0:00:11.94,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf10} it{\kf24} might{\kf19} se{\kf33}-em{\kf33} sca{\kf33}ry{\kf70} now
+Dialogue: 0,0:00:12.17,0:00:14.08,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf15} it{\kf10} can{\kf24} be{\kf34} won{\kf15}der{\kf39}ful,{\kf39} too
+Dialogue: 0,0:00:14.83,0:00:17.94,DEFAULT,,0,0,0,,{\r}{\kf10}So{\kf23} how{\kf32} 'bout{\kf18} we{\kf10} emb{\kf23}race{\kf10} the{\kf46} ma{\kf59}gi{\kf18}-i{\kf62}-ic
+Dialogue: 0,0:00:18.47,0:00:20.38,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf14} make{\kf10} the{\kf18} ma{\kf23}gic{\kf36} part{\kf10} of{\kf70} you
+Dialogue: 0,0:00:24.17,0:00:26.38,DEFAULT,,0,0,0,,{\r}{\kf11}You{\kf22} take{\kf11} a{\kf11} lit{\kf16}tle{\kf38} dash{\kf32} of{\kf32} ma{\kf48}gic
+Dialogue: 0,0:00:26.72,0:00:28.55,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf23} you{\kf28} let{\kf18} it{\kf37} ig{\kf55}nite
+Dialogue: 0,0:00:29.08,0:00:30.92,DEFAULT,,0,0,0,,{\r}{\kf28}Mix{\kf32} things{\kf18} up{\kf14} a{\kf28} lit{\kf18}tle{\kf46} bit
+Dialogue: 0,0:00:31.33,0:00:33.32,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf20} it{\kf25} might{\kf30} start{\kf20} to{\kf15} go{\kf30}-o{\kf49} right
+Dialogue: 0,0:00:33.92,0:00:35.72,DEFAULT,,0,0,0,,{\r}{\kf24}In{\kf24} just{\kf47} five{\kf14} se{\kf19}conds{\kf52} flat
+Dialogue: 0,0:00:36.24,0:00:38.23,DEFAULT,,0,0,0,,{\r}{\kf35}How{\kf15} the{\kf35} sto{\kf15}ry{\kf15} ha{\kf20}-as{\kf64} changed
+Dialogue: 0,0:00:38.68,0:00:41.60,DEFAULT,,0,0,0,,{\r}{\kf23}All{\kf19} 'cause{\kf32} now{\kf19} you've{\kf14} emb{\kf28}raced{\kf14} the{\kf37} ma{\kf106}gic
+Dialogue: 0,0:00:42.02,0:00:44.45,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf10} it{\kf24} just{\kf24} got{\kf19} bet{\kf14}ter{\kf14} in{\kf29} eve{\kf14}ry{\kf82} way
+Dialogue: 0,0:00:47.98,0:00:51.92,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf38} say{\kf25} emb{\kf191}race{\kf17} the{\kf30} ma{\kf76}gic
+Dialogue: 0,0:00:52.74,0:00:56.08,DEFAULT,,0,0,0,,{\r}{\kf28}No{\kf28} more{\kf28} hol{\kf24}ding{\kf28} back,{\kf24} just{\kf14} le{\kf19}-et{\kf28} it{\kf113} out
+Dialogue: 0,0:00:57.58,0:01:01.52,DEFAULT,,0,0,0,,{\r}{\kf21}If{\kf26} you{\kf26} can{\kf103} ta{\kf86}-ake{\kf21} the{\kf13} ma{\kf17}-a{\kf81}gic
+Dialogue: 0,0:01:02.34,0:01:05.60,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf41} learn{\kf18} a{\kf23} lit{\kf18}tle{\kf37} more{\kf14} wha{\kf18}-at{\kf14} it{\kf37} can{\kf83} do
+Dialogue: 0,0:01:06.28,0:01:08.68,DEFAULT,,0,0,0,,{\r}{\kf27}Once{\kf18} the{\kf18} ma{\kf14}gic{\kf10} is{\kf32} part{\kf14} of{\kf23} yo{\kf84}-u
+Dialogue: 0,0:01:10.74,0:01:12.88,DEFAULT,,0,0,0,,{\r}{\kf22}What's{\kf40} stan{\kf27}ding{\kf40} in{\kf45} your{\kf40} way
+Dialogue: 0,0:01:13.14,0:01:15.24,DEFAULT,,0,0,0,,{\r}{\kf26}That{\kf20} you{\kf26} can't{\kf46} move{\kf46} to{\kf46}day?
+Dialogue: 0,0:01:15.50,0:01:17.60,DEFAULT,,0,0,0,,{\r}{\kf28}You've{\kf28} got{\kf17} the{\kf50} strength{\kf44} in{\kf43} you
+Dialogue: 0,0:01:17.90,0:01:20.00,DEFAULT,,0,0,0,,{\r}{\kf24}To{\kf24} make{\kf29} your{\kf54} dreams{\kf20} co{\kf20}-ome{\kf39} true
+Dialogue: 0,0:01:20.34,0:01:22.48,DEFAULT,,0,0,0,,{\r}{\kf25}No{\kf31} need{\kf20} to{\kf51} shield{\kf36} your{\kf51}self
+Dialogue: 0,0:01:22.70,0:01:24.92,DEFAULT,,0,0,0,,{\r}{\kf15}From{\kf15} the{\kf39} ma{\kf25}gic{\kf39} that{\kf34} can{\kf54} help
+Dialogue: 0,0:01:25.14,0:01:28.78,DEFAULT,,0,0,0,,{\r}{\kf23}Pro{\kf23}tect{\kf32} from{\kf32} a{\kf55}ny{\kf69} harm{\kf23} that{\kf23} might{\kf84} come
+Dialogue: 0,0:01:29.00,0:01:30.69,DEFAULT,,0,0,0,,{\r}{\kf14}So{\kf14} you{\kf64} have{\kf23} ma{\kf54}gic
+Dialogue: 0,0:01:31.14,0:01:32.75,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf14} it's{\kf28} not{\kf57} that{\kf48} great
+Dialogue: 0,0:01:33.65,0:01:35.79,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf14} when{\kf14} it{\kf64} fo{\kf32}-o{\kf23}-ound{\kf53} you
+Dialogue: 0,0:01:36.09,0:01:37.78,DEFAULT,,0,0,0,,{\r}{\kf10}You{\kf22} know{\kf10} it{\kf53} was{\kf36} fa{\kf38}-ate
+Dialogue: 0,0:01:38.45,0:01:40.59,DEFAULT,,0,0,0,,{\r}{\kf13}So,{\kf18} if{\kf80} you{\kf22} lis{\kf22}ten{\kf59} close
+Dialogue: 0,0:01:41.04,0:01:42.92,DEFAULT,,0,0,0,,{\r}{\kf28}You{\kf23} might{\kf32} make{\kf14} a{\kf37} new{\kf54} friend
+Dialogue: 0,0:01:43.74,0:01:47.75,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf12} to{\kf16}get{\kf25}her{\kf25} we{\kf25} can{\kf41} make{\kf151} i{\kf90}-it
+Dialogue: 0,0:01:48.02,0:01:52.03,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf34} say{\kf26} emb{\kf194}race{\kf22} the{\kf26} ma{\kf86}gic
+Dialogue: 0,0:01:52.74,0:01:55.85,DEFAULT,,0,0,0,,{\r}{\kf23}No{\kf27} more{\kf36} hol{\kf23}ding{\kf27} back,{\kf27} just{\kf36} let{\kf23} it{\kf89} out
+Dialogue: 0,0:01:57.62,0:02:01.74,DEFAULT,,0,0,0,,{\r}{\kf18}If{\kf27} you{\kf27} can{\kf93} ta{\kf106}-ake{\kf18} the{\kf18} ma{\kf10}-a{\kf13}-a{\kf82}gic
+Dialogue: 0,0:02:02.45,0:02:06.28,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf24} learn{\kf14} a{\kf19} lit{\kf24}tle{\kf38} more{\kf14} wha{\kf19}-at{\kf19} it{\kf33} can{\kf43} do-{\kf57}o{\kf14}-o{\kf46}-o
+Dialogue: 0,0:02:06.54,0:02:11.00,DEFAULT,,0,0,0,,{\r}{\kf17}Once{\kf13} the{\kf13} ma{\kf13}gic{\kf10} is{\kf26} part{\kf13} of{\kf21} yo{\kf206}-o{\kf17}-o{\kf26}-o{\kf13}-o{\kf58}-u
+Dialogue: 0,0:02:11.30,0:02:15.62,DEFAULT,,0,0,0,,{\r}{\kf17}Once{\kf13} the{\kf17} ma{\kf13}gic{\kf13} is{\kf21} part{\kf13} of{\kf21} yo{\kf96}-o{\kf100}-o{\kf29}-o{\kf78}-u
+Dialogue: 0,0:02:15.92,0:02:20.45,DEFAULT,,0,0,0,,{\r}{\kf13}Once{\kf22} the{\kf17} ma{\kf13}gic{\kf10} is{\kf26} part{\kf13} of{\kf22} yo{\kf175}-o{\kf26}-o{\kf31}-o{\kf10}-o{\kf17}-o{\kf17}-o{\kf42}-u
+Dialogue: 0,0:02:20.94,0:02:23.90,DEFAULT,,0,0,0,,{\r}{\kf17}Once{\kf13} the{\kf13} ma{\kf13}gic{\kf10} is{\kf13} pa{\kf17}-art{\kf13} of{\kf187} you

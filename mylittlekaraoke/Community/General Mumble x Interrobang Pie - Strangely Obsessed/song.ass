@@ -1,37 +1,44 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Strangely Obsessed
+Artist: General Mumble x Interrobang Pie
+Original Timing: mylittlekaraoke.com by Steven Knapp, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:15.26,0:00:17.89,DEFAULT,,0,0,0,,{\kf16}I{\kf16} am{\kf16} the{\kf19} jel{\kf8}ly{\kf16} po{\kf16}ny{\kf16} I{\kf16} want{\kf8} to{\kf23} play
-Dialogue: 0,0:00:18.98,0:00:22.03,DEFAULT,,0,0,0,,{\kf19}Read{\kf12}y{\kf19} or{\kf19} not{\kf12} I{\kf19} am{\kf8} a-{\kf12}com{\kf12}ing{\kf16} this{\kf46} way
-Dialogue: 0,0:00:22.75,0:00:25.27,DEFAULT,,0,0,0,,{\kf19}Don't{\kf16} be{\kf16} a{\kf19}fraid{\kf12} let{\kf12} me{\kf16} show{\kf8} you{\kf12} who{\kf23} I{\kf19} am
-Dialogue: 0,0:00:26.47,0:00:29.30,DEFAULT,,0,0,0,,{\kf16}Take{\kf16} off{\kf8} your{\kf16} clothes{\kf8} we're{\kf19} get{\kf19}ting{\kf12} in{\kf16}to{\kf12} the{\kf42} jam
-Dialogue: 0,0:00:30.28,0:00:33.14,DEFAULT,,0,0,0,,{\kf16}Lay{\kf16} on{\kf12} the{\kf16} bed{\kf16} you{\kf8} just{\kf8} sit{\kf16} back{\kf16} and{\kf16} be{\kf53}have
-Dialogue: 0,0:00:34.01,0:00:37.39,DEFAULT,,0,0,0,,{\kf8}Your{\kf23} ap{\kf12}ple{\kf16}sauce{\kf8} is{\kf12} the{\kf12} one{\kf19} thing{\kf16} that{\kf31} I{\kf80} crave
-Dialogue: 0,0:00:37.73,0:00:40.56,DEFAULT,,0,0,0,,{\kf12}Look{\kf23} down{\kf16} be{\kf16}low{\kf8} to{\kf16} see{\kf19} my{\kf12} jel{\kf12}ly{\kf12} has{\kf19} set
-Dialogue: 0,0:00:41.46,0:00:44.47,DEFAULT,,0,0,0,,{\kf8}Hope{\kf16} you{\kf12} can{\kf16} swim{\kf16} 'cause{\kf12} you're{\kf12} gon{\kf16}na{\kf16} get{\kf31} wet
-Dialogue: 0,0:01:15.19,0:01:18.21,DEFAULT,,0,0,0,,{\kf19}Oh{\kf16} babe{\kf8} your{\kf12} jam{\kf12} jar's{\kf8} got{\kf8} some{\kf12} beau{\kf12}ti{\kf12}ful{\kf57} curves
-Dialogue: 0,0:01:19.04,0:01:21.93,DEFAULT,,0,0,0,,{\kf12}Tastes{\kf8} al{\kf12}most{\kf12} like{\kf8} my{\kf12} fav{\kf8}'rite{\kf16} fruit{\kf8} pre{\kf49}serves
-Dialogue: 0,0:01:22.80,0:01:25.36,DEFAULT,,0,0,0,,{\kf12}And{\kf12} did{\kf12} I{\kf8} com{\kf12}ment{\kf12} on{\kf12} your{\kf8} de{\kf12}li{\kf8}cious{\kf19} spread?
-Dialogue: 0,0:01:26.49,0:01:29.61,DEFAULT,,0,0,0,,{\kf16}Should{\kf16} I{\kf19} do{\kf12} you{\kf16} or{\kf16} will{\kf8} you{\kf16} do{\kf12} me{\kf12} in{\kf46}stead?
-Dialogue: 0,0:01:30.26,0:01:31.16,DEFAULT,,0,0,0,,{\kf19}Strange{\kf8}ly{\kf12} ob{\kf19}sessed
-Dialogue: 0,0:01:37.75,0:01:38.65,DEFAULT,,0,0,0,,{\kf19}Strange{\kf8}ly{\kf12} ob{\kf19}sessed
-Dialogue: 0,0:01:45.24,0:01:46.14,DEFAULT,,0,0,0,,{\kf19}Strange{\kf8}ly{\kf12} ob{\kf19}sessed
-Dialogue: 0,0:01:52.77,0:01:53.67,DEFAULT,,0,0,0,,{\kf19}Strange{\kf8}ly{\kf12} ob{\kf19}sessed
-Dialogue: 0,0:01:56.50,0:02:00.98,DEFAULT,,0,0,0,,{\kf19}Strange{\kf8}ly{\kf12} ob{\kf19}sessed{\kf23} with{\kf27} tubs{\kf27} of{\kf49} jel{\kf95}ly
-Dialogue: 0,0:02:15.29,0:02:17.85,DEFAULT,,0,0,0,,{\kf16}Oh{\kf16} wait{\kf16} hold{\kf12} up{\kf12} I{\kf16} think{\kf12} my{\kf12} lid's{\kf8} get{\kf12}ting{\kf19} loose
-Dialogue: 0,0:02:19.01,0:02:21.61,DEFAULT,,0,0,0,,{\kf16}There'll{\kf8} be{\kf12} straw{\kf12}b'ry{\kf8} jam{\kf12} all{\kf12} o{\kf19}ver{\kf12} your{\kf8} ca{\kf19}boose
-Dialogue: 0,0:02:22.89,0:02:25.64,DEFAULT,,0,0,0,,{\kf12}Some{\kf12} in{\kf12} your{\kf23} mane{\kf19} some{\kf16} on{\kf12} your{\kf12} bel{\kf31}ly
-Dialogue: 0,0:02:26.58,0:02:29.63,DEFAULT,,0,0,0,,{\kf8}Do{\kf8} you{\kf12} think{\kf16} you're{\kf16} read{\kf23}y{\kf12} for{\kf16} all{\kf8} of{\kf16} this{\kf12} jel{\kf19}ly?
-Dialogue: 0,0:02:45.52,0:02:48.04,DEFAULT,,0,0,0,,{\kf87}<Sigh>{\kf12} Strange{\kf8}ly{\kf12} ob{\kf19}sessed
-Dialogue: 0,0:02:54.63,0:02:55.53,DEFAULT,,0,0,0,,{\kf12}Strange{\kf8}ly{\kf12} ob{\kf19}sessed
-Dialogue: 0,0:03:02.16,0:03:03.03,DEFAULT,,0,0,0,,{\kf12}Strange{\kf8}ly{\kf12} ob{\kf19}sessed
-Dialogue: 0,0:03:09.65,0:03:10.52,DEFAULT,,0,0,0,,{\kf12}Strange{\kf8}ly{\kf12} ob{\kf19}sessed
-Dialogue: 0,0:03:13.38,0:03:17.86,DEFAULT,,0,0,0,,{\kf12}Strange{\kf8}ly{\kf12} ob{\kf19}sessed{\kf23} with{\kf27} tubs{\kf27} of{\kf49} jel{\kf95}ly
+Dialogue: 0,0:00:15.26,0:00:17.90,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf25} am{\kf25} the{\kf31} jel{\kf12}ly{\kf25} po{\kf25}ny{\kf25} I{\kf25} want{\kf12} to{\kf34} play
+Dialogue: 0,0:00:18.99,0:00:22.04,DEFAULT,,0,0,0,,{\r}{\kf30}Read{\kf18}y{\kf30} or{\kf30} not{\kf18} I{\kf30} am{\kf12} a-{\kf18}com{\kf18}ing{\kf24} this{\kf77} way
+Dialogue: 0,0:00:22.75,0:00:25.28,DEFAULT,,0,0,0,,{\r}{\kf29}Don't{\kf23} be{\kf23} a{\kf29}fraid{\kf17} let{\kf17} me{\kf23} show{\kf11} you{\kf17} who{\kf34} I{\kf29} am
+Dialogue: 0,0:00:26.48,0:00:29.30,DEFAULT,,0,0,0,,{\r}{\kf24}Take{\kf24} off{\kf12} your{\kf24} clothes{\kf12} we're{\kf30} get{\kf30}ting{\kf18} in{\kf24}to{\kf18} the{\kf66} jam
+Dialogue: 0,0:00:30.28,0:00:33.14,DEFAULT,,0,0,0,,{\r}{\kf23}Lay{\kf23} on{\kf18} the{\kf23} bed{\kf23} you{\kf12} just{\kf12} sit{\kf23} back{\kf23} and{\kf23} be{\kf83}have
+Dialogue: 0,0:00:34.01,0:00:37.40,DEFAULT,,0,0,0,,{\r}{\kf11}Your{\kf33} ap{\kf17}ple{\kf22}sauce{\kf11} is{\kf17} the{\kf17} one{\kf28} thing{\kf22} that{\kf44} I{\kf117} crave
+Dialogue: 0,0:00:37.74,0:00:40.56,DEFAULT,,0,0,0,,{\r}{\kf20}Look{\kf40} down{\kf27} be{\kf27}low{\kf13} to{\kf27} see{\kf34} my{\kf20} jel{\kf20}ly{\kf20} has{\kf34} set
+Dialogue: 0,0:00:41.46,0:00:44.48,DEFAULT,,0,0,0,,{\r}{\kf15}Hope{\kf31} you{\kf23} can{\kf31} swim{\kf31} 'cause{\kf23} you're{\kf23} gon{\kf31}na{\kf31} get{\kf62} wet
+Dialogue: 0,0:01:15.20,0:01:18.21,DEFAULT,,0,0,0,,{\r}{\kf33}Oh{\kf27} babe{\kf13} your{\kf20} jam{\kf20} jar's{\kf13} got{\kf13} some{\kf20} beau{\kf20}ti{\kf20}ful{\kf102} curves
+Dialogue: 0,0:01:19.04,0:01:21.94,DEFAULT,,0,0,0,,{\r}{\kf24}Tastes{\kf16} al{\kf24}most{\kf24} like{\kf16} my{\kf24} fav{\kf16}'rite{\kf31} fruit{\kf16} pre{\kf99}serves
+Dialogue: 0,0:01:22.81,0:01:25.37,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf24} did{\kf24} I{\kf16} com{\kf24}ment{\kf24} on{\kf24} your{\kf16} de{\kf24}li{\kf16}cious{\kf40} spread?
+Dialogue: 0,0:01:26.49,0:01:29.62,DEFAULT,,0,0,0,,{\r}{\kf26}Should{\kf26} I{\kf32} do{\kf19} you{\kf26} or{\kf26} will{\kf13} you{\kf26} do{\kf19} me{\kf19} in{\kf80}stead?
+Dialogue: 0,0:01:30.26,0:01:31.16,DEFAULT,,0,0,0,,{\r}{\kf30}Strange{\kf12}ly{\kf18} ob{\kf30}sessed
+Dialogue: 0,0:01:37.75,0:01:38.66,DEFAULT,,0,0,0,,{\r}{\kf30}Strange{\kf12}ly{\kf18} ob{\kf30}sessed
+Dialogue: 0,0:01:45.24,0:01:46.15,DEFAULT,,0,0,0,,{\r}{\kf30}Strange{\kf12}ly{\kf18} ob{\kf30}sessed
+Dialogue: 0,0:01:52.78,0:01:53.68,DEFAULT,,0,0,0,,{\r}{\kf30}Strange{\kf12}ly{\kf18} ob{\kf30}sessed
+Dialogue: 0,0:01:56.50,0:02:00.98,DEFAULT,,0,0,0,,{\r}{\kf31}Strange{\kf12}ly{\kf18} ob{\kf31}sessed{\kf37} with{\kf43} tubs{\kf43} of{\kf80} jel{\kf153}ly
+Dialogue: 0,0:02:15.29,0:02:17.85,DEFAULT,,0,0,0,,{\r}{\kf27}Oh{\kf27} wait{\kf27} hold{\kf20} up{\kf20} I{\kf27} think{\kf20} my{\kf20} lid's{\kf13} get{\kf20}ting{\kf35} loose
+Dialogue: 0,0:02:19.02,0:02:21.62,DEFAULT,,0,0,0,,{\r}{\kf30}There'll{\kf15} be{\kf22} straw{\kf22}b'ry{\kf15} jam{\kf22} all{\kf22} o{\kf37}ver{\kf22} your{\kf15} ca{\kf38}boose
+Dialogue: 0,0:02:22.90,0:02:25.64,DEFAULT,,0,0,0,,{\r}{\kf22}Some{\kf22} in{\kf22} your{\kf43} mane{\kf36} some{\kf29} on{\kf22} your{\kf22} bel{\kf57}ly
+Dialogue: 0,0:02:26.59,0:02:29.63,DEFAULT,,0,0,0,,{\r}{\kf15}Do{\kf15} you{\kf22} think{\kf29} you're{\kf29} read{\kf44}y{\kf22} for{\kf29} all{\kf15} of{\kf29} this{\kf22} jel{\kf34}ly?
+Dialogue: 0,0:02:45.52,0:02:48.05,DEFAULT,,0,0,0,,{\r}{\kf161}<Sigh>{\kf21} Strange{\kf14}ly{\kf21} ob{\kf35}sessed
+Dialogue: 0,0:02:54.63,0:02:55.54,DEFAULT,,0,0,0,,{\r}{\kf21}Strange{\kf14}ly{\kf21} ob{\kf34}sessed
+Dialogue: 0,0:03:02.17,0:03:03.03,DEFAULT,,0,0,0,,{\r}{\kf20}Strange{\kf13}ly{\kf20} ob{\kf34}sessed
+Dialogue: 0,0:03:09.66,0:03:10.52,DEFAULT,,0,0,0,,{\r}{\kf20}Strange{\kf13}ly{\kf20} ob{\kf34}sessed
+Dialogue: 0,0:03:13.38,0:03:17.87,DEFAULT,,0,0,0,,{\r}{\kf19}Strange{\kf13}ly{\kf19} ob{\kf32}sessed{\kf38} with{\kf44} tubs{\kf44} of{\kf82} jel{\kf157}ly

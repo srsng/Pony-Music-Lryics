@@ -1,68 +1,75 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Miles
+Artist: dBPony (feat. EileMonty)
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.90,0:00:04.40,DEFAULT,,0,0,0,,{\kf25}This{\kf40} all{\kf25} seems{\kf20} ve{\kf16}ry{\kf20} un{\kf56}fair
-Dialogue: 0,0:00:04.75,0:00:08.15,DEFAULT,,0,0,0,,{\kf25}How{\kf25} come{\kf31}~{\kf25} e{\kf35}very{\kf50}po{\kf31}ny{\kf25} else{\kf31} has{\kf16} theirs?
-Dialogue: 0,0:00:08.25,0:00:10.50,DEFAULT,,0,0,0,,{\kf10}I'd{\kf25} be{\kf20} ly{\kf25}ing{\kf16} if{\kf10} I{\kf16} said{\kf16} I{\kf16} could{\kf31} wait
-Dialogue: 0,0:00:10.65,0:00:13.20,DEFAULT,,0,0,0,,{\kf16}Be{\kf20}cause{\kf10} I{\kf20} real{\kf16}ly{\kf31} want{\kf20} mine{\kf40} right{\kf56} now
-Dialogue: 0,0:00:14.65,0:00:17.25,DEFAULT,,0,0,0,,{\kf10}It{\kf20} kind{\kf10} of{\kf20} hurts{\kf16} when{\kf20} e{\kf20}very{\kf35}po{\kf20}ny{\kf61} stares
-Dialogue: 0,0:00:17.50,0:00:20.95,DEFAULT,,0,0,0,,{\kf10}To{\kf20} look{\kf10} at{\kf20} my{\kf31} flank{\kf31} and{\kf40} see{\kf31} there's{\kf31} no{\kf31}thing{\kf31} there
-Dialogue: 0,0:00:21.10,0:00:23.45,DEFAULT,,0,0,0,,{\kf10}I'm{\kf20} not{\kf20} gon{\kf16}na{\kf20} sit{\kf35} down{\kf16} and{\kf45} cry
-Dialogue: 0,0:00:23.80,0:00:26.05,DEFAULT,,0,0,0,,{\kf16}But{\kf35} some{\kf20}times{\kf16} it's{\kf16} just{\kf16} too{\kf16}~{\kf56} much
-Dialogue: 0,0:00:27.20,0:00:29.70,DEFAULT,,0,0,0,,{\kf35}I{\kf31} have{\kf31} tried{\kf31} so{\kf25} ve{\kf31}ry{\kf20} hard
-Dialogue: 0,0:00:29.85,0:00:33.25,DEFAULT,,0,0,0,,{\kf10}To{\kf16} find{\kf10} a{\kf25} place{\kf35} where{\kf31} I{\kf25} be{\kf56}long{\kf25}~{\kf61}~
-Dialogue: 0,0:00:33.50,0:00:36.30,DEFAULT,,0,0,0,,{\kf40}But{\kf31} in{\kf20}stead{\kf16} of{\kf20} mak{\kf16}ing{\kf20} peace{\kf10} with{\kf20} my{\kf50}self
-Dialogue: 0,0:00:36.60,0:00:38.90,DEFAULT,,0,0,0,,{\kf16}I{\kf31} sing{\kf25} a{\kf25} lit{\kf31}tle{\kf70} song
-Dialogue: 0,0:00:39.95,0:00:42.85,DEFAULT,,0,0,0,,{\kf35}Ha{\kf31} na{\kf25} na{\kf10} na{\kf31} na{\kf40} na{\kf35} na{\kf45} na
-Dialogue: 0,0:00:43.00,0:00:46.75,DEFAULT,,0,0,0,,{\kf16}Na{\kf31} na{\kf35} na{\kf20} na{\kf16} na{\kf35} na{\kf35} ah{\kf35} na{\kf20} na{\kf10} na{\kf20} na{\kf50} na
-Dialogue: 0,0:00:46.95,0:00:49.30,DEFAULT,,0,0,0,,{\kf16}Na{\kf20} na{\kf16} na{\kf31} na{\kf40} na{\kf35} na{\kf50} na
-Dialogue: 0,0:00:49.45,0:00:54.20,DEFAULT,,0,0,0,,{\kf16}Na{\kf31} na{\kf31} na{\kf25} na{\kf10} na{\kf31} na{\kf35} ooh{\kf40} ooh{\kf70} ooh{\kf140} ooh
-Dialogue: 0,0:00:59.35,0:01:01.90,DEFAULT,,0,0,0,,{\kf16}So{\kf20} I{\kf25} wake{\kf31} up{\kf25} e{\kf20}ve{\kf20}ry{\kf50}day
-Dialogue: 0,0:01:02.35,0:01:05.85,DEFAULT,,0,0,0,,{\kf20}Hop{\kf50}ing{\kf31} that{\kf25} no{\kf56}po{\kf35}ny{\kf31} else{\kf31} will{\kf25} say
-Dialogue: 0,0:01:06.00,0:01:07.05,DEFAULT,,0,0,0,,{\kf31}Hey{\kf31} blank{\kf25} flank
-Dialogue: 0,0:01:07.25,0:01:10.75,DEFAULT,,0,0,0,,{\kf10}How{\kf10} does{\kf20} it{\kf56} feel{\kf16} to{\kf35} not{\kf25} be{\kf25} spe{\kf16}cial{\kf16} at{\kf56} all?
-Dialogue: 0,0:01:11.95,0:01:14.75,DEFAULT,,0,0,0,,{\kf35}Truth{\kf25} be{\kf50} told{\kf25} I'd{\kf40} ra{\kf25}ther{\kf50} hide
-Dialogue: 0,0:01:15.10,0:01:18.65,DEFAULT,,0,0,0,,{\kf25}Co{\kf16}ver{\kf16} my{\kf35} face{\kf16} so{\kf16} we{\kf50} can't{\kf31} meet{\kf31} eye{\kf20} to{\kf40} eye
-Dialogue: 0,0:01:18.80,0:01:20.90,DEFAULT,,0,0,0,,{\kf25}Big{\kf25} sis{\kf16}ter{\kf16} al{\kf20}ways{\kf35} drags{\kf25} me{\kf20} out
-Dialogue: 0,0:01:21.05,0:01:23.55,DEFAULT,,0,0,0,,{\kf10}And{\kf16} says{\kf10} I{\kf25} real{\kf16}ly{\kf20} should{\kf16}n't{\kf20} think{\kf31} like{\kf56} that
-Dialogue: 0,0:01:24.60,0:01:27.80,DEFAULT,,0,0,0,,{\kf16}You{\kf20} can't{\kf35} rush{\kf31} things{\kf35} like{\kf20} this{\kf25} su{\kf20}gar{\kf25}cube{\kf35}~
-Dialogue: 0,0:01:27.90,0:01:30.80,DEFAULT,,0,0,0,,{\kf10}A{\kf20} Cu{\kf10}tie{\kf31} Mark{\kf35} comes{\kf20} with{\kf56} time{\kf25}~{\kf56}~
-Dialogue: 0,0:01:31.05,0:01:33.85,DEFAULT,,0,0,0,,{\kf10}I{\kf20} know{\kf10} it's{\kf31} not{\kf31} some{\kf25}thing{\kf20} you{\kf16} wan{\kf16}na{\kf45} hear
-Dialogue: 0,0:01:34.20,0:01:36.25,DEFAULT,,0,0,0,,{\kf10}But{\kf20} how'd{\kf10} you{\kf40} think{\kf16} I{\kf31} got{\kf45} mine?
-Dialogue: 0,0:01:37.40,0:01:39.90,DEFAULT,,0,0,0,,{\kf16}You'll{\kf25} find{\kf31} that{\kf31} spe{\kf31}cial{\kf40} ta{\kf35}lent
-Dialogue: 0,0:01:40.05,0:01:43.65,DEFAULT,,0,0,0,,{\kf25}That{\kf31} will{\kf31} make{\kf35} you{\kf40} re{\kf25}a{\kf61}lize{\kf20}~{\kf56}~
-Dialogue: 0,0:01:44.00,0:01:46.65,DEFAULT,,0,0,0,,{\kf35}Why{\kf35} you{\kf35} rushed{\kf35} things{\kf35} all{\kf20} be{\kf45}fore
-Dialogue: 0,0:01:46.75,0:01:49.50,DEFAULT,,0,0,0,,{\kf25}Be{\kf140}sides{\kf25}~{\kf86}~
-Dialogue: 0,0:01:50.30,0:01:52.70,DEFAULT,,0,0,0,,{\kf40}One{\kf31} day{\kf35} it{\kf20} will{\kf50} come{\kf35}~
-Dialogue: 0,0:01:52.85,0:01:54.80,DEFAULT,,0,0,0,,{\kf20}And{\kf31} it's{\kf35} gon{\kf16}na{\kf16} make{\kf16} you{\kf25} gig{\kf10}gle
-Dialogue: 0,0:01:54.95,0:01:56.40,DEFAULT,,0,0,0,,{\kf10}It's{\kf40} gon{\kf10}na{\kf16} make{\kf10} you{\kf25} smile{\kf10}~
-Dialogue: 0,0:01:56.55,0:01:58.15,DEFAULT,,0,0,0,,{\kf10}The{\kf25} kind{\kf16} of{\kf16} one{\kf10} that's{\kf25} beau{\kf20}ti{\kf10}ful
-Dialogue: 0,0:01:58.30,0:01:59.80,DEFAULT,,0,0,0,,{\kf10}And{\kf20} goes{\kf35} for{\kf45} miles{\kf25}~
-Dialogue: 0,0:01:59.95,0:02:02.00,DEFAULT,,0,0,0,,{\kf25}Think{\kf10} a{\kf20}bout{\kf10} it{\kf25} e{\kf16}ve{\kf16}ry{\kf50} day
-Dialogue: 0,0:02:02.45,0:02:04.85,DEFAULT,,0,0,0,,{\kf20}But{\kf10} you've{\kf25} got{\kf10}ta{\kf31} wait{\kf25} un{\kf10}til{\kf25} then{\kf10} my{\kf40} dear
-Dialogue: 0,0:02:05.00,0:02:06.20,DEFAULT,,0,0,0,,{\kf16}E{\kf10}ven{\kf16} if{\kf10} it{\kf20} takes{\kf10} a{\kf16} year
-Dialogue: 0,0:02:06.35,0:02:09.30,DEFAULT,,0,0,0,,{\kf31}I{\kf45} know{\kf20} where{\kf31} you're{\kf35} get{\kf16}ting{\kf31} at{\kf25} sis{\kf31}ter
-Dialogue: 0,0:02:09.45,0:02:12.45,DEFAULT,,0,0,0,,{\kf40}But{\kf31} the{\kf31} thought{\kf25} to{\kf20} me{\kf25} is{\kf40} tor{\kf31}ture
-Dialogue: 0,0:02:12.65,0:02:14.70,DEFAULT,,0,0,0,,{\kf40}Got{\kf10}ta{\kf16} find{\kf10} a{\kf25} bet{\kf16}~{\kf20}ter{\kf50} way
-Dialogue: 0,0:02:15.00,0:02:17.05,DEFAULT,,0,0,0,,{\kf10}To{\kf20} get{\kf31} my{\kf45} mark{\kf31} much{\kf20} fas{\kf10}ter
-Dialogue: 0,0:02:17.20,0:02:19.70,DEFAULT,,0,0,0,,{\kf20}So{\kf61} I{\kf16} can{\kf20} fi{\kf16}nal{\kf31}ly{\kf56} stay
-Dialogue: 0,0:02:32.00,0:02:34.50,DEFAULT,,0,0,0,,{\kf35}On{\kf31} this{\kf25} jour{\kf16}ney{\kf25} and{\kf45} quest{\kf16} of{\kf31} mine
-Dialogue: 0,0:02:34.65,0:02:38.05,DEFAULT,,0,0,0,,{\kf31}I'll{\kf35} find{\kf10} a{\kf20} way{\kf10} to{\kf20} get{\kf16} it{\kf25} with{\kf31} much{\kf35} less{\kf45} time
-Dialogue: 0,0:02:38.40,0:02:40.95,DEFAULT,,0,0,0,,{\kf20}What{\kf10} do{\kf20} I{\kf35} do{\kf40} and{\kf20} where{\kf10} do{\kf20} I{\kf35} start
-Dialogue: 0,0:02:41.05,0:02:44.40,DEFAULT,,0,0,0,,{\kf10}On{\kf16} my{\kf40} jour{\kf10}ney{\kf20} to{\kf16} dis{\kf25}co{\kf10}ver{\kf25} my{\kf50} Cu{\kf25}tie{\kf45} Mark?
-Dialogue: 0,0:02:44.60,0:02:47.35,DEFAULT,,0,0,0,,{\kf10}If{\kf31} time{\kf35} is{\kf25} mo{\kf16}ney{\kf25} and{\kf45} pain{\kf16} is{\kf35} gain
-Dialogue: 0,0:02:47.50,0:02:50.75,DEFAULT,,0,0,0,,{\kf31}Then{\kf31} I{\kf35} will{\kf16} en{\kf35}dure{\kf31} these{\kf31} sil{\kf35}ly{\kf56} games
-Dialogue: 0,0:02:51.15,0:02:53.70,DEFAULT,,0,0,0,,{\kf31}Ei{\kf25}ther{\kf45} way{\kf16} I'll{\kf20} dis{\kf20}co{\kf10}ver{\kf25} my{\kf31} mark
-Dialogue: 0,0:02:53.95,0:03:00.25,DEFAULT,,0,0,0,,{\kf25}To{\kf606}day
-Dialogue: 0,0:03:00.80,0:03:03.55,DEFAULT,,0,0,0,,{\kf31}Ha{\kf25} na{\kf20} na{\kf16} na{\kf31} na{\kf35} na{\kf31} na{\kf40} na
-Dialogue: 0,0:03:03.70,0:03:07.50,DEFAULT,,0,0,0,,{\kf20}Na{\kf31} na{\kf31} na{\kf20} na{\kf16} na{\kf25} na{\kf31} ah{\kf31} na{\kf20} na{\kf16} na{\kf16} na{\kf50} na
-Dialogue: 0,0:03:07.80,0:03:09.95,DEFAULT,,0,0,0,,{\kf16}Na{\kf16} na{\kf10} na{\kf31} na{\kf31} na{\kf35} na{\kf35} na
-Dialogue: 0,0:03:10.20,0:03:15.65,DEFAULT,,0,0,0,,{\kf10}Na{\kf35} na{\kf35} na{\kf20} na{\kf10} na{\kf31} na{\kf50} ooh{\kf50} ooh{\kf50} ooh{\kf105} ooh{\kf95} ooh
+Dialogue: 0,0:00:01.90,0:00:04.40,DEFAULT,,0,0,0,,{\r}{\kf31}This{\kf50} all{\kf31} seems{\kf25} ve{\kf19}ry{\kf25} un{\kf69}fair
+Dialogue: 0,0:00:04.75,0:00:08.15,DEFAULT,,0,0,0,,{\r}{\kf29}How{\kf29} come{\kf35}~{\kf29} e{\kf41}very{\kf59}po{\kf35}ny{\kf29} else{\kf35} has{\kf19} theirs?
+Dialogue: 0,0:00:08.25,0:00:10.50,DEFAULT,,0,0,0,,{\r}{\kf13}I'd{\kf31} be{\kf25} ly{\kf31}ing{\kf19} if{\kf13} I{\kf19} said{\kf19} I{\kf19} could{\kf36} wait
+Dialogue: 0,0:00:10.65,0:00:13.20,DEFAULT,,0,0,0,,{\r}{\kf17}Be{\kf23}cause{\kf11} I{\kf23} real{\kf17}ly{\kf34} want{\kf23} mine{\kf45} right{\kf62} now
+Dialogue: 0,0:00:14.65,0:00:17.25,DEFAULT,,0,0,0,,{\r}{\kf11}It{\kf23} kind{\kf11} of{\kf23} hurts{\kf17} when{\kf23} e{\kf23}very{\kf40}po{\kf23}ny{\kf66} stares
+Dialogue: 0,0:00:17.50,0:00:20.95,DEFAULT,,0,0,0,,{\r}{\kf12}To{\kf25} look{\kf12} at{\kf25} my{\kf37} flank{\kf37} and{\kf49} see{\kf37} there's{\kf37} no{\kf37}thing{\kf37} there
+Dialogue: 0,0:00:21.10,0:00:23.45,DEFAULT,,0,0,0,,{\r}{\kf13}I'm{\kf26} not{\kf26} gon{\kf20}na{\kf26} sit{\kf46} down{\kf20} and{\kf58} cry
+Dialogue: 0,0:00:23.80,0:00:26.05,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf43} some{\kf24}times{\kf18} it's{\kf18} just{\kf18} too{\kf18}~{\kf68} much
+Dialogue: 0,0:00:27.20,0:00:29.70,DEFAULT,,0,0,0,,{\r}{\kf44}I{\kf38} have{\kf38} tried{\kf38} so{\kf31} ve{\kf38}ry{\kf23} hard
+Dialogue: 0,0:00:29.85,0:00:33.25,DEFAULT,,0,0,0,,{\r}{\kf12}To{\kf18} find{\kf12} a{\kf29} place{\kf41} where{\kf35} I{\kf29} be{\kf64}long{\kf29}~{\kf71}~
+Dialogue: 0,0:00:33.50,0:00:36.30,DEFAULT,,0,0,0,,{\r}{\kf47}But{\kf35} in{\kf23}stead{\kf18} of{\kf23} mak{\kf18}ing{\kf23} peace{\kf12} with{\kf23} my{\kf58}self
+Dialogue: 0,0:00:36.60,0:00:38.90,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf35} sing{\kf29} a{\kf29} lit{\kf35}tle{\kf84} song
+Dialogue: 0,0:00:39.95,0:00:42.85,DEFAULT,,0,0,0,,{\r}{\kf41}Ha{\kf35} na{\kf29} na{\kf12} na{\kf35} na{\kf46} na{\kf41} na{\kf51} na
+Dialogue: 0,0:00:43.00,0:00:46.75,DEFAULT,,0,0,0,,{\r}{\kf18}Na{\kf35} na{\kf41} na{\kf23} na{\kf18} na{\kf41} na{\kf41} ah{\kf41} na{\kf23} na{\kf12} na{\kf23} na{\kf59} na
+Dialogue: 0,0:00:46.95,0:00:49.30,DEFAULT,,0,0,0,,{\r}{\kf17}Na{\kf23} na{\kf17} na{\kf34} na{\kf46} na{\kf40} na{\kf58} na
+Dialogue: 0,0:00:49.45,0:00:54.20,DEFAULT,,0,0,0,,{\r}{\kf17}Na{\kf34} na{\kf34} na{\kf28} na{\kf11} na{\kf34} na{\kf39} ooh{\kf45} ooh{\kf78} ooh{\kf155} ooh
+Dialogue: 0,0:00:59.35,0:01:01.90,DEFAULT,,0,0,0,,{\r}{\kf19}So{\kf25} I{\kf31} wake{\kf37} up{\kf31} e{\kf25}ve{\kf25}ry{\kf62}day
+Dialogue: 0,0:01:02.35,0:01:05.85,DEFAULT,,0,0,0,,{\r}{\kf23}Hop{\kf58}ing{\kf35} that{\kf29} no{\kf64}po{\kf41}ny{\kf35} else{\kf35} will{\kf30} say
+Dialogue: 0,0:01:06.00,0:01:07.05,DEFAULT,,0,0,0,,{\r}{\kf37}Hey{\kf37} blank{\kf31} flank
+Dialogue: 0,0:01:07.25,0:01:10.75,DEFAULT,,0,0,0,,{\r}{\kf13}How{\kf13} does{\kf25} it{\kf69} feel{\kf19} to{\kf44} not{\kf31} be{\kf31} spe{\kf19}cial{\kf19} at{\kf67} all?
+Dialogue: 0,0:01:11.95,0:01:14.75,DEFAULT,,0,0,0,,{\r}{\kf39}Truth{\kf28} be{\kf56} told{\kf28} I'd{\kf45} ra{\kf28}ther{\kf56} hide
+Dialogue: 0,0:01:15.10,0:01:18.65,DEFAULT,,0,0,0,,{\r}{\kf31}Co{\kf18}ver{\kf18} my{\kf43} face{\kf18} so{\kf18} we{\kf61} can't{\kf37} meet{\kf37} eye{\kf24} to{\kf50} eye
+Dialogue: 0,0:01:18.80,0:01:20.90,DEFAULT,,0,0,0,,{\r}{\kf29}Big{\kf29} sis{\kf18}ter{\kf18} al{\kf23}ways{\kf41} drags{\kf29} me{\kf23} out
+Dialogue: 0,0:01:21.05,0:01:23.55,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf17} says{\kf12} I{\kf29} real{\kf17}ly{\kf23} should{\kf17}n't{\kf23} think{\kf35} like{\kf65} that
+Dialogue: 0,0:01:24.60,0:01:27.80,DEFAULT,,0,0,0,,{\r}{\kf18}You{\kf25} can't{\kf43} rush{\kf37} things{\kf43} like{\kf25} this{\kf31} su{\kf25}gar{\kf31}cube{\kf42}~
+Dialogue: 0,0:01:27.90,0:01:30.80,DEFAULT,,0,0,0,,{\r}{\kf11}A{\kf22} Cu{\kf11}tie{\kf33} Mark{\kf39} comes{\kf22} with{\kf61} time{\kf28}~{\kf63}~
+Dialogue: 0,0:01:31.05,0:01:33.85,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf25} know{\kf13} it's{\kf38} not{\kf38} some{\kf32}thing{\kf25} you{\kf19} wan{\kf19}na{\kf58} hear
+Dialogue: 0,0:01:34.20,0:01:36.25,DEFAULT,,0,0,0,,{\r}{\kf12}But{\kf24} how'd{\kf12} you{\kf48} think{\kf18} I{\kf36} got{\kf55} mine?
+Dialogue: 0,0:01:37.40,0:01:39.90,DEFAULT,,0,0,0,,{\r}{\kf18}You'll{\kf30} find{\kf37} that{\kf37} spe{\kf37}cial{\kf49} ta{\kf42}lent
+Dialogue: 0,0:01:40.05,0:01:43.65,DEFAULT,,0,0,0,,{\r}{\kf28}That{\kf34} will{\kf34} make{\kf39} you{\kf45} re{\kf28}a{\kf67}lize{\kf22}~{\kf63}~
+Dialogue: 0,0:01:44.00,0:01:46.65,DEFAULT,,0,0,0,,{\r}{\kf39}Why{\kf39} you{\kf39} rushed{\kf39} things{\kf39} all{\kf22} be{\kf48}fore
+Dialogue: 0,0:01:46.75,0:01:49.50,DEFAULT,,0,0,0,,{\r}{\kf25}Be{\kf140}sides{\kf25}~{\kf85}~
+Dialogue: 0,0:01:50.30,0:01:52.70,DEFAULT,,0,0,0,,{\r}{\kf46}One{\kf34} day{\kf40} it{\kf23} will{\kf57} come{\kf40}~
+Dialogue: 0,0:01:52.85,0:01:54.80,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf35} it's{\kf41} gon{\kf18}na{\kf18} make{\kf18} you{\kf30} gig{\kf11}gle
+Dialogue: 0,0:01:54.95,0:01:56.40,DEFAULT,,0,0,0,,{\r}{\kf12}It's{\kf48} gon{\kf12}na{\kf18} make{\kf12} you{\kf30} smile{\kf13}~
+Dialogue: 0,0:01:56.55,0:01:58.15,DEFAULT,,0,0,0,,{\r}{\kf12}The{\kf31} kind{\kf18} of{\kf18} one{\kf12} that's{\kf31} beau{\kf25}ti{\kf13}ful
+Dialogue: 0,0:01:58.30,0:01:59.80,DEFAULT,,0,0,0,,{\r}{\kf11}And{\kf22} goes{\kf39} for{\kf50} miles{\kf28}~
+Dialogue: 0,0:01:59.95,0:02:02.00,DEFAULT,,0,0,0,,{\r}{\kf30}Think{\kf12} a{\kf24}bout{\kf12} it{\kf30} e{\kf18}ve{\kf18}ry{\kf61} day
+Dialogue: 0,0:02:02.45,0:02:04.85,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf12} you've{\kf29} got{\kf12}ta{\kf35} wait{\kf29} un{\kf12}til{\kf29} then{\kf12} my{\kf47} dear
+Dialogue: 0,0:02:05.00,0:02:06.20,DEFAULT,,0,0,0,,{\r}{\kf19}E{\kf13}ven{\kf19} if{\kf13} it{\kf25} takes{\kf13} a{\kf18} year
+Dialogue: 0,0:02:06.35,0:02:09.30,DEFAULT,,0,0,0,,{\r}{\kf34}I{\kf51} know{\kf23} where{\kf34} you're{\kf40} get{\kf17}ting{\kf34} at{\kf28} sis{\kf34}ter
+Dialogue: 0,0:02:09.45,0:02:12.45,DEFAULT,,0,0,0,,{\r}{\kf50}But{\kf38} the{\kf38} thought{\kf31} to{\kf25} me{\kf31} is{\kf50} tor{\kf37}ture
+Dialogue: 0,0:02:12.65,0:02:14.70,DEFAULT,,0,0,0,,{\r}{\kf44}Got{\kf11}ta{\kf17} find{\kf11} a{\kf28} bet{\kf17}~{\kf22}ter{\kf55} way
+Dialogue: 0,0:02:15.00,0:02:17.05,DEFAULT,,0,0,0,,{\r}{\kf12}To{\kf25} get{\kf37} my{\kf56} mark{\kf37} much{\kf25} fas{\kf13}ter
+Dialogue: 0,0:02:17.20,0:02:19.70,DEFAULT,,0,0,0,,{\r}{\kf23}So{\kf70} I{\kf17} can{\kf23} fi{\kf17}nal{\kf35}ly{\kf65} stay
+Dialogue: 0,0:02:32.00,0:02:34.50,DEFAULT,,0,0,0,,{\r}{\kf40}On{\kf34} this{\kf28} jour{\kf17}ney{\kf28} and{\kf51} quest{\kf17} of{\kf35} mine
+Dialogue: 0,0:02:34.65,0:02:38.05,DEFAULT,,0,0,0,,{\r}{\kf37}I'll{\kf43} find{\kf12} a{\kf25} way{\kf12} to{\kf25} get{\kf19} it{\kf31} with{\kf37} much{\kf43} less{\kf56} time
+Dialogue: 0,0:02:38.40,0:02:40.95,DEFAULT,,0,0,0,,{\r}{\kf24}What{\kf12} do{\kf24} I{\kf42} do{\kf49} and{\kf24} where{\kf12} do{\kf24} I{\kf44} start
+Dialogue: 0,0:02:41.05,0:02:44.40,DEFAULT,,0,0,0,,{\r}{\kf12}On{\kf17} my{\kf46} jour{\kf12}ney{\kf23} to{\kf17} dis{\kf29}co{\kf12}ver{\kf29} my{\kf58} Cu{\kf29}tie{\kf51} Mark?
+Dialogue: 0,0:02:44.60,0:02:47.35,DEFAULT,,0,0,0,,{\r}{\kf12}If{\kf35} time{\kf41} is{\kf29} mo{\kf18}ney{\kf29} and{\kf53} pain{\kf18} is{\kf40} gain
+Dialogue: 0,0:02:47.50,0:02:50.75,DEFAULT,,0,0,0,,{\r}{\kf33}Then{\kf33} I{\kf39} will{\kf17} en{\kf39}dure{\kf33} these{\kf33} sil{\kf39}ly{\kf59} games
+Dialogue: 0,0:02:51.15,0:02:53.70,DEFAULT,,0,0,0,,{\r}{\kf35}Ei{\kf29}ther{\kf52} way{\kf17} I'll{\kf23} dis{\kf23}co{\kf12}ver{\kf29} my{\kf35} mark
+Dialogue: 0,0:02:53.95,0:03:00.25,DEFAULT,,0,0,0,,{\r}{\kf25}To{\kf605}day
+Dialogue: 0,0:03:00.80,0:03:03.55,DEFAULT,,0,0,0,,{\r}{\kf37}Ha{\kf31} na{\kf24} na{\kf18} na{\kf37} na{\kf43} na{\kf37} na{\kf48} na
+Dialogue: 0,0:03:03.70,0:03:07.50,DEFAULT,,0,0,0,,{\r}{\kf25}Na{\kf38} na{\kf38} na{\kf25} na{\kf19} na{\kf32} na{\kf38} ah{\kf38} na{\kf25} na{\kf19} na{\kf19} na{\kf64} na
+Dialogue: 0,0:03:07.80,0:03:09.95,DEFAULT,,0,0,0,,{\r}{\kf19}Na{\kf19} na{\kf13} na{\kf38} na{\kf38} na{\kf44} na{\kf44} na
+Dialogue: 0,0:03:10.20,0:03:15.65,DEFAULT,,0,0,0,,{\r}{\kf11}Na{\kf39} na{\kf39} na{\kf22} na{\kf11} na{\kf33} na{\kf56} ooh{\kf56} ooh{\kf56} ooh{\kf117} ooh{\kf105} ooh

@@ -1,56 +1,63 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Peppermint Ponies
+Artist: Flittzy
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:18.32,0:00:20.37,DEFAULT,,0,0,0,,{\kf24}Take{\kf29} on{\kf24} the{\kf24} rain{\kf15}~{\kf34}boom
-Dialogue: 0,0:00:20.61,0:00:22.66,DEFAULT,,0,0,0,,{\kf34}Fol{\kf24}low{\kf24} the{\kf24} way{\kf20}~{\kf34} to
-Dialogue: 0,0:00:22.89,0:00:24.37,DEFAULT,,0,0,0,,{\kf29}O{\kf24}pen{\kf24} your{\kf34} eyes
-Dialogue: 0,0:00:24.66,0:00:27.18,DEFAULT,,0,0,0,,{\kf29}And{\kf34} see{\kf24} new{\kf20} ho{\kf24}ri{\kf24}~{\kf29}zons
-Dialogue: 0,0:00:27.51,0:00:29.51,DEFAULT,,0,0,0,,{\kf29}Fly{\kf20} up{\kf20} to{\kf20} Clouds{\kf24}~{\kf34}dale
-Dialogue: 0,0:00:29.80,0:00:31.75,DEFAULT,,0,0,0,,{\kf29}Pro{\kf20}mise{\kf20} the{\kf39} wind's{\kf34} sail
-Dialogue: 0,0:00:31.99,0:00:33.56,DEFAULT,,0,0,0,,{\kf34}Hop{\kf24}ing{\kf15} to{\kf24} feel{\kf15}~
-Dialogue: 0,0:00:33.75,0:00:35.99,DEFAULT,,0,0,0,,{\kf29}The{\kf29} soft{\kf29} co{\kf24}lors{\kf53} glow
-Dialogue: 0,0:00:36.94,0:00:40.99,DEFAULT,,0,0,0,,{\kf24}When{\kf20} I{\kf15}~{\kf24} feel{\kf15}~{\kf24} the{\kf15}~{\kf24} a{\kf29}rid{\kf43} sun{\kf24}~{\kf43} set
-Dialogue: 0,0:00:41.46,0:00:44.46,DEFAULT,,0,0,0,,{\kf20}And{\kf34} the{\kf39} world's{\kf15} but{\kf15} a{\kf20} sil{\kf29}hou{\kf43}ette
-Dialogue: 0,0:00:46.04,0:00:49.23,DEFAULT,,0,0,0,,{\kf29}I{\kf24} just{\kf29} can't{\kf29} help{\kf29} but{\kf34} feel
-Dialogue: 0,0:00:49.46,0:00:52.85,DEFAULT,,0,0,0,,{\kf39}I'd{\kf48} ra{\kf24}ther{\kf15}~{\kf20} be{\kf20} danc{\kf15}~{\kf24}ing{\kf24} with{\kf20}~
-Dialogue: 0,0:00:53.70,0:00:56.66,DEFAULT,,0,0,0,,{\kf29}Pep{\kf24}per{\kf10}~{\kf20}mint{\kf43} Po{\kf34}~{\kf91}nies
-Dialogue: 0,0:01:02.89,0:01:09.04,DEFAULT,,0,0,0,,{\kf34}Pep{\kf29}per{\kf24}mint{\kf81} Po{\kf267}nies{\kf53}~{\kf67}~
-Dialogue: 0,0:01:13.18,0:01:15.13,DEFAULT,,0,0,0,,{\kf29}Oat{\kf20}meal{\kf10}~{\kf24} and{\kf24} rai{\kf20}~{\kf24}sins
-Dialogue: 0,0:01:15.51,0:01:17.42,DEFAULT,,0,0,0,,{\kf24}Blue{\kf20} par{\kf15}~{\kf20}ty{\kf24} can{\kf24}~{\kf24}nons
-Dialogue: 0,0:01:17.80,0:01:19.23,DEFAULT,,0,0,0,,{\kf34}Feel{\kf20}ing{\kf10}~{\kf20} so{\kf34} grand
-Dialogue: 0,0:01:19.42,0:01:21.94,DEFAULT,,0,0,0,,{\kf34}With{\kf34} hooves{\kf24} in{\kf20} the{\kf24} sand{\kf39}~
-Dialogue: 0,0:01:22.32,0:01:24.32,DEFAULT,,0,0,0,,{\kf29}Rock{\kf20}ing{\kf10}~{\kf15} the{\kf24} sun{\kf15}~{\kf29}set
-Dialogue: 0,0:01:24.66,0:01:26.61,DEFAULT,,0,0,0,,{\kf24}Life{\kf34} does{\kf20}n't{\kf34} end,{\kf34} yet
-Dialogue: 0,0:01:26.89,0:01:28.27,DEFAULT,,0,0,0,,{\kf34}All{\kf20} of{\kf10}~{\kf20} the{\kf24} things
-Dialogue: 0,0:01:28.56,0:01:30.89,DEFAULT,,0,0,0,,{\kf29}That{\kf29} show{\kf20} the{\kf24} way{\kf58} home
-Dialogue: 0,0:01:31.75,0:01:35.80,DEFAULT,,0,0,0,,{\kf20}When{\kf24} I{\kf20}~{\kf24} feel{\kf15}~{\kf24} the{\kf20}~{\kf34} a{\kf24}rid{\kf39} sun{\kf24}~{\kf39} set
-Dialogue: 0,0:01:36.32,0:01:39.37,DEFAULT,,0,0,0,,{\kf15}And{\kf39} the{\kf43} world's{\kf20} but{\kf15} a{\kf24} sil{\kf20}hou{\kf53}ette
-Dialogue: 0,0:01:40.94,0:01:44.08,DEFAULT,,0,0,0,,{\kf24}I{\kf24} just{\kf24} can't{\kf29} help{\kf24} but{\kf34} feel
-Dialogue: 0,0:01:44.37,0:01:47.66,DEFAULT,,0,0,0,,{\kf39}I'd{\kf48} ra{\kf29}ther{\kf15}~{\kf20} be{\kf24} danc{\kf15}~{\kf24}ing{\kf24} with{\kf20}~
-Dialogue: 0,0:01:48.61,0:01:51.61,DEFAULT,,0,0,0,,{\kf24}Pep{\kf29}per{\kf10}~{\kf20}mint{\kf39} Po{\kf43}~{\kf96}nies
-Dialogue: 0,0:01:52.32,0:01:54.99,DEFAULT,,0,0,0,,{\kf20}Pep{\kf15}per{\kf24}mint{\kf24} Po{\kf24}nies{\kf58}~{\kf48}~
-Dialogue: 0,0:01:57.75,0:02:03.85,DEFAULT,,0,0,0,,{\kf29}Pep{\kf34}per{\kf24}mint{\kf77} Po{\kf267}nies{\kf53}~{\kf58}~
-Dialogue: 0,0:02:08.04,0:02:10.23,DEFAULT,,0,0,0,,{\kf10}All{\kf10} you{\kf10} have{\kf10} to{\kf10} do{\kf10} is{\kf10} take{\kf10} a{\kf15} cup{\kf15} of{\kf24} flour{\kf20}~
-Dialogue: 0,0:02:10.66,0:02:11.99,DEFAULT,,0,0,0,,{\kf20}Flour{\kf24}~,{\kf24} flour{\kf24}~
-Dialogue: 0,0:02:12.61,0:02:14.85,DEFAULT,,0,0,0,,{\kf10}Then{\kf10} you{\kf10} take{\kf10} a{\kf10} lit{\kf10}tle{\kf10} some{\kf10}thing{\kf15} sweet{\kf15} not{\kf24} sour{\kf20}~
-Dialogue: 0,0:02:15.18,0:02:16.61,DEFAULT,,0,0,0,,{\kf24}Sour{\kf20}~,{\kf24} sour{\kf29}~
-Dialogue: 0,0:02:17.18,0:02:19.32,DEFAULT,,0,0,0,,{\kf10}All{\kf10} you{\kf10} have{\kf10} to{\kf10} do{\kf10} is{\kf10} take{\kf10} a{\kf15} cup{\kf15} of{\kf20} flour{\kf15}~
-Dialogue: 0,0:02:19.75,0:02:21.23,DEFAULT,,0,0,0,,{\kf34}Flour{\kf29}~{\kf29}~{\kf43}~
-Dialogue: 0,0:02:21.75,0:02:23.94,DEFAULT,,0,0,0,,{\kf10}Then{\kf10} you{\kf10} take{\kf10} a{\kf10} lit{\kf10}tle{\kf10} some{\kf10}thing{\kf15} sweet{\kf15} not{\kf24} sour{\kf20}~
-Dialogue: 0,0:02:24.89,0:02:31.99,DEFAULT,,0,0,0,,{\kf20}With{\kf29} Pep{\kf20}per{\kf15}~{\kf20}mint{\kf381} Po{\kf29}~{\kf134}nies
-Dialogue: 0,0:02:32.32,0:02:33.04,DEFAULT,,0,0,0,,{\kf15}Pep{\kf20}per{\kf20}mint
-Dialogue: 0,0:02:33.46,0:02:35.23,DEFAULT,,0,0,0,,{\kf20}Pep{\kf24}per{\kf20}mint{\kf15} Po{\kf15}~{\kf20}nies{\kf24}~
-Dialogue: 0,0:02:35.56,0:02:41.23,DEFAULT,,0,0,0,,{\kf372}Po{\kf34}~{\kf134}nies
-Dialogue: 0,0:02:43.13,0:02:50.27,DEFAULT,,0,0,0,,{\kf24}With{\kf29} Pep{\kf24}per{\kf10}~{\kf24}mint{\kf396} Po{\kf34}~{\kf124}nies
-Dialogue: 0,0:02:50.56,0:02:52.37,DEFAULT,,0,0,0,,{\kf20}Pep{\kf20}per{\kf15}mint{\kf24} Po{\kf29}nies{\kf39}~
-Dialogue: 0,0:02:52.56,0:02:55.51,DEFAULT,,0,0,0,,{\kf29}Pep{\kf20}per{\kf10}~{\kf24}mint{\kf43} Po{\kf24}~{\kf91}nies
-Dialogue: 0,0:02:56.08,0:03:01.04,DEFAULT,,0,0,0,,{\kf67}Po{\kf272}nies{\kf43}~{\kf67}~
-Dialogue: 0,0:03:01.75,0:03:04.61,DEFAULT,,0,0,0,,{\kf24}Pep{\kf24}per{\kf15}~{\kf20}mint{\kf39} Po{\kf34}~{\kf86}nies
+Dialogue: 0,0:00:18.33,0:00:20.37,DEFAULT,,0,0,0,,{\r}{\kf33}Take{\kf40} on{\kf33} the{\kf33} rain{\kf20}~{\kf46}boom
+Dialogue: 0,0:00:20.61,0:00:22.66,DEFAULT,,0,0,0,,{\r}{\kf43}Fol{\kf31}low{\kf31} the{\kf31} way{\kf25}~{\kf44} to
+Dialogue: 0,0:00:22.90,0:00:24.37,DEFAULT,,0,0,0,,{\r}{\kf39}O{\kf32}pen{\kf32} your{\kf45} eyes
+Dialogue: 0,0:00:24.66,0:00:27.18,DEFAULT,,0,0,0,,{\r}{\kf40}And{\kf46} see{\kf33} new{\kf27} ho{\kf33}ri{\kf33}~{\kf40}zons
+Dialogue: 0,0:00:27.52,0:00:29.52,DEFAULT,,0,0,0,,{\r}{\kf40}Fly{\kf27} up{\kf27} to{\kf27} Clouds{\kf33}~{\kf46}dale
+Dialogue: 0,0:00:29.80,0:00:31.76,DEFAULT,,0,0,0,,{\r}{\kf40}Pro{\kf27}mise{\kf27} the{\kf54} wind's{\kf47} sail
+Dialogue: 0,0:00:31.99,0:00:33.57,DEFAULT,,0,0,0,,{\r}{\kf48}Hop{\kf34}ing{\kf20} to{\kf34} feel{\kf21}~
+Dialogue: 0,0:00:33.76,0:00:35.99,DEFAULT,,0,0,0,,{\r}{\kf40}The{\kf40} soft{\kf40} co{\kf33}lors{\kf71} glow
+Dialogue: 0,0:00:36.95,0:00:40.99,DEFAULT,,0,0,0,,{\r}{\kf33}When{\kf26} I{\kf20}~{\kf33} feel{\kf20}~{\kf33} the{\kf20}~{\kf33} a{\kf39}rid{\kf59} sun{\kf33}~{\kf56} set
+Dialogue: 0,0:00:41.47,0:00:44.47,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf48} the{\kf55} world's{\kf20} but{\kf20} a{\kf27} sil{\kf41}hou{\kf62}ette
+Dialogue: 0,0:00:46.04,0:00:49.23,DEFAULT,,0,0,0,,{\r}{\kf53}I{\kf44} just{\kf53} can't{\kf53} help{\kf53} but{\kf63} feel
+Dialogue: 0,0:00:49.47,0:00:52.85,DEFAULT,,0,0,0,,{\r}{\kf53}I'd{\kf66} ra{\kf33}ther{\kf20}~{\kf27} be{\kf27} danc{\kf20}~{\kf33}ing{\kf33} with{\kf26}~
+Dialogue: 0,0:00:53.71,0:00:56.66,DEFAULT,,0,0,0,,{\r}{\kf34}Pep{\kf28}per{\kf11}~{\kf23}mint{\kf51} Po{\kf40}~{\kf108}nies
+Dialogue: 0,0:01:02.90,0:01:09.04,DEFAULT,,0,0,0,,{\r}{\kf37}Pep{\kf32}per{\kf26}mint{\kf90} Po{\kf296}nies{\kf58}~{\kf75}~
+Dialogue: 0,0:01:13.18,0:01:15.14,DEFAULT,,0,0,0,,{\r}{\kf38}Oat{\kf25}meal{\kf13}~{\kf31} and{\kf31} rai{\kf25}~{\kf32}sins
+Dialogue: 0,0:01:15.52,0:01:17.42,DEFAULT,,0,0,0,,{\r}{\kf31}Blue{\kf25} par{\kf18}~{\kf25}ty{\kf31} can{\kf31}~{\kf29}nons
+Dialogue: 0,0:01:17.80,0:01:19.23,DEFAULT,,0,0,0,,{\r}{\kf42}Feel{\kf24}ing{\kf12}~{\kf24} so{\kf41} grand
+Dialogue: 0,0:01:19.42,0:01:21.95,DEFAULT,,0,0,0,,{\r}{\kf49}With{\kf49} hooves{\kf35} in{\kf28} the{\kf35} sand{\kf56}~
+Dialogue: 0,0:01:22.33,0:01:24.33,DEFAULT,,0,0,0,,{\r}{\kf41}Rock{\kf28}ing{\kf14}~{\kf21} the{\kf34} sun{\kf21}~{\kf41}set
+Dialogue: 0,0:01:24.66,0:01:26.61,DEFAULT,,0,0,0,,{\r}{\kf33}Life{\kf46} does{\kf26}n't{\kf46} end,{\kf44} yet
+Dialogue: 0,0:01:26.90,0:01:28.28,DEFAULT,,0,0,0,,{\r}{\kf44}All{\kf25} of{\kf13}~{\kf25} the{\kf31} things
+Dialogue: 0,0:01:28.57,0:01:30.90,DEFAULT,,0,0,0,,{\r}{\kf42}That{\kf42} show{\kf28} the{\kf35} way{\kf86} home
+Dialogue: 0,0:01:31.76,0:01:35.80,DEFAULT,,0,0,0,,{\r}{\kf26}When{\kf32} I{\kf26}~{\kf32} feel{\kf19}~{\kf32} the{\kf26}~{\kf45} a{\kf32}rid{\kf51} sun{\kf32}~{\kf52} set
+Dialogue: 0,0:01:36.33,0:01:39.37,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf52} the{\kf58} world's{\kf26} but{\kf19} a{\kf32} sil{\kf26}hou{\kf73}ette
+Dialogue: 0,0:01:40.95,0:01:44.09,DEFAULT,,0,0,0,,{\r}{\kf48}I{\kf48} just{\kf48} can't{\kf57} help{\kf48} but{\kf65} feel
+Dialogue: 0,0:01:44.37,0:01:47.66,DEFAULT,,0,0,0,,{\r}{\kf50}I'd{\kf62} ra{\kf37}ther{\kf19}~{\kf25} be{\kf31} danc{\kf19}~{\kf31}ing{\kf31} with{\kf24}~
+Dialogue: 0,0:01:48.61,0:01:51.61,DEFAULT,,0,0,0,,{\r}{\kf28}Pep{\kf33}per{\kf11}~{\kf22}mint{\kf44} Po{\kf50}~{\kf112}nies
+Dialogue: 0,0:01:52.33,0:01:54.99,DEFAULT,,0,0,0,,{\r}{\kf24}Pep{\kf18}per{\kf30}mint{\kf30} Po{\kf30}nies{\kf73}~{\kf62}~
+Dialogue: 0,0:01:57.76,0:02:03.85,DEFAULT,,0,0,0,,{\r}{\kf32}Pep{\kf38}per{\kf27}mint{\kf86} Po{\kf302}nies{\kf59}~{\kf66}~
+Dialogue: 0,0:02:08.04,0:02:10.23,DEFAULT,,0,0,0,,{\r}{\kf14}All{\kf14} you{\kf14} have{\kf14} to{\kf14} do{\kf14} is{\kf14} take{\kf14} a{\kf21} cup{\kf21} of{\kf35} flour{\kf30}~
+Dialogue: 0,0:02:10.66,0:02:11.99,DEFAULT,,0,0,0,,{\r}{\kf28}Flour{\kf35}~,{\kf35} flour{\kf35}~
+Dialogue: 0,0:02:12.61,0:02:14.85,DEFAULT,,0,0,0,,{\r}{\kf14}Then{\kf14} you{\kf14} take{\kf14} a{\kf14} lit{\kf14}tle{\kf14} some{\kf14}thing{\kf22} sweet{\kf22} not{\kf36} sour{\kf32}~
+Dialogue: 0,0:02:15.18,0:02:16.61,DEFAULT,,0,0,0,,{\r}{\kf36}Sour{\kf29}~,{\kf36} sour{\kf42}~
+Dialogue: 0,0:02:17.18,0:02:19.33,DEFAULT,,0,0,0,,{\r}{\kf15}All{\kf15} you{\kf15} have{\kf15} to{\kf15} do{\kf15} is{\kf15} take{\kf15} a{\kf22} cup{\kf22} of{\kf30} flour{\kf20}~
+Dialogue: 0,0:02:19.76,0:02:21.23,DEFAULT,,0,0,0,,{\r}{\kf37}Flour{\kf32}~{\kf32}~{\kf47}~
+Dialogue: 0,0:02:21.76,0:02:23.95,DEFAULT,,0,0,0,,{\r}{\kf14}Then{\kf14} you{\kf14} take{\kf14} a{\kf14} lit{\kf14}tle{\kf14} some{\kf14}thing{\kf21} sweet{\kf21} not{\kf35} sour{\kf30}~
+Dialogue: 0,0:02:24.90,0:02:31.99,DEFAULT,,0,0,0,,{\r}{\kf21}With{\kf32} Pep{\kf21}per{\kf16}~{\kf21}mint{\kf421} Po{\kf32}~{\kf146}nies
+Dialogue: 0,0:02:32.33,0:02:33.04,DEFAULT,,0,0,0,,{\r}{\kf19}Pep{\kf26}per{\kf26}mint
+Dialogue: 0,0:02:33.47,0:02:35.23,DEFAULT,,0,0,0,,{\r}{\kf25}Pep{\kf31}per{\kf25}mint{\kf19} Po{\kf19}~{\kf25}nies{\kf32}~
+Dialogue: 0,0:02:35.57,0:02:41.23,DEFAULT,,0,0,0,,{\r}{\kf391}Po{\kf35}~{\kf141}nies
+Dialogue: 0,0:02:43.14,0:02:50.28,DEFAULT,,0,0,0,,{\r}{\kf26}With{\kf31} Pep{\kf26}per{\kf10}~{\kf26}mint{\kf426} Po{\kf36}~{\kf133}nies
+Dialogue: 0,0:02:50.57,0:02:52.37,DEFAULT,,0,0,0,,{\r}{\kf24}Pep{\kf24}per{\kf18}mint{\kf30} Po{\kf36}nies{\kf49}~
+Dialogue: 0,0:02:52.57,0:02:55.52,DEFAULT,,0,0,0,,{\r}{\kf35}Pep{\kf24}per{\kf12}~{\kf29}mint{\kf53} Po{\kf29}~{\kf113}nies
+Dialogue: 0,0:02:56.09,0:03:01.04,DEFAULT,,0,0,0,,{\r}{\kf74}Po{\kf300}nies{\kf47}~{\kf74}~
+Dialogue: 0,0:03:01.76,0:03:04.61,DEFAULT,,0,0,0,,{\r}{\kf29}Pep{\kf29}per{\kf17}~{\kf23}mint{\kf46} Po{\kf40}~{\kf102}nies

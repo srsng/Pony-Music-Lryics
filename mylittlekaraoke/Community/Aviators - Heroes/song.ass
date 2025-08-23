@@ -1,61 +1,68 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Heroes (feat. Bronyfied)
+Artist: Aviators
+Original Timing: mylittlekaraoke.com by ShTHfan1
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:55.12,0:00:56.62,DEFAULT,,0,0,0,,{\kf17}The{\kf22} batt{\kf17}le{\kf17} ends{\kf22} to{\kf43}night
-Dialogue: 0,0:00:56.84,0:00:58.34,DEFAULT,,0,0,0,,{\kf17}It's{\kf17} time{\kf17} to{\kf17} fight{\kf17} our{\kf43} fight
-Dialogue: 0,0:00:58.56,0:01:01.68,DEFAULT,,0,0,0,,{\kf22}Ho{\kf17}ping{\kf22} some{\kf17}how{\kf17} we'll{\kf17} have{\kf17} the{\kf17} cour{\kf17}age{\kf38} to{\kf33} be{\kf33} the
-Dialogue: 0,0:01:02.00,0:01:03.50,DEFAULT,,0,0,0,,{\kf17}Light{\kf17} in{\kf17} the{\kf22} dark{\kf17}est{\kf43} hour
-Dialogue: 0,0:01:03.72,0:01:05.22,DEFAULT,,0,0,0,,{\kf17}When{\kf17} things{\kf17} are{\kf22} tur{\kf17}ning{\kf43} sour
-Dialogue: 0,0:01:05.44,0:01:08.45,DEFAULT,,0,0,0,,{\kf17}Blind{\kf17} hope{\kf17} is{\kf17} worth{\kf22}less{\kf22} if{\kf33} all{\kf38} we{\kf38} do{\kf27} is
-Dialogue: 0,0:01:08.66,0:01:11.46,DEFAULT,,0,0,0,,{\kf38}Wage{\kf17} our{\kf22} wa{\kf27}-ars{\kf22} and{\kf22} fight{\kf33} in{\kf43} vain
-Dialogue: 0,0:01:12.10,0:01:14.90,DEFAULT,,0,0,0,,{\kf22}Suf{\kf27}fer{\kf38} all{\kf43} this{\kf27} worth{\kf27}less{\kf49} pain
-Dialogue: 0,0:01:15.70,0:01:18.50,DEFAULT,,0,0,0,,{\kf17}We've{\kf17} got{\kf17} to{\kf22} an{\kf38}swer{\kf17} a{\kf38} cry{\kf17} for{\kf22} he{\kf43}-lp
-Dialogue: 0,0:01:19.57,0:01:21.72,DEFAULT,,0,0,0,,{\kf17}The{\kf33} world{\kf33} won't{\kf17} save{\kf27} it{\kf49}self
-Dialogue: 0,0:01:22.37,0:01:24.52,DEFAULT,,0,0,0,,{\kf17}We{\kf38} can{\kf38} be{\kf43} the{\kf22} her{\kf22}oes
-Dialogue: 0,0:01:24.73,0:01:27.96,DEFAULT,,0,0,0,,{\kf49}We{\kf38} can{\kf38} dare{\kf17} to{\kf22} sa{\kf38}-ve{\kf17} the{\kf22} da{\kf43}-y
-Dialogue: 0,0:01:28.39,0:01:33.76,DEFAULT,,0,0,0,,{\kf43}Stan{\kf17}ding{\kf65} up{\kf17} to{\kf38} those{\kf38} still{\kf17} in{\kf38} our{\kf129} way
-Dialogue: 0,0:01:35.91,0:01:39.03,DEFAULT,,0,0,0,,{\kf17}With{\kf22} cour{\kf33}age{\kf49} we'll{\kf33} keep{\kf22} figh{\kf38}ting{\kf65} for
-Dialogue: 0,0:01:39.30,0:01:42.04,DEFAULT,,0,0,0,,{\kf17}The{\kf38} search{\kf33} we're{\kf33} on{\kf33} for{\kf22} some{\kf27}thing{\kf22} more
-Dialogue: 0,0:01:42.31,0:01:46.55,DEFAULT,,0,0,0,,{\kf22}Push{\kf17}ing{\kf38} through{\kf22} un{\kf38}til{\kf17} the{\kf22} wa{\kf17}-ar{\kf22} i{\kf17}-is{\kf38} won
-Dialogue: 0,0:01:46.82,0:01:49.83,DEFAULT,,0,0,0,,{\kf17}We{\kf17} can{\kf22} be{\kf17} the{\kf17} he{\kf33}roes{\kf22} we{\kf17}-'ve{\kf22} be{\kf33}come
-Dialogue: 0,0:02:03.64,0:02:05.15,DEFAULT,,0,0,0,,{\kf17}Too{\kf17} late{\kf17} to{\kf17} be{\kf22} a{\kf43}fraid
-Dialogue: 0,0:02:05.36,0:02:06.87,DEFAULT,,0,0,0,,{\kf17}Now{\kf17} we{\kf17} can't{\kf17} run{\kf22} a{\kf43}way
-Dialogue: 0,0:02:07.08,0:02:10.31,DEFAULT,,0,0,0,,{\kf17}We've{\kf17} got{\kf17} to{\kf17} hold{\kf17} fast{\kf17} and{\kf22} em{\kf38}brace{\kf38} the{\kf38} strength{\kf43} we've
-Dialogue: 0,0:02:10.52,0:02:12.03,DEFAULT,,0,0,0,,{\kf17}Found{\kf17} in{\kf17} our{\kf17} time{\kf17} of{\kf43} doubt
-Dialogue: 0,0:02:12.24,0:02:13.75,DEFAULT,,0,0,0,,{\kf22}Some{\kf17}how{\kf17} we'll{\kf17} make{\kf17} it{\kf43} out
-Dialogue: 0,0:02:14.18,0:02:16.54,DEFAULT,,0,0,0,,{\kf17}We'll{\kf60} find{\kf17} who{\kf17} we{\kf43} real{\kf38}ly{\kf22} are
-Dialogue: 0,0:02:16.76,0:02:20.20,DEFAULT,,0,0,0,,{\kf22}To{\kf54}night{\kf38} we're{\kf22} ne{\kf43}ver{\kf22} back{\kf38}ing{\kf33} do{\kf33}-wn
-Dialogue: 0,0:02:20.84,0:02:23.80,DEFAULT,,0,0,0,,{\kf17}It's{\kf17} far{\kf17} too{\kf33} late{\kf33} to{\kf22} turn{\kf33} back{\kf81} now
-Dialogue: 0,0:02:24.50,0:02:26.86,DEFAULT,,0,0,0,,{\kf17}Not{\kf22} a{\kf38}fraid{\kf17} of{\kf17} the{\kf22} per{\kf43}il{\kf43}ous
-Dialogue: 0,0:02:27.94,0:02:30.30,DEFAULT,,0,0,0,,{\kf17}Oh{\kf33} no,{\kf22} we{\kf17} were{\kf38} born{\kf17} for{\kf43} this
-Dialogue: 0,0:02:30.94,0:02:33.09,DEFAULT,,0,0,0,,{\kf17}We{\kf33} can{\kf38} be{\kf27} the{\kf22} her{\kf22}oes
-Dialogue: 0,0:02:33.31,0:02:36.48,DEFAULT,,0,0,0,,{\kf49}We{\kf33} can{\kf38} dare{\kf17} to{\kf22} sa{\kf33}-ve{\kf17} the{\kf22} da{\kf43}-y
-Dialogue: 0,0:02:36.96,0:02:42.28,DEFAULT,,0,0,0,,{\kf43}Stan{\kf17}ding{\kf43} up{\kf17} to{\kf38} those{\kf38} still{\kf17} in{\kf38} our{\kf129} way
-Dialogue: 0,0:02:44.43,0:02:47.66,DEFAULT,,0,0,0,,{\kf17}With{\kf22} cour{\kf33}age{\kf43} we'll{\kf49} keep{\kf22} figh{\kf38}ting{\kf65} for
-Dialogue: 0,0:02:47.87,0:02:50.67,DEFAULT,,0,0,0,,{\kf17}The{\kf33} search{\kf33} we're{\kf33} on{\kf27} for{\kf27} some{\kf27}thing{\kf22} more
-Dialogue: 0,0:02:50.88,0:02:55.08,DEFAULT,,0,0,0,,{\kf22}Push{\kf17}ing{\kf38} through{\kf22} un{\kf33}til{\kf17} the{\kf22} wa{\kf17}-ar{\kf22} i{\kf17}-is{\kf33} won
-Dialogue: 0,0:02:55.40,0:02:58.35,DEFAULT,,0,0,0,,{\kf17}We{\kf17} can{\kf33} be{\kf17} the{\kf22} her{\kf33}oes{\kf22} we{\kf22}-'ve{\kf22} be{\kf22}come
-Dialogue: 0,0:03:12.65,0:03:13.94,DEFAULT,,0,0,0,,{\kf17}Now{\kf17} we'll{\kf17} make{\kf17} it{\kf43} out
-Dialogue: 0,0:03:14.59,0:03:16.95,DEFAULT,,0,0,0,,{\kf17}We'll{\kf17} stick{\kf22} to{\kf43}ge{\kf33}ther{\kf33} and{\kf43} get
-Dialogue: 0,0:03:17.16,0:03:19.10,DEFAULT,,0,0,0,,{\kf17}Through{\kf38} this{\kf38} storm{\kf43} some{\kf43}how
-Dialogue: 0,0:03:19.53,0:03:24.26,DEFAULT,,0,0,0,,{\kf17}It's{\kf17} too{\kf17} late{\kf27} to{\kf38} back{\kf17} down{\kf17} and{\kf22} r{\kf54}-u{\kf22}-u{\kf54}-u{\kf22}-u{\kf38}-un
-Dialogue: 0,0:03:26.62,0:03:29.36,DEFAULT,,0,0,0,,{\kf17}Hope{\kf27} is{\kf27} go{\kf33}-one,{\kf17} but{\kf22} har{\kf17}mo{\kf17}ny's{\kf38} strong
-Dialogue: 0,0:03:30.01,0:03:33.50,DEFAULT,,0,0,0,,{\kf17}We've{\kf17} had{\kf17} the{\kf38} po{\kf17}wer{\kf17} in{\kf17} us{\kf17} all{\kf43} a{\kf43}lo{\kf22}-o{\kf43}-ong
-Dialogue: 0,0:03:34.52,0:03:39.31,DEFAULT,,0,0,0,,{\kf11}To{\kf11} em{\kf11}brace{\kf17} the{\kf22} her{\kf17}oes{\kf22} that{\kf60} we've{\kf33} be{\kf54}co{\kf11}-o{\kf17}-o{\kf11}-o{\kf17}-o{\kf11}-o{\kf54}-ome
-Dialogue: 0,0:04:06.88,0:04:09.03,DEFAULT,,0,0,0,,{\kf17}We{\kf33} can{\kf33} be{\kf27} the{\kf22} he{\kf22}roes
-Dialogue: 0,0:04:09.24,0:04:12.36,DEFAULT,,0,0,0,,{\kf54}We{\kf33} can{\kf38} dare{\kf17} to{\kf22} sa{\kf38}-ve{\kf17} the{\kf22} da{\kf33}-y
-Dialogue: 0,0:04:12.84,0:04:18.27,DEFAULT,,0,0,0,,{\kf38}Stan{\kf22}ding{\kf43} up{\kf17} to{\kf38} those{\kf38} still{\kf17} in{\kf38} our{\kf129} way
-Dialogue: 0,0:04:20.42,0:04:23.49,DEFAULT,,0,0,0,,{\kf17}With{\kf22} cour{\kf33}age{\kf49} we'll{\kf33} keep{\kf22} figh{\kf27}ting{\kf54} for
-Dialogue: 0,0:04:23.81,0:04:26.60,DEFAULT,,0,0,0,,{\kf17}The{\kf38} search{\kf38} we're{\kf38} on{\kf38} for{\kf22} some{\kf38}thing{\kf22} more
-Dialogue: 0,0:04:26.82,0:04:31.01,DEFAULT,,0,0,0,,{\kf22}Push{\kf17}ing{\kf43} through{\kf22} un{\kf33}til{\kf17} the{\kf22} wa{\kf17}-ar{\kf22} i{\kf17}-is{\kf27} won
-Dialogue: 0,0:04:31.28,0:04:34.34,DEFAULT,,0,0,0,,{\kf22}We{\kf17} can{\kf22} be{\kf17} the{\kf22} her{\kf43}oes{\kf22} we{\kf27}-'ve{\kf22} be{\kf22}come
-Dialogue: 0,0:04:38.21,0:04:41.27,DEFAULT,,0,0,0,,{\kf17}We{\kf17} can{\kf22} be{\kf17} the{\kf22} her{\kf43}oes{\kf33} we've{\kf22} be{\kf27}come
-Dialogue: 0,0:04:45.09,0:04:48.10,DEFAULT,,0,0,0,,{\kf17}We{\kf17} can{\kf22} be{\kf17} the{\kf22} her{\kf43}oes{\kf38} we've{\kf22} be{\kf22}come
+Dialogue: 0,0:00:55.12,0:00:56.63,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf24} batt{\kf18}le{\kf18} ends{\kf24} to{\kf48}night
+Dialogue: 0,0:00:56.84,0:00:58.35,DEFAULT,,0,0,0,,{\r}{\kf20}It's{\kf20} time{\kf20} to{\kf20} fight{\kf20} our{\kf50} fight
+Dialogue: 0,0:00:58.56,0:01:01.68,DEFAULT,,0,0,0,,{\r}{\kf26}Ho{\kf20}ping{\kf26} some{\kf20}how{\kf20} we'll{\kf20} have{\kf20} the{\kf20} cour{\kf20}age{\kf46} to{\kf39} be{\kf35} the
+Dialogue: 0,0:01:02.00,0:01:03.51,DEFAULT,,0,0,0,,{\r}{\kf19}Light{\kf19} in{\kf19} the{\kf25} dark{\kf19}est{\kf49} hour
+Dialogue: 0,0:01:03.72,0:01:05.23,DEFAULT,,0,0,0,,{\r}{\kf19}When{\kf19} things{\kf19} are{\kf25} tur{\kf19}ning{\kf49} sour
+Dialogue: 0,0:01:05.44,0:01:08.45,DEFAULT,,0,0,0,,{\r}{\kf20}Blind{\kf20} hope{\kf20} is{\kf20} worth{\kf27}less{\kf27} if{\kf40} all{\kf47} we{\kf47} do{\kf33} is
+Dialogue: 0,0:01:08.67,0:01:11.46,DEFAULT,,0,0,0,,{\r}{\kf48}Wage{\kf20} our{\kf27} wa{\kf34}-ars{\kf27} and{\kf27} fight{\kf41} in{\kf55} vain
+Dialogue: 0,0:01:12.11,0:01:14.90,DEFAULT,,0,0,0,,{\r}{\kf26}Suf{\kf32}fer{\kf45} all{\kf52} this{\kf32} worth{\kf32}less{\kf60} pain
+Dialogue: 0,0:01:15.71,0:01:18.50,DEFAULT,,0,0,0,,{\r}{\kf19}We've{\kf19} got{\kf19} to{\kf25} an{\kf43}swer{\kf19} a{\kf43} cry{\kf19} for{\kf25} he{\kf48}-lp
+Dialogue: 0,0:01:19.58,0:01:21.73,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf40} world{\kf40} won't{\kf20} save{\kf34} it{\kf61}self
+Dialogue: 0,0:01:22.37,0:01:24.52,DEFAULT,,0,0,0,,{\r}{\kf20}We{\kf46} can{\kf46} be{\kf52} the{\kf26} her{\kf25}oes
+Dialogue: 0,0:01:24.74,0:01:27.96,DEFAULT,,0,0,0,,{\r}{\kf56}We{\kf43} can{\kf43} dare{\kf19} to{\kf25} sa{\kf43}-ve{\kf19} the{\kf25} da{\kf49}-y
+Dialogue: 0,0:01:28.39,0:01:33.77,DEFAULT,,0,0,0,,{\r}{\kf58}Stan{\kf22}ding{\kf87} up{\kf22} to{\kf51} those{\kf51} still{\kf22} in{\kf51} our{\kf173} way
+Dialogue: 0,0:01:35.92,0:01:39.03,DEFAULT,,0,0,0,,{\r}{\kf18}With{\kf24} cour{\kf37}age{\kf55} we'll{\kf37} keep{\kf24} figh{\kf43}ting{\kf74} for
+Dialogue: 0,0:01:39.30,0:01:42.04,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf47} search{\kf40} we're{\kf40} on{\kf40} for{\kf27} some{\kf33}thing{\kf27} more
+Dialogue: 0,0:01:42.31,0:01:46.56,DEFAULT,,0,0,0,,{\r}{\kf35}Push{\kf26}ing{\kf61} through{\kf35} un{\kf61}til{\kf26} the{\kf35} wa{\kf26}-ar{\kf35} i{\kf26}-is{\kf59} won
+Dialogue: 0,0:01:46.83,0:01:49.84,DEFAULT,,0,0,0,,{\r}{\kf23}We{\kf23} can{\kf31} be{\kf23} the{\kf23} he{\kf46}roes{\kf31} we{\kf23}-'ve{\kf31} be{\kf47}come
+Dialogue: 0,0:02:03.65,0:02:05.15,DEFAULT,,0,0,0,,{\r}{\kf19}Too{\kf19} late{\kf19} to{\kf19} be{\kf25} a{\kf49}fraid
+Dialogue: 0,0:02:05.37,0:02:06.87,DEFAULT,,0,0,0,,{\r}{\kf19}Now{\kf19} we{\kf19} can't{\kf19} run{\kf25} a{\kf49}way
+Dialogue: 0,0:02:07.09,0:02:10.31,DEFAULT,,0,0,0,,{\r}{\kf19}We've{\kf19} got{\kf19} to{\kf19} hold{\kf19} fast{\kf19} and{\kf25} em{\kf44}brace{\kf44} the{\kf44} strength{\kf51} we've
+Dialogue: 0,0:02:10.53,0:02:12.03,DEFAULT,,0,0,0,,{\r}{\kf20}Found{\kf20} in{\kf20} our{\kf20} time{\kf20} of{\kf50} doubt
+Dialogue: 0,0:02:12.25,0:02:13.75,DEFAULT,,0,0,0,,{\r}{\kf25}Some{\kf19}how{\kf19} we'll{\kf19} make{\kf19} it{\kf49} out
+Dialogue: 0,0:02:14.18,0:02:16.55,DEFAULT,,0,0,0,,{\r}{\kf18}We'll{\kf67} find{\kf18} who{\kf18} we{\kf48} real{\kf42}ly{\kf25} are
+Dialogue: 0,0:02:16.76,0:02:20.20,DEFAULT,,0,0,0,,{\r}{\kf25}To{\kf61}night{\kf43} we're{\kf25} ne{\kf49}ver{\kf25} back{\kf43}ing{\kf37} do{\kf36}-wn
+Dialogue: 0,0:02:20.85,0:02:23.80,DEFAULT,,0,0,0,,{\r}{\kf19}It's{\kf19} far{\kf19} too{\kf39} late{\kf39} to{\kf26} turn{\kf39} back{\kf96} now
+Dialogue: 0,0:02:24.50,0:02:26.87,DEFAULT,,0,0,0,,{\r}{\kf18}Not{\kf24} a{\kf41}fraid{\kf18} of{\kf18} the{\kf24} per{\kf47}il{\kf46}ous
+Dialogue: 0,0:02:27.94,0:02:30.30,DEFAULT,,0,0,0,,{\r}{\kf21}Oh{\kf42} no,{\kf28} we{\kf21} were{\kf49} born{\kf21} for{\kf54} this
+Dialogue: 0,0:02:30.95,0:02:33.10,DEFAULT,,0,0,0,,{\r}{\kf22}We{\kf44} can{\kf52} be{\kf37} the{\kf30} her{\kf30}oes
+Dialogue: 0,0:02:33.31,0:02:36.49,DEFAULT,,0,0,0,,{\r}{\kf57}We{\kf38} can{\kf44} dare{\kf19} to{\kf25} sa{\kf38}-ve{\kf19} the{\kf25} da{\kf52}-y
+Dialogue: 0,0:02:36.97,0:02:42.29,DEFAULT,,0,0,0,,{\r}{\kf61}Stan{\kf23}ding{\kf61} up{\kf23} to{\kf53} those{\kf53} still{\kf23} in{\kf53} our{\kf182} way
+Dialogue: 0,0:02:44.44,0:02:47.66,DEFAULT,,0,0,0,,{\r}{\kf18}With{\kf24} cour{\kf36}age{\kf49} we'll{\kf55} keep{\kf24} figh{\kf43}ting{\kf73} for
+Dialogue: 0,0:02:47.88,0:02:50.67,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf42} search{\kf42} we're{\kf42} on{\kf35} for{\kf35} some{\kf35}thing{\kf27} more
+Dialogue: 0,0:02:50.89,0:02:55.08,DEFAULT,,0,0,0,,{\r}{\kf36}Push{\kf27}ing{\kf62} through{\kf36} un{\kf53}til{\kf27} the{\kf36} wa{\kf27}-ar{\kf36} i{\kf27}-is{\kf52} won
+Dialogue: 0,0:02:55.40,0:02:58.36,DEFAULT,,0,0,0,,{\r}{\kf22}We{\kf22} can{\kf43} be{\kf22} the{\kf29} her{\kf43}oes{\kf29} we{\kf29}-'ve{\kf29} be{\kf28}come
+Dialogue: 0,0:03:12.66,0:03:13.95,DEFAULT,,0,0,0,,{\r}{\kf19}Now{\kf19} we'll{\kf19} make{\kf19} it{\kf53} out
+Dialogue: 0,0:03:14.59,0:03:16.95,DEFAULT,,0,0,0,,{\r}{\kf19}We'll{\kf19} stick{\kf25} to{\kf50}ge{\kf37}ther{\kf37} and{\kf49} get
+Dialogue: 0,0:03:17.17,0:03:19.10,DEFAULT,,0,0,0,,{\r}{\kf18}Through{\kf41} this{\kf41} storm{\kf47} some{\kf46}how
+Dialogue: 0,0:03:19.53,0:03:24.26,DEFAULT,,0,0,0,,{\r}{\kf22}It's{\kf22} too{\kf22} late{\kf36} to{\kf50} back{\kf22} down{\kf22} and{\kf29} r{\kf72}-u{\kf29}-u{\kf72}-u{\kf29}-u{\kf46}-un
+Dialogue: 0,0:03:26.63,0:03:29.37,DEFAULT,,0,0,0,,{\r}{\kf21}Hope{\kf35} is{\kf35} go{\kf42}-one,{\kf21} but{\kf28} har{\kf21}mo{\kf21}ny's{\kf50} strong
+Dialogue: 0,0:03:30.01,0:03:33.51,DEFAULT,,0,0,0,,{\r}{\kf19}We've{\kf19} had{\kf19} the{\kf44} po{\kf19}wer{\kf19} in{\kf19} us{\kf19} all{\kf50} a{\kf50}lo{\kf25}-o{\kf47}-ong
+Dialogue: 0,0:03:34.53,0:03:39.31,DEFAULT,,0,0,0,,{\r}{\kf14}To{\kf14} em{\kf14}brace{\kf21} the{\kf28} her{\kf21}oes{\kf28} that{\kf76} we've{\kf42} be{\kf69}co{\kf14}-o{\kf21}-o{\kf14}-o{\kf21}-o{\kf14}-o{\kf67}-ome
+Dialogue: 0,0:04:06.88,0:04:09.03,DEFAULT,,0,0,0,,{\r}{\kf23}We{\kf46} can{\kf46} be{\kf38} the{\kf31} he{\kf31}roes
+Dialogue: 0,0:04:09.25,0:04:12.37,DEFAULT,,0,0,0,,{\r}{\kf62}We{\kf37} can{\kf44} dare{\kf19} to{\kf25} sa{\kf44}-ve{\kf19} the{\kf25} da{\kf37}-y
+Dialogue: 0,0:04:12.85,0:04:18.28,DEFAULT,,0,0,0,,{\r}{\kf54}Stan{\kf31}ding{\kf62} up{\kf23} to{\kf54} those{\kf54} still{\kf23} in{\kf54} our{\kf188} way
+Dialogue: 0,0:04:20.43,0:04:23.49,DEFAULT,,0,0,0,,{\r}{\kf20}With{\kf26} cour{\kf39}age{\kf59} we'll{\kf39} keep{\kf26} figh{\kf33}ting{\kf64} for
+Dialogue: 0,0:04:23.81,0:04:26.61,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf42} search{\kf42} we're{\kf42} on{\kf42} for{\kf24} some{\kf42}thing{\kf27} more
+Dialogue: 0,0:04:26.82,0:04:31.01,DEFAULT,,0,0,0,,{\r}{\kf36}Push{\kf27}ing{\kf71} through{\kf36} un{\kf53}til{\kf27} the{\kf36} wa{\kf27}-ar{\kf36} i{\kf27}-is{\kf43} won
+Dialogue: 0,0:04:31.28,0:04:34.35,DEFAULT,,0,0,0,,{\r}{\kf28}We{\kf21} can{\kf28} be{\kf21} the{\kf28} her{\kf57}oes{\kf28} we{\kf36}-'ve{\kf28} be{\kf31}come
+Dialogue: 0,0:04:38.22,0:04:41.28,DEFAULT,,0,0,0,,{\r}{\kf23}We{\kf23} can{\kf31} be{\kf23} the{\kf31} her{\kf61}oes{\kf46} we've{\kf31} be{\kf37}come
+Dialogue: 0,0:04:45.10,0:04:48.11,DEFAULT,,0,0,0,,{\r}{\kf23}We{\kf23} can{\kf30} be{\kf23} the{\kf30} her{\kf60}oes{\kf53} we've{\kf30} be{\kf29}come

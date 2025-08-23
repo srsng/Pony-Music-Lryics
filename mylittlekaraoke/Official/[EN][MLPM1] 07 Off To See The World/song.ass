@@ -1,68 +1,75 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Off To See The World
+Artist: Lukas Graham
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:18.57,0:00:20.25,DEFAULT,,0,0,0,,{\kf27}So{\kf11} we{\kf16} wan{\kf16}na{\kf37} stay
-Dialogue: 0,0:00:21.46,0:00:23.78,DEFAULT,,0,0,0,,{\kf16}But{\kf16} can't{\kf16} find{\kf22} peace{\kf16} while{\kf16} sit{\kf16}tin'{\kf22} still{\kf27}~
-Dialogue: 0,0:00:24.25,0:00:25.83,DEFAULT,,0,0,0,,{\kf16}I{\kf16} guess{\kf16} we{\kf16} ne{\kf16}ver{\kf48} will
-Dialogue: 0,0:00:28.25,0:00:29.20,DEFAULT,,0,0,0,,{\kf16}We're{\kf16} on{\kf16} the{\kf32} way
-Dialogue: 0,0:00:30.62,0:00:32.67,DEFAULT,,0,0,0,,{\kf16}We{\kf16} won't{\kf16} hur{\kf16}ry{\kf16} back{\kf22} a{\kf22}gain{\kf27}~
-Dialogue: 0,0:00:33.25,0:00:34.67,DEFAULT,,0,0,0,,{\kf11}The{\kf22} jour{\kf16}ney{\kf16} is{\kf16} the{\kf32} end
-Dialogue: 0,0:00:37.04,0:00:38.99,DEFAULT,,0,0,0,,{\kf16}I{\kf16} love{\kf16} this{\kf16} ve{\kf16}ry{\kf32} mo{\kf27}ment
-Dialogue: 0,0:00:39.20,0:00:41.30,DEFAULT,,0,0,0,,{\kf16}We're{\kf22} speed{\kf22}in'{\kf16} up,{\kf16} not{\kf27} slow{\kf27}in'
-Dialogue: 0,0:00:41.83,0:00:43.72,DEFAULT,,0,0,0,,{\kf16}We{\kf16} might{\kf27} know{\kf16} we{\kf16} can't{\kf16} win{\kf11}~
-Dialogue: 0,0:00:44.09,0:00:45.83,DEFAULT,,0,0,0,,{\kf16}But{\kf16} we're{\kf16} dumb{\kf16} e{\kf16}nough{\kf11} to{\kf32} try
-Dialogue: 0,0:00:46.20,0:00:47.93,DEFAULT,,0,0,0,,{\kf11}We're{\kf11} go{\kf16}ing,{\kf22} there's{\kf16} no{\kf27} may{\kf22}be
-Dialogue: 0,0:00:48.20,0:00:50.25,DEFAULT,,0,0,0,,{\kf16}That's{\kf16} why{\kf16} they{\kf22} call{\kf16} us{\kf37} cra{\kf27}zy
-Dialogue: 0,0:00:51.46,0:00:54.36,DEFAULT,,0,0,0,,{\kf16}And{\kf16} we'll{\kf22} say{\kf22} if{\kf22} a{\kf22}ny{\kf27}bo{\kf22}dy{\kf32} asks{\kf22} us
-Dialogue: 0,0:00:54.72,0:00:57.14,DEFAULT,,0,0,0,,{\kf43}Hey,{\kf16} where{\kf16} you{\kf16} gon{\kf11}na{\kf43} go?
-Dialogue: 0,0:00:57.93,0:00:59.36,DEFAULT,,0,0,0,,{\kf11}We're{\kf16} off{\kf11} to{\kf16} see{\kf11} the{\kf43} world
-Dialogue: 0,0:01:00.36,0:01:01.62,DEFAULT,,0,0,0,,{\kf16}We{\kf16} don't{\kf16} need{\kf11} to{\kf43} know
-Dialogue: 0,0:01:03.67,0:01:06.09,DEFAULT,,0,0,0,,{\kf43}Hey,{\kf16} where{\kf16} you{\kf16} gon{\kf11}na{\kf43} go?
-Dialogue: 0,0:01:06.88,0:01:08.30,DEFAULT,,0,0,0,,{\kf11}We're{\kf16} off{\kf11} to{\kf16} see{\kf11} the{\kf43} world
-Dialogue: 0,0:01:09.30,0:01:10.57,DEFAULT,,0,0,0,,{\kf16}We{\kf16} don't{\kf16} need{\kf11} to{\kf43} know
-Dialogue: 0,0:01:12.78,0:01:14.09,DEFAULT,,0,0,0,,{\kf11}We{\kf11} ne{\kf11}ver{\kf16} need{\kf11} to{\kf43} know
-Dialogue: 0,0:01:15.46,0:01:17.51,DEFAULT,,0,0,0,,{\kf22}Seek{\kf22}in'{\kf16} boun{\kf11}da{\kf16}ries{\kf22} to{\kf16} break{\kf27}~
-Dialogue: 0,0:01:17.67,0:01:19.72,DEFAULT,,0,0,0,,{\kf22}Let's{\kf16} for{\kf16}get{\kf16} the{\kf16} ones{\kf16} we've{\kf48} made
-Dialogue: 0,0:01:21.93,0:01:23.88,DEFAULT,,0,0,0,,{\kf11}So{\kf11} we{\kf16} car{\kf22}ry{\kf64} on{\kf16}~{\kf22}~
-Dialogue: 0,0:01:24.46,0:01:26.20,DEFAULT,,0,0,0,,{\kf16}Don't{\kf16} let{\kf16} good{\kf22} things{\kf22} pass{\kf22} us{\kf16} by
-Dialogue: 0,0:01:26.57,0:01:28.09,DEFAULT,,0,0,0,,{\kf11}The{\kf16} time{\kf16} we're{\kf16} gone{\kf22} will{\kf16} be{\kf16} the
-Dialogue: 0,0:01:28.30,0:01:29.83,DEFAULT,,0,0,0,,{\kf22}Best{\kf22} time{\kf16} of{\kf16} our{\kf37} life
-Dialogue: 0,0:01:30.83,0:01:32.78,DEFAULT,,0,0,0,,{\kf16}I{\kf16} love{\kf16} this{\kf16} ve{\kf16}ry{\kf32} mo{\kf27}ment
-Dialogue: 0,0:01:32.99,0:01:35.09,DEFAULT,,0,0,0,,{\kf16}We're{\kf22} speed{\kf22}in'{\kf16} up,{\kf16} not{\kf27} slow{\kf27}in'
-Dialogue: 0,0:01:35.62,0:01:37.51,DEFAULT,,0,0,0,,{\kf16}We{\kf16} might{\kf27} know{\kf16} we{\kf16} can't{\kf16} win{\kf11}~
-Dialogue: 0,0:01:37.88,0:01:39.62,DEFAULT,,0,0,0,,{\kf16}But{\kf16} we're{\kf16} dumb{\kf16} e{\kf16}nough{\kf11} to{\kf27} try
-Dialogue: 0,0:01:39.99,0:01:41.72,DEFAULT,,0,0,0,,{\kf11}We're{\kf11} go{\kf16}ing,{\kf22} there's{\kf16} no{\kf27} may{\kf22}be
-Dialogue: 0,0:01:41.99,0:01:44.04,DEFAULT,,0,0,0,,{\kf16}That's{\kf16} why{\kf16} they{\kf22} call{\kf16} us{\kf37} cra{\kf27}zy
-Dialogue: 0,0:01:45.25,0:01:48.14,DEFAULT,,0,0,0,,{\kf16}And{\kf16} we'll{\kf22} say{\kf22} if{\kf22} a{\kf22}ny{\kf27}bo{\kf22}dy{\kf32} asks{\kf22} us
-Dialogue: 0,0:01:48.51,0:01:50.93,DEFAULT,,0,0,0,,{\kf43}Hey,{\kf16} where{\kf16} you{\kf16} gon{\kf11}na{\kf43} go?
-Dialogue: 0,0:01:51.72,0:01:53.14,DEFAULT,,0,0,0,,{\kf11}We're{\kf16} off{\kf11} to{\kf16} see{\kf11} the{\kf43} world
-Dialogue: 0,0:01:54.14,0:01:55.41,DEFAULT,,0,0,0,,{\kf16}We{\kf16} don't{\kf16} need{\kf11} to{\kf43} know
-Dialogue: 0,0:01:57.46,0:01:59.88,DEFAULT,,0,0,0,,{\kf43}Hey,{\kf16} where{\kf16} you{\kf16} gon{\kf11}na{\kf43} go?
-Dialogue: 0,0:02:00.67,0:02:02.09,DEFAULT,,0,0,0,,{\kf11}We're{\kf16} off{\kf11} to{\kf16} see{\kf11} the{\kf43} world
-Dialogue: 0,0:02:03.09,0:02:04.36,DEFAULT,,0,0,0,,{\kf16}We{\kf16} don't{\kf16} need{\kf11} to{\kf43} know
-Dialogue: 0,0:02:05.46,0:02:07.36,DEFAULT,,0,0,0,,{\kf16}So{\kf11} go{\kf11} tell{\kf11} 'em{\kf16} we{\kf32} won't{\kf32} stop
-Dialogue: 0,0:02:07.88,0:02:09.72,DEFAULT,,0,0,0,,{\kf16}We{\kf11} know{\kf11} they{\kf16} can't{\kf43} change{\kf43} us
-Dialogue: 0,0:02:10.04,0:02:12.09,DEFAULT,,0,0,0,,{\kf22}We're{\kf11} gon{\kf11}na{\kf16} go{\kf22} way{\kf16} off{\kf22} the{\kf27} map
-Dialogue: 0,0:02:12.36,0:02:14.30,DEFAULT,,0,0,0,,{\kf16}To{\kf11} get{\kf11} our{\kf16}selves{\kf16} back{\kf22} on{\kf16} the{\kf27} track
-Dialogue: 0,0:02:14.57,0:02:16.36,DEFAULT,,0,0,0,,{\kf22}Go{\kf11} tell{\kf11} 'em{\kf16} we{\kf43} won't{\kf32} stop
-Dialogue: 0,0:02:16.83,0:02:18.62,DEFAULT,,0,0,0,,{\kf16}We{\kf11} know{\kf11} they{\kf11} can't{\kf37} change{\kf37} us
-Dialogue: 0,0:02:19.09,0:02:21.09,DEFAULT,,0,0,0,,{\kf16}No{\kf16} need{\kf16} to{\kf22} wor{\kf16}ry{\kf22} so{\kf32} much
-Dialogue: 0,0:02:21.30,0:02:23.41,DEFAULT,,0,0,0,,{\kf22}We{\kf16} do{\kf16} what{\kf27}e{\kf16}ver{\kf22} we{\kf37} want
-Dialogue: 0,0:02:24.41,0:02:26.83,DEFAULT,,0,0,0,,{\kf43}Hey,{\kf16} where{\kf16} you{\kf16} gon{\kf11}na{\kf43} go?
-Dialogue: 0,0:02:27.62,0:02:29.04,DEFAULT,,0,0,0,,{\kf11}We're{\kf16} off{\kf11} to{\kf16} see{\kf11} the{\kf43} world
-Dialogue: 0,0:02:30.04,0:02:31.30,DEFAULT,,0,0,0,,{\kf16}We{\kf16} don't{\kf16} need{\kf11} to{\kf43} know
-Dialogue: 0,0:02:33.36,0:02:35.78,DEFAULT,,0,0,0,,{\kf43}Hey,{\kf16} where{\kf16} you{\kf16} gon{\kf11}na{\kf43} go?
-Dialogue: 0,0:02:36.57,0:02:37.99,DEFAULT,,0,0,0,,{\kf11}We're{\kf16} off{\kf11} to{\kf16} see{\kf11} the{\kf43} world
-Dialogue: 0,0:02:38.99,0:02:40.25,DEFAULT,,0,0,0,,{\kf16}We{\kf16} don't{\kf16} need{\kf11} to{\kf43} know
-Dialogue: 0,0:02:41.51,0:02:44.78,DEFAULT,,0,0,0,,{\kf16}Ohh{\kf16}~{\kf11}~{\kf16}~{\kf64} oh{\kf11} oh-{\kf11}~{\kf16}~{\kf16}oh-{\kf27}oh{\kf48} oh
-Dialogue: 0,0:02:46.83,0:02:49.25,DEFAULT,,0,0,0,,{\kf74}Ohh{\kf11} oh-{\kf22}oh{\kf16} oh{\kf22} oh{\kf43} oh
-Dialogue: 0,0:02:51.30,0:02:53.72,DEFAULT,,0,0,0,,{\kf74}Ohh{\kf11} oh-{\kf22}oh{\kf16} oh{\kf22} oh{\kf43} oh
-Dialogue: 0,0:02:55.78,0:02:58.20,DEFAULT,,0,0,0,,{\kf74}Ohh{\kf11} oh-{\kf22}oh{\kf16} oh{\kf22} oh{\kf43} oh
+Dialogue: 0,0:00:18.57,0:00:20.26,DEFAULT,,0,0,0,,{\r}{\kf42}So{\kf17} we{\kf25} wan{\kf25}na{\kf59} stay
+Dialogue: 0,0:00:21.47,0:00:23.78,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} can't{\kf22} find{\kf30} peace{\kf22} while{\kf22} sit{\kf22}tin'{\kf30} still{\kf40}~
+Dialogue: 0,0:00:24.26,0:00:25.83,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf20} guess{\kf20} we{\kf20} ne{\kf20}ver{\kf58} will
+Dialogue: 0,0:00:28.26,0:00:29.20,DEFAULT,,0,0,0,,{\r}{\kf19}We're{\kf19} on{\kf19} the{\kf38} way
+Dialogue: 0,0:00:30.62,0:00:32.68,DEFAULT,,0,0,0,,{\r}{\kf22}We{\kf22} won't{\kf22} hur{\kf22}ry{\kf22} back{\kf29} a{\kf29}gain{\kf37}~
+Dialogue: 0,0:00:33.26,0:00:34.68,DEFAULT,,0,0,0,,{\r}{\kf14}The{\kf27} jour{\kf20}ney{\kf20} is{\kf20} the{\kf41} end
+Dialogue: 0,0:00:37.04,0:00:38.99,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} love{\kf22} this{\kf22} ve{\kf22}ry{\kf45} mo{\kf40}ment
+Dialogue: 0,0:00:39.20,0:00:41.31,DEFAULT,,0,0,0,,{\r}{\kf23}We're{\kf31} speed{\kf31}in'{\kf23} up,{\kf23} not{\kf39} slow{\kf41}in'
+Dialogue: 0,0:00:41.83,0:00:43.73,DEFAULT,,0,0,0,,{\r}{\kf26}We{\kf26} might{\kf43} know{\kf26} we{\kf26} can't{\kf26} win{\kf16}~
+Dialogue: 0,0:00:44.10,0:00:45.83,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf23} we're{\kf23} dumb{\kf23} e{\kf23}nough{\kf15} to{\kf44} try
+Dialogue: 0,0:00:46.20,0:00:47.94,DEFAULT,,0,0,0,,{\r}{\kf15}We're{\kf15} go{\kf23}ing,{\kf30} there's{\kf23} no{\kf38} may{\kf30}be
+Dialogue: 0,0:00:48.20,0:00:50.26,DEFAULT,,0,0,0,,{\r}{\kf22}That's{\kf22} why{\kf22} they{\kf29} call{\kf22} us{\kf51} cra{\kf37}zy
+Dialogue: 0,0:00:51.47,0:00:54.36,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} we'll{\kf28} say{\kf28} if{\kf28} a{\kf28}ny{\kf35}bo{\kf28}dy{\kf42} asks{\kf30} us
+Dialogue: 0,0:00:54.73,0:00:57.15,DEFAULT,,0,0,0,,{\r}{\kf72}Hey,{\kf27} where{\kf27} you{\kf27} gon{\kf18}na{\kf71} go?
+Dialogue: 0,0:00:57.94,0:00:59.36,DEFAULT,,0,0,0,,{\r}{\kf14}We're{\kf21} off{\kf14} to{\kf21} see{\kf14} the{\kf58} world
+Dialogue: 0,0:01:00.36,0:01:01.62,DEFAULT,,0,0,0,,{\r}{\kf20}We{\kf20} don't{\kf20} need{\kf13} to{\kf53} know
+Dialogue: 0,0:01:03.68,0:01:06.10,DEFAULT,,0,0,0,,{\r}{\kf72}Hey,{\kf27} where{\kf27} you{\kf27} gon{\kf18}na{\kf71} go?
+Dialogue: 0,0:01:06.89,0:01:08.31,DEFAULT,,0,0,0,,{\r}{\kf14}We're{\kf21} off{\kf14} to{\kf21} see{\kf14} the{\kf58} world
+Dialogue: 0,0:01:09.31,0:01:10.57,DEFAULT,,0,0,0,,{\r}{\kf20}We{\kf20} don't{\kf20} need{\kf13} to{\kf53} know
+Dialogue: 0,0:01:12.78,0:01:14.10,DEFAULT,,0,0,0,,{\r}{\kf14}We{\kf14} ne{\kf14}ver{\kf21} need{\kf14} to{\kf55} know
+Dialogue: 0,0:01:15.47,0:01:17.52,DEFAULT,,0,0,0,,{\r}{\kf29}Seek{\kf29}in'{\kf22} boun{\kf15}da{\kf22}ries{\kf29} to{\kf22} break{\kf37}~
+Dialogue: 0,0:01:17.68,0:01:19.73,DEFAULT,,0,0,0,,{\r}{\kf29}Let's{\kf22} for{\kf22}get{\kf22} the{\kf22} ones{\kf22} we've{\kf66} made
+Dialogue: 0,0:01:21.94,0:01:23.89,DEFAULT,,0,0,0,,{\r}{\kf13}So{\kf13} we{\kf20} car{\kf26}ry{\kf78} on{\kf20}~{\kf25}~
+Dialogue: 0,0:01:24.47,0:01:26.20,DEFAULT,,0,0,0,,{\r}{\kf22}Don't{\kf22} let{\kf22} good{\kf29} things{\kf29} pass{\kf29} us{\kf21} by
+Dialogue: 0,0:01:26.57,0:01:28.10,DEFAULT,,0,0,0,,{\r}{\kf15}The{\kf22} time{\kf22} we're{\kf22} gone{\kf29} will{\kf22} be{\kf21} the
+Dialogue: 0,0:01:28.31,0:01:29.83,DEFAULT,,0,0,0,,{\r}{\kf29}Best{\kf29} time{\kf22} of{\kf22} our{\kf51} life
+Dialogue: 0,0:01:30.83,0:01:32.78,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} love{\kf22} this{\kf22} ve{\kf22}ry{\kf45} mo{\kf40}ment
+Dialogue: 0,0:01:32.99,0:01:35.10,DEFAULT,,0,0,0,,{\r}{\kf23}We're{\kf31} speed{\kf31}in'{\kf23} up,{\kf23} not{\kf39} slow{\kf41}in'
+Dialogue: 0,0:01:35.62,0:01:37.52,DEFAULT,,0,0,0,,{\r}{\kf26}We{\kf26} might{\kf43} know{\kf26} we{\kf26} can't{\kf26} win{\kf16}~
+Dialogue: 0,0:01:37.89,0:01:39.62,DEFAULT,,0,0,0,,{\r}{\kf24}But{\kf24} we're{\kf24} dumb{\kf24} e{\kf24}nough{\kf16} to{\kf38} try
+Dialogue: 0,0:01:39.99,0:01:41.73,DEFAULT,,0,0,0,,{\r}{\kf15}We're{\kf15} go{\kf23}ing,{\kf30} there's{\kf23} no{\kf38} may{\kf30}be
+Dialogue: 0,0:01:41.99,0:01:44.04,DEFAULT,,0,0,0,,{\r}{\kf22}That's{\kf22} why{\kf22} they{\kf29} call{\kf22} us{\kf51} cra{\kf37}zy
+Dialogue: 0,0:01:45.26,0:01:48.15,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} we'll{\kf28} say{\kf28} if{\kf28} a{\kf28}ny{\kf35}bo{\kf28}dy{\kf42} asks{\kf30} us
+Dialogue: 0,0:01:48.52,0:01:50.94,DEFAULT,,0,0,0,,{\r}{\kf72}Hey,{\kf27} where{\kf27} you{\kf27} gon{\kf18}na{\kf71} go?
+Dialogue: 0,0:01:51.73,0:01:53.15,DEFAULT,,0,0,0,,{\r}{\kf14}We're{\kf21} off{\kf14} to{\kf21} see{\kf14} the{\kf58} world
+Dialogue: 0,0:01:54.15,0:01:55.41,DEFAULT,,0,0,0,,{\r}{\kf20}We{\kf20} don't{\kf20} need{\kf13} to{\kf53} know
+Dialogue: 0,0:01:57.47,0:01:59.89,DEFAULT,,0,0,0,,{\r}{\kf72}Hey,{\kf27} where{\kf27} you{\kf27} gon{\kf18}na{\kf71} go?
+Dialogue: 0,0:02:00.68,0:02:02.10,DEFAULT,,0,0,0,,{\r}{\kf14}We're{\kf21} off{\kf14} to{\kf21} see{\kf14} the{\kf58} world
+Dialogue: 0,0:02:03.10,0:02:04.36,DEFAULT,,0,0,0,,{\r}{\kf20}We{\kf20} don't{\kf20} need{\kf13} to{\kf53} know
+Dialogue: 0,0:02:05.47,0:02:07.36,DEFAULT,,0,0,0,,{\r}{\kf24}So{\kf16} go{\kf16} tell{\kf16} 'em{\kf24} we{\kf47} won't{\kf46} stop
+Dialogue: 0,0:02:07.89,0:02:09.73,DEFAULT,,0,0,0,,{\r}{\kf21}We{\kf14} know{\kf14} they{\kf21} can't{\kf57} change{\kf57} us
+Dialogue: 0,0:02:10.04,0:02:12.10,DEFAULT,,0,0,0,,{\r}{\kf30}We're{\kf15} gon{\kf15}na{\kf23} go{\kf30} way{\kf23} off{\kf30} the{\kf39} map
+Dialogue: 0,0:02:12.36,0:02:14.31,DEFAULT,,0,0,0,,{\r}{\kf23}To{\kf16} get{\kf16} our{\kf23}selves{\kf23} back{\kf31} on{\kf23} the{\kf40} track
+Dialogue: 0,0:02:14.57,0:02:16.36,DEFAULT,,0,0,0,,{\r}{\kf29}Go{\kf14} tell{\kf14} 'em{\kf21} we{\kf57} won't{\kf44} stop
+Dialogue: 0,0:02:16.83,0:02:18.62,DEFAULT,,0,0,0,,{\r}{\kf23}We{\kf16} know{\kf16} they{\kf16} can't{\kf54} change{\kf54} us
+Dialogue: 0,0:02:19.10,0:02:21.10,DEFAULT,,0,0,0,,{\r}{\kf23}No{\kf23} need{\kf23} to{\kf31} wor{\kf23}ry{\kf31} so{\kf46} much
+Dialogue: 0,0:02:21.31,0:02:23.41,DEFAULT,,0,0,0,,{\r}{\kf29}We{\kf22} do{\kf22} what{\kf36}e{\kf22}ver{\kf29} we{\kf51} want
+Dialogue: 0,0:02:24.41,0:02:26.83,DEFAULT,,0,0,0,,{\r}{\kf72}Hey,{\kf27} where{\kf27} you{\kf27} gon{\kf18}na{\kf71} go?
+Dialogue: 0,0:02:27.62,0:02:29.04,DEFAULT,,0,0,0,,{\r}{\kf14}We're{\kf21} off{\kf14} to{\kf21} see{\kf14} the{\kf58} world
+Dialogue: 0,0:02:30.04,0:02:31.31,DEFAULT,,0,0,0,,{\r}{\kf20}We{\kf20} don't{\kf20} need{\kf13} to{\kf53} know
+Dialogue: 0,0:02:33.36,0:02:35.78,DEFAULT,,0,0,0,,{\r}{\kf72}Hey,{\kf27} where{\kf27} you{\kf27} gon{\kf18}na{\kf71} go?
+Dialogue: 0,0:02:36.57,0:02:37.99,DEFAULT,,0,0,0,,{\r}{\kf14}We're{\kf21} off{\kf14} to{\kf21} see{\kf14} the{\kf58} world
+Dialogue: 0,0:02:38.99,0:02:40.26,DEFAULT,,0,0,0,,{\r}{\kf20}We{\kf20} don't{\kf20} need{\kf13} to{\kf53} know
+Dialogue: 0,0:02:41.52,0:02:44.78,DEFAULT,,0,0,0,,{\r}{\kf21}Ohh{\kf21}~{\kf14}~{\kf21}~{\kf83} oh{\kf14} oh-{\kf14}~{\kf21}~{\kf21}oh-{\kf35}oh{\kf61} oh
+Dialogue: 0,0:02:46.83,0:02:49.26,DEFAULT,,0,0,0,,{\r}{\kf97}Ohh{\kf14} oh-{\kf28}oh{\kf21} oh{\kf28} oh{\kf54} oh
+Dialogue: 0,0:02:51.31,0:02:53.73,DEFAULT,,0,0,0,,{\r}{\kf97}Ohh{\kf14} oh-{\kf28}oh{\kf21} oh{\kf28} oh{\kf54} oh
+Dialogue: 0,0:02:55.78,0:02:58.20,DEFAULT,,0,0,0,,{\r}{\kf97}Ohh{\kf14} oh-{\kf28}oh{\kf21} oh{\kf28} oh{\kf54} oh

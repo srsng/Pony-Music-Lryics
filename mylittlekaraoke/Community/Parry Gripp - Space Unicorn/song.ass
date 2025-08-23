@@ -1,33 +1,40 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Space Unicorn
+Artist: Parry Gripp, Brianne Drouhard
+Original Timing: mylittlekaraoke.com by barbeque
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:10.06,0:00:11.55,DEFAULT,,0,0,0,,{\kf44}Space{\kf13} u{\kf13}ni{\kf57}corn
-Dialogue: 0,0:00:12.05,0:00:13.67,DEFAULT,,0,0,0,,{\kf19}Soar{\kf19}ing{\kf19} through{\kf7} the{\kf75} stars
-Dialogue: 0,0:00:13.92,0:00:17.48,DEFAULT,,0,0,0,,{\kf19}De{\kf19}li{\kf19}ver{\kf19}ing{\kf13} the{\kf38} rain{\kf38}bows{\kf19} all{\kf13} a{\kf25}round{\kf13} the{\kf50} world
-Dialogue: 0,0:00:18.10,0:00:19.48,DEFAULT,,0,0,0,,{\kf38}Space{\kf13} u{\kf13}ni{\kf50}corn
-Dialogue: 0,0:00:20.04,0:00:21.29,DEFAULT,,0,0,0,,{\kf25}Shin{\kf13}ing{\kf19} in{\kf13} the{\kf32} night
-Dialogue: 0,0:00:22.03,0:00:23.78,DEFAULT,,0,0,0,,{\kf25}Smiles{\kf13} and{\kf19} hugs{\kf13} for{\kf44}e{\kf19}ver
-Dialogue: 0,0:00:24.03,0:00:25.34,DEFAULT,,0,0,0,,{\kf25}All{\kf13} a{\kf19}round{\kf13} the{\kf38} world
-Dialogue: 0,0:00:26.84,0:00:29.21,DEFAULT,,0,0,0,,{\kf13}So{\kf38} pure{\kf32} of{\kf113} heart
-Dialogue: 0,0:00:30.83,0:00:33.08,DEFAULT,,0,0,0,,{\kf13}And{\kf38} strong{\kf19} of{\kf100} mind
-Dialogue: 0,0:00:34.83,0:00:39.63,DEFAULT,,0,0,0,,{\kf19}So{\kf32} true{\kf38} of{\kf38} aim{\kf13} with{\kf19} his{\kf25} marsh{\kf19}mal{\kf19}low{\kf19} la{\kf125}ser
-Dialogue: 0,0:00:41.06,0:00:43.81,DEFAULT,,0,0,0,,{\kf25}Marsh{\kf19}mal{\kf19}low{\kf19} la{\kf150}ser
-Dialogue: 0,0:00:52.11,0:00:53.42,DEFAULT,,0,0,0,,{\kf38}Space{\kf19} u{\kf13}ni{\kf44}corn
-Dialogue: 0,0:00:54.04,0:00:55.54,DEFAULT,,0,0,0,,{\kf19}Soar{\kf19}ing{\kf13} through{\kf13} the{\kf50} stars
-Dialogue: 0,0:00:55.98,0:01:02.65,DEFAULT,,0,0,0,,{\kf13}De{\kf19}li{\kf19}ver{\kf25}ing{\kf13} the{\kf38} rain{\kf32}bows{\kf19} all{\kf13} a{\kf25}round{\kf13} the{\kf362} world
-Dialogue: 0,0:01:02.96,0:01:05.77,DEFAULT,,0,0,0,,{\kf19}De{\kf19}li{\kf19}ver{\kf25}ing{\kf13} the{\kf38} rain{\kf119}bows
-Dialogue: 0,0:01:06.96,0:01:10.64,DEFAULT,,0,0,0,,{\kf19}De{\kf13}li{\kf19}ver{\kf19}ing{\kf13} the{\kf38} rain{\kf44}bows{\kf88}~{\kf57}~
-Dialogue: 0,0:01:11.01,0:01:14.69,DEFAULT,,0,0,0,,{\kf13}De{\kf19}li{\kf19}ver{\kf19}ing{\kf13} the{\kf44} rain{\kf32}bows{\kf32} all{\kf13} a{\kf25}round{\kf13} the{\kf63} world
-Dialogue: 0,0:01:14.94,0:01:19.75,DEFAULT,,0,0,0,,{\kf19}De{\kf19}liv{\kf19}er{\kf13}ing{\kf13} the{\kf44} rain{\kf32}bows{\kf19} all{\kf19} a{\kf19}round{\kf13} the{\kf100} world{\kf69}~
-Dialogue: 0,0:01:21.06,0:01:23.87,DEFAULT,,0,0,0,,{\kf19}All{\kf13} a{\kf25}round{\kf13} the{\kf100} world{\kf75}~
-Dialogue: 0,0:01:25.05,0:01:27.80,DEFAULT,,0,0,0,,{\kf19}All{\kf13} a{\kf19}round{\kf13} the{\kf94} world{\kf69}~
-Dialogue: 0,0:01:29.05,0:01:31.79,DEFAULT,,0,0,0,,{\kf19}All{\kf13} a{\kf19}round{\kf13} the{\kf94} world{\kf69}~
-Dialogue: 0,0:01:33.04,0:01:34.60,DEFAULT,,0,0,0,,{\kf25}All{\kf13} a{\kf19}round{\kf13} the{\kf63} world
+Dialogue: 0,0:00:10.06,0:00:11.56,DEFAULT,,0,0,0,,{\r}{\kf52}Space{\kf15} u{\kf15}ni{\kf68}corn
+Dialogue: 0,0:00:12.06,0:00:13.68,DEFAULT,,0,0,0,,{\r}{\kf22}Soar{\kf22}ing{\kf22} through{\kf10} the{\kf86} stars
+Dialogue: 0,0:00:13.93,0:00:17.48,DEFAULT,,0,0,0,,{\r}{\kf24}De{\kf24}li{\kf24}ver{\kf24}ing{\kf16} the{\kf47} rain{\kf47}bows{\kf24} all{\kf16} a{\kf32}round{\kf16} the{\kf62} world
+Dialogue: 0,0:00:18.11,0:00:19.48,DEFAULT,,0,0,0,,{\r}{\kf46}Space{\kf15} u{\kf15}ni{\kf61}corn
+Dialogue: 0,0:00:20.04,0:00:21.29,DEFAULT,,0,0,0,,{\r}{\kf31}Shin{\kf16}ing{\kf23} in{\kf16} the{\kf39} night
+Dialogue: 0,0:00:22.04,0:00:23.79,DEFAULT,,0,0,0,,{\r}{\kf33}Smiles{\kf17} and{\kf25} hugs{\kf17} for{\kf58}e{\kf25}ver
+Dialogue: 0,0:00:24.04,0:00:25.35,DEFAULT,,0,0,0,,{\r}{\kf31}All{\kf15} a{\kf23}round{\kf15} the{\kf47} world
+Dialogue: 0,0:00:26.84,0:00:29.21,DEFAULT,,0,0,0,,{\r}{\kf15}So{\kf46} pure{\kf38} of{\kf138} heart
+Dialogue: 0,0:00:30.84,0:00:33.08,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf50} strong{\kf25} of{\kf133} mind
+Dialogue: 0,0:00:34.83,0:00:39.63,DEFAULT,,0,0,0,,{\r}{\kf25}So{\kf41} true{\kf50} of{\kf50} aim{\kf17} with{\kf25} his{\kf33} marsh{\kf25}mal{\kf25}low{\kf25} la{\kf164}ser
+Dialogue: 0,0:00:41.07,0:00:43.81,DEFAULT,,0,0,0,,{\r}{\kf30}Marsh{\kf22}mal{\kf22}low{\kf22} la{\kf179}ser
+Dialogue: 0,0:00:52.11,0:00:53.42,DEFAULT,,0,0,0,,{\r}{\kf44}Space{\kf22} u{\kf15}ni{\kf50}corn
+Dialogue: 0,0:00:54.05,0:00:55.54,DEFAULT,,0,0,0,,{\r}{\kf25}Soar{\kf25}ing{\kf17} through{\kf17} the{\kf66} stars
+Dialogue: 0,0:00:55.98,0:01:02.66,DEFAULT,,0,0,0,,{\r}{\kf14}De{\kf21}li{\kf21}ver{\kf28}ing{\kf14} the{\kf43} rain{\kf36}bows{\kf21} all{\kf14} a{\kf28}round{\kf14} the{\kf414} world
+Dialogue: 0,0:01:02.97,0:01:05.78,DEFAULT,,0,0,0,,{\r}{\kf21}De{\kf21}li{\kf21}ver{\kf28}ing{\kf14} the{\kf42} rain{\kf134}bows
+Dialogue: 0,0:01:06.96,0:01:10.64,DEFAULT,,0,0,0,,{\r}{\kf23}De{\kf15}li{\kf23}ver{\kf23}ing{\kf15} the{\kf45} rain{\kf53}bows{\kf105}~{\kf66}~
+Dialogue: 0,0:01:11.02,0:01:14.70,DEFAULT,,0,0,0,,{\r}{\kf15}De{\kf23}li{\kf23}ver{\kf23}ing{\kf15} the{\kf54} rain{\kf38}bows{\kf38} all{\kf15} a{\kf31}round{\kf15} the{\kf78} world
+Dialogue: 0,0:01:14.95,0:01:19.75,DEFAULT,,0,0,0,,{\r}{\kf23}De{\kf23}liv{\kf23}er{\kf15}ing{\kf15} the{\kf53} rain{\kf38}bows{\kf23} all{\kf23} a{\kf23}round{\kf15} the{\kf122} world{\kf84}~
+Dialogue: 0,0:01:21.06,0:01:23.87,DEFAULT,,0,0,0,,{\r}{\kf22}All{\kf14} a{\kf29}round{\kf14} the{\kf115} world{\kf87}~
+Dialogue: 0,0:01:25.06,0:01:27.80,DEFAULT,,0,0,0,,{\r}{\kf23}All{\kf15} a{\kf23}round{\kf15} the{\kf115} world{\kf84}~
+Dialogue: 0,0:01:29.05,0:01:31.80,DEFAULT,,0,0,0,,{\r}{\kf23}All{\kf15} a{\kf23}round{\kf15} the{\kf115} world{\kf84}~
+Dialogue: 0,0:01:33.04,0:01:34.60,DEFAULT,,0,0,0,,{\r}{\kf30}All{\kf15} a{\kf22}round{\kf15} the{\kf74} world

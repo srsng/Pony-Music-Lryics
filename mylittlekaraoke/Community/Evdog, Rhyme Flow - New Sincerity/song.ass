@@ -1,87 +1,94 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: New Sincerity
+Artist: Evdog, Rhyme Flow
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:35.10,0:00:35.33,DEFAULT,,0,0,0,,{\kf24}Look
-Dialogue: 0,0:00:35.57,0:00:36.82,DEFAULT,,0,0,0,,{\kf8}You've{\kf12} been{\kf12} a{\kf20} sar{\kf20}cas{\kf16}tic
-Dialogue: 0,0:00:36.93,0:00:37.79,DEFAULT,,0,0,0,,{\kf20}Sharp{\kf28} spas{\kf20}tic
-Dialogue: 0,0:00:37.95,0:00:40.37,DEFAULT,,0,0,0,,{\kf20}Smart-{\kf20}ass{\kf24} jerk{\kf8} for{\kf16} so{\kf16} long{\kf12} you've{\kf20} turned{\kf28} plas{\kf28}tic
-Dialogue: 0,0:00:40.61,0:00:42.79,DEFAULT,,0,0,0,,{\kf8}Now{\kf12} let{\kf12} me{\kf12} tell{\kf12} you{\kf12} there's{\kf12} a{\kf16}no{\kf12}ther{\kf12} way{\kf12} to{\kf12} think{\kf12} of{\kf20} things
-Dialogue: 0,0:00:43.07,0:00:45.33,DEFAULT,,0,0,0,,{\kf16}In{\kf12}stead{\kf12} of{\kf16} ja{\kf12}ded{\kf16} and{\kf16} bit{\kf12}ter{\kf12} the{\kf12} way{\kf8} you've{\kf20} ha{\kf12}ted{\kf20} things
-Dialogue: 0,0:00:45.61,0:00:47.91,DEFAULT,,0,0,0,,{\kf12}This{\kf20} bile{\kf16} ve{\kf16}no{\kf12}mous{\kf12} e{\kf16}ne{\kf12}my{\kf12} that{\kf12} you've{\kf16} had{\kf12} to{\kf24} be
-Dialogue: 0,0:00:48.11,0:00:49.28,DEFAULT,,0,0,0,,{\kf12}It{\kf12} does{\kf12}n't{\kf16} have{\kf8} to{\kf12} be{\kf12} this{\kf12} way
-Dialogue: 0,0:00:49.36,0:00:50.37,DEFAULT,,0,0,0,,{\kf12}Be{\kf12}cause{\kf12} it's{\kf16} sad{\kf12} to{\kf24} see
-Dialogue: 0,0:00:50.76,0:00:51.47,DEFAULT,,0,0,0,,{\kf12}There's{\kf12} a{\kf24} move{\kf12}ment
-Dialogue: 0,0:00:51.54,0:00:53.69,DEFAULT,,0,0,0,,{\kf20}Dude's{\kf16} get{\kf16}ting{\kf16} at{\kf20}tuned{\kf12} to{\kf12} the{\kf12} root{\kf12} of{\kf16} e{\kf16}mo{\kf12}tions
-Dialogue: 0,0:00:53.77,0:00:55.41,DEFAULT,,0,0,0,,{\kf8}Say{\kf12}ing{\kf12} the{\kf20} truth{\kf16} as{\kf16} im{\kf32}prove{\kf28}ment
-Dialogue: 0,0:00:56.15,0:00:57.83,DEFAULT,,0,0,0,,{\kf8}I{\kf20} mean{\kf12} sin{\kf20}cere{\kf12} from{\kf12} the{\kf20} heart's{\kf24} core
-Dialogue: 0,0:00:58.07,0:01:00.41,DEFAULT,,0,0,0,,{\kf8}I{\kf16} mean{\kf12} be{\kf12}reft{\kf12} of{\kf12} the{\kf28} fear,{\kf12} and{\kf16} clear{\kf12}ly{\kf20} far{\kf32} more
-Dialogue: 0,0:01:00.57,0:01:02.48,DEFAULT,,0,0,0,,{\kf16}Say{\kf8} what{\kf12} you{\kf12} mean{\kf12} and{\kf16} tru{\kf16}ly{\kf16} mean{\kf12} what{\kf16} you{\kf20} say
-Dialogue: 0,0:01:02.75,0:01:03.65,DEFAULT,,0,0,0,,{\kf16}They're{\kf12} ho{\kf12}nest{\kf12} with{\kf12} their{\kf12} words
-Dialogue: 0,0:01:03.77,0:01:05.29,DEFAULT,,0,0,0,,{\kf8}And{\kf8} there's{\kf20} ear{\kf20}nes{\kf12}ty{\kf8} in{\kf12} their{\kf47} praise
-Dialogue: 0,0:01:05.72,0:01:07.87,DEFAULT,,0,0,0,,{\kf28}Yeah,{\kf12} so{\kf12} raise{\kf12} 'em{\kf16} up{\kf12} for{\kf16} this{\kf12} way{\kf12} of{\kf24} thought
-Dialogue: 0,0:01:08.11,0:01:10.41,DEFAULT,,0,0,0,,{\kf12}To{\kf12} wear{\kf8} your{\kf16} hearts{\kf12} on{\kf16} your{\kf20} sleeves{\kf12} is{\kf12} just{\kf16} say{\kf12}ing{\kf12} a{\kf28} lot
-Dialogue: 0,0:01:10.57,0:01:12.91,DEFAULT,,0,0,0,,{\kf12}And{\kf16} I{\kf12} ain't{\kf16} play{\kf8}ing,{\kf12} 'cause{\kf24} Rhyme{\kf16} Flow{\kf12} is{\kf16} sav{\kf8}ing{\kf12} a{\kf28} spot
-Dialogue: 0,0:01:13.11,0:01:15.41,DEFAULT,,0,0,0,,{\kf8}The{\kf12} New{\kf16} Sin{\kf16}ce{\kf12}ri{\kf16}ty{\kf20} plan{\kf12} that{\kf12} I'm{\kf12} aim{\kf8}ing{\kf12} to{\kf32} rock
-Dialogue: 0,0:01:15.84,0:01:17.52,DEFAULT,,0,0,0,,{\kf16}The{\kf32} world{\kf12} that{\kf12} we{\kf20} can{\kf32} see
-Dialogue: 0,0:01:17.68,0:01:19.98,DEFAULT,,0,0,0,,{\kf16}It{\kf24} shows{\kf28} no{\kf24} au{\kf28}then{\kf20}ti{\kf20}ci{\kf36}ty
-Dialogue: 0,0:01:20.14,0:01:22.60,DEFAULT,,0,0,0,,{\kf47}We{\kf24} want{\kf24} trans{\kf20}pa{\kf20}ren{\kf40}cy
-Dialogue: 0,0:01:22.75,0:01:24.94,DEFAULT,,0,0,0,,{\kf12}With{\kf24}out{\kf20} the{\kf28} sni{\kf28}dey{\kf24} i{\kf16}ro{\kf32}ny
-Dialogue: 0,0:01:25.10,0:01:27.60,DEFAULT,,0,0,0,,{\kf43}No{\kf36} shal{\kf20}low{\kf20} va{\kf20}ni{\kf47}ty
-Dialogue: 0,0:01:27.75,0:01:30.57,DEFAULT,,0,0,0,,{\kf12}We{\kf24} va{\kf24}lue{\kf24} our{\kf28} hu{\kf20}ma{\kf20}ni{\kf32}ty,{\kf51} yeah
-Dialogue: 0,0:01:31.04,0:01:32.52,DEFAULT,,0,0,0,,{\kf20}Let{\kf24} us{\kf16} set{\kf24} it{\kf32} free
-Dialogue: 0,0:01:32.68,0:01:35.22,DEFAULT,,0,0,0,,{\kf16}A{\kf20} kind{\kf12} of{\kf32} New{\kf28} Sin{\kf16}ce{\kf20}ri{\kf55}ty
-Dialogue: 0,0:01:35.61,0:01:37.21,DEFAULT,,0,0,0,,{\kf12}Get{\kf12} in{\kf12} your{\kf12} head{\kf8} and{\kf12} don't{\kf12} bet{\kf12} on{\kf12} the{\kf24} bad
-Dialogue: 0,0:01:37.29,0:01:38.11,DEFAULT,,0,0,0,,{\kf12}A{\kf20}ban{\kf8}don{\kf8} the{\kf20} fad
-Dialogue: 0,0:01:38.26,0:01:39.04,DEFAULT,,0,0,0,,{\kf12}Em{\kf12}bed{\kf12} in{\kf12} your{\kf16} mind
-Dialogue: 0,0:01:39.12,0:01:39.98,DEFAULT,,0,0,0,,{\kf20}Pre{\kf12}pare{\kf8} to{\kf12} be{\kf20} glad
-Dialogue: 0,0:01:40.10,0:01:42.48,DEFAULT,,0,0,0,,{\kf12}I{\kf12} was{\kf16} ja{\kf16}ded{\kf12} as{\kf12} the{\kf20} next{\kf20} man,{\kf16} just{\kf16} glar{\kf16}in{\kf8}gly{\kf20} mad
-Dialogue: 0,0:01:42.60,0:01:44.08,DEFAULT,,0,0,0,,{\kf12}I{\kf16} car{\kf12}ried{\kf12} the{\kf16} past{\kf12} on{\kf12} my{\kf16} shoul{\kf8}ders
-Dialogue: 0,0:01:44.16,0:01:45.02,DEFAULT,,0,0,0,,{\kf12}Des{\kf12}pair{\kf16}ing{\kf12}ly{\kf24} sad
-Dialogue: 0,0:01:45.14,0:01:45.29,DEFAULT,,0,0,0,,{\kf16}But
-Dialogue: 0,0:01:45.61,0:01:47.17,DEFAULT,,0,0,0,,{\kf8}I{\kf16} found{\kf8} I{\kf16} felt{\kf8} the{\kf16} fear{\kf16} fal{\kf12}ling{\kf16} a{\kf16}way
-Dialogue: 0,0:01:47.32,0:01:48.11,DEFAULT,,0,0,0,,{\kf12}I'll{\kf12} call{\kf12} it{\kf16} de{\kf16}cay
-Dialogue: 0,0:01:48.22,0:01:49.04,DEFAULT,,0,0,0,,{\kf20}Ap{\kf16}pal{\kf12}ling{\kf12}ly{\kf20} lost
-Dialogue: 0,0:01:49.16,0:01:49.98,DEFAULT,,0,0,0,,{\kf12}Not{\kf20} sor{\kf12}ry{\kf12} to{\kf16} say
-Dialogue: 0,0:01:50.14,0:01:51.70,DEFAULT,,0,0,0,,{\kf12}This{\kf16} sin{\kf16}ce{\kf16}ri{\kf12}ty{\kf16} ap{\kf16}pa{\kf12}rent{\kf12} in{\kf16} me
-Dialogue: 0,0:01:51.82,0:01:52.64,DEFAULT,,0,0,0,,{\kf12}This{\kf16} car{\kf8}ing{\kf16} in{\kf16} me
-Dialogue: 0,0:01:52.75,0:01:54.20,DEFAULT,,0,0,0,,{\kf16}Just{\kf12} star{\kf12}ing{\kf12} at{\kf12} me{\kf12} right{\kf12} in{\kf12} the{\kf20} face
-Dialogue: 0,0:01:54.32,0:01:55.14,DEFAULT,,0,0,0,,{\kf12}Just{\kf12} dar{\kf12}ing{\kf12} to{\kf16} be
-Dialogue: 0,0:01:55.22,0:01:55.41,DEFAULT,,0,0,0,,{\kf20}So
-Dialogue: 0,0:01:55.92,0:01:56.54,DEFAULT,,0,0,0,,{\kf8}I{\kf8} let{\kf12} it{\kf24} go
-Dialogue: 0,0:01:56.78,0:01:57.56,DEFAULT,,0,0,0,,{\kf12}I{\kf12} let{\kf12} it{\kf28} fly
-Dialogue: 0,0:01:57.79,0:01:59.94,DEFAULT,,0,0,0,,{\kf8}I{\kf12} let{\kf12} the{\kf20} truth{\kf16} from{\kf12} the{\kf12} soul{\kf12} I{\kf12} was{\kf20} hold{\kf12}in'{\kf16} in{\kf12}side
-Dialogue: 0,0:02:00.02,0:02:01.93,DEFAULT,,0,0,0,,{\kf8}And{\kf8} I{\kf12} can{\kf12} tell{\kf16} you{\kf12} it's{\kf12} a{\kf16} bles{\kf12}sing{\kf12} and{\kf12} a{\kf24} gift
-Dialogue: 0,0:02:02.17,0:02:03.77,DEFAULT,,0,0,0,,{\kf12}Be{\kf16}cause{\kf12} the{\kf16} weight{\kf16} pres{\kf12}sing{\kf16} on{\kf12} my{\kf20} heart
-Dialogue: 0,0:02:03.81,0:02:04.67,DEFAULT,,0,0,0,,{\kf12}It{\kf16} start{\kf12}ed{\kf12} to{\kf20} lift
-Dialogue: 0,0:02:04.79,0:02:05.61,DEFAULT,,0,0,0,,{\kf12}And{\kf12} start{\kf8}ed{\kf12} to{\kf20} drift
-Dialogue: 0,0:02:05.72,0:02:06.62,DEFAULT,,0,0,0,,{\kf12}This{\kf16} an{\kf12}ger{\kf12} I{\kf24} wore
-Dialogue: 0,0:02:06.74,0:02:07.52,DEFAULT,,0,0,0,,{\kf8}It{\kf12} start{\kf12}ed{\kf8} to{\kf24} rip
-Dialogue: 0,0:02:07.60,0:02:09.75,DEFAULT,,0,0,0,,{\kf12}And{\kf16} be{\kf16}neath{\kf16} spoke{\kf12} a{\kf16} ge{\kf12}nu{\kf12}ine{\kf12} part{\kf12} of{\kf12} the{\kf24} script
-Dialogue: 0,0:02:09.94,0:02:10.37,DEFAULT,,0,0,0,,{\kf16}It{\kf24} said:
-Dialogue: 0,0:02:10.61,0:02:12.40,DEFAULT,,0,0,0,,{\kf12}"Be{\kf8} true{\kf8} to{\kf20} your{\kf20}self,{\kf12} be{\kf16} ho{\kf12}nest{\kf12} and{\kf20} kind
-Dialogue: 0,0:02:12.48,0:02:14.98,DEFAULT,,0,0,0,,{\kf8}This{\kf12} new{\kf16} sin{\kf16}ce{\kf16}ri{\kf12}ty{\kf16} in{\kf16}he{\kf16}rent{\kf12}ly{\kf12} is{\kf12} brought{\kf12} in{\kf12} the{\kf36} mind"
-Dialogue: 0,0:02:15.10,0:02:15.49,DEFAULT,,0,0,0,,{\kf40}Yeah
-Dialogue: 0,0:02:15.84,0:02:17.52,DEFAULT,,0,0,0,,{\kf12}The{\kf32} world{\kf16} that{\kf12} we{\kf20} can{\kf40} see
-Dialogue: 0,0:02:17.68,0:02:19.94,DEFAULT,,0,0,0,,{\kf16}It{\kf24} shows{\kf20} no{\kf28} au{\kf20}then{\kf16}ti{\kf24}ci{\kf32}ty
-Dialogue: 0,0:02:20.14,0:02:22.56,DEFAULT,,0,0,0,,{\kf47}We{\kf24} want{\kf28} trans{\kf20}pa{\kf16}ren{\kf40}cy
-Dialogue: 0,0:02:22.72,0:02:24.86,DEFAULT,,0,0,0,,{\kf20}With{\kf20}out{\kf20} the{\kf32} sni{\kf20}dey{\kf32} i{\kf12}ro{\kf20}ny
-Dialogue: 0,0:02:25.06,0:02:27.56,DEFAULT,,0,0,0,,{\kf43}No{\kf40} shal{\kf16}low{\kf16} va{\kf24}ni{\kf43}ty
-Dialogue: 0,0:02:27.75,0:02:30.61,DEFAULT,,0,0,0,,{\kf12}We{\kf20} va{\kf24}lue{\kf24} our{\kf28} hu{\kf20}ma{\kf16}ni{\kf24}ty,{\kf55} yeah
-Dialogue: 0,0:02:31.04,0:02:32.56,DEFAULT,,0,0,0,,{\kf28}Let{\kf16} us{\kf16} set{\kf20} it{\kf36} free
-Dialogue: 0,0:02:32.72,0:02:35.61,DEFAULT,,0,0,0,,{\kf16}A{\kf20} kind{\kf16} of{\kf24} New{\kf32} Sin{\kf20}ce{\kf20}ri{\kf43}ty,{\kf47} yo
-Dialogue: 0,0:02:35.96,0:02:37.56,DEFAULT,,0,0,0,,{\kf12}The{\kf28} world{\kf12} that{\kf16} we{\kf20} can{\kf40} see
-Dialogue: 0,0:02:37.72,0:02:39.90,DEFAULT,,0,0,0,,{\kf16}It{\kf20} shows{\kf20} no{\kf28} au{\kf20}then{\kf16}ti{\kf16}ci{\kf32}ty
-Dialogue: 0,0:02:40.10,0:02:42.56,DEFAULT,,0,0,0,,{\kf43}We{\kf24} want{\kf24} trans{\kf20}pa{\kf20}ren{\kf40}cy
-Dialogue: 0,0:02:42.75,0:02:44.94,DEFAULT,,0,0,0,,{\kf16}With{\kf20}out{\kf12} the{\kf32} sni{\kf32}dey{\kf24} i{\kf16}ro{\kf32}ny
-Dialogue: 0,0:02:45.10,0:02:47.56,DEFAULT,,0,0,0,,{\kf40}No{\kf36} shal{\kf20}low{\kf16} va{\kf20}ni{\kf40}ty
-Dialogue: 0,0:02:47.72,0:02:50.64,DEFAULT,,0,0,0,,{\kf16}We{\kf24} va{\kf24}lue{\kf28} our{\kf24} hu{\kf20}ma{\kf20}ni{\kf40}ty,{\kf55} yeah
-Dialogue: 0,0:02:51.00,0:02:52.56,DEFAULT,,0,0,0,,{\kf32}Let{\kf16} us{\kf16} set{\kf16} it{\kf36} free
-Dialogue: 0,0:02:52.75,0:02:55.18,DEFAULT,,0,0,0,,{\kf12}A{\kf24} kind{\kf12} of{\kf32} New{\kf28} Sin{\kf20}ce{\kf20}ri{\kf51}ty
+Dialogue: 0,0:00:35.10,0:00:35.34,DEFAULT,,0,0,0,,{\r}{\kf23}Look
+Dialogue: 0,0:00:35.57,0:00:36.82,DEFAULT,,0,0,0,,{\r}{\kf11}You've{\kf17} been{\kf17} a{\kf28} sar{\kf28}cas{\kf24}tic
+Dialogue: 0,0:00:36.94,0:00:37.80,DEFAULT,,0,0,0,,{\r}{\kf25}Sharp{\kf35} spas{\kf26}tic
+Dialogue: 0,0:00:37.95,0:00:40.38,DEFAULT,,0,0,0,,{\r}{\kf25}Smart-{\kf25}ass{\kf30} jerk{\kf10} for{\kf20} so{\kf20} long{\kf15} you've{\kf25} turned{\kf35} plas{\kf37}tic
+Dialogue: 0,0:00:40.61,0:00:42.80,DEFAULT,,0,0,0,,{\r}{\kf10}Now{\kf15} let{\kf15} me{\kf15} tell{\kf15} you{\kf15} there's{\kf15} a{\kf20}no{\kf15}ther{\kf15} way{\kf15} to{\kf15} think{\kf15} of{\kf24} things
+Dialogue: 0,0:00:43.07,0:00:45.34,DEFAULT,,0,0,0,,{\r}{\kf19}In{\kf14}stead{\kf14} of{\kf19} ja{\kf14}ded{\kf19} and{\kf19} bit{\kf14}ter{\kf14} the{\kf14} way{\kf10} you've{\kf23} ha{\kf14}ted{\kf20} things
+Dialogue: 0,0:00:45.61,0:00:47.92,DEFAULT,,0,0,0,,{\r}{\kf14}This{\kf24} bile{\kf19} ve{\kf19}no{\kf14}mous{\kf14} e{\kf19}ne{\kf14}my{\kf14} that{\kf14} you've{\kf19} had{\kf14} to{\kf32} be
+Dialogue: 0,0:00:48.11,0:00:49.28,DEFAULT,,0,0,0,,{\r}{\kf15}It{\kf15} does{\kf15}n't{\kf20} have{\kf10} to{\kf15} be{\kf15} this{\kf12} way
+Dialogue: 0,0:00:49.36,0:00:50.38,DEFAULT,,0,0,0,,{\r}{\kf14}Be{\kf14}cause{\kf14} it's{\kf19} sad{\kf14} to{\kf27} see
+Dialogue: 0,0:00:50.77,0:00:51.47,DEFAULT,,0,0,0,,{\r}{\kf14}There's{\kf14} a{\kf28} move{\kf14}ment
+Dialogue: 0,0:00:51.55,0:00:53.70,DEFAULT,,0,0,0,,{\r}{\kf24}Dude's{\kf19} get{\kf19}ting{\kf19} at{\kf24}tuned{\kf14} to{\kf14} the{\kf14} root{\kf14} of{\kf19} e{\kf19}mo{\kf16}tions
+Dialogue: 0,0:00:53.77,0:00:55.42,DEFAULT,,0,0,0,,{\r}{\kf10}Say{\kf14}ing{\kf14} the{\kf23} truth{\kf18} as{\kf18} im{\kf36}prove{\kf31}ment
+Dialogue: 0,0:00:56.16,0:00:57.84,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf26} mean{\kf16} sin{\kf26}cere{\kf16} from{\kf16} the{\kf26} heart's{\kf32} core
+Dialogue: 0,0:00:58.07,0:01:00.42,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf20} mean{\kf15} be{\kf15}reft{\kf15} of{\kf15} the{\kf34} fear,{\kf15} and{\kf20} clear{\kf15}ly{\kf24} far{\kf36} more
+Dialogue: 0,0:01:00.57,0:01:02.49,DEFAULT,,0,0,0,,{\r}{\kf20}Say{\kf10} what{\kf15} you{\kf15} mean{\kf15} and{\kf20} tru{\kf20}ly{\kf20} mean{\kf15} what{\kf20} you{\kf21} say
+Dialogue: 0,0:01:02.76,0:01:03.66,DEFAULT,,0,0,0,,{\r}{\kf19}They're{\kf14} ho{\kf14}nest{\kf14} with{\kf14} their{\kf15} words
+Dialogue: 0,0:01:03.77,0:01:05.30,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf10} there's{\kf22} ear{\kf22}nes{\kf13}ty{\kf10} in{\kf13} their{\kf52} praise
+Dialogue: 0,0:01:05.73,0:01:07.88,DEFAULT,,0,0,0,,{\r}{\kf39}Yeah,{\kf17} so{\kf17} raise{\kf17} 'em{\kf22} up{\kf17} for{\kf22} this{\kf17} way{\kf17} of{\kf30} thought
+Dialogue: 0,0:01:08.11,0:01:10.42,DEFAULT,,0,0,0,,{\r}{\kf15}To{\kf15} wear{\kf10} your{\kf20} hearts{\kf15} on{\kf20} your{\kf24} sleeves{\kf15} is{\kf15} just{\kf20} say{\kf15}ing{\kf15} a{\kf31} lot
+Dialogue: 0,0:01:10.57,0:01:12.92,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf20} I{\kf15} ain't{\kf20} play{\kf10}ing,{\kf15} 'cause{\kf29} Rhyme{\kf20} Flow{\kf15} is{\kf20} sav{\kf10}ing{\kf15} a{\kf30} spot
+Dialogue: 0,0:01:13.11,0:01:15.42,DEFAULT,,0,0,0,,{\r}{\kf10}The{\kf15} New{\kf20} Sin{\kf20}ce{\kf15}ri{\kf20}ty{\kf24} plan{\kf15} that{\kf15} I'm{\kf15} aim{\kf10}ing{\kf15} to{\kf36} rock
+Dialogue: 0,0:01:15.85,0:01:17.52,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf43} world{\kf16} that{\kf16} we{\kf27} can{\kf44} see
+Dialogue: 0,0:01:17.68,0:01:19.99,DEFAULT,,0,0,0,,{\r}{\kf19}It{\kf28} shows{\kf33} no{\kf28} au{\kf33}then{\kf23}ti{\kf23}ci{\kf43}ty
+Dialogue: 0,0:01:20.14,0:01:22.60,DEFAULT,,0,0,0,,{\r}{\kf67}We{\kf34} want{\kf34} trans{\kf28}pa{\kf28}ren{\kf55}cy
+Dialogue: 0,0:01:22.76,0:01:24.95,DEFAULT,,0,0,0,,{\r}{\kf14}With{\kf29}out{\kf24} the{\kf33} sni{\kf33}dey{\kf29} i{\kf19}ro{\kf38}ny
+Dialogue: 0,0:01:25.10,0:01:27.60,DEFAULT,,0,0,0,,{\r}{\kf59}No{\kf48} shal{\kf27}low{\kf27} va{\kf27}ni{\kf62}ty
+Dialogue: 0,0:01:27.76,0:01:30.57,DEFAULT,,0,0,0,,{\r}{\kf14}We{\kf29} va{\kf29}lue{\kf29} our{\kf33} hu{\kf24}ma{\kf24}ni{\kf38}ty,{\kf61} yeah
+Dialogue: 0,0:01:31.04,0:01:32.52,DEFAULT,,0,0,0,,{\r}{\kf26}Let{\kf31} us{\kf20} set{\kf31} it{\kf40} free
+Dialogue: 0,0:01:32.68,0:01:35.22,DEFAULT,,0,0,0,,{\r}{\kf20}A{\kf25} kind{\kf15} of{\kf41} New{\kf36} Sin{\kf20}ce{\kf25}ri{\kf72}ty
+Dialogue: 0,0:01:35.61,0:01:37.21,DEFAULT,,0,0,0,,{\r}{\kf15}Get{\kf15} in{\kf15} your{\kf15} head{\kf10} and{\kf15} don't{\kf15} bet{\kf15} on{\kf15} the{\kf30} bad
+Dialogue: 0,0:01:37.29,0:01:38.11,DEFAULT,,0,0,0,,{\r}{\kf14}A{\kf24}ban{\kf10}don{\kf10} the{\kf24} fad
+Dialogue: 0,0:01:38.27,0:01:39.05,DEFAULT,,0,0,0,,{\r}{\kf15}Em{\kf15}bed{\kf15} in{\kf15} your{\kf18} mind
+Dialogue: 0,0:01:39.13,0:01:39.99,DEFAULT,,0,0,0,,{\r}{\kf24}Pre{\kf14}pare{\kf10} to{\kf14} be{\kf24} glad
+Dialogue: 0,0:01:40.10,0:01:42.49,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf15} was{\kf19} ja{\kf19}ded{\kf15} as{\kf15} the{\kf24} next{\kf24} man,{\kf19} just{\kf19} glar{\kf19}in{\kf10}gly{\kf25} mad
+Dialogue: 0,0:01:42.60,0:01:44.09,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf20} car{\kf15}ried{\kf15} the{\kf20} past{\kf15} on{\kf15} my{\kf20} shoul{\kf13}ders
+Dialogue: 0,0:01:44.17,0:01:45.02,DEFAULT,,0,0,0,,{\r}{\kf14}Des{\kf14}pair{\kf18}ing{\kf14}ly{\kf26} sad
+Dialogue: 0,0:01:45.14,0:01:45.30,DEFAULT,,0,0,0,,{\r}{\kf16}But
+Dialogue: 0,0:01:45.61,0:01:47.17,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf19} found{\kf10} I{\kf19} felt{\kf10} the{\kf19} fear{\kf19} fal{\kf14}ling{\kf19} a{\kf17}way
+Dialogue: 0,0:01:47.33,0:01:48.11,DEFAULT,,0,0,0,,{\r}{\kf14}I'll{\kf14} call{\kf14} it{\kf18} de{\kf18}cay
+Dialogue: 0,0:01:48.23,0:01:49.05,DEFAULT,,0,0,0,,{\r}{\kf20}Ap{\kf16}pal{\kf12}ling{\kf12}ly{\kf22} lost
+Dialogue: 0,0:01:49.17,0:01:49.99,DEFAULT,,0,0,0,,{\r}{\kf14}Not{\kf23} sor{\kf14}ry{\kf14} to{\kf17} say
+Dialogue: 0,0:01:50.14,0:01:51.70,DEFAULT,,0,0,0,,{\r}{\kf13}This{\kf17} sin{\kf17}ce{\kf17}ri{\kf13}ty{\kf17} ap{\kf17}pa{\kf13}rent{\kf13} in{\kf19} me
+Dialogue: 0,0:01:51.82,0:01:52.64,DEFAULT,,0,0,0,,{\r}{\kf14}This{\kf19} car{\kf10}ing{\kf19} in{\kf20} me
+Dialogue: 0,0:01:52.76,0:01:54.20,DEFAULT,,0,0,0,,{\r}{\kf19}Just{\kf14} star{\kf14}ing{\kf14} at{\kf14} me{\kf14} right{\kf14} in{\kf14} the{\kf28} face
+Dialogue: 0,0:01:54.32,0:01:55.14,DEFAULT,,0,0,0,,{\r}{\kf15}Just{\kf15} dar{\kf15}ing{\kf15} to{\kf22} be
+Dialogue: 0,0:01:55.22,0:01:55.42,DEFAULT,,0,0,0,,{\r}{\kf20}So
+Dialogue: 0,0:01:55.92,0:01:56.55,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf10} let{\kf14} it{\kf28} go
+Dialogue: 0,0:01:56.78,0:01:57.56,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf15} let{\kf15} it{\kf33} fly
+Dialogue: 0,0:01:57.80,0:01:59.95,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf15} let{\kf15} the{\kf24} truth{\kf20} from{\kf15} the{\kf15} soul{\kf15} I{\kf15} was{\kf24} hold{\kf15}in'{\kf20} in{\kf12}side
+Dialogue: 0,0:02:00.02,0:02:01.94,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf10} I{\kf15} can{\kf15} tell{\kf20} you{\kf15} it's{\kf15} a{\kf20} bles{\kf15}sing{\kf15} and{\kf15} a{\kf26} gift
+Dialogue: 0,0:02:02.17,0:02:03.77,DEFAULT,,0,0,0,,{\r}{\kf15}Be{\kf19}cause{\kf15} the{\kf19} weight{\kf19} pres{\kf15}sing{\kf19} on{\kf15} my{\kf24} heart
+Dialogue: 0,0:02:03.81,0:02:04.67,DEFAULT,,0,0,0,,{\r}{\kf14}It{\kf19} start{\kf14}ed{\kf14} to{\kf25} lift
+Dialogue: 0,0:02:04.79,0:02:05.61,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} start{\kf10}ed{\kf15} to{\kf27} drift
+Dialogue: 0,0:02:05.73,0:02:06.63,DEFAULT,,0,0,0,,{\r}{\kf14}This{\kf19} an{\kf14}ger{\kf14} I{\kf29} wore
+Dialogue: 0,0:02:06.74,0:02:07.52,DEFAULT,,0,0,0,,{\r}{\kf10}It{\kf15} start{\kf15}ed{\kf10} to{\kf28} rip
+Dialogue: 0,0:02:07.60,0:02:09.75,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf20} be{\kf20}neath{\kf20} spoke{\kf15} a{\kf20} ge{\kf15}nu{\kf15}ine{\kf15} part{\kf15} of{\kf15} the{\kf30} script
+Dialogue: 0,0:02:09.95,0:02:10.38,DEFAULT,,0,0,0,,{\r}{\kf17}It{\kf26} said:
+Dialogue: 0,0:02:10.61,0:02:12.41,DEFAULT,,0,0,0,,{\r}{\kf15}"Be{\kf10} true{\kf10} to{\kf26} your{\kf26}self,{\kf15} be{\kf21} ho{\kf15}nest{\kf15} and{\kf27} kind
+Dialogue: 0,0:02:12.49,0:02:14.99,DEFAULT,,0,0,0,,{\r}{\kf10}This{\kf13} new{\kf18} sin{\kf18}ce{\kf18}ri{\kf13}ty{\kf18} in{\kf18}he{\kf18}rent{\kf13}ly{\kf13} is{\kf13} brought{\kf13} in{\kf13} the{\kf41} mind"
+Dialogue: 0,0:02:15.10,0:02:15.49,DEFAULT,,0,0,0,,{\r}{\kf39}Yeah
+Dialogue: 0,0:02:15.85,0:02:17.52,DEFAULT,,0,0,0,,{\r}{\kf15}The{\kf41} world{\kf20} that{\kf15} we{\kf25} can{\kf52} see
+Dialogue: 0,0:02:17.68,0:02:19.95,DEFAULT,,0,0,0,,{\r}{\kf20}It{\kf30} shows{\kf25} no{\kf35} au{\kf25}then{\kf20}ti{\kf30}ci{\kf42}ty
+Dialogue: 0,0:02:20.14,0:02:22.56,DEFAULT,,0,0,0,,{\r}{\kf66}We{\kf33} want{\kf38} trans{\kf28}pa{\kf22}ren{\kf55}cy
+Dialogue: 0,0:02:22.72,0:02:24.87,DEFAULT,,0,0,0,,{\r}{\kf24}With{\kf24}out{\kf24} the{\kf39} sni{\kf24}dey{\kf39} i{\kf15}ro{\kf26}ny
+Dialogue: 0,0:02:25.06,0:02:27.56,DEFAULT,,0,0,0,,{\r}{\kf60}No{\kf54} shal{\kf22}low{\kf22} va{\kf33}ni{\kf59}ty
+Dialogue: 0,0:02:27.76,0:02:30.61,DEFAULT,,0,0,0,,{\r}{\kf15}We{\kf25} va{\kf31}lue{\kf31} our{\kf36} hu{\kf25}ma{\kf20}ni{\kf31}ty,{\kf71} yeah
+Dialogue: 0,0:02:31.04,0:02:32.56,DEFAULT,,0,0,0,,{\r}{\kf37}Let{\kf21} us{\kf21} set{\kf26} it{\kf47} free
+Dialogue: 0,0:02:32.72,0:02:35.61,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf24} kind{\kf19} of{\kf29} New{\kf39} Sin{\kf24}ce{\kf24}ri{\kf53}ty,{\kf58} yo
+Dialogue: 0,0:02:35.96,0:02:37.56,DEFAULT,,0,0,0,,{\r}{\kf15}The{\kf35} world{\kf15} that{\kf20} we{\kf25} can{\kf50} see
+Dialogue: 0,0:02:37.72,0:02:39.91,DEFAULT,,0,0,0,,{\r}{\kf21}It{\kf26} shows{\kf26} no{\kf36} au{\kf26}then{\kf21}ti{\kf21}ci{\kf42}ty
+Dialogue: 0,0:02:40.10,0:02:42.56,DEFAULT,,0,0,0,,{\r}{\kf63}We{\kf34} want{\kf34} trans{\kf29}pa{\kf29}ren{\kf57}cy
+Dialogue: 0,0:02:42.76,0:02:44.95,DEFAULT,,0,0,0,,{\r}{\kf19}With{\kf24}out{\kf14} the{\kf38} sni{\kf38}dey{\kf29} i{\kf19}ro{\kf38}ny
+Dialogue: 0,0:02:45.10,0:02:47.56,DEFAULT,,0,0,0,,{\r}{\kf57}No{\kf51} shal{\kf29}low{\kf23} va{\kf29}ni{\kf57}ty
+Dialogue: 0,0:02:47.72,0:02:50.65,DEFAULT,,0,0,0,,{\r}{\kf19}We{\kf28} va{\kf28}lue{\kf33} our{\kf28} hu{\kf23}ma{\kf23}ni{\kf47}ty,{\kf64} yeah
+Dialogue: 0,0:02:51.00,0:02:52.56,DEFAULT,,0,0,0,,{\r}{\kf43}Let{\kf22} us{\kf22} set{\kf22} it{\kf47} free
+Dialogue: 0,0:02:52.76,0:02:55.18,DEFAULT,,0,0,0,,{\r}{\kf15}A{\kf29} kind{\kf15} of{\kf39} New{\kf34} Sin{\kf24}ce{\kf24}ri{\kf62}ty

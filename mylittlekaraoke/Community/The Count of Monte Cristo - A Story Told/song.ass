@@ -1,72 +1,79 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: A Story Told
+Artist: The Count Of Monte Cristo
+Original Timing: mylittlekaraoke.com by RustyHeadphones
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:11.38,0:00:13.31,DEFAULT,,0,0,0,,{\kf24}We{\kf20} are{\kf30} friends,{\kf20} are{\kf20} we{\kf24} not?
-Dialogue: 0,0:00:13.64,0:00:15.81,DEFAULT,,0,0,0,,{\kf20}And{\kf24} our{\kf17} inte{\kf17}rests{\kf20} are{\kf14} the{\kf44} same
-Dialogue: 0,0:00:16.04,0:00:17.07,DEFAULT,,0,0,0,,{\kf14}We{\kf14} col{\kf20}la{\kf14}bo{\kf17}rate
-Dialogue: 0,0:00:17.20,0:00:20.06,DEFAULT,,0,0,0,,{\kf20}And{\kf17} trust{\kf17} in{\kf24} fate{\kf17} to{\kf14} par{\kf14}cel{\kf20} out{\kf20} the{\kf40} blame
-Dialogue: 0,0:00:20.26,0:00:22.12,DEFAULT,,0,0,0,,{\kf20}There{\kf24} are{\kf34} ends{\kf17} we've{\kf24} all{\kf20} got
-Dialogue: 0,0:00:22.49,0:00:24.59,DEFAULT,,0,0,0,,{\kf20}That{\kf20} can{\kf20} jus{\kf10}ti{\kf37}fy{\kf14} the{\kf40} means
-Dialogue: 0,0:00:24.95,0:00:26.05,DEFAULT,,0,0,0,,{\kf14}We{\kf14} ne{\kf17}go{\kf17}ti{\kf24}ate
-Dialogue: 0,0:00:26.15,0:00:28.94,DEFAULT,,0,0,0,,{\kf14}Then{\kf17} fa{\kf10}bri{\kf20}cate{\kf20} the{\kf17} facts{\kf14} be{\kf20}hind{\kf17} the{\kf47} scenes
-Dialogue: 0,0:00:29.91,0:00:33.76,DEFAULT,,0,0,0,,{\kf14}Kee{\kf10}ping{\kf20} all{\kf20} the{\kf17} de{\kf17}tails{\kf24} vague{\kf17} and{\kf30} se{\kf30}crets{\kf24} hi{\kf17}-i{\kf30}den
-Dialogue: 0,0:00:34.03,0:00:36.49,DEFAULT,,0,0,0,,{\kf24}Safe{\kf10} on{\kf10} the{\kf17} ba{\kf17}lanced{\kf20} sheet{\kf17} of{\kf20} those{\kf17} you{\kf27} trust
-Dialogue: 0,0:00:37.29,0:00:38.25,DEFAULT,,0,0,0,,{\kf50}Be{\kf37}cause
-Dialogue: 0,0:00:38.49,0:00:40.15,DEFAULT,,0,0,0,,{\kf14}His{\kf20}to{\kf17}ry{\kf10} is{\kf10} a{\kf14} sto{\kf14}ry{\kf14} told
-Dialogue: 0,0:00:40.28,0:00:42.28,DEFAULT,,0,0,0,,{\kf14}By{\kf17} the{\kf17} win{\kf17}ners{\kf10} of{\kf17} a{\kf64} fight
-Dialogue: 0,0:00:42.38,0:00:43.68,DEFAULT,,0,0,0,,{\kf10}You{\kf14} im{\kf14}ply{\kf7} a{\kf7} lit{\kf10}tle,{\kf10} lie{\kf7} a{\kf10} lit{\kf10}tle
-Dialogue: 0,0:00:43.77,0:00:44.71,DEFAULT,,0,0,0,,{\kf7}Tes{\kf7}ti{\kf10}fy{\kf10} and{\kf10} try{\kf7} a{\kf7} lit{\kf7}tle
-Dialogue: 0,0:00:44.84,0:00:45.67,DEFAULT,,0,0,0,,{\kf44}Sai{\kf34}lor
-Dialogue: 0,0:00:46.93,0:00:48.63,DEFAULT,,0,0,0,,{\kf14}Who's{\kf10} gon{\kf10}na{\kf14} ques{\kf17}tion{\kf14} what{\kf17} goes{\kf10} on
-Dialogue: 0,0:00:48.73,0:00:50.49,DEFAULT,,0,0,0,,{\kf17}In{\kf10} the{\kf17} mid{\kf20}dle{\kf17} of{\kf17} the{\kf40} night?
-Dialogue: 0,0:00:50.86,0:00:51.86,DEFAULT,,0,0,0,,{\kf10}Not{\kf7} a{\kf10} tin{\kf10}ker,{\kf7} Not{\kf10} a{\kf10} tai{\kf7}lor
-Dialogue: 0,0:00:51.92,0:00:52.89,DEFAULT,,0,0,0,,{\kf14}Not{\kf7} his{\kf10} fa{\kf7}ther{\kf10} or{\kf10} Mer{\kf14}ce{\kf7}des
-Dialogue: 0,0:00:52.99,0:00:54.05,DEFAULT,,0,0,0,,{\kf7}Or{\kf10} a{\kf37} jai{\kf30}lor
-Dialogue: 0,0:00:56.94,0:00:58.94,DEFAULT,,0,0,0,,{\kf17}So{\kf24} we{\kf40} all{\kf24} are{\kf20} a{\kf30}greed
-Dialogue: 0,0:00:59.14,0:01:01.07,DEFAULT,,0,0,0,,{\kf14}Lets{\kf17} be{\kf17} vi{\kf17}gi{\kf27}lant{\kf17} and{\kf27} wise
-Dialogue: 0,0:01:01.50,0:01:03.60,DEFAULT,,0,0,0,,{\kf14}We{\kf14} must{\kf24} all{\kf14} pre{\kf14}tend{\kf14} our{\kf20} na{\kf17}ive{\kf14} friend
-Dialogue: 0,0:01:03.73,0:01:05.42,DEFAULT,,0,0,0,,{\kf20}Was{\kf20} caught{\kf7} in{\kf10} his{\kf17} o{\kf14}-own{\kf17} li{\kf14} -ies
-Dialogue: 0,0:01:05.86,0:01:07.59,DEFAULT,,0,0,0,,{\kf14}For{\kf14} our{\kf34} plan{\kf7} to{\kf14} suc{\kf30}ceed
-Dialogue: 0,0:01:07.99,0:01:09.58,DEFAULT,,0,0,0,,{\kf10}We{\kf10} must{\kf24} share{\kf10} but{\kf24} one{\kf17} be{\kf30}lief
-Dialogue: 0,0:01:10.21,0:01:12.48,DEFAULT,,0,0,0,,{\kf14}Ed{\kf17}mund{\kf14} Dan{\kf17}tes{\kf24} stays{\kf20} and{\kf20} ends{\kf17} his{\kf14} days
-Dialogue: 0,0:01:12.61,0:01:14.54,DEFAULT,,0,0,0,,{\kf20}In{\kf24}side{\kf20} the{\kf14} Ch√¢{\kf20}teau{\kf34} d'If
-Dialogue: 0,0:01:15.14,0:01:16.70,DEFAULT,,0,0,0,,{\kf10}Where{\kf10} the{\kf17} sof{\kf17}test{\kf17} things{\kf17} he'll{\kf14} touch
-Dialogue: 0,0:01:16.83,0:01:18.86,DEFAULT,,0,0,0,,{\kf14}Are{\kf44} stones{\kf24} and{\kf24} da{\kf14} -ark{\kf10}ness
-Dialogue: 0,0:01:19.33,0:01:22.45,DEFAULT,,0,0,0,,{\kf20}Deep{\kf10} in{\kf14} the{\kf24} crag{\kf20}gy{\kf20} isle{\kf20} and{\kf27} dun{\kf30}geon's{\kf57} keep
-Dialogue: 0,0:01:22.72,0:01:23.55,DEFAULT,,0,0,0,,{\kf40}Be{\kf30}cause
-Dialogue: 0,0:01:23.82,0:01:25.51,DEFAULT,,0,0,0,,{\kf20}His{\kf10}to{\kf14}ry{\kf10} is{\kf17} a{\kf24} sto{\kf14}ry{\kf17} told
-Dialogue: 0,0:01:25.64,0:01:27.21,DEFAULT,,0,0,0,,{\kf7}By{\kf10} the{\kf17} men{\kf20} who{\kf17} make{\kf24} the{\kf20} laws
-Dialogue: 0,0:01:27.71,0:01:28.64,DEFAULT,,0,0,0,,{\kf10}We{\kf7} sup{\kf10}ply{\kf10} a{\kf10} lit{\kf7}tle{\kf14} lie
-Dialogue: 0,0:01:28.70,0:01:31.36,DEFAULT,,0,0,0,,{\kf7}To{\kf14} help{\kf10} the{\kf7} gul{\kf7}li{\kf10}ble{\kf7} to{\kf10} buy{\kf10} a{\kf10} lit{\kf7}tle{\kf50} fa{\kf60}ble
-Dialogue: 0,0:01:32.26,0:01:34.03,DEFAULT,,0,0,0,,{\kf17}What{\kf7} will{\kf7} be{\kf20}come{\kf7} of{\kf7} the{\kf24} righ{\kf14}teous{\kf17} men
-Dialogue: 0,0:01:34.19,0:01:35.95,DEFAULT,,0,0,0,,{\kf14}Who{\kf24} fa{\kf20}shioned{\kf17} Dan{\kf10}tes'{\kf47} flaws?
-Dialogue: 0,0:01:36.32,0:01:37.22,DEFAULT,,0,0,0,,{\kf10}The{\kf14} rich{\kf10} and{\kf7} well{\kf7} res{\kf7}pec{\kf10}ted
-Dialogue: 0,0:01:37.28,0:01:39.78,DEFAULT,,0,0,0,,{\kf10}Are{\kf7} no{\kf14} more{\kf7} to{\kf7} be{\kf10} re{\kf10}jec{\kf7}ted{\kf10} at{\kf10} our{\kf44} ta{\kf60}ble
-Dialogue: 0,0:01:40.84,0:01:44.83,DEFAULT,,0,0,0,,{\kf20}I'll{\kf10} be{\kf10} a{\kf14} com{\kf20}fort{\kf17} in{\kf20} her{\kf27} time{\kf14} of{\kf37} grief{\kf54} and{\kf44} an{\kf17}guish
-Dialogue: 0,0:01:45.07,0:01:47.96,DEFAULT,,0,0,0,,{\kf17}I'll{\kf10} be{\kf17} Mer{\kf17}ce{\kf14}des'{\kf27} e{\kf14}ver{\kf20} faith{\kf17}ful{\kf10} a{\kf10}co{\kf34}lyte
-Dialogue: 0,0:01:48.23,0:01:48.89,DEFAULT,,0,0,0,,{\kf14}E{\kf14}very{\kf34} night
-Dialogue: 0,0:01:49.22,0:01:53.61,DEFAULT,,0,0,0,,{\kf20}A{\kf17} part{\kf10} of{\kf10} me{\kf14} wi{\kf17}shes{\kf20} Dan{\kf14}tes{\kf24} did{\kf20}n't{\kf27} have{\kf44} to{\kf37} lan{\kf34}guish
-Dialogue: 0,0:01:53.85,0:01:55.28,DEFAULT,,0,0,0,,{\kf17}But{\kf10} I{\kf10} can{\kf17} see{\kf14} it's{\kf10} him{\kf10} or{\kf14} me
-Dialogue: 0,0:01:55.41,0:01:57.34,DEFAULT,,0,0,0,,{\kf17}Let{\kf17} him{\kf17} sit{\kf10} there{\kf10} and{\kf20} rot{\kf14} till{\kf7} he's{\kf10} for{\kf10}got{\kf10}ten
-Dialogue: 0,0:01:57.50,0:01:59.90,DEFAULT,,0,0,0,,{\kf17}Let{\kf24} him{\kf17} ro{\kf167}-ot!
-Dialogue: 0,0:02:00.10,0:02:01.76,DEFAULT,,0,0,0,,{\kf24}Hi{\kf7}sto{\kf14}ry{\kf14} is{\kf17} a{\kf24} sto{\kf17}ry{\kf14} told
-Dialogue: 0,0:02:01.89,0:02:03.82,DEFAULT,,0,0,0,,{\kf10}By{\kf7} the{\kf20} peo{\kf24}ple{\kf17} who{\kf24} sur{\kf57}vive
-Dialogue: 0,0:02:03.99,0:02:04.95,DEFAULT,,0,0,0,,{\kf10}Let{\kf7} me{\kf10} sign{\kf7} and{\kf7} then{\kf7} i{\kf7}ni{\kf7}tial
-Dialogue: 0,0:02:05.02,0:02:07.28,DEFAULT,,0,0,0,,{\kf7}It's{\kf7} the{\kf14} truth{\kf7} if{\kf14} it's{\kf10} of{\kf10}fi{\kf7}cial{\kf10}ly{\kf20} the{\kf20} sto{\kf37}ry
-Dialogue: 0,0:02:08.48,0:02:10.18,DEFAULT,,0,0,0,,{\kf24}What{\kf10} if{\kf14} the{\kf14} cost{\kf14} is{\kf20} one{\kf14} young{\kf14} man
-Dialogue: 0,0:02:10.31,0:02:12.10,DEFAULT,,0,0,0,,{\kf10}So{\kf10} three{\kf20} more{\kf14} men{\kf17} can{\kf17} sur{\kf40}vive?
-Dialogue: 0,0:02:12.34,0:02:13.27,DEFAULT,,0,0,0,,{\kf10}He's{\kf14} a{\kf17} price{\kf7} we{\kf10} have{\kf7} to{\kf7} pay
-Dialogue: 0,0:02:13.30,0:02:16.06,DEFAULT,,0,0,0,,{\kf7}To{\kf10} live{\kf10} and{\kf10} fight{\kf10} a{\kf10}no{\kf10}ther{\kf10} day{\kf10} for{\kf14} love{\kf17} and{\kf40} glo{\kf60}ry
-Dialogue: 0,0:02:16.86,0:02:17.66,DEFAULT,,0,0,0,,{\kf10}He{\kf7} was{\kf10} stan{\kf7}ding{\kf7} in{\kf7} the{\kf7} way
-Dialogue: 0,0:02:17.72,0:02:19.12,DEFAULT,,0,0,0,,{\kf7}Of{\kf14} pre{\kf10}cious{\kf10} jus{\kf10}tice{\kf10} set{\kf10} on{\kf37} sail
-Dialogue: 0,0:02:19.22,0:02:20.88,DEFAULT,,0,0,0,,{\kf20}So{\kf20} goes{\kf20} the{\kf44} sto{\kf34}ry
-Dialogue: 0,0:02:21.28,0:02:23.08,DEFAULT,,0,0,0,,{\kf20}Stick{\kf17} to{\kf17} the{\kf44} sto{\kf47}ry
-Dialogue: 0,0:02:23.38,0:02:26.57,DEFAULT,,0,0,0,,{\kf20}Here{\kf17} ends{\kf17} the{\kf47} sto{\kf180}ry!
+Dialogue: 0,0:00:11.39,0:00:13.32,DEFAULT,,0,0,0,,{\r}{\kf33}We{\kf28} are{\kf42} friends,{\kf28} are{\kf28} we{\kf34} not?
+Dialogue: 0,0:00:13.65,0:00:15.81,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf33} our{\kf23} inte{\kf23}rests{\kf28} are{\kf19} the{\kf62} same
+Dialogue: 0,0:00:16.04,0:00:17.07,DEFAULT,,0,0,0,,{\r}{\kf18}We{\kf18} col{\kf27}la{\kf18}bo{\kf22}rate
+Dialogue: 0,0:00:17.21,0:00:20.07,DEFAULT,,0,0,0,,{\r}{\kf29}And{\kf24} trust{\kf24} in{\kf33} fate{\kf24} to{\kf19} par{\kf19}cel{\kf29} out{\kf29} the{\kf56} blame
+Dialogue: 0,0:00:20.27,0:00:22.13,DEFAULT,,0,0,0,,{\r}{\kf27}There{\kf32} are{\kf45} ends{\kf23} we've{\kf32} all{\kf27} got
+Dialogue: 0,0:00:22.50,0:00:24.59,DEFAULT,,0,0,0,,{\r}{\kf26}That{\kf26} can{\kf26} jus{\kf13}ti{\kf48}fy{\kf18} the{\kf53} means
+Dialogue: 0,0:00:24.96,0:00:26.05,DEFAULT,,0,0,0,,{\r}{\kf18}We{\kf18} ne{\kf22}go{\kf22}ti{\kf30}ate
+Dialogue: 0,0:00:26.15,0:00:28.95,DEFAULT,,0,0,0,,{\r}{\kf19}Then{\kf24} fa{\kf14}bri{\kf29}cate{\kf29} the{\kf24} facts{\kf19} be{\kf29}hind{\kf24} the{\kf68} scenes
+Dialogue: 0,0:00:29.91,0:00:33.77,DEFAULT,,0,0,0,,{\r}{\kf19}Kee{\kf14}ping{\kf29} all{\kf29} the{\kf24} de{\kf24}tails{\kf34} vague{\kf24} and{\kf43} se{\kf43}crets{\kf34} hi{\kf24}-i{\kf45}den
+Dialogue: 0,0:00:34.04,0:00:36.50,DEFAULT,,0,0,0,,{\r}{\kf32}Safe{\kf14} on{\kf14} the{\kf23} ba{\kf23}lanced{\kf28} sheet{\kf23} of{\kf28} those{\kf23} you{\kf38} trust
+Dialogue: 0,0:00:37.29,0:00:38.26,DEFAULT,,0,0,0,,{\r}{\kf55}Be{\kf41}cause
+Dialogue: 0,0:00:38.49,0:00:40.15,DEFAULT,,0,0,0,,{\r}{\kf20}His{\kf30}to{\kf25}ry{\kf15} is{\kf15} a{\kf20} sto{\kf20}ry{\kf21} told
+Dialogue: 0,0:00:40.29,0:00:42.28,DEFAULT,,0,0,0,,{\r}{\kf17}By{\kf22} the{\kf22} win{\kf22}ners{\kf13} of{\kf22} a{\kf82} fight
+Dialogue: 0,0:00:42.38,0:00:43.68,DEFAULT,,0,0,0,,{\r}{\kf13}You{\kf18} im{\kf18}ply{\kf10} a{\kf10} lit{\kf13}tle,{\kf13} lie{\kf10} a{\kf13} lit{\kf12}tle
+Dialogue: 0,0:00:43.78,0:00:44.71,DEFAULT,,0,0,0,,{\r}{\kf10}Tes{\kf10}ti{\kf15}fy{\kf15} and{\kf15} try{\kf10} a{\kf10} lit{\kf10}tle
+Dialogue: 0,0:00:44.84,0:00:45.68,DEFAULT,,0,0,0,,{\r}{\kf47}Sai{\kf36}lor
+Dialogue: 0,0:00:46.94,0:00:48.64,DEFAULT,,0,0,0,,{\r}{\kf22}Who's{\kf16} gon{\kf16}na{\kf22} ques{\kf27}tion{\kf22} what{\kf27} goes{\kf18} on
+Dialogue: 0,0:00:48.74,0:00:50.50,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf13} the{\kf21} mid{\kf26}dle{\kf21} of{\kf21} the{\kf53} night?
+Dialogue: 0,0:00:50.86,0:00:51.86,DEFAULT,,0,0,0,,{\r}{\kf14}Not{\kf10} a{\kf14} tin{\kf14}ker,{\kf10} Not{\kf14} a{\kf14} tai{\kf10}lor
+Dialogue: 0,0:00:51.93,0:00:52.89,DEFAULT,,0,0,0,,{\r}{\kf17}Not{\kf10} his{\kf13} fa{\kf10}ther{\kf13} or{\kf13} Mer{\kf17}ce{\kf10}des
+Dialogue: 0,0:00:52.99,0:00:54.06,DEFAULT,,0,0,0,,{\r}{\kf10}Or{\kf13} a{\kf47} jai{\kf36}lor
+Dialogue: 0,0:00:56.95,0:00:58.94,DEFAULT,,0,0,0,,{\r}{\kf22}So{\kf30} we{\kf52} all{\kf30} are{\kf26} a{\kf40}greed
+Dialogue: 0,0:00:59.14,0:01:01.07,DEFAULT,,0,0,0,,{\r}{\kf19}Lets{\kf24} be{\kf24} vi{\kf24}gi{\kf39}lant{\kf24} and{\kf39} wise
+Dialogue: 0,0:01:01.51,0:01:03.60,DEFAULT,,0,0,0,,{\r}{\kf20}We{\kf20} must{\kf35} all{\kf20} pre{\kf20}tend{\kf20} our{\kf30} na{\kf25}ive{\kf20} friend
+Dialogue: 0,0:01:03.73,0:01:05.43,DEFAULT,,0,0,0,,{\r}{\kf29}Was{\kf29} caught{\kf10} in{\kf15} his{\kf24} o{\kf19}-own{\kf24} li{\kf20} -ies
+Dialogue: 0,0:01:05.86,0:01:07.59,DEFAULT,,0,0,0,,{\r}{\kf21}For{\kf21} our{\kf52} plan{\kf10} to{\kf21} suc{\kf48}ceed
+Dialogue: 0,0:01:07.99,0:01:09.59,DEFAULT,,0,0,0,,{\r}{\kf13}We{\kf13} must{\kf30} share{\kf13} but{\kf30} one{\kf22} be{\kf39}lief
+Dialogue: 0,0:01:10.22,0:01:12.48,DEFAULT,,0,0,0,,{\r}{\kf20}Ed{\kf25}mund{\kf20} Dan{\kf25}tes{\kf34} stays{\kf29} and{\kf29} ends{\kf25} his{\kf19} days
+Dialogue: 0,0:01:12.61,0:01:14.54,DEFAULT,,0,0,0,,{\r}{\kf30}In{\kf35}side{\kf30} the{\kf20} Ch√¢{\kf30}teau{\kf48} d'If
+Dialogue: 0,0:01:15.14,0:01:16.70,DEFAULT,,0,0,0,,{\r}{\kf16}Where{\kf16} the{\kf26} sof{\kf26}test{\kf26} things{\kf26} he'll{\kf20} touch
+Dialogue: 0,0:01:16.84,0:01:18.87,DEFAULT,,0,0,0,,{\r}{\kf21}Are{\kf69} stones{\kf37} and{\kf37} da{\kf21} -ark{\kf18}ness
+Dialogue: 0,0:01:19.33,0:01:22.46,DEFAULT,,0,0,0,,{\r}{\kf26}Deep{\kf13} in{\kf17} the{\kf30} crag{\kf26}gy{\kf26} isle{\kf26} and{\kf35} dun{\kf39}geon's{\kf75} keep
+Dialogue: 0,0:01:22.72,0:01:23.55,DEFAULT,,0,0,0,,{\r}{\kf47}Be{\kf36}cause
+Dialogue: 0,0:01:23.82,0:01:25.52,DEFAULT,,0,0,0,,{\r}{\kf28}His{\kf14}to{\kf18}ry{\kf14} is{\kf23} a{\kf32} sto{\kf18}ry{\kf23} told
+Dialogue: 0,0:01:25.65,0:01:27.21,DEFAULT,,0,0,0,,{\r}{\kf10}By{\kf14} the{\kf23} men{\kf28} who{\kf23} make{\kf32} the{\kf26} laws
+Dialogue: 0,0:01:27.71,0:01:28.64,DEFAULT,,0,0,0,,{\r}{\kf14}We{\kf10} sup{\kf14}ply{\kf14} a{\kf14} lit{\kf10}tle{\kf17} lie
+Dialogue: 0,0:01:28.71,0:01:31.37,DEFAULT,,0,0,0,,{\r}{\kf10}To{\kf17} help{\kf13} the{\kf10} gul{\kf10}li{\kf13}ble{\kf10} to{\kf13} buy{\kf13} a{\kf13} lit{\kf10}tle{\kf64} fa{\kf70}ble
+Dialogue: 0,0:01:32.27,0:01:34.03,DEFAULT,,0,0,0,,{\r}{\kf25}What{\kf10} will{\kf10} be{\kf30}come{\kf10} of{\kf10} the{\kf35} righ{\kf20}teous{\kf26} men
+Dialogue: 0,0:01:34.20,0:01:35.96,DEFAULT,,0,0,0,,{\r}{\kf18}Who{\kf32} fa{\kf27}shioned{\kf23} Dan{\kf14}tes'{\kf62} flaws?
+Dialogue: 0,0:01:36.33,0:01:37.22,DEFAULT,,0,0,0,,{\r}{\kf14}The{\kf19} rich{\kf14} and{\kf10} well{\kf10} res{\kf10}pec{\kf13}ted
+Dialogue: 0,0:01:37.29,0:01:39.78,DEFAULT,,0,0,0,,{\r}{\kf13}Are{\kf10} no{\kf17} more{\kf10} to{\kf10} be{\kf13} re{\kf13}jec{\kf10}ted{\kf13} at{\kf13} our{\kf56} ta{\kf71}ble
+Dialogue: 0,0:01:40.85,0:01:44.84,DEFAULT,,0,0,0,,{\r}{\kf27}I'll{\kf13} be{\kf13} a{\kf18} com{\kf27}fort{\kf22} in{\kf27} her{\kf35} time{\kf18} of{\kf49} grief{\kf71} and{\kf58} an{\kf21}guish
+Dialogue: 0,0:01:45.07,0:01:47.96,DEFAULT,,0,0,0,,{\r}{\kf24}I'll{\kf14} be{\kf24} Mer{\kf24}ce{\kf19}des'{\kf38} e{\kf19}ver{\kf28} faith{\kf24}ful{\kf14} a{\kf14}co{\kf47}lyte
+Dialogue: 0,0:01:48.23,0:01:48.90,DEFAULT,,0,0,0,,{\r}{\kf15}E{\kf15}very{\kf37} night
+Dialogue: 0,0:01:49.23,0:01:53.62,DEFAULT,,0,0,0,,{\r}{\kf29}A{\kf24} part{\kf14} of{\kf14} me{\kf19} wi{\kf24}shes{\kf29} Dan{\kf19}tes{\kf34} did{\kf29}n't{\kf39} have{\kf63} to{\kf53} lan{\kf49}guish
+Dialogue: 0,0:01:53.85,0:01:55.28,DEFAULT,,0,0,0,,{\r}{\kf24}But{\kf14} I{\kf14} can{\kf24} see{\kf19} it's{\kf14} him{\kf14} or{\kf20} me
+Dialogue: 0,0:01:55.41,0:01:57.34,DEFAULT,,0,0,0,,{\r}{\kf23}Let{\kf23} him{\kf23} sit{\kf14} there{\kf14} and{\kf28} rot{\kf18} till{\kf10} he's{\kf14} for{\kf14}got{\kf12}ten
+Dialogue: 0,0:01:57.51,0:01:59.90,DEFAULT,,0,0,0,,{\r}{\kf18}Let{\kf25} him{\kf18} ro{\kf178}-ot!
+Dialogue: 0,0:02:00.10,0:02:01.77,DEFAULT,,0,0,0,,{\r}{\kf31}Hi{\kf10}sto{\kf17}ry{\kf17} is{\kf22} a{\kf31} sto{\kf22}ry{\kf16} told
+Dialogue: 0,0:02:01.90,0:02:03.83,DEFAULT,,0,0,0,,{\r}{\kf12}By{\kf10} the{\kf25} peo{\kf29}ple{\kf21} who{\kf29} sur{\kf67}vive
+Dialogue: 0,0:02:03.99,0:02:04.96,DEFAULT,,0,0,0,,{\r}{\kf16}Let{\kf11} me{\kf16} sign{\kf11} and{\kf11} then{\kf11} i{\kf11}ni{\kf10}tial
+Dialogue: 0,0:02:05.03,0:02:07.29,DEFAULT,,0,0,0,,{\r}{\kf10}It's{\kf10} the{\kf19} truth{\kf10} if{\kf19} it's{\kf14} of{\kf14}fi{\kf10}cial{\kf14}ly{\kf28} the{\kf28} sto{\kf50}ry
+Dialogue: 0,0:02:08.48,0:02:10.18,DEFAULT,,0,0,0,,{\r}{\kf33}What{\kf14} if{\kf19} the{\kf19} cost{\kf19} is{\kf28} one{\kf19} young{\kf19} man
+Dialogue: 0,0:02:10.31,0:02:12.11,DEFAULT,,0,0,0,,{\r}{\kf14}So{\kf14} three{\kf28} more{\kf19} men{\kf24} can{\kf24} sur{\kf57}vive?
+Dialogue: 0,0:02:12.34,0:02:13.27,DEFAULT,,0,0,0,,{\r}{\kf13}He's{\kf18} a{\kf22} price{\kf10} we{\kf13} have{\kf10} to{\kf10} pay
+Dialogue: 0,0:02:13.31,0:02:16.07,DEFAULT,,0,0,0,,{\r}{\kf10}To{\kf13} live{\kf13} and{\kf13} fight{\kf13} a{\kf13}no{\kf13}ther{\kf13} day{\kf13} for{\kf17} love{\kf21} and{\kf51} glo{\kf73}ry
+Dialogue: 0,0:02:16.86,0:02:17.66,DEFAULT,,0,0,0,,{\r}{\kf15}He{\kf10} was{\kf15} stan{\kf10}ding{\kf10} in{\kf10} the{\kf10} way
+Dialogue: 0,0:02:17.73,0:02:19.13,DEFAULT,,0,0,0,,{\r}{\kf10}Of{\kf18} pre{\kf13}cious{\kf13} jus{\kf13}tice{\kf13} set{\kf13} on{\kf47} sail
+Dialogue: 0,0:02:19.23,0:02:20.89,DEFAULT,,0,0,0,,{\r}{\kf24}So{\kf24} goes{\kf24} the{\kf53} sto{\kf41}ry
+Dialogue: 0,0:02:21.29,0:02:23.08,DEFAULT,,0,0,0,,{\r}{\kf25}Stick{\kf21} to{\kf21} the{\kf54} sto{\kf59}ry
+Dialogue: 0,0:02:23.38,0:02:26.58,DEFAULT,,0,0,0,,{\r}{\kf23}Here{\kf19} ends{\kf19} the{\kf53} sto{\kf205}ry!

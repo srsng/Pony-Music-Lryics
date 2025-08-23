@@ -1,47 +1,54 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: My Letter to the Princess
+Artist: Vylet Pony
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:22.60,0:00:25.78,DEFAULT,,0,0,0,,{\kf28}Dear{\kf60}~{\kf19}~{\kf47} Prin{\kf102}cess
-Dialogue: 0,0:00:26.93,0:00:29.83,DEFAULT,,0,0,0,,{\kf37}Are{\kf70}~{\kf37} you{\kf97} there?
-Dialogue: 0,0:00:31.39,0:00:34.75,DEFAULT,,0,0,0,,{\kf24}I've{\kf65}~{\kf37} been{\kf83} wait{\kf70}ing
-Dialogue: 0,0:00:36.04,0:00:38.57,DEFAULT,,0,0,0,,{\kf33}Wait{\kf47}ing{\kf24} for{\kf28} you{\kf56} here
-Dialogue: 0,0:00:40.32,0:00:44.74,DEFAULT,,0,0,0,,{\kf28}Time{\kf47}~{\kf24} has{\kf24}~{\kf51} come{\kf19} for{\kf19} a{\kf37} new{\kf60} world
-Dialogue: 0,0:00:45.47,0:00:49.06,DEFAULT,,0,0,0,,{\kf37}Don't{\kf24} wan{\kf14}~{\kf42}der{\kf37} in{\kf28} the{\kf19}~{\kf14}~{\kf70} past
-Dialogue: 0,0:00:51.27,0:00:54.44,DEFAULT,,0,0,0,,{\kf19}Ne{\kf19}ver{\kf28} knew{\kf28} that{\kf42} I{\kf33} was{\kf19} rea{\kf42}dy
-Dialogue: 0,0:00:55.27,0:00:57.85,DEFAULT,,0,0,0,,{\kf14}It{\kf28} came{\kf33} on{\kf51} so{\kf19} fast{\kf37}~
-Dialogue: 0,0:01:17.04,0:01:20.30,DEFAULT,,0,0,0,,{\kf24}You've{\kf37} made{\kf33} a{\kf51} king{\kf33}~{\kf65}dom
-Dialogue: 0,0:01:21.41,0:01:25.36,DEFAULT,,0,0,0,,{\kf24}That{\kf28} will{\kf33} last{\kf19} till{\kf28} the{\kf19} end{\kf42}~{\kf33} of{\kf19} time{\kf51}~
-Dialogue: 0,0:01:26.01,0:01:29.46,DEFAULT,,0,0,0,,{\kf19}To{\kf24} tell{\kf24} you{\kf19} that{\kf24} you've{\kf24} raised{\kf19}~{\kf37} me{\kf60} high
-Dialogue: 0,0:01:30.20,0:01:32.45,DEFAULT,,0,0,0,,{\kf19}In{\kf19} my{\kf19} let{\kf19}ter{\kf28} to{\kf51} you
-Dialogue: 0,0:02:10.92,0:02:14.23,DEFAULT,,0,0,0,,{\kf24}From{\kf37} sea{\kf14} to{\kf19}~{\kf47} shin{\kf37}ing{\kf74} sea
-Dialogue: 0,0:02:15.47,0:02:18.46,DEFAULT,,0,0,0,,{\kf19}We{\kf24} car{\kf10}~{\kf33}ry{\kf42} me{\kf47}mo{\kf51}ries
-Dialogue: 0,0:02:18.83,0:02:21.87,DEFAULT,,0,0,0,,{\kf19}From{\kf129} e{\kf51}very{\kf56}where
-Dialogue: 0,0:02:22.51,0:02:26.38,DEFAULT,,0,0,0,,{\kf19}E{\kf19}very{\kf19}crea{\kf24}ture{\kf139} knows{\kf24} their{\kf19}~{\kf51} time
-Dialogue: 0,0:02:28.08,0:02:31.67,DEFAULT,,0,0,0,,{\kf24}Dear{\kf175}~{\kf24} Prin{\kf24}~{\kf70}cess
-Dialogue: 0,0:02:32.31,0:02:35.49,DEFAULT,,0,0,0,,{\kf19}The{\kf143} time{\kf47} has{\kf65} come
-Dialogue: 0,0:02:36.73,0:02:40.13,DEFAULT,,0,0,0,,{\kf24}For{\kf125} you{\kf19}~{\kf42} to{\kf83} go
-Dialogue: 0,0:02:41.24,0:02:44.78,DEFAULT,,0,0,0,,{\kf19}The{\kf125} bat{\kf24}~{\kf42}tle's{\kf97} won
-Dialogue: 0,0:03:23.06,0:03:26.88,DEFAULT,,0,0,0,,{\kf33}Prin{\kf28}cess{\kf24} please{\kf28} wipe{\kf28} these{\kf37} tears{\kf24} from{\kf24} my{\kf74} eyes
-Dialogue: 0,0:03:27.25,0:03:31.07,DEFAULT,,0,0,0,,{\kf19}I{\kf19} don't{\kf19} know{\kf19} if{\kf47} I{\kf19} can{\kf24} let{\kf24}~{\kf19} go{\kf42}~{\kf24}~
-Dialogue: 0,0:03:31.76,0:03:34.20,DEFAULT,,0,0,0,,{\kf14}And{\kf19} e{\kf19}very{\kf24}thing{\kf19} I've{\kf19} e{\kf19}ver{\kf56} known
-Dialogue: 0,0:03:34.57,0:03:38.11,DEFAULT,,0,0,0,,{\kf33}Came{\kf24} from{\kf106} you{\kf93}~{\kf47}~
-Dialogue: 0,0:03:39.54,0:03:43.22,DEFAULT,,0,0,0,,{\kf19}So{\kf33} Prin{\kf28}cess{\kf244} please
-Dialogue: 0,0:03:44.37,0:03:47.40,DEFAULT,,0,0,0,,{\kf28}I{\kf28} don't{\kf33} want{\kf28} to{\kf129} go
-Dialogue: 0,0:03:48.51,0:03:52.28,DEFAULT,,0,0,0,,{\kf24}I've{\kf28} learned{\kf47} so{\kf226} much
-Dialogue: 0,0:03:53.02,0:03:56.65,DEFAULT,,0,0,0,,{\kf19}I'll{\kf24} car{\kf19}ry{\kf19} it{\kf37} all{\kf47} for{\kf37}e{\kf83}ver
-Dialogue: 0,0:03:57.80,0:04:01.58,DEFAULT,,0,0,0,,{\kf185}Dear{\kf51} Prin{\kf97}cess
-Dialogue: 0,0:04:01.94,0:04:05.67,DEFAULT,,0,0,0,,{\kf28}We'll{\kf143} try{\kf42} our{\kf116} best
-Dialogue: 0,0:04:06.36,0:04:10.23,DEFAULT,,0,0,0,,{\kf28}To{\kf134} take{\kf19} what{\kf28} you've{\kf33} taught{\kf70} us
-Dialogue: 0,0:04:10.92,0:04:14.41,DEFAULT,,0,0,0,,{\kf24}A{\kf134} great{\kf47} new{\kf88} quest
-Dialogue: 0,0:04:15.70,0:04:18.92,DEFAULT,,0,0,0,,{\kf125}Though{\kf24} we{\kf33} may{\kf97} fall
-Dialogue: 0,0:04:19.61,0:04:23.48,DEFAULT,,0,0,0,,{\kf42}Fly{\kf148} through{\kf37} the{\kf102} air
-Dialogue: 0,0:04:24.40,0:04:28.26,DEFAULT,,0,0,0,,{\kf24}We'll{\kf148} al{\kf24}ways{\kf19} re{\kf37}mem{\kf74}ber
-Dialogue: 0,0:04:28.91,0:04:32.63,DEFAULT,,0,0,0,,{\kf24}The{\kf129} ma{\kf24}gic{\kf42} we{\kf116} shared
+Dialogue: 0,0:00:22.61,0:00:25.78,DEFAULT,,0,0,0,,{\r}{\kf35}Dear{\kf75}~{\kf23}~{\kf58} Prin{\kf126}cess
+Dialogue: 0,0:00:26.93,0:00:29.83,DEFAULT,,0,0,0,,{\r}{\kf45}Are{\kf84}~{\kf45} you{\kf116} there?
+Dialogue: 0,0:00:31.40,0:00:34.76,DEFAULT,,0,0,0,,{\r}{\kf28}I've{\kf78}~{\kf45} been{\kf101} wait{\kf84}ing
+Dialogue: 0,0:00:36.04,0:00:38.58,DEFAULT,,0,0,0,,{\r}{\kf44}Wait{\kf63}ing{\kf32} for{\kf38} you{\kf76} here
+Dialogue: 0,0:00:40.32,0:00:44.74,DEFAULT,,0,0,0,,{\r}{\kf40}Time{\kf67}~{\kf33} has{\kf33}~{\kf74} come{\kf27} for{\kf27} a{\kf54} new{\kf87} world
+Dialogue: 0,0:00:45.48,0:00:49.07,DEFAULT,,0,0,0,,{\r}{\kf47}Don't{\kf29} wan{\kf18}~{\kf53}der{\kf47} in{\kf35} the{\kf24}~{\kf18}~{\kf88} past
+Dialogue: 0,0:00:51.27,0:00:54.45,DEFAULT,,0,0,0,,{\r}{\kf26}Ne{\kf26}ver{\kf39} knew{\kf39} that{\kf58} I{\kf45} was{\kf26} rea{\kf58}dy
+Dialogue: 0,0:00:55.28,0:00:57.85,DEFAULT,,0,0,0,,{\r}{\kf20}It{\kf40} came{\kf46} on{\kf73} so{\kf26} fast{\kf53}~
+Dialogue: 0,0:01:17.04,0:01:20.31,DEFAULT,,0,0,0,,{\r}{\kf31}You've{\kf50} made{\kf44} a{\kf69} king{\kf44}~{\kf89}dom
+Dialogue: 0,0:01:21.41,0:01:25.37,DEFAULT,,0,0,0,,{\r}{\kf31}That{\kf38} will{\kf44} last{\kf25} till{\kf38} the{\kf25} end{\kf57}~{\kf44} of{\kf25} time{\kf69}~
+Dialogue: 0,0:01:26.01,0:01:29.46,DEFAULT,,0,0,0,,{\r}{\kf26}To{\kf33} tell{\kf33} you{\kf26} that{\kf33} you've{\kf33} raised{\kf26}~{\kf52} me{\kf83} high
+Dialogue: 0,0:01:30.20,0:01:32.46,DEFAULT,,0,0,0,,{\r}{\kf27}In{\kf27} my{\kf27} let{\kf27}ter{\kf41} to{\kf76} you
+Dialogue: 0,0:02:10.92,0:02:14.23,DEFAULT,,0,0,0,,{\r}{\kf31}From{\kf49} sea{\kf18} to{\kf25}~{\kf61} shin{\kf49}ing{\kf98} sea
+Dialogue: 0,0:02:15.48,0:02:18.47,DEFAULT,,0,0,0,,{\r}{\kf25}We{\kf31} car{\kf12}~{\kf44}ry{\kf56} me{\kf62}mo{\kf69}ries
+Dialogue: 0,0:02:18.84,0:02:21.87,DEFAULT,,0,0,0,,{\r}{\kf22}From{\kf155} e{\kf61}very{\kf66}where
+Dialogue: 0,0:02:22.52,0:02:26.38,DEFAULT,,0,0,0,,{\r}{\kf23}E{\kf23}very{\kf23}crea{\kf29}ture{\kf173} knows{\kf29} their{\kf23}~{\kf64} time
+Dialogue: 0,0:02:28.08,0:02:31.67,DEFAULT,,0,0,0,,{\r}{\kf26}Dear{\kf201}~{\kf26} Prin{\kf26}~{\kf80}cess
+Dialogue: 0,0:02:32.32,0:02:35.49,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf167} time{\kf54} has{\kf75} come
+Dialogue: 0,0:02:36.73,0:02:40.14,DEFAULT,,0,0,0,,{\r}{\kf27}For{\kf146} you{\kf22}~{\kf49} to{\kf96} go
+Dialogue: 0,0:02:41.24,0:02:44.79,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf145} bat{\kf27}~{\kf48}tle's{\kf113} won
+Dialogue: 0,0:03:23.07,0:03:26.89,DEFAULT,,0,0,0,,{\r}{\kf42}Prin{\kf36}cess{\kf30} please{\kf36} wipe{\kf36} these{\kf48} tears{\kf30} from{\kf30} my{\kf94} eyes
+Dialogue: 0,0:03:27.26,0:03:31.08,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf26} don't{\kf26} know{\kf26} if{\kf66} I{\kf26} can{\kf33} let{\kf33}~{\kf26} go{\kf59}~{\kf35}~
+Dialogue: 0,0:03:31.77,0:03:34.20,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf24} e{\kf24}very{\kf30}thing{\kf24} I've{\kf24} e{\kf24}ver{\kf76} known
+Dialogue: 0,0:03:34.57,0:03:38.12,DEFAULT,,0,0,0,,{\r}{\kf38}Came{\kf27} from{\kf125} you{\kf109}~{\kf55}~
+Dialogue: 0,0:03:39.54,0:03:43.22,DEFAULT,,0,0,0,,{\r}{\kf21}So{\kf37} Prin{\kf32}cess{\kf278} please
+Dialogue: 0,0:03:44.37,0:03:47.41,DEFAULT,,0,0,0,,{\r}{\kf34}I{\kf34} don't{\kf40} want{\kf34} to{\kf162} go
+Dialogue: 0,0:03:48.51,0:03:52.29,DEFAULT,,0,0,0,,{\r}{\kf27}I've{\kf32} learned{\kf54} so{\kf264} much
+Dialogue: 0,0:03:53.02,0:03:56.66,DEFAULT,,0,0,0,,{\r}{\kf24}I'll{\kf30} car{\kf24}ry{\kf24} it{\kf48} all{\kf60} for{\kf48}e{\kf105}ver
+Dialogue: 0,0:03:57.81,0:04:01.58,DEFAULT,,0,0,0,,{\r}{\kf209}Dear{\kf58} Prin{\kf110}cess
+Dialogue: 0,0:04:01.95,0:04:05.68,DEFAULT,,0,0,0,,{\r}{\kf32}We'll{\kf163} try{\kf47} our{\kf131} best
+Dialogue: 0,0:04:06.37,0:04:10.23,DEFAULT,,0,0,0,,{\r}{\kf35}To{\kf168} take{\kf23} what{\kf35} you've{\kf40} taught{\kf86} us
+Dialogue: 0,0:04:10.92,0:04:14.42,DEFAULT,,0,0,0,,{\r}{\kf28}A{\kf161} great{\kf56} new{\kf105} quest
+Dialogue: 0,0:04:15.71,0:04:18.93,DEFAULT,,0,0,0,,{\r}{\kf145}Though{\kf27} we{\kf38} may{\kf112} fall
+Dialogue: 0,0:04:19.62,0:04:23.48,DEFAULT,,0,0,0,,{\r}{\kf49}Fly{\kf174} through{\kf44} the{\kf120} air
+Dialogue: 0,0:04:24.40,0:04:28.27,DEFAULT,,0,0,0,,{\r}{\kf28}We'll{\kf177} al{\kf28}ways{\kf22} re{\kf44}mem{\kf88}ber
+Dialogue: 0,0:04:28.91,0:04:32.64,DEFAULT,,0,0,0,,{\r}{\kf26}The{\kf145} ma{\kf26}gic{\kf47} we{\kf129} shared

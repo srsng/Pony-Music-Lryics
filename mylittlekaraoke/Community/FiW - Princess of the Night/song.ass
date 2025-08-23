@@ -1,27 +1,34 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Princess of the Night
+Artist: Friendship is Witchcraft
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.68,0:00:04.43,DEFAULT,,0,0,0,,{\kf25}I'm{\kf13} the{\kf25} Prin{\kf19}cess{\kf19} of{\kf13} the{\kf19} Night
-Dialogue: 0,0:00:04.68,0:00:06.49,DEFAULT,,0,0,0,,{\kf19}So{\kf19} of{\kf25} course{\kf7} they{\kf19} run{\kf19} in{\kf25} fright
-Dialogue: 0,0:00:06.74,0:00:08.42,DEFAULT,,0,0,0,,{\kf19}They{\kf19} feel{\kf19} threa{\kf25}tened{\kf13} and{\kf19} un{\kf25}sure
-Dialogue: 0,0:00:08.67,0:00:10.42,DEFAULT,,0,0,0,,{\kf19}So{\kf19} let's{\kf25} heigh{\kf19}ten{\kf25} your{\kf19} al{\kf19}lure
-Dialogue: 0,0:00:10.67,0:00:12.47,DEFAULT,,0,0,0,,{\kf19}I{\kf25} don't{\kf19} think{\kf19} you{\kf19} un{\kf19}der{\kf25}stand
-Dialogue: 0,0:00:12.72,0:00:14.47,DEFAULT,,0,0,0,,{\kf19}I{\kf19} bring{\kf19} dark{\kf19}ness{\kf13} to{\kf19} their{\kf32} land
-Dialogue: 0,0:00:14.72,0:00:16.47,DEFAULT,,0,0,0,,{\kf19}But{\kf19} what{\kf19} cau{\kf13}ses{\kf19} them{\kf19} to{\kf25} flee
-Dialogue: 0,0:00:16.72,0:00:18.46,DEFAULT,,0,0,0,,{\kf13}Must{\kf13} be{\kf25} my{\kf25} sup{\kf19}re{\kf19}ma{\kf32}cy
-Dialogue: 0,0:00:18.71,0:00:20.40,DEFAULT,,0,0,0,,{\kf19}Make{\kf13} it{\kf13} so{\kf19} they{\kf19} can't{\kf19} re{\kf19}sist
-Dialogue: 0,0:00:20.64,0:00:22.45,DEFAULT,,0,0,0,,{\kf19}So{\kf19} that{\kf19} we{\kf25} can{\kf19} co{\kf19}ex{\kf25}ist
-Dialogue: 0,0:00:22.70,0:00:24.39,DEFAULT,,0,0,0,,{\kf13}You'll{\kf19} be{\kf25} wel{\kf19}come{\kf19} in{\kf19} their{\kf19} clique
-Dialogue: 0,0:00:24.64,0:00:26.38,DEFAULT,,0,0,0,,{\kf19}TAL{\kf25}KING{\kf25} LOUD{\kf13} SHOULD{\kf13} DO{\kf19} THE{\kf32} TRICK
-Dialogue: 0,0:00:26.63,0:00:28.44,DEFAULT,,0,0,0,,{\kf19}Turn{\kf19} your{\kf19} so{\kf19}cial{\kf25} life{\kf19} a{\kf25}round
-Dialogue: 0,0:00:28.69,0:00:30.44,DEFAULT,,0,0,0,,{\kf13}Ditch{\kf19} those{\kf25} boots{\kf13} and{\kf19} home{\kf13}ly{\kf32} crown
-Dialogue: 0,0:00:30.69,0:00:32.37,DEFAULT,,0,0,0,,{\kf19}I{\kf19} can{\kf19} help{\kf19} with{\kf19} one{\kf19} small{\kf19} fee
-Dialogue: 0,0:00:32.62,0:00:34.37,DEFAULT,,0,0,0,,{\kf13}Give{\kf19} your{\kf25} Prin{\kf19}cess{\kf19}hood{\kf19} to{\kf32} me!
+Dialogue: 0,0:00:02.69,0:00:04.43,DEFAULT,,0,0,0,,{\r}{\kf33}I'm{\kf17} the{\kf33} Prin{\kf25}cess{\kf25} of{\kf17} the{\kf25} Night
+Dialogue: 0,0:00:04.68,0:00:06.49,DEFAULT,,0,0,0,,{\r}{\kf26}So{\kf26} of{\kf34} course{\kf10} they{\kf26} run{\kf26} in{\kf33} fright
+Dialogue: 0,0:00:06.74,0:00:08.43,DEFAULT,,0,0,0,,{\r}{\kf23}They{\kf23} feel{\kf23} threa{\kf31}tened{\kf15} and{\kf23} un{\kf30}sure
+Dialogue: 0,0:00:08.67,0:00:10.42,DEFAULT,,0,0,0,,{\r}{\kf23}So{\kf23} let's{\kf30} heigh{\kf23}ten{\kf30} your{\kf23} al{\kf23}lure
+Dialogue: 0,0:00:10.67,0:00:12.48,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf31} don't{\kf24} think{\kf24} you{\kf24} un{\kf24}der{\kf30}stand
+Dialogue: 0,0:00:12.73,0:00:14.47,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} bring{\kf24} dark{\kf24}ness{\kf16} to{\kf24} their{\kf39} land
+Dialogue: 0,0:00:14.72,0:00:16.47,DEFAULT,,0,0,0,,{\r}{\kf25}But{\kf25} what{\kf25} cau{\kf17}ses{\kf25} them{\kf25} to{\kf33} flee
+Dialogue: 0,0:00:16.72,0:00:18.47,DEFAULT,,0,0,0,,{\r}{\kf15}Must{\kf15} be{\kf30} my{\kf30} sup{\kf23}re{\kf23}ma{\kf39}cy
+Dialogue: 0,0:00:18.72,0:00:20.40,DEFAULT,,0,0,0,,{\r}{\kf27}Make{\kf18} it{\kf18} so{\kf27} they{\kf27} can't{\kf27} re{\kf24}sist
+Dialogue: 0,0:00:20.65,0:00:22.46,DEFAULT,,0,0,0,,{\r}{\kf24}So{\kf24} that{\kf24} we{\kf31} can{\kf24} co{\kf24}ex{\kf30}ist
+Dialogue: 0,0:00:22.71,0:00:24.39,DEFAULT,,0,0,0,,{\r}{\kf16}You'll{\kf24} be{\kf32} wel{\kf24}come{\kf24} in{\kf24} their{\kf24} clique
+Dialogue: 0,0:00:24.64,0:00:26.39,DEFAULT,,0,0,0,,{\r}{\kf23}TAL{\kf30}KING{\kf30} LOUD{\kf15} SHOULD{\kf15} DO{\kf23} THE{\kf39} TRICK
+Dialogue: 0,0:00:26.64,0:00:28.45,DEFAULT,,0,0,0,,{\r}{\kf24}Turn{\kf24} your{\kf24} so{\kf24}cial{\kf31} life{\kf24} a{\kf30}round
+Dialogue: 0,0:00:28.70,0:00:30.44,DEFAULT,,0,0,0,,{\r}{\kf17}Ditch{\kf25} those{\kf33} boots{\kf17} and{\kf25} home{\kf17}ly{\kf41} crown
+Dialogue: 0,0:00:30.69,0:00:32.38,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} can{\kf24} help{\kf24} with{\kf24} one{\kf24} small{\kf24} fee
+Dialogue: 0,0:00:32.62,0:00:34.37,DEFAULT,,0,0,0,,{\r}{\kf15}Give{\kf23} your{\kf30} Prin{\kf23}cess{\kf23}hood{\kf23} to{\kf38} me!

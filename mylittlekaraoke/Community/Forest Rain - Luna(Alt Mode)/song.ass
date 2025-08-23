@@ -1,41 +1,48 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Luna (Alt Mode)
+Artist: Forest Rain
+Original Timing: mylittlekaraoke.com by Linos Melendi, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:41.17,0:00:44.94,DEFAULT,,0,0,0,,{\kf26}For{\kf9} a{\kf26} thou{\kf26}sand{\kf48} years{\kf22} I've{\kf22} wai{\kf26}ted{\kf22} here{\kf9} for{\kf48} you
-Dialogue: 0,0:00:45.28,0:00:46.78,DEFAULT,,0,0,0,,{\kf18}Wai{\kf18}ting{\kf18} ev{\kf18}ery{\kf30} night
-Dialogue: 0,0:00:47.34,0:00:48.75,DEFAULT,,0,0,0,,{\kf9}For{\kf18} I{\kf9} thought{\kf18}~{\kf22} you{\kf22} were
-Dialogue: 0,0:00:48.88,0:00:51.63,DEFAULT,,0,0,0,,{\kf43}The{\kf18} an{\kf9}swer{\kf26} to{\kf22} my{\kf95} life
-Dialogue: 0,0:00:52.14,0:00:55.91,DEFAULT,,0,0,0,,{\kf26}Days{\kf9} turned{\kf22} in{\kf26}to{\kf48} years{\kf22} and{\kf22} in{\kf26}to{\kf22} cen{\kf9}tur{\kf48}ies
-Dialogue: 0,0:00:56.30,0:00:57.75,DEFAULT,,0,0,0,,{\kf18}Pa{\kf22}tience{\kf18} had{\kf18} to{\kf26} fade
-Dialogue: 0,0:00:58.35,0:01:00.33,DEFAULT,,0,0,0,,{\kf9}don't{\kf18} you{\kf9} see{\kf18}~{\kf22} that{\kf22} there{\kf43} is
-Dialogue: 0,0:01:00.41,0:01:03.15,DEFAULT,,0,0,0,,{\kf18}Ven{\kf9}geance{\kf26} in{\kf22} my{\kf9} eyes?{\kf146}~
-Dialogue: 0,0:01:04.48,0:01:06.71,DEFAULT,,0,0,0,,{\kf9}Lu{\kf18}na{\kf18} won't{\kf18} you{\kf18} cry{\kf13} for{\kf30} me
-Dialogue: 0,0:01:06.93,0:01:09.37,DEFAULT,,0,0,0,,{\kf9}I'm{\kf9} as{\kf9} lone{\kf22}ly{\kf18} as{\kf26} I've{\kf26} e{\kf22}ver{\kf18} been
-Dialogue: 0,0:01:09.67,0:01:12.07,DEFAULT,,0,0,0,,{\kf13}I{\kf9} am{\kf26} forced{\kf18} back{\kf18} in{\kf35}to{\kf9} the{\kf18} start
-Dialogue: 0,0:01:12.41,0:01:17.21,DEFAULT,,0,0,0,,{\kf9}Is{\kf13} there{\kf9} an{\kf30}y{\kf22} way{\kf22} to{\kf22} fix{\kf22} a{\kf22} bro{\kf22}ken{\kf9} heart?{\kf180}~
-Dialogue: 0,0:01:31.91,0:01:35.73,DEFAULT,,0,0,0,,{\kf26}In{\kf9}fi{\kf26}nite{\kf26} des{\kf39}pise{\kf22} and{\kf22} end{\kf22}less{\kf22} jeal{\kf9}ou{\kf48}sy
-Dialogue: 0,0:01:36.07,0:01:39.20,DEFAULT,,0,0,0,,{\kf18}Bot{\kf22}tled{\kf18} in{\kf18} my{\kf52} soul{\kf9} has{\kf18} e{\kf9}rup{\kf18}~{\kf22}ted
-Dialogue: 0,0:01:39.33,0:01:42.41,DEFAULT,,0,0,0,,{\kf22}As{\kf43} I'm{\kf18} tear{\kf9}ing{\kf26} through{\kf26} the{\kf9} skies{\kf95}~
-Dialogue: 0,0:01:42.75,0:01:47.00,DEFAULT,,0,0,0,,{\kf9} I{\kf26}am{\kf9}the{\kf26} crea{\kf26}ture{\kf43} now{\kf22} that{\kf22} feasts{\kf26} u{\kf22}pon{\kf9} your{\kf48} dreams{\kf9} and
-Dialogue: 0,0:01:47.08,0:01:51.07,DEFAULT,,0,0,0,,{\kf9}Turns{\kf18} them{\kf18} to{\kf18} night{\kf48}mares{\kf9} and{\kf9} now{\kf18} my{\kf22} an{\kf22}ger{\kf18} will{\kf43} bring
-Dialogue: 0,0:01:51.15,0:01:53.90,DEFAULT,,0,0,0,,{\kf18}Forth{\kf9} an{\kf26} in{\kf9}fi{\kf22}nite{\kf9} night{\kf133}~
-Dialogue: 0,0:01:55.27,0:01:57.93,DEFAULT,,0,0,0,,{\kf9}Lu{\kf18}na{\kf18} won't{\kf18} you{\kf18} cry{\kf13} for{\kf30} me{\kf9} I'm{\kf9} as
-Dialogue: 0,0:01:58.01,0:02:00.11,DEFAULT,,0,0,0,,{\kf9}Lone{\kf22}ly{\kf18} as{\kf26} I've{\kf22} e{\kf22}ver{\kf18} been
-Dialogue: 0,0:02:00.41,0:02:02.81,DEFAULT,,0,0,0,,{\kf13}I{\kf9} am{\kf26} forced{\kf18} back{\kf18} in{\kf35}to{\kf9} the{\kf18} start
-Dialogue: 0,0:02:03.15,0:02:07.95,DEFAULT,,0,0,0,,{\kf9}Is{\kf9} there{\kf9} an{\kf30}y{\kf22} way{\kf22} to{\kf22} fix{\kf22} a{\kf22} bro{\kf22}ken{\kf9} heart?{\kf180}~
-Dialogue: 0,0:02:39.15,0:02:41.34,DEFAULT,,0,0,0,,{\kf9}Lu{\kf18}na{\kf18} won't{\kf18} you{\kf18} cry{\kf13} for{\kf30} me
-Dialogue: 0,0:02:41.55,0:02:44.00,DEFAULT,,0,0,0,,{\kf9}I'm{\kf9} as{\kf13} lone{\kf22}ly{\kf18} as{\kf26} I've{\kf26} e{\kf22}ver{\kf18} been
-Dialogue: 0,0:02:44.30,0:02:46.70,DEFAULT,,0,0,0,,{\kf13}I{\kf9} am{\kf26} forced{\kf18} back{\kf18} in{\kf39}to{\kf9} the{\kf18} start
-Dialogue: 0,0:02:47.04,0:02:49.83,DEFAULT,,0,0,0,,{\kf9}Is{\kf9} there{\kf9} an{\kf26}y{\kf22} way{\kf22} to{\kf22} fix{\kf22} a{\kf22} bro{\kf22}ken
-Dialogue: 0,0:02:50.13,0:02:52.31,DEFAULT,,0,0,0,,{\kf9}Lu{\kf18}na{\kf18} won't{\kf18} you{\kf18} cry{\kf13} for{\kf30} me
-Dialogue: 0,0:02:52.53,0:02:54.97,DEFAULT,,0,0,0,,{\kf9}I'm{\kf9} as{\kf9} lone{\kf22}ly{\kf18} as{\kf26} I've{\kf22} e{\kf22}ver{\kf18} been
-Dialogue: 0,0:02:55.27,0:02:57.67,DEFAULT,,0,0,0,,{\kf13}I{\kf9} am{\kf26} forced{\kf18} back{\kf18} in{\kf35}to{\kf9} the{\kf18} start
-Dialogue: 0,0:02:58.01,0:03:02.77,DEFAULT,,0,0,0,,{\kf9}Is{\kf9} there{\kf9} an{\kf26}y{\kf22} way{\kf22} to{\kf22} fix{\kf22} a{\kf22} bro{\kf22}ken{\kf9} heart?{\kf172}~
+Dialogue: 0,0:00:41.17,0:00:44.95,DEFAULT,,0,0,0,,{\r}{\kf35}For{\kf12} a{\kf35} thou{\kf35}sand{\kf64} years{\kf29} I've{\kf29} wai{\kf35}ted{\kf29} here{\kf12} for{\kf62} you
+Dialogue: 0,0:00:45.29,0:00:46.79,DEFAULT,,0,0,0,,{\r}{\kf26}Wai{\kf26}ting{\kf26} ev{\kf26}ery{\kf46} night
+Dialogue: 0,0:00:47.35,0:00:48.76,DEFAULT,,0,0,0,,{\r}{\kf13}For{\kf26} I{\kf13} thought{\kf26}~{\kf32} you{\kf31} were
+Dialogue: 0,0:00:48.89,0:00:51.63,DEFAULT,,0,0,0,,{\r}{\kf56}The{\kf22} an{\kf11}swer{\kf34} to{\kf28} my{\kf123} life
+Dialogue: 0,0:00:52.15,0:00:55.92,DEFAULT,,0,0,0,,{\r}{\kf35}Days{\kf12} turned{\kf29} in{\kf35}to{\kf65} years{\kf29} and{\kf29} in{\kf35}to{\kf29} cen{\kf12}tur{\kf67}ies
+Dialogue: 0,0:00:56.30,0:00:57.76,DEFAULT,,0,0,0,,{\r}{\kf25}Pa{\kf32}tience{\kf25} had{\kf25} to{\kf39} fade
+Dialogue: 0,0:00:58.36,0:01:00.33,DEFAULT,,0,0,0,,{\r}{\kf12}don't{\kf25} you{\kf12} see{\kf25}~{\kf31} that{\kf31} there{\kf61} is
+Dialogue: 0,0:01:00.42,0:01:03.16,DEFAULT,,0,0,0,,{\r}{\kf21}Ven{\kf10}geance{\kf31} in{\kf26} my{\kf10} eyes?{\kf176}~
+Dialogue: 0,0:01:04.49,0:01:06.72,DEFAULT,,0,0,0,,{\r}{\kf16}Lu{\kf32}na{\kf32} won't{\kf32} you{\kf32} cry{\kf24} for{\kf55} me
+Dialogue: 0,0:01:06.93,0:01:09.37,DEFAULT,,0,0,0,,{\r}{\kf14}I'm{\kf14} as{\kf14} lone{\kf34}ly{\kf27} as{\kf41} I've{\kf41} e{\kf34}ver{\kf25} been
+Dialogue: 0,0:01:09.67,0:01:12.07,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf15} am{\kf44} forced{\kf29} back{\kf29} in{\kf58}to{\kf15} the{\kf28} start
+Dialogue: 0,0:01:12.42,0:01:17.22,DEFAULT,,0,0,0,,{\r}{\kf11}Is{\kf16} there{\kf11} an{\kf38}y{\kf27} way{\kf27} to{\kf27} fix{\kf27} a{\kf27} bro{\kf27}ken{\kf11} heart?{\kf231}~
+Dialogue: 0,0:01:31.92,0:01:35.73,DEFAULT,,0,0,0,,{\r}{\kf37}In{\kf12}fi{\kf37}nite{\kf37} des{\kf55}pise{\kf31} and{\kf31} end{\kf31}less{\kf31} jeal{\kf12}ou{\kf67}sy
+Dialogue: 0,0:01:36.07,0:01:39.20,DEFAULT,,0,0,0,,{\r}{\kf27}Bot{\kf34}tled{\kf27} in{\kf27} my{\kf82} soul{\kf14} has{\kf27} e{\kf14}rup{\kf27}~{\kf34}ted
+Dialogue: 0,0:01:39.33,0:01:42.42,DEFAULT,,0,0,0,,{\r}{\kf27}As{\kf54} I'm{\kf22} tear{\kf11}ing{\kf33} through{\kf33} the{\kf11} skies{\kf118}~
+Dialogue: 0,0:01:42.76,0:01:47.00,DEFAULT,,0,0,0,,{\r}{\kf12} I{\kf37}am{\kf12}the{\kf37} crea{\kf37}ture{\kf62} now{\kf31} that{\kf31} feasts{\kf37} u{\kf31}pon{\kf12} your{\kf69} dreams{\kf16} and
+Dialogue: 0,0:01:47.09,0:01:51.07,DEFAULT,,0,0,0,,{\r}{\kf14}Turns{\kf28} them{\kf28} to{\kf28} night{\kf77}mares{\kf14} and{\kf14} now{\kf28} my{\kf35} an{\kf35}ger{\kf28} will{\kf70} bring
+Dialogue: 0,0:01:51.16,0:01:53.90,DEFAULT,,0,0,0,,{\r}{\kf21}Forth{\kf11} an{\kf32} in{\kf11}fi{\kf26}nite{\kf11} night{\kf162}~
+Dialogue: 0,0:01:55.27,0:01:57.93,DEFAULT,,0,0,0,,{\r}{\kf17}Lu{\kf33}na{\kf33} won't{\kf33} you{\kf33} cry{\kf25} for{\kf58} me{\kf17} I'm{\kf17} as
+Dialogue: 0,0:01:58.02,0:02:00.12,DEFAULT,,0,0,0,,{\r}{\kf14}Lone{\kf34}ly{\kf27} as{\kf41} I've{\kf34} e{\kf34}ver{\kf26} been
+Dialogue: 0,0:02:00.42,0:02:02.82,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf15} am{\kf44} forced{\kf29} back{\kf29} in{\kf58}to{\kf15} the{\kf28} start
+Dialogue: 0,0:02:03.16,0:02:07.96,DEFAULT,,0,0,0,,{\r}{\kf11}Is{\kf11} there{\kf11} an{\kf39}y{\kf28} way{\kf28} to{\kf28} fix{\kf28} a{\kf28} bro{\kf28}ken{\kf11} heart?{\kf229}~
+Dialogue: 0,0:02:39.16,0:02:41.35,DEFAULT,,0,0,0,,{\r}{\kf16}Lu{\kf31}na{\kf31} won't{\kf31} you{\kf31} cry{\kf23} for{\kf56} me
+Dialogue: 0,0:02:41.56,0:02:44.00,DEFAULT,,0,0,0,,{\r}{\kf13}I'm{\kf13} as{\kf20} lone{\kf33}ly{\kf26} as{\kf40} I've{\kf40} e{\kf33}ver{\kf26} been
+Dialogue: 0,0:02:44.30,0:02:46.70,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf14} am{\kf42} forced{\kf28} back{\kf28} in{\kf64}to{\kf14} the{\kf29} start
+Dialogue: 0,0:02:47.05,0:02:49.83,DEFAULT,,0,0,0,,{\r}{\kf13}Is{\kf13} there{\kf13} an{\kf40}y{\kf33} way{\kf33} to{\kf33} fix{\kf33} a{\kf33} bro{\kf35}ken
+Dialogue: 0,0:02:50.13,0:02:52.32,DEFAULT,,0,0,0,,{\r}{\kf16}Lu{\kf31}na{\kf31} won't{\kf31} you{\kf31} cry{\kf23} for{\kf56} me
+Dialogue: 0,0:02:52.53,0:02:54.97,DEFAULT,,0,0,0,,{\r}{\kf14}I'm{\kf14} as{\kf14} lone{\kf35}ly{\kf28} as{\kf42} I've{\kf35} e{\kf35}ver{\kf27} been
+Dialogue: 0,0:02:55.27,0:02:57.67,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf15} am{\kf44} forced{\kf29} back{\kf29} in{\kf58}to{\kf15} the{\kf28} start
+Dialogue: 0,0:02:58.02,0:03:02.77,DEFAULT,,0,0,0,,{\r}{\kf11}Is{\kf11} there{\kf11} an{\kf34}y{\kf28} way{\kf28} to{\kf28} fix{\kf28} a{\kf28} bro{\kf28}ken{\kf11} heart?{\kf230}~

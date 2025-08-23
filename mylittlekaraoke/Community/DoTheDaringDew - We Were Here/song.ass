@@ -1,60 +1,67 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: We were here
+Artist: DoTheDaringDew
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.17,0:00:10.67,DEFAULT,,0,0,0,,{\kf12}A{\kf27} stage{\kf24} could{\kf20} not{\kf31} be{\kf39} bet{\kf54}ter{\kf12}~{\kf20} set{\kf27}~
-Dialogue: 0,0:00:10.86,0:00:14.63,DEFAULT,,0,0,0,,{\kf12}We{\kf20} got{\kf24} to{\kf20} write{\kf31} our{\kf39} own{\kf58} his{\kf16}to{\kf27}ry{\kf50}~
-Dialogue: 0,0:00:15.01,0:00:18.20,DEFAULT,,0,0,0,,{\kf16}I{\kf20} held{\kf24} tight{\kf20} e{\kf39}very{\kf31} o{\kf31}ther{\kf24} soul{\kf47}~
-Dialogue: 0,0:00:18.67,0:00:22.05,DEFAULT,,0,0,0,,{\kf16}Who{\kf27} took{\kf31} part{\kf16} in{\kf16} the{\kf24} bliss{\kf20} with{\kf20} me{\kf58}~
-Dialogue: 0,0:00:22.32,0:00:25.67,DEFAULT,,0,0,0,,{\kf16}We{\kf16} lived{\kf20} it{\kf27} up{\kf27} with{\kf35} no{\kf16} look{\kf16}ing{\kf24} back{\kf50}~
-Dialogue: 0,0:00:26.05,0:00:29.40,DEFAULT,,0,0,0,,{\kf16}Like{\kf31} we'd{\kf35} ne{\kf20}ver{\kf16} a{\kf27}gain{\kf20} see{\kf16} the{\kf24} day{\kf50}~
-Dialogue: 0,0:00:29.78,0:00:33.13,DEFAULT,,0,0,0,,{\kf16}A{\kf20} chap{\kf20}ter{\kf24} writ{\kf35}ten{\kf31} in{\kf31} our{\kf24} lives{\kf50}~
-Dialogue: 0,0:00:33.43,0:00:36.74,DEFAULT,,0,0,0,,{\kf16}That{\kf31} no{\kf31}bo{\kf20}dy{\kf16} can{\kf39} take{\kf35} a{\kf24}way{\kf50}~
-Dialogue: 0,0:00:37.17,0:00:40.43,DEFAULT,,0,0,0,,{\kf16}Let{\kf16} it{\kf16} be{\kf20} known{\kf12}~{\kf27} that{\kf27} far{\kf27} and{\kf24} wide{\kf50}~
-Dialogue: 0,0:00:40.86,0:00:44.13,DEFAULT,,0,0,0,,{\kf16}We{\kf16} got{\kf16} to{\kf31} be{\kf31} who{\kf31} we{\kf20} are{\kf16} in{\kf20}side{\kf47}~
-Dialogue: 0,0:00:44.74,0:00:47.86,DEFAULT,,0,0,0,,{\kf31}Good{\kf31}bye{\kf31} all{\kf31} doubts{\kf31} and{\kf24} fear{\kf50}~
-Dialogue: 0,0:00:48.24,0:00:51.55,DEFAULT,,0,0,0,,{\kf16}Let{\kf12} it{\kf20} be{\kf20} known{\kf12}~{\kf31} that{\kf24} in{\kf27} the{\kf20} end{\kf20}~{\kf31}~
-Dialogue: 0,0:00:51.93,0:00:55.24,DEFAULT,,0,0,0,,{\kf12}We{\kf20} re{\kf20}called{\kf24} each{\kf43} smile{\kf39}~{\kf31} and{\kf24} tear{\kf50}~
-Dialogue: 0,0:00:55.59,0:00:58.82,DEFAULT,,0,0,0,,{\kf16}We{\kf16} ne{\kf16}ver{\kf27} blew{\kf27} a{\kf35}way{\kf16} with{\kf16} the{\kf16} wind{\kf47}~
-Dialogue: 0,0:00:59.24,0:01:04.47,DEFAULT,,0,0,0,,{\kf16}Let{\kf16} it{\kf16} be{\kf27} known{\kf27} that{\kf74} we{\kf74} were{\kf170} here
-Dialogue: 0,0:01:04.67,0:01:09.47,DEFAULT,,0,0,0,,{\kf31}Oh{\kf31}~{\kf31} we{\kf31} were{\kf20} here{\kf20}~{\kf43}~{\kf208}~
-Dialogue: 0,0:01:10.20,0:01:17.40,DEFAULT,,0,0,0,,{\kf150}Yeah{\kf31} we{\kf31} were{\kf20} here{\kf16}~{\kf43}~{\kf358}~
-Dialogue: 0,0:01:33.86,0:01:37.40,DEFAULT,,0,0,0,,{\kf16}This{\kf24} place{\kf16} is{\kf20} per{\kf24}fect,{\kf31} take{\kf50} it{\kf16} with{\kf24} you{\kf27}~
-Dialogue: 0,0:01:37.59,0:01:41.32,DEFAULT,,0,0,0,,{\kf16}Your{\kf27} port{\kf20} in{\kf16} an{\kf31} e{\kf31}ver{\kf62} rag{\kf16}ing{\kf20} storm{\kf47}~
-Dialogue: 0,0:01:41.78,0:01:44.97,DEFAULT,,0,0,0,,{\kf12}An{\kf24} em{\kf20}brace{\kf20} that{\kf35} time{\kf31} can't{\kf31} e{\kf20}rase{\kf47}~
-Dialogue: 0,0:01:45.43,0:01:48.78,DEFAULT,,0,0,0,,{\kf20}Where{\kf31} re{\kf39}turn{\kf16}ing{\kf16} is{\kf31} true{\kf27} to{\kf20} form{\kf58}~
-Dialogue: 0,0:01:49.09,0:01:52.55,DEFAULT,,0,0,0,,{\kf16}This{\kf16} is{\kf16} where{\kf27} we{\kf27} can{\kf35} come{\kf31} a{\kf20}live{\kf62}~
-Dialogue: 0,0:01:52.86,0:01:56.13,DEFAULT,,0,0,0,,{\kf16}Where{\kf16} e{\kf16}ne{\kf31}mies{\kf31} shake{\kf31} hands{\kf27} and{\kf20} heal{\kf54}~
-Dialogue: 0,0:01:56.51,0:01:59.86,DEFAULT,,0,0,0,,{\kf20}Where{\kf31} no{\kf39} mat{\kf16}ter{\kf20} what{\kf39} hap{\kf16}pens{\kf16} out{\kf20}side{\kf54}~
-Dialogue: 0,0:02:00.40,0:02:03.36,DEFAULT,,0,0,0,,{\kf20}These{\kf20} few{\kf31} days{\kf35} will{\kf35} al{\kf20}ways{\kf16} be{\kf20} real{\kf39}~
-Dialogue: 0,0:02:03.90,0:02:07.13,DEFAULT,,0,0,0,,{\kf16}Let{\kf16} it{\kf16} be{\kf31} known{\kf31} that{\kf31} far{\kf24} and{\kf24} wide{\kf43}~
-Dialogue: 0,0:02:07.55,0:02:10.93,DEFAULT,,0,0,0,,{\kf20}We{\kf16} lit{\kf16} a{\kf27} flame{\kf31} that{\kf35} ne{\kf31}ver{\kf24} died{\kf54}~
-Dialogue: 0,0:02:11.51,0:02:14.63,DEFAULT,,0,0,0,,{\kf31}Good{\kf31}bye{\kf27} all{\kf31} doubts{\kf24} and{\kf24} fear{\kf50}~
-Dialogue: 0,0:02:14.97,0:02:18.36,DEFAULT,,0,0,0,,{\kf20}Let{\kf16} it{\kf16} be{\kf24} known{\kf31} that{\kf31} in{\kf31} the{\kf16} end{\kf16}~{\kf39}~
-Dialogue: 0,0:02:18.63,0:02:21.97,DEFAULT,,0,0,0,,{\kf16}We{\kf16} re{\kf20}called{\kf24} each{\kf39} smile{\kf31}~{\kf31} and{\kf16} tear{\kf54}~
-Dialogue: 0,0:02:22.36,0:02:25.55,DEFAULT,,0,0,0,,{\kf16}We{\kf20} ne{\kf16}ver{\kf39} blew{\kf27} a{\kf35}way{\kf16} with{\kf12} the{\kf20} wind{\kf43}~
-Dialogue: 0,0:02:26.05,0:02:31.13,DEFAULT,,0,0,0,,{\kf20}Let{\kf20} it{\kf20} be{\kf24} known{\kf31} that{\kf70} we{\kf70} were{\kf162} here
-Dialogue: 0,0:02:31.36,0:02:36.36,DEFAULT,,0,0,0,,{\kf39}Oh{\kf31}~{\kf35} we{\kf35} were{\kf20} here{\kf20}~{\kf47}~{\kf220}~
-Dialogue: 0,0:02:36.93,0:02:44.13,DEFAULT,,0,0,0,,{\kf162}Yeah{\kf35} we{\kf31} were{\kf20} here{\kf20}~{\kf47}~{\kf347}~
-Dialogue: 0,0:02:47.78,0:02:51.05,DEFAULT,,0,0,0,,{\kf16}Re{\kf24}mem{\kf77}ber,{\kf20} re{\kf20}mem{\kf89}ber
-Dialogue: 0,0:02:51.43,0:02:55.20,DEFAULT,,0,0,0,,{\kf20}Re{\kf24}mem{\kf27}ber,{\kf16} re{\kf20}mem{\kf16}ber{\kf27} that{\kf35} we{\kf35} were{\kf20} here{\kf54}~
-Dialogue: 0,0:02:55.90,0:02:58.82,DEFAULT,,0,0,0,,{\kf31}E{\kf31}choes{\kf20} that{\kf16} won't{\kf35} e{\kf24}ver{\kf24} fade{\kf47}~
-Dialogue: 0,0:02:59.55,0:03:02.67,DEFAULT,,0,0,0,,{\kf16}Sto{\kf16}ries{\kf12} of{\kf31} nights{\kf16} that{\kf16} we{\kf16} would{\kf24} ne{\kf16}ver{\kf24} trade{\kf39}~
-Dialogue: 0,0:03:02.97,0:03:06.32,DEFAULT,,0,0,0,,{\kf16}And{\kf39} long{\kf27} af{\kf16}ter{\kf16}~{\kf27} my{\kf20} fate{\kf16}~{\kf20} calls{\kf54}~
-Dialogue: 0,0:03:06.59,0:03:13.74,DEFAULT,,0,0,0,,{\kf24}Re{\kf31}mem{\kf35}ber{\kf20} the{\kf27} laugh{\kf31}ter{\kf24} held{\kf16} in{\kf20} these{\kf43} halls{\kf354}~
-Dialogue: 0,0:03:32.74,0:03:35.74,DEFAULT,,0,0,0,,{\kf31}Good{\kf35}bye{\kf27} all{\kf31} doubts{\kf27} and{\kf20} fear{\kf47}~
-Dialogue: 0,0:03:36.24,0:03:39.59,DEFAULT,,0,0,0,,{\kf16}Let{\kf16} it{\kf16} be{\kf20} known{\kf12}~{\kf27} that{\kf31} in{\kf31} the{\kf16} end{\kf16}~{\kf43}~
-Dialogue: 0,0:03:39.90,0:03:43.28,DEFAULT,,0,0,0,,{\kf16}We{\kf16} re{\kf20}called{\kf24} each{\kf43} smile{\kf35}~{\kf27} and{\kf24} tear{\kf58}~
-Dialogue: 0,0:03:43.63,0:03:46.82,DEFAULT,,0,0,0,,{\kf16}We{\kf16} ne{\kf16}ver{\kf31} blew{\kf31} a{\kf35}way{\kf12} with{\kf16} the{\kf20} wind{\kf43}~
-Dialogue: 0,0:03:47.28,0:03:52.47,DEFAULT,,0,0,0,,{\kf16}Let{\kf16} it{\kf20} be{\kf16} known{\kf20}~{\kf24} that{\kf70} we{\kf74} were{\kf174} here
-Dialogue: 0,0:03:52.70,0:03:57.90,DEFAULT,,0,0,0,,{\kf27}Oh{\kf27}~{\kf35} we{\kf27} were{\kf16} here{\kf16}~{\kf39}~{\kf254}~
-Dialogue: 0,0:03:58.13,0:04:04.36,DEFAULT,,0,0,0,,{\kf162}Yeah{\kf35} we{\kf27} were{\kf20} here{\kf16}~{\kf39}~{\kf254}~
-Dialogue: 0,0:04:04.59,0:04:06.09,DEFAULT,,0,0,0,,{\kf150}Yeah
-Dialogue: 0,0:04:06.24,0:04:10.20,DEFAULT,,0,0,0,,{\kf16}Re{\kf35}mem{\kf31}ber{\kf16} that{\kf16} we{\kf27} were{\kf193} here!
+Dialogue: 0,0:00:07.17,0:00:10.67,DEFAULT,,0,0,0,,{\r}{\kf15}A{\kf36} stage{\kf31} could{\kf26} not{\kf41} be{\kf51} bet{\kf72}ter{\kf15}~{\kf26} set{\kf37}~
+Dialogue: 0,0:00:10.86,0:00:14.63,DEFAULT,,0,0,0,,{\r}{\kf15}We{\kf25} got{\kf30} to{\kf25} write{\kf40} our{\kf50} own{\kf74} his{\kf20}to{\kf35}ry{\kf63}~
+Dialogue: 0,0:00:15.02,0:00:18.21,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf25} held{\kf30} tight{\kf25} e{\kf50}very{\kf40} o{\kf40}ther{\kf30} soul{\kf59}~
+Dialogue: 0,0:00:18.67,0:00:22.05,DEFAULT,,0,0,0,,{\r}{\kf23}Who{\kf41} took{\kf47} part{\kf23} in{\kf23} the{\kf35} bliss{\kf29} with{\kf29} me{\kf88}~
+Dialogue: 0,0:00:22.32,0:00:25.67,DEFAULT,,0,0,0,,{\r}{\kf21}We{\kf21} lived{\kf27} it{\kf37} up{\kf37} with{\kf48} no{\kf21} look{\kf21}ing{\kf32} back{\kf70}~
+Dialogue: 0,0:00:26.05,0:00:29.40,DEFAULT,,0,0,0,,{\r}{\kf21}Like{\kf41} we'd{\kf46} ne{\kf26}ver{\kf21} a{\kf36}gain{\kf26} see{\kf21} the{\kf31} day{\kf66}~
+Dialogue: 0,0:00:29.79,0:00:33.13,DEFAULT,,0,0,0,,{\r}{\kf21}A{\kf26} chap{\kf26}ter{\kf31} writ{\kf47}ten{\kf42} in{\kf42} our{\kf31} lives{\kf69}~
+Dialogue: 0,0:00:33.44,0:00:36.75,DEFAULT,,0,0,0,,{\r}{\kf20}That{\kf40} no{\kf40}bo{\kf25}dy{\kf20} can{\kf49} take{\kf44} a{\kf30}way{\kf63}~
+Dialogue: 0,0:00:37.17,0:00:40.44,DEFAULT,,0,0,0,,{\r}{\kf22}Let{\kf22} it{\kf22} be{\kf27} known{\kf16}~{\kf38} that{\kf38} far{\kf38} and{\kf33} wide{\kf71}~
+Dialogue: 0,0:00:40.86,0:00:44.13,DEFAULT,,0,0,0,,{\r}{\kf21}We{\kf21} got{\kf21} to{\kf42} be{\kf42} who{\kf42} we{\kf26} are{\kf21} in{\kf26}side{\kf65}~
+Dialogue: 0,0:00:44.75,0:00:47.86,DEFAULT,,0,0,0,,{\r}{\kf42}Good{\kf42}bye{\kf42} all{\kf42} doubts{\kf42} and{\kf32} fear{\kf70}~
+Dialogue: 0,0:00:48.25,0:00:51.55,DEFAULT,,0,0,0,,{\r}{\kf22}Let{\kf17} it{\kf28} be{\kf28} known{\kf17}~{\kf45} that{\kf34} in{\kf39} the{\kf28} end{\kf28}~{\kf45}~
+Dialogue: 0,0:00:51.94,0:00:55.25,DEFAULT,,0,0,0,,{\r}{\kf15}We{\kf25} re{\kf25}called{\kf30} each{\kf54} smile{\kf49}~{\kf40} and{\kf30} tear{\kf63}~
+Dialogue: 0,0:00:55.59,0:00:58.82,DEFAULT,,0,0,0,,{\r}{\kf22}We{\kf22} ne{\kf22}ver{\kf38} blew{\kf38} a{\kf49}way{\kf22} with{\kf22} the{\kf22} wind{\kf66}~
+Dialogue: 0,0:00:59.25,0:01:04.48,DEFAULT,,0,0,0,,{\r}{\kf19}Let{\kf19} it{\kf19} be{\kf34} known{\kf34} that{\kf92} we{\kf92} were{\kf214} here
+Dialogue: 0,0:01:04.67,0:01:09.48,DEFAULT,,0,0,0,,{\r}{\kf36}Oh{\kf36}~{\kf36} we{\kf36} were{\kf22} here{\kf22}~{\kf49}~{\kf244}~
+Dialogue: 0,0:01:10.21,0:01:17.40,DEFAULT,,0,0,0,,{\r}{\kf167}Yeah{\kf34} we{\kf34} were{\kf21} here{\kf17}~{\kf47}~{\kf399}~
+Dialogue: 0,0:01:33.86,0:01:37.40,DEFAULT,,0,0,0,,{\r}{\kf22}This{\kf34} place{\kf22} is{\kf28} per{\kf34}fect,{\kf45} take{\kf73} it{\kf22} with{\kf34} you{\kf40}~
+Dialogue: 0,0:01:37.59,0:01:41.32,DEFAULT,,0,0,0,,{\r}{\kf20}Your{\kf36} port{\kf26} in{\kf20} an{\kf41} e{\kf41}ver{\kf82} rag{\kf20}ing{\kf26} storm{\kf61}~
+Dialogue: 0,0:01:41.79,0:01:44.98,DEFAULT,,0,0,0,,{\r}{\kf16}An{\kf31} em{\kf26}brace{\kf26} that{\kf47} time{\kf42} can't{\kf42} e{\kf26}rase{\kf63}~
+Dialogue: 0,0:01:45.44,0:01:48.79,DEFAULT,,0,0,0,,{\r}{\kf25}Where{\kf41} re{\kf51}turn{\kf20}ing{\kf20} is{\kf41} true{\kf36} to{\kf25} form{\kf76}~
+Dialogue: 0,0:01:49.09,0:01:52.55,DEFAULT,,0,0,0,,{\r}{\kf22}This{\kf22} is{\kf22} where{\kf38} we{\kf38} can{\kf49} come{\kf43} a{\kf27}live{\kf85}~
+Dialogue: 0,0:01:52.86,0:01:56.13,DEFAULT,,0,0,0,,{\r}{\kf21}Where{\kf21} e{\kf21}ne{\kf42}mies{\kf42} shake{\kf42} hands{\kf37} and{\kf26} heal{\kf75}~
+Dialogue: 0,0:01:56.52,0:01:59.86,DEFAULT,,0,0,0,,{\r}{\kf24}Where{\kf39} no{\kf49} mat{\kf19}ter{\kf24} what{\kf49} hap{\kf19}pens{\kf19} out{\kf24}side{\kf69}~
+Dialogue: 0,0:02:00.40,0:02:03.36,DEFAULT,,0,0,0,,{\r}{\kf25}These{\kf25} few{\kf39} days{\kf44} will{\kf44} al{\kf25}ways{\kf20} be{\kf25} real{\kf49}~
+Dialogue: 0,0:02:03.90,0:02:07.13,DEFAULT,,0,0,0,,{\r}{\kf22}Let{\kf22} it{\kf22} be{\kf44} known{\kf44} that{\kf44} far{\kf33} and{\kf33} wide{\kf59}~
+Dialogue: 0,0:02:07.55,0:02:10.94,DEFAULT,,0,0,0,,{\r}{\kf26}We{\kf21} lit{\kf21} a{\kf36} flame{\kf42} that{\kf47} ne{\kf42}ver{\kf31} died{\kf72}~
+Dialogue: 0,0:02:11.52,0:02:14.63,DEFAULT,,0,0,0,,{\r}{\kf45}Good{\kf45}bye{\kf39} all{\kf45} doubts{\kf33} and{\kf33} fear{\kf72}~
+Dialogue: 0,0:02:14.98,0:02:18.36,DEFAULT,,0,0,0,,{\r}{\kf28}Let{\kf22} it{\kf22} be{\kf33} known{\kf44} that{\kf44} in{\kf44} the{\kf22} end{\kf22}~{\kf57}~
+Dialogue: 0,0:02:18.63,0:02:21.98,DEFAULT,,0,0,0,,{\r}{\kf21}We{\kf21} re{\kf27}called{\kf32} each{\kf53} smile{\kf43}~{\kf43} and{\kf21} tear{\kf74}~
+Dialogue: 0,0:02:22.36,0:02:25.55,DEFAULT,,0,0,0,,{\r}{\kf21}We{\kf26} ne{\kf21}ver{\kf51} blew{\kf36} a{\kf46}way{\kf21} with{\kf15} the{\kf26} wind{\kf56}~
+Dialogue: 0,0:02:26.05,0:02:31.13,DEFAULT,,0,0,0,,{\r}{\kf24}Let{\kf24} it{\kf24} be{\kf28} known{\kf38} that{\kf85} we{\kf85} were{\kf200} here
+Dialogue: 0,0:02:31.36,0:02:36.36,DEFAULT,,0,0,0,,{\r}{\kf43}Oh{\kf35}~{\kf39} we{\kf39} were{\kf22} here{\kf22}~{\kf52}~{\kf248}~
+Dialogue: 0,0:02:36.94,0:02:44.13,DEFAULT,,0,0,0,,{\r}{\kf177}Yeah{\kf38} we{\kf34} were{\kf21} here{\kf21}~{\kf50}~{\kf378}~
+Dialogue: 0,0:02:47.79,0:02:51.05,DEFAULT,,0,0,0,,{\r}{\kf21}Re{\kf31}mem{\kf104}ber,{\kf26} re{\kf26}mem{\kf119}ber
+Dialogue: 0,0:02:51.44,0:02:55.21,DEFAULT,,0,0,0,,{\r}{\kf25}Re{\kf30}mem{\kf35}ber,{\kf20} re{\kf25}mem{\kf20}ber{\kf35} that{\kf45} we{\kf45} were{\kf25} here{\kf72}~
+Dialogue: 0,0:02:55.90,0:02:58.82,DEFAULT,,0,0,0,,{\r}{\kf40}E{\kf40}choes{\kf25} that{\kf20} won't{\kf45} e{\kf30}ver{\kf30} fade{\kf62}~
+Dialogue: 0,0:02:59.55,0:03:02.67,DEFAULT,,0,0,0,,{\r}{\kf22}Sto{\kf22}ries{\kf16} of{\kf44} nights{\kf22} that{\kf22} we{\kf22} would{\kf33} ne{\kf22}ver{\kf33} trade{\kf54}~
+Dialogue: 0,0:03:02.98,0:03:06.32,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf52} long{\kf37} af{\kf21}ter{\kf21}~{\kf37} my{\kf26} fate{\kf21}~{\kf26} calls{\kf73}~
+Dialogue: 0,0:03:06.59,0:03:13.75,DEFAULT,,0,0,0,,{\r}{\kf27}Re{\kf36}mem{\kf40}ber{\kf22} the{\kf31} laugh{\kf36}ter{\kf27} held{\kf18} in{\kf22} these{\kf49} halls{\kf407}~
+Dialogue: 0,0:03:32.75,0:03:35.75,DEFAULT,,0,0,0,,{\r}{\kf43}Good{\kf48}bye{\kf38} all{\kf43} doubts{\kf38} and{\kf27} fear{\kf63}~
+Dialogue: 0,0:03:36.25,0:03:39.59,DEFAULT,,0,0,0,,{\r}{\kf22}Let{\kf22} it{\kf22} be{\kf27} known{\kf16}~{\kf38} that{\kf43} in{\kf43} the{\kf22} end{\kf22}~{\kf58}~
+Dialogue: 0,0:03:39.90,0:03:43.29,DEFAULT,,0,0,0,,{\r}{\kf20}We{\kf20} re{\kf25}called{\kf30} each{\kf55} smile{\kf45}~{\kf35} and{\kf30} tear{\kf78}~
+Dialogue: 0,0:03:43.63,0:03:46.82,DEFAULT,,0,0,0,,{\r}{\kf21}We{\kf21} ne{\kf21}ver{\kf43} blew{\kf43} a{\kf48}way{\kf16} with{\kf21} the{\kf27} wind{\kf58}~
+Dialogue: 0,0:03:47.29,0:03:52.48,DEFAULT,,0,0,0,,{\r}{\kf19}Let{\kf19} it{\kf24} be{\kf19} known{\kf24}~{\kf28} that{\kf85} we{\kf90} were{\kf211} here
+Dialogue: 0,0:03:52.71,0:03:57.90,DEFAULT,,0,0,0,,{\r}{\kf32}Oh{\kf32}~{\kf41} we{\kf32} were{\kf18} here{\kf18}~{\kf46}~{\kf300}~
+Dialogue: 0,0:03:58.13,0:04:04.36,DEFAULT,,0,0,0,,{\r}{\kf183}Yeah{\kf39} we{\kf30} were{\kf22} here{\kf17}~{\kf44}~{\kf288}~
+Dialogue: 0,0:04:04.59,0:04:06.09,DEFAULT,,0,0,0,,{\r}{\kf150}Yeah
+Dialogue: 0,0:04:06.25,0:04:10.21,DEFAULT,,0,0,0,,{\r}{\kf18}Re{\kf41}mem{\kf37}ber{\kf18} that{\kf18} we{\kf32} were{\kf232} here!

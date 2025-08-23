@@ -1,37 +1,44 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Step Around
+Artist: Wasteland Wailers
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.15,0:00:12.67,DEFAULT,,0,0,0,,{\kf29}When{\kf29} I{\kf23} step{\kf34} a{\kf68}round{\kf17} I{\kf23} hear{\kf34} the{\kf102} sound
-Dialogue: 0,0:00:12.96,0:00:15.84,DEFAULT,,0,0,0,,{\kf17}C-{\kf17}clip{\kf17} a{\kf23} clop{\kf12}ping'{\kf17} up{\kf17} and{\kf34} down{\kf23} the{\kf46} street
-Dialogue: 0,0:00:17.09,0:00:22.13,DEFAULT,,0,0,0,,{\kf17}The{\kf34} shuf{\kf34}fl~{\kf23}in'{\kf29} of{\kf74} hooves{\kf17} it{\kf23} sure{\kf34}ly{\kf125} proves
-Dialogue: 0,0:00:22.41,0:00:25.35,DEFAULT,,0,0,0,,{\kf17}That{\kf17} I'll{\kf17} see{\kf17} you{\kf17} 'fore{\kf17} the{\kf23} day's{\kf34} com{\kf85}plete
-Dialogue: 0,0:00:26.60,0:00:31.75,DEFAULT,,0,0,0,,{\kf17}What{\kf17} is{\kf17} this{\kf29} won{\kf17}der{\kf17}ful{\kf46} feel{\kf12}~{\kf23}ing{\kf12}~{\kf17} in{\kf34} my{\kf170} head?
-Dialogue: 0,0:00:33.79,0:00:38.71,DEFAULT,,0,0,0,,{\kf17}I{\kf29} had{\kf12} it{\kf17} be{\kf40}fore{\kf12} I{\kf23} got{\kf40} up{\kf17}~{\kf29} and{\kf40} out{\kf17}ta{\kf114} bed
-Dialogue: 0,0:00:39.50,0:00:42.22,DEFAULT,,0,0,0,,{\kf29}Just{\kf23} wan{\kf17}na{\kf29} wear{\kf23} a{\kf91} smile
-Dialogue: 0,0:00:42.50,0:00:45.90,DEFAULT,,0,0,0,,{\kf17}And{\kf29} come{\kf34} find{\kf34} you{\kf34} for{\kf23} a{\kf108} while
-Dialogue: 0,0:00:47.15,0:00:49.47,DEFAULT,,0,0,0,,{\kf12}The{\kf23} co{\kf17}lors{\kf29} all{\kf40} so{\kf29} vi{\kf40}vid
-Dialogue: 0,0:00:50.77,0:00:53.37,DEFAULT,,0,0,0,,{\kf17}Our{\kf23} friends{\kf17} so{\kf29} green{\kf34} and{\kf23} li{\kf68}vid
-Dialogue: 0,0:00:53.65,0:00:56.99,DEFAULT,,0,0,0,,{\kf17}When{\kf23} we{\kf46} touched{\kf17} I{\kf40} felt{\kf34} my{\kf40} skin{\kf12} could{\kf17} melt
-Dialogue: 0,0:00:57.28,0:01:01.75,DEFAULT,,0,0,0,,{\kf17}And{\kf23} I{\kf34} don't{\kf40} want{\kf40} you{\kf23} to{\kf40} quit{\kf165} it
-Dialogue: 0,0:01:54.33,0:01:57.50,DEFAULT,,0,0,0,,{\kf23}Two{\kf17} years{\kf17} of{\kf34} court{\kf29}ship{\kf29} passed{\kf12} in{\kf23} a{\kf57} blink
-Dialogue: 0,0:01:57.96,0:02:01.24,DEFAULT,,0,0,0,,{\kf29}Can{\kf12}ter{\kf23}lot{\kf34} wed{\kf17}~{\kf29}ding{\kf34} bells{\kf23} will{\kf63} ring
-Dialogue: 0,0:02:01.69,0:02:05.09,DEFAULT,,0,0,0,,{\kf23}But{\kf17} now{\kf17} I{\kf51} need{\kf23} you{\kf12} I'm{\kf23} ra{\kf12}ckin'{\kf29} my{\kf74} brain
-Dialogue: 0,0:02:05.82,0:02:09.79,DEFAULT,,0,0,0,,{\kf23}And{\kf17} I{\kf29} can't{\kf23} think{\kf12} of{\kf23} a{\kf23}ny{\kf51} girl's{\kf114} names
-Dialogue: 0,0:02:11.88,0:02:16.47,DEFAULT,,0,0,0,,{\kf34}When{\kf34} we{\kf23} step{\kf40} a{\kf74}round{\kf12} we{\kf29} hear{\kf23} the{\kf91} sound
-Dialogue: 0,0:02:16.86,0:02:20.03,DEFAULT,,0,0,0,,{\kf12}Of{\kf17} lit{\kf12}tle{\kf23} laug{\kf17}her{\kf17} cha{\kf29}sin'{\kf17} but{\kf17}ter{\kf80}flies
-Dialogue: 0,0:02:21.05,0:02:25.69,DEFAULT,,0,0,0,,{\kf34}Round{\kf29} the{\kf23} sand{\kf29} and{\kf46} trees{\kf40} please{\kf29} let{\kf34} me{\kf108} be
-Dialogue: 0,0:02:26.20,0:02:29.54,DEFAULT,,0,0,0,,{\kf17}Here{\kf12} fo{\kf17}re{\kf17}ver{\kf23} un{\kf12}der{\kf23} these{\kf34} blue{\kf119} skies
-Dialogue: 0,0:02:30.22,0:02:35.82,DEFAULT,,0,0,0,,{\kf29}What{\kf17} is{\kf23} this{\kf40} won{\kf12}der{\kf23}ful{\kf57} feel{\kf40}ing{\kf23} in{\kf34} my{\kf199} heart?
-Dialogue: 0,0:02:37.64,0:02:42.45,DEFAULT,,0,0,0,,{\kf23}Could{\kf17} it{\kf17} be{\kf46} our{\kf34} whole{\kf46} life's{\kf29} a{\kf29}bout{\kf17} to{\kf131} start
-Dialogue: 0,0:02:43.01,0:02:46.13,DEFAULT,,0,0,0,,{\kf17}And{\kf40} you're{\kf17} as{\kf17} con{\kf29}tent{\kf34} as{\kf102} me
-Dialogue: 0,0:02:46.41,0:02:49.69,DEFAULT,,0,0,0,,{\kf17}In{\kf17} our{\kf40} small{\kf34} house{\kf23} by{\kf17}~{\kf23} the{\kf97} sea
-Dialogue: 0,0:02:50.09,0:02:53.43,DEFAULT,,0,0,0,,{\kf23}Now{\kf17} that{\kf29} two's{\kf29} be{\kf40}come{\kf23} a{\kf108} three
-Dialogue: 0,0:02:53.88,0:03:01.01,DEFAULT,,0,0,0,,{\kf17}You{\kf17} and{\kf63} me{\kf46} and{\kf29}~{\kf131} El{\kf40}lie{\kf300} Bean
+Dialogue: 0,0:00:08.15,0:00:12.68,DEFAULT,,0,0,0,,{\r}{\kf36}When{\kf36} I{\kf29} step{\kf43} a{\kf86}round{\kf22} I{\kf29} hear{\kf43} the{\kf129} sound
+Dialogue: 0,0:00:12.96,0:00:15.85,DEFAULT,,0,0,0,,{\r}{\kf22}C-{\kf22}clip{\kf22} a{\kf30} clop{\kf15}ping'{\kf22} up{\kf22} and{\kf44} down{\kf30} the{\kf60} street
+Dialogue: 0,0:00:17.09,0:00:22.13,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf42} shuf{\kf42}fl~{\kf28}in'{\kf35} of{\kf91} hooves{\kf21} it{\kf28} sure{\kf42}ly{\kf154} proves
+Dialogue: 0,0:00:22.41,0:00:25.36,DEFAULT,,0,0,0,,{\r}{\kf21}That{\kf21} I'll{\kf21} see{\kf21} you{\kf21} 'fore{\kf21} the{\kf27} day's{\kf41} com{\kf100}plete
+Dialogue: 0,0:00:26.60,0:00:31.75,DEFAULT,,0,0,0,,{\r}{\kf21}What{\kf21} is{\kf21} this{\kf34} won{\kf21}der{\kf21}ful{\kf55} feel{\kf14}~{\kf27}ing{\kf14}~{\kf21} in{\kf41} my{\kf204} head?
+Dialogue: 0,0:00:33.79,0:00:38.72,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf35} had{\kf14} it{\kf21} be{\kf49}fore{\kf14} I{\kf28} got{\kf49} up{\kf21}~{\kf35} and{\kf49} out{\kf21}ta{\kf135} bed
+Dialogue: 0,0:00:39.51,0:00:42.23,DEFAULT,,0,0,0,,{\r}{\kf37}Just{\kf29} wan{\kf22}na{\kf37} wear{\kf29} a{\kf118} smile
+Dialogue: 0,0:00:42.51,0:00:45.90,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf35} come{\kf42} find{\kf42} you{\kf42} for{\kf28} a{\kf130} while
+Dialogue: 0,0:00:47.15,0:00:49.47,DEFAULT,,0,0,0,,{\r}{\kf14}The{\kf28} co{\kf21}lors{\kf35} all{\kf49} so{\kf35} vi{\kf50}vid
+Dialogue: 0,0:00:50.77,0:00:53.38,DEFAULT,,0,0,0,,{\r}{\kf21}Our{\kf28} friends{\kf21} so{\kf35} green{\kf42} and{\kf28} li{\kf85}vid
+Dialogue: 0,0:00:53.66,0:00:57.00,DEFAULT,,0,0,0,,{\r}{\kf23}When{\kf31} we{\kf62} touched{\kf23} I{\kf54} felt{\kf47} my{\kf54} skin{\kf16} could{\kf24} melt
+Dialogue: 0,0:00:57.28,0:01:01.75,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf27} I{\kf40} don't{\kf47} want{\kf47} you{\kf27} to{\kf47} quit{\kf192} it
+Dialogue: 0,0:01:54.34,0:01:57.51,DEFAULT,,0,0,0,,{\r}{\kf30}Two{\kf23} years{\kf23} of{\kf45} court{\kf38}ship{\kf38} passed{\kf15} in{\kf30} a{\kf75} blink
+Dialogue: 0,0:01:57.96,0:02:01.24,DEFAULT,,0,0,0,,{\r}{\kf36}Can{\kf14}ter{\kf29}lot{\kf43} wed{\kf21}~{\kf36}ding{\kf43} bells{\kf29} will{\kf77} ring
+Dialogue: 0,0:02:01.70,0:02:05.09,DEFAULT,,0,0,0,,{\r}{\kf28}But{\kf21} now{\kf21} I{\kf62} need{\kf28} you{\kf14} I'm{\kf28} ra{\kf14}ckin'{\kf35} my{\kf89} brain
+Dialogue: 0,0:02:05.83,0:02:09.79,DEFAULT,,0,0,0,,{\r}{\kf29}And{\kf22} I{\kf36} can't{\kf29} think{\kf14} of{\kf29} a{\kf29}ny{\kf65} girl's{\kf143} names
+Dialogue: 0,0:02:11.89,0:02:16.47,DEFAULT,,0,0,0,,{\r}{\kf44}When{\kf44} we{\kf29} step{\kf51} a{\kf95}round{\kf15} we{\kf36} hear{\kf29} the{\kf115} sound
+Dialogue: 0,0:02:16.87,0:02:20.04,DEFAULT,,0,0,0,,{\r}{\kf15}Of{\kf23} lit{\kf15}tle{\kf30} laug{\kf23}her{\kf23} cha{\kf38}sin'{\kf23} but{\kf23}ter{\kf104}flies
+Dialogue: 0,0:02:21.06,0:02:25.70,DEFAULT,,0,0,0,,{\r}{\kf43}Round{\kf36} the{\kf29} sand{\kf36} and{\kf57} trees{\kf50} please{\kf36} let{\kf43} me{\kf134} be
+Dialogue: 0,0:02:26.21,0:02:29.55,DEFAULT,,0,0,0,,{\r}{\kf21}Here{\kf14} fo{\kf21}re{\kf21}ver{\kf28} un{\kf14}der{\kf28} these{\kf42} blue{\kf145} skies
+Dialogue: 0,0:02:30.23,0:02:35.83,DEFAULT,,0,0,0,,{\r}{\kf32}What{\kf19} is{\kf26} this{\kf45} won{\kf13}der{\kf26}ful{\kf64} feel{\kf45}ing{\kf26} in{\kf39} my{\kf225} heart?
+Dialogue: 0,0:02:37.64,0:02:42.45,DEFAULT,,0,0,0,,{\r}{\kf28}Could{\kf21} it{\kf21} be{\kf57} our{\kf42} whole{\kf57} life's{\kf35} a{\kf35}bout{\kf21} to{\kf164} start
+Dialogue: 0,0:02:43.02,0:02:46.13,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf48} you're{\kf21} as{\kf21} con{\kf35}tent{\kf41} as{\kf124} me
+Dialogue: 0,0:02:46.41,0:02:49.70,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf21} our{\kf49} small{\kf42} house{\kf28} by{\kf21}~{\kf28} the{\kf118} sea
+Dialogue: 0,0:02:50.09,0:02:53.43,DEFAULT,,0,0,0,,{\r}{\kf28}Now{\kf21} that{\kf36} two's{\kf36} be{\kf50}come{\kf28} a{\kf135} three
+Dialogue: 0,0:02:53.89,0:03:01.02,DEFAULT,,0,0,0,,{\r}{\kf19}You{\kf19} and{\kf69} me{\kf50} and{\kf32}~{\kf145} El{\kf44}lie{\kf335} Bean

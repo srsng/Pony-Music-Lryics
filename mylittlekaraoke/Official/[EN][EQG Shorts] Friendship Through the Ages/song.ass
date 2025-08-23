@@ -1,44 +1,51 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Friendship Through the Ages
+Artist: Equestria Girls Shorts
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:10.76,0:00:12.56,DEFAULT,,0,0,0,,{\kf19}No{\kf15}thing{\kf23} stays{\kf15} the{\kf23} same{\kf15} for{\kf38} long
-Dialogue: 0,0:00:13.27,0:00:16.76,DEFAULT,,0,0,0,,{\kf8}But{\kf27} when{\kf27} it{\kf34} chan{\kf19}ges{\kf27} does{\kf12}n't{\kf34} mean{\kf23} it's{\kf23} go{\kf60}-one
-Dialogue: 0,0:00:17.85,0:00:19.87,DEFAULT,,0,0,0,,{\kf23}Time{\kf19} will{\kf19} al{\kf15}ways{\kf19} get{\kf12} a{\kf64}way
-Dialogue: 0,0:00:20.62,0:00:24.11,DEFAULT,,0,0,0,,{\kf27}As{\kf27} it{\kf34} leaves{\kf19} be{\kf19}hind{\kf15} a{\kf38}no{\kf19}ther{\kf23} da{\kf79}-ay
-Dialogue: 0,0:00:25.08,0:00:27.86,DEFAULT,,0,0,0,,{\kf38}Things{\kf27} may{\kf23} come{\kf15} and{\kf34} things{\kf30} may{\kf42} go
-Dialogue: 0,0:00:28.53,0:00:31.27,DEFAULT,,0,0,0,,{\kf34}Some{\kf27} go{\kf30} fast{\kf12} and{\kf27} some{\kf12} go{\kf12}-o{\kf38} slow
-Dialogue: 0,0:00:31.91,0:00:34.72,DEFAULT,,0,0,0,,{\kf38}Few{\kf30} things{\kf34} last,{\kf19} that's{\kf34} all{\kf23} I{\kf38} know
-Dialogue: 0,0:00:34.95,0:00:38.62,DEFAULT,,0,0,0,,{\kf15}But{\kf30} friend{\kf30}ship{\kf23} car{\kf30}ries{\kf34} on{\kf12} through{\kf12} the{\kf15} a{\kf15}-a{\kf42}ges
-Dialogue: 0,0:00:38.81,0:00:41.58,DEFAULT,,0,0,0,,{\kf38}Things{\kf34} may{\kf30} come{\kf19} and{\kf34} things{\kf30} may{\kf38} go
-Dialogue: 0,0:00:42.22,0:00:45.00,DEFAULT,,0,0,0,,{\kf34}Some{\kf27} go{\kf27} fast{\kf15} and{\kf30} some{\kf27} go{\kf42} slow
-Dialogue: 0,0:00:45.60,0:00:48.41,DEFAULT,,0,0,0,,{\kf30}Few{\kf34} things{\kf34} last,{\kf27} that's{\kf34} all{\kf27} I{\kf38} know
-Dialogue: 0,0:00:48.63,0:00:52.35,DEFAULT,,0,0,0,,{\kf15}But{\kf19} fri{\kf15}-end{\kf30}ship{\kf27} car{\kf30}ries{\kf30} on{\kf19} through{\kf12} the{\kf15} a{\kf15}-a{\kf45}ges
-Dialogue: 0,0:00:52.50,0:00:54.67,DEFAULT,,0,0,0,,{\kf15}Been{\kf15} a{\kf38}round{\kf19} for{\kf12} a{\kf27} long{\kf49} time
-Dialogue: 0,0:00:55.05,0:00:58.20,DEFAULT,,0,0,0,,{\kf19}Ro{\kf19}ckin'{\kf23} out{\kf34} hard,{\kf19} 'cause{\kf19} I'm{\kf27} in{\kf27} my{\kf53} prime
-Dialogue: 0,0:00:58.50,0:01:01.57,DEFAULT,,0,0,0,,{\kf15}May{\kf15}be{\kf15} it{\kf15}'ll{\kf38} change{\kf23} fur{\kf15}ther{\kf12} do{\kf15}-own{\kf34} the{\kf49} line
-Dialogue: 0,0:01:02.13,0:01:06.03,DEFAULT,,0,0,0,,{\kf15}But{\kf15} my{\kf27} friend{\kf42}ship{\kf27} car{\kf30}ries{\kf30} on{\kf23} through{\kf19} the{\kf23} a{\kf45}ges
-Dialogue: 0,0:01:06.63,0:01:09.37,DEFAULT,,0,0,0,,{\kf23}Eve{\kf12}ry{\kf23} sin{\kf12}gle{\kf38} style{\kf34} has{\kf19} so{\kf15}-ome{\kf34}thin'
-Dialogue: 0,0:01:09.63,0:01:11.81,DEFAULT,,0,0,0,,{\kf27}Diff'{\kf34}rent{\kf27} it{\kf12} ca{\kf15}-an{\kf42} sa{\kf27}-ay
-Dialogue: 0,0:01:13.53,0:01:15.75,DEFAULT,,0,0,0,,{\kf12}No{\kf19}thin'{\kf15} wro{\kf15}-ong{\kf15} with{\kf15} be{\kf23}in'{\kf23} u{\kf34}nique
-Dialogue: 0,0:01:16.23,0:01:18.60,DEFAULT,,0,0,0,,{\kf19}And{\kf15} spe{\kf23}cial{\kf15} in{\kf34} your{\kf12} o{\kf15}-own{\kf57} way
-Dialogue: 0,0:01:20.13,0:01:22.46,DEFAULT,,0,0,0,,{\kf19}May{\kf23}be{\kf15} you{\kf15} wan{\kf15}na{\kf15} be{\kf12} a{\kf19} pop{\kf38} star
-Dialogue: 0,0:01:22.91,0:01:26.88,DEFAULT,,0,0,0,,{\kf15}Get{\kf19} your{\kf34} fif{\kf38}teen{\kf19} mi{\kf19}nutes{\kf12} of{\kf34} fame,{\kf23} wah{\kf27}-ah,{\kf19} ah{\kf45}-ow
-Dialogue: 0,0:01:27.18,0:01:29.06,DEFAULT,,0,0,0,,{\kf23}That{\kf23} won't{\kf27} last{\kf19} for{\kf15}e{\kf12}-e{\kf30}ver
-Dialogue: 0,0:01:29.58,0:01:33.37,DEFAULT,,0,0,0,,{\kf19}But{\kf30} friend{\kf27}ship{\kf15} re{\kf15}ma{\kf19}ins{\kf12} the{\kf34} same,{\kf38} ah{\kf30}-oh{\kf34}-oh
-Dialogue: 0,0:01:33.63,0:01:36.41,DEFAULT,,0,0,0,,{\kf38}Things{\kf34} may{\kf34} come{\kf15} and{\kf34} things{\kf30} may{\kf45} go
-Dialogue: 0,0:01:37.05,0:01:39.82,DEFAULT,,0,0,0,,{\kf34}Some{\kf30} go{\kf34} fast{\kf15} and{\kf34} some{\kf12} go{\kf12}-o{\kf45} slow
-Dialogue: 0,0:01:40.46,0:01:43.27,DEFAULT,,0,0,0,,{\kf34}Few{\kf38} things{\kf34} last,{\kf19} that's{\kf38} all{\kf15} I{\kf15}-I{\kf38} know
-Dialogue: 0,0:01:43.46,0:01:47.13,DEFAULT,,0,0,0,,{\kf23}But{\kf34} friend{\kf34}ship{\kf19} car{\kf42}ries{\kf34} on{\kf19} through{\kf19} the{\kf19} a{\kf15}-a{\kf38}ges
-Dialogue: 0,0:01:47.40,0:01:50.13,DEFAULT,,0,0,0,,{\kf34}Things{\kf34} may{\kf34} come{\kf15} and{\kf34} things{\kf34} may{\kf42} go
-Dialogue: 0,0:01:50.81,0:01:53.66,DEFAULT,,0,0,0,,{\kf30}Some{\kf27} go{\kf34} fast{\kf12} and{\kf38} some{\kf12} go{\kf12}-o{\kf49} slow
-Dialogue: 0,0:01:54.18,0:01:56.96,DEFAULT,,0,0,0,,{\kf34}Few{\kf34} things{\kf34} last,{\kf19} that's{\kf34} all{\kf27} I{\kf38} know
-Dialogue: 0,0:01:57.22,0:02:00.86,DEFAULT,,0,0,0,,{\kf23}But{\kf30} friend{\kf34}ship{\kf27} car{\kf38}ries{\kf38} on{\kf19} through{\kf15} the{\kf12} a{\kf15}-a{\kf42}ges
-Dialogue: 0,0:02:01.12,0:02:06.26,DEFAULT,,0,0,0,,{\kf147}Oh{\kf34}-oh,{\kf34} car{\kf38}ries{\kf180} on
+Dialogue: 0,0:00:10.76,0:00:12.56,DEFAULT,,0,0,0,,{\r}{\kf23}No{\kf18}thing{\kf28} stays{\kf18} the{\kf28} same{\kf18} for{\kf47} long
+Dialogue: 0,0:00:13.28,0:00:16.76,DEFAULT,,0,0,0,,{\r}{\kf10}But{\kf32} when{\kf32} it{\kf41} chan{\kf23}ges{\kf32} does{\kf14}n't{\kf41} mean{\kf27} it's{\kf27} go{\kf70}-one
+Dialogue: 0,0:00:17.85,0:00:19.88,DEFAULT,,0,0,0,,{\r}{\kf27}Time{\kf22} will{\kf22} al{\kf18}ways{\kf22} get{\kf13} a{\kf78}way
+Dialogue: 0,0:00:20.63,0:00:24.11,DEFAULT,,0,0,0,,{\r}{\kf31}As{\kf31} it{\kf40} leaves{\kf22} be{\kf22}hind{\kf18} a{\kf44}no{\kf22}ther{\kf27} da{\kf92}-ay
+Dialogue: 0,0:00:25.09,0:00:27.86,DEFAULT,,0,0,0,,{\r}{\kf50}Things{\kf35} may{\kf30} come{\kf20} and{\kf45} things{\kf40} may{\kf57} go
+Dialogue: 0,0:00:28.54,0:00:31.28,DEFAULT,,0,0,0,,{\r}{\kf49}Some{\kf38} go{\kf44} fast{\kf16} and{\kf38} some{\kf16} go{\kf16}-o{\kf57} slow
+Dialogue: 0,0:00:31.91,0:00:34.73,DEFAULT,,0,0,0,,{\r}{\kf49}Few{\kf39} things{\kf44} last,{\kf25} that's{\kf44} all{\kf30} I{\kf50} know
+Dialogue: 0,0:00:34.95,0:00:38.63,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf43} friend{\kf43}ship{\kf32} car{\kf43}ries{\kf49} on{\kf16} through{\kf16} the{\kf22} a{\kf22}-a{\kf60}ges
+Dialogue: 0,0:00:38.81,0:00:41.59,DEFAULT,,0,0,0,,{\r}{\kf47}Things{\kf42} may{\kf38} come{\kf23} and{\kf42} things{\kf38} may{\kf47} go
+Dialogue: 0,0:00:42.23,0:00:45.00,DEFAULT,,0,0,0,,{\r}{\kf47}Some{\kf37} go{\kf37} fast{\kf21} and{\kf42} some{\kf37} go{\kf57} slow
+Dialogue: 0,0:00:45.60,0:00:48.41,DEFAULT,,0,0,0,,{\r}{\kf38}Few{\kf43} things{\kf43} last,{\kf33} that's{\kf43} all{\kf33} I{\kf48} know
+Dialogue: 0,0:00:48.64,0:00:52.35,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf26} fri{\kf21}-end{\kf41}ship{\kf36} car{\kf41}ries{\kf41} on{\kf26} through{\kf15} the{\kf21} a{\kf21}-a{\kf61}ges
+Dialogue: 0,0:00:52.50,0:00:54.68,DEFAULT,,0,0,0,,{\r}{\kf19}Been{\kf19} a{\kf47}round{\kf24} for{\kf14} a{\kf33} long{\kf61} time
+Dialogue: 0,0:00:55.05,0:00:58.20,DEFAULT,,0,0,0,,{\r}{\kf25}Ro{\kf25}ckin'{\kf30} out{\kf45} hard,{\kf25} 'cause{\kf25} I'm{\kf35} in{\kf35} my{\kf70} prime
+Dialogue: 0,0:00:58.50,0:01:01.58,DEFAULT,,0,0,0,,{\r}{\kf19}May{\kf19}be{\kf19} it{\kf19}'ll{\kf47} change{\kf28} fur{\kf19}ther{\kf14} do{\kf19}-own{\kf43} the{\kf62} line
+Dialogue: 0,0:01:02.14,0:01:06.04,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf20} my{\kf35} friend{\kf55}ship{\kf35} car{\kf40}ries{\kf40} on{\kf30} through{\kf25} the{\kf30} a{\kf60}ges
+Dialogue: 0,0:01:06.64,0:01:09.38,DEFAULT,,0,0,0,,{\r}{\kf30}Eve{\kf15}ry{\kf30} sin{\kf15}gle{\kf50} style{\kf45} has{\kf25} so{\kf20}-ome{\kf44}thin'
+Dialogue: 0,0:01:09.64,0:01:11.81,DEFAULT,,0,0,0,,{\r}{\kf32}Diff'{\kf41}rent{\kf32} it{\kf14} ca{\kf18}-an{\kf50} sa{\kf30}-ay
+Dialogue: 0,0:01:13.54,0:01:15.75,DEFAULT,,0,0,0,,{\r}{\kf15}No{\kf25}thin'{\kf20} wro{\kf20}-ong{\kf20} with{\kf20} be{\kf29}in'{\kf29} u{\kf43}nique
+Dialogue: 0,0:01:16.24,0:01:18.60,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf19} spe{\kf28}cial{\kf19} in{\kf42} your{\kf14} o{\kf19}-own{\kf71} way
+Dialogue: 0,0:01:20.14,0:01:22.46,DEFAULT,,0,0,0,,{\r}{\kf26}May{\kf31}be{\kf21} you{\kf21} wan{\kf21}na{\kf21} be{\kf16} a{\kf26} pop{\kf50} star
+Dialogue: 0,0:01:22.91,0:01:26.89,DEFAULT,,0,0,0,,{\r}{\kf20}Get{\kf25} your{\kf45} fif{\kf50}teen{\kf25} mi{\kf25}nutes{\kf15} of{\kf45} fame,{\kf30} wah{\kf35}-ah,{\kf25} ah{\kf57}-ow
+Dialogue: 0,0:01:27.19,0:01:29.06,DEFAULT,,0,0,0,,{\r}{\kf29}That{\kf29} won't{\kf34} last{\kf24} for{\kf19}e{\kf14}-e{\kf39}ver
+Dialogue: 0,0:01:29.59,0:01:33.38,DEFAULT,,0,0,0,,{\r}{\kf26}But{\kf42} friend{\kf37}ship{\kf21} re{\kf21}ma{\kf26}ins{\kf16} the{\kf47} same,{\kf53} ah{\kf42}-oh{\kf48}-oh
+Dialogue: 0,0:01:33.64,0:01:36.41,DEFAULT,,0,0,0,,{\r}{\kf46}Things{\kf41} may{\kf41} come{\kf18} and{\kf41} things{\kf36} may{\kf55} go
+Dialogue: 0,0:01:37.05,0:01:39.83,DEFAULT,,0,0,0,,{\r}{\kf44}Some{\kf39} go{\kf44} fast{\kf20} and{\kf44} some{\kf15} go{\kf15}-o{\kf57} slow
+Dialogue: 0,0:01:40.46,0:01:43.28,DEFAULT,,0,0,0,,{\r}{\kf41}Few{\kf46} things{\kf41} last,{\kf23} that's{\kf46} all{\kf18} I{\kf18}-I{\kf48} know
+Dialogue: 0,0:01:43.46,0:01:47.14,DEFAULT,,0,0,0,,{\r}{\kf28}But{\kf42} friend{\kf42}ship{\kf24} car{\kf52}ries{\kf42} on{\kf24} through{\kf24} the{\kf24} a{\kf19}-a{\kf46}ges
+Dialogue: 0,0:01:47.40,0:01:50.14,DEFAULT,,0,0,0,,{\r}{\kf41}Things{\kf41} may{\kf41} come{\kf18} and{\kf41} things{\kf41} may{\kf51} go
+Dialogue: 0,0:01:50.81,0:01:53.66,DEFAULT,,0,0,0,,{\r}{\kf41}Some{\kf36} go{\kf46} fast{\kf15} and{\kf51} some{\kf15} go{\kf15}-o{\kf66} slow
+Dialogue: 0,0:01:54.19,0:01:56.96,DEFAULT,,0,0,0,,{\r}{\kf43}Few{\kf43} things{\kf43} last,{\kf24} that's{\kf43} all{\kf34} I{\kf48} know
+Dialogue: 0,0:01:57.23,0:02:00.86,DEFAULT,,0,0,0,,{\r}{\kf28}But{\kf38} friend{\kf43}ship{\kf33} car{\kf47}ries{\kf47} on{\kf24} through{\kf19} the{\kf14} a{\kf19}-a{\kf52}ges
+Dialogue: 0,0:02:01.13,0:02:06.26,DEFAULT,,0,0,0,,{\r}{\kf174}Oh{\kf40}-oh,{\kf40} car{\kf45}ries{\kf215} on

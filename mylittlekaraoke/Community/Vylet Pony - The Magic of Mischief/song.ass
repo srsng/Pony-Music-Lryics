@@ -1,78 +1,85 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: The Magic of Mischief
+Artist: Vylet Pony
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:13.45,0:00:16.19,DEFAULT,,0,0,0,,{\kf49}Ooh{\kf12} the{\kf19} ma{\kf19}gic{\kf12} of{\kf34} mis{\kf75}chief
-Dialogue: 0,0:00:16.82,0:00:21.29,DEFAULT,,0,0,0,,{\kf15}You{\kf27} don't{\kf27} know{\kf19} what{\kf15} my{\kf27} next{\kf57} step{\kf42} might{\kf23} be{\kf87}~
-Dialogue: 0,0:00:22.00,0:00:24.70,DEFAULT,,0,0,0,,{\kf64}Ooh,{\kf12} I{\kf23} like{\kf94} it
-Dialogue: 0,0:00:25.00,0:00:27.55,DEFAULT,,0,0,0,,{\kf15}We{\kf15} play{\kf23} the{\kf38} games{\kf27} we{\kf79} play
-Dialogue: 0,0:00:53.76,0:00:58.56,DEFAULT,,0,0,0,,{\kf45}Ooh{\kf19} you{\kf15} wan{\kf15}na{\kf12} have{\kf12} a{\kf27} good{\kf27} time{\kf30} ba{\kf30}by{\kf38}~{\kf15}~{\kf15}~{\kf49}~?
-Dialogue: 0,0:01:01.11,0:01:03.21,DEFAULT,,0,0,0,,{\kf15}Well{\kf19} I've{\kf23} got{\kf23} the{\kf30} cha{\kf53}os
-Dialogue: 0,0:01:03.40,0:01:06.14,DEFAULT,,0,0,0,,{\kf12}And{\kf15} the{\kf34} fun{\kf27}ny{\kf30} busi{\kf23}ness{\kf68}~
-Dialogue: 0,0:01:06.92,0:01:09.85,DEFAULT,,0,0,0,,{\kf12}And{\kf45} ooh,{\kf12} the{\kf19} ma{\kf15}gic{\kf15} of{\kf27} mis{\kf79}chief
-Dialogue: 0,0:01:10.30,0:01:13.90,DEFAULT,,0,0,0,,{\kf19}Don't{\kf19} knock{\kf19} it{\kf30} till{\kf23} you{\kf30} try{\kf38} it{\kf19}~{\kf15}~{\kf12}~{\kf49}~
-Dialogue: 0,0:01:14.09,0:01:18.10,DEFAULT,,0,0,0,,{\kf15}And{\kf15} I've{\kf15} got{\kf15} a{\kf23} knack{\kf27} for{\kf30} shit{\kf27} you've{\kf27} ne{\kf30}ver{\kf60} seen
-Dialogue: 0,0:01:18.32,0:01:20.27,DEFAULT,,0,0,0,,{\kf15}Why{\kf12} don't{\kf12} you{\kf15} take{\kf12} a{\kf19} look{\kf72}~
-Dialogue: 0,0:01:21.21,0:01:23.50,DEFAULT,,0,0,0,,{\kf12}The{\kf15} ma{\kf12}gic{\kf12} of{\kf27} mis{\kf102}chief
-Dialogue: 0,0:01:25.82,0:01:27.29,DEFAULT,,0,0,0,,{\kf19}Oh{\kf23}~{\kf83} oh
-Dialogue: 0,0:01:27.89,0:01:32.99,DEFAULT,,0,0,0,,{\kf15}The{\kf19} ma{\kf15}gic{\kf12} of{\kf30} mis{\kf135}chief{\kf53}~{\kf8}~{\kf8}~{\kf150}~
-Dialogue: 0,0:01:34.45,0:01:35.65,DEFAULT,,0,0,0,,{\kf27}Oh{\kf79} oh
-Dialogue: 0,0:01:35.87,0:01:37.41,DEFAULT,,0,0,0,,{\kf23}Oh{\kf19} oh{\kf30} oh{\kf45}~
-Dialogue: 0,0:01:37.60,0:01:38.99,DEFAULT,,0,0,0,,{\kf19}Oh{\kf15} oh{\kf79} oh
-Dialogue: 0,0:01:39.25,0:01:40.67,DEFAULT,,0,0,0,,{\kf19}Oh{\kf15} oh{\kf79} oh
-Dialogue: 0,0:01:41.20,0:01:42.32,DEFAULT,,0,0,0,,{\kf19}Oh{\kf79} oh
-Dialogue: 0,0:01:42.59,0:01:43.94,DEFAULT,,0,0,0,,{\kf19}Oh{\kf27} oh{\kf27} oh{\kf34}~
-Dialogue: 0,0:01:44.50,0:01:45.59,DEFAULT,,0,0,0,,{\kf27}Oh{\kf68} oh
-Dialogue: 0,0:01:46.00,0:01:47.27,DEFAULT,,0,0,0,,{\kf19}Oh{\kf19} oh{\kf60} oh
-Dialogue: 0,0:01:48.02,0:01:51.21,DEFAULT,,0,0,0,,{\kf15}A{\kf19} lit{\kf12}tle{\kf15} glass{\kf15} of{\kf34} wa{\kf23}ter{\kf23} if{\kf23} you{\kf42} please
-Dialogue: 0,0:01:51.70,0:01:54.51,DEFAULT,,0,0,0,,{\kf19}Con{\kf15}nais{\kf15}seur{\kf15} of{\kf30} cha{\kf23}os,{\kf27} yes{\kf27} that's{\kf34} me
-Dialogue: 0,0:01:55.00,0:01:57.47,DEFAULT,,0,0,0,,{\kf15}Just{\kf23} one{\kf23} small{\kf23} re{\kf19}quest{\kf19} my{\kf45} dear
-Dialogue: 0,0:01:58.07,0:02:01.07,DEFAULT,,0,0,0,,{\kf19}Let's{\kf23} fall{\kf19} in{\kf27} love{\kf15} be{\kf12}fore{\kf12} I{\kf23} dis{\kf23}ap{\kf38}pear
-Dialogue: 0,0:02:01.49,0:02:03.62,DEFAULT,,0,0,0,,{\kf12}It's{\kf15} clear{\kf15} as{\kf15} night{\kf12} and{\kf19} day{\kf12}~,{\kf12} up{\kf12} and{\kf23} down
-Dialogue: 0,0:02:03.81,0:02:05.31,DEFAULT,,0,0,0,,{\kf15}Good{\kf12} or{\kf23} bad,{\kf12} not{\kf15} so{\kf27} much
-Dialogue: 0,0:02:05.46,0:02:07.86,DEFAULT,,0,0,0,,{\kf12}I{\kf15} just{\kf23} can't{\kf27} stop{\kf42} now{\kf64}~
-Dialogue: 0,0:02:08.42,0:02:10.37,DEFAULT,,0,0,0,,{\kf19}E{\kf15}very{\kf15}thing{\kf15} you{\kf23} know,{\kf12} or{\kf19} have{\kf23} known
-Dialogue: 0,0:02:10.56,0:02:13.97,DEFAULT,,0,0,0,,{\kf15}No{\kf15} ma{\kf27}te{\kf15}ri{\kf12}al{\kf19} thing{\kf12} could{\kf19} be{\kf23} so{\kf23} much{\kf27} dif{\kf19}ferent
-Dialogue: 0,0:02:14.20,0:02:16.94,DEFAULT,,0,0,0,,{\kf8}And{\kf30} ooh{\kf15} the{\kf15} ma{\kf15}gic{\kf15} of{\kf19} mis{\kf75}chief
-Dialogue: 0,0:02:17.46,0:02:20.87,DEFAULT,,0,0,0,,{\kf15}Don't{\kf15} knock{\kf23} it{\kf23} till{\kf27} you{\kf34} try{\kf128} it
-Dialogue: 0,0:02:21.21,0:02:24.85,DEFAULT,,0,0,0,,{\kf12}And{\kf15} I've{\kf15} got{\kf12} a{\kf19} knack{\kf19} for{\kf19} shit{\kf27} you've{\kf27} ne{\kf23}ver{\kf68} seen
-Dialogue: 0,0:02:25.41,0:02:27.32,DEFAULT,,0,0,0,,{\kf19}Why{\kf12} don't{\kf12} you{\kf12} take{\kf12} a{\kf42} look{\kf38}~
-Dialogue: 0,0:02:28.34,0:02:30.66,DEFAULT,,0,0,0,,{\kf15}The{\kf15} ma{\kf15}gic{\kf15} of{\kf27} mis{\kf98}chief
-Dialogue: 0,0:02:33.17,0:02:34.34,DEFAULT,,0,0,0,,{\kf27}Oh{\kf75} oh
-Dialogue: 0,0:02:35.01,0:02:40.00,DEFAULT,,0,0,0,,{\kf19}The{\kf15} ma{\kf15}gic{\kf15} of{\kf27} mis{\kf124}chief{\kf64}~{\kf8}~{\kf8}~{\kf124}~
-Dialogue: 0,0:02:41.57,0:02:42.74,DEFAULT,,0,0,0,,{\kf27}Oh{\kf75} oh
-Dialogue: 0,0:02:42.96,0:02:44.50,DEFAULT,,0,0,0,,{\kf15}Oh{\kf19} oh{\kf34} oh{\kf42}~
-Dialogue: 0,0:02:44.80,0:02:46.15,DEFAULT,,0,0,0,,{\kf12}Oh{\kf19} oh{\kf79} oh
-Dialogue: 0,0:02:46.41,0:02:47.72,DEFAULT,,0,0,0,,{\kf19}Oh{\kf15} oh{\kf72} oh
-Dialogue: 0,0:02:48.36,0:02:49.41,DEFAULT,,0,0,0,,{\kf19}Oh{\kf72} oh
-Dialogue: 0,0:02:49.75,0:02:51.10,DEFAULT,,0,0,0,,{\kf15}Oh{\kf19} oh{\kf34} oh{\kf30}~
-Dialogue: 0,0:02:51.47,0:02:52.75,DEFAULT,,0,0,0,,{\kf15}Oh{\kf19} oh{\kf68} oh
-Dialogue: 0,0:02:53.20,0:02:54.06,DEFAULT,,0,0,0,,{\kf19}Oh{\kf19} oh{\kf27} oh
-Dialogue: 0,0:02:54.40,0:02:57.25,DEFAULT,,0,0,0,,{\kf49}Ooh{\kf19} and{\kf15} e{\kf15}very{\kf12} time{\kf45} we{\kf60} touch
-Dialogue: 0,0:02:57.47,0:03:00.44,DEFAULT,,0,0,0,,{\kf15}Can't{\kf19} for{\kf42}get{\kf12} this{\kf15} si{\kf19}nis{\kf15}ter{\kf15} life{\kf12}~{\kf60}~
-Dialogue: 0,0:03:01.07,0:03:03.66,DEFAULT,,0,0,0,,{\kf15}A{\kf19} de{\kf15}mon{\kf15} of{\kf19} my{\kf42} own{\kf27} de{\kf64}sign
-Dialogue: 0,0:03:03.96,0:03:07.07,DEFAULT,,0,0,0,,{\kf15}Ten{\kf15} thou{\kf15}sand{\kf45} years,{\kf12} a{\kf15} pi{\kf15}ti{\kf23}ful{\kf15} life{\kf12}~{\kf42}~
-Dialogue: 0,0:03:08.05,0:03:10.79,DEFAULT,,0,0,0,,{\kf27}Dis{\kf53}cord,{\kf27} still{\kf15} howl{\kf15}ing{\kf12} at{\kf12} the{\kf30} moon
-Dialogue: 0,0:03:10.97,0:03:14.12,DEFAULT,,0,0,0,,{\kf8}Try{\kf8}ing{\kf12} to{\kf19} fi{\kf15}gure{\kf27} out{\kf27}~{\kf12} what{\kf12} I{\kf45} did{\kf64} wrong
-Dialogue: 0,0:03:14.72,0:03:16.26,DEFAULT,,0,0,0,,{\kf27}Big{\kf27} bang,{\kf15} tooth{\kf15} and{\kf23} fang
-Dialogue: 0,0:03:16.41,0:03:17.87,DEFAULT,,0,0,0,,{\kf12}Live{\kf12} a{\kf12} song{\kf12} I{\kf12} ne{\kf12}ver{\kf23} sang
-Dialogue: 0,0:03:18.10,0:03:19.41,DEFAULT,,0,0,0,,{\kf15}Live{\kf12} a{\kf12} song{\kf12} I{\kf12} did{\kf12} the{\kf8} same
-Dialogue: 0,0:03:19.56,0:03:20.80,DEFAULT,,0,0,0,,{\kf8}But{\kf12} I{\kf23} can't{\kf15} get{\kf12} e{\kf19}nough
-Dialogue: 0,0:03:22.07,0:03:24.36,DEFAULT,,0,0,0,,{\kf12}The{\kf15} ma{\kf15}gic{\kf15} of{\kf30} mis{\kf105}chief
-Dialogue: 0,0:03:26.61,0:03:28.11,DEFAULT,,0,0,0,,{\kf23}Oh{\kf23}~{\kf79} oh
-Dialogue: 0,0:03:28.71,0:03:33.77,DEFAULT,,0,0,0,,{\kf12}The{\kf15} ma{\kf15}gic{\kf15} of{\kf30} mis{\kf128}chief{\kf57}~{\kf12}~{\kf12}~{\kf132}~
-Dialogue: 0,0:03:35.27,0:03:36.47,DEFAULT,,0,0,0,,{\kf27}Oh{\kf79} oh
-Dialogue: 0,0:03:36.70,0:03:38.09,DEFAULT,,0,0,0,,{\kf19}Oh{\kf23} oh{\kf34} oh{\kf30}~
-Dialogue: 0,0:03:38.46,0:03:39.89,DEFAULT,,0,0,0,,{\kf15}Oh{\kf19} oh{\kf79} oh
-Dialogue: 0,0:03:40.11,0:03:41.39,DEFAULT,,0,0,0,,{\kf23}Oh{\kf19} oh{\kf60} oh
-Dialogue: 0,0:03:41.99,0:03:43.19,DEFAULT,,0,0,0,,{\kf15}Oh{\kf12}~{\kf75} oh
-Dialogue: 0,0:03:43.52,0:03:44.95,DEFAULT,,0,0,0,,{\kf15}Oh{\kf23} oh{\kf30} oh{\kf42}~
-Dialogue: 0,0:03:45.21,0:03:46.41,DEFAULT,,0,0,0,,{\kf15}Oh{\kf19} oh{\kf60} oh
-Dialogue: 0,0:03:46.86,0:03:48.25,DEFAULT,,0,0,0,,{\kf23}Oh{\kf19} oh{\kf75} oh
+Dialogue: 0,0:00:13.45,0:00:16.19,DEFAULT,,0,0,0,,{\r}{\kf61}Ooh{\kf14} the{\kf24} ma{\kf24}gic{\kf14} of{\kf43} mis{\kf94}chief
+Dialogue: 0,0:00:16.83,0:00:21.29,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf35} don't{\kf35} know{\kf25} what{\kf20} my{\kf35} next{\kf75} step{\kf55} might{\kf30} be{\kf116}~
+Dialogue: 0,0:00:22.00,0:00:24.70,DEFAULT,,0,0,0,,{\r}{\kf90}Ooh,{\kf16} I{\kf32} like{\kf132} it
+Dialogue: 0,0:00:25.00,0:00:27.55,DEFAULT,,0,0,0,,{\r}{\kf20}We{\kf20} play{\kf29} the{\kf49} games{\kf34} we{\kf103} play
+Dialogue: 0,0:00:53.77,0:00:58.57,DEFAULT,,0,0,0,,{\r}{\kf63}Ooh{\kf26} you{\kf21} wan{\kf21}na{\kf16} have{\kf16} a{\kf37} good{\kf37} time{\kf42} ba{\kf42}by{\kf52}~{\kf21}~{\kf21}~{\kf65}~?
+Dialogue: 0,0:01:01.12,0:01:03.22,DEFAULT,,0,0,0,,{\r}{\kf20}Well{\kf24} I've{\kf29} got{\kf29} the{\kf39} cha{\kf69}os
+Dialogue: 0,0:01:03.40,0:01:06.14,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf20} the{\kf45} fun{\kf35}ny{\kf40} busi{\kf30}ness{\kf89}~
+Dialogue: 0,0:01:06.93,0:01:09.85,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf59} ooh,{\kf15} the{\kf25} ma{\kf20}gic{\kf20} of{\kf35} mis{\kf103}chief
+Dialogue: 0,0:01:10.30,0:01:13.90,DEFAULT,,0,0,0,,{\r}{\kf25}Don't{\kf25} knock{\kf25} it{\kf40} till{\kf30} you{\kf40} try{\kf50} it{\kf25}~{\kf20}~{\kf15}~{\kf65}~
+Dialogue: 0,0:01:14.09,0:01:18.10,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} I've{\kf21} got{\kf21} a{\kf32} knack{\kf37} for{\kf43} shit{\kf37} you've{\kf37} ne{\kf43}ver{\kf88} seen
+Dialogue: 0,0:01:18.33,0:01:20.28,DEFAULT,,0,0,0,,{\r}{\kf19}Why{\kf14} don't{\kf14} you{\kf19} take{\kf14} a{\kf24} look{\kf91}~
+Dialogue: 0,0:01:21.22,0:01:23.50,DEFAULT,,0,0,0,,{\r}{\kf15}The{\kf19} ma{\kf15}gic{\kf15} of{\kf34} mis{\kf131}chief
+Dialogue: 0,0:01:25.83,0:01:27.29,DEFAULT,,0,0,0,,{\r}{\kf22}Oh{\kf27}~{\kf97} oh
+Dialogue: 0,0:01:27.89,0:01:32.99,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf22} ma{\kf17}gic{\kf13} of{\kf35} mis{\kf156}chief{\kf61}~{\kf10}~{\kf10}~{\kf169}~
+Dialogue: 0,0:01:34.45,0:01:35.65,DEFAULT,,0,0,0,,{\r}{\kf30}Oh{\kf90} oh
+Dialogue: 0,0:01:35.88,0:01:37.42,DEFAULT,,0,0,0,,{\r}{\kf30}Oh{\kf25} oh{\kf40} oh{\kf59}~
+Dialogue: 0,0:01:37.60,0:01:38.99,DEFAULT,,0,0,0,,{\r}{\kf23}Oh{\kf19} oh{\kf97} oh
+Dialogue: 0,0:01:39.25,0:01:40.68,DEFAULT,,0,0,0,,{\r}{\kf24}Oh{\kf19} oh{\kf100} oh
+Dialogue: 0,0:01:41.20,0:01:42.33,DEFAULT,,0,0,0,,{\r}{\kf22}Oh{\kf90} oh
+Dialogue: 0,0:01:42.59,0:01:43.94,DEFAULT,,0,0,0,,{\r}{\kf24}Oh{\kf34} oh{\kf34} oh{\kf43}~
+Dialogue: 0,0:01:44.50,0:01:45.59,DEFAULT,,0,0,0,,{\r}{\kf31}Oh{\kf78} oh
+Dialogue: 0,0:01:46.00,0:01:47.28,DEFAULT,,0,0,0,,{\r}{\kf25}Oh{\kf25} oh{\kf78} oh
+Dialogue: 0,0:01:48.03,0:01:51.22,DEFAULT,,0,0,0,,{\r}{\kf22}A{\kf27} lit{\kf16}tle{\kf22} glass{\kf22} of{\kf50} wa{\kf33}ter{\kf33} if{\kf33} you{\kf61} please
+Dialogue: 0,0:01:51.70,0:01:54.52,DEFAULT,,0,0,0,,{\r}{\kf26}Con{\kf21}nais{\kf21}seur{\kf21} of{\kf42} cha{\kf31}os,{\kf36} yes{\kf36} that's{\kf47} me
+Dialogue: 0,0:01:55.00,0:01:57.48,DEFAULT,,0,0,0,,{\r}{\kf23}Just{\kf34} one{\kf34} small{\kf34} re{\kf28}quest{\kf28} my{\kf67} dear
+Dialogue: 0,0:01:58.08,0:02:01.08,DEFAULT,,0,0,0,,{\r}{\kf27}Let's{\kf33} fall{\kf27} in{\kf38} love{\kf22} be{\kf16}fore{\kf16} I{\kf33} dis{\kf33}ap{\kf55}pear
+Dialogue: 0,0:02:01.49,0:02:03.63,DEFAULT,,0,0,0,,{\r}{\kf17}It's{\kf23} clear{\kf23} as{\kf23} night{\kf17} and{\kf28} day{\kf17}~,{\kf17} up{\kf17} and{\kf32} down
+Dialogue: 0,0:02:03.82,0:02:05.32,DEFAULT,,0,0,0,,{\r}{\kf22}Good{\kf17} or{\kf33} bad,{\kf17} not{\kf22} so{\kf39} much
+Dialogue: 0,0:02:05.47,0:02:07.87,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf20} just{\kf30} can't{\kf35} stop{\kf55} now{\kf85}~
+Dialogue: 0,0:02:08.43,0:02:10.38,DEFAULT,,0,0,0,,{\r}{\kf26}E{\kf21}very{\kf21}thing{\kf21} you{\kf32} know,{\kf16} or{\kf26} have{\kf32} known
+Dialogue: 0,0:02:10.57,0:02:13.98,DEFAULT,,0,0,0,,{\r}{\kf23}No{\kf23} ma{\kf40}te{\kf23}ri{\kf17}al{\kf29} thing{\kf17} could{\kf29} be{\kf35} so{\kf35} much{\kf40} dif{\kf30}ferent
+Dialogue: 0,0:02:14.20,0:02:16.94,DEFAULT,,0,0,0,,{\r}{\kf11}And{\kf43} ooh{\kf21} the{\kf21} ma{\kf21}gic{\kf21} of{\kf27} mis{\kf109}chief
+Dialogue: 0,0:02:17.47,0:02:20.88,DEFAULT,,0,0,0,,{\r}{\kf19}Don't{\kf19} knock{\kf29} it{\kf29} till{\kf34} you{\kf44} try{\kf167} it
+Dialogue: 0,0:02:21.22,0:02:24.85,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf22} I've{\kf22} got{\kf16} a{\kf27} knack{\kf27} for{\kf27} shit{\kf38} you've{\kf38} ne{\kf33}ver{\kf98} seen
+Dialogue: 0,0:02:25.42,0:02:27.33,DEFAULT,,0,0,0,,{\r}{\kf25}Why{\kf15} don't{\kf15} you{\kf15} take{\kf15} a{\kf55} look{\kf51}~
+Dialogue: 0,0:02:28.34,0:02:30.67,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf19} ma{\kf19}gic{\kf19} of{\kf33} mis{\kf124}chief
+Dialogue: 0,0:02:33.18,0:02:34.34,DEFAULT,,0,0,0,,{\r}{\kf30}Oh{\kf86} oh
+Dialogue: 0,0:02:35.02,0:02:40.00,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf18} ma{\kf18}gic{\kf18} of{\kf31} mis{\kf148}chief{\kf76}~{\kf10}~{\kf10}~{\kf148}~
+Dialogue: 0,0:02:41.58,0:02:42.74,DEFAULT,,0,0,0,,{\r}{\kf30}Oh{\kf86} oh
+Dialogue: 0,0:02:42.97,0:02:44.50,DEFAULT,,0,0,0,,{\r}{\kf21}Oh{\kf27} oh{\kf48} oh{\kf58}~
+Dialogue: 0,0:02:44.80,0:02:46.15,DEFAULT,,0,0,0,,{\r}{\kf14}Oh{\kf23} oh{\kf98} oh
+Dialogue: 0,0:02:46.42,0:02:47.73,DEFAULT,,0,0,0,,{\r}{\kf23}Oh{\kf19} oh{\kf89} oh
+Dialogue: 0,0:02:48.37,0:02:49.42,DEFAULT,,0,0,0,,{\r}{\kf22}Oh{\kf83} oh
+Dialogue: 0,0:02:49.75,0:02:51.10,DEFAULT,,0,0,0,,{\r}{\kf21}Oh{\kf26} oh{\kf47} oh{\kf41}~
+Dialogue: 0,0:02:51.48,0:02:52.75,DEFAULT,,0,0,0,,{\r}{\kf19}Oh{\kf24} oh{\kf85} oh
+Dialogue: 0,0:02:53.20,0:02:54.07,DEFAULT,,0,0,0,,{\r}{\kf25}Oh{\kf25} oh{\kf36} oh
+Dialogue: 0,0:02:54.40,0:02:57.25,DEFAULT,,0,0,0,,{\r}{\kf65}Ooh{\kf25} and{\kf20} e{\kf20}very{\kf15} time{\kf60} we{\kf80} touch
+Dialogue: 0,0:02:57.48,0:03:00.44,DEFAULT,,0,0,0,,{\r}{\kf20}Can't{\kf25} for{\kf55}get{\kf15} this{\kf20} si{\kf25}nis{\kf20}ter{\kf20} life{\kf15}~{\kf81}~
+Dialogue: 0,0:03:01.08,0:03:03.67,DEFAULT,,0,0,0,,{\r}{\kf18}A{\kf23} de{\kf18}mon{\kf18} of{\kf23} my{\kf50} own{\kf32} de{\kf77}sign
+Dialogue: 0,0:03:03.97,0:03:07.08,DEFAULT,,0,0,0,,{\r}{\kf21}Ten{\kf21} thou{\kf21}sand{\kf63} years,{\kf16} a{\kf21} pi{\kf21}ti{\kf32}ful{\kf21} life{\kf16}~{\kf58}~
+Dialogue: 0,0:03:08.05,0:03:10.79,DEFAULT,,0,0,0,,{\r}{\kf38}Dis{\kf77}cord,{\kf38} still{\kf22} howl{\kf22}ing{\kf16} at{\kf16} the{\kf45} moon
+Dialogue: 0,0:03:10.98,0:03:14.13,DEFAULT,,0,0,0,,{\r}{\kf10}Try{\kf10}ing{\kf15} to{\kf24} fi{\kf19}gure{\kf34} out{\kf34}~{\kf15} what{\kf15} I{\kf58} did{\kf81} wrong
+Dialogue: 0,0:03:14.73,0:03:16.27,DEFAULT,,0,0,0,,{\r}{\kf38}Big{\kf38} bang,{\kf22} tooth{\kf22} and{\kf34} fang
+Dialogue: 0,0:03:16.42,0:03:17.88,DEFAULT,,0,0,0,,{\r}{\kf18}Live{\kf18} a{\kf18} song{\kf18} I{\kf18} ne{\kf18}ver{\kf38} sang
+Dialogue: 0,0:03:18.10,0:03:19.42,DEFAULT,,0,0,0,,{\r}{\kf25}Live{\kf19} a{\kf19} song{\kf19} I{\kf19} did{\kf19} the{\kf11} same
+Dialogue: 0,0:03:19.57,0:03:20.80,DEFAULT,,0,0,0,,{\r}{\kf11}But{\kf16} I{\kf32} can't{\kf22} get{\kf16} e{\kf27}nough
+Dialogue: 0,0:03:22.08,0:03:24.37,DEFAULT,,0,0,0,,{\r}{\kf13}The{\kf18} ma{\kf18}gic{\kf18} of{\kf36} mis{\kf126}chief
+Dialogue: 0,0:03:26.62,0:03:28.12,DEFAULT,,0,0,0,,{\r}{\kf27}Oh{\kf27}~{\kf96} oh
+Dialogue: 0,0:03:28.72,0:03:33.78,DEFAULT,,0,0,0,,{\r}{\kf13}The{\kf18} ma{\kf18}gic{\kf18} of{\kf36} mis{\kf152}chief{\kf67}~{\kf13}~{\kf13}~{\kf158}~
+Dialogue: 0,0:03:35.28,0:03:36.48,DEFAULT,,0,0,0,,{\r}{\kf30}Oh{\kf90} oh
+Dialogue: 0,0:03:36.70,0:03:38.09,DEFAULT,,0,0,0,,{\r}{\kf25}Oh{\kf30} oh{\kf45} oh{\kf39}~
+Dialogue: 0,0:03:38.47,0:03:39.89,DEFAULT,,0,0,0,,{\r}{\kf19}Oh{\kf24} oh{\kf100} oh
+Dialogue: 0,0:03:40.12,0:03:41.39,DEFAULT,,0,0,0,,{\r}{\kf28}Oh{\kf24} oh{\kf76} oh
+Dialogue: 0,0:03:41.99,0:03:43.19,DEFAULT,,0,0,0,,{\r}{\kf18}Oh{\kf13}~{\kf89} oh
+Dialogue: 0,0:03:43.53,0:03:44.95,DEFAULT,,0,0,0,,{\r}{\kf20}Oh{\kf30} oh{\kf39} oh{\kf54}~
+Dialogue: 0,0:03:45.22,0:03:46.42,DEFAULT,,0,0,0,,{\r}{\kf19}Oh{\kf24} oh{\kf77} oh
+Dialogue: 0,0:03:46.87,0:03:48.25,DEFAULT,,0,0,0,,{\r}{\kf27}Oh{\kf22} oh{\kf90} oh

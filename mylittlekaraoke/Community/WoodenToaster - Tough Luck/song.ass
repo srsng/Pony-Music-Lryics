@@ -1,35 +1,42 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Tough Luck
+Artist: Glaze
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:16.89,0:00:20.60,DEFAULT,,0,0,0,,{\kf19}You've{\kf19} got{\kf19} the{\kf26} mo{\kf26}ti{\kf26}va{\kf19}tion{\kf19} but{\kf19} no{\kf26} time{\kf19}~
-Dialogue: 0,0:00:20.92,0:00:24.64,DEFAULT,,0,0,0,,{\kf26}With{\kf19}out{\kf19} the{\kf26} Com{\kf26}pli{\kf26}ca{\kf19}tor{\kf19} we're{\kf45} all{\kf26} fine{\kf19}~
-Dialogue: 0,0:00:24.95,0:00:28.67,DEFAULT,,0,0,0,,{\kf19}The{\kf19} choice{\kf19} is{\kf19} not{\kf19} as{\kf26} sim{\kf19}ple{\kf19} as{\kf45} 0{\kf26} 1{\kf19}~
-Dialogue: 0,0:00:28.99,0:00:32.70,DEFAULT,,0,0,0,,{\kf19}Just{\kf19} choose{\kf19} which{\kf26}e{\kf19}ver{\kf26} seems{\kf19} the{\kf26} most{\kf26} fun{\kf19}~
-Dialogue: 0,0:00:33.02,0:00:36.74,DEFAULT,,0,0,0,,{\kf19}They'll{\kf19} say{\kf19} you're{\kf26} too{\kf26} fo{\kf19}cused{\kf19} on{\kf26} one{\kf32} i{\kf26}de{\kf45}al
-Dialogue: 0,0:00:37.31,0:00:40.77,DEFAULT,,0,0,0,,{\kf26}E{\kf19}ven{\kf19} though{\kf19} your{\kf19} life{\kf26} is{\kf32} crum{\kf32}bling,{\kf19} I{\kf26} feel{\kf19}~
-Dialogue: 0,0:00:41.09,0:00:44.68,DEFAULT,,0,0,0,,{\kf19}There's{\kf19} so{\kf19} much{\kf19} in{\kf19} this{\kf26} world{\kf19} to{\kf32} know{\kf26} what{\kf19} we{\kf32} want
-Dialogue: 0,0:00:45.12,0:00:48.46,DEFAULT,,0,0,0,,{\kf19}But{\kf19} we{\kf19} won't{\kf26} ac{\kf26}cept{\kf7} there's{\kf7} a{\kf13} word{\kf13} such{\kf19} as{\kf32} can't
-Dialogue: 0,0:01:05.73,0:01:09.07,DEFAULT,,0,0,0,,{\kf26}This{\kf19} is{\kf19} a{\kf51} tough{\kf38} choice{\kf32} to{\kf32} make{\kf51}~
-Dialogue: 0,0:01:09.83,0:01:13.10,DEFAULT,,0,0,0,,{\kf19}I{\kf19} won't{\kf19} be{\kf26} bi{\kf19}ased{\kf19} for{\kf32} my{\kf26} own{\kf26} sake{\kf57}~
-Dialogue: 0,0:01:14.11,0:01:17.39,DEFAULT,,0,0,0,,{\kf38}There's{\kf32} o{\kf19}thers{\kf26} in{\kf26}volved{\kf32}~{\kf26} to{\kf26}ge{\kf76}ther
-Dialogue: 0,0:01:17.89,0:01:21.55,DEFAULT,,0,0,0,,{\kf19}I{\kf19} feel{\kf19} them{\kf57} now{\kf45} more{\kf51} than{\kf26} e{\kf89}ver
-Dialogue: 0,0:02:25.96,0:02:29.68,DEFAULT,,0,0,0,,{\kf19}They'll{\kf19} say{\kf19} you're{\kf32} too{\kf32} fo{\kf19}cused{\kf19} on{\kf26} one{\kf32} i{\kf26}de{\kf45}al
-Dialogue: 0,0:02:30.25,0:02:33.78,DEFAULT,,0,0,0,,{\kf26}E{\kf19}ven{\kf19} though{\kf19} your{\kf19} life{\kf26} is{\kf32} crum{\kf32}bling,{\kf19} I{\kf26} feel{\kf26}~
-Dialogue: 0,0:02:34.03,0:02:37.68,DEFAULT,,0,0,0,,{\kf19}There's{\kf19} so{\kf19} much{\kf19} in{\kf19} this{\kf38} world{\kf19} to{\kf38} know{\kf32} what{\kf26} we{\kf38} want
-Dialogue: 0,0:02:38.06,0:02:41.53,DEFAULT,,0,0,0,,{\kf19}But{\kf19} we{\kf19} won't{\kf26} ac{\kf26}cept{\kf7} there's{\kf7} a{\kf19} word{\kf13} such{\kf19} as{\kf45} can't
-Dialogue: 0,0:02:58.73,0:03:02.01,DEFAULT,,0,0,0,,{\kf19}This{\kf19} is{\kf19} a{\kf45} tough{\kf32} choice{\kf38} to{\kf26} make{\kf57}~
-Dialogue: 0,0:03:02.77,0:03:05.98,DEFAULT,,0,0,0,,{\kf19}I{\kf19} won't{\kf19} be{\kf26} bi{\kf19}ased{\kf19} for{\kf26} my{\kf32} own{\kf26} sake{\kf51}~
-Dialogue: 0,0:03:07.05,0:03:10.33,DEFAULT,,0,0,0,,{\kf38}There's{\kf26} o{\kf19}thers{\kf26} in{\kf32}volved{\kf26}~{\kf26} to{\kf26}ge{\kf76}ther
-Dialogue: 0,0:03:10.83,0:03:14.49,DEFAULT,,0,0,0,,{\kf19}I{\kf19} feel{\kf19} them{\kf51} now{\kf38} more{\kf38} than{\kf26} e{\kf26}ver{\kf70}~
-Dialogue: 0,0:03:14.87,0:03:18.15,DEFAULT,,0,0,0,,{\kf19}This{\kf19} is{\kf19} a{\kf57} tough{\kf38} choice{\kf38} to{\kf26} make{\kf51}~
-Dialogue: 0,0:03:18.90,0:03:22.18,DEFAULT,,0,0,0,,{\kf19}I{\kf19} won't{\kf19} be{\kf26} bi{\kf19}ased{\kf19} for{\kf38} my{\kf38} own{\kf26} sake{\kf51}~
-Dialogue: 0,0:03:23.19,0:03:26.46,DEFAULT,,0,0,0,,{\kf38}There's{\kf26} o{\kf19}thers{\kf26} in{\kf26}volved{\kf32}~{\kf26} to{\kf26}ge{\kf76}ther
-Dialogue: 0,0:03:26.97,0:03:30.56,DEFAULT,,0,0,0,,{\kf19}I{\kf19} feel{\kf19} them{\kf51} now{\kf38} more{\kf38} than{\kf26} e{\kf82}ver
+Dialogue: 0,0:00:16.89,0:00:20.61,DEFAULT,,0,0,0,,{\r}{\kf30}You've{\kf30} got{\kf30} the{\kf40} mo{\kf40}ti{\kf40}va{\kf30}tion{\kf30} but{\kf30} no{\kf40} time{\kf32}~
+Dialogue: 0,0:00:20.92,0:00:24.64,DEFAULT,,0,0,0,,{\r}{\kf35}With{\kf27}out{\kf27} the{\kf35} Com{\kf35}pli{\kf35}ca{\kf27}tor{\kf27} we're{\kf62} all{\kf35} fine{\kf27}~
+Dialogue: 0,0:00:24.96,0:00:28.68,DEFAULT,,0,0,0,,{\r}{\kf29}The{\kf29} choice{\kf29} is{\kf29} not{\kf29} as{\kf38} sim{\kf29}ple{\kf29} as{\kf67} 0{\kf38} 1{\kf26}~
+Dialogue: 0,0:00:28.99,0:00:32.71,DEFAULT,,0,0,0,,{\r}{\kf33}Just{\kf33} choose{\kf33} which{\kf44}e{\kf33}ver{\kf44} seems{\kf33} the{\kf44} most{\kf44} fun{\kf31}~
+Dialogue: 0,0:00:33.02,0:00:36.74,DEFAULT,,0,0,0,,{\r}{\kf26}They'll{\kf26} say{\kf26} you're{\kf35} too{\kf35} fo{\kf26}cused{\kf26} on{\kf35} one{\kf43} i{\kf35}de{\kf59}al
+Dialogue: 0,0:00:37.31,0:00:40.78,DEFAULT,,0,0,0,,{\r}{\kf35}E{\kf26}ven{\kf26} though{\kf26} your{\kf26} life{\kf35} is{\kf43} crum{\kf43}bling,{\kf26} I{\kf35} feel{\kf26}~
+Dialogue: 0,0:00:41.09,0:00:44.68,DEFAULT,,0,0,0,,{\r}{\kf28}There's{\kf28} so{\kf28} much{\kf28} in{\kf28} this{\kf37} world{\kf28} to{\kf46} know{\kf37} what{\kf28} we{\kf43} want
+Dialogue: 0,0:00:45.13,0:00:48.47,DEFAULT,,0,0,0,,{\r}{\kf32}But{\kf32} we{\kf32} won't{\kf43} ac{\kf43}cept{\kf11} there's{\kf11} a{\kf22} word{\kf22} such{\kf32} as{\kf54} can't
+Dialogue: 0,0:01:05.73,0:01:09.07,DEFAULT,,0,0,0,,{\r}{\kf32}This{\kf24} is{\kf24} a{\kf64} tough{\kf48} choice{\kf40} to{\kf40} make{\kf62}~
+Dialogue: 0,0:01:09.83,0:01:13.11,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} won't{\kf24} be{\kf32} bi{\kf24}ased{\kf24} for{\kf40} my{\kf32} own{\kf32} sake{\kf72}~
+Dialogue: 0,0:01:14.12,0:01:17.39,DEFAULT,,0,0,0,,{\r}{\kf42}There's{\kf35} o{\kf21}thers{\kf28} in{\kf28}volved{\kf35}~{\kf28} to{\kf28}ge{\kf83}ther
+Dialogue: 0,0:01:17.90,0:01:21.55,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} feel{\kf22} them{\kf65} now{\kf50} more{\kf57} than{\kf29} e{\kf99}ver
+Dialogue: 0,0:02:25.97,0:02:29.68,DEFAULT,,0,0,0,,{\r}{\kf25}They'll{\kf25} say{\kf25} you're{\kf41} too{\kf41} fo{\kf25}cused{\kf25} on{\kf33} one{\kf41} i{\kf33}de{\kf58}al
+Dialogue: 0,0:02:30.25,0:02:33.78,DEFAULT,,0,0,0,,{\r}{\kf34}E{\kf26}ven{\kf26} though{\kf26} your{\kf26} life{\kf34} is{\kf43} crum{\kf43}bling,{\kf26} I{\kf34} feel{\kf35}~
+Dialogue: 0,0:02:34.03,0:02:37.69,DEFAULT,,0,0,0,,{\r}{\kf24}There's{\kf24} so{\kf24} much{\kf24} in{\kf24} this{\kf49} world{\kf24} to{\kf49} know{\kf41} what{\kf33} we{\kf50} want
+Dialogue: 0,0:02:38.07,0:02:41.53,DEFAULT,,0,0,0,,{\r}{\kf31}But{\kf31} we{\kf31} won't{\kf41} ac{\kf41}cept{\kf10} there's{\kf10} a{\kf31} word{\kf20} such{\kf31} as{\kf70} can't
+Dialogue: 0,0:02:58.74,0:03:02.02,DEFAULT,,0,0,0,,{\r}{\kf25}This{\kf25} is{\kf25} a{\kf57} tough{\kf41} choice{\kf49} to{\kf33} make{\kf73}~
+Dialogue: 0,0:03:02.77,0:03:05.99,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} won't{\kf24} be{\kf32} bi{\kf24}ased{\kf24} for{\kf32} my{\kf40} own{\kf32} sake{\kf65}~
+Dialogue: 0,0:03:07.06,0:03:10.34,DEFAULT,,0,0,0,,{\r}{\kf43}There's{\kf29} o{\kf21}thers{\kf29} in{\kf36}volved{\kf29}~{\kf29} to{\kf29}ge{\kf83}ther
+Dialogue: 0,0:03:10.84,0:03:14.50,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf23} feel{\kf23} them{\kf61} now{\kf46} more{\kf46} than{\kf30} e{\kf30}ver{\kf84}~
+Dialogue: 0,0:03:14.87,0:03:18.15,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf23} is{\kf23} a{\kf70} tough{\kf47} choice{\kf47} to{\kf31} make{\kf64}~
+Dialogue: 0,0:03:18.91,0:03:22.18,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf23} won't{\kf23} be{\kf31} bi{\kf23}ased{\kf23} for{\kf46} my{\kf46} own{\kf31} sake{\kf59}~
+Dialogue: 0,0:03:23.19,0:03:26.47,DEFAULT,,0,0,0,,{\r}{\kf43}There's{\kf29} o{\kf21}thers{\kf29} in{\kf29}volved{\kf36}~{\kf29} to{\kf29}ge{\kf83}ther
+Dialogue: 0,0:03:26.97,0:03:30.57,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf23} feel{\kf23} them{\kf62} now{\kf47} more{\kf47} than{\kf31} e{\kf103}ver

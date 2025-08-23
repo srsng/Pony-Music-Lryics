@@ -1,72 +1,79 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: This Is What It's Like (feat. Envia Sun, SaxPon3 & TheMusicReborn)
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by barbeque
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.09,0:00:05.78,DEFAULT,,0,0,0,,{\kf12}I{\kf12} guess{\kf12} I'm{\kf16} up{\kf12} in{\kf16} spa{\kf12}-ace
-Dialogue: 0,0:00:06.02,0:00:07.98,DEFAULT,,0,0,0,,{\kf27}We{\kf8}-ell,{\kf12} what{\kf16} can{\kf12} you{\kf66} do?
-Dialogue: 0,0:00:11.44,0:00:13.18,DEFAULT,,0,0,0,,{\kf12}You{\kf12} should{\kf8}n't{\kf16} cha{\kf24}llenge{\kf31} fate
-Dialogue: 0,0:00:13.37,0:00:15.72,DEFAULT,,0,0,0,,{\kf27}When{\kf12} you're{\kf16} like{\kf12}ly{\kf12} to{\kf20} lo{\kf77}-ose
-Dialogue: 0,0:00:19.18,0:00:23.95,DEFAULT,,0,0,0,,{\kf16}It's{\kf31} been{\kf16} a{\kf16} while{\kf27} since{\kf12} I{\kf16} took{\kf12} a{\kf24} va{\kf58}ca{\kf12}-a{\kf77}tion
-Dialogue: 0,0:00:26.38,0:00:32.23,DEFAULT,,0,0,0,,{\kf35}I'll{\kf16} just{\kf12} re{\kf31}lax{\kf20} and{\kf35} watch{\kf12} as{\kf20} they{\kf35} rai{\kf12}~se{\kf27} the{\kf12}~{\kf116} sun
-Dialogue: 0,0:00:33.31,0:00:34.23,DEFAULT,,0,0,0,,{\kf93}So
-Dialogue: 0,0:00:35.23,0:00:37.73,DEFAULT,,0,0,0,,{\kf20}This{\kf20} is{\kf20} what{\kf16} it's{\kf89} like
-Dialogue: 0,0:00:38.70,0:00:41.51,DEFAULT,,0,0,0,,{\kf12}Ste{\kf12}-e{\kf12}pping{\kf16} in{\kf12} sis{\kf27}ter's{\kf85} hooves
-Dialogue: 0,0:00:42.35,0:00:45.12,DEFAULT,,0,0,0,,{\kf16}And{\kf16} this{\kf20} is{\kf20} ho{\kf12}-ow{\kf12} it{\kf85} feels
-Dialogue: 0,0:00:45.74,0:00:48.74,DEFAULT,,0,0,0,,{\kf20}When{\kf12} you{\kf24} got{\kf24} no{\kf35}thing{\kf16} to{\kf74} lose
-Dialogue: 0,0:00:49.78,0:00:52.48,DEFAULT,,0,0,0,,{\kf12}And{\kf20} I{\kf35} can't{\kf12} he{\kf12}-elp{\kf12} but{\kf12} thi{\kf62}-ink
-Dialogue: 0,0:00:53.21,0:00:55.86,DEFAULT,,0,0,0,,{\kf16}Of{\kf35} ev{\kf12}ery{\kf27}thing{\kf27} I've{\kf16} done{\kf51} wrong
-Dialogue: 0,0:00:56.21,0:00:59.29,DEFAULT,,0,0,0,,{\kf12}But{\kf16} now{\kf12} that{\kf12} I{\kf24} kno{\kf16}-ow,{\kf12} it's{\kf12} a{\kf12} won{\kf70}der
-Dialogue: 0,0:01:00.56,0:01:03.21,DEFAULT,,0,0,0,,{\kf12}Why{\kf12} I{\kf12} sent{\kf8} her{\kf20} here{\kf12} for{\kf12} so{\kf12}-o{\kf54} long
-Dialogue: 0,0:01:03.75,0:01:05.22,DEFAULT,,0,0,0,,{\kf24}La{\kf12} da{\kf12} la{\kf66} la
-Dialogue: 0,0:01:05.56,0:01:07.06,DEFAULT,,0,0,0,,{\kf20}La{\kf12} da{\kf16} la{\kf66} la
-Dialogue: 0,0:01:07.45,0:01:10.72,DEFAULT,,0,0,0,,{\kf20}La{\kf12} da{\kf12} la{\kf24} la{\kf31} da{\kf12} da{\kf27} da{\kf20} da{\kf58} da
-Dialogue: 0,0:01:11.14,0:01:12.53,DEFAULT,,0,0,0,,{\kf24}La{\kf12} da{\kf12} la{\kf54} la
-Dialogue: 0,0:01:13.03,0:01:14.45,DEFAULT,,0,0,0,,{\kf20}La{\kf12} da{\kf12} la{\kf66} la
-Dialogue: 0,0:01:14.88,0:01:17.69,DEFAULT,,0,0,0,,{\kf16}La{\kf12} da{\kf12} la{\kf27} la{\kf35} da{\kf16} da{\kf27} da{\kf20} da{\kf16} da
-Dialogue: 0,0:01:17.96,0:01:21.65,DEFAULT,,0,0,0,,{\kf12}It's{\kf12} been{\kf12} a{\kf12} cou{\kf12}ple{\kf24} weeks{\kf27} and{\kf12} I'm{\kf16} star{\kf12}ting{\kf12} to{\kf51} shake
-Dialogue: 0,0:01:25.27,0:01:29.20,DEFAULT,,0,0,0,,{\kf12}I{\kf20} can't{\kf8} be{\kf12}lieve{\kf31} I{\kf39} thought{\kf31} I{\kf12} was{\kf16} ta{\kf12}king{\kf12} a{\kf12} brea{\kf43}~k
-Dialogue: 0,0:01:32.85,0:01:38.47,DEFAULT,,0,0,0,,{\kf39}No{\kf24} walls{\kf12} to{\kf43} hold{\kf16} me{\kf39} in{\kf12} but{\kf24} I{\kf43} ca{\kf12}~n't{\kf31} brea{\kf12}~k{\kf93} out
-Dialogue: 0,0:01:40.32,0:01:46.17,DEFAULT,,0,0,0,,{\kf31}Of{\kf31} all{\kf12} the{\kf54} stars{\kf12} a{\kf31}round{\kf12} me{\kf27} I'm{\kf43} lo{\kf12}-o{\kf35}si{\kf12}-ing{\kf124} count
-Dialogue: 0,0:01:47.25,0:01:48.02,DEFAULT,,0,0,0,,{\kf77}So
-Dialogue: 0,0:01:49.10,0:01:51.56,DEFAULT,,0,0,0,,{\kf20}This{\kf24} is{\kf24} what{\kf20} it's{\kf89} like
-Dialogue: 0,0:01:52.56,0:01:55.37,DEFAULT,,0,0,0,,{\kf12}Ste{\kf12}-e{\kf12}pping{\kf24} in{\kf12} sis{\kf27}ter's{\kf93} hooves
-Dialogue: 0,0:01:56.22,0:01:58.99,DEFAULT,,0,0,0,,{\kf12}And{\kf20} this{\kf20} is{\kf12} ho{\kf16}-ow{\kf12} it{\kf89} feels
-Dialogue: 0,0:01:59.57,0:02:02.57,DEFAULT,,0,0,0,,{\kf24}When{\kf12} you{\kf24} got{\kf24} no{\kf35}thing{\kf16} to{\kf74} lose
-Dialogue: 0,0:02:03.65,0:02:06.34,DEFAULT,,0,0,0,,{\kf12}And{\kf24} I{\kf31} can't{\kf12} he{\kf16}-elp{\kf12} but{\kf16} thi{\kf66}-ink
-Dialogue: 0,0:02:07.07,0:02:09.69,DEFAULT,,0,0,0,,{\kf16}Of{\kf35} ev{\kf12}ery{\kf27}thing{\kf27} I've{\kf20} done{\kf47} wrong
-Dialogue: 0,0:02:10.04,0:02:13.12,DEFAULT,,0,0,0,,{\kf12}But{\kf16} now{\kf12} that{\kf12} I{\kf24} kno{\kf20}-ow,{\kf12} it's{\kf8} a{\kf12} won{\kf70}der
-Dialogue: 0,0:02:14.39,0:02:17.12,DEFAULT,,0,0,0,,{\kf16}Why{\kf12} I{\kf12} sent{\kf8} her{\kf20} here{\kf12} for{\kf12} so{\kf20}-o{\kf62} long
-Dialogue: 0,0:02:46.57,0:02:48.26,DEFAULT,,0,0,0,,{\kf12}It's{\kf12} been{\kf8} a{\kf20} thou{\kf27}sand{\kf27} years
-Dialogue: 0,0:02:48.45,0:02:50.61,DEFAULT,,0,0,0,,{\kf27}Ne{\kf12}ver{\kf16} felt{\kf12} so{\kf12} a{\kf20}lo{\kf54}-one
-Dialogue: 0,0:02:53.92,0:02:55.57,DEFAULT,,0,0,0,,{\kf12}I{\kf12} don't{\kf12} know{\kf16} what{\kf20} I{\kf24} learned
-Dialogue: 0,0:02:55.73,0:02:57.65,DEFAULT,,0,0,0,,{\kf31}I{\kf16} just{\kf16} want{\kf12} to{\kf12} go{\kf12} ho{\kf27}-ome
-Dialogue: 0,0:03:01.50,0:03:07.28,DEFAULT,,0,0,0,,{\kf31}I'm{\kf39} not{\kf12} the{\kf31} prin{\kf16}cess{\kf43} ev{\kf12}ery{\kf24}one{\kf39} kne{\kf12}-ew{\kf35} be{\kf12}-e{\kf116}fore
-Dialogue: 0,0:03:08.89,0:03:14.78,DEFAULT,,0,0,0,,{\kf24}My{\kf20} sun{\kf39}light{\kf35} hides{\kf12} a{\kf35}way{\kf12}-y{\kf20} my{\kf35} sha{\kf20}-a{\kf35}do{\kf12}-owed{\kf124} core
-Dialogue: 0,0:03:15.86,0:03:16.71,DEFAULT,,0,0,0,,{\kf85}So
-Dialogue: 0,0:03:17.71,0:03:20.17,DEFAULT,,0,0,0,,{\kf20}This{\kf16} is{\kf24} what{\kf20} it's{\kf89} like
-Dialogue: 0,0:03:21.17,0:03:23.98,DEFAULT,,0,0,0,,{\kf12}Ste{\kf16}-e{\kf12}pping{\kf20} in{\kf12} sis{\kf31}ter's{\kf93} hooves
-Dialogue: 0,0:03:24.83,0:03:27.60,DEFAULT,,0,0,0,,{\kf12}And{\kf24} this{\kf24} is{\kf12} ho{\kf16}-ow{\kf8} it{\kf89} feels
-Dialogue: 0,0:03:28.18,0:03:31.18,DEFAULT,,0,0,0,,{\kf24}When{\kf12} you{\kf24} got{\kf24} no{\kf35}thing{\kf12} to{\kf74} lose
-Dialogue: 0,0:03:32.26,0:03:34.95,DEFAULT,,0,0,0,,{\kf12}And{\kf20} I{\kf31} can't{\kf12} he{\kf16}-elp{\kf12} but{\kf16} thi{\kf66}-ink
-Dialogue: 0,0:03:35.68,0:03:38.34,DEFAULT,,0,0,0,,{\kf16}Of{\kf27} ev{\kf12}ery{\kf24}thing{\kf31} I've{\kf24} done{\kf51} wrong
-Dialogue: 0,0:03:38.68,0:03:41.73,DEFAULT,,0,0,0,,{\kf8}But{\kf20} now{\kf8} that{\kf12} I{\kf16} kno{\kf24}-ow,{\kf12} it's{\kf8} a{\kf12} won{\kf70}der
-Dialogue: 0,0:03:43.03,0:03:45.69,DEFAULT,,0,0,0,,{\kf12}Why{\kf12} I{\kf12} sent{\kf8} her{\kf20} here{\kf12} for{\kf12} so{\kf12}-o{\kf58} long
-Dialogue: 0,0:03:46.23,0:03:47.65,DEFAULT,,0,0,0,,{\kf24}La{\kf12} da{\kf12} la{\kf58} la
-Dialogue: 0,0:03:48.08,0:03:49.42,DEFAULT,,0,0,0,,{\kf16}La{\kf12} da{\kf16} la{\kf54} la
-Dialogue: 0,0:03:49.96,0:03:53.20,DEFAULT,,0,0,0,,{\kf20}La{\kf12} da{\kf12} la{\kf27} la{\kf35} da{\kf12} da{\kf31} da{\kf16} da{\kf62} da
-Dialogue: 0,0:03:53.66,0:03:55.04,DEFAULT,,0,0,0,,{\kf20}La{\kf12} da{\kf12} la{\kf62} la
-Dialogue: 0,0:03:55.51,0:03:56.89,DEFAULT,,0,0,0,,{\kf16}La{\kf12} da{\kf16} la{\kf58} la
-Dialogue: 0,0:03:57.28,0:04:00.51,DEFAULT,,0,0,0,,{\kf24}La{\kf12} da{\kf12} la{\kf27} la{\kf27} da{\kf12} da{\kf27} da{\kf16} da{\kf54} da
-Dialogue: 0,0:04:01.05,0:04:02.43,DEFAULT,,0,0,0,,{\kf20}La{\kf12} da{\kf12} la{\kf62} la
-Dialogue: 0,0:04:02.86,0:04:04.24,DEFAULT,,0,0,0,,{\kf20}La{\kf12} da{\kf12} la{\kf62} la
-Dialogue: 0,0:04:04.78,0:04:07.98,DEFAULT,,0,0,0,,{\kf12}La{\kf12} da{\kf12} la{\kf27} la{\kf31} da{\kf12} da{\kf31} da{\kf16} da{\kf62} da
-Dialogue: 0,0:04:08.52,0:04:09.82,DEFAULT,,0,0,0,,{\kf12}La{\kf12} da{\kf12} la{\kf62} la
-Dialogue: 0,0:04:10.29,0:04:11.67,DEFAULT,,0,0,0,,{\kf16}La{\kf12} da{\kf12} la{\kf66} la
-Dialogue: 0,0:04:12.13,0:04:17.91,DEFAULT,,0,0,0,,{\kf16}La{\kf12} da{\kf12} la{\kf31} la{\kf27} da{\kf12} da{\kf35} da{\kf35} da{\kf20}-a{\kf251} da
+Dialogue: 0,0:00:04.10,0:00:05.79,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} guess{\kf22} I'm{\kf29} up{\kf22} in{\kf29} spa{\kf23}-ace
+Dialogue: 0,0:00:06.02,0:00:07.98,DEFAULT,,0,0,0,,{\r}{\kf38}We{\kf11}-ell,{\kf16} what{\kf22} can{\kf16} you{\kf93} do?
+Dialogue: 0,0:00:11.45,0:00:13.18,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf20} should{\kf13}n't{\kf27} cha{\kf40}llenge{\kf53} fate
+Dialogue: 0,0:00:13.37,0:00:15.72,DEFAULT,,0,0,0,,{\r}{\kf37}When{\kf16} you're{\kf21} like{\kf16}ly{\kf16} to{\kf26} lo{\kf103}-ose
+Dialogue: 0,0:00:19.18,0:00:23.96,DEFAULT,,0,0,0,,{\r}{\kf24}It's{\kf47} been{\kf24} a{\kf24} while{\kf41} since{\kf18} I{\kf24} took{\kf18} a{\kf35} va{\kf88}ca{\kf18}-a{\kf116}tion
+Dialogue: 0,0:00:26.38,0:00:32.23,DEFAULT,,0,0,0,,{\r}{\kf54}I'll{\kf24} just{\kf18} re{\kf48}lax{\kf30} and{\kf54} watch{\kf18} as{\kf30} they{\kf54} rai{\kf18}~se{\kf42} the{\kf18}~{\kf177} sun
+Dialogue: 0,0:00:33.31,0:00:34.24,DEFAULT,,0,0,0,,{\r}{\kf92}So
+Dialogue: 0,0:00:35.24,0:00:37.74,DEFAULT,,0,0,0,,{\r}{\kf30}This{\kf30} is{\kf30} what{\kf24} it's{\kf136} like
+Dialogue: 0,0:00:38.70,0:00:41.51,DEFAULT,,0,0,0,,{\r}{\kf19}Ste{\kf19}-e{\kf19}pping{\kf25} in{\kf19} sis{\kf44}ter's{\kf136} hooves
+Dialogue: 0,0:00:42.36,0:00:45.13,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf24} this{\kf30} is{\kf30} ho{\kf18}-ow{\kf18} it{\kf133} feels
+Dialogue: 0,0:00:45.74,0:00:48.75,DEFAULT,,0,0,0,,{\r}{\kf29}When{\kf17} you{\kf35} got{\kf35} no{\kf52}thing{\kf23} to{\kf109} lose
+Dialogue: 0,0:00:49.79,0:00:52.48,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf30} I{\kf54} can't{\kf18} he{\kf18}-elp{\kf18} but{\kf18} thi{\kf95}-ink
+Dialogue: 0,0:00:53.21,0:00:55.87,DEFAULT,,0,0,0,,{\r}{\kf23}Of{\kf51} ev{\kf17}ery{\kf40}thing{\kf40} I've{\kf23} done{\kf72} wrong
+Dialogue: 0,0:00:56.21,0:00:59.29,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf25} now{\kf18} that{\kf18} I{\kf37} kno{\kf25}-ow,{\kf18} it's{\kf18} a{\kf18} won{\kf113}der
+Dialogue: 0,0:01:00.56,0:01:03.22,DEFAULT,,0,0,0,,{\r}{\kf20}Why{\kf20} I{\kf20} sent{\kf14} her{\kf34} here{\kf20} for{\kf20} so{\kf20}-o{\kf98} long
+Dialogue: 0,0:01:03.76,0:01:05.22,DEFAULT,,0,0,0,,{\r}{\kf30}La{\kf15} da{\kf15} la{\kf86} la
+Dialogue: 0,0:01:05.57,0:01:07.07,DEFAULT,,0,0,0,,{\r}{\kf26}La{\kf16} da{\kf21} la{\kf87} la
+Dialogue: 0,0:01:07.45,0:01:10.73,DEFAULT,,0,0,0,,{\r}{\kf30}La{\kf18} da{\kf18} la{\kf36} la{\kf48} da{\kf18} da{\kf42} da{\kf30} da{\kf87} da
+Dialogue: 0,0:01:11.15,0:01:12.54,DEFAULT,,0,0,0,,{\r}{\kf32}La{\kf16} da{\kf16} la{\kf75} la
+Dialogue: 0,0:01:13.04,0:01:14.46,DEFAULT,,0,0,0,,{\r}{\kf25}La{\kf15} da{\kf15} la{\kf87} la
+Dialogue: 0,0:01:14.88,0:01:17.69,DEFAULT,,0,0,0,,{\r}{\kf24}La{\kf18} da{\kf18} la{\kf43} la{\kf55} da{\kf24} da{\kf43} da{\kf31} da{\kf25} da
+Dialogue: 0,0:01:17.96,0:01:21.66,DEFAULT,,0,0,0,,{\r}{\kf21}It's{\kf21} been{\kf21} a{\kf21} cou{\kf21}ple{\kf41} weeks{\kf48} and{\kf21} I'm{\kf27} star{\kf21}ting{\kf21} to{\kf86} shake
+Dialogue: 0,0:01:25.28,0:01:29.20,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf30} can't{\kf12} be{\kf18}lieve{\kf48} I{\kf60} thought{\kf48} I{\kf18} was{\kf24} ta{\kf18}king{\kf18} a{\kf18} brea{\kf63}~k
+Dialogue: 0,0:01:32.86,0:01:38.48,DEFAULT,,0,0,0,,{\r}{\kf55}No{\kf33} walls{\kf17} to{\kf61} hold{\kf22} me{\kf55} in{\kf17} but{\kf33} I{\kf61} ca{\kf17}~n't{\kf44} brea{\kf17}~k{\kf130} out
+Dialogue: 0,0:01:40.33,0:01:46.18,DEFAULT,,0,0,0,,{\r}{\kf42}Of{\kf42} all{\kf16} the{\kf73} stars{\kf16} a{\kf42}round{\kf16} me{\kf37} I'm{\kf57} lo{\kf16}-o{\kf47}si{\kf16}-ing{\kf165} count
+Dialogue: 0,0:01:47.25,0:01:48.02,DEFAULT,,0,0,0,,{\r}{\kf77}So
+Dialogue: 0,0:01:49.10,0:01:51.57,DEFAULT,,0,0,0,,{\r}{\kf27}This{\kf33} is{\kf33} what{\kf27} it's{\kf126} like
+Dialogue: 0,0:01:52.57,0:01:55.38,DEFAULT,,0,0,0,,{\r}{\kf17}Ste{\kf17}-e{\kf17}pping{\kf34} in{\kf17} sis{\kf40}ter's{\kf139} hooves
+Dialogue: 0,0:01:56.22,0:01:59.00,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf30} this{\kf30} is{\kf18} ho{\kf24}-ow{\kf18} it{\kf139} feels
+Dialogue: 0,0:01:59.57,0:02:02.57,DEFAULT,,0,0,0,,{\r}{\kf34}When{\kf17} you{\kf34} got{\kf34} no{\kf51}thing{\kf23} to{\kf107} lose
+Dialogue: 0,0:02:03.65,0:02:06.35,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf34} I{\kf45} can't{\kf17} he{\kf22}-elp{\kf17} but{\kf22} thi{\kf95}-ink
+Dialogue: 0,0:02:07.08,0:02:09.70,DEFAULT,,0,0,0,,{\r}{\kf22}Of{\kf50} ev{\kf17}ery{\kf39}thing{\kf39} I've{\kf28} done{\kf67} wrong
+Dialogue: 0,0:02:10.04,0:02:13.12,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf25} now{\kf18} that{\kf18} I{\kf37} kno{\kf31}-ow,{\kf18} it's{\kf12} a{\kf18} won{\kf113}der
+Dialogue: 0,0:02:14.39,0:02:17.12,DEFAULT,,0,0,0,,{\r}{\kf25}Why{\kf19} I{\kf19} sent{\kf12} her{\kf31} here{\kf19} for{\kf19} so{\kf31}-o{\kf98} long
+Dialogue: 0,0:02:46.57,0:02:48.26,DEFAULT,,0,0,0,,{\r}{\kf19}It's{\kf19} been{\kf13} a{\kf31} thou{\kf44}sand{\kf43} years
+Dialogue: 0,0:02:48.46,0:02:50.61,DEFAULT,,0,0,0,,{\r}{\kf39}Ne{\kf17}ver{\kf22} felt{\kf17} so{\kf17} a{\kf28}lo{\kf76}-one
+Dialogue: 0,0:02:53.92,0:02:55.58,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21} don't{\kf21} know{\kf28} what{\kf35} I{\kf40} learned
+Dialogue: 0,0:02:55.73,0:02:57.66,DEFAULT,,0,0,0,,{\r}{\kf48}I{\kf24} just{\kf24} want{\kf18} to{\kf18} go{\kf18} ho{\kf42}-ome
+Dialogue: 0,0:03:01.51,0:03:07.28,DEFAULT,,0,0,0,,{\r}{\kf43}I'm{\kf53} not{\kf16} the{\kf43} prin{\kf21}cess{\kf59} ev{\kf16}ery{\kf32}one{\kf53} kne{\kf16}-ew{\kf48} be{\kf16}-e{\kf161}fore
+Dialogue: 0,0:03:08.90,0:03:14.79,DEFAULT,,0,0,0,,{\r}{\kf33}My{\kf27} sun{\kf55}light{\kf49} hides{\kf16} a{\kf49}way{\kf16}-y{\kf27} my{\kf49} sha{\kf27}-a{\kf49}do{\kf16}-owed{\kf176} core
+Dialogue: 0,0:03:15.86,0:03:16.71,DEFAULT,,0,0,0,,{\r}{\kf85}So
+Dialogue: 0,0:03:17.71,0:03:20.17,DEFAULT,,0,0,0,,{\r}{\kf29}This{\kf23} is{\kf34} what{\kf29} it's{\kf131} like
+Dialogue: 0,0:03:21.18,0:03:23.99,DEFAULT,,0,0,0,,{\r}{\kf17}Ste{\kf22}-e{\kf17}pping{\kf28} in{\kf17} sis{\kf45}ter's{\kf135} hooves
+Dialogue: 0,0:03:24.83,0:03:27.60,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf35} this{\kf35} is{\kf18} ho{\kf24}-ow{\kf12} it{\kf135} feels
+Dialogue: 0,0:03:28.18,0:03:31.18,DEFAULT,,0,0,0,,{\r}{\kf35}When{\kf17} you{\kf35} got{\kf35} no{\kf52}thing{\kf17} to{\kf109} lose
+Dialogue: 0,0:03:32.26,0:03:34.96,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf29} I{\kf46} can't{\kf17} he{\kf23}-elp{\kf17} but{\kf23} thi{\kf97}-ink
+Dialogue: 0,0:03:35.69,0:03:38.34,DEFAULT,,0,0,0,,{\r}{\kf23}Of{\kf40} ev{\kf17}ery{\kf34}thing{\kf45} I've{\kf34} done{\kf73} wrong
+Dialogue: 0,0:03:38.69,0:03:41.73,DEFAULT,,0,0,0,,{\r}{\kf13}But{\kf32} now{\kf13} that{\kf19} I{\kf25} kno{\kf38}-ow,{\kf19} it's{\kf13} a{\kf19} won{\kf113}der
+Dialogue: 0,0:03:43.04,0:03:45.70,DEFAULT,,0,0,0,,{\r}{\kf20}Why{\kf20} I{\kf20} sent{\kf13} her{\kf33} here{\kf20} for{\kf20} so{\kf20}-o{\kf100} long
+Dialogue: 0,0:03:46.23,0:03:47.66,DEFAULT,,0,0,0,,{\r}{\kf32}La{\kf16} da{\kf16} la{\kf78} la
+Dialogue: 0,0:03:48.08,0:03:49.43,DEFAULT,,0,0,0,,{\r}{\kf22}La{\kf16} da{\kf22} la{\kf75} la
+Dialogue: 0,0:03:49.97,0:03:53.20,DEFAULT,,0,0,0,,{\r}{\kf28}La{\kf17} da{\kf17} la{\kf39} la{\kf50} da{\kf17} da{\kf45} da{\kf22} da{\kf88} da
+Dialogue: 0,0:03:53.66,0:03:55.05,DEFAULT,,0,0,0,,{\r}{\kf26}La{\kf15} da{\kf15} la{\kf83} la
+Dialogue: 0,0:03:55.51,0:03:56.90,DEFAULT,,0,0,0,,{\r}{\kf21}La{\kf16} da{\kf21} la{\kf81} la
+Dialogue: 0,0:03:57.28,0:04:00.51,DEFAULT,,0,0,0,,{\r}{\kf36}La{\kf18} da{\kf18} la{\kf42} la{\kf42} da{\kf18} da{\kf42} da{\kf24} da{\kf83} da
+Dialogue: 0,0:04:01.05,0:04:02.44,DEFAULT,,0,0,0,,{\r}{\kf26}La{\kf15} da{\kf15} la{\kf83} la
+Dialogue: 0,0:04:02.86,0:04:04.25,DEFAULT,,0,0,0,,{\r}{\kf26}La{\kf15} da{\kf15} la{\kf83} la
+Dialogue: 0,0:04:04.79,0:04:07.98,DEFAULT,,0,0,0,,{\r}{\kf17}La{\kf17} da{\kf17} la{\kf41} la{\kf46} da{\kf17} da{\kf46} da{\kf23} da{\kf95} da
+Dialogue: 0,0:04:08.52,0:04:09.83,DEFAULT,,0,0,0,,{\r}{\kf16}La{\kf16} da{\kf16} la{\kf83} la
+Dialogue: 0,0:04:10.29,0:04:11.68,DEFAULT,,0,0,0,,{\r}{\kf21}La{\kf15} da{\kf15} la{\kf88} la
+Dialogue: 0,0:04:12.14,0:04:17.91,DEFAULT,,0,0,0,,{\r}{\kf20}La{\kf15} da{\kf15} la{\kf40} la{\kf35} da{\kf15} da{\kf45} da{\kf45} da{\kf25}-a{\kf322} da

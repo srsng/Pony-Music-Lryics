@@ -1,55 +1,62 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Cerulean Blue
+Artist: Replacer
+Original Timing: mylittlekaraoke.com by Pony Rock Project
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.00,0:00:17.17,DEFAULT,,0,0,0,,{\kf9}A{\kf9} flash{\kf9} of{\kf9} co{\kf9}lour{\kf9} and{\kf9} she's{\kf9} gone{\kf9} no{\kf9} one{\kf9} can{\kf9} hope{\kf9} to{\kf9} pur{\kf18}sue
-Dialogue: 0,0:00:17.42,0:00:20.59,DEFAULT,,0,0,0,,{\kf9}A{\kf9} flank{\kf9} of{\kf9} red{\kf9} and{\kf9} white{\kf9} and{\kf9} ye{\kf9}llow{\kf9} and{\kf9} ce{\kf9}ru{\kf9}le{\kf9}an{\kf18} blue
-Dialogue: 0,0:00:20.85,0:00:24.02,DEFAULT,,0,0,0,,{\kf9}And{\kf9} ma{\kf9}king{\kf9} rain{\kf9}bows{\kf9} awe{\kf9}some{\kf9} since{\kf9} Oc{\kf9}to{\kf9}ber{\kf9} two{\kf9} thou{\kf9}sand{\kf18} ten
-Dialogue: 0,0:00:24.28,0:00:27.45,DEFAULT,,0,0,0,,{\kf9}A{\kf9}no{\kf9}ther{\kf9} day{\kf9} a{\kf9} rush{\kf9} of{\kf9} wind{\kf9} and{\kf9} she'll{\kf9} be{\kf9} at{\kf9} it{\kf9} a{\kf18}gain
-Dialogue: 0,0:00:27.71,0:00:30.88,DEFAULT,,0,0,0,,{\kf9}Those{\kf9} air{\kf9}borne{\kf9} vir{\kf9}tu{\kf9}o{\kf9}sics{\kf9} are{\kf9} the{\kf9} stuff{\kf9} of{\kf9} le{\kf9}gends{\kf9} and{\kf18} more
-Dialogue: 0,0:00:31.14,0:00:34.31,DEFAULT,,0,0,0,,{\kf9}The{\kf9} name{\kf9} is{\kf9} Rain{\kf9}bow{\kf9} Dash{\kf9} and{\kf9} I{\kf9} sus{\kf9}pect{\kf9} you've{\kf9} heard{\kf9} it{\kf9} be{\kf18}fore
-Dialogue: 0,0:00:34.57,0:00:37.74,DEFAULT,,0,0,0,,{\kf9}Now{\kf9} if{\kf9} you{\kf9} come{\kf9} with{\kf9} me{\kf9} you'll{\kf9} find{\kf9} her{\kf9} where{\kf9} she{\kf9} takes{\kf9} her{\kf9} re{\kf18}pose
-Dialogue: 0,0:00:37.99,0:00:42.71,DEFAULT,,0,0,0,,{\kf9}You{\kf9} won't{\kf9} for{\kf9}get{\kf9} her{\kf9} quick{\kf9}ly{\kf9} once{\kf9} you{\kf9} see{\kf9} her{\kf9} as{\kf9} she{\kf9} well{\kf172} knows
-Dialogue: 0,0:00:42.92,0:00:45.02,DEFAULT,,0,0,0,,{\kf30}Rain{\kf13}bow{\kf39} Dash{\kf82} fly
-Dialogue: 0,0:00:46.35,0:00:49.65,DEFAULT,,0,0,0,,{\kf30}Rain{\kf13}bow{\kf39} Dash{\kf86} fly{\kf73} fly
-Dialogue: 0,0:00:49.78,0:00:51.79,DEFAULT,,0,0,0,,{\kf26}Rain{\kf9}bow{\kf35} Dash{\kf78} fly
-Dialogue: 0,0:00:53.21,0:00:54.92,DEFAULT,,0,0,0,,{\kf30}Rain{\kf13}bow{\kf35} Dash{\kf43} fly
-Dialogue: 0,0:00:55.14,0:00:58.31,DEFAULT,,0,0,0,,{\kf9}If{\kf9} e{\kf9}ver{\kf9} you're{\kf9} in{\kf9} need{\kf9} of{\kf9} help{\kf9} she{\kf9} will{\kf9} show{\kf9} up{\kf9} with{\kf9} a{\kf18} smile
-Dialogue: 0,0:00:58.57,0:01:01.74,DEFAULT,,0,0,0,,{\kf9}And{\kf9} in{\kf9}de{\kf9}scrib{\kf9}ab{\kf9}le{\kf9} ve{\kf9}lo{\kf9}ci{\kf9}ty{\kf9} im{\kf9}pecc{\kf9}ab{\kf9}le{\kf18} style
-Dialogue: 0,0:01:01.99,0:01:05.16,DEFAULT,,0,0,0,,{\kf9}Ag{\kf9}il{\kf9}i{\kf9}ty{\kf9} in{\kf9} spades{\kf9} and{\kf9} pe{\kf9}ga{\kf9}sine{\kf9} cha{\kf9}ris{\kf9}ma{\kf9} to{\kf18} match
-Dialogue: 0,0:01:05.42,0:01:08.59,DEFAULT,,0,0,0,,{\kf9}And{\kf9} when{\kf9} you're{\kf9} fal{\kf9}ling{\kf9} you{\kf9} can{\kf9} count{\kf9} on{\kf9} her{\kf9} to{\kf9} be{\kf9} there{\kf9} to{\kf18} catch
-Dialogue: 0,0:01:08.85,0:01:12.02,DEFAULT,,0,0,0,,{\kf9}Don't{\kf9} be{\kf9} a{\kf9}larmed{\kf9} if{\kf9} she{\kf9} does{\kf9} not{\kf9} ap{\kf9}pear{\kf9} as{\kf9} soon{\kf9} as{\kf9} you{\kf18} shout
-Dialogue: 0,0:01:12.28,0:01:15.45,DEFAULT,,0,0,0,,{\kf9}You{\kf9} know{\kf9} she{\kf9} prob{\kf9}a{\kf9}bly{\kf9} just{\kf9} stopped{\kf9} to{\kf9} give{\kf9} some{\kf9} au{\kf9}to{\kf9}graphs{\kf18} out
-Dialogue: 0,0:01:15.71,0:01:18.88,DEFAULT,,0,0,0,,{\kf9}To{\kf9} call{\kf9} her{\kf9} nar{\kf9}cis{\kf9}sis{\kf9}tic{\kf9} is{\kf9} an{\kf9} un{\kf9}der{\kf9}state{\kf9}ment{\kf9} and{\kf18} yet
-Dialogue: 0,0:01:19.14,0:01:23.85,DEFAULT,,0,0,0,,{\kf9}She's{\kf9} just{\kf9} that{\kf9} good{\kf9} it's{\kf9} not{\kf9} sur{\kf9}pri{\kf9}sing{\kf9} that{\kf9} it{\kf9} goes{\kf9} to{\kf9} her{\kf172} head
-Dialogue: 0,0:01:24.06,0:01:26.16,DEFAULT,,0,0,0,,{\kf30}Rain{\kf13}bow{\kf39} Dash{\kf82} fly
-Dialogue: 0,0:01:27.49,0:01:30.79,DEFAULT,,0,0,0,,{\kf30}Rain{\kf13}bow{\kf39} Dash{\kf86} fly{\kf73} fly
-Dialogue: 0,0:01:30.92,0:01:32.94,DEFAULT,,0,0,0,,{\kf26}Rain{\kf9}bow{\kf35} Dash{\kf78} fly
-Dialogue: 0,0:01:34.35,0:01:38.16,DEFAULT,,0,0,0,,{\kf30}Rain{\kf13}bow{\kf35} Dash{\kf253} fly
-Dialogue: 0,0:02:03.49,0:02:09.49,DEFAULT,,0,0,0,,{\kf48}Rain{\kf52}bow{\kf129} Dash{\kf30} is{\kf35} best{\kf52} po{\kf129}ny
-Dialogue: 0,0:02:10.35,0:02:16.35,DEFAULT,,0,0,0,,{\kf48}When{\kf52} the{\kf129} world{\kf30} seems{\kf43} e{\kf52}ver{\kf129}free
-Dialogue: 0,0:02:17.21,0:02:23.21,DEFAULT,,0,0,0,,{\kf48}Co{\kf52}loured{\kf129} winds{\kf30} blow{\kf35} through{\kf52} my{\kf129} mind
-Dialogue: 0,0:02:24.06,0:02:33.62,DEFAULT,,0,0,0,,{\kf48}E{\kf52}very{\kf129}thing{\kf30} is{\kf35} left{\kf52} be{\kf485}hind
-Dialogue: 0,0:02:48.28,0:02:51.45,DEFAULT,,0,0,0,,{\kf9}Now{\kf9} Rain{\kf9}bow{\kf9} Dash{\kf9} I{\kf9} think{\kf9} you{\kf9} could{\kf9} do{\kf9} worse{\kf9} than{\kf9} lis{\kf9}ten{\kf9} to{\kf18} me
-Dialogue: 0,0:02:51.70,0:02:54.88,DEFAULT,,0,0,0,,{\kf9}Though{\kf9} you're{\kf9} spec{\kf9}tac{\kf9}u{\kf9}lar{\kf9} it's{\kf9} prob{\kf9}a{\kf9}ble{\kf9} your{\kf9} friends{\kf9} would{\kf9} a{\kf18}gree
-Dialogue: 0,0:02:55.13,0:02:58.30,DEFAULT,,0,0,0,,{\kf9}Your{\kf9} self{\kf9} ag{\kf9}gran{\kf9}dis{\kf9}ing{\kf9} de{\kf9}mean{\kf9}our{\kf9} is{\kf9} un{\kf9}gra{\kf9}cious{\kf9} and{\kf18} cruel
-Dialogue: 0,0:02:58.56,0:03:01.73,DEFAULT,,0,0,0,,{\kf9}As{\kf9} if{\kf9} you're{\kf9} in{\kf9}se{\kf9}cure{\kf9} and{\kf9} com{\kf9}pen{\kf9}sa{\kf9}ting{\kf9} don't{\kf9} be{\kf9} a{\kf18} fool
-Dialogue: 0,0:03:01.99,0:03:05.16,DEFAULT,,0,0,0,,{\kf9}You{\kf9} know{\kf9} you'll{\kf9} ne{\kf9}ver{\kf9} be{\kf9} a{\kf9} Won{\kf9}der{\kf9}bolt{\kf9} un{\kf9}til{\kf9} you{\kf9} ad{\kf18}mit
-Dialogue: 0,0:03:05.42,0:03:08.59,DEFAULT,,0,0,0,,{\kf9}You{\kf9} need{\kf9} to{\kf9} lift{\kf9} your{\kf9} game{\kf9} and{\kf9} act{\kf9} as{\kf9} if{\kf9} you{\kf9} rea{\kf9}lly{\kf9} want{\kf18} it
-Dialogue: 0,0:03:08.85,0:03:12.02,DEFAULT,,0,0,0,,{\kf9}Still{\kf9} bus{\kf9}y{\kf9} nap{\kf9}ping{\kf9} when{\kf9} you{\kf9} could{\kf9} be{\kf9} out{\kf9} per{\kf9}fec{\kf9}ting{\kf9} your{\kf18} art
-Dialogue: 0,0:03:12.28,0:03:13.22,DEFAULT,,0,0,0,,{\kf9}So{\kf9} much{\kf9} po{\kf9}ten{\kf9}tial
-Dialogue: 0,0:03:13.35,0:03:16.99,DEFAULT,,0,0,0,,{\kf9}Come{\kf9} on{\kf9} Rain{\kf9}bow{\kf9} Dash{\kf9} you're{\kf9} break{\kf9}ing{\kf9} my{\kf172} heart
-Dialogue: 0,0:03:17.20,0:03:19.30,DEFAULT,,0,0,0,,{\kf30} Rain{\kf13}bow{\kf39} Dash{\kf82} fly
-Dialogue: 0,0:03:20.63,0:03:23.93,DEFAULT,,0,0,0,,{\kf30}Rain{\kf13}bow{\kf39} Dash{\kf86} fly{\kf73} fly
-Dialogue: 0,0:03:24.06,0:03:26.08,DEFAULT,,0,0,0,,{\kf26}Rain{\kf9}bow{\kf35} Dash{\kf78} fly
-Dialogue: 0,0:03:27.49,0:03:29.85,DEFAULT,,0,0,0,,{\kf30}Rain{\kf13}bow{\kf35} Dash{\kf95} fly{\kf5}~
-Dialogue: 0,0:03:30.96,0:03:33.02,DEFAULT,,0,0,0,,{\kf30}Rain{\kf9}bow{\kf39} Dash{\kf73} fly
-Dialogue: 0,0:03:34.43,0:03:36.87,DEFAULT,,0,0,0,,{\kf30}Rain{\kf13}bow{\kf35} Dash{\kf116} fly
-Dialogue: 0,0:04:42.92,0:04:46.52,DEFAULT,,0,0,0,,{\kf30}Rain{\kf13}bow{\kf35} Dash{\kf232} fly
+Dialogue: 0,0:00:14.00,0:00:17.17,DEFAULT,,0,0,0,,{\r}{\kf20}A{\kf20} flash{\kf20} of{\kf20} co{\kf20}lour{\kf20} and{\kf20} she's{\kf20} gone{\kf20} no{\kf20} one{\kf20} can{\kf20} hope{\kf20} to{\kf20} pur{\kf37}sue
+Dialogue: 0,0:00:17.43,0:00:20.60,DEFAULT,,0,0,0,,{\r}{\kf20}A{\kf20} flank{\kf20} of{\kf20} red{\kf20} and{\kf20} white{\kf20} and{\kf20} ye{\kf20}llow{\kf20} and{\kf20} ce{\kf20}ru{\kf20}le{\kf20}an{\kf37} blue
+Dialogue: 0,0:00:20.86,0:00:24.03,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} ma{\kf20}king{\kf20} rain{\kf20}bows{\kf20} awe{\kf20}some{\kf20} since{\kf20} Oc{\kf20}to{\kf20}ber{\kf20} two{\kf20} thou{\kf20}sand{\kf37} ten
+Dialogue: 0,0:00:24.29,0:00:27.46,DEFAULT,,0,0,0,,{\r}{\kf20}A{\kf20}no{\kf20}ther{\kf20} day{\kf20} a{\kf20} rush{\kf20} of{\kf20} wind{\kf20} and{\kf20} she'll{\kf20} be{\kf20} at{\kf20} it{\kf20} a{\kf37}gain
+Dialogue: 0,0:00:27.71,0:00:30.89,DEFAULT,,0,0,0,,{\r}{\kf20}Those{\kf20} air{\kf20}borne{\kf20} vir{\kf20}tu{\kf20}o{\kf20}sics{\kf20} are{\kf20} the{\kf20} stuff{\kf20} of{\kf20} le{\kf20}gends{\kf20} and{\kf37} more
+Dialogue: 0,0:00:31.14,0:00:34.31,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf20} name{\kf20} is{\kf20} Rain{\kf20}bow{\kf20} Dash{\kf20} and{\kf20} I{\kf20} sus{\kf20}pect{\kf20} you've{\kf20} heard{\kf20} it{\kf20} be{\kf37}fore
+Dialogue: 0,0:00:34.57,0:00:37.74,DEFAULT,,0,0,0,,{\r}{\kf20}Now{\kf20} if{\kf20} you{\kf20} come{\kf20} with{\kf20} me{\kf20} you'll{\kf20} find{\kf20} her{\kf20} where{\kf20} she{\kf20} takes{\kf20} her{\kf20} re{\kf37}pose
+Dialogue: 0,0:00:38.00,0:00:42.71,DEFAULT,,0,0,0,,{\r}{\kf14}You{\kf14} won't{\kf14} for{\kf14}get{\kf14} her{\kf14} quick{\kf14}ly{\kf14} once{\kf14} you{\kf14} see{\kf14} her{\kf14} as{\kf14} she{\kf14} well{\kf275} knows
+Dialogue: 0,0:00:42.93,0:00:45.03,DEFAULT,,0,0,0,,{\r}{\kf39}Rain{\kf17}bow{\kf50} Dash{\kf104} fly
+Dialogue: 0,0:00:46.36,0:00:49.66,DEFAULT,,0,0,0,,{\r}{\kf41}Rain{\kf18}bow{\kf53} Dash{\kf118} fly{\kf100} fly
+Dialogue: 0,0:00:49.78,0:00:51.80,DEFAULT,,0,0,0,,{\r}{\kf35}Rain{\kf12}bow{\kf47} Dash{\kf107} fly
+Dialogue: 0,0:00:53.21,0:00:54.93,DEFAULT,,0,0,0,,{\r}{\kf43}Rain{\kf18}bow{\kf49} Dash{\kf61} fly
+Dialogue: 0,0:00:55.14,0:00:58.31,DEFAULT,,0,0,0,,{\r}{\kf20}If{\kf20} e{\kf20}ver{\kf20} you're{\kf20} in{\kf20} need{\kf20} of{\kf20} help{\kf20} she{\kf20} will{\kf20} show{\kf20} up{\kf20} with{\kf20} a{\kf37} smile
+Dialogue: 0,0:00:58.57,0:01:01.74,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} in{\kf20}de{\kf20}scrib{\kf20}ab{\kf20}le{\kf20} ve{\kf20}lo{\kf20}ci{\kf20}ty{\kf20} im{\kf20}pecc{\kf20}ab{\kf20}le{\kf37} style
+Dialogue: 0,0:01:02.00,0:01:05.17,DEFAULT,,0,0,0,,{\r}{\kf20}Ag{\kf20}il{\kf20}i{\kf20}ty{\kf20} in{\kf20} spades{\kf20} and{\kf20} pe{\kf20}ga{\kf20}sine{\kf20} cha{\kf20}ris{\kf20}ma{\kf20} to{\kf37} match
+Dialogue: 0,0:01:05.43,0:01:08.60,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} when{\kf20} you're{\kf20} fal{\kf20}ling{\kf20} you{\kf20} can{\kf20} count{\kf20} on{\kf20} her{\kf20} to{\kf20} be{\kf20} there{\kf20} to{\kf37} catch
+Dialogue: 0,0:01:08.86,0:01:12.03,DEFAULT,,0,0,0,,{\r}{\kf20}Don't{\kf20} be{\kf20} a{\kf20}larmed{\kf20} if{\kf20} she{\kf20} does{\kf20} not{\kf20} ap{\kf20}pear{\kf20} as{\kf20} soon{\kf20} as{\kf20} you{\kf37} shout
+Dialogue: 0,0:01:12.28,0:01:15.46,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf20} know{\kf20} she{\kf20} prob{\kf20}a{\kf20}bly{\kf20} just{\kf20} stopped{\kf20} to{\kf20} give{\kf20} some{\kf20} au{\kf20}to{\kf20}graphs{\kf37} out
+Dialogue: 0,0:01:15.71,0:01:18.88,DEFAULT,,0,0,0,,{\r}{\kf20}To{\kf20} call{\kf20} her{\kf20} nar{\kf20}cis{\kf20}sis{\kf20}tic{\kf20} is{\kf20} an{\kf20} un{\kf20}der{\kf20}state{\kf20}ment{\kf20} and{\kf37} yet
+Dialogue: 0,0:01:19.14,0:01:23.86,DEFAULT,,0,0,0,,{\r}{\kf14}She's{\kf14} just{\kf14} that{\kf14} good{\kf14} it's{\kf14} not{\kf14} sur{\kf14}pri{\kf14}sing{\kf14} that{\kf14} it{\kf14} goes{\kf14} to{\kf14} her{\kf275} head
+Dialogue: 0,0:01:24.07,0:01:26.17,DEFAULT,,0,0,0,,{\r}{\kf39}Rain{\kf17}bow{\kf50} Dash{\kf104} fly
+Dialogue: 0,0:01:27.50,0:01:30.80,DEFAULT,,0,0,0,,{\r}{\kf41}Rain{\kf18}bow{\kf53} Dash{\kf118} fly{\kf100} fly
+Dialogue: 0,0:01:30.93,0:01:32.94,DEFAULT,,0,0,0,,{\r}{\kf35}Rain{\kf12}bow{\kf47} Dash{\kf107} fly
+Dialogue: 0,0:01:34.35,0:01:38.17,DEFAULT,,0,0,0,,{\r}{\kf35}Rain{\kf15}bow{\kf40} Dash{\kf291} fly
+Dialogue: 0,0:02:03.50,0:02:09.50,DEFAULT,,0,0,0,,{\r}{\kf60}Rain{\kf65}bow{\kf164} Dash{\kf38} is{\kf44} best{\kf65} po{\kf164}ny
+Dialogue: 0,0:02:10.35,0:02:16.35,DEFAULT,,0,0,0,,{\r}{\kf59}When{\kf64} the{\kf161} world{\kf37} seems{\kf54} e{\kf64}ver{\kf161}free
+Dialogue: 0,0:02:17.21,0:02:23.21,DEFAULT,,0,0,0,,{\r}{\kf60}Co{\kf65}loured{\kf164} winds{\kf38} blow{\kf44} through{\kf65} my{\kf164} mind
+Dialogue: 0,0:02:24.07,0:02:33.62,DEFAULT,,0,0,0,,{\r}{\kf54}E{\kf59}very{\kf149}thing{\kf35} is{\kf40} left{\kf59} be{\kf560}hind
+Dialogue: 0,0:02:48.28,0:02:51.45,DEFAULT,,0,0,0,,{\r}{\kf20}Now{\kf20} Rain{\kf20}bow{\kf20} Dash{\kf20} I{\kf20} think{\kf20} you{\kf20} could{\kf20} do{\kf20} worse{\kf20} than{\kf20} lis{\kf20}ten{\kf20} to{\kf37} me
+Dialogue: 0,0:02:51.71,0:02:54.88,DEFAULT,,0,0,0,,{\r}{\kf20}Though{\kf20} you're{\kf20} spec{\kf20}tac{\kf20}u{\kf20}lar{\kf20} it's{\kf20} prob{\kf20}a{\kf20}ble{\kf20} your{\kf20} friends{\kf20} would{\kf20} a{\kf37}gree
+Dialogue: 0,0:02:55.14,0:02:58.31,DEFAULT,,0,0,0,,{\r}{\kf20}Your{\kf20} self{\kf20} ag{\kf20}gran{\kf20}dis{\kf20}ing{\kf20} de{\kf20}mean{\kf20}our{\kf20} is{\kf20} un{\kf20}gra{\kf20}cious{\kf20} and{\kf37} cruel
+Dialogue: 0,0:02:58.57,0:03:01.74,DEFAULT,,0,0,0,,{\r}{\kf20}As{\kf20} if{\kf20} you're{\kf20} in{\kf20}se{\kf20}cure{\kf20} and{\kf20} com{\kf20}pen{\kf20}sa{\kf20}ting{\kf20} don't{\kf20} be{\kf20} a{\kf37} fool
+Dialogue: 0,0:03:02.00,0:03:05.17,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf20} know{\kf20} you'll{\kf20} ne{\kf20}ver{\kf20} be{\kf20} a{\kf20} Won{\kf20}der{\kf20}bolt{\kf20} un{\kf20}til{\kf20} you{\kf20} ad{\kf37}mit
+Dialogue: 0,0:03:05.42,0:03:08.60,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf20} need{\kf20} to{\kf20} lift{\kf20} your{\kf20} game{\kf20} and{\kf20} act{\kf20} as{\kf20} if{\kf20} you{\kf20} rea{\kf20}lly{\kf20} want{\kf37} it
+Dialogue: 0,0:03:08.85,0:03:12.02,DEFAULT,,0,0,0,,{\r}{\kf20}Still{\kf20} bus{\kf20}y{\kf20} nap{\kf20}ping{\kf20} when{\kf20} you{\kf20} could{\kf20} be{\kf20} out{\kf20} per{\kf20}fec{\kf20}ting{\kf20} your{\kf37} art
+Dialogue: 0,0:03:12.28,0:03:13.22,DEFAULT,,0,0,0,,{\r}{\kf19}So{\kf19} much{\kf19} po{\kf19}ten{\kf18}tial
+Dialogue: 0,0:03:13.35,0:03:16.99,DEFAULT,,0,0,0,,{\r}{\kf13}Come{\kf13} on{\kf13} Rain{\kf13}bow{\kf13} Dash{\kf13} you're{\kf13} break{\kf13}ing{\kf13} my{\kf247} heart
+Dialogue: 0,0:03:17.21,0:03:19.31,DEFAULT,,0,0,0,,{\r}{\kf39} Rain{\kf17}bow{\kf50} Dash{\kf104} fly
+Dialogue: 0,0:03:20.64,0:03:23.94,DEFAULT,,0,0,0,,{\r}{\kf41}Rain{\kf18}bow{\kf53} Dash{\kf118} fly{\kf100} fly
+Dialogue: 0,0:03:24.07,0:03:26.08,DEFAULT,,0,0,0,,{\r}{\kf35}Rain{\kf12}bow{\kf47} Dash{\kf107} fly
+Dialogue: 0,0:03:27.49,0:03:29.85,DEFAULT,,0,0,0,,{\r}{\kf40}Rain{\kf17}bow{\kf46} Dash{\kf127} fly{\kf10}~
+Dialogue: 0,0:03:30.97,0:03:33.02,DEFAULT,,0,0,0,,{\r}{\kf41}Rain{\kf12}bow{\kf53} Dash{\kf100} fly
+Dialogue: 0,0:03:34.44,0:03:36.88,DEFAULT,,0,0,0,,{\r}{\kf38}Rain{\kf16}bow{\kf43} Dash{\kf147} fly
+Dialogue: 0,0:04:42.92,0:04:46.52,DEFAULT,,0,0,0,,{\r}{\kf35}Rain{\kf15}bow{\kf40} Dash{\kf270} fly

@@ -1,59 +1,66 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Let The Magic Fill Your Soul
+Artist: WoodLore
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:06.41,0:00:08.53,DEFAULT,,0,0,0,,{\kf21}I{\kf32} know{\kf16} you're{\kf37} bu{\kf26}sy{\kf16}~{\kf21} here{\kf21}~
-Dialogue: 0,0:00:09.36,0:00:12.87,DEFAULT,,0,0,0,,{\kf21}But{\kf16} would{\kf11} it{\kf32} hurt{\kf16} to{\kf32} take{\kf26} a{\kf37} break{\kf37} my{\kf42} dear{\kf21}~?
-Dialogue: 0,0:00:13.08,0:00:15.51,DEFAULT,,0,0,0,,{\kf11}You're{\kf26} wor{\kf26}king{\kf32} your{\kf32}self{\kf47} mind{\kf21}less{\kf16}~
-Dialogue: 0,0:00:16.34,0:00:18.61,DEFAULT,,0,0,0,,{\kf21}You'll{\kf32} drive{\kf21} your{\kf26}self{\kf26} in{\kf16}~{\kf57}sane
-Dialogue: 0,0:00:19.65,0:00:22.03,DEFAULT,,0,0,0,,{\kf21}You're{\kf21} pent{\kf21} up{\kf26} all{\kf21}~{\kf26} a{\kf68}lone
-Dialogue: 0,0:00:23.01,0:00:26.22,DEFAULT,,0,0,0,,{\kf16}You're{\kf26} go{\kf26}ing{\kf26} down{\kf11}~{\kf26} a{\kf37} lo{\kf32}nely{\kf32} road{\kf16}~{\kf32}~
-Dialogue: 0,0:00:26.48,0:00:28.80,DEFAULT,,0,0,0,,{\kf21}There's{\kf32} no{\kf37} shame{\kf21} in{\kf42} lea{\kf21}ning{\kf21}~
-Dialogue: 0,0:00:29.63,0:00:31.75,DEFAULT,,0,0,0,,{\kf16}On{\kf42} some{\kf37}po{\kf37}ny{\kf47} else
-Dialogue: 0,0:00:32.94,0:00:36.05,DEFAULT,,0,0,0,,{\kf16}So{\kf21} fol{\kf16}low{\kf16} your{\kf21} sto{\kf21}~{\kf32}ry,{\kf42} fol{\kf21}low{\kf16} your{\kf47} song
-Dialogue: 0,0:00:36.25,0:00:39.30,DEFAULT,,0,0,0,,{\kf16}But{\kf21} fol{\kf16}low{\kf16} your{\kf26} friends{\kf16} when{\kf11} the{\kf32} days{\kf26} get{\kf21} long{\kf37}~
-Dialogue: 0,0:00:39.77,0:00:42.67,DEFAULT,,0,0,0,,{\kf16}Lay{\kf16} down{\kf16} your{\kf21} soul{\kf16}~{\kf26} at{\kf16} the{\kf21} fi{\kf16}re{\kf83}side
-Dialogue: 0,0:00:43.08,0:00:46.60,DEFAULT,,0,0,0,,{\kf16}Lay{\kf16} down{\kf16} your{\kf21} bur{\kf21}~{\kf16}den{\kf16} and{\kf26} sing{\kf21} a{\kf21}~{\kf26}way{\kf32} your{\kf47} strife
-Dialogue: 0,0:00:47.22,0:00:52.86,DEFAULT,,0,0,0,,{\kf16}All{\kf26} this{\kf37} time{\kf37} you've{\kf37} been{\kf37} a{\kf187}lone{\kf150}~
-Dialogue: 0,0:00:53.79,0:00:59.48,DEFAULT,,0,0,0,,{\kf21}You{\kf26} don't{\kf37} have{\kf37} to{\kf21} be{\kf16}~{\kf32} a{\kf125}lone{\kf21}~{\kf21}~{\kf171}~
-Dialogue: 0,0:01:00.46,0:01:06.72,DEFAULT,,0,0,0,,{\kf16}Just{\kf32} let{\kf32} go{\kf32} your{\kf37} in{\kf32}hi{\kf26}~{\kf32}bi{\kf37}tions{\kf42} now,{\kf26} en{\kf32}joy{\kf37} your{\kf42}self{\kf26}~{\kf21}~{\kf63}~
-Dialogue: 0,0:01:07.08,0:01:13.44,DEFAULT,,0,0,0,,{\kf16}Let{\kf21} the{\kf47} ma{\kf32}gic{\kf21} fill{\kf16}~{\kf16} your{\kf21}~{\kf176} soul{\kf150}~{\kf78}~
-Dialogue: 0,0:01:19.49,0:01:21.67,DEFAULT,,0,0,0,,{\kf16}I{\kf26} don't{\kf26} want{\kf21} you{\kf16} to{\kf42} change{\kf26}~
-Dialogue: 0,0:01:22.60,0:01:25.65,DEFAULT,,0,0,0,,{\kf16}But{\kf42} may{\kf16}be{\kf26} you{\kf26} could{\kf42} re{\kf37}ar{\kf26}range{\kf37}~
-Dialogue: 0,0:01:25.86,0:01:29.06,DEFAULT,,0,0,0,,{\kf21}'Cause{\kf16} what{\kf32} fun's{\kf42} li{\kf21}ving{\kf37} life{\kf32} if{\kf32} you{\kf26} don't
-Dialogue: 0,0:01:29.43,0:01:31.39,DEFAULT,,0,0,0,,{\kf32}Live{\kf16} it{\kf21} with{\kf32} some{\kf52} friends?
-Dialogue: 0,0:01:32.53,0:01:34.80,DEFAULT,,0,0,0,,{\kf16}So{\kf21} you{\kf21} go{\kf32} your{\kf37} own{\kf57} way
-Dialogue: 0,0:01:35.84,0:01:38.94,DEFAULT,,0,0,0,,{\kf16}But{\kf16} you'll{\kf21} look{\kf26} back{\kf26} on{\kf26} life{\kf26} one{\kf26} day{\kf37}~
-Dialogue: 0,0:01:39.15,0:01:42.36,DEFAULT,,0,0,0,,{\kf16}And{\kf16} you'll{\kf16} see{\kf16} the{\kf42} won{\kf16}ders{\kf16} of{\kf42} be{\kf16}ing{\kf16} with{\kf32} o{\kf26}thers{\kf11}~
-Dialogue: 0,0:01:42.51,0:01:44.79,DEFAULT,,0,0,0,,{\kf11}And{\kf16} wish{\kf16} you{\kf16} went{\kf52} out{\kf16} to{\kf68} play
-Dialogue: 0,0:01:45.98,0:01:48.87,DEFAULT,,0,0,0,,{\kf21}Fol{\kf16}low{\kf16} your{\kf21} sto{\kf21}~{\kf26}ry,{\kf42} fol{\kf26}low{\kf16} your{\kf42} song
-Dialogue: 0,0:01:49.13,0:01:52.18,DEFAULT,,0,0,0,,{\kf11}But{\kf21} fol{\kf16}low{\kf16} your{\kf26} friends{\kf16} when{\kf16} the{\kf32} days{\kf26} get{\kf21} long{\kf42}~
-Dialogue: 0,0:01:52.60,0:01:55.49,DEFAULT,,0,0,0,,{\kf16}Lay{\kf16} down{\kf16} your{\kf32} soul{\kf21} at{\kf16} the{\kf21} fi{\kf21}re{\kf83}side
-Dialogue: 0,0:01:55.91,0:01:59.48,DEFAULT,,0,0,0,,{\kf16}Lay{\kf16} down{\kf16} your{\kf21} bur{\kf21}~{\kf16}den{\kf16} and{\kf32} sing{\kf26} a{\kf26}way{\kf32} your{\kf52} strife
-Dialogue: 0,0:02:00.10,0:02:05.84,DEFAULT,,0,0,0,,{\kf21}All{\kf21} this{\kf32} time{\kf32} you've{\kf32} been{\kf21} a{\kf21}~{\kf182}lone{\kf145}~{\kf21}~
-Dialogue: 0,0:02:06.67,0:02:11.99,DEFAULT,,0,0,0,,{\kf16}You{\kf26} don't{\kf32} have{\kf32} to{\kf32} be{\kf21} a{\kf21}~{\kf119}lone{\kf21}~{\kf21}~{\kf114}~,{\kf16} no
-Dialogue: 0,0:02:13.29,0:02:19.60,DEFAULT,,0,0,0,,{\kf16}Just{\kf21} let{\kf37} go{\kf32} your{\kf42} in{\kf21}hi{\kf26}~{\kf37}bi{\kf26}tions{\kf37} now,{\kf32} en{\kf37}joy{\kf42} your{\kf42}self{\kf21}~{\kf21}~{\kf73}~
-Dialogue: 0,0:02:19.91,0:02:25.13,DEFAULT,,0,0,0,,{\kf16}Let{\kf21} the{\kf52} ma{\kf26}gic{\kf21} fill{\kf16}~{\kf21} your{\kf21}~{\kf171} soul{\kf109}~
-Dialogue: 0,0:02:25.80,0:02:28.91,DEFAULT,,0,0,0,,{\kf16}Fol{\kf11}low{\kf16} your{\kf21} sto{\kf21}~{\kf26}ry,{\kf42} fol{\kf21}low{\kf21} your{\kf42} song{\kf16}~{\kf16}~
-Dialogue: 0,0:02:29.06,0:02:31.80,DEFAULT,,0,0,0,,{\kf16}Fol{\kf16}low{\kf16} your{\kf32} friends{\kf16} when{\kf16} your{\kf32} days{\kf26} get{\kf57} long
-Dialogue: 0,0:02:32.32,0:02:35.27,DEFAULT,,0,0,0,,{\kf16}Lay{\kf16} down{\kf16} your{\kf32} soul{\kf26} at{\kf16} the{\kf21} fi{\kf21}re{\kf42}side{\kf21}~{\kf26}~
-Dialogue: 0,0:02:35.63,0:02:39.20,DEFAULT,,0,0,0,,{\kf16}Lay{\kf16} down{\kf16} your{\kf21} bur{\kf21}~{\kf21}den{\kf16} and{\kf26} sing{\kf42} a{\kf32}way{\kf37} your{\kf37} strife
-Dialogue: 0,0:02:39.77,0:02:45.98,DEFAULT,,0,0,0,,{\kf16}All{\kf21} this{\kf26} time{\kf26} you've{\kf26} been{\kf42} a{\kf83}lone{\kf21}~{\kf21}~{\kf21}~{\kf63}~{\kf21}~{\kf21}~{\kf21}~{\kf21}~{\kf21}~{\kf21}~{\kf21}~{\kf42}~
-Dialogue: 0,0:02:46.39,0:02:51.87,DEFAULT,,0,0,0,,{\kf16}You{\kf32} don't{\kf32} have{\kf32} to{\kf32} be{\kf26} a{\kf16}~{\kf300}lone{\kf21}~
-Dialogue: 0,0:02:52.96,0:02:58.86,DEFAULT,,0,0,0,,{\kf21}Just{\kf26} let{\kf26} go{\kf26} your{\kf42} in{\kf21}hi{\kf21}~{\kf42}bi{\kf32}tions{\kf52} now,{\kf21} en{\kf32}joy{\kf21} your{\kf21}~{\kf68}self{\kf37}~
-Dialogue: 0,0:02:59.63,0:03:05.01,DEFAULT,,0,0,0,,{\kf16}Let{\kf21} the{\kf42} ma{\kf26}gic{\kf32} fill{\kf26} your{\kf150} soul{\kf16}~{\kf16}~{\kf119}~
-Dialogue: 0,0:03:05.43,0:03:08.37,DEFAULT,,0,0,0,,{\kf21}Fol{\kf16}low{\kf16} your{\kf21} sto{\kf21}~{\kf26}ry,{\kf42} fol{\kf21}low{\kf16} your{\kf47} song
-Dialogue: 0,0:03:08.58,0:03:11.58,DEFAULT,,0,0,0,,{\kf11}But{\kf21} fol{\kf16}low{\kf16} your{\kf26} friends{\kf16} when{\kf16} your{\kf32} days{\kf26} get{\kf21} long{\kf37}~
-Dialogue: 0,0:03:12.05,0:03:14.89,DEFAULT,,0,0,0,,{\kf16}Lay{\kf16} down{\kf16} your{\kf26} soul{\kf26} at{\kf16} the{\kf21} fi{\kf21}re{\kf78}side
-Dialogue: 0,0:03:15.36,0:03:18.87,DEFAULT,,0,0,0,,{\kf16}Lay{\kf16} down{\kf16} your{\kf42} bur{\kf16}den{\kf16} and{\kf32} sing{\kf32} a{\kf37}way{\kf32} your{\kf47} strife
-Dialogue: 0,0:03:19.49,0:03:25.29,DEFAULT,,0,0,0,,{\kf16}All{\kf32} this{\kf32} time{\kf32} you've{\kf32} been{\kf21} a{\kf21}~{\kf187}lone{\kf145}~{\kf21}~
-Dialogue: 0,0:03:26.06,0:03:31.86,DEFAULT,,0,0,0,,{\kf21}You{\kf21} don't{\kf32} have{\kf32} to{\kf32} be{\kf21} a{\kf21}~{\kf125}lone{\kf21}~{\kf21}~{\kf182}~
-Dialogue: 0,0:03:32.74,0:03:38.94,DEFAULT,,0,0,0,,{\kf16}Just{\kf26} let{\kf26} go{\kf32} your{\kf42} in{\kf21}hi{\kf21}~{\kf42}bi{\kf37}tions{\kf32} now,{\kf37} en{\kf32}joy{\kf47} your{\kf42}self{\kf21}~{\kf21}~{\kf63}~
-Dialogue: 0,0:03:39.36,0:03:45.82,DEFAULT,,0,0,0,,{\kf16}Let{\kf21} the{\kf42} ma{\kf32}gic{\kf32} fill{\kf21} your{\kf16}~{\kf176} soul{\kf150}~{\kf88}~
+Dialogue: 0,0:00:06.41,0:00:08.53,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf35} know{\kf18} you're{\kf41} bu{\kf29}sy{\kf18}~{\kf24} here{\kf23}~
+Dialogue: 0,0:00:09.36,0:00:12.88,DEFAULT,,0,0,0,,{\r}{\kf26}But{\kf19} would{\kf13} it{\kf38} hurt{\kf19} to{\kf38} take{\kf32} a{\kf45} break{\kf45} my{\kf51} dear{\kf26}~?
+Dialogue: 0,0:00:13.09,0:00:15.52,DEFAULT,,0,0,0,,{\r}{\kf12}You're{\kf30} wor{\kf30}king{\kf36} your{\kf36}self{\kf55} mind{\kf24}less{\kf20}~
+Dialogue: 0,0:00:16.34,0:00:18.62,DEFAULT,,0,0,0,,{\r}{\kf24}You'll{\kf36} drive{\kf24} your{\kf30}self{\kf30} in{\kf18}~{\kf66}sane
+Dialogue: 0,0:00:19.65,0:00:22.03,DEFAULT,,0,0,0,,{\r}{\kf24}You're{\kf24} pent{\kf24} up{\kf31} all{\kf24}~{\kf31} a{\kf80}lone
+Dialogue: 0,0:00:23.02,0:00:26.22,DEFAULT,,0,0,0,,{\r}{\kf18}You're{\kf30} go{\kf30}ing{\kf30} down{\kf12}~{\kf30} a{\kf42} lo{\kf36}nely{\kf36} road{\kf18}~{\kf39}~
+Dialogue: 0,0:00:26.48,0:00:28.81,DEFAULT,,0,0,0,,{\r}{\kf25}There's{\kf38} no{\kf44} shame{\kf25} in{\kf50} lea{\kf25}ning{\kf26}~
+Dialogue: 0,0:00:29.64,0:00:31.76,DEFAULT,,0,0,0,,{\r}{\kf19}On{\kf50} some{\kf44}po{\kf44}ny{\kf55} else
+Dialogue: 0,0:00:32.95,0:00:36.05,DEFAULT,,0,0,0,,{\r}{\kf18}So{\kf24} fol{\kf18}low{\kf18} your{\kf24} sto{\kf24}~{\kf36}ry,{\kf49} fol{\kf24}low{\kf18} your{\kf57} song
+Dialogue: 0,0:00:36.26,0:00:39.31,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf27} fol{\kf20}low{\kf20} your{\kf34} friends{\kf20} when{\kf14} the{\kf41} days{\kf34} get{\kf27} long{\kf48}~
+Dialogue: 0,0:00:39.78,0:00:42.67,DEFAULT,,0,0,0,,{\r}{\kf19}Lay{\kf19} down{\kf19} your{\kf25} soul{\kf19}~{\kf31} at{\kf19} the{\kf25} fi{\kf19}re{\kf95}side
+Dialogue: 0,0:00:43.09,0:00:46.60,DEFAULT,,0,0,0,,{\r}{\kf19}Lay{\kf19} down{\kf19} your{\kf25} bur{\kf25}~{\kf19}den{\kf19} and{\kf31} sing{\kf25} a{\kf25}~{\kf31}way{\kf38} your{\kf57} strife
+Dialogue: 0,0:00:47.22,0:00:52.86,DEFAULT,,0,0,0,,{\r}{\kf17}All{\kf28} this{\kf39} time{\kf39} you've{\kf39} been{\kf39} a{\kf201}lone{\kf162}~
+Dialogue: 0,0:00:53.79,0:00:59.48,DEFAULT,,0,0,0,,{\r}{\kf23}You{\kf28} don't{\kf39} have{\kf39} to{\kf23} be{\kf17}~{\kf34} a{\kf135}lone{\kf23}~{\kf23}~{\kf185}~
+Dialogue: 0,0:01:00.46,0:01:06.72,DEFAULT,,0,0,0,,{\r}{\kf18}Just{\kf35} let{\kf35} go{\kf35} your{\kf41} in{\kf35}hi{\kf29}~{\kf35}bi{\kf41}tions{\kf47} now,{\kf29} en{\kf35}joy{\kf41} your{\kf47}self{\kf29}~{\kf23}~{\kf71}~
+Dialogue: 0,0:01:07.09,0:01:13.45,DEFAULT,,0,0,0,,{\r}{\kf17}Let{\kf22} the{\kf50} ma{\kf33}gic{\kf22} fill{\kf17}~{\kf17} your{\kf22}~{\kf190} soul{\kf162}~{\kf84}~
+Dialogue: 0,0:01:19.50,0:01:21.67,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf33} don't{\kf33} want{\kf26} you{\kf20} to{\kf53} change{\kf32}~
+Dialogue: 0,0:01:22.60,0:01:25.65,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf48} may{\kf18}be{\kf30} you{\kf30} could{\kf48} re{\kf42}ar{\kf30}range{\kf41}~
+Dialogue: 0,0:01:25.86,0:01:29.07,DEFAULT,,0,0,0,,{\r}{\kf26}'Cause{\kf20} what{\kf39} fun's{\kf52} li{\kf26}ving{\kf46} life{\kf39} if{\kf39} you{\kf34} don't
+Dialogue: 0,0:01:29.43,0:01:31.40,DEFAULT,,0,0,0,,{\r}{\kf41}Live{\kf20} it{\kf27} with{\kf41} some{\kf68} friends?
+Dialogue: 0,0:01:32.53,0:01:34.81,DEFAULT,,0,0,0,,{\r}{\kf20}So{\kf26} you{\kf26} go{\kf39} your{\kf46} own{\kf71} way
+Dialogue: 0,0:01:35.84,0:01:38.95,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} you'll{\kf30} look{\kf37} back{\kf37} on{\kf37} life{\kf37} one{\kf37} day{\kf51}~
+Dialogue: 0,0:01:39.15,0:01:42.36,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf18} you'll{\kf18} see{\kf18} the{\kf48} won{\kf18}ders{\kf18} of{\kf48} be{\kf18}ing{\kf18} with{\kf36} o{\kf30}thers{\kf15}~
+Dialogue: 0,0:01:42.52,0:01:44.79,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf18} wish{\kf18} you{\kf18} went{\kf62} out{\kf18} to{\kf82} play
+Dialogue: 0,0:01:45.98,0:01:48.88,DEFAULT,,0,0,0,,{\r}{\kf25}Fol{\kf19}low{\kf19} your{\kf25} sto{\kf25}~{\kf31}ry,{\kf49} fol{\kf31}low{\kf19} your{\kf47} song
+Dialogue: 0,0:01:49.14,0:01:52.19,DEFAULT,,0,0,0,,{\r}{\kf13}But{\kf27} fol{\kf20}low{\kf20} your{\kf33} friends{\kf20} when{\kf20} the{\kf40} days{\kf33} get{\kf27} long{\kf52}~
+Dialogue: 0,0:01:52.60,0:01:55.50,DEFAULT,,0,0,0,,{\r}{\kf19}Lay{\kf19} down{\kf19} your{\kf38} soul{\kf25} at{\kf19} the{\kf25} fi{\kf25}re{\kf101}side
+Dialogue: 0,0:01:55.91,0:01:59.48,DEFAULT,,0,0,0,,{\r}{\kf19}Lay{\kf19} down{\kf19} your{\kf26} bur{\kf26}~{\kf19}den{\kf19} and{\kf39} sing{\kf32} a{\kf32}way{\kf39} your{\kf68} strife
+Dialogue: 0,0:02:00.10,0:02:05.84,DEFAULT,,0,0,0,,{\r}{\kf23}All{\kf23} this{\kf34} time{\kf34} you've{\kf34} been{\kf23} a{\kf23}~{\kf199}lone{\kf159}~{\kf22}~
+Dialogue: 0,0:02:06.67,0:02:12.00,DEFAULT,,0,0,0,,{\r}{\kf18}You{\kf30} don't{\kf36} have{\kf36} to{\kf36} be{\kf24} a{\kf24}~{\kf136}lone{\kf24}~{\kf24}~{\kf130}~,{\kf15} no
+Dialogue: 0,0:02:13.29,0:02:19.60,DEFAULT,,0,0,0,,{\r}{\kf18}Just{\kf24} let{\kf41} go{\kf35} your{\kf47} in{\kf24}hi{\kf29}~{\kf41}bi{\kf29}tions{\kf41} now,{\kf35} en{\kf41}joy{\kf47} your{\kf47}self{\kf24}~{\kf24}~{\kf84}~
+Dialogue: 0,0:02:19.91,0:02:25.14,DEFAULT,,0,0,0,,{\r}{\kf17}Let{\kf23} the{\kf57} ma{\kf29}gic{\kf23} fill{\kf17}~{\kf23} your{\kf23}~{\kf189} soul{\kf121}~
+Dialogue: 0,0:02:25.81,0:02:28.91,DEFAULT,,0,0,0,,{\r}{\kf18}Fol{\kf12}low{\kf18} your{\kf24} sto{\kf24}~{\kf30}ry,{\kf49} fol{\kf24}low{\kf24} your{\kf49} song{\kf18}~{\kf20}~
+Dialogue: 0,0:02:29.07,0:02:31.81,DEFAULT,,0,0,0,,{\r}{\kf19}Fol{\kf19}low{\kf19} your{\kf38} friends{\kf19} when{\kf19} your{\kf38} days{\kf32} get{\kf71} long
+Dialogue: 0,0:02:32.33,0:02:35.28,DEFAULT,,0,0,0,,{\r}{\kf18}Lay{\kf18} down{\kf18} your{\kf37} soul{\kf31} at{\kf18} the{\kf25} fi{\kf25}re{\kf49}side{\kf25}~{\kf31}~
+Dialogue: 0,0:02:35.64,0:02:39.21,DEFAULT,,0,0,0,,{\r}{\kf19}Lay{\kf19} down{\kf19} your{\kf25} bur{\kf25}~{\kf25}den{\kf19} and{\kf31} sing{\kf50} a{\kf38}way{\kf44} your{\kf43} strife
+Dialogue: 0,0:02:39.78,0:02:45.98,DEFAULT,,0,0,0,,{\r}{\kf18}All{\kf23} this{\kf29} time{\kf29} you've{\kf29} been{\kf47} a{\kf94}lone{\kf23}~{\kf23}~{\kf23}~{\kf70}~{\kf23}~{\kf23}~{\kf23}~{\kf23}~{\kf23}~{\kf23}~{\kf23}~{\kf52}~
+Dialogue: 0,0:02:46.40,0:02:51.88,DEFAULT,,0,0,0,,{\r}{\kf17}You{\kf34} don't{\kf34} have{\kf34} to{\kf34} be{\kf28} a{\kf17}~{\kf328}lone{\kf22}~
+Dialogue: 0,0:02:52.96,0:02:58.86,DEFAULT,,0,0,0,,{\r}{\kf24}Just{\kf30} let{\kf30} go{\kf30} your{\kf49} in{\kf24}hi{\kf24}~{\kf49}bi{\kf36}tions{\kf61} now,{\kf24} en{\kf36}joy{\kf24} your{\kf24}~{\kf79}self{\kf46}~
+Dialogue: 0,0:02:59.64,0:03:05.02,DEFAULT,,0,0,0,,{\r}{\kf18}Let{\kf24} the{\kf48} ma{\kf30}gic{\kf36} fill{\kf30} your{\kf175} soul{\kf18}~{\kf18}~{\kf141}~
+Dialogue: 0,0:03:05.43,0:03:08.38,DEFAULT,,0,0,0,,{\r}{\kf25}Fol{\kf19}low{\kf19} your{\kf25} sto{\kf25}~{\kf31}ry,{\kf50} fol{\kf25}low{\kf19} your{\kf57} song
+Dialogue: 0,0:03:08.59,0:03:11.59,DEFAULT,,0,0,0,,{\r}{\kf13}But{\kf27} fol{\kf20}low{\kf20} your{\kf33} friends{\kf20} when{\kf20} your{\kf40} days{\kf33} get{\kf27} long{\kf47}~
+Dialogue: 0,0:03:12.05,0:03:14.90,DEFAULT,,0,0,0,,{\r}{\kf19}Lay{\kf19} down{\kf19} your{\kf32} soul{\kf32} at{\kf19} the{\kf25} fi{\kf25}re{\kf94}side
+Dialogue: 0,0:03:15.36,0:03:18.88,DEFAULT,,0,0,0,,{\r}{\kf19}Lay{\kf19} down{\kf19} your{\kf49} bur{\kf19}den{\kf19} and{\kf37} sing{\kf37} a{\kf43}way{\kf37} your{\kf54} strife
+Dialogue: 0,0:03:19.50,0:03:25.29,DEFAULT,,0,0,0,,{\r}{\kf17}All{\kf34} this{\kf34} time{\kf34} you've{\kf34} been{\kf22} a{\kf22}~{\kf202}lone{\kf157}~{\kf23}~
+Dialogue: 0,0:03:26.07,0:03:31.86,DEFAULT,,0,0,0,,{\r}{\kf23}You{\kf23} don't{\kf34} have{\kf34} to{\kf34} be{\kf23} a{\kf23}~{\kf138}lone{\kf23}~{\kf23}~{\kf201}~
+Dialogue: 0,0:03:32.74,0:03:38.95,DEFAULT,,0,0,0,,{\r}{\kf18}Just{\kf29} let{\kf29} go{\kf35} your{\kf47} in{\kf23}hi{\kf23}~{\kf47}bi{\kf41}tions{\kf35} now,{\kf41} en{\kf35}joy{\kf53} your{\kf47}self{\kf23}~{\kf23}~{\kf72}~
+Dialogue: 0,0:03:39.36,0:03:45.83,DEFAULT,,0,0,0,,{\r}{\kf17}Let{\kf23} the{\kf45} ma{\kf34}gic{\kf34} fill{\kf23} your{\kf17}~{\kf193} soul{\kf165}~{\kf96}~

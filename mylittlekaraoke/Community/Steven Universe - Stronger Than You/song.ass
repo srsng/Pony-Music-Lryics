@@ -1,68 +1,75 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Stronger Than You
+Artist: Steven Universe
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:10.67,0:00:11.44,DEFAULT,,0,0,0,,{\kf16}This{\kf16} is{\kf20} Gar{\kf20}net
-Dialogue: 0,0:00:11.86,0:00:12.62,DEFAULT,,0,0,0,,{\kf16}Back{\kf16} to{\kf16}ge{\kf23}ther
-Dialogue: 0,0:00:13.12,0:00:15.91,DEFAULT,,0,0,0,,{\kf12}And{\kf12} I'm{\kf16} ne{\kf12}ver{\kf16} go{\kf16}ing{\kf23} down{\kf12} at{\kf12} the{\kf23} hands{\kf12} of{\kf12} the{\kf23} likes{\kf12} of{\kf16} you
-Dialogue: 0,0:00:16.07,0:00:17.48,DEFAULT,,0,0,0,,{\kf16}Be{\kf12}cause{\kf16} I'm{\kf16} so{\kf27} much{\kf20} bet{\kf16}ter
-Dialogue: 0,0:00:17.86,0:00:19.93,DEFAULT,,0,0,0,,{\kf16}And{\kf16} e{\kf12}v'ry{\kf12} part{\kf12} of{\kf12} me{\kf12} is{\kf16} say{\kf12}ing{\kf20} go{\kf12} get{\kf23} 'er
-Dialogue: 0,0:00:20.43,0:00:22.42,DEFAULT,,0,0,0,,{\kf8}The{\kf12} two{\kf8} of{\kf12} us{\kf12} ain't{\kf16} gon{\kf12}na{\kf16} fol{\kf12}low{\kf27} your{\kf39} rules
-Dialogue: 0,0:00:22.95,0:00:25.25,DEFAULT,,0,0,0,,{\kf16}Come{\kf12} at{\kf20} me{\kf16} with{\kf12}out{\kf16} a{\kf12}ny{\kf8} of{\kf12} your{\kf23} fan{\kf20}cy{\kf23} tools
-Dialogue: 0,0:00:25.44,0:00:27.05,DEFAULT,,0,0,0,,{\kf20}Let's{\kf20} go,{\kf27} just{\kf20} me{\kf20} and{\kf27} you
-Dialogue: 0,0:00:27.85,0:00:29.54,DEFAULT,,0,0,0,,{\kf23}Let's{\kf20} go,{\kf16} just{\kf20} one{\kf20} on{\kf27} two
-Dialogue: 0,0:00:29.73,0:00:31.87,DEFAULT,,0,0,0,,{\kf12}Go{\kf16} a{\kf12}head{\kf12} and{\kf12} try{\kf12} and{\kf12} hit{\kf12} me{\kf12} if{\kf12} you're{\kf27} a{\kf31}ble
-Dialogue: 0,0:00:32.21,0:00:34.32,DEFAULT,,0,0,0,,{\kf12}Can't{\kf12} you{\kf12} see{\kf12} that{\kf12} my{\kf12} re{\kf16}la{\kf16}tion{\kf12}ship{\kf12} is{\kf31} sta{\kf31}ble
-Dialogue: 0,0:00:34.59,0:00:36.77,DEFAULT,,0,0,0,,{\kf16}I{\kf12} can{\kf12} see{\kf12} you{\kf12} hate{\kf12} the{\kf12} way{\kf12} we{\kf12} in{\kf12}ter{\kf31}min{\kf31}gle
-Dialogue: 0,0:00:37.04,0:00:38.99,DEFAULT,,0,0,0,,{\kf16}But{\kf12} I{\kf16} think{\kf16} you're{\kf16} just{\kf16} mad{\kf16} cause{\kf16} you're{\kf27} sin{\kf12}gle
-Dialogue: 0,0:00:39.10,0:00:41.32,DEFAULT,,0,0,0,,{\kf8}And{\kf8} you're{\kf12} not{\kf16} gon{\kf16}na{\kf20} stop{\kf12} what{\kf12} we've{\kf20} made{\kf20} to{\kf16}ge{\kf31}ther
-Dialogue: 0,0:00:41.63,0:00:43.66,DEFAULT,,0,0,0,,{\kf12}We{\kf12} are{\kf12} gon{\kf12}na{\kf23} stay{\kf23} like{\kf20} this{\kf16} for{\kf20}e{\kf16}ver
-Dialogue: 0,0:00:43.81,0:00:46.10,DEFAULT,,0,0,0,,{\kf8}If{\kf16} you{\kf16} break{\kf8}~{\kf16} us{\kf12} a{\kf20}part{\kf16} we'll{\kf12} just{\kf16} come{\kf20} back{\kf20} ne{\kf16}wer
-Dialogue: 0,0:00:46.26,0:00:48.78,DEFAULT,,0,0,0,,{\kf8}And{\kf12} we'll{\kf23} al{\kf12}ways{\kf12} be{\kf23} twice{\kf16} the{\kf20} gem{\kf20} that{\kf20} you{\kf27} are
-Dialogue: 0,0:00:49.01,0:00:52.38,DEFAULT,,0,0,0,,{\kf16}I{\kf20} am{\kf20} made{\kf27}~{\kf23} oh-{\kf23}oh-{\kf31}oh-{\kf27}oh-{\kf66}of
-Dialogue: 0,0:00:52.65,0:00:54.87,DEFAULT,,0,0,0,,{\kf23}Lo-{\kf23}oh-{\kf31}oh-{\kf27}oh-{\kf66}ove
-Dialogue: 0,0:00:55.10,0:00:57.81,DEFAULT,,0,0,0,,{\kf23}Oh-{\kf23}oh-{\kf31}oh-{\kf27}oh-{\kf119}ove
-Dialogue: 0,0:00:59.96,0:01:02.25,DEFAULT,,0,0,0,,{\kf23}Lo-{\kf23}oh-{\kf27}oh-{\kf27}oh-{\kf73}ove
-Dialogue: 0,0:01:02.44,0:01:04.63,DEFAULT,,0,0,0,,{\kf20}Lo-{\kf23}oh-{\kf27}oh-{\kf27}oh-{\kf66}ove
-Dialogue: 0,0:01:04.82,0:01:07.95,DEFAULT,,0,0,0,,{\kf23}Lo-{\kf23}oh-{\kf31}oh-{\kf31}oh-{\kf154}ove
-Dialogue: 0,0:01:09.75,0:01:12.09,DEFAULT,,0,0,0,,{\kf23}Hm{\kf23} hm{\kf27} hm{\kf31} hm{\kf77} hm
-Dialogue: 0,0:01:12.20,0:01:14.23,DEFAULT,,0,0,0,,{\kf23}Hm{\kf23} hm{\kf27} hm{\kf31} hm{\kf46} hm
-Dialogue: 0,0:01:14.73,0:01:16.87,DEFAULT,,0,0,0,,{\kf20}Hm{\kf23} hm{\kf31} hm{\kf31} hm{\kf66} hm
-Dialogue: 0,0:01:28.77,0:01:30.45,DEFAULT,,0,0,0,,{\kf16}This{\kf16} is{\kf16} who{\kf16} we{\kf77} are
-Dialogue: 0,0:01:31.26,0:01:33.02,DEFAULT,,0,0,0,,{\kf16}This{\kf16} is{\kf20} who{\kf20} I{\kf66} am
-Dialogue: 0,0:01:33.52,0:01:35.43,DEFAULT,,0,0,0,,{\kf16}And{\kf20} if{\kf16} you{\kf20} think{\kf23} you{\kf16} can{\kf20} stop{\kf20} me
-Dialogue: 0,0:01:35.58,0:01:37.88,DEFAULT,,0,0,0,,{\kf16}Then{\kf20} you{\kf27} need{\kf16} to{\kf20} think{\kf23} a{\kf69}gain
-Dialogue: 0,0:01:38.60,0:01:40.59,DEFAULT,,0,0,0,,{\kf20}'Cause{\kf20} I{\kf20} am{\kf16} a{\kf27} feel{\kf81}ing
-Dialogue: 0,0:01:40.86,0:01:42.58,DEFAULT,,0,0,0,,{\kf16}And{\kf23} I{\kf16} will{\kf23} ne{\kf20}ver{\kf58} end
-Dialogue: 0,0:01:42.74,0:01:44.96,DEFAULT,,0,0,0,,{\kf12}And{\kf20} I{\kf23} won't{\kf20} let{\kf20} you{\kf20} hurt{\kf20} my{\kf27} pla{\kf23}net
-Dialogue: 0,0:01:45.19,0:01:47.67,DEFAULT,,0,0,0,,{\kf12}And{\kf16} I{\kf23} won't{\kf23} let{\kf23} you{\kf16} hurt{\kf23} my{\kf73} friends
-Dialogue: 0,0:01:48.02,0:01:50.24,DEFAULT,,0,0,0,,{\kf16}Go{\kf16} a{\kf12}head{\kf12} and{\kf12} try{\kf12} and{\kf12} hit{\kf12} me{\kf12} if{\kf12} you're{\kf27} a{\kf39}ble
-Dialogue: 0,0:01:50.51,0:01:52.69,DEFAULT,,0,0,0,,{\kf12}Can't{\kf12} you{\kf12} see{\kf12} that{\kf12} my{\kf16} re{\kf16}la{\kf16}tion{\kf12}ship{\kf12} is{\kf31} sta{\kf31}ble
-Dialogue: 0,0:01:52.84,0:01:55.10,DEFAULT,,0,0,0,,{\kf12}I{\kf12} know{\kf12} you{\kf12} think{\kf16} I'm{\kf16} not{\kf16} some{\kf12}thing{\kf12} you're{\kf20} a{\kf20}fraid{\kf31} of
-Dialogue: 0,0:01:55.36,0:01:57.35,DEFAULT,,0,0,0,,{\kf12}'Cause{\kf16} you{\kf20} think{\kf16} that{\kf16} you've{\kf16} seen{\kf16} what{\kf20} I'm{\kf23} made{\kf8} of
-Dialogue: 0,0:01:57.47,0:01:59.65,DEFAULT,,0,0,0,,{\kf8}Well{\kf12} I{\kf12} am{\kf16} e{\kf12}ven{\kf20} more{\kf12} than{\kf12} the{\kf16} two{\kf20} of{\kf43} them
-Dialogue: 0,0:02:00.03,0:02:02.18,DEFAULT,,0,0,0,,{\kf12}E{\kf16}v'ry{\kf16}thing{\kf16} they{\kf12} care{\kf12} a{\kf12}bout{\kf16} is{\kf16} what{\kf23} I{\kf43} am
-Dialogue: 0,0:02:02.44,0:02:04.78,DEFAULT,,0,0,0,,{\kf20}I{\kf20} am{\kf16} their{\kf23} fu{\kf20}ry,{\kf16} I{\kf16} am{\kf16} their{\kf27} pa{\kf16}tience
-Dialogue: 0,0:02:04.93,0:02:06.88,DEFAULT,,0,0,0,,{\kf16}I{\kf20} am{\kf16} a{\kf23} con{\kf16}ver{\kf27}sa{\kf58}tion
-Dialogue: 0,0:02:07.30,0:02:10.75,DEFAULT,,0,0,0,,{\kf27}I{\kf12}~{\kf16} am{\kf39} made{\kf23} oh-{\kf23}oh-{\kf23}oh-{\kf23}oh-{\kf66}of
-Dialogue: 0,0:02:11.05,0:02:13.23,DEFAULT,,0,0,0,,{\kf20}Lo-{\kf20}oh-{\kf23}oh-{\kf23}oh-{\kf66}ove
-Dialogue: 0,0:02:13.50,0:02:15.80,DEFAULT,,0,0,0,,{\kf20}Oh-{\kf20}oh-{\kf23}oh-{\kf23}oh-{\kf81}ove
-Dialogue: 0,0:02:16.26,0:02:17.98,DEFAULT,,0,0,0,,{\kf8}And{\kf12} it's{\kf23} stron{\kf23}ger{\kf23} than{\kf54} you
-Dialogue: 0,0:02:18.36,0:02:20.62,DEFAULT,,0,0,0,,{\kf23}Lo-{\kf23}oh-{\kf23}oh-{\kf23}oh-{\kf73}ove
-Dialogue: 0,0:02:20.77,0:02:22.99,DEFAULT,,0,0,0,,{\kf23}Oh-{\kf23}oh-{\kf23}oh-{\kf23}oh-{\kf66}ove
-Dialogue: 0,0:02:23.26,0:02:25.63,DEFAULT,,0,0,0,,{\kf23}Lo-{\kf23}oh-{\kf23}oh-{\kf23}oh-{\kf85}ove
-Dialogue: 0,0:02:26.02,0:02:27.85,DEFAULT,,0,0,0,,{\kf12}And{\kf12} it's{\kf31} stron{\kf20}ger{\kf27} than{\kf62} you
-Dialogue: 0,0:02:28.12,0:02:30.30,DEFAULT,,0,0,0,,{\kf23}Lo-{\kf23}oh-{\kf23}oh-{\kf23}oh-{\kf62}ove
-Dialogue: 0,0:02:30.61,0:02:32.79,DEFAULT,,0,0,0,,{\kf23}Lo-{\kf23}oh-{\kf27}oh-{\kf31}oh-{\kf66}ove
-Dialogue: 0,0:02:33.06,0:02:35.54,DEFAULT,,0,0,0,,{\kf23}Lo-{\kf23}oh-{\kf23}oh-{\kf23}oh-{\kf96}ove
-Dialogue: 0,0:02:35.77,0:02:37.72,DEFAULT,,0,0,0,,{\kf12}And{\kf12} it's{\kf31} stron{\kf23}ger{\kf27} than{\kf66} you
-Dialogue: 0,0:02:37.99,0:02:40.21,DEFAULT,,0,0,0,,{\kf23}Oh-{\kf23}oh-{\kf23}oh-{\kf23}oh-{\kf73}oh
-Dialogue: 0,0:02:40.40,0:02:42.58,DEFAULT,,0,0,0,,{\kf23}Lo-{\kf23}oh-{\kf23}oh-{\kf23}oh-{\kf66}ove
-Dialogue: 0,0:02:42.89,0:02:45.38,DEFAULT,,0,0,0,,{\kf20}Lo-{\kf23}oh-{\kf23}oh-{\kf23}oh-{\kf100}ove
+Dialogue: 0,0:00:10.68,0:00:11.44,DEFAULT,,0,0,0,,{\r}{\kf17}This{\kf17} is{\kf21} Gar{\kf22}net
+Dialogue: 0,0:00:11.86,0:00:12.63,DEFAULT,,0,0,0,,{\r}{\kf17}Back{\kf17} to{\kf17}ge{\kf26}ther
+Dialogue: 0,0:00:13.12,0:00:15.92,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf14} I'm{\kf19} ne{\kf14}ver{\kf19} go{\kf19}ing{\kf29} down{\kf14} at{\kf14} the{\kf29} hands{\kf14} of{\kf14} the{\kf29} likes{\kf14} of{\kf23} you
+Dialogue: 0,0:00:16.07,0:00:17.49,DEFAULT,,0,0,0,,{\r}{\kf18}Be{\kf14}cause{\kf18} I'm{\kf18} so{\kf32} much{\kf23} bet{\kf19}ter
+Dialogue: 0,0:00:17.87,0:00:19.94,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} e{\kf14}v'ry{\kf14} part{\kf14} of{\kf14} me{\kf14} is{\kf19} say{\kf14}ing{\kf24} go{\kf14} get{\kf28} 'er
+Dialogue: 0,0:00:20.43,0:00:22.42,DEFAULT,,0,0,0,,{\r}{\kf10}The{\kf14} two{\kf10} of{\kf14} us{\kf14} ain't{\kf18} gon{\kf14}na{\kf18} fol{\kf14}low{\kf32} your{\kf41} rules
+Dialogue: 0,0:00:22.96,0:00:25.26,DEFAULT,,0,0,0,,{\r}{\kf19}Come{\kf14} at{\kf24} me{\kf19} with{\kf14}out{\kf19} a{\kf14}ny{\kf10} of{\kf14} your{\kf29} fan{\kf24}cy{\kf30} tools
+Dialogue: 0,0:00:25.45,0:00:27.05,DEFAULT,,0,0,0,,{\r}{\kf24}Let's{\kf24} go,{\kf33} just{\kf24} me{\kf24} and{\kf32} you
+Dialogue: 0,0:00:27.86,0:00:29.54,DEFAULT,,0,0,0,,{\r}{\kf32}Let's{\kf26} go,{\kf21} just{\kf26} one{\kf26} on{\kf37} two
+Dialogue: 0,0:00:29.73,0:00:31.87,DEFAULT,,0,0,0,,{\r}{\kf14}Go{\kf19} a{\kf14}head{\kf14} and{\kf14} try{\kf14} and{\kf14} hit{\kf14} me{\kf14} if{\kf14} you're{\kf33} a{\kf36}ble
+Dialogue: 0,0:00:32.22,0:00:34.32,DEFAULT,,0,0,0,,{\r}{\kf13}Can't{\kf13} you{\kf13} see{\kf13} that{\kf13} my{\kf13} re{\kf18}la{\kf18}tion{\kf13}ship{\kf13} is{\kf35} sta{\kf35}ble
+Dialogue: 0,0:00:34.59,0:00:36.77,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf14} can{\kf14} see{\kf14} you{\kf14} hate{\kf14} the{\kf14} way{\kf14} we{\kf14} in{\kf14}ter{\kf37}min{\kf36}gle
+Dialogue: 0,0:00:37.04,0:00:38.99,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf14} I{\kf19} think{\kf19} you're{\kf19} just{\kf19} mad{\kf19} cause{\kf19} you're{\kf33} sin{\kf15}gle
+Dialogue: 0,0:00:39.11,0:00:41.33,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf10} you're{\kf14} not{\kf18} gon{\kf18}na{\kf23} stop{\kf14} what{\kf14} we've{\kf23} made{\kf23} to{\kf18}ge{\kf37}ther
+Dialogue: 0,0:00:41.63,0:00:43.66,DEFAULT,,0,0,0,,{\r}{\kf14}We{\kf14} are{\kf14} gon{\kf14}na{\kf29} stay{\kf29} like{\kf24} this{\kf19} for{\kf24}e{\kf22}ver
+Dialogue: 0,0:00:43.81,0:00:46.11,DEFAULT,,0,0,0,,{\r}{\kf10}If{\kf19} you{\kf19} break{\kf10}~{\kf19} us{\kf14} a{\kf23}part{\kf19} we'll{\kf14} just{\kf19} come{\kf23} back{\kf23} ne{\kf18}wer
+Dialogue: 0,0:00:46.26,0:00:48.79,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf15} we'll{\kf31} al{\kf15}ways{\kf15} be{\kf31} twice{\kf21} the{\kf26} gem{\kf26} that{\kf26} you{\kf37} are
+Dialogue: 0,0:00:49.02,0:00:52.39,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf26} am{\kf26} made{\kf36}~{\kf31} oh-{\kf31}oh-{\kf41}oh-{\kf36}oh-{\kf89}of
+Dialogue: 0,0:00:52.65,0:00:54.87,DEFAULT,,0,0,0,,{\r}{\kf30}Lo-{\kf30}oh-{\kf40}oh-{\kf35}oh-{\kf87}ove
+Dialogue: 0,0:00:55.10,0:00:57.82,DEFAULT,,0,0,0,,{\r}{\kf28}Oh-{\kf28}oh-{\kf38}oh-{\kf33}oh-{\kf145}ove
+Dialogue: 0,0:00:59.96,0:01:02.26,DEFAULT,,0,0,0,,{\r}{\kf31}Lo-{\kf31}oh-{\kf36}oh-{\kf36}oh-{\kf96}ove
+Dialogue: 0,0:01:02.45,0:01:04.63,DEFAULT,,0,0,0,,{\r}{\kf26}Lo-{\kf31}oh-{\kf36}oh-{\kf36}oh-{\kf89}ove
+Dialogue: 0,0:01:04.82,0:01:07.96,DEFAULT,,0,0,0,,{\r}{\kf28}Lo-{\kf28}oh-{\kf37}oh-{\kf37}oh-{\kf184}ove
+Dialogue: 0,0:01:09.76,0:01:12.09,DEFAULT,,0,0,0,,{\r}{\kf30}Hm{\kf30} hm{\kf35} hm{\kf40} hm{\kf98} hm
+Dialogue: 0,0:01:12.21,0:01:14.23,DEFAULT,,0,0,0,,{\r}{\kf31}Hm{\kf31} hm{\kf36} hm{\kf42} hm{\kf63} hm
+Dialogue: 0,0:01:14.73,0:01:16.87,DEFAULT,,0,0,0,,{\r}{\kf24}Hm{\kf29} hm{\kf39} hm{\kf39} hm{\kf83} hm
+Dialogue: 0,0:01:28.78,0:01:30.46,DEFAULT,,0,0,0,,{\r}{\kf19}This{\kf19} is{\kf19} who{\kf19} we{\kf92} are
+Dialogue: 0,0:01:31.26,0:01:33.02,DEFAULT,,0,0,0,,{\r}{\kf20}This{\kf20} is{\kf25} who{\kf25} I{\kf86} am
+Dialogue: 0,0:01:33.52,0:01:35.43,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf25} if{\kf20} you{\kf25} think{\kf30} you{\kf20} can{\kf25} stop{\kf26} me
+Dialogue: 0,0:01:35.59,0:01:37.88,DEFAULT,,0,0,0,,{\r}{\kf19}Then{\kf23} you{\kf33} need{\kf19} to{\kf23} think{\kf28} a{\kf85}gain
+Dialogue: 0,0:01:38.61,0:01:40.60,DEFAULT,,0,0,0,,{\r}{\kf21}'Cause{\kf21} I{\kf21} am{\kf17} a{\kf30} feel{\kf89}ing
+Dialogue: 0,0:01:40.87,0:01:42.59,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf26} I{\kf17} will{\kf26} ne{\kf21}ver{\kf65} end
+Dialogue: 0,0:01:42.74,0:01:44.96,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf24} I{\kf28} won't{\kf24} let{\kf24} you{\kf24} hurt{\kf24} my{\kf33} pla{\kf27}net
+Dialogue: 0,0:01:45.19,0:01:47.68,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf18} I{\kf28} won't{\kf28} let{\kf28} you{\kf18} hurt{\kf28} my{\kf87} friends
+Dialogue: 0,0:01:48.02,0:01:50.24,DEFAULT,,0,0,0,,{\r}{\kf18}Go{\kf18} a{\kf14}head{\kf14} and{\kf14} try{\kf14} and{\kf14} hit{\kf14} me{\kf14} if{\kf14} you're{\kf32} a{\kf42}ble
+Dialogue: 0,0:01:50.51,0:01:52.69,DEFAULT,,0,0,0,,{\r}{\kf13}Can't{\kf13} you{\kf13} see{\kf13} that{\kf13} my{\kf18} re{\kf18}la{\kf18}tion{\kf13}ship{\kf13} is{\kf36} sta{\kf37}ble
+Dialogue: 0,0:01:52.84,0:01:55.10,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf14} know{\kf14} you{\kf14} think{\kf19} I'm{\kf19} not{\kf19} some{\kf14}thing{\kf14} you're{\kf24} a{\kf24}fraid{\kf37} of
+Dialogue: 0,0:01:55.37,0:01:57.36,DEFAULT,,0,0,0,,{\r}{\kf15}'Cause{\kf19} you{\kf24} think{\kf19} that{\kf19} you've{\kf19} seen{\kf19} what{\kf24} I'm{\kf29} made{\kf12} of
+Dialogue: 0,0:01:57.47,0:01:59.66,DEFAULT,,0,0,0,,{\r}{\kf10}Well{\kf14} I{\kf14} am{\kf19} e{\kf14}ven{\kf24} more{\kf14} than{\kf14} the{\kf19} two{\kf24} of{\kf52} them
+Dialogue: 0,0:02:00.04,0:02:02.18,DEFAULT,,0,0,0,,{\r}{\kf13}E{\kf17}v'ry{\kf17}thing{\kf17} they{\kf13} care{\kf13} a{\kf13}bout{\kf17} is{\kf17} what{\kf26} I{\kf51} am
+Dialogue: 0,0:02:02.45,0:02:04.78,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} am{\kf19} their{\kf29} fu{\kf24}ry,{\kf19} I{\kf19} am{\kf19} their{\kf34} pa{\kf22}tience
+Dialogue: 0,0:02:04.94,0:02:06.89,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf22} am{\kf17} a{\kf26} con{\kf17}ver{\kf30}sa{\kf66}tion
+Dialogue: 0,0:02:07.31,0:02:10.75,DEFAULT,,0,0,0,,{\r}{\kf37}I{\kf16}~{\kf21} am{\kf53} made{\kf32} oh-{\kf32}oh-{\kf32}oh-{\kf32}oh-{\kf89}of
+Dialogue: 0,0:02:11.06,0:02:13.24,DEFAULT,,0,0,0,,{\r}{\kf28}Lo-{\kf28}oh-{\kf34}oh-{\kf34}oh-{\kf94}ove
+Dialogue: 0,0:02:13.51,0:02:15.80,DEFAULT,,0,0,0,,{\r}{\kf27}Oh-{\kf27}oh-{\kf32}oh-{\kf32}oh-{\kf112}ove
+Dialogue: 0,0:02:16.26,0:02:17.98,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf14} it's{\kf28} stron{\kf28}ger{\kf28} than{\kf64} you
+Dialogue: 0,0:02:18.37,0:02:20.62,DEFAULT,,0,0,0,,{\r}{\kf32}Lo-{\kf32}oh-{\kf32}oh-{\kf32}oh-{\kf98}ove
+Dialogue: 0,0:02:20.78,0:02:23.00,DEFAULT,,0,0,0,,{\r}{\kf32}Oh-{\kf32}oh-{\kf32}oh-{\kf32}oh-{\kf94}ove
+Dialogue: 0,0:02:23.27,0:02:25.64,DEFAULT,,0,0,0,,{\r}{\kf31}Lo-{\kf31}oh-{\kf31}oh-{\kf31}oh-{\kf113}ove
+Dialogue: 0,0:02:26.02,0:02:27.86,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf13} it's{\kf35} stron{\kf22}ger{\kf31} than{\kf70} you
+Dialogue: 0,0:02:28.12,0:02:30.31,DEFAULT,,0,0,0,,{\r}{\kf33}Lo-{\kf33}oh-{\kf33}oh-{\kf33}oh-{\kf86}ove
+Dialogue: 0,0:02:30.61,0:02:32.79,DEFAULT,,0,0,0,,{\r}{\kf30}Lo-{\kf30}oh-{\kf35}oh-{\kf40}oh-{\kf83}ove
+Dialogue: 0,0:02:33.06,0:02:35.55,DEFAULT,,0,0,0,,{\r}{\kf30}Lo-{\kf30}oh-{\kf30}oh-{\kf30}oh-{\kf129}ove
+Dialogue: 0,0:02:35.78,0:02:37.73,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf13} it's{\kf35} stron{\kf27}ger{\kf31} than{\kf76} you
+Dialogue: 0,0:02:38.00,0:02:40.22,DEFAULT,,0,0,0,,{\r}{\kf31}Oh-{\kf31}oh-{\kf31}oh-{\kf31}oh-{\kf98}oh
+Dialogue: 0,0:02:40.41,0:02:42.59,DEFAULT,,0,0,0,,{\r}{\kf32}Lo-{\kf32}oh-{\kf32}oh-{\kf32}oh-{\kf90}ove
+Dialogue: 0,0:02:42.90,0:02:45.38,DEFAULT,,0,0,0,,{\r}{\kf25}Lo-{\kf30}oh-{\kf30}oh-{\kf30}oh-{\kf134}ove

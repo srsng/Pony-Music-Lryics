@@ -1,72 +1,79 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Reach (All Along)
+Artist: Aviators, 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:48.35,0:00:50.86,DEFAULT,,0,0,0,,{\kf31}Take{\kf31} a{\kf40} look,{\kf31} look{\kf31} at{\kf40} me
-Dialogue: 0,0:00:51.17,0:00:55.10,DEFAULT,,0,0,0,,{\kf27}You{\kf36} on{\kf23}ly{\kf27} learn{\kf23} if{\kf31} you{\kf27} are{\kf49} lis{\kf45}ten{\kf45}ing
-Dialogue: 0,0:00:59.64,0:01:02.16,DEFAULT,,0,0,0,,{\kf27}Find{\kf27} your{\kf40} own{\kf31} goal{\kf27} to{\kf40} reach
-Dialogue: 0,0:01:02.46,0:01:06.70,DEFAULT,,0,0,0,,{\kf36}Al{\kf31}though{\kf31} the{\kf31} road{\kf31} may{\kf31} be{\kf40} blis{\kf40}ter{\kf71}ing
-Dialogue: 0,0:01:09.52,0:01:12.08,DEFAULT,,0,0,0,,{\kf27}Can{\kf36} you{\kf186} say
-Dialogue: 0,0:01:12.30,0:01:17.11,DEFAULT,,0,0,0,,{\kf31}You've{\kf31} been{\kf67} search{\kf45}ing{\kf53} all{\kf36} your{\kf27}~{\kf120} life?
-Dialogue: 0,0:01:20.77,0:01:23.24,DEFAULT,,0,0,0,,{\kf27}There's{\kf31} a{\kf173} way
-Dialogue: 0,0:01:23.60,0:01:27.83,DEFAULT,,0,0,0,,{\kf31}There's{\kf31} a{\kf40} will{\kf23}~{\kf31} and{\kf53} there's{\kf53} a{\kf71} time
-Dialogue: 0,0:01:30.17,0:01:33.21,DEFAULT,,0,0,0,,{\kf14}It{\kf27} all{\kf31} comes{\kf40} down{\kf18} to{\kf18} what,{\kf27} where,{\kf27} when{\kf14} and{\kf45} why
-Dialogue: 0,0:01:33.48,0:01:35.64,DEFAULT,,0,0,0,,{\kf36}I'm{\kf31} not{\kf18} the{\kf27} one{\kf31} you{\kf40} need
-Dialogue: 0,0:01:35.82,0:01:38.69,DEFAULT,,0,0,0,,{\kf18}But{\kf23} I'll{\kf31} be{\kf27} there{\kf18} to{\kf80} guide{\kf58} you
-Dialogue: 0,0:01:39.13,0:01:41.20,DEFAULT,,0,0,0,,{\kf31}I'll{\kf31} show{\kf14} the{\kf31} world{\kf18} to{\kf40} you
-Dialogue: 0,0:01:41.46,0:01:44.29,DEFAULT,,0,0,0,,{\kf14}And{\kf36} e{\kf36}very{\kf27}thing{\kf18} I've{\kf75} been{\kf49} through
-Dialogue: 0,0:01:44.95,0:01:47.55,DEFAULT,,0,0,0,,{\kf18}A{\kf23} bro{\kf23}ken{\kf45} mind,{\kf18} a{\kf23} bat{\kf18}tered{\kf45} song
-Dialogue: 0,0:01:47.86,0:01:50.29,DEFAULT,,0,0,0,,{\kf14}A{\kf14} spark{\kf18} of{\kf36} ma{\kf14}gic{\kf27} won't{\kf14} keep{\kf27} you{\kf36} strong
-Dialogue: 0,0:01:51.17,0:01:55.89,DEFAULT,,0,0,0,,{\kf23}But{\kf31} may{\kf31}be{\kf27} it's{\kf27} been{\kf27} in{\kf45} you{\kf27} all{\kf36} a{\kf31}~{\kf53}long
-Dialogue: 0,0:01:56.07,0:01:58.45,DEFAULT,,0,0,0,,{\kf18}Wah{\kf14} oh{\kf27} wah{\kf14} oh{\kf27} wow{\kf36} oh{\kf14} oh{\kf40} oh
-Dialogue: 0,0:01:58.89,0:02:01.27,DEFAULT,,0,0,0,,{\kf18}Wah{\kf14} oh{\kf27} wah{\kf14} oh{\kf27} wow{\kf36} oh{\kf14} oh{\kf40} oh
-Dialogue: 0,0:02:01.71,0:02:04.10,DEFAULT,,0,0,0,,{\kf18}Wah{\kf14} oh{\kf27} wah{\kf14} oh{\kf27} wow{\kf36} oh{\kf14} oh{\kf40} oh
-Dialogue: 0,0:02:04.54,0:02:07.05,DEFAULT,,0,0,0,,{\kf18}Wah{\kf14} oh{\kf27} wah{\kf14} oh{\kf27} wow{\kf27} oh{\kf14} oh{\kf14} oh{\kf36} oh
-Dialogue: 0,0:02:07.41,0:02:09.74,DEFAULT,,0,0,0,,{\kf18}Wah{\kf14} oh{\kf27} wah{\kf14} oh{\kf27} wow{\kf31} oh{\kf14} oh{\kf36} oh
-Dialogue: 0,0:02:10.19,0:02:12.52,DEFAULT,,0,0,0,,{\kf18}Wah{\kf14} oh{\kf27} wah{\kf14} oh{\kf27} wow{\kf31} oh{\kf14} oh{\kf36} oh
-Dialogue: 0,0:02:13.01,0:02:15.35,DEFAULT,,0,0,0,,{\kf18}Wah{\kf14} oh{\kf27} wah{\kf14} oh{\kf27} wow{\kf31} oh{\kf14} oh{\kf36} oh
-Dialogue: 0,0:02:15.83,0:02:18.39,DEFAULT,,0,0,0,,{\kf18}Wah{\kf14} oh{\kf27} wah{\kf14} oh{\kf27} wow{\kf36} oh{\kf14} oh{\kf14} oh{\kf36} oh
-Dialogue: 0,0:02:18.70,0:02:21.26,DEFAULT,,0,0,0,,{\kf31}Find{\kf36} your{\kf45}self{\kf27} and{\kf31} you'll{\kf49} see
-Dialogue: 0,0:02:21.48,0:02:26.11,DEFAULT,,0,0,0,,{\kf31}You{\kf36} can{\kf31} be{\kf31} what{\kf27} you've{\kf23} al{\kf45}ways{\kf45} dreamed{\kf45} you'd{\kf71} be{\kf36}~
-Dialogue: 0,0:02:29.99,0:02:32.51,DEFAULT,,0,0,0,,{\kf31}Learn{\kf31} to{\kf45} run,{\kf31} learn{\kf31} to{\kf40} breathe
-Dialogue: 0,0:02:32.82,0:02:37.58,DEFAULT,,0,0,0,,{\kf31}And{\kf27} you{\kf31} can{\kf31} learn{\kf31} to{\kf31} do{\kf31} most{\kf58} a{\kf45}ny{\kf36}thing{\kf93}~
-Dialogue: 0,0:02:39.88,0:02:42.48,DEFAULT,,0,0,0,,{\kf27}When{\kf27} you{\kf186} fall
-Dialogue: 0,0:02:42.70,0:02:47.91,DEFAULT,,0,0,0,,{\kf31}You'll{\kf31} stand{\kf58} up{\kf67} with{\kf58} brand{\kf62} new{\kf168} eyes
-Dialogue: 0,0:02:51.13,0:02:53.51,DEFAULT,,0,0,0,,{\kf31}You{\kf31} will{\kf159} see
-Dialogue: 0,0:02:54.08,0:02:59.69,DEFAULT,,0,0,0,,{\kf27}You're{\kf18} e{\kf36}ven{\kf58} strong{\kf67}er{\kf18} to{\kf27}~{\kf36} your{\kf31} sur{\kf58}prise{\kf124}~
-Dialogue: 0,0:03:00.52,0:03:03.70,DEFAULT,,0,0,0,,{\kf18}So{\kf18} wel{\kf23}come{\kf27} to{\kf23} the{\kf31} first{\kf36} day{\kf14} of{\kf18} re{\kf23}al{\kf31} life
-Dialogue: 0,0:03:03.88,0:03:05.99,DEFAULT,,0,0,0,,{\kf27}I'm{\kf31} not{\kf14} the{\kf27} one{\kf31} you{\kf36} need
-Dialogue: 0,0:03:06.17,0:03:09.04,DEFAULT,,0,0,0,,{\kf14}But{\kf27} I'll{\kf27} be{\kf27} there{\kf14} to{\kf80} guide{\kf58} you
-Dialogue: 0,0:03:09.52,0:03:11.55,DEFAULT,,0,0,0,,{\kf27}I'll{\kf31} show{\kf18} the{\kf23} world{\kf14} to{\kf45} you
-Dialogue: 0,0:03:11.82,0:03:14.64,DEFAULT,,0,0,0,,{\kf18}And{\kf31} e{\kf36}very{\kf23}thing{\kf18} I've{\kf71} been{\kf53} through
-Dialogue: 0,0:03:15.30,0:03:17.91,DEFAULT,,0,0,0,,{\kf18}A{\kf23} bro{\kf18}ken{\kf45} mind,{\kf14} a{\kf23} bat{\kf18}tered{\kf45} song
-Dialogue: 0,0:03:18.13,0:03:20.77,DEFAULT,,0,0,0,,{\kf18}A{\kf18} spark{\kf18} of{\kf36} ma{\kf14}gic{\kf23} won't{\kf18} keep{\kf31} you{\kf49} strong
-Dialogue: 0,0:03:21.48,0:03:26.20,DEFAULT,,0,0,0,,{\kf31}But{\kf40} may{\kf27}be{\kf27} it's{\kf31} been{\kf27} in{\kf62} you{\kf31} all{\kf40} a{\kf27}~{\kf49}long
-Dialogue: 0,0:03:26.42,0:03:28.80,DEFAULT,,0,0,0,,{\kf18}Wah{\kf14} oh{\kf27} wah{\kf14} oh{\kf27} wow{\kf36} oh{\kf14} oh{\kf40} oh
-Dialogue: 0,0:03:29.24,0:03:31.63,DEFAULT,,0,0,0,,{\kf18}Wah{\kf14} oh{\kf27} wah{\kf14} oh{\kf27} wow{\kf36} oh{\kf14} oh{\kf40} oh
-Dialogue: 0,0:03:32.07,0:03:34.45,DEFAULT,,0,0,0,,{\kf18}Wah{\kf14} oh{\kf27} wah{\kf14} oh{\kf27} wow{\kf36} oh{\kf14} oh{\kf40} oh
-Dialogue: 0,0:03:34.89,0:03:37.41,DEFAULT,,0,0,0,,{\kf18}Wah{\kf14} oh{\kf27} wah{\kf14} oh{\kf27} wow{\kf27} oh{\kf14} oh{\kf14} oh{\kf36} oh
-Dialogue: 0,0:03:37.76,0:03:40.10,DEFAULT,,0,0,0,,{\kf18}Wah{\kf14} oh{\kf27} wah{\kf14} oh{\kf27} wow{\kf31} oh{\kf14} oh{\kf36} oh
-Dialogue: 0,0:03:40.54,0:03:42.88,DEFAULT,,0,0,0,,{\kf18}Wah{\kf14} oh{\kf27} wah{\kf14} oh{\kf27} wow{\kf31} oh{\kf14} oh{\kf36} oh
-Dialogue: 0,0:03:43.36,0:03:45.70,DEFAULT,,0,0,0,,{\kf18}Wah{\kf14} oh{\kf27} wah{\kf14} oh{\kf27} wow{\kf31} oh{\kf14} oh{\kf36} oh
-Dialogue: 0,0:03:46.19,0:03:48.52,DEFAULT,,0,0,0,,{\kf18}Wah{\kf14} oh{\kf27} wah{\kf14} oh{\kf27} wow{\kf31} oh{\kf14} oh{\kf14} oh{\kf14} oh
-Dialogue: 0,0:03:48.70,0:03:53.60,DEFAULT,,0,0,0,,{\kf124}Lead{\kf124} your{\kf208} dreams
-Dialogue: 0,0:03:54.30,0:03:59.24,DEFAULT,,0,0,0,,{\kf128}Lend{\kf124} your{\kf208} thoughts
-Dialogue: 0,0:03:59.99,0:04:08.29,DEFAULT,,0,0,0,,{\kf124}Leave{\kf120} your{\kf177} fears{\kf137} be{\kf195}hind
-Dialogue: 0,0:04:11.29,0:04:16.23,DEFAULT,,0,0,0,,{\kf128}Do{\kf128} your{\kf212} part
-Dialogue: 0,0:04:16.94,0:04:21.52,DEFAULT,,0,0,0,,{\kf124}Dim{\kf124} your{\kf177} lights
-Dialogue: 0,0:04:22.58,0:04:33.04,DEFAULT,,0,0,0,,{\kf124}Dare{\kf124} your{\kf155} heart{\kf124} to{\kf406} try
-Dialogue: 0,0:04:56.77,0:04:58.94,DEFAULT,,0,0,0,,{\kf36}I'm{\kf40} not{\kf14} the{\kf23} one{\kf31} you{\kf36} need
-Dialogue: 0,0:04:59.11,0:05:01.94,DEFAULT,,0,0,0,,{\kf14}But{\kf31} I'll{\kf31} be{\kf31} there{\kf14} to{\kf53} guide{\kf53} you
-Dialogue: 0,0:05:02.42,0:05:04.45,DEFAULT,,0,0,0,,{\kf31}I'll{\kf36} show{\kf14} the{\kf31} world{\kf14} to{\kf40} you
-Dialogue: 0,0:05:04.71,0:05:07.58,DEFAULT,,0,0,0,,{\kf18}And{\kf36} e{\kf36}very{\kf31}thing{\kf14} I've{\kf67} been{\kf49} through
-Dialogue: 0,0:05:08.29,0:05:10.85,DEFAULT,,0,0,0,,{\kf14}A{\kf18} bro{\kf27}ken{\kf40} mind,{\kf14} a{\kf23} bat{\kf23}tered{\kf45} song
-Dialogue: 0,0:05:11.07,0:05:13.71,DEFAULT,,0,0,0,,{\kf14}A{\kf18} spark{\kf23} of{\kf36} ma{\kf18}gic{\kf23} won't{\kf18} keep{\kf23} you{\kf49} strong
-Dialogue: 0,0:05:14.46,0:05:20.33,DEFAULT,,0,0,0,,{\kf31}But{\kf36} may{\kf27}be{\kf36} it's{\kf27} been{\kf36} in{\kf49} you{\kf31} all{\kf40} a{\kf31}~{\kf164}long
+Dialogue: 0,0:00:48.35,0:00:50.87,DEFAULT,,0,0,0,,{\r}{\kf38}Take{\kf38} a{\kf49} look,{\kf38} look{\kf38} at{\kf50} me
+Dialogue: 0,0:00:51.18,0:00:55.10,DEFAULT,,0,0,0,,{\r}{\kf32}You{\kf42} on{\kf27}ly{\kf32} learn{\kf27} if{\kf37} you{\kf32} are{\kf58} lis{\kf53}ten{\kf53}ing
+Dialogue: 0,0:00:59.65,0:01:02.16,DEFAULT,,0,0,0,,{\r}{\kf35}Find{\kf35} your{\kf53} own{\kf41} goal{\kf35} to{\kf52} reach
+Dialogue: 0,0:01:02.47,0:01:06.70,DEFAULT,,0,0,0,,{\r}{\kf44}Al{\kf39}though{\kf39} the{\kf39} road{\kf39} may{\kf39} be{\kf50} blis{\kf50}ter{\kf85}ing
+Dialogue: 0,0:01:09.53,0:01:12.09,DEFAULT,,0,0,0,,{\r}{\kf27}Can{\kf37} you{\kf192} say
+Dialogue: 0,0:01:12.31,0:01:17.12,DEFAULT,,0,0,0,,{\r}{\kf37}You've{\kf37} been{\kf78} search{\kf52}ing{\kf63} all{\kf42} your{\kf31}~{\kf141} life?
+Dialogue: 0,0:01:20.78,0:01:23.25,DEFAULT,,0,0,0,,{\r}{\kf28}There's{\kf33} a{\kf186} way
+Dialogue: 0,0:01:23.60,0:01:27.84,DEFAULT,,0,0,0,,{\r}{\kf40}There's{\kf40} a{\kf51} will{\kf28}~{\kf40} and{\kf68} there's{\kf68} a{\kf89} time
+Dialogue: 0,0:01:30.18,0:01:33.22,DEFAULT,,0,0,0,,{\r}{\kf16}It{\kf31} all{\kf37} comes{\kf47} down{\kf21} to{\kf21} what,{\kf31} where,{\kf31} when{\kf16} and{\kf53} why
+Dialogue: 0,0:01:33.48,0:01:35.65,DEFAULT,,0,0,0,,{\r}{\kf42}I'm{\kf37} not{\kf21} the{\kf32} one{\kf37} you{\kf47} need
+Dialogue: 0,0:01:35.82,0:01:38.69,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf25} I'll{\kf35} be{\kf30} there{\kf20} to{\kf91} guide{\kf66} you
+Dialogue: 0,0:01:39.13,0:01:41.20,DEFAULT,,0,0,0,,{\r}{\kf39}I'll{\kf39} show{\kf17} the{\kf39} world{\kf22} to{\kf51} you
+Dialogue: 0,0:01:41.47,0:01:44.29,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf40} e{\kf40}very{\kf30}thing{\kf20} I've{\kf84} been{\kf53} through
+Dialogue: 0,0:01:44.95,0:01:47.56,DEFAULT,,0,0,0,,{\r}{\kf22}A{\kf28} bro{\kf28}ken{\kf55} mind,{\kf22} a{\kf28} bat{\kf22}tered{\kf55} song
+Dialogue: 0,0:01:47.87,0:01:50.29,DEFAULT,,0,0,0,,{\r}{\kf17}A{\kf17} spark{\kf22} of{\kf44} ma{\kf17}gic{\kf33} won't{\kf17} keep{\kf33} you{\kf43} strong
+Dialogue: 0,0:01:51.18,0:01:55.90,DEFAULT,,0,0,0,,{\r}{\kf30}But{\kf41} may{\kf41}be{\kf35} it's{\kf35} been{\kf35} in{\kf59} you{\kf35} all{\kf47} a{\kf41}~{\kf73}long
+Dialogue: 0,0:01:56.07,0:01:58.45,DEFAULT,,0,0,0,,{\r}{\kf23}Wah{\kf17} oh{\kf34} wah{\kf17} oh{\kf34} wow{\kf45} oh{\kf17} oh{\kf51} oh
+Dialogue: 0,0:01:58.90,0:02:01.28,DEFAULT,,0,0,0,,{\r}{\kf23}Wah{\kf17} oh{\kf34} wah{\kf17} oh{\kf34} wow{\kf45} oh{\kf17} oh{\kf51} oh
+Dialogue: 0,0:02:01.72,0:02:04.10,DEFAULT,,0,0,0,,{\r}{\kf23}Wah{\kf17} oh{\kf34} wah{\kf17} oh{\kf34} wow{\kf45} oh{\kf17} oh{\kf51} oh
+Dialogue: 0,0:02:04.54,0:02:07.06,DEFAULT,,0,0,0,,{\r}{\kf24}Wah{\kf18} oh{\kf36} wah{\kf18} oh{\kf36} wow{\kf36} oh{\kf18} oh{\kf18} oh{\kf47} oh
+Dialogue: 0,0:02:07.41,0:02:09.75,DEFAULT,,0,0,0,,{\r}{\kf23}Wah{\kf18} oh{\kf35} wah{\kf18} oh{\kf35} wow{\kf41} oh{\kf18} oh{\kf46} oh
+Dialogue: 0,0:02:10.19,0:02:12.53,DEFAULT,,0,0,0,,{\r}{\kf23}Wah{\kf18} oh{\kf35} wah{\kf18} oh{\kf35} wow{\kf41} oh{\kf18} oh{\kf46} oh
+Dialogue: 0,0:02:13.01,0:02:15.35,DEFAULT,,0,0,0,,{\r}{\kf23}Wah{\kf18} oh{\kf35} wah{\kf18} oh{\kf35} wow{\kf41} oh{\kf18} oh{\kf46} oh
+Dialogue: 0,0:02:15.84,0:02:18.40,DEFAULT,,0,0,0,,{\r}{\kf23}Wah{\kf17} oh{\kf35} wah{\kf17} oh{\kf35} wow{\kf47} oh{\kf17} oh{\kf17} oh{\kf48} oh
+Dialogue: 0,0:02:18.70,0:02:21.26,DEFAULT,,0,0,0,,{\r}{\kf37}Find{\kf42} your{\kf52}self{\kf31} and{\kf37} you'll{\kf57} see
+Dialogue: 0,0:02:21.48,0:02:26.12,DEFAULT,,0,0,0,,{\r}{\kf34}You{\kf39} can{\kf34} be{\kf34} what{\kf30} you've{\kf25} al{\kf49}ways{\kf49} dreamed{\kf49} you'd{\kf79} be{\kf41}~
+Dialogue: 0,0:02:30.00,0:02:32.51,DEFAULT,,0,0,0,,{\r}{\kf37}Learn{\kf37} to{\kf53} run,{\kf37} learn{\kf37} to{\kf50} breathe
+Dialogue: 0,0:02:32.82,0:02:37.59,DEFAULT,,0,0,0,,{\r}{\kf33}And{\kf29} you{\kf33} can{\kf33} learn{\kf33} to{\kf33} do{\kf33} most{\kf62} a{\kf48}ny{\kf38}thing{\kf101}~
+Dialogue: 0,0:02:39.88,0:02:42.48,DEFAULT,,0,0,0,,{\r}{\kf29}When{\kf29} you{\kf202} fall
+Dialogue: 0,0:02:42.70,0:02:47.91,DEFAULT,,0,0,0,,{\r}{\kf34}You'll{\kf34} stand{\kf63} up{\kf73} with{\kf63} brand{\kf68} new{\kf186} eyes
+Dialogue: 0,0:02:51.13,0:02:53.51,DEFAULT,,0,0,0,,{\r}{\kf33}You{\kf33} will{\kf172} see
+Dialogue: 0,0:02:54.09,0:02:59.69,DEFAULT,,0,0,0,,{\r}{\kf30}You're{\kf20} e{\kf40}ven{\kf65} strong{\kf75}er{\kf20} to{\kf30}~{\kf40} your{\kf35} sur{\kf65}prise{\kf140}~
+Dialogue: 0,0:03:00.53,0:03:03.70,DEFAULT,,0,0,0,,{\r}{\kf22}So{\kf22} wel{\kf27}come{\kf33} to{\kf27} the{\kf38} first{\kf44} day{\kf16} of{\kf22} re{\kf27}al{\kf40} life
+Dialogue: 0,0:03:03.88,0:03:06.00,DEFAULT,,0,0,0,,{\r}{\kf34}I'm{\kf40} not{\kf17} the{\kf34} one{\kf40} you{\kf47} need
+Dialogue: 0,0:03:06.18,0:03:09.04,DEFAULT,,0,0,0,,{\r}{\kf16}But{\kf31} I'll{\kf31} be{\kf31} there{\kf16} to{\kf94} guide{\kf68} you
+Dialogue: 0,0:03:09.53,0:03:11.56,DEFAULT,,0,0,0,,{\r}{\kf35}I'll{\kf41} show{\kf23} the{\kf29} world{\kf17} to{\kf58} you
+Dialogue: 0,0:03:11.82,0:03:14.65,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf35} e{\kf40}very{\kf25}thing{\kf20} I've{\kf81} been{\kf61} through
+Dialogue: 0,0:03:15.31,0:03:17.91,DEFAULT,,0,0,0,,{\r}{\kf23}A{\kf29} bro{\kf23}ken{\kf58} mind,{\kf17} a{\kf29} bat{\kf23}tered{\kf58} song
+Dialogue: 0,0:03:18.13,0:03:20.78,DEFAULT,,0,0,0,,{\r}{\kf21}A{\kf21} spark{\kf21} of{\kf42} ma{\kf16}gic{\kf26} won't{\kf21} keep{\kf37} you{\kf60} strong
+Dialogue: 0,0:03:21.48,0:03:26.20,DEFAULT,,0,0,0,,{\r}{\kf38}But{\kf48} may{\kf32}be{\kf32} it's{\kf38} been{\kf32} in{\kf75} you{\kf38} all{\kf48} a{\kf32}~{\kf59}long
+Dialogue: 0,0:03:26.43,0:03:28.81,DEFAULT,,0,0,0,,{\r}{\kf23}Wah{\kf17} oh{\kf34} wah{\kf17} oh{\kf34} wow{\kf45} oh{\kf17} oh{\kf51} oh
+Dialogue: 0,0:03:29.25,0:03:31.63,DEFAULT,,0,0,0,,{\r}{\kf23}Wah{\kf17} oh{\kf34} wah{\kf17} oh{\kf34} wow{\kf45} oh{\kf17} oh{\kf51} oh
+Dialogue: 0,0:03:32.07,0:03:34.45,DEFAULT,,0,0,0,,{\r}{\kf23}Wah{\kf17} oh{\kf34} wah{\kf17} oh{\kf34} wow{\kf45} oh{\kf17} oh{\kf51} oh
+Dialogue: 0,0:03:34.90,0:03:37.41,DEFAULT,,0,0,0,,{\r}{\kf24}Wah{\kf18} oh{\kf36} wah{\kf18} oh{\kf36} wow{\kf36} oh{\kf18} oh{\kf18} oh{\kf47} oh
+Dialogue: 0,0:03:37.76,0:03:40.10,DEFAULT,,0,0,0,,{\r}{\kf23}Wah{\kf18} oh{\kf35} wah{\kf18} oh{\kf35} wow{\kf41} oh{\kf18} oh{\kf46} oh
+Dialogue: 0,0:03:40.54,0:03:42.88,DEFAULT,,0,0,0,,{\r}{\kf23}Wah{\kf18} oh{\kf35} wah{\kf18} oh{\kf35} wow{\kf41} oh{\kf18} oh{\kf46} oh
+Dialogue: 0,0:03:43.37,0:03:45.70,DEFAULT,,0,0,0,,{\r}{\kf23}Wah{\kf18} oh{\kf35} wah{\kf18} oh{\kf35} wow{\kf41} oh{\kf18} oh{\kf46} oh
+Dialogue: 0,0:03:46.19,0:03:48.53,DEFAULT,,0,0,0,,{\r}{\kf25}Wah{\kf18} oh{\kf37} wah{\kf18} oh{\kf37} wow{\kf43} oh{\kf18} oh{\kf18} oh{\kf20} oh
+Dialogue: 0,0:03:48.70,0:03:53.60,DEFAULT,,0,0,0,,{\r}{\kf133}Lead{\kf133} your{\kf224} dreams
+Dialogue: 0,0:03:54.31,0:03:59.25,DEFAULT,,0,0,0,,{\r}{\kf138}Lend{\kf133} your{\kf223} thoughts
+Dialogue: 0,0:03:60.00,0:04:08.29,DEFAULT,,0,0,0,,{\r}{\kf137}Leave{\kf132} your{\kf195} fears{\kf151} be{\kf214}hind
+Dialogue: 0,0:04:11.29,0:04:16.23,DEFAULT,,0,0,0,,{\r}{\kf135}Do{\kf135} your{\kf224} part
+Dialogue: 0,0:04:16.94,0:04:21.53,DEFAULT,,0,0,0,,{\r}{\kf134}Dim{\kf134} your{\kf191} lights
+Dialogue: 0,0:04:22.59,0:04:33.04,DEFAULT,,0,0,0,,{\r}{\kf139}Dare{\kf139} your{\kf174} heart{\kf139} to{\kf455} try
+Dialogue: 0,0:04:56.78,0:04:58.94,DEFAULT,,0,0,0,,{\r}{\kf43}I'm{\kf49} not{\kf16} the{\kf27} one{\kf38} you{\kf43} need
+Dialogue: 0,0:04:59.12,0:05:01.94,DEFAULT,,0,0,0,,{\r}{\kf17}But{\kf39} I'll{\kf39} be{\kf39} there{\kf17} to{\kf66} guide{\kf65} you
+Dialogue: 0,0:05:02.43,0:05:04.45,DEFAULT,,0,0,0,,{\r}{\kf38}I'll{\kf44} show{\kf16} the{\kf38} world{\kf16} to{\kf51} you
+Dialogue: 0,0:05:04.72,0:05:07.59,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf41} e{\kf41}very{\kf36}thing{\kf15} I've{\kf77} been{\kf57} through
+Dialogue: 0,0:05:08.29,0:05:10.85,DEFAULT,,0,0,0,,{\r}{\kf17}A{\kf23} bro{\kf34}ken{\kf51} mind,{\kf17} a{\kf28} bat{\kf28}tered{\kf58} song
+Dialogue: 0,0:05:11.07,0:05:13.72,DEFAULT,,0,0,0,,{\r}{\kf16}A{\kf22} spark{\kf27} of{\kf43} ma{\kf22}gic{\kf27} won't{\kf22} keep{\kf27} you{\kf59} strong
+Dialogue: 0,0:05:14.47,0:05:20.34,DEFAULT,,0,0,0,,{\r}{\kf36}But{\kf41} may{\kf31}be{\kf41} it's{\kf31} been{\kf41} in{\kf57} you{\kf36} all{\kf46} a{\kf36}~{\kf191}long

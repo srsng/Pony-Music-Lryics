@@ -1,87 +1,94 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Rainbow
+Artist: Koroshi-Ya
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:29.18,0:00:31.81,DEFAULT,,0,0,0,,{\kf13}I'm{\kf19} a{\kf25}lone{\kf19} out{\kf13}side{\kf7} of{\kf13} my{\kf7} dreams,{\kf13} it{\kf13} feels{\kf13} and{\kf19} al{\kf13}ways{\kf19} seems
-Dialogue: 0,0:00:31.87,0:00:34.24,DEFAULT,,0,0,0,,{\kf7}That{\kf13} there'll{\kf13} ne{\kf7}ver{\kf7} be{\kf13} a{\kf7}ny{\kf7} of{\kf13} those{\kf13} pro{\kf19}mised{\kf19} lights{\kf13} and{\kf19} beams
-Dialogue: 0,0:00:34.37,0:00:37.37,DEFAULT,,0,0,0,,{\kf13}Of{\kf13} these{\kf13} hopes{\kf13} of{\kf19} my{\kf19} dreams{\kf19} e{\kf13}ver{\kf13} be{\kf19}com{\kf7}ing{\kf13} a{\kf19} re{\kf13}a{\kf19}li{\kf13}ty
-Dialogue: 0,0:00:37.43,0:00:39.99,DEFAULT,,0,0,0,,{\kf13}So{\kf7} all{\kf7} I{\kf7} have{\kf7} to{\kf7} my{\kf19} name{\kf7} is{\kf13} torn{\kf13} up{\kf13} seams{\kf7} of{\kf7} my{\kf19} in{\kf19}sa{\kf13}ni{\kf7}ty
-Dialogue: 0,0:00:40.06,0:00:42.56,DEFAULT,,0,0,0,,{\kf13}But{\kf7} when{\kf13} I{\kf13} close{\kf13} my{\kf13} eyes{\kf7} down{\kf13} to{\kf19} sleep,{\kf13} she's{\kf19} there{\kf19} wait{\kf13}ing
-Dialogue: 0,0:00:42.68,0:00:45.18,DEFAULT,,0,0,0,,{\kf7}And{\kf13} there's{\kf13} ne{\kf7}ver{\kf13} a{\kf13}ny{\kf19} ques{\kf13}tion{\kf13} of{\kf19} this,{\kf13} no{\kf19} de{\kf19}ba{\kf7}ting
-Dialogue: 0,0:00:45.24,0:00:47.87,DEFAULT,,0,0,0,,{\kf13}My{\kf19} girl,{\kf25} Rai{\kf25}nbow,{\kf13} she'd{\kf19} ne{\kf7}ver{\kf13} let{\kf13} me{\kf25} down
-Dialogue: 0,0:00:48.06,0:00:50.56,DEFAULT,,0,0,0,,{\kf13}She's{\kf19} al{\kf7}ways{\kf7} there{\kf7} for{\kf13} me{\kf19} here,{\kf13} ne{\kf7}ver{\kf7} to{\kf13} e{\kf13}ver{\kf7} let{\kf19} me{\kf25} frown
-Dialogue: 0,0:00:50.74,0:00:52.99,DEFAULT,,0,0,0,,{\kf19}This{\kf13} world{\kf13} a{\kf13}round{\kf13} us{\kf7} made{\kf13} up{\kf13} just{\kf7} for{\kf13} her{\kf19} and{\kf19} I
-Dialogue: 0,0:00:53.06,0:00:55.68,DEFAULT,,0,0,0,,{\kf19}There's{\kf19} ne{\kf7}ver{\kf19} a{\kf7}ny{\kf19} care{\kf13} 'cause{\kf13} we're{\kf13} so{\kf7} way{\kf13} up{\kf25} high
-Dialogue: 0,0:00:55.87,0:00:58.43,DEFAULT,,0,0,0,,{\kf7}And{\kf7} then{\kf7} when{\kf7} I{\kf13} gaze{\kf7} in{\kf13} those{\kf19} en{\kf13}chant{\kf13}ing{\kf19} eyes,{\kf7} I{\kf19} know{\kf19} it's{\kf25} love
-Dialogue: 0,0:00:58.62,0:01:01.12,DEFAULT,,0,0,0,,{\kf13}While{\kf13} we{\kf13} rule{\kf7} the{\kf13} skies{\kf19} to{\kf19}ge{\kf13}ther,{\kf13} so{\kf7} way{\kf7} up{\kf19} a{\kf32}bove
-Dialogue: 0,0:01:01.31,0:01:03.93,DEFAULT,,0,0,0,,{\kf25}Then{\kf32} smack,{\kf7} I'm{\kf13} a{\kf25}wake,{\kf13} just{\kf19} sit{\kf7}ting{\kf13} in{\kf13} my{\kf25} room
-Dialogue: 0,0:01:04.12,0:01:06.43,DEFAULT,,0,0,0,,{\kf13}This{\kf19} place,{\kf7} it's{\kf19} grow{\kf13}ing{\kf19} dark{\kf19}er,{\kf7} as{\kf13} if{\kf7} it{\kf7} were{\kf13} my{\kf13} tomb
-Dialogue: 0,0:01:06.49,0:01:09.12,DEFAULT,,0,0,0,,{\kf13}Hell{\kf19} may{\kf7}be{\kf7} I{\kf13} don't{\kf19} de{\kf13}serve{\kf13} it,{\kf13} may{\kf7}be{\kf7} it's{\kf13} not{\kf7} the{\kf13} life{\kf13} for{\kf7} me
-Dialogue: 0,0:01:09.18,0:01:11.99,DEFAULT,,0,0,0,,{\kf7}To{\kf13} fi{\kf13}nal{\kf7}ly{\kf13} be{\kf13} one{\kf13} with{\kf25} her,{\kf13} just{\kf13} my{\kf19} Rain{\kf7}bow{\kf13} Dash{\kf13} and{\kf25} me
-Dialogue: 0,0:01:13.74,0:01:15.31,DEFAULT,,0,0,0,,{\kf32}It's{\kf38} o{\kf57}kay
-Dialogue: 0,0:01:16.31,0:01:17.87,DEFAULT,,0,0,0,,{\kf44}I'm{\kf38} still{\kf44} here
-Dialogue: 0,0:01:18.74,0:01:20.56,DEFAULT,,0,0,0,,{\kf25}I'll{\kf38} al{\kf38}ways{\kf44} be
-Dialogue: 0,0:01:21.68,0:01:23.12,DEFAULT,,0,0,0,,{\kf38}Your{\kf32} best{\kf44} friend
-Dialogue: 0,0:01:24.24,0:01:25.87,DEFAULT,,0,0,0,,{\kf38}It's{\kf50} al{\kf50}right
-Dialogue: 0,0:01:26.74,0:01:28.68,DEFAULT,,0,0,0,,{\kf25}I'm{\kf38} loy{\kf44}al{\kf57}ty
-Dialogue: 0,0:01:29.49,0:01:31.31,DEFAULT,,0,0,0,,{\kf25}I'll{\kf32} be{\kf38} here{\kf50} 'til
-Dialogue: 0,0:01:32.06,0:01:35.12,DEFAULT,,0,0,0,,{\kf25}The{\kf50} ve{\kf57}ry{\kf138} end
-Dialogue: 0,0:01:35.37,0:01:35.99,DEFAULT,,0,0,0,,{\kf63}(So Dash, my girl, reppin' it up on MLP)
-Dialogue: 0,0:01:36.24,0:01:38.87,DEFAULT,,0,0,0,,{\kf7}Got{\kf13} all{\kf13} this{\kf19} me{\kf13}mo{\kf7}ra{\kf13}bi{\kf19}li{\kf7}a{\kf13} of{\kf13} her{\kf13} al{\kf13}ways{\kf19} sur{\kf19}round{\kf13}ing{\kf7} me
-Dialogue: 0,0:01:38.93,0:01:41.31,DEFAULT,,0,0,0,,{\kf7}She's{\kf13} there{\kf13} when{\kf13} I{\kf13} wake{\kf19} up{\kf7} and{\kf13} there{\kf7} when{\kf7} I{\kf7} go{\kf13} to{\kf19} sleep
-Dialogue: 0,0:01:41.56,0:01:43.99,DEFAULT,,0,0,0,,{\kf7}On{\kf7} a{\kf13} view{\kf13} from{\kf7} the{\kf19} out{\kf32}side,{\kf13} you'd{\kf13} think{\kf7} I{\kf13} was{\kf13} a{\kf19} creep
-Dialogue: 0,0:01:44.18,0:01:46.62,DEFAULT,,0,0,0,,{\kf7}Well{\kf13} I'm{\kf32} not,{\kf13} no{\kf19} way,{\kf7} this{\kf13} is{\kf19} no{\kf13}thing{\kf13} but{\kf19} love
-Dialogue: 0,0:01:46.87,0:01:49.43,DEFAULT,,0,0,0,,{\kf7}And{\kf13} I'll{\kf7} sing{\kf13} it{\kf7} to{\kf13} the{\kf13} world{\kf7} all{\kf19} day{\kf13} and{\kf7} to{\kf13} the{\kf13} hea{\kf13}vens{\kf19} a{\kf7}bove
-Dialogue: 0,0:01:49.49,0:01:52.24,DEFAULT,,0,0,0,,{\kf13}Because{\kf13} this{\kf13} feel{\kf7}ing{\kf13} in{\kf13} my{\kf19} heart,{\kf7} whilst{\kf13} I{\kf13} know{\kf13} deep{\kf7} down{\kf7} it's{\kf19} kil{\kf13}ling{\kf7} me
-Dialogue: 0,0:01:52.31,0:01:54.87,DEFAULT,,0,0,0,,{\kf7}To{\kf7} i{\kf7}gnore{\kf7} it{\kf7} and{\kf7} pass{\kf7} it{\kf7} by{\kf7} would{\kf13} feel{\kf13} like{\kf19} straight{\kf7} up{\kf19} in{\kf19}sa{\kf13}ni{\kf13}ty
-Dialogue: 0,0:01:54.93,0:01:57.68,DEFAULT,,0,0,0,,{\kf19}Let's{\kf19} face{\kf19} it,{\kf13} how{\kf13} ma{\kf7}ny{\kf7} of{\kf7} you{\kf7} have{\kf13} fell{\kf7} for{\kf19} some{\kf13}one{\kf7} that{\kf13} ain't{\kf13} re{\kf7}al
-Dialogue: 0,0:01:57.68,0:02:00.18,DEFAULT,,0,0,0,,{\kf13}I{\kf13} know{\kf7} I'm{\kf7} not{\kf13} a{\kf19}lone{\kf7} so{\kf7} I{\kf7} know{\kf13} that{\kf7} some{\kf7} of{\kf13} you{\kf13} know{\kf7} the{\kf19} feel
-Dialogue: 0,0:02:00.31,0:02:02.93,DEFAULT,,0,0,0,,{\kf13}The{\kf19} feel{\kf7}ing{\kf7} of{\kf7} the{\kf7} pain{\kf13} in{\kf7} your{\kf25} chest{\kf13} know{\kf7}ing{\kf7} that{\kf13} what{\kf7} you're{\kf19} des{\kf7}tined{\kf13} for
-Dialogue: 0,0:02:02.99,0:02:05.37,DEFAULT,,0,0,0,,{\kf7}Is{\kf7} a{\kf7} love{\kf7} life{\kf7} of{\kf13} dis{\kf13}ap{\kf19}point{\kf19}ment,{\kf13} no{\kf7}thing{\kf13} less{\kf7} and{\kf19} no{\kf7}thing{\kf13} more
-Dialogue: 0,0:02:05.68,0:02:08.12,DEFAULT,,0,0,0,,{\kf13}Be{\kf7}cause{\kf7} no{\kf7} one{\kf7} could{\kf7} e{\kf7}ver{\kf19} come{\kf13} close{\kf13} and{\kf7} no{\kf13} one{\kf7} could{\kf7} e{\kf13}ver{\kf7} be{\kf19} her
-Dialogue: 0,0:02:08.37,0:02:10.74,DEFAULT,,0,0,0,,{\kf13}Pure{\kf13} fic{\kf7}tion{\kf7} is{\kf7} a{\kf19} com{\kf13}pa{\kf13}ri{\kf13}son{\kf13} of{\kf19} Dash{\kf7} to{\kf13} e{\kf7}ver{\kf13} oc{\kf13}cur
-Dialogue: 0,0:02:10.81,0:02:14.12,DEFAULT,,0,0,0,,{\kf13}She's{\kf19} the{\kf19} one,{\kf13} she's{\kf7} my{\kf25} girl,{\kf7} no{\kf13} one{\kf7} could{\kf13} e{\kf13}ver{\kf13} fill{\kf13} that{\kf13} hole{\kf19} in{\kf19}side
-Dialogue: 0,0:02:14.18,0:02:16.87,DEFAULT,,0,0,0,,{\kf7}And{\kf13} if{\kf7} I{\kf13} e{\kf7}ver{\kf13} told{\kf13} you{\kf13} o{\kf13}ther{\kf25}wise,{\kf32} well,{\kf13} I{\kf19} lied
-Dialogue: 0,0:02:17.87,0:02:19.49,DEFAULT,,0,0,0,,{\kf38}It's{\kf38} o{\kf57}kay
-Dialogue: 0,0:02:20.62,0:02:22.18,DEFAULT,,0,0,0,,{\kf38}I'm{\kf44} still{\kf44} here
-Dialogue: 0,0:02:22.99,0:02:24.81,DEFAULT,,0,0,0,,{\kf32}I'll{\kf38} al{\kf38}ways{\kf44} be
-Dialogue: 0,0:02:25.81,0:02:27.74,DEFAULT,,0,0,0,,{\kf50}Your{\kf38} best{\kf75} friend
-Dialogue: 0,0:02:28.56,0:02:30.31,DEFAULT,,0,0,0,,{\kf38}It's{\kf38} al{\kf69}right
-Dialogue: 0,0:02:30.99,0:02:32.93,DEFAULT,,0,0,0,,{\kf19}I'm{\kf44} loy{\kf38}al{\kf57}ty
-Dialogue: 0,0:02:33.62,0:02:35.49,DEFAULT,,0,0,0,,{\kf25}I'll{\kf44} be{\kf25} here{\kf50} 'til
-Dialogue: 0,0:02:36.31,0:02:38.74,DEFAULT,,0,0,0,,{\kf19}The{\kf50} ve{\kf44}ry{\kf75} end
-Dialogue: 0,0:02:38.99,0:02:41.49,DEFAULT,,0,0,0,,{\kf25}Come{\kf38} on,{\kf32} let's{\kf44} fly{\kf75}~
-Dialogue: 0,0:02:41.68,0:02:43.93,DEFAULT,,0,0,0,,{\kf32}Just,{\kf25} you{\kf25} and{\kf38} I{\kf44}~
-Dialogue: 0,0:02:44.37,0:02:49.06,DEFAULT,,0,0,0,,{\kf38}Let's{\kf50} race{\kf44} 'til{\kf38} we{\kf50} touch{\kf57} the{\kf63} sky
-Dialogue: 0,0:02:49.37,0:02:51.93,DEFAULT,,0,0,0,,{\kf38}Ne{\kf25}ver{\kf32} let{\kf38} you{\kf38} fall{\kf50}~
-Dialogue: 0,0:02:52.06,0:02:54.74,DEFAULT,,0,0,0,,{\kf25}I{\kf32} was{\kf32} here{\kf25} for{\kf19} it{\kf38} all{\kf44}~
-Dialogue: 0,0:02:54.99,0:03:00.93,DEFAULT,,0,0,0,,{\kf50}And{\kf44} I'm{\kf38} here{\kf25}~,{\kf50} for{\kf50} you{\kf157} now
-Dialogue: 0,0:03:01.24,0:03:01.68,DEFAULT,,0,0,0,,{\kf44}(These years they passed me by and I'm still here all alone)
-Dialogue: 0,0:03:01.81,0:03:04.31,DEFAULT,,0,0,0,,{\kf19}That{\kf13} thing{\kf7} you'd{\kf13} call{\kf7} a{\kf13} heart{\kf13} of{\kf13} mine{\kf13} has{\kf19} since{\kf13} turned{\kf13} to{\kf19} stone
-Dialogue: 0,0:03:04.56,0:03:06.87,DEFAULT,,0,0,0,,{\kf13}The{\kf13} lights{\kf7} are{\kf13} grow{\kf13}ing{\kf19} dark{\kf19}er,{\kf13} my{\kf13} time{\kf13} is{\kf13} grow{\kf13}ing{\kf13} near
-Dialogue: 0,0:03:06.93,0:03:09.68,DEFAULT,,0,0,0,,{\kf7}A{\kf13} life{\kf13}time{\kf13} passed{\kf13} me{\kf19} by{\kf7} and{\kf13} she{\kf13} ne{\kf13}ver{\kf19} e{\kf13}ven{\kf13} ap{\kf13}peared
-Dialogue: 0,0:03:09.74,0:03:12.18,DEFAULT,,0,0,0,,{\kf13}But{\kf19} what's{\kf25} this,{\kf7} as{\kf7} the{\kf13} lights{\kf19} fade{\kf19} slow{\kf13}ly{\kf7} I{\kf7} see{\kf13} her{\kf13} face
-Dialogue: 0,0:03:12.49,0:03:14.87,DEFAULT,,0,0,0,,{\kf19}Slow{\kf7}ly{\kf19} star{\kf7}ing{\kf13} down{\kf7} at{\kf13} me{\kf13} freez{\kf13}ing{\kf13} sur{\kf13}round{\kf13}ing{\kf7} time{\kf13} and{\kf13} space
-Dialogue: 0,0:03:14.93,0:03:17.49,DEFAULT,,0,0,0,,{\kf13}As{\kf13} my{\kf25} eyes,{\kf13} they{\kf13} be{\kf13}gin{\kf13} to{\kf13} close{\kf7} for{\kf7} the{\kf19} ve{\kf13}ry{\kf19} last{\kf13} time
-Dialogue: 0,0:03:17.56,0:03:20.37,DEFAULT,,0,0,0,,{\kf13}She{\kf19} held{\kf7} my{\kf13} hand{\kf7} and{\kf19} as{\kf13}sured{\kf19} me{\kf13} that{\kf7} it'd{\kf13} all{\kf13} be{\kf25} just{\kf32} fine
-Dialogue: 0,0:03:22.12,0:03:23.62,DEFAULT,,0,0,0,,{\kf38}It's{\kf38} o{\kf44}kay
-Dialogue: 0,0:03:24.81,0:03:26.43,DEFAULT,,0,0,0,,{\kf44}I'm{\kf38} still{\kf57} here
-Dialogue: 0,0:03:27.24,0:03:28.99,DEFAULT,,0,0,0,,{\kf19}I'll{\kf50} al{\kf32}ways{\kf44} be
-Dialogue: 0,0:03:30.18,0:03:31.81,DEFAULT,,0,0,0,,{\kf38}Your{\kf38} best{\kf63} friend
-Dialogue: 0,0:03:32.81,0:03:34.37,DEFAULT,,0,0,0,,{\kf32}It's{\kf38} al{\kf50}right
-Dialogue: 0,0:03:35.18,0:03:37.12,DEFAULT,,0,0,0,,{\kf25}I'm{\kf50} loy{\kf25}al{\kf57}ty
-Dialogue: 0,0:03:37.87,0:03:39.74,DEFAULT,,0,0,0,,{\kf25}I'll{\kf44} be{\kf25} here{\kf50} 'til
-Dialogue: 0,0:03:40.56,0:03:42.99,DEFAULT,,0,0,0,,{\kf19}The{\kf57} ve{\kf57}ry{\kf75} end
-Dialogue: 0,0:03:43.18,0:03:45.62,DEFAULT,,0,0,0,,{\kf25}Come{\kf44} on,{\kf38} let's{\kf32} fly{\kf69}~
-Dialogue: 0,0:03:45.93,0:03:48.18,DEFAULT,,0,0,0,,{\kf38}Just,{\kf32} you{\kf32} and{\kf32} I{\kf57}~
-Dialogue: 0,0:03:48.62,0:03:53.24,DEFAULT,,0,0,0,,{\kf32}Let's{\kf44} race{\kf38} 'til{\kf38} we{\kf44} touch{\kf57} the{\kf63} sky
-Dialogue: 0,0:03:53.56,0:03:55.99,DEFAULT,,0,0,0,,{\kf38}Ne{\kf25}ver{\kf32} let{\kf38} you{\kf44} fall{\kf38}~
-Dialogue: 0,0:03:56.24,0:03:58.99,DEFAULT,,0,0,0,,{\kf25}I{\kf38} was{\kf32} here{\kf19} for{\kf25} it{\kf32} all{\kf50}~
-Dialogue: 0,0:03:59.24,0:04:06.24,DEFAULT,,0,0,0,,{\kf50}And{\kf44} I'm{\kf38} here{\kf38}~{\kf69} for{\kf63} you{\kf263} now
+Dialogue: 0,0:00:29.19,0:00:31.81,DEFAULT,,0,0,0,,{\r}{\kf16}I'm{\kf25} a{\kf33}lone{\kf25} out{\kf16}side{\kf10} of{\kf16} my{\kf10} dreams,{\kf16} it{\kf16} feels{\kf16} and{\kf25} al{\kf16}ways{\kf22} seems
+Dialogue: 0,0:00:31.87,0:00:34.25,DEFAULT,,0,0,0,,{\r}{\kf10}That{\kf18} there'll{\kf18} ne{\kf10}ver{\kf10} be{\kf18} a{\kf10}ny{\kf10} of{\kf18} those{\kf18} pro{\kf27}mised{\kf27} lights{\kf18} and{\kf25} beams
+Dialogue: 0,0:00:34.37,0:00:37.37,DEFAULT,,0,0,0,,{\r}{\kf16}Of{\kf16} these{\kf16} hopes{\kf16} of{\kf24} my{\kf24} dreams{\kf24} e{\kf16}ver{\kf16} be{\kf24}com{\kf10}ing{\kf16} a{\kf24} re{\kf16}a{\kf24}li{\kf18}ty
+Dialogue: 0,0:00:37.44,0:00:40.00,DEFAULT,,0,0,0,,{\r}{\kf18}So{\kf10} all{\kf10} I{\kf10} have{\kf10} to{\kf10} my{\kf27} name{\kf10} is{\kf18} torn{\kf18} up{\kf18} seams{\kf10} of{\kf10} my{\kf27} in{\kf27}sa{\kf18}ni{\kf10}ty
+Dialogue: 0,0:00:40.06,0:00:42.56,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf10} when{\kf19} I{\kf19} close{\kf19} my{\kf19} eyes{\kf10} down{\kf19} to{\kf28} sleep,{\kf19} she's{\kf28} there{\kf28} wait{\kf13}ing
+Dialogue: 0,0:00:42.69,0:00:45.19,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf17} there's{\kf17} ne{\kf10}ver{\kf17} a{\kf17}ny{\kf26} ques{\kf17}tion{\kf17} of{\kf26} this,{\kf17} no{\kf26} de{\kf26}ba{\kf10}ting
+Dialogue: 0,0:00:45.25,0:00:47.87,DEFAULT,,0,0,0,,{\r}{\kf19}My{\kf29} girl,{\kf39} Rai{\kf39}nbow,{\kf19} she'd{\kf29} ne{\kf10}ver{\kf19} let{\kf19} me{\kf40} down
+Dialogue: 0,0:00:48.06,0:00:50.56,DEFAULT,,0,0,0,,{\r}{\kf17}She's{\kf26} al{\kf10}ways{\kf10} there{\kf10} for{\kf17} me{\kf26} here,{\kf17} ne{\kf10}ver{\kf10} to{\kf17} e{\kf17}ver{\kf10} let{\kf26} me{\kf27} frown
+Dialogue: 0,0:00:50.75,0:00:53.00,DEFAULT,,0,0,0,,{\r}{\kf27}This{\kf18} world{\kf18} a{\kf18}round{\kf18} us{\kf10} made{\kf18} up{\kf18} just{\kf10} for{\kf18} her{\kf27} and{\kf25} I
+Dialogue: 0,0:00:53.06,0:00:55.69,DEFAULT,,0,0,0,,{\r}{\kf29}There's{\kf29} ne{\kf10}ver{\kf29} a{\kf10}ny{\kf29} care{\kf19} 'cause{\kf19} we're{\kf19} so{\kf10} way{\kf19} up{\kf40} high
+Dialogue: 0,0:00:55.87,0:00:58.44,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf10} then{\kf10} when{\kf10} I{\kf17} gaze{\kf10} in{\kf17} those{\kf26} en{\kf17}chant{\kf17}ing{\kf26} eyes,{\kf10} I{\kf26} know{\kf26} it's{\kf24} love
+Dialogue: 0,0:00:58.62,0:01:01.12,DEFAULT,,0,0,0,,{\r}{\kf17}While{\kf17} we{\kf17} rule{\kf10} the{\kf17} skies{\kf26} to{\kf26}ge{\kf17}ther,{\kf17} so{\kf10} way{\kf10} up{\kf26} a{\kf40}bove
+Dialogue: 0,0:01:01.31,0:01:03.94,DEFAULT,,0,0,0,,{\r}{\kf35}Then{\kf44} smack,{\kf10} I'm{\kf17} a{\kf35}wake,{\kf17} just{\kf26} sit{\kf10}ting{\kf17} in{\kf17} my{\kf34} room
+Dialogue: 0,0:01:04.12,0:01:06.44,DEFAULT,,0,0,0,,{\r}{\kf18}This{\kf27} place,{\kf10} it's{\kf27} grow{\kf18}ing{\kf27} dark{\kf27}er,{\kf10} as{\kf18} if{\kf10} it{\kf10} were{\kf18} my{\kf11} tomb
+Dialogue: 0,0:01:06.50,0:01:09.12,DEFAULT,,0,0,0,,{\r}{\kf19}Hell{\kf28} may{\kf10}be{\kf10} I{\kf19} don't{\kf28} de{\kf19}serve{\kf19} it,{\kf19} may{\kf10}be{\kf10} it's{\kf19} not{\kf10} the{\kf19} life{\kf19} for{\kf10} me
+Dialogue: 0,0:01:09.19,0:01:12.00,DEFAULT,,0,0,0,,{\r}{\kf10}To{\kf18} fi{\kf18}nal{\kf10}ly{\kf18} be{\kf18} one{\kf18} with{\kf35} her,{\kf18} just{\kf18} my{\kf26} Rain{\kf10}bow{\kf18} Dash{\kf18} and{\kf28} me
+Dialogue: 0,0:01:13.75,0:01:15.31,DEFAULT,,0,0,0,,{\r}{\kf39}It's{\kf47} o{\kf70}kay
+Dialogue: 0,0:01:16.31,0:01:17.87,DEFAULT,,0,0,0,,{\r}{\kf55}I'm{\kf47} still{\kf54} here
+Dialogue: 0,0:01:18.75,0:01:20.56,DEFAULT,,0,0,0,,{\r}{\kf31}I'll{\kf47} al{\kf47}ways{\kf56} be
+Dialogue: 0,0:01:21.69,0:01:23.12,DEFAULT,,0,0,0,,{\r}{\kf48}Your{\kf40} best{\kf56} friend
+Dialogue: 0,0:01:24.25,0:01:25.87,DEFAULT,,0,0,0,,{\r}{\kf44}It's{\kf59} al{\kf59}right
+Dialogue: 0,0:01:26.75,0:01:28.69,DEFAULT,,0,0,0,,{\r}{\kf30}I'm{\kf45} loy{\kf52}al{\kf67}ty
+Dialogue: 0,0:01:29.50,0:01:31.31,DEFAULT,,0,0,0,,{\r}{\kf31}I'll{\kf39} be{\kf47} here{\kf64} 'til
+Dialogue: 0,0:01:32.06,0:01:35.12,DEFAULT,,0,0,0,,{\r}{\kf28}The{\kf57} ve{\kf64}ry{\kf157} end
+Dialogue: 0,0:01:35.37,0:01:36.00,DEFAULT,,0,0,0,,{\r}{\kf62}(So Dash, my girl, reppin' it up on MLP)
+Dialogue: 0,0:01:36.25,0:01:38.87,DEFAULT,,0,0,0,,{\r}{\kf10}Got{\kf15} all{\kf15} this{\kf23} me{\kf15}mo{\kf10}ra{\kf15}bi{\kf23}li{\kf10}a{\kf15} of{\kf15} her{\kf15} al{\kf15}ways{\kf23} sur{\kf23}round{\kf15}ing{\kf10} me
+Dialogue: 0,0:01:38.94,0:01:41.31,DEFAULT,,0,0,0,,{\r}{\kf10}She's{\kf21} there{\kf21} when{\kf21} I{\kf21} wake{\kf31} up{\kf10} and{\kf21} there{\kf10} when{\kf10} I{\kf10} go{\kf21} to{\kf31} sleep
+Dialogue: 0,0:01:41.56,0:01:44.00,DEFAULT,,0,0,0,,{\r}{\kf10}On{\kf10} a{\kf18} view{\kf18} from{\kf10} the{\kf27} out{\kf45}side,{\kf18} you'd{\kf18} think{\kf10} I{\kf18} was{\kf18} a{\kf24} creep
+Dialogue: 0,0:01:44.19,0:01:46.62,DEFAULT,,0,0,0,,{\r}{\kf10}Well{\kf19} I'm{\kf47} not,{\kf19} no{\kf28} way,{\kf10} this{\kf19} is{\kf28} no{\kf19}thing{\kf19} but{\kf26} love
+Dialogue: 0,0:01:46.87,0:01:49.44,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf18} I'll{\kf10} sing{\kf18} it{\kf10} to{\kf18} the{\kf18} world{\kf10} all{\kf27} day{\kf18} and{\kf10} to{\kf18} the{\kf18} hea{\kf18}vens{\kf27} a{\kf10}bove
+Dialogue: 0,0:01:49.50,0:01:52.25,DEFAULT,,0,0,0,,{\r}{\kf19}Because{\kf19} this{\kf19} feel{\kf10}ing{\kf19} in{\kf19} my{\kf28} heart,{\kf10} whilst{\kf19} I{\kf19} know{\kf19} deep{\kf10} down{\kf10} it's{\kf28} kil{\kf19}ling{\kf10} me
+Dialogue: 0,0:01:52.31,0:01:54.87,DEFAULT,,0,0,0,,{\r}{\kf10}To{\kf10} i{\kf10}gnore{\kf10} it{\kf10} and{\kf10} pass{\kf10} it{\kf10} by{\kf10} would{\kf19} feel{\kf19} like{\kf28} straight{\kf10} up{\kf28} in{\kf28}sa{\kf19}ni{\kf15}ty
+Dialogue: 0,0:01:54.94,0:01:57.69,DEFAULT,,0,0,0,,{\r}{\kf27}Let's{\kf27} face{\kf27} it,{\kf18} how{\kf18} ma{\kf10}ny{\kf10} of{\kf10} you{\kf10} have{\kf18} fell{\kf10} for{\kf27} some{\kf18}one{\kf10} that{\kf18} ain't{\kf18} re{\kf10}al
+Dialogue: 0,0:01:57.69,0:02:00.19,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf19} know{\kf10} I'm{\kf10} not{\kf19} a{\kf29}lone{\kf10} so{\kf10} I{\kf10} know{\kf19} that{\kf10} some{\kf10} of{\kf19} you{\kf19} know{\kf10} the{\kf27} feel
+Dialogue: 0,0:02:00.31,0:02:02.94,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf27} feel{\kf10}ing{\kf10} of{\kf10} the{\kf10} pain{\kf18} in{\kf10} your{\kf36} chest{\kf18} know{\kf10}ing{\kf10} that{\kf18} what{\kf10} you're{\kf27} des{\kf10}tined{\kf10} for
+Dialogue: 0,0:02:03.00,0:02:05.37,DEFAULT,,0,0,0,,{\r}{\kf10}Is{\kf10} a{\kf10} love{\kf10} life{\kf10} of{\kf18} dis{\kf18}ap{\kf26}point{\kf26}ment,{\kf18} no{\kf10}thing{\kf18} less{\kf10} and{\kf26} no{\kf10}thing{\kf10} more
+Dialogue: 0,0:02:05.69,0:02:08.12,DEFAULT,,0,0,0,,{\r}{\kf19}Be{\kf10}cause{\kf10} no{\kf10} one{\kf10} could{\kf10} e{\kf10}ver{\kf28} come{\kf19} close{\kf19} and{\kf10} no{\kf19} one{\kf10} could{\kf10} e{\kf19}ver{\kf10} be{\kf21} her
+Dialogue: 0,0:02:08.37,0:02:10.75,DEFAULT,,0,0,0,,{\r}{\kf16}Pure{\kf16} fic{\kf10}tion{\kf10} is{\kf10} a{\kf25} com{\kf16}pa{\kf16}ri{\kf16}son{\kf16} of{\kf25} Dash{\kf10} to{\kf16} e{\kf10}ver{\kf16} oc{\kf10}cur
+Dialogue: 0,0:02:10.81,0:02:14.12,DEFAULT,,0,0,0,,{\r}{\kf19}She's{\kf28} the{\kf28} one,{\kf19} she's{\kf10} my{\kf38} girl,{\kf10} no{\kf19} one{\kf10} could{\kf19} e{\kf19}ver{\kf19} fill{\kf19} that{\kf19} hole{\kf28} in{\kf27}side
+Dialogue: 0,0:02:14.19,0:02:16.87,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf19} if{\kf10} I{\kf19} e{\kf10}ver{\kf19} told{\kf19} you{\kf19} o{\kf19}ther{\kf37}wise,{\kf46} well,{\kf19} I{\kf23} lied
+Dialogue: 0,0:02:17.87,0:02:19.50,DEFAULT,,0,0,0,,{\r}{\kf46}It's{\kf46} o{\kf70}kay
+Dialogue: 0,0:02:20.62,0:02:22.19,DEFAULT,,0,0,0,,{\r}{\kf47}I'm{\kf55} still{\kf54} here
+Dialogue: 0,0:02:23.00,0:02:24.81,DEFAULT,,0,0,0,,{\r}{\kf38}I'll{\kf45} al{\kf45}ways{\kf53} be
+Dialogue: 0,0:02:25.81,0:02:27.75,DEFAULT,,0,0,0,,{\r}{\kf60}Your{\kf45} best{\kf89} friend
+Dialogue: 0,0:02:28.56,0:02:30.31,DEFAULT,,0,0,0,,{\r}{\kf46}It's{\kf46} al{\kf83}right
+Dialogue: 0,0:02:31.00,0:02:32.94,DEFAULT,,0,0,0,,{\r}{\kf23}I'm{\kf54} loy{\kf47}al{\kf70}ty
+Dialogue: 0,0:02:33.62,0:02:35.50,DEFAULT,,0,0,0,,{\r}{\kf33}I'll{\kf57} be{\kf33} here{\kf65} 'til
+Dialogue: 0,0:02:36.31,0:02:38.75,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf65} ve{\kf57}ry{\kf98} end
+Dialogue: 0,0:02:39.00,0:02:41.50,DEFAULT,,0,0,0,,{\r}{\kf29}Come{\kf44} on,{\kf37} let's{\kf51} fly{\kf89}~
+Dialogue: 0,0:02:41.69,0:02:43.94,DEFAULT,,0,0,0,,{\r}{\kf43}Just,{\kf35} you{\kf35} and{\kf52} I{\kf60}~
+Dialogue: 0,0:02:44.37,0:02:49.06,DEFAULT,,0,0,0,,{\r}{\kf52}Let's{\kf69} race{\kf61} 'til{\kf52} we{\kf69} touch{\kf78} the{\kf88} sky
+Dialogue: 0,0:02:49.37,0:02:51.94,DEFAULT,,0,0,0,,{\r}{\kf44}Ne{\kf29}ver{\kf37} let{\kf44} you{\kf44} fall{\kf58}~
+Dialogue: 0,0:02:52.06,0:02:54.75,DEFAULT,,0,0,0,,{\r}{\kf32}I{\kf40} was{\kf40} here{\kf32} for{\kf24} it{\kf47} all{\kf54}~
+Dialogue: 0,0:02:55.00,0:03:00.94,DEFAULT,,0,0,0,,{\r}{\kf72}And{\kf63} I'm{\kf54} here{\kf36}~,{\kf72} for{\kf72} you{\kf225} now
+Dialogue: 0,0:03:01.25,0:03:01.69,DEFAULT,,0,0,0,,{\r}{\kf44}(These years they passed me by and I'm still here all alone)
+Dialogue: 0,0:03:01.81,0:03:04.31,DEFAULT,,0,0,0,,{\r}{\kf28}That{\kf19} thing{\kf10} you'd{\kf19} call{\kf10} a{\kf19} heart{\kf19} of{\kf19} mine{\kf19} has{\kf28} since{\kf19} turned{\kf19} to{\kf22} stone
+Dialogue: 0,0:03:04.56,0:03:06.87,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf17} lights{\kf10} are{\kf17} grow{\kf17}ing{\kf26} dark{\kf26}er,{\kf17} my{\kf17} time{\kf17} is{\kf17} grow{\kf17}ing{\kf16} near
+Dialogue: 0,0:03:06.94,0:03:09.69,DEFAULT,,0,0,0,,{\r}{\kf10}A{\kf20} life{\kf20}time{\kf20} passed{\kf20} me{\kf29} by{\kf10} and{\kf20} she{\kf20} ne{\kf20}ver{\kf29} e{\kf20}ven{\kf20} ap{\kf17}peared
+Dialogue: 0,0:03:09.75,0:03:12.19,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf27} what's{\kf36} this,{\kf10} as{\kf10} the{\kf18} lights{\kf27} fade{\kf27} slow{\kf18}ly{\kf10} I{\kf10} see{\kf18} her{\kf15} face
+Dialogue: 0,0:03:12.50,0:03:14.87,DEFAULT,,0,0,0,,{\r}{\kf26}Slow{\kf10}ly{\kf26} star{\kf10}ing{\kf17} down{\kf10} at{\kf17} me{\kf17} freez{\kf17}ing{\kf17} sur{\kf17}round{\kf17}ing{\kf10} time{\kf17} and{\kf10} space
+Dialogue: 0,0:03:14.94,0:03:17.50,DEFAULT,,0,0,0,,{\r}{\kf17}As{\kf17} my{\kf34} eyes,{\kf17} they{\kf17} be{\kf17}gin{\kf17} to{\kf17} close{\kf10} for{\kf10} the{\kf26} ve{\kf17}ry{\kf26} last{\kf14} time
+Dialogue: 0,0:03:17.56,0:03:20.37,DEFAULT,,0,0,0,,{\r}{\kf17}She{\kf26} held{\kf10} my{\kf17} hand{\kf10} and{\kf26} as{\kf17}sured{\kf26} me{\kf17} that{\kf10} it'd{\kf17} all{\kf17} be{\kf34} just{\kf37} fine
+Dialogue: 0,0:03:22.12,0:03:23.62,DEFAULT,,0,0,0,,{\r}{\kf47}It's{\kf47} o{\kf56}kay
+Dialogue: 0,0:03:24.81,0:03:26.44,DEFAULT,,0,0,0,,{\r}{\kf52}I'm{\kf44} still{\kf66} here
+Dialogue: 0,0:03:27.25,0:03:29.00,DEFAULT,,0,0,0,,{\r}{\kf23}I'll{\kf61} al{\kf38}ways{\kf53} be
+Dialogue: 0,0:03:30.19,0:03:31.81,DEFAULT,,0,0,0,,{\r}{\kf44}Your{\kf44} best{\kf74} friend
+Dialogue: 0,0:03:32.81,0:03:34.37,DEFAULT,,0,0,0,,{\r}{\kf41}It's{\kf49} al{\kf66}right
+Dialogue: 0,0:03:35.19,0:03:37.12,DEFAULT,,0,0,0,,{\r}{\kf31}I'm{\kf62} loy{\kf31}al{\kf70}ty
+Dialogue: 0,0:03:37.87,0:03:39.75,DEFAULT,,0,0,0,,{\r}{\kf33}I'll{\kf57} be{\kf33} here{\kf65} 'til
+Dialogue: 0,0:03:40.56,0:03:43.00,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf67} ve{\kf67}ry{\kf88} end
+Dialogue: 0,0:03:43.19,0:03:45.62,DEFAULT,,0,0,0,,{\r}{\kf30}Come{\kf52} on,{\kf44} let's{\kf37} fly{\kf81}~
+Dialogue: 0,0:03:45.94,0:03:48.19,DEFAULT,,0,0,0,,{\r}{\kf45}Just,{\kf38} you{\kf38} and{\kf38} I{\kf66}~
+Dialogue: 0,0:03:48.62,0:03:53.25,DEFAULT,,0,0,0,,{\r}{\kf46}Let's{\kf65} race{\kf55} 'til{\kf55} we{\kf65} touch{\kf83} the{\kf93} sky
+Dialogue: 0,0:03:53.56,0:03:56.00,DEFAULT,,0,0,0,,{\r}{\kf43}Ne{\kf29}ver{\kf36} let{\kf43} you{\kf50} fall{\kf43}~
+Dialogue: 0,0:03:56.25,0:03:59.00,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf47} was{\kf39} here{\kf24} for{\kf31} it{\kf39} all{\kf64}~
+Dialogue: 0,0:03:59.25,0:04:06.25,DEFAULT,,0,0,0,,{\r}{\kf62}And{\kf54} I'm{\kf47} here{\kf47}~{\kf86} for{\kf78} you{\kf326} now

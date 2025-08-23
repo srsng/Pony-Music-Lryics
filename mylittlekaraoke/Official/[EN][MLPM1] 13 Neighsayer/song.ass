@@ -1,41 +1,48 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Neighsayer
+Artist: My Little Pony - The Movie, Lukas Nelson
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.54,0:00:03.01,DEFAULT,,0,0,0,,{\kf23}One-{\kf23}two-{\kf23}three,{\kf23} one-{\kf23}two-{\kf34}three…
-Dialogue: 0,0:00:11.98,0:00:14.26,DEFAULT,,0,0,0,,{\kf23}I{\kf38} don't{\kf23} wan{\kf12}na{\kf15} change{\kf12}~{\kf23}~{\kf34} you
-Dialogue: 0,0:00:15.09,0:00:17.38,DEFAULT,,0,0,0,,{\kf12}I{\kf12} don't{\kf12} want{\kf15} to{\kf12} make{\kf23}~{\kf30}~{\kf15} you{\kf23} dif{\kf23}ferent
-Dialogue: 0,0:00:22.06,0:00:24.76,DEFAULT,,0,0,0,,{\kf15}I'm{\kf19} hap{\kf49}py{\kf15} with{\kf15} the{\kf12} way{\kf27}~{\kf12} it{\kf12} is{\kf34}~
-Dialogue: 0,0:00:25.85,0:00:27.16,DEFAULT,,0,0,0,,{\kf12}And{\kf12} the{\kf23} way{\kf15} it{\kf15} is{\kf27}n't
-Dialogue: 0,0:00:31.85,0:00:34.40,DEFAULT,,0,0,0,,{\kf19}We{\kf15} fit{\kf68} like{\kf15} puz{\kf19}zle{\kf27} pie{\kf30}ces
-Dialogue: 0,0:00:35.08,0:00:37.06,DEFAULT,,0,0,0,,{\kf12}In{\kf12} a{\kf19} per{\kf19}~{\kf12}~{\kf12}~{\kf19}fect{\kf57} way
-Dialogue: 0,0:00:41.38,0:00:44.34,DEFAULT,,0,0,0,,{\kf19}Don't{\kf109} go{\kf19} see{\kf19}in'{\kf15} rain{\kf23}~{\kf27}drops
-Dialogue: 0,0:00:45.39,0:00:47.38,DEFAULT,,0,0,0,,{\kf12}On{\kf12} a{\kf38} sun{\kf12}~{\kf12}~{\kf19}ny{\kf57} day
-Dialogue: 0,0:00:50.83,0:00:55.40,DEFAULT,,0,0,0,,{\kf19}Oh{\kf42} I{\kf30} don't{\kf12} be{\kf42}lieve{\kf12} that{\kf30} my{\kf60} world{\kf12} is{\kf15}n't{\kf45} real
-Dialogue: 0,0:00:56.83,0:00:59.49,DEFAULT,,0,0,0,,{\kf19}I{\kf15} would{\kf15}n't{\kf27} take{\kf38} you{\kf23} from{\kf60} yours
-Dialogue: 0,0:01:01.03,0:01:05.75,DEFAULT,,0,0,0,,{\kf19}I{\kf19} just{\kf30} wan{\kf12}na{\kf45} find{\kf19} me{\kf23}~{\kf23} some{\kf12} ma{\kf19}~{\kf30}gic{\kf45} some{\kf57}how
-Dialogue: 0,0:01:07.59,0:01:12.01,DEFAULT,,0,0,0,,{\kf45}Oh,{\kf34} don't{\kf23} be{\kf15}~{\kf12} a{\kf53} neigh{\kf23}say{\kf23}er{\kf143} now
-Dialogue: 0,0:01:20.23,0:01:23.08,DEFAULT,,0,0,0,,{\kf30}I{\kf19} wish{\kf27} you{\kf75} saw{\kf23} your{\kf38}self
-Dialogue: 0,0:01:23.79,0:01:27.01,DEFAULT,,0,0,0,,{\kf12}The{\kf12} way{\kf15} I've{\kf38} al{\kf12}~{\kf27}~{\kf23}ways{\kf45} seen{\kf79} you
-Dialogue: 0,0:01:30.31,0:01:33.13,DEFAULT,,0,0,0,,{\kf19}You're{\kf38} so{\kf19} much{\kf42} stron{\kf19}~{\kf19}ger{\kf15} now{\kf34}~
-Dialogue: 0,0:01:34.21,0:01:36.39,DEFAULT,,0,0,0,,{\kf15}For{\kf79} all{\kf19} you've{\kf23} been{\kf42} through
-Dialogue: 0,0:01:40.89,0:01:44.19,DEFAULT,,0,0,0,,{\kf19}I{\kf15} don't{\kf15} be{\kf45}lieve{\kf12} that{\kf27} my{\kf60} world{\kf15} is{\kf12}n't{\kf34} real
-Dialogue: 0,0:01:45.69,0:01:48.50,DEFAULT,,0,0,0,,{\kf12}And{\kf12} I{\kf12} would{\kf12}n't{\kf23} take{\kf27} you{\kf30} from{\kf90} yours
-Dialogue: 0,0:01:50.15,0:01:55.21,DEFAULT,,0,0,0,,{\kf12}I{\kf12} just{\kf23} wan{\kf19}na{\kf42} find{\kf23} me{\kf23} some{\kf15} ma{\kf57}~{\kf19}gic{\kf53} some{\kf68}how
-Dialogue: 0,0:01:57.05,0:02:01.33,DEFAULT,,0,0,0,,{\kf38}Oh,{\kf30} don't{\kf23} be{\kf15} a{\kf87} neigh{\kf23}say{\kf19}er{\kf128} now
-Dialogue: 0,0:02:10.40,0:02:14.23,DEFAULT,,0,0,0,,{\kf27}To{\kf19}ge{\kf42}ther{\kf34} is{\kf19} bet{\kf72}ter
-Dialogue: 0,0:02:15.13,0:02:19.21,DEFAULT,,0,0,0,,{\kf83}You're{\kf27} my{\kf23} best{\kf49} friend{\kf72} fo{\kf15}re{\kf64}ver
-Dialogue: 0,0:02:20.34,0:02:23.94,DEFAULT,,0,0,0,,{\kf27}To{\kf15}ge{\kf45}ther,{\kf49} what{\kf19}e{\kf64}ver
-Dialogue: 0,0:02:24.69,0:02:28.70,DEFAULT,,0,0,0,,{\kf38}May{\kf30} come{\kf34} my{\kf15} way{\kf79}~,{\kf27} I{\kf79} say
-Dialogue: 0,0:02:29.00,0:02:33.28,DEFAULT,,0,0,0,,{\kf12}That{\kf27} I{\kf23} don't{\kf19} be{\kf53}lieve{\kf19} that{\kf19} my{\kf34} world{\kf15} is{\kf15}n't{\kf49} real
-Dialogue: 0,0:02:34.44,0:02:37.70,DEFAULT,,0,0,0,,{\kf12}And{\kf19} I{\kf15} would{\kf12}n't{\kf15} take{\kf15}~{\kf23} you{\kf27} from{\kf132} yours
-Dialogue: 0,0:02:38.64,0:02:43.66,DEFAULT,,0,0,0,,{\kf23}I{\kf19} just{\kf19} wan{\kf23}na{\kf60} find{\kf12} me{\kf27}~{\kf27} some{\kf30} ma{\kf27}gic{\kf45} some{\kf57}how
-Dialogue: 0,0:02:45.05,0:02:49.93,DEFAULT,,0,0,0,,{\kf19}Oh{\kf49}~,{\kf38} don't{\kf19} be{\kf15} a{\kf83} neigh{\kf19}say{\kf30}er{\kf143} now
-Dialogue: 0,0:02:53.49,0:03:04.48,DEFAULT,,0,0,0,,{\kf308}Ahh,{\kf34} hmm{\kf53}~{\kf27}~{\kf255}mm…{\kf38} hmm{\kf23} hmm-{\kf83}hmmm
+Dialogue: 0,0:00:00.54,0:00:03.02,DEFAULT,,0,0,0,,{\r}{\kf38}One-{\kf38}two-{\kf38}three,{\kf38} one-{\kf38}two-{\kf58}three…
+Dialogue: 0,0:00:11.98,0:00:14.27,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf49} don't{\kf29} wan{\kf15}na{\kf19} change{\kf15}~{\kf29}~{\kf44} you
+Dialogue: 0,0:00:15.09,0:00:17.38,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf15} don't{\kf15} want{\kf20} to{\kf15} make{\kf30}~{\kf40}~{\kf20} you{\kf30} dif{\kf29}ferent
+Dialogue: 0,0:00:22.07,0:00:24.77,DEFAULT,,0,0,0,,{\r}{\kf20}I'm{\kf25} hap{\kf64}py{\kf20} with{\kf20} the{\kf15} way{\kf34}~{\kf15} it{\kf15} is{\kf42}~
+Dialogue: 0,0:00:25.86,0:00:27.17,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} the{\kf29} way{\kf19} it{\kf19} is{\kf34}n't
+Dialogue: 0,0:00:31.86,0:00:34.41,DEFAULT,,0,0,0,,{\r}{\kf25}We{\kf20} fit{\kf90} like{\kf20} puz{\kf25}zle{\kf35} pie{\kf40}ces
+Dialogue: 0,0:00:35.08,0:00:37.07,DEFAULT,,0,0,0,,{\r}{\kf14}In{\kf14} a{\kf24} per{\kf24}~{\kf14}~{\kf14}~{\kf24}fect{\kf71} way
+Dialogue: 0,0:00:41.38,0:00:44.34,DEFAULT,,0,0,0,,{\r}{\kf24}Don't{\kf141} go{\kf24} see{\kf24}in'{\kf19} rain{\kf29}~{\kf35}drops
+Dialogue: 0,0:00:45.39,0:00:47.38,DEFAULT,,0,0,0,,{\r}{\kf14}On{\kf14} a{\kf47} sun{\kf14}~{\kf14}~{\kf24}ny{\kf72} day
+Dialogue: 0,0:00:50.83,0:00:55.41,DEFAULT,,0,0,0,,{\r}{\kf27}Oh{\kf60} I{\kf44} don't{\kf16} be{\kf60}lieve{\kf16} that{\kf44} my{\kf87} world{\kf16} is{\kf22}n't{\kf66} real
+Dialogue: 0,0:00:56.83,0:00:59.49,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf20} would{\kf20}n't{\kf36} take{\kf51} you{\kf31} from{\kf82} yours
+Dialogue: 0,0:01:01.03,0:01:05.76,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf25} just{\kf41} wan{\kf15}na{\kf61} find{\kf25} me{\kf31}~{\kf31} some{\kf15} ma{\kf25}~{\kf41}gic{\kf61} some{\kf77}how
+Dialogue: 0,0:01:07.59,0:01:12.02,DEFAULT,,0,0,0,,{\r}{\kf54}Oh,{\kf41} don't{\kf27} be{\kf18}~{\kf14} a{\kf63} neigh{\kf27}say{\kf27}er{\kf171} now
+Dialogue: 0,0:01:20.23,0:01:23.08,DEFAULT,,0,0,0,,{\r}{\kf41}I{\kf25} wish{\kf36} you{\kf102} saw{\kf31} your{\kf50}self
+Dialogue: 0,0:01:23.79,0:01:27.02,DEFAULT,,0,0,0,,{\r}{\kf14}The{\kf14} way{\kf19} I've{\kf47} al{\kf14}~{\kf33}~{\kf28}ways{\kf56} seen{\kf97} you
+Dialogue: 0,0:01:30.32,0:01:33.13,DEFAULT,,0,0,0,,{\r}{\kf26}You're{\kf52} so{\kf26} much{\kf57} stron{\kf26}~{\kf26}ger{\kf21} now{\kf47}~
+Dialogue: 0,0:01:34.22,0:01:36.39,DEFAULT,,0,0,0,,{\r}{\kf18}For{\kf97} all{\kf23} you've{\kf28} been{\kf51} through
+Dialogue: 0,0:01:40.89,0:01:44.19,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf20} don't{\kf20} be{\kf59}lieve{\kf15} that{\kf34} my{\kf79} world{\kf20} is{\kf15}n't{\kf43} real
+Dialogue: 0,0:01:45.69,0:01:48.51,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} I{\kf15} would{\kf15}n't{\kf30} take{\kf35} you{\kf39} from{\kf117} yours
+Dialogue: 0,0:01:50.16,0:01:55.22,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} just{\kf32} wan{\kf26}na{\kf58} find{\kf32} me{\kf32} some{\kf21} ma{\kf79}~{\kf26}gic{\kf74} some{\kf94}how
+Dialogue: 0,0:01:57.06,0:02:01.33,DEFAULT,,0,0,0,,{\r}{\kf45}Oh,{\kf36} don't{\kf27} be{\kf18} a{\kf103} neigh{\kf27}say{\kf22}er{\kf150} now
+Dialogue: 0,0:02:10.41,0:02:14.23,DEFAULT,,0,0,0,,{\r}{\kf48}To{\kf34}ge{\kf75}ther{\kf61} is{\kf34} bet{\kf130}ter
+Dialogue: 0,0:02:15.13,0:02:19.22,DEFAULT,,0,0,0,,{\r}{\kf102}You're{\kf33} my{\kf28} best{\kf60} friend{\kf88} fo{\kf19}re{\kf79}ver
+Dialogue: 0,0:02:20.34,0:02:23.94,DEFAULT,,0,0,0,,{\r}{\kf43}To{\kf25}ge{\kf74}ther,{\kf81} what{\kf31}e{\kf106}ver
+Dialogue: 0,0:02:24.69,0:02:28.71,DEFAULT,,0,0,0,,{\r}{\kf50}May{\kf40} come{\kf45} my{\kf20} way{\kf105}~,{\kf35} I{\kf106} say
+Dialogue: 0,0:02:29.01,0:02:33.28,DEFAULT,,0,0,0,,{\r}{\kf17}That{\kf40} I{\kf34} don't{\kf29} be{\kf80}lieve{\kf29} that{\kf29} my{\kf51} world{\kf23} is{\kf23}n't{\kf73} real
+Dialogue: 0,0:02:34.44,0:02:37.71,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf23} I{\kf18} would{\kf14}n't{\kf18} take{\kf18}~{\kf28} you{\kf32} from{\kf161} yours
+Dialogue: 0,0:02:38.64,0:02:43.67,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf26} just{\kf26} wan{\kf31}na{\kf83} find{\kf16} me{\kf36}~{\kf36} some{\kf41} ma{\kf36}gic{\kf62} some{\kf79}how
+Dialogue: 0,0:02:45.06,0:02:49.93,DEFAULT,,0,0,0,,{\r}{\kf22}Oh{\kf58}~,{\kf44} don't{\kf22} be{\kf18} a{\kf98} neigh{\kf22}say{\kf35}er{\kf169} now
+Dialogue: 0,0:02:53.49,0:03:04.48,DEFAULT,,0,0,0,,{\r}{\kf413}Ahh,{\kf45} hmm{\kf71}~{\kf35}~{\kf343}mm…{\kf50} hmm{\kf30} hmm-{\kf112}hmmm

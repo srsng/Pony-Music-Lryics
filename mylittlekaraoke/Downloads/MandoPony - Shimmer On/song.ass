@@ -1,120 +1,127 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Shimmer On
+Artist: MandoPony
+Original Timing: mylittlekaraoke.com by BronyMike
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.31,0:00:01.93,DEFAULT,,0,0,0,,{\kf54}And{\kf159} now
-Dialogue: 0,0:00:02.33,0:00:05.40,DEFAULT,,0,0,0,,{\kf54}It's{\kf63} all{\kf85} o{\kf89}ver{\kf129} now
-Dialogue: 0,0:00:05.88,0:00:07.85,DEFAULT,,0,0,0,,{\kf50}The{\kf63} spar{\kf54}kle{\kf50} is{\kf89} gone
-Dialogue: 0,0:00:08.29,0:00:12.94,DEFAULT,,0,0,0,,{\kf58}See{\kf76} me{\kf63} shim{\kf54}mer{\kf186} o{\kf142}-on
-Dialogue: 0,0:00:13.51,0:00:16.58,DEFAULT,,0,0,0,,{\kf58}It's{\kf58} all{\kf89} o{\kf80}ver{\kf124} now
-Dialogue: 0,0:00:17.11,0:00:19.04,DEFAULT,,0,0,0,,{\kf50}The{\kf54} spar{\kf54}kle{\kf50} is{\kf85} gone
-Dialogue: 0,0:00:19.52,0:00:22.11,DEFAULT,,0,0,0,,{\kf54}See{\kf76} me{\kf58} shim{\kf58}mer{\kf111} on--
-Dialogue: 0,0:00:22.33,0:00:23.73,DEFAULT,,0,0,0,,{\kf41}Im{\kf41}ma{\kf41} tell{\kf41} you{\kf41} how{\kf41} it{\kf41} be{\kf50}gan
-Dialogue: 0,0:00:24.08,0:00:25.14,DEFAULT,,0,0,0,,{\kf41}Just{\kf41} so{\kf41} you{\kf41} un{\kf41}der{\kf50}stand
-Dialogue: 0,0:00:25.31,0:00:26.76,DEFAULT,,0,0,0,,{\kf41}This{\kf41} ain't{\kf41} at{\kf41} all{\kf41} what{\kf41} I{\kf41} had{\kf41} wan{\kf36}ted
-Dialogue: 0,0:00:26.89,0:00:28.12,DEFAULT,,0,0,0,,{\kf41}And{\kf41} it's{\kf41} not{\kf41} what{\kf41} I{\kf41} had{\kf50} planned
-Dialogue: 0,0:00:28.29,0:00:29.43,DEFAULT,,0,0,0,,{\kf41}And{\kf41} when{\kf41} I{\kf41} make{\kf41} de{\kf58}mands
-Dialogue: 0,0:00:29.70,0:00:30.88,DEFAULT,,0,0,0,,{\kf41}Your{\kf41} at{\kf41}ten{\kf41}tion{\kf41} I{\kf41} ex{\kf41}pect
-Dialogue: 0,0:00:31.10,0:00:32.28,DEFAULT,,0,0,0,,{\kf41}All{\kf41} I{\kf41} wan{\kf41}ted{\kf41} was{\kf41} res{\kf41}pect
-Dialogue: 0,0:00:32.50,0:00:33.69,DEFAULT,,0,0,0,,{\kf41}But{\kf41} I{\kf41} just{\kf41} could{\kf41}n't{\kf41} con{\kf45}nect
-Dialogue: 0,0:00:33.91,0:00:35.18,DEFAULT,,0,0,0,,{\kf41}With{\kf41} the{\kf41} one{\kf41} who{\kf41} said{\kf41} she'd{\kf41} give{\kf36} me
-Dialogue: 0,0:00:35.31,0:00:36.63,DEFAULT,,0,0,0,,{\kf41}Ev{\kf41}ery{\kf41}thing{\kf41} I{\kf41} e{\kf41}ver{\kf41} wan{\kf41}ted
-Dialogue: 0,0:00:36.89,0:00:38.29,DEFAULT,,0,0,0,,{\kf41}I{\kf41}ma{\kf41}gine{\kf41} see{\kf41}in'{\kf41} all{\kf41} your{\kf50} dreams
-Dialogue: 0,0:00:38.47,0:00:39.39,DEFAULT,,0,0,0,,{\kf41}Waved{\kf41} and{\kf41} be{\kf41}ing{\kf41} flaun{\kf36}ted
-Dialogue: 0,0:00:39.52,0:00:40.49,DEFAULT,,0,0,0,,{\kf41}Right{\kf41} in{\kf41} front{\kf41} of{\kf41} your{\kf41} face
-Dialogue: 0,0:00:40.75,0:00:41.89,DEFAULT,,0,0,0,,{\kf41}And{\kf41} now{\kf41} you're{\kf41} called{\kf41} a{\kf41} dis{\kf41}grace
-Dialogue: 0,0:00:42.15,0:00:43.60,DEFAULT,,0,0,0,,{\kf41}I{\kf41} chase{\kf41} her{\kf41} down{\kf41} to{\kf41} get{\kf41} the{\kf41} crown{\kf36} and
-Dialogue: 0,0:00:43.73,0:00:44.83,DEFAULT,,0,0,0,,{\kf41}Take{\kf41} con{\kf41}trol{\kf41} of{\kf41} this{\kf54} place
-Dialogue: 0,0:00:45.18,0:00:47.28,DEFAULT,,0,0,0,,{\kf41}This{\kf41} ain't{\kf41} my{\kf50} home,{\kf41} I'm{\kf54} cold,{\kf41} bro{\kf41}ken,{\kf41} a{\kf54}lone
-Dialogue: 0,0:00:47.59,0:00:49.00,DEFAULT,,0,0,0,,{\kf41}No{\kf41} one{\kf41} real{\kf41}ly{\kf41} knows{\kf41} who{\kf41} I{\kf50} am
-Dialogue: 0,0:00:49.17,0:00:50.40,DEFAULT,,0,0,0,,{\kf41}But{\kf41} I{\kf54} can't{\kf41} start{\kf41} to{\kf45} show
-Dialogue: 0,0:00:50.57,0:00:51.63,DEFAULT,,0,0,0,,{\kf41}Who{\kf41} I've{\kf50} grown{\kf41} in{\kf50}to
-Dialogue: 0,0:00:51.80,0:00:53.38,DEFAULT,,0,0,0,,{\kf41}Some{\kf41}thing{\kf41} new,{\kf41} I{\kf41} slow{\kf41}ly{\kf41} re{\kf41}a{\kf50}lize
-Dialogue: 0,0:00:53.56,0:00:54.92,DEFAULT,,0,0,0,,{\kf41}I'm{\kf41} be{\kf41}com{\kf41}ing{\kf41} a{\kf50} mon{\kf45}ster,
-Dialogue: 0,0:00:55.14,0:00:56.54,DEFAULT,,0,0,0,,{\kf41}And{\kf41} now{\kf41} I{\kf41} fan{\kf41}ta{\kf41}size{\kf41} a{\kf50}bout
-Dialogue: 0,0:00:56.71,0:00:57.42,DEFAULT,,0,0,0,,{\kf41}Get{\kf41}ting{\kf41} her{\kf50} back
-Dialogue: 0,0:00:57.59,0:00:58.82,DEFAULT,,0,0,0,,{\kf41}I{\kf41} track{\kf41} her{\kf41} down,{\kf41} and{\kf41} it's{\kf50} whack
-Dialogue: 0,0:00:59.00,0:01:00.40,DEFAULT,,0,0,0,,{\kf41}Im{\kf41}ma{\kf54} find{\kf41} that{\kf41} new{\kf41}bie's{\kf50} head
-Dialogue: 0,0:01:00.57,0:01:01.63,DEFAULT,,0,0,0,,{\kf45}Smack{\kf41} it{\kf41} down{\kf41} 'til{\kf41} it{\kf50} cracks
-Dialogue: 0,0:01:01.98,0:01:03.21,DEFAULT,,0,0,0,,{\kf41}Man,{\kf41} I{\kf41} swear{\kf41} I'd{\kf41} take{\kf41} it{\kf50} back
-Dialogue: 0,0:01:03.38,0:01:04.48,DEFAULT,,0,0,0,,{\kf41}Take{\kf41} the{\kf41} life{\kf41} that{\kf41} was{\kf54} mine
-Dialogue: 0,0:01:04.78,0:01:06.01,DEFAULT,,0,0,0,,{\kf41}See{\kf41} me{\kf41} shim{\kf41}mer,{\kf41} see{\kf41} me{\kf50} shine
-Dialogue: 0,0:01:06.19,0:01:07.42,DEFAULT,,0,0,0,,{\kf41}But{\kf41} you're{\kf41} run{\kf41}ning{\kf41} out{\kf41} of{\kf50} time
-Dialogue: 0,0:01:07.59,0:01:09.26,DEFAULT,,0,0,0,,{\kf50}And{\kf159} now
-Dialogue: 0,0:01:09.65,0:01:12.72,DEFAULT,,0,0,0,,{\kf54}It's{\kf63} all{\kf85} o{\kf85}ver{\kf124} now
-Dialogue: 0,0:01:13.16,0:01:15.18,DEFAULT,,0,0,0,,{\kf50}The{\kf63} spar{\kf54}kle{\kf50} is{\kf85} gone
-Dialogue: 0,0:01:15.62,0:01:20.22,DEFAULT,,0,0,0,,{\kf58}See{\kf76} me{\kf63} shim{\kf58}mer{\kf186} o{\kf133}-on
-Dialogue: 0,0:01:20.88,0:01:23.95,DEFAULT,,0,0,0,,{\kf54}It's{\kf63} all{\kf89} o{\kf85}ver{\kf120} now
-Dialogue: 0,0:01:24.43,0:01:26.45,DEFAULT,,0,0,0,,{\kf50}The{\kf58} spar{\kf54}kle{\kf50} is{\kf89} gone
-Dialogue: 0,0:01:26.89,0:01:30.53,DEFAULT,,0,0,0,,{\kf58}See{\kf76} me{\kf54} shim{\kf54}mer{\kf151} o{\kf85}-on
-Dialogue: 0,0:01:30.75,0:01:33.12,DEFAULT,,0,0,0,,{\kf41}Now{\kf41} it{\kf41} seems{\kf41} your{\kf41} ears{\kf41} are{\kf41} o{\kf41}pen,{\kf41} now{\kf41} you'll{\kf41} look{\kf41} my{\kf58} way
-Dialogue: 0,0:01:33.38,0:01:35.93,DEFAULT,,0,0,0,,{\kf41}You{\kf41} send{\kf41} your{\kf41} pre{\kf41}cious{\kf41} pro{\kf41}té{\kf41}gé{\kf41} to{\kf41} come{\kf41} and{\kf41} save{\kf41} the{\kf58} day
-Dialogue: 0,0:01:36.19,0:01:38.73,DEFAULT,,0,0,0,,{\kf41}You{\kf41} ne{\kf41}ver{\kf41} tried{\kf41} to{\kf41} lis{\kf41}ten{\kf41} to{\kf41} a{\kf41} word{\kf41} I{\kf41} had{\kf41} to{\kf58} say
-Dialogue: 0,0:01:39.00,0:01:41.63,DEFAULT,,0,0,0,,{\kf41}And{\kf41} so{\kf41} for{\kf41}get{\kf41} it,{\kf41} it's{\kf41} o{\kf41}ver,{\kf41} ne{\kf41}ver{\kf41} gon{\kf41}na{\kf41} see{\kf41} me{\kf50} sway
-Dialogue: 0,0:01:41.80,0:01:44.39,DEFAULT,,0,0,0,,{\kf41}I{\kf58} stand{\kf41} firm{\kf41} on{\kf41} the{\kf58} ground,{\kf41} no{\kf41} sound{\kf41} from{\kf41} me{\kf41} com{\kf41}plain{\kf45}in'
-Dialogue: 0,0:01:44.78,0:01:47.24,DEFAULT,,0,0,0,,{\kf41}I'm{\kf41} the{\kf41} king{\kf41} of{\kf41} the{\kf54} storms,{\kf41} no{\kf41} one{\kf41} es{\kf41}capes{\kf41} my{\kf41} reign{\kf50}in'
-Dialogue: 0,0:01:47.42,0:01:49.43,DEFAULT,,0,0,0,,{\kf41}You're{\kf54} washed{\kf50} up,{\kf41} your{\kf41} friends{\kf41} are{\kf41} all{\kf41} a{\kf58}shamed
-Dialogue: 0,0:01:49.70,0:01:52.68,DEFAULT,,0,0,0,,{\kf41}'Cause{\kf41} your{\kf41} ma{\kf41}gic{\kf41} ain't{\kf41} no{\kf41}thin'{\kf41} next{\kf41} to{\kf41} what{\kf41} I'm{\kf41} con{\kf41}ju{\kf41}rin'{\kf41} to{\kf67}day
-Dialogue: 0,0:01:53.03,0:01:55.14,DEFAULT,,0,0,0,,{\kf41}Who{\kf41} would{\kf41}'a{\kf58} thought,{\kf41} you'd{\kf41} be{\kf58} caught,{\kf41} you'd{\kf41} be{\kf50} brought
-Dialogue: 0,0:01:55.31,0:01:57.24,DEFAULT,,0,0,0,,{\kf41}To{\kf41} your{\kf58} knees,{\kf41} now{\kf41} get{\kf58} shot,{\kf41} thanks{\kf41} a{\kf50} lot
-Dialogue: 0,0:01:57.42,0:01:59.70,DEFAULT,,0,0,0,,{\kf41}'Cause{\kf41} I{\kf58} fought{\kf41} for{\kf41} e{\kf41}very{\kf50}thing{\kf41} that{\kf41} I{\kf50} got
-Dialogue: 0,0:01:59.87,0:02:02.15,DEFAULT,,0,0,0,,{\kf41}Here{\kf41} you{\kf54} are,{\kf41} think{\kf41}ing{\kf41} you{\kf41} can{\kf41} in{\kf41}stan{\kf41}ta{\kf36}ne{\kf41}ous{\kf50}ly
-Dialogue: 0,0:02:02.33,0:02:03.73,DEFAULT,,0,0,0,,{\kf41}Take{\kf41} it{\kf41} right{\kf41} on{\kf41} the{\kf54} spot?{\kf50} Hah
-Dialogue: 0,0:02:04.43,0:02:06.76,DEFAULT,,0,0,0,,{\kf41}Im{\kf41}ma{\kf41} teach{\kf41} a{\kf41} les{\kf41}son{\kf41} that{\kf41} you{\kf41} wish{\kf41} you{\kf41} could{\kf41} for{\kf54}get
-Dialogue: 0,0:02:07.07,0:02:09.61,DEFAULT,,0,0,0,,{\kf41}You're{\kf41} gon{\kf41}na{\kf41} wish{\kf41} that{\kf41} you{\kf41} had{\kf41} ne{\kf41}ver{\kf41} been{\kf41} the{\kf41} teach{\kf41}er's{\kf54} pet
-Dialogue: 0,0:02:09.87,0:02:12.37,DEFAULT,,0,0,0,,{\kf41}I{\kf41} gave{\kf41} up{\kf41} all{\kf41} my{\kf54} friends,{\kf41} just{\kf41} to{\kf41} see{\kf41} how{\kf41} far{\kf41} I'd{\kf54} get
-Dialogue: 0,0:02:12.68,0:02:15.14,DEFAULT,,0,0,0,,{\kf41}They{\kf41} say{\kf41} it's{\kf41} lone{\kf41}ly{\kf41} at{\kf41} the{\kf50} top,{\kf41} I{\kf41} don't{\kf41} miss{\kf41} 'em{\kf50} yet
-Dialogue: 0,0:02:15.35,0:02:20.09,DEFAULT,,0,0,0,,{\kf159}Now,{\kf54} it's{\kf63} all{\kf85} o{\kf80}ver{\kf124} now
-Dialogue: 0,0:02:20.57,0:02:22.55,DEFAULT,,0,0,0,,{\kf50}The{\kf63} spar{\kf54}kle{\kf50} is{\kf89} gone
-Dialogue: 0,0:02:22.99,0:02:27.55,DEFAULT,,0,0,0,,{\kf58}See{\kf76} me{\kf54} shim{\kf54}mer{\kf190} o{\kf129}-on
-Dialogue: 0,0:02:28.25,0:02:31.36,DEFAULT,,0,0,0,,{\kf54}It's{\kf63} all{\kf85} o{\kf85}ver{\kf124} now
-Dialogue: 0,0:02:31.80,0:02:33.82,DEFAULT,,0,0,0,,{\kf50}The{\kf58} spar{\kf54}kle{\kf50} is{\kf94} gone
-Dialogue: 0,0:02:34.26,0:02:37.59,DEFAULT,,0,0,0,,{\kf58}See{\kf76} me{\kf54} shim{\kf54}mer{\kf146} o{\kf58}-on
-Dialogue: 0,0:02:37.77,0:02:40.27,DEFAULT,,0,0,0,,{\kf45}A{\kf45}ny{\kf45}thing{\kf45} you{\kf45} can{\kf45} do,{\kf45} I{\kf45} can{\kf45} do{\kf45} bet{\kf50}ter
-Dialogue: 0,0:02:40.57,0:02:43.07,DEFAULT,,0,0,0,,{\kf45}A{\kf45}ny{\kf45}thing{\kf45} you{\kf45} can{\kf45} do,{\kf45} I{\kf45} can{\kf45} do{\kf45} bet{\kf50}ter
-Dialogue: 0,0:02:43.38,0:02:45.88,DEFAULT,,0,0,0,,{\kf45}A{\kf45}ny{\kf45}thing{\kf45} you{\kf45} can{\kf45} do,{\kf45} I{\kf45} can{\kf45} do{\kf45} bet{\kf50}ter
-Dialogue: 0,0:02:46.19,0:02:48.69,DEFAULT,,0,0,0,,{\kf45}A{\kf45}ny{\kf45}thing{\kf45} you{\kf45} can{\kf45} do,{\kf45} I{\kf45} can{\kf45} do{\kf45} bet{\kf50}ter
-Dialogue: 0,0:02:49.00,0:02:51.50,DEFAULT,,0,0,0,,{\kf45}A{\kf45}ny{\kf45}thing{\kf45} you{\kf45} can{\kf45} do,{\kf45} I{\kf45} can{\kf45} do{\kf45} bet{\kf50}ter
-Dialogue: 0,0:02:51.80,0:02:54.30,DEFAULT,,0,0,0,,{\kf45}A{\kf45}ny{\kf45}thing{\kf45} you{\kf45} can{\kf45} do,{\kf45} I{\kf45} can{\kf45} do{\kf45} bet{\kf50}ter
-Dialogue: 0,0:02:54.61,0:02:57.11,DEFAULT,,0,0,0,,{\kf45}A{\kf45}ny{\kf45}thing{\kf45} you{\kf45} can{\kf45} do,{\kf45} I{\kf45} can{\kf45} do{\kf45} bet{\kf50}ter
-Dialogue: 0,0:02:57.42,0:02:59.92,DEFAULT,,0,0,0,,{\kf45}A{\kf45}ny{\kf45}thing{\kf45} you{\kf45} can{\kf45} do,{\kf45} I{\kf45} can{\kf45} do{\kf45} bet{\kf50}ter
-Dialogue: 0,0:03:00.27,0:03:05.05,DEFAULT,,0,0,0,,{\kf159}Now,{\kf54} it's{\kf58} all{\kf80} o{\kf80}ver{\kf124} now
-Dialogue: 0,0:03:05.53,0:03:07.46,DEFAULT,,0,0,0,,{\kf50}The{\kf58} spar{\kf54}kle{\kf50} is{\kf89} gone
-Dialogue: 0,0:03:07.94,0:03:12.50,DEFAULT,,0,0,0,,{\kf54}See{\kf76} me{\kf54} shim{\kf54}mer{\kf186} o{\kf133}-on
-Dialogue: 0,0:03:13.16,0:03:16.23,DEFAULT,,0,0,0,,{\kf54}It's{\kf63} all{\kf89} o{\kf85}ver{\kf120} now
-Dialogue: 0,0:03:16.71,0:03:18.73,DEFAULT,,0,0,0,,{\kf50}The{\kf58} spar{\kf54}kle{\kf50} is{\kf89} gone
-Dialogue: 0,0:03:19.17,0:03:22.07,DEFAULT,,0,0,0,,{\kf58}See{\kf76} me{\kf54} shim{\kf54}mer{\kf142} on--
-Dialogue: 0,0:03:22.33,0:03:23.47,DEFAULT,,0,0,0,,{\kf41}Now{\kf41} the{\kf41} bat{\kf41}tle{\kf41} is{\kf50} done,
-Dialogue: 0,0:03:23.73,0:03:24.87,DEFAULT,,0,0,0,,{\kf41}Al{\kf41}most{\kf41} thought{\kf41} that{\kf41} I{\kf54} won
-Dialogue: 0,0:03:25.14,0:03:26.23,DEFAULT,,0,0,0,,{\kf50}Hard{\kf50} fought,{\kf50} dragged{\kf36} out,
-Dialogue: 0,0:03:26.36,0:03:27.55,DEFAULT,,0,0,0,,{\kf41}And{\kf41} it{\kf41} was{\kf41} six{\kf41} a{\kf41}gainst{\kf41} one
-Dialogue: 0,0:03:27.94,0:03:29.17,DEFAULT,,0,0,0,,{\kf41}Now{\kf41} you{\kf41} say{\kf41} that{\kf41} we{\kf41} can{\kf45} change
-Dialogue: 0,0:03:29.35,0:03:30.57,DEFAULT,,0,0,0,,{\kf41}But{\kf41} you{\kf41} know{\kf41} what's{\kf41} real{\kf41}ly{\kf50} strange?
-Dialogue: 0,0:03:30.75,0:03:31.58,DEFAULT,,0,0,0,,{\kf41}Be{\kf41}fore{\kf41} this{\kf41} hap{\kf45}pened,
-Dialogue: 0,0:03:31.80,0:03:33.47,DEFAULT,,0,0,0,,{\kf41}No{\kf41} one{\kf41} e{\kf41}ven{\kf41} cared{\kf41} a{\kf41}bout{\kf41} my{\kf54} name
-Dialogue: 0,0:03:33.91,0:03:35.49,DEFAULT,,0,0,0,,{\kf41}Yeah,{\kf41} you{\kf41} keep{\kf41} your{\kf50} friends,{\kf41} 'til{\kf41} the{\kf50} end
-Dialogue: 0,0:03:35.66,0:03:36.54,DEFAULT,,0,0,0,,{\kf41}Let{\kf41} 'em{\kf41} drag{\kf41} you{\kf50} down
-Dialogue: 0,0:03:36.71,0:03:38.82,DEFAULT,,0,0,0,,{\kf41}Let{\kf41} 'em{\kf50} all{\kf41} bow{\kf41} to{\kf45} that{\kf41} beau{\kf41}ti{\kf41}ful{\kf50} crown
-Dialogue: 0,0:03:39.00,0:03:40.27,DEFAULT,,0,0,0,,{\kf41}That{\kf41} real{\kf41}ly{\kf41} should{\kf41} have{\kf41} been{\kf54} mine
-Dialogue: 0,0:03:40.62,0:03:41.80,DEFAULT,,0,0,0,,{\kf50}Nah,{\kf41} things{\kf41} will{\kf41} ne{\kf41}ver{\kf50} change
-Dialogue: 0,0:03:42.15,0:03:44.61,DEFAULT,,0,0,0,,{\kf41}You{\kf41} stole{\kf41} a{\kf41}way{\kf41} my{\kf41} life,{\kf41} and{\kf41} I{\kf41} will{\kf41} ne{\kf41}ver{\kf41} be{\kf41} the{\kf50} same
-Dialogue: 0,0:03:44.78,0:03:46.41,DEFAULT,,0,0,0,,{\kf54}And{\kf159} now
-Dialogue: 0,0:03:46.89,0:03:49.96,DEFAULT,,0,0,0,,{\kf54}It's{\kf63} all{\kf85} o{\kf85}ver{\kf124} now
-Dialogue: 0,0:03:50.40,0:03:52.37,DEFAULT,,0,0,0,,{\kf50}The{\kf58} spar{\kf54}kle{\kf50} is{\kf85} gone
-Dialogue: 0,0:03:52.81,0:03:57.42,DEFAULT,,0,0,0,,{\kf58}See{\kf76} me{\kf63} shim{\kf58}mer{\kf181} o{\kf137}-on
-Dialogue: 0,0:03:58.07,0:04:01.14,DEFAULT,,0,0,0,,{\kf58}It's{\kf63} all{\kf80} o{\kf85}ver{\kf120} now
-Dialogue: 0,0:04:01.63,0:04:03.60,DEFAULT,,0,0,0,,{\kf50}The{\kf54} spar{\kf54}kle{\kf50} is{\kf89} gone
-Dialogue: 0,0:04:04.04,0:04:08.73,DEFAULT,,0,0,0,,{\kf58}See{\kf80} me{\kf58} shim{\kf58}mer{\kf322} on
-Dialogue: 0,0:04:09.35,0:04:12.37,DEFAULT,,0,0,0,,{\kf54}It's{\kf63} all{\kf85} o{\kf85}ver{\kf120} now
-Dialogue: 0,0:04:12.85,0:04:14.83,DEFAULT,,0,0,0,,{\kf50}The{\kf58} spar{\kf54}kle{\kf50} is{\kf85} gone
-Dialogue: 0,0:04:15.22,0:04:19.87,DEFAULT,,0,0,0,,{\kf58}See{\kf76} me{\kf58} shim{\kf54}mer{\kf181} o{\kf133}-on
-Dialogue: 0,0:04:20.53,0:04:23.60,DEFAULT,,0,0,0,,{\kf58}It's{\kf58} all{\kf85} o{\kf85}ver{\kf120} now
-Dialogue: 0,0:04:24.08,0:04:26.06,DEFAULT,,0,0,0,,{\kf50}The{\kf54} spar{\kf54}kle{\kf50} is{\kf85} gone
-Dialogue: 0,0:04:26.54,0:04:30.88,DEFAULT,,0,0,0,,{\kf54}See{\kf80} me{\kf58} shim{\kf58}mer{\kf186} o{\kf115}-on
+Dialogue: 0,0:00:00.32,0:00:01.94,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf138} now
+Dialogue: 0,0:00:02.33,0:00:05.40,DEFAULT,,0,0,0,,{\r}{\kf26}It's{\kf36} all{\kf62} o{\kf68}ver{\kf115} now
+Dialogue: 0,0:00:05.89,0:00:07.86,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf42} spar{\kf30}kle{\kf24} is{\kf77} gone
+Dialogue: 0,0:00:08.30,0:00:12.95,DEFAULT,,0,0,0,,{\r}{\kf32}See{\kf53} me{\kf37} shim{\kf26}mer{\kf185} o{\kf132}-on
+Dialogue: 0,0:00:13.52,0:00:16.59,DEFAULT,,0,0,0,,{\r}{\kf32}It's{\kf32} all{\kf70} o{\kf59}ver{\kf114} now
+Dialogue: 0,0:00:17.11,0:00:19.04,DEFAULT,,0,0,0,,{\r}{\kf26}The{\kf32} spar{\kf32}kle{\kf26} is{\kf77} gone
+Dialogue: 0,0:00:19.53,0:00:22.11,DEFAULT,,0,0,0,,{\r}{\kf29}See{\kf58} me{\kf35} shim{\kf35}mer{\kf102} on--
+Dialogue: 0,0:00:22.33,0:00:23.74,DEFAULT,,0,0,0,,{\r}{\kf16}Im{\kf16}ma{\kf16} tell{\kf16} you{\kf16} how{\kf16} it{\kf16} be{\kf28}gan
+Dialogue: 0,0:00:24.09,0:00:25.14,DEFAULT,,0,0,0,,{\r}{\kf15}Just{\kf15} so{\kf15} you{\kf15} un{\kf15}der{\kf30}stand
+Dialogue: 0,0:00:25.32,0:00:26.76,DEFAULT,,0,0,0,,{\r}{\kf17}This{\kf17} ain't{\kf17} at{\kf17} all{\kf17} what{\kf17} I{\kf17} had{\kf17} wan{\kf10}ted
+Dialogue: 0,0:00:26.89,0:00:28.12,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} it's{\kf15} not{\kf15} what{\kf15} I{\kf15} had{\kf33} planned
+Dialogue: 0,0:00:28.30,0:00:29.44,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf14} when{\kf14} I{\kf14} make{\kf14} de{\kf44}mands
+Dialogue: 0,0:00:29.70,0:00:30.89,DEFAULT,,0,0,0,,{\r}{\kf17}Your{\kf17} at{\kf17}ten{\kf17}tion{\kf17} I{\kf17} ex{\kf16}pect
+Dialogue: 0,0:00:31.11,0:00:32.29,DEFAULT,,0,0,0,,{\r}{\kf17}All{\kf17} I{\kf17} wan{\kf17}ted{\kf17} was{\kf17} res{\kf16}pect
+Dialogue: 0,0:00:32.51,0:00:33.69,DEFAULT,,0,0,0,,{\r}{\kf16}But{\kf16} I{\kf16} just{\kf16} could{\kf16}n't{\kf16} con{\kf22}nect
+Dialogue: 0,0:00:33.91,0:00:35.18,DEFAULT,,0,0,0,,{\r}{\kf17}With{\kf17} the{\kf17} one{\kf17} who{\kf17} said{\kf17} she'd{\kf17} give{\kf10} me
+Dialogue: 0,0:00:35.32,0:00:36.63,DEFAULT,,0,0,0,,{\r}{\kf16}Ev{\kf16}ery{\kf16}thing{\kf16} I{\kf16} e{\kf16}ver{\kf16} wan{\kf20}ted
+Dialogue: 0,0:00:36.89,0:00:38.30,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16}ma{\kf16}gine{\kf16} see{\kf16}in'{\kf16} all{\kf16} your{\kf28} dreams
+Dialogue: 0,0:00:38.47,0:00:39.39,DEFAULT,,0,0,0,,{\r}{\kf17}Waved{\kf17} and{\kf17} be{\kf17}ing{\kf17} flaun{\kf10}ted
+Dialogue: 0,0:00:39.53,0:00:40.49,DEFAULT,,0,0,0,,{\r}{\kf16}Right{\kf16} in{\kf16} front{\kf16} of{\kf16} your{\kf16} face
+Dialogue: 0,0:00:40.75,0:00:41.89,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf16} now{\kf16} you're{\kf16} called{\kf16} a{\kf16} dis{\kf18}grace
+Dialogue: 0,0:00:42.16,0:00:43.61,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf17} chase{\kf17} her{\kf17} down{\kf17} to{\kf17} get{\kf17} the{\kf17} crown{\kf10} and
+Dialogue: 0,0:00:43.74,0:00:44.83,DEFAULT,,0,0,0,,{\r}{\kf15}Take{\kf15} con{\kf15}trol{\kf15} of{\kf15} this{\kf35} place
+Dialogue: 0,0:00:45.18,0:00:47.29,DEFAULT,,0,0,0,,{\r}{\kf15}This{\kf15} ain't{\kf15} my{\kf30} home,{\kf15} I'm{\kf38} cold,{\kf15} bro{\kf15}ken,{\kf15} a{\kf38}lone
+Dialogue: 0,0:00:47.60,0:00:49.00,DEFAULT,,0,0,0,,{\r}{\kf16}No{\kf16} one{\kf16} real{\kf16}ly{\kf16} knows{\kf16} who{\kf16} I{\kf28} am
+Dialogue: 0,0:00:49.18,0:00:50.40,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf15} I{\kf38} can't{\kf15} start{\kf15} to{\kf25} show
+Dialogue: 0,0:00:50.58,0:00:51.63,DEFAULT,,0,0,0,,{\r}{\kf15}Who{\kf15} I've{\kf30} grown{\kf15} in{\kf30}to
+Dialogue: 0,0:00:51.81,0:00:53.39,DEFAULT,,0,0,0,,{\r}{\kf16}Some{\kf16}thing{\kf16} new,{\kf16} I{\kf16} slow{\kf16}ly{\kf16} re{\kf16}a{\kf30}lize
+Dialogue: 0,0:00:53.56,0:00:54.92,DEFAULT,,0,0,0,,{\r}{\kf16}I'm{\kf16} be{\kf16}com{\kf16}ing{\kf16} a{\kf32} mon{\kf24}ster,
+Dialogue: 0,0:00:55.14,0:00:56.54,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf16} now{\kf16} I{\kf16} fan{\kf16}ta{\kf16}size{\kf16} a{\kf28}bout
+Dialogue: 0,0:00:56.72,0:00:57.42,DEFAULT,,0,0,0,,{\r}{\kf14}Get{\kf14}ting{\kf14} her{\kf28} back
+Dialogue: 0,0:00:57.60,0:00:58.82,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf15} track{\kf15} her{\kf15} down,{\kf15} and{\kf15} it's{\kf33} whack
+Dialogue: 0,0:00:59.00,0:01:00.40,DEFAULT,,0,0,0,,{\r}{\kf15}Im{\kf15}ma{\kf37} find{\kf15} that{\kf15} new{\kf15}bie's{\kf28} head
+Dialogue: 0,0:01:00.58,0:01:01.63,DEFAULT,,0,0,0,,{\r}{\kf21}Smack{\kf14} it{\kf14} down{\kf14} 'til{\kf14} it{\kf28} cracks
+Dialogue: 0,0:01:01.98,0:01:03.21,DEFAULT,,0,0,0,,{\r}{\kf15}Man,{\kf15} I{\kf15} swear{\kf15} I'd{\kf15} take{\kf15} it{\kf33} back
+Dialogue: 0,0:01:03.39,0:01:04.48,DEFAULT,,0,0,0,,{\r}{\kf15}Take{\kf15} the{\kf15} life{\kf15} that{\kf15} was{\kf35} mine
+Dialogue: 0,0:01:04.79,0:01:06.02,DEFAULT,,0,0,0,,{\r}{\kf15}See{\kf15} me{\kf15} shim{\kf15}mer,{\kf15} see{\kf15} me{\kf33} shine
+Dialogue: 0,0:01:06.19,0:01:07.42,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf15} you're{\kf15} run{\kf15}ning{\kf15} out{\kf15} of{\kf33} time
+Dialogue: 0,0:01:07.60,0:01:09.26,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf147} now
+Dialogue: 0,0:01:09.66,0:01:12.73,DEFAULT,,0,0,0,,{\r}{\kf27}It's{\kf38} all{\kf65} o{\kf65}ver{\kf112} now
+Dialogue: 0,0:01:13.17,0:01:15.18,DEFAULT,,0,0,0,,{\r}{\kf25}The{\kf44} spar{\kf32}kle{\kf25} is{\kf76} gone
+Dialogue: 0,0:01:15.62,0:01:20.23,DEFAULT,,0,0,0,,{\r}{\kf32}See{\kf53} me{\kf37} shim{\kf32}mer{\kf185} o{\kf122}-on
+Dialogue: 0,0:01:20.89,0:01:23.96,DEFAULT,,0,0,0,,{\r}{\kf27}It's{\kf38} all{\kf70} o{\kf65}ver{\kf107} now
+Dialogue: 0,0:01:24.44,0:01:26.46,DEFAULT,,0,0,0,,{\r}{\kf25}The{\kf38} spar{\kf32}kle{\kf25} is{\kf82} gone
+Dialogue: 0,0:01:26.89,0:01:30.54,DEFAULT,,0,0,0,,{\r}{\kf34}See{\kf56} me{\kf28} shim{\kf28}mer{\kf151} o{\kf67}-on
+Dialogue: 0,0:01:30.75,0:01:33.12,DEFAULT,,0,0,0,,{\r}{\kf16}Now{\kf16} it{\kf16} seems{\kf16} your{\kf16} ears{\kf16} are{\kf16} o{\kf16}pen,{\kf16} now{\kf16} you'll{\kf16} look{\kf16} my{\kf45} way
+Dialogue: 0,0:01:33.39,0:01:35.93,DEFAULT,,0,0,0,,{\r}{\kf16}You{\kf16} send{\kf16} your{\kf16} pre{\kf16}cious{\kf16} pro{\kf16}té{\kf16}gé{\kf16} to{\kf16} come{\kf16} and{\kf16} save{\kf16} the{\kf46} day
+Dialogue: 0,0:01:36.19,0:01:38.74,DEFAULT,,0,0,0,,{\r}{\kf16}You{\kf16} ne{\kf16}ver{\kf16} tried{\kf16} to{\kf16} lis{\kf16}ten{\kf16} to{\kf16} a{\kf16} word{\kf16} I{\kf16} had{\kf16} to{\kf46} say
+Dialogue: 0,0:01:39.00,0:01:41.63,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf16} so{\kf16} for{\kf16}get{\kf16} it,{\kf16} it's{\kf16} o{\kf16}ver,{\kf16} ne{\kf16}ver{\kf16} gon{\kf16}na{\kf16} see{\kf16} me{\kf39} sway
+Dialogue: 0,0:01:41.81,0:01:44.39,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf44} stand{\kf15} firm{\kf15} on{\kf15} the{\kf44} ground,{\kf15} no{\kf15} sound{\kf15} from{\kf15} me{\kf15} com{\kf15}plain{\kf21}in'
+Dialogue: 0,0:01:44.79,0:01:47.25,DEFAULT,,0,0,0,,{\r}{\kf16}I'm{\kf16} the{\kf16} king{\kf16} of{\kf16} the{\kf40} storms,{\kf16} no{\kf16} one{\kf16} es{\kf16}capes{\kf16} my{\kf16} reign{\kf30}in'
+Dialogue: 0,0:01:47.42,0:01:49.44,DEFAULT,,0,0,0,,{\r}{\kf15}You're{\kf37} washed{\kf30} up,{\kf15} your{\kf15} friends{\kf15} are{\kf15} all{\kf15} a{\kf45}shamed
+Dialogue: 0,0:01:49.70,0:01:52.68,DEFAULT,,0,0,0,,{\r}{\kf16}'Cause{\kf16} your{\kf16} ma{\kf16}gic{\kf16} ain't{\kf16} no{\kf16}thin'{\kf16} next{\kf16} to{\kf16} what{\kf16} I'm{\kf16} con{\kf16}ju{\kf16}rin'{\kf16} to{\kf58}day
+Dialogue: 0,0:01:53.04,0:01:55.14,DEFAULT,,0,0,0,,{\r}{\kf14}Who{\kf14} would{\kf14}'a{\kf42} thought,{\kf14} you'd{\kf14} be{\kf42} caught,{\kf14} you'd{\kf14} be{\kf29} brought
+Dialogue: 0,0:01:55.32,0:01:57.25,DEFAULT,,0,0,0,,{\r}{\kf14}To{\kf14} your{\kf41} knees,{\kf14} now{\kf14} get{\kf41} shot,{\kf14} thanks{\kf14} a{\kf27} lot
+Dialogue: 0,0:01:57.42,0:01:59.70,DEFAULT,,0,0,0,,{\r}{\kf16}'Cause{\kf16} I{\kf49} fought{\kf16} for{\kf16} e{\kf16}very{\kf33}thing{\kf16} that{\kf16} I{\kf34} got
+Dialogue: 0,0:01:59.88,0:02:02.16,DEFAULT,,0,0,0,,{\r}{\kf15}Here{\kf15} you{\kf38} are,{\kf15} think{\kf15}ing{\kf15} you{\kf15} can{\kf15} in{\kf15}stan{\kf15}ta{\kf10}ne{\kf15}ous{\kf30}ly
+Dialogue: 0,0:02:02.33,0:02:03.74,DEFAULT,,0,0,0,,{\r}{\kf15}Take{\kf15} it{\kf15} right{\kf15} on{\kf15} the{\kf37} spot?{\kf28} Hah
+Dialogue: 0,0:02:04.44,0:02:06.76,DEFAULT,,0,0,0,,{\r}{\kf16}Im{\kf16}ma{\kf16} teach{\kf16} a{\kf16} les{\kf16}son{\kf16} that{\kf16} you{\kf16} wish{\kf16} you{\kf16} could{\kf16} for{\kf40}get
+Dialogue: 0,0:02:07.07,0:02:09.61,DEFAULT,,0,0,0,,{\r}{\kf16}You're{\kf16} gon{\kf16}na{\kf16} wish{\kf16} that{\kf16} you{\kf16} had{\kf16} ne{\kf16}ver{\kf16} been{\kf16} the{\kf16} teach{\kf16}er's{\kf46} pet
+Dialogue: 0,0:02:09.88,0:02:12.38,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} gave{\kf16} up{\kf16} all{\kf16} my{\kf39} friends,{\kf16} just{\kf16} to{\kf16} see{\kf16} how{\kf16} far{\kf16} I'd{\kf35} get
+Dialogue: 0,0:02:12.68,0:02:15.14,DEFAULT,,0,0,0,,{\r}{\kf16}They{\kf16} say{\kf16} it's{\kf16} lone{\kf16}ly{\kf16} at{\kf16} the{\kf33} top,{\kf16} I{\kf16} don't{\kf16} miss{\kf16} 'em{\kf37} yet
+Dialogue: 0,0:02:15.36,0:02:20.10,DEFAULT,,0,0,0,,{\r}{\kf162}Now,{\kf28} it's{\kf39} all{\kf67} o{\kf61}ver{\kf117} now
+Dialogue: 0,0:02:20.58,0:02:22.55,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf42} spar{\kf30}kle{\kf24} is{\kf77} gone
+Dialogue: 0,0:02:22.99,0:02:27.55,DEFAULT,,0,0,0,,{\r}{\kf33}See{\kf54} me{\kf27} shim{\kf27}mer{\kf195} o{\kf120}-on
+Dialogue: 0,0:02:28.25,0:02:31.37,DEFAULT,,0,0,0,,{\r}{\kf27}It's{\kf38} all{\kf65} o{\kf65}ver{\kf116} now
+Dialogue: 0,0:02:31.81,0:02:33.82,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf37} spar{\kf31}kle{\kf24} is{\kf86} gone
+Dialogue: 0,0:02:34.26,0:02:37.60,DEFAULT,,0,0,0,,{\r}{\kf34}See{\kf57} me{\kf29} shim{\kf29}mer{\kf149} o{\kf35}-on
+Dialogue: 0,0:02:37.77,0:02:40.27,DEFAULT,,0,0,0,,{\r}{\kf22}A{\kf22}ny{\kf22}thing{\kf22} you{\kf22} can{\kf22} do,{\kf22} I{\kf22} can{\kf22} do{\kf22} bet{\kf30}ter
+Dialogue: 0,0:02:40.58,0:02:43.08,DEFAULT,,0,0,0,,{\r}{\kf22}A{\kf22}ny{\kf22}thing{\kf22} you{\kf22} can{\kf22} do,{\kf22} I{\kf22} can{\kf22} do{\kf22} bet{\kf30}ter
+Dialogue: 0,0:02:43.39,0:02:45.89,DEFAULT,,0,0,0,,{\r}{\kf22}A{\kf22}ny{\kf22}thing{\kf22} you{\kf22} can{\kf22} do,{\kf22} I{\kf22} can{\kf22} do{\kf22} bet{\kf30}ter
+Dialogue: 0,0:02:46.19,0:02:48.69,DEFAULT,,0,0,0,,{\r}{\kf22}A{\kf22}ny{\kf22}thing{\kf22} you{\kf22} can{\kf22} do,{\kf22} I{\kf22} can{\kf22} do{\kf22} bet{\kf30}ter
+Dialogue: 0,0:02:49.00,0:02:51.50,DEFAULT,,0,0,0,,{\r}{\kf22}A{\kf22}ny{\kf22}thing{\kf22} you{\kf22} can{\kf22} do,{\kf22} I{\kf22} can{\kf22} do{\kf22} bet{\kf30}ter
+Dialogue: 0,0:02:51.81,0:02:54.31,DEFAULT,,0,0,0,,{\r}{\kf22}A{\kf22}ny{\kf22}thing{\kf22} you{\kf22} can{\kf22} do,{\kf22} I{\kf22} can{\kf22} do{\kf22} bet{\kf30}ter
+Dialogue: 0,0:02:54.61,0:02:57.11,DEFAULT,,0,0,0,,{\r}{\kf22}A{\kf22}ny{\kf22}thing{\kf22} you{\kf22} can{\kf22} do,{\kf22} I{\kf22} can{\kf22} do{\kf22} bet{\kf30}ter
+Dialogue: 0,0:02:57.42,0:02:59.92,DEFAULT,,0,0,0,,{\r}{\kf22}A{\kf22}ny{\kf22}thing{\kf22} you{\kf22} can{\kf22} do,{\kf22} I{\kf22} can{\kf22} do{\kf22} bet{\kf30}ter
+Dialogue: 0,0:03:00.27,0:03:05.05,DEFAULT,,0,0,0,,{\r}{\kf167}Now,{\kf29} it's{\kf35} all{\kf63} o{\kf63}ver{\kf121} now
+Dialogue: 0,0:03:05.54,0:03:07.47,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf36} spar{\kf30}kle{\kf24} is{\kf79} gone
+Dialogue: 0,0:03:07.95,0:03:12.51,DEFAULT,,0,0,0,,{\r}{\kf27}See{\kf55} me{\kf27} shim{\kf27}mer{\kf192} o{\kf128}-on
+Dialogue: 0,0:03:13.17,0:03:16.24,DEFAULT,,0,0,0,,{\r}{\kf27}It's{\kf38} all{\kf70} o{\kf65}ver{\kf107} now
+Dialogue: 0,0:03:16.72,0:03:18.74,DEFAULT,,0,0,0,,{\r}{\kf25}The{\kf38} spar{\kf32}kle{\kf25} is{\kf82} gone
+Dialogue: 0,0:03:19.18,0:03:22.07,DEFAULT,,0,0,0,,{\r}{\kf34}See{\kf57} me{\kf28} shim{\kf28}mer{\kf142} on--
+Dialogue: 0,0:03:22.33,0:03:23.47,DEFAULT,,0,0,0,,{\r}{\kf16}Now{\kf16} the{\kf16} bat{\kf16}tle{\kf16} is{\kf34} done,
+Dialogue: 0,0:03:23.74,0:03:24.88,DEFAULT,,0,0,0,,{\r}{\kf15}Al{\kf15}most{\kf15} thought{\kf15} that{\kf15} I{\kf39} won
+Dialogue: 0,0:03:25.14,0:03:26.24,DEFAULT,,0,0,0,,{\r}{\kf34}Hard{\kf34} fought,{\kf34} dragged{\kf10} out,
+Dialogue: 0,0:03:26.37,0:03:27.55,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf17} it{\kf17} was{\kf17} six{\kf17} a{\kf17}gainst{\kf16} one
+Dialogue: 0,0:03:27.95,0:03:29.18,DEFAULT,,0,0,0,,{\r}{\kf16}Now{\kf16} you{\kf16} say{\kf16} that{\kf16} we{\kf16} can{\kf27} change
+Dialogue: 0,0:03:29.35,0:03:30.58,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf15} you{\kf15} know{\kf15} what's{\kf15} real{\kf15}ly{\kf33} strange?
+Dialogue: 0,0:03:30.75,0:03:31.59,DEFAULT,,0,0,0,,{\r}{\kf15}Be{\kf15}fore{\kf15} this{\kf15} hap{\kf23}pened,
+Dialogue: 0,0:03:31.81,0:03:33.47,DEFAULT,,0,0,0,,{\r}{\kf16}No{\kf16} one{\kf16} e{\kf16}ven{\kf16} cared{\kf16} a{\kf16}bout{\kf16} my{\kf39} name
+Dialogue: 0,0:03:33.91,0:03:35.49,DEFAULT,,0,0,0,,{\r}{\kf16}Yeah,{\kf16} you{\kf16} keep{\kf16} your{\kf32} friends,{\kf16} 'til{\kf16} the{\kf30} end
+Dialogue: 0,0:03:35.67,0:03:36.54,DEFAULT,,0,0,0,,{\r}{\kf15}Let{\kf15} 'em{\kf15} drag{\kf15} you{\kf28} down
+Dialogue: 0,0:03:36.72,0:03:38.82,DEFAULT,,0,0,0,,{\r}{\kf17}Let{\kf17} 'em{\kf34} all{\kf17} bow{\kf17} to{\kf25} that{\kf17} beau{\kf17}ti{\kf17}ful{\kf33} crown
+Dialogue: 0,0:03:39.00,0:03:40.27,DEFAULT,,0,0,0,,{\r}{\kf15}That{\kf15} real{\kf15}ly{\kf15} should{\kf15} have{\kf15} been{\kf37} mine
+Dialogue: 0,0:03:40.62,0:03:41.81,DEFAULT,,0,0,0,,{\r}{\kf30}Nah,{\kf15} things{\kf15} will{\kf15} ne{\kf15}ver{\kf28} change
+Dialogue: 0,0:03:42.16,0:03:44.61,DEFAULT,,0,0,0,,{\r}{\kf16}You{\kf16} stole{\kf16} a{\kf16}way{\kf16} my{\kf16} life,{\kf16} and{\kf16} I{\kf16} will{\kf16} ne{\kf16}ver{\kf16} be{\kf16} the{\kf38} same
+Dialogue: 0,0:03:44.79,0:03:46.41,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf138} now
+Dialogue: 0,0:03:46.89,0:03:49.97,DEFAULT,,0,0,0,,{\r}{\kf27}It's{\kf38} all{\kf65} o{\kf65}ver{\kf112} now
+Dialogue: 0,0:03:50.40,0:03:52.38,DEFAULT,,0,0,0,,{\r}{\kf25}The{\kf38} spar{\kf32}kle{\kf25} is{\kf77} gone
+Dialogue: 0,0:03:52.82,0:03:57.42,DEFAULT,,0,0,0,,{\r}{\kf32}See{\kf53} me{\kf37} shim{\kf32}mer{\kf180} o{\kf127}-on
+Dialogue: 0,0:03:58.08,0:04:01.15,DEFAULT,,0,0,0,,{\r}{\kf33}It's{\kf38} all{\kf60} o{\kf66}ver{\kf110} now
+Dialogue: 0,0:04:01.63,0:04:03.61,DEFAULT,,0,0,0,,{\r}{\kf25}The{\kf32} spar{\kf32}kle{\kf25} is{\kf83} gone
+Dialogue: 0,0:04:04.04,0:04:08.74,DEFAULT,,0,0,0,,{\r}{\kf30}See{\kf54} me{\kf30} shim{\kf30}mer{\kf325} on
+Dialogue: 0,0:04:09.35,0:04:12.38,DEFAULT,,0,0,0,,{\r}{\kf27}It's{\kf38} all{\kf65} o{\kf65}ver{\kf108} now
+Dialogue: 0,0:04:12.86,0:04:14.83,DEFAULT,,0,0,0,,{\r}{\kf25}The{\kf38} spar{\kf32}kle{\kf25} is{\kf77} gone
+Dialogue: 0,0:04:15.23,0:04:19.88,DEFAULT,,0,0,0,,{\r}{\kf33}See{\kf55} me{\kf33} shim{\kf28}mer{\kf188} o{\kf128}-on
+Dialogue: 0,0:04:20.54,0:04:23.61,DEFAULT,,0,0,0,,{\r}{\kf33}It's{\kf33} all{\kf66} o{\kf66}ver{\kf109} now
+Dialogue: 0,0:04:24.09,0:04:26.06,DEFAULT,,0,0,0,,{\r}{\kf26}The{\kf33} spar{\kf33}kle{\kf26} is{\kf79} gone
+Dialogue: 0,0:04:26.54,0:04:30.89,DEFAULT,,0,0,0,,{\r}{\kf26}See{\kf58} me{\kf32} shim{\kf32}mer{\kf185} o{\kf101}-on

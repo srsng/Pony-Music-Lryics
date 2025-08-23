@@ -1,44 +1,51 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: The Perfect Stallion
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.86,0:00:06.82,DEFAULT,,0,0,0,,{\kf25}Chee{\kf19}ri{\kf19}lee{\kf19} is{\kf43} sweet{\kf25} and{\kf103} kind
-Dialogue: 0,0:00:07.31,0:00:10.57,DEFAULT,,0,0,0,,{\kf19}She's{\kf13} the{\kf31} best{\kf13} tea{\kf19}cher{\kf31} we{\kf43} could{\kf19} hope{\kf61} for
-Dialogue: 0,0:00:10.94,0:00:14.75,DEFAULT,,0,0,0,,{\kf19}The{\kf13} per{\kf19}fect{\kf25} sta{\kf13}lli{\kf19}on{\kf13} you{\kf25} and{\kf31} I{\kf31} must{\kf115} find
-Dialogue: 0,0:00:15.47,0:00:20.98,DEFAULT,,0,0,0,,{\kf19}One{\kf19} to{\kf19} rea{\kf19}lly{\kf43} make{\kf37} her{\kf79} heart{\kf55} so{\kf37}-o{\kf158}ar
-Dialogue: 0,0:00:21.34,0:00:23.64,DEFAULT,,0,0,0,,{\kf115}But...{\kf25} This{\kf13} one's{\kf19} too{\kf37} young
-Dialogue: 0,0:00:24.06,0:00:25.69,DEFAULT,,0,0,0,,{\kf19}This{\kf31} one's{\kf37} too{\kf49} old
-Dialogue: 0,0:00:26.48,0:00:29.63,DEFAULT,,0,0,0,,{\kf13}He{\kf25} clear{\kf19}ly{\kf37} has{\kf31} a{\kf25} te{\kf19}rri{\kf31}ble{\kf55} cold
-Dialogue: 0,0:00:30.35,0:00:31.50,DEFAULT,,0,0,0,,{\kf13}This{\kf25} guy's{\kf13} too{\kf25} sil{\kf19}ly
-Dialogue: 0,0:00:31.80,0:00:33.38,DEFAULT,,0,0,0,,{\kf13}He's{\kf19} way{\kf19} too{\kf31} up{\kf43}tight
-Dialogue: 0,0:00:34.65,0:00:36.46,DEFAULT,,0,0,0,,{\kf19}Well{\kf19} no{\kf19}thing's{\kf19} wrong{\kf19} with{\kf19} this{\kf31} one
-Dialogue: 0,0:00:36.58,0:00:39.30,DEFAULT,,0,0,0,,{\kf13}He{\kf49} seems{\kf43} al{\kf146}right
-Dialogue: 0,0:00:39.42,0:00:41.24,DEFAULT,,0,0,0,,{\kf25}His{\kf67} girlfriend{\kf25} sure{\kf31} thinks{\kf31} so.
-Dialogue: 0,0:00:41.24,0:00:42.15,DEFAULT,,0,0,0,,{\kf13}How{\kf19} 'bout{\kf13} this{\kf25} one?
-Dialogue: 0,0:00:42.39,0:00:44.08,DEFAULT,,0,0,0,,{\kf19}He's{\kf31} much{\kf31} too{\kf25} fla{\kf25}shy
-Dialogue: 0,0:00:45.05,0:00:45.90,DEFAULT,,0,0,0,,{\kf13}He{\kf25} might{\kf37} do
-Dialogue: 0,0:00:46.02,0:00:48.26,DEFAULT,,0,0,0,,{\kf19}If{\kf19} he{\kf31} weren't {\kf25}so{\kf37} spla{\kf55}shy
-Dialogue: 0,0:00:49.10,0:00:50.80,DEFAULT,,0,0,0,,{\kf19}Too{\kf49} short,{\kf19}too{\kf43} tall
-Dialogue: 0,0:00:51.04,0:00:52.85,DEFAULT,,0,0,0,,{\kf19}Too{\kf43} clean,{\kf31}too{\kf31} smel{\kf31}ly
-Dialogue: 0,0:00:52.97,0:00:58.42,DEFAULT,,0,0,0,,{\kf19}He's{\kf43} strange{\kf25}ly{\kf19} ob{\kf37}sessed{\kf31} with{\kf49} tubs{\kf37} of{\kf43} je{\kf182}lly
-Dialogue: 0,0:00:58.54,0:00:59.51,DEFAULT,,0,0,0,,{\kf97}*sigh*
-Dialogue: 0,0:01:00.05,0:01:02.95,DEFAULT,,0,0,0,,{\kf13}I{\kf25} don't{\kf19} think{\kf19} that{\kf37} we're{\kf31} mis{\kf19}ta{\kf79}ken
-Dialogue: 0,0:01:03.50,0:01:07.01,DEFAULT,,0,0,0,,{\kf19}It{\kf31} seems{\kf19} all{\kf19} the{\kf19} good{\kf55} ones{\kf19} are{\kf13} ta{\kf97}ken
-Dialogue: 0,0:01:07.61,0:01:09.43,DEFAULT,,0,0,0,,{\kf13}I{\kf19} rea{\kf19}lly{\kf19} feel{\kf19} that{\kf19} at{\kf19} this{\kf19} rate
-Dialogue: 0,0:01:09.55,0:01:11.30,DEFAULT,,0,0,0,,{\kf13}We'll{\kf19} ne{\kf19}ver{\kf19} find{\kf19} the{\kf19} per{\kf19}fect{\kf13} date
-Dialogue: 0,0:01:11.48,0:01:13.42,DEFAULT,,0,0,0,,{\kf13}Don't{\kf19} wan{\kf19}na{\kf19} quit{\kf19} and{\kf13} give{\kf19} up{\kf37} hope
-Dialogue: 0,0:01:13.78,0:01:14.81,DEFAULT,,0,0,0,,{\kf19}Doing{\kf31} anything{\kf43} special
-Dialogue: 0,0:01:14.87,0:01:16.02,DEFAULT,,0,0,0,,{\kf13}For{\kf31} Hearts{\kf13} and{\kf25} Hooves{\kf31} Day?
-Dialogue: 0,0:01:16.26,0:01:18.20,DEFAULT,,0,0,0,,{\kf13} Oh {\kf25}please{\kf13} oh{\kf31} please{\kf13} oh{\kf31} please{\kf31} say
-Dialogue: 0,0:01:18.32,0:01:18.74,DEFAULT,,0,0,0,,{\kf43}Nope.
-Dialogue: 0,0:01:20.07,0:01:22.91,DEFAULT,,0,0,0,,{\kf19}We{\kf25} did{\kf13} it{\kf25} girls,{\kf13} we've{\kf37} found{\kf37} the{\kf67} one
-Dialogue: 0,0:01:23.82,0:01:27.33,DEFAULT,,0,0,0,,{\kf13}Who{\kf13} will{\kf25} send{\kf13} our{\kf19} tea{\kf19}cher's{\kf31} heart{\kf25} a{\kf25}flu{\kf91}tter
-Dialogue: 0,0:01:27.87,0:01:29.75,DEFAULT,,0,0,0,,{\kf13}Wait{\kf13} a{\kf37} minute,{\kf19} let{\kf13} me{\kf13} get{\kf13} this{\kf49} straight.
-Dialogue: 0,0:01:29.75,0:01:31.44,DEFAULT,,0,0,0,,{\kf7}Are{\kf13} you{\kf31} talkin'{\kf13} 'bout{\kf13} my{\kf61} brother?
+Dialogue: 0,0:00:03.86,0:00:06.83,DEFAULT,,0,0,0,,{\r}{\kf29}Chee{\kf22}ri{\kf22}lee{\kf22} is{\kf51} sweet{\kf29} and{\kf121} kind
+Dialogue: 0,0:00:07.31,0:00:10.58,DEFAULT,,0,0,0,,{\r}{\kf25}She's{\kf16} the{\kf41} best{\kf16} tea{\kf25}cher{\kf41} we{\kf57} could{\kf25} hope{\kf81} for
+Dialogue: 0,0:00:10.94,0:00:14.75,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf15} per{\kf22}fect{\kf29} sta{\kf15}lli{\kf22}on{\kf15} you{\kf29} and{\kf37} I{\kf37} must{\kf138} find
+Dialogue: 0,0:00:15.48,0:00:20.98,DEFAULT,,0,0,0,,{\r}{\kf21}One{\kf21} to{\kf21} rea{\kf21}lly{\kf49} make{\kf42} her{\kf91} heart{\kf63} so{\kf42}-o{\kf179}ar
+Dialogue: 0,0:00:21.34,0:00:23.64,DEFAULT,,0,0,0,,{\r}{\kf129}But...{\kf27} This{\kf14} one's{\kf20} too{\kf40} young
+Dialogue: 0,0:00:24.07,0:00:25.70,DEFAULT,,0,0,0,,{\r}{\kf22}This{\kf37} one's{\kf44} too{\kf60} old
+Dialogue: 0,0:00:26.49,0:00:29.63,DEFAULT,,0,0,0,,{\r}{\kf15}He{\kf31} clear{\kf23}ly{\kf46} has{\kf38} a{\kf31} te{\kf23}rri{\kf38}ble{\kf70} cold
+Dialogue: 0,0:00:30.36,0:00:31.51,DEFAULT,,0,0,0,,{\r}{\kf15}This{\kf31} guy's{\kf15} too{\kf31} sil{\kf23}ly
+Dialogue: 0,0:00:31.81,0:00:33.38,DEFAULT,,0,0,0,,{\r}{\kf16}He's{\kf24} way{\kf24} too{\kf39} up{\kf54}tight
+Dialogue: 0,0:00:34.65,0:00:36.47,DEFAULT,,0,0,0,,{\r}{\kf24}Well{\kf24} no{\kf24}thing's{\kf24} wrong{\kf24} with{\kf24} this{\kf37} one
+Dialogue: 0,0:00:36.59,0:00:39.31,DEFAULT,,0,0,0,,{\r}{\kf13}He{\kf53} seems{\kf46} al{\kf160}right
+Dialogue: 0,0:00:39.43,0:00:41.24,DEFAULT,,0,0,0,,{\r}{\kf25}His{\kf69} girlfriend{\kf25} sure{\kf31} thinks{\kf31} so.
+Dialogue: 0,0:00:41.24,0:00:42.15,DEFAULT,,0,0,0,,{\r}{\kf17}How{\kf25} 'bout{\kf17} this{\kf32} one?
+Dialogue: 0,0:00:42.39,0:00:44.09,DEFAULT,,0,0,0,,{\r}{\kf24}He's{\kf40} much{\kf40} too{\kf32} fla{\kf33}shy
+Dialogue: 0,0:00:45.06,0:00:45.90,DEFAULT,,0,0,0,,{\r}{\kf14}He{\kf28} might{\kf43} do
+Dialogue: 0,0:00:46.02,0:00:48.26,DEFAULT,,0,0,0,,{\r}{\kf22}If{\kf22} he{\kf37} weren't{\kf30}so{\kf45} spla{\kf68}shy
+Dialogue: 0,0:00:49.11,0:00:50.80,DEFAULT,,0,0,0,,{\r}{\kf24}Too{\kf64} short,{\kf24}too{\kf57} tall
+Dialogue: 0,0:00:51.04,0:00:52.86,DEFAULT,,0,0,0,,{\r}{\kf22}Too{\kf51} clean,{\kf36}too{\kf36} smel{\kf36}ly
+Dialogue: 0,0:00:52.98,0:00:58.42,DEFAULT,,0,0,0,,{\r}{\kf21}He's{\kf48} strange{\kf28}ly{\kf21} ob{\kf41}sessed{\kf34} with{\kf55} tubs{\kf41} of{\kf48} je{\kf207}lly
+Dialogue: 0,0:00:58.54,0:00:59.51,DEFAULT,,0,0,0,,{\r}{\kf97}*sigh*
+Dialogue: 0,0:01:00.06,0:01:02.96,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf30} don't{\kf22} think{\kf22} that{\kf45} we're{\kf37} mis{\kf22}ta{\kf97}ken
+Dialogue: 0,0:01:03.50,0:01:07.01,DEFAULT,,0,0,0,,{\r}{\kf22}It{\kf37} seems{\kf22} all{\kf22} the{\kf22} good{\kf67} ones{\kf22} are{\kf15} ta{\kf122}ken
+Dialogue: 0,0:01:07.62,0:01:09.43,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf24} rea{\kf24}lly{\kf24} feel{\kf24} that{\kf24} at{\kf24} this{\kf21} rate
+Dialogue: 0,0:01:09.55,0:01:11.31,DEFAULT,,0,0,0,,{\r}{\kf16}We'll{\kf24} ne{\kf24}ver{\kf24} find{\kf24} the{\kf24} per{\kf24}fect{\kf15} date
+Dialogue: 0,0:01:11.49,0:01:13.42,DEFAULT,,0,0,0,,{\r}{\kf16}Don't{\kf23} wan{\kf23}na{\kf23} quit{\kf23} and{\kf16} give{\kf23} up{\kf47} hope
+Dialogue: 0,0:01:13.79,0:01:14.81,DEFAULT,,0,0,0,,{\r}{\kf21}Doing{\kf34} anything{\kf48} special
+Dialogue: 0,0:01:14.87,0:01:16.02,DEFAULT,,0,0,0,,{\r}{\kf13}For{\kf32} Hearts{\kf13} and{\kf26} Hooves{\kf31} Day?
+Dialogue: 0,0:01:16.27,0:01:18.20,DEFAULT,,0,0,0,,{\r}{\kf16} Oh{\kf31}please{\kf16} oh{\kf39} please{\kf16} oh{\kf39} please{\kf37} say
+Dialogue: 0,0:01:18.32,0:01:18.75,DEFAULT,,0,0,0,,{\r}{\kf42}Nope.
+Dialogue: 0,0:01:20.08,0:01:22.92,DEFAULT,,0,0,0,,{\r}{\kf22}We{\kf30} did{\kf15} it{\kf30} girls,{\kf15} we've{\kf45} found{\kf45} the{\kf82} one
+Dialogue: 0,0:01:23.83,0:01:27.34,DEFAULT,,0,0,0,,{\r}{\kf16}Who{\kf16} will{\kf32} send{\kf16} our{\kf24} tea{\kf24}cher's{\kf40} heart{\kf32} a{\kf32}flu{\kf119}tter
+Dialogue: 0,0:01:27.88,0:01:29.75,DEFAULT,,0,0,0,,{\r}{\kf14}Wait{\kf14} a{\kf42} minute,{\kf21} let{\kf14} me{\kf14} get{\kf14} this{\kf55} straight.
+Dialogue: 0,0:01:29.75,0:01:31.45,DEFAULT,,0,0,0,,{\r}{\kf10}Are{\kf15} you{\kf38} talkin'{\kf15} 'bout{\kf15} my{\kf76} brother?

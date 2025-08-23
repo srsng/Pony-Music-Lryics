@@ -1,60 +1,67 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: A Friend for Life
+Artist: Equestria Girls
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.05,0:00:02.03,DEFAULT,,0,0,0,,{\kf17}A{\kf38} friend{\kf27} for{\kf97} life
-Dialogue: 0,0:00:02.41,0:00:05.69,DEFAULT,,0,0,0,,{\kf22}That's{\kf43} what{\kf17} you{\kf11} are{\kf11} to{\kf178} me
-Dialogue: 0,0:00:06.87,0:00:08.96,DEFAULT,,0,0,0,,{\kf17}A{\kf38} friend{\kf17} fo{\kf17}-or{\kf43} li{\kf49}-ife
-Dialogue: 0,0:00:09.28,0:00:13.10,DEFAULT,,0,0,0,,{\kf22}That's{\kf49} what{\kf17} you{\kf11} are{\kf17} to{\kf231} me
-Dialogue: 0,0:00:14.22,0:00:15.62,DEFAULT,,0,0,0,,{\kf17}I{\kf22} could{\kf17}n't{\kf33} see{\kf22} what{\kf11} was
-Dialogue: 0,0:00:15.78,0:00:17.18,DEFAULT,,0,0,0,,{\kf27}Right{\kf22} there{\kf11} in{\kf22} front{\kf6} of{\kf22} me
-Dialogue: 0,0:00:17.39,0:00:20.83,DEFAULT,,0,0,0,,{\kf43}Turned{\kf27} my{\kf38} back,{\kf17} got{\kf11} my{\kf38} mind{\kf17} off{\kf49} track,{\kf43} yeah
-Dialogue: 0,0:00:21.10,0:00:22.01,DEFAULT,,0,0,0,,{\kf11}You{\kf17} saw{\kf11} a{\kf33} world
-Dialogue: 0,0:00:22.17,0:00:24.05,DEFAULT,,0,0,0,,{\kf17}That{\kf11} was{\kf22} some{\kf17}thing{\kf17} new{\kf17} en{\kf22}ti{\kf17}re{\kf22}ly
-Dialogue: 0,0:00:24.48,0:00:25.50,DEFAULT,,0,0,0,,{\kf27}Helped{\kf11} me{\kf11} to{\kf33} see
-Dialogue: 0,0:00:25.66,0:00:28.18,DEFAULT,,0,0,0,,{\kf11}All{\kf11} the{\kf27} pos{\kf38}si{\kf22}bi{\kf17}li{\kf27}ti{\kf65}-ies
-Dialogue: 0,0:00:28.40,0:00:31.30,DEFAULT,,0,0,0,,{\kf43}Oh,{\kf17} like{\kf11} a{\kf43} star{\kf17} in{\kf11} the{\kf43} day{\kf60}light
-Dialogue: 0,0:00:31.83,0:00:34.89,DEFAULT,,0,0,0,,{\kf49}Or{\kf27} like{\kf11} a{\kf43} dia{\kf22}mond{\kf49} at{\kf76} night
-Dialogue: 0,0:00:36.08,0:00:37.69,DEFAULT,,0,0,0,,{\kf11}Your{\kf43} light{\kf33} was{\kf22} hid{\kf27}den
-Dialogue: 0,0:00:38.01,0:00:40.91,DEFAULT,,0,0,0,,{\kf38}Fro{\kf27}-om{\kf27} my{\kf92} si{\kf22}-i{\kf54}-ight
-Dialogue: 0,0:00:41.23,0:00:43.27,DEFAULT,,0,0,0,,{\kf11}A{\kf33} friend{\kf27} for{\kf103} life
-Dialogue: 0,0:00:43.59,0:00:47.03,DEFAULT,,0,0,0,,{\kf22}That's{\kf49} what{\kf22} you{\kf11} are{\kf11} to{\kf194} me
-Dialogue: 0,0:00:48.10,0:00:50.14,DEFAULT,,0,0,0,,{\kf11}A{\kf38} friend{\kf17} fo{\kf17}-or{\kf43} li{\kf49}-ife
-Dialogue: 0,0:00:50.41,0:00:53.74,DEFAULT,,0,0,0,,{\kf22}That's{\kf49} what{\kf22} you{\kf22} are{\kf6} to{\kf183} me
-Dialogue: 0,0:00:55.62,0:00:57.82,DEFAULT,,0,0,0,,{\kf11}Eve{\kf17}ry{\kf33} friend{\kf22}ship{\kf17} is{\kf38} tes{\kf54}ted
-Dialogue: 0,0:00:58.30,0:00:59.70,DEFAULT,,0,0,0,,{\kf11}You{\kf38} say{\kf27} sin{\kf33}cere
-Dialogue: 0,0:00:59.86,0:01:01.96,DEFAULT,,0,0,0,,{\kf22}But{\kf11} it's{\kf38} all{\kf17} un{\kf27}clear{\kf38} now
-Dialogue: 0,0:01:02.22,0:01:03.35,DEFAULT,,0,0,0,,{\kf17}But{\kf22} with{\kf11} a{\kf49} word
-Dialogue: 0,0:01:03.73,0:01:05.18,DEFAULT,,0,0,0,,{\kf22}Eve{\kf17}ry{\kf27}thing{\kf43} chan{\kf11}ges
-Dialogue: 0,0:01:05.34,0:01:06.73,DEFAULT,,0,0,0,,{\kf11}And{\kf33} just{\kf33} like{\kf43} that
-Dialogue: 0,0:01:07.11,0:01:08.94,DEFAULT,,0,0,0,,{\kf27}You{\kf17} and{\kf17} I{\kf11} are{\kf33} right{\kf49} back
-Dialogue: 0,0:01:09.53,0:01:12.43,DEFAULT,,0,0,0,,{\kf49}Oh,{\kf22} like{\kf11} a{\kf49} star{\kf11} in{\kf17} the{\kf38} day{\kf54}light
-Dialogue: 0,0:01:13.02,0:01:16.13,DEFAULT,,0,0,0,,{\kf43}Or{\kf17} like{\kf11} a{\kf43} dia{\kf17}mond{\kf38} at{\kf81} night
-Dialogue: 0,0:01:17.20,0:01:18.92,DEFAULT,,0,0,0,,{\kf11}The{\kf38} light{\kf27} will{\kf65} shine
-Dialogue: 0,0:01:19.19,0:01:22.04,DEFAULT,,0,0,0,,{\kf17}When{\kf11} the{\kf43} time{\kf27} is{\kf162} right
-Dialogue: 0,0:01:22.36,0:01:24.45,DEFAULT,,0,0,0,,{\kf11}A{\kf38} friend{\kf22} for{\kf103} life
-Dialogue: 0,0:01:24.72,0:01:27.89,DEFAULT,,0,0,0,,{\kf17}That's{\kf49} what{\kf27} you{\kf11} are{\kf11} to{\kf167} me
-Dialogue: 0,0:01:29.18,0:01:31.27,DEFAULT,,0,0,0,,{\kf17}A{\kf38} friend{\kf33} for{\kf49} li{\kf54}-ife
-Dialogue: 0,0:01:31.59,0:01:35.08,DEFAULT,,0,0,0,,{\kf17}That's{\kf49} what{\kf22} you{\kf17} are{\kf11} to{\kf199} me
-Dialogue: 0,0:01:36.75,0:01:39.11,DEFAULT,,0,0,0,,{\kf17}When{\kf17} I{\kf33} put{\kf38} my{\kf43} hand{\kf54} out
-Dialogue: 0,0:01:39.38,0:01:42.98,DEFAULT,,0,0,0,,{\kf11}And{\kf17} I{\kf22} thought{\kf17} I{\kf65} would{\kf194} fall
-Dialogue: 0,0:01:43.35,0:01:45.71,DEFAULT,,0,0,0,,{\kf17}You{\kf33} knew{\kf33} what{\kf27} I{\kf43} nee{\kf43}ded
-Dialogue: 0,0:01:46.14,0:01:47.70,DEFAULT,,0,0,0,,{\kf22}And{\kf17} you{\kf17} came{\kf17} a{\kf70}round
-Dialogue: 0,0:01:47.86,0:01:49.63,DEFAULT,,0,0,0,,{\kf11}To{\kf22} fix{\kf17} it{\kf108} all
-Dialogue: 0,0:01:49.85,0:01:51.84,DEFAULT,,0,0,0,,{\kf17}A{\kf27} friend{\kf27} for{\kf103} life
-Dialogue: 0,0:01:52.10,0:01:55.33,DEFAULT,,0,0,0,,{\kf22}That's{\kf54} what{\kf22} you{\kf11} are{\kf11} to{\kf167} me
-Dialogue: 0,0:01:56.61,0:01:58.65,DEFAULT,,0,0,0,,{\kf17}A{\kf33} friend{\kf33} for{\kf43} li{\kf49}-ife
-Dialogue: 0,0:01:58.98,0:02:02.25,DEFAULT,,0,0,0,,{\kf22}That's{\kf49} what{\kf22} you{\kf11} are{\kf11} to{\kf178} me
-Dialogue: 0,0:02:03.54,0:02:05.69,DEFAULT,,0,0,0,,{\kf11}A{\kf33} friend{\kf22} for{\kf60} li{\kf49}-ife
-Dialogue: 0,0:02:05.90,0:02:07.73,DEFAULT,,0,0,0,,{\kf17}That's{\kf49} what{\kf27} you{\kf11} are{\kf11} to{\kf38} me
-Dialogue: 0,0:02:08.05,0:02:09.55,DEFAULT,,0,0,0,,{\kf38}Oh{\kf27}-wu{\kf81}-oh
-Dialogue: 0,0:02:10.36,0:02:12.51,DEFAULT,,0,0,0,,{\kf17}A{\kf33} friend{\kf22} for{\kf54} li{\kf49}-ife
-Dialogue: 0,0:02:12.72,0:02:15.73,DEFAULT,,0,0,0,,{\kf22}That's{\kf49} what{\kf17} you{\kf11} are{\kf11} to{\kf17} me{\kf81}-e{\kf43}-e
-Dialogue: 0,0:02:19.59,0:02:23.19,DEFAULT,,0,0,0,,{\kf17}That's{\kf49} what{\kf27} you{\kf11} are{\kf11} to{\kf221} me
+Dialogue: 0,0:00:00.05,0:00:02.04,DEFAULT,,0,0,0,,{\r}{\kf18}A{\kf42} friend{\kf30} for{\kf109} life
+Dialogue: 0,0:00:02.42,0:00:05.69,DEFAULT,,0,0,0,,{\r}{\kf25}That's{\kf50} what{\kf19} you{\kf13} are{\kf13} to{\kf208} me
+Dialogue: 0,0:00:06.87,0:00:08.97,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf44} friend{\kf19} fo{\kf19}-or{\kf51} li{\kf57}-ife
+Dialogue: 0,0:00:09.29,0:00:13.10,DEFAULT,,0,0,0,,{\r}{\kf24}That's{\kf54} what{\kf18} you{\kf12} are{\kf18} to{\kf255} me
+Dialogue: 0,0:00:14.23,0:00:15.62,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf25} could{\kf19}n't{\kf38} see{\kf25} what{\kf14} was
+Dialogue: 0,0:00:15.78,0:00:17.18,DEFAULT,,0,0,0,,{\r}{\kf35}Right{\kf28} there{\kf14} in{\kf28} front{\kf10} of{\kf25} me
+Dialogue: 0,0:00:17.40,0:00:20.83,DEFAULT,,0,0,0,,{\r}{\kf53}Turned{\kf33} my{\kf46} back,{\kf20} got{\kf13} my{\kf46} mind{\kf20} off{\kf60} track,{\kf53} yeah
+Dialogue: 0,0:00:21.10,0:00:22.01,DEFAULT,,0,0,0,,{\r}{\kf14}You{\kf21} saw{\kf14} a{\kf42} world
+Dialogue: 0,0:00:22.17,0:00:24.05,DEFAULT,,0,0,0,,{\r}{\kf19}That{\kf13} was{\kf26} some{\kf19}thing{\kf19} new{\kf19} en{\kf26}ti{\kf19}re{\kf28}ly
+Dialogue: 0,0:00:24.48,0:00:25.50,DEFAULT,,0,0,0,,{\r}{\kf34}Helped{\kf14} me{\kf14} to{\kf40} see
+Dialogue: 0,0:00:25.66,0:00:28.19,DEFAULT,,0,0,0,,{\r}{\kf13}All{\kf13} the{\kf32} pos{\kf44}si{\kf25}bi{\kf19}li{\kf32}ti{\kf74}-ies
+Dialogue: 0,0:00:28.40,0:00:31.30,DEFAULT,,0,0,0,,{\r}{\kf52}Oh,{\kf19} like{\kf13} a{\kf52} star{\kf19} in{\kf13} the{\kf52} day{\kf70}light
+Dialogue: 0,0:00:31.84,0:00:34.90,DEFAULT,,0,0,0,,{\r}{\kf54}Or{\kf30} like{\kf12} a{\kf48} dia{\kf24}mond{\kf54} at{\kf84} night
+Dialogue: 0,0:00:36.08,0:00:37.69,DEFAULT,,0,0,0,,{\r}{\kf13}Your{\kf52} light{\kf39} was{\kf26} hid{\kf31}den
+Dialogue: 0,0:00:38.01,0:00:40.91,DEFAULT,,0,0,0,,{\r}{\kf42}Fro{\kf30}-om{\kf30} my{\kf103} si{\kf24}-i{\kf61}-ight
+Dialogue: 0,0:00:41.23,0:00:43.28,DEFAULT,,0,0,0,,{\r}{\kf13}A{\kf38} friend{\kf32} for{\kf121} life
+Dialogue: 0,0:00:43.60,0:00:47.03,DEFAULT,,0,0,0,,{\r}{\kf24}That's{\kf54} what{\kf24} you{\kf12} are{\kf12} to{\kf218} me
+Dialogue: 0,0:00:48.11,0:00:50.15,DEFAULT,,0,0,0,,{\r}{\kf13}A{\kf45} friend{\kf19} fo{\kf19}-or{\kf51} li{\kf57}-ife
+Dialogue: 0,0:00:50.42,0:00:53.75,DEFAULT,,0,0,0,,{\r}{\kf24}That's{\kf54} what{\kf24} you{\kf24} are{\kf10} to{\kf197} me
+Dialogue: 0,0:00:55.62,0:00:57.83,DEFAULT,,0,0,0,,{\r}{\kf13}Eve{\kf19}ry{\kf38} friend{\kf25}ship{\kf19} is{\kf44} tes{\kf62}ted
+Dialogue: 0,0:00:58.31,0:00:59.71,DEFAULT,,0,0,0,,{\r}{\kf14}You{\kf49} say{\kf35} sin{\kf42}cere
+Dialogue: 0,0:00:59.87,0:01:01.96,DEFAULT,,0,0,0,,{\r}{\kf30}But{\kf15} it's{\kf52} all{\kf22} un{\kf37}clear{\kf53} now
+Dialogue: 0,0:01:02.23,0:01:03.36,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf25} with{\kf13} a{\kf56} word
+Dialogue: 0,0:01:03.73,0:01:05.18,DEFAULT,,0,0,0,,{\r}{\kf26}Eve{\kf20}ry{\kf33}thing{\kf53} chan{\kf13}ges
+Dialogue: 0,0:01:05.34,0:01:06.74,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf38} just{\kf38} like{\kf51} that
+Dialogue: 0,0:01:07.11,0:01:08.94,DEFAULT,,0,0,0,,{\r}{\kf33}You{\kf20} and{\kf20} I{\kf13} are{\kf39} right{\kf58} back
+Dialogue: 0,0:01:09.53,0:01:12.43,DEFAULT,,0,0,0,,{\r}{\kf57}Oh,{\kf25} like{\kf13} a{\kf57} star{\kf13} in{\kf19} the{\kf44} day{\kf62}light
+Dialogue: 0,0:01:13.02,0:01:16.13,DEFAULT,,0,0,0,,{\r}{\kf54}Or{\kf20} like{\kf14} a{\kf54} dia{\kf20}mond{\kf47} at{\kf102} night
+Dialogue: 0,0:01:17.21,0:01:18.93,DEFAULT,,0,0,0,,{\r}{\kf13}The{\kf46} light{\kf33} will{\kf80} shine
+Dialogue: 0,0:01:19.20,0:01:22.04,DEFAULT,,0,0,0,,{\r}{\kf18}When{\kf12} the{\kf48} time{\kf30} is{\kf177} right
+Dialogue: 0,0:01:22.36,0:01:24.46,DEFAULT,,0,0,0,,{\r}{\kf13}A{\kf46} friend{\kf26} for{\kf124} life
+Dialogue: 0,0:01:24.73,0:01:27.89,DEFAULT,,0,0,0,,{\r}{\kf18}That's{\kf55} what{\kf30} you{\kf12} are{\kf12} to{\kf190} me
+Dialogue: 0,0:01:29.18,0:01:31.28,DEFAULT,,0,0,0,,{\r}{\kf18}A{\kf42} friend{\kf36} for{\kf54} li{\kf59}-ife
+Dialogue: 0,0:01:31.60,0:01:35.09,DEFAULT,,0,0,0,,{\r}{\kf18}That's{\kf54} what{\kf24} you{\kf18} are{\kf12} to{\kf223} me
+Dialogue: 0,0:01:36.75,0:01:39.12,DEFAULT,,0,0,0,,{\r}{\kf19}When{\kf19} I{\kf38} put{\kf45} my{\kf51} hand{\kf64} out
+Dialogue: 0,0:01:39.38,0:01:42.98,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf18} I{\kf24} thought{\kf18} I{\kf72} would{\kf216} fall
+Dialogue: 0,0:01:43.36,0:01:45.72,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf39} knew{\kf39} what{\kf33} I{\kf52} nee{\kf53}ded
+Dialogue: 0,0:01:46.15,0:01:47.71,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf18} you{\kf18} came{\kf18} a{\kf78}round
+Dialogue: 0,0:01:47.87,0:01:49.64,DEFAULT,,0,0,0,,{\r}{\kf12}To{\kf24} fix{\kf18} it{\kf123} all
+Dialogue: 0,0:01:49.85,0:01:51.84,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf31} friend{\kf31} for{\kf118} life
+Dialogue: 0,0:01:52.11,0:01:55.33,DEFAULT,,0,0,0,,{\r}{\kf24}That's{\kf61} what{\kf24} you{\kf12} are{\kf12} to{\kf189} me
+Dialogue: 0,0:01:56.62,0:01:58.66,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf38} friend{\kf38} for{\kf51} li{\kf58}-ife
+Dialogue: 0,0:01:58.98,0:02:02.26,DEFAULT,,0,0,0,,{\r}{\kf24}That's{\kf55} what{\kf24} you{\kf12} are{\kf12} to{\kf201} me
+Dialogue: 0,0:02:03.55,0:02:05.69,DEFAULT,,0,0,0,,{\r}{\kf13}A{\kf40} friend{\kf27} for{\kf74} li{\kf61}-ife
+Dialogue: 0,0:02:05.91,0:02:07.73,DEFAULT,,0,0,0,,{\r}{\kf20}That's{\kf59} what{\kf33} you{\kf13} are{\kf13} to{\kf45} me
+Dialogue: 0,0:02:08.06,0:02:09.56,DEFAULT,,0,0,0,,{\r}{\kf39}Oh{\kf28}-wu{\kf83}-oh
+Dialogue: 0,0:02:10.36,0:02:12.51,DEFAULT,,0,0,0,,{\r}{\kf20}A{\kf40} friend{\kf27} for{\kf67} li{\kf61}-ife
+Dialogue: 0,0:02:12.73,0:02:15.73,DEFAULT,,0,0,0,,{\r}{\kf26}That's{\kf59} what{\kf20} you{\kf13} are{\kf13} to{\kf20} me{\kf98}-e{\kf52}-e
+Dialogue: 0,0:02:19.60,0:02:23.20,DEFAULT,,0,0,0,,{\r}{\kf17}That's{\kf52} what{\kf29} you{\kf12} are{\kf12} to{\kf238} me

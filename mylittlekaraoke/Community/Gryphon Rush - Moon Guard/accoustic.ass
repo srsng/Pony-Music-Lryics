@@ -1,47 +1,54 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Moon Guard (Accoustic)
+Artist: Gryphon Rush
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:24.48,0:00:26.73,DEFAULT,,0,0,0,,{\kf20}When{\kf20} the{\kf28} night{\kf28}mares{\kf20} come{\kf28} real
-Dialogue: 0,0:00:27.27,0:00:29.12,DEFAULT,,0,0,0,,{\kf12}E{\kf16}vil{\kf28} breaks{\kf31} all{\kf35} seals
-Dialogue: 0,0:00:29.90,0:00:32.06,DEFAULT,,0,0,0,,{\kf16}And{\kf12} lit{\kf12}tle{\kf16} fil{\kf16}lies{\kf28} are{\kf47} scared
-Dialogue: 0,0:00:35.39,0:00:37.59,DEFAULT,,0,0,0,,{\kf16}When{\kf20} the{\kf28} moon{\kf31} hides{\kf16} in{\kf35} clouds
-Dialogue: 0,0:00:38.05,0:00:40.30,DEFAULT,,0,0,0,,{\kf16}And{\kf20} souls{\kf28} are{\kf28} filled{\kf20} with{\kf31} doubts
-Dialogue: 0,0:00:40.84,0:00:43.08,DEFAULT,,0,0,0,,{\kf20}On{\kf16}ly{\kf28} we'll{\kf28} be{\kf16} pre{\kf35}pared
-Dialogue: 0,0:00:44.47,0:00:47.02,DEFAULT,,0,0,0,,{\kf20}We{\kf16} live{\kf24} to{\kf28} serve{\kf20} and{\kf12} to{\kf12} de{\kf31}fend
-Dialogue: 0,0:00:47.41,0:00:49.88,DEFAULT,,0,0,0,,{\kf16}And{\kf12} we{\kf20} will{\kf28} stand{\kf20} un{\kf20}til{\kf12} the{\kf31} end
-Dialogue: 0,0:00:50.70,0:00:53.98,DEFAULT,,0,0,0,,{\kf20}No{\kf16} mat{\kf24}ter{\kf20} how{\kf28} it{\kf20} could{\kf12} be{\kf39} hard
-Dialogue: 0,0:00:55.26,0:00:57.77,DEFAULT,,0,0,0,,{\kf16}And{\kf16} through{\kf20} the{\kf20} dark{\kf20}ness{\kf12} we{\kf16} will{\kf28} fight
-Dialogue: 0,0:00:58.16,0:01:00.75,DEFAULT,,0,0,0,,{\kf16}For{\kf43} our{\kf31} Prin{\kf16}cess{\kf16} of{\kf12} the{\kf39} Night
-Dialogue: 0,0:01:01.52,0:01:05.00,DEFAULT,,0,0,0,,{\kf20}We{\kf20} proud{\kf31}ly{\kf16} bear{\kf28} name{\kf24} of{\kf20} Moon{\kf43} Guard
-Dialogue: 0,0:01:10.84,0:01:13.08,DEFAULT,,0,0,0,,{\kf20}Blaz{\kf16}ing{\kf28} light{\kf28}ning,{\kf20} dark{\kf31} fire
-Dialogue: 0,0:01:13.51,0:01:15.75,DEFAULT,,0,0,0,,{\kf20}Dan{\kf16}gers,{\kf24} dead{\kf24}ly{\kf20} and{\kf31} dire
-Dialogue: 0,0:01:16.17,0:01:18.22,DEFAULT,,0,0,0,,{\kf20}But{\kf16} we{\kf35} will{\kf16} ne{\kf16}ver{\kf24} stop
-Dialogue: 0,0:01:21.62,0:01:23.75,DEFAULT,,0,0,0,,{\kf16}To{\kf12} pro{\kf31}tect{\kf16} our{\kf12} be{\kf24}loved
-Dialogue: 0,0:01:24.41,0:01:26.69,DEFAULT,,0,0,0,,{\kf12}Our{\kf16}~{\kf16} foals{\kf31}~{\kf20} and{\kf31} home
-Dialogue: 0,0:01:27.07,0:01:30.40,DEFAULT,,0,0,0,,{\kf16}We{\kf20} will{\kf24} fight{\kf20} un{\kf16}til{\kf24} last{\kf16} drop{\kf16} of{\kf24} blood
-Dialogue: 0,0:01:30.71,0:01:33.14,DEFAULT,,0,0,0,,{\kf16}We{\kf16} live{\kf16} to{\kf28} serve{\kf16} and{\kf12} to{\kf12} de{\kf28}fend
-Dialogue: 0,0:01:33.61,0:01:36.08,DEFAULT,,0,0,0,,{\kf16}And{\kf16} we{\kf16} will{\kf24} stand{\kf20} un{\kf20}til{\kf12} the{\kf31} end
-Dialogue: 0,0:01:36.93,0:01:40.34,DEFAULT,,0,0,0,,{\kf20}No{\kf16} mat{\kf24}ter{\kf16} how{\kf28} it{\kf20} could{\kf16} be{\kf39} hard
-Dialogue: 0,0:01:41.80,0:01:44.12,DEFAULT,,0,0,0,,{\kf16}And{\kf16} through{\kf16} the{\kf20} dark{\kf20}ness{\kf12} we{\kf12} will{\kf28} fight
-Dialogue: 0,0:01:44.51,0:01:47.06,DEFAULT,,0,0,0,,{\kf16}For{\kf35} our{\kf28} Prin{\kf20}cess{\kf20} of{\kf12} the{\kf35} Night
-Dialogue: 0,0:01:47.87,0:01:51.39,DEFAULT,,0,0,0,,{\kf20}We{\kf20} proud{\kf28}ly{\kf16} bear{\kf28} name{\kf24} of{\kf20} Moon{\kf39} Guard
-Dialogue: 0,0:03:01.10,0:03:03.42,DEFAULT,,0,0,0,,{\kf20}In{\kf16} dark{\kf20}est{\kf20} hour,{\kf16} in{\kf16} rough{\kf16}est{\kf24} fight
-Dialogue: 0,0:03:03.88,0:03:06.51,DEFAULT,,0,0,0,,{\kf20}We{\kf20} will{\kf28} stay{\kf16} lo{\kf20}yal{\kf24} by{\kf20} her{\kf35} side
-Dialogue: 0,0:03:07.20,0:03:10.84,DEFAULT,,0,0,0,,{\kf20}You'd{\kf16} bet{\kf24}ter{\kf16} be{\kf35}ware{\kf35} our{\kf16}~{\kf58} brood
-Dialogue: 0,0:03:11.88,0:03:14.20,DEFAULT,,0,0,0,,{\kf16}Be{\kf16}neath{\kf16} a{\kf20} full{\kf20} moon{\kf16} sil{\kf12}ver{\kf28} light
-Dialogue: 0,0:03:14.59,0:03:17.18,DEFAULT,,0,0,0,,{\kf20}For{\kf24} our{\kf24} Prin{\kf24}cess{\kf16} of{\kf12} the{\kf35} Night
-Dialogue: 0,0:03:18.11,0:03:21.31,DEFAULT,,0,0,0,,{\kf20}E{\kf20}lite{\kf28} guards{\kf16} pro{\kf31}tect{\kf20} qui{\kf16}e{\kf31}tude
-Dialogue: 0,0:03:22.94,0:03:25.26,DEFAULT,,0,0,0,,{\kf16}We{\kf16} live{\kf16} to{\kf28} serve{\kf16} and{\kf12} to{\kf12} de{\kf31}fend
-Dialogue: 0,0:03:25.64,0:03:28.16,DEFAULT,,0,0,0,,{\kf20}And{\kf16} we{\kf20} will{\kf31} stand{\kf20} un{\kf20}til{\kf12} the{\kf31} end
-Dialogue: 0,0:03:28.97,0:03:32.33,DEFAULT,,0,0,0,,{\kf20}No{\kf16} mat{\kf24}ter{\kf20} how{\kf28} it{\kf20} could{\kf12} be{\kf43} hard
-Dialogue: 0,0:03:33.69,0:03:36.01,DEFAULT,,0,0,0,,{\kf16}And{\kf16} through{\kf16} the{\kf20} dark{\kf16}ness{\kf12} we{\kf12} will{\kf28} fight
-Dialogue: 0,0:03:36.43,0:03:38.90,DEFAULT,,0,0,0,,{\kf16}For{\kf35} our{\kf28} Prin{\kf16}cess{\kf16} of{\kf12} the{\kf35} Night
-Dialogue: 0,0:03:39.83,0:03:43.62,DEFAULT,,0,0,0,,{\kf20}We{\kf20} proud{\kf28}ly{\kf20} bear{\kf28} name{\kf28} of{\kf24} Moon{\kf51} Guard
+Dialogue: 0,0:00:24.49,0:00:26.73,DEFAULT,,0,0,0,,{\r}{\kf31}When{\kf31} the{\kf44} night{\kf44}mares{\kf31} come{\kf43} real
+Dialogue: 0,0:00:27.27,0:00:29.13,DEFAULT,,0,0,0,,{\r}{\kf18}E{\kf24}vil{\kf42} breaks{\kf48} all{\kf54} seals
+Dialogue: 0,0:00:29.90,0:00:32.07,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf18} lit{\kf18}tle{\kf23} fil{\kf23}lies{\kf41} are{\kf70} scared
+Dialogue: 0,0:00:35.39,0:00:37.60,DEFAULT,,0,0,0,,{\r}{\kf24}When{\kf30} the{\kf42} moon{\kf48} hides{\kf24} in{\kf52} clouds
+Dialogue: 0,0:00:38.06,0:00:40.30,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf31} souls{\kf44} are{\kf44} filled{\kf31} with{\kf49} doubts
+Dialogue: 0,0:00:40.84,0:00:43.09,DEFAULT,,0,0,0,,{\r}{\kf31}On{\kf25}ly{\kf44} we'll{\kf44} be{\kf25} pre{\kf55}pared
+Dialogue: 0,0:00:44.48,0:00:47.03,DEFAULT,,0,0,0,,{\r}{\kf31}We{\kf25} live{\kf37} to{\kf44} serve{\kf31} and{\kf19} to{\kf19} de{\kf49}fend
+Dialogue: 0,0:00:47.41,0:00:49.89,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf19} we{\kf31} will{\kf43} stand{\kf31} un{\kf31}til{\kf19} the{\kf48} end
+Dialogue: 0,0:00:50.70,0:00:53.99,DEFAULT,,0,0,0,,{\r}{\kf37}No{\kf29} mat{\kf44}ter{\kf37} how{\kf51} it{\kf37} could{\kf22} be{\kf72} hard
+Dialogue: 0,0:00:55.26,0:00:57.78,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf27} through{\kf34} the{\kf34} dark{\kf34}ness{\kf20} we{\kf27} will{\kf48} fight
+Dialogue: 0,0:00:58.16,0:01:00.75,DEFAULT,,0,0,0,,{\r}{\kf24}For{\kf65} our{\kf47} Prin{\kf24}cess{\kf24} of{\kf18} the{\kf57} Night
+Dialogue: 0,0:01:01.53,0:01:05.01,DEFAULT,,0,0,0,,{\r}{\kf34}We{\kf34} proud{\kf55}ly{\kf27} bear{\kf48} name{\kf41} of{\kf34} Moon{\kf75} Guard
+Dialogue: 0,0:01:10.84,0:01:13.09,DEFAULT,,0,0,0,,{\r}{\kf31}Blaz{\kf25}ing{\kf44} light{\kf44}ning,{\kf31} dark{\kf49} fire
+Dialogue: 0,0:01:13.51,0:01:15.75,DEFAULT,,0,0,0,,{\r}{\kf33}Dan{\kf26}gers,{\kf40} dead{\kf40}ly{\kf33} and{\kf52} dire
+Dialogue: 0,0:01:16.18,0:01:18.23,DEFAULT,,0,0,0,,{\r}{\kf32}But{\kf26} we{\kf58} will{\kf26} ne{\kf26}ver{\kf37} stop
+Dialogue: 0,0:01:21.63,0:01:23.76,DEFAULT,,0,0,0,,{\r}{\kf30}To{\kf23} pro{\kf61}tect{\kf30} our{\kf23} be{\kf46}loved
+Dialogue: 0,0:01:24.41,0:01:26.69,DEFAULT,,0,0,0,,{\r}{\kf21}Our{\kf28}~{\kf28} foals{\kf57}~{\kf36} and{\kf58} home
+Dialogue: 0,0:01:27.08,0:01:30.40,DEFAULT,,0,0,0,,{\r}{\kf30}We{\kf38} will{\kf45} fight{\kf38} un{\kf30}til{\kf45} last{\kf30} drop{\kf30} of{\kf46} blood
+Dialogue: 0,0:01:30.71,0:01:33.15,DEFAULT,,0,0,0,,{\r}{\kf27}We{\kf27} live{\kf27} to{\kf47} serve{\kf27} and{\kf20} to{\kf20} de{\kf49}fend
+Dialogue: 0,0:01:33.61,0:01:36.09,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf25} we{\kf25} will{\kf38} stand{\kf32} un{\kf32}til{\kf19} the{\kf51} end
+Dialogue: 0,0:01:36.94,0:01:40.34,DEFAULT,,0,0,0,,{\r}{\kf38}No{\kf30} mat{\kf45}ter{\kf30} how{\kf53} it{\kf38} could{\kf30} be{\kf76} hard
+Dialogue: 0,0:01:41.81,0:01:44.13,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf27} through{\kf27} the{\kf33} dark{\kf33}ness{\kf20} we{\kf20} will{\kf45} fight
+Dialogue: 0,0:01:44.52,0:01:47.07,DEFAULT,,0,0,0,,{\r}{\kf24}For{\kf55} our{\kf42} Prin{\kf30}cess{\kf30} of{\kf18} the{\kf56} Night
+Dialogue: 0,0:01:47.88,0:01:51.40,DEFAULT,,0,0,0,,{\r}{\kf36}We{\kf36} proud{\kf50}ly{\kf29} bear{\kf50} name{\kf43} of{\kf36} Moon{\kf72} Guard
+Dialogue: 0,0:03:01.10,0:03:03.42,DEFAULT,,0,0,0,,{\r}{\kf31}In{\kf25} dark{\kf31}est{\kf31} hour,{\kf25} in{\kf25} rough{\kf25}est{\kf39} fight
+Dialogue: 0,0:03:03.88,0:03:06.51,DEFAULT,,0,0,0,,{\r}{\kf29}We{\kf29} will{\kf40} stay{\kf23} lo{\kf29}yal{\kf34} by{\kf29} her{\kf50} side
+Dialogue: 0,0:03:07.21,0:03:10.84,DEFAULT,,0,0,0,,{\r}{\kf32}You'd{\kf26} bet{\kf39}ter{\kf26} be{\kf58}ware{\kf58} our{\kf26}~{\kf98} brood
+Dialogue: 0,0:03:11.89,0:03:14.21,DEFAULT,,0,0,0,,{\r}{\kf26}Be{\kf26}neath{\kf26} a{\kf32} full{\kf32} moon{\kf26} sil{\kf19}ver{\kf45} light
+Dialogue: 0,0:03:14.59,0:03:17.18,DEFAULT,,0,0,0,,{\r}{\kf33}For{\kf40} our{\kf40} Prin{\kf40}cess{\kf27} of{\kf20} the{\kf59} Night
+Dialogue: 0,0:03:18.11,0:03:21.32,DEFAULT,,0,0,0,,{\r}{\kf35}E{\kf35}lite{\kf49} guards{\kf28} pro{\kf56}tect{\kf35} qui{\kf28}e{\kf55}tude
+Dialogue: 0,0:03:22.94,0:03:25.26,DEFAULT,,0,0,0,,{\r}{\kf25}We{\kf25} live{\kf25} to{\kf44} serve{\kf25} and{\kf19} to{\kf19} de{\kf50}fend
+Dialogue: 0,0:03:25.65,0:03:28.16,DEFAULT,,0,0,0,,{\r}{\kf29}And{\kf23} we{\kf29} will{\kf47} stand{\kf29} un{\kf29}til{\kf18} the{\kf47} end
+Dialogue: 0,0:03:28.97,0:03:32.34,DEFAULT,,0,0,0,,{\r}{\kf37}No{\kf29} mat{\kf44}ter{\kf37} how{\kf51} it{\kf37} could{\kf22} be{\kf79} hard
+Dialogue: 0,0:03:33.69,0:03:36.01,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf27} through{\kf27} the{\kf34} dark{\kf27}ness{\kf20} we{\kf20} will{\kf50} fight
+Dialogue: 0,0:03:36.44,0:03:38.91,DEFAULT,,0,0,0,,{\r}{\kf25}For{\kf56} our{\kf43} Prin{\kf25}cess{\kf25} of{\kf19} the{\kf54} Night
+Dialogue: 0,0:03:39.84,0:03:43.63,DEFAULT,,0,0,0,,{\r}{\kf34}We{\kf34} proud{\kf48}ly{\kf34} bear{\kf48} name{\kf48} of{\kf41} Moon{\kf92} Guard

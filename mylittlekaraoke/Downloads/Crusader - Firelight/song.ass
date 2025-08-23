@@ -1,43 +1,50 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Firelight (John Kenza and Aurelleah Cover)
+Artist: Crusader!
+Original Timing: mylittlekaraoke.com by lily
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:15.50,0:00:20.70,DEFAULT,,0,0,0,,{\kf1622}Night{\kf1625} falls{\kf1622} o{\kf1625}ver{\kf1696} town
-Dialogue: 0,0:00:23.20,0:00:27.10,DEFAULT,,0,0,0,,{\kf1567}The{\kf1567} witch{\kf1563}ing{\kf1571} hour{\kf1563}~{\kf1567} crash{\kf1567}es{\kf1567} in{\kf1567} and{\kf1563} all{\kf1559} the{\kf1567} mons{\kf1567}ters{\kf1567} walk{\kf1563} a{\kf1590}bout
-Dialogue: 0,0:00:30.62,0:00:32.22,DEFAULT,,0,0,0,,{\kf1563}The{\kf1563} sky{\kf1559} is{\kf1579} inked{\kf1563} with{\kf1559} flut{\kf1575}ters
-Dialogue: 0,0:00:32.53,0:00:34.10,DEFAULT,,0,0,0,,{\kf1563}The{\kf1563} town{\kf1559} is{\kf1575} filled{\kf1567} with{\kf1559} mut{\kf1579}ters
-Dialogue: 0,0:00:34.41,0:00:37.34,DEFAULT,,0,0,0,,{\kf1563}The{\kf1563} kings{\kf1559} and{\kf1579} queens{\kf1563} of{\kf1567} moon{\kf1567}light{\kf1567} all{\kf1571}~{\kf1567} step{\kf1606} out
-Dialogue: 0,0:00:38.16,0:00:41.48,DEFAULT,,0,0,0,,{\kf1567}And{\kf1563} I{\kf1594} know{\kf1567} where{\kf1567} we're{\kf1571} head{\kf1567}ing{\kf1567} to{\kf1586}ni{\kf1598}-ight
-Dialogue: 0,0:00:41.91,0:00:45.38,DEFAULT,,0,0,0,,{\kf1563}A{\kf1579} small{\kf1563} clear{\kf1575}ing{\kf1575} lit{\kf1567} by{\kf1563}~{\kf1590} fi{\kf1586}re{\kf1571}light
-Dialogue: 0,0:00:45.66,0:00:48.63,DEFAULT,,0,0,0,,{\kf1563}We'll{\kf1563} act{\kf1563} like{\kf1567} a{\kf1559}ni{\kf1582}mals{\kf1563} un{\kf1563}til{\kf1563} the{\kf1563} break{\kf1563} of{\kf1590} dawn
-Dialogue: 0,0:00:49.41,0:00:51.05,DEFAULT,,0,0,0,,{\kf1563}And{\kf1563} all{\kf1559} a{\kf1567}round{\kf1559} we'll{\kf1571} be{\kf1567} sing{\kf1575}in'
-Dialogue: 0,0:01:24.10,0:01:26.91,DEFAULT,,0,0,0,,{\kf1563}And{\kf1563} I{\kf1606} know{\kf1563} it{\kf1563}'ll{\kf1563} all{\kf1571} turn{\kf1559} out{\kf1575} al{\kf1575}right
-Dialogue: 0,0:01:27.10,0:01:30.42,DEFAULT,,0,0,0,,{\kf1563}We{\kf1563} look{\kf1563} odd{\kf1559} to{\kf1559} the{\kf1575} ones{\kf1563} who{\kf1563} make{\kf1563} their{\kf1559} reign{\kf1559}~{\kf1563} in{\kf1567} su{\kf1563}~n{\kf1598}light
-Dialogue: 0,0:01:30.89,0:01:33.51,DEFAULT,,0,0,0,,{\kf1563}But{\kf1563} we{\kf1563} pass{\kf1563} them{\kf1575} by{\kf1563} with{\kf1563}out{\kf1563} a{\kf1559} wor{\kf1559}ry{\kf1563} or{\kf1579} care
-Dialogue: 0,0:01:33.71,0:01:38.04,DEFAULT,,0,0,0,,{\kf1567}'Cause{\kf1567} we{\kf1575} know{\kf1567} there's{\kf1563} a{\kf1586} whole{\kf1563} 'no{\kf1563}ther{\kf1586} world{\kf1563}~{\kf1586}~{\kf1582} out{\kf1586} there
-Dialogue: 0,0:01:39.10,0:01:41.95,DEFAULT,,0,0,0,,{\kf1563}And{\kf1563} I{\kf1586} know{\kf1563}~{\kf1563} it{\kf1563}'ll{\kf1563} all{\kf1567} turn{\kf1559} out{\kf1571} al{\kf1575}right
-Dialogue: 0,0:01:42.14,0:01:45.38,DEFAULT,,0,0,0,,{\kf1563}We{\kf1563} look{\kf1563} odd{\kf1559} to{\kf1559} the{\kf1571} ones{\kf1563} who{\kf1563} make{\kf1563} their{\kf1559} reign{\kf1559}~{\kf1563} in{\kf1567} su{\kf1567}~n{\kf1590}light
-Dialogue: 0,0:01:45.89,0:01:48.51,DEFAULT,,0,0,0,,{\kf1563}But{\kf1563} we{\kf1563} pass{\kf1563} them{\kf1575} by{\kf1563} with{\kf1563}out{\kf1563} a{\kf1559} wor{\kf1559}ry{\kf1563} or{\kf1579} care
-Dialogue: 0,0:01:48.71,0:01:52.77,DEFAULT,,0,0,0,,{\kf1567}'Cause{\kf1567} we{\kf1586} know{\kf1567} there's{\kf1563} a{\kf1586} whole{\kf1567} 'no{\kf1563}ther{\kf1719} world
-Dialogue: 0,0:01:53.12,0:01:56.52,DEFAULT,,0,0,0,,{\kf1567}And{\kf1563} I{\kf1594} know{\kf1563} where{\kf1563} we're{\kf1571} head{\kf1563}ing{\kf1567} to{\kf1582}ni{\kf1602}-ight
-Dialogue: 0,0:01:56.91,0:02:00.42,DEFAULT,,0,0,0,,{\kf1567}A{\kf1582} small{\kf1567} clear{\kf1575}ing{\kf1579} lit{\kf1567} by{\kf1563}~{\kf1586} fi{\kf1582}re{\kf1571}light
-Dialogue: 0,0:02:00.66,0:02:03.63,DEFAULT,,0,0,0,,{\kf1567}We'll{\kf1563} act{\kf1563} like{\kf1567} a{\kf1559}ni{\kf1579}mals{\kf1567} un{\kf1563}til{\kf1563} the{\kf1563} break{\kf1563} of{\kf1590} dawn
-Dialogue: 0,0:02:04.41,0:02:05.93,DEFAULT,,0,0,0,,{\kf1563}And{\kf1563} all{\kf1559} a{\kf1563}round{\kf1559} we'll{\kf1563} be{\kf1563} sing{\kf1563}in'
-Dialogue: 0,0:02:06.09,0:02:07.26,DEFAULT,,0,0,0,,{\kf1563}"Woah{\kf1567}-oh{\kf1567}-oh{\kf1559}-oh{\kf1590}-oh"
-Dialogue: 0,0:02:07.49,0:02:07.81,DEFAULT,,0,0,0,,{\kf1582}Go!
-Dialogue: 0,0:02:38.16,0:02:41.52,DEFAULT,,0,0,0,,{\kf1567}And{\kf1563} I{\kf1594} know{\kf1563} where{\kf1563} we're{\kf1571} head{\kf1563}ing{\kf1563} to{\kf1590}ni{\kf1602}-ight
-Dialogue: 0,0:02:41.91,0:02:45.42,DEFAULT,,0,0,0,,{\kf1563}A{\kf1575} small{\kf1563} clear{\kf1575}ing{\kf1575} lit{\kf1567} by{\kf1563}~{\kf1586} fi{\kf1586}re{\kf1575}light
-Dialogue: 0,0:02:45.66,0:02:48.67,DEFAULT,,0,0,0,,{\kf1567}We'll{\kf1563} act{\kf1563} like{\kf1567} a{\kf1559}ni{\kf1575}mals{\kf1563} un{\kf1563}til{\kf1563} the{\kf1563} break{\kf1563} of{\kf1590} dawn
-Dialogue: 0,0:02:49.41,0:02:50.93,DEFAULT,,0,0,0,,{\kf1567}And{\kf1563} all{\kf1559} a{\kf1567}round{\kf1559} we'll{\kf1563} be{\kf1563} sing{\kf1563}in'
-Dialogue: 0,0:02:51.09,0:02:52.88,DEFAULT,,0,0,0,,{\kf1567}"Oh{\kf1567}-oh{\kf1567}-oh{\kf1559}-oh,{\kf1582} oh{\kf1567}-oh{\kf1590}-oh"
-Dialogue: 0,0:02:53.20,0:02:56.56,DEFAULT,,0,0,0,,{\kf1567}And{\kf1563} I{\kf1594} know{\kf1563} where{\kf1563} we're{\kf1571} head{\kf1563}ing{\kf1563} to{\kf1590}ni{\kf1602}-ight
-Dialogue: 0,0:02:56.95,0:03:00.46,DEFAULT,,0,0,0,,{\kf1567}A{\kf1575} small{\kf1567} clear{\kf1579}ing{\kf1579} lit{\kf1567} by{\kf1567}~{\kf1586} fi{\kf1586}re{\kf1571}light
-Dialogue: 0,0:03:00.74,0:03:03.71,DEFAULT,,0,0,0,,{\kf1563}We'll{\kf1563} act{\kf1563} like{\kf1563} a{\kf1559}ni{\kf1575}mals{\kf1563} un{\kf1563}til{\kf1567} the{\kf1563} break{\kf1563} of{\kf1590} dawn
-Dialogue: 0,0:03:04.56,0:03:06.21,DEFAULT,,0,0,0,,{\kf1563}And{\kf1563} all{\kf1559} a{\kf1563}round{\kf1559} we'll{\kf1563} be{\kf1559} sing{\kf1582}in'
+Dialogue: 0,0:00:15.51,0:00:20.70,DEFAULT,,0,0,0,,{\r}{\kf84}Night{\kf89} falls{\kf84} o{\kf89}ver{\kf174} town
+Dialogue: 0,0:00:23.20,0:00:27.11,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf24} witch{\kf18}ing{\kf30} hour{\kf18}~{\kf24} crash{\kf24}es{\kf24} in{\kf24} and{\kf18} all{\kf12} the{\kf24} mons{\kf24}ters{\kf24} walk{\kf18} a{\kf61}bout
+Dialogue: 0,0:00:30.62,0:00:32.23,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf18} sky{\kf12} is{\kf43} inked{\kf18} with{\kf12} flut{\kf39}ters
+Dialogue: 0,0:00:32.54,0:00:34.10,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf17} town{\kf12} is{\kf35} filled{\kf23} with{\kf12} mut{\kf40}ters
+Dialogue: 0,0:00:34.41,0:00:37.34,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf17} kings{\kf11} and{\kf39} queens{\kf17} of{\kf22} moon{\kf22}light{\kf22} all{\kf28}~{\kf22} step{\kf76} out
+Dialogue: 0,0:00:38.16,0:00:41.48,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf17} I{\kf61} know{\kf22} where{\kf22} we're{\kf28} head{\kf22}ing{\kf22} to{\kf50}ni{\kf66}-ight
+Dialogue: 0,0:00:41.91,0:00:45.39,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf44} small{\kf19} clear{\kf37}ing{\kf37} lit{\kf25} by{\kf19}~{\kf62} fi{\kf56}re{\kf30}light
+Dialogue: 0,0:00:45.66,0:00:48.63,DEFAULT,,0,0,0,,{\r}{\kf19}We'll{\kf19} act{\kf19} like{\kf25} a{\kf12}ni{\kf50}mals{\kf19} un{\kf19}til{\kf19} the{\kf19} break{\kf19} of{\kf58} dawn
+Dialogue: 0,0:00:49.41,0:00:51.05,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf17} all{\kf11} a{\kf23}round{\kf11} we'll{\kf28} be{\kf23} sing{\kf34}in'
+Dialogue: 0,0:01:24.10,0:01:26.91,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf18} I{\kf82} know{\kf18} it{\kf18}'ll{\kf18} all{\kf29} turn{\kf12} out{\kf35} al{\kf33}right
+Dialogue: 0,0:01:27.11,0:01:30.43,DEFAULT,,0,0,0,,{\r}{\kf18}We{\kf18} look{\kf18} odd{\kf12} to{\kf12} the{\kf37} ones{\kf18} who{\kf18} make{\kf18} their{\kf12} reign{\kf12}~{\kf18} in{\kf25} su{\kf18}~n{\kf78}light
+Dialogue: 0,0:01:30.90,0:01:33.51,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf19} we{\kf19} pass{\kf19} them{\kf38} by{\kf19} with{\kf19}out{\kf19} a{\kf13} wor{\kf13}ry{\kf19} or{\kf46} care
+Dialogue: 0,0:01:33.71,0:01:38.05,DEFAULT,,0,0,0,,{\r}{\kf23}'Cause{\kf23} we{\kf35} know{\kf23} there's{\kf18} a{\kf53} whole{\kf18} 'no{\kf18}ther{\kf53} world{\kf18}~{\kf53}~{\kf47} out{\kf52} there
+Dialogue: 0,0:01:39.10,0:01:41.95,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} I{\kf58} know{\kf19}~{\kf19} it{\kf19}'ll{\kf19} all{\kf26} turn{\kf13} out{\kf32} al{\kf42}right
+Dialogue: 0,0:01:42.15,0:01:45.39,DEFAULT,,0,0,0,,{\r}{\kf19}We{\kf19} look{\kf19} odd{\kf12} to{\kf12} the{\kf31} ones{\kf19} who{\kf19} make{\kf19} their{\kf12} reign{\kf12}~{\kf19} in{\kf25} su{\kf25}~n{\kf62}light
+Dialogue: 0,0:01:45.90,0:01:48.51,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf19} we{\kf19} pass{\kf19} them{\kf38} by{\kf19} with{\kf19}out{\kf19} a{\kf13} wor{\kf13}ry{\kf19} or{\kf46} care
+Dialogue: 0,0:01:48.71,0:01:52.77,DEFAULT,,0,0,0,,{\r}{\kf20}'Cause{\kf20} we{\kf44} know{\kf20} there's{\kf15} a{\kf44} whole{\kf20} 'no{\kf15}ther{\kf208} world
+Dialogue: 0,0:01:53.12,0:01:56.52,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf18} I{\kf66} know{\kf18} where{\kf18} we're{\kf30} head{\kf18}ing{\kf24} to{\kf48}ni{\kf76}-ight
+Dialogue: 0,0:01:56.91,0:02:00.43,DEFAULT,,0,0,0,,{\r}{\kf24}A{\kf49} small{\kf24} clear{\kf36}ing{\kf42} lit{\kf24} by{\kf18}~{\kf55} fi{\kf49}re{\kf31}light
+Dialogue: 0,0:02:00.66,0:02:03.63,DEFAULT,,0,0,0,,{\r}{\kf24}We'll{\kf18} act{\kf18} like{\kf24} a{\kf12}ni{\kf42}mals{\kf24} un{\kf18}til{\kf18} the{\kf18} break{\kf18} of{\kf63} dawn
+Dialogue: 0,0:02:04.41,0:02:05.94,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} all{\kf14} a{\kf21}round{\kf14} we'll{\kf21} be{\kf21} sing{\kf19}in'
+Dialogue: 0,0:02:06.09,0:02:07.26,DEFAULT,,0,0,0,,{\r}{\kf15}"Woah{\kf20}-oh{\kf20}-oh{\kf10}-oh{\kf52}-oh"
+Dialogue: 0,0:02:07.50,0:02:07.81,DEFAULT,,0,0,0,,{\r}{\kf31}Go!
+Dialogue: 0,0:02:38.16,0:02:41.52,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf17} I{\kf64} know{\kf17} where{\kf17} we're{\kf29} head{\kf17}ing{\kf17} to{\kf58}ni{\kf77}-ight
+Dialogue: 0,0:02:41.91,0:02:45.43,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf38} small{\kf19} clear{\kf38}ing{\kf38} lit{\kf26} by{\kf19}~{\kf58} fi{\kf58}re{\kf39}light
+Dialogue: 0,0:02:45.66,0:02:48.67,DEFAULT,,0,0,0,,{\r}{\kf26}We'll{\kf19} act{\kf19} like{\kf26} a{\kf13}ni{\kf38}mals{\kf19} un{\kf19}til{\kf19} the{\kf19} break{\kf19} of{\kf65} dawn
+Dialogue: 0,0:02:49.41,0:02:50.94,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf19} all{\kf13} a{\kf25}round{\kf13} we'll{\kf19} be{\kf19} sing{\kf19}in'
+Dialogue: 0,0:02:51.09,0:02:52.89,DEFAULT,,0,0,0,,{\r}{\kf20}"Oh{\kf20}-oh{\kf20}-oh{\kf10}-oh,{\kf40} oh{\kf20}-oh{\kf50}-oh"
+Dialogue: 0,0:02:53.20,0:02:56.56,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf17} I{\kf64} know{\kf17} where{\kf17} we're{\kf29} head{\kf17}ing{\kf17} to{\kf58}ni{\kf77}-ight
+Dialogue: 0,0:02:56.95,0:03:00.47,DEFAULT,,0,0,0,,{\r}{\kf24}A{\kf36} small{\kf24} clear{\kf42}ing{\kf42} lit{\kf24} by{\kf24}~{\kf54} fi{\kf54}re{\kf28}light
+Dialogue: 0,0:03:00.74,0:03:03.71,DEFAULT,,0,0,0,,{\r}{\kf19}We'll{\kf19} act{\kf19} like{\kf19} a{\kf13}ni{\kf39}mals{\kf19} un{\kf19}til{\kf26} the{\kf19} break{\kf19} of{\kf67} dawn
+Dialogue: 0,0:03:04.57,0:03:06.21,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} all{\kf13} a{\kf19}round{\kf13} we'll{\kf19} be{\kf13} sing{\kf49}in'

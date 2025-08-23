@@ -1,36 +1,43 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Friends Up Above
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by barbeque
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:13.48,0:01:17.95,DEFAULT,,0,0,0,,{\kf26}These{\kf21} year{\kf26} strick{\kf26}en{\kf26} pa{\kf98}-a{\kf114}ges
-Dialogue: 0,0:01:20.11,0:01:23.14,DEFAULT,,0,0,0,,{\kf16}Are{\kf16} an{\kf36} old{\kf47} me{\kf21}mo{\kf98}ry
-Dialogue: 0,0:01:26.48,0:01:31.05,DEFAULT,,0,0,0,,{\kf16}And{\kf16} I've{\kf21} been{\kf26} here{\kf16} fo{\kf11}-or{\kf93} a{\kf36}-a{\kf103}ges
-Dialogue: 0,0:01:33.26,0:01:36.55,DEFAULT,,0,0,0,,{\kf31}And{\kf47} al{\kf42}ways{\kf26} will{\kf119} be
-Dialogue: 0,0:01:39.84,0:01:44.05,DEFAULT,,0,0,0,,{\kf21}We'll{\kf31} ne{\kf31}ver{\kf26} re{\kf16}tu{\kf78}-u{\kf11}-u{\kf16}-urn{\kf88} to
-Dialogue: 0,0:01:46.46,0:01:50.01,DEFAULT,,0,0,0,,{\kf16}The{\kf42} world{\kf11} the{\kf16} wa{\kf16}-ay{\kf21} it{\kf155} was
-Dialogue: 0,0:01:52.94,0:01:59.15,DEFAULT,,0,0,0,,{\kf21}I'll{\kf47} ne{\kf42}ver{\kf26} re{\kf42}turn{\kf26} to{\kf21} my{\kf31} friends{\kf57} up{\kf16} a{\kf98}bove
-Dialogue: 0,0:02:18.88,0:02:23.76,DEFAULT,,0,0,0,,{\kf26}Through{\kf26} this{\kf36} life{\kf47} of{\kf21} ad{\kf88}ven{\kf119}tures
-Dialogue: 0,0:02:25.81,0:02:29.46,DEFAULT,,0,0,0,,{\kf26}Short{\kf36} lived{\kf36} fai{\kf26}ry{\kf144}tales
-Dialogue: 0,0:02:32.34,0:02:36.65,DEFAULT,,0,0,0,,{\kf21}I've{\kf31} seen{\kf31} your{\kf16} de{\kf11}-e{\kf16}pa{\kf88}-a{\kf16}-a{\kf16}-ar{\kf88}ture
-Dialogue: 0,0:02:38.91,0:02:42.10,DEFAULT,,0,0,0,,{\kf16}But{\kf16} your{\kf36} fa{\kf42}ces{\kf21} re{\kf16}ma{\kf78}-ain
-Dialogue: 0,0:02:45.54,0:02:50.06,DEFAULT,,0,0,0,,{\kf26}In{\kf31}side{\kf21} of{\kf26} my{\kf21} he{\kf72}-e{\kf26}-e{\kf31}-e{\kf78}-ad
-Dialogue: 0,0:02:52.11,0:02:55.61,DEFAULT,,0,0,0,,{\kf16}'Til{\kf16} it's{\kf42} all{\kf47} said{\kf31} and{\kf139} done
-Dialogue: 0,0:02:58.74,0:03:04.96,DEFAULT,,0,0,0,,{\kf31}You{\kf52} ne{\kf42}ver{\kf26} be{\kf21}tra{\kf21}-ayed{\kf31} me,{\kf26} my{\kf26} friends{\kf57} up{\kf16} a{\kf108}bove
-Dialogue: 0,0:03:37.42,0:03:41.43,DEFAULT,,0,0,0,,{\kf16}The{\kf26}-ere's{\kf26} so{\kf36} ma{\kf21}ny{\kf26} dif{\kf31}f'rent{\kf16} e{\kf11}-e{\kf78}-eyes
-Dialogue: 0,0:03:44.77,0:03:47.64,DEFAULT,,0,0,0,,{\kf26}They{\kf36} wan{\kf21}der{\kf16} to{\kf31} and{\kf83} fro
-Dialogue: 0,0:03:51.39,0:03:54.53,DEFAULT,,0,0,0,,{\kf16}But{\kf26} how{\kf31} can{\kf26} I{\kf21} be{\kf16} fi{\kf11}-i{\kf72}-ine
-Dialogue: 0,0:03:57.87,0:04:01.15,DEFAULT,,0,0,0,,{\kf21}If{\kf21} none{\kf31} of{\kf21} them{\kf26} are{\kf119} yours
-Dialogue: 0,0:04:36.96,0:04:41.74,DEFAULT,,0,0,0,,{\kf26}Now{\kf21} it's{\kf31} time{\kf26} to{\kf26} de{\kf67}part{\kf72} and
-Dialogue: 0,0:04:44.05,0:04:47.44,DEFAULT,,0,0,0,,{\kf16}We{\kf42} say{\kf36} our{\kf31} good{\kf16}bye{\kf119}-es
-Dialogue: 0,0:04:50.57,0:04:53.14,DEFAULT,,0,0,0,,{\kf26}We've{\kf21} all{\kf26} come{\kf26} so{\kf16} fa{\kf72}-ar
-Dialogue: 0,0:04:57.04,0:05:00.23,DEFAULT,,0,0,0,,{\kf16}E{\kf21}very{\kf36}one{\kf42} has{\kf31} their{\kf16} ti{\kf88}-ime
-Dialogue: 0,0:05:03.52,0:05:08.55,DEFAULT,,0,0,0,,{\kf16}But{\kf16} I'll{\kf31} see{\kf31} you{\kf31} in{\kf21} the{\kf93} stars{\kf26} to{\kf119}night
-Dialogue: 0,0:05:10.25,0:05:13.64,DEFAULT,,0,0,0,,{\kf16}Look{\kf16} at{\kf52} what{\kf31} it's{\kf26} be{\kf134}come
-Dialogue: 0,0:05:16.72,0:05:23.45,DEFAULT,,0,0,0,,{\kf26}I{\kf36} should{\kf36} not{\kf31} have{\kf47} doubt{\kf36}ed{\kf31} my{\kf26} friends{\kf67} up{\kf16} a{\kf144}bove
+Dialogue: 0,0:01:13.49,0:01:17.96,DEFAULT,,0,0,0,,{\r}{\kf34}These{\kf28} year{\kf34} strick{\kf34}en{\kf34} pa{\kf131}-a{\kf152}ges
+Dialogue: 0,0:01:20.11,0:01:23.15,DEFAULT,,0,0,0,,{\r}{\kf20}Are{\kf20} an{\kf47} old{\kf61} me{\kf27}mo{\kf128}ry
+Dialogue: 0,0:01:26.48,0:01:31.06,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} I've{\kf28} been{\kf35} here{\kf21} fo{\kf14}-or{\kf127} a{\kf49}-a{\kf141}ges
+Dialogue: 0,0:01:33.27,0:01:36.55,DEFAULT,,0,0,0,,{\r}{\kf39}And{\kf58} al{\kf52}ways{\kf32} will{\kf148} be
+Dialogue: 0,0:01:39.84,0:01:44.05,DEFAULT,,0,0,0,,{\r}{\kf28}We'll{\kf41} ne{\kf41}ver{\kf35} re{\kf21}tu{\kf104}-u{\kf14}-u{\kf21}-urn{\kf116} to
+Dialogue: 0,0:01:46.47,0:01:50.01,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf53} world{\kf13} the{\kf20} wa{\kf20}-ay{\kf27} it{\kf201} was
+Dialogue: 0,0:01:52.94,0:01:59.16,DEFAULT,,0,0,0,,{\r}{\kf30}I'll{\kf68} ne{\kf61}ver{\kf38} re{\kf61}turn{\kf38} to{\kf30} my{\kf46} friends{\kf83} up{\kf23} a{\kf144}bove
+Dialogue: 0,0:02:18.88,0:02:23.76,DEFAULT,,0,0,0,,{\r}{\kf35}Through{\kf35} this{\kf49} life{\kf63} of{\kf28} ad{\kf119}ven{\kf159}tures
+Dialogue: 0,0:02:25.82,0:02:29.46,DEFAULT,,0,0,0,,{\r}{\kf35}Short{\kf49} lived{\kf49} fai{\kf35}ry{\kf197}tales
+Dialogue: 0,0:02:32.34,0:02:36.66,DEFAULT,,0,0,0,,{\r}{\kf27}I've{\kf40} seen{\kf40} your{\kf20} de{\kf13}-e{\kf20}pa{\kf115}-a{\kf20}-a{\kf20}-ar{\kf117}ture
+Dialogue: 0,0:02:38.92,0:02:42.10,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} your{\kf52} fa{\kf59}ces{\kf30} re{\kf22}ma{\kf111}-ain
+Dialogue: 0,0:02:45.54,0:02:50.06,DEFAULT,,0,0,0,,{\r}{\kf35}In{\kf42}side{\kf28} of{\kf35} my{\kf28} he{\kf99}-e{\kf35}-e{\kf42}-e{\kf108}-ad
+Dialogue: 0,0:02:52.12,0:02:55.61,DEFAULT,,0,0,0,,{\r}{\kf19}'Til{\kf19} it's{\kf50} all{\kf56} said{\kf37} and{\kf168} done
+Dialogue: 0,0:02:58.74,0:03:04.96,DEFAULT,,0,0,0,,{\r}{\kf42}You{\kf71} ne{\kf57}ver{\kf35} be{\kf28}tra{\kf28}-ayed{\kf42} me,{\kf35} my{\kf35} friends{\kf78} up{\kf21} a{\kf150}bove
+Dialogue: 0,0:03:37.43,0:03:41.43,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf36}-ere's{\kf36} so{\kf51} ma{\kf29}ny{\kf36} dif{\kf44}f'rent{\kf22} e{\kf15}-e{\kf110}-eyes
+Dialogue: 0,0:03:44.77,0:03:47.65,DEFAULT,,0,0,0,,{\r}{\kf35}They{\kf49} wan{\kf28}der{\kf21} to{\kf42} and{\kf113} fro
+Dialogue: 0,0:03:51.40,0:03:54.53,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf37} how{\kf45} can{\kf37} I{\kf30} be{\kf22} fi{\kf15}-i{\kf105}-ine
+Dialogue: 0,0:03:57.87,0:04:01.16,DEFAULT,,0,0,0,,{\r}{\kf29}If{\kf29} none{\kf43} of{\kf29} them{\kf36} are{\kf163} yours
+Dialogue: 0,0:04:36.96,0:04:41.74,DEFAULT,,0,0,0,,{\r}{\kf46}Now{\kf37} it's{\kf55} time{\kf46} to{\kf46} de{\kf120}part{\kf128} and
+Dialogue: 0,0:04:44.05,0:04:47.44,DEFAULT,,0,0,0,,{\r}{\kf20}We{\kf54} say{\kf47} our{\kf41} good{\kf20}bye{\kf157}-es
+Dialogue: 0,0:04:50.58,0:04:53.15,DEFAULT,,0,0,0,,{\r}{\kf36}We've{\kf29} all{\kf36} come{\kf36} so{\kf21} fa{\kf99}-ar
+Dialogue: 0,0:04:57.05,0:05:00.23,DEFAULT,,0,0,0,,{\r}{\kf20}E{\kf26}very{\kf46}one{\kf53} has{\kf40} their{\kf20} ti{\kf113}-ime
+Dialogue: 0,0:05:03.52,0:05:08.56,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf20} I'll{\kf41} see{\kf41} you{\kf41} in{\kf27} the{\kf122} stars{\kf34} to{\kf157}night
+Dialogue: 0,0:05:10.25,0:05:13.64,DEFAULT,,0,0,0,,{\r}{\kf19}Look{\kf19} at{\kf64} what{\kf38} it's{\kf32} be{\kf167}come
+Dialogue: 0,0:05:16.72,0:05:23.45,DEFAULT,,0,0,0,,{\r}{\kf35}I{\kf49} should{\kf49} not{\kf42} have{\kf63} doubt{\kf49}ed{\kf42} my{\kf35} friends{\kf91} up{\kf21} a{\kf197}bove

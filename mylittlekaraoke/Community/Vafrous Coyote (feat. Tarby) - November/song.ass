@@ -1,35 +1,42 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: November
+Artist: Vafrous Coyote (feat. Tarby)
+Original Timing: mylittlekaraoke.com by Steven Knapp, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:23.59,0:00:29.24,DEFAULT,,0,0,0,,{\kf19}The{\kf27} trees{\kf8} a{\kf38}blaze{\kf8} with{\kf16} reds{\kf8} and{\kf46} oran{\kf16}ges{\kf8} whis{\kf35}per{\kf23} to{\kf16} the{\kf95} wind
-Dialogue: 0,0:00:30.37,0:00:34.62,DEFAULT,,0,0,0,,{\kf23}They{\kf12} rus{\kf23}tle{\kf27} se{\kf27}crets{\kf8} to{\kf8} each{\kf12} oth{\kf137}er
-Dialogue: 0,0:00:35.64,0:00:41.26,DEFAULT,,0,0,0,,{\kf8}The{\kf27} clouds{\kf8} re{\kf42}spond{\kf12} with{\kf12} va{\kf19}cant{\kf42} tears{\kf8} as{\kf8} they{\kf23} leave{\kf12} the{\kf23} trees{\kf12} be{\kf99}hind
-Dialogue: 0,0:00:42.39,0:00:46.68,DEFAULT,,0,0,0,,{\kf12}But{\kf19} their{\kf8} re{\kf35}spons{\kf16}es{\kf23} grow{\kf12} ev{\kf8}er{\kf27} cold{\kf23}er{\kf118}~
-Dialogue: 0,0:00:48.80,0:00:57.64,DEFAULT,,0,0,0,,{\kf16}The{\kf57} days{\kf57} grow{\kf19} glum{\kf281}~{\kf12} it's{\kf27} time{\kf27} to{\kf12} wrap{\kf12} up{\kf12} eve{\kf8}ry{\kf16}po{\kf31}ny
-Dialogue: 0,0:01:00.78,0:01:11.25,DEFAULT,,0,0,0,,{\kf19}The{\kf57} days{\kf54} grow{\kf23} glum{\kf281}~{\kf16} with{\kf16} warm{\kf12} smiles{\kf54}~{\kf19} in{\kf23} eve{\kf31}ry{\kf8} win{\kf16}dow{\kf164}~
-Dialogue: 0,0:01:23.80,0:01:29.22,DEFAULT,,0,0,0,,{\kf8}Though{\kf23} we{\kf19} all{\kf42} lay{\kf16} all{\kf12} snug{\kf16} at{\kf42} home{\kf8} with{\kf8} our{\kf16} backs{\kf27} turned{\kf27} to{\kf8} the{\kf92} breeze
-Dialogue: 0,0:01:30.40,0:01:35.03,DEFAULT,,0,0,0,,{\kf27}We{\kf16} hear{\kf23} the{\kf42} words{\kf12} they{\kf16} speak{\kf8} through{\kf8} our{\kf35} win{\kf164}dows
-Dialogue: 0,0:01:35.86,0:01:41.21,DEFAULT,,0,0,0,,{\kf8}The{\kf27} day{\kf8} has{\kf38} come{\kf19} to{\kf31} lend{\kf8} a{\kf23} hoof{\kf23} to{\kf12} help{\kf16} us{\kf27} say{\kf8} good{\kf95}bye
-Dialogue: 0,0:01:42.50,0:01:46.48,DEFAULT,,0,0,0,,{\kf8}The{\kf27} days{\kf23} wave{\kf8} thanks{\kf16}~{\kf8} as{\kf8} they{\kf23} grow{\kf8} ev{\kf8}er{\kf35} cold{\kf19}er{\kf92}~
-Dialogue: 0,0:01:48.75,0:01:57.70,DEFAULT,,0,0,0,,{\kf16}The{\kf54} days{\kf57} grow{\kf19} glum{\kf281}~{\kf12} it's{\kf27} time{\kf27} to{\kf16} wrap{\kf16} up{\kf8} eve{\kf8}ry{\kf19}po{\kf46}ny
-Dialogue: 0,0:02:00.74,0:02:11.24,DEFAULT,,0,0,0,,{\kf16}The{\kf57} days{\kf57} grow{\kf23} numb{\kf330}~{\kf8} with{\kf23} warm{\kf12} smiles{\kf46}~{\kf23} in{\kf27} eve{\kf35}ry{\kf27} win{\kf19}dow{\kf164}~
-Dialogue: 0,0:02:12.76,0:02:21.78,DEFAULT,,0,0,0,,{\kf16}The{\kf54} days{\kf57} grow{\kf19} glum{\kf296}~{\kf16} it's{\kf23} time{\kf31} to{\kf19} wrap{\kf16} up{\kf8} eve{\kf8}ry{\kf23}po{\kf54}ny
-Dialogue: 0,0:02:24.74,0:02:35.24,DEFAULT,,0,0,0,,{\kf16}The{\kf57} days{\kf46} grow{\kf19} numb{\kf330}~{\kf8} with{\kf19} warm{\kf12} smiles{\kf46}~{\kf23} in{\kf27} eve{\kf27}ry{\kf8} win{\kf12}dow{\kf171}~
-Dialogue: 0,0:04:24.79,0:04:33.55,DEFAULT,,0,0,0,,{\kf16}The{\kf57} days{\kf57} grow{\kf19} glum{\kf281}~{\kf8} it's{\kf27} time{\kf27} to{\kf12} wrap{\kf8} up{\kf8} eve{\kf8}ry{\kf16}po{\kf31}ny
-Dialogue: 0,0:04:36.78,0:04:47.24,DEFAULT,,0,0,0,,{\kf19}The{\kf57} days{\kf54} grow{\kf27} numb{\kf281}~{\kf16} with{\kf16} warm{\kf12} smiles{\kf54}~{\kf19} in{\kf23} eve{\kf31}ry{\kf8} win{\kf19}dow{\kf164}~
-Dialogue: 0,0:04:59.98,0:05:05.06,DEFAULT,,0,0,0,,{\kf23}As{\kf23} we{\kf16} run{\kf46} on{\kf27} through{\kf12} the{\kf42} leaves{\kf19} we{\kf12} leave{\kf35} our{\kf23} tears{\kf12} be{\kf73}hind
-Dialogue: 0,0:05:06.43,0:05:10.98,DEFAULT,,0,0,0,,{\kf16}The{\kf23} trees{\kf8} try{\kf8} to{\kf16} fol{\kf42}low{\kf8} if{\kf42} they're{\kf27} a{\kf156}ble
-Dialogue: 0,0:05:11.59,0:05:16.97,DEFAULT,,0,0,0,,{\kf23}Our{\kf16} task{\kf8} com{\kf38}plete{\kf23} we{\kf8} head{\kf19} back{\kf27} home{\kf12} snug{\kf8}gle{\kf16} up{\kf31} warm{\kf12} in{\kf23} our{\kf65} graves
-Dialogue: 0,0:05:18.41,0:05:23.08,DEFAULT,,0,0,0,,{\kf23}And{\kf12} we{\kf8} look{\kf16} for{\kf27}ward{\kf8} to{\kf8} next{\kf27} No{\kf16}vem{\kf23}ber{\kf145}~
-Dialogue: 0,0:05:36.73,0:05:45.72,DEFAULT,,0,0,0,,{\kf16}The{\kf54} days{\kf57} grow{\kf16} glum{\kf304}~{\kf16} it's{\kf27} time{\kf27} to{\kf16} wrap{\kf16} up{\kf8} eve{\kf8}ry{\kf19}po{\kf46}ny
-Dialogue: 0,0:05:48.75,0:05:59.21,DEFAULT,,0,0,0,,{\kf16}The{\kf57} days{\kf57} grow{\kf19} numb{\kf330}~{\kf8} with{\kf23} warm{\kf16} smiles{\kf46}~{\kf23} in{\kf27} eve{\kf35}ry{\kf27} win{\kf19}dow{\kf164}~
-Dialogue: 0,0:06:00.73,0:06:09.79,DEFAULT,,0,0,0,,{\kf16}The{\kf54} days{\kf57} grow{\kf19} glum{\kf296}~{\kf16} it's{\kf23} time{\kf31} to{\kf19} wrap{\kf16} up{\kf8} eve{\kf8}ry{\kf23}po{\kf54}ny
-Dialogue: 0,0:06:12.75,0:06:23.22,DEFAULT,,0,0,0,,{\kf16}The{\kf57} days{\kf46} grow{\kf23} numb{\kf330}~{\kf8} with{\kf19} warm{\kf16} smiles{\kf46}~{\kf23} in{\kf27} eve{\kf27}ry{\kf8} win{\kf12}dow{\kf171}~
+Dialogue: 0,0:00:23.59,0:00:29.24,DEFAULT,,0,0,0,,{\r}{\kf30}The{\kf42} trees{\kf12} a{\kf60}blaze{\kf12} with{\kf24} reds{\kf12} and{\kf72} oran{\kf24}ges{\kf12} whis{\kf54}per{\kf36} to{\kf24} the{\kf151} wind
+Dialogue: 0,0:00:30.38,0:00:34.62,DEFAULT,,0,0,0,,{\r}{\kf35}They{\kf18} rus{\kf35}tle{\kf41} se{\kf41}crets{\kf12} to{\kf12} each{\kf18} oth{\kf213}er
+Dialogue: 0,0:00:35.65,0:00:41.26,DEFAULT,,0,0,0,,{\r}{\kf12}The{\kf43} clouds{\kf12} re{\kf67}spond{\kf18} with{\kf18} va{\kf30}cant{\kf67} tears{\kf12} as{\kf12} they{\kf37} leave{\kf18} the{\kf37} trees{\kf18} be{\kf160}hind
+Dialogue: 0,0:00:42.40,0:00:46.68,DEFAULT,,0,0,0,,{\r}{\kf16}But{\kf27} their{\kf11} re{\kf49}spons{\kf22}es{\kf33} grow{\kf16} ev{\kf11}er{\kf38} cold{\kf33}er{\kf172}~
+Dialogue: 0,0:00:48.81,0:00:57.64,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf87} days{\kf87} grow{\kf29} glum{\kf428}~{\kf17} it's{\kf40} time{\kf40} to{\kf17} wrap{\kf17} up{\kf17} eve{\kf12}ry{\kf23}po{\kf47}ny
+Dialogue: 0,0:01:00.79,0:01:11.26,DEFAULT,,0,0,0,,{\r}{\kf25}The{\kf76} days{\kf71} grow{\kf30} glum{\kf374}~{\kf20} with{\kf20} warm{\kf15} smiles{\kf71}~{\kf25} in{\kf30} eve{\kf40}ry{\kf10} win{\kf20}dow{\kf220}~
+Dialogue: 0,0:01:23.81,0:01:29.23,DEFAULT,,0,0,0,,{\r}{\kf12}Though{\kf35} we{\kf29} all{\kf63} lay{\kf23} all{\kf17} snug{\kf23} at{\kf63} home{\kf12} with{\kf12} our{\kf23} backs{\kf40} turned{\kf40} to{\kf12} the{\kf138} breeze
+Dialogue: 0,0:01:30.40,0:01:35.03,DEFAULT,,0,0,0,,{\r}{\kf36}We{\kf20} hear{\kf31} the{\kf56} words{\kf15} they{\kf20} speak{\kf10} through{\kf10} our{\kf46} win{\kf219}dows
+Dialogue: 0,0:01:35.87,0:01:41.21,DEFAULT,,0,0,0,,{\r}{\kf12}The{\kf42} day{\kf12} has{\kf60} come{\kf30} to{\kf48} lend{\kf12} a{\kf36} hoof{\kf36} to{\kf18} help{\kf24} us{\kf42} say{\kf12} good{\kf151}bye
+Dialogue: 0,0:01:42.50,0:01:46.48,DEFAULT,,0,0,0,,{\r}{\kf11}The{\kf38} days{\kf33} wave{\kf11} thanks{\kf22}~{\kf11} as{\kf11} they{\kf33} grow{\kf11} ev{\kf11}er{\kf49} cold{\kf27}er{\kf130}~
+Dialogue: 0,0:01:48.76,0:01:57.71,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf79} days{\kf85} grow{\kf28} glum{\kf419}~{\kf17} it's{\kf40} time{\kf40} to{\kf23} wrap{\kf23} up{\kf11} eve{\kf11}ry{\kf28}po{\kf68}ny
+Dialogue: 0,0:02:00.74,0:02:11.24,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf69} days{\kf69} grow{\kf28} numb{\kf402}~{\kf10} with{\kf28} warm{\kf14} smiles{\kf56}~{\kf28} in{\kf32} eve{\kf42}ry{\kf32} win{\kf23}dow{\kf198}~
+Dialogue: 0,0:02:12.76,0:02:21.79,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf76} days{\kf81} grow{\kf27} glum{\kf421}~{\kf22} it's{\kf32} time{\kf43} to{\kf27} wrap{\kf22} up{\kf11} eve{\kf11}ry{\kf32}po{\kf75}ny
+Dialogue: 0,0:02:24.74,0:02:35.25,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf73} days{\kf59} grow{\kf24} numb{\kf425}~{\kf10} with{\kf24} warm{\kf15} smiles{\kf59}~{\kf29} in{\kf34} eve{\kf34}ry{\kf10} win{\kf15}dow{\kf219}~
+Dialogue: 0,0:04:24.80,0:04:33.56,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf88} days{\kf88} grow{\kf29} glum{\kf432}~{\kf12} it's{\kf41} time{\kf41} to{\kf18} wrap{\kf12} up{\kf12} eve{\kf12}ry{\kf23}po{\kf45}ny
+Dialogue: 0,0:04:36.78,0:04:47.25,DEFAULT,,0,0,0,,{\r}{\kf25}The{\kf75} days{\kf70} grow{\kf35} numb{\kf371}~{\kf20} with{\kf20} warm{\kf15} smiles{\kf70}~{\kf25} in{\kf30} eve{\kf40}ry{\kf10} win{\kf25}dow{\kf216}~
+Dialogue: 0,0:04:59.99,0:05:05.07,DEFAULT,,0,0,0,,{\r}{\kf32}As{\kf32} we{\kf22} run{\kf65} on{\kf38} through{\kf16} the{\kf59} leaves{\kf27} we{\kf16} leave{\kf49} our{\kf32} tears{\kf16} be{\kf104}hind
+Dialogue: 0,0:05:06.44,0:05:10.99,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf30} trees{\kf10} try{\kf10} to{\kf20} fol{\kf56}low{\kf10} if{\kf56} they're{\kf35} a{\kf208}ble
+Dialogue: 0,0:05:11.59,0:05:16.98,DEFAULT,,0,0,0,,{\r}{\kf38}Our{\kf25} task{\kf13} com{\kf63}plete{\kf38} we{\kf13} head{\kf32} back{\kf44} home{\kf19} snug{\kf13}gle{\kf25} up{\kf51} warm{\kf19} in{\kf38} our{\kf107} graves
+Dialogue: 0,0:05:18.42,0:05:23.08,DEFAULT,,0,0,0,,{\r}{\kf35}And{\kf17} we{\kf12} look{\kf23} for{\kf40}ward{\kf12} to{\kf12} next{\kf40} No{\kf23}vem{\kf35}ber{\kf217}~
+Dialogue: 0,0:05:36.73,0:05:45.72,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf77} days{\kf82} grow{\kf22} glum{\kf439}~{\kf22} it's{\kf38} time{\kf38} to{\kf22} wrap{\kf22} up{\kf11} eve{\kf11}ry{\kf27}po{\kf66}ny
+Dialogue: 0,0:05:48.75,0:05:59.22,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf69} days{\kf69} grow{\kf23} numb{\kf401}~{\kf10} with{\kf28} warm{\kf18} smiles{\kf55}~{\kf28} in{\kf32} eve{\kf42}ry{\kf32} win{\kf23}dow{\kf199}~
+Dialogue: 0,0:06:00.74,0:06:09.80,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf76} days{\kf81} grow{\kf27} glum{\kf423}~{\kf22} it's{\kf33} time{\kf43} to{\kf27} wrap{\kf22} up{\kf11} eve{\kf11}ry{\kf33}po{\kf75}ny
+Dialogue: 0,0:06:12.76,0:06:23.22,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf72} days{\kf58} grow{\kf29} numb{\kf420}~{\kf10} with{\kf24} warm{\kf19} smiles{\kf58}~{\kf29} in{\kf34} eve{\kf34}ry{\kf10} win{\kf14}dow{\kf217}~

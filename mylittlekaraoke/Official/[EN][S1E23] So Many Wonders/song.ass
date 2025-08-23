@@ -1,21 +1,28 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: So Many Wonders
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by LardonCru
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.33,0:00:06.25,DEFAULT,,0,0,0,,{\kf17}What{\kf17} is{\kf17} this{\kf25} place{\kf25} filled{\kf17} with{\kf34} so{\kf34} ma{\kf17}ny{\kf34} won{\kf17}ders?
-Dialogue: 0,0:00:06.83,0:00:11.08,DEFAULT,,0,0,0,,{\kf25}Ca{\kf17}sting{\kf17} its{\kf34} spell{\kf25} th{\kf25}at{\kf25} I{\kf25} am{\kf34} now{\kf25} un{\kf34}der
-Dialogue: 0,0:00:11.41,0:00:15.66,DEFAULT,,0,0,0,,{\kf25}Squirr{\kf17}els{\kf17} in{\kf17} the{\kf34} trees{\kf25} and{\kf17} the{\kf34} cute{\kf17} li{\kf17}ttle{\kf50} bu{\kf25}nnies
-Dialogue: 0,0:00:16.00,0:00:20.33,DEFAULT,,0,0,0,,{\kf34}Birds{\kf34} fly{\kf17}ing{\kf25} free{\kf34} a{\kf25}nd{\kf34} bees{\kf17} with{\kf17} their{\kf42} ho{\kf17}ney
-Dialogue: 0,0:00:20.75,0:00:25.50,DEFAULT,,0,0,0,,{\kf134}Ho{\kf334}ney!
-Dialogue: 0,0:00:26.91,0:00:29.16,DEFAULT,,0,0,0,,{\kf84}Oh,{\kf25} what{\kf17} a{\kf9} ma{\kf17}gi{\kf17}cal{\kf17} place
-Dialogue: 0,0:00:29.50,0:00:32.33,DEFAULT,,0,0,0,,{\kf17}And{\kf9} I{\kf25} owe{\kf17} it{\kf34} all{\kf9} to{\kf9} the{\kf9} Pe{\kf17}ga{\kf9}sus{\kf34} race
-Dialogue: 0,0:00:32.58,0:00:35.33,DEFAULT,,0,0,0,,{\kf9}If{\kf9} I{\kf25} knew{\kf17} the{\kf17} ground{\kf9} had{\kf9} so{\kf17} much{\kf9} up{\kf17} its{\kf17} sleeve
-Dialogue: 0,0:00:35.66,0:00:38.33,DEFAULT,,0,0,0,,{\kf17}I'd{\kf9} have{\kf17} come{\kf25} here{\kf25} soo{\kf17}ner,{\kf17} and{\kf17} ne{\kf17}ver{\kf17} leave
-Dialogue: 0,0:00:38.75,0:00:47.08,DEFAULT,,0,0,0,,{\kf17}Yes,{\kf17} I{\kf42} love{\kf75} e{\kf67}very{\kf484}thing!
+Dialogue: 0,0:00:02.33,0:00:06.25,DEFAULT,,0,0,0,,{\r}{\kf26}What{\kf26} is{\kf26} this{\kf39} place{\kf39} filled{\kf26} with{\kf52} so{\kf52} ma{\kf26}ny{\kf52} won{\kf28}ders?
+Dialogue: 0,0:00:06.83,0:00:11.08,DEFAULT,,0,0,0,,{\r}{\kf38}Ca{\kf25}sting{\kf25} its{\kf50} spell{\kf38} th{\kf38}at{\kf38} I{\kf38} am{\kf50} now{\kf38} un{\kf47}der
+Dialogue: 0,0:00:11.42,0:00:15.67,DEFAULT,,0,0,0,,{\r}{\kf36}Squirr{\kf24}els{\kf24} in{\kf24} the{\kf49} trees{\kf36} and{\kf24} the{\kf49} cute{\kf24} li{\kf24}ttle{\kf73} bu{\kf38}nnies
+Dialogue: 0,0:00:16.00,0:00:20.33,DEFAULT,,0,0,0,,{\r}{\kf49}Birds{\kf49} fly{\kf25}ing{\kf37} free{\kf49} a{\kf37}nd{\kf49} bees{\kf25} with{\kf25} their{\kf62} ho{\kf26}ney
+Dialogue: 0,0:00:20.75,0:00:25.50,DEFAULT,,0,0,0,,{\r}{\kf136}Ho{\kf339}ney!
+Dialogue: 0,0:00:26.92,0:00:29.17,DEFAULT,,0,0,0,,{\r}{\kf102}Oh,{\kf31} what{\kf20} a{\kf10} ma{\kf20}gi{\kf20}cal{\kf22} place
+Dialogue: 0,0:00:29.50,0:00:32.33,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf13} I{\kf39} owe{\kf26} it{\kf51} all{\kf13} to{\kf13} the{\kf13} Pe{\kf26}ga{\kf13}sus{\kf50} race
+Dialogue: 0,0:00:32.58,0:00:35.33,DEFAULT,,0,0,0,,{\r}{\kf15}If{\kf15} I{\kf46} knew{\kf31} the{\kf31} ground{\kf15} had{\kf15} so{\kf31} much{\kf15} up{\kf31} its{\kf30} sleeve
+Dialogue: 0,0:00:35.67,0:00:38.33,DEFAULT,,0,0,0,,{\r}{\kf25}I'd{\kf13} have{\kf25} come{\kf38} here{\kf38} soo{\kf25}ner,{\kf25} and{\kf25} ne{\kf25}ver{\kf28} leave
+Dialogue: 0,0:00:38.75,0:00:47.08,DEFAULT,,0,0,0,,{\r}{\kf20}Yes,{\kf20} I{\kf50} love{\kf89} e{\kf79}very{\kf575}thing!

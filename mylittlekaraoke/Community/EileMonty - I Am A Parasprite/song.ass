@@ -1,87 +1,94 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: I Am A Parasprite
+Artist: EileMonty, David Larsen
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:06.15,0:00:07.40,DEFAULT,,0,0,0,,{\kf16}I{\kf16} am{\kf16} a{\kf20} Pa{\kf20}ra{\kf25}sprite
-Dialogue: 0,0:00:07.55,0:00:09.15,DEFAULT,,0,0,0,,{\kf10}I'm{\kf35} fly{\kf16}ing{\kf16} through{\kf16} the{\kf40} fo{\kf10}rest
-Dialogue: 0,0:00:09.30,0:00:11.05,DEFAULT,,0,0,0,,{\kf31}Give{\kf16} me{\kf10} lots{\kf10} of{\kf16} sweet{\kf20} ap{\kf20}ples{\kf10} and{\kf10} cake
-Dialogue: 0,0:00:11.20,0:00:12.50,DEFAULT,,0,0,0,,{\kf10}So{\kf16} I{\kf16} can{\kf16} make{\kf20} some{\kf31} friends
-Dialogue: 0,0:00:12.75,0:00:15.40,DEFAULT,,0,0,0,,{\kf16}I{\kf10} am{\kf16} so{\kf40} hun{\kf16}gry{\kf31} please{\kf16} give{\kf20} me{\kf16} some{\kf35} mun{\kf16}chies
-Dialogue: 0,0:00:15.55,0:00:18.75,DEFAULT,,0,0,0,,{\kf25}'cause{\kf25} my{\kf35} tum{\kf20}my{\kf31} needs{\kf25} some{\kf35} yum{\kf20} yum{\kf25}mies
-Dialogue: 0,0:00:18.90,0:00:21.60,DEFAULT,,0,0,0,,{\kf16}It's{\kf20} grow{\kf20}ling{\kf35} loud{\kf16}ly{\kf35} for{\kf25} some{\kf35} bon{\kf20}bons
-Dialogue: 0,0:00:21.65,0:00:23.15,DEFAULT,,0,0,0,,{\kf35}Please{\kf16} give{\kf16} it{\kf16} some{\kf31} nom{\kf16} noms
-Dialogue: 0,0:00:23.25,0:00:24.70,DEFAULT,,0,0,0,,{\kf35}Be{\kf31}cause{\kf25} well{\kf20} I
-Dialogue: 0,0:00:24.90,0:00:27.50,DEFAULT,,0,0,0,,{\kf56}All{\kf16} I{\kf40} want{\kf40} to{\kf10}~{\kf16} do{\kf16} is{\kf25} eat
-Dialogue: 0,0:00:27.70,0:00:30.65,DEFAULT,,0,0,0,,{\kf25}And{\kf25} that's{\kf25} what{\kf31} I{\kf31} shall{\kf20} do{\kf20}~{\kf20}~{\kf20}~{\kf31}~
-Dialogue: 0,0:00:31.10,0:00:33.70,DEFAULT,,0,0,0,,{\kf50}And{\kf20} if{\kf45} you're{\kf35} ve{\kf16}ry{\kf16} nice{\kf16} to{\kf25} me
-Dialogue: 0,0:00:33.90,0:00:37.25,DEFAULT,,0,0,0,,{\kf25}I'll{\kf25} share{\kf25} your{\kf31} lunch{\kf31} with{\kf56} you{\kf16}~{\kf40} may{\kf31}be
-Dialogue: 0,0:00:42.20,0:00:42.55,DEFAULT,,0,0,0,,{\kf16}Hel{\kf20}lo!
-Dialogue: 0,0:00:46.30,0:00:47.40,DEFAULT,,0,0,0,,{\kf16}We're{\kf20} two{\kf20} Pa{\kf20}ra{\kf25}sprites
-Dialogue: 0,0:00:47.55,0:00:49.10,DEFAULT,,0,0,0,,{\kf10}We're{\kf35} fly{\kf16}ing{\kf16} through{\kf16} the{\kf35} fo{\kf10}rest
-Dialogue: 0,0:00:49.30,0:00:51.00,DEFAULT,,0,0,0,,{\kf25}Give{\kf16} us{\kf10} lots{\kf10} of{\kf16} sweet{\kf20} ap{\kf20}ples{\kf10} and{\kf10} cake
-Dialogue: 0,0:00:51.20,0:00:52.50,DEFAULT,,0,0,0,,{\kf10}So{\kf16} we{\kf16} can{\kf16} make{\kf20} some{\kf31} friends
-Dialogue: 0,0:00:52.75,0:00:55.35,DEFAULT,,0,0,0,,{\kf16}We{\kf10} are{\kf16} so{\kf40} hun{\kf16}gry{\kf31} please{\kf16} give{\kf20} us{\kf16} some{\kf35} mun{\kf10}chies
-Dialogue: 0,0:00:55.55,0:00:58.75,DEFAULT,,0,0,0,,{\kf25}'cause{\kf25} our{\kf35} tum{\kf20}mies{\kf31} needs{\kf25} some{\kf35} yum{\kf20} yum{\kf25}mies
-Dialogue: 0,0:00:58.90,0:01:01.50,DEFAULT,,0,0,0,,{\kf16}It's{\kf20} grow{\kf20}ling{\kf35} loud{\kf16}ly{\kf35} for{\kf25} some{\kf35} bon{\kf10}bons
-Dialogue: 0,0:01:01.65,0:01:03.10,DEFAULT,,0,0,0,,{\kf31}Please{\kf16} give{\kf16} it{\kf16} some{\kf31} nom{\kf16} noms
-Dialogue: 0,0:01:03.25,0:01:04.70,DEFAULT,,0,0,0,,{\kf35}Be{\kf31}cause{\kf25} well{\kf20} we
-Dialogue: 0,0:01:04.90,0:01:07.50,DEFAULT,,0,0,0,,{\kf56}All{\kf16} we{\kf40} want{\kf40} to{\kf10}~{\kf16} do{\kf16} is{\kf25} eat
-Dialogue: 0,0:01:07.70,0:01:10.65,DEFAULT,,0,0,0,,{\kf25}And{\kf25} that's{\kf25} what{\kf31} we{\kf31} shall{\kf20} do{\kf20}~{\kf20}~{\kf20}~{\kf31}~
-Dialogue: 0,0:01:11.10,0:01:13.70,DEFAULT,,0,0,0,,{\kf50}And{\kf20} if{\kf45} you're{\kf35} ve{\kf16}ry{\kf16} nice{\kf16} to{\kf25} us
-Dialogue: 0,0:01:13.90,0:01:17.25,DEFAULT,,0,0,0,,{\kf10}We{\kf10} shall{\kf25} share{\kf25} your{\kf31} lunch{\kf31} with{\kf56} you{\kf16}~{\kf40} may{\kf31}be
-Dialogue: 0,0:01:21.45,0:01:22.05,DEFAULT,,0,0,0,,{\kf20}Hel{\kf40}lo!
-Dialogue: 0,0:01:23.05,0:01:24.80,DEFAULT,,0,0,0,,{\kf25}My{\kf35} name{\kf20} is{\kf25} Pa{\kf25}ra{\kf16}sprite
-Dialogue: 0,0:01:24.95,0:01:26.25,DEFAULT,,0,0,0,,{\kf16}O{\kf25}M{\kf16}G{\kf35} me{\kf16} too!
-Dialogue: 0,0:01:26.40,0:01:27.75,DEFAULT,,0,0,0,,{\kf25}Hey{\kf31} that's{\kf31} my{\kf31} name!
-Dialogue: 0,0:01:27.90,0:01:28.80,DEFAULT,,0,0,0,,{\kf35}Let's{\kf45} sing!
-Dialogue: 0,0:01:29.45,0:01:30.50,DEFAULT,,0,0,0,,{\kf16}We're{\kf16} the{\kf20} Pa{\kf20}ra{\kf25}sprites
-Dialogue: 0,0:01:30.70,0:01:32.30,DEFAULT,,0,0,0,,{\kf10}We're{\kf35} fly{\kf16}ing{\kf16} through{\kf16} the{\kf40} fo{\kf10}rest
-Dialogue: 0,0:01:32.50,0:01:34.25,DEFAULT,,0,0,0,,{\kf25}Give{\kf16} us{\kf10} lots{\kf10} of{\kf16} sweet{\kf20} ap{\kf16}ples{\kf16} and{\kf10} cake
-Dialogue: 0,0:01:34.40,0:01:35.65,DEFAULT,,0,0,0,,{\kf10}So{\kf16} we{\kf10} can{\kf16} make{\kf16} some{\kf31} friends
-Dialogue: 0,0:01:35.80,0:01:38.55,DEFAULT,,0,0,0,,{\kf20}We{\kf16} are{\kf16} so{\kf40} hun{\kf16}gry{\kf31} please{\kf16} give{\kf16} us{\kf10} some{\kf31} mun{\kf16}chies
-Dialogue: 0,0:01:38.70,0:01:41.90,DEFAULT,,0,0,0,,{\kf25}'cause{\kf25} our{\kf35} tum{\kf20}mies{\kf31} needs{\kf25} some{\kf35} yum{\kf20} yum{\kf20}mies
-Dialogue: 0,0:01:42.05,0:01:44.70,DEFAULT,,0,0,0,,{\kf16}It's{\kf20} grow{\kf20}ling{\kf35} loud{\kf16}ly{\kf35} for{\kf25} some{\kf35} bon{\kf16}bons
-Dialogue: 0,0:01:44.85,0:01:46.30,DEFAULT,,0,0,0,,{\kf31}Please{\kf16} give{\kf16} it{\kf16} some{\kf31} nom{\kf16} noms
-Dialogue: 0,0:01:46.40,0:01:47.85,DEFAULT,,0,0,0,,{\kf35}Be{\kf31}cause{\kf25} well{\kf20} we
-Dialogue: 0,0:01:48.05,0:01:50.65,DEFAULT,,0,0,0,,{\kf56}All{\kf16} we{\kf40} want{\kf40} to{\kf10}~{\kf16} do{\kf16} is{\kf25} eat
-Dialogue: 0,0:01:50.85,0:01:53.80,DEFAULT,,0,0,0,,{\kf25}And{\kf25} that's{\kf25} what{\kf31} we{\kf31} shall{\kf20} do{\kf20}~{\kf20}~{\kf20}~{\kf31}~
-Dialogue: 0,0:01:54.30,0:01:56.80,DEFAULT,,0,0,0,,{\kf50}And{\kf20} if{\kf45} you're{\kf35} ve{\kf16}ry{\kf16} nice{\kf16} to{\kf20} us
-Dialogue: 0,0:01:57.05,0:02:00.40,DEFAULT,,0,0,0,,{\kf10}We{\kf10} shall{\kf25} share{\kf25} your{\kf31} lunch{\kf31} with{\kf56} you{\kf16}~{\kf40} may{\kf31}be
-Dialogue: 0,0:02:02.30,0:02:03.15,DEFAULT,,0,0,0,,{\kf25}Hel{\kf61}lo!
-Dialogue: 0,0:02:03.45,0:02:03.90,DEFAULT,,0,0,0,,{\kf45}Hi!
-Dialogue: 0,0:02:04.10,0:02:04.65,DEFAULT,,0,0,0,,{\kf56}Yo!
-Dialogue: 0,0:02:04.70,0:02:05.20,DEFAULT,,0,0,0,,{\kf31}How{\kf20}dy!
-Dialogue: 0,0:02:05.45,0:02:06.20,DEFAULT,,0,0,0,,{\kf35}Was{\kf40}sup?
-Dialogue: 0,0:02:06.70,0:02:08.65,DEFAULT,,0,0,0,,{\kf61}Yeah,{\kf35} let's{\kf50} sing!
-Dialogue: 0,0:02:10.15,0:02:11.20,DEFAULT,,0,0,0,,{\kf16}We{\kf16} are{\kf20} Pa{\kf20}ra{\kf25}sprites
-Dialogue: 0,0:02:11.35,0:02:12.95,DEFAULT,,0,0,0,,{\kf10}We're{\kf35} fly{\kf16}ing{\kf16} through{\kf16} the{\kf40} fo{\kf10}rest
-Dialogue: 0,0:02:13.10,0:02:14.85,DEFAULT,,0,0,0,,{\kf31}Give{\kf16} us{\kf10} lots{\kf10} of{\kf16} sweet{\kf20} ap{\kf20}ples{\kf10} and{\kf10} cake
-Dialogue: 0,0:02:14.95,0:02:16.20,DEFAULT,,0,0,0,,{\kf10}So{\kf16} we{\kf16} can{\kf16} make{\kf20} some{\kf25} friends
-Dialogue: 0,0:02:16.55,0:02:19.20,DEFAULT,,0,0,0,,{\kf16}We{\kf10} are{\kf16} so{\kf40} hun{\kf16}gry{\kf31} please{\kf16} give{\kf20} us{\kf16} some{\kf35} mun{\kf16}chies
-Dialogue: 0,0:02:19.35,0:02:22.50,DEFAULT,,0,0,0,,{\kf25}'cause{\kf25} our{\kf35} tum{\kf20}mies{\kf31} needs{\kf25} some{\kf35} yum{\kf20} yum{\kf16}mies
-Dialogue: 0,0:02:22.70,0:02:25.35,DEFAULT,,0,0,0,,{\kf16}It's{\kf20} grow{\kf20}ling{\kf35} loud{\kf16}ly{\kf35} for{\kf25} some{\kf35} bon{\kf10}bons
-Dialogue: 0,0:02:25.50,0:02:26.95,DEFAULT,,0,0,0,,{\kf31}Please{\kf16} give{\kf16} it{\kf16} some{\kf31} nom{\kf16} noms
-Dialogue: 0,0:02:27.05,0:02:28.50,DEFAULT,,0,0,0,,{\kf35}Be{\kf31}cause{\kf25} well{\kf20} we
-Dialogue: 0,0:02:28.70,0:02:31.30,DEFAULT,,0,0,0,,{\kf56}All{\kf16} we{\kf40} want{\kf40} to{\kf10}~{\kf16} do{\kf16} is{\kf25} eat
-Dialogue: 0,0:02:31.55,0:02:34.50,DEFAULT,,0,0,0,,{\kf25}And{\kf25} that's{\kf25} what{\kf31} we{\kf31} shall{\kf20} do{\kf20}~{\kf20}~{\kf20}~{\kf31}~
-Dialogue: 0,0:02:34.90,0:02:37.50,DEFAULT,,0,0,0,,{\kf50}And{\kf20} if{\kf45} you're{\kf35} ve{\kf16}ry{\kf16} nice{\kf16} to{\kf25} us
-Dialogue: 0,0:02:37.70,0:02:41.05,DEFAULT,,0,0,0,,{\kf10}We{\kf10} shall{\kf25} share{\kf25} your{\kf31} lunch{\kf31} with{\kf56} you{\kf16}~{\kf40} may{\kf31}be
-Dialogue: 0,0:02:45.25,0:02:47.90,DEFAULT,,0,0,0,,{\kf65}Yeah,{\kf20} now{\kf16} we{\kf20} have{\kf35} twelve{\kf56} friends!
-Dialogue: 0,0:02:48.45,0:02:49.80,DEFAULT,,0,0,0,,{\kf31}Let's{\kf31} all{\kf56} sing!
-Dialogue: 0,0:02:50.15,0:02:51.35,DEFAULT,,0,0,0,,{\kf25}You{\kf25} can't{\kf45} count-
-Dialogue: 0,0:03:12.80,0:03:13.80,DEFAULT,,0,0,0,,{\kf16}Kwak{\kf16} kwak{\kf16} kwak{\kf20} kwak{\kf16} kwak
-Dialogue: 0,0:03:14.00,0:03:15.55,DEFAULT,,0,0,0,,{\kf16}Kwak{\kf31} kwak{\kf10} kwak{\kf10} kwak{\kf10} kwak{\kf35} kwak
-Dialogue: 0,0:03:15.70,0:03:16.90,DEFAULT,,0,0,0,,{\kf10}Kwak{\kf25} kwak{\kf16} kwak{\kf10} kwak{\kf10} kwak{\kf20} kwak
-Dialogue: 0,0:03:17.10,0:03:18.85,DEFAULT,,0,0,0,,{\kf16}Kwak{\kf25} kwak{\kf10} kwak{\kf16} kwak{\kf16} kwak{\kf16} kwak{\kf16} kwak{\kf20} kwak
-Dialogue: 0,0:03:19.15,0:03:22.50,DEFAULT,,0,0,0,,{\kf20}And{\kf20} that's{\kf25} what{\kf10} would{\kf10} have{\kf20} hap{\kf20}pened{\kf10} if{\kf16} I{\kf16} did{\kf16}n't{\kf25} save{\kf20} the{\kf56} day!
-Dialogue: 0,0:03:23.65,0:03:26.95,DEFAULT,,0,0,0,,{\kf50}Err...{\kf35} Pin{\kf50}kie...{\kf40} I...
-Dialogue: 0,0:03:27.15,0:03:28.90,DEFAULT,,0,0,0,,{\kf10}I{\kf10} was{\kf16} on{\kf16}ly{\kf16} here{\kf10} to{\kf16} bor{\kf10}row{\kf16} some{\kf25} flour
-Dialogue: 0,0:03:29.15,0:03:32.55,DEFAULT,,0,0,0,,{\kf25}I{\kf25} just{\kf20} don't{\kf16} re{\kf25}mem{\kf16}ber{\kf16} why{\kf10} I{\kf10} was{\kf16} here{\kf16} in{\kf20} the{\kf25} first{\kf25} place!
-Dialogue: 0,0:03:32.80,0:03:33.40,DEFAULT,,0,0,0,,{\kf20}Hel{\kf40}lo!
+Dialogue: 0,0:00:06.15,0:00:07.40,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf17} am{\kf17} a{\kf23} Pa{\kf23}ra{\kf28}sprite
+Dialogue: 0,0:00:07.55,0:00:09.15,DEFAULT,,0,0,0,,{\r}{\kf11}I'm{\kf40} fly{\kf17}ing{\kf17} through{\kf17} the{\kf46} fo{\kf12}rest
+Dialogue: 0,0:00:09.30,0:00:11.05,DEFAULT,,0,0,0,,{\r}{\kf37}Give{\kf19} me{\kf12} lots{\kf12} of{\kf19} sweet{\kf25} ap{\kf25}ples{\kf12} and{\kf14} cake
+Dialogue: 0,0:00:11.20,0:00:12.50,DEFAULT,,0,0,0,,{\r}{\kf12}So{\kf19} I{\kf19} can{\kf19} make{\kf25} some{\kf36} friends
+Dialogue: 0,0:00:12.75,0:00:15.40,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf12} am{\kf18} so{\kf47} hun{\kf18}gry{\kf35} please{\kf18} give{\kf24} me{\kf18} some{\kf41} mun{\kf16}chies
+Dialogue: 0,0:00:15.55,0:00:18.75,DEFAULT,,0,0,0,,{\r}{\kf33}'cause{\kf33} my{\kf47} tum{\kf27}my{\kf40} needs{\kf33} some{\kf47} yum{\kf27} yum{\kf33}mies
+Dialogue: 0,0:00:18.90,0:00:21.60,DEFAULT,,0,0,0,,{\r}{\kf18}It's{\kf25} grow{\kf25}ling{\kf43} loud{\kf18}ly{\kf43} for{\kf31} some{\kf43} bon{\kf24}bons
+Dialogue: 0,0:00:21.65,0:00:23.15,DEFAULT,,0,0,0,,{\r}{\kf42}Please{\kf18} give{\kf18} it{\kf18} some{\kf36} nom{\kf18} noms
+Dialogue: 0,0:00:23.25,0:00:24.70,DEFAULT,,0,0,0,,{\r}{\kf46}Be{\kf40}cause{\kf33} well{\kf26} I
+Dialogue: 0,0:00:24.90,0:00:27.50,DEFAULT,,0,0,0,,{\r}{\kf67}All{\kf18} I{\kf48} want{\kf48} to{\kf12}~{\kf18} do{\kf18} is{\kf31} eat
+Dialogue: 0,0:00:27.70,0:00:30.65,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf30} that's{\kf30} what{\kf36} I{\kf36} shall{\kf24} do{\kf24}~{\kf24}~{\kf24}~{\kf37}~
+Dialogue: 0,0:00:31.10,0:00:33.70,DEFAULT,,0,0,0,,{\r}{\kf59}And{\kf24} if{\kf53} you're{\kf41} ve{\kf18}ry{\kf18} nice{\kf18} to{\kf29} me
+Dialogue: 0,0:00:33.90,0:00:37.25,DEFAULT,,0,0,0,,{\r}{\kf30}I'll{\kf30} share{\kf30} your{\kf37} lunch{\kf37} with{\kf67} you{\kf18}~{\kf49} may{\kf37}be
+Dialogue: 0,0:00:42.20,0:00:42.55,DEFAULT,,0,0,0,,{\r}{\kf15}Hel{\kf20}lo!
+Dialogue: 0,0:00:46.30,0:00:47.40,DEFAULT,,0,0,0,,{\r}{\kf16}We're{\kf22} two{\kf22} Pa{\kf22}ra{\kf28}sprites
+Dialogue: 0,0:00:47.55,0:00:49.10,DEFAULT,,0,0,0,,{\r}{\kf11}We're{\kf40} fly{\kf17}ing{\kf17} through{\kf17} the{\kf40} fo{\kf13}rest
+Dialogue: 0,0:00:49.30,0:00:51.00,DEFAULT,,0,0,0,,{\r}{\kf31}Give{\kf19} us{\kf13} lots{\kf13} of{\kf19} sweet{\kf25} ap{\kf25}ples{\kf13} and{\kf12} cake
+Dialogue: 0,0:00:51.20,0:00:52.50,DEFAULT,,0,0,0,,{\r}{\kf12}So{\kf19} we{\kf19} can{\kf19} make{\kf25} some{\kf36} friends
+Dialogue: 0,0:00:52.75,0:00:55.35,DEFAULT,,0,0,0,,{\r}{\kf18}We{\kf12} are{\kf18} so{\kf47} hun{\kf18}gry{\kf35} please{\kf18} give{\kf24} us{\kf18} some{\kf41} mun{\kf11}chies
+Dialogue: 0,0:00:55.55,0:00:58.75,DEFAULT,,0,0,0,,{\r}{\kf33}'cause{\kf33} our{\kf47} tum{\kf27}mies{\kf40} needs{\kf33} some{\kf47} yum{\kf27} yum{\kf33}mies
+Dialogue: 0,0:00:58.90,0:01:01.50,DEFAULT,,0,0,0,,{\r}{\kf19}It's{\kf25} grow{\kf25}ling{\kf43} loud{\kf19}ly{\kf43} for{\kf31} some{\kf43} bon{\kf12}bons
+Dialogue: 0,0:01:01.65,0:01:03.10,DEFAULT,,0,0,0,,{\r}{\kf36}Please{\kf18} give{\kf18} it{\kf18} some{\kf36} nom{\kf19} noms
+Dialogue: 0,0:01:03.25,0:01:04.70,DEFAULT,,0,0,0,,{\r}{\kf46}Be{\kf40}cause{\kf33} well{\kf26} we
+Dialogue: 0,0:01:04.90,0:01:07.50,DEFAULT,,0,0,0,,{\r}{\kf67}All{\kf18} we{\kf48} want{\kf48} to{\kf12}~{\kf18} do{\kf18} is{\kf31} eat
+Dialogue: 0,0:01:07.70,0:01:10.65,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf30} that's{\kf30} what{\kf36} we{\kf36} shall{\kf24} do{\kf24}~{\kf24}~{\kf24}~{\kf37}~
+Dialogue: 0,0:01:11.10,0:01:13.70,DEFAULT,,0,0,0,,{\r}{\kf59}And{\kf24} if{\kf53} you're{\kf41} ve{\kf18}ry{\kf18} nice{\kf18} to{\kf29} us
+Dialogue: 0,0:01:13.90,0:01:17.25,DEFAULT,,0,0,0,,{\r}{\kf12}We{\kf12} shall{\kf31} share{\kf31} your{\kf37} lunch{\kf37} with{\kf68} you{\kf19}~{\kf50} may{\kf38}be
+Dialogue: 0,0:01:21.45,0:01:22.05,DEFAULT,,0,0,0,,{\r}{\kf20}Hel{\kf40}lo!
+Dialogue: 0,0:01:23.05,0:01:24.80,DEFAULT,,0,0,0,,{\r}{\kf30}My{\kf42} name{\kf24} is{\kf30} Pa{\kf30}ra{\kf19}sprite
+Dialogue: 0,0:01:24.95,0:01:26.25,DEFAULT,,0,0,0,,{\r}{\kf19}O{\kf31}M{\kf19}G{\kf43} me{\kf18} too!
+Dialogue: 0,0:01:26.40,0:01:27.75,DEFAULT,,0,0,0,,{\r}{\kf29}Hey{\kf35} that's{\kf35} my{\kf36} name!
+Dialogue: 0,0:01:27.90,0:01:28.80,DEFAULT,,0,0,0,,{\r}{\kf39}Let's{\kf51} sing!
+Dialogue: 0,0:01:29.45,0:01:30.50,DEFAULT,,0,0,0,,{\r}{\kf17}We're{\kf17} the{\kf22} Pa{\kf22}ra{\kf27}sprites
+Dialogue: 0,0:01:30.70,0:01:32.30,DEFAULT,,0,0,0,,{\r}{\kf11}We're{\kf40} fly{\kf17}ing{\kf17} through{\kf17} the{\kf46} fo{\kf12}rest
+Dialogue: 0,0:01:32.50,0:01:34.25,DEFAULT,,0,0,0,,{\r}{\kf32}Give{\kf19} us{\kf13} lots{\kf13} of{\kf19} sweet{\kf26} ap{\kf19}ples{\kf19} and{\kf15} cake
+Dialogue: 0,0:01:34.40,0:01:35.65,DEFAULT,,0,0,0,,{\r}{\kf13}So{\kf20} we{\kf13} can{\kf20} make{\kf20} some{\kf39} friends
+Dialogue: 0,0:01:35.80,0:01:38.55,DEFAULT,,0,0,0,,{\r}{\kf25}We{\kf19} are{\kf19} so{\kf50} hun{\kf19}gry{\kf38} please{\kf19} give{\kf19} us{\kf13} some{\kf38} mun{\kf16}chies
+Dialogue: 0,0:01:38.70,0:01:41.90,DEFAULT,,0,0,0,,{\r}{\kf34}'cause{\kf34} our{\kf48} tum{\kf27}mies{\kf41} needs{\kf34} some{\kf48} yum{\kf27} yum{\kf27}mies
+Dialogue: 0,0:01:42.05,0:01:44.70,DEFAULT,,0,0,0,,{\r}{\kf18}It's{\kf25} grow{\kf25}ling{\kf43} loud{\kf18}ly{\kf43} for{\kf31} some{\kf43} bon{\kf19}bons
+Dialogue: 0,0:01:44.85,0:01:46.30,DEFAULT,,0,0,0,,{\r}{\kf36}Please{\kf18} give{\kf18} it{\kf18} some{\kf36} nom{\kf19} noms
+Dialogue: 0,0:01:46.40,0:01:47.85,DEFAULT,,0,0,0,,{\r}{\kf46}Be{\kf40}cause{\kf33} well{\kf26} we
+Dialogue: 0,0:01:48.05,0:01:50.65,DEFAULT,,0,0,0,,{\r}{\kf67}All{\kf18} we{\kf48} want{\kf48} to{\kf12}~{\kf18} do{\kf18} is{\kf31} eat
+Dialogue: 0,0:01:50.85,0:01:53.80,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf30} that's{\kf30} what{\kf36} we{\kf36} shall{\kf24} do{\kf24}~{\kf24}~{\kf24}~{\kf37}~
+Dialogue: 0,0:01:54.30,0:01:56.80,DEFAULT,,0,0,0,,{\r}{\kf58}And{\kf23} if{\kf52} you're{\kf41} ve{\kf17}ry{\kf17} nice{\kf17} to{\kf25} us
+Dialogue: 0,0:01:57.05,0:02:00.40,DEFAULT,,0,0,0,,{\r}{\kf12}We{\kf12} shall{\kf31} share{\kf31} your{\kf37} lunch{\kf37} with{\kf68} you{\kf19}~{\kf50} may{\kf38}be
+Dialogue: 0,0:02:02.30,0:02:03.15,DEFAULT,,0,0,0,,{\r}{\kf25}Hel{\kf60}lo!
+Dialogue: 0,0:02:03.45,0:02:03.90,DEFAULT,,0,0,0,,{\r}{\kf45}Hi!
+Dialogue: 0,0:02:04.10,0:02:04.65,DEFAULT,,0,0,0,,{\r}{\kf55}Yo!
+Dialogue: 0,0:02:04.70,0:02:05.20,DEFAULT,,0,0,0,,{\r}{\kf30}How{\kf20}dy!
+Dialogue: 0,0:02:05.45,0:02:06.20,DEFAULT,,0,0,0,,{\r}{\kf35}Was{\kf40}sup?
+Dialogue: 0,0:02:06.70,0:02:08.65,DEFAULT,,0,0,0,,{\r}{\kf81}Yeah,{\kf47} let's{\kf67} sing!
+Dialogue: 0,0:02:10.15,0:02:11.20,DEFAULT,,0,0,0,,{\r}{\kf17}We{\kf17} are{\kf22} Pa{\kf22}ra{\kf27}sprites
+Dialogue: 0,0:02:11.35,0:02:12.95,DEFAULT,,0,0,0,,{\r}{\kf11}We're{\kf40} fly{\kf17}ing{\kf17} through{\kf17} the{\kf46} fo{\kf12}rest
+Dialogue: 0,0:02:13.10,0:02:14.85,DEFAULT,,0,0,0,,{\r}{\kf37}Give{\kf19} us{\kf12} lots{\kf12} of{\kf19} sweet{\kf25} ap{\kf25}ples{\kf12} and{\kf14} cake
+Dialogue: 0,0:02:14.95,0:02:16.20,DEFAULT,,0,0,0,,{\r}{\kf12}So{\kf19} we{\kf19} can{\kf19} make{\kf25} some{\kf31} friends
+Dialogue: 0,0:02:16.55,0:02:19.20,DEFAULT,,0,0,0,,{\r}{\kf18}We{\kf12} are{\kf18} so{\kf47} hun{\kf18}gry{\kf35} please{\kf18} give{\kf24} us{\kf18} some{\kf41} mun{\kf16}chies
+Dialogue: 0,0:02:19.35,0:02:22.50,DEFAULT,,0,0,0,,{\r}{\kf34}'cause{\kf34} our{\kf48} tum{\kf27}mies{\kf41} needs{\kf34} some{\kf48} yum{\kf27} yum{\kf22}mies
+Dialogue: 0,0:02:22.70,0:02:25.35,DEFAULT,,0,0,0,,{\r}{\kf19}It's{\kf25} grow{\kf25}ling{\kf44} loud{\kf19}ly{\kf44} for{\kf32} some{\kf44} bon{\kf13}bons
+Dialogue: 0,0:02:25.50,0:02:26.95,DEFAULT,,0,0,0,,{\r}{\kf36}Please{\kf18} give{\kf18} it{\kf18} some{\kf36} nom{\kf19} noms
+Dialogue: 0,0:02:27.05,0:02:28.50,DEFAULT,,0,0,0,,{\r}{\kf46}Be{\kf40}cause{\kf33} well{\kf26} we
+Dialogue: 0,0:02:28.70,0:02:31.30,DEFAULT,,0,0,0,,{\r}{\kf67}All{\kf18} we{\kf48} want{\kf48} to{\kf12}~{\kf18} do{\kf18} is{\kf31} eat
+Dialogue: 0,0:02:31.55,0:02:34.50,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf30} that's{\kf30} what{\kf36} we{\kf36} shall{\kf24} do{\kf24}~{\kf24}~{\kf24}~{\kf37}~
+Dialogue: 0,0:02:34.90,0:02:37.50,DEFAULT,,0,0,0,,{\r}{\kf59}And{\kf24} if{\kf53} you're{\kf41} ve{\kf18}ry{\kf18} nice{\kf18} to{\kf29} us
+Dialogue: 0,0:02:37.70,0:02:41.05,DEFAULT,,0,0,0,,{\r}{\kf12}We{\kf12} shall{\kf31} share{\kf31} your{\kf37} lunch{\kf37} with{\kf68} you{\kf19}~{\kf50} may{\kf38}be
+Dialogue: 0,0:02:45.25,0:02:47.90,DEFAULT,,0,0,0,,{\r}{\kf82}Yeah,{\kf25} now{\kf19} we{\kf25} have{\kf44} twelve{\kf70} friends!
+Dialogue: 0,0:02:48.45,0:02:49.80,DEFAULT,,0,0,0,,{\r}{\kf35}Let's{\kf35} all{\kf65} sing!
+Dialogue: 0,0:02:50.15,0:02:51.35,DEFAULT,,0,0,0,,{\r}{\kf32}You{\kf32} can't{\kf56} count-
+Dialogue: 0,0:03:12.80,0:03:13.80,DEFAULT,,0,0,0,,{\r}{\kf19}Kwak{\kf19} kwak{\kf19} kwak{\kf25} kwak{\kf18} kwak
+Dialogue: 0,0:03:14.00,0:03:15.55,DEFAULT,,0,0,0,,{\r}{\kf21}Kwak{\kf42} kwak{\kf14} kwak{\kf14} kwak{\kf14} kwak{\kf50} kwak
+Dialogue: 0,0:03:15.70,0:03:16.90,DEFAULT,,0,0,0,,{\r}{\kf13}Kwak{\kf33} kwak{\kf20} kwak{\kf13} kwak{\kf13} kwak{\kf28} kwak
+Dialogue: 0,0:03:17.10,0:03:18.85,DEFAULT,,0,0,0,,{\r}{\kf20}Kwak{\kf34} kwak{\kf13} kwak{\kf20} kwak{\kf20} kwak{\kf20} kwak{\kf20} kwak{\kf28} kwak
+Dialogue: 0,0:03:19.15,0:03:22.50,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf24} that's{\kf30} what{\kf12} would{\kf12} have{\kf24} hap{\kf24}pened{\kf12} if{\kf18} I{\kf18} did{\kf18}n't{\kf30} save{\kf24} the{\kf65} day!
+Dialogue: 0,0:03:23.65,0:03:26.95,DEFAULT,,0,0,0,,{\r}{\kf94}Err...{\kf66} Pin{\kf94}kie...{\kf76} I...
+Dialogue: 0,0:03:27.15,0:03:28.90,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf13} was{\kf19} on{\kf19}ly{\kf19} here{\kf13} to{\kf19} bor{\kf13}row{\kf19} some{\kf28} flour
+Dialogue: 0,0:03:29.15,0:03:32.55,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf33} just{\kf26} don't{\kf20} re{\kf33}mem{\kf20}ber{\kf20} why{\kf13} I{\kf13} was{\kf20} here{\kf20} in{\kf26} the{\kf33} first{\kf30} place!
+Dialogue: 0,0:03:32.80,0:03:33.40,DEFAULT,,0,0,0,,{\r}{\kf20}Hel{\kf40}lo!

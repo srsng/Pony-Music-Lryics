@@ -1,61 +1,68 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: I Need That
+Artist: Micheal Arellano (ft. DerpyGrooves)
+Original Timing: mylittlekaraoke.com by amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:57.64,0:00:59.16,DEFAULT,,0,0,0,,{\kf17}I{\kf11} need{\kf17} that{\kf22} Rain{\kf17}bow{\kf33} Juice
-Dialogue: 0,0:00:59.37,0:01:00.79,DEFAULT,,0,0,0,,{\kf17}I{\kf17} need{\kf17} that{\kf17} Scoot{\kf11}a{\kf33}buse
-Dialogue: 0,0:01:01.11,0:01:02.80,DEFAULT,,0,0,0,,{\kf17}I{\kf17} need{\kf17} that{\kf17} poi{\kf17}son{\kf22} joke{\kf11} smoke
-Dialogue: 0,0:01:02.91,0:01:04.37,DEFAULT,,0,0,0,,{\kf11}to{\kf17} keep{\kf17} my{\kf39} wings{\kf28} loose
-Dialogue: 0,0:01:04.70,0:01:06.22,DEFAULT,,0,0,0,,{\kf11}I{\kf11} need{\kf11} that{\kf17} Pink{\kf22}ie{\kf33} Pie
-Dialogue: 0,0:01:06.44,0:01:07.96,DEFAULT,,0,0,0,,{\kf11}I{\kf11} need{\kf11} that{\kf17} Fu{\kf22}ta{\kf28}shy
-Dialogue: 0,0:01:08.29,0:01:11.33,DEFAULT,,0,0,0,,{\kf11}Need{\kf6} to{\kf17} keep{\kf17} clop{\kf28}pin'{\kf17} un{\kf17}til'{\kf17} I{\kf22} die
-Dialogue: 0,0:01:11.55,0:01:13.07,DEFAULT,,0,0,0,,{\kf17}I{\kf11} need{\kf17} that{\kf22} Rain{\kf17}bow{\kf33} Juice
-Dialogue: 0,0:01:13.29,0:01:14.75,DEFAULT,,0,0,0,,{\kf17}I{\kf17} need{\kf17} that{\kf17} Scoot{\kf11}a{\kf33}buse
-Dialogue: 0,0:01:15.03,0:01:16.71,DEFAULT,,0,0,0,,{\kf17}I{\kf17} need{\kf17} that{\kf17} poi{\kf17}son{\kf22} joke{\kf11} smoke
-Dialogue: 0,0:01:16.82,0:01:18.29,DEFAULT,,0,0,0,,{\kf11}to{\kf17} keep{\kf17} my{\kf39} wings{\kf28} loose
-Dialogue: 0,0:01:18.61,0:01:20.19,DEFAULT,,0,0,0,,{\kf11}I{\kf11} need{\kf11} that{\kf17} Pink{\kf22}ie{\kf33} Pie
-Dialogue: 0,0:01:20.35,0:01:21.93,DEFAULT,,0,0,0,,{\kf11}I{\kf11} need{\kf11} that{\kf17} Fu{\kf22}ta{\kf33}shy
-Dialogue: 0,0:01:22.20,0:01:25.24,DEFAULT,,0,0,0,,{\kf11}Need{\kf6} to{\kf17} keep{\kf17} clop{\kf28}pin'{\kf17} un{\kf17}til'{\kf17} I{\kf22} die
-Dialogue: 0,0:01:25.46,0:01:26.93,DEFAULT,,0,0,0,,{\kf17}I{\kf11} need{\kf17} that{\kf17} Swee{\kf17}tie{\kf33} Belle
-Dialogue: 0,0:01:27.20,0:01:28.67,DEFAULT,,0,0,0,,{\kf17}I{\kf17} need{\kf17} that{\kf17} Ap{\kf11}ple{\kf33}bloom
-Dialogue: 0,0:01:28.94,0:01:30.57,DEFAULT,,0,0,0,,{\kf17}I{\kf17} need{\kf17} some{\kf22} bass{\kf22} so{\kf22} deep
-Dialogue: 0,0:01:30.73,0:01:32.20,DEFAULT,,0,0,0,,{\kf17}that{\kf17} it{\kf28} shakes{\kf11} the{\kf17} room
-Dialogue: 0,0:01:32.42,0:01:34.10,DEFAULT,,0,0,0,,{\kf11}I{\kf11} need{\kf11} that{\kf17} Ap{\kf22}ple{\kf33}jack
-Dialogue: 0,0:01:34.21,0:01:35.68,DEFAULT,,0,0,0,,{\kf17}I{\kf11} need{\kf11} that{\kf17} Rar{\kf22}i{\kf22}ty
-Dialogue: 0,0:01:35.89,0:01:37.47,DEFAULT,,0,0,0,,{\kf11}Why{\kf11} don't{\kf6} you{\kf17} eat{\kf17} some{\kf28} grass
-Dialogue: 0,0:01:37.63,0:01:39.21,DEFAULT,,0,0,0,,{\kf33}and{\kf17} lay{\kf17} down{\kf17} with{\kf28} me?
-Dialogue: 0,0:01:39.37,0:01:40.08,DEFAULT,,0,0,0,,{\kf11}I{\kf17} need{\kf22} that
-Dialogue: 0,0:01:42.85,0:01:43.50,DEFAULT,,0,0,0,,{\kf11}I{\kf17} need{\kf17} that
-Dialogue: 0,0:01:46.33,0:01:46.98,DEFAULT,,0,0,0,,{\kf11}I{\kf17} need{\kf17} that
-Dialogue: 0,0:01:49.81,0:01:50.46,DEFAULT,,0,0,0,,{\kf11}I{\kf17} need{\kf17} that
-Dialogue: 0,0:01:52.90,0:01:55.62,DEFAULT,,0,0,0,,{\kf11}To{\kf28} take{\kf11} the{\kf17} edge{\kf6} off{\kf28}~{\kf22} my{\kf49} life
-Dialogue: 0,0:01:56.55,0:01:58.88,DEFAULT,,0,0,0,,{\kf33}Stu{\kf6}pid{\kf17} sex{\kf28}y{\kf6} Twi{\kf28}~{\kf33}light
-Dialogue: 0,0:02:00.02,0:02:03.18,DEFAULT,,0,0,0,,{\kf33}Cast{\kf11} a{\kf33} spell{\kf6} and{\kf28}~{\kf6} you{\kf28}~{\kf17} will{\kf28} see{\kf28} that
-Dialogue: 0,0:02:03.34,0:02:05.95,DEFAULT,,0,0,0,,{\kf49}You{\kf6} be{\kf33}long{\kf28} in{\kf28} my{\kf11} life{\kf33}~
-Dialogue: 0,0:02:07.03,0:02:09.53,DEFAULT,,0,0,0,,{\kf28}Take{\kf11} the{\kf17} edge{\kf6} off{\kf28}~{\kf22} my{\kf49} life
-Dialogue: 0,0:02:10.46,0:02:12.85,DEFAULT,,0,0,0,,{\kf33}Stu{\kf6}pid{\kf17} sex{\kf28}y{\kf6} Twi{\kf28}~{\kf33}light
-Dialogue: 0,0:02:13.94,0:02:17.09,DEFAULT,,0,0,0,,{\kf33}Take{\kf11} these{\kf33} pills{\kf6} and{\kf28}~{\kf6} you{\kf28}~{\kf17} will{\kf22} see{\kf28} that
-Dialogue: 0,0:02:17.25,0:02:21.44,DEFAULT,,0,0,0,,{\kf49}You{\kf6} be{\kf33}long{\kf28} in{\kf28} my{\kf11} life{\kf33}~{\kf28} in{\kf28} my{\kf33} life
-Dialogue: 0,0:02:34.97,0:02:36.44,DEFAULT,,0,0,0,,{\kf17}I{\kf17} need{\kf17} that{\kf17} Swee{\kf11}tie{\kf33} Belle
-Dialogue: 0,0:02:36.71,0:02:38.12,DEFAULT,,0,0,0,,{\kf17}I{\kf17} need{\kf11} that{\kf17} Ap{\kf11}ple{\kf33}bloom
-Dialogue: 0,0:02:38.45,0:02:40.08,DEFAULT,,0,0,0,,{\kf17}I{\kf17} need{\kf17} some{\kf22} bass{\kf22} so{\kf22} deep
-Dialogue: 0,0:02:40.29,0:02:41.76,DEFAULT,,0,0,0,,{\kf17}that{\kf17} it{\kf22} shakes{\kf11} the{\kf17} room
-Dialogue: 0,0:02:41.98,0:02:43.61,DEFAULT,,0,0,0,,{\kf11}I{\kf11} need{\kf11} that{\kf17} Ap{\kf22}ple{\kf33}jack
-Dialogue: 0,0:02:43.72,0:02:45.24,DEFAULT,,0,0,0,,{\kf17}I{\kf11} need{\kf11} that{\kf28} Rar{\kf22}i{\kf22}ty
-Dialogue: 0,0:02:45.46,0:02:47.03,DEFAULT,,0,0,0,,{\kf11}Why{\kf11} don't{\kf6} you{\kf17} eat{\kf17} some{\kf28} grass
-Dialogue: 0,0:02:47.20,0:02:48.77,DEFAULT,,0,0,0,,{\kf33}and{\kf17} lay{\kf17} down{\kf17} with{\kf28} me?
-Dialogue: 0,0:03:04.21,0:03:06.92,DEFAULT,,0,0,0,,{\kf11}To{\kf28} take{\kf11} the{\kf17} edge{\kf6} off{\kf28}~{\kf22} my{\kf49} life
-Dialogue: 0,0:03:07.85,0:03:10.18,DEFAULT,,0,0,0,,{\kf33}Stu{\kf6}pid{\kf17} sex{\kf28}y{\kf6} Twi{\kf28}~{\kf33}light
-Dialogue: 0,0:03:11.33,0:03:14.48,DEFAULT,,0,0,0,,{\kf33}Cast{\kf11} a{\kf33} spell{\kf6} and{\kf28}~{\kf6} you{\kf33}~{\kf17} will{\kf28} see{\kf28} that
-Dialogue: 0,0:03:14.64,0:03:17.25,DEFAULT,,0,0,0,,{\kf49}You{\kf6} be{\kf33}long{\kf28} in{\kf28} my{\kf11} life{\kf33}~
-Dialogue: 0,0:03:18.34,0:03:20.84,DEFAULT,,0,0,0,,{\kf28}Take{\kf11} the{\kf17} edge{\kf6} off{\kf28}~{\kf22} my{\kf49} life
-Dialogue: 0,0:03:21.76,0:03:24.15,DEFAULT,,0,0,0,,{\kf33}Stu{\kf6}pid{\kf17} sex{\kf28}y{\kf6} Twi{\kf28}~{\kf33}light
-Dialogue: 0,0:03:25.24,0:03:28.39,DEFAULT,,0,0,0,,{\kf33}Take{\kf11} these{\kf33} pills{\kf6} and{\kf28}~{\kf6} you{\kf33}~{\kf17} will{\kf28} see{\kf28} that
-Dialogue: 0,0:03:28.55,0:03:32.79,DEFAULT,,0,0,0,,{\kf49}You{\kf6} be{\kf33}long{\kf28} in{\kf28} my{\kf11} life{\kf33}~{\kf28} in{\kf28} my{\kf39} life
+Dialogue: 0,0:00:57.64,0:00:59.16,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf14} need{\kf22} that{\kf29} Rain{\kf22}bow{\kf43} Juice
+Dialogue: 0,0:00:59.38,0:01:00.79,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21} need{\kf21} that{\kf21} Scoot{\kf14}a{\kf43}buse
+Dialogue: 0,0:01:01.12,0:01:02.80,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} need{\kf24} that{\kf24} poi{\kf24}son{\kf32} joke{\kf16} smoke
+Dialogue: 0,0:01:02.91,0:01:04.38,DEFAULT,,0,0,0,,{\r}{\kf15}to{\kf22} keep{\kf22} my{\kf51} wings{\kf37} loose
+Dialogue: 0,0:01:04.70,0:01:06.23,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} need{\kf16} that{\kf24} Pink{\kf32}ie{\kf48} Pie
+Dialogue: 0,0:01:06.44,0:01:07.97,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf17} need{\kf17} that{\kf25} Fu{\kf34}ta{\kf42}shy
+Dialogue: 0,0:01:08.29,0:01:11.34,DEFAULT,,0,0,0,,{\r}{\kf23}Need{\kf11} to{\kf34} keep{\kf34} clop{\kf56}pin'{\kf34} un{\kf34}til'{\kf34} I{\kf44} die
+Dialogue: 0,0:01:11.55,0:01:13.07,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf14} need{\kf22} that{\kf29} Rain{\kf22}bow{\kf43} Juice
+Dialogue: 0,0:01:13.29,0:01:14.76,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} need{\kf22} that{\kf22} Scoot{\kf15}a{\kf44}buse
+Dialogue: 0,0:01:15.03,0:01:16.72,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} need{\kf24} that{\kf24} poi{\kf24}son{\kf32} joke{\kf16} smoke
+Dialogue: 0,0:01:16.82,0:01:18.29,DEFAULT,,0,0,0,,{\r}{\kf15}to{\kf22} keep{\kf22} my{\kf51} wings{\kf37} loose
+Dialogue: 0,0:01:18.62,0:01:20.19,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf17} need{\kf17} that{\kf25} Pink{\kf33}ie{\kf49} Pie
+Dialogue: 0,0:01:20.36,0:01:21.93,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf17} need{\kf17} that{\kf25} Fu{\kf33}ta{\kf49}shy
+Dialogue: 0,0:01:22.20,0:01:25.25,DEFAULT,,0,0,0,,{\r}{\kf23}Need{\kf11} to{\kf34} keep{\kf34} clop{\kf56}pin'{\kf34} un{\kf34}til'{\kf34} I{\kf44} die
+Dialogue: 0,0:01:25.47,0:01:26.93,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf15} need{\kf22} that{\kf22} Swee{\kf22}tie{\kf44} Belle
+Dialogue: 0,0:01:27.20,0:01:28.67,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} need{\kf22} that{\kf22} Ap{\kf15}ple{\kf44}bloom
+Dialogue: 0,0:01:28.94,0:01:30.57,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf23} need{\kf23} some{\kf31} bass{\kf31} so{\kf32} deep
+Dialogue: 0,0:01:30.74,0:01:32.20,DEFAULT,,0,0,0,,{\r}{\kf28}that{\kf28} it{\kf46} shakes{\kf18} the{\kf27} room
+Dialogue: 0,0:01:32.42,0:01:34.11,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf18} need{\kf18} that{\kf27} Ap{\kf35}ple{\kf52}jack
+Dialogue: 0,0:01:34.21,0:01:35.68,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf16} need{\kf16} that{\kf24} Rar{\kf33}i{\kf34}ty
+Dialogue: 0,0:01:35.90,0:01:37.48,DEFAULT,,0,0,0,,{\r}{\kf20}Why{\kf20} don't{\kf10} you{\kf30} eat{\kf30} some{\kf48} grass
+Dialogue: 0,0:01:37.64,0:01:39.21,DEFAULT,,0,0,0,,{\r}{\kf47}and{\kf24} lay{\kf24} down{\kf24} with{\kf39} me?
+Dialogue: 0,0:01:39.38,0:01:40.08,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf24} need{\kf31} that
+Dialogue: 0,0:01:42.86,0:01:43.51,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf24} need{\kf25} that
+Dialogue: 0,0:01:46.33,0:01:46.99,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf24} need{\kf25} that
+Dialogue: 0,0:01:49.81,0:01:50.46,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf24} need{\kf25} that
+Dialogue: 0,0:01:52.91,0:01:55.63,DEFAULT,,0,0,0,,{\r}{\kf18}To{\kf44} take{\kf18} the{\kf26} edge{\kf10} off{\kf44}~{\kf35} my{\kf77} life
+Dialogue: 0,0:01:56.55,0:01:58.89,DEFAULT,,0,0,0,,{\r}{\kf52}Stu{\kf10}pid{\kf26} sex{\kf43}y{\kf10} Twi{\kf43}~{\kf50}light
+Dialogue: 0,0:02:00.03,0:02:03.18,DEFAULT,,0,0,0,,{\r}{\kf48}Cast{\kf16} a{\kf48} spell{\kf10} and{\kf40}~{\kf10} you{\kf40}~{\kf24} will{\kf40} see{\kf39} that
+Dialogue: 0,0:02:03.34,0:02:05.95,DEFAULT,,0,0,0,,{\r}{\kf69}You{\kf10} be{\kf46}long{\kf38} in{\kf38} my{\kf15} life{\kf45}~
+Dialogue: 0,0:02:07.04,0:02:09.54,DEFAULT,,0,0,0,,{\r}{\kf43}Take{\kf17} the{\kf26} edge{\kf10} off{\kf43}~{\kf34} my{\kf77} life
+Dialogue: 0,0:02:10.46,0:02:12.85,DEFAULT,,0,0,0,,{\r}{\kf53}Stu{\kf10}pid{\kf27} sex{\kf44}y{\kf10} Twi{\kf44}~{\kf51}light
+Dialogue: 0,0:02:13.94,0:02:17.09,DEFAULT,,0,0,0,,{\r}{\kf50}Take{\kf17} these{\kf50} pills{\kf10} and{\kf41}~{\kf10} you{\kf41}~{\kf25} will{\kf33} see{\kf38} that
+Dialogue: 0,0:02:17.26,0:02:21.44,DEFAULT,,0,0,0,,{\r}{\kf75}You{\kf10} be{\kf50}long{\kf42} in{\kf42} my{\kf17} life{\kf50}~{\kf42} in{\kf42} my{\kf48} life
+Dialogue: 0,0:02:34.97,0:02:36.44,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} need{\kf22} that{\kf22} Swee{\kf15}tie{\kf44} Belle
+Dialogue: 0,0:02:36.71,0:02:38.13,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} need{\kf15} that{\kf22} Ap{\kf15}ple{\kf45}bloom
+Dialogue: 0,0:02:38.45,0:02:40.08,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf23} need{\kf23} some{\kf31} bass{\kf31} so{\kf32} deep
+Dialogue: 0,0:02:40.30,0:02:41.77,DEFAULT,,0,0,0,,{\r}{\kf29}that{\kf29} it{\kf39} shakes{\kf20} the{\kf30} room
+Dialogue: 0,0:02:41.98,0:02:43.61,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf17} need{\kf17} that{\kf26} Ap{\kf34}ple{\kf52}jack
+Dialogue: 0,0:02:43.72,0:02:45.24,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf15} need{\kf15} that{\kf38} Rar{\kf30}i{\kf31}ty
+Dialogue: 0,0:02:45.46,0:02:47.04,DEFAULT,,0,0,0,,{\r}{\kf20}Why{\kf20} don't{\kf10} you{\kf30} eat{\kf30} some{\kf48} grass
+Dialogue: 0,0:02:47.20,0:02:48.78,DEFAULT,,0,0,0,,{\r}{\kf47}and{\kf24} lay{\kf24} down{\kf24} with{\kf39} me?
+Dialogue: 0,0:03:04.21,0:03:06.93,DEFAULT,,0,0,0,,{\r}{\kf18}To{\kf44} take{\kf18} the{\kf26} edge{\kf10} off{\kf44}~{\kf35} my{\kf77} life
+Dialogue: 0,0:03:07.85,0:03:10.19,DEFAULT,,0,0,0,,{\r}{\kf52}Stu{\kf10}pid{\kf26} sex{\kf43}y{\kf10} Twi{\kf43}~{\kf50}light
+Dialogue: 0,0:03:11.33,0:03:14.48,DEFAULT,,0,0,0,,{\r}{\kf47}Cast{\kf16} a{\kf47} spell{\kf10} and{\kf39}~{\kf10} you{\kf47}~{\kf24} will{\kf39} see{\kf36} that
+Dialogue: 0,0:03:14.65,0:03:17.25,DEFAULT,,0,0,0,,{\r}{\kf69}You{\kf10} be{\kf46}long{\kf38} in{\kf38} my{\kf15} life{\kf45}~
+Dialogue: 0,0:03:18.34,0:03:20.84,DEFAULT,,0,0,0,,{\r}{\kf43}Take{\kf17} the{\kf26} edge{\kf10} off{\kf43}~{\kf34} my{\kf77} life
+Dialogue: 0,0:03:21.77,0:03:24.16,DEFAULT,,0,0,0,,{\r}{\kf53}Stu{\kf10}pid{\kf27} sex{\kf44}y{\kf10} Twi{\kf44}~{\kf51}light
+Dialogue: 0,0:03:25.24,0:03:28.40,DEFAULT,,0,0,0,,{\r}{\kf47}Take{\kf16} these{\kf47} pills{\kf10} and{\kf39}~{\kf10} you{\kf47}~{\kf24} will{\kf39} see{\kf36} that
+Dialogue: 0,0:03:28.56,0:03:32.80,DEFAULT,,0,0,0,,{\r}{\kf75}You{\kf10} be{\kf50}long{\kf42} in{\kf42} my{\kf17} life{\kf50}~{\kf42} in{\kf42} my{\kf54} life

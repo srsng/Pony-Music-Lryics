@@ -1,59 +1,66 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: What More Is Out There (Alternative Version)
+Artist: Equestria Girls - Friendship Games
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:19.55,0:00:23.41,DEFAULT,,0,0,0,,{\kf23}I've{\kf34} walked{\kf30} through{\kf42} all{\kf30} these{\kf60} halls{\kf15} be{\kf109}fore
-Dialogue: 0,0:00:26.41,0:00:31.36,DEFAULT,,0,0,0,,{\kf19}I've{\kf19} been{\kf15} in{\kf27} and{\kf38} out{\kf30} of{\kf30} eve{\kf45}ry{\kf72} door,{\kf15} oh{\kf19}-woah{\kf49}-oh
-Dialogue: 0,0:00:33.05,0:00:38.33,DEFAULT,,0,0,0,,{\kf19}There's{\kf15} no{\kf19}thing{\kf19} in{\kf27} this{\kf23} scho{\kf27}-ol{\kf38} that{\kf12} I{\kf19}-I{\kf45} don't{\kf117} kno{\kf19}-o{\kf15}-o{\kf53}-ow
-Dialogue: 0,0:00:39.08,0:00:41.86,DEFAULT,,0,0,0,,{\kf15}In{\kf15} eve{\kf19}ry{\kf42} class{\kf23} my{\kf53} grade's{\kf12} the{\kf68} best
-Dialogue: 0,0:00:42.50,0:00:45.38,DEFAULT,,0,0,0,,{\kf12}The{\kf19} high{\kf12}est{\kf34} score{\kf27} on{\kf45} eve{\kf23}ry{\kf79} test
-Dialogue: 0,0:00:46.43,0:00:47.90,DEFAULT,,0,0,0,,{\kf12}I{\kf19} think{\kf27} that{\kf49} means{\kf19} it's
-Dialogue: 0,0:00:48.20,0:00:51.08,DEFAULT,,0,0,0,,{\kf38}Time{\kf19} for{\kf64} me{\kf15} to{\kf132} go
-Dialogue: 0,0:00:52.77,0:00:55.73,DEFAULT,,0,0,0,,{\kf12}I{\kf23} know{\kf15} there's{\kf102} more{\kf27} that's{\kf27} out{\kf45} there
-Dialogue: 0,0:00:56.15,0:00:59.07,DEFAULT,,0,0,0,,{\kf19}And{\kf15} I{\kf15} just{\kf19} ha{\kf27}ven't{\kf15} fo{\kf27}und{\kf15} it{\kf23} ye{\kf53}-et
-Dialogue: 0,0:00:59.60,0:01:02.67,DEFAULT,,0,0,0,,{\kf15}I{\kf19} know{\kf15} there's{\kf105} more{\kf34} that's{\kf27} out{\kf45} there
-Dialogue: 0,0:01:03.08,0:01:06.31,DEFAULT,,0,0,0,,{\kf12}A{\kf12}no{\kf19}ther{\kf23} "me"{\kf27} I{\kf34} ha{\kf38}ven't{\kf113} met
-Dialogue: 0,0:01:09.68,0:01:13.36,DEFAULT,,0,0,0,,{\kf15}Eve{\kf12}ry{\kf23}one{\kf15} he{\kf23}-ere{\kf38} likes{\kf34} who{\kf38} I{\kf132} am
-Dialogue: 0,0:01:16.10,0:01:21.01,DEFAULT,,0,0,0,,{\kf19}And{\kf12} it's{\kf19} not{\kf19} from{\kf15} a{\kf30} ma{\kf30}gic{\kf60} spell's{\kf19} com{\kf64}mand,{\kf15} oh{\kf19}-woah{\kf42}-oh
-Dialogue: 0,0:01:22.88,0:01:28.17,DEFAULT,,0,0,0,,{\kf19}My{\kf38} friends{\kf34} look{\kf15} pa{\kf23}-ast{\kf27} the{\kf27} thi{\kf19}-ing{\kf30} I've{\kf128} do{\kf15}-one{\kf12} be{\kf53}fo{\kf23}-ore
-Dialogue: 0,0:01:29.33,0:01:31.58,DEFAULT,,0,0,0,,{\kf23}Still{\kf34} I{\kf38} miss{\kf34} those{\kf75} quests
-Dialogue: 0,0:01:32.18,0:01:34.96,DEFAULT,,0,0,0,,{\kf12}The{\kf15} my{\kf19}thic{\kf23} crea{\kf30}tures,{\kf38} ma{\kf27}gic{\kf75} tests
-Dialogue: 0,0:01:36.16,0:01:37.51,DEFAULT,,0,0,0,,{\kf19}High{\kf34}school's{\kf34} great,{\kf30} sure
-Dialogue: 0,0:01:37.73,0:01:40.66,DEFAULT,,0,0,0,,{\kf12}But{\kf19} who{\kf38} am{\kf38} I{\kf15} a{\kf15}ny{\kf124}more?
-Dialogue: 0,0:01:43.73,0:01:46.02,DEFAULT,,0,0,0,,{\kf15}It's{\kf15} not{\kf30} that{\kf38} I'm{\kf34} un{\kf15}gra{\kf19}-ate{\kf19}ful
-Dialogue: 0,0:01:46.28,0:01:49.85,DEFAULT,,0,0,0,,{\kf15}Or{\kf27} try{\kf34}ing{\kf27} to{\kf30} suc{\kf45}ce{\kf23}-e{\kf12}-e{\kf19}-e{\kf79}-ed
-Dialogue: 0,0:01:50.33,0:01:53.00,DEFAULT,,0,0,0,,{\kf19}But{\kf15} there's{\kf27} some{\kf27}thing{\kf12} le{\kf19}-eft{\kf15} sti{\kf15}-ill{\kf8} mi{\kf23}-is{\kf34}sing
-Dialogue: 0,0:01:53.33,0:01:55.77,DEFAULT,,0,0,0,,{\kf19}Some{\kf42}thing{\kf42} that{\kf30} I{\kf15} ne{\kf79}-ed
-Dialogue: 0,0:01:56.18,0:01:59.15,DEFAULT,,0,0,0,,{\kf19}I{\kf12} know{\kf23} there's{\kf90} more{\kf15} tha{\kf19}-at's{\kf30} out{\kf42} there
-Dialogue: 0,0:01:59.78,0:02:02.45,DEFAULT,,0,0,0,,{\kf19}May{\kf15}be{\kf38} folks{\kf19} that{\kf38} need{\kf38} my{\kf23} he{\kf45}-elp
-Dialogue: 0,0:02:03.05,0:02:05.97,DEFAULT,,0,0,0,,{\kf15}I{\kf19} know{\kf15} there's{\kf94} more{\kf30} that's{\kf34} out{\kf45} there
-Dialogue: 0,0:02:06.42,0:02:09.38,DEFAULT,,0,0,0,,{\kf19}Be{\kf19}cause{\kf12} I've{\kf19} seen{\kf19} it{\kf34} for{\kf38} my{\kf12}se{\kf68}-elf
-Dialogue: 0,0:02:09.87,0:02:12.87,DEFAULT,,0,0,0,,{\kf19}There's{\kf15} on{\kf12}ly{\kf15} so{\kf30} much{\kf19} this{\kf38} town{\kf23} can{\kf30} of{\kf45}fer
-Dialogue: 0,0:02:13.36,0:02:16.25,DEFAULT,,0,0,0,,{\kf12}And{\kf15} I'm{\kf12} not{\kf27} say{\kf23}ing{\kf42} that's{\kf30} so{\kf19} ba{\kf64}-ad
-Dialogue: 0,0:02:16.96,0:02:19.77,DEFAULT,,0,0,0,,{\kf15}But{\kf19} I{\kf34} know{\kf23} there's{\kf34} more{\kf34} that's{\kf30} out{\kf15} the{\kf38}-ere
-Dialogue: 0,0:02:20.18,0:02:23.37,DEFAULT,,0,0,0,,{\kf19}'Cause{\kf19} it's{\kf12} a{\kf34} life{\kf8} tha{\kf15}-at{\kf30} I{\kf30} once{\kf113} had
-Dialogue: 0,0:02:26.37,0:02:31.92,DEFAULT,,0,0,0,,{\kf23}Be{\kf34}yond{\kf34} these{\kf57} rooms,{\kf19} be{\kf42}yond{\kf34} these{\kf19} wa{\kf255}-alls
-Dialogue: 0,0:02:33.20,0:02:37.85,DEFAULT,,0,0,0,,{\kf19}So{\kf30} much{\kf34} to{\kf27} learn,{\kf12} I{\kf34} can't{\kf15} se{\kf12}-e{\kf12}-e{\kf19} it{\kf38} a{\kf15}-a{\kf120}-all
-Dialogue: 0,0:02:40.10,0:02:45.83,DEFAULT,,0,0,0,,{\kf15}This{\kf34} town{\kf30} is{\kf38} home,{\kf15} this{\kf49} school{\kf27} is{\kf15} sa{\kf113}-a{\kf19}-a{\kf23}-a{\kf23}-a{\kf90}-afe
-Dialogue: 0,0:02:47.00,0:02:49.32,DEFAULT,,0,0,0,,{\kf15}But{\kf30} how{\kf38} can{\kf30} I{\kf34} be{\kf49} home
-Dialogue: 0,0:02:49.70,0:02:52.47,DEFAULT,,0,0,0,,{\kf12}And{\kf19} still{\kf30} feel{\kf38} out{\kf30} of{\kf15} pla{\kf19}-a{\kf68}-ace?
-Dialogue: 0,0:02:52.92,0:02:55.70,DEFAULT,,0,0,0,,{\kf19}And{\kf12} I{\kf38} know{\kf23} there's{\kf30} more{\kf27} that's{\kf23} out{\kf49} there
-Dialogue: 0,0:02:56.15,0:02:59.22,DEFAULT,,0,0,0,,{\kf15}A{\kf15}no{\kf23}ther{\kf42} world{\kf38} to{\kf27} ex{\kf98}plore
-Dialogue: 0,0:02:59.82,0:03:02.56,DEFAULT,,0,0,0,,{\kf19}And{\kf15} I{\kf30} know{\kf19} there's{\kf42} more{\kf30} that's{\kf30} out{\kf42} there
-Dialogue: 0,0:03:03.20,0:03:07.81,DEFAULT,,0,0,0,,{\kf19}Am{\kf15} I{\kf34} wrong{\kf19} for{\kf38} wan{\kf15}ti{\kf27}-ing{\kf12} mo{\kf248}-ore?
-Dialogue: 0,0:03:08.22,0:03:11.15,DEFAULT,,0,0,0,,{\kf12}And{\kf15} I{\kf23} can't{\kf27} wait{\kf27} for{\kf23} it{\kf12} to{\kf19}-o{\kf34} hap{\kf45}pen
-Dialogue: 0,0:03:11.60,0:03:14.52,DEFAULT,,0,0,0,,{\kf15}Though{\kf19} what{\kf12} it{\kf23} is{\kf27} I{\kf30} can{\kf30}not{\kf23} sa{\kf60}-ay
-Dialogue: 0,0:03:15.20,0:03:18.20,DEFAULT,,0,0,0,,{\kf19}I{\kf19} just{\kf30} know{\kf23} there's{\kf38} more{\kf34} that's{\kf34} out{\kf15} the{\kf45}-ere
-Dialogue: 0,0:03:18.65,0:03:21.53,DEFAULT,,0,0,0,,{\kf19}And{\kf15} it's{\kf27} cal{\kf30}ling{\kf34} out{\kf34} my{\kf15} na{\kf83}-ame
-Dialogue: 0,0:03:22.02,0:03:24.80,DEFAULT,,0,0,0,,{\kf23}And{\kf15} I'm{\kf23} sear{\kf30}ching{\kf57} for{\kf23} the{\kf30} ans{\kf42}wer
-Dialogue: 0,0:03:25.47,0:03:28.25,DEFAULT,,0,0,0,,{\kf19}'Cause{\kf15} I{\kf27} feel{\kf30} I{\kf30} lost{\kf38} my{\kf27} wa{\kf57}-ay
-Dialogue: 0,0:03:28.70,0:03:31.96,DEFAULT,,0,0,0,,{\kf15}I{\kf19} mean{\kf15} I{\kf34} know{\kf19} it's{\kf12} re{\kf42}-a{\kf27}lly{\kf27} out{\kf64} there
-Dialogue: 0,0:03:32.60,0:03:38.93,DEFAULT,,0,0,0,,{\kf15}But{\kf23} I'll{\kf38} find{\kf30} out{\kf60} some{\kf450}day
-Dialogue: 0,0:03:39.61,0:03:43.02,DEFAULT,,0,0,0,,{\kf23}I'll{\kf38} find{\kf30} out{\kf42} some{\kf184}day
+Dialogue: 0,0:00:19.55,0:00:23.41,DEFAULT,,0,0,0,,{\r}{\kf25}I've{\kf38} walked{\kf34} through{\kf47} all{\kf34} these{\kf68} halls{\kf17} be{\kf123}fore
+Dialogue: 0,0:00:26.41,0:00:31.36,DEFAULT,,0,0,0,,{\r}{\kf25}I've{\kf25} been{\kf20} in{\kf35} and{\kf50} out{\kf40} of{\kf40} eve{\kf59}ry{\kf94} door,{\kf20} oh{\kf25}-woah{\kf62}-oh
+Dialogue: 0,0:00:33.05,0:00:38.34,DEFAULT,,0,0,0,,{\r}{\kf22}There's{\kf17} no{\kf22}thing{\kf22} in{\kf30} this{\kf26} scho{\kf30}-ol{\kf43} that{\kf13} I{\kf22}-I{\kf52} don't{\kf133} kno{\kf22}-o{\kf17}-o{\kf58}-ow
+Dialogue: 0,0:00:39.09,0:00:41.86,DEFAULT,,0,0,0,,{\r}{\kf17}In{\kf17} eve{\kf21}ry{\kf47} class{\kf26} my{\kf60} grade's{\kf13} the{\kf76} best
+Dialogue: 0,0:00:42.50,0:00:45.39,DEFAULT,,0,0,0,,{\r}{\kf13}The{\kf22} high{\kf13}est{\kf39} score{\kf31} on{\kf53} eve{\kf26}ry{\kf92} test
+Dialogue: 0,0:00:46.44,0:00:47.90,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf22} think{\kf31} that{\kf58} means{\kf22} it's
+Dialogue: 0,0:00:48.20,0:00:51.09,DEFAULT,,0,0,0,,{\r}{\kf41}Time{\kf20} for{\kf69} me{\kf16} to{\kf143} go
+Dialogue: 0,0:00:52.77,0:00:55.74,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf27} know{\kf18} there's{\kf121} more{\kf31} that's{\kf31} out{\kf55} there
+Dialogue: 0,0:00:56.15,0:00:59.08,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf19} I{\kf19} just{\kf24} ha{\kf34}ven't{\kf19} fo{\kf34}und{\kf19} it{\kf29} ye{\kf71}-et
+Dialogue: 0,0:00:59.60,0:01:02.67,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf22} know{\kf18} there's{\kf125} more{\kf40} that's{\kf31} out{\kf54} there
+Dialogue: 0,0:01:03.09,0:01:06.31,DEFAULT,,0,0,0,,{\r}{\kf13}A{\kf13}no{\kf22}ther{\kf26} "me"{\kf31} I{\kf40} ha{\kf44}ven't{\kf133} met
+Dialogue: 0,0:01:09.69,0:01:13.36,DEFAULT,,0,0,0,,{\r}{\kf17}Eve{\kf13}ry{\kf25}one{\kf17} he{\kf25}-ere{\kf42} likes{\kf38} who{\kf42} I{\kf148} am
+Dialogue: 0,0:01:16.10,0:01:21.01,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf15} it's{\kf26} not{\kf26} from{\kf20} a{\kf41} ma{\kf41}gic{\kf82} spell's{\kf26} com{\kf87}mand,{\kf20} oh{\kf26}-woah{\kf55}-oh
+Dialogue: 0,0:01:22.89,0:01:28.17,DEFAULT,,0,0,0,,{\r}{\kf22}My{\kf43} friends{\kf39} look{\kf17} pa{\kf26}-ast{\kf30} the{\kf30} thi{\kf22}-ing{\kf35} I've{\kf147} do{\kf17}-one{\kf13} be{\kf61}fo{\kf27}-ore
+Dialogue: 0,0:01:29.34,0:01:31.59,DEFAULT,,0,0,0,,{\r}{\kf25}Still{\kf38} I{\kf42} miss{\kf38} those{\kf82} quests
+Dialogue: 0,0:01:32.19,0:01:34.96,DEFAULT,,0,0,0,,{\r}{\kf13}The{\kf18} my{\kf22}thic{\kf26} crea{\kf35}tures,{\kf44} ma{\kf31}gic{\kf88} tests
+Dialogue: 0,0:01:36.16,0:01:37.51,DEFAULT,,0,0,0,,{\r}{\kf22}High{\kf39}school's{\kf39} great,{\kf35} sure
+Dialogue: 0,0:01:37.74,0:01:40.66,DEFAULT,,0,0,0,,{\r}{\kf13}But{\kf21} who{\kf42} am{\kf42} I{\kf17} a{\kf17}ny{\kf140}more?
+Dialogue: 0,0:01:43.74,0:01:46.03,DEFAULT,,0,0,0,,{\r}{\kf19}It's{\kf19} not{\kf37} that{\kf47} I'm{\kf42} un{\kf19}gra{\kf23}-ate{\kf23}ful
+Dialogue: 0,0:01:46.29,0:01:49.85,DEFAULT,,0,0,0,,{\r}{\kf17}Or{\kf30} try{\kf39}ing{\kf30} to{\kf35} suc{\kf52}ce{\kf26}-e{\kf13}-e{\kf22}-e{\kf92}-ed
+Dialogue: 0,0:01:50.34,0:01:53.00,DEFAULT,,0,0,0,,{\r}{\kf24}But{\kf19} there's{\kf33} some{\kf33}thing{\kf14} le{\kf24}-eft{\kf19} sti{\kf19}-ill{\kf10} mi{\kf28}-is{\kf43}sing
+Dialogue: 0,0:01:53.34,0:01:55.78,DEFAULT,,0,0,0,,{\r}{\kf20}Some{\kf45}thing{\kf45} that{\kf33} I{\kf16} ne{\kf85}-ed
+Dialogue: 0,0:01:56.19,0:01:59.15,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf13} know{\kf27} there's{\kf108} more{\kf18} tha{\kf22}-at's{\kf36} out{\kf50} there
+Dialogue: 0,0:01:59.79,0:02:02.45,DEFAULT,,0,0,0,,{\r}{\kf21}May{\kf17}be{\kf43} folks{\kf21} that{\kf43} need{\kf43} my{\kf26} he{\kf52}-elp
+Dialogue: 0,0:02:03.05,0:02:05.97,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf22} know{\kf17} there's{\kf109} more{\kf35} that's{\kf39} out{\kf53} there
+Dialogue: 0,0:02:06.42,0:02:09.39,DEFAULT,,0,0,0,,{\r}{\kf23}Be{\kf23}cause{\kf14} I've{\kf23} seen{\kf23} it{\kf42} for{\kf47} my{\kf14}se{\kf87}-elf
+Dialogue: 0,0:02:09.88,0:02:12.88,DEFAULT,,0,0,0,,{\r}{\kf23}There's{\kf18} on{\kf14}ly{\kf18} so{\kf37} much{\kf23} this{\kf46} town{\kf28} can{\kf37} of{\kf56}fer
+Dialogue: 0,0:02:13.36,0:02:16.25,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf18} I'm{\kf14} not{\kf32} say{\kf27}ing{\kf50} that's{\kf36} so{\kf23} ba{\kf75}-ad
+Dialogue: 0,0:02:16.96,0:02:19.78,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf22} I{\kf40} know{\kf26} there's{\kf40} more{\kf40} that's{\kf35} out{\kf18} the{\kf42}-ere
+Dialogue: 0,0:02:20.19,0:02:23.38,DEFAULT,,0,0,0,,{\r}{\kf22}'Cause{\kf22} it's{\kf13} a{\kf39} life{\kf10} tha{\kf17}-at{\kf34} I{\kf34} once{\kf128} had
+Dialogue: 0,0:02:26.38,0:02:31.93,DEFAULT,,0,0,0,,{\r}{\kf24}Be{\kf36}yond{\kf36} these{\kf61} rooms,{\kf20} be{\kf45}yond{\kf36} these{\kf20} wa{\kf277}-alls
+Dialogue: 0,0:02:33.20,0:02:37.85,DEFAULT,,0,0,0,,{\r}{\kf23}So{\kf36} much{\kf41} to{\kf32} learn,{\kf14} I{\kf41} can't{\kf18} se{\kf14}-e{\kf14}-e{\kf23} it{\kf46} a{\kf18}-a{\kf145}-all
+Dialogue: 0,0:02:40.10,0:02:45.84,DEFAULT,,0,0,0,,{\r}{\kf18}This{\kf40} town{\kf35} is{\kf44} home,{\kf18} this{\kf57} school{\kf31} is{\kf18} sa{\kf132}-a{\kf22}-a{\kf26}-a{\kf26}-a{\kf107}-afe
+Dialogue: 0,0:02:47.00,0:02:49.32,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf36} how{\kf45} can{\kf36} I{\kf40} be{\kf58} home
+Dialogue: 0,0:02:49.70,0:02:52.47,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf23} still{\kf36} feel{\kf46} out{\kf36} of{\kf18} pla{\kf23}-a{\kf82}-ace?
+Dialogue: 0,0:02:52.93,0:02:55.70,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf14} I{\kf48} know{\kf29} there's{\kf38} more{\kf34} that's{\kf29} out{\kf62} there
+Dialogue: 0,0:02:56.15,0:02:59.22,DEFAULT,,0,0,0,,{\r}{\kf18}A{\kf18}no{\kf27}ther{\kf50} world{\kf45} to{\kf32} ex{\kf117}plore
+Dialogue: 0,0:02:59.82,0:03:02.56,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf18} I{\kf37} know{\kf23} there's{\kf50} more{\kf37} that's{\kf37} out{\kf49} there
+Dialogue: 0,0:03:03.20,0:03:07.81,DEFAULT,,0,0,0,,{\r}{\kf20}Am{\kf16} I{\kf37} wrong{\kf20} for{\kf41} wan{\kf16}ti{\kf29}-ing{\kf12} mo{\kf270}-ore?
+Dialogue: 0,0:03:08.22,0:03:11.15,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf19} I{\kf28} can't{\kf33} wait{\kf33} for{\kf28} it{\kf14} to{\kf24}-o{\kf42} hap{\kf57}pen
+Dialogue: 0,0:03:11.60,0:03:14.53,DEFAULT,,0,0,0,,{\r}{\kf19}Though{\kf23} what{\kf14} it{\kf28} is{\kf32} I{\kf37} can{\kf37}not{\kf28} sa{\kf74}-ay
+Dialogue: 0,0:03:15.20,0:03:18.20,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} just{\kf35} know{\kf26} there's{\kf44} more{\kf40} that's{\kf40} out{\kf18} the{\kf53}-ere
+Dialogue: 0,0:03:18.65,0:03:21.54,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf17} it's{\kf30} cal{\kf34}ling{\kf38} out{\kf38} my{\kf17} na{\kf94}-ame
+Dialogue: 0,0:03:22.03,0:03:24.80,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf17} I'm{\kf26} sear{\kf35}ching{\kf65} for{\kf26} the{\kf35} ans{\kf48}wer
+Dialogue: 0,0:03:25.47,0:03:28.25,DEFAULT,,0,0,0,,{\r}{\kf22}'Cause{\kf17} I{\kf30} feel{\kf35} I{\kf35} lost{\kf43} my{\kf30} wa{\kf65}-ay
+Dialogue: 0,0:03:28.70,0:03:31.96,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf23} mean{\kf18} I{\kf41} know{\kf23} it's{\kf14} re{\kf50}-a{\kf32}lly{\kf32} out{\kf75} there
+Dialogue: 0,0:03:32.60,0:03:38.94,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf23} I'll{\kf39} find{\kf31} out{\kf62} some{\kf464}day
+Dialogue: 0,0:03:39.61,0:03:43.03,DEFAULT,,0,0,0,,{\r}{\kf24}I'll{\kf41} find{\kf32} out{\kf45} some{\kf199}day

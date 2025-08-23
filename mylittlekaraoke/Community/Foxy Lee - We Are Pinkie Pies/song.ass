@@ -1,62 +1,69 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: We Are Pinkie Pies
+Artist: Foxy Lee
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.32,0:00:02.13,DEFAULT,,0,0,0,,{\kf19}Are{\kf19} you{\kf19} a{\kf19} re{\kf19}al{\kf19} Pin{\kf28}kie?
-Dialogue: 0,0:00:02.41,0:00:03.98,DEFAULT,,0,0,0,,{\kf47}Well,{\kf28} uh…{\kf14} I{\kf14} dun{\kf5}no
-Dialogue: 0,0:00:04.12,0:00:07.04,DEFAULT,,0,0,0,,{\kf10}Have{\kf10} you{\kf10} e{\kf19}ver{\kf10} played{\kf14} a{\kf24} prank,{\kf14} like,{\kf33} uh,{\kf10} a{\kf14} prac{\kf14}ti{\kf10}cal{\kf19} joke?
-Dialogue: 0,0:00:07.97,0:00:08.15,DEFAULT,,0,0,0,,{\kf19}Nope
-Dialogue: 0,0:00:08.43,0:00:10.28,DEFAULT,,0,0,0,,{\kf10}Have{\kf10} you{\kf10} e{\kf14}ver{\kf14} worn{\kf10} a{\kf14} sil{\kf10}ly{\kf24} cos{\kf28}tume?
-Dialogue: 0,0:00:11.16,0:00:11.95,DEFAULT,,0,0,0,,{\kf47}Naahh{\kf19} nope…
-Dialogue: 0,0:00:12.65,0:00:17.28,DEFAULT,,0,0,0,,{\kf19}Al{\kf38}right!{\kf14} I{\kf19} can{\kf24} see{\kf10} that{\kf10} I'm{\kf10} gon{\kf10}na{\kf10} have{\kf14} to{\kf14} teach{\kf28} you{\kf24} how{\kf14} to{\kf24} be{\kf19} Pin{\kf28}kies!
-Dialogue: 0,0:00:23.11,0:00:23.39,DEFAULT,,0,0,0,,{\kf28}Fun!
-Dialogue: 0,0:00:27.93,0:00:28.95,DEFAULT,,0,0,0,,{\kf14}We{\kf14} are{\kf14} Pin{\kf14}kie{\kf28} Pies!
-Dialogue: 0,0:00:29.14,0:00:29.32,DEFAULT,,0,0,0,,{\kf19}Fun!
-Dialogue: 0,0:00:33.86,0:00:34.97,DEFAULT,,0,0,0,,{\kf14}We{\kf14} are{\kf14} Pin{\kf14}kie{\kf38} Pies!
-Dialogue: 0,0:00:35.67,0:00:36.97,DEFAULT,,0,0,0,,{\kf19}Now{\kf14} lis{\kf19}ten{\kf28} close{\kf19}ly
-Dialogue: 0,0:00:38.26,0:00:40.67,DEFAULT,,0,0,0,,{\kf24}Here's{\kf10} a{\kf14} lit{\kf14}tle{\kf14} les{\kf19}son{\kf14} in{\kf24} Pin{\kf14}ke{\kf28}ry
-Dialogue: 0,0:00:41.09,0:00:43.78,DEFAULT,,0,0,0,,{\kf19}This{\kf14} is{\kf14} go{\kf14}ing{\kf24} down{\kf19} in{\kf28} his{\kf19}to{\kf47}ry
-Dialogue: 0,0:00:44.01,0:00:46.69,DEFAULT,,0,0,0,,{\kf19}If{\kf14} you{\kf14} wan{\kf14}na{\kf14} be{\kf14} a{\kf14} Pin{\kf19}kie{\kf24} Num{\kf14}ber{\kf42} One
-Dialogue: 0,0:00:47.02,0:00:49.71,DEFAULT,,0,0,0,,{\kf14}You{\kf14} have{\kf14} to{\kf14} chase{\kf14} a{\kf14} sil{\kf14}ly{\kf14} fil{\kf14}ly{\kf24} on{\kf14} the{\kf47} run
-Dialogue: 0,0:00:52.90,0:00:55.54,DEFAULT,,0,0,0,,{\kf14}Just{\kf14} fol{\kf14}low{\kf14} my{\kf33} moves,{\kf14} and{\kf24} sneak{\kf14} a{\kf38}round
-Dialogue: 0,0:00:55.91,0:00:58.14,DEFAULT,,0,0,0,,{\kf14}Be{\kf19} care{\kf10}ful{\kf14} not{\kf10} to{\kf24} make{\kf19} a{\kf61} sound
-Dialogue: 0,0:00:58.37,0:00:58.79,DEFAULT,,0,0,0,,{\kf42}Shh
-Dialogue: 0,0:00:58.92,0:00:59.25,DEFAULT,,0,0,0,,{\kf33}Ooooh
-Dialogue: 0,0:00:59.62,0:01:00.68,DEFAULT,,0,0,0,,{\kf19}No,{\kf19} don't{\kf19} touch{\kf24} that!
-Dialogue: 0,0:01:06.43,0:01:07.45,DEFAULT,,0,0,0,,{\kf14}We{\kf14} are{\kf14} Pin{\kf14}kie{\kf28} Pies!
-Dialogue: 0,0:01:07.63,0:01:07.77,DEFAULT,,0,0,0,,{\kf14}Fun!
-Dialogue: 0,0:01:12.36,0:01:13.47,DEFAULT,,0,0,0,,{\kf14}We{\kf14} are{\kf14} Pin{\kf14}kie{\kf38} Pies!
-Dialogue: 0,0:01:19.82,0:01:20.93,DEFAULT,,0,0,0,,{\kf14}We{\kf14} are{\kf14} Pin{\kf14}kie{\kf38} Pies!
-Dialogue: 0,0:01:21.21,0:01:22.18,DEFAULT,,0,0,0,,{\kf19}Ha{\kf19} ha{\kf33} ha
-Dialogue: 0,0:01:22.60,0:01:23.85,DEFAULT,,0,0,0,,{\kf14}Now{\kf14} look{\kf14} at{\kf19} these{\kf38} horns
-Dialogue: 0,0:01:24.12,0:01:25.28,DEFAULT,,0,0,0,,{\kf10}That{\kf19} I{\kf19} just{\kf51} found
-Dialogue: 0,0:01:25.70,0:01:28.15,DEFAULT,,0,0,0,,{\kf14}When{\kf14} I{\kf14} say{\kf19} go{\kf10}~,{\kf19} be{\kf14} rea{\kf14}dy{\kf14} to{\kf33} blow
-Dialogue: 0,0:01:28.66,0:01:29.04,DEFAULT,,0,0,0,,{\kf38}Blow!
-Dialogue: 0,0:01:30.10,0:01:31.58,DEFAULT,,0,0,0,,{\kf19}Blow{\kf14} 'em{\kf14} at{\kf14} her,{\kf19} not{\kf19} me!
-Dialogue: 0,0:01:32.19,0:01:33.99,DEFAULT,,0,0,0,,{\kf38}Ugh,{\kf19} let's{\kf19} try{\kf14} some{\kf14}thing{\kf28} else
-Dialogue: 0,0:01:34.41,0:01:35.75,DEFAULT,,0,0,0,,{\kf14}Now{\kf28} watch{\kf14} and{\kf38} learn
-Dialogue: 0,0:01:36.08,0:01:37.10,DEFAULT,,0,0,0,,{\kf10}Here's{\kf10}~{\kf14} the{\kf47} deal
-Dialogue: 0,0:01:37.33,0:01:39.92,DEFAULT,,0,0,0,,{\kf19}She'll{\kf14} slip{\kf19} and{\kf33} slide{\kf14} on{\kf14} this{\kf14} ba{\kf19}na{\kf14}na{\kf33} peel!
-Dialogue: 0,0:01:40.11,0:01:41.54,DEFAULT,,0,0,0,,{\kf19}Ha{\kf14} ha{\kf33} ha,{\kf38} gasp!
-Dialogue: 0,0:01:42.75,0:01:43.95,DEFAULT,,0,0,0,,{\kf19}What{\kf14} are{\kf19} you{\kf19} do{\kf28}ing‽
-Dialogue: 0,0:01:50.48,0:01:50.81,DEFAULT,,0,0,0,,{\kf33}Fun!
-Dialogue: 0,0:01:56.83,0:02:01.14,DEFAULT,,0,0,0,,{\kf42}Ba,{\kf14} ba-{\kf10}ba-{\kf10}ba{\kf10}da{\kf14}pa-{\kf19}ba{\kf24} ba,{\kf38} ba-{\kf14}ba-{\kf14}ba-{\kf14}ba{\kf24} ba{\kf19} ba{\kf24} ba{\kf24} ba
-Dialogue: 0,0:02:01.32,0:02:02.20,DEFAULT,,0,0,0,,{\kf10}We{\kf14} are{\kf14} Pin{\kf14}kie{\kf19} Pies
-Dialogue: 0,0:02:02.39,0:02:02.62,DEFAULT,,0,0,0,,{\kf24}Fun!
-Dialogue: 0,0:02:02.76,0:02:06.98,DEFAULT,,0,0,0,,{\kf42}Ba,{\kf14} ba-{\kf10}ba-{\kf10}ba{\kf10}da{\kf14}pa-{\kf19}ba{\kf24} ba,{\kf38} ba-{\kf14}ba-{\kf14}ba-{\kf14}ba{\kf24} ba{\kf19} ba{\kf24} ba{\kf14} ba
-Dialogue: 0,0:02:07.16,0:02:09.20,DEFAULT,,0,0,0,,{\kf28}SHOW{\kf28} THAT{\kf28} PIN{\kf24}KIE{\kf51} PRIDE!
-Dialogue: 0,0:02:14.20,0:02:14.48,DEFAULT,,0,0,0,,{\kf28}Fun!
-Dialogue: 0,0:02:20.55,0:02:24.81,DEFAULT,,0,0,0,,{\kf42}Ba,{\kf14} ba-{\kf10}ba-{\kf10}ba{\kf10}da{\kf14}pa-{\kf19}ba{\kf24} ba,{\kf38} ba-{\kf14}ba-{\kf14}ba-{\kf14}ba{\kf24} ba{\kf19} ba{\kf24} ba{\kf19} ba
-Dialogue: 0,0:02:25.00,0:02:26.11,DEFAULT,,0,0,0,,{\kf14}We{\kf14} are{\kf14} Pin{\kf14}kie{\kf38} Pies
-Dialogue: 0,0:02:26.48,0:02:30.74,DEFAULT,,0,0,0,,{\kf42}Ba,{\kf14} ba-{\kf10}ba-{\kf10}bid{\kf10}dly-{\kf14}ba-{\kf19}ba{\kf24} ba,{\kf38} ba-{\kf14}ba-{\kf14}ba-{\kf14}ba{\kf24} ba{\kf19} ba{\kf24} ba{\kf19} ba
-Dialogue: 0,0:02:30.93,0:02:32.04,DEFAULT,,0,0,0,,{\kf14}We{\kf14} are{\kf14} Pin{\kf14}kie{\kf38} Pies!
-Dialogue: 0,0:02:32.41,0:02:33.52,DEFAULT,,0,0,0,,{\kf14}We{\kf14} are{\kf14} Pin{\kf14}kie{\kf38} Pies!
-Dialogue: 0,0:02:33.89,0:02:34.96,DEFAULT,,0,0,0,,{\kf14}We{\kf14} are{\kf14} Pin{\kf14}kie{\kf33} Pies!
-Dialogue: 0,0:02:35.33,0:02:35.70,DEFAULT,,0,0,0,,{\kf38}FUN!
+Dialogue: 0,0:00:00.33,0:00:02.13,DEFAULT,,0,0,0,,{\r}{\kf24}Are{\kf24} you{\kf24} a{\kf24} re{\kf24}al{\kf24} Pin{\kf37}kie?
+Dialogue: 0,0:00:02.41,0:00:03.99,DEFAULT,,0,0,0,,{\r}{\kf69}Well,{\kf41} uh…{\kf21} I{\kf21} dun{\kf10}no
+Dialogue: 0,0:00:04.13,0:00:07.05,DEFAULT,,0,0,0,,{\r}{\kf13}Have{\kf13} you{\kf13} e{\kf27}ver{\kf13} played{\kf20} a{\kf33} prank,{\kf20} like,{\kf46} uh,{\kf13} a{\kf20} prac{\kf20}ti{\kf13}cal{\kf28} joke?
+Dialogue: 0,0:00:07.97,0:00:08.16,DEFAULT,,0,0,0,,{\r}{\kf19}Nope
+Dialogue: 0,0:00:08.43,0:00:10.29,DEFAULT,,0,0,0,,{\r}{\kf12}Have{\kf12} you{\kf12} e{\kf18}ver{\kf18} worn{\kf12} a{\kf18} sil{\kf12}ly{\kf31} cos{\kf40}tume?
+Dialogue: 0,0:00:11.17,0:00:11.96,DEFAULT,,0,0,0,,{\r}{\kf56}Naahh{\kf23} nope…
+Dialogue: 0,0:00:12.65,0:00:17.28,DEFAULT,,0,0,0,,{\r}{\kf27}Al{\kf54}right!{\kf20} I{\kf27} can{\kf34} see{\kf13} that{\kf13} I'm{\kf13} gon{\kf13}na{\kf13} have{\kf20} to{\kf20} teach{\kf40} you{\kf34} how{\kf20} to{\kf34} be{\kf27} Pin{\kf41}kies!
+Dialogue: 0,0:00:23.12,0:00:23.40,DEFAULT,,0,0,0,,{\r}{\kf28}Fun!
+Dialogue: 0,0:00:27.94,0:00:28.96,DEFAULT,,0,0,0,,{\r}{\kf17}We{\kf17} are{\kf17} Pin{\kf17}kie{\kf34} Pies!
+Dialogue: 0,0:00:29.14,0:00:29.33,DEFAULT,,0,0,0,,{\r}{\kf19}Fun!
+Dialogue: 0,0:00:33.87,0:00:34.98,DEFAULT,,0,0,0,,{\r}{\kf17}We{\kf17} are{\kf17} Pin{\kf17}kie{\kf43} Pies!
+Dialogue: 0,0:00:35.67,0:00:36.97,DEFAULT,,0,0,0,,{\r}{\kf25}Now{\kf19} lis{\kf25}ten{\kf37} close{\kf24}ly
+Dialogue: 0,0:00:38.27,0:00:40.68,DEFAULT,,0,0,0,,{\r}{\kf33}Here's{\kf13} a{\kf20} lit{\kf20}tle{\kf20} les{\kf26}son{\kf20} in{\kf33} Pin{\kf20}ke{\kf36}ry
+Dialogue: 0,0:00:41.09,0:00:43.78,DEFAULT,,0,0,0,,{\r}{\kf26}This{\kf19} is{\kf19} go{\kf19}ing{\kf32} down{\kf26} in{\kf38} his{\kf26}to{\kf64}ry
+Dialogue: 0,0:00:44.01,0:00:46.70,DEFAULT,,0,0,0,,{\r}{\kf25}If{\kf19} you{\kf19} wan{\kf19}na{\kf19} be{\kf19} a{\kf19} Pin{\kf25}kie{\kf31} Num{\kf19}ber{\kf55} One
+Dialogue: 0,0:00:47.02,0:00:49.71,DEFAULT,,0,0,0,,{\r}{\kf18}You{\kf18} have{\kf18} to{\kf18} chase{\kf18} a{\kf18} sil{\kf18}ly{\kf18} fil{\kf18}ly{\kf30} on{\kf18} the{\kf59} run
+Dialogue: 0,0:00:52.91,0:00:55.55,DEFAULT,,0,0,0,,{\r}{\kf21}Just{\kf21} fol{\kf21}low{\kf21} my{\kf49} moves,{\kf21} and{\kf35} sneak{\kf21} a{\kf54}round
+Dialogue: 0,0:00:55.92,0:00:58.14,DEFAULT,,0,0,0,,{\r}{\kf19}Be{\kf25} care{\kf12}ful{\kf19} not{\kf12} to{\kf31} make{\kf25} a{\kf79} sound
+Dialogue: 0,0:00:58.37,0:00:58.79,DEFAULT,,0,0,0,,{\r}{\kf42}Shh
+Dialogue: 0,0:00:58.93,0:00:59.25,DEFAULT,,0,0,0,,{\r}{\kf32}Ooooh
+Dialogue: 0,0:00:59.62,0:01:00.69,DEFAULT,,0,0,0,,{\r}{\kf25}No,{\kf25} don't{\kf25} touch{\kf32} that!
+Dialogue: 0,0:01:06.43,0:01:07.45,DEFAULT,,0,0,0,,{\r}{\kf17}We{\kf17} are{\kf17} Pin{\kf17}kie{\kf34} Pies!
+Dialogue: 0,0:01:07.64,0:01:07.78,DEFAULT,,0,0,0,,{\r}{\kf14}Fun!
+Dialogue: 0,0:01:12.36,0:01:13.48,DEFAULT,,0,0,0,,{\r}{\kf17}We{\kf17} are{\kf17} Pin{\kf17}kie{\kf43} Pies!
+Dialogue: 0,0:01:19.82,0:01:20.93,DEFAULT,,0,0,0,,{\r}{\kf17}We{\kf17} are{\kf17} Pin{\kf17}kie{\kf43} Pies!
+Dialogue: 0,0:01:21.21,0:01:22.18,DEFAULT,,0,0,0,,{\r}{\kf26}Ha{\kf26} ha{\kf45} ha
+Dialogue: 0,0:01:22.60,0:01:23.85,DEFAULT,,0,0,0,,{\r}{\kf18}Now{\kf18} look{\kf18} at{\kf24} these{\kf47} horns
+Dialogue: 0,0:01:24.13,0:01:25.29,DEFAULT,,0,0,0,,{\r}{\kf11}That{\kf22} I{\kf22} just{\kf61} found
+Dialogue: 0,0:01:25.70,0:01:28.16,DEFAULT,,0,0,0,,{\r}{\kf21}When{\kf21} I{\kf21} say{\kf28} go{\kf14}~,{\kf28} be{\kf21} rea{\kf21}dy{\kf21} to{\kf50} blow
+Dialogue: 0,0:01:28.67,0:01:29.04,DEFAULT,,0,0,0,,{\r}{\kf37}Blow!
+Dialogue: 0,0:01:30.11,0:01:31.59,DEFAULT,,0,0,0,,{\r}{\kf28}Blow{\kf21} 'em{\kf21} at{\kf21} her,{\kf28} not{\kf29} me!
+Dialogue: 0,0:01:32.19,0:01:34.00,DEFAULT,,0,0,0,,{\r}{\kf52}Ugh,{\kf26} let's{\kf26} try{\kf19} some{\kf19}thing{\kf39} else
+Dialogue: 0,0:01:34.41,0:01:35.76,DEFAULT,,0,0,0,,{\r}{\kf20}Now{\kf40} watch{\kf20} and{\kf54} learn
+Dialogue: 0,0:01:36.08,0:01:37.10,DEFAULT,,0,0,0,,{\r}{\kf12}Here's{\kf12}~{\kf18} the{\kf60} deal
+Dialogue: 0,0:01:37.33,0:01:39.93,DEFAULT,,0,0,0,,{\r}{\kf25}She'll{\kf19} slip{\kf25} and{\kf44} slide{\kf19} on{\kf19} this{\kf19} ba{\kf25}na{\kf19}na{\kf45} peel!
+Dialogue: 0,0:01:40.11,0:01:41.55,DEFAULT,,0,0,0,,{\r}{\kf26}Ha{\kf20} ha{\kf46} ha,{\kf52} gasp!
+Dialogue: 0,0:01:42.75,0:01:43.96,DEFAULT,,0,0,0,,{\r}{\kf23}What{\kf17} are{\kf23} you{\kf23} do{\kf34}ing‽
+Dialogue: 0,0:01:50.49,0:01:50.81,DEFAULT,,0,0,0,,{\r}{\kf32}Fun!
+Dialogue: 0,0:01:56.84,0:02:01.14,DEFAULT,,0,0,0,,{\r}{\kf59}Ba,{\kf20} ba-{\kf13}ba-{\kf13}ba{\kf13}da{\kf20}pa-{\kf26}ba{\kf33} ba,{\kf52} ba-{\kf20}ba-{\kf20}ba-{\kf20}ba{\kf33} ba{\kf26} ba{\kf33} ba{\kf30} ba
+Dialogue: 0,0:02:01.33,0:02:02.21,DEFAULT,,0,0,0,,{\r}{\kf12}We{\kf18} are{\kf18} Pin{\kf18}kie{\kf22} Pies
+Dialogue: 0,0:02:02.39,0:02:02.63,DEFAULT,,0,0,0,,{\r}{\kf23}Fun!
+Dialogue: 0,0:02:02.76,0:02:06.98,DEFAULT,,0,0,0,,{\r}{\kf59}Ba,{\kf20} ba-{\kf13}ba-{\kf13}ba{\kf13}da{\kf20}pa-{\kf26}ba{\kf33} ba,{\kf53} ba-{\kf20}ba-{\kf20}ba-{\kf20}ba{\kf33} ba{\kf26} ba{\kf33} ba{\kf20} ba
+Dialogue: 0,0:02:07.17,0:02:09.20,DEFAULT,,0,0,0,,{\r}{\kf36}SHOW{\kf36} THAT{\kf36} PIN{\kf30}KIE{\kf66} PRIDE!
+Dialogue: 0,0:02:14.21,0:02:14.48,DEFAULT,,0,0,0,,{\r}{\kf28}Fun!
+Dialogue: 0,0:02:20.55,0:02:24.82,DEFAULT,,0,0,0,,{\r}{\kf59}Ba,{\kf20} ba-{\kf13}ba-{\kf13}ba{\kf13}da{\kf20}pa-{\kf26}ba{\kf33} ba,{\kf52} ba-{\kf20}ba-{\kf20}ba-{\kf20}ba{\kf33} ba{\kf26} ba{\kf33} ba{\kf25} ba
+Dialogue: 0,0:02:25.00,0:02:26.11,DEFAULT,,0,0,0,,{\r}{\kf17}We{\kf17} are{\kf17} Pin{\kf17}kie{\kf43} Pies
+Dialogue: 0,0:02:26.48,0:02:30.74,DEFAULT,,0,0,0,,{\r}{\kf59}Ba,{\kf20} ba-{\kf13}ba-{\kf13}bid{\kf13}dly-{\kf20}ba-{\kf26}ba{\kf33} ba,{\kf52} ba-{\kf20}ba-{\kf20}ba-{\kf20}ba{\kf33} ba{\kf26} ba{\kf33} ba{\kf25} ba
+Dialogue: 0,0:02:30.93,0:02:32.04,DEFAULT,,0,0,0,,{\r}{\kf17}We{\kf17} are{\kf17} Pin{\kf17}kie{\kf43} Pies!
+Dialogue: 0,0:02:32.41,0:02:33.52,DEFAULT,,0,0,0,,{\r}{\kf17}We{\kf17} are{\kf17} Pin{\kf17}kie{\kf43} Pies!
+Dialogue: 0,0:02:33.90,0:02:34.96,DEFAULT,,0,0,0,,{\r}{\kf17}We{\kf17} are{\kf17} Pin{\kf17}kie{\kf39} Pies!
+Dialogue: 0,0:02:35.33,0:02:35.70,DEFAULT,,0,0,0,,{\r}{\kf37}FUN!

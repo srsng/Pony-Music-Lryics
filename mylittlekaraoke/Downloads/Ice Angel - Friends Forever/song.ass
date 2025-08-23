@@ -1,49 +1,56 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Friends Forever (Reunify IV)
+Artist: Ice Angel (ft. 4EverfreeBrony)
+Original Timing: mylittlekaraoke.com by lily
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:15.24,0:00:18.21,DEFAULT,,0,0,0,,{\kf1541}What{\kf1537} is{\kf1541} this{\kf1560} thing{\kf1541} we{\kf1541} call{\kf1545} e{\kf1541}mo{\kf1560}tion?
-Dialogue: 0,0:00:18.99,0:00:21.69,DEFAULT,,0,0,0,,{\kf1541}Can{\kf1537} it{\kf1541} be{\kf1564} brought{\kf1541} in{\kf1537}to{\kf1541} the{\kf1560} light?
-Dialogue: 0,0:00:22.74,0:00:25.83,DEFAULT,,0,0,0,,{\kf1541}Where{\kf1537} is{\kf1541} it{\kf1560} now?{\kf1537} Is{\kf1541} it{\kf1541} on{\kf1545} va{\kf1549}ca{\kf1556}tion?
-Dialogue: 0,0:00:26.49,0:00:29.19,DEFAULT,,0,0,0,,{\kf1541}Can{\kf1537} some{\kf1541}one{\kf1549} help{\kf1541} me{\kf1549} out{\kf1537} of{\kf1541} my{\kf1560} mind?
-Dialogue: 0,0:00:30.28,0:00:33.25,DEFAULT,,0,0,0,,{\kf1541}So{\kf1537} ma{\kf1537}ny{\kf1545} me{\kf1545}mories{\kf1537} are{\kf1541} jum{\kf1537}bled{\kf1541} and{\kf1541} twist{\kf1560}ed
-Dialogue: 0,0:00:33.99,0:00:36.69,DEFAULT,,0,0,0,,{\kf1541}Crossed{\kf1537} out{\kf1541} the{\kf1545} fa{\kf1549}ces,{\kf1537} and{\kf1541} let{\kf1537} go{\kf1541} of{\kf1560} friends
-Dialogue: 0,0:00:37.74,0:00:40.83,DEFAULT,,0,0,0,,{\kf1541}The{\kf1537} line{\kf1541} is{\kf1549} slen{\kf1549}der{\kf1537} be{\kf1541}tween{\kf1541} death{\kf1541} and{\kf1545} sad{\kf1560}ness
-Dialogue: 0,0:00:41.45,0:00:44.23,DEFAULT,,0,0,0,,{\kf1533}I've{\kf1537}~{\kf1537} seen{\kf1541} it{\kf1549} o{\kf1549}ver{\kf1537} and{\kf1541} o{\kf1537}ver{\kf1541} a{\kf1560}gain
-Dialogue: 0,0:00:45.24,0:00:48.21,DEFAULT,,0,0,0,,{\kf1541}No{\kf1537} more{\kf1541} to{\kf1549} this{\kf1549} one,{\kf1537} and{\kf1541} no{\kf1541} more{\kf1541} to{\kf1545} that{\kf1549} one
-Dialogue: 0,0:00:48.99,0:00:51.73,DEFAULT,,0,0,0,,{\kf1541}Some{\kf1537} thoughts{\kf1537} are{\kf1545} smeared{\kf1537}~{\kf1541} with{\kf1537} a{\kf1537} can{\kf1537}vas{\kf1537} of{\kf1560} black
-Dialogue: 0,0:00:52.70,0:00:55.75,DEFAULT,,0,0,0,,{\kf1533}I'm{\kf1537}~{\kf1541} not{\kf1541} a{\kf1545}shamed{\kf1537}~{\kf1541} of{\kf1537} the{\kf1541} pie{\kf1537}ces{\kf1541} I'm{\kf1549} mis{\kf1560}sing
-Dialogue: 0,0:00:56.49,0:00:59.54,DEFAULT,,0,0,0,,{\kf1541}They're{\kf1560} not{\kf1541} much{\kf1545} to{\kf1537}~{\kf1584} la{\kf1533}-a{\kf1533}-a{\kf1545}-a{\kf1564}-ack
-Dialogue: 0,0:01:00.24,0:01:01.92,DEFAULT,,0,0,0,,{\kf1541}The{\kf1545} sha{\kf1537}dow{\kf1549} clouds{\kf1549} our{\kf1549} sight
-Dialogue: 0,0:01:02.12,0:01:03.80,DEFAULT,,0,0,0,,{\kf1541}But{\kf1541} we{\kf1541} know{\kf1549} that,{\kf1545} to{\kf1549} light,
-Dialogue: 0,0:01:03.99,0:01:06.80,DEFAULT,,0,0,0,,{\kf1537}The{\kf1556} dark{\kf1556} will{\kf1545} sur{\kf1545}ren{\kf1545}~{\kf1615}der
-Dialogue: 0,0:01:07.74,0:01:09.38,DEFAULT,,0,0,0,,{\kf1537}So{\kf1541} let{\kf1537} us{\kf1549} not{\kf1549} for{\kf1549}get
-Dialogue: 0,0:01:09.62,0:01:11.26,DEFAULT,,0,0,0,,{\kf1537}Of{\kf1537} all{\kf1537} the{\kf1549} good{\kf1549} we{\kf1549} met
-Dialogue: 0,0:01:11.73,0:01:14.97,DEFAULT,,0,0,0,,{\kf1537}We{\kf1545}~{\kf1545} will{\kf1537}~{\kf1545} re{\kf1568}mem{\kf1678}ber
-Dialogue: 0,0:02:00.24,0:02:03.29,DEFAULT,,0,0,0,,{\kf1545}Won{\kf1537}der{\kf1537}ful{\kf1560} times{\kf1537} or{\kf1541} pain{\kf1537}ful{\kf1545} re{\kf1541}flec{\kf1560}tions
-Dialogue: 0,0:02:04.03,0:02:06.73,DEFAULT,,0,0,0,,{\kf1541}Con{\kf1537}fus{\kf1537}ing{\kf1560} thoughts{\kf1537} are{\kf1541} plain{\kf1537} as{\kf1541} can{\kf1560} be
-Dialogue: 0,0:02:07.78,0:02:10.79,DEFAULT,,0,0,0,,{\kf1537}It's{\kf1537} all{\kf1537} a{\kf1560} maze{\kf1537} of{\kf1541} end{\kf1537}less{\kf1549} di{\kf1545}rec{\kf1560}tions
-Dialogue: 0,0:02:11.49,0:02:14.19,DEFAULT,,0,0,0,,{\kf1537}But{\kf1537} who{\kf1537} said{\kf1556} hap{\kf1553}pi{\kf1549}ness{\kf1537} would{\kf1537} be{\kf1560} free?
-Dialogue: 0,0:02:15.28,0:02:18.80,DEFAULT,,0,0,0,,{\kf1545}Some{\kf1537}times{\kf1541} I{\kf1537} feel{\kf1541} a{\kf1560}fraid,{\kf1541} of{\kf1541} all{\kf1541} the{\kf1541} me{\kf1537}mories{\kf1545} ma{\kf1549}-ade
-Dialogue: 0,0:02:18.99,0:02:22.04,DEFAULT,,0,0,0,,{\kf1537}And{\kf1541} how{\kf1541}~{\kf1545} they'll{\kf1537}~{\kf1541} re{\kf1545}mind{\kf1537}~{\kf1638} me
-Dialogue: 0,0:02:22.78,0:02:26.30,DEFAULT,,0,0,0,,{\kf1541}But{\kf1541} I{\kf1541} guess{\kf1537} that's{\kf1541} o{\kf1572}kay,{\kf1541} 'cause{\kf1541} I{\kf1541} know{\kf1537} that{\kf1537} one{\kf1545} day{\kf1549}~
-Dialogue: 0,0:02:26.49,0:02:29.85,DEFAULT,,0,0,0,,{\kf1537}You'll{\kf1537} come{\kf1537}~{\kf1545} ba{\kf1541}-ack{\kf1537} to{\kf1568} fi{\kf1556}-ind{\kf1568} me{\kf1576}~
-Dialogue: 0,0:02:32.59,0:02:36.22,DEFAULT,,0,0,0,,{\kf1541}And{\kf1541} once{\kf1556} a{\kf1674}ga{\kf1545}-a{\kf1599}-ain
-Dialogue: 0,0:02:39.62,0:02:43.37,DEFAULT,,0,0,0,,{\kf1560}Oooh,{\kf1541} I{\kf1545} lose{\kf1537}~{\kf1545} a{\kf1654} frie{\kf1541}-e{\kf1541}-e{\kf1568}-end
-Dialogue: 0,0:02:45.28,0:02:47.62,DEFAULT,,0,0,0,,{\kf1541}The{\kf1545} fa{\kf1537}ces{\kf1549} come{\kf1541} and{\kf1619} go
-Dialogue: 0,0:02:49.03,0:02:52.16,DEFAULT,,0,0,0,,{\kf1541}They{\kf1537} take{\kf1541} a{\kf1549} toll{\kf1537} on{\kf1537}~{\kf1560} know{\kf1549}ing{\kf1572} how{\kf1556}~
-Dialogue: 0,0:02:52.74,0:02:55.44,DEFAULT,,0,0,0,,{\kf1541}They'll{\kf1541} all{\kf1537} be{\kf1549} gone{\kf1549} one{\kf1654} day
-Dialogue: 0,0:02:56.49,0:02:59.66,DEFAULT,,0,0,0,,{\kf1541}Yet{\kf1541} no{\kf1537}thin'{\kf1545} seems{\kf1537}~{\kf1537} to{\kf1556} slow{\kf1560} me{\kf1572} down{\kf1556}~
-Dialogue: 0,0:03:00.24,0:03:01.92,DEFAULT,,0,0,0,,{\kf1541}The{\kf1545} sha{\kf1537}dow{\kf1549} clouds{\kf1549} our{\kf1549} sight
-Dialogue: 0,0:03:02.12,0:03:03.76,DEFAULT,,0,0,0,,{\kf1541}But{\kf1541} we{\kf1541} know{\kf1545} that,{\kf1545} to{\kf1545} light,
-Dialogue: 0,0:03:03.99,0:03:06.80,DEFAULT,,0,0,0,,{\kf1537}The{\kf1560} dark{\kf1560} will{\kf1545} sur{\kf1545}ren{\kf1541}~{\kf1611}der
-Dialogue: 0,0:03:07.74,0:03:09.38,DEFAULT,,0,0,0,,{\kf1541}So{\kf1541} let{\kf1541} us{\kf1545} not{\kf1556} for{\kf1549}get
-Dialogue: 0,0:03:09.62,0:03:11.26,DEFAULT,,0,0,0,,{\kf1541}Of{\kf1541} all{\kf1541} the{\kf1545} good{\kf1549} we{\kf1549} met
-Dialogue: 0,0:03:11.77,0:03:14.77,DEFAULT,,0,0,0,,{\kf1549}We{\kf1545} will{\kf1537}~{\kf1541} re{\kf1549}mem{\kf1666}ber
+Dialogue: 0,0:00:15.25,0:00:18.22,DEFAULT,,0,0,0,,{\r}{\kf26}What{\kf19} is{\kf26} this{\kf58} thing{\kf26} we{\kf26} call{\kf32} e{\kf26}mo{\kf58}tion?
+Dialogue: 0,0:00:19.00,0:00:21.69,DEFAULT,,0,0,0,,{\r}{\kf26}Can{\kf20} it{\kf26} be{\kf66} brought{\kf26} in{\kf20}to{\kf26} the{\kf60} light?
+Dialogue: 0,0:00:22.75,0:00:25.83,DEFAULT,,0,0,0,,{\r}{\kf25}Where{\kf19} is{\kf25} it{\kf56} now?{\kf19} Is{\kf25} it{\kf25} on{\kf31} va{\kf37}ca{\kf47}tion?
+Dialogue: 0,0:00:26.50,0:00:29.19,DEFAULT,,0,0,0,,{\r}{\kf25}Can{\kf19} some{\kf25}one{\kf38} help{\kf25} me{\kf38} out{\kf19} of{\kf25} my{\kf56} mind?
+Dialogue: 0,0:00:30.29,0:00:33.25,DEFAULT,,0,0,0,,{\r}{\kf25}So{\kf19} ma{\kf19}ny{\kf32} me{\kf32}mories{\kf19} are{\kf25} jum{\kf19}bled{\kf25} and{\kf25} twist{\kf57}ed
+Dialogue: 0,0:00:34.00,0:00:36.69,DEFAULT,,0,0,0,,{\r}{\kf24}Crossed{\kf18} out{\kf24} the{\kf30} fa{\kf36}ces,{\kf18} and{\kf24} let{\kf18} go{\kf24} of{\kf54} friends
+Dialogue: 0,0:00:37.75,0:00:40.83,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf18} line{\kf24} is{\kf36} slen{\kf36}der{\kf18} be{\kf24}tween{\kf24} death{\kf24} and{\kf30} sad{\kf51}ness
+Dialogue: 0,0:00:41.46,0:00:44.23,DEFAULT,,0,0,0,,{\r}{\kf12}I've{\kf18}~{\kf18} seen{\kf24} it{\kf35} o{\kf35}ver{\kf18} and{\kf24} o{\kf18}ver{\kf24} a{\kf51}gain
+Dialogue: 0,0:00:45.25,0:00:48.22,DEFAULT,,0,0,0,,{\r}{\kf24}No{\kf18} more{\kf24} to{\kf36} this{\kf36} one,{\kf18} and{\kf24} no{\kf24} more{\kf24} to{\kf30} that{\kf39} one
+Dialogue: 0,0:00:49.00,0:00:51.73,DEFAULT,,0,0,0,,{\r}{\kf25}Some{\kf19} thoughts{\kf19} are{\kf32} smeared{\kf19}~{\kf25} with{\kf19} a{\kf19} can{\kf19}vas{\kf19} of{\kf58} black
+Dialogue: 0,0:00:52.71,0:00:55.75,DEFAULT,,0,0,0,,{\r}{\kf11}I'm{\kf17}~{\kf23} not{\kf23} a{\kf28}shamed{\kf17}~{\kf23} of{\kf17} the{\kf23} pie{\kf17}ces{\kf23} I'm{\kf34} mis{\kf49}sing
+Dialogue: 0,0:00:56.50,0:00:59.54,DEFAULT,,0,0,0,,{\r}{\kf21}They're{\kf47} not{\kf21} much{\kf26} to{\kf16}~{\kf78} la{\kf10}-a{\kf10}-a{\kf26}-a{\kf50}-ack
+Dialogue: 0,0:01:00.25,0:01:01.93,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf28} sha{\kf17}dow{\kf34} clouds{\kf34} our{\kf33} sight
+Dialogue: 0,0:01:02.12,0:01:03.80,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf23} we{\kf23} know{\kf35} that,{\kf29} to{\kf35} light,
+Dialogue: 0,0:01:04.00,0:01:06.81,DEFAULT,,0,0,0,,{\r}{\kf15}The{\kf39} dark{\kf39} will{\kf25} sur{\kf25}ren{\kf25}~{\kf113}der
+Dialogue: 0,0:01:07.75,0:01:09.39,DEFAULT,,0,0,0,,{\r}{\kf18}So{\kf23} let{\kf18} us{\kf35} not{\kf35} for{\kf35}get
+Dialogue: 0,0:01:09.62,0:01:11.26,DEFAULT,,0,0,0,,{\r}{\kf18}Of{\kf18} all{\kf18} the{\kf36} good{\kf36} we{\kf38} met
+Dialogue: 0,0:01:11.73,0:01:14.97,DEFAULT,,0,0,0,,{\r}{\kf14}We{\kf23}~{\kf23} will{\kf14}~{\kf23} re{\kf50}mem{\kf177}ber
+Dialogue: 0,0:02:00.25,0:02:03.29,DEFAULT,,0,0,0,,{\r}{\kf32}Won{\kf19}der{\kf19}ful{\kf57} times{\kf19} or{\kf25} pain{\kf19}ful{\kf32} re{\kf25}flec{\kf58}tions
+Dialogue: 0,0:02:04.04,0:02:06.73,DEFAULT,,0,0,0,,{\r}{\kf26}Con{\kf19}fus{\kf19}ing{\kf58} thoughts{\kf19} are{\kf26} plain{\kf19} as{\kf26} can{\kf58} be
+Dialogue: 0,0:02:07.79,0:02:10.79,DEFAULT,,0,0,0,,{\r}{\kf19}It's{\kf19} all{\kf19} a{\kf56} maze{\kf19} of{\kf25} end{\kf19}less{\kf38} di{\kf31}rec{\kf56}tions
+Dialogue: 0,0:02:11.50,0:02:14.19,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf18} who{\kf18} said{\kf48} hap{\kf42}pi{\kf36}ness{\kf18} would{\kf18} be{\kf54} free?
+Dialogue: 0,0:02:15.29,0:02:18.80,DEFAULT,,0,0,0,,{\r}{\kf30}Some{\kf18}times{\kf24} I{\kf18} feel{\kf24} a{\kf55}fraid,{\kf24} of{\kf24} all{\kf24} the{\kf24} me{\kf18}mories{\kf30} ma{\kf39}-ade
+Dialogue: 0,0:02:19.00,0:02:22.04,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf20} how{\kf20}~{\kf25} they'll{\kf15}~{\kf20} re{\kf25}mind{\kf15}~{\kf150} me
+Dialogue: 0,0:02:22.79,0:02:26.30,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf23} I{\kf23} guess{\kf18} that's{\kf23} o{\kf70}kay,{\kf23} 'cause{\kf23} I{\kf23} know{\kf18} that{\kf18} one{\kf29} day{\kf38}~
+Dialogue: 0,0:02:26.50,0:02:29.86,DEFAULT,,0,0,0,,{\r}{\kf16}You'll{\kf16} come{\kf16}~{\kf26} ba{\kf21}-ack{\kf16} to{\kf58} fi{\kf42}-ind{\kf58} me{\kf67}~
+Dialogue: 0,0:02:32.59,0:02:36.22,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} once{\kf37} a{\kf177}ga{\kf23}-a{\kf88}-ain
+Dialogue: 0,0:02:39.62,0:02:43.37,DEFAULT,,0,0,0,,{\r}{\kf43}Oooh,{\kf19} I{\kf24} lose{\kf14}~{\kf24} a{\kf159} frie{\kf19}-e{\kf19}-e{\kf54}-end
+Dialogue: 0,0:02:45.29,0:02:47.63,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf25} fa{\kf15}ces{\kf31} come{\kf20} and{\kf123} go
+Dialogue: 0,0:02:49.04,0:02:52.16,DEFAULT,,0,0,0,,{\r}{\kf22}They{\kf16} take{\kf22} a{\kf32} toll{\kf16} on{\kf16}~{\kf48} know{\kf32}ing{\kf65} how{\kf43}~
+Dialogue: 0,0:02:52.75,0:02:55.44,DEFAULT,,0,0,0,,{\r}{\kf19}They'll{\kf19} all{\kf14} be{\kf29} gone{\kf29} one{\kf160} day
+Dialogue: 0,0:02:56.50,0:02:59.66,DEFAULT,,0,0,0,,{\r}{\kf21}Yet{\kf21} no{\kf16}thin'{\kf27} seems{\kf16}~{\kf16} to{\kf43} slow{\kf48} me{\kf64} down{\kf44}~
+Dialogue: 0,0:03:00.25,0:03:01.93,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf28} sha{\kf17}dow{\kf34} clouds{\kf34} our{\kf33} sight
+Dialogue: 0,0:03:02.12,0:03:03.76,DEFAULT,,0,0,0,,{\r}{\kf24}But{\kf24} we{\kf24} know{\kf30} that,{\kf30} to{\kf32} light,
+Dialogue: 0,0:03:04.00,0:03:06.81,DEFAULT,,0,0,0,,{\r}{\kf15}The{\kf44} dark{\kf44} will{\kf25} sur{\kf25}ren{\kf20}~{\kf108}der
+Dialogue: 0,0:03:07.75,0:03:09.39,DEFAULT,,0,0,0,,{\r}{\kf21}So{\kf21} let{\kf21} us{\kf26} not{\kf42} for{\kf33}get
+Dialogue: 0,0:03:09.62,0:03:11.26,DEFAULT,,0,0,0,,{\r}{\kf23}Of{\kf23} all{\kf23} the{\kf28} good{\kf34} we{\kf33} met
+Dialogue: 0,0:03:11.77,0:03:14.78,DEFAULT,,0,0,0,,{\r}{\kf30}We{\kf25} will{\kf15}~{\kf20} re{\kf30}mem{\kf181}ber

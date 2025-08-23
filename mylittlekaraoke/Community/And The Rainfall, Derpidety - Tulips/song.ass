@@ -1,51 +1,58 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Tulips
+Artist: And The Rainfall, Derpidety
+Original Timing: mylittlekaraoke.com by SqueakyBelle
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:22.26,0:00:25.83,DEFAULT,,0,0,0,,{\kf38}Three{\kf25} mi{\kf22}nutes{\kf19} un{\kf44}til{\kf16} I'm{\kf22} a{\kf44}round{\kf19} the{\kf56} bend
-Dialogue: 0,0:00:26.26,0:00:29.82,DEFAULT,,0,0,0,,{\kf35}Three{\kf16} mi{\kf22}nutes{\kf22} be{\kf16}fore{\kf22} sun{\kf25}rise{\kf22} in{\kf22} my{\kf47} head.{\kf19} Am{\kf10} I{\kf16}~
-Dialogue: 0,0:00:30.20,0:00:32.74,DEFAULT,,0,0,0,,{\kf13}Too{\kf13}~{\kf22} cra{\kf22}zy{\kf22} to{\kf19} be{\kf19}lieve{\kf22} in{\kf16} a{\kf28} chance
-Dialogue: 0,0:00:33.02,0:00:34.69,DEFAULT,,0,0,0,,{\kf13}To{\kf16} spend{\kf22} a{\kf10} while{\kf35}~{\kf16} with{\kf28} you
-Dialogue: 0,0:00:35.00,0:00:37.42,DEFAULT,,0,0,0,,{\kf13}And{\kf13} not{\kf56} care{\kf13} that{\kf16} you{\kf35} might{\kf22} for{\kf25}get
-Dialogue: 0,0:00:37.63,0:00:41.23,DEFAULT,,0,0,0,,{\kf47}—Run,{\kf44} run,{\kf38} run{\kf19} to{\kf10} meet{\kf16}~{\kf22} you{\kf25} in{\kf22} the{\kf13} mor{\kf31}~{\kf10}ning
-Dialogue: 0,0:00:41.38,0:00:45.20,DEFAULT,,0,0,0,,{\kf22}A{\kf22} bles{\kf22}sing{\kf19} and{\kf13} a{\kf10} curse{\kf28}~{\kf19} to{\kf16} know{\kf19}~{\kf19} you,{\kf22} oh{\kf19}~,{\kf22} Mor{\kf22}~{\kf10}ning
-Dialogue: 0,0:00:45.35,0:00:49.57,DEFAULT,,0,0,0,,{\kf19}An{\kf10} an{\kf7}~{\kf16}gel{\kf19} in{\kf19} your{\kf19} eyes{\kf28}~,{\kf19} an{\kf16} en{\kf25}~{\kf22}gine{\kf28} not{\kf50} warm{\kf22}ing{\kf10} up{\kf13}~
-Dialogue: 0,0:00:49.72,0:00:53.69,DEFAULT,,0,0,0,,{\kf28}To{\kf13} the{\kf16} i{\kf28}~{\kf44}dea{\kf16} that{\kf25} you{\kf19} and{\kf22} I{\kf35} can't{\kf41} be{\kf28} real{\kf13}~
-Dialogue: 0,0:00:53.87,0:00:56.48,DEFAULT,,0,0,0,,{\kf13}I{\kf19} wish{\kf19} our{\kf25} sto{\kf19}ry{\kf22} woul{\kf16}dn't{\kf19} re{\kf22}set{\kf16} it{\kf31}self
-Dialogue: 0,0:00:56.76,0:00:58.68,DEFAULT,,0,0,0,,{\kf16}'Cause{\kf25} there's{\kf13} no{\kf16} way{\kf25} I'm{\kf19} gon{\kf19}na{\kf22} sleep
-Dialogue: 0,0:00:58.99,0:01:02.71,DEFAULT,,0,0,0,,{\kf19}With{\kf13} both{\kf13}~{\kf19} of{\kf25} us{\kf31} stuck{\kf25} here{\kf25}~{\kf121}~
-Dialogue: 0,0:01:17.58,0:01:21.33,DEFAULT,,0,0,0,,{\kf22}How{\kf22} ma{\kf19}ny{\kf16} times{\kf25}~{\kf19} can{\kf19} a{\kf19} mo{\kf16}ment{\kf25}~{\kf47} dy{\kf35}ing{\kf10} hurt{\kf13}~
-Dialogue: 0,0:01:21.49,0:01:25.24,DEFAULT,,0,0,0,,{\kf16}In{\kf22} spite{\kf19} of{\kf31} know{\kf16}ing{\kf25} I{\kf19} ne{\kf19}ver{\kf16} stood{\kf13} to{\kf10}~{\kf44} lose{\kf19} at{\kf19} all{\kf25}~
-Dialogue: 0,0:01:25.52,0:01:27.59,DEFAULT,,0,0,0,,{\kf19}Though{\kf22} at{\kf22} a{\kf22} glance{\kf16} I'm{\kf19} real{\kf16} yet{\kf28} fleet{\kf13}ing
-Dialogue: 0,0:01:27.75,0:01:30.07,DEFAULT,,0,0,0,,{\kf22}May{\kf16}be{\kf16} I{\kf19} can{\kf25} re{\kf22}vel{\kf16} in{\kf19} a{\kf25} pro{\kf13}mise
-Dialogue: 0,0:01:30.23,0:01:32.55,DEFAULT,,0,0,0,,{\kf16}I{\kf19} will{\kf25} ne{\kf16}ver{\kf19} have{\kf25} to{\kf19} live{\kf25} up{\kf16} to
-Dialogue: 0,0:01:32.71,0:01:36.77,DEFAULT,,0,0,0,,{\kf19}So{\kf19} I{\kf47} run,{\kf44} run,{\kf38} run{\kf19} to{\kf10} meet{\kf16}~{\kf22} you{\kf25} in{\kf22} the{\kf13} mor{\kf31}~{\kf10}ning
-Dialogue: 0,0:01:36.92,0:01:40.73,DEFAULT,,0,0,0,,{\kf22}A{\kf22} bles{\kf22}sing{\kf19} and{\kf13} a{\kf10} curse{\kf31}~{\kf19} to{\kf16} know{\kf19}~{\kf16} you,{\kf25} oh{\kf19}~,{\kf22} Mor{\kf22}~{\kf10}ning
-Dialogue: 0,0:01:40.89,0:01:45.07,DEFAULT,,0,0,0,,{\kf19}An{\kf10} an{\kf7}~{\kf16}gel{\kf19} in{\kf19} your{\kf19} eyes{\kf25}~,{\kf22} an{\kf16} en{\kf19}~{\kf22}gine{\kf28} not{\kf50} warm{\kf22}ing{\kf10} up{\kf10}~
-Dialogue: 0,0:01:45.29,0:01:49.22,DEFAULT,,0,0,0,,{\kf25}To{\kf13} the{\kf16} i{\kf28}~{\kf41}dea{\kf16} that{\kf25} you{\kf19} and{\kf19} I{\kf35} can't{\kf38} be{\kf28} real{\kf13}~
-Dialogue: 0,0:01:49.38,0:01:52.01,DEFAULT,,0,0,0,,{\kf16}I{\kf19} wish{\kf19} our{\kf25} sto{\kf19}ry{\kf22} woul{\kf16}dn't{\kf19} re{\kf25}set{\kf16} it{\kf31}self
-Dialogue: 0,0:01:52.29,0:01:54.21,DEFAULT,,0,0,0,,{\kf16}'Cause{\kf25} there's{\kf13} no{\kf16} way{\kf25} I'm{\kf19} gon{\kf22}na{\kf22} sleep
-Dialogue: 0,0:01:54.52,0:01:58.24,DEFAULT,,0,0,0,,{\kf22}With{\kf13} both{\kf13}~{\kf22} of{\kf28} us{\kf31} stuck{\kf25} here{\kf22}~{\kf124}~
-Dialogue: 0,0:02:14.08,0:02:17.86,DEFAULT,,0,0,0,,{\kf22}Caught{\kf22} in{\kf16} our{\kf44} first{\kf22} con{\kf25}ver{\kf22}sa{\kf41}tion{\kf10} once{\kf22}~{\kf16} a{\kf59}gain
-Dialogue: 0,0:02:18.08,0:02:21.89,DEFAULT,,0,0,0,,{\kf22}Ma{\kf19}king{\kf19} a{\kf41} first{\kf25} im{\kf19}pres{\kf47}sion{\kf10} once{\kf22}~{\kf16} a{\kf69}gain
-Dialogue: 0,0:02:22.08,0:02:25.30,DEFAULT,,0,0,0,,{\kf19}And{\kf25} ex{\kf22}pect{\kf19}ing{\kf16} it{\kf22} to{\kf19} be{\kf41} the{\kf16} last{\kf66}~
-Dialogue: 0,0:02:25.67,0:02:28.74,DEFAULT,,0,0,0,,{\kf28}Yet{\kf35} each{\kf38} time{\kf22} I'm{\kf22} di{\kf22}sap{\kf25}poin{\kf22}ted{\kf50}~
-Dialogue: 0,0:02:29.95,0:02:33.48,DEFAULT,,0,0,0,,{\kf16}Can{\kf25} I{\kf19} al{\kf19}low{\kf22} my{\kf25}self{\kf25} a{\kf22} mo{\kf10}ment{\kf31}~{\kf22}~{\kf78}~
-Dialogue: 0,0:02:33.91,0:02:37.35,DEFAULT,,0,0,0,,{\kf25}To{\kf16} pre{\kf22}tend{\kf25} I{\kf22} could{\kf19} be{\kf22} im{\kf25}por{\kf28}tant{\kf13} to{\kf31}~{\kf47} you
-Dialogue: 0,0:02:37.91,0:02:40.61,DEFAULT,,0,0,0,,{\kf19}And{\kf16} look{\kf31} for{\kf13}~{\kf13}ward{\kf19} to{\kf25} when{\kf22} I{\kf22} wake{\kf28} up
-Dialogue: 0,0:02:40.89,0:02:44.67,DEFAULT,,0,0,0,,{\kf16}And{\kf25} just{\kf19} to{\kf31} run,{\kf38} run,{\kf31} run{\kf22} to{\kf38} hear{\kf25} you{\kf10} say{\kf19}~
-Dialogue: 0,0:02:45.07,0:02:47.18,DEFAULT,,0,0,0,,{\kf28}"Good{\kf50} mor{\kf28}ning,{\kf7} an{\kf16}~{\kf41}gel"
-Dialogue: 0,0:02:49.04,0:02:51.15,DEFAULT,,0,0,0,,{\kf28}"Good{\kf50} mor{\kf28}ning,{\kf7} an{\kf16}~{\kf41}gel"
-Dialogue: 0,0:02:53.01,0:02:55.11,DEFAULT,,0,0,0,,{\kf28}"Good{\kf50} mor{\kf28}ning,{\kf7} an{\kf16}~{\kf41}gel"
-Dialogue: 0,0:02:56.97,0:03:00.47,DEFAULT,,0,0,0,,{\kf28}"Good{\kf50} mor{\kf25}ning,{\kf22} an{\kf47}gel"{\kf44}~{\kf22}~{\kf50}~
-Dialogue: 0,0:03:00.97,0:03:04.44,DEFAULT,,0,0,0,,{\kf28}"Good{\kf50} mor{\kf25}ning,{\kf22} an{\kf28}gel"{\kf28}~{\kf19}~{\kf50}~
-Dialogue: 0,0:03:04.91,0:03:08.41,DEFAULT,,0,0,0,,{\kf28}"Good{\kf50} mor{\kf28}ning,{\kf22} an{\kf44}gel"{\kf44}~{\kf22}~{\kf50}~
-Dialogue: 0,0:03:08.90,0:03:12.38,DEFAULT,,0,0,0,,{\kf28}"Good{\kf50} mor{\kf25}ning,{\kf22} an{\kf28}gel"{\kf28}~{\kf19}~{\kf50}~
-Dialogue: 0,0:03:12.84,0:03:16.81,DEFAULT,,0,0,0,,{\kf28}"Good{\kf50} mor{\kf22}ning,{\kf7} an{\kf16}~{\kf44}gel"{\kf35}~{\kf44}~{\kf75}~
+Dialogue: 0,0:00:22.27,0:00:25.83,DEFAULT,,0,0,0,,{\r}{\kf44}Three{\kf29} mi{\kf26}nutes{\kf22} un{\kf51}til{\kf18} I'm{\kf26} a{\kf51}round{\kf22} the{\kf67} bend
+Dialogue: 0,0:00:26.26,0:00:29.83,DEFAULT,,0,0,0,,{\r}{\kf42}Three{\kf19} mi{\kf27}nutes{\kf27} be{\kf19}fore{\kf27} sun{\kf31}rise{\kf27} in{\kf27} my{\kf57} head.{\kf23} Am{\kf11} I{\kf19}~
+Dialogue: 0,0:00:30.20,0:00:32.74,DEFAULT,,0,0,0,,{\r}{\kf16}Too{\kf16}~{\kf29} cra{\kf29}zy{\kf29} to{\kf25} be{\kf25}lieve{\kf29} in{\kf20} a{\kf36} chance
+Dialogue: 0,0:00:33.02,0:00:34.69,DEFAULT,,0,0,0,,{\r}{\kf15}To{\kf19} spend{\kf27} a{\kf11} while{\kf42}~{\kf19} with{\kf34} you
+Dialogue: 0,0:00:35.00,0:00:37.42,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf16} not{\kf71} care{\kf16} that{\kf20} you{\kf44} might{\kf28} for{\kf31}get
+Dialogue: 0,0:00:37.64,0:00:41.23,DEFAULT,,0,0,0,,{\r}{\kf57}—Run,{\kf54} run,{\kf46} run{\kf23} to{\kf11} meet{\kf19}~{\kf27} you{\kf31} in{\kf27} the{\kf15} mor{\kf38}~{\kf12}ning
+Dialogue: 0,0:00:41.39,0:00:45.20,DEFAULT,,0,0,0,,{\r}{\kf28}A{\kf28} bles{\kf28}sing{\kf24} and{\kf16} a{\kf12} curse{\kf36}~{\kf24} to{\kf20} know{\kf24}~{\kf24} you,{\kf28} oh{\kf24}~,{\kf28} Mor{\kf28}~{\kf10}ning
+Dialogue: 0,0:00:45.36,0:00:49.57,DEFAULT,,0,0,0,,{\r}{\kf23}An{\kf12} an{\kf10}~{\kf19}gel{\kf23} in{\kf23} your{\kf23} eyes{\kf35}~,{\kf23} an{\kf19} en{\kf31}~{\kf27}gine{\kf35} not{\kf62} warm{\kf27}ing{\kf12} up{\kf17}~
+Dialogue: 0,0:00:49.73,0:00:53.69,DEFAULT,,0,0,0,,{\r}{\kf34}To{\kf15} the{\kf19} i{\kf34}~{\kf53}dea{\kf19} that{\kf31} you{\kf23} and{\kf27} I{\kf42} can't{\kf50} be{\kf34} real{\kf16}~
+Dialogue: 0,0:00:53.88,0:00:56.48,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf22} wish{\kf22} our{\kf30} sto{\kf22}ry{\kf26} woul{\kf19}dn't{\kf22} re{\kf26}set{\kf19} it{\kf37}self
+Dialogue: 0,0:00:56.76,0:00:58.68,DEFAULT,,0,0,0,,{\r}{\kf20}'Cause{\kf31} there's{\kf16} no{\kf20} way{\kf31} I'm{\kf24} gon{\kf24}na{\kf26} sleep
+Dialogue: 0,0:00:58.99,0:01:02.71,DEFAULT,,0,0,0,,{\r}{\kf24}With{\kf16} both{\kf16}~{\kf24} of{\kf32} us{\kf40} stuck{\kf32} here{\kf32}~{\kf156}~
+Dialogue: 0,0:01:17.59,0:01:21.34,DEFAULT,,0,0,0,,{\r}{\kf27}How{\kf27} ma{\kf23}ny{\kf19} times{\kf31}~{\kf23} can{\kf23} a{\kf23} mo{\kf19}ment{\kf31}~{\kf58} dy{\kf43}ing{\kf12} hurt{\kf16}~
+Dialogue: 0,0:01:21.49,0:01:25.24,DEFAULT,,0,0,0,,{\r}{\kf19}In{\kf27} spite{\kf23} of{\kf38} know{\kf19}ing{\kf30} I{\kf23} ne{\kf23}ver{\kf19} stood{\kf15} to{\kf11}~{\kf53} lose{\kf23} at{\kf23} all{\kf29}~
+Dialogue: 0,0:01:25.52,0:01:27.60,DEFAULT,,0,0,0,,{\r}{\kf22}Though{\kf26} at{\kf26} a{\kf26} glance{\kf19} I'm{\kf22} real{\kf19} yet{\kf33} fleet{\kf15}ing
+Dialogue: 0,0:01:27.75,0:01:30.08,DEFAULT,,0,0,0,,{\r}{\kf27}May{\kf19}be{\kf19} I{\kf23} can{\kf30} re{\kf27}vel{\kf19} in{\kf23} a{\kf30} pro{\kf15}mise
+Dialogue: 0,0:01:30.23,0:01:32.56,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf24} will{\kf33} ne{\kf20}ver{\kf24} have{\kf33} to{\kf24} live{\kf33} up{\kf21} to
+Dialogue: 0,0:01:32.71,0:01:36.77,DEFAULT,,0,0,0,,{\r}{\kf23}So{\kf23} I{\kf57} run,{\kf54} run,{\kf46} run{\kf23} to{\kf11} meet{\kf19}~{\kf27} you{\kf31} in{\kf27} the{\kf15} mor{\kf38}~{\kf12}ning
+Dialogue: 0,0:01:36.93,0:01:40.74,DEFAULT,,0,0,0,,{\r}{\kf27}A{\kf27} bles{\kf27}sing{\kf24} and{\kf16} a{\kf12} curse{\kf39}~{\kf24} to{\kf20} know{\kf24}~{\kf20} you,{\kf31} oh{\kf24}~,{\kf27} Mor{\kf27}~{\kf12}ning
+Dialogue: 0,0:01:40.89,0:01:45.08,DEFAULT,,0,0,0,,{\r}{\kf24}An{\kf12} an{\kf10}~{\kf20}gel{\kf24} in{\kf24} your{\kf24} eyes{\kf32}~,{\kf28} an{\kf20} en{\kf24}~{\kf28}gine{\kf36} not{\kf64} warm{\kf28}ing{\kf12} up{\kf10}~
+Dialogue: 0,0:01:45.29,0:01:49.23,DEFAULT,,0,0,0,,{\r}{\kf32}To{\kf16} the{\kf20} i{\kf35}~{\kf51}dea{\kf20} that{\kf32} you{\kf24} and{\kf24} I{\kf43} can't{\kf47} be{\kf35} real{\kf15}~
+Dialogue: 0,0:01:49.38,0:01:52.02,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf22} wish{\kf22} our{\kf29} sto{\kf22}ry{\kf26} woul{\kf18}dn't{\kf22} re{\kf29}set{\kf18} it{\kf37}self
+Dialogue: 0,0:01:52.30,0:01:54.22,DEFAULT,,0,0,0,,{\r}{\kf19}'Cause{\kf31} there's{\kf15} no{\kf19} way{\kf31} I'm{\kf23} gon{\kf27}na{\kf27} sleep
+Dialogue: 0,0:01:54.53,0:01:58.25,DEFAULT,,0,0,0,,{\r}{\kf27}With{\kf16} both{\kf16}~{\kf27} of{\kf35} us{\kf39} stuck{\kf31} here{\kf27}~{\kf154}~
+Dialogue: 0,0:02:14.09,0:02:17.87,DEFAULT,,0,0,0,,{\r}{\kf26}Caught{\kf26} in{\kf19} our{\kf52} first{\kf26} con{\kf30}ver{\kf26}sa{\kf48}tion{\kf11} once{\kf26}~{\kf19} a{\kf69}gain
+Dialogue: 0,0:02:18.08,0:02:21.90,DEFAULT,,0,0,0,,{\r}{\kf27}Ma{\kf23}king{\kf23} a{\kf51} first{\kf31} im{\kf23}pres{\kf58}sion{\kf12} once{\kf27}~{\kf19} a{\kf87}gain
+Dialogue: 0,0:02:22.08,0:02:25.30,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf31} ex{\kf27}pect{\kf23}ing{\kf19} it{\kf27} to{\kf23} be{\kf50} the{\kf19} last{\kf80}~
+Dialogue: 0,0:02:25.68,0:02:28.74,DEFAULT,,0,0,0,,{\r}{\kf33}Yet{\kf40} each{\kf44} time{\kf26} I'm{\kf26} di{\kf26}sap{\kf29}poin{\kf26}ted{\kf57}~
+Dialogue: 0,0:02:29.95,0:02:33.49,DEFAULT,,0,0,0,,{\r}{\kf18}Can{\kf28} I{\kf21} al{\kf21}low{\kf25} my{\kf28}self{\kf28} a{\kf25} mo{\kf11}ment{\kf35}~{\kf25}~{\kf88}~
+Dialogue: 0,0:02:33.92,0:02:37.36,DEFAULT,,0,0,0,,{\r}{\kf29}To{\kf18} pre{\kf26}tend{\kf29} I{\kf26} could{\kf22} be{\kf26} im{\kf29}por{\kf33}tant{\kf15} to{\kf37}~{\kf54} you
+Dialogue: 0,0:02:37.92,0:02:40.61,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf20} look{\kf41} for{\kf16}~{\kf16}ward{\kf25} to{\kf33} when{\kf29} I{\kf29} wake{\kf36} up
+Dialogue: 0,0:02:40.89,0:02:44.67,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf35} just{\kf26} to{\kf43} run,{\kf52} run,{\kf43} run{\kf30} to{\kf52} hear{\kf35} you{\kf13} say{\kf27}~
+Dialogue: 0,0:02:45.08,0:02:47.18,DEFAULT,,0,0,0,,{\r}{\kf35}"Good{\kf63} mor{\kf35}ning,{\kf10} an{\kf20}~{\kf48}gel"
+Dialogue: 0,0:02:49.04,0:02:51.15,DEFAULT,,0,0,0,,{\r}{\kf35}"Good{\kf63} mor{\kf35}ning,{\kf10} an{\kf20}~{\kf48}gel"
+Dialogue: 0,0:02:53.01,0:02:55.12,DEFAULT,,0,0,0,,{\r}{\kf35}"Good{\kf63} mor{\kf35}ning,{\kf10} an{\kf20}~{\kf48}gel"
+Dialogue: 0,0:02:56.98,0:03:00.48,DEFAULT,,0,0,0,,{\r}{\kf34}"Good{\kf61} mor{\kf30}ning,{\kf27} an{\kf57}gel"{\kf53}~{\kf27}~{\kf61}~
+Dialogue: 0,0:03:00.98,0:03:04.45,DEFAULT,,0,0,0,,{\r}{\kf39}"Good{\kf69} mor{\kf35}ning,{\kf30} an{\kf39}gel"{\kf39}~{\kf26}~{\kf70}~
+Dialogue: 0,0:03:04.91,0:03:08.41,DEFAULT,,0,0,0,,{\r}{\kf34}"Good{\kf61} mor{\kf34}ning,{\kf27} an{\kf53}gel"{\kf53}~{\kf27}~{\kf61}~
+Dialogue: 0,0:03:08.91,0:03:12.38,DEFAULT,,0,0,0,,{\r}{\kf39}"Good{\kf69} mor{\kf35}ning,{\kf30} an{\kf39}gel"{\kf39}~{\kf26}~{\kf70}~
+Dialogue: 0,0:03:12.85,0:03:16.81,DEFAULT,,0,0,0,,{\r}{\kf35}"Good{\kf62} mor{\kf27}ning,{\kf10} an{\kf19}~{\kf54}gel"{\kf43}~{\kf54}~{\kf93}~

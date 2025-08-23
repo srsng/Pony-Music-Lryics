@@ -1,77 +1,84 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Until the Sun
+Artist: &I feat. Feather
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:51.91,0:00:52.95,DEFAULT,,0,0,0,,{\kf17}Hey{\kf21} talk{\kf21} to{\kf34} me
-Dialogue: 0,0:00:53.08,0:00:55.37,DEFAULT,,0,0,0,,{\kf17}My{\kf21} name{\kf21} is{\kf42} Rain{\kf30}bow,{\kf38} could{\kf34} be
-Dialogue: 0,0:00:55.49,0:00:56.45,DEFAULT,,0,0,0,,{\kf17}That{\kf21} you{\kf21} will{\kf25} find
-Dialogue: 0,0:00:56.58,0:00:58.87,DEFAULT,,0,0,0,,{\kf17}The{\kf21} best{\kf17} of{\kf42} friend{\kf42}ship{\kf30} in{\kf34} me
-Dialogue: 0,0:00:58.99,0:00:59.99,DEFAULT,,0,0,0,,{\kf21}Why{\kf25} don't{\kf17} we{\kf25} take
-Dialogue: 0,0:01:00.12,0:01:02.41,DEFAULT,,0,0,0,,{\kf17}Some{\kf21} time,{\kf21} for{\kf38}get{\kf34} your{\kf46} sor{\kf25}row
-Dialogue: 0,0:01:02.54,0:01:03.58,DEFAULT,,0,0,0,,{\kf21}Just{\kf21} us{\kf25} un{\kf30}til
-Dialogue: 0,0:01:03.70,0:01:05.99,DEFAULT,,0,0,0,,{\kf17}The{\kf21} sun{\kf21} comes{\kf34} up{\kf46} to{\kf46}mor{\kf25}row
-Dialogue: 0,0:01:06.16,0:01:07.41,DEFAULT,,0,0,0,,{\kf21}'pro{\kf17}mise{\kf17} it's{\kf21} not{\kf21} just{\kf13} you
-Dialogue: 0,0:01:07.54,0:01:09.58,DEFAULT,,0,0,0,,{\kf13}Who{\kf30} some{\kf30}times{\kf30} gets{\kf50} lone{\kf30}ly
-Dialogue: 0,0:01:09.70,0:01:10.79,DEFAULT,,0,0,0,,{\kf21}And{\kf17} I{\kf25} real{\kf17}ly{\kf17} think
-Dialogue: 0,0:01:10.91,0:01:13.08,DEFAULT,,0,0,0,,{\kf13}You're{\kf17} such{\kf17} a{\kf42} spe{\kf38}cial{\kf42} po{\kf30}ny
-Dialogue: 0,0:01:13.20,0:01:14.33,DEFAULT,,0,0,0,,{\kf21}So{\kf21} let's{\kf21} fly{\kf25} a{\kf13}way
-Dialogue: 0,0:01:14.45,0:01:16.66,DEFAULT,,0,0,0,,{\kf13}We'll{\kf17} go{\kf30} wher{\kf42}e{\kf38}ver{\kf38} you{\kf30} want
-Dialogue: 0,0:01:16.87,0:01:18.58,DEFAULT,,0,0,0,,{\kf17}Now{\kf17} I've{\kf17} got{\kf21} you{\kf17} let{\kf21} me{\kf21} show{\kf13} you
-Dialogue: 0,0:01:18.74,0:01:21.33,DEFAULT,,0,0,0,,{\kf13}What{\kf5} is{\kf21} meant{\kf25} by{\kf46} loy{\kf42}al{\kf92}ty
-Dialogue: 0,0:01:21.45,0:01:23.12,DEFAULT,,0,0,0,,{\kf17}I{\kf21} think{\kf21} I've{\kf21} seen{\kf21} you{\kf21} be{\kf25}fore
-Dialogue: 0,0:01:23.29,0:01:25.12,DEFAULT,,0,0,0,,{\kf17}And{\kf21} al{\kf21}ways{\kf21} look{\kf13}ing{\kf21} so{\kf38} lone{\kf13}ly
-Dialogue: 0,0:01:25.24,0:01:26.70,DEFAULT,,0,0,0,,{\kf17}It's{\kf17} so{\kf25} hard{\kf21} to{\kf25} i{\kf17}gnore
-Dialogue: 0,0:01:26.83,0:01:28.45,DEFAULT,,0,0,0,,{\kf17}So{\kf21} come{\kf17} on{\kf17} won't{\kf17} you{\kf21} be{\kf30} friends
-Dialogue: 0,0:01:28.62,0:01:30.16,DEFAULT,,0,0,0,,{\kf13}It{\kf21} should{\kf17} be{\kf25} ea{\kf21}sy{\kf17} to{\kf21} do
-Dialogue: 0,0:01:30.41,0:01:31.99,DEFAULT,,0,0,0,,{\kf21}Be{\kf21}cause{\kf17} I{\kf17} think{\kf17} you{\kf17} will{\kf30} find
-Dialogue: 0,0:01:32.12,0:01:33.87,DEFAULT,,0,0,0,,{\kf21}I'm{\kf17} not{\kf17} so{\kf34} dif{\kf25}ferent{\kf25} from{\kf17} you
-Dialogue: 0,0:01:33.99,0:01:35.58,DEFAULT,,0,0,0,,{\kf13}They{\kf13} all{\kf17} say{\kf21} 'There{\kf25} goes{\kf21} the{\kf25} girl
-Dialogue: 0,0:01:35.70,0:01:37.33,DEFAULT,,0,0,0,,{\kf17}Who's{\kf17} just{\kf21} as{\kf17} bold{\kf21} as{\kf17} her{\kf30} mane
-Dialogue: 0,0:01:37.49,0:01:39.20,DEFAULT,,0,0,0,,{\kf17}And{\kf21} boy{\kf21} oh{\kf17} boy{\kf13} can{\kf21} she{\kf38} fly
-Dialogue: 0,0:01:39.33,0:01:40.87,DEFAULT,,0,0,0,,{\kf21}Puts{\kf17} e{\kf21}very{\kf25}po{\kf17}ny{\kf17} to{\kf25} shame'
-Dialogue: 0,0:01:41.08,0:01:42.66,DEFAULT,,0,0,0,,{\kf17}If{\kf25} on{\kf17}ly{\kf17} deep{\kf17} down{\kf21} in{\kf30}side
-Dialogue: 0,0:01:42.83,0:01:44.41,DEFAULT,,0,0,0,,{\kf25}It{\kf17} did{\kf17}n't{\kf13} feel{\kf21} like{\kf17} a{\kf30} lie
-Dialogue: 0,0:01:44.62,0:01:46.29,DEFAULT,,0,0,0,,{\kf17}The{\kf21} more{\kf21} at{\kf21}ten{\kf17}tion{\kf21} I{\kf34} get
-Dialogue: 0,0:01:46.41,0:01:50.08,DEFAULT,,0,0,0,,{\kf17}The{\kf17} more{\kf17} I{\kf25} just{\kf21} want{\kf25} to{\kf217} cry
-Dialogue: 0,0:01:50.54,0:01:55.45,DEFAULT,,0,0,0,,{\kf34}Ah{\kf25} ah{\kf88} ah{\kf167} ah{\kf121} ah
-Dialogue: 0,0:01:55.95,0:02:02.79,DEFAULT,,0,0,0,,{\kf180}Ah{\kf30} ah{\kf25} ah{\kf80} ah{\kf163} ah{\kf142} ah
-Dialogue: 0,0:02:03.04,0:02:03.99,DEFAULT,,0,0,0,,{\kf17}Hey{\kf17} talk{\kf21} to{\kf30} me
-Dialogue: 0,0:02:04.12,0:02:06.45,DEFAULT,,0,0,0,,{\kf21}My{\kf17} name{\kf21} is{\kf46} Rain{\kf38}bow,{\kf38} could{\kf34} be
-Dialogue: 0,0:02:06.58,0:02:07.66,DEFAULT,,0,0,0,,{\kf17}That{\kf21} you{\kf21} will{\kf38} find
-Dialogue: 0,0:02:07.79,0:02:09.95,DEFAULT,,0,0,0,,{\kf17}The{\kf13} best{\kf21} of{\kf38} friend{\kf38}ship{\kf34} in{\kf30} me
-Dialogue: 0,0:02:10.12,0:02:11.12,DEFAULT,,0,0,0,,{\kf21}Why{\kf21} don't{\kf17} we{\kf30} take
-Dialogue: 0,0:02:11.24,0:02:13.54,DEFAULT,,0,0,0,,{\kf17}Some{\kf17} time,{\kf30} for{\kf42}get{\kf34} your{\kf46} sor{\kf30}row
-Dialogue: 0,0:02:13.66,0:02:14.70,DEFAULT,,0,0,0,,{\kf21}Just{\kf21} us{\kf21} un{\kf34}til
-Dialogue: 0,0:02:14.83,0:02:16.95,DEFAULT,,0,0,0,,{\kf17}The{\kf17} sun{\kf25} comes{\kf34} up{\kf46} to{\kf38}mor{\kf17}row
-Dialogue: 0,0:02:17.12,0:02:18.54,DEFAULT,,0,0,0,,{\kf9}I{\kf25} pro{\kf17}mise{\kf17} it's{\kf21} not{\kf17} just{\kf17} you
-Dialogue: 0,0:02:18.66,0:02:20.66,DEFAULT,,0,0,0,,{\kf13}Who{\kf25} some{\kf38}times{\kf30} gets{\kf42} lone{\kf30}ly
-Dialogue: 0,0:02:20.83,0:02:21.87,DEFAULT,,0,0,0,,{\kf17}And{\kf21} I{\kf25} real{\kf13}ly{\kf17} think
-Dialogue: 0,0:02:21.99,0:02:24.20,DEFAULT,,0,0,0,,{\kf13}You're{\kf21} such{\kf17} a{\kf42} spe{\kf42}cial{\kf42} po{\kf25}ny
-Dialogue: 0,0:02:24.33,0:02:25.45,DEFAULT,,0,0,0,,{\kf21}So{\kf21} let's{\kf21} fly{\kf25} a{\kf13}way
-Dialogue: 0,0:02:25.58,0:02:27.83,DEFAULT,,0,0,0,,{\kf13}We'll{\kf17} go{\kf25} wher{\kf42}e{\kf34}ver{\kf30} you{\kf30} want
-Dialogue: 0,0:02:27.95,0:02:29.66,DEFAULT,,0,0,0,,{\kf21}Now{\kf17} I've{\kf21} got{\kf17} you{\kf17} let{\kf17} me{\kf17} show{\kf17} you
-Dialogue: 0,0:02:29.79,0:02:32.45,DEFAULT,,0,0,0,,{\kf17}What{\kf17} is{\kf17} meant{\kf17} by{\kf46} loy{\kf46}al{\kf92}ty
-Dialogue: 0,0:02:32.79,0:02:34.33,DEFAULT,,0,0,0,,{\kf25}It{\kf17} should{\kf21} be{\kf13} no{\kf30} sur{\kf34}prise
-Dialogue: 0,0:02:34.45,0:02:36.04,DEFAULT,,0,0,0,,{\kf17}I{\kf21} on{\kf17}ly{\kf17} act{\kf17} like{\kf17} I{\kf34} do
-Dialogue: 0,0:02:36.16,0:02:37.79,DEFAULT,,0,0,0,,{\kf21}Be{\kf17}cause{\kf17} I'm{\kf30} try{\kf21}ing{\kf17} to{\kf25} hide
-Dialogue: 0,0:02:37.95,0:02:39.54,DEFAULT,,0,0,0,,{\kf17}The{\kf17} fact{\kf17} that{\kf21} con{\kf17}fi{\kf25}dence{\kf30} can
-Dialogue: 0,0:02:39.66,0:02:41.24,DEFAULT,,0,0,0,,{\kf21}Be{\kf17} hard{\kf17} to{\kf17} come{\kf25} by{\kf17} at{\kf21} all
-Dialogue: 0,0:02:41.54,0:02:43.24,DEFAULT,,0,0,0,,{\kf17}And{\kf13} if{\kf17} I{\kf21} look{\kf17} down{\kf21} I{\kf42} feel
-Dialogue: 0,0:02:43.45,0:02:44.95,DEFAULT,,0,0,0,,{\kf21}Like{\kf17} I'm{\kf30} go{\kf21}ing{\kf25} to{\kf17} fall
-Dialogue: 0,0:02:45.08,0:02:46.70,DEFAULT,,0,0,0,,{\kf21}This{\kf21} is{\kf17}n't{\kf21} ea{\kf17}sy{\kf21} for{\kf30} me
-Dialogue: 0,0:02:46.83,0:02:48.49,DEFAULT,,0,0,0,,{\kf21}But{\kf17} I{\kf17} can{\kf17} see{\kf17} that{\kf21} you're{\kf34} sad
-Dialogue: 0,0:02:48.66,0:02:50.29,DEFAULT,,0,0,0,,{\kf17}And{\kf17} I{\kf17} just{\kf17} can't{\kf17} pass{\kf21} you{\kf34} by
-Dialogue: 0,0:02:50.41,0:02:52.16,DEFAULT,,0,0,0,,{\kf21}Be{\kf17}cause{\kf17} I'd{\kf30} feel{\kf17}~{\kf30} so{\kf21} bad
-Dialogue: 0,0:02:52.29,0:02:53.87,DEFAULT,,0,0,0,,{\kf13}I{\kf17} know{\kf13} you{\kf21} don't{\kf17} think{\kf21} I'm{\kf34} kind
-Dialogue: 0,0:02:54.16,0:02:55.62,DEFAULT,,0,0,0,,{\kf21}That's{\kf17} no{\kf21} fault{\kf21} but{\kf17} my{\kf30} own
-Dialogue: 0,0:02:55.79,0:02:57.41,DEFAULT,,0,0,0,,{\kf17}But{\kf17} I{\kf17} will{\kf17} give{\kf17} up{\kf21} my{\kf34} wings
-Dialogue: 0,0:02:57.49,0:03:01.08,DEFAULT,,0,0,0,,{\kf21}Be{\kf17}fore{\kf17} I{\kf21} leave{\kf25} you{\kf34} a{\kf200}lone
-Dialogue: 0,0:03:01.62,0:03:06.54,DEFAULT,,0,0,0,,{\kf42}Oh{\kf46} Oh{\kf88} Oh{\kf167} Oh{\kf138}~
-Dialogue: 0,0:03:07.04,0:03:13.83,DEFAULT,,0,0,0,,{\kf167}Oh{\kf42} Oh{\kf46} Oh{\kf88} Oh{\kf167} Oh{\kf146} Oh
+Dialogue: 0,0:00:51.92,0:00:52.96,DEFAULT,,0,0,0,,{\r}{\kf19}Hey{\kf24} talk{\kf24} to{\kf37} me
+Dialogue: 0,0:00:53.08,0:00:55.37,DEFAULT,,0,0,0,,{\r}{\kf19}My{\kf24} name{\kf24} is{\kf48} Rain{\kf33}bow,{\kf43} could{\kf38} be
+Dialogue: 0,0:00:55.50,0:00:56.46,DEFAULT,,0,0,0,,{\r}{\kf19}That{\kf24} you{\kf24} will{\kf29} find
+Dialogue: 0,0:00:56.58,0:00:58.87,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf24} best{\kf19} of{\kf48} friend{\kf48}ship{\kf33} in{\kf38} me
+Dialogue: 0,0:00:59.00,0:00:60.00,DEFAULT,,0,0,0,,{\r}{\kf24}Why{\kf29} don't{\kf19} we{\kf28} take
+Dialogue: 0,0:01:00.12,0:01:02.42,DEFAULT,,0,0,0,,{\r}{\kf19}Some{\kf24} time,{\kf24} for{\kf43}get{\kf38} your{\kf52} sor{\kf29}row
+Dialogue: 0,0:01:02.54,0:01:03.58,DEFAULT,,0,0,0,,{\r}{\kf23}Just{\kf23} us{\kf27} un{\kf31}til
+Dialogue: 0,0:01:03.71,0:01:06.00,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf23} sun{\kf23} comes{\kf37} up{\kf50} to{\kf50}mor{\kf28}row
+Dialogue: 0,0:01:06.17,0:01:07.42,DEFAULT,,0,0,0,,{\r}{\kf24}'pro{\kf19}mise{\kf19} it's{\kf24} not{\kf24} just{\kf15} you
+Dialogue: 0,0:01:07.54,0:01:09.58,DEFAULT,,0,0,0,,{\r}{\kf14}Who{\kf33} some{\kf33}times{\kf33} gets{\kf57} lone{\kf34}ly
+Dialogue: 0,0:01:09.71,0:01:10.79,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf19} I{\kf28} real{\kf19}ly{\kf19} think
+Dialogue: 0,0:01:10.92,0:01:13.08,DEFAULT,,0,0,0,,{\r}{\kf14}You're{\kf18} such{\kf18} a{\kf46} spe{\kf42}cial{\kf46} po{\kf33}ny
+Dialogue: 0,0:01:13.21,0:01:14.33,DEFAULT,,0,0,0,,{\r}{\kf23}So{\kf23} let's{\kf23} fly{\kf28} a{\kf15}way
+Dialogue: 0,0:01:14.46,0:01:16.67,DEFAULT,,0,0,0,,{\r}{\kf14}We'll{\kf18} go{\kf32} wher{\kf45}e{\kf41}ver{\kf41} you{\kf30} want
+Dialogue: 0,0:01:16.87,0:01:18.58,DEFAULT,,0,0,0,,{\r}{\kf20}Now{\kf20} I've{\kf20} got{\kf25} you{\kf20} let{\kf25} me{\kf25} show{\kf16} you
+Dialogue: 0,0:01:18.75,0:01:21.33,DEFAULT,,0,0,0,,{\r}{\kf13}What{\kf10} is{\kf22} meant{\kf27} by{\kf49} loy{\kf44}al{\kf93}ty
+Dialogue: 0,0:01:21.46,0:01:23.12,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf24} think{\kf24} I've{\kf24} seen{\kf24} you{\kf24} be{\kf28}fore
+Dialogue: 0,0:01:23.29,0:01:25.12,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf23} al{\kf23}ways{\kf23} look{\kf14}ing{\kf23} so{\kf42} lone{\kf16}ly
+Dialogue: 0,0:01:25.25,0:01:26.71,DEFAULT,,0,0,0,,{\r}{\kf20}It's{\kf20} so{\kf30} hard{\kf25} to{\kf30} i{\kf21}gnore
+Dialogue: 0,0:01:26.83,0:01:28.46,DEFAULT,,0,0,0,,{\r}{\kf20}So{\kf25} come{\kf20} on{\kf20} won't{\kf20} you{\kf25} be{\kf33} friends
+Dialogue: 0,0:01:28.62,0:01:30.17,DEFAULT,,0,0,0,,{\r}{\kf14}It{\kf24} should{\kf19} be{\kf29} ea{\kf24}sy{\kf19} to{\kf25} do
+Dialogue: 0,0:01:30.42,0:01:32.00,DEFAULT,,0,0,0,,{\r}{\kf24}Be{\kf24}cause{\kf19} I{\kf19} think{\kf19} you{\kf19} will{\kf34} find
+Dialogue: 0,0:01:32.12,0:01:33.87,DEFAULT,,0,0,0,,{\r}{\kf24}I'm{\kf19} not{\kf19} so{\kf38} dif{\kf28}ferent{\kf28} from{\kf19} you
+Dialogue: 0,0:01:34.00,0:01:35.58,DEFAULT,,0,0,0,,{\r}{\kf15}They{\kf15} all{\kf20} say{\kf25} 'There{\kf30} goes{\kf25} the{\kf28} girl
+Dialogue: 0,0:01:35.71,0:01:37.33,DEFAULT,,0,0,0,,{\r}{\kf20}Who's{\kf20} just{\kf25} as{\kf20} bold{\kf25} as{\kf20} her{\kf33} mane
+Dialogue: 0,0:01:37.50,0:01:39.21,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf24} boy{\kf24} oh{\kf20} boy{\kf15} can{\kf24} she{\kf44} fly
+Dialogue: 0,0:01:39.33,0:01:40.87,DEFAULT,,0,0,0,,{\r}{\kf23}Puts{\kf18} e{\kf23}very{\kf27}po{\kf18}ny{\kf18} to{\kf27} shame'
+Dialogue: 0,0:01:41.08,0:01:42.67,DEFAULT,,0,0,0,,{\r}{\kf19}If{\kf28} on{\kf19}ly{\kf19} deep{\kf19} down{\kf23} in{\kf31}side
+Dialogue: 0,0:01:42.83,0:01:44.42,DEFAULT,,0,0,0,,{\r}{\kf29}It{\kf19} did{\kf19}n't{\kf14} feel{\kf24} like{\kf19} a{\kf34} lie
+Dialogue: 0,0:01:44.62,0:01:46.29,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf23} more{\kf23} at{\kf23}ten{\kf19}tion{\kf23} I{\kf37} get
+Dialogue: 0,0:01:46.42,0:01:50.08,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf18} more{\kf18} I{\kf27} just{\kf23} want{\kf27} to{\kf236} cry
+Dialogue: 0,0:01:50.54,0:01:55.46,DEFAULT,,0,0,0,,{\r}{\kf38}Ah{\kf28} ah{\kf99} ah{\kf189} ah{\kf138} ah
+Dialogue: 0,0:01:55.96,0:02:02.79,DEFAULT,,0,0,0,,{\r}{\kf198}Ah{\kf32} ah{\kf28} ah{\kf88} ah{\kf180} ah{\kf157} ah
+Dialogue: 0,0:02:03.04,0:02:04.00,DEFAULT,,0,0,0,,{\r}{\kf19}Hey{\kf19} talk{\kf24} to{\kf34} me
+Dialogue: 0,0:02:04.12,0:02:06.46,DEFAULT,,0,0,0,,{\r}{\kf23}My{\kf18} name{\kf23} is{\kf50} Rain{\kf41}bow,{\kf41} could{\kf37} be
+Dialogue: 0,0:02:06.58,0:02:07.67,DEFAULT,,0,0,0,,{\r}{\kf19}That{\kf23} you{\kf23} will{\kf43} find
+Dialogue: 0,0:02:07.79,0:02:09.96,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf14} best{\kf24} of{\kf43} friend{\kf43}ship{\kf39} in{\kf35} me
+Dialogue: 0,0:02:10.12,0:02:11.12,DEFAULT,,0,0,0,,{\r}{\kf24}Why{\kf24} don't{\kf19} we{\kf33} take
+Dialogue: 0,0:02:11.25,0:02:13.54,DEFAULT,,0,0,0,,{\r}{\kf18}Some{\kf18} time,{\kf31} for{\kf45}get{\kf36} your{\kf49} sor{\kf32}row
+Dialogue: 0,0:02:13.67,0:02:14.71,DEFAULT,,0,0,0,,{\r}{\kf23}Just{\kf23} us{\kf23} un{\kf35}til
+Dialogue: 0,0:02:14.83,0:02:16.96,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf18} sun{\kf28} comes{\kf37} up{\kf51} to{\kf41}mor{\kf19}row
+Dialogue: 0,0:02:17.12,0:02:18.54,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf29} pro{\kf20}mise{\kf20} it's{\kf24} not{\kf20} just{\kf19} you
+Dialogue: 0,0:02:18.67,0:02:20.67,DEFAULT,,0,0,0,,{\r}{\kf14}Who{\kf29} some{\kf43}times{\kf33} gets{\kf48} lone{\kf33}ly
+Dialogue: 0,0:02:20.83,0:02:21.87,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf24} I{\kf28} real{\kf14}ly{\kf19} think
+Dialogue: 0,0:02:22.00,0:02:24.21,DEFAULT,,0,0,0,,{\r}{\kf14}You're{\kf23} such{\kf18} a{\kf46} spe{\kf46}cial{\kf46} po{\kf28}ny
+Dialogue: 0,0:02:24.33,0:02:25.46,DEFAULT,,0,0,0,,{\r}{\kf23}So{\kf23} let's{\kf23} fly{\kf28} a{\kf15}way
+Dialogue: 0,0:02:25.58,0:02:27.83,DEFAULT,,0,0,0,,{\r}{\kf15}We'll{\kf20} go{\kf30} wher{\kf50}e{\kf40}ver{\kf35} you{\kf35} want
+Dialogue: 0,0:02:27.96,0:02:29.67,DEFAULT,,0,0,0,,{\r}{\kf25}Now{\kf20} I've{\kf25} got{\kf20} you{\kf20} let{\kf20} me{\kf20} show{\kf21} you
+Dialogue: 0,0:02:29.79,0:02:32.46,DEFAULT,,0,0,0,,{\r}{\kf18}What{\kf18} is{\kf18} meant{\kf18} by{\kf49} loy{\kf49}al{\kf97}ty
+Dialogue: 0,0:02:32.79,0:02:34.33,DEFAULT,,0,0,0,,{\r}{\kf28}It{\kf19} should{\kf23} be{\kf14} no{\kf33} sur{\kf37}prise
+Dialogue: 0,0:02:34.46,0:02:36.04,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf24} on{\kf19}ly{\kf19} act{\kf19} like{\kf19} I{\kf39} do
+Dialogue: 0,0:02:36.17,0:02:37.79,DEFAULT,,0,0,0,,{\r}{\kf23}Be{\kf19}cause{\kf19} I'm{\kf32} try{\kf23}ing{\kf19} to{\kf27} hide
+Dialogue: 0,0:02:37.96,0:02:39.54,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf19} fact{\kf19} that{\kf23} con{\kf19}fi{\kf28}dence{\kf31} can
+Dialogue: 0,0:02:39.67,0:02:41.25,DEFAULT,,0,0,0,,{\r}{\kf25}Be{\kf20} hard{\kf20} to{\kf20} come{\kf30} by{\kf20} at{\kf23} all
+Dialogue: 0,0:02:41.54,0:02:43.25,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf15} if{\kf20} I{\kf24} look{\kf20} down{\kf24} I{\kf48} feel
+Dialogue: 0,0:02:43.46,0:02:44.96,DEFAULT,,0,0,0,,{\r}{\kf24}Like{\kf19} I'm{\kf34} go{\kf24}ing{\kf29} to{\kf20} fall
+Dialogue: 0,0:02:45.08,0:02:46.71,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf23} is{\kf19}n't{\kf23} ea{\kf19}sy{\kf23} for{\kf32} me
+Dialogue: 0,0:02:46.83,0:02:48.50,DEFAULT,,0,0,0,,{\r}{\kf25}But{\kf20} I{\kf20} can{\kf20} see{\kf20} that{\kf25} you're{\kf37} sad
+Dialogue: 0,0:02:48.67,0:02:50.29,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} I{\kf20} just{\kf20} can't{\kf20} pass{\kf25} you{\kf38} by
+Dialogue: 0,0:02:50.42,0:02:52.17,DEFAULT,,0,0,0,,{\r}{\kf24}Be{\kf19}cause{\kf19} I'd{\kf34} feel{\kf19}~{\kf34} so{\kf26} bad
+Dialogue: 0,0:02:52.29,0:02:53.87,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf20} know{\kf15} you{\kf25} don't{\kf20} think{\kf25} I'm{\kf38} kind
+Dialogue: 0,0:02:54.17,0:02:55.62,DEFAULT,,0,0,0,,{\r}{\kf24}That's{\kf19} no{\kf24} fault{\kf24} but{\kf19} my{\kf36} own
+Dialogue: 0,0:02:55.79,0:02:57.42,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf20} I{\kf20} will{\kf20} give{\kf20} up{\kf25} my{\kf38} wings
+Dialogue: 0,0:02:57.50,0:03:01.08,DEFAULT,,0,0,0,,{\r}{\kf22}Be{\kf18}fore{\kf18} I{\kf22} leave{\kf27} you{\kf36} a{\kf215}lone
+Dialogue: 0,0:03:01.62,0:03:06.54,DEFAULT,,0,0,0,,{\r}{\kf43}Oh{\kf47} Oh{\kf90} Oh{\kf171} Oh{\kf141}~
+Dialogue: 0,0:03:07.04,0:03:13.83,DEFAULT,,0,0,0,,{\r}{\kf173}Oh{\kf43} Oh{\kf48} Oh{\kf91} Oh{\kf173} Oh{\kf151} Oh

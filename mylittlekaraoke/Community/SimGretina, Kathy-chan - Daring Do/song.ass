@@ -1,57 +1,64 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Daring Do
+Artist: SimGretina, Kathy-chan
+Original Timing: mylittlekaraoke.com by Amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.70,0:00:05.20,DEFAULT,,0,0,0,,{\kf20}Chap{\kf25}ter{\kf35} one{\kf20} I{\kf35} am{\kf35} star{\kf31}ting
-Dialogue: 0,0:00:05.30,0:00:06.85,DEFAULT,,0,0,0,,{\kf10}my{\kf10} ad{\kf16}ven{\kf10}ture{\kf16} feel{\kf10}ing{\kf35} strong
-Dialogue: 0,0:00:06.95,0:00:09.50,DEFAULT,,0,0,0,,{\kf20}Ex{\kf25}plored{\kf10} the{\kf31} o{\kf31}cean{\kf16} then{\kf10} I{\kf10} found{\kf10} a{\kf25} chest
-Dialogue: 0,0:00:10.30,0:00:11.60,DEFAULT,,0,0,0,,{\kf16}Uh{\kf20}oh{\kf20}uh{\kf45}oh
-Dialogue: 0,0:00:11.65,0:00:14.10,DEFAULT,,0,0,0,,{\kf20}Chap{\kf20}ter{\kf31} two{\kf25} found{\kf25} out{\kf10} a{\kf10} dead{\kf10}ly{\kf31} maze
-Dialogue: 0,0:00:14.25,0:00:15.65,DEFAULT,,0,0,0,,{\kf16} I{\kf20} had{\kf16} to{\kf20} ven{\kf16}ture{\kf25} through
-Dialogue: 0,0:00:15.85,0:00:18.35,DEFAULT,,0,0,0,,{\kf25}I{\kf20} al{\kf25}most{\kf31} died,{\kf25} need{\kf16} to{\kf16} take{\kf16} a{\kf20} rest
-Dialogue: 0,0:00:19.95,0:00:22.75,DEFAULT,,0,0,0,,{\kf31}Sto{\kf20}ries{\kf20}~{\kf20} are{\kf25} made{\kf16} to{\kf16} be{\kf16} e{\kf45}ter{\kf25}nal
-Dialogue: 0,0:00:23.05,0:00:24.75,DEFAULT,,0,0,0,,{\kf25} but{\kf16} I{\kf25} could{\kf20} be{\kf35} wrong
-Dialogue: 0,0:00:24.75,0:00:27.45,DEFAULT,,0,0,0,,{\kf20}Oh{\kf16} it's{\kf25} so{\kf16} ea{\kf16}sy{\kf25} to{\kf56} for{\kf20}get{\kf31}~
-Dialogue: 0,0:00:29.20,0:00:33.70,DEFAULT,,0,0,0,,{\kf16}And{\kf10} it{\kf25} ends{\kf25}~{\kf35} once{\kf31} the{\kf31} ad{\kf31}ven{\kf35}ture{\kf31} is{\kf10} o{\kf31}~{\kf35}ver
-Dialogue: 0,0:00:33.70,0:00:36.35,DEFAULT,,0,0,0,,{\kf20}On{\kf20}ly{\kf10} the{\kf31} sto{\kf16}ries{\kf20} to{\kf16} re{\kf45}mem{\kf25}ber{\kf25}~
-Dialogue: 0,0:00:38.35,0:00:40.80,DEFAULT,,0,0,0,,{\kf25}Chap{\kf16}ter{\kf35} three{\kf31} al{\kf20}most{\kf35} dy{\kf35}ing
-Dialogue: 0,0:00:40.80,0:00:42.50,DEFAULT,,0,0,0,,{\kf16}in{\kf10} the{\kf16} bla{\kf20}zing{\kf16} de{\kf16}sert{\kf40} heat
-Dialogue: 0,0:00:42.55,0:00:45.35,DEFAULT,,0,0,0,,{\kf20}But{\kf16} I{\kf20} still{\kf25} got{\kf25} the{\kf25} gol{\kf16}den{\kf16}~{\kf45} thread
-Dialogue: 0,0:00:45.90,0:00:47.00,DEFAULT,,0,0,0,,{\kf16}Uh{\kf20}oh{\kf20}uh{\kf35}oh
-Dialogue: 0,0:00:47.20,0:00:49.75,DEFAULT,,0,0,0,,{\kf20}Chap{\kf20}ter{\kf31} four{\kf20} I{\kf31} just{\kf31} es{\kf40}caped
-Dialogue: 0,0:00:49.85,0:00:51.25,DEFAULT,,0,0,0,,{\kf10}an{\kf16} an{\kf25}cient{\kf16} tomb{\kf16} of{\kf31} doom
-Dialogue: 0,0:00:51.45,0:00:54.10,DEFAULT,,0,0,0,,{\kf20}Yeah{\kf16} I{\kf20} think{\kf35} I{\kf25} de{\kf35}serve{\kf16} a{\kf16}~{\kf35} rest
-Dialogue: 0,0:00:55.50,0:00:58.30,DEFAULT,,0,0,0,,{\kf31}Sto{\kf25}ries{\kf25}~{\kf20} are{\kf20} made{\kf10} to{\kf20} be{\kf10} e{\kf45}ter{\kf20}nal
-Dialogue: 0,0:00:58.65,0:01:00.40,DEFAULT,,0,0,0,,{\kf25}but{\kf16} I{\kf25} could{\kf16} be{\kf40} wrong
-Dialogue: 0,0:01:00.40,0:01:03.25,DEFAULT,,0,0,0,,{\kf16}Oh{\kf16} it's{\kf16} so{\kf25} e{\kf16}asy{\kf25} to{\kf50} for{\kf20}get{\kf45}~
-Dialogue: 0,0:01:04.80,0:01:09.10,DEFAULT,,0,0,0,,{\kf16}And{\kf20} it{\kf10} ends{\kf10}~{\kf20}~{\kf40} once{\kf25} the{\kf31} ad{\kf35}ven{\kf56}ture{\kf35} is{\kf10} o{\kf20}~{\kf25}ver
-Dialogue: 0,0:01:09.20,0:01:12.05,DEFAULT,,0,0,0,,{\kf20}On{\kf20}ly{\kf16} the{\kf25} sto{\kf16}ry{\kf20} to{\kf10} re{\kf31}mem{\kf25}ber{\kf45}~
-Dialogue: 0,0:01:13.35,0:01:18.05,DEFAULT,,0,0,0,,{\kf45}Pa{\kf16} pa{\kf35}ra{\kf25}ra{\kf61}ra{\kf25} pa{\kf25}pa{\kf25}pa{\kf16}pa{\kf31}ra
-Dialogue: 0,0:01:18.65,0:01:22.70,DEFAULT,,0,0,0,,{\kf20}pa{\kf35}ra{\kf35}ra{\kf61}ra{\kf20} Pa{\kf20}pa{\kf25}pa{\kf16}pa{\kf61}ra
-Dialogue: 0,0:01:23.05,0:01:24.90,DEFAULT,,0,0,0,,{\kf20}pa{\kf16} ra{\kf16}~{\kf35}ra{\kf70}ra
-Dialogue: 0,0:01:25.40,0:01:30.10,DEFAULT,,0,0,0,,{\kf10}pa{\kf20} ra{\kf25}pa{\kf20}pa{\kf16}pa{\kf40}ra{\kf31} ra{\kf50}ra{\kf140}ra
-Dialogue: 0,0:01:31.10,0:01:33.90,DEFAULT,,0,0,0,,{\kf35}Sto{\kf16}ries{\kf20}~{\kf20} are{\kf25} made{\kf16} to{\kf16} be{\kf10} e{\kf56}ter{\kf25}nal
-Dialogue: 0,0:01:34.20,0:01:35.85,DEFAULT,,0,0,0,,{\kf20}but{\kf10} I{\kf20} could{\kf20} be{\kf35} wrong
-Dialogue: 0,0:01:35.90,0:01:38.75,DEFAULT,,0,0,0,,{\kf25}Oh{\kf10} it's{\kf25} so{\kf16} e{\kf20}asy{\kf20} to{\kf50} for{\kf20}get{\kf45}~
-Dialogue: 0,0:01:40.35,0:01:44.70,DEFAULT,,0,0,0,,{\kf20}And{\kf20} it{\kf10} ends{\kf10}~{\kf20}~{\kf40} once{\kf25} the{\kf25} ad{\kf35}ven{\kf45}ture{\kf25} is{\kf10} o{\kf25}~{\kf25}ver
-Dialogue: 0,0:01:44.75,0:01:47.25,DEFAULT,,0,0,0,,{\kf20}On{\kf20}ly{\kf10} the{\kf25} sto{\kf10}ry{\kf20} to{\kf16} re{\kf35}mem{\kf20}ber{\kf20}~
-Dialogue: 0,0:01:48.85,0:01:51.60,DEFAULT,,0,0,0,,{\kf31}Sto{\kf20}ries{\kf31}~{\kf16} are{\kf16} made{\kf16} to{\kf16} be{\kf10} e{\kf45}ter{\kf25}nal
-Dialogue: 0,0:01:51.95,0:01:53.60,DEFAULT,,0,0,0,,{\kf31}but{\kf16} I{\kf20} could{\kf16} be{\kf35} wrong
-Dialogue: 0,0:01:53.70,0:01:56.55,DEFAULT,,0,0,0,,{\kf20}Oh{\kf20} it's{\kf25} so{\kf20} e{\kf20}asy{\kf25} to{\kf56} for{\kf20}get{\kf45}~
-Dialogue: 0,0:01:58.10,0:02:02.35,DEFAULT,,0,0,0,,{\kf20}And{\kf16} it{\kf16} ends{\kf10}~{\kf16}~{\kf31} once{\kf31} the{\kf31} ad{\kf35}ven{\kf56}ture{\kf25} is{\kf16} o{\kf16}~{\kf25}ver
-Dialogue: 0,0:02:02.55,0:02:05.15,DEFAULT,,0,0,0,,{\kf20}On{\kf20}ly{\kf10} the{\kf31} sto{\kf10}ry{\kf25} to{\kf16} re{\kf35}mem{\kf16}ber{\kf31}~
-Dialogue: 0,0:02:05.55,0:02:09.25,DEFAULT,,0,0,0,,{\kf20}Pa{\kf25} pa{\kf25}pa{\kf16}pa{\kf31}ra{\kf20} pa{\kf35}ra{\kf31}ra{\kf61}ra
-Dialogue: 0,0:02:10.00,0:02:13.70,DEFAULT,,0,0,0,,{\kf20}pa{\kf25} pa{\kf25}pa{\kf20}pa{\kf40}ra{\kf25} pa{\kf31}ra{\kf25}ra{\kf61}ra
-Dialogue: 0,0:02:14.50,0:02:18.15,DEFAULT,,0,0,0,,{\kf20}Pa{\kf20} pa{\kf25}pa{\kf10}pa{\kf65}ra{\kf20} pa{\kf16}ra{\kf16}~{\kf35}ra{\kf61}ra
-Dialogue: 0,0:02:18.65,0:02:23.00,DEFAULT,,0,0,0,,{\kf16}pa{\kf20} ra{\kf25}pa{\kf20}pa{\kf16}pa{\kf61}ra{\kf20} pa{\kf25}ra{\kf35}ra{\kf105}ra
-Dialogue: 0,0:02:23.35,0:02:27.00,DEFAULT,,0,0,0,,{\kf20}Pa{\kf20} pa{\kf25}pa{\kf10}pa{\kf40}ra{\kf16} pa{\kf45}ra{\kf31}ra{\kf61}ra
-Dialogue: 0,0:02:27.75,0:02:31.45,DEFAULT,,0,0,0,,{\kf25}pa{\kf25} pa{\kf25}pa{\kf16}pa{\kf45}ra{\kf16} pa{\kf31}ra{\kf35}ra{\kf61}ra
-Dialogue: 0,0:02:32.20,0:02:36.10,DEFAULT,,0,0,0,,{\kf31}pa{\kf20} pa{\kf25}pa{\kf16}pa{\kf61}ra{\kf20} pa{\kf16}ra{\kf16}~{\kf35}ra{\kf80}ra
-Dialogue: 0,0:02:36.55,0:02:40.80,DEFAULT,,0,0,0,,{\kf16}pa{\kf25} ra{\kf20}pa{\kf20}pa{\kf16}pa{\kf35}ra{\kf20} pa{\kf31}ra{\kf40}ra{\kf105} ra
+Dialogue: 0,0:00:02.70,0:00:05.20,DEFAULT,,0,0,0,,{\r}{\kf25}Chap{\kf31}ter{\kf44} one{\kf25} I{\kf44} am{\kf44} star{\kf37}ting
+Dialogue: 0,0:00:05.30,0:00:06.85,DEFAULT,,0,0,0,,{\r}{\kf15}my{\kf15} ad{\kf22}ven{\kf15}ture{\kf22} feel{\kf15}ing{\kf51} strong
+Dialogue: 0,0:00:06.95,0:00:09.50,DEFAULT,,0,0,0,,{\r}{\kf28}Ex{\kf34}plored{\kf14} the{\kf41} o{\kf41}cean{\kf21} then{\kf14} I{\kf14} found{\kf14} a{\kf34} chest
+Dialogue: 0,0:00:10.30,0:00:11.60,DEFAULT,,0,0,0,,{\r}{\kf20}Uh{\kf26}oh{\kf26}uh{\kf58}oh
+Dialogue: 0,0:00:11.65,0:00:14.10,DEFAULT,,0,0,0,,{\r}{\kf27}Chap{\kf27}ter{\kf41} two{\kf34} found{\kf34} out{\kf14} a{\kf14} dead{\kf14}ly{\kf40} maze
+Dialogue: 0,0:00:14.25,0:00:15.65,DEFAULT,,0,0,0,,{\r}{\kf19} I{\kf25} had{\kf19} to{\kf25} ven{\kf19}ture{\kf33} through
+Dialogue: 0,0:00:15.85,0:00:18.35,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf26} al{\kf33}most{\kf39} died,{\kf33} need{\kf20} to{\kf20} take{\kf20} a{\kf26} rest
+Dialogue: 0,0:00:19.95,0:00:22.75,DEFAULT,,0,0,0,,{\r}{\kf37}Sto{\kf24}ries{\kf24}~{\kf24} are{\kf30} made{\kf18} to{\kf18} be{\kf18} e{\kf55}ter{\kf32}nal
+Dialogue: 0,0:00:23.05,0:00:24.75,DEFAULT,,0,0,0,,{\r}{\kf35} but{\kf21} I{\kf35} could{\kf28} be{\kf51} wrong
+Dialogue: 0,0:00:24.75,0:00:27.45,DEFAULT,,0,0,0,,{\r}{\kf25}Oh{\kf18} it's{\kf31} so{\kf18} ea{\kf18}sy{\kf31} to{\kf68} for{\kf25}get{\kf36}~
+Dialogue: 0,0:00:29.20,0:00:33.70,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf13} it{\kf33} ends{\kf33}~{\kf46} once{\kf40} the{\kf40} ad{\kf40}ven{\kf46}ture{\kf40} is{\kf13} o{\kf40}~{\kf46}ver
+Dialogue: 0,0:00:33.70,0:00:36.35,DEFAULT,,0,0,0,,{\r}{\kf24}On{\kf24}ly{\kf12} the{\kf35} sto{\kf18}ries{\kf24} to{\kf18} re{\kf53}mem{\kf29}ber{\kf28}~
+Dialogue: 0,0:00:38.35,0:00:40.80,DEFAULT,,0,0,0,,{\r}{\kf31}Chap{\kf19}ter{\kf44} three{\kf38} al{\kf25}most{\kf44} dy{\kf44}ing
+Dialogue: 0,0:00:40.80,0:00:42.50,DEFAULT,,0,0,0,,{\r}{\kf20}in{\kf13} the{\kf20} bla{\kf26}zing{\kf20} de{\kf20}sert{\kf51} heat
+Dialogue: 0,0:00:42.55,0:00:45.35,DEFAULT,,0,0,0,,{\r}{\kf27}But{\kf20} I{\kf27} still{\kf34} got{\kf34} the{\kf34} gol{\kf20}den{\kf20}~{\kf64} thread
+Dialogue: 0,0:00:45.90,0:00:47.00,DEFAULT,,0,0,0,,{\r}{\kf18}Uh{\kf24}oh{\kf24}uh{\kf44}oh
+Dialogue: 0,0:00:47.20,0:00:49.75,DEFAULT,,0,0,0,,{\r}{\kf27}Chap{\kf27}ter{\kf40} four{\kf27} I{\kf40} just{\kf40} es{\kf54}caped
+Dialogue: 0,0:00:49.85,0:00:51.25,DEFAULT,,0,0,0,,{\r}{\kf13}an{\kf19} an{\kf32}cient{\kf19} tomb{\kf19} of{\kf38} doom
+Dialogue: 0,0:00:51.45,0:00:54.10,DEFAULT,,0,0,0,,{\r}{\kf25}Yeah{\kf18} I{\kf25} think{\kf43} I{\kf31} de{\kf43}serve{\kf18} a{\kf18}~{\kf44} rest
+Dialogue: 0,0:00:55.50,0:00:58.30,DEFAULT,,0,0,0,,{\r}{\kf37}Sto{\kf31}ries{\kf31}~{\kf25} are{\kf25} made{\kf12} to{\kf25} be{\kf12} e{\kf56}ter{\kf26}nal
+Dialogue: 0,0:00:58.65,0:01:00.40,DEFAULT,,0,0,0,,{\r}{\kf36}but{\kf22} I{\kf36} could{\kf22} be{\kf59} wrong
+Dialogue: 0,0:01:00.40,0:01:03.25,DEFAULT,,0,0,0,,{\r}{\kf19}Oh{\kf19} it's{\kf19} so{\kf32} e{\kf19}asy{\kf32} to{\kf63} for{\kf25}get{\kf57}~
+Dialogue: 0,0:01:04.80,0:01:09.10,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf25} it{\kf12} ends{\kf12}~{\kf25}~{\kf49} once{\kf31} the{\kf37} ad{\kf43}ven{\kf68}ture{\kf43} is{\kf12} o{\kf25}~{\kf30}ver
+Dialogue: 0,0:01:09.20,0:01:12.05,DEFAULT,,0,0,0,,{\r}{\kf25}On{\kf25}ly{\kf19} the{\kf32} sto{\kf19}ry{\kf25} to{\kf13} re{\kf38}mem{\kf32}ber{\kf57}~
+Dialogue: 0,0:01:13.35,0:01:18.05,DEFAULT,,0,0,0,,{\r}{\kf71}Pa{\kf24} pa{\kf55}ra{\kf39}ra{\kf94}ra{\kf39} pa{\kf39}pa{\kf39}pa{\kf24}pa{\kf46}ra
+Dialogue: 0,0:01:18.65,0:01:22.70,DEFAULT,,0,0,0,,{\r}{\kf28}pa{\kf49}ra{\kf49}ra{\kf84}ra{\kf28} Pa{\kf28}pa{\kf35}pa{\kf21}pa{\kf83}ra
+Dialogue: 0,0:01:23.05,0:01:24.90,DEFAULT,,0,0,0,,{\r}{\kf24}pa{\kf18} ra{\kf18}~{\kf42}ra{\kf83}ra
+Dialogue: 0,0:01:25.40,0:01:30.10,DEFAULT,,0,0,0,,{\r}{\kf13}pa{\kf27} ra{\kf34}pa{\kf27}pa{\kf20}pa{\kf54}ra{\kf40} ra{\kf67}ra{\kf188}ra
+Dialogue: 0,0:01:31.10,0:01:33.90,DEFAULT,,0,0,0,,{\r}{\kf42}Sto{\kf18}ries{\kf24}~{\kf24} are{\kf30} made{\kf18} to{\kf18} be{\kf12} e{\kf66}ter{\kf28}nal
+Dialogue: 0,0:01:34.20,0:01:35.85,DEFAULT,,0,0,0,,{\r}{\kf31}but{\kf16} I{\kf31} could{\kf31} be{\kf56} wrong
+Dialogue: 0,0:01:35.90,0:01:38.75,DEFAULT,,0,0,0,,{\r}{\kf31}Oh{\kf12} it's{\kf31} so{\kf19} e{\kf25}asy{\kf25} to{\kf62} for{\kf25}get{\kf55}~
+Dialogue: 0,0:01:40.35,0:01:44.70,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf26} it{\kf13} ends{\kf13}~{\kf26}~{\kf52} once{\kf32} the{\kf32} ad{\kf45}ven{\kf58}ture{\kf32} is{\kf13} o{\kf32}~{\kf35}ver
+Dialogue: 0,0:01:44.75,0:01:47.25,DEFAULT,,0,0,0,,{\r}{\kf26}On{\kf26}ly{\kf13} the{\kf32} sto{\kf13}ry{\kf26} to{\kf19} re{\kf45}mem{\kf26}ber{\kf24}~
+Dialogue: 0,0:01:48.85,0:01:51.60,DEFAULT,,0,0,0,,{\r}{\kf38}Sto{\kf25}ries{\kf38}~{\kf19} are{\kf19} made{\kf19} to{\kf19} be{\kf12} e{\kf56}ter{\kf30}nal
+Dialogue: 0,0:01:51.95,0:01:53.60,DEFAULT,,0,0,0,,{\r}{\kf43}but{\kf22} I{\kf29} could{\kf22} be{\kf49} wrong
+Dialogue: 0,0:01:53.70,0:01:56.55,DEFAULT,,0,0,0,,{\r}{\kf23}Oh{\kf23} it's{\kf28} so{\kf23} e{\kf23}asy{\kf28} to{\kf63} for{\kf23}get{\kf51}~
+Dialogue: 0,0:01:58.10,0:02:02.35,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf19} it{\kf19} ends{\kf13}~{\kf19}~{\kf38} once{\kf38} the{\kf38} ad{\kf44}ven{\kf70}ture{\kf32} is{\kf19} o{\kf19}~{\kf32}ver
+Dialogue: 0,0:02:02.55,0:02:05.15,DEFAULT,,0,0,0,,{\r}{\kf25}On{\kf25}ly{\kf12} the{\kf37} sto{\kf12}ry{\kf31} to{\kf19} re{\kf43}mem{\kf19}ber{\kf37}~
+Dialogue: 0,0:02:05.55,0:02:09.25,DEFAULT,,0,0,0,,{\r}{\kf28}Pa{\kf36} pa{\kf36}pa{\kf21}pa{\kf43}ra{\kf28} pa{\kf50}ra{\kf43}ra{\kf85}ra
+Dialogue: 0,0:02:10.00,0:02:13.70,DEFAULT,,0,0,0,,{\r}{\kf27}pa{\kf34} pa{\kf34}pa{\kf27}pa{\kf55}ra{\kf34} pa{\kf41}ra{\kf34}ra{\kf84}ra
+Dialogue: 0,0:02:14.50,0:02:18.15,DEFAULT,,0,0,0,,{\r}{\kf26}Pa{\kf26} pa{\kf32}pa{\kf13}pa{\kf83}ra{\kf26} pa{\kf19}ra{\kf19}~{\kf45}ra{\kf76}ra
+Dialogue: 0,0:02:18.65,0:02:23.00,DEFAULT,,0,0,0,,{\r}{\kf19}pa{\kf26} ra{\kf32}pa{\kf26}pa{\kf19}pa{\kf77}ra{\kf26} pa{\kf32}ra{\kf45}ra{\kf133}ra
+Dialogue: 0,0:02:23.35,0:02:27.00,DEFAULT,,0,0,0,,{\r}{\kf28}Pa{\kf28} pa{\kf34}pa{\kf14}pa{\kf55}ra{\kf21} pa{\kf62}ra{\kf41}ra{\kf82}ra
+Dialogue: 0,0:02:27.75,0:02:31.45,DEFAULT,,0,0,0,,{\r}{\kf34}pa{\kf34} pa{\kf34}pa{\kf20}pa{\kf61}ra{\kf20} pa{\kf40}ra{\kf47}ra{\kf80}ra
+Dialogue: 0,0:02:32.20,0:02:36.10,DEFAULT,,0,0,0,,{\r}{\kf37}pa{\kf25} pa{\kf31}pa{\kf19}pa{\kf74}ra{\kf25} pa{\kf19}ra{\kf19}~{\kf43}ra{\kf98}ra
+Dialogue: 0,0:02:36.55,0:02:40.80,DEFAULT,,0,0,0,,{\r}{\kf20}pa{\kf33} ra{\kf26}pa{\kf26}pa{\kf20}pa{\kf46}ra{\kf26} pa{\kf39}ra{\kf52}ra{\kf137} ra

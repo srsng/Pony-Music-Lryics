@@ -1,41 +1,48 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: I Love Everything
+Artist: Jackle App
+Original Timing: mylittlekaraoke.com by sleumas2000
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.40,0:00:10.92,DEFAULT,,0,0,0,,{\kf18}What{\kf18} is{\kf18} this{\kf48} place{\kf18} Filled{\kf18} with{\kf18} so{\kf24} ma{\kf18}ny{\kf71} won{\kf24}ders,
-Dialogue: 0,0:00:11.16,0:00:12.81,DEFAULT,,0,0,0,,{\kf24}Cast{\kf18}ing{\kf18} its{\kf95} spell
-Dialogue: 0,0:00:14.45,0:00:18.80,DEFAULT,,0,0,0,,{\kf24}Tha{\kf18}~t{\kf18} I{\kf18} am{\kf42} now{\kf48} un{\kf247}der?
-Dialogue: 0,0:00:22.45,0:00:25.51,DEFAULT,,0,0,0,,{\kf30}Squirrels{\kf30} in{\kf18} the{\kf36} trees,{\kf18} and{\kf18} the{\kf18} cute{\kf24} lit{\kf71}tle
-Dialogue: 0,0:00:25.74,0:00:27.39,DEFAULT,,0,0,0,,{\kf48}Bun{\kf118}nies
-Dialogue: 0,0:00:29.98,0:00:32.68,DEFAULT,,0,0,0,,{\kf18}Birds{\kf24} walk{\kf18}ing{\kf59} free{\kf24} a{\kf18}~nd{\kf83} bees
-Dialogue: 0,0:00:36.56,0:00:41.27,DEFAULT,,0,0,0,,{\kf24}Bees{\kf24} with{\kf30} their{\kf195} ho{\kf183}ney
-Dialogue: 0,0:01:16.08,0:01:18.73,DEFAULT,,0,0,0,,{\kf24}Ee-{\kf24}oh-{\kf48}ee{\kf36} bun-{\kf24}ah-{\kf30}ee-{\kf30}ee
-Dialogue: 0,0:01:19.61,0:01:22.43,DEFAULT,,0,0,0,,{\kf36}Bun-{\kf36}bun{\kf24} ee-{\kf24}ah{\kf36} bun-{\kf12}ah-{\kf24}bun{\kf24}ny
-Dialogue: 0,0:01:23.61,0:01:26.19,DEFAULT,,0,0,0,,{\kf24}Ee-{\kf24}oh-{\kf24}ee{\kf24} bun-{\kf24}ah-{\kf30}ee-{\kf24}ee
-Dialogue: 0,0:01:27.13,0:01:29.96,DEFAULT,,0,0,0,,{\kf36}Bun-{\kf36}bun{\kf24} ee-{\kf24}ah{\kf36} bun-{\kf12}ah-{\kf24}bun{\kf24}ny
-Dialogue: 0,0:01:31.13,0:01:33.66,DEFAULT,,0,0,0,,{\kf24}Ee-{\kf24}oh-{\kf18}ee{\kf24} ee-{\kf24}ee-{\kf24}bun-{\kf24}ee-{\kf12}luh-{\kf18}ee
-Dialogue: 0,0:01:33.72,0:01:36.48,DEFAULT,,0,0,0,,{\kf24}Ee-{\kf24}luh{\kf24} bun-{\kf12}luh-{\kf24}ah-{\kf12}luh-{\kf24}ee-{\kf24}ee-{\kf24}ah-{\kf24}luh-{\kf18}ee
-Dialogue: 0,0:01:36.54,0:01:37.48,DEFAULT,,0,0,0,,{\kf36}Buh-{\kf12}ah-{\kf24}bun{\kf24}ny
-Dialogue: 0,0:01:44.95,0:01:48.01,DEFAULT,,0,0,0,,{\kf95}Oh,{\kf18} what{\kf42} a{\kf24} mag{\kf24}ic{\kf42}al{\kf24} Place
-Dialogue: 0,0:01:48.25,0:01:51.54,DEFAULT,,0,0,0,,{\kf18}And{\kf18} I{\kf18} owe{\kf42} it{\kf65} all{\kf18} to{\kf18} the{\kf24} Peg{\kf24}a{\kf18}sus{\kf24} race
-Dialogue: 0,0:01:51.95,0:01:53.83,DEFAULT,,0,0,0,,{\kf18}If{\kf18} I{\kf42} knew{\kf42} the{\kf48} ground
-Dialogue: 0,0:01:53.89,0:01:55.60,DEFAULT,,0,0,0,,{\kf18}Had{\kf18} so{\kf24} much{\kf12} up{\kf42} it's{\kf24} sleeve,
-Dialogue: 0,0:01:55.77,0:02:00.48,DEFAULT,,0,0,0,,{\kf18}I'd{\kf18} have{\kf42} come{\kf36} here{\kf24} soon{\kf24}er,{\kf42}And{\kf95} nev{\kf89}er{\kf48} leaved
-Dialogue: 0,0:02:07.06,0:02:08.89,DEFAULT,,0,0,0,,{\kf18}If{\kf18} I{\kf42} knew{\kf42} the{\kf42} ground
-Dialogue: 0,0:02:08.95,0:02:10.71,DEFAULT,,0,0,0,,{\kf24}Had{\kf12} so{\kf24} much{\kf12} up{\kf42} it's{\kf36} sleeve,
-Dialogue: 0,0:02:10.83,0:02:15.94,DEFAULT,,0,0,0,,{\kf18}I'd{\kf18} have{\kf42} come{\kf42} here{\kf24} soon{\kf24}er,{\kf36}And{\kf95} nev{\kf89}er{\kf95} leaved
-Dialogue: 0,0:02:33.76,0:02:43.17,DEFAULT,,0,0,0,,{\kf48}I{\kf48} love{\kf48} eve{\kf48}ry{\kf565}thing!
-Dialogue: 0,0:02:45.05,0:02:50.70,DEFAULT,,0,0,0,,{\kf565}Thing!
-Dialogue: 0,0:02:53.70,0:02:56.52,DEFAULT,,0,0,0,,{\kf24}Ee-{\kf24}oh-{\kf48}ee{\kf48} bun-{\kf36}ah-{\kf30}ee-{\kf48}ee
-Dialogue: 0,0:02:57.17,0:02:59.99,DEFAULT,,0,0,0,,{\kf36}Bun-{\kf24}bun{\kf24} ee-{\kf36}ah{\kf36} bun-{\kf12}ah-{\kf24}bun{\kf24}ny
-Dialogue: 0,0:03:01.16,0:03:03.69,DEFAULT,,0,0,0,,{\kf24}Ee-{\kf24}oh-{\kf18}ee{\kf42} ee-{\kf48}ee-{\kf36}bun-{\kf24}ee-{\kf12}luh-{\kf18}ee
-Dialogue: 0,0:03:03.75,0:03:06.52,DEFAULT,,0,0,0,,{\kf24}Ee-{\kf24}luh{\kf24} bun-{\kf12}luh-{\kf24}ah-{\kf12}luh-{\kf24}ee-{\kf24}ee-{\kf24}ah-{\kf24}luh-{\kf18}ee
-Dialogue: 0,0:03:06.57,0:03:07.46,DEFAULT,,0,0,0,,{\kf36}Bun-{\kf12}ah-{\kf24}bun{\kf18}ny-
-Dialogue: 0,0:03:07.51,0:03:07.75,DEFAULT,,0,0,0,,{\kf24}Buh
+Dialogue: 0,0:00:07.40,0:00:10.93,DEFAULT,,0,0,0,,{\r}{\kf22}What{\kf22} is{\kf22} this{\kf58} place{\kf22} Filled{\kf22} with{\kf22} so{\kf29} ma{\kf22}ny{\kf86} won{\kf26}ders,
+Dialogue: 0,0:00:11.16,0:00:12.81,DEFAULT,,0,0,0,,{\r}{\kf25}Cast{\kf19}ing{\kf19} its{\kf102} spell
+Dialogue: 0,0:00:14.46,0:00:18.81,DEFAULT,,0,0,0,,{\r}{\kf25}Tha{\kf19}~t{\kf19} I{\kf19} am{\kf44} now{\kf50} un{\kf259}der?
+Dialogue: 0,0:00:22.45,0:00:25.51,DEFAULT,,0,0,0,,{\r}{\kf35}Squirrels{\kf35} in{\kf21} the{\kf42} trees,{\kf21} and{\kf21} the{\kf21} cute{\kf28} lit{\kf82}tle
+Dialogue: 0,0:00:25.75,0:00:27.39,DEFAULT,,0,0,0,,{\r}{\kf47}Bun{\kf118}nies
+Dialogue: 0,0:00:29.98,0:00:32.69,DEFAULT,,0,0,0,,{\r}{\kf20}Birds{\kf26} walk{\kf20}ing{\kf66} free{\kf26} a{\kf20}~nd{\kf93} bees
+Dialogue: 0,0:00:36.57,0:00:41.27,DEFAULT,,0,0,0,,{\r}{\kf24}Bees{\kf24} with{\kf31} their{\kf201} ho{\kf190}ney
+Dialogue: 0,0:01:16.08,0:01:18.73,DEFAULT,,0,0,0,,{\r}{\kf29}Ee-{\kf29}oh-{\kf59}ee{\kf44} bun-{\kf29}ah-{\kf37}ee-{\kf38}ee
+Dialogue: 0,0:01:19.61,0:01:22.44,DEFAULT,,0,0,0,,{\r}{\kf47}Bun-{\kf47}bun{\kf31} ee-{\kf31}ah{\kf47} bun-{\kf16}ah-{\kf31}bun{\kf32}ny
+Dialogue: 0,0:01:23.61,0:01:26.20,DEFAULT,,0,0,0,,{\r}{\kf36}Ee-{\kf36}oh-{\kf36}ee{\kf36} bun-{\kf36}ah-{\kf45}ee-{\kf34}ee
+Dialogue: 0,0:01:27.14,0:01:29.96,DEFAULT,,0,0,0,,{\r}{\kf47}Bun-{\kf47}bun{\kf31} ee-{\kf31}ah{\kf47} bun-{\kf16}ah-{\kf31}bun{\kf32}ny
+Dialogue: 0,0:01:31.14,0:01:33.67,DEFAULT,,0,0,0,,{\r}{\kf32}Ee-{\kf32}oh-{\kf24}ee{\kf32} ee-{\kf32}ee-{\kf32}bun-{\kf32}ee-{\kf16}luh-{\kf21}ee
+Dialogue: 0,0:01:33.73,0:01:36.49,DEFAULT,,0,0,0,,{\r}{\kf28}Ee-{\kf28}luh{\kf28} bun-{\kf14}luh-{\kf28}ah-{\kf14}luh-{\kf28}ee-{\kf28}ee-{\kf28}ah-{\kf28}luh-{\kf24}ee
+Dialogue: 0,0:01:36.55,0:01:37.49,DEFAULT,,0,0,0,,{\r}{\kf35}Buh-{\kf12}ah-{\kf24}bun{\kf23}ny
+Dialogue: 0,0:01:44.96,0:01:48.02,DEFAULT,,0,0,0,,{\r}{\kf109}Oh,{\kf20} what{\kf48} a{\kf27} mag{\kf27}ic{\kf48}al{\kf27} Place
+Dialogue: 0,0:01:48.25,0:01:51.54,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} I{\kf21} owe{\kf48} it{\kf75} all{\kf21} to{\kf21} the{\kf27} Peg{\kf27}a{\kf21}sus{\kf26} race
+Dialogue: 0,0:01:51.96,0:01:53.84,DEFAULT,,0,0,0,,{\r}{\kf20}If{\kf20} I{\kf47} knew{\kf47} the{\kf54} ground
+Dialogue: 0,0:01:53.90,0:01:55.60,DEFAULT,,0,0,0,,{\r}{\kf22}Had{\kf22} so{\kf30} much{\kf15} up{\kf52} it's{\kf30} sleeve,
+Dialogue: 0,0:01:55.78,0:02:00.48,DEFAULT,,0,0,0,,{\r}{\kf19}I'd{\kf19} have{\kf45} come{\kf39} here{\kf26} soon{\kf26}er,{\kf45}And{\kf103} nev{\kf97}er{\kf51} leaved
+Dialogue: 0,0:02:07.07,0:02:08.89,DEFAULT,,0,0,0,,{\r}{\kf20}If{\kf20} I{\kf47} knew{\kf47} the{\kf48} ground
+Dialogue: 0,0:02:08.95,0:02:10.71,DEFAULT,,0,0,0,,{\r}{\kf28}Had{\kf14} so{\kf28} much{\kf14} up{\kf49} it's{\kf43} sleeve,
+Dialogue: 0,0:02:10.83,0:02:15.95,DEFAULT,,0,0,0,,{\r}{\kf19}I'd{\kf19} have{\kf44} come{\kf44} here{\kf25} soon{\kf25}er,{\kf38}And{\kf101} nev{\kf95}er{\kf102} leaved
+Dialogue: 0,0:02:33.77,0:02:43.17,DEFAULT,,0,0,0,,{\r}{\kf59}I{\kf59} love{\kf59} eve{\kf59}ry{\kf705}thing!
+Dialogue: 0,0:02:45.06,0:02:50.70,DEFAULT,,0,0,0,,{\r}{\kf565}Thing!
+Dialogue: 0,0:02:53.70,0:02:56.52,DEFAULT,,0,0,0,,{\r}{\kf26}Ee-{\kf26}oh-{\kf52}ee{\kf52} bun-{\kf39}ah-{\kf33}ee-{\kf54}ee
+Dialogue: 0,0:02:57.17,0:02:59.99,DEFAULT,,0,0,0,,{\r}{\kf47}Bun-{\kf31}bun{\kf31} ee-{\kf47}ah{\kf47} bun-{\kf16}ah-{\kf31}bun{\kf32}ny
+Dialogue: 0,0:03:01.17,0:03:03.70,DEFAULT,,0,0,0,,{\r}{\kf25}Ee-{\kf25}oh-{\kf19}ee{\kf43} ee-{\kf49}ee-{\kf37}bun-{\kf25}ee-{\kf12}luh-{\kf18}ee
+Dialogue: 0,0:03:03.76,0:03:06.52,DEFAULT,,0,0,0,,{\r}{\kf28}Ee-{\kf28}luh{\kf28} bun-{\kf14}luh-{\kf28}ah-{\kf14}luh-{\kf28}ee-{\kf28}ee-{\kf28}ah-{\kf28}luh-{\kf24}ee
+Dialogue: 0,0:03:06.58,0:03:07.46,DEFAULT,,0,0,0,,{\r}{\kf35}Bun-{\kf12}ah-{\kf23}bun{\kf18}ny-
+Dialogue: 0,0:03:07.52,0:03:07.76,DEFAULT,,0,0,0,,{\r}{\kf24}Buh

@@ -1,55 +1,62 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: This Day Aria - Literal Version
+Artist: MissBunnySwan
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.53,0:00:12.78,DEFAULT,,0,0,0,,{\kf43}I{\kf25} im{\kf25}pale{\kf40} my{\kf29} head{\kf22} with{\kf36} a{\kf61} rose,
-Dialogue: 0,0:00:12.96,0:00:14.53,DEFAULT,,0,0,0,,{\kf15}The{\kf29} blood{\kf25} should{\kf47} go{\kf22} well
-Dialogue: 0,0:00:14.57,0:00:16.75,DEFAULT,,0,0,0,,{\kf22} With{\kf33} my{\kf22}-y{\kf22} hoof{\kf15}i{\kf86}cure
-Dialogue: 0,0:00:17.28,0:00:19.53,DEFAULT,,0,0,0,,{\kf18}I'm{\kf15} real{\kf22}ly{\kf40} sad{\kf15} I{\kf18} don't{\kf29} have{\kf36} friends
-Dialogue: 0,0:00:19.57,0:00:21.75,DEFAULT,,0,0,0,,{\kf22}I'll{\kf18} fill{\kf18} the{\kf40} void{\kf15} with{\kf18} man{\kf25}ne{\kf33}quins
-Dialogue: 0,0:00:22.03,0:00:23.89,DEFAULT,,0,0,0,,{\kf22}Ho{\kf15}ly{\kf33} crap,{\kf18} I{\kf18} did{\kf22}n't{\kf29} know
-Dialogue: 0,0:00:23.92,0:00:26.32,DEFAULT,,0,0,0,,{\kf22}My{\kf29} eyes{\kf22} could{\kf158} glow
-Dialogue: 0,0:00:26.75,0:00:30.32,DEFAULT,,0,0,0,,{\kf15}A{\kf50} ru{\kf25}pee{\kf22} from{\kf40} Le{\kf33}gend{\kf22} of{\kf29} Ze{\kf25}-el{\kf50}da
-Dialogue: 0,0:00:30.71,0:00:31.96,DEFAULT,,0,0,0,,{\kf29}Now{\kf22} I{\kf18} will{\kf29} sit{\kf11} and
-Dialogue: 0,0:00:31.96,0:00:34.67,DEFAULT,,0,0,0,,{\kf25}Talk{\kf15} to{\kf36} my{\kf22} ref{\kf22}le{\kf15}-ec{\kf115}tions
-Dialogue: 0,0:00:35.28,0:00:37.25,DEFAULT,,0,0,0,,{\kf18}Can't{\kf15} you{\kf25} see{\kf18} that{\kf22} I'm{\kf29} dep{\kf40}ressed
-Dialogue: 0,0:00:37.32,0:00:39.42,DEFAULT,,0,0,0,,{\kf29}Please{\kf33} Twi{\kf36}light,{\kf15} give{\kf18} it{\kf25} a{\kf33} rest
-Dialogue: 0,0:00:39.67,0:00:41.25,DEFAULT,,0,0,0,,{\kf22}Ca{\kf22}mera{\kf29} cuts{\kf15} while{\kf18} I{\kf29} strike
-Dialogue: 0,0:00:41.25,0:00:43.53,DEFAULT,,0,0,0,,{\kf25}A{\kf18} dra{\kf22}ma{\kf29}tic{\kf118} pose
-Dialogue: 0,0:00:43.92,0:00:46.00,DEFAULT,,0,0,0,,{\kf22}My{\kf29} rose{\kf15} was{\kf33} red,{\kf18} how'd{\kf15} it{\kf22} turn{\kf36} pink?
-Dialogue: 0,0:00:46.07,0:00:48.21,DEFAULT,,0,0,0,,{\kf25}Now{\kf22} I'm{\kf29} mad,{\kf15} so{\kf18} kick{\kf22} the{\kf25} ap{\kf36}ples
-Dialogue: 0,0:00:48.53,0:00:51.82,DEFAULT,,0,0,0,,{\kf58}Then,{\kf15} I{\kf18} te{\kf15}le{\kf22}port{\kf29} to{\kf22} the{\kf25} ri{\kf100}-ight
-Dialogue: 0,0:00:52.14,0:00:53.60,DEFAULT,,0,0,0,,{\kf25}Car{\kf29}ress{\kf15} the{\kf22} man{\kf18}ne{\kf18}quin
-Dialogue: 0,0:00:53.82,0:00:55.92,DEFAULT,,0,0,0,,{\kf22}Sing{\kf25} some{\kf29} more,{\kf18} I{\kf25} hate{\kf22} this{\kf54} hat
-Dialogue: 0,0:00:56.10,0:00:57.35,DEFAULT,,0,0,0,,{\kf22}So{\kf50} I{\kf22} wi{\kf22}-ill
-Dialogue: 0,0:00:57.35,0:00:59.85,DEFAULT,,0,0,0,,{\kf25}La{\kf18}ser{\kf22}beam{\kf18} it{\kf150} dead
-Dialogue: 0,0:01:00.35,0:01:03.39,DEFAULT,,0,0,0,,{\kf40}Sud{\kf36}den{\kf40}ly{\kf33} an{\kf33} o{\kf25}pe{\kf43}ra
-Dialogue: 0,0:01:03.46,0:01:07.14,DEFAULT,,0,0,0,,{\kf33}This{\kf86} song{\kf33} gives{\kf36} me{\kf25} ve{\kf25}-er{\kf25}ti{\kf72}go
-Dialogue: 0,0:01:07.42,0:01:09.92,DEFAULT,,0,0,0,,{\kf29}A{\kf25}ni{\kf33}ma{\kf40}tion{\kf40} er{\kf36}ror
-Dialogue: 0,0:01:10.07,0:01:13.96,DEFAULT,,0,0,0,,{\kf22}With{\kf36} my{\kf315} eyes
-Dialogue: 0,0:01:14.35,0:01:15.82,DEFAULT,,0,0,0,,{\kf15}Ig{\kf25}nore{\kf15} all{\kf22} the{\kf29} tun{\kf18}nels
-Dialogue: 0,0:01:15.82,0:01:17.96,DEFAULT,,0,0,0,,{\kf18}We{\kf22} will{\kf36} find{\kf18} some{\kf18} o{\kf18}ther{\kf68} way
-Dialogue: 0,0:01:18.25,0:01:21.21,DEFAULT,,0,0,0,,{\kf47}Stop,{\kf11} ne{\kf11}ver{\kf29}mind,{\kf22} just{\kf22} keep{\kf22} on{\kf29} run{\kf68}ning
-Dialogue: 0,0:01:21.64,0:01:23.75,DEFAULT,,0,0,0,,{\kf22}I{\kf22} will{\kf33} use{\kf15} my{\kf18} po{\kf22}ny{\kf29} po{\kf33}wers
-Dialogue: 0,0:01:23.78,0:01:25.46,DEFAULT,,0,0,0,,{\kf22}To{\kf22} di{\kf15}a{\kf29}late{\kf18} my{\kf54} eyes
-Dialogue: 0,0:01:25.57,0:01:27.25,DEFAULT,,0,0,0,,{\kf22}This{\kf40} place{\kf25} looks{\kf11} a{\kf25} lot{\kf22} like
-Dialogue: 0,0:01:27.25,0:01:29.07,DEFAULT,,0,0,0,,{\kf22}Grin{\kf25}gotts{\kf129} bank
-Dialogue: 0,0:01:29.42,0:01:32.57,DEFAULT,,0,0,0,,{\kf40}I'm{\kf36} too{\kf43} weak{\kf25} to{\kf18}-o{\kf36} push{\kf36} the{\kf47} cart
-Dialogue: 0,0:01:32.67,0:01:36.32,DEFAULT,,0,0,0,,{\kf33}Why{\kf83} won't{\kf33} Twi{\kf22}-i{\kf36}light{\kf36} help{\kf25} me{\kf18}-e{\kf58} now?
-Dialogue: 0,0:01:36.82,0:01:39.57,DEFAULT,,0,0,0,,{\kf65}We're{\kf47} go{\kf29}ing{\kf40} to{\kf58} die
-Dialogue: 0,0:01:39.89,0:01:45.21,DEFAULT,,0,0,0,,{\kf33}I{\kf43} should{\kf33} have{\kf43} thought{\kf33} this{\kf325} through
-Dialogue: 0,0:01:52.82,0:01:54.14,DEFAULT,,0,0,0,,{\kf25}Fi{\kf22}nal{\kf18}ly{\kf15} the{\kf22} mo{\kf15}ment
-Dialogue: 0,0:01:54.21,0:01:56.03,DEFAULT,,0,0,0,,{\kf29}Has {\kf15} ar{\kf36}ri{\kf86}ved
-Dialogue: 0,0:01:56.14,0:01:57.21,DEFAULT,,0,0,0,,{\kf22}To{\kf22}-o{\kf50} show
-Dialogue: 0,0:01:57.32,0:01:59.75,DEFAULT,,0,0,0,,{\kf18}Two{\kf36} clips{\kf11} at{\kf15} the{\kf25} same{\kf111} time
-Dialogue: 0,0:02:00.53,0:02:01.75,DEFAULT,,0,0,0,,{\kf25}I{\kf18} can{\kf18} leap{\kf18} real{\kf22} far
-Dialogue: 0,0:02:01.75,0:02:03.71,DEFAULT,,0,0,0,,{\kf15}That{\kf22} wall{\kf15} is{\kf22} su{\kf11}per{\kf29} spar{\kf22}k{\kf25}ly
-Dialogue: 0,0:02:03.78,0:02:06.35,DEFAULT,,0,0,0,,{\kf29}Sing{\kf15} a{\kf36} hi{\kf18}-igh{\kf36} note{\kf18} a{\kf18}-and{\kf58} then...
-Dialogue: 0,0:02:06.67,0:02:11.03,DEFAULT,,0,0,0,,{\kf58}Black,{\kf25} it's{\kf58} all{\kf75} black!{\kf93} Ga-ha-ha-ha{\kf72}*snort*
+Dialogue: 0,0:00:09.54,0:00:12.79,DEFAULT,,0,0,0,,{\r}{\kf50}I{\kf29} im{\kf29}pale{\kf46} my{\kf33} head{\kf25} with{\kf42} a{\kf71} rose,
+Dialogue: 0,0:00:12.96,0:00:14.54,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf33} blood{\kf29} should{\kf54} go{\kf24} well
+Dialogue: 0,0:00:14.57,0:00:16.75,DEFAULT,,0,0,0,,{\r}{\kf24} With{\kf36} my{\kf24}-y{\kf24} hoof{\kf16}i{\kf94}cure
+Dialogue: 0,0:00:17.29,0:00:19.54,DEFAULT,,0,0,0,,{\r}{\kf21}I'm{\kf17} real{\kf25}ly{\kf47} sad{\kf17} I{\kf21} don't{\kf34} have{\kf43} friends
+Dialogue: 0,0:00:19.57,0:00:21.75,DEFAULT,,0,0,0,,{\r}{\kf25}I'll{\kf21} fill{\kf21} the{\kf46} void{\kf17} with{\kf21} man{\kf29}ne{\kf38}quins
+Dialogue: 0,0:00:22.04,0:00:23.89,DEFAULT,,0,0,0,,{\r}{\kf26}Ho{\kf17}ly{\kf39} crap,{\kf22} I{\kf22} did{\kf26}n't{\kf34} know
+Dialogue: 0,0:00:23.93,0:00:26.32,DEFAULT,,0,0,0,,{\r}{\kf22}My{\kf30} eyes{\kf22} could{\kf165} glow
+Dialogue: 0,0:00:26.75,0:00:30.32,DEFAULT,,0,0,0,,{\r}{\kf17}A{\kf58} ru{\kf29}pee{\kf25} from{\kf46} Le{\kf37}gend{\kf25} of{\kf33} Ze{\kf29}-el{\kf58}da
+Dialogue: 0,0:00:30.71,0:00:31.96,DEFAULT,,0,0,0,,{\r}{\kf33}Now{\kf25} I{\kf21} will{\kf33} sit{\kf13} and
+Dialogue: 0,0:00:31.96,0:00:34.68,DEFAULT,,0,0,0,,{\r}{\kf27}Talk{\kf16} to{\kf39} my{\kf24} ref{\kf24}le{\kf16}-ec{\kf125}tions
+Dialogue: 0,0:00:35.29,0:00:37.25,DEFAULT,,0,0,0,,{\r}{\kf21}Can't{\kf17} you{\kf30} see{\kf21} that{\kf26} I'm{\kf34} dep{\kf47}ressed
+Dialogue: 0,0:00:37.32,0:00:39.43,DEFAULT,,0,0,0,,{\r}{\kf32}Please{\kf37} Twi{\kf41}light,{\kf16} give{\kf20} it{\kf28} a{\kf37} rest
+Dialogue: 0,0:00:39.68,0:00:41.25,DEFAULT,,0,0,0,,{\r}{\kf25}Ca{\kf25}mera{\kf34} cuts{\kf17} while{\kf21} I{\kf35} strike
+Dialogue: 0,0:00:41.25,0:00:43.54,DEFAULT,,0,0,0,,{\r}{\kf27}A{\kf19} dra{\kf23}ma{\kf31}tic{\kf129} pose
+Dialogue: 0,0:00:43.93,0:00:46.00,DEFAULT,,0,0,0,,{\r}{\kf24}My{\kf32} rose{\kf16} was{\kf36} red,{\kf20} how'd{\kf16} it{\kf24} turn{\kf39} pink?
+Dialogue: 0,0:00:46.07,0:00:48.21,DEFAULT,,0,0,0,,{\r}{\kf28}Now{\kf24} I'm{\kf32} mad,{\kf16} so{\kf20} kick{\kf24} the{\kf28} ap{\kf42}ples
+Dialogue: 0,0:00:48.54,0:00:51.82,DEFAULT,,0,0,0,,{\r}{\kf63}Then,{\kf16} I{\kf20} te{\kf16}le{\kf24}port{\kf31} to{\kf24} the{\kf27} ri{\kf108}-ight
+Dialogue: 0,0:00:52.14,0:00:53.61,DEFAULT,,0,0,0,,{\r}{\kf29}Car{\kf33}ress{\kf17} the{\kf25} man{\kf21}ne{\kf21}quin
+Dialogue: 0,0:00:53.82,0:00:55.93,DEFAULT,,0,0,0,,{\r}{\kf23}Sing{\kf27} some{\kf31} more,{\kf20} I{\kf27} hate{\kf23} this{\kf60} hat
+Dialogue: 0,0:00:56.11,0:00:57.36,DEFAULT,,0,0,0,,{\r}{\kf23}So{\kf55} I{\kf23} wi{\kf24}-ill
+Dialogue: 0,0:00:57.36,0:00:59.86,DEFAULT,,0,0,0,,{\r}{\kf27}La{\kf19}ser{\kf23}beam{\kf19} it{\kf162} dead
+Dialogue: 0,0:01:00.36,0:01:03.39,DEFAULT,,0,0,0,,{\r}{\kf48}Sud{\kf44}den{\kf48}ly{\kf40} an{\kf40} o{\kf31}pe{\kf53}ra
+Dialogue: 0,0:01:03.46,0:01:07.14,DEFAULT,,0,0,0,,{\r}{\kf36}This{\kf95} song{\kf36} gives{\kf40} me{\kf28} ve{\kf28}-er{\kf28}ti{\kf77}go
+Dialogue: 0,0:01:07.43,0:01:09.93,DEFAULT,,0,0,0,,{\r}{\kf36}A{\kf31}ni{\kf40}ma{\kf49}tion{\kf49} er{\kf45}ror
+Dialogue: 0,0:01:10.07,0:01:13.96,DEFAULT,,0,0,0,,{\r}{\kf22}With{\kf37} my{\kf330} eyes
+Dialogue: 0,0:01:14.36,0:01:15.82,DEFAULT,,0,0,0,,{\r}{\kf17}Ig{\kf30}nore{\kf17} all{\kf26} the{\kf34} tun{\kf22}nels
+Dialogue: 0,0:01:15.82,0:01:17.96,DEFAULT,,0,0,0,,{\r}{\kf19}We{\kf23} will{\kf39} find{\kf19} some{\kf19} o{\kf19}ther{\kf76} way
+Dialogue: 0,0:01:18.25,0:01:21.21,DEFAULT,,0,0,0,,{\r}{\kf53}Stop,{\kf12} ne{\kf12}ver{\kf33}mind,{\kf25} just{\kf25} keep{\kf25} on{\kf33} run{\kf78}ning
+Dialogue: 0,0:01:21.64,0:01:23.75,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} will{\kf36} use{\kf16} my{\kf20} po{\kf24}ny{\kf32} po{\kf35}wers
+Dialogue: 0,0:01:23.79,0:01:25.46,DEFAULT,,0,0,0,,{\r}{\kf23}To{\kf23} di{\kf15}a{\kf31}late{\kf19} my{\kf57} eyes
+Dialogue: 0,0:01:25.57,0:01:27.25,DEFAULT,,0,0,0,,{\r}{\kf25}This{\kf46} place{\kf29} looks{\kf13} a{\kf29} lot{\kf26} like
+Dialogue: 0,0:01:27.25,0:01:29.07,DEFAULT,,0,0,0,,{\r}{\kf22}Grin{\kf26}gotts{\kf134} bank
+Dialogue: 0,0:01:29.43,0:01:32.57,DEFAULT,,0,0,0,,{\r}{\kf44}I'm{\kf40} too{\kf48} weak{\kf28} to{\kf20}-o{\kf40} push{\kf40} the{\kf54} cart
+Dialogue: 0,0:01:32.68,0:01:36.32,DEFAULT,,0,0,0,,{\r}{\kf34}Why{\kf88} won't{\kf34} Twi{\kf23}-i{\kf38}light{\kf38} help{\kf27} me{\kf19}-e{\kf63} now?
+Dialogue: 0,0:01:36.82,0:01:39.57,DEFAULT,,0,0,0,,{\r}{\kf75}We're{\kf54} go{\kf33}ing{\kf46} to{\kf67} die
+Dialogue: 0,0:01:39.89,0:01:45.21,DEFAULT,,0,0,0,,{\r}{\kf34}I{\kf45} should{\kf34} have{\kf45} thought{\kf34} this{\kf340} through
+Dialogue: 0,0:01:52.82,0:01:54.14,DEFAULT,,0,0,0,,{\r}{\kf29}Fi{\kf25}nal{\kf21}ly{\kf16} the{\kf25} mo{\kf16}ment
+Dialogue: 0,0:01:54.21,0:01:56.04,DEFAULT,,0,0,0,,{\r}{\kf32}Has{\kf16} ar{\kf40}ri{\kf94}ved
+Dialogue: 0,0:01:56.14,0:01:57.21,DEFAULT,,0,0,0,,{\r}{\kf25}To{\kf25}-o{\kf57} show
+Dialogue: 0,0:01:57.32,0:01:59.75,DEFAULT,,0,0,0,,{\r}{\kf20}Two{\kf41} clips{\kf12} at{\kf16} the{\kf28} same{\kf126} time
+Dialogue: 0,0:02:00.54,0:02:01.75,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf22} can{\kf22} leap{\kf22} real{\kf25} far
+Dialogue: 0,0:02:01.75,0:02:03.71,DEFAULT,,0,0,0,,{\r}{\kf18}That{\kf27} wall{\kf18} is{\kf27} su{\kf13}per{\kf36} spar{\kf27}k{\kf30}ly
+Dialogue: 0,0:02:03.79,0:02:06.36,DEFAULT,,0,0,0,,{\r}{\kf33}Sing{\kf16} a{\kf41} hi{\kf20}-igh{\kf41} note{\kf20} a{\kf20}-and{\kf66} then...
+Dialogue: 0,0:02:06.68,0:02:11.04,DEFAULT,,0,0,0,,{\r}{\kf66}Black,{\kf29} it's{\kf66} all{\kf86} black!{\kf107} Ga-ha-ha-ha{\kf82}*snort*

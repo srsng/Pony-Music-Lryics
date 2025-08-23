@@ -1,38 +1,45 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Prance
+Artist: Trotski
+Original Timing: mylittlekaraoke.com by Steven Knapp, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:27.39,0:00:29.59,DEFAULT,,0,0,0,,{\kf13}Gig{\kf13}gle{\kf21} at{\kf13} guf{\kf17}faw{\kf9} at
-Dialogue: 0,0:00:30.75,0:00:32.99,DEFAULT,,0,0,0,,{\kf17}Crack{\kf9} up{\kf13} at{\kf9} whoop{\kf9} it{\kf9} up{\kf9} with
-Dialogue: 0,0:00:34.23,0:00:36.39,DEFAULT,,0,0,0,,{\kf13}Gig{\kf13}gle{\kf21} at{\kf13} guf{\kf17}faw{\kf9} at
-Dialogue: 0,0:00:37.59,0:00:39.83,DEFAULT,,0,0,0,,{\kf17}Crack{\kf9} up{\kf13} at{\kf9} whoop{\kf9} it{\kf9} up{\kf9} with
-Dialogue: 0,0:00:41.04,0:00:44.28,DEFAULT,,0,0,0,,{\kf13}Gig{\kf13}gle{\kf21} at{\kf13} got{\kf9}ta{\kf13} stand{\kf9} up{\kf29} tall{\kf13} guf{\kf17}faw{\kf9} at{\kf9} to{\kf9} face{\kf9} your{\kf37} fears
-Dialogue: 0,0:00:44.44,0:00:47.80,DEFAULT,,0,0,0,,{\kf17}Crack{\kf9} up{\kf13} at{\kf9} that{\kf9} they{\kf13} can't{\kf13} hurt{\kf9} you{\kf9} just{\kf9} whoop{\kf9} it{\kf9} up{\kf9} with{\kf9} the{\kf9} dis{\kf13}ap{\kf41}pear
-Dialogue: 0,0:00:47.88,0:00:51.12,DEFAULT,,0,0,0,,{\kf13}Gig{\kf13}gle{\kf21} at{\kf13} got{\kf9}ta{\kf13} stand{\kf9} up{\kf29} tall{\kf13} guf{\kf17}faw{\kf9} at{\kf9} to{\kf9} face{\kf9} your{\kf37} fears
-Dialogue: 0,0:00:51.24,0:00:54.77,DEFAULT,,0,0,0,,{\kf17}Crack{\kf9} up{\kf13} at{\kf9} that{\kf9} they{\kf13} can't{\kf13} hurt{\kf9} you{\kf9} just{\kf29} loud{\kf93}er
-Dialogue: 0,0:01:07.98,0:01:08.38,DEFAULT,,0,0,0,,{\kf41}Yay!
-Dialogue: 0,0:01:16.90,0:01:17.95,DEFAULT,,0,0,0,,{\kf29}Wa{\kf13} ha{\kf53} ha!
-Dialogue: 0,0:01:20.03,0:01:21.39,DEFAULT,,0,0,0,,{\kf13}Oh{\kf29} girls{\kf13} don't{\kf9} you{\kf13} see?
-Dialogue: 0,0:01:22.03,0:01:25.31,DEFAULT,,0,0,0,,{\kf13}Gig{\kf13}gle{\kf21} at{\kf9} the{\kf25} ghost{\kf45}ly{\kf13} guf{\kf17}faw{\kf9} at{\kf9} the{\kf17} gross{\kf53}ly
-Dialogue: 0,0:01:25.43,0:01:28.71,DEFAULT,,0,0,0,,{\kf17}Crack{\kf9} up{\kf13} at{\kf9} the{\kf13} creep{\kf37}y{\kf13} whoop{\kf9} whoop{\kf9} it{\kf9} up{\kf9} whoop{\kf9} it{\kf9} up{\kf9} whoop{\kf9} it{\kf9} whoop{\kf9} it{\kf9} whoop{\kf9} it{\kf9} up
-Dialogue: 0,0:01:28.87,0:01:32.12,DEFAULT,,0,0,0,,{\kf13}Gig{\kf13}gle{\kf21} at{\kf9} the{\kf25} ghost{\kf45}ly{\kf13} guf{\kf17}faw{\kf9} at{\kf9} the{\kf17} gross{\kf53}ly
-Dialogue: 0,0:01:32.24,0:01:35.64,DEFAULT,,0,0,0,,{\kf17}Crack{\kf9} up{\kf13} at{\kf9} the{\kf13} creep{\kf37}y{\kf13} whoop{\kf9} wh-{\kf9}wh-{\kf9}wh-{\kf9}wh-{\kf9}wh-{\kf9}whoop{\kf9} it{\kf9} up{\kf9} whoop{\kf9} it
-Dialogue: 0,0:01:35.72,0:01:38.96,DEFAULT,,0,0,0,,{\kf13}Gig{\kf13}gle{\kf21} at{\kf9} the{\kf25} ghost{\kf45}ly{\kf13} guf{\kf17}faw{\kf9} at{\kf9} the{\kf17} gross{\kf53}ly
-Dialogue: 0,0:01:39.08,0:01:42.41,DEFAULT,,0,0,0,,{\kf17}Crack{\kf9} up{\kf13} at{\kf9} the{\kf13} creep{\kf37}y{\kf13} whoop{\kf9} whoop{\kf9} it{\kf9} up{\kf9} whoop{\kf9} it{\kf9} up{\kf9} whoop{\kf9} it{\kf9} whoop{\kf9} it{\kf9} whoop{\kf9} it{\kf9} up
-Dialogue: 0,0:01:42.53,0:01:45.81,DEFAULT,,0,0,0,,{\kf13}Gig{\kf13}gle{\kf21} at{\kf9} the{\kf25} ghost{\kf45}ly{\kf13} guf{\kf17}faw{\kf9} at{\kf9} the{\kf17} gross{\kf53}ly
-Dialogue: 0,0:01:45.93,0:01:47.53,DEFAULT,,0,0,0,,{\kf17}Crack{\kf9} up{\kf13} at{\kf9} the{\kf13} creep{\kf37}y{\kf13} whoop
-Dialogue: 0,0:01:49.05,0:01:53.29,DEFAULT,,0,0,0,,{\kf17}When{\kf17} I{\kf9} was{\kf9} a{\kf17} lit{\kf9}tle{\kf9} fil{\kf9}ly{\kf17} and{\kf9} the{\kf9} sun{\kf9} was{\kf13} go{\kf21}ing{\kf81} down{\kf53}~
-Dialogue: 0,0:01:55.94,0:02:00.30,DEFAULT,,0,0,0,,{\kf13}The{\kf13} dark{\kf9}ness{\kf17} and{\kf9} the{\kf9} shad{\kf9}ows{\kf21} they{\kf9} would{\kf9} al{\kf9}ways{\kf9} make{\kf21} me{\kf85} frown{\kf65}~
-Dialogue: 0,0:02:02.70,0:02:05.90,DEFAULT,,0,0,0,,{\kf17}I'd{\kf17} hide{\kf9} un{\kf9}der{\kf21} my{\kf9} pil{\kf25}low{\kf13} from{\kf13} what{\kf13} I{\kf9} thought{\kf17} I{\kf29} saw
-Dialogue: 0,0:02:09.63,0:02:13.11,DEFAULT,,0,0,0,,{\kf9}But{\kf9} Gran{\kf9}ny{\kf9} Pie{\kf9} said{\kf13} that{\kf9} was{\kf9}n't{\kf9} the{\kf17} way{\kf9} to{\kf17} deal{\kf9} with{\kf13} fears{\kf25} at{\kf65} all
-Dialogue: 0,0:02:29.96,0:02:30.32,DEFAULT,,0,0,0,,{\kf37}Yay!
-Dialogue: 0,0:02:42.33,0:02:43.69,DEFAULT,,0,0,0,,{\kf13}Jump{\kf13} jump{\kf13} jump{\kf13} jump
-Dialogue: 0,0:02:56.42,0:02:57.71,DEFAULT,,0,0,0,,{\kf29}Loud{\kf89}er!
-Dialogue: 0,0:03:23.37,0:03:24.73,DEFAULT,,0,0,0,,{\kf13}Jump{\kf13} jump{\kf13} jump{\kf13} jump
+Dialogue: 0,0:00:27.39,0:00:29.59,DEFAULT,,0,0,0,,{\r}{\kf33}Gig{\kf33}gle{\kf55} at{\kf33} guf{\kf44}faw{\kf22} at
+Dialogue: 0,0:00:30.75,0:00:32.99,DEFAULT,,0,0,0,,{\r}{\kf53}Crack{\kf26} up{\kf40} at{\kf26} whoop{\kf26} it{\kf26} up{\kf27} with
+Dialogue: 0,0:00:34.24,0:00:36.40,DEFAULT,,0,0,0,,{\r}{\kf32}Gig{\kf32}gle{\kf54} at{\kf32} guf{\kf43}faw{\kf23} at
+Dialogue: 0,0:00:37.60,0:00:39.84,DEFAULT,,0,0,0,,{\r}{\kf53}Crack{\kf26} up{\kf40} at{\kf26} whoop{\kf26} it{\kf26} up{\kf27} with
+Dialogue: 0,0:00:41.04,0:00:44.28,DEFAULT,,0,0,0,,{\r}{\kf19}Gig{\kf19}gle{\kf31} at{\kf19} got{\kf12}ta{\kf19} stand{\kf12} up{\kf44} tall{\kf19} guf{\kf25}faw{\kf12} at{\kf12} to{\kf12} face{\kf12} your{\kf57} fears
+Dialogue: 0,0:00:44.44,0:00:47.81,DEFAULT,,0,0,0,,{\r}{\kf28}Crack{\kf14} up{\kf21} at{\kf14} that{\kf14} they{\kf21} can't{\kf21} hurt{\kf14} you{\kf14} just{\kf14} whoop{\kf14} it{\kf14} up{\kf14} with{\kf14} the{\kf14} dis{\kf21}ap{\kf70}pear
+Dialogue: 0,0:00:47.89,0:00:51.13,DEFAULT,,0,0,0,,{\r}{\kf19}Gig{\kf19}gle{\kf31} at{\kf19} got{\kf12}ta{\kf19} stand{\kf12} up{\kf44} tall{\kf19} guf{\kf25}faw{\kf12} at{\kf12} to{\kf12} face{\kf12} your{\kf57} fears
+Dialogue: 0,0:00:51.25,0:00:54.77,DEFAULT,,0,0,0,,{\r}{\kf27}Crack{\kf13} up{\kf20} at{\kf13} that{\kf13} they{\kf20} can't{\kf20} hurt{\kf13} you{\kf13} just{\kf46} loud{\kf154}er
+Dialogue: 0,0:01:07.98,0:01:08.38,DEFAULT,,0,0,0,,{\r}{\kf40}Yay!
+Dialogue: 0,0:01:16.91,0:01:17.95,DEFAULT,,0,0,0,,{\r}{\kf32}Wa{\kf14} ha{\kf58} ha!
+Dialogue: 0,0:01:20.03,0:01:21.39,DEFAULT,,0,0,0,,{\r}{\kf23}Oh{\kf53} girls{\kf23} don't{\kf15} you{\kf22} see?
+Dialogue: 0,0:01:22.03,0:01:25.32,DEFAULT,,0,0,0,,{\r}{\kf17}Gig{\kf17}gle{\kf28} at{\kf11} the{\kf34} ghost{\kf62}ly{\kf17} guf{\kf23}faw{\kf11} at{\kf11} the{\kf23} gross{\kf74}ly
+Dialogue: 0,0:01:25.44,0:01:28.72,DEFAULT,,0,0,0,,{\r}{\kf25}Crack{\kf13} up{\kf19} at{\kf13} the{\kf19} creep{\kf57}y{\kf19} whoop{\kf13} whoop{\kf13} it{\kf13} up{\kf13} whoop{\kf13} it{\kf13} up{\kf13} whoop{\kf13} it{\kf13} whoop{\kf13} it{\kf13} whoop{\kf13} it{\kf10} up
+Dialogue: 0,0:01:28.88,0:01:32.12,DEFAULT,,0,0,0,,{\r}{\kf17}Gig{\kf17}gle{\kf28} at{\kf11} the{\kf34} ghost{\kf61}ly{\kf17} guf{\kf22}faw{\kf11} at{\kf11} the{\kf22} gross{\kf73}ly
+Dialogue: 0,0:01:32.24,0:01:35.64,DEFAULT,,0,0,0,,{\r}{\kf30}Crack{\kf15} up{\kf22} at{\kf15} the{\kf22} creep{\kf67}y{\kf22} whoop{\kf15} wh-{\kf15}wh-{\kf15}wh-{\kf15}wh-{\kf15}wh-{\kf15}whoop{\kf15} it{\kf15} up{\kf15} whoop{\kf12} it
+Dialogue: 0,0:01:35.72,0:01:38.97,DEFAULT,,0,0,0,,{\r}{\kf17}Gig{\kf17}gle{\kf28} at{\kf11} the{\kf34} ghost{\kf61}ly{\kf17} guf{\kf22}faw{\kf11} at{\kf11} the{\kf22} gross{\kf73}ly
+Dialogue: 0,0:01:39.09,0:01:42.41,DEFAULT,,0,0,0,,{\r}{\kf26}Crack{\kf13} up{\kf19} at{\kf13} the{\kf19} creep{\kf57}y{\kf19} whoop{\kf13} whoop{\kf13} it{\kf13} up{\kf13} whoop{\kf13} it{\kf13} up{\kf13} whoop{\kf13} it{\kf13} whoop{\kf13} it{\kf13} whoop{\kf13} it{\kf10} up
+Dialogue: 0,0:01:42.53,0:01:45.81,DEFAULT,,0,0,0,,{\r}{\kf17}Gig{\kf17}gle{\kf28} at{\kf11} the{\kf34} ghost{\kf62}ly{\kf17} guf{\kf23}faw{\kf11} at{\kf11} the{\kf23} gross{\kf74}ly
+Dialogue: 0,0:01:45.93,0:01:47.53,DEFAULT,,0,0,0,,{\r}{\kf25}Crack{\kf12} up{\kf18} at{\kf12} the{\kf18} creep{\kf55}y{\kf20} whoop
+Dialogue: 0,0:01:49.06,0:01:53.30,DEFAULT,,0,0,0,,{\r}{\kf23}When{\kf23} I{\kf12} was{\kf12} a{\kf23} lit{\kf12}tle{\kf12} fil{\kf12}ly{\kf23} and{\kf12} the{\kf12} sun{\kf12} was{\kf17} go{\kf29}ing{\kf116} down{\kf74}~
+Dialogue: 0,0:01:55.94,0:02:00.30,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf18} dark{\kf12}ness{\kf24} and{\kf12} the{\kf12} shad{\kf12}ows{\kf30} they{\kf12} would{\kf12} al{\kf12}ways{\kf12} make{\kf30} me{\kf125} frown{\kf95}~
+Dialogue: 0,0:02:02.71,0:02:05.91,DEFAULT,,0,0,0,,{\r}{\kf27}I'd{\kf27} hide{\kf14} un{\kf14}der{\kf34} my{\kf14} pil{\kf41}low{\kf20} from{\kf20} what{\kf20} I{\kf14} thought{\kf27} I{\kf48} saw
+Dialogue: 0,0:02:09.63,0:02:13.11,DEFAULT,,0,0,0,,{\r}{\kf12}But{\kf12} Gran{\kf12}ny{\kf12} Pie{\kf12} said{\kf19} that{\kf12} was{\kf12}n't{\kf12} the{\kf25} way{\kf12} to{\kf25} deal{\kf12} with{\kf19} fears{\kf37} at{\kf103} all
+Dialogue: 0,0:02:29.97,0:02:30.33,DEFAULT,,0,0,0,,{\r}{\kf36}Yay!
+Dialogue: 0,0:02:42.34,0:02:43.70,DEFAULT,,0,0,0,,{\r}{\kf34}Jump{\kf34} jump{\kf34} jump{\kf34} jump
+Dialogue: 0,0:02:56.43,0:02:57.71,DEFAULT,,0,0,0,,{\r}{\kf31}Loud{\kf97}er!
+Dialogue: 0,0:03:23.37,0:03:24.73,DEFAULT,,0,0,0,,{\r}{\kf34}Jump{\kf34} jump{\kf34} jump{\kf34} jump

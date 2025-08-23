@@ -1,46 +1,53 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Ambience
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by barbeque
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:54.44,0:00:58.10,DEFAULT,,0,0,0,,{\kf5459}I{\kf5459} can{\kf5459} feel{\kf5459} the{\kf5459} a{\kf5459}-am{\kf5473}bience{\kf5468} in{\kf5553} life
-Dialogue: 0,0:01:00.49,0:01:05.78,DEFAULT,,0,0,0,,{\kf5464}Ly{\kf5454}ing{\kf5459} in{\kf5459} the{\kf5473} back{\kf5459}grou{\kf5459}~nd{\kf5464} in{\kf5482} si{\kf5473}lence{\kf5482} and{\kf5478} ig{\kf5459}no{\kf5464}-o{\kf5468}rance
-Dialogue: 0,0:01:06.53,0:01:11.78,DEFAULT,,0,0,0,,{\kf5459}Mi{\kf5459}ra{\kf5459}cles{\kf5459} are{\kf5478} found{\kf5468} in{\kf5473} the{\kf5478} ball{\kf5473}rooms{\kf5473} of{\kf5478} bra{\kf5464}ve{\kf5459}-e{\kf5473}ry
-Dialogue: 0,0:01:12.53,0:01:15.72,DEFAULT,,0,0,0,,{\kf5459}Cou{\kf5459}rage{\kf5459} is{\kf5459} a{\kf5473} dan{\kf5459}ge{\kf5464}-e{\kf5473}rous{\kf5515} dance
-Dialogue: 0,0:01:18.02,0:01:19.89,DEFAULT,,0,0,0,,{\kf5562}Woah{\kf5487} oh
-Dialogue: 0,0:01:20.97,0:01:25.75,DEFAULT,,0,0,0,,{\kf5478}Fear{\kf5473} is{\kf5464} my{\kf5459}-y{\kf5473} right{\kf5473} to{\kf5478} say{\kf5562} "no"{\kf5473} woah
-Dialogue: 0,0:01:27.02,0:01:32.08,DEFAULT,,0,0,0,,{\kf5473}Peace{\kf5473} is{\kf5459} my{\kf5464}-y{\kf5459} rea{\kf5459}~{\kf5468}son{\kf5478} to{\kf5562} gro{\kf5501}-ow
-Dialogue: 0,0:01:32.97,0:01:37.94,DEFAULT,,0,0,0,,{\kf5482}Still{\kf5464} I{\kf5459}~{\kf5459} re{\kf5464}-e{\kf5478}main{\kf5482} here{\kf5473} a{\kf5562}lo{\kf5492}-one
-Dialogue: 0,0:01:39.02,0:01:43.52,DEFAULT,,0,0,0,,{\kf5478}When{\kf5478} will{\kf5473} I{\kf5459} fee{\kf5459}~l{\kf5459} li{\kf5464}-ike{\kf5468} I'm{\kf5586} home?
-Dialogue: 0,0:01:54.20,0:01:57.35,DEFAULT,,0,0,0,,{\kf5459}Be{\kf5459}long{\kf5464}ing{\kf5459} is{\kf5459} a{\kf5482} stran{\kf5464}ger{\kf5459} to{\kf5468}-o{\kf5478} me
-Dialogue: 0,0:02:00.49,0:02:05.74,DEFAULT,,0,0,0,,{\kf5464}Caught{\kf5459} up{\kf5459} in{\kf5454} a{\kf5473} snow{\kf5473}storm{\kf5473} of{\kf5482} wan{\kf5478}de{\kf5478}ring{\kf5478} mi{\kf5464}se{\kf5464}-e{\kf5468}ry
-Dialogue: 0,0:02:06.49,0:02:11.83,DEFAULT,,0,0,0,,{\kf5459}Sta{\kf5459}ring{\kf5459} through{\kf5459} a{\kf5482} mir{\kf5473}ror,{\kf5468} re{\kf5478}flec{\kf5478}tions{\kf5473} of{\kf5482} life{\kf5459} a{\kf5459}-are{\kf5478} seen
-Dialogue: 0,0:02:12.49,0:02:15.58,DEFAULT,,0,0,0,,{\kf5459}Yet{\kf5459} I{\kf5459} feel{\kf5464} an{\kf5468} ab{\kf5464}se{\kf5459}-ence{\kf5468} in{\kf5506} me
-Dialogue: 0,0:02:16.56,0:02:19.99,DEFAULT,,0,0,0,,{\kf5525}Woah{\kf5478} oh{\kf5557} oh{\kf5492} oh
-Dialogue: 0,0:02:20.97,0:02:25.85,DEFAULT,,0,0,0,,{\kf5478}Fear{\kf5468} is{\kf5464} my{\kf5459}-y{\kf5468} right{\kf5473} to{\kf5478} say{\kf5562} "no"{\kf5478} woah
-Dialogue: 0,0:02:27.02,0:02:31.94,DEFAULT,,0,0,0,,{\kf5473}Peace{\kf5473} is{\kf5464} my{\kf5464}-y{\kf5459} rea{\kf5464}~{\kf5473}son{\kf5478} to{\kf5571} gro{\kf5492}-ow
-Dialogue: 0,0:02:32.97,0:02:38.03,DEFAULT,,0,0,0,,{\kf5482}Still{\kf5468} I{\kf5459}~{\kf5464} re{\kf5464}-e{\kf5482}main{\kf5478} here{\kf5473} a{\kf5562}lo{\kf5492}-one
-Dialogue: 0,0:02:39.02,0:02:43.28,DEFAULT,,0,0,0,,{\kf5473}When{\kf5473} will{\kf5473} I{\kf5459} fee{\kf5464}~l{\kf5459} li{\kf5459}-ike{\kf5473} I'm{\kf5571} home?
-Dialogue: 0,0:03:05.03,0:03:07.80,DEFAULT,,0,0,0,,{\kf5473}Oh{\kf5473} oh{\kf5623} oh
-Dialogue: 0,0:03:08.50,0:03:11.27,DEFAULT,,0,0,0,,{\kf5468}How{\kf5473} long{\kf5459} wi{\kf5464}-ill{\kf5459} I{\kf5459}~{\kf5473} run{\kf5468} from-
-Dialogue: 0,0:03:11.50,0:03:14.17,DEFAULT,,0,0,0,,{\kf5468}How{\kf5473} long{\kf5473} will{\kf5473} I{\kf5468} run{\kf5464} from-
-Dialogue: 0,0:03:14.45,0:03:17.22,DEFAULT,,0,0,0,,{\kf5473}How{\kf5478} long{\kf5454} wi{\kf5459}-ill{\kf5464} I{\kf5459}~{\kf5468} run{\kf5473} from-
-Dialogue: 0,0:03:17.60,0:03:20.17,DEFAULT,,0,0,0,,{\kf5468}How{\kf5473} long{\kf5473} will{\kf5473} I{\kf5468} run{\kf5468} from-
-Dialogue: 0,0:03:20.50,0:03:23.22,DEFAULT,,0,0,0,,{\kf5473}How{\kf5478} long{\kf5459} wi{\kf5459}-ill{\kf5464} I{\kf5454}~{\kf5468} run{\kf5468} from-
-Dialogue: 0,0:03:23.45,0:03:26.17,DEFAULT,,0,0,0,,{\kf5478}How{\kf5473} long{\kf5473} will{\kf5473} I{\kf5468} run{\kf5464} from-
-Dialogue: 0,0:03:26.50,0:03:28.52,DEFAULT,,0,0,0,,{\kf5459}Ho{\kf5459}-ow{\kf5590} long?
-Dialogue: 0,0:03:30.02,0:03:32.08,DEFAULT,,0,0,0,,{\kf5562}Oh{\kf5506} oh
-Dialogue: 0,0:03:32.97,0:03:37.85,DEFAULT,,0,0,0,,{\kf5478}Fear{\kf5468} is{\kf5464} my{\kf5459}-y{\kf5478} right{\kf5468} to{\kf5478} say{\kf5562} "no"{\kf5482} woah
-Dialogue: 0,0:03:39.02,0:03:43.94,DEFAULT,,0,0,0,,{\kf5473}Peace{\kf5473} is{\kf5464} my{\kf5459}-y{\kf5459} rea{\kf5459}~{\kf5473}son{\kf5478} to{\kf5553} gro{\kf5487}-ow
-Dialogue: 0,0:03:45.02,0:03:49.99,DEFAULT,,0,0,0,,{\kf5478}Still{\kf5464} I{\kf5459}~{\kf5464} re{\kf5459}-e{\kf5478}main{\kf5478} here{\kf5478} a{\kf5557}lo{\kf5492}-one
-Dialogue: 0,0:03:51.02,0:03:55.85,DEFAULT,,0,0,0,,{\kf5473}When{\kf5473} will{\kf5473} I{\kf5464} fee{\kf5459}~l{\kf5459} li{\kf5468}-ike{\kf5473} I'm{\kf5557} ho{\kf5482}-ome?
-Dialogue: 0,0:03:57.02,0:04:01.89,DEFAULT,,0,0,0,,{\kf5468}Des{\kf5464}ti{\kf5464}-i{\kf5468}ny{\kf5478} frigh{\kf5473}tens{\kf5468} my{\kf5571} soul,{\kf5482} woah
-Dialogue: 0,0:04:02.78,0:04:07.99,DEFAULT,,0,0,0,,{\kf5459}And{\kf5468} I{\kf5464} ne{\kf5464}-e{\kf5473}ver{\kf5478} wan{\kf5473}ted{\kf5473} to{\kf5562} kno{\kf5487}-ow
-Dialogue: 0,0:04:08.97,0:04:13.99,DEFAULT,,0,0,0,,{\kf5478}What{\kf5478} lies{\kf5478} a{\kf5478}head{\kf5473} on{\kf5473} this{\kf5557} road{\kf5487}~
-Dialogue: 0,0:04:14.97,0:04:19.99,DEFAULT,,0,0,0,,{\kf5478}When{\kf5478} will{\kf5473} I{\kf5464} fee{\kf5464}-eel{\kf5464} li{\kf5468}-ike{\kf5496} I'm{\kf5553} home?
+Dialogue: 0,0:00:54.44,0:00:58.10,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21} can{\kf21} feel{\kf21} the{\kf21} a{\kf21}-am{\kf42}bience{\kf35} in{\kf163} life
+Dialogue: 0,0:01:00.49,0:01:05.79,DEFAULT,,0,0,0,,{\r}{\kf31}Ly{\kf15}ing{\kf23} in{\kf23} the{\kf46} back{\kf23}grou{\kf23}~nd{\kf31} in{\kf61} si{\kf46}lence{\kf61} and{\kf54} ig{\kf23}no{\kf31}-o{\kf39}rance
+Dialogue: 0,0:01:06.54,0:01:11.79,DEFAULT,,0,0,0,,{\r}{\kf23}Mi{\kf23}ra{\kf23}cles{\kf23} are{\kf53} found{\kf38} in{\kf46} the{\kf53} ball{\kf46}rooms{\kf46} of{\kf53} bra{\kf30}ve{\kf23}-e{\kf45}ry
+Dialogue: 0,0:01:12.54,0:01:15.73,DEFAULT,,0,0,0,,{\r}{\kf21}Cou{\kf21}rage{\kf21} is{\kf21} a{\kf42} dan{\kf21}ge{\kf28}-e{\kf42}rous{\kf102} dance
+Dialogue: 0,0:01:18.02,0:01:19.90,DEFAULT,,0,0,0,,{\r}{\kf138}Woah{\kf50} oh
+Dialogue: 0,0:01:20.98,0:01:25.76,DEFAULT,,0,0,0,,{\r}{\kf48}Fear{\kf41} is{\kf27} my{\kf20}-y{\kf41} right{\kf41} to{\kf48} say{\kf171} "no"{\kf41} woah
+Dialogue: 0,0:01:27.02,0:01:32.08,DEFAULT,,0,0,0,,{\r}{\kf41}Peace{\kf41} is{\kf21} my{\kf27}-y{\kf21} rea{\kf21}~{\kf34}son{\kf48} to{\kf171} gro{\kf81}-ow
+Dialogue: 0,0:01:32.98,0:01:37.94,DEFAULT,,0,0,0,,{\r}{\kf51}Still{\kf25} I{\kf19}~{\kf19} re{\kf25}-e{\kf45}main{\kf51} here{\kf38} a{\kf159}lo{\kf65}-one
+Dialogue: 0,0:01:39.02,0:01:43.52,DEFAULT,,0,0,0,,{\r}{\kf46}When{\kf46} will{\kf40} I{\kf20} fee{\kf20}~l{\kf20} li{\kf26}-ike{\kf33} I'm{\kf199} home?
+Dialogue: 0,0:01:54.21,0:01:57.35,DEFAULT,,0,0,0,,{\r}{\kf22}Be{\kf22}long{\kf29}ing{\kf22} is{\kf22} a{\kf58} stran{\kf29}ger{\kf22} to{\kf37}-o{\kf51} me
+Dialogue: 0,0:02:00.49,0:02:05.74,DEFAULT,,0,0,0,,{\r}{\kf29}Caught{\kf22} up{\kf22} in{\kf15} a{\kf44} snow{\kf44}storm{\kf44} of{\kf58} wan{\kf51}de{\kf51}ring{\kf51} mi{\kf29}se{\kf29}-e{\kf36}ry
+Dialogue: 0,0:02:06.49,0:02:11.83,DEFAULT,,0,0,0,,{\r}{\kf22}Sta{\kf22}ring{\kf22} through{\kf22} a{\kf59} mir{\kf44}ror,{\kf37} re{\kf52}flec{\kf52}tions{\kf44} of{\kf59} life{\kf22} a{\kf22}-are{\kf55} seen
+Dialogue: 0,0:02:12.49,0:02:15.58,DEFAULT,,0,0,0,,{\r}{\kf22}Yet{\kf22} I{\kf22} feel{\kf29} an{\kf36} ab{\kf29}se{\kf22}-ence{\kf36} in{\kf91} me
+Dialogue: 0,0:02:16.57,0:02:19.99,DEFAULT,,0,0,0,,{\r}{\kf100}Woah{\kf41} oh{\kf142} oh{\kf59} oh
+Dialogue: 0,0:02:20.98,0:02:25.85,DEFAULT,,0,0,0,,{\r}{\kf50}Fear{\kf35} is{\kf28} my{\kf21}-y{\kf35} right{\kf42} to{\kf50} say{\kf177} "no"{\kf50} woah
+Dialogue: 0,0:02:27.02,0:02:31.94,DEFAULT,,0,0,0,,{\r}{\kf38}Peace{\kf38} is{\kf26} my{\kf26}-y{\kf19} rea{\kf26}~{\kf38}son{\kf45} to{\kf173} gro{\kf63}-ow
+Dialogue: 0,0:02:32.98,0:02:38.04,DEFAULT,,0,0,0,,{\r}{\kf51}Still{\kf32} I{\kf19}~{\kf25} re{\kf25}-e{\kf51}main{\kf44} here{\kf38} a{\kf158}lo{\kf63}-one
+Dialogue: 0,0:02:39.02,0:02:43.29,DEFAULT,,0,0,0,,{\r}{\kf40}When{\kf40} will{\kf40} I{\kf20} fee{\kf27}~l{\kf20} li{\kf20}-ike{\kf40} I'm{\kf180} home?
+Dialogue: 0,0:03:05.04,0:03:07.80,DEFAULT,,0,0,0,,{\r}{\kf33}Oh{\kf33} oh{\kf211} oh
+Dialogue: 0,0:03:08.51,0:03:11.27,DEFAULT,,0,0,0,,{\r}{\kf40}How{\kf47} long{\kf24} wi{\kf32}-ill{\kf24} I{\kf24}~{\kf47} run{\kf39} from-
+Dialogue: 0,0:03:11.51,0:03:14.18,DEFAULT,,0,0,0,,{\r}{\kf42}How{\kf50} long{\kf50} will{\kf50} I{\kf42} run{\kf33} from-
+Dialogue: 0,0:03:14.46,0:03:17.23,DEFAULT,,0,0,0,,{\r}{\kf46}How{\kf54} long{\kf15} wi{\kf23}-ill{\kf31} I{\kf23}~{\kf38} run{\kf47} from-
+Dialogue: 0,0:03:17.60,0:03:20.18,DEFAULT,,0,0,0,,{\r}{\kf39}How{\kf47} long{\kf47} will{\kf47} I{\kf39} run{\kf39} from-
+Dialogue: 0,0:03:20.51,0:03:23.23,DEFAULT,,0,0,0,,{\r}{\kf47}How{\kf54} long{\kf23} wi{\kf23}-ill{\kf31} I{\kf16}~{\kf39} run{\kf39} from-
+Dialogue: 0,0:03:23.46,0:03:26.18,DEFAULT,,0,0,0,,{\r}{\kf56}How{\kf48} long{\kf48} will{\kf48} I{\kf40} run{\kf32} from-
+Dialogue: 0,0:03:26.51,0:03:28.52,DEFAULT,,0,0,0,,{\r}{\kf16}Ho{\kf16}-ow{\kf170} long?
+Dialogue: 0,0:03:30.02,0:03:32.08,DEFAULT,,0,0,0,,{\r}{\kf136}Oh{\kf70} oh
+Dialogue: 0,0:03:32.98,0:03:37.85,DEFAULT,,0,0,0,,{\r}{\kf48}Fear{\kf34} is{\kf27} my{\kf21}-y{\kf48} right{\kf34} to{\kf48} say{\kf172} "no"{\kf56} woah
+Dialogue: 0,0:03:39.02,0:03:43.94,DEFAULT,,0,0,0,,{\r}{\kf42}Peace{\kf42} is{\kf28} my{\kf21}-y{\kf21} rea{\kf21}~{\kf42}son{\kf49} to{\kf162} gro{\kf64}-ow
+Dialogue: 0,0:03:45.02,0:03:49.99,DEFAULT,,0,0,0,,{\r}{\kf46}Still{\kf26} I{\kf20}~{\kf26} re{\kf20}-e{\kf46}main{\kf46} here{\kf46} a{\kf157}lo{\kf64}-one
+Dialogue: 0,0:03:51.02,0:03:55.85,DEFAULT,,0,0,0,,{\r}{\kf41}When{\kf41} will{\kf41} I{\kf27} fee{\kf20}~l{\kf20} li{\kf34}-ike{\kf41} I'm{\kf163} ho{\kf55}-ome?
+Dialogue: 0,0:03:57.02,0:04:01.90,DEFAULT,,0,0,0,,{\r}{\kf34}Des{\kf27}ti{\kf27}-i{\kf34}ny{\kf48} frigh{\kf41}tens{\kf34} my{\kf186} soul,{\kf57} woah
+Dialogue: 0,0:04:02.79,0:04:07.99,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf35} I{\kf28} ne{\kf28}-e{\kf42}ver{\kf49} wan{\kf42}ted{\kf42} to{\kf173} kno{\kf60}-ow
+Dialogue: 0,0:04:08.98,0:04:13.99,DEFAULT,,0,0,0,,{\r}{\kf48}What{\kf48} lies{\kf48} a{\kf48}head{\kf41} on{\kf41} this{\kf165} road{\kf63}~
+Dialogue: 0,0:04:14.98,0:04:19.99,DEFAULT,,0,0,0,,{\r}{\kf49}When{\kf49} will{\kf42} I{\kf28} fee{\kf28}-eel{\kf28} li{\kf35}-ike{\kf78} I'm{\kf165} home?

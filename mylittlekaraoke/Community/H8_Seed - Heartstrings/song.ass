@@ -1,68 +1,75 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Heartstrings
+Artist: H8_Seed
+Original Timing: mylittlekaraoke.com by 206-Ginge
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:30.11,0:00:31.94,DEFAULT,,0,0,0,,{\kf34}Be{\kf34}fore{\kf17} I{\kf17} met{\kf34} you
-Dialogue: 0,0:00:32.11,0:00:35.77,DEFAULT,,0,0,0,,{\kf34}I{\kf17} was{\kf17} a{\kf34} no{\kf34} one,{\kf17} need{\kf17}ed{\kf34} some{\kf34}one
-Dialogue: 0,0:00:35.94,0:00:38.61,DEFAULT,,0,0,0,,{\kf17}Then{\kf17} you{\kf34} came{\kf34} and{\kf17} res{\kf17}cued{\kf34} me
-Dialogue: 0,0:00:38.77,0:00:42.61,DEFAULT,,0,0,0,,{\kf34}From{\kf17} my{\kf17} re{\kf17}flec{\kf34}tion,{\kf17} in{\kf17}tro{\kf17}spec{\kf50}tion
-Dialogue: 0,0:00:43.27,0:00:45.27,DEFAULT,,0,0,0,,{\kf34}My{\kf34} mind{\kf17} goes{\kf17} blank{\kf34} when
-Dialogue: 0,0:00:45.44,0:00:47.44,DEFAULT,,0,0,0,,{\kf34}You{\kf17} draw{\kf17} near{\kf34} to{\kf34} me
-Dialogue: 0,0:00:47.61,0:00:49.77,DEFAULT,,0,0,0,,{\kf17}I{\kf17} just{\kf34} close{\kf34} my{\kf17} eyes{\kf17} and
-Dialogue: 0,0:00:49.94,0:00:51.77,DEFAULT,,0,0,0,,{\kf34}Think{\kf34} of{\kf17} hap{\kf17}py{\kf17} days
-Dialogue: 0,0:00:52.11,0:00:56.11,DEFAULT,,0,0,0,,{\kf34}And{\kf17} all{\kf17} the{\kf34} ways{\kf34} you{\kf17} make{\kf17} my{\kf34} heart{\kf67} rise
-Dialogue: 0,0:00:56.61,0:00:58.19,DEFAULT,,0,0,0,,{\kf9}There's{\kf9} no{\kf9}po{\kf9}ny{\kf50} else{\kf9} like{\kf9} you
-Dialogue: 0,0:00:58.27,0:00:59.44,DEFAULT,,0,0,0,,{\kf9}Can't{\kf9} be{\kf9}lieve{\kf9} you're{\kf50} mine
-Dialogue: 0,0:00:59.61,0:01:01.11,DEFAULT,,0,0,0,,{\kf9}Will{\kf9} you{\kf9} take{\kf9} me{\kf9} by{\kf9} the{\kf50} arm?
-Dialogue: 0,0:01:01.27,0:01:02.61,DEFAULT,,0,0,0,,{\kf9}I{\kf9} just{\kf9} can't{\kf9} re{\kf9}sist{\kf9} your{\kf34} charm
-Dialogue: 0,0:01:02.94,0:01:04.86,DEFAULT,,0,0,0,,{\kf9}You{\kf9} just{\kf9} al{\kf9}ways{\kf9} know{\kf9} the{\kf50} words{\kf9} to{\kf9} say
-Dialogue: 0,0:01:04.94,0:01:06.52,DEFAULT,,0,0,0,,{\kf9}Al{\kf9}ways{\kf9} want{\kf9} to{\kf50} feel{\kf9} this{\kf9} way
-Dialogue: 0,0:01:06.61,0:01:07.69,DEFAULT,,0,0,0,,{\kf9}Heart{\kf9} be{\kf9}gins{\kf9} to{\kf42} race
-Dialogue: 0,0:01:07.94,0:01:09.77,DEFAULT,,0,0,0,,{\kf9}As{\kf9} I{\kf9} wait{\kf9} for{\kf9} your{\kf9} em{\kf84}brace
-Dialogue: 0,0:01:23.36,0:01:24.77,DEFAULT,,0,0,0,,{\kf9}You{\kf9} pluck{\kf9} my{\kf9} heart{\kf9}strings
-Dialogue: 0,0:01:25.02,0:01:26.44,DEFAULT,,0,0,0,,{\kf9}Un{\kf9}til{\kf9} my{\kf9} heart{\kf9} sings
-Dialogue: 0,0:01:26.69,0:01:28.11,DEFAULT,,0,0,0,,{\kf9}Wrapped{\kf9} 'round{\kf9} your{\kf9} fin{\kf9}ger
-Dialogue: 0,0:01:28.27,0:01:29.86,DEFAULT,,0,0,0,,{\kf9}Just{\kf9} want{\kf9} to{\kf9} lin{\kf9}ger{\kf9} on
-Dialogue: 0,0:01:29.94,0:01:31.44,DEFAULT,,0,0,0,,{\kf9}You{\kf9} pluck{\kf9} my{\kf9} heart{\kf9}strings
-Dialogue: 0,0:01:31.61,0:01:33.02,DEFAULT,,0,0,0,,{\kf9}Un{\kf9}til{\kf9} my{\kf9} heart{\kf9} sings
-Dialogue: 0,0:01:33.27,0:01:34.69,DEFAULT,,0,0,0,,{\kf9}Wrapped{\kf9} 'round{\kf9} your{\kf9} fin{\kf9}ger
-Dialogue: 0,0:01:34.94,0:01:37.27,DEFAULT,,0,0,0,,{\kf9}Just{\kf9} want{\kf9} to{\kf9} lin{\kf9}ger{\kf9} on{\kf67} you
-Dialogue: 0,0:01:49.77,0:01:52.61,DEFAULT,,0,0,0,,{\kf34}You{\kf34} play{\kf17} me{\kf17} just{\kf34} like{\kf34} a{\kf17} drum
-Dialogue: 0,0:01:52.94,0:01:56.52,DEFAULT,,0,0,0,,{\kf25}And{\kf42} you{\kf42} just{\kf25} hum{\kf25} a{\kf42}long{\kf42} and{\kf25} watch{\kf25} me
-Dialogue: 0,0:01:56.61,0:02:00.61,DEFAULT,,0,0,0,,{\kf42}Dance{\kf42} in{\kf25} cir{\kf25}cles,{\kf50} chance{\kf42} is{\kf25} not{\kf25} at{\kf25} work{\kf17} here
-Dialogue: 0,0:02:00.94,0:02:02.44,DEFAULT,,0,0,0,,{\kf17}This{\kf17} is{\kf17} fate,{\kf34} love
-Dialogue: 0,0:02:03.27,0:02:06.19,DEFAULT,,0,0,0,,{\kf42}When{\kf42} I{\kf25} look{\kf25} in{\kf42}to{\kf42} your{\kf25} eyes
-Dialogue: 0,0:02:06.27,0:02:09.86,DEFAULT,,0,0,0,,{\kf25}I{\kf42} know{\kf42} that{\kf25} we{\kf25} were{\kf42} meant{\kf42} to{\kf25} be{\kf25} and
-Dialogue: 0,0:02:09.94,0:02:12.27,DEFAULT,,0,0,0,,{\kf42}There's{\kf42} a{\kf25} peace{\kf25}ful{\kf42} si{\kf17}lence
-Dialogue: 0,0:02:12.61,0:02:15.86,DEFAULT,,0,0,0,,{\kf25}And{\kf25} the{\kf42} world{\kf42} stops{\kf25} spin{\kf25}ning{\kf42} for{\kf42} us
-Dialogue: 0,0:02:16.61,0:02:18.19,DEFAULT,,0,0,0,,{\kf9}There's{\kf9} no{\kf9}po{\kf9}ny{\kf50} else{\kf9} like{\kf9} you
-Dialogue: 0,0:02:18.27,0:02:19.44,DEFAULT,,0,0,0,,{\kf9}Can't{\kf9} be{\kf9}lieve{\kf9} you're{\kf50} mine
-Dialogue: 0,0:02:19.61,0:02:21.11,DEFAULT,,0,0,0,,{\kf9}Will{\kf9} you{\kf9} take{\kf9} me{\kf9} by{\kf9} the{\kf50} arm?
-Dialogue: 0,0:02:21.27,0:02:22.69,DEFAULT,,0,0,0,,{\kf9}I{\kf9} just{\kf9} can't{\kf9} re{\kf9}sist{\kf9} your{\kf42} charm
-Dialogue: 0,0:02:22.94,0:02:24.86,DEFAULT,,0,0,0,,{\kf9}You{\kf9} just{\kf9} al{\kf9}ways{\kf9} know{\kf9} the{\kf50} words{\kf9} to{\kf9} say
-Dialogue: 0,0:02:24.94,0:02:26.52,DEFAULT,,0,0,0,,{\kf9}Al{\kf9}ways{\kf9} want{\kf9} to{\kf50} feel{\kf9} this{\kf9} way
-Dialogue: 0,0:02:26.61,0:02:27.61,DEFAULT,,0,0,0,,{\kf9}Heart{\kf9} be{\kf9}gins{\kf9} to{\kf34} race
-Dialogue: 0,0:02:27.94,0:02:29.61,DEFAULT,,0,0,0,,{\kf9}As{\kf9} I{\kf9} wait{\kf9} for{\kf9} your{\kf9} em{\kf67}brace
-Dialogue: 0,0:02:29.94,0:02:31.52,DEFAULT,,0,0,0,,{\kf9}There's{\kf9} no{\kf9}po{\kf9}ny{\kf50} else{\kf9} like{\kf9} you
-Dialogue: 0,0:02:31.61,0:02:32.86,DEFAULT,,0,0,0,,{\kf9}Can't{\kf9} be{\kf9}lieve{\kf9} you're{\kf59} mine
-Dialogue: 0,0:02:32.94,0:02:34.44,DEFAULT,,0,0,0,,{\kf9}Will{\kf9} you{\kf9} take{\kf9} me{\kf9} by{\kf9} the{\kf50} arm?
-Dialogue: 0,0:02:34.61,0:02:35.94,DEFAULT,,0,0,0,,{\kf9}I{\kf9} just{\kf9} can't{\kf9} re{\kf9}sist{\kf9} your{\kf34} charm
-Dialogue: 0,0:02:36.27,0:02:38.19,DEFAULT,,0,0,0,,{\kf9}You{\kf9} just{\kf9} al{\kf9}ways{\kf9} know{\kf9} the{\kf50} words{\kf9} to{\kf9} say
-Dialogue: 0,0:02:38.27,0:02:39.86,DEFAULT,,0,0,0,,{\kf9}Al{\kf9}ways{\kf9} want{\kf9} to{\kf50} feel{\kf9} this{\kf9} way
-Dialogue: 0,0:02:39.94,0:02:40.94,DEFAULT,,0,0,0,,{\kf9}Heart{\kf9} be{\kf9}gins{\kf9} to{\kf34} race
-Dialogue: 0,0:02:41.27,0:02:42.86,DEFAULT,,0,0,0,,{\kf9}As{\kf9} I{\kf9} wait{\kf9} for{\kf9} your{\kf9} em{\kf59}brace
-Dialogue: 0,0:02:43.27,0:02:44.69,DEFAULT,,0,0,0,,{\kf9}You{\kf9} pluck{\kf9} my{\kf9} heart{\kf9}strings
-Dialogue: 0,0:02:44.94,0:02:46.36,DEFAULT,,0,0,0,,{\kf9}Un{\kf9}til{\kf9} my{\kf9} heart{\kf9} sings
-Dialogue: 0,0:02:46.61,0:02:48.02,DEFAULT,,0,0,0,,{\kf9}Wrapped{\kf9} 'round{\kf9} your{\kf9} fin{\kf9}ger
-Dialogue: 0,0:02:48.27,0:02:49.86,DEFAULT,,0,0,0,,{\kf9}Just{\kf9} want{\kf9} to{\kf9} lin{\kf9}ger{\kf9} on
-Dialogue: 0,0:02:49.94,0:02:51.36,DEFAULT,,0,0,0,,{\kf9}You{\kf9} pluck{\kf9} my{\kf9} heart{\kf9}strings
-Dialogue: 0,0:02:51.61,0:02:53.02,DEFAULT,,0,0,0,,{\kf9}Un{\kf9}til{\kf9} my{\kf9} heart{\kf9} sings
-Dialogue: 0,0:02:53.27,0:02:54.69,DEFAULT,,0,0,0,,{\kf9}Wrapped{\kf9} 'round{\kf9} your{\kf9} fin{\kf9}ger
-Dialogue: 0,0:02:54.94,0:02:57.44,DEFAULT,,0,0,0,,{\kf9}Just{\kf9} want{\kf9} to{\kf9} lin{\kf9}ger{\kf9} on{\kf84} you
+Dialogue: 0,0:00:30.11,0:00:31.94,DEFAULT,,0,0,0,,{\r}{\kf46}Be{\kf46}fore{\kf23} I{\kf23} met{\kf45} you
+Dialogue: 0,0:00:32.11,0:00:35.78,DEFAULT,,0,0,0,,{\r}{\kf52}I{\kf26} was{\kf26} a{\kf52} no{\kf52} one,{\kf26} need{\kf26}ed{\kf52} some{\kf55}one
+Dialogue: 0,0:00:35.94,0:00:38.61,DEFAULT,,0,0,0,,{\r}{\kf27}Then{\kf27} you{\kf53} came{\kf53} and{\kf27} res{\kf27}cued{\kf53} me
+Dialogue: 0,0:00:38.78,0:00:42.61,DEFAULT,,0,0,0,,{\r}{\kf59}From{\kf29} my{\kf29} re{\kf29}flec{\kf59}tion,{\kf29} in{\kf29}tro{\kf29}spec{\kf91}tion
+Dialogue: 0,0:00:43.28,0:00:45.28,DEFAULT,,0,0,0,,{\r}{\kf50}My{\kf50} mind{\kf25} goes{\kf25} blank{\kf50} when
+Dialogue: 0,0:00:45.44,0:00:47.44,DEFAULT,,0,0,0,,{\r}{\kf50}You{\kf25} draw{\kf25} near{\kf50} to{\kf50} me
+Dialogue: 0,0:00:47.61,0:00:49.78,DEFAULT,,0,0,0,,{\r}{\kf27}I{\kf27} just{\kf54} close{\kf54} my{\kf27} eyes{\kf28} and
+Dialogue: 0,0:00:49.94,0:00:51.78,DEFAULT,,0,0,0,,{\r}{\kf52}Think{\kf52} of{\kf26} hap{\kf26}py{\kf27} days
+Dialogue: 0,0:00:52.11,0:00:56.11,DEFAULT,,0,0,0,,{\r}{\kf50}And{\kf25} all{\kf25} the{\kf50} ways{\kf50} you{\kf25} make{\kf25} my{\kf50} heart{\kf100} rise
+Dialogue: 0,0:00:56.61,0:00:58.19,DEFAULT,,0,0,0,,{\r}{\kf13}There's{\kf13} no{\kf13}po{\kf13}ny{\kf79} else{\kf13} like{\kf14} you
+Dialogue: 0,0:00:58.28,0:00:59.44,DEFAULT,,0,0,0,,{\r}{\kf12}Can't{\kf12} be{\kf12}lieve{\kf12} you're{\kf69} mine
+Dialogue: 0,0:00:59.61,0:01:01.11,DEFAULT,,0,0,0,,{\r}{\kf12}Will{\kf12} you{\kf12} take{\kf12} me{\kf12} by{\kf12} the{\kf78} arm?
+Dialogue: 0,0:01:01.28,0:01:02.61,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf13} just{\kf13} can't{\kf13} re{\kf13}sist{\kf13} your{\kf55} charm
+Dialogue: 0,0:01:02.94,0:01:04.86,DEFAULT,,0,0,0,,{\r}{\kf14}You{\kf14} just{\kf14} al{\kf14}ways{\kf14} know{\kf14} the{\kf82} words{\kf14} to{\kf12} say
+Dialogue: 0,0:01:04.94,0:01:06.53,DEFAULT,,0,0,0,,{\r}{\kf13}Al{\kf13}ways{\kf13} want{\kf13} to{\kf79} feel{\kf13} this{\kf14} way
+Dialogue: 0,0:01:06.61,0:01:07.69,DEFAULT,,0,0,0,,{\r}{\kf12}Heart{\kf12} be{\kf12}gins{\kf12} to{\kf60} race
+Dialogue: 0,0:01:07.94,0:01:09.78,DEFAULT,,0,0,0,,{\r}{\kf11}As{\kf11} I{\kf11} wait{\kf11} for{\kf11} your{\kf11} em{\kf117}brace
+Dialogue: 0,0:01:23.36,0:01:24.78,DEFAULT,,0,0,0,,{\r}{\kf28}You{\kf28} pluck{\kf28} my{\kf28} heart{\kf30}strings
+Dialogue: 0,0:01:25.03,0:01:26.44,DEFAULT,,0,0,0,,{\r}{\kf28}Un{\kf28}til{\kf28} my{\kf28} heart{\kf30} sings
+Dialogue: 0,0:01:26.69,0:01:28.11,DEFAULT,,0,0,0,,{\r}{\kf28}Wrapped{\kf28} 'round{\kf28} your{\kf28} fin{\kf30}ger
+Dialogue: 0,0:01:28.28,0:01:29.86,DEFAULT,,0,0,0,,{\r}{\kf26}Just{\kf26} want{\kf26} to{\kf26} lin{\kf26}ger{\kf28} on
+Dialogue: 0,0:01:29.94,0:01:31.44,DEFAULT,,0,0,0,,{\r}{\kf30}You{\kf30} pluck{\kf30} my{\kf30} heart{\kf30}strings
+Dialogue: 0,0:01:31.61,0:01:33.03,DEFAULT,,0,0,0,,{\r}{\kf28}Un{\kf28}til{\kf28} my{\kf28} heart{\kf30} sings
+Dialogue: 0,0:01:33.28,0:01:34.69,DEFAULT,,0,0,0,,{\r}{\kf28}Wrapped{\kf28} 'round{\kf28} your{\kf28} fin{\kf30}ger
+Dialogue: 0,0:01:34.94,0:01:37.28,DEFAULT,,0,0,0,,{\r}{\kf17}Just{\kf17} want{\kf17} to{\kf17} lin{\kf17}ger{\kf17} on{\kf131} you
+Dialogue: 0,0:01:49.78,0:01:52.61,DEFAULT,,0,0,0,,{\r}{\kf51}You{\kf51} play{\kf26} me{\kf26} just{\kf51} like{\kf51} a{\kf27} drum
+Dialogue: 0,0:01:52.94,0:01:56.53,DEFAULT,,0,0,0,,{\r}{\kf31}And{\kf51} you{\kf51} just{\kf31} hum{\kf31} a{\kf51}long{\kf51} and{\kf31} watch{\kf30} me
+Dialogue: 0,0:01:56.61,0:02:00.61,DEFAULT,,0,0,0,,{\r}{\kf53}Dance{\kf53} in{\kf32} cir{\kf32}cles,{\kf63} chance{\kf53} is{\kf32} not{\kf32} at{\kf32} work{\kf18} here
+Dialogue: 0,0:02:00.94,0:02:02.44,DEFAULT,,0,0,0,,{\r}{\kf30}This{\kf30} is{\kf30} fate,{\kf60} love
+Dialogue: 0,0:02:03.28,0:02:06.19,DEFAULT,,0,0,0,,{\r}{\kf50}When{\kf50} I{\kf30} look{\kf30} in{\kf50}to{\kf50} your{\kf32} eyes
+Dialogue: 0,0:02:06.28,0:02:09.86,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf51} know{\kf51} that{\kf31} we{\kf31} were{\kf51} meant{\kf51} to{\kf31} be{\kf30} and
+Dialogue: 0,0:02:09.94,0:02:12.28,DEFAULT,,0,0,0,,{\r}{\kf51}There's{\kf51} a{\kf30} peace{\kf30}ful{\kf51} si{\kf20}lence
+Dialogue: 0,0:02:12.61,0:02:15.86,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf30} the{\kf51} world{\kf51} stops{\kf30} spin{\kf30}ning{\kf51} for{\kf52} us
+Dialogue: 0,0:02:16.61,0:02:18.19,DEFAULT,,0,0,0,,{\r}{\kf13}There's{\kf13} no{\kf13}po{\kf13}ny{\kf79} else{\kf13} like{\kf14} you
+Dialogue: 0,0:02:18.28,0:02:19.44,DEFAULT,,0,0,0,,{\r}{\kf12}Can't{\kf12} be{\kf12}lieve{\kf12} you're{\kf69} mine
+Dialogue: 0,0:02:19.61,0:02:21.11,DEFAULT,,0,0,0,,{\r}{\kf12}Will{\kf12} you{\kf12} take{\kf12} me{\kf12} by{\kf12} the{\kf78} arm?
+Dialogue: 0,0:02:21.28,0:02:22.69,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf13} just{\kf13} can't{\kf13} re{\kf13}sist{\kf13} your{\kf64} charm
+Dialogue: 0,0:02:22.94,0:02:24.86,DEFAULT,,0,0,0,,{\r}{\kf14}You{\kf14} just{\kf14} al{\kf14}ways{\kf14} know{\kf14} the{\kf82} words{\kf14} to{\kf12} say
+Dialogue: 0,0:02:24.94,0:02:26.53,DEFAULT,,0,0,0,,{\r}{\kf13}Al{\kf13}ways{\kf13} want{\kf13} to{\kf79} feel{\kf13} this{\kf14} way
+Dialogue: 0,0:02:26.61,0:02:27.61,DEFAULT,,0,0,0,,{\r}{\kf12}Heart{\kf12} be{\kf12}gins{\kf12} to{\kf52} race
+Dialogue: 0,0:02:27.94,0:02:29.61,DEFAULT,,0,0,0,,{\r}{\kf12}As{\kf12} I{\kf12} wait{\kf12} for{\kf12} your{\kf12} em{\kf95}brace
+Dialogue: 0,0:02:29.94,0:02:31.53,DEFAULT,,0,0,0,,{\r}{\kf13}There's{\kf13} no{\kf13}po{\kf13}ny{\kf79} else{\kf13} like{\kf14} you
+Dialogue: 0,0:02:31.61,0:02:32.86,DEFAULT,,0,0,0,,{\r}{\kf11}Can't{\kf11} be{\kf11}lieve{\kf11} you're{\kf81} mine
+Dialogue: 0,0:02:32.94,0:02:34.44,DEFAULT,,0,0,0,,{\r}{\kf12}Will{\kf12} you{\kf12} take{\kf12} me{\kf12} by{\kf12} the{\kf78} arm?
+Dialogue: 0,0:02:34.61,0:02:35.94,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf13} just{\kf13} can't{\kf13} re{\kf13}sist{\kf13} your{\kf55} charm
+Dialogue: 0,0:02:36.28,0:02:38.19,DEFAULT,,0,0,0,,{\r}{\kf14}You{\kf14} just{\kf14} al{\kf14}ways{\kf14} know{\kf14} the{\kf82} words{\kf14} to{\kf12} say
+Dialogue: 0,0:02:38.28,0:02:39.86,DEFAULT,,0,0,0,,{\r}{\kf13}Al{\kf13}ways{\kf13} want{\kf13} to{\kf79} feel{\kf13} this{\kf14} way
+Dialogue: 0,0:02:39.94,0:02:40.94,DEFAULT,,0,0,0,,{\r}{\kf12}Heart{\kf12} be{\kf12}gins{\kf12} to{\kf52} race
+Dialogue: 0,0:02:41.28,0:02:42.86,DEFAULT,,0,0,0,,{\r}{\kf12}As{\kf12} I{\kf12} wait{\kf12} for{\kf12} your{\kf12} em{\kf86}brace
+Dialogue: 0,0:02:43.28,0:02:44.69,DEFAULT,,0,0,0,,{\r}{\kf28}You{\kf28} pluck{\kf28} my{\kf28} heart{\kf30}strings
+Dialogue: 0,0:02:44.94,0:02:46.36,DEFAULT,,0,0,0,,{\r}{\kf28}Un{\kf28}til{\kf28} my{\kf28} heart{\kf30} sings
+Dialogue: 0,0:02:46.61,0:02:48.03,DEFAULT,,0,0,0,,{\r}{\kf28}Wrapped{\kf28} 'round{\kf28} your{\kf28} fin{\kf30}ger
+Dialogue: 0,0:02:48.28,0:02:49.86,DEFAULT,,0,0,0,,{\r}{\kf26}Just{\kf26} want{\kf26} to{\kf26} lin{\kf26}ger{\kf28} on
+Dialogue: 0,0:02:49.94,0:02:51.36,DEFAULT,,0,0,0,,{\r}{\kf28}You{\kf28} pluck{\kf28} my{\kf28} heart{\kf30}strings
+Dialogue: 0,0:02:51.61,0:02:53.03,DEFAULT,,0,0,0,,{\r}{\kf28}Un{\kf28}til{\kf28} my{\kf28} heart{\kf30} sings
+Dialogue: 0,0:02:53.28,0:02:54.69,DEFAULT,,0,0,0,,{\r}{\kf28}Wrapped{\kf28} 'round{\kf28} your{\kf28} fin{\kf30}ger
+Dialogue: 0,0:02:54.94,0:02:57.44,DEFAULT,,0,0,0,,{\r}{\kf16}Just{\kf16} want{\kf16} to{\kf16} lin{\kf16}ger{\kf16} on{\kf154} you

@@ -1,43 +1,50 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Plain Not Nice
+Artist: Vaceslav
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:10.91,0:00:13.16,DEFAULT,,0,0,0,,{\kf12}The{\kf15} wea{\kf15}ther{\kf15}man{\kf8} said{\kf12} it{\kf15} would{\kf23} be{\kf19} a{\kf27} hot{\kf27} one
-Dialogue: 0,0:00:13.38,0:00:15.78,DEFAULT,,0,0,0,,{\kf12}He{\kf12} ne{\kf12}ver{\kf8} said{\kf12} he{\kf19} was{\kf8}n't{\kf15} talk{\kf15}ing{\kf12} a{\kf12}bout{\kf15} the{\kf12} sun{\kf38}~
-Dialogue: 0,0:00:15.93,0:00:20.09,DEFAULT,,0,0,0,,{\kf12}And{\kf12} he{\kf15} ne{\kf15}ver{\kf19} said{\kf19} she'd{\kf23} be{\kf23} so{\kf83} cold{\kf34} woh{\kf38} oh{\kf45}~
-Dialogue: 0,0:00:20.62,0:00:22.68,DEFAULT,,0,0,0,,{\kf19}Tra{\kf19}vel{\kf15}ling,{\kf15} im{\kf15}pres{\kf12}sing{\kf19} all{\kf19} the{\kf19} towns{\kf23}folk
-Dialogue: 0,0:00:22.91,0:00:25.31,DEFAULT,,0,0,0,,{\kf12}She'll{\kf15} take{\kf12} their{\kf12} praise{\kf8} but{\kf12} she{\kf15} thinks{\kf23} they{\kf23} are{\kf19} a{\kf38} joke
-Dialogue: 0,0:00:25.46,0:00:29.77,DEFAULT,,0,0,0,,{\kf15}Been{\kf15} like{\kf19} this{\kf27} since{\kf19} she{\kf23} was{\kf23} three{\kf38} years{\kf72} old{\kf34} ~{\kf94} ~
-Dialogue: 0,0:00:30.44,0:00:34.08,DEFAULT,,0,0,0,,{\kf34}Watch{\kf23} out{\kf34} for{\kf68} her{\kf15}~{\kf139} lies
-Dialogue: 0,0:00:34.76,0:00:36.93,DEFAULT,,0,0,0,,{\kf19}She{\kf23} is{\kf30} shif{\kf19}ty{\kf23} and{\kf19} de{\kf27}ceit{\kf19}ful
-Dialogue: 0,0:00:37.12,0:00:39.67,DEFAULT,,0,0,0,,{\kf23}Look{\kf23}ing{\kf23} down{\kf23} on{\kf15} the{\kf23} com{\kf19}mon{\kf27} peo{\kf23}ple{\kf30}~
-Dialogue: 0,0:00:40.01,0:00:43.34,DEFAULT,,0,0,0,,{\kf34}Watch{\kf27} out{\kf38} for{\kf72} her{\kf113} tricks
-Dialogue: 0,0:00:44.36,0:00:46.19,DEFAULT,,0,0,0,,{\kf15}They{\kf15} can{\kf23} come{\kf30} in{\kf23} a{\kf19}ny{\kf19} size
-Dialogue: 0,0:00:46.34,0:00:51.22,DEFAULT,,0,0,0,,{\kf27}It's{\kf30} clear{\kf15} to{\kf23} see{\kf34} she's{\kf38} plain{\kf68} not{\kf173} nice
-Dialogue: 0,0:01:03.74,0:01:06.03,DEFAULT,,0,0,0,,{\kf12}You've{\kf12} got{\kf12} it{\kf12} wrong{\kf8} if{\kf8} you{\kf15} think{\kf27} I{\kf27} am{\kf19} the{\kf30} b*tch
-Dialogue: 0,0:01:06.18,0:01:08.47,DEFAULT,,0,0,0,,{\kf12}I{\kf12} en{\kf15}ter{\kf12}tain{\kf12} you{\kf12} and{\kf12} what{\kf30} am{\kf23} I{\kf27} ask{\kf12}ing{\kf23}~
-Dialogue: 0,0:01:08.66,0:01:12.71,DEFAULT,,0,0,0,,{\kf12}Just{\kf15} a{\kf15} lit{\kf19}tle{\kf27} cre{\kf19}dit{\kf27} where{\kf30} is{\kf72} due{\kf19}~{\kf30}~{\kf64}~
-Dialogue: 0,0:01:13.31,0:01:15.71,DEFAULT,,0,0,0,,{\kf12}You{\kf12} call{\kf12} me{\kf15} boast{\kf12}ful{\kf12} and{\kf15} you{\kf23} just{\kf23} might{\kf19} be{\kf34} right{\kf8}~
-Dialogue: 0,0:01:15.89,0:01:17.92,DEFAULT,,0,0,0,,{\kf12}But{\kf12} you{\kf12} know{\kf12} that{\kf15} un{\kf15}der{\kf19}neath{\kf19} the{\kf23} stage{\kf23} lights
-Dialogue: 0,0:01:18.11,0:01:22.38,DEFAULT,,0,0,0,,{\kf12}It's{\kf19} called{\kf23} show{\kf19}man{\kf15}ship{\kf12} and{\kf23} it's{\kf23} no{\kf30}thing{\kf68} new{\kf23}~{\kf27}~{\kf75}~
-Dialogue: 0,0:01:23.24,0:01:26.88,DEFAULT,,0,0,0,,{\kf34}Watch{\kf23} out{\kf34} for{\kf68} her{\kf15}~{\kf139} lies
-Dialogue: 0,0:01:27.56,0:01:29.73,DEFAULT,,0,0,0,,{\kf19}She{\kf23} is{\kf30} shif{\kf19}ty{\kf23} and{\kf19} de{\kf27}ceit{\kf19}ful
-Dialogue: 0,0:01:29.92,0:01:32.47,DEFAULT,,0,0,0,,{\kf23}Look{\kf23}ing{\kf23} down{\kf23} on{\kf15} the{\kf23} com{\kf19}mon{\kf27} peo{\kf23}ple{\kf30}~
-Dialogue: 0,0:01:32.81,0:01:36.14,DEFAULT,,0,0,0,,{\kf34}Watch{\kf27} out{\kf38} for{\kf72} her{\kf113} tricks
-Dialogue: 0,0:01:37.16,0:01:38.99,DEFAULT,,0,0,0,,{\kf15}They{\kf15} can{\kf23} come{\kf30} in{\kf23} a{\kf19}ny{\kf19} size
-Dialogue: 0,0:01:39.14,0:01:43.91,DEFAULT,,0,0,0,,{\kf27}It's{\kf30} clear{\kf15} to{\kf23} see{\kf34} she's{\kf38} plain{\kf68} not{\kf162} nice
-Dialogue: 0,0:02:01.72,0:02:07.08,DEFAULT,,0,0,0,,{\kf30}Watch{\kf27} out{\kf34} for{\kf60} her{\kf23}~{\kf312} lies
-Dialogue: 0,0:02:11.28,0:02:17.02,DEFAULT,,0,0,0,,{\kf34}Watch{\kf23} out{\kf34} for{\kf64} her{\kf349} tricks
-Dialogue: 0,0:02:20.84,0:02:24.48,DEFAULT,,0,0,0,,{\kf34}Watch{\kf23} out{\kf34} for{\kf68} her{\kf15}~{\kf139} lies
-Dialogue: 0,0:02:25.16,0:02:27.33,DEFAULT,,0,0,0,,{\kf19}She{\kf23} is{\kf30} shif{\kf19}ty{\kf23} and{\kf19} de{\kf27}ceit{\kf19}ful
-Dialogue: 0,0:02:27.52,0:02:30.07,DEFAULT,,0,0,0,,{\kf23}Look{\kf23}ing{\kf23} down{\kf23} on{\kf15} the{\kf23} com{\kf19}mon{\kf27} peo{\kf23}ple{\kf30}~
-Dialogue: 0,0:02:30.41,0:02:33.74,DEFAULT,,0,0,0,,{\kf34}Watch{\kf27} out{\kf38} for{\kf72} her{\kf113} tricks
-Dialogue: 0,0:02:34.76,0:02:36.56,DEFAULT,,0,0,0,,{\kf15}They{\kf15} can{\kf23} come{\kf30} in{\kf23} a{\kf19}ny{\kf15} size
-Dialogue: 0,0:02:36.71,0:02:42.33,DEFAULT,,0,0,0,,{\kf23}It's{\kf30} clear{\kf15} to{\kf23} see{\kf34} she's{\kf38} plain{\kf68} not{\kf237} nice
+Dialogue: 0,0:00:10.91,0:00:13.16,DEFAULT,,0,0,0,,{\r}{\kf14}The{\kf18} wea{\kf18}ther{\kf18}man{\kf10} said{\kf14} it{\kf18} would{\kf28} be{\kf23} a{\kf32} hot{\kf32} one
+Dialogue: 0,0:00:13.39,0:00:15.79,DEFAULT,,0,0,0,,{\r}{\kf14}He{\kf14} ne{\kf14}ver{\kf10} said{\kf14} he{\kf23} was{\kf10}n't{\kf18} talk{\kf18}ing{\kf14} a{\kf14}bout{\kf18} the{\kf14} sun{\kf45}~
+Dialogue: 0,0:00:15.94,0:00:20.10,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf14} he{\kf19} ne{\kf19}ver{\kf23} said{\kf23} she'd{\kf28} be{\kf28} so{\kf103} cold{\kf42} woh{\kf47} oh{\kf56}~
+Dialogue: 0,0:00:20.62,0:00:22.69,DEFAULT,,0,0,0,,{\r}{\kf22}Tra{\kf22}vel{\kf18}ling,{\kf18} im{\kf18}pres{\kf13}sing{\kf22} all{\kf22} the{\kf22} towns{\kf29}folk
+Dialogue: 0,0:00:22.91,0:00:25.31,DEFAULT,,0,0,0,,{\r}{\kf15}She'll{\kf20} take{\kf15} their{\kf15} praise{\kf10} but{\kf15} she{\kf20} thinks{\kf29} they{\kf29} are{\kf24} a{\kf48} joke
+Dialogue: 0,0:00:25.46,0:00:29.77,DEFAULT,,0,0,0,,{\r}{\kf17}Been{\kf17} like{\kf22} this{\kf30} since{\kf22} she{\kf26} was{\kf26} three{\kf43} years{\kf82} old{\kf39} ~{\kf107} ~
+Dialogue: 0,0:00:30.45,0:00:34.09,DEFAULT,,0,0,0,,{\r}{\kf39}Watch{\kf26} out{\kf39} for{\kf79} her{\kf18}~{\kf163} lies
+Dialogue: 0,0:00:34.76,0:00:36.94,DEFAULT,,0,0,0,,{\r}{\kf23}She{\kf28} is{\kf37} shif{\kf23}ty{\kf28} and{\kf23} de{\kf32}ceit{\kf23}ful
+Dialogue: 0,0:00:37.12,0:00:39.67,DEFAULT,,0,0,0,,{\r}{\kf26}Look{\kf26}ing{\kf26} down{\kf26} on{\kf17} the{\kf26} com{\kf21}mon{\kf30} peo{\kf26}ple{\kf31}~
+Dialogue: 0,0:00:40.01,0:00:43.35,DEFAULT,,0,0,0,,{\r}{\kf40}Watch{\kf31} out{\kf45} for{\kf85} her{\kf133} tricks
+Dialogue: 0,0:00:44.36,0:00:46.20,DEFAULT,,0,0,0,,{\r}{\kf19}They{\kf19} can{\kf29} come{\kf39} in{\kf29} a{\kf24}ny{\kf25} size
+Dialogue: 0,0:00:46.35,0:00:51.22,DEFAULT,,0,0,0,,{\r}{\kf32}It's{\kf36} clear{\kf18} to{\kf27} see{\kf41} she's{\kf45} plain{\kf81} not{\kf208} nice
+Dialogue: 0,0:01:03.75,0:01:06.04,DEFAULT,,0,0,0,,{\r}{\kf15}You've{\kf15} got{\kf15} it{\kf15} wrong{\kf10} if{\kf10} you{\kf19} think{\kf34} I{\kf34} am{\kf24} the{\kf38} b*tch
+Dialogue: 0,0:01:06.19,0:01:08.47,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf13} en{\kf18}ter{\kf13}tain{\kf13} you{\kf13} and{\kf13} what{\kf35} am{\kf26} I{\kf31} ask{\kf13}ing{\kf28}~
+Dialogue: 0,0:01:08.66,0:01:12.71,DEFAULT,,0,0,0,,{\r}{\kf13}Just{\kf18} a{\kf18} lit{\kf22}tle{\kf31} cre{\kf22}dit{\kf31} where{\kf35} is{\kf84} due{\kf22}~{\kf35}~{\kf74}~
+Dialogue: 0,0:01:13.31,0:01:15.71,DEFAULT,,0,0,0,,{\r}{\kf14}You{\kf14} call{\kf14} me{\kf19} boast{\kf14}ful{\kf14} and{\kf19} you{\kf28} just{\kf28} might{\kf24} be{\kf42} right{\kf10}~
+Dialogue: 0,0:01:15.90,0:01:17.92,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf14} you{\kf14} know{\kf14} that{\kf19} un{\kf19}der{\kf24}neath{\kf24} the{\kf29} stage{\kf31} lights
+Dialogue: 0,0:01:18.11,0:01:22.39,DEFAULT,,0,0,0,,{\r}{\kf13}It's{\kf22} called{\kf26} show{\kf22}man{\kf18}ship{\kf13} and{\kf26} it's{\kf26} no{\kf35}thing{\kf79} new{\kf26}~{\kf31}~{\kf90}~
+Dialogue: 0,0:01:23.25,0:01:26.89,DEFAULT,,0,0,0,,{\r}{\kf39}Watch{\kf26} out{\kf39} for{\kf79} her{\kf18}~{\kf163} lies
+Dialogue: 0,0:01:27.56,0:01:29.74,DEFAULT,,0,0,0,,{\r}{\kf23}She{\kf28} is{\kf37} shif{\kf23}ty{\kf28} and{\kf23} de{\kf32}ceit{\kf23}ful
+Dialogue: 0,0:01:29.92,0:01:32.47,DEFAULT,,0,0,0,,{\r}{\kf26}Look{\kf26}ing{\kf26} down{\kf26} on{\kf17} the{\kf26} com{\kf21}mon{\kf30} peo{\kf26}ple{\kf31}~
+Dialogue: 0,0:01:32.81,0:01:36.15,DEFAULT,,0,0,0,,{\r}{\kf40}Watch{\kf31} out{\kf45} for{\kf85} her{\kf133} tricks
+Dialogue: 0,0:01:37.16,0:01:39.00,DEFAULT,,0,0,0,,{\r}{\kf19}They{\kf19} can{\kf29} come{\kf39} in{\kf29} a{\kf24}ny{\kf25} size
+Dialogue: 0,0:01:39.15,0:01:43.91,DEFAULT,,0,0,0,,{\r}{\kf32}It's{\kf36} clear{\kf18} to{\kf27} see{\kf41} she's{\kf45} plain{\kf82} not{\kf195} nice
+Dialogue: 0,0:02:01.72,0:02:07.09,DEFAULT,,0,0,0,,{\r}{\kf33}Watch{\kf29} out{\kf37} for{\kf66} her{\kf25}~{\kf346} lies
+Dialogue: 0,0:02:11.29,0:02:17.02,DEFAULT,,0,0,0,,{\r}{\kf39}Watch{\kf26} out{\kf39} for{\kf73} her{\kf397} tricks
+Dialogue: 0,0:02:20.85,0:02:24.49,DEFAULT,,0,0,0,,{\r}{\kf39}Watch{\kf26} out{\kf39} for{\kf79} her{\kf18}~{\kf163} lies
+Dialogue: 0,0:02:25.16,0:02:27.34,DEFAULT,,0,0,0,,{\r}{\kf23}She{\kf28} is{\kf37} shif{\kf23}ty{\kf28} and{\kf23} de{\kf32}ceit{\kf24}ful
+Dialogue: 0,0:02:27.52,0:02:30.07,DEFAULT,,0,0,0,,{\r}{\kf26}Look{\kf26}ing{\kf26} down{\kf26} on{\kf17} the{\kf26} com{\kf21}mon{\kf30} peo{\kf26}ple{\kf31}~
+Dialogue: 0,0:02:30.41,0:02:33.75,DEFAULT,,0,0,0,,{\r}{\kf40}Watch{\kf31} out{\kf45} for{\kf85} her{\kf133} tricks
+Dialogue: 0,0:02:34.76,0:02:36.56,DEFAULT,,0,0,0,,{\r}{\kf19}They{\kf19} can{\kf29} come{\kf39} in{\kf29} a{\kf24}ny{\kf21} size
+Dialogue: 0,0:02:36.71,0:02:42.34,DEFAULT,,0,0,0,,{\r}{\kf27}It's{\kf36} clear{\kf18} to{\kf27} see{\kf41} she's{\kf45} plain{\kf82} not{\kf286} nice

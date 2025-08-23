@@ -1,33 +1,40 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Equestria
+Artist: Exiark feat. Ckibe
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.57,0:00:16.98,DEFAULT,,0,0,0,,{\kf38}There's{\kf27} a{\kf17} place{\kf22} in{\kf33} your{\kf65} heart
-Dialogue: 0,0:00:17.57,0:00:20.35,DEFAULT,,0,0,0,,{\kf33}In{\kf27} e{\kf22}~{\kf33}very{\kf33}one{\kf33} I{\kf17} see{\kf49}~
-Dialogue: 0,0:00:20.99,0:00:23.73,DEFAULT,,0,0,0,,{\kf27}No{\kf33} place{\kf33} for{\kf33} fear{\kf33} or{\kf38} hate{\kf22}~
-Dialogue: 0,0:00:24.48,0:00:27.21,DEFAULT,,0,0,0,,{\kf38}On{\kf27}ly{\kf27} for{\kf43} har{\kf33}mo{\kf22}ny{\kf49}~
-Dialogue: 0,0:00:27.85,0:00:31.66,DEFAULT,,0,0,0,,{\kf38}You{\kf17} call{\kf17}~{\kf33} it{\kf33} home,{\kf33} you{\kf33} call{\kf33} it{\kf22} hea{\kf54}ven
-Dialogue: 0,0:00:32.14,0:00:34.60,DEFAULT,,0,0,0,,{\kf33}But{\kf33} mine{\kf33} is{\kf33} none{\kf33} of{\kf33} those
-Dialogue: 0,0:00:34.87,0:00:39.42,DEFAULT,,0,0,0,,{\kf27}And{\kf33} I'm{\kf38} still{\kf22} stand{\kf38}~{\kf279}ing
-Dialogue: 0,0:00:40.76,0:00:45.91,DEFAULT,,0,0,0,,{\kf43}E{\kf134}ques{\kf38}~{\kf145}tri{\kf156}a
-Dialogue: 0,0:00:46.71,0:00:52.76,DEFAULT,,0,0,0,,{\kf33}That's{\kf17} where{\kf17}~{\kf33} my{\kf33} life{\kf43} res{\kf17}tarts{\kf220}~{\kf156}~
-Dialogue: 0,0:00:54.42,0:01:00.10,DEFAULT,,0,0,0,,{\kf49}E{\kf140}ques{\kf33}~{\kf145}tri{\kf27}a{\kf27}~{\kf150}~
-Dialogue: 0,0:01:00.53,0:01:06.69,DEFAULT,,0,0,0,,{\kf33}Come{\kf38} heal{\kf38} your{\kf172} bro{\kf140}ken{\kf172} hearts
-Dialogue: 0,0:01:50.24,0:01:52.98,DEFAULT,,0,0,0,,{\kf27}Some{\kf33} say{\kf33} you'll{\kf33} lose{\kf33} your{\kf43} time{\kf22}~
-Dialogue: 0,0:01:53.94,0:01:56.41,DEFAULT,,0,0,0,,{\kf49}Star{\kf33}ing{\kf33} at{\kf33} the{\kf22} screen{\kf43}~
-Dialogue: 0,0:01:56.99,0:01:59.83,DEFAULT,,0,0,0,,{\kf38}To{\kf38} reach{\kf17} a{\kf43} dis{\kf33}tant{\kf49} land{\kf22}~
-Dialogue: 0,0:02:00.48,0:02:03.26,DEFAULT,,0,0,0,,{\kf33}That{\kf17} on{\kf27}~{\kf27}ly{\kf33} lives{\kf33} in{\kf22} dreams{\kf49}~
-Dialogue: 0,0:02:03.91,0:02:07.66,DEFAULT,,0,0,0,,{\kf33}What{\kf27} they{\kf33} call{\kf33} home,{\kf33} or{\kf33} they{\kf33} call{\kf22} hea{\kf59}ven
-Dialogue: 0,0:02:08.14,0:02:10.71,DEFAULT,,0,0,0,,{\kf38}May{\kf38} be{\kf17} the{\kf17} e{\kf33}xact{\kf33} same{\kf43} place
-Dialogue: 0,0:02:10.92,0:02:15.42,DEFAULT,,0,0,0,,{\kf22}Where{\kf27} we{\kf33} are{\kf22} stand{\kf38}~{\kf274}ing
-Dialogue: 0,0:02:16.71,0:02:21.96,DEFAULT,,0,0,0,,{\kf49}E{\kf134}ques{\kf33}~{\kf150}tri{\kf161}a
-Dialogue: 0,0:02:22.71,0:02:28.82,DEFAULT,,0,0,0,,{\kf38}That's{\kf17} where{\kf17}~{\kf43} my{\kf33} life{\kf38} res{\kf231}tarts{\kf156}~
-Dialogue: 0,0:02:30.42,0:02:36.21,DEFAULT,,0,0,0,,{\kf49}E{\kf140}ques{\kf33}~{\kf140}tri{\kf27}a{\kf33}~{\kf161}~
-Dialogue: 0,0:02:36.48,0:02:42.74,DEFAULT,,0,0,0,,{\kf33}Come{\kf33} heal{\kf33} your{\kf150} bro{\kf134}ken{\kf172} hearts
+Dialogue: 0,0:00:14.57,0:00:16.98,DEFAULT,,0,0,0,,{\r}{\kf46}There's{\kf33} a{\kf20} place{\kf26} in{\kf39} your{\kf77} heart
+Dialogue: 0,0:00:17.57,0:00:20.36,DEFAULT,,0,0,0,,{\r}{\kf37}In{\kf31} e{\kf25}~{\kf37}very{\kf37}one{\kf37} I{\kf19} see{\kf56}~
+Dialogue: 0,0:00:21.00,0:00:23.73,DEFAULT,,0,0,0,,{\r}{\kf34}No{\kf41} place{\kf41} for{\kf41} fear{\kf41} or{\kf48} hate{\kf27}~
+Dialogue: 0,0:00:24.48,0:00:27.21,DEFAULT,,0,0,0,,{\r}{\kf43}On{\kf31}ly{\kf31} for{\kf50} har{\kf37}mo{\kf25}ny{\kf56}~
+Dialogue: 0,0:00:27.86,0:00:31.66,DEFAULT,,0,0,0,,{\r}{\kf47}You{\kf20} call{\kf20}~{\kf40} it{\kf40} home,{\kf40} you{\kf40} call{\kf40} it{\kf27} hea{\kf66}ven
+Dialogue: 0,0:00:32.14,0:00:34.61,DEFAULT,,0,0,0,,{\r}{\kf41}But{\kf41} mine{\kf41} is{\kf41} none{\kf41} of{\kf41} those
+Dialogue: 0,0:00:34.87,0:00:39.43,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf34} I'm{\kf39} still{\kf22} stand{\kf39}~{\kf293}ing
+Dialogue: 0,0:00:40.77,0:00:45.91,DEFAULT,,0,0,0,,{\r}{\kf43}E{\kf134}ques{\kf37}~{\kf145}tri{\kf155}a
+Dialogue: 0,0:00:46.71,0:00:52.77,DEFAULT,,0,0,0,,{\r}{\kf35}That's{\kf17} where{\kf17}~{\kf35} my{\kf35} life{\kf46} res{\kf17}tarts{\kf236}~{\kf167}~
+Dialogue: 0,0:00:54.43,0:01:00.11,DEFAULT,,0,0,0,,{\r}{\kf48}E{\kf139}ques{\kf32}~{\kf145}tri{\kf27}a{\kf27}~{\kf150}~
+Dialogue: 0,0:01:00.54,0:01:06.70,DEFAULT,,0,0,0,,{\r}{\kf34}Come{\kf39} heal{\kf39} your{\kf179} bro{\kf146}ken{\kf179} hearts
+Dialogue: 0,0:01:50.25,0:01:52.98,DEFAULT,,0,0,0,,{\r}{\kf33}Some{\kf40} say{\kf40} you'll{\kf40} lose{\kf40} your{\kf53} time{\kf27}~
+Dialogue: 0,0:01:53.95,0:01:56.41,DEFAULT,,0,0,0,,{\r}{\kf57}Star{\kf38}ing{\kf38} at{\kf38} the{\kf25} screen{\kf50}~
+Dialogue: 0,0:01:57.00,0:01:59.84,DEFAULT,,0,0,0,,{\r}{\kf45}To{\kf45} reach{\kf19} a{\kf52} dis{\kf39}tant{\kf58} land{\kf26}~
+Dialogue: 0,0:02:00.48,0:02:03.27,DEFAULT,,0,0,0,,{\r}{\kf38}That{\kf19} on{\kf32}~{\kf32}ly{\kf38} lives{\kf38} in{\kf25} dreams{\kf57}~
+Dialogue: 0,0:02:03.91,0:02:07.66,DEFAULT,,0,0,0,,{\r}{\kf40}What{\kf33} they{\kf40} call{\kf40} home,{\kf40} or{\kf40} they{\kf40} call{\kf27} hea{\kf75}ven
+Dialogue: 0,0:02:08.14,0:02:10.71,DEFAULT,,0,0,0,,{\r}{\kf45}May{\kf45} be{\kf19} the{\kf19} e{\kf39}xact{\kf39} same{\kf51} place
+Dialogue: 0,0:02:10.93,0:02:15.43,DEFAULT,,0,0,0,,{\r}{\kf23}Where{\kf29} we{\kf35} are{\kf23} stand{\kf41}~{\kf299}ing
+Dialogue: 0,0:02:16.71,0:02:21.96,DEFAULT,,0,0,0,,{\r}{\kf48}E{\kf134}ques{\kf32}~{\kf150}tri{\kf161}a
+Dialogue: 0,0:02:22.71,0:02:28.82,DEFAULT,,0,0,0,,{\r}{\kf40}That's{\kf17} where{\kf17}~{\kf46} my{\kf35} life{\kf40} res{\kf248}tarts{\kf168}~
+Dialogue: 0,0:02:30.43,0:02:36.21,DEFAULT,,0,0,0,,{\r}{\kf48}E{\kf139}ques{\kf32}~{\kf139}tri{\kf27}a{\kf32}~{\kf162}~
+Dialogue: 0,0:02:36.48,0:02:42.75,DEFAULT,,0,0,0,,{\r}{\kf37}Come{\kf37} heal{\kf37} your{\kf170} bro{\kf152}ken{\kf194} hearts

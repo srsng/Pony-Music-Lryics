@@ -1,57 +1,64 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Lost On The Moon (ft. Rina Chan)
+Artist: Glaze, The Living Tombstone
+Original Timing: mylittlekaraoke.com by RC
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:13.23,0:00:15.81,DEFAULT,,0,0,0,,{\kf41}Say{\kf15}ing{\kf26} goes{\kf15} that{\kf15} when{\kf15} you're{\kf15} stuck{\kf15} on{\kf15} a{\kf37} moun{\kf15}tain
-Dialogue: 0,0:00:15.96,0:00:18.02,DEFAULT,,0,0,0,,{\kf15}You{\kf19} try{\kf15} to{\kf15} go{\kf30} up,{\kf15} you{\kf15} try{\kf12} to{\kf15} go{\kf19} down
-Dialogue: 0,0:00:18.20,0:00:19.90,DEFAULT,,0,0,0,,{\kf15}You{\kf15} turn{\kf19} a{\kf15}round{\kf12} to{\kf26} face{\kf12} the{\kf23} wall
-Dialogue: 0,0:00:20.04,0:00:21.63,DEFAULT,,0,0,0,,{\kf30}so{\kf26} you{\kf26} can{\kf15} face{\kf15} your{\kf15}self
-Dialogue: 0,0:00:21.77,0:00:24.28,DEFAULT,,0,0,0,,{\kf12}re{\kf19}a{\kf19}li{\kf15}zing{\kf15} you've{\kf19} made{\kf15} a{\kf19} mis{\kf19}ta{\kf23}-a{\kf23}-a{\kf34}-ake
-Dialogue: 0,0:00:24.61,0:00:26.56,DEFAULT,,0,0,0,,{\kf15}A{\kf15}-and{\kf15} you{\kf19} are{\kf15} be{\kf12}ing{\kf19} stuck{\kf15} on{\kf12} the{\kf15} mo{\kf8}on
-Dialogue: 0,0:00:26.71,0:00:27.67,DEFAULT,,0,0,0,,{\kf30}Like{\kf15} the{\kf19} rest{\kf15} of{\kf4} us
-Dialogue: 0,0:00:27.81,0:00:29.17,DEFAULT,,0,0,0,,{\kf19}Try{\kf15}ing{\kf12} to{\kf19} make{\kf23} sense{\kf12} of{\kf8} it
-Dialogue: 0,0:00:29.29,0:00:31.27,DEFAULT,,0,0,0,,{\kf34}Crying{\kf12} cause{\kf12} we{\kf15} don't{\kf15} have{\kf15} a{\kf12}ny{\kf30} rea{\kf19}son
-Dialogue: 0,0:00:31.57,0:00:32.97,DEFAULT,,0,0,0,,{\kf23}We're{\kf15} all{\kf19} a{\kf30}lone{\kf15} to{\kf15}ge{\kf8}ther
-Dialogue: 0,0:00:33.11,0:00:36.50,DEFAULT,,0,0,0,,{\kf19}'Cause{\kf26} we{\kf15} a{\kf19}-all{\kf19} share{\kf15} the{\kf15} ve{\kf12}ry{\kf19} same{\kf30} cri{\kf30}-i{\kf30}-i{\kf45}-ime
-Dialogue: 0,0:00:36.80,0:00:39.45,DEFAULT,,0,0,0,,{\kf30}Some{\kf12} will{\kf30} say{\kf19} that{\kf12} this{\kf12} is{\kf19} not{\kf15} going{\kf12} to{\kf30} last{\kf23} long
-Dialogue: 0,0:00:39.74,0:00:42.39,DEFAULT,,0,0,0,,{\kf26}Some{\kf15} will{\kf30} say{\kf15} that{\kf15} if{\kf12} we{\kf30} try{\kf15} we{\kf30} can't{\kf12} go{\kf8} wrong
-Dialogue: 0,0:00:42.58,0:00:44.89,DEFAULT,,0,0,0,,{\kf8}As{\kf26} time{\kf19} goes{\kf26} on{\kf19} we{\kf19} are{\kf15} not{\kf15} leav{\kf15}ing{\kf12} this{\kf15} place
-Dialogue: 0,0:00:45.12,0:00:46.40,DEFAULT,,0,0,0,,{\kf12}'Cause{\kf15} when{\kf15} we{\kf26} all{\kf19} come{\kf23} back
-Dialogue: 0,0:00:46.48,0:00:48.72,DEFAULT,,0,0,0,,{\kf23}We{\kf23} lose{\kf15} our{\kf30} track{\kf15} of{\kf15} time{\kf15} and{\kf52} space
-Dialogue: 0,0:01:10.77,0:01:14.01,DEFAULT,,0,0,0,,{\kf30}So{\kf19} to{\kf19}ge{\kf19}ther{\kf19} we{\kf19} are{\kf26} a{\kf19}-all{\kf30} lost{\kf26} on{\kf30} the{\kf26} moon
-Dialogue: 0,0:01:14.12,0:01:16.55,DEFAULT,,0,0,0,,{\kf12}We{\kf30} all{\kf15} share{\kf19} our{\kf23} ho{\kf23}-ome{\kf23} on{\kf15} the{\kf15}-e{\kf19} moon
-Dialogue: 0,0:01:16.70,0:01:19.54,DEFAULT,,0,0,0,,{\kf26}We{\kf15} for{\kf19}ev{\kf15}er{\kf15} we{\kf19} are{\kf19} lo{\kf19}-ost{\kf30} on{\kf15} the{\kf19}-e{\kf23} moon,
-Dialogue: 0,0:01:19.72,0:01:23.55,DEFAULT,,0,0,0,,{\kf26}To{\kf34}ge{\kf19}ther{\kf23} we{\kf26} pay{\kf19} your{\kf41} crime{\kf15} o{\kf15}-on{\kf23} the{\kf96} moon
-Dialogue: 0,0:01:23.84,0:01:26.57,DEFAULT,,0,0,0,,{\kf8}To{\kf37}ge{\kf15}ther{\kf23} we{\kf30} are{\kf30} lost{\kf26} on{\kf15} the{\kf23}-e{\kf26} moon
-Dialogue: 0,0:01:26.72,0:01:29.48,DEFAULT,,0,0,0,,{\kf8}We{\kf34} all{\kf37} share{\kf26} our{\kf37} home{\kf30} on{\kf15} the{\kf19}-e{\kf19} moon
-Dialogue: 0,0:01:29.77,0:01:34.85,DEFAULT,,0,0,0,,{\kf19}Fo{\kf37}-or{\kf26}ev{\kf34}er{\kf34} are{\kf34} lost{\kf30} on{\kf30} the{\kf122} mo{\kf100}-on
-Dialogue: 0,0:01:35.70,0:01:38.28,DEFAULT,,0,0,0,,{\kf34}Say{\kf19}ing{\kf30} goes{\kf12} that{\kf15} when{\kf15} you're{\kf19} stuck{\kf15} on{\kf15} a{\kf30} moun{\kf19}tain
-Dialogue: 0,0:01:38.42,0:01:40.59,DEFAULT,,0,0,0,,{\kf15}You{\kf19} try{\kf15} to{\kf15} go{\kf26} up,{\kf15} you{\kf15} try{\kf12} to{\kf15} go{\kf26} down
-Dialogue: 0,0:01:40.67,0:01:42.36,DEFAULT,,0,0,0,,{\kf12}You{\kf23} turn{\kf12} a{\kf19}round{\kf12} to{\kf26} face{\kf12} the{\kf26} wall
-Dialogue: 0,0:01:42.47,0:01:44.05,DEFAULT,,0,0,0,,{\kf30}So{\kf34} you{\kf37} can{\kf23} face{\kf12} your{\kf12}self
-Dialogue: 0,0:01:44.20,0:01:46.74,DEFAULT,,0,0,0,,{\kf15}Re{\kf19}a{\kf23}li{\kf15}zing{\kf12} you've{\kf15} made{\kf12} a{\kf19} mis{\kf23}ta{\kf23}-a{\kf19}-a{\kf34}-ake
-Dialogue: 0,0:01:47.07,0:01:49.06,DEFAULT,,0,0,0,,{\kf12}A{\kf12}-and{\kf15} you{\kf15} are{\kf15} be{\kf12}ing{\kf15} stuck{\kf15} on{\kf15} the{\kf19} mo{\kf12}on
-Dialogue: 0,0:01:49.21,0:01:50.13,DEFAULT,,0,0,0,,{\kf26}Like{\kf15} the{\kf19} rest{\kf12} of{\kf8} us
-Dialogue: 0,0:01:50.24,0:01:51.60,DEFAULT,,0,0,0,,{\kf19} try{\kf19}ing{\kf12} to{\kf23} make{\kf23} sense{\kf12} of{\kf8} it
-Dialogue: 0,0:01:51.71,0:01:53.77,DEFAULT,,0,0,0,,{\kf34} crying{\kf12} cause{\kf12} we{\kf15} don't{\kf15} have{\kf12} a{\kf15}ny{\kf26} rea{\kf26}son
-Dialogue: 0,0:01:54.03,0:01:55.43,DEFAULT,,0,0,0,,{\kf15}We{\kf19} are{\kf19} a{\kf34}lone{\kf15} to{\kf12}ge{\kf12}ther
-Dialogue: 0,0:01:55.58,0:01:58.93,DEFAULT,,0,0,0,,{\kf12}'Cause{\kf23} we{\kf19} a{\kf26}-all{\kf15} share{\kf12} the{\kf15} ve{\kf15}ry{\kf15} same{\kf30} cri{\kf30}-i{\kf23}-i{\kf37}-ime
-Dialogue: 0,0:01:59.26,0:02:01.87,DEFAULT,,0,0,0,,{\kf34}Some{\kf15} will{\kf30} say{\kf15} that{\kf15} this{\kf15} is{\kf15} not{\kf19} going{\kf12} to{\kf34} last{\kf19} long
-Dialogue: 0,0:02:02.17,0:02:04.86,DEFAULT,,0,0,0,,{\kf34}Some{\kf15} will{\kf26} say{\kf15} that{\kf12} if{\kf15} we{\kf26} try{\kf15} we{\kf37} can't{\kf12} go{\kf8} wrong
-Dialogue: 0,0:02:05.00,0:02:07.36,DEFAULT,,0,0,0,,{\kf8}As{\kf26} time{\kf19} goes{\kf23} on{\kf23} we{\kf19} are{\kf15} not{\kf15} lea{\kf15}ving{\kf15} this{\kf19} place
-Dialogue: 0,0:02:07.54,0:02:08.87,DEFAULT,,0,0,0,,{\kf15}'Cause{\kf19} when{\kf15} we{\kf26} all{\kf19} come{\kf23} back
-Dialogue: 0,0:02:08.94,0:02:11.04,DEFAULT,,0,0,0,,{\kf15}We{\kf30} lose{\kf15} our{\kf34} track{\kf15} of{\kf19} time{\kf12} and{\kf41} space
-Dialogue: 0,0:02:56.76,0:02:59.97,DEFAULT,,0,0,0,,{\kf30}So{\kf19} to{\kf19}ge{\kf15}ther{\kf15} we{\kf23} are{\kf26} a{\kf23}-all{\kf23} lost{\kf19} o{\kf12}-on{\kf23} the{\kf23} moon
-Dialogue: 0,0:03:00.15,0:03:02.58,DEFAULT,,0,0,0,,{\kf15}We{\kf30} all{\kf15} share{\kf19} our{\kf30} ho{\kf23}-ome{\kf23} on{\kf15} the{\kf15}-e{\kf23} moon
-Dialogue: 0,0:03:02.80,0:03:05.53,DEFAULT,,0,0,0,,{\kf23}We{\kf15} for{\kf19}ev{\kf15}er{\kf12} we{\kf19} are{\kf19} lo{\kf23}-ost{\kf30} on{\kf15} the{\kf15}-e{\kf26} moon
-Dialogue: 0,0:03:05.75,0:03:09.57,DEFAULT,,0,0,0,,{\kf19}To{\kf34}ge{\kf26}ther{\kf23} we{\kf30} pay{\kf19} your{\kf34} crime{\kf12} o{\kf19}-on{\kf23} the{\kf100} moon
-Dialogue: 0,0:03:09.87,0:03:12.48,DEFAULT,,0,0,0,,{\kf15}To{\kf23}ge{\kf23}ther{\kf30} we{\kf34} are{\kf34} lost{\kf30} on{\kf15} the{\kf19}-e{\kf19} moon
-Dialogue: 0,0:03:12.70,0:03:15.50,DEFAULT,,0,0,0,,{\kf8}We{\kf19} a{\kf23}-all{\kf34} share{\kf26} our{\kf37} home{\kf30} on{\kf12} the{\kf19}-e{\kf26} moon
-Dialogue: 0,0:03:15.91,0:03:20.84,DEFAULT,,0,0,0,,{\kf19}Fo{\kf23}-or{\kf34}ev{\kf26}er{\kf30} are{\kf30} lost{\kf30} on{\kf26} the{\kf126} mo{\kf96}on
+Dialogue: 0,0:00:13.24,0:00:15.82,DEFAULT,,0,0,0,,{\r}{\kf47}Say{\kf17}ing{\kf30} goes{\kf17} that{\kf17} when{\kf17} you're{\kf17} stuck{\kf17} on{\kf17} a{\kf43} moun{\kf19}tain
+Dialogue: 0,0:00:15.96,0:00:18.02,DEFAULT,,0,0,0,,{\r}{\kf18}You{\kf23} try{\kf18} to{\kf18} go{\kf37} up,{\kf18} you{\kf18} try{\kf14} to{\kf18} go{\kf24} down
+Dialogue: 0,0:00:18.21,0:00:19.90,DEFAULT,,0,0,0,,{\r}{\kf19}You{\kf19} turn{\kf23} a{\kf19}round{\kf14} to{\kf33} face{\kf14} the{\kf28} wall
+Dialogue: 0,0:00:20.05,0:00:21.63,DEFAULT,,0,0,0,,{\r}{\kf37}so{\kf33} you{\kf33} can{\kf19} face{\kf19} your{\kf17}self
+Dialogue: 0,0:00:21.78,0:00:24.28,DEFAULT,,0,0,0,,{\r}{\kf12}re{\kf20}a{\kf20}li{\kf16}zing{\kf16} you've{\kf20} made{\kf16} a{\kf20} mis{\kf20}ta{\kf25}-a{\kf25}-a{\kf40}-ake
+Dialogue: 0,0:00:24.61,0:00:26.57,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf19}-and{\kf19} you{\kf23} are{\kf19} be{\kf14}ing{\kf23} stuck{\kf19} on{\kf14} the{\kf19} mo{\kf10}on
+Dialogue: 0,0:00:26.71,0:00:27.67,DEFAULT,,0,0,0,,{\r}{\kf35}Like{\kf17} the{\kf22} rest{\kf17} of{\kf10} us
+Dialogue: 0,0:00:27.82,0:00:29.18,DEFAULT,,0,0,0,,{\r}{\kf24}Try{\kf19}ing{\kf15} to{\kf24} make{\kf29} sense{\kf15} of{\kf10} it
+Dialogue: 0,0:00:29.29,0:00:31.28,DEFAULT,,0,0,0,,{\r}{\kf42}Crying{\kf14} cause{\kf14} we{\kf19} don't{\kf19} have{\kf19} a{\kf14}ny{\kf37} rea{\kf21}son
+Dialogue: 0,0:00:31.57,0:00:32.97,DEFAULT,,0,0,0,,{\r}{\kf25}We're{\kf17} all{\kf21} a{\kf34}lone{\kf17} to{\kf17}ge{\kf10}ther
+Dialogue: 0,0:00:33.12,0:00:36.51,DEFAULT,,0,0,0,,{\r}{\kf22}'Cause{\kf30} we{\kf17} a{\kf22}-all{\kf22} share{\kf17} the{\kf17} ve{\kf13}ry{\kf22} same{\kf35} cri{\kf35}-i{\kf35}-i{\kf52}-ime
+Dialogue: 0,0:00:36.80,0:00:39.45,DEFAULT,,0,0,0,,{\r}{\kf38}Some{\kf14} will{\kf38} say{\kf24} that{\kf14} this{\kf14} is{\kf24} not{\kf19} going{\kf14} to{\kf38} last{\kf28} long
+Dialogue: 0,0:00:39.75,0:00:42.40,DEFAULT,,0,0,0,,{\r}{\kf34}Some{\kf19} will{\kf39} say{\kf19} that{\kf19} if{\kf14} we{\kf39} try{\kf19} we{\kf39} can't{\kf14} go{\kf10} wrong
+Dialogue: 0,0:00:42.58,0:00:44.90,DEFAULT,,0,0,0,,{\r}{\kf10}As{\kf32} time{\kf23} goes{\kf32} on{\kf23} we{\kf23} are{\kf19} not{\kf19} leav{\kf19}ing{\kf14} this{\kf18} place
+Dialogue: 0,0:00:45.12,0:00:46.41,DEFAULT,,0,0,0,,{\r}{\kf13}'Cause{\kf18} when{\kf18} we{\kf31} all{\kf22} come{\kf27} back
+Dialogue: 0,0:00:46.48,0:00:48.73,DEFAULT,,0,0,0,,{\r}{\kf27}We{\kf27} lose{\kf18} our{\kf36} track{\kf18} of{\kf18} time{\kf18} and{\kf63} space
+Dialogue: 0,0:01:10.78,0:01:14.02,DEFAULT,,0,0,0,,{\r}{\kf35}So{\kf22} to{\kf22}ge{\kf22}ther{\kf22} we{\kf22} are{\kf30} a{\kf22}-all{\kf35} lost{\kf30} on{\kf35} the{\kf27} moon
+Dialogue: 0,0:01:14.13,0:01:16.56,DEFAULT,,0,0,0,,{\r}{\kf14}We{\kf38} all{\kf19} share{\kf24} our{\kf29} ho{\kf29}-ome{\kf29} on{\kf19} the{\kf19}-e{\kf23} moon
+Dialogue: 0,0:01:16.71,0:01:19.54,DEFAULT,,0,0,0,,{\r}{\kf32}We{\kf18} for{\kf23}ev{\kf18}er{\kf18} we{\kf23} are{\kf23} lo{\kf23}-ost{\kf37} on{\kf18} the{\kf23}-e{\kf27} moon,
+Dialogue: 0,0:01:19.73,0:01:23.55,DEFAULT,,0,0,0,,{\r}{\kf30}To{\kf38}ge{\kf21}ther{\kf26} we{\kf30} pay{\kf21} your{\kf47} crime{\kf17} o{\kf17}-on{\kf26} the{\kf110} moon
+Dialogue: 0,0:01:23.85,0:01:26.57,DEFAULT,,0,0,0,,{\r}{\kf10}To{\kf44}ge{\kf18}ther{\kf26} we{\kf35} are{\kf35} lost{\kf31} on{\kf18} the{\kf26}-e{\kf29} moon
+Dialogue: 0,0:01:26.72,0:01:29.48,DEFAULT,,0,0,0,,{\r}{\kf10}We{\kf41} all{\kf46} share{\kf32} our{\kf46} home{\kf37} on{\kf18} the{\kf23}-e{\kf23} moon
+Dialogue: 0,0:01:29.78,0:01:34.86,DEFAULT,,0,0,0,,{\r}{\kf20}Fo{\kf41}-or{\kf28}ev{\kf37}er{\kf37} are{\kf37} lost{\kf33} on{\kf33} the{\kf134} mo{\kf108}-on
+Dialogue: 0,0:01:35.70,0:01:38.28,DEFAULT,,0,0,0,,{\r}{\kf39}Say{\kf22}ing{\kf35} goes{\kf13} that{\kf17} when{\kf17} you're{\kf22} stuck{\kf17} on{\kf17} a{\kf35} moun{\kf24}tain
+Dialogue: 0,0:01:38.43,0:01:40.60,DEFAULT,,0,0,0,,{\r}{\kf19}You{\kf24} try{\kf19} to{\kf19} go{\kf33} up,{\kf19} you{\kf19} try{\kf14} to{\kf19} go{\kf32} down
+Dialogue: 0,0:01:40.67,0:01:42.37,DEFAULT,,0,0,0,,{\r}{\kf14}You{\kf27} turn{\kf14} a{\kf23}round{\kf14} to{\kf32} face{\kf14} the{\kf31} wall
+Dialogue: 0,0:01:42.48,0:01:44.06,DEFAULT,,0,0,0,,{\r}{\kf32}So{\kf36} you{\kf41} can{\kf24} face{\kf12} your{\kf13}self
+Dialogue: 0,0:01:44.21,0:01:46.75,DEFAULT,,0,0,0,,{\r}{\kf17}Re{\kf21}a{\kf25}li{\kf17}zing{\kf13} you've{\kf17} made{\kf13} a{\kf21} mis{\kf25}ta{\kf25}-a{\kf21}-a{\kf39}-ake
+Dialogue: 0,0:01:47.08,0:01:49.07,DEFAULT,,0,0,0,,{\r}{\kf15}A{\kf15}-and{\kf19} you{\kf19} are{\kf19} be{\kf15}ing{\kf19} stuck{\kf19} on{\kf19} the{\kf24} mo{\kf16}on
+Dialogue: 0,0:01:49.21,0:01:50.13,DEFAULT,,0,0,0,,{\r}{\kf31}Like{\kf18} the{\kf22} rest{\kf13} of{\kf10} us
+Dialogue: 0,0:01:50.24,0:01:51.61,DEFAULT,,0,0,0,,{\r}{\kf23} try{\kf23}ing{\kf14} to{\kf27} make{\kf27} sense{\kf14} of{\kf10} it
+Dialogue: 0,0:01:51.72,0:01:53.78,DEFAULT,,0,0,0,,{\r}{\kf42} crying{\kf14} cause{\kf14} we{\kf19} don't{\kf19} have{\kf14} a{\kf19}ny{\kf33} rea{\kf32}son
+Dialogue: 0,0:01:54.04,0:01:55.44,DEFAULT,,0,0,0,,{\r}{\kf17}We{\kf21} are{\kf21} a{\kf38}lone{\kf17} to{\kf13}ge{\kf13}ther
+Dialogue: 0,0:01:55.58,0:01:58.93,DEFAULT,,0,0,0,,{\r}{\kf14}'Cause{\kf28} we{\kf23} a{\kf33}-all{\kf19} share{\kf14} the{\kf19} ve{\kf19}ry{\kf19} same{\kf37} cri{\kf37}-i{\kf28}-i{\kf45}-ime
+Dialogue: 0,0:01:59.26,0:02:01.88,DEFAULT,,0,0,0,,{\r}{\kf40}Some{\kf18} will{\kf35} say{\kf18} that{\kf18} this{\kf18} is{\kf18} not{\kf22} going{\kf13} to{\kf40} last{\kf21} long
+Dialogue: 0,0:02:02.17,0:02:04.86,DEFAULT,,0,0,0,,{\r}{\kf42}Some{\kf19} will{\kf33} say{\kf19} that{\kf14} if{\kf19} we{\kf33} try{\kf19} we{\kf47} can't{\kf14} go{\kf10} wrong
+Dialogue: 0,0:02:05.01,0:02:07.36,DEFAULT,,0,0,0,,{\r}{\kf10}As{\kf32} time{\kf23} goes{\kf27} on{\kf27} we{\kf23} are{\kf18} not{\kf18} lea{\kf18}ving{\kf18} this{\kf22} place
+Dialogue: 0,0:02:07.55,0:02:08.87,DEFAULT,,0,0,0,,{\r}{\kf17}'Cause{\kf21} when{\kf17} we{\kf30} all{\kf21} come{\kf27} back
+Dialogue: 0,0:02:08.95,0:02:11.04,DEFAULT,,0,0,0,,{\r}{\kf18}We{\kf35} lose{\kf18} our{\kf39} track{\kf18} of{\kf22} time{\kf13} and{\kf47} space
+Dialogue: 0,0:02:56.77,0:02:59.97,DEFAULT,,0,0,0,,{\r}{\kf36}So{\kf23} to{\kf23}ge{\kf18}ther{\kf18} we{\kf27} are{\kf32} a{\kf27}-all{\kf27} lost{\kf23} o{\kf14}-on{\kf27} the{\kf25} moon
+Dialogue: 0,0:03:00.16,0:03:02.58,DEFAULT,,0,0,0,,{\r}{\kf18}We{\kf35} all{\kf18} share{\kf22} our{\kf35} ho{\kf27}-ome{\kf27} on{\kf18} the{\kf18}-e{\kf25} moon
+Dialogue: 0,0:03:02.81,0:03:05.53,DEFAULT,,0,0,0,,{\r}{\kf27}We{\kf18} for{\kf22}ev{\kf18}er{\kf13} we{\kf22} are{\kf22} lo{\kf27}-ost{\kf36} on{\kf18} the{\kf18}-e{\kf31} moon
+Dialogue: 0,0:03:05.75,0:03:09.58,DEFAULT,,0,0,0,,{\r}{\kf21}To{\kf38}ge{\kf30}ther{\kf26} we{\kf34} pay{\kf21} your{\kf38} crime{\kf13} o{\kf21}-on{\kf26} the{\kf115} moon
+Dialogue: 0,0:03:09.87,0:03:12.49,DEFAULT,,0,0,0,,{\r}{\kf16}To{\kf24}ge{\kf24}ther{\kf33} we{\kf37} are{\kf37} lost{\kf33} on{\kf16} the{\kf20}-e{\kf21} moon
+Dialogue: 0,0:03:12.71,0:03:15.51,DEFAULT,,0,0,0,,{\r}{\kf10}We{\kf23} a{\kf27}-all{\kf41} share{\kf32} our{\kf45} home{\kf36} on{\kf14} the{\kf23}-e{\kf29} moon
+Dialogue: 0,0:03:15.91,0:03:20.84,DEFAULT,,0,0,0,,{\r}{\kf21}Fo{\kf25}-or{\kf38}ev{\kf29}er{\kf33} are{\kf33} lost{\kf33} on{\kf29} the{\kf142} mo{\kf110}on

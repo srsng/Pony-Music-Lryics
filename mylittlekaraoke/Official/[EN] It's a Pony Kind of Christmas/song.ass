@@ -1,52 +1,59 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: It's a Pony Kind of Christmas
+Artist: Daniel Ingram
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.38,0:00:03.01,DEFAULT,,0,0,0,,{\kf15}It's{\kf15} a{\kf24} po{\kf29}ny{\kf33} kind{\kf24} of{\kf24} Christ{\kf38}mas
-Dialogue: 0,0:00:03.38,0:00:06.06,DEFAULT,,0,0,0,,{\kf29}In{\kf24} ev{\kf33}ery{\kf19} co{\kf38}lor{\kf76} shade
-Dialogue: 0,0:00:06.43,0:00:09.39,DEFAULT,,0,0,0,,{\kf15}All{\kf15} a{\kf33}round{\kf24} the{\kf33} world{\kf15} of{\kf15} E{\kf24}ques{\kf29}tri{\kf33}a
-Dialogue: 0,0:00:09.67,0:00:12.12,DEFAULT,,0,0,0,,{\kf15}It's{\kf19} Christ{\kf15}mas{\kf24} time{\kf43} here{\kf15} to{\kf76}day
-Dialogue: 0,0:00:12.54,0:00:15.21,DEFAULT,,0,0,0,,{\kf15}It's{\kf15} a{\kf29} po{\kf19}ny{\kf33} kind{\kf24} of{\kf29} Christ{\kf43}mas
-Dialogue: 0,0:00:15.59,0:00:18.27,DEFAULT,,0,0,0,,{\kf24}Its{\kf62} light{\kf19} ne{\kf38}ver{\kf85} fades
-Dialogue: 0,0:00:18.64,0:00:21.74,DEFAULT,,0,0,0,,{\kf15}All{\kf15} a{\kf29}round{\kf29} the{\kf33} world{\kf15} of{\kf19} E{\kf24}ques{\kf29}tri{\kf47}a
-Dialogue: 0,0:00:22.02,0:00:25.22,DEFAULT,,0,0,0,,{\kf19}Christ{\kf19}mas{\kf19} is{\kf47} here{\kf15} to{\kf165} stay
-Dialogue: 0,0:00:26.62,0:00:29.91,DEFAULT,,0,0,0,,{\kf29}Christ{\kf33}mas{\kf29} is{\kf29} a{\kf52} time{\kf19} of{\kf99} joy
-Dialogue: 0,0:00:30.38,0:00:34.42,DEFAULT,,0,0,0,,{\kf19}When{\kf24} the{\kf19} li{\kf19}-i{\kf15}-ight{\kf15} of{\kf24} friend{\kf29}ship{\kf29} bu{\kf33}-urns{\kf19} bri{\kf94}-ight
-Dialogue: 0,0:00:35.73,0:00:38.50,DEFAULT,,0,0,0,,{\kf24}Tak{\kf24}in'{\kf33} time{\kf33} for{\kf43} fa{\kf19}mi{\kf52}ly
-Dialogue: 0,0:00:39.44,0:00:43.10,DEFAULT,,0,0,0,,{\kf19}To{\kf24} re{\kf43}call{\kf19} the{\kf29} past{\kf29} and{\kf38} do{\kf29} what's{\kf76} right
-Dialogue: 0,0:00:44.61,0:00:48.13,DEFAULT,,0,0,0,,{\kf19}And{\kf24} out{\kf29}side{\kf24} gen{\kf19}tle{\kf52} snow{\kf19} is{\kf15} fa{\kf15}-al{\kf57}ling
-Dialogue: 0,0:00:48.64,0:00:52.82,DEFAULT,,0,0,0,,{\kf19}Fo{\kf24}rest{\kf29} crea{\kf33}tures{\kf24} kee{\kf33}ping{\kf66} warm{\kf19} be{\kf108}low
-Dialogue: 0,0:00:53.72,0:00:57.14,DEFAULT,,0,0,0,,{\kf19}And{\kf33} all{\kf33} through{\kf38}out{\kf29} E{\kf47}ques{\kf19}tri{\kf90}a
-Dialogue: 0,0:00:57.57,0:01:01.79,DEFAULT,,0,0,0,,{\kf15}We{\kf19} feel{\kf19} the{\kf38} li{\kf15}-ight{\kf15} of{\kf24} friend{\kf33}ship{\kf38} on{\kf15}ly{\kf15}-y{\kf118} grow
-Dialogue: 0,0:01:02.64,0:01:05.36,DEFAULT,,0,0,0,,{\kf15}It's{\kf19} a{\kf24} po{\kf19}ny{\kf33} kind{\kf29} of{\kf24} Christ{\kf43}mas
-Dialogue: 0,0:01:05.83,0:01:08.36,DEFAULT,,0,0,0,,{\kf15}Its{\kf66} light{\kf19} ne{\kf33}ver{\kf76} fades
-Dialogue: 0,0:01:08.74,0:01:11.89,DEFAULT,,0,0,0,,{\kf19}All{\kf15} a{\kf33}round{\kf33} the{\kf33} world{\kf15} of{\kf15} E{\kf24}ques{\kf38}tri{\kf47}a
-Dialogue: 0,0:01:12.17,0:01:15.50,DEFAULT,,0,0,0,,{\kf15}Christ{\kf15}mas{\kf33} is{\kf52} here{\kf15} to{\kf179} stay
-Dialogue: 0,0:01:16.68,0:01:18.69,DEFAULT,,0,0,0,,{\kf24}Da{\kf33}shing{\kf29} through{\kf24} the{\kf52} snow
-Dialogue: 0,0:01:19.02,0:01:21.89,DEFAULT,,0,0,0,,{\kf19}In{\kf19} a{\kf29} one{\kf29}-horse{\kf29} o{\kf29}pen{\kf76} sleigh
-Dialogue: 0,0:01:22.59,0:01:25.17,DEFAULT,,0,0,0,,{\kf15}O{\kf15}ver{\kf19} the{\kf29} fields{\kf24} we{\kf71} go{\kf33}-o
-Dialogue: 0,0:01:25.55,0:01:27.52,DEFAULT,,0,0,0,,{\kf29}Laugh{\kf29}ing{\kf29} all{\kf29} the{\kf47} way
-Dialogue: 0,0:01:28.55,0:01:31.28,DEFAULT,,0,0,0,,{\kf29}De{\kf29}co{\kf33}rate{\kf33} with{\kf33} boughs{\kf33} of{\kf29} hol{\kf19}ly
-Dialogue: 0,0:01:31.51,0:01:33.86,DEFAULT,,0,0,0,,{\kf29}Fill{\kf24} the{\kf29} halls{\kf19} with{\kf33} won{\kf52}der
-Dialogue: 0,0:01:34.47,0:01:37.24,DEFAULT,,0,0,0,,{\kf24}Wrap{\kf19} the{\kf29} pre{\kf29}sents,{\kf29} sil{\kf29}ver{\kf29} pa{\kf19}per
-Dialogue: 0,0:01:37.43,0:01:40.25,DEFAULT,,0,0,0,,{\kf29}Trim{\kf24} the{\kf33} tree{\kf24} and{\kf33} place{\kf29} them{\kf24} un{\kf24}der
-Dialogue: 0,0:01:40.43,0:01:45.83,DEFAULT,,0,0,0,,{\kf29}Time{\kf24} for{\kf29} coun{\kf29}ting{\kf29} down{\kf29} the{\kf33} days{\kf24} to{\kf24} Christ{\kf212}mas
-Dialogue: 0,0:01:46.35,0:01:52.03,DEFAULT,,0,0,0,,{\kf29}Ev{\kf24}ery{\kf33} day{\kf24} that{\kf29} pas{\kf33}ses{\kf33} is{\kf24} a{\kf29} par{\kf29}ty{\kf19} we{\kf52} can{\kf90} throw
-Dialogue: 0,0:01:52.27,0:01:57.34,DEFAULT,,0,0,0,,{\kf29}Time{\kf29} for{\kf29} coun{\kf29}ting{\kf29} down{\kf24} the{\kf33} days{\kf29} to{\kf24} Christ{\kf104}ma{\kf66}-as
-Dialogue: 0,0:01:57.85,0:02:03.30,DEFAULT,,0,0,0,,{\kf24}And{\kf62} e{\kf62}very{\kf62}day{\kf62} our{\kf62} friend{\kf62}ship{\kf71} grows
-Dialogue: 0,0:02:03.72,0:02:06.45,DEFAULT,,0,0,0,,{\kf15}It's{\kf19} a{\kf29} po{\kf29}ny{\kf33} kind{\kf29} of{\kf29} Christ{\kf43}mas
-Dialogue: 0,0:02:06.91,0:02:09.50,DEFAULT,,0,0,0,,{\kf19}In{\kf24} e{\kf29}very{\kf19} co{\kf24}lor{\kf85} shade
-Dialogue: 0,0:02:09.83,0:02:12.78,DEFAULT,,0,0,0,,{\kf15}All{\kf15} a{\kf29}round{\kf24} the{\kf33} world{\kf15} of{\kf15} E{\kf29}ques{\kf38}tri{\kf33}a
-Dialogue: 0,0:02:13.02,0:02:15.55,DEFAULT,,0,0,0,,{\kf15}It's{\kf15} Christ{\kf19}mas{\kf29} time{\kf47} here{\kf15} to{\kf80}day
-Dialogue: 0,0:02:15.84,0:02:18.51,DEFAULT,,0,0,0,,{\kf19}It's{\kf15} a{\kf33} po{\kf29}ny{\kf33} kind{\kf24} of{\kf24} Christ{\kf38}mas
-Dialogue: 0,0:02:18.93,0:02:21.61,DEFAULT,,0,0,0,,{\kf29}Its{\kf62} light{\kf19} ne{\kf43}ver{\kf80} fades
-Dialogue: 0,0:02:21.99,0:02:25.04,DEFAULT,,0,0,0,,{\kf15}All{\kf15} a{\kf24}round{\kf24} the{\kf29} world{\kf15} of{\kf15} E{\kf29}ques{\kf33}tri{\kf43}a
-Dialogue: 0,0:02:25.32,0:02:27.71,DEFAULT,,0,0,0,,{\kf19}Christ{\kf19}mas{\kf24} is{\kf160} here
-Dialogue: 0,0:02:28.04,0:02:31.10,DEFAULT,,0,0,0,,{\kf24}To{\kf263} stay
+Dialogue: 0,0:00:00.38,0:00:03.01,DEFAULT,,0,0,0,,{\r}{\kf19}It's{\kf19} a{\kf31} po{\kf38}ny{\kf44} kind{\kf31} of{\kf31} Christ{\kf50}mas
+Dialogue: 0,0:00:03.39,0:00:06.06,DEFAULT,,0,0,0,,{\r}{\kf35}In{\kf29} ev{\kf41}ery{\kf23} co{\kf47}lor{\kf93} shade
+Dialogue: 0,0:00:06.44,0:00:09.40,DEFAULT,,0,0,0,,{\r}{\kf18}All{\kf18} a{\kf42}round{\kf30} the{\kf42} world{\kf18} of{\kf18} E{\kf30}ques{\kf36}tri{\kf44}a
+Dialogue: 0,0:00:09.68,0:00:12.12,DEFAULT,,0,0,0,,{\r}{\kf17}It's{\kf23} Christ{\kf17}mas{\kf28} time{\kf51} here{\kf17} to{\kf91}day
+Dialogue: 0,0:00:12.54,0:00:15.22,DEFAULT,,0,0,0,,{\r}{\kf19}It's{\kf19} a{\kf37} po{\kf25}ny{\kf44} kind{\kf31} of{\kf37} Christ{\kf56}mas
+Dialogue: 0,0:00:15.59,0:00:18.27,DEFAULT,,0,0,0,,{\r}{\kf28}Its{\kf73} light{\kf22} ne{\kf45}ver{\kf100} fades
+Dialogue: 0,0:00:18.65,0:00:21.75,DEFAULT,,0,0,0,,{\r}{\kf18}All{\kf18} a{\kf35}round{\kf35} the{\kf41} world{\kf18} of{\kf23} E{\kf29}ques{\kf35}tri{\kf58}a
+Dialogue: 0,0:00:22.03,0:00:25.22,DEFAULT,,0,0,0,,{\r}{\kf21}Christ{\kf21}mas{\kf21} is{\kf53} here{\kf16} to{\kf187} stay
+Dialogue: 0,0:00:26.63,0:00:29.92,DEFAULT,,0,0,0,,{\r}{\kf32}Christ{\kf38}mas{\kf32} is{\kf32} a{\kf59} time{\kf22} of{\kf114} joy
+Dialogue: 0,0:00:30.38,0:00:34.42,DEFAULT,,0,0,0,,{\r}{\kf23}When{\kf28} the{\kf23} li{\kf23}-i{\kf17}-ight{\kf17} of{\kf28} friend{\kf34}ship{\kf34} bu{\kf40}-urns{\kf23} bri{\kf114}-ight
+Dialogue: 0,0:00:35.74,0:00:38.51,DEFAULT,,0,0,0,,{\r}{\kf29}Tak{\kf29}in'{\kf40} time{\kf40} for{\kf52} fa{\kf23}mi{\kf64}ly
+Dialogue: 0,0:00:39.45,0:00:43.11,DEFAULT,,0,0,0,,{\r}{\kf23}To{\kf29} re{\kf51}call{\kf23} the{\kf34} past{\kf34} and{\kf46} do{\kf34} what's{\kf92} right
+Dialogue: 0,0:00:44.61,0:00:48.13,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf31} out{\kf37}side{\kf31} gen{\kf25}tle{\kf68} snow{\kf25} is{\kf19} fa{\kf19}-al{\kf72}ling
+Dialogue: 0,0:00:48.65,0:00:52.83,DEFAULT,,0,0,0,,{\r}{\kf22}Fo{\kf28}rest{\kf33} crea{\kf39}tures{\kf28} kee{\kf39}ping{\kf78} warm{\kf22} be{\kf129}low
+Dialogue: 0,0:00:53.72,0:00:57.15,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf37} all{\kf37} through{\kf42}out{\kf32} E{\kf53}ques{\kf21}tri{\kf100}a
+Dialogue: 0,0:00:57.57,0:01:01.80,DEFAULT,,0,0,0,,{\r}{\kf17}We{\kf22} feel{\kf22} the{\kf45} li{\kf17}-ight{\kf17} of{\kf28} friend{\kf39}ship{\kf45} on{\kf17}ly{\kf17}-y{\kf137} grow
+Dialogue: 0,0:01:02.64,0:01:05.36,DEFAULT,,0,0,0,,{\r}{\kf19}It's{\kf25} a{\kf32} po{\kf25}ny{\kf44} kind{\kf38} of{\kf32} Christ{\kf57}mas
+Dialogue: 0,0:01:05.83,0:01:08.37,DEFAULT,,0,0,0,,{\r}{\kf17}Its{\kf81} light{\kf23} ne{\kf40}ver{\kf93} fades
+Dialogue: 0,0:01:08.75,0:01:11.89,DEFAULT,,0,0,0,,{\r}{\kf22}All{\kf17} a{\kf39}round{\kf39} the{\kf39} world{\kf17} of{\kf17} E{\kf28}ques{\kf44}tri{\kf53}a
+Dialogue: 0,0:01:12.17,0:01:15.51,DEFAULT,,0,0,0,,{\r}{\kf15}Christ{\kf15}mas{\kf36} is{\kf56} here{\kf15} to{\kf196} stay
+Dialogue: 0,0:01:16.68,0:01:18.70,DEFAULT,,0,0,0,,{\r}{\kf30}Da{\kf42}shing{\kf36} through{\kf30} the{\kf64} snow
+Dialogue: 0,0:01:19.03,0:01:21.89,DEFAULT,,0,0,0,,{\r}{\kf24}In{\kf24} a{\kf36} one{\kf36}-horse{\kf36} o{\kf36}pen{\kf94} sleigh
+Dialogue: 0,0:01:22.60,0:01:25.18,DEFAULT,,0,0,0,,{\r}{\kf18}O{\kf18}ver{\kf24} the{\kf36} fields{\kf30} we{\kf90} go{\kf42}-o
+Dialogue: 0,0:01:25.55,0:01:27.53,DEFAULT,,0,0,0,,{\r}{\kf35}Laugh{\kf35}ing{\kf35} all{\kf35} the{\kf57} way
+Dialogue: 0,0:01:28.56,0:01:31.28,DEFAULT,,0,0,0,,{\r}{\kf33}De{\kf33}co{\kf38}rate{\kf38} with{\kf38} boughs{\kf38} of{\kf33} hol{\kf21}ly
+Dialogue: 0,0:01:31.52,0:01:33.86,DEFAULT,,0,0,0,,{\r}{\kf36}Fill{\kf30} the{\kf36} halls{\kf24} with{\kf42} won{\kf67}der
+Dialogue: 0,0:01:34.48,0:01:37.25,DEFAULT,,0,0,0,,{\r}{\kf32}Wrap{\kf26} the{\kf39} pre{\kf39}sents,{\kf39} sil{\kf39}ver{\kf39} pa{\kf24}per
+Dialogue: 0,0:01:37.43,0:01:40.25,DEFAULT,,0,0,0,,{\r}{\kf37}Trim{\kf31} the{\kf43} tree{\kf31} and{\kf43} place{\kf37} them{\kf31} un{\kf29}der
+Dialogue: 0,0:01:40.44,0:01:45.84,DEFAULT,,0,0,0,,{\r}{\kf33}Time{\kf28} for{\kf33} coun{\kf33}ting{\kf33} down{\kf33} the{\kf39} days{\kf28} to{\kf28} Christ{\kf252}mas
+Dialogue: 0,0:01:46.35,0:01:52.04,DEFAULT,,0,0,0,,{\r}{\kf36}Ev{\kf30}ery{\kf42} day{\kf30} that{\kf36} pas{\kf42}ses{\kf42} is{\kf30} a{\kf36} par{\kf36}ty{\kf24} we{\kf66} can{\kf118} throw
+Dialogue: 0,0:01:52.27,0:01:57.34,DEFAULT,,0,0,0,,{\r}{\kf34}Time{\kf34} for{\kf34} coun{\kf34}ting{\kf34} down{\kf28} the{\kf40} days{\kf34} to{\kf28} Christ{\kf125}ma{\kf82}-as
+Dialogue: 0,0:01:57.86,0:02:03.30,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf72} e{\kf72}very{\kf72}day{\kf72} our{\kf72} friend{\kf72}ship{\kf85} grows
+Dialogue: 0,0:02:03.73,0:02:06.45,DEFAULT,,0,0,0,,{\r}{\kf17}It's{\kf23} a{\kf35} po{\kf35}ny{\kf41} kind{\kf35} of{\kf35} Christ{\kf51}mas
+Dialogue: 0,0:02:06.92,0:02:09.50,DEFAULT,,0,0,0,,{\r}{\kf25}In{\kf31} e{\kf37}very{\kf25} co{\kf31}lor{\kf109} shade
+Dialogue: 0,0:02:09.83,0:02:12.79,DEFAULT,,0,0,0,,{\r}{\kf17}All{\kf17} a{\kf35}round{\kf29} the{\kf41} world{\kf17} of{\kf17} E{\kf35}ques{\kf46}tri{\kf42}a
+Dialogue: 0,0:02:13.02,0:02:15.56,DEFAULT,,0,0,0,,{\r}{\kf17}It's{\kf17} Christ{\kf22}mas{\kf33} time{\kf55} here{\kf17} to{\kf93}day
+Dialogue: 0,0:02:15.84,0:02:18.52,DEFAULT,,0,0,0,,{\r}{\kf24}It's{\kf18} a{\kf42} po{\kf36}ny{\kf42} kind{\kf30} of{\kf30} Christ{\kf46}mas
+Dialogue: 0,0:02:18.94,0:02:21.62,DEFAULT,,0,0,0,,{\r}{\kf33}Its{\kf71} light{\kf22} ne{\kf49}ver{\kf93} fades
+Dialogue: 0,0:02:21.99,0:02:25.04,DEFAULT,,0,0,0,,{\r}{\kf18}All{\kf18} a{\kf30}round{\kf30} the{\kf37} world{\kf18} of{\kf18} E{\kf37}ques{\kf43}tri{\kf56}a
+Dialogue: 0,0:02:25.33,0:02:27.72,DEFAULT,,0,0,0,,{\r}{\kf20}Christ{\kf20}mas{\kf25} is{\kf174} here
+Dialogue: 0,0:02:28.05,0:02:31.10,DEFAULT,,0,0,0,,{\r}{\kf25}To{\kf280} stay

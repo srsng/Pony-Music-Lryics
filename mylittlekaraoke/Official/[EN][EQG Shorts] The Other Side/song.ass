@@ -1,60 +1,67 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: The Other Side
+Artist: Equestria Girls Shorts
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:28.04,0:00:30.19,DEFAULT,,0,0,0,,{\kf12}Sit{\kf17}ting{\kf17} here{\kf17} with{\kf17} my{\kf12} head{\kf17} in{\kf17} my{\kf17} hands
-Dialogue: 0,0:00:30.35,0:00:32.40,DEFAULT,,0,0,0,,{\kf23}I{\kf39}deas{\kf12} that{\kf17} come{\kf17} and{\kf61} go
-Dialogue: 0,0:00:32.90,0:00:35.27,DEFAULT,,0,0,0,,{\kf17}Sket{\kf17}ching{\kf12} my{\kf23} heart{\kf23} out,{\kf17} no{\kf17}thing{\kf12} will{\kf28} turn{\kf17} out
-Dialogue: 0,0:00:35.38,0:00:37.26,DEFAULT,,0,0,0,,{\kf12}E{\kf12}very{\kf17}thing{\kf23} seems{\kf17} so{\kf34}-so{\kf28}-o
-Dialogue: 0,0:00:37.54,0:00:40.02,DEFAULT,,0,0,0,,{\kf17}I've{\kf12} been{\kf17} here{\kf12} be{\kf23}fore,{\kf23} and{\kf12} I{\kf23} know{\kf12} that{\kf23} I{\kf17} can
-Dialogue: 0,0:00:40.19,0:00:42.01,DEFAULT,,0,0,0,,{\kf23}Do{\kf28} it{\kf12} if{\kf23} I{\kf34} try{\kf28}-y
-Dialogue: 0,0:00:42.23,0:00:44.38,DEFAULT,,0,0,0,,{\kf17}But{\kf28} why{\kf28}-y,{\kf23} oh{\kf34} why{\kf28}-y
-Dialogue: 0,0:00:44.66,0:00:46.32,DEFAULT,,0,0,0,,{\kf6}Do{\kf6} you{\kf17} stum{\kf23}ble{\kf12} be{\kf17}fore{\kf6} yo{\kf6}-u{\kf17} fly?
-Dialogue: 0,0:00:46.48,0:00:47.92,DEFAULT,,0,0,0,,{\kf23}My{\kf23} wheels{\kf23} keep{\kf23} tur{\kf23}nin'
-Dialogue: 0,0:00:48.86,0:00:50.30,DEFAULT,,0,0,0,,{\kf17}My{\kf23} fire's{\kf23} still{\kf28} bur{\kf23}nin'
-Dialogue: 0,0:00:51.12,0:00:52.67,DEFAULT,,0,0,0,,{\kf12}'Cause{\kf17} right{\kf23} now{\kf17} I'm{\kf28} lear{\kf23}nin'
-Dialogue: 0,0:00:53.94,0:00:55.87,DEFAULT,,0,0,0,,{\kf23}How{\kf17} to{\kf17} get{\kf17} to{\kf12} the{\kf23} o{\kf17}ther{\kf17} side
-Dialogue: 0,0:00:56.04,0:00:57.53,DEFAULT,,0,0,0,,{\kf12}It's{\kf12} a{\kf23} game{\kf23} of{\kf23} wai{\kf28}tin'
-Dialogue: 0,0:00:58.42,0:00:59.91,DEFAULT,,0,0,0,,{\kf23}An{\kf17}ti{\kf17}ci{\kf23}pa{\kf28}tin'
-Dialogue: 0,0:01:00.79,0:01:02.34,DEFAULT,,0,0,0,,{\kf12}But{\kf12} I{\kf23} keep{\kf28} cre{\kf23}a{\kf28}tin'
-Dialogue: 0,0:01:03.33,0:01:05.15,DEFAULT,,0,0,0,,{\kf23}So{\kf17} I{\kf23} can{\kf17} get{\kf17} to{\kf12} the{\kf17} o{\kf17}ther
-Dialogue: 0,0:01:05.37,0:01:07.31,DEFAULT,,0,0,0,,{\kf17}Get{\kf17} to{\kf17} the{\kf12} o{\kf17}ther{\kf34} si{\kf39}-ide
-Dialogue: 0,0:01:10.13,0:01:12.00,DEFAULT,,0,0,0,,{\kf17}Get{\kf17} to{\kf17} the{\kf17} o{\kf17}ther{\kf34} si{\kf34}-ide
-Dialogue: 0,0:01:12.28,0:01:13.77,DEFAULT,,0,0,0,,{\kf17}He{\kf128}-y!
-Dialogue: 0,0:01:17.03,0:01:18.52,DEFAULT,,0,0,0,,{\kf17}He{\kf128}-y!
-Dialogue: 0,0:01:19.68,0:01:21.61,DEFAULT,,0,0,0,,{\kf23}Get{\kf12} to{\kf17} the{\kf23} o{\kf17}ther{\kf39} si{\kf28}-ide
-Dialogue: 0,0:01:22.50,0:01:24.38,DEFAULT,,0,0,0,,{\kf23}So{\kf23} I{\kf17} can{\kf17} get{\kf17} to{\kf17} the{\kf12} o{\kf12}ther
-Dialogue: 0,0:01:24.60,0:01:25.59,DEFAULT,,0,0,0,,{\kf12}Get{\kf12} to{\kf17} the{\kf17} o{\kf23}ther
-Dialogue: 0,0:01:25.76,0:01:26.81,DEFAULT,,0,0,0,,{\kf17}Keep{\kf23} on{\kf12} be{\kf23}lie{\kf12}vin'
-Dialogue: 0,0:01:26.97,0:01:27.91,DEFAULT,,0,0,0,,{\kf12}I'll{\kf17} be{\kf12} a{\kf23}chie{\kf6}vin'
-Dialogue: 0,0:01:28.02,0:01:30.12,DEFAULT,,0,0,0,,{\kf12}The{\kf23} har{\kf17}der{\kf17} that{\kf23} I{\kf39} go{\kf28}-o
-Dialogue: 0,0:01:30.56,0:01:31.61,DEFAULT,,0,0,0,,{\kf17}Don't{\kf12} real{\kf12}ly{\kf28} know{\kf12} how
-Dialogue: 0,0:01:31.83,0:01:32.66,DEFAULT,,0,0,0,,{\kf12}I{\kf12} won't{\kf17} give{\kf17} up{\kf6} now
-Dialogue: 0,0:01:32.83,0:01:34.93,DEFAULT,,0,0,0,,{\kf12}Un{\kf28}til{\kf12} I{\kf23} steal{\kf12} the{\kf12} sho{\kf17}-o{\kf39}-ow
-Dialogue: 0,0:01:35.15,0:01:36.42,DEFAULT,,0,0,0,,{\kf17}With{\kf23} time,{\kf12} it{\kf12} gets{\kf23} bet{\kf12}ter
-Dialogue: 0,0:01:36.47,0:01:37.63,DEFAULT,,0,0,0,,{\kf6}I'll{\kf12} be{\kf12} a{\kf17} trend{\kf28}set{\kf12}ter
-Dialogue: 0,0:01:37.80,0:01:39.51,DEFAULT,,0,0,0,,{\kf12}Do{\kf6}in'{\kf12} it{\kf17} my{\kf28} own{\kf28} wa{\kf23}-ay
-Dialogue: 0,0:01:40.12,0:01:41.94,DEFAULT,,0,0,0,,{\kf28}He{\kf23}-y,{\kf23} hey{\kf34} he{\kf28}-y
-Dialogue: 0,0:01:42.27,0:01:43.87,DEFAULT,,0,0,0,,{\kf17}Won't{\kf23} stop{\kf12} 'til{\kf12} I{\kf23} seize{\kf6} the{\kf12}-e{\kf17} day
-Dialogue: 0,0:01:44.10,0:01:45.64,DEFAULT,,0,0,0,,{\kf17}My{\kf28} wheels{\kf23} keep{\kf28} tur{\kf39}nin'
-Dialogue: 0,0:01:46.42,0:01:47.91,DEFAULT,,0,0,0,,{\kf17}My{\kf28} fire's{\kf23} still{\kf23} bur{\kf28}nin'
-Dialogue: 0,0:01:48.68,0:01:50.34,DEFAULT,,0,0,0,,{\kf17}'Cause{\kf17} right{\kf23} now{\kf17} I'm{\kf34} lear{\kf28}nin'
-Dialogue: 0,0:01:51.50,0:01:53.49,DEFAULT,,0,0,0,,{\kf23}How{\kf17} to{\kf23} get{\kf17} to{\kf12} the{\kf17} o{\kf23}ther{\kf17} side
-Dialogue: 0,0:01:53.71,0:01:55.09,DEFAULT,,0,0,0,,{\kf12}It's{\kf6} a{\kf23} game{\kf17} of{\kf28} wai{\kf28}tin'
-Dialogue: 0,0:01:56.03,0:01:57.52,DEFAULT,,0,0,0,,{\kf17}An{\kf12}ti{\kf17}ci{\kf23}pa{\kf28}tin'
-Dialogue: 0,0:01:58.40,0:01:59.95,DEFAULT,,0,0,0,,{\kf12}But{\kf12} I{\kf23} keep{\kf23} cre{\kf23}a{\kf34}tin'
-Dialogue: 0,0:02:00.94,0:02:02.71,DEFAULT,,0,0,0,,{\kf17}So{\kf23} I{\kf17} can{\kf23} get{\kf12} to{\kf17} the{\kf17} o{\kf12}ther
-Dialogue: 0,0:02:02.93,0:02:04.75,DEFAULT,,0,0,0,,{\kf17}Get{\kf12} to{\kf17} the{\kf17} o{\kf6}the{\kf6}-er{\kf28} si{\kf34}-ide
-Dialogue: 0,0:02:07.74,0:02:09.50,DEFAULT,,0,0,0,,{\kf17}Get{\kf17} to{\kf12} the{\kf23} o{\kf17}ther{\kf23} si{\kf28}-ide
-Dialogue: 0,0:02:09.84,0:02:11.33,DEFAULT,,0,0,0,,{\kf23}He{\kf122}-y!
-Dialogue: 0,0:02:14.64,0:02:16.08,DEFAULT,,0,0,0,,{\kf17}He{\kf122}-y!
-Dialogue: 0,0:02:17.29,0:02:19.23,DEFAULT,,0,0,0,,{\kf17}Get{\kf17} to{\kf12} the{\kf23} o{\kf23}ther{\kf34} si{\kf34}-ide
-Dialogue: 0,0:02:20.11,0:02:21.88,DEFAULT,,0,0,0,,{\kf17}So{\kf23} I{\kf23} can{\kf23} get{\kf17} to{\kf17} the{\kf17} o{\kf6}ther
-Dialogue: 0,0:02:22.04,0:02:24.03,DEFAULT,,0,0,0,,{\kf23}Get{\kf17} to{\kf17} the{\kf17} o{\kf17}ther{\kf28} si{\kf39}-ide
+Dialogue: 0,0:00:28.04,0:00:30.19,DEFAULT,,0,0,0,,{\r}{\kf17}Sit{\kf26}ting{\kf26} here{\kf26} with{\kf26} my{\kf17} head{\kf26} in{\kf26} my{\kf25} hands
+Dialogue: 0,0:00:30.36,0:00:32.40,DEFAULT,,0,0,0,,{\r}{\kf27}I{\kf48}deas{\kf14} that{\kf20} come{\kf20} and{\kf75} go
+Dialogue: 0,0:00:32.90,0:00:35.28,DEFAULT,,0,0,0,,{\r}{\kf22}Sket{\kf22}ching{\kf15} my{\kf30} heart{\kf30} out,{\kf22} no{\kf22}thing{\kf15} will{\kf37} turn{\kf23} out
+Dialogue: 0,0:00:35.39,0:00:37.26,DEFAULT,,0,0,0,,{\r}{\kf15}E{\kf15}very{\kf23}thing{\kf30} seems{\kf23} so{\kf45}-so{\kf37}-o
+Dialogue: 0,0:00:37.54,0:00:40.03,DEFAULT,,0,0,0,,{\r}{\kf23}I've{\kf15} been{\kf23} here{\kf15} be{\kf30}fore,{\kf30} and{\kf15} I{\kf30} know{\kf15} that{\kf30} I{\kf23} can
+Dialogue: 0,0:00:40.19,0:00:42.01,DEFAULT,,0,0,0,,{\r}{\kf28}Do{\kf35} it{\kf14} if{\kf28} I{\kf42} try{\kf35}-y
+Dialogue: 0,0:00:42.24,0:00:44.39,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf38} why{\kf38}-y,{\kf31} oh{\kf46} why{\kf39}-y
+Dialogue: 0,0:00:44.67,0:00:46.32,DEFAULT,,0,0,0,,{\r}{\kf10}Do{\kf10} you{\kf26} stum{\kf35}ble{\kf17} be{\kf26}fore{\kf10} yo{\kf10}-u{\kf22} fly?
+Dialogue: 0,0:00:46.49,0:00:47.93,DEFAULT,,0,0,0,,{\r}{\kf29}My{\kf29} wheels{\kf29} keep{\kf29} tur{\kf28}nin'
+Dialogue: 0,0:00:48.86,0:00:50.30,DEFAULT,,0,0,0,,{\r}{\kf22}My{\kf29} fire's{\kf29} still{\kf36} bur{\kf28}nin'
+Dialogue: 0,0:00:51.13,0:00:52.68,DEFAULT,,0,0,0,,{\r}{\kf15}'Cause{\kf22} right{\kf30} now{\kf22} I'm{\kf37} lear{\kf29}nin'
+Dialogue: 0,0:00:53.95,0:00:55.88,DEFAULT,,0,0,0,,{\r}{\kf31}How{\kf23} to{\kf23} get{\kf23} to{\kf15} the{\kf31} o{\kf23}ther{\kf24} side
+Dialogue: 0,0:00:56.04,0:00:57.54,DEFAULT,,0,0,0,,{\r}{\kf14}It's{\kf14} a{\kf28} game{\kf28} of{\kf28} wai{\kf37}tin'
+Dialogue: 0,0:00:58.42,0:00:59.91,DEFAULT,,0,0,0,,{\r}{\kf31}An{\kf24}ti{\kf24}ci{\kf31}pa{\kf39}tin'
+Dialogue: 0,0:01:00.80,0:01:02.34,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf14} I{\kf28} keep{\kf35} cre{\kf28}a{\kf36}tin'
+Dialogue: 0,0:01:03.34,0:01:05.16,DEFAULT,,0,0,0,,{\r}{\kf29}So{\kf22} I{\kf29} can{\kf22} get{\kf22} to{\kf15} the{\kf22} o{\kf21}ther
+Dialogue: 0,0:01:05.38,0:01:07.31,DEFAULT,,0,0,0,,{\r}{\kf21}Get{\kf21} to{\kf21} the{\kf14} o{\kf21}ther{\kf43} si{\kf52}-ide
+Dialogue: 0,0:01:10.13,0:01:12.01,DEFAULT,,0,0,0,,{\r}{\kf21}Get{\kf21} to{\kf21} the{\kf21} o{\kf21}ther{\kf42} si{\kf41}-ide
+Dialogue: 0,0:01:12.28,0:01:13.78,DEFAULT,,0,0,0,,{\r}{\kf17}He{\kf132}-y!
+Dialogue: 0,0:01:17.03,0:01:18.53,DEFAULT,,0,0,0,,{\r}{\kf17}He{\kf132}-y!
+Dialogue: 0,0:01:19.69,0:01:21.62,DEFAULT,,0,0,0,,{\r}{\kf28}Get{\kf14} to{\kf21} the{\kf28} o{\kf21}ther{\kf48} si{\kf33}-ide
+Dialogue: 0,0:01:22.50,0:01:24.38,DEFAULT,,0,0,0,,{\r}{\kf31}So{\kf31} I{\kf24} can{\kf24} get{\kf24} to{\kf24} the{\kf16} o{\kf14}ther
+Dialogue: 0,0:01:24.60,0:01:25.60,DEFAULT,,0,0,0,,{\r}{\kf14}Get{\kf14} to{\kf21} the{\kf21} o{\kf29}ther
+Dialogue: 0,0:01:25.76,0:01:26.81,DEFAULT,,0,0,0,,{\r}{\kf21}Keep{\kf28} on{\kf14} be{\kf28}lie{\kf14}vin'
+Dialogue: 0,0:01:26.98,0:01:27.92,DEFAULT,,0,0,0,,{\r}{\kf16}I'll{\kf24} be{\kf16} a{\kf31}chie{\kf10}vin'
+Dialogue: 0,0:01:28.03,0:01:30.13,DEFAULT,,0,0,0,,{\r}{\kf15}The{\kf30} har{\kf23}der{\kf23} that{\kf30} I{\kf53} go{\kf36}-o
+Dialogue: 0,0:01:30.57,0:01:31.62,DEFAULT,,0,0,0,,{\r}{\kf22}Don't{\kf15} real{\kf15}ly{\kf37} know{\kf16} how
+Dialogue: 0,0:01:31.84,0:01:32.67,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf15} won't{\kf23} give{\kf23} up{\kf10} now
+Dialogue: 0,0:01:32.83,0:01:34.93,DEFAULT,,0,0,0,,{\r}{\kf16}Un{\kf39}til{\kf16} I{\kf31} steal{\kf16} the{\kf16} sho{\kf23}-o{\kf53}-ow
+Dialogue: 0,0:01:35.15,0:01:36.42,DEFAULT,,0,0,0,,{\r}{\kf22}With{\kf30} time,{\kf15} it{\kf15} gets{\kf30} bet{\kf15}ter
+Dialogue: 0,0:01:36.48,0:01:37.64,DEFAULT,,0,0,0,,{\r}{\kf10}I'll{\kf15} be{\kf15} a{\kf23} trend{\kf39}set{\kf14}ter
+Dialogue: 0,0:01:37.80,0:01:39.52,DEFAULT,,0,0,0,,{\r}{\kf16}Do{\kf10}in'{\kf16} it{\kf23} my{\kf39} own{\kf39} wa{\kf28}-ay
+Dialogue: 0,0:01:40.12,0:01:41.95,DEFAULT,,0,0,0,,{\r}{\kf38}He{\kf30}-y,{\kf30} hey{\kf46} he{\kf38}-y
+Dialogue: 0,0:01:42.28,0:01:43.88,DEFAULT,,0,0,0,,{\r}{\kf23}Won't{\kf30} stop{\kf15} 'til{\kf15} I{\kf30} seize{\kf10} the{\kf15}-e{\kf22} day
+Dialogue: 0,0:01:44.10,0:01:45.65,DEFAULT,,0,0,0,,{\r}{\kf19}My{\kf32} wheels{\kf26} keep{\kf32} tur{\kf46}nin'
+Dialogue: 0,0:01:46.42,0:01:47.91,DEFAULT,,0,0,0,,{\r}{\kf21}My{\kf35} fire's{\kf28} still{\kf28} bur{\kf37}nin'
+Dialogue: 0,0:01:48.69,0:01:50.34,DEFAULT,,0,0,0,,{\r}{\kf21}'Cause{\kf21} right{\kf28} now{\kf21} I'm{\kf42} lear{\kf33}nin'
+Dialogue: 0,0:01:51.50,0:01:53.49,DEFAULT,,0,0,0,,{\r}{\kf31}How{\kf23} to{\kf31} get{\kf23} to{\kf15} the{\kf23} o{\kf31}ther{\kf22} side
+Dialogue: 0,0:01:53.71,0:01:55.09,DEFAULT,,0,0,0,,{\r}{\kf14}It's{\kf10} a{\kf28} game{\kf21} of{\kf34} wai{\kf31}tin'
+Dialogue: 0,0:01:56.03,0:01:57.52,DEFAULT,,0,0,0,,{\r}{\kf26}An{\kf18}ti{\kf26}ci{\kf35}pa{\kf44}tin'
+Dialogue: 0,0:01:58.41,0:01:59.95,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf14} I{\kf28} keep{\kf28} cre{\kf28}a{\kf43}tin'
+Dialogue: 0,0:02:00.95,0:02:02.72,DEFAULT,,0,0,0,,{\r}{\kf22}So{\kf30} I{\kf22} can{\kf30} get{\kf15} to{\kf22} the{\kf22} o{\kf14}ther
+Dialogue: 0,0:02:02.94,0:02:04.76,DEFAULT,,0,0,0,,{\r}{\kf23}Get{\kf15} to{\kf23} the{\kf23} o{\kf10}the{\kf10}-er{\kf38} si{\kf40}-ide
+Dialogue: 0,0:02:07.74,0:02:09.51,DEFAULT,,0,0,0,,{\r}{\kf22}Get{\kf22} to{\kf15} the{\kf30} o{\kf22}ther{\kf30} si{\kf36}-ide
+Dialogue: 0,0:02:09.84,0:02:11.33,DEFAULT,,0,0,0,,{\r}{\kf23}He{\kf126}-y!
+Dialogue: 0,0:02:14.65,0:02:16.08,DEFAULT,,0,0,0,,{\r}{\kf17}He{\kf127}-y!
+Dialogue: 0,0:02:17.30,0:02:19.23,DEFAULT,,0,0,0,,{\r}{\kf21}Get{\kf21} to{\kf14} the{\kf28} o{\kf28}ther{\kf41} si{\kf40}-ide
+Dialogue: 0,0:02:20.11,0:02:21.88,DEFAULT,,0,0,0,,{\r}{\kf21}So{\kf28} I{\kf28} can{\kf28} get{\kf21} to{\kf21} the{\kf21} o{\kf10}ther
+Dialogue: 0,0:02:22.05,0:02:24.04,DEFAULT,,0,0,0,,{\r}{\kf28}Get{\kf21} to{\kf21} the{\kf21} o{\kf21}ther{\kf36} si{\kf51}-ide

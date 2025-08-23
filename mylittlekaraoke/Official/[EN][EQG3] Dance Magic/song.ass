@@ -1,55 +1,62 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Dance Magic
+Artist: Equestria Girls - Friendship Games
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.43,0:00:11.84,DEFAULT,,0,0,0,,{\kf15}A{\kf19} fee{\kf15}ling{\kf38} stir{\kf34}ring{\kf30} deep{\kf27} down{\kf12} in{\kf23}side{\kf12} my{\kf42} soul
-Dialogue: 0,0:00:12.10,0:00:13.79,DEFAULT,,0,0,0,,{\kf19}The{\kf19} rhy{\kf19}thm's{\kf15} ta{\kf15}king{\kf23} ho{\kf27}-old
-Dialogue: 0,0:00:14.01,0:00:15.63,DEFAULT,,0,0,0,,{\kf15}And{\kf15} it's{\kf12} a{\kf23}bout{\kf12} to{\kf27} ro{\kf23}-oll
-Dialogue: 0,0:00:15.81,0:00:19.23,DEFAULT,,0,0,0,,{\kf15}A{\kf19} mil{\kf19}lion{\kf42} spar{\kf42}kles{\kf42} fal{\kf23}ling{\kf15} a{\kf23}cross{\kf15} the{\kf42} floor
-Dialogue: 0,0:00:19.49,0:00:21.18,DEFAULT,,0,0,0,,{\kf15}So{\kf23} D{\kf23}J{\kf19} give{\kf15} it{\kf19} mo{\kf30}-ore
-Dialogue: 0,0:00:21.40,0:00:22.79,DEFAULT,,0,0,0,,{\kf15}It's{\kf15} what{\kf15} we're{\kf8} lo{\kf12}-ok{\kf12}ing{\kf30} for
-Dialogue: 0,0:00:22.98,0:00:25.75,DEFAULT,,0,0,0,,{\kf132}Dance{\kf15} the{\kf45} night{\kf19} a{\kf45}way
-Dialogue: 0,0:00:26.24,0:00:29.35,DEFAULT,,0,0,0,,{\kf15}All{\kf19} our{\kf38} friends{\kf34} right{\kf27} by{\kf27} our{\kf109} side
-Dialogue: 0,0:00:29.65,0:00:33.14,DEFAULT,,0,0,0,,{\kf23}It{\kf15} does{\kf19}n't{\kf68} mat{\kf27}ter{\kf30} what{\kf45} style{\kf15} you{\kf49} bring
-Dialogue: 0,0:00:33.59,0:00:37.26,DEFAULT,,0,0,0,,{\kf19}We're{\kf15} a{\kf23}bout{\kf15} to{\kf34} go{\kf19} on{\kf34} that{\kf162} ride
-Dialogue: 0,0:00:37.94,0:00:39.55,DEFAULT,,0,0,0,,{\kf23}It's{\kf38} Dance{\kf19} Ma{\kf23}-a{\kf45}gic
-Dialogue: 0,0:00:40.04,0:00:41.39,DEFAULT,,0,0,0,,{\kf19}Once{\kf12} you{\kf19} ha{\kf23}-ave{\kf42} it
-Dialogue: 0,0:00:41.84,0:00:43.08,DEFAULT,,0,0,0,,{\kf19}Let{\kf19} your{\kf19} bo{\kf19}dy{\kf27} move
-Dialogue: 0,0:00:43.23,0:00:45.21,DEFAULT,,0,0,0,,{\kf19}Step{\kf15} in{\kf19}to{\kf15} the{\kf42} mu{\kf23}si{\kf15}-i{\kf15}-ic
-Dialogue: 0,0:00:45.36,0:00:46.86,DEFAULT,,0,0,0,,{\kf23}It's{\kf34} Dance{\kf19} Ma{\kf15}-a{\kf38}gic
-Dialogue: 0,0:00:47.24,0:00:48.74,DEFAULT,,0,0,0,,{\kf19}And{\kf15} it's{\kf15} e{\kf19}le{\kf19}-ec{\kf42}tric
-Dialogue: 0,0:00:49.23,0:00:52.56,DEFAULT,,0,0,0,,{\kf15}Let{\kf19} your{\kf23} bo{\kf34}dy{\kf64} move{\kf15} to{\kf19} the{\kf27} mu{\kf15}-u{\kf53}sic
-Dialogue: 0,0:00:52.75,0:00:54.10,DEFAULT,,0,0,0,,{\kf12}Doe{\kf8}sn't{\kf8} mat{\kf8}ter{\kf15} what{\kf19} style{\kf15} you{\kf27} got
-Dialogue: 0,0:00:54.33,0:00:56.01,DEFAULT,,0,0,0,,{\kf19}Just{\kf12} keep{\kf19} dan{\kf19}cin'{\kf15} on{\kf15} that{\kf30} spot
-Dialogue: 0,0:00:56.20,0:00:57.81,DEFAULT,,0,0,0,,{\kf23}Friends{\kf15} like{\kf15} you{\kf15} for{\kf19} who{\kf23} you{\kf27} are
-Dialogue: 0,0:00:58.00,0:00:59.73,DEFAULT,,0,0,0,,{\kf27}Dance{\kf15} queen,{\kf8} on{\kf8} the{\kf15} scene,{\kf19} su{\kf23}per{\kf30}star
-Dialogue: 0,0:01:00.14,0:01:01.53,DEFAULT,,0,0,0,,{\kf12}Crys{\kf8}tal{\kf12} Prep,{\kf15} you've{\kf15} got{\kf12} the{\kf27} moves
-Dialogue: 0,0:01:01.64,0:01:03.44,DEFAULT,,0,0,0,,{\kf27}Rain{\kf19}boom{\kf27} brin{\kf23}gin'{\kf15} all{\kf12} the{\kf30} grooves
-Dialogue: 0,0:01:03.55,0:01:05.20,DEFAULT,,0,0,0,,{\kf8}Put{\kf8} 'em{\kf12} to{\kf12}get{\kf12}her{\kf12} and{\kf23} make{\kf15} 'em{\kf27} fit
-Dialogue: 0,0:01:05.43,0:01:07.19,DEFAULT,,0,0,0,,{\kf19}Crys{\kf15}tal{\kf23} Rain{\kf23}booms,{\kf27} Dance{\kf23} Ma{\kf12}gic
-Dialogue: 0,0:01:07.26,0:01:10.04,DEFAULT,,0,0,0,,{\kf128}Dance{\kf19} the{\kf42} night{\kf15} a{\kf49}way
-Dialogue: 0,0:01:10.49,0:01:13.68,DEFAULT,,0,0,0,,{\kf23}All{\kf15} our{\kf38} friends{\kf38} right{\kf27} by{\kf27} our{\kf113} side
-Dialogue: 0,0:01:13.94,0:01:17.43,DEFAULT,,0,0,0,,{\kf23}It{\kf19} doe{\kf19}sn't{\kf68} mat{\kf27}ter{\kf30} what{\kf34} style{\kf19} you{\kf49} bring
-Dialogue: 0,0:01:17.88,0:01:21.55,DEFAULT,,0,0,0,,{\kf19}We're{\kf12} a{\kf19}bout{\kf15} to{\kf42} go{\kf19} on{\kf34} that{\kf158} ride
-Dialogue: 0,0:01:22.23,0:01:23.88,DEFAULT,,0,0,0,,{\kf27}It's{\kf30} Dance{\kf15} Ma{\kf15}-a{\kf42}gic
-Dialogue: 0,0:01:24.33,0:01:25.68,DEFAULT,,0,0,0,,{\kf23}Once{\kf12} you{\kf19} ha{\kf19}-ave{\kf38} it
-Dialogue: 0,0:01:26.16,0:01:27.36,DEFAULT,,0,0,0,,{\kf15}Let{\kf19} your{\kf23} bo{\kf15}dy{\kf23} move
-Dialogue: 0,0:01:27.51,0:01:29.50,DEFAULT,,0,0,0,,{\kf23}Step{\kf15} in{\kf19}to{\kf15} the{\kf34} mu{\kf19}si{\kf15}-i{\kf12}-ic
-Dialogue: 0,0:01:29.65,0:01:31.15,DEFAULT,,0,0,0,,{\kf19}It's{\kf34} Dance{\kf19} ma{\kf19}-a{\kf30}gic
-Dialogue: 0,0:01:31.49,0:01:33.03,DEFAULT,,0,0,0,,{\kf19}And{\kf19} it's{\kf15} e{\kf23}le{\kf12}-ec{\kf42}tric
-Dialogue: 0,0:01:33.51,0:01:36.66,DEFAULT,,0,0,0,,{\kf19}Let{\kf19} your{\kf19} bo{\kf27}dy{\kf57} move{\kf15} to{\kf15} the{\kf15} mu{\kf15}-u{\kf34}sic
-Dialogue: 0,0:01:36.81,0:01:40.04,DEFAULT,,0,0,0,,{\kf19}Crys{\kf12}tal{\kf42} Rain{\kf34}booms{\kf15} got{\kf12} a{\kf27} style{\kf23} that's{\kf19} all{\kf19} our{\kf42} own
-Dialogue: 0,0:01:40.45,0:01:41.69,DEFAULT,,0,0,0,,{\kf23}Dan{\kf15}cin'{\kf30} non{\kf27}stop
-Dialogue: 0,0:01:41.88,0:01:43.68,DEFAULT,,0,0,0,,{\kf19}Bo{\kf15}dy{\kf19} mo{\kf23}vin'{\kf19} in{\kf15} the{\kf42} zone
-Dialogue: 0,0:01:44.13,0:01:46.94,DEFAULT,,0,0,0,,{\kf23}Bring{\kf19} what{\kf19}e{\kf12}ver{\kf42} style{\kf19} you've{\kf15} go{\kf94}-ot
-Dialogue: 0,0:01:47.39,0:01:51.48,DEFAULT,,0,0,0,,{\kf27}'Cause{\kf12} the{\kf27} par{\kf19}ty{\kf38} is{\kf27} go{\kf34}ing{\kf132} o{\kf57}-on
-Dialogue: 0,0:01:51.78,0:01:53.35,DEFAULT,,0,0,0,,{\kf19}It's{\kf38} Dance{\kf19} Ma{\kf19}-a{\kf38}gic
-Dialogue: 0,0:01:53.65,0:01:55.23,DEFAULT,,0,0,0,,{\kf15}And{\kf23} it's{\kf15} e{\kf23}le{\kf15}-ec{\kf42}tric
-Dialogue: 0,0:01:55.64,0:02:00.74,DEFAULT,,0,0,0,,{\kf23}Let{\kf19} your{\kf19} bo{\kf38}dy{\kf64} move{\kf15} to{\kf23} the{\kf19} mu{\kf15}-u{\kf225}sic
+Dialogue: 0,0:00:08.43,0:00:11.84,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf24} fee{\kf19}ling{\kf49} stir{\kf44}ring{\kf39} deep{\kf34} down{\kf15} in{\kf29}side{\kf15} my{\kf54} soul
+Dialogue: 0,0:00:12.11,0:00:13.79,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf23} rhy{\kf23}thm's{\kf19} ta{\kf19}king{\kf28} ho{\kf34}-old
+Dialogue: 0,0:00:14.02,0:00:15.63,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} it's{\kf15} a{\kf29}bout{\kf15} to{\kf34} ro{\kf28}-oll
+Dialogue: 0,0:00:15.82,0:00:19.23,DEFAULT,,0,0,0,,{\r}{\kf17}A{\kf22} mil{\kf22}lion{\kf48} spar{\kf48}kles{\kf48} fal{\kf26}ling{\kf17} a{\kf26}cross{\kf17} the{\kf50} floor
+Dialogue: 0,0:00:19.49,0:00:21.18,DEFAULT,,0,0,0,,{\r}{\kf18}So{\kf27} D{\kf27}J{\kf22} give{\kf18} it{\kf22} mo{\kf35}-ore
+Dialogue: 0,0:00:21.41,0:00:22.79,DEFAULT,,0,0,0,,{\r}{\kf20}It's{\kf20} what{\kf20} we're{\kf10} lo{\kf15}-ok{\kf15}ing{\kf39} for
+Dialogue: 0,0:00:22.98,0:00:25.75,DEFAULT,,0,0,0,,{\r}{\kf143}Dance{\kf16} the{\kf49} night{\kf20} a{\kf49}way
+Dialogue: 0,0:00:26.24,0:00:29.36,DEFAULT,,0,0,0,,{\r}{\kf18}All{\kf22} our{\kf44} friends{\kf39} right{\kf31} by{\kf31} our{\kf126} side
+Dialogue: 0,0:00:29.66,0:00:33.14,DEFAULT,,0,0,0,,{\r}{\kf27}It{\kf18} does{\kf23}n't{\kf82} mat{\kf32}ter{\kf36} what{\kf54} style{\kf18} you{\kf59} bring
+Dialogue: 0,0:00:33.59,0:00:37.27,DEFAULT,,0,0,0,,{\r}{\kf22}We're{\kf17} a{\kf26}bout{\kf17} to{\kf39} go{\kf22} on{\kf39} that{\kf185} ride
+Dialogue: 0,0:00:37.94,0:00:39.55,DEFAULT,,0,0,0,,{\r}{\kf25}It's{\kf41} Dance{\kf21} Ma{\kf25}-a{\kf49}gic
+Dialogue: 0,0:00:40.04,0:00:41.39,DEFAULT,,0,0,0,,{\r}{\kf22}Once{\kf14} you{\kf22} ha{\kf27}-ave{\kf50} it
+Dialogue: 0,0:00:41.84,0:00:43.08,DEFAULT,,0,0,0,,{\r}{\kf23}Let{\kf23} your{\kf23} bo{\kf23}dy{\kf32} move
+Dialogue: 0,0:00:43.23,0:00:45.22,DEFAULT,,0,0,0,,{\r}{\kf23}Step{\kf19} in{\kf23}to{\kf19} the{\kf51} mu{\kf28}si{\kf19}-i{\kf17}-ic
+Dialogue: 0,0:00:45.37,0:00:46.87,DEFAULT,,0,0,0,,{\r}{\kf26}It's{\kf40} Dance{\kf22} Ma{\kf18}-a{\kf44}gic
+Dialogue: 0,0:00:47.24,0:00:48.74,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf18} it's{\kf18} e{\kf22}le{\kf22}-ec{\kf48}tric
+Dialogue: 0,0:00:49.23,0:00:52.57,DEFAULT,,0,0,0,,{\r}{\kf18}Let{\kf22} your{\kf27} bo{\kf40}dy{\kf76} move{\kf18} to{\kf22} the{\kf31} mu{\kf18}-u{\kf62}sic
+Dialogue: 0,0:00:52.76,0:00:54.10,DEFAULT,,0,0,0,,{\r}{\kf14}Doe{\kf10}sn't{\kf10} mat{\kf10}ter{\kf19} what{\kf23} style{\kf19} you{\kf30} got
+Dialogue: 0,0:00:54.33,0:00:56.02,DEFAULT,,0,0,0,,{\r}{\kf25}Just{\kf15} keep{\kf25} dan{\kf25}cin'{\kf20} on{\kf20} that{\kf39} spot
+Dialogue: 0,0:00:56.20,0:00:57.82,DEFAULT,,0,0,0,,{\r}{\kf27}Friends{\kf18} like{\kf18} you{\kf18} for{\kf22} who{\kf27} you{\kf31} are
+Dialogue: 0,0:00:58.01,0:00:59.73,DEFAULT,,0,0,0,,{\r}{\kf32}Dance{\kf18} queen,{\kf10} on{\kf10} the{\kf18} scene,{\kf23} su{\kf27}per{\kf34}star
+Dialogue: 0,0:01:00.14,0:01:01.53,DEFAULT,,0,0,0,,{\r}{\kf16}Crys{\kf11}tal{\kf16} Prep,{\kf21} you've{\kf21} got{\kf16} the{\kf38} moves
+Dialogue: 0,0:01:01.64,0:01:03.44,DEFAULT,,0,0,0,,{\r}{\kf32}Rain{\kf22}boom{\kf32} brin{\kf27}gin'{\kf18} all{\kf14} the{\kf35} grooves
+Dialogue: 0,0:01:03.55,0:01:05.20,DEFAULT,,0,0,0,,{\r}{\kf10}Put{\kf10} 'em{\kf15} to{\kf15}get{\kf15}her{\kf15} and{\kf30} make{\kf20} 'em{\kf35} fit
+Dialogue: 0,0:01:05.43,0:01:07.19,DEFAULT,,0,0,0,,{\r}{\kf24}Crys{\kf19}tal{\kf29} Rain{\kf29}booms,{\kf33} Dance{\kf29} Ma{\kf13}gic
+Dialogue: 0,0:01:07.27,0:01:10.04,DEFAULT,,0,0,0,,{\r}{\kf141}Dance{\kf21} the{\kf46} night{\kf17} a{\kf53}way
+Dialogue: 0,0:01:10.49,0:01:13.68,DEFAULT,,0,0,0,,{\r}{\kf26}All{\kf17} our{\kf43} friends{\kf43} right{\kf30} by{\kf30} our{\kf130} side
+Dialogue: 0,0:01:13.94,0:01:17.43,DEFAULT,,0,0,0,,{\r}{\kf28}It{\kf23} doe{\kf23}sn't{\kf83} mat{\kf32}ter{\kf37} what{\kf41} style{\kf23} you{\kf59} bring
+Dialogue: 0,0:01:17.88,0:01:21.56,DEFAULT,,0,0,0,,{\r}{\kf22}We're{\kf13} a{\kf22}bout{\kf17} to{\kf48} go{\kf22} on{\kf39} that{\kf184} ride
+Dialogue: 0,0:01:22.23,0:01:23.88,DEFAULT,,0,0,0,,{\r}{\kf34}It's{\kf39} Dance{\kf19} Ma{\kf19}-a{\kf54}gic
+Dialogue: 0,0:01:24.33,0:01:25.68,DEFAULT,,0,0,0,,{\r}{\kf28}Once{\kf14} you{\kf23} ha{\kf23}-ave{\kf47} it
+Dialogue: 0,0:01:26.17,0:01:27.37,DEFAULT,,0,0,0,,{\r}{\kf19}Let{\kf24} your{\kf29} bo{\kf19}dy{\kf29} move
+Dialogue: 0,0:01:27.52,0:01:29.50,DEFAULT,,0,0,0,,{\r}{\kf30}Step{\kf20} in{\kf25}to{\kf20} the{\kf45} mu{\kf25}si{\kf20}-i{\kf14}-ic
+Dialogue: 0,0:01:29.66,0:01:31.16,DEFAULT,,0,0,0,,{\r}{\kf23}It's{\kf42} Dance{\kf23} ma{\kf23}-a{\kf39}gic
+Dialogue: 0,0:01:31.49,0:01:33.03,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf23} it's{\kf18} e{\kf27}le{\kf14}-ec{\kf49}tric
+Dialogue: 0,0:01:33.52,0:01:36.67,DEFAULT,,0,0,0,,{\r}{\kf25}Let{\kf25} your{\kf25} bo{\kf36}dy{\kf76} move{\kf20} to{\kf20} the{\kf20} mu{\kf20}-u{\kf48}sic
+Dialogue: 0,0:01:36.82,0:01:40.04,DEFAULT,,0,0,0,,{\r}{\kf23}Crys{\kf14}tal{\kf51} Rain{\kf42}booms{\kf19} got{\kf14} a{\kf33} style{\kf28} that's{\kf23} all{\kf23} our{\kf52} own
+Dialogue: 0,0:01:40.45,0:01:41.69,DEFAULT,,0,0,0,,{\r}{\kf30}Dan{\kf20}cin'{\kf40} non{\kf34}stop
+Dialogue: 0,0:01:41.88,0:01:43.68,DEFAULT,,0,0,0,,{\r}{\kf22}Bo{\kf18}dy{\kf22} mo{\kf27}vin'{\kf22} in{\kf18} the{\kf51} zone
+Dialogue: 0,0:01:44.13,0:01:46.94,DEFAULT,,0,0,0,,{\r}{\kf26}Bring{\kf22} what{\kf22}e{\kf13}ver{\kf48} style{\kf22} you've{\kf18} go{\kf110}-ot
+Dialogue: 0,0:01:47.39,0:01:51.48,DEFAULT,,0,0,0,,{\r}{\kf29}'Cause{\kf13} the{\kf29} par{\kf21}ty{\kf42} is{\kf29} go{\kf38}ing{\kf146} o{\kf62}-on
+Dialogue: 0,0:01:51.78,0:01:53.36,DEFAULT,,0,0,0,,{\r}{\kf22}It's{\kf45} Dance{\kf22} Ma{\kf22}-a{\kf46}gic
+Dialogue: 0,0:01:53.66,0:01:55.23,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf27} it's{\kf18} e{\kf27}le{\kf18}-ec{\kf49}tric
+Dialogue: 0,0:01:55.64,0:02:00.74,DEFAULT,,0,0,0,,{\r}{\kf25}Let{\kf21} your{\kf21} bo{\kf42}dy{\kf71} move{\kf17} to{\kf25} the{\kf21} mu{\kf17}-u{\kf250}sic

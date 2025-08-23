@@ -1,72 +1,79 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Someone Like Me
+Artist: Aviators
+Original Timing: mylittlekaraoke.com by ShTHfan1
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:25.70,0:00:27.71,DEFAULT,,0,0,0,,{\kf24}I'm{\kf16} fee{\kf16}ling{\kf12} like{\kf16} a{\kf20} pho{\kf24}to{\kf39}graph
-Dialogue: 0,0:00:27.86,0:00:31.07,DEFAULT,,0,0,0,,{\kf31}Life{\kf12} ne{\kf16}ver{\kf20} chan{\kf24}ges{\kf8} but{\kf8} it{\kf20} goes{\kf16} by{\kf47} fast{\kf35} and
-Dialogue: 0,0:00:31.73,0:00:34.94,DEFAULT,,0,0,0,,{\kf31}Far{\kf24} too{\kf24} fast{\kf20} for{\kf35} me{\kf28} to{\kf74} catch
-Dialogue: 0,0:00:36.99,0:00:39.00,DEFAULT,,0,0,0,,{\kf28}They{\kf16} tell{\kf16} me{\kf16} I'm{\kf16} too{\kf31} in{\kf12}se{\kf43}cure
-Dialogue: 0,0:00:39.16,0:00:41.79,DEFAULT,,0,0,0,,{\kf24}That{\kf12} I{\kf12} should{\kf24} be{\kf35}lieve{\kf31} in{\kf12} my{\kf24}self{\kf31} more
-Dialogue: 0,0:00:41.95,0:00:46.59,DEFAULT,,0,0,0,,{\kf31}If{\kf31} on{\kf16}ly{\kf12} it{\kf12} was{\kf24} as{\kf35} ea{\kf24}sy{\kf39} as{\kf70} that
-Dialogue: 0,0:00:48.29,0:00:50.57,DEFAULT,,0,0,0,,{\kf31}Some{\kf16}times{\kf12} I{\kf31} just{\kf24} fe{\kf31}el{\kf47} like
-Dialogue: 0,0:00:51.15,0:00:53.51,DEFAULT,,0,0,0,,{\kf16}A{\kf31} stran{\kf20}ger{\kf20} in{\kf39} my{\kf39} life{\kf35} and
-Dialogue: 0,0:00:53.94,0:00:57.11,DEFAULT,,0,0,0,,{\kf31}Some{\kf31}times{\kf24} I{\kf24} don't{\kf31} feel{\kf16} ri{\kf20}ght{\kf16} at{\kf82} all
-Dialogue: 0,0:00:59.59,0:01:01.91,DEFAULT,,0,0,0,,{\kf31}I{\kf31} may{\kf24} be{\kf28} lo{\kf28}ne{\kf55}ly
-Dialogue: 0,0:01:02.53,0:01:04.85,DEFAULT,,0,0,0,,{\kf20}But{\kf12} may{\kf16}be{\kf12} I'm{\kf16} sup{\kf31}posed{\kf16} to{\kf39} be{\kf31} 'cuz
-Dialogue: 0,0:01:05.62,0:01:09.57,DEFAULT,,0,0,0,,{\kf12}No{\kf12} one's{\kf16} there{\kf16} to{\kf28} hear{\kf28} me{\kf16} when{\kf78} I{\kf155} call
-Dialogue: 0,0:01:10.58,0:01:13.17,DEFAULT,,0,0,0,,{\kf47}Things{\kf39} get{\kf28} com{\kf16}pli{\kf47}ca{\kf16}ted
-Dialogue: 0,0:01:13.32,0:01:16.07,DEFAULT,,0,0,0,,{\kf28}So{\kf47} I've{\kf31} watched{\kf16} and{\kf51} wai{\kf24}ted
-Dialogue: 0,0:01:16.23,0:01:18.86,DEFAULT,,0,0,0,,{\kf39}For{\kf39} the{\kf31} mo{\kf16}ment{\kf39} I'll{\kf24} find
-Dialogue: 0,0:01:19.01,0:01:21.33,DEFAULT,,0,0,0,,{\kf39}Some{\kf62}one{\kf47} like{\kf31} me
-Dialogue: 0,0:01:21.49,0:01:24.51,DEFAULT,,0,0,0,,{\kf24}I{\kf39} feel{\kf55} so{\kf31} un{\kf16}der{\kf51}ra{\kf24}ted
-Dialogue: 0,0:01:24.66,0:01:27.33,DEFAULT,,0,0,0,,{\kf31}Some{\kf24} just{\kf31} leave{\kf24} me{\kf16} frus{\kf47}tra{\kf20}ted
-Dialogue: 0,0:01:27.52,0:01:30.00,DEFAULT,,0,0,0,,{\kf35}Feels{\kf24} like{\kf31} I'll{\kf31} ne{\kf20}ver{\kf39} find
-Dialogue: 0,0:01:30.31,0:01:33.10,DEFAULT,,0,0,0,,{\kf55}Some{\kf62}one{\kf62} like{\kf24} me{\kf31}~
-Dialogue: 0,0:01:55.61,0:01:57.97,DEFAULT,,0,0,0,,{\kf12}My{\kf24} wings{\kf28} feel{\kf20} bro{\kf16}ken{\kf24} but{\kf20} they{\kf28} work{\kf35} fine
-Dialogue: 0,0:01:58.17,0:02:00.88,DEFAULT,,0,0,0,,{\kf28}I{\kf16} guess{\kf16} con{\kf16}fi{\kf31}dence{\kf31} ne{\kf16}ver{\kf20} was{\kf39} mine
-Dialogue: 0,0:02:01.03,0:02:04.36,DEFAULT,,0,0,0,,{\kf31}A{\kf55} harsh{\kf35} word{\kf16} can{\kf12} le{\kf12}ave{\kf16} me{\kf43} stunned
-Dialogue: 0,0:02:06.99,0:02:09.31,DEFAULT,,0,0,0,,{\kf16}Some{\kf12} say{\kf12} I'm{\kf16} u{\kf24}nique{\kf31} and{\kf16} o{\kf24}thers{\kf35} strange
-Dialogue: 0,0:02:09.47,0:02:12.17,DEFAULT,,0,0,0,,{\kf24}Some{\kf12} say{\kf12} I'm{\kf12} just{\kf20} li{\kf16}ving{\kf24} up{\kf16} to{\kf24} my{\kf39} name
-Dialogue: 0,0:02:12.33,0:02:15.77,DEFAULT,,0,0,0,,{\kf31}But{\kf24} I{\kf24} can't{\kf31} be{\kf16} the{\kf12} o{\kf16}n{\kf16}ly{\kf62} one
-Dialogue: 0,0:02:18.67,0:02:20.92,DEFAULT,,0,0,0,,{\kf31}Some{\kf20}times{\kf12} I{\kf31} just{\kf24} fe{\kf31}el{\kf43} like
-Dialogue: 0,0:02:21.54,0:02:23.94,DEFAULT,,0,0,0,,{\kf16}A{\kf28} stran{\kf20}ger{\kf16} in{\kf39} my{\kf35} life{\kf39} and
-Dialogue: 0,0:02:24.32,0:02:27.50,DEFAULT,,0,0,0,,{\kf35}Some{\kf31}times{\kf28} I{\kf24} don't{\kf35} feel{\kf16} ri{\kf20}ght{\kf12} at{\kf86} all
-Dialogue: 0,0:02:29.97,0:02:32.29,DEFAULT,,0,0,0,,{\kf31}I{\kf31} may{\kf24} be{\kf28} lo{\kf31}ne{\kf55}ly
-Dialogue: 0,0:02:32.91,0:02:35.23,DEFAULT,,0,0,0,,{\kf24}But{\kf12} may{\kf12}be{\kf12} I'm{\kf16} sup{\kf24}posed{\kf16} to{\kf39} be{\kf31} 'cuz
-Dialogue: 0,0:02:35.93,0:02:40.03,DEFAULT,,0,0,0,,{\kf16}No{\kf16} one's{\kf16} there{\kf16} to{\kf24} hear{\kf28} me{\kf16} when{\kf74} I{\kf167} call
-Dialogue: 0,0:02:40.88,0:02:43.51,DEFAULT,,0,0,0,,{\kf47}Things{\kf39} get{\kf28} com{\kf16}pli{\kf51}ca{\kf16}ted
-Dialogue: 0,0:02:43.67,0:02:46.38,DEFAULT,,0,0,0,,{\kf31}So{\kf51} I've{\kf31} watched{\kf16} and{\kf47} wai{\kf20}ted
-Dialogue: 0,0:02:46.53,0:02:49.16,DEFAULT,,0,0,0,,{\kf39}For{\kf39} the{\kf39} mo{\kf16}ment{\kf39} I'll{\kf24} find
-Dialogue: 0,0:02:49.32,0:02:51.64,DEFAULT,,0,0,0,,{\kf39}Some{\kf55}one{\kf59} like{\kf20} me
-Dialogue: 0,0:02:51.79,0:02:54.81,DEFAULT,,0,0,0,,{\kf24}I{\kf39} feel{\kf62} so{\kf24} un{\kf20}der{\kf47}ra{\kf16}ted
-Dialogue: 0,0:02:54.97,0:02:57.68,DEFAULT,,0,0,0,,{\kf31}Some{\kf24} just{\kf31} leave{\kf24} me{\kf16} frus{\kf47}tra{\kf24}ted
-Dialogue: 0,0:02:57.83,0:03:00.31,DEFAULT,,0,0,0,,{\kf39}Feels{\kf31} like{\kf24} I'll{\kf31} ne{\kf20}ver{\kf39} find
-Dialogue: 0,0:03:00.62,0:03:03.40,DEFAULT,,0,0,0,,{\kf55}Some{\kf62}one{\kf62} like{\kf24} me{\kf31}~
-Dialogue: 0,0:03:04.56,0:03:09.28,DEFAULT,,0,0,0,,{\kf24}Just{\kf31} when{\kf35} I{\kf66} thought{\kf24} I{\kf24} was{\kf55} all{\kf62} a{\kf47}lone
-Dialogue: 0,0:03:10.13,0:03:15.01,DEFAULT,,0,0,0,,{\kf20}You{\kf39} came{\kf39} and{\kf66} showed{\kf28} me{\kf31} I'm{\kf28} not{\kf28} on{\kf28} my{\kf31}~{\kf59} own
-Dialogue: 0,0:03:15.86,0:03:20.74,DEFAULT,,0,0,0,,{\kf24}I'm{\kf31} not{\kf39} that{\kf55} dif{\kf55}ferent,{\kf16} you've{\kf47} made{\kf39} me{\kf66} see
-Dialogue: 0,0:03:21.51,0:03:26.62,DEFAULT,,0,0,0,,{\kf24}I've{\kf31} final{\kf51}ly{\kf12} fo{\kf28}und{\kf31} some{\kf24}one{\kf39} like{\kf55} me
-Dialogue: 0,0:03:28.94,0:03:31.57,DEFAULT,,0,0,0,,{\kf47}Things{\kf39} get{\kf28} com{\kf16}pli{\kf51}ca{\kf16}ted
-Dialogue: 0,0:03:31.72,0:03:34.43,DEFAULT,,0,0,0,,{\kf31}So{\kf55} I've{\kf28} watched{\kf16} and{\kf51} wai{\kf24}ted
-Dialogue: 0,0:03:34.59,0:03:37.22,DEFAULT,,0,0,0,,{\kf39}For{\kf39} the{\kf31} mo{\kf16}ment{\kf43} I'll{\kf24} find
-Dialogue: 0,0:03:37.37,0:03:39.70,DEFAULT,,0,0,0,,{\kf39}Some{\kf62}one{\kf55} like{\kf24} me
-Dialogue: 0,0:03:39.85,0:03:42.87,DEFAULT,,0,0,0,,{\kf24}I{\kf39} feel{\kf55} so{\kf31} un{\kf12}der{\kf51}ra{\kf24}ted
-Dialogue: 0,0:03:43.02,0:03:45.69,DEFAULT,,0,0,0,,{\kf31}Some{\kf24} just{\kf31} leave{\kf24} me{\kf16} frus{\kf47}tra{\kf24}ted
-Dialogue: 0,0:03:45.89,0:03:48.36,DEFAULT,,0,0,0,,{\kf39}May{\kf31}be{\kf24} I've{\kf31} final{\kf20}ly{\kf39} found
-Dialogue: 0,0:03:48.67,0:03:51.38,DEFAULT,,0,0,0,,{\kf55}Some{\kf62}one{\kf62} like{\kf62} me
-Dialogue: 0,0:03:51.53,0:03:54.17,DEFAULT,,0,0,0,,{\kf43}Things{\kf39} get{\kf28} com{\kf16}pli{\kf51}ca{\kf20}ted
-Dialogue: 0,0:03:54.32,0:03:57.03,DEFAULT,,0,0,0,,{\kf31}So{\kf51} I've{\kf31} watched{\kf12} and{\kf51} wai{\kf24}ted
-Dialogue: 0,0:03:57.18,0:03:59.81,DEFAULT,,0,0,0,,{\kf39}For{\kf39} the{\kf31} mo{\kf16}ment{\kf39} I'll{\kf24} find
-Dialogue: 0,0:03:59.97,0:04:02.29,DEFAULT,,0,0,0,,{\kf39}Some{\kf55}one{\kf55} like{\kf28} me
-Dialogue: 0,0:04:02.45,0:04:05.46,DEFAULT,,0,0,0,,{\kf24}I{\kf39} feel{\kf55} so{\kf31} un{\kf12}der{\kf51}ra{\kf24}ted
-Dialogue: 0,0:04:05.62,0:04:08.33,DEFAULT,,0,0,0,,{\kf31}Some{\kf24} just{\kf31} leave{\kf24} me{\kf16} frus{\kf47}tra{\kf24}ted
-Dialogue: 0,0:04:08.48,0:04:10.96,DEFAULT,,0,0,0,,{\kf39}Feels{\kf24} like{\kf28} I'll{\kf35} ne{\kf20}ver{\kf39} find
-Dialogue: 0,0:04:11.27,0:04:14.05,DEFAULT,,0,0,0,,{\kf55}Some{\kf62}one{\kf62} like{\kf31} me{\kf31}~
-Dialogue: 0,0:04:23.65,0:04:26.28,DEFAULT,,0,0,0,,{\kf31}Some{\kf28}one{\kf31} li{\kf55}ke{\kf20} m{\kf62}e
+Dialogue: 0,0:00:25.70,0:00:27.71,DEFAULT,,0,0,0,,{\r}{\kf29}I'm{\kf19} fee{\kf19}ling{\kf14} like{\kf19} a{\kf24} pho{\kf29}to{\kf48}graph
+Dialogue: 0,0:00:27.87,0:00:31.08,DEFAULT,,0,0,0,,{\r}{\kf43}Life{\kf16} ne{\kf21}ver{\kf27} chan{\kf32}ges{\kf11} but{\kf11} it{\kf27} goes{\kf21} by{\kf64} fast{\kf48} and
+Dialogue: 0,0:00:31.74,0:00:34.95,DEFAULT,,0,0,0,,{\r}{\kf43}Far{\kf32} too{\kf32} fast{\kf27} for{\kf48} me{\kf37} to{\kf102} catch
+Dialogue: 0,0:00:37.00,0:00:39.01,DEFAULT,,0,0,0,,{\r}{\kf31}They{\kf18} tell{\kf18} me{\kf18} I'm{\kf18} too{\kf36} in{\kf13}se{\kf49}cure
+Dialogue: 0,0:00:39.16,0:00:41.80,DEFAULT,,0,0,0,,{\r}{\kf30}That{\kf15} I{\kf15} should{\kf30} be{\kf46}lieve{\kf40} in{\kf15} my{\kf30}self{\kf42} more
+Dialogue: 0,0:00:41.95,0:00:46.59,DEFAULT,,0,0,0,,{\r}{\kf49}If{\kf49} on{\kf25}ly{\kf19} it{\kf19} was{\kf37} as{\kf56} ea{\kf37}sy{\kf62} as{\kf111} that
+Dialogue: 0,0:00:48.30,0:00:50.58,DEFAULT,,0,0,0,,{\r}{\kf37}Some{\kf19}times{\kf14} I{\kf37} just{\kf28} fe{\kf37}el{\kf56} like
+Dialogue: 0,0:00:51.16,0:00:53.52,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf37} stran{\kf23}ger{\kf23} in{\kf46} my{\kf46} life{\kf42} and
+Dialogue: 0,0:00:53.94,0:00:57.12,DEFAULT,,0,0,0,,{\r}{\kf36}Some{\kf36}times{\kf27} I{\kf27} don't{\kf36} feel{\kf18} ri{\kf23}ght{\kf18} at{\kf96} all
+Dialogue: 0,0:00:59.59,0:01:01.92,DEFAULT,,0,0,0,,{\r}{\kf37}I{\kf37} may{\kf28} be{\kf32} lo{\kf32}ne{\kf66}ly
+Dialogue: 0,0:01:02.53,0:01:04.86,DEFAULT,,0,0,0,,{\r}{\kf24}But{\kf14} may{\kf19}be{\kf14} I'm{\kf19} sup{\kf38}posed{\kf19} to{\kf47} be{\kf38} 'cuz
+Dialogue: 0,0:01:05.63,0:01:09.58,DEFAULT,,0,0,0,,{\r}{\kf13}No{\kf13} one's{\kf17} there{\kf17} to{\kf30} hear{\kf30} me{\kf17} when{\kf86} I{\kf172} call
+Dialogue: 0,0:01:10.58,0:01:13.17,DEFAULT,,0,0,0,,{\r}{\kf63}Things{\kf53} get{\kf37} com{\kf21}pli{\kf63}ca{\kf22}ted
+Dialogue: 0,0:01:13.33,0:01:16.08,DEFAULT,,0,0,0,,{\r}{\kf38}So{\kf66} I've{\kf44} watched{\kf22} and{\kf71} wai{\kf34}ted
+Dialogue: 0,0:01:16.23,0:01:18.86,DEFAULT,,0,0,0,,{\r}{\kf55}For{\kf55} the{\kf44} mo{\kf22}ment{\kf55} I'll{\kf32} find
+Dialogue: 0,0:01:19.02,0:01:21.34,DEFAULT,,0,0,0,,{\r}{\kf50}Some{\kf81}one{\kf61} like{\kf40} me
+Dialogue: 0,0:01:21.49,0:01:24.51,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf50} feel{\kf69} so{\kf40} un{\kf20}der{\kf64}ra{\kf29}ted
+Dialogue: 0,0:01:24.67,0:01:27.34,DEFAULT,,0,0,0,,{\r}{\kf44}Some{\kf33} just{\kf44} leave{\kf33} me{\kf22} frus{\kf65}tra{\kf26}ted
+Dialogue: 0,0:01:27.53,0:01:30.01,DEFAULT,,0,0,0,,{\r}{\kf49}Feels{\kf32} like{\kf43} I'll{\kf43} ne{\kf27}ver{\kf54} find
+Dialogue: 0,0:01:30.32,0:01:33.10,DEFAULT,,0,0,0,,{\r}{\kf65}Some{\kf74}one{\kf74} like{\kf28} me{\kf38}~
+Dialogue: 0,0:01:55.62,0:01:57.98,DEFAULT,,0,0,0,,{\r}{\kf14}My{\kf27} wings{\kf32} feel{\kf23} bro{\kf18}ken{\kf27} but{\kf23} they{\kf32} work{\kf40} fine
+Dialogue: 0,0:01:58.17,0:02:00.88,DEFAULT,,0,0,0,,{\r}{\kf35}I{\kf20} guess{\kf20} con{\kf20}fi{\kf40}dence{\kf40} ne{\kf20}ver{\kf25} was{\kf51} mine
+Dialogue: 0,0:02:01.04,0:02:04.36,DEFAULT,,0,0,0,,{\r}{\kf48}A{\kf83} harsh{\kf54} word{\kf24} can{\kf18} le{\kf18}ave{\kf24} me{\kf64} stunned
+Dialogue: 0,0:02:06.99,0:02:09.32,DEFAULT,,0,0,0,,{\r}{\kf20}Some{\kf15} say{\kf15} I'm{\kf20} u{\kf30}nique{\kf39} and{\kf20} o{\kf30}thers{\kf43} strange
+Dialogue: 0,0:02:09.47,0:02:12.18,DEFAULT,,0,0,0,,{\r}{\kf33}Some{\kf16} say{\kf16} I'm{\kf16} just{\kf27} li{\kf22}ving{\kf33} up{\kf22} to{\kf33} my{\kf53} name
+Dialogue: 0,0:02:12.33,0:02:15.78,DEFAULT,,0,0,0,,{\r}{\kf47}But{\kf35} I{\kf35} can't{\kf47} be{\kf23} the{\kf17} o{\kf23}n{\kf23}ly{\kf94} one
+Dialogue: 0,0:02:18.68,0:02:20.92,DEFAULT,,0,0,0,,{\r}{\kf37}Some{\kf23}times{\kf14} I{\kf37} just{\kf27} fe{\kf37}el{\kf49} like
+Dialogue: 0,0:02:21.54,0:02:23.94,DEFAULT,,0,0,0,,{\r}{\kf20}A{\kf34} stran{\kf24}ger{\kf20} in{\kf49} my{\kf44} life{\kf49} and
+Dialogue: 0,0:02:24.33,0:02:27.50,DEFAULT,,0,0,0,,{\r}{\kf39}Some{\kf35}times{\kf30} I{\kf26} don't{\kf39} feel{\kf17} ri{\kf22}ght{\kf13} at{\kf96} all
+Dialogue: 0,0:02:29.98,0:02:32.30,DEFAULT,,0,0,0,,{\r}{\kf36}I{\kf36} may{\kf27} be{\kf32} lo{\kf36}ne{\kf65}ly
+Dialogue: 0,0:02:32.92,0:02:35.24,DEFAULT,,0,0,0,,{\r}{\kf30}But{\kf15} may{\kf15}be{\kf15} I'm{\kf20} sup{\kf30}posed{\kf20} to{\kf49} be{\kf38} 'cuz
+Dialogue: 0,0:02:35.94,0:02:40.04,DEFAULT,,0,0,0,,{\r}{\kf17}No{\kf17} one's{\kf17} there{\kf17} to{\kf26} hear{\kf30} me{\kf17} when{\kf82} I{\kf187} call
+Dialogue: 0,0:02:40.89,0:02:43.52,DEFAULT,,0,0,0,,{\r}{\kf63}Things{\kf53} get{\kf37} com{\kf21}pli{\kf68}ca{\kf21}ted
+Dialogue: 0,0:02:43.67,0:02:46.38,DEFAULT,,0,0,0,,{\r}{\kf43}So{\kf70} I've{\kf43} watched{\kf22} and{\kf65} wai{\kf28}ted
+Dialogue: 0,0:02:46.54,0:02:49.17,DEFAULT,,0,0,0,,{\r}{\kf53}For{\kf53} the{\kf53} mo{\kf21}ment{\kf53} I'll{\kf30} find
+Dialogue: 0,0:02:49.32,0:02:51.65,DEFAULT,,0,0,0,,{\r}{\kf53}Some{\kf74}one{\kf79} like{\kf26} me
+Dialogue: 0,0:02:51.80,0:02:54.82,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf51} feel{\kf82} so{\kf31} un{\kf26}der{\kf61}ra{\kf20}ted
+Dialogue: 0,0:02:54.97,0:02:57.68,DEFAULT,,0,0,0,,{\r}{\kf43}Some{\kf33} just{\kf43} leave{\kf33} me{\kf22} frus{\kf65}tra{\kf32}ted
+Dialogue: 0,0:02:57.84,0:03:00.31,DEFAULT,,0,0,0,,{\r}{\kf53}Feels{\kf42} like{\kf32} I'll{\kf42} ne{\kf26}ver{\kf53} find
+Dialogue: 0,0:03:00.62,0:03:03.41,DEFAULT,,0,0,0,,{\r}{\kf65}Some{\kf74}one{\kf74} like{\kf28} me{\kf38}~
+Dialogue: 0,0:03:04.57,0:03:09.29,DEFAULT,,0,0,0,,{\r}{\kf30}Just{\kf40} when{\kf45} I{\kf85} thought{\kf30} I{\kf30} was{\kf70} all{\kf80} a{\kf62}lone
+Dialogue: 0,0:03:10.14,0:03:15.01,DEFAULT,,0,0,0,,{\r}{\kf24}You{\kf48} came{\kf48} and{\kf82} showed{\kf34} me{\kf39} I'm{\kf34} not{\kf34} on{\kf34} my{\kf39}~{\kf72} own
+Dialogue: 0,0:03:15.87,0:03:20.74,DEFAULT,,0,0,0,,{\r}{\kf31}I'm{\kf41} not{\kf51} that{\kf72} dif{\kf72}ferent,{\kf21} you've{\kf62} made{\kf51} me{\kf87} see
+Dialogue: 0,0:03:21.52,0:03:26.62,DEFAULT,,0,0,0,,{\r}{\kf41}I've{\kf55} final{\kf89}ly{\kf20} fo{\kf48}und{\kf55} some{\kf41}one{\kf68} like{\kf94} me
+Dialogue: 0,0:03:28.94,0:03:31.57,DEFAULT,,0,0,0,,{\r}{\kf63}Things{\kf53} get{\kf37} com{\kf21}pli{\kf68}ca{\kf21}ted
+Dialogue: 0,0:03:31.73,0:03:34.44,DEFAULT,,0,0,0,,{\r}{\kf42}So{\kf73} I've{\kf36} watched{\kf21} and{\kf68} wai{\kf31}ted
+Dialogue: 0,0:03:34.59,0:03:37.22,DEFAULT,,0,0,0,,{\r}{\kf54}For{\kf54} the{\kf43} mo{\kf21}ment{\kf59} I'll{\kf32} find
+Dialogue: 0,0:03:37.38,0:03:39.70,DEFAULT,,0,0,0,,{\r}{\kf50}Some{\kf81}one{\kf71} like{\kf30} me
+Dialogue: 0,0:03:39.85,0:03:42.87,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf50} feel{\kf70} so{\kf40} un{\kf15}der{\kf65}ra{\kf32}ted
+Dialogue: 0,0:03:43.03,0:03:45.70,DEFAULT,,0,0,0,,{\r}{\kf43}Some{\kf32} just{\kf43} leave{\kf32} me{\kf21} frus{\kf64}tra{\kf32}ted
+Dialogue: 0,0:03:45.89,0:03:48.37,DEFAULT,,0,0,0,,{\r}{\kf53}May{\kf42}be{\kf32} I've{\kf42} final{\kf26}ly{\kf53} found
+Dialogue: 0,0:03:48.68,0:03:51.39,DEFAULT,,0,0,0,,{\r}{\kf61}Some{\kf70}one{\kf70} like{\kf70} me
+Dialogue: 0,0:03:51.54,0:03:54.17,DEFAULT,,0,0,0,,{\r}{\kf58}Things{\kf53} get{\kf37} com{\kf21}pli{\kf68}ca{\kf26}ted
+Dialogue: 0,0:03:54.33,0:03:57.03,DEFAULT,,0,0,0,,{\r}{\kf43}So{\kf69} I've{\kf43} watched{\kf16} and{\kf69} wai{\kf31}ted
+Dialogue: 0,0:03:57.19,0:03:59.82,DEFAULT,,0,0,0,,{\r}{\kf55}For{\kf55} the{\kf44} mo{\kf22}ment{\kf55} I'll{\kf32} find
+Dialogue: 0,0:03:59.97,0:04:02.30,DEFAULT,,0,0,0,,{\r}{\kf52}Some{\kf72}one{\kf72} like{\kf36} me
+Dialogue: 0,0:04:02.45,0:04:05.47,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf50} feel{\kf70} so{\kf40} un{\kf15}der{\kf65}ra{\kf32}ted
+Dialogue: 0,0:04:05.62,0:04:08.33,DEFAULT,,0,0,0,,{\r}{\kf43}Some{\kf33} just{\kf43} leave{\kf33} me{\kf22} frus{\kf65}tra{\kf32}ted
+Dialogue: 0,0:04:08.49,0:04:10.96,DEFAULT,,0,0,0,,{\r}{\kf53}Feels{\kf32} like{\kf37} I'll{\kf47} ne{\kf26}ver{\kf53} find
+Dialogue: 0,0:04:11.27,0:04:14.06,DEFAULT,,0,0,0,,{\r}{\kf63}Some{\kf72}one{\kf72} like{\kf36} me{\kf36}~
+Dialogue: 0,0:04:23.65,0:04:26.29,DEFAULT,,0,0,0,,{\r}{\kf36}Some{\kf32}one{\kf36} li{\kf63}ke{\kf23} m{\kf73}e

@@ -1,64 +1,96 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Getting Stronger
+Artist: Black Gryph0n, Baasik, Michelle Creber
+Original Timing: mylittlekaraoke.com by ShTHfan1
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:49.90,0:00:51.80,DEFAULT,,0,0,0,,{\kf18}My{\kf18} re{\kf18}turn{\kf18} is{\kf18} a{\kf18} mys{\kf18}te{\kf24}ry
-Dialogue: 0,0:00:52.04,0:00:53.95,DEFAULT,,0,0,0,,{\kf18}Thought{\kf18} you{\kf18} had{\kf18} con{\kf18}trol{\kf18} of{\kf48} me
-Dialogue: 0,0:00:54.43,0:00:57.05,DEFAULT,,0,0,0,,{\kf18}I'm{\kf18} of{\kf36}fen{\kf18}ded{\kf18} that{\kf36} you're{\kf18} so{\kf18} sur{\kf24}prised
-Dialogue: 0,0:00:57.29,0:00:59.43,DEFAULT,,0,0,0,,{\kf18}That{\kf18} first{\kf18} de{\kf18}feat{\kf18} was{\kf18} a{\kf18} prac{\kf18}tice{\kf24} round
-Dialogue: 0,0:00:59.61,0:01:01.70,DEFAULT,,0,0,0,,{\kf12}But{\kf12} I{\kf18} pulled{\kf18} my{\kf18}self{\kf18} off{\kf18} the{\kf18} gro{\kf36}-ound
-Dialogue: 0,0:01:02.06,0:01:04.68,DEFAULT,,0,0,0,,{\kf18}And{\kf18} I've{\kf36} al{\kf18}rea{\kf18}dy{\kf36} planned{\kf18} your{\kf18} de{\kf24}mise
-Dialogue: 0,0:01:04.44,0:01:07.66,DEFAULT,,0,0,0,,{\kf24}I{\kf24} won't{\kf36} stop{\kf18} figh{\kf18}ting{\kf18} cause{\kf18} I'm{\kf18} not{\kf36} done{\kf36} yet
-Dialogue: 0,0:01:07.78,0:01:09.45,DEFAULT,,0,0,0,,{\kf24}You're{\kf36} gon{\kf18}na{\kf18} re{\kf24}gret
-Dialogue: 0,0:01:09.69,0:01:12.31,DEFAULT,,0,0,0,,{\kf24}This{\kf36} time{\kf18} I{\kf18} won't{\kf36} let{\kf18} you{\kf18} for{\kf24}get
-Dialogue: 0,0:01:12.55,0:01:15.29,DEFAULT,,0,0,0,,{\kf18}You're{\kf24} not{\kf18} gon{\kf18}na{\kf18} get{\kf18} a{\kf18}way{\kf36} this{\kf18} ti{\kf12}-ime
-Dialogue: 0,0:01:15.47,0:01:17.08,DEFAULT,,0,0,0,,{\kf30}I'll{\kf36} strike{\kf18} when{\kf18} you're{\kf24} blind
-Dialogue: 0,0:01:17.32,0:01:19.94,DEFAULT,,0,0,0,,{\kf18}You'll{\kf18} a{\kf24}wake{\kf18} just{\kf18} to{\kf36} find{\kf18} you{\kf18} are{\kf24} mine
-Dialogue: 0,0:01:20.18,0:01:21.14,DEFAULT,,0,0,0,,{\kf18}You{\kf18} thought{\kf18} you{\kf24} won
-Dialogue: 0,0:01:21.37,0:01:23.28,DEFAULT,,0,0,0,,{\kf18}Thought{\kf18} the{\kf18} bat{\kf18}tle{\kf18} was{\kf36} o{\kf24}ver
-Dialogue: 0,0:01:23.52,0:01:27.22,DEFAULT,,0,0,0,,{\kf18}But{\kf36} I,{\kf36} I,{\kf36} I,{\kf36} I’m{\kf18} just{\kf18} get{\kf18}ting{\kf36} stron{\kf36}ger
-Dialogue: 0,0:01:27.81,0:01:28.89,DEFAULT,,0,0,0,,{\kf18}En{\kf18}joy{\kf18} your{\kf18} free{\kf12}dom
-Dialogue: 0,0:01:29.06,0:01:30.91,DEFAULT,,0,0,0,,{\kf12}It{\kf18} won't{\kf18} last{\kf36} much{\kf36} lon{\kf24}ger
-Dialogue: 0,0:01:31.15,0:01:34.85,DEFAULT,,0,0,0,,{\kf18}Cause{\kf36} I,{\kf36} I,{\kf36} I,{\kf36} I{\kf18} keep{\kf18} get{\kf18}ting{\kf36} stron{\kf36}ger
-Dialogue: 0,0:01:35.68,0:01:37.35,DEFAULT,,0,0,0,,{\kf18}When{\kf18} the{\kf18} sky{\kf18} turns{\kf18} to{\kf18} gre{\kf24}-ey
-Dialogue: 0,0:01:37.59,0:01:39.26,DEFAULT,,0,0,0,,{\kf18}When{\kf18} the{\kf18} light{\kf18} fades{\kf18} a{\kf18}wa{\kf24}-ay
-Dialogue: 0,0:01:39.50,0:01:42.48,DEFAULT,,0,0,0,,{\kf18}You{\kf18} will{\kf36} say{\kf18} I{\kf18} just{\kf18} keep{\kf18} get{\kf18}ting{\kf36} stron{\kf36}ger
-Dialogue: 0,0:01:43.31,0:01:44.98,DEFAULT,,0,0,0,,{\kf18}You{\kf18} can{\kf18} try{\kf18} to{\kf18} pre{\kf18}pa{\kf24}-are
-Dialogue: 0,0:01:45.22,0:01:46.89,DEFAULT,,0,0,0,,{\kf18}Or{\kf18} at{\kf18}tack{\kf18} if{\kf18} you{\kf18} da{\kf24}-are
-Dialogue: 0,0:01:47.13,0:01:50.94,DEFAULT,,0,0,0,,{\kf18}I{\kf18} don't{\kf36} care,{\kf18} cause{\kf18} I'm{\kf18} just{\kf18} get{\kf18}ting{\kf36} stron{\kf36}ge{\kf18}-e{\kf48}-er
-Dialogue: 0,0:01:54.28,0:01:57.74,DEFAULT,,0,0,0,,{\kf36}I,{\kf36} I,{\kf36} I,{\kf36} I’m{\kf18} just{\kf18} get{\kf18}ting{\kf36} stron{\kf36}ger
-Dialogue: 0,0:02:01.91,0:02:06.21,DEFAULT,,0,0,0,,{\kf36}I,{\kf36} I,{\kf36} I,{\kf36} I’m{\kf18} just{\kf18} get{\kf18}ting{\kf36} stron{\kf42}ge{\kf18}-e{\kf48}-er
-Dialogue: 0,0:02:09.31,0:02:13.00,DEFAULT,,0,0,0,,{\kf18}Cause{\kf36} I,{\kf36} I,{\kf36} I,{\kf36} I’m{\kf18} just{\kf18} get{\kf18}ting{\kf36} stron{\kf36}ger
-Dialogue: 0,0:02:17.18,0:02:20.63,DEFAULT,,0,0,0,,{\kf36}I,{\kf36} I,{\kf36} I,{\kf36} I’m{\kf18} just{\kf18} get{\kf18}ting{\kf36} stron{\kf36}ger
-Dialogue: 0,0:02:28.86,0:02:31.60,DEFAULT,,0,0,0,,{\kf18}I{\kf18} am{\kf18} the{\kf18} night{\kf18}mare{\kf18} that{\kf18} re{\kf18}plays{\kf18} in{\kf18} your{\kf36} head
-Dialogue: 0,0:02:32.68,0:02:35.42,DEFAULT,,0,0,0,,{\kf18}I{\kf18} am{\kf18} the{\kf18} sha{\kf18}dow{\kf18} lur{\kf18}king{\kf18} un{\kf18}der{\kf18} your{\kf36} bed
-Dialogue: 0,0:02:36.49,0:02:39.24,DEFAULT,,0,0,0,,{\kf18}And{\kf18} when{\kf18} I{\kf18} lose{\kf18} it's{\kf18} ne{\kf18}ver{\kf18} rea{\kf18}lly{\kf18} the{\kf36} end
-Dialogue: 0,0:02:40.31,0:02:43.05,DEFAULT,,0,0,0,,{\kf18}You{\kf18} should{\kf18} have{\kf18} known{\kf18} I'd{\kf18} have{\kf18} a{\kf18} plan{\kf18} for{\kf18} re{\kf36}venge
-Dialogue: 0,0:02:43.41,0:02:46.75,DEFAULT,,0,0,0,,{\kf18}And{\kf18} I{\kf36} won't{\kf36} stop{\kf18} figh{\kf18}ting{\kf18} cause{\kf18} I'm{\kf18} not{\kf36} done{\kf24} yet
-Dialogue: 0,0:02:46.99,0:02:48.65,DEFAULT,,0,0,0,,{\kf24}You're{\kf36} gon{\kf18}na{\kf18} re{\kf24}gret
-Dialogue: 0,0:02:48.89,0:02:51.52,DEFAULT,,0,0,0,,{\kf24}This{\kf36} time{\kf18} I{\kf18} won't{\kf36} let{\kf18} you{\kf18} for{\kf24}get
-Dialogue: 0,0:02:51.76,0:02:54.50,DEFAULT,,0,0,0,,{\kf18}You're{\kf24} not{\kf18} gon{\kf18}na{\kf18} get{\kf18} a{\kf18}way{\kf36} this{\kf18} ti{\kf12}-ime
-Dialogue: 0,0:02:54.68,0:02:56.29,DEFAULT,,0,0,0,,{\kf30}I'll{\kf36} strike{\kf18} when{\kf18} you're{\kf24} blind
-Dialogue: 0,0:02:56.52,0:02:59.03,DEFAULT,,0,0,0,,{\kf18}You'll{\kf18} a{\kf24}wake{\kf18} just{\kf18} to{\kf36} find{\kf18} you{\kf18} are{\kf12} mine
-Dialogue: 0,0:02:59.21,0:03:00.10,DEFAULT,,0,0,0,,{\kf12}You{\kf18} thought{\kf18} you{\kf24} won
-Dialogue: 0,0:03:00.34,0:03:02.25,DEFAULT,,0,0,0,,{\kf18}Thought{\kf18} the{\kf18} bat{\kf18}tle{\kf18} was{\kf36} o{\kf24}ver
-Dialogue: 0,0:03:02.49,0:03:06.18,DEFAULT,,0,0,0,,{\kf18}But{\kf36} I,{\kf36} I,{\kf36} I,{\kf36} I’m{\kf18} just{\kf18} get{\kf18}ting{\kf36} stron{\kf36}ger
-Dialogue: 0,0:03:06.78,0:03:07.85,DEFAULT,,0,0,0,,{\kf18}En{\kf18}joy{\kf18} your{\kf18} free{\kf12}dom
-Dialogue: 0,0:03:08.03,0:03:09.88,DEFAULT,,0,0,0,,{\kf12}It{\kf18} won't{\kf18} last{\kf36} much{\kf36} lon{\kf24}ger
-Dialogue: 0,0:03:10.12,0:03:15.96,DEFAULT,,0,0,0,,{\kf18}Cause{\kf36} I,{\kf36} I,{\kf36} I,{\kf36} I{\kf18} keep{\kf18} get{\kf18}ting{\kf36} stron{\kf48}ge{\kf24}-e{\kf138}-e{\kf36}-er
-Dialogue: 0,0:03:29.91,0:03:31.58,DEFAULT,,0,0,0,,{\kf18}When{\kf18} the{\kf18} sky{\kf18} turns{\kf18} to{\kf18} gre{\kf24}-ey
-Dialogue: 0,0:03:31.82,0:03:33.49,DEFAULT,,0,0,0,,{\kf18}When{\kf18} the{\kf18} light{\kf18} fades{\kf18} a{\kf18}wa{\kf24}-ay
-Dialogue: 0,0:03:33.73,0:03:36.71,DEFAULT,,0,0,0,,{\kf18}You{\kf18} will{\kf36} say,{\kf18} I{\kf18} just{\kf18} keep{\kf18} get{\kf18}ting{\kf36} stron{\kf36}ger
-Dialogue: 0,0:03:37.54,0:03:39.09,DEFAULT,,0,0,0,,{\kf18}Stron{\kf18}ger{\kf18} e{\kf18}ve{\kf18}ry{\kf36} day
-Dialogue: 0,0:03:39.45,0:03:44.22,DEFAULT,,0,0,0,,{\kf18}Stron{\kf18}ger{\kf18} e{\kf18}ve{\kf18}ry{\kf203} da{\kf144}-ay
-Dialogue: 0,0:03:48.51,0:03:51.97,DEFAULT,,0,0,0,,{\kf36}I,{\kf36} I,{\kf36} I,{\kf36} I{\kf18} keep{\kf18} get{\kf18}ting{\kf36} stron{\kf36}ger
-Dialogue: 0,0:03:56.14,0:04:01.75,DEFAULT,,0,0,0,,{\kf36}I,{\kf36} I,{\kf36} I,{\kf36} I{\kf18} keep{\kf18} get{\kf18}ting{\kf36} stron{\kf48}ge{\kf24}-e{\kf138}-e{\kf36}-er
-Dialogue: 0,0:04:03.30,0:04:07.23,DEFAULT,,0,0,0,,{\kf18}Ca{\kf12}-ause{\kf36} I,{\kf36} I,{\kf36} I,{\kf36} I{\kf18} keep{\kf18} get{\kf18}ting{\kf36} stron{\kf36}ger
-Dialogue: 0,0:04:11.41,0:04:17.01,DEFAULT,,0,0,0,,{\kf36}I,{\kf36} I,{\kf36} I,{\kf36} I{\kf18} keep{\kf18} get{\kf18}ting{\kf36} stron{\kf48}ge{\kf24}-e{\kf138}-e{\kf36}-er
+Dialogue: 0,0:00:49.90,0:00:51.81,DEFAULT,,0,0,0,,{\r}{\kf23}My{\kf23} re{\kf23}turn{\kf23} is{\kf23} a{\kf23} mys{\kf23}te{\kf30}ry
+Dialogue: 0,0:00:52.05,0:00:53.95,DEFAULT,,0,0,0,,{\r}{\kf22}Thought{\kf22} you{\kf22} had{\kf22} con{\kf22}trol{\kf22} of{\kf59} me
+Dialogue: 0,0:00:54.43,0:00:57.05,DEFAULT,,0,0,0,,{\r}{\kf23}I'm{\kf23} of{\kf46}fen{\kf23}ded{\kf23} that{\kf46} you're{\kf23} so{\kf23} sur{\kf32}prised
+Dialogue: 0,0:00:57.29,0:00:59.44,DEFAULT,,0,0,0,,{\r}{\kf23}That{\kf23} first{\kf23} de{\kf23}feat{\kf23} was{\kf23} a{\kf23} prac{\kf23}tice{\kf31} round
+Dialogue: 0,0:00:59.62,0:01:01.70,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf15} I{\kf22} pulled{\kf22} my{\kf22}self{\kf22} off{\kf22} the{\kf22} gro{\kf47}-ound
+Dialogue: 0,0:01:02.06,0:01:04.69,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf23} I've{\kf46} al{\kf23}rea{\kf23}dy{\kf46} planned{\kf23} your{\kf23} de{\kf32}mise
+Dialogue: 0,0:01:04.45,0:01:07.67,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf31} won't{\kf47} stop{\kf24} figh{\kf24}ting{\kf24} cause{\kf24} I'm{\kf24} not{\kf47} done{\kf46} yet
+Dialogue: 0,0:01:07.79,0:01:09.45,DEFAULT,,0,0,0,,{\r}{\kf33}You're{\kf50} gon{\kf25}na{\kf25} re{\kf34}gret
+Dialogue: 0,0:01:09.69,0:01:12.32,DEFAULT,,0,0,0,,{\r}{\kf33}This{\kf49} time{\kf25} I{\kf25} won't{\kf49} let{\kf25} you{\kf25} for{\kf31}get
+Dialogue: 0,0:01:12.56,0:01:15.30,DEFAULT,,0,0,0,,{\r}{\kf25}You're{\kf33} not{\kf25} gon{\kf25}na{\kf25} get{\kf25} a{\kf25}way{\kf50} this{\kf25} ti{\kf16}-ime
+Dialogue: 0,0:01:15.48,0:01:17.09,DEFAULT,,0,0,0,,{\r}{\kf38}I'll{\kf46} strike{\kf23} when{\kf23} you're{\kf31} blind
+Dialogue: 0,0:01:17.32,0:01:19.95,DEFAULT,,0,0,0,,{\r}{\kf25}You'll{\kf25} a{\kf33}wake{\kf25} just{\kf25} to{\kf49} find{\kf25} you{\kf25} are{\kf30} mine
+Dialogue: 0,0:01:20.19,0:01:21.14,DEFAULT,,0,0,0,,{\r}{\kf22}You{\kf22} thought{\kf22} you{\kf29} won
+Dialogue: 0,0:01:21.38,0:01:23.29,DEFAULT,,0,0,0,,{\r}{\kf23}Thought{\kf23} the{\kf23} bat{\kf23}tle{\kf23} was{\kf46} o{\kf30}ver
+Dialogue: 0,0:01:23.52,0:01:27.22,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf46} I,{\kf46} I,{\kf46} I,{\kf46} I’m{\kf23} just{\kf23} get{\kf23}ting{\kf46} stron{\kf48}ger
+Dialogue: 0,0:01:27.82,0:01:28.89,DEFAULT,,0,0,0,,{\r}{\kf23}En{\kf23}joy{\kf23} your{\kf23} free{\kf15}dom
+Dialogue: 0,0:01:29.07,0:01:30.92,DEFAULT,,0,0,0,,{\r}{\kf15}It{\kf23} won't{\kf23} last{\kf46} much{\kf46} lon{\kf32}ger
+Dialogue: 0,0:01:31.16,0:01:34.85,DEFAULT,,0,0,0,,{\r}{\kf23}Cause{\kf46} I,{\kf46} I,{\kf46} I,{\kf46} I{\kf23} keep{\kf23} get{\kf23}ting{\kf46} stron{\kf48}ger
+Dialogue: 0,0:01:35.69,0:01:37.36,DEFAULT,,0,0,0,,{\r}{\kf23}When{\kf23} the{\kf23} sky{\kf23} turns{\kf23} to{\kf23} gre{\kf29}-ey
+Dialogue: 0,0:01:37.59,0:01:39.26,DEFAULT,,0,0,0,,{\r}{\kf23}When{\kf23} the{\kf23} light{\kf23} fades{\kf23} a{\kf23}wa{\kf29}-ay
+Dialogue: 0,0:01:39.50,0:01:42.48,DEFAULT,,0,0,0,,{\r}{\kf23}You{\kf23} will{\kf46} say{\kf23} I{\kf23} just{\kf23} keep{\kf23} get{\kf23}ting{\kf46} stron{\kf45}ger
+Dialogue: 0,0:01:43.32,0:01:44.99,DEFAULT,,0,0,0,,{\r}{\kf23}You{\kf23} can{\kf23} try{\kf23} to{\kf23} pre{\kf23}pa{\kf29}-are
+Dialogue: 0,0:01:45.23,0:01:46.90,DEFAULT,,0,0,0,,{\r}{\kf23}Or{\kf23} at{\kf23}tack{\kf23} if{\kf23} you{\kf23} da{\kf29}-are
+Dialogue: 0,0:01:47.13,0:01:50.95,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf23} don't{\kf46} care,{\kf23} cause{\kf23} I'm{\kf23} just{\kf23} get{\kf23}ting{\kf46} stron{\kf46}ge{\kf23}-e{\kf60}-er
+Dialogue: 0,0:01:54.29,0:01:57.75,DEFAULT,,0,0,0,,{\r}{\kf46}I,{\kf46} I,{\kf46} I,{\kf46} I’m{\kf23} just{\kf23} get{\kf23}ting{\kf46} stron{\kf47}ger
+Dialogue: 0,0:02:01.92,0:02:06.21,DEFAULT,,0,0,0,,{\r}{\kf45}I,{\kf45} I,{\kf45} I,{\kf45} I’m{\kf23} just{\kf23} get{\kf23}ting{\kf45} stron{\kf53}ge{\kf23}-e{\kf59}-er
+Dialogue: 0,0:02:09.31,0:02:13.01,DEFAULT,,0,0,0,,{\r}{\kf23}Cause{\kf46} I,{\kf46} I,{\kf46} I,{\kf46} I’m{\kf23} just{\kf23} get{\kf23}ting{\kf46} stron{\kf48}ger
+Dialogue: 0,0:02:17.18,0:02:20.64,DEFAULT,,0,0,0,,{\r}{\kf46}I,{\kf46} I,{\kf46} I,{\kf46} I’m{\kf23} just{\kf23} get{\kf23}ting{\kf46} stron{\kf47}ger
+Dialogue: 0,0:02:28.87,0:02:31.61,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf23} am{\kf23} the{\kf23} night{\kf23}mare{\kf23} that{\kf23} re{\kf23}plays{\kf23} in{\kf23} your{\kf44} head
+Dialogue: 0,0:02:32.68,0:02:35.42,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf23} am{\kf23} the{\kf23} sha{\kf23}dow{\kf23} lur{\kf23}king{\kf23} un{\kf23}der{\kf23} your{\kf44} bed
+Dialogue: 0,0:02:36.50,0:02:39.24,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf23} when{\kf23} I{\kf23} lose{\kf23} it's{\kf23} ne{\kf23}ver{\kf23} rea{\kf23}lly{\kf23} the{\kf44} end
+Dialogue: 0,0:02:40.31,0:02:43.06,DEFAULT,,0,0,0,,{\r}{\kf23}You{\kf23} should{\kf23} have{\kf23} known{\kf23} I'd{\kf23} have{\kf23} a{\kf23} plan{\kf23} for{\kf23} re{\kf44}venge
+Dialogue: 0,0:02:43.41,0:02:46.75,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf23} I{\kf47} won't{\kf47} stop{\kf23} figh{\kf23}ting{\kf23} cause{\kf23} I'm{\kf23} not{\kf47} done{\kf32} yet
+Dialogue: 0,0:02:46.99,0:02:48.66,DEFAULT,,0,0,0,,{\r}{\kf33}You're{\kf50} gon{\kf25}na{\kf25} re{\kf34}gret
+Dialogue: 0,0:02:48.90,0:02:51.52,DEFAULT,,0,0,0,,{\r}{\kf33}This{\kf49} time{\kf25} I{\kf25} won't{\kf49} let{\kf25} you{\kf25} for{\kf31}get
+Dialogue: 0,0:02:51.76,0:02:54.50,DEFAULT,,0,0,0,,{\r}{\kf25}You're{\kf33} not{\kf25} gon{\kf25}na{\kf25} get{\kf25} a{\kf25}way{\kf50} this{\kf25} ti{\kf16}-ime
+Dialogue: 0,0:02:54.68,0:02:56.29,DEFAULT,,0,0,0,,{\r}{\kf38}I'll{\kf46} strike{\kf23} when{\kf23} you're{\kf31} blind
+Dialogue: 0,0:02:56.53,0:02:59.03,DEFAULT,,0,0,0,,{\r}{\kf25}You'll{\kf25} a{\kf33}wake{\kf25} just{\kf25} to{\kf50} find{\kf25} you{\kf25} are{\kf17} mine
+Dialogue: 0,0:02:59.21,0:03:00.11,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf22} thought{\kf22} you{\kf30} won
+Dialogue: 0,0:03:00.35,0:03:02.25,DEFAULT,,0,0,0,,{\r}{\kf23}Thought{\kf23} the{\kf23} bat{\kf23}tle{\kf23} was{\kf46} o{\kf30}ver
+Dialogue: 0,0:03:02.49,0:03:06.19,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf46} I,{\kf46} I,{\kf46} I,{\kf46} I’m{\kf23} just{\kf23} get{\kf23}ting{\kf46} stron{\kf48}ger
+Dialogue: 0,0:03:06.78,0:03:07.86,DEFAULT,,0,0,0,,{\r}{\kf23}En{\kf23}joy{\kf23} your{\kf23} free{\kf15}dom
+Dialogue: 0,0:03:08.04,0:03:09.88,DEFAULT,,0,0,0,,{\r}{\kf15}It{\kf23} won't{\kf23} last{\kf46} much{\kf46} lon{\kf32}ger
+Dialogue: 0,0:03:10.12,0:03:15.97,DEFAULT,,0,0,0,,{\r}{\kf21}Cause{\kf42} I,{\kf42} I,{\kf42} I,{\kf42} I{\kf21} keep{\kf21} get{\kf21}ting{\kf42} stron{\kf56}ge{\kf28}-e{\kf162}-e{\kf44}-er
+Dialogue: 0,0:03:29.92,0:03:31.59,DEFAULT,,0,0,0,,{\r}{\kf23}When{\kf23} the{\kf23} sky{\kf23} turns{\kf23} to{\kf23} gre{\kf29}-ey
+Dialogue: 0,0:03:31.82,0:03:33.49,DEFAULT,,0,0,0,,{\r}{\kf23}When{\kf23} the{\kf23} light{\kf23} fades{\kf23} a{\kf23}wa{\kf29}-ay
+Dialogue: 0,0:03:33.73,0:03:36.71,DEFAULT,,0,0,0,,{\r}{\kf23}You{\kf23} will{\kf46} say,{\kf23} I{\kf23} just{\kf23} keep{\kf23} get{\kf23}ting{\kf46} stron{\kf45}ger
+Dialogue: 0,0:03:37.55,0:03:39.10,DEFAULT,,0,0,0,,{\r}{\kf22}Stron{\kf22}ger{\kf22} e{\kf22}ve{\kf22}ry{\kf45} day
+Dialogue: 0,0:03:39.45,0:03:44.22,DEFAULT,,0,0,0,,{\r}{\kf20}Stron{\kf20}ger{\kf20} e{\kf20}ve{\kf20}ry{\kf222} da{\kf155}-ay
+Dialogue: 0,0:03:48.52,0:03:51.97,DEFAULT,,0,0,0,,{\r}{\kf46}I,{\kf46} I,{\kf46} I,{\kf46} I{\kf23} keep{\kf23} get{\kf23}ting{\kf46} stron{\kf47}ger
+Dialogue: 0,0:03:56.15,0:04:01.75,DEFAULT,,0,0,0,,{\r}{\kf42}I,{\kf42} I,{\kf42} I,{\kf42} I{\kf21} keep{\kf21} get{\kf21}ting{\kf42} stron{\kf56}ge{\kf28}-e{\kf161}-e{\kf42}-er
+Dialogue: 0,0:04:03.30,0:04:07.24,DEFAULT,,0,0,0,,{\r}{\kf24}Ca{\kf16}-ause{\kf47} I,{\kf47} I,{\kf47} I,{\kf47} I{\kf24} keep{\kf24} get{\kf24}ting{\kf47} stron{\kf46}ger
+Dialogue: 0,0:04:11.41,0:04:17.01,DEFAULT,,0,0,0,,{\r}{\kf42}I,{\kf42} I,{\kf42} I,{\kf42} I{\kf21} keep{\kf21} get{\kf21}ting{\kf42} stron{\kf56}ge{\kf28}-e{\kf161}-e{\kf42}-erogue: 0,0:02:59.15,0:03:00.23,DEFAULT,,0,0,0,,{\r}{\kf21}You{\kf21} thought{\kf21} you{\kf44} won
+Dialogue: 0,0:03:00.35,0:03:02.37,DEFAULT,,0,0,0,,{\r}{\kf23}Thought{\kf23} the{\kf23} bat{\kf23}tle{\kf23} was{\kf45} o{\kf43}ver
+Dialogue: 0,0:03:02.49,0:03:06.19,DEFAULT,,0,0,0,,{\r}{\kf31}But{\kf62} I,{\kf62} I…{\kf31} just{\kf31} get{\kf31}ting{\kf62} stron{\kf60}ger
+Dialogue: 0,0:03:03.21,0:03:06.19,DEFAULT,,0,0,0,,{\r}{\kf54} I,{\kf54} I’m{\kf27} just{\kf27} get{\kf27}ting{\kf54} stron{\kf55}ger
+Dialogue: 0,0:03:06.78,0:03:07.86,DEFAULT,,0,0,0,,{\r}{\kf23}En{\kf23}joy{\kf23} your{\kf23} free{\kf15}dom
+Dialogue: 0,0:03:07.98,0:03:10.00,DEFAULT,,0,0,0,,{\r}{\kf23}It{\kf23} won't{\kf23} last{\kf45} much{\kf45} lon{\kf44}ger
+Dialogue: 0,0:03:10.12,0:03:11.67,DEFAULT,,0,0,0,,{\r}{\kf31}Cause{\kf62} I,{\kf62} I
+Dialogue: 0,0:03:10.84,0:03:15.97,DEFAULT,,0,0,0,,{\r}{\kf45} I,{\kf45} I{\kf23} keep{\kf23} get{\kf23}ting{\kf45} stron{\kf60}ge{\kf30}-e{\kf174}-e{\kf45}-er
+Dialogue: 0,0:03:29.92,0:03:31.59,DEFAULT,,0,0,0,,{\r}{\kf23}When{\kf23} the{\kf23} sky{\kf23} turns{\kf23} to{\kf23} gre{\kf29}-ey
+Dialogue: 0,0:03:29.92,0:03:31.59,DEFAULT,,0,0,0,,{\r}{\kf23}When{\kf23} the{\kf23} sky{\kf23} turns{\kf23} to{\kf23} gre{\kf29}-ey
+Dialogue: 0,0:03:31.82,0:03:33.49,DEFAULT,,0,0,0,,{\r}{\kf23}When{\kf23} the{\kf23} light{\kf23} fades{\kf23} a{\kf23}wa{\kf29}-ay
+Dialogue: 0,0:03:31.82,0:03:33.49,DEFAULT,,0,0,0,,{\r}{\kf23}When{\kf23} the{\kf23} light{\kf23} fades{\kf23} a{\kf23}wa{\kf29}-ay
+Dialogue: 0,0:03:33.73,0:03:37.07,DEFAULT,,0,0,0,,{\r}{\kf22}You{\kf22} will{\kf45} say,{\kf22} I{\kf22} just{\kf22} keep{\kf22} get{\kf22}ting{\kf45} stron{\kf90}ger
+Dialogue: 0,0:03:33.73,0:03:36.71,DEFAULT,,0,0,0,,{\r}{\kf23}You{\kf23} will{\kf46} say,{\kf23} I{\kf23} just{\kf23} keep{\kf23} get{\kf23}ting{\kf46} stron{\kf45}ger
+Dialogue: 0,0:03:37.55,0:03:39.10,DEFAULT,,0,0,0,,{\r}{\kf22}Stron{\kf22}ger{\kf22} e{\kf22}ve{\kf22}ry{\kf45} day
+Dialogue: 0,0:03:37.55,0:03:39.10,DEFAULT,,0,0,0,,{\r}{\kf22}Stron{\kf22}ger{\kf22} e{\kf22}ve{\kf22}ry{\kf45} day
+Dialogue: 0,0:03:39.45,0:03:44.70,DEFAULT,,0,0,0,,{\r}{\kf19}Stron{\kf19}ger{\kf19} e{\kf19}ve{\kf19}ry{\kf220} da{\kf210}-ay
+Dialogue: 0,0:03:39.45,0:03:44.22,DEFAULT,,0,0,0,,{\r}{\kf20}Stron{\kf20}ger{\kf20} e{\kf20}ve{\kf20}ry{\kf222} da{\kf155}-ay
+Dialogue: 0,0:03:48.52,0:03:52.09,DEFAULT,,0,0,0,,{\r}{\kf61}I,{\kf61} I{\kf31} keep{\kf31} get{\kf31}ting{\kf61} stron{\kf82}ger
+Dialogue: 0,0:03:48.99,0:03:51.97,DEFAULT,,0,0,0,,{\r}{\kf54} I,{\kf54} I{\kf27} keep{\kf27} get{\kf27}ting{\kf54} stron{\kf55}ger
+Dialogue: 0,0:03:56.15,0:03:59.73,DEFAULT,,0,0,0,,{\r}{\kf61}I,{\kf61} I{\kf31} keep{\kf31} get{\kf31}ting{\kf61} stron{\kf82}ger
+Dialogue: 0,0:03:56.62,0:04:01.75,DEFAULT,,0,0,0,,{\r}{\kf45} I,{\kf45} I{\kf23} keep{\kf23} get{\kf23}ting{\kf45} stron{\kf60}ge{\kf30}-e{\kf174}-e{\kf45}-er
+Dialogue: 0,0:04:03.30,0:04:07.36,DEFAULT,,0,0,0,,{\r}{\kf30}Ca{\kf20}-ause{\kf61} I,{\kf61} I{\kf30} keep{\kf30} get{\kf30}ting{\kf61} stron{\kf82}ger
+Dialogue: 0,0:04:04.26,0:04:07.24,DEFAULT,,0,0,0,,{\r}{\kf54} I,{\kf54} I{\kf27} keep{\kf27} get{\kf27}ting{\kf54} stron{\kf55}ger
+Dialogue: 0,0:04:11.41,0:04:15.70,DEFAULT,,0,0,0,,{\r}{\kf55}I,{\kf55} I{\kf27} keep{\kf27} get{\kf27}ting{\kf55} stron{\kf73}ge{\kf110}-er
+Dialogue: 0,0:04:11.89,0:04:17.01,DEFAULT,,0,0,0,,{\r}{\kf45} I,{\kf45} I{\kf23} keep{\kf23} get{\kf23}ting{\kf45} stron{\kf60}ge{\kf30}-e{\kf174}-e{\kf45}-er

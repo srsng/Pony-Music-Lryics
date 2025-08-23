@@ -1,37 +1,44 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: The New Librarian
+Artist: Francis Vace
+Original Timing: mylittlekaraoke.com by barbeque
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:11.28,0:00:13.68,DEFAULT,,0,0,0,,{\kf1136}The{\kf1136} kids{\kf1136} in{\kf1140} my{\kf1144} town{\kf1144} are{\kf1136} get{\kf1136}ting{\kf1181} weird
-Dialogue: 0,0:00:16.26,0:00:19.45,DEFAULT,,0,0,0,,{\kf1140}E{\kf1140}ver{\kf1144} since{\kf1144} the{\kf1147} new{\kf1140} head{\kf1147} li{\kf1144}bra{\kf1147}ri{\kf1140}an{\kf1140} ap{\kf1162}peared
-Dialogue: 0,0:00:20.80,0:00:23.65,DEFAULT,,0,0,0,,{\kf1140}They're{\kf1136} get{\kf1136}ting{\kf1136} ex{\kf1136}tra{\kf1140} les{\kf1140}sons{\kf1147} when{\kf1162} school{\kf1185} ends
-Dialogue: 0,0:00:25.68,0:00:29.20,DEFAULT,,0,0,0,,{\kf1136}A{\kf1140}bout{\kf1136} the{\kf1147} ma{\kf1140}gic{\kf1144} that{\kf1144} comes{\kf1144} from{\kf1166} be{\kf1144}ing{\kf1177} friends
-Dialogue: 0,0:00:30.03,0:00:32.46,DEFAULT,,0,0,0,,{\kf1339}Oh,{\kf1147} oh
-Dialogue: 0,0:00:34.83,0:00:37.38,DEFAULT,,0,0,0,,{\kf1335}Oh{\kf1136}~,{\kf1147} oh
-Dialogue: 0,0:00:40.08,0:00:42.10,DEFAULT,,0,0,0,,{\kf1136}The{\kf1144} new{\kf1144} li{\kf1136}bra{\kf1136}ri{\kf1140}an{\kf1151} is{\kf1136} a{\kf1147} horse
-Dialogue: 0,0:00:42.55,0:00:44.50,DEFAULT,,0,0,0,,{\kf1147}And{\kf1140} she's{\kf1140} check{\kf1136}ing{\kf1144} you{\kf1147} out,{\kf1140} of{\kf1147} course
-Dialogue: 0,0:00:44.84,0:00:46.94,DEFAULT,,0,0,0,,{\kf1140}She's{\kf1136} giv{\kf1136}ing{\kf1140} les{\kf1140}sons{\kf1144} to{\kf1140}-o{\kf1136} the{\kf1151} kids
-Dialogue: 0,0:00:47.24,0:00:51.51,DEFAULT,,0,0,0,,{\kf1140}They're{\kf1140} gon{\kf1151}na{\kf1159} learn{\kf1147} how{\kf1140} to{\kf1140} be{\kf1151} much{\kf1140} bet{\kf1140}ter{\kf1241} friends
-Dialogue: 0,0:01:02.88,0:01:05.54,DEFAULT,,0,0,0,,{\kf1136}The{\kf1140} kids{\kf1140} in{\kf1144} my{\kf1144} town{\kf1144} are{\kf1136} get{\kf1136}ting{\kf1200} strange
-Dialogue: 0,0:01:07.83,0:01:11.28,DEFAULT,,0,0,0,,{\kf1140}But{\kf1140} to{\kf1144} be{\kf1140} ho{\kf1140}nest{\kf1140} it's{\kf1155} a{\kf1147} wel{\kf1147}come{\kf1185} change
-Dialogue: 0,0:01:12.44,0:01:15.14,DEFAULT,,0,0,0,,{\kf1136}They're{\kf1144} smil{\kf1140}ing{\kf1151} more,{\kf1144} they're{\kf1147} less{\kf1155} dead{\kf1170}pan
-Dialogue: 0,0:01:17.46,0:01:20.69,DEFAULT,,0,0,0,,{\kf1140}E{\kf1140}ver{\kf1147} since{\kf1144} the{\kf1144} new{\kf1140} head{\kf1144} li{\kf1147}bra{\kf1147}ri{\kf1144}an{\kf1140} be{\kf1166}gan
-Dialogue: 0,0:01:21.63,0:01:24.14,DEFAULT,,0,0,0,,{\kf1346}Oh,{\kf1147} oh
-Dialogue: 0,0:01:26.43,0:01:29.01,DEFAULT,,0,0,0,,{\kf1335}Oh,{\kf1151} oh
-Dialogue: 0,0:01:31.68,0:01:33.70,DEFAULT,,0,0,0,,{\kf1140}The{\kf1144} new{\kf1140} li{\kf1140}bra{\kf1136}ri{\kf1144}an{\kf1147} is{\kf1140} a{\kf1151} horse
-Dialogue: 0,0:01:34.26,0:01:36.18,DEFAULT,,0,0,0,,{\kf1140}And{\kf1144} she's{\kf1140} check{\kf1140}ing{\kf1144} you{\kf1144} out,{\kf1140} of{\kf1155} course
-Dialogue: 0,0:01:36.44,0:01:38.54,DEFAULT,,0,0,0,,{\kf1140}She's{\kf1140} giv{\kf1140}ing{\kf1144} les{\kf1147}sons{\kf1140} to{\kf1144}-o{\kf1140} the{\kf1151} kids
-Dialogue: 0,0:01:38.84,0:01:43.23,DEFAULT,,0,0,0,,{\kf1140}They're{\kf1140} gon{\kf1140}na{\kf1166} learn{\kf1147} how{\kf1140} to{\kf1140} be{\kf1151} much{\kf1140} bet{\kf1144}ter{\kf1252} friends
-Dialogue: 0,0:01:44.43,0:01:46.90,DEFAULT,,0,0,0,,{\kf1342}Oh,{\kf1147} oh
-Dialogue: 0,0:01:49.19,0:01:51.74,DEFAULT,,0,0,0,,{\kf1346}Oh,{\kf1144} oh
-Dialogue: 0,0:01:54.48,0:01:56.50,DEFAULT,,0,0,0,,{\kf1140}The{\kf1140} new{\kf1140} li{\kf1140}bra{\kf1136}ri{\kf1144}an{\kf1144} is{\kf1136} a{\kf1151} horse
-Dialogue: 0,0:01:57.03,0:01:58.86,DEFAULT,,0,0,0,,{\kf1144}And{\kf1144} she's{\kf1140} check{\kf1140}ing{\kf1144} you{\kf1147} out,{\kf1140} of{\kf1144} course
-Dialogue: 0,0:01:59.24,0:02:01.34,DEFAULT,,0,0,0,,{\kf1140}She's{\kf1140} giv{\kf1140}ing{\kf1144} les{\kf1147}sons{\kf1140} to{\kf1140}-o{\kf1136} the{\kf1155} kids
-Dialogue: 0,0:02:01.68,0:02:06.29,DEFAULT,,0,0,0,,{\kf1140}They're{\kf1136} gon{\kf1147}na{\kf1162} learn{\kf1144} how{\kf1140} to{\kf1147} be{\kf1155} much{\kf1140} bet{\kf1144}ter{\kf1271} friends
+Dialogue: 0,0:00:11.28,0:00:13.68,DEFAULT,,0,0,0,,{\r}{\kf14}The{\kf14} kids{\kf14} in{\kf21} my{\kf27} town{\kf27} are{\kf14} get{\kf14}ting{\kf95} weird
+Dialogue: 0,0:00:16.27,0:00:19.46,DEFAULT,,0,0,0,,{\r}{\kf19}E{\kf19}ver{\kf25} since{\kf25} the{\kf31} new{\kf19} head{\kf31} li{\kf25}bra{\kf31}ri{\kf19}an{\kf19} ap{\kf56}peared
+Dialogue: 0,0:00:20.81,0:00:23.66,DEFAULT,,0,0,0,,{\r}{\kf19}They're{\kf12} get{\kf12}ting{\kf12} ex{\kf12}tra{\kf19} les{\kf19}sons{\kf31} when{\kf56} school{\kf93} ends
+Dialogue: 0,0:00:25.68,0:00:29.21,DEFAULT,,0,0,0,,{\r}{\kf13}A{\kf20}bout{\kf13} the{\kf33} ma{\kf20}gic{\kf26} that{\kf26} comes{\kf26} from{\kf65} be{\kf26}ing{\kf84} friends
+Dialogue: 0,0:00:30.03,0:00:32.47,DEFAULT,,0,0,0,,{\r}{\kf224}Oh,{\kf20} oh
+Dialogue: 0,0:00:34.83,0:00:37.38,DEFAULT,,0,0,0,,{\r}{\kf226}Oh{\kf10}~,{\kf19} oh
+Dialogue: 0,0:00:40.08,0:00:42.11,DEFAULT,,0,0,0,,{\r}{\kf13}The{\kf27} new{\kf27} li{\kf13}bra{\kf13}ri{\kf20}an{\kf40} is{\kf13} a{\kf36} horse
+Dialogue: 0,0:00:42.56,0:00:44.51,DEFAULT,,0,0,0,,{\r}{\kf32}And{\kf20} she's{\kf20} check{\kf13}ing{\kf26} you{\kf32} out,{\kf20} of{\kf32} course
+Dialogue: 0,0:00:44.84,0:00:46.94,DEFAULT,,0,0,0,,{\r}{\kf22}She's{\kf15} giv{\kf15}ing{\kf22} les{\kf22}sons{\kf30} to{\kf22}-o{\kf15} the{\kf47} kids
+Dialogue: 0,0:00:47.24,0:00:51.52,DEFAULT,,0,0,0,,{\r}{\kf18}They're{\kf18} gon{\kf35}na{\kf47} learn{\kf29} how{\kf18} to{\kf18} be{\kf35} much{\kf18} bet{\kf18}ter{\kf173} friends
+Dialogue: 0,0:01:02.88,0:01:05.54,DEFAULT,,0,0,0,,{\r}{\kf12}The{\kf19} kids{\kf19} in{\kf25} my{\kf25} town{\kf25} are{\kf12} get{\kf12}ting{\kf117} strange
+Dialogue: 0,0:01:07.83,0:01:11.28,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf20} to{\kf27} be{\kf20} ho{\kf20}nest{\kf20} it's{\kf47} a{\kf34} wel{\kf34}come{\kf103} change
+Dialogue: 0,0:01:12.44,0:01:15.14,DEFAULT,,0,0,0,,{\r}{\kf13}They're{\kf26} smil{\kf19}ing{\kf39} more,{\kf26} they're{\kf32} less{\kf45} dead{\kf70}pan
+Dialogue: 0,0:01:17.47,0:01:20.69,DEFAULT,,0,0,0,,{\r}{\kf18}E{\kf18}ver{\kf30} since{\kf24} the{\kf24} new{\kf18} head{\kf24} li{\kf30}bra{\kf30}ri{\kf24}an{\kf18} be{\kf64}gan
+Dialogue: 0,0:01:21.63,0:01:24.14,DEFAULT,,0,0,0,,{\r}{\kf231}Oh,{\kf20} oh
+Dialogue: 0,0:01:26.43,0:01:29.02,DEFAULT,,0,0,0,,{\r}{\kf234}Oh,{\kf25} oh
+Dialogue: 0,0:01:31.68,0:01:33.71,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf24} new{\kf18} li{\kf18}bra{\kf12}ri{\kf24}an{\kf31} is{\kf18} a{\kf39} horse
+Dialogue: 0,0:01:34.27,0:01:36.18,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf25} she's{\kf18} check{\kf18}ing{\kf25} you{\kf25} out,{\kf18} of{\kf44} course
+Dialogue: 0,0:01:36.44,0:01:38.54,DEFAULT,,0,0,0,,{\r}{\kf19}She's{\kf19} giv{\kf19}ing{\kf25} les{\kf31}sons{\kf19} to{\kf25}-o{\kf19} the{\kf34} kids
+Dialogue: 0,0:01:38.84,0:01:43.23,DEFAULT,,0,0,0,,{\r}{\kf17}They're{\kf17} gon{\kf17}na{\kf58} learn{\kf29} how{\kf17} to{\kf17} be{\kf35} much{\kf17} bet{\kf23}ter{\kf192} friends
+Dialogue: 0,0:01:44.43,0:01:46.91,DEFAULT,,0,0,0,,{\r}{\kf227}Oh,{\kf20} oh
+Dialogue: 0,0:01:49.19,0:01:51.74,DEFAULT,,0,0,0,,{\r}{\kf239}Oh,{\kf16} oh
+Dialogue: 0,0:01:54.48,0:01:56.51,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf20} new{\kf20} li{\kf20}bra{\kf13}ri{\kf27}an{\kf27} is{\kf13} a{\kf42} horse
+Dialogue: 0,0:01:57.03,0:01:58.87,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf25} she's{\kf18} check{\kf18}ing{\kf25} you{\kf31} out,{\kf18} of{\kf24} course
+Dialogue: 0,0:01:59.24,0:02:01.34,DEFAULT,,0,0,0,,{\r}{\kf19}She's{\kf19} giv{\kf19}ing{\kf25} les{\kf32}sons{\kf19} to{\kf19}-o{\kf13} the{\kf45} kids
+Dialogue: 0,0:02:01.68,0:02:06.29,DEFAULT,,0,0,0,,{\r}{\kf17}They're{\kf11} gon{\kf28}na{\kf50} learn{\kf22} how{\kf17} to{\kf28} be{\kf39} much{\kf17} bet{\kf22}ter{\kf210} friends

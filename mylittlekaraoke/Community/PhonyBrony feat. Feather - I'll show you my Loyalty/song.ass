@@ -1,52 +1,59 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: I'll Show You My Loyalty
+Artist: PhonyBrony feat. Feather
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:24.45,0:00:28.63,DEFAULT,,0,0,0,,{\kf14}At{\kf37} sun{\kf50}rise,{\kf19} the{\kf55} clouds{\kf32} ho{\kf28}ver{\kf113} high
-Dialogue: 0,0:00:30.07,0:00:34.22,DEFAULT,,0,0,0,,{\kf23}The{\kf46} sha{\kf46}dow{\kf23} I{\kf46} cast{\kf50} fades{\kf19} a{\kf91}way
-Dialogue: 0,0:00:35.84,0:00:40.07,DEFAULT,,0,0,0,,{\kf23}The{\kf50} rain{\kf41} falls{\kf23} like{\kf41} tears{\kf46} from{\kf14} the{\kf104} sky
-Dialogue: 0,0:00:41.64,0:00:46.15,DEFAULT,,0,0,0,,{\kf28}My{\kf41} con{\kf50}science{\kf23} is{\kf46} clear{\kf37} in{\kf32} this{\kf127} way
-Dialogue: 0,0:00:48.17,0:00:49.43,DEFAULT,,0,0,0,,{\kf19}If{\kf14} you{\kf28} know{\kf55} me
-Dialogue: 0,0:00:49.52,0:00:53.44,DEFAULT,,0,0,0,,{\kf19}It's{\kf14} no{\kf32} mat{\kf32}ter{\kf41} if{\kf41} I'm{\kf37} there{\kf41} for{\kf59} you
-Dialogue: 0,0:00:53.94,0:00:55.11,DEFAULT,,0,0,0,,{\kf19}If{\kf14} you{\kf28} wish{\kf46} me
-Dialogue: 0,0:00:55.38,0:00:59.20,DEFAULT,,0,0,0,,{\kf14}I{\kf14} will{\kf28} take{\kf19} the{\kf50} time{\kf37} to{\kf41} see{\kf23} it{\kf59} through
-Dialogue: 0,0:00:59.70,0:01:00.96,DEFAULT,,0,0,0,,{\kf19}Don't{\kf19} de{\kf32}ny{\kf46} it
-Dialogue: 0,0:01:01.18,0:01:04.88,DEFAULT,,0,0,0,,{\kf19}There{\kf19} is{\kf23} hope,{\kf23} don't{\kf37} stop,{\kf46} be{\kf41}lieve{\kf28} in{\kf59} me
-Dialogue: 0,0:01:05.46,0:01:06.59,DEFAULT,,0,0,0,,{\kf28}Close{\kf14} your{\kf32} eyes{\kf28} and
-Dialogue: 0,0:01:06.90,0:01:12.44,DEFAULT,,0,0,0,,{\kf23}Fall{\kf19} a{\kf28}way{\kf32} 'cause{\kf37} I'll{\kf37} show{\kf41} you{\kf41} my{\kf28} lo{\kf32}yal{\kf149}ty
-Dialogue: 0,0:01:33.69,0:01:38.10,DEFAULT,,0,0,0,,{\kf28}As{\kf55} souls{\kf37} go{\kf23}-o,{\kf14} the{\kf41} sun{\kf41} won't{\kf23} live{\kf118} on
-Dialogue: 0,0:01:39.45,0:01:44.05,DEFAULT,,0,0,0,,{\kf23}The{\kf55} stars{\kf37} will{\kf28} some{\kf41}day{\kf50} turn{\kf28} to{\kf140} dust
-Dialogue: 0,0:01:45.22,0:01:49.49,DEFAULT,,0,0,0,,{\kf28}Yet{\kf50} af{\kf37}te{\kf14}-er{\kf37} our{\kf46} loved{\kf46} ones{\kf23} are{\kf104} gone
-Dialogue: 0,0:01:51.03,0:01:55.84,DEFAULT,,0,0,0,,{\kf28}There{\kf41} still{\kf46} shall{\kf19} be{\kf46} some{\kf41}one{\kf23} to{\kf158} trust
-Dialogue: 0,0:01:57.46,0:01:58.72,DEFAULT,,0,0,0,,{\kf19}If{\kf23} you{\kf32} know{\kf41} me
-Dialogue: 0,0:01:58.90,0:02:02.82,DEFAULT,,0,0,0,,{\kf19}It's{\kf19} no{\kf32} mat{\kf23}ter{\kf41} if{\kf37} I'm{\kf41} there{\kf32} for{\kf59} you
-Dialogue: 0,0:02:03.32,0:02:04.67,DEFAULT,,0,0,0,,{\kf19}If{\kf19} you{\kf23} wish{\kf59} me
-Dialogue: 0,0:02:04.76,0:02:08.76,DEFAULT,,0,0,0,,{\kf14}I{\kf19} will{\kf23} take{\kf23} the{\kf41} time{\kf37} to{\kf46} see{\kf32} it{\kf77} through
-Dialogue: 0,0:02:09.12,0:02:10.34,DEFAULT,,0,0,0,,{\kf14}Don't{\kf19} de{\kf37}ny{\kf37} it
-Dialogue: 0,0:02:10.61,0:02:14.30,DEFAULT,,0,0,0,,{\kf19}There{\kf14} is{\kf28} hope,{\kf23} don't{\kf46} stop,{\kf32} be{\kf41}lieve{\kf28} in{\kf59} me
-Dialogue: 0,0:02:14.93,0:02:15.97,DEFAULT,,0,0,0,,{\kf19}Close{\kf19} your{\kf28} eyes{\kf28} and
-Dialogue: 0,0:02:16.33,0:02:22.54,DEFAULT,,0,0,0,,{\kf19}Fall{\kf19} a{\kf28}way{\kf23} 'cause{\kf37} I'll{\kf46} show{\kf41} you{\kf37} my{\kf41} lo{\kf28}yal{\kf221}ty
-Dialogue: 0,0:02:43.39,0:02:44.38,DEFAULT,,0,0,0,,{\kf100}See
-Dialogue: 0,0:02:45.95,0:02:48.16,DEFAULT,,0,0,0,,{\kf23}What{\kf55} eve{\kf32}ry{\kf73}thing
-Dialogue: 0,0:02:48.47,0:02:50.23,DEFAULT,,0,0,0,,{\kf32}Means{\kf28} to{\kf100} me
-Dialogue: 0,0:02:51.72,0:02:53.83,DEFAULT,,0,0,0,,{\kf41}And{\kf37} eve{\kf37}ry{\kf64}thing
-Dialogue: 0,0:02:54.24,0:02:56.44,DEFAULT,,0,0,0,,{\kf32}That{\kf37} can{\kf140} be
-Dialogue: 0,0:02:57.52,0:02:59.42,DEFAULT,,0,0,0,,{\kf28}With{\kf37}in{\kf37} our{\kf41} hearts
-Dialogue: 0,0:03:00.05,0:03:01.85,DEFAULT,,0,0,0,,{\kf23}Just{\kf37} Be{\kf104}lieve
-Dialogue: 0,0:03:03.33,0:03:05.22,DEFAULT,,0,0,0,,{\kf28}And{\kf41} I{\kf46} will{\kf46} be
-Dialogue: 0,0:03:05.85,0:03:07.47,DEFAULT,,0,0,0,,{\kf37}By{\kf19} your{\kf91} side
-Dialogue: 0,0:03:18.51,0:03:19.63,DEFAULT,,0,0,0,,{\kf14}If{\kf19} you{\kf28} know{\kf41} me
-Dialogue: 0,0:03:19.86,0:03:23.86,DEFAULT,,0,0,0,,{\kf23}It's{\kf14} no{\kf37} mat{\kf23}ter{\kf37} if{\kf46} I'm{\kf37} there{\kf32} for{\kf68} you
-Dialogue: 0,0:03:24.27,0:03:25.48,DEFAULT,,0,0,0,,{\kf19}If{\kf14} you{\kf32} wish{\kf46} me
-Dialogue: 0,0:03:25.75,0:03:29.49,DEFAULT,,0,0,0,,{\kf14}I{\kf19} will{\kf32} take{\kf19} the{\kf50} time{\kf32} to{\kf32} see{\kf23} it{\kf55} through
-Dialogue: 0,0:03:30.08,0:03:31.38,DEFAULT,,0,0,0,,{\kf19}Don't{\kf19} de{\kf37}ny{\kf46} it
-Dialogue: 0,0:03:31.56,0:03:35.25,DEFAULT,,0,0,0,,{\kf19}There{\kf14} is{\kf28} hope,{\kf23} don't{\kf37} stop,{\kf37} be{\kf59}lieve{\kf28} in{\kf55} me
-Dialogue: 0,0:03:35.88,0:03:37.15,DEFAULT,,0,0,0,,{\kf19}Close{\kf19} your{\kf32} eyes{\kf46} and
-Dialogue: 0,0:03:37.24,0:03:43.94,DEFAULT,,0,0,0,,{\kf23}Fall{\kf19} a{\kf28}way{\kf28} 'cause{\kf41} I'll{\kf37} show{\kf46} you{\kf41} my{\kf37} lo{\kf28}yal{\kf271}ty
+Dialogue: 0,0:00:24.45,0:00:28.64,DEFAULT,,0,0,0,,{\r}{\kf17}At{\kf44} sun{\kf61}rise,{\kf22} the{\kf66} clouds{\kf39} ho{\kf33}ver{\kf137} high
+Dialogue: 0,0:00:30.08,0:00:34.22,DEFAULT,,0,0,0,,{\r}{\kf28}The{\kf55} sha{\kf55}dow{\kf28} I{\kf55} cast{\kf61} fades{\kf22} a{\kf110}way
+Dialogue: 0,0:00:35.84,0:00:40.07,DEFAULT,,0,0,0,,{\r}{\kf28}The{\kf62} rain{\kf51} falls{\kf28} like{\kf51} tears{\kf56} from{\kf17} the{\kf130} sky
+Dialogue: 0,0:00:41.65,0:00:46.15,DEFAULT,,0,0,0,,{\r}{\kf32}My{\kf48} con{\kf59}science{\kf27} is{\kf54} clear{\kf43} in{\kf38} this{\kf149} way
+Dialogue: 0,0:00:48.18,0:00:49.44,DEFAULT,,0,0,0,,{\r}{\kf20}If{\kf15} you{\kf30} know{\kf61} me
+Dialogue: 0,0:00:49.53,0:00:53.45,DEFAULT,,0,0,0,,{\r}{\kf23}It's{\kf17} no{\kf40} mat{\kf40}ter{\kf51} if{\kf51} I'm{\kf45} there{\kf51} for{\kf74} you
+Dialogue: 0,0:00:53.94,0:00:55.11,DEFAULT,,0,0,0,,{\r}{\kf20}If{\kf15} you{\kf31} wish{\kf51} me
+Dialogue: 0,0:00:55.38,0:00:59.21,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf19} will{\kf37} take{\kf25} the{\kf68} time{\kf49} to{\kf56} see{\kf31} it{\kf79} through
+Dialogue: 0,0:00:59.70,0:01:00.96,DEFAULT,,0,0,0,,{\r}{\kf20}Don't{\kf20} de{\kf35}ny{\kf51} it
+Dialogue: 0,0:01:01.19,0:01:04.88,DEFAULT,,0,0,0,,{\r}{\kf23}There{\kf23} is{\kf29} hope,{\kf29} don't{\kf46} stop,{\kf58} be{\kf52}lieve{\kf35} in{\kf74} me
+Dialogue: 0,0:01:05.47,0:01:06.59,DEFAULT,,0,0,0,,{\r}{\kf31}Close{\kf15} your{\kf36} eyes{\kf31} and
+Dialogue: 0,0:01:06.91,0:01:12.44,DEFAULT,,0,0,0,,{\r}{\kf27}Fall{\kf22} a{\kf33}way{\kf38} 'cause{\kf43} I'll{\kf43} show{\kf49} you{\kf49} my{\kf33} lo{\kf38}yal{\kf179}ty
+Dialogue: 0,0:01:33.70,0:01:38.11,DEFAULT,,0,0,0,,{\r}{\kf32}As{\kf64} souls{\kf43} go{\kf27}-o,{\kf16} the{\kf48} sun{\kf48} won't{\kf27} live{\kf136} on
+Dialogue: 0,0:01:39.46,0:01:44.05,DEFAULT,,0,0,0,,{\r}{\kf26}The{\kf63} stars{\kf42} will{\kf31} some{\kf47}day{\kf57} turn{\kf31} to{\kf162} dust
+Dialogue: 0,0:01:45.22,0:01:49.50,DEFAULT,,0,0,0,,{\r}{\kf31}Yet{\kf56} af{\kf41}te{\kf15}-er{\kf41} our{\kf51} loved{\kf51} ones{\kf25} are{\kf117} gone
+Dialogue: 0,0:01:51.03,0:01:55.85,DEFAULT,,0,0,0,,{\r}{\kf33}There{\kf49} still{\kf55} shall{\kf22} be{\kf55} some{\kf49}one{\kf27} to{\kf192} trust
+Dialogue: 0,0:01:57.47,0:01:58.73,DEFAULT,,0,0,0,,{\r}{\kf20}If{\kf25} you{\kf35} know{\kf46} me
+Dialogue: 0,0:01:58.91,0:02:02.83,DEFAULT,,0,0,0,,{\r}{\kf24}It's{\kf24} no{\kf42} mat{\kf30}ter{\kf53} if{\kf48} I'm{\kf53} there{\kf42} for{\kf76} you
+Dialogue: 0,0:02:03.32,0:02:04.67,DEFAULT,,0,0,0,,{\r}{\kf21}If{\kf21} you{\kf26} wish{\kf67} me
+Dialogue: 0,0:02:04.76,0:02:08.77,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf24} will{\kf29} take{\kf29} the{\kf53} time{\kf47} to{\kf59} see{\kf41} it{\kf101} through
+Dialogue: 0,0:02:09.13,0:02:10.35,DEFAULT,,0,0,0,,{\r}{\kf16}Don't{\kf21} de{\kf42}ny{\kf43} it
+Dialogue: 0,0:02:10.62,0:02:14.31,DEFAULT,,0,0,0,,{\r}{\kf23}There{\kf18} is{\kf35} hope,{\kf29} don't{\kf59} stop,{\kf41} be{\kf53}lieve{\kf35} in{\kf76} me
+Dialogue: 0,0:02:14.94,0:02:15.97,DEFAULT,,0,0,0,,{\r}{\kf21}Close{\kf21} your{\kf31} eyes{\kf31} and
+Dialogue: 0,0:02:16.33,0:02:22.55,DEFAULT,,0,0,0,,{\r}{\kf21}Fall{\kf21} a{\kf32}way{\kf26} 'cause{\kf42} I'll{\kf53} show{\kf47} you{\kf42} my{\kf47} lo{\kf32}yal{\kf258}ty
+Dialogue: 0,0:02:43.39,0:02:44.38,DEFAULT,,0,0,0,,{\r}{\kf99}See
+Dialogue: 0,0:02:45.96,0:02:48.16,DEFAULT,,0,0,0,,{\r}{\kf28}What{\kf66} eve{\kf39}ry{\kf88}thing
+Dialogue: 0,0:02:48.48,0:02:50.24,DEFAULT,,0,0,0,,{\r}{\kf35}Means{\kf30} to{\kf111} me
+Dialogue: 0,0:02:51.72,0:02:53.84,DEFAULT,,0,0,0,,{\r}{\kf49}And{\kf43} eve{\kf43}ry{\kf77}thing
+Dialogue: 0,0:02:54.24,0:02:56.45,DEFAULT,,0,0,0,,{\r}{\kf34}That{\kf38} can{\kf149} be
+Dialogue: 0,0:02:57.53,0:02:59.42,DEFAULT,,0,0,0,,{\r}{\kf37}With{\kf49}in{\kf49} our{\kf54} hearts
+Dialogue: 0,0:03:00.05,0:03:01.85,DEFAULT,,0,0,0,,{\r}{\kf25}Just{\kf40} Be{\kf115}lieve
+Dialogue: 0,0:03:03.34,0:03:05.23,DEFAULT,,0,0,0,,{\r}{\kf32}And{\kf49} I{\kf54} will{\kf54} be
+Dialogue: 0,0:03:05.86,0:03:07.48,DEFAULT,,0,0,0,,{\r}{\kf40}By{\kf20} your{\kf102} side
+Dialogue: 0,0:03:18.51,0:03:19.64,DEFAULT,,0,0,0,,{\r}{\kf15}If{\kf21} you{\kf31} know{\kf46} me
+Dialogue: 0,0:03:19.86,0:03:23.87,DEFAULT,,0,0,0,,{\r}{\kf29}It's{\kf17} no{\kf46} mat{\kf29}ter{\kf46} if{\kf58} I'm{\kf46} there{\kf41} for{\kf89} you
+Dialogue: 0,0:03:24.27,0:03:25.49,DEFAULT,,0,0,0,,{\r}{\kf20}If{\kf15} you{\kf36} wish{\kf51} me
+Dialogue: 0,0:03:25.76,0:03:29.50,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf25} will{\kf44} take{\kf25} the{\kf69} time{\kf44} to{\kf44} see{\kf31} it{\kf73} through
+Dialogue: 0,0:03:30.08,0:03:31.39,DEFAULT,,0,0,0,,{\r}{\kf20}Don't{\kf20} de{\kf40}ny{\kf51} it
+Dialogue: 0,0:03:31.57,0:03:35.26,DEFAULT,,0,0,0,,{\r}{\kf23}There{\kf17} is{\kf34} hope,{\kf28} don't{\kf45} stop,{\kf45} be{\kf74}lieve{\kf34} in{\kf69} me
+Dialogue: 0,0:03:35.89,0:03:37.15,DEFAULT,,0,0,0,,{\r}{\kf20}Close{\kf20} your{\kf35} eyes{\kf51} and
+Dialogue: 0,0:03:37.24,0:03:43.95,DEFAULT,,0,0,0,,{\r}{\kf26}Fall{\kf20} a{\kf31}way{\kf31} 'cause{\kf46} I'll{\kf41} show{\kf51} you{\kf46} my{\kf41} lo{\kf31}yal{\kf307}ty

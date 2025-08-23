@@ -1,76 +1,83 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Frailty (Ft. Dreamchan)
+Artist: Prince Whateverer
+Original Timing: mylittlekaraoke.com by ShTHfan1
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:32.90,0:00:35.39,DEFAULT,,0,0,0,,{\kf25}I{\kf25} see{\kf25} you{\kf13} run{\kf25}ning{\kf25} through{\kf25} the{\kf34} crowds
-Dialogue: 0,0:00:35.56,0:00:38.06,DEFAULT,,0,0,0,,{\kf25}Of{\kf25} po{\kf25}nies{\kf25} past{\kf13} the{\kf25} edge{\kf25} of{\kf34} town
-Dialogue: 0,0:00:38.23,0:00:40.39,DEFAULT,,0,0,0,,{\kf25}Don't{\kf25} cry,{\kf25} you're{\kf25} not{\kf13} a{\kf17}lone{\kf50}~
-Dialogue: 0,0:00:40.89,0:00:43.06,DEFAULT,,0,0,0,,{\kf25}Won't{\kf25} leave{\kf25} you{\kf25} on{\kf13} your{\kf17} own{\kf50}~
-Dialogue: 0,0:00:43.56,0:00:46.06,DEFAULT,,0,0,0,,{\kf25}It's{\kf25} ne{\kf25}ver{\kf25} had{\kf13} to{\kf25} come{\kf25} this{\kf34} far
-Dialogue: 0,0:00:46.23,0:00:48.72,DEFAULT,,0,0,0,,{\kf25}Till{\kf25} now,{\kf25} we'll{\kf25} show{\kf13} them{\kf25} what{\kf25} you{\kf34} are
-Dialogue: 0,0:00:48.89,0:00:51.22,DEFAULT,,0,0,0,,{\kf25}This{\kf25} ma{\kf25}gic's{\kf25} bur{\kf25}ning{\kf17} bright{\kf50}~
-Dialogue: 0,0:00:51.56,0:00:53.89,DEFAULT,,0,0,0,,{\kf25}I{\kf25} swear{\kf25} we'll{\kf25} win{\kf25} this{\kf17} fight{\kf50}~
-Dialogue: 0,0:00:56.89,0:00:58.81,DEFAULT,,0,0,0,,{\kf25}How{\kf25} can{\kf25} I{\kf17} win{\kf9}~{\kf25} this{\kf25} fight?
-Dialogue: 0,0:00:59.06,0:01:01.64,DEFAULT,,0,0,0,,{\kf17}Twi{\kf9}~{\kf30}~{\kf30}~{\kf175}light!
-Dialogue: 0,0:01:02.22,0:01:04.72,DEFAULT,,0,0,0,,{\kf25}Don't{\kf25} let{\kf25} 'em{\kf25} get{\kf13} the{\kf25} best{\kf25} of{\kf17} you{\kf17}~
-Dialogue: 0,0:01:04.89,0:01:07.39,DEFAULT,,0,0,0,,{\kf25}You{\kf25} know{\kf25} you{\kf25} have{\kf13} to{\kf25} hold{\kf25} on{\kf34}to
-Dialogue: 0,0:01:07.55,0:01:09.72,DEFAULT,,0,0,0,,{\kf25}What's{\kf25} right,{\kf13} so{\kf13} be{\kf25}lieve{\kf13} when{\kf25} I{\kf34} say
-Dialogue: 0,0:01:09.89,0:01:12.14,DEFAULT,,0,0,0,,{\kf34}Twi{\kf34}~{\kf159}light!
-Dialogue: 0,0:01:12.89,0:01:15.39,DEFAULT,,0,0,0,,{\kf25}Your{\kf25} ma{\kf25}gic's{\kf25} stron{\kf13}ger{\kf25} than{\kf25} be{\kf17}fore{\kf17}~
-Dialogue: 0,0:01:15.55,0:01:17.89,DEFAULT,,0,0,0,,{\kf25}Just{\kf25} step{\kf25} on{\kf17} through{\kf13}~{\kf13} the{\kf25} o{\kf13}pen{\kf13}~{\kf17} door
-Dialogue: 0,0:01:18.05,0:01:21.63,DEFAULT,,0,0,0,,{\kf13}And{\kf25} I{\kf25} pro{\kf25}mise{\kf25} you'll{\kf13} be{\kf25} o{\kf42}kay{\kf9}~{\kf9}~{\kf100}~
-Dialogue: 0,0:01:44.88,0:01:47.38,DEFAULT,,0,0,0,,{\kf25}I've{\kf25} come{\kf25} too{\kf25} far,{\kf13} can't{\kf25} back{\kf25} down{\kf34} now
-Dialogue: 0,0:01:47.55,0:01:49.88,DEFAULT,,0,0,0,,{\kf25}If{\kf25} I{\kf25} fall{\kf25} here,{\kf13} he{\kf25} takes{\kf25} the{\kf17} crown
-Dialogue: 0,0:01:50.04,0:01:52.29,DEFAULT,,0,0,0,,{\kf13}There's{\kf25} no{\kf25} way,{\kf25} I{\kf25} can't{\kf13} de{\kf17}ny{\kf42}~
-Dialogue: 0,0:01:52.88,0:01:55.04,DEFAULT,,0,0,0,,{\kf25}Stood{\kf25} here{\kf25} I'm{\kf25} te{\kf13}rri{\kf17}fied{\kf50}~
-Dialogue: 0,0:01:55.54,0:01:58.04,DEFAULT,,0,0,0,,{\kf25}"Ti{\kf25}rek,{\kf25} your{\kf25} time{\kf13} is{\kf25} up,{\kf25} you{\kf34} lose
-Dialogue: 0,0:01:58.21,0:02:00.71,DEFAULT,,0,0,0,,{\kf25}Leave{\kf25} now,{\kf25} or{\kf25} face{\kf13} de{\kf25}feat,{\kf25} you{\kf34} choose"
-Dialogue: 0,0:02:00.88,0:02:03.12,DEFAULT,,0,0,0,,{\kf17}My{\kf9}~{\kf25} op{\kf25}tions{\kf25} wea{\kf25}ring{\kf17} thin{\kf42}~
-Dialogue: 0,0:02:03.54,0:02:05.46,DEFAULT,,0,0,0,,{\kf25}No{\kf25} doubt,{\kf25} I{\kf25} have{\kf13} to{\kf42} win
-Dialogue: 0,0:02:16.87,0:02:19.37,DEFAULT,,0,0,0,,{\kf25}So{\kf25} dark{\kf25} down{\kf25} here{\kf13} from{\kf25} what{\kf25} you've{\kf34} done
-Dialogue: 0,0:02:19.54,0:02:22.04,DEFAULT,,0,0,0,,{\kf25}I'll{\kf25} fly{\kf25} so{\kf25} high,{\kf13} I{\kf25} touch{\kf25} the{\kf25} sun{\kf9}~
-Dialogue: 0,0:02:22.20,0:02:24.37,DEFAULT,,0,0,0,,{\kf25}Won't{\kf25} let{\kf25} it{\kf25} all{\kf25} end{\kf17} here{\kf34}~!
-Dialogue: 0,0:02:24.87,0:02:26.87,DEFAULT,,0,0,0,,{\kf25}Won't{\kf25} fal{\kf25}ter{\kf13} to{\kf25} my{\kf50} fear
-Dialogue: 0,0:02:27.54,0:02:30.04,DEFAULT,,0,0,0,,{\kf25}Look{\kf25} to{\kf25} the{\kf25} sky,{\kf17} Ce{\kf25}les{\kf34}ti{\kf34}a!
-Dialogue: 0,0:02:30.20,0:02:32.54,DEFAULT,,0,0,0,,{\kf25}Pray{\kf25} to{\kf25} the{\kf25} moon,{\kf13} Prin{\kf25}cess{\kf17} Lu{\kf17}~{\kf17}na!
-Dialogue: 0,0:02:32.70,0:02:35.03,DEFAULT,,0,0,0,,{\kf13}'Cause{\kf25} if{\kf25} I{\kf25} can't{\kf25} win{\kf25} this{\kf17} fight{\kf34}~
-Dialogue: 0,0:02:35.53,0:02:37.45,DEFAULT,,0,0,0,,{\kf25}I'll{\kf25} sleep{\kf13} with{\kf13} the{\kf17} stars{\kf9}~{\kf13} to{\kf42}night
-Dialogue: 0,0:02:40.87,0:02:43.03,DEFAULT,,0,0,0,,{\kf30}I'll{\kf30} sleep{\kf13} with{\kf13} the{\kf30} stars{\kf17} to{\kf67}nightâ€¦
-Dialogue: 0,0:02:49.20,0:02:51.53,DEFAULT,,0,0,0,,{\kf25}Hark{\kf25} my{\kf17} ha{\kf17}llowed{\kf25} fa{\kf25}vours{\kf50} now
-Dialogue: 0,0:02:51.78,0:02:54.03,DEFAULT,,0,0,0,,{\kf34}To{\kf25} my{\kf42} will{\kf17}~{\kf17} you{\kf34} shall{\kf17} bow
-Dialogue: 0,0:02:54.20,0:02:56.70,DEFAULT,,0,0,0,,{\kf25}The{\kf25} stars{\kf25} are{\kf34} part{\kf25} of{\kf25} my{\kf25} name
-Dialogue: 0,0:02:56.86,0:02:59.36,DEFAULT,,0,0,0,,{\kf25}And{\kf25} I{\kf25} will{\kf17} not{\kf17}~{\kf25} bring{\kf25} me{\kf34} shame
-Dialogue: 0,0:02:59.86,0:03:02.03,DEFAULT,,0,0,0,,{\kf25}Sin{\kf25}ging{\kf34} out{\kf25} to{\kf25} the{\kf34} moon
-Dialogue: 0,0:03:02.20,0:03:04.94,DEFAULT,,0,0,0,,{\kf25}And{\kf34} with{\kf34} her{\kf13}~{\kf25} I{\kf25} at{\kf42}tune{\kf17}~
-Dialogue: 0,0:03:05.19,0:03:07.36,DEFAULT,,0,0,0,,{\kf25}Cry{\kf25}ing{\kf25} out{\kf17}~{\kf25} with{\kf25} the{\kf34} sun
-Dialogue: 0,0:03:07.53,0:03:09.94,DEFAULT,,0,0,0,,{\kf25}And{\kf34} with{\kf25} her{\kf17}~{\kf17} I{\kf9}~{\kf25} am{\kf25} done
-Dialogue: 0,0:03:10.36,0:03:12.86,DEFAULT,,0,0,0,,{\kf25}You{\kf25} will{\kf50} see{\kf34} who{\kf17} I{\kf42} am{\kf9}~
-Dialogue: 0,0:03:13.03,0:03:15.36,DEFAULT,,0,0,0,,{\kf13}A{\kf25} true{\kf13}~{\kf25} prin{\kf25}cess{\kf25} deep{\kf25} wi{\kf17}thin
-Dialogue: 0,0:03:15.53,0:03:17.69,DEFAULT,,0,0,0,,{\kf25}My{\kf25} ma{\kf25}gic{\kf25} knows{\kf25} me{\kf13} bet{\kf34}ter
-Dialogue: 0,0:03:18.19,0:03:21.36,DEFAULT,,0,0,0,,{\kf25}This{\kf25} is{\kf25} my{\kf25} fi{\kf25}nal{\kf13} let{\kf42}ter{\kf5}~{\kf5}~{\kf84}~
-Dialogue: 0,0:03:23.02,0:03:25.61,DEFAULT,,0,0,0,,{\kf17}Twi{\kf9}~{\kf25}~{\kf34}~{\kf175}light!
-Dialogue: 0,0:03:26.19,0:03:28.69,DEFAULT,,0,0,0,,{\kf25}Don't{\kf25} let{\kf25} 'em{\kf25} get{\kf13} the{\kf25} best{\kf25} of{\kf17} you{\kf17}~
-Dialogue: 0,0:03:28.86,0:03:31.36,DEFAULT,,0,0,0,,{\kf25}You{\kf25} know{\kf25} you{\kf25} have{\kf13} to{\kf25} hold{\kf25} on{\kf34}to
-Dialogue: 0,0:03:31.52,0:03:33.69,DEFAULT,,0,0,0,,{\kf25}What's{\kf25} right,{\kf13} so{\kf13} be{\kf25}lieve{\kf13} when{\kf25} I{\kf34} say
-Dialogue: 0,0:03:33.85,0:03:36.10,DEFAULT,,0,0,0,,{\kf34}Twi{\kf34}~{\kf159}light!
-Dialogue: 0,0:03:36.85,0:03:39.35,DEFAULT,,0,0,0,,{\kf25}Your{\kf25} ma{\kf25}gic's{\kf25} stron{\kf13}ger{\kf25} than{\kf25} be{\kf17}fore{\kf17}~
-Dialogue: 0,0:03:39.52,0:03:41.85,DEFAULT,,0,0,0,,{\kf25}Just{\kf25} step{\kf25} on{\kf17} through{\kf9}~{\kf13} the{\kf25} o{\kf13}pen{\kf13}~{\kf17} door
-Dialogue: 0,0:03:42.02,0:03:44.69,DEFAULT,,0,0,0,,{\kf13}And{\kf25} I{\kf25} pro{\kf25}mise{\kf25} you'll{\kf13} be{\kf25} o{\kf42}kay{\kf9}~{\kf9}~{\kf9}~
-Dialogue: 0,0:03:44.85,0:03:47.35,DEFAULT,,0,0,0,,{\kf25}So{\kf25} dark{\kf25} down{\kf25} here{\kf13} from{\kf25} what{\kf25} you've{\kf34} done
-Dialogue: 0,0:03:47.52,0:03:50.02,DEFAULT,,0,0,0,,{\kf25}I'll{\kf25} fly{\kf25} so{\kf25} high,{\kf13} I{\kf25} touch{\kf25} the{\kf25} sun{\kf9}~
-Dialogue: 0,0:03:50.18,0:03:52.35,DEFAULT,,0,0,0,,{\kf25}Won't{\kf25} let{\kf25} it{\kf25} all{\kf25} end{\kf21} here{\kf30}~!
-Dialogue: 0,0:03:52.85,0:03:54.68,DEFAULT,,0,0,0,,{\kf25}Won't{\kf25} fal{\kf25}ter{\kf13} to{\kf25} my{\kf34} fear
-Dialogue: 0,0:03:55.52,0:03:58.02,DEFAULT,,0,0,0,,{\kf25}Look{\kf25} to{\kf25} the{\kf25} sky,{\kf17} Ce{\kf25}les{\kf34}ti{\kf34}a!
-Dialogue: 0,0:03:58.18,0:04:00.52,DEFAULT,,0,0,0,,{\kf25}Pray{\kf25} to{\kf25} the{\kf25} moon,{\kf13} Prin{\kf25}cess{\kf21} Lu{\kf17}~{\kf13}na!
-Dialogue: 0,0:04:00.68,0:04:03.01,DEFAULT,,0,0,0,,{\kf13}'Cause{\kf25} if{\kf25} I{\kf25} can't{\kf25} win{\kf25} this{\kf17} fight{\kf34}~
-Dialogue: 0,0:04:03.51,0:04:05.43,DEFAULT,,0,0,0,,{\kf25}I'll{\kf25} sleep{\kf13} with{\kf13} the{\kf17} stars{\kf9}~{\kf13} to{\kf42}night
-Dialogue: 0,0:04:06.51,0:04:16.51,DEFAULT,,0,0,0,,{\kf59}My{\kf59} friends{\kf125} are{\kf192} with{\kf34} me{\kf234}~{\kf125}~{\kf134}~
-Dialogue: 0,0:04:18.51,0:04:28.84,DEFAULT,,0,0,0,,{\kf67}They're{\kf84} al{\kf25}~{\kf100}ways{\kf25}~{\kf150} with{\kf117}~{\kf125} me{\kf300}~
-Dialogue: 0,0:04:30.18,0:04:32.34,DEFAULT,,0,0,0,,{\kf30}I'll{\kf30} sleep{\kf13} with{\kf13} the{\kf30} stars{\kf17} to{\kf67}nightâ€¦
+Dialogue: 0,0:00:32.90,0:00:35.40,DEFAULT,,0,0,0,,{\r}{\kf32}I{\kf32} see{\kf32} you{\kf16} run{\kf32}ning{\kf32} through{\kf32} the{\kf42} crowds
+Dialogue: 0,0:00:35.57,0:00:38.07,DEFAULT,,0,0,0,,{\r}{\kf32}Of{\kf32} po{\kf32}nies{\kf32} past{\kf16} the{\kf32} edge{\kf32} of{\kf42} town
+Dialogue: 0,0:00:38.23,0:00:40.40,DEFAULT,,0,0,0,,{\r}{\kf30}Don't{\kf30} cry,{\kf30} you're{\kf30} not{\kf15} a{\kf20}lone{\kf62}~
+Dialogue: 0,0:00:40.90,0:00:43.06,DEFAULT,,0,0,0,,{\r}{\kf30}Won't{\kf30} leave{\kf30} you{\kf30} on{\kf15} your{\kf20} own{\kf62}~
+Dialogue: 0,0:00:43.56,0:00:46.06,DEFAULT,,0,0,0,,{\r}{\kf32}It's{\kf32} ne{\kf32}ver{\kf32} had{\kf16} to{\kf32} come{\kf32} this{\kf42} far
+Dialogue: 0,0:00:46.23,0:00:48.73,DEFAULT,,0,0,0,,{\r}{\kf32}Till{\kf32} now,{\kf32} we'll{\kf32} show{\kf16} them{\kf32} what{\kf32} you{\kf42} are
+Dialogue: 0,0:00:48.90,0:00:51.23,DEFAULT,,0,0,0,,{\r}{\kf30}This{\kf30} ma{\kf30}gic's{\kf30} bur{\kf30}ning{\kf20} bright{\kf63}~
+Dialogue: 0,0:00:51.56,0:00:53.90,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf30} swear{\kf30} we'll{\kf30} win{\kf30} this{\kf20} fight{\kf63}~
+Dialogue: 0,0:00:56.89,0:00:58.81,DEFAULT,,0,0,0,,{\r}{\kf32}How{\kf32} can{\kf32} I{\kf21} win{\kf11}~{\kf32} this{\kf32} fight?
+Dialogue: 0,0:00:59.06,0:01:01.64,DEFAULT,,0,0,0,,{\r}{\kf17}Twi{\kf10}~{\kf29}~{\kf29}~{\kf173}light!
+Dialogue: 0,0:01:02.23,0:01:04.73,DEFAULT,,0,0,0,,{\r}{\kf32}Don't{\kf32} let{\kf32} 'em{\kf32} get{\kf16} the{\kf32} best{\kf32} of{\kf21} you{\kf21}~
+Dialogue: 0,0:01:04.89,0:01:07.39,DEFAULT,,0,0,0,,{\r}{\kf32}You{\kf32} know{\kf32} you{\kf32} have{\kf16} to{\kf32} hold{\kf32} on{\kf42}to
+Dialogue: 0,0:01:07.56,0:01:09.73,DEFAULT,,0,0,0,,{\r}{\kf32}What's{\kf32} right,{\kf16} so{\kf16} be{\kf32}lieve{\kf16} when{\kf32} I{\kf41} say
+Dialogue: 0,0:01:09.89,0:01:12.14,DEFAULT,,0,0,0,,{\r}{\kf33}Twi{\kf33}~{\kf159}light!
+Dialogue: 0,0:01:12.89,0:01:15.39,DEFAULT,,0,0,0,,{\r}{\kf32}Your{\kf32} ma{\kf32}gic's{\kf32} stron{\kf16}ger{\kf32} than{\kf32} be{\kf21}fore{\kf21}~
+Dialogue: 0,0:01:15.56,0:01:17.89,DEFAULT,,0,0,0,,{\r}{\kf32}Just{\kf32} step{\kf32} on{\kf21} through{\kf16}~{\kf16} the{\kf32} o{\kf16}pen{\kf16}~{\kf20} door
+Dialogue: 0,0:01:18.06,0:01:21.64,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf29} I{\kf29} pro{\kf29}mise{\kf29} you'll{\kf15} be{\kf29} o{\kf48}kay{\kf10}~{\kf10}~{\kf115}~
+Dialogue: 0,0:01:44.88,0:01:47.38,DEFAULT,,0,0,0,,{\r}{\kf32}I've{\kf32} come{\kf32} too{\kf32} far,{\kf16} can't{\kf32} back{\kf32} down{\kf42} now
+Dialogue: 0,0:01:47.55,0:01:49.88,DEFAULT,,0,0,0,,{\r}{\kf33}If{\kf33} I{\kf33} fall{\kf33} here,{\kf16} he{\kf33} takes{\kf33} the{\kf19} crown
+Dialogue: 0,0:01:50.05,0:01:52.30,DEFAULT,,0,0,0,,{\r}{\kf15}There's{\kf31} no{\kf31} way,{\kf31} I{\kf31} can't{\kf15} de{\kf20}ny{\kf51}~
+Dialogue: 0,0:01:52.88,0:01:55.05,DEFAULT,,0,0,0,,{\r}{\kf30}Stood{\kf30} here{\kf30} I'm{\kf30} te{\kf15}rri{\kf20}fied{\kf62}~
+Dialogue: 0,0:01:55.55,0:01:58.05,DEFAULT,,0,0,0,,{\r}{\kf32}"Ti{\kf32}rek,{\kf32} your{\kf32} time{\kf16} is{\kf32} up,{\kf32} you{\kf42} lose
+Dialogue: 0,0:01:58.21,0:02:00.71,DEFAULT,,0,0,0,,{\r}{\kf32}Leave{\kf32} now,{\kf32} or{\kf32} face{\kf16} de{\kf32}feat,{\kf32} you{\kf42} choose"
+Dialogue: 0,0:02:00.88,0:02:03.13,DEFAULT,,0,0,0,,{\r}{\kf20}My{\kf10}~{\kf31} op{\kf31}tions{\kf31} wea{\kf31}ring{\kf20} thin{\kf51}~
+Dialogue: 0,0:02:03.55,0:02:05.46,DEFAULT,,0,0,0,,{\r}{\kf31}No{\kf31} doubt,{\kf31} I{\kf31} have{\kf16} to{\kf52} win
+Dialogue: 0,0:02:16.88,0:02:19.38,DEFAULT,,0,0,0,,{\r}{\kf32}So{\kf32} dark{\kf32} down{\kf32} here{\kf16} from{\kf32} what{\kf32} you've{\kf42} done
+Dialogue: 0,0:02:19.54,0:02:22.04,DEFAULT,,0,0,0,,{\r}{\kf32}I'll{\kf32} fly{\kf32} so{\kf32} high,{\kf16} I{\kf32} touch{\kf32} the{\kf32} sun{\kf10}~
+Dialogue: 0,0:02:22.21,0:02:24.38,DEFAULT,,0,0,0,,{\r}{\kf31}Won't{\kf31} let{\kf31} it{\kf31} all{\kf31} end{\kf21} here{\kf41}~!
+Dialogue: 0,0:02:24.88,0:02:26.87,DEFAULT,,0,0,0,,{\r}{\kf31}Won't{\kf31} fal{\kf31}ter{\kf15} to{\kf31} my{\kf61} fear
+Dialogue: 0,0:02:27.54,0:02:30.04,DEFAULT,,0,0,0,,{\r}{\kf30}Look{\kf30} to{\kf30} the{\kf30} sky,{\kf20} Ce{\kf30}les{\kf40}ti{\kf40}a!
+Dialogue: 0,0:02:30.21,0:02:32.54,DEFAULT,,0,0,0,,{\r}{\kf31}Pray{\kf31} to{\kf31} the{\kf31} moon,{\kf16} Prin{\kf31}cess{\kf21} Lu{\kf21}~{\kf20}na!
+Dialogue: 0,0:02:32.71,0:02:35.04,DEFAULT,,0,0,0,,{\r}{\kf16}'Cause{\kf31} if{\kf31} I{\kf31} can't{\kf31} win{\kf31} this{\kf21} fight{\kf41}~
+Dialogue: 0,0:02:35.54,0:02:37.46,DEFAULT,,0,0,0,,{\r}{\kf31}I'll{\kf31} sleep{\kf16} with{\kf16} the{\kf21} stars{\kf10}~{\kf16} to{\kf51}night
+Dialogue: 0,0:02:40.87,0:02:43.04,DEFAULT,,0,0,0,,{\r}{\kf32}I'll{\kf32} sleep{\kf14} with{\kf14} the{\kf32} stars{\kf18} to{\kf75}nightâ€¦
+Dialogue: 0,0:02:49.20,0:02:51.54,DEFAULT,,0,0,0,,{\r}{\kf32}Hark{\kf32} my{\kf21} ha{\kf21}llowed{\kf32} fa{\kf32}vours{\kf63} now
+Dialogue: 0,0:02:51.79,0:02:54.04,DEFAULT,,0,0,0,,{\r}{\kf41}To{\kf31} my{\kf51} will{\kf20}~{\kf20} you{\kf41} shall{\kf21} bow
+Dialogue: 0,0:02:54.20,0:02:56.70,DEFAULT,,0,0,0,,{\r}{\kf34}The{\kf34} stars{\kf34} are{\kf45} part{\kf34} of{\kf34} my{\kf35} name
+Dialogue: 0,0:02:56.87,0:02:59.37,DEFAULT,,0,0,0,,{\r}{\kf33}And{\kf33} I{\kf33} will{\kf22} not{\kf22}~{\kf33} bring{\kf33} me{\kf41} shame
+Dialogue: 0,0:02:59.87,0:03:02.03,DEFAULT,,0,0,0,,{\r}{\kf33}Sin{\kf33}ging{\kf43} out{\kf33} to{\kf33} the{\kf42} moon
+Dialogue: 0,0:03:02.20,0:03:04.95,DEFAULT,,0,0,0,,{\r}{\kf32}And{\kf43} with{\kf43} her{\kf16}~{\kf32} I{\kf32} at{\kf54}tune{\kf23}~
+Dialogue: 0,0:03:05.20,0:03:07.37,DEFAULT,,0,0,0,,{\r}{\kf31}Cry{\kf31}ing{\kf31} out{\kf21}~{\kf31} with{\kf31} the{\kf41} sun
+Dialogue: 0,0:03:07.53,0:03:09.95,DEFAULT,,0,0,0,,{\r}{\kf35}And{\kf46} with{\kf35} her{\kf23}~{\kf23} I{\kf12}~{\kf35} am{\kf33} done
+Dialogue: 0,0:03:10.37,0:03:12.86,DEFAULT,,0,0,0,,{\r}{\kf31}You{\kf31} will{\kf62} see{\kf42} who{\kf21} I{\kf52} am{\kf11}~
+Dialogue: 0,0:03:13.03,0:03:15.36,DEFAULT,,0,0,0,,{\r}{\kf17}A{\kf35} true{\kf17}~{\kf35} prin{\kf35}cess{\kf35} deep{\kf35} wi{\kf24}thin
+Dialogue: 0,0:03:15.53,0:03:17.70,DEFAULT,,0,0,0,,{\r}{\kf32}My{\kf32} ma{\kf32}gic{\kf32} knows{\kf32} me{\kf16} bet{\kf41}ter
+Dialogue: 0,0:03:18.20,0:03:21.36,DEFAULT,,0,0,0,,{\r}{\kf29}This{\kf29} is{\kf29} my{\kf29} fi{\kf29}nal{\kf15} let{\kf49}ter{\kf10}~{\kf10}~{\kf88}~
+Dialogue: 0,0:03:23.03,0:03:25.61,DEFAULT,,0,0,0,,{\r}{\kf17}Twi{\kf10}~{\kf25}~{\kf33}~{\kf173}light!
+Dialogue: 0,0:03:26.19,0:03:28.69,DEFAULT,,0,0,0,,{\r}{\kf32}Don't{\kf32} let{\kf32} 'em{\kf32} get{\kf16} the{\kf32} best{\kf32} of{\kf21} you{\kf21}~
+Dialogue: 0,0:03:28.86,0:03:31.36,DEFAULT,,0,0,0,,{\r}{\kf32}You{\kf32} know{\kf32} you{\kf32} have{\kf16} to{\kf32} hold{\kf32} on{\kf42}to
+Dialogue: 0,0:03:31.53,0:03:33.69,DEFAULT,,0,0,0,,{\r}{\kf32}What's{\kf32} right,{\kf16} so{\kf16} be{\kf32}lieve{\kf16} when{\kf32} I{\kf41} say
+Dialogue: 0,0:03:33.86,0:03:36.11,DEFAULT,,0,0,0,,{\r}{\kf33}Twi{\kf33}~{\kf159}light!
+Dialogue: 0,0:03:36.86,0:03:39.36,DEFAULT,,0,0,0,,{\r}{\kf32}Your{\kf32} ma{\kf32}gic's{\kf32} stron{\kf16}ger{\kf32} than{\kf32} be{\kf21}fore{\kf21}~
+Dialogue: 0,0:03:39.53,0:03:41.86,DEFAULT,,0,0,0,,{\r}{\kf33}Just{\kf33} step{\kf33} on{\kf22} through{\kf11}~{\kf16} the{\kf33} o{\kf16}pen{\kf16}~{\kf20} door
+Dialogue: 0,0:03:42.02,0:03:44.69,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf31} I{\kf31} pro{\kf31}mise{\kf31} you'll{\kf15} be{\kf31} o{\kf51}kay{\kf10}~{\kf10}~{\kf11}~
+Dialogue: 0,0:03:44.86,0:03:47.36,DEFAULT,,0,0,0,,{\r}{\kf32}So{\kf32} dark{\kf32} down{\kf32} here{\kf16} from{\kf32} what{\kf32} you've{\kf42} done
+Dialogue: 0,0:03:47.52,0:03:50.02,DEFAULT,,0,0,0,,{\r}{\kf32}I'll{\kf32} fly{\kf32} so{\kf32} high,{\kf16} I{\kf32} touch{\kf32} the{\kf32} sun{\kf10}~
+Dialogue: 0,0:03:50.19,0:03:52.36,DEFAULT,,0,0,0,,{\r}{\kf31}Won't{\kf31} let{\kf31} it{\kf31} all{\kf31} end{\kf26} here{\kf36}~!
+Dialogue: 0,0:03:52.86,0:03:54.69,DEFAULT,,0,0,0,,{\r}{\kf31}Won't{\kf31} fal{\kf31}ter{\kf16} to{\kf31} my{\kf43} fear
+Dialogue: 0,0:03:55.52,0:03:58.02,DEFAULT,,0,0,0,,{\r}{\kf30}Look{\kf30} to{\kf30} the{\kf30} sky,{\kf20} Ce{\kf30}les{\kf40}ti{\kf40}a!
+Dialogue: 0,0:03:58.19,0:04:00.52,DEFAULT,,0,0,0,,{\r}{\kf31}Pray{\kf31} to{\kf31} the{\kf31} moon,{\kf16} Prin{\kf31}cess{\kf26} Lu{\kf21}~{\kf15}na!
+Dialogue: 0,0:04:00.69,0:04:03.02,DEFAULT,,0,0,0,,{\r}{\kf16}'Cause{\kf31} if{\kf31} I{\kf31} can't{\kf31} win{\kf31} this{\kf21} fight{\kf41}~
+Dialogue: 0,0:04:03.52,0:04:05.44,DEFAULT,,0,0,0,,{\r}{\kf31}I'll{\kf31} sleep{\kf16} with{\kf16} the{\kf21} stars{\kf10}~{\kf16} to{\kf51}night
+Dialogue: 0,0:04:06.52,0:04:16.52,DEFAULT,,0,0,0,,{\r}{\kf61}My{\kf61} friends{\kf130} are{\kf200} with{\kf35} me{\kf243}~{\kf130}~{\kf140}~
+Dialogue: 0,0:04:18.52,0:04:28.85,DEFAULT,,0,0,0,,{\r}{\kf69}They're{\kf87} al{\kf26}~{\kf104}ways{\kf26}~{\kf156} with{\kf122}~{\kf130} me{\kf313}~
+Dialogue: 0,0:04:30.18,0:04:32.35,DEFAULT,,0,0,0,,{\r}{\kf32}I'll{\kf32} sleep{\kf14} with{\kf14} the{\kf32} stars{\kf18} to{\kf75}nightâ€¦

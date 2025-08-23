@@ -1,46 +1,53 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: This Day Aria (Colt Version)
+Artist: Victor Frost
+Original Timing: mylittlekaraoke.com by LardonCru, Diponi
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.03,0:00:12.15,DEFAULT,,0,0,0,,{\kf25}This{\kf25} day{\kf13} is{\kf21} go{\kf17}ing{\kf17} to{\kf17} be{\kf42} per{\kf42}fect
-Dialogue: 0,0:00:12.53,0:00:16.44,DEFAULT,,0,0,0,,{\kf13}The{\kf30} kind{\kf17} of{\kf25} day{\kf13} of{\kf13} which{\kf17} I've{\kf38} dreamed{\kf17} since{\kf13} I{\kf17} was{\kf80} small
-Dialogue: 0,0:00:17.24,0:00:19.28,DEFAULT,,0,0,0,,{\kf25}All{\kf17} those{\kf25} ar{\kf13}mor{\kf9} lo{\kf21}ving{\kf42} bores
-Dialogue: 0,0:00:19.32,0:00:21.28,DEFAULT,,0,0,0,,{\kf9}Say{\kf9} I{\kf21} look{\kf46} great{\kf9} in{\kf13} u{\kf13}ni{\kf34}form
-Dialogue: 0,0:00:21.65,0:00:25.74,DEFAULT,,0,0,0,,{\kf17}What{\kf17} they{\kf46} don't{\kf13} know{\kf9} is{\kf9} that{\kf34} I{\kf17} have{\kf34} fooled{\kf21} them{\kf138} all
-Dialogue: 0,0:00:26.44,0:00:29.65,DEFAULT,,0,0,0,,{\kf34}This{\kf21} day{\kf17} was{\kf25} go{\kf17}ing{\kf17} to{\kf21} be{\kf38} per{\kf42}fect
-Dialogue: 0,0:00:30.11,0:00:33.99,DEFAULT,,0,0,0,,{\kf13}The{\kf25} kind{\kf17} of{\kf30} day{\kf13} of{\kf17} which{\kf17} I've{\kf34} dreamed{\kf21} since{\kf17} I{\kf17} was{\kf75} small
-Dialogue: 0,0:00:34.74,0:00:36.65,DEFAULT,,0,0,0,,{\kf13}But{\kf17} in{\kf25}stead{\kf13} of{\kf21} ha{\kf17}ving{\kf38} cake
-Dialogue: 0,0:00:36.78,0:00:38.90,DEFAULT,,0,0,0,,{\kf9}With{\kf13} all{\kf13} my{\kf25} friends{\kf13} to{\kf17} ce{\kf25}le{\kf42}brate
-Dialogue: 0,0:00:39.03,0:00:42.78,DEFAULT,,0,0,0,,{\kf13}My{\kf17} wed{\kf13}ding{\kf38} bells{\kf17} may{\kf17} ne{\kf17}ver{\kf25} ring{\kf13} for{\kf21} me{\kf17} at{\kf92} all
-Dialogue: 0,0:00:42.99,0:00:45.19,DEFAULT,,0,0,0,,{\kf25}I{\kf21} care{\kf13} not{\kf9} a{\kf30} thing{\kf9} a{\kf21}bout{\kf13} the{\kf30} ring
-Dialogue: 0,0:00:45.32,0:00:47.61,DEFAULT,,0,0,0,,{\kf13}I{\kf25} won't{\kf17} par{\kf42}take{\kf9} in{\kf9} a{\kf13}ny{\kf75} cake
-Dialogue: 0,0:00:48.03,0:00:50.69,DEFAULT,,0,0,0,,{\kf50}Vows?{\kf9} Well{\kf9} I'll{\kf9} be{\kf30} ly{\kf21}ing{\kf9} when{\kf13} I{\kf17} say{\kf42}~
-Dialogue: 0,0:00:51.49,0:00:53.40,DEFAULT,,0,0,0,,{\kf21}That{\kf21} through{\kf17} a{\kf21}ny{\kf21} kind{\kf17} of{\kf13} wea{\kf21}ther
-Dialogue: 0,0:00:53.53,0:00:55.44,DEFAULT,,0,0,0,,{\kf17}I'll{\kf25} want{\kf21} us{\kf13} to{\kf13} be{\kf17} to{\kf17}ge{\kf30}ther
-Dialogue: 0,0:00:55.74,0:00:59.61,DEFAULT,,0,0,0,,{\kf17}The{\kf42} truth{\kf21} is{\kf13} I{\kf13} don't{\kf30} care{\kf17} for{\kf21} her{\kf13} at{\kf150} all
-Dialogue: 0,0:00:59.82,0:01:02.78,DEFAULT,,0,0,0,,{\kf38}No,{\kf42} I{\kf38} do{\kf30} not{\kf42} love{\kf25} the{\kf42} bride
-Dialogue: 0,0:01:02.90,0:01:06.61,DEFAULT,,0,0,0,,{\kf30}For{\kf84} my{\kf42} heart{\kf34} is{\kf21} de{\kf21}ad{\kf21} in{\kf67}side
-Dialogue: 0,0:01:06.86,0:01:13.19,DEFAULT,,0,0,0,,{\kf30}But{\kf30} I{\kf71} still{\kf50} want{\kf25} her{\kf34} to{\kf38} be{\kf288} mine
-Dialogue: 0,0:01:13.36,0:01:15.28,DEFAULT,,0,0,0,,{\kf13}We{\kf17} must{\kf9} es{\kf25}cape{\kf9} be{\kf13}fore{\kf13} it's{\kf25} too{\kf17} late
-Dialogue: 0,0:01:15.36,0:01:17.53,DEFAULT,,0,0,0,,{\kf17}Find{\kf9} a{\kf25} way{\kf9} to{\kf21} save{\kf13} the{\kf84} day
-Dialogue: 0,0:01:17.82,0:01:20.57,DEFAULT,,0,0,0,,{\kf25}Hope?{\kf21} I'd{\kf13} be{\kf25} ly{\kf17}ing{\kf9} if{\kf13} I{\kf25} say{\kf80}~
-Dialogue: 0,0:01:20.86,0:01:22.86,DEFAULT,,0,0,0,,{\kf17} I{\kf17} don't{\kf25} fear{\kf9} that{\kf13} I{\kf13} may{\kf30} lose{\kf21} her
-Dialogue: 0,0:01:22.94,0:01:24.61,DEFAULT,,0,0,0,,{\kf17}To{\kf25} one{\kf13} who{\kf17} wants{\kf9} to{\kf34} use{\kf13} her
-Dialogue: 0,0:01:24.82,0:01:28.28,DEFAULT,,0,0,0,,{\kf17}Not{\kf25} care{\kf17} for,{\kf17} love{\kf13} and{\kf30} che{\kf13}rish{\kf17} her{\kf34} each{\kf109} day
-Dialogue: 0,0:01:28.69,0:01:31.82,DEFAULT,,0,0,0,,{\kf42}For{\kf38} I{\kf25} oh{\kf25} so{\kf46} love{\kf42} the{\kf34} bride
-Dialogue: 0,0:01:31.99,0:01:35.69,DEFAULT,,0,0,0,,{\kf34}Oh,{\kf34} in{\kf38} my{\kf42} heart{\kf38} she{\kf38} does{\kf25} re{\kf71}side
-Dialogue: 0,0:01:35.90,0:01:44.11,DEFAULT,,0,0,0,,{\kf80}Oh,{\kf30} Prin{\kf34}cess{\kf50} Ca{\kf38}~{\kf46}dance,{\kf21} I'll{\kf38} soon{\kf38} be{\kf34} by{\kf30} your{\kf280} side
-Dialogue: 0,0:01:52.15,0:01:55.36,DEFAULT,,0,0,0,,{\kf34}Fi{\kf13}na{\kf17}lly,{\kf13} the{\kf25} mo{\kf17}ment{\kf21} has{\kf13} a{\kf38}rri{\kf75}ved
-Dialogue: 0,0:01:55.61,0:01:59.03,DEFAULT,,0,0,0,,{\kf30}For{\kf30} me{\kf9} to{\kf21} take{\kf9} a{\kf13} ve{\kf21}ry{\kf21} lu{\kf21}cky{\kf75} bride
-Dialogue: 0,0:01:59.69,0:02:01.19,DEFAULT,,0,0,0,,{\kf13}Oh,{\kf13} the{\kf13} wed{\kf21}ding{\kf13} we{\kf25} won't{\kf21} make
-Dialogue: 0,0:02:01.28,0:02:03.32,DEFAULT,,0,0,0,,{\kf17}She'll{\kf13} end{\kf13} up{\kf25} mar{\kf13}ry{\kf21}ing{\kf9} a{\kf46} fake
-Dialogue: 0,0:02:03.40,0:02:06.11,DEFAULT,,0,0,0,,{\kf17}Prin{\kf25}cess{\kf46} Ca{\kf42}dance{\kf46} will{\kf63} be
-Dialogue: 0,0:02:06.24,0:02:06.86,DEFAULT,,0,0,0,,{\kf63}Mine
-Dialogue: 0,0:02:06.94,0:02:08.28,DEFAULT,,0,0,0,,{\kf50}All{\kf71} mine
+Dialogue: 0,0:00:09.03,0:00:12.16,DEFAULT,,0,0,0,,{\r}{\kf36}This{\kf36} day{\kf18} is{\kf30} go{\kf24}ing{\kf24} to{\kf24} be{\kf60} per{\kf60}fect
+Dialogue: 0,0:00:12.53,0:00:16.45,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf40} kind{\kf23} of{\kf34} day{\kf17} of{\kf17} which{\kf23} I've{\kf51} dreamed{\kf23} since{\kf17} I{\kf23} was{\kf107} small
+Dialogue: 0,0:00:17.24,0:00:19.28,DEFAULT,,0,0,0,,{\r}{\kf34}All{\kf23} those{\kf34} ar{\kf17}mor{\kf11} lo{\kf28}ving{\kf57} bores
+Dialogue: 0,0:00:19.32,0:00:21.28,DEFAULT,,0,0,0,,{\r}{\kf11}Say{\kf11} I{\kf27} look{\kf60} great{\kf11} in{\kf16} u{\kf16}ni{\kf44}form
+Dialogue: 0,0:00:21.66,0:00:25.74,DEFAULT,,0,0,0,,{\r}{\kf19}What{\kf19} they{\kf53} don't{\kf15} know{\kf10} is{\kf10} that{\kf39} I{\kf19} have{\kf39} fooled{\kf24} them{\kf161} all
+Dialogue: 0,0:00:26.45,0:00:29.66,DEFAULT,,0,0,0,,{\r}{\kf47}This{\kf29} day{\kf23} was{\kf35} go{\kf23}ing{\kf23} to{\kf29} be{\kf53} per{\kf59}fect
+Dialogue: 0,0:00:30.12,0:00:33.99,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf33} kind{\kf22} of{\kf39} day{\kf17} of{\kf22} which{\kf22} I've{\kf44} dreamed{\kf28} since{\kf22} I{\kf22} was{\kf100} small
+Dialogue: 0,0:00:34.74,0:00:36.66,DEFAULT,,0,0,0,,{\r}{\kf17}But{\kf23} in{\kf34}stead{\kf17} of{\kf28} ha{\kf23}ving{\kf50} cake
+Dialogue: 0,0:00:36.78,0:00:38.91,DEFAULT,,0,0,0,,{\r}{\kf11}With{\kf17} all{\kf17} my{\kf34} friends{\kf17} to{\kf23} ce{\kf34}le{\kf59}brate
+Dialogue: 0,0:00:39.03,0:00:42.78,DEFAULT,,0,0,0,,{\r}{\kf16}My{\kf21} wed{\kf16}ding{\kf48} bells{\kf21} may{\kf21} ne{\kf21}ver{\kf32} ring{\kf16} for{\kf26} me{\kf21} at{\kf116} all
+Dialogue: 0,0:00:42.99,0:00:45.20,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf28} care{\kf17} not{\kf11} a{\kf39} thing{\kf11} a{\kf28}bout{\kf17} the{\kf37} ring
+Dialogue: 0,0:00:45.32,0:00:47.62,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf29} won't{\kf19} par{\kf48}take{\kf10} in{\kf10} a{\kf14}ny{\kf85} cake
+Dialogue: 0,0:00:48.03,0:00:50.70,DEFAULT,,0,0,0,,{\r}{\kf65}Vows?{\kf11} Well{\kf11} I'll{\kf11} be{\kf38} ly{\kf27}ing{\kf11} when{\kf16} I{\kf22} say{\kf55}~
+Dialogue: 0,0:00:51.49,0:00:53.41,DEFAULT,,0,0,0,,{\r}{\kf27}That{\kf27} through{\kf21} a{\kf27}ny{\kf27} kind{\kf21} of{\kf16} wea{\kf26}ther
+Dialogue: 0,0:00:53.53,0:00:55.45,DEFAULT,,0,0,0,,{\r}{\kf21}I'll{\kf32} want{\kf27} us{\kf16} to{\kf16} be{\kf21} to{\kf21}ge{\kf38}ther
+Dialogue: 0,0:00:55.74,0:00:59.62,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf48} truth{\kf24} is{\kf15} I{\kf15} don't{\kf34} care{\kf19} for{\kf24} her{\kf15} at{\kf175} all
+Dialogue: 0,0:00:59.82,0:01:02.78,DEFAULT,,0,0,0,,{\r}{\kf44}No,{\kf49} I{\kf44} do{\kf34} not{\kf49} love{\kf29} the{\kf47} bride
+Dialogue: 0,0:01:02.91,0:01:06.62,DEFAULT,,0,0,0,,{\r}{\kf34}For{\kf98} my{\kf49} heart{\kf39} is{\kf24} de{\kf24}ad{\kf24} in{\kf79}side
+Dialogue: 0,0:01:06.87,0:01:13.20,DEFAULT,,0,0,0,,{\r}{\kf33}But{\kf33} I{\kf80} still{\kf56} want{\kf28} her{\kf38} to{\kf42} be{\kf323} mine
+Dialogue: 0,0:01:13.37,0:01:15.28,DEFAULT,,0,0,0,,{\r}{\kf17}We{\kf23} must{\kf12} es{\kf35}cape{\kf12} be{\kf17}fore{\kf17} it's{\kf35} too{\kf24} late
+Dialogue: 0,0:01:15.37,0:01:17.53,DEFAULT,,0,0,0,,{\r}{\kf21}Find{\kf10} a{\kf31} way{\kf10} to{\kf26} save{\kf16} the{\kf103} day
+Dialogue: 0,0:01:17.82,0:01:20.57,DEFAULT,,0,0,0,,{\r}{\kf31}Hope?{\kf25} I'd{\kf15} be{\kf31} ly{\kf20}ing{\kf10} if{\kf15} I{\kf31} say{\kf97}~
+Dialogue: 0,0:01:20.87,0:01:22.87,DEFAULT,,0,0,0,,{\r}{\kf24} I{\kf24} don't{\kf35} fear{\kf12} that{\kf18} I{\kf18} may{\kf41} lose{\kf28} her
+Dialogue: 0,0:01:22.95,0:01:24.62,DEFAULT,,0,0,0,,{\r}{\kf22}To{\kf33} one{\kf17} who{\kf22} wants{\kf11} to{\kf45} use{\kf17} her
+Dialogue: 0,0:01:24.82,0:01:28.28,DEFAULT,,0,0,0,,{\r}{\kf20}Not{\kf30} care{\kf20} for,{\kf20} love{\kf15} and{\kf35} che{\kf15}rish{\kf20} her{\kf40} each{\kf131} day
+Dialogue: 0,0:01:28.70,0:01:31.82,DEFAULT,,0,0,0,,{\r}{\kf52}For{\kf47} I{\kf31} oh{\kf31} so{\kf57} love{\kf52} the{\kf42} bride
+Dialogue: 0,0:01:31.99,0:01:35.70,DEFAULT,,0,0,0,,{\r}{\kf39}Oh,{\kf39} in{\kf44} my{\kf49} heart{\kf44} she{\kf44} does{\kf29} re{\kf83}side
+Dialogue: 0,0:01:35.91,0:01:44.12,DEFAULT,,0,0,0,,{\r}{\kf91}Oh,{\kf34} Prin{\kf38}cess{\kf58} Ca{\kf43}~{\kf53}dance,{\kf24} I'll{\kf43} soon{\kf43} be{\kf38} by{\kf34} your{\kf322} side
+Dialogue: 0,0:01:52.16,0:01:55.37,DEFAULT,,0,0,0,,{\r}{\kf41}Fi{\kf15}na{\kf20}lly,{\kf15} the{\kf31} mo{\kf20}ment{\kf25} has{\kf15} a{\kf46}rri{\kf93}ved
+Dialogue: 0,0:01:55.62,0:01:59.03,DEFAULT,,0,0,0,,{\r}{\kf41}For{\kf41} me{\kf12} to{\kf29} take{\kf12} a{\kf17} ve{\kf29}ry{\kf29} lu{\kf29}cky{\kf103} bride
+Dialogue: 0,0:01:59.70,0:02:01.20,DEFAULT,,0,0,0,,{\r}{\kf16}Oh,{\kf16} the{\kf16} wed{\kf27}ding{\kf16} we{\kf32} won't{\kf27} make
+Dialogue: 0,0:02:01.28,0:02:03.32,DEFAULT,,0,0,0,,{\r}{\kf22}She'll{\kf17} end{\kf17} up{\kf33} mar{\kf17}ry{\kf28}ing{\kf11} a{\kf59} fake
+Dialogue: 0,0:02:03.41,0:02:06.12,DEFAULT,,0,0,0,,{\r}{\kf19}Prin{\kf29}cess{\kf52} Ca{\kf48}dance{\kf52} will{\kf71} be
+Dialogue: 0,0:02:06.24,0:02:06.87,DEFAULT,,0,0,0,,{\r}{\kf62}Mine
+Dialogue: 0,0:02:06.95,0:02:08.28,DEFAULT,,0,0,0,,{\r}{\kf55}All{\kf78} mine

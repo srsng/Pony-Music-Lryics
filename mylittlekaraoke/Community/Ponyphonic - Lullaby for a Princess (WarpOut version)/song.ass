@@ -1,74 +1,81 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Lullaby for a Princess (WarpOut version)
+Artist: Ponyphonic, Christina Larson
+Original Timing: mylittlekaraoke.com by barbeque
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:18.37,0:00:23.36,DEFAULT,,0,0,0,,{\kf38}Fate{\kf30} has{\kf34} been{\kf27} cru{\kf30}el{\kf34} and{\kf30} or{\kf23}der{\kf38} un{\kf57}kind
-Dialogue: 0,0:00:23.99,0:00:28.79,DEFAULT,,0,0,0,,{\kf27}How{\kf38} can{\kf42} I{\kf23} have{\kf27} sent{\kf42} you{\kf19} a{\kf150}way?
-Dialogue: 0,0:00:29.36,0:00:31.79,DEFAULT,,0,0,0,,{\kf27}The{\kf45} blame{\kf27} was{\kf15} my{\kf19}~{\kf49} own
-Dialogue: 0,0:00:32.17,0:00:34.49,DEFAULT,,0,0,0,,{\kf27}The{\kf19} pu{\kf23}nish{\kf27}ment{\kf57} yours
-Dialogue: 0,0:00:35.13,0:00:39.63,DEFAULT,,0,0,0,,{\kf19}The{\kf30} har{\kf23}mo{\kf38}ny's{\kf42} sil{\kf42}ent{\kf42} to{\kf105}day
-Dialogue: 0,0:00:40.31,0:00:42.97,DEFAULT,,0,0,0,,{\kf15}But{\kf15}~{\kf27} in{\kf27}to{\kf15} the{\kf45} still{\kf38}ness
-Dialogue: 0,0:00:43.31,0:00:45.29,DEFAULT,,0,0,0,,{\kf19}I'll{\kf30} bring{\kf27} you{\kf19} a{\kf53} song
-Dialogue: 0,0:00:45.78,0:00:50.17,DEFAULT,,0,0,0,,{\kf23}And{\kf34} I{\kf30} will{\kf27} your{\kf34} com{\kf30}pa{\kf27}ny{\kf139} keep
-Dialogue: 0,0:00:51.07,0:00:56.09,DEFAULT,,0,0,0,,{\kf30}Till{\kf30} your{\kf30} ti{\kf15}r{\kf23}ed{\kf83} eyes{\kf19} and{\kf34} my{\kf27} lul{\kf27}la{\kf68}bies
-Dialogue: 0,0:00:56.62,0:01:03.29,DEFAULT,,0,0,0,,{\kf23}Have{\kf38} car{\kf34}ried{\kf30} you{\kf34} soft{\kf34}ly{\kf27} to{\kf330} sleep
-Dialogue: 0,0:01:14.58,0:01:18.52,DEFAULT,,0,0,0,,{\kf27}Once{\kf30} did{\kf15} a{\kf45} po{\kf30}ny{\kf23} who{\kf34} shone{\kf27} like{\kf15} the{\kf49} sun
-Dialogue: 0,0:01:19.01,0:01:23.06,DEFAULT,,0,0,0,,{\kf23}Look{\kf27} out{\kf27} on{\kf27} her{\kf49} king{\kf23}dom{\kf23} and{\kf109} sigh
-Dialogue: 0,0:01:23.88,0:01:25.76,DEFAULT,,0,0,0,,{\kf19}She{\kf45} smil{\kf23}ed{\kf19} and{\kf30} said
-Dialogue: 0,0:01:25.91,0:01:28.49,DEFAULT,,0,0,0,,{\kf15}"Su{\kf15}-ure{\kf15}ly{\kf34} there{\kf19} is{\kf30} no{\kf30} po{\kf19}ny
-Dialogue: 0,0:01:28.68,0:01:30.97,DEFAULT,,0,0,0,,{\kf27}So{\kf38} love{\kf23}ly{\kf15} and{\kf23} so{\kf23} well
-Dialogue: 0,0:01:31.19,0:01:35.32,DEFAULT,,0,0,0,,{\kf27}Be{\kf19}lo{\kf42}ved{\kf30} as{\kf248} I"
-Dialogue: 0,0:01:37.19,0:01:39.48,DEFAULT,,0,0,0,,{\kf34}So{\kf30} great{\kf27} was{\kf27} her{\kf53} reign
-Dialogue: 0,0:01:39.71,0:01:41.92,DEFAULT,,0,0,0,,{\kf23}So{\kf34} bril{\kf27}liant{\kf27} her{\kf34} glo{\kf19}ry
-Dialogue: 0,0:01:42.11,0:01:46.12,DEFAULT,,0,0,0,,{\kf23}That{\kf27} long{\kf23} was{\kf19} the{\kf27} sha{\kf15}d{\kf19}ow{\kf27} she{\kf113} cast
-Dialogue: 0,0:01:46.94,0:01:48.78,DEFAULT,,0,0,0,,{\kf19}Which{\kf30} fell{\kf30} dark{\kf19} u{\kf27}pon
-Dialogue: 0,0:01:49.01,0:01:51.56,DEFAULT,,0,0,0,,{\kf19}The{\kf30} young{\kf23} sis{\kf15}t{\kf15}er{\kf23} she{\kf49} loved
-Dialogue: 0,0:01:51.89,0:01:54.18,DEFAULT,,0,0,0,,{\kf19}And{\kf27} grew{\kf27} on{\kf27}ly{\kf30} dar{\kf12}k{\kf12}er
-Dialogue: 0,0:01:54.33,0:01:58.38,DEFAULT,,0,0,0,,{\kf23}As{\kf30} days{\kf30} and{\kf49} nights{\kf210} passed
-Dialogue: 0,0:02:00.78,0:02:02.62,DEFAULT,,0,0,0,,{\kf34}Soon{\kf27} did{\kf30} that{\kf38} po{\kf19}ny
-Dialogue: 0,0:02:02.81,0:02:05.09,DEFAULT,,0,0,0,,{\kf23}Take{\kf34} no{\kf27}tice{\kf30} that{\kf27} o{\kf38}thers
-Dialogue: 0,0:02:05.28,0:02:09.37,DEFAULT,,0,0,0,,{\kf23}Did{\kf27} not{\kf30} give{\kf23} her{\kf30} sis{\kf27}ter{\kf27} her{\kf139} due
-Dialogue: 0,0:02:10.12,0:02:12.78,DEFAULT,,0,0,0,,{\kf23}And{\kf30} nei{\kf23}ther{\kf19} had{\kf27} she{\kf27} loved{\kf23} her
-Dialogue: 0,0:02:12.97,0:02:14.54,DEFAULT,,0,0,0,,{\kf27}As{\kf15} she{\kf15}~{\kf15} de{\kf49}served
-Dialogue: 0,0:02:14.99,0:02:17.24,DEFAULT,,0,0,0,,{\kf23}She{\kf27} watched{\kf27} as{\kf23} her{\kf23} sis{\kf27}ter's
-Dialogue: 0,0:02:17.43,0:02:21.37,DEFAULT,,0,0,0,,{\kf27}Un{\kf23}hap{\kf38}pi{\kf30}ness{\kf233} grew
-Dialogue: 0,0:02:23.47,0:02:26.99,DEFAULT,,0,0,0,,{\kf23}But{\kf30} such{\kf30} is{\kf15} the{\kf23} way{\kf30}~{\kf19} of{\kf23} the{\kf38} lime{\kf15}light
-Dialogue: 0,0:02:27.18,0:02:32.58,DEFAULT,,0,0,0,,{\kf19}It{\kf30} swee{\kf15}tl{\kf15}y{\kf23} takes{\kf34} hold{\kf27} of{\kf15} the{\kf30} mind{\kf19}~{\kf15} o{\kf12}f{\kf19} its{\kf143} host
-Dialogue: 0,0:02:33.26,0:02:37.68,DEFAULT,,0,0,0,,{\kf19}And{\kf30} that{\kf30} foo{\kf23}lish{\kf38} po{\kf30}ny{\kf30} did{\kf30} no{\kf19}th{\kf15}ing{\kf19} to{\kf42} stop
-Dialogue: 0,0:02:38.06,0:02:39.93,DEFAULT,,0,0,0,,{\kf12}The{\kf15} des{\kf30}truc{\kf15}ti{\kf15}on{\kf23} of{\kf23} one
-Dialogue: 0,0:02:40.12,0:02:45.37,DEFAULT,,0,0,0,,{\kf30}Who{\kf27} had{\kf27} nee{\kf30}ded{\kf30} her{\kf319} most
-Dialogue: 0,0:02:47.02,0:02:48.82,DEFAULT,,0,0,0,,{\kf30}Lul{\kf34}lay{\kf27} moon{\kf27} prin{\kf19}cess
-Dialogue: 0,0:02:49.04,0:02:51.29,DEFAULT,,0,0,0,,{\kf23}Good{\kf27}night{\kf27} sis{\kf23}ter{\kf60} mine
-Dialogue: 0,0:02:51.86,0:02:55.76,DEFAULT,,0,0,0,,{\kf27}Rest{\kf23} now{\kf19} in{\kf34} moon{\kf34}light's{\kf34} em{\kf128}brace
-Dialogue: 0,0:02:56.81,0:02:59.02,DEFAULT,,0,0,0,,{\kf30}Bear{\kf19} up{\kf23} my{\kf30} lul{\kf19}la{\kf38}by
-Dialogue: 0,0:02:59.21,0:03:00.78,DEFAULT,,0,0,0,,{\kf27}Winds{\kf19} of{\kf15}~{\kf19} the{\kf34} earth
-Dialogue: 0,0:03:01.19,0:03:03.11,DEFAULT,,0,0,0,,{\kf23}Through{\kf23} cloud{\kf15}~{\kf15} and{\kf30} through{\kf27} sky
-Dialogue: 0,0:03:03.29,0:03:05.81,DEFAULT,,0,0,0,,{\kf23}And{\kf42} through{\kf139} space
-Dialogue: 0,0:03:06.52,0:03:10.49,DEFAULT,,0,0,0,,{\kf27}Car{\kf30}ry{\kf15} the{\kf49} peace{\kf19} and{\kf19} the{\kf45} cool{\kf30}ness{\kf27} of{\kf34} night
-Dialogue: 0,0:03:10.91,0:03:15.59,DEFAULT,,0,0,0,,{\kf19}And{\kf34} car{\kf30}ry{\kf27} my{\kf19} sor{\kf23}~{\kf19}r{\kf23}ow{\kf23} in{\kf15} kind{\kf12}~{\kf139}~
-Dialogue: 0,0:03:16.19,0:03:17.66,DEFAULT,,0,0,0,,{\kf30}Lu{\kf23}na{\kf30} you're{\kf27} loved
-Dialogue: 0,0:03:17.81,0:03:20.28,DEFAULT,,0,0,0,,{\kf23}So{\kf19} much{\kf15} more{\kf19}~{\kf19} than{\kf19} you{\kf57} know
-Dialogue: 0,0:03:20.62,0:03:27.26,DEFAULT,,0,0,0,,{\kf23}May{\kf30} trou{\kf27}bles{\kf23} be{\kf19} far{\kf34}~{\kf23} from{\kf42} your{\kf15} mind{\kf15}~{\kf304}~
-Dialogue: 0,0:03:27.71,0:03:34.72,DEFAULT,,0,0,0,,{\kf23}And{\kf30} for{\kf38}give{\kf27} me{\kf27} for{\kf23} be{\kf30}ing{\kf34} so{\kf345} blind
-Dialogue: 0,0:03:57.97,0:04:03.26,DEFAULT,,0,0,0,,{\kf34}The{\kf109} years{\kf34} now{\kf19} b{\kf19}e{\kf113}fore{\kf38} us
-Dialogue: 0,0:04:04.19,0:04:08.54,DEFAULT,,0,0,0,,{\kf34}Fear{\kf45}ful{\kf45} and{\kf42} un{\kf162}known
-Dialogue: 0,0:04:08.92,0:04:14.28,DEFAULT,,0,0,0,,{\kf42}I{\kf109} ne{\kf45}ver{\kf42} i{\kf117}ma{\kf60}gined
-Dialogue: 0,0:04:14.66,0:04:19.19,DEFAULT,,0,0,0,,{\kf23}I'd{\kf42} face{\kf57} them{\kf45} on{\kf42} my{\kf19}~{\kf135} own
-Dialogue: 0,0:04:19.83,0:04:25.27,DEFAULT,,0,0,0,,{\kf38}May{\kf98} these{\kf45} thou{\kf42}sand{\kf109} win{\kf72}ters
-Dialogue: 0,0:04:25.79,0:04:29.88,DEFAULT,,0,0,0,,{\kf45}Swift{\kf45}ly{\kf38} pass{\kf42} I{\kf19} pray{\kf105}~
-Dialogue: 0,0:04:30.63,0:04:36.82,DEFAULT,,0,0,0,,{\kf42}I{\kf109} love{\kf42} you,{\kf42} I{\kf109} miss{\kf105} you
-Dialogue: 0,0:04:37.42,0:04:43.31,DEFAULT,,0,0,0,,{\kf53}All{\kf45} these{\kf87} miles{\kf38} a{\kf282}way
-Dialogue: 0,0:04:46.16,0:04:54.93,DEFAULT,,0,0,0,,{\kf87}May{\kf49} all{\kf49} your{\kf113} dreams{\kf68} be{\kf132} sweet{\kf30} t{\kf30}o{\kf98}night
-Dialogue: 0,0:04:56.17,0:05:04.53,DEFAULT,,0,0,0,,{\kf75}Safe{\kf27} u{\kf42}pon{\kf49} your{\kf102} bed{\kf72} of{\kf184} moon{\kf109}light
-Dialogue: 0,0:05:05.21,0:05:13.91,DEFAULT,,0,0,0,,{\kf27}And{\kf102} know{\kf42} not{\kf38} of{\kf98} sad{\kf45}ness,{\kf147} pain,{\kf30} or{\kf27}~{\kf128} care
-Dialogue: 0,0:05:14.36,0:05:16.12,DEFAULT,,0,0,0,,{\kf23}And{\kf38} when{\kf19} I{\kf19}~{\kf38} dream
-Dialogue: 0,0:05:16.31,0:05:22.46,DEFAULT,,0,0,0,,{\kf30}I'll{\kf42} fly{\kf34} a{\kf49}way{\kf38} and{\kf49} meet{\kf83} you{\kf124} there
-Dialogue: 0,0:05:24.07,0:05:33.07,DEFAULT,,0,0,0,,{\kf383}Sleep,{\kf390} sleep
-Dialogue: 0,0:05:34.08,0:05:42.07,DEFAULT,,0,0,0,,{\kf443}Sleep{\kf327}~
+Dialogue: 0,0:00:18.37,0:00:23.36,DEFAULT,,0,0,0,,{\r}{\kf55}Fate{\kf44} has{\kf50} been{\kf39} cru{\kf44}el{\kf50} and{\kf44} or{\kf33}der{\kf55} un{\kf85}kind
+Dialogue: 0,0:00:24.00,0:00:28.80,DEFAULT,,0,0,0,,{\r}{\kf35}How{\kf49} can{\kf54} I{\kf30} have{\kf35} sent{\kf54} you{\kf25} a{\kf198}way?
+Dialogue: 0,0:00:29.36,0:00:31.80,DEFAULT,,0,0,0,,{\r}{\kf36}The{\kf61} blame{\kf36} was{\kf20} my{\kf25}~{\kf66} own
+Dialogue: 0,0:00:32.17,0:00:34.50,DEFAULT,,0,0,0,,{\r}{\kf41}The{\kf29} pu{\kf35}nish{\kf41}ment{\kf87} yours
+Dialogue: 0,0:00:35.14,0:00:39.64,DEFAULT,,0,0,0,,{\r}{\kf25}The{\kf40} har{\kf30}mo{\kf50}ny's{\kf55} sil{\kf55}ent{\kf55} to{\kf140}day
+Dialogue: 0,0:00:40.31,0:00:42.97,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22}~{\kf39} in{\kf39}to{\kf22} the{\kf66} still{\kf56}ness
+Dialogue: 0,0:00:43.31,0:00:45.30,DEFAULT,,0,0,0,,{\r}{\kf26}I'll{\kf41} bring{\kf36} you{\kf26} a{\kf70} song
+Dialogue: 0,0:00:45.79,0:00:50.17,DEFAULT,,0,0,0,,{\r}{\kf29}And{\kf43} I{\kf39} will{\kf34} your{\kf43} com{\kf39}pa{\kf34}ny{\kf178} keep
+Dialogue: 0,0:00:51.07,0:00:56.10,DEFAULT,,0,0,0,,{\r}{\kf39}Till{\kf39} your{\kf39} ti{\kf20}r{\kf30}ed{\kf108} eyes{\kf25} and{\kf44} my{\kf34} lul{\kf34}la{\kf90}bies
+Dialogue: 0,0:00:56.62,0:01:03.30,DEFAULT,,0,0,0,,{\r}{\kf27}Have{\kf46} car{\kf41}ried{\kf37} you{\kf41} soft{\kf41}ly{\kf32} to{\kf402} sleep
+Dialogue: 0,0:01:14.59,0:01:18.52,DEFAULT,,0,0,0,,{\r}{\kf35}Once{\kf40} did{\kf20} a{\kf61} po{\kf40}ny{\kf30} who{\kf45} shone{\kf35} like{\kf20} the{\kf68} sun
+Dialogue: 0,0:01:19.01,0:01:23.06,DEFAULT,,0,0,0,,{\r}{\kf30}Look{\kf35} out{\kf35} on{\kf35} her{\kf65} king{\kf30}dom{\kf30} and{\kf145} sigh
+Dialogue: 0,0:01:23.89,0:01:25.76,DEFAULT,,0,0,0,,{\r}{\kf26}She{\kf63} smil{\kf31}ed{\kf26} and{\kf42} said
+Dialogue: 0,0:01:25.91,0:01:28.50,DEFAULT,,0,0,0,,{\r}{\kf22}"Su{\kf22}-ure{\kf22}ly{\kf50} there{\kf28} is{\kf44} no{\kf44} po{\kf27}ny
+Dialogue: 0,0:01:28.69,0:01:30.97,DEFAULT,,0,0,0,,{\r}{\kf41}So{\kf59} love{\kf35}ly{\kf23} and{\kf35} so{\kf36} well
+Dialogue: 0,0:01:31.20,0:01:35.32,DEFAULT,,0,0,0,,{\r}{\kf30}Be{\kf21}lo{\kf47}ved{\kf34} as{\kf280} I"
+Dialogue: 0,0:01:37.20,0:01:39.49,DEFAULT,,0,0,0,,{\r}{\kf46}So{\kf41} great{\kf36} was{\kf36} her{\kf70} reign
+Dialogue: 0,0:01:39.71,0:01:41.92,DEFAULT,,0,0,0,,{\r}{\kf31}So{\kf46} bril{\kf36}liant{\kf36} her{\kf46} glo{\kf26}ry
+Dialogue: 0,0:01:42.11,0:01:46.12,DEFAULT,,0,0,0,,{\r}{\kf31}That{\kf36} long{\kf31} was{\kf26} the{\kf36} sha{\kf21}d{\kf26}ow{\kf36} she{\kf158} cast
+Dialogue: 0,0:01:46.95,0:01:48.79,DEFAULT,,0,0,0,,{\r}{\kf28}Which{\kf45} fell{\kf45} dark{\kf28} u{\kf38}pon
+Dialogue: 0,0:01:49.01,0:01:51.56,DEFAULT,,0,0,0,,{\r}{\kf28}The{\kf44} young{\kf33} sis{\kf22}t{\kf22}er{\kf33} she{\kf73} loved
+Dialogue: 0,0:01:51.90,0:01:54.19,DEFAULT,,0,0,0,,{\r}{\kf29}And{\kf40} grew{\kf40} on{\kf40}ly{\kf46} dar{\kf17}k{\kf17}er
+Dialogue: 0,0:01:54.34,0:01:58.39,DEFAULT,,0,0,0,,{\r}{\kf27}As{\kf36} days{\kf36} and{\kf58} nights{\kf248} passed
+Dialogue: 0,0:02:00.79,0:02:02.62,DEFAULT,,0,0,0,,{\r}{\kf42}Soon{\kf33} did{\kf38} that{\kf47} po{\kf24}ny
+Dialogue: 0,0:02:02.81,0:02:05.10,DEFAULT,,0,0,0,,{\r}{\kf29}Take{\kf44} no{\kf34}tice{\kf39} that{\kf34} o{\kf49}thers
+Dialogue: 0,0:02:05.29,0:02:09.37,DEFAULT,,0,0,0,,{\r}{\kf29}Did{\kf33} not{\kf38} give{\kf29} her{\kf38} sis{\kf33}ter{\kf33} her{\kf176} due
+Dialogue: 0,0:02:10.12,0:02:12.79,DEFAULT,,0,0,0,,{\r}{\kf35}And{\kf47} nei{\kf35}ther{\kf30} had{\kf41} she{\kf41} loved{\kf37} her
+Dialogue: 0,0:02:12.97,0:02:14.55,DEFAULT,,0,0,0,,{\r}{\kf35}As{\kf20} she{\kf20}~{\kf20} de{\kf63}served
+Dialogue: 0,0:02:15.00,0:02:17.25,DEFAULT,,0,0,0,,{\r}{\kf35}She{\kf40} watched{\kf40} as{\kf35} her{\kf35} sis{\kf40}ter's
+Dialogue: 0,0:02:17.44,0:02:21.37,DEFAULT,,0,0,0,,{\r}{\kf30}Un{\kf25}hap{\kf42}pi{\kf34}ness{\kf263} grew
+Dialogue: 0,0:02:23.47,0:02:27.00,DEFAULT,,0,0,0,,{\r}{\kf33}But{\kf43} such{\kf43} is{\kf22} the{\kf33} way{\kf43}~{\kf27} of{\kf33} the{\kf54} lime{\kf22}light
+Dialogue: 0,0:02:27.19,0:02:32.59,DEFAULT,,0,0,0,,{\r}{\kf25}It{\kf39} swee{\kf20}tl{\kf20}y{\kf29} takes{\kf44} hold{\kf34} of{\kf20} the{\kf39} mind{\kf25}~{\kf20} o{\kf15}f{\kf25} its{\kf185} host
+Dialogue: 0,0:02:33.26,0:02:37.69,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf41} that{\kf41} foo{\kf31}lish{\kf52} po{\kf41}ny{\kf41} did{\kf41} no{\kf26}th{\kf21}ing{\kf26} to{\kf56} stop
+Dialogue: 0,0:02:38.06,0:02:39.94,DEFAULT,,0,0,0,,{\r}{\kf16}The{\kf21} des{\kf43}truc{\kf21}ti{\kf21}on{\kf32} of{\kf34} one
+Dialogue: 0,0:02:40.12,0:02:45.37,DEFAULT,,0,0,0,,{\r}{\kf34}Who{\kf30} had{\kf30} nee{\kf34}ded{\kf34} her{\kf363} most
+Dialogue: 0,0:02:47.02,0:02:48.82,DEFAULT,,0,0,0,,{\r}{\kf40}Lul{\kf45}lay{\kf35} moon{\kf35} prin{\kf25}cess
+Dialogue: 0,0:02:49.05,0:02:51.30,DEFAULT,,0,0,0,,{\r}{\kf32}Good{\kf38}night{\kf38} sis{\kf32}ter{\kf85} mine
+Dialogue: 0,0:02:51.86,0:02:55.76,DEFAULT,,0,0,0,,{\r}{\kf35}Rest{\kf30} now{\kf25} in{\kf44} moon{\kf44}light's{\kf44} em{\kf168}brace
+Dialogue: 0,0:02:56.81,0:02:59.02,DEFAULT,,0,0,0,,{\r}{\kf42}Bear{\kf26} up{\kf32} my{\kf42} lul{\kf26}la{\kf53}by
+Dialogue: 0,0:02:59.21,0:03:00.79,DEFAULT,,0,0,0,,{\r}{\kf37}Winds{\kf26} of{\kf21}~{\kf26} the{\kf47} earth
+Dialogue: 0,0:03:01.20,0:03:03.11,DEFAULT,,0,0,0,,{\r}{\kf33}Through{\kf33} cloud{\kf22}~{\kf22} and{\kf44} through{\kf37} sky
+Dialogue: 0,0:03:03.30,0:03:05.81,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf51} through{\kf172} space
+Dialogue: 0,0:03:06.52,0:03:10.50,DEFAULT,,0,0,0,,{\r}{\kf36}Car{\kf41}ry{\kf20} the{\kf66} peace{\kf25} and{\kf25} the{\kf61} cool{\kf41}ness{\kf36} of{\kf46} night
+Dialogue: 0,0:03:10.91,0:03:15.60,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf42} car{\kf37}ry{\kf33} my{\kf23} sor{\kf28}~{\kf23}r{\kf28}ow{\kf28} in{\kf19} kind{\kf14}~{\kf171}~
+Dialogue: 0,0:03:16.20,0:03:17.66,DEFAULT,,0,0,0,,{\r}{\kf40}Lu{\kf30}na{\kf40} you're{\kf36} loved
+Dialogue: 0,0:03:17.81,0:03:20.29,DEFAULT,,0,0,0,,{\r}{\kf33}So{\kf27} much{\kf22} more{\kf27}~{\kf27} than{\kf27} you{\kf84} know
+Dialogue: 0,0:03:20.62,0:03:27.26,DEFAULT,,0,0,0,,{\r}{\kf27}May{\kf36} trou{\kf32}bles{\kf27} be{\kf23} far{\kf41}~{\kf27} from{\kf50} your{\kf18} mind{\kf18}~{\kf365}~
+Dialogue: 0,0:03:27.71,0:03:34.72,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf37} for{\kf46}give{\kf32} me{\kf32} for{\kf27} be{\kf37}ing{\kf41} so{\kf422} blind
+Dialogue: 0,0:03:57.97,0:04:03.26,DEFAULT,,0,0,0,,{\r}{\kf49}The{\kf158} years{\kf49} now{\kf27} b{\kf27}e{\kf164}fore{\kf55} us
+Dialogue: 0,0:04:04.20,0:04:08.55,DEFAULT,,0,0,0,,{\r}{\kf45}Fear{\kf60}ful{\kf60} and{\kf55} un{\kf215}known
+Dialogue: 0,0:04:08.92,0:04:14.29,DEFAULT,,0,0,0,,{\r}{\kf54}I{\kf141} ne{\kf58}ver{\kf54} i{\kf151}ma{\kf78}gined
+Dialogue: 0,0:04:14.66,0:04:19.20,DEFAULT,,0,0,0,,{\r}{\kf28}I'd{\kf52} face{\kf71} them{\kf57} on{\kf52} my{\kf24}~{\kf170} own
+Dialogue: 0,0:04:19.84,0:04:25.27,DEFAULT,,0,0,0,,{\r}{\kf51}May{\kf132} these{\kf61} thou{\kf56}sand{\kf147} win{\kf97}ters
+Dialogue: 0,0:04:25.80,0:04:29.89,DEFAULT,,0,0,0,,{\r}{\kf63}Swift{\kf63}ly{\kf52} pass{\kf58} I{\kf26} pray{\kf147}~
+Dialogue: 0,0:04:30.64,0:04:36.82,DEFAULT,,0,0,0,,{\r}{\kf57}I{\kf151} love{\kf57} you,{\kf57} I{\kf151} miss{\kf146} you
+Dialogue: 0,0:04:37.42,0:04:43.31,DEFAULT,,0,0,0,,{\r}{\kf62}All{\kf53} these{\kf101} miles{\kf44} a{\kf329}way
+Dialogue: 0,0:04:46.16,0:04:54.94,DEFAULT,,0,0,0,,{\r}{\kf116}May{\kf66} all{\kf66} your{\kf151} dreams{\kf91} be{\kf176} sweet{\kf40} t{\kf40}o{\kf131}night
+Dialogue: 0,0:04:56.17,0:05:04.54,DEFAULT,,0,0,0,,{\r}{\kf96}Safe{\kf33} u{\kf53}pon{\kf62} your{\kf129} bed{\kf91} of{\kf234} moon{\kf138}light
+Dialogue: 0,0:05:05.21,0:05:13.91,DEFAULT,,0,0,0,,{\r}{\kf34}And{\kf130} know{\kf53} not{\kf48} of{\kf125} sad{\kf58}ness,{\kf187} pain,{\kf38} or{\kf34}~{\kf163} care
+Dialogue: 0,0:05:14.36,0:05:16.12,DEFAULT,,0,0,0,,{\r}{\kf29}And{\kf49} when{\kf24} I{\kf24}~{\kf50} dream
+Dialogue: 0,0:05:16.31,0:05:22.46,DEFAULT,,0,0,0,,{\r}{\kf41}I'll{\kf57} fly{\kf47} a{\kf67}way{\kf52} and{\kf67} meet{\kf114} you{\kf170} there
+Dialogue: 0,0:05:24.07,0:05:33.07,DEFAULT,,0,0,0,,{\r}{\kf446}Sleep,{\kf454} sleep
+Dialogue: 0,0:05:34.09,0:05:42.07,DEFAULT,,0,0,0,,{\r}{\kf460}Sleep{\kf339}~

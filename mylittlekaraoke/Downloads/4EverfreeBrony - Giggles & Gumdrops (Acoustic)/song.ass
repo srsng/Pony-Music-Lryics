@@ -1,72 +1,79 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Giggles and Gumdrops (Acoustic)
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by lily
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:15.95,0:00:18.99,DEFAULT,,0,0,0,,{\kf1611}She's{\kf1611} go{\kf1611}-ot{\kf1635} a{\kf1635} way{\kf1619} of{\kf1611} kno{\kf1611}-ow{\kf1635}ing
-Dialogue: 0,0:00:19.79,0:00:22.35,DEFAULT,,0,0,0,,{\kf1611}What's{\kf1611} on{\kf1611}~{\kf1627} your{\kf1635} mi{\kf1611}-i{\kf1611}-i{\kf1635}-ind
-Dialogue: 0,0:00:23.63,0:00:26.75,DEFAULT,,0,0,0,,{\kf1611}She{\kf1611} re{\kf1611}al{\kf1619}ly{\kf1635} can't{\kf1619} ex{\kf1611}pla{\kf1611}-ain{\kf1639} it
-Dialogue: 0,0:00:27.23,0:00:29.79,DEFAULT,,0,0,0,,{\kf1611}So{\kf1611} she{\kf1627} leaves{\kf1635} you{\kf1623} bli{\kf1603}-i{\kf1607}-i{\kf1635}-ind
-Dialogue: 0,0:00:31.07,0:00:34.51,DEFAULT,,0,0,0,,{\kf1611}Do{\kf1611} you{\kf1635} e{\kf1635}ver{\kf1631} won{\kf1635}der{\kf1627} why{\kf1611} she{\kf1627}-e
-Dialogue: 0,0:00:34.91,0:00:37.63,DEFAULT,,0,0,0,,{\kf1611}Al{\kf1611}ways{\kf1611} ma{\kf1611}-akes{\kf1619} you{\kf1635} smi{\kf1611}-i{\kf1611}-i{\kf1627}-ile?
-Dialogue: 0,0:00:38.99,0:00:42.11,DEFAULT,,0,0,0,,{\kf1611}If{\kf1623} it's{\kf1627} im{\kf1611}pos{\kf1611}si{\kf1627}ble{\kf1611} phy{\kf1611}si{\kf1611}cal{\kf1619}ly
-Dialogue: 0,0:00:42.83,0:00:45.15,DEFAULT,,0,0,0,,{\kf1611}It{\kf1611} su{\kf1611}-uits{\kf1627} her{\kf1623} sty{\kf1603}-y{\kf1611}-y{\kf1635}-yle
-Dialogue: 0,0:00:45.95,0:00:48.91,DEFAULT,,0,0,0,,{\kf1611}It{\kf1611} keeps{\kf1611} you{\kf1611} smil{\kf1611}in'{\kf1627} for{\kf1611} a{\kf1623} whi{\kf1603}-i{\kf1647}-ile
-Dialogue: 0,0:00:49.31,0:00:51.47,DEFAULT,,0,0,0,,{\kf1611}She's{\kf1611} made{\kf1607} of{\kf1611} gig{\kf1611}gles{\kf1611} and{\kf1611} gum{\kf1611}~{\kf1619}drops
-Dialogue: 0,0:00:51.71,0:00:53.67,DEFAULT,,0,0,0,,{\kf1635}O{\kf1611}ven{\kf1611} mitts{\kf1611} and{\kf1635} out{\kf1623}takes
-Dialogue: 0,0:00:53.87,0:00:55.39,DEFAULT,,0,0,0,,{\kf1611}Doo{\kf1611}dles{\kf1607} and{\kf1611} do{\kf1611}~{\kf1627}nuts
-Dialogue: 0,0:00:55.59,0:00:57.43,DEFAULT,,0,0,0,,{\kf1635}Fai{\kf1611}ry{\kf1611}tales{\kf1607} and{\kf1631} fruit{\kf1611}cake
-Dialogue: 0,0:00:57.71,0:00:58.75,DEFAULT,,0,0,0,,{\kf1611}Ask{\kf1611} her{\kf1611} your{\kf1611}se{\kf1603}-elf
-Dialogue: 0,0:00:58.91,0:01:02.27,DEFAULT,,0,0,0,,{\kf1611}But{\kf1611} you'll{\kf1631} ne{\kf1611}ver{\kf1611} e{\kf1611}ver{\kf1611} un{\kf1611}der{\kf1611}sta{\kf1611}-and{\kf1611} why{\kf1643}-y
-Dialogue: 0,0:01:03.75,0:01:06.07,DEFAULT,,0,0,0,,{\kf1607}It's{\kf1611} a{\kf1611}ny{\kf1611}thing{\kf1611} but{\kf1611} a{\kf1627} lie{\kf1603}-e{\kf1639}-e
-Dialogue: 0,0:01:13.55,0:01:16.63,DEFAULT,,0,0,0,,{\kf1611}Some{\kf1611}ti{\kf1611}-imes,{\kf1635} I{\kf1627} tend{\kf1635} to{\kf1611} won{\kf1611}~{\kf1635}der
-Dialogue: 0,0:01:17.15,0:01:20.07,DEFAULT,,0,0,0,,{\kf1611}How{\kf1611} she{\kf1627} lived{\kf1627} be{\kf1631}fo{\kf1611}-o{\kf1611}-o{\kf1643}-ore
-Dialogue: 0,0:01:20.99,0:01:24.31,DEFAULT,,0,0,0,,{\kf1611}How{\kf1611} could{\kf1611} one{\kf1607}~{\kf1635} sur{\kf1607}vi{\kf1607}-ive{\kf1627} so{\kf1611} som{\kf1611}~{\kf1635}ber
-Dialogue: 0,0:01:25.07,0:01:27.51,DEFAULT,,0,0,0,,{\kf1611}May{\kf1627}be{\kf1627} there's{\kf1627} mo{\kf1603}-o{\kf1607}-o{\kf1643}-ore
-Dialogue: 0,0:01:28.91,0:01:32.03,DEFAULT,,0,0,0,,{\kf1611}It{\kf1627} feels{\kf1627} like{\kf1635} ev{\kf1635}ery{\kf1635} mor{\kf1611}ni{\kf1619}-ing
-Dialogue: 0,0:01:32.75,0:01:35.23,DEFAULT,,0,0,0,,{\kf1611}She's{\kf1611} wo{\kf1611}-ound{\kf1627} up{\kf1635} ti{\kf1611}-i{\kf1611}-i{\kf1627}-ight
-Dialogue: 0,0:01:36.59,0:01:39.79,DEFAULT,,0,0,0,,{\kf1611}She{\kf1635} may{\kf1635} be{\kf1627} hard{\kf1627} to{\kf1627} talk{\kf1611} to{\kf1627}~
-Dialogue: 0,0:01:40.19,0:01:42.79,DEFAULT,,0,0,0,,{\kf1611}But{\kf1611} she's{\kf1611} ne{\kf1611}~{\kf1619}ver{\kf1627} shy{\kf1603}-y{\kf1607}-y{\kf1635}-y
-Dialogue: 0,0:01:43.31,0:01:46.31,DEFAULT,,0,0,0,,{\kf1611}You{\kf1611} can{\kf1611} ne{\kf1611}ver{\kf1611} e{\kf1611}ver{\kf1611} look{\kf1611} her{\kf1611} in{\kf1611} the{\kf1611} e{\kf1627}-eye
-Dialogue: 0,0:01:46.91,0:01:49.11,DEFAULT,,0,0,0,,{\kf1611}She's{\kf1611} made{\kf1611} of{\kf1611} gig{\kf1611}gles{\kf1611} and{\kf1611} gum{\kf1611}~{\kf1619}drops
-Dialogue: 0,0:01:49.35,0:01:51.27,DEFAULT,,0,0,0,,{\kf1627}O{\kf1615}ven{\kf1611} mitts{\kf1611} and{\kf1631} out{\kf1619}takes
-Dialogue: 0,0:01:51.47,0:01:52.99,DEFAULT,,0,0,0,,{\kf1611}Doo{\kf1611}dles{\kf1611} and{\kf1611} do{\kf1611}~{\kf1623}nuts
-Dialogue: 0,0:01:53.19,0:01:55.03,DEFAULT,,0,0,0,,{\kf1631}Fai{\kf1611}ry{\kf1611}tales{\kf1611} and{\kf1631} fruit{\kf1615}cake
-Dialogue: 0,0:01:55.31,0:01:56.35,DEFAULT,,0,0,0,,{\kf1611}Ask{\kf1611} her{\kf1611} your{\kf1611}se{\kf1603}-elf
-Dialogue: 0,0:01:56.51,0:02:01.15,DEFAULT,,0,0,0,,{\kf1611}But{\kf1611} you'll{\kf1631} ne{\kf1611}ver{\kf1611} e{\kf1611}ver{\kf1611} un{\kf1611}der{\kf1611}sta{\kf1611}-and{\kf1611} why{\kf1635}-y{\kf1611}-y{\kf1631}-y{\kf1643}-y
-Dialogue: 0,0:02:02.27,0:02:04.43,DEFAULT,,0,0,0,,{\kf1611}She's{\kf1611} made{\kf1611} of{\kf1611} cha{\kf1611}os{\kf1611} and{\kf1611} cup{\kf1611}~{\kf1619}cakes
-Dialogue: 0,0:02:04.67,0:02:06.63,DEFAULT,,0,0,0,,{\kf1635}Lots{\kf1611} and{\kf1611} lots{\kf1611} of{\kf1631} bat{\kf1619}ter
-Dialogue: 0,0:02:06.83,0:02:08.27,DEFAULT,,0,0,0,,{\kf1611}Su{\kf1611}gar{\kf1611} and{\kf1611} sun{\kf1611}~{\kf1619}shine
-Dialogue: 0,0:02:08.51,0:02:10.39,DEFAULT,,0,0,0,,{\kf1635}Lol{\kf1611}li{\kf1611}pops{\kf1611} and{\kf1631} laugh{\kf1611}ter
-Dialogue: 0,0:02:10.67,0:02:11.71,DEFAULT,,0,0,0,,{\kf1611}See{\kf1611} for{\kf1611} your{\kf1611}se{\kf1603}-elf
-Dialogue: 0,0:02:11.87,0:02:16.43,DEFAULT,,0,0,0,,{\kf1611}But{\kf1611} you'll{\kf1631} ne{\kf1611}ver{\kf1611} get{\kf1607} it,{\kf1611} don't{\kf1611} e{\kf1611}ve{\kf1611}-en{\kf1611} try{\kf1635}-y{\kf1611}-y{\kf1635}-y{\kf1643}-y
-Dialogue: 0,0:02:16.67,0:02:18.43,DEFAULT,,0,0,0,,{\kf1611}It's{\kf1611} a{\kf1611}ny{\kf1611}thing{\kf1611} but{\kf1611} a{\kf1623} lie
-Dialogue: 0,0:02:18.87,0:02:20.19,DEFAULT,,0,0,0,,{\kf1631}Slow{\kf1627} mo{\kf1635}tion
-Dialogue: 0,0:02:20.83,0:02:22.15,DEFAULT,,0,0,0,,{\kf1619}So{\kf1611} fo{\kf1611}-or{\kf1635}eign
-Dialogue: 0,0:02:22.67,0:02:26.19,DEFAULT,,0,0,0,,{\kf1611}To{\kf1611} some{\kf1611}bo{\kf1611}dy{\kf1611} so{\kf1635} hy{\kf1611}per{\kf1611}ac{\kf1611}tive{\kf1611}ly{\kf1631} in{\kf1627}volved
-Dialogue: 0,0:02:26.51,0:02:27.87,DEFAULT,,0,0,0,,{\kf1635}Com{\kf1627}mo{\kf1635}tion
-Dialogue: 0,0:02:28.43,0:02:29.63,DEFAULT,,0,0,0,,{\kf1627}Con{\kf1611}fu{\kf1611}~{\kf1615}sion
-Dialogue: 0,0:02:29.87,0:02:30.91,DEFAULT,,0,0,0,,{\kf1611}Talk{\kf1611} of{\kf1611} the{\kf1611} to{\kf1603}-own
-Dialogue: 0,0:02:31.07,0:02:34.87,DEFAULT,,0,0,0,,{\kf1611}She's{\kf1611} a{\kf1635} mys{\kf1611}te{\kf1611}ry{\kf1611} we'll{\kf1611} ne{\kf1619}ver{\kf1623} so{\kf1603}-o{\kf1607}-o{\kf1659}-olve
-Dialogue: 0,0:02:36.35,0:02:41.15,DEFAULT,,0,0,0,,{\kf1611}We'll{\kf1611} ne{\kf1627}ver{\kf1975} solve
-Dialogue: 0,0:03:11.39,0:03:13.47,DEFAULT,,0,0,0,,{\kf1611}She's{\kf1611} made{\kf1611} of{\kf1611} cha{\kf1611}os{\kf1611} and{\kf1611} cup{\kf1611}~{\kf1611}cakes
-Dialogue: 0,0:03:13.79,0:03:15.63,DEFAULT,,0,0,0,,{\kf1635}Lots{\kf1611} and{\kf1611} lots{\kf1603} of{\kf1635} bat{\kf1611}ter
-Dialogue: 0,0:03:15.95,0:03:17.39,DEFAULT,,0,0,0,,{\kf1611}Su{\kf1611}gar{\kf1611} and{\kf1611} sun{\kf1611}~{\kf1619}shine
-Dialogue: 0,0:03:17.63,0:03:19.51,DEFAULT,,0,0,0,,{\kf1635}Lol{\kf1611}li{\kf1611}pops{\kf1611} and{\kf1631} laugh{\kf1611}ter
-Dialogue: 0,0:03:19.79,0:03:20.83,DEFAULT,,0,0,0,,{\kf1611}See{\kf1611} for{\kf1611} your{\kf1611}se{\kf1603}-elf
-Dialogue: 0,0:03:20.99,0:03:22.59,DEFAULT,,0,0,0,,{\kf1611}But{\kf1611} you'll{\kf1631} ne{\kf1611}ver{\kf1611} get{\kf1611} it
-Dialogue: 0,0:03:23.15,0:03:26.95,DEFAULT,,0,0,0,,{\kf1611}Don't{\kf1611} e{\kf1611}ve{\kf1627}-en{\kf1631} try{\kf1635}-y{\kf1635}-y{\kf1631}-y{\kf1611}-y{\kf1603}-y{\kf1619}-y
-Dialogue: 0,0:03:27.47,0:03:28.95,DEFAULT,,0,0,0,,{\kf1611}Gig{\kf1611}gles{\kf1611} and{\kf1611} gum{\kf1611}~{\kf1619}drops
-Dialogue: 0,0:03:29.19,0:03:31.11,DEFAULT,,0,0,0,,{\kf1623}O{\kf1615}ven{\kf1611} mitts{\kf1607} and{\kf1631} out{\kf1623}takes
-Dialogue: 0,0:03:31.31,0:03:32.83,DEFAULT,,0,0,0,,{\kf1611}Doo{\kf1611}dles{\kf1611} and{\kf1611} do{\kf1611}~{\kf1623}nuts
-Dialogue: 0,0:03:32.99,0:03:34.83,DEFAULT,,0,0,0,,{\kf1635}Fai{\kf1611}ry{\kf1611}tales{\kf1611} and{\kf1627} fruit{\kf1611}cake
-Dialogue: 0,0:03:35.15,0:03:36.19,DEFAULT,,0,0,0,,{\kf1611}Ask{\kf1611} her{\kf1611} your{\kf1611}se{\kf1603}-elf
-Dialogue: 0,0:03:36.35,0:03:39.63,DEFAULT,,0,0,0,,{\kf1611}But{\kf1611} you'll{\kf1631} ne{\kf1611}ver{\kf1611} e{\kf1611}ver{\kf1611} un{\kf1611}der{\kf1611}sta{\kf1611}-and{\kf1611} why{\kf1635}-y
-Dialogue: 0,0:03:40.19,0:03:44.79,DEFAULT,,0,0,0,,{\kf1611}No{\kf1611} you'll{\kf1635} ne{\kf1611}ver{\kf1611} e{\kf1611}ver{\kf1611} un{\kf1611}der{\kf1611}sta{\kf1611}-and{\kf1611} why{\kf1635}-y{\kf1611}-y{\kf1635}-y{\kf1643}-y
-Dialogue: 0,0:03:44.99,0:03:47.31,DEFAULT,,0,0,0,,{\kf1611}It's{\kf1611} a{\kf1611}ny{\kf1611}thing{\kf1611} but{\kf1611} a{\kf1627} lie{\kf1603}-e{\kf1627}-e
+Dialogue: 0,0:00:15.95,0:00:18.99,DEFAULT,,0,0,0,,{\r}{\kf22}She's{\kf22} go{\kf22}-ot{\kf54} a{\kf54} way{\kf33} of{\kf22} kno{\kf22}-ow{\kf53}ing
+Dialogue: 0,0:00:19.79,0:00:22.35,DEFAULT,,0,0,0,,{\r}{\kf21}What's{\kf21} on{\kf21}~{\kf43} your{\kf53} mi{\kf21}-i{\kf21}-i{\kf55}-ind
+Dialogue: 0,0:00:23.63,0:00:26.75,DEFAULT,,0,0,0,,{\r}{\kf24}She{\kf24} re{\kf24}al{\kf35}ly{\kf59} can't{\kf35} ex{\kf24}pla{\kf24}-ain{\kf63} it
+Dialogue: 0,0:00:27.23,0:00:29.79,DEFAULT,,0,0,0,,{\r}{\kf21}So{\kf21} she{\kf43} leaves{\kf53} you{\kf37} bli{\kf11}-i{\kf16}-i{\kf54}-ind
+Dialogue: 0,0:00:31.07,0:00:34.51,DEFAULT,,0,0,0,,{\r}{\kf21}Do{\kf21} you{\kf51} e{\kf51}ver{\kf46} won{\kf51}der{\kf41} why{\kf21} she{\kf41}-e
+Dialogue: 0,0:00:34.91,0:00:37.63,DEFAULT,,0,0,0,,{\r}{\kf23}Al{\kf23}ways{\kf23} ma{\kf23}-akes{\kf34} you{\kf57} smi{\kf23}-i{\kf23}-i{\kf43}-ile?
+Dialogue: 0,0:00:38.99,0:00:42.11,DEFAULT,,0,0,0,,{\r}{\kf24}If{\kf41} it's{\kf47} im{\kf24}pos{\kf24}si{\kf47}ble{\kf24} phy{\kf24}si{\kf24}cal{\kf33}ly
+Dialogue: 0,0:00:42.83,0:00:45.15,DEFAULT,,0,0,0,,{\r}{\kf22}It{\kf22} su{\kf22}-uits{\kf43} her{\kf38} sty{\kf11}-y{\kf22}-y{\kf52}-yle
+Dialogue: 0,0:00:45.95,0:00:48.91,DEFAULT,,0,0,0,,{\r}{\kf22}It{\kf22} keeps{\kf22} you{\kf22} smil{\kf22}in'{\kf44} for{\kf22} a{\kf38} whi{\kf11}-i{\kf71}-ile
+Dialogue: 0,0:00:49.31,0:00:51.47,DEFAULT,,0,0,0,,{\r}{\kf23}She's{\kf23} made{\kf18} of{\kf23} gig{\kf23}gles{\kf23} and{\kf23} gum{\kf23}~{\kf37}drops
+Dialogue: 0,0:00:51.71,0:00:53.67,DEFAULT,,0,0,0,,{\r}{\kf50}O{\kf20}ven{\kf20} mitts{\kf20} and{\kf50} out{\kf36}takes
+Dialogue: 0,0:00:53.87,0:00:55.39,DEFAULT,,0,0,0,,{\r}{\kf23}Doo{\kf23}dles{\kf17} and{\kf23} do{\kf23}~{\kf43}nuts
+Dialogue: 0,0:00:55.59,0:00:57.43,DEFAULT,,0,0,0,,{\r}{\kf54}Fai{\kf22}ry{\kf22}tales{\kf16} and{\kf49} fruit{\kf21}cake
+Dialogue: 0,0:00:57.71,0:00:58.75,DEFAULT,,0,0,0,,{\r}{\kf23}Ask{\kf23} her{\kf23} your{\kf23}se{\kf12}-elf
+Dialogue: 0,0:00:58.91,0:01:02.27,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} you'll{\kf50} ne{\kf22}ver{\kf22} e{\kf22}ver{\kf22} un{\kf22}der{\kf22}sta{\kf22}-and{\kf22} why{\kf66}-y
+Dialogue: 0,0:01:03.75,0:01:06.07,DEFAULT,,0,0,0,,{\r}{\kf16}It's{\kf21} a{\kf21}ny{\kf21}thing{\kf21} but{\kf21} a{\kf42} lie{\kf11}-e{\kf58}-e
+Dialogue: 0,0:01:13.55,0:01:16.63,DEFAULT,,0,0,0,,{\r}{\kf21}Some{\kf21}ti{\kf21}-imes,{\kf53} I{\kf42} tend{\kf53} to{\kf21} won{\kf21}~{\kf55}der
+Dialogue: 0,0:01:17.15,0:01:20.07,DEFAULT,,0,0,0,,{\r}{\kf22}How{\kf22} she{\kf44} lived{\kf44} be{\kf50}fo{\kf22}-o{\kf22}-o{\kf66}-ore
+Dialogue: 0,0:01:20.99,0:01:24.31,DEFAULT,,0,0,0,,{\r}{\kf23}How{\kf23} could{\kf23} one{\kf17}~{\kf58} sur{\kf17}vi{\kf17}-ive{\kf47} so{\kf23} som{\kf23}~{\kf61}ber
+Dialogue: 0,0:01:25.07,0:01:27.51,DEFAULT,,0,0,0,,{\r}{\kf22}May{\kf43}be{\kf43} there's{\kf43} mo{\kf11}-o{\kf16}-o{\kf66}-ore
+Dialogue: 0,0:01:28.91,0:01:32.03,DEFAULT,,0,0,0,,{\r}{\kf21}It{\kf42} feels{\kf42} like{\kf52} ev{\kf52}ery{\kf52} mor{\kf21}ni{\kf30}-ing
+Dialogue: 0,0:01:32.75,0:01:35.23,DEFAULT,,0,0,0,,{\r}{\kf22}She's{\kf22} wo{\kf22}-ound{\kf43} up{\kf54} ti{\kf22}-i{\kf22}-i{\kf41}-ight
+Dialogue: 0,0:01:36.59,0:01:39.79,DEFAULT,,0,0,0,,{\r}{\kf21}She{\kf53} may{\kf53} be{\kf43} hard{\kf43} to{\kf43} talk{\kf21} to{\kf43}~
+Dialogue: 0,0:01:40.19,0:01:42.79,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf23} she's{\kf23} ne{\kf23}~{\kf35}ver{\kf46} shy{\kf12}-y{\kf17}-y{\kf58}-y
+Dialogue: 0,0:01:43.31,0:01:46.31,DEFAULT,,0,0,0,,{\r}{\kf23}You{\kf23} can{\kf23} ne{\kf23}ver{\kf23} e{\kf23}ver{\kf23} look{\kf23} her{\kf23} in{\kf23} the{\kf23} e{\kf47}-eye
+Dialogue: 0,0:01:46.91,0:01:49.11,DEFAULT,,0,0,0,,{\r}{\kf23}She's{\kf23} made{\kf23} of{\kf23} gig{\kf23}gles{\kf23} and{\kf23} gum{\kf23}~{\kf36}drops
+Dialogue: 0,0:01:49.35,0:01:51.27,DEFAULT,,0,0,0,,{\r}{\kf43}O{\kf27}ven{\kf21} mitts{\kf21} and{\kf48} out{\kf32}takes
+Dialogue: 0,0:01:51.47,0:01:52.99,DEFAULT,,0,0,0,,{\r}{\kf23}Doo{\kf23}dles{\kf23} and{\kf23} do{\kf23}~{\kf37}nuts
+Dialogue: 0,0:01:53.19,0:01:55.03,DEFAULT,,0,0,0,,{\r}{\kf47}Fai{\kf21}ry{\kf21}tales{\kf21} and{\kf47} fruit{\kf27}cake
+Dialogue: 0,0:01:55.31,0:01:56.35,DEFAULT,,0,0,0,,{\r}{\kf23}Ask{\kf23} her{\kf23} your{\kf23}se{\kf12}-elf
+Dialogue: 0,0:01:56.51,0:02:01.15,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} you'll{\kf50} ne{\kf22}ver{\kf22} e{\kf22}ver{\kf22} un{\kf22}der{\kf22}sta{\kf22}-and{\kf22} why{\kf55}-y{\kf22}-y{\kf50}-y{\kf67}-y
+Dialogue: 0,0:02:02.27,0:02:04.43,DEFAULT,,0,0,0,,{\r}{\kf23}She's{\kf23} made{\kf23} of{\kf23} cha{\kf23}os{\kf23} and{\kf23} cup{\kf23}~{\kf32}cakes
+Dialogue: 0,0:02:04.67,0:02:06.63,DEFAULT,,0,0,0,,{\r}{\kf53}Lots{\kf21} and{\kf21} lots{\kf21} of{\kf48} bat{\kf32}ter
+Dialogue: 0,0:02:06.83,0:02:08.27,DEFAULT,,0,0,0,,{\r}{\kf22}Su{\kf22}gar{\kf22} and{\kf22} sun{\kf22}~{\kf34}shine
+Dialogue: 0,0:02:08.51,0:02:10.39,DEFAULT,,0,0,0,,{\r}{\kf54}Lol{\kf21}li{\kf21}pops{\kf21} and{\kf48} laugh{\kf23}ter
+Dialogue: 0,0:02:10.67,0:02:11.71,DEFAULT,,0,0,0,,{\r}{\kf23}See{\kf23} for{\kf23} your{\kf23}se{\kf12}-elf
+Dialogue: 0,0:02:11.87,0:02:16.43,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} you'll{\kf49} ne{\kf22}ver{\kf22} get{\kf16} it,{\kf22} don't{\kf22} e{\kf22}ve{\kf22}-en{\kf22} try{\kf54}-y{\kf22}-y{\kf54}-y{\kf63}-y
+Dialogue: 0,0:02:16.67,0:02:18.43,DEFAULT,,0,0,0,,{\r}{\kf23}It's{\kf23} a{\kf23}ny{\kf23}thing{\kf23} but{\kf23} a{\kf38} lie
+Dialogue: 0,0:02:18.87,0:02:20.19,DEFAULT,,0,0,0,,{\r}{\kf44}Slow{\kf39} mo{\kf49}tion
+Dialogue: 0,0:02:20.83,0:02:22.15,DEFAULT,,0,0,0,,{\r}{\kf33}So{\kf22} fo{\kf22}-or{\kf55}eign
+Dialogue: 0,0:02:22.67,0:02:26.19,DEFAULT,,0,0,0,,{\r}{\kf22}To{\kf22} some{\kf22}bo{\kf22}dy{\kf22} so{\kf56} hy{\kf22}per{\kf22}ac{\kf22}tive{\kf22}ly{\kf50} in{\kf48}volved
+Dialogue: 0,0:02:26.51,0:02:27.87,DEFAULT,,0,0,0,,{\r}{\kf49}Com{\kf39}mo{\kf48}tion
+Dialogue: 0,0:02:28.43,0:02:29.63,DEFAULT,,0,0,0,,{\r}{\kf46}Con{\kf23}fu{\kf23}~{\kf28}sion
+Dialogue: 0,0:02:29.87,0:02:30.91,DEFAULT,,0,0,0,,{\r}{\kf23}Talk{\kf23} of{\kf23} the{\kf23} to{\kf12}-own
+Dialogue: 0,0:02:31.07,0:02:34.87,DEFAULT,,0,0,0,,{\r}{\kf22}She's{\kf22} a{\kf56} mys{\kf22}te{\kf22}ry{\kf22} we'll{\kf22} ne{\kf34}ver{\kf39} so{\kf11}-o{\kf17}-o{\kf91}-olve
+Dialogue: 0,0:02:36.35,0:02:41.15,DEFAULT,,0,0,0,,{\r}{\kf17}We'll{\kf17} ne{\kf35}ver{\kf411} solve
+Dialogue: 0,0:03:11.39,0:03:13.47,DEFAULT,,0,0,0,,{\r}{\kf23}She's{\kf23} made{\kf23} of{\kf23} cha{\kf23}os{\kf23} and{\kf23} cup{\kf23}~{\kf24}cakes
+Dialogue: 0,0:03:13.79,0:03:15.63,DEFAULT,,0,0,0,,{\r}{\kf54}Lots{\kf22} and{\kf22} lots{\kf11} of{\kf54} bat{\kf21}ter
+Dialogue: 0,0:03:15.95,0:03:17.39,DEFAULT,,0,0,0,,{\r}{\kf22}Su{\kf22}gar{\kf22} and{\kf22} sun{\kf22}~{\kf34}shine
+Dialogue: 0,0:03:17.63,0:03:19.51,DEFAULT,,0,0,0,,{\r}{\kf54}Lol{\kf21}li{\kf21}pops{\kf21} and{\kf48} laugh{\kf23}ter
+Dialogue: 0,0:03:19.79,0:03:20.83,DEFAULT,,0,0,0,,{\r}{\kf23}See{\kf23} for{\kf23} your{\kf23}se{\kf12}-elf
+Dialogue: 0,0:03:20.99,0:03:22.59,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} you'll{\kf50} ne{\kf22}ver{\kf22} get{\kf22} it
+Dialogue: 0,0:03:23.15,0:03:26.95,DEFAULT,,0,0,0,,{\r}{\kf22}Don't{\kf22} e{\kf22}ve{\kf43}-en{\kf49} try{\kf54}-y{\kf54}-y{\kf49}-y{\kf22}-y{\kf11}-y{\kf32}-y
+Dialogue: 0,0:03:27.47,0:03:28.95,DEFAULT,,0,0,0,,{\r}{\kf23}Gig{\kf23}gles{\kf23} and{\kf23} gum{\kf23}~{\kf33}drops
+Dialogue: 0,0:03:29.19,0:03:31.11,DEFAULT,,0,0,0,,{\r}{\kf38}O{\kf27}ven{\kf22} mitts{\kf16} and{\kf49} out{\kf40}takes
+Dialogue: 0,0:03:31.31,0:03:32.83,DEFAULT,,0,0,0,,{\r}{\kf23}Doo{\kf23}dles{\kf23} and{\kf23} do{\kf23}~{\kf37}nuts
+Dialogue: 0,0:03:32.99,0:03:34.83,DEFAULT,,0,0,0,,{\r}{\kf54}Fai{\kf22}ry{\kf22}tales{\kf22} and{\kf43} fruit{\kf21}cake
+Dialogue: 0,0:03:35.15,0:03:36.19,DEFAULT,,0,0,0,,{\r}{\kf23}Ask{\kf23} her{\kf23} your{\kf23}se{\kf12}-elf
+Dialogue: 0,0:03:36.35,0:03:39.63,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} you'll{\kf50} ne{\kf22}ver{\kf22} e{\kf22}ver{\kf22} un{\kf22}der{\kf22}sta{\kf22}-and{\kf22} why{\kf58}-y
+Dialogue: 0,0:03:40.19,0:03:44.79,DEFAULT,,0,0,0,,{\r}{\kf21}No{\kf21} you'll{\kf53} ne{\kf21}ver{\kf21} e{\kf21}ver{\kf21} un{\kf21}der{\kf21}sta{\kf21}-and{\kf21} why{\kf53}-y{\kf21}-y{\kf53}-y{\kf70}-y
+Dialogue: 0,0:03:44.99,0:03:47.31,DEFAULT,,0,0,0,,{\r}{\kf22}It's{\kf22} a{\kf22}ny{\kf22}thing{\kf22} but{\kf22} a{\kf44} lie{\kf11}-e{\kf45}-e

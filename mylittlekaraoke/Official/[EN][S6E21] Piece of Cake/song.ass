@@ -1,17 +1,24 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Piece of Cake
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.32,0:00:01.86,DEFAULT,,0,0,0,,{\kf42}Af{\kf19}ter{\kf83} all
-Dialogue: 0,0:00:02.23,0:00:04.30,DEFAULT,,0,0,0,,{\kf27}It's{\kf19} a{\kf19} piece{\kf19} of{\kf38} cake{\kf30} to
-Dialogue: 0,0:00:04.45,0:00:05.95,DEFAULT,,0,0,0,,{\kf19}Bake{\kf19} a{\kf19} pret{\kf19}ty{\kf45} cake
-Dialogue: 0,0:00:06.10,0:00:06.25,DEFAULT,,0,0,0,,{\kf15}Oh
-Dialogue: 0,0:00:06.66,0:00:07.90,DEFAULT,,0,0,0,,{\kf19}We're{\kf12} on{\kf15} a{\kf23} sche{\kf12}du{\kf15}le
-Dialogue: 0,0:00:08.05,0:00:08.98,DEFAULT,,0,0,0,,{\kf15}No{\kf15} time{\kf8} for{\kf12} a{\kf23} song
+Dialogue: 0,0:00:00.33,0:00:01.86,DEFAULT,,0,0,0,,{\r}{\kf45}Af{\kf20}ter{\kf89} all
+Dialogue: 0,0:00:02.24,0:00:04.30,DEFAULT,,0,0,0,,{\r}{\kf36}It's{\kf26} a{\kf26} piece{\kf26} of{\kf52} cake{\kf40} to
+Dialogue: 0,0:00:04.45,0:00:05.95,DEFAULT,,0,0,0,,{\r}{\kf23}Bake{\kf23} a{\kf23} pret{\kf23}ty{\kf58} cake
+Dialogue: 0,0:00:06.10,0:00:06.25,DEFAULT,,0,0,0,,{\r}{\kf15}Oh
+Dialogue: 0,0:00:06.66,0:00:07.90,DEFAULT,,0,0,0,,{\r}{\kf25}We're{\kf15} on{\kf20} a{\kf30} sche{\kf15}du{\kf19}le
+Dialogue: 0,0:00:08.05,0:00:08.99,DEFAULT,,0,0,0,,{\r}{\kf20}No{\kf20} time{\kf10} for{\kf15} a{\kf29} song

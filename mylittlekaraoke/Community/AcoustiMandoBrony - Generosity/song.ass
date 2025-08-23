@@ -1,64 +1,71 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Generosity
+Artist: AcoustiMandoBrony, EileMonty
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:49.66,0:00:51.90,DEFAULT,,0,0,0,,{\kf17}The{\kf45} day{\kf23} be{\kf113}gins
-Dialogue: 0,0:00:52.24,0:00:55.61,DEFAULT,,0,0,0,,{\kf17}She{\kf29} makes{\kf34} her{\kf23}self{\kf23} look{\kf124} pure
-Dialogue: 0,0:00:56.68,0:01:00.89,DEFAULT,,0,0,0,,{\kf17}I{\kf34} know{\kf29} she'll{\kf68} turn{\kf90} some{\kf79} heads
-Dialogue: 0,0:01:01.12,0:01:04.15,DEFAULT,,0,0,0,,{\kf23}Of{\kf34} that{\kf34} I'm{\kf34} ~{\kf23} ~{\kf74} sure
-Dialogue: 0,0:01:04.38,0:01:07.52,DEFAULT,,0,0,0,,{\kf29}Now{\kf29} you{\kf34} know{\kf29} she's{\kf34} look{\kf34}ing{\kf57} fine
-Dialogue: 0,0:01:08.03,0:01:11.17,DEFAULT,,0,0,0,,{\kf23}All{\kf23} so{\kf23} di{\kf29}vine{\kf29} all{\kf45} so{\kf23} su{\kf62}blime
-Dialogue: 0,0:01:11.51,0:01:12.86,DEFAULT,,0,0,0,,{\kf17}She{\kf17} gets{\kf17} to{\kf45} work
-Dialogue: 0,0:01:13.25,0:01:20.44,DEFAULT,,0,0,0,,{\kf17}Don't{\kf12} you{\kf17} know{\kf12} a{\kf23} stitch{\kf23} in{\kf23} time{\kf23} saves{\kf79} nine{\kf90} ~{\kf259} ~
-Dialogue: 0,0:01:25.84,0:01:29.32,DEFAULT,,0,0,0,,{\kf17}When{\kf17} they{\kf23} all{\kf34} see{\kf34} her{\kf34} come{\kf40} a{\kf79}round
-Dialogue: 0,0:01:29.54,0:01:32.86,DEFAULT,,0,0,0,,{\kf17}You{\kf17} know{\kf17} there's{\kf17} some{\kf17}thing{\kf34} here{\kf29} to{\kf34} be{\kf40} found{\kf29}~
-Dialogue: 0,0:01:33.03,0:01:36.40,DEFAULT,,0,0,0,,{\kf12}A{\kf23} lush{\kf34} beau{\kf45}ty{\kf12} like{\kf12} a{\kf34} dia{\kf29}mond{\kf68} ring
-Dialogue: 0,0:01:36.90,0:01:39.99,DEFAULT,,0,0,0,,{\kf12}Of{\kf29} the{\kf40} high{\kf23}est{\kf45} Ra{\kf45}ri{\kf57}ty
-Dialogue: 0,0:01:40.22,0:01:43.59,DEFAULT,,0,0,0,,{\kf17}And{\kf23} even{\kf23} more{\kf29} beau{\kf29}ti{\kf29}ful{\kf34} in{\kf68}side
-Dialogue: 0,0:01:43.81,0:01:47.35,DEFAULT,,0,0,0,,{\kf17}Reach{\kf17} way{\kf23} down{\kf23} deep{\kf12} and{\kf23} I'm{\kf34} sure{\kf34} you'll{\kf29} find{\kf51}~
-Dialogue: 0,0:01:47.52,0:01:50.56,DEFAULT,,0,0,0,,{\kf23}She{\kf23} can{\kf40} bring{\kf17} that{\kf17} lit{\kf17}tle{\kf29} some{\kf45}thing
-Dialogue: 0,0:01:50.67,0:01:54.77,DEFAULT,,0,0,0,,{\kf29}Called{\kf17} Ge{\kf17}ne{\kf45}ro{\kf34}si{\kf231}ty
-Dialogue: 0,0:01:59.83,0:02:01.79,DEFAULT,,0,0,0,,{\kf17}So{\kf62} e{\kf29}le{\kf74}gant
-Dialogue: 0,0:02:02.24,0:02:05.50,DEFAULT,,0,0,0,,{\kf17}As{\kf23} she{\kf23} walt{\kf23}zes{\kf23} a{\kf34}cross{\kf17} the{\kf90} room
-Dialogue: 0,0:02:07.41,0:02:11.17,DEFAULT,,0,0,0,,{\kf45}Watch{\kf62} her{\kf107} shine{\kf74} now
-Dialogue: 0,0:02:11.40,0:02:14.38,DEFAULT,,0,0,0,,{\kf17}Her{\kf17} time{\kf17} it{\kf17} will{\kf17} come{\kf85} soon
-Dialogue: 0,0:02:14.60,0:02:17.75,DEFAULT,,0,0,0,,{\kf29}Now{\kf29} let's{\kf34} use{\kf34} just{\kf34} what{\kf34} we{\kf57} know
-Dialogue: 0,0:02:18.20,0:02:21.34,DEFAULT,,0,0,0,,{\kf29}Come{\kf29} on{\kf34} now{\kf29} let's{\kf34} go,{\kf34} go,{\kf51} go
-Dialogue: 0,0:02:21.62,0:02:23.87,DEFAULT,,0,0,0,,{\kf29}And{\kf29} dance{\kf17} the{\kf23} night{\kf17} a{\kf79}way
-Dialogue: 0,0:02:24.15,0:02:31.62,DEFAULT,,0,0,0,,{\kf17}Un{\kf17}til{\kf17} we{\kf23} all{\kf23} have{\kf17} to{\kf23} go{\kf96} home{\kf90}~{\kf360}~
-Dialogue: 0,0:02:36.06,0:02:39.54,DEFAULT,,0,0,0,,{\kf17}When{\kf17} they{\kf29} all{\kf29} see{\kf29} her{\kf29} come{\kf34} a{\kf68}round
-Dialogue: 0,0:02:39.71,0:02:43.03,DEFAULT,,0,0,0,,{\kf17}You{\kf17} know{\kf23} there's{\kf17} some{\kf17}thing{\kf29} here{\kf29} to{\kf34} be{\kf23} found{\kf34}~
-Dialogue: 0,0:02:43.20,0:02:46.74,DEFAULT,,0,0,0,,{\kf12}A{\kf23} lush{\kf45} beau{\kf45}ty{\kf12} like{\kf12} a{\kf34} dia{\kf34}mond{\kf68} ring
-Dialogue: 0,0:02:47.13,0:02:50.22,DEFAULT,,0,0,0,,{\kf17}Of{\kf23} the{\kf34} high{\kf29}est{\kf40} Ra{\kf40}ri{\kf57}ty
-Dialogue: 0,0:02:50.50,0:02:53.93,DEFAULT,,0,0,0,,{\kf17}And{\kf17} even{\kf17} more{\kf29} beau{\kf40}ti{\kf34}ful{\kf40} in{\kf68}side
-Dialogue: 0,0:02:54.10,0:02:57.63,DEFAULT,,0,0,0,,{\kf17}Reach{\kf17} way{\kf17} down{\kf17} deep{\kf12} and{\kf23} I'm{\kf45} sure{\kf40} you'll{\kf34} find{\kf45}~
-Dialogue: 0,0:02:57.86,0:03:00.89,DEFAULT,,0,0,0,,{\kf17}She{\kf17} can{\kf34} bring{\kf12} that{\kf17} lit{\kf17}tle{\kf23} some{\kf51}thing
-Dialogue: 0,0:03:01.06,0:03:04.26,DEFAULT,,0,0,0,,{\kf17}Called{\kf23} Ge{\kf17}nero{\kf34}~{\kf29}si{\kf163}ty
-Dialogue: 0,0:03:09.94,0:03:12.47,DEFAULT,,0,0,0,,{\kf17}Now{\kf17} come{\kf17} watch{\kf17} the{\kf17} moon{\kf17} light{\kf17} re{\kf17}flect{\kf17} off
-Dialogue: 0,0:03:12.63,0:03:15.78,DEFAULT,,0,0,0,,{\kf23}her{\kf74} sap{\kf34}phire{\kf34}~{\kf90} eyes
-Dialogue: 0,0:03:16.29,0:03:18.65,DEFAULT,,0,0,0,,{\kf17}I'll{\kf17} stick{\kf17} by{\kf17} you{\kf12} for{\kf12}ev{\kf12}er{\kf12} ev{\kf12}ery{\kf12} sin{\kf12}gle{\kf17} day
-Dialogue: 0,0:03:18.70,0:03:23.93,DEFAULT,,0,0,0,,{\kf12}to{\kf17} forge{\kf17} and{\kf17} re{\kf17}in{\kf23}force{\kf17} the{\kf29} bonds{\kf45} that{\kf34} tie{\kf17}~{\kf68}~{\kf62}~
-Dialogue: 0,0:03:24.71,0:03:28.03,DEFAULT,,0,0,0,,{\kf17}Now{\kf17} come{\kf17} and{\kf17} join{\kf17} me{\kf17} in{\kf40} har{\kf34}mo{\kf62}ny
-Dialogue: 0,0:03:28.31,0:03:31.57,DEFAULT,,0,0,0,,{\kf17}This{\kf17} is{\kf17} the{\kf17} best{\kf34} pos{\kf29}si{\kf29}ble{\kf79} thing
-Dialogue: 0,0:03:31.96,0:03:33.59,DEFAULT,,0,0,0,,{\kf12}She'll{\kf12} be{\kf12} here{\kf29} wai{\kf51}ting
-Dialogue: 0,0:03:34.04,0:03:48.36,DEFAULT,,0,0,0,,{\kf23}For{\kf17} you{\kf40} all{\kf17} to{\kf17} break{\kf17} out{\kf90} and{\kf90} sing{\kf1000}~
-Dialogue: 0,0:04:12.58,0:04:18.36,DEFAULT,,0,0,0,,{\kf51}And{\kf45} late{\kf23} at{\kf45} night{\kf17} I{\kf62} won{\kf135}der
-Dialogue: 0,0:04:19.77,0:04:25.44,DEFAULT,,0,0,0,,{\kf62}As{\kf57} I{\kf40} lay{\kf29} my{\kf23} head{\kf23} down{\kf23} to{\kf85} slum{\kf118}ber
-Dialogue: 0,0:04:26.62,0:04:28.36,DEFAULT,,0,0,0,,{\kf17}I{\kf34} weave{\kf34} through{\kf57} time
-Dialogue: 0,0:04:28.42,0:04:32.80,DEFAULT,,0,0,0,,{\kf12}Like{\kf12} a{\kf23} dress{\kf17} on{\kf17} de{\kf40}sign{\kf45} it's{\kf45} true{\kf23}~{\kf147}~
-Dialogue: 0,0:04:34.04,0:04:39.32,DEFAULT,,0,0,0,,{\kf29}Just{\kf40} know{\kf17} I{\kf17} could{\kf23} be{\kf40} ge{\kf34}ne{\kf34}rous{\kf62} to{\kf124} you
-Dialogue: 0,0:04:42.13,0:04:45.67,DEFAULT,,0,0,0,,{\kf34}When{\kf34} I{\kf34} see{\kf29} her{\kf45} come{\kf34} a{\kf85}round
-Dialogue: 0,0:04:45.78,0:04:48.93,DEFAULT,,0,0,0,,{\kf17}I{\kf17} know{\kf17} there's{\kf17} some{\kf17}thing{\kf29} there{\kf29} to{\kf29} be{\kf29} found{\kf29}~
-Dialogue: 0,0:04:49.21,0:04:52.63,DEFAULT,,0,0,0,,{\kf17}A{\kf23} lush{\kf34} beau{\kf34}ty{\kf12} like{\kf12} a{\kf34} dia{\kf23}mond{\kf85} ring
-Dialogue: 0,0:04:52.80,0:04:56.40,DEFAULT,,0,0,0,,{\kf29}Of{\kf29} the{\kf45} high{\kf23}est{\kf45} Ra{\kf40}ri{\kf74}ty
-Dialogue: 0,0:04:56.57,0:04:59.99,DEFAULT,,0,0,0,,{\kf12}And{\kf23} even{\kf17} more{\kf40} beau{\kf29}ti{\kf34}ful{\kf34} in{\kf34}side{\kf12}~{\kf40}~
-Dialogue: 0,0:05:00.16,0:05:03.53,DEFAULT,,0,0,0,,{\kf17}Reach{\kf17} way{\kf17} down{\kf34} deep{\kf29} and{\kf29} help{\kf29} me{\kf29} find{\kf45}~
-Dialogue: 0,0:05:03.81,0:05:06.79,DEFAULT,,0,0,0,,{\kf29}I{\kf23} can{\kf34} bring{\kf17} that{\kf17} lit{\kf17}tle{\kf23} some{\kf51}thing
-Dialogue: 0,0:05:06.96,0:05:12.02,DEFAULT,,0,0,0,,{\kf23}Called{\kf17} Ge{\kf17}ne{\kf85}ro{\kf23}si{\kf326}ty
+Dialogue: 0,0:00:49.66,0:00:51.91,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf51} day{\kf26} be{\kf129}gins
+Dialogue: 0,0:00:52.25,0:00:55.62,DEFAULT,,0,0,0,,{\r}{\kf23}She{\kf38} makes{\kf46} her{\kf31}self{\kf31} look{\kf168} pure
+Dialogue: 0,0:00:56.68,0:01:00.90,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf45} know{\kf38} she'll{\kf90} turn{\kf120} some{\kf105} heads
+Dialogue: 0,0:01:01.12,0:01:04.16,DEFAULT,,0,0,0,,{\r}{\kf31}Of{\kf47} that{\kf47} I'm{\kf47} ~{\kf31} ~{\kf100} sure
+Dialogue: 0,0:01:04.38,0:01:07.53,DEFAULT,,0,0,0,,{\r}{\kf37}Now{\kf37} you{\kf44} know{\kf37} she's{\kf44} look{\kf44}ing{\kf72} fine
+Dialogue: 0,0:01:08.03,0:01:11.18,DEFAULT,,0,0,0,,{\r}{\kf28}All{\kf28} so{\kf28} di{\kf35}vine{\kf35} all{\kf56} so{\kf28} su{\kf77}blime
+Dialogue: 0,0:01:11.52,0:01:12.86,DEFAULT,,0,0,0,,{\r}{\kf24}She{\kf24} gets{\kf24} to{\kf63} work
+Dialogue: 0,0:01:13.26,0:01:20.45,DEFAULT,,0,0,0,,{\r}{\kf21}Don't{\kf14} you{\kf21} know{\kf14} a{\kf28} stitch{\kf28} in{\kf28} time{\kf28} saves{\kf99} nine{\kf113} ~{\kf325} ~
+Dialogue: 0,0:01:25.84,0:01:29.32,DEFAULT,,0,0,0,,{\r}{\kf21}When{\kf21} they{\kf28} all{\kf43} see{\kf43} her{\kf43} come{\kf50} a{\kf99}round
+Dialogue: 0,0:01:29.55,0:01:32.86,DEFAULT,,0,0,0,,{\r}{\kf23}You{\kf23} know{\kf23} there's{\kf23} some{\kf23}thing{\kf45} here{\kf38} to{\kf45} be{\kf53} found{\kf35}~
+Dialogue: 0,0:01:33.03,0:01:36.40,DEFAULT,,0,0,0,,{\r}{\kf14}A{\kf29} lush{\kf43} beau{\kf57}ty{\kf14} like{\kf14} a{\kf43} dia{\kf36}mond{\kf87} ring
+Dialogue: 0,0:01:36.91,0:01:40.00,DEFAULT,,0,0,0,,{\r}{\kf14}Of{\kf35} the{\kf49} high{\kf28}est{\kf56} Ra{\kf56}ri{\kf71}ty
+Dialogue: 0,0:01:40.22,0:01:43.59,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf31} even{\kf31} more{\kf38} beau{\kf38}ti{\kf38}ful{\kf46} in{\kf92}side
+Dialogue: 0,0:01:43.82,0:01:47.36,DEFAULT,,0,0,0,,{\r}{\kf23}Reach{\kf23} way{\kf31} down{\kf31} deep{\kf15} and{\kf31} I'm{\kf46} sure{\kf46} you'll{\kf38} find{\kf70}~
+Dialogue: 0,0:01:47.53,0:01:50.56,DEFAULT,,0,0,0,,{\r}{\kf33}She{\kf33} can{\kf57} bring{\kf25} that{\kf25} lit{\kf25}tle{\kf41} some{\kf64}thing
+Dialogue: 0,0:01:50.67,0:01:54.77,DEFAULT,,0,0,0,,{\r}{\kf31}Called{\kf19} Ge{\kf19}ne{\kf50}ro{\kf37}si{\kf254}ty
+Dialogue: 0,0:01:59.83,0:02:01.80,DEFAULT,,0,0,0,,{\r}{\kf18}So{\kf68} e{\kf31}le{\kf80}gant
+Dialogue: 0,0:02:02.25,0:02:05.50,DEFAULT,,0,0,0,,{\r}{\kf22}As{\kf30} she{\kf30} walt{\kf30}zes{\kf30} a{\kf44}cross{\kf22} the{\kf118} room
+Dialogue: 0,0:02:07.41,0:02:11.18,DEFAULT,,0,0,0,,{\r}{\kf59}Watch{\kf81} her{\kf140} shine{\kf96} now
+Dialogue: 0,0:02:11.40,0:02:14.38,DEFAULT,,0,0,0,,{\r}{\kf30}Her{\kf30} time{\kf30} it{\kf30} will{\kf30} come{\kf148} soon
+Dialogue: 0,0:02:14.61,0:02:17.75,DEFAULT,,0,0,0,,{\r}{\kf36}Now{\kf36} let's{\kf43} use{\kf43} just{\kf43} what{\kf43} we{\kf71} know
+Dialogue: 0,0:02:18.20,0:02:21.35,DEFAULT,,0,0,0,,{\r}{\kf38}Come{\kf38} on{\kf45} now{\kf38} let's{\kf45} go,{\kf45} go,{\kf66} go
+Dialogue: 0,0:02:21.63,0:02:23.88,DEFAULT,,0,0,0,,{\r}{\kf33}And{\kf33} dance{\kf20} the{\kf26} night{\kf20} a{\kf93}way
+Dialogue: 0,0:02:24.16,0:02:31.63,DEFAULT,,0,0,0,,{\r}{\kf19}Un{\kf19}til{\kf19} we{\kf25} all{\kf25} have{\kf19} to{\kf25} go{\kf105} home{\kf99}~{\kf392}~
+Dialogue: 0,0:02:36.07,0:02:39.55,DEFAULT,,0,0,0,,{\r}{\kf24}When{\kf24} they{\kf40} all{\kf40} see{\kf40} her{\kf40} come{\kf47} a{\kf93}round
+Dialogue: 0,0:02:39.72,0:02:43.03,DEFAULT,,0,0,0,,{\r}{\kf24}You{\kf24} know{\kf32} there's{\kf24} some{\kf24}thing{\kf39} here{\kf39} to{\kf47} be{\kf32} found{\kf46}~
+Dialogue: 0,0:02:43.20,0:02:46.74,DEFAULT,,0,0,0,,{\r}{\kf14}A{\kf28} lush{\kf57} beau{\kf57}ty{\kf14} like{\kf14} a{\kf42} dia{\kf42}mond{\kf86} ring
+Dialogue: 0,0:02:47.13,0:02:50.22,DEFAULT,,0,0,0,,{\r}{\kf22}Of{\kf29} the{\kf44} high{\kf37}est{\kf52} Ra{\kf52}ri{\kf73}ty
+Dialogue: 0,0:02:50.50,0:02:53.93,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} even{\kf22} more{\kf37} beau{\kf52}ti{\kf45}ful{\kf52} in{\kf91}side
+Dialogue: 0,0:02:54.10,0:02:57.64,DEFAULT,,0,0,0,,{\r}{\kf23}Reach{\kf23} way{\kf23} down{\kf23} deep{\kf15} and{\kf30} I'm{\kf60} sure{\kf53} you'll{\kf45} find{\kf59}~
+Dialogue: 0,0:02:57.86,0:03:00.90,DEFAULT,,0,0,0,,{\r}{\kf28}She{\kf28} can{\kf55} bring{\kf18} that{\kf28} lit{\kf28}tle{\kf37} some{\kf81}thing
+Dialogue: 0,0:03:01.07,0:03:04.27,DEFAULT,,0,0,0,,{\r}{\kf19}Called{\kf26} Ge{\kf19}nero{\kf38}~{\kf32}si{\kf186}ty
+Dialogue: 0,0:03:09.94,0:03:12.47,DEFAULT,,0,0,0,,{\r}{\kf28}Now{\kf28} come{\kf28} watch{\kf28} the{\kf28} moon{\kf28} light{\kf28} re{\kf28}flect{\kf29} off
+Dialogue: 0,0:03:12.64,0:03:15.79,DEFAULT,,0,0,0,,{\r}{\kf28}her{\kf91} sap{\kf42}phire{\kf42}~{\kf112} eyes
+Dialogue: 0,0:03:16.29,0:03:18.65,DEFAULT,,0,0,0,,{\r}{\kf24}I'll{\kf24} stick{\kf24} by{\kf24} you{\kf16} for{\kf16}ev{\kf16}er{\kf16} ev{\kf16}ery{\kf16} sin{\kf16}gle{\kf28} day
+Dialogue: 0,0:03:18.71,0:03:23.93,DEFAULT,,0,0,0,,{\r}{\kf16}to{\kf24} forge{\kf24} and{\kf24} re{\kf24}in{\kf32}force{\kf24} the{\kf40} bonds{\kf63} that{\kf47} tie{\kf24}~{\kf95}~{\kf85}~
+Dialogue: 0,0:03:24.72,0:03:28.03,DEFAULT,,0,0,0,,{\r}{\kf24}Now{\kf24} come{\kf24} and{\kf24} join{\kf24} me{\kf24} in{\kf55} har{\kf47}mo{\kf85}ny
+Dialogue: 0,0:03:28.31,0:03:31.57,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf23} is{\kf23} the{\kf23} best{\kf47} pos{\kf39}si{\kf39}ble{\kf109} thing
+Dialogue: 0,0:03:31.97,0:03:33.59,DEFAULT,,0,0,0,,{\r}{\kf16}She'll{\kf16} be{\kf16} here{\kf41} wai{\kf74}ting
+Dialogue: 0,0:03:34.04,0:03:48.37,DEFAULT,,0,0,0,,{\r}{\kf25}For{\kf18} you{\kf43} all{\kf18} to{\kf18} break{\kf18} out{\kf98} and{\kf98} sing{\kf1097}~
+Dialogue: 0,0:04:12.58,0:04:18.37,DEFAULT,,0,0,0,,{\r}{\kf78}And{\kf69} late{\kf35} at{\kf69} night{\kf26} I{\kf95} won{\kf207}der
+Dialogue: 0,0:04:19.77,0:04:25.45,DEFAULT,,0,0,0,,{\r}{\kf77}As{\kf70} I{\kf49} lay{\kf35} my{\kf28} head{\kf28} down{\kf28} to{\kf105} slum{\kf147}ber
+Dialogue: 0,0:04:26.63,0:04:28.37,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf42} weave{\kf42} through{\kf69} time
+Dialogue: 0,0:04:28.43,0:04:32.81,DEFAULT,,0,0,0,,{\r}{\kf13}Like{\kf13} a{\kf26} dress{\kf20} on{\kf20} de{\kf46}sign{\kf52} it's{\kf52} true{\kf26}~{\kf170}~
+Dialogue: 0,0:04:34.04,0:04:39.32,DEFAULT,,0,0,0,,{\r}{\kf36}Just{\kf50} know{\kf21} I{\kf21} could{\kf29} be{\kf50} ge{\kf43}ne{\kf43}rous{\kf78} to{\kf157} you
+Dialogue: 0,0:04:42.13,0:04:45.67,DEFAULT,,0,0,0,,{\r}{\kf41}When{\kf41} I{\kf41} see{\kf34} her{\kf54} come{\kf41} a{\kf102}round
+Dialogue: 0,0:04:45.79,0:04:48.93,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} know{\kf24} there's{\kf24} some{\kf24}thing{\kf39} there{\kf39} to{\kf39} be{\kf39} found{\kf39}~
+Dialogue: 0,0:04:49.21,0:04:52.64,DEFAULT,,0,0,0,,{\r}{\kf21}A{\kf29} lush{\kf43} beau{\kf43}ty{\kf14} like{\kf14} a{\kf43} dia{\kf29}mond{\kf107} ring
+Dialogue: 0,0:04:52.81,0:04:56.40,DEFAULT,,0,0,0,,{\r}{\kf36}Of{\kf36} the{\kf58} high{\kf29}est{\kf58} Ra{\kf50}ri{\kf93}ty
+Dialogue: 0,0:04:56.57,0:04:60.00,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf29} even{\kf21} more{\kf50} beau{\kf36}ti{\kf43}ful{\kf43} in{\kf43}side{\kf14}~{\kf50}~
+Dialogue: 0,0:05:00.17,0:05:03.54,DEFAULT,,0,0,0,,{\r}{\kf24}Reach{\kf24} way{\kf24} down{\kf47} deep{\kf39} and{\kf39} help{\kf39} me{\kf39} find{\kf62}~
+Dialogue: 0,0:05:03.82,0:05:06.80,DEFAULT,,0,0,0,,{\r}{\kf40}I{\kf32} can{\kf48} bring{\kf24} that{\kf24} lit{\kf24}tle{\kf32} some{\kf74}thing
+Dialogue: 0,0:05:06.97,0:05:12.02,DEFAULT,,0,0,0,,{\r}{\kf23}Called{\kf17} Ge{\kf17}ne{\kf87}ro{\kf23}si{\kf339}ty

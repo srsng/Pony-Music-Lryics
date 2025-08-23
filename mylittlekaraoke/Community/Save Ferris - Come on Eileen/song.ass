@@ -1,70 +1,77 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Come on Eileen
+Artist: Save Ferris
+Original Timing: mylittlekaraoke.com
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:15.49,0:00:16.67,DEFAULT,,0,0,0,,{\kf8}Come{\kf12} on{\kf12} Ei{\kf12}leen{\kf41}~
-Dialogue: 0,0:00:23.39,0:00:24.58,DEFAULT,,0,0,0,,{\kf8}Come{\kf12} on{\kf15} Ei{\kf8}leen{\kf45}~
-Dialogue: 0,0:00:28.29,0:00:31.71,DEFAULT,,0,0,0,,{\kf38}Poor{\kf38} old{\kf19} John{\kf30}nie{\kf8} Ray{\kf8}~{\kf142}~
-Dialogue: 0,0:00:31.86,0:00:33.90,DEFAULT,,0,0,0,,{\kf12}Sound{\kf15}ed{\kf12} sad{\kf8} up{\kf34}on{\kf19} the{\kf12} ra{\kf12}di{\kf15}o
-Dialogue: 0,0:00:34.09,0:00:36.43,DEFAULT,,0,0,0,,{\kf12}He{\kf8} moved{\kf8} a{\kf8} mil{\kf8}lion{\kf12} hearts{\kf15} in{\kf19} mo{\kf19}~{\kf56}no
-Dialogue: 0,0:00:36.83,0:00:39.69,DEFAULT,,0,0,0,,{\kf38}Our{\kf15} mo{\kf34}thers{\kf12} used{\kf15}~{\kf134}~
-Dialogue: 0,0:00:40.06,0:00:42.33,DEFAULT,,0,0,0,,{\kf12}To{\kf15} sing{\kf12}~{\kf15} a{\kf30}long{\kf15} who'd{\kf23} blame{\kf26} them?
-Dialogue: 0,0:00:44.37,0:00:46.04,DEFAULT,,0,0,0,,{\kf30}You're{\kf119} grown
-Dialogue: 0,0:00:46.38,0:00:48.12,DEFAULT,,0,0,0,,{\kf34}So{\kf12} grown{\kf19}~{\kf93}~
-Dialogue: 0,0:00:48.31,0:00:50.35,DEFAULT,,0,0,0,,{\kf8}Now{\kf19}~{\kf15} I{\kf8} must{\kf15} say{\kf12} more{\kf12}~{\kf15} than{\kf12} e{\kf26}ver
-Dialogue: 0,0:00:51.54,0:00:52.28,DEFAULT,,0,0,0,,{\kf8}Come{\kf12} on{\kf15} Ei{\kf8}leen{\kf4}~
-Dialogue: 0,0:00:52.39,0:00:57.81,DEFAULT,,0,0,0,,{\kf45}Too-{\kf45}ra-{\kf8}loo-{\kf30}~{\kf30}ra{\kf8} too-{\kf30}~{\kf45}ra-{\kf8}loo-{\kf34}~{\kf4}rye-{\kf19}~{\kf12}~{\kf142}ay
-Dialogue: 0,0:00:57.96,0:01:01.93,DEFAULT,,0,0,0,,{\kf8}And{\kf12} we{\kf8} can{\kf15} sing{\kf15} just{\kf12} like{\kf15} our{\kf19} fa{\kf19}~{\kf201}thers
-Dialogue: 0,0:01:02.45,0:01:05.68,DEFAULT,,0,0,0,,{\kf19}Come{\kf19} on{\kf15} Ei{\kf12}leen{\kf23}~,{\kf8} oh{\kf26}~{\kf8} I{\kf12}~{\kf19} swear{\kf15} well{\kf15} he{\kf38} means
-Dialogue: 0,0:01:05.83,0:01:07.24,DEFAULT,,0,0,0,,{\kf15}At{\kf12} this{\kf45} mo{\kf8}ment{\kf19}~
-Dialogue: 0,0:01:07.91,0:01:08.47,DEFAULT,,0,0,0,,{\kf26}You{\kf23} mean
-Dialogue: 0,0:01:08.80,0:01:10.70,DEFAULT,,0,0,0,,{\kf41}E{\kf12}very{\kf12}thing{\kf12}~{\kf78}~
-Dialogue: 0,0:01:10.88,0:01:12.37,DEFAULT,,0,0,0,,{\kf15}You{\kf15} in{\kf15} that{\kf23} dress,{\kf15} oh
-Dialogue: 0,0:01:12.70,0:01:13.96,DEFAULT,,0,0,0,,{\kf15}My{\kf15} thoughts{\kf15} I{\kf15} con{\kf15}fess
-Dialogue: 0,0:01:14.30,0:01:16.04,DEFAULT,,0,0,0,,{\kf15}Verge{\kf19} on{\kf49} dir{\kf8}ty{\kf12}~{\kf8}~{\kf26}~
-Dialogue: 0,0:01:16.49,0:01:20.16,DEFAULT,,0,0,0,,{\kf15}Ah,{\kf19} come{\kf45} on{\kf19} Ei{\kf12}leen{\kf15}~{\kf149}~{\kf19}~
-Dialogue: 0,0:01:23.58,0:01:24.73,DEFAULT,,0,0,0,,{\kf8}Come{\kf15} on{\kf15} Ei{\kf12}leen{\kf38}~
-Dialogue: 0,0:01:28.41,0:01:31.97,DEFAULT,,0,0,0,,{\kf38}These{\kf34} peo{\kf19}ple{\kf34} 'round{\kf15} here{\kf12}~{\kf153}~
-Dialogue: 0,0:01:32.12,0:01:33.79,DEFAULT,,0,0,0,,{\kf19}Wear{\kf8} bea{\kf8}ten-{\kf15}down{\kf12} eyes{\kf8} sunk{\kf8} in{\kf12} smoke-{\kf12}dried
-Dialogue: 0,0:01:33.98,0:01:36.09,DEFAULT,,0,0,0,,{\kf8}Fa{\kf12}ces{\kf8} res{\kf12}igned{\kf15} to{\kf12} what{\kf12} their{\kf19} fate{\kf19}~{\kf12} is
-Dialogue: 0,0:01:36.24,0:01:40.21,DEFAULT,,0,0,0,,{\kf8}But{\kf15} not{\kf104} us{\kf15} no{\kf15} not{\kf8} us{\kf15}~{\kf93}~
-Dialogue: 0,0:01:40.44,0:01:42.51,DEFAULT,,0,0,0,,{\kf8}We{\kf19}~{\kf12} are{\kf12} far{\kf12} too{\kf4} young{\kf15}~{\kf12} and{\kf12} clev{\kf26}er
-Dialogue: 0,0:01:43.85,0:01:44.37,DEFAULT,,0,0,0,,{\kf12}Re{\kf19}mem{\kf8}ber{\kf4}~
-Dialogue: 0,0:01:44.48,0:01:49.98,DEFAULT,,0,0,0,,{\kf45}Too-{\kf45}ra-{\kf8}loo-{\kf34}~{\kf45}ra{\kf8} too-{\kf34}~{\kf45}ra-{\kf4}loo-{\kf34}~{\kf8}rye-{\kf15}~{\kf15}~{\kf149}ay
-Dialogue: 0,0:01:50.13,0:01:52.21,DEFAULT,,0,0,0,,{\kf4}Ei{\kf19}~{\kf8}leen{\kf8} I'll{\kf8} hum{\kf8} this{\kf15} tune{\kf19} for{\kf15}e{\kf19}~{\kf15}ver
-Dialogue: 0,0:01:52.50,0:01:58.07,DEFAULT,,0,0,0,,{\kf45}Too-{\kf45}ra-{\kf4}loo-{\kf34}~{\kf45}ra{\kf45} too-{\kf45}ra-{\kf4}loo-{\kf34}~{\kf8}rye-{\kf15}~{\kf12}~{\kf156}ay
-Dialogue: 0,0:01:58.22,0:02:02.30,DEFAULT,,0,0,0,,{\kf8}Ei{\kf15}~{\kf8}leen{\kf8} I'll{\kf8} hum{\kf8} this{\kf12} tune{\kf12} for{\kf23}e{\kf15}~{\kf220}ver
-Dialogue: 0,0:02:02.56,0:02:05.83,DEFAULT,,0,0,0,,{\kf19}Come{\kf15} on{\kf15} Ei{\kf12}leen{\kf19}~,{\kf12} oh{\kf15}~{\kf8} I{\kf12}~{\kf19} swear{\kf15} well{\kf19} he{\kf38} means
-Dialogue: 0,0:02:05.98,0:02:07.39,DEFAULT,,0,0,0,,{\kf15}Ah,{\kf15} come{\kf41} on{\kf4} let's{\kf19}~
-Dialogue: 0,0:02:08.13,0:02:10.66,DEFAULT,,0,0,0,,{\kf15}Take{\kf19} off{\kf41} e{\kf12}very{\kf12}thing{\kf12}~{\kf67}~
-Dialogue: 0,0:02:10.81,0:02:11.99,DEFAULT,,0,0,0,,{\kf4}That{\kf8}~{\kf15} pret{\kf15}ty{\kf15} red{\kf19} dress
-Dialogue: 0,0:02:12.33,0:02:14.11,DEFAULT,,0,0,0,,{\kf15}Oh{\kf12}~,{\kf12} Ei{\kf15}~{\kf19}leen{\kf15} tell{\kf19} him{\kf15} let's
-Dialogue: 0,0:02:14.52,0:02:15.89,DEFAULT,,0,0,0,,{\kf12}Ah,{\kf15} come{\kf41} on{\kf15} let's{\kf15}~
-Dialogue: 0,0:02:16.56,0:02:19.46,DEFAULT,,0,0,0,,{\kf15}Ah,{\kf19} come{\kf45} on{\kf19} Ei{\kf8}leen{\kf8}~{\kf75}~{\kf19}~
-Dialogue: 0,0:02:23.32,0:02:23.76,DEFAULT,,0,0,0,,{\kf19}Come{\kf19} on
-Dialogue: 0,0:02:24.51,0:02:26.55,DEFAULT,,0,0,0,,{\kf38}Ei{\kf34}leen{\kf12} ta-{\kf38}loo-{\kf34}rye-{\kf15}ay
-Dialogue: 0,0:02:26.85,0:02:27.37,DEFAULT,,0,0,0,,{\kf19}Come{\kf23} on
-Dialogue: 0,0:02:28.00,0:02:30.08,DEFAULT,,0,0,0,,{\kf38}Ei{\kf30}leen{\kf12} ta-{\kf38}loo-{\kf30}rye-{\kf12}ay
-Dialogue: 0,0:02:30.41,0:02:31.12,DEFAULT,,0,0,0,,{\kf34}Too-{\kf26}ra
-Dialogue: 0,0:02:31.56,0:02:33.31,DEFAULT,,0,0,0,,{\kf34}too-{\kf30}ra{\kf12} ta-{\kf34}loo-{\kf23}ra
-Dialogue: 0,0:02:33.72,0:02:36.65,DEFAULT,,0,0,0,,{\kf15}Oh{\kf23}~{\kf15}~{\kf8}~{\kf19}~{\kf8}~,{\kf19} Ei{\kf8}leen{\kf26}~{\kf8}~{\kf23}~{\kf23}~,{\kf12} I{\kf15} said
-Dialogue: 0,0:02:36.95,0:02:39.54,DEFAULT,,0,0,0,,{\kf15}Come{\kf12} on{\kf15} Ei{\kf194}leen
-Dialogue: 0,0:02:39.80,0:02:43.55,DEFAULT,,0,0,0,,{\kf15}Oh{\kf23}~,{\kf8} come{\kf8}~{\kf8} on{\kf15} Ei{\kf38}leen{\kf23}~{\kf182}~
-Dialogue: 0,0:02:43.70,0:02:47.08,DEFAULT,,0,0,0,,{\kf12}We{\kf15}~{\kf12}~{\kf23} are{\kf26} far{\kf19} too{\kf8} young{\kf30}~{\kf8}~{\kf23} and{\kf26} clev{\kf45}er
-Dialogue: 0,0:02:47.45,0:02:50.20,DEFAULT,,0,0,0,,{\kf12}And{\kf34} things{\kf8} won't{\kf15}~{\kf19} e{\kf15}ver{\kf52} change{\kf8} and{\kf12} I{\kf19} say
-Dialogue: 0,0:02:50.61,0:02:53.47,DEFAULT,,0,0,0,,{\kf75}Too-{\kf75}ra-{\kf71}loo-{\kf41}ra
-Dialogue: 0,0:02:53.84,0:03:01.86,DEFAULT,,0,0,0,,{\kf67}Too-{\kf67}ra-{\kf12}loo-{\kf60}~{\kf12}rye-{\kf19}~{\kf26}~{\kf272}ay{\kf223}~
-Dialogue: 0,0:03:02.27,0:03:03.27,DEFAULT,,0,0,0,,{\kf8}Come{\kf12} on{\kf12} Ei{\kf23}leen,{\kf12} oh{\kf12} I
-Dialogue: 0,0:03:03.46,0:03:05.24,DEFAULT,,0,0,0,,{\kf12}Swear{\kf12} well{\kf12} he{\kf26} means{\kf12} at{\kf8} this{\kf19} mo{\kf4}ment{\kf15}~
-Dialogue: 0,0:03:05.61,0:03:11.10,DEFAULT,,0,0,0,,{\kf19}You{\kf19} mean{\kf26} e{\kf8}very{\kf4}thing{\kf12}~{\kf23}~{\kf8} to{\kf15} me{\kf364}~
-Dialogue: 0,0:03:11.44,0:03:16.15,DEFAULT,,0,0,0,,{\kf8}Oh{\kf15}~{\kf12}~{\kf19}~,{\kf8} to{\kf12} me{\kf12}~{\kf12}~{\kf324}~{\kf8}~
-Dialogue: 0,0:03:16.60,0:03:20.98,DEFAULT,,0,0,0,,{\kf4}Whoa{\kf19}~{\kf30}~,{\kf26} Ei{\kf12}leen{\kf12}~{\kf4}~{\kf309}~
-Dialogue: 0,0:03:21.31,0:03:21.87,DEFAULT,,0,0,0,,{\kf19}You{\kf30} mean
-Dialogue: 0,0:03:22.43,0:03:26.48,DEFAULT,,0,0,0,,{\kf23}E{\kf64}~{\kf23}very{\kf12}thing{\kf34}~{\kf8}~{\kf8}~{\kf164}~
+Dialogue: 0,0:00:15.49,0:00:16.68,DEFAULT,,0,0,0,,{\r}{\kf11}Come{\kf16} on{\kf16} Ei{\kf16}leen{\kf60}~
+Dialogue: 0,0:00:23.40,0:00:24.59,DEFAULT,,0,0,0,,{\r}{\kf10}Come{\kf16} on{\kf21} Ei{\kf10}leen{\kf62}~
+Dialogue: 0,0:00:28.30,0:00:31.72,DEFAULT,,0,0,0,,{\r}{\kf46}Poor{\kf46} old{\kf23} John{\kf36}nie{\kf10} Ray{\kf10}~{\kf171}~
+Dialogue: 0,0:00:31.86,0:00:33.91,DEFAULT,,0,0,0,,{\r}{\kf17}Sound{\kf23}ed{\kf17} sad{\kf11} up{\kf51}on{\kf28} the{\kf17} ra{\kf17}di{\kf23}o
+Dialogue: 0,0:00:34.09,0:00:36.43,DEFAULT,,0,0,0,,{\r}{\kf16}He{\kf11} moved{\kf11} a{\kf11} mil{\kf11}lion{\kf16} hearts{\kf22} in{\kf27} mo{\kf27}~{\kf82}no
+Dialogue: 0,0:00:36.84,0:00:39.70,DEFAULT,,0,0,0,,{\r}{\kf43}Our{\kf17} mo{\kf39}thers{\kf13} used{\kf17}~{\kf157}~
+Dialogue: 0,0:00:40.07,0:00:42.33,DEFAULT,,0,0,0,,{\r}{\kf17}To{\kf23} sing{\kf17}~{\kf23} a{\kf46}long{\kf23} who'd{\kf35} blame{\kf42} them?
+Dialogue: 0,0:00:44.38,0:00:46.05,DEFAULT,,0,0,0,,{\r}{\kf33}You're{\kf134} grown
+Dialogue: 0,0:00:46.38,0:00:48.13,DEFAULT,,0,0,0,,{\r}{\kf38}So{\kf12} grown{\kf21}~{\kf104}~
+Dialogue: 0,0:00:48.31,0:00:50.35,DEFAULT,,0,0,0,,{\r}{\kf11}Now{\kf28}~{\kf22} I{\kf11} must{\kf22} say{\kf17} more{\kf17}~{\kf22} than{\kf17} e{\kf37}ver
+Dialogue: 0,0:00:51.54,0:00:52.28,DEFAULT,,0,0,0,,{\r}{\kf12}Come{\kf19} on{\kf25} Ei{\kf12}leen{\kf10}~
+Dialogue: 0,0:00:52.40,0:00:57.82,DEFAULT,,0,0,0,,{\r}{\kf53}Too-{\kf53}ra-{\kf10}loo-{\kf36}~{\kf36}ra{\kf10} too-{\kf36}~{\kf53}ra-{\kf10}loo-{\kf40}~{\kf10}rye-{\kf22}~{\kf13}~{\kf160}ay
+Dialogue: 0,0:00:57.97,0:01:01.94,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf14} we{\kf10} can{\kf18} sing{\kf18} just{\kf14} like{\kf18} our{\kf23} fa{\kf23}~{\kf249}thers
+Dialogue: 0,0:01:02.46,0:01:05.69,DEFAULT,,0,0,0,,{\r}{\kf27}Come{\kf27} on{\kf22} Ei{\kf16}leen{\kf32}~,{\kf11} oh{\kf38}~{\kf11} I{\kf16}~{\kf27} swear{\kf22} well{\kf22} he{\kf52} means
+Dialogue: 0,0:01:05.84,0:01:07.25,DEFAULT,,0,0,0,,{\r}{\kf22}At{\kf16} this{\kf65} mo{\kf11}ment{\kf27}~
+Dialogue: 0,0:01:07.92,0:01:08.47,DEFAULT,,0,0,0,,{\r}{\kf30}You{\kf26} mean
+Dialogue: 0,0:01:08.81,0:01:10.70,DEFAULT,,0,0,0,,{\r}{\kf51}E{\kf14}very{\kf14}thing{\kf14}~{\kf96}~
+Dialogue: 0,0:01:10.89,0:01:12.37,DEFAULT,,0,0,0,,{\r}{\kf27}You{\kf27} in{\kf27} that{\kf41} dress,{\kf27} oh
+Dialogue: 0,0:01:12.71,0:01:13.97,DEFAULT,,0,0,0,,{\r}{\kf25}My{\kf25} thoughts{\kf25} I{\kf25} con{\kf26}fess
+Dialogue: 0,0:01:14.30,0:01:16.05,DEFAULT,,0,0,0,,{\r}{\kf19}Verge{\kf24} on{\kf63} dir{\kf10}ty{\kf15}~{\kf10}~{\kf34}~
+Dialogue: 0,0:01:16.49,0:01:20.17,DEFAULT,,0,0,0,,{\r}{\kf19}Ah,{\kf24} come{\kf57} on{\kf24} Ei{\kf14}leen{\kf19}~{\kf189}~{\kf22}~
+Dialogue: 0,0:01:23.58,0:01:24.74,DEFAULT,,0,0,0,,{\r}{\kf10}Come{\kf20} on{\kf20} Ei{\kf15}leen{\kf50}~
+Dialogue: 0,0:01:28.41,0:01:31.98,DEFAULT,,0,0,0,,{\r}{\kf44}These{\kf40} peo{\kf22}ple{\kf40} 'round{\kf18} here{\kf13}~{\kf179}~
+Dialogue: 0,0:01:32.12,0:01:33.79,DEFAULT,,0,0,0,,{\r}{\kf32}Wear{\kf13} bea{\kf13}ten-{\kf26}down{\kf19} eyes{\kf13} sunk{\kf13} in{\kf19} smoke-{\kf19}dried
+Dialogue: 0,0:01:33.98,0:01:36.10,DEFAULT,,0,0,0,,{\r}{\kf13}Fa{\kf19}ces{\kf13} res{\kf19}igned{\kf26} to{\kf19} what{\kf19} their{\kf32} fate{\kf32}~{\kf20} is
+Dialogue: 0,0:01:36.24,0:01:40.22,DEFAULT,,0,0,0,,{\r}{\kf11}But{\kf22} not{\kf152} us{\kf22} no{\kf22} not{\kf11} us{\kf22}~{\kf135}~
+Dialogue: 0,0:01:40.44,0:01:42.52,DEFAULT,,0,0,0,,{\r}{\kf12}We{\kf31}~{\kf18} are{\kf18} far{\kf18} too{\kf10} young{\kf24}~{\kf18} and{\kf18} clev{\kf41}er
+Dialogue: 0,0:01:43.86,0:01:44.38,DEFAULT,,0,0,0,,{\r}{\kf14}Re{\kf24}mem{\kf10}ber{\kf10}~
+Dialogue: 0,0:01:44.49,0:01:49.98,DEFAULT,,0,0,0,,{\r}{\kf51}Too-{\kf51}ra-{\kf10}loo-{\kf38}~{\kf51}ra{\kf10} too-{\kf38}~{\kf51}ra-{\kf10}loo-{\kf38}~{\kf10}rye-{\kf17}~{\kf17}~{\kf158}ay
+Dialogue: 0,0:01:50.13,0:01:52.21,DEFAULT,,0,0,0,,{\r}{\kf10}Ei{\kf29}~{\kf12}leen{\kf12} I'll{\kf12} hum{\kf12} this{\kf23} tune{\kf29} for{\kf23}e{\kf29}~{\kf17}ver
+Dialogue: 0,0:01:52.51,0:01:58.08,DEFAULT,,0,0,0,,{\r}{\kf51}Too-{\kf51}ra-{\kf10}loo-{\kf38}~{\kf51}ra{\kf51} too-{\kf51}ra-{\kf10}loo-{\kf38}~{\kf10}rye-{\kf17}~{\kf13}~{\kf166}ay
+Dialogue: 0,0:01:58.23,0:02:02.31,DEFAULT,,0,0,0,,{\r}{\kf10}Ei{\kf18}~{\kf10}leen{\kf10} I'll{\kf10} hum{\kf10} this{\kf14} tune{\kf14} for{\kf28}e{\kf18}~{\kf266}ver
+Dialogue: 0,0:02:02.57,0:02:05.84,DEFAULT,,0,0,0,,{\r}{\kf29}Come{\kf23} on{\kf23} Ei{\kf17}leen{\kf29}~,{\kf17} oh{\kf23}~{\kf11} I{\kf17}~{\kf29} swear{\kf23} well{\kf29} he{\kf57} means
+Dialogue: 0,0:02:05.99,0:02:07.40,DEFAULT,,0,0,0,,{\r}{\kf23}Ah,{\kf23} come{\kf62} on{\kf10} let's{\kf23}~
+Dialogue: 0,0:02:08.14,0:02:10.66,DEFAULT,,0,0,0,,{\r}{\kf21}Take{\kf27} off{\kf59} e{\kf16}very{\kf16}thing{\kf16}~{\kf97}~
+Dialogue: 0,0:02:10.81,0:02:12.00,DEFAULT,,0,0,0,,{\r}{\kf10}That{\kf12}~{\kf24} pret{\kf24}ty{\kf24} red{\kf25} dress
+Dialogue: 0,0:02:12.33,0:02:14.12,DEFAULT,,0,0,0,,{\r}{\kf22}Oh{\kf17}~,{\kf17} Ei{\kf22}~{\kf28}leen{\kf22} tell{\kf28} him{\kf22} let's
+Dialogue: 0,0:02:14.52,0:02:15.90,DEFAULT,,0,0,0,,{\r}{\kf16}Ah,{\kf21} come{\kf58} on{\kf21} let's{\kf21}~
+Dialogue: 0,0:02:16.57,0:02:19.46,DEFAULT,,0,0,0,,{\r}{\kf21}Ah,{\kf26} come{\kf63} on{\kf26} Ei{\kf11}leen{\kf11}~{\kf105}~{\kf27}~
+Dialogue: 0,0:02:23.32,0:02:23.77,DEFAULT,,0,0,0,,{\r}{\kf22}Come{\kf23} on
+Dialogue: 0,0:02:24.51,0:02:26.55,DEFAULT,,0,0,0,,{\r}{\kf45}Ei{\kf41}leen{\kf14} ta-{\kf45}loo-{\kf41}rye-{\kf18}ay
+Dialogue: 0,0:02:26.85,0:02:27.37,DEFAULT,,0,0,0,,{\r}{\kf24}Come{\kf28} on
+Dialogue: 0,0:02:28.00,0:02:30.08,DEFAULT,,0,0,0,,{\r}{\kf50}Ei{\kf40}leen{\kf15} ta-{\kf50}loo-{\kf40}rye-{\kf13}ay
+Dialogue: 0,0:02:30.42,0:02:31.12,DEFAULT,,0,0,0,,{\r}{\kf40}Too-{\kf31}ra
+Dialogue: 0,0:02:31.57,0:02:33.31,DEFAULT,,0,0,0,,{\r}{\kf45}too-{\kf40}ra{\kf15} ta-{\kf45}loo-{\kf30}ra
+Dialogue: 0,0:02:33.72,0:02:36.65,DEFAULT,,0,0,0,,{\r}{\kf20}Oh{\kf30}~{\kf20}~{\kf10}~{\kf25}~{\kf10}~,{\kf25} Ei{\kf10}leen{\kf35}~{\kf10}~{\kf30}~{\kf30}~,{\kf15} I{\kf23} said
+Dialogue: 0,0:02:36.95,0:02:39.55,DEFAULT,,0,0,0,,{\r}{\kf17}Come{\kf12} on{\kf17} Ei{\kf214}leen
+Dialogue: 0,0:02:39.81,0:02:43.56,DEFAULT,,0,0,0,,{\r}{\kf18}Oh{\kf26}~,{\kf10} come{\kf10}~{\kf10} on{\kf18} Ei{\kf44}leen{\kf26}~{\kf213}~
+Dialogue: 0,0:02:43.71,0:02:47.09,DEFAULT,,0,0,0,,{\r}{\kf16}We{\kf21}~{\kf16}~{\kf31} are{\kf36} far{\kf26} too{\kf10} young{\kf42}~{\kf10}~{\kf31} and{\kf36} clev{\kf63}er
+Dialogue: 0,0:02:47.46,0:02:50.21,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf49} things{\kf11} won't{\kf22}~{\kf27} e{\kf22}ver{\kf75} change{\kf11} and{\kf16} I{\kf26} say
+Dialogue: 0,0:02:50.61,0:02:53.47,DEFAULT,,0,0,0,,{\r}{\kf82}Too-{\kf82}ra-{\kf78}loo-{\kf44}ra
+Dialogue: 0,0:02:53.84,0:03:01.86,DEFAULT,,0,0,0,,{\r}{\kf71}Too-{\kf71}ra-{\kf12}loo-{\kf63}~{\kf12}rye-{\kf20}~{\kf28}~{\kf288}ay{\kf237}~
+Dialogue: 0,0:03:02.27,0:03:03.27,DEFAULT,,0,0,0,,{\r}{\kf10}Come{\kf15} on{\kf15} Ei{\kf30}leen,{\kf15} oh{\kf15} I
+Dialogue: 0,0:03:03.46,0:03:05.24,DEFAULT,,0,0,0,,{\r}{\kf17}Swear{\kf17} well{\kf17} he{\kf40} means{\kf17} at{\kf11} this{\kf29} mo{\kf10}ment{\kf20}~
+Dialogue: 0,0:03:05.61,0:03:11.11,DEFAULT,,0,0,0,,{\r}{\kf21}You{\kf21} mean{\kf29} e{\kf10}very{\kf10}thing{\kf12}~{\kf25}~{\kf10} to{\kf17} me{\kf395}~
+Dialogue: 0,0:03:11.44,0:03:16.16,DEFAULT,,0,0,0,,{\r}{\kf10}Oh{\kf17}~{\kf12}~{\kf21}~,{\kf10} to{\kf12} me{\kf12}~{\kf12}~{\kf360}~{\kf10}~
+Dialogue: 0,0:03:16.60,0:03:20.99,DEFAULT,,0,0,0,,{\r}{\kf10}Whoa{\kf20}~{\kf32}~,{\kf28} Ei{\kf12}leen{\kf12}~{\kf10}~{\kf314}~
+Dialogue: 0,0:03:21.32,0:03:21.88,DEFAULT,,0,0,0,,{\r}{\kf22}You{\kf34} mean
+Dialogue: 0,0:03:22.43,0:03:26.48,DEFAULT,,0,0,0,,{\r}{\kf27}E{\kf77}~{\kf27}very{\kf14}thing{\kf41}~{\kf10}~{\kf10}~{\kf199}~

@@ -1,51 +1,58 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Better Than You
+Artist: MandoPony
+Original Timing: mylittlekaraoke.com by RD1042
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:27.89,0:00:30.10,DEFAULT,,0,0,0,,{\kf22}Pran{\kf16}cing{\kf19} down{\kf14} the{\kf27} street,{\kf22} strut{\kf14}ting{\kf14} my{\kf27} stuff
-Dialogue: 0,0:00:31.05,0:00:33.38,DEFAULT,,0,0,0,,{\kf16}My{\kf19} dad{\kf14}dy{\kf16} buys{\kf14} me{\kf19} things,{\kf14} it's{\kf19} ne{\kf14}ver{\kf16} e{\kf22}nough
-Dialogue: 0,0:00:34.62,0:00:36.77,DEFAULT,,0,0,0,,{\kf16}I{\kf16} pre{\kf16}tend{\kf16} I{\kf19} don't{\kf16} know{\kf14} that{\kf16} they{\kf24} stare
-Dialogue: 0,0:00:37.77,0:00:40.98,DEFAULT,,0,0,0,,{\kf22}No{\kf19}bo{\kf19}dy{\kf16} gets{\kf19} me{\kf16} and{\kf19} I{\kf19} real{\kf16}ly{\kf24} don't{\kf22} ca-{\kf16}a-{\kf19}a-{\kf27}re
-Dialogue: 0,0:00:41.32,0:00:44.13,DEFAULT,,0,0,0,,{\kf16}It{\kf16} should{\kf16} be{\kf16} a{\kf16}gainst{\kf16} the{\kf16} law{\kf16} for{\kf16} me{\kf16} to{\kf19} look{\kf16} this{\kf27} good
-Dialogue: 0,0:00:44.52,0:00:47.52,DEFAULT,,0,0,0,,{\kf14}I'm{\kf19} tee{\kf19}nage{\kf16} ro{\kf19}yal{\kf16}ty,{\kf16} and{\kf14} man{\kf16} I'm{\kf16} so{\kf19} mi{\kf19}sun{\kf19}der{\kf29}stood
-Dialogue: 0,0:00:47.83,0:00:50.22,DEFAULT,,0,0,0,,{\kf16}I{\kf16} think{\kf16} I{\kf16} got{\kf16} some{\kf16} friends{\kf16} who{\kf16} rea{\kf16}lly{\kf16} give{\kf16} a{\kf8} f---
-Dialogue: 0,0:00:50.77,0:00:53.82,DEFAULT,,0,0,0,,{\kf16}I'm{\kf19} ne{\kf19}ver{\kf22} out{\kf19} of{\kf19} mo{\kf14}ney,{\kf19} so{\kf16} I'm{\kf19} ne{\kf16}ver{\kf22} out{\kf19} of{\kf29} luck
-Dialogue: 0,0:00:54.79,0:00:57.53,DEFAULT,,0,0,0,,{\kf35}Don't{\kf40} hate{\kf35} me{\kf35} 'cuz{\kf29} I'm{\kf19} beau{\kf19}ti{\kf24}ful
-Dialogue: 0,0:00:58.13,0:01:00.55,DEFAULT,,0,0,0,,{\kf29}Don't{\kf22} hate{\kf19} me{\kf24} 'cuz{\kf19} I{\kf32} speak{\kf37} tru-{\kf14}e
-Dialogue: 0,0:01:01.49,0:01:05.77,DEFAULT,,0,0,0,,{\kf32}Don't{\kf35} hate{\kf35} me{\kf35} 'cuz{\kf32} I'm{\kf22} beau{\kf22}ti{\kf19}ful,{\kf113} no{\kf16}-o{\kf16}-o
-Dialogue: 0,0:01:06.12,0:01:08.30,DEFAULT,,0,0,0,,{\kf19}Hate{\kf16} me{\kf16} 'cuz{\kf16} I'm{\kf22} bet{\kf19}ter{\kf16} than{\kf24} yo{\kf45}-u
-Dialogue: 0,0:01:10.74,0:01:13.84,DEFAULT,,0,0,0,,{\kf19}E{\kf16}very{\kf19}bo{\kf16}dy's{\kf16} got{\kf16} a{\kf19} pro{\kf19}blem,{\kf14} if{\kf16} you{\kf16} know{\kf16} what{\kf16} I{\kf37} mean
-Dialogue: 0,0:01:14.47,0:01:17.44,DEFAULT,,0,0,0,,{\kf16}If{\kf16} you{\kf22} ask{\kf19} me{\kf16} I{\kf19} think{\kf16} they{\kf16} look{\kf16} a{\kf16} lit{\kf16}tle{\kf19} gre-{\kf22}en
-Dialogue: 0,0:01:18.02,0:01:20.38,DEFAULT,,0,0,0,,{\kf16}I'm{\kf16} well{\kf19} a{\kf19}wa-{\kf16}are{\kf22} that{\kf19} no{\kf16}thing{\kf14} is{\kf24} free
-Dialogue: 0,0:01:20.77,0:01:24.64,DEFAULT,,0,0,0,,{\kf16}But,{\kf16} my{\kf16} dad{\kf19}dy{\kf19} worked{\kf16} for{\kf16} E{\kf16}very{\kf19}thing{\kf14} and{\kf19} gave{\kf16} it{\kf19} all{\kf19} to{\kf22} me{\kf19}-e{\kf16}-e{\kf29}Yeah!
-Dialogue: 0,0:01:24.98,0:01:27.79,DEFAULT,,0,0,0,,{\kf16}It{\kf16} should{\kf16} be{\kf16} a{\kf16}gainst{\kf16} the{\kf16} law{\kf16} for{\kf16} me{\kf16} to{\kf16} look{\kf16} this{\kf29} good
-Dialogue: 0,0:01:28.13,0:01:31.15,DEFAULT,,0,0,0,,{\kf16}I'm{\kf16} tee{\kf16}nage{\kf16} ro{\kf16}yal{\kf16}ty,{\kf16} and{\kf16} man{\kf16} I'm{\kf16} so{\kf16} mi{\kf16}sun{\kf19}ders{\kf27}tood
-Dialogue: 0,0:01:31.47,0:01:33.88,DEFAULT,,0,0,0,,{\kf16}I{\kf16} think{\kf16} I've{\kf16} got{\kf16} some{\kf27} friends,{\kf16} I{\kf16} don't{\kf16} give{\kf16} a{\kf8} f---
-Dialogue: 0,0:01:34.43,0:01:37.51,DEFAULT,,0,0,0,,{\kf11}I'm{\kf16} ne{\kf16}ver{\kf16} out{\kf16} of{\kf19} mo{\kf16}ney,{\kf19} so{\kf16} I'm{\kf16} ne{\kf19}ver{\kf16} out{\kf19} of{\kf32} luck
-Dialogue: 0,0:01:38.43,0:01:41.26,DEFAULT,,0,0,0,,{\kf35}Don't{\kf35} hate{\kf35} me{\kf35} 'cuz{\kf27} I'm{\kf19} beau{\kf19}ti{\kf32}ful
-Dialogue: 0,0:01:41.79,0:01:44.13,DEFAULT,,0,0,0,,{\kf27}Don't{\kf19} hate{\kf19} me{\kf27} 'cuz{\kf16} I{\kf27} speak{\kf37} tru-{\kf14}e
-Dialogue: 0,0:01:45.13,0:01:49.30,DEFAULT,,0,0,0,,{\kf29}Don't{\kf35} hate{\kf35} me{\kf35} 'cuz{\kf29} I'm{\kf19} beau{\kf19}ti{\kf16}ful,{\kf100} no{\kf19}-o{\kf19}-o
-Dialogue: 0,0:01:49.70,0:01:51.98,DEFAULT,,0,0,0,,{\kf22}Hate{\kf16} me{\kf19} 'cuz{\kf16} I'm{\kf22} bet{\kf16}ter{\kf16} than{\kf24} yo-{\kf53}u
-Dialogue: 0,0:02:03.30,0:02:05.25,DEFAULT,,0,0,0,,{\kf8}Well{\kf11} I{\kf14} said{\kf19} I'm{\kf16} bet{\kf16}ter{\kf14} than{\kf43} yo-{\kf16}u
-Dialogue: 0,0:02:06.69,0:02:08.58,DEFAULT,,0,0,0,,{\kf19}I{\kf19} said{\kf16} I'm{\kf22} bet{\kf14}ter{\kf14} than{\kf43} yo-{\kf14}u
-Dialogue: 0,0:02:10.03,0:02:12.10,DEFAULT,,0,0,0,,{\kf16}I{\kf16} said{\kf16} I'm{\kf19} bet{\kf19}ter{\kf14} than{\kf19} yo{\kf40}-ou{\kf14}-u
-Dialogue: 0,0:02:13.42,0:02:15.86,DEFAULT,,0,0,0,,{\kf16}I{\kf16} said{\kf16} I'm{\kf16} bet{\kf16}ter{\kf16} than{\kf113} you
-Dialogue: 0,0:02:18.44,0:02:21.06,DEFAULT,,0,0,0,,{\kf16}It's{\kf19} not{\kf16} my{\kf22} fa-{\kf11}ault{\kf16} that{\kf16} I'm{\kf16} just{\kf16} a{\kf22} prin{\kf24}cess
-Dialogue: 0,0:02:22.01,0:02:24.43,DEFAULT,,0,0,0,,{\kf16}I{\kf19} de{\kf22}ser{\kf16}ve{\kf19} no{\kf19}thing{\kf16} but{\kf14} the{\kf14} be-{\kf14}est
-Dialogue: 0,0:02:25.19,0:02:27.71,DEFAULT,,0,0,0,,{\kf16}I{\kf16} won't{\kf16} a{\kf16}po{\kf16}lo{\kf16}gize{\kf16} for{\kf19} get{\kf16}ting{\kf16} what{\kf16} I{\kf19} want
-Dialogue: 0,0:02:27.89,0:02:31.62,DEFAULT,,0,0,0,,{\kf19}You're{\kf19} the{\kf27} glitz,{\kf19} you're{\kf19} the{\kf19} gla{\kf19}mor{\kf27} when{\kf19} you're{\kf19} the{\kf19} de{\kf19}bu{\kf27}tante,{\kf43} oh!
-Dialogue: 0,0:02:32.12,0:02:34.88,DEFAULT,,0,0,0,,{\kf32}Don't{\kf32} hate{\kf32} me{\kf32} 'cuz{\kf27} I'm{\kf19} beau{\kf19}ti{\kf24}ful
-Dialogue: 0,0:02:35.48,0:02:37.85,DEFAULT,,0,0,0,,{\kf32}Don't{\kf19} hate{\kf19} me{\kf27} 'cuz{\kf16} I{\kf32} speak{\kf32} tru-{\kf14}e
-Dialogue: 0,0:02:38.82,0:02:41.58,DEFAULT,,0,0,0,,{\kf29}Don't{\kf32} hate{\kf32} me{\kf32} 'cuz{\kf27} I'm{\kf19} beau{\kf19}ti{\kf27}ful
-Dialogue: 0,0:02:41.95,0:02:44.52,DEFAULT,,0,0,0,,{\kf16}And{\kf19} don't{\kf14} you{\kf22} hate{\kf16} me{\kf16} cuz{\kf16} my{\kf22} blood{\kf22} is{\kf27} blu-{\kf16}e
-Dialogue: 0,0:02:45.31,0:02:48.30,DEFAULT,,0,0,0,,{\kf19}They{\kf19} say{\kf14} that{\kf22} mo{\kf16}ney{\kf14} is{\kf14} the{\kf19} root{\kf14} of{\kf35} all{\kf19} e-{\kf19}e-{\kf27}vil
-Dialogue: 0,0:02:48.65,0:02:51.17,DEFAULT,,0,0,0,,{\kf19}They{\kf19} must{\kf16} be{\kf22} jea{\kf16}lous{\kf16} of{\kf16} what{\kf19} de{\kf11}mons{\kf16} can{\kf22} do{\kf16}-o
-Dialogue: 0,0:02:52.14,0:02:56.29,DEFAULT,,0,0,0,,{\kf8}So{\kf29} don't{\kf32} hate{\kf35} me{\kf35} cuz{\kf29} I'm{\kf19} beau{\kf19}ti{\kf19}ful,{\kf129} no
-Dialogue: 0,0:02:56.76,0:02:58.97,DEFAULT,,0,0,0,,{\kf22}Hate{\kf19} me{\kf19} cuz{\kf14} I'm{\kf19} bet{\kf19}ter{\kf14} than{\kf22} yo-{\kf40}u
+Dialogue: 0,0:00:27.90,0:00:30.10,DEFAULT,,0,0,0,,{\r}{\kf28}Pran{\kf21}cing{\kf24} down{\kf17} the{\kf35} street,{\kf28} strut{\kf17}ting{\kf17} my{\kf34} stuff
+Dialogue: 0,0:00:31.05,0:00:33.39,DEFAULT,,0,0,0,,{\r}{\kf21}My{\kf24} dad{\kf17}dy{\kf21} buys{\kf17} me{\kf24} things,{\kf17} it's{\kf24} ne{\kf17}ver{\kf21} e{\kf31}nough
+Dialogue: 0,0:00:34.62,0:00:36.78,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf23} pre{\kf23}tend{\kf23} I{\kf26} don't{\kf23} know{\kf19} that{\kf23} they{\kf32} stare
+Dialogue: 0,0:00:37.78,0:00:40.98,DEFAULT,,0,0,0,,{\r}{\kf25}No{\kf22}bo{\kf22}dy{\kf19} gets{\kf22} me{\kf19} and{\kf22} I{\kf22} real{\kf19}ly{\kf29} don't{\kf25} ca-{\kf19}a-{\kf22}a-{\kf33}re
+Dialogue: 0,0:00:41.32,0:00:44.13,DEFAULT,,0,0,0,,{\r}{\kf20}It{\kf20} should{\kf20} be{\kf20} a{\kf20}gainst{\kf20} the{\kf20} law{\kf20} for{\kf20} me{\kf20} to{\kf24} look{\kf20} this{\kf37} good
+Dialogue: 0,0:00:44.53,0:00:47.52,DEFAULT,,0,0,0,,{\r}{\kf16}I'm{\kf23} tee{\kf23}nage{\kf19} ro{\kf23}yal{\kf19}ty,{\kf19} and{\kf16} man{\kf19} I'm{\kf19} so{\kf23} mi{\kf23}sun{\kf23}der{\kf34}stood
+Dialogue: 0,0:00:47.84,0:00:50.23,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21} think{\kf21} I{\kf21} got{\kf21} some{\kf21} friends{\kf21} who{\kf21} rea{\kf21}lly{\kf21} give{\kf21} a{\kf10} f---
+Dialogue: 0,0:00:50.78,0:00:53.83,DEFAULT,,0,0,0,,{\r}{\kf18}I'm{\kf22} ne{\kf22}ver{\kf25} out{\kf22} of{\kf22} mo{\kf15}ney,{\kf22} so{\kf18} I'm{\kf22} ne{\kf18}ver{\kf25} out{\kf22} of{\kf32} luck
+Dialogue: 0,0:00:54.80,0:00:57.53,DEFAULT,,0,0,0,,{\r}{\kf40}Don't{\kf47} hate{\kf40} me{\kf40} 'cuz{\kf34} I'm{\kf22} beau{\kf22}ti{\kf28}ful
+Dialogue: 0,0:00:58.13,0:01:00.55,DEFAULT,,0,0,0,,{\r}{\kf36}Don't{\kf27} hate{\kf23} me{\kf30} 'cuz{\kf23} I{\kf40} speak{\kf46} tru-{\kf17}e
+Dialogue: 0,0:01:01.50,0:01:05.78,DEFAULT,,0,0,0,,{\r}{\kf36}Don't{\kf39} hate{\kf39} me{\kf39} 'cuz{\kf36} I'm{\kf24} beau{\kf24}ti{\kf21}ful,{\kf131} no{\kf18}-o{\kf21}-o
+Dialogue: 0,0:01:06.12,0:01:08.30,DEFAULT,,0,0,0,,{\r}{\kf21}Hate{\kf18} me{\kf18} 'cuz{\kf18} I'm{\kf24} bet{\kf21}ter{\kf18} than{\kf27} yo{\kf53}-u
+Dialogue: 0,0:01:10.74,0:01:13.84,DEFAULT,,0,0,0,,{\r}{\kf23}E{\kf20}very{\kf23}bo{\kf20}dy's{\kf20} got{\kf20} a{\kf23} pro{\kf23}blem,{\kf16} if{\kf20} you{\kf20} know{\kf20} what{\kf20} I{\kf42} mean
+Dialogue: 0,0:01:14.47,0:01:17.44,DEFAULT,,0,0,0,,{\r}{\kf21}If{\kf21} you{\kf28} ask{\kf24} me{\kf21} I{\kf24} think{\kf21} they{\kf21} look{\kf21} a{\kf21} lit{\kf21}tle{\kf24} gre-{\kf29}en
+Dialogue: 0,0:01:18.02,0:01:20.38,DEFAULT,,0,0,0,,{\r}{\kf21}I'm{\kf21} well{\kf25} a{\kf25}wa-{\kf21}are{\kf28} that{\kf25} no{\kf21}thing{\kf18} is{\kf31} free
+Dialogue: 0,0:01:20.78,0:01:24.64,DEFAULT,,0,0,0,,{\r}{\kf19}But,{\kf19} my{\kf19} dad{\kf22}dy{\kf22} worked{\kf19} for{\kf19} E{\kf19}very{\kf22}thing{\kf16} and{\kf22} gave{\kf19} it{\kf22} all{\kf22} to{\kf26} me{\kf22}-e{\kf19}-e{\kf38}Yeah!
+Dialogue: 0,0:01:24.98,0:01:27.79,DEFAULT,,0,0,0,,{\r}{\kf20}It{\kf20} should{\kf20} be{\kf20} a{\kf20}gainst{\kf20} the{\kf20} law{\kf20} for{\kf20} me{\kf20} to{\kf20} look{\kf20} this{\kf41} good
+Dialogue: 0,0:01:28.13,0:01:31.16,DEFAULT,,0,0,0,,{\r}{\kf20}I'm{\kf20} tee{\kf20}nage{\kf20} ro{\kf20}yal{\kf20}ty,{\kf20} and{\kf20} man{\kf20} I'm{\kf20} so{\kf20} mi{\kf20}sun{\kf24}ders{\kf38}tood
+Dialogue: 0,0:01:31.47,0:01:33.89,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} think{\kf22} I've{\kf22} got{\kf22} some{\kf36} friends,{\kf22} I{\kf22} don't{\kf22} give{\kf22} a{\kf10} f---
+Dialogue: 0,0:01:34.44,0:01:37.51,DEFAULT,,0,0,0,,{\r}{\kf13}I'm{\kf20} ne{\kf20}ver{\kf20} out{\kf20} of{\kf23} mo{\kf20}ney,{\kf23} so{\kf20} I'm{\kf20} ne{\kf23}ver{\kf20} out{\kf23} of{\kf42} luck
+Dialogue: 0,0:01:38.43,0:01:41.27,DEFAULT,,0,0,0,,{\r}{\kf42}Don't{\kf42} hate{\kf42} me{\kf42} 'cuz{\kf32} I'm{\kf23} beau{\kf23}ti{\kf38}ful
+Dialogue: 0,0:01:41.79,0:01:44.13,DEFAULT,,0,0,0,,{\r}{\kf34}Don't{\kf24} hate{\kf24} me{\kf34} 'cuz{\kf20} I{\kf34} speak{\kf47} tru-{\kf17}e
+Dialogue: 0,0:01:45.13,0:01:49.31,DEFAULT,,0,0,0,,{\r}{\kf35}Don't{\kf41} hate{\kf41} me{\kf41} 'cuz{\kf35} I'm{\kf22} beau{\kf22}ti{\kf19}ful,{\kf119} no{\kf22}-o{\kf21}-o
+Dialogue: 0,0:01:49.70,0:01:51.99,DEFAULT,,0,0,0,,{\r}{\kf24}Hate{\kf18} me{\kf21} 'cuz{\kf18} I'm{\kf24} bet{\kf18}ter{\kf18} than{\kf27} yo-{\kf61}u
+Dialogue: 0,0:02:03.31,0:02:05.25,DEFAULT,,0,0,0,,{\r}{\kf10}Well{\kf13} I{\kf17} said{\kf23} I'm{\kf20} bet{\kf20}ter{\kf17} than{\kf54} yo-{\kf20}u
+Dialogue: 0,0:02:06.70,0:02:08.59,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} said{\kf19} I'm{\kf26} bet{\kf16}ter{\kf16} than{\kf51} yo-{\kf17}u
+Dialogue: 0,0:02:10.03,0:02:12.11,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf19} said{\kf19} I'm{\kf23} bet{\kf23}ter{\kf16} than{\kf23} yo{\kf49}-ou{\kf17}-u
+Dialogue: 0,0:02:13.42,0:02:15.87,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf19} said{\kf19} I'm{\kf19} bet{\kf19}ter{\kf19} than{\kf130} you
+Dialogue: 0,0:02:18.44,0:02:21.07,DEFAULT,,0,0,0,,{\r}{\kf22}It's{\kf26} not{\kf22} my{\kf29} fa-{\kf15}ault{\kf22} that{\kf22} I'm{\kf22} just{\kf22} a{\kf29} prin{\kf32}cess
+Dialogue: 0,0:02:22.01,0:02:24.43,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf27} de{\kf31}ser{\kf23}ve{\kf27} no{\kf27}thing{\kf23} but{\kf20} the{\kf20} be-{\kf21}est
+Dialogue: 0,0:02:25.19,0:02:27.71,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf20} won't{\kf20} a{\kf20}po{\kf20}lo{\kf20}gize{\kf20} for{\kf24} get{\kf20}ting{\kf20} what{\kf20} I{\kf28} want
+Dialogue: 0,0:02:27.90,0:02:31.63,DEFAULT,,0,0,0,,{\r}{\kf23}You're{\kf23} the{\kf32} glitz,{\kf23} you're{\kf23} the{\kf23} gla{\kf23}mor{\kf32} when{\kf23} you're{\kf23} the{\kf23} de{\kf23}bu{\kf32}tante,{\kf47} oh!
+Dialogue: 0,0:02:32.13,0:02:34.89,DEFAULT,,0,0,0,,{\r}{\kf41}Don't{\kf41} hate{\kf41} me{\kf41} 'cuz{\kf34} I'm{\kf24} beau{\kf24}ti{\kf30}ful
+Dialogue: 0,0:02:35.49,0:02:37.85,DEFAULT,,0,0,0,,{\r}{\kf40}Don't{\kf23} hate{\kf23} me{\kf33} 'cuz{\kf20} I{\kf40} speak{\kf40} tru-{\kf17}e
+Dialogue: 0,0:02:38.83,0:02:41.58,DEFAULT,,0,0,0,,{\r}{\kf37}Don't{\kf41} hate{\kf41} me{\kf41} 'cuz{\kf34} I'm{\kf24} beau{\kf24}ti{\kf34}ful
+Dialogue: 0,0:02:41.95,0:02:44.53,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf24} don't{\kf17} you{\kf27} hate{\kf20} me{\kf20} cuz{\kf20} my{\kf27} blood{\kf27} is{\kf34} blu-{\kf21}e
+Dialogue: 0,0:02:45.31,0:02:48.31,DEFAULT,,0,0,0,,{\r}{\kf23}They{\kf23} say{\kf16} that{\kf26} mo{\kf19}ney{\kf16} is{\kf16} the{\kf23} root{\kf16} of{\kf42} all{\kf23} e-{\kf23}e-{\kf33}vil
+Dialogue: 0,0:02:48.65,0:02:51.17,DEFAULT,,0,0,0,,{\r}{\kf23}They{\kf23} must{\kf20} be{\kf26} jea{\kf20}lous{\kf20} of{\kf20} what{\kf23} de{\kf13}mons{\kf20} can{\kf26} do{\kf18}-o
+Dialogue: 0,0:02:52.14,0:02:56.30,DEFAULT,,0,0,0,,{\r}{\kf10}So{\kf34} don't{\kf37} hate{\kf41} me{\kf41} cuz{\kf34} I'm{\kf22} beau{\kf22}ti{\kf22}ful,{\kf152} no
+Dialogue: 0,0:02:56.77,0:02:58.98,DEFAULT,,0,0,0,,{\r}{\kf26}Hate{\kf22} me{\kf22} cuz{\kf16} I'm{\kf22} bet{\kf22}ter{\kf16} than{\kf26} yo-{\kf49}u

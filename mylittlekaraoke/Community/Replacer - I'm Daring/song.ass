@@ -1,64 +1,71 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: I'm Daring (feat Evdog & Poni1kenobi)
+Artist: Replacer
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.33,0:00:03.86,DEFAULT,,0,0,0,,{\kf23}Let's{\kf27} go
-Dialogue: 0,0:00:28.76,0:00:30.44,DEFAULT,,0,0,0,,{\kf23}Hey{\kf23} Da{\kf45}ring
-Dialogue: 0,0:00:31.27,0:00:32.99,DEFAULT,,0,0,0,,{\kf15}What{\kf15}cha{\kf23} gon{\kf19}na{\kf34} do
-Dialogue: 0,0:00:33.86,0:00:34.42,DEFAULT,,0,0,0,,{\kf19}Da{\kf38}ring
-Dialogue: 0,0:00:37.01,0:00:38.47,DEFAULT,,0,0,0,,{\kf19}Hey{\kf23} Da{\kf23}ring
-Dialogue: 0,0:00:39.48,0:00:41.24,DEFAULT,,0,0,0,,{\kf19}What{\kf15}cha{\kf27} gon{\kf34}na{\kf42} do
-Dialogue: 0,0:00:42.07,0:00:42.71,DEFAULT,,0,0,0,,{\kf15}Da{\kf38}ring
-Dialogue: 0,0:00:45.29,0:00:51.14,DEFAULT,,0,0,0,,{\kf27}Please{\kf27} oh{\kf53} please{\kf19} will{\kf15} you{\kf19} let{\kf49} me{\kf23} fol{\kf23}low{\kf214} you
-Dialogue: 0,0:00:53.36,0:00:55.04,DEFAULT,,0,0,0,,{\kf19}Talk{\kf23} to{\kf30} me{\kf15} Da{\kf42}ring
-Dialogue: 0,0:00:55.91,0:00:57.67,DEFAULT,,0,0,0,,{\kf12}Don't{\kf15} you{\kf23} leave{\kf38} me{\kf49} blue
-Dialogue: 0,0:00:58.49,0:00:59.13,DEFAULT,,0,0,0,,{\kf27}Da{\kf34}ring
-Dialogue: 0,0:01:01.53,0:01:03.29,DEFAULT,,0,0,0,,{\kf19}Talk{\kf23} to{\kf34} me{\kf19} Da{\kf42}ring
-Dialogue: 0,0:01:04.08,0:01:06.03,DEFAULT,,0,0,0,,{\kf15}Don't{\kf15} you{\kf19} leave{\kf38} me{\kf60} blue
-Dialogue: 0,0:01:06.67,0:01:07.34,DEFAULT,,0,0,0,,{\kf27}Da{\kf38}ring
-Dialogue: 0,0:01:10.19,0:01:12.59,DEFAULT,,0,0,0,,{\kf19}Don't{\kf19} you{\kf23} know{\kf30} I{\kf34} love{\kf57} you
-Dialogue: 0,0:01:12.82,0:01:15.44,DEFAULT,,0,0,0,,{\kf19}Da{\kf30}ring{\kf180} Do
-Dialogue: 0,0:01:17.81,0:01:21.11,DEFAULT,,0,0,0,,{\kf19}I{\kf19} wan{\kf19}na{\kf27} be{\kf19} lo{\kf19}yal{\kf19} like{\kf19} I'm{\kf19} supposed{\kf34} to{\kf27} be
-Dialogue: 0,0:01:21.78,0:01:25.72,DEFAULT,,0,0,0,,{\kf23}So{\kf23} I{\kf23} don't{\kf15} real{\kf19}ly{\kf15} mind{\kf15} the{\kf19} way{\kf19} you're{\kf19} dri{\kf15}ving{\kf15} me{\kf30} cra{\kf30}zy
-Dialogue: 0,0:01:25.98,0:01:29.84,DEFAULT,,0,0,0,,{\kf19}I'll{\kf19} ne{\kf19}ver{\kf19} leave{\kf15} you{\kf15} han{\kf15}gin'{\kf15} e{\kf15}ven{\kf15} if{\kf15} you{\kf15} mis{\kf30}treat{\kf34} me
-Dialogue: 0,0:01:30.03,0:01:33.59,DEFAULT,,0,0,0,,{\kf23}Cause{\kf34} I{\kf23} on{\kf19}ly{\kf15} care{\kf19} a{\kf34}bout{\kf124} you
-Dialogue: 0,0:01:34.34,0:01:36.11,DEFAULT,,0,0,0,,{\kf15}Look{\kf15} at{\kf30} me{\kf19} Da{\kf38}ring
-Dialogue: 0,0:01:36.97,0:01:38.88,DEFAULT,,0,0,0,,{\kf15}I'm{\kf15} as{\kf15} da{\kf15}ring{\kf30} as{\kf34} you
-Dialogue: 0,0:01:39.48,0:01:40.12,DEFAULT,,0,0,0,,{\kf27}Da{\kf34}ring
-Dialogue: 0,0:01:42.52,0:01:44.28,DEFAULT,,0,0,0,,{\kf15}Can't{\kf15} you{\kf38} see{\kf15} Da{\kf34}ring
-Dialogue: 0,0:01:45.18,0:01:47.13,DEFAULT,,0,0,0,,{\kf15}I'm{\kf15} as{\kf15} da{\kf15}ring{\kf30} as{\kf42} you
-Dialogue: 0,0:01:47.73,0:01:48.37,DEFAULT,,0,0,0,,{\kf19}Da{\kf38}ring
-Dialogue: 0,0:01:51.07,0:01:53.73,DEFAULT,,0,0,0,,{\kf15}Please{\kf15} oh{\kf57} please{\kf15} take{\kf15} me{\kf15} with{\kf64} you
-Dialogue: 0,0:01:54.14,0:01:56.69,DEFAULT,,0,0,0,,{\kf19}Da{\kf19}ring{\kf203} Do
-Dialogue: 0,0:01:59.02,0:02:02.13,DEFAULT,,0,0,0,,{\kf15}I{\kf15} have{\kf15} been{\kf15} an{\kf15} e{\kf15}le{\kf15}ment{\kf15} of{\kf27} har{\kf34}mo{\kf30}ny
-Dialogue: 0,0:02:02.84,0:02:06.71,DEFAULT,,0,0,0,,{\kf23}And{\kf15} I{\kf15} was{\kf15} one{\kf15} of{\kf15} those{\kf15} who{\kf15} stopped{\kf15} the{\kf15} world{\kf15} go{\kf15}ing{\kf38} cra{\kf23}zy
-Dialogue: 0,0:02:06.89,0:02:10.87,DEFAULT,,0,0,0,,{\kf15}So{\kf15} take{\kf15} a{\kf15}no{\kf15}ther{\kf15} look{\kf15} be{\kf15}fore{\kf15} you{\kf15} say{\kf15} you{\kf15} don't{\kf30} need{\kf42} me
-Dialogue: 0,0:02:11.09,0:02:14.69,DEFAULT,,0,0,0,,{\kf15}Cause{\kf42} I{\kf15} on{\kf15}ly{\kf15} care{\kf19} a{\kf27}bout{\kf109} you{\kf30}~
-Dialogue: 0,0:02:15.26,0:02:17.13,DEFAULT,,0,0,0,,{\kf19}Stay{\kf15} with{\kf23} me{\kf19} Da{\kf42}ring
-Dialogue: 0,0:02:17.96,0:02:19.61,DEFAULT,,0,0,0,,{\kf19}Tell{\kf19} me{\kf19} what{\kf34} to{\kf30} do
-Dialogue: 0,0:02:20.51,0:02:21.11,DEFAULT,,0,0,0,,{\kf23}Da{\kf34}ring
-Dialogue: 0,0:02:23.47,0:02:25.16,DEFAULT,,0,0,0,,{\kf19}Stay{\kf19} with{\kf30} me{\kf19} Da{\kf23}ring
-Dialogue: 0,0:02:26.09,0:02:27.89,DEFAULT,,0,0,0,,{\kf15}Tell{\kf15} me{\kf15} what{\kf34} to{\kf42} do
-Dialogue: 0,0:02:28.72,0:02:29.24,DEFAULT,,0,0,0,,{\kf19}Da{\kf30}ring
-Dialogue: 0,0:02:32.06,0:02:35.02,DEFAULT,,0,0,0,,{\kf15}I'd{\kf23} be{\kf38} glad{\kf15} to{\kf15} do{\kf38} a{\kf38}ny{\kf42}thing
-Dialogue: 0,0:02:35.36,0:02:38.02,DEFAULT,,0,0,0,,{\kf19}For{\kf237} you
-Dialogue: 0,0:02:40.04,0:02:43.27,DEFAULT,,0,0,0,,{\kf15}Can't{\kf15} you{\kf15} see{\kf15} that{\kf15} you{\kf15} and{\kf15} me{\kf15} will{\kf15} be{\kf15} best{\kf53} friends
-Dialogue: 0,0:02:43.76,0:02:47.28,DEFAULT,,0,0,0,,{\kf19}Cause{\kf19} I{\kf19} know{\kf19} all{\kf19} your{\kf19} sto{\kf19}ries{\kf19} from{\kf19} be{\kf19}gin{\kf19}ning{\kf19} to{\kf34} end
-Dialogue: 0,0:02:48.07,0:02:51.48,DEFAULT,,0,0,0,,{\kf30}E{\kf23}very{\kf19} sin{\kf19}gle{\kf15} chap{\kf19}ter{\kf19} that{\kf19} has{\kf19} e{\kf19}ver{\kf19} been{\kf45} penned
-Dialogue: 0,0:02:51.97,0:02:55.76,DEFAULT,,0,0,0,,{\kf23}Cause{\kf42} I{\kf15} on{\kf15}ly{\kf15} care{\kf15} a{\kf30}bout{\kf143} you
-Dialogue: 0,0:02:56.43,0:02:58.01,DEFAULT,,0,0,0,,{\kf38}Hey{\kf19} Da{\kf30}ring
-Dialogue: 0,0:02:59.02,0:03:00.71,DEFAULT,,0,0,0,,{\kf15}What{\kf15}cha{\kf15} gon{\kf15}na{\kf42} do
-Dialogue: 0,0:03:01.61,0:03:02.09,DEFAULT,,0,0,0,,{\kf8}Da{\kf30}ring
-Dialogue: 0,0:03:02.84,0:03:04.72,DEFAULT,,0,0,0,,{\kf15}Hey{\kf15} what{\kf15}cha{\kf15} gon{\kf19}na{\kf30} do
-Dialogue: 0,0:03:05.66,0:03:06.26,DEFAULT,,0,0,0,,{\kf19}Da{\kf38}ring
-Dialogue: 0,0:03:07.01,0:03:08.84,DEFAULT,,0,0,0,,{\kf15}Hey{\kf15} what{\kf15}cha{\kf15} gon{\kf19}na{\kf42} do
-Dialogue: 0,0:03:09.74,0:03:10.38,DEFAULT,,0,0,0,,{\kf27}Da{\kf34}ring
-Dialogue: 0,0:03:13.08,0:03:16.04,DEFAULT,,0,0,0,,{\kf15}Please{\kf15} oh{\kf79} please{\kf15} let{\kf15} me{\kf15} be{\kf34} your{\kf42} friend
-Dialogue: 0,0:03:16.12,0:03:19.08,DEFAULT,,0,0,0,,{\kf27}Da{\kf19}ring{\kf240} Do
+Dialogue: 0,0:00:03.34,0:00:03.86,DEFAULT,,0,0,0,,{\r}{\kf24}Let's{\kf29} go
+Dialogue: 0,0:00:28.76,0:00:30.45,DEFAULT,,0,0,0,,{\r}{\kf42}Hey{\kf42} Da{\kf85}ring
+Dialogue: 0,0:00:31.27,0:00:33.00,DEFAULT,,0,0,0,,{\r}{\kf25}What{\kf25}cha{\kf37} gon{\kf31}na{\kf54} do
+Dialogue: 0,0:00:33.86,0:00:34.42,DEFAULT,,0,0,0,,{\r}{\kf19}Da{\kf37}ring
+Dialogue: 0,0:00:37.01,0:00:38.47,DEFAULT,,0,0,0,,{\r}{\kf43}Hey{\kf52} Da{\kf51}ring
+Dialogue: 0,0:00:39.49,0:00:41.25,DEFAULT,,0,0,0,,{\r}{\kf24}What{\kf20}cha{\kf34} gon{\kf44}na{\kf54} do
+Dialogue: 0,0:00:42.07,0:00:42.71,DEFAULT,,0,0,0,,{\r}{\kf18}Da{\kf46}ring
+Dialogue: 0,0:00:45.30,0:00:51.15,DEFAULT,,0,0,0,,{\r}{\kf33}Please{\kf33} oh{\kf66} please{\kf24} will{\kf19} you{\kf24} let{\kf61} me{\kf28} fol{\kf28}low{\kf269} you
+Dialogue: 0,0:00:53.36,0:00:55.05,DEFAULT,,0,0,0,,{\r}{\kf25}Talk{\kf30} to{\kf40} me{\kf20} Da{\kf54}ring
+Dialogue: 0,0:00:55.91,0:00:57.67,DEFAULT,,0,0,0,,{\r}{\kf15}Don't{\kf20} you{\kf29} leave{\kf49} me{\kf63} blue
+Dialogue: 0,0:00:58.50,0:00:59.14,DEFAULT,,0,0,0,,{\r}{\kf28}Da{\kf36}ring
+Dialogue: 0,0:01:01.54,0:01:03.30,DEFAULT,,0,0,0,,{\r}{\kf24}Talk{\kf29} to{\kf44} me{\kf24} Da{\kf55}ring
+Dialogue: 0,0:01:04.09,0:01:06.04,DEFAULT,,0,0,0,,{\r}{\kf20}Don't{\kf20} you{\kf25} leave{\kf50} me{\kf80} blue
+Dialogue: 0,0:01:06.67,0:01:07.35,DEFAULT,,0,0,0,,{\r}{\kf28}Da{\kf40}ring
+Dialogue: 0,0:01:10.20,0:01:12.60,DEFAULT,,0,0,0,,{\r}{\kf25}Don't{\kf25} you{\kf30} know{\kf40} I{\kf45} love{\kf75} you
+Dialogue: 0,0:01:12.82,0:01:15.45,DEFAULT,,0,0,0,,{\r}{\kf21}Da{\kf34}ring{\kf207} Do
+Dialogue: 0,0:01:17.81,0:01:21.11,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf26} wan{\kf26}na{\kf37} be{\kf26} lo{\kf26}yal{\kf26} like{\kf26} I'm{\kf26} supposed{\kf47} to{\kf38} be
+Dialogue: 0,0:01:21.79,0:01:25.72,DEFAULT,,0,0,0,,{\r}{\kf32}So{\kf32} I{\kf32} don't{\kf21} real{\kf27}ly{\kf21} mind{\kf21} the{\kf27} way{\kf27} you're{\kf27} dri{\kf21}ving{\kf21} me{\kf43} cra{\kf42}zy
+Dialogue: 0,0:01:25.99,0:01:29.85,DEFAULT,,0,0,0,,{\r}{\kf28}I'll{\kf28} ne{\kf28}ver{\kf28} leave{\kf22} you{\kf22} han{\kf22}gin'{\kf22} e{\kf22}ven{\kf22} if{\kf22} you{\kf22} mis{\kf45}treat{\kf53} me
+Dialogue: 0,0:01:30.04,0:01:33.60,DEFAULT,,0,0,0,,{\r}{\kf28}Cause{\kf42} I{\kf28} on{\kf23}ly{\kf18} care{\kf23} a{\kf42}bout{\kf152} you
+Dialogue: 0,0:01:34.35,0:01:36.11,DEFAULT,,0,0,0,,{\r}{\kf23}Look{\kf23} at{\kf45} me{\kf28} Da{\kf57}ring
+Dialogue: 0,0:01:36.97,0:01:38.89,DEFAULT,,0,0,0,,{\r}{\kf23}I'm{\kf23} as{\kf23} da{\kf23}ring{\kf46} as{\kf53} you
+Dialogue: 0,0:01:39.49,0:01:40.12,DEFAULT,,0,0,0,,{\r}{\kf28}Da{\kf36}ring
+Dialogue: 0,0:01:42.52,0:01:44.29,DEFAULT,,0,0,0,,{\r}{\kf23}Can't{\kf23} you{\kf57} see{\kf23} Da{\kf50}ring
+Dialogue: 0,0:01:45.19,0:01:47.14,DEFAULT,,0,0,0,,{\r}{\kf22}I'm{\kf22} as{\kf22} da{\kf22}ring{\kf45} as{\kf62} you
+Dialogue: 0,0:01:47.74,0:01:48.37,DEFAULT,,0,0,0,,{\r}{\kf21}Da{\kf43}ring
+Dialogue: 0,0:01:51.07,0:01:53.74,DEFAULT,,0,0,0,,{\r}{\kf20}Please{\kf20} oh{\kf77} please{\kf20} take{\kf20} me{\kf20} with{\kf89} you
+Dialogue: 0,0:01:54.15,0:01:56.70,DEFAULT,,0,0,0,,{\r}{\kf20}Da{\kf20}ring{\kf215} Do
+Dialogue: 0,0:01:59.02,0:02:02.14,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} have{\kf22} been{\kf22} an{\kf22} e{\kf22}le{\kf22}ment{\kf22} of{\kf39} har{\kf50}mo{\kf46}ny
+Dialogue: 0,0:02:02.85,0:02:06.71,DEFAULT,,0,0,0,,{\r}{\kf35}And{\kf23} I{\kf23} was{\kf23} one{\kf23} of{\kf23} those{\kf23} who{\kf23} stopped{\kf23} the{\kf23} world{\kf23} go{\kf23}ing{\kf58} cra{\kf40}zy
+Dialogue: 0,0:02:06.90,0:02:10.87,DEFAULT,,0,0,0,,{\r}{\kf24}So{\kf24} take{\kf24} a{\kf24}no{\kf24}ther{\kf24} look{\kf24} be{\kf24}fore{\kf24} you{\kf24} say{\kf24} you{\kf24} don't{\kf47} need{\kf62} me
+Dialogue: 0,0:02:11.10,0:02:14.70,DEFAULT,,0,0,0,,{\r}{\kf19}Cause{\kf52} I{\kf19} on{\kf19}ly{\kf19} care{\kf24} a{\kf33}bout{\kf137} you{\kf38}~
+Dialogue: 0,0:02:15.26,0:02:17.14,DEFAULT,,0,0,0,,{\r}{\kf30}Stay{\kf24} with{\kf36} me{\kf30} Da{\kf67}ring
+Dialogue: 0,0:02:17.96,0:02:19.61,DEFAULT,,0,0,0,,{\r}{\kf26}Tell{\kf26} me{\kf26} what{\kf46} to{\kf41} do
+Dialogue: 0,0:02:20.51,0:02:21.11,DEFAULT,,0,0,0,,{\r}{\kf24}Da{\kf36}ring
+Dialogue: 0,0:02:23.47,0:02:25.16,DEFAULT,,0,0,0,,{\r}{\kf29}Stay{\kf29} with{\kf47} me{\kf29} Da{\kf35}ring
+Dialogue: 0,0:02:26.10,0:02:27.90,DEFAULT,,0,0,0,,{\r}{\kf22}Tell{\kf22} me{\kf22} what{\kf51} to{\kf63} do
+Dialogue: 0,0:02:28.72,0:02:29.25,DEFAULT,,0,0,0,,{\r}{\kf20}Da{\kf33}ring
+Dialogue: 0,0:02:32.06,0:02:35.02,DEFAULT,,0,0,0,,{\r}{\kf20}I'd{\kf30} be{\kf50} glad{\kf20} to{\kf20} do{\kf50} a{\kf50}ny{\kf56}thing
+Dialogue: 0,0:02:35.36,0:02:38.02,DEFAULT,,0,0,0,,{\r}{\kf20}For{\kf246} you
+Dialogue: 0,0:02:40.05,0:02:43.27,DEFAULT,,0,0,0,,{\r}{\kf24}Can't{\kf24} you{\kf24} see{\kf24} that{\kf24} you{\kf24} and{\kf24} me{\kf24} will{\kf24} be{\kf24} best{\kf82} friends
+Dialogue: 0,0:02:43.76,0:02:47.29,DEFAULT,,0,0,0,,{\r}{\kf26}Cause{\kf26} I{\kf26} know{\kf26} all{\kf26} your{\kf26} sto{\kf26}ries{\kf26} from{\kf26} be{\kf26}gin{\kf26}ning{\kf26} to{\kf41} end
+Dialogue: 0,0:02:48.07,0:02:51.49,DEFAULT,,0,0,0,,{\r}{\kf39}E{\kf29}very{\kf24} sin{\kf24}gle{\kf19} chap{\kf24}ter{\kf24} that{\kf24} has{\kf24} e{\kf24}ver{\kf24} been{\kf62} penned
+Dialogue: 0,0:02:51.97,0:02:55.76,DEFAULT,,0,0,0,,{\r}{\kf29}Cause{\kf53} I{\kf19} on{\kf19}ly{\kf19} care{\kf19} a{\kf38}bout{\kf183} you
+Dialogue: 0,0:02:56.44,0:02:58.01,DEFAULT,,0,0,0,,{\r}{\kf69}Hey{\kf34} Da{\kf55}ring
+Dialogue: 0,0:02:59.02,0:03:00.71,DEFAULT,,0,0,0,,{\r}{\kf25}What{\kf25}cha{\kf25} gon{\kf25}na{\kf69} do
+Dialogue: 0,0:03:01.61,0:03:02.10,DEFAULT,,0,0,0,,{\r}{\kf10}Da{\kf39}ring
+Dialogue: 0,0:03:02.85,0:03:04.72,DEFAULT,,0,0,0,,{\r}{\kf26}Hey{\kf26} what{\kf26}cha{\kf26} gon{\kf32}na{\kf52} do
+Dialogue: 0,0:03:05.66,0:03:06.26,DEFAULT,,0,0,0,,{\r}{\kf20}Da{\kf40}ring
+Dialogue: 0,0:03:07.01,0:03:08.85,DEFAULT,,0,0,0,,{\r}{\kf23}Hey{\kf23} what{\kf23}cha{\kf23} gon{\kf29}na{\kf63} do
+Dialogue: 0,0:03:09.75,0:03:10.39,DEFAULT,,0,0,0,,{\r}{\kf28}Da{\kf36}ring
+Dialogue: 0,0:03:13.09,0:03:16.05,DEFAULT,,0,0,0,,{\r}{\kf19}Please{\kf19} oh{\kf102} please{\kf19} let{\kf19} me{\kf19} be{\kf44} your{\kf55} friend
+Dialogue: 0,0:03:16.12,0:03:19.09,DEFAULT,,0,0,0,,{\r}{\kf27}Da{\kf19}ring{\kf250} Do

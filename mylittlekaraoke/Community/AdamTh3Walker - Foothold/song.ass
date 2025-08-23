@@ -1,67 +1,74 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Foothold
+Artist: AdamTh3Walker
+Original Timing: mylittlekaraoke.com by Picklezapper
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:30.45,0:00:38.56,DEFAULT,,0,0,0,,{\kf127}I've{\kf123} been{\kf127} watch{\kf105}ing{\kf214} you
-Dialogue: 0,0:00:42.55,0:00:51.70,DEFAULT,,0,0,0,,{\kf68}Giv{\kf37}ing{\kf59} up{\kf64} all{\kf96} of{\kf23} the{\kf55} things{\kf41} you{\kf345} had
-Dialogue: 0,0:00:54.83,0:01:03.31,DEFAULT,,0,0,0,,{\kf50}I{\kf28} was{\kf41} lo{\kf32}~st{\kf41} a{\kf59}mong{\kf37} the{\kf59} foot{\kf82}hills{\kf263} too
-Dialogue: 0,0:01:06.89,0:01:16.27,DEFAULT,,0,0,0,,{\kf41}I{\kf37} fled{\kf55} high{\kf23}er{\kf96} to{\kf32} this{\kf50} pre{\kf41}cious{\kf55} la{\kf309}~nd
-Dialogue: 0,0:01:17.18,0:01:22.17,DEFAULT,,0,0,0,,{\kf68}O{\kf78}o{\kf109}o{\kf159}o{\kf41}oh
-Dialogue: 0,0:01:24.39,0:01:30.87,DEFAULT,,0,0,0,,{\kf32}The{\kf59} air{\kf59} is{\kf37} rich{\kf41} and{\kf64} soil{\kf37} is{\kf55} fer{\kf82}tile
-Dialogue: 0,0:01:36.85,0:01:41.57,DEFAULT,,0,0,0,,{\kf23}So{\kf28} give{\kf23} me{\kf23} your{\kf313} hand
-Dialogue: 0,0:01:42.88,0:01:48.55,DEFAULT,,0,0,0,,{\kf32}So{\kf28} give{\kf37} me{\kf19} your{\kf136} ha{\kf150}~{\kf109}~nd
-Dialogue: 0,0:01:49.41,0:01:58.93,DEFAULT,,0,0,0,,{\kf28}E{\kf59}ven{\kf41} if{\kf28} you{\kf37} for{\kf50}get{\kf55} me{\kf59} in{\kf73} a{\kf82} mo{\kf82}ment's{\kf114} time
-Dialogue: 0,0:01:59.65,0:02:02.46,DEFAULT,,0,0,0,,{\kf59}You'll{\kf59} be{\kf123} fine
-Dialogue: 0,0:02:13.25,0:02:16.06,DEFAULT,,0,0,0,,{\kf14}For{\kf50} pa{\kf19}ra{\kf46}dise{\kf19} you're{\kf46} mov{\kf19}ing{\kf28} slow
-Dialogue: 0,0:02:16.38,0:02:17.56,DEFAULT,,0,0,0,,{\kf23}Cross{\kf23} pre{\kf23}ci{\kf28}pice
-Dialogue: 0,0:02:18.01,0:02:19.14,DEFAULT,,0,0,0,,{\kf10}And{\kf23} fro{\kf19}zen{\kf32} snow
-Dialogue: 0,0:02:19.32,0:02:21.68,DEFAULT,,0,0,0,,{\kf32}Keep{\kf23} mov{\kf37}ing{\kf23} you{\kf19} a{\kf82}head
-Dialogue: 0,0:02:22.36,0:02:23.63,DEFAULT,,0,0,0,,{\kf41}Keep{\kf23} mov{\kf55}ing
-Dialogue: 0,0:02:25.99,0:02:28.71,DEFAULT,,0,0,0,,{\kf14}Re{\kf23}mem{\kf19}ber{\kf14} where{\kf14} you{\kf32} last{\kf14} saw{\kf14} your{\kf37}self{\kf32} clear{\kf28}ly
-Dialogue: 0,0:02:28.89,0:02:31.43,DEFAULT,,0,0,0,,{\kf19}Ask{\kf28}ing{\kf28} why{\kf14} you{\kf14} ha{\kf10}ted{\kf14} get{\kf19}ting{\kf14} up{\kf23} ear{\kf19}ly
-Dialogue: 0,0:02:31.88,0:02:33.24,DEFAULT,,0,0,0,,{\kf32}Don't{\kf23} be{\kf14} lead{\kf19} as{\kf28}tray
-Dialogue: 0,0:02:34.51,0:02:36.87,DEFAULT,,0,0,0,,{\kf37}Keep{\kf19} mov{\kf28}ing{\kf28} your{\kf32} own{\kf73} way
-Dialogue: 0,0:02:38.00,0:02:40.31,DEFAULT,,0,0,0,,{\kf109}There's{\kf10} a{\kf96} love
-Dialogue: 0,0:02:40.54,0:02:43.30,DEFAULT,,0,0,0,,{\kf14}A{\kf141} sa{\kf14}cri{\kf96}fice
-Dialogue: 0,0:02:44.03,0:02:49.47,DEFAULT,,0,0,0,,{\kf87}Haun{\kf23}ted{\kf91} by{\kf23} this{\kf91} bad{\kf28} ad{\kf105}vice
-Dialogue: 0,0:02:50.10,0:02:52.55,DEFAULT,,0,0,0,,{\kf19}Gi{\kf23}ven{\kf37} time{\kf23} the{\kf41} heart{\kf23} will{\kf23} wilt
-Dialogue: 0,0:02:52.73,0:02:55.50,DEFAULT,,0,0,0,,{\kf28}And{\kf37} heal{\kf19} it{\kf46}self{\kf28} with{\kf28} what{\kf14} it{\kf23} will
-Dialogue: 0,0:02:56.27,0:02:58.49,DEFAULT,,0,0,0,,{\kf28}Let{\kf28}ters,{\kf46} songs,{\kf14} and{\kf28} bits{\kf14} of{\kf41} string
-Dialogue: 0,0:02:59.21,0:03:01.52,DEFAULT,,0,0,0,,{\kf32}Don't{\kf23} let{\kf10} a{\kf19}ny{\kf23} ha{\kf32}tred{\kf23} in
-Dialogue: 0,0:03:02.25,0:03:04.65,DEFAULT,,0,0,0,,{\kf32}Al{\kf32}ways{\kf28} ma{\kf19}kin'{\kf14} re{\kf32}feren{\kf37}ces
-Dialogue: 0,0:03:04.88,0:03:07.69,DEFAULT,,0,0,0,,{\kf14}To{\kf23} pas{\kf28}sa{\kf55}ges{\kf10} in{\kf28} books{\kf37} you've{\kf23} read
-Dialogue: 0,0:03:08.37,0:03:10.73,DEFAULT,,0,0,0,,{\kf23}Rea{\kf46}ching{\kf28} out{\kf19} in{\kf28} to{\kf23} the{\kf37} dark
-Dialogue: 0,0:03:11.32,0:03:14.04,DEFAULT,,0,0,0,,{\kf28}Set{\kf28}tl{\kf32}ing{\kf28} for{\kf37} hope{\kf19} in{\kf68}stead
-Dialogue: 0,0:03:14.81,0:03:18.48,DEFAULT,,0,0,0,,{\kf37}On{\kf23}ly{\kf28} let{\kf28} go{\kf32} of{\kf19} the{\kf64} flat{\kf14} li{\kf50}~ne
-Dialogue: 0,0:03:18.93,0:03:23.19,DEFAULT,,0,0,0,,{\kf28}On{\kf37}ly{\kf37} let{\kf37} go{\kf10}~{\kf28} to{\kf37} find{\kf19} a{\kf32} foot{\kf37}hold
-Dialogue: 0,0:03:23.55,0:03:25.96,DEFAULT,,0,0,0,,{\kf64}Old{\kf64} ho{\kf41}ri{\kf23}~{\kf32}zon
-Dialogue: 0,0:03:26.59,0:03:28.90,DEFAULT,,0,0,0,,{\kf28}La{\kf14}zy{\kf32} week{\kf23}ends,{\kf41} crow{\kf10}ded{\kf28} streets
-Dialogue: 0,0:03:29.36,0:03:31.94,DEFAULT,,0,0,0,,{\kf19}Be{\kf28}hind{\kf14} the{\kf28} cur{\kf41}tains{\kf32} you{\kf19} can{\kf32} see
-Dialogue: 0,0:03:32.62,0:03:34.93,DEFAULT,,0,0,0,,{\kf32}Ta{\kf37}king{\kf32} all{\kf23} the{\kf46} time{\kf14} a{\kf23}way
-Dialogue: 0,0:03:35.70,0:03:37.29,DEFAULT,,0,0,0,,{\kf19}You{\kf41} can't{\kf37} re{\kf50}late
-Dialogue: 0,0:03:39.19,0:03:42.73,DEFAULT,,0,0,0,,{\kf19}On{\kf32}ly{\kf28} let{\kf37} go{\kf19} of{\kf19} the{\kf28} flat{\kf50} line
-Dialogue: 0,0:03:43.23,0:03:47.62,DEFAULT,,0,0,0,,{\kf32}On{\kf23}ly{\kf32} let{\kf28} go{\kf19} to{\kf32} find{\kf19} a{\kf28} foot{\kf59}hold
-Dialogue: 0,0:03:47.80,0:03:50.66,DEFAULT,,0,0,0,,{\kf64}Old{\kf82} ho{\kf32}ri{\kf23}~{\kf68}zon
-Dialogue: 0,0:03:50.89,0:03:53.24,DEFAULT,,0,0,0,,{\kf32}La{\kf19}zy{\kf32} week{\kf28}ends,{\kf37} crow{\kf10}ded{\kf32} streets
-Dialogue: 0,0:03:53.79,0:03:56.37,DEFAULT,,0,0,0,,{\kf10}Be{\kf28}hind{\kf10} the{\kf32} cur{\kf23}tains{\kf28} you{\kf23} can't{\kf41} see
-Dialogue: 0,0:03:56.92,0:03:59.36,DEFAULT,,0,0,0,,{\kf32}Tak{\kf28}ing{\kf32} all{\kf14} the{\kf37} time{\kf14} a{\kf37}way
-Dialogue: 0,0:04:00.00,0:04:01.58,DEFAULT,,0,0,0,,{\kf23}You{\kf32} can't{\kf23} re{\kf55}late
-Dialogue: 0,0:04:03.44,0:04:07.16,DEFAULT,,0,0,0,,{\kf28}On{\kf28}ly{\kf23} let{\kf32} go{\kf23} of{\kf14} the{\kf50} flat{\kf73} line
-Dialogue: 0,0:04:07.61,0:04:11.78,DEFAULT,,0,0,0,,{\kf19}On{\kf37}ly{\kf37} let{\kf46} go{\kf19} to{\kf46} find{\kf19} a{\kf41} foot{\kf41}hold
-Dialogue: 0,0:04:12.10,0:04:14.73,DEFAULT,,0,0,0,,{\kf64}Old{\kf68} ho{\kf37}ri{\kf23}~{\kf46}zon
-Dialogue: 0,0:04:15.18,0:04:17.68,DEFAULT,,0,0,0,,{\kf28}La{\kf19}zy{\kf46} week{\kf28}ends,{\kf28} crow{\kf10}ded{\kf50} streets
-Dialogue: 0,0:04:17.99,0:04:20.49,DEFAULT,,0,0,0,,{\kf10}Be{\kf41}hind{\kf10} the{\kf23} cur{\kf41}tains{\kf28} you{\kf28} can't{\kf32} see
-Dialogue: 0,0:04:21.17,0:04:23.66,DEFAULT,,0,0,0,,{\kf37}Tak{\kf23}ing{\kf37} all{\kf19} the{\kf41} time{\kf14} a{\kf32}way
-Dialogue: 0,0:04:24.29,0:04:25.70,DEFAULT,,0,0,0,,{\kf28}You{\kf28} can't{\kf28} re{\kf32}late
-Dialogue: 0,0:04:25.88,0:04:27.20,DEFAULT,,0,0,0,,{\kf28}You{\kf28} can't{\kf28} re{\kf23}late
-Dialogue: 0,0:04:27.38,0:04:28.69,DEFAULT,,0,0,0,,{\kf28}You{\kf28} can't{\kf28} re{\kf28}late
-Dialogue: 0,0:04:28.87,0:04:30.19,DEFAULT,,0,0,0,,{\kf28}You{\kf28} can't{\kf28} re{\kf28}late
-Dialogue: 0,0:04:30.37,0:04:31.68,DEFAULT,,0,0,0,,{\kf28}You{\kf28} can't{\kf28} re{\kf28}late
-Dialogue: 0,0:04:31.86,0:04:33.31,DEFAULT,,0,0,0,,{\kf28}You{\kf28} can't{\kf28} re{\kf41}late
+Dialogue: 0,0:00:30.45,0:00:38.56,DEFAULT,,0,0,0,,{\r}{\kf148}I've{\kf143} been{\kf148} watch{\kf122}ing{\kf250} you
+Dialogue: 0,0:00:42.55,0:00:51.71,DEFAULT,,0,0,0,,{\r}{\kf79}Giv{\kf42}ing{\kf69} up{\kf74} all{\kf111} of{\kf26} the{\kf64} things{\kf48} you{\kf403} had
+Dialogue: 0,0:00:54.84,0:01:03.31,DEFAULT,,0,0,0,,{\r}{\kf61}I{\kf33} was{\kf50} lo{\kf39}~st{\kf50} a{\kf73}mong{\kf45} the{\kf73} foot{\kf100}hills{\kf324} too
+Dialogue: 0,0:01:06.89,0:01:16.28,DEFAULT,,0,0,0,,{\r}{\kf52}I{\kf46} fled{\kf69} high{\kf29}er{\kf122} to{\kf41} this{\kf64} pre{\kf52}cious{\kf69} la{\kf394}~nd
+Dialogue: 0,0:01:17.18,0:01:22.17,DEFAULT,,0,0,0,,{\r}{\kf75}O{\kf85}o{\kf120}o{\kf175}o{\kf44}oh
+Dialogue: 0,0:01:24.39,0:01:30.87,DEFAULT,,0,0,0,,{\r}{\kf44}The{\kf83} air{\kf83} is{\kf51} rich{\kf57} and{\kf89} soil{\kf51} is{\kf76} fer{\kf114}tile
+Dialogue: 0,0:01:36.86,0:01:41.57,DEFAULT,,0,0,0,,{\r}{\kf26}So{\kf31} give{\kf26} me{\kf26} your{\kf362} hand
+Dialogue: 0,0:01:42.89,0:01:48.55,DEFAULT,,0,0,0,,{\r}{\kf35}So{\kf30} give{\kf41} me{\kf20} your{\kf152} ha{\kf167}~{\kf122}~nd
+Dialogue: 0,0:01:49.41,0:01:58.93,DEFAULT,,0,0,0,,{\r}{\kf37}E{\kf80}ven{\kf55} if{\kf37} you{\kf49} for{\kf68}get{\kf74} me{\kf80} in{\kf98} a{\kf111} mo{\kf111}ment's{\kf152} time
+Dialogue: 0,0:01:59.66,0:02:02.47,DEFAULT,,0,0,0,,{\r}{\kf69}You'll{\kf69} be{\kf143} fine
+Dialogue: 0,0:02:13.26,0:02:16.07,DEFAULT,,0,0,0,,{\r}{\kf16}For{\kf59} pa{\kf22}ra{\kf54}dise{\kf22} you're{\kf54} mov{\kf22}ing{\kf32} slow
+Dialogue: 0,0:02:16.38,0:02:17.56,DEFAULT,,0,0,0,,{\r}{\kf28}Cross{\kf28} pre{\kf28}ci{\kf34}pice
+Dialogue: 0,0:02:18.01,0:02:19.15,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf31} fro{\kf25}zen{\kf44} snow
+Dialogue: 0,0:02:19.33,0:02:21.69,DEFAULT,,0,0,0,,{\r}{\kf35}Keep{\kf25} mov{\kf40}ing{\kf25} you{\kf20} a{\kf91}head
+Dialogue: 0,0:02:22.37,0:02:23.64,DEFAULT,,0,0,0,,{\r}{\kf44}Keep{\kf24} mov{\kf59}ing
+Dialogue: 0,0:02:25.99,0:02:28.71,DEFAULT,,0,0,0,,{\r}{\kf16}Re{\kf26}mem{\kf21}ber{\kf16} where{\kf16} you{\kf37} last{\kf16} saw{\kf16} your{\kf42}self{\kf37} clear{\kf29}ly
+Dialogue: 0,0:02:28.89,0:02:31.43,DEFAULT,,0,0,0,,{\r}{\kf24}Ask{\kf35}ing{\kf35} why{\kf18} you{\kf18} ha{\kf12}ted{\kf18} get{\kf24}ting{\kf18} up{\kf30} ear{\kf22}ly
+Dialogue: 0,0:02:31.89,0:02:33.25,DEFAULT,,0,0,0,,{\r}{\kf38}Don't{\kf27} be{\kf16} lead{\kf22} as{\kf33}tray
+Dialogue: 0,0:02:34.51,0:02:36.87,DEFAULT,,0,0,0,,{\r}{\kf40}Keep{\kf20} mov{\kf30}ing{\kf30} your{\kf35} own{\kf81} way
+Dialogue: 0,0:02:38.00,0:02:40.32,DEFAULT,,0,0,0,,{\r}{\kf118}There's{\kf10} a{\kf103} love
+Dialogue: 0,0:02:40.54,0:02:43.31,DEFAULT,,0,0,0,,{\r}{\kf14}A{\kf148} sa{\kf14}cri{\kf101}fice
+Dialogue: 0,0:02:44.03,0:02:49.47,DEFAULT,,0,0,0,,{\r}{\kf105}Haun{\kf28}ted{\kf111} by{\kf28} this{\kf111} bad{\kf33} ad{\kf128}vice
+Dialogue: 0,0:02:50.11,0:02:52.55,DEFAULT,,0,0,0,,{\r}{\kf24}Gi{\kf30}ven{\kf48} time{\kf30} the{\kf54} heart{\kf30} will{\kf29} wilt
+Dialogue: 0,0:02:52.74,0:02:55.50,DEFAULT,,0,0,0,,{\r}{\kf35}And{\kf46} heal{\kf23} it{\kf58}self{\kf35} with{\kf35} what{\kf17} it{\kf28} will
+Dialogue: 0,0:02:56.27,0:02:58.49,DEFAULT,,0,0,0,,{\r}{\kf31}Let{\kf31}ters,{\kf52} songs,{\kf15} and{\kf31} bits{\kf15} of{\kf47} string
+Dialogue: 0,0:02:59.22,0:03:01.53,DEFAULT,,0,0,0,,{\r}{\kf46}Don't{\kf33} let{\kf13} a{\kf26}ny{\kf33} ha{\kf46}tred{\kf34} in
+Dialogue: 0,0:03:02.26,0:03:04.66,DEFAULT,,0,0,0,,{\r}{\kf40}Al{\kf40}ways{\kf34} ma{\kf23}kin'{\kf17} re{\kf40}feren{\kf46}ces
+Dialogue: 0,0:03:04.88,0:03:07.69,DEFAULT,,0,0,0,,{\r}{\kf18}To{\kf30} pas{\kf36}sa{\kf72}ges{\kf12} in{\kf36} books{\kf48} you've{\kf29} read
+Dialogue: 0,0:03:08.37,0:03:10.73,DEFAULT,,0,0,0,,{\r}{\kf27}Rea{\kf54}ching{\kf32} out{\kf21} in{\kf32} to{\kf27} the{\kf43} dark
+Dialogue: 0,0:03:11.32,0:03:14.04,DEFAULT,,0,0,0,,{\r}{\kf31}Set{\kf31}tl{\kf37}ing{\kf31} for{\kf42} hope{\kf21} in{\kf79}stead
+Dialogue: 0,0:03:14.81,0:03:18.48,DEFAULT,,0,0,0,,{\r}{\kf46}On{\kf29}ly{\kf34} let{\kf34} go{\kf40} of{\kf23} the{\kf80} flat{\kf17} li{\kf64}~ne
+Dialogue: 0,0:03:18.94,0:03:23.20,DEFAULT,,0,0,0,,{\r}{\kf39}On{\kf52}ly{\kf52} let{\kf52} go{\kf13}~{\kf39} to{\kf52} find{\kf26} a{\kf46} foot{\kf55}hold
+Dialogue: 0,0:03:23.56,0:03:25.96,DEFAULT,,0,0,0,,{\r}{\kf69}Old{\kf69} ho{\kf44}ri{\kf24}~{\kf34}zon
+Dialogue: 0,0:03:26.60,0:03:28.91,DEFAULT,,0,0,0,,{\r}{\kf36}La{\kf18}zy{\kf43} week{\kf30}ends,{\kf55} crow{\kf12}ded{\kf37} streets
+Dialogue: 0,0:03:29.36,0:03:31.95,DEFAULT,,0,0,0,,{\r}{\kf22}Be{\kf34}hind{\kf17} the{\kf34} cur{\kf50}tains{\kf39} you{\kf22} can{\kf40} see
+Dialogue: 0,0:03:32.62,0:03:34.94,DEFAULT,,0,0,0,,{\r}{\kf36}Ta{\kf41}king{\kf36} all{\kf26} the{\kf51} time{\kf15} a{\kf26}way
+Dialogue: 0,0:03:35.71,0:03:37.29,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf45} can't{\kf40} re{\kf54}late
+Dialogue: 0,0:03:39.20,0:03:42.73,DEFAULT,,0,0,0,,{\r}{\kf28}On{\kf50}ly{\kf42} let{\kf57} go{\kf28} of{\kf28} the{\kf42} flat{\kf79} line
+Dialogue: 0,0:03:43.23,0:03:47.63,DEFAULT,,0,0,0,,{\r}{\kf52}On{\kf37}ly{\kf52} let{\kf45} go{\kf30} to{\kf52} find{\kf30} a{\kf45} foot{\kf97}hold
+Dialogue: 0,0:03:47.81,0:03:50.67,DEFAULT,,0,0,0,,{\r}{\kf68}Old{\kf87} ho{\kf34}ri{\kf24}~{\kf73}zon
+Dialogue: 0,0:03:50.89,0:03:53.25,DEFAULT,,0,0,0,,{\r}{\kf40}La{\kf23}zy{\kf40} week{\kf35}ends,{\kf46} crow{\kf12}ded{\kf40} streets
+Dialogue: 0,0:03:53.79,0:03:56.38,DEFAULT,,0,0,0,,{\r}{\kf12}Be{\kf37}hind{\kf12} the{\kf43} cur{\kf31}tains{\kf37} you{\kf31} can't{\kf55} see
+Dialogue: 0,0:03:56.92,0:03:59.37,DEFAULT,,0,0,0,,{\r}{\kf41}Tak{\kf35}ing{\kf41} all{\kf18} the{\kf47} time{\kf18} a{\kf45}way
+Dialogue: 0,0:04:00.00,0:04:01.59,DEFAULT,,0,0,0,,{\r}{\kf27}You{\kf38} can't{\kf27} re{\kf67}late
+Dialogue: 0,0:04:03.45,0:04:07.17,DEFAULT,,0,0,0,,{\r}{\kf38}On{\kf38}ly{\kf32} let{\kf44} go{\kf32} of{\kf19} the{\kf69} flat{\kf100} line
+Dialogue: 0,0:04:07.62,0:04:11.79,DEFAULT,,0,0,0,,{\r}{\kf25}On{\kf51}ly{\kf51} let{\kf63} go{\kf25} to{\kf63} find{\kf25} a{\kf57} foot{\kf57}hold
+Dialogue: 0,0:04:12.11,0:04:14.73,DEFAULT,,0,0,0,,{\r}{\kf71}Old{\kf76} ho{\kf40}ri{\kf25}~{\kf51}zon
+Dialogue: 0,0:04:15.19,0:04:17.68,DEFAULT,,0,0,0,,{\r}{\kf33}La{\kf22}zy{\kf55} week{\kf33}ends,{\kf33} crow{\kf11}ded{\kf62} streets
+Dialogue: 0,0:04:18.00,0:04:20.49,DEFAULT,,0,0,0,,{\r}{\kf11}Be{\kf49}hind{\kf11} the{\kf27} cur{\kf49}tains{\kf32} you{\kf32} can't{\kf38} see
+Dialogue: 0,0:04:21.17,0:04:23.66,DEFAULT,,0,0,0,,{\r}{\kf45}Tak{\kf28}ing{\kf45} all{\kf23} the{\kf51} time{\kf17} a{\kf40}way
+Dialogue: 0,0:04:24.30,0:04:25.70,DEFAULT,,0,0,0,,{\r}{\kf34}You{\kf34} can't{\kf34} re{\kf39}late
+Dialogue: 0,0:04:25.89,0:04:27.20,DEFAULT,,0,0,0,,{\r}{\kf34}You{\kf34} can't{\kf34} re{\kf29}late
+Dialogue: 0,0:04:27.38,0:04:28.70,DEFAULT,,0,0,0,,{\r}{\kf33}You{\kf33} can't{\kf33} re{\kf32}late
+Dialogue: 0,0:04:28.88,0:04:30.19,DEFAULT,,0,0,0,,{\r}{\kf33}You{\kf33} can't{\kf33} re{\kf32}late
+Dialogue: 0,0:04:30.37,0:04:31.69,DEFAULT,,0,0,0,,{\r}{\kf33}You{\kf33} can't{\kf33} re{\kf32}late
+Dialogue: 0,0:04:31.87,0:04:33.32,DEFAULT,,0,0,0,,{\r}{\kf32}You{\kf32} can't{\kf32} re{\kf49}late

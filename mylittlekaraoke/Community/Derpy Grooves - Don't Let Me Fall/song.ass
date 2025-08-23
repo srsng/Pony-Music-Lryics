@@ -1,37 +1,44 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Don't Let Me Fall
+Artist: DerpyGrooves
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:35.89,0:00:37.67,DEFAULT,,0,0,0,,{\kf24}My{\kf19} head{\kf15} in{\kf15} the{\kf66} clouds
-Dialogue: 0,0:00:39.78,0:00:42.31,DEFAULT,,0,0,0,,{\kf19}My{\kf19} hooves{\kf15} on{\kf57} the{\kf80} ground
-Dialogue: 0,0:00:43.63,0:00:46.53,DEFAULT,,0,0,0,,{\kf24}There’s{\kf15} a{\kf24} rain{\kf33}bow{\kf29} some{\kf29}where{\kf24} spe{\kf43}cial
-Dialogue: 0,0:00:47.61,0:00:50.28,DEFAULT,,0,0,0,,{\kf19}Ei{\kf15}ther{\kf29} nap{\kf15}ping{\kf15} or{\kf24} dash{\kf15}ing{\kf15} a{\kf71}round
-Dialogue: 0,0:00:51.69,0:00:55.39,DEFAULT,,0,0,0,,{\kf52}She{\kf33} said{\kf52} my{\kf57} wings{\kf19} were{\kf15} made{\kf33} of
-Dialogue: 0,0:00:56.19,0:00:58.72,DEFAULT,,0,0,0,,{\kf19}Gos{\kf15}sa{\kf19}mer{\kf24} and{\kf19} morn{\kf15}ing{\kf75} dew
-Dialogue: 0,0:00:59.66,0:01:03.03,DEFAULT,,0,0,0,,{\kf24}How{\kf24} can{\kf33} I{\kf38} hold{\kf29} all{\kf19} these{\kf24} ap{\kf47}ples
-Dialogue: 0,0:01:04.20,0:01:07.20,DEFAULT,,0,0,0,,{\kf19}When{\kf33} I’m{\kf15} think{\kf15}ing{\kf19} of{\kf29} you?
-Dialogue: 0,0:01:07.63,0:01:09.88,DEFAULT,,0,0,0,,{\kf24}Don't{\kf29} let{\kf29} me{\kf85} down
-Dialogue: 0,0:01:11.61,0:01:13.20,DEFAULT,,0,0,0,,{\kf19}Don't{\kf24} let{\kf29} me{\kf33} fall
-Dialogue: 0,0:01:13.44,0:01:16.25,DEFAULT,,0,0,0,,{\kf24}I{\kf19} can't{\kf24} pull{\kf24} my{\kf24}self{\kf15} to{\kf19}ge{\kf43}ther
-Dialogue: 0,0:01:18.45,0:01:21.55,DEFAULT,,0,0,0,,{\kf33}Don't{\kf29} let{\kf38} me{\kf57} fall{\kf19} a{\kf66}gain
-Dialogue: 0,0:01:22.44,0:01:24.41,DEFAULT,,0,0,0,,{\kf24}Don't{\kf24} let{\kf24} me{\kf75} down
-Dialogue: 0,0:01:25.72,0:01:27.27,DEFAULT,,0,0,0,,{\kf24}Don't{\kf24} let{\kf29} me{\kf29} fall
-Dialogue: 0,0:01:27.45,0:01:30.22,DEFAULT,,0,0,0,,{\kf19}I{\kf24} can't{\kf33} pull{\kf24} my{\kf19}self{\kf19} to{\kf19}ge{\kf38}ther
-Dialogue: 0,0:01:31.63,0:01:33.69,DEFAULT,,0,0,0,,{\kf24}Don't{\kf19} let{\kf29} me{\kf66} fall
-Dialogue: 0,0:01:37.48,0:01:39.22,DEFAULT,,0,0,0,,{\kf24}Don't{\kf15} let{\kf19} me{\kf80} down
-Dialogue: 0,0:02:43.63,0:02:45.78,DEFAULT,,0,0,0,,{\kf24}Don't{\kf24} let{\kf29} me{\kf75} down
-Dialogue: 0,0:02:47.61,0:02:49.25,DEFAULT,,0,0,0,,{\kf24}Don't{\kf24} let{\kf29} me{\kf38} fall
-Dialogue: 0,0:02:49.48,0:02:52.34,DEFAULT,,0,0,0,,{\kf19}I{\kf19} can't{\kf24} pull{\kf24} my{\kf29}self{\kf15} to{\kf19}ge{\kf52}ther
-Dialogue: 0,0:02:54.41,0:02:57.50,DEFAULT,,0,0,0,,{\kf29}Don't{\kf24} let{\kf29} me{\kf57} fall{\kf19} a{\kf61}gain
-Dialogue: 0,0:02:58.48,0:03:00.41,DEFAULT,,0,0,0,,{\kf24}Don't{\kf19} let{\kf24} me{\kf75} down
-Dialogue: 0,0:03:01.72,0:03:03.22,DEFAULT,,0,0,0,,{\kf19}Don't{\kf24} let{\kf24} me{\kf24} fall
-Dialogue: 0,0:03:03.45,0:03:06.27,DEFAULT,,0,0,0,,{\kf19}I{\kf24} can't{\kf33} pull{\kf19} my{\kf24}self{\kf15} to{\kf19}ge{\kf43}ther
-Dialogue: 0,0:03:07.67,0:03:09.69,DEFAULT,,0,0,0,,{\kf19}Don't{\kf24} let{\kf29} me{\kf66} fall
-Dialogue: 0,0:03:13.39,0:03:15.22,DEFAULT,,0,0,0,,{\kf29}Don't{\kf19} let{\kf15} me{\kf29} down{\kf52}~
+Dialogue: 0,0:00:35.90,0:00:37.68,DEFAULT,,0,0,0,,{\r}{\kf31}My{\kf25} head{\kf18} in{\kf18} the{\kf86} clouds
+Dialogue: 0,0:00:39.79,0:00:42.32,DEFAULT,,0,0,0,,{\r}{\kf25}My{\kf25} hooves{\kf19} on{\kf76} the{\kf108} ground
+Dialogue: 0,0:00:43.63,0:00:46.54,DEFAULT,,0,0,0,,{\r}{\kf32}There’s{\kf19} a{\kf32} rain{\kf44}bow{\kf38} some{\kf38}where{\kf32} spe{\kf56}cial
+Dialogue: 0,0:00:47.61,0:00:50.29,DEFAULT,,0,0,0,,{\r}{\kf24}Ei{\kf18}ther{\kf36} nap{\kf18}ping{\kf18} or{\kf30} dash{\kf18}ing{\kf18} a{\kf87}round
+Dialogue: 0,0:00:51.69,0:00:55.40,DEFAULT,,0,0,0,,{\r}{\kf74}She{\kf47} said{\kf74} my{\kf81} wings{\kf27} were{\kf20} made{\kf47} of
+Dialogue: 0,0:00:56.19,0:00:58.72,DEFAULT,,0,0,0,,{\r}{\kf26}Gos{\kf19}sa{\kf26}mer{\kf32} and{\kf26} morn{\kf19}ing{\kf105} dew
+Dialogue: 0,0:00:59.66,0:01:03.04,DEFAULT,,0,0,0,,{\r}{\kf34}How{\kf34} can{\kf47} I{\kf54} hold{\kf41} all{\kf27} these{\kf34} ap{\kf67}ples
+Dialogue: 0,0:01:04.21,0:01:07.21,DEFAULT,,0,0,0,,{\r}{\kf44}When{\kf78} I’m{\kf33} think{\kf33}ing{\kf44} of{\kf68} you?
+Dialogue: 0,0:01:07.63,0:01:09.88,DEFAULT,,0,0,0,,{\r}{\kf32}Don't{\kf39} let{\kf39} me{\kf115} down
+Dialogue: 0,0:01:11.61,0:01:13.21,DEFAULT,,0,0,0,,{\r}{\kf29}Don't{\kf36} let{\kf43} me{\kf51} fall
+Dialogue: 0,0:01:13.44,0:01:16.26,DEFAULT,,0,0,0,,{\r}{\kf35}I{\kf28} can't{\kf35} pull{\kf35} my{\kf35}self{\kf21} to{\kf28}ge{\kf64}ther
+Dialogue: 0,0:01:18.46,0:01:21.55,DEFAULT,,0,0,0,,{\r}{\kf42}Don't{\kf36} let{\kf48} me{\kf73} fall{\kf24} a{\kf86}gain
+Dialogue: 0,0:01:22.44,0:01:24.41,DEFAULT,,0,0,0,,{\r}{\kf32}Don't{\kf32} let{\kf32} me{\kf101} down
+Dialogue: 0,0:01:25.72,0:01:27.27,DEFAULT,,0,0,0,,{\r}{\kf35}Don't{\kf35} let{\kf42} me{\kf43} fall
+Dialogue: 0,0:01:27.46,0:01:30.22,DEFAULT,,0,0,0,,{\r}{\kf27}I{\kf34} can't{\kf47} pull{\kf34} my{\kf27}self{\kf27} to{\kf27}ge{\kf54}ther
+Dialogue: 0,0:01:31.63,0:01:33.69,DEFAULT,,0,0,0,,{\r}{\kf36}Don't{\kf28} let{\kf43} me{\kf99} fall
+Dialogue: 0,0:01:37.49,0:01:39.22,DEFAULT,,0,0,0,,{\r}{\kf30}Don't{\kf18} let{\kf24} me{\kf101} down
+Dialogue: 0,0:02:43.63,0:02:45.79,DEFAULT,,0,0,0,,{\r}{\kf34}Don't{\kf34} let{\kf40} me{\kf108} down
+Dialogue: 0,0:02:47.61,0:02:49.26,DEFAULT,,0,0,0,,{\r}{\kf34}Don't{\kf34} let{\kf41} me{\kf55} fall
+Dialogue: 0,0:02:49.49,0:02:52.35,DEFAULT,,0,0,0,,{\r}{\kf27}I{\kf27} can't{\kf34} pull{\kf34} my{\kf41}self{\kf20} to{\kf27}ge{\kf76}ther
+Dialogue: 0,0:02:54.41,0:02:57.51,DEFAULT,,0,0,0,,{\r}{\kf40}Don't{\kf34} let{\kf40} me{\kf81} fall{\kf27} a{\kf87}gain
+Dialogue: 0,0:02:58.49,0:03:00.41,DEFAULT,,0,0,0,,{\r}{\kf32}Don't{\kf26} let{\kf32} me{\kf102} down
+Dialogue: 0,0:03:01.72,0:03:03.22,DEFAULT,,0,0,0,,{\r}{\kf32}Don't{\kf39} let{\kf39} me{\kf40} fall
+Dialogue: 0,0:03:03.46,0:03:06.27,DEFAULT,,0,0,0,,{\r}{\kf27}I{\kf34} can't{\kf48} pull{\kf27} my{\kf34}self{\kf21} to{\kf27}ge{\kf63}ther
+Dialogue: 0,0:03:07.68,0:03:09.69,DEFAULT,,0,0,0,,{\r}{\kf28}Don't{\kf35} let{\kf42} me{\kf97} fall
+Dialogue: 0,0:03:13.40,0:03:15.22,DEFAULT,,0,0,0,,{\r}{\kf37}Don't{\kf24} let{\kf18} me{\kf37} down{\kf67}~

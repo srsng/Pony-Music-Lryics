@@ -1,78 +1,85 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Proud to be a Brony
+Artist: BlackGryph0n
+Original Timing: mylittlekaraoke.com by Steven Knapp, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.30,0:00:09.20,DEFAULT,,0,0,0,,{\kf268}Ah{\kf253}~{\kf170}~
-Dialogue: 0,0:00:09.35,0:00:13.00,DEFAULT,,0,0,0,,{\kf72}Dun{\kf19} duh{\kf34} duh{\kf19} da{\kf16}~{\kf166} da
-Dialogue: 0,0:00:15.26,0:00:19.26,DEFAULT,,0,0,0,,{\kf19}Duh{\kf16} duh{\kf16} dun{\kf46}~{\kf38} da{\kf38} dun{\kf42} da{\kf23} duh{\kf38} da{\kf91} da
-Dialogue: 0,0:00:30.90,0:00:33.12,DEFAULT,,0,0,0,,{\kf8}I{\kf8} used{\kf8} to{\kf16} won{\kf8}der{\kf12} what{\kf12} friend{\kf8}ship{\kf12} could{\kf42} be
-Dialogue: 0,0:00:34.63,0:00:36.78,DEFAULT,,0,0,0,,{\kf8}Un{\kf8}til{\kf8} you{\kf16} all{\kf19} shared{\kf8} its{\kf19} mag{\kf8}ic{\kf8} with{\kf31} me
-Dialogue: 0,0:00:37.49,0:00:39.49,DEFAULT,,0,0,0,,{\kf16}While{\kf8} a{\kf16}go{\kf8} if{\kf12} you{\kf16} would{\kf16} ask{\kf8} me{\kf16}~
-Dialogue: 0,0:00:39.91,0:00:41.22,DEFAULT,,0,0,0,,{\kf8}What{\kf8} I{\kf8} watch{\kf12}~{\kf8} in{\kf12} my{\kf12} spare{\kf16} time
-Dialogue: 0,0:00:41.94,0:00:43.64,DEFAULT,,0,0,0,,{\kf8}No{\kf8} I{\kf12} prob'{\kf8}ly{\kf8} would{\kf8}n't{\kf12} tell{\kf16} you{\kf16}~
-Dialogue: 0,0:00:44.01,0:00:45.44,DEFAULT,,0,0,0,,{\kf8}What{\kf8} was{\kf8} re{\kf12}al{\kf8}ly{\kf12} on{\kf12} my{\kf8} mind{\kf19}~
-Dialogue: 0,0:00:46.24,0:00:47.82,DEFAULT,,0,0,0,,{\kf8}But{\kf12} late{\kf12}ly{\kf16} I've{\kf12} been{\kf16} think{\kf12}ing{\kf12}~
-Dialogue: 0,0:00:48.23,0:00:49.66,DEFAULT,,0,0,0,,{\kf8}Of{\kf8} a{\kf8} rea{\kf12}~{\kf8}son{\kf12} I{\kf16} should{\kf27} hide
-Dialogue: 0,0:00:49.78,0:00:51.96,DEFAULT,,0,0,0,,{\kf8}F-{\kf8}I-{\kf8}M{\kf8} as{\kf8} if{\kf8} to{\kf8} men{\kf8}tion{\kf12} it{\kf8} where{\kf12} pain{\kf8}ful{\kf16}~
-Dialogue: 0,0:00:52.42,0:00:54.41,DEFAULT,,0,0,0,,{\kf8}When{\kf8} it{\kf12} feels{\kf12} so{\kf12} good{\kf12} in{\kf68}side
-Dialogue: 0,0:00:54.53,0:00:56.48,DEFAULT,,0,0,0,,{\kf8}Why{\kf12} can't{\kf8} I{\kf12} men{\kf23}tion{\kf8} Flut{\kf12}ter{\kf12}shy{\kf23}~
-Dialogue: 0,0:00:56.56,0:00:57.88,DEFAULT,,0,0,0,,{\kf8}And{\kf8} her{\kf8} tim{\kf12}id{\kf12} lov{\kf12}ing{\kf19} mind?
-Dialogue: 0,0:00:58.18,0:01:00.55,DEFAULT,,0,0,0,,{\kf8}How{\kf8} she{\kf8} can{\kf8} be{\kf12} her{\kf12}self{\kf23} near{\kf8} an{\kf8}i{\kf12}mals{\kf8}~
-Dialogue: 0,0:01:00.63,0:01:02.10,DEFAULT,,0,0,0,,{\kf8}But{\kf8} shies{\kf8} a{\kf12}way{\kf8} from{\kf19} her{\kf19} own{\kf19} kind
-Dialogue: 0,0:01:02.70,0:01:04.81,DEFAULT,,0,0,0,,{\kf19}Why{\kf12} can't{\kf12} I{\kf12} men{\kf27}tion{\kf8} Pink{\kf12}ie{\kf8} Pie{\kf19}~
-Dialogue: 0,0:01:04.93,0:01:05.98,DEFAULT,,0,0,0,,{\kf8}And{\kf8} the{\kf8} way{\kf8} she{\kf12} kind{\kf16} of
-Dialogue: 0,0:01:06.28,0:01:09.18,DEFAULT,,0,0,0,,{\kf12}Acts{\kf19} a{\kf12} bit{\kf19} like{\kf27} me{\kf16} some{\kf38}times?
-Dialogue: 0,0:01:09.64,0:01:12.39,DEFAULT,,0,0,0,,{\kf8}You{\kf23} see{\kf19} I{\kf8} use{\kf16} to{\kf16} hate{\kf23} that{\kf16} I{\kf16} liked
-Dialogue: 0,0:01:13.06,0:01:18.90,DEFAULT,,0,0,0,,{\kf23}My{\kf19} Lit{\kf34}tle{\kf42} Po{\kf34}ny{\kf12} not{\kf12} an{\kf23}y{\kf16} more
-Dialogue: 0,0:01:21.43,0:01:24.14,DEFAULT,,0,0,0,,{\kf8}And{\kf12} I'm{\kf12} proud{\kf12} to{\kf19} be{\kf8} a{\kf27} bro{\kf98}ny
-Dialogue: 0,0:01:39.82,0:01:42.00,DEFAULT,,0,0,0,,{\kf8}Man{\kf8}y{\kf12} try{\kf12} to{\kf12} make{\kf8} me{\kf12} feel{\kf8} em{\kf8}bar{\kf19}rassed{\kf12}~
-Dialogue: 0,0:01:42.49,0:01:44.00,DEFAULT,,0,0,0,,{\kf8}Their{\kf8} at{\kf12}tempts{\kf12} have{\kf8} been{\kf12} in{\kf23} vain
-Dialogue: 0,0:01:44.04,0:01:46.26,DEFAULT,,0,0,0,,{\kf8}Though{\kf8} they{\kf16} tell{\kf12} me{\kf12} I'm{\kf8} the{\kf12} one{\kf8} with{\kf16} prob{\kf16}lems{\kf16}~
-Dialogue: 0,0:01:46.64,0:01:48.14,DEFAULT,,0,0,0,,{\kf8}They're{\kf8} the{\kf12} ones{\kf8} who{\kf12} are{\kf16} in{\kf27}sane
-Dialogue: 0,0:01:48.33,0:01:50.29,DEFAULT,,0,0,0,,{\kf8}For{\kf12} those{\kf12} who{\kf12} watch{\kf8} but{\kf8} won't{\kf8} ad{\kf8}mit{\kf12} it{\kf12}~
-Dialogue: 0,0:01:50.86,0:01:52.06,DEFAULT,,0,0,0,,{\kf8}Well{\kf8} you{\kf8} should{\kf16}n't{\kf16} be{\kf12} like{\kf8} that
-Dialogue: 0,0:01:52.40,0:01:54.59,DEFAULT,,0,0,0,,{\kf8}Cause{\kf8} you{\kf8} could{\kf8} be{\kf8} twen{\kf8}ty{\kf8} per{\kf12}cent{\kf12} cool{\kf19}er
-Dialogue: 0,0:01:55.34,0:01:56.96,DEFAULT,,0,0,0,,{\kf8}In{\kf12} ten{\kf8} sec{\kf12}onds{\kf61} flat
-Dialogue: 0,0:01:57.07,0:01:59.03,DEFAULT,,0,0,0,,{\kf12}Why{\kf12} don't{\kf16} you{\kf8} men{\kf12}tion{\kf12} Rain{\kf12}bow{\kf23} Dash
-Dialogue: 0,0:01:59.18,0:02:00.50,DEFAULT,,0,0,0,,{\kf8}And{\kf8} her{\kf16} ac{\kf8}ro{\kf16}bat{\kf8}ic{\kf16} skill?
-Dialogue: 0,0:02:00.73,0:02:02.31,DEFAULT,,0,0,0,,{\kf8}How{\kf8} she{\kf12} will{\kf12} try{\kf12} her{\kf12} hoof{\kf8} in{\kf8}~
-Dialogue: 0,0:02:02.58,0:02:04.91,DEFAULT,,0,0,0,,{\kf12}An{\kf8}y{\kf23}thing{\kf8} just{\kf8} to{\kf12} get{\kf19} a{\kf12} lit{\kf19}tle{\kf23} thrill
-Dialogue: 0,0:02:05.48,0:02:07.40,DEFAULT,,0,0,0,,{\kf12}Why{\kf12} don't{\kf8} you{\kf12} men{\kf8}tion{\kf12} Ap{\kf12}ple{\kf23}jack
-Dialogue: 0,0:02:07.55,0:02:08.60,DEFAULT,,0,0,0,,{\kf8}Talk{\kf8} a{\kf23}bout{\kf23} her{\kf8} hon{\kf12}est
-Dialogue: 0,0:02:08.87,0:02:11.84,DEFAULT,,0,0,0,,{\kf42}South{\kf16}ern{\kf27} style{\kf23}~{\kf8} pow{\kf8}~{\kf23}er{\kf8} of{\kf27} will?
-Dialogue: 0,0:02:12.37,0:02:13.99,DEFAULT,,0,0,0,,{\kf12}See{\kf12} you{\kf16} don't{\kf12}~{\kf12} have{\kf8} to{\kf8} fake{\kf12}~
-Dialogue: 0,0:02:14.33,0:02:17.68,DEFAULT,,0,0,0,,{\kf12}That{\kf16} you{\kf8} hate{\kf12}~{\kf38} My{\kf23} Lit{\kf12}tle{\kf8}~{\kf46} Po{\kf16}ny{\kf12}~
-Dialogue: 0,0:02:18.59,0:02:19.53,DEFAULT,,0,0,0,,{\kf16}Yeah{\kf23} yeah{\kf8} yeah{\kf12}~
-Dialogue: 0,0:02:20.59,0:02:23.41,DEFAULT,,0,0,0,,{\kf23}Shout{\kf19} it{\kf12} out{\kf215}~
-Dialogue: 0,0:02:24.17,0:02:26.92,DEFAULT,,0,0,0,,{\kf8}I'm{\kf12}~{\kf12} proud{\kf8} to{\kf8} be{\kf8} a{\kf12} bro{\kf16}~{\kf49}ny{\kf8} yeah{\kf23}~{\kf12}~{\kf23}~
-Dialogue: 0,0:02:28.35,0:02:33.66,DEFAULT,,0,0,0,,{\kf12}I'm{\kf8} proud{\kf8} to{\kf212} be{\kf8} a{\kf49} bro{\kf166}ny
-Dialogue: 0,0:02:33.85,0:02:35.88,DEFAULT,,0,0,0,,{\kf42}My{\kf8} Lit{\kf8}tle{\kf27} Po{\kf72}ny
-Dialogue: 0,0:02:36.04,0:02:38.03,DEFAULT,,0,0,0,,{\kf8}I{\kf8} used{\kf8} to{\kf12} won{\kf8}der{\kf12} what{\kf8} friend{\kf8}ship{\kf8} could{\kf12} be
-Dialogue: 0,0:02:38.07,0:02:39.65,DEFAULT,,0,0,0,,{\kf42}My{\kf8} Lit{\kf8}tle{\kf27} Po{\kf27}ny
-Dialogue: 0,0:02:39.80,0:02:41.91,DEFAULT,,0,0,0,,{\kf8}Un{\kf8}til{\kf8} you{\kf12} all{\kf19} shared{\kf8} this{\kf16} mag{\kf8}ic{\kf8} with{\kf23} me
-Dialogue: 0,0:02:42.06,0:02:45.79,DEFAULT,,0,0,0,,{\kf27}Thread{\kf23} by{\kf27} thread{\kf8} stitch{\kf8}ing{\kf8} it{\kf8} to{\kf23}geth{\kf114}er
-Dialogue: 0,0:02:46.28,0:02:49.56,DEFAULT,,0,0,0,,{\kf31}Twi{\kf23}light's{\kf19} dress{\kf8} cut{\kf8}ting{\kf8} up{\kf8} the{\kf23} pat{\kf8}tern{\kf8} snip{\kf12} by{\kf8} snip
-Dialogue: 0,0:02:50.50,0:02:52.43,DEFAULT,,0,0,0,,{\kf8}Cup{\kf16}cakes{\kf12} so{\kf19} sweet{\kf8} and{\kf12} tast{\kf8}y
-Dialogue: 0,0:02:52.61,0:02:54.54,DEFAULT,,0,0,0,,{\kf8}Cup{\kf12}cakes{\kf12} don't{\kf12} be{\kf12} too{\kf12} has{\kf8}ty
-Dialogue: 0,0:02:54.69,0:02:56.91,DEFAULT,,0,0,0,,{\kf8}Win{\kf8}ter{\kf12} Wrap{\kf8} Up{\kf8} Win{\kf19}ter{\kf12} Wrap{\kf38} Up
-Dialogue: 0,0:02:57.02,0:02:58.79,DEFAULT,,0,0,0,,{\kf8}'Cause{\kf8} to{\kf12}mor{\kf23}row{\kf19} spring{\kf8} is{\kf23}~{\kf19} here
-Dialogue: 0,0:02:59.47,0:03:01.36,DEFAULT,,0,0,0,,{\kf8}So{\kf12} I'm{\kf19} gon{\kf8}na{\kf12} men{\kf8}tion{\kf27} Rar{\kf8}i{\kf12}ty
-Dialogue: 0,0:03:01.81,0:03:03.20,DEFAULT,,0,0,0,,{\kf8}And{\kf8} how{\kf8} she's{\kf8} oh{\kf8} so{\kf19} la{\kf12}dy{\kf19} like{\kf12}~
-Dialogue: 0,0:03:03.50,0:03:05.43,DEFAULT,,0,0,0,,{\kf8}But{\kf12} e{\kf12}ven{\kf8} though{\kf12} she's{\kf8} prim{\kf12}~{\kf8} and{\kf12} prop{\kf8}~{\kf8}~{\kf8}er
-Dialogue: 0,0:03:05.92,0:03:07.23,DEFAULT,,0,0,0,,{\kf8}She{\kf8} could{\kf12} make{\kf8} it{\kf8} in{\kf8} a{\kf8} fight{\kf23}~
-Dialogue: 0,0:03:08.06,0:03:09.80,DEFAULT,,0,0,0,,{\kf8}And{\kf8} I'm{\kf12} gon{\kf8}na{\kf12} men{\kf12}tion{\kf27} Twi{\kf19}light
-Dialogue: 0,0:03:10.17,0:03:11.23,DEFAULT,,0,0,0,,{\kf8}And{\kf8} she's{\kf12} kind{\kf16}~{\kf8} of{\kf12} nerd{\kf8}y
-Dialogue: 0,0:03:11.30,0:03:12.96,DEFAULT,,0,0,0,,{\kf8}Boasts{\kf8} a{\kf19} pow{\kf12}er{\kf8} tucked{\kf16} a{\kf12}way
-Dialogue: 0,0:03:13.30,0:03:15.18,DEFAULT,,0,0,0,,{\kf8}Could{\kf8} take{\kf8} an{\kf12} Ur{\kf27}sa{\kf12} an{\kf12}y{\kf12} day{\kf12}~
-Dialogue: 0,0:03:15.64,0:03:17.86,DEFAULT,,0,0,0,,{\kf8}How{\kf19}~{\kf27} 'bout{\kf23} you?{\kf8} Would{\kf8} you{\kf19} do
-Dialogue: 0,0:03:17.94,0:03:21.70,DEFAULT,,0,0,0,,{\kf12}What{\kf23} I{\kf12}~{\kf46} do{\kf8} or{\kf12} be{\kf16} pho{\kf12}ny?{\kf16}~{\kf8} Hah
-Dialogue: 0,0:03:23.10,0:03:26.22,DEFAULT,,0,0,0,,{\kf8}I'm{\kf12} ask{\kf12}ing{\kf23} you{\kf196} now
-Dialogue: 0,0:03:31.01,0:03:34.02,DEFAULT,,0,0,0,,{\kf8}You{\kf12} proud{\kf8} to{\kf49} be{\kf8} a{\kf23} bro{\kf80}ny?{\kf8} Yeah{\kf23}~
-Dialogue: 0,0:03:35.19,0:03:37.49,DEFAULT,,0,0,0,,{\kf8}You{\kf16} proud{\kf8} to{\kf8} be{\kf8} a{\kf8} bro{\kf12}~{\kf68}ny?{\kf12}~
+Dialogue: 0,0:00:02.31,0:00:09.20,DEFAULT,,0,0,0,,{\r}{\kf268}Ah{\kf253}~{\kf169}~
+Dialogue: 0,0:00:09.35,0:00:13.01,DEFAULT,,0,0,0,,{\r}{\kf81}Dun{\kf21} duh{\kf38} duh{\kf21} da{\kf17}~{\kf187} da
+Dialogue: 0,0:00:15.27,0:00:19.26,DEFAULT,,0,0,0,,{\r}{\kf21}Duh{\kf17} duh{\kf17} dun{\kf50}~{\kf42} da{\kf42} dun{\kf46} da{\kf25} duh{\kf42} da{\kf97} da
+Dialogue: 0,0:00:30.91,0:00:33.13,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf13} used{\kf13} to{\kf26} won{\kf13}der{\kf20} what{\kf20} friend{\kf13}ship{\kf20} could{\kf71} be
+Dialogue: 0,0:00:34.64,0:00:36.78,DEFAULT,,0,0,0,,{\r}{\kf13}Un{\kf13}til{\kf13} you{\kf25} all{\kf32} shared{\kf13} its{\kf32} mag{\kf13}ic{\kf13} with{\kf48} me
+Dialogue: 0,0:00:37.50,0:00:39.50,DEFAULT,,0,0,0,,{\r}{\kf28}While{\kf14} a{\kf28}go{\kf14} if{\kf21} you{\kf28} would{\kf28} ask{\kf14} me{\kf25}~
+Dialogue: 0,0:00:39.91,0:00:41.23,DEFAULT,,0,0,0,,{\r}{\kf13}What{\kf13} I{\kf13} watch{\kf19}~{\kf13} in{\kf19} my{\kf19} spare{\kf23} time
+Dialogue: 0,0:00:41.95,0:00:43.64,DEFAULT,,0,0,0,,{\r}{\kf14}No{\kf14} I{\kf21} prob'{\kf14}ly{\kf14} would{\kf14}n't{\kf21} tell{\kf28} you{\kf30}~
+Dialogue: 0,0:00:44.02,0:00:45.45,DEFAULT,,0,0,0,,{\r}{\kf12}What{\kf12} was{\kf12} re{\kf18}al{\kf12}ly{\kf18} on{\kf18} my{\kf12} mind{\kf29}~
+Dialogue: 0,0:00:46.24,0:00:47.82,DEFAULT,,0,0,0,,{\r}{\kf13}But{\kf19} late{\kf19}ly{\kf25} I've{\kf19} been{\kf25} think{\kf19}ing{\kf19}~
+Dialogue: 0,0:00:48.24,0:00:49.67,DEFAULT,,0,0,0,,{\r}{\kf11}Of{\kf11} a{\kf11} rea{\kf17}~{\kf11}son{\kf17} I{\kf23} should{\kf42} hide
+Dialogue: 0,0:00:49.78,0:00:51.97,DEFAULT,,0,0,0,,{\r}{\kf15}F-{\kf15}I-{\kf15}M{\kf15} as{\kf15} if{\kf15} to{\kf15} men{\kf15}tion{\kf22} it{\kf15} where{\kf22} pain{\kf15}ful{\kf25}~
+Dialogue: 0,0:00:52.42,0:00:54.42,DEFAULT,,0,0,0,,{\r}{\kf12}When{\kf12} it{\kf18} feels{\kf18} so{\kf18} good{\kf18} in{\kf104}side
+Dialogue: 0,0:00:54.53,0:00:56.49,DEFAULT,,0,0,0,,{\r}{\kf13}Why{\kf20} can't{\kf13} I{\kf20} men{\kf39}tion{\kf13} Flut{\kf20}ter{\kf20}shy{\kf38}~
+Dialogue: 0,0:00:56.57,0:00:57.88,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf13} her{\kf13} tim{\kf20}id{\kf20} lov{\kf20}ing{\kf33} mind?
+Dialogue: 0,0:00:58.19,0:01:00.56,DEFAULT,,0,0,0,,{\r}{\kf16}How{\kf16} she{\kf16} can{\kf16} be{\kf25} her{\kf25}self{\kf49} near{\kf16} an{\kf16}i{\kf25}mals{\kf17}~
+Dialogue: 0,0:01:00.63,0:01:02.10,DEFAULT,,0,0,0,,{\r}{\kf11}But{\kf11} shies{\kf11} a{\kf17}way{\kf11} from{\kf28} her{\kf28} own{\kf30} kind
+Dialogue: 0,0:01:02.71,0:01:04.82,DEFAULT,,0,0,0,,{\r}{\kf32}Why{\kf19} can't{\kf19} I{\kf19} men{\kf45}tion{\kf13} Pink{\kf19}ie{\kf13} Pie{\kf32}~
+Dialogue: 0,0:01:04.93,0:01:05.99,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf14} the{\kf14} way{\kf14} she{\kf21} kind{\kf29} of
+Dialogue: 0,0:01:06.29,0:01:09.19,DEFAULT,,0,0,0,,{\r}{\kf24}Acts{\kf39} a{\kf24} bit{\kf39} like{\kf55} me{\kf31} some{\kf78}times?
+Dialogue: 0,0:01:09.64,0:01:12.39,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf45} see{\kf37} I{\kf15} use{\kf30} to{\kf30} hate{\kf45} that{\kf30} I{\kf28} liked
+Dialogue: 0,0:01:13.07,0:01:18.91,DEFAULT,,0,0,0,,{\r}{\kf63}My{\kf52} Lit{\kf94}tle{\kf115} Po{\kf94}ny{\kf31} not{\kf31} an{\kf63}y{\kf41} more
+Dialogue: 0,0:01:21.43,0:01:24.15,DEFAULT,,0,0,0,,{\r}{\kf11}And{\kf16} I'm{\kf16} proud{\kf16} to{\kf27} be{\kf11} a{\kf37} bro{\kf137}ny
+Dialogue: 0,0:01:39.82,0:01:42.01,DEFAULT,,0,0,0,,{\r}{\kf15}Man{\kf15}y{\kf22} try{\kf22} to{\kf22} make{\kf15} me{\kf22} feel{\kf15} em{\kf15}bar{\kf37}rassed{\kf19}~
+Dialogue: 0,0:01:42.50,0:01:44.00,DEFAULT,,0,0,0,,{\r}{\kf14}Their{\kf14} at{\kf22}tempts{\kf22} have{\kf14} been{\kf22} in{\kf43} vain
+Dialogue: 0,0:01:44.04,0:01:46.26,DEFAULT,,0,0,0,,{\r}{\kf13}Though{\kf13} they{\kf27} tell{\kf20} me{\kf20} I'm{\kf13} the{\kf20} one{\kf13} with{\kf27} prob{\kf27}lems{\kf29}~
+Dialogue: 0,0:01:46.64,0:01:48.15,DEFAULT,,0,0,0,,{\r}{\kf13}They're{\kf13} the{\kf20} ones{\kf13} who{\kf20} are{\kf26} in{\kf46}sane
+Dialogue: 0,0:01:48.34,0:01:50.30,DEFAULT,,0,0,0,,{\r}{\kf16}For{\kf24} those{\kf24} who{\kf24} watch{\kf16} but{\kf16} won't{\kf16} ad{\kf16}mit{\kf24} it{\kf20}~
+Dialogue: 0,0:01:50.86,0:01:52.07,DEFAULT,,0,0,0,,{\r}{\kf13}Well{\kf13} you{\kf13} should{\kf25}n't{\kf25} be{\kf19} like{\kf13} that
+Dialogue: 0,0:01:52.41,0:01:54.59,DEFAULT,,0,0,0,,{\r}{\kf18}Cause{\kf18} you{\kf18} could{\kf18} be{\kf18} twen{\kf18}ty{\kf18} per{\kf26}cent{\kf26} cool{\kf41}er
+Dialogue: 0,0:01:55.35,0:01:56.97,DEFAULT,,0,0,0,,{\r}{\kf12}In{\kf19} ten{\kf12} sec{\kf19}onds{\kf100} flat
+Dialogue: 0,0:01:57.08,0:01:59.04,DEFAULT,,0,0,0,,{\r}{\kf22}Why{\kf22} don't{\kf29} you{\kf15} men{\kf22}tion{\kf22} Rain{\kf22}bow{\kf42} Dash
+Dialogue: 0,0:01:59.19,0:02:00.51,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf13} her{\kf26} ac{\kf13}ro{\kf26}bat{\kf13}ic{\kf28} skill?
+Dialogue: 0,0:02:00.73,0:02:02.32,DEFAULT,,0,0,0,,{\r}{\kf16}How{\kf16} she{\kf24} will{\kf24} try{\kf24} her{\kf24} hoof{\kf16} in{\kf14}~
+Dialogue: 0,0:02:02.58,0:02:04.92,DEFAULT,,0,0,0,,{\r}{\kf19}An{\kf13}y{\kf38}thing{\kf13} just{\kf13} to{\kf19} get{\kf32} a{\kf19} lit{\kf32}tle{\kf36} thrill
+Dialogue: 0,0:02:05.48,0:02:07.40,DEFAULT,,0,0,0,,{\r}{\kf23}Why{\kf23} don't{\kf15} you{\kf23} men{\kf15}tion{\kf23} Ap{\kf23}ple{\kf47}jack
+Dialogue: 0,0:02:07.55,0:02:08.61,DEFAULT,,0,0,0,,{\r}{\kf10}Talk{\kf10} a{\kf30}bout{\kf30} her{\kf10} hon{\kf16}est
+Dialogue: 0,0:02:08.87,0:02:11.85,DEFAULT,,0,0,0,,{\r}{\kf70}South{\kf25}ern{\kf44} style{\kf38}~{\kf13} pow{\kf13}~{\kf38}er{\kf13} of{\kf44} will?
+Dialogue: 0,0:02:12.38,0:02:14.00,DEFAULT,,0,0,0,,{\r}{\kf21}See{\kf21} you{\kf28} don't{\kf21}~{\kf21} have{\kf14} to{\kf14} fake{\kf22}~
+Dialogue: 0,0:02:14.34,0:02:17.69,DEFAULT,,0,0,0,,{\r}{\kf19}That{\kf26} you{\kf13} hate{\kf19}~{\kf64} My{\kf39} Lit{\kf19}tle{\kf13}~{\kf77} Po{\kf26}ny{\kf20}~
+Dialogue: 0,0:02:18.59,0:02:19.54,DEFAULT,,0,0,0,,{\r}{\kf25}Yeah{\kf38} yeah{\kf13} yeah{\kf18}~
+Dialogue: 0,0:02:20.59,0:02:23.42,DEFAULT,,0,0,0,,{\r}{\kf24}Shout{\kf20} it{\kf12} out{\kf227}~
+Dialogue: 0,0:02:24.17,0:02:26.92,DEFAULT,,0,0,0,,{\r}{\kf11}I'm{\kf16}~{\kf16} proud{\kf11} to{\kf11} be{\kf11} a{\kf16} bro{\kf22}~{\kf70}ny{\kf11} yeah{\kf32}~{\kf16}~{\kf32}~
+Dialogue: 0,0:02:28.35,0:02:33.67,DEFAULT,,0,0,0,,{\r}{\kf13}I'm{\kf10} proud{\kf10} to{\kf244} be{\kf10} a{\kf57} bro{\kf187}ny
+Dialogue: 0,0:02:33.85,0:02:35.89,DEFAULT,,0,0,0,,{\r}{\kf54}My{\kf10} Lit{\kf10}tle{\kf35} Po{\kf94}ny
+Dialogue: 0,0:02:36.04,0:02:38.04,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf17} used{\kf17} to{\kf26} won{\kf17}der{\kf26} what{\kf17} friend{\kf17}ship{\kf17} could{\kf29} be
+Dialogue: 0,0:02:38.07,0:02:39.66,DEFAULT,,0,0,0,,{\r}{\kf60}My{\kf11} Lit{\kf11}tle{\kf38} Po{\kf38}ny
+Dialogue: 0,0:02:39.81,0:02:41.92,DEFAULT,,0,0,0,,{\r}{\kf14}Un{\kf14}til{\kf14} you{\kf21} all{\kf35} shared{\kf14} this{\kf28} mag{\kf14}ic{\kf14} with{\kf43} me
+Dialogue: 0,0:02:42.07,0:02:45.80,DEFAULT,,0,0,0,,{\r}{\kf41}Thread{\kf35} by{\kf41} thread{\kf12} stitch{\kf12}ing{\kf12} it{\kf12} to{\kf35}geth{\kf173}er
+Dialogue: 0,0:02:46.29,0:02:49.57,DEFAULT,,0,0,0,,{\r}{\kf62}Twi{\kf47}light's{\kf39} dress{\kf16} cut{\kf16}ting{\kf16} up{\kf16} the{\kf47} pat{\kf16}tern{\kf16} snip{\kf23} by{\kf14} snip
+Dialogue: 0,0:02:50.51,0:02:52.43,DEFAULT,,0,0,0,,{\r}{\kf18}Cup{\kf37}cakes{\kf27} so{\kf46} sweet{\kf18} and{\kf27} tast{\kf19}y
+Dialogue: 0,0:02:52.62,0:02:54.54,DEFAULT,,0,0,0,,{\r}{\kf20}Cup{\kf30}cakes{\kf30} don't{\kf30} be{\kf30} too{\kf30} has{\kf22}ty
+Dialogue: 0,0:02:54.69,0:02:56.91,DEFAULT,,0,0,0,,{\r}{\kf15}Win{\kf15}ter{\kf23} Wrap{\kf15} Up{\kf15} Win{\kf38}ter{\kf23} Wrap{\kf78} Up
+Dialogue: 0,0:02:57.03,0:02:58.80,DEFAULT,,0,0,0,,{\r}{\kf11}'Cause{\kf11} to{\kf17}mor{\kf34}row{\kf29} spring{\kf11} is{\kf34}~{\kf30} here
+Dialogue: 0,0:02:59.48,0:03:01.36,DEFAULT,,0,0,0,,{\r}{\kf13}So{\kf19} I'm{\kf32} gon{\kf13}na{\kf19} men{\kf13}tion{\kf45} Rar{\kf13}i{\kf21}ty
+Dialogue: 0,0:03:01.81,0:03:03.21,DEFAULT,,0,0,0,,{\r}{\kf11}And{\kf11} how{\kf11} she's{\kf11} oh{\kf11} so{\kf27} la{\kf16}dy{\kf27} like{\kf14}~
+Dialogue: 0,0:03:03.51,0:03:05.43,DEFAULT,,0,0,0,,{\r}{\kf13}But{\kf20} e{\kf20}ven{\kf13} though{\kf20} she's{\kf13} prim{\kf20}~{\kf13} and{\kf20} prop{\kf13}~{\kf13}~{\kf14}er
+Dialogue: 0,0:03:05.92,0:03:07.24,DEFAULT,,0,0,0,,{\r}{\kf13}She{\kf13} could{\kf19} make{\kf13} it{\kf13} in{\kf13} a{\kf13} fight{\kf35}~
+Dialogue: 0,0:03:08.07,0:03:09.80,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf13} I'm{\kf19} gon{\kf13}na{\kf19} men{\kf19}tion{\kf45} Twi{\kf32}light
+Dialogue: 0,0:03:10.18,0:03:11.23,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf12} she's{\kf18} kind{\kf24}~{\kf12} of{\kf18} nerd{\kf10}y
+Dialogue: 0,0:03:11.31,0:03:12.97,DEFAULT,,0,0,0,,{\r}{\kf16}Boasts{\kf16} a{\kf40} pow{\kf24}er{\kf16} tucked{\kf32} a{\kf22}way
+Dialogue: 0,0:03:13.31,0:03:15.19,DEFAULT,,0,0,0,,{\r}{\kf13}Could{\kf13} take{\kf13} an{\kf20} Ur{\kf47}sa{\kf20} an{\kf20}y{\kf20} day{\kf22}~
+Dialogue: 0,0:03:15.64,0:03:17.86,DEFAULT,,0,0,0,,{\r}{\kf15}How{\kf38}~{\kf54} 'bout{\kf46} you?{\kf15} Would{\kf15} you{\kf39} do
+Dialogue: 0,0:03:17.94,0:03:21.71,DEFAULT,,0,0,0,,{\r}{\kf27}What{\kf54} I{\kf27}~{\kf108} do{\kf18} or{\kf27} be{\kf36} pho{\kf27}ny?{\kf36}~{\kf17} Hah
+Dialogue: 0,0:03:23.10,0:03:26.23,DEFAULT,,0,0,0,,{\r}{\kf10}I'm{\kf14} ask{\kf14}ing{\kf28} you{\kf247} now
+Dialogue: 0,0:03:31.02,0:03:34.03,DEFAULT,,0,0,0,,{\r}{\kf11}You{\kf16} proud{\kf11} to{\kf69} be{\kf11} a{\kf32} bro{\kf111}ny?{\kf11} Yeah{\kf29}~
+Dialogue: 0,0:03:35.20,0:03:37.50,DEFAULT,,0,0,0,,{\r}{\kf12}You{\kf24} proud{\kf12} to{\kf12} be{\kf12} a{\kf12} bro{\kf18}~{\kf109}ny?{\kf19}~

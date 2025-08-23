@@ -1,107 +1,114 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: A True, True Friend
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.70,0:00:04.26,DEFAULT,,0,0,0,,{\kf13}It{\kf44} worked,{\kf19} it{\kf44} worked!
-Dialogue: 0,0:00:04.83,0:00:05.70,DEFAULT,,0,0,0,,{\kf19}Oh,{\kf19} I'm{\kf19} so{\kf26} happy
-Dialogue: 0,0:00:05.70,0:00:06.76,DEFAULT,,0,0,0,,{\kf19}You're{\kf26} back{\kf19} to{\kf44} normal!
-Dialogue: 0,0:00:07.45,0:00:08.64,DEFAULT,,0,0,0,,{\kf26}Now{\kf13} we{\kf19} need{\kf19} your{\kf38} help!
-Dialogue: 0,0:00:09.64,0:00:11.39,DEFAULT,,0,0,0,,{\kf13}A{\kf44} true,{\kf44} true{\kf32} frie{\kf19}-nd
-Dialogue: 0,0:00:11.42,0:00:13.42,DEFAULT,,0,0,0,,{\kf26}Helps{\kf10} a{\kf44} friend{\kf16} i{\kf26}-in{\kf54} need
-Dialogue: 0,0:00:13.71,0:00:15.68,DEFAULT,,0,0,0,,{\kf10}A{\kf41} friend{\kf19} wi{\kf19}-ill{\kf38} be{\kf26} there
-Dialogue: 0,0:00:15.71,0:00:17.43,DEFAULT,,0,0,0,,{\kf10}To{\kf29} help{\kf19} the{\kf19}-em{\kf51} see
-Dialogue: 0,0:00:17.74,0:00:19.40,DEFAULT,,0,0,0,,{\kf13}A{\kf38} true,{\kf35} true{\kf29} frie{\kf19}-nd
-Dialogue: 0,0:00:19.43,0:00:21.18,DEFAULT,,0,0,0,,{\kf29}Helps{\kf10} a{\kf54} friend{\kf13} i{\kf32}-in{\kf26} need
-Dialogue: 0,0:00:21.21,0:00:22.46,DEFAULT,,0,0,0,,{\kf7}To{\kf26} see{\kf16} the{\kf57} light
-Dialogue: 0,0:00:22.65,0:00:25.93,DEFAULT,,0,0,0,,{\kf19} that{\kf47} shines{\kf16} from{\kf13} a{\kf47} true,{\kf19} tru{\kf41}-ue{\kf82} friend
-Dialogue: 0,0:00:26.03,0:00:26.84,DEFAULT,,0,0,0,,{\kf10}Um,{\kf66} hello!
-Dialogue: 0,0:00:26.87,0:00:28.37,DEFAULT,,0,0,0,,{\kf26}Friend{\kf22} trapped{\kf54} inside,{\kf51} remember?
-Dialogue: 0,0:00:28.87,0:00:31.75,DEFAULT,,0,0,0,,{\kf32}Ra{\kf26}ri{\kf44}ty{\kf47} needs{\kf19} yo{\kf35}-ur{\kf63} help
-Dialogue: 0,0:00:32.15,0:00:33.37,DEFAULT,,0,0,0,,{\kf19}She's{\kf29} try{\kf16}ing{\kf19} ha{\kf22}-ard
-Dialogue: 0,0:00:33.40,0:00:35.72,DEFAULT,,0,0,0,,{\kf29}Do{\kf19}ing{\kf32} what{\kf26} she{\kf22}-e{\kf79} can
-Dialogue: 0,0:00:36.37,0:00:37.59,DEFAULT,,0,0,0,,{\kf26}Would{\kf16} you{\kf66} try,
-Dialogue: 0,0:00:37.66,0:00:39.69,DEFAULT,,0,0,0,,{\kf16}Just{\kf22} give{\kf26} it{\kf16} a{\kf16}-a{\kf79} chance
-Dialogue: 0,0:00:40.35,0:00:41.35,DEFAULT,,0,0,0,,{\kf29}You{\kf19} might{\kf19} fi{\kf19}-ind
-Dialogue: 0,0:00:41.47,0:00:43.82,DEFAULT,,0,0,0,,{\kf19}That{\kf13} you'll{\kf26} start{\kf22} to{\kf13} un{\kf16}der{\kf91}stand
-Dialogue: 0,0:00:44.66,0:00:46.32,DEFAULT,,0,0,0,,{\kf16}A{\kf41} true,{\kf51} true{\kf16} frie{\kf19}-nd
-Dialogue: 0,0:00:46.41,0:00:48.41,DEFAULT,,0,0,0,,{\kf29}Helps{\kf13} a{\kf57} friend{\kf16} i{\kf22}-in{\kf51} need
-Dialogue: 0,0:00:48.66,0:00:50.60,DEFAULT,,0,0,0,,{\kf19}A{\kf44} friend{\kf41} will{\kf41} be{\kf19} there
-Dialogue: 0,0:00:50.70,0:00:52.38,DEFAULT,,0,0,0,,{\kf16}To{\kf41} help{\kf35} you{\kf51} see
-Dialogue: 0,0:00:52.70,0:00:54.39,DEFAULT,,0,0,0,,{\kf16}A{\kf44} true,{\kf47} true{\kf29} frie{\kf22}-nd
-Dialogue: 0,0:00:54.42,0:00:56.11,DEFAULT,,0,0,0,,{\kf29}Helps{\kf16} a{\kf51} friend{\kf16} i{\kf29}-in{\kf19} need
-Dialogue: 0,0:00:56.14,0:00:57.45,DEFAULT,,0,0,0,,{\kf16}To{\kf29} see{\kf16} the{\kf60} light
-Dialogue: 0,0:00:57.64,0:01:01.70,DEFAULT,,0,0,0,,{\kf16} that{\kf54} shines{\kf19} from{\kf13} a{\kf41} true,{\kf19} tru{\kf38}-ue{\kf157} friend.
-Dialogue: 0,0:01:02.45,0:01:04.64,DEFAULT,,0,0,0,,{\kf63}Uh,{\kf26} what{\kf22} just{\kf57} happened?
-Dialogue: 0,0:01:05.14,0:01:06.42,DEFAULT,,0,0,0,,{\kf29}There's{\kf19} no{\kf22} time{\kf10} to{\kf47} explain,
-Dialogue: 0,0:01:06.71,0:01:07.74,DEFAULT,,0,0,0,,{\kf19}But{\kf16} we{\kf19} need{\kf13} your{\kf38} help
-Dialogue: 0,0:01:07.96,0:01:09.58,DEFAULT,,0,0,0,,{\kf60}Applejack's{\kf26} trying{\kf7} to{\kf19} make{\kf54} dresses!
-Dialogue: 0,0:01:10.05,0:01:10.99,DEFAULT,,0,0,0,,{\kf38}Say{\kf19} no{\kf38} more!
-Dialogue: 0,0:01:11.93,0:01:14.77,DEFAULT,,0,0,0,,{\kf16}Ap{\kf22}ple{\kf38}jack{\kf51} needs{\kf54} your{\kf69} help
-Dialogue: 0,0:01:15.15,0:01:16.34,DEFAULT,,0,0,0,,{\kf16}She's{\kf29} try{\kf19}ing{\kf38} hard
-Dialogue: 0,0:01:16.43,0:01:18.68,DEFAULT,,0,0,0,,{\kf19}Do{\kf16}ing{\kf32} what{\kf47} she{\kf85} can
-Dialogue: 0,0:01:19.37,0:01:20.37,DEFAULT,,0,0,0,,{\kf22}Would{\kf16} you{\kf54} try,
-Dialogue: 0,0:01:20.59,0:01:22.87,DEFAULT,,0,0,0,,{\kf26}Just{\kf26} give{\kf19} it{\kf32} a{\kf104} chance
-Dialogue: 0,0:01:23.34,0:01:24.31,DEFAULT,,0,0,0,,{\kf22}You{\kf26} might{\kf41} find
-Dialogue: 0,0:01:24.37,0:01:26.62,DEFAULT,,0,0,0,,{\kf19}That{\kf19} you'll{\kf29} start{\kf19} to{\kf26} un{\kf13}der{\kf79}stand
-Dialogue: 0,0:01:27.62,0:01:29.31,DEFAULT,,0,0,0,,{\kf16}A{\kf47} true,{\kf41} true{\kf51} friend
-Dialogue: 0,0:01:29.37,0:01:31.34,DEFAULT,,0,0,0,,{\kf29}Helps{\kf13} a{\kf47} friend{\kf16} i{\kf35}-in{\kf41} need
-Dialogue: 0,0:01:31.63,0:01:33.63,DEFAULT,,0,0,0,,{\kf16}A{\kf47} friend{\kf38} will{\kf41} be{\kf26} there
-Dialogue: 0,0:01:33.69,0:01:35.35,DEFAULT,,0,0,0,,{\kf13}To{\kf41} help{\kf41} them{\kf47} see
-Dialogue: 0,0:01:35.69,0:01:37.35,DEFAULT,,0,0,0,,{\kf13}A{\kf35} true,{\kf44} true{\kf35} frie{\kf16}-nd
-Dialogue: 0,0:01:37.38,0:01:39.10,DEFAULT,,0,0,0,,{\kf32}Helps{\kf16} a{\kf41} friend{\kf19} i{\kf29}-in{\kf19} need
-Dialogue: 0,0:01:39.13,0:01:40.41,DEFAULT,,0,0,0,,{\kf16}To{\kf26} see{\kf13} the{\kf57} light
-Dialogue: 0,0:01:40.66,0:01:44.51,DEFAULT,,0,0,0,,{\kf16}That{\kf47} shines{\kf22} from{\kf16} a{\kf44} true,{\kf66} true{\kf141} friend
-Dialogue: 0,0:01:44.63,0:01:47.51,DEFAULT,,0,0,0,,{\kf29}*gasp*{\kf22} Oh{\kf41} my,{\kf16} what{\kf7} a{\kf47} terrible{\kf32} dream{\kf13} I{\kf41} had.
-Dialogue: 0,0:01:47.98,0:01:49.79,DEFAULT,,0,0,0,,{\kf44}Or,{\kf29} maybe{\kf13} I'm{\kf22} still{\kf26} having{\kf13} it.
-Dialogue: 0,0:01:50.11,0:01:51.70,DEFAULT,,0,0,0,,{\kf44}Rarity,{\kf38} Pinkie{\kf19} Pie{\kf10} is{\kf22} about
-Dialogue: 0,0:01:51.70,0:01:52.76,DEFAULT,,0,0,0,,{\kf10}To{\kf19} lose{\kf10} the{\kf29} apple{\kf32} farm
-Dialogue: 0,0:01:52.98,0:01:54.39,DEFAULT,,0,0,0,,{\kf19}We{\kf22} need{\kf66} Applejack's{\kf35} help!
-Dialogue: 0,0:01:54.98,0:01:56.23,DEFAULT,,0,0,0,,{\kf41}Lose{\kf13} the{\kf38} apple{\kf35} farm?
-Dialogue: 0,0:01:56.52,0:01:57.77,DEFAULT,,0,0,0,,{\kf19}Well{\kf16} we{\kf26} can't{\kf19} let{\kf22} that{\kf26} happen,
-Dialogue: 0,0:01:57.80,0:01:58.64,DEFAULT,,0,0,0,,{\kf22}Now{\kf29} can{\kf26} we?
-Dialogue: 0,0:01:58.92,0:02:01.83,DEFAULT,,0,0,0,,{\kf22}Pin{\kf19}kie{\kf41} Pie{\kf44} is{\kf26} in{\kf44} trou{\kf51}ble
-Dialogue: 0,0:02:02.17,0:02:03.71,DEFAULT,,0,0,0,,{\kf16}We{\kf22} need{\kf19} to{\kf38} get{\kf32} there
-Dialogue: 0,0:02:03.83,0:02:06.08,DEFAULT,,0,0,0,,{\kf44}By{\kf16} he{\kf26}-er{\kf113} side
-Dialogue: 0,0:02:06.36,0:02:07.77,DEFAULT,,0,0,0,,{\kf19}We{\kf22} can{\kf32} try{\kf22} to{\kf32} do
-Dialogue: 0,0:02:07.87,0:02:10.15,DEFAULT,,0,0,0,,{\kf41}What{\kf47} we{\kf44} can{\kf76} now
-Dialogue: 0,0:02:10.37,0:02:14.49,DEFAULT,,0,0,0,,{\kf22}For{\kf19} to{\kf26}ge{\kf13}ther{\kf26} we{\kf29} can{\kf44} be{\kf41} her{\kf160} guide
-Dialogue: 0,0:02:14.62,0:02:16.28,DEFAULT,,0,0,0,,{\kf22}A{\kf38} true,{\kf47} true{\kf44} friend
-Dialogue: 0,0:02:16.34,0:02:18.40,DEFAULT,,0,0,0,,{\kf32}Helps{\kf19} a{\kf41} friend{\kf51} in{\kf54} need
-Dialogue: 0,0:02:18.65,0:02:20.62,DEFAULT,,0,0,0,,{\kf16}A{\kf44} friend{\kf44} will{\kf51} be{\kf19} there
-Dialogue: 0,0:02:20.65,0:02:22.41,DEFAULT,,0,0,0,,{\kf16}To{\kf44} help{\kf41} them{\kf54} see.
-Dialogue: 0,0:02:22.69,0:02:24.34,DEFAULT,,0,0,0,,{\kf13}A{\kf41} true,{\kf47} true{\kf32} frie{\kf16}-nd
-Dialogue: 0,0:02:24.41,0:02:26.13,DEFAULT,,0,0,0,,{\kf29}Helps{\kf16} a{\kf47} friend{\kf47} in{\kf22} need
-Dialogue: 0,0:02:26.16,0:02:27.50,DEFAULT,,0,0,0,,{\kf13}To{\kf22} see{\kf13} the{\kf66} light
-Dialogue: 0,0:02:27.66,0:02:32.47,DEFAULT,,0,0,0,,{\kf19} that{\kf51} shines{\kf26} from{\kf13} a{\kf47} true,{\kf72} true{\kf235} friend
-Dialogue: 0,0:02:32.60,0:02:35.13,DEFAULT,,0,0,0,,{\kf101}Yee-haw!{\kf29} Now{\kf35} that's{\kf26} more{\kf26} like{\kf22} it!
-Dialogue: 0,0:02:35.13,0:02:35.82,DEFAULT,,0,0,0,,{\kf29}What's{\kf41} next?
-Dialogue: 0,0:02:35.94,0:02:37.51,DEFAULT,,0,0,0,,{\kf16}The{\kf63} townspeople{\kf10} are{\kf66} furious
-Dialogue: 0,0:02:37.60,0:02:39.35,DEFAULT,,0,0,0,,{\kf16}We{\kf26} need{\kf10} the{\kf29} old{\kf35} Pinkie{\kf26} Pie{\kf35} back
-Dialogue: 0,0:02:39.60,0:02:41.45,DEFAULT,,0,0,0,,{\kf29}I'm{\kf19} on{\kf16} it,{\kf19} I{\kf22} know{\kf29} just{\kf13} the{\kf29} thing
-Dialogue: 0,0:02:41.60,0:02:43.29,DEFAULT,,0,0,0,,{\kf16}The{\kf47} towns{\kf22}peo{\kf22}ple{\kf26} need{\kf13} you,
-Dialogue: 0,0:02:43.36,0:02:45.42,DEFAULT,,0,0,0,,{\kf26}They've{\kf16} been{\kf54} sad{\kf19} for{\kf13} a{\kf54} while
-Dialogue: 0,0:02:45.61,0:02:47.67,DEFAULT,,0,0,0,,{\kf29}They{\kf26} march{\kf13} a{\kf47}round,{\kf22} fa{\kf26}ces{\kf26} frown
-Dialogue: 0,0:02:47.70,0:02:49.36,DEFAULT,,0,0,0,,{\kf19}And{\kf19} ne{\kf16}ver{\kf29} seem{\kf10} to{\kf57} smile
-Dialogue: 0,0:02:49.67,0:02:51.30,DEFAULT,,0,0,0,,{\kf19}And{\kf26} if{\kf16} you{\kf19} feel{\kf22} like{\kf26} hel{\kf16}ping,
-Dialogue: 0,0:02:51.39,0:02:54.55,DEFAULT,,0,0,0,,{\kf26}We'd{\kf16} app{\kf19}re{\kf26}ci{\kf29}ate{\kf10} a{\kf169} lot!
-Dialogue: 0,0:02:54.67,0:02:56.58,DEFAULT,,0,0,0,,{\kf13}If{\kf10} you{\kf19} get{\kf13} up{\kf26} there{\kf13} and{\kf26} spread{\kf19} some{\kf22} cheer
-Dialogue: 0,0:02:56.61,0:02:59.61,DEFAULT,,0,0,0,,{\kf19}From{\kf22} here{\kf13} to{\kf26} Can{\kf19}ter{\kf172}lot!
-Dialogue: 0,0:02:59.74,0:03:00.77,DEFAULT,,0,0,0,,{\kf13}Come{\kf35} on{\kf51} ponies,
-Dialogue: 0,0:03:00.93,0:03:03.18,DEFAULT,,0,0,0,,{\kf26}I{\kf35} wanna{\kf29} see{\kf47} you{\kf85} smile!
-Dialogue: 0,0:03:03.21,0:03:04.43,DEFAULT,,0,0,0,,{\kf122}Pinkie!
-Dialogue: 0,0:03:04.65,0:03:06.31,DEFAULT,,0,0,0,,{\kf16}A{\kf47} true,{\kf41} true{\kf44} friend
-Dialogue: 0,0:03:06.37,0:03:08.49,DEFAULT,,0,0,0,,{\kf29}Helps{\kf13} a{\kf54} friend{\kf41} in{\kf57} need
-Dialogue: 0,0:03:08.65,0:03:10.62,DEFAULT,,0,0,0,,{\kf22}A{\kf47} friend{\kf38} will{\kf41} be{\kf29} there
-Dialogue: 0,0:03:10.65,0:03:12.37,DEFAULT,,0,0,0,,{\kf13}To{\kf47} help{\kf41} them{\kf51} see
-Dialogue: 0,0:03:12.65,0:03:14.37,DEFAULT,,0,0,0,,{\kf19}A{\kf38} true,{\kf41} true{\kf41} frie{\kf16}-nd
-Dialogue: 0,0:03:14.40,0:03:16.09,DEFAULT,,0,0,0,,{\kf29}Helps{\kf16} a{\kf44} friend{\kf41} in{\kf19} need
-Dialogue: 0,0:03:16.12,0:03:18.09,DEFAULT,,0,0,0,,{\kf13}To{\kf29} see{\kf13} the{\kf119} light
-Dialogue: 0,0:03:18.50,0:03:20.19,DEFAULT,,0,0,0,,{\kf26}That{\kf132} shines
-Dialogue: 0,0:03:20.35,0:03:27.04,DEFAULT,,0,0,0,,{\kf29}From{\kf26} a{\kf97} true,{\kf91} true{\kf416} friend!
+Dialogue: 0,0:00:02.70,0:00:04.27,DEFAULT,,0,0,0,,{\r}{\kf16}It{\kf57} worked,{\kf25} it{\kf58} worked!
+Dialogue: 0,0:00:04.83,0:00:05.71,DEFAULT,,0,0,0,,{\r}{\kf20}Oh,{\kf20} I'm{\kf20} so{\kf28} happy
+Dialogue: 0,0:00:05.71,0:00:06.77,DEFAULT,,0,0,0,,{\r}{\kf19}You're{\kf25} back{\kf19} to{\kf43} normal!
+Dialogue: 0,0:00:07.46,0:00:08.64,DEFAULT,,0,0,0,,{\r}{\kf26}Now{\kf13} we{\kf20} need{\kf20} your{\kf40} help!
+Dialogue: 0,0:00:09.65,0:00:11.40,DEFAULT,,0,0,0,,{\r}{\kf15}A{\kf51} true,{\kf51} true{\kf36} frie{\kf22}-nd
+Dialogue: 0,0:00:11.43,0:00:13.43,DEFAULT,,0,0,0,,{\r}{\kf29}Helps{\kf11} a{\kf51} friend{\kf18} i{\kf29}-in{\kf62} need
+Dialogue: 0,0:00:13.71,0:00:15.68,DEFAULT,,0,0,0,,{\r}{\kf12}A{\kf53} friend{\kf25} wi{\kf25}-ill{\kf49} be{\kf33} there
+Dialogue: 0,0:00:15.71,0:00:17.43,DEFAULT,,0,0,0,,{\r}{\kf13}To{\kf39} help{\kf26} the{\kf26}-em{\kf68} see
+Dialogue: 0,0:00:17.74,0:00:19.40,DEFAULT,,0,0,0,,{\r}{\kf16}A{\kf47} true,{\kf43} true{\kf36} frie{\kf24}-nd
+Dialogue: 0,0:00:19.43,0:00:21.18,DEFAULT,,0,0,0,,{\r}{\kf31}Helps{\kf10} a{\kf58} friend{\kf14} i{\kf34}-in{\kf28} need
+Dialogue: 0,0:00:21.21,0:00:22.47,DEFAULT,,0,0,0,,{\r}{\kf10}To{\kf30} see{\kf19} the{\kf66} light
+Dialogue: 0,0:00:22.65,0:00:25.94,DEFAULT,,0,0,0,,{\r}{\kf22} that{\kf55} shines{\kf18} from{\kf15} a{\kf55} true,{\kf22} tru{\kf47}-ue{\kf94} friend
+Dialogue: 0,0:00:26.03,0:00:26.84,DEFAULT,,0,0,0,,{\r}{\kf10}Um,{\kf71} hello!
+Dialogue: 0,0:00:26.87,0:00:28.38,DEFAULT,,0,0,0,,{\r}{\kf25}Friend{\kf22} trapped{\kf53} inside,{\kf50} remember?
+Dialogue: 0,0:00:28.88,0:00:31.75,DEFAULT,,0,0,0,,{\r}{\kf34}Ra{\kf27}ri{\kf48}ty{\kf51} needs{\kf21} yo{\kf38}-ur{\kf69} help
+Dialogue: 0,0:00:32.16,0:00:33.38,DEFAULT,,0,0,0,,{\r}{\kf22}She's{\kf33} try{\kf18}ing{\kf22} ha{\kf27}-ard
+Dialogue: 0,0:00:33.41,0:00:35.72,DEFAULT,,0,0,0,,{\r}{\kf32}Do{\kf21}ing{\kf36} what{\kf28} she{\kf25}-e{\kf89} can
+Dialogue: 0,0:00:36.38,0:00:37.60,DEFAULT,,0,0,0,,{\r}{\kf29}Would{\kf18} you{\kf75} try,
+Dialogue: 0,0:00:37.66,0:00:39.69,DEFAULT,,0,0,0,,{\r}{\kf18}Just{\kf26} give{\kf30} it{\kf18} a{\kf18}-a{\kf93} chance
+Dialogue: 0,0:00:40.35,0:00:41.35,DEFAULT,,0,0,0,,{\r}{\kf33}You{\kf22} might{\kf22} fi{\kf23}-ind
+Dialogue: 0,0:00:41.48,0:00:43.82,DEFAULT,,0,0,0,,{\r}{\kf22}That{\kf15} you'll{\kf30} start{\kf26} to{\kf15} un{\kf19}der{\kf108}stand
+Dialogue: 0,0:00:44.67,0:00:46.32,DEFAULT,,0,0,0,,{\r}{\kf18}A{\kf48} true,{\kf59} true{\kf18} frie{\kf23}-nd
+Dialogue: 0,0:00:46.42,0:00:48.42,DEFAULT,,0,0,0,,{\r}{\kf31}Helps{\kf14} a{\kf61} friend{\kf17} i{\kf24}-in{\kf53} need
+Dialogue: 0,0:00:48.67,0:00:50.61,DEFAULT,,0,0,0,,{\r}{\kf22}A{\kf52} friend{\kf48} will{\kf48} be{\kf24} there
+Dialogue: 0,0:00:50.70,0:00:52.39,DEFAULT,,0,0,0,,{\r}{\kf19}To{\kf49} help{\kf41} you{\kf60} see
+Dialogue: 0,0:00:52.70,0:00:54.39,DEFAULT,,0,0,0,,{\r}{\kf17}A{\kf47} true,{\kf51} true{\kf30} frie{\kf24}-nd
+Dialogue: 0,0:00:54.42,0:00:56.11,DEFAULT,,0,0,0,,{\r}{\kf30}Helps{\kf17} a{\kf54} friend{\kf17} i{\kf30}-in{\kf21} need
+Dialogue: 0,0:00:56.14,0:00:57.45,DEFAULT,,0,0,0,,{\r}{\kf17}To{\kf31} see{\kf17} the{\kf66} light
+Dialogue: 0,0:00:57.64,0:01:01.71,DEFAULT,,0,0,0,,{\r}{\kf18} that{\kf61} shines{\kf22} from{\kf14} a{\kf47} true,{\kf22} tru{\kf43}-ue{\kf179} friend.
+Dialogue: 0,0:01:02.46,0:01:04.65,DEFAULT,,0,0,0,,{\r}{\kf83}Uh,{\kf33} what{\kf29} just{\kf74} happened?
+Dialogue: 0,0:01:05.15,0:01:06.43,DEFAULT,,0,0,0,,{\r}{\kf29}There's{\kf19} no{\kf22} time{\kf10} to{\kf48} explain,
+Dialogue: 0,0:01:06.71,0:01:07.74,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf16} we{\kf19} need{\kf12} your{\kf37} help
+Dialogue: 0,0:01:07.96,0:01:09.59,DEFAULT,,0,0,0,,{\r}{\kf60}Applejack's{\kf25} trying{\kf10} to{\kf19} make{\kf49} dresses!
+Dialogue: 0,0:01:10.06,0:01:10.99,DEFAULT,,0,0,0,,{\r}{\kf38}Say{\kf19} no{\kf37} more!
+Dialogue: 0,0:01:11.93,0:01:14.78,DEFAULT,,0,0,0,,{\r}{\kf18}Ap{\kf25}ple{\kf43}jack{\kf58} needs{\kf61} your{\kf80} help
+Dialogue: 0,0:01:15.15,0:01:16.34,DEFAULT,,0,0,0,,{\r}{\kf19}She's{\kf33} try{\kf22}ing{\kf45} hard
+Dialogue: 0,0:01:16.43,0:01:18.69,DEFAULT,,0,0,0,,{\r}{\kf21}Do{\kf18}ing{\kf36} what{\kf54} she{\kf96} can
+Dialogue: 0,0:01:19.37,0:01:20.37,DEFAULT,,0,0,0,,{\r}{\kf24}Would{\kf17} you{\kf59} try,
+Dialogue: 0,0:01:20.59,0:01:22.88,DEFAULT,,0,0,0,,{\r}{\kf28}Just{\kf28} give{\kf21} it{\kf35} a{\kf116} chance
+Dialogue: 0,0:01:23.34,0:01:24.31,DEFAULT,,0,0,0,,{\r}{\kf24}You{\kf28} might{\kf45} find
+Dialogue: 0,0:01:24.38,0:01:26.63,DEFAULT,,0,0,0,,{\r}{\kf21}That{\kf21} you'll{\kf32} start{\kf21} to{\kf28} un{\kf14}der{\kf88}stand
+Dialogue: 0,0:01:27.63,0:01:29.32,DEFAULT,,0,0,0,,{\r}{\kf17}A{\kf52} true,{\kf45} true{\kf55} friend
+Dialogue: 0,0:01:29.38,0:01:31.35,DEFAULT,,0,0,0,,{\r}{\kf31}Helps{\kf14} a{\kf52} friend{\kf17} i{\kf38}-in{\kf45} need
+Dialogue: 0,0:01:31.63,0:01:33.63,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf57} friend{\kf45} will{\kf49} be{\kf30} there
+Dialogue: 0,0:01:33.69,0:01:35.35,DEFAULT,,0,0,0,,{\r}{\kf15}To{\kf48} help{\kf48} them{\kf55} see
+Dialogue: 0,0:01:35.70,0:01:37.35,DEFAULT,,0,0,0,,{\r}{\kf15}A{\kf41} true,{\kf52} true{\kf41} frie{\kf17}-nd
+Dialogue: 0,0:01:37.38,0:01:39.10,DEFAULT,,0,0,0,,{\r}{\kf35}Helps{\kf18} a{\kf46} friend{\kf21} i{\kf32}-in{\kf20} need
+Dialogue: 0,0:01:39.14,0:01:40.42,DEFAULT,,0,0,0,,{\r}{\kf18}To{\kf29} see{\kf15} the{\kf66} light
+Dialogue: 0,0:01:40.67,0:01:44.51,DEFAULT,,0,0,0,,{\r}{\kf17}That{\kf52} shines{\kf24} from{\kf17} a{\kf48} true,{\kf72} true{\kf155} friend
+Dialogue: 0,0:01:44.64,0:01:47.52,DEFAULT,,0,0,0,,{\r}{\kf33}*gasp*{\kf26} Oh{\kf48} my,{\kf18} what{\kf10} a{\kf55} terrible{\kf37} dream{\kf15} I{\kf46} had.
+Dialogue: 0,0:01:47.98,0:01:49.80,DEFAULT,,0,0,0,,{\r}{\kf55}Or,{\kf35} maybe{\kf16} I'm{\kf28} still{\kf31} having{\kf16} it.
+Dialogue: 0,0:01:50.11,0:01:51.71,DEFAULT,,0,0,0,,{\r}{\kf53}Rarity,{\kf45} Pinkie{\kf23} Pie{\kf11} is{\kf27} about
+Dialogue: 0,0:01:51.71,0:01:52.77,DEFAULT,,0,0,0,,{\r}{\kf10}To{\kf21} lose{\kf10} the{\kf31} apple{\kf34} farm
+Dialogue: 0,0:01:52.99,0:01:54.39,DEFAULT,,0,0,0,,{\r}{\kf19}We{\kf22} need{\kf66} Applejack's{\kf34} help!
+Dialogue: 0,0:01:54.99,0:01:56.24,DEFAULT,,0,0,0,,{\r}{\kf41}Lose{\kf12} the{\kf38} apple{\kf34} farm?
+Dialogue: 0,0:01:56.52,0:01:57.77,DEFAULT,,0,0,0,,{\r}{\kf19}Well{\kf16} we{\kf25} can't{\kf19} let{\kf22} that{\kf24} happen,
+Dialogue: 0,0:01:57.80,0:01:58.65,DEFAULT,,0,0,0,,{\r}{\kf24}Now{\kf31} can{\kf29} we?
+Dialogue: 0,0:01:58.93,0:02:01.84,DEFAULT,,0,0,0,,{\r}{\kf26}Pin{\kf22}kie{\kf48} Pie{\kf52} is{\kf30} in{\kf52} trou{\kf61}ble
+Dialogue: 0,0:02:02.18,0:02:03.71,DEFAULT,,0,0,0,,{\r}{\kf19}We{\kf27} need{\kf23} to{\kf46} get{\kf38} there
+Dialogue: 0,0:02:03.84,0:02:06.09,DEFAULT,,0,0,0,,{\r}{\kf50}By{\kf18} he{\kf29}-er{\kf128} side
+Dialogue: 0,0:02:06.37,0:02:07.78,DEFAULT,,0,0,0,,{\r}{\kf21}We{\kf25} can{\kf35} try{\kf25} to{\kf35} do
+Dialogue: 0,0:02:07.87,0:02:10.15,DEFAULT,,0,0,0,,{\r}{\kf45}What{\kf52} we{\kf48} can{\kf83} now
+Dialogue: 0,0:02:10.37,0:02:14.50,DEFAULT,,0,0,0,,{\r}{\kf24}For{\kf21} to{\kf28}ge{\kf14}ther{\kf28} we{\kf31} can{\kf48} be{\kf45} her{\kf174} guide
+Dialogue: 0,0:02:14.62,0:02:16.28,DEFAULT,,0,0,0,,{\r}{\kf24}A{\kf41} true,{\kf52} true{\kf49} friend
+Dialogue: 0,0:02:16.34,0:02:18.41,DEFAULT,,0,0,0,,{\r}{\kf33}Helps{\kf20} a{\kf43} friend{\kf53} in{\kf57} need
+Dialogue: 0,0:02:18.66,0:02:20.63,DEFAULT,,0,0,0,,{\r}{\kf18}A{\kf50} friend{\kf50} will{\kf57} be{\kf22} there
+Dialogue: 0,0:02:20.66,0:02:22.41,DEFAULT,,0,0,0,,{\r}{\kf18}To{\kf50} help{\kf46} them{\kf61} see.
+Dialogue: 0,0:02:22.69,0:02:24.35,DEFAULT,,0,0,0,,{\r}{\kf14}A{\kf46} true,{\kf53} true{\kf35} frie{\kf18}-nd
+Dialogue: 0,0:02:24.41,0:02:26.13,DEFAULT,,0,0,0,,{\r}{\kf30}Helps{\kf17} a{\kf51} friend{\kf51} in{\kf23} need
+Dialogue: 0,0:02:26.16,0:02:27.51,DEFAULT,,0,0,0,,{\r}{\kf15}To{\kf26} see{\kf15} the{\kf78} light
+Dialogue: 0,0:02:27.66,0:02:32.48,DEFAULT,,0,0,0,,{\r}{\kf20} that{\kf52} shines{\kf26} from{\kf13} a{\kf49} true,{\kf75} true{\kf247} friend
+Dialogue: 0,0:02:32.60,0:02:35.14,DEFAULT,,0,0,0,,{\r}{\kf108}Yee-haw!{\kf30} Now{\kf37} that's{\kf27} more{\kf27} like{\kf24} it!
+Dialogue: 0,0:02:35.14,0:02:35.82,DEFAULT,,0,0,0,,{\r}{\kf28}What's{\kf41} next?
+Dialogue: 0,0:02:35.95,0:02:37.51,DEFAULT,,0,0,0,,{\r}{\kf16}The{\kf64} townspeople{\kf10} are{\kf66} furious
+Dialogue: 0,0:02:37.61,0:02:39.36,DEFAULT,,0,0,0,,{\r}{\kf16}We{\kf25} need{\kf10} the{\kf29} old{\kf35} Pinkie{\kf25} Pie{\kf35} back
+Dialogue: 0,0:02:39.61,0:02:41.45,DEFAULT,,0,0,0,,{\r}{\kf30}I'm{\kf20} on{\kf17} it,{\kf20} I{\kf23} know{\kf30} just{\kf13} the{\kf31} thing
+Dialogue: 0,0:02:41.61,0:02:43.30,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf55} towns{\kf26}peo{\kf26}ple{\kf29} need{\kf15} you,
+Dialogue: 0,0:02:43.36,0:02:45.42,DEFAULT,,0,0,0,,{\r}{\kf29}They've{\kf18} been{\kf61} sad{\kf22} for{\kf14} a{\kf62} while
+Dialogue: 0,0:02:45.61,0:02:47.68,DEFAULT,,0,0,0,,{\r}{\kf31}They{\kf28} march{\kf14} a{\kf52}round,{\kf24} fa{\kf28}ces{\kf29} frown
+Dialogue: 0,0:02:47.71,0:02:49.36,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} ne{\kf18}ver{\kf32} seem{\kf11} to{\kf63} smile
+Dialogue: 0,0:02:49.68,0:02:51.30,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf29} if{\kf18} you{\kf22} feel{\kf25} like{\kf29} hel{\kf18}ping,
+Dialogue: 0,0:02:51.40,0:02:54.55,DEFAULT,,0,0,0,,{\r}{\kf27}We'd{\kf17} app{\kf20}re{\kf27}ci{\kf31}ate{\kf10} a{\kf184} lot!
+Dialogue: 0,0:02:54.68,0:02:56.59,DEFAULT,,0,0,0,,{\r}{\kf15}If{\kf11} you{\kf23} get{\kf15} up{\kf31} there{\kf15} and{\kf31} spread{\kf23} some{\kf27} cheer
+Dialogue: 0,0:02:56.62,0:02:59.62,DEFAULT,,0,0,0,,{\r}{\kf21}From{\kf24} here{\kf14} to{\kf28} Can{\kf21}ter{\kf192}lot!
+Dialogue: 0,0:02:59.74,0:03:00.78,DEFAULT,,0,0,0,,{\r}{\kf13}Come{\kf37} on{\kf53} ponies,
+Dialogue: 0,0:03:00.93,0:03:03.18,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf35} wanna{\kf29} see{\kf48} you{\kf87} smile!
+Dialogue: 0,0:03:03.22,0:03:04.44,DEFAULT,,0,0,0,,{\r}{\kf122}Pinkie!
+Dialogue: 0,0:03:04.65,0:03:06.31,DEFAULT,,0,0,0,,{\r}{\kf18}A{\kf53} true,{\kf46} true{\kf49} friend
+Dialogue: 0,0:03:06.37,0:03:08.50,DEFAULT,,0,0,0,,{\r}{\kf31}Helps{\kf14} a{\kf59} friend{\kf45} in{\kf64} need
+Dialogue: 0,0:03:08.66,0:03:10.63,DEFAULT,,0,0,0,,{\r}{\kf25}A{\kf53} friend{\kf42} will{\kf46} be{\kf31} there
+Dialogue: 0,0:03:10.66,0:03:12.38,DEFAULT,,0,0,0,,{\r}{\kf14}To{\kf54} help{\kf47} them{\kf57} see
+Dialogue: 0,0:03:12.66,0:03:14.38,DEFAULT,,0,0,0,,{\r}{\kf21}A{\kf42} true,{\kf46} true{\kf46} frie{\kf17}-nd
+Dialogue: 0,0:03:14.41,0:03:16.10,DEFAULT,,0,0,0,,{\r}{\kf32}Helps{\kf18} a{\kf50} friend{\kf47} in{\kf22} need
+Dialogue: 0,0:03:16.13,0:03:18.10,DEFAULT,,0,0,0,,{\r}{\kf14}To{\kf32} see{\kf14} the{\kf137} light
+Dialogue: 0,0:03:18.51,0:03:20.19,DEFAULT,,0,0,0,,{\r}{\kf27}That{\kf142} shines
+Dialogue: 0,0:03:20.35,0:03:27.04,DEFAULT,,0,0,0,,{\r}{\kf29}From{\kf25} a{\kf99} true,{\kf92} true{\kf424} friend!

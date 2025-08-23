@@ -1,71 +1,78 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Harmony Ascendant
+Artist: Ponyphonic
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.50,0:00:04.10,DEFAULT,,0,0,0,,{\kf16}It{\kf25} was{\kf31} al{\kf31}ways{\kf20} ve{\kf20}ry{\kf31} loud{\kf25} back{\kf31} then
-Dialogue: 0,0:00:05.10,0:00:08.80,DEFAULT,,0,0,0,,{\kf16}A{\kf35} great{\kf20} a{\kf25}gi{\kf25}ta{\kf31}tion{\kf31} is{\kf20}sued{\kf10} from{\kf10} the{\kf25} ground{\kf31} it{\kf35}self
-Dialogue: 0,0:00:09.40,0:00:13.75,DEFAULT,,0,0,0,,{\kf31}Ris{\kf20}ing{\kf20} in{\kf10}to{\kf10} the{\kf20} air{\kf20} and{\kf20} fil{\kf20}ling{\kf20} all{\kf16} with{\kf31} dis{\kf20}con{\kf31}tent{\kf20} and{\kf25} wor{\kf25}ry
-Dialogue: 0,0:00:14.80,0:00:18.45,DEFAULT,,0,0,0,,{\kf20}Be{\kf16}neath{\kf20} us{\kf31} stretched{\kf16} a{\kf20} mad{\kf35} land{\kf25}scape{\kf20} of{\kf31} spots{\kf16} and{\kf25} che{\kf31}ckers
-Dialogue: 0,0:00:19.00,0:00:21.85,DEFAULT,,0,0,0,,{\kf20}A{\kf45}bove{\kf31} twis{\kf10}ted{\kf5} a{\kf20} ka{\kf16}lei{\kf20}do{\kf20}scope{\kf45} sky
-Dialogue: 0,0:00:22.65,0:00:26.80,DEFAULT,,0,0,0,,{\kf20}And{\kf25} all{\kf20} bet{\kf25}ween{\kf20} was{\kf35} cease{\kf40}less,{\kf40} un{\kf35}bro{\kf25}ken{\kf35} cha{\kf40}os
-Dialogue: 0,0:00:31.25,0:00:34.25,DEFAULT,,0,0,0,,{\kf20}E{\kf25}ven{\kf16}tu{\kf16}al{\kf25}ly,{\kf16} we{\kf31} grew{\kf20} cal{\kf31}lous{\kf16} to{\kf10} the{\kf25} cla{\kf25}mor
-Dialogue: 0,0:00:34.80,0:00:37.40,DEFAULT,,0,0,0,,{\kf25}And{\kf25} slipped{\kf25} from{\kf20} an{\kf16}xi{\kf20}e{\kf16}ty{\kf16} in{\kf16}to{\kf16} ma{\kf45}laise
-Dialogue: 0,0:00:38.25,0:00:40.50,DEFAULT,,0,0,0,,{\kf20}Shed{\kf16}ding{\kf20} our{\kf25} pas{\kf20}sion{\kf16} and{\kf25} our{\kf31} pur{\kf31}pose
-Dialogue: 0,0:00:41.70,0:00:45.25,DEFAULT,,0,0,0,,{\kf16}It{\kf31} was{\kf25} thus{\kf16} that{\kf16} the{\kf20} two{\kf31} great{\kf31} sis{\kf31}ters{\kf35} found{\kf25} us
-Dialogue: 0,0:00:47.35,0:00:49.95,DEFAULT,,0,0,0,,{\kf25}From{\kf20} some{\kf20}where{\kf16} be{\kf20}yond{\kf16} the{\kf16} ho{\kf25}ri{\kf16}zon,{\kf16} they{\kf40} came
-Dialogue: 0,0:00:50.05,0:00:51.95,DEFAULT,,0,0,0,,{\kf20}See{\kf20}ing{\kf16} beau{\kf10}ty{\kf16} a{\kf20}midst{\kf10} the{\kf25} bed{\kf25}lam
-Dialogue: 0,0:00:52.85,0:00:56.20,DEFAULT,,0,0,0,,{\kf20}They{\kf20} took{\kf20} up{\kf20} our{\kf20} sad{\kf35} world{\kf25} bet{\kf20}ween{\kf16} them{\kf20} and{\kf20} tamed{\kf20} it
-Dialogue: 0,0:00:57.10,0:00:58.40,DEFAULT,,0,0,0,,{\kf25}Bend{\kf10}ing{\kf16} it{\kf10} to{\kf16} their{\kf31} will
-Dialogue: 0,0:01:00.65,0:01:05.05,DEFAULT,,0,0,0,,{\kf20}And{\kf31} when{\kf16} the{\kf25} earth{\kf20} was{\kf16} rea{\kf25}dy,{\kf20} they{\kf35} looked{\kf16} to{\kf16} the{\kf56} sky
-Dialogue: 0,0:01:06.20,0:01:09.60,DEFAULT,,0,0,0,,{\kf31}And{\kf61} there,{\kf20} gave{\kf20} us{\kf20} their{\kf25} grea{\kf25}test{\kf40} gifts
-Dialogue: 0,0:01:21.20,0:01:28.95,DEFAULT,,0,0,0,,{\kf20}The{\kf40} sun{\kf16} to{\kf25} light{\kf16} the{\kf45} day,{\kf16} and{\kf20} the{\kf40} moon{\kf20} to{\kf25} keep{\kf31} watch{\kf16} in{\kf10} the{\kf45} night
-Dialogue: 0,0:01:31.90,0:01:34.70,DEFAULT,,0,0,0,,{\kf16}A{\kf20} ce{\kf20}les{\kf16}ti{\kf16}al{\kf35} dance{\kf16} to{\kf16} or{\kf16}der{\kf16} our{\kf25} mo{\kf31}ments
-Dialogue: 0,0:01:35.85,0:01:38.25,DEFAULT,,0,0,0,,{\kf16}The{\kf35} slow{\kf35} heart{\kf25}beat{\kf16} of{\kf20} our{\kf40} world
-Dialogue: 0,0:01:42.15,0:01:44.55,DEFAULT,,0,0,0,,{\kf25}Two{\kf31} for{\kf20}ces{\kf20} in{\kf25} per{\kf25}fect{\kf20} ba{\kf45}lance
-Dialogue: 0,0:01:45.90,0:01:52.65,DEFAULT,,0,0,0,,{\kf25}This{\kf16} is{\kf20} our{\kf31} foun{\kf20}da{\kf35}tion;{\kf35} from{\kf45} this,{\kf25} all{\kf45} else{\kf35} fol{\kf50}lows
-Dialogue: 0,0:02:07.10,0:02:09.90,DEFAULT,,0,0,0,,{\kf40}Dawn{\kf35} breaks{\kf25} through{\kf20} the{\kf40} dar{\kf31}kened{\kf50} skies
-Dialogue: 0,0:02:10.15,0:02:13.00,DEFAULT,,0,0,0,,{\kf20}We{\kf31} lift{\kf31} our{\kf31} heads{\kf16} and{\kf35} dry{\kf31} our{\kf35} eyes
-Dialogue: 0,0:02:13.25,0:02:16.25,DEFAULT,,0,0,0,,{\kf31}When{\kf31} day{\kf35} is{\kf25} done,{\kf20} we're{\kf35} dou{\kf31}bly{\kf40} blessed
-Dialogue: 0,0:02:16.55,0:02:19.50,DEFAULT,,0,0,0,,{\kf31}With{\kf40} star{\kf31}ry{\kf35} sky{\kf16} and{\kf25} moon{\kf31} for{\kf35} rest
-Dialogue: 0,0:02:19.75,0:02:22.80,DEFAULT,,0,0,0,,{\kf31}No{\kf40} lon{\kf35}ger{\kf35} bound{\kf20} to{\kf31} hope{\kf35}less{\kf35}ness
-Dialogue: 0,0:02:23.10,0:02:26.10,DEFAULT,,0,0,0,,{\kf35}We{\kf35} dance{\kf31} as{\kf31} one{\kf20} with{\kf31} na{\kf35}ture{\kf45} now
-Dialogue: 0,0:02:26.50,0:02:30.40,DEFAULT,,0,0,0,,{\kf16}The{\kf31} sun{\kf31} and{\kf31} moon{\kf25} will{\kf45} show{\kf40} us{\kf45} how
-Dialogue: 0,0:02:49.55,0:02:52.35,DEFAULT,,0,0,0,,{\kf35}Rest{\kf25}less{\kf31} was{\kf16} the{\kf35} world{\kf31} we{\kf56} knew
-Dialogue: 0,0:02:52.65,0:02:55.50,DEFAULT,,0,0,0,,{\kf16}And{\kf40} cheer{\kf31}less{\kf35} were{\kf25}~{\kf16} the{\kf100} days
-Dialogue: 0,0:02:55.85,0:02:58.45,DEFAULT,,0,0,0,,{\kf20}Of{\kf40} co{\kf31}lors{\kf31} run{\kf20} to{\kf40}ge{\kf56}ther
-Dialogue: 0,0:02:59.00,0:03:01.55,DEFAULT,,0,0,0,,{\kf16}In{\kf16} an{\kf31} end{\kf35}less{\kf35} mir{\kf25}ror{\kf56} maze
-Dialogue: 0,0:03:02.40,0:03:04.95,DEFAULT,,0,0,0,,{\kf20}But{\kf31} then{\kf25} two{\kf35} sis{\kf35}ters{\kf31} brought{\kf25} us
-Dialogue: 0,0:03:05.15,0:03:08.05,DEFAULT,,0,0,0,,{\kf31}Out{\kf31} of{\kf31} Dis{\kf31}cord's{\kf35} dark{\kf25} ca{\kf65}price
-Dialogue: 0,0:03:08.95,0:03:11.50,DEFAULT,,0,0,0,,{\kf20}And{\kf31} gave{\kf25} us{\kf35} lights{\kf31} to{\kf31} guide{\kf31} us
-Dialogue: 0,0:03:11.75,0:03:15.65,DEFAULT,,0,0,0,,{\kf25}In{\kf31}to{\kf40} har{\kf40}mo{\kf56}ny{\kf16} and{\kf155} peace
-Dialogue: 0,0:03:27.10,0:03:32.45,DEFAULT,,0,0,0,,{\kf75}Day{\kf70} for{\kf80} ri{\kf61}sing;{\kf45} night{\kf65} for{\kf45} sleep
-Dialogue: 0,0:03:33.65,0:03:39.40,DEFAULT,,0,0,0,,{\kf75}As{\kf61} in{\kf80} hea{\kf45}ven,{\kf70} so{\kf80} be{\kf86}low
-Dialogue: 0,0:03:40.20,0:03:45.80,DEFAULT,,0,0,0,,{\kf75}Cha{\kf50}os{\kf75} ba{\kf40}nish;{\kf80} or{\kf61}der{\kf70} keep
-Dialogue: 0,0:03:46.70,0:03:53.30,DEFAULT,,0,0,0,,{\kf80}E{\kf65}ver{\kf75} may{\kf35} it{\kf61} thus{\kf70}ly{\kf171} go
-Dialogue: 0,0:03:59.75,0:04:02.55,DEFAULT,,0,0,0,,{\kf40}Me{\kf40}mo{\kf35}ries{\kf20} are{\kf45} fa{\kf31}ding{\kf56} now
-Dialogue: 0,0:04:02.85,0:04:05.40,DEFAULT,,0,0,0,,{\kf16}The{\kf50} fog{\kf25} be{\kf45}gins{\kf16} to{\kf75} thin
-Dialogue: 0,0:04:06.05,0:04:08.85,DEFAULT,,0,0,0,,{\kf20}The{\kf40} drea{\kf35}mer{\kf35} is{\kf20} a{\kf31}wa{\kf70}kened
-Dialogue: 0,0:04:09.55,0:04:11.70,DEFAULT,,0,0,0,,{\kf45}Life{\kf40} can{\kf25} be{\kf65}gin
-Dialogue: 0,0:04:12.60,0:04:15.15,DEFAULT,,0,0,0,,{\kf16}And{\kf31} all{\kf31} that's{\kf31} past{\kf31} is{\kf35} pre{\kf31}face
-Dialogue: 0,0:04:15.30,0:04:18.60,DEFAULT,,0,0,0,,{\kf31}To{\kf31} the{\kf40} sto{\kf31}ry{\kf31} of{\kf40} to{\kf90}day
-Dialogue: 0,0:04:18.90,0:04:21.25,DEFAULT,,0,0,0,,{\kf20}Now{\kf20} that{\kf40} har{\kf40}mo{\kf31}ny{\kf35} has{\kf25} come
-Dialogue: 0,0:04:21.45,0:04:25.80,DEFAULT,,0,0,0,,{\kf25}And{\kf45} dri{\kf35}ven{\kf35} dis{\kf45}so{\kf45}nance{\kf25} a{\kf150}way
-Dialogue: 0,0:04:37.30,0:04:42.70,DEFAULT,,0,0,0,,{\kf75}Day{\kf65} for{\kf65} ri{\kf45}sing;{\kf50} night{\kf61} for{\kf45} sleep
-Dialogue: 0,0:04:43.85,0:04:49.95,DEFAULT,,0,0,0,,{\kf70}As{\kf65} in{\kf70} hea{\kf40}ven,{\kf70} so{\kf65} be{\kf121}low
-Dialogue: 0,0:04:50.35,0:04:56.00,DEFAULT,,0,0,0,,{\kf80}Cha{\kf56}os{\kf80} ba{\kf56}nish;{\kf80} or{\kf61}der{\kf70} keep
-Dialogue: 0,0:04:56.90,0:05:03.20,DEFAULT,,0,0,0,,{\kf75}E{\kf65}ver{\kf65} may{\kf45} it{\kf65} thus{\kf65}ly{\kf135} go
-Dialogue: 0,0:05:03.50,0:05:09.15,DEFAULT,,0,0,0,,{\kf70}Per{\kf50}fect{\kf70} cos{\kf61}mic{\kf65} sym{\kf70}me{\kf80}try
-Dialogue: 0,0:05:10.00,0:05:15.80,DEFAULT,,0,0,0,,{\kf65}Sis{\kf65}ters{\kf61} of{\kf65} the{\kf65} moon{\kf65} and{\kf95} sun
-Dialogue: 0,0:05:16.50,0:05:22.30,DEFAULT,,0,0,0,,{\kf75}Cor{\kf75}ner{\kf75}stone{\kf61} of{\kf75} har{\kf75}mo{\kf90}ny
-Dialogue: 0,0:05:23.00,0:05:33.65,DEFAULT,,0,0,0,,{\kf80}Ne{\kf61}ver{\kf65} let{\kf70} it{\kf160} be{\kf160} un{\kf405}done
-Dialogue: 0,0:05:45.90,0:05:48.80,DEFAULT,,0,0,0,,{\kf70}Day{\kf65} for{\kf75} ri{\kf40}sing
-Dialogue: 0,0:05:52.40,0:05:54.60,DEFAULT,,0,0,0,,{\kf50}Night{\kf56} for{\kf56} sleep
-Dialogue: 0,0:05:58.95,0:06:02.15,DEFAULT,,0,0,0,,{\kf75}Cha{\kf61}os{\kf70} ba{\kf75}nish
-Dialogue: 0,0:06:05.45,0:06:12.10,DEFAULT,,0,0,0,,{\kf160}Or{\kf150}der{\kf155} keep{\kf171}~
+Dialogue: 0,0:00:01.50,0:00:04.10,DEFAULT,,0,0,0,,{\r}{\kf17}It{\kf29} was{\kf35} al{\kf35}ways{\kf23} ve{\kf23}ry{\kf35} loud{\kf29} back{\kf34} then
+Dialogue: 0,0:00:05.10,0:00:08.80,DEFAULT,,0,0,0,,{\r}{\kf18}A{\kf42} great{\kf24} a{\kf30}gi{\kf30}ta{\kf36}tion{\kf36} is{\kf24}sued{\kf12} from{\kf12} the{\kf30} ground{\kf36} it{\kf40}self
+Dialogue: 0,0:00:09.40,0:00:13.75,DEFAULT,,0,0,0,,{\r}{\kf37}Ris{\kf25}ing{\kf25} in{\kf12}to{\kf12} the{\kf25} air{\kf25} and{\kf25} fil{\kf25}ling{\kf25} all{\kf18} with{\kf37} dis{\kf25}con{\kf37}tent{\kf25} and{\kf31} wor{\kf26}ry
+Dialogue: 0,0:00:14.80,0:00:18.45,DEFAULT,,0,0,0,,{\r}{\kf24}Be{\kf18}neath{\kf24} us{\kf36} stretched{\kf18} a{\kf24} mad{\kf43} land{\kf30}scape{\kf24} of{\kf36} spots{\kf18} and{\kf30} che{\kf40}ckers
+Dialogue: 0,0:00:19.00,0:00:21.85,DEFAULT,,0,0,0,,{\r}{\kf25}A{\kf56}bove{\kf37} twis{\kf12}ted{\kf10} a{\kf25} ka{\kf19}lei{\kf25}do{\kf25}scope{\kf51} sky
+Dialogue: 0,0:00:22.65,0:00:26.80,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf29} all{\kf23} bet{\kf29}ween{\kf23} was{\kf40} cease{\kf46}less,{\kf46} un{\kf40}bro{\kf29}ken{\kf40} cha{\kf47}os
+Dialogue: 0,0:00:31.25,0:00:34.25,DEFAULT,,0,0,0,,{\r}{\kf22}E{\kf28}ven{\kf17}tu{\kf17}al{\kf28}ly,{\kf17} we{\kf33} grew{\kf22} cal{\kf33}lous{\kf17} to{\kf11} the{\kf28} cla{\kf27}mor
+Dialogue: 0,0:00:34.80,0:00:37.40,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf28} slipped{\kf28} from{\kf22} an{\kf17}xi{\kf22}e{\kf17}ty{\kf17} in{\kf17}to{\kf17} ma{\kf47}laise
+Dialogue: 0,0:00:38.25,0:00:40.50,DEFAULT,,0,0,0,,{\r}{\kf22}Shed{\kf17}ding{\kf22} our{\kf28} pas{\kf22}sion{\kf17} and{\kf28} our{\kf34} pur{\kf35}pose
+Dialogue: 0,0:00:41.70,0:00:45.25,DEFAULT,,0,0,0,,{\r}{\kf20}It{\kf39} was{\kf33} thus{\kf20} that{\kf20} the{\kf26} two{\kf39} great{\kf39} sis{\kf39}ters{\kf46} found{\kf34} us
+Dialogue: 0,0:00:47.35,0:00:49.95,DEFAULT,,0,0,0,,{\r}{\kf29}From{\kf23} some{\kf23}where{\kf17} be{\kf23}yond{\kf17} the{\kf17} ho{\kf29}ri{\kf17}zon,{\kf17} they{\kf48} came
+Dialogue: 0,0:00:50.05,0:00:51.95,DEFAULT,,0,0,0,,{\r}{\kf24}See{\kf24}ing{\kf18} beau{\kf12}ty{\kf18} a{\kf24}midst{\kf12} the{\kf30} bed{\kf28}lam
+Dialogue: 0,0:00:52.85,0:00:56.20,DEFAULT,,0,0,0,,{\r}{\kf26}They{\kf26} took{\kf26} up{\kf26} our{\kf26} sad{\kf46} world{\kf33} bet{\kf26}ween{\kf20} them{\kf26} and{\kf26} tamed{\kf28} it
+Dialogue: 0,0:00:57.10,0:00:58.40,DEFAULT,,0,0,0,,{\r}{\kf31}Bend{\kf12}ing{\kf19} it{\kf12} to{\kf19} their{\kf37} will
+Dialogue: 0,0:01:00.65,0:01:05.05,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf46} when{\kf23} the{\kf38} earth{\kf30} was{\kf23} rea{\kf38}dy,{\kf30} they{\kf53} looked{\kf23} to{\kf23} the{\kf83} sky
+Dialogue: 0,0:01:06.20,0:01:09.60,DEFAULT,,0,0,0,,{\r}{\kf42}And{\kf85} there,{\kf28} gave{\kf28} us{\kf28} their{\kf35} grea{\kf35}test{\kf59} gifts
+Dialogue: 0,0:01:21.20,0:01:28.95,DEFAULT,,0,0,0,,{\r}{\kf41}The{\kf82} sun{\kf31} to{\kf51} light{\kf31} the{\kf92} day,{\kf31} and{\kf41} the{\kf82} moon{\kf41} to{\kf51} keep{\kf61} watch{\kf31} in{\kf20} the{\kf89} night
+Dialogue: 0,0:01:31.90,0:01:34.70,DEFAULT,,0,0,0,,{\r}{\kf18}A{\kf24} ce{\kf24}les{\kf18}ti{\kf18}al{\kf42} dance{\kf18} to{\kf18} or{\kf18}der{\kf18} our{\kf30} mo{\kf34}ments
+Dialogue: 0,0:01:35.85,0:01:38.25,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf45} slow{\kf45} heart{\kf32}beat{\kf19} of{\kf26} our{\kf54} world
+Dialogue: 0,0:01:42.15,0:01:44.55,DEFAULT,,0,0,0,,{\r}{\kf29}Two{\kf34} for{\kf23}ces{\kf23} in{\kf29} per{\kf29}fect{\kf23} ba{\kf50}lance
+Dialogue: 0,0:01:45.90,0:01:52.65,DEFAULT,,0,0,0,,{\r}{\kf44}This{\kf27} is{\kf36} our{\kf53} foun{\kf36}da{\kf62}tion;{\kf62} from{\kf80} this,{\kf44} all{\kf80} else{\kf62} fol{\kf89}lows
+Dialogue: 0,0:02:07.10,0:02:09.90,DEFAULT,,0,0,0,,{\r}{\kf47}Dawn{\kf41} breaks{\kf29} through{\kf23} the{\kf47} dar{\kf35}kened{\kf58} skies
+Dialogue: 0,0:02:10.15,0:02:13.00,DEFAULT,,0,0,0,,{\r}{\kf25}We{\kf38} lift{\kf38} our{\kf38} heads{\kf19} and{\kf44} dry{\kf38} our{\kf45} eyes
+Dialogue: 0,0:02:13.25,0:02:16.25,DEFAULT,,0,0,0,,{\r}{\kf37}When{\kf37} day{\kf43} is{\kf31} done,{\kf24} we're{\kf43} dou{\kf37}bly{\kf48} blessed
+Dialogue: 0,0:02:16.55,0:02:19.50,DEFAULT,,0,0,0,,{\r}{\kf37}With{\kf49} star{\kf37}ry{\kf43} sky{\kf18} and{\kf31} moon{\kf37} for{\kf43} rest
+Dialogue: 0,0:02:19.75,0:02:22.80,DEFAULT,,0,0,0,,{\r}{\kf35}No{\kf47} lon{\kf41}ger{\kf41} bound{\kf23} to{\kf35} hope{\kf41}less{\kf42}ness
+Dialogue: 0,0:02:23.10,0:02:26.10,DEFAULT,,0,0,0,,{\r}{\kf40}We{\kf40} dance{\kf35} as{\kf35} one{\kf23} with{\kf35} na{\kf40}ture{\kf52} now
+Dialogue: 0,0:02:26.50,0:02:30.40,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf45} sun{\kf45} and{\kf45} moon{\kf38} will{\kf68} show{\kf60} us{\kf67} how
+Dialogue: 0,0:02:49.55,0:02:52.35,DEFAULT,,0,0,0,,{\r}{\kf44}Rest{\kf31}less{\kf37} was{\kf19} the{\kf44} world{\kf37} we{\kf68} knew
+Dialogue: 0,0:02:52.65,0:02:55.50,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf44} cheer{\kf33}less{\kf38} were{\kf27}~{\kf16} the{\kf111} days
+Dialogue: 0,0:02:55.85,0:02:58.45,DEFAULT,,0,0,0,,{\r}{\kf22}Of{\kf44} co{\kf33}lors{\kf33} run{\kf22} to{\kf44}ge{\kf62}ther
+Dialogue: 0,0:02:59.00,0:03:01.55,DEFAULT,,0,0,0,,{\r}{\kf18}In{\kf18} an{\kf36} end{\kf43}less{\kf43} mir{\kf30}ror{\kf67} maze
+Dialogue: 0,0:03:02.40,0:03:04.95,DEFAULT,,0,0,0,,{\r}{\kf26}But{\kf38} then{\kf32} two{\kf45} sis{\kf45}ters{\kf38} brought{\kf31} us
+Dialogue: 0,0:03:05.15,0:03:08.05,DEFAULT,,0,0,0,,{\r}{\kf36}Out{\kf36} of{\kf36} Dis{\kf36}cord's{\kf41} dark{\kf30} ca{\kf75}price
+Dialogue: 0,0:03:08.95,0:03:11.50,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf38} gave{\kf32} us{\kf45} lights{\kf38} to{\kf38} guide{\kf38} us
+Dialogue: 0,0:03:11.75,0:03:15.65,DEFAULT,,0,0,0,,{\r}{\kf27}In{\kf32}to{\kf43} har{\kf43}mo{\kf60}ny{\kf16} and{\kf169} peace
+Dialogue: 0,0:03:27.10,0:03:32.45,DEFAULT,,0,0,0,,{\r}{\kf91}Day{\kf85} for{\kf97} ri{\kf73}sing;{\kf55} night{\kf79} for{\kf55} sleep
+Dialogue: 0,0:03:33.65,0:03:39.40,DEFAULT,,0,0,0,,{\r}{\kf87}As{\kf70} in{\kf93} hea{\kf52}ven,{\kf81} so{\kf93} be{\kf99}low
+Dialogue: 0,0:03:40.20,0:03:45.80,DEFAULT,,0,0,0,,{\r}{\kf93}Cha{\kf62}os{\kf93} ba{\kf50}nish;{\kf100} or{\kf75}der{\kf87} keep
+Dialogue: 0,0:03:46.70,0:03:53.30,DEFAULT,,0,0,0,,{\r}{\kf95}E{\kf77}ver{\kf89} may{\kf42} it{\kf71} thus{\kf83}ly{\kf203} go
+Dialogue: 0,0:03:59.75,0:04:02.55,DEFAULT,,0,0,0,,{\r}{\kf42}Me{\kf42}mo{\kf37}ries{\kf21} are{\kf48} fa{\kf32}ding{\kf58} now
+Dialogue: 0,0:04:02.85,0:04:05.40,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf57} fog{\kf28} be{\kf51}gins{\kf17} to{\kf85} thin
+Dialogue: 0,0:04:06.05,0:04:08.85,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf45} drea{\kf39}mer{\kf39} is{\kf22} a{\kf34}wa{\kf79}kened
+Dialogue: 0,0:04:09.55,0:04:11.70,DEFAULT,,0,0,0,,{\r}{\kf55}Life{\kf49} can{\kf31} be{\kf80}gin
+Dialogue: 0,0:04:12.60,0:04:15.15,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf38} all{\kf38} that's{\kf38} past{\kf38} is{\kf45} pre{\kf39}face
+Dialogue: 0,0:04:15.30,0:04:18.60,DEFAULT,,0,0,0,,{\r}{\kf34}To{\kf34} the{\kf46} sto{\kf34}ry{\kf34} of{\kf46} to{\kf102}day
+Dialogue: 0,0:04:18.90,0:04:21.25,DEFAULT,,0,0,0,,{\r}{\kf22}Now{\kf22} that{\kf45} har{\kf45}mo{\kf34}ny{\kf39} has{\kf28} come
+Dialogue: 0,0:04:21.45,0:04:25.80,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf48} dri{\kf38}ven{\kf38} dis{\kf48}so{\kf48}nance{\kf27} a{\kf161}way
+Dialogue: 0,0:04:37.30,0:04:42.70,DEFAULT,,0,0,0,,{\r}{\kf100}Day{\kf87} for{\kf87} ri{\kf60}sing;{\kf67} night{\kf80} for{\kf59} sleep
+Dialogue: 0,0:04:43.85,0:04:49.95,DEFAULT,,0,0,0,,{\r}{\kf85}As{\kf79} in{\kf85} hea{\kf49}ven,{\kf85} so{\kf79} be{\kf148}low
+Dialogue: 0,0:04:50.35,0:04:56.00,DEFAULT,,0,0,0,,{\r}{\kf94}Cha{\kf65}os{\kf94} ba{\kf65}nish;{\kf94} or{\kf71}der{\kf82} keep
+Dialogue: 0,0:04:56.90,0:05:03.20,DEFAULT,,0,0,0,,{\r}{\kf92}E{\kf80}ver{\kf80} may{\kf55} it{\kf80} thus{\kf80}ly{\kf163} go
+Dialogue: 0,0:05:03.50,0:05:09.15,DEFAULT,,0,0,0,,{\r}{\kf85}Per{\kf61}fect{\kf85} cos{\kf73}mic{\kf79} sym{\kf85}me{\kf97}try
+Dialogue: 0,0:05:10.00,0:05:15.80,DEFAULT,,0,0,0,,{\r}{\kf79}Sis{\kf79}ters{\kf72} of{\kf79} the{\kf79} moon{\kf79} and{\kf113} sun
+Dialogue: 0,0:05:16.50,0:05:22.30,DEFAULT,,0,0,0,,{\r}{\kf83}Cor{\kf83}ner{\kf83}stone{\kf66} of{\kf83} har{\kf83}mo{\kf99}ny
+Dialogue: 0,0:05:23.00,0:05:33.65,DEFAULT,,0,0,0,,{\r}{\kf85}Ne{\kf64}ver{\kf69} let{\kf75} it{\kf170} be{\kf170} un{\kf432}done
+Dialogue: 0,0:05:45.90,0:05:48.80,DEFAULT,,0,0,0,,{\r}{\kf81}Day{\kf75} for{\kf87} ri{\kf47}sing
+Dialogue: 0,0:05:52.40,0:05:54.60,DEFAULT,,0,0,0,,{\r}{\kf69}Night{\kf76} for{\kf75} sleep
+Dialogue: 0,0:05:58.95,0:06:02.15,DEFAULT,,0,0,0,,{\r}{\kf86}Cha{\kf69}os{\kf80} ba{\kf85}nish
+Dialogue: 0,0:06:05.45,0:06:12.10,DEFAULT,,0,0,0,,{\r}{\kf168}Or{\kf157}der{\kf162} keep{\kf178}~

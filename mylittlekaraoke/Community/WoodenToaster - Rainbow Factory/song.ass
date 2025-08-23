@@ -1,36 +1,43 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Rainbow Factory
+Artist: Glaze
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:13.20,0:00:16.22,DEFAULT,,0,0,0,,{\kf16}Now{\kf16} a{\kf27} rain{\kf23}bow's{\kf16} tale{\kf16} is{\kf16}n't{\kf16} quite{\kf16} as{\kf42} nice
-Dialogue: 0,0:00:16.48,0:00:19.46,DEFAULT,,0,0,0,,{\kf16}As{\kf16} the{\kf16} sto{\kf16}ry{\kf23} we{\kf27} knew{\kf23} of{\kf16} su{\kf16}gar{\kf20} and{\kf20} spice
-Dialogue: 0,0:00:19.69,0:00:22.74,DEFAULT,,0,0,0,,{\kf16}But{\kf16} a{\kf27} rain{\kf20}bow's{\kf16} ea{\kf16}sy{\kf16} once{\kf16} you{\kf20} get{\kf16} to{\kf16} know{\kf20} it
-Dialogue: 0,0:00:22.93,0:00:26.18,DEFAULT,,0,0,0,,{\kf16}With{\kf16} the{\kf16} help{\kf16} of{\kf16} the{\kf16} ma{\kf16}gic{\kf16} of{\kf16} a{\kf16} pe{\kf16}ga{\kf16}sus{\kf16} de{\kf39}vice
-Dialogue: 0,0:00:52.59,0:00:55.30,DEFAULT,,0,0,0,,{\kf16}Let's{\kf23} delve{\kf20} dee{\kf16}per{\kf16} in{\kf16}to{\kf16} rain{\kf16}bow{\kf16} phi{\kf12}lo{\kf16}so{\kf16}phy
-Dialogue: 0,0:00:55.76,0:00:58.58,DEFAULT,,0,0,0,,{\kf16}Far{\kf16} bey{\kf23}ond{\kf16} that{\kf16} of{\kf23} Clouds{\kf23}dale's{\kf16} my{\kf16}tho{\kf16}lo{\kf16}gy
-Dialogue: 0,0:00:58.93,0:01:01.60,DEFAULT,,0,0,0,,{\kf12}It's{\kf12} ea{\kf12}sy{\kf12} to{\kf12} mis{\kf20}judge{\kf20} that{\kf20} floa{\kf20}ting{\kf12} ci{\kf16}ty
-Dialogue: 0,0:01:01.87,0:01:05.07,DEFAULT,,0,0,0,,{\kf12}With{\kf12} its{\kf12} al{\kf12}lu{\kf12}ring{\kf16} de{\kf27}cor{\kf16} and{\kf12} so{\kf12}cial{\kf12} psy{\kf12}cho{\kf12}lo{\kf23}gy
-Dialogue: 0,0:01:05.19,0:01:08.54,DEFAULT,,0,0,0,,{\kf16}But{\kf16} with{\kf16} all{\kf27} great{\kf23} things{\kf16} comes{\kf16} a{\kf16} great{\kf16} res{\kf16}pon{\kf16}si{\kf16}bi{\kf16}li{\kf23}ty
-Dialogue: 0,0:01:08.74,0:01:11.56,DEFAULT,,0,0,0,,{\kf16}That{\kf16} of{\kf23} Clouds{\kf23}dale's{\kf16} be{\kf16}ing{\kf16} wea{\kf16}ther{\kf16} sta{\kf16}bi{\kf16}li{\kf23}ty
-Dialogue: 0,0:01:11.90,0:01:14.58,DEFAULT,,0,0,0,,{\kf23}How,{\kf16} you{\kf23} ask,{\kf16} are{\kf16} they{\kf16} up{\kf16} to{\kf16} the{\kf42} task
-Dialogue: 0,0:01:15.03,0:01:18.16,DEFAULT,,0,0,0,,{\kf12}To{\kf16} which{\kf16} the{\kf23} an{\kf12}swer{\kf12} is{\kf12} in{\kf12} a{\kf12} sim{\kf12}ple{\kf12} fa{\kf12}ci{\kf12}li{\kf39}ty
-Dialogue: 0,0:01:24.61,0:01:26.75,DEFAULT,,0,0,0,,{\kf16}In{\kf16} the{\kf23} Rain{\kf23}bow{\kf23} Fac{\kf16}to{\kf39}ry
-Dialogue: 0,0:01:27.74,0:01:30.30,DEFAULT,,0,0,0,,{\kf16}Where{\kf16} your{\kf31} fears{\kf23} and{\kf16} hor{\kf16}rors{\kf27} come{\kf50} true
-Dialogue: 0,0:01:31.06,0:01:33.24,DEFAULT,,0,0,0,,{\kf16}In{\kf16} the{\kf27} Rain{\kf27}bow{\kf27} Fac{\kf16}to{\kf39}ry
-Dialogue: 0,0:01:34.12,0:01:36.64,DEFAULT,,0,0,0,,{\kf16}Where{\kf16} not{\kf12} a{\kf27} sin{\kf20}gle{\kf23} soul{\kf23} gets{\kf31} through
-Dialogue: 0,0:01:37.48,0:01:39.61,DEFAULT,,0,0,0,,{\kf16}In{\kf16} the{\kf27} Rain{\kf27}bow{\kf27} Fac{\kf16}to{\kf31}ry
-Dialogue: 0,0:01:40.76,0:01:43.24,DEFAULT,,0,0,0,,{\kf16}Where{\kf16} your{\kf23} fears{\kf23} and{\kf16} hor{\kf16}rors{\kf23} come{\kf46} true
-Dialogue: 0,0:03:01.87,0:03:03.93,DEFAULT,,0,0,0,,{\kf12}In{\kf16} the{\kf27} Rain{\kf27}bow{\kf20} Fac{\kf16}to{\kf27}ry
-Dialogue: 0,0:03:05.07,0:03:07.63,DEFAULT,,0,0,0,,{\kf12}Where{\kf16} your{\kf27} fears{\kf27} and{\kf16} hor{\kf16}rors{\kf27} come{\kf42} true
-Dialogue: 0,0:03:08.35,0:03:10.49,DEFAULT,,0,0,0,,{\kf16}In{\kf16} the{\kf27} Rain{\kf23}bow{\kf23} Fac{\kf16}to{\kf39}ry
-Dialogue: 0,0:03:11.37,0:03:14.00,DEFAULT,,0,0,0,,{\kf16}Where{\kf16} not{\kf16} a{\kf23} sin{\kf16}gle{\kf20} soul{\kf20} gets{\kf42} through
-Dialogue: 0,0:03:14.84,0:03:17.09,DEFAULT,,0,0,0,,{\kf12}In{\kf12} the{\kf27} Rain{\kf27}bow{\kf27} Fac{\kf16}to{\kf46}ry
-Dialogue: 0,0:03:18.05,0:03:20.49,DEFAULT,,0,0,0,,{\kf16}Where{\kf16} your{\kf27} fears{\kf27} and{\kf16} hor{\kf16}rors{\kf31} come{\kf35} true
-Dialogue: 0,0:03:21.29,0:03:23.51,DEFAULT,,0,0,0,,{\kf16}In{\kf16} the{\kf27} Rain{\kf27}bow{\kf20} Fac{\kf16}to{\kf35}ry
+Dialogue: 0,0:00:13.21,0:00:16.22,DEFAULT,,0,0,0,,{\r}{\kf23}Now{\kf23} a{\kf41} rain{\kf35}bow's{\kf23} tale{\kf23} is{\kf23}n't{\kf23} quite{\kf23} as{\kf65} nice
+Dialogue: 0,0:00:16.49,0:00:19.47,DEFAULT,,0,0,0,,{\r}{\kf22}As{\kf22} the{\kf22} sto{\kf22}ry{\kf34} we{\kf39} knew{\kf34} of{\kf22} su{\kf22}gar{\kf28} and{\kf31} spice
+Dialogue: 0,0:00:19.69,0:00:22.75,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf23} a{\kf40} rain{\kf28}bow's{\kf23} ea{\kf23}sy{\kf23} once{\kf23} you{\kf28} get{\kf23} to{\kf23} know{\kf25} it
+Dialogue: 0,0:00:22.94,0:00:26.18,DEFAULT,,0,0,0,,{\r}{\kf21}With{\kf21} the{\kf21} help{\kf21} of{\kf21} the{\kf21} ma{\kf21}gic{\kf21} of{\kf21} a{\kf21} pe{\kf21}ga{\kf21}sus{\kf21} de{\kf51}vice
+Dialogue: 0,0:00:52.60,0:00:55.31,DEFAULT,,0,0,0,,{\r}{\kf22}Let's{\kf33} delve{\kf27} dee{\kf22}per{\kf22} in{\kf22}to{\kf22} rain{\kf22}bow{\kf22} phi{\kf16}lo{\kf22}so{\kf19}phy
+Dialogue: 0,0:00:55.76,0:00:58.59,DEFAULT,,0,0,0,,{\r}{\kf23}Far{\kf23} bey{\kf34}ond{\kf23} that{\kf23} of{\kf34} Clouds{\kf34}dale's{\kf23} my{\kf23}tho{\kf23}lo{\kf19}gy
+Dialogue: 0,0:00:58.93,0:01:01.60,DEFAULT,,0,0,0,,{\r}{\kf19}It's{\kf19} ea{\kf19}sy{\kf19} to{\kf19} mis{\kf32}judge{\kf32} that{\kf32} floa{\kf32}ting{\kf19} ci{\kf25}ty
+Dialogue: 0,0:01:01.87,0:01:05.08,DEFAULT,,0,0,0,,{\r}{\kf19}With{\kf19} its{\kf19} al{\kf19}lu{\kf19}ring{\kf25} de{\kf44}cor{\kf25} and{\kf19} so{\kf19}cial{\kf19} psy{\kf19}cho{\kf19}lo{\kf37}gy
+Dialogue: 0,0:01:05.19,0:01:08.55,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf21} with{\kf21} all{\kf37} great{\kf32} things{\kf21} comes{\kf21} a{\kf21} great{\kf21} res{\kf21}pon{\kf21}si{\kf21}bi{\kf21}li{\kf36}ty
+Dialogue: 0,0:01:08.74,0:01:11.56,DEFAULT,,0,0,0,,{\r}{\kf21}That{\kf21} of{\kf31} Clouds{\kf31}dale's{\kf21} be{\kf21}ing{\kf21} wea{\kf21}ther{\kf21} sta{\kf21}bi{\kf21}li{\kf31}ty
+Dialogue: 0,0:01:11.91,0:01:14.58,DEFAULT,,0,0,0,,{\r}{\kf34}How,{\kf23} you{\kf34} ask,{\kf23} are{\kf23} they{\kf23} up{\kf23} to{\kf23} the{\kf61} task
+Dialogue: 0,0:01:15.04,0:01:18.17,DEFAULT,,0,0,0,,{\r}{\kf17}To{\kf23} which{\kf23} the{\kf35} an{\kf17}swer{\kf17} is{\kf17} in{\kf17} a{\kf17} sim{\kf17}ple{\kf17} fa{\kf17}ci{\kf17}li{\kf62}ty
+Dialogue: 0,0:01:24.62,0:01:26.76,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf21} the{\kf32} Rain{\kf32}bow{\kf32} Fac{\kf21}to{\kf55}ry
+Dialogue: 0,0:01:27.75,0:01:30.31,DEFAULT,,0,0,0,,{\r}{\kf20}Where{\kf20} your{\kf41} fears{\kf31} and{\kf20} hor{\kf20}rors{\kf36} come{\kf68} true
+Dialogue: 0,0:01:31.07,0:01:33.24,DEFAULT,,0,0,0,,{\r}{\kf20}In{\kf20} the{\kf35} Rain{\kf35}bow{\kf35} Fac{\kf20}to{\kf53}ry
+Dialogue: 0,0:01:34.12,0:01:36.64,DEFAULT,,0,0,0,,{\r}{\kf23}Where{\kf23} not{\kf18} a{\kf41} sin{\kf29}gle{\kf35} soul{\kf35} gets{\kf48} through
+Dialogue: 0,0:01:37.48,0:01:39.62,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf21} the{\kf37} Rain{\kf37}bow{\kf37} Fac{\kf21}to{\kf40}ry
+Dialogue: 0,0:01:40.76,0:01:43.24,DEFAULT,,0,0,0,,{\r}{\kf22}Where{\kf22} your{\kf32} fears{\kf32} and{\kf22} hor{\kf22}rors{\kf32} come{\kf64} true
+Dialogue: 0,0:03:01.87,0:03:03.93,DEFAULT,,0,0,0,,{\r}{\kf17}In{\kf22} the{\kf39} Rain{\kf39}bow{\kf28} Fac{\kf22}to{\kf39}ry
+Dialogue: 0,0:03:05.08,0:03:07.63,DEFAULT,,0,0,0,,{\r}{\kf16}Where{\kf22} your{\kf38} fears{\kf38} and{\kf22} hor{\kf22}rors{\kf38} come{\kf60} true
+Dialogue: 0,0:03:08.36,0:03:10.50,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf21} the{\kf37} Rain{\kf31}bow{\kf31} Fac{\kf21}to{\kf52}ry
+Dialogue: 0,0:03:11.37,0:03:14.01,DEFAULT,,0,0,0,,{\r}{\kf24}Where{\kf24} not{\kf24} a{\kf37} sin{\kf24}gle{\kf31} soul{\kf31} gets{\kf68} through
+Dialogue: 0,0:03:14.85,0:03:17.10,DEFAULT,,0,0,0,,{\r}{\kf16}In{\kf16} the{\kf37} Rain{\kf37}bow{\kf37} Fac{\kf21}to{\kf61}ry
+Dialogue: 0,0:03:18.05,0:03:20.50,DEFAULT,,0,0,0,,{\r}{\kf21}Where{\kf21} your{\kf36} fears{\kf36} and{\kf21} hor{\kf21}rors{\kf42} come{\kf46} true
+Dialogue: 0,0:03:21.30,0:03:23.51,DEFAULT,,0,0,0,,{\r}{\kf22}In{\kf22} the{\kf39} Rain{\kf39}bow{\kf28} Fac{\kf22}to{\kf49}ry

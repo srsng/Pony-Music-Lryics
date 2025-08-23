@@ -1,69 +1,76 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Bullies and Best Friends
+Artist: PrinceWhateverer ft. Scrambles & ShadyVox
+Original Timing: mylittlekaraoke.com by RD1042
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:26.24,0:00:29.04,DEFAULT,,0,0,0,,{\kf28}Hey!{\kf28} Hey!{\kf28} Hey!{\kf28} Hey!{\kf28} Hey!
-Dialogue: 0,0:00:29.39,0:00:31.56,DEFAULT,,0,0,0,,{\kf28}Hey!{\kf28} Hey!{\kf28} Hey!{\kf28} Hey!
-Dialogue: 0,0:00:31.92,0:00:35.98,DEFAULT,,0,0,0,,{\kf28}Hey!{\kf28} Hey!{\kf28} Hey!{\kf28} Hey!{\kf28} Hey!{\kf28} Hey!{\kf28} Hey!
-Dialogue: 0,0:00:36.26,0:00:38.35,DEFAULT,,0,0,0,,{\kf24}Do{\kf24} you{\kf32} re{\kf24}mem{\kf24}ber{\kf44} when
-Dialogue: 0,0:00:38.86,0:00:40.83,DEFAULT,,0,0,0,,{\kf24}You'd{\kf24} hang{\kf24} out{\kf20} with{\kf24} your{\kf40} friends
-Dialogue: 0,0:00:41.31,0:00:45.88,DEFAULT,,0,0,0,,{\kf24}Long{\kf32} cra{\kf24}zy{\kf32} sum{\kf24}mer{\kf24} nights,{\kf20} you'd{\kf36} ne{\kf16}ver{\kf24} want{\kf24} the{\kf28} day{\kf20} to{\kf44} end
-Dialogue: 0,0:00:46.43,0:00:50.97,DEFAULT,,0,0,0,,{\kf20}But{\kf24} now{\kf32} the{\kf20} new{\kf28} girl's{\kf48} here,{\kf40} start{\kf20}ing{\kf24} fights{\kf20} and{\kf36} caus{\kf20}ing{\kf52} tears
-Dialogue: 0,0:00:51.17,0:00:56.14,DEFAULT,,0,0,0,,{\kf32}Hang{\kf24}ing{\kf28} with{\kf24} the{\kf32} e{\kf32}ne{\kf28}my{\kf20} and{\kf40} prey{\kf32}ing{\kf20} on{\kf32} your{\kf20} e{\kf12}ve{\kf16}ry{\kf56} fear
-Dialogue: 0,0:00:56.53,0:00:59.06,DEFAULT,,0,0,0,,{\kf24}It{\kf24} feels{\kf28} like{\kf28} e{\kf12}ve{\kf12}ry{\kf20}where{\kf20} we{\kf52} turn
-Dialogue: 0,0:01:00.12,0:01:01.11,DEFAULT,,0,0,0,,{\kf16}She's{\kf16} just{\kf8} a{\kf16} step{\kf12} a{\kf16}head
-Dialogue: 0,0:01:01.34,0:01:03.32,DEFAULT,,0,0,0,,{\kf20}Babs{\kf20} Seed,{\kf24} Babs{\kf20} Seed,{\kf12} what{\kf12} we{\kf12} gon{\kf12}na{\kf16} do?
-Dialogue: 0,0:01:03.47,0:01:06.08,DEFAULT,,0,0,0,,{\kf16}Got{\kf8} a{\kf12} bul{\kf12}ly{\kf12} on{\kf12} our{\kf12} tail,{\kf12} we{\kf12} got{\kf16}ta{\kf16} hide,{\kf8} we{\kf12} got{\kf12}ta{\kf40} bail
-Dialogue: 0,0:01:06.35,0:01:08.37,DEFAULT,,0,0,0,,{\kf20}Babs{\kf24} Seed,{\kf24} Babs{\kf24} Seed,{\kf12} if{\kf12} she's{\kf12} af{\kf12}ter{\kf20} you
-Dialogue: 0,0:01:08.52,0:01:11.09,DEFAULT,,0,0,0,,{\kf12}Got{\kf12}ta{\kf16} run,{\kf12} we{\kf16} got{\kf12}ta{\kf24} flee,{\kf16} got{\kf16}ta{\kf12} hur{\kf12}ry,{\kf12} don't{\kf12} you{\kf36} see?
-Dialogue: 0,0:01:11.36,0:01:13.41,DEFAULT,,0,0,0,,{\kf24}Babs{\kf24} Seed,{\kf24} Babs{\kf24} Seed,{\kf12} what{\kf12} we{\kf16} gon{\kf12}na{\kf16} do?
-Dialogue: 0,0:01:13.57,0:01:16.18,DEFAULT,,0,0,0,,{\kf16}Got{\kf12} a{\kf12} bul{\kf12}ly{\kf8} on{\kf16} our{\kf12} tail,{\kf12} we{\kf16} got{\kf16}ta{\kf16} hide,{\kf8} we{\kf12} got{\kf12}ta{\kf40} bail
-Dialogue: 0,0:01:16.41,0:01:18.46,DEFAULT,,0,0,0,,{\kf24}Babs{\kf24} Seed,{\kf24} Babs{\kf24} Seed,{\kf12} if{\kf12} she's{\kf12} af{\kf12}ter{\kf16} you
-Dialogue: 0,0:01:18.62,0:01:21.11,DEFAULT,,0,0,0,,{\kf12}Got{\kf12}ta{\kf16} run,{\kf12} we{\kf12} got{\kf12}ta{\kf28} flee,{\kf16} got{\kf8}ta{\kf16} hur{\kf12}ry,{\kf12} don't{\kf12} you{\kf28} see?
-Dialogue: 0,0:01:21.78,0:01:23.95,DEFAULT,,0,0,0,,{\kf20}This{\kf28} le{\kf24}vel{\kf32} play{\kf24}ing{\kf60} field
-Dialogue: 0,0:01:24.26,0:01:26.67,DEFAULT,,0,0,0,,{\kf24}You{\kf24} should{\kf24} be{\kf32} on{\kf20} our{\kf32} si{\kf48}-ide
-Dialogue: 0,0:01:26.87,0:01:31.48,DEFAULT,,0,0,0,,{\kf24}This{\kf24} is{\kf24} a{\kf24} bat{\kf24}tle{\kf56}field,{\kf28} and{\kf20} it{\kf32} feels{\kf24} like{\kf32} su{\kf24}i{\kf56}cide
-Dialogue: 0,0:01:31.87,0:01:33.93,DEFAULT,,0,0,0,,{\kf24}We're{\kf36} fee{\kf24}ling{\kf28} po{\kf36}wer{\kf48}less
-Dialogue: 0,0:01:34.48,0:01:36.45,DEFAULT,,0,0,0,,{\kf20}And{\kf32} she{\kf24} is{\kf24} just{\kf28} too{\kf44} mean
-Dialogue: 0,0:01:36.92,0:01:41.62,DEFAULT,,0,0,0,,{\kf32}A{\kf24}no{\kf24}ther{\kf24} vic{\kf24}tim{\kf20} of{\kf20} the{\kf40} bul{\kf16}ly{\kf32}-dri{\kf24}ven{\kf24} hate{\kf28} ma{\kf60}chine!
-Dialogue: 0,0:01:42.29,0:01:46.31,DEFAULT,,0,0,0,,{\kf36}Do{\kf12}-on't{\kf60} let{\kf48} her{\kf56} get{\kf48} you{\kf83} down
-Dialogue: 0,0:01:47.26,0:01:51.91,DEFAULT,,0,0,0,,{\kf44}She{\kf24}-e{\kf60} is{\kf52}n't{\kf52} worth{\kf52} your{\kf36} whi{\kf36}-i{\kf68}le
-Dialogue: 0,0:01:52.39,0:01:56.96,DEFAULT,,0,0,0,,{\kf40}Tu{\kf20}-urn{\kf48} that{\kf48} sad{\kf64} face{\kf32} up{\kf36}si{\kf24}-ide{\kf72} down
-Dialogue: 0,0:01:57.43,0:02:01.69,DEFAULT,,0,0,0,,{\kf36}A{\kf24}-and{\kf60} eve{\kf64}ry{\kf68}po{\kf48}ny{\kf28} smi{\kf36}-i{\kf40}-le
-Dialogue: 0,0:02:01.89,0:02:04.34,DEFAULT,,0,0,0,,{\kf16}C'{\kf12}mon{\kf16} eve{\kf16}ry{\kf24}po{\kf16}ny,{\kf24} smile{\kf24} smile{\kf36} smi{\kf24}-le
-Dialogue: 0,0:02:04.42,0:02:06.78,DEFAULT,,0,0,0,,{\kf12}Fill{\kf12} my{\kf24} heart{\kf24} up{\kf16} with{\kf28} sun{\kf24}shine{\kf24} sun{\kf20}shine
-Dialogue: 0,0:02:06.94,0:02:09.31,DEFAULT,,0,0,0,,{\kf16}All{\kf12} I{\kf16} real{\kf16}ly{\kf16} need's{\kf20} a{\kf24} smile{\kf24} smile{\kf36} smi{\kf12}-le
-Dialogue: 0,0:02:09.47,0:02:11.71,DEFAULT,,0,0,0,,{\kf16}From{\kf12} these{\kf16} hap{\kf12}py{\kf20} friends{\kf16} of{\kf32} mi{\kf24}-i{\kf36}-ine
-Dialogue: 0,0:02:11.99,0:02:14.36,DEFAULT,,0,0,0,,{\kf12}C'{\kf12}mon{\kf16} eve{\kf16}ry{\kf28}po{\kf16}ny,{\kf28} smile{\kf28} smile{\kf28} smi{\kf16}-le
-Dialogue: 0,0:02:14.51,0:02:16.88,DEFAULT,,0,0,0,,{\kf16}Fill{\kf12} my{\kf24} heart{\kf24} up{\kf24} with{\kf28} sun{\kf28}shine{\kf24} sun{\kf16}shine
-Dialogue: 0,0:02:17.04,0:02:19.41,DEFAULT,,0,0,0,,{\kf12}All{\kf12} I{\kf16} real{\kf12}ly{\kf24} need's{\kf20} a{\kf24} smile{\kf24} smile{\kf36} smi{\kf12}-le
-Dialogue: 0,0:02:19.56,0:02:21.65,DEFAULT,,0,0,0,,{\kf16}From{\kf12} these{\kf12} hap{\kf12}py{\kf24} friends{\kf16} of{\kf40} mi{\kf24}-i{\kf20}-ine
-Dialogue: 0,0:02:21.85,0:02:24.06,DEFAULT,,0,0,0,,{\kf20}Well{\kf40} as{\kf56} I{\kf72} go
-Dialogue: 0,0:02:24.85,0:02:29.11,DEFAULT,,0,0,0,,{\kf40}Re{\kf32}mem{\kf24}ber{\kf28} all{\kf24} the{\kf28} sim{\kf24}ple{\kf52} things{\kf44} you{\kf40} kno{\kf32}-ow
-Dialogue: 0,0:02:29.98,0:02:34.16,DEFAULT,,0,0,0,,{\kf28}My{\kf28} mind{\kf24} is{\kf28} just{\kf20} a{\kf28} crutch{\kf24} and{\kf40} I{\kf40} still{\kf36} ho{\kf32}-ope
-Dialogue: 0,0:02:35.03,0:02:38.97,DEFAULT,,0,0,0,,{\kf24}That{\kf24} you{\kf24} will{\kf24} miss{\kf24} me{\kf28} when{\kf32} I{\kf48}-I'm{\kf28} go{\kf12}-o{\kf56}-one
-Dialogue: 0,0:02:39.84,0:02:43.23,DEFAULT,,0,0,0,,{\kf40}This{\kf32} is{\kf16} the{\kf40} smile{\kf44} so{\kf20}-o{\kf99}-ong
-Dialogue: 0,0:02:47.65,0:02:52.46,DEFAULT,,0,0,0,,{\kf40}Who{\kf32}-ah{\kf44}-oh{\kf36} Who{\kf32}-ah{\kf44}-oh{\kf36} Who{\kf32}-ah{\kf40}-oh{\kf36} who{\kf36}-ah{\kf32}-oh
-Dialogue: 0,0:02:52.70,0:02:57.51,DEFAULT,,0,0,0,,{\kf40}Who{\kf32}-ah{\kf44}-oh{\kf36} Who{\kf32}-ah{\kf44}-oh{\kf36} Who{\kf32}-ah{\kf40}-oh{\kf36} who{\kf36}-ah{\kf32}-oh
-Dialogue: 0,0:02:57.75,0:03:01.34,DEFAULT,,0,0,0,,{\kf40}Who{\kf32}-ah{\kf44}-oh{\kf36} Who{\kf32}-ah{\kf44}-oh{\kf32} Who{\kf32}-ah{\kf40}-oh
-Dialogue: 0,0:03:01.53,0:03:06.74,DEFAULT,,0,0,0,,{\kf40}Who{\kf32}-ah{\kf40}-oh{\kf36} Who{\kf32}-ah{\kf44}-oh{\kf40} Who{\kf32}-ah{\kf48}-oh{\kf32} Who{\kf32}-ah{\kf72}-oh
-Dialogue: 0,0:03:07.61,0:03:09.66,DEFAULT,,0,0,0,,{\kf24}Babs{\kf24} Seed,{\kf24} Babs{\kf24} Seed,{\kf12} what{\kf12} we{\kf12} gon{\kf12}na{\kf16} do?
-Dialogue: 0,0:03:09.82,0:03:12.50,DEFAULT,,0,0,0,,{\kf12}Got{\kf12} a{\kf16} bul{\kf12}ly{\kf12} on{\kf12} our{\kf16} tail,{\kf12} we{\kf12} got{\kf16}ta{\kf12} hide,{\kf12} we{\kf12} got{\kf12}ta{\kf48} bail
-Dialogue: 0,0:03:12.66,0:03:14.71,DEFAULT,,0,0,0,,{\kf24}Babs{\kf24} Seed,{\kf24} Babs{\kf24} Seed,{\kf12} if{\kf12} she's{\kf12} af{\kf16}ter{\kf16} you
-Dialogue: 0,0:03:14.86,0:03:17.39,DEFAULT,,0,0,0,,{\kf16}Got{\kf12}ta{\kf12} run,{\kf12} we{\kf16} got{\kf12}ta{\kf20} flee,{\kf16} got{\kf12}ta{\kf12} hur{\kf12}ry,{\kf12} don't{\kf12} you{\kf32} see?
-Dialogue: 0,0:03:17.70,0:03:19.76,DEFAULT,,0,0,0,,{\kf24}Babs{\kf24} Seed,{\kf24} Babs{\kf24} Seed,{\kf12} what{\kf12} we{\kf12} gon{\kf12}na{\kf16} do?
-Dialogue: 0,0:03:19.91,0:03:22.52,DEFAULT,,0,0,0,,{\kf12}Got{\kf12} a{\kf16} bul{\kf12}ly{\kf12} on{\kf12} our{\kf12} tail,{\kf12} we{\kf16} got{\kf12}ta{\kf12} hide,{\kf12} we{\kf16} got{\kf12}ta{\kf40} bail
-Dialogue: 0,0:03:22.75,0:03:24.80,DEFAULT,,0,0,0,,{\kf24}Babs{\kf24} Seed,{\kf24} Babs{\kf24} Seed,{\kf12} if{\kf12} she's{\kf12} af{\kf12}ter{\kf16} you
-Dialogue: 0,0:03:24.96,0:03:27.33,DEFAULT,,0,0,0,,{\kf16}Got{\kf12}ta{\kf12} run,{\kf12} we{\kf16} got{\kf12}ta{\kf24} flee,{\kf16} got{\kf12}ta{\kf16} hur{\kf12}ry,{\kf12} don't{\kf12} you{\kf16} see?
-Dialogue: 0,0:03:27.45,0:03:29.77,DEFAULT,,0,0,0,,{\kf24}Well{\kf48} as{\kf48} I{\kf72} go
-Dialogue: 0,0:03:30.52,0:03:34.82,DEFAULT,,0,0,0,,{\kf40}Re{\kf36}mem{\kf24}ber{\kf28} all{\kf20} the{\kf32} sim{\kf20}ple{\kf48} things{\kf52} you{\kf36} kno{\kf36}-ow
-Dialogue: 0,0:03:35.61,0:03:39.79,DEFAULT,,0,0,0,,{\kf28}My{\kf28} mind{\kf24} is{\kf24} just{\kf24} a{\kf28} crutch{\kf20} and{\kf40} I{\kf28} still{\kf40} ho{\kf32}-ope
-Dialogue: 0,0:03:40.74,0:03:44.61,DEFAULT,,0,0,0,,{\kf24}That{\kf24} you{\kf24} will{\kf20} miss{\kf24} me{\kf32} when{\kf24} I{\kf52}-I'm{\kf32} go{\kf16}-o{\kf52}-one
-Dialogue: 0,0:03:45.47,0:03:48.94,DEFAULT,,0,0,0,,{\kf36}This{\kf32} is{\kf16} the{\kf40} smile{\kf40} so{\kf20}-o{\kf103}-ong
+Dialogue: 0,0:00:26.24,0:00:29.04,DEFAULT,,0,0,0,,{\r}{\kf56}Hey!{\kf56} Hey!{\kf56} Hey!{\kf56} Hey!{\kf56} Hey!
+Dialogue: 0,0:00:29.40,0:00:31.57,DEFAULT,,0,0,0,,{\r}{\kf54}Hey!{\kf54} Hey!{\kf54} Hey!{\kf55} Hey!
+Dialogue: 0,0:00:31.92,0:00:35.99,DEFAULT,,0,0,0,,{\r}{\kf58}Hey!{\kf58} Hey!{\kf58} Hey!{\kf58} Hey!{\kf58} Hey!{\kf58} Hey!{\kf58} Hey!
+Dialogue: 0,0:00:36.26,0:00:38.35,DEFAULT,,0,0,0,,{\r}{\kf29}Do{\kf29} you{\kf39} re{\kf29}mem{\kf29}ber{\kf54} when
+Dialogue: 0,0:00:38.87,0:00:40.84,DEFAULT,,0,0,0,,{\r}{\kf30}You'd{\kf30} hang{\kf30} out{\kf25} with{\kf30} your{\kf52} friends
+Dialogue: 0,0:00:41.31,0:00:45.89,DEFAULT,,0,0,0,,{\r}{\kf30}Long{\kf39} cra{\kf30}zy{\kf39} sum{\kf30}mer{\kf30} nights,{\kf25} you'd{\kf44} ne{\kf20}ver{\kf30} want{\kf30} the{\kf34} day{\kf25} to{\kf52} end
+Dialogue: 0,0:00:46.44,0:00:50.98,DEFAULT,,0,0,0,,{\r}{\kf24}But{\kf28} now{\kf38} the{\kf24} new{\kf33} girl's{\kf57} here,{\kf47} start{\kf24}ing{\kf28} fights{\kf24} and{\kf43} caus{\kf24}ing{\kf60} tears
+Dialogue: 0,0:00:51.17,0:00:56.14,DEFAULT,,0,0,0,,{\r}{\kf35}Hang{\kf27}ing{\kf31} with{\kf27} the{\kf35} e{\kf35}ne{\kf31}my{\kf22} and{\kf44} prey{\kf35}ing{\kf22} on{\kf35} your{\kf22} e{\kf13}ve{\kf18}ry{\kf65} fear
+Dialogue: 0,0:00:56.54,0:00:59.06,DEFAULT,,0,0,0,,{\r}{\kf27}It{\kf27} feels{\kf32} like{\kf32} e{\kf14}ve{\kf14}ry{\kf23}where{\kf23} we{\kf60} turn
+Dialogue: 0,0:01:00.13,0:01:01.11,DEFAULT,,0,0,0,,{\r}{\kf19}She's{\kf19} just{\kf10} a{\kf19} step{\kf14} a{\kf18}head
+Dialogue: 0,0:01:01.35,0:01:03.32,DEFAULT,,0,0,0,,{\r}{\kf27}Babs{\kf27} Seed,{\kf32} Babs{\kf27} Seed,{\kf16} what{\kf16} we{\kf16} gon{\kf16}na{\kf20} do?
+Dialogue: 0,0:01:03.48,0:01:06.08,DEFAULT,,0,0,0,,{\r}{\kf20}Got{\kf10} a{\kf15} bul{\kf15}ly{\kf15} on{\kf15} our{\kf15} tail,{\kf15} we{\kf15} got{\kf20}ta{\kf20} hide,{\kf10} we{\kf15} got{\kf15}ta{\kf45} bail
+Dialogue: 0,0:01:06.36,0:01:08.37,DEFAULT,,0,0,0,,{\r}{\kf25}Babs{\kf30} Seed,{\kf30} Babs{\kf30} Seed,{\kf15} if{\kf15} she's{\kf15} af{\kf15}ter{\kf26} you
+Dialogue: 0,0:01:08.53,0:01:11.09,DEFAULT,,0,0,0,,{\r}{\kf14}Got{\kf14}ta{\kf19} run,{\kf14} we{\kf19} got{\kf14}ta{\kf28} flee,{\kf19} got{\kf19}ta{\kf14} hur{\kf14}ry,{\kf14} don't{\kf14} you{\kf40} see?
+Dialogue: 0,0:01:11.37,0:01:13.42,DEFAULT,,0,0,0,,{\r}{\kf30}Babs{\kf30} Seed,{\kf30} Babs{\kf30} Seed,{\kf15} what{\kf15} we{\kf20} gon{\kf15}na{\kf20} do?
+Dialogue: 0,0:01:13.58,0:01:16.18,DEFAULT,,0,0,0,,{\r}{\kf19}Got{\kf14} a{\kf14} bul{\kf14}ly{\kf10} on{\kf19} our{\kf14} tail,{\kf14} we{\kf19} got{\kf19}ta{\kf19} hide,{\kf10} we{\kf14} got{\kf14}ta{\kf47} bail
+Dialogue: 0,0:01:16.42,0:01:18.47,DEFAULT,,0,0,0,,{\r}{\kf31}Babs{\kf31} Seed,{\kf31} Babs{\kf31} Seed,{\kf15} if{\kf15} she's{\kf15} af{\kf15}ter{\kf21} you
+Dialogue: 0,0:01:18.63,0:01:21.11,DEFAULT,,0,0,0,,{\r}{\kf14}Got{\kf14}ta{\kf19} run,{\kf14} we{\kf14} got{\kf14}ta{\kf34} flee,{\kf19} got{\kf10}ta{\kf19} hur{\kf14}ry,{\kf14} don't{\kf14} you{\kf36} see?
+Dialogue: 0,0:01:21.78,0:01:23.95,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf32} le{\kf28}vel{\kf37} play{\kf28}ing{\kf69} field
+Dialogue: 0,0:01:24.27,0:01:26.67,DEFAULT,,0,0,0,,{\r}{\kf28}You{\kf28} should{\kf28} be{\kf38} on{\kf24} our{\kf38} si{\kf57}-ide
+Dialogue: 0,0:01:26.87,0:01:31.49,DEFAULT,,0,0,0,,{\r}{\kf28}This{\kf28} is{\kf28} a{\kf28} bat{\kf28}tle{\kf66}field,{\kf33} and{\kf24} it{\kf38} feels{\kf28} like{\kf38} su{\kf28}i{\kf67}cide
+Dialogue: 0,0:01:31.88,0:01:33.93,DEFAULT,,0,0,0,,{\r}{\kf25}We're{\kf38} fee{\kf25}ling{\kf29} po{\kf38}wer{\kf50}less
+Dialogue: 0,0:01:34.48,0:01:36.46,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf37} she{\kf27} is{\kf27} just{\kf32} too{\kf51} mean
+Dialogue: 0,0:01:36.93,0:01:41.62,DEFAULT,,0,0,0,,{\r}{\kf38}A{\kf29}no{\kf29}ther{\kf29} vic{\kf29}tim{\kf24} of{\kf24} the{\kf48} bul{\kf19}ly{\kf38}-dri{\kf29}ven{\kf29} hate{\kf34} ma{\kf70}chine!
+Dialogue: 0,0:01:42.29,0:01:46.32,DEFAULT,,0,0,0,,{\r}{\kf42}Do{\kf14}-on't{\kf70} let{\kf56} her{\kf65} get{\kf56} you{\kf99} down
+Dialogue: 0,0:01:47.26,0:01:51.92,DEFAULT,,0,0,0,,{\r}{\kf48}She{\kf26}-e{\kf66} is{\kf57}n't{\kf57} worth{\kf57} your{\kf39} whi{\kf39}-i{\kf76}le
+Dialogue: 0,0:01:52.39,0:01:56.97,DEFAULT,,0,0,0,,{\r}{\kf48}Tu{\kf24}-urn{\kf57} that{\kf57} sad{\kf76} face{\kf38} up{\kf43}si{\kf29}-ide{\kf86} down
+Dialogue: 0,0:01:57.44,0:02:01.70,DEFAULT,,0,0,0,,{\r}{\kf38}A{\kf25}-and{\kf63} eve{\kf67}ry{\kf72}po{\kf51}ny{\kf30} smi{\kf38}-i{\kf42}-le
+Dialogue: 0,0:02:01.90,0:02:04.34,DEFAULT,,0,0,0,,{\r}{\kf19}C'{\kf14}mon{\kf19} eve{\kf19}ry{\kf28}po{\kf19}ny,{\kf28} smile{\kf28} smile{\kf42} smi{\kf29}-le
+Dialogue: 0,0:02:04.42,0:02:06.79,DEFAULT,,0,0,0,,{\r}{\kf15}Fill{\kf15} my{\kf31} heart{\kf31} up{\kf21} with{\kf36} sun{\kf31}shine{\kf31} sun{\kf26}shine
+Dialogue: 0,0:02:06.95,0:02:09.31,DEFAULT,,0,0,0,,{\r}{\kf20}All{\kf15} I{\kf20} real{\kf20}ly{\kf20} need's{\kf25} a{\kf30} smile{\kf30} smile{\kf44} smi{\kf13}-le
+Dialogue: 0,0:02:09.47,0:02:11.72,DEFAULT,,0,0,0,,{\r}{\kf20}From{\kf15} these{\kf20} hap{\kf15}py{\kf24} friends{\kf20} of{\kf39} mi{\kf29}-i{\kf43}-ine
+Dialogue: 0,0:02:12.00,0:02:14.36,DEFAULT,,0,0,0,,{\r}{\kf14}C'{\kf14}mon{\kf19} eve{\kf19}ry{\kf33}po{\kf19}ny,{\kf33} smile{\kf33} smile{\kf33} smi{\kf20}-le
+Dialogue: 0,0:02:14.52,0:02:16.89,DEFAULT,,0,0,0,,{\r}{\kf19}Fill{\kf15} my{\kf29} heart{\kf29} up{\kf29} with{\kf34} sun{\kf34}shine{\kf29} sun{\kf19}shine
+Dialogue: 0,0:02:17.04,0:02:19.41,DEFAULT,,0,0,0,,{\r}{\kf15}All{\kf15} I{\kf20} real{\kf15}ly{\kf30} need's{\kf25} a{\kf30} smile{\kf30} smile{\kf44} smi{\kf13}-le
+Dialogue: 0,0:02:19.57,0:02:21.66,DEFAULT,,0,0,0,,{\r}{\kf19}From{\kf14} these{\kf14} hap{\kf14}py{\kf29} friends{\kf19} of{\kf48} mi{\kf29}-i{\kf23}-ine
+Dialogue: 0,0:02:21.86,0:02:24.07,DEFAULT,,0,0,0,,{\r}{\kf24}Well{\kf47} as{\kf66} I{\kf84} go
+Dialogue: 0,0:02:24.85,0:02:29.11,DEFAULT,,0,0,0,,{\r}{\kf46}Re{\kf37}mem{\kf28}ber{\kf32} all{\kf28} the{\kf32} sim{\kf28}ple{\kf60} things{\kf51} you{\kf46} kno{\kf38}-ow
+Dialogue: 0,0:02:29.98,0:02:34.16,DEFAULT,,0,0,0,,{\r}{\kf36}My{\kf36} mind{\kf31} is{\kf36} just{\kf25} a{\kf36} crutch{\kf31} and{\kf51} I{\kf51} still{\kf46} ho{\kf39}-ope
+Dialogue: 0,0:02:35.03,0:02:38.98,DEFAULT,,0,0,0,,{\r}{\kf29}That{\kf29} you{\kf29} will{\kf29} miss{\kf29} me{\kf34} when{\kf39} I{\kf58}-I'm{\kf34} go{\kf15}-o{\kf69}-one
+Dialogue: 0,0:02:39.84,0:02:43.24,DEFAULT,,0,0,0,,{\r}{\kf46}This{\kf37} is{\kf19} the{\kf46} smile{\kf51} so{\kf23}-o{\kf117}-ong
+Dialogue: 0,0:02:47.65,0:02:52.47,DEFAULT,,0,0,0,,{\r}{\kf44}Who{\kf35}-ah{\kf48}-oh{\kf39} Who{\kf35}-ah{\kf48}-oh{\kf39} Who{\kf35}-ah{\kf44}-oh{\kf39} who{\kf39}-ah{\kf36}-oh
+Dialogue: 0,0:02:52.70,0:02:57.51,DEFAULT,,0,0,0,,{\r}{\kf44}Who{\kf35}-ah{\kf48}-oh{\kf39} Who{\kf35}-ah{\kf48}-oh{\kf39} Who{\kf35}-ah{\kf44}-oh{\kf39} who{\kf39}-ah{\kf36}-oh
+Dialogue: 0,0:02:57.75,0:03:01.34,DEFAULT,,0,0,0,,{\r}{\kf43}Who{\kf35}-ah{\kf48}-oh{\kf39} Who{\kf35}-ah{\kf48}-oh{\kf35} Who{\kf35}-ah{\kf41}-oh
+Dialogue: 0,0:03:01.54,0:03:06.74,DEFAULT,,0,0,0,,{\r}{\kf43}Who{\kf35}-ah{\kf43}-oh{\kf39} Who{\kf35}-ah{\kf48}-oh{\kf43} Who{\kf35}-ah{\kf52}-oh{\kf35} Who{\kf35}-ah{\kf78}-oh
+Dialogue: 0,0:03:07.61,0:03:09.66,DEFAULT,,0,0,0,,{\r}{\kf31}Babs{\kf31} Seed,{\kf31} Babs{\kf31} Seed,{\kf15} what{\kf15} we{\kf15} gon{\kf15}na{\kf21} do?
+Dialogue: 0,0:03:09.82,0:03:12.50,DEFAULT,,0,0,0,,{\r}{\kf14}Got{\kf14} a{\kf19} bul{\kf14}ly{\kf14} on{\kf14} our{\kf19} tail,{\kf14} we{\kf14} got{\kf19}ta{\kf14} hide,{\kf14} we{\kf14} got{\kf14}ta{\kf57} bail
+Dialogue: 0,0:03:12.66,0:03:14.71,DEFAULT,,0,0,0,,{\r}{\kf30}Babs{\kf30} Seed,{\kf30} Babs{\kf30} Seed,{\kf15} if{\kf15} she's{\kf15} af{\kf20}ter{\kf20} you
+Dialogue: 0,0:03:14.87,0:03:17.39,DEFAULT,,0,0,0,,{\r}{\kf19}Got{\kf15}ta{\kf15} run,{\kf15} we{\kf19} got{\kf15}ta{\kf24} flee,{\kf19} got{\kf15}ta{\kf15} hur{\kf15}ry,{\kf15} don't{\kf15} you{\kf36} see?
+Dialogue: 0,0:03:17.71,0:03:19.76,DEFAULT,,0,0,0,,{\r}{\kf31}Babs{\kf31} Seed,{\kf31} Babs{\kf31} Seed,{\kf15} what{\kf15} we{\kf15} gon{\kf15}na{\kf21} do?
+Dialogue: 0,0:03:19.92,0:03:22.52,DEFAULT,,0,0,0,,{\r}{\kf14}Got{\kf14} a{\kf19} bul{\kf14}ly{\kf14} on{\kf14} our{\kf14} tail,{\kf14} we{\kf19} got{\kf14}ta{\kf14} hide,{\kf14} we{\kf19} got{\kf14}ta{\kf49} bail
+Dialogue: 0,0:03:22.76,0:03:24.81,DEFAULT,,0,0,0,,{\r}{\kf31}Babs{\kf31} Seed,{\kf31} Babs{\kf31} Seed,{\kf15} if{\kf15} she's{\kf15} af{\kf15}ter{\kf21} you
+Dialogue: 0,0:03:24.97,0:03:27.33,DEFAULT,,0,0,0,,{\r}{\kf19}Got{\kf14}ta{\kf14} run,{\kf14} we{\kf19} got{\kf14}ta{\kf28} flee,{\kf19} got{\kf14}ta{\kf19} hur{\kf14}ry,{\kf14} don't{\kf14} you{\kf21} see?
+Dialogue: 0,0:03:27.45,0:03:29.78,DEFAULT,,0,0,0,,{\r}{\kf29}Well{\kf58} as{\kf58} I{\kf88} go
+Dialogue: 0,0:03:30.53,0:03:34.83,DEFAULT,,0,0,0,,{\r}{\kf46}Re{\kf42}mem{\kf28}ber{\kf32} all{\kf23} the{\kf37} sim{\kf23}ple{\kf55} things{\kf60} you{\kf42} kno{\kf42}-ow
+Dialogue: 0,0:03:35.62,0:03:39.80,DEFAULT,,0,0,0,,{\r}{\kf37}My{\kf37} mind{\kf32} is{\kf32} just{\kf32} a{\kf37} crutch{\kf26} and{\kf53} I{\kf37} still{\kf53} ho{\kf42}-ope
+Dialogue: 0,0:03:40.75,0:03:44.61,DEFAULT,,0,0,0,,{\r}{\kf29}That{\kf29} you{\kf29} will{\kf24} miss{\kf29} me{\kf38} when{\kf29} I{\kf62}-I'm{\kf38} go{\kf19}-o{\kf61}-one
+Dialogue: 0,0:03:45.48,0:03:48.95,DEFAULT,,0,0,0,,{\r}{\kf43}This{\kf39} is{\kf19} the{\kf48} smile{\kf48} so{\kf24}-o{\kf126}-ong

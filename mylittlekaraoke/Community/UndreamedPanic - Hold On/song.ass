@@ -1,39 +1,46 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Hold On
+Artist: UndreamedPanic ft. Strigidae
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:12.29,0:01:15.29,DEFAULT,,0,0,0,,{\kf79}I{\kf48} think{\kf28} it's{\kf64} time
-Dialogue: 0,0:01:15.85,0:01:18.10,DEFAULT,,0,0,0,,{\kf20}To{\kf32} re{\kf28}con{\kf24}si{\kf68}der
-Dialogue: 0,0:01:18.69,0:01:22.83,DEFAULT,,0,0,0,,{\kf36}E{\kf36}very{\kf68}thing{\kf24} I've{\kf60} done{\kf28}~{\kf28}~{\kf52}~
-Dialogue: 0,0:01:23.58,0:01:25.40,DEFAULT,,0,0,0,,{\kf24}I'm{\kf44} go{\kf28}ing{\kf52} now
-Dialogue: 0,0:01:25.79,0:01:27.57,DEFAULT,,0,0,0,,{\kf16}If{\kf20} I've{\kf24} lost{\kf20} so{\kf20} much{\kf16} then
-Dialogue: 0,0:01:27.77,0:01:31.40,DEFAULT,,0,0,0,,{\kf20}May{\kf24}be{\kf20} I{\kf28} can{\kf56} start{\kf24} a{\kf127}gain
-Dialogue: 0,0:01:31.91,0:01:34.87,DEFAULT,,0,0,0,,{\kf24}'Cause{\kf24} if{\kf20} you{\kf52} brave{\kf20} the{\kf95} night
-Dialogue: 0,0:01:35.15,0:01:37.20,DEFAULT,,0,0,0,,{\kf28}A{\kf28}lone{\kf28}~{\kf32}~{\kf32}~{\kf36}~
-Dialogue: 0,0:01:37.48,0:01:39.89,DEFAULT,,0,0,0,,{\kf20}You'll{\kf20} come{\kf44} back{\kf32} a{\kf79}live
-Dialogue: 0,0:01:40.28,0:01:42.10,DEFAULT,,0,0,0,,{\kf20}And{\kf20} find{\kf24} your{\kf20} way{\kf20} back{\kf20} home
-Dialogue: 0,0:01:42.25,0:01:45.18,DEFAULT,,0,0,0,,{\kf24}'Cause{\kf20} when{\kf20} the{\kf36} light{\kf24} goes{\kf52} out{\kf48}~
-Dialogue: 0,0:01:45.61,0:01:48.25,DEFAULT,,0,0,0,,{\kf16}You{\kf16} know{\kf12} it's{\kf24} not{\kf20} the{\kf36} end{\kf79}~
-Dialogue: 0,0:01:49.32,0:01:52.28,DEFAULT,,0,0,0,,{\kf20}So{\kf20} dar{\kf16}ling{\kf16} just{\kf32} hold{\kf127} on
-Dialogue: 0,0:01:52.79,0:01:55.36,DEFAULT,,0,0,0,,{\kf28}Hold{\kf210} on
-Dialogue: 0,0:02:03.97,0:02:05.58,DEFAULT,,0,0,0,,{\kf16}Hold{\kf131} on
-Dialogue: 0,0:02:06.10,0:02:08.19,DEFAULT,,0,0,0,,{\kf20}Hold{\kf24} on{\kf20}~{\kf127}~
-Dialogue: 0,0:02:09.06,0:02:11.70,DEFAULT,,0,0,0,,{\kf24}Hold{\kf229} on
-Dialogue: 0,0:03:00.65,0:03:02.23,DEFAULT,,0,0,0,,{\kf20}Hold{\kf123} on
-Dialogue: 0,0:03:02.86,0:03:04.99,DEFAULT,,0,0,0,,{\kf20}Hold{\kf24} on{\kf20}~{\kf131}~
-Dialogue: 0,0:03:07.72,0:03:10.28,DEFAULT,,0,0,0,,{\kf28}Hold{\kf214} on
-Dialogue: 0,0:03:20.31,0:03:23.23,DEFAULT,,0,0,0,,{\kf20}'Cause{\kf20} if{\kf20} you{\kf52} brave{\kf20} the{\kf87} night
-Dialogue: 0,0:03:23.54,0:03:25.56,DEFAULT,,0,0,0,,{\kf24}A{\kf28}lone{\kf28}~{\kf28}~{\kf28}~{\kf40}~
-Dialogue: 0,0:03:25.91,0:03:28.24,DEFAULT,,0,0,0,,{\kf16}You'll{\kf20} come{\kf48} back{\kf24} a{\kf75}live
-Dialogue: 0,0:03:28.68,0:03:30.49,DEFAULT,,0,0,0,,{\kf20}And{\kf20} find{\kf20} your{\kf20} way{\kf20} back{\kf20} home
-Dialogue: 0,0:03:30.69,0:03:33.53,DEFAULT,,0,0,0,,{\kf20}'Cause{\kf24} when{\kf16} the{\kf32} light{\kf24} goes{\kf52} out{\kf44}~
-Dialogue: 0,0:03:34.04,0:03:36.61,DEFAULT,,0,0,0,,{\kf12}You{\kf16} know{\kf16} it's{\kf20} not{\kf20} the{\kf36} end{\kf79}~
-Dialogue: 0,0:03:37.72,0:03:40.72,DEFAULT,,0,0,0,,{\kf16}So{\kf24} dar{\kf16}ling{\kf16} just{\kf40} hold{\kf135} on
-Dialogue: 0,0:03:41.23,0:03:43.68,DEFAULT,,0,0,0,,{\kf32}Hold{\kf198} on
+Dialogue: 0,0:01:12.30,0:01:15.30,DEFAULT,,0,0,0,,{\r}{\kf109}I{\kf65} think{\kf38} it's{\kf88} time
+Dialogue: 0,0:01:15.85,0:01:18.10,DEFAULT,,0,0,0,,{\r}{\kf26}To{\kf42} re{\kf37}con{\kf31}si{\kf89}der
+Dialogue: 0,0:01:18.69,0:01:22.84,DEFAULT,,0,0,0,,{\r}{\kf45}E{\kf45}very{\kf85}thing{\kf30} I've{\kf75} done{\kf35}~{\kf35}~{\kf64}~
+Dialogue: 0,0:01:23.59,0:01:25.40,DEFAULT,,0,0,0,,{\r}{\kf30}I'm{\kf54} go{\kf34}ing{\kf64} now
+Dialogue: 0,0:01:25.80,0:01:27.58,DEFAULT,,0,0,0,,{\r}{\kf25}If{\kf31} I've{\kf37} lost{\kf31} so{\kf31} much{\kf23} then
+Dialogue: 0,0:01:27.77,0:01:31.40,DEFAULT,,0,0,0,,{\r}{\kf24}May{\kf29}be{\kf24} I{\kf34} can{\kf68} start{\kf29} a{\kf155}gain
+Dialogue: 0,0:01:31.92,0:01:34.88,DEFAULT,,0,0,0,,{\r}{\kf30}'Cause{\kf30} if{\kf25} you{\kf65} brave{\kf25} the{\kf121} night
+Dialogue: 0,0:01:35.15,0:01:37.21,DEFAULT,,0,0,0,,{\r}{\kf31}A{\kf31}lone{\kf31}~{\kf36}~{\kf36}~{\kf40}~
+Dialogue: 0,0:01:37.48,0:01:39.89,DEFAULT,,0,0,0,,{\r}{\kf25}You'll{\kf25} come{\kf54} back{\kf39} a{\kf98}live
+Dialogue: 0,0:01:40.29,0:01:42.10,DEFAULT,,0,0,0,,{\r}{\kf29}And{\kf29} find{\kf35} your{\kf29} way{\kf29} back{\kf31} home
+Dialogue: 0,0:01:42.26,0:01:45.18,DEFAULT,,0,0,0,,{\r}{\kf31}'Cause{\kf26} when{\kf26} the{\kf47} light{\kf31} goes{\kf68} out{\kf63}~
+Dialogue: 0,0:01:45.61,0:01:48.26,DEFAULT,,0,0,0,,{\r}{\kf21}You{\kf21} know{\kf16} it's{\kf31} not{\kf26} the{\kf47} end{\kf102}~
+Dialogue: 0,0:01:49.33,0:01:52.29,DEFAULT,,0,0,0,,{\r}{\kf26}So{\kf26} dar{\kf20}ling{\kf20} just{\kf41} hold{\kf163} on
+Dialogue: 0,0:01:52.80,0:01:55.36,DEFAULT,,0,0,0,,{\r}{\kf30}Hold{\kf227} on
+Dialogue: 0,0:02:03.97,0:02:05.59,DEFAULT,,0,0,0,,{\r}{\kf18}Hold{\kf144} on
+Dialogue: 0,0:02:06.10,0:02:08.19,DEFAULT,,0,0,0,,{\r}{\kf22}Hold{\kf26} on{\kf22}~{\kf139}~
+Dialogue: 0,0:02:09.06,0:02:11.71,DEFAULT,,0,0,0,,{\r}{\kf25}Hold{\kf239} on
+Dialogue: 0,0:03:00.65,0:03:02.23,DEFAULT,,0,0,0,,{\r}{\kf22}Hold{\kf136} on
+Dialogue: 0,0:03:02.86,0:03:05.00,DEFAULT,,0,0,0,,{\r}{\kf22}Hold{\kf26} on{\kf22}~{\kf143}~
+Dialogue: 0,0:03:07.72,0:03:10.29,DEFAULT,,0,0,0,,{\r}{\kf29}Hold{\kf228} on
+Dialogue: 0,0:03:20.31,0:03:23.23,DEFAULT,,0,0,0,,{\r}{\kf27}'Cause{\kf27} if{\kf27} you{\kf69} brave{\kf27} the{\kf115} night
+Dialogue: 0,0:03:23.55,0:03:25.56,DEFAULT,,0,0,0,,{\r}{\kf27}A{\kf32}lone{\kf32}~{\kf32}~{\kf32}~{\kf46}~
+Dialogue: 0,0:03:25.92,0:03:28.25,DEFAULT,,0,0,0,,{\r}{\kf20}You'll{\kf25} come{\kf61} back{\kf30} a{\kf97}live
+Dialogue: 0,0:03:28.68,0:03:30.50,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf30} find{\kf30} your{\kf30} way{\kf30} back{\kf32} home
+Dialogue: 0,0:03:30.69,0:03:33.54,DEFAULT,,0,0,0,,{\r}{\kf27}'Cause{\kf32} when{\kf21} the{\kf43} light{\kf32} goes{\kf70} out{\kf59}~
+Dialogue: 0,0:03:34.05,0:03:36.61,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf21} know{\kf21} it's{\kf26} not{\kf26} the{\kf46} end{\kf102}~
+Dialogue: 0,0:03:37.72,0:03:40.72,DEFAULT,,0,0,0,,{\r}{\kf19}So{\kf29} dar{\kf19}ling{\kf19} just{\kf48} hold{\kf166} on
+Dialogue: 0,0:03:41.23,0:03:43.68,DEFAULT,,0,0,0,,{\r}{\kf34}Hold{\kf211} on

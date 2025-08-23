@@ -1,74 +1,81 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: My Sweet Peace
+Artist: WoodLore
+Original Timing: mylittlekaraoke.com by ShTHfan1
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.60,0:00:09.07,DEFAULT,,0,0,0,,{\kf87}Oh{\kf28}~,{\kf56} lay{\kf24} me{\kf123} down
-Dialogue: 0,0:00:09.70,0:00:14.12,DEFAULT,,0,0,0,,{\kf24}Let{\kf28} the{\kf111} earth,{\kf20} my{\kf44} soul{\kf28} sur{\kf123}round
-Dialogue: 0,0:00:15.42,0:00:19.33,DEFAULT,,0,0,0,,{\kf16}Where{\kf87} all{\kf20}~{\kf60} I{\kf24} can{\kf135} see
-Dialogue: 0,0:00:19.84,0:00:24.23,DEFAULT,,0,0,0,,{\kf24}Is{\kf20} the{\kf115} land{\kf20} in{\kf44} front{\kf32} of{\kf123} me
-Dialogue: 0,0:00:24.90,0:00:29.36,DEFAULT,,0,0,0,,{\kf28}Where{\kf20} the{\kf115} red{\kf16} a{\kf36}za{\kf24}le{\kf20}a{\kf36} grows{\kf95}~
-Dialogue: 0,0:00:29.91,0:00:34.09,DEFAULT,,0,0,0,,{\kf40}I'm{\kf12} a{\kf28}~{\kf87}lone{\kf24} in{\kf52} my{\kf24} re{\kf107}pose
-Dialogue: 0,0:00:34.65,0:00:39.70,DEFAULT,,0,0,0,,{\kf52}Pa{\kf20}ra{\kf28}~{\kf60}dise,{\kf24} though{\kf20} slow{\kf20}ly{\kf24} it{\kf28} grows{\kf127}~
-Dialogue: 0,0:00:40.09,0:00:46.65,DEFAULT,,0,0,0,,{\kf24}It{\kf12} has{\kf8}~{\kf28}~{\kf64} life{\kf24} be{\kf52}yond{\kf20} our{\kf24} own{\kf8}~{\kf87}~{\kf119}~{\kf91}~
-Dialogue: 0,0:00:47.91,0:00:51.07,DEFAULT,,0,0,0,,{\kf32}I've{\kf52} made{\kf24} my{\kf24}~{\kf44} life{\kf91} here
-Dialogue: 0,0:00:53.00,0:00:56.67,DEFAULT,,0,0,0,,{\kf24}I{\kf52} think{\kf28} I'm{\kf20}~{\kf44} hap{\kf28}py{\kf24}~{\kf83} here
-Dialogue: 0,0:00:57.97,0:01:01.57,DEFAULT,,0,0,0,,{\kf32}Down{\kf68} where{\kf24} the{\kf48} grass{\kf131} grows
-Dialogue: 0,0:01:03.07,0:01:07.09,DEFAULT,,0,0,0,,{\kf28}A{\kf83}way{\kf24} from{\kf24} all{\kf24}~{\kf60} my{\kf107} fears
-Dialogue: 0,0:01:08.08,0:01:11.24,DEFAULT,,0,0,0,,{\kf28}A{\kf60}mong{\kf28} the{\kf24}~{\kf56} wil{\kf91}lows
-Dialogue: 0,0:01:13.21,0:01:16.92,DEFAULT,,0,0,0,,{\kf32}Where{\kf48} my{\kf44} sweet{\kf40} peace{\kf48} takes{\kf87} hold
-Dialogue: 0,0:01:18.18,0:01:21.46,DEFAULT,,0,0,0,,{\kf28}Here{\kf75} in{\kf16} the{\kf28} ho{\kf20}~{\kf103}llows
-Dialogue: 0,0:01:23.27,0:01:27.10,DEFAULT,,0,0,0,,{\kf24}A{\kf48} place{\kf28} that{\kf28} I{\kf16}~{\kf32} call{\kf8}~{\kf40}~{\kf32} home{\kf32}~
-Dialogue: 0,0:01:36.22,0:01:40.13,DEFAULT,,0,0,0,,{\kf32}There's{\kf107} wis{\kf28}dom{\kf24}~,{\kf24} you{\kf135} know
-Dialogue: 0,0:01:40.68,0:01:45.30,DEFAULT,,0,0,0,,{\kf24}In{\kf24} the{\kf111} way{\kf28} the{\kf48} wa{\kf32}ter{\kf12} flows{\kf16}~{\kf111}~
-Dialogue: 0,0:01:46.68,0:01:50.00,DEFAULT,,0,0,0,,{\kf99}Sof{\kf20}tly{\kf28}~{\kf28}~{\kf20} it{\kf32} winds{\kf12}~{\kf12}~{\kf44}~
-Dialogue: 0,0:01:50.79,0:01:55.05,DEFAULT,,0,0,0,,{\kf24}Gi{\kf28}ving{\kf115} life{\kf24} to{\kf52} all{\kf28} it{\kf111} finds
-Dialogue: 0,0:01:55.88,0:02:00.49,DEFAULT,,0,0,0,,{\kf24}Bring{\kf24}ing{\kf107} green{\kf24} to{\kf24} all{\kf24} of{\kf20} the{\kf32} trees{\kf123}~
-Dialogue: 0,0:02:00.85,0:02:04.99,DEFAULT,,0,0,0,,{\kf36}Bea{\kf12}ring{\kf8}~{\kf24}~{\kf75} fruit{\kf28} for{\kf60} you{\kf24} and{\kf87} me
-Dialogue: 0,0:02:05.31,0:02:10.44,DEFAULT,,0,0,0,,{\kf20}And{\kf60} all{\kf20} the{\kf24}~{\kf40} while{\kf8}~{\kf20}~,{\kf32} fin{\kf24}ding{\kf28} its{\kf28} way{\kf107}~
-Dialogue: 0,0:02:10.95,0:02:17.78,DEFAULT,,0,0,0,,{\kf24}In{\kf16} the{\kf36}~{\kf87} tur{\kf28}bu{\kf56}lent{\kf24} de{\kf28}cay{\kf8}~{\kf79}~{\kf119}~{\kf111}~
-Dialogue: 0,0:02:18.89,0:02:21.97,DEFAULT,,0,0,0,,{\kf32}I've{\kf44} made{\kf28} my{\kf24}~{\kf48} life{\kf83} here
-Dialogue: 0,0:02:23.94,0:02:27.57,DEFAULT,,0,0,0,,{\kf28}I{\kf44} think{\kf24} I'm{\kf24}~{\kf48} hap{\kf24}py{\kf28}~{\kf72} here
-Dialogue: 0,0:02:28.95,0:02:32.31,DEFAULT,,0,0,0,,{\kf40}Down{\kf75} where{\kf24} the{\kf24} grass{\kf24}~{\kf107} grows
-Dialogue: 0,0:02:34.04,0:02:38.07,DEFAULT,,0,0,0,,{\kf20}A{\kf83}way{\kf24} from{\kf24} all{\kf24}~{\kf52} my{\kf119} fears
-Dialogue: 0,0:02:39.10,0:02:43.68,DEFAULT,,0,0,0,,{\kf28}A{\kf79}mong{\kf28} the{\kf28} wil{\kf123}lows{\kf143}~
-Dialogue: 0,0:02:44.07,0:02:47.90,DEFAULT,,0,0,0,,{\kf32}Where{\kf56} my{\kf44} sweet{\kf48} peace{\kf56} takes{\kf91} hold
-Dialogue: 0,0:02:49.20,0:02:53.54,DEFAULT,,0,0,0,,{\kf32}Here{\kf75} in{\kf20} the{\kf28} ho{\kf28}~{\kf60}llows{\kf107}~{\kf28}~
-Dialogue: 0,0:02:54.29,0:02:59.23,DEFAULT,,0,0,0,,{\kf20}A{\kf87} place{\kf28} that{\kf52} I{\kf24} call{\kf24}~{\kf28} home{\kf8}~{\kf131}~{\kf28}~
-Dialogue: 0,0:02:59.78,0:03:02.82,DEFAULT,,0,0,0,,{\kf48}Ah{\kf52}~{\kf24}~{\kf162}~
-Dialogue: 0,0:03:33.45,0:03:36.45,DEFAULT,,0,0,0,,{\kf36}All{\kf16} the{\kf16}~{\kf44} moun{\kf16}tains{\kf16}~{\kf115} high
-Dialogue: 0,0:03:36.88,0:03:40.39,DEFAULT,,0,0,0,,{\kf20}The{\kf52} clouds{\kf16} a{\kf48}cross{\kf28} the{\kf20} sky{\kf16}~{\kf79}~
-Dialogue: 0,0:03:40.67,0:03:44.26,DEFAULT,,0,0,0,,{\kf16}The{\kf36} grand{\kf16} ho{\kf24}~{\kf44}ri{\kf40}zon{\kf20} be{\kf20}ckons{\kf79} me
-Dialogue: 0,0:03:48.13,0:03:51.37,DEFAULT,,0,0,0,,{\kf36}The{\kf40} rain{\kf36} comes{\kf44} fal{\kf20}ling{\kf20}~{\kf87} down
-Dialogue: 0,0:03:52.00,0:03:55.63,DEFAULT,,0,0,0,,{\kf20}U{\kf56}pon{\kf20} the{\kf44} thirs{\kf36}ty{\kf20} ground{\kf16}~{\kf8}~{\kf79}~
-Dialogue: 0,0:03:56.10,0:03:59.66,DEFAULT,,0,0,0,,{\kf48}Wash{\kf16} a{\kf20}~{\kf36}way{\kf72} my{\kf24} fra{\kf16}il{\kf64}ty
-Dialogue: 0,0:04:03.29,0:04:06.80,DEFAULT,,0,0,0,,{\kf28}The{\kf32} wind{\kf16} blows{\kf28}~{\kf36} through{\kf20} my{\kf20}~{\kf115} mane
-Dialogue: 0,0:04:07.12,0:04:10.79,DEFAULT,,0,0,0,,{\kf24}It{\kf52} cour{\kf24}ses{\kf36} through{\kf40} my{\kf16} veins{\kf16}~{\kf12}~{\kf83}~
-Dialogue: 0,0:04:10.98,0:04:14.93,DEFAULT,,0,0,0,,{\kf24}A{\kf40}wa{\kf32}kens{\kf36} me{\kf16} to{\kf16}~{\kf48} worlds{\kf32} un{\kf87}seen
-Dialogue: 0,0:04:18.40,0:04:22.15,DEFAULT,,0,0,0,,{\kf32}The{\kf40} trees{\kf16} fo{\kf16}~{\kf40}re{\kf60}ver{\kf68} grow{\kf32}~
-Dialogue: 0,0:04:22.39,0:04:26.02,DEFAULT,,0,0,0,,{\kf16}The{\kf44} crea{\kf28}tures{\kf52} come{\kf20} and{\kf20} go{\kf16}~{\kf12}~{\kf91}~
-Dialogue: 0,0:04:26.50,0:04:30.17,DEFAULT,,0,0,0,,{\kf40}All{\kf16} be{\kf16}~{\kf36}hold{\kf79} their{\kf24} ma{\kf24}jes{\kf72}ty
-Dialogue: 0,0:04:33.60,0:04:36.60,DEFAULT,,0,0,0,,{\kf20}The{\kf40} fo{\kf32}rest{\kf36} sets{\kf12} me{\kf20}~{\kf68} free
-Dialogue: 0,0:04:37.47,0:04:41.10,DEFAULT,,0,0,0,,{\kf28}The{\kf48} a{\kf28}ni{\kf52}mal{\kf20} in{\kf20} me{\kf24}~{\kf12}~{\kf79}~
-Dialogue: 0,0:04:41.61,0:04:45.32,DEFAULT,,0,0,0,,{\kf44}All{\kf16} my{\kf20}~{\kf40} ins{\kf40}tincts{\kf36} brought{\kf40} me{\kf79} here
-Dialogue: 0,0:04:49.23,0:04:52.07,DEFAULT,,0,0,0,,{\kf40}All{\kf16} the{\kf20}~{\kf40} moun{\kf16}tains{\kf20}~{\kf95} high
-Dialogue: 0,0:04:52.70,0:04:56.14,DEFAULT,,0,0,0,,{\kf16}The{\kf48} clouds{\kf24} a{\kf44}cross{\kf36} the{\kf20} sky{\kf12}~{\kf75}~
-Dialogue: 0,0:04:56.53,0:05:00.80,DEFAULT,,0,0,0,,{\kf12}The{\kf44} grand{\kf16} ho{\kf20}~{\kf44}ri{\kf111}zon{\kf20} be{\kf20}ckons{\kf75} me
-Dialogue: 0,0:05:03.91,0:05:07.31,DEFAULT,,0,0,0,,{\kf32}The{\kf40} rain{\kf40} comes{\kf48} fal{\kf16}ling{\kf20}~{\kf83} down{\kf16}~
-Dialogue: 0,0:05:07.90,0:05:11.37,DEFAULT,,0,0,0,,{\kf20}U{\kf52}pon{\kf24} the{\kf48} thirs{\kf32}ty{\kf28} ground{\kf12}~{\kf8}~{\kf8}~{\kf60}~
-Dialogue: 0,0:05:11.93,0:05:15.83,DEFAULT,,0,0,0,,{\kf44}Wash{\kf20} a{\kf20}~{\kf40}way{\kf111} my{\kf32} fra{\kf16}il{\kf64}ty
-Dialogue: 0,0:05:19.19,0:05:22.82,DEFAULT,,0,0,0,,{\kf24}The{\kf36} wind{\kf16} blows{\kf24}~{\kf36} through{\kf16} my{\kf24}~{\kf139} mane
-Dialogue: 0,0:05:22.98,0:05:26.37,DEFAULT,,0,0,0,,{\kf16}It{\kf44} cour{\kf16}ses{\kf16}~{\kf40} through{\kf44} my{\kf20} veins{\kf8}~{\kf8}~{\kf64}~
-Dialogue: 0,0:05:26.77,0:05:33.04,DEFAULT,,0,0,0,,{\kf24}A{\kf48}wa{\kf16}kens{\kf20}~{\kf36} me{\kf40} to{\kf72} worlds{\kf16}~{\kf32} un{\kf12}~{\kf32}~{\kf52}seen{\kf20}~,{\kf24} yeah{\kf20}~{\kf64}~
-Dialogue: 0,0:05:34.46,0:05:38.02,DEFAULT,,0,0,0,,{\kf12}The{\kf44} trees{\kf16} fo{\kf16}~{\kf48}re{\kf36}ver{\kf143} grow
-Dialogue: 0,0:05:38.18,0:05:41.53,DEFAULT,,0,0,0,,{\kf20}The{\kf44} crea{\kf40}tures{\kf20} come{\kf20}~{\kf16} and{\kf20}~{\kf20} go{\kf60}~{\kf24}~
-Dialogue: 0,0:05:42.28,0:05:45.60,DEFAULT,,0,0,0,,{\kf40}All{\kf40} be{\kf40}hold{\kf64} their{\kf28} ma{\kf24}jes{\kf60}ty
-Dialogue: 0,0:05:49.31,0:05:52.50,DEFAULT,,0,0,0,,{\kf24}The{\kf28} fo{\kf32}rest{\kf36} sets{\kf64} me{\kf99} free
-Dialogue: 0,0:05:53.45,0:05:56.73,DEFAULT,,0,0,0,,{\kf20}The{\kf40} a{\kf24}ni{\kf48}mal{\kf28} in{\kf56} me{\kf12}~{\kf48}~
-Dialogue: 0,0:05:57.52,0:06:00.75,DEFAULT,,0,0,0,,{\kf40}All{\kf36} my{\kf32} ins{\kf36}tincts{\kf32} brought{\kf24} me{\kf72} here
+Dialogue: 0,0:00:05.60,0:00:09.07,DEFAULT,,0,0,0,,{\r}{\kf95}Oh{\kf30}~,{\kf61} lay{\kf26} me{\kf135} down
+Dialogue: 0,0:00:09.71,0:00:14.13,DEFAULT,,0,0,0,,{\r}{\kf28}Let{\kf33} the{\kf130} earth,{\kf23} my{\kf51} soul{\kf33} sur{\kf144}round
+Dialogue: 0,0:00:15.43,0:00:19.34,DEFAULT,,0,0,0,,{\r}{\kf18}Where{\kf100} all{\kf23}~{\kf68} I{\kf27} can{\kf155} see
+Dialogue: 0,0:00:19.85,0:00:24.23,DEFAULT,,0,0,0,,{\r}{\kf28}Is{\kf23} the{\kf134} land{\kf23} in{\kf51} front{\kf37} of{\kf142} me
+Dialogue: 0,0:00:24.90,0:00:29.36,DEFAULT,,0,0,0,,{\r}{\kf32}Where{\kf23} the{\kf132} red{\kf18} a{\kf41}za{\kf27}le{\kf23}a{\kf41} grows{\kf109}~
+Dialogue: 0,0:00:29.91,0:00:34.10,DEFAULT,,0,0,0,,{\r}{\kf44}I'm{\kf13} a{\kf31}~{\kf98}lone{\kf27} in{\kf58} my{\kf27} re{\kf120}pose
+Dialogue: 0,0:00:34.65,0:00:39.70,DEFAULT,,0,0,0,,{\r}{\kf65}Pa{\kf25}ra{\kf35}~{\kf75}dise,{\kf30} though{\kf25} slow{\kf25}ly{\kf30} it{\kf35} grows{\kf160}~
+Dialogue: 0,0:00:40.10,0:00:46.65,DEFAULT,,0,0,0,,{\r}{\kf28}It{\kf14} has{\kf10}~{\kf33}~{\kf74} life{\kf28} be{\kf60}yond{\kf23} our{\kf28} own{\kf10}~{\kf102}~{\kf139}~{\kf106}~
+Dialogue: 0,0:00:47.91,0:00:51.07,DEFAULT,,0,0,0,,{\r}{\kf38}I've{\kf61} made{\kf28} my{\kf28}~{\kf52} life{\kf109} here
+Dialogue: 0,0:00:53.01,0:00:56.68,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf63} think{\kf34} I'm{\kf24}~{\kf53} hap{\kf34}py{\kf29}~{\kf101} here
+Dialogue: 0,0:00:57.98,0:01:01.57,DEFAULT,,0,0,0,,{\r}{\kf38}Down{\kf80} where{\kf28} the{\kf57} grass{\kf156} grows
+Dialogue: 0,0:01:03.07,0:01:07.10,DEFAULT,,0,0,0,,{\r}{\kf32}A{\kf96}way{\kf27} from{\kf27} all{\kf27}~{\kf69} my{\kf125} fears
+Dialogue: 0,0:01:08.08,0:01:11.24,DEFAULT,,0,0,0,,{\r}{\kf31}A{\kf66}mong{\kf31} the{\kf26}~{\kf61} wil{\kf101}lows
+Dialogue: 0,0:01:13.21,0:01:16.92,DEFAULT,,0,0,0,,{\r}{\kf40}Where{\kf59} my{\kf54} sweet{\kf49} peace{\kf59} takes{\kf110} hold
+Dialogue: 0,0:01:18.19,0:01:21.46,DEFAULT,,0,0,0,,{\r}{\kf34}Here{\kf92} in{\kf19} the{\kf34} ho{\kf24}~{\kf125}llows
+Dialogue: 0,0:01:23.28,0:01:27.11,DEFAULT,,0,0,0,,{\r}{\kf32}A{\kf64} place{\kf37} that{\kf37} I{\kf21}~{\kf43} call{\kf11}~{\kf53}~{\kf43} home{\kf42}~
+Dialogue: 0,0:01:36.23,0:01:40.13,DEFAULT,,0,0,0,,{\r}{\kf36}There's{\kf120} wis{\kf31}dom{\kf27}~,{\kf27} you{\kf150} know
+Dialogue: 0,0:01:40.69,0:01:45.30,DEFAULT,,0,0,0,,{\r}{\kf27}In{\kf27} the{\kf127} way{\kf32} the{\kf54} wa{\kf36}ter{\kf14} flows{\kf18}~{\kf127}~
+Dialogue: 0,0:01:46.69,0:01:50.00,DEFAULT,,0,0,0,,{\r}{\kf112}Sof{\kf22}tly{\kf31}~{\kf31}~{\kf22} it{\kf36} winds{\kf13}~{\kf13}~{\kf52}~
+Dialogue: 0,0:01:50.79,0:01:55.05,DEFAULT,,0,0,0,,{\r}{\kf27}Gi{\kf31}ving{\kf129} life{\kf27} to{\kf58} all{\kf31} it{\kf123} finds
+Dialogue: 0,0:01:55.88,0:02:00.50,DEFAULT,,0,0,0,,{\r}{\kf27}Bring{\kf27}ing{\kf124} green{\kf27} to{\kf27} all{\kf27} of{\kf23} the{\kf37} trees{\kf143}~
+Dialogue: 0,0:02:00.86,0:02:05.00,DEFAULT,,0,0,0,,{\r}{\kf42}Bea{\kf14}ring{\kf10}~{\kf28}~{\kf88} fruit{\kf33} for{\kf70} you{\kf28} and{\kf101} me
+Dialogue: 0,0:02:05.32,0:02:10.45,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf75} all{\kf25} the{\kf30}~{\kf50} while{\kf10}~{\kf25}~,{\kf40} fin{\kf30}ding{\kf35} its{\kf35} way{\kf133}~
+Dialogue: 0,0:02:10.96,0:02:17.79,DEFAULT,,0,0,0,,{\r}{\kf26}In{\kf18} the{\kf40}~{\kf97} tur{\kf31}bu{\kf62}lent{\kf26} de{\kf31}cay{\kf10}~{\kf88}~{\kf132}~{\kf122}~
+Dialogue: 0,0:02:18.89,0:02:21.97,DEFAULT,,0,0,0,,{\r}{\kf38}I've{\kf52} made{\kf33} my{\kf28}~{\kf57} life{\kf100} here
+Dialogue: 0,0:02:23.95,0:02:27.58,DEFAULT,,0,0,0,,{\r}{\kf35}I{\kf55} think{\kf30} I'm{\kf30}~{\kf60} hap{\kf30}py{\kf35}~{\kf88} here
+Dialogue: 0,0:02:28.96,0:02:32.31,DEFAULT,,0,0,0,,{\r}{\kf45}Down{\kf86} where{\kf27} the{\kf27} grass{\kf27}~{\kf123} grows
+Dialogue: 0,0:02:34.05,0:02:38.08,DEFAULT,,0,0,0,,{\r}{\kf23}A{\kf97}way{\kf28} from{\kf28} all{\kf28}~{\kf60} my{\kf139} fears
+Dialogue: 0,0:02:39.10,0:02:43.68,DEFAULT,,0,0,0,,{\r}{\kf30}A{\kf85}mong{\kf30} the{\kf30} wil{\kf131}lows{\kf152}~
+Dialogue: 0,0:02:44.08,0:02:47.90,DEFAULT,,0,0,0,,{\r}{\kf37}Where{\kf65} my{\kf51} sweet{\kf56} peace{\kf65} takes{\kf109} hold
+Dialogue: 0,0:02:49.21,0:02:53.55,DEFAULT,,0,0,0,,{\r}{\kf37}Here{\kf87} in{\kf23} the{\kf32} ho{\kf32}~{\kf69}llows{\kf123}~{\kf31}~
+Dialogue: 0,0:02:54.30,0:02:59.23,DEFAULT,,0,0,0,,{\r}{\kf23}A{\kf100} place{\kf32} that{\kf59} I{\kf27} call{\kf27}~{\kf32} home{\kf10}~{\kf151}~{\kf32}~
+Dialogue: 0,0:02:59.78,0:03:02.82,DEFAULT,,0,0,0,,{\r}{\kf51}Ah{\kf55}~{\kf25}~{\kf173}~
+Dialogue: 0,0:03:33.45,0:03:36.45,DEFAULT,,0,0,0,,{\r}{\kf42}All{\kf18} the{\kf18}~{\kf51} moun{\kf18}tains{\kf18}~{\kf135} high
+Dialogue: 0,0:03:36.89,0:03:40.40,DEFAULT,,0,0,0,,{\r}{\kf25}The{\kf65} clouds{\kf20} a{\kf60}cross{\kf35} the{\kf25} sky{\kf20}~{\kf101}~
+Dialogue: 0,0:03:40.68,0:03:44.27,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf44} grand{\kf19} ho{\kf29}~{\kf53}ri{\kf49}zon{\kf24} be{\kf24}ckons{\kf98} me
+Dialogue: 0,0:03:48.14,0:03:51.37,DEFAULT,,0,0,0,,{\r}{\kf41}The{\kf46} rain{\kf41} comes{\kf50} fal{\kf23}ling{\kf23}~{\kf100} down
+Dialogue: 0,0:03:52.00,0:03:55.64,DEFAULT,,0,0,0,,{\r}{\kf24}U{\kf68}pon{\kf24} the{\kf53} thirs{\kf44}ty{\kf24} ground{\kf19}~{\kf10}~{\kf97}~
+Dialogue: 0,0:03:56.11,0:03:59.66,DEFAULT,,0,0,0,,{\r}{\kf58}Wash{\kf19} a{\kf24}~{\kf43}way{\kf86} my{\kf29} fra{\kf19}il{\kf77}ty
+Dialogue: 0,0:04:03.29,0:04:06.81,DEFAULT,,0,0,0,,{\r}{\kf33}The{\kf38} wind{\kf19} blows{\kf33}~{\kf43} through{\kf24} my{\kf24}~{\kf137} mane
+Dialogue: 0,0:04:07.12,0:04:10.79,DEFAULT,,0,0,0,,{\r}{\kf29}It{\kf63} cour{\kf29}ses{\kf43} through{\kf48} my{\kf19} veins{\kf19}~{\kf14}~{\kf103}~
+Dialogue: 0,0:04:10.99,0:04:14.94,DEFAULT,,0,0,0,,{\r}{\kf29}A{\kf48}wa{\kf38}kens{\kf43} me{\kf19} to{\kf19}~{\kf57} worlds{\kf38} un{\kf104}seen
+Dialogue: 0,0:04:18.41,0:04:22.16,DEFAULT,,0,0,0,,{\r}{\kf39}The{\kf49} trees{\kf20} fo{\kf20}~{\kf49}re{\kf74}ver{\kf84} grow{\kf40}~
+Dialogue: 0,0:04:22.40,0:04:26.03,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf53} crea{\kf34}tures{\kf63} come{\kf24} and{\kf24} go{\kf19}~{\kf15}~{\kf112}~
+Dialogue: 0,0:04:26.50,0:04:30.17,DEFAULT,,0,0,0,,{\r}{\kf48}All{\kf19} be{\kf19}~{\kf43}hold{\kf95} their{\kf29} ma{\kf29}jes{\kf85}ty
+Dialogue: 0,0:04:33.61,0:04:36.61,DEFAULT,,0,0,0,,{\r}{\kf26}The{\kf53} fo{\kf42}rest{\kf47} sets{\kf16} me{\kf26}~{\kf90} free
+Dialogue: 0,0:04:37.47,0:04:41.11,DEFAULT,,0,0,0,,{\r}{\kf33}The{\kf56} a{\kf33}ni{\kf61}mal{\kf23} in{\kf23} me{\kf28}~{\kf14}~{\kf92}~
+Dialogue: 0,0:04:41.62,0:04:45.33,DEFAULT,,0,0,0,,{\r}{\kf52}All{\kf19} my{\kf23}~{\kf47} ins{\kf47}tincts{\kf42} brought{\kf47} me{\kf94} here
+Dialogue: 0,0:04:49.24,0:04:52.08,DEFAULT,,0,0,0,,{\r}{\kf46}All{\kf18} the{\kf23}~{\kf46} moun{\kf18}tains{\kf23}~{\kf110} high
+Dialogue: 0,0:04:52.71,0:04:56.14,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf60} clouds{\kf30} a{\kf55}cross{\kf45} the{\kf25} sky{\kf15}~{\kf93}~
+Dialogue: 0,0:04:56.54,0:05:00.80,DEFAULT,,0,0,0,,{\r}{\kf14}The{\kf51} grand{\kf19} ho{\kf23}~{\kf51}ri{\kf131}zon{\kf23} be{\kf23}ckons{\kf91} me
+Dialogue: 0,0:05:03.92,0:05:07.31,DEFAULT,,0,0,0,,{\r}{\kf37}The{\kf46} rain{\kf46} comes{\kf55} fal{\kf18}ling{\kf23}~{\kf96} down{\kf18}~
+Dialogue: 0,0:05:07.91,0:05:11.38,DEFAULT,,0,0,0,,{\r}{\kf24}U{\kf62}pon{\kf29} the{\kf57} thirs{\kf38}ty{\kf33} ground{\kf14}~{\kf10}~{\kf10}~{\kf70}~
+Dialogue: 0,0:05:11.93,0:05:15.84,DEFAULT,,0,0,0,,{\r}{\kf49}Wash{\kf22} a{\kf22}~{\kf45}way{\kf126} my{\kf36} fra{\kf18}il{\kf73}ty
+Dialogue: 0,0:05:19.19,0:05:22.83,DEFAULT,,0,0,0,,{\r}{\kf28}The{\kf41} wind{\kf18} blows{\kf28}~{\kf41} through{\kf18} my{\kf28}~{\kf161} mane
+Dialogue: 0,0:05:22.98,0:05:26.38,DEFAULT,,0,0,0,,{\r}{\kf20}It{\kf54} cour{\kf20}ses{\kf20}~{\kf49} through{\kf54} my{\kf25} veins{\kf10}~{\kf10}~{\kf77}~
+Dialogue: 0,0:05:26.77,0:05:33.05,DEFAULT,,0,0,0,,{\r}{\kf29}A{\kf57}wa{\kf19}kens{\kf24}~{\kf43} me{\kf48} to{\kf86} worlds{\kf19}~{\kf38} un{\kf14}~{\kf38}~{\kf62}seen{\kf24}~,{\kf29} yeah{\kf24}~{\kf74}~
+Dialogue: 0,0:05:34.47,0:05:38.02,DEFAULT,,0,0,0,,{\r}{\kf13}The{\kf49} trees{\kf18} fo{\kf18}~{\kf54}re{\kf40}ver{\kf163} grow
+Dialogue: 0,0:05:38.18,0:05:41.54,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf52} crea{\kf47}tures{\kf24} come{\kf24}~{\kf19} and{\kf24}~{\kf24} go{\kf71}~{\kf26}~
+Dialogue: 0,0:05:42.28,0:05:45.60,DEFAULT,,0,0,0,,{\r}{\kf45}All{\kf45} be{\kf45}hold{\kf72} their{\kf31} ma{\kf27}jes{\kf67}ty
+Dialogue: 0,0:05:49.31,0:05:52.51,DEFAULT,,0,0,0,,{\r}{\kf27}The{\kf32} fo{\kf36}rest{\kf41} sets{\kf72} me{\kf112} free
+Dialogue: 0,0:05:53.46,0:05:56.73,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf48} a{\kf29}ni{\kf57}mal{\kf33} in{\kf67} me{\kf14}~{\kf56}~
+Dialogue: 0,0:05:57.52,0:06:00.76,DEFAULT,,0,0,0,,{\r}{\kf48}All{\kf43} my{\kf38} ins{\kf43}tincts{\kf38} brought{\kf29} me{\kf85} here

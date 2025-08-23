@@ -1,36 +1,43 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Luna's Future
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by rainbowderpy, Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.38,0:00:09.15,DEFAULT,,0,0,0,,{\kf38}I{\kf33} see{\kf19} a{\kf38} cold{\kf33} wind's{\kf38} blo{\kf47}wing{\kf146} through
-Dialogue: 0,0:00:11.59,0:00:15.43,DEFAULT,,0,0,0,,{\kf24}I{\kf24} see{\kf33} days{\kf15} nei{\kf19}ther{\kf29} fun{\kf24} nor{\kf141} free
-Dialogue: 0,0:00:17.82,0:00:22.50,DEFAULT,,0,0,0,,{\kf24}I{\kf38} see{\kf19} a{\kf33} fu{\kf29}ture{\kf38} caused{\kf57} by{\kf146} you
-Dialogue: 0,0:00:24.42,0:00:28.92,DEFAULT,,0,0,0,,{\kf29}I{\kf33} see{\kf29} a{\kf29} path{\kf33} not{\kf29} meant{\kf29} to{\kf19} be{\kf15}-e{\kf118}-e
-Dialogue: 0,0:00:30.23,0:00:35.71,DEFAULT,,0,0,0,,{\kf29}The{\kf38} fu{\kf33}ture{\kf33} should{\kf29} be{\kf66} filled{\kf66} with{\kf33} ma{\kf122}gic
-Dialogue: 0,0:00:36.50,0:00:42.26,DEFAULT,,0,0,0,,{\kf33}Dreams{\kf29} and{\kf33} wish{\kf104}es{\kf33} brought{\kf24} to{\kf24} li{\kf19}-i{\kf113}-ife
-Dialogue: 0,0:00:43.20,0:00:49.10,DEFAULT,,0,0,0,,{\kf24}But{\kf24} the{\kf38} days{\kf33} a{\kf33}head{\kf33} are{\kf71} dark{\kf61} and{\kf33} tra{\kf132}gic
-Dialogue: 0,0:00:50.27,0:00:56.13,DEFAULT,,0,0,0,,{\kf29}No{\kf61} time{\kf71} for{\kf47} ho{\kf29}-ope{\kf52} when{\kf75} all{\kf43} is{\kf47} strife
-Dialogue: 0,0:00:56.97,0:00:59.73,DEFAULT,,0,0,0,,{\kf33}What{\kf38}e{\kf24}ver{\kf33} might{\kf29} have{\kf75} been
-Dialogue: 0,0:01:00.25,0:01:03.29,DEFAULT,,0,0,0,,{\kf15}All{\kf15} the{\kf33} dreams{\kf33} that{\kf19} po{\kf15}-o{\kf29}nies{\kf94} share
-Dialogue: 0,0:01:03.76,0:01:06.48,DEFAULT,,0,0,0,,{\kf24}Be{\kf15}cause{\kf19} of{\kf29} you,{\kf29} Snow{\kf29}fall{\kf80} Frost
-Dialogue: 0,0:01:06.95,0:01:10.74,DEFAULT,,0,0,0,,{\kf15}Now{\kf15} the{\kf19} fu{\kf19}ture{\kf15} is{\kf15} a{\kf29} cold{\kf29} night{\kf75}ma{\kf94}-are
-Dialogue: 0,0:01:10.93,0:01:11.68,DEFAULT,,0,0,0,,{\kf24}Win{\kf19}di{\kf33}goes?
-Dialogue: 0,0:01:11.86,0:01:12.71,DEFAULT,,0,0,0,,{\kf15}They{\kf19} aren't{\kf24} re{\kf15}al!
-Dialogue: 0,0:01:12.90,0:01:14.53,DEFAULT,,0,0,0,,{\kf19}It's{\kf15} just{\kf5} a{\kf10} lit{\kf15}tle{\kf19} fil{\kf19}lies'{\kf19} sto{\kf19}ry
-Dialogue: 0,0:01:14.82,0:01:16.83,DEFAULT,,0,0,0,,{\kf15}They{\kf15} are{\kf24} all{\kf24} too{\kf24} re{\kf19}al,{\kf24} Snow{\kf29}fall
-Dialogue: 0,0:01:17.02,0:01:19.45,DEFAULT,,0,0,0,,{\kf10}And{\kf19} your{\kf19} ac{\kf29}tions{\kf10} will{\kf15} al{\kf19}low{\kf24} them{\kf15} to{\kf15} re{\kf29}turn
-Dialogue: 0,0:01:20.06,0:01:22.03,DEFAULT,,0,0,0,,{\kf15}The{\kf19} fu{\kf15}ture{\kf10} of{\kf15} E{\kf19}ques{\kf15}tri{\kf10}a{\kf19} shall{\kf15} be{\kf19} bathed
-Dialogue: 0,0:01:22.22,0:01:24.51,DEFAULT,,0,0,0,,{\kf10}In{\kf15} a{\kf29} blan{\kf19}ket{\kf15} of{\kf15} e{\kf19}ter{\kf24}nal{\kf52} snow
-Dialogue: 0,0:01:24.84,0:01:27.09,DEFAULT,,0,0,0,,{\kf33}No!{\kf15} I{\kf15} ne{\kf15}ver{\kf15} meant{\kf10} for{\kf10} this{\kf10} to{\kf19} hap{\kf15}pen
-Dialogue: 0,0:01:27.37,0:01:28.35,DEFAULT,,0,0,0,,{\kf10}I{\kf10} didn't{\kf15} un{\kf19}der{\kf38}stand!
-Dialogue: 0,0:01:28.87,0:01:31.40,DEFAULT,,0,0,0,,{\kf10}I{\kf10} did{\kf10}n't{\kf19} see{\kf15} how{\kf24} im{\kf19}por{\kf15}tant{\kf29} Hearth's{\kf15} War{\kf10}ming{\kf19} Eve{\kf24} was
-Dialogue: 0,0:01:32.00,0:01:34.67,DEFAULT,,0,0,0,,{\kf29}Please{\kf19} spi{\kf19}rit,{\kf15} I{\kf15} have{\kf19}n't{\kf19} cast{\kf15} the{\kf24} spell{\kf29} yet
-Dialogue: 0,0:01:35.14,0:01:36.31,DEFAULT,,0,0,0,,{\kf15}Is{\kf15} there{\kf19} still{\kf57} time?
-Dialogue: 0,0:01:36.64,0:01:37.62,DEFAULT,,0,0,0,,{\kf15}I'm{\kf38} sor{\kf38}ry!
+Dialogue: 0,0:00:04.38,0:00:09.16,DEFAULT,,0,0,0,,{\r}{\kf46}I{\kf40} see{\kf23} a{\kf46} cold{\kf40} wind's{\kf46} blo{\kf58}wing{\kf179} through
+Dialogue: 0,0:00:11.59,0:00:15.43,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf30} see{\kf41} days{\kf18} nei{\kf24}ther{\kf35} fun{\kf30} nor{\kf176} free
+Dialogue: 0,0:00:17.82,0:00:22.51,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf46} see{\kf23} a{\kf40} fu{\kf35}ture{\kf46} caused{\kf69} by{\kf180} you
+Dialogue: 0,0:00:24.43,0:00:28.92,DEFAULT,,0,0,0,,{\r}{\kf36}I{\kf41} see{\kf36} a{\kf36} path{\kf41} not{\kf36} meant{\kf36} to{\kf24} be{\kf18}-e{\kf146}-e
+Dialogue: 0,0:00:30.23,0:00:35.71,DEFAULT,,0,0,0,,{\r}{\kf35}The{\kf46} fu{\kf40}ture{\kf40} should{\kf35} be{\kf81} filled{\kf81} with{\kf40} ma{\kf150}gic
+Dialogue: 0,0:00:36.51,0:00:42.27,DEFAULT,,0,0,0,,{\r}{\kf46}Dreams{\kf40} and{\kf46} wish{\kf146}es{\kf46} brought{\kf33} to{\kf33} li{\kf26}-i{\kf160}-ife
+Dialogue: 0,0:00:43.21,0:00:49.11,DEFAULT,,0,0,0,,{\r}{\kf29}But{\kf29} the{\kf46} days{\kf40} a{\kf40}head{\kf40} are{\kf87} dark{\kf75} and{\kf40} tra{\kf164}gic
+Dialogue: 0,0:00:50.28,0:00:56.13,DEFAULT,,0,0,0,,{\r}{\kf37}No{\kf79} time{\kf91} for{\kf61} ho{\kf37}-ope{\kf67} when{\kf98} all{\kf55} is{\kf60} strife
+Dialogue: 0,0:00:56.98,0:00:59.74,DEFAULT,,0,0,0,,{\r}{\kf39}What{\kf45}e{\kf28}ver{\kf39} might{\kf34} have{\kf91} been
+Dialogue: 0,0:01:00.25,0:01:03.30,DEFAULT,,0,0,0,,{\r}{\kf17}All{\kf17} the{\kf40} dreams{\kf40} that{\kf23} po{\kf17}-o{\kf34}nies{\kf116} share
+Dialogue: 0,0:01:03.77,0:01:06.48,DEFAULT,,0,0,0,,{\r}{\kf29}Be{\kf17}cause{\kf23} of{\kf35} you,{\kf35} Snow{\kf35}fall{\kf98} Frost
+Dialogue: 0,0:01:06.95,0:01:10.75,DEFAULT,,0,0,0,,{\r}{\kf17}Now{\kf17} the{\kf22} fu{\kf22}ture{\kf17} is{\kf17} a{\kf33} cold{\kf33} night{\kf89}ma{\kf112}-are
+Dialogue: 0,0:01:10.93,0:01:11.68,DEFAULT,,0,0,0,,{\r}{\kf23}Win{\kf19}di{\kf33}goes?
+Dialogue: 0,0:01:11.87,0:01:12.71,DEFAULT,,0,0,0,,{\r}{\kf17}They{\kf22} aren't{\kf28} re{\kf17}al!
+Dialogue: 0,0:01:12.90,0:01:14.54,DEFAULT,,0,0,0,,{\r}{\kf23}It's{\kf17} just{\kf10} a{\kf11} lit{\kf17}tle{\kf23} fil{\kf23}lies'{\kf23} sto{\kf17}ry
+Dialogue: 0,0:01:14.82,0:01:16.83,DEFAULT,,0,0,0,,{\r}{\kf17}They{\kf17} are{\kf28} all{\kf28} too{\kf28} re{\kf22}al,{\kf28} Snow{\kf33}fall
+Dialogue: 0,0:01:17.02,0:01:19.46,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf23} your{\kf23} ac{\kf35}tions{\kf12} will{\kf17} al{\kf23}low{\kf29} them{\kf17} to{\kf17} re{\kf36}turn
+Dialogue: 0,0:01:20.07,0:01:22.03,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf23} fu{\kf17}ture{\kf11} of{\kf17} E{\kf23}ques{\kf17}tri{\kf11}a{\kf23} shall{\kf17} be{\kf21} bathed
+Dialogue: 0,0:01:22.22,0:01:24.52,DEFAULT,,0,0,0,,{\r}{\kf11}In{\kf17} a{\kf34} blan{\kf22}ket{\kf17} of{\kf17} e{\kf22}ter{\kf28}nal{\kf61} snow
+Dialogue: 0,0:01:24.84,0:01:27.09,DEFAULT,,0,0,0,,{\r}{\kf49}No!{\kf21} I{\kf21} ne{\kf21}ver{\kf21} meant{\kf14} for{\kf14} this{\kf14} to{\kf28} hap{\kf22}pen
+Dialogue: 0,0:01:27.37,0:01:28.36,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf10} didn't{\kf15} un{\kf21}der{\kf42}stand!
+Dialogue: 0,0:01:28.87,0:01:31.40,DEFAULT,,0,0,0,,{\r}{\kf11}I{\kf11} did{\kf11}n't{\kf22} see{\kf17} how{\kf28} im{\kf22}por{\kf17}tant{\kf34} Hearth's{\kf17} War{\kf11}ming{\kf22} Eve{\kf30} was
+Dialogue: 0,0:01:32.01,0:01:34.68,DEFAULT,,0,0,0,,{\r}{\kf38}Please{\kf25} spi{\kf25}rit,{\kf19} I{\kf19} have{\kf25}n't{\kf25} cast{\kf19} the{\kf32} spell{\kf40} yet
+Dialogue: 0,0:01:35.15,0:01:36.32,DEFAULT,,0,0,0,,{\r}{\kf16}Is{\kf16} there{\kf21} still{\kf64} time?
+Dialogue: 0,0:01:36.65,0:01:37.63,DEFAULT,,0,0,0,,{\r}{\kf15}I'm{\kf41} sor{\kf42}ry!

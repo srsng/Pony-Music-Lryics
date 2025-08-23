@@ -1,57 +1,64 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Hard Knocks
+Artist: Griffinilla, Alex Cole ft. Cats Milly
+Original Timing: mylittlekaraoke.com by StarStep, Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.35,0:00:05.15,DEFAULT,,0,0,0,,{\kf31}I{\kf22} work{\kf12} the{\kf50} hard{\kf24}est{\kf31} when{\kf15} the{\kf47} sun{\kf40} i{\kf19}s{\kf38} set{\kf29}ting
-Dialogue: 0,0:00:06.37,0:00:11.24,DEFAULT,,0,0,0,,{\kf31} I{\kf24} play{\kf8} the{\kf61} num{\kf24}bers{\kf22} but{\kf22} I{\kf36} keep{\kf75} for{\kf38}get{\kf38}ting
-Dialogue: 0,0:00:12.35,0:00:15.14,DEFAULT,,0,0,0,,{\kf29} My{\kf22} bro{\kf22}ken{\kf36} heart,{\kf22} my{\kf17} bea{\kf17}ting{\kf31} chest
-Dialogue: 0,0:00:15.42,0:00:18.23,DEFAULT,,0,0,0,,{\kf19} My{\kf22} black{\kf10}ened{\kf52} scars,{\kf19} my{\kf24} ba{\kf19}ted{\kf40} breath
-Dialogue: 0,0:00:18.37,0:00:21.16,DEFAULT,,0,0,0,,{\kf31} My{\kf22} call{\kf19}us{\kf45} lungs,{\kf29} my{\kf22} em{\kf22}pa{\kf40}thy
-Dialogue: 0,0:00:21.35,0:00:24.46,DEFAULT,,0,0,0,,{\kf29} My{\kf22} ti{\kf22}red{\kf43} eyes,{\kf31} my{\kf31} hopes{\kf26} and{\kf45} dreams
-Dialogue: 0,0:00:24.74,0:00:27.18,DEFAULT,,0,0,0,,{\kf10} I{\kf10} don't{\kf8} want{\kf12} to{\kf24} work{\kf17} my{\kf36}self{\kf10} to{\kf38} death
-Dialogue: 0,0:00:27.74,0:00:30.65,DEFAULT,,0,0,0,,{\kf10} I{\kf12} don't{\kf12} want{\kf8} to{\kf19} break{\kf26} your{\kf24} con{\kf31}cen{\kf36}tra{\kf45}tion
-Dialogue: 0,0:00:30.81,0:00:33.18,DEFAULT,,0,0,0,,{\kf10} Can{\kf15} I{\kf19} e{\kf10}ver{\kf22} learn{\kf22} to{\kf26} love{\kf10} my{\kf38}self
-Dialogue: 0,0:00:33.72,0:00:36.28,DEFAULT,,0,0,0,,{\kf19} Will{\kf12} I{\kf12} e{\kf8}ver{\kf15} cure{\kf22} my{\kf36} lone{\kf26}li{\kf45}ness
-Dialogue: 0,0:00:36.77,0:00:39.18,DEFAULT,,0,0,0,,{\kf17} I{\kf10} don't{\kf17} wan{\kf8}na{\kf22} heed{\kf26} my{\kf38} own{\kf15} ad{\kf38}vice
-Dialogue: 0,0:00:39.74,0:00:42.67,DEFAULT,,0,0,0,,{\kf17} I{\kf15} don't{\kf17} wan{\kf8}na{\kf22} feed{\kf36} my{\kf26} des{\kf31}per{\kf26}a{\kf43}tion
-Dialogue: 0,0:00:42.79,0:00:45.18,DEFAULT,,0,0,0,,{\kf12} E{\kf12}ven{\kf17} when{\kf8} the{\kf29} dir{\kf26}ges{\kf36} start{\kf10} to{\kf40} play
-Dialogue: 0,0:00:45.72,0:00:47.95,DEFAULT,,0,0,0,,{\kf17} May{\kf15}be{\kf15} I'll{\kf17} en{\kf33}joy{\kf10} the{\kf36} si{\kf38}lence
-Dialogue: 0,0:00:48.35,0:00:53.17,DEFAULT,,0,0,0,,{\kf19} A{\kf36} mar{\kf8}ble{\kf40} coun{\kf26}ter{\kf24} and{\kf17} a{\kf45} plas{\kf61}tic{\kf33} ghet{\kf36}to
-Dialogue: 0,0:00:54.35,0:00:59.27,DEFAULT,,0,0,0,,{\kf22} A{\kf33} can{\kf12}dy{\kf40} cor{\kf33}set{\kf26} and{\kf29} a{\kf57} pink{\kf54} sti{\kf45}let{\kf50}to
-Dialogue: 0,0:01:00.32,0:01:03.21,DEFAULT,,0,0,0,,{\kf15} My{\kf22} tan{\kf17}gled{\kf31} mane,{\kf19} my{\kf24} tat{\kf15}tered{\kf45} seams
-Dialogue: 0,0:01:03.35,0:01:06.21,DEFAULT,,0,0,0,,{\kf19} My{\kf22} ti{\kf15}ny{\kf40} thoughts,{\kf24} my{\kf26} re{\kf36}ver{\kf36}ies
-Dialogue: 0,0:01:06.35,0:01:09.21,DEFAULT,,0,0,0,,{\kf29} My{\kf15} wea{\kf24}thered{\kf47} veins,{\kf29} my{\kf24} hol{\kf22}low{\kf43} frame
-Dialogue: 0,0:01:09.35,0:01:12.35,DEFAULT,,0,0,0,,{\kf24} My{\kf15} hor{\kf22}o{\kf36}scope,{\kf22} my{\kf33} twis{\kf22}ted{\kf38} fate
-Dialogue: 0,0:01:12.72,0:01:15.16,DEFAULT,,0,0,0,,{\kf10} I{\kf10} don't{\kf8} want{\kf12} to{\kf24} work{\kf17} my{\kf36}self{\kf10} to{\kf38} death
-Dialogue: 0,0:01:15.72,0:01:18.63,DEFAULT,,0,0,0,,{\kf12} I{\kf10} don't{\kf12} want{\kf8} to{\kf19} break{\kf26} your{\kf24} con{\kf26}cen{\kf29}tra{\kf36}tion
-Dialogue: 0,0:01:18.81,0:01:21.16,DEFAULT,,0,0,0,,{\kf8} Can{\kf15} I{\kf19} e{\kf10}ver{\kf22} learn{\kf22} to{\kf26} love{\kf12} my{\kf33}self
-Dialogue: 0,0:01:21.70,0:01:24.28,DEFAULT,,0,0,0,,{\kf19} Will{\kf12} I{\kf17} e{\kf8}ver{\kf15} cure{\kf22} my{\kf36} lone{\kf26}li{\kf47}ness
-Dialogue: 0,0:01:24.74,0:01:27.16,DEFAULT,,0,0,0,,{\kf17} I{\kf10} don't{\kf17} wan{\kf8}na{\kf24} heed{\kf26} my{\kf38} own{\kf15} ad{\kf45}vice
-Dialogue: 0,0:01:27.72,0:01:30.65,DEFAULT,,0,0,0,,{\kf17} I{\kf15} don't{\kf17} wan{\kf8}na{\kf22} feed{\kf36} my{\kf26} des{\kf31}per{\kf26}a{\kf40}tion
-Dialogue: 0,0:01:30.77,0:01:33.16,DEFAULT,,0,0,0,,{\kf12} E{\kf12}ven{\kf17} when{\kf8} the{\kf29} dir{\kf22}ges{\kf31} start{\kf10} to{\kf40} play
-Dialogue: 0,0:01:33.70,0:01:35.92,DEFAULT,,0,0,0,,{\kf17} May{\kf15}be{\kf15} I'll{\kf17} en{\kf33}joy{\kf10} the{\kf36} si{\kf33}lence
-Dialogue: 0,0:01:36.91,0:01:41.57,DEFAULT,,0,0,0,,{\kf29} Hard{\kf47} Knocks{\kf24} felt{\kf24} worn{\kf12} as{\kf10} the{\kf19} 9{\kf8} to{\kf33} 5{\kf24} tea{\kf38} parties{\kf31} rolled{\kf38} on
-Dialogue: 0,0:01:42.63,0:01:47.62,DEFAULT,,0,0,0,,{\kf68} dreamlike,{\kf50} everything{\kf19} tinted{\kf15} by{\kf15} the{\kf31} soft{\kf36} salmon{\kf61} horizon
-Dialogue: 0,0:01:48.89,0:01:53.43,DEFAULT,,0,0,0,,{\kf43} guided{\kf17} by{\kf36} giant{\kf40} little{\kf68} invisible{\kf29} hands{\kf10} of{\kf50} fate
-Dialogue: 0,0:01:55.19,0:01:59.22,DEFAULT,,0,0,0,,{\kf19} she{\kf45} prayed{\kf17} some{\kf33} far{\kf47} dreamer{\kf19} would{\kf19} take{\kf17} her{\kf40} away
-Dialogue: 0,0:02:00.32,0:02:05.10,DEFAULT,,0,0,0,,{\kf26} And{\kf12} when{\kf10} the{\kf29} doc{\kf8}tor{\kf31} writes{\kf24} his{\kf45} last{\kf40} pre{\kf33}scrip{\kf40}tion
-Dialogue: 0,0:02:06.32,0:02:11.22,DEFAULT,,0,0,0,,{\kf17} He'll{\kf36} shake{\kf15} his{\kf54} head{\kf15} to{\kf31} stave{\kf17} my{\kf50} sad{\kf78} ad{\kf36}dic{\kf38}tion
-Dialogue: 0,0:02:12.32,0:02:15.02,DEFAULT,,0,0,0,,{\kf17} My{\kf22} swol{\kf15}len{\kf36} neck,{\kf19} my{\kf19} se{\kf15}cond{\kf29} skin
-Dialogue: 0,0:02:15.30,0:02:18.11,DEFAULT,,0,0,0,,{\kf26} My{\kf24} bloo{\kf10}died{\kf40} socks,{\kf22} my{\kf17} crook{\kf12}ed{\kf29} chin
-Dialogue: 0,0:02:18.35,0:02:21.21,DEFAULT,,0,0,0,,{\kf26} My{\kf22} woo{\kf19}den{\kf40} teeth,{\kf22} my{\kf26} splin{\kf15}tered{\kf43} spine
-Dialogue: 0,0:02:21.30,0:02:24.42,DEFAULT,,0,0,0,,{\kf26} My{\kf36} gauze,{\kf22} my{\kf22} pain,{\kf22} my{\kf29} god,{\kf19} my{\kf40} name
-Dialogue: 0,0:02:24.72,0:02:27.16,DEFAULT,,0,0,0,,{\kf10} I{\kf10} don't{\kf10} want{\kf10} to{\kf24} work{\kf17} my{\kf36}self{\kf10} to{\kf38} death
-Dialogue: 0,0:02:27.72,0:02:30.63,DEFAULT,,0,0,0,,{\kf12} I{\kf10} don't{\kf12} want{\kf8} to{\kf19} break{\kf26} your{\kf24} con{\kf31}cen{\kf36}tra{\kf38}tion
-Dialogue: 0,0:02:30.79,0:02:33.16,DEFAULT,,0,0,0,,{\kf10} Can{\kf15} I{\kf19} e{\kf10}ver{\kf22} learn{\kf22} to{\kf26} love{\kf10} my{\kf38}self
-Dialogue: 0,0:02:33.70,0:02:36.25,DEFAULT,,0,0,0,,{\kf19} Will{\kf12} I{\kf12} e{\kf8}ver{\kf15} cure{\kf22} my{\kf36} lone{\kf26}li{\kf45}ness
-Dialogue: 0,0:02:36.70,0:02:39.28,DEFAULT,,0,0,0,,{\kf12} I{\kf12} don't{\kf17} wan{\kf8}na{\kf29} live{\kf22} my{\kf22} life{\kf24} a{\kf50}lone
-Dialogue: 0,0:02:39.67,0:02:42.56,DEFAULT,,0,0,0,,{\kf8} I{\kf10} don't{\kf19} wan{\kf8}na{\kf24} plead{\kf17} with{\kf38} my{\kf15} own{\kf36} sha{\kf24}dow
-Dialogue: 0,0:02:42.70,0:02:45.28,DEFAULT,,0,0,0,,{\kf17} Ba{\kf10}by{\kf15} when{\kf10} the{\kf19} hard{\kf22} knock{\kf24} life{\kf15} is{\kf43} won
-Dialogue: 0,0:02:45.70,0:02:48.91,DEFAULT,,0,0,0,,{\kf17} Do{\kf22} you{\kf38} think{\kf22} I'll{\kf24} stop{\kf31} for{\kf26}get{\kf59}ting
+Dialogue: 0,0:00:00.35,0:00:05.16,DEFAULT,,0,0,0,,{\r}{\kf42}I{\kf29} work{\kf16} the{\kf67} hard{\kf32}est{\kf42} when{\kf19} the{\kf64} sun{\kf54} i{\kf26}s{\kf51} set{\kf38}ting
+Dialogue: 0,0:00:06.37,0:00:11.25,DEFAULT,,0,0,0,,{\r}{\kf40} I{\kf31} play{\kf10} the{\kf80} num{\kf31}bers{\kf28} but{\kf28} I{\kf46} keep{\kf98} for{\kf49}get{\kf46}ting
+Dialogue: 0,0:00:12.35,0:00:15.14,DEFAULT,,0,0,0,,{\r}{\kf41} My{\kf31} bro{\kf31}ken{\kf52} heart,{\kf31} my{\kf24} bea{\kf24}ting{\kf45} chest
+Dialogue: 0,0:00:15.42,0:00:18.23,DEFAULT,,0,0,0,,{\r}{\kf26} My{\kf29} black{\kf13}ened{\kf72} scars,{\kf26} my{\kf33} ba{\kf26}ted{\kf56} breath
+Dialogue: 0,0:00:18.37,0:00:21.16,DEFAULT,,0,0,0,,{\r}{\kf38} My{\kf26} call{\kf23}us{\kf55} lungs,{\kf35} my{\kf26} em{\kf26}pa{\kf50}thy
+Dialogue: 0,0:00:21.35,0:00:24.47,DEFAULT,,0,0,0,,{\r}{\kf36} My{\kf27} ti{\kf27}red{\kf54} eyes,{\kf39} my{\kf39} hopes{\kf33} and{\kf57} dreams
+Dialogue: 0,0:00:24.75,0:00:27.19,DEFAULT,,0,0,0,,{\r}{\kf14} I{\kf14} don't{\kf11} want{\kf18} to{\kf36} work{\kf25} my{\kf54}self{\kf14} to{\kf58} death
+Dialogue: 0,0:00:27.75,0:00:30.66,DEFAULT,,0,0,0,,{\r}{\kf13} I{\kf16} don't{\kf16} want{\kf10} to{\kf25} break{\kf34} your{\kf31} con{\kf41}cen{\kf47}tra{\kf58}tion
+Dialogue: 0,0:00:30.82,0:00:33.19,DEFAULT,,0,0,0,,{\r}{\kf13} Can{\kf20} I{\kf27} e{\kf13}ver{\kf30} learn{\kf30} to{\kf37} love{\kf13} my{\kf54}self
+Dialogue: 0,0:00:33.73,0:00:36.28,DEFAULT,,0,0,0,,{\r}{\kf25} Will{\kf16} I{\kf16} e{\kf10}ver{\kf19} cure{\kf28} my{\kf47} lone{\kf35}li{\kf59}ness
+Dialogue: 0,0:00:36.77,0:00:39.19,DEFAULT,,0,0,0,,{\r}{\kf21} I{\kf12} don't{\kf21} wan{\kf10}na{\kf27} heed{\kf34} my{\kf49} own{\kf18} ad{\kf49}vice
+Dialogue: 0,0:00:39.75,0:00:42.68,DEFAULT,,0,0,0,,{\r}{\kf21} I{\kf18} don't{\kf21} wan{\kf10}na{\kf26} feed{\kf44} my{\kf32} des{\kf38}per{\kf32}a{\kf51}tion
+Dialogue: 0,0:00:42.80,0:00:45.19,DEFAULT,,0,0,0,,{\r}{\kf15} E{\kf15}ven{\kf21} when{\kf10} the{\kf36} dir{\kf33}ges{\kf45} start{\kf12} to{\kf52} play
+Dialogue: 0,0:00:45.73,0:00:47.95,DEFAULT,,0,0,0,,{\r}{\kf21} May{\kf18}be{\kf18} I'll{\kf21} en{\kf42}joy{\kf12} the{\kf45} si{\kf46}lence
+Dialogue: 0,0:00:48.35,0:00:53.18,DEFAULT,,0,0,0,,{\r}{\kf27} A{\kf50} mar{\kf10}ble{\kf57} coun{\kf37}ter{\kf33} and{\kf23} a{\kf63} plas{\kf87}tic{\kf47} ghet{\kf49}to
+Dialogue: 0,0:00:54.35,0:00:59.27,DEFAULT,,0,0,0,,{\r}{\kf26} A{\kf41} can{\kf15}dy{\kf49} cor{\kf41}set{\kf32} and{\kf35} a{\kf70} pink{\kf67} sti{\kf55}let{\kf61}to
+Dialogue: 0,0:01:00.33,0:01:03.21,DEFAULT,,0,0,0,,{\r}{\kf22} My{\kf33} tan{\kf26}gled{\kf48} mane,{\kf30} my{\kf37} tat{\kf22}tered{\kf70} seams
+Dialogue: 0,0:01:03.35,0:01:06.21,DEFAULT,,0,0,0,,{\r}{\kf25} My{\kf28} ti{\kf19}ny{\kf53} thoughts,{\kf31} my{\kf35} re{\kf47}ver{\kf48}ies
+Dialogue: 0,0:01:06.35,0:01:09.21,DEFAULT,,0,0,0,,{\r}{\kf35} My{\kf18} wea{\kf29}thered{\kf59} veins,{\kf35} my{\kf29} hol{\kf27}low{\kf54} frame
+Dialogue: 0,0:01:09.35,0:01:12.35,DEFAULT,,0,0,0,,{\r}{\kf34} My{\kf20} hor{\kf31}o{\kf51}scope,{\kf31} my{\kf48} twis{\kf31}ted{\kf54} fate
+Dialogue: 0,0:01:12.73,0:01:15.16,DEFAULT,,0,0,0,,{\r}{\kf14} I{\kf14} don't{\kf11} want{\kf18} to{\kf36} work{\kf25} my{\kf54}self{\kf14} to{\kf58} death
+Dialogue: 0,0:01:15.73,0:01:18.63,DEFAULT,,0,0,0,,{\r}{\kf17} I{\kf14} don't{\kf17} want{\kf10} to{\kf28} break{\kf38} your{\kf35} con{\kf38}cen{\kf42}tra{\kf52}tion
+Dialogue: 0,0:01:18.82,0:01:21.16,DEFAULT,,0,0,0,,{\r}{\kf10} Can{\kf20} I{\kf27} e{\kf14}ver{\kf31} learn{\kf31} to{\kf37} love{\kf17} my{\kf47}self
+Dialogue: 0,0:01:21.70,0:01:24.28,DEFAULT,,0,0,0,,{\r}{\kf25} Will{\kf15} I{\kf22} e{\kf10}ver{\kf18} cure{\kf28} my{\kf46} lone{\kf34}li{\kf60}ness
+Dialogue: 0,0:01:24.75,0:01:27.16,DEFAULT,,0,0,0,,{\r}{\kf20} I{\kf12} don't{\kf20} wan{\kf10}na{\kf29} heed{\kf32} my{\kf46} own{\kf17} ad{\kf55}vice
+Dialogue: 0,0:01:27.73,0:01:30.66,DEFAULT,,0,0,0,,{\r}{\kf21} I{\kf18} don't{\kf21} wan{\kf10}na{\kf27} feed{\kf44} my{\kf33} des{\kf38}per{\kf33}a{\kf48}tion
+Dialogue: 0,0:01:30.77,0:01:33.16,DEFAULT,,0,0,0,,{\r}{\kf16} E{\kf16}ven{\kf22} when{\kf10} the{\kf38} dir{\kf29}ges{\kf41} start{\kf13} to{\kf54} play
+Dialogue: 0,0:01:33.70,0:01:35.93,DEFAULT,,0,0,0,,{\r}{\kf21} May{\kf18}be{\kf18} I'll{\kf21} en{\kf43}joy{\kf12} the{\kf46} si{\kf44}lence
+Dialogue: 0,0:01:36.91,0:01:41.58,DEFAULT,,0,0,0,,{\r}{\kf40} Hard{\kf66} Knocks{\kf33} felt{\kf33} worn{\kf17} as{\kf13} the{\kf26} 9{\kf10} to{\kf46} 5{\kf33} tea{\kf53} parties{\kf43} rolled{\kf53} on
+Dialogue: 0,0:01:42.63,0:01:47.62,DEFAULT,,0,0,0,,{\r}{\kf117} dreamlike,{\kf85} everything{\kf32} tinted{\kf24} by{\kf24} the{\kf52} soft{\kf60} salmon{\kf105} horizon
+Dialogue: 0,0:01:48.89,0:01:53.44,DEFAULT,,0,0,0,,{\r}{\kf67} guided{\kf26} by{\kf55} giant{\kf63} little{\kf107} invisible{\kf44} hands{\kf15} of{\kf78} fate
+Dialogue: 0,0:01:55.19,0:01:59.23,DEFAULT,,0,0,0,,{\r}{\kf30} she{\kf71} prayed{\kf26} some{\kf52} far{\kf75} dreamer{\kf30} would{\kf30} take{\kf26} her{\kf63} away
+Dialogue: 0,0:02:00.33,0:02:05.11,DEFAULT,,0,0,0,,{\r}{\kf42} And{\kf19} when{\kf15} the{\kf46} doc{\kf11}tor{\kf50} writes{\kf38} his{\kf73} last{\kf65} pre{\kf54}scrip{\kf65}tion
+Dialogue: 0,0:02:06.33,0:02:11.23,DEFAULT,,0,0,0,,{\r}{\kf21} He'll{\kf45} shake{\kf18} his{\kf70} head{\kf18} to{\kf39} stave{\kf21} my{\kf64} sad{\kf100} ad{\kf45}dic{\kf49}tion
+Dialogue: 0,0:02:12.33,0:02:15.02,DEFAULT,,0,0,0,,{\r}{\kf27} My{\kf34} swol{\kf23}len{\kf57} neck,{\kf30} my{\kf30} se{\kf23}cond{\kf46} skin
+Dialogue: 0,0:02:15.30,0:02:18.12,DEFAULT,,0,0,0,,{\r}{\kf41} My{\kf37} bloo{\kf15}died{\kf64} socks,{\kf34} my{\kf26} crook{\kf19}ed{\kf45} chin
+Dialogue: 0,0:02:18.35,0:02:21.21,DEFAULT,,0,0,0,,{\r}{\kf35} My{\kf29} woo{\kf26}den{\kf55} teeth,{\kf29} my{\kf35} splin{\kf19}tered{\kf58} spine
+Dialogue: 0,0:02:21.30,0:02:24.42,DEFAULT,,0,0,0,,{\r}{\kf38} My{\kf52} gauze,{\kf31} my{\kf31} pain,{\kf31} my{\kf42} god,{\kf28} my{\kf59} name
+Dialogue: 0,0:02:24.73,0:02:27.16,DEFAULT,,0,0,0,,{\r}{\kf14} I{\kf14} don't{\kf14} want{\kf14} to{\kf36} work{\kf25} my{\kf54}self{\kf14} to{\kf59} death
+Dialogue: 0,0:02:27.73,0:02:30.63,DEFAULT,,0,0,0,,{\r}{\kf16} I{\kf13} don't{\kf16} want{\kf10} to{\kf26} break{\kf36} your{\kf32} con{\kf42}cen{\kf48}tra{\kf52}tion
+Dialogue: 0,0:02:30.80,0:02:33.16,DEFAULT,,0,0,0,,{\r}{\kf13} Can{\kf20} I{\kf27} e{\kf13}ver{\kf30} learn{\kf30} to{\kf37} love{\kf13} my{\kf54}self
+Dialogue: 0,0:02:33.70,0:02:36.26,DEFAULT,,0,0,0,,{\r}{\kf25} Will{\kf16} I{\kf16} e{\kf10}ver{\kf19} cure{\kf28} my{\kf47} lone{\kf35}li{\kf59}ness
+Dialogue: 0,0:02:36.70,0:02:39.28,DEFAULT,,0,0,0,,{\r}{\kf16} I{\kf16} don't{\kf22} wan{\kf10}na{\kf38} live{\kf29} my{\kf29} life{\kf32} a{\kf66}lone
+Dialogue: 0,0:02:39.68,0:02:42.56,DEFAULT,,0,0,0,,{\r}{\kf11} I{\kf14} don't{\kf28} wan{\kf11}na{\kf35} plead{\kf25} with{\kf56} my{\kf21} own{\kf53} sha{\kf34}dow
+Dialogue: 0,0:02:42.70,0:02:45.28,DEFAULT,,0,0,0,,{\r}{\kf25} Ba{\kf14}by{\kf22} when{\kf14} the{\kf29} hard{\kf32} knock{\kf36} life{\kf22} is{\kf64} won
+Dialogue: 0,0:02:45.70,0:02:48.91,DEFAULT,,0,0,0,,{\r}{\kf22} Do{\kf29} you{\kf51} think{\kf29} I'll{\kf32} stop{\kf42} for{\kf35}get{\kf81}ting

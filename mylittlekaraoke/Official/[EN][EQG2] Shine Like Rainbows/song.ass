@@ -1,58 +1,65 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Shine Like Rainbows
+Artist: Equestria Girls - Rainbow Rocks
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.92,0:00:11.57,DEFAULT,,0,0,0,,{\kf116}Once{\kf24} 'pon{\kf7} a{\kf65} time
-Dialogue: 0,0:00:12.42,0:00:13.99,DEFAULT,,0,0,0,,{\kf14}You{\kf28} came{\kf18} in{\kf21}to{\kf18} my{\kf24} world
-Dialogue: 0,0:00:14.06,0:00:15.83,DEFAULT,,0,0,0,,{\kf18}And{\kf21} made{\kf11} the{\kf35} stars{\kf14} a{\kf55}lign
-Dialogue: 0,0:00:17.57,0:00:20.70,DEFAULT,,0,0,0,,{\kf96}Now,{\kf11} I{\kf11} can{\kf14} see{\kf11} the{\kf48} si{\kf55}-igns
-Dialogue: 0,0:00:21.18,0:00:22.09,DEFAULT,,0,0,0,,{\kf14}You{\kf24} pick{\kf18} me{\kf21} up
-Dialogue: 0,0:00:22.23,0:00:23.25,DEFAULT,,0,0,0,,{\kf18}When{\kf21} I{\kf21} get{\kf24} down
-Dialogue: 0,0:00:23.32,0:00:24.78,DEFAULT,,0,0,0,,{\kf21}So{\kf21} I{\kf14} can{\kf72} shine
-Dialogue: 0,0:00:25.26,0:00:29.25,DEFAULT,,0,0,0,,{\kf38}Shine{\kf31} like{\kf24} ra{\kf21}-in{\kf106}bo{\kf28}-o{\kf21}-o{\kf96}-ows
-Dialogue: 0,0:00:29.59,0:00:33.50,DEFAULT,,0,0,0,,{\kf38}Shine{\kf31} like{\kf24} ra{\kf21}-in{\kf106}bo{\kf28}-o{\kf21}-o{\kf89}-ows
-Dialogue: 0,0:00:33.94,0:00:37.93,DEFAULT,,0,0,0,,{\kf38}Shine{\kf31} like{\kf24} ra{\kf21}-in{\kf106}bo{\kf28}-o{\kf21}-o{\kf96}-ows
-Dialogue: 0,0:00:38.30,0:00:42.70,DEFAULT,,0,0,0,,{\kf38}Shine{\kf31} like{\kf24} ra{\kf21}-in{\kf106}bo{\kf28}-o{\kf21}-o{\kf137}-ows
-Dialogue: 0,0:00:43.82,0:00:46.88,DEFAULT,,0,0,0,,{\kf79}Friends,{\kf21} you{\kf18} are{\kf14} in{\kf21} my{\kf11} li{\kf89}-ife
-Dialogue: 0,0:00:47.29,0:00:48.89,DEFAULT,,0,0,0,,{\kf18}And{\kf21} you{\kf21} can{\kf31} count{\kf18} on{\kf28} me
-Dialogue: 0,0:00:48.99,0:00:51.21,DEFAULT,,0,0,0,,{\kf14}To{\kf18} be{\kf18} there{\kf14} by{\kf18}-y{\kf11} your{\kf96} side
-Dialogue: 0,0:00:52.54,0:00:55.63,DEFAULT,,0,0,0,,{\kf48}And{\kf21} when{\kf14} the{\kf14} mu{\kf21}sic{\kf28} comes{\kf14} a{\kf24}li{\kf89}-ive
-Dialogue: 0,0:00:56.04,0:00:57.06,DEFAULT,,0,0,0,,{\kf11}You{\kf21} sing{\kf28} our{\kf21} songs
-Dialogue: 0,0:00:57.13,0:00:58.02,DEFAULT,,0,0,0,,{\kf18}To{\kf21} lift{\kf21} us{\kf18} up
-Dialogue: 0,0:00:58.09,0:00:59.86,DEFAULT,,0,0,0,,{\kf28}So{\kf21} we{\kf18} can{\kf96} shine
-Dialogue: 0,0:01:00.40,0:01:01.36,DEFAULT,,0,0,0,,{\kf21}And{\kf14} the{\kf48} sound
-Dialogue: 0,0:01:01.53,0:01:02.48,DEFAULT,,0,0,0,,{\kf21}That{\kf14} we{\kf48} hear
-Dialogue: 0,0:01:02.65,0:01:03.81,DEFAULT,,0,0,0,,{\kf21}In{\kf14} our{\kf65} hearts
-Dialogue: 0,0:01:04.22,0:01:09.05,DEFAULT,,0,0,0,,{\kf28}Makes{\kf21} a{\kf28} cre{\kf45}scen{\kf45}do{\kf52}-o{\kf41}-o{\kf72}-o{\kf24}-o{\kf45}-o
-Dialogue: 0,0:01:09.19,0:01:10.14,DEFAULT,,0,0,0,,{\kf21}And{\kf14} the{\kf48} light
-Dialogue: 0,0:01:10.28,0:01:11.23,DEFAULT,,0,0,0,,{\kf21}That{\kf14} ig{\kf48}nites
-Dialogue: 0,0:01:11.37,0:01:12.52,DEFAULT,,0,0,0,,{\kf21}In{\kf14} the{\kf65} dark
-Dialogue: 0,0:01:12.97,0:01:17.22,DEFAULT,,0,0,0,,{\kf21}It{\kf31} makes{\kf31} us{\kf41} all{\kf58} glo{\kf52}-o{\kf48}-o{\kf92}-ow
-Dialogue: 0,0:01:17.39,0:01:21.55,DEFAULT,,0,0,0,,{\kf14}And{\kf38} shine{\kf31} like{\kf24} ra{\kf21}-in{\kf256}bows
-Dialogue: 0,0:01:21.75,0:01:25.91,DEFAULT,,0,0,0,,{\kf14}We{\kf38} shine{\kf31} like{\kf24} ra{\kf21}-in{\kf106}bo{\kf28}-o{\kf21}-o{\kf92}-ows
-Dialogue: 0,0:01:26.35,0:01:30.26,DEFAULT,,0,0,0,,{\kf38}Shine{\kf31} like{\kf24} ra{\kf21}-in{\kf252}bows
-Dialogue: 0,0:01:30.47,0:01:35.51,DEFAULT,,0,0,0,,{\kf14}We{\kf38} shine{\kf31} like{\kf24} ra{\kf21}-in{\kf106}bo{\kf28}-o{\kf21}-o{\kf181}-ows
-Dialogue: 0,0:01:36.97,0:01:39.19,DEFAULT,,0,0,0,,{\kf18}To{\kf21}get{\kf21}her{\kf11} we{\kf116} stand
-Dialogue: 0,0:01:39.76,0:01:45.31,DEFAULT,,0,0,0,,{\kf18}As{\kf14} the{\kf45} rain{\kf45} be{\kf38}gins{\kf41} to{\kf157} fa{\kf28}-a{\kf28}-a{\kf65}-all
-Dialogue: 0,0:01:45.76,0:01:48.34,DEFAULT,,0,0,0,,{\kf21}And{\kf24} hol{\kf21}din'{\kf14} our{\kf52} heads{\kf24} up{\kf48} high
-Dialogue: 0,0:01:48.55,0:01:52.60,DEFAULT,,0,0,0,,{\kf14}As{\kf11} the{\kf35} sun{\kf52} shines{\kf24} thro{\kf18}-ugh{\kf18} it{\kf21} a{\kf137}-all
-Dialogue: 0,0:01:52.81,0:01:53.83,DEFAULT,,0,0,0,,{\kf21}And{\kf14} the{\kf52} sound
-Dialogue: 0,0:01:53.90,0:01:54.92,DEFAULT,,0,0,0,,{\kf21}That{\kf14} we{\kf52} hear
-Dialogue: 0,0:01:55.02,0:01:56.14,DEFAULT,,0,0,0,,{\kf21}In{\kf14} our{\kf62} hearts
-Dialogue: 0,0:01:56.62,0:02:01.35,DEFAULT,,0,0,0,,{\kf21}Makes{\kf21} a{\kf28} cre{\kf45}scen{\kf48}do{\kf55}-o{\kf48}-o{\kf69}-o{\kf18}-o{\kf38}-o
-Dialogue: 0,0:02:01.59,0:02:02.54,DEFAULT,,0,0,0,,{\kf21}And{\kf14} the{\kf48} light
-Dialogue: 0,0:02:02.61,0:02:03.57,DEFAULT,,0,0,0,,{\kf21}That{\kf14} ig{\kf48}nites
-Dialogue: 0,0:02:03.70,0:02:04.83,DEFAULT,,0,0,0,,{\kf21}In{\kf14} the{\kf65} dark
-Dialogue: 0,0:02:05.30,0:02:09.42,DEFAULT,,0,0,0,,{\kf21}It{\kf35} makes{\kf28} us{\kf41} all{\kf55} glo{\kf55}-o{\kf48}-o{\kf86}-ow
-Dialogue: 0,0:02:09.66,0:02:13.88,DEFAULT,,0,0,0,,{\kf14}And{\kf38} shine{\kf31} like{\kf24} ra{\kf21}-in{\kf106}bo{\kf28}-o{\kf21}-o{\kf96}-ows
-Dialogue: 0,0:02:14.09,0:02:18.24,DEFAULT,,0,0,0,,{\kf14}We{\kf38} shine{\kf31} like{\kf24} ra{\kf21}-in{\kf106}bo{\kf28}-o{\kf21}-o{\kf96}-ows
-Dialogue: 0,0:02:18.68,0:02:22.63,DEFAULT,,0,0,0,,{\kf38}Shine{\kf31} like{\kf24} ra{\kf21}-in{\kf106}bo{\kf28}-o{\kf21}-o{\kf96}-ows
-Dialogue: 0,0:02:22.80,0:02:26.99,DEFAULT,,0,0,0,,{\kf14}We{\kf38} shine{\kf31} like{\kf24} ra{\kf21}-in{\kf106}bo{\kf28}-o{\kf21}-o{\kf96}-ows
-Dialogue: 0,0:02:27.40,0:02:31.49,DEFAULT,,0,0,0,,{\kf38}Shine{\kf31} like{\kf24} ra{\kf21}-in{\kf270}bows
+Dialogue: 0,0:00:08.92,0:00:11.58,DEFAULT,,0,0,0,,{\r}{\kf146}Once{\kf30} 'pon{\kf10} a{\kf80} time
+Dialogue: 0,0:00:12.43,0:00:14.00,DEFAULT,,0,0,0,,{\r}{\kf18}You{\kf36} came{\kf22} in{\kf27}to{\kf22} my{\kf32} world
+Dialogue: 0,0:00:14.06,0:00:15.83,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf24} made{\kf12} the{\kf40} stars{\kf16} a{\kf65}lign
+Dialogue: 0,0:00:17.57,0:00:20.70,DEFAULT,,0,0,0,,{\r}{\kf123}Now,{\kf13} I{\kf13} can{\kf18} see{\kf13} the{\kf62} si{\kf71}-igns
+Dialogue: 0,0:00:21.18,0:00:22.10,DEFAULT,,0,0,0,,{\r}{\kf17}You{\kf29} pick{\kf21} me{\kf25} up
+Dialogue: 0,0:00:22.24,0:00:23.26,DEFAULT,,0,0,0,,{\r}{\kf21}When{\kf26} I{\kf26} get{\kf29} down
+Dialogue: 0,0:00:23.33,0:00:24.79,DEFAULT,,0,0,0,,{\r}{\kf24}So{\kf24} I{\kf16} can{\kf82} shine
+Dialogue: 0,0:00:25.27,0:00:29.25,DEFAULT,,0,0,0,,{\r}{\kf41}Shine{\kf34} like{\kf26} ra{\kf23}-in{\kf116}bo{\kf30}-o{\kf23}-o{\kf105}-ows
+Dialogue: 0,0:00:29.59,0:00:33.51,DEFAULT,,0,0,0,,{\r}{\kf41}Shine{\kf34} like{\kf26} ra{\kf23}-in{\kf117}bo{\kf30}-o{\kf23}-o{\kf98}-ows
+Dialogue: 0,0:00:33.95,0:00:37.93,DEFAULT,,0,0,0,,{\r}{\kf41}Shine{\kf34} like{\kf26} ra{\kf23}-in{\kf116}bo{\kf30}-o{\kf23}-o{\kf105}-ows
+Dialogue: 0,0:00:38.31,0:00:42.70,DEFAULT,,0,0,0,,{\r}{\kf41}Shine{\kf33} like{\kf26} ra{\kf22}-in{\kf115}bo{\kf30}-o{\kf22}-o{\kf150}-ows
+Dialogue: 0,0:00:43.82,0:00:46.89,DEFAULT,,0,0,0,,{\r}{\kf96}Friends,{\kf25} you{\kf21} are{\kf17} in{\kf25} my{\kf13} li{\kf109}-ife
+Dialogue: 0,0:00:47.30,0:00:48.90,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf25} you{\kf25} can{\kf37} count{\kf21} on{\kf31} me
+Dialogue: 0,0:00:49.00,0:00:51.21,DEFAULT,,0,0,0,,{\r}{\kf16}To{\kf20} be{\kf20} there{\kf16} by{\kf20}-y{\kf12} your{\kf117} side
+Dialogue: 0,0:00:52.54,0:00:55.64,DEFAULT,,0,0,0,,{\r}{\kf55}And{\kf24} when{\kf16} the{\kf16} mu{\kf24}sic{\kf31} comes{\kf16} a{\kf27}li{\kf101}-ive
+Dialogue: 0,0:00:56.05,0:00:57.07,DEFAULT,,0,0,0,,{\r}{\kf13}You{\kf27} sing{\kf35} our{\kf27} songs
+Dialogue: 0,0:00:57.14,0:00:58.02,DEFAULT,,0,0,0,,{\r}{\kf20}To{\kf24} lift{\kf24} us{\kf21} up
+Dialogue: 0,0:00:58.09,0:00:59.86,DEFAULT,,0,0,0,,{\r}{\kf30}So{\kf23} we{\kf19} can{\kf105} shine
+Dialogue: 0,0:01:00.41,0:01:01.36,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf16} the{\kf55} sound
+Dialogue: 0,0:01:01.53,0:01:02.48,DEFAULT,,0,0,0,,{\r}{\kf24}That{\kf16} we{\kf55} hear
+Dialogue: 0,0:01:02.65,0:01:03.81,DEFAULT,,0,0,0,,{\r}{\kf24}In{\kf16} our{\kf76} hearts
+Dialogue: 0,0:01:04.22,0:01:09.06,DEFAULT,,0,0,0,,{\r}{\kf33}Makes{\kf25} a{\kf33} cre{\kf54}scen{\kf54}do{\kf63}-o{\kf50}-o{\kf88}-o{\kf29}-o{\kf55}-o
+Dialogue: 0,0:01:09.19,0:01:10.15,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf16} the{\kf55} light
+Dialogue: 0,0:01:10.28,0:01:11.23,DEFAULT,,0,0,0,,{\r}{\kf24}That{\kf16} ig{\kf55}nites
+Dialogue: 0,0:01:11.37,0:01:12.53,DEFAULT,,0,0,0,,{\r}{\kf24}In{\kf16} the{\kf76} dark
+Dialogue: 0,0:01:12.97,0:01:17.23,DEFAULT,,0,0,0,,{\r}{\kf23}It{\kf35} makes{\kf35} us{\kf47} all{\kf66} glo{\kf59}-o{\kf55}-o{\kf106}-ow
+Dialogue: 0,0:01:17.40,0:01:21.55,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf41} shine{\kf33} like{\kf26} ra{\kf22}-in{\kf278}bows
+Dialogue: 0,0:01:21.76,0:01:25.91,DEFAULT,,0,0,0,,{\r}{\kf15}We{\kf42} shine{\kf34} like{\kf27} ra{\kf23}-in{\kf118}bo{\kf30}-o{\kf23}-o{\kf103}-ows
+Dialogue: 0,0:01:26.35,0:01:30.27,DEFAULT,,0,0,0,,{\r}{\kf40}Shine{\kf33} like{\kf26} ra{\kf22}-in{\kf271}bows
+Dialogue: 0,0:01:30.47,0:01:35.51,DEFAULT,,0,0,0,,{\r}{\kf15}We{\kf41} shine{\kf34} like{\kf26} ra{\kf22}-in{\kf116}bo{\kf30}-o{\kf22}-o{\kf198}-ows
+Dialogue: 0,0:01:36.98,0:01:39.19,DEFAULT,,0,0,0,,{\r}{\kf20}To{\kf25}get{\kf25}her{\kf12} we{\kf139} stand
+Dialogue: 0,0:01:39.77,0:01:45.32,DEFAULT,,0,0,0,,{\r}{\kf20}As{\kf16} the{\kf52} rain{\kf52} be{\kf44}gins{\kf48} to{\kf184} fa{\kf32}-a{\kf32}-a{\kf75}-all
+Dialogue: 0,0:01:45.76,0:01:48.35,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf31} hol{\kf26}din'{\kf18} our{\kf66} heads{\kf31} up{\kf61} high
+Dialogue: 0,0:01:48.55,0:01:52.61,DEFAULT,,0,0,0,,{\r}{\kf17}As{\kf13} the{\kf43} sun{\kf64} shines{\kf30} thro{\kf21}-ugh{\kf21} it{\kf26} a{\kf170}-all
+Dialogue: 0,0:01:52.81,0:01:53.83,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf16} the{\kf62} sound
+Dialogue: 0,0:01:53.90,0:01:54.92,DEFAULT,,0,0,0,,{\r}{\kf24}That{\kf16} we{\kf62} hear
+Dialogue: 0,0:01:55.02,0:01:56.15,DEFAULT,,0,0,0,,{\r}{\kf24}In{\kf16} our{\kf72} hearts
+Dialogue: 0,0:01:56.62,0:02:01.36,DEFAULT,,0,0,0,,{\r}{\kf25}Makes{\kf25} a{\kf33} cre{\kf54}scen{\kf59}do{\kf67}-o{\kf59}-o{\kf84}-o{\kf21}-o{\kf46}-o
+Dialogue: 0,0:02:01.60,0:02:02.55,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf16} the{\kf55} light
+Dialogue: 0,0:02:02.62,0:02:03.57,DEFAULT,,0,0,0,,{\r}{\kf24}That{\kf16} ig{\kf55}nites
+Dialogue: 0,0:02:03.71,0:02:04.83,DEFAULT,,0,0,0,,{\r}{\kf23}In{\kf15} the{\kf74} dark
+Dialogue: 0,0:02:05.31,0:02:09.43,DEFAULT,,0,0,0,,{\r}{\kf23}It{\kf39} makes{\kf31} us{\kf46} all{\kf62} glo{\kf62}-o{\kf54}-o{\kf95}-ow
+Dialogue: 0,0:02:09.67,0:02:13.89,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf42} shine{\kf35} like{\kf27} ra{\kf23}-in{\kf119}bo{\kf31}-o{\kf23}-o{\kf107}-ows
+Dialogue: 0,0:02:14.09,0:02:18.25,DEFAULT,,0,0,0,,{\r}{\kf15}We{\kf41} shine{\kf34} like{\kf26} ra{\kf23}-in{\kf117}bo{\kf30}-o{\kf23}-o{\kf106}-ows
+Dialogue: 0,0:02:18.69,0:02:22.64,DEFAULT,,0,0,0,,{\r}{\kf41}Shine{\kf34} like{\kf26} ra{\kf22}-in{\kf116}bo{\kf30}-o{\kf22}-o{\kf104}-ows
+Dialogue: 0,0:02:22.81,0:02:27.00,DEFAULT,,0,0,0,,{\r}{\kf15}We{\kf42} shine{\kf34} like{\kf27} ra{\kf23}-in{\kf118}bo{\kf30}-o{\kf23}-o{\kf107}-ows
+Dialogue: 0,0:02:27.41,0:02:31.49,DEFAULT,,0,0,0,,{\r}{\kf40}Shine{\kf33} like{\kf26} ra{\kf22}-in{\kf288}bows

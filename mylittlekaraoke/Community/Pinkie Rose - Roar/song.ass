@@ -1,104 +1,111 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Roar (Cover)
+Artist: Pinkie Rose
+Original Timing: mylittlekaraoke.com by vicktoben
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.98,0:00:11.39,DEFAULT,,0,0,0,,{\kf9}I{\kf9} used{\kf9} to{\kf17} bite{\kf17} my{\kf25} tongue{\kf9} and{\kf25} hold{\kf9} my{\kf25} breath
-Dialogue: 0,0:00:11.81,0:00:14.06,DEFAULT,,0,0,0,,{\kf9}Scared{\kf9} to{\kf17} rock{\kf17} the{\kf17} boat{\kf9} and{\kf25} make{\kf9} a{\kf25} mess
-Dialogue: 0,0:00:14.48,0:00:16.56,DEFAULT,,0,0,0,,{\kf25}So{\kf9} I{\kf9} sat{\kf25} qui{\kf9}e{\kf75}tly
-Dialogue: 0,0:00:17.14,0:00:19.23,DEFAULT,,0,0,0,,{\kf25}A{\kf25}greed{\kf9} po{\kf25}li{\kf9}te{\kf75}ly
-Dialogue: 0,0:00:19.64,0:00:22.06,DEFAULT,,0,0,0,,{\kf9}I{\kf9} guess{\kf9} that{\kf25} I{\kf25} for{\kf25}got{\kf9} I{\kf25} had{\kf9} a{\kf25} choice
-Dialogue: 0,0:00:22.31,0:00:24.73,DEFAULT,,0,0,0,,{\kf9}I{\kf9} let{\kf9} you{\kf9} push{\kf25} me{\kf9} past{\kf9} the{\kf25} brea{\kf9}king{\kf25} point
-Dialogue: 0,0:00:25.14,0:00:27.06,DEFAULT,,0,0,0,,{\kf17}I{\kf17} stood{\kf9} for{\kf17} no{\kf9}~{\kf59}thing,
-Dialogue: 0,0:00:27.64,0:00:29.73,DEFAULT,,0,0,0,,{\kf9}So{\kf17} I{\kf17} fell{\kf9} for{\kf25} e{\kf9}very{\kf59}thing
-Dialogue: 0,0:00:29.98,0:00:30.98,DEFAULT,,0,0,0,,{\kf9}You{\kf17} held{\kf17} me{\kf25} down
-Dialogue: 0,0:00:31.23,0:00:32.31,DEFAULT,,0,0,0,,{\kf9}But{\kf25} I{\kf25} got{\kf25} up
-Dialogue: 0,0:00:33.06,0:00:34.89,DEFAULT,,0,0,0,,{\kf25}Al{\kf9}rea{\kf9}dy{\kf9} bru{\kf9}shing{\kf17} off{\kf17} the{\kf17} dust
-Dialogue: 0,0:00:35.23,0:00:36.31,DEFAULT,,0,0,0,,{\kf9}You{\kf25} hear{\kf25} my{\kf9} voice{\kf9}~
-Dialogue: 0,0:00:36.56,0:00:37.89,DEFAULT,,0,0,0,,{\kf9}You{\kf25} hear{\kf17} that{\kf25} sound{\kf17}~
-Dialogue: 0,0:00:38.39,0:00:40.31,DEFAULT,,0,0,0,,{\kf25}Like{\kf9} thun{\kf9}der{\kf9} gon{\kf9}na{\kf25} shake{\kf17} the{\kf25} ground
-Dialogue: 0,0:00:40.56,0:00:41.64,DEFAULT,,0,0,0,,{\kf9}You{\kf25} held{\kf25} me{\kf25} down
-Dialogue: 0,0:00:41.89,0:00:42.98,DEFAULT,,0,0,0,,{\kf9}But{\kf25} I{\kf25} got{\kf25} up
-Dialogue: 0,0:00:43.73,0:00:45.56,DEFAULT,,0,0,0,,{\kf25}Get{\kf9} rea{\kf9}dy{\kf9} cause{\kf9} I've{\kf17} had{\kf17} e{\kf17}nough
-Dialogue: 0,0:00:45.89,0:00:46.98,DEFAULT,,0,0,0,,{\kf9}I{\kf25} see{\kf25} it{\kf9} all{\kf9}~
-Dialogue: 0,0:00:47.23,0:00:48.64,DEFAULT,,0,0,0,,{\kf9}I{\kf25} see{\kf25} it{\kf25} now{\kf25}~
-Dialogue: 0,0:00:49.06,0:00:51.81,DEFAULT,,0,0,0,,{\kf25}I{\kf25} got{\kf25} the{\kf25} eye{\kf17} of{\kf25} the{\kf59} ti{\kf9}ger
-Dialogue: 0,0:00:52.06,0:00:53.31,DEFAULT,,0,0,0,,{\kf9}A{\kf59} figh{\kf25}ter
-Dialogue: 0,0:00:53.73,0:00:55.81,DEFAULT,,0,0,0,,{\kf17}Dan{\kf25}cing{\kf25} through{\kf9} the{\kf59} fire{\kf9}~
-Dialogue: 0,0:00:56.06,0:00:57.14,DEFAULT,,0,0,0,,{\kf17}Cause{\kf59} I{\kf9} am
-Dialogue: 0,0:00:57.39,0:00:58.64,DEFAULT,,0,0,0,,{\kf17}A{\kf59} cham{\kf25}pion
-Dialogue: 0,0:00:59.06,0:01:01.48,DEFAULT,,0,0,0,,{\kf25}And{\kf25} you're{\kf25} gon{\kf17}na{\kf25} hear{\kf25}~{\kf25} me{\kf9}~
-Dialogue: 0,0:01:01.73,0:01:02.81,DEFAULT,,0,0,0,,{\kf59}Roar{\kf9}~{\kf25}~
-Dialogue: 0,0:01:03.06,0:01:03.98,DEFAULT,,0,0,0,,{\kf59}Lou{\kf25}der
-Dialogue: 0,0:01:04.39,0:01:06.48,DEFAULT,,0,0,0,,{\kf25}Lou{\kf25}der{\kf25} than{\kf25} a{\kf59} li{\kf9}on
-Dialogue: 0,0:01:06.73,0:01:07.81,DEFAULT,,0,0,0,,{\kf17}Cause{\kf59} I{\kf9} am
-Dialogue: 0,0:01:08.06,0:01:09.31,DEFAULT,,0,0,0,,{\kf17}A{\kf59} cham{\kf25}pion
-Dialogue: 0,0:01:09.73,0:01:12.14,DEFAULT,,0,0,0,,{\kf25}And{\kf25} you're{\kf25} gon{\kf17}na{\kf25} hear{\kf25}~{\kf25} me{\kf9}~
-Dialogue: 0,0:01:12.39,0:01:15.23,DEFAULT,,0,0,0,,{\kf59}Roar{\kf9}~{\kf9}~{\kf17}~{\kf17}~{\kf17}~{\kf17}~{\kf9}~{\kf9}~{\kf17}~
-Dialogue: 0,0:01:15.73,0:01:17.89,DEFAULT,,0,0,0,,{\kf9}Oh{\kf9}~{\kf17} oh{\kf17} oh{\kf17} oh{\kf17} oh{\kf9} oh{\kf9}~{\kf17}~
-Dialogue: 0,0:01:18.39,0:01:20.48,DEFAULT,,0,0,0,,{\kf9}Oh{\kf9}~{\kf17} oh{\kf17} oh{\kf17} oh{\kf17} oh{\kf9} oh{\kf9}~{\kf9}~
-Dialogue: 0,0:01:20.73,0:01:22.81,DEFAULT,,0,0,0,,{\kf25}You're{\kf25} gon{\kf17}na{\kf25} hear{\kf25}~{\kf25} me{\kf9}~
-Dialogue: 0,0:01:23.06,0:01:24.31,DEFAULT,,0,0,0,,{\kf59}Roar{\kf9}~{\kf42}~
-Dialogue: 0,0:01:26.39,0:01:28.64,DEFAULT,,0,0,0,,{\kf9}Now{\kf9} I'm{\kf25} floa{\kf25}ting{\kf25} like{\kf9} a{\kf25} but{\kf9}ter{\kf25}fly
-Dialogue: 0,0:01:29.06,0:01:31.48,DEFAULT,,0,0,0,,{\kf9}Stin{\kf9}ging{\kf17} like{\kf25} a{\kf25} bee{\kf9} I{\kf25} earned{\kf9} my{\kf42} stripes
-Dialogue: 0,0:01:31.73,0:01:33.64,DEFAULT,,0,0,0,,{\kf25}I{\kf17} went{\kf9} from{\kf25} ze{\kf9}~{\kf59}ro
-Dialogue: 0,0:01:34.39,0:01:36.31,DEFAULT,,0,0,0,,{\kf17}To{\kf17} my{\kf9} own{\kf25} he{\kf9}~{\kf59}ro
-Dialogue: 0,0:01:36.56,0:01:37.64,DEFAULT,,0,0,0,,{\kf9}You{\kf25} held{\kf25} me{\kf25} down
-Dialogue: 0,0:01:37.89,0:01:38.98,DEFAULT,,0,0,0,,{\kf9}But{\kf25} I{\kf25} got{\kf25} up
-Dialogue: 0,0:01:39.73,0:01:41.56,DEFAULT,,0,0,0,,{\kf25}Al{\kf9}rea{\kf9}dy{\kf9} bru{\kf9}shing{\kf17} off{\kf17} the{\kf17} dust
-Dialogue: 0,0:01:41.89,0:01:42.98,DEFAULT,,0,0,0,,{\kf9}You{\kf25} hear{\kf25} my{\kf9} voice{\kf9}~
-Dialogue: 0,0:01:43.23,0:01:44.56,DEFAULT,,0,0,0,,{\kf9}You{\kf25} hear{\kf17} that{\kf25} sound{\kf17}~
-Dialogue: 0,0:01:45.06,0:01:46.98,DEFAULT,,0,0,0,,{\kf25}Like{\kf9} thun{\kf9}der{\kf9} gon{\kf9}na{\kf25} shake{\kf17} the{\kf25} ground
-Dialogue: 0,0:01:47.23,0:01:48.31,DEFAULT,,0,0,0,,{\kf9}You{\kf25} held{\kf25} me{\kf25} down
-Dialogue: 0,0:01:48.56,0:01:49.64,DEFAULT,,0,0,0,,{\kf9}But{\kf25} I{\kf25} got{\kf25} up
-Dialogue: 0,0:01:50.39,0:01:52.23,DEFAULT,,0,0,0,,{\kf25}Get{\kf9} rea{\kf9}dy{\kf9} 'cause{\kf9} I've{\kf17} had{\kf17} e{\kf17}nough
-Dialogue: 0,0:01:52.56,0:01:53.64,DEFAULT,,0,0,0,,{\kf9}I{\kf25} see{\kf25} it{\kf9} all{\kf9}~
-Dialogue: 0,0:01:53.89,0:01:55.31,DEFAULT,,0,0,0,,{\kf9}I{\kf25} see{\kf25} it{\kf25} now{\kf25}~
-Dialogue: 0,0:01:55.73,0:01:58.48,DEFAULT,,0,0,0,,{\kf25}I{\kf25} got{\kf25} the{\kf25} eye{\kf17} of{\kf25} the{\kf59} ti{\kf9}ger
-Dialogue: 0,0:01:58.73,0:01:59.98,DEFAULT,,0,0,0,,{\kf9}A{\kf59} figh{\kf25}ter
-Dialogue: 0,0:02:00.39,0:02:02.48,DEFAULT,,0,0,0,,{\kf17}Dan{\kf25}cing{\kf25} through{\kf9} the{\kf59} fire{\kf9}~
-Dialogue: 0,0:02:02.73,0:02:03.81,DEFAULT,,0,0,0,,{\kf17}Cause{\kf59} I{\kf9} am
-Dialogue: 0,0:02:04.06,0:02:05.31,DEFAULT,,0,0,0,,{\kf17}A{\kf59} cham{\kf25}pion
-Dialogue: 0,0:02:05.73,0:02:08.14,DEFAULT,,0,0,0,,{\kf25}And{\kf25} you're{\kf25} gon{\kf17}na{\kf25} hear{\kf25}~{\kf25} me{\kf9}~
-Dialogue: 0,0:02:08.39,0:02:09.48,DEFAULT,,0,0,0,,{\kf59}Roar{\kf9}~{\kf25}~
-Dialogue: 0,0:02:09.81,0:02:10.64,DEFAULT,,0,0,0,,{\kf50}Lou{\kf25}der
-Dialogue: 0,0:02:11.06,0:02:13.14,DEFAULT,,0,0,0,,{\kf25}Lou{\kf25}der{\kf25} than{\kf25} a{\kf59} li{\kf9}on
-Dialogue: 0,0:02:13.39,0:02:14.48,DEFAULT,,0,0,0,,{\kf17}Cause{\kf59} I{\kf9} am
-Dialogue: 0,0:02:14.73,0:02:15.98,DEFAULT,,0,0,0,,{\kf17}A{\kf59} cham{\kf25}pion
-Dialogue: 0,0:02:16.39,0:02:18.81,DEFAULT,,0,0,0,,{\kf25}And{\kf25} you're{\kf25} gon{\kf17}na{\kf25} hear{\kf25}~{\kf25} me{\kf9}~
-Dialogue: 0,0:02:19.06,0:02:21.48,DEFAULT,,0,0,0,,{\kf59}Roar{\kf9}~{\kf159}~
-Dialogue: 0,0:02:22.39,0:02:24.56,DEFAULT,,0,0,0,,{\kf9}Oh{\kf9}~{\kf17} oh{\kf17} oh{\kf17} oh{\kf17} oh{\kf9} oh{\kf9}~{\kf17}~
-Dialogue: 0,0:02:25.06,0:02:27.14,DEFAULT,,0,0,0,,{\kf9}Oh{\kf9}~{\kf17} oh{\kf17} oh{\kf17} oh{\kf17} oh{\kf9} oh{\kf9}~{\kf9}~
-Dialogue: 0,0:02:27.39,0:02:29.48,DEFAULT,,0,0,0,,{\kf25}You're{\kf25} gon{\kf17}na{\kf25} hear{\kf25}~{\kf25} me{\kf9}~
-Dialogue: 0,0:02:29.73,0:02:31.98,DEFAULT,,0,0,0,,{\kf50}Roar{\kf9}~{\kf142}~
-Dialogue: 0,0:02:34.39,0:02:35.98,DEFAULT,,0,0,0,,{\kf17}You'll{\kf25} hear{\kf9} me{\kf25} roar{\kf9}~{\kf25}~
-Dialogue: 0,0:02:38.06,0:02:40.14,DEFAULT,,0,0,0,,{\kf25}You're{\kf25} gon{\kf17}na{\kf25} hear{\kf25}~{\kf25} me{\kf9}~
-Dialogue: 0,0:02:40.39,0:02:41.64,DEFAULT,,0,0,0,,{\kf59}Roar{\kf9}~{\kf42}~
-Dialogue: 0,0:02:49.39,0:02:50.06,DEFAULT,,0,0,0,,{\kf25}Roar{\kf34}~
-Dialogue: 0,0:02:50.73,0:02:51.39,DEFAULT,,0,0,0,,{\kf25}Roar{\kf34}~
-Dialogue: 0,0:02:52.06,0:02:52.73,DEFAULT,,0,0,0,,{\kf25}Roar{\kf34}~
-Dialogue: 0,0:02:53.39,0:02:54.06,DEFAULT,,0,0,0,,{\kf25}Roar{\kf34}~
-Dialogue: 0,0:02:54.73,0:02:56.31,DEFAULT,,0,0,0,,{\kf25}Roar{\kf125}~
-Dialogue: 0,0:02:57.23,0:03:01.31,DEFAULT,,0,0,0,,{\kf17}I{\kf17} got{\kf17} the{\kf17} eye{\kf17} of{\kf17} the{\kf50} ti{\kf25}ger,{\kf17} a{\kf42} fight{\kf25}er
-Dialogue: 0,0:03:01.73,0:03:03.98,DEFAULT,,0,0,0,,{\kf17}Dan{\kf25}cing{\kf25} through{\kf17} the{\kf50} fire-{\kf25}~
-Dialogue: 0,0:03:05.39,0:03:06.64,DEFAULT,,0,0,0,,{\kf17}A{\kf59} cham{\kf25}pion
-Dialogue: 0,0:03:07.06,0:03:09.48,DEFAULT,,0,0,0,,{\kf25}And{\kf25} you're{\kf25} gon{\kf17}na{\kf25} hear{\kf25}~{\kf25} me{\kf9}~
-Dialogue: 0,0:03:09.73,0:03:10.81,DEFAULT,,0,0,0,,{\kf59}Roar{\kf9}~{\kf25}~
-Dialogue: 0,0:03:11.06,0:03:11.98,DEFAULT,,0,0,0,,{\kf59}Lou{\kf25}der
-Dialogue: 0,0:03:12.39,0:03:14.48,DEFAULT,,0,0,0,,{\kf25}Lou{\kf25}der{\kf25} than{\kf25} a{\kf59} li{\kf9}on
-Dialogue: 0,0:03:14.73,0:03:15.81,DEFAULT,,0,0,0,,{\kf17}Cause{\kf59} I{\kf9} am
-Dialogue: 0,0:03:16.06,0:03:17.31,DEFAULT,,0,0,0,,{\kf17}A{\kf59} cham{\kf25}pion
-Dialogue: 0,0:03:17.73,0:03:18.81,DEFAULT,,0,0,0,,{\kf25}And{\kf25} you're{\kf25} gon{\kf9}na
-Dialogue: 0,0:03:19.06,0:03:23.39,DEFAULT,,0,0,0,,{\kf25}Hear{\kf25}~{\kf25} me{\kf25}~{\kf59} roar{\kf217}~
-Dialogue: 0,0:03:25.73,0:03:27.31,DEFAULT,,0,0,0,,{\kf17}Oh{\kf125}~
-Dialogue: 0,0:03:28.73,0:03:30.81,DEFAULT,,0,0,0,,{\kf25}You're{\kf25} gon{\kf17}na{\kf34} hear{\kf25} me{\kf9}~
-Dialogue: 0,0:03:31.06,0:03:33.89,DEFAULT,,0,0,0,,{\kf59}Roar{\kf9}~{\kf184}~
-Dialogue: 0,0:03:35.39,0:03:38.98,DEFAULT,,0,0,0,,{\kf34}You'll{\kf25} hear{\kf34} me{\kf225} roar
-Dialogue: 0,0:03:39.39,0:03:40.14,DEFAULT,,0,0,0,,{\kf25}You're{\kf25} gon{\kf9}na
-Dialogue: 0,0:03:40.39,0:03:43.81,DEFAULT,,0,0,0,,{\kf25}Hear{\kf25}~{\kf25} me{\kf25}~{\kf50} roar{\kf125}~
+Dialogue: 0,0:00:08.98,0:00:11.40,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf13} used{\kf13} to{\kf27} bite{\kf27} my{\kf40} tongue{\kf13} and{\kf40} hold{\kf13} my{\kf43} breath
+Dialogue: 0,0:00:11.81,0:00:14.06,DEFAULT,,0,0,0,,{\r}{\kf14}Scared{\kf14} to{\kf28} rock{\kf28} the{\kf28} boat{\kf14} and{\kf42} make{\kf14} a{\kf43} mess
+Dialogue: 0,0:00:14.48,0:00:16.56,DEFAULT,,0,0,0,,{\r}{\kf35}So{\kf12} I{\kf12} sat{\kf35} qui{\kf12}e{\kf102}tly
+Dialogue: 0,0:00:17.15,0:00:19.23,DEFAULT,,0,0,0,,{\r}{\kf31}A{\kf31}greed{\kf10} po{\kf31}li{\kf10}te{\kf95}ly
+Dialogue: 0,0:00:19.65,0:00:22.06,DEFAULT,,0,0,0,,{\r}{\kf12}I{\kf12} guess{\kf12} that{\kf36} I{\kf36} for{\kf36}got{\kf12} I{\kf36} had{\kf12} a{\kf38} choice
+Dialogue: 0,0:00:22.31,0:00:24.73,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf15} let{\kf15} you{\kf15} push{\kf45} me{\kf15} past{\kf15} the{\kf45} brea{\kf15}king{\kf47} point
+Dialogue: 0,0:00:25.15,0:00:27.06,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf26} stood{\kf13} for{\kf26} no{\kf13}~{\kf88}thing,
+Dialogue: 0,0:00:27.65,0:00:29.73,DEFAULT,,0,0,0,,{\r}{\kf12}So{\kf24} I{\kf24} fell{\kf12} for{\kf37} e{\kf12}very{\kf87}thing
+Dialogue: 0,0:00:29.98,0:00:30.98,DEFAULT,,0,0,0,,{\r}{\kf12}You{\kf25} held{\kf25} me{\kf38} down
+Dialogue: 0,0:00:31.23,0:00:32.31,DEFAULT,,0,0,0,,{\r}{\kf11}But{\kf32} I{\kf32} got{\kf33} up
+Dialogue: 0,0:00:33.06,0:00:34.90,DEFAULT,,0,0,0,,{\r}{\kf42}Al{\kf14}rea{\kf14}dy{\kf14} bru{\kf14}shing{\kf28} off{\kf28} the{\kf29} dust
+Dialogue: 0,0:00:35.23,0:00:36.31,DEFAULT,,0,0,0,,{\r}{\kf12}You{\kf36} hear{\kf36} my{\kf12} voice{\kf12}~
+Dialogue: 0,0:00:36.56,0:00:37.90,DEFAULT,,0,0,0,,{\r}{\kf12}You{\kf36} hear{\kf24} that{\kf36} sound{\kf25}~
+Dialogue: 0,0:00:38.40,0:00:40.31,DEFAULT,,0,0,0,,{\r}{\kf38}Like{\kf13} thun{\kf13}der{\kf13} gon{\kf13}na{\kf38} shake{\kf26} the{\kf38} ground
+Dialogue: 0,0:00:40.56,0:00:41.65,DEFAULT,,0,0,0,,{\r}{\kf11}You{\kf32} held{\kf32} me{\kf33} down
+Dialogue: 0,0:00:41.90,0:00:42.98,DEFAULT,,0,0,0,,{\r}{\kf11}But{\kf32} I{\kf32} got{\kf33} up
+Dialogue: 0,0:00:43.73,0:00:45.56,DEFAULT,,0,0,0,,{\r}{\kf42}Get{\kf14} rea{\kf14}dy{\kf14} cause{\kf14} I've{\kf28} had{\kf28} e{\kf29}nough
+Dialogue: 0,0:00:45.90,0:00:46.98,DEFAULT,,0,0,0,,{\r}{\kf12}I{\kf36} see{\kf36} it{\kf12} all{\kf12}~
+Dialogue: 0,0:00:47.23,0:00:48.65,DEFAULT,,0,0,0,,{\r}{\kf11}I{\kf33} see{\kf33} it{\kf33} now{\kf32}~
+Dialogue: 0,0:00:49.06,0:00:51.81,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf33} got{\kf33} the{\kf33} eye{\kf22} of{\kf33} the{\kf77} ti{\kf11}ger
+Dialogue: 0,0:00:52.06,0:00:53.31,DEFAULT,,0,0,0,,{\r}{\kf11}A{\kf80} figh{\kf34}ter
+Dialogue: 0,0:00:53.73,0:00:55.81,DEFAULT,,0,0,0,,{\r}{\kf24}Dan{\kf37}cing{\kf37} through{\kf12} the{\kf86} fire{\kf12}~
+Dialogue: 0,0:00:56.06,0:00:57.15,DEFAULT,,0,0,0,,{\r}{\kf22}Cause{\kf76} I{\kf10} am
+Dialogue: 0,0:00:57.40,0:00:58.65,DEFAULT,,0,0,0,,{\r}{\kf21}A{\kf73} cham{\kf31}pion
+Dialogue: 0,0:00:59.06,0:01:01.48,DEFAULT,,0,0,0,,{\r}{\kf35}And{\kf35} you're{\kf35} gon{\kf23}na{\kf35} hear{\kf35}~{\kf35} me{\kf10}~
+Dialogue: 0,0:01:01.73,0:01:02.81,DEFAULT,,0,0,0,,{\r}{\kf69}Roar{\kf10}~{\kf29}~
+Dialogue: 0,0:01:03.06,0:01:03.98,DEFAULT,,0,0,0,,{\r}{\kf64}Lou{\kf28}der
+Dialogue: 0,0:01:04.40,0:01:06.48,DEFAULT,,0,0,0,,{\r}{\kf31}Lou{\kf31}der{\kf31} than{\kf31} a{\kf73} li{\kf11}on
+Dialogue: 0,0:01:06.73,0:01:07.81,DEFAULT,,0,0,0,,{\r}{\kf22}Cause{\kf76} I{\kf10} am
+Dialogue: 0,0:01:08.06,0:01:09.31,DEFAULT,,0,0,0,,{\r}{\kf21}A{\kf73} cham{\kf31}pion
+Dialogue: 0,0:01:09.73,0:01:12.15,DEFAULT,,0,0,0,,{\r}{\kf35}And{\kf35} you're{\kf35} gon{\kf23}na{\kf35} hear{\kf35}~{\kf35} me{\kf10}~
+Dialogue: 0,0:01:12.40,0:01:15.23,DEFAULT,,0,0,0,,{\r}{\kf94}Roar{\kf13}~{\kf13}~{\kf27}~{\kf27}~{\kf27}~{\kf27}~{\kf13}~{\kf13}~{\kf29}~
+Dialogue: 0,0:01:15.73,0:01:17.90,DEFAULT,,0,0,0,,{\r}{\kf16}Oh{\kf16}~{\kf31} oh{\kf31} oh{\kf31} oh{\kf31} oh{\kf16} oh{\kf16}~{\kf29}~
+Dialogue: 0,0:01:18.40,0:01:20.48,DEFAULT,,0,0,0,,{\r}{\kf16}Oh{\kf16}~{\kf32} oh{\kf32} oh{\kf32} oh{\kf32} oh{\kf16} oh{\kf16}~{\kf16}~
+Dialogue: 0,0:01:20.73,0:01:22.81,DEFAULT,,0,0,0,,{\r}{\kf35}You're{\kf35} gon{\kf23}na{\kf35} hear{\kf35}~{\kf35} me{\kf10}~
+Dialogue: 0,0:01:23.06,0:01:24.31,DEFAULT,,0,0,0,,{\r}{\kf67}Roar{\kf10}~{\kf48}~
+Dialogue: 0,0:01:26.40,0:01:28.65,DEFAULT,,0,0,0,,{\r}{\kf12}Now{\kf12} I'm{\kf36} floa{\kf36}ting{\kf36} like{\kf12} a{\kf36} but{\kf12}ter{\kf33}fly
+Dialogue: 0,0:01:29.06,0:01:31.48,DEFAULT,,0,0,0,,{\r}{\kf12}Stin{\kf12}ging{\kf24} like{\kf36} a{\kf36} bee{\kf12} I{\kf36} earned{\kf12} my{\kf62} stripes
+Dialogue: 0,0:01:31.73,0:01:33.65,DEFAULT,,0,0,0,,{\r}{\kf34}I{\kf23} went{\kf11} from{\kf34} ze{\kf11}~{\kf79}ro
+Dialogue: 0,0:01:34.40,0:01:36.31,DEFAULT,,0,0,0,,{\r}{\kf24}To{\kf24} my{\kf12} own{\kf36} he{\kf12}~{\kf84}ro
+Dialogue: 0,0:01:36.56,0:01:37.65,DEFAULT,,0,0,0,,{\r}{\kf11}You{\kf32} held{\kf32} me{\kf33} down
+Dialogue: 0,0:01:37.90,0:01:38.98,DEFAULT,,0,0,0,,{\r}{\kf11}But{\kf32} I{\kf32} got{\kf33} up
+Dialogue: 0,0:01:39.73,0:01:41.56,DEFAULT,,0,0,0,,{\r}{\kf42}Al{\kf14}rea{\kf14}dy{\kf14} bru{\kf14}shing{\kf28} off{\kf28} the{\kf29} dust
+Dialogue: 0,0:01:41.90,0:01:42.98,DEFAULT,,0,0,0,,{\r}{\kf12}You{\kf36} hear{\kf36} my{\kf12} voice{\kf12}~
+Dialogue: 0,0:01:43.23,0:01:44.56,DEFAULT,,0,0,0,,{\r}{\kf12}You{\kf36} hear{\kf24} that{\kf36} sound{\kf25}~
+Dialogue: 0,0:01:45.06,0:01:46.98,DEFAULT,,0,0,0,,{\r}{\kf38}Like{\kf13} thun{\kf13}der{\kf13} gon{\kf13}na{\kf38} shake{\kf26} the{\kf38} ground
+Dialogue: 0,0:01:47.23,0:01:48.31,DEFAULT,,0,0,0,,{\r}{\kf11}You{\kf32} held{\kf32} me{\kf33} down
+Dialogue: 0,0:01:48.56,0:01:49.65,DEFAULT,,0,0,0,,{\r}{\kf11}But{\kf32} I{\kf32} got{\kf33} up
+Dialogue: 0,0:01:50.40,0:01:52.23,DEFAULT,,0,0,0,,{\r}{\kf42}Get{\kf14} rea{\kf14}dy{\kf14} 'cause{\kf14} I've{\kf28} had{\kf28} e{\kf29}nough
+Dialogue: 0,0:01:52.56,0:01:53.65,DEFAULT,,0,0,0,,{\r}{\kf12}I{\kf36} see{\kf36} it{\kf12} all{\kf12}~
+Dialogue: 0,0:01:53.90,0:01:55.31,DEFAULT,,0,0,0,,{\r}{\kf11}I{\kf33} see{\kf33} it{\kf33} now{\kf32}~
+Dialogue: 0,0:01:55.73,0:01:58.48,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf33} got{\kf33} the{\kf33} eye{\kf22} of{\kf33} the{\kf77} ti{\kf11}ger
+Dialogue: 0,0:01:58.73,0:01:59.98,DEFAULT,,0,0,0,,{\r}{\kf11}A{\kf80} figh{\kf34}ter
+Dialogue: 0,0:02:00.40,0:02:02.48,DEFAULT,,0,0,0,,{\r}{\kf24}Dan{\kf37}cing{\kf37} through{\kf12} the{\kf86} fire{\kf12}~
+Dialogue: 0,0:02:02.73,0:02:03.81,DEFAULT,,0,0,0,,{\r}{\kf22}Cause{\kf76} I{\kf10} am
+Dialogue: 0,0:02:04.06,0:02:05.31,DEFAULT,,0,0,0,,{\r}{\kf21}A{\kf73} cham{\kf31}pion
+Dialogue: 0,0:02:05.73,0:02:08.15,DEFAULT,,0,0,0,,{\r}{\kf35}And{\kf35} you're{\kf35} gon{\kf23}na{\kf35} hear{\kf35}~{\kf35} me{\kf10}~
+Dialogue: 0,0:02:08.40,0:02:09.48,DEFAULT,,0,0,0,,{\r}{\kf69}Roar{\kf10}~{\kf29}~
+Dialogue: 0,0:02:09.81,0:02:10.65,DEFAULT,,0,0,0,,{\r}{\kf55}Lou{\kf28}der
+Dialogue: 0,0:02:11.06,0:02:13.15,DEFAULT,,0,0,0,,{\r}{\kf31}Lou{\kf31}der{\kf31} than{\kf31} a{\kf73} li{\kf11}on
+Dialogue: 0,0:02:13.40,0:02:14.48,DEFAULT,,0,0,0,,{\r}{\kf22}Cause{\kf76} I{\kf10} am
+Dialogue: 0,0:02:14.73,0:02:15.98,DEFAULT,,0,0,0,,{\r}{\kf21}A{\kf73} cham{\kf31}pion
+Dialogue: 0,0:02:16.40,0:02:18.81,DEFAULT,,0,0,0,,{\r}{\kf35}And{\kf35} you're{\kf35} gon{\kf23}na{\kf35} hear{\kf35}~{\kf35} me{\kf10}~
+Dialogue: 0,0:02:19.06,0:02:21.48,DEFAULT,,0,0,0,,{\r}{\kf63}Roar{\kf10}~{\kf169}~
+Dialogue: 0,0:02:22.40,0:02:24.56,DEFAULT,,0,0,0,,{\r}{\kf16}Oh{\kf16}~{\kf31} oh{\kf31} oh{\kf31} oh{\kf31} oh{\kf16} oh{\kf16}~{\kf29}~
+Dialogue: 0,0:02:25.06,0:02:27.15,DEFAULT,,0,0,0,,{\r}{\kf16}Oh{\kf16}~{\kf32} oh{\kf32} oh{\kf32} oh{\kf32} oh{\kf16} oh{\kf16}~{\kf16}~
+Dialogue: 0,0:02:27.40,0:02:29.48,DEFAULT,,0,0,0,,{\r}{\kf35}You're{\kf35} gon{\kf23}na{\kf35} hear{\kf35}~{\kf35} me{\kf10}~
+Dialogue: 0,0:02:29.73,0:02:31.98,DEFAULT,,0,0,0,,{\r}{\kf56}Roar{\kf10}~{\kf159}~
+Dialogue: 0,0:02:34.40,0:02:35.98,DEFAULT,,0,0,0,,{\r}{\kf24}You'll{\kf36} hear{\kf12} me{\kf36} roar{\kf12}~{\kf38}~
+Dialogue: 0,0:02:38.06,0:02:40.15,DEFAULT,,0,0,0,,{\r}{\kf35}You're{\kf35} gon{\kf23}na{\kf35} hear{\kf35}~{\kf35} me{\kf10}~
+Dialogue: 0,0:02:40.40,0:02:41.65,DEFAULT,,0,0,0,,{\r}{\kf67}Roar{\kf10}~{\kf48}~
+Dialogue: 0,0:02:49.40,0:02:50.06,DEFAULT,,0,0,0,,{\r}{\kf29}Roar{\kf38}~
+Dialogue: 0,0:02:50.73,0:02:51.40,DEFAULT,,0,0,0,,{\r}{\kf29}Roar{\kf38}~
+Dialogue: 0,0:02:52.06,0:02:52.73,DEFAULT,,0,0,0,,{\r}{\kf29}Roar{\kf38}~
+Dialogue: 0,0:02:53.40,0:02:54.06,DEFAULT,,0,0,0,,{\r}{\kf29}Roar{\kf38}~
+Dialogue: 0,0:02:54.73,0:02:56.31,DEFAULT,,0,0,0,,{\r}{\kf26}Roar{\kf132}~
+Dialogue: 0,0:02:57.23,0:03:01.31,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf26} got{\kf26} the{\kf26} eye{\kf26} of{\kf26} the{\kf79} ti{\kf39}ger,{\kf26} a{\kf66} fight{\kf42}er
+Dialogue: 0,0:03:01.73,0:03:03.98,DEFAULT,,0,0,0,,{\r}{\kf24}Dan{\kf36}cing{\kf36} through{\kf24} the{\kf71} fire-{\kf34}~
+Dialogue: 0,0:03:05.40,0:03:06.65,DEFAULT,,0,0,0,,{\r}{\kf21}A{\kf73} cham{\kf31}pion
+Dialogue: 0,0:03:07.06,0:03:09.48,DEFAULT,,0,0,0,,{\r}{\kf35}And{\kf35} you're{\kf35} gon{\kf23}na{\kf35} hear{\kf35}~{\kf35} me{\kf10}~
+Dialogue: 0,0:03:09.73,0:03:10.81,DEFAULT,,0,0,0,,{\r}{\kf69}Roar{\kf10}~{\kf29}~
+Dialogue: 0,0:03:11.06,0:03:11.98,DEFAULT,,0,0,0,,{\r}{\kf64}Lou{\kf28}der
+Dialogue: 0,0:03:12.40,0:03:14.48,DEFAULT,,0,0,0,,{\r}{\kf31}Lou{\kf31}der{\kf31} than{\kf31} a{\kf73} li{\kf11}on
+Dialogue: 0,0:03:14.73,0:03:15.81,DEFAULT,,0,0,0,,{\r}{\kf22}Cause{\kf76} I{\kf10} am
+Dialogue: 0,0:03:16.06,0:03:17.31,DEFAULT,,0,0,0,,{\r}{\kf21}A{\kf73} cham{\kf31}pion
+Dialogue: 0,0:03:17.73,0:03:18.81,DEFAULT,,0,0,0,,{\r}{\kf32}And{\kf32} you're{\kf32} gon{\kf12}na
+Dialogue: 0,0:03:19.06,0:03:23.40,DEFAULT,,0,0,0,,{\r}{\kf29}Hear{\kf29}~{\kf29} me{\kf29}~{\kf67} roar{\kf250}~
+Dialogue: 0,0:03:25.73,0:03:27.31,DEFAULT,,0,0,0,,{\r}{\kf19}Oh{\kf139}~
+Dialogue: 0,0:03:28.73,0:03:30.81,DEFAULT,,0,0,0,,{\r}{\kf39}You're{\kf39} gon{\kf26}na{\kf52} hear{\kf39} me{\kf13}~
+Dialogue: 0,0:03:31.06,0:03:33.90,DEFAULT,,0,0,0,,{\r}{\kf66}Roar{\kf10}~{\kf207}~
+Dialogue: 0,0:03:35.40,0:03:38.98,DEFAULT,,0,0,0,,{\r}{\kf38}You'll{\kf28} hear{\kf38} me{\kf254} roar
+Dialogue: 0,0:03:39.40,0:03:40.15,DEFAULT,,0,0,0,,{\r}{\kf32}You're{\kf32} gon{\kf11}na
+Dialogue: 0,0:03:40.40,0:03:43.81,DEFAULT,,0,0,0,,{\r}{\kf31}Hear{\kf31}~{\kf31} me{\kf31}~{\kf62} roar{\kf156}~

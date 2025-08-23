@@ -1,51 +1,58 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Trixie
+Artist: Lectro Dub
+Original Timing: mylittlekaraoke.com by BronyMike
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.66,0:00:04.08,DEFAULT,,0,0,0,,{\kf281}A{\kf285} young{\kf281} ma{\kf281}gi{\kf285}cian
-Dialogue: 0,0:00:05.09,0:00:06.44,DEFAULT,,0,0,0,,{\kf281}With{\kf285} strong{\kf281} am{\kf285}bi{\kf285}tion
-Dialogue: 0,0:00:07.46,0:00:08.84,DEFAULT,,0,0,0,,{\kf278}She's{\kf285} de{\kf281}di{\kf289}ca{\kf281}ted
-Dialogue: 0,0:00:08.99,0:00:09.97,DEFAULT,,0,0,0,,{\kf281}Un{\kf281}der{\kf289}ra{\kf278}ted
-Dialogue: 0,0:00:10.12,0:00:11.88,DEFAULT,,0,0,0,,{\kf281}But{\kf281} she{\kf289} pla-{\kf285}ans{\kf281} to{\kf289} change
-Dialogue: 0,0:00:12.29,0:00:13.68,DEFAULT,,0,0,0,,{\kf281}She{\kf281} met{\kf281} her{\kf285} i{\kf285}dol
-Dialogue: 0,0:00:14.66,0:00:16.08,DEFAULT,,0,0,0,,{\kf281}Talked{\kf289} for{\kf278} a{\kf289} whi{\kf285}le
-Dialogue: 0,0:00:17.09,0:00:18.41,DEFAULT,,0,0,0,,{\kf278}She{\kf285} learned{\kf281} his{\kf285} tri-{\kf278}ick
-Dialogue: 0,0:00:18.59,0:00:19.61,DEFAULT,,0,0,0,,{\kf281}She{\kf281} was{\kf281} pi-{\kf278}icked
-Dialogue: 0,0:00:19.83,0:00:21.48,DEFAULT,,0,0,0,,{\kf278}To{\kf285} go{\kf285} out{\kf293} on{\kf289} stage
-Dialogue: 0,0:00:21.63,0:00:29.51,DEFAULT,,0,0,0,,{\kf338}Ooo-{\kf394}ooo-{\kf323}ooo-{\kf409}ooo-{\kf334}ooo-{\kf341}ooo-{\kf281}oo-{\kf371}ooh
-Dialogue: 0,0:00:31.19,0:00:39.11,DEFAULT,,0,0,0,,{\kf341}Ooo-{\kf401}ooo-{\kf326}ooo-{\kf413}ooo-{\kf334}ooo-{\kf341}ooo-{\kf281}oo-{\kf375}ooh
-Dialogue: 0,0:00:40.16,0:00:42.18,DEFAULT,,0,0,0,,{\kf285}She{\kf285} got{\kf285} caught{\kf285} up{\kf281} in{\kf281} the{\kf285} fame
-Dialogue: 0,0:00:42.56,0:00:44.54,DEFAULT,,0,0,0,,{\kf285}Proud{\kf285}ly{\kf289} shout{\kf281}ing{\kf281} out{\kf281} her{\kf285} name
-Dialogue: 0,0:00:44.99,0:00:49.42,DEFAULT,,0,0,0,,{\kf281}Took{\kf285} her{\kf289} ye-{\kf281}ears,{\kf285} now{\kf281} she{\kf289} fin{\kf285}ally{\kf285} had{\kf281} a{\kf285} crowd{\kf285} to{\kf285} en{\kf285}ter{\kf289}tain
-Dialogue: 0,0:00:49.79,0:00:51.78,DEFAULT,,0,0,0,,{\kf278}Hooves{\kf285} were{\kf285} stom{\kf285}ping{\kf281} on{\kf281} the{\kf289} floor
-Dialogue: 0,0:00:52.19,0:00:54.18,DEFAULT,,0,0,0,,{\kf281}Screa{\kf281}ming,{\kf285} shou{\kf281}ting{\kf285} for{\kf285} en{\kf289}core
-Dialogue: 0,0:00:54.56,0:00:59.02,DEFAULT,,0,0,0,,{\kf285}Trix{\kf281}ie{\kf312} got{\kf289} her{\kf281} at{\kf281}ten{\kf281}tion{\kf285} and{\kf285} de{\kf285}si{\kf281}red{\kf281} for{\kf319} more
-Dialogue: 0,0:01:19.27,0:01:27.18,DEFAULT,,0,0,0,,{\kf341}Ooo-{\kf398}ooo-{\kf326}ooo-{\kf413}ooo-{\kf334}ooo-{\kf341}ooo-{\kf281}oo-{\kf375}ooh
-Dialogue: 0,0:01:28.83,0:01:36.74,DEFAULT,,0,0,0,,{\kf341}Ooo-{\kf401}ooo-{\kf326}ooo-{\kf409}ooo-{\kf341}ooo-{\kf341}ooo-{\kf281}oo-{\kf375}ooh
-Dialogue: 0,0:01:38.69,0:01:40.08,DEFAULT,,0,0,0,,{\kf281}A{\kf285} month{\kf281} of{\kf285} tour{\kf285}ing
-Dialogue: 0,0:01:41.09,0:01:42.48,DEFAULT,,0,0,0,,{\kf278}Her{\kf281} shows{\kf281} were{\kf285} bor{\kf281}ing
-Dialogue: 0,0:01:43.49,0:01:44.84,DEFAULT,,0,0,0,,{\kf281}With{\kf289}out{\kf281} a{\kf289} na-{\kf281}ame
-Dialogue: 0,0:01:44.99,0:01:46.01,DEFAULT,,0,0,0,,{\kf281}Dipped{\kf281} in{\kf289} fa-{\kf278}ame
-Dialogue: 0,0:01:46.16,0:01:47.92,DEFAULT,,0,0,0,,{\kf289}Not{\kf281} a{\kf289} soul{\kf296} would{\kf293} care
-Dialogue: 0,0:01:48.26,0:01:49.68,DEFAULT,,0,0,0,,{\kf281}Her{\kf285} con{\kf281}stant{\kf289} fa{\kf285}ding
-Dialogue: 0,0:01:50.69,0:01:52.12,DEFAULT,,0,0,0,,{\kf281}Was{\kf285} ir{\kf281}ri{\kf285}ta{\kf285}ting
-Dialogue: 0,0:01:53.13,0:01:54.41,DEFAULT,,0,0,0,,{\kf281}This{\kf281} false{\kf285} di{\kf281}rec{\kf278}tion
-Dialogue: 0,0:01:54.56,0:01:55.61,DEFAULT,,0,0,0,,{\kf285}Of{\kf281} at{\kf281}ten{\kf278}tion
-Dialogue: 0,0:01:55.76,0:01:57.44,DEFAULT,,0,0,0,,{\kf281}Just{\kf278} felt{\kf289} so{\kf289} un{\kf285}fair
-Dialogue: 0,0:01:57.63,0:02:05.54,DEFAULT,,0,0,0,,{\kf341}Ooo-{\kf394}ooo-{\kf334}ooo-{\kf409}ooo-{\kf338}ooo-{\kf341}ooo-{\kf281}oo-{\kf375}ooh
-Dialogue: 0,0:02:07.19,0:02:15.11,DEFAULT,,0,0,0,,{\kf341}Ooo-{\kf401}ooo-{\kf326}ooo-{\kf405}ooo-{\kf330}ooo-{\kf341}ooo-{\kf281}oo-{\kf375}ooh
-Dialogue: 0,0:02:16.19,0:02:18.22,DEFAULT,,0,0,0,,{\kf281}Then{\kf285} she{\kf285} got{\kf285} to{\kf289} Po{\kf281}ny{\kf289}ville
-Dialogue: 0,0:02:18.56,0:02:20.58,DEFAULT,,0,0,0,,{\kf289}Ly{\kf285}ing{\kf285} near{\kf281}ly{\kf281} got{\kf281} her{\kf289} killed
-Dialogue: 0,0:02:20.99,0:02:25.42,DEFAULT,,0,0,0,,{\kf281}She{\kf285} was{\kf285} showed{\kf281} up{\kf285} by{\kf278} a{\kf285} mage{\kf281} who{\kf285} great{\kf278}ly{\kf285} tri{\kf281}umphed{\kf281} her{\kf281} in{\kf289} skill
-Dialogue: 0,0:02:25.76,0:02:27.82,DEFAULT,,0,0,0,,{\kf285}Left{\kf281} with{\kf285} no{\kf281}thing{\kf281} but{\kf281} a{\kf289} name
-Dialogue: 0,0:02:28.19,0:02:30.18,DEFAULT,,0,0,0,,{\kf285}Fueled{\kf285} with{\kf281} ha{\kf281}tred{\kf281} by{\kf281} her{\kf289} shame
-Dialogue: 0,0:02:30.59,0:02:34.83,DEFAULT,,0,0,0,,{\kf281}She{\kf281} dest{\kf285}royed{\kf285} her{\kf281} re{\kf281}pu{\kf285}ta{\kf281}tion{\kf281} and{\kf281} then{\kf285} ev{\kf281}ery{\kf281}thing{\kf296} else
-Dialogue: 0,0:02:55.27,0:03:03.18,DEFAULT,,0,0,0,,{\kf341}Ooo-{\kf394}ooo-{\kf326}ooo-{\kf409}ooo-{\kf334}ooo-{\kf341}ooo-{\kf281}oo-{\kf375}ooh
-Dialogue: 0,0:03:04.87,0:03:12.78,DEFAULT,,0,0,0,,{\kf338}Ooo-{\kf394}ooo-{\kf326}ooo-{\kf405}ooo-{\kf338}ooo-{\kf341}ooo-{\kf281}oo-{\kf375}ooh
+Dialogue: 0,0:00:02.66,0:00:04.08,DEFAULT,,0,0,0,,{\r}{\kf26}A{\kf32} young{\kf26} ma{\kf26}gi{\kf32}cian
+Dialogue: 0,0:00:05.10,0:00:06.45,DEFAULT,,0,0,0,,{\r}{\kf23}With{\kf29} strong{\kf23} am{\kf29}bi{\kf31}tion
+Dialogue: 0,0:00:07.46,0:00:08.85,DEFAULT,,0,0,0,,{\r}{\kf19}She's{\kf32} de{\kf25}di{\kf38}ca{\kf25}ted
+Dialogue: 0,0:00:09.00,0:00:09.97,DEFAULT,,0,0,0,,{\r}{\kf23}Un{\kf23}der{\kf34}ra{\kf17}ted
+Dialogue: 0,0:00:10.12,0:00:11.88,DEFAULT,,0,0,0,,{\r}{\kf24}But{\kf24} she{\kf36} pla-{\kf30}ans{\kf24} to{\kf38} change
+Dialogue: 0,0:00:12.30,0:00:13.69,DEFAULT,,0,0,0,,{\r}{\kf25}She{\kf25} met{\kf25} her{\kf32} i{\kf32}dol
+Dialogue: 0,0:00:14.66,0:00:16.09,DEFAULT,,0,0,0,,{\r}{\kf24}Talked{\kf36} for{\kf18} a{\kf36} whi{\kf29}le
+Dialogue: 0,0:00:17.10,0:00:18.41,DEFAULT,,0,0,0,,{\r}{\kf20}She{\kf33} learned{\kf26} his{\kf33} tri-{\kf19}ick
+Dialogue: 0,0:00:18.60,0:00:19.61,DEFAULT,,0,0,0,,{\r}{\kf27}She{\kf27} was{\kf27} pi-{\kf20}icked
+Dialogue: 0,0:00:19.84,0:00:21.48,DEFAULT,,0,0,0,,{\r}{\kf19}To{\kf32} go{\kf32} out{\kf44} on{\kf38} stage
+Dialogue: 0,0:00:21.64,0:00:29.51,DEFAULT,,0,0,0,,{\r}{\kf85}Ooo-{\kf152}ooo-{\kf67}ooo-{\kf170}ooo-{\kf81}ooo-{\kf90}ooo-{\kf18}oo-{\kf125}ooh
+Dialogue: 0,0:00:31.20,0:00:39.11,DEFAULT,,0,0,0,,{\r}{\kf87}Ooo-{\kf156}ooo-{\kf70}ooo-{\kf170}ooo-{\kf78}ooo-{\kf87}ooo-{\kf17}oo-{\kf126}ooh
+Dialogue: 0,0:00:40.16,0:00:42.19,DEFAULT,,0,0,0,,{\r}{\kf31}She{\kf31} got{\kf31} caught{\kf31} up{\kf25} in{\kf25} the{\kf29} fame
+Dialogue: 0,0:00:42.56,0:00:44.55,DEFAULT,,0,0,0,,{\r}{\kf30}Proud{\kf30}ly{\kf36} shout{\kf24}ing{\kf24} out{\kf24} her{\kf31} name
+Dialogue: 0,0:00:45.00,0:00:49.42,DEFAULT,,0,0,0,,{\r}{\kf24}Took{\kf30} her{\kf36} ye-{\kf24}ears,{\kf30} now{\kf24} she{\kf36} fin{\kf30}ally{\kf30} had{\kf24} a{\kf30} crowd{\kf30} to{\kf30} en{\kf30}ter{\kf35}tain
+Dialogue: 0,0:00:49.80,0:00:51.78,DEFAULT,,0,0,0,,{\r}{\kf19}Hooves{\kf31} were{\kf31} stom{\kf31}ping{\kf25} on{\kf25} the{\kf37} floor
+Dialogue: 0,0:00:52.20,0:00:54.19,DEFAULT,,0,0,0,,{\r}{\kf24}Screa{\kf24}ming,{\kf30} shou{\kf24}ting{\kf30} for{\kf30} en{\kf37}core
+Dialogue: 0,0:00:54.56,0:00:59.02,DEFAULT,,0,0,0,,{\r}{\kf29}Trix{\kf23}ie{\kf70} got{\kf35} her{\kf23} at{\kf23}ten{\kf23}tion{\kf29} and{\kf29} de{\kf29}si{\kf23}red{\kf23} for{\kf87} more
+Dialogue: 0,0:01:19.27,0:01:27.19,DEFAULT,,0,0,0,,{\r}{\kf87}Ooo-{\kf153}ooo-{\kf70}ooo-{\kf170}ooo-{\kf79}ooo-{\kf87}ooo-{\kf17}oo-{\kf128}ooh
+Dialogue: 0,0:01:28.83,0:01:36.75,DEFAULT,,0,0,0,,{\r}{\kf86}Ooo-{\kf156}ooo-{\kf69}ooo-{\kf164}ooo-{\kf86}ooo-{\kf86}ooo-{\kf17}oo-{\kf127}ooh
+Dialogue: 0,0:01:38.70,0:01:40.08,DEFAULT,,0,0,0,,{\r}{\kf24}A{\kf30} month{\kf24} of{\kf30} tour{\kf31}ing
+Dialogue: 0,0:01:41.10,0:01:42.48,DEFAULT,,0,0,0,,{\r}{\kf21}Her{\kf28} shows{\kf28} were{\kf35} bor{\kf27}ing
+Dialogue: 0,0:01:43.50,0:01:44.85,DEFAULT,,0,0,0,,{\r}{\kf22}With{\kf34}out{\kf22} a{\kf34} na-{\kf23}ame
+Dialogue: 0,0:01:45.00,0:01:46.01,DEFAULT,,0,0,0,,{\r}{\kf24}Dipped{\kf24} in{\kf36} fa-{\kf17}ame
+Dialogue: 0,0:01:46.16,0:01:47.92,DEFAULT,,0,0,0,,{\r}{\kf34}Not{\kf23} a{\kf34} soul{\kf45} would{\kf40} care
+Dialogue: 0,0:01:48.26,0:01:49.69,DEFAULT,,0,0,0,,{\r}{\kf24}Her{\kf30} con{\kf24}stant{\kf36} fa{\kf29}ding
+Dialogue: 0,0:01:50.70,0:01:52.12,DEFAULT,,0,0,0,,{\r}{\kf25}Was{\kf31} ir{\kf25}ri{\kf31}ta{\kf31}ting
+Dialogue: 0,0:01:53.14,0:01:54.41,DEFAULT,,0,0,0,,{\r}{\kf26}This{\kf26} false{\kf32} di{\kf26}rec{\kf18}tion
+Dialogue: 0,0:01:54.56,0:01:55.61,DEFAULT,,0,0,0,,{\r}{\kf33}Of{\kf26} at{\kf26}ten{\kf20}tion
+Dialogue: 0,0:01:55.76,0:01:57.45,DEFAULT,,0,0,0,,{\r}{\kf28}Just{\kf21} felt{\kf42} so{\kf42} un{\kf36}fair
+Dialogue: 0,0:01:57.64,0:02:05.55,DEFAULT,,0,0,0,,{\r}{\kf87}Ooo-{\kf148}ooo-{\kf78}ooo-{\kf165}ooo-{\kf83}ooo-{\kf87}ooo-{\kf17}oo-{\kf126}ooh
+Dialogue: 0,0:02:07.20,0:02:15.11,DEFAULT,,0,0,0,,{\r}{\kf88}Ooo-{\kf159}ooo-{\kf71}ooo-{\kf164}ooo-{\kf75}ooo-{\kf88}ooo-{\kf18}oo-{\kf128}ooh
+Dialogue: 0,0:02:16.20,0:02:18.22,DEFAULT,,0,0,0,,{\r}{\kf23}Then{\kf29} she{\kf29} got{\kf29} to{\kf35} Po{\kf23}ny{\kf35}ville
+Dialogue: 0,0:02:18.56,0:02:20.59,DEFAULT,,0,0,0,,{\r}{\kf36}Ly{\kf30}ing{\kf30} near{\kf24}ly{\kf24} got{\kf24} her{\kf34} killed
+Dialogue: 0,0:02:21.00,0:02:25.42,DEFAULT,,0,0,0,,{\r}{\kf27}She{\kf33} was{\kf33} showed{\kf27} up{\kf33} by{\kf20} a{\kf33} mage{\kf27} who{\kf33} great{\kf20}ly{\kf33} tri{\kf27}umphed{\kf27} her{\kf27} in{\kf42} skill
+Dialogue: 0,0:02:25.76,0:02:27.82,DEFAULT,,0,0,0,,{\r}{\kf32}Left{\kf26} with{\kf32} no{\kf26}thing{\kf26} but{\kf26} a{\kf38} name
+Dialogue: 0,0:02:28.20,0:02:30.19,DEFAULT,,0,0,0,,{\r}{\kf31}Fueled{\kf31} with{\kf25} ha{\kf25}tred{\kf25} by{\kf25} her{\kf37} shame
+Dialogue: 0,0:02:30.60,0:02:34.84,DEFAULT,,0,0,0,,{\r}{\kf27}She{\kf27} dest{\kf33}royed{\kf33} her{\kf27} re{\kf27}pu{\kf33}ta{\kf27}tion{\kf27} and{\kf27} then{\kf33} ev{\kf27}ery{\kf27}thing{\kf49} else
+Dialogue: 0,0:02:55.27,0:03:03.19,DEFAULT,,0,0,0,,{\r}{\kf88}Ooo-{\kf150}ooo-{\kf71}ooo-{\kf168}ooo-{\kf80}ooo-{\kf88}ooo-{\kf18}oo-{\kf128}ooh
+Dialogue: 0,0:03:04.87,0:03:12.78,DEFAULT,,0,0,0,,{\r}{\kf84}Ooo-{\kf151}ooo-{\kf71}ooo-{\kf164}ooo-{\kf84}ooo-{\kf89}ooo-{\kf18}oo-{\kf130}ooh

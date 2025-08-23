@@ -1,63 +1,70 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Run Away
+Artist: Duo Cartoonist
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.35,0:00:17.72,DEFAULT,,0,0,0,,{\kf45}All{\kf23} in{\kf34} life{\kf34} has{\kf19} a{\kf57} price
-Dialogue: 0,0:00:18.14,0:00:20.27,DEFAULT,,0,0,0,,{\kf19}With{\kf34} ta{\kf34}lent{\kf23} comes{\kf45} strife
-Dialogue: 0,0:00:20.84,0:00:25.07,DEFAULT,,0,0,0,,{\kf19}To{\kf27} ho{\kf38}nor{\kf19} all{\kf38} those{\kf38} who{\kf23} be{\kf49}lieved{\kf19} in{\kf42} you
-Dialogue: 0,0:00:25.19,0:00:28.52,DEFAULT,,0,0,0,,{\kf49}Then,{\kf23} one{\kf30} day{\kf38} you'll{\kf30} look{\kf57} back
-Dialogue: 0,0:00:29.01,0:00:31.26,DEFAULT,,0,0,0,,{\kf19}See{\kf23} just{\kf27} what{\kf27} you{\kf27} la{\kf38}-ack
-Dialogue: 0,0:00:31.71,0:00:33.21,DEFAULT,,0,0,0,,{\kf15}Well,{\kf30} you{\kf42} could{\kf23} have
-Dialogue: 0,0:00:33.40,0:00:36.14,DEFAULT,,0,0,0,,{\kf30}If{\kf27} you{\kf23} had{\kf30} chose{\kf12} a{\kf30}no{\kf15}ther{\kf38} path
-Dialogue: 0,0:00:36.40,0:00:41.57,DEFAULT,,0,0,0,,{\kf12}All{\kf8} the{\kf30} things{\kf19} they{\kf19} taught{\kf27} me,{\kf19} to{\kf38} help{\kf27} me{\kf109} gro{\kf30}-o{\kf38}-ow
-Dialogue: 0,0:00:41.84,0:00:46.82,DEFAULT,,0,0,0,,{\kf12}Now{\kf15} I'm{\kf19} asked{\kf27} to{\kf34} hold{\kf38} back{\kf23} and{\kf49} let{\kf30} it{\kf158} go
-Dialogue: 0,0:00:47.31,0:00:49.22,DEFAULT,,0,0,0,,{\kf12}Well,{\kf15} if{\kf19} I{\kf23} can't{\kf27} be{\kf19} my{\kf23}self
-Dialogue: 0,0:00:49.34,0:00:52.34,DEFAULT,,0,0,0,,{\kf12}That{\kf12} just{\kf30} means{\kf15} I{\kf30} don't{\kf15} be{\kf147}long
-Dialogue: 0,0:00:52.75,0:00:54.70,DEFAULT,,0,0,0,,{\kf8}You{\kf12} can{\kf30} count{\kf19} me{\kf12} out{\kf8} of{\kf27} this{\kf30} game
-Dialogue: 0,0:00:54.85,0:00:59.84,DEFAULT,,0,0,0,,{\kf8}I{\kf8} re{\kf27}fuse{\kf23} to{\kf30} play{\kf12} a{\kf353}long!
-Dialogue: 0,0:01:05.99,0:01:08.65,DEFAULT,,0,0,0,,{\kf12}I{\kf34} can't{\kf23} hold{\kf34} back{\kf27} this{\kf15} fee{\kf38}ling
-Dialogue: 0,0:01:09.59,0:01:12.02,DEFAULT,,0,0,0,,{\kf12}I{\kf23} don't{\kf23} think{\kf34} I{\kf27} can{\kf53} stay
-Dialogue: 0,0:01:12.92,0:01:16.11,DEFAULT,,0,0,0,,{\kf19}This{\kf30} place{\kf19} no{\kf38} lon{\kf30}ger{\kf19} feels{\kf27} like{\kf49} home
-Dialogue: 0,0:01:16.56,0:01:18.96,DEFAULT,,0,0,0,,{\kf15}I{\kf15} wish{\kf30} to{\kf19} run{\kf12} a{\kf45}way
-Dialogue: 0,0:01:22.45,0:01:29.54,DEFAULT,,0,0,0,,{\kf49}Run{\kf30} a{\kf600}way
-Dialogue: 0,0:01:29.72,0:01:32.65,DEFAULT,,0,0,0,,{\kf34}Run{\kf27} a{\kf45}way,{\kf19} run{\kf12} a{\kf49}way
-Dialogue: 0,0:01:33.36,0:01:36.47,DEFAULT,,0,0,0,,{\kf15}Don't{\kf15} look{\kf34} back,{\kf49} it's{\kf27} o{\kf83}ka{\kf23}-y
-Dialogue: 0,0:01:36.62,0:01:39.70,DEFAULT,,0,0,0,,{\kf19}Race{\kf12} the{\kf38} wind,{\kf45} be{\kf30} the{\kf30} first{\kf12} to{\kf45} find
-Dialogue: 0,0:01:39.92,0:01:42.40,DEFAULT,,0,0,0,,{\kf27}The{\kf38} light{\kf27} of{\kf38} a{\kf38} new{\kf38} day
-Dialogue: 0,0:01:42.66,0:01:45.85,DEFAULT,,0,0,0,,{\kf53}Run{\kf19} a{\kf60}way,{\kf15} run{\kf15} a{\kf57}way
-Dialogue: 0,0:01:46.52,0:01:49.71,DEFAULT,,0,0,0,,{\kf15}There's{\kf19} no{\kf27} rea{\kf23}son{\kf42} left{\kf27} to{\kf87} sta{\kf30}-y
-Dialogue: 0,0:01:49.82,0:01:52.90,DEFAULT,,0,0,0,,{\kf15}I{\kf8} won't{\kf34} shed{\kf8} a{\kf38} sin{\kf30}gle{\kf38} tear{\kf15} be{\kf42}cause
-Dialogue: 0,0:01:53.16,0:01:59.35,DEFAULT,,0,0,0,,{\kf23}My{\kf169} life{\kf15} be{\kf27}gins{\kf34} to{\kf270}day
-Dialogue: 0,0:01:59.76,0:02:02.46,DEFAULT,,0,0,0,,{\kf15}I{\kf12} o{\kf64}beyed{\kf49} eve{\kf27}ry{\kf60} rule
-Dialogue: 0,0:02:03.10,0:02:05.69,DEFAULT,,0,0,0,,{\kf19}And{\kf12} I{\kf42} feel{\kf49} like{\kf19} a{\kf12}-a{\kf53} fool
-Dialogue: 0,0:02:06.32,0:02:08.35,DEFAULT,,0,0,0,,{\kf23}When{\kf12} I{\kf38} see{\kf15} where{\kf34} all{\kf30} that
-Dialogue: 0,0:02:08.46,0:02:12.25,DEFAULT,,0,0,0,,{\kf42} Com{\kf57}pli{\kf34}ance{\kf53} has{\kf49} got{\kf27}ten{\kf64} me
-Dialogue: 0,0:02:12.92,0:02:15.40,DEFAULT,,0,0,0,,{\kf23}Those{\kf15} I{\kf45} love,{\kf49} I{\kf19} wi{\kf12}-ill{\kf42} miss
-Dialogue: 0,0:02:16.19,0:02:18.92,DEFAULT,,0,0,0,,{\kf23}Please{\kf12} for{\kf45}give{\kf42} me{\kf19} fo{\kf12}-or{\kf57} this
-Dialogue: 0,0:02:19.52,0:02:21.92,DEFAULT,,0,0,0,,{\kf19}But{\kf12} I{\kf38} know{\kf38} that{\kf27} you're{\kf34} strong
-Dialogue: 0,0:02:22.07,0:02:28.60,DEFAULT,,0,0,0,,{\kf12}And{\kf23} you{\kf30} don't{\kf53} ne{\kf49}-ed{\kf34} me{\kf372} here
-Dialogue: 0,0:02:31.56,0:02:34.60,DEFAULT,,0,0,0,,{\kf15}That{\kf23} one{\kf30} time{\kf27} I{\kf30} went{\kf30} on{\kf19} my{\kf12}-y{\kf57} own
-Dialogue: 0,0:02:34.75,0:02:37.37,DEFAULT,,0,0,0,,{\kf8}And{\kf15} I{\kf30} dared{\kf12} to{\kf27} cross{\kf42} the{\kf72} line
-Dialogue: 0,0:02:37.90,0:02:40.97,DEFAULT,,0,0,0,,{\kf15}I{\kf23} found{\kf27} out{\kf12} the{\kf34} cou{\kf30}rage{\kf34} with{\kf15}in{\kf38} me
-Dialogue: 0,0:02:41.24,0:02:44.31,DEFAULT,,0,0,0,,{\kf12}And{\kf15} I{\kf38} learned{\kf15} to{\kf34} rise{\kf27} a{\kf19}-nd{\kf90} shine
-Dialogue: 0,0:02:44.57,0:02:47.27,DEFAULT,,0,0,0,,{\kf19}I've{\kf15} been{\kf30} drea{\kf19}ming{\kf34} of{\kf15} ad{\kf30}ven{\kf45}ture
-Dialogue: 0,0:02:47.84,0:02:50.46,DEFAULT,,0,0,0,,{\kf12}E{\kf12}ver{\kf27} since{\kf15} that{\kf30} faith{\kf30}fu{\kf23}-ul{\kf60} day
-Dialogue: 0,0:02:51.10,0:02:53.76,DEFAULT,,0,0,0,,{\kf15}Live{\kf12} is{\kf30} forged{\kf15} by{\kf34} my{\kf27} own{\kf23} choi{\kf38}ces
-Dialogue: 0,0:02:54.29,0:02:59.61,DEFAULT,,0,0,0,,{\kf19}I{\kf19} don't{\kf34} care{\kf15} what{\kf27} they{\kf34} ma{\kf15}-y{\kf312} say
-Dialogue: 0,0:03:00.51,0:03:06.92,DEFAULT,,0,0,0,,{\kf38}So{\kf23} I'll{\kf548} say
-Dialogue: 0,0:03:07.11,0:03:10.07,DEFAULT,,0,0,0,,{\kf45}Run{\kf12} a{\kf49}way,{\kf19} run{\kf12} a{\kf60}way
-Dialogue: 0,0:03:10.75,0:03:13.82,DEFAULT,,0,0,0,,{\kf15}Don't{\kf15} look{\kf42} back,{\kf45} it's{\kf30} o{\kf75}ka{\kf23}-y
-Dialogue: 0,0:03:13.97,0:03:17.05,DEFAULT,,0,0,0,,{\kf19}Race{\kf12} the{\kf49} wind,{\kf34} be{\kf30} the{\kf30} first{\kf12} to{\kf45} find
-Dialogue: 0,0:03:17.27,0:03:19.97,DEFAULT,,0,0,0,,{\kf23}The{\kf42} light{\kf15} of{\kf49} a{\kf42} new{\kf23} da{\kf42}-y
-Dialogue: 0,0:03:20.12,0:03:23.16,DEFAULT,,0,0,0,,{\kf42}Run{\kf15} a{\kf57}way,{\kf19} run{\kf15} a{\kf64}way
-Dialogue: 0,0:03:23.76,0:03:26.61,DEFAULT,,0,0,0,,{\kf19}There's{\kf19} no{\kf27} rea{\kf19}son{\kf49} left{\kf15} to{\kf64} sta{\kf19}y
-Dialogue: 0,0:03:26.87,0:03:29.35,DEFAULT,,0,0,0,,{\kf15}I{\kf19} won't{\kf42} shed{\kf8} a{\kf45} sing{\kf27}le{\kf30} tear
-Dialogue: 0,0:03:29.50,0:03:32.84,DEFAULT,,0,0,0,,{\kf12}Be{\kf49}cause{\kf30} my{\kf214} life
-Dialogue: 0,0:03:33.17,0:03:46.82,DEFAULT,,0,0,0,,{\kf27}Yes,{\kf27} my{\kf34} li{\kf15}-i{\kf19}-i{\kf60}-ife{\kf23} be{\kf75}gins{\kf90} to{\kf840}day
+Dialogue: 0,0:00:14.35,0:00:17.73,DEFAULT,,0,0,0,,{\r}{\kf72}All{\kf36} in{\kf54} life{\kf54} has{\kf30} a{\kf92} price
+Dialogue: 0,0:00:18.14,0:00:20.28,DEFAULT,,0,0,0,,{\r}{\kf26}With{\kf47} ta{\kf47}lent{\kf31} comes{\kf63} strife
+Dialogue: 0,0:00:20.84,0:00:25.08,DEFAULT,,0,0,0,,{\r}{\kf26}To{\kf36} ho{\kf52}nor{\kf26} all{\kf52} those{\kf52} who{\kf31} be{\kf67}lieved{\kf26} in{\kf56} you
+Dialogue: 0,0:00:25.19,0:00:28.53,DEFAULT,,0,0,0,,{\r}{\kf72}Then,{\kf33} one{\kf45} day{\kf56} you'll{\kf45} look{\kf83} back
+Dialogue: 0,0:00:29.02,0:00:31.27,DEFAULT,,0,0,0,,{\r}{\kf27}See{\kf32} just{\kf38} what{\kf38} you{\kf38} la{\kf52}-ack
+Dialogue: 0,0:00:31.72,0:00:33.22,DEFAULT,,0,0,0,,{\r}{\kf21}Well,{\kf41} you{\kf57} could{\kf31} have
+Dialogue: 0,0:00:33.40,0:00:36.14,DEFAULT,,0,0,0,,{\r}{\kf41}If{\kf36} you{\kf30} had{\kf41} chose{\kf15} a{\kf41}no{\kf20}ther{\kf50} path
+Dialogue: 0,0:00:36.40,0:00:41.58,DEFAULT,,0,0,0,,{\r}{\kf16}All{\kf10} the{\kf42} things{\kf26} they{\kf26} taught{\kf37} me,{\kf26} to{\kf52} help{\kf37} me{\kf152} gro{\kf42}-o{\kf52}-ow
+Dialogue: 0,0:00:41.84,0:00:46.83,DEFAULT,,0,0,0,,{\r}{\kf14}Now{\kf19} I'm{\kf23} asked{\kf33} to{\kf42} hold{\kf47} back{\kf28} and{\kf61} let{\kf37} it{\kf195} go
+Dialogue: 0,0:00:47.32,0:00:49.23,DEFAULT,,0,0,0,,{\r}{\kf16}Well,{\kf21} if{\kf27} I{\kf32} can't{\kf37} be{\kf27} my{\kf31}self
+Dialogue: 0,0:00:49.34,0:00:52.34,DEFAULT,,0,0,0,,{\r}{\kf13}That{\kf13} just{\kf35} means{\kf17} I{\kf35} don't{\kf17} be{\kf170}long
+Dialogue: 0,0:00:52.75,0:00:54.70,DEFAULT,,0,0,0,,{\r}{\kf10}You{\kf15} can{\kf41} count{\kf26} me{\kf15} out{\kf10} of{\kf36} this{\kf42} game
+Dialogue: 0,0:00:54.85,0:00:59.84,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf10} re{\kf29}fuse{\kf25} to{\kf33} play{\kf12} a{\kf380}long!
+Dialogue: 0,0:01:05.99,0:01:08.65,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf50} can't{\kf33} hold{\kf50} back{\kf39} this{\kf22} fee{\kf55}ling
+Dialogue: 0,0:01:09.59,0:01:12.03,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf33} don't{\kf33} think{\kf49} I{\kf38} can{\kf75} stay
+Dialogue: 0,0:01:12.93,0:01:16.12,DEFAULT,,0,0,0,,{\r}{\kf26}This{\kf42} place{\kf26} no{\kf52} lon{\kf42}ger{\kf26} feels{\kf37} like{\kf68} home
+Dialogue: 0,0:01:16.57,0:01:18.97,DEFAULT,,0,0,0,,{\r}{\kf27}I{\kf27} wish{\kf53} to{\kf33} run{\kf20} a{\kf80}way
+Dialogue: 0,0:01:22.45,0:01:29.54,DEFAULT,,0,0,0,,{\r}{\kf51}Run{\kf31} a{\kf627}way
+Dialogue: 0,0:01:29.73,0:01:32.65,DEFAULT,,0,0,0,,{\r}{\kf54}Run{\kf42} a{\kf72}way,{\kf30} run{\kf18} a{\kf76}way
+Dialogue: 0,0:01:33.37,0:01:36.48,DEFAULT,,0,0,0,,{\r}{\kf19}Don't{\kf19} look{\kf43} back,{\kf62} it's{\kf33} o{\kf105}ka{\kf30}-y
+Dialogue: 0,0:01:36.63,0:01:39.70,DEFAULT,,0,0,0,,{\r}{\kf25}Race{\kf15} the{\kf50} wind,{\kf61} be{\kf40} the{\kf40} first{\kf15} to{\kf62} find
+Dialogue: 0,0:01:39.93,0:01:42.40,DEFAULT,,0,0,0,,{\r}{\kf32}The{\kf46} light{\kf32} of{\kf46} a{\kf46} new{\kf45} day
+Dialogue: 0,0:01:42.67,0:01:45.85,DEFAULT,,0,0,0,,{\r}{\kf77}Run{\kf28} a{\kf88}way,{\kf22} run{\kf22} a{\kf82}way
+Dialogue: 0,0:01:46.53,0:01:49.72,DEFAULT,,0,0,0,,{\r}{\kf18}There's{\kf22} no{\kf31} rea{\kf27}son{\kf49} left{\kf31} to{\kf103} sta{\kf38}-y
+Dialogue: 0,0:01:49.83,0:01:52.90,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf10} won't{\kf46} shed{\kf10} a{\kf51} sin{\kf41}gle{\kf51} tear{\kf21} be{\kf57}cause
+Dialogue: 0,0:01:53.17,0:01:59.35,DEFAULT,,0,0,0,,{\r}{\kf26}My{\kf195} life{\kf17} be{\kf30}gins{\kf39} to{\kf312}day
+Dialogue: 0,0:01:59.77,0:02:02.47,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf14} o{\kf76}beyed{\kf58} eve{\kf32}ry{\kf72} rule
+Dialogue: 0,0:02:03.10,0:02:05.69,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf14} I{\kf53} feel{\kf62} like{\kf24} a{\kf14}-a{\kf68} fool
+Dialogue: 0,0:02:06.33,0:02:08.35,DEFAULT,,0,0,0,,{\r}{\kf30}When{\kf15} I{\kf51} see{\kf20} where{\kf46} all{\kf41} that
+Dialogue: 0,0:02:08.47,0:02:12.25,DEFAULT,,0,0,0,,{\r}{\kf48} Com{\kf66}pli{\kf40}ance{\kf62} has{\kf57} got{\kf31}ten{\kf75} me
+Dialogue: 0,0:02:12.93,0:02:15.40,DEFAULT,,0,0,0,,{\r}{\kf27}Those{\kf18} I{\kf55} love,{\kf59} I{\kf23} wi{\kf14}-ill{\kf51} miss
+Dialogue: 0,0:02:16.19,0:02:18.93,DEFAULT,,0,0,0,,{\r}{\kf30}Please{\kf15} for{\kf60}give{\kf55} me{\kf25} fo{\kf15}-or{\kf74} this
+Dialogue: 0,0:02:19.53,0:02:21.93,DEFAULT,,0,0,0,,{\r}{\kf27}But{\kf16} I{\kf55} know{\kf55} that{\kf38} you're{\kf49} strong
+Dialogue: 0,0:02:22.08,0:02:28.60,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf26} you{\kf34} don't{\kf60} ne{\kf56}-ed{\kf39} me{\kf425} here
+Dialogue: 0,0:02:31.57,0:02:34.60,DEFAULT,,0,0,0,,{\r}{\kf19}That{\kf28} one{\kf38} time{\kf33} I{\kf38} went{\kf38} on{\kf24} my{\kf14}-y{\kf72} own
+Dialogue: 0,0:02:34.75,0:02:37.38,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf19} I{\kf39} dared{\kf15} to{\kf34} cross{\kf53} the{\kf92} line
+Dialogue: 0,0:02:37.90,0:02:40.98,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf31} found{\kf36} out{\kf15} the{\kf46} cou{\kf41}rage{\kf46} with{\kf20}in{\kf52} me
+Dialogue: 0,0:02:41.24,0:02:44.32,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf19} I{\kf47} learned{\kf19} to{\kf42} rise{\kf33} a{\kf23}-nd{\kf111} shine
+Dialogue: 0,0:02:44.58,0:02:47.28,DEFAULT,,0,0,0,,{\r}{\kf25}I've{\kf20} been{\kf39} drea{\kf25}ming{\kf44} of{\kf20} ad{\kf39}ven{\kf58}ture
+Dialogue: 0,0:02:47.84,0:02:50.47,DEFAULT,,0,0,0,,{\r}{\kf14}E{\kf14}ver{\kf33} since{\kf19} that{\kf38} faith{\kf38}fu{\kf29}-ul{\kf77} day
+Dialogue: 0,0:02:51.10,0:02:53.77,DEFAULT,,0,0,0,,{\r}{\kf21}Live{\kf16} is{\kf42} forged{\kf21} by{\kf47} my{\kf37} own{\kf31} choi{\kf51}ces
+Dialogue: 0,0:02:54.29,0:02:59.62,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21} don't{\kf38} care{\kf17} what{\kf30} they{\kf38} ma{\kf17}-y{\kf351} say
+Dialogue: 0,0:03:00.52,0:03:06.93,DEFAULT,,0,0,0,,{\r}{\kf40}So{\kf24} I'll{\kf577} say
+Dialogue: 0,0:03:07.12,0:03:10.08,DEFAULT,,0,0,0,,{\r}{\kf68}Run{\kf17} a{\kf74}way,{\kf28} run{\kf17} a{\kf92}way
+Dialogue: 0,0:03:10.75,0:03:13.83,DEFAULT,,0,0,0,,{\r}{\kf19}Don't{\kf19} look{\kf52} back,{\kf57} it's{\kf38} o{\kf94}ka{\kf28}-y
+Dialogue: 0,0:03:13.98,0:03:17.05,DEFAULT,,0,0,0,,{\r}{\kf25}Race{\kf15} the{\kf65} wind,{\kf45} be{\kf40} the{\kf40} first{\kf15} to{\kf62} find
+Dialogue: 0,0:03:17.28,0:03:19.98,DEFAULT,,0,0,0,,{\r}{\kf26}The{\kf48} light{\kf17} of{\kf57} a{\kf48} new{\kf26} da{\kf48}-y
+Dialogue: 0,0:03:20.13,0:03:23.17,DEFAULT,,0,0,0,,{\r}{\kf60}Run{\kf22} a{\kf81}way,{\kf27} run{\kf22} a{\kf92}way
+Dialogue: 0,0:03:23.77,0:03:26.62,DEFAULT,,0,0,0,,{\r}{\kf23}There's{\kf23} no{\kf33} rea{\kf23}son{\kf61} left{\kf19} to{\kf79} sta{\kf24}y
+Dialogue: 0,0:03:26.88,0:03:29.35,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf25} won't{\kf55} shed{\kf10} a{\kf60} sing{\kf35}le{\kf42} tear
+Dialogue: 0,0:03:29.50,0:03:32.84,DEFAULT,,0,0,0,,{\r}{\kf12}Be{\kf54}cause{\kf33} my{\kf235} life
+Dialogue: 0,0:03:33.18,0:03:46.83,DEFAULT,,0,0,0,,{\r}{\kf30}Yes,{\kf30} my{\kf38} li{\kf17}-i{\kf21}-i{\kf68}-ife{\kf25} be{\kf85}gins{\kf102} to{\kf949}day

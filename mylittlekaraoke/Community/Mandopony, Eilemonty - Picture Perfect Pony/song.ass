@@ -1,78 +1,85 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Picture Perfect Pony
+Artist: MandoPony, EileMonty
+Original Timing: mylittlekaraoke.com by Profpatsch
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.30,0:00:12.24,DEFAULT,,0,0,0,,{\kf38}There's{\kf59} something{\kf17} I{\kf38} want{\kf11} to{\kf54} share{\kf27} with{\kf54} you
-Dialogue: 0,0:00:13.58,0:00:17.39,DEFAULT,,0,0,0,,{\kf22}And{\kf27} I{\kf27} think{\kf17} you{\kf38} all{\kf27} are{\kf27} very{\kf38} much{\kf33} going{\kf33} to{\kf33} like{\kf65} it
-Dialogue: 0,0:00:18.51,0:00:20.60,DEFAULT,,0,0,0,,{\kf17}You're{\kf33} going{\kf22} to{\kf43} love{\kf22} what{\kf11} you{\kf65} see
-Dialogue: 0,0:00:22.47,0:00:24.14,DEFAULT,,0,0,0,,{\kf22}If{\kf17} there's{\kf11} a{\kf17}ny{\kf22}thing{\kf11} you{\kf38} want
-Dialogue: 0,0:00:24.14,0:00:25.47,DEFAULT,,0,0,0,,{\kf22}You{\kf17} know{\kf17} I{\kf17} can{\kf17} give{\kf17} it
-Dialogue: 0,0:00:25.96,0:00:27.56,DEFAULT,,0,0,0,,{\kf17}If{\kf17} there{\kf17} is{\kf11} a{\kf27} dream{\kf17} you{\kf33} dream
-Dialogue: 0,0:00:27.67,0:00:28.96,DEFAULT,,0,0,0,,{\kf17}I{\kf17} can{\kf22} let{\kf17} you{\kf22} live{\kf17} it
-Dialogue: 0,0:00:29.39,0:00:30.94,DEFAULT,,0,0,0,,{\kf17}Take{\kf17} a{\kf22} chance{\kf11} and{\kf17} let{\kf17} me{\kf27} do
-Dialogue: 0,0:00:31.10,0:00:32.33,DEFAULT,,0,0,0,,{\kf17}What{\kf17} I{\kf17} do{\kf11} the{\kf33} best
-Dialogue: 0,0:00:32.81,0:00:34.31,DEFAULT,,0,0,0,,{\kf17}We{\kf17} can{\kf17} take{\kf17} you,{\kf17} clean{\kf11} you{\kf22} up
-Dialogue: 0,0:00:34.37,0:00:36.08,DEFAULT,,0,0,0,,{\kf17}And{\kf17} make{\kf11} you{\kf22} shine{\kf17} a{\kf17}bove{\kf17} the{\kf27} rest
-Dialogue: 0,0:00:36.14,0:00:37.53,DEFAULT,,0,0,0,,{\kf11}It{\kf22} does{\kf17}n't{\kf22} rea{\kf17}lly{\kf22} mat{\kf17}ter
-Dialogue: 0,0:00:37.58,0:00:39.35,DEFAULT,,0,0,0,,{\kf17}What{\kf17} they{\kf22} thought{\kf17} of{\kf17} you{\kf17} be{\kf43}fore
-Dialogue: 0,0:00:39.78,0:00:41.22,DEFAULT,,0,0,0,,{\kf17}By{\kf17} the{\kf17} time{\kf11} that{\kf22} I{\kf17} am{\kf17} done
-Dialogue: 0,0:00:41.28,0:00:42.78,DEFAULT,,0,0,0,,{\kf17}No{\kf17}po{\kf17}ny{\kf22} will{\kf11} i{\kf27}gno{\kf17}-ore
-Dialogue: 0,0:00:43.21,0:00:44.44,DEFAULT,,0,0,0,,{\kf27}You,{\kf17} lit{\kf22}tle{\kf33} you
-Dialogue: 0,0:00:44.55,0:00:46.21,DEFAULT,,0,0,0,,{\kf17}Now{\kf11} a{\kf22} great{\kf17} big{\kf22} su{\kf17}per{\kf43}star
-Dialogue: 0,0:00:46.64,0:00:47.92,DEFAULT,,0,0,0,,{\kf27}Stick{\kf22} with{\kf11} me{\kf17} ba{\kf22}by
-Dialogue: 0,0:00:47.92,0:00:49.96,DEFAULT,,0,0,0,,{\kf17}And{\kf17} I'll{\kf27} make{\kf17} you{\kf22} go{\kf75} far
-Dialogue: 0,0:00:50.39,0:00:52.53,DEFAULT,,0,0,0,,{\kf33}That's{\kf54} right,{\kf22} I{\kf33} can{\kf33} make{\kf33} you...
-Dialogue: 0,0:00:53.39,0:00:56.60,DEFAULT,,0,0,0,,{\kf17}A{\kf22} pic{\kf27}ture{\kf27} per{\kf17}fect{\kf33} po{\kf22}ny{\kf86}-y
-Dialogue: 0,0:00:56.92,0:00:58.53,DEFAULT,,0,0,0,,{\kf11}A{\kf22} pic{\kf38}ture{\kf33} per{\kf27}fect
-Dialogue: 0,0:00:58.74,0:01:00.35,DEFAULT,,0,0,0,,{\kf11}Po{\kf11}ny{\kf11} po{\kf11}ny{\kf11} po{\kf11}ny{\kf11} po{\kf11}ny
-Dialogue: 0,0:01:00.51,0:01:03.14,DEFAULT,,0,0,0,,{\kf27}Pic{\kf33}ture{\kf27} per{\kf17}fect{\kf38} po{\kf22}ny{\kf54}-y
-Dialogue: 0,0:01:03.78,0:01:05.49,DEFAULT,,0,0,0,,{\kf11}A{\kf33} pic{\kf27}ture{\kf33} per{\kf33}fect
-Dialogue: 0,0:01:05.60,0:01:07.31,DEFAULT,,0,0,0,,{\kf11}Po{\kf11}ny{\kf11} po{\kf11}ny{\kf11} po{\kf11}ny{\kf11} po{\kf22}ny
-Dialogue: 0,0:01:07.31,0:01:08.81,DEFAULT,,0,0,0,,{\kf22}Pho{\kf27}to{\kf11} fi{\kf11}nish,{\kf17} that's{\kf11} her{\kf22} name
-Dialogue: 0,0:01:08.81,0:01:10.53,DEFAULT,,0,0,0,,{\kf22}Makin'{\kf22} every{\kf22}pony{\kf17} pretty{\kf11} is{\kf11} her{\kf27} number{\kf22} one{\kf11} game
-Dialogue: 0,0:01:10.53,0:01:12.35,DEFAULT,,0,0,0,,{\kf22}She{\kf17} do{\kf11} what{\kf11} she{\kf17} do,{\kf27} to make{\kf11} you{\kf11} more{\kf17} than{\kf22} you
-Dialogue: 0,0:01:12.35,0:01:14.06,DEFAULT,,0,0,0,,{\kf17}No{\kf22}pony{\kf22} gonna{\kf11} care{\kf11} if{\kf11} what{\kf11} we{\kf27} share{\kf11} is{\kf33} true
-Dialogue: 0,0:01:14.06,0:01:15.78,DEFAULT,,0,0,0,,{\kf11}Cuz{\kf33} lies{\kf17} are{\kf38} beautiful,{\kf6} the{\kf27} truth{\kf11} is{\kf22} not
-Dialogue: 0,0:01:15.99,0:01:17.49,DEFAULT,,0,0,0,,{\kf11}Come{\kf11} on{\kf22} little{\kf17} mare,{\kf11} you{\kf11} better{\kf22} shake{\kf22} that{\kf22} plot
-Dialogue: 0,0:01:17.55,0:01:19.15,DEFAULT,,0,0,0,,{\kf11}You{\kf17} know{\kf11} that's{\kf11} what{\kf11} they{\kf22} really{\kf22} all{\kf22} came{\kf11} to{\kf27} see
-Dialogue: 0,0:01:19.31,0:01:20.92,DEFAULT,,0,0,0,,{\kf11}A{\kf43} picture{\kf43} perfect{\kf65} pony
-Dialogue: 0,0:01:21.14,0:01:22.85,DEFAULT,,0,0,0,,{\kf17}Why{\kf11} you{\kf17} gotta{\kf22} ruin{\kf22} every{\kf22}thing{\kf11} with{\kf54} questions?
-Dialogue: 0,0:01:22.85,0:01:24.35,DEFAULT,,0,0,0,,{\kf11}Shut{\kf22} tune{\kf22} out,{\kf22} and{\kf17} don't{\kf22} forget{\kf11} to{\kf17} mention
-Dialogue: 0,0:01:24.46,0:01:26.28,DEFAULT,,0,0,0,,{\kf11}How{\kf22} happy{\kf22} you{\kf22} are{\kf11} that{\kf17} they{\kf17} all{\kf17} came{\kf11} to{\kf17} see{\kf22} you
-Dialogue: 0,0:01:26.22,0:01:28.21,DEFAULT,,0,0,0,,{\kf11}Or{\kf11} how{\kf11} you{\kf38} understand{\kf43} everypony{\kf17} wants{\kf17} to{\kf22} be{\kf33} you
-Dialogue: 0,0:01:29.39,0:01:31.26,DEFAULT,,0,0,0,,{\kf27}Now{\kf22} let{\kf17} me{\kf17} clear{\kf17} up{\kf11} a{\kf17}ny{\kf22} doubts
-Dialogue: 0,0:01:31.31,0:01:32.81,DEFAULT,,0,0,0,,{\kf17}You{\kf17} may{\kf17} think{\kf17} you{\kf17} pos{\kf43}sess
-Dialogue: 0,0:01:33.24,0:01:34.90,DEFAULT,,0,0,0,,{\kf17}Eve{\kf17}ry{\kf17}po{\kf17}ny{\kf22} will{\kf11} a{\kf22}dore{\kf11} you
-Dialogue: 0,0:01:34.96,0:01:36.62,DEFAULT,,0,0,0,,{\kf17}When{\kf17} they{\kf17} see{\kf17} you{\kf17} in{\kf17} that{\kf38} dress
-Dialogue: 0,0:01:36.67,0:01:38.17,DEFAULT,,0,0,0,,{\kf38}Fans{\kf17} screa{\kf17}ming{\kf17} e{\kf17}very{\kf22}day
-Dialogue: 0,0:01:38.22,0:01:39.62,DEFAULT,,0,0,0,,{\kf17}To{\kf17} get{\kf17} a{\kf22} piece{\kf17} of{\kf33} you
-Dialogue: 0,0:01:40.15,0:01:41.81,DEFAULT,,0,0,0,,{\kf33}Lights,{\kf17} came{\kf11}ras{\kf11} all{\kf17} the{\kf43} time
-Dialogue: 0,0:01:41.81,0:01:43.15,DEFAULT,,0,0,0,,{\kf17}Wat{\kf22}ching{\kf22} what{\kf17} you{\kf22} do{\kf17}-o
-Dialogue: 0,0:01:43.31,0:01:44.65,DEFAULT,,0,0,0,,{\kf17}You{\kf17} know{\kf17} it's{\kf22} what{\kf17} you{\kf22} want
-Dialogue: 0,0:01:44.71,0:01:46.58,DEFAULT,,0,0,0,,{\kf11}I{\kf33} mean,{\kf22} how{\kf17} could{\kf17} you{\kf17} say{\kf38} no?
-Dialogue: 0,0:01:46.85,0:01:48.67,DEFAULT,,0,0,0,,{\kf17}There's{\kf22} ne{\kf17}ver{\kf17} been{\kf17} a{\kf17} po{\kf22}ny{\kf33} here
-Dialogue: 0,0:01:48.78,0:01:50.17,DEFAULT,,0,0,0,,{\kf17}With{\kf17} the{\kf27} guts{\kf11} to{\kf54} go
-Dialogue: 0,0:01:50.28,0:01:51.99,DEFAULT,,0,0,0,,{\kf17}And{\kf38} why{\kf17} would{\kf17} you{\kf17} run{\kf11} a{\kf22}way?
-Dialogue: 0,0:01:52.10,0:01:53.60,DEFAULT,,0,0,0,,{\kf17}It's{\kf22} e{\kf17}very{\kf22}po{\kf17}ny's{\kf43} dream
-Dialogue: 0,0:01:53.81,0:01:55.53,DEFAULT,,0,0,0,,{\kf17}To{\kf17} be{\kf11} a{\kf27} star{\kf11} in{\kf11} ou{\kf17}ter{\kf27} space
-Dialogue: 0,0:01:55.53,0:01:57.72,DEFAULT,,0,0,0,,{\kf11}Where{\kf22} no{\kf17}po{\kf17}ny{\kf22} he{\kf17}ars{\kf17} you{\kf33} scre{\kf27}am
-Dialogue: 0,0:01:57.67,0:01:59.60,DEFAULT,,0,0,0,,{\kf17}It's{\kf22} why{\kf22} you{\kf22} wan{\kf22}na{\kf43} be{\kf43} a...
-Dialogue: 0,0:01:59.60,0:02:02.39,DEFAULT,,0,0,0,,{\kf27}Pic{\kf33}ture{\kf22} per{\kf27}fect{\kf38} po{\kf17}ny{\kf65}-y
-Dialogue: 0,0:02:02.81,0:02:04.58,DEFAULT,,0,0,0,,{\kf11}A{\kf33} pic{\kf38}ture{\kf27} per{\kf27}fect
-Dialogue: 0,0:02:04.85,0:02:06.46,DEFAULT,,0,0,0,,{\kf11}Po{\kf11}ny{\kf11} po{\kf11}ny{\kf11} po{\kf11}ny{\kf11} po{\kf11}ny
-Dialogue: 0,0:02:06.56,0:02:09.30,DEFAULT,,0,0,0,,{\kf22}Pic{\kf43}ture{\kf33} per{\kf22}fect{\kf33} po{\kf22}ny{\kf59}-y
-Dialogue: 0,0:02:09.83,0:02:11.49,DEFAULT,,0,0,0,,{\kf11}A{\kf27} pic{\kf33}ture{\kf27} per{\kf27}fect
-Dialogue: 0,0:02:11.76,0:02:13.37,DEFAULT,,0,0,0,,{\kf11}Po{\kf11}ny{\kf11} po{\kf11}ny{\kf11} po{\kf11}ny{\kf11} po{\kf11}ny
-Dialogue: 0,0:02:13.42,0:02:16.05,DEFAULT,,0,0,0,,{\kf27}Pic{\kf33}ture{\kf27} per{\kf22}fect{\kf33} po{\kf17}ny{\kf49}-y
-Dialogue: 0,0:02:16.80,0:02:18.40,DEFAULT,,0,0,0,,{\kf11}A{\kf17} pic{\kf33}ture{\kf27} per{\kf27}fect
-Dialogue: 0,0:02:18.67,0:02:20.28,DEFAULT,,0,0,0,,{\kf11}Po{\kf11}ny{\kf11} po{\kf11}ny{\kf11} po{\kf11}ny{\kf11} po{\kf11}ny
-Dialogue: 0,0:02:20.33,0:02:23.06,DEFAULT,,0,0,0,,{\kf27}Pic{\kf43}ture{\kf22} per{\kf22}fect{\kf33} po{\kf22}ny{\kf59}-y
-Dialogue: 0,0:02:23.55,0:02:25.26,DEFAULT,,0,0,0,,{\kf17}A{\kf27} pic{\kf33}ture{\kf33} per{\kf27}fect
-Dialogue: 0,0:02:25.53,0:02:27.14,DEFAULT,,0,0,0,,{\kf11}Po{\kf11}ny{\kf11} po{\kf11}ny{\kf11} po{\kf11}ny{\kf11} po{\kf11}ny
+Dialogue: 0,0:00:09.30,0:00:12.25,DEFAULT,,0,0,0,,{\r}{\kf38}There's{\kf59} something{\kf16} I{\kf38} want{\kf11} to{\kf54} share{\kf27} with{\kf52} you
+Dialogue: 0,0:00:13.59,0:00:17.39,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf27} I{\kf27} think{\kf16} you{\kf37} all{\kf27} are{\kf27} very{\kf37} much{\kf32} going{\kf32} to{\kf32} like{\kf65} it
+Dialogue: 0,0:00:18.52,0:00:20.60,DEFAULT,,0,0,0,,{\r}{\kf16}You're{\kf32} going{\kf21} to{\kf43} love{\kf21} what{\kf11} you{\kf65} see
+Dialogue: 0,0:00:22.48,0:00:24.14,DEFAULT,,0,0,0,,{\r}{\kf27}If{\kf20} there's{\kf13} a{\kf20}ny{\kf27}thing{\kf13} you{\kf46} want
+Dialogue: 0,0:00:24.14,0:00:25.48,DEFAULT,,0,0,0,,{\r}{\kf28}You{\kf21} know{\kf21} I{\kf21} can{\kf21} give{\kf22} it
+Dialogue: 0,0:00:25.96,0:00:27.57,DEFAULT,,0,0,0,,{\r}{\kf19}If{\kf19} there{\kf19} is{\kf13} a{\kf32} dream{\kf19} you{\kf40} dream
+Dialogue: 0,0:00:27.68,0:00:28.96,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf19} can{\kf26} let{\kf19} you{\kf26} live{\kf20} it
+Dialogue: 0,0:00:29.39,0:00:30.94,DEFAULT,,0,0,0,,{\r}{\kf20}Take{\kf20} a{\kf27} chance{\kf13} and{\kf20} let{\kf20} me{\kf35} do
+Dialogue: 0,0:00:31.10,0:00:32.34,DEFAULT,,0,0,0,,{\r}{\kf22}What{\kf22} I{\kf22} do{\kf14} the{\kf43} best
+Dialogue: 0,0:00:32.82,0:00:34.32,DEFAULT,,0,0,0,,{\r}{\kf21}We{\kf21} can{\kf21} take{\kf21} you,{\kf21} clean{\kf14} you{\kf31} up
+Dialogue: 0,0:00:34.37,0:00:36.09,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} make{\kf13} you{\kf26} shine{\kf20} a{\kf20}bove{\kf20} the{\kf32} rest
+Dialogue: 0,0:00:36.14,0:00:37.53,DEFAULT,,0,0,0,,{\r}{\kf12}It{\kf24} does{\kf18}n't{\kf24} rea{\kf18}lly{\kf24} mat{\kf19}ter
+Dialogue: 0,0:00:37.59,0:00:39.35,DEFAULT,,0,0,0,,{\r}{\kf20}What{\kf20} they{\kf26} thought{\kf20} of{\kf20} you{\kf20} be{\kf51}fore
+Dialogue: 0,0:00:39.78,0:00:41.23,DEFAULT,,0,0,0,,{\r}{\kf21}By{\kf21} the{\kf21} time{\kf14} that{\kf28} I{\kf21} am{\kf19} done
+Dialogue: 0,0:00:41.28,0:00:42.78,DEFAULT,,0,0,0,,{\r}{\kf20}No{\kf20}po{\kf20}ny{\kf26} will{\kf13} i{\kf33}gno{\kf18}-ore
+Dialogue: 0,0:00:43.21,0:00:44.44,DEFAULT,,0,0,0,,{\r}{\kf34}You,{\kf20} lit{\kf27}tle{\kf42} you
+Dialogue: 0,0:00:44.55,0:00:46.21,DEFAULT,,0,0,0,,{\r}{\kf18}Now{\kf12} a{\kf25} great{\kf18} big{\kf25} su{\kf18}per{\kf50}star
+Dialogue: 0,0:00:46.64,0:00:47.93,DEFAULT,,0,0,0,,{\r}{\kf36}Stick{\kf29} with{\kf14} me{\kf22} ba{\kf28}by
+Dialogue: 0,0:00:47.93,0:00:49.96,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} I'll{\kf32} make{\kf19} you{\kf25} go{\kf90} far
+Dialogue: 0,0:00:50.39,0:00:52.53,DEFAULT,,0,0,0,,{\r}{\kf34}That's{\kf56} right,{\kf23} I{\kf34} can{\kf34} make{\kf33} you...
+Dialogue: 0,0:00:53.39,0:00:56.60,DEFAULT,,0,0,0,,{\r}{\kf21}A{\kf28} pic{\kf35}ture{\kf35} per{\kf21}fect{\kf42} po{\kf28}ny{\kf111}-y
+Dialogue: 0,0:00:56.93,0:00:58.53,DEFAULT,,0,0,0,,{\r}{\kf13}A{\kf27} pic{\kf47}ture{\kf40} per{\kf34}fect
+Dialogue: 0,0:00:58.75,0:01:00.35,DEFAULT,,0,0,0,,{\r}{\kf20}Po{\kf20}ny{\kf20} po{\kf20}ny{\kf20} po{\kf20}ny{\kf20} po{\kf21}ny
+Dialogue: 0,0:01:00.52,0:01:03.14,DEFAULT,,0,0,0,,{\r}{\kf33}Pic{\kf39}ture{\kf33} per{\kf20}fect{\kf46} po{\kf26}ny{\kf65}-y
+Dialogue: 0,0:01:03.78,0:01:05.50,DEFAULT,,0,0,0,,{\r}{\kf14}A{\kf41} pic{\kf34}ture{\kf41} per{\kf41}fect
+Dialogue: 0,0:01:05.60,0:01:07.32,DEFAULT,,0,0,0,,{\r}{\kf19}Po{\kf19}ny{\kf19} po{\kf19}ny{\kf19} po{\kf19}ny{\kf19} po{\kf38}ny
+Dialogue: 0,0:01:07.32,0:01:08.82,DEFAULT,,0,0,0,,{\r}{\kf27}Pho{\kf34}to{\kf14} fi{\kf14}nish,{\kf20} that's{\kf14} her{\kf27} name
+Dialogue: 0,0:01:08.82,0:01:10.53,DEFAULT,,0,0,0,,{\r}{\kf23}Makin'{\kf23} every{\kf23}pony{\kf17} pretty{\kf11} is{\kf11} her{\kf29} number{\kf23} one{\kf11} game
+Dialogue: 0,0:01:10.53,0:01:12.35,DEFAULT,,0,0,0,,{\r}{\kf24}She{\kf18} do{\kf12} what{\kf12} she{\kf18} do,{\kf30} to make{\kf12} you{\kf12} more{\kf18} than{\kf26} you
+Dialogue: 0,0:01:12.35,0:01:14.07,DEFAULT,,0,0,0,,{\r}{\kf16}No{\kf21}pony{\kf21} gonna{\kf11} care{\kf11} if{\kf11} what{\kf11} we{\kf27} share{\kf11} is{\kf31} true
+Dialogue: 0,0:01:14.07,0:01:15.78,DEFAULT,,0,0,0,,{\r}{\kf11}Cuz{\kf34} lies{\kf17} are{\kf40} beautiful,{\kf10} the{\kf29} truth{\kf11} is{\kf19} not
+Dialogue: 0,0:01:16.00,0:01:17.50,DEFAULT,,0,0,0,,{\r}{\kf11}Come{\kf11} on{\kf22} little{\kf17} mare,{\kf11} you{\kf11} better{\kf22} shake{\kf22} that{\kf23} plot
+Dialogue: 0,0:01:17.55,0:01:19.16,DEFAULT,,0,0,0,,{\r}{\kf11}You{\kf16} know{\kf11} that's{\kf11} what{\kf11} they{\kf21} really{\kf21} all{\kf21} came{\kf11} to{\kf27} see
+Dialogue: 0,0:01:19.32,0:01:20.93,DEFAULT,,0,0,0,,{\r}{\kf11}A{\kf43} picture{\kf43} perfect{\kf64} pony
+Dialogue: 0,0:01:21.14,0:01:22.85,DEFAULT,,0,0,0,,{\r}{\kf16}Why{\kf11} you{\kf16} gotta{\kf21} ruin{\kf21} every{\kf21}thing{\kf11} with{\kf54} questions?
+Dialogue: 0,0:01:22.85,0:01:24.35,DEFAULT,,0,0,0,,{\r}{\kf12}Shut{\kf23} tune{\kf23} out,{\kf23} and{\kf17} don't{\kf23} forget{\kf12} to{\kf17} mention
+Dialogue: 0,0:01:24.46,0:01:26.28,DEFAULT,,0,0,0,,{\r}{\kf11}How{\kf21} happy{\kf21} you{\kf21} are{\kf11} that{\kf16} they{\kf16} all{\kf16} came{\kf11} to{\kf16} see{\kf22} you
+Dialogue: 0,0:01:26.23,0:01:28.21,DEFAULT,,0,0,0,,{\r}{\kf11}Or{\kf11} how{\kf11} you{\kf37} understand{\kf43} everypony{\kf16} wants{\kf16} to{\kf21} be{\kf32} you
+Dialogue: 0,0:01:29.39,0:01:31.27,DEFAULT,,0,0,0,,{\r}{\kf35}Now{\kf28} let{\kf21} me{\kf21} clear{\kf21} up{\kf14} a{\kf21}ny{\kf27} doubts
+Dialogue: 0,0:01:31.32,0:01:32.82,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf20} may{\kf20} think{\kf20} you{\kf20} pos{\kf50}sess
+Dialogue: 0,0:01:33.25,0:01:34.91,DEFAULT,,0,0,0,,{\r}{\kf21}Eve{\kf21}ry{\kf21}po{\kf21}ny{\kf28} will{\kf14} a{\kf28}dore{\kf12} you
+Dialogue: 0,0:01:34.96,0:01:36.62,DEFAULT,,0,0,0,,{\r}{\kf20}When{\kf20} they{\kf20} see{\kf20} you{\kf20} in{\kf20} that{\kf46} dress
+Dialogue: 0,0:01:36.68,0:01:38.18,DEFAULT,,0,0,0,,{\r}{\kf46}Fans{\kf20} screa{\kf20}ming{\kf20} e{\kf20}very{\kf24}day
+Dialogue: 0,0:01:38.23,0:01:39.62,DEFAULT,,0,0,0,,{\r}{\kf19}To{\kf19} get{\kf19} a{\kf25} piece{\kf19} of{\kf38} you
+Dialogue: 0,0:01:40.16,0:01:41.82,DEFAULT,,0,0,0,,{\r}{\kf42}Lights,{\kf21} came{\kf14}ras{\kf14} all{\kf21} the{\kf54} time
+Dialogue: 0,0:01:41.82,0:01:43.16,DEFAULT,,0,0,0,,{\r}{\kf19}Wat{\kf26}ching{\kf26} what{\kf19} you{\kf26} do{\kf18}-o
+Dialogue: 0,0:01:43.32,0:01:44.66,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf20} know{\kf20} it's{\kf27} what{\kf20} you{\kf27} want
+Dialogue: 0,0:01:44.71,0:01:46.59,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf40} mean,{\kf27} how{\kf20} could{\kf20} you{\kf20} say{\kf48} no?
+Dialogue: 0,0:01:46.85,0:01:48.68,DEFAULT,,0,0,0,,{\r}{\kf19}There's{\kf25} ne{\kf19}ver{\kf19} been{\kf19} a{\kf19} po{\kf25}ny{\kf37} here
+Dialogue: 0,0:01:48.78,0:01:50.18,DEFAULT,,0,0,0,,{\r}{\kf18}With{\kf18} the{\kf30} guts{\kf12} to{\kf61} go
+Dialogue: 0,0:01:50.28,0:01:52.00,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf48} why{\kf21} would{\kf21} you{\kf21} run{\kf14} a{\kf25}way?
+Dialogue: 0,0:01:52.10,0:01:53.60,DEFAULT,,0,0,0,,{\r}{\kf18}It's{\kf24} e{\kf18}very{\kf24}po{\kf18}ny's{\kf48} dream
+Dialogue: 0,0:01:53.82,0:01:55.53,DEFAULT,,0,0,0,,{\r}{\kf21}To{\kf21} be{\kf14} a{\kf34} star{\kf14} in{\kf14} ou{\kf21}ter{\kf32} space
+Dialogue: 0,0:01:55.53,0:01:57.73,DEFAULT,,0,0,0,,{\r}{\kf13}Where{\kf27} no{\kf20}po{\kf20}ny{\kf27} he{\kf20}ars{\kf20} you{\kf40} scre{\kf33}am
+Dialogue: 0,0:01:57.68,0:01:59.60,DEFAULT,,0,0,0,,{\r}{\kf17}It's{\kf22} why{\kf22} you{\kf22} wan{\kf22}na{\kf44} be{\kf44} a...
+Dialogue: 0,0:01:59.60,0:02:02.39,DEFAULT,,0,0,0,,{\r}{\kf33}Pic{\kf40}ture{\kf27} per{\kf33}fect{\kf46} po{\kf20}ny{\kf80}-y
+Dialogue: 0,0:02:02.82,0:02:04.59,DEFAULT,,0,0,0,,{\r}{\kf14}A{\kf42} pic{\kf50}ture{\kf35} per{\kf36}fect
+Dialogue: 0,0:02:04.85,0:02:06.46,DEFAULT,,0,0,0,,{\r}{\kf20}Po{\kf20}ny{\kf20} po{\kf20}ny{\kf20} po{\kf20}ny{\kf20} po{\kf21}ny
+Dialogue: 0,0:02:06.57,0:02:09.30,DEFAULT,,0,0,0,,{\r}{\kf25}Pic{\kf51}ture{\kf38} per{\kf25}fect{\kf38} po{\kf25}ny{\kf71}-y
+Dialogue: 0,0:02:09.84,0:02:11.50,DEFAULT,,0,0,0,,{\r}{\kf14}A{\kf36} pic{\kf43}ture{\kf36} per{\kf37}fect
+Dialogue: 0,0:02:11.77,0:02:13.37,DEFAULT,,0,0,0,,{\r}{\kf20}Po{\kf20}ny{\kf20} po{\kf20}ny{\kf20} po{\kf20}ny{\kf20} po{\kf21}ny
+Dialogue: 0,0:02:13.43,0:02:16.05,DEFAULT,,0,0,0,,{\r}{\kf34}Pic{\kf41}ture{\kf34} per{\kf28}fect{\kf41} po{\kf21}ny{\kf63}-y
+Dialogue: 0,0:02:16.80,0:02:18.41,DEFAULT,,0,0,0,,{\r}{\kf15}A{\kf23} pic{\kf46}ture{\kf38} per{\kf39}fect
+Dialogue: 0,0:02:18.68,0:02:20.28,DEFAULT,,0,0,0,,{\r}{\kf20}Po{\kf20}ny{\kf20} po{\kf20}ny{\kf20} po{\kf20}ny{\kf20} po{\kf21}ny
+Dialogue: 0,0:02:20.34,0:02:23.07,DEFAULT,,0,0,0,,{\r}{\kf32}Pic{\kf52}ture{\kf26} per{\kf26}fect{\kf39} po{\kf26}ny{\kf72}-y
+Dialogue: 0,0:02:23.55,0:02:25.27,DEFAULT,,0,0,0,,{\r}{\kf21}A{\kf34} pic{\kf41}ture{\kf41} per{\kf34}fect
+Dialogue: 0,0:02:25.53,0:02:27.14,DEFAULT,,0,0,0,,{\r}{\kf20}Po{\kf20}ny{\kf20} po{\kf20}ny{\kf20} po{\kf20}ny{\kf20} po{\kf21}ny

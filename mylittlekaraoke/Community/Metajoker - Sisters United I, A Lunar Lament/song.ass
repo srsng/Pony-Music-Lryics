@@ -1,40 +1,47 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Sisters United I: A Lunar Lament
+Artist: Metajoker
+Original Timing: mylittlekaraoke.com by barbeque
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:14.95,0:01:20.44,DEFAULT,,0,0,0,,{\kf90}So{\kf15}~{\kf137}~,{\kf29} now{\kf47} e{\kf10}very{\kf10}thing{\kf10} is{\kf137} wrong
-Dialogue: 0,0:01:20.63,0:01:26.45,DEFAULT,,0,0,0,,{\kf19}I{\kf137} know{\kf24} the{\kf43} time{\kf19} of{\kf24} peace{\kf24} is{\kf94} gone
-Dialogue: 0,0:01:26.68,0:01:32.37,DEFAULT,,0,0,0,,{\kf19}Oh,{\kf132} when{\kf24} I{\kf43} face{\kf15} what{\kf15} I{\kf15} have{\kf118} done
-Dialogue: 0,0:01:32.65,0:01:39.32,DEFAULT,,0,0,0,,{\kf24}Oh,{\kf141} then{\kf19} the{\kf43} world{\kf19} will{\kf33} fi{\kf62}nally{\kf52} move{\kf33} on
-Dialogue: 0,0:01:51.38,0:01:53.64,DEFAULT,,0,0,0,,{\kf29}And{\kf19} here{\kf24} I{\kf113} stand
-Dialogue: 0,0:01:53.87,0:01:57.02,DEFAULT,,0,0,0,,{\kf10}A{\kf29} queen{\kf15} in{\kf33}side{\kf19} my{\kf62} soul{\kf33}~{\kf47}~
-Dialogue: 0,0:01:57.40,0:01:59.46,DEFAULT,,0,0,0,,{\kf29}And{\kf43} all{\kf19} the{\kf47} land{\kf10}~
-Dialogue: 0,0:01:59.65,0:02:02.42,DEFAULT,,0,0,0,,{\kf24}Is{\kf29} un{\kf15}der{\kf24} my{\kf29} con{\kf94}trol
-Dialogue: 0,0:02:02.80,0:02:05.57,DEFAULT,,0,0,0,,{\kf15}And{\kf29} though{\kf19} I{\kf24} want{\kf15} to{\kf29} sha{\kf15}-re{\kf57} it
-Dialogue: 0,0:02:05.80,0:02:09.75,DEFAULT,,0,0,0,,{\kf15}I{\kf33} don't{\kf15} know{\kf15} what{\kf33} to{\kf226} say...
-Dialogue: 0,0:02:10.26,0:02:14.39,DEFAULT,,0,0,0,,{\kf15}I{\kf29} ne{\kf29}ver{\kf33} thought{\kf29} it'd{\kf57} end{\kf43} this{\kf85} way
-Dialogue: 0,0:02:25.52,0:02:31.21,DEFAULT,,0,0,0,,{\kf80}Why{\kf19}~{\kf127}~{\kf29} did{\kf33} I{\kf19} feel{\kf24} so{\kf24} des{\kf62}pi{\kf43}-ised
-Dialogue: 0,0:02:31.49,0:02:36.93,DEFAULT,,0,0,0,,{\kf85}By{\kf15}~{\kf132}~{\kf15} the{\kf43} lea{\kf15}der{\kf15}ship{\kf29} I{\kf94} prized
-Dialogue: 0,0:02:37.17,0:02:42.95,DEFAULT,,0,0,0,,{\kf19}Oh,{\kf155} where{\kf29} was{\kf24} love?{\kf19} It{\kf19} was{\kf29} dis{\kf99}guised
-Dialogue: 0,0:02:43.23,0:02:50.08,DEFAULT,,0,0,0,,{\kf24}Right{\kf76} the{\kf15}~{\kf76}~re{\kf24} in{\kf38}side{\kf19} Ce{\kf19}les{\kf19}ti{\kf38}a's{\kf47} spark{\kf47}ling{\kf57} eyes
-Dialogue: 0,0:03:01.87,0:03:03.94,DEFAULT,,0,0,0,,{\kf33}And{\kf15} here{\kf24} I{\kf90} stand
-Dialogue: 0,0:03:04.31,0:03:07.46,DEFAULT,,0,0,0,,{\kf10}A{\kf29} queen{\kf15} in{\kf38}side{\kf24} my{\kf57} soul{\kf29}~{\kf38}~
-Dialogue: 0,0:03:07.83,0:03:09.90,DEFAULT,,0,0,0,,{\kf29}And{\kf38} all{\kf29} the{\kf52} land
-Dialogue: 0,0:03:10.09,0:03:12.76,DEFAULT,,0,0,0,,{\kf33}Is{\kf29} un{\kf10}der{\kf29} my{\kf33} con{\kf76}trol
-Dialogue: 0,0:03:13.23,0:03:15.91,DEFAULT,,0,0,0,,{\kf15}And{\kf24} though{\kf24} I{\kf24} want{\kf15} to{\kf29} sha{\kf15}-re{\kf52} it
-Dialogue: 0,0:03:16.33,0:03:20.47,DEFAULT,,0,0,0,,{\kf19}I{\kf29} don't{\kf15} know{\kf19} what{\kf29} to{\kf132} say{\kf57}-ay{\kf24}-y...
-Dialogue: 0,0:03:20.65,0:03:24.69,DEFAULT,,0,0,0,,{\kf19}I{\kf33} nev{\kf24}er{\kf33} thought{\kf24} it'd{\kf24} e{\kf33}-end{\kf29} this{\kf71} way
-Dialogue: 0,0:03:57.37,0:03:59.44,DEFAULT,,0,0,0,,{\kf38}And{\kf15} here{\kf24} I{\kf90} stand
-Dialogue: 0,0:03:59.68,0:04:02.92,DEFAULT,,0,0,0,,{\kf24}I{\kf24} rule{\kf10} the{\kf24} mo{\kf15}-orn{\kf24} and{\kf141} night
-Dialogue: 0,0:04:03.39,0:04:05.50,DEFAULT,,0,0,0,,{\kf29}At{\kf43} my{\kf43} com{\kf57}mand
-Dialogue: 0,0:04:05.73,0:04:08.22,DEFAULT,,0,0,0,,{\kf19}The{\kf29} world{\kf10} is{\kf24} lost{\kf33} to{\kf71} light
-Dialogue: 0,0:04:08.60,0:04:11.46,DEFAULT,,0,0,0,,{\kf19}And{\kf33} though{\kf15} it's{\kf19} what{\kf24} I've{\kf24} drea{\kf29}~med{\kf47} of
-Dialogue: 0,0:04:11.70,0:04:15.88,DEFAULT,,0,0,0,,{\kf19}It's{\kf38} not{\kf15} the{\kf38} same{\kf52} you{\kf85} see{\kf62}~{\kf19}~...
-Dialogue: 0,0:04:16.11,0:04:20.76,DEFAULT,,0,0,0,,{\kf24}Ce{\kf29}les{\kf29}ti{\kf24}a,{\kf29} re{\kf57}turn{\kf19} to{\kf146} me
+Dialogue: 0,0:01:14.95,0:01:20.44,DEFAULT,,0,0,0,,{\r}{\kf102}So{\kf16}~{\kf156}~,{\kf32} now{\kf54} e{\kf11}very{\kf11}thing{\kf11} is{\kf156} wrong
+Dialogue: 0,0:01:20.63,0:01:26.45,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf208} know{\kf36} the{\kf65} time{\kf29} of{\kf36} peace{\kf36} is{\kf143} gone
+Dialogue: 0,0:01:26.69,0:01:32.37,DEFAULT,,0,0,0,,{\r}{\kf28}Oh,{\kf199} when{\kf36} I{\kf64} face{\kf21} what{\kf21} I{\kf21} have{\kf178} done
+Dialogue: 0,0:01:32.65,0:01:39.32,DEFAULT,,0,0,0,,{\r}{\kf37}Oh,{\kf222} then{\kf30} the{\kf67} world{\kf30} will{\kf52} fi{\kf96}nally{\kf82} move{\kf51} on
+Dialogue: 0,0:01:51.39,0:01:53.64,DEFAULT,,0,0,0,,{\r}{\kf35}And{\kf23} here{\kf29} I{\kf138} stand
+Dialogue: 0,0:01:53.88,0:01:57.02,DEFAULT,,0,0,0,,{\r}{\kf12}A{\kf36} queen{\kf18} in{\kf42}side{\kf24} my{\kf79} soul{\kf42}~{\kf62}~
+Dialogue: 0,0:01:57.40,0:01:59.47,DEFAULT,,0,0,0,,{\r}{\kf40}And{\kf60} all{\kf27} the{\kf67} land{\kf13}~
+Dialogue: 0,0:01:59.65,0:02:02.43,DEFAULT,,0,0,0,,{\r}{\kf31}Is{\kf37} un{\kf18}der{\kf31} my{\kf37} con{\kf123}trol
+Dialogue: 0,0:02:02.80,0:02:05.57,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf40} though{\kf26} I{\kf33} want{\kf20} to{\kf40} sha{\kf20}-re{\kf78} it
+Dialogue: 0,0:02:05.81,0:02:09.75,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf39} don't{\kf17} know{\kf17} what{\kf39} to{\kf265} say...
+Dialogue: 0,0:02:10.27,0:02:14.40,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf37} ne{\kf37}ver{\kf43} thought{\kf37} it'd{\kf74} end{\kf55} this{\kf112} way
+Dialogue: 0,0:02:25.53,0:02:31.21,DEFAULT,,0,0,0,,{\r}{\kf100}Why{\kf23}~{\kf158}~{\kf35} did{\kf41} I{\kf23} feel{\kf29} so{\kf29} des{\kf76}pi{\kf54}-ised
+Dialogue: 0,0:02:31.49,0:02:36.94,DEFAULT,,0,0,0,,{\r}{\kf105}By{\kf18}~{\kf164}~{\kf18} the{\kf53} lea{\kf18}der{\kf18}ship{\kf35} I{\kf116} prized
+Dialogue: 0,0:02:37.17,0:02:42.95,DEFAULT,,0,0,0,,{\r}{\kf28}Oh,{\kf230} where{\kf42} was{\kf35} love?{\kf28} It{\kf28} was{\kf42} dis{\kf145}guised
+Dialogue: 0,0:02:43.23,0:02:50.09,DEFAULT,,0,0,0,,{\r}{\kf33}Right{\kf105} the{\kf20}~{\kf105}~re{\kf33} in{\kf52}side{\kf26} Ce{\kf26}les{\kf26}ti{\kf52}a's{\kf65} spark{\kf65}ling{\kf78} eyes
+Dialogue: 0,0:03:01.87,0:03:03.94,DEFAULT,,0,0,0,,{\r}{\kf43}And{\kf18} here{\kf30} I{\kf116} stand
+Dialogue: 0,0:03:04.32,0:03:07.46,DEFAULT,,0,0,0,,{\r}{\kf13}A{\kf38} queen{\kf19} in{\kf50}side{\kf31} my{\kf76} soul{\kf38}~{\kf50}~
+Dialogue: 0,0:03:07.84,0:03:09.90,DEFAULT,,0,0,0,,{\r}{\kf40}And{\kf53} all{\kf40} the{\kf74} land
+Dialogue: 0,0:03:10.09,0:03:12.77,DEFAULT,,0,0,0,,{\r}{\kf43}Is{\kf37} un{\kf12}der{\kf37} my{\kf43} con{\kf96}trol
+Dialogue: 0,0:03:13.24,0:03:15.92,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf33} though{\kf33} I{\kf33} want{\kf20} to{\kf39} sha{\kf20}-re{\kf70} it
+Dialogue: 0,0:03:16.34,0:03:20.47,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf36} don't{\kf18} know{\kf24} what{\kf36} to{\kf170} say{\kf73}-ay{\kf32}-y...
+Dialogue: 0,0:03:20.66,0:03:24.70,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf46} nev{\kf33}er{\kf46} thought{\kf33} it'd{\kf33} e{\kf46}-end{\kf40} this{\kf101} way
+Dialogue: 0,0:03:57.38,0:03:59.45,DEFAULT,,0,0,0,,{\r}{\kf47}And{\kf18} here{\kf30} I{\kf112} stand
+Dialogue: 0,0:03:59.68,0:04:02.92,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf29} rule{\kf12} the{\kf29} mo{\kf18}-orn{\kf29} and{\kf178} night
+Dialogue: 0,0:04:03.39,0:04:05.50,DEFAULT,,0,0,0,,{\r}{\kf35}At{\kf53} my{\kf53} com{\kf70}mand
+Dialogue: 0,0:04:05.74,0:04:08.23,DEFAULT,,0,0,0,,{\r}{\kf26}The{\kf38} world{\kf13} is{\kf32} lost{\kf45} to{\kf95} light
+Dialogue: 0,0:04:08.60,0:04:11.47,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf46} though{\kf20} it's{\kf26} what{\kf32} I've{\kf32} drea{\kf39}~med{\kf65} of
+Dialogue: 0,0:04:11.70,0:04:15.88,DEFAULT,,0,0,0,,{\r}{\kf24}It's{\kf48} not{\kf18} the{\kf48} same{\kf67} you{\kf109} see{\kf79}~{\kf25}~...
+Dialogue: 0,0:04:16.12,0:04:20.77,DEFAULT,,0,0,0,,{\r}{\kf31}Ce{\kf37}les{\kf37}ti{\kf31}a,{\kf37} re{\kf74}turn{\kf25} to{\kf193} me

@@ -1,140 +1,147 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Little Librarian
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by barbeque
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.01,0:00:02.82,DEFAULT,,0,0,0,,{\kf13}A{\kf46} long,{\kf54} long{\kf21} time{\kf13} a{\kf38}go
-Dialogue: 0,0:00:04.03,0:00:06.97,DEFAULT,,0,0,0,,{\kf13}The{\kf21} sis{\kf17}ters{\kf21} ruled{\kf25} in{\kf34} har{\kf13}mo{\kf46}ny
-Dialogue: 0,0:00:07.26,0:00:10.33,DEFAULT,,0,0,0,,{\kf21}With{\kf13} so{\kf21}lace{\kf17} all{\kf17} through{\kf17}out{\kf13} the{\kf59} land
-Dialogue: 0,0:00:12.19,0:00:14.97,DEFAULT,,0,0,0,,{\kf13}And{\kf21} you{\kf17} could{\kf17} drink{\kf13} your{\kf21} ci{\kf13}der{\kf54} there
-Dialogue: 0,0:00:15.42,0:00:18.45,DEFAULT,,0,0,0,,{\kf17}With{\kf34}out{\kf13} the{\kf25} sin{\kf17}gle{\kf42} need{\kf13} to{\kf63} care
-Dialogue: 0,0:00:18.95,0:00:23.26,DEFAULT,,0,0,0,,{\kf17}I{\kf21}-if{\kf17} a{\kf50}ny{\kf13}po{\kf17}ny's{\kf13} look{\kf30}ing{\kf13} where{\kf17} you{\kf54} stand
-Dialogue: 0,0:00:26.33,0:00:29.64,DEFAULT,,0,0,0,,{\kf13}But{\kf17} then{\kf25} one{\kf42} night,{\kf13} the{\kf54} stars{\kf17} were{\kf13} stub{\kf21}born
-Dialogue: 0,0:00:30.22,0:00:33.46,DEFAULT,,0,0,0,,{\kf13}The{\kf30} cries{\kf21} were{\kf38} heard{\kf17} and{\kf50} tears{\kf17} were{\kf17} fal{\kf25}ling
-Dialogue: 0,0:00:34.49,0:00:36.81,DEFAULT,,0,0,0,,{\kf13}Sha{\kf21}dows{\kf38} in{\kf13} the{\kf21} sun{\kf71}light
-Dialogue: 0,0:00:37.73,0:00:40.83,DEFAULT,,0,0,0,,{\kf13}A{\kf21} new{\kf30} face{\kf59} in{\kf13} the{\kf21} moon{\kf50}light
-Dialogue: 0,0:00:42.33,0:00:45.10,DEFAULT,,0,0,0,,{\kf17}The{\kf25} pro{\kf17}phe{\kf17}cy{\kf17}~{\kf25} was{\kf13} com{\kf21}ing{\kf42} true
-Dialogue: 0,0:00:45.73,0:00:49.12,DEFAULT,,0,0,0,,{\kf25}And{\kf25} on{\kf17}ly{\kf30} one{\kf17} could{\kf30} see{\kf13} the{\kf13} clues{\kf25}~
-Dialogue: 0,0:00:50.37,0:00:53.35,DEFAULT,,0,0,0,,{\kf13}But{\kf13} when{\kf17} she{\kf46} tried{\kf17} to{\kf50} spread{\kf13} the{\kf13} news{\kf17}~
-Dialogue: 0,0:00:54.35,0:01:00.61,DEFAULT,,0,0,0,,{\kf25}That's{\kf59} where{\kf17} the{\kf83} ma{\kf21}gic{\kf17} be{\kf79}gan
-Dialogue: 0,0:01:04.92,0:01:08.73,DEFAULT,,0,0,0,,{\kf13}So,{\kf75} Bye{\kf21}~{\kf34}-bye,{\kf21} lit{\kf17}tle{\kf21} li{\kf17}bra{\kf21}ri{\kf21}an
-Dialogue: 0,0:01:09.44,0:01:11.59,DEFAULT,,0,0,0,,{\kf17}Stop{\kf17} your{\kf21} think{\kf13}ing,{\kf17} quit{\kf17} the{\kf25} read{\kf13}ing
-Dialogue: 0,0:01:11.80,0:01:13.79,DEFAULT,,0,0,0,,{\kf17}Drop{\kf17} your{\kf21} nu{\kf17}me{\kf17}rous{\kf13} pe{\kf30}-ens
-Dialogue: 0,0:01:14.49,0:01:18.43,DEFAULT,,0,0,0,,{\kf21}You'll{\kf21} be{\kf25} al{\kf21}~{\kf46}right,{\kf17} I{\kf21} know{\kf21} I'll{\kf21} see{\kf17} you{\kf17} a{\kf30}gain
-Dialogue: 0,0:01:19.01,0:01:22.74,DEFAULT,,0,0,0,,{\kf21}Say{\kf21}ing{\kf17} "I{\kf17} could{\kf17} ne{\kf13}ver{\kf17} live{\kf13} with{\kf50}out{\kf59} friends"
-Dialogue: 0,0:01:24.44,0:01:27.51,DEFAULT,,0,0,0,,{\kf17}"I{\kf17} could{\kf17} ne{\kf13}ver{\kf21} live{\kf13} with{\kf50}out{\kf17} friends{\kf46}~"
-Dialogue: 0,0:01:30.66,0:01:32.65,DEFAULT,,0,0,0,,{\kf17}Did{\kf17} you{\kf34} see{\kf17} it{\kf13} all{\kf21} go{\kf13} wrong
-Dialogue: 0,0:01:32.94,0:01:36.38,DEFAULT,,0,0,0,,{\kf17}As{\kf17} the{\kf34} e{\kf17}vening{\kf25} tried{\kf25} to{\kf30} move{\kf13} a{\kf13}long{\kf30}~
-Dialogue: 0,0:01:37.29,0:01:39.61,DEFAULT,,0,0,0,,{\kf13}And{\kf13} the{\kf17} strike{\kf13}~{\kf13} of{\kf21} light{\kf30}~{\kf13}ning{\kf38} flashed?
-Dialogue: 0,0:01:41.23,0:01:44.59,DEFAULT,,0,0,0,,{\kf13}And{\kf13} did{\kf17} you{\kf17}~{\kf21} meet{\kf13} up{\kf17}~{\kf17} with{\kf17} Night{\kf25}mare{\kf21} Moon{\kf17}~?
-Dialogue: 0,0:01:44.84,0:01:47.86,DEFAULT,,0,0,0,,{\kf21}Did{\kf17} you{\kf25} think{\kf30} she'd{\kf25} be{\kf21} back{\kf21} so{\kf21} soon?
-Dialogue: 0,0:01:48.11,0:01:53.91,DEFAULT,,0,0,0,,{\kf17}Oh{\kf25}~,{\kf13} e{\kf13}very{\kf21}thing{\kf46} was{\kf13} go{\kf13}ing{\kf42} by{\kf34} so{\kf13}~{\kf67} fast{\kf9}~{\kf9}~{\kf13}~{\kf25}~
-Dialogue: 0,0:01:54.41,0:01:57.60,DEFAULT,,0,0,0,,{\kf13}A{\kf17} loud{\kf17}~{\kf21} clat{\kf17}ter{\kf50} filled{\kf25} the{\kf34} at{\kf17}mos{\kf17}phere
-Dialogue: 0,0:01:57.81,0:02:01.13,DEFAULT,,0,0,0,,{\kf13}When{\kf38} we{\kf21} saw{\kf13} the{\kf38} la{\kf30}dy{\kf30} dis{\kf17}ap{\kf13}pear{\kf25}~
-Dialogue: 0,0:02:01.54,0:02:03.86,DEFAULT,,0,0,0,,{\kf13}The{\kf25} rest{\kf13} were{\kf17}~{\kf13} all{\kf13}~{\kf17} con{\kf21}fused{\kf30}~
-Dialogue: 0,0:02:04.36,0:02:07.51,DEFAULT,,0,0,0,,{\kf13}But{\kf25} that{\kf34} smart{\kf25} one{\kf17} knew{\kf13} what{\kf13} to{\kf13} do{\kf42}~{\kf21}~
-Dialogue: 0,0:02:07.72,0:02:10.95,DEFAULT,,0,0,0,,{\kf17}She{\kf13} was{\kf13} a{\kf13} po{\kf17}~{\kf17}ny{\kf25} who{\kf17} had{\kf13}~{\kf17} a{\kf21} vio{\kf21}let{\kf38} mane
-Dialogue: 0,0:02:11.24,0:02:14.27,DEFAULT,,0,0,0,,{\kf17}With{\kf13} a{\kf17} straight{\kf21}-A{\kf30} re{\kf17}cord{\kf13} and{\kf13} a{\kf17} dra{\kf17}gon{\kf34} slave
-Dialogue: 0,0:02:14.72,0:02:17.66,DEFAULT,,0,0,0,,{\kf17}And{\kf21} e{\kf17}very{\kf13}po{\kf17}~{\kf17}ny{\kf17} would{\kf25} know{\kf17}~{\kf17} her{\kf38} name
-Dialogue: 0,0:02:17.87,0:02:21.77,DEFAULT,,0,0,0,,{\kf17}The{\kf30} day{\kf17} the{\kf104} ma{\kf17}gic{\kf17} be{\kf38}gan
-Dialogue: 0,0:02:23.47,0:02:27.32,DEFAULT,,0,0,0,,{\kf17}They{\kf17} were{\kf17} sing{\kf13}ing{\kf13}~,{\kf54} Bye{\kf17}~{\kf30}-bye,{\kf17} lit{\kf13}tle{\kf13} li{\kf17}bra{\kf17}ri{\kf13}an
-Dialogue: 0,0:02:27.57,0:02:29.31,DEFAULT,,0,0,0,,{\kf30}Stop{\kf13} your{\kf17} think{\kf13}ing,{\kf13} quit{\kf13} the{\kf13} read{\kf9}ing
-Dialogue: 0,0:02:29.48,0:02:30.89,DEFAULT,,0,0,0,,{\kf13}Drop{\kf13} your{\kf13} nu{\kf13}me{\kf13}rous{\kf13} pens{\kf25}~
-Dialogue: 0,0:02:31.34,0:02:34.04,DEFAULT,,0,0,0,,{\kf13}You'll{\kf13} be{\kf17} al{\kf13}~{\kf30}right,{\kf13} I{\kf13} know{\kf13} I'll{\kf13} see{\kf17} you{\kf17} a{\kf21}gain
-Dialogue: 0,0:02:34.41,0:02:36.86,DEFAULT,,0,0,0,,{\kf13}Say{\kf13}ing{\kf13} "I{\kf13} could{\kf13} ne{\kf13}ver{\kf13} live{\kf13} with{\kf21}out{\kf38} friends"
-Dialogue: 0,0:02:38.10,0:02:40.26,DEFAULT,,0,0,0,,{\kf13}"I{\kf13} could{\kf13} ne{\kf13}ver{\kf13} live{\kf13} with{\kf34}out{\kf17} friends{\kf25}~"
-Dialogue: 0,0:02:42.49,0:02:45.77,DEFAULT,,0,0,0,,{\kf13}Now{\kf13}~,{\kf13} her{\kf25} whole{\kf13} life{\kf21}~{\kf30} she'd{\kf17} been{\kf13} on{\kf25} her{\kf13} own{\kf17}~
-Dialogue: 0,0:02:46.02,0:02:49.25,DEFAULT,,0,0,0,,{\kf9}With{\kf9} a{\kf38} heart{\kf34} made{\kf17} right{\kf17} out{\kf21} of{\kf13} so{\kf21}lid{\kf13} stone{\kf13}~
-Dialogue: 0,0:02:49.50,0:02:52.44,DEFAULT,,0,0,0,,{\kf30}But{\kf13} that's{\kf21} how{\kf17} she{\kf17}~{\kf17} pre{\kf25}ferred{\kf17} to{\kf13} be{\kf25}~
-Dialogue: 0,0:02:54.10,0:02:57.21,DEFAULT,,0,0,0,,{\kf25}Then{\kf13} the{\kf30} Prin{\kf13}cess{\kf38} told{\kf13} her{\kf13} to{\kf17} wor{\kf17}ry{\kf25} less
-Dialogue: 0,0:02:57.42,0:03:00.73,DEFAULT,,0,0,0,,{\kf13}A{\kf25}bout{\kf34} things	{\kf13} that{\kf17} she{\kf30} had{\kf30} on{\kf46}ly{\kf25} read
-Dialogue: 0,0:03:00.94,0:03:05.87,DEFAULT,,0,0,0,,{\kf9}In{\kf13} a{\kf34} book{\kf13} that{\kf13} con{\kf17}tained{\kf42}~{\kf25} a{\kf13} mys{\kf17}te{\kf59}ry{\kf13}~{\kf13}~{\kf13}~{\kf21}~
-Dialogue: 0,0:03:07.41,0:03:10.72,DEFAULT,,0,0,0,,{\kf17}Oh,{\kf25} and{\kf21} as{\kf17} the{\kf21} sun{\kf17} was{\kf17} go{\kf17}ing{\kf38} down{\kf21}~
-Dialogue: 0,0:03:10.97,0:03:13.96,DEFAULT,,0,0,0,,{\kf13}The{\kf25} Prin{\kf21}cess{\kf25} sent{\kf30} her{\kf17} in{\kf13}to{\kf42} town
-Dialogue: 0,0:03:14.33,0:03:16.69,DEFAULT,,0,0,0,,{\kf17}Pre{\kf17}pa{\kf17}~{\kf17}ring{\kf13} for{\kf13}~{\kf13} the{\kf25} feast{\kf34}~
-Dialogue: 0,0:03:17.65,0:03:20.34,DEFAULT,,0,0,0,,{\kf17}No{\kf21}~{\kf13}po{\kf21}ny{\kf21} would{\kf17} be{\kf13}lieve{\kf13}~{\kf38}~
-Dialogue: 0,0:03:20.55,0:03:23.78,DEFAULT,,0,0,0,,{\kf13}Be{\kf13}cause{\kf25}~{\kf17} it{\kf21} had{\kf25} been{\kf17} a{\kf25} thou{\kf25}sand{\kf34} years
-Dialogue: 0,0:03:24.28,0:03:27.26,DEFAULT,,0,0,0,,{\kf13}The{\kf13} mid{\kf30}night{\kf25} hour{\kf21} was{\kf30}~{\kf17} get{\kf17}ting{\kf21} near{\kf21}~
-Dialogue: 0,0:03:27.51,0:03:30.45,DEFAULT,,0,0,0,,{\kf17}The{\kf17} Prin{\kf34}cess{\kf21} told{\kf25} her{\kf25} not{\kf13} to{\kf38} fear
-Dialogue: 0,0:03:30.66,0:03:34.56,DEFAULT,,0,0,0,,{\kf17}The{\kf34} day{\kf17} the{\kf104} ma{\kf17}gic{\kf17} be{\kf34}gan
-Dialogue: 0,0:03:36.26,0:03:40.19,DEFAULT,,0,0,0,,{\kf25}She{\kf17} was{\kf13} sing{\kf13}ing{\kf13}~,{\kf54} Bye{\kf25}~{\kf25}-bye,{\kf13} lit{\kf13}tle{\kf17} li{\kf17}bra{\kf17}ri{\kf17}an
-Dialogue: 0,0:03:40.44,0:03:42.14,DEFAULT,,0,0,0,,{\kf25}Stop{\kf13} your{\kf17} think{\kf13}ing,{\kf13} quit{\kf13} the{\kf13} read{\kf13}ing
-Dialogue: 0,0:03:42.31,0:03:43.64,DEFAULT,,0,0,0,,{\kf13}Drop{\kf13} your{\kf13} nu{\kf13}me{\kf13}rous{\kf13} pens{\kf13}~
-Dialogue: 0,0:03:44.17,0:03:46.87,DEFAULT,,0,0,0,,{\kf13}You'll{\kf17} be{\kf17} al{\kf17}~{\kf25}right,{\kf13} I{\kf13} know{\kf13} I'll{\kf17} see{\kf13} you{\kf13} a{\kf21}gain
-Dialogue: 0,0:03:47.24,0:03:49.65,DEFAULT,,0,0,0,,{\kf17}Say{\kf13}ing{\kf13} "I{\kf13} could{\kf13} ne{\kf9}ver{\kf9} live{\kf13} with{\kf21}out{\kf34} friends"
-Dialogue: 0,0:03:50.93,0:03:52.96,DEFAULT,,0,0,0,,{\kf17}"I{\kf13} could{\kf13} ne{\kf13}ver{\kf13} live{\kf13} with{\kf34}out{\kf30} friends"
-Dialogue: 0,0:03:55.99,0:03:58.68,DEFAULT,,0,0,0,,{\kf25}Hus{\kf21}tle{\kf30}-bus{\kf17}tle{\kf13} in{\kf13} an{\kf9} ag{\kf13}ing{\kf21} cas{\kf13}tle
-Dialogue: 0,0:03:58.85,0:04:02.21,DEFAULT,,0,0,0,,{\kf17}It{\kf50} all{\kf17} took{\kf17} off{\kf17} in{\kf17} an{\kf13} e{\kf25}pic{\kf25} bat{\kf30}tle
-Dialogue: 0,0:04:02.79,0:04:07.47,DEFAULT,,0,0,0,,{\kf21}One{\kf25} last{\kf21} blow{\kf21}~{\kf21} and{\kf17} fly{\kf17}ing{\kf13} fa{\kf21}a{\kf21}a{\kf17}a{\kf17}a{\kf13}a{\kf13}a{\kf13}a{\kf17}a{\kf21}ast
-Dialogue: 0,0:04:07.72,0:04:10.08,DEFAULT,,0,0,0,,{\kf17}It{\kf13} en{\kf13}~{\kf17}ded{\kf13} with{\kf13} a{\kf25} po{\kf13}wer{\kf13}ful{\kf25} blast
-Dialogue: 0,0:04:10.58,0:04:13.52,DEFAULT,,0,0,0,,{\kf13}The{\kf13} king{\kf21}dom{\kf17} thrived{\kf17}~{\kf13} for{\kf13} a{\kf13} time{\kf25} at{\kf42} last
-Dialogue: 0,0:04:13.73,0:04:18.70,DEFAULT,,0,0,0,,{\kf13}And{\kf13} the{\kf21} Prin{\kf25}cess{\kf17} put{\kf17} her{\kf30} sis{\kf34}ter{\kf17} in{\kf13} the{\kf63} past{\kf9}~{\kf9}~{\kf13}~{\kf21}~
-Dialogue: 0,0:04:20.20,0:04:23.55,DEFAULT,,0,0,0,,{\kf25}Oh,{\kf13} the{\kf21} pas{\kf30}sing{\kf13} hours{\kf21}~{\kf30} were{\kf21} bit{\kf17}ter{\kf13}sweet{\kf13}~
-Dialogue: 0,0:04:23.76,0:04:26.62,DEFAULT,,0,0,0,,{\kf17}While{\kf17} the{\kf34} sol{\kf25}diers{\kf25} kept{\kf17} a{\kf17} safe{\kf17} re{\kf30}treat
-Dialogue: 0,0:04:27.37,0:04:29.44,DEFAULT,,0,0,0,,{\kf13}They{\kf21} all{\kf17} for{\kf9}got{\kf13}~{\kf13} the{\kf25} name{\kf21}~
-Dialogue: 0,0:04:29.73,0:04:32.75,DEFAULT,,0,0,0,,{\kf21}Oh{\kf13}~,{\kf13} but{\kf38} it'd{\kf17} ne{\kf13}ver{\kf13} be{\kf13}~{\kf13} the{\kf13} same{\kf13}~{\kf25}~
-Dialogue: 0,0:04:33.38,0:04:36.90,DEFAULT,,0,0,0,,{\kf25}'Cause{\kf13} the{\kf17} e{\kf34}le{\kf13}me{\kf25}-ents{\kf17} were{\kf42} turned{\kf13} to{\kf21} boul{\kf25}ders
-Dialogue: 0,0:04:37.27,0:04:40.13,DEFAULT,,0,0,0,,{\kf13}Some{\kf21} folks{\kf17} grew{\kf21} old{\kf21} and{\kf25} hearts{\kf17} grew{\kf21} cold{\kf17}er
-Dialogue: 0,0:04:40.63,0:04:43.41,DEFAULT,,0,0,0,,{\kf13}Who{\kf13} would{\kf17} have{\kf34} thought{\kf17} it'd{\kf13} all{\kf25}~{\kf17} be{\kf25} o{\kf13}ver
-Dialogue: 0,0:04:43.57,0:04:47.59,DEFAULT,,0,0,0,,{\kf13}The{\kf38} day{\kf17} the{\kf104} ma{\kf13}gic{\kf13} be{\kf54}gan?
-Dialogue: 0,0:04:49.09,0:04:52.98,DEFAULT,,0,0,0,,{\kf30}They'd{\kf17} be{\kf13} sing{\kf21}ing,{\kf59} Bye{\kf21}~{\kf25}-bye,{\kf13} lit{\kf13}tle{\kf17} li{\kf17}bra{\kf17}ri{\kf13}an
-Dialogue: 0,0:04:53.27,0:04:55.01,DEFAULT,,0,0,0,,{\kf25}Stop{\kf13} your{\kf13} think{\kf13}ing,{\kf13} quit{\kf13} the{\kf13} read{\kf13}ing
-Dialogue: 0,0:04:55.18,0:04:56.51,DEFAULT,,0,0,0,,{\kf13}Drop{\kf13} your{\kf13} nu{\kf13}me{\kf13}rous{\kf13} pens{\kf17}~
-Dialogue: 0,0:04:57.00,0:04:59.78,DEFAULT,,0,0,0,,{\kf13}You'll{\kf17} be{\kf17} al{\kf17}~{\kf30}right,{\kf13} I{\kf13} know{\kf13} I'll{\kf13} see{\kf13} you{\kf13} a{\kf30}gain
-Dialogue: 0,0:05:00.03,0:05:02.60,DEFAULT,,0,0,0,,{\kf13}Say{\kf13}ing{\kf13} "I{\kf13} could{\kf13} ne{\kf9}ver{\kf13} live{\kf9} with{\kf30}out{\kf46} friends"
-Dialogue: 0,0:05:03.76,0:05:05.96,DEFAULT,,0,0,0,,{\kf13}"I{\kf13} could{\kf13} ne{\kf13}ver{\kf13} live{\kf9} with{\kf30}out{\kf13} friends{\kf30}~"
-Dialogue: 0,0:05:07.74,0:05:11.39,DEFAULT,,0,0,0,,{\kf34}Oh{\kf13}~{\kf17}~,{\kf25} on{\kf30}ly{\kf21} hours{\kf21} from{\kf17} cer{\kf30}tain{\kf30} doom
-Dialogue: 0,0:05:11.84,0:05:14.66,DEFAULT,,0,0,0,,{\kf25}Six{\kf13} lit{\kf13}tle{\kf21} po{\kf42}nies{\kf13} in{\kf25} one{\kf30} room
-Dialogue: 0,0:05:15.12,0:05:18.23,DEFAULT,,0,0,0,,{\kf13}With{\kf25} no{\kf25} time{\kf13} left{\kf13}~{\kf17} to{\kf13} waste{\kf21}~{\kf17} at{\kf13} all{\kf30}~
-Dialogue: 0,0:05:19.68,0:05:22.91,DEFAULT,,0,0,0,,{\kf13}So,{\kf17} come{\kf13} on{\kf13}~,{\kf17} you{\kf21} know{\kf17} some{\kf25}thing{\kf17} they{\kf21} don't{\kf30} know
-Dialogue: 0,0:05:23.66,0:05:26.81,DEFAULT,,0,0,0,,{\kf21}You{\kf50} know{\kf17} a{\kf13}bout{\kf13} the{\kf13} sto{\kf13}ry{\kf13} be{\kf25}low{\kf21}~,{\kf25} and
-Dialogue: 0,0:05:27.80,0:05:31.66,DEFAULT,,0,0,0,,{\kf13}Se{\kf17}crets{\kf13} are{\kf17} a{\kf13} sub{\kf21}tle{\kf34} way{\kf13} to{\kf71} fall{\kf13}~{\kf13}~{\kf13}~{\kf30}~
-Dialogue: 0,0:05:33.15,0:05:36.22,DEFAULT,,0,0,0,,{\kf21}Oh,{\kf17} and{\kf17} as{\kf21} they{\kf34} jour{\kf21}neyed{\kf30} through{\kf13} the{\kf13} dark{\kf17}~
-Dialogue: 0,0:05:36.51,0:05:39.49,DEFAULT,,0,0,0,,{\kf17}Their{\kf34} hearts{\kf17} were{\kf34} tried{\kf21} and{\kf25} left{\kf17} with{\kf34} marks
-Dialogue: 0,0:05:40.20,0:05:42.10,DEFAULT,,0,0,0,,{\kf13}No{\kf17}thing{\kf13}~{\kf13} from{\kf25} Tar{\kf13}ta{\kf46}rus
-Dialogue: 0,0:05:43.26,0:05:45.50,DEFAULT,,0,0,0,,{\kf13}Could{\kf25} break{\kf21} their{\kf17} new{\kf21}-found{\kf25} trust{\kf13}~
-Dialogue: 0,0:05:45.79,0:05:49.52,DEFAULT,,0,0,0,,{\kf13}And{\kf17}~{\kf13} as{\kf17} the{\kf21} co{\kf30}~{\kf25}lors{\kf17} flew{\kf13}~{\kf21} in{\kf17}to{\kf13} the{\kf38} air
-Dialogue: 0,0:05:49.98,0:05:52.59,DEFAULT,,0,0,0,,{\kf21}To{\kf21} cast{\kf17} a{\kf21}way{\kf25} that{\kf25} cur{\kf25}sed{\kf17} mare
-Dialogue: 0,0:05:52.80,0:05:56.03,DEFAULT,,0,0,0,,{\kf17}They{\kf13} found{\kf21}~{\kf17} some{\kf21}thing{\kf25} else{\kf21} that{\kf21} was{\kf17}n't{\kf34} there
-Dialogue: 0,0:05:56.28,0:06:00.30,DEFAULT,,0,0,0,,{\kf17}The{\kf34} day{\kf17} the{\kf112} ma{\kf13}gic{\kf17} be{\kf42}gan
-Dialogue: 0,0:06:01.92,0:06:05.81,DEFAULT,,0,0,0,,{\kf25}They{\kf17} were{\kf13} sing{\kf13}ing{\kf13}~,{\kf59} Bye{\kf21}~{\kf21}-bye,{\kf17} lit{\kf17}tle{\kf13} li{\kf13}bra{\kf13}ri{\kf17}an
-Dialogue: 0,0:06:06.10,0:06:07.76,DEFAULT,,0,0,0,,{\kf21}Stop{\kf13} your{\kf13} think{\kf13}ing,{\kf13} quit{\kf13} the{\kf13} read{\kf9}ing
-Dialogue: 0,0:06:07.93,0:06:09.34,DEFAULT,,0,0,0,,{\kf13}Drop{\kf13} your{\kf13} nu{\kf13}me{\kf13}rous{\kf9} pens{\kf21}~
-Dialogue: 0,0:06:09.79,0:06:12.53,DEFAULT,,0,0,0,,{\kf13}You'll{\kf13} be{\kf21} al{\kf13}~{\kf25}right,{\kf13} I{\kf13} know{\kf13} I'll{\kf13} see{\kf13} you{\kf17} a{\kf25}gain
-Dialogue: 0,0:06:12.86,0:06:15.39,DEFAULT,,0,0,0,,{\kf17}Say{\kf17}ing{\kf13} "I{\kf13} could{\kf13} ne{\kf13}ver{\kf13} live{\kf13} with{\kf30}out{\kf38} friends"
-Dialogue: 0,0:06:16.55,0:06:18.70,DEFAULT,,0,0,0,,{\kf13}"I{\kf13} could{\kf13} ne{\kf13}ver{\kf13} live{\kf13} with{\kf30}out{\kf46} friends"
-Dialogue: 0,0:06:22.93,0:06:25.30,DEFAULT,,0,0,0,,{\kf13}They{\kf13} had{\kf13} a{\kf25} par{\kf25}ty{\kf25} back{\kf17} in{\kf17} town{\kf21}~
-Dialogue: 0,0:06:26.41,0:06:29.11,DEFAULT,,0,0,0,,{\kf13}With{\kf25} sing{\kf13}ing{\kf9} and{\kf17} danc{\kf38}ing{\kf17} all{\kf13} a{\kf13}round{\kf25}~
-Dialogue: 0,0:06:30.73,0:06:32.72,DEFAULT,,0,0,0,,{\kf17}They{\kf17} all{\kf30} saw{\kf13} the{\kf17} Prin{\kf17}cess{\kf21} then
-Dialogue: 0,0:06:35.45,0:06:38.10,DEFAULT,,0,0,0,,{\kf17}What{\kf17} they{\kf38} found{\kf13} in{\kf13} that{\kf21} an{\kf17}cient{\kf13} hall{\kf30}~
-Dialogue: 0,0:06:38.44,0:06:41.75,DEFAULT,,0,0,0,,{\kf25}They'd{\kf21} not{\kf17} be{\kf13} for{\kf17}get{\kf13}ting{\kf63} soon{\kf13} at{\kf13} all{\kf30}~
-Dialogue: 0,0:06:42.33,0:06:45.57,DEFAULT,,0,0,0,,{\kf13}But{\kf13} the{\kf17} smart{\kf38} one{\kf13} knew{\kf13} the{\kf38} jour{\kf42}ney
-Dialogue: 0,0:06:46.48,0:06:50.12,DEFAULT,,0,0,0,,{\kf13}Had{\kf13} an{\kf92} end{\kf13}~{\kf13}~{\kf21}~{\kf34}~{\kf92}~
-Dialogue: 0,0:06:51.04,0:06:53.77,DEFAULT,,0,0,0,,{\kf13}And{\kf17} af{\kf17}ter{\kf50} all{\kf21} was{\kf17} said{\kf17} and{\kf46} done
-Dialogue: 0,0:06:55.31,0:06:58.08,DEFAULT,,0,0,0,,{\kf13}The{\kf17} war{\kf17} was{\kf54} fought,{\kf13} and{\kf13} the{\kf13} bat{\kf17}tle{\kf46} won
-Dialogue: 0,0:06:59.58,0:07:02.31,DEFAULT,,0,0,0,,{\kf13}The{\kf17} Prin{\kf25}cess{\kf21} smi{\kf21}led{\kf38} bold{\kf54}ly
-Dialogue: 0,0:07:02.97,0:07:06.33,DEFAULT,,0,0,0,,{\kf17}And{\kf34} said,{\kf25} "Spike,{\kf13} take{\kf13} a{\kf17} note,{\kf54} please"
-Dialogue: 0,0:07:08.20,0:07:11.31,DEFAULT,,0,0,0,,{\kf13}With{\kf13} a{\kf25} calm{\kf21}ing{\kf50} voice{\kf13} and{\kf13} a{\kf13} sim{\kf13}ple{\kf17} tone{\kf25}~
-Dialogue: 0,0:07:12.47,0:07:15.49,DEFAULT,,0,0,0,,{\kf13}She{\kf25} changed{\kf13} the{\kf21} life{\kf13} of{\kf17}~{\kf13} the{\kf17} one{\kf21} she'd{\kf42} known
-Dialogue: 0,0:07:17.03,0:07:20.09,DEFAULT,,0,0,0,,{\kf21}"Wel{\kf17}come{\kf42} to{\kf25} your{\kf50} brand{\kf30} new{\kf34} home"
-Dialogue: 0,0:07:21.30,0:07:21.92,DEFAULT,,0,0,0,,{\kf13}The{\kf42} day
-Dialogue: 0,0:07:24.11,0:07:28.26,DEFAULT,,0,0,0,,{\kf17}The{\kf117} ma{\kf21}gic{\kf13} be{\kf38}gan
-Dialogue: 0,0:07:31.66,0:07:33.11,DEFAULT,,0,0,0,,{\kf13}And{\kf17} she{\kf17} was{\kf17} sing{\kf17}ing
-Dialogue: 0,0:07:34.39,0:07:38.33,DEFAULT,,0,0,0,,{\kf88}Bye{\kf30}~{\kf42}-bye,{\kf25} lit{\kf17}tle{\kf25} li{\kf25}bra{\kf21}ri{\kf21}an
-Dialogue: 0,0:07:39.16,0:07:41.65,DEFAULT,,0,0,0,,{\kf17}Stop{\kf21} your{\kf25} think{\kf17}ing,{\kf21} quit{\kf17} the{\kf21} read{\kf17}ing
-Dialogue: 0,0:07:41.86,0:07:44.18,DEFAULT,,0,0,0,,{\kf21}Drop{\kf17} your{\kf21} nu{\kf25}me{\kf21}rous{\kf17} pens{\kf34}~
-Dialogue: 0,0:07:45.01,0:07:49.52,DEFAULT,,0,0,0,,{\kf17}You'll{\kf21} be{\kf21} al{\kf21}~{\kf59}right,{\kf17} I{\kf21} know{\kf25} I'll{\kf21} see{\kf17} you{\kf17} a{\kf54}gain
-Dialogue: 0,0:07:50.02,0:07:53.96,DEFAULT,,0,0,0,,{\kf21}Say{\kf21}ing{\kf21} "I{\kf21} could{\kf17} ne{\kf13}ver{\kf17} live{\kf17} with{\kf30}out{\kf54} friends"
-Dialogue: 0,0:07:56.12,0:07:59.47,DEFAULT,,0,0,0,,{\kf21}"I{\kf21} could{\kf17} ne{\kf17}ver{\kf13} live{\kf13} with{\kf50}out{\kf13} friends{\kf54}~"
-Dialogue: 0,0:08:01.67,0:08:03.24,DEFAULT,,0,0,0,,{\kf46}They{\kf21} were{\kf30} sing{\kf30}ing
-Dialogue: 0,0:08:03.83,0:08:07.64,DEFAULT,,0,0,0,,{\kf88}Bye{\kf17}~{\kf46}-bye,{\kf17} lit{\kf17}tle{\kf25} li{\kf25}bra{\kf21}ri{\kf21}an
-Dialogue: 0,0:08:08.30,0:08:10.79,DEFAULT,,0,0,0,,{\kf21}Stop{\kf17} your{\kf25} think{\kf17}ing,{\kf17} quit{\kf17} the{\kf30} read{\kf21}ing
-Dialogue: 0,0:08:11.00,0:08:12.94,DEFAULT,,0,0,0,,{\kf13}Drop{\kf17} your{\kf21} nu{\kf17}me{\kf17}rous{\kf38} pens
-Dialogue: 0,0:08:13.81,0:08:18.08,DEFAULT,,0,0,0,,{\kf17}You'll{\kf21} be{\kf25} al{\kf21}~{\kf50}right,{\kf17} I{\kf21} know{\kf21} I'll{\kf21} see{\kf17} you{\kf17} a{\kf42}gain
-Dialogue: 0,0:08:18.62,0:08:23.76,DEFAULT,,0,0,0,,{\kf21}Say{\kf17}ing{\kf21} "I{\kf21} could{\kf21} ne{\kf17}ver{\kf21} live{\kf13} with{\kf30}out{\kf208} friends"
+Dialogue: 0,0:00:00.01,0:00:02.83,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf70} long,{\kf83} long{\kf32} time{\kf19} a{\kf59}go
+Dialogue: 0,0:00:04.03,0:00:06.97,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf33} sis{\kf26}ters{\kf33} ruled{\kf39} in{\kf52} har{\kf20}mo{\kf71}ny
+Dialogue: 0,0:00:07.26,0:00:10.33,DEFAULT,,0,0,0,,{\r}{\kf37}With{\kf22} so{\kf37}lace{\kf29} all{\kf29} through{\kf29}out{\kf22} the{\kf102} land
+Dialogue: 0,0:00:12.20,0:00:14.97,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf35} you{\kf28} could{\kf28} drink{\kf21} your{\kf35} ci{\kf21}der{\kf89} there
+Dialogue: 0,0:00:15.43,0:00:18.46,DEFAULT,,0,0,0,,{\r}{\kf23}With{\kf46}out{\kf17} the{\kf34} sin{\kf23}gle{\kf57} need{\kf17} to{\kf86} care
+Dialogue: 0,0:00:18.95,0:00:23.26,DEFAULT,,0,0,0,,{\r}{\kf28}I{\kf35}-if{\kf28} a{\kf83}ny{\kf21}po{\kf28}ny's{\kf21} look{\kf49}ing{\kf21} where{\kf28} you{\kf89} stand
+Dialogue: 0,0:00:26.33,0:00:29.65,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf26} then{\kf39} one{\kf65} night,{\kf20} the{\kf85} stars{\kf26} were{\kf20} stub{\kf31}born
+Dialogue: 0,0:00:30.23,0:00:33.46,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf42} cries{\kf30} were{\kf54} heard{\kf24} and{\kf72} tears{\kf24} were{\kf24} fal{\kf35}ling
+Dialogue: 0,0:00:34.50,0:00:36.82,DEFAULT,,0,0,0,,{\r}{\kf17}Sha{\kf28}dows{\kf50} in{\kf17} the{\kf28} sun{\kf92}light
+Dialogue: 0,0:00:37.73,0:00:40.84,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf32} new{\kf44} face{\kf89} in{\kf19} the{\kf32} moon{\kf76}light
+Dialogue: 0,0:00:42.33,0:00:45.11,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf36} pro{\kf24}phe{\kf24}cy{\kf24}~{\kf36} was{\kf18} com{\kf30}ing{\kf62} true
+Dialogue: 0,0:00:45.73,0:00:49.13,DEFAULT,,0,0,0,,{\r}{\kf44}And{\kf44} on{\kf30}ly{\kf52} one{\kf30} could{\kf52} see{\kf22} the{\kf22} clues{\kf44}~
+Dialogue: 0,0:00:50.37,0:00:53.36,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf19} when{\kf25} she{\kf70} tried{\kf25} to{\kf76} spread{\kf19} the{\kf19} news{\kf26}~
+Dialogue: 0,0:00:54.35,0:01:00.61,DEFAULT,,0,0,0,,{\r}{\kf52}That's{\kf122} where{\kf35} the{\kf174} ma{\kf43}gic{\kf35} be{\kf165}gan
+Dialogue: 0,0:01:04.92,0:01:08.74,DEFAULT,,0,0,0,,{\r}{\kf18}So,{\kf111} Bye{\kf31}~{\kf49}-bye,{\kf31} lit{\kf25}tle{\kf31} li{\kf25}bra{\kf31}ri{\kf29}an
+Dialogue: 0,0:01:09.44,0:01:11.60,DEFAULT,,0,0,0,,{\r}{\kf26}Stop{\kf26} your{\kf33} think{\kf20}ing,{\kf26} quit{\kf26} the{\kf39} read{\kf20}ing
+Dialogue: 0,0:01:11.80,0:01:13.79,DEFAULT,,0,0,0,,{\r}{\kf26}Drop{\kf26} your{\kf32} nu{\kf26}me{\kf26}rous{\kf19} pe{\kf44}-ens
+Dialogue: 0,0:01:14.50,0:01:18.44,DEFAULT,,0,0,0,,{\r}{\kf30}You'll{\kf30} be{\kf36} al{\kf30}~{\kf66}right,{\kf24} I{\kf30} know{\kf30} I'll{\kf30} see{\kf24} you{\kf24} a{\kf40}gain
+Dialogue: 0,0:01:19.02,0:01:22.75,DEFAULT,,0,0,0,,{\r}{\kf32}Say{\kf32}ing{\kf26} "I{\kf26} could{\kf26} ne{\kf19}ver{\kf26} live{\kf19} with{\kf77}out{\kf90} friends"
+Dialogue: 0,0:01:24.45,0:01:27.51,DEFAULT,,0,0,0,,{\r}{\kf25}"I{\kf25} could{\kf25} ne{\kf18}ver{\kf31} live{\kf18} with{\kf74}out{\kf25} friends{\kf66}~"
+Dialogue: 0,0:01:30.66,0:01:32.65,DEFAULT,,0,0,0,,{\r}{\kf26}Did{\kf26} you{\kf51} see{\kf26} it{\kf19} all{\kf32} go{\kf19} wrong
+Dialogue: 0,0:01:32.94,0:01:36.38,DEFAULT,,0,0,0,,{\r}{\kf26}As{\kf26} the{\kf53} e{\kf26}vening{\kf40} tried{\kf40} to{\kf46} move{\kf20} a{\kf20}long{\kf47}~
+Dialogue: 0,0:01:37.30,0:01:39.62,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf17} the{\kf23} strike{\kf17}~{\kf17} of{\kf29} light{\kf41}~{\kf17}ning{\kf54} flashed?
+Dialogue: 0,0:01:41.23,0:01:44.59,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} did{\kf27} you{\kf27}~{\kf34} meet{\kf21} up{\kf27}~{\kf27} with{\kf27} Night{\kf41}mare{\kf34} Moon{\kf29}~?
+Dialogue: 0,0:01:44.84,0:01:47.87,DEFAULT,,0,0,0,,{\r}{\kf35}Did{\kf28} you{\kf42} think{\kf49} she'd{\kf42} be{\kf35} back{\kf35} so{\kf37} soon?
+Dialogue: 0,0:01:48.12,0:01:53.92,DEFAULT,,0,0,0,,{\r}{\kf26}Oh{\kf40}~,{\kf20} e{\kf20}very{\kf33}thing{\kf72} was{\kf20} go{\kf20}ing{\kf66} by{\kf53} so{\kf20}~{\kf105} fast{\kf13}~{\kf13}~{\kf20}~{\kf39}~
+Dialogue: 0,0:01:54.42,0:01:57.61,DEFAULT,,0,0,0,,{\r}{\kf18}A{\kf24} loud{\kf24}~{\kf30} clat{\kf24}ter{\kf71} filled{\kf35} the{\kf47} at{\kf24}mos{\kf22}phere
+Dialogue: 0,0:01:57.81,0:02:01.13,DEFAULT,,0,0,0,,{\r}{\kf18}When{\kf53} we{\kf30} saw{\kf18} the{\kf53} la{\kf42}dy{\kf42} dis{\kf24}ap{\kf18}pear{\kf34}~
+Dialogue: 0,0:02:01.55,0:02:03.87,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf37} rest{\kf18} were{\kf24}~{\kf18} all{\kf18}~{\kf24} con{\kf31}fused{\kf44}~
+Dialogue: 0,0:02:04.36,0:02:07.51,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf37} that{\kf49} smart{\kf37} one{\kf25} knew{\kf19} what{\kf19} to{\kf19} do{\kf62}~{\kf29}~
+Dialogue: 0,0:02:07.72,0:02:10.95,DEFAULT,,0,0,0,,{\r}{\kf23}She{\kf17} was{\kf17} a{\kf17} po{\kf23}~{\kf23}ny{\kf34} who{\kf23} had{\kf17}~{\kf23} a{\kf28} vio{\kf28}let{\kf50} mane
+Dialogue: 0,0:02:11.24,0:02:14.27,DEFAULT,,0,0,0,,{\r}{\kf25}With{\kf19} a{\kf25} straight{\kf31}-A{\kf43} re{\kf25}cord{\kf19} and{\kf19} a{\kf25} dra{\kf25}gon{\kf47} slave
+Dialogue: 0,0:02:14.73,0:02:17.67,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf29} e{\kf23}very{\kf17}po{\kf23}~{\kf23}ny{\kf23} would{\kf35} know{\kf23}~{\kf23} her{\kf52} name
+Dialogue: 0,0:02:17.88,0:02:21.77,DEFAULT,,0,0,0,,{\r}{\kf27}The{\kf48} day{\kf27} the{\kf171} ma{\kf27}gic{\kf27} be{\kf63}gan
+Dialogue: 0,0:02:23.47,0:02:27.33,DEFAULT,,0,0,0,,{\r}{\kf24}They{\kf24} were{\kf24} sing{\kf18}ing{\kf18}~,{\kf79} Bye{\kf24}~{\kf43}-bye,{\kf24} lit{\kf18}tle{\kf18} li{\kf24}bra{\kf24}ri{\kf23}an
+Dialogue: 0,0:02:27.58,0:02:29.32,DEFAULT,,0,0,0,,{\r}{\kf44}Stop{\kf19} your{\kf25} think{\kf19}ing,{\kf19} quit{\kf19} the{\kf19} read{\kf10}ing
+Dialogue: 0,0:02:29.48,0:02:30.89,DEFAULT,,0,0,0,,{\r}{\kf18}Drop{\kf18} your{\kf18} nu{\kf18}me{\kf18}rous{\kf18} pens{\kf33}~
+Dialogue: 0,0:02:31.35,0:02:34.04,DEFAULT,,0,0,0,,{\r}{\kf18}You'll{\kf18} be{\kf24} al{\kf18}~{\kf42}right,{\kf18} I{\kf18} know{\kf18} I'll{\kf18} see{\kf24} you{\kf24} a{\kf29}gain
+Dialogue: 0,0:02:34.42,0:02:36.86,DEFAULT,,0,0,0,,{\r}{\kf19}Say{\kf19}ing{\kf19} "I{\kf19} could{\kf19} ne{\kf19}ver{\kf19} live{\kf19} with{\kf32}out{\kf61} friends"
+Dialogue: 0,0:02:38.11,0:02:40.26,DEFAULT,,0,0,0,,{\r}{\kf18}"I{\kf18} could{\kf18} ne{\kf18}ver{\kf18} live{\kf18} with{\kf48}out{\kf24} friends{\kf36}~"
+Dialogue: 0,0:02:42.50,0:02:45.77,DEFAULT,,0,0,0,,{\r}{\kf20}Now{\kf20}~,{\kf20} her{\kf39} whole{\kf20} life{\kf33}~{\kf46} she'd{\kf26} been{\kf20} on{\kf39} her{\kf20} own{\kf24}~
+Dialogue: 0,0:02:46.02,0:02:49.26,DEFAULT,,0,0,0,,{\r}{\kf13}With{\kf13} a{\kf61} heart{\kf54} made{\kf27} right{\kf27} out{\kf34} of{\kf20} so{\kf34}lid{\kf20} stone{\kf20}~
+Dialogue: 0,0:02:49.50,0:02:52.45,DEFAULT,,0,0,0,,{\r}{\kf45}But{\kf19} that's{\kf32} how{\kf26} she{\kf26}~{\kf26} pre{\kf38}ferred{\kf26} to{\kf19} be{\kf37}~
+Dialogue: 0,0:02:54.11,0:02:57.21,DEFAULT,,0,0,0,,{\r}{\kf39}Then{\kf19} the{\kf45} Prin{\kf19}cess{\kf58} told{\kf19} her{\kf19} to{\kf26} wor{\kf26}ry{\kf41} less
+Dialogue: 0,0:02:57.42,0:03:00.74,DEFAULT,,0,0,0,,{\r}{\kf18}A{\kf36}bout{\kf48} things{\kf18} that{\kf24} she{\kf42} had{\kf42} on{\kf66}ly{\kf38} read
+Dialogue: 0,0:03:00.95,0:03:05.88,DEFAULT,,0,0,0,,{\r}{\kf13}In{\kf20} a{\kf53} book{\kf20} that{\kf20} con{\kf27}tained{\kf67}~{\kf40} a{\kf20} mys{\kf27}te{\kf93}ry{\kf20}~{\kf20}~{\kf20}~{\kf33}~
+Dialogue: 0,0:03:07.41,0:03:10.73,DEFAULT,,0,0,0,,{\r}{\kf27}Oh,{\kf40} and{\kf33} as{\kf27} the{\kf33} sun{\kf27} was{\kf27} go{\kf27}ing{\kf60} down{\kf31}~
+Dialogue: 0,0:03:10.98,0:03:13.96,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf41} Prin{\kf34}cess{\kf41} sent{\kf47} her{\kf27} in{\kf20}to{\kf68} town
+Dialogue: 0,0:03:14.33,0:03:16.70,DEFAULT,,0,0,0,,{\r}{\kf24}Pre{\kf24}pa{\kf24}~{\kf24}ring{\kf18} for{\kf18}~{\kf18} the{\kf36} feast{\kf50}~
+Dialogue: 0,0:03:17.65,0:03:20.34,DEFAULT,,0,0,0,,{\r}{\kf26}No{\kf33}~{\kf20}po{\kf33}ny{\kf33} would{\kf26} be{\kf20}lieve{\kf20}~{\kf58}~
+Dialogue: 0,0:03:20.55,0:03:23.78,DEFAULT,,0,0,0,,{\r}{\kf19}Be{\kf19}cause{\kf38}~{\kf25} it{\kf32} had{\kf38} been{\kf25} a{\kf38} thou{\kf38}sand{\kf51} years
+Dialogue: 0,0:03:24.28,0:03:27.27,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf18} mid{\kf43}night{\kf36} hour{\kf30} was{\kf43}~{\kf24} get{\kf24}ting{\kf30} near{\kf32}~
+Dialogue: 0,0:03:27.52,0:03:30.46,DEFAULT,,0,0,0,,{\r}{\kf26}The{\kf26} Prin{\kf52}cess{\kf33} told{\kf39} her{\kf39} not{\kf20} to{\kf59} fear
+Dialogue: 0,0:03:30.67,0:03:34.56,DEFAULT,,0,0,0,,{\r}{\kf27}The{\kf55} day{\kf27} the{\kf171} ma{\kf27}gic{\kf27} be{\kf56}gan
+Dialogue: 0,0:03:36.26,0:03:40.20,DEFAULT,,0,0,0,,{\r}{\kf36}She{\kf24} was{\kf18} sing{\kf18}ing{\kf18}~,{\kf78} Bye{\kf36}~{\kf36}-bye,{\kf18} lit{\kf18}tle{\kf24} li{\kf24}bra{\kf24}ri{\kf22}an
+Dialogue: 0,0:03:40.45,0:03:42.15,DEFAULT,,0,0,0,,{\r}{\kf36}Stop{\kf18} your{\kf24} think{\kf18}ing,{\kf18} quit{\kf18} the{\kf18} read{\kf20}ing
+Dialogue: 0,0:03:42.31,0:03:43.64,DEFAULT,,0,0,0,,{\r}{\kf19}Drop{\kf19} your{\kf19} nu{\kf19}me{\kf19}rous{\kf19} pens{\kf19}~
+Dialogue: 0,0:03:44.18,0:03:46.87,DEFAULT,,0,0,0,,{\r}{\kf18}You'll{\kf24} be{\kf24} al{\kf24}~{\kf36}right,{\kf18} I{\kf18} know{\kf18} I'll{\kf24} see{\kf18} you{\kf18} a{\kf29}gain
+Dialogue: 0,0:03:47.25,0:03:49.65,DEFAULT,,0,0,0,,{\r}{\kf27}Say{\kf20}ing{\kf20} "I{\kf20} could{\kf20} ne{\kf13}ver{\kf13} live{\kf20} with{\kf33}out{\kf54} friends"
+Dialogue: 0,0:03:50.94,0:03:52.97,DEFAULT,,0,0,0,,{\r}{\kf24}"I{\kf18} could{\kf18} ne{\kf18}ver{\kf18} live{\kf18} with{\kf48}out{\kf41} friends"
+Dialogue: 0,0:03:55.99,0:03:58.69,DEFAULT,,0,0,0,,{\r}{\kf39}Hus{\kf33}tle{\kf46}-bus{\kf26}tle{\kf20} in{\kf20} an{\kf13} ag{\kf20}ing{\kf33} cas{\kf19}tle
+Dialogue: 0,0:03:58.85,0:04:02.21,DEFAULT,,0,0,0,,{\r}{\kf25}It{\kf75} all{\kf25} took{\kf25} off{\kf25} in{\kf25} an{\kf19} e{\kf37}pic{\kf37} bat{\kf43}tle
+Dialogue: 0,0:04:02.79,0:04:07.47,DEFAULT,,0,0,0,,{\r}{\kf32}One{\kf38} last{\kf32} blow{\kf32}~{\kf32} and{\kf26} fly{\kf26}ing{\kf19} fa{\kf32}a{\kf32}a{\kf26}a{\kf26}a{\kf19}a{\kf19}a{\kf19}a{\kf26}a{\kf32}ast
+Dialogue: 0,0:04:07.72,0:04:10.09,DEFAULT,,0,0,0,,{\r}{\kf25}It{\kf19} en{\kf19}~{\kf25}ded{\kf19} with{\kf19} a{\kf37} po{\kf19}wer{\kf19}ful{\kf35} blast
+Dialogue: 0,0:04:10.58,0:04:13.53,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf20} king{\kf33}dom{\kf27} thrived{\kf27}~{\kf20} for{\kf20} a{\kf20} time{\kf40} at{\kf67} last
+Dialogue: 0,0:04:13.73,0:04:18.71,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} the{\kf34} Prin{\kf40}cess{\kf27} put{\kf27} her{\kf47} sis{\kf54}ter{\kf27} in{\kf20} the{\kf101} past{\kf13}~{\kf13}~{\kf20}~{\kf34}~
+Dialogue: 0,0:04:20.20,0:04:23.56,DEFAULT,,0,0,0,,{\r}{\kf40}Oh,{\kf20} the{\kf33} pas{\kf46}sing{\kf20} hours{\kf33}~{\kf46} were{\kf33} bit{\kf26}ter{\kf20}sweet{\kf19}~
+Dialogue: 0,0:04:23.76,0:04:26.63,DEFAULT,,0,0,0,,{\r}{\kf24}While{\kf24} the{\kf49} sol{\kf37}diers{\kf37} kept{\kf24} a{\kf24} safe{\kf24} re{\kf43}treat
+Dialogue: 0,0:04:27.37,0:04:29.44,DEFAULT,,0,0,0,,{\r}{\kf20}They{\kf33} all{\kf27} for{\kf13}got{\kf20}~{\kf20} the{\kf40} name{\kf34}~
+Dialogue: 0,0:04:29.73,0:04:32.76,DEFAULT,,0,0,0,,{\r}{\kf32}Oh{\kf19}~,{\kf19} but{\kf57} it'd{\kf25} ne{\kf19}ver{\kf19} be{\kf19}~{\kf19} the{\kf19} same{\kf19}~{\kf37}~
+Dialogue: 0,0:04:33.38,0:04:36.91,DEFAULT,,0,0,0,,{\r}{\kf36}'Cause{\kf18} the{\kf24} e{\kf49}le{\kf18}me{\kf36}-ents{\kf24} were{\kf61} turned{\kf18} to{\kf30} boul{\kf38}ders
+Dialogue: 0,0:04:37.28,0:04:40.14,DEFAULT,,0,0,0,,{\r}{\kf21}Some{\kf35} folks{\kf28} grew{\kf35} old{\kf35} and{\kf42} hearts{\kf28} grew{\kf35} cold{\kf27}er
+Dialogue: 0,0:04:40.64,0:04:43.41,DEFAULT,,0,0,0,,{\r}{\kf19}Who{\kf19} would{\kf25} have{\kf51} thought{\kf25} it'd{\kf19} all{\kf38}~{\kf25} be{\kf38} o{\kf19}ver
+Dialogue: 0,0:04:43.58,0:04:47.60,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf60} day{\kf27} the{\kf167} ma{\kf20}gic{\kf20} be{\kf88}gan?
+Dialogue: 0,0:04:49.09,0:04:52.99,DEFAULT,,0,0,0,,{\r}{\kf42}They'd{\kf24} be{\kf18} sing{\kf30}ing,{\kf84} Bye{\kf30}~{\kf36}-bye,{\kf18} lit{\kf18}tle{\kf24} li{\kf24}bra{\kf24}ri{\kf18}an
+Dialogue: 0,0:04:53.28,0:04:55.02,DEFAULT,,0,0,0,,{\r}{\kf39}Stop{\kf19} your{\kf19} think{\kf19}ing,{\kf19} quit{\kf19} the{\kf19} read{\kf21}ing
+Dialogue: 0,0:04:55.19,0:04:56.51,DEFAULT,,0,0,0,,{\r}{\kf18}Drop{\kf18} your{\kf18} nu{\kf18}me{\kf18}rous{\kf18} pens{\kf25}~
+Dialogue: 0,0:04:57.01,0:04:59.79,DEFAULT,,0,0,0,,{\r}{\kf18}You'll{\kf24} be{\kf24} al{\kf24}~{\kf41}right,{\kf18} I{\kf18} know{\kf18} I'll{\kf18} see{\kf18} you{\kf18} a{\kf39}gain
+Dialogue: 0,0:05:00.03,0:05:02.60,DEFAULT,,0,0,0,,{\r}{\kf19}Say{\kf19}ing{\kf19} "I{\kf19} could{\kf19} ne{\kf13}ver{\kf19} live{\kf13} with{\kf45}out{\kf72} friends"
+Dialogue: 0,0:05:03.77,0:05:05.96,DEFAULT,,0,0,0,,{\r}{\kf19}"I{\kf19} could{\kf19} ne{\kf19}ver{\kf19} live{\kf13} with{\kf45}out{\kf19} friends{\kf48}~"
+Dialogue: 0,0:05:07.74,0:05:11.39,DEFAULT,,0,0,0,,{\r}{\kf52}Oh{\kf20}~{\kf26}~,{\kf39} on{\kf46}ly{\kf33} hours{\kf33} from{\kf26} cer{\kf46}tain{\kf44} doom
+Dialogue: 0,0:05:11.85,0:05:14.67,DEFAULT,,0,0,0,,{\r}{\kf39}Six{\kf20} lit{\kf20}tle{\kf33} po{\kf66}nies{\kf20} in{\kf39} one{\kf45} room
+Dialogue: 0,0:05:15.12,0:05:18.23,DEFAULT,,0,0,0,,{\r}{\kf20}With{\kf40} no{\kf40} time{\kf20} left{\kf20}~{\kf26} to{\kf20} waste{\kf33}~{\kf26} at{\kf20} all{\kf46}~
+Dialogue: 0,0:05:19.68,0:05:22.92,DEFAULT,,0,0,0,,{\r}{\kf20}So,{\kf27} come{\kf20} on{\kf20}~,{\kf27} you{\kf34} know{\kf27} some{\kf40}thing{\kf27} they{\kf34} don't{\kf47} know
+Dialogue: 0,0:05:23.66,0:05:26.81,DEFAULT,,0,0,0,,{\r}{\kf30}You{\kf71} know{\kf24} a{\kf18}bout{\kf18} the{\kf18} sto{\kf18}ry{\kf18} be{\kf36}low{\kf30}~,{\kf34} and
+Dialogue: 0,0:05:27.81,0:05:31.66,DEFAULT,,0,0,0,,{\r}{\kf18}Se{\kf23}crets{\kf18} are{\kf23} a{\kf18} sub{\kf29}tle{\kf47} way{\kf18} to{\kf99} fall{\kf18}~{\kf18}~{\kf18}~{\kf38}~
+Dialogue: 0,0:05:33.15,0:05:36.22,DEFAULT,,0,0,0,,{\r}{\kf32}Oh,{\kf26} and{\kf26} as{\kf32} they{\kf51} jour{\kf32}neyed{\kf45} through{\kf19} the{\kf19} dark{\kf25}~
+Dialogue: 0,0:05:36.51,0:05:39.50,DEFAULT,,0,0,0,,{\r}{\kf25}Their{\kf51} hearts{\kf25} were{\kf51} tried{\kf32} and{\kf38} left{\kf25} with{\kf51} marks
+Dialogue: 0,0:05:40.20,0:05:42.11,DEFAULT,,0,0,0,,{\r}{\kf17}No{\kf23}thing{\kf17}~{\kf17} from{\kf35} Tar{\kf17}ta{\kf65}rus
+Dialogue: 0,0:05:43.27,0:05:45.51,DEFAULT,,0,0,0,,{\r}{\kf21}Could{\kf42} break{\kf35} their{\kf28} new{\kf35}-found{\kf42} trust{\kf21}~
+Dialogue: 0,0:05:45.80,0:05:49.53,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf25}~{\kf19} as{\kf25} the{\kf31} co{\kf44}~{\kf37}lors{\kf25} flew{\kf19}~{\kf31} in{\kf25}to{\kf19} the{\kf54} air
+Dialogue: 0,0:05:49.98,0:05:52.60,DEFAULT,,0,0,0,,{\r}{\kf32}To{\kf32} cast{\kf25} a{\kf32}way{\kf38} that{\kf38} cur{\kf38}sed{\kf26} mare
+Dialogue: 0,0:05:52.80,0:05:56.04,DEFAULT,,0,0,0,,{\r}{\kf26}They{\kf20} found{\kf33}~{\kf26} some{\kf33}thing{\kf40} else{\kf33} that{\kf33} was{\kf26}n't{\kf53} there
+Dialogue: 0,0:05:56.28,0:06:00.31,DEFAULT,,0,0,0,,{\r}{\kf27}The{\kf54} day{\kf27} the{\kf181} ma{\kf20}gic{\kf27} be{\kf66}gan
+Dialogue: 0,0:06:01.92,0:06:05.82,DEFAULT,,0,0,0,,{\r}{\kf37}They{\kf24} were{\kf18} sing{\kf18}ing{\kf18}~,{\kf85} Bye{\kf30}~{\kf30}-bye,{\kf24} lit{\kf24}tle{\kf18} li{\kf18}bra{\kf18}ri{\kf28}an
+Dialogue: 0,0:06:06.11,0:06:07.77,DEFAULT,,0,0,0,,{\r}{\kf33}Stop{\kf20} your{\kf20} think{\kf20}ing,{\kf20} quit{\kf20} the{\kf20} read{\kf13}ing
+Dialogue: 0,0:06:07.93,0:06:09.34,DEFAULT,,0,0,0,,{\r}{\kf19}Drop{\kf19} your{\kf19} nu{\kf19}me{\kf19}rous{\kf13} pens{\kf33}~
+Dialogue: 0,0:06:09.80,0:06:12.53,DEFAULT,,0,0,0,,{\r}{\kf18}You'll{\kf18} be{\kf30} al{\kf18}~{\kf37}right,{\kf18} I{\kf18} know{\kf18} I'll{\kf18} see{\kf18} you{\kf24} a{\kf39}gain
+Dialogue: 0,0:06:12.86,0:06:15.39,DEFAULT,,0,0,0,,{\r}{\kf24}Say{\kf24}ing{\kf18} "I{\kf18} could{\kf18} ne{\kf18}ver{\kf18} live{\kf18} with{\kf42}out{\kf55} friends"
+Dialogue: 0,0:06:16.55,0:06:18.71,DEFAULT,,0,0,0,,{\r}{\kf18}"I{\kf18} could{\kf18} ne{\kf18}ver{\kf18} live{\kf18} with{\kf42}out{\kf66} friends"
+Dialogue: 0,0:06:22.94,0:06:25.30,DEFAULT,,0,0,0,,{\r}{\kf18}They{\kf18} had{\kf18} a{\kf35} par{\kf35}ty{\kf35} back{\kf24} in{\kf24} town{\kf29}~
+Dialogue: 0,0:06:26.42,0:06:29.11,DEFAULT,,0,0,0,,{\r}{\kf19}With{\kf38} sing{\kf19}ing{\kf13} and{\kf25} danc{\kf56}ing{\kf25} all{\kf19} a{\kf19}round{\kf36}~
+Dialogue: 0,0:06:30.73,0:06:32.72,DEFAULT,,0,0,0,,{\r}{\kf26}They{\kf26} all{\kf45} saw{\kf19} the{\kf26} Prin{\kf26}cess{\kf31} then
+Dialogue: 0,0:06:35.46,0:06:38.11,DEFAULT,,0,0,0,,{\r}{\kf25}What{\kf25} they{\kf57} found{\kf19} in{\kf19} that{\kf32} an{\kf25}cient{\kf19} hall{\kf44}~
+Dialogue: 0,0:06:38.44,0:06:41.76,DEFAULT,,0,0,0,,{\r}{\kf38}They'd{\kf31} not{\kf25} be{\kf19} for{\kf25}get{\kf19}ting{\kf94} soon{\kf19} at{\kf19} all{\kf43}~
+Dialogue: 0,0:06:42.34,0:06:45.57,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} the{\kf29} smart{\kf66} one{\kf22} knew{\kf22} the{\kf66} jour{\kf74}ney
+Dialogue: 0,0:06:46.48,0:06:50.13,DEFAULT,,0,0,0,,{\r}{\kf16}Had{\kf16} an{\kf116} end{\kf16}~{\kf16}~{\kf26}~{\kf42}~{\kf117}~
+Dialogue: 0,0:06:51.04,0:06:53.78,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf23} af{\kf23}ter{\kf70} all{\kf29} was{\kf23} said{\kf23} and{\kf66} done
+Dialogue: 0,0:06:55.31,0:06:58.09,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf23} war{\kf23} was{\kf75} fought,{\kf17} and{\kf17} the{\kf17} bat{\kf23}tle{\kf66} won
+Dialogue: 0,0:06:59.58,0:07:02.32,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf24} Prin{\kf37}cess{\kf30} smi{\kf30}led{\kf55} bold{\kf80}ly
+Dialogue: 0,0:07:02.98,0:07:06.34,DEFAULT,,0,0,0,,{\r}{\kf33}And{\kf66} said,{\kf49} "Spike,{\kf25} take{\kf25} a{\kf33} note,{\kf105} please"
+Dialogue: 0,0:07:08.20,0:07:11.31,DEFAULT,,0,0,0,,{\r}{\kf18}With{\kf18} a{\kf37} calm{\kf30}ing{\kf73} voice{\kf18} and{\kf18} a{\kf18} sim{\kf18}ple{\kf24} tone{\kf39}~
+Dialogue: 0,0:07:12.47,0:07:15.50,DEFAULT,,0,0,0,,{\r}{\kf20}She{\kf40} changed{\kf20} the{\kf33} life{\kf20} of{\kf26}~{\kf20} the{\kf26} one{\kf33} she'd{\kf65} known
+Dialogue: 0,0:07:17.03,0:07:20.10,DEFAULT,,0,0,0,,{\r}{\kf30}"Wel{\kf24}come{\kf59} to{\kf35} your{\kf71} brand{\kf41} new{\kf47} home"
+Dialogue: 0,0:07:21.30,0:07:21.92,DEFAULT,,0,0,0,,{\r}{\kf14}The{\kf48} day
+Dialogue: 0,0:07:24.12,0:07:28.26,DEFAULT,,0,0,0,,{\r}{\kf34}The{\kf237} ma{\kf42}gic{\kf25} be{\kf77}gan
+Dialogue: 0,0:07:31.66,0:07:33.11,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf31} she{\kf31} was{\kf31} sing{\kf29}ing
+Dialogue: 0,0:07:34.40,0:07:38.34,DEFAULT,,0,0,0,,{\r}{\kf118}Bye{\kf39}~{\kf56}-bye,{\kf34} lit{\kf23}tle{\kf34} li{\kf34}bra{\kf28}ri{\kf28}an
+Dialogue: 0,0:07:39.17,0:07:41.65,DEFAULT,,0,0,0,,{\r}{\kf27}Stop{\kf34} your{\kf40} think{\kf27}ing,{\kf34} quit{\kf27} the{\kf34} read{\kf26}ing
+Dialogue: 0,0:07:41.86,0:07:44.18,DEFAULT,,0,0,0,,{\r}{\kf31}Drop{\kf25} your{\kf31} nu{\kf38}me{\kf31}rous{\kf25} pens{\kf51}~
+Dialogue: 0,0:07:45.01,0:07:49.53,DEFAULT,,0,0,0,,{\r}{\kf24}You'll{\kf31} be{\kf31} al{\kf31}~{\kf86}right,{\kf24} I{\kf31} know{\kf37} I'll{\kf31} see{\kf24} you{\kf24} a{\kf78}gain
+Dialogue: 0,0:07:50.03,0:07:53.96,DEFAULT,,0,0,0,,{\r}{\kf36}Say{\kf36}ing{\kf36} "I{\kf36} could{\kf29} ne{\kf21}ver{\kf29} live{\kf29} with{\kf50}out{\kf92} friends"
+Dialogue: 0,0:07:56.12,0:07:59.48,DEFAULT,,0,0,0,,{\r}{\kf32}"I{\kf32} could{\kf26} ne{\kf26}ver{\kf19} live{\kf19} with{\kf78}out{\kf19} friends{\kf85}~"
+Dialogue: 0,0:08:01.67,0:08:03.25,DEFAULT,,0,0,0,,{\r}{\kf58}They{\kf26} were{\kf37} sing{\kf37}ing
+Dialogue: 0,0:08:03.83,0:08:07.64,DEFAULT,,0,0,0,,{\r}{\kf121}Bye{\kf23}~{\kf64}-bye,{\kf23} lit{\kf23}tle{\kf35} li{\kf35}bra{\kf29}ri{\kf28}an
+Dialogue: 0,0:08:08.31,0:08:10.79,DEFAULT,,0,0,0,,{\r}{\kf32}Stop{\kf26} your{\kf38} think{\kf26}ing,{\kf26} quit{\kf26} the{\kf45} read{\kf30}ing
+Dialogue: 0,0:08:11.00,0:08:12.95,DEFAULT,,0,0,0,,{\r}{\kf20}Drop{\kf27} your{\kf34} nu{\kf27}me{\kf27}rous{\kf60} pens
+Dialogue: 0,0:08:13.82,0:08:18.09,DEFAULT,,0,0,0,,{\r}{\kf25}You'll{\kf31} be{\kf37} al{\kf31}~{\kf74}right,{\kf25} I{\kf31} know{\kf31} I'll{\kf31} see{\kf25} you{\kf25} a{\kf61}gain
+Dialogue: 0,0:08:18.63,0:08:23.77,DEFAULT,,0,0,0,,{\r}{\kf28}Say{\kf22}ing{\kf28} "I{\kf28} could{\kf28} ne{\kf22}ver{\kf28} live{\kf17} with{\kf39}out{\kf274} friends"

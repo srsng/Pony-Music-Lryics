@@ -1,52 +1,59 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Monday Blues
+Artist: Equestria Girls Shorts
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:31.61,0:00:32.96,DEFAULT,,0,0,0,,{\kf19}Wake{\kf12} up{\kf15} in{\kf12} the{\kf27} mor{\kf12}nin'
-Dialogue: 0,0:00:33.11,0:00:35.85,DEFAULT,,0,0,0,,{\kf19}And{\kf12} I{\kf19} pull{\kf15} the{\kf19} co{\kf23}vers{\kf23} o{\kf12}ver{\kf27} my{\kf53} head
-Dialogue: 0,0:00:36.79,0:00:37.61,DEFAULT,,0,0,0,,{\kf27}He{\kf15}-ey-{\kf34}oh
-Dialogue: 0,0:00:39.30,0:00:40.87,DEFAULT,,0,0,0,,{\kf15}I{\kf19} got{\kf12}ta{\kf23} get{\kf12} it{\kf23} mo{\kf12}vin'
-Dialogue: 0,0:00:41.02,0:00:43.72,DEFAULT,,0,0,0,,{\kf19}But{\kf12} I'd{\kf15} rat{\kf12}her{\kf34} stay{\kf23} he{\kf15}-ere{\kf12} in{\kf60}stead
-Dialogue: 0,0:00:44.51,0:00:45.94,DEFAULT,,0,0,0,,{\kf30}He{\kf34}-he{\kf38}-e{\kf30}-ey
-Dialogue: 0,0:00:48.04,0:00:51.22,DEFAULT,,0,0,0,,{\kf19}My{\kf23} hair's{\kf8} a{\kf19} di{\kf27}sas{\kf19}ter,{\kf19} don't{\kf12} know{\kf19} what{\kf12} to{\kf49} do
-Dialogue: 0,0:00:51.75,0:00:55.27,DEFAULT,,0,0,0,,{\kf19}But{\kf15} I{\kf19} need{\kf12} to{\kf19} move{\kf38} fas{\kf23}ter{\kf12} to{\kf38} make{\kf15} it{\kf60} through
-Dialogue: 0,0:00:55.87,0:01:02.25,DEFAULT,,0,0,0,,{\kf15}This{\kf23} cra{\kf30}zy{\kf45} mor{\kf23}ning{\kf23} has{\kf30} got{\kf15} me{\kf23} con{\kf42}fu{\kf289}-used
-Dialogue: 0,0:01:03.60,0:01:05.14,DEFAULT,,0,0,0,,{\kf19}Eve{\kf15}ry{\kf19}where{\kf23} that{\kf15} I{\kf42} go
-Dialogue: 0,0:01:05.51,0:01:07.09,DEFAULT,,0,0,0,,{\kf15}Eve{\kf12}ry{\kf23}thing{\kf19} that{\kf15} I{\kf38} do
-Dialogue: 0,0:01:07.27,0:01:10.09,DEFAULT,,0,0,0,,{\kf15}I{\kf42} can't{\kf23} shake{\kf38} these{\kf38} Mon{\kf42}day{\kf45} blues
-Dialogue: 0,0:01:10.24,0:01:13.91,DEFAULT,,0,0,0,,{\kf45}'Cause{\kf42} so{\kf23}-ome{\kf45} days,{\kf30} I{\kf34} can't{\kf42} find{\kf15} the{\kf27} way
-Dialogue: 0,0:01:14.14,0:01:18.67,DEFAULT,,0,0,0,,{\kf27}Out{\kf23} o{\kf27}-of{\kf34} this{\kf34} haze,{\kf23} hope{\kf19} I'll{\kf30} be{\kf23} o{\kf15}-o{\kf49}ka{\kf42}-a{\kf12}-ay
-Dialogue: 0,0:01:18.79,0:01:20.44,DEFAULT,,0,0,0,,{\kf19} Just{\kf15} can't{\kf19} seem{\kf12} to{\kf19} get{\kf12} it{\kf19} right
-Dialogue: 0,0:01:20.59,0:01:22.99,DEFAULT,,0,0,0,,{\kf15}A{\kf27} cloud{\kf15} is{\kf19} hang{\kf23}ing{\kf19} o{\kf15}-o{\kf15}ver{\kf49} me
-Dialogue: 0,0:01:24.00,0:01:24.86,DEFAULT,,0,0,0,,{\kf23}He{\kf23}-e{\kf34}-ey
-Dialogue: 0,0:01:26.44,0:01:28.01,DEFAULT,,0,0,0,,{\kf19}I{\kf15} wish{\kf8} it{\kf23} was{\kf12} the{\kf23} week{\kf15}end
-Dialogue: 0,0:01:28.20,0:01:31.12,DEFAULT,,0,0,0,,{\kf19}'Cause{\kf15} you{\kf19} know{\kf19} that's{\kf23} where{\kf19} I'd{\kf23} ra{\kf15}-a{\kf23}ther{\kf72} be
-Dialogue: 0,0:01:31.76,0:01:33.37,DEFAULT,,0,0,0,,{\kf27}He{\kf30}-he{\kf38}-e{\kf49}-ey
-Dialogue: 0,0:01:35.25,0:01:38.47,DEFAULT,,0,0,0,,{\kf12}I{\kf15} won{\kf19}der{\kf27} what{\kf23} thi{\kf19}-ngs{\kf30} won't{\kf30} go{\kf15} my{\kf23} wa{\kf23}-ay
-Dialogue: 0,0:01:39.04,0:01:42.41,DEFAULT,,0,0,0,,{\kf15}Or{\kf15} if{\kf19} I'll{\kf23} e{\kf15}ver{\kf42} make{\kf30} it{\kf38} through{\kf15} the{\kf53} day
-Dialogue: 0,0:01:43.09,0:01:49.91,DEFAULT,,0,0,0,,{\kf23}I{\kf27} hope{\kf30} this{\kf34} fee{\kf19}ling{\kf27} won't{\kf38} lead{\kf23} me{\kf27} a{\kf30}stra{\kf330}-ay
-Dialogue: 0,0:01:50.74,0:01:52.31,DEFAULT,,0,0,0,,{\kf23}Eve{\kf15}ry{\kf23}where{\kf19} that{\kf15} I{\kf34} go
-Dialogue: 0,0:01:52.69,0:01:54.26,DEFAULT,,0,0,0,,{\kf23}Eve{\kf19}ry{\kf23}thing{\kf23} that{\kf15} I{\kf30} do
-Dialogue: 0,0:01:54.49,0:01:57.22,DEFAULT,,0,0,0,,{\kf12}I{\kf42} can't{\kf27} shake{\kf45} these{\kf45} Mon{\kf38}day{\kf34} blues
-Dialogue: 0,0:01:57.37,0:02:01.16,DEFAULT,,0,0,0,,{\kf53}'Cause{\kf38} so{\kf19}-ome{\kf42} days,{\kf38} I{\kf23} can't{\kf38} find{\kf19} the{\kf30} way
-Dialogue: 0,0:02:01.35,0:02:06.60,DEFAULT,,0,0,0,,{\kf38}Out{\kf19} o{\kf27}-of{\kf38} this{\kf34} haze,{\kf23} hope{\kf15} I'll{\kf45} be{\kf19} o{\kf19}-o{\kf45}ka{\kf42}-a{\kf87}-ay
-Dialogue: 0,0:02:06.97,0:02:13.12,DEFAULT,,0,0,0,,{\kf15}Just{\kf19} when{\kf15} I{\kf30} feel{\kf23} like{\kf12} it{\kf38} might{\kf57} come{\kf60} crash{\kf68}ing{\kf53} do{\kf30}-o{\kf83}-own
-Dialogue: 0,0:02:14.32,0:02:17.44,DEFAULT,,0,0,0,,{\kf19}I{\kf19} can{\kf23} count{\kf15} on{\kf15} my{\kf60} friends{\kf15} to{\kf38} help{\kf42} me
-Dialogue: 0,0:02:17.77,0:02:21.19,DEFAULT,,0,0,0,,{\kf49}Turn{\kf15} my{\kf27} mo{\kf23}-od{\kf12} a{\kf19}ro{\kf8}-o{\kf19}-o{\kf135}-ound!
-Dialogue: 0,0:02:24.22,0:02:25.69,DEFAULT,,0,0,0,,{\kf19}Eve{\kf19}ry{\kf23}where{\kf23} that{\kf15} I{\kf27} go
-Dialogue: 0,0:02:25.91,0:02:27.67,DEFAULT,,0,0,0,,{\kf23}With{\kf15} eve{\kf15}ry{\kf19}thing{\kf23} that{\kf15} I{\kf27} do
-Dialogue: 0,0:02:27.86,0:02:30.67,DEFAULT,,0,0,0,,{\kf12}I'll{\kf19} say{\kf23} goo{\kf23}dbye{\kf12} to{\kf19} the{\kf45} Mon{\kf45}day{\kf34} blues
-Dialogue: 0,0:02:30.82,0:02:34.50,DEFAULT,,0,0,0,,{\kf49}'Cause{\kf42} I{\kf27}-I've{\kf30} got{\kf42} my{\kf49} friends{\kf23} with{\kf19} me
-Dialogue: 0,0:02:34.76,0:02:39.79,DEFAULT,,0,0,0,,{\kf19}And{\kf12} the{\kf49} su{\kf30}-un{\kf34}shi{\kf12}-ine{\kf23} is{\kf45} all{\kf23} I{\kf12}-I{\kf45} se{\kf45}-e{\kf60}-e
-Dialogue: 0,0:02:39.94,0:02:41.51,DEFAULT,,0,0,0,,{\kf19}Eve{\kf19}ry{\kf19}where{\kf27} that{\kf19} I{\kf30} go
-Dialogue: 0,0:02:41.66,0:02:43.42,DEFAULT,,0,0,0,,{\kf23}With{\kf19} eve{\kf15}ry{\kf23}thing{\kf23} that{\kf15} I{\kf30} do
-Dialogue: 0,0:02:43.61,0:02:46.42,DEFAULT,,0,0,0,,{\kf19}The{\kf38} world{\kf23} feels{\kf38} so{\kf38} fresh{\kf15} a{\kf23}-and{\kf38} new
-Dialogue: 0,0:02:46.57,0:02:50.36,DEFAULT,,0,0,0,,{\kf30}'Ca{\kf30}-use{\kf45} I{\kf27}-I've{\kf38} got{\kf49} my{\kf45} friends{\kf19} with{\kf34} me
-Dialogue: 0,0:02:50.51,0:02:56.44,DEFAULT,,0,0,0,,{\kf15}And{\kf19} those{\kf68} blues{\kf19} are{\kf27} an{\kf30}cient{\kf38} his{\kf27}to{\kf19}-o{\kf42}ry{\kf23}-y{\kf173}-y!
+Dialogue: 0,0:00:31.61,0:00:32.97,DEFAULT,,0,0,0,,{\r}{\kf27}Wake{\kf16} up{\kf22} in{\kf16} the{\kf38} mor{\kf16}nin'
+Dialogue: 0,0:00:33.12,0:00:35.85,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf14} I{\kf24} pull{\kf19} the{\kf24} co{\kf28}vers{\kf28} o{\kf14}ver{\kf33} my{\kf66} head
+Dialogue: 0,0:00:36.79,0:00:37.62,DEFAULT,,0,0,0,,{\r}{\kf29}He{\kf16}-ey-{\kf37}oh
+Dialogue: 0,0:00:39.30,0:00:40.88,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf26} got{\kf16}ta{\kf32} get{\kf16} it{\kf32} mo{\kf15}vin'
+Dialogue: 0,0:00:41.03,0:00:43.73,DEFAULT,,0,0,0,,{\r}{\kf25}But{\kf15} I'd{\kf20} rat{\kf15}her{\kf46} stay{\kf31} he{\kf20}-ere{\kf15} in{\kf83}stead
+Dialogue: 0,0:00:44.52,0:00:45.94,DEFAULT,,0,0,0,,{\r}{\kf32}He{\kf37}-he{\kf41}-e{\kf32}-ey
+Dialogue: 0,0:00:48.04,0:00:51.23,DEFAULT,,0,0,0,,{\r}{\kf27}My{\kf32} hair's{\kf11} a{\kf27} di{\kf38}sas{\kf27}ter,{\kf27} don't{\kf16} know{\kf27} what{\kf16} to{\kf71} do
+Dialogue: 0,0:00:51.75,0:00:55.28,DEFAULT,,0,0,0,,{\r}{\kf25}But{\kf20} I{\kf25} need{\kf15} to{\kf25} move{\kf50} fas{\kf30}ter{\kf15} to{\kf50} make{\kf20} it{\kf77} through
+Dialogue: 0,0:00:55.88,0:01:02.25,DEFAULT,,0,0,0,,{\r}{\kf17}This{\kf26} cra{\kf34}zy{\kf52} mor{\kf26}ning{\kf26} has{\kf34} got{\kf17} me{\kf26} con{\kf47}fu{\kf333}-used
+Dialogue: 0,0:01:03.60,0:01:05.14,DEFAULT,,0,0,0,,{\r}{\kf22}Eve{\kf18}ry{\kf22}where{\kf26} that{\kf18} I{\kf48} go
+Dialogue: 0,0:01:05.52,0:01:07.09,DEFAULT,,0,0,0,,{\r}{\kf20}Eve{\kf15}ry{\kf30}thing{\kf25} that{\kf20} I{\kf48} do
+Dialogue: 0,0:01:07.28,0:01:10.09,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf48} can't{\kf26} shake{\kf44} these{\kf44} Mon{\kf48}day{\kf53} blues
+Dialogue: 0,0:01:10.24,0:01:13.92,DEFAULT,,0,0,0,,{\r}{\kf55}'Cause{\kf51} so{\kf28}-ome{\kf55} days,{\kf37} I{\kf41} can't{\kf51} find{\kf18} the{\kf32} way
+Dialogue: 0,0:01:14.14,0:01:18.68,DEFAULT,,0,0,0,,{\r}{\kf34}Out{\kf29} o{\kf34}-of{\kf43} this{\kf43} haze,{\kf29} hope{\kf24} I'll{\kf39} be{\kf29} o{\kf19}-o{\kf63}ka{\kf53}-a{\kf15}-ay
+Dialogue: 0,0:01:18.79,0:01:20.44,DEFAULT,,0,0,0,,{\r}{\kf28} Just{\kf22} can't{\kf28} seem{\kf16} to{\kf28} get{\kf16} it{\kf27} right
+Dialogue: 0,0:01:20.59,0:01:22.99,DEFAULT,,0,0,0,,{\r}{\kf18}A{\kf32} cloud{\kf18} is{\kf23} hang{\kf28}ing{\kf23} o{\kf18}-o{\kf18}ver{\kf62} me
+Dialogue: 0,0:01:24.00,0:01:24.86,DEFAULT,,0,0,0,,{\r}{\kf25}He{\kf25}-e{\kf36}-ey
+Dialogue: 0,0:01:26.44,0:01:28.02,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf21} wish{\kf11} it{\kf32} was{\kf16} the{\kf32} week{\kf20}end
+Dialogue: 0,0:01:28.20,0:01:31.13,DEFAULT,,0,0,0,,{\r}{\kf22}'Cause{\kf18} you{\kf22} know{\kf22} that's{\kf27} where{\kf22} I'd{\kf27} ra{\kf18}-a{\kf27}ther{\kf87} be
+Dialogue: 0,0:01:31.77,0:01:33.38,DEFAULT,,0,0,0,,{\r}{\kf30}He{\kf34}-he{\kf42}-e{\kf55}-ey
+Dialogue: 0,0:01:35.25,0:01:38.48,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf21} won{\kf26}der{\kf36} what{\kf31} thi{\kf26}-ngs{\kf42} won't{\kf42} go{\kf21} my{\kf31} wa{\kf30}-ay
+Dialogue: 0,0:01:39.04,0:01:42.42,DEFAULT,,0,0,0,,{\r}{\kf19}Or{\kf19} if{\kf24} I'll{\kf29} e{\kf19}ver{\kf53} make{\kf39} it{\kf48} through{\kf19} the{\kf69} day
+Dialogue: 0,0:01:43.09,0:01:49.92,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf30} hope{\kf34} this{\kf38} fee{\kf21}ling{\kf30} won't{\kf42} lead{\kf25} me{\kf30} a{\kf34}stra{\kf374}-ay
+Dialogue: 0,0:01:50.74,0:01:52.31,DEFAULT,,0,0,0,,{\r}{\kf28}Eve{\kf19}ry{\kf28}where{\kf23} that{\kf19} I{\kf41} go
+Dialogue: 0,0:01:52.69,0:01:54.27,DEFAULT,,0,0,0,,{\r}{\kf27}Eve{\kf22}ry{\kf27}thing{\kf27} that{\kf18} I{\kf36} do
+Dialogue: 0,0:01:54.49,0:01:57.23,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf47} can't{\kf30} shake{\kf51} these{\kf51} Mon{\kf43}day{\kf39} blues
+Dialogue: 0,0:01:57.38,0:02:01.17,DEFAULT,,0,0,0,,{\r}{\kf67}'Cause{\kf48} so{\kf24}-ome{\kf53} days,{\kf48} I{\kf29} can't{\kf48} find{\kf24} the{\kf38} way
+Dialogue: 0,0:02:01.35,0:02:06.60,DEFAULT,,0,0,0,,{\r}{\kf44}Out{\kf22} o{\kf31}-of{\kf44} this{\kf40} haze,{\kf26} hope{\kf18} I'll{\kf53} be{\kf22} o{\kf22}-o{\kf53}ka{\kf49}-a{\kf101}-ay
+Dialogue: 0,0:02:06.98,0:02:13.13,DEFAULT,,0,0,0,,{\r}{\kf18}Just{\kf23} when{\kf18} I{\kf37} feel{\kf28} like{\kf14} it{\kf46} might{\kf69} come{\kf74} crash{\kf83}ing{\kf65} do{\kf37}-o{\kf103}-own
+Dialogue: 0,0:02:14.33,0:02:17.44,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} can{\kf29} count{\kf19} on{\kf19} my{\kf77} friends{\kf19} to{\kf48} help{\kf52} me
+Dialogue: 0,0:02:17.78,0:02:21.19,DEFAULT,,0,0,0,,{\r}{\kf55}Turn{\kf17} my{\kf29} mo{\kf25}-od{\kf13} a{\kf21}ro{\kf10}-o{\kf21}-o{\kf150}-ound!
+Dialogue: 0,0:02:24.23,0:02:25.69,DEFAULT,,0,0,0,,{\r}{\kf22}Eve{\kf22}ry{\kf27}where{\kf27} that{\kf18} I{\kf30} go
+Dialogue: 0,0:02:25.91,0:02:27.68,DEFAULT,,0,0,0,,{\r}{\kf29}With{\kf20} eve{\kf20}ry{\kf24}thing{\kf29} that{\kf20} I{\kf34} do
+Dialogue: 0,0:02:27.87,0:02:30.68,DEFAULT,,0,0,0,,{\r}{\kf14}I'll{\kf23} say{\kf28} goo{\kf28}dbye{\kf14} to{\kf23} the{\kf55} Mon{\kf55}day{\kf41} blues
+Dialogue: 0,0:02:30.83,0:02:34.50,DEFAULT,,0,0,0,,{\r}{\kf64}'Cause{\kf55} I{\kf35}-I've{\kf40} got{\kf55} my{\kf64} friends{\kf30} with{\kf24} me
+Dialogue: 0,0:02:34.76,0:02:39.79,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf14} the{\kf60} su{\kf37}-un{\kf42}shi{\kf14}-ine{\kf28} is{\kf56} all{\kf28} I{\kf14}-I{\kf56} se{\kf56}-e{\kf74}-e
+Dialogue: 0,0:02:39.94,0:02:41.51,DEFAULT,,0,0,0,,{\r}{\kf23}Eve{\kf23}ry{\kf23}where{\kf32} that{\kf23} I{\kf34} go
+Dialogue: 0,0:02:41.66,0:02:43.43,DEFAULT,,0,0,0,,{\r}{\kf27}With{\kf23} eve{\kf18}ry{\kf27}thing{\kf27} that{\kf18} I{\kf36} do
+Dialogue: 0,0:02:43.62,0:02:46.43,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf46} world{\kf28} feels{\kf46} so{\kf46} fresh{\kf18} a{\kf28}-and{\kf46} new
+Dialogue: 0,0:02:46.58,0:02:50.37,DEFAULT,,0,0,0,,{\r}{\kf36}'Ca{\kf36}-use{\kf54} I{\kf32}-I've{\kf45} got{\kf59} my{\kf54} friends{\kf23} with{\kf40} me
+Dialogue: 0,0:02:50.51,0:02:56.44,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf22} those{\kf81} blues{\kf22} are{\kf31} an{\kf36}cient{\kf45} his{\kf31}to{\kf22}-o{\kf49}ry{\kf27}-y{\kf208}-y!

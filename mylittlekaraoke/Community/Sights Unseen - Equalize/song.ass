@@ -1,57 +1,64 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Equalize
+Artist: Sights Unseen
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:30.01,0:00:32.28,DEFAULT,,0,0,0,,{\kf24}Don't{\kf24} think{\kf20} you're{\kf20} a{\kf27} he{\kf70}ro
-Dialogue: 0,0:00:33.58,0:00:36.47,DEFAULT,,0,0,0,,{\kf27}You're{\kf39} just{\kf20} a{\kf47} sim{\kf27}ple{\kf62} soul
-Dialogue: 0,0:00:37.31,0:00:40.01,DEFAULT,,0,0,0,,{\kf24}You{\kf39} think{\kf20} you're{\kf24} so{\kf39} spe{\kf77}cial
-Dialogue: 0,0:00:41.04,0:00:43.54,DEFAULT,,0,0,0,,{\kf20}You'll{\kf43} ne{\kf20}ver{\kf20} be{\kf127} whole
-Dialogue: 0,0:00:44.74,0:00:47.58,DEFAULT,,0,0,0,,{\kf20}So{\kf39} why{\kf16} do{\kf16} you{\kf20} fight{\kf20}~{\kf20} with{\kf89} me
-Dialogue: 0,0:00:48.54,0:00:51.28,DEFAULT,,0,0,0,,{\kf20}In{\kf27} this{\kf35} small{\kf116} town{\kf50}~
-Dialogue: 0,0:00:52.16,0:00:54.66,DEFAULT,,0,0,0,,{\kf20}I{\kf20} can{\kf24} make{\kf24} you{\kf20} hap{\kf39}~{\kf24}~{\kf35}py
-Dialogue: 0,0:00:54.85,0:00:58.93,DEFAULT,,0,0,0,,{\kf50}Or{\kf24} I{\kf20} can{\kf24} bring{\kf35} you{\kf193} down
-Dialogue: 0,0:00:59.16,0:01:04.20,DEFAULT,,0,0,0,,{\kf120}Close{\kf43} your{\kf89} eyes{\kf85} and{\kf139} cry
-Dialogue: 0,0:01:04.39,0:01:06.31,DEFAULT,,0,0,0,,{\kf20}I've{\kf35} got{\kf20} you{\kf70} now{\kf24}~
-Dialogue: 0,0:01:06.51,0:01:13.47,DEFAULT,,0,0,0,,{\kf166}Your{\kf77} mark{\kf66} is{\kf139} mine{\kf8}~{\kf8}~{\kf8}~{\kf150}~
-Dialogue: 0,0:01:13.85,0:01:18.93,DEFAULT,,0,0,0,,{\kf181}I{\kf135} have{\kf31}~{\kf47} found{\kf93}~
-Dialogue: 0,0:01:19.12,0:01:26.08,DEFAULT,,0,0,0,,{\kf24}U{\kf39}to{\kf24}pi{\kf58}a{\kf16} in{\kf20} a{\kf135} world{\kf39} of{\kf85} im{\kf43}per{\kf47}fec{\kf35}~{\kf74}tion
-Dialogue: 0,0:01:26.35,0:01:30.47,DEFAULT,,0,0,0,,{\kf20}E{\kf16}qua{\kf81}lize{\kf39} for{\kf24} re{\kf39}demp{\kf158}tion
-Dialogue: 0,0:01:43.81,0:01:46.35,DEFAULT,,0,0,0,,{\kf24}I'm{\kf77} not{\kf24} cra{\kf20}~{\kf85}zy
-Dialogue: 0,0:01:47.47,0:01:50.62,DEFAULT,,0,0,0,,{\kf24}I'm{\kf62} not{\kf20} an{\kf58} e{\kf20}vil{\kf43} crea{\kf50}ture
-Dialogue: 0,0:01:51.20,0:01:54.28,DEFAULT,,0,0,0,,{\kf39}I{\kf39} want{\kf20} to{\kf58} heal{\kf20} the{\kf97} world
-Dialogue: 0,0:01:54.51,0:01:58.04,DEFAULT,,0,0,0,,{\kf31}One{\kf39} face{\kf31} at{\kf20} a{\kf112} time{\kf77}~
-Dialogue: 0,0:01:58.62,0:02:01.43,DEFAULT,,0,0,0,,{\kf20}So{\kf39} why{\kf16} do{\kf24} you{\kf43} fight{\kf112} it
-Dialogue: 0,0:02:02.35,0:02:05.16,DEFAULT,,0,0,0,,{\kf20}I'm{\kf39} bring{\kf27}ing{\kf27} har{\kf43}~{\kf20}mo{\kf20}~{\kf47}ny
-Dialogue: 0,0:02:05.62,0:02:07.89,DEFAULT,,0,0,0,,{\kf43}E{\kf39}qua{\kf20}lize{\kf12}~{\kf20} the{\kf47} world{\kf24}~
-Dialogue: 0,0:02:08.08,0:02:12.78,DEFAULT,,0,0,0,,{\kf58}I'd{\kf39} think{\kf27} you'd{\kf47} want{\kf20} to{\kf58} help{\kf58} me{\kf70}~
-Dialogue: 0,0:02:12.97,0:02:18.01,DEFAULT,,0,0,0,,{\kf120}Close{\kf39} your{\kf81} eyes{\kf81} and{\kf143} cry
-Dialogue: 0,0:02:18.31,0:02:20.12,DEFAULT,,0,0,0,,{\kf16}I've{\kf27} got{\kf20} you{\kf70} now{\kf24}~
-Dialogue: 0,0:02:20.35,0:02:27.20,DEFAULT,,0,0,0,,{\kf170}Your{\kf81} mark{\kf85} is{\kf135} mine{\kf8}~{\kf8}~{\kf8}~{\kf143}~
-Dialogue: 0,0:02:27.74,0:02:32.85,DEFAULT,,0,0,0,,{\kf170}I{\kf135} have{\kf31}~{\kf43} found{\kf97}~
-Dialogue: 0,0:02:33.04,0:02:39.78,DEFAULT,,0,0,0,,{\kf16}U{\kf43}to{\kf20}pi{\kf50}a{\kf20} in{\kf20} a{\kf131} world{\kf39} of{\kf85} im{\kf39}per{\kf39}fec{\kf35}~{\kf54}tion
-Dialogue: 0,0:02:40.20,0:02:44.35,DEFAULT,,0,0,0,,{\kf20}E{\kf20}qua{\kf70}lize{\kf35} for{\kf24} re{\kf39}demp{\kf162}tion
-Dialogue: 0,0:02:53.54,0:03:04.51,DEFAULT,,0,0,0,,{\kf47}E{\kf43}qua{\kf89}lize{\kf185}~{\kf274}~{\kf85}~{\kf177}~{\kf174}~
-Dialogue: 0,0:03:08.31,0:03:19.28,DEFAULT,,0,0,0,,{\kf39}E{\kf39}qua{\kf93}lize{\kf181}~{\kf274}~{\kf89}~{\kf181}~{\kf170}~
-Dialogue: 0,0:03:53.04,0:03:56.04,DEFAULT,,0,0,0,,{\kf43}Why{\kf35} won't{\kf20} you{\kf62} see{\kf116}~
-Dialogue: 0,0:03:57.04,0:03:59.81,DEFAULT,,0,0,0,,{\kf20}I'm{\kf31} here{\kf24} to{\kf24} help{\kf162}~
-Dialogue: 0,0:04:00.47,0:04:03.43,DEFAULT,,0,0,0,,{\kf39}Why{\kf39} can't{\kf20} you{\kf54} be{\kf116}~
-Dialogue: 0,0:04:04.39,0:04:07.24,DEFAULT,,0,0,0,,{\kf20}The{\kf20} one{\kf35} who{\kf74} fell{\kf8}~{\kf8}~{\kf8}~{\kf74}~
-Dialogue: 0,0:04:07.85,0:04:10.81,DEFAULT,,0,0,0,,{\kf39}You{\kf31} forced{\kf27} my{\kf62} hand{\kf112}~
-Dialogue: 0,0:04:11.78,0:04:14.78,DEFAULT,,0,0,0,,{\kf20}You{\kf27} had{\kf20} to{\kf112} fight{\kf89}~
-Dialogue: 0,0:04:15.24,0:04:18.16,DEFAULT,,0,0,0,,{\kf39}I{\kf39} had{\kf20} no{\kf20} choice{\kf39}~{\kf108}~
-Dialogue: 0,0:04:19.01,0:04:21.93,DEFAULT,,0,0,0,,{\kf31}Be{\kf39} e{\kf20}qua{\kf185}lized
-Dialogue: 0,0:04:22.16,0:04:27.20,DEFAULT,,0,0,0,,{\kf127}Close{\kf43} your{\kf89} eyes{\kf74} and{\kf135} cry
-Dialogue: 0,0:04:27.47,0:04:29.43,DEFAULT,,0,0,0,,{\kf20}I've{\kf31} got{\kf20} you{\kf66} now{\kf35}~
-Dialogue: 0,0:04:29.62,0:04:36.66,DEFAULT,,0,0,0,,{\kf170}Your{\kf81} mark{\kf77} is{\kf127} mine{\kf20}~{\kf20}~{\kf162}~
-Dialogue: 0,0:04:36.97,0:04:41.97,DEFAULT,,0,0,0,,{\kf166}I{\kf139} have{\kf35}~{\kf39} found{\kf89}~
-Dialogue: 0,0:04:42.20,0:04:49.01,DEFAULT,,0,0,0,,{\kf24}U{\kf39}to{\kf24}pi{\kf62}a{\kf20} in{\kf20} a{\kf127} world{\kf39} of{\kf85} im{\kf35}per{\kf50}fec{\kf35}~{\kf58}tion
-Dialogue: 0,0:04:49.39,0:04:54.54,DEFAULT,,0,0,0,,{\kf20}E{\kf20}qua{\kf81}lize{\kf39} for{\kf16} re{\kf43}demp{\kf262}tion
-Dialogue: 0,0:05:36.04,0:05:47.01,DEFAULT,,0,0,0,,{\kf43}E{\kf39}qua{\kf89}lize{\kf185}~{\kf274}~{\kf93}~{\kf174}~{\kf177}~
-Dialogue: 0,0:05:50.81,0:06:01.78,DEFAULT,,0,0,0,,{\kf43}E{\kf39}qua{\kf89}lize{\kf189}~{\kf270}~{\kf93}~{\kf174}~{\kf177}~
+Dialogue: 0,0:00:30.01,0:00:32.28,DEFAULT,,0,0,0,,{\r}{\kf29}Don't{\kf29} think{\kf24} you're{\kf24} a{\kf34} he{\kf87}ro
+Dialogue: 0,0:00:33.59,0:00:36.47,DEFAULT,,0,0,0,,{\r}{\kf35}You're{\kf51} just{\kf25} a{\kf61} sim{\kf35}ple{\kf81} soul
+Dialogue: 0,0:00:37.32,0:00:40.01,DEFAULT,,0,0,0,,{\r}{\kf28}You{\kf47} think{\kf24} you're{\kf28} so{\kf47} spe{\kf95}cial
+Dialogue: 0,0:00:41.05,0:00:43.55,DEFAULT,,0,0,0,,{\r}{\kf21}You'll{\kf47} ne{\kf21}ver{\kf21} be{\kf140} whole
+Dialogue: 0,0:00:44.74,0:00:47.59,DEFAULT,,0,0,0,,{\r}{\kf23}So{\kf47} why{\kf19} do{\kf19} you{\kf23} fight{\kf23}~{\kf23} with{\kf108} me
+Dialogue: 0,0:00:48.55,0:00:51.28,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf30} this{\kf38} small{\kf128} town{\kf56}~
+Dialogue: 0,0:00:52.16,0:00:54.66,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} can{\kf29} make{\kf29} you{\kf24} hap{\kf48}~{\kf29}~{\kf43}py
+Dialogue: 0,0:00:54.86,0:00:58.93,DEFAULT,,0,0,0,,{\r}{\kf60}Or{\kf28} I{\kf23} can{\kf28} bring{\kf41} you{\kf228} down
+Dialogue: 0,0:00:59.16,0:01:04.20,DEFAULT,,0,0,0,,{\r}{\kf127}Close{\kf45} your{\kf94} eyes{\kf90} and{\kf148} cry
+Dialogue: 0,0:01:04.40,0:01:06.32,DEFAULT,,0,0,0,,{\r}{\kf22}I've{\kf40} got{\kf22} you{\kf80} now{\kf28}~
+Dialogue: 0,0:01:06.51,0:01:13.47,DEFAULT,,0,0,0,,{\r}{\kf186}Your{\kf86} mark{\kf73} is{\kf156} mine{\kf10}~{\kf10}~{\kf10}~{\kf165}~
+Dialogue: 0,0:01:13.86,0:01:18.93,DEFAULT,,0,0,0,,{\r}{\kf189}I{\kf141} have{\kf32}~{\kf48} found{\kf98}~
+Dialogue: 0,0:01:19.13,0:01:26.09,DEFAULT,,0,0,0,,{\r}{\kf25}U{\kf42}to{\kf25}pi{\kf64}a{\kf17} in{\kf21} a{\kf149} world{\kf42} of{\kf93} im{\kf47}per{\kf51}fec{\kf38}~{\kf82}tion
+Dialogue: 0,0:01:26.36,0:01:30.47,DEFAULT,,0,0,0,,{\r}{\kf21}E{\kf17}qua{\kf89}lize{\kf42} for{\kf25} re{\kf42}demp{\kf176}tion
+Dialogue: 0,0:01:43.82,0:01:46.36,DEFAULT,,0,0,0,,{\r}{\kf26}I'm{\kf86} not{\kf26} cra{\kf22}~{\kf94}zy
+Dialogue: 0,0:01:47.47,0:01:50.63,DEFAULT,,0,0,0,,{\r}{\kf27}I'm{\kf71} not{\kf22} an{\kf67} e{\kf22}vil{\kf49} crea{\kf57}ture
+Dialogue: 0,0:01:51.20,0:01:54.28,DEFAULT,,0,0,0,,{\r}{\kf44}I{\kf44} want{\kf22} to{\kf66} heal{\kf22} the{\kf110} world
+Dialogue: 0,0:01:54.51,0:01:58.05,DEFAULT,,0,0,0,,{\r}{\kf35}One{\kf44} face{\kf35} at{\kf22} a{\kf128} time{\kf90}~
+Dialogue: 0,0:01:58.63,0:02:01.43,DEFAULT,,0,0,0,,{\r}{\kf22}So{\kf43} why{\kf17} do{\kf26} you{\kf48} fight{\kf125} it
+Dialogue: 0,0:02:02.36,0:02:05.16,DEFAULT,,0,0,0,,{\r}{\kf23}I'm{\kf45} bring{\kf32}ing{\kf32} har{\kf50}~{\kf23}mo{\kf23}~{\kf53}ny
+Dialogue: 0,0:02:05.63,0:02:07.90,DEFAULT,,0,0,0,,{\r}{\kf48}E{\kf44}qua{\kf22}lize{\kf13}~{\kf22} the{\kf52} world{\kf26}~
+Dialogue: 0,0:02:08.09,0:02:12.78,DEFAULT,,0,0,0,,{\r}{\kf73}I'd{\kf48} think{\kf34} you'd{\kf58} want{\kf24} to{\kf73} help{\kf73} me{\kf86}~
+Dialogue: 0,0:02:12.97,0:02:18.01,DEFAULT,,0,0,0,,{\r}{\kf130}Close{\kf42} your{\kf88} eyes{\kf88} and{\kf156} cry
+Dialogue: 0,0:02:18.32,0:02:20.13,DEFAULT,,0,0,0,,{\r}{\kf18}I've{\kf32} got{\kf23} you{\kf81} now{\kf27}~
+Dialogue: 0,0:02:20.36,0:02:27.20,DEFAULT,,0,0,0,,{\r}{\kf183}Your{\kf87} mark{\kf91} is{\kf145} mine{\kf10}~{\kf10}~{\kf10}~{\kf149}~
+Dialogue: 0,0:02:27.74,0:02:32.86,DEFAULT,,0,0,0,,{\r}{\kf183}I{\kf146} have{\kf33}~{\kf46} found{\kf104}~
+Dialogue: 0,0:02:33.05,0:02:39.78,DEFAULT,,0,0,0,,{\r}{\kf18}U{\kf49}to{\kf22}pi{\kf58}a{\kf22} in{\kf22} a{\kf151} world{\kf44} of{\kf97} im{\kf44}per{\kf44}fec{\kf40}~{\kf62}tion
+Dialogue: 0,0:02:40.20,0:02:44.36,DEFAULT,,0,0,0,,{\r}{\kf22}E{\kf22}qua{\kf79}lize{\kf39} for{\kf26} re{\kf44}demp{\kf183}tion
+Dialogue: 0,0:02:53.55,0:03:04.51,DEFAULT,,0,0,0,,{\r}{\kf47}E{\kf43}qua{\kf91}lize{\kf189}~{\kf280}~{\kf87}~{\kf181}~{\kf178}~
+Dialogue: 0,0:03:08.32,0:03:19.28,DEFAULT,,0,0,0,,{\r}{\kf40}E{\kf40}qua{\kf95}lize{\kf187}~{\kf282}~{\kf91}~{\kf187}~{\kf174}~
+Dialogue: 0,0:03:53.05,0:03:56.05,DEFAULT,,0,0,0,,{\r}{\kf46}Why{\kf38} won't{\kf21} you{\kf68} see{\kf127}~
+Dialogue: 0,0:03:57.05,0:03:59.82,DEFAULT,,0,0,0,,{\r}{\kf21}I'm{\kf33} here{\kf25} to{\kf25} help{\kf173}~
+Dialogue: 0,0:04:00.47,0:04:03.43,DEFAULT,,0,0,0,,{\r}{\kf43}Why{\kf43} can't{\kf21} you{\kf60} be{\kf129}~
+Dialogue: 0,0:04:04.40,0:04:07.24,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf23} one{\kf41} who{\kf86} fell{\kf10}~{\kf10}~{\kf10}~{\kf82}~
+Dialogue: 0,0:04:07.86,0:04:10.82,DEFAULT,,0,0,0,,{\r}{\kf42}You{\kf34} forced{\kf30} my{\kf68} hand{\kf122}~
+Dialogue: 0,0:04:11.78,0:04:14.78,DEFAULT,,0,0,0,,{\r}{\kf22}You{\kf30} had{\kf22} to{\kf126} fight{\kf100}~
+Dialogue: 0,0:04:15.24,0:04:18.16,DEFAULT,,0,0,0,,{\r}{\kf43}I{\kf43} had{\kf21} no{\kf21} choice{\kf43}~{\kf121}~
+Dialogue: 0,0:04:19.01,0:04:21.93,DEFAULT,,0,0,0,,{\r}{\kf33}Be{\kf41} e{\kf21}qua{\kf197}lized
+Dialogue: 0,0:04:22.16,0:04:27.20,DEFAULT,,0,0,0,,{\r}{\kf137}Close{\kf46} your{\kf96} eyes{\kf79} and{\kf146} cry
+Dialogue: 0,0:04:27.47,0:04:29.43,DEFAULT,,0,0,0,,{\r}{\kf22}I've{\kf36} got{\kf22} you{\kf76} now{\kf40}~
+Dialogue: 0,0:04:29.63,0:04:36.66,DEFAULT,,0,0,0,,{\r}{\kf182}Your{\kf87} mark{\kf83} is{\kf137} mine{\kf21}~{\kf21}~{\kf173}~
+Dialogue: 0,0:04:36.97,0:04:41.97,DEFAULT,,0,0,0,,{\r}{\kf178}I{\kf149} have{\kf37}~{\kf41} found{\kf95}~
+Dialogue: 0,0:04:42.20,0:04:49.01,DEFAULT,,0,0,0,,{\r}{\kf26}U{\kf43}to{\kf26}pi{\kf69}a{\kf21} in{\kf21} a{\kf141} world{\kf43} of{\kf94} im{\kf39}per{\kf56}fec{\kf39}~{\kf63}tion
+Dialogue: 0,0:04:49.40,0:04:54.55,DEFAULT,,0,0,0,,{\r}{\kf21}E{\kf21}qua{\kf87}lize{\kf42} for{\kf17} re{\kf46}demp{\kf281}tion
+Dialogue: 0,0:05:36.05,0:05:47.01,DEFAULT,,0,0,0,,{\r}{\kf43}E{\kf39}qua{\kf91}lize{\kf189}~{\kf280}~{\kf95}~{\kf177}~{\kf182}~
+Dialogue: 0,0:05:50.82,0:06:01.78,DEFAULT,,0,0,0,,{\r}{\kf43}E{\kf39}qua{\kf91}lize{\kf193}~{\kf276}~{\kf95}~{\kf177}~{\kf182}~

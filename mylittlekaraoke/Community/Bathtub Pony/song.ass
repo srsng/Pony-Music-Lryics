@@ -1,20 +1,27 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Bathtub Pony
+Artist: Unknown
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.08,0:00:00.81,DEFAULT,,0,0,0,,{\kf12}Here's{\kf12} a{\kf20} cool{\kf16} one
-Dialogue: 0,0:00:05.00,0:00:06.70,DEFAULT,,0,0,0,,{\kf16}There's{\kf16} no{\kf16} po{\kf20}ny{\kf12} in{\kf12} the{\kf27} bath{\kf16}room
-Dialogue: 0,0:00:06.89,0:00:07.89,DEFAULT,,0,0,0,,{\kf12}It's{\kf12} so{\kf12} emp{\kf12}ty{\kf12} in{\kf24} there
-Dialogue: 0,0:00:08.70,0:00:10.81,DEFAULT,,0,0,0,,{\kf12}Oh{\kf12} ho{\kf12}ly{\kf16} crap{\kf16} one{\kf12} just{\kf16} ap{\kf16}peared{\kf16} in{\kf12} the{\kf20} bath{\kf8}tub
-Dialogue: 0,0:00:10.89,0:00:11.66,DEFAULT,,0,0,0,,{\kf8}It{\kf8} gave{\kf8} me{\kf8} a{\kf27} scare
-Dialogue: 0,0:00:12.35,0:00:14.08,DEFAULT,,0,0,0,,{\kf12}Look{\kf8} at{\kf12} that{\kf20} po{\kf16}ny{\kf12} in{\kf12} the{\kf24} bath{\kf12}tub
-Dialogue: 0,0:00:14.20,0:00:15.20,DEFAULT,,0,0,0,,{\kf12}What's{\kf12} he{\kf12} doing{\kf12} in{\kf27} there
-Dialogue: 0,0:00:16.04,0:00:17.58,DEFAULT,,0,0,0,,{\kf12}Oh{\kf12} ne{\kf16}ver{\kf16}mind{\kf12} it's{\kf16} not{\kf12} a{\kf20} po{\kf8}ny
-Dialogue: 0,0:00:17.70,0:00:19.08,DEFAULT,,0,0,0,,{\kf12}I{\kf12} guess{\kf12} it{\kf12} was{\kf12} just{\kf12} a{\kf31} chair
+Dialogue: 0,0:00:00.09,0:00:00.82,DEFAULT,,0,0,0,,{\r}{\kf15}Here's{\kf15} a{\kf24} cool{\kf19} one
+Dialogue: 0,0:00:05.01,0:00:06.70,DEFAULT,,0,0,0,,{\r}{\kf20}There's{\kf20} no{\kf20} po{\kf25}ny{\kf15} in{\kf15} the{\kf35} bath{\kf19}room
+Dialogue: 0,0:00:06.89,0:00:07.89,DEFAULT,,0,0,0,,{\r}{\kf14}It's{\kf14} so{\kf14} emp{\kf14}ty{\kf14} in{\kf30} there
+Dialogue: 0,0:00:08.70,0:00:10.82,DEFAULT,,0,0,0,,{\r}{\kf15}Oh{\kf15} ho{\kf15}ly{\kf20} crap{\kf20} one{\kf15} just{\kf20} ap{\kf20}peared{\kf20} in{\kf15} the{\kf25} bath{\kf12}tub
+Dialogue: 0,0:00:10.89,0:00:11.66,DEFAULT,,0,0,0,,{\r}{\kf10}It{\kf10} gave{\kf10} me{\kf10} a{\kf37} scare
+Dialogue: 0,0:00:12.36,0:00:14.09,DEFAULT,,0,0,0,,{\r}{\kf16}Look{\kf11} at{\kf16} that{\kf27} po{\kf22}ny{\kf16} in{\kf16} the{\kf32} bath{\kf17}tub
+Dialogue: 0,0:00:14.20,0:00:15.20,DEFAULT,,0,0,0,,{\r}{\kf16}What's{\kf16} he{\kf16} doing{\kf16} in{\kf36} there
+Dialogue: 0,0:00:16.05,0:00:17.59,DEFAULT,,0,0,0,,{\r}{\kf15}Oh{\kf15} ne{\kf20}ver{\kf20}mind{\kf15} it's{\kf20} not{\kf15} a{\kf25} po{\kf10}ny
+Dialogue: 0,0:00:17.70,0:00:19.09,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} guess{\kf16} it{\kf16} was{\kf16} just{\kf16} a{\kf42} chair

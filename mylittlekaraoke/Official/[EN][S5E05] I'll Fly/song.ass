@@ -1,50 +1,57 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: I'll Fly
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.06,0:00:10.13,DEFAULT,,0,0,0,,{\kf23}When{\kf34} life{\kf19} gives{\kf12} you{\kf15} le{\kf60}mons
-Dialogue: 0,0:00:11.40,0:00:13.65,DEFAULT,,0,0,0,,{\kf15}You{\kf15} can{\kf8} ma{\kf23}-ake{\kf15} le{\kf12}mo{\kf15}na{\kf79}-ade
-Dialogue: 0,0:00:14.89,0:00:16.99,DEFAULT,,0,0,0,,{\kf27}But{\kf27} life{\kf15} gave{\kf12} me{\kf30} Tank{\kf34} here
-Dialogue: 0,0:00:17.40,0:00:20.25,DEFAULT,,0,0,0,,{\kf15}And{\kf15} my{\kf53} choice{\kf15} has{\kf34} long{\kf23} been{\kf72} made
-Dialogue: 0,0:00:21.71,0:00:24.71,DEFAULT,,0,0,0,,{\kf34}No{\kf30} win{\kf15}ter{\kf15} will{\kf53} come{\kf12} to{\kf15} Po{\kf15}ny{\kf49}ville
-Dialogue: 0,0:00:25.13,0:00:27.79,DEFAULT,,0,0,0,,{\kf15}I'll{\kf23} do{\kf15} it{\kf15} on{\kf12} my{\kf19}-y{\kf135} own
-Dialogue: 0,0:00:28.54,0:00:30.94,DEFAULT,,0,0,0,,{\kf19}I{\kf19} will{\kf34} keep{\kf27} you{\kf34} by{\kf27} my{\kf23} side
-Dialogue: 0,0:00:31.13,0:00:35.36,DEFAULT,,0,0,0,,{\kf23}So{\kf15} I{\kf27} will{\kf34} not{\kf42} be{\kf30} a{\kf15}lo{\kf192}-one
-Dialogue: 0,0:00:36.30,0:00:37.43,DEFAULT,,0,0,0,,{\kf15}And{\kf15} I'll{\kf72} fly
-Dialogue: 0,0:00:37.95,0:00:42.53,DEFAULT,,0,0,0,,{\kf23}And{\kf15} I'll{\kf60} fly{\kf19} un{\kf34}til{\kf57} the{\kf19} e{\kf38}-end{\kf30} of{\kf12} the{\kf12}-e{\kf75} sky
-Dialogue: 0,0:00:43.13,0:00:45.49,DEFAULT,,0,0,0,,{\kf19}So{\kf15} I'll{\kf75} be{\kf45}-e{\kf19} the{\kf27} one
-Dialogue: 0,0:00:45.68,0:00:49.09,DEFAULT,,0,0,0,,{\kf34}Who{\kf19} do{\kf15}-es{\kf34}n't{\kf19} have{\kf8} to{\kf27} say{\kf30} good{\kf60}bye
-Dialogue: 0,0:00:50.81,0:00:52.69,DEFAULT,,0,0,0,,{\kf12}I'll{\kf19} clear{\kf8} the{\kf38} skies{\kf19} for{\kf12}e{\kf34}ver
-Dialogue: 0,0:00:54.23,0:00:56.51,DEFAULT,,0,0,0,,{\kf19}So{\kf19} we{\kf19} won't{\kf27} be{\kf8} a{\kf15}-a{\kf12}pa{\kf83}-art
-Dialogue: 0,0:00:57.64,0:01:00.15,DEFAULT,,0,0,0,,{\kf23}I'll{\kf12} keep{\kf12} the{\kf27} wea{\kf23}ther{\kf30} warm{\kf27} for{\kf34} you
-Dialogue: 0,0:01:00.49,0:01:02.74,DEFAULT,,0,0,0,,{\kf19}And{\kf15} the{\kf19} win{\kf15}ter{\kf19} will{\kf30} ne{\kf19}ver{\kf42} start
-Dialogue: 0,0:01:09.75,0:01:11.96,DEFAULT,,0,0,0,,{\kf15}Wea{\kf15}ther{\kf45}ma{\kf19}kers,{\kf12} pe{\kf8}ga{\kf49}si
-Dialogue: 0,0:01:13.09,0:01:15.38,DEFAULT,,0,0,0,,{\kf15}Who{\kf19} make{\kf12} the{\kf23} sea{\kf23}sons{\kf15} in{\kf8} the{\kf15}-e{\kf60} sky
-Dialogue: 0,0:01:16.58,0:01:18.94,DEFAULT,,0,0,0,,{\kf19}I{\kf19} don't{\kf8} wa{\kf23}-a{\kf12}-a{\kf12}nna{\kf19} sa{\kf12}bo{\kf38}tage{\kf27} you
-Dialogue: 0,0:01:19.16,0:01:21.75,DEFAULT,,0,0,0,,{\kf12}But{\kf15} you{\kf42} see{\kf27} I've{\kf27} got{\kf23} to{\kf53} try
-Dialogue: 0,0:01:23.44,0:01:26.33,DEFAULT,,0,0,0,,{\kf34}No{\kf30} win{\kf19}ter{\kf19} can{\kf34} come{\kf42} here{\kf12} no{\kf60}-ow
-Dialogue: 0,0:01:26.85,0:01:29.59,DEFAULT,,0,0,0,,{\kf15}I'll{\kf23} keep{\kf12} the{\kf27} warmth{\kf12} and{\kf8} the{\kf27} sun{\kf12} so{\kf19}-ome{\kf64}how
-Dialogue: 0,0:01:30.19,0:01:32.66,DEFAULT,,0,0,0,,{\kf15}I'm{\kf19} sor{\kf15}ry,{\kf19} po{\kf15}nies,{\kf19} this{\kf30} has{\kf27} to{\kf27} be
-Dialogue: 0,0:01:32.85,0:01:36.15,DEFAULT,,0,0,0,,{\kf15}For{\kf15} I{\kf30} need{\kf30} my{\kf38} friend{\kf27} and{\kf27} he{\kf38} needs{\kf38} me
-Dialogue: 0,0:01:37.13,0:01:41.03,DEFAULT,,0,0,0,,{\kf30}I{\kf42} know{\kf30} it's{\kf57} wrong{\kf19} but{\kf8} wha{\kf19}-at{\kf23} does{\kf23}n't{\kf19} mat{\kf60}ter
-Dialogue: 0,0:01:41.81,0:01:43.76,DEFAULT,,0,0,0,,{\kf15}'Cause{\kf12} no{\kf19}thing's{\kf19} gon{\kf12}na{\kf23} stop{\kf19} me{\kf23} now
-Dialogue: 0,0:01:43.95,0:01:47.63,DEFAULT,,0,0,0,,{\kf23}I'll{\kf27} cha{\kf19}-ange{\kf19} it{\kf45} all,{\kf19} it's{\kf27} on{\kf15}ly{\kf12} the{\kf15} wea{\kf45}ther
-Dialogue: 0,0:01:48.49,0:01:50.78,DEFAULT,,0,0,0,,{\kf12}And{\kf19} no{\kf19}po{\kf15}ny's{\kf12} gon{\kf15}na{\kf19} bring{\kf23} me{\kf42} down
-Dialogue: 0,0:01:51.00,0:01:56.93,DEFAULT,,0,0,0,,{\kf15}I'll{\kf23} keep{\kf15} the{\kf27} sun{\kf38}light{\kf42} shi{\kf27}ning{\kf15} fre{\kf297}-e
-Dialogue: 0,0:01:57.68,0:02:00.30,DEFAULT,,0,0,0,,{\kf8}And{\kf15} I'll{\kf30} bust{\kf15} the{\kf49} clouds{\kf15} a{\kf53}part
-Dialogue: 0,0:02:00.64,0:02:03.38,DEFAULT,,0,0,0,,{\kf15}So{\kf19} you{\kf27} can{\kf34} stay{\kf12} wi{\kf27}-ith{\kf12} me{\kf87}-e
-Dialogue: 0,0:02:03.68,0:02:04.80,DEFAULT,,0,0,0,,{\kf15}And{\kf15} I'll{\kf68} fly
-Dialogue: 0,0:02:05.36,0:02:09.86,DEFAULT,,0,0,0,,{\kf15}And{\kf19} I'll{\kf60} fly{\kf19} un{\kf38}til{\kf57} the{\kf19} e{\kf38}-end{\kf23} of{\kf12} the{\kf15}-e{\kf75} sky
-Dialogue: 0,0:02:10.54,0:02:13.09,DEFAULT,,0,0,0,,{\kf19}So{\kf23} I'll{\kf72} be{\kf57}-e{\kf19} the{\kf42} one
-Dialogue: 0,0:02:13.28,0:02:16.61,DEFAULT,,0,0,0,,{\kf12}Who{\kf15} do{\kf19}-es{\kf34}n't{\kf19} have{\kf8} to{\kf30} say{\kf23} good{\kf72}bye
-Dialogue: 0,0:02:18.23,0:02:20.25,DEFAULT,,0,0,0,,{\kf15}I'll{\kf23} clear{\kf12} the{\kf42} skies{\kf12} for{\kf12}e{\kf53}ver
-Dialogue: 0,0:02:21.68,0:02:23.85,DEFAULT,,0,0,0,,{\kf19}So{\kf12} we{\kf15} won't{\kf23} be{\kf8} a{\kf23}-a{\kf12}pa{\kf75}-art
-Dialogue: 0,0:02:25.09,0:02:27.56,DEFAULT,,0,0,0,,{\kf19}I'll{\kf19} keep{\kf12} the{\kf19} wea{\kf23}ther{\kf30} warm{\kf34} for{\kf34} you
-Dialogue: 0,0:02:27.86,0:02:33.64,DEFAULT,,0,0,0,,{\kf19}And{\kf15} the{\kf19} win{\kf15}ter{\kf19} will{\kf34} ne{\kf27}ver{\kf390} start
+Dialogue: 0,0:00:08.07,0:00:10.13,DEFAULT,,0,0,0,,{\r}{\kf29}When{\kf43} life{\kf24} gives{\kf14} you{\kf19} le{\kf77}mons
+Dialogue: 0,0:00:11.41,0:00:13.66,DEFAULT,,0,0,0,,{\r}{\kf19}You{\kf19} can{\kf10} ma{\kf28}-ake{\kf19} le{\kf14}mo{\kf19}na{\kf97}-ade
+Dialogue: 0,0:00:14.89,0:00:16.99,DEFAULT,,0,0,0,,{\r}{\kf39}But{\kf39} life{\kf22} gave{\kf17} me{\kf44} Tank{\kf49} here
+Dialogue: 0,0:00:17.41,0:00:20.26,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} my{\kf66} choice{\kf19} has{\kf43} long{\kf28} been{\kf91} made
+Dialogue: 0,0:00:21.72,0:00:24.72,DEFAULT,,0,0,0,,{\r}{\kf43}No{\kf38} win{\kf19}ter{\kf19} will{\kf67} come{\kf14} to{\kf19} Po{\kf19}ny{\kf62}ville
+Dialogue: 0,0:00:25.13,0:00:27.79,DEFAULT,,0,0,0,,{\r}{\kf17}I'll{\kf26} do{\kf17} it{\kf17} on{\kf13} my{\kf21}-y{\kf155} own
+Dialogue: 0,0:00:28.54,0:00:30.94,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf25} will{\kf45} keep{\kf35} you{\kf45} by{\kf35} my{\kf30} side
+Dialogue: 0,0:00:31.13,0:00:35.37,DEFAULT,,0,0,0,,{\r}{\kf25}So{\kf17} I{\kf30} will{\kf38} not{\kf47} be{\kf34} a{\kf17}lo{\kf216}-one
+Dialogue: 0,0:00:36.31,0:00:37.43,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf17} I'll{\kf78} fly
+Dialogue: 0,0:00:37.96,0:00:42.53,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf18} I'll{\kf70} fly{\kf22} un{\kf40}til{\kf66} the{\kf22} e{\kf44}-end{\kf35} of{\kf13} the{\kf13}-e{\kf89} sky
+Dialogue: 0,0:00:43.13,0:00:45.49,DEFAULT,,0,0,0,,{\r}{\kf22}So{\kf18} I'll{\kf89} be{\kf53}-e{\kf22} the{\kf32} one
+Dialogue: 0,0:00:45.68,0:00:49.09,DEFAULT,,0,0,0,,{\r}{\kf47}Who{\kf26} do{\kf21}-es{\kf47}n't{\kf26} have{\kf10} to{\kf37} say{\kf42} good{\kf85}bye
+Dialogue: 0,0:00:50.82,0:00:52.69,DEFAULT,,0,0,0,,{\r}{\kf15}I'll{\kf25} clear{\kf10} the{\kf51} skies{\kf25} for{\kf15}e{\kf47}ver
+Dialogue: 0,0:00:54.23,0:00:56.52,DEFAULT,,0,0,0,,{\r}{\kf22}So{\kf22} we{\kf22} won't{\kf30} be{\kf10} a{\kf17}-a{\kf13}pa{\kf93}-art
+Dialogue: 0,0:00:57.64,0:01:00.16,DEFAULT,,0,0,0,,{\r}{\kf31}I'll{\kf15} keep{\kf15} the{\kf36} wea{\kf31}ther{\kf41} warm{\kf36} for{\kf46} you
+Dialogue: 0,0:01:00.49,0:01:02.74,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf19} the{\kf24} win{\kf19}ter{\kf24} will{\kf38} ne{\kf24}ver{\kf53} start
+Dialogue: 0,0:01:09.76,0:01:11.97,DEFAULT,,0,0,0,,{\r}{\kf21}Wea{\kf21}ther{\kf62}ma{\kf26}kers,{\kf15} pe{\kf10}ga{\kf66}si
+Dialogue: 0,0:01:13.09,0:01:15.38,DEFAULT,,0,0,0,,{\r}{\kf18}Who{\kf23} make{\kf14} the{\kf27} sea{\kf27}sons{\kf18} in{\kf10} the{\kf18}-e{\kf74} sky
+Dialogue: 0,0:01:16.58,0:01:18.94,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} don't{\kf10} wa{\kf29}-a{\kf14}-a{\kf14}nna{\kf24} sa{\kf14}bo{\kf48}tage{\kf35} you
+Dialogue: 0,0:01:19.17,0:01:21.76,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf20} you{\kf55} see{\kf35} I've{\kf35} got{\kf30} to{\kf69} try
+Dialogue: 0,0:01:23.44,0:01:26.33,DEFAULT,,0,0,0,,{\r}{\kf39}No{\kf35} win{\kf22}ter{\kf22} can{\kf39} come{\kf48} here{\kf13} no{\kf71}-ow
+Dialogue: 0,0:01:26.86,0:01:29.59,DEFAULT,,0,0,0,,{\r}{\kf19}I'll{\kf29} keep{\kf14} the{\kf34} warmth{\kf14} and{\kf10} the{\kf34} sun{\kf14} so{\kf24}-ome{\kf82}how
+Dialogue: 0,0:01:30.19,0:01:32.67,DEFAULT,,0,0,0,,{\r}{\kf20}I'm{\kf25} sor{\kf20}ry,{\kf25} po{\kf20}nies,{\kf25} this{\kf40} has{\kf35} to{\kf38} be
+Dialogue: 0,0:01:32.86,0:01:36.16,DEFAULT,,0,0,0,,{\r}{\kf19}For{\kf19} I{\kf39} need{\kf39} my{\kf49} friend{\kf34} and{\kf34} he{\kf49} needs{\kf48} me
+Dialogue: 0,0:01:37.13,0:01:41.03,DEFAULT,,0,0,0,,{\r}{\kf36}I{\kf49} know{\kf36} it's{\kf67} wrong{\kf22} but{\kf10} wha{\kf22}-at{\kf27} does{\kf27}n't{\kf22} mat{\kf72}ter
+Dialogue: 0,0:01:41.82,0:01:43.77,DEFAULT,,0,0,0,,{\r}{\kf21}'Cause{\kf16} no{\kf26}thing's{\kf26} gon{\kf16}na{\kf32} stop{\kf26} me{\kf32} now
+Dialogue: 0,0:01:43.96,0:01:47.63,DEFAULT,,0,0,0,,{\r}{\kf31}I'll{\kf37} cha{\kf26}-ange{\kf26} it{\kf63} all,{\kf26} it's{\kf37} on{\kf21}ly{\kf16} the{\kf21} wea{\kf63}ther
+Dialogue: 0,0:01:48.49,0:01:50.78,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf25} no{\kf25}po{\kf20}ny's{\kf15} gon{\kf20}na{\kf25} bring{\kf30} me{\kf54} down
+Dialogue: 0,0:01:51.01,0:01:56.93,DEFAULT,,0,0,0,,{\r}{\kf18}I'll{\kf27} keep{\kf18} the{\kf31} sun{\kf45}light{\kf49} shi{\kf31}ning{\kf18} fre{\kf356}-e
+Dialogue: 0,0:01:57.68,0:02:00.31,DEFAULT,,0,0,0,,{\r}{\kf11}And{\kf21} I'll{\kf43} bust{\kf21} the{\kf70} clouds{\kf21} a{\kf76}part
+Dialogue: 0,0:02:00.64,0:02:03.38,DEFAULT,,0,0,0,,{\r}{\kf18}So{\kf22} you{\kf31} can{\kf40} stay{\kf13} wi{\kf31}-ith{\kf13} me{\kf106}-e
+Dialogue: 0,0:02:03.68,0:02:04.81,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf17} I'll{\kf78} fly
+Dialogue: 0,0:02:05.37,0:02:09.87,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf22} I'll{\kf70} fly{\kf22} un{\kf44}til{\kf66} the{\kf22} e{\kf44}-end{\kf26} of{\kf13} the{\kf17}-e{\kf87} sky
+Dialogue: 0,0:02:10.54,0:02:13.09,DEFAULT,,0,0,0,,{\r}{\kf21}So{\kf25} I'll{\kf79} be{\kf63}-e{\kf21} the{\kf46} one
+Dialogue: 0,0:02:13.28,0:02:16.62,DEFAULT,,0,0,0,,{\r}{\kf16}Who{\kf22} do{\kf27}-es{\kf49}n't{\kf27} have{\kf11} to{\kf44} say{\kf33} good{\kf105}bye
+Dialogue: 0,0:02:18.23,0:02:20.26,DEFAULT,,0,0,0,,{\r}{\kf18}I'll{\kf28} clear{\kf14} the{\kf51} skies{\kf14} for{\kf14}e{\kf64}ver
+Dialogue: 0,0:02:21.68,0:02:23.86,DEFAULT,,0,0,0,,{\r}{\kf22}So{\kf13} we{\kf18} won't{\kf27} be{\kf10} a{\kf27}-a{\kf13}pa{\kf87}-art
+Dialogue: 0,0:02:25.09,0:02:27.57,DEFAULT,,0,0,0,,{\r}{\kf25}I'll{\kf25} keep{\kf15} the{\kf25} wea{\kf30}ther{\kf40} warm{\kf44} for{\kf43} you
+Dialogue: 0,0:02:27.87,0:02:33.64,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf16} the{\kf20} win{\kf16}ter{\kf20} will{\kf36} ne{\kf28}ver{\kf422} start

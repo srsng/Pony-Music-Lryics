@@ -1,39 +1,46 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Want It Need It
+Artist: Jeffthestrider
+Original Timing: mylittlekaraoke.com by Linos Melendi, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:25.66,0:00:29.00,DEFAULT,,0,0,0,,{\kf8}Well{\kf16} some{\kf4} u{\kf4}ni{\kf4}corn{\kf16} spells{\kf12} should{\kf8} have{\kf12} nev{\kf8}er{\kf4} been{\kf4} de{\kf27}vised{\kf35}~
-Dialogue: 0,0:00:29.08,0:00:32.15,DEFAULT,,0,0,0,,{\kf12}This{\kf8} one{\kf8} in{\kf12} par{\kf8}tic{\kf8}u{\kf20}lar{\kf16} will{\kf16} leave{\kf4} you{\kf16} trau{\kf4}ma{\kf27}tised{\kf35}~
-Dialogue: 0,0:00:32.27,0:00:35.27,DEFAULT,,0,0,0,,{\kf20}Need{\kf27} an{\kf8} ex{\kf12}am{\kf12}ple{\kf12} I'm{\kf4} the{\kf16} per{\kf4}fect{\kf8} par{\kf12}a{\kf31}digm{\kf20}~
-Dialogue: 0,0:00:35.38,0:00:38.69,DEFAULT,,0,0,0,,{\kf8}The{\kf23} Want{\kf8} It{\kf12} Need{\kf4} It{\kf31} spell{\kf8}~{\kf16} works{\kf12} eve{\kf8}ry{\kf61} time
-Dialogue: 0,0:00:38.84,0:00:41.81,DEFAULT,,0,0,0,,{\kf8}Struck{\kf31} by{\kf16}~{\kf23} her{\kf20} in{\kf16}can{\kf12}ta{\kf8}~{\kf12}tion
-Dialogue: 0,0:00:42.11,0:00:45.11,DEFAULT,,0,0,0,,{\kf23}Charmed{\kf23} by{\kf20}~{\kf12} her{\kf23} sweet{\kf16} sen{\kf16}sa{\kf16}tion
-Dialogue: 0,0:00:45.23,0:00:48.19,DEFAULT,,0,0,0,,{\kf27}Can't{\kf20} re{\kf23}sist{\kf16} I{\kf20} can't{\kf12} dis{\kf8}a{\kf42}gree
-Dialogue: 0,0:00:48.95,0:00:51.73,DEFAULT,,0,0,0,,{\kf42}I{\kf16} can't{\kf16}~{\kf31} break{\kf31} free
-Dialogue: 0,0:00:51.84,0:00:54.77,DEFAULT,,0,0,0,,{\kf12}Hob{\kf12}bled{\kf16} due{\kf12}~{\kf4} to{\kf23} my{\kf23} hes{\kf20}i{\kf23}ta{\kf16}tion
-Dialogue: 0,0:00:55.03,0:00:58.23,DEFAULT,,0,0,0,,{\kf16}Blind{\kf12}ed{\kf23} to{\kf23}~{\kf16} her{\kf16} des{\kf20}per{\kf23}a{\kf12}tion{\kf16} her
-Dialogue: 0,0:00:58.30,0:01:01.11,DEFAULT,,0,0,0,,{\kf23}Will{\kf12} per{\kf16}sists{\kf4} she{\kf31} toys{\kf12} with{\kf31} me
-Dialogue: 0,0:01:02.03,0:01:04.72,DEFAULT,,0,0,0,,{\kf35}I{\kf31} can't{\kf12} seem{\kf12} to{\kf31} breathe
-Dialogue: 0,0:01:30.72,0:01:33.49,DEFAULT,,0,0,0,,{\kf16}This{\kf8} pur{\kf12}ple{\kf27} mare{\kf8} can{\kf4} be{\kf23} quite{\kf8} warped{\kf8} and{\kf12} twist{\kf8}ed
-Dialogue: 0,0:01:33.65,0:01:37.07,DEFAULT,,0,0,0,,{\kf8}It's{\kf12} just{\kf4} a{\kf8} sim{\kf8}ple{\kf23} spell{\kf8}~{\kf16} where's{\kf4} the{\kf20} harm?{\kf12} She{\kf8} in{\kf4}sist{\kf8}ed{\kf12} Like{\kf8} a
-Dialogue: 0,0:01:37.30,0:01:40.30,DEFAULT,,0,0,0,,{\kf20}Fool{\kf12} I{\kf12} be{\kf12}lieved{\kf8} her{\kf4} dis{\kf27}armed{\kf4} by{\kf12} her{\kf23} smile{\kf8}~{\kf16} now{\kf8} she's
-Dialogue: 0,0:01:40.45,0:01:43.22,DEFAULT,,0,0,0,,{\kf16}Laugh{\kf8}ing{\kf8} ma{\kf12}nic'{\kf16}ly{\kf4} looks{\kf12} like{\kf20} I'm{\kf20} here{\kf8} a{\kf16}while{\kf16}~
-Dialogue: 0,0:01:43.68,0:01:46.68,DEFAULT,,0,0,0,,{\kf8}Struck{\kf31} by{\kf16}~{\kf23} her{\kf20} in{\kf16}can{\kf12}ta{\kf8}~{\kf12}tion
-Dialogue: 0,0:01:46.95,0:01:49.99,DEFAULT,,0,0,0,,{\kf23}Charmed{\kf20} by{\kf20}~{\kf12} her{\kf23} sweet{\kf16} sen{\kf16}sa{\kf16}tion
-Dialogue: 0,0:01:50.07,0:01:53.03,DEFAULT,,0,0,0,,{\kf27}Can't{\kf20} re{\kf23}sist{\kf16} I{\kf20} can't{\kf12} dis{\kf8}a{\kf42}gree
-Dialogue: 0,0:01:53.83,0:01:56.60,DEFAULT,,0,0,0,,{\kf42}I{\kf16} can't{\kf16}~{\kf31} break{\kf31} free
-Dialogue: 0,0:01:56.68,0:01:59.64,DEFAULT,,0,0,0,,{\kf12}Hob{\kf12}bled{\kf16} due{\kf12}~{\kf4} to{\kf23} my{\kf23} hes{\kf20}i{\kf23}ta{\kf16}tion
-Dialogue: 0,0:01:59.91,0:02:03.06,DEFAULT,,0,0,0,,{\kf16}Blind{\kf12}ed{\kf23} to{\kf23}~{\kf16} her{\kf16} des{\kf20}per{\kf23}a{\kf12}tion{\kf16} her
-Dialogue: 0,0:02:03.18,0:02:05.95,DEFAULT,,0,0,0,,{\kf23}Will{\kf12} per{\kf16}sists{\kf4} she{\kf31} toys{\kf12} with{\kf31} me
-Dialogue: 0,0:02:06.90,0:02:09.56,DEFAULT,,0,0,0,,{\kf35}I{\kf31} can't{\kf12} seem{\kf12} to{\kf31} breathe
-Dialogue: 0,0:03:01.48,0:03:04.59,DEFAULT,,0,0,0,,{\kf23}Drown{\kf23}ing{\kf16} in{\kf16}~{\kf39} these{\kf4} com{\kf8}pelled{\kf4} de{\kf42}sires{\kf16}~
-Dialogue: 0,0:03:04.82,0:03:07.79,DEFAULT,,0,0,0,,{\kf16}Burn{\kf23}ing{\kf12} down{\kf12}~{\kf23}~{\kf12} in{\kf16} her{\kf8} al{\kf12}lur{\kf8}ing{\kf35} fire{\kf20}~
-Dialogue: 0,0:03:07.98,0:03:11.13,DEFAULT,,0,0,0,,{\kf23}Time's{\kf4} slip{\kf8}ping{\kf16} by{\kf12}~{\kf4} she{\kf4} com{\kf20}mands{\kf12} I{\kf4} com{\kf20}ply{\kf20} I{\kf8} will
-Dialogue: 0,0:03:11.28,0:03:15.12,DEFAULT,,0,0,0,,{\kf12}Nev{\kf8}er{\kf4} be{\kf20} free{\kf4} from{\kf16} her{\kf65} cruel{\kf35} lies{\kf111}~
+Dialogue: 0,0:00:25.66,0:00:29.00,DEFAULT,,0,0,0,,{\r}{\kf16}Well{\kf33} some{\kf10} u{\kf10}ni{\kf10}corn{\kf33} spells{\kf24} should{\kf16} have{\kf24} nev{\kf16}er{\kf10} been{\kf10} de{\kf57}vised{\kf65}~
+Dialogue: 0,0:00:29.08,0:00:32.16,DEFAULT,,0,0,0,,{\r}{\kf19}This{\kf13} one{\kf13} in{\kf19} par{\kf13}tic{\kf13}u{\kf31}lar{\kf25} will{\kf25} leave{\kf10} you{\kf25} trau{\kf10}ma{\kf44}tised{\kf48}~
+Dialogue: 0,0:00:32.27,0:00:35.28,DEFAULT,,0,0,0,,{\r}{\kf32}Need{\kf45} an{\kf13} ex{\kf19}am{\kf19}ple{\kf19} I'm{\kf10} the{\kf26} per{\kf10}fect{\kf13} par{\kf19}a{\kf51}digm{\kf24}~
+Dialogue: 0,0:00:35.39,0:00:38.70,DEFAULT,,0,0,0,,{\r}{\kf14}The{\kf41} Want{\kf14} It{\kf20} Need{\kf10} It{\kf54} spell{\kf14}~{\kf27} works{\kf20} eve{\kf14}ry{\kf103} time
+Dialogue: 0,0:00:38.85,0:00:41.81,DEFAULT,,0,0,0,,{\r}{\kf16}Struck{\kf64} by{\kf32}~{\kf48} her{\kf40} in{\kf32}can{\kf24}ta{\kf16}~{\kf24}tion
+Dialogue: 0,0:00:42.12,0:00:45.12,DEFAULT,,0,0,0,,{\r}{\kf47}Charmed{\kf47} by{\kf39}~{\kf24} her{\kf47} sweet{\kf32} sen{\kf32}sa{\kf32}tion
+Dialogue: 0,0:00:45.23,0:00:48.20,DEFAULT,,0,0,0,,{\r}{\kf48}Can't{\kf34} re{\kf41}sist{\kf28} I{\kf34} can't{\kf21} dis{\kf14}a{\kf76}gree
+Dialogue: 0,0:00:48.96,0:00:51.73,DEFAULT,,0,0,0,,{\r}{\kf87}I{\kf32} can't{\kf32}~{\kf63} break{\kf63} free
+Dialogue: 0,0:00:51.85,0:00:54.77,DEFAULT,,0,0,0,,{\r}{\kf21}Hob{\kf21}bled{\kf29} due{\kf21}~{\kf10} to{\kf43} my{\kf43} hes{\kf36}i{\kf43}ta{\kf26}tion
+Dialogue: 0,0:00:55.04,0:00:58.23,DEFAULT,,0,0,0,,{\r}{\kf28}Blind{\kf21}ed{\kf43} to{\kf43}~{\kf28} her{\kf28} des{\kf35}per{\kf43}a{\kf21}tion{\kf29} her
+Dialogue: 0,0:00:58.31,0:01:01.12,DEFAULT,,0,0,0,,{\r}{\kf51}Will{\kf26} per{\kf34}sists{\kf10} she{\kf68} toys{\kf26} with{\kf66} me
+Dialogue: 0,0:01:02.03,0:01:04.73,DEFAULT,,0,0,0,,{\r}{\kf78}I{\kf70} can't{\kf26} seem{\kf26} to{\kf70} breathe
+Dialogue: 0,0:01:30.73,0:01:33.50,DEFAULT,,0,0,0,,{\r}{\kf33}This{\kf16} pur{\kf24}ple{\kf57} mare{\kf16} can{\kf10} be{\kf49} quite{\kf16} warped{\kf16} and{\kf24} twist{\kf16}ed
+Dialogue: 0,0:01:33.65,0:01:37.07,DEFAULT,,0,0,0,,{\r}{\kf17}It's{\kf25} just{\kf10} a{\kf17} sim{\kf17}ple{\kf50} spell{\kf17}~{\kf33} where's{\kf10} the{\kf42} harm?{\kf25} She{\kf17} in{\kf10}sist{\kf17}ed{\kf25} Like{\kf10} a
+Dialogue: 0,0:01:37.30,0:01:40.30,DEFAULT,,0,0,0,,{\r}{\kf36}Fool{\kf21} I{\kf21} be{\kf21}lieved{\kf14} her{\kf10} dis{\kf50}armed{\kf10} by{\kf21} her{\kf43} smile{\kf14}~{\kf29} now{\kf10} she's
+Dialogue: 0,0:01:40.45,0:01:43.23,DEFAULT,,0,0,0,,{\r}{\kf28}Laugh{\kf14}ing{\kf14} ma{\kf21}nic'{\kf28}ly{\kf10} looks{\kf21} like{\kf36} I'm{\kf36} here{\kf14} a{\kf28}while{\kf27}~
+Dialogue: 0,0:01:43.69,0:01:46.69,DEFAULT,,0,0,0,,{\r}{\kf16}Struck{\kf65} by{\kf32}~{\kf49} her{\kf41} in{\kf32}can{\kf24}ta{\kf16}~{\kf25}tion
+Dialogue: 0,0:01:46.95,0:01:49.99,DEFAULT,,0,0,0,,{\r}{\kf49}Charmed{\kf41} by{\kf41}~{\kf25} her{\kf49} sweet{\kf33} sen{\kf33}sa{\kf33}tion
+Dialogue: 0,0:01:50.07,0:01:53.03,DEFAULT,,0,0,0,,{\r}{\kf48}Can't{\kf34} re{\kf41}sist{\kf28} I{\kf34} can't{\kf21} dis{\kf14}a{\kf76}gree
+Dialogue: 0,0:01:53.83,0:01:56.61,DEFAULT,,0,0,0,,{\r}{\kf87}I{\kf32} can't{\kf32}~{\kf63} break{\kf63} free
+Dialogue: 0,0:01:56.68,0:01:59.65,DEFAULT,,0,0,0,,{\r}{\kf22}Hob{\kf22}bled{\kf29} due{\kf22}~{\kf10} to{\kf43} my{\kf43} hes{\kf36}i{\kf43}ta{\kf26}tion
+Dialogue: 0,0:01:59.91,0:02:03.07,DEFAULT,,0,0,0,,{\r}{\kf28}Blind{\kf21}ed{\kf42} to{\kf42}~{\kf28} her{\kf28} des{\kf35}per{\kf42}a{\kf21}tion{\kf28} her
+Dialogue: 0,0:02:03.18,0:02:05.96,DEFAULT,,0,0,0,,{\r}{\kf50}Will{\kf25} per{\kf34}sists{\kf10} she{\kf67} toys{\kf25} with{\kf66} me
+Dialogue: 0,0:02:06.91,0:02:09.57,DEFAULT,,0,0,0,,{\r}{\kf77}I{\kf69} can't{\kf26} seem{\kf26} to{\kf68} breathe
+Dialogue: 0,0:03:01.48,0:03:04.60,DEFAULT,,0,0,0,,{\r}{\kf38}Drown{\kf38}ing{\kf25} in{\kf25}~{\kf64} these{\kf10} com{\kf13}pelled{\kf10} de{\kf70}sires{\kf19}~
+Dialogue: 0,0:03:04.83,0:03:07.79,DEFAULT,,0,0,0,,{\r}{\kf24}Burn{\kf36}ing{\kf18} down{\kf18}~{\kf36}~{\kf18} in{\kf24} her{\kf12} al{\kf18}lur{\kf12}ing{\kf53} fire{\kf27}~
+Dialogue: 0,0:03:07.98,0:03:11.14,DEFAULT,,0,0,0,,{\r}{\kf48}Time's{\kf10} slip{\kf16}ping{\kf32} by{\kf24}~{\kf10} she{\kf10} com{\kf40}mands{\kf24} I{\kf10} com{\kf40}ply{\kf40} I{\kf11} will
+Dialogue: 0,0:03:11.29,0:03:15.13,DEFAULT,,0,0,0,,{\r}{\kf16}Nev{\kf11}er{\kf10} be{\kf27} free{\kf10} from{\kf22} her{\kf92} cruel{\kf49} lies{\kf147}~

@@ -1,21 +1,28 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: 99 Buckets of Oats
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.80,0:00:02.66,DEFAULT,,0,0,0,,{\kf13}Nin{\kf10}ty{\kf19}nine{\kf16} buc{\kf22}kets{\kf7} of{\kf25} oats{\kf10} on{\kf10} the{\kf31} wall
-Dialogue: 0,0:00:02.91,0:00:04.52,DEFAULT,,0,0,0,,{\kf16}Nin{\kf10}ty{\kf19}nine{\kf16} buc{\kf16}kets{\kf13} of{\kf49} oats
-Dialogue: 0,0:00:04.95,0:00:06.41,DEFAULT,,0,0,0,,{\kf25}Take{\kf13} one{\kf31} down,{\kf22} toss{\kf10} it{\kf10} a{\kf10}round
-Dialogue: 0,0:00:06.50,0:00:08.69,DEFAULT,,0,0,0,,{\kf7}You{\kf19} got{\kf10} ei{\kf13}ghty{\kf10}one{\kf16} buc{\kf22}kets{\kf13} of{\kf19} oats{\kf10} on{\kf7} the{\kf34} wall
-Dialogue: 0,0:00:09.00,0:00:10.73,DEFAULT,,0,0,0,,{\kf22}...for{\kf10}ty{\kf19}one{\kf16} buc{\kf22}kets{\kf10} of{\kf55} oats
-Dialogue: 0,0:00:11.16,0:00:12.77,DEFAULT,,0,0,0,,{\kf28}Take{\kf19} one{\kf37} down,{\kf22} toss{\kf10} it{\kf7} a{\kf7}round
-Dialogue: 0,0:00:12.90,0:00:15.82,DEFAULT,,0,0,0,,{\kf10}You{\kf13} got{\kf16} for{\kf16}ty...{\kf19} buc{\kf19}kets{\kf10} of{\kf22} oats{\kf16} on{\kf10} the{\kf37} wall
-Dialogue: 0,0:00:16.34,0:00:17.01,DEFAULT,,0,0,0,,{\kf13} ..of{\kf49} oats
-Dialogue: 0,0:00:17.56,0:00:19.08,DEFAULT,,0,0,0,,{\kf19}Take{\kf19} one{\kf37} down,{\kf22} toss{\kf13} it{\kf7} a{\kf13}round
-Dialogue: 0,0:00:19.23,0:00:23.22,DEFAULT,,0,0,0,,{\kf10}You{\kf16} got{\kf13} ze{\kf19}ro{\kf13} buc{\kf19}kets{\kf13} of{\kf25} oats{\kf19} on{\kf19} the{\kf183} wall
+Dialogue: 0,0:00:00.81,0:00:02.67,DEFAULT,,0,0,0,,{\r}{\kf15}Nin{\kf11}ty{\kf22}nine{\kf18} buc{\kf26}kets{\kf10} of{\kf29} oats{\kf11} on{\kf11} the{\kf33} wall
+Dialogue: 0,0:00:02.91,0:00:04.52,DEFAULT,,0,0,0,,{\r}{\kf18}Nin{\kf11}ty{\kf22}nine{\kf18} buc{\kf18}kets{\kf15} of{\kf59} oats
+Dialogue: 0,0:00:04.95,0:00:06.41,DEFAULT,,0,0,0,,{\r}{\kf31}Take{\kf15} one{\kf38} down,{\kf27} toss{\kf12} it{\kf12} a{\kf11}round
+Dialogue: 0,0:00:06.50,0:00:08.70,DEFAULT,,0,0,0,,{\r}{\kf10}You{\kf23} got{\kf12} ei{\kf16}ghty{\kf12}one{\kf20} buc{\kf27}kets{\kf16} of{\kf23} oats{\kf12} on{\kf10} the{\kf38} wall
+Dialogue: 0,0:00:09.00,0:00:10.74,DEFAULT,,0,0,0,,{\r}{\kf25}...for{\kf11}ty{\kf21}one{\kf18} buc{\kf25}kets{\kf11} of{\kf63} oats
+Dialogue: 0,0:00:11.16,0:00:12.78,DEFAULT,,0,0,0,,{\r}{\kf35}Take{\kf24} one{\kf47} down,{\kf27} toss{\kf12} it{\kf10} a{\kf10}round
+Dialogue: 0,0:00:12.90,0:00:15.82,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf20} got{\kf25} for{\kf25}ty...{\kf30} buc{\kf30}kets{\kf15} of{\kf35} oats{\kf25} on{\kf15} the{\kf57} wall
+Dialogue: 0,0:00:16.34,0:00:17.01,DEFAULT,,0,0,0,,{\r}{\kf13} ..of{\kf54} oats
+Dialogue: 0,0:00:17.56,0:00:19.08,DEFAULT,,0,0,0,,{\r}{\kf22}Take{\kf22} one{\kf44} down,{\kf26} toss{\kf15} it{\kf10} a{\kf13}round
+Dialogue: 0,0:00:19.24,0:00:23.23,DEFAULT,,0,0,0,,{\r}{\kf11}You{\kf18} got{\kf14} ze{\kf21}ro{\kf14} buc{\kf21}kets{\kf14} of{\kf28} oats{\kf21} on{\kf21} the{\kf216} wall

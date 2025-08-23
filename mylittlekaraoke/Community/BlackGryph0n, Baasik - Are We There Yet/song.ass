@@ -1,79 +1,86 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Crusader (Are We There Yet)
+Artist: Black Gryph0n & Baasik
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:26.36,0:00:27.07,DEFAULT,,0,0,0,,{\kf19}Three{\kf38} friends
-Dialogue: 0,0:00:27.35,0:00:29.05,DEFAULT,,0,0,0,,{\kf29}Ta{\kf15}king{\kf15} on{\kf15} the{\kf15} world{\kf19} to{\kf19}ge{\kf29}ther
-Dialogue: 0,0:00:29.33,0:00:31.50,DEFAULT,,0,0,0,,{\kf29}Big{\kf29} plans{\kf15} in{\kf15} a{\kf19} big{\kf34}ger{\kf48} world
-Dialogue: 0,0:00:32.31,0:00:34.99,DEFAULT,,0,0,0,,{\kf34}Still{\kf34} kids{\kf19} a{\kf19}fraid{\kf15} of{\kf19} be{\kf15}ing{\kf15} young{\kf19} for{\kf19}e{\kf19}ver
-Dialogue: 0,0:00:35.28,0:00:37.64,DEFAULT,,0,0,0,,{\kf34}Young{\kf34} eyes{\kf24} watch{\kf19} life{\kf29} un{\kf38}furl{\kf24}~
-Dialogue: 0,0:00:38.39,0:00:40.65,DEFAULT,,0,0,0,,{\kf24}Why{\kf19} do{\kf19} you{\kf24} sit{\kf24} there{\kf38} sigh{\kf29}ing
-Dialogue: 0,0:00:40.80,0:00:43.39,DEFAULT,,0,0,0,,{\kf15}In{\kf19}stead{\kf19} of{\kf34} try{\kf29}ing{\kf29} one{\kf29} more{\kf38} time?
-Dialogue: 0,0:00:44.15,0:00:45.04,DEFAULT,,0,0,0,,{\kf15}I've{\kf29} been{\kf29} there
-Dialogue: 0,0:00:45.23,0:00:46.98,DEFAULT,,0,0,0,,{\kf15}I{\kf15} know{\kf19} e{\kf19}xac{\kf15}tly{\kf15} what{\kf15} you're{\kf19} thin{\kf24}king
-Dialogue: 0,0:00:47.16,0:00:49.66,DEFAULT,,0,0,0,,{\kf15}But{\kf24} why{\kf29} try{\kf19} gro{\kf15}wing{\kf15} up{\kf19} too{\kf43} fast{\kf24}~?
-Dialogue: 0,0:00:50.14,0:00:53.01,DEFAULT,,0,0,0,,{\kf15}Now,{\kf29} I've{\kf19} learned{\kf19} it's{\kf29} bet{\kf15}ter{\kf19} li{\kf19}ving{\kf15} in{\kf15} the{\kf15} mo{\kf24}ment
-Dialogue: 0,0:00:53.11,0:00:55.37,DEFAULT,,0,0,0,,{\kf19}En{\kf24}joy{\kf29} youth,{\kf15} cause{\kf15} it{\kf19} does{\kf19}n't{\kf38} last
-Dialogue: 0,0:00:55.51,0:00:58.53,DEFAULT,,0,0,0,,{\kf15}Now{\kf19} you're{\kf29} ho{\kf24}ping,{\kf34} try{\kf29}ing,{\kf38} pray{\kf29}ing,{\kf38} cry{\kf15}ing
-Dialogue: 0,0:00:58.67,0:01:01.41,DEFAULT,,0,0,0,,{\kf10}For{\kf15} your{\kf19} des{\kf29}ti{\kf29}ny{\kf24} to{\kf24} come{\kf29} this{\kf38} time
-Dialogue: 0,0:01:02.21,0:01:03.67,DEFAULT,,0,0,0,,{\kf29}You{\kf24} are{\kf24} so{\kf38} young
-Dialogue: 0,0:01:03.86,0:01:05.09,DEFAULT,,0,0,0,,{\kf15}And{\kf15} you{\kf15} are{\kf29} so{\kf24} free
-Dialogue: 0,0:01:05.23,0:01:06.17,DEFAULT,,0,0,0,,{\kf10}But{\kf10} you're{\kf38} aim{\kf24}less
-Dialogue: 0,0:01:06.31,0:01:08.11,DEFAULT,,0,0,0,,{\kf15}And{\kf19} I{\kf24} can't{\kf24} help{\kf29} but{\kf34} see
-Dialogue: 0,0:01:08.39,0:01:09.57,DEFAULT,,0,0,0,,{\kf15}That{\kf24} you{\kf34} don't{\kf29} know
-Dialogue: 0,0:01:09.81,0:01:11.13,DEFAULT,,0,0,0,,{\kf19}What{\kf15} you{\kf24} real{\kf24}ly{\kf29} need
-Dialogue: 0,0:01:11.36,0:01:12.40,DEFAULT,,0,0,0,,{\kf15}"Are{\kf15} we{\kf24} there{\kf29} yet
-Dialogue: 0,0:01:12.82,0:01:13.86,DEFAULT,,0,0,0,,{\kf19}Are{\kf19} we{\kf19} there{\kf29} yet?"
-Dialogue: 0,0:01:14.19,0:01:15.56,DEFAULT,,0,0,0,,{\kf29}You've{\kf24} done{\kf29} it{\kf29} all
-Dialogue: 0,0:01:15.84,0:01:17.07,DEFAULT,,0,0,0,,{\kf29}From{\kf19} A{\kf19} to{\kf29} Z
-Dialogue: 0,0:01:17.16,0:01:18.15,DEFAULT,,0,0,0,,{\kf15}Are{\kf19} you{\kf34} try{\kf24}ing
-Dialogue: 0,0:01:18.30,0:01:20.09,DEFAULT,,0,0,0,,{\kf15}To{\kf19} find{\kf19} your{\kf38} des{\kf34}ti{\kf34}ny?
-Dialogue: 0,0:01:20.37,0:01:21.60,DEFAULT,,0,0,0,,{\kf24}One{\kf15} day{\kf24} you'll{\kf29} know
-Dialogue: 0,0:01:21.88,0:01:23.06,DEFAULT,,0,0,0,,{\kf15}Who{\kf10} you{\kf15} wan{\kf19}na{\kf24} be
-Dialogue: 0,0:01:23.39,0:01:24.33,DEFAULT,,0,0,0,,{\kf15}"Are{\kf19} we{\kf19} there{\kf24} yet?
-Dialogue: 0,0:01:24.90,0:01:25.94,DEFAULT,,0,0,0,,{\kf15}Are{\kf15} we{\kf24} there{\kf34} yet?"
-Dialogue: 0,0:01:26.41,0:01:29.10,DEFAULT,,0,0,0,,{\kf24}Young{\kf43} eyes{\kf15} see{\kf15} e{\kf19}very{\kf15}thing{\kf19} you've{\kf19} e{\kf19}ver{\kf19} wan{\kf24}ted
-Dialogue: 0,0:01:29.43,0:01:31.69,DEFAULT,,0,0,0,,{\kf29}Hope{\kf29} dies{\kf15} when{\kf15} it{\kf15} won't{\kf24} come{\kf43} true{\kf24}~
-Dialogue: 0,0:01:32.16,0:01:35.04,DEFAULT,,0,0,0,,{\kf15}But{\kf19} re{\kf19}a{\kf34}lize{\kf15} the{\kf19} pos{\kf19}si{\kf19}bi{\kf19}li{\kf19}ties{\kf15} are{\kf19} end{\kf19}less
-Dialogue: 0,0:01:35.18,0:01:37.40,DEFAULT,,0,0,0,,{\kf15}And{\kf24} in{\kf15} time{\kf10} it{\kf15} will{\kf15} be{\kf15} all{\kf19} for{\kf38} you
-Dialogue: 0,0:01:37.54,0:01:40.61,DEFAULT,,0,0,0,,{\kf19}And{\kf15} you're{\kf24} hop{\kf19}ing,{\kf38} try{\kf29}ing,{\kf34} pray{\kf29}ing,{\kf38} cry{\kf19}ing
-Dialogue: 0,0:01:40.75,0:01:43.48,DEFAULT,,0,0,0,,{\kf10}But{\kf10} your{\kf19} des{\kf29}ti{\kf29}ny{\kf29} will{\kf29} come{\kf29} in{\kf52} time
-Dialogue: 0,0:01:44.19,0:01:45.61,DEFAULT,,0,0,0,,{\kf24}You{\kf24} are{\kf24} so{\kf38} young
-Dialogue: 0,0:01:45.84,0:01:47.02,DEFAULT,,0,0,0,,{\kf15}And{\kf15} you{\kf15} are{\kf24} so{\kf24} free
-Dialogue: 0,0:01:47.16,0:01:48.11,DEFAULT,,0,0,0,,{\kf15}But{\kf19} you're{\kf29} aim{\kf24}less
-Dialogue: 0,0:01:48.30,0:01:50.09,DEFAULT,,0,0,0,,{\kf15}And{\kf15} I{\kf24} can't{\kf34} help{\kf29} but{\kf34} see
-Dialogue: 0,0:01:50.37,0:01:51.55,DEFAULT,,0,0,0,,{\kf15}That{\kf19} you{\kf19} don't{\kf29} know
-Dialogue: 0,0:01:51.74,0:01:53.11,DEFAULT,,0,0,0,,{\kf24}What{\kf15} you{\kf24} real{\kf24}ly{\kf34} need
-Dialogue: 0,0:01:53.30,0:01:54.33,DEFAULT,,0,0,0,,{\kf19}"Are{\kf15} we{\kf19} there{\kf29} yet
-Dialogue: 0,0:01:54.48,0:01:55.89,DEFAULT,,0,0,0,,{\kf15}A-{\kf15} A-{\kf15} Are{\kf15} we{\kf29} there{\kf29} yet?"
-Dialogue: 0,0:01:56.31,0:01:57.68,DEFAULT,,0,0,0,,{\kf29}You've{\kf19} done{\kf24} it{\kf43} all
-Dialogue: 0,0:01:57.82,0:01:59.10,DEFAULT,,0,0,0,,{\kf19}From{\kf24} A{\kf24} to{\kf38} Z
-Dialogue: 0,0:01:59.33,0:02:00.09,DEFAULT,,0,0,0,,{\kf19}Are{\kf15} you{\kf15} try{\kf19}ing
-Dialogue: 0,0:02:00.23,0:02:02.07,DEFAULT,,0,0,0,,{\kf15}To{\kf19} find{\kf29} your{\kf24} des{\kf24}ti{\kf34}ny?
-Dialogue: 0,0:02:02.31,0:02:03.63,DEFAULT,,0,0,0,,{\kf29}Still{\kf19} you{\kf19} don't{\kf38} know
-Dialogue: 0,0:02:03.77,0:02:05.14,DEFAULT,,0,0,0,,{\kf15}Who{\kf19} you{\kf19} wan{\kf24}na{\kf38} be?
-Dialogue: 0,0:02:05.32,0:02:06.31,DEFAULT,,0,0,0,,{\kf15}"Are{\kf19} we{\kf24} there{\kf24} yet?
-Dialogue: 0,0:02:06.46,0:02:07.97,DEFAULT,,0,0,0,,{\kf19}A-{\kf10} A-{\kf15} Are{\kf19} we{\kf24} there{\kf38} yet?"
-Dialogue: 0,0:02:35.23,0:02:36.69,DEFAULT,,0,0,0,,{\kf24}You{\kf24} are{\kf29} so{\kf38} young
-Dialogue: 0,0:02:36.83,0:02:38.11,DEFAULT,,0,0,0,,{\kf19}And{\kf15} you{\kf15} are{\kf19} so{\kf29} free
-Dialogue: 0,0:02:38.20,0:02:39.15,DEFAULT,,0,0,0,,{\kf15}But{\kf15} you're{\kf34} aim{\kf24}less
-Dialogue: 0,0:02:39.33,0:02:41.13,DEFAULT,,0,0,0,,{\kf15}And{\kf15} I{\kf24} can't{\kf29} help{\kf29} but{\kf34} see
-Dialogue: 0,0:02:41.36,0:02:42.59,DEFAULT,,0,0,0,,{\kf24}That{\kf15} you{\kf19} don't{\kf34} know
-Dialogue: 0,0:02:42.87,0:02:44.15,DEFAULT,,0,0,0,,{\kf15}What{\kf15} you{\kf24} real{\kf24}ly{\kf34} need
-Dialogue: 0,0:02:44.38,0:02:45.37,DEFAULT,,0,0,0,,{\kf15}"Are{\kf15} we{\kf24} there{\kf29} yet,
-Dialogue: 0,0:02:45.56,0:02:46.88,DEFAULT,,0,0,0,,{\kf10}A-{\kf15} A-{\kf15} Are{\kf15} we{\kf29} there{\kf29} yet?"
-Dialogue: 0,0:02:47.35,0:02:48.67,DEFAULT,,0,0,0,,{\kf29}You've{\kf19} done{\kf24} it{\kf38} all
-Dialogue: 0,0:02:48.81,0:02:50.18,DEFAULT,,0,0,0,,{\kf19}From{\kf24} A{\kf24} to{\kf43} Z
-Dialogue: 0,0:02:50.37,0:02:51.22,DEFAULT,,0,0,0,,{\kf15}Are{\kf15} you{\kf15} try{\kf29}ing
-Dialogue: 0,0:02:51.36,0:02:53.11,DEFAULT,,0,0,0,,{\kf10}To{\kf15} find{\kf24} your{\kf29} des{\kf29}ti{\kf34}ny?
-Dialogue: 0,0:02:53.30,0:02:54.66,DEFAULT,,0,0,0,,{\kf34}Still{\kf19} you{\kf19} don't{\kf38} know
-Dialogue: 0,0:02:54.85,0:02:56.27,DEFAULT,,0,0,0,,{\kf19}Who{\kf10} you{\kf15} wan{\kf19}na{\kf19} be{\kf29}~?
-Dialogue: 0,0:02:56.41,0:02:57.40,DEFAULT,,0,0,0,,{\kf15}"Are{\kf15} we{\kf19} there{\kf29} yet?
-Dialogue: 0,0:02:57.54,0:02:58.91,DEFAULT,,0,0,0,,{\kf15}A-{\kf10} A-{\kf15} Are{\kf15} we{\kf29} there{\kf34} yet?"
+Dialogue: 0,0:00:26.37,0:00:27.07,DEFAULT,,0,0,0,,{\r}{\kf24}Three{\kf47} friends
+Dialogue: 0,0:00:27.36,0:00:29.06,DEFAULT,,0,0,0,,{\r}{\kf32}Ta{\kf16}king{\kf16} on{\kf16} the{\kf16} world{\kf21} to{\kf21}ge{\kf32}ther
+Dialogue: 0,0:00:29.34,0:00:31.51,DEFAULT,,0,0,0,,{\r}{\kf33}Big{\kf33} plans{\kf17} in{\kf17} a{\kf22} big{\kf39}ger{\kf56} world
+Dialogue: 0,0:00:32.31,0:00:35.00,DEFAULT,,0,0,0,,{\r}{\kf40}Still{\kf40} kids{\kf23} a{\kf23}fraid{\kf17} of{\kf23} be{\kf17}ing{\kf17} young{\kf23} for{\kf23}e{\kf23}ver
+Dialogue: 0,0:00:35.28,0:00:37.64,DEFAULT,,0,0,0,,{\r}{\kf39}Young{\kf39} eyes{\kf28} watch{\kf22} life{\kf34} un{\kf45}furl{\kf29}~
+Dialogue: 0,0:00:38.40,0:00:40.66,DEFAULT,,0,0,0,,{\r}{\kf31}Why{\kf24} do{\kf24} you{\kf31} sit{\kf31} there{\kf49} sigh{\kf36}ing
+Dialogue: 0,0:00:40.80,0:00:43.40,DEFAULT,,0,0,0,,{\r}{\kf18}In{\kf24}stead{\kf24} of{\kf41} try{\kf35}ing{\kf35} one{\kf35} more{\kf47} time?
+Dialogue: 0,0:00:44.15,0:00:45.05,DEFAULT,,0,0,0,,{\r}{\kf18}I've{\kf36} been{\kf36} there
+Dialogue: 0,0:00:45.23,0:00:46.98,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} know{\kf22} e{\kf22}xac{\kf16}tly{\kf16} what{\kf16} you're{\kf22} thin{\kf29}king
+Dialogue: 0,0:00:47.17,0:00:49.67,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf30} why{\kf36} try{\kf24} gro{\kf18}wing{\kf18} up{\kf24} too{\kf54} fast{\kf28}~?
+Dialogue: 0,0:00:50.14,0:00:53.02,DEFAULT,,0,0,0,,{\r}{\kf18}Now,{\kf36} I've{\kf24} learned{\kf24} it's{\kf36} bet{\kf18}ter{\kf24} li{\kf24}ving{\kf18} in{\kf18} the{\kf18} mo{\kf30}ment
+Dialogue: 0,0:00:53.11,0:00:55.38,DEFAULT,,0,0,0,,{\r}{\kf24}En{\kf31}joy{\kf37} youth,{\kf18} cause{\kf18} it{\kf24} does{\kf24}n't{\kf50} last
+Dialogue: 0,0:00:55.52,0:00:58.54,DEFAULT,,0,0,0,,{\r}{\kf16}Now{\kf22} you're{\kf32} ho{\kf27}ping,{\kf38} try{\kf32}ing,{\kf43} pray{\kf32}ing,{\kf43} cry{\kf17}ing
+Dialogue: 0,0:00:58.68,0:01:01.41,DEFAULT,,0,0,0,,{\r}{\kf12}For{\kf18} your{\kf24} des{\kf37}ti{\kf37}ny{\kf30} to{\kf30} come{\kf37} this{\kf49} time
+Dialogue: 0,0:01:02.22,0:01:03.68,DEFAULT,,0,0,0,,{\r}{\kf36}You{\kf30} are{\kf30} so{\kf50} young
+Dialogue: 0,0:01:03.87,0:01:05.09,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf18} you{\kf18} are{\kf37} so{\kf32} free
+Dialogue: 0,0:01:05.23,0:01:06.18,DEFAULT,,0,0,0,,{\r}{\kf11}But{\kf11} you're{\kf44} aim{\kf28}less
+Dialogue: 0,0:01:06.32,0:01:08.11,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf24} I{\kf30} can't{\kf30} help{\kf36} but{\kf41} see
+Dialogue: 0,0:01:08.40,0:01:09.57,DEFAULT,,0,0,0,,{\r}{\kf17}That{\kf28} you{\kf39} don't{\kf34} know
+Dialogue: 0,0:01:09.81,0:01:11.13,DEFAULT,,0,0,0,,{\r}{\kf23}What{\kf17} you{\kf29} real{\kf29}ly{\kf34} need
+Dialogue: 0,0:01:11.37,0:01:12.40,DEFAULT,,0,0,0,,{\r}{\kf18}"Are{\kf18} we{\kf31} there{\kf37} yet
+Dialogue: 0,0:01:12.83,0:01:13.87,DEFAULT,,0,0,0,,{\r}{\kf23}Are{\kf23} we{\kf23} there{\kf35} yet?"
+Dialogue: 0,0:01:14.20,0:01:15.57,DEFAULT,,0,0,0,,{\r}{\kf36}You've{\kf30} done{\kf36} it{\kf35} all
+Dialogue: 0,0:01:15.85,0:01:17.07,DEFAULT,,0,0,0,,{\r}{\kf37}From{\kf25} A{\kf25} to{\kf36} Z
+Dialogue: 0,0:01:17.17,0:01:18.16,DEFAULT,,0,0,0,,{\r}{\kf16}Are{\kf21} you{\kf36} try{\kf26}ing
+Dialogue: 0,0:01:18.30,0:01:20.09,DEFAULT,,0,0,0,,{\r}{\kf16}To{\kf22} find{\kf22} your{\kf43} des{\kf38}ti{\kf38}ny?
+Dialogue: 0,0:01:20.38,0:01:21.60,DEFAULT,,0,0,0,,{\r}{\kf32}One{\kf19} day{\kf32} you'll{\kf40} know
+Dialogue: 0,0:01:21.89,0:01:23.07,DEFAULT,,0,0,0,,{\r}{\kf21}Who{\kf14} you{\kf21} wan{\kf28}na{\kf34} be
+Dialogue: 0,0:01:23.40,0:01:24.34,DEFAULT,,0,0,0,,{\r}{\kf18}"Are{\kf24} we{\kf24} there{\kf28} yet?
+Dialogue: 0,0:01:24.90,0:01:25.94,DEFAULT,,0,0,0,,{\r}{\kf17}Are{\kf17} we{\kf29} there{\kf41} yet?"
+Dialogue: 0,0:01:26.41,0:01:29.10,DEFAULT,,0,0,0,,{\r}{\kf28}Young{\kf50} eyes{\kf17} see{\kf17} e{\kf22}very{\kf17}thing{\kf22} you've{\kf22} e{\kf22}ver{\kf22} wan{\kf30}ted
+Dialogue: 0,0:01:29.43,0:01:31.70,DEFAULT,,0,0,0,,{\r}{\kf34}Hope{\kf34} dies{\kf17} when{\kf17} it{\kf17} won't{\kf28} come{\kf51} true{\kf28}~
+Dialogue: 0,0:01:32.17,0:01:35.05,DEFAULT,,0,0,0,,{\r}{\kf17}But{\kf22} re{\kf22}a{\kf39}lize{\kf17} the{\kf22} pos{\kf22}si{\kf22}bi{\kf22}li{\kf22}ties{\kf17} are{\kf22} end{\kf22}less
+Dialogue: 0,0:01:35.19,0:01:37.40,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf33} in{\kf20} time{\kf13} it{\kf20} will{\kf20} be{\kf20} all{\kf26} for{\kf50} you
+Dialogue: 0,0:01:37.55,0:01:40.61,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf17} you're{\kf28} hop{\kf22}ing,{\kf45} try{\kf33}ing,{\kf39} pray{\kf33}ing,{\kf45} cry{\kf23}ing
+Dialogue: 0,0:01:40.75,0:01:43.49,DEFAULT,,0,0,0,,{\r}{\kf11}But{\kf11} your{\kf22} des{\kf34}ti{\kf34}ny{\kf34} will{\kf34} come{\kf34} in{\kf60} time
+Dialogue: 0,0:01:44.20,0:01:45.61,DEFAULT,,0,0,0,,{\r}{\kf31}You{\kf31} are{\kf31} so{\kf49} young
+Dialogue: 0,0:01:45.85,0:01:47.03,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} you{\kf19} are{\kf31} so{\kf30} free
+Dialogue: 0,0:01:47.17,0:01:48.11,DEFAULT,,0,0,0,,{\r}{\kf16}But{\kf21} you're{\kf31} aim{\kf26}less
+Dialogue: 0,0:01:48.30,0:01:50.09,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf17} I{\kf29} can't{\kf40} help{\kf35} but{\kf41} see
+Dialogue: 0,0:01:50.38,0:01:51.56,DEFAULT,,0,0,0,,{\r}{\kf21}That{\kf28} you{\kf28} don't{\kf41} know
+Dialogue: 0,0:01:51.74,0:01:53.11,DEFAULT,,0,0,0,,{\r}{\kf27}What{\kf16} you{\kf27} real{\kf27}ly{\kf40} need
+Dialogue: 0,0:01:53.30,0:01:54.34,DEFAULT,,0,0,0,,{\r}{\kf24}"Are{\kf18} we{\kf24} there{\kf38} yet
+Dialogue: 0,0:01:54.48,0:01:55.90,DEFAULT,,0,0,0,,{\r}{\kf18}A-{\kf18} A-{\kf18} Are{\kf18} we{\kf36} there{\kf34} yet?"
+Dialogue: 0,0:01:56.32,0:01:57.69,DEFAULT,,0,0,0,,{\r}{\kf34}You've{\kf23} done{\kf29} it{\kf51} all
+Dialogue: 0,0:01:57.83,0:01:59.10,DEFAULT,,0,0,0,,{\r}{\kf23}From{\kf29} A{\kf29} to{\kf46} Z
+Dialogue: 0,0:01:59.34,0:02:00.09,DEFAULT,,0,0,0,,{\r}{\kf21}Are{\kf16} you{\kf16} try{\kf22}ing
+Dialogue: 0,0:02:00.23,0:02:02.07,DEFAULT,,0,0,0,,{\r}{\kf18}To{\kf25} find{\kf37} your{\kf31} des{\kf31}ti{\kf42}ny?
+Dialogue: 0,0:02:02.31,0:02:03.63,DEFAULT,,0,0,0,,{\r}{\kf36}Still{\kf24} you{\kf24} don't{\kf48} know
+Dialogue: 0,0:02:03.77,0:02:05.14,DEFAULT,,0,0,0,,{\r}{\kf17}Who{\kf23} you{\kf23} wan{\kf29}na{\kf45} be?
+Dialogue: 0,0:02:05.33,0:02:06.32,DEFAULT,,0,0,0,,{\r}{\kf17}"Are{\kf23} we{\kf29} there{\kf30} yet?
+Dialogue: 0,0:02:06.46,0:02:07.97,DEFAULT,,0,0,0,,{\r}{\kf23}A-{\kf12} A-{\kf17} Are{\kf23} we{\kf29} there{\kf47} yet?"
+Dialogue: 0,0:02:35.23,0:02:36.70,DEFAULT,,0,0,0,,{\r}{\kf30}You{\kf30} are{\kf36} so{\kf50} young
+Dialogue: 0,0:02:36.84,0:02:38.11,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf19} you{\kf19} are{\kf25} so{\kf39} free
+Dialogue: 0,0:02:38.21,0:02:39.15,DEFAULT,,0,0,0,,{\r}{\kf16}But{\kf16} you're{\kf37} aim{\kf25}less
+Dialogue: 0,0:02:39.34,0:02:41.13,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf18} I{\kf30} can't{\kf36} help{\kf36} but{\kf41} see
+Dialogue: 0,0:02:41.37,0:02:42.59,DEFAULT,,0,0,0,,{\r}{\kf32}That{\kf19} you{\kf26} don't{\kf46} know
+Dialogue: 0,0:02:42.88,0:02:44.15,DEFAULT,,0,0,0,,{\r}{\kf17}What{\kf17} you{\kf28} real{\kf28}ly{\kf37} need
+Dialogue: 0,0:02:44.39,0:02:45.38,DEFAULT,,0,0,0,,{\r}{\kf17}"Are{\kf17} we{\kf29} there{\kf36} yet,
+Dialogue: 0,0:02:45.57,0:02:46.89,DEFAULT,,0,0,0,,{\r}{\kf11}A-{\kf17} A-{\kf17} Are{\kf17} we{\kf34} there{\kf36} yet?"
+Dialogue: 0,0:02:47.36,0:02:48.68,DEFAULT,,0,0,0,,{\r}{\kf34}You've{\kf23} done{\kf29} it{\kf46} all
+Dialogue: 0,0:02:48.82,0:02:50.19,DEFAULT,,0,0,0,,{\r}{\kf24}From{\kf30} A{\kf30} to{\kf53} Z
+Dialogue: 0,0:02:50.38,0:02:51.23,DEFAULT,,0,0,0,,{\r}{\kf17}Are{\kf17} you{\kf17} try{\kf34}ing
+Dialogue: 0,0:02:51.37,0:02:53.11,DEFAULT,,0,0,0,,{\r}{\kf12}To{\kf18} find{\kf30} your{\kf36} des{\kf36}ti{\kf43}ny?
+Dialogue: 0,0:02:53.30,0:02:54.67,DEFAULT,,0,0,0,,{\r}{\kf42}Still{\kf24} you{\kf24} don't{\kf47} know
+Dialogue: 0,0:02:54.86,0:02:56.27,DEFAULT,,0,0,0,,{\r}{\kf25}Who{\kf12} you{\kf19} wan{\kf25}na{\kf25} be{\kf36}~?
+Dialogue: 0,0:02:56.41,0:02:57.40,DEFAULT,,0,0,0,,{\r}{\kf19}"Are{\kf19} we{\kf25} there{\kf36} yet?
+Dialogue: 0,0:02:57.55,0:02:58.91,DEFAULT,,0,0,0,,{\r}{\kf17}A-{\kf11} A-{\kf17} Are{\kf17} we{\kf34} there{\kf41} yet?"

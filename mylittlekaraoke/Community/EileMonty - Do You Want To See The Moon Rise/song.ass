@@ -1,58 +1,65 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Do You Wanna See the Moon Rise
+Artist: EileMonty, MEMJ0123
+Original Timing: mylittlekaraoke.com by Lichtschatten
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.53,0:00:03.13,DEFAULT,,0,0,0,,{\kf60}Tia?
-Dialogue: 0,0:00:03.88,0:00:04.74,DEFAULT,,0,0,0,,{\kf87}TIAAAA!
-Dialogue: 0,0:00:06.06,0:00:06.47,DEFAULT,,0,0,0,,{\kf42}Tia?
-Dialogue: 0,0:00:08.42,0:00:11.16,DEFAULT,,0,0,0,,{\kf15}Does{\kf23} thou{\kf12} wan{\kf12}na{\kf15} see{\kf12} the{\kf34} moon{\kf15}rise{\kf94}~
-Dialogue: 0,0:00:11.72,0:00:14.01,DEFAULT,,0,0,0,,{\kf23}Watch{\kf8} the{\kf15} end{\kf12}ing{\kf12} of{\kf15} the{\kf105} day
-Dialogue: 0,0:00:14.72,0:00:16.89,DEFAULT,,0,0,0,,{\kf12}I{\kf19} have{\kf15} been{\kf15} work{\kf23}ing,{\kf12} oh,{\kf15} so{\kf19} ver{\kf12}y{\kf34} hard
-Dialogue: 0,0:00:17.12,0:00:17.94,DEFAULT,,0,0,0,,{\kf12}To{\kf15} move{\kf12} the{\kf27} stars
-Dialogue: 0,0:00:18.06,0:00:20.98,DEFAULT,,0,0,0,,{\kf12}In{\kf12}to{\kf12} a{\kf15} beau{\kf15}ti{\kf27}ful{\kf158} 'ray
-Dialogue: 0,0:00:21.62,0:00:23.49,DEFAULT,,0,0,0,,{\kf23}It's{\kf19} just{\kf12} been{\kf12} kind{\kf12} of{\kf23} lone{\kf34}ly
-Dialogue: 0,0:00:23.87,0:00:25.26,DEFAULT,,0,0,0,,{\kf15}All{\kf15} these{\kf27} things{\kf19} I{\kf38} do
-Dialogue: 0,0:00:25.63,0:00:29.01,DEFAULT,,0,0,0,,{\kf15}And{\kf34} no{\kf19}po{\kf15}ny{\kf34} seems{\kf34} to{\kf150} care
-Dialogue: 0,0:00:29.49,0:00:32.27,DEFAULT,,0,0,0,,{\kf19}Does{\kf15} thou{\kf19} wan{\kf12}na{\kf15} see{\kf12} the{\kf34} moon{\kf12}rise{\kf98}~
-Dialogue: 0,0:00:32.53,0:00:35.49,DEFAULT,,0,0,0,,{\kf19}Oh,{\kf15} we{\kf12} can{\kf19} hang{\kf15} out{\kf15} 'till{\kf12} the{\kf38} sun{\kf113}rise
-Dialogue: 0,0:00:35.94,0:00:36.81,DEFAULT,,0,0,0,,{\kf19}Not{\kf8} to{\kf19}night,{\kf19} Lu{\kf12}na
-Dialogue: 0,0:00:36.99,0:00:40.86,DEFAULT,,0,0,0,,{\kf30}O{\kf45}kay,{\kf285} fine
-Dialogue: 0,0:00:44.42,0:00:46.11,DEFAULT,,0,0,0,,{\kf169}*Sob*
-Dialogue: 0,0:00:46.71,0:00:50.04,DEFAULT,,0,0,0,,{\kf27}Why{\kf19} does{\kf23} e{\kf12}very{\kf30}one{\kf38} sleep{\kf15} through{\kf15} my{\kf27} gor{\kf34}geous{\kf42} night?
-Dialogue: 0,0:00:51.69,0:00:52.14,DEFAULT,,0,0,0,,{\kf45}*sob*
-Dialogue: 0,0:00:54.06,0:00:54.88,DEFAULT,,0,0,0,,{\kf19}Ce{\kf27}les?{\kf15}ti{\kf23}a?
-Dialogue: 0,0:00:56.19,0:00:58.86,DEFAULT,,0,0,0,,{\kf15}Does{\kf19} thou{\kf15} wan{\kf12}na{\kf12} see{\kf12} the{\kf38} moon{\kf15}rise{\kf87}~
-Dialogue: 0,0:00:59.12,0:01:01.78,DEFAULT,,0,0,0,,{\kf12}I{\kf19} wan{\kf12}na{\kf15} show{\kf12} you,{\kf19} come{\kf15} with{\kf132} me
-Dialogue: 0,0:01:02.16,0:01:04.22,DEFAULT,,0,0,0,,{\kf12}O{\kf15}ri{\kf12}on's{\kf19} stars{\kf12} are{\kf12} out{\kf12} and{\kf15} shi{\kf15}ning{\kf30} bright
-Dialogue: 0,0:01:04.41,0:01:07.41,DEFAULT,,0,0,0,,{\kf12}It's{\kf15} such{\kf12} a{\kf27} gor{\kf19}geous{\kf15} night,{\kf12} oh{\kf12} won't{\kf12} you{\kf12} come{\kf12} and{\kf79} see
-Dialogue: 0,0:01:08.57,0:01:10.14,DEFAULT,,0,0,0,,{\kf12}It's{\kf8} just{\kf12} that{\kf15} no{\kf8} one{\kf15} seems{\kf12} to{\kf19} no{\kf23}tice
-Dialogue: 0,0:01:10.78,0:01:12.17,DEFAULT,,0,0,0,,{\kf12}All{\kf12} the{\kf27} things{\kf19} I{\kf38} do
-Dialogue: 0,0:01:12.47,0:01:15.69,DEFAULT,,0,0,0,,{\kf19}I{\kf27} feel{\kf19} like{\kf19} I'm{\kf30} go{\kf34}ing{\kf143} mad
-Dialogue: 0,0:01:19.22,0:01:22.52,DEFAULT,,0,0,0,,{\kf23}Don't{\kf19} feel{\kf34} it,{\kf27} don't{\kf27} fight{\kf8} it{\kf15} a{\kf15}ny{\kf49}more
-Dialogue: 0,0:01:23.46,0:01:26.23,DEFAULT,,0,0,0,,{\kf19}There{\kf12} can{\kf19} only{\kf19} be{\kf27} one{\kf23} princess{\kf19}cess{\kf8} in{\kf15} E{\kf30}ques{\kf15}tri{\kf27}a
-Dialogue: 0,0:01:27.39,0:01:27.88,DEFAULT,,0,0,0,,{\kf49}MUAHAHA
-Dialogue: 0,0:01:28.37,0:01:32.16,DEFAULT,,0,0,0,,{\kf19}And{\kf23} that{\kf30} princess{\kf45}cess{\kf38} shall{\kf27} be{\kf83} me!
-Dialogue: 0,0:01:33.54,0:01:34.78,DEFAULT,,0,0,0,,{\kf15}I'm{\kf23} sor{\kf15}ry,{\kf30} sis{\kf27}ter
-Dialogue: 0,0:01:37.11,0:01:38.16,DEFAULT,,0,0,0,,{\kf15}I{\kf19} must{\kf19} do{\kf30} this
-Dialogue: 0,0:01:39.84,0:01:41.01,DEFAULT,,0,0,0,,{\kf15}You{\kf15} must{\kf12} be{\kf42} stopped!
-Dialogue: 0,0:01:42.47,0:01:44.38,DEFAULT,,0,0,0,,{\kf192}Nooooooooooo~
-Dialogue: 0,0:01:47.34,0:01:48.39,DEFAULT,,0,0,0,,{\kf34}Oh,{\kf23} Lu{\kf42}na
-Dialogue: 0,0:01:49.74,0:01:52.89,DEFAULT,,0,0,0,,{\kf27}Sis{\kf23}ter,{\kf34} please{\kf19} for{\kf34}give{\kf124} me
-Dialogue: 0,0:01:53.76,0:01:55.97,DEFAULT,,0,0,0,,{\kf27}Why{\kf12} did{\kf12} it{\kf12} have{\kf19} to{\kf15} end{\kf30} like{\kf38} this
-Dialogue: 0,0:01:57.58,0:02:00.66,DEFAULT,,0,0,0,,{\kf19}If{\kf19} on{\kf19}ly{\kf19} I{\kf15} had{\kf34} just{\kf19} been{\kf42} there{\kf19} for{\kf42} you
-Dialogue: 0,0:02:00.99,0:02:02.76,DEFAULT,,0,0,0,,{\kf19}Just{\kf27} like{\kf19} I{\kf34} ought{\kf19} have{\kf30} to
-Dialogue: 0,0:02:03.09,0:02:05.64,DEFAULT,,0,0,0,,{\kf23}I{\kf27} was{\kf19} re{\kf154}miss
-Dialogue: 0,0:02:06.02,0:02:08.16,DEFAULT,,0,0,0,,{\kf19}So{\kf23} dis{\kf19}tract{\kf15}ed{\kf15} by{\kf19} my{\kf19} du{\kf42}ties
-Dialogue: 0,0:02:09.06,0:02:10.63,DEFAULT,,0,0,0,,{\kf19}Now{\kf49} I'm{\kf19} al{\kf53}one
-Dialogue: 0,0:02:11.01,0:02:15.62,DEFAULT,,0,0,0,,{\kf19}I{\kf42} just{\kf15} don't{\kf15} know{\kf27} what{\kf30} to{\kf252} do
-Dialogue: 0,0:02:19.14,0:02:22.07,DEFAULT,,0,0,0,,{\kf34}D'you{\kf15} wan{\kf12}na{\kf23} see{\kf15} the{\kf38} moon{\kf23}rise{\kf49}~
-Dialogue: 0,0:02:38.57,0:02:39.21,DEFAULT,,0,0,0,,{\kf19}Lu{\kf45}na
-Dialogue: 0,0:02:41.91,0:02:43.29,DEFAULT,,0,0,0,,{\kf34}I'm{\kf30} sor{\kf64}ry
-Dialogue: 0,0:02:48.24,0:02:49.56,DEFAULT,,0,0,0,,{\kf30}LU{\kf102}NAAAAAAA!
+Dialogue: 0,0:00:02.54,0:00:03.14,DEFAULT,,0,0,0,,{\r}{\kf60}Tia?
+Dialogue: 0,0:00:03.89,0:00:04.75,DEFAULT,,0,0,0,,{\r}{\kf86}TIAAAA!
+Dialogue: 0,0:00:06.06,0:00:06.47,DEFAULT,,0,0,0,,{\r}{\kf41}Tia?
+Dialogue: 0,0:00:08.42,0:00:11.16,DEFAULT,,0,0,0,,{\r}{\kf18}Does{\kf27} thou{\kf13} wan{\kf13}na{\kf18} see{\kf13} the{\kf40} moon{\kf18}rise{\kf114}~
+Dialogue: 0,0:00:11.72,0:00:14.01,DEFAULT,,0,0,0,,{\r}{\kf27}Watch{\kf10} the{\kf18} end{\kf14}ing{\kf14} of{\kf18} the{\kf128} day
+Dialogue: 0,0:00:14.72,0:00:16.90,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf24} have{\kf19} been{\kf19} work{\kf28}ing,{\kf14} oh,{\kf19} so{\kf24} ver{\kf14}y{\kf43} hard
+Dialogue: 0,0:00:17.12,0:00:17.95,DEFAULT,,0,0,0,,{\r}{\kf14}To{\kf19} move{\kf14} the{\kf35} stars
+Dialogue: 0,0:00:18.06,0:00:20.99,DEFAULT,,0,0,0,,{\r}{\kf13}In{\kf13}to{\kf13} a{\kf18} beau{\kf18}ti{\kf31}ful{\kf186} 'ray
+Dialogue: 0,0:00:21.62,0:00:23.50,DEFAULT,,0,0,0,,{\r}{\kf32}It's{\kf27} just{\kf16} been{\kf16} kind{\kf16} of{\kf32} lone{\kf49}ly
+Dialogue: 0,0:00:23.87,0:00:25.26,DEFAULT,,0,0,0,,{\r}{\kf19}All{\kf19} these{\kf32} things{\kf23} I{\kf46} do
+Dialogue: 0,0:00:25.64,0:00:29.01,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf38} no{\kf21}po{\kf17}ny{\kf38} seems{\kf38} to{\kf169} care
+Dialogue: 0,0:00:29.50,0:00:32.27,DEFAULT,,0,0,0,,{\r}{\kf22}Does{\kf18} thou{\kf22} wan{\kf13}na{\kf18} see{\kf13} the{\kf40} moon{\kf13}rise{\kf118}~
+Dialogue: 0,0:00:32.54,0:00:35.50,DEFAULT,,0,0,0,,{\r}{\kf22}Oh,{\kf17} we{\kf13} can{\kf22} hang{\kf17} out{\kf17} 'till{\kf13} the{\kf44} sun{\kf131}rise
+Dialogue: 0,0:00:35.95,0:00:36.81,DEFAULT,,0,0,0,,{\r}{\kf22}Not{\kf10} to{\kf22}night,{\kf22} Lu{\kf10}na
+Dialogue: 0,0:00:37.00,0:00:40.86,DEFAULT,,0,0,0,,{\r}{\kf32}O{\kf48}kay,{\kf306} fine
+Dialogue: 0,0:00:44.42,0:00:46.11,DEFAULT,,0,0,0,,{\r}{\kf169}*Sob*
+Dialogue: 0,0:00:46.71,0:00:50.05,DEFAULT,,0,0,0,,{\r}{\kf32}Why{\kf23} does{\kf27} e{\kf14}very{\kf36}one{\kf45} sleep{\kf18} through{\kf18} my{\kf32} gor{\kf41}geous{\kf48} night?
+Dialogue: 0,0:00:51.70,0:00:52.15,DEFAULT,,0,0,0,,{\r}{\kf45}*sob*
+Dialogue: 0,0:00:54.06,0:00:54.89,DEFAULT,,0,0,0,,{\r}{\kf19}Ce{\kf26}les?{\kf15}ti{\kf23}a?
+Dialogue: 0,0:00:56.20,0:00:58.86,DEFAULT,,0,0,0,,{\r}{\kf18}Does{\kf23} thou{\kf18} wan{\kf14}na{\kf14} see{\kf14} the{\kf45} moon{\kf18}rise{\kf102}~
+Dialogue: 0,0:00:59.12,0:01:01.79,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf21} wan{\kf13}na{\kf17} show{\kf13} you,{\kf21} come{\kf17} with{\kf151} me
+Dialogue: 0,0:01:02.16,0:01:04.22,DEFAULT,,0,0,0,,{\r}{\kf15}O{\kf21}ri{\kf15}on's{\kf26} stars{\kf15} are{\kf15} out{\kf15} and{\kf21} shi{\kf21}ning{\kf42} bright
+Dialogue: 0,0:01:04.41,0:01:07.41,DEFAULT,,0,0,0,,{\r}{\kf15}It's{\kf19} such{\kf15} a{\kf34} gor{\kf24}geous{\kf19} night,{\kf15} oh{\kf15} won't{\kf15} you{\kf15} come{\kf15} and{\kf99} see
+Dialogue: 0,0:01:08.57,0:01:10.15,DEFAULT,,0,0,0,,{\r}{\kf15}It's{\kf10} just{\kf15} that{\kf20} no{\kf10} one{\kf20} seems{\kf15} to{\kf25} no{\kf28}tice
+Dialogue: 0,0:01:10.79,0:01:12.17,DEFAULT,,0,0,0,,{\r}{\kf15}All{\kf15} the{\kf35} things{\kf25} I{\kf49} do
+Dialogue: 0,0:01:12.47,0:01:15.70,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf29} feel{\kf21} like{\kf21} I'm{\kf33} go{\kf38}ing{\kf159} mad
+Dialogue: 0,0:01:19.22,0:01:22.52,DEFAULT,,0,0,0,,{\r}{\kf35}Don't{\kf29} feel{\kf52} it,{\kf41} don't{\kf41} fight{\kf12} it{\kf23} a{\kf23}ny{\kf74}more
+Dialogue: 0,0:01:23.46,0:01:26.24,DEFAULT,,0,0,0,,{\r}{\kf23}There{\kf14} can{\kf23} only{\kf23} be{\kf32} one{\kf27} princess{\kf23}cess{\kf10} in{\kf18} E{\kf36}ques{\kf18}tri{\kf31}a
+Dialogue: 0,0:01:27.40,0:01:27.89,DEFAULT,,0,0,0,,{\r}{\kf49}MUAHAHA
+Dialogue: 0,0:01:28.37,0:01:32.16,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf32} that{\kf43} princess{\kf65}cess{\kf54} shall{\kf38} be{\kf120} me!
+Dialogue: 0,0:01:33.55,0:01:34.79,DEFAULT,,0,0,0,,{\r}{\kf17}I'm{\kf26} sor{\kf17}ry,{\kf34} sis{\kf30}ter
+Dialogue: 0,0:01:37.11,0:01:38.16,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf24} must{\kf24} do{\kf38} this
+Dialogue: 0,0:01:39.85,0:01:41.01,DEFAULT,,0,0,0,,{\r}{\kf21}You{\kf21} must{\kf16} be{\kf58} stopped!
+Dialogue: 0,0:01:42.47,0:01:44.39,DEFAULT,,0,0,0,,{\r}{\kf191}Nooooooooooo~
+Dialogue: 0,0:01:47.35,0:01:48.40,DEFAULT,,0,0,0,,{\r}{\kf36}Oh,{\kf24} Lu{\kf45}na
+Dialogue: 0,0:01:49.75,0:01:52.90,DEFAULT,,0,0,0,,{\r}{\kf32}Sis{\kf27}ter,{\kf41} please{\kf23} for{\kf41}give{\kf151} me
+Dialogue: 0,0:01:53.76,0:01:55.97,DEFAULT,,0,0,0,,{\r}{\kf36}Why{\kf15} did{\kf15} it{\kf15} have{\kf26} to{\kf21} end{\kf41} like{\kf52} this
+Dialogue: 0,0:01:57.59,0:02:00.66,DEFAULT,,0,0,0,,{\r}{\kf24}If{\kf24} on{\kf24}ly{\kf24} I{\kf19} had{\kf43} just{\kf24} been{\kf52} there{\kf24} for{\kf50} you
+Dialogue: 0,0:02:01.00,0:02:02.76,DEFAULT,,0,0,0,,{\r}{\kf23}Just{\kf32} like{\kf23} I{\kf41} ought{\kf23} have{\kf34} to
+Dialogue: 0,0:02:03.10,0:02:05.65,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf30} was{\kf22} re{\kf177}miss
+Dialogue: 0,0:02:06.02,0:02:08.16,DEFAULT,,0,0,0,,{\r}{\kf24}So{\kf29} dis{\kf24}tract{\kf19}ed{\kf19} by{\kf24} my{\kf24} du{\kf51}ties
+Dialogue: 0,0:02:09.06,0:02:10.64,DEFAULT,,0,0,0,,{\r}{\kf21}Now{\kf55} I'm{\kf21} al{\kf60}one
+Dialogue: 0,0:02:11.01,0:02:15.62,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf48} just{\kf17} don't{\kf17} know{\kf30} what{\kf35} to{\kf292} do
+Dialogue: 0,0:02:19.15,0:02:22.07,DEFAULT,,0,0,0,,{\r}{\kf48}D'you{\kf21} wan{\kf16}na{\kf32} see{\kf21} the{\kf53} moon{\kf32}rise{\kf70}~
+Dialogue: 0,0:02:38.57,0:02:39.21,DEFAULT,,0,0,0,,{\r}{\kf19}Lu{\kf45}na
+Dialogue: 0,0:02:41.91,0:02:43.30,DEFAULT,,0,0,0,,{\r}{\kf37}I'm{\kf33} sor{\kf69}ry
+Dialogue: 0,0:02:48.25,0:02:49.56,DEFAULT,,0,0,0,,{\r}{\kf30}LU{\kf101}NAAAAAAA!

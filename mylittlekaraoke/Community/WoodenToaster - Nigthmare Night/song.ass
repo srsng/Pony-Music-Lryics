@@ -1,35 +1,42 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Nightmare Night
+Artist: Glaze
+Original Timing: mylittlekaraoke.com by Steven Knapp, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:43.49,0:00:45.74,DEFAULT,,0,0,0,,{\kf4}Wel{\kf4}come{\kf4} fil{\kf4}lies{\kf8} and{\kf8} gen{\kf8}tle{\kf12}colts{\kf8} no{\kf8} rea{\kf4}son{\kf4} to{\kf20} scream
-Dialogue: 0,0:00:45.78,0:00:48.17,DEFAULT,,0,0,0,,{\kf4}Your{\kf4} fav{\kf4}'rite{\kf4} Prin{\kf4}cess{\kf4} is{\kf16} back{\kf4} she's{\kf8} walk{\kf8}in'{\kf4} up{\kf4} on{\kf4} the{\kf23} scene
-Dialogue: 0,0:00:48.21,0:00:50.57,DEFAULT,,0,0,0,,{\kf4}She{\kf4} has{\kf4} been{\kf4} stuck{\kf4} on{\kf8} the{\kf16} moon{\kf4} but{\kf4} that's{\kf4} no{\kf8} rea{\kf4}son{\kf4} to{\kf16} fret
-Dialogue: 0,0:00:50.72,0:00:52.89,DEFAULT,,0,0,0,,{\kf4}She's{\kf4} not{\kf4} a{\kf8} Night{\kf8}mare{\kf8} no{\kf16} more{\kf4} so{\kf4} buck{\kf8}le{\kf12} down{\kf4} and{\kf8} get{\kf8} set
-Dialogue: 0,0:00:53.12,0:00:55.41,DEFAULT,,0,0,0,,{\kf4}She's{\kf4} com{\kf4}in'{\kf8} grac{\kf8}in'{\kf8} her{\kf4} sub{\kf4}jects{\kf4} she{\kf4} ain't{\kf8} leav{\kf4}in'{\kf8} no{\kf16} choice
-Dialogue: 0,0:00:55.60,0:00:57.84,DEFAULT,,0,0,0,,{\kf4}She's{\kf4} gon{\kf4}na{\kf12} blow{\kf8} you{\kf4} all{\kf12} back{\kf4} with{\kf4} her{\kf4} E{\kf12}ques{\kf4}tri{\kf4}an{\kf23} Voice
-Dialogue: 0,0:00:58.03,0:01:00.24,DEFAULT,,0,0,0,,{\kf4}So{\kf8} cov{\kf4}er{\kf8} all{\kf4} of{\kf8} your{\kf16} fears{\kf4} and{\kf16} stow{\kf4} a{\kf8}way{\kf8} all{\kf12} your{\kf16} fright
-Dialogue: 0,0:01:00.43,0:01:02.72,DEFAULT,,0,0,0,,{\kf4}The{\kf4} Lu{\kf4}nar{\kf8} Prin{\kf4}cess{\kf4} is{\kf12} back{\kf4} to{\kf4} bring{\kf4} the{\kf8} night{\kf4}mares{\kf4} to{\kf20}night
-Dialogue: 0,0:01:03.71,0:01:05.99,DEFAULT,,0,0,0,,{\kf20}She's{\kf20} liv{\kf8}ing{\kf8} in{\kf12} the{\kf23} past{\kf20} so{\kf16} you{\kf12}~{\kf20} won't{\kf20} last
-Dialogue: 0,0:01:06.14,0:01:07.82,DEFAULT,,0,0,0,,{\kf23}With{\kf23}out{\kf27} the{\kf27} prop{\kf23}er{\kf20} care
-Dialogue: 0,0:01:07.93,0:01:10.18,DEFAULT,,0,0,0,,{\kf12}With{\kf12} a{\kf12} roy{\kf16}al{\kf27} fare{\kf23}well{\kf12} and{\kf12} an{\kf20} an{\kf16}i{\kf23}mate{\kf12} spell
-Dialogue: 0,0:01:10.33,0:01:13.07,DEFAULT,,0,0,0,,{\kf31}You{\kf23} won't{\kf23} have{\kf16} long{\kf12} to{\kf20} pre{\kf12}pare{\kf16}~{\kf16}~{\kf54}~
-Dialogue: 0,0:01:52.21,0:01:53.88,DEFAULT,,0,0,0,,{\kf8}Now{\kf8} lit{\kf8}tle{\kf4} fil{\kf4}lies{\kf4} this{\kf4} is{\kf4} Night{\kf12}mare{\kf16} Night
-Dialogue: 0,0:01:54.00,0:01:56.85,DEFAULT,,0,0,0,,{\kf8}Your{\kf8} rul{\kf8}er{\kf8} Night{\kf4}mare{\kf8} Moon{\kf8} is{\kf8} back{\kf4} to{\kf4} come{\kf4} and{\kf8} fill{\kf4} you{\kf4} with{\kf16} fright{\kf4} so{\kf8} hur{\kf8}ry
-Dialogue: 0,0:01:57.04,0:01:58.80,DEFAULT,,0,0,0,,{\kf8}Now{\kf4} get{\kf4} your{\kf4} good{\kf4}ies{\kf4} and{\kf4} fill{\kf4} up{\kf8} all{\kf4} your{\kf20} bags
-Dialogue: 0,0:01:59.02,0:02:01.65,DEFAULT,,0,0,0,,{\kf4}Go{\kf4} and{\kf8} leave{\kf4} a{\kf8} can{\kf12}dy{\kf8} of{\kf4}fer{\kf4}ing{\kf4} for{\kf4} that{\kf4} big{\kf8} ol'{\kf16} hag{\kf4} get{\kf4} runn{\kf4}in'
-Dialogue: 0,0:02:01.96,0:02:03.59,DEFAULT,,0,0,0,,{\kf4}And{\kf4} pray{\kf4} a{\kf8}bove{\kf4} that{\kf4} she's{\kf4} not{\kf4} com{\kf4}in'{\kf12} back
-Dialogue: 0,0:02:03.74,0:02:06.11,DEFAULT,,0,0,0,,{\kf4}To{\kf4} come{\kf4} and{\kf8} take{\kf4} a{\kf4}way{\kf4} your{\kf4} soul{\kf4} and{\kf4} eat{\kf4} you{\kf4} up{\kf4} for{\kf4} a{\kf16} snack
-Dialogue: 0,0:02:06.22,0:02:08.54,DEFAULT,,0,0,0,,{\kf4}So{\kf8} run{\kf8} a{\kf8}way{\kf4} and{\kf8} go{\kf16} hide{\kf4} just{\kf4} keep{\kf4} your{\kf4} head{\kf4} out{\kf8} of{\kf20} sight
-Dialogue: 0,0:02:08.66,0:02:11.17,DEFAULT,,0,0,0,,{\kf4}The{\kf4} dark{\kf4}ness{\kf4} is{\kf4} ris{\kf4}ing{\kf8} a{\kf8}gain{\kf4} cause{\kf4} this{\kf4} is{\kf12} Night{\kf12}mare{\kf23} Night
-Dialogue: 0,0:02:11.93,0:02:14.29,DEFAULT,,0,0,0,,{\kf20}She's{\kf12} liv{\kf16}ing{\kf12} in{\kf16} the{\kf23} past{\kf20} so{\kf20} you{\kf12}~{\kf23} won't{\kf23} last
-Dialogue: 0,0:02:14.40,0:02:16.04,DEFAULT,,0,0,0,,{\kf23}With{\kf20}out{\kf27} the{\kf27} prop{\kf20}er{\kf20} care
-Dialogue: 0,0:02:16.12,0:02:18.44,DEFAULT,,0,0,0,,{\kf12}With{\kf12} a{\kf16} roy{\kf16}al{\kf23} fare{\kf20}well{\kf12} and{\kf16} an{\kf20} an{\kf16}i{\kf16}mate{\kf16} spell
-Dialogue: 0,0:02:18.59,0:02:21.22,DEFAULT,,0,0,0,,{\kf27}You{\kf27} won't{\kf23} have{\kf23} long{\kf8} to{\kf12} pre{\kf16}pare{\kf12}~{\kf16}~{\kf50}~
+Dialogue: 0,0:00:43.50,0:00:45.74,DEFAULT,,0,0,0,,{\r}{\kf10}Wel{\kf10}come{\kf10} fil{\kf10}lies{\kf19} and{\kf19} gen{\kf19}tle{\kf28}colts{\kf19} no{\kf19} rea{\kf10}son{\kf10} to{\kf42} scream
+Dialogue: 0,0:00:45.78,0:00:48.18,DEFAULT,,0,0,0,,{\r}{\kf10}Your{\kf10} fav{\kf10}'rite{\kf10} Prin{\kf10}cess{\kf10} is{\kf40} back{\kf10} she's{\kf20} walk{\kf20}in'{\kf10} up{\kf10} on{\kf10} the{\kf60} scene
+Dialogue: 0,0:00:48.22,0:00:50.58,DEFAULT,,0,0,0,,{\r}{\kf11}She{\kf11} has{\kf11} been{\kf11} stuck{\kf11} on{\kf21} the{\kf43} moon{\kf11} but{\kf11} that's{\kf11} no{\kf21} rea{\kf11}son{\kf11} to{\kf41} fret
+Dialogue: 0,0:00:50.73,0:00:52.90,DEFAULT,,0,0,0,,{\r}{\kf10}She's{\kf10} not{\kf10} a{\kf17} Night{\kf17}mare{\kf17} no{\kf35} more{\kf10} so{\kf10} buck{\kf17}le{\kf26} down{\kf10} and{\kf17} get{\kf11} set
+Dialogue: 0,0:00:53.13,0:00:55.41,DEFAULT,,0,0,0,,{\r}{\kf10}She's{\kf10} com{\kf10}in'{\kf21} grac{\kf21}in'{\kf21} her{\kf10} sub{\kf10}jects{\kf10} she{\kf10} ain't{\kf21} leav{\kf10}in'{\kf21} no{\kf43} choice
+Dialogue: 0,0:00:55.60,0:00:57.85,DEFAULT,,0,0,0,,{\r}{\kf10}She's{\kf10} gon{\kf10}na{\kf26} blow{\kf17} you{\kf10} all{\kf26} back{\kf10} with{\kf10} her{\kf10} E{\kf26}ques{\kf10}tri{\kf10}an{\kf40} Voice
+Dialogue: 0,0:00:58.04,0:01:00.25,DEFAULT,,0,0,0,,{\r}{\kf10}So{\kf15} cov{\kf10}er{\kf15} all{\kf10} of{\kf15} your{\kf29} fears{\kf10} and{\kf29} stow{\kf10} a{\kf15}way{\kf15} all{\kf22} your{\kf16} fright
+Dialogue: 0,0:01:00.44,0:01:02.72,DEFAULT,,0,0,0,,{\r}{\kf10}The{\kf10} Lu{\kf10}nar{\kf21} Prin{\kf10}cess{\kf10} is{\kf31} back{\kf10} to{\kf10} bring{\kf10} the{\kf21} night{\kf10}mares{\kf10} to{\kf55}night
+Dialogue: 0,0:01:03.71,0:01:06.00,DEFAULT,,0,0,0,,{\r}{\kf25}She's{\kf25} liv{\kf10}ing{\kf10} in{\kf15} the{\kf30} past{\kf25} so{\kf20} you{\kf15}~{\kf25} won't{\kf28} last
+Dialogue: 0,0:01:06.15,0:01:07.82,DEFAULT,,0,0,0,,{\r}{\kf27}With{\kf27}out{\kf32} the{\kf32} prop{\kf27}er{\kf23} care
+Dialogue: 0,0:01:07.94,0:01:10.18,DEFAULT,,0,0,0,,{\r}{\kf14}With{\kf14} a{\kf14} roy{\kf18}al{\kf32} fare{\kf27}well{\kf14} and{\kf14} an{\kf22} an{\kf18}i{\kf27}mate{\kf11} spell
+Dialogue: 0,0:01:10.34,0:01:13.08,DEFAULT,,0,0,0,,{\r}{\kf38}You{\kf29} won't{\kf29} have{\kf19} long{\kf14} to{\kf24} pre{\kf14}pare{\kf19}~{\kf19}~{\kf69}~
+Dialogue: 0,0:01:52.21,0:01:53.89,DEFAULT,,0,0,0,,{\r}{\kf19}Now{\kf19} lit{\kf19}tle{\kf10} fil{\kf10}lies{\kf10} this{\kf10} is{\kf10} Night{\kf28}mare{\kf33} Night
+Dialogue: 0,0:01:54.00,0:01:56.86,DEFAULT,,0,0,0,,{\r}{\kf18}Your{\kf18} rul{\kf18}er{\kf18} Night{\kf10}mare{\kf18} Moon{\kf18} is{\kf18} back{\kf10} to{\kf10} come{\kf10} and{\kf18} fill{\kf10} you{\kf10} with{\kf37} fright{\kf10} so{\kf18} hur{\kf17}ry
+Dialogue: 0,0:01:57.05,0:01:58.80,DEFAULT,,0,0,0,,{\r}{\kf21}Now{\kf10} get{\kf10} your{\kf10} good{\kf10}ies{\kf10} and{\kf10} fill{\kf10} up{\kf21} all{\kf10} your{\kf53} bags
+Dialogue: 0,0:01:59.03,0:02:01.66,DEFAULT,,0,0,0,,{\r}{\kf10}Go{\kf10} and{\kf20} leave{\kf10} a{\kf20} can{\kf30}dy{\kf20} of{\kf10}fer{\kf10}ing{\kf10} for{\kf10} that{\kf10} big{\kf20} ol'{\kf40} hag{\kf10} get{\kf10} runn{\kf13}in'
+Dialogue: 0,0:02:01.96,0:02:03.60,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf13} pray{\kf13} a{\kf25}bove{\kf13} that{\kf13} she's{\kf13} not{\kf13} com{\kf13}in'{\kf35} back
+Dialogue: 0,0:02:03.75,0:02:06.11,DEFAULT,,0,0,0,,{\r}{\kf12}To{\kf12} come{\kf12} and{\kf25} take{\kf12} a{\kf12}way{\kf12} your{\kf12} soul{\kf12} and{\kf12} eat{\kf12} you{\kf12} up{\kf12} for{\kf12} a{\kf55} snack
+Dialogue: 0,0:02:06.22,0:02:08.55,DEFAULT,,0,0,0,,{\r}{\kf10}So{\kf18} run{\kf18} a{\kf18}way{\kf10} and{\kf18} go{\kf36} hide{\kf10} just{\kf10} keep{\kf10} your{\kf10} head{\kf10} out{\kf18} of{\kf36} sight
+Dialogue: 0,0:02:08.66,0:02:11.17,DEFAULT,,0,0,0,,{\r}{\kf10}The{\kf10} dark{\kf10}ness{\kf10} is{\kf10} ris{\kf10}ing{\kf20} a{\kf20}gain{\kf10} cause{\kf10} this{\kf10} is{\kf30} Night{\kf30}mare{\kf61} Night
+Dialogue: 0,0:02:11.94,0:02:14.30,DEFAULT,,0,0,0,,{\r}{\kf24}She's{\kf14} liv{\kf19}ing{\kf14} in{\kf19} the{\kf28} past{\kf24} so{\kf24} you{\kf14}~{\kf28} won't{\kf28} last
+Dialogue: 0,0:02:14.41,0:02:16.05,DEFAULT,,0,0,0,,{\r}{\kf28}With{\kf23}out{\kf33} the{\kf33} prop{\kf23}er{\kf24} care
+Dialogue: 0,0:02:16.12,0:02:18.45,DEFAULT,,0,0,0,,{\r}{\kf14}With{\kf14} a{\kf19} roy{\kf19}al{\kf28} fare{\kf24}well{\kf14} and{\kf19} an{\kf24} an{\kf19}i{\kf19}mate{\kf19} spell
+Dialogue: 0,0:02:18.60,0:02:21.22,DEFAULT,,0,0,0,,{\r}{\kf33}You{\kf33} won't{\kf29} have{\kf29} long{\kf10} to{\kf14} pre{\kf19}pare{\kf14}~{\kf19}~{\kf63}~

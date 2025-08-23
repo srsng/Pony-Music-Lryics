@@ -1,45 +1,52 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Chant of Selflessness
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by RustyHeadphones,Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.81,0:00:06.17,DEFAULT,,0,0,0,,{\kf129}Oo{\kf144}-ooh{\kf234} Ah
-Dialogue: 0,0:00:06.87,0:00:12.24,DEFAULT,,0,0,0,,{\kf137}Oo{\kf141}-ooh{\kf230} Ah
-Dialogue: 0,0:00:12.90,0:00:27.18,DEFAULT,,0,0,0,,{\kf137}Ah{\kf288}-ah{\kf141}-ah{\kf292} ah{\kf494} Ah
-Dialogue: 0,0:00:28.15,0:00:30.37,DEFAULT,,0,0,0,,{\kf16}One{\kf12} would{\kf12} be{\kf16}lieve{\kf16} in{\kf39} sim{\kf12}ple{\kf39} means
-Dialogue: 0,0:00:30.64,0:00:32.47,DEFAULT,,0,0,0,,{\kf16}Some{\kf12} would{\kf12} be{\kf24}lieve{\kf16} it{\kf12} pos{\kf12}si{\kf28}ble
-Dialogue: 0,0:00:33.13,0:00:35.19,DEFAULT,,0,0,0,,{\kf24}O{\kf24}thers{\kf16} feel{\kf20} it{\kf24} won't{\kf28} be{\kf16} seen
-Dialogue: 0,0:00:35.35,0:00:37.72,DEFAULT,,0,0,0,,{\kf16}For{\kf20} none{\kf24} be{\kf20}lieve{\kf20} in{\kf39} mi{\kf12}ra{\kf24}cles
-Dialogue: 0,0:00:38.15,0:00:40.36,DEFAULT,,0,0,0,,{\kf16}Some{\kf12} give{\kf12} a{\kf24} dia{\kf16}mond{\kf32} for{\kf12} a{\kf36} stone
-Dialogue: 0,0:00:40.64,0:00:42.66,DEFAULT,,0,0,0,,{\kf16}Some{\kf12} give{\kf12} a{\kf20} stone{\kf12} for{\kf12} a{\kf12} di{\kf12}-ia{\kf47}mond
-Dialogue: 0,0:00:43.13,0:00:45.15,DEFAULT,,0,0,0,,{\kf16}Some{\kf16} keep{\kf12} a{\kf12}-all{\kf20} things{\kf20} for{\kf20} their{\kf16} own
-Dialogue: 0,0:00:45.30,0:00:47.75,DEFAULT,,0,0,0,,{\kf20}And{\kf20} some{\kf20} re{\kf20}main{\kf20} in{\kf39} si{\kf16}-i{\kf24}lence
-Dialogue: 0,0:01:07.82,0:01:10.16,DEFAULT,,0,0,0,,{\kf20}There{\kf16} once{\kf12} lived{\kf12} a{\kf20} girl{\kf12} in{\kf12} a{\kf20} sim{\kf20}pler{\kf20} time
-Dialogue: 0,0:01:10.31,0:01:12.69,DEFAULT,,0,0,0,,{\kf16}With{\kf24} night{\kf20}-like{\kf20} hair{\kf16} and{\kf20} skin{\kf20} so{\kf20} white
-Dialogue: 0,0:01:12.92,0:01:15.14,DEFAULT,,0,0,0,,{\kf16}Wher{\kf20}e{\kf12}ver{\kf16} she{\kf16} went,{\kf16} e{\kf12}very{\kf16}one{\kf20} she'd{\kf16} tell
-Dialogue: 0,0:01:15.29,0:01:17.67,DEFAULT,,0,0,0,,{\kf12}"What{\kf12} ap{\kf20}pears{\kf20} as{\kf20} mine,{\kf16} 'tis{\kf12} thi{\kf8}-ine{\kf16} as{\kf20} well"
-Dialogue: 0,0:01:17.82,0:01:20.12,DEFAULT,,0,0,0,,{\kf12}So{\kf12} she{\kf16} went{\kf12} through{\kf8} the{\kf20} world{\kf12} gi{\kf12}ving{\kf16} all{\kf20} she{\kf16} had
-Dialogue: 0,0:01:20.27,0:01:22.68,DEFAULT,,0,0,0,,{\kf12}Ne{\kf12}ver{\kf24} fee{\kf12}ling{\kf8} the{\kf20} need{\kf20} to{\kf20} claim{\kf20} it{\kf16} back
-Dialogue: 0,0:01:22.84,0:01:25.17,DEFAULT,,0,0,0,,{\kf12}E{\kf12}very{\kf20}one{\kf20} she'd{\kf20} meet{\kf12} would{\kf16} be{\kf20}fall{\kf20} her{\kf16} spell
-Dialogue: 0,0:01:25.33,0:01:27.74,DEFAULT,,0,0,0,,{\kf8}"What{\kf12} ap{\kf24}pears{\kf20} as{\kf20} mine,{\kf20} 'tis{\kf12} thi{\kf12}-ine{\kf16} as{\kf24} well"
-Dialogue: 0,0:01:28.17,0:01:30.27,DEFAULT,,0,0,0,,{\kf16}Coun{\kf12}ting{\kf12} the{\kf20} days{\kf12} of{\kf12} a{\kf24} shorten{\kf16}ing{\kf28} life
-Dialogue: 0,0:01:30.66,0:01:32.72,DEFAULT,,0,0,0,,{\kf16}Li{\kf12}ving{\kf12} the{\kf16} ways{\kf12} of{\kf12} a{\kf20} nur{\kf24}sery{\kf24} rhyme
-Dialogue: 0,0:01:33.15,0:01:35.13,DEFAULT,,0,0,0,,{\kf20}Hum{\kf12}ming{\kf12} the{\kf16} tune{\kf12} of{\kf12} a{\kf24} ring{\kf16}ing{\kf16} bell
-Dialogue: 0,0:01:35.29,0:01:37.77,DEFAULT,,0,0,0,,{\kf12}What{\kf12} ap{\kf20}pears{\kf16} as{\kf20} mine,{\kf16} 'tis{\kf12} thi{\kf8}-ine{\kf20} as{\kf28} well
-Dialogue: 0,0:02:08.15,0:02:10.29,DEFAULT,,0,0,0,,{\kf16}One{\kf12} would{\kf12} be{\kf20}lieve{\kf16} in{\kf32} sim{\kf12}ple{\kf32} means
-Dialogue: 0,0:02:10.64,0:02:12.55,DEFAULT,,0,0,0,,{\kf16}Some{\kf12} would{\kf12} be{\kf16}lieve{\kf16} it{\kf16} pos{\kf12}si{\kf32}ble
-Dialogue: 0,0:02:13.13,0:02:15.15,DEFAULT,,0,0,0,,{\kf24}O{\kf20}thers{\kf20} feel{\kf20} it{\kf20} won't{\kf20} be{\kf16} seen
-Dialogue: 0,0:02:15.31,0:02:17.80,DEFAULT,,0,0,0,,{\kf16}For{\kf20} none{\kf24} be{\kf20}lieve{\kf20} in{\kf28} mi{\kf12}ra{\kf28}cles
-Dialogue: 0,0:02:18.19,0:02:20.25,DEFAULT,,0,0,0,,{\kf12}Some{\kf12} give{\kf12} a{\kf20} dia{\kf16}mond{\kf28} for{\kf12} a{\kf24} stone
-Dialogue: 0,0:02:20.64,0:02:22.39,DEFAULT,,0,0,0,,{\kf20}Some{\kf12} give{\kf12} a{\kf20} stone{\kf12} for{\kf12} a{\kf12} di{\kf12}-ia{\kf20}mond
-Dialogue: 0,0:02:23.13,0:02:25.19,DEFAULT,,0,0,0,,{\kf16}Some{\kf20} keep{\kf8} a{\kf12}-all{\kf16} things{\kf20} for{\kf20} their{\kf16} own
-Dialogue: 0,0:02:25.34,0:02:31.18,DEFAULT,,0,0,0,,{\kf16}And{\kf20} some{\kf24} re{\kf20}main{\kf16} in{\kf246} si{\kf172}lence
-Dialogue: 0,0:02:32.00,0:02:36.82,DEFAULT,,0,0,0,,{\kf152}Oo{\kf106}-ooh{\kf191} Ah
-Dialogue: 0,0:02:37.48,0:02:42.69,DEFAULT,,0,0,0,,{\kf129}Oo{\kf129}-ooh{\kf230} Ah
-Dialogue: 0,0:02:43.08,0:02:54.91,DEFAULT,,0,0,0,,{\kf129}Ah{\kf246}-ah{\kf133}-ah{\kf249}-ah{\kf327} Ah
+Dialogue: 0,0:00:00.81,0:00:06.18,DEFAULT,,0,0,0,,{\r}{\kf136}Oo{\kf153}-ooh{\kf248} Ah
+Dialogue: 0,0:00:06.88,0:00:12.25,DEFAULT,,0,0,0,,{\r}{\kf145}Oo{\kf149}-ooh{\kf243} Ah
+Dialogue: 0,0:00:12.91,0:00:27.18,DEFAULT,,0,0,0,,{\r}{\kf144}Ah{\kf304}-ah{\kf148}-ah{\kf308} ah{\kf523} Ah
+Dialogue: 0,0:00:28.16,0:00:30.37,DEFAULT,,0,0,0,,{\r}{\kf22}One{\kf16} would{\kf16} be{\kf22}lieve{\kf22} in{\kf54} sim{\kf16}ple{\kf54} means
+Dialogue: 0,0:00:30.64,0:00:32.47,DEFAULT,,0,0,0,,{\r}{\kf22}Some{\kf17} would{\kf17} be{\kf33}lieve{\kf22} it{\kf17} pos{\kf17}si{\kf38}ble
+Dialogue: 0,0:00:33.13,0:00:35.20,DEFAULT,,0,0,0,,{\r}{\kf33}O{\kf33}thers{\kf22} feel{\kf27} it{\kf33} won't{\kf38} be{\kf20} seen
+Dialogue: 0,0:00:35.35,0:00:37.72,DEFAULT,,0,0,0,,{\r}{\kf22}For{\kf27} none{\kf32} be{\kf27}lieve{\kf27} in{\kf54} mi{\kf16}ra{\kf32}cles
+Dialogue: 0,0:00:38.15,0:00:40.37,DEFAULT,,0,0,0,,{\r}{\kf22}Some{\kf17} give{\kf17} a{\kf33} dia{\kf22}mond{\kf44} for{\kf17} a{\kf50} stone
+Dialogue: 0,0:00:40.64,0:00:42.66,DEFAULT,,0,0,0,,{\r}{\kf21}Some{\kf16} give{\kf16} a{\kf26} stone{\kf16} for{\kf16} a{\kf16} di{\kf16}-ia{\kf59}mond
+Dialogue: 0,0:00:43.13,0:00:45.15,DEFAULT,,0,0,0,,{\r}{\kf24}Some{\kf24} keep{\kf18} a{\kf18}-all{\kf31} things{\kf31} for{\kf31} their{\kf25} own
+Dialogue: 0,0:00:45.31,0:00:47.76,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf27} some{\kf27} re{\kf27}main{\kf27} in{\kf54} si{\kf22}-i{\kf34}lence
+Dialogue: 0,0:01:07.83,0:01:10.16,DEFAULT,,0,0,0,,{\r}{\kf28}There{\kf23} once{\kf17} lived{\kf17} a{\kf28} girl{\kf17} in{\kf17} a{\kf28} sim{\kf28}pler{\kf30} time
+Dialogue: 0,0:01:10.32,0:01:12.69,DEFAULT,,0,0,0,,{\r}{\kf24}With{\kf36} night{\kf30}-like{\kf30} hair{\kf24} and{\kf30} skin{\kf30} so{\kf33} white
+Dialogue: 0,0:01:12.92,0:01:15.14,DEFAULT,,0,0,0,,{\r}{\kf22}Wher{\kf28}e{\kf17}ver{\kf22} she{\kf22} went,{\kf22} e{\kf17}very{\kf22}one{\kf28} she'd{\kf22} tell
+Dialogue: 0,0:01:15.30,0:01:17.67,DEFAULT,,0,0,0,,{\r}{\kf18}"What{\kf18} ap{\kf30}pears{\kf30} as{\kf30} mine,{\kf24} 'tis{\kf18} thi{\kf12}-ine{\kf24} as{\kf33} well"
+Dialogue: 0,0:01:17.83,0:01:20.12,DEFAULT,,0,0,0,,{\r}{\kf18}So{\kf18} she{\kf23} went{\kf18} through{\kf12} the{\kf29} world{\kf18} gi{\kf18}ving{\kf23} all{\kf29} she{\kf23} had
+Dialogue: 0,0:01:20.28,0:01:22.69,DEFAULT,,0,0,0,,{\r}{\kf18}Ne{\kf18}ver{\kf35} fee{\kf18}ling{\kf12} the{\kf29} need{\kf29} to{\kf29} claim{\kf29} it{\kf24} back
+Dialogue: 0,0:01:22.84,0:01:25.18,DEFAULT,,0,0,0,,{\r}{\kf17}E{\kf17}very{\kf28}one{\kf28} she'd{\kf28} meet{\kf17} would{\kf22} be{\kf28}fall{\kf28} her{\kf20} spell
+Dialogue: 0,0:01:25.33,0:01:27.74,DEFAULT,,0,0,0,,{\r}{\kf11}"What{\kf17} ap{\kf34}pears{\kf29} as{\kf29} mine,{\kf29} 'tis{\kf17} thi{\kf17}-ine{\kf23} as{\kf35} well"
+Dialogue: 0,0:01:28.17,0:01:30.27,DEFAULT,,0,0,0,,{\r}{\kf22}Coun{\kf17}ting{\kf17} the{\kf28} days{\kf17} of{\kf17} a{\kf33} shorten{\kf22}ing{\kf37} life
+Dialogue: 0,0:01:30.66,0:01:32.72,DEFAULT,,0,0,0,,{\r}{\kf22}Li{\kf17}ving{\kf17} the{\kf22} ways{\kf17} of{\kf17} a{\kf28} nur{\kf33}sery{\kf33} rhyme
+Dialogue: 0,0:01:33.15,0:01:35.13,DEFAULT,,0,0,0,,{\r}{\kf28}Hum{\kf17}ming{\kf17} the{\kf23} tune{\kf17} of{\kf17} a{\kf34} ring{\kf23}ing{\kf22} bell
+Dialogue: 0,0:01:35.29,0:01:37.78,DEFAULT,,0,0,0,,{\r}{\kf18}What{\kf18} ap{\kf30}pears{\kf24} as{\kf30} mine,{\kf24} 'tis{\kf18} thi{\kf12}-ine{\kf30} as{\kf45} well
+Dialogue: 0,0:02:08.16,0:02:10.30,DEFAULT,,0,0,0,,{\r}{\kf23}One{\kf17} would{\kf17} be{\kf28}lieve{\kf23} in{\kf45} sim{\kf17}ple{\kf44} means
+Dialogue: 0,0:02:10.65,0:02:12.55,DEFAULT,,0,0,0,,{\r}{\kf23}Some{\kf17} would{\kf17} be{\kf23}lieve{\kf23} it{\kf23} pos{\kf17}si{\kf48}ble
+Dialogue: 0,0:02:13.14,0:02:15.16,DEFAULT,,0,0,0,,{\r}{\kf35}O{\kf29}thers{\kf29} feel{\kf29} it{\kf29} won't{\kf29} be{\kf22} seen
+Dialogue: 0,0:02:15.31,0:02:17.80,DEFAULT,,0,0,0,,{\r}{\kf24}For{\kf30} none{\kf36} be{\kf30}lieve{\kf30} in{\kf42} mi{\kf18}ra{\kf39}cles
+Dialogue: 0,0:02:18.19,0:02:20.25,DEFAULT,,0,0,0,,{\r}{\kf18}Some{\kf18} give{\kf18} a{\kf30} dia{\kf24}mond{\kf42} for{\kf18} a{\kf38} stone
+Dialogue: 0,0:02:20.64,0:02:22.39,DEFAULT,,0,0,0,,{\r}{\kf27}Some{\kf16} give{\kf16} a{\kf27} stone{\kf16} for{\kf16} a{\kf16} di{\kf16}-ia{\kf25}mond
+Dialogue: 0,0:02:23.13,0:02:25.19,DEFAULT,,0,0,0,,{\r}{\kf26}Some{\kf32} keep{\kf13} a{\kf19}-all{\kf26} things{\kf32} for{\kf32} their{\kf26} own
+Dialogue: 0,0:02:25.35,0:02:31.18,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf22} some{\kf27} re{\kf22}main{\kf18} in{\kf280} si{\kf196}lence
+Dialogue: 0,0:02:32.00,0:02:36.82,DEFAULT,,0,0,0,,{\r}{\kf163}Oo{\kf113}-ooh{\kf206} Ah
+Dialogue: 0,0:02:37.49,0:02:42.70,DEFAULT,,0,0,0,,{\r}{\kf138}Oo{\kf138}-ooh{\kf245} Ah
+Dialogue: 0,0:02:43.09,0:02:54.91,DEFAULT,,0,0,0,,{\r}{\kf140}Ah{\kf268}-ah{\kf145}-ah{\kf272}-ah{\kf357} Ah

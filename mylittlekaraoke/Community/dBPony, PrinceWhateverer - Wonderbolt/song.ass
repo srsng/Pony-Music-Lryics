@@ -1,68 +1,75 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Wonderbolt
+Artist: dBPony (feat. PrinceWhateverer)
+Original Timing: mylittlekaraoke.com by ShTHfan1
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:15.80,0:00:20.44,DEFAULT,,0,0,0,,{\kf27}I've{\kf18} wai{\kf23}ted{\kf31} far{\kf23} too{\kf27} long{\kf23} for{\kf27} my{\kf18} one{\kf23}~{\kf14} mo{\kf14}ment{\kf14} to{\kf27} shine{\kf53}~
-Dialogue: 0,0:00:20.79,0:00:26.09,DEFAULT,,0,0,0,,{\kf27}To{\kf27} show{\kf14} them{\kf45} all{\kf14} that{\kf27} I'm{\kf27} not{\kf36} like{\kf18} the{\kf27} o{\kf18}ther{\kf27}~{\kf27} pe{\kf14}ga{\kf27}si{\kf53}~
-Dialogue: 0,0:00:27.15,0:00:31.56,DEFAULT,,0,0,0,,{\kf27}But{\kf18} you{\kf27} are{\kf40} told{\kf27} that{\kf14} you{\kf27} are{\kf45} not{\kf27} what{\kf14} they{\kf27} ex{\kf23}pec{\kf36}ted
-Dialogue: 0,0:00:31.74,0:00:37.21,DEFAULT,,0,0,0,,{\kf14}"If{\kf45} you{\kf14} can{\kf27}not{\kf27} push{\kf27} your{\kf27} li{\kf36}mits,{\kf14} how{\kf27} do{\kf27} you{\kf18}~{\kf31} ex{\kf27}pect{\kf14} to{\kf27} lead{\kf36} them?"
-Dialogue: 0,0:00:37.39,0:00:41.27,DEFAULT,,0,0,0,,{\kf27}In{\kf27} the{\kf62} end,{\kf27} you{\kf27} will{\kf27} fi{\kf27}nally{\kf27} re{\kf14}a{\kf53}lize
-Dialogue: 0,0:00:41.63,0:00:44.28,DEFAULT,,0,0,0,,{\kf14}I{\kf18} can{\kf31} see{\kf31} it{\kf31} in{\kf14} your{\kf31}~{\kf31} eyes{\kf18}~
-Dialogue: 0,0:00:44.45,0:00:47.45,DEFAULT,,0,0,0,,{\kf27}Count{\kf27} your{\kf27} stars{\kf27} and{\kf27} all{\kf14} your{\kf40} dreams{\kf62}~
-Dialogue: 0,0:00:47.81,0:00:49.84,DEFAULT,,0,0,0,,{\kf14}And{\kf14} take{\kf27} off{\kf27} to{\kf27} the{\kf31} skies{\kf27}~
-Dialogue: 0,0:00:50.10,0:00:52.58,DEFAULT,,0,0,0,,{\kf31}Shut{\kf31} out{\kf31} all{\kf27}~{\kf31} of{\kf14} your{\kf53} doubts
-Dialogue: 0,0:00:53.11,0:00:55.49,DEFAULT,,0,0,0,,{\kf27}And{\kf14} for{\kf23}get{\kf18} what{\kf27} you've{\kf27} been{\kf31} told{\kf31}~
-Dialogue: 0,0:00:55.75,0:00:58.58,DEFAULT,,0,0,0,,{\kf27}This{\kf27} is{\kf31} what{\kf27}~{\kf14} it{\kf27}'ll{\kf31} take{\kf53}~
-Dialogue: 0,0:00:58.93,0:01:01.58,DEFAULT,,0,0,0,,{\kf27}To{\kf27} be{\kf14} a{\kf14} W{\kf31}on{\kf14}der{\kf106}bolt
-Dialogue: 0,0:01:01.80,0:01:04.85,DEFAULT,,0,0,0,,{\kf9}So{\kf14} you{\kf14} all{\kf14} think{\kf14} you've{\kf18} got{\kf14} what{\kf9} it{\kf23} takes{\kf9} to{\kf9} be{\kf14} e{\kf18}lite{\kf31} fli{\kf27}ers,{\kf9} huh?
-Dialogue: 0,0:01:05.03,0:01:05.47,DEFAULT,,0,0,0,,{\kf18}Yeah!{\kf18} Well uh...
-Dialogue: 0,0:01:05.64,0:01:07.19,DEFAULT,,0,0,0,,{\kf23}Well{\kf23} I've{\kf18} got{\kf18} news{\kf18} for{\kf27} you
-Dialogue: 0,0:01:07.41,0:01:08.03,DEFAULT,,0,0,0,,{\kf23}You{\kf27} don't!
-Dialogue: 0,0:01:08.47,0:01:11.16,DEFAULT,,0,0,0,,{\kf9}If{\kf9} you{\kf14} had{\kf9} what{\kf9} it{\kf18} took{\kf14} you{\kf18} al{\kf14}rea{\kf9}dy{\kf9} would{\kf14}'ve{\kf18} been{\kf14} a{\kf23} Won{\kf18}der{\kf9}bolt!
-Dialogue: 0,0:01:11.25,0:01:11.87,DEFAULT,,0,0,0,,{\kf23}YES{\kf23} MA'AM!
-Dialogue: 0,0:01:12.35,0:01:16.77,DEFAULT,,0,0,0,,{\kf27}So{\kf14} ma{\kf27}ny{\kf36} times{\kf27} I've{\kf31} tried{\kf14} to{\kf45} show{\kf27} that{\kf27} I'm{\kf14} a{\kf27} lea{\kf36}der
-Dialogue: 0,0:01:16.95,0:01:22.42,DEFAULT,,0,0,0,,{\kf27}Pulled{\kf27} my{\kf14} head{\kf36} out{\kf31} from{\kf14} the{\kf45} clouds{\kf14} to{\kf36} show{\kf18} them{\kf45} all{\kf27} I'm{\kf27} not{\kf14} a{\kf27} dream{\kf36}er
-Dialogue: 0,0:01:23.26,0:01:27.89,DEFAULT,,0,0,0,,{\kf71}Speed{\kf67}ing{\kf49} out{\kf49}~{\kf36} just{\kf14} to{\kf23} be{\kf23} a{\kf27}head{\kf27}~
-Dialogue: 0,0:01:28.16,0:01:31.96,DEFAULT,,0,0,0,,{\kf36}We've{\kf27} been{\kf27} push{\kf27}ing{\kf27} e{\kf27}very{\kf27}one{\kf27} back{\kf27} in{\kf14} the{\kf36} dust
-Dialogue: 0,0:01:32.13,0:01:33.37,DEFAULT,,0,0,0,,{\kf18}We{\kf31} showed{\kf14} them{\kf45} all
-Dialogue: 0,0:01:33.54,0:01:34.96,DEFAULT,,0,0,0,,{\kf27}They've{\kf14} been{\kf36} out{\kf45}done!
-Dialogue: 0,0:01:39.46,0:01:43.39,DEFAULT,,0,0,0,,{\kf27}In{\kf31} the{\kf58} end{\kf27} you{\kf27} will{\kf27} fi{\kf27}nally{\kf27} re{\kf14}a{\kf53}lize
-Dialogue: 0,0:01:43.74,0:01:46.39,DEFAULT,,0,0,0,,{\kf18}I{\kf18} can{\kf27} see{\kf31} it{\kf31} in{\kf14} your{\kf31}~{\kf31} eyes{\kf18}~
-Dialogue: 0,0:01:46.57,0:01:49.53,DEFAULT,,0,0,0,,{\kf27}Count{\kf27} your{\kf27} stars{\kf27} and{\kf27} all{\kf14} your{\kf40} dreams{\kf58}~
-Dialogue: 0,0:01:49.92,0:01:51.95,DEFAULT,,0,0,0,,{\kf14}And{\kf18} take{\kf23} off{\kf27} to{\kf27} the{\kf31} skies{\kf27}~
-Dialogue: 0,0:01:52.22,0:01:54.69,DEFAULT,,0,0,0,,{\kf31}Shut{\kf31} out{\kf31} all{\kf27}~{\kf31} of{\kf14} your{\kf53} doubts
-Dialogue: 0,0:01:55.22,0:01:57.61,DEFAULT,,0,0,0,,{\kf27}And{\kf14} for{\kf23}get{\kf18} what{\kf27} you've{\kf23} been{\kf27} told{\kf36}~
-Dialogue: 0,0:01:57.87,0:02:00.70,DEFAULT,,0,0,0,,{\kf27}This{\kf27} is{\kf31} what{\kf27}~{\kf14} it{\kf27}'ll{\kf31} take{\kf53}~
-Dialogue: 0,0:02:01.05,0:02:03.87,DEFAULT,,0,0,0,,{\kf27}To{\kf27} be{\kf14} a{\kf14} W{\kf31}on{\kf14}der{\kf124}bolt
-Dialogue: 0,0:02:04.05,0:02:06.61,DEFAULT,,0,0,0,,{\kf14}You{\kf14} took{\kf31} too{\kf45} long{\kf14} to{\kf31} see{\kf76} it
-Dialogue: 0,0:02:06.88,0:02:09.26,DEFAULT,,0,0,0,,{\kf14}How{\kf14} could{\kf31} you{\kf27} be{\kf31} so{\kf40} blind{\kf53}~?
-Dialogue: 0,0:02:09.52,0:02:12.00,DEFAULT,,0,0,0,,{\kf14}If{\kf14} you're{\kf18} go{\kf27}ing{\kf18} to{\kf23}~{\kf14} be{\kf45} reck{\kf36}less
-Dialogue: 0,0:02:12.35,0:02:15.35,DEFAULT,,0,0,0,,{\kf14}You{\kf14} can{\kf14} leave{\kf27} your{\kf27} dreams{\kf49} be{\kf120}hind
-Dialogue: 0,0:02:15.53,0:02:17.91,DEFAULT,,0,0,0,,{\kf18}Fol{\kf27}low{\kf31} your{\kf31} am{\kf31}bi{\kf76}tions
-Dialogue: 0,0:02:18.18,0:02:20.56,DEFAULT,,0,0,0,,{\kf14}And{\kf14} do{\kf23} it{\kf18} your{\kf18}~{\kf18} own{\kf14} way{\kf40}~{\kf40}~
-Dialogue: 0,0:02:21.00,0:02:23.56,DEFAULT,,0,0,0,,{\kf14}You'll{\kf14} ne{\kf27}ver{\kf31} see{\kf23} the{\kf14} light{\kf36}~{\kf62}~
-Dialogue: 0,0:02:23.78,0:02:29.44,DEFAULT,,0,0,0,,{\kf9}(If you can't){\kf36} clear{\kf23} it{\kf27} for{\kf27} to{\kf407}day!
-Dialogue: 0,0:02:30.32,0:02:34.20,DEFAULT,,0,0,0,,{\kf27}In{\kf27} the{\kf58} end{\kf27} you{\kf27} will{\kf27} fi{\kf27}nally{\kf27} re{\kf14}a{\kf53}lize
-Dialogue: 0,0:02:34.56,0:02:37.21,DEFAULT,,0,0,0,,{\kf14}I{\kf18} can{\kf31} see{\kf27} it{\kf27} in{\kf14} your{\kf31}~{\kf31} eyes{\kf18}~
-Dialogue: 0,0:02:37.38,0:02:40.38,DEFAULT,,0,0,0,,{\kf27}Count{\kf27} your{\kf27} stars{\kf27} and{\kf27} all{\kf14} your{\kf45} dreams{\kf53}~
-Dialogue: 0,0:02:40.74,0:02:42.77,DEFAULT,,0,0,0,,{\kf14}And{\kf14} take{\kf23} off{\kf27} to{\kf27} the{\kf31} skies{\kf27}~
-Dialogue: 0,0:02:43.03,0:02:45.42,DEFAULT,,0,0,0,,{\kf31}Shut{\kf31} out{\kf31} all{\kf27}~{\kf31} of{\kf14} your{\kf45} doubts
-Dialogue: 0,0:02:46.03,0:02:48.46,DEFAULT,,0,0,0,,{\kf27}And{\kf14} for{\kf18}get{\kf23} what{\kf27} you've{\kf23} been{\kf27} told{\kf31}~
-Dialogue: 0,0:02:48.68,0:02:51.51,DEFAULT,,0,0,0,,{\kf27}This{\kf27} is{\kf31} what{\kf27}~{\kf18} it{\kf23}'ll{\kf31} take{\kf53}~
-Dialogue: 0,0:02:51.86,0:02:54.16,DEFAULT,,0,0,0,,{\kf27}To{\kf27} be{\kf14} a{\kf14} W{\kf31}on{\kf14}der{\kf71}bolt
-Dialogue: 0,0:02:54.33,0:02:56.81,DEFAULT,,0,0,0,,{\kf27}…You{\kf27} will{\kf27} fi{\kf27}nally{\kf27} re{\kf23}a{\kf45}lize
-Dialogue: 0,0:02:57.16,0:02:59.81,DEFAULT,,0,0,0,,{\kf18}I{\kf18} can{\kf31} see{\kf27} it{\kf31} in{\kf49} your{\kf36} eyes{\kf14}~
-Dialogue: 0,0:02:59.99,0:03:02.99,DEFAULT,,0,0,0,,{\kf27}Count{\kf27} your{\kf14} stars{\kf14}~{\kf27} and{\kf27} all{\kf14} your{\kf49} dreams{\kf53}~
-Dialogue: 0,0:03:03.34,0:03:05.46,DEFAULT,,0,0,0,,{\kf14}And{\kf14} take{\kf27} off{\kf27} to{\kf23} the{\kf49} skies{\kf18}~
-Dialogue: 0,0:03:05.64,0:03:08.46,DEFAULT,,0,0,0,,{\kf31}Shut{\kf31} out{\kf31} all{\kf27}~{\kf31} of{\kf14} your{\kf49} doubts{\kf36}~
-Dialogue: 0,0:03:08.64,0:03:10.98,DEFAULT,,0,0,0,,{\kf27}And{\kf14} for{\kf18}get{\kf18} what{\kf27} you've{\kf23} been{\kf58} told
-Dialogue: 0,0:03:11.29,0:03:14.11,DEFAULT,,0,0,0,,{\kf27}This{\kf27} is{\kf31} what{\kf27}~{\kf23} it{\kf18}'ll{\kf31} take{\kf53}~
-Dialogue: 0,0:03:14.47,0:03:18.88,DEFAULT,,0,0,0,,{\kf18}To{\kf36} be{\kf18} a{\kf14} W{\kf31}on{\kf14}der{\kf283}bolt!
-Dialogue: 0,0:03:24.00,0:03:28.59,DEFAULT,,0,0,0,,{\kf31}Won{\kf14}der{\kf31}bolt{\kf31}~,{\kf18} as{\kf23} you{\kf18} soar{\kf14}~{\kf23} right{\kf14} to{\kf23} the{\kf27} sky{\kf14}~{\kf80}~!
+Dialogue: 0,0:00:15.81,0:00:20.44,DEFAULT,,0,0,0,,{\r}{\kf35}I've{\kf23} wai{\kf29}ted{\kf41} far{\kf29} too{\kf35} long{\kf29} for{\kf35} my{\kf23} one{\kf29}~{\kf17} mo{\kf17}ment{\kf17} to{\kf35} shine{\kf70}~
+Dialogue: 0,0:00:20.79,0:00:26.09,DEFAULT,,0,0,0,,{\r}{\kf33}To{\kf33} show{\kf17} them{\kf56} all{\kf17} that{\kf33} I'm{\kf33} not{\kf45} like{\kf22} the{\kf33} o{\kf22}ther{\kf33}~{\kf33} pe{\kf17}ga{\kf33}si{\kf70}~
+Dialogue: 0,0:00:27.15,0:00:31.57,DEFAULT,,0,0,0,,{\r}{\kf34}But{\kf23} you{\kf34} are{\kf51} told{\kf34} that{\kf17} you{\kf34} are{\kf57} not{\kf34} what{\kf17} they{\kf34} ex{\kf28}pec{\kf44}ted
+Dialogue: 0,0:00:31.74,0:00:37.22,DEFAULT,,0,0,0,,{\r}{\kf17}"If{\kf56} you{\kf17} can{\kf34}not{\kf34} push{\kf34} your{\kf34} li{\kf45}mits,{\kf17} how{\kf34} do{\kf34} you{\kf23}~{\kf39} ex{\kf34}pect{\kf17} to{\kf34} lead{\kf44} them?"
+Dialogue: 0,0:00:37.39,0:00:41.28,DEFAULT,,0,0,0,,{\r}{\kf33}In{\kf33} the{\kf77} end,{\kf33} you{\kf33} will{\kf33} fi{\kf33}nally{\kf33} re{\kf16}a{\kf64}lize
+Dialogue: 0,0:00:41.63,0:00:44.28,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf22} can{\kf38} see{\kf38} it{\kf38} in{\kf16} your{\kf38}~{\kf38} eyes{\kf21}~
+Dialogue: 0,0:00:44.46,0:00:47.46,DEFAULT,,0,0,0,,{\r}{\kf32}Count{\kf32} your{\kf32} stars{\kf32} and{\kf32} all{\kf16} your{\kf48} dreams{\kf76}~
+Dialogue: 0,0:00:47.81,0:00:49.84,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf16} take{\kf33} off{\kf33} to{\kf33} the{\kf38} skies{\kf34}~
+Dialogue: 0,0:00:50.11,0:00:52.58,DEFAULT,,0,0,0,,{\r}{\kf35}Shut{\kf35} out{\kf35} all{\kf30}~{\kf35} of{\kf15} your{\kf62} doubts
+Dialogue: 0,0:00:53.11,0:00:55.49,DEFAULT,,0,0,0,,{\r}{\kf32}And{\kf16} for{\kf27}get{\kf22} what{\kf32} you've{\kf32} been{\kf38} told{\kf39}~
+Dialogue: 0,0:00:55.76,0:00:58.58,DEFAULT,,0,0,0,,{\r}{\kf32}This{\kf32} is{\kf37} what{\kf32}~{\kf16} it{\kf32}'ll{\kf37} take{\kf65}~
+Dialogue: 0,0:00:58.94,0:01:01.59,DEFAULT,,0,0,0,,{\r}{\kf31}To{\kf31} be{\kf15} a{\kf15} W{\kf36}on{\kf15}der{\kf122}bolt
+Dialogue: 0,0:01:01.81,0:01:04.85,DEFAULT,,0,0,0,,{\r}{\kf11}So{\kf17} you{\kf17} all{\kf17} think{\kf17} you've{\kf23} got{\kf17} what{\kf11} it{\kf28} takes{\kf11} to{\kf11} be{\kf17} e{\kf23}lite{\kf40} fli{\kf34}ers,{\kf11} huh?
+Dialogue: 0,0:01:05.03,0:01:05.47,DEFAULT,,0,0,0,,{\r}{\kf22}Yeah!{\kf22} Well uh...
+Dialogue: 0,0:01:05.65,0:01:07.19,DEFAULT,,0,0,0,,{\r}{\kf28}Well{\kf28} I've{\kf22} got{\kf22} news{\kf22} for{\kf33} you
+Dialogue: 0,0:01:07.41,0:01:08.03,DEFAULT,,0,0,0,,{\r}{\kf28}You{\kf34} don't!
+Dialogue: 0,0:01:08.47,0:01:11.17,DEFAULT,,0,0,0,,{\r}{\kf11}If{\kf11} you{\kf16} had{\kf11} what{\kf11} it{\kf22} took{\kf16} you{\kf22} al{\kf16}rea{\kf11}dy{\kf11} would{\kf16}'ve{\kf22} been{\kf16} a{\kf27} Won{\kf22}der{\kf10}bolt!
+Dialogue: 0,0:01:11.26,0:01:11.87,DEFAULT,,0,0,0,,{\r}{\kf31}YES{\kf31} MA'AM!
+Dialogue: 0,0:01:12.36,0:01:16.77,DEFAULT,,0,0,0,,{\r}{\kf34}So{\kf17} ma{\kf34}ny{\kf45} times{\kf34} I've{\kf40} tried{\kf17} to{\kf57} show{\kf34} that{\kf34} I'm{\kf17} a{\kf34} lea{\kf44}der
+Dialogue: 0,0:01:16.95,0:01:22.42,DEFAULT,,0,0,0,,{\r}{\kf34}Pulled{\kf34} my{\kf17} head{\kf45} out{\kf39} from{\kf17} the{\kf56} clouds{\kf17} to{\kf45} show{\kf23} them{\kf56} all{\kf34} I'm{\kf34} not{\kf17} a{\kf34} dream{\kf45}er
+Dialogue: 0,0:01:23.26,0:01:27.90,DEFAULT,,0,0,0,,{\r}{\kf86}Speed{\kf81}ing{\kf59} out{\kf59}~{\kf43} just{\kf16} to{\kf27} be{\kf27} a{\kf32}head{\kf34}~
+Dialogue: 0,0:01:28.16,0:01:31.96,DEFAULT,,0,0,0,,{\r}{\kf45}We've{\kf34} been{\kf34} push{\kf34}ing{\kf34} e{\kf34}very{\kf34}one{\kf34} back{\kf34} in{\kf17} the{\kf46} dust
+Dialogue: 0,0:01:32.14,0:01:33.37,DEFAULT,,0,0,0,,{\r}{\kf21}We{\kf36} showed{\kf16} them{\kf51} all
+Dialogue: 0,0:01:33.55,0:01:34.96,DEFAULT,,0,0,0,,{\r}{\kf31}They've{\kf16} been{\kf42} out{\kf52}done!
+Dialogue: 0,0:01:39.47,0:01:43.39,DEFAULT,,0,0,0,,{\r}{\kf33}In{\kf39} the{\kf72} end{\kf33} you{\kf33} will{\kf33} fi{\kf33}nally{\kf33} re{\kf17}a{\kf67}lize
+Dialogue: 0,0:01:43.75,0:01:46.40,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} can{\kf32} see{\kf38} it{\kf38} in{\kf16} your{\kf38}~{\kf38} eyes{\kf21}~
+Dialogue: 0,0:01:46.57,0:01:49.53,DEFAULT,,0,0,0,,{\r}{\kf32}Count{\kf32} your{\kf32} stars{\kf32} and{\kf32} all{\kf16} your{\kf48} dreams{\kf72}~
+Dialogue: 0,0:01:49.93,0:01:51.96,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf22} take{\kf27} off{\kf33} to{\kf33} the{\kf38} skies{\kf34}~
+Dialogue: 0,0:01:52.22,0:01:54.70,DEFAULT,,0,0,0,,{\r}{\kf35}Shut{\kf35} out{\kf35} all{\kf30}~{\kf35} of{\kf15} your{\kf62} doubts
+Dialogue: 0,0:01:55.23,0:01:57.61,DEFAULT,,0,0,0,,{\r}{\kf33}And{\kf17} for{\kf28}get{\kf22} what{\kf33} you've{\kf28} been{\kf33} told{\kf44}~
+Dialogue: 0,0:01:57.88,0:02:00.70,DEFAULT,,0,0,0,,{\r}{\kf32}This{\kf32} is{\kf37} what{\kf32}~{\kf16} it{\kf32}'ll{\kf37} take{\kf65}~
+Dialogue: 0,0:02:01.05,0:02:03.88,DEFAULT,,0,0,0,,{\r}{\kf30}To{\kf30} be{\kf15} a{\kf15} W{\kf35}on{\kf15}der{\kf143}bolt
+Dialogue: 0,0:02:04.06,0:02:06.62,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf15} took{\kf36} too{\kf51} long{\kf15} to{\kf36} see{\kf88} it
+Dialogue: 0,0:02:06.88,0:02:09.27,DEFAULT,,0,0,0,,{\r}{\kf15}How{\kf15} could{\kf35} you{\kf30} be{\kf35} so{\kf46} blind{\kf62}~?
+Dialogue: 0,0:02:09.53,0:02:12.00,DEFAULT,,0,0,0,,{\r}{\kf16}If{\kf16} you're{\kf21} go{\kf32}ing{\kf21} to{\kf27}~{\kf16} be{\kf54} reck{\kf44}less
+Dialogue: 0,0:02:12.36,0:02:15.36,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf15} can{\kf15} leave{\kf31} your{\kf31} dreams{\kf56} be{\kf137}hind
+Dialogue: 0,0:02:15.53,0:02:17.92,DEFAULT,,0,0,0,,{\r}{\kf20}Fol{\kf30}low{\kf35} your{\kf35} am{\kf35}bi{\kf83}tions
+Dialogue: 0,0:02:18.18,0:02:20.57,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf16} do{\kf27} it{\kf22} your{\kf22}~{\kf22} own{\kf16} way{\kf49}~{\kf48}~
+Dialogue: 0,0:02:21.01,0:02:23.57,DEFAULT,,0,0,0,,{\r}{\kf16}You'll{\kf16} ne{\kf31}ver{\kf37} see{\kf26} the{\kf16} light{\kf42}~{\kf72}~
+Dialogue: 0,0:02:23.79,0:02:29.44,DEFAULT,,0,0,0,,{\r}{\kf10}(If you can't){\kf38} clear{\kf24} it{\kf28} for{\kf28} to{\kf437}day!
+Dialogue: 0,0:02:30.32,0:02:34.21,DEFAULT,,0,0,0,,{\r}{\kf33}In{\kf33} the{\kf72} end{\kf33} you{\kf33} will{\kf33} fi{\kf33}nally{\kf33} re{\kf17}a{\kf68}lize
+Dialogue: 0,0:02:34.56,0:02:37.21,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf23} can{\kf39} see{\kf34} it{\kf34} in{\kf17} your{\kf39}~{\kf39} eyes{\kf23}~
+Dialogue: 0,0:02:37.39,0:02:40.39,DEFAULT,,0,0,0,,{\r}{\kf33}Count{\kf33} your{\kf33} stars{\kf33} and{\kf33} all{\kf16} your{\kf55} dreams{\kf64}~
+Dialogue: 0,0:02:40.74,0:02:42.77,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf17} take{\kf28} off{\kf34} to{\kf34} the{\kf39} skies{\kf34}~
+Dialogue: 0,0:02:43.04,0:02:45.42,DEFAULT,,0,0,0,,{\r}{\kf35}Shut{\kf35} out{\kf35} all{\kf30}~{\kf35} of{\kf15} your{\kf53} doubts
+Dialogue: 0,0:02:46.04,0:02:48.47,DEFAULT,,0,0,0,,{\r}{\kf35}And{\kf17} for{\kf23}get{\kf29} what{\kf35} you've{\kf29} been{\kf35} told{\kf40}~
+Dialogue: 0,0:02:48.69,0:02:51.51,DEFAULT,,0,0,0,,{\r}{\kf32}This{\kf32} is{\kf37} what{\kf32}~{\kf21} it{\kf27}'ll{\kf37} take{\kf65}~
+Dialogue: 0,0:02:51.87,0:02:54.16,DEFAULT,,0,0,0,,{\r}{\kf31}To{\kf31} be{\kf16} a{\kf16} W{\kf37}on{\kf16}der{\kf83}bolt
+Dialogue: 0,0:02:54.34,0:02:56.81,DEFAULT,,0,0,0,,{\r}{\kf33}…You{\kf33} will{\kf33} fi{\kf33}nally{\kf33} re{\kf27}a{\kf55}lize
+Dialogue: 0,0:02:57.17,0:02:59.81,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21} can{\kf37} see{\kf32} it{\kf37} in{\kf58} your{\kf42} eyes{\kf17}~
+Dialogue: 0,0:02:59.99,0:03:02.99,DEFAULT,,0,0,0,,{\r}{\kf32}Count{\kf32} your{\kf16} stars{\kf16}~{\kf32} and{\kf32} all{\kf16} your{\kf59} dreams{\kf65}~
+Dialogue: 0,0:03:03.35,0:03:05.46,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf17} take{\kf33} off{\kf33} to{\kf28} the{\kf61} skies{\kf23}~
+Dialogue: 0,0:03:05.64,0:03:08.47,DEFAULT,,0,0,0,,{\r}{\kf35}Shut{\kf35} out{\kf35} all{\kf30}~{\kf35} of{\kf15} your{\kf56} doubts{\kf42}~
+Dialogue: 0,0:03:08.64,0:03:10.98,DEFAULT,,0,0,0,,{\r}{\kf34}And{\kf17} for{\kf23}get{\kf23} what{\kf34} you've{\kf29} been{\kf74} told
+Dialogue: 0,0:03:11.29,0:03:14.12,DEFAULT,,0,0,0,,{\r}{\kf32}This{\kf32} is{\kf37} what{\kf32}~{\kf27} it{\kf21}'ll{\kf37} take{\kf65}~
+Dialogue: 0,0:03:14.47,0:03:18.89,DEFAULT,,0,0,0,,{\r}{\kf19}To{\kf38} be{\kf19} a{\kf14} W{\kf33}on{\kf14}der{\kf304}bolt!
+Dialogue: 0,0:03:24.01,0:03:28.60,DEFAULT,,0,0,0,,{\r}{\kf40}Won{\kf17}der{\kf40}bolt{\kf40}~,{\kf23} as{\kf29} you{\kf23} soar{\kf17}~{\kf29} right{\kf17} to{\kf29} the{\kf34} sky{\kf17}~{\kf104}~!

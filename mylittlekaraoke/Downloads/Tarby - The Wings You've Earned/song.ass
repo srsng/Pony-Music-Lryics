@@ -1,45 +1,52 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: The Wings You've Earned
+Artist: Tarby
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:38.46,0:00:42.34,DEFAULT,,0,0,0,,{\kf3868}So{\kf3873} I{\kf3873} see{\kf3868} you're{\kf3868} still{\kf3873} stuck{\kf3868} on{\kf3863} the{\kf3879} ground{\kf3884}~
-Dialogue: 0,0:00:45.42,0:00:49.52,DEFAULT,,0,0,0,,{\kf3868}Caught{\kf3868} down{\kf3868} there{\kf3873} all{\kf3879} warm{\kf3873} and{\kf3879} safe{\kf3879} and{\kf3868}~{\kf3889} sound
-Dialogue: 0,0:00:52.13,0:00:56.43,DEFAULT,,0,0,0,,{\kf3873}I{\kf3873} know{\kf3868} what{\kf3868} it's{\kf3889} like{\kf3863} to{\kf3894} be{\kf3879} down{\kf3889} there{\kf3889}~
-Dialogue: 0,0:00:58.88,0:01:03.51,DEFAULT,,0,0,0,,{\kf3879}Dream{\kf3879}ing{\kf3879} of{\kf3863} the{\kf3889} sky{\kf3868} and{\kf3953} o{\kf3863}~{\kf3863}pen{\kf3894} air
-Dialogue: 0,0:01:05.74,0:01:09.36,DEFAULT,,0,0,0,,{\kf3873}One{\kf3873} day{\kf3873} soon{\kf3873} I{\kf3873} know{\kf3879} you'll{\kf3873}~{\kf3900} see
-Dialogue: 0,0:01:11.81,0:01:14.63,DEFAULT,,0,0,0,,{\kf3873}Raise{\kf3873} your{\kf3868} head{\kf3868} and{\kf3884} smile{\kf3863} for{\kf3894} me
-Dialogue: 0,0:01:17.71,0:01:21.22,DEFAULT,,0,0,0,,{\kf3879}Laugh{\kf3863} a{\kf3863}bout{\kf3868}~{\kf3879} our{\kf3879} his{\kf3879}to{\kf3873}~{\kf3889}ry
-Dialogue: 0,0:01:23.78,0:01:26.86,DEFAULT,,0,0,0,,{\kf3873}Learn{\kf3873} just{\kf3873} what{\kf3873} you're{\kf3868} meant{\kf3863} to{\kf3916} be
-Dialogue: 0,0:01:57.07,0:02:01.28,DEFAULT,,0,0,0,,{\kf3863}You{\kf3873} sigh{\kf3868} and{\kf3873} al{\kf3868}ways{\kf3868} try{\kf3868} to{\kf3868} play{\kf3863} it{\kf3889} cool{\kf3879}~
-Dialogue: 0,0:02:03.83,0:02:07.87,DEFAULT,,0,0,0,,{\kf3863}But{\kf3873} deep{\kf3873} in{\kf3873}side{\kf3873} you{\kf3873} still{\kf3873} feel{\kf3879} like{\kf3863} a{\kf3900} fool
-Dialogue: 0,0:02:10.80,0:02:15.37,DEFAULT,,0,0,0,,{\kf3863}The{\kf3873} world's{\kf3873} so{\kf3873} big{\kf3863} and{\kf3879} you,{\kf3868} you{\kf3879} feel{\kf3873} so{\kf3873}~{\kf3905} small
-Dialogue: 0,0:02:18.19,0:02:22.39,DEFAULT,,0,0,0,,{\kf3868}Won{\kf3863}der{\kf3873}ing{\kf3868} if{\kf3873} you{\kf3868} should{\kf3953} try{\kf3863} at{\kf3894} all
-Dialogue: 0,0:02:24.20,0:02:28.35,DEFAULT,,0,0,0,,{\kf3863}Well,{\kf3863} to{\kf3873}mor{\kf3879}row's{\kf3873} not{\kf3863} til{\kf3863} to{\kf3863}day{\kf3879} is{\kf3873}~{\kf3905} gone
-Dialogue: 0,0:02:30.64,0:02:34.31,DEFAULT,,0,0,0,,{\kf3873}Live{\kf3863} the{\kf3873} mo{\kf3873}ment,{\kf3889} don't{\kf3879} take{\kf3868}~{\kf3910} long
-Dialogue: 0,0:02:36.70,0:02:40.32,DEFAULT,,0,0,0,,{\kf3879}Smile{\kf3873}~{\kf3873} for{\kf3873} im{\kf3879}pend{\kf3868}ing{\kf3879}~{\kf3910} dawn
-Dialogue: 0,0:02:42.45,0:02:46.33,DEFAULT,,0,0,0,,{\kf3863}For{\kf3868}get{\kf3863} the{\kf3873} trou{\kf3868}bles{\kf3884} you{\kf3873} think{\kf3873}~{\kf3916} on
-Dialogue: 0,0:03:27.18,0:03:30.00,DEFAULT,,0,0,0,,{\kf3863}Is{\kf3868} it{\kf3889} time{\kf3863} to{\kf3879} break{\kf3873} the{\kf3884} mold?
-Dialogue: 0,0:03:30.85,0:03:33.40,DEFAULT,,0,0,0,,{\kf3863}Are{\kf3873} you{\kf3873} do{\kf3863}ing{\kf3868} what{\kf3873} you're{\kf3889} told?
-Dialogue: 0,0:03:34.09,0:03:36.86,DEFAULT,,0,0,0,,{\kf3868}Go{\kf3868} a{\kf3884}head{\kf3863} you{\kf3879} can{\kf3868} be{\kf3863}~{\kf3879} bold
-Dialogue: 0,0:03:37.50,0:03:40.21,DEFAULT,,0,0,0,,{\kf3868}Live{\kf3863} for{\kf3873} liv{\kf3879}ing,{\kf3868} don't{\kf3879} be{\kf3873} cold!
-Dialogue: 0,0:03:40.90,0:03:43.72,DEFAULT,,0,0,0,,{\kf3868}When{\kf3868} your{\kf3889} fi{\kf3868}nal{\kf3873} days{\kf3873} have{\kf3889} come
-Dialogue: 0,0:03:44.36,0:03:47.13,DEFAULT,,0,0,0,,{\kf3873}Smile{\kf3863} at{\kf3863} the{\kf3889} mile's{\kf3884} you{\kf3873} have{\kf3889} run
-Dialogue: 0,0:03:47.76,0:03:50.53,DEFAULT,,0,0,0,,{\kf3863}Come{\kf3873} on,{\kf3884} have{\kf3863} a{\kf3879} lit{\kf3873}tle{\kf3884} fun
-Dialogue: 0,0:03:51.22,0:03:54.36,DEFAULT,,0,0,0,,{\kf3863}Spread{\kf3868} your{\kf3879} wings,{\kf3868} your{\kf3879} time{\kf3884} has{\kf3905} come!
-Dialogue: 0,0:04:07.92,0:04:11.97,DEFAULT,,0,0,0,,{\kf3863}Sit{\kf3863}ting,{\kf3873} hop{\kf3873}ing{\kf3873} for{\kf3863} the{\kf3879} wings{\kf3889} you've{\kf3868}~{\kf3900} earned
-Dialogue: 0,0:04:14.31,0:04:18.67,DEFAULT,,0,0,0,,{\kf3879}Si{\kf3873}lent{\kf3873} as{\kf3868} the{\kf3873} fi{\kf3879}res{\kf3868} in{\kf3879} you{\kf3873}~{\kf3894} burn
-Dialogue: 0,0:04:21.22,0:04:24.63,DEFAULT,,0,0,0,,{\kf3873}Brush{\kf3873} a{\kf3873}way{\kf3873} the{\kf3868} dust{\kf3868} and{\kf3884}~{\kf3889} ash
-Dialogue: 0,0:04:27.23,0:04:30.32,DEFAULT,,0,0,0,,{\kf3868}On{\kf3873} your{\kf3873} shoul{\kf3873}ders{\kf3873} from{\kf3873} the{\kf3900} past
-Dialogue: 0,0:04:33.30,0:04:36.65,DEFAULT,,0,0,0,,{\kf3905}Smile{\kf3868} at{\kf3863} the{\kf3894} things{\kf3884} that{\kf3868}~{\kf3889} last
-Dialogue: 0,0:04:39.20,0:04:42.23,DEFAULT,,0,0,0,,{\kf3873}Feel{\kf3863} the{\kf3879} beat,{\kf3863} your{\kf3873} dice{\kf3873} are{\kf3889} cast
-Dialogue: 0,0:04:45.32,0:04:48.62,DEFAULT,,0,0,0,,{\kf3868}Stroke{\kf3863} of{\kf3868} luck,{\kf3863} or{\kf3873} fate,{\kf3868} re{\kf3873}~{\kf3889}joice
-Dialogue: 0,0:04:51.22,0:04:54.09,DEFAULT,,0,0,0,,{\kf3868}Now{\kf3873} you{\kf3873} fi{\kf3873}nally{\kf3873} have{\kf3863} a{\kf3894} choice
-Dialogue: 0,0:04:56.97,0:05:00.80,DEFAULT,,0,0,0,,{\kf3863}So{\kf3873} prove{\kf3868} them{\kf3873} wrong,{\kf3873} this{\kf3873} much{\kf3894} is{\kf3905} true
-Dialogue: 0,0:05:03.62,0:05:06.86,DEFAULT,,0,0,0,,{\kf3868}Just{\kf3889} wait{\kf3868} a{\kf3863}no{\kf3879}ther{\kf3953} day
+Dialogue: 0,0:00:38.46,0:00:42.34,DEFAULT,,0,0,0,,{\r}{\kf33}So{\kf41} I{\kf41} see{\kf33} you're{\kf33} still{\kf41} stuck{\kf33} on{\kf25} the{\kf50} ground{\kf58}~
+Dialogue: 0,0:00:45.43,0:00:49.52,DEFAULT,,0,0,0,,{\r}{\kf32}Caught{\kf32} down{\kf32} there{\kf39} all{\kf47} warm{\kf39} and{\kf47} safe{\kf47} and{\kf32}~{\kf63} sound
+Dialogue: 0,0:00:52.13,0:00:56.44,DEFAULT,,0,0,0,,{\r}{\kf36}I{\kf36} know{\kf29} what{\kf29} it's{\kf57} like{\kf22} to{\kf65} be{\kf43} down{\kf57} there{\kf57}~
+Dialogue: 0,0:00:58.89,0:01:03.51,DEFAULT,,0,0,0,,{\r}{\kf41}Dream{\kf41}ing{\kf41} of{\kf20} the{\kf54} sky{\kf27} and{\kf136} o{\kf20}~{\kf20}pen{\kf63} air
+Dialogue: 0,0:01:05.75,0:01:09.37,DEFAULT,,0,0,0,,{\r}{\kf39}One{\kf39} day{\kf39} soon{\kf39} I{\kf39} know{\kf47} you'll{\kf39}~{\kf81} see
+Dialogue: 0,0:01:11.81,0:01:14.63,DEFAULT,,0,0,0,,{\r}{\kf38}Raise{\kf38} your{\kf30} head{\kf30} and{\kf53} smile{\kf23} for{\kf70} me
+Dialogue: 0,0:01:17.72,0:01:21.23,DEFAULT,,0,0,0,,{\r}{\kf45}Laugh{\kf22} a{\kf22}bout{\kf30}~{\kf45} our{\kf45} his{\kf45}to{\kf37}~{\kf60}ry
+Dialogue: 0,0:01:23.78,0:01:26.87,DEFAULT,,0,0,0,,{\r}{\kf39}Learn{\kf39} just{\kf39} what{\kf39} you're{\kf31} meant{\kf23} to{\kf99} be
+Dialogue: 0,0:01:57.08,0:02:01.28,DEFAULT,,0,0,0,,{\r}{\kf25}You{\kf42} sigh{\kf34} and{\kf42} al{\kf34}ways{\kf34} try{\kf34} to{\kf34} play{\kf25} it{\kf67} cool{\kf49}~
+Dialogue: 0,0:02:03.83,0:02:07.88,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf39} deep{\kf39} in{\kf39}side{\kf39} you{\kf39} still{\kf39} feel{\kf47} like{\kf23} a{\kf77} fool
+Dialogue: 0,0:02:10.80,0:02:15.38,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf39} world's{\kf39} so{\kf39} big{\kf24} and{\kf47} you,{\kf32} you{\kf47} feel{\kf39} so{\kf39}~{\kf88} small
+Dialogue: 0,0:02:18.20,0:02:22.40,DEFAULT,,0,0,0,,{\r}{\kf29}Won{\kf22}der{\kf37}ing{\kf29} if{\kf37} you{\kf29} should{\kf147} try{\kf22} at{\kf68} all
+Dialogue: 0,0:02:24.21,0:02:28.35,DEFAULT,,0,0,0,,{\r}{\kf23}Well,{\kf23} to{\kf39}mor{\kf47}row's{\kf39} not{\kf23} til{\kf23} to{\kf23}day{\kf47} is{\kf39}~{\kf89} gone
+Dialogue: 0,0:02:30.64,0:02:34.31,DEFAULT,,0,0,0,,{\r}{\kf38}Live{\kf23} the{\kf38} mo{\kf38}ment,{\kf61} don't{\kf46} take{\kf31}~{\kf92} long
+Dialogue: 0,0:02:36.71,0:02:40.32,DEFAULT,,0,0,0,,{\r}{\kf44}Smile{\kf37}~{\kf37} for{\kf37} im{\kf44}pend{\kf30}ing{\kf44}~{\kf89} dawn
+Dialogue: 0,0:02:42.45,0:02:46.33,DEFAULT,,0,0,0,,{\r}{\kf24}For{\kf32}get{\kf24} the{\kf40} trou{\kf32}bles{\kf55} you{\kf40} think{\kf40}~{\kf101} on
+Dialogue: 0,0:03:27.18,0:03:30.00,DEFAULT,,0,0,0,,{\r}{\kf24}Is{\kf31} it{\kf63} time{\kf24} to{\kf47} break{\kf39} the{\kf54} mold?
+Dialogue: 0,0:03:30.85,0:03:33.41,DEFAULT,,0,0,0,,{\r}{\kf23}Are{\kf39} you{\kf39} do{\kf23}ing{\kf31} what{\kf39} you're{\kf61} told?
+Dialogue: 0,0:03:34.10,0:03:36.87,DEFAULT,,0,0,0,,{\r}{\kf30}Go{\kf30} a{\kf52}head{\kf22} you{\kf45} can{\kf30} be{\kf22}~{\kf46} bold
+Dialogue: 0,0:03:37.50,0:03:40.22,DEFAULT,,0,0,0,,{\r}{\kf33}Live{\kf25} for{\kf41} liv{\kf49}ing,{\kf33} don't{\kf49} be{\kf41} cold!
+Dialogue: 0,0:03:40.91,0:03:43.73,DEFAULT,,0,0,0,,{\r}{\kf30}When{\kf30} your{\kf59} fi{\kf30}nal{\kf37} days{\kf37} have{\kf59} come
+Dialogue: 0,0:03:44.37,0:03:47.13,DEFAULT,,0,0,0,,{\r}{\kf36}Smile{\kf21} at{\kf21} the{\kf57} mile's{\kf50} you{\kf36} have{\kf56} run
+Dialogue: 0,0:03:47.77,0:03:50.54,DEFAULT,,0,0,0,,{\r}{\kf23}Come{\kf38} on,{\kf54} have{\kf23} a{\kf46} lit{\kf38}tle{\kf55} fun
+Dialogue: 0,0:03:51.23,0:03:54.37,DEFAULT,,0,0,0,,{\r}{\kf23}Spread{\kf31} your{\kf46} wings,{\kf31} your{\kf46} time{\kf54} has{\kf83} come!
+Dialogue: 0,0:04:07.93,0:04:11.97,DEFAULT,,0,0,0,,{\r}{\kf23}Sit{\kf23}ting,{\kf39} hop{\kf39}ing{\kf39} for{\kf23} the{\kf47} wings{\kf62} you've{\kf31}~{\kf78} earned
+Dialogue: 0,0:04:14.31,0:04:18.67,DEFAULT,,0,0,0,,{\r}{\kf48}Si{\kf40}lent{\kf40} as{\kf32} the{\kf40} fi{\kf48}res{\kf32} in{\kf48} you{\kf40}~{\kf68} burn
+Dialogue: 0,0:04:21.23,0:04:24.63,DEFAULT,,0,0,0,,{\r}{\kf40}Brush{\kf40} a{\kf40}way{\kf40} the{\kf32} dust{\kf32} and{\kf55}~{\kf61} ash
+Dialogue: 0,0:04:27.24,0:04:30.32,DEFAULT,,0,0,0,,{\r}{\kf32}On{\kf40} your{\kf40} shoul{\kf40}ders{\kf40} from{\kf40} the{\kf77} past
+Dialogue: 0,0:04:33.30,0:04:36.65,DEFAULT,,0,0,0,,{\r}{\kf80}Smile{\kf29} at{\kf22} the{\kf66} things{\kf51} that{\kf29}~{\kf58} last
+Dialogue: 0,0:04:39.21,0:04:42.24,DEFAULT,,0,0,0,,{\r}{\kf43}Feel{\kf26} the{\kf52} beat,{\kf26} your{\kf43} dice{\kf43} are{\kf70} cast
+Dialogue: 0,0:04:45.32,0:04:48.62,DEFAULT,,0,0,0,,{\r}{\kf37}Stroke{\kf28} of{\kf37} luck,{\kf28} or{\kf46} fate,{\kf37} re{\kf46}~{\kf71}joice
+Dialogue: 0,0:04:51.23,0:04:54.10,DEFAULT,,0,0,0,,{\r}{\kf32}Now{\kf40} you{\kf40} fi{\kf40}nally{\kf40} have{\kf24} a{\kf71} choice
+Dialogue: 0,0:04:56.97,0:05:00.80,DEFAULT,,0,0,0,,{\r}{\kf24}So{\kf41} prove{\kf33} them{\kf41} wrong,{\kf41} this{\kf41} much{\kf73} is{\kf89} true
+Dialogue: 0,0:05:03.62,0:05:06.87,DEFAULT,,0,0,0,,{\r}{\kf29}Just{\kf58} wait{\kf29} a{\kf22}no{\kf43}ther{\kf143} day

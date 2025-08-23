@@ -1,49 +1,56 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: The Magic Flows Inside of You (Orchestral Cover)
+Artist: Koron Korak ft. Yiruma
+Original Timing: mylittlekaraoke.com by Smilley, Romeo Nightinamare
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:15.35,0:00:19.65,DEFAULT,,0,0,0,,{\kf1556}I'm{\kf1572} here{\kf1556} to{\kf1568} show{\kf1568} you{\kf1568} who{\kf1552} I{\kf1560} ~{\kf1654} am
-Dialogue: 0,0:00:22.65,0:00:27.84,DEFAULT,,0,0,0,,{\kf1552}Throw{\kf1564} off{\kf1552} the{\kf1581} veil,{\kf1548} it's{\kf1548} fi{\kf1552}~{\kf1552}na{\kf1556}lly{\kf1755} time
-Dialogue: 0,0:00:29.94,0:00:35.38,DEFAULT,,0,0,0,,{\kf1556}There's{\kf1564} more{\kf1564} to{\kf1572} me{\kf1568} than{\kf1548} glitz{\kf1552}~{\kf1548} and{\kf1552}~{\kf1625} glam,{\kf1548} oh{\kf1556}-uh{\kf1589}-oh
-Dialogue: 0,0:00:37.28,0:00:42.88,DEFAULT,,0,0,0,,{\kf1552}And{\kf1548} now{\kf1552}~{\kf1564} I{\kf1568} feel{\kf1556} my{\kf1597} stars{\kf1560} a{\kf1613}~{\kf1572}lign{\kf1548}~{\kf1544}~{\kf1613}~
-Dialogue: 0,0:00:43.81,0:00:46.89,DEFAULT,,0,0,0,,{\kf1548}For{\kf1552} I{\kf1564} had{\kf1548} be{\kf1556}lieved{\kf1548} what{\kf1560} I{\kf1552} was{\kf1597} sold
-Dialogue: 0,0:00:47.38,0:00:50.62,DEFAULT,,0,0,0,,{\kf1552}I{\kf1556} did{\kf1560} all{\kf1552} the{\kf1564} things{\kf1556} that{\kf1560} I{\kf1552} was{\kf1556} told{\kf1581}~
-Dialogue: 0,0:00:51.07,0:00:53.99,DEFAULT,,0,0,0,,{\kf1552}But{\kf1548} all{\kf1560} that{\kf1548} has{\kf1560} changed{\kf1548} and{\kf1568} now{\kf1552} I'm{\kf1577} bold
-Dialogue: 0,0:00:54.19,0:00:55.97,DEFAULT,,0,0,0,,{\kf1552}'Cause{\kf1556} I{\kf1662} know
-Dialogue: 0,0:00:56.46,0:00:59.30,DEFAULT,,0,0,0,,{\kf1552}That{\kf1552} I{\kf1560} am{\kf1581} just{\kf1548} a{\kf1568} po{\kf1589}ny
-Dialogue: 0,0:00:59.62,0:01:03.19,DEFAULT,,0,0,0,,{\kf1548}I{\kf1556} make{\kf1548} mis{\kf1568}takes{\kf1560} from{\kf1568} time{\kf1564} to{\kf1658} time
-Dialogue: 0,0:01:03.71,0:01:06.55,DEFAULT,,0,0,0,,{\kf1552}But{\kf1556} now{\kf1568} I{\kf1581} know{\kf1552} the{\kf1556} re{\kf1552}al{\kf1560} me{\kf1564}~
-Dialogue: 0,0:01:06.92,0:01:10.28,DEFAULT,,0,0,0,,{\kf1552}And{\kf1548} put{\kf1552} my{\kf1560} heart{\kf1564} out{\kf1572} on{\kf1556}~{\kf1556} the{\kf1633} line
-Dialogue: 0,0:01:10.53,0:01:13.04,DEFAULT,,0,0,0,,{\kf1548}Just{\kf1552} like{\kf1552} the{\kf1556} ma{\kf1552}gic{\kf1548} in{\kf1564}side{\kf1552} of{\kf1577} you
-Dialogue: 0,0:01:17.70,0:01:20.58,DEFAULT,,0,0,0,,{\kf1552}And{\kf1564} now{\kf1556} I{\kf1564} see{\kf1564} those{\kf1548} co{\kf1548}~{\kf1577}lors
-Dialogue: 0,0:01:20.90,0:01:24.11,DEFAULT,,0,0,0,,{\kf1560}Bright{\kf1548} be{\kf1556}~{\kf1556}fore{\kf1572} my{\kf1548} eyes{\kf1556}~{\kf1650}~
-Dialogue: 0,0:01:24.96,0:01:31.08,DEFAULT,,0,0,0,,{\kf1552}I{\kf1556} hear{\kf1552}~{\kf1564} my{\kf1564} voice{\kf1556} so{\kf1568} clear{\kf1560}ly{\kf1548} and{\kf1552} I{\kf1572} know{\kf1556} that{\kf1568} it{\kf1568} is{\kf1662} right
-Dialogue: 0,0:01:31.57,0:01:34.73,DEFAULT,,0,0,0,,{\kf1552}They{\kf1552} thought{\kf1556} I{\kf1552} was{\kf1560} weak,{\kf1552} but{\kf1560} I{\kf1552} am{\kf1593} strong
-Dialogue: 0,0:01:35.21,0:01:38.42,DEFAULT,,0,0,0,,{\kf1548}They{\kf1556} sold{\kf1564} me{\kf1552} the{\kf1572} world,{\kf1548} but{\kf1564} they{\kf1552} were{\kf1552} wro{\kf1585}ng
-Dialogue: 0,0:01:38.78,0:01:41.82,DEFAULT,,0,0,0,,{\kf1552}And{\kf1556} now{\kf1560} that{\kf1552} I'm{\kf1560} back{\kf1556} I{\kf1560} still{\kf1548} be{\kf1581}long
-Dialogue: 0,0:01:42.07,0:01:43.81,DEFAULT,,0,0,0,,{\kf1548}'Cause{\kf1552} I{\kf1670} know
-Dialogue: 0,0:01:44.26,0:01:47.01,DEFAULT,,0,0,0,,{\kf1552}That{\kf1548} I{\kf1564} am{\kf1581} just{\kf1548} a{\kf1564} po{\kf1585}ny
-Dialogue: 0,0:01:47.42,0:01:51.03,DEFAULT,,0,0,0,,{\kf1552}I{\kf1552} make{\kf1552} mis{\kf1564}takes{\kf1552} from{\kf1572} time{\kf1564} to{\kf1658} time
-Dialogue: 0,0:01:51.63,0:01:54.35,DEFAULT,,0,0,0,,{\kf1552}But{\kf1552} now{\kf1560} I{\kf1585} know{\kf1548} the{\kf1560} re{\kf1552}al{\kf1552} me{\kf1560}~
-Dialogue: 0,0:01:54.80,0:01:57.92,DEFAULT,,0,0,0,,{\kf1552}And{\kf1552} put{\kf1552} my{\kf1556} heart{\kf1560} out{\kf1552} on{\kf1556}~{\kf1552}~{\kf1552} the{\kf1617} line
-Dialogue: 0,0:01:58.40,0:02:02.01,DEFAULT,,0,0,0,,{\kf1552}And{\kf1552} let{\kf1552} the{\kf1552} ma{\kf1552}gic{\kf1548} in{\kf1552} my{\kf1544} heart{\kf1544}~{\kf1548}~{\kf1564} stay{\kf1572} true{\kf1568}~{\kf1556}~
-Dialogue: 0,0:02:02.26,0:02:04.85,DEFAULT,,0,0,0,,{\kf1548}Oh{\kf1560}-oh{\kf1552} wo{\kf1577}ah{\kf1552} uh{\kf1552}-oh{\kf1552}-oh{\kf1605} woah
-Dialogue: 0,0:02:05.66,0:02:09.35,DEFAULT,,0,0,0,,{\kf1544}And{\kf1548} let{\kf1548} the{\kf1552} ma{\kf1552}gic{\kf1552} in{\kf1548} my{\kf1544} heart{\kf1544}~{\kf1548}~{\kf1568} stay{\kf1577} true{\kf1568}~{\kf1564}~
-Dialogue: 0,0:02:09.59,0:02:12.15,DEFAULT,,0,0,0,,{\kf1548}Oh{\kf1560}-oh{\kf1585} woah{\kf1556} uh{\kf1548}-oh{\kf1556}-oh{\kf1617} woah
-Dialogue: 0,0:02:12.51,0:02:16.00,DEFAULT,,0,0,0,,{\kf1548}Just{\kf1552} like{\kf1552} the{\kf1556} ma{\kf1548}gic{\kf1552} in{\kf1548}si{\kf1556}~{\kf1552}de{\kf1568} of{\kf1621} you
-Dialogue: 0,0:02:18.31,0:02:21.92,DEFAULT,,0,0,0,,{\kf1552}I{\kf1552} make{\kf1552} mis{\kf1572}takes{\kf1552} from{\kf1568} time{\kf1568} to{\kf1666} time
-Dialogue: 0,0:02:22.57,0:02:25.28,DEFAULT,,0,0,0,,{\kf1552}But{\kf1552} now{\kf1564} I{\kf1589} know{\kf1552} the{\kf1556} re{\kf1552}al{\kf1556} me{\kf1560}~
-Dialogue: 0,0:02:25.69,0:02:28.97,DEFAULT,,0,0,0,,{\kf1552}And{\kf1552} put{\kf1552} my{\kf1560} heart{\kf1556} out{\kf1556} on{\kf1552}~{\kf1548}~{\kf1552} the{\kf1625} line
-Dialogue: 0,0:02:29.38,0:02:33.19,DEFAULT,,0,0,0,,{\kf1552}And{\kf1552} let{\kf1552} the{\kf1552} ma{\kf1552}gic{\kf1548} in{\kf1552} my{\kf1548} heart{\kf1544}~{\kf1548}~{\kf1572} stay{\kf1577} true{\kf1572}~{\kf1564}~
-Dialogue: 0,0:02:33.43,0:02:36.11,DEFAULT,,0,0,0,,{\kf1548}Oh{\kf1560}-oh{\kf1552} wo{\kf1581}ah{\kf1556} uh{\kf1552}-oh{\kf1548}-oh{\kf1609} woah
-Dialogue: 0,0:02:37.28,0:02:41.34,DEFAULT,,0,0,0,,{\kf1548}And{\kf1552} let{\kf1548} the{\kf1552} ma{\kf1552}gic{\kf1552} in{\kf1556} my{\kf1544} heart{\kf1548}~{\kf1548}~{\kf1564} stay{\kf1581} true{\kf1572}~{\kf1572}~
-Dialogue: 0,0:02:41.58,0:02:44.66,DEFAULT,,0,0,0,,{\kf1548}Oh{\kf1560}-oh{\kf1585} woah{\kf1560} uh{\kf1548}-oh{\kf1556}-oh{\kf1641} woah
-Dialogue: 0,0:02:45.31,0:02:53.46,DEFAULT,,0,0,0,,{\kf1552}Just{\kf1552} like{\kf1552} the{\kf1560} ma{\kf1548}gic{\kf1552} in{\kf1548}si{\kf1556}~{\kf1560}de{\kf1572} of{\kf1662} you{\kf1560}~{\kf1893}~
-Dialogue: 0,0:02:53.99,0:03:02.21,DEFAULT,,0,0,0,,{\kf1552}Just{\kf1552} like{\kf1552} the{\kf1560} ma{\kf1552}gic{\kf1552} in{\kf1552}si{\kf1568}~{\kf1564}de{\kf1589} of{\kf1998} you
+Dialogue: 0,0:00:15.36,0:00:19.65,DEFAULT,,0,0,0,,{\r}{\kf26}I'm{\kf47} here{\kf26} to{\kf42} show{\kf42} you{\kf42} who{\kf21} I{\kf31} ~{\kf153} am
+Dialogue: 0,0:00:22.65,0:00:27.84,DEFAULT,,0,0,0,,{\r}{\kf21}Throw{\kf37} off{\kf21} the{\kf58} veil,{\kf16} it's{\kf16} fi{\kf21}~{\kf21}na{\kf26}lly{\kf282} time
+Dialogue: 0,0:00:29.95,0:00:35.38,DEFAULT,,0,0,0,,{\r}{\kf29}There's{\kf41} more{\kf41} to{\kf53} me{\kf47} than{\kf18} glitz{\kf23}~{\kf18} and{\kf23}~{\kf128} glam,{\kf18} oh{\kf29}-uh{\kf75}-oh
+Dialogue: 0,0:00:37.29,0:00:42.88,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf16} now{\kf22}~{\kf38} I{\kf43} feel{\kf27} my{\kf81} stars{\kf32} a{\kf102}~{\kf48}lign{\kf16}~{\kf11}~{\kf101}~
+Dialogue: 0,0:00:43.81,0:00:46.90,DEFAULT,,0,0,0,,{\r}{\kf18}For{\kf25} I{\kf43} had{\kf18} be{\kf31}lieved{\kf18} what{\kf37} I{\kf25} was{\kf93} sold
+Dialogue: 0,0:00:47.38,0:00:50.63,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf28} did{\kf34} all{\kf23} the{\kf40} things{\kf28} that{\kf34} I{\kf23} was{\kf28} told{\kf63}~
+Dialogue: 0,0:00:51.07,0:00:53.99,DEFAULT,,0,0,0,,{\r}{\kf25}But{\kf19} all{\kf37} that{\kf19} has{\kf37} changed{\kf19} and{\kf50} now{\kf25} I'm{\kf61} bold
+Dialogue: 0,0:00:54.19,0:00:55.98,DEFAULT,,0,0,0,,{\r}{\kf18}'Cause{\kf22} I{\kf138} know
+Dialogue: 0,0:00:56.46,0:00:59.30,DEFAULT,,0,0,0,,{\r}{\kf23}That{\kf23} I{\kf35} am{\kf64} just{\kf17} a{\kf46} po{\kf76}ny
+Dialogue: 0,0:00:59.63,0:01:03.19,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf26} make{\kf15} mis{\kf41}takes{\kf31} from{\kf41} time{\kf36} to{\kf152} time
+Dialogue: 0,0:01:03.72,0:01:06.56,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf26} now{\kf42} I{\kf58} know{\kf21} the{\kf26} re{\kf21}al{\kf32} me{\kf37}~
+Dialogue: 0,0:01:06.92,0:01:10.29,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf15} put{\kf20} my{\kf30} heart{\kf35} out{\kf45} on{\kf25}~{\kf25} the{\kf121} line
+Dialogue: 0,0:01:10.53,0:01:13.04,DEFAULT,,0,0,0,,{\r}{\kf17}Just{\kf23} like{\kf23} the{\kf29} ma{\kf23}gic{\kf17} in{\kf40}side{\kf23} of{\kf56} you
+Dialogue: 0,0:01:17.71,0:01:20.58,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf44} now{\kf31} I{\kf44} see{\kf44} those{\kf19} co{\kf19}~{\kf62}lors
+Dialogue: 0,0:01:20.91,0:01:24.11,DEFAULT,,0,0,0,,{\r}{\kf30}Bright{\kf15} be{\kf25}~{\kf25}fore{\kf45} my{\kf15} eyes{\kf25}~{\kf140}~
+Dialogue: 0,0:01:24.96,0:01:31.08,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf27} hear{\kf21}~{\kf38} my{\kf38} voice{\kf27} so{\kf43} clear{\kf32}ly{\kf16} and{\kf21} I{\kf48} know{\kf27} that{\kf43} it{\kf43} is{\kf167} right
+Dialogue: 0,0:01:31.57,0:01:34.73,DEFAULT,,0,0,0,,{\r}{\kf25}They{\kf25} thought{\kf31} I{\kf25} was{\kf37} weak,{\kf25} but{\kf37} I{\kf25} am{\kf86} strong
+Dialogue: 0,0:01:35.22,0:01:38.42,DEFAULT,,0,0,0,,{\r}{\kf17}They{\kf28} sold{\kf39} me{\kf22} the{\kf50} world,{\kf17} but{\kf39} they{\kf22} were{\kf22} wro{\kf64}ng
+Dialogue: 0,0:01:38.79,0:01:41.83,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf30} now{\kf36} that{\kf24} I'm{\kf36} back{\kf30} I{\kf36} still{\kf18} be{\kf70}long
+Dialogue: 0,0:01:42.07,0:01:43.81,DEFAULT,,0,0,0,,{\r}{\kf13}'Cause{\kf17} I{\kf144} know
+Dialogue: 0,0:01:44.26,0:01:47.02,DEFAULT,,0,0,0,,{\r}{\kf23}That{\kf18} I{\kf41} am{\kf65} just{\kf18} a{\kf41} po{\kf70}ny
+Dialogue: 0,0:01:47.42,0:01:51.03,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21} make{\kf21} mis{\kf37}takes{\kf21} from{\kf47} time{\kf37} to{\kf156} time
+Dialogue: 0,0:01:51.64,0:01:54.36,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} now{\kf33} I{\kf67} know{\kf17} the{\kf33} re{\kf22}al{\kf22} me{\kf34}~
+Dialogue: 0,0:01:54.80,0:01:57.92,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} put{\kf21} my{\kf26} heart{\kf31} out{\kf21} on{\kf26}~{\kf21}~{\kf21} the{\kf103} line
+Dialogue: 0,0:01:58.41,0:02:02.02,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf23} let{\kf23} the{\kf23} ma{\kf23}gic{\kf17} in{\kf23} my{\kf11} heart{\kf11}~{\kf17}~{\kf40} stay{\kf52} true{\kf46}~{\kf29}~
+Dialogue: 0,0:02:02.26,0:02:04.86,DEFAULT,,0,0,0,,{\r}{\kf15}Oh{\kf30}-oh{\kf20} wo{\kf50}ah{\kf20} uh{\kf20}-oh{\kf20}-oh{\kf84} woah
+Dialogue: 0,0:02:05.67,0:02:09.35,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf18} let{\kf18} the{\kf23} ma{\kf23}gic{\kf23} in{\kf18} my{\kf12} heart{\kf12}~{\kf18}~{\kf47} stay{\kf59} true{\kf47}~{\kf39}~
+Dialogue: 0,0:02:09.60,0:02:12.15,DEFAULT,,0,0,0,,{\r}{\kf14}Oh{\kf28}-oh{\kf57} woah{\kf24} uh{\kf14}-oh{\kf24}-oh{\kf94} woah
+Dialogue: 0,0:02:12.52,0:02:16.00,DEFAULT,,0,0,0,,{\r}{\kf16}Just{\kf22} like{\kf22} the{\kf27} ma{\kf16}gic{\kf22} in{\kf16}si{\kf27}~{\kf22}de{\kf44} of{\kf115} you
+Dialogue: 0,0:02:18.31,0:02:21.92,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf20} make{\kf20} mis{\kf45}takes{\kf20} from{\kf40} time{\kf40} to{\kf156} time
+Dialogue: 0,0:02:22.57,0:02:25.29,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf21} now{\kf37} I{\kf68} know{\kf21} the{\kf26} re{\kf21}al{\kf26} me{\kf31}~
+Dialogue: 0,0:02:25.69,0:02:28.98,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} put{\kf22} my{\kf32} heart{\kf27} out{\kf27} on{\kf22}~{\kf16}~{\kf22} the{\kf116} line
+Dialogue: 0,0:02:29.38,0:02:33.19,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} let{\kf22} the{\kf22} ma{\kf22}gic{\kf16} in{\kf22} my{\kf16} heart{\kf11}~{\kf16}~{\kf49} stay{\kf54} true{\kf49}~{\kf38}~
+Dialogue: 0,0:02:33.44,0:02:36.11,DEFAULT,,0,0,0,,{\r}{\kf15}Oh{\kf30}-oh{\kf20} wo{\kf55}ah{\kf25} uh{\kf20}-oh{\kf15}-oh{\kf88} woah
+Dialogue: 0,0:02:37.29,0:02:41.34,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf23} let{\kf17} the{\kf23} ma{\kf23}gic{\kf23} in{\kf29} my{\kf11} heart{\kf17}~{\kf17}~{\kf40} stay{\kf63} true{\kf51}~{\kf51}~
+Dialogue: 0,0:02:41.58,0:02:44.67,DEFAULT,,0,0,0,,{\r}{\kf15}Oh{\kf30}-oh{\kf61} woah{\kf30} uh{\kf15}-oh{\kf25}-oh{\kf132} woah
+Dialogue: 0,0:02:45.31,0:02:53.46,DEFAULT,,0,0,0,,{\r}{\kf19}Just{\kf19} like{\kf19} the{\kf28} ma{\kf14}gic{\kf19} in{\kf14}si{\kf24}~{\kf28}de{\kf42} of{\kf146} you{\kf28}~{\kf415}~
+Dialogue: 0,0:02:53.99,0:03:02.22,DEFAULT,,0,0,0,,{\r}{\kf19}Just{\kf19} like{\kf19} the{\kf29} ma{\kf19}gic{\kf19} in{\kf19}si{\kf38}~{\kf33}de{\kf62} of{\kf547} you

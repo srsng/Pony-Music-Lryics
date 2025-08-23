@@ -1,35 +1,42 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Chant Of Benevolence
+Artist: 4EverfreeBrony, Chi-Chi
+Original Timing: mylittlekaraoke.com by SqueakyBelle
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.20,0:00:07.85,DEFAULT,,0,0,0,,{\kf26}Sep{\kf26}tem{\kf34}ber{\kf80} Blue,{\kf26} thy{\kf26} sor{\kf26}rows{\kf92} be{\kf21} for{\kf30}got{\kf255}ten
-Dialogue: 0,0:00:08.77,0:00:15.87,DEFAULT,,0,0,0,,{\kf26}Oc{\kf26}to{\kf30}ber{\kf92} Au{\kf26}burn,{\kf30} let{\kf30} this{\kf59} sea{\kf46}son{\kf251} pass
-Dialogue: 0,0:00:16.88,0:00:25.07,DEFAULT,,0,0,0,,{\kf63}No{\kf92}vem{\kf21}~{\kf30}ber{\kf26}~{\kf92} Gray,{\kf30} re{\kf26}~{\kf92}store{\kf21} with{\kf30} thy{\kf30}~{\kf105} rain
-Dialogue: 0,0:00:25.74,0:00:33.10,DEFAULT,,0,0,0,,{\kf30}De{\kf26}cem{\kf34}ber{\kf84} White,{\kf26} thy{\kf26} beau{\kf34}ty{\kf88} e{\kf26}ver{\kf276} last
-Dialogue: 0,0:00:51.45,0:00:58.43,DEFAULT,,0,0,0,,{\kf113}Light{\kf59} of{\kf109} vir{\kf59}tue{\kf281} shown
-Dialogue: 0,0:00:59.89,0:01:06.58,DEFAULT,,0,0,0,,{\kf138}Sign{\kf51} of{\kf105} one's{\kf59} true{\kf247} form
-Dialogue: 0,0:01:07.71,0:01:16.07,DEFAULT,,0,0,0,,{\kf59}To{\kf118} grow{\kf30} on{\kf26}ly{\kf76} small,{\kf30} gi{\kf26}ving{\kf30} gui{\kf26}~{\kf38}dance{\kf55} for{\kf134} all
-Dialogue: 0,0:01:16.78,0:01:23.21,DEFAULT,,0,0,0,,{\kf126}Seen{\kf59} while{\kf17} hard{\kf109}~{\kf30}ly{\kf30}~{\kf214} known
-Dialogue: 0,0:01:24.97,0:01:32.62,DEFAULT,,0,0,0,,{\kf26}Sep{\kf30}tem{\kf34}ber{\kf84} Blue,{\kf26} thy{\kf26} sor{\kf26}rows{\kf101} be{\kf26} for{\kf26}got{\kf260}ten
-Dialogue: 0,0:01:33.58,0:01:40.81,DEFAULT,,0,0,0,,{\kf21}Oc{\kf26}to{\kf34}ber{\kf97} Au{\kf26}burn,{\kf21} let{\kf26} this{\kf59} sea{\kf46}son{\kf268} pass
-Dialogue: 0,0:01:41.69,0:01:49.84,DEFAULT,,0,0,0,,{\kf59}No{\kf101}vem{\kf30}~{\kf26}ber{\kf26}~{\kf88} Gray,{\kf34} re{\kf30}~{\kf92}store{\kf26} with{\kf30} thy{\kf26}~{\kf109} rain
-Dialogue: 0,0:01:50.47,0:01:57.91,DEFAULT,,0,0,0,,{\kf21}De{\kf30}cem{\kf30}ber{\kf88} White,{\kf21} thy{\kf26} beau{\kf30}ty{\kf101} e{\kf26}ver{\kf285} last
-Dialogue: 0,0:02:03.55,0:02:09.95,DEFAULT,,0,0,0,,{\kf130}Bright{\kf46} in{\kf130}vi{\kf51}ting{\kf218} morn
-Dialogue: 0,0:02:12.08,0:02:19.06,DEFAULT,,0,0,0,,{\kf113}Bril{\kf59}liant{\kf101} rays{\kf55} re{\kf276}born
-Dialogue: 0,0:02:19.69,0:02:28.17,DEFAULT,,0,0,0,,{\kf63}So,{\kf126} fol{\kf30}low{\kf26} a{\kf84}long,{\kf26} as{\kf30} the{\kf63} sha{\kf55}dows{\kf59} have{\kf138} gone
-Dialogue: 0,0:02:29.01,0:02:35.15,DEFAULT,,0,0,0,,{\kf126}Walk{\kf51} where{\kf122} time{\kf51} has{\kf197} torn
-Dialogue: 0,0:02:37.12,0:02:44.68,DEFAULT,,0,0,0,,{\kf30}Sep{\kf30}tem{\kf30}ber{\kf84} Blue,{\kf26} thy{\kf26} sor{\kf26}rows{\kf92} be{\kf30} for{\kf26}got{\kf251}ten
-Dialogue: 0,0:02:45.64,0:02:52.96,DEFAULT,,0,0,0,,{\kf26}Oc{\kf30}to{\kf30}ber{\kf92} Au{\kf26}burn,{\kf26} let{\kf21} this{\kf59} sea{\kf55}son{\kf268} pass
-Dialogue: 0,0:02:53.84,0:03:02.03,DEFAULT,,0,0,0,,{\kf55}No{\kf97}vem{\kf26}~{\kf26}ber{\kf26}~{\kf92} Gray,{\kf34} re{\kf26}~{\kf97}store{\kf26} with{\kf26} thy{\kf30}~{\kf113} rain
-Dialogue: 0,0:03:02.66,0:03:10.10,DEFAULT,,0,0,0,,{\kf26}De{\kf26}cem{\kf30}ber{\kf84} White,{\kf26} thy{\kf30} beau{\kf26}ty{\kf92} e{\kf30}ver{\kf285} last
-Dialogue: 0,0:03:10.81,0:03:19.00,DEFAULT,,0,0,0,,{\kf55}Ahhhh{\kf113}~{\kf55}~{\kf130}~{\kf67}~{\kf126}~{\kf63}~{\kf118}~
-Dialogue: 0,0:03:19.92,0:03:27.44,DEFAULT,,0,0,0,,{\kf130}Ahhhh{\kf59}~{\kf126}~{\kf63}~{\kf126}~{\kf63}~{\kf113}~
-Dialogue: 0,0:03:28.41,0:03:36.43,DEFAULT,,0,0,0,,{\kf193}Ahhhh{\kf197}~{\kf210}~{\kf155}~
-Dialogue: 0,0:03:36.93,0:03:49.43,DEFAULT,,0,0,0,,{\kf34}De{\kf26}cem{\kf34}ber{\kf310} White,{\kf34} thy{\kf26} beau{\kf34}ty{\kf339} e{\kf34}ver{\kf281} last
+Dialogue: 0,0:00:00.20,0:00:07.85,DEFAULT,,0,0,0,,{\r}{\kf30}Sep{\kf30}tem{\kf40}ber{\kf96} Blue,{\kf30} thy{\kf30} sor{\kf30}rows{\kf111} be{\kf25} for{\kf35}got{\kf308}ten
+Dialogue: 0,0:00:08.77,0:00:15.88,DEFAULT,,0,0,0,,{\r}{\kf29}Oc{\kf29}to{\kf34}ber{\kf107} Au{\kf29}burn,{\kf34} let{\kf34} this{\kf68} sea{\kf54}son{\kf293} pass
+Dialogue: 0,0:00:16.88,0:00:25.08,DEFAULT,,0,0,0,,{\r}{\kf79}No{\kf116}vem{\kf26}~{\kf37}ber{\kf32}~{\kf116} Gray,{\kf37} re{\kf32}~{\kf116}store{\kf26} with{\kf37} thy{\kf37}~{\kf128} rain
+Dialogue: 0,0:00:25.74,0:00:33.10,DEFAULT,,0,0,0,,{\r}{\kf33}De{\kf29}cem{\kf38}ber{\kf96} White,{\kf29} thy{\kf29} beau{\kf38}ty{\kf100} e{\kf29}ver{\kf315} last
+Dialogue: 0,0:00:51.45,0:00:58.43,DEFAULT,,0,0,0,,{\r}{\kf127}Light{\kf66} of{\kf123} vir{\kf66}tue{\kf316} shown
+Dialogue: 0,0:00:59.89,0:01:06.58,DEFAULT,,0,0,0,,{\r}{\kf154}Sign{\kf56} of{\kf117} one's{\kf65} true{\kf277} form
+Dialogue: 0,0:01:07.71,0:01:16.07,DEFAULT,,0,0,0,,{\r}{\kf76}To{\kf153} grow{\kf38} on{\kf33}ly{\kf98} small,{\kf38} gi{\kf33}ving{\kf38} gui{\kf33}~{\kf49}dance{\kf71} for{\kf176} all
+Dialogue: 0,0:01:16.78,0:01:23.22,DEFAULT,,0,0,0,,{\r}{\kf139}Seen{\kf65} while{\kf19} hard{\kf120}~{\kf32}ly{\kf32}~{\kf237} known
+Dialogue: 0,0:01:24.97,0:01:32.62,DEFAULT,,0,0,0,,{\r}{\kf29}Sep{\kf34}tem{\kf39}ber{\kf97} Blue,{\kf29} thy{\kf29} sor{\kf29}rows{\kf117} be{\kf29} for{\kf29}got{\kf304}ten
+Dialogue: 0,0:01:33.59,0:01:40.82,DEFAULT,,0,0,0,,{\r}{\kf24}Oc{\kf29}to{\kf39}ber{\kf112} Au{\kf29}burn,{\kf24} let{\kf29} this{\kf68} sea{\kf54}son{\kf315} pass
+Dialogue: 0,0:01:41.69,0:01:49.85,DEFAULT,,0,0,0,,{\r}{\kf71}No{\kf122}vem{\kf36}~{\kf31}ber{\kf31}~{\kf107} Gray,{\kf41} re{\kf36}~{\kf112}store{\kf31} with{\kf36} thy{\kf31}~{\kf130} rain
+Dialogue: 0,0:01:50.47,0:01:57.91,DEFAULT,,0,0,0,,{\r}{\kf24}De{\kf33}cem{\kf33}ber{\kf100} White,{\kf24} thy{\kf29} beau{\kf33}ty{\kf114} e{\kf29}ver{\kf325} last
+Dialogue: 0,0:02:03.56,0:02:09.95,DEFAULT,,0,0,0,,{\r}{\kf145}Bright{\kf51} in{\kf145}vi{\kf56}ting{\kf243} morn
+Dialogue: 0,0:02:12.08,0:02:19.06,DEFAULT,,0,0,0,,{\r}{\kf131}Bril{\kf68}liant{\kf116} rays{\kf63} re{\kf320}born
+Dialogue: 0,0:02:19.69,0:02:28.18,DEFAULT,,0,0,0,,{\r}{\kf77}So,{\kf153} fol{\kf36}low{\kf31} a{\kf102}long,{\kf31} as{\kf36} the{\kf77} sha{\kf66}dows{\kf72} have{\kf168} gone
+Dialogue: 0,0:02:29.01,0:02:35.16,DEFAULT,,0,0,0,,{\r}{\kf142}Walk{\kf57} where{\kf137} time{\kf57} has{\kf221} torn
+Dialogue: 0,0:02:37.12,0:02:44.69,DEFAULT,,0,0,0,,{\r}{\kf34}Sep{\kf34}tem{\kf34}ber{\kf98} Blue,{\kf29} thy{\kf29} sor{\kf29}rows{\kf108} be{\kf34} for{\kf29}got{\kf299}ten
+Dialogue: 0,0:02:45.65,0:02:52.96,DEFAULT,,0,0,0,,{\r}{\kf29}Oc{\kf34}to{\kf34}ber{\kf107} Au{\kf29}burn,{\kf29} let{\kf24} this{\kf68} sea{\kf63}son{\kf315} pass
+Dialogue: 0,0:02:53.84,0:03:02.03,DEFAULT,,0,0,0,,{\r}{\kf67}No{\kf118}vem{\kf31}~{\kf31}ber{\kf31}~{\kf113} Gray,{\kf41} re{\kf31}~{\kf118}store{\kf31} with{\kf31} thy{\kf36}~{\kf140} rain
+Dialogue: 0,0:03:02.66,0:03:10.10,DEFAULT,,0,0,0,,{\r}{\kf29}De{\kf29}cem{\kf34}ber{\kf96} White,{\kf29} thy{\kf34} beau{\kf29}ty{\kf106} e{\kf34}ver{\kf324} last
+Dialogue: 0,0:03:10.81,0:03:19.01,DEFAULT,,0,0,0,,{\r}{\kf62}Ahhhh{\kf128}~{\kf62}~{\kf147}~{\kf76}~{\kf142}~{\kf71}~{\kf131}~
+Dialogue: 0,0:03:19.93,0:03:27.45,DEFAULT,,0,0,0,,{\r}{\kf144}Ahhhh{\kf65}~{\kf139}~{\kf70}~{\kf139}~{\kf70}~{\kf125}~
+Dialogue: 0,0:03:28.41,0:03:36.44,DEFAULT,,0,0,0,,{\r}{\kf205}Ahhhh{\kf210}~{\kf223}~{\kf165}~
+Dialogue: 0,0:03:36.94,0:03:49.44,DEFAULT,,0,0,0,,{\r}{\kf36}De{\kf27}cem{\kf36}ber{\kf338} White,{\kf36} thy{\kf27} beau{\kf36}ty{\kf370} e{\kf36}ver{\kf308} last

@@ -1,49 +1,56 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Neon Pegasus
+Artist: Parry Gripp
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.42,0:00:08.05,DEFAULT,,0,0,0,,{\kf23}Spread{\kf34} your{\kf62} wings,{\kf23} Ne{\kf40}on{\kf45} Pe{\kf17}ga{\kf23}sus
-Dialogue: 0,0:00:08.28,0:00:11.41,DEFAULT,,0,0,0,,{\kf17}And{\kf28} go{\kf40} fly{\kf34}ing{\kf40} through{\kf23} the{\kf84} night
-Dialogue: 0,0:00:12.08,0:00:14.55,DEFAULT,,0,0,0,,{\kf12}They{\kf17} can{\kf23} take{\kf28} your{\kf40} glit{\kf17}ter{\kf17} but{\kf17} they{\kf23} can't
-Dialogue: 0,0:00:14.77,0:00:16.90,DEFAULT,,0,0,0,,{\kf17}Take{\kf17} a{\kf28}way{\kf17} your{\kf23} spar{\kf17}~{\kf56}kle
-Dialogue: 0,0:00:19.25,0:00:22.33,DEFAULT,,0,0,0,,{\kf17}And{\kf17} the{\kf23} thou{\kf17}sand{\kf28} arm{\kf40} ro{\kf34}bot{\kf28} oc{\kf23}to{\kf17}pus
-Dialogue: 0,0:00:22.61,0:00:25.40,DEFAULT,,0,0,0,,{\kf17}Will{\kf17} try{\kf12} to{\kf28} grab{\kf34} your{\kf40} gol{\kf17}den{\kf56} reins
-Dialogue: 0,0:00:26.36,0:00:27.92,DEFAULT,,0,0,0,,{\kf17}But{\kf17} your{\kf17} wings{\kf28} are{\kf40} strong
-Dialogue: 0,0:00:28.15,0:00:30.94,DEFAULT,,0,0,0,,{\kf23}From{\kf17} the{\kf23} bat{\kf12}tle{\kf17} o{\kf17}ver{\kf23} Cup{\kf28}cake{\kf23} Moun{\kf28}tain
-Dialogue: 0,0:00:33.07,0:00:36.37,DEFAULT,,0,0,0,,{\kf17}Ne{\kf23}ver{\kf17} a{\kf56}gain{\kf23} to{\kf34} be{\kf34} lone{\kf40}ly
-Dialogue: 0,0:00:36.65,0:00:39.84,DEFAULT,,0,0,0,,{\kf23}Ne{\kf17}ver{\kf17} a{\kf28}gain{\kf12} to{\kf28} be{\kf23} with{\kf17}out{\kf17} a{\kf17} home{\kf45}~
-Dialogue: 0,0:00:40.24,0:00:43.48,DEFAULT,,0,0,0,,{\kf23}Ne{\kf17}ver{\kf12} to{\kf40} bow{\kf23} to{\kf17} the{\kf17} gum{\kf17}my{\kf23} king's{\kf56} throne
-Dialogue: 0,0:00:43.87,0:00:46.95,DEFAULT,,0,0,0,,{\kf17}Ne{\kf17}ver{\kf12} a{\kf56}gain,{\kf17} ne{\kf17}ver{\kf17} a{\kf62}gain!
-Dialogue: 0,0:00:47.46,0:00:50.31,DEFAULT,,0,0,0,,{\kf17}Ne{\kf17}ver{\kf12} a{\kf45}gain{\kf28} to{\kf17} be{\kf28} put{\kf40} down
-Dialogue: 0,0:00:50.59,0:00:53.89,DEFAULT,,0,0,0,,{\kf17}By{\kf17} the{\kf17} Mar{\kf17}zi{\kf28}pan{\kf34} Girl{\kf17} at{\kf17} the{\kf17} sil{\kf17}ver{\kf28} lake{\kf23} lounge
-Dialogue: 0,0:00:54.17,0:00:57.64,DEFAULT,,0,0,0,,{\kf23}Soar{\kf17}ing{\kf23} o{\kf17}ver{\kf12} it{\kf40} all,{\kf40} high{\kf17} up{\kf17} in{\kf17} the{\kf56} clouds
-Dialogue: 0,0:00:58.20,0:01:01.34,DEFAULT,,0,0,0,,{\kf17}Ne{\kf17}ver{\kf12} a{\kf56}gain,{\kf17} ne{\kf17}ver{\kf17} a{\kf68}gain!
-Dialogue: 0,0:01:05.09,0:01:05.98,DEFAULT,,0,0,0,,{\kf90}Yeah!
-Dialogue: 0,0:01:06.32,0:01:09.17,DEFAULT,,0,0,0,,{\kf12}When{\kf23} I{\kf28} first{\kf23} saw{\kf23} you{\kf17} de{\kf17}feat{\kf17}ing{\kf6} the{\kf17} Gum{\kf17}my{\kf23} King's
-Dialogue: 0,0:01:09.40,0:01:12.70,DEFAULT,,0,0,0,,{\kf28}Glu{\kf23}ten{\kf23} po{\kf17}wered{\kf23} ar{\kf17}ma{\kf28}da{\kf12} in{\kf17} the{\kf28} dark{\kf17}ness{\kf23} of{\kf28} space
-Dialogue: 0,0:01:13.09,0:01:16.45,DEFAULT,,0,0,0,,{\kf23}I{\kf34} knew{\kf17} you{\kf17} were{\kf17} no{\kf23} or{\kf23}di{\kf23}na{\kf23}ry{\kf23} pe{\kf23}ga{\kf34}sus!
-Dialogue: 0,0:01:21.04,0:01:25.01,DEFAULT,,0,0,0,,{\kf34}Un-{\kf34}break{\kf17} your{\kf79} heart,{\kf23} Ne{\kf40}on{\kf40} Pe{\kf17}ga{\kf17}sus
-Dialogue: 0,0:01:25.29,0:01:28.59,DEFAULT,,0,0,0,,{\kf17}And{\kf28} go{\kf34} climb{\kf34}ing{\kf28} through{\kf17} the{\kf101} stars
-Dialogue: 0,0:01:29.60,0:01:31.84,DEFAULT,,0,0,0,,{\kf28}Out{\kf28} there{\kf23} with{\kf28} your{\kf17} dreams{\kf17}~{\kf28}~
-Dialogue: 0,0:01:32.68,0:01:34.69,DEFAULT,,0,0,0,,{\kf28}Your{\kf51} spar{\kf17}kly{\kf68} dreams
-Dialogue: 0,0:01:36.04,0:01:39.68,DEFAULT,,0,0,0,,{\kf17}And{\kf17} the{\kf12} ge{\kf17}ne{\kf17}ti{\kf28}cally{\kf17} mo{\kf17}di{\kf28}fied{\kf34} sa{\kf17}la{\kf40}man{\kf12}der
-Dialogue: 0,0:01:39.90,0:01:42.64,DEFAULT,,0,0,0,,{\kf12}With{\kf12} a{\kf23} face{\kf28} just{\kf28} like{\kf34} George{\kf23} Cloo{\kf28}ney
-Dialogue: 0,0:01:43.37,0:01:44.71,DEFAULT,,0,0,0,,{\kf28}Can't{\kf17} track{\kf28} you{\kf23} down
-Dialogue: 0,0:01:45.16,0:01:48.18,DEFAULT,,0,0,0,,{\kf17}With{\kf17} the{\kf17} Rock{\kf17}a{\kf17}bil{\kf17}ly{\kf28} Worm{\kf23} from{\kf34} Space{\kf51} Land
-Dialogue: 0,0:01:50.09,0:01:53.33,DEFAULT,,0,0,0,,{\kf23}Ne{\kf17}ver{\kf17} a{\kf56}gain{\kf17} to{\kf28} be{\kf34} lone{\kf28}ly
-Dialogue: 0,0:01:53.72,0:01:56.86,DEFAULT,,0,0,0,,{\kf17}Ne{\kf17}ver{\kf12} a{\kf23}gain{\kf23} to{\kf28} be{\kf23} with{\kf17}out{\kf12} a{\kf17} home{\kf45}~
-Dialogue: 0,0:01:57.31,0:02:00.33,DEFAULT,,0,0,0,,{\kf17}Ne{\kf17}ver{\kf12} to{\kf34} bow{\kf17} to{\kf17} the{\kf17} Gum{\kf17}my{\kf23} King's{\kf40} throne
-Dialogue: 0,0:02:00.89,0:02:04.02,DEFAULT,,0,0,0,,{\kf17}Ne{\kf17}ver{\kf12} a{\kf56}gain,{\kf17} ne{\kf17}ver{\kf17} a{\kf68}gain!
-Dialogue: 0,0:02:04.47,0:02:07.33,DEFAULT,,0,0,0,,{\kf17}Ne{\kf17}ver{\kf12} a{\kf40}gain{\kf28} to{\kf17} be{\kf28} put{\kf40} down
-Dialogue: 0,0:02:07.61,0:02:10.91,DEFAULT,,0,0,0,,{\kf17}By{\kf17} the{\kf17} Mar{\kf17}zi{\kf28}pan{\kf34} Girl{\kf17} at{\kf17} the{\kf17} Sil{\kf17}ver{\kf28} Lake{\kf17} Lounge
-Dialogue: 0,0:02:11.19,0:02:14.71,DEFAULT,,0,0,0,,{\kf17}Soar{\kf17}ing{\kf17} o{\kf17}ver{\kf12} it{\kf40} all,{\kf28} high{\kf17} up{\kf17} in{\kf17} the{\kf62} clouds
-Dialogue: 0,0:02:15.22,0:02:18.35,DEFAULT,,0,0,0,,{\kf17}Ne{\kf17}ver{\kf12} a{\kf62}gain,{\kf17} ne{\kf17}ver{\kf17} a{\kf68}gain
-Dialogue: 0,0:02:29.21,0:02:32.90,DEFAULT,,0,0,0,,{\kf12}No{\kf17} mat{\kf17}ter{\kf17} how{\kf23} in{\kf40}sane{\kf12} and{\kf17} ri{\kf17}di{\kf17}cu{\kf17}lous{\kf17} they{\kf45} seem
-Dialogue: 0,0:02:33.35,0:02:36.54,DEFAULT,,0,0,0,,{\kf17}You{\kf23} must{\kf28} fol{\kf34}low{\kf45} your{\kf68} dreams!
+Dialogue: 0,0:00:04.42,0:00:08.06,DEFAULT,,0,0,0,,{\r}{\kf31}Spread{\kf46} your{\kf85} wings,{\kf31} Ne{\kf54}on{\kf62} Pe{\kf23}ga{\kf32}sus
+Dialogue: 0,0:00:08.28,0:00:11.42,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf33} go{\kf47} fly{\kf40}ing{\kf47} through{\kf27} the{\kf99} night
+Dialogue: 0,0:00:12.09,0:00:14.55,DEFAULT,,0,0,0,,{\r}{\kf14}They{\kf22} can{\kf29} take{\kf36} your{\kf51} glit{\kf22}ter{\kf22} but{\kf22} they{\kf28} can't
+Dialogue: 0,0:00:14.77,0:00:16.90,DEFAULT,,0,0,0,,{\r}{\kf21}Take{\kf21} a{\kf34}way{\kf21} your{\kf27} spar{\kf21}~{\kf68}kle
+Dialogue: 0,0:00:19.25,0:00:22.33,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} the{\kf29} thou{\kf21}sand{\kf36} arm{\kf50} ro{\kf43}bot{\kf36} oc{\kf29}to{\kf22}pus
+Dialogue: 0,0:00:22.61,0:00:25.41,DEFAULT,,0,0,0,,{\r}{\kf22}Will{\kf22} try{\kf14} to{\kf36} grab{\kf43} your{\kf50} gol{\kf22}den{\kf71} reins
+Dialogue: 0,0:00:26.36,0:00:27.93,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} your{\kf22} wings{\kf37} are{\kf54} strong
+Dialogue: 0,0:00:28.15,0:00:30.95,DEFAULT,,0,0,0,,{\r}{\kf30}From{\kf23} the{\kf30} bat{\kf15}tle{\kf23} o{\kf23}ver{\kf30} Cup{\kf38}cake{\kf30} Moun{\kf38}tain
+Dialogue: 0,0:00:33.08,0:00:36.38,DEFAULT,,0,0,0,,{\r}{\kf23}Ne{\kf31}ver{\kf23} a{\kf77}gain{\kf31} to{\kf46} be{\kf46} lone{\kf53}ly
+Dialogue: 0,0:00:36.66,0:00:39.85,DEFAULT,,0,0,0,,{\r}{\kf30}Ne{\kf22}ver{\kf22} a{\kf37}gain{\kf15} to{\kf37} be{\kf30} with{\kf22}out{\kf22} a{\kf22} home{\kf60}~
+Dialogue: 0,0:00:40.24,0:00:43.49,DEFAULT,,0,0,0,,{\r}{\kf30}Ne{\kf23}ver{\kf15} to{\kf53} bow{\kf30} to{\kf23} the{\kf23} gum{\kf23}my{\kf30} king's{\kf75} throne
+Dialogue: 0,0:00:43.88,0:00:46.96,DEFAULT,,0,0,0,,{\r}{\kf24}Ne{\kf24}ver{\kf16} a{\kf81}gain,{\kf24} ne{\kf24}ver{\kf24} a{\kf91}gain!
+Dialogue: 0,0:00:47.46,0:00:50.32,DEFAULT,,0,0,0,,{\r}{\kf24}Ne{\kf24}ver{\kf16} a{\kf63}gain{\kf40} to{\kf24} be{\kf40} put{\kf54} down
+Dialogue: 0,0:00:50.60,0:00:53.90,DEFAULT,,0,0,0,,{\r}{\kf22}By{\kf22} the{\kf22} Mar{\kf22}zi{\kf37}pan{\kf45} Girl{\kf22} at{\kf22} the{\kf22} sil{\kf22}ver{\kf37} lake{\kf35} lounge
+Dialogue: 0,0:00:54.18,0:00:57.65,DEFAULT,,0,0,0,,{\r}{\kf28}Soar{\kf21}ing{\kf28} o{\kf21}ver{\kf14} it{\kf50} all,{\kf50} high{\kf21} up{\kf21} in{\kf21} the{\kf72} clouds
+Dialogue: 0,0:00:58.21,0:01:01.34,DEFAULT,,0,0,0,,{\r}{\kf24}Ne{\kf24}ver{\kf16} a{\kf80}gain,{\kf24} ne{\kf24}ver{\kf24} a{\kf97}gain!
+Dialogue: 0,0:01:05.09,0:01:05.99,DEFAULT,,0,0,0,,{\r}{\kf90}Yeah!
+Dialogue: 0,0:01:06.32,0:01:09.18,DEFAULT,,0,0,0,,{\r}{\kf15}When{\kf29} I{\kf37} first{\kf29} saw{\kf29} you{\kf22} de{\kf22}feat{\kf22}ing{\kf10} the{\kf22} Gum{\kf22}my{\kf26} King's
+Dialogue: 0,0:01:09.40,0:01:12.70,DEFAULT,,0,0,0,,{\r}{\kf33}Glu{\kf26}ten{\kf26} po{\kf20}wered{\kf26} ar{\kf20}ma{\kf33}da{\kf13} in{\kf20} the{\kf33} dark{\kf20}ness{\kf26} of{\kf34} space
+Dialogue: 0,0:01:13.10,0:01:16.45,DEFAULT,,0,0,0,,{\r}{\kf27}I{\kf41} knew{\kf21} you{\kf21} were{\kf21} no{\kf27} or{\kf27}di{\kf27}na{\kf27}ry{\kf27} pe{\kf27}ga{\kf43}sus!
+Dialogue: 0,0:01:21.04,0:01:25.02,DEFAULT,,0,0,0,,{\r}{\kf45}Un-{\kf45}break{\kf22} your{\kf105} heart,{\kf30} Ne{\kf52}on{\kf52} Pe{\kf22}ga{\kf24}sus
+Dialogue: 0,0:01:25.30,0:01:28.60,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf36} go{\kf43} climb{\kf43}ing{\kf36} through{\kf22} the{\kf128} stars
+Dialogue: 0,0:01:29.61,0:01:31.85,DEFAULT,,0,0,0,,{\r}{\kf37}Out{\kf37} there{\kf30} with{\kf37} your{\kf22} dreams{\kf22}~{\kf39}~
+Dialogue: 0,0:01:32.68,0:01:34.70,DEFAULT,,0,0,0,,{\r}{\kf35}Your{\kf62} spar{\kf21}kly{\kf83} dreams
+Dialogue: 0,0:01:36.04,0:01:39.68,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf23} the{\kf15} ge{\kf23}ne{\kf23}ti{\kf38}cally{\kf23} mo{\kf23}di{\kf38}fied{\kf46} sa{\kf23}la{\kf53}man{\kf13}der
+Dialogue: 0,0:01:39.91,0:01:42.65,DEFAULT,,0,0,0,,{\r}{\kf17}With{\kf17} a{\kf33} face{\kf42} just{\kf42} like{\kf50} George{\kf33} Cloo{\kf40}ney
+Dialogue: 0,0:01:43.38,0:01:44.72,DEFAULT,,0,0,0,,{\r}{\kf39}Can't{\kf24} track{\kf39} you{\kf32} down
+Dialogue: 0,0:01:45.17,0:01:48.19,DEFAULT,,0,0,0,,{\r}{\kf22}With{\kf22} the{\kf22} Rock{\kf22}a{\kf22}bil{\kf22}ly{\kf36} Worm{\kf29} from{\kf43} Space{\kf62} Land
+Dialogue: 0,0:01:50.09,0:01:53.34,DEFAULT,,0,0,0,,{\r}{\kf33}Ne{\kf25}ver{\kf25} a{\kf83}gain{\kf25} to{\kf42} be{\kf50} lone{\kf42}ly
+Dialogue: 0,0:01:53.73,0:01:56.86,DEFAULT,,0,0,0,,{\r}{\kf23}Ne{\kf23}ver{\kf15} a{\kf31}gain{\kf31} to{\kf38} be{\kf31} with{\kf23}out{\kf15} a{\kf23} home{\kf60}~
+Dialogue: 0,0:01:57.31,0:02:00.33,DEFAULT,,0,0,0,,{\r}{\kf24}Ne{\kf24}ver{\kf16} to{\kf49} bow{\kf24} to{\kf24} the{\kf24} Gum{\kf24}my{\kf33} King's{\kf60} throne
+Dialogue: 0,0:02:00.89,0:02:04.03,DEFAULT,,0,0,0,,{\r}{\kf24}Ne{\kf24}ver{\kf16} a{\kf80}gain,{\kf24} ne{\kf24}ver{\kf24} a{\kf97}gain!
+Dialogue: 0,0:02:04.48,0:02:07.33,DEFAULT,,0,0,0,,{\r}{\kf24}Ne{\kf24}ver{\kf16} a{\kf57}gain{\kf41} to{\kf24} be{\kf41} put{\kf58} down
+Dialogue: 0,0:02:07.61,0:02:10.91,DEFAULT,,0,0,0,,{\r}{\kf23}By{\kf23} the{\kf23} Mar{\kf23}zi{\kf38}pan{\kf46} Girl{\kf23} at{\kf23} the{\kf23} Sil{\kf23}ver{\kf38} Lake{\kf24} Lounge
+Dialogue: 0,0:02:11.19,0:02:14.72,DEFAULT,,0,0,0,,{\r}{\kf23}Soar{\kf23}ing{\kf23} o{\kf23}ver{\kf15} it{\kf54} all,{\kf38} high{\kf23} up{\kf23} in{\kf23} the{\kf85} clouds
+Dialogue: 0,0:02:15.22,0:02:18.36,DEFAULT,,0,0,0,,{\r}{\kf23}Ne{\kf23}ver{\kf16} a{\kf86}gain,{\kf23} ne{\kf23}ver{\kf23} a{\kf96}gain
+Dialogue: 0,0:02:29.21,0:02:32.91,DEFAULT,,0,0,0,,{\r}{\kf16}No{\kf24} mat{\kf24}ter{\kf24} how{\kf31} in{\kf55}sane{\kf16} and{\kf24} ri{\kf24}di{\kf24}cu{\kf24}lous{\kf24} they{\kf59} seem
+Dialogue: 0,0:02:33.36,0:02:36.55,DEFAULT,,0,0,0,,{\r}{\kf25}You{\kf34} must{\kf42} fol{\kf50}low{\kf67} your{\kf101} dreams!

@@ -1,42 +1,49 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Hello
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by lily
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:16.10,0:00:19.54,DEFAULT,,0,0,0,,{\kf1643}Eight{\kf1643} legs,{\kf1627} I{\kf1627} guess{\kf1643} you{\kf1643} choose{\kf1627} who{\kf1627} you{\kf1643} choose
-Dialogue: 0,0:00:19.94,0:00:23.38,DEFAULT,,0,0,0,,{\kf1643}Four{\kf1643} eyes,{\kf1627} you{\kf1627} al{\kf1643}ways{\kf1643} win{\kf1627} or{\kf1627} you{\kf1643} lose
-Dialogue: 0,0:00:23.78,0:00:28.66,DEFAULT,,0,0,0,,{\kf1643}Some{\kf1650}times{\kf1627} I{\kf1627} feel{\kf1643} it's{\kf1650} not{\kf1643} worth{\kf1650} help{\kf1739}ing
-Dialogue: 0,0:00:31.46,0:00:34.86,DEFAULT,,0,0,0,,{\kf1643}I{\kf1643} know{\kf1627} I{\kf1627} may{\kf1639} be{\kf1643} one{\kf1627} of{\kf1627} a{\kf1639} kind
-Dialogue: 0,0:00:35.06,0:00:38.70,DEFAULT,,0,0,0,,{\kf1627}And{\kf1634} it's{\kf1643} strange{\kf1627} to{\kf1627} think{\kf1643} she'd{\kf1643} give{\kf1627} me{\kf1627} a{\kf1639} try
-Dialogue: 0,0:00:38.90,0:00:44.02,DEFAULT,,0,0,0,,{\kf1627}But{\kf1643} it's{\kf1650} still{\kf1627} a{\kf1627} lit{\kf1643}tle{\kf1650} un{\kf1643}der{\kf1646}whelm{\kf1739}ing
-Dialogue: 0,0:00:46.82,0:00:49.22,DEFAULT,,0,0,0,,{\kf1650}I'll{\kf1627} ne{\kf1650}ver{\kf1730} know
-Dialogue: 0,0:00:49.70,0:00:53.30,DEFAULT,,0,0,0,,{\kf1627}the{\kf1650} feel{\kf1627}ing{\kf1643} of{\kf1627} be{\kf1627}i{\kf1627}-ing{\kf1755} loved
-Dialogue: 0,0:00:54.26,0:00:56.90,DEFAULT,,0,0,0,,{\kf1627}And{\kf1650} I'll{\kf1627} ne{\kf1650}ver{\kf1730} feel
-Dialogue: 0,0:00:57.38,0:01:00.98,DEFAULT,,0,0,0,,{\kf1627}the{\kf1643} warmth{\kf1643} of{\kf1627} the{\kf1646} sun{\kf1627} a{\kf1627}bo{\kf1730}-ove
-Dialogue: 0,0:01:02.18,0:01:04.62,DEFAULT,,0,0,0,,{\kf1650}My{\kf1627} heart{\kf1634} is{\kf1730} cold,
-Dialogue: 0,0:01:05.06,0:01:08.66,DEFAULT,,0,0,0,,{\kf1627}and{\kf1650} my{\kf1650} soul{\kf1618} is{\kf1627} grow{\kf1627}i{\kf1627}-ing{\kf1627} o{\kf1730}-old
-Dialogue: 0,0:01:10.10,0:01:14.46,DEFAULT,,0,0,0,,{\kf1627}But{\kf1627} I'll{\kf1627} still{\kf1627} be{\kf1627} wa{\kf1627}-ait{\kf1627}i{\kf1627}-ing{\kf1666} for{\kf1627} the{\kf1650} day{\kf1627} when{\kf1650} she'll{\kf1639} say
-Dialogue: 0,0:01:14.66,0:01:18.06,DEFAULT,,0,0,0,,{\kf1627}The{\kf1650} day{\kf1627} when{\kf1650} she'll{\kf1650} say{\kf1627} hel{\kf1730}lo
-Dialogue: 0,0:01:22.34,0:01:25.74,DEFAULT,,0,0,0,,{\kf1627}The{\kf1650} day{\kf1627} when{\kf1650} she'll{\kf1650} say{\kf1627} hel{\kf1730}lo
-Dialogue: 0,0:01:32.90,0:01:36.34,DEFAULT,,0,0,0,,{\kf1643}So{\kf1643} hard{\kf1627} to{\kf1627} see{\kf1643} her{\kf1643} all{\kf1627} of{\kf1627} the{\kf1643} time
-Dialogue: 0,0:01:36.74,0:01:40.26,DEFAULT,,0,0,0,,{\kf1643}Out{\kf1643}side{\kf1627} tend{\kf1650}ing{\kf1650} all{\kf1627} o{\kf1627}ther{\kf1650} kinds
-Dialogue: 0,0:01:40.58,0:01:45.38,DEFAULT,,0,0,0,,{\kf1650}Feels{\kf1650} like{\kf1627} a{\kf1627}no{\kf1646}ther{\kf1650} help{\kf1650}less{\kf1646} sto{\kf1730}ry
-Dialogue: 0,0:01:48.26,0:01:51.74,DEFAULT,,0,0,0,,{\kf1643}I've{\kf1643} dreamt{\kf1627} of{\kf1627} one{\kf1643} day{\kf1643} catch{\kf1627}ing{\kf1627} her{\kf1646} eye
-Dialogue: 0,0:01:52.10,0:01:55.54,DEFAULT,,0,0,0,,{\kf1643}With{\kf1643} her{\kf1627} at{\kf1627}ten{\kf1643}tion{\kf1643} on{\kf1627}ly{\kf1627}-y{\kf1627} mi{\kf1618}-ine
-Dialogue: 0,0:01:55.70,0:02:01.22,DEFAULT,,0,0,0,,{\kf1627}But{\kf1634} it's{\kf1650} still{\kf1627} a{\kf1627} lit{\kf1650}tle{\kf1650} too{\kf1634} much{\kf1650} for{\kf1778} me
-Dialogue: 0,0:02:03.62,0:02:06.02,DEFAULT,,0,0,0,,{\kf1650}I'll{\kf1627} ne{\kf1650}ver{\kf1727} know
-Dialogue: 0,0:02:06.50,0:02:10.10,DEFAULT,,0,0,0,,{\kf1627}the{\kf1650} feel{\kf1627}ing{\kf1643} of{\kf1627} be{\kf1627}i{\kf1627}-ing{\kf1755} loved
-Dialogue: 0,0:02:11.06,0:02:13.70,DEFAULT,,0,0,0,,{\kf1627}And{\kf1650} I'll{\kf1627} ne{\kf1650}ver{\kf1727} feel
-Dialogue: 0,0:02:14.18,0:02:17.78,DEFAULT,,0,0,0,,{\kf1627}the{\kf1643} warmth{\kf1643} of{\kf1627} the{\kf1646} sun{\kf1627} a{\kf1627}bo{\kf1730}-ove
-Dialogue: 0,0:02:18.98,0:02:21.38,DEFAULT,,0,0,0,,{\kf1650}My{\kf1627} heart{\kf1634} is{\kf1730} cold,
-Dialogue: 0,0:02:21.86,0:02:25.46,DEFAULT,,0,0,0,,{\kf1627}and{\kf1650} my{\kf1646} soul{\kf1623} is{\kf1627} grow{\kf1627}i{\kf1627}-ing{\kf1627} o{\kf1730}-old
-Dialogue: 0,0:02:26.90,0:02:31.26,DEFAULT,,0,0,0,,{\kf1627}But{\kf1627} I'll{\kf1627} still{\kf1627} be{\kf1627} wa{\kf1627}-ait{\kf1627}i{\kf1627}-ing{\kf1666} for{\kf1627} the{\kf1650} day{\kf1627} when{\kf1650} she'll{\kf1639} say
-Dialogue: 0,0:02:31.46,0:02:34.86,DEFAULT,,0,0,0,,{\kf1627}The{\kf1650} day{\kf1627} when{\kf1650} she'll{\kf1650} say{\kf1627} hel{\kf1730}lo
-Dialogue: 0,0:02:42.26,0:02:46.62,DEFAULT,,0,0,0,,{\kf1627}But{\kf1627} I'll{\kf1627} still{\kf1627} be{\kf1627} wa{\kf1627}-ait{\kf1627}i{\kf1627}-ing{\kf1666} for{\kf1627} the{\kf1650} day{\kf1627} when{\kf1650} she'll{\kf1639} say
-Dialogue: 0,0:02:46.82,0:02:50.22,DEFAULT,,0,0,0,,{\kf1627}The{\kf1650} day{\kf1627} when{\kf1650} she'll{\kf1650} say{\kf1627} hel{\kf1730}lo
+Dialogue: 0,0:00:16.10,0:00:19.54,DEFAULT,,0,0,0,,{\r}{\kf49}Eight{\kf49} legs,{\kf25} I{\kf25} guess{\kf49} you{\kf49} choose{\kf25} who{\kf25} you{\kf48} choose
+Dialogue: 0,0:00:19.94,0:00:23.38,DEFAULT,,0,0,0,,{\r}{\kf49}Four{\kf49} eyes,{\kf25} you{\kf25} al{\kf49}ways{\kf49} win{\kf25} or{\kf25} you{\kf48} lose
+Dialogue: 0,0:00:23.78,0:00:28.66,DEFAULT,,0,0,0,,{\r}{\kf42}Some{\kf52}times{\kf21} I{\kf21} feel{\kf42} it's{\kf52} not{\kf42} worth{\kf52} help{\kf164}ing
+Dialogue: 0,0:00:31.46,0:00:34.86,DEFAULT,,0,0,0,,{\r}{\kf50}I{\kf50} know{\kf25} I{\kf25} may{\kf44} be{\kf50} one{\kf25} of{\kf25} a{\kf46} kind
+Dialogue: 0,0:00:35.06,0:00:38.70,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf38} it's{\kf51} strange{\kf26} to{\kf26} think{\kf51} she'd{\kf51} give{\kf26} me{\kf26} a{\kf43} try
+Dialogue: 0,0:00:38.90,0:00:44.02,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf42} it's{\kf53} still{\kf21} a{\kf21} lit{\kf42}tle{\kf53} un{\kf42}der{\kf48}whelm{\kf169}ing
+Dialogue: 0,0:00:46.82,0:00:49.22,DEFAULT,,0,0,0,,{\r}{\kf44}I'll{\kf18} ne{\kf44}ver{\kf134} know
+Dialogue: 0,0:00:49.70,0:00:53.30,DEFAULT,,0,0,0,,{\r}{\kf19}the{\kf49} feel{\kf19}ing{\kf39} of{\kf19} be{\kf19}i{\kf19}-ing{\kf177} loved
+Dialogue: 0,0:00:54.26,0:00:56.90,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf46} I'll{\kf18} ne{\kf46}ver{\kf136} feel
+Dialogue: 0,0:00:57.38,0:01:00.98,DEFAULT,,0,0,0,,{\r}{\kf20}the{\kf41} warmth{\kf41} of{\kf20} the{\kf46} sun{\kf20} a{\kf20}bo{\kf152}-ove
+Dialogue: 0,0:01:02.18,0:01:04.62,DEFAULT,,0,0,0,,{\r}{\kf49}My{\kf20} heart{\kf29} is{\kf146} cold,
+Dialogue: 0,0:01:05.06,0:01:08.66,DEFAULT,,0,0,0,,{\r}{\kf20}and{\kf50} my{\kf50} soul{\kf10} is{\kf20} grow{\kf20}i{\kf20}-ing{\kf20} o{\kf150}-old
+Dialogue: 0,0:01:10.10,0:01:14.46,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} I'll{\kf22} still{\kf22} be{\kf22} wa{\kf22}-ait{\kf22}i{\kf22}-ing{\kf75} for{\kf22} the{\kf54} day{\kf22} when{\kf54} she'll{\kf33} say
+Dialogue: 0,0:01:14.66,0:01:18.06,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf47} day{\kf19} when{\kf47} she'll{\kf47} say{\kf19} hel{\kf142}lo
+Dialogue: 0,0:01:22.34,0:01:25.74,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf47} day{\kf19} when{\kf47} she'll{\kf47} say{\kf19} hel{\kf142}lo
+Dialogue: 0,0:01:32.90,0:01:36.34,DEFAULT,,0,0,0,,{\r}{\kf49}So{\kf49} hard{\kf25} to{\kf25} see{\kf49} her{\kf49} all{\kf25} of{\kf25} the{\kf48} time
+Dialogue: 0,0:01:36.74,0:01:40.26,DEFAULT,,0,0,0,,{\r}{\kf49}Out{\kf49}side{\kf24} tend{\kf61}ing{\kf61} all{\kf24} o{\kf24}ther{\kf60} kinds
+Dialogue: 0,0:01:40.58,0:01:45.38,DEFAULT,,0,0,0,,{\r}{\kf50}Feels{\kf50} like{\kf20} a{\kf20}no{\kf45}ther{\kf50} help{\kf50}less{\kf45} sto{\kf150}ry
+Dialogue: 0,0:01:48.26,0:01:51.74,DEFAULT,,0,0,0,,{\r}{\kf49}I've{\kf49} dreamt{\kf24} of{\kf24} one{\kf49} day{\kf49} catch{\kf24}ing{\kf24} her{\kf56} eye
+Dialogue: 0,0:01:52.10,0:01:55.54,DEFAULT,,0,0,0,,{\r}{\kf51}With{\kf51} her{\kf25} at{\kf25}ten{\kf51}tion{\kf51} on{\kf25}ly{\kf25}-y{\kf25} mi{\kf15}-ine
+Dialogue: 0,0:01:55.70,0:02:01.22,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf31} it's{\kf52} still{\kf21} a{\kf21} lit{\kf52}tle{\kf52} too{\kf31} much{\kf52} for{\kf219} me
+Dialogue: 0,0:02:03.62,0:02:06.02,DEFAULT,,0,0,0,,{\r}{\kf45}I'll{\kf18} ne{\kf45}ver{\kf132} know
+Dialogue: 0,0:02:06.50,0:02:10.10,DEFAULT,,0,0,0,,{\r}{\kf19}the{\kf49} feel{\kf19}ing{\kf39} of{\kf19} be{\kf19}i{\kf19}-ing{\kf177} loved
+Dialogue: 0,0:02:11.06,0:02:13.70,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf46} I'll{\kf19} ne{\kf46}ver{\kf134} feel
+Dialogue: 0,0:02:14.18,0:02:17.78,DEFAULT,,0,0,0,,{\r}{\kf20}the{\kf41} warmth{\kf41} of{\kf20} the{\kf46} sun{\kf20} a{\kf20}bo{\kf152}-ove
+Dialogue: 0,0:02:18.98,0:02:21.38,DEFAULT,,0,0,0,,{\r}{\kf48}My{\kf19} heart{\kf29} is{\kf144} cold,
+Dialogue: 0,0:02:21.86,0:02:25.46,DEFAULT,,0,0,0,,{\r}{\kf20}and{\kf50} my{\kf45} soul{\kf15} is{\kf20} grow{\kf20}i{\kf20}-ing{\kf20} o{\kf150}-old
+Dialogue: 0,0:02:26.90,0:02:31.26,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} I'll{\kf22} still{\kf22} be{\kf22} wa{\kf22}-ait{\kf22}i{\kf22}-ing{\kf75} for{\kf22} the{\kf54} day{\kf22} when{\kf54} she'll{\kf33} say
+Dialogue: 0,0:02:31.46,0:02:34.86,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf47} day{\kf19} when{\kf47} she'll{\kf47} say{\kf19} hel{\kf142}lo
+Dialogue: 0,0:02:42.26,0:02:46.62,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} I'll{\kf22} still{\kf22} be{\kf22} wa{\kf22}-ait{\kf22}i{\kf22}-ing{\kf75} for{\kf22} the{\kf54} day{\kf22} when{\kf54} she'll{\kf33} say
+Dialogue: 0,0:02:46.82,0:02:50.22,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf47} day{\kf19} when{\kf47} she'll{\kf47} say{\kf19} hel{\kf142}lo

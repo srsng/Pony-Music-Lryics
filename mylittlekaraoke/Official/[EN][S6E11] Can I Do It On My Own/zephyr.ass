@@ -1,27 +1,34 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Can I Do It On My Own (Zephyr Breeze)
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.89,0:00:08.20,DEFAULT,,0,0,0,,{\kf22}Beg{\kf9} for{\kf26} help,{\kf13} then{\kf18} quit{\kf9} when{\kf9} I{\kf13} get{\kf30} frus{\kf18}tra{\kf18}ted
-Dialogue: 0,0:00:10.86,0:00:13.51,DEFAULT,,0,0,0,,{\kf13}Just{\kf30} kid{\kf35}ding!{\kf13} To{\kf9}tal{\kf13} op{\kf13}po{\kf13}site{\kf9} of{\kf26} that,{\kf13} got{\kf9} it
-Dialogue: 0,0:00:23.71,0:00:26.15,DEFAULT,,0,0,0,,{\kf18}Frus{\kf18}tra{\kf18}tion{\kf30} builds{\kf18} up{\kf13} in{\kf35}side
-Dialogue: 0,0:00:26.50,0:00:28.68,DEFAULT,,0,0,0,,{\kf13}And{\kf9} it{\kf30} makes{\kf22} you{\kf35} wan{\kf9}na{\kf39} shout
-Dialogue: 0,0:01:12.39,0:01:15.60,DEFAULT,,0,0,0,,{\kf26}There{\kf13} are{\kf30} times{\kf22} when{\kf22} you{\kf43} wa{\kf26}-ant{\kf18} to{\kf30} give{\kf18} up
-Dialogue: 0,0:01:16.03,0:01:21.64,DEFAULT,,0,0,0,,{\kf26}When{\kf13} you{\kf52} think{\kf26} that{\kf18} you{\kf48} can't{\kf30} go{\kf26}-o{\kf26} o{\kf189}-on
-Dialogue: 0,0:01:47.65,0:01:50.00,DEFAULT,,0,0,0,,{\kf9}And{\kf13} I{\kf18} know{\kf9} I{\kf22} can't{\kf26} give{\kf18} up{\kf18} too{\kf30} soon
-Dialogue: 0,0:01:50.48,0:01:52.58,DEFAULT,,0,0,0,,{\kf13}Get{\kf13} my{\kf26}self{\kf35} in{\kf13} the{\kf56} zone
-Dialogue: 0,0:01:53.26,0:01:55.92,DEFAULT,,0,0,0,,{\kf13}And{\kf9} I{\kf13} find{\kf9} I{\kf22} can{\kf39} walk,{\kf22} then{\kf56} run
-Dialogue: 0,0:01:56.43,0:02:01.10,DEFAULT,,0,0,0,,{\kf22}Then{\kf138} fly{\kf142}-y{\kf146}-y
-Dialogue: 0,0:02:01.40,0:02:05.81,DEFAULT,,0,0,0,,{\kf13}I{\kf13} can{\kf13} do{\kf13} it{\kf13} on{\kf39} my{\kf249} own{\kf43}-ah
-Dialogue: 0,0:02:12.20,0:02:16.53,DEFAULT,,0,0,0,,{\kf13}I{\kf13} can{\kf13} do{\kf13} it{\kf13} on{\kf22} my{\kf309} own
-Dialogue: 0,0:02:17.60,0:02:20.04,DEFAULT,,0,0,0,,{\kf13}I{\kf13} can{\kf13} do{\kf13} it{\kf13} on{\kf30} my{\kf120} own
-Dialogue: 0,0:02:21.37,0:02:21.84,DEFAULT,,0,0,0,,{\kf13}I{\kf13} did{\kf13} it!
-Dialogue: 0,0:02:22.27,0:02:23.68,DEFAULT,,0,0,0,,{\kf13}I{\kf18} ac{\kf13}tua{\kf13}lly{\kf18} fi{\kf13}nished{\kf26} some{\kf18}thing
-Dialogue: 0,0:02:23.94,0:02:24.67,DEFAULT,,0,0,0,,{\kf13}By{\kf26} my{\kf30}self!
+Dialogue: 0,0:00:05.89,0:00:08.21,DEFAULT,,0,0,0,,{\r}{\kf28}Beg{\kf11} for{\kf33} help,{\kf16} then{\kf22} quit{\kf11} when{\kf11} I{\kf16} get{\kf38} frus{\kf22}tra{\kf23}ted
+Dialogue: 0,0:00:10.86,0:00:13.52,DEFAULT,,0,0,0,,{\r}{\kf18}Just{\kf41} kid{\kf47}ding!{\kf18} To{\kf12}tal{\kf18} op{\kf18}po{\kf18}site{\kf12} of{\kf35} that,{\kf18} got{\kf11} it
+Dialogue: 0,0:00:23.72,0:00:26.16,DEFAULT,,0,0,0,,{\r}{\kf29}Frus{\kf29}tra{\kf29}tion{\kf50} builds{\kf29} up{\kf22} in{\kf56}side
+Dialogue: 0,0:00:26.50,0:00:28.69,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf12} it{\kf43} makes{\kf30} you{\kf49} wan{\kf12}na{\kf55} shout
+Dialogue: 0,0:01:12.39,0:01:15.60,DEFAULT,,0,0,0,,{\r}{\kf34}There{\kf17} are{\kf39} times{\kf28} when{\kf28} you{\kf56} wa{\kf34}-ant{\kf23} to{\kf39} give{\kf23} up
+Dialogue: 0,0:01:16.03,0:01:21.65,DEFAULT,,0,0,0,,{\r}{\kf32}When{\kf16} you{\kf64} think{\kf32} that{\kf21} you{\kf59} can't{\kf37} go{\kf32}-o{\kf32} o{\kf236}-on
+Dialogue: 0,0:01:47.65,0:01:50.01,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf19} I{\kf26} know{\kf13} I{\kf32} can't{\kf38} give{\kf26} up{\kf26} too{\kf43} soon
+Dialogue: 0,0:01:50.48,0:01:52.58,DEFAULT,,0,0,0,,{\r}{\kf18}Get{\kf18} my{\kf35}self{\kf47} in{\kf18} the{\kf74} zone
+Dialogue: 0,0:01:53.27,0:01:55.92,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf13} I{\kf19} find{\kf13} I{\kf32} can{\kf57} walk,{\kf32} then{\kf81} run
+Dialogue: 0,0:01:56.44,0:02:01.11,DEFAULT,,0,0,0,,{\r}{\kf22}Then{\kf144} fly{\kf148}-y{\kf153}-y
+Dialogue: 0,0:02:01.41,0:02:05.82,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf14} can{\kf14} do{\kf14} it{\kf14} on{\kf43} my{\kf278} own{\kf50}-ah
+Dialogue: 0,0:02:12.20,0:02:16.53,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf14} can{\kf14} do{\kf14} it{\kf14} on{\kf24} my{\kf339} own
+Dialogue: 0,0:02:17.60,0:02:20.04,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf15} can{\kf15} do{\kf15} it{\kf15} on{\kf34} my{\kf135} own
+Dialogue: 0,0:02:21.37,0:02:21.84,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} did{\kf15} it!
+Dialogue: 0,0:02:22.27,0:02:23.69,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf19} ac{\kf14}tua{\kf14}lly{\kf19} fi{\kf14}nished{\kf28} some{\kf19}thing
+Dialogue: 0,0:02:23.94,0:02:24.67,DEFAULT,,0,0,0,,{\r}{\kf14}By{\kf27} my{\kf32}self!

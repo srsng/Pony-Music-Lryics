@@ -1,77 +1,84 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Bright Eyes (A Wonky Anthem)
+Artist: Ponky, Eccentrifuge
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.11,0:00:11.49,DEFAULT,,0,0,0,,{\kf21}She{\kf21} looks{\kf21} out{\kf21}side{\kf14} her{\kf14} win{\kf21}dow{\kf21} at{\kf14} the{\kf14} ri{\kf21}sing{\kf35} sun
-Dialogue: 0,0:00:11.69,0:00:15.96,DEFAULT,,0,0,0,,{\kf14}And{\kf14} she{\kf21} al{\kf21}so{\kf21} looks{\kf14} at{\kf14} the{\kf14} same{\kf35} time{\kf14} at{\kf14} her{\kf28} be{\kf21}lo{\kf21}ved{\kf49} one
-Dialogue: 0,0:00:16.10,0:00:18.44,DEFAULT,,0,0,0,,{\kf28}Din{\kf14}ky's{\kf14} sor{\kf14}ting{\kf14} out{\kf14} the{\kf14} mail{\kf14} for{\kf14} her
-Dialogue: 0,0:00:18.57,0:00:23.05,DEFAULT,,0,0,0,,{\kf21}In{\kf42} such{\kf42} a{\kf56} thought{\kf56}ful{\kf200} way
-Dialogue: 0,0:00:23.53,0:00:25.45,DEFAULT,,0,0,0,,{\kf21}She{\kf35} sad{\kf14}dles{\kf14} up{\kf21} her{\kf21} bags{\kf28} and
-Dialogue: 0,0:00:25.80,0:00:29.72,DEFAULT,,0,0,0,,{\kf21}Peeks{\kf21} in{\kf21} the{\kf21} loo{\kf14}king{\kf21} glass{\kf21} and{\kf21} hears{\kf21} her{\kf21} daugh{\kf14}ter{\kf90} say
-Dialogue: 0,0:00:30.13,0:00:33.71,DEFAULT,,0,0,0,,{\kf21}"Hey{\kf28} Mom{\kf21}my,{\kf21} can{\kf21} you{\kf21} see{\kf21} how{\kf21} good{\kf21} you{\kf21} look{\kf14} to{\kf62}day
-Dialogue: 0,0:00:34.05,0:00:38.11,DEFAULT,,0,0,0,,{\kf21}Your{\kf21} right{\kf21} eye{\kf21} has{\kf21} a{\kf21} spar{\kf21}kle{\kf21} and{\kf21} the{\kf21} left{\kf21} one{\kf21} wants{\kf14} to{\kf49} play
-Dialogue: 0,0:00:38.46,0:00:44.79,DEFAULT,,0,0,0,,{\kf21}Your{\kf21} mane{\kf21} looks{\kf28} ex{\kf14}tra{\kf21} shi{\kf21}ny{\kf21} and{\kf21} your{\kf56} fea{\kf56}thers{\kf56} ex{\kf49}tra{\kf159} soft
-Dialogue: 0,0:00:45.06,0:00:48.71,DEFAULT,,0,0,0,,{\kf21}Your{\kf21} cu{\kf21}tie{\kf21} mark{\kf21} re{\kf14}minds{\kf21} me{\kf21} that{\kf14} our{\kf14} love{\kf14} will{\kf14} ne{\kf14}ver{\kf21} pop!"
-Dialogue: 0,0:00:49.19,0:00:50.98,DEFAULT,,0,0,0,,{\kf28}Oh-{\kf28}oh-{\kf35}oh,{\kf21} Dit{\kf14}zy{\kf28} Doo!
-Dialogue: 0,0:00:51.33,0:00:53.39,DEFAULT,,0,0,0,,{\kf21}All{\kf21} the{\kf21} world's{\kf21} in{\kf21} love{\kf21} with{\kf42} you
-Dialogue: 0,0:00:53.53,0:00:55.66,DEFAULT,,0,0,0,,{\kf21}It's{\kf21} like{\kf14} you're{\kf14} a{\kf35} fresh-{\kf28}baked{\kf14} muf{\kf28}fin
-Dialogue: 0,0:00:55.80,0:00:57.59,DEFAULT,,0,0,0,,{\kf14}And{\kf21} the{\kf21} rest{\kf21} of{\kf21} us{\kf21} are{\kf21} you
-Dialogue: 0,0:00:57.93,0:00:59.79,DEFAULT,,0,0,0,,{\kf21}Ah-{\kf21}ah-{\kf42}ah,{\kf14} D{\kf28}er{\kf35}py!
-Dialogue: 0,0:01:00.13,0:01:02.68,DEFAULT,,0,0,0,,{\kf21}Tell{\kf21} me,{\kf21} can{\kf21} those{\kf21} bright{\kf35} eyes{\kf76} see
-Dialogue: 0,0:01:02.88,0:01:07.50,DEFAULT,,0,0,0,,{\kf21}You{\kf21} make{\kf21} li{\kf21}ving{\kf28} hap{\kf21}pi{\kf14}er{\kf21} for{\kf21} e{\kf21}very{\kf21}po{\kf35}n{\kf124}y
-Dialogue: 0,0:01:08.66,0:01:10.59,DEFAULT,,0,0,0,,{\kf21}She{\kf21} takes{\kf21} off{\kf21} down{\kf14} the{\kf21} road{\kf21} in
-Dialogue: 0,0:01:10.87,0:01:12.79,DEFAULT,,0,0,0,,{\kf21}Search{\kf21} of{\kf14} the{\kf21} day's{\kf21} first{\kf28} home{\kf28} and
-Dialogue: 0,0:01:13.00,0:01:16.85,DEFAULT,,0,0,0,,{\kf35}Al{\kf28}though{\kf14} it{\kf14} takes{\kf14} a{\kf35} mo{\kf21}ment{\kf21} she{\kf21} spots{\kf21} the{\kf28} bou{\kf69}tique
-Dialogue: 0,0:01:17.54,0:01:19.40,DEFAULT,,0,0,0,,{\kf14}A{\kf14} white{\kf21} mare{\kf21} can{\kf14}ters{\kf28} out{\kf21} and
-Dialogue: 0,0:01:19.61,0:01:21.67,DEFAULT,,0,0,0,,{\kf21}Her{\kf21} lips{\kf14} rise{\kf14} from{\kf14} a{\kf35} pout{\kf28} when
-Dialogue: 0,0:01:21.88,0:01:25.52,DEFAULT,,0,0,0,,{\kf14}She{\kf14} can{\kf21}not{\kf21} help{\kf21} but{\kf21} shout{\kf14} "Hel{\kf28}lo!"{\kf14} to{\kf14} that{\kf28} gray{\kf62} streak
-Dialogue: 0,0:01:26.35,0:01:28.34,DEFAULT,,0,0,0,,{\kf21}Then{\kf21} in{\kf21} the{\kf21} mar{\kf28}ket{\kf28}place{\kf35} where
-Dialogue: 0,0:01:28.48,0:01:30.41,DEFAULT,,0,0,0,,{\kf21}E{\kf14}very{\kf21} eye{\kf21} knows{\kf21} her{\kf21} face{\kf21} she's
-Dialogue: 0,0:01:30.68,0:01:34.67,DEFAULT,,0,0,0,,{\kf28}Gree{\kf21}ted{\kf21} by{\kf21} their{\kf21} good{\kf21} grace{\kf14} and{\kf21} she{\kf21} has{\kf14} none{\kf28} to{\kf62} spare
-Dialogue: 0,0:01:35.09,0:01:39.35,DEFAULT,,0,0,0,,{\kf14}A{\kf14} farm{\kf14} mare{\kf21} sel{\kf14}ling{\kf28} ap{\kf28}ples{\kf21} tos{\kf14}ses{\kf21} our{\kf14} friend{\kf14} a{\kf21} hat{\kf42}ful
-Dialogue: 0,0:01:39.56,0:01:43.41,DEFAULT,,0,0,0,,{\kf21}It's{\kf21} more{\kf21} than{\kf21} she{\kf21} can{\kf21} grap{\kf21}ple,{\kf14} but{\kf14} she{\kf21} thanks{\kf14} the{\kf83} mare
-Dialogue: 0,0:01:43.96,0:01:48.30,DEFAULT,,0,0,0,,{\kf21}Though{\kf21} she's{\kf14} a{\kf14} lit{\kf21}tle{\kf35} won{\kf35}ky,{\kf21} each{\kf28} po{\kf14}ny{\kf28} and{\kf21} each{\kf42} don{\kf35}key
-Dialogue: 0,0:01:48.44,0:01:52.43,DEFAULT,,0,0,0,,{\kf14}To{\kf21}ge{\kf14}ther{\kf21} and{\kf21} all{\kf28} on{\kf14} key{\kf21} sing{\kf14} for{\kf21} her{\kf14} a{\kf97} song
-Dialogue: 0,0:01:53.11,0:01:54.90,DEFAULT,,0,0,0,,{\kf28}Oh-{\kf28}oh-{\kf35}oh{\kf28} Dit{\kf14}zy{\kf35} Doo!
-Dialogue: 0,0:01:55.25,0:01:57.24,DEFAULT,,0,0,0,,{\kf21}All{\kf14} the{\kf21} world's{\kf21} in{\kf21} love{\kf21} with{\kf42} you
-Dialogue: 0,0:01:57.38,0:01:59.65,DEFAULT,,0,0,0,,{\kf14}It's{\kf14} like{\kf14} you're{\kf21} a{\kf28} fresh{\kf21}-baked{\kf28} muf{\kf35}fin
-Dialogue: 0,0:01:59.86,0:02:01.78,DEFAULT,,0,0,0,,{\kf7}And{\kf7} the{\kf21} rest{\kf21} of{\kf21} us{\kf21} are{\kf56} you
-Dialogue: 0,0:02:01.92,0:02:03.92,DEFAULT,,0,0,0,,{\kf21}Ah-{\kf21}ah-{\kf49}ah,{\kf42} Der{\kf56}py!
-Dialogue: 0,0:02:04.33,0:02:06.46,DEFAULT,,0,0,0,,{\kf14}Tell{\kf14} me{\kf21} can{\kf14} those{\kf14} bright{\kf14} eyes{\kf62} see
-Dialogue: 0,0:02:06.81,0:02:11.83,DEFAULT,,0,0,0,,{\kf21}You{\kf21} make{\kf28} li{\kf21}ving{\kf21} hap{\kf21}pi{\kf35}er{\kf14} for{\kf28} e{\kf28}very{\kf21}po{\kf35}n{\kf173}y
-Dialogue: 0,0:02:28.55,0:02:30.68,DEFAULT,,0,0,0,,{\kf14}It{\kf14} wasn't{\kf21} that{\kf14} long{\kf35} ago{\kf14} that{\kf7} I{\kf21} didn't{\kf21} know
-Dialogue: 0,0:02:30.82,0:02:32.40,DEFAULT,,0,0,0,,{\kf7}Who{\kf7} I{\kf14} was{\kf21} going{\kf14} to{\kf62} become
-Dialogue: 0,0:02:32.82,0:02:34.95,DEFAULT,,0,0,0,,{\kf7}I{\kf14} thought{\kf7} I{\kf7} saw{\kf7} the{\kf28} whole{\kf21} world{\kf7} laid{\kf21} out{\kf7} in{\kf7} front{\kf7} of{\kf7} me
-Dialogue: 0,0:02:35.09,0:02:37.01,DEFAULT,,0,0,0,,{\kf7}And{\kf7} I{\kf21} couldn't{\kf14} be{\kf14} any{\kf14} more{\kf21} scared{\kf7} than{\kf14} that
-Dialogue: 0,0:02:37.15,0:02:40.18,DEFAULT,,0,0,0,,{\kf7}I{\kf14} saw{\kf7} a{\kf21} world{\kf7} full{\kf7} of{\kf28} dark,{\kf14} no{\kf28} color,{\kf14} no{\kf28} light,{\kf7} no{\kf56} laughter
-Dialogue: 0,0:02:40.32,0:02:41.76,DEFAULT,,0,0,0,,{\kf14}Well,{\kf7} we've{\kf14} all{\kf14} been{\kf28} there{\kf28} right?
-Dialogue: 0,0:02:41.97,0:02:45.06,DEFAULT,,0,0,0,,{\kf14}Out{\kf7} of{\kf7} the{\kf28} dark,{\kf28} six{\kf21} kind{\kf21} souls{\kf14} came{\kf14} into{\kf14} my{\kf28} life
-Dialogue: 0,0:02:45.20,0:02:45.89,DEFAULT,,0,0,0,,{\kf14}And this{\kf7} is{\kf7} what{\kf7} they{\kf7} said:
-Dialogue: 0,0:02:46.03,0:02:48.50,DEFAULT,,0,0,0,,{\kf7}"You've{\kf14} gotta{\kf14} bring{\kf14} back{\kf14} the{\kf14} kid{\kf28} inside,{\kf14} full{\kf14} of{\kf42} innocence
-Dialogue: 0,0:02:48.64,0:02:50.77,DEFAULT,,0,0,0,,{\kf14}Don't{\kf14} be{\kf21} afraid,{\kf7} spread{\kf7} your{\kf14} love{\kf21} like{\kf56} Cadence
-Dialogue: 0,0:02:50.91,0:02:52.15,DEFAULT,,0,0,0,,{\kf14}You've{\kf7} got{\kf7} a{\kf14} ways{\kf7} left{\kf7} to{\kf21} go
-Dialogue: 0,0:02:53.18,0:02:54.35,DEFAULT,,0,0,0,,{\kf7}But{\kf7} it{\kf7} won't{\kf7} hurt{\kf7} to{\kf7} let{\kf7} it{\kf21} show"
-Dialogue: 0,0:03:13.48,0:03:15.27,DEFAULT,,0,0,0,,{\kf28}Oh-{\kf28}oh-{\kf35}oh,{\kf21} Dit{\kf14}zy{\kf28} Doo!
-Dialogue: 0,0:03:15.61,0:03:17.68,DEFAULT,,0,0,0,,{\kf21}All{\kf21} the{\kf21} world's{\kf21} in{\kf21} love{\kf21} with{\kf42} you
-Dialogue: 0,0:03:17.82,0:03:19.95,DEFAULT,,0,0,0,,{\kf21}It's{\kf21} like{\kf14} you're{\kf14} a{\kf35} fresh-{\kf28}baked{\kf14} muf{\kf28}fin
-Dialogue: 0,0:03:20.09,0:03:21.88,DEFAULT,,0,0,0,,{\kf14}And{\kf21} the{\kf21} rest{\kf21} of{\kf21} us{\kf21} are{\kf21} you
-Dialogue: 0,0:03:22.22,0:03:24.08,DEFAULT,,0,0,0,,{\kf21}Ah-{\kf21}ah-{\kf42}ah,{\kf14} D{\kf28}er{\kf35}py!
-Dialogue: 0,0:03:24.42,0:03:26.97,DEFAULT,,0,0,0,,{\kf21}Tell{\kf21} me,{\kf21} can{\kf21} those{\kf21} bright{\kf35} eyes{\kf76} see
-Dialogue: 0,0:03:27.17,0:03:30.75,DEFAULT,,0,0,0,,{\kf21}You{\kf21} make{\kf21} li{\kf21}ving{\kf28} hap{\kf21}pi{\kf14}er{\kf21} for{\kf21} e{\kf21}very{\kf21}po{\kf35}n{\kf21}y
-Dialogue: 0,0:03:30.96,0:03:32.75,DEFAULT,,0,0,0,,{\kf28}Oh-{\kf28}oh-{\kf35}oh,{\kf21} Dit{\kf14}zy{\kf28} Doo!
-Dialogue: 0,0:03:33.09,0:03:35.16,DEFAULT,,0,0,0,,{\kf21}All{\kf21} the{\kf21} world's{\kf21} in{\kf21} love{\kf21} with{\kf42} you
-Dialogue: 0,0:03:35.29,0:03:37.43,DEFAULT,,0,0,0,,{\kf21}It's{\kf21} like{\kf14} you're{\kf14} a{\kf35} fresh-{\kf28}baked{\kf14} muf{\kf28}fin
-Dialogue: 0,0:03:37.56,0:03:39.35,DEFAULT,,0,0,0,,{\kf14}and{\kf21} the{\kf21} rest{\kf21} of{\kf21} us{\kf21} are{\kf21} you
-Dialogue: 0,0:03:39.70,0:03:41.55,DEFAULT,,0,0,0,,{\kf21}Ah-{\kf21}ah-{\kf42}ah,{\kf14} D{\kf28}er{\kf35}py!
-Dialogue: 0,0:03:41.90,0:03:44.44,DEFAULT,,0,0,0,,{\kf21}Tell{\kf21} me,{\kf21} can{\kf21} those{\kf21} bright{\kf35} eyes{\kf76} see
-Dialogue: 0,0:03:44.65,0:03:48.23,DEFAULT,,0,0,0,,{\kf21}You{\kf21} make{\kf21} li{\kf21}ving{\kf28} hap{\kf21}pi{\kf14}er{\kf21} for{\kf21} e{\kf21}very{\kf21}po{\kf35}n{\kf21}y
-Dialogue: 0,0:03:49.12,0:03:52.70,DEFAULT,,0,0,0,,{\kf21}You{\kf21} make{\kf21} li{\kf21}ving{\kf28} hap{\kf21}pi{\kf14}er{\kf21} for{\kf21} e{\kf21}very{\kf21}po{\kf35}n{\kf21}y
-Dialogue: 0,0:03:53.66,0:03:57.24,DEFAULT,,0,0,0,,{\kf21}You{\kf21} make{\kf21} li{\kf21}ving{\kf28} hap{\kf21}pi{\kf14}er{\kf21} for{\kf21} e{\kf21}very{\kf21}po{\kf35}n{\kf21}y
-Dialogue: 0,0:03:57.93,0:04:05.36,DEFAULT,,0,0,0,,{\kf21}You{\kf21} make{\kf21} li{\kf21}ving{\kf28} hap{\kf21}pi{\kf14}er{\kf21} for{\kf21} e{\kf21}very{\kf42}po{\kf104}n{\kf276}y
+Dialogue: 0,0:00:08.12,0:00:11.49,DEFAULT,,0,0,0,,{\r}{\kf30}She{\kf30} looks{\kf30} out{\kf30}side{\kf20} her{\kf20} win{\kf30}dow{\kf30} at{\kf20} the{\kf20} ri{\kf30}sing{\kf47} sun
+Dialogue: 0,0:00:11.70,0:00:15.96,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} she{\kf28} al{\kf28}so{\kf28} looks{\kf19} at{\kf19} the{\kf19} same{\kf47} time{\kf19} at{\kf19} her{\kf38} be{\kf28}lo{\kf28}ved{\kf69} one
+Dialogue: 0,0:00:16.10,0:00:18.44,DEFAULT,,0,0,0,,{\r}{\kf47}Din{\kf23}ky's{\kf23} sor{\kf23}ting{\kf23} out{\kf23} the{\kf23} mail{\kf23} for{\kf26} her
+Dialogue: 0,0:00:18.58,0:00:23.05,DEFAULT,,0,0,0,,{\r}{\kf22}In{\kf45} such{\kf45} a{\kf60} thought{\kf60}ful{\kf215} way
+Dialogue: 0,0:00:23.53,0:00:25.46,DEFAULT,,0,0,0,,{\r}{\kf26}She{\kf44} sad{\kf18}dles{\kf18} up{\kf26} her{\kf26} bags{\kf35} and
+Dialogue: 0,0:00:25.80,0:00:29.72,DEFAULT,,0,0,0,,{\r}{\kf27}Peeks{\kf27} in{\kf27} the{\kf27} loo{\kf18}king{\kf27} glass{\kf27} and{\kf27} hears{\kf27} her{\kf27} daugh{\kf18}ter{\kf113} say
+Dialogue: 0,0:00:30.14,0:00:33.72,DEFAULT,,0,0,0,,{\r}{\kf26}"Hey{\kf34} Mom{\kf26}my,{\kf26} can{\kf26} you{\kf26} see{\kf26} how{\kf26} good{\kf26} you{\kf26} look{\kf17} to{\kf73}day
+Dialogue: 0,0:00:34.06,0:00:38.12,DEFAULT,,0,0,0,,{\r}{\kf27}Your{\kf27} right{\kf27} eye{\kf27} has{\kf27} a{\kf27} spar{\kf27}kle{\kf27} and{\kf27} the{\kf27} left{\kf27} one{\kf27} wants{\kf18} to{\kf64} play
+Dialogue: 0,0:00:38.46,0:00:44.79,DEFAULT,,0,0,0,,{\r}{\kf23}Your{\kf23} mane{\kf23} looks{\kf31} ex{\kf16}tra{\kf23} shi{\kf23}ny{\kf23} and{\kf23} your{\kf63} fea{\kf63}thers{\kf63} ex{\kf55}tra{\kf181} soft
+Dialogue: 0,0:00:45.07,0:00:48.72,DEFAULT,,0,0,0,,{\r}{\kf30}Your{\kf30} cu{\kf30}tie{\kf30} mark{\kf30} re{\kf20}minds{\kf30} me{\kf30} that{\kf20} our{\kf20} love{\kf20} will{\kf20} ne{\kf20}ver{\kf35} pop!"
+Dialogue: 0,0:00:49.20,0:00:50.99,DEFAULT,,0,0,0,,{\r}{\kf33}Oh-{\kf33}oh-{\kf41}oh,{\kf24} Dit{\kf16}zy{\kf32} Doo!
+Dialogue: 0,0:00:51.33,0:00:53.39,DEFAULT,,0,0,0,,{\r}{\kf26}All{\kf26} the{\kf26} world's{\kf26} in{\kf26} love{\kf26} with{\kf50} you
+Dialogue: 0,0:00:53.53,0:00:55.67,DEFAULT,,0,0,0,,{\r}{\kf26}It's{\kf26} like{\kf17} you're{\kf17} a{\kf43} fresh-{\kf34}baked{\kf17} muf{\kf33}fin
+Dialogue: 0,0:00:55.80,0:00:57.59,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf27} the{\kf27} rest{\kf27} of{\kf27} us{\kf27} are{\kf26} you
+Dialogue: 0,0:00:57.94,0:00:59.79,DEFAULT,,0,0,0,,{\r}{\kf24}Ah-{\kf24}ah-{\kf49}ah,{\kf16} D{\kf32}er{\kf41}py!
+Dialogue: 0,0:01:00.14,0:01:02.68,DEFAULT,,0,0,0,,{\r}{\kf25}Tell{\kf25} me,{\kf25} can{\kf25} those{\kf25} bright{\kf41} eyes{\kf89} see
+Dialogue: 0,0:01:02.89,0:01:07.50,DEFAULT,,0,0,0,,{\r}{\kf25}You{\kf25} make{\kf25} li{\kf25}ving{\kf33} hap{\kf25}pi{\kf16}er{\kf25} for{\kf25} e{\kf25}very{\kf25}po{\kf41}n{\kf146}y
+Dialogue: 0,0:01:08.67,0:01:10.60,DEFAULT,,0,0,0,,{\r}{\kf29}She{\kf29} takes{\kf29} off{\kf29} down{\kf19} the{\kf29} road{\kf29} in
+Dialogue: 0,0:01:10.87,0:01:12.80,DEFAULT,,0,0,0,,{\r}{\kf26}Search{\kf26} of{\kf18} the{\kf26} day's{\kf26} first{\kf35} home{\kf36} and
+Dialogue: 0,0:01:13.00,0:01:16.86,DEFAULT,,0,0,0,,{\r}{\kf42}Al{\kf33}though{\kf17} it{\kf17} takes{\kf17} a{\kf42} mo{\kf25}ment{\kf25} she{\kf25} spots{\kf25} the{\kf33} bou{\kf84}tique
+Dialogue: 0,0:01:17.55,0:01:19.40,DEFAULT,,0,0,0,,{\r}{\kf20}A{\kf20} white{\kf29} mare{\kf29} can{\kf20}ters{\kf39} out{\kf29} and
+Dialogue: 0,0:01:19.61,0:01:21.67,DEFAULT,,0,0,0,,{\r}{\kf29}Her{\kf29} lips{\kf20} rise{\kf20} from{\kf20} a{\kf49} pout{\kf39} when
+Dialogue: 0,0:01:21.88,0:01:25.53,DEFAULT,,0,0,0,,{\r}{\kf19}She{\kf19} can{\kf28}not{\kf28} help{\kf28} but{\kf28} shout{\kf19} "Hel{\kf37}lo!"{\kf19} to{\kf19} that{\kf37} gray{\kf84} streak
+Dialogue: 0,0:01:26.35,0:01:28.35,DEFAULT,,0,0,0,,{\r}{\kf24}Then{\kf24} in{\kf24} the{\kf24} mar{\kf32}ket{\kf32}place{\kf40} where
+Dialogue: 0,0:01:28.49,0:01:30.41,DEFAULT,,0,0,0,,{\r}{\kf29}E{\kf19}very{\kf29} eye{\kf29} knows{\kf29} her{\kf29} face{\kf29} she's
+Dialogue: 0,0:01:30.69,0:01:34.68,DEFAULT,,0,0,0,,{\r}{\kf38}Gree{\kf28}ted{\kf28} by{\kf28} their{\kf28} good{\kf28} grace{\kf19} and{\kf28} she{\kf28} has{\kf19} none{\kf38} to{\kf89} spare
+Dialogue: 0,0:01:35.09,0:01:39.36,DEFAULT,,0,0,0,,{\r}{\kf21}A{\kf21} farm{\kf21} mare{\kf32} sel{\kf21}ling{\kf43} ap{\kf43}ples{\kf32} tos{\kf21}ses{\kf32} our{\kf21} friend{\kf21} a{\kf32} hat{\kf66}ful
+Dialogue: 0,0:01:39.56,0:01:43.42,DEFAULT,,0,0,0,,{\r}{\kf28}It's{\kf28} more{\kf28} than{\kf28} she{\kf28} can{\kf28} grap{\kf28}ple,{\kf18} but{\kf18} she{\kf28} thanks{\kf18} the{\kf107} mare
+Dialogue: 0,0:01:43.97,0:01:48.30,DEFAULT,,0,0,0,,{\r}{\kf26}Though{\kf26} she's{\kf17} a{\kf17} lit{\kf26}tle{\kf43} won{\kf43}ky,{\kf26} each{\kf35} po{\kf17}ny{\kf35} and{\kf26} each{\kf52} don{\kf44}key
+Dialogue: 0,0:01:48.44,0:01:52.43,DEFAULT,,0,0,0,,{\r}{\kf19}To{\kf28}ge{\kf19}ther{\kf28} and{\kf28} all{\kf37} on{\kf19} key{\kf28} sing{\kf19} for{\kf28} her{\kf19} a{\kf127} song
+Dialogue: 0,0:01:53.12,0:01:54.91,DEFAULT,,0,0,0,,{\r}{\kf30}Oh-{\kf30}oh-{\kf37}oh{\kf30} Dit{\kf15}zy{\kf37} Doo!
+Dialogue: 0,0:01:55.25,0:01:57.25,DEFAULT,,0,0,0,,{\r}{\kf26}All{\kf17} the{\kf26} world's{\kf26} in{\kf26} love{\kf26} with{\kf53} you
+Dialogue: 0,0:01:57.39,0:01:59.66,DEFAULT,,0,0,0,,{\r}{\kf18}It's{\kf18} like{\kf18} you're{\kf27} a{\kf36} fresh{\kf27}-baked{\kf36} muf{\kf47}fin
+Dialogue: 0,0:01:59.86,0:02:01.79,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf10} the{\kf26} rest{\kf26} of{\kf26} us{\kf26} are{\kf69} you
+Dialogue: 0,0:02:01.93,0:02:03.92,DEFAULT,,0,0,0,,{\r}{\kf22}Ah-{\kf22}ah-{\kf52}ah,{\kf44} Der{\kf60}py!
+Dialogue: 0,0:02:04.33,0:02:06.47,DEFAULT,,0,0,0,,{\r}{\kf19}Tell{\kf19} me{\kf29} can{\kf19} those{\kf19} bright{\kf19} eyes{\kf89} see
+Dialogue: 0,0:02:06.81,0:02:11.83,DEFAULT,,0,0,0,,{\r}{\kf22}You{\kf22} make{\kf30} li{\kf22}ving{\kf22} hap{\kf22}pi{\kf37}er{\kf15} for{\kf30} e{\kf30}very{\kf22}po{\kf37}n{\kf191}y
+Dialogue: 0,0:02:28.56,0:02:30.69,DEFAULT,,0,0,0,,{\r}{\kf19}It{\kf19} wasn't{\kf28} that{\kf19} long{\kf46} ago{\kf19} that{\kf10} I{\kf28} didn't{\kf25} know
+Dialogue: 0,0:02:30.83,0:02:32.41,DEFAULT,,0,0,0,,{\r}{\kf10}Who{\kf10} I{\kf18} was{\kf26} going{\kf18} to{\kf76} become
+Dialogue: 0,0:02:32.82,0:02:34.95,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf20} thought{\kf10} I{\kf10} saw{\kf10} the{\kf41} whole{\kf30} world{\kf10} laid{\kf30} out{\kf10} in{\kf10} front{\kf10} of{\kf12} me
+Dialogue: 0,0:02:35.09,0:02:37.02,DEFAULT,,0,0,0,,{\r}{\kf11}And{\kf11} I{\kf34} couldn't{\kf23} be{\kf23} any{\kf23} more{\kf34} scared{\kf11} than{\kf23} that
+Dialogue: 0,0:02:37.16,0:02:40.18,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf18} saw{\kf10} a{\kf27} world{\kf10} full{\kf10} of{\kf36} dark,{\kf18} no{\kf36} color,{\kf18} no{\kf36} light,{\kf10} no{\kf64} laughter
+Dialogue: 0,0:02:40.32,0:02:41.77,DEFAULT,,0,0,0,,{\r}{\kf19}Well,{\kf10} we've{\kf19} all{\kf19} been{\kf38} there{\kf39} right?
+Dialogue: 0,0:02:41.97,0:02:45.07,DEFAULT,,0,0,0,,{\r}{\kf22}Out{\kf11} of{\kf11} the{\kf44} dark,{\kf44} six{\kf33} kind{\kf33} souls{\kf22} came{\kf22} into{\kf22} my{\kf46} life
+Dialogue: 0,0:02:45.21,0:02:45.89,DEFAULT,,0,0,0,,{\r}{\kf23}And this{\kf12} is{\kf12} what{\kf12} they{\kf10} said:
+Dialogue: 0,0:02:46.03,0:02:48.51,DEFAULT,,0,0,0,,{\r}{\kf10}"You've{\kf20} gotta{\kf20} bring{\kf20} back{\kf20} the{\kf20} kid{\kf40} inside,{\kf20} full{\kf20} of{\kf58} innocence
+Dialogue: 0,0:02:48.65,0:02:50.78,DEFAULT,,0,0,0,,{\r}{\kf19}Don't{\kf19} be{\kf29} afraid,{\kf10} spread{\kf10} your{\kf19} love{\kf29} like{\kf78} Cadence
+Dialogue: 0,0:02:50.92,0:02:52.16,DEFAULT,,0,0,0,,{\r}{\kf23}You've{\kf11} got{\kf11} a{\kf23} ways{\kf11} left{\kf11} to{\kf34} go
+Dialogue: 0,0:02:53.19,0:02:54.36,DEFAULT,,0,0,0,,{\r}{\kf12}But{\kf12} it{\kf12} won't{\kf12} hurt{\kf12} to{\kf12} let{\kf12} it{\kf33} show"
+Dialogue: 0,0:03:13.49,0:03:15.28,DEFAULT,,0,0,0,,{\r}{\kf33}Oh-{\kf33}oh-{\kf41}oh,{\kf24} Dit{\kf16}zy{\kf32} Doo!
+Dialogue: 0,0:03:15.62,0:03:17.68,DEFAULT,,0,0,0,,{\r}{\kf26}All{\kf26} the{\kf26} world's{\kf26} in{\kf26} love{\kf26} with{\kf50} you
+Dialogue: 0,0:03:17.82,0:03:19.95,DEFAULT,,0,0,0,,{\r}{\kf26}It's{\kf26} like{\kf17} you're{\kf17} a{\kf43} fresh-{\kf34}baked{\kf17} muf{\kf33}fin
+Dialogue: 0,0:03:20.09,0:03:21.88,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf27} the{\kf27} rest{\kf27} of{\kf27} us{\kf27} are{\kf26} you
+Dialogue: 0,0:03:22.22,0:03:24.08,DEFAULT,,0,0,0,,{\r}{\kf24}Ah-{\kf24}ah-{\kf49}ah,{\kf16} D{\kf32}er{\kf41}py!
+Dialogue: 0,0:03:24.43,0:03:26.97,DEFAULT,,0,0,0,,{\r}{\kf25}Tell{\kf25} me,{\kf25} can{\kf25} those{\kf25} bright{\kf41} eyes{\kf89} see
+Dialogue: 0,0:03:27.18,0:03:30.76,DEFAULT,,0,0,0,,{\r}{\kf26}You{\kf26} make{\kf26} li{\kf26}ving{\kf35} hap{\kf26}pi{\kf17}er{\kf26} for{\kf26} e{\kf26}very{\kf26}po{\kf44}n{\kf28}y
+Dialogue: 0,0:03:30.96,0:03:32.75,DEFAULT,,0,0,0,,{\r}{\kf33}Oh-{\kf33}oh-{\kf41}oh,{\kf24} Dit{\kf16}zy{\kf32} Doo!
+Dialogue: 0,0:03:33.10,0:03:35.16,DEFAULT,,0,0,0,,{\r}{\kf26}All{\kf26} the{\kf26} world's{\kf26} in{\kf26} love{\kf26} with{\kf50} you
+Dialogue: 0,0:03:35.30,0:03:37.43,DEFAULT,,0,0,0,,{\r}{\kf26}It's{\kf26} like{\kf17} you're{\kf17} a{\kf43} fresh-{\kf34}baked{\kf17} muf{\kf33}fin
+Dialogue: 0,0:03:37.57,0:03:39.36,DEFAULT,,0,0,0,,{\r}{\kf18}and{\kf27} the{\kf27} rest{\kf27} of{\kf27} us{\kf27} are{\kf26} you
+Dialogue: 0,0:03:39.70,0:03:41.56,DEFAULT,,0,0,0,,{\r}{\kf24}Ah-{\kf24}ah-{\kf49}ah,{\kf16} D{\kf32}er{\kf41}py!
+Dialogue: 0,0:03:41.90,0:03:44.45,DEFAULT,,0,0,0,,{\r}{\kf25}Tell{\kf25} me,{\kf25} can{\kf25} those{\kf25} bright{\kf41} eyes{\kf89} see
+Dialogue: 0,0:03:44.66,0:03:48.23,DEFAULT,,0,0,0,,{\r}{\kf26}You{\kf26} make{\kf26} li{\kf26}ving{\kf35} hap{\kf26}pi{\kf17}er{\kf26} for{\kf26} e{\kf26}very{\kf26}po{\kf44}n{\kf28}y
+Dialogue: 0,0:03:49.13,0:03:52.71,DEFAULT,,0,0,0,,{\r}{\kf26}You{\kf26} make{\kf26} li{\kf26}ving{\kf35} hap{\kf26}pi{\kf17}er{\kf26} for{\kf26} e{\kf26}very{\kf26}po{\kf44}n{\kf28}y
+Dialogue: 0,0:03:53.67,0:03:57.25,DEFAULT,,0,0,0,,{\r}{\kf26}You{\kf26} make{\kf26} li{\kf26}ving{\kf35} hap{\kf26}pi{\kf17}er{\kf26} for{\kf26} e{\kf26}very{\kf26}po{\kf44}n{\kf28}y
+Dialogue: 0,0:03:57.94,0:04:05.37,DEFAULT,,0,0,0,,{\r}{\kf24}You{\kf24} make{\kf24} li{\kf24}ving{\kf33} hap{\kf24}pi{\kf16}er{\kf24} for{\kf24} e{\kf24}very{\kf49}po{\kf122}n{\kf331}y

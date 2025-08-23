@@ -1,80 +1,87 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Friendship is Magic in the Town of Ponyville
+Artist: Amy Keating Rogers
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:17.89,0:00:19.93,DEFAULT,,0,0,0,,{\kf47}My{\kf12} Lit{\kf24}tle{\kf41} Po{\kf59}ny
-Dialogue: 0,0:00:21.91,0:00:23.90,DEFAULT,,0,0,0,,{\kf30}Friend{\kf18}ship{\kf18} is{\kf18} Ma{\kf24}-a{\kf71}gic
-Dialogue: 0,0:00:25.65,0:00:27.52,DEFAULT,,0,0,0,,{\kf18}Come{\kf24} on{\kf24} and{\kf18} le{\kf30}-et's{\kf41} meet
-Dialogue: 0,0:00:27.57,0:00:29.85,DEFAULT,,0,0,0,,{\kf36}Our{\kf18} po{\kf18}ny{\kf135} friends
-Dialogue: 0,0:00:33.18,0:00:35.10,DEFAULT,,0,0,0,,{\kf41}There's{\kf18} Twi{\kf18}light{\kf41} Spar{\kf53}kle
-Dialogue: 0,0:00:36.91,0:00:38.95,DEFAULT,,0,0,0,,{\kf12}An{\kf30} al{\kf12}i{\kf30}corn{\kf36} po{\kf65}ny
-Dialogue: 0,0:00:40.65,0:00:42.46,DEFAULT,,0,0,0,,{\kf12}To{\kf30} books{\kf12} and{\kf12} to{\kf24} le{\kf24}-es{\kf41}sons
-Dialogue: 0,0:00:42.57,0:00:45.26,DEFAULT,,0,0,0,,{\kf30}This{\kf24} po{\kf18}ny{\kf24} te{\kf18}-e{\kf129}-ends
-Dialogue: 0,0:00:48.18,0:00:50.10,DEFAULT,,0,0,0,,{\kf24}Fri{\kf24}-end{\kf36}ship{\kf12} is{\kf24} Ma{\kf41}gic
-Dialogue: 0,0:00:50.22,0:00:52.61,DEFAULT,,0,0,0,,{\kf41}In{\kf12} the{\kf30} town{\kf12} of{\kf24} Po{\kf12}ny{\kf71}ville
-Dialogue: 0,0:00:53.14,0:00:53.84,DEFAULT,,0,0,0,,{\kf12}That's{\kf12} right,{\kf12} sing{\kf18} it!
-Dialogue: 0,0:00:55.53,0:00:57.28,DEFAULT,,0,0,0,,{\kf24}Hel{\kf18}ping{\kf47} lear{\kf24}ni-{\kf36}ing
-Dialogue: 0,0:00:57.34,0:01:00.26,DEFAULT,,0,0,0,,{\kf59}And{\kf18} get{\kf12}tin'{\kf18} a{\kf24}lo{\kf12}-o{\kf106}-ong
-Dialogue: 0,0:01:03.41,0:01:04.93,DEFAULT,,0,0,0,,{\kf41}For{\kf12} the{\kf24} Mane{\kf53} Six
-Dialogue: 0,0:01:05.04,0:01:09.36,DEFAULT,,0,0,0,,{\kf24}This{\kf36} ma{\kf71}gic{\kf82} is{\kf24}n't{\kf47} just{\kf117} tricks
-Dialogue: 0,0:01:09.65,0:01:11.05,DEFAULT,,0,0,0,,{\kf18}Hearts{\kf24} and{\kf88} hooves
-Dialogue: 0,0:01:12.69,0:01:15.66,DEFAULT,,0,0,0,,{\kf18}These{\kf18} po{\kf30}-o{\kf12}nies{\kf12} are{\kf181} strong
-Dialogue: 0,0:01:18.52,0:01:20.97,DEFAULT,,0,0,0,,{\kf24}Flu{\kf24}-ut{\kf12}ter{\kf24}shy{\kf41} takes{\kf106} care
-Dialogue: 0,0:01:22.26,0:01:25.47,DEFAULT,,0,0,0,,{\kf18}Of{\kf18} all{\kf12} the{\kf24} sweet{\kf18} cre{\kf24}-a{\kf181}tures
-Dialogue: 0,0:01:26.05,0:01:27.86,DEFAULT,,0,0,0,,{\kf18}That{\kf24} po{\kf18}ny{\kf18} is{\kf18} ti{\kf18}-i{\kf30}mid
-Dialogue: 0,0:01:27.98,0:01:31.48,DEFAULT,,0,0,0,,{\kf41}Yet{\kf18} she{\kf18} is{\kf257} brave
-Dialogue: 0,0:01:33.52,0:01:36.56,DEFAULT,,0,0,0,,{\kf47}Rain{\kf12}bow{\kf24} Dash{\kf30} ra{\kf164}ces
-Dialogue: 0,0:01:37.26,0:01:39.77,DEFAULT,,0,0,0,,{\kf12}With{\kf24} pe{\kf12}ga{\kf24}sus{\kf36} pas{\kf111}sion
-Dialogue: 0,0:01:41.05,0:01:42.74,DEFAULT,,0,0,0,,{\kf12}Too{\kf24} bad{\kf36} that{\kf18} po{\kf24}-o{\kf30}ny
-Dialogue: 0,0:01:42.86,0:01:46.36,DEFAULT,,0,0,0,,{\kf41}Just{\kf18} won't{\kf18} be{\kf18}ha{\kf18}-a{\kf205}-ave
-Dialogue: 0,0:01:48.46,0:01:50.27,DEFAULT,,0,0,0,,{\kf18}Fri{\kf18}-end{\kf24}shi{\kf24}-ip{\kf18} is{\kf18} Ma{\kf36}gic
-Dialogue: 0,0:01:50.39,0:01:53.31,DEFAULT,,0,0,0,,{\kf36}In{\kf18} the{\kf24} town{\kf12} of{\kf24} Po{\kf12}ny{\kf129}ville
-Dialogue: 0,0:01:55.64,0:01:57.33,DEFAULT,,0,0,0,,{\kf24}Hel{\kf18}ping{\kf41} lear{\kf18}ni-{\kf41}ing
-Dialogue: 0,0:01:57.51,0:02:00.95,DEFAULT,,0,0,0,,{\kf53}And{\kf24} get{\kf18}ting{\kf12} a{\kf18}lo{\kf18}-o{\kf164}-ong
-Dialogue: 0,0:02:03.64,0:02:04.92,DEFAULT,,0,0,0,,{\kf24}For{\kf12} the{\kf24} Mane{\kf53} Six
-Dialogue: 0,0:02:05.10,0:02:09.30,DEFAULT,,0,0,0,,{\kf24}This{\kf41} ma{\kf59}gic{\kf94} is{\kf24}n't{\kf41} just{\kf106} tricks
-Dialogue: 0,0:02:09.59,0:02:10.70,DEFAULT,,0,0,0,,{\kf18}Hearts{\kf24} and{\kf59} hooves
-Dialogue: 0,0:02:12.62,0:02:15.25,DEFAULT,,0,0,0,,{\kf18}These{\kf12} po{\kf24}-o{\kf12}nies{\kf12} are{\kf146} strong
-Dialogue: 0,0:02:18.46,0:02:21.38,DEFAULT,,0,0,0,,{\kf12}A{\kf24}-Ap{\kf18}ple{\kf24}jack{\kf36} works{\kf152} hard
-Dialogue: 0,0:02:22.25,0:02:25.00,DEFAULT,,0,0,0,,{\kf12}Just{\kf24} like{\kf18} all{\kf18} Earth{\kf12} po{\kf18}-o{\kf135}nies
-Dialogue: 0,0:02:25.93,0:02:27.68,DEFAULT,,0,0,0,,{\kf18}Pu{\kf24}-ut{\kf18}ting{\kf18} the{\kf18} po{\kf24}-o{\kf30}ny
-Dialogue: 0,0:02:27.80,0:02:31.07,DEFAULT,,0,0,0,,{\kf36}Be{\kf18}fore{\kf18} the{\kf228} cart
-Dialogue: 0,0:02:33.40,0:02:35.50,DEFAULT,,0,0,0,,{\kf18}And{\kf18} Ra{\kf18}ri{\kf24}ty's{\kf36} beau{\kf65}ty
-Dialogue: 0,0:02:37.14,0:02:40.00,DEFAULT,,0,0,0,,{\kf18}Finds{\kf18} all{\kf12} the{\kf18} great{\kf41} trea{\kf146}sures
-Dialogue: 0,0:02:40.81,0:02:42.27,DEFAULT,,0,0,0,,{\kf18}Ma{\kf24}-ak{\kf12}ing{\kf12} them{\kf18} spa{\kf18}-ar{\kf12}kle
-Dialogue: 0,0:02:42.39,0:02:46.07,DEFAULT,,0,0,0,,{\kf12}And{\kf41} shine{\kf18} like{\kf18} her{\kf24} hea{\kf18}-a{\kf205}-art
-Dialogue: 0,0:02:48.05,0:02:49.86,DEFAULT,,0,0,0,,{\kf18}Fri{\kf18}-end{\kf18}shi{\kf24}-ip{\kf12} is{\kf18} Ma{\kf41}gic
-Dialogue: 0,0:02:50.03,0:02:52.54,DEFAULT,,0,0,0,,{\kf36}In{\kf12} the{\kf24} town{\kf12} of{\kf18} Po{\kf12}ny{\kf106}ville
-Dialogue: 0,0:02:55.05,0:02:56.69,DEFAULT,,0,0,0,,{\kf24}Hel{\kf18}ping{\kf41} lear{\kf24}ni-{\kf36}ing
-Dialogue: 0,0:02:56.80,0:03:00.25,DEFAULT,,0,0,0,,{\kf53}And{\kf24} get{\kf18}ting{\kf18} a{\kf18}lo{\kf12}-o{\kf164}-ong
-Dialogue: 0,0:03:02.64,0:03:04.16,DEFAULT,,0,0,0,,{\kf24}Fo{\kf24}-or{\kf12} the{\kf18} Mane{\kf53} Six
-Dialogue: 0,0:03:04.33,0:03:08.53,DEFAULT,,0,0,0,,{\kf18}This{\kf36} ma{\kf65}gic{\kf82} is{\kf24}n't{\kf36} just{\kf117} tricks
-Dialogue: 0,0:03:08.71,0:03:09.70,DEFAULT,,0,0,0,,{\kf24}Hearts{\kf12} and{\kf53} hooves
-Dialogue: 0,0:03:11.57,0:03:15.54,DEFAULT,,0,0,0,,{\kf24}These{\kf18} po{\kf18}-o{\kf12}nies{\kf12} are{\kf281} strong
-Dialogue: 0,0:03:17.35,0:03:19.74,DEFAULT,,0,0,0,,{\kf36}Pin{\kf12}kie{\kf18} Pie's{\kf41} laugh{\kf111}ter
-Dialogue: 0,0:03:20.85,0:03:23.42,DEFAULT,,0,0,0,,{\kf12}Is{\kf24} what{\kf12} makes{\kf12} her{\kf18} spe{\kf12}-e{\kf129}cial
-Dialogue: 0,0:03:24.47,0:03:26.16,DEFAULT,,0,0,0,,{\kf12}Her{\kf41} smile{\kf18} shi{\kf24}-ine{\kf30} bright
-Dialogue: 0,0:03:26.28,0:03:29.84,DEFAULT,,0,0,0,,{\kf30}Just{\kf18} like{\kf12} the{\kf269} sun
-Dialogue: 0,0:03:31.70,0:03:33.98,DEFAULT,,0,0,0,,{\kf12}To{\kf18}get{\kf12}her{\kf18} these{\kf41} six{\kf94} friends
-Dialogue: 0,0:03:35.21,0:03:37.07,DEFAULT,,0,0,0,,{\kf12}Are{\kf24} so{\kf12} e{\kf18}le{\kf36}men{\kf47}tal
-Dialogue: 0,0:03:38.82,0:03:40.34,DEFAULT,,0,0,0,,{\kf18}For{\kf18} har{\kf12}mo{\kf18}ny{\kf18} bi{\kf24}-inds{\kf12} them
-Dialogue: 0,0:03:40.46,0:03:43.67,DEFAULT,,0,0,0,,{\kf18}And{\kf36} can't{\kf18} be{\kf18} un{\kf18}do{\kf12}-o{\kf164}-one
-Dialogue: 0,0:03:46.06,0:03:47.87,DEFAULT,,0,0,0,,{\kf18}Fri{\kf18}end{\kf18}shi{\kf24}-ip{\kf12} is{\kf18} Ma{\kf41}gic
-Dialogue: 0,0:03:47.99,0:03:50.96,DEFAULT,,0,0,0,,{\kf41}In{\kf12} the{\kf24} town{\kf12} of{\kf18} Po{\kf12}ny{\kf146}ville
-Dialogue: 0,0:03:53.12,0:03:54.64,DEFAULT,,0,0,0,,{\kf24}Hel{\kf18}ping{\kf41} lear{\kf18}ni-{\kf30}ing
-Dialogue: 0,0:03:54.76,0:03:58.32,DEFAULT,,0,0,0,,{\kf59}And{\kf30} get{\kf12}ting{\kf12} a{\kf18}lo{\kf18}-o{\kf176}-ong
-Dialogue: 0,0:04:00.53,0:04:01.99,DEFAULT,,0,0,0,,{\kf18}Fo{\kf24}-or{\kf18} the{\kf12} Mane{\kf53} Six
-Dialogue: 0,0:04:02.17,0:04:06.20,DEFAULT,,0,0,0,,{\kf24}This{\kf36} ma{\kf65}gic{\kf76} is{\kf18}n't{\kf41} just{\kf94} tricks
-Dialogue: 0,0:04:06.49,0:04:08.18,DEFAULT,,0,0,0,,{\kf18}Hearts{\kf24} and{\kf117} hooves
-Dialogue: 0,0:04:09.40,0:04:12.67,DEFAULT,,0,0,0,,{\kf18}These{\kf18} po{\kf24}-o{\kf12}nies{\kf12} are{\kf211} strong
-Dialogue: 0,0:04:15.01,0:04:16.41,DEFAULT,,0,0,0,,{\kf24}Fo{\kf18}-or{\kf12} the{\kf24} Mane{\kf47} Six
-Dialogue: 0,0:04:16.58,0:04:20.67,DEFAULT,,0,0,0,,{\kf24}This{\kf41} ma{\kf65}gic{\kf71} is{\kf24}n't{\kf41} just{\kf106} tricks
-Dialogue: 0,0:04:20.96,0:04:22.42,DEFAULT,,0,0,0,,{\kf24}Hearts{\kf18} and{\kf94} hooves
-Dialogue: 0,0:04:23.94,0:04:27.96,DEFAULT,,0,0,0,,{\kf18}These{\kf18} po{\kf24}-o{\kf18}nies{\kf12} are{\kf292} strong
+Dialogue: 0,0:00:17.89,0:00:19.93,DEFAULT,,0,0,0,,{\r}{\kf53}My{\kf13} Lit{\kf26}tle{\kf46} Po{\kf66}ny
+Dialogue: 0,0:00:21.92,0:00:23.90,DEFAULT,,0,0,0,,{\r}{\kf33}Friend{\kf20}ship{\kf20} is{\kf20} Ma{\kf26}-a{\kf79}gic
+Dialogue: 0,0:00:25.65,0:00:27.52,DEFAULT,,0,0,0,,{\r}{\kf22}Come{\kf29} on{\kf29} and{\kf22} le{\kf36}-et's{\kf49} meet
+Dialogue: 0,0:00:27.58,0:00:29.86,DEFAULT,,0,0,0,,{\r}{\kf39}Our{\kf20} po{\kf20}ny{\kf149} friends
+Dialogue: 0,0:00:33.18,0:00:35.11,DEFAULT,,0,0,0,,{\r}{\kf47}There's{\kf20} Twi{\kf20}light{\kf47} Spar{\kf59}kle
+Dialogue: 0,0:00:36.92,0:00:38.96,DEFAULT,,0,0,0,,{\r}{\kf13}An{\kf33} al{\kf13}i{\kf33}corn{\kf39} po{\kf73}ny
+Dialogue: 0,0:00:40.65,0:00:42.46,DEFAULT,,0,0,0,,{\r}{\kf14}To{\kf35} books{\kf14} and{\kf14} to{\kf28} le{\kf28}-es{\kf48}sons
+Dialogue: 0,0:00:42.58,0:00:45.26,DEFAULT,,0,0,0,,{\r}{\kf33}This{\kf26} po{\kf20}ny{\kf26} te{\kf20}-e{\kf143}-ends
+Dialogue: 0,0:00:48.18,0:00:50.11,DEFAULT,,0,0,0,,{\r}{\kf29}Fri{\kf29}-end{\kf43}ship{\kf14} is{\kf29} Ma{\kf49}gic
+Dialogue: 0,0:00:50.22,0:00:52.62,DEFAULT,,0,0,0,,{\r}{\kf49}In{\kf14} the{\kf35} town{\kf14} of{\kf28} Po{\kf14}ny{\kf85}ville
+Dialogue: 0,0:00:53.14,0:00:53.84,DEFAULT,,0,0,0,,{\r}{\kf16}That's{\kf16} right,{\kf16} sing{\kf22} it!
+Dialogue: 0,0:00:55.53,0:00:57.28,DEFAULT,,0,0,0,,{\r}{\kf28}Hel{\kf21}ping{\kf56} lear{\kf28}ni-{\kf42}ing
+Dialogue: 0,0:00:57.34,0:01:00.26,DEFAULT,,0,0,0,,{\r}{\kf70}And{\kf21} get{\kf14}tin'{\kf21} a{\kf28}lo{\kf14}-o{\kf124}-ong
+Dialogue: 0,0:01:03.41,0:01:04.93,DEFAULT,,0,0,0,,{\r}{\kf48}For{\kf14} the{\kf28} Mane{\kf62} Six
+Dialogue: 0,0:01:05.05,0:01:09.37,DEFAULT,,0,0,0,,{\r}{\kf25}This{\kf38} ma{\kf76}gic{\kf89} is{\kf25}n't{\kf51} just{\kf128} tricks
+Dialogue: 0,0:01:09.66,0:01:11.06,DEFAULT,,0,0,0,,{\r}{\kf19}Hearts{\kf25} and{\kf96} hooves
+Dialogue: 0,0:01:12.69,0:01:15.67,DEFAULT,,0,0,0,,{\r}{\kf19}These{\kf19} po{\kf32}-o{\kf13}nies{\kf13} are{\kf202} strong
+Dialogue: 0,0:01:18.53,0:01:20.98,DEFAULT,,0,0,0,,{\r}{\kf25}Flu{\kf25}-ut{\kf13}ter{\kf25}shy{\kf44} takes{\kf113} care
+Dialogue: 0,0:01:22.26,0:01:25.47,DEFAULT,,0,0,0,,{\r}{\kf19}Of{\kf19} all{\kf13} the{\kf26} sweet{\kf19} cre{\kf26}-a{\kf199}tures
+Dialogue: 0,0:01:26.06,0:01:27.87,DEFAULT,,0,0,0,,{\r}{\kf23}That{\kf30} po{\kf23}ny{\kf23} is{\kf23} ti{\kf23}-i{\kf36}mid
+Dialogue: 0,0:01:27.98,0:01:31.48,DEFAULT,,0,0,0,,{\r}{\kf43}Yet{\kf18} she{\kf18} is{\kf271} brave
+Dialogue: 0,0:01:33.53,0:01:36.56,DEFAULT,,0,0,0,,{\r}{\kf52}Rain{\kf13}bow{\kf26} Dash{\kf32} ra{\kf180}ces
+Dialogue: 0,0:01:37.26,0:01:39.77,DEFAULT,,0,0,0,,{\r}{\kf14}With{\kf27} pe{\kf14}ga{\kf27}sus{\kf41} pas{\kf128}sion
+Dialogue: 0,0:01:41.06,0:01:42.75,DEFAULT,,0,0,0,,{\r}{\kf14}Too{\kf28} bad{\kf42} that{\kf21} po{\kf28}-o{\kf36}ny
+Dialogue: 0,0:01:42.86,0:01:46.37,DEFAULT,,0,0,0,,{\r}{\kf45}Just{\kf19} won't{\kf19} be{\kf19}ha{\kf19}-a{\kf229}-ave
+Dialogue: 0,0:01:48.47,0:01:50.28,DEFAULT,,0,0,0,,{\r}{\kf21}Fri{\kf21}-end{\kf28}shi{\kf28}-ip{\kf21} is{\kf21} Ma{\kf41}gic
+Dialogue: 0,0:01:50.39,0:01:53.31,DEFAULT,,0,0,0,,{\r}{\kf41}In{\kf20} the{\kf27} town{\kf14} of{\kf27} Po{\kf14}ny{\kf149}ville
+Dialogue: 0,0:01:55.65,0:01:57.34,DEFAULT,,0,0,0,,{\r}{\kf28}Hel{\kf21}ping{\kf49} lear{\kf21}ni-{\kf50}ing
+Dialogue: 0,0:01:57.51,0:02:00.96,DEFAULT,,0,0,0,,{\r}{\kf60}And{\kf26} get{\kf20}ting{\kf13} a{\kf20}lo{\kf20}-o{\kf185}-ong
+Dialogue: 0,0:02:03.64,0:02:04.93,DEFAULT,,0,0,0,,{\r}{\kf27}For{\kf13} the{\kf27} Mane{\kf61} Six
+Dialogue: 0,0:02:05.10,0:02:09.30,DEFAULT,,0,0,0,,{\r}{\kf25}This{\kf45} ma{\kf64}gic{\kf102} is{\kf25}n't{\kf45} just{\kf114} tricks
+Dialogue: 0,0:02:09.59,0:02:10.70,DEFAULT,,0,0,0,,{\r}{\kf20}Hearts{\kf26} and{\kf65} hooves
+Dialogue: 0,0:02:12.63,0:02:15.26,DEFAULT,,0,0,0,,{\r}{\kf21}These{\kf14} po{\kf28}-o{\kf14}nies{\kf14} are{\kf172} strong
+Dialogue: 0,0:02:18.47,0:02:21.38,DEFAULT,,0,0,0,,{\r}{\kf13}A{\kf26}-Ap{\kf19}ple{\kf26}jack{\kf39} works{\kf169} hard
+Dialogue: 0,0:02:22.26,0:02:25.00,DEFAULT,,0,0,0,,{\r}{\kf14}Just{\kf27} like{\kf21} all{\kf21} Earth{\kf14} po{\kf21}-o{\kf156}nies
+Dialogue: 0,0:02:25.94,0:02:27.69,DEFAULT,,0,0,0,,{\r}{\kf21}Pu{\kf28}-ut{\kf21}ting{\kf21} the{\kf21} po{\kf28}-o{\kf35}ny
+Dialogue: 0,0:02:27.80,0:02:31.07,DEFAULT,,0,0,0,,{\r}{\kf38}Be{\kf19}fore{\kf19} the{\kf251} cart
+Dialogue: 0,0:02:33.41,0:02:35.51,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} Ra{\kf21}ri{\kf28}ty's{\kf42} beau{\kf77}ty
+Dialogue: 0,0:02:37.14,0:02:40.00,DEFAULT,,0,0,0,,{\r}{\kf20}Finds{\kf20} all{\kf13} the{\kf20} great{\kf47} trea{\kf166}sures
+Dialogue: 0,0:02:40.82,0:02:42.28,DEFAULT,,0,0,0,,{\r}{\kf23}Ma{\kf31}-ak{\kf15}ing{\kf15} them{\kf23} spa{\kf23}-ar{\kf16}kle
+Dialogue: 0,0:02:42.39,0:02:46.07,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf45} shine{\kf19} like{\kf19} her{\kf26} hea{\kf19}-a{\kf227}-art
+Dialogue: 0,0:02:48.05,0:02:49.86,DEFAULT,,0,0,0,,{\r}{\kf22}Fri{\kf22}-end{\kf22}shi{\kf29}-ip{\kf14} is{\kf22} Ma{\kf50}gic
+Dialogue: 0,0:02:50.04,0:02:52.55,DEFAULT,,0,0,0,,{\r}{\kf41}In{\kf14} the{\kf27} town{\kf14} of{\kf20} Po{\kf14}ny{\kf121}ville
+Dialogue: 0,0:02:55.06,0:02:56.69,DEFAULT,,0,0,0,,{\r}{\kf27}Hel{\kf20}ping{\kf48} lear{\kf27}ni-{\kf41}ing
+Dialogue: 0,0:02:56.81,0:03:00.25,DEFAULT,,0,0,0,,{\r}{\kf60}And{\kf26} get{\kf20}ting{\kf20} a{\kf20}lo{\kf13}-o{\kf185}-ong
+Dialogue: 0,0:03:02.64,0:03:04.16,DEFAULT,,0,0,0,,{\r}{\kf28}Fo{\kf28}-or{\kf14} the{\kf21} Mane{\kf61} Six
+Dialogue: 0,0:03:04.34,0:03:08.54,DEFAULT,,0,0,0,,{\r}{\kf20}This{\kf39} ma{\kf72}gic{\kf92} is{\kf26}n't{\kf39} just{\kf132} tricks
+Dialogue: 0,0:03:08.71,0:03:09.71,DEFAULT,,0,0,0,,{\r}{\kf26}Hearts{\kf13} and{\kf60} hooves
+Dialogue: 0,0:03:11.57,0:03:15.54,DEFAULT,,0,0,0,,{\r}{\kf26}These{\kf19} po{\kf19}-o{\kf13}nies{\kf13} are{\kf307} strong
+Dialogue: 0,0:03:17.35,0:03:19.74,DEFAULT,,0,0,0,,{\r}{\kf39}Pin{\kf13}kie{\kf19} Pie's{\kf45} laugh{\kf123}ter
+Dialogue: 0,0:03:20.85,0:03:23.42,DEFAULT,,0,0,0,,{\r}{\kf14}Is{\kf28} what{\kf14} makes{\kf14} her{\kf21} spe{\kf14}-e{\kf152}cial
+Dialogue: 0,0:03:24.47,0:03:26.16,DEFAULT,,0,0,0,,{\r}{\kf16}Her{\kf56} smile{\kf24} shi{\kf32}-ine{\kf41} bright
+Dialogue: 0,0:03:26.28,0:03:29.84,DEFAULT,,0,0,0,,{\r}{\kf32}Just{\kf19} like{\kf13} the{\kf292} sun
+Dialogue: 0,0:03:31.71,0:03:33.98,DEFAULT,,0,0,0,,{\r}{\kf14}To{\kf21}get{\kf14}her{\kf21} these{\kf48} six{\kf110} friends
+Dialogue: 0,0:03:35.21,0:03:37.08,DEFAULT,,0,0,0,,{\r}{\kf15}Are{\kf30} so{\kf15} e{\kf22}le{\kf45}men{\kf60}tal
+Dialogue: 0,0:03:38.83,0:03:40.35,DEFAULT,,0,0,0,,{\r}{\kf23}For{\kf23} har{\kf15}mo{\kf23}ny{\kf23} bi{\kf30}-inds{\kf15} them
+Dialogue: 0,0:03:40.46,0:03:43.67,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf40} can't{\kf20} be{\kf20} un{\kf20}do{\kf13}-o{\kf188}-one
+Dialogue: 0,0:03:46.07,0:03:47.87,DEFAULT,,0,0,0,,{\r}{\kf22}Fri{\kf22}end{\kf22}shi{\kf29}-ip{\kf14} is{\kf22} Ma{\kf50}gic
+Dialogue: 0,0:03:47.99,0:03:50.97,DEFAULT,,0,0,0,,{\r}{\kf46}In{\kf13} the{\kf26} town{\kf13} of{\kf20} Po{\kf13}ny{\kf167}ville
+Dialogue: 0,0:03:53.13,0:03:54.64,DEFAULT,,0,0,0,,{\r}{\kf28}Hel{\kf21}ping{\kf48} lear{\kf21}ni-{\kf34}ing
+Dialogue: 0,0:03:54.76,0:03:58.32,DEFAULT,,0,0,0,,{\r}{\kf65}And{\kf32} get{\kf13}ting{\kf13} a{\kf19}lo{\kf19}-o{\kf195}-ong
+Dialogue: 0,0:04:00.54,0:04:02.00,DEFAULT,,0,0,0,,{\r}{\kf21}Fo{\kf28}-or{\kf21} the{\kf14} Mane{\kf62} Six
+Dialogue: 0,0:04:02.17,0:04:06.20,DEFAULT,,0,0,0,,{\r}{\kf27}This{\kf40} ma{\kf74}gic{\kf87} is{\kf20}n't{\kf47} just{\kf108} tricks
+Dialogue: 0,0:04:06.49,0:04:08.18,DEFAULT,,0,0,0,,{\r}{\kf19}Hearts{\kf25} and{\kf125} hooves
+Dialogue: 0,0:04:09.41,0:04:12.68,DEFAULT,,0,0,0,,{\r}{\kf20}These{\kf20} po{\kf26}-o{\kf13}nies{\kf13} are{\kf235} strong
+Dialogue: 0,0:04:15.01,0:04:16.41,DEFAULT,,0,0,0,,{\r}{\kf27}Fo{\kf20}-or{\kf13} the{\kf27} Mane{\kf53} Six
+Dialogue: 0,0:04:16.59,0:04:20.67,DEFAULT,,0,0,0,,{\r}{\kf26}This{\kf45} ma{\kf71}gic{\kf78} is{\kf26}n't{\kf45} just{\kf118} tricks
+Dialogue: 0,0:04:20.97,0:04:22.42,DEFAULT,,0,0,0,,{\r}{\kf25}Hearts{\kf19} and{\kf102} hooves
+Dialogue: 0,0:04:23.94,0:04:27.97,DEFAULT,,0,0,0,,{\r}{\kf19}These{\kf19} po{\kf25}-o{\kf19}nies{\kf12} are{\kf309} strong

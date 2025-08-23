@@ -1,77 +1,84 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Kindness (Cover)
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by lily
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:24.36,0:00:29.89,DEFAULT,,0,0,0,,{\kf2709}Oh{\kf2451}-oh{\kf2690} woah
-Dialogue: 0,0:00:30.36,0:00:35.89,DEFAULT,,0,0,0,,{\kf2690}Oh,{\kf2447} woah{\kf2447}-oh{\kf2447}-woah{\kf2672}-oh
-Dialogue: 0,0:00:36.36,0:00:41.89,DEFAULT,,0,0,0,,{\kf2709}Oh{\kf2447}-oh{\kf2690} woah
-Dialogue: 0,0:00:42.36,0:00:48.08,DEFAULT,,0,0,0,,{\kf2690}Oh,{\kf2447} woah{\kf2447}-oh{\kf2447}-woah{\kf2690}-oh
-Dialogue: 0,0:00:52.86,0:00:55.25,DEFAULT,,0,0,0,,{\kf2465}There's{\kf2447} a{\kf2456} chance{\kf2465} that{\kf2456} I{\kf2456} could{\kf2470} fall
-Dialogue: 0,0:00:55.49,0:00:57.50,DEFAULT,,0,0,0,,{\kf2456}And{\kf2465} no{\kf2456}-ot{\kf2451} co{\kf2461}-ome{\kf2470} back
-Dialogue: 0,0:00:58.68,0:01:00.83,DEFAULT,,0,0,0,,{\kf2447}And{\kf2447} ne{\kf2465}ver{\kf2447} re{\kf2465}gret{\kf2447} a{\kf2447} thi{\kf2484}-ing
-Dialogue: 0,0:01:01.49,0:01:03.74,DEFAULT,,0,0,0,,{\kf2465}I'd{\kf2451} ne{\kf2447}ver{\kf2465} get{\kf2465} back{\kf2465} on{\kf2475} track
-Dialogue: 0,0:01:04.86,0:01:06.83,DEFAULT,,0,0,0,,{\kf2456}Dark{\kf2456}ness{\kf2465} all{\kf2447} a{\kf2461}round{\kf2461} me
-Dialogue: 0,0:01:07.16,0:01:08.75,DEFAULT,,0,0,0,,{\kf2461}I{\kf2456} can't{\kf2465} find{\kf2447} the{\kf2465} light
-Dialogue: 0,0:01:09.18,0:01:11.33,DEFAULT,,0,0,0,,{\kf2447}I{\kf2447} let{\kf2447} i{\kf2447}-it{\kf2456} all{\kf2465} sur{\kf2456}round{\kf2465} me
-Dialogue: 0,0:01:11.61,0:01:14.24,DEFAULT,,0,0,0,,{\kf2447}Gi{\kf2447}vi{\kf2447}-ing{\kf2456} up{\kf2456} with{\kf2465}out{\kf2456} a{\kf2494} fight
-Dialogue: 0,0:01:15.18,0:01:17.75,DEFAULT,,0,0,0,,{\kf2447}The{\kf2447} bit{\kf2465}ter{\kf2456}ness{\kf2461} and{\kf2465} pain{\kf2456} in{\kf2475}side
-Dialogue: 0,0:01:18.36,0:01:20.85,DEFAULT,,0,0,0,,{\kf2447}Count{\kf2456}less{\kf2447} te{\kf2447}-ears{\kf2465} I{\kf2465} had{\kf2456} to{\kf2479} cry
-Dialogue: 0,0:01:21.36,0:01:23.71,DEFAULT,,0,0,0,,{\kf2447}I{\kf2456} was{\kf2456} fa{\kf2461}cing{\kf2461} all{\kf2465} my{\kf2465} fears
-Dialogue: 0,0:01:23.99,0:01:27.03,DEFAULT,,0,0,0,,{\kf2447}Just{\kf2447} to{\kf2447} let{\kf2465} you{\kf2465} in{\kf2465} to{\kf2465} dry{\kf2465} my{\kf2461} tears,{\kf2461} but
-Dialogue: 0,0:01:27.74,0:01:30.27,DEFAULT,,0,0,0,,{\kf2465}Your{\kf2447} ki{\kf2447}-ind{\kf2456}ness{\kf2465} won't{\kf2456} be{\kf2447}tra{\kf2447}-ay{\kf2465} me
-Dialogue: 0,0:01:30.74,0:01:33.27,DEFAULT,,0,0,0,,{\kf2465}I{\kf2447} fe{\kf2447}-eel{\kf2456} your{\kf2465} heart{\kf2456} and{\kf2465} so{\kf2465}-oul
-Dialogue: 0,0:01:33.74,0:01:36.27,DEFAULT,,0,0,0,,{\kf2465}Your{\kf2447} ki{\kf2447}-ind{\kf2456}ness{\kf2465} still{\kf2456} can{\kf2447} sa{\kf2447}-ave{\kf2465} me
-Dialogue: 0,0:01:36.55,0:01:38.99,DEFAULT,,0,0,0,,{\kf2447}If{\kf2465} I{\kf2456} choose{\kf2465} to{\kf2461} not{\kf2461} let{\kf2475} go
-Dialogue: 0,0:01:39.74,0:01:42.27,DEFAULT,,0,0,0,,{\kf2451}Stretch{\kf2447}ing{\kf2447} o{\kf2447}-out{\kf2456} you{\kf2465} some{\kf2465}how{\kf2447} re{\kf2447}-each{\kf2465} me
-Dialogue: 0,0:01:42.74,0:01:45.27,DEFAULT,,0,0,0,,{\kf2465}I{\kf2447} kno{\kf2447}-ow{\kf2456} this{\kf2465} can't{\kf2465} be{\kf2465} wro{\kf2465}-ong
-Dialogue: 0,0:01:45.74,0:01:48.32,DEFAULT,,0,0,0,,{\kf2465}I'm{\kf2447} re{\kf2447}-ea{\kf2465}-dy,{\kf2465} won't{\kf2465} you{\kf2447} te{\kf2447}-each{\kf2470} me
-Dialogue: 0,0:01:49.11,0:01:53.52,DEFAULT,,0,0,0,,{\kf2494}Your{\kf2494} song{\kf2494} of{\kf2484} ki{\kf2447}-ind{\kf2578}ness
-Dialogue: 0,0:01:55.86,0:01:58.30,DEFAULT,,0,0,0,,{\kf2465}Qui{\kf2447}et{\kf2456} grace{\kf2465} sur{\kf2465}ro{\kf2465}-ounds{\kf2470} you
-Dialogue: 0,0:01:58.68,0:02:00.60,DEFAULT,,0,0,0,,{\kf2447}And{\kf2456} helps{\kf2447} me{\kf2465} find{\kf2447} my{\kf2451}-y{\kf2475} own
-Dialogue: 0,0:02:01.11,0:02:03.97,DEFAULT,,0,0,0,,{\kf2447}I{\kf2465} can't{\kf2447} te{\kf2447}-ell{\kf2465} you{\kf2461} how{\kf2465} you've{\kf2456} helped{\kf2475} me
-Dialogue: 0,0:02:04.68,0:02:06.69,DEFAULT,,0,0,0,,{\kf2447}And{\kf2447} how{\kf2465} much{\kf2447} I{\kf2447}~{\kf2456} have{\kf2447} gro{\kf2470}-own
-Dialogue: 0,0:02:07.11,0:02:09.55,DEFAULT,,0,0,0,,{\kf2447}E{\kf2465}ven{\kf2447} tho{\kf2447}-ough{\kf2461} you're{\kf2465} far{\kf2465} a{\kf2470}way
-Dialogue: 0,0:02:10.11,0:02:12.32,DEFAULT,,0,0,0,,{\kf2456}In{\kf2447}spir{\kf2456}a{\kf2451}tion{\kf2456} comes{\kf2465} from{\kf2451} you
-Dialogue: 0,0:02:12.55,0:02:14.99,DEFAULT,,0,0,0,,{\kf2447}To{\kf2451} shine{\kf2447} a{\kf2465} lit{\kf2447}tle{\kf2465} bright{\kf2447}er{\kf2447} ev{\kf2447}ery{\kf2475} day
-Dialogue: 0,0:02:16.11,0:02:17.89,DEFAULT,,0,0,0,,{\kf2447}If{\kf2461} you{\kf2465} on{\kf2465}ly{\kf2479} knewâ€¦
-Dialogue: 0,0:02:18.36,0:02:20.57,DEFAULT,,0,0,0,,{\kf2447}I{\kf2465} will{\kf2447} ne{\kf2447}-e{\kf2465}ver{\kf2465} get{\kf2456} up{\kf2451}set
-Dialogue: 0,0:02:20.80,0:02:23.71,DEFAULT,,0,0,0,,{\kf2465}And{\kf2447} I{\kf2465}~{\kf2447} will{\kf2451} ne{\kf2447}-e{\kf2465}ver,{\kf2465} e{\kf2447}ver{\kf2451} for{\kf2465}get
-Dialogue: 0,0:02:24.18,0:02:26.57,DEFAULT,,0,0,0,,{\kf2447}The{\kf2447} hap{\kf2465}pi{\kf2451}ness{\kf2465} you{\kf2465} made{\kf2465} me{\kf2451} feel
-Dialogue: 0,0:02:26.80,0:02:31.77,DEFAULT,,0,0,0,,{\kf2465}Al{\kf2456}most{\kf2465} as{\kf2456} if{\kf2465} you're{\kf2465} ac{\kf2451}tual{\kf2451}ly{\kf2447}-y{\kf2465} re{\kf2494}-eal,{\kf2465} but
-Dialogue: 0,0:02:32.24,0:02:34.77,DEFAULT,,0,0,0,,{\kf2465}Your{\kf2447} ki{\kf2447}-ind{\kf2456}ness{\kf2465} won't{\kf2456} be{\kf2447}tra{\kf2447}-ay{\kf2465} me
-Dialogue: 0,0:02:35.24,0:02:37.77,DEFAULT,,0,0,0,,{\kf2465}I{\kf2447} fe{\kf2447}-eel{\kf2456} your{\kf2465} heart{\kf2456} and{\kf2465} so{\kf2465}-oul
-Dialogue: 0,0:02:38.24,0:02:40.77,DEFAULT,,0,0,0,,{\kf2465}Your{\kf2447} ki{\kf2447}-ind{\kf2456}ness{\kf2465} still{\kf2456} can{\kf2447} sa{\kf2447}-ave{\kf2461} me
-Dialogue: 0,0:02:41.05,0:02:43.49,DEFAULT,,0,0,0,,{\kf2447}If{\kf2465} I{\kf2456} choose{\kf2465} to{\kf2456} not{\kf2465} let{\kf2475} go
-Dialogue: 0,0:02:44.24,0:02:46.77,DEFAULT,,0,0,0,,{\kf2447}Stretch{\kf2447}ing{\kf2447} o{\kf2447}-out{\kf2456} you{\kf2465} some{\kf2465}how{\kf2447} re{\kf2447}-each{\kf2465} me
-Dialogue: 0,0:02:47.24,0:02:49.77,DEFAULT,,0,0,0,,{\kf2465}I{\kf2447} kno{\kf2447}-ow{\kf2456} this{\kf2465} can't{\kf2465} be{\kf2465} wro{\kf2465}-ong
-Dialogue: 0,0:02:50.24,0:02:52.77,DEFAULT,,0,0,0,,{\kf2465}I'm{\kf2447} re{\kf2447}-ea{\kf2461}-dy,{\kf2465} won't{\kf2465} you{\kf2447} te{\kf2447}-each{\kf2465} me
-Dialogue: 0,0:02:53.61,0:02:57.55,DEFAULT,,0,0,0,,{\kf2494}Your{\kf2494} song{\kf2479} of{\kf2461} ki{\kf2447}-i{\kf2447}-ind{\kf2461}-ne{\kf2512}-ess
-Dialogue: 0,0:03:23.24,0:03:25.68,DEFAULT,,0,0,0,,{\kf2465}Your{\kf2447} ki{\kf2447}-ind{\kf2451}ness{\kf2461} won't{\kf2456} be{\kf2447}tra{\kf2447}-ay{\kf2456} me
-Dialogue: 0,0:03:26.43,0:03:28.49,DEFAULT,,0,0,0,,{\kf2447}I{\kf2447} fe{\kf2447}-eel{\kf2447} your{\kf2465} heart{\kf2456} and{\kf2465} so{\kf2456}-oul
-Dialogue: 0,0:03:29.24,0:03:31.77,DEFAULT,,0,0,0,,{\kf2461}Your{\kf2447} ki{\kf2447}-ind{\kf2456}ness{\kf2465} still{\kf2456} can{\kf2447} sa{\kf2447}-ave{\kf2461} me
-Dialogue: 0,0:03:32.24,0:03:34.68,DEFAULT,,0,0,0,,{\kf2447}In{\kf2447} a{\kf2465} way{\kf2465} you'll{\kf2465} ne{\kf2465}ve{\kf2447}-er{\kf2470} know
-Dialogue: 0,0:03:35.24,0:03:37.77,DEFAULT,,0,0,0,,{\kf2461}Your{\kf2447} ki{\kf2447}-ind{\kf2456}ness{\kf2465} won't{\kf2456} be{\kf2447}tra{\kf2447}-ay{\kf2461} me
-Dialogue: 0,0:03:38.24,0:03:40.77,DEFAULT,,0,0,0,,{\kf2461}I{\kf2447} fe{\kf2447}-eel{\kf2456} your{\kf2465} heart{\kf2456} and{\kf2465} so{\kf2465}-oul
-Dialogue: 0,0:03:41.24,0:03:43.77,DEFAULT,,0,0,0,,{\kf2461}Your{\kf2447} ki{\kf2447}-ind{\kf2456}ness{\kf2465} still{\kf2456} can{\kf2447} sa{\kf2447}-ave{\kf2461} me
-Dialogue: 0,0:03:44.05,0:03:46.49,DEFAULT,,0,0,0,,{\kf2447}If{\kf2465} I{\kf2456} choose{\kf2465} to{\kf2456} not{\kf2465} let{\kf2470} go
-Dialogue: 0,0:03:47.24,0:03:49.77,DEFAULT,,0,0,0,,{\kf2447}Stretch{\kf2447}ing{\kf2447} o{\kf2447}-out{\kf2456} you{\kf2465} some{\kf2465}how{\kf2447} re{\kf2447}-each{\kf2465} me
-Dialogue: 0,0:03:50.24,0:03:52.77,DEFAULT,,0,0,0,,{\kf2465}I{\kf2447} kno{\kf2447}-ow{\kf2456} this{\kf2465} can't{\kf2465} be{\kf2465} wro{\kf2465}-ong
-Dialogue: 0,0:03:53.24,0:03:55.82,DEFAULT,,0,0,0,,{\kf2465}I'm{\kf2447} re{\kf2447}-ea{\kf2465}dy,{\kf2465} won't{\kf2465} you{\kf2447} te{\kf2447}-each{\kf2470} me
-Dialogue: 0,0:03:56.24,0:03:58.49,DEFAULT,,0,0,0,,{\kf2465}The{\kf2465} way{\kf2465} to{\kf2465} get{\kf2447} a{\kf2447}-a{\kf2475}long
-Dialogue: 0,0:03:59.24,0:04:01.86,DEFAULT,,0,0,0,,{\kf2447}E{\kf2447}ven{\kf2451} when{\kf2461} the{\kf2465} cold{\kf2456} wind's{\kf2447} blo{\kf2447}-ow{\kf2475}ing
-Dialogue: 0,0:04:02.24,0:04:04.77,DEFAULT,,0,0,0,,{\kf2447}And{\kf2447} I{\kf2447} wa{\kf2447}-ant{\kf2465} to{\kf2456} just{\kf2465} give{\kf2465} i{\kf2465}-in
-Dialogue: 0,0:04:05.24,0:04:07.77,DEFAULT,,0,0,0,,{\kf2465}It{\kf2451} warms{\kf2461} my{\kf2465} heart{\kf2456} just{\kf2447} kno{\kf2447}-ow{\kf2465}ing
-Dialogue: 0,0:04:08.24,0:04:10.68,DEFAULT,,0,0,0,,{\kf2465}I'll{\kf2465} hear{\kf2465} your{\kf2456} voice{\kf2465} a{\kf2447}-a{\kf2470}gain
-Dialogue: 0,0:04:11.24,0:04:13.68,DEFAULT,,0,0,0,,{\kf2465}So{\kf2447} wo{\kf2447}-on't{\kf2456} you{\kf2456} sing{\kf2465} it{\kf2465} lo{\kf2456}-oud
-Dialogue: 0,0:04:14.24,0:04:16.86,DEFAULT,,0,0,0,,{\kf2465}And{\kf2465} won't{\kf2456} you{\kf2465} sing{\kf2465} it{\kf2465} lo{\kf2475}-ong
-Dialogue: 0,0:04:17.24,0:04:19.82,DEFAULT,,0,0,0,,{\kf2465}I{\kf2447} pro{\kf2447}-o{\kf2456}mise{\kf2465} to{\kf2465} re{\kf2447}me{\kf2447}-em{\kf2470}ber
-Dialogue: 0,0:04:20.61,0:04:26.61,DEFAULT,,0,0,0,,{\kf2494}Your{\kf2494} song{\kf2494} of{\kf2484} ki{\kf2451}-ind{\kf2733}ness
-Dialogue: 0,0:04:35.24,0:04:39.32,DEFAULT,,0,0,0,,{\kf2461}I{\kf2447} pro{\kf2447}-o{\kf2456}mise{\kf2465} to{\kf2465} re{\kf2456}mem{\kf2498}be{\kf2550}-er
-Dialogue: 0,0:04:41.19,0:04:46.30,DEFAULT,,0,0,0,,{\kf2465}I{\kf2447} pro{\kf2447}-o{\kf2456}mise{\kf2465} to{\kf2465} re{\kf2456}mem{\kf2447}be{\kf2700}-erâ€¦
+Dialogue: 0,0:00:24.37,0:00:29.90,DEFAULT,,0,0,0,,{\r}{\kf279}Oh{\kf14}-oh{\kf260} woah
+Dialogue: 0,0:00:30.37,0:00:35.90,DEFAULT,,0,0,0,,{\r}{\kf271}Oh,{\kf10} woah{\kf10}-oh{\kf10}-woah{\kf252}-oh
+Dialogue: 0,0:00:36.37,0:00:41.90,DEFAULT,,0,0,0,,{\r}{\kf281}Oh{\kf10}-oh{\kf262} woah
+Dialogue: 0,0:00:42.37,0:00:48.09,DEFAULT,,0,0,0,,{\r}{\kf271}Oh,{\kf10} woah{\kf10}-oh{\kf10}-woah{\kf271}-oh
+Dialogue: 0,0:00:52.87,0:00:55.26,DEFAULT,,0,0,0,,{\r}{\kf43}There's{\kf14} a{\kf29} chance{\kf43} that{\kf29} I{\kf29} could{\kf52} fall
+Dialogue: 0,0:00:55.49,0:00:57.51,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf42} no{\kf28}-ot{\kf21} co{\kf35}-ome{\kf48} back
+Dialogue: 0,0:00:58.68,0:01:00.84,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf14} ne{\kf40}ver{\kf14} re{\kf40}gret{\kf14} a{\kf14} thi{\kf66}-ing
+Dialogue: 0,0:01:01.49,0:01:03.74,DEFAULT,,0,0,0,,{\r}{\kf36}I'd{\kf18} ne{\kf12}ver{\kf36} get{\kf36} back{\kf36} on{\kf51} track
+Dialogue: 0,0:01:04.87,0:01:06.84,DEFAULT,,0,0,0,,{\r}{\kf30}Dark{\kf30}ness{\kf45} all{\kf15} a{\kf38}round{\kf39} me
+Dialogue: 0,0:01:07.16,0:01:08.76,DEFAULT,,0,0,0,,{\r}{\kf35}I{\kf28} can't{\kf41} find{\kf14} the{\kf41} light
+Dialogue: 0,0:01:09.18,0:01:11.34,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf15} let{\kf15} i{\kf15}-it{\kf31} all{\kf46} sur{\kf31}round{\kf48} me
+Dialogue: 0,0:01:11.62,0:01:14.24,DEFAULT,,0,0,0,,{\r}{\kf15}Gi{\kf15}vi{\kf15}-ing{\kf29} up{\kf29} with{\kf44}out{\kf29} a{\kf86} fight
+Dialogue: 0,0:01:15.18,0:01:17.76,DEFAULT,,0,0,0,,{\r}{\kf14}The{\kf14} bit{\kf42}ter{\kf28}ness{\kf35} and{\kf42} pain{\kf28} in{\kf55}side
+Dialogue: 0,0:01:18.37,0:01:20.85,DEFAULT,,0,0,0,,{\r}{\kf14}Count{\kf28}less{\kf14} te{\kf14}-ears{\kf43} I{\kf43} had{\kf28} to{\kf64} cry
+Dialogue: 0,0:01:21.37,0:01:23.71,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf29} was{\kf29} fa{\kf37}cing{\kf37} all{\kf44} my{\kf43} fears
+Dialogue: 0,0:01:23.99,0:01:27.04,DEFAULT,,0,0,0,,{\r}{\kf13}Just{\kf13} to{\kf13} let{\kf40} you{\kf40} in{\kf40} to{\kf40} dry{\kf40} my{\kf33} tears,{\kf33} but
+Dialogue: 0,0:01:27.74,0:01:30.27,DEFAULT,,0,0,0,,{\r}{\kf45}Your{\kf15} ki{\kf15}-ind{\kf30}ness{\kf45} won't{\kf30} be{\kf15}tra{\kf15}-ay{\kf43} me
+Dialogue: 0,0:01:30.74,0:01:33.27,DEFAULT,,0,0,0,,{\r}{\kf42}I{\kf14} fe{\kf14}-eel{\kf28} your{\kf42} heart{\kf28} and{\kf42} so{\kf43}-oul
+Dialogue: 0,0:01:33.74,0:01:36.27,DEFAULT,,0,0,0,,{\r}{\kf45}Your{\kf15} ki{\kf15}-ind{\kf30}ness{\kf45} still{\kf30} can{\kf15} sa{\kf15}-ave{\kf43} me
+Dialogue: 0,0:01:36.56,0:01:38.99,DEFAULT,,0,0,0,,{\r}{\kf14}If{\kf41} I{\kf27} choose{\kf41} to{\kf34} not{\kf34} let{\kf53} go
+Dialogue: 0,0:01:39.74,0:01:42.27,DEFAULT,,0,0,0,,{\r}{\kf22}Stretch{\kf14}ing{\kf14} o{\kf14}-out{\kf29} you{\kf43} some{\kf43}how{\kf14} re{\kf14}-each{\kf46} me
+Dialogue: 0,0:01:42.74,0:01:45.27,DEFAULT,,0,0,0,,{\r}{\kf40}I{\kf13} kno{\kf13}-ow{\kf27} this{\kf40} can't{\kf40} be{\kf40} wro{\kf40}-ong
+Dialogue: 0,0:01:45.74,0:01:48.32,DEFAULT,,0,0,0,,{\r}{\kf40}I'm{\kf13} re{\kf13}-ea{\kf40}-dy,{\kf40} won't{\kf40} you{\kf13} te{\kf13}-each{\kf46} me
+Dialogue: 0,0:01:49.12,0:01:53.52,DEFAULT,,0,0,0,,{\r}{\kf68}Your{\kf68} song{\kf68} of{\kf57} ki{\kf11}-ind{\kf169}ness
+Dialogue: 0,0:01:55.87,0:01:58.31,DEFAULT,,0,0,0,,{\r}{\kf40}Qui{\kf13}et{\kf26} grace{\kf40} sur{\kf40}ro{\kf40}-ounds{\kf45} you
+Dialogue: 0,0:01:58.68,0:02:00.60,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf28} helps{\kf14} me{\kf43} find{\kf14} my{\kf21}-y{\kf58} own
+Dialogue: 0,0:02:01.12,0:02:03.98,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf42} can't{\kf14} te{\kf14}-ell{\kf42} you{\kf35} how{\kf42} you've{\kf28} helped{\kf55} me
+Dialogue: 0,0:02:04.68,0:02:06.70,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} how{\kf45} much{\kf15} I{\kf15}~{\kf30} have{\kf15} gro{\kf52}-own
+Dialogue: 0,0:02:07.12,0:02:09.56,DEFAULT,,0,0,0,,{\r}{\kf14}E{\kf41}ven{\kf14} tho{\kf14}-ough{\kf34} you're{\kf41} far{\kf41} a{\kf45}way
+Dialogue: 0,0:02:10.12,0:02:12.32,DEFAULT,,0,0,0,,{\r}{\kf34}In{\kf17}spir{\kf34}a{\kf25}tion{\kf34} comes{\kf51} from{\kf25} you
+Dialogue: 0,0:02:12.56,0:02:14.99,DEFAULT,,0,0,0,,{\r}{\kf14}To{\kf21} shine{\kf14} a{\kf42} lit{\kf14}tle{\kf42} bright{\kf14}er{\kf14} ev{\kf14}ery{\kf55} day
+Dialogue: 0,0:02:16.12,0:02:17.90,DEFAULT,,0,0,0,,{\r}{\kf13}If{\kf32} you{\kf38} on{\kf38}ly{\kf57} knewâ€¦
+Dialogue: 0,0:02:18.37,0:02:20.57,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf43} will{\kf14} ne{\kf14}-e{\kf43}ver{\kf43} get{\kf28} up{\kf21}set
+Dialogue: 0,0:02:20.81,0:02:23.71,DEFAULT,,0,0,0,,{\r}{\kf40}And{\kf13} I{\kf40}~{\kf13} will{\kf20} ne{\kf13}-e{\kf40}ver,{\kf40} e{\kf13}ver{\kf20} for{\kf39}get
+Dialogue: 0,0:02:24.18,0:02:26.57,DEFAULT,,0,0,0,,{\r}{\kf14}The{\kf14} hap{\kf42}pi{\kf21}ness{\kf42} you{\kf42} made{\kf42} me{\kf22} feel
+Dialogue: 0,0:02:26.81,0:02:31.77,DEFAULT,,0,0,0,,{\r}{\kf47}Al{\kf31}most{\kf47} as{\kf31} if{\kf47} you're{\kf47} ac{\kf23}tual{\kf23}ly{\kf16}-y{\kf47} re{\kf93}-eal,{\kf45} but
+Dialogue: 0,0:02:32.24,0:02:34.77,DEFAULT,,0,0,0,,{\r}{\kf45}Your{\kf15} ki{\kf15}-ind{\kf30}ness{\kf45} won't{\kf30} be{\kf15}tra{\kf15}-ay{\kf43} me
+Dialogue: 0,0:02:35.24,0:02:37.77,DEFAULT,,0,0,0,,{\r}{\kf42}I{\kf14} fe{\kf14}-eel{\kf28} your{\kf42} heart{\kf28} and{\kf42} so{\kf43}-oul
+Dialogue: 0,0:02:38.24,0:02:40.77,DEFAULT,,0,0,0,,{\r}{\kf46}Your{\kf15} ki{\kf15}-ind{\kf31}ness{\kf46} still{\kf31} can{\kf15} sa{\kf15}-ave{\kf39} me
+Dialogue: 0,0:02:41.06,0:02:43.49,DEFAULT,,0,0,0,,{\r}{\kf14}If{\kf41} I{\kf27} choose{\kf41} to{\kf27} not{\kf41} let{\kf53} go
+Dialogue: 0,0:02:44.24,0:02:46.77,DEFAULT,,0,0,0,,{\r}{\kf15}Stretch{\kf15}ing{\kf15} o{\kf15}-out{\kf30} you{\kf45} some{\kf45}how{\kf15} re{\kf15}-each{\kf43} me
+Dialogue: 0,0:02:47.24,0:02:49.77,DEFAULT,,0,0,0,,{\r}{\kf40}I{\kf13} kno{\kf13}-ow{\kf27} this{\kf40} can't{\kf40} be{\kf40} wro{\kf40}-ong
+Dialogue: 0,0:02:50.24,0:02:52.77,DEFAULT,,0,0,0,,{\r}{\kf41}I'm{\kf14} re{\kf14}-ea{\kf34}-dy,{\kf41} won't{\kf41} you{\kf14} te{\kf14}-each{\kf40} me
+Dialogue: 0,0:02:53.62,0:02:57.56,DEFAULT,,0,0,0,,{\r}{\kf75}Your{\kf75} song{\kf56} of{\kf31} ki{\kf13}-i{\kf13}-ind{\kf31}-ne{\kf100}-ess
+Dialogue: 0,0:03:23.24,0:03:25.68,DEFAULT,,0,0,0,,{\r}{\kf49}Your{\kf16} ki{\kf16}-ind{\kf24}ness{\kf41} won't{\kf33} be{\kf16}tra{\kf16}-ay{\kf33} me
+Dialogue: 0,0:03:26.43,0:03:28.49,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf15} fe{\kf15}-eel{\kf15} your{\kf44} heart{\kf29} and{\kf44} so{\kf29}-oul
+Dialogue: 0,0:03:29.24,0:03:31.77,DEFAULT,,0,0,0,,{\r}{\kf40}Your{\kf16} ki{\kf16}-ind{\kf32}ness{\kf47} still{\kf32} can{\kf16} sa{\kf16}-ave{\kf38} me
+Dialogue: 0,0:03:32.24,0:03:34.68,DEFAULT,,0,0,0,,{\r}{\kf13}In{\kf13} a{\kf40} way{\kf40} you'll{\kf40} ne{\kf40}ve{\kf13}-er{\kf45} know
+Dialogue: 0,0:03:35.24,0:03:37.77,DEFAULT,,0,0,0,,{\r}{\kf40}Your{\kf16} ki{\kf16}-ind{\kf32}ness{\kf47} won't{\kf32} be{\kf16}tra{\kf16}-ay{\kf38} me
+Dialogue: 0,0:03:38.24,0:03:40.77,DEFAULT,,0,0,0,,{\r}{\kf36}I{\kf14} fe{\kf14}-eel{\kf29} your{\kf43} heart{\kf29} and{\kf43} so{\kf45}-oul
+Dialogue: 0,0:03:41.24,0:03:43.77,DEFAULT,,0,0,0,,{\r}{\kf40}Your{\kf16} ki{\kf16}-ind{\kf32}ness{\kf47} still{\kf32} can{\kf16} sa{\kf16}-ave{\kf38} me
+Dialogue: 0,0:03:44.06,0:03:46.49,DEFAULT,,0,0,0,,{\r}{\kf14}If{\kf42} I{\kf28} choose{\kf42} to{\kf28} not{\kf42} let{\kf48} go
+Dialogue: 0,0:03:47.24,0:03:49.77,DEFAULT,,0,0,0,,{\r}{\kf15}Stretch{\kf15}ing{\kf15} o{\kf15}-out{\kf30} you{\kf45} some{\kf45}how{\kf15} re{\kf15}-each{\kf43} me
+Dialogue: 0,0:03:50.24,0:03:52.77,DEFAULT,,0,0,0,,{\r}{\kf40}I{\kf13} kno{\kf13}-ow{\kf27} this{\kf40} can't{\kf40} be{\kf40} wro{\kf40}-ong
+Dialogue: 0,0:03:53.24,0:03:55.82,DEFAULT,,0,0,0,,{\r}{\kf40}I'm{\kf13} re{\kf13}-ea{\kf40}dy,{\kf40} won't{\kf40} you{\kf13} te{\kf13}-each{\kf46} me
+Dialogue: 0,0:03:56.24,0:03:58.49,DEFAULT,,0,0,0,,{\r}{\kf38}The{\kf38} way{\kf38} to{\kf38} get{\kf12} a{\kf12}-a{\kf49}long
+Dialogue: 0,0:03:59.24,0:04:01.87,DEFAULT,,0,0,0,,{\r}{\kf15}E{\kf15}ven{\kf23} when{\kf39} the{\kf46} cold{\kf31} wind's{\kf15} blo{\kf15}-ow{\kf63}ing
+Dialogue: 0,0:04:02.24,0:04:04.77,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf14} I{\kf14} wa{\kf14}-ant{\kf42} to{\kf28} just{\kf42} give{\kf42} i{\kf43}-in
+Dialogue: 0,0:04:05.24,0:04:07.77,DEFAULT,,0,0,0,,{\r}{\kf45}It{\kf22} warms{\kf37} my{\kf45} heart{\kf30} just{\kf15} kno{\kf15}-ow{\kf44}ing
+Dialogue: 0,0:04:08.24,0:04:10.68,DEFAULT,,0,0,0,,{\r}{\kf40}I'll{\kf40} hear{\kf40} your{\kf26} voice{\kf40} a{\kf13}-a{\kf45}gain
+Dialogue: 0,0:04:11.24,0:04:13.68,DEFAULT,,0,0,0,,{\r}{\kf43}So{\kf14} wo{\kf14}-on't{\kf29} you{\kf29} sing{\kf43} it{\kf43} lo{\kf29}-oud
+Dialogue: 0,0:04:14.24,0:04:16.87,DEFAULT,,0,0,0,,{\r}{\kf37}And{\kf37} won't{\kf25} you{\kf37} sing{\kf37} it{\kf37} lo{\kf52}-ong
+Dialogue: 0,0:04:17.24,0:04:19.82,DEFAULT,,0,0,0,,{\r}{\kf42}I{\kf14} pro{\kf14}-o{\kf28}mise{\kf42} to{\kf42} re{\kf14}me{\kf14}-em{\kf48}ber
+Dialogue: 0,0:04:20.62,0:04:26.62,DEFAULT,,0,0,0,,{\r}{\kf64}Your{\kf64} song{\kf64} of{\kf54} ki{\kf16}-ind{\kf338}ness
+Dialogue: 0,0:04:35.24,0:04:39.32,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf12} pro{\kf12}-o{\kf25}mise{\kf37} to{\kf37} re{\kf25}mem{\kf80}be{\kf149}-er
+Dialogue: 0,0:04:41.20,0:04:46.31,DEFAULT,,0,0,0,,{\r}{\kf35}I{\kf12} pro{\kf12}-o{\kf23}mise{\kf35} to{\kf35} re{\kf23}mem{\kf12}be{\kf324}-erâ€¦

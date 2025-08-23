@@ -1,56 +1,63 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Good Girl
+Artist: The Living Tombstone, Dasha
+Original Timing: mylittlekaraoke.com by Ginge
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:15.86,0:00:17.67,DEFAULT,,0,0,0,,{\kf13}They{\kf13} took{\kf13} me{\kf13} out{\kf13} of{\kf13} my{\kf37} house
-Dialogue: 0,0:00:17.80,0:00:20.21,DEFAULT,,0,0,0,,{\kf13}Now{\kf13} I{\kf13} have{\kf13}~{\kf13} a{\kf13} new{\kf13}~{\kf73} home
-Dialogue: 0,0:00:23.60,0:00:25.66,DEFAULT,,0,0,0,,{\kf13}I{\kf13} gob{\kf13}ble{\kf13} pills{\kf13} like{\kf13} a{\kf37} good{\kf13} girl
-Dialogue: 0,0:00:25.78,0:00:30.26,DEFAULT,,0,0,0,,{\kf13}And{\kf13} I{\kf13} get{\kf13} a{\kf13} new{\kf13}~{\kf73} bone{\kf25}~{\kf73}~{\kf25}~{\kf109}~
-Dialogue: 0,0:00:46.83,0:00:50.34,DEFAULT,,0,0,0,,{\kf13}I{\kf13} wig{\kf13}gle{\kf13} a{\kf13}round{\kf13} my{\kf37} fake{\kf13} tail{\kf13} de{\kf13}spite{\kf13} how{\kf13} they{\kf13} treat{\kf13} me
-Dialogue: 0,0:00:50.70,0:00:54.21,DEFAULT,,0,0,0,,{\kf13}They{\kf13} make{\kf13} me{\kf13} feel{\kf13} so{\kf13} a{\kf25}lone{\kf13}~{\kf13} e{\kf13}ven{\kf13} when{\kf37} they're{\kf37} here
-Dialogue: 0,0:00:54.57,0:00:56.75,DEFAULT,,0,0,0,,{\kf13}So{\kf13} man{\kf13}y{\kf13} or{\kf13}ders{\kf13} to{\kf37} tell{\kf25} me
-Dialogue: 0,0:00:56.99,0:00:59.89,DEFAULT,,0,0,0,,{\kf13}I{\kf13} dun{\kf13}no{\kf13} what{\kf13} to{\kf25} do{\kf146}~
-Dialogue: 0,0:01:02.31,0:01:04.13,DEFAULT,,0,0,0,,{\kf13}I{\kf13} wan{\kf13}na{\kf13} run{\kf13} on{\kf13} all{\kf37} fours
-Dialogue: 0,0:01:04.25,0:01:09.57,DEFAULT,,0,0,0,,{\kf13}Just{\kf13} like{\kf13} an{\kf13}y{\kf13}one{\kf13} a{\kf25}round{\kf25}~{\kf25} me{\kf49}~{\kf61}~{\kf13}~{\kf194}~
-Dialogue: 0,0:01:10.05,0:01:11.75,DEFAULT,,0,0,0,,{\kf13}So{\kf13} I{\kf13} run{\kf13} af{\kf13}ter{\kf13} my{\kf25} friends
-Dialogue: 0,0:01:11.99,0:01:16.10,DEFAULT,,0,0,0,,{\kf37}But{\kf13} my{\kf13} friends{\kf13} wan{\kf13}na{\kf25} catch{\kf73}~{\kf25}~{\kf49}~{\kf49} me{\kf25} ~
-Dialogue: 0,0:01:17.80,0:01:19.61,DEFAULT,,0,0,0,,{\kf13}I'm{\kf13} not{\kf13} like{\kf13} an{\kf13}y{\kf13}one{\kf37} else
-Dialogue: 0,0:01:19.73,0:01:22.03,DEFAULT,,0,0,0,,{\kf37}Cause{\kf13} they{\kf13} just{\kf13} wan{\kf13}na{\kf25} hurt{\kf13}~{\kf25} me{\kf13}~
-Dialogue: 0,0:01:22.39,0:01:25.78,DEFAULT,,0,0,0,,{\kf13} stop{\kf13} me{\kf13} and{\kf13} tor{\kf13}ture{\kf25} me{\kf13}~{\kf13} but{\kf13} that's{\kf37} al{\kf25}right{\kf49}~
-Dialogue: 0,0:01:25.78,0:01:27.23,DEFAULT,,0,0,0,,{\kf13}Cause{\kf13} I{\kf13} know{\kf13} who{\kf13} I{\kf25} am
-Dialogue: 0,0:01:27.47,0:01:31.59,DEFAULT,,0,0,0,,{\kf37}But{\kf13} still{\kf13} no{\kf13} one{\kf25} be{\kf146}lieves{\kf37}~{\kf49} me{\kf25}~
-Dialogue: 0,0:01:32.55,0:01:35.46,DEFAULT,,0,0,0,,{\kf25} be{\kf146}lieves{\kf37}~{\kf49} me{\kf25}~,
-Dialogue: 0,0:01:36.42,0:01:42.47,DEFAULT,,0,0,0,,{\kf25} be{\kf97}lieves{\kf25}~{\kf37}~{\kf121} me{\kf49}~{\kf25}~{\kf25}~{\kf25}~{\kf121}~
-Dialogue: 0,0:01:48.76,0:01:50.58,DEFAULT,,0,0,0,,{\kf13}Now{\kf13} I{\kf13} see{\kf13} ev{\kf13}ery{\kf13}one{\kf37} else
-Dialogue: 0,0:01:50.70,0:01:52.76,DEFAULT,,0,0,0,,{\kf13}From{\kf13} a{\kf49} small{\kf25} win{\kf25}~{\kf37}dow
-Dialogue: 0,0:01:56.51,0:01:58.68,DEFAULT,,0,0,0,,{\kf13}They{\kf25} all{\kf37} seem{\kf13} so{\kf37} nor{\kf25}mal
-Dialogue: 0,0:01:58.68,0:02:02.80,DEFAULT,,0,0,0,,{\kf13}It{\kf13} feels{\kf25} real{\kf25}ly{\kf13}~{\kf73} shal{\kf25}~{\kf73}low{\kf25}~{\kf73}~
-Dialogue: 0,0:02:04.25,0:02:07.76,DEFAULT,,0,0,0,,{\kf13}So{\kf13} I{\kf13} won{\kf13}dered{\kf13} why{\kf13} ev{\kf37}ery{\kf13}one{\kf13} were{\kf13} a{\kf25}gainst{\kf13}~{\kf25} me{\kf13}~
-Dialogue: 0,0:02:08.12,0:02:11.63,DEFAULT,,0,0,0,,{\kf13}I{\kf13} thought{\kf13} that{\kf13} it's{\kf25} nor{\kf13}mal{\kf25} to{\kf25}~{\kf13} be{\kf13} who{\kf13} I{\kf13} want{\kf13} to{\kf13} be{\kf13}~
-Dialogue: 0,0:02:11.99,0:02:14.05,DEFAULT,,0,0,0,,{\kf13}And{\kf13} they{\kf13} all{\kf13} call{\kf25} me{\kf49} cra{\kf13}zy
-Dialogue: 0,0:02:14.17,0:02:18.76,DEFAULT,,0,0,0,,{\kf13} but{\kf13} I{\kf13} just{\kf13} wished{\kf13} to{\kf13} be{\kf25} free{\kf97}~{\kf25}~{\kf25}~{\kf25}~{\kf49}~{\kf49}~
-Dialogue: 0,0:02:19.73,0:02:21.55,DEFAULT,,0,0,0,,{\kf13}I{\kf13} wan{\kf13}na{\kf13} run{\kf13} on{\kf13} all{\kf37} fours
-Dialogue: 0,0:02:21.67,0:02:25.78,DEFAULT,,0,0,0,,{\kf13}Just{\kf13} like{\kf13} an{\kf13}y{\kf13}one{\kf13} a{\kf25}round{\kf13}~{\kf25} me{\kf49}~{\kf73}~{\kf25}~{\kf49}~
-Dialogue: 0,0:02:27.47,0:02:29.29,DEFAULT,,0,0,0,,{\kf13}So{\kf13} I{\kf13} run{\kf13} af{\kf13}ter{\kf13} my{\kf37} friends
-Dialogue: 0,0:02:29.41,0:02:33.40,DEFAULT,,0,0,0,,{\kf37}But{\kf13} my{\kf13} friends{\kf13} wan{\kf13}na{\kf25} catch{\kf73}~{\kf25}~{\kf49}~{\kf49} me{\kf13}~
-Dialogue: 0,0:02:35.21,0:02:37.03,DEFAULT,,0,0,0,,{\kf13}I'm{\kf13} not{\kf13} like{\kf13} an{\kf13}y{\kf13}one{\kf37} else
-Dialogue: 0,0:02:37.15,0:02:39.45,DEFAULT,,0,0,0,,{\kf37}Cause{\kf13} they{\kf13} just{\kf13} wan{\kf13}na{\kf13} hurt{\kf13}~{\kf13} me{\kf13}~
-Dialogue: 0,0:02:39.81,0:02:42.96,DEFAULT,,0,0,0,,{\kf13} stop{\kf13} me{\kf13} and{\kf13} tor{\kf13}ture{\kf13} me{\kf13}~{\kf13} but{\kf13} that's{\kf37} al{\kf25}right{\kf25}~
-Dialogue: 0,0:02:43.20,0:02:44.65,DEFAULT,,0,0,0,,{\kf13}Cause{\kf13} I{\kf13} know{\kf13} who{\kf13} I{\kf25} am
-Dialogue: 0,0:02:44.89,0:02:49.01,DEFAULT,,0,0,0,,{\kf37}But{\kf13} still{\kf13} no{\kf13} one{\kf13} be{\kf146}lieves{\kf37}~{\kf49} me{\kf25}~
-Dialogue: 0,0:02:49.97,0:02:52.88,DEFAULT,,0,0,0,,{\kf25} be{\kf146}lieves{\kf37}~{\kf49} me{\kf25}~
-Dialogue: 0,0:02:53.84,0:03:05.34,DEFAULT,,0,0,0,,{\kf25} be{\kf97}lieves{\kf25}~{\kf49}~{\kf121} me{\kf49}~{\kf13}~{\kf146}~{\kf25}~{\kf25}~{\kf146}~{\kf25}~{\kf25}~{\kf194}~{\kf146}~{\kf13}~
-Dialogue: 0,0:03:07.88,0:03:13.56,DEFAULT,,0,0,0,,{\kf73}Wah{\kf73}~{\kf49}~{\kf121}oh{\kf25}~{\kf25}~{\kf206}~
-Dialogue: 0,0:03:29.41,0:03:31.22,DEFAULT,,0,0,0,,{\kf13}I'm{\kf13} not{\kf13} like{\kf13} an{\kf13}y{\kf13}one{\kf37} else
-Dialogue: 0,0:03:31.34,0:03:33.76,DEFAULT,,0,0,0,,{\kf37}Cause{\kf13} they{\kf13} just{\kf13} wan{\kf13}na{\kf13} hurt{\kf13}~{\kf13} me{\kf25}~
-Dialogue: 0,0:03:34.01,0:03:37.15,DEFAULT,,0,0,0,,{\kf13} stop{\kf13} me{\kf13} and{\kf13} tor{\kf13}ture{\kf13} me{\kf13}~{\kf13} that's{\kf37} al{\kf49}right
-Dialogue: 0,0:03:37.39,0:03:38.96,DEFAULT,,0,0,0,,{\kf13}Cause{\kf13} I{\kf13} know{\kf13} who{\kf13} I{\kf37} am
-Dialogue: 0,0:03:39.09,0:03:43.20,DEFAULT,,0,0,0,,{\kf37}But{\kf13} still{\kf13} no{\kf13} one{\kf25} be{\kf146}lieves{\kf25}~{\kf49} me{\kf25}~
-Dialogue: 0,0:03:44.17,0:03:54.09,DEFAULT,,0,0,0,,{\kf25} be{\kf146}lieves{\kf25}~{\kf49} me{\kf25}~,{\kf25} be{\kf97}lieves{\kf25}~{\kf49}~{\kf121} me{\kf25}~{\kf25}~{\kf25}~{\kf25}~{\kf121}~
+Dialogue: 0,0:00:15.87,0:00:17.68,DEFAULT,,0,0,0,,{\r}{\kf20}They{\kf20} took{\kf20} me{\kf20} out{\kf20} of{\kf20} my{\kf61} house
+Dialogue: 0,0:00:17.80,0:00:20.22,DEFAULT,,0,0,0,,{\r}{\kf19}Now{\kf19} I{\kf19} have{\kf19}~{\kf19} a{\kf19} new{\kf19}~{\kf109} home
+Dialogue: 0,0:00:23.61,0:00:25.66,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21} gob{\kf21}ble{\kf21} pills{\kf21} like{\kf21} a{\kf62} good{\kf18} girl
+Dialogue: 0,0:00:25.78,0:00:30.26,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf14} I{\kf14} get{\kf14} a{\kf14} new{\kf14}~{\kf87} bone{\kf29}~{\kf87}~{\kf29}~{\kf132}~
+Dialogue: 0,0:00:46.83,0:00:50.34,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} wig{\kf22}gle{\kf22} a{\kf22}round{\kf22} my{\kf66} fake{\kf22} tail{\kf22} de{\kf22}spite{\kf22} how{\kf22} they{\kf22} treat{\kf21} me
+Dialogue: 0,0:00:50.70,0:00:54.21,DEFAULT,,0,0,0,,{\r}{\kf20}They{\kf20} make{\kf20} me{\kf20} feel{\kf20} so{\kf20} a{\kf39}lone{\kf20}~{\kf20} e{\kf20}ven{\kf20} when{\kf58} they're{\kf54} here
+Dialogue: 0,0:00:54.57,0:00:56.75,DEFAULT,,0,0,0,,{\r}{\kf20}So{\kf20} man{\kf20}y{\kf20} or{\kf20}ders{\kf20} to{\kf59} tell{\kf39} me
+Dialogue: 0,0:00:56.99,0:00:59.90,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf15} dun{\kf15}no{\kf15} what{\kf15} to{\kf31} do{\kf184}~
+Dialogue: 0,0:01:02.32,0:01:04.13,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf20} wan{\kf20}na{\kf20} run{\kf20} on{\kf20} all{\kf61} fours
+Dialogue: 0,0:01:04.25,0:01:09.57,DEFAULT,,0,0,0,,{\r}{\kf14}Just{\kf14} like{\kf14} an{\kf14}y{\kf14}one{\kf14} a{\kf28}round{\kf28}~{\kf28} me{\kf56}~{\kf70}~{\kf14}~{\kf224}~
+Dialogue: 0,0:01:10.06,0:01:11.75,DEFAULT,,0,0,0,,{\r}{\kf21}So{\kf21} I{\kf21} run{\kf21} af{\kf21}ter{\kf21} my{\kf43} friends
+Dialogue: 0,0:01:11.99,0:01:16.11,DEFAULT,,0,0,0,,{\r}{\kf46}But{\kf15} my{\kf15} friends{\kf15} wan{\kf15}na{\kf30} catch{\kf91}~{\kf30}~{\kf61}~{\kf61} me{\kf32} ~
+Dialogue: 0,0:01:17.80,0:01:19.61,DEFAULT,,0,0,0,,{\r}{\kf20}I'm{\kf20} not{\kf20} like{\kf20} an{\kf20}y{\kf20}one{\kf61} else
+Dialogue: 0,0:01:19.74,0:01:22.03,DEFAULT,,0,0,0,,{\r}{\kf53}Cause{\kf18} they{\kf18} just{\kf18} wan{\kf18}na{\kf35} hurt{\kf18}~{\kf35} me{\kf17}~
+Dialogue: 0,0:01:22.40,0:01:25.78,DEFAULT,,0,0,0,,{\r}{\kf18} stop{\kf18} me{\kf18} and{\kf18} tor{\kf18}ture{\kf36} me{\kf18}~{\kf18} but{\kf18} that's{\kf54} al{\kf36}right{\kf69}~
+Dialogue: 0,0:01:25.78,0:01:27.24,DEFAULT,,0,0,0,,{\r}{\kf21}Cause{\kf21} I{\kf21} know{\kf21} who{\kf21} I{\kf40} am
+Dialogue: 0,0:01:27.48,0:01:31.59,DEFAULT,,0,0,0,,{\r}{\kf43}But{\kf14} still{\kf14} no{\kf14} one{\kf28} be{\kf170}lieves{\kf43}~{\kf57} me{\kf28}~
+Dialogue: 0,0:01:32.56,0:01:35.46,DEFAULT,,0,0,0,,{\r}{\kf25} be{\kf151}lieves{\kf38}~{\kf50} me{\kf26}~,
+Dialogue: 0,0:01:36.43,0:01:42.48,DEFAULT,,0,0,0,,{\r}{\kf27} be{\kf108}lieves{\kf27}~{\kf40}~{\kf134} me{\kf54}~{\kf27}~{\kf27}~{\kf27}~{\kf134}~
+Dialogue: 0,0:01:48.77,0:01:50.58,DEFAULT,,0,0,0,,{\r}{\kf20}Now{\kf20} I{\kf20} see{\kf20} ev{\kf20}ery{\kf20}one{\kf61} else
+Dialogue: 0,0:01:50.70,0:01:52.76,DEFAULT,,0,0,0,,{\r}{\kf16}From{\kf16} a{\kf63} small{\kf32} win{\kf32}~{\kf47}dow
+Dialogue: 0,0:01:56.51,0:01:58.69,DEFAULT,,0,0,0,,{\r}{\kf18}They{\kf36} all{\kf54} seem{\kf18} so{\kf54} nor{\kf38}mal
+Dialogue: 0,0:01:58.69,0:02:02.80,DEFAULT,,0,0,0,,{\r}{\kf14}It{\kf14} feels{\kf28} real{\kf28}ly{\kf14}~{\kf85} shal{\kf28}~{\kf85}low{\kf28}~{\kf87}~
+Dialogue: 0,0:02:04.25,0:02:07.76,DEFAULT,,0,0,0,,{\r}{\kf20}So{\kf20} I{\kf20} won{\kf20}dered{\kf20} why{\kf20} ev{\kf58}ery{\kf20}one{\kf20} were{\kf20} a{\kf39}gainst{\kf20}~{\kf39} me{\kf15}~
+Dialogue: 0,0:02:08.12,0:02:11.63,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf19} thought{\kf19} that{\kf19} it's{\kf39} nor{\kf19}mal{\kf39} to{\kf39}~{\kf19} be{\kf19} who{\kf19} I{\kf19} want{\kf19} to{\kf19} be{\kf25}~
+Dialogue: 0,0:02:11.99,0:02:14.05,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} they{\kf19} all{\kf19} call{\kf37} me{\kf75} cra{\kf18}zy
+Dialogue: 0,0:02:14.17,0:02:18.77,DEFAULT,,0,0,0,,{\r}{\kf15} but{\kf15} I{\kf15} just{\kf15} wished{\kf15} to{\kf15} be{\kf31} free{\kf123}~{\kf31}~{\kf31}~{\kf31}~{\kf61}~{\kf62}~
+Dialogue: 0,0:02:19.74,0:02:21.55,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf20} wan{\kf20}na{\kf20} run{\kf20} on{\kf20} all{\kf61} fours
+Dialogue: 0,0:02:21.67,0:02:25.78,DEFAULT,,0,0,0,,{\r}{\kf15}Just{\kf15} like{\kf15} an{\kf15}y{\kf15}one{\kf15} a{\kf30}round{\kf15}~{\kf30} me{\kf61}~{\kf91}~{\kf30}~{\kf64}~
+Dialogue: 0,0:02:27.48,0:02:29.29,DEFAULT,,0,0,0,,{\r}{\kf20}So{\kf20} I{\kf20} run{\kf20} af{\kf20}ter{\kf20} my{\kf61} friends
+Dialogue: 0,0:02:29.41,0:02:33.41,DEFAULT,,0,0,0,,{\r}{\kf46}But{\kf15} my{\kf15} friends{\kf15} wan{\kf15}na{\kf31} catch{\kf92}~{\kf31}~{\kf61}~{\kf61} me{\kf17}~
+Dialogue: 0,0:02:35.22,0:02:37.03,DEFAULT,,0,0,0,,{\r}{\kf20}I'm{\kf20} not{\kf20} like{\kf20} an{\kf20}y{\kf20}one{\kf61} else
+Dialogue: 0,0:02:37.16,0:02:39.45,DEFAULT,,0,0,0,,{\r}{\kf63}Cause{\kf21} they{\kf21} just{\kf21} wan{\kf21}na{\kf21} hurt{\kf21}~{\kf21} me{\kf20}~
+Dialogue: 0,0:02:39.82,0:02:42.96,DEFAULT,,0,0,0,,{\r}{\kf20} stop{\kf20} me{\kf20} and{\kf20} tor{\kf20}ture{\kf20} me{\kf20}~{\kf20} but{\kf20} that's{\kf59} al{\kf39}right{\kf37}~
+Dialogue: 0,0:02:43.20,0:02:44.66,DEFAULT,,0,0,0,,{\r}{\kf21}Cause{\kf21} I{\kf21} know{\kf21} who{\kf21} I{\kf40} am
+Dialogue: 0,0:02:44.90,0:02:49.01,DEFAULT,,0,0,0,,{\r}{\kf44}But{\kf15} still{\kf15} no{\kf15} one{\kf15} be{\kf176}lieves{\kf44}~{\kf59} me{\kf28}~
+Dialogue: 0,0:02:49.98,0:02:52.88,DEFAULT,,0,0,0,,{\r}{\kf25} be{\kf151}lieves{\kf38}~{\kf50} me{\kf26}~
+Dialogue: 0,0:02:53.85,0:03:05.34,DEFAULT,,0,0,0,,{\r}{\kf25} be{\kf100}lieves{\kf25}~{\kf50}~{\kf125} me{\kf50}~{\kf12}~{\kf150}~{\kf25}~{\kf25}~{\kf150}~{\kf25}~{\kf25}~{\kf200}~{\kf150}~{\kf12}~
+Dialogue: 0,0:03:07.88,0:03:13.57,DEFAULT,,0,0,0,,{\r}{\kf73}Wah{\kf73}~{\kf48}~{\kf121}oh{\kf24}~{\kf24}~{\kf206}~
+Dialogue: 0,0:03:29.41,0:03:31.23,DEFAULT,,0,0,0,,{\r}{\kf20}I'm{\kf20} not{\kf20} like{\kf20} an{\kf20}y{\kf20}one{\kf61} else
+Dialogue: 0,0:03:31.35,0:03:33.77,DEFAULT,,0,0,0,,{\r}{\kf60}Cause{\kf20} they{\kf20} just{\kf20} wan{\kf20}na{\kf20} hurt{\kf20}~{\kf20} me{\kf42}~
+Dialogue: 0,0:03:34.01,0:03:37.16,DEFAULT,,0,0,0,,{\r}{\kf21} stop{\kf21} me{\kf21} and{\kf21} tor{\kf21}ture{\kf21} me{\kf21}~{\kf21} that's{\kf63} al{\kf84}right
+Dialogue: 0,0:03:37.40,0:03:38.97,DEFAULT,,0,0,0,,{\r}{\kf20}Cause{\kf20} I{\kf20} know{\kf20} who{\kf20} I{\kf57} am
+Dialogue: 0,0:03:39.09,0:03:43.20,DEFAULT,,0,0,0,,{\r}{\kf44}But{\kf15} still{\kf15} no{\kf15} one{\kf29} be{\kf176}lieves{\kf29}~{\kf59} me{\kf29}~
+Dialogue: 0,0:03:44.17,0:03:54.09,DEFAULT,,0,0,0,,{\r}{\kf30} be{\kf180}lieves{\kf30}~{\kf60} me{\kf30}~,{\kf30} be{\kf120}lieves{\kf30}~{\kf60}~{\kf150} me{\kf30}~{\kf30}~{\kf30}~{\kf30}~{\kf152}~

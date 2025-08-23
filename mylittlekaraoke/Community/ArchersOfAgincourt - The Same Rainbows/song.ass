@@ -1,52 +1,59 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: The Same Rainbows
+Artist: Archers Of Agincourt
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:00.69,0:01:03.73,DEFAULT,,0,0,0,,{\kf63}Li{\kf67}ons{\kf30}~{\kf17} sur{\kf25}round{\kf42} me{\kf34}~
-Dialogue: 0,0:01:04.03,0:01:05.69,DEFAULT,,0,0,0,,{\kf13}Eye{\kf13}ing{\kf13} me{\kf13} with{\kf30} hun{\kf17}gry{\kf25} eyes{\kf17}~
-Dialogue: 0,0:01:05.98,0:01:09.07,DEFAULT,,0,0,0,,{\kf34}Their{\kf21}~{\kf50} teeth{\kf55} their{\kf34} lies{\kf34}~{\kf38}~
-Dialogue: 0,0:01:11.36,0:01:14.48,DEFAULT,,0,0,0,,{\kf55}Why{\kf55} risk{\kf55} the{\kf25} heart{\kf34}ache{\kf42}~
-Dialogue: 0,0:01:14.69,0:01:16.23,DEFAULT,,0,0,0,,{\kf13}I'll{\kf13} just{\kf13} keep{\kf13} my{\kf13} head{\kf13} to{\kf13} the{\kf13} books{\kf21}~
-Dialogue: 0,0:01:16.69,0:01:20.69,DEFAULT,,0,0,0,,{\kf34}My{\kf17}~{\kf25} back{\kf25} to{\kf38} the{\kf38} skies{\kf142}~{\kf34}~
-Dialogue: 0,0:01:21.98,0:01:25.11,DEFAULT,,0,0,0,,{\kf38}The{\kf38} way{\kf42} looks{\kf30} rough{\kf109}~
-Dialogue: 0,0:01:27.11,0:01:29.82,DEFAULT,,0,0,0,,{\kf21}But{\kf21} I{\kf34} think{\kf21}~{\kf46} I'll{\kf50} make{\kf21} it
-Dialogue: 0,0:01:30.03,0:01:32.86,DEFAULT,,0,0,0,,{\kf21}If{\kf25} I{\kf25} just{\kf25} take{\kf25} my{\kf17} time{\kf13}~{\kf84}~
-Dialogue: 0,0:01:33.69,0:01:35.78,DEFAULT,,0,0,0,,{\kf21}So{\kf13} you{\kf30} go{\kf34} your{\kf71} way
-Dialogue: 0,0:01:36.32,0:01:38.11,DEFAULT,,0,0,0,,{\kf25}And{\kf25} I'll{\kf25} go{\kf55} mine{\kf21}~
-Dialogue: 0,0:01:38.48,0:01:41.82,DEFAULT,,0,0,0,,{\kf13}But{\kf63} some{\kf42}~{\kf109} days{\kf75}~
-Dialogue: 0,0:01:43.32,0:01:48.36,DEFAULT,,0,0,0,,{\kf30}I{\kf25} look{\kf50} out{\kf46} and{\kf38} pray{\kf30}~{\kf30}~{\kf63}~{\kf67}~{\kf63}~
-Dialogue: 0,0:01:48.69,0:01:51.78,DEFAULT,,0,0,0,,{\kf34}I{\kf25} won't{\kf46} have{\kf42} to{\kf42} stay{\kf75}~
-Dialogue: 0,0:01:52.86,0:01:57.19,DEFAULT,,0,0,0,,{\kf17}All{\kf17} a{\kf34}lone{\kf25}~{\kf84} un{\kf134}known
-Dialogue: 0,0:02:04.32,0:02:07.28,DEFAULT,,0,0,0,,{\kf38}How{\kf17}~{\kf13} could{\kf13} I{\kf17} walk{\kf25} this{\kf25} path{\kf25} a{\kf34}lone{\kf38}~
-Dialogue: 0,0:02:07.53,0:02:10.36,DEFAULT,,0,0,0,,{\kf13}I{\kf13} would{\kf13} have{\kf30} fal{\kf21}len{\kf42} with{\kf34}out{\kf34} you{\kf30}~
-Dialogue: 0,0:02:10.57,0:02:12.44,DEFAULT,,0,0,0,,{\kf13}To{\kf17} walk{\kf17} be{\kf17}side{\kf34} me{\kf21} and{\kf25}~
-Dialogue: 0,0:02:12.69,0:02:14.90,DEFAULT,,0,0,0,,{\kf25}Lift{\kf25} me{\kf21} up{\kf25} when{\kf34} I'm{\kf42} down
-Dialogue: 0,0:02:15.36,0:02:18.32,DEFAULT,,0,0,0,,{\kf46}I{\kf55} am{\kf50} a{\kf25}live{\kf13}~{\kf59}~
-Dialogue: 0,0:02:18.53,0:02:20.69,DEFAULT,,0,0,0,,{\kf17}Be{\kf25}cause{\kf17}~{\kf30} of{\kf13} your{\kf9} ge{\kf13}ne{\kf17}ro{\kf21}si{\kf13}ty
-Dialogue: 0,0:02:20.86,0:02:22.86,DEFAULT,,0,0,0,,{\kf13}Your{\kf21} loy{\kf21}al{\kf21}ty{\kf13} your{\kf21} ho{\kf21}nes{\kf30}ty
-Dialogue: 0,0:02:23.36,0:02:25.57,DEFAULT,,0,0,0,,{\kf30}Laugh{\kf21}ter{\kf30} kind{\kf30}ness{\kf46} and{\kf34} love
-Dialogue: 0,0:02:25.98,0:02:29.28,DEFAULT,,0,0,0,,{\kf42}You{\kf34} took{\kf21}~{\kf46} my{\kf25} heart{\kf117}~
-Dialogue: 0,0:02:30.94,0:02:33.40,DEFAULT,,0,0,0,,{\kf34}Said{\kf21} it{\kf30} could{\kf21}~{\kf50} be{\kf38} more
-Dialogue: 0,0:02:33.65,0:02:36.48,DEFAULT,,0,0,0,,{\kf21}Than{\kf30} worn{\kf25} and{\kf30} bro{\kf25}ken{\kf30} and{\kf75} scarred
-Dialogue: 0,0:02:37.69,0:02:39.94,DEFAULT,,0,0,0,,{\kf30}And{\kf21} when{\kf46} I'm{\kf21} a{\kf84}lone
-Dialogue: 0,0:02:40.19,0:02:41.78,DEFAULT,,0,0,0,,{\kf17}You{\kf21} taught{\kf17} me{\kf25} to{\kf59} sing
-Dialogue: 0,0:02:42.69,0:02:46.53,DEFAULT,,0,0,0,,{\kf63}Who{\kf46}~{\kf71} knows{\kf55}~{\kf71}~{\kf50}~?
-Dialogue: 0,0:02:47.36,0:02:52.23,DEFAULT,,0,0,0,,{\kf30}May{\kf21}be{\kf34} you{\kf21}~{\kf42} and{\kf46} yours{\kf159}~{\kf30}~{\kf25}~{\kf21}~
-Dialogue: 0,0:02:52.44,0:02:56.44,DEFAULT,,0,0,0,,{\kf21}Are{\kf30} star{\kf30}~{\kf46}ing{\kf50} out{\kf46}doors{\kf138}~
-Dialogue: 0,0:02:56.78,0:03:00.86,DEFAULT,,0,0,0,,{\kf17}At{\kf17} the{\kf50} same{\kf30}~{\kf84} rain{\kf96}bows
-Dialogue: 0,0:03:04.03,0:03:07.69,DEFAULT,,0,0,0,,{\kf63}Who{\kf50}~{\kf242} knows?
-Dialogue: 0,0:03:08.69,0:03:11.86,DEFAULT,,0,0,0,,{\kf30}May{\kf25}be{\kf30} you{\kf25}~{\kf42} and{\kf42} yours{\kf84}~
-Dialogue: 0,0:03:13.65,0:03:17.86,DEFAULT,,0,0,0,,{\kf30}Are{\kf34} star{\kf30}~{\kf42}ing{\kf50} out{\kf46}doors{\kf146}~
-Dialogue: 0,0:03:18.19,0:03:22.11,DEFAULT,,0,0,0,,{\kf13}At{\kf13} the{\kf42} same{\kf25}~{\kf71} rain{\kf88}bows
-Dialogue: 0,0:03:23.44,0:03:27.36,DEFAULT,,0,0,0,,{\kf13}At{\kf13} the{\kf42} same{\kf25}~{\kf71} rain{\kf88}bows
-Dialogue: 0,0:03:28.82,0:03:32.78,DEFAULT,,0,0,0,,{\kf13}At{\kf13} the{\kf42} same{\kf25}~{\kf71} rain{\kf92}bows
-Dialogue: 0,0:03:34.07,0:03:38.28,DEFAULT,,0,0,0,,{\kf13}At{\kf13} the{\kf42} same{\kf25}~{\kf84} rain{\kf105}bows
-Dialogue: 0,0:03:39.73,0:03:43.82,DEFAULT,,0,0,0,,{\kf13}At{\kf13} the{\kf42} same{\kf21}~{\kf55} rain{\kf75}bows
-Dialogue: 0,0:03:45.94,0:03:50.28,DEFAULT,,0,0,0,,{\kf13}At{\kf13} the{\kf38} same{\kf21}~{\kf50} rain{\kf59}bows
+Dialogue: 0,0:01:00.70,0:01:03.74,DEFAULT,,0,0,0,,{\r}{\kf69}Li{\kf74}ons{\kf32}~{\kf18} sur{\kf28}round{\kf46} me{\kf37}~
+Dialogue: 0,0:01:04.03,0:01:05.70,DEFAULT,,0,0,0,,{\r}{\kf15}Eye{\kf15}ing{\kf15} me{\kf15} with{\kf35} hun{\kf20}gry{\kf30} eyes{\kf22}~
+Dialogue: 0,0:01:05.99,0:01:09.07,DEFAULT,,0,0,0,,{\r}{\kf39}Their{\kf24}~{\kf59} teeth{\kf64} their{\kf39} lies{\kf39}~{\kf44}~
+Dialogue: 0,0:01:11.36,0:01:14.49,DEFAULT,,0,0,0,,{\r}{\kf64}Why{\kf64} risk{\kf64} the{\kf30} heart{\kf40}ache{\kf50}~
+Dialogue: 0,0:01:14.70,0:01:16.24,DEFAULT,,0,0,0,,{\r}{\kf16}I'll{\kf16} just{\kf16} keep{\kf16} my{\kf16} head{\kf16} to{\kf16} the{\kf16} books{\kf26}~
+Dialogue: 0,0:01:16.70,0:01:20.70,DEFAULT,,0,0,0,,{\r}{\kf38}My{\kf19}~{\kf29} back{\kf29} to{\kf43} the{\kf43} skies{\kf162}~{\kf37}~
+Dialogue: 0,0:01:21.99,0:01:25.11,DEFAULT,,0,0,0,,{\r}{\kf46}The{\kf46} way{\kf51} looks{\kf36} rough{\kf133}~
+Dialogue: 0,0:01:27.11,0:01:29.82,DEFAULT,,0,0,0,,{\r}{\kf27}But{\kf27} I{\kf43} think{\kf27}~{\kf58} I'll{\kf64} make{\kf25} it
+Dialogue: 0,0:01:30.03,0:01:32.86,DEFAULT,,0,0,0,,{\r}{\kf25}If{\kf30} I{\kf30} just{\kf30} take{\kf30} my{\kf20} time{\kf15}~{\kf103}~
+Dialogue: 0,0:01:33.70,0:01:35.78,DEFAULT,,0,0,0,,{\r}{\kf26}So{\kf16} you{\kf36} go{\kf42} your{\kf88} way
+Dialogue: 0,0:01:36.32,0:01:38.11,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf30} I'll{\kf30} go{\kf65} mine{\kf24}~
+Dialogue: 0,0:01:38.49,0:01:41.82,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf69} some{\kf46}~{\kf120} days{\kf84}~
+Dialogue: 0,0:01:43.32,0:01:48.36,DEFAULT,,0,0,0,,{\r}{\kf34}I{\kf29} look{\kf58} out{\kf53} and{\kf43} pray{\kf34}~{\kf34}~{\kf72}~{\kf77}~{\kf70}~
+Dialogue: 0,0:01:48.70,0:01:51.78,DEFAULT,,0,0,0,,{\r}{\kf39}I{\kf29} won't{\kf54} have{\kf49} to{\kf49} stay{\kf88}~
+Dialogue: 0,0:01:52.86,0:01:57.20,DEFAULT,,0,0,0,,{\r}{\kf23}All{\kf23} a{\kf47}lone{\kf35}~{\kf117} un{\kf188}known
+Dialogue: 0,0:02:04.32,0:02:07.28,DEFAULT,,0,0,0,,{\r}{\kf46}How{\kf20}~{\kf15} could{\kf15} I{\kf20} walk{\kf31} this{\kf31} path{\kf31} a{\kf41}lone{\kf46}~
+Dialogue: 0,0:02:07.53,0:02:10.36,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} would{\kf16} have{\kf37} fal{\kf26}len{\kf52} with{\kf42}out{\kf42} you{\kf36}~
+Dialogue: 0,0:02:10.57,0:02:12.45,DEFAULT,,0,0,0,,{\r}{\kf17}To{\kf22} walk{\kf22} be{\kf22}side{\kf44} me{\kf28} and{\kf33}~
+Dialogue: 0,0:02:12.70,0:02:14.91,DEFAULT,,0,0,0,,{\r}{\kf32}Lift{\kf32} me{\kf27} up{\kf32} when{\kf43} I'm{\kf55} down
+Dialogue: 0,0:02:15.36,0:02:18.32,DEFAULT,,0,0,0,,{\r}{\kf55}I{\kf65} am{\kf60} a{\kf30}live{\kf15}~{\kf71}~
+Dialogue: 0,0:02:18.53,0:02:20.70,DEFAULT,,0,0,0,,{\r}{\kf21}Be{\kf32}cause{\kf21}~{\kf37} of{\kf16} your{\kf11} ge{\kf16}ne{\kf21}ro{\kf26}si{\kf16}ty
+Dialogue: 0,0:02:20.86,0:02:22.86,DEFAULT,,0,0,0,,{\r}{\kf16}Your{\kf26} loy{\kf26}al{\kf26}ty{\kf16} your{\kf26} ho{\kf26}nes{\kf38}ty
+Dialogue: 0,0:02:23.36,0:02:25.57,DEFAULT,,0,0,0,,{\r}{\kf34}Laugh{\kf25}ter{\kf34} kind{\kf34}ness{\kf54} and{\kf40} love
+Dialogue: 0,0:02:25.99,0:02:29.28,DEFAULT,,0,0,0,,{\r}{\kf48}You{\kf39} took{\kf24}~{\kf53} my{\kf29} heart{\kf136}~
+Dialogue: 0,0:02:30.95,0:02:33.41,DEFAULT,,0,0,0,,{\r}{\kf43}Said{\kf27} it{\kf37} could{\kf27}~{\kf64} be{\kf48} more
+Dialogue: 0,0:02:33.66,0:02:36.49,DEFAULT,,0,0,0,,{\r}{\kf25}Than{\kf35} worn{\kf30} and{\kf35} bro{\kf30}ken{\kf35} and{\kf93} scarred
+Dialogue: 0,0:02:37.70,0:02:39.95,DEFAULT,,0,0,0,,{\r}{\kf33}And{\kf23} when{\kf52} I'm{\kf23} a{\kf94}lone
+Dialogue: 0,0:02:40.20,0:02:41.78,DEFAULT,,0,0,0,,{\r}{\kf19}You{\kf24} taught{\kf19} me{\kf29} to{\kf67} sing
+Dialogue: 0,0:02:42.70,0:02:46.53,DEFAULT,,0,0,0,,{\r}{\kf68}Who{\kf50}~{\kf77} knows{\kf59}~{\kf77}~{\kf52}~?
+Dialogue: 0,0:02:47.36,0:02:52.24,DEFAULT,,0,0,0,,{\r}{\kf33}May{\kf24}be{\kf38} you{\kf24}~{\kf48} and{\kf53} yours{\kf181}~{\kf33}~{\kf29}~{\kf24}~
+Dialogue: 0,0:02:52.45,0:02:56.45,DEFAULT,,0,0,0,,{\r}{\kf23}Are{\kf33} star{\kf33}~{\kf51}ing{\kf56} out{\kf51}doors{\kf153}~
+Dialogue: 0,0:02:56.78,0:03:00.86,DEFAULT,,0,0,0,,{\r}{\kf23}At{\kf23} the{\kf70} same{\kf41}~{\kf117} rain{\kf134}bows
+Dialogue: 0,0:03:04.03,0:03:07.70,DEFAULT,,0,0,0,,{\r}{\kf65}Who{\kf52}~{\kf250} knows?
+Dialogue: 0,0:03:08.70,0:03:11.86,DEFAULT,,0,0,0,,{\r}{\kf34}May{\kf29}be{\kf34} you{\kf29}~{\kf48} and{\kf48} yours{\kf95}~
+Dialogue: 0,0:03:13.66,0:03:17.86,DEFAULT,,0,0,0,,{\r}{\kf33}Are{\kf37} star{\kf33}~{\kf47}ing{\kf56} out{\kf51}doors{\kf164}~
+Dialogue: 0,0:03:18.20,0:03:22.11,DEFAULT,,0,0,0,,{\r}{\kf20}At{\kf20} the{\kf65} same{\kf39}~{\kf111} rain{\kf137}bows
+Dialogue: 0,0:03:23.45,0:03:27.36,DEFAULT,,0,0,0,,{\r}{\kf20}At{\kf20} the{\kf65} same{\kf39}~{\kf111} rain{\kf137}bows
+Dialogue: 0,0:03:28.82,0:03:32.78,DEFAULT,,0,0,0,,{\r}{\kf19}At{\kf19} the{\kf65} same{\kf39}~{\kf110} rain{\kf144}bows
+Dialogue: 0,0:03:34.07,0:03:38.28,DEFAULT,,0,0,0,,{\r}{\kf19}At{\kf19} the{\kf63} same{\kf38}~{\kf126} rain{\kf156}bows
+Dialogue: 0,0:03:39.74,0:03:43.82,DEFAULT,,0,0,0,,{\r}{\kf24}At{\kf24} the{\kf78} same{\kf39}~{\kf102} rain{\kf141}bows
+Dialogue: 0,0:03:45.95,0:03:50.28,DEFAULT,,0,0,0,,{\r}{\kf28}At{\kf28} the{\kf85} same{\kf47}~{\kf113} rain{\kf132}bows

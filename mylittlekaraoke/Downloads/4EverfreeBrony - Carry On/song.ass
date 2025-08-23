@@ -1,54 +1,61 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Carry On
+Artist: 4EverfreeBrony, Metajoker & TrojanPony
+Original Timing: mylittlekaraoke.com by lily
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:13.40,0:00:16.20,DEFAULT,,0,0,0,,{\kf1353}I{\kf1369} felt{\kf1353} so{\kf1353}-o{\kf1413} bro{\kf1373}-o{\kf1397}ken
-Dialogue: 0,0:00:17.24,0:00:19.60,DEFAULT,,0,0,0,,{\kf1349}When{\kf1353} I{\kf1365} lost{\kf1353} my{\kf1353} fa{\kf1365}-aith{\kf1373} one{\kf1381} day
-Dialogue: 0,0:00:20.36,0:00:25.80,DEFAULT,,0,0,0,,{\kf1353}Like{\kf1357} a{\kf1349} po{\kf1369}-ot{\kf1397} knocked{\kf1409} o{\kf1385}ver,{\kf1389} made{\kf1373} out{\kf1353} o{\kf1357}-of{\kf1381} clay
-Dialogue: 0,0:00:26.64,0:00:29.80,DEFAULT,,0,0,0,,{\kf1349}And{\kf1369} it{\kf1369} hurt{\kf1373} so{\kf1369} bad{\kf1353} my{\kf1361} chest{\kf1349} lo{\kf1357}-ocked{\kf1353} u{\kf1361}-up
-Dialogue: 0,0:00:30.16,0:00:33.00,DEFAULT,,0,0,0,,{\kf1353}The{\kf1373} pain{\kf1377} made{\kf1353} me{\kf1353}-e{\kf1353} go{\kf1373} in{\kf1357}to{\kf1349} sho{\kf1365}-ock
-Dialogue: 0,0:00:33.40,0:00:36.32,DEFAULT,,0,0,0,,{\kf1353}It{\kf1369} felt{\kf1369} like{\kf1357} lo{\kf1361}sing{\kf1373} some{\kf1353}one{\kf1377} I{\kf1369} love
-Dialogue: 0,0:00:36.64,0:00:41.12,DEFAULT,,0,0,0,,{\kf1353}The{\kf1353} fra{\kf1361}gile{\kf1353} fea{\kf1349}-a{\kf1361}thers{\kf1353} ta{\kf1357}-a{\kf1369}ken{\kf1373} from{\kf1349} thi{\kf1349}-is{\kf1373} do{\kf1429}-ove
-Dialogue: 0,0:00:41.64,0:00:45.48,DEFAULT,,0,0,0,,{\kf1353}Oh{\kf1397}~,{\kf1353} but{\kf1353} I{\kf1353} knew{\kf1353}~{\kf1353} I{\kf1361} must{\kf1349} ca{\kf1353}-a{\kf1353}rry{\kf1357}~{\kf1405} on
-Dialogue: 0,0:00:46.20,0:00:49.04,DEFAULT,,0,0,0,,{\kf1353}The{\kf1353} pa{\kf1353}-ain{\kf1357} will{\kf1353} fa{\kf1353}-ade{\kf1369} as{\kf1353} I{\kf1353}~{\kf1369} moved{\kf1353} a{\kf1361}long
-Dialogue: 0,0:00:49.24,0:00:51.84,DEFAULT,,0,0,0,,{\kf1349}In{\kf1353} the{\kf1353} he{\kf1353}-earts{\kf1349} that{\kf1353} are{\kf1353} loy{\kf1353}al{\kf1365}ly{\kf1353} stro{\kf1381}-ong
-Dialogue: 0,0:00:52.80,0:00:57.44,DEFAULT,,0,0,0,,{\kf1377}Faith{\kf1353} will{\kf1353} al{\kf1353}~{\kf1373}ways{\kf1369} flut{\kf1377}ter{\kf1353} o{\kf1561}-on
-Dialogue: 0,0:00:57.84,0:01:01.00,DEFAULT,,0,0,0,,{\kf1353}Not{\kf1353} by{\kf1353} the{\kf1369} blind{\kf1353} sub{\kf1365}mis{\kf1353}sion{\kf1353} to{\kf1369} ru{\kf1353}lers{\kf1353} and{\kf1381} kings
-Dialogue: 0,0:01:01.20,0:01:04.44,DEFAULT,,0,0,0,,{\kf1353}But{\kf1353} the{\kf1373} bond{\kf1353} we{\kf1353} sha{\kf1353}-are,{\kf1353} like{\kf1353} two{\kf1365} birds{\kf1361} of{\kf1357} a{\kf1381} wing
-Dialogue: 0,0:01:04.84,0:01:07.44,DEFAULT,,0,0,0,,{\kf1369}We{\kf1353} must{\kf1349} le{\kf1373}-earn{\kf1353} to{\kf1349} ho{\kf1361}-o{\kf1349}ve{\kf1361}-er{\kf1377} on
-Dialogue: 0,0:01:07.72,0:01:13.56,DEFAULT,,0,0,0,,{\kf1353}From{\kf1369} all{\kf1357} the{\kf1353} ca{\kf1353}-are{\kf1373}less{\kf1353} da{\kf1357}-a{\kf1365}mage{\kf1377} that{\kf1365} we've{\kf1353} do{\kf1577}-one
-Dialogue: 0,0:01:14.44,0:01:16.92,DEFAULT,,0,0,0,,{\kf1349}Ca{\kf1377}-a{\kf1389}rry{\kf1349} o{\kf1453}-on
-Dialogue: 0,0:01:17.64,0:01:20.20,DEFAULT,,0,0,0,,{\kf1365}Live{\kf1353} to{\kf1353} si{\kf1369}-ing{\kf1357} a{\kf1373}no{\kf1349}the{\kf1353}-er{\kf1381} song
-Dialogue: 0,0:01:20.40,0:01:23.00,DEFAULT,,0,0,0,,{\kf1373}The{\kf1349} ri{\kf1353}-i{\kf1353}-i{\kf1389}sing{\kf1349} su{\kf1421}-un
-Dialogue: 0,0:01:23.80,0:01:26.80,DEFAULT,,0,0,0,,{\kf1349}Is{\kf1349} shi{\kf1357}-in{\kf1353}ing{\kf1353} bri{\kf1365}-ight{\kf1353} for{\kf1369} ev{\kf1349}ery{\kf1357}~{\kf1369}o{\kf1349}-o{\kf1353}-one
-Dialogue: 0,0:01:27.20,0:01:29.96,DEFAULT,,0,0,0,,{\kf1393}Car{\kf1357}ry{\kf1377}~{\kf1349} o{\kf1429}-o{\kf1353}-o{\kf1357}-on
-Dialogue: 0,0:01:31.64,0:01:35.36,DEFAULT,,0,0,0,,{\kf1361}Live{\kf1349} pro{\kf1377}-os{\kf1381}perous{\kf1409} and{\kf1473} long
-Dialogue: 0,0:01:45.24,0:01:48.28,DEFAULT,,0,0,0,,{\kf1365}One{\kf1373} tends{\kf1373} to{\kf1397} wo{\kf1393}-on{\kf1405}der
-Dialogue: 0,0:01:49.24,0:01:51.40,DEFAULT,,0,0,0,,{\kf1349}What{\kf1353} the{\kf1365} fu{\kf1353}ture{\kf1349} ha{\kf1357}-as{\kf1373} in{\kf1381} store
-Dialogue: 0,0:01:52.40,0:01:57.80,DEFAULT,,0,0,0,,{\kf1353}When{\kf1353} the{\kf1385} past{\kf1393} won't{\kf1389} give{\kf1389} out,{\kf1389} joy{\kf1373} a{\kf1353}ny{\kf1357}~{\kf1381}more
-Dialogue: 0,0:01:58.60,0:02:01.76,DEFAULT,,0,0,0,,{\kf1349}And{\kf1369} I{\kf1369} just{\kf1373} keep{\kf1373} fa{\kf1353}king{\kf1361} ev{\kf1365}ery{\kf1353} smi{\kf1361}-ile
-Dialogue: 0,0:02:02.20,0:02:05.00,DEFAULT,,0,0,0,,{\kf1353}I{\kf1373} walk{\kf1353} a{\kf1353}no{\kf1353}-o{\kf1373}ther{\kf1373} point{\kf1365}less{\kf1381} mile
-Dialogue: 0,0:02:05.32,0:02:08.32,DEFAULT,,0,0,0,,{\kf1353}I{\kf1357} don't{\kf1373} know{\kf1349} whe{\kf1353}-en{\kf1373} my{\kf1369} sor{\kf1353}row{\kf1377} will{\kf1369} cease
-Dialogue: 0,0:02:08.68,0:02:12.84,DEFAULT,,0,0,0,,{\kf1349}For{\kf1353} all{\kf1369} I{\kf1349} know{\kf1357}~{\kf1365} it's{\kf1373} just{\kf1373} a{\kf1373}no{\kf1353}the{\kf1353}-er{\kf1373} pie{\kf1405}-ece
-Dialogue: 0,0:02:13.56,0:02:17.40,DEFAULT,,0,0,0,,{\kf1353}Oh{\kf1401}~,{\kf1353} but{\kf1353} I{\kf1353} know{\kf1353}~{\kf1353} I{\kf1361} must{\kf1349} ca{\kf1353}-a{\kf1353}rry{\kf1353}~{\kf1405} on
-Dialogue: 0,0:02:18.20,0:02:21.00,DEFAULT,,0,0,0,,{\kf1353}The{\kf1373} pain{\kf1357} will{\kf1369} fade{\kf1369} as{\kf1373} I{\kf1369} move{\kf1353} a{\kf1357}long
-Dialogue: 0,0:02:21.20,0:02:23.80,DEFAULT,,0,0,0,,{\kf1349}In{\kf1353} the{\kf1349} he{\kf1357}-earts{\kf1349} that{\kf1353} are{\kf1353} loy{\kf1357}al{\kf1365}ly{\kf1349} stro{\kf1381}-ong
-Dialogue: 0,0:02:24.80,0:02:27.84,DEFAULT,,0,0,0,,{\kf1349}Fa{\kf1377}-aith{\kf1353} will{\kf1377}~{\kf1349} a{\kf1353}-a{\kf1377}-al{\kf1373}wa{\kf1353}-a{\kf1377}-ays...
-Dialogue: 0,0:02:28.04,0:02:30.52,DEFAULT,,0,0,0,,{\kf1349}Ca{\kf1377}-a{\kf1389}rry{\kf1349} o{\kf1453}-on
-Dialogue: 0,0:02:31.24,0:02:33.84,DEFAULT,,0,0,0,,{\kf1349}Li{\kf1353}-ive{\kf1353} to{\kf1353} si{\kf1369}-ing{\kf1353} a{\kf1373}no{\kf1349}the{\kf1357}-er{\kf1381} song
-Dialogue: 0,0:02:34.04,0:02:36.64,DEFAULT,,0,0,0,,{\kf1369}The{\kf1349} ri{\kf1353}-i{\kf1353}-i{\kf1393}sing{\kf1349} su{\kf1421}-un
-Dialogue: 0,0:02:37.20,0:02:40.44,DEFAULT,,0,0,0,,{\kf1369}Is{\kf1349} shi{\kf1357}-in{\kf1353}ing{\kf1353} bri{\kf1365}-ight{\kf1353} for{\kf1369} ev{\kf1349}ery{\kf1357}~{\kf1381}o{\kf1361}-one
-Dialogue: 0,0:02:40.84,0:02:43.32,DEFAULT,,0,0,0,,{\kf1349}Ca{\kf1377}-a{\kf1389}rry{\kf1349} o{\kf1453}-on
-Dialogue: 0,0:02:44.04,0:02:46.64,DEFAULT,,0,0,0,,{\kf1349}Be{\kf1349}~{\kf1353} the{\kf1353} cha{\kf1369}-ange{\kf1357} you{\kf1369} want{\kf1349} to{\kf1353}~{\kf1377} see
-Dialogue: 0,0:02:46.84,0:02:49.32,DEFAULT,,0,0,0,,{\kf1373}You're{\kf1369} on{\kf1353}~{\kf1389}ly{\kf1349} o{\kf1413}-one
-Dialogue: 0,0:02:50.04,0:02:53.24,DEFAULT,,0,0,0,,{\kf1365}It{\kf1373} all{\kf1369} comes{\kf1349} do{\kf1353}-own{\kf1353} to{\kf1365} what{\kf1353} you{\kf1353} be{\kf1373}lie{\kf1365}-eve
-Dialogue: 0,0:02:53.64,0:02:56.12,DEFAULT,,0,0,0,,{\kf1393}Ca{\kf1353}rry{\kf1365}~{\kf1349} o{\kf1397}-o{\kf1349}-o{\kf1369}-on
-Dialogue: 0,0:02:58.04,0:03:03.88,DEFAULT,,0,0,0,,{\kf1373}Be{\kf1349} va{\kf1369}-al{\kf1385}iant{\kf1353} and{\kf1349} ca{\kf1377}-a{\kf1353}rry{\kf1373}~{\kf1349} o{\kf1365}-o{\kf1461}-o{\kf1345}-o{\kf1349}-o{\kf1349}-o{\kf1393}-on
-Dialogue: 0,0:03:04.40,0:03:09.04,DEFAULT,,0,0,0,,{\kf1373}Live{\kf1349} pro{\kf1397}-os{\kf1389}perous{\kf1413} and{\kf1349} lo{\kf1509}-ong
+Dialogue: 0,0:00:13.41,0:00:16.21,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf35} felt{\kf15} so{\kf15}-o{\kf90} bro{\kf40}-o{\kf70}ken
+Dialogue: 0,0:00:17.25,0:00:19.61,DEFAULT,,0,0,0,,{\r}{\kf12}When{\kf17} I{\kf35} lost{\kf17} my{\kf17} fa{\kf35}-aith{\kf46} one{\kf57} day
+Dialogue: 0,0:00:20.37,0:00:25.81,DEFAULT,,0,0,0,,{\r}{\kf17}Like{\kf23} a{\kf11} po{\kf40}-ot{\kf80} knocked{\kf97} o{\kf63}ver,{\kf69} made{\kf46} out{\kf17} o{\kf23}-of{\kf58} clay
+Dialogue: 0,0:00:26.65,0:00:29.81,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf42} it{\kf42} hurt{\kf48} so{\kf42} bad{\kf18} my{\kf30} chest{\kf12} lo{\kf24}-ocked{\kf18} u{\kf28}-up
+Dialogue: 0,0:00:30.17,0:00:33.01,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf46} pain{\kf52} made{\kf17} me{\kf17}-e{\kf17} go{\kf46} in{\kf23}to{\kf12} sho{\kf37}-ock
+Dialogue: 0,0:00:33.41,0:00:36.33,DEFAULT,,0,0,0,,{\r}{\kf17}It{\kf39} felt{\kf39} like{\kf22} lo{\kf28}sing{\kf44} some{\kf17}one{\kf50} I{\kf36} love
+Dialogue: 0,0:00:36.65,0:00:41.13,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf17} fra{\kf29}gile{\kf17} fea{\kf12}-a{\kf29}thers{\kf17} ta{\kf23}-a{\kf41}ken{\kf47} from{\kf12} thi{\kf12}-is{\kf47} do{\kf128}-ove
+Dialogue: 0,0:00:41.65,0:00:45.49,DEFAULT,,0,0,0,,{\r}{\kf18}Oh{\kf83}~,{\kf18} but{\kf18} I{\kf18} knew{\kf18}~{\kf18} I{\kf30} must{\kf12} ca{\kf18}-a{\kf18}rry{\kf24}~{\kf91} on
+Dialogue: 0,0:00:46.21,0:00:49.05,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf18} pa{\kf18}-ain{\kf24} will{\kf18} fa{\kf18}-ade{\kf42} as{\kf18} I{\kf18}~{\kf42} moved{\kf18} a{\kf32}long
+Dialogue: 0,0:00:49.25,0:00:51.85,DEFAULT,,0,0,0,,{\r}{\kf13}In{\kf19} the{\kf19} he{\kf19}-earts{\kf13} that{\kf19} are{\kf19} loy{\kf19}al{\kf38}ly{\kf19} stro{\kf63}-ong
+Dialogue: 0,0:00:52.81,0:00:57.45,DEFAULT,,0,0,0,,{\r}{\kf42}Faith{\kf14} will{\kf14} al{\kf14}~{\kf37}ways{\kf32} flut{\kf42}ter{\kf14} o{\kf255}-on
+Dialogue: 0,0:00:57.85,0:01:01.01,DEFAULT,,0,0,0,,{\r}{\kf18}Not{\kf18} by{\kf18} the{\kf41} blind{\kf18} sub{\kf35}mis{\kf18}sion{\kf18} to{\kf41} ru{\kf18}lers{\kf18} and{\kf55} kings
+Dialogue: 0,0:01:01.21,0:01:04.45,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf18} the{\kf48} bond{\kf18} we{\kf18} sha{\kf18}-are,{\kf18} like{\kf18} two{\kf36} birds{\kf30} of{\kf24} a{\kf60} wing
+Dialogue: 0,0:01:04.85,0:01:07.45,DEFAULT,,0,0,0,,{\r}{\kf40}We{\kf17} must{\kf11} le{\kf45}-earn{\kf17} to{\kf11} ho{\kf28}-o{\kf11}ve{\kf28}-er{\kf52} on
+Dialogue: 0,0:01:07.73,0:01:13.57,DEFAULT,,0,0,0,,{\r}{\kf15}From{\kf35} all{\kf20} the{\kf15} ca{\kf15}-are{\kf40}less{\kf15} da{\kf20}-a{\kf30}mage{\kf45} that{\kf30} we've{\kf15} do{\kf289}-one
+Dialogue: 0,0:01:14.45,0:01:16.93,DEFAULT,,0,0,0,,{\r}{\kf10}Ca{\kf42}-a{\kf56}rry{\kf10} o{\kf130}-on
+Dialogue: 0,0:01:17.65,0:01:20.21,DEFAULT,,0,0,0,,{\r}{\kf33}Live{\kf17} to{\kf17} si{\kf39}-ing{\kf22} a{\kf45}no{\kf11}the{\kf17}-er{\kf55} song
+Dialogue: 0,0:01:20.41,0:01:23.01,DEFAULT,,0,0,0,,{\r}{\kf42}The{\kf10} ri{\kf16}-i{\kf16}-i{\kf62}sing{\kf10} su{\kf104}-un
+Dialogue: 0,0:01:23.81,0:01:26.81,DEFAULT,,0,0,0,,{\r}{\kf12}Is{\kf12} shi{\kf25}-in{\kf19}ing{\kf19} bri{\kf37}-ight{\kf19} for{\kf44} ev{\kf12}ery{\kf25}~{\kf44}o{\kf12}-o{\kf20}-one
+Dialogue: 0,0:01:27.21,0:01:29.97,DEFAULT,,0,0,0,,{\r}{\kf63}Car{\kf19}ry{\kf44}~{\kf10} o{\kf107}-o{\kf15}-o{\kf18}-on
+Dialogue: 0,0:01:31.65,0:01:35.37,DEFAULT,,0,0,0,,{\r}{\kf24}Live{\kf10} pro{\kf44}-os{\kf49}perous{\kf83} and{\kf162} long
+Dialogue: 0,0:01:45.25,0:01:48.29,DEFAULT,,0,0,0,,{\r}{\kf28}One{\kf37} tends{\kf37} to{\kf65} wo{\kf61}-on{\kf76}der
+Dialogue: 0,0:01:49.25,0:01:51.41,DEFAULT,,0,0,0,,{\r}{\kf11}What{\kf17} the{\kf34} fu{\kf17}ture{\kf11} ha{\kf23}-as{\kf45} in{\kf58} store
+Dialogue: 0,0:01:52.41,0:01:57.81,DEFAULT,,0,0,0,,{\r}{\kf18}When{\kf18} the{\kf65} past{\kf77} won't{\kf71} give{\kf71} out,{\kf71} joy{\kf47} a{\kf18}ny{\kf24}~{\kf60}more
+Dialogue: 0,0:01:58.61,0:02:01.77,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf41} I{\kf41} just{\kf47} keep{\kf47} fa{\kf18}king{\kf29} ev{\kf35}ery{\kf18} smi{\kf28}-ile
+Dialogue: 0,0:02:02.21,0:02:05.01,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf43} walk{\kf16} a{\kf16}no{\kf16}-o{\kf43}ther{\kf43} point{\kf32}less{\kf55} mile
+Dialogue: 0,0:02:05.33,0:02:08.33,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf22} don't{\kf44} know{\kf11} whe{\kf17}-en{\kf44} my{\kf39} sor{\kf17}row{\kf50} will{\kf39} cease
+Dialogue: 0,0:02:08.69,0:02:12.85,DEFAULT,,0,0,0,,{\r}{\kf11}For{\kf16} all{\kf37} I{\kf11} know{\kf21}~{\kf32} it's{\kf43} just{\kf43} a{\kf43}no{\kf16}the{\kf16}-er{\kf43} pie{\kf84}-ece
+Dialogue: 0,0:02:13.57,0:02:17.41,DEFAULT,,0,0,0,,{\r}{\kf18}Oh{\kf89}~,{\kf18} but{\kf18} I{\kf18} know{\kf18}~{\kf18} I{\kf30} must{\kf12} ca{\kf18}-a{\kf18}rry{\kf18}~{\kf91} on
+Dialogue: 0,0:02:18.21,0:02:21.01,DEFAULT,,0,0,0,,{\r}{\kf16}The{\kf44} pain{\kf22} will{\kf38} fade{\kf38} as{\kf44} I{\kf38} move{\kf16} a{\kf24}long
+Dialogue: 0,0:02:21.21,0:02:23.81,DEFAULT,,0,0,0,,{\r}{\kf13}In{\kf19} the{\kf13} he{\kf25}-earts{\kf13} that{\kf19} are{\kf19} loy{\kf25}al{\kf38}ly{\kf13} stro{\kf63}-ong
+Dialogue: 0,0:02:24.81,0:02:27.85,DEFAULT,,0,0,0,,{\r}{\kf11}Fa{\kf48}-aith{\kf16} will{\kf48}~{\kf11} a{\kf16}-a{\kf48}-al{\kf43}wa{\kf16}-a{\kf47}-ays...
+Dialogue: 0,0:02:28.05,0:02:30.53,DEFAULT,,0,0,0,,{\r}{\kf10}Ca{\kf42}-a{\kf56}rry{\kf10} o{\kf130}-on
+Dialogue: 0,0:02:31.25,0:02:33.85,DEFAULT,,0,0,0,,{\r}{\kf12}Li{\kf17}-ive{\kf17} to{\kf17} si{\kf40}-ing{\kf17} a{\kf46}no{\kf12}the{\kf23}-er{\kf59} song
+Dialogue: 0,0:02:34.05,0:02:36.65,DEFAULT,,0,0,0,,{\r}{\kf36}The{\kf10} ri{\kf16}-i{\kf16}-i{\kf68}sing{\kf10} su{\kf104}-un
+Dialogue: 0,0:02:37.21,0:02:40.45,DEFAULT,,0,0,0,,{\r}{\kf40}Is{\kf12} shi{\kf23}-in{\kf17}ing{\kf17} bri{\kf35}-ight{\kf17} for{\kf40} ev{\kf12}ery{\kf23}~{\kf58}o{\kf30}-one
+Dialogue: 0,0:02:40.85,0:02:43.33,DEFAULT,,0,0,0,,{\r}{\kf10}Ca{\kf42}-a{\kf56}rry{\kf10} o{\kf130}-on
+Dialogue: 0,0:02:44.05,0:02:46.65,DEFAULT,,0,0,0,,{\r}{\kf12}Be{\kf12}~{\kf19} the{\kf19} cha{\kf43}-ange{\kf25} you{\kf43} want{\kf12} to{\kf19}~{\kf56} see
+Dialogue: 0,0:02:46.85,0:02:49.33,DEFAULT,,0,0,0,,{\r}{\kf40}You're{\kf35} on{\kf15}~{\kf60}ly{\kf10} o{\kf88}-one
+Dialogue: 0,0:02:50.05,0:02:53.25,DEFAULT,,0,0,0,,{\r}{\kf35}It{\kf47} all{\kf41} comes{\kf12} do{\kf17}-own{\kf17} to{\kf35} what{\kf17} you{\kf17} be{\kf47}lie{\kf35}-eve
+Dialogue: 0,0:02:53.65,0:02:56.13,DEFAULT,,0,0,0,,{\r}{\kf69}Ca{\kf16}rry{\kf32}~{\kf11} o{\kf74}-o{\kf11}-o{\kf35}-on
+Dialogue: 0,0:02:58.05,0:03:03.89,DEFAULT,,0,0,0,,{\r}{\kf43}Be{\kf11} va{\kf38}-al{\kf59}iant{\kf16} and{\kf11} ca{\kf48}-a{\kf16}rry{\kf43}~{\kf11} o{\kf32}-o{\kf161}-o{\kf10}-o{\kf11}-o{\kf11}-o{\kf63}-on
+Dialogue: 0,0:03:04.41,0:03:09.05,DEFAULT,,0,0,0,,{\r}{\kf38}Live{\kf10} pro{\kf66}-os{\kf57}perous{\kf85} and{\kf10} lo{\kf198}-ong

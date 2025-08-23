@@ -1,50 +1,57 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Last Year I Got Coal for Christmas
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Dex
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.30,0:00:03.53,DEFAULT,,0,0,0,,{\kf32}Last{\kf24} year{\kf28} I{\kf28} got{\kf74} coal{\kf35} for{\kf32} Christ{\kf43}mas
-Dialogue: 0,0:00:05.20,0:00:09.28,DEFAULT,,0,0,0,,{\kf28}I{\kf28} got{\kf28} put{\kf16} on{\kf32} San{\kf20}ta's{\kf32} naugh{\kf16}ty{\kf59} list{\kf39} (A{\kf43}gain!)
-Dialogue: 0,0:00:10.18,0:00:14.26,DEFAULT,,0,0,0,,{\kf28}Put{\kf12} a{\kf39} frog{\kf16} in{\kf28}side{\kf24} my{\kf28} tea{\kf28}cher's{\kf32} desk -{\kf28} yeah,{\kf20} that{\kf28} was{\kf47} bad
-Dialogue: 0,0:00:14.68,0:00:17.83,DEFAULT,,0,0,0,,{\kf24}But{\kf28} this{\kf24} year,{\kf28} I{\kf24} made{\kf28} sure{\kf24} I{\kf28} won't{\kf20} get{\kf43} missed
-Dialogue: 0,0:00:19.89,0:00:24.17,DEFAULT,,0,0,0,,{\kf32}Last{\kf28} year{\kf20} I{\kf32} got{\kf74} coal{\kf28} for{\kf28} Christ{\kf43}mas{\kf63} (Man!)
-Dialogue: 0,0:00:24.83,0:00:29.03,DEFAULT,,0,0,0,,{\kf28}Di{\kf28}dn't{\kf20} do{\kf28} my{\kf35} home{\kf16}work{\kf24} for{\kf16} a{\kf43} week{\kf20} (O{\kf28}kay,{\kf8} a{\kf43} month!)
-Dialogue: 0,0:00:29.42,0:00:33.77,DEFAULT,,0,0,0,,{\kf28}But{\kf28} now{\kf16} I{\kf35} stu{\kf24}died{\kf32} hard{\kf24} and{\kf28} near{\kf32}ly{\kf28} aced{\kf24} most{\kf28} e{\kf20}very{\kf47} test
-Dialogue: 0,0:00:34.24,0:00:37.50,DEFAULT,,0,0,0,,{\kf28}So{\kf32} this{\kf24} year's{\kf28} Christ{\kf32}mas{\kf24} be{\kf24}tter{\kf28} be{\kf24} the{\kf47} best
-Dialogue: 0,0:00:39.76,0:00:41.78,DEFAULT,,0,0,0,,{\kf32}Spent{\kf32} time{\kf24} with{\kf32} my{\kf24} old{\kf20} gran{\kf20}ny
-Dialogue: 0,0:00:42.25,0:00:43.72,DEFAULT,,0,0,0,,{\kf16}Ra{\kf12}king{\kf24} up{\kf20} her{\kf59} lawn
-Dialogue: 0,0:00:44.69,0:00:48.58,DEFAULT,,0,0,0,,{\kf32}Took{\kf28} out{\kf24} the{\kf28} gar{\kf28}bage{\kf20} e{\kf28}very{\kf39} night{\kf94} (Ewww!)
-Dialogue: 0,0:00:49.55,0:00:51.57,DEFAULT,,0,0,0,,{\kf32}Helped{\kf28} ma{\kf28}ma{\kf28} do{\kf24} the{\kf20} laun{\kf24}dry
-Dialogue: 0,0:00:52.08,0:00:53.60,DEFAULT,,0,0,0,,{\kf32}Cleaned{\kf24} up{\kf24} my{\kf63} room
-Dialogue: 0,0:00:54.49,0:00:57.06,DEFAULT,,0,0,0,,{\kf32}Did{\kf24} e{\kf16}very{\kf32} sin{\kf16}gle{\kf43} chore{\kf12} in{\kf47} sight
-Dialogue: 0,0:00:59.08,0:01:03.62,DEFAULT,,0,0,0,,{\kf35}Last{\kf24} year{\kf16} I{\kf28} got{\kf90} coal{\kf28} for{\kf28} Christ{\kf35}mas{\kf24} (Aw,{\kf78} shucks!)
-Dialogue: 0,0:01:03.97,0:01:06.77,DEFAULT,,0,0,0,,{\kf20}E{\kf20}very{\kf32} pho{\kf28}to{\kf24} I{\kf28} just{\kf32} made{\kf12} a{\kf39} face
-Dialogue: 0,0:01:08.83,0:01:13.19,DEFAULT,,0,0,0,,{\kf32}This{\kf24} year{\kf32} when{\kf20} we{\kf32} posed,{\kf20} I{\kf32} smi{\kf20}led{\kf35} swee{\kf20}tly{\kf32} like{\kf28} an{\kf20} an{\kf35}gel
-Dialogue: 0,0:01:13.73,0:01:16.61,DEFAULT,,0,0,0,,{\kf28}No{\kf28} more{\kf28} ta{\kf28}king{\kf28} chan{\kf28}ces{\kf32} just{\kf20} in{\kf39} case
-Dialogue: 0,0:01:18.67,0:01:22.71,DEFAULT,,0,0,0,,{\kf35}Last{\kf24} year{\kf32} I{\kf20} got{\kf94} coal{\kf20} for{\kf32} Christ{\kf51}mas{\kf16} (Real{\kf20}ly?!)
-Dialogue: 0,0:01:23.02,0:01:27.69,DEFAULT,,0,0,0,,{\kf24}Ate{\kf20} des{\kf32}sert{\kf20} be{\kf24}fore{\kf32} my{\kf8} din{\kf12}ner{\kf32} most{\kf28} of{\kf20} the{\kf47} time{\kf47} (Mmm!{\kf47} Cake!)
-Dialogue: 0,0:01:28.19,0:01:32.51,DEFAULT,,0,0,0,,{\kf28}But{\kf32} this{\kf24} year{\kf24} I{\kf28} had{\kf28} vege{\kf20}ta{\kf35}bles{\kf32} with{\kf20} e{\kf24}very{\kf32} sin{\kf24}gle{\kf35} byte
-Dialogue: 0,0:01:32.97,0:01:37.83,DEFAULT,,0,0,0,,{\kf24}I{\kf35} sure{\kf28} hope{\kf35} this{\kf12} year{\kf32} San{\kf28}ta{\kf32} gets{\kf20} it{\kf43} right{\kf28} (Come{\kf28} on,{\kf35} San{\kf43}ta!)
-Dialogue: 0,0:01:38.49,0:01:40.63,DEFAULT,,0,0,0,,{\kf35}Spent{\kf32} time{\kf24} with{\kf32} my{\kf24} old{\kf16} gran{\kf32}ny
-Dialogue: 0,0:01:41.02,0:01:42.57,DEFAULT,,0,0,0,,{\kf16}Ra{\kf16}king{\kf20} up{\kf20} her{\kf67} lawn
-Dialogue: 0,0:01:43.43,0:01:47.67,DEFAULT,,0,0,0,,{\kf35}Took{\kf28} out{\kf20} the{\kf32} gar{\kf28}bage{\kf20} e{\kf28}very{\kf43} night{\kf28} (She{\kf28} eats{\kf28} so{\kf47} much!)
-Dialogue: 0,0:01:48.33,0:01:50.47,DEFAULT,,0,0,0,,{\kf32}Helped{\kf28} ma{\kf24}ma{\kf32} do{\kf24} the{\kf24} laun{\kf32}dry
-Dialogue: 0,0:01:50.82,0:01:52.25,DEFAULT,,0,0,0,,{\kf35}Cleaned{\kf24} up{\kf20} my{\kf55} room
-Dialogue: 0,0:01:53.26,0:01:57.31,DEFAULT,,0,0,0,,{\kf32}Did{\kf24} e{\kf16}very{\kf35} sin{\kf20}gle{\kf35} chore{\kf16} in{\kf47} sight{\kf51} (Aw,{\kf74} gross!)
-Dialogue: 0,0:01:57.85,0:02:02.40,DEFAULT,,0,0,0,,{\kf35}Last{\kf24} year{\kf28} I{\kf24} got{\kf86} coal{\kf28} for{\kf32} Christ{\kf51}mas{\kf16} (For{\kf12} cry{\kf12}ing{\kf16} out{\kf39} loud!)
-Dialogue: 0,0:02:02.48,0:02:05.66,DEFAULT,,0,0,0,,{\kf28}I{\kf24} go{\kf28} to{\kf32} bed{\kf24} and{\kf28} ne{\kf24}ver{\kf32} brush{\kf24} my{\kf47} teeth
-Dialogue: 0,0:02:07.65,0:02:11.85,DEFAULT,,0,0,0,,{\kf32}Now{\kf28} I{\kf28} bring{\kf24} my{\kf28} tooth{\kf24}brush{\kf28} each{\kf24} and{\kf24} e{\kf28}very{\kf32} place{\kf24} I{\kf51} go
-Dialogue: 0,0:02:12.20,0:02:15.31,DEFAULT,,0,0,0,,{\kf12}So{\kf16} that{\kf28} tree{\kf12} bet{\kf12}ter{\kf28} got{\kf24} my{\kf24} pre{\kf35}sents{\kf24} un{\kf20}der{\kf35}neath
-Dialogue: 0,0:02:17.48,0:02:21.45,DEFAULT,,0,0,0,,{\kf28}This{\kf24} year,{\kf28} no{\kf24} more{\kf86} coal{\kf20} for{\kf32} Christ{\kf55}mas{\kf39} (Yes!)
-Dialogue: 0,0:02:22.34,0:02:26.34,DEFAULT,,0,0,0,,{\kf28}San{\kf28}ta{\kf28} took{\kf24} me{\kf32} off{\kf12} the{\kf28} naugh{\kf20}ty{\kf51} list{\kf16} (Woo-{\kf78}hoo!)
-Dialogue: 0,0:02:27.24,0:02:31.48,DEFAULT,,0,0,0,,{\kf28}I{\kf28} might{\kf32} keep{\kf16} it{\kf24} up{\kf20} be{\kf32}cause{\kf28} it's{\kf24} real{\kf28}ly{\kf24} not{\kf28} so{\kf59} bad
-Dialogue: 0,0:02:31.79,0:02:33.73,DEFAULT,,0,0,0,,{\kf20}So{\kf35} San{\kf24}ta,{\kf28} just{\kf28} bring{\kf12} pre{\kf20}sents
-Dialogue: 0,0:02:34.00,0:02:36.22,DEFAULT,,0,0,0,,{\kf24}Please,{\kf16} dear{\kf32} San{\kf20}ta,{\kf28} no{\kf20} more{\kf12} les{\kf28}sons
-Dialogue: 0,0:02:36.45,0:02:39.91,DEFAULT,,0,0,0,,{\kf28}Next{\kf16} year,{\kf32} San{\kf24}ta,{\kf32} just{\kf24} bring{\kf16} pre{\kf24}sents,{\kf28} I{\kf20} in{\kf47}sist!
-Dialogue: 0,0:02:40.34,0:02:41.08,DEFAULT,,0,0,0,,{\kf24}Se{\kf12}ri{\kf16}ous{\kf16}ly.
+Dialogue: 0,0:00:00.31,0:00:03.53,DEFAULT,,0,0,0,,{\r}{\kf34}Last{\kf26} year{\kf30} I{\kf30} got{\kf82} coal{\kf39} for{\kf34} Christ{\kf48}mas
+Dialogue: 0,0:00:05.20,0:00:09.29,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf33} got{\kf33} put{\kf19} on{\kf38} San{\kf24}ta's{\kf38} naugh{\kf19}ty{\kf71} list{\kf47} (A{\kf53}gain!)
+Dialogue: 0,0:00:10.18,0:00:14.26,DEFAULT,,0,0,0,,{\r}{\kf32}Put{\kf14} a{\kf45} frog{\kf18} in{\kf32}side{\kf27} my{\kf32} tea{\kf32}cher's{\kf36} desk -{\kf32} yeah,{\kf23} that{\kf32} was{\kf53} bad
+Dialogue: 0,0:00:14.69,0:00:17.84,DEFAULT,,0,0,0,,{\r}{\kf28}But{\kf32} this{\kf28} year,{\kf32} I{\kf28} made{\kf32} sure{\kf28} I{\kf32} won't{\kf23} get{\kf52} missed
+Dialogue: 0,0:00:19.90,0:00:24.17,DEFAULT,,0,0,0,,{\r}{\kf39}Last{\kf34} year{\kf24} I{\kf39} got{\kf92} coal{\kf34} for{\kf34} Christ{\kf53}mas{\kf79} (Man!)
+Dialogue: 0,0:00:24.84,0:00:29.03,DEFAULT,,0,0,0,,{\r}{\kf35}Di{\kf35}dn't{\kf25} do{\kf35} my{\kf44} home{\kf20}work{\kf30} for{\kf20} a{\kf54} week{\kf25} (O{\kf35}kay,{\kf10} a{\kf52} month!)
+Dialogue: 0,0:00:29.42,0:00:33.78,DEFAULT,,0,0,0,,{\r}{\kf31}But{\kf31} now{\kf18} I{\kf40} stu{\kf26}died{\kf35} hard{\kf26} and{\kf31} near{\kf35}ly{\kf31} aced{\kf26} most{\kf31} e{\kf22}very{\kf52} test
+Dialogue: 0,0:00:34.24,0:00:37.51,DEFAULT,,0,0,0,,{\r}{\kf31}So{\kf36} this{\kf27} year's{\kf31} Christ{\kf36}mas{\kf27} be{\kf27}tter{\kf31} be{\kf27} the{\kf54} best
+Dialogue: 0,0:00:39.76,0:00:41.78,DEFAULT,,0,0,0,,{\r}{\kf35}Spent{\kf35} time{\kf26} with{\kf35} my{\kf26} old{\kf22} gran{\kf23}ny
+Dialogue: 0,0:00:42.25,0:00:43.73,DEFAULT,,0,0,0,,{\r}{\kf18}Ra{\kf13}king{\kf27} up{\kf22} her{\kf68} lawn
+Dialogue: 0,0:00:44.70,0:00:48.59,DEFAULT,,0,0,0,,{\r}{\kf38}Took{\kf34} out{\kf29} the{\kf34} gar{\kf34}bage{\kf24} e{\kf34}very{\kf48} night{\kf114} (Ewww!)
+Dialogue: 0,0:00:49.56,0:00:51.58,DEFAULT,,0,0,0,,{\r}{\kf35}Helped{\kf31} ma{\kf31}ma{\kf31} do{\kf26} the{\kf22} laun{\kf26}dry
+Dialogue: 0,0:00:52.08,0:00:53.60,DEFAULT,,0,0,0,,{\r}{\kf34}Cleaned{\kf25} up{\kf25} my{\kf68} room
+Dialogue: 0,0:00:54.49,0:00:57.06,DEFAULT,,0,0,0,,{\r}{\kf37}Did{\kf28} e{\kf18}very{\kf37} sin{\kf18}gle{\kf50} chore{\kf14} in{\kf55} sight
+Dialogue: 0,0:00:59.08,0:01:03.63,DEFAULT,,0,0,0,,{\r}{\kf42}Last{\kf28} year{\kf19} I{\kf32} got{\kf107} coal{\kf32} for{\kf32} Christ{\kf42}mas{\kf28} (Aw,{\kf93} shucks!)
+Dialogue: 0,0:01:03.98,0:01:06.78,DEFAULT,,0,0,0,,{\r}{\kf24}E{\kf24}very{\kf38} pho{\kf33}to{\kf28} I{\kf33} just{\kf38} made{\kf14} a{\kf48} face
+Dialogue: 0,0:01:08.84,0:01:13.19,DEFAULT,,0,0,0,,{\r}{\kf36}This{\kf27} year{\kf36} when{\kf23} we{\kf36} posed,{\kf23} I{\kf36} smi{\kf23}led{\kf41} swee{\kf23}tly{\kf36} like{\kf32} an{\kf23} an{\kf40}gel
+Dialogue: 0,0:01:13.74,0:01:16.61,DEFAULT,,0,0,0,,{\r}{\kf31}No{\kf31} more{\kf31} ta{\kf31}king{\kf31} chan{\kf31}ces{\kf35} just{\kf22} in{\kf45} case
+Dialogue: 0,0:01:18.67,0:01:22.72,DEFAULT,,0,0,0,,{\r}{\kf42}Last{\kf28} year{\kf37} I{\kf23} got{\kf111} coal{\kf23} for{\kf37} Christ{\kf60}mas{\kf19} (Real{\kf24}ly?!)
+Dialogue: 0,0:01:23.03,0:01:27.69,DEFAULT,,0,0,0,,{\r}{\kf28}Ate{\kf24} des{\kf38}sert{\kf24} be{\kf28}fore{\kf38} my{\kf10} din{\kf14}ner{\kf38} most{\kf33} of{\kf24} the{\kf56} time{\kf56} (Mmm!{\kf55} Cake!)
+Dialogue: 0,0:01:28.20,0:01:32.51,DEFAULT,,0,0,0,,{\r}{\kf31}But{\kf36} this{\kf27} year{\kf27} I{\kf31} had{\kf31} vege{\kf22}ta{\kf40}bles{\kf36} with{\kf22} e{\kf27}very{\kf36} sin{\kf27}gle{\kf38} byte
+Dialogue: 0,0:01:32.98,0:01:37.84,DEFAULT,,0,0,0,,{\r}{\kf27}I{\kf41} sure{\kf32} hope{\kf41} this{\kf14} year{\kf36} San{\kf32}ta{\kf36} gets{\kf23} it{\kf50} right{\kf32} (Come{\kf32} on,{\kf41} San{\kf49}ta!)
+Dialogue: 0,0:01:38.50,0:01:40.64,DEFAULT,,0,0,0,,{\r}{\kf39}Spent{\kf35} time{\kf26} with{\kf35} my{\kf26} old{\kf17} gran{\kf36}ny
+Dialogue: 0,0:01:41.02,0:01:42.58,DEFAULT,,0,0,0,,{\r}{\kf18}Ra{\kf18}king{\kf22} up{\kf22} her{\kf75} lawn
+Dialogue: 0,0:01:43.43,0:01:47.67,DEFAULT,,0,0,0,,{\r}{\kf41}Took{\kf32} out{\kf23} the{\kf37} gar{\kf32}bage{\kf23} e{\kf32}very{\kf51} night{\kf32} (She{\kf32} eats{\kf32} so{\kf57} much!)
+Dialogue: 0,0:01:48.33,0:01:50.47,DEFAULT,,0,0,0,,{\r}{\kf35}Helped{\kf31} ma{\kf26}ma{\kf35} do{\kf26} the{\kf26} laun{\kf35}dry
+Dialogue: 0,0:01:50.82,0:01:52.26,DEFAULT,,0,0,0,,{\r}{\kf38}Cleaned{\kf25} up{\kf21} my{\kf60} room
+Dialogue: 0,0:01:53.27,0:01:57.31,DEFAULT,,0,0,0,,{\r}{\kf36}Did{\kf27} e{\kf18}very{\kf41} sin{\kf23}gle{\kf41} chore{\kf18} in{\kf54} sight{\kf59} (Aw,{\kf87} gross!)
+Dialogue: 0,0:01:57.86,0:02:02.40,DEFAULT,,0,0,0,,{\r}{\kf40}Last{\kf27} year{\kf31} I{\kf27} got{\kf98} coal{\kf31} for{\kf36} Christ{\kf58}mas{\kf18} (For{\kf13} cry{\kf13}ing{\kf18} out{\kf45} loud!)
+Dialogue: 0,0:02:02.48,0:02:05.67,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf26} go{\kf31} to{\kf35} bed{\kf26} and{\kf31} ne{\kf26}ver{\kf35} brush{\kf26} my{\kf52} teeth
+Dialogue: 0,0:02:07.65,0:02:11.85,DEFAULT,,0,0,0,,{\r}{\kf36}Now{\kf31} I{\kf31} bring{\kf27} my{\kf31} tooth{\kf27}brush{\kf31} each{\kf27} and{\kf27} e{\kf31}very{\kf36} place{\kf27} I{\kf58} go
+Dialogue: 0,0:02:12.20,0:02:15.31,DEFAULT,,0,0,0,,{\r}{\kf14}So{\kf18} that{\kf32} tree{\kf14} bet{\kf14}ter{\kf32} got{\kf27} my{\kf27} pre{\kf41}sents{\kf27} un{\kf23}der{\kf42}neath
+Dialogue: 0,0:02:17.49,0:02:21.45,DEFAULT,,0,0,0,,{\r}{\kf33}This{\kf28} year,{\kf33} no{\kf28} more{\kf102} coal{\kf23} for{\kf37} Christ{\kf65}mas{\kf47} (Yes!)
+Dialogue: 0,0:02:22.35,0:02:26.35,DEFAULT,,0,0,0,,{\r}{\kf32}San{\kf32}ta{\kf32} took{\kf28} me{\kf37} off{\kf14} the{\kf32} naugh{\kf23}ty{\kf60} list{\kf18} (Woo-{\kf92}hoo!)
+Dialogue: 0,0:02:27.24,0:02:31.48,DEFAULT,,0,0,0,,{\r}{\kf32}I{\kf32} might{\kf36} keep{\kf18} it{\kf27} up{\kf23} be{\kf36}cause{\kf32} it's{\kf27} real{\kf32}ly{\kf27} not{\kf32} so{\kf70} bad
+Dialogue: 0,0:02:31.79,0:02:33.74,DEFAULT,,0,0,0,,{\r}{\kf23}So{\kf42} San{\kf28}ta,{\kf32} just{\kf32} bring{\kf14} pre{\kf23}sents
+Dialogue: 0,0:02:34.01,0:02:36.22,DEFAULT,,0,0,0,,{\r}{\kf30}Please,{\kf20} dear{\kf39} San{\kf25}ta,{\kf35} no{\kf25} more{\kf15} les{\kf33}sons
+Dialogue: 0,0:02:36.46,0:02:39.92,DEFAULT,,0,0,0,,{\r}{\kf33}Next{\kf19} year,{\kf38} San{\kf28}ta,{\kf38} just{\kf28} bring{\kf19} pre{\kf28}sents,{\kf33} I{\kf24} in{\kf58}sist!
+Dialogue: 0,0:02:40.34,0:02:41.08,DEFAULT,,0,0,0,,{\r}{\kf26}Se{\kf13}ri{\kf17}ous{\kf18}ly.

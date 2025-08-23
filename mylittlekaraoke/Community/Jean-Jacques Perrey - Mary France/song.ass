@@ -1,62 +1,69 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Mary France
+Artist: Jean-Jacques Perrey
+Original Timing: mylittlekaraoke.com by barbeque
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.21,0:00:03.26,DEFAULT,,0,0,0,,{\kf306}[Trumpet noises]
-Dialogue: 0,0:00:03.65,0:00:06.64,DEFAULT,,0,0,0,,{\kf300}[More trumpet noises]
-Dialogue: 0,0:00:07.19,0:00:09.26,DEFAULT,,0,0,0,,{\kf208}Sister
-Dialogue: 0,0:00:09.58,0:00:13.13,DEFAULT,,0,0,0,,{\kf11}Why{\kf11} hast{\kf11} thou{\kf11} made{\kf11} such{\kf44} noise{\kf186}~
-Dialogue: 0,0:00:14.05,0:00:16.29,DEFAULT,,0,0,0,,{\kf224}Sister
-Dialogue: 0,0:00:16.56,0:00:20.15,DEFAULT,,0,0,0,,{\kf11}Thou{\kf11} needth{\kf11} an{\kf11} in{\kf17}struc{\kf33}tor{\kf11}~{\kf175}~
-Dialogue: 0,0:00:21.08,0:00:26.26,DEFAULT,,0,0,0,,{\kf224}Alas,{\kf22} thou{\kf22} has{\kf17} brought{\kf22} shame{\kf33} to{\kf17} the{\kf93} kingdom
-Dialogue: 0,0:00:26.80,0:00:31.27,DEFAULT,,0,0,0,,{\kf22}So{\kf28} now{\kf33} go{\kf55} moon{\kf11} 1000{\kf55} years{\kf11} bye{\kf33} bye{\kf22} banish{\kf33} time{\kf22}~
-Dialogue: 0,0:00:31.54,0:00:33.34,DEFAULT,,0,0,0,,{\kf180}Sry k thx
-Dialogue: 0,0:00:34.97,0:00:36.99,DEFAULT,,0,0,0,,{\kf202}Sister
-Dialogue: 0,0:00:37.26,0:00:41.46,DEFAULT,,0,0,0,,{\kf22}Thou{\kf11} art{\kf11} such{\kf11} a{\kf11}~{\kf50} dick{\kf17}~{\kf208}~
-Dialogue: 0,0:00:42.33,0:00:44.18,DEFAULT,,0,0,0,,{\kf186}Sister
-Dialogue: 0,0:00:44.34,0:00:48.43,DEFAULT,,0,0,0,,{\kf17}Thou{\kf17} art{\kf17} only{\kf11} jealous{\kf17} thy{\kf39} musical{\kf218} talent
-Dialogue: 0,0:00:49.14,0:00:54.20,DEFAULT,,0,0,0,,{\kf213}We{\kf17} could{\kf17} to{\kf11}tal{\kf22}ly{\kf55} taketh{\kf17} thou{\kf82} 1v1
-Dialogue: 0,0:00:54.53,0:00:59.22,DEFAULT,,0,0,0,,{\kf39}C{\kf33}o{\kf33}m{\kf55}e{\kf22}t{\kf44}h{\kf17} a{\kf33}t{\kf33} m{\kf33}e{\kf28} bro
-Dialogue: 0,0:01:00.14,0:01:03.19,DEFAULT,,0,0,0,,{\kf306}[Twilight reading a book on how to cook dragons]
-Dialogue: 0,0:01:03.63,0:01:04.94,DEFAULT,,0,0,0,,{\kf131}[Realizes Spike is a dragon]
-Dialogue: 0,0:01:05.37,0:01:06.68,DEFAULT,,0,0,0,,{\kf131}[Shopping list]
-Dialogue: 0,0:01:07.12,0:01:09.29,DEFAULT,,0,0,0,,{\kf218}[Attempts to subdue target]
-Dialogue: 0,0:01:09.73,0:01:11.04,DEFAULT,,0,0,0,,{\kf131}[Letter from Celestia] Go to Ponyville. Kthx. pc
-Dialogue: 0,0:01:11.47,0:01:12.56,DEFAULT,,0,0,0,,{\kf109}Damn it
-Dialogue: 0,0:01:14.09,0:01:16.27,DEFAULT,,0,0,0,,{\kf218}Twilight: CHANGELING ATTACK!
-Dialogue: 0,0:01:16.70,0:01:20.19,DEFAULT,,0,0,0,,{\kf349}Twilight: Spike! Do the fire breath SWOOSH thing!
-Dialogue: 0,0:01:20.63,0:01:24.55,DEFAULT,,0,0,0,,{\kf393}...
-Dialogue: 0,0:01:24.99,0:01:26.51,DEFAULT,,0,0,0,,{\kf153}Twilight: You're fired.
-Dialogue: 0,0:01:27.33,0:01:33.76,DEFAULT,,0,0,0,,{\kf218}I{\kf17} am{\kf17} on{\kf17} a{\kf17} mo{\kf17}un{\kf55}ta{\kf224}in
-Dialogue: 0,0:01:34.19,0:01:40.51,DEFAULT,,0,0,0,,{\kf213}Why{\kf17} a{\kf17}m{\kf17} I{\kf17} on{\kf17} a{\kf11} mo{\kf50}un{\kf208}tain
-Dialogue: 0,0:01:41.17,0:01:46.40,DEFAULT,,0,0,0,,{\kf224}I{\kf22} am{\kf22} cold.{\kf17} Some{\kf17}pony{\kf39} get{\kf17} me{\kf93} down
-Dialogue: 0,0:01:46.78,0:01:51.03,DEFAULT,,0,0,0,,{\kf33}Or{\kf33} at{\kf33} le{\kf55}ast{\kf17} bri{\kf55}ng{\kf22} me{\kf28} a{\kf33} co{\kf22}at
-Dialogue: 0,0:01:51.24,0:01:53.04,DEFAULT,,0,0,0,,{\kf22}And{\kf131} mittens
-Dialogue: 0,0:01:53.31,0:01:54.62,DEFAULT,,0,0,0,,{\kf131}Oh crap, Luna is back
-Dialogue: 0,0:01:55.11,0:01:58.49,DEFAULT,,0,0,0,,{\kf224}TH{\kf17}OU{\kf17} HA{\kf17}ST{\kf11} RE{\kf17}TURNTH
-Dialogue: 0,0:01:58.71,0:02:00.45,DEFAULT,,0,0,0,,{\kf28}BE{\kf131}HOLD THY RIGHT LEG
-Dialogue: 0,0:02:00.72,0:02:01.60,DEFAULT,,0,0,0,,{\kf88}AND TRUMPET ARMY
-Dialogue: 0,0:02:02.19,0:02:04.10,DEFAULT,,0,0,0,,{\kf191}We be pirates now
-Dialogue: 0,0:02:04.32,0:02:06.83,DEFAULT,,0,0,0,,{\kf17}Give{\kf17} us{\kf17} your{\kf17} booty{\kf17} (lol{\kf50} boo{\kf66}ty)
-Dialogue: 0,0:02:07.15,0:02:08.51,DEFAULT,,0,0,0,,{\kf137}[Threatening trumpet sounds]
-Dialogue: 0,0:02:09.00,0:02:09.55,DEFAULT,,0,0,0,,{\kf55}We have learned of our misguided ways and wish to atone for our past misdeeds.
-Dialogue: 0,0:02:09.71,0:02:10.31,DEFAULT,,0,0,0,,{\kf60}Allow us but a chance to showth thou that we have become humbled, just and kind.
-Dialogue: 0,0:02:10.53,0:02:10.97,DEFAULT,,0,0,0,,{\kf44}Our soul hath been cleansed by the shining light of the moon and wishes for nothing
-Dialogue: 0,0:02:11.13,0:02:11.95,DEFAULT,,0,0,0,,{\kf33}else then to walk the land once again{\kf17} under the fair golden light{\kf11} of our sister.
-Dialogue: 0,0:02:12.16,0:02:13.04,DEFAULT,,0,0,0,,{\kf22}We, too, could become{\kf55} the best of companions and walk together, side by side.
-Dialogue: 0,0:02:13.25,0:02:14.13,DEFAULT,,0,0,0,,{\kf88}I ask for thou to open thy heart and giveth mercy.
-Dialogue: 0,0:02:14.62,0:02:16.09,DEFAULT,,0,0,0,,{\kf28}t{\kf28}l{\kf33}d{\kf22}r;
-Dialogue: 0,0:02:16.58,0:02:17.39,DEFAULT,,0,0,0,,{\kf17}f&{\kf60}$#
-Dialogue: 0,0:02:17.72,0:02:18.43,DEFAULT,,0,0,0,,{\kf71}[Adorable cannon sound]
-Dialogue: 0,0:02:19.03,0:02:20.34,DEFAULT,,0,0,0,,{\kf131}glomp
-Dialogue: 0,0:02:21.21,0:02:22.52,DEFAULT,,0,0,0,,{\kf131}NMM: I smell tacos
-Dialogue: 0,0:02:22.95,0:02:23.17,DEFAULT,,0,0,0,,{\kf22}[plbbt]
-Dialogue: 0,0:02:23.55,0:02:23.61,DEFAULT,,0,0,0,,{\kf6}[POP]
-Dialogue: 0,0:02:25.57,0:02:26.44,DEFAULT,,0,0,0,,{\kf88}Luna: Now I want tacos
+Dialogue: 0,0:00:00.22,0:00:03.27,DEFAULT,,0,0,0,,{\r}{\kf305}[Trumpet noises]
+Dialogue: 0,0:00:03.65,0:00:06.65,DEFAULT,,0,0,0,,{\r}{\kf300}[More trumpet noises]
+Dialogue: 0,0:00:07.19,0:00:09.26,DEFAULT,,0,0,0,,{\r}{\kf207}Sister
+Dialogue: 0,0:00:09.59,0:00:13.13,DEFAULT,,0,0,0,,{\r}{\kf14}Why{\kf14} hast{\kf14} thou{\kf14} made{\kf14} such{\kf54} noise{\kf230}~
+Dialogue: 0,0:00:14.06,0:00:16.29,DEFAULT,,0,0,0,,{\r}{\kf223}Sister
+Dialogue: 0,0:00:16.56,0:00:20.16,DEFAULT,,0,0,0,,{\r}{\kf14}Thou{\kf14} needth{\kf14} an{\kf14} in{\kf21}struc{\kf42}tor{\kf14}~{\kf227}~
+Dialogue: 0,0:00:21.08,0:00:26.26,DEFAULT,,0,0,0,,{\r}{\kf259}Alas,{\kf25} thou{\kf25} has{\kf19} brought{\kf25} shame{\kf38} to{\kf19} the{\kf108} kingdom
+Dialogue: 0,0:00:26.81,0:00:31.27,DEFAULT,,0,0,0,,{\r}{\kf30}So{\kf38} now{\kf45} go{\kf76} moon{\kf15} 1000{\kf76} years{\kf15} bye{\kf45} bye{\kf30} banish{\kf45} time{\kf32}~
+Dialogue: 0,0:00:31.55,0:00:33.34,DEFAULT,,0,0,0,,{\r}{\kf180}Sry k thx
+Dialogue: 0,0:00:34.98,0:00:36.99,DEFAULT,,0,0,0,,{\r}{\kf202}Sister
+Dialogue: 0,0:00:37.27,0:00:41.46,DEFAULT,,0,0,0,,{\r}{\kf27}Thou{\kf14} art{\kf14} such{\kf14} a{\kf14}~{\kf61} dick{\kf20}~{\kf255}~
+Dialogue: 0,0:00:42.33,0:00:44.18,DEFAULT,,0,0,0,,{\r}{\kf185}Sister
+Dialogue: 0,0:00:44.35,0:00:48.43,DEFAULT,,0,0,0,,{\r}{\kf20}Thou{\kf20} art{\kf20} only{\kf13} jealous{\kf20} thy{\kf47} musical{\kf269} talent
+Dialogue: 0,0:00:49.14,0:00:54.21,DEFAULT,,0,0,0,,{\r}{\kf250}We{\kf19} could{\kf19} to{\kf13}tal{\kf26}ly{\kf64} taketh{\kf19} thou{\kf97} 1v1
+Dialogue: 0,0:00:54.54,0:00:59.22,DEFAULT,,0,0,0,,{\r}{\kf49}C{\kf42}o{\kf42}m{\kf70}e{\kf28}t{\kf56}h{\kf21} a{\kf42}t{\kf42} m{\kf42}e{\kf35} bro
+Dialogue: 0,0:01:00.15,0:01:03.20,DEFAULT,,0,0,0,,{\r}{\kf305}[Twilight reading a book on how to cook dragons]
+Dialogue: 0,0:01:03.63,0:01:04.94,DEFAULT,,0,0,0,,{\r}{\kf131}[Realizes Spike is a dragon]
+Dialogue: 0,0:01:05.38,0:01:06.68,DEFAULT,,0,0,0,,{\r}{\kf131}[Shopping list]
+Dialogue: 0,0:01:07.12,0:01:09.30,DEFAULT,,0,0,0,,{\r}{\kf218}[Attempts to subdue target]
+Dialogue: 0,0:01:09.74,0:01:11.04,DEFAULT,,0,0,0,,{\r}{\kf131}[Letter from Celestia] Go to Ponyville. Kthx. pc
+Dialogue: 0,0:01:11.48,0:01:12.57,DEFAULT,,0,0,0,,{\r}{\kf109}Damn it
+Dialogue: 0,0:01:14.09,0:01:16.27,DEFAULT,,0,0,0,,{\r}{\kf218}Twilight: CHANGELING ATTACK!
+Dialogue: 0,0:01:16.71,0:01:20.20,DEFAULT,,0,0,0,,{\r}{\kf349}Twilight: Spike! Do the fire breath SWOOSH thing!
+Dialogue: 0,0:01:20.63,0:01:24.55,DEFAULT,,0,0,0,,{\r}{\kf392}...
+Dialogue: 0,0:01:24.99,0:01:26.52,DEFAULT,,0,0,0,,{\r}{\kf153}Twilight: You're fired.
+Dialogue: 0,0:01:27.33,0:01:33.76,DEFAULT,,0,0,0,,{\r}{\kf243}I{\kf18} am{\kf18} on{\kf18} a{\kf18} mo{\kf18}un{\kf61}ta{\kf249}in
+Dialogue: 0,0:01:34.20,0:01:40.52,DEFAULT,,0,0,0,,{\r}{\kf239}Why{\kf18} a{\kf18}m{\kf18} I{\kf18} on{\kf18} a{\kf12} mo{\kf55}un{\kf236}tain
+Dialogue: 0,0:01:41.17,0:01:46.40,DEFAULT,,0,0,0,,{\r}{\kf261}I{\kf26} am{\kf26} cold.{\kf19} Some{\kf19}pony{\kf45} get{\kf19} me{\kf108} down
+Dialogue: 0,0:01:46.78,0:01:51.03,DEFAULT,,0,0,0,,{\r}{\kf42}Or{\kf42} at{\kf42} le{\kf71}ast{\kf21} bri{\kf71}ng{\kf28} me{\kf35} a{\kf42} co{\kf31}at
+Dialogue: 0,0:01:51.25,0:01:53.05,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf154} mittens
+Dialogue: 0,0:01:53.32,0:01:54.63,DEFAULT,,0,0,0,,{\r}{\kf131}Oh crap, Luna is back
+Dialogue: 0,0:01:55.12,0:01:58.50,DEFAULT,,0,0,0,,{\r}{\kf252}TH{\kf18}OU{\kf18} HA{\kf18}ST{\kf12} RE{\kf20}TURNTH
+Dialogue: 0,0:01:58.71,0:02:00.46,DEFAULT,,0,0,0,,{\r}{\kf30}BE{\kf144}HOLD THY RIGHT LEG
+Dialogue: 0,0:02:00.73,0:02:01.60,DEFAULT,,0,0,0,,{\r}{\kf87}AND TRUMPET ARMY
+Dialogue: 0,0:02:02.20,0:02:04.11,DEFAULT,,0,0,0,,{\r}{\kf191}We be pirates now
+Dialogue: 0,0:02:04.32,0:02:06.83,DEFAULT,,0,0,0,,{\r}{\kf21}Give{\kf21} us{\kf21} your{\kf21} booty{\kf21} (lol{\kf63} boo{\kf83}ty)
+Dialogue: 0,0:02:07.16,0:02:08.52,DEFAULT,,0,0,0,,{\r}{\kf136}[Threatening trumpet sounds]
+Dialogue: 0,0:02:09.01,0:02:09.55,DEFAULT,,0,0,0,,{\r}{\kf54}We have learned of our misguided ways and wish to atone for our past misdeeds.
+Dialogue: 0,0:02:09.72,0:02:10.32,DEFAULT,,0,0,0,,{\r}{\kf60}Allow us but a chance to showth thou that we have become humbled, just and kind.
+Dialogue: 0,0:02:10.54,0:02:10.97,DEFAULT,,0,0,0,,{\r}{\kf44}Our soul hath been cleansed by the shining light of the moon and wishes for nothing
+Dialogue: 0,0:02:11.13,0:02:11.95,DEFAULT,,0,0,0,,{\r}{\kf45}else then to walk the land once again{\kf22} under the fair golden light{\kf15} of our sister.
+Dialogue: 0,0:02:12.17,0:02:13.04,DEFAULT,,0,0,0,,{\r}{\kf25}We, too, could become{\kf62} the best of companions and walk together, side by side.
+Dialogue: 0,0:02:13.26,0:02:14.13,DEFAULT,,0,0,0,,{\r}{\kf87}I ask for thou to open thy heart and giveth mercy.
+Dialogue: 0,0:02:14.62,0:02:16.09,DEFAULT,,0,0,0,,{\r}{\kf37}t{\kf37}l{\kf44}d{\kf29}r;
+Dialogue: 0,0:02:16.58,0:02:17.40,DEFAULT,,0,0,0,,{\r}{\kf18}f&{\kf64}$#
+Dialogue: 0,0:02:17.73,0:02:18.43,DEFAULT,,0,0,0,,{\r}{\kf71}[Adorable cannon sound]
+Dialogue: 0,0:02:19.03,0:02:20.34,DEFAULT,,0,0,0,,{\r}{\kf131}glomp
+Dialogue: 0,0:02:21.21,0:02:22.52,DEFAULT,,0,0,0,,{\r}{\kf131}NMM: I smell tacos
+Dialogue: 0,0:02:22.96,0:02:23.17,DEFAULT,,0,0,0,,{\r}{\kf22}[plbbt]
+Dialogue: 0,0:02:23.56,0:02:23.61,DEFAULT,,0,0,0,,{\r}{\kf10}[POP]
+Dialogue: 0,0:02:25.57,0:02:26.44,DEFAULT,,0,0,0,,{\r}{\kf87}Luna: Now I want tacos

@@ -1,51 +1,58 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Never Enough (ft. Metajoker) (Karaoke Edit)
+Artist: Nevermourn, UndreamedPanic
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:30.91,0:00:32.84,DEFAULT,,0,0,0,,{\kf3107}Don't{\kf3107} you{\kf3107} know{\kf3107} who{\kf3122} you{\kf3145} are?
-Dialogue: 0,0:00:34.36,0:00:36.40,DEFAULT,,0,0,0,,{\kf3107}I'm{\kf3107} wait{\kf3107}ing{\kf3107} for{\kf3107} a{\kf3111} new{\kf3138} start
-Dialogue: 0,0:00:38.22,0:00:40.04,DEFAULT,,0,0,0,,{\kf3107}Dream{\kf3107}ing{\kf3107} of{\kf3107} a{\kf3119} new{\kf3138} heart
-Dialogue: 0,0:00:41.40,0:00:43.75,DEFAULT,,0,0,0,,{\kf3107}Just{\kf3122} pray{\kf3107}ing{\kf3107} for{\kf3111} re{\kf3107}al{\kf3111} love{\kf3141}~
-Dialogue: 0,0:00:45.27,0:00:47.31,DEFAULT,,0,0,0,,{\kf3107}The{\kf3107} days{\kf3107} are{\kf3107} ring{\kf3107}ing{\kf3122} hol{\kf3138}low
-Dialogue: 0,0:00:48.90,0:00:50.95,DEFAULT,,0,0,0,,{\kf3107}Like{\kf3107} there{\kf3107} is{\kf3107} no{\kf3107} to{\kf3119}mor{\kf3138}row
-Dialogue: 0,0:00:52.05,0:00:54.55,DEFAULT,,0,0,0,,{\kf3115}No{\kf3115} path{\kf3103} for{\kf3107} me{\kf3107} to{\kf3126} fol{\kf3134}low
-Dialogue: 0,0:00:55.91,0:00:58.26,DEFAULT,,0,0,0,,{\kf3111}Just{\kf3130} wait{\kf3103}ing{\kf3107} for{\kf3107} re{\kf3107}al{\kf3111} love{\kf3138}~
-Dialogue: 0,0:01:00.04,0:01:02.24,DEFAULT,,0,0,0,,{\kf3107}I{\kf3107} don't{\kf3107} want{\kf3107} to{\kf3119} miss{\kf3175} you
-Dialogue: 0,0:01:03.52,0:01:06.02,DEFAULT,,0,0,0,,{\kf3103}But{\kf3103} I{\kf3107} could{\kf3107} ne{\kf3107}ver{\kf3119} kiss{\kf3191} you
-Dialogue: 0,0:01:07.09,0:01:09.43,DEFAULT,,0,0,0,,{\kf3107}Not{\kf3107} af{\kf3107}ter{\kf3107} all{\kf3107} I've{\kf3115} lived{\kf3168} through
-Dialogue: 0,0:01:09.62,0:01:13.87,DEFAULT,,0,0,0,,{\kf3141}And{\kf3126} all{\kf3119}~{\kf3164} you{\kf3247} do
-Dialogue: 0,0:01:14.55,0:01:17.12,DEFAULT,,0,0,0,,{\kf3119}What's{\kf3119} the{\kf3107} worth{\kf3107} of{\kf3107} a{\kf3183} word
-Dialogue: 0,0:01:17.80,0:01:20.38,DEFAULT,,0,0,0,,{\kf3115}Or{\kf3122} all{\kf3122} the{\kf3107} words{\kf3103} in{\kf3103} the{\kf3153} world?
-Dialogue: 0,0:01:21.63,0:01:24.59,DEFAULT,,0,0,0,,{\kf3103}Or{\kf3119} all{\kf3107} the{\kf3119} worlds{\kf3103} in{\kf3107} the{\kf3126} u{\kf3126}ni{\kf3115}verse
-Dialogue: 0,0:01:24.77,0:01:27.05,DEFAULT,,0,0,0,,{\kf3107}When{\kf3107} it{\kf3119} can't{\kf3115} get{\kf3115} worse,{\kf3130} no
-Dialogue: 0,0:01:29.17,0:01:31.18,DEFAULT,,0,0,0,,{\kf3115}What's{\kf3119} the{\kf3107} worth{\kf3107} of{\kf3107} my{\kf3138} love
-Dialogue: 0,0:01:32.54,0:01:34.74,DEFAULT,,0,0,0,,{\kf3103}'Cause{\kf3122} I{\kf3115} was{\kf3107} ne{\kf3107}ver{\kf3107} e{\kf3130}nough
-Dialogue: 0,0:01:35.95,0:01:38.18,DEFAULT,,0,0,0,,{\kf3107}You{\kf3122} know{\kf3115} it's{\kf3149} true{\kf3138}~
-Dialogue: 0,0:01:39.17,0:01:42.20,DEFAULT,,0,0,0,,{\kf3119}I{\kf3119} was{\kf3111} ne{\kf3107}ver{\kf3111} e{\kf3115}nough{\kf3119} for{\kf3145} you
-Dialogue: 0,0:02:41.82,0:02:43.64,DEFAULT,,0,0,0,,{\kf3107}Don't{\kf3107} you{\kf3107} know{\kf3107} who{\kf3122} I{\kf3134} am?
-Dialogue: 0,0:02:45.49,0:02:47.35,DEFAULT,,0,0,0,,{\kf3107}I{\kf3107} don't{\kf3107} know{\kf3107} if{\kf3122} you{\kf3141} can
-Dialogue: 0,0:02:48.49,0:02:50.99,DEFAULT,,0,0,0,,{\kf3111}I'm{\kf3103} the{\kf3107} sha{\kf3111}dow{\kf3107} of{\kf3107} a{\kf3122} dead{\kf3141} man
-Dialogue: 0,0:02:52.09,0:02:54.66,DEFAULT,,0,0,0,,{\kf3115}Just{\kf3119} pray{\kf3107}ing{\kf3107} for{\kf3107} re{\kf3107}al{\kf3111} love{\kf3145}~
-Dialogue: 0,0:02:56.18,0:02:58.30,DEFAULT,,0,0,0,,{\kf3103}But{\kf3103} I{\kf3107} am{\kf3107} more{\kf3107} than{\kf3119} you{\kf3145} know
-Dialogue: 0,0:02:59.85,0:03:02.35,DEFAULT,,0,0,0,,{\kf3103}And{\kf3107} I{\kf3107} know{\kf3107} I{\kf3107} can{\kf3107} let{\kf3111} you{\kf3130} go{\kf3115}~
-Dialogue: 0,0:03:03.45,0:03:05.76,DEFAULT,,0,0,0,,{\kf3107}No{\kf3119} more{\kf3107} tak{\kf3107}ing{\kf3115} things{\kf3111} slow{\kf3138}~
-Dialogue: 0,0:03:06.67,0:03:09.13,DEFAULT,,0,0,0,,{\kf3111}Just{\kf3126} wait{\kf3107}ing{\kf3107} for{\kf3107} re{\kf3107}al{\kf3107} love{\kf3138}~
-Dialogue: 0,0:03:10.95,0:03:12.77,DEFAULT,,0,0,0,,{\kf3107}I{\kf3107} could{\kf3107} ne{\kf3107}ver{\kf3115} miss{\kf3138} you
-Dialogue: 0,0:03:14.36,0:03:16.44,DEFAULT,,0,0,0,,{\kf3103}And{\kf3107} I{\kf3107} could{\kf3107} ne{\kf3107}ver{\kf3111} kiss{\kf3138} you
-Dialogue: 0,0:03:17.58,0:03:20.12,DEFAULT,,0,0,0,,{\kf3122}Not{\kf3115} af{\kf3107}ter{\kf3107} all{\kf3107} I've{\kf3119} lived{\kf3145} through
-Dialogue: 0,0:03:20.53,0:03:24.43,DEFAULT,,0,0,0,,{\kf3138}And{\kf3126} all{\kf3119}~{\kf3156} you{\kf3210} do
-Dialogue: 0,0:03:25.46,0:03:28.07,DEFAULT,,0,0,0,,{\kf3122}What's{\kf3122} the{\kf3107} worth{\kf3107} of{\kf3107} a{\kf3187} word
-Dialogue: 0,0:03:28.90,0:03:31.63,DEFAULT,,0,0,0,,{\kf3103}Or{\kf3122} all{\kf3107} the{\kf3126} words{\kf3107} in{\kf3107} the{\kf3183} world?
-Dialogue: 0,0:03:32.54,0:03:35.49,DEFAULT,,0,0,0,,{\kf3103}Or{\kf3122} all{\kf3107} the{\kf3122} worlds{\kf3107} in{\kf3107} the{\kf3126} u{\kf3122}ni{\kf3115}verse
-Dialogue: 0,0:03:35.68,0:03:38.37,DEFAULT,,0,0,0,,{\kf3107}When{\kf3107} it{\kf3115} can't{\kf3115} get{\kf3111} worse{\kf3115}~,{\kf3153} no
-Dialogue: 0,0:03:40.04,0:03:42.20,DEFAULT,,0,0,0,,{\kf3115}What's{\kf3119} the{\kf3111} worth{\kf3107} of{\kf3107} my{\kf3145} love
-Dialogue: 0,0:03:43.45,0:03:45.65,DEFAULT,,0,0,0,,{\kf3103}'Cause{\kf3122} I{\kf3115} was{\kf3107} ne{\kf3107}ver{\kf3107} e{\kf3130}nough
-Dialogue: 0,0:03:46.86,0:03:49.02,DEFAULT,,0,0,0,,{\kf3107}You{\kf3119} know{\kf3115} it's{\kf3149} true{\kf3130}~
-Dialogue: 0,0:03:50.08,0:03:53.60,DEFAULT,,0,0,0,,{\kf3122}I{\kf3119} was{\kf3107} ne{\kf3107}ver{\kf3107} e{\kf3115}nough{\kf3107} for{\kf3111}~{\kf3183} you
+Dialogue: 0,0:00:30.92,0:00:32.85,DEFAULT,,0,0,0,,{\r}{\kf20}Don't{\kf20} you{\kf20} know{\kf20} who{\kf41} you{\kf72} are?
+Dialogue: 0,0:00:34.36,0:00:36.41,DEFAULT,,0,0,0,,{\r}{\kf22}I'm{\kf22} wait{\kf22}ing{\kf22} for{\kf22} a{\kf28} new{\kf67} start
+Dialogue: 0,0:00:38.23,0:00:40.04,DEFAULT,,0,0,0,,{\r}{\kf21}Dream{\kf21}ing{\kf21} of{\kf21} a{\kf36} new{\kf62} heart
+Dialogue: 0,0:00:41.41,0:00:43.76,DEFAULT,,0,0,0,,{\r}{\kf20}Just{\kf40} pray{\kf20}ing{\kf20} for{\kf25} re{\kf20}al{\kf25} love{\kf65}~
+Dialogue: 0,0:00:45.27,0:00:47.32,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf20} days{\kf20} are{\kf20} ring{\kf20}ing{\kf41} hol{\kf64}low
+Dialogue: 0,0:00:48.91,0:00:50.95,DEFAULT,,0,0,0,,{\r}{\kf21}Like{\kf21} there{\kf21} is{\kf21} no{\kf21} to{\kf37}mor{\kf63}row
+Dialogue: 0,0:00:52.05,0:00:54.55,DEFAULT,,0,0,0,,{\r}{\kf35}No{\kf35} path{\kf17} for{\kf23} me{\kf23} to{\kf52} fol{\kf65}low
+Dialogue: 0,0:00:55.92,0:00:58.26,DEFAULT,,0,0,0,,{\r}{\kf25}Just{\kf50} wait{\kf15}ing{\kf20} for{\kf20} re{\kf20}al{\kf25} love{\kf60}~
+Dialogue: 0,0:01:00.04,0:01:02.24,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf20} don't{\kf20} want{\kf20} to{\kf34} miss{\kf106} you
+Dialogue: 0,0:01:03.53,0:01:06.03,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf15} I{\kf20} could{\kf20} ne{\kf20}ver{\kf34} kiss{\kf126} you
+Dialogue: 0,0:01:07.09,0:01:09.44,DEFAULT,,0,0,0,,{\r}{\kf20}Not{\kf20} af{\kf20}ter{\kf20} all{\kf20} I've{\kf31} lived{\kf104} through
+Dialogue: 0,0:01:09.63,0:01:13.87,DEFAULT,,0,0,0,,{\r}{\kf62}And{\kf43} all{\kf33}~{\kf91} you{\kf195} do
+Dialogue: 0,0:01:14.55,0:01:17.13,DEFAULT,,0,0,0,,{\r}{\kf36}What's{\kf36} the{\kf21} worth{\kf21} of{\kf21} a{\kf123} word
+Dialogue: 0,0:01:17.81,0:01:20.39,DEFAULT,,0,0,0,,{\r}{\kf32}Or{\kf43} all{\kf43} the{\kf22} words{\kf16} in{\kf16} the{\kf86} world?
+Dialogue: 0,0:01:21.64,0:01:24.59,DEFAULT,,0,0,0,,{\r}{\kf17}Or{\kf40} all{\kf23} the{\kf40} worlds{\kf17} in{\kf23} the{\kf51} u{\kf51}ni{\kf33}verse
+Dialogue: 0,0:01:24.78,0:01:27.05,DEFAULT,,0,0,0,,{\r}{\kf25}When{\kf25} it{\kf43} can't{\kf37} get{\kf37} worse,{\kf60} no
+Dialogue: 0,0:01:29.17,0:01:31.18,DEFAULT,,0,0,0,,{\r}{\kf33}What's{\kf38} the{\kf22} worth{\kf22} of{\kf22} my{\kf64} love
+Dialogue: 0,0:01:32.54,0:01:34.74,DEFAULT,,0,0,0,,{\r}{\kf17}'Cause{\kf45} I{\kf34} was{\kf23} ne{\kf23}ver{\kf23} e{\kf55}nough
+Dialogue: 0,0:01:35.95,0:01:38.19,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf40} know{\kf30} it's{\kf74} true{\kf59}~
+Dialogue: 0,0:01:39.17,0:01:42.20,DEFAULT,,0,0,0,,{\r}{\kf39}I{\kf39} was{\kf28} ne{\kf22}ver{\kf28} e{\kf33}nough{\kf39} for{\kf75} you
+Dialogue: 0,0:02:41.83,0:02:43.64,DEFAULT,,0,0,0,,{\r}{\kf21}Don't{\kf21} you{\kf21} know{\kf21} who{\kf42} I{\kf56} am?
+Dialogue: 0,0:02:45.50,0:02:47.36,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf20} don't{\kf20} know{\kf20} if{\kf40} you{\kf66} can
+Dialogue: 0,0:02:48.49,0:02:50.99,DEFAULT,,0,0,0,,{\r}{\kf27}I'm{\kf16} the{\kf22} sha{\kf27}dow{\kf22} of{\kf22} a{\kf43} dead{\kf71} man
+Dialogue: 0,0:02:52.09,0:02:54.67,DEFAULT,,0,0,0,,{\r}{\kf32}Just{\kf38} pray{\kf22}ing{\kf22} for{\kf22} re{\kf22}al{\kf27} love{\kf73}~
+Dialogue: 0,0:02:56.18,0:02:58.30,DEFAULT,,0,0,0,,{\r}{\kf16}But{\kf16} I{\kf22} am{\kf22} more{\kf22} than{\kf38} you{\kf76} know
+Dialogue: 0,0:02:59.86,0:03:02.36,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf23} I{\kf23} know{\kf23} I{\kf23} can{\kf23} let{\kf28} you{\kf57} go{\kf33}~
+Dialogue: 0,0:03:03.45,0:03:05.76,DEFAULT,,0,0,0,,{\r}{\kf22}No{\kf38} more{\kf22} tak{\kf22}ing{\kf33} things{\kf28} slow{\kf66}~
+Dialogue: 0,0:03:06.67,0:03:09.14,DEFAULT,,0,0,0,,{\r}{\kf27}Just{\kf48} wait{\kf21}ing{\kf21} for{\kf21} re{\kf21}al{\kf21} love{\kf66}~
+Dialogue: 0,0:03:10.95,0:03:12.77,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21} could{\kf21} ne{\kf21}ver{\kf32} miss{\kf66} you
+Dialogue: 0,0:03:14.36,0:03:16.45,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf23} I{\kf23} could{\kf23} ne{\kf23}ver{\kf29} kiss{\kf70} you
+Dialogue: 0,0:03:17.58,0:03:20.12,DEFAULT,,0,0,0,,{\r}{\kf43}Not{\kf32} af{\kf22}ter{\kf22} all{\kf22} I've{\kf38} lived{\kf75} through
+Dialogue: 0,0:03:20.54,0:03:24.44,DEFAULT,,0,0,0,,{\r}{\kf62}And{\kf46} all{\kf36}~{\kf87} you{\kf159} do
+Dialogue: 0,0:03:25.46,0:03:28.08,DEFAULT,,0,0,0,,{\r}{\kf39}What's{\kf39} the{\kf20} worth{\kf20} of{\kf20} a{\kf123} word
+Dialogue: 0,0:03:28.91,0:03:31.64,DEFAULT,,0,0,0,,{\r}{\kf15}Or{\kf39} all{\kf20} the{\kf44} words{\kf20} in{\kf20} the{\kf115} world?
+Dialogue: 0,0:03:32.54,0:03:35.50,DEFAULT,,0,0,0,,{\r}{\kf16}Or{\kf44} all{\kf22} the{\kf44} worlds{\kf22} in{\kf22} the{\kf49} u{\kf44}ni{\kf32}verse
+Dialogue: 0,0:03:35.69,0:03:38.38,DEFAULT,,0,0,0,,{\r}{\kf23}When{\kf23} it{\kf34} can't{\kf34} get{\kf29} worse{\kf34}~,{\kf92} no
+Dialogue: 0,0:03:40.04,0:03:42.20,DEFAULT,,0,0,0,,{\r}{\kf32}What's{\kf38} the{\kf27} worth{\kf22} of{\kf22} my{\kf75} love
+Dialogue: 0,0:03:43.45,0:03:45.65,DEFAULT,,0,0,0,,{\r}{\kf17}'Cause{\kf45} I{\kf34} was{\kf23} ne{\kf23}ver{\kf23} e{\kf55}nough
+Dialogue: 0,0:03:46.86,0:03:49.02,DEFAULT,,0,0,0,,{\r}{\kf21}You{\kf36} know{\kf31} it's{\kf77} true{\kf51}~
+Dialogue: 0,0:03:50.08,0:03:53.61,DEFAULT,,0,0,0,,{\r}{\kf43}I{\kf37} was{\kf21} ne{\kf21}ver{\kf21} e{\kf32}nough{\kf21} for{\kf27}~{\kf129} you

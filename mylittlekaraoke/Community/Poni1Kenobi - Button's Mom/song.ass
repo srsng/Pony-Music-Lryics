@@ -1,70 +1,77 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Button's Mom
+Artist: Poni1Kenobi
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:10.00,0:00:13.33,DEFAULT,,0,0,0,,{\kf16}But{\kf20}ton's{\kf24}~{\kf35} Mom{\kf16} has{\kf43} got{\kf12} it{\kf20} go{\kf20}in'{\kf28} on
-Dialogue: 0,0:00:14.03,0:00:17.37,DEFAULT,,0,0,0,,{\kf16}But{\kf16}ton's{\kf20}~{\kf32} Mom{\kf12} has{\kf43} got{\kf12} it{\kf20} go{\kf20}in'{\kf32} on
-Dialogue: 0,0:00:18.03,0:00:21.40,DEFAULT,,0,0,0,,{\kf16}But{\kf16}ton's{\kf20}~{\kf35} Mom{\kf16} has{\kf43} got{\kf8} it{\kf20} go{\kf20}in'{\kf35} on
-Dialogue: 0,0:00:21.99,0:00:25.40,DEFAULT,,0,0,0,,{\kf20}But{\kf16}ton's{\kf16}~{\kf35} Mom{\kf12} has{\kf43} got{\kf12} it{\kf20} go{\kf20}in'{\kf35} on
-Dialogue: 0,0:00:26.49,0:00:28.54,DEFAULT,,0,0,0,,{\kf20}But{\kf12}ton{\kf20} can{\kf12} I{\kf20} come{\kf16} o{\kf24}~{\kf28}ver
-Dialogue: 0,0:00:29.05,0:00:31.38,DEFAULT,,0,0,0,,{\kf16}Af{\kf20}ter{\kf16} school{\kf16}~{\kf12} ol-{\kf20}ol-{\kf8}ol-{\kf39}ol?
-Dialogue: 0,0:00:32.04,0:00:33.28,DEFAULT,,0,0,0,,{\kf20}Af{\kf28}ter{\kf51} school
-Dialogue: 0,0:00:34.52,0:00:36.07,DEFAULT,,0,0,0,,{\kf16}We{\kf16} can{\kf20} play{\kf43} a{\kf32}round
-Dialogue: 0,0:00:36.50,0:00:39.53,DEFAULT,,0,0,0,,{\kf16}In{\kf12} your{\kf12} gam{\kf28}ing{\kf16}~{\kf12} room{\kf12}~{\kf12} oo-{\kf20}oo-{\kf12}oo-{\kf55}om
-Dialogue: 0,0:00:40.03,0:00:41.20,DEFAULT,,0,0,0,,{\kf20}Gam{\kf24}ing{\kf16}~{\kf43} room
-Dialogue: 0,0:00:42.52,0:00:44.03,DEFAULT,,0,0,0,,{\kf12}Did{\kf20} your{\kf20} mom{\kf16} get{\kf24} back
-Dialogue: 0,0:00:44.53,0:00:46.32,DEFAULT,,0,0,0,,{\kf16}From{\kf16} her{\kf16} Can{\kf16}ter{\kf8}lot{\kf20} trip?{\kf16}~{\kf24}~
-Dialogue: 0,0:00:48.03,0:00:49.03,DEFAULT,,0,0,0,,{\kf16}Can{\kf12}ter{\kf12}lot{\kf24} trip
-Dialogue: 0,0:00:50.51,0:00:52.88,DEFAULT,,0,0,0,,{\kf12}Is{\kf16} she{\kf39} there{\kf16} or{\kf16} is{\kf12} she{\kf24} trying{\kf12} to
-Dialogue: 0,0:00:52.99,0:00:55.36,DEFAULT,,0,0,0,,{\kf20}Give{\kf16} me{\kf12} the{\kf16} slip{\kf16}~{\kf12} i-{\kf24}i-{\kf12}i-{\kf35}ip?
-Dialogue: 0,0:00:56.02,0:00:57.07,DEFAULT,,0,0,0,,{\kf20}Give{\kf16} me{\kf12} the{\kf32} slip
-Dialogue: 0,0:00:57.26,0:00:59.36,DEFAULT,,0,0,0,,{\kf20}You{\kf20} know{\kf12} I'm{\kf20} not{\kf20} the{\kf16} lit{\kf16}tle{\kf35} colt
-Dialogue: 0,0:00:59.51,0:01:00.87,DEFAULT,,0,0,0,,{\kf16}That{\kf16} I{\kf16} used{\kf16} to{\kf32} be
-Dialogue: 0,0:01:01.80,0:01:03.28,DEFAULT,,0,0,0,,{\kf12}I'm{\kf16} all{\kf20}~{\kf20} grown{\kf20}~{\kf24} up
-Dialogue: 0,0:01:03.47,0:01:05.41,DEFAULT,,0,0,0,,{\kf16}I'm{\kf8} a{\kf16} stal{\kf20}lion{\kf16} can't{\kf12} you{\kf39} see!
-Dialogue: 0,0:01:05.99,0:01:09.37,DEFAULT,,0,0,0,,{\kf16}But{\kf24}ton's{\kf39} Mom{\kf12} has{\kf47} got{\kf12} it{\kf24} go{\kf16}in'{\kf32} on
-Dialogue: 0,0:01:09.80,0:01:11.04,DEFAULT,,0,0,0,,{\kf12}She's{\kf20} all{\kf16} that{\kf12} I{\kf28} want
-Dialogue: 0,0:01:11.27,0:01:13.52,DEFAULT,,0,0,0,,{\kf20}And{\kf16} I've{\kf20} wait{\kf12}ed{\kf12} for{\kf24} so{\kf16}~{\kf20} long{\kf32}~
-Dialogue: 0,0:01:14.03,0:01:15.38,DEFAULT,,0,0,0,,{\kf20}But{\kf12}ton{\kf20} can't{\kf12} you{\kf39} see
-Dialogue: 0,0:01:15.54,0:01:17.48,DEFAULT,,0,0,0,,{\kf16}You're{\kf12} just{\kf20} not{\kf8} the{\kf28} colt{\kf16} for{\kf24} me!{\kf12}~{\kf12}~
-Dialogue: 0,0:01:17.75,0:01:19.69,DEFAULT,,0,0,0,,{\kf20}I{\kf24} know{\kf12} it{\kf20} might{\kf24} be{\kf12} wrong{\kf32}~{\kf16} but
-Dialogue: 0,0:01:20.04,0:01:21.98,DEFAULT,,0,0,0,,{\kf20}I'm{\kf16} in{\kf16} love{\kf12} with{\kf20} But{\kf32}ton's{\kf24} Mom
-Dialogue: 0,0:01:22.06,0:01:25.40,DEFAULT,,0,0,0,,{\kf16}But{\kf20}ton's{\kf24}~{\kf35} Mom{\kf16} has{\kf43} got{\kf12} it{\kf24} go{\kf16}in'{\kf35} on
-Dialogue: 0,0:01:26.02,0:01:29.35,DEFAULT,,0,0,0,,{\kf16}But{\kf16}ton's{\kf24}~{\kf35} Mom{\kf12} has{\kf43} got{\kf12} it{\kf24} go{\kf20}in'{\kf32} on
-Dialogue: 0,0:01:30.48,0:01:32.42,DEFAULT,,0,0,0,,{\kf16}But{\kf16}ton{\kf24} do{\kf16} you{\kf20} re{\kf12}mem{\kf35}~{\kf16}ber
-Dialogue: 0,0:01:32.50,0:01:34.44,DEFAULT,,0,0,0,,{\kf20}When{\kf16} we{\kf24} gamed{\kf20} all{\kf20}~{\kf16} night?{\kf12}~{\kf39}~
-Dialogue: 0,0:01:36.07,0:01:37.19,DEFAULT,,0,0,0,,{\kf20}Gamed{\kf35} all{\kf43} night
-Dialogue: 0,0:01:38.24,0:01:39.33,DEFAULT,,0,0,0,,{\kf16}Your{\kf20} mom{\kf20} came{\kf28} in
-Dialogue: 0,0:01:40.53,0:01:43.40,DEFAULT,,0,0,0,,{\kf12}Just{\kf12} to{\kf20} turn{\kf12} out{\kf12} the{\kf12} li-{\kf12}~{\kf8}i-{\kf20}i-{\kf8}i-{\kf39}ight
-Dialogue: 0,0:01:43.99,0:01:45.11,DEFAULT,,0,0,0,,{\kf20}Turn{\kf16} out{\kf12} the{\kf32} light
-Dialogue: 0,0:01:46.55,0:01:48.41,DEFAULT,,0,0,0,,{\kf16}I{\kf12} could{\kf20} tell{\kf35} she{\kf35} liked{\kf16} me
-Dialogue: 0,0:01:48.53,0:01:50.58,DEFAULT,,0,0,0,,{\kf16}From{\kf16} the{\kf20} way{\kf16} she{\kf12}~{\kf24} stared{\kf16}~{\kf43}~
-Dialogue: 0,0:01:51.79,0:01:53.22,DEFAULT,,0,0,0,,{\kf8}The{\kf20} way{\kf28} she{\kf51} stared
-Dialogue: 0,0:01:54.54,0:01:55.78,DEFAULT,,0,0,0,,{\kf20}And{\kf12} the{\kf16} way{\kf12} she{\kf28} said
-Dialogue: 0,0:01:56.25,0:01:59.43,DEFAULT,,0,0,0,,{\kf16}"You{\kf16} missed{\kf12} a{\kf16} mob{\kf16} o{\kf16}ver{\kf8} there{\kf20}~{\kf12} e-{\kf20}e-{\kf8}e-{\kf43}ere"
-Dialogue: 0,0:02:00.05,0:02:01.18,DEFAULT,,0,0,0,,{\kf20}Mob{\kf16} o{\kf16}ver{\kf43} there
-Dialogue: 0,0:02:01.53,0:02:04.86,DEFAULT,,0,0,0,,{\kf12}And{\kf16} I{\kf12} know{\kf16}~{\kf8}~{\kf12} that{\kf12} you{\kf16} think{\kf8} it's{\kf12} just{\kf12} a{\kf16} fan{\kf12}ta{\kf32}sy
-Dialogue: 0,0:02:05.79,0:02:07.15,DEFAULT,,0,0,0,,{\kf8}But{\kf12} since{\kf12} your{\kf12} dad{\kf16} ain't{\kf16} home
-Dialogue: 0,0:02:07.27,0:02:09.44,DEFAULT,,0,0,0,,{\kf12}Your{\kf16} mom{\kf12} could{\kf16} use{\kf12} a{\kf16} guy{\kf16} like{\kf12} me!{\kf32}~
-Dialogue: 0,0:02:09.99,0:02:13.25,DEFAULT,,0,0,0,,{\kf12}But{\kf20}ton's{\kf32} Mom{\kf12} has{\kf35} got{\kf12} it{\kf20} go{\kf16}in'{\kf28} on
-Dialogue: 0,0:02:13.79,0:02:15.03,DEFAULT,,0,0,0,,{\kf12}She's{\kf16} all{\kf12} that{\kf12} I{\kf28} want
-Dialogue: 0,0:02:15.26,0:02:17.48,DEFAULT,,0,0,0,,{\kf20}And{\kf12} I've{\kf20} wait{\kf12}ed{\kf8} for{\kf24} so{\kf12}~{\kf24} long{\kf28}~
-Dialogue: 0,0:02:18.02,0:02:19.34,DEFAULT,,0,0,0,,{\kf16}But{\kf8}ton{\kf16} can't{\kf8} you{\kf35} see
-Dialogue: 0,0:02:19.53,0:02:21.43,DEFAULT,,0,0,0,,{\kf16}That{\kf8} she's{\kf20} just{\kf4} the{\kf24} mare{\kf16} for{\kf24} me!{\kf12}~{\kf8}~
-Dialogue: 0,0:02:21.74,0:02:23.65,DEFAULT,,0,0,0,,{\kf16}I{\kf20} know{\kf8} it{\kf16} might{\kf20} be{\kf12} wrong{\kf28}~{\kf12} but
-Dialogue: 0,0:02:24.03,0:02:26.17,DEFAULT,,0,0,0,,{\kf16}I'm{\kf16} in{\kf16} love{\kf8} with{\kf16} But{\kf32}ton's{\kf43} Mom
-Dialogue: 0,0:02:44.76,0:02:47.67,DEFAULT,,0,0,0,,{\kf8}She's{\kf20} got{\kf16} it{\kf20} go{\kf16}in'{\kf167} on
-Dialogue: 0,0:02:48.99,0:02:51.94,DEFAULT,,0,0,0,,{\kf12}Wait{\kf16}in'{\kf16} and{\kf39} wait{\kf167}in'
-Dialogue: 0,0:02:53.80,0:02:56.67,DEFAULT,,0,0,0,,{\kf12}I{\kf16} know{\kf16} it{\kf16} might{\kf24} be{\kf51} wrong{\kf16}~{\kf16}~{\kf82}~
-Dialogue: 0,0:02:56.79,0:02:58.07,DEFAULT,,0,0,0,,{\kf12}But{\kf20} I'm{\kf16} in{\kf16} love{\kf35} with
-Dialogue: 0,0:03:00.78,0:03:02.03,DEFAULT,,0,0,0,,{\kf8}Yeah{\kf20} I'm{\kf20} in{\kf16} love{\kf24} with
-Dialogue: 0,0:03:04.78,0:03:06.10,DEFAULT,,0,0,0,,{\kf8}No{\kf20} wait{\kf20} a{\kf16} min{\kf35}ute
-Dialogue: 0,0:03:09.79,0:03:11.69,DEFAULT,,0,0,0,,{\kf16}I{\kf24} know{\kf16} it{\kf16} might{\kf16} be{\kf8} wrong{\kf35}~{\kf16} but
-Dialogue: 0,0:03:12.04,0:03:14.29,DEFAULT,,0,0,0,,{\kf20}I'm{\kf16} in{\kf16} love{\kf16} with{\kf20} But{\kf32}ton's{\kf55} Mom
+Dialogue: 0,0:00:10.00,0:00:13.34,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf28}ton's{\kf34}~{\kf51} Mom{\kf23} has{\kf62} got{\kf17} it{\kf28} go{\kf28}in'{\kf40} on
+Dialogue: 0,0:00:14.04,0:00:17.37,DEFAULT,,0,0,0,,{\r}{\kf24}But{\kf24}ton's{\kf30}~{\kf48} Mom{\kf18} has{\kf66} got{\kf18} it{\kf30} go{\kf30}in'{\kf46} on
+Dialogue: 0,0:00:18.03,0:00:21.41,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf23}ton's{\kf29}~{\kf52} Mom{\kf23} has{\kf64} got{\kf12} it{\kf29} go{\kf29}in'{\kf54} on
+Dialogue: 0,0:00:21.99,0:00:25.41,DEFAULT,,0,0,0,,{\r}{\kf29}But{\kf24}ton's{\kf24}~{\kf53} Mom{\kf18} has{\kf65} got{\kf18} it{\kf29} go{\kf29}in'{\kf53} on
+Dialogue: 0,0:00:26.49,0:00:28.55,DEFAULT,,0,0,0,,{\r}{\kf27}But{\kf16}ton{\kf27} can{\kf16} I{\kf27} come{\kf22} o{\kf33}~{\kf38}ver
+Dialogue: 0,0:00:29.05,0:00:31.38,DEFAULT,,0,0,0,,{\r}{\kf25}Af{\kf31}ter{\kf25} school{\kf25}~{\kf19} ol-{\kf31}ol-{\kf13}ol-{\kf64}ol?
+Dialogue: 0,0:00:32.04,0:00:33.28,DEFAULT,,0,0,0,,{\r}{\kf25}Af{\kf35}ter{\kf64} school
+Dialogue: 0,0:00:34.53,0:00:36.08,DEFAULT,,0,0,0,,{\r}{\kf19}We{\kf19} can{\kf24} play{\kf53} a{\kf40}round
+Dialogue: 0,0:00:36.51,0:00:39.53,DEFAULT,,0,0,0,,{\r}{\kf23}In{\kf17} your{\kf17} gam{\kf41}ing{\kf23}~{\kf17} room{\kf17}~{\kf17} oo-{\kf29}oo-{\kf17}oo-{\kf85}om
+Dialogue: 0,0:00:40.04,0:00:41.20,DEFAULT,,0,0,0,,{\r}{\kf22}Gam{\kf27}ing{\kf18}~{\kf49} room
+Dialogue: 0,0:00:42.52,0:00:44.03,DEFAULT,,0,0,0,,{\r}{\kf20}Did{\kf33} your{\kf33} mom{\kf26} get{\kf39} back
+Dialogue: 0,0:00:44.54,0:00:46.32,DEFAULT,,0,0,0,,{\r}{\kf22}From{\kf22} her{\kf22} Can{\kf22}ter{\kf11}lot{\kf27} trip?{\kf22}~{\kf31}~
+Dialogue: 0,0:00:48.03,0:00:49.04,DEFAULT,,0,0,0,,{\r}{\kf25}Can{\kf19}ter{\kf19}lot{\kf38} trip
+Dialogue: 0,0:00:50.51,0:00:52.88,DEFAULT,,0,0,0,,{\r}{\kf19}Is{\kf26} she{\kf64} there{\kf26} or{\kf26} is{\kf19} she{\kf38} trying{\kf19} to
+Dialogue: 0,0:00:53.00,0:00:55.37,DEFAULT,,0,0,0,,{\r}{\kf29}Give{\kf23} me{\kf17} the{\kf23} slip{\kf23}~{\kf17} i-{\kf35}i-{\kf17}i-{\kf53}ip?
+Dialogue: 0,0:00:56.02,0:00:57.07,DEFAULT,,0,0,0,,{\r}{\kf26}Give{\kf21} me{\kf16} the{\kf42} slip
+Dialogue: 0,0:00:57.27,0:00:59.36,DEFAULT,,0,0,0,,{\r}{\kf26}You{\kf26} know{\kf16} I'm{\kf26} not{\kf26} the{\kf21} lit{\kf21}tle{\kf48} colt
+Dialogue: 0,0:00:59.52,0:01:00.88,DEFAULT,,0,0,0,,{\r}{\kf23}That{\kf23} I{\kf23} used{\kf23} to{\kf44} be
+Dialogue: 0,0:01:01.81,0:01:03.28,DEFAULT,,0,0,0,,{\r}{\kf16}I'm{\kf21} all{\kf26}~{\kf26} grown{\kf26}~{\kf32} up
+Dialogue: 0,0:01:03.48,0:01:05.42,DEFAULT,,0,0,0,,{\r}{\kf24}I'm{\kf12} a{\kf24} stal{\kf30}lion{\kf24} can't{\kf18} you{\kf62} see!
+Dialogue: 0,0:01:06.00,0:01:09.37,DEFAULT,,0,0,0,,{\r}{\kf24}But{\kf36}ton's{\kf60} Mom{\kf18} has{\kf72} got{\kf18} it{\kf36} go{\kf24}in'{\kf50} on
+Dialogue: 0,0:01:09.80,0:01:11.04,DEFAULT,,0,0,0,,{\r}{\kf17}She's{\kf28} all{\kf23} that{\kf17} I{\kf39} want
+Dialogue: 0,0:01:11.28,0:01:13.53,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf21} I've{\kf26} wait{\kf16}ed{\kf16} for{\kf31} so{\kf21}~{\kf26} long{\kf42}~
+Dialogue: 0,0:01:14.03,0:01:15.39,DEFAULT,,0,0,0,,{\r}{\kf26}But{\kf16}ton{\kf26} can't{\kf16} you{\kf52} see
+Dialogue: 0,0:01:15.54,0:01:17.49,DEFAULT,,0,0,0,,{\r}{\kf21}You're{\kf16} just{\kf26} not{\kf10} the{\kf37} colt{\kf21} for{\kf31} me!{\kf16}~{\kf16}~
+Dialogue: 0,0:01:17.76,0:01:19.70,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf29} know{\kf15} it{\kf24} might{\kf29} be{\kf15} wrong{\kf39}~{\kf19} but
+Dialogue: 0,0:01:20.05,0:01:21.99,DEFAULT,,0,0,0,,{\r}{\kf28}I'm{\kf22} in{\kf22} love{\kf17} with{\kf28} But{\kf44}ton's{\kf33} Mom
+Dialogue: 0,0:01:22.06,0:01:25.40,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf27}ton's{\kf33}~{\kf49} Mom{\kf22} has{\kf60} got{\kf16} it{\kf33} go{\kf22}in'{\kf50} on
+Dialogue: 0,0:01:26.02,0:01:29.36,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf23}ton's{\kf34}~{\kf51} Mom{\kf17} has{\kf62} got{\kf17} it{\kf34} go{\kf28}in'{\kf45} on
+Dialogue: 0,0:01:30.49,0:01:32.43,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf20}ton{\kf30} do{\kf20} you{\kf25} re{\kf15}mem{\kf45}~{\kf19}ber
+Dialogue: 0,0:01:32.50,0:01:34.44,DEFAULT,,0,0,0,,{\r}{\kf23}When{\kf18} we{\kf28} gamed{\kf23} all{\kf23}~{\kf18} night?{\kf14}~{\kf47}~
+Dialogue: 0,0:01:36.07,0:01:37.20,DEFAULT,,0,0,0,,{\r}{\kf23}Gamed{\kf41} all{\kf49} night
+Dialogue: 0,0:01:38.25,0:01:39.33,DEFAULT,,0,0,0,,{\r}{\kf21}Your{\kf26} mom{\kf26} came{\kf36} in
+Dialogue: 0,0:01:40.54,0:01:43.41,DEFAULT,,0,0,0,,{\r}{\kf21}Just{\kf21} to{\kf34} turn{\kf21} out{\kf21} the{\kf21} li-{\kf21}~{\kf14}i-{\kf34}i-{\kf14}i-{\kf65}ight
+Dialogue: 0,0:01:43.99,0:01:45.12,DEFAULT,,0,0,0,,{\r}{\kf28}Turn{\kf23} out{\kf17} the{\kf45} light
+Dialogue: 0,0:01:46.55,0:01:48.41,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf16} could{\kf27} tell{\kf49} she{\kf49} liked{\kf23} me
+Dialogue: 0,0:01:48.53,0:01:50.59,DEFAULT,,0,0,0,,{\r}{\kf20}From{\kf20} the{\kf25} way{\kf20} she{\kf15}~{\kf30} stared{\kf20}~{\kf56}~
+Dialogue: 0,0:01:51.79,0:01:53.23,DEFAULT,,0,0,0,,{\r}{\kf11}The{\kf27} way{\kf37} she{\kf69} stared
+Dialogue: 0,0:01:54.55,0:01:55.79,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf17} the{\kf23} way{\kf17} she{\kf39} said
+Dialogue: 0,0:01:56.25,0:01:59.44,DEFAULT,,0,0,0,,{\r}{\kf25}"You{\kf25} missed{\kf19} a{\kf25} mob{\kf25} o{\kf25}ver{\kf12} there{\kf31}~{\kf19} e-{\kf31}e-{\kf12}e-{\kf69}ere"
+Dialogue: 0,0:02:00.06,0:02:01.18,DEFAULT,,0,0,0,,{\r}{\kf24}Mob{\kf19} o{\kf19}ver{\kf51} there
+Dialogue: 0,0:02:01.53,0:02:04.87,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf27} I{\kf20} know{\kf27}~{\kf14}~{\kf20} that{\kf20} you{\kf27} think{\kf14} it's{\kf20} just{\kf20} a{\kf27} fan{\kf20}ta{\kf58}sy
+Dialogue: 0,0:02:05.80,0:02:07.16,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf21} since{\kf21} your{\kf21} dad{\kf29} ain't{\kf30} home
+Dialogue: 0,0:02:07.27,0:02:09.45,DEFAULT,,0,0,0,,{\r}{\kf18}Your{\kf24} mom{\kf18} could{\kf24} use{\kf18} a{\kf24} guy{\kf24} like{\kf18} me!{\kf49}~
+Dialogue: 0,0:02:09.99,0:02:13.25,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf35}ton's{\kf55} Mom{\kf21} has{\kf62} got{\kf21} it{\kf35} go{\kf28}in'{\kf48} on
+Dialogue: 0,0:02:13.79,0:02:15.04,DEFAULT,,0,0,0,,{\r}{\kf19}She's{\kf25} all{\kf19} that{\kf19} I{\kf42} want
+Dialogue: 0,0:02:15.27,0:02:17.48,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf17} I've{\kf28} wait{\kf17}ed{\kf11} for{\kf33} so{\kf17}~{\kf33} long{\kf37}~
+Dialogue: 0,0:02:18.02,0:02:19.34,DEFAULT,,0,0,0,,{\r}{\kf25}But{\kf13}ton{\kf25} can't{\kf13} you{\kf56} see
+Dialogue: 0,0:02:19.54,0:02:21.44,DEFAULT,,0,0,0,,{\r}{\kf23}That{\kf12} she's{\kf29} just{\kf10} the{\kf35} mare{\kf23} for{\kf35} me!{\kf17}~{\kf10}~
+Dialogue: 0,0:02:21.75,0:02:23.65,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf29} know{\kf12} it{\kf23} might{\kf29} be{\kf17} wrong{\kf40}~{\kf17} but
+Dialogue: 0,0:02:24.04,0:02:26.17,DEFAULT,,0,0,0,,{\r}{\kf23}I'm{\kf23} in{\kf23} love{\kf12} with{\kf23} But{\kf46}ton's{\kf63} Mom
+Dialogue: 0,0:02:44.76,0:02:47.67,DEFAULT,,0,0,0,,{\r}{\kf10}She's{\kf23} got{\kf18} it{\kf23} go{\kf18}in'{\kf199} on
+Dialogue: 0,0:02:48.99,0:02:51.94,DEFAULT,,0,0,0,,{\r}{\kf14}Wait{\kf18}in'{\kf18} and{\kf46} wait{\kf199}in'
+Dialogue: 0,0:02:53.80,0:02:56.68,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf18} know{\kf18} it{\kf18} might{\kf27} be{\kf59} wrong{\kf18}~{\kf18}~{\kf97}~
+Dialogue: 0,0:02:56.79,0:02:58.07,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf26} I'm{\kf20} in{\kf20} love{\kf47} with
+Dialogue: 0,0:03:00.79,0:03:02.03,DEFAULT,,0,0,0,,{\r}{\kf11}Yeah{\kf28} I'm{\kf28} in{\kf23} love{\kf34} with
+Dialogue: 0,0:03:04.79,0:03:06.11,DEFAULT,,0,0,0,,{\r}{\kf11}No{\kf26} wait{\kf26} a{\kf21} min{\kf48}ute
+Dialogue: 0,0:03:09.79,0:03:11.69,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf31} know{\kf21} it{\kf21} might{\kf21} be{\kf10} wrong{\kf46}~{\kf19} but
+Dialogue: 0,0:03:12.04,0:03:14.29,DEFAULT,,0,0,0,,{\r}{\kf26}I'm{\kf20} in{\kf20} love{\kf20} with{\kf26} But{\kf41}ton's{\kf72} Mom

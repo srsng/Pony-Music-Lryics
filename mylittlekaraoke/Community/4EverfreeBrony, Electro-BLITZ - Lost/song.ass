@@ -1,45 +1,52 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Lost
+Artist: 4EverfreeBrony, ElectroBLITZ
+Original Timing: mylittlekaraoke.com by NorthStar
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:30.22,0:00:33.07,DEFAULT,,0,0,0,,{\kf15}The{\kf38} sound{\kf30} of{\kf45} e{\kf23}very{\kf38} bea{\kf23}ting{\kf34} heart
-Dialogue: 0,0:00:33.22,0:00:35.58,DEFAULT,,0,0,0,,{\kf19}Is{\kf34} mu{\kf19}sic{\kf34} to{\kf23} my{\kf64} ears
-Dialogue: 0,0:00:36.22,0:00:38.96,DEFAULT,,0,0,0,,{\kf15}The{\kf45} me{\kf27}lo{\kf34}dy{\kf15} is{\kf45} torn{\kf19} a{\kf27}part
-Dialogue: 0,0:00:39.18,0:00:41.62,DEFAULT,,0,0,0,,{\kf19}When{\kf27} lis{\kf23}te{\kf30}ning{\kf19} through{\kf68} tears
-Dialogue: 0,0:00:43.20,0:00:45.86,DEFAULT,,0,0,0,,{\kf15}Is{\kf15} it{\kf15} too{\kf27} soon{\kf19}~,{\kf15} or{\kf15} am{\kf15} I{\kf19} too{\kf38} late?
-Dialogue: 0,0:00:46.27,0:00:47.81,DEFAULT,,0,0,0,,{\kf15}How{\kf15} have{\kf19} I{\kf83} done?
-Dialogue: 0,0:00:48.97,0:00:50.81,DEFAULT,,0,0,0,,{\kf19}The{\kf30} words{\kf23} still{\kf38} e{\kf34}cho
-Dialogue: 0,0:00:51.00,0:00:53.55,DEFAULT,,0,0,0,,{\kf15}But{\kf15} I'm{\kf38} not{\kf27} re{\kf30}pea{\kf27}ting{\kf60} one
-Dialogue: 0,0:00:54.52,0:00:59.62,DEFAULT,,0,0,0,,{\kf53}This{\kf64} is{\kf60} who{\kf60} I'm{\kf72} meant{\kf60} to{\kf60} be
-Dialogue: 0,0:01:00.52,0:01:05.77,DEFAULT,,0,0,0,,{\kf60}Raise{\kf57} that{\kf60} sun{\kf60} so{\kf57} I{\kf53} can{\kf83} see
-Dialogue: 0,0:01:06.22,0:01:08.25,DEFAULT,,0,0,0,,{\kf19}A{\kf177}gain
-Dialogue: 0,0:01:09.48,0:01:14.62,DEFAULT,,0,0,0,,{\kf120}One{\kf113} by{\kf27}~{\kf210} one
-Dialogue: 0,0:01:15.48,0:01:20.92,DEFAULT,,0,0,0,,{\kf128}Days{\kf124} seem{\kf128} lon{\kf94}ger
-Dialogue: 0,0:01:21.48,0:01:26.02,DEFAULT,,0,0,0,,{\kf139}Let{\kf113} me{\kf27}~{\kf150} run
-Dialogue: 0,0:01:27.45,0:01:32.96,DEFAULT,,0,0,0,,{\kf132}Let{\kf98} me{\kf19}~{\kf109} wan{\kf94}der
-Dialogue: 0,0:01:45.18,0:01:47.92,DEFAULT,,0,0,0,,{\kf23}I{\kf30} wish{\kf23} to{\kf38} leave{\kf27} it{\kf19} all{\kf15} ~{\kf19}be{\kf19}hind
-Dialogue: 0,0:01:48.07,0:01:50.51,DEFAULT,,0,0,0,,{\kf27}And{\kf53} ne{\kf15}ver{\kf34} to{\kf19} re{\kf57}turn
-Dialogue: 0,0:01:51.18,0:01:54.03,DEFAULT,,0,0,0,,{\kf23}It{\kf42} seems{\kf19} a{\kf45}voi{\kf23}ding{\kf42} what{\kf19} is{\kf34} mine
-Dialogue: 0,0:01:54.18,0:01:56.66,DEFAULT,,0,0,0,,{\kf19}Is{\kf30} not{\kf27} the{\kf30} way{\kf23} to{\kf68} learn
-Dialogue: 0,0:01:57.45,0:02:00.03,DEFAULT,,0,0,0,,{\kf30}Ring{\kf27} a{\kf38}round{\kf23} the{\kf68} ro{\kf38}sie
-Dialogue: 0,0:02:00.45,0:02:03.07,DEFAULT,,0,0,0,,{\kf42}No{\kf23} one{\kf42} real{\kf23}ly{\kf53} knows{\kf38} me
-Dialogue: 0,0:02:03.52,0:02:06.00,DEFAULT,,0,0,0,,{\kf60}A{\kf27}shes{\kf19} to{\kf57} a{\kf34}shes
-Dialogue: 0,0:02:06.18,0:02:08.58,DEFAULT,,0,0,0,,{\kf19}The{\kf53} walls{\kf60} fall{\kf64} down
-Dialogue: 0,0:02:09.45,0:02:14.73,DEFAULT,,0,0,0,,{\kf68}This{\kf57} is{\kf60} who{\kf68} I'm{\kf64} meant{\kf57} to{\kf72} be
-Dialogue: 0,0:02:15.56,0:02:20.55,DEFAULT,,0,0,0,,{\kf57}I{\kf53} am{\kf57} lost{\kf68} so{\kf60} men{\kf49}tal{\kf23}~{\kf60}ly
-Dialogue: 0,0:02:21.15,0:02:23.25,DEFAULT,,0,0,0,,{\kf19}A{\kf180}gain
-Dialogue: 0,0:02:24.52,0:02:29.51,DEFAULT,,0,0,0,,{\kf120}One{\kf128} by{\kf19}~{\kf199}one
-Dialogue: 0,0:02:30.48,0:02:35.92,DEFAULT,,0,0,0,,{\kf128}Days{\kf124} seem{\kf120} lon{\kf98}ger
-Dialogue: 0,0:02:36.48,0:02:41.10,DEFAULT,,0,0,0,,{\kf135}Let{\kf117} me{\kf23}~{\kf162} run
-Dialogue: 0,0:02:42.48,0:02:47.77,DEFAULT,,0,0,0,,{\kf143}Let{\kf102} me{\kf23}~{\kf120} wan{\kf79}der
-Dialogue: 0,0:03:12.48,0:03:16.91,DEFAULT,,0,0,0,,{\kf124}One{\kf124} by{\kf23}~{\kf139} one
-Dialogue: 0,0:03:18.45,0:03:23.77,DEFAULT,,0,0,0,,{\kf128}Days{\kf128} seem{\kf132} lon{\kf83}ger
-Dialogue: 0,0:03:24.52,0:03:28.72,DEFAULT,,0,0,0,,{\kf128}Let{\kf117} me{\kf23}~{\kf120} run
-Dialogue: 0,0:03:30.86,0:03:36.90,DEFAULT,,0,0,0,,{\kf60}Let{\kf79} me{\kf38}~{\kf195} wan{\kf143}der
+Dialogue: 0,0:00:30.23,0:00:33.08,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf44} sound{\kf35} of{\kf53} e{\kf26}very{\kf44} bea{\kf26}ting{\kf39} heart
+Dialogue: 0,0:00:33.23,0:00:35.59,DEFAULT,,0,0,0,,{\r}{\kf23}Is{\kf42} mu{\kf23}sic{\kf42} to{\kf28} my{\kf78} ears
+Dialogue: 0,0:00:36.23,0:00:38.96,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf55} me{\kf32}lo{\kf41}dy{\kf18} is{\kf55} torn{\kf23} a{\kf32}part
+Dialogue: 0,0:00:39.19,0:00:41.62,DEFAULT,,0,0,0,,{\r}{\kf25}When{\kf35} lis{\kf30}te{\kf40}ning{\kf25} through{\kf89} tears
+Dialogue: 0,0:00:43.20,0:00:45.86,DEFAULT,,0,0,0,,{\r}{\kf21}Is{\kf21} it{\kf21} too{\kf37} soon{\kf26}~,{\kf21} or{\kf21} am{\kf21} I{\kf26} too{\kf51} late?
+Dialogue: 0,0:00:46.27,0:00:47.81,DEFAULT,,0,0,0,,{\r}{\kf18}How{\kf18} have{\kf22} I{\kf96} done?
+Dialogue: 0,0:00:48.98,0:00:50.81,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf39} words{\kf29} still{\kf48} e{\kf44}cho
+Dialogue: 0,0:00:51.00,0:00:53.55,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf18} I'm{\kf46} not{\kf32} re{\kf36}pea{\kf32}ting{\kf73} one
+Dialogue: 0,0:00:54.52,0:00:59.62,DEFAULT,,0,0,0,,{\r}{\kf63}This{\kf76} is{\kf72} who{\kf72} I'm{\kf85} meant{\kf72} to{\kf70} be
+Dialogue: 0,0:01:00.52,0:01:05.78,DEFAULT,,0,0,0,,{\r}{\kf74}Raise{\kf69} that{\kf74} sun{\kf74} so{\kf69} I{\kf64} can{\kf101} see
+Dialogue: 0,0:01:06.22,0:01:08.25,DEFAULT,,0,0,0,,{\r}{\kf20}A{\kf183}gain
+Dialogue: 0,0:01:09.49,0:01:14.62,DEFAULT,,0,0,0,,{\r}{\kf132}One{\kf123} by{\kf29}~{\kf230} one
+Dialogue: 0,0:01:15.49,0:01:20.92,DEFAULT,,0,0,0,,{\r}{\kf147}Days{\kf142} seem{\kf147} lon{\kf108}ger
+Dialogue: 0,0:01:21.49,0:01:26.03,DEFAULT,,0,0,0,,{\r}{\kf147}Let{\kf119} me{\kf28}~{\kf160} run
+Dialogue: 0,0:01:27.45,0:01:32.96,DEFAULT,,0,0,0,,{\r}{\kf161}Let{\kf119} me{\kf23}~{\kf133} wan{\kf115}der
+Dialogue: 0,0:01:45.19,0:01:47.92,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf39} wish{\kf29} to{\kf49} leave{\kf34} it{\kf24} all{\kf20} ~{\kf24}be{\kf26}hind
+Dialogue: 0,0:01:48.08,0:01:50.51,DEFAULT,,0,0,0,,{\r}{\kf32}And{\kf63} ne{\kf18}ver{\kf41} to{\kf23} re{\kf67}turn
+Dialogue: 0,0:01:51.19,0:01:54.04,DEFAULT,,0,0,0,,{\r}{\kf26}It{\kf48} seems{\kf22} a{\kf53}voi{\kf26}ding{\kf48} what{\kf22} is{\kf40} mine
+Dialogue: 0,0:01:54.19,0:01:56.66,DEFAULT,,0,0,0,,{\r}{\kf24}Is{\kf38} not{\kf33} the{\kf38} way{\kf29} to{\kf86} learn
+Dialogue: 0,0:01:57.45,0:02:00.04,DEFAULT,,0,0,0,,{\r}{\kf35}Ring{\kf31} a{\kf44}round{\kf26} the{\kf79} ro{\kf44}sie
+Dialogue: 0,0:02:00.45,0:02:03.08,DEFAULT,,0,0,0,,{\r}{\kf50}No{\kf27} one{\kf50} real{\kf27}ly{\kf63} knows{\kf45} me
+Dialogue: 0,0:02:03.53,0:02:06.00,DEFAULT,,0,0,0,,{\r}{\kf76}A{\kf33}shes{\kf24} to{\kf71} a{\kf43}shes
+Dialogue: 0,0:02:06.19,0:02:08.59,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf65} walls{\kf74} fall{\kf78} down
+Dialogue: 0,0:02:09.45,0:02:14.74,DEFAULT,,0,0,0,,{\r}{\kf81}This{\kf67} is{\kf72} who{\kf81} I'm{\kf76} meant{\kf67} to{\kf85} be
+Dialogue: 0,0:02:15.56,0:02:20.55,DEFAULT,,0,0,0,,{\r}{\kf66}I{\kf62} am{\kf66} lost{\kf79} so{\kf71} men{\kf57}tal{\kf26}~{\kf72}ly
+Dialogue: 0,0:02:21.15,0:02:23.25,DEFAULT,,0,0,0,,{\r}{\kf20}A{\kf190}gain
+Dialogue: 0,0:02:24.53,0:02:29.51,DEFAULT,,0,0,0,,{\r}{\kf129}One{\kf137} by{\kf20}~{\kf213}one
+Dialogue: 0,0:02:30.49,0:02:35.93,DEFAULT,,0,0,0,,{\r}{\kf148}Days{\kf144} seem{\kf139} lon{\kf113}ger
+Dialogue: 0,0:02:36.49,0:02:41.10,DEFAULT,,0,0,0,,{\r}{\kf143}Let{\kf123} me{\kf24}~{\kf171} run
+Dialogue: 0,0:02:42.49,0:02:47.78,DEFAULT,,0,0,0,,{\r}{\kf162}Let{\kf115} me{\kf26}~{\kf137} wan{\kf89}der
+Dialogue: 0,0:03:12.49,0:03:16.91,DEFAULT,,0,0,0,,{\r}{\kf134}One{\kf134} by{\kf24}~{\kf151} one
+Dialogue: 0,0:03:18.45,0:03:23.78,DEFAULT,,0,0,0,,{\r}{\kf145}Days{\kf145} seem{\kf149} lon{\kf93}ger
+Dialogue: 0,0:03:24.53,0:03:28.72,DEFAULT,,0,0,0,,{\r}{\kf139}Let{\kf126} me{\kf24}~{\kf131} run
+Dialogue: 0,0:03:30.86,0:03:36.90,DEFAULT,,0,0,0,,{\r}{\kf71}Let{\kf93} me{\kf44}~{\kf229} wan{\kf167}der

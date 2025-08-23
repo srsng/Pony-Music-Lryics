@@ -1,43 +1,50 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Smell The Roses
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by barbeque
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:13.54,0:00:16.35,DEFAULT,,0,0,0,,{\kf10}There's{\kf10} a{\kf33} long{\kf19} and{\kf24} wind{\kf19}ing{\kf29} road{\kf15} a{\kf38}head
-Dialogue: 0,0:00:16.63,0:00:19.30,DEFAULT,,0,0,0,,{\kf15}A{\kf29} few{\kf29} black{\kf29} clouds{\kf29} lay{\kf29} o{\kf10}ver{\kf33}head
-Dialogue: 0,0:00:19.49,0:00:23.28,DEFAULT,,0,0,0,,{\kf10}And{\kf15} the{\kf29} shin{\kf19}ing{\kf33} sun{\kf19} is{\kf19} no{\kf29}where{\kf24} to{\kf24} be{\kf57} seen
-Dialogue: 0,0:00:25.53,0:00:28.29,DEFAULT,,0,0,0,,{\kf10}But{\kf15} with{\kf24} e{\kf19}very{\kf24} step{\kf19} and{\kf24} fall{\kf15} you{\kf33} take
-Dialogue: 0,0:00:28.90,0:00:31.34,DEFAULT,,0,0,0,,{\kf24}All{\kf24} your{\kf29} thoughts{\kf24} and{\kf24} leaps{\kf15} of{\kf38} faith
-Dialogue: 0,0:00:31.52,0:00:35.27,DEFAULT,,0,0,0,,{\kf10}There's{\kf10} a{\kf33} sil{\kf24}ver{\kf33} lin{\kf19}ing{\kf33} some{\kf24}where{\kf24} in{\kf15} bet{\kf52}ween
-Dialogue: 0,0:00:37.14,0:00:39.58,DEFAULT,,0,0,0,,{\kf24}Close{\kf15} your{\kf183} eyes
-Dialogue: 0,0:00:40.14,0:00:42.34,DEFAULT,,0,0,0,,{\kf15}Breathe{\kf15} in{\kf160} slow
-Dialogue: 0,0:00:42.77,0:00:48.90,DEFAULT,,0,0,0,,{\kf19}Then{\kf19} let{\kf29} it{\kf225} go{\kf10}~{\kf10}~{\kf15}~{\kf202}~
-Dialogue: 0,0:00:49.88,0:00:54.62,DEFAULT,,0,0,0,,{\kf24}Stop{\kf24} and{\kf24} smell{\kf19} the{\kf33} ro{\kf29}ses{\kf24} when{\kf19} your{\kf29} jour{\kf29}ney's{\kf19} get{\kf24}ting{\kf38} long
-Dialogue: 0,0:00:55.13,0:01:00.52,DEFAULT,,0,0,0,,{\kf24}When{\kf19} you{\kf29} feel{\kf24} your{\kf29} life's{\kf15} a{\kf33}gainst{\kf29} you{\kf29} and{\kf15} your{\kf15} e{\kf33}ner{\kf29}gy{\kf24} is{\kf29} gone
-Dialogue: 0,0:01:01.13,0:01:06.61,DEFAULT,,0,0,0,,{\kf24}'Cause{\kf29} not{\kf29} e{\kf24}very{\kf19}bo{\kf19}dy{\kf38} knows{\kf33} when{\kf24} it's{\kf19} just{\kf33} time{\kf24} to{\kf24} catch{\kf15} a{\kf38} break
-Dialogue: 0,0:01:07.17,0:01:11.57,DEFAULT,,0,0,0,,{\kf24}When{\kf24} you're{\kf29} drain{\kf24}ing{\kf24} and{\kf24} you{\kf24} just{\kf29} don't{\kf19} wan{\kf15}na{\kf19} sho{\kf33}-ow{\kf29} it
-Dialogue: 0,0:01:12.37,0:01:15.27,DEFAULT,,0,0,0,,{\kf24}Stop{\kf19} and{\kf24} smell{\kf15} the{\kf19} ro{\kf19}-o{\kf104}ses
-Dialogue: 0,0:01:25.71,0:01:28.29,DEFAULT,,0,0,0,,{\kf10}To{\kf24}day{\kf19} has{\kf24} found{\kf19} a{\kf24}no{\kf19}ther{\kf33} way
-Dialogue: 0,0:01:28.62,0:01:31.24,DEFAULT,,0,0,0,,{\kf10}To{\kf24} turn{\kf24} right{\kf24} in{\kf19}to{\kf24} yes{\kf15}ter{\kf29}day
-Dialogue: 0,0:01:31.66,0:01:35.27,DEFAULT,,0,0,0,,{\kf15}'Cause{\kf29} time{\kf19} has{\kf24} ta{\kf29}ken{\kf24} all{\kf15} the{\kf47} light{\kf15} a{\kf52}gain
-Dialogue: 0,0:01:37.33,0:01:40.19,DEFAULT,,0,0,0,,{\kf10}But{\kf10} if{\kf15} I{\kf29} fid{\kf19}dle{\kf19} with{\kf33} re{\kf29}a{\kf15}li{\kf24}ty
-Dialogue: 0,0:01:40.66,0:01:43.14,DEFAULT,,0,0,0,,{\kf10}To{\kf29} try{\kf24} and{\kf24} change{\kf29} who{\kf19} I{\kf15} should{\kf19} be
-Dialogue: 0,0:01:43.65,0:01:47.31,DEFAULT,,0,0,0,,{\kf15}I'm{\kf24} tuck{\kf24}ing{\kf29} my{\kf24} own{\kf19} des{\kf15}ti{\kf29}ny{\kf33} in{\kf43} bed
-Dialogue: 0,0:01:49.18,0:01:51.71,DEFAULT,,0,0,0,,{\kf19}Close{\kf15} your{\kf193} eyes
-Dialogue: 0,0:01:52.13,0:01:54.38,DEFAULT,,0,0,0,,{\kf15}Breathe{\kf19} in{\kf160} slow
-Dialogue: 0,0:01:54.75,0:02:00.98,DEFAULT,,0,0,0,,{\kf24}Then{\kf19} let{\kf29} it{\kf230} go{\kf15}~{\kf10}~{\kf19}~{\kf207}~
-Dialogue: 0,0:02:01.87,0:02:06.56,DEFAULT,,0,0,0,,{\kf24}Stop{\kf19} and{\kf29} smell{\kf15} the{\kf38} ro{\kf24}ses{\kf24} when{\kf24} your{\kf33} jour{\kf24}ney's{\kf15} get{\kf24}ting{\kf33} long
-Dialogue: 0,0:02:07.12,0:02:12.65,DEFAULT,,0,0,0,,{\kf19}When{\kf19} you{\kf24} feel{\kf19} your{\kf33} life's{\kf15} a{\kf33}gainst{\kf29} you{\kf19} and{\kf24} your{\kf19} e{\kf24}ner{\kf29}gy{\kf19} is{\kf38} gone
-Dialogue: 0,0:02:13.16,0:02:18.55,DEFAULT,,0,0,0,,{\kf19}'Cause{\kf24} not{\kf24} e{\kf24}very{\kf19}bo{\kf19}dy{\kf33} knows{\kf29} when{\kf19} it's{\kf19} just{\kf29} time{\kf24} to{\kf29} catch{\kf15} a{\kf33} break
-Dialogue: 0,0:02:19.11,0:02:23.79,DEFAULT,,0,0,0,,{\kf24}When{\kf24} you're{\kf29} drain{\kf29}ing{\kf29} and{\kf19} you{\kf24} just{\kf24} don't{\kf24} wan{\kf15}na{\kf19} sho{\kf24}-ow{\kf52} it
-Dialogue: 0,0:02:25.90,0:02:30.58,DEFAULT,,0,0,0,,{\kf24}Stop{\kf19} and{\kf24} smell{\kf19} the{\kf33} ro{\kf19}ses{\kf24} when{\kf24} your{\kf29} jour{\kf29}ney's{\kf15} get{\kf29}ting{\kf38} long
-Dialogue: 0,0:02:31.10,0:02:36.53,DEFAULT,,0,0,0,,{\kf24}When{\kf19} you{\kf29} feel{\kf24} your{\kf29} life's{\kf15} a{\kf29}gainst{\kf24} you{\kf29} and{\kf24} your{\kf15} e{\kf29}ner{\kf29}gy{\kf19} is{\kf33} gone
-Dialogue: 0,0:02:37.14,0:02:42.62,DEFAULT,,0,0,0,,{\kf19}'Cause{\kf24} not{\kf24} e{\kf29}very{\kf19}bo{\kf19}dy{\kf43} knows{\kf29} when{\kf24} it's{\kf19} just{\kf33} time{\kf24} to{\kf29} catch{\kf15} a{\kf38} break
-Dialogue: 0,0:02:43.14,0:02:47.59,DEFAULT,,0,0,0,,{\kf19}When{\kf29} you're{\kf29} drain{\kf29}ing{\kf24} and{\kf19} you{\kf19} just{\kf24} don't{\kf29} wan{\kf15}na{\kf15} sho{\kf19}-ow{\kf38} it
-Dialogue: 0,0:02:48.38,0:02:51.99,DEFAULT,,0,0,0,,{\kf24}Stop{\kf24} and{\kf24} smell{\kf15} the{\kf15} ro{\kf19}-o{\kf174}ses
+Dialogue: 0,0:00:13.54,0:00:16.35,DEFAULT,,0,0,0,,{\r}{\kf14}There's{\kf14} a{\kf48} long{\kf27} and{\kf34} wind{\kf27}ing{\kf41} road{\kf21} a{\kf55}head
+Dialogue: 0,0:00:16.64,0:00:19.30,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf38} few{\kf38} black{\kf38} clouds{\kf38} lay{\kf38} o{\kf13}ver{\kf45}head
+Dialogue: 0,0:00:19.49,0:00:23.29,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf20} the{\kf39} shin{\kf26}ing{\kf46} sun{\kf26} is{\kf26} no{\kf39}where{\kf33} to{\kf33} be{\kf78} seen
+Dialogue: 0,0:00:25.53,0:00:28.30,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf22} with{\kf36} e{\kf29}very{\kf36} step{\kf29} and{\kf36} fall{\kf22} you{\kf51} take
+Dialogue: 0,0:00:28.91,0:00:31.34,DEFAULT,,0,0,0,,{\r}{\kf33}All{\kf33} your{\kf40} thoughts{\kf33} and{\kf33} leaps{\kf20} of{\kf52} faith
+Dialogue: 0,0:00:31.53,0:00:35.28,DEFAULT,,0,0,0,,{\r}{\kf13}There's{\kf13} a{\kf45} sil{\kf32}ver{\kf45} lin{\kf26}ing{\kf45} some{\kf32}where{\kf32} in{\kf19} bet{\kf73}ween
+Dialogue: 0,0:00:37.15,0:00:39.59,DEFAULT,,0,0,0,,{\r}{\kf26}Close{\kf16} your{\kf202} eyes
+Dialogue: 0,0:00:40.15,0:00:42.35,DEFAULT,,0,0,0,,{\r}{\kf16}Breathe{\kf16} in{\kf188} slow
+Dialogue: 0,0:00:42.77,0:00:48.91,DEFAULT,,0,0,0,,{\r}{\kf22}Then{\kf22} let{\kf33} it{\kf263} go{\kf11}~{\kf11}~{\kf16}~{\kf236}~
+Dialogue: 0,0:00:49.89,0:00:54.62,DEFAULT,,0,0,0,,{\r}{\kf34}Stop{\kf34} and{\kf34} smell{\kf27} the{\kf47} ro{\kf41}ses{\kf34} when{\kf27} your{\kf41} jour{\kf41}ney's{\kf27} get{\kf34}ting{\kf52} long
+Dialogue: 0,0:00:55.14,0:01:00.52,DEFAULT,,0,0,0,,{\r}{\kf35}When{\kf28} you{\kf41} feel{\kf35} your{\kf41} life's{\kf21} a{\kf48}gainst{\kf41} you{\kf41} and{\kf21} your{\kf21} e{\kf48}ner{\kf41}gy{\kf35} is{\kf42} gone
+Dialogue: 0,0:01:01.13,0:01:06.61,DEFAULT,,0,0,0,,{\r}{\kf33}'Cause{\kf40} not{\kf40} e{\kf33}very{\kf27}bo{\kf27}dy{\kf53} knows{\kf47} when{\kf33} it's{\kf27} just{\kf47} time{\kf33} to{\kf33} catch{\kf20} a{\kf55} break
+Dialogue: 0,0:01:07.17,0:01:11.57,DEFAULT,,0,0,0,,{\r}{\kf33}When{\kf33} you're{\kf40} drain{\kf33}ing{\kf33} and{\kf33} you{\kf33} just{\kf40} don't{\kf27} wan{\kf20}na{\kf27} sho{\kf47}-ow{\kf41} it
+Dialogue: 0,0:01:12.37,0:01:15.28,DEFAULT,,0,0,0,,{\r}{\kf31}Stop{\kf25} and{\kf31} smell{\kf19} the{\kf25} ro{\kf25}-o{\kf134}ses
+Dialogue: 0,0:01:25.72,0:01:28.30,DEFAULT,,0,0,0,,{\r}{\kf14}To{\kf36}day{\kf29} has{\kf36} found{\kf29} a{\kf36}no{\kf29}ther{\kf49} way
+Dialogue: 0,0:01:28.62,0:01:31.25,DEFAULT,,0,0,0,,{\r}{\kf15}To{\kf37} turn{\kf37} right{\kf37} in{\kf30}to{\kf37} yes{\kf22}ter{\kf47}day
+Dialogue: 0,0:01:31.67,0:01:35.27,DEFAULT,,0,0,0,,{\r}{\kf19}'Cause{\kf39} time{\kf26} has{\kf32} ta{\kf39}ken{\kf32} all{\kf19} the{\kf64} light{\kf19} a{\kf72}gain
+Dialogue: 0,0:01:37.34,0:01:40.19,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf14} if{\kf20} I{\kf41} fid{\kf27}dle{\kf27} with{\kf48} re{\kf41}a{\kf20}li{\kf34}ty
+Dialogue: 0,0:01:40.66,0:01:43.14,DEFAULT,,0,0,0,,{\r}{\kf14}To{\kf43} try{\kf35} and{\kf35} change{\kf43} who{\kf28} I{\kf21} should{\kf29} be
+Dialogue: 0,0:01:43.66,0:01:47.31,DEFAULT,,0,0,0,,{\r}{\kf21}I'm{\kf34} tuck{\kf34}ing{\kf41} my{\kf34} own{\kf28} des{\kf21}ti{\kf41}ny{\kf48} in{\kf63} bed
+Dialogue: 0,0:01:49.19,0:01:51.71,DEFAULT,,0,0,0,,{\r}{\kf21}Close{\kf16} your{\kf216} eyes
+Dialogue: 0,0:01:52.14,0:01:54.38,DEFAULT,,0,0,0,,{\r}{\kf16}Breathe{\kf22} in{\kf187} slow
+Dialogue: 0,0:01:54.76,0:02:00.99,DEFAULT,,0,0,0,,{\r}{\kf27}Then{\kf21} let{\kf32} it{\kf261} go{\kf16}~{\kf11}~{\kf21}~{\kf234}~
+Dialogue: 0,0:02:01.88,0:02:06.56,DEFAULT,,0,0,0,,{\r}{\kf34}Stop{\kf28} and{\kf41} smell{\kf21} the{\kf55} ro{\kf34}ses{\kf34} when{\kf34} your{\kf48} jour{\kf34}ney's{\kf21} get{\kf34}ting{\kf50} long
+Dialogue: 0,0:02:07.12,0:02:12.65,DEFAULT,,0,0,0,,{\r}{\kf29}When{\kf29} you{\kf36} feel{\kf29} your{\kf51} life's{\kf22} a{\kf51}gainst{\kf44} you{\kf29} and{\kf36} your{\kf29} e{\kf36}ner{\kf44}gy{\kf29} is{\kf59} gone
+Dialogue: 0,0:02:13.17,0:02:18.55,DEFAULT,,0,0,0,,{\r}{\kf29}'Cause{\kf36} not{\kf36} e{\kf36}very{\kf29}bo{\kf29}dy{\kf50} knows{\kf43} when{\kf29} it's{\kf29} just{\kf43} time{\kf36} to{\kf43} catch{\kf22} a{\kf49} break
+Dialogue: 0,0:02:19.11,0:02:23.80,DEFAULT,,0,0,0,,{\r}{\kf33}When{\kf33} you're{\kf40} drain{\kf40}ing{\kf40} and{\kf27} you{\kf33} just{\kf33} don't{\kf33} wan{\kf20}na{\kf27} sho{\kf33}-ow{\kf76} it
+Dialogue: 0,0:02:25.91,0:02:30.59,DEFAULT,,0,0,0,,{\r}{\kf34}Stop{\kf28} and{\kf34} smell{\kf28} the{\kf48} ro{\kf28}ses{\kf34} when{\kf34} your{\kf41} jour{\kf41}ney's{\kf21} get{\kf41}ting{\kf56} long
+Dialogue: 0,0:02:31.10,0:02:36.54,DEFAULT,,0,0,0,,{\r}{\kf35}When{\kf28} you{\kf42} feel{\kf35} your{\kf42} life's{\kf21} a{\kf42}gainst{\kf35} you{\kf42} and{\kf35} your{\kf21} e{\kf42}ner{\kf42}gy{\kf28} is{\kf53} gone
+Dialogue: 0,0:02:37.15,0:02:42.63,DEFAULT,,0,0,0,,{\r}{\kf27}'Cause{\kf34} not{\kf34} e{\kf41}very{\kf27}bo{\kf27}dy{\kf61} knows{\kf41} when{\kf34} it's{\kf27} just{\kf47} time{\kf34} to{\kf41} catch{\kf20} a{\kf53} break
+Dialogue: 0,0:02:43.14,0:02:47.59,DEFAULT,,0,0,0,,{\r}{\kf28}When{\kf42} you're{\kf42} drain{\kf42}ing{\kf35} and{\kf28} you{\kf28} just{\kf35} don't{\kf42} wan{\kf21}na{\kf21} sho{\kf28}-ow{\kf53} it
+Dialogue: 0,0:02:48.39,0:02:51.99,DEFAULT,,0,0,0,,{\r}{\kf29}Stop{\kf29} and{\kf29} smell{\kf17} the{\kf17} ro{\kf23}-o{\kf217}ses

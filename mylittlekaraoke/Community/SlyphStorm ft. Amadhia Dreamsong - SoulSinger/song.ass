@@ -1,107 +1,131 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: SoulSinger (Duet)
+Artist: SlyphStorm, Amadhia DreamSong
+Original Timing: mylittlekaraoke.com by ShTHfan1
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:49.67,0:00:51.13,DEFAULT,,0,0,0,,{\kf23}The{\kf34} rain{\kf27} falls{\kf27}~
-Dialogue: 0,0:00:51.77,0:00:53.76,DEFAULT,,0,0,0,,{\kf15}As{\kf8} I{\kf23}~{\kf30} sit{\kf23} near{\kf12} the{\kf15} lake{\kf27}~
-Dialogue: 0,0:00:54.51,0:00:56.27,DEFAULT,,0,0,0,,{\kf12}All{\kf15} a{\kf19}lone{\kf23} one{\kf15} sum{\kf12}mer{\kf38} night
-Dialogue: 0,0:00:59.38,0:01:01.30,DEFAULT,,0,0,0,,{\kf27}I{\kf15} let{\kf27} the{\kf15} wa{\kf27}ter{\kf15} fall{\kf27}~
-Dialogue: 0,0:01:01.56,0:01:04.52,DEFAULT,,0,0,0,,{\kf12}And{\kf27} wash{\kf27} all{\kf27} of{\kf27} my{\kf15} wor{\kf27}ries{\kf15} far{\kf12}~{\kf15} a{\kf34}way
-Dialogue: 0,0:01:06.17,0:01:07.22,DEFAULT,,0,0,0,,{\kf27}But{\kf23} not{\kf42} quite…
-Dialogue: 0,0:01:11.20,0:01:12.25,DEFAULT,,0,0,0,,{\kf12}But{\kf15} as{\kf19} it{\kf19} rained{\kf23}~
-Dialogue: 0,0:01:12.88,0:01:15.66,DEFAULT,,0,0,0,,{\kf12}I{\kf15} heard{\kf12} a{\kf27} qui{\kf19}et{\kf42} voice{\kf23} some{\kf23}where{\kf30} near{\kf38}by
-Dialogue: 0,0:01:21.92,0:01:23.23,DEFAULT,,0,0,0,,{\kf12}Then{\kf12} I{\kf19} saw{\kf27} her{\kf15} there{\kf23}~
-Dialogue: 0,0:01:23.53,0:01:26.65,DEFAULT,,0,0,0,,{\kf12}A{\kf15} litt{\kf12}le{\kf27} white{\kf15} fil{\kf30}ly{\kf30} hud{\kf19}dled{\kf34} by{\kf15} her{\kf42}self
-Dialogue: 0,0:01:28.11,0:01:29.12,DEFAULT,,0,0,0,,{\kf27}Please{\kf27} don't{\kf42} cry…
-Dialogue: 0,0:01:33.13,0:01:34.67,DEFAULT,,0,0,0,,{\kf12}And{\kf12} she{\kf30} just{\kf15} lay{\kf27}~{\kf38} there
-Dialogue: 0,0:01:35.27,0:01:36.96,DEFAULT,,0,0,0,,{\kf19}Sing{\kf12}ing{\kf12} a{\kf23} sad{\kf27} sad{\kf42} song
-Dialogue: 0,0:01:37.71,0:01:40.82,DEFAULT,,0,0,0,,{\kf15}Pur{\kf12}ple{\kf19} curls{\kf23}~{\kf30} plast{\kf27}ered{\kf15} to{\kf15}~{\kf12} her{\kf8}~{\kf12} head{\kf68}~
-Dialogue: 0,0:01:43.37,0:01:45.73,DEFAULT,,0,0,0,,{\kf12}I{\kf15} could{\kf23}n't{\kf8} bear{\kf34}~{\kf15}~{\kf12} to{\kf19} see{\kf23} her{\kf12} suf{\kf12}fer
-Dialogue: 0,0:01:46.75,0:01:48.77,DEFAULT,,0,0,0,,{\kf12}I{\kf34} could{\kf12} have{\kf45} walked{\kf12} a{\kf15}way{\kf45}~
-Dialogue: 0,0:01:49.22,0:01:51.51,DEFAULT,,0,0,0,,{\kf12}But{\kf12} I{\kf8} went{\kf34}~{\kf19} to{\kf15} her{\kf12}~{\kf12} in{\kf15}~{\kf12}stead{\kf38}~
-Dialogue: 0,0:01:52.07,0:01:53.27,DEFAULT,,0,0,0,,{\kf12}And{\kf12} I{\kf30} said{\kf19} to{\kf15} her{\kf12}~
-Dialogue: 0,0:01:53.42,0:01:56.72,DEFAULT,,0,0,0,,{\kf27}Now{\kf19} lis{\kf27}ten{\kf27} here{\kf15}~,{\kf19} it's{\kf30} cold{\kf15} and{\kf27} dark{\kf23} out{\kf38}side
-Dialogue: 0,0:01:57.06,0:01:58.93,DEFAULT,,0,0,0,,{\kf12}I{\kf12} don't{\kf15}~{\kf15} know{\kf15}~{\kf27} why{\kf15} you're{\kf19}~{\kf27} here
-Dialogue: 0,0:01:59.46,0:02:02.38,DEFAULT,,0,0,0,,{\kf12}I{\kf12} don't{\kf12} know{\kf12} where{\kf27} you're{\kf8} from{\kf34}~{\kf12} or{\kf27} know{\kf19} your{\kf12}~{\kf12} name{\kf34}~
-Dialogue: 0,0:02:03.25,0:02:04.33,DEFAULT,,0,0,0,,{\kf12}But{\kf12} ne{\kf12}ver{\kf27} fear{\kf23}~
-Dialogue: 0,0:02:04.67,0:02:07.71,DEFAULT,,0,0,0,,{\kf12}Cause{\kf23} you've{\kf12} got{\kf12} a{\kf19} voice{\kf12} that{\kf15} could{\kf19} make{\kf19} an{\kf15} an{\kf27}~{\kf12}gel{\kf34} cry
-Dialogue: 0,0:02:08.42,0:02:10.52,DEFAULT,,0,0,0,,{\kf12}And{\kf12} if{\kf12} the{\kf27} skies{\kf27} seem{\kf27} dark{\kf12} and{\kf42} grey
-Dialogue: 0,0:02:10.93,0:02:13.41,DEFAULT,,0,0,0,,{\kf15}Don't{\kf30} you{\kf23} let{\kf34} your{\kf12} spir{\kf8}~{\kf27}it{\kf45} die
-Dialogue: 0,0:02:14.05,0:02:18.55,DEFAULT,,0,0,0,,{\kf30}Just{\kf30} sing{\kf12} the{\kf38} pain{\kf15} a{\kf15}way{\kf278}~
-Dialogue: 0,0:02:27.77,0:02:32.38,DEFAULT,,0,0,0,,{\kf34}So{\kf27} ma{\kf15}ny{\kf30} years{\kf23} since{\kf27} that{\kf27} cold{\kf30} night{\kf27} so{\kf34} ve{\kf12}ry{\kf12} long{\kf19}~{\kf12} a{\kf45}go
-Dialogue: 0,0:02:32.72,0:02:35.68,DEFAULT,,0,0,0,,{\kf12}A{\kf30} thou{\kf23}sand{\kf34} fans{\kf15} a{\kf45}wait{\kf19} me{\kf19} now{\kf53}~
-Dialogue: 0,0:02:36.02,0:02:37.37,DEFAULT,,0,0,0,,{\kf12}At{\kf12} a{\kf12} sold{\kf27} out{\kf15} show{\kf30}~
-Dialogue: 0,0:02:37.82,0:02:40.15,DEFAULT,,0,0,0,,{\kf23}Walk{\kf23} out{\kf23} to{\kf30} the{\kf15} roa{\kf27}ring{\kf15} cheers{\kf34}~
-Dialogue: 0,0:02:40.37,0:02:42.85,DEFAULT,,0,0,0,,{\kf12}A{\kf15} hap{\kf19}py{\kf23} shout{\kf15}~{\kf19} that{\kf27} hurts{\kf23} my{\kf19} ears{\kf19}~
-Dialogue: 0,0:02:43.22,0:02:48.40,DEFAULT,,0,0,0,,{\kf19}Take{\kf12} a{\kf27} breath,{\kf23} and{\kf30} four{\kf27} ticks{\kf19} la{\kf34}ter,{\kf23} off{\kf19} we{\kf180} go
-Dialogue: 0,0:02:48.66,0:02:50.87,DEFAULT,,0,0,0,,{\kf15}Roa{\kf19}ring{\kf34} brass{\kf30} rolls{\kf15} on{\kf23}~{\kf12} a{\kf12}head{\kf12}~
-Dialogue: 0,0:02:51.10,0:02:53.65,DEFAULT,,0,0,0,,{\kf12}And{\kf12} a{\kf23} lead{\kf15} gui{\kf15}tar{\kf23}~{\kf27} starts{\kf19} up{\kf19} in{\kf15}stead{\kf15}~
-Dialogue: 0,0:02:53.95,0:02:56.53,DEFAULT,,0,0,0,,{\kf12}The{\kf30} soft{\kf34} pia{\kf23}no{\kf15} lends{\kf12}~{\kf19} its{\kf15} chime{\kf27}~
-Dialogue: 0,0:02:56.72,0:02:59.38,DEFAULT,,0,0,0,,{\kf12}To{\kf30} join{\kf12} the{\kf27} march{\kf23} that{\kf27} ig{\kf12}nores{\kf23}~{\kf15} time{\kf27}~
-Dialogue: 0,0:02:59.68,0:03:02.83,DEFAULT,,0,0,0,,{\kf30}Souls{\kf15} be{\kf30}fore{\kf15}~{\kf23} me{\kf27} wash{\kf23} their{\kf19} cares{\kf15}~{\kf15} a{\kf15}way{\kf38}~
-Dialogue: 0,0:03:03.10,0:03:06.13,DEFAULT,,0,0,0,,{\kf27}Lost{\kf34} with{\kf27}in{\kf23} the{\kf34} sounds{\kf27} of{\kf30} har{\kf15}mo{\kf38}ny
-Dialogue: 0,0:03:06.32,0:03:09.47,DEFAULT,,0,0,0,,{\kf12}I{\kf15} round{\kf19} them{\kf30} up,{\kf15} to{\kf15}~{\kf27} sing{\kf12} the{\kf27} words{\kf8} he{\kf27}~{\kf12}~{\kf15} wrote
-Dialogue: 0,0:03:09.66,0:03:10.41,DEFAULT,,0,0,0,,{\kf19}And{\kf23} then{\kf15} we
-Dialogue: 0,0:03:10.60,0:03:12.88,DEFAULT,,0,0,0,,{\kf34}Sang{\kf12} a{\kf38} tale{\kf12} of{\kf42} time{\kf19} and{\kf27} space
-Dialogue: 0,0:03:13.07,0:03:15.85,DEFAULT,,0,0,0,,{\kf12}And{\kf42} told{\kf12} a{\kf30} sto{\kf12}ry{\kf12} of{\kf15} a{\kf19}no{\kf23}ther{\kf15} place{\kf38}~
-Dialogue: 0,0:03:16.15,0:03:18.43,DEFAULT,,0,0,0,,{\kf12}Sang{\kf15} a{\kf15} tale{\kf19}~{\kf27} of{\kf12} hap{\kf19}~{\kf23}py{\kf12} life{\kf12}~
-Dialogue: 0,0:03:18.62,0:03:21.36,DEFAULT,,0,0,0,,{\kf19}And{\kf42} told{\kf12} a{\kf27} sto{\kf12}ry{\kf15} of{\kf23} pain{\kf30} and{\kf27} strife{\kf12}~
-Dialogue: 0,0:03:21.62,0:03:24.88,DEFAULT,,0,0,0,,{\kf27}Spoke{\kf12} with{\kf23} mu{\kf19}sic,{\kf23} and{\kf27} watched{\kf23} the{\kf30} world{\kf23} un{\kf23}fold{\kf19}~
-Dialogue: 0,0:03:25.07,0:03:27.92,DEFAULT,,0,0,0,,{\kf15}Did{\kf19}n't{\kf15} let{\kf19}~{\kf23} our{\kf15} sad{\kf23}~{\kf27}ness{\kf15} lin{\kf12}~{\kf49}ger
-Dialogue: 0,0:03:28.15,0:03:31.48,DEFAULT,,0,0,0,,{\kf27}We{\kf15} stood{\kf15} up{\kf45} tall{\kf27} and{\kf15} proud{\kf45}~{\kf27} and{\kf15} be{\kf38}came
-Dialogue: 0,0:03:31.82,0:03:38.27,DEFAULT,,0,0,0,,{\kf49}Soul{\kf15}S{\kf102}ing{\kf458}ers
-Dialogue: 0,0:03:52.82,0:03:58.30,DEFAULT,,0,0,0,,{\kf23}Just{\kf8} sing{\kf30}~{\kf12} the{\kf42} world{\kf34} a{\kf375}way~!
-Dialogue: 0,0:04:23.16,0:04:24.92,DEFAULT,,0,0,0,,{\kf45}I{\kf27} sit{\kf23} by{\kf12} the{\kf15} wa{\kf23}ter
-Dialogue: 0,0:04:25.71,0:04:27.88,DEFAULT,,0,0,0,,{\kf12}I{\kf12} think{\kf34}~{\kf27} back{\kf27} to{\kf27} that{\kf15} day{\kf27}~
-Dialogue: 0,0:04:28.41,0:04:30.55,DEFAULT,,0,0,0,,{\kf15}I{\kf42} sing{\kf12} to{\kf12} the{\kf34} si{\kf12}lent{\kf15} lake{\kf30}~
-Dialogue: 0,0:04:31.07,0:04:32.83,DEFAULT,,0,0,0,,{\kf12}Un{\kf12}der{\kf42} skies{\kf27} so{\kf12} grey{\kf15}~{\kf23}~
-Dialogue: 0,0:04:33.25,0:04:35.20,DEFAULT,,0,0,0,,{\kf23}I{\kf30} won{\kf30}der{\kf12} where{\kf19}~{\kf19} she{\kf15} is{\kf12}~
-Dialogue: 0,0:04:35.35,0:04:37.82,DEFAULT,,0,0,0,,{\kf34}That{\kf15} name{\kf23}less{\kf15} fil{\kf30}ly{\kf12} with{\kf12} the{\kf15} qui{\kf15}et{\kf19} song{\kf15}~
-Dialogue: 0,0:04:38.72,0:04:40.78,DEFAULT,,0,0,0,,{\kf27}I{\kf30} heard{\kf12} a{\kf15} voice{\kf27}~{\kf15} be{\kf19}hind{\kf15}~{\kf12} me
-Dialogue: 0,0:04:40.90,0:04:42.81,DEFAULT,,0,0,0,,{\kf12}And{\kf12} I{\kf23} knew{\kf23} I{\kf27} was{\kf12}n't{\kf15} wrong{\kf23}~
-Dialogue: 0,0:04:43.52,0:04:46.15,DEFAULT,,0,0,0,,{\kf27}Cause{\kf27} there{\kf12} she{\kf15} was{\kf23}~,{\kf15} stand{\kf12}ing{\kf15} eye{\kf19}~{\kf12} to{\kf15} eye{\kf19}~
-Dialogue: 0,0:04:46.30,0:04:49.11,DEFAULT,,0,0,0,,{\kf27}That{\kf19} young{\kf27} white{\kf15} fill{\kf15}~{\kf23}y,{\kf12} once{\kf23}~{\kf15} so{\kf15}~{\kf15} shy{\kf19}~
-Dialogue: 0,0:04:49.37,0:04:53.16,DEFAULT,,0,0,0,,{\kf34}All{\kf34} grown{\kf23} up,{\kf27} so{\kf23} tall{\kf12} and{\kf15} proud{\kf23}~,{\kf15} a{\kf15} sight{\kf23}~{\kf12} to{\kf15} see{\kf34}~
-Dialogue: 0,0:04:54.70,0:04:57.43,DEFAULT,,0,0,0,,{\kf12}She{\kf15} spoke{\kf15} to{\kf15} me{\kf19}~{\kf12} with{\kf12} a{\kf15} look{\kf30}~{\kf12} so{\kf19}~{\kf15} bro{\kf12}~{\kf19}ken
-Dialogue: 0,0:04:57.62,0:05:00.06,DEFAULT,,0,0,0,,{\kf12}Thank{\kf27} you{\kf30} stra{\kf15}nger,{\kf12} for{\kf12} the{\kf30} words{\kf12} you've{\kf15} spo{\kf19}~{\kf19}ken
-Dialogue: 0,0:05:00.25,0:05:01.75,DEFAULT,,0,0,0,,{\kf12}I{\kf15} did{\kf12}n't{\kf23} know{\kf19} what{\kf12} to{\kf12} do{\kf12}~
-Dialogue: 0,0:05:01.90,0:05:04.75,DEFAULT,,0,0,0,,{\kf12}And{\kf19} it{\kf19} meant{\kf34} the{\kf8} world{\kf23}~{\kf12} to{\kf15} me{\kf90}~
-Dialogue: 0,0:05:05.61,0:05:08.12,DEFAULT,,0,0,0,,{\kf19}And{\kf12} e{\kf19}ver{\kf23} since{\kf34} that{\kf15} fate{\kf30}~{\kf27}ful{\kf15} night{\kf12}~
-Dialogue: 0,0:05:08.27,0:05:10.82,DEFAULT,,0,0,0,,{\kf27}I've{\kf19} sung{\kf12} my{\kf15} sto{\kf15}~{\kf15}ries{\kf12} with{\kf23} all{\kf15} my{\kf15}~{\kf12} might{\kf12}~
-Dialogue: 0,0:05:10.97,0:05:13.03,DEFAULT,,0,0,0,,{\kf12}And{\kf12} I{\kf15} want{\kf19}ed{\kf12} to{\kf19} let{\kf12} you{\kf12} know{\kf15}~{\kf19} that
-Dialogue: 0,0:05:13.22,0:05:15.96,DEFAULT,,0,0,0,,{\kf12}You've{\kf27}~{\kf12}~{\kf19} a{\kf23}wo{\kf27}ken{\kf15} me{\kf105}~
-Dialogue: 0,0:05:16.67,0:05:19.00,DEFAULT,,0,0,0,,{\kf12}I{\kf15} could{\kf23}n't{\kf15} think{\kf23}~{\kf12} of{\kf12} a{\kf15}ny{\kf12}thing{\kf19}~{\kf12} to{\kf15} say{\kf12}~
-Dialogue: 0,0:05:19.15,0:05:21.81,DEFAULT,,0,0,0,,{\kf27}My{\kf12} heart{\kf19} had{\kf23} stopped{\kf12} and{\kf23} just{\kf12} flown{\kf19}~{\kf12} a{\kf15}way{\kf19}~
-Dialogue: 0,0:05:22.15,0:05:25.45,DEFAULT,,0,0,0,,{\kf12}But{\kf15} as{\kf30} I{\kf15} tried{\kf27}~{\kf12} to{\kf15} find{\kf34}~{\kf12} the{\kf15} words{\kf23}~{\kf12} to{\kf15} say{\kf34}~
-Dialogue: 0,0:05:25.97,0:05:29.31,DEFAULT,,0,0,0,,{\kf42}She{\kf8} sung{\kf15}~{\kf19} my{\kf15} breath{\kf23}~{\kf12} a{\kf165}way
-Dialogue: 0,0:05:30.51,0:05:32.87,DEFAULT,,0,0,0,,{\kf12}Keep{\kf19} your{\kf15} head{\kf15}~{\kf27} up,{\kf19} and{\kf15} don't{\kf12}~{\kf27} look{\kf12} down{\kf12}~
-Dialogue: 0,0:05:33.02,0:05:35.68,DEFAULT,,0,0,0,,{\kf23}And{\kf12} don't{\kf27} dare{\kf8} you{\kf15}~{\kf12}~{\kf15} let{\kf12} me{\kf12} see{\kf19}~{\kf23} you{\kf12} frown{\kf23}~
-Dialogue: 0,0:05:35.87,0:05:38.27,DEFAULT,,0,0,0,,{\kf12}A{\kf12} chil{\kf23}ly{\kf15} fil{\kf27}~{\kf12}ly{\kf12} on{\kf12} a{\kf15} gloo{\kf19}~{\kf30}my{\kf15} night
-Dialogue: 0,0:05:38.42,0:05:41.08,DEFAULT,,0,0,0,,{\kf27}Was{\kf15} res{\kf19}cued{\kf15} by{\kf19}~{\kf23} a{\kf15} soul{\kf23}~{\kf15} so{\kf12}~{\kf15} bright{\kf12}~
-Dialogue: 0,0:05:41.31,0:05:44.38,DEFAULT,,0,0,0,,{\kf12}You{\kf27} set{\kf23} me{\kf34} straight,{\kf12} and{\kf12} I{\kf15} wan{\kf27}ted{\kf12} to{\kf23} let{\kf27} you{\kf19} know
-Dialogue: 0,0:05:44.61,0:05:48.43,DEFAULT,,0,0,0,,{\kf19}That{\kf30} when{\kf30} I{\kf30} wrote{\kf30} this{\kf30} song,{\kf30} I{\kf30} wrote{\kf30} it{\kf30} for{\kf49} you
-Dialogue: 0,0:05:48.66,0:05:51.25,DEFAULT,,0,0,0,,{\kf23}And{\kf15} so{\kf15}~{\kf27} that{\kf15} on{\kf19}~{\kf27}ly{\kf15} goes{\kf19}~{\kf12} to{\kf15} show{\kf12}~
-Dialogue: 0,0:05:51.40,0:05:52.26,DEFAULT,,0,0,0,,{\kf27}That{\kf27} when{\kf23} you
-Dialogue: 0,0:05:52.37,0:05:54.73,DEFAULT,,0,0,0,,{\kf15}Sing{\kf15}~{\kf12} a{\kf15} tale{\kf23}~{\kf12} of{\kf15} time{\kf23}~{\kf27} and{\kf15} space{\kf8}~
-Dialogue: 0,0:05:54.96,0:05:57.43,DEFAULT,,0,0,0,,{\kf19}And{\kf27} tell{\kf12} the{\kf30} sto{\kf12}ry{\kf12} of{\kf15} an{\kf30}o{\kf12}ther{\kf15} place{\kf19}~
-Dialogue: 0,0:05:57.62,0:06:00.17,DEFAULT,,0,0,0,,{\kf12}And{\kf12} sing{\kf23}~{\kf12} a{\kf15} tale{\kf34}~{\kf12} of{\kf15} hap{\kf19}~{\kf23}py{\kf15} life{\kf12}~
-Dialogue: 0,0:06:00.36,0:06:03.10,DEFAULT,,0,0,0,,{\kf23}And{\kf30} tell{\kf12} the{\kf30} sto{\kf12}ry{\kf12} of{\kf12} pain{\kf38}~{\kf23} and{\kf15} strife{\kf19}~
-Dialogue: 0,0:06:03.36,0:06:07.11,DEFAULT,,0,0,0,,{\kf68}Speak{\kf27} with{\kf19} mu{\kf38}~{\kf12}sic,{\kf30} and{\kf27} watch{\kf19} the{\kf27} world{\kf23} un{\kf15}fold{\kf23}~
-Dialogue: 0,0:06:07.33,0:06:09.70,DEFAULT,,0,0,0,,{\kf12}So{\kf34} don't{\kf15} let{\kf12} your{\kf23} sad{\kf12}ness{\kf15} ling{\kf15}~{\kf60}er
-Dialogue: 0,0:06:09.92,0:06:13.18,DEFAULT,,0,0,0,,{\kf27}Just{\kf42} stand{\kf12} up{\kf15} tall{\kf23}~{\kf12} and{\kf15} proud{\kf139}~{\kf12}~
-Dialogue: 0,0:06:13.37,0:06:16.41,DEFAULT,,0,0,0,,{\kf27}And{\kf27} when{\kf27} you{\kf15} take{\kf19}~{\kf12} a{\kf15} chance{\kf23}~{\kf12} and{\kf15} rise{\kf27}~{\kf15} a{\kf15}bove
-Dialogue: 0,0:06:16.67,0:06:19.33,DEFAULT,,0,0,0,,{\kf12}And{\kf12} when{\kf12} you{\kf27} shun{\kf12} the{\kf23} ha{\kf12}tred{\kf15} and{\kf19} spread{\kf19}~{\kf27} some{\kf15} love
-Dialogue: 0,0:06:19.52,0:06:22.07,DEFAULT,,0,0,0,,{\kf12}When{\kf12} you{\kf15} com{\kf19}fort{\kf15} some{\kf15}~{\kf19}one{\kf15} just{\kf19}~{\kf27} in{\kf15} case{\kf12}~
-Dialogue: 0,0:06:22.30,0:06:24.88,DEFAULT,,0,0,0,,{\kf19}You'll{\kf27} make{\kf12} the{\kf23} world{\kf15}~{\kf23} a{\kf23} bet{\kf23}ter{\kf15} place{\kf19}~
-Dialogue: 0,0:06:25.11,0:06:28.41,DEFAULT,,0,0,0,,{\kf23}And{\kf23} those{\kf12} you{\kf38} help{\kf34} will{\kf12} be{\kf34} there{\kf23} when{\kf19} you're{\kf27} down{\kf23}~
-Dialogue: 0,0:06:28.60,0:06:31.67,DEFAULT,,0,0,0,,{\kf12}So{\kf12} take{\kf19} a{\kf38} step{\kf23} in{\kf34}to{\kf19} the{\kf15} light{\kf83}~
-Dialogue: 0,0:06:31.86,0:06:35.08,DEFAULT,,0,0,0,,{\kf23}And{\kf15} with{\kf27} your{\kf15} friends{\kf23}~,{\kf19} I{\kf15} know{\kf15}~{\kf23} you'll{\kf12} be{\kf15} al{\kf12}~{\kf15}right{\kf15}~
-Dialogue: 0,0:06:35.27,0:06:36.17,DEFAULT,,0,0,0,,{\kf30}Cause{\kf34} you're{\kf12} a
-Dialogue: 0,0:06:36.36,0:06:41.80,DEFAULT,,0,0,0,,{\kf57}Soul{\kf30}Sing{\kf443}er
+Dialogue: 0,0:00:49.68,0:00:51.14,DEFAULT,,0,0,0,,{\r}{\kf30}The{\kf45} rain{\kf35} falls{\kf36}~
+Dialogue: 0,0:00:51.78,0:00:53.76,DEFAULT,,0,0,0,,{\r}{\kf20}As{\kf10} I{\kf30}~{\kf40} sit{\kf30} near{\kf15} the{\kf20} lake{\kf34}~
+Dialogue: 0,0:00:54.51,0:00:56.28,DEFAULT,,0,0,0,,{\r}{\kf15}All{\kf20} a{\kf25}lone{\kf30} one{\kf20} sum{\kf15}mer{\kf51} night
+Dialogue: 0,0:00:59.39,0:01:01.30,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf19} let{\kf33} the{\kf19} wa{\kf33}ter{\kf19} fall{\kf35}~
+Dialogue: 0,0:01:01.56,0:01:04.53,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf33} wash{\kf33} all{\kf33} of{\kf33} my{\kf19} wor{\kf33}ries{\kf19} far{\kf14}~{\kf19} a{\kf46}way
+Dialogue: 0,0:01:06.18,0:01:07.23,DEFAULT,,0,0,0,,{\r}{\kf31}But{\kf26} not{\kf48} quite…
+Dialogue: 0,0:01:11.20,0:01:12.25,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf18} as{\kf23} it{\kf23} rained{\kf27}~
+Dialogue: 0,0:01:12.89,0:01:15.66,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf18} heard{\kf13} a{\kf31} qui{\kf22}et{\kf49} voice{\kf26} some{\kf26}where{\kf35} near{\kf45}by
+Dialogue: 0,0:01:21.93,0:01:23.24,DEFAULT,,0,0,0,,{\r}{\kf14}Then{\kf14} I{\kf23} saw{\kf33} her{\kf19} there{\kf28}~
+Dialogue: 0,0:01:23.54,0:01:26.65,DEFAULT,,0,0,0,,{\r}{\kf14}A{\kf19} litt{\kf14}le{\kf33} white{\kf19} fil{\kf38}ly{\kf38} hud{\kf24}dled{\kf42} by{\kf19} her{\kf51}self
+Dialogue: 0,0:01:28.11,0:01:29.13,DEFAULT,,0,0,0,,{\r}{\kf28}Please{\kf28} don't{\kf45} cry…
+Dialogue: 0,0:01:33.14,0:01:34.68,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf13} she{\kf35} just{\kf18} lay{\kf31}~{\kf44} there
+Dialogue: 0,0:01:35.28,0:01:36.96,DEFAULT,,0,0,0,,{\r}{\kf24}Sing{\kf14}ing{\kf14} a{\kf29} sad{\kf34} sad{\kf54} song
+Dialogue: 0,0:01:37.71,0:01:40.83,DEFAULT,,0,0,0,,{\r}{\kf19}Pur{\kf14}ple{\kf23} curls{\kf28}~{\kf37} plast{\kf32}ered{\kf19} to{\kf19}~{\kf14} her{\kf10}~{\kf14} head{\kf82}~
+Dialogue: 0,0:01:43.38,0:01:45.74,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf20} could{\kf29}n't{\kf10} bear{\kf44}~{\kf20}~{\kf15} to{\kf25} see{\kf29} her{\kf15} suf{\kf14}fer
+Dialogue: 0,0:01:46.75,0:01:48.78,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf40} could{\kf13} have{\kf53} walked{\kf13} a{\kf18}way{\kf52}~
+Dialogue: 0,0:01:49.23,0:01:51.51,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf14} I{\kf10} went{\kf42}~{\kf23} to{\kf19} her{\kf14}~{\kf14} in{\kf19}~{\kf14}stead{\kf46}~
+Dialogue: 0,0:01:52.08,0:01:53.28,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf14} I{\kf37} said{\kf23} to{\kf18} her{\kf14}~
+Dialogue: 0,0:01:53.43,0:01:56.73,DEFAULT,,0,0,0,,{\r}{\kf33}Now{\kf24} lis{\kf33}ten{\kf33} here{\kf19}~,{\kf24} it's{\kf38} cold{\kf19} and{\kf33} dark{\kf28} out{\kf46}side
+Dialogue: 0,0:01:57.06,0:01:58.94,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf14} don't{\kf18}~{\kf18} know{\kf18}~{\kf32} why{\kf18} you're{\kf23}~{\kf32} here
+Dialogue: 0,0:01:59.46,0:02:02.39,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf15} don't{\kf15} know{\kf15} where{\kf34} you're{\kf10} from{\kf44}~{\kf15} or{\kf34} know{\kf24} your{\kf15}~{\kf15} name{\kf42}~
+Dialogue: 0,0:02:03.25,0:02:04.34,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf15} ne{\kf15}ver{\kf35} fear{\kf29}~
+Dialogue: 0,0:02:04.68,0:02:07.71,DEFAULT,,0,0,0,,{\r}{\kf15}Cause{\kf30} you've{\kf15} got{\kf15} a{\kf25} voice{\kf15} that{\kf20} could{\kf25} make{\kf25} an{\kf20} an{\kf35}~{\kf15}gel{\kf49} cry
+Dialogue: 0,0:02:08.43,0:02:10.53,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf14} if{\kf14} the{\kf33} skies{\kf33} seem{\kf33} dark{\kf14} and{\kf55} grey
+Dialogue: 0,0:02:10.94,0:02:13.41,DEFAULT,,0,0,0,,{\r}{\kf19}Don't{\kf39} you{\kf29} let{\kf44} your{\kf15} spir{\kf10}~{\kf34}it{\kf57} die
+Dialogue: 0,0:02:14.05,0:02:18.55,DEFAULT,,0,0,0,,{\r}{\kf32}Just{\kf32} sing{\kf12} the{\kf41} pain{\kf16} a{\kf16}way{\kf301}~
+Dialogue: 0,0:02:27.78,0:02:32.39,DEFAULT,,0,0,0,,{\r}{\kf42}So{\kf33} ma{\kf19}ny{\kf38} years{\kf28} since{\kf33} that{\kf33} cold{\kf38} night{\kf33} so{\kf42} ve{\kf14}ry{\kf14} long{\kf24}~{\kf14} a{\kf56}go
+Dialogue: 0,0:02:32.73,0:02:35.69,DEFAULT,,0,0,0,,{\r}{\kf13}A{\kf36} thou{\kf27}sand{\kf40} fans{\kf18} a{\kf54}wait{\kf22} me{\kf22} now{\kf64}~
+Dialogue: 0,0:02:36.03,0:02:37.38,DEFAULT,,0,0,0,,{\r}{\kf14}At{\kf14} a{\kf14} sold{\kf34} out{\kf19} show{\kf40}~
+Dialogue: 0,0:02:37.83,0:02:40.15,DEFAULT,,0,0,0,,{\r}{\kf28}Walk{\kf28} out{\kf28} to{\kf37} the{\kf19} roa{\kf33}ring{\kf19} cheers{\kf41}~
+Dialogue: 0,0:02:40.38,0:02:42.85,DEFAULT,,0,0,0,,{\r}{\kf15}A{\kf20} hap{\kf25}py{\kf30} shout{\kf20}~{\kf25} that{\kf35} hurts{\kf30} my{\kf25} ears{\kf22}~
+Dialogue: 0,0:02:43.23,0:02:48.40,DEFAULT,,0,0,0,,{\r}{\kf24}Take{\kf14} a{\kf33} breath,{\kf29} and{\kf38} four{\kf33} ticks{\kf24} la{\kf43}ter,{\kf29} off{\kf24} we{\kf227} go
+Dialogue: 0,0:02:48.66,0:02:50.88,DEFAULT,,0,0,0,,{\r}{\kf20}Roa{\kf25}ring{\kf44} brass{\kf39} rolls{\kf20} on{\kf29}~{\kf15} a{\kf15}head{\kf14}~
+Dialogue: 0,0:02:51.10,0:02:53.65,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} a{\kf30} lead{\kf20} gui{\kf20}tar{\kf30}~{\kf35} starts{\kf25} up{\kf25} in{\kf20}stead{\kf20}~
+Dialogue: 0,0:02:53.95,0:02:56.54,DEFAULT,,0,0,0,,{\r}{\kf16}The{\kf42} soft{\kf48} pia{\kf32}no{\kf21} lends{\kf16}~{\kf26} its{\kf21} chime{\kf37}~
+Dialogue: 0,0:02:56.73,0:02:59.39,DEFAULT,,0,0,0,,{\r}{\kf15}To{\kf39} join{\kf15} the{\kf34} march{\kf30} that{\kf34} ig{\kf15}nores{\kf30}~{\kf20} time{\kf34}~
+Dialogue: 0,0:02:59.69,0:03:02.84,DEFAULT,,0,0,0,,{\r}{\kf36}Souls{\kf18} be{\kf36}fore{\kf18}~{\kf27} me{\kf32} wash{\kf27} their{\kf22} cares{\kf18}~{\kf18} a{\kf18}way{\kf45}~
+Dialogue: 0,0:03:03.10,0:03:06.14,DEFAULT,,0,0,0,,{\r}{\kf32}Lost{\kf41} with{\kf32}in{\kf27} the{\kf41} sounds{\kf32} of{\kf36} har{\kf18}mo{\kf45}ny
+Dialogue: 0,0:03:06.33,0:03:09.48,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf21} round{\kf26} them{\kf41} up,{\kf21} to{\kf21}~{\kf36} sing{\kf15} the{\kf36} words{\kf10} he{\kf36}~{\kf15}~{\kf22} wrote
+Dialogue: 0,0:03:09.66,0:03:10.41,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf30} then{\kf20} we
+Dialogue: 0,0:03:10.60,0:03:12.89,DEFAULT,,0,0,0,,{\r}{\kf43}Sang{\kf14} a{\kf48} tale{\kf14} of{\kf52} time{\kf24} and{\kf34} space
+Dialogue: 0,0:03:13.08,0:03:15.85,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf51} told{\kf14} a{\kf37} sto{\kf14}ry{\kf14} of{\kf19} a{\kf23}no{\kf28}ther{\kf19} place{\kf45}~
+Dialogue: 0,0:03:16.15,0:03:18.44,DEFAULT,,0,0,0,,{\r}{\kf16}Sang{\kf21} a{\kf21} tale{\kf27}~{\kf37} of{\kf16} hap{\kf27}~{\kf32}py{\kf16} life{\kf16}~
+Dialogue: 0,0:03:18.63,0:03:21.36,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf53} told{\kf14} a{\kf34} sto{\kf14}ry{\kf19} of{\kf29} pain{\kf38} and{\kf34} strife{\kf15}~
+Dialogue: 0,0:03:21.63,0:03:24.89,DEFAULT,,0,0,0,,{\r}{\kf35}Spoke{\kf15} with{\kf30} mu{\kf25}sic,{\kf30} and{\kf35} watched{\kf30} the{\kf40} world{\kf30} un{\kf30}fold{\kf26}~
+Dialogue: 0,0:03:25.08,0:03:27.93,DEFAULT,,0,0,0,,{\r}{\kf19}Did{\kf23}n't{\kf19} let{\kf23}~{\kf28} our{\kf19} sad{\kf28}~{\kf33}ness{\kf19} lin{\kf14}~{\kf60}ger
+Dialogue: 0,0:03:28.15,0:03:31.49,DEFAULT,,0,0,0,,{\r}{\kf33}We{\kf19} stood{\kf19} up{\kf56} tall{\kf33} and{\kf19} proud{\kf56}~{\kf33} and{\kf19} be{\kf47}came
+Dialogue: 0,0:03:31.83,0:03:38.28,DEFAULT,,0,0,0,,{\r}{\kf51}Soul{\kf16}S{\kf105}ing{\kf473}ers
+Dialogue: 0,0:03:52.83,0:03:58.30,DEFAULT,,0,0,0,,{\r}{\kf24}Just{\kf10} sing{\kf31}~{\kf12} the{\kf43} world{\kf35} a{\kf392}way~!
+Dialogue: 0,0:04:23.16,0:04:24.93,DEFAULT,,0,0,0,,{\r}{\kf56}I{\kf32} sit{\kf28} by{\kf14} the{\kf19} wa{\kf27}ter
+Dialogue: 0,0:04:25.71,0:04:27.89,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf14} think{\kf42}~{\kf32} back{\kf32} to{\kf32} that{\kf19} day{\kf33}~
+Dialogue: 0,0:04:28.41,0:04:30.55,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf52} sing{\kf14} to{\kf14} the{\kf43} si{\kf14}lent{\kf19} lake{\kf39}~
+Dialogue: 0,0:04:31.08,0:04:32.84,DEFAULT,,0,0,0,,{\r}{\kf14}Un{\kf14}der{\kf52} skies{\kf33} so{\kf14} grey{\kf19}~{\kf30}~
+Dialogue: 0,0:04:33.25,0:04:35.20,DEFAULT,,0,0,0,,{\r}{\kf28}I{\kf37} won{\kf37}der{\kf14} where{\kf23}~{\kf23} she{\kf19} is{\kf14}~
+Dialogue: 0,0:04:35.35,0:04:37.83,DEFAULT,,0,0,0,,{\r}{\kf41}That{\kf18} name{\kf27}less{\kf18} fil{\kf37}ly{\kf14} with{\kf14} the{\kf18} qui{\kf18}et{\kf23} song{\kf19}~
+Dialogue: 0,0:04:38.73,0:04:40.79,DEFAULT,,0,0,0,,{\r}{\kf32}I{\kf37} heard{\kf14} a{\kf18} voice{\kf32}~{\kf18} be{\kf23}hind{\kf18}~{\kf14} me
+Dialogue: 0,0:04:40.90,0:04:42.81,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} I{\kf30} knew{\kf30} I{\kf35} was{\kf15}n't{\kf20} wrong{\kf31}~
+Dialogue: 0,0:04:43.53,0:04:46.15,DEFAULT,,0,0,0,,{\r}{\kf33}Cause{\kf33} there{\kf14} she{\kf19} was{\kf29}~,{\kf19} stand{\kf14}ing{\kf19} eye{\kf24}~{\kf14} to{\kf19} eye{\kf25}~
+Dialogue: 0,0:04:46.30,0:04:49.11,DEFAULT,,0,0,0,,{\r}{\kf33}That{\kf24} young{\kf33} white{\kf19} fill{\kf19}~{\kf29}y,{\kf14} once{\kf29}~{\kf19} so{\kf19}~{\kf19} shy{\kf24}~
+Dialogue: 0,0:04:49.38,0:04:53.16,DEFAULT,,0,0,0,,{\r}{\kf43}All{\kf43} grown{\kf28} up,{\kf33} so{\kf28} tall{\kf14} and{\kf19} proud{\kf28}~,{\kf19} a{\kf19} sight{\kf28}~{\kf14} to{\kf19} see{\kf44}~
+Dialogue: 0,0:04:54.70,0:04:57.44,DEFAULT,,0,0,0,,{\r}{\kf14}She{\kf19} spoke{\kf19} to{\kf19} me{\kf24}~{\kf14} with{\kf14} a{\kf19} look{\kf38}~{\kf14} so{\kf24}~{\kf19} bro{\kf14}~{\kf23}ken
+Dialogue: 0,0:04:57.63,0:05:00.06,DEFAULT,,0,0,0,,{\r}{\kf14}Thank{\kf32} you{\kf37} stra{\kf18}nger,{\kf14} for{\kf14} the{\kf37} words{\kf14} you've{\kf18} spo{\kf23}~{\kf23}ken
+Dialogue: 0,0:05:00.25,0:05:01.75,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf20} did{\kf15}n't{\kf30} know{\kf25} what{\kf15} to{\kf15} do{\kf15}~
+Dialogue: 0,0:05:01.90,0:05:04.75,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf23} it{\kf23} meant{\kf42} the{\kf10} world{\kf28}~{\kf14} to{\kf19} me{\kf112}~
+Dialogue: 0,0:05:05.61,0:05:08.13,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf14} e{\kf23}ver{\kf28} since{\kf42} that{\kf19} fate{\kf37}~{\kf33}ful{\kf19} night{\kf13}~
+Dialogue: 0,0:05:08.28,0:05:10.83,DEFAULT,,0,0,0,,{\r}{\kf36}I've{\kf26} sung{\kf15} my{\kf20} sto{\kf20}~{\kf20}ries{\kf15} with{\kf31} all{\kf20} my{\kf20}~{\kf15} might{\kf17}~
+Dialogue: 0,0:05:10.98,0:05:13.04,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf16} I{\kf22} want{\kf27}ed{\kf16} to{\kf27} let{\kf16} you{\kf16} know{\kf22}~{\kf28} that
+Dialogue: 0,0:05:13.23,0:05:15.96,DEFAULT,,0,0,0,,{\r}{\kf13}You've{\kf30}~{\kf13}~{\kf22} a{\kf26}wo{\kf30}ken{\kf17} me{\kf123}~
+Dialogue: 0,0:05:16.68,0:05:19.00,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf18} could{\kf27}n't{\kf18} think{\kf27}~{\kf14} of{\kf14} a{\kf18}ny{\kf14}thing{\kf23}~{\kf14} to{\kf18} say{\kf13}~
+Dialogue: 0,0:05:19.15,0:05:21.81,DEFAULT,,0,0,0,,{\r}{\kf37}My{\kf16} heart{\kf27} had{\kf32} stopped{\kf16} and{\kf32} just{\kf16} flown{\kf27}~{\kf16} a{\kf21}way{\kf26}~
+Dialogue: 0,0:05:22.15,0:05:25.45,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf19} as{\kf37} I{\kf19} tried{\kf33}~{\kf14} to{\kf19} find{\kf42}~{\kf14} the{\kf19} words{\kf28}~{\kf14} to{\kf19} say{\kf39}~
+Dialogue: 0,0:05:25.98,0:05:29.31,DEFAULT,,0,0,0,,{\r}{\kf47}She{\kf10} sung{\kf17}~{\kf21} my{\kf17} breath{\kf25}~{\kf13} a{\kf184}way
+Dialogue: 0,0:05:30.51,0:05:32.88,DEFAULT,,0,0,0,,{\r}{\kf15}Keep{\kf25} your{\kf20} head{\kf20}~{\kf34} up,{\kf25} and{\kf20} don't{\kf15}~{\kf34} look{\kf15} down{\kf13}~
+Dialogue: 0,0:05:33.03,0:05:35.69,DEFAULT,,0,0,0,,{\r}{\kf29}And{\kf15} don't{\kf34} dare{\kf10} you{\kf19}~{\kf15}~{\kf19} let{\kf15} me{\kf15} see{\kf24}~{\kf29} you{\kf15} frown{\kf27}~
+Dialogue: 0,0:05:35.88,0:05:38.28,DEFAULT,,0,0,0,,{\r}{\kf14}A{\kf14} chil{\kf27}ly{\kf18} fil{\kf32}~{\kf14}ly{\kf14} on{\kf14} a{\kf18} gloo{\kf23}~{\kf36}my{\kf16} night
+Dialogue: 0,0:05:38.43,0:05:41.09,DEFAULT,,0,0,0,,{\r}{\kf34}Was{\kf19} res{\kf24}cued{\kf19} by{\kf24}~{\kf29} a{\kf19} soul{\kf29}~{\kf19} so{\kf15}~{\kf19} bright{\kf16}~
+Dialogue: 0,0:05:41.31,0:05:44.39,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf34} set{\kf29} me{\kf44} straight,{\kf15} and{\kf15} I{\kf19} wan{\kf34}ted{\kf15} to{\kf29} let{\kf34} you{\kf24} know
+Dialogue: 0,0:05:44.61,0:05:48.44,DEFAULT,,0,0,0,,{\r}{\kf21}That{\kf34} when{\kf34} I{\kf34} wrote{\kf34} this{\kf34} song,{\kf34} I{\kf34} wrote{\kf34} it{\kf34} for{\kf55} you
+Dialogue: 0,0:05:48.66,0:05:51.25,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf19} so{\kf19}~{\kf32} that{\kf19} on{\kf23}~{\kf32}ly{\kf19} goes{\kf23}~{\kf14} to{\kf19} show{\kf12}~
+Dialogue: 0,0:05:51.40,0:05:52.26,DEFAULT,,0,0,0,,{\r}{\kf30}That{\kf30} when{\kf26} you
+Dialogue: 0,0:05:51.40,0:05:52.26,DEFAULT,,0,0,0,,{\r}{\kf30}That{\kf30} when{\kf26} you
+Dialogue: 0,0:05:52.38,0:05:54.74,DEFAULT,,0,0,0,,{\r}{\kf20}Sing{\kf20}~{\kf15} a{\kf20} tale{\kf30}~{\kf15} of{\kf20} time{\kf30}~{\kf35} and{\kf20} space{\kf11}~
+Dialogue: 0,0:05:52.38,0:05:54.74,DEFAULT,,0,0,0,,{\r}{\kf20}Sing{\kf20}~{\kf15} a{\kf20} tale{\kf30}~{\kf15} of{\kf20} time{\kf30}~{\kf35} and{\kf20} space{\kf11}~
+Dialogue: 0,0:05:54.96,0:05:57.44,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf33} tell{\kf14} the{\kf37} sto{\kf14}ry{\kf14} of{\kf19} an{\kf37}o{\kf14}ther{\kf19} place{\kf23}~
+Dialogue: 0,0:05:54.96,0:05:57.44,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf33} tell{\kf14} the{\kf37} sto{\kf14}ry{\kf14} of{\kf19} an{\kf37}o{\kf14}ther{\kf19} place{\kf23}~
+Dialogue: 0,0:05:57.63,0:06:00.18,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf14} sing{\kf29}~{\kf14} a{\kf19} tale{\kf43}~{\kf14} of{\kf19} hap{\kf24}~{\kf29}py{\kf19} life{\kf17}~
+Dialogue: 0,0:05:57.63,0:06:00.18,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf14} sing{\kf29}~{\kf14} a{\kf19} tale{\kf43}~{\kf14} of{\kf19} hap{\kf24}~{\kf29}py{\kf19} life{\kf17}~
+Dialogue: 0,0:06:00.36,0:06:03.10,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf37} tell{\kf14} the{\kf37} sto{\kf14}ry{\kf14} of{\kf14} pain{\kf46}~{\kf28} and{\kf19} strife{\kf23}~
+Dialogue: 0,0:06:00.36,0:06:03.10,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf37} tell{\kf14} the{\kf37} sto{\kf14}ry{\kf14} of{\kf14} pain{\kf46}~{\kf28} and{\kf19} strife{\kf23}~
+Dialogue: 0,0:06:03.36,0:06:07.11,DEFAULT,,0,0,0,,{\r}{\kf78}Speak{\kf31} with{\kf22} mu{\kf44}~{\kf13}sic,{\kf35} and{\kf31} watch{\kf22} the{\kf31} world{\kf26} un{\kf17}fold{\kf25}~
+Dialogue: 0,0:06:03.36,0:06:07.11,DEFAULT,,0,0,0,,{\r}{\kf78}Speak{\kf31} with{\kf22} mu{\kf44}~{\kf13}sic,{\kf35} and{\kf31} watch{\kf22} the{\kf31} world{\kf26} un{\kf17}fold{\kf25}~
+Dialogue: 0,0:06:07.34,0:06:09.70,DEFAULT,,0,0,0,,{\r}{\kf14}So{\kf41} don't{\kf18} let{\kf14} your{\kf27} sad{\kf14}ness{\kf18} ling{\kf18}~{\kf72}er
+Dialogue: 0,0:06:07.34,0:06:09.70,DEFAULT,,0,0,0,,{\r}{\kf14}So{\kf41} don't{\kf18} let{\kf14} your{\kf27} sad{\kf14}ness{\kf18} ling{\kf18}~{\kf72}er
+Dialogue: 0,0:06:09.93,0:06:13.19,DEFAULT,,0,0,0,,{\r}{\kf29}Just{\kf46} stand{\kf13} up{\kf17} tall{\kf25}~{\kf13} and{\kf17} proud{\kf155}~{\kf11}~
+Dialogue: 0,0:06:09.93,0:06:13.19,DEFAULT,,0,0,0,,{\r}{\kf29}Just{\kf46} stand{\kf13} up{\kf17} tall{\kf25}~{\kf13} and{\kf17} proud{\kf155}~{\kf11}~
+Dialogue: 0,0:06:13.38,0:06:16.41,DEFAULT,,0,0,0,,{\r}{\kf33}And{\kf33} when{\kf33} you{\kf19} take{\kf23}~{\kf14} a{\kf19} chance{\kf28}~{\kf14} and{\kf19} rise{\kf33}~{\kf19} a{\kf17}bove
+Dialogue: 0,0:06:13.38,0:06:16.41,DEFAULT,,0,0,0,,{\r}{\kf33}And{\kf33} when{\kf33} you{\kf19} take{\kf23}~{\kf14} a{\kf19} chance{\kf28}~{\kf14} and{\kf19} rise{\kf33}~{\kf19} a{\kf17}bove
+Dialogue: 0,0:06:16.68,0:06:19.34,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} when{\kf15} you{\kf35} shun{\kf15} the{\kf30} ha{\kf15}tred{\kf20} and{\kf25} spread{\kf25}~{\kf35} some{\kf21} love
+Dialogue: 0,0:06:16.68,0:06:19.34,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} when{\kf15} you{\kf35} shun{\kf15} the{\kf30} ha{\kf15}tred{\kf20} and{\kf25} spread{\kf25}~{\kf35} some{\kf21} love
+Dialogue: 0,0:06:19.53,0:06:22.08,DEFAULT,,0,0,0,,{\r}{\kf15}When{\kf15} you{\kf20} com{\kf25}fort{\kf20} some{\kf20}~{\kf25}one{\kf20} just{\kf25}~{\kf35} in{\kf20} case{\kf15}~
+Dialogue: 0,0:06:19.53,0:06:22.08,DEFAULT,,0,0,0,,{\r}{\kf15}When{\kf15} you{\kf20} com{\kf25}fort{\kf20} some{\kf20}~{\kf25}one{\kf20} just{\kf25}~{\kf35} in{\kf20} case{\kf15}~
+Dialogue: 0,0:06:22.30,0:06:24.89,DEFAULT,,0,0,0,,{\r}{\kf25}You'll{\kf35} make{\kf15} the{\kf30} world{\kf20}~{\kf30} a{\kf30} bet{\kf30}ter{\kf20} place{\kf24}~
+Dialogue: 0,0:06:22.30,0:06:24.89,DEFAULT,,0,0,0,,{\r}{\kf25}You'll{\kf35} make{\kf15} the{\kf30} world{\kf20}~{\kf30} a{\kf30} bet{\kf30}ter{\kf20} place{\kf24}~
+Dialogue: 0,0:06:25.11,0:06:28.41,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf28} those{\kf14} you{\kf47} help{\kf42} will{\kf14} be{\kf42} there{\kf28} when{\kf24} you're{\kf33} down{\kf30}~
+Dialogue: 0,0:06:25.11,0:06:28.41,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf28} those{\kf14} you{\kf47} help{\kf42} will{\kf14} be{\kf42} there{\kf28} when{\kf24} you're{\kf33} down{\kf30}~
+Dialogue: 0,0:06:28.60,0:06:31.68,DEFAULT,,0,0,0,,{\r}{\kf14}So{\kf14} take{\kf23} a{\kf46} step{\kf27} in{\kf41}to{\kf23} the{\kf18} light{\kf101}~
+Dialogue: 0,0:06:28.60,0:06:31.60,DEFAULT,,0,0,0,,{\r}{\kf14}So{\kf14} take{\kf23} a{\kf46} step{\kf28} in{\kf42}to{\kf23} the{\kf110} light
+Dialogue: 0,0:06:31.86,0:06:35.09,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf20} with{\kf35} your{\kf20} friends{\kf30}~,{\kf25} I{\kf20} know{\kf20}~{\kf30} you'll{\kf15} be{\kf20} al{\kf15}~{\kf20}right{\kf22}~
+Dialogue: 0,0:06:31.86,0:06:35.09,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf20} with{\kf35} your{\kf20} friends{\kf30}~,{\kf25} I{\kf20} know{\kf20}~{\kf30} you'll{\kf15} be{\kf20} al{\kf15}~{\kf20}right{\kf22}~
+Dialogue: 0,0:06:35.28,0:06:36.18,DEFAULT,,0,0,0,,{\r}{\kf36}Cause{\kf40} you're{\kf14} a
+Dialogue: 0,0:06:35.28,0:06:36.18,DEFAULT,,0,0,0,,{\r}{\kf36}Cause{\kf40} you're{\kf14} a
+Dialogue: 0,0:06:36.36,0:06:41.80,DEFAULT,,0,0,0,,{\r}{\kf58}Soul{\kf31}Sing{\kf455}er
+Dialogue: 0,0:06:36.36,0:06:41.80,DEFAULT,,0,0,0,,{\r}{\kf58}Soul{\kf31}Sing{\kf455}er

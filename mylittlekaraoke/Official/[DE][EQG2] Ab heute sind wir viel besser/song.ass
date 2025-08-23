@@ -1,52 +1,59 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Ab heute sind wir viel besser
+Artist: Equestria Girls - Rainbow Rocks
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.28,0:00:01.56,DEFAULT,,0,0,0,,{\kf36}Eins,{\kf36} zwei,{\kf36} drei!
-Dialogue: 0,0:00:01.71,0:00:04.01,DEFAULT,,0,0,0,,{\kf21}Wir{\kf21} wa{\kf21}ren{\kf16} uns{\kf16} nicht{\kf21} im{\kf16}mer{\kf26} ei{\kf16}nig
-Dialogue: 0,0:00:04.12,0:00:05.60,DEFAULT,,0,0,0,,{\kf16}Das{\kf16} ist{\kf21} lan{\kf16}ge{\kf26} he{\kf26}-er
-Dialogue: 0,0:00:05.96,0:00:07.95,DEFAULT,,0,0,0,,{\kf21}Ein{\kf21} neu{\kf21}er{\kf21} An{\kf16}fang{\kf16} ist{\kf16} ge{\kf31}macht
-Dialogue: 0,0:00:08.21,0:00:09.95,DEFAULT,,0,0,0,,{\kf21}Es{\kf16} gibt{\kf21} kei{\kf16}ne{\kf26} Sor{\kf21}gen{\kf21} mehr
-Dialogue: 0,0:00:10.05,0:00:11.07,DEFAULT,,0,0,0,,{\kf21}Ah{\kf16} oh{\kf26} ah{\kf21} oh
-Dialogue: 0,0:00:11.17,0:00:12.61,DEFAULT,,0,0,0,,{\kf21}Geht{\kf21} man{\kf11} durch{\kf16} die{\kf21}ses{\kf26} Haus
-Dialogue: 0,0:00:12.71,0:00:14.39,DEFAULT,,0,0,0,,{\kf21}Dann{\kf21} fühlt{\kf16} man{\kf16} es{\kf16} ge{\kf52}nau
-Dialogue: 0,0:00:15.32,0:00:16.80,DEFAULT,,0,0,0,,{\kf21}Wir{\kf21} sind{\kf11} die{\kf21} Won{\kf21}der{\kf31}colts
-Dialogue: 0,0:00:16.90,0:00:19.05,DEFAULT,,0,0,0,,{\kf21}Ge{\kf26}eint{\kf26} für{\kf26} im{\kf26}mer,{\kf41} wow!
-Dialogue: 0,0:00:19.30,0:00:21.66,DEFAULT,,0,0,0,,{\kf41}Es{\kf41} ist{\kf41} gut,{\kf21} wenn{\kf26} wir{\kf26} fest
-Dialogue: 0,0:00:21.81,0:00:23.34,DEFAULT,,0,0,0,,{\kf21}Zu{\kf21}-u{\kf21}sam{\kf16}men{\kf26}ste{\kf21}hen
-Dialogue: 0,0:00:23.45,0:00:25.85,DEFAULT,,0,0,0,,{\kf31}Das{\kf41} wird{\kf21} heu{\kf21}te{\kf21} noch{\kf21} bes{\kf31}ser
-Dialogue: 0,0:00:26.10,0:00:27.64,DEFAULT,,0,0,0,,{\kf16}A{\kf21}-als{\kf21} frü{\kf16}her{\kf21} ge{\kf31}hen
-Dialogue: 0,0:00:27.89,0:00:30.86,DEFAULT,,0,0,0,,{\kf21}Je{\kf16}der{\kf31} spü{\kf16}-ürt,{\kf41} wir{\kf41} sind{\kf41} zu{\kf41}rück
-Dialogue: 0,0:00:31.01,0:00:34.34,DEFAULT,,0,0,0,,{\kf47}Was{\kf36} für{\kf47} ein{\kf41} Glück,{\kf11} denn{\kf26} ab{\kf26} heu{\kf47}te
-Dialogue: 0,0:00:35.00,0:00:36.33,DEFAULT,,0,0,0,,{\kf21}Ist{\kf16} al{\kf16}les{\kf16} bes{\kf36}ser
-Dialogue: 0,0:00:36.48,0:00:38.12,DEFAULT,,0,0,0,,{\kf21}Wah{\kf41} oh,{\kf16} oh{\kf26} wah{\kf31} oh
-Dialogue: 0,0:00:38.33,0:00:40.47,DEFAULT,,0,0,0,,{\kf21}Ab{\kf26} heu{\kf16}te{\kf26} sind{\kf16} wir{\kf26} viel{\kf21} bes{\kf31}ser
-Dialogue: 0,0:00:40.63,0:00:42.42,DEFAULT,,0,0,0,,{\kf26}Wah{\kf26} oh,{\kf21} oh{\kf21} wah{\kf47} oh
-Dialogue: 0,0:00:43.59,0:00:45.64,DEFAULT,,0,0,0,,{\kf21}Wir{\kf26} ha{\kf16}ben{\kf21} da{\kf16}mals{\kf16} nicht{\kf16} er{\kf36}kannt
-Dialogue: 0,0:00:45.89,0:00:47.38,DEFAULT,,0,0,0,,{\kf21}Was{\kf16} uns{\kf21} wich{\kf16}tig{\kf52} war
-Dialogue: 0,0:00:47.78,0:00:49.88,DEFAULT,,0,0,0,,{\kf16}Die{\kf21} Freund{\kf26}schaft,{\kf16} die{\kf16} uns{\kf21} zwei{\kf21} ver{\kf36}band
-Dialogue: 0,0:00:50.09,0:00:51.88,DEFAULT,,0,0,0,,{\kf16}War{\kf11} tat{\kf26}säch{\kf21}lich{\kf21} in{\kf16} Ge{\kf36}fahr
-Dialogue: 0,0:00:52.95,0:00:54.38,DEFAULT,,0,0,0,,{\kf16}Doch{\kf21} das{\kf16} ist{\kf16} lan{\kf16}ge{\kf26} her
-Dialogue: 0,0:00:54.53,0:00:56.27,DEFAULT,,0,0,0,,{\kf21}Und{\kf21} al{\kf16}le{\kf21} fühlen{\kf16} ge{\kf57}nau
-Dialogue: 0,0:00:57.19,0:00:58.63,DEFAULT,,0,0,0,,{\kf16}Wir{\kf26} sind{\kf11} die{\kf21} Won{\kf16}der{\kf26}colts
-Dialogue: 0,0:00:58.73,0:01:00.93,DEFAULT,,0,0,0,,{\kf26} Ge{\kf26}eint{\kf26} für{\kf21} im{\kf41}mer,{\kf41} wow!
-Dialogue: 0,0:01:01.08,0:01:03.53,DEFAULT,,0,0,0,,{\kf36}Es{\kf36} ist{\kf47} gut,{\kf21} wenn{\kf16} wir{\kf36} fest
-Dialogue: 0,0:01:03.69,0:01:05.12,DEFAULT,,0,0,0,,{\kf21}Zu{\kf16}-u{\kf21}sam{\kf16}men{\kf21}ste{\kf26}hen
-Dialogue: 0,0:01:05.27,0:01:07.68,DEFAULT,,0,0,0,,{\kf36}Das{\kf47} wird{\kf21} heu{\kf21}te{\kf21} noch{\kf21} bes{\kf36}ser
-Dialogue: 0,0:01:07.83,0:01:09.52,DEFAULT,,0,0,0,,{\kf21}A{\kf26}-als{\kf21} frü{\kf16}her{\kf21} ge{\kf41}hen
-Dialogue: 0,0:01:09.67,0:01:12.64,DEFAULT,,0,0,0,,{\kf21}Nie{\kf21}mand{\kf26} we{\kf26}-icht{\kf31} ein{\kf31} Schritt{\kf52} zu{\kf36}rück
-Dialogue: 0,0:01:12.89,0:01:16.11,DEFAULT,,0,0,0,,{\kf47}Was{\kf36} für{\kf41} ein{\kf41} Glück,{\kf16} denn{\kf36} ab{\kf21} heu{\kf36}te
-Dialogue: 0,0:01:16.78,0:01:18.16,DEFAULT,,0,0,0,,{\kf26}Ist{\kf21} al{\kf16}les{\kf21} bes{\kf36}ser
-Dialogue: 0,0:01:18.31,0:01:20.00,DEFAULT,,0,0,0,,{\kf26}Wah{\kf41} oh,{\kf21} oh{\kf21} wah{\kf36} oh
-Dialogue: 0,0:01:20.15,0:01:22.35,DEFAULT,,0,0,0,,{\kf16}Ab{\kf26} heu{\kf21}te{\kf26} sind{\kf16} wir{\kf21} viel{\kf21} bes{\kf36}ser
-Dialogue: 0,0:01:22.50,0:01:24.14,DEFAULT,,0,0,0,,{\kf16}Wah{\kf31} oh,{\kf21} oh{\kf26} wah{\kf26} oh
-Dialogue: 0,0:01:24.35,0:01:26.49,DEFAULT,,0,0,0,,{\kf16}Ab{\kf21} heu{\kf16}te{\kf21} sind{\kf21} wir{\kf21} viel{\kf26} bes{\kf31}ser
-Dialogue: 0,0:01:26.70,0:01:28.33,DEFAULT,,0,0,0,,{\kf21}Wah{\kf31} oh,{\kf16} oh{\kf21} wah{\kf31} oh
-Dialogue: 0,0:01:28.49,0:01:30.74,DEFAULT,,0,0,0,,{\kf16}Ab{\kf21} heu{\kf21}te{\kf26} sind{\kf21} wir{\kf21} viel{\kf21} bes{\kf36}ser
+Dialogue: 0,0:00:00.29,0:00:01.57,DEFAULT,,0,0,0,,{\r}{\kf43}Eins,{\kf43} zwei,{\kf42} drei!
+Dialogue: 0,0:00:01.72,0:00:04.02,DEFAULT,,0,0,0,,{\r}{\kf28}Wir{\kf28} wa{\kf28}ren{\kf21} uns{\kf21} nicht{\kf28} im{\kf21}mer{\kf35} ei{\kf20}nig
+Dialogue: 0,0:00:04.12,0:00:05.60,DEFAULT,,0,0,0,,{\r}{\kf19}Das{\kf19} ist{\kf26} lan{\kf19}ge{\kf32} he{\kf33}-er
+Dialogue: 0,0:00:05.96,0:00:07.96,DEFAULT,,0,0,0,,{\r}{\kf26}Ein{\kf26} neu{\kf26}er{\kf26} An{\kf19}fang{\kf19} ist{\kf19} ge{\kf38}macht
+Dialogue: 0,0:00:08.21,0:00:09.95,DEFAULT,,0,0,0,,{\r}{\kf26}Es{\kf19} gibt{\kf26} kei{\kf19}ne{\kf32} Sor{\kf26}gen{\kf26} mehr
+Dialogue: 0,0:00:10.05,0:00:11.08,DEFAULT,,0,0,0,,{\r}{\kf26}Ah{\kf19} oh{\kf32} ah{\kf25} oh
+Dialogue: 0,0:00:11.18,0:00:12.61,DEFAULT,,0,0,0,,{\r}{\kf26}Geht{\kf26} man{\kf13} durch{\kf20} die{\kf26}ses{\kf32} Haus
+Dialogue: 0,0:00:12.71,0:00:14.40,DEFAULT,,0,0,0,,{\r}{\kf25}Dann{\kf25} fühlt{\kf19} man{\kf19} es{\kf19} ge{\kf62}nau
+Dialogue: 0,0:00:15.32,0:00:16.80,DEFAULT,,0,0,0,,{\r}{\kf25}Wir{\kf25} sind{\kf12} die{\kf25} Won{\kf25}der{\kf36}colts
+Dialogue: 0,0:00:16.91,0:00:19.05,DEFAULT,,0,0,0,,{\r}{\kf27}Ge{\kf34}eint{\kf34} für{\kf34} im{\kf34}mer,{\kf52} wow!
+Dialogue: 0,0:00:19.31,0:00:21.66,DEFAULT,,0,0,0,,{\r}{\kf49}Es{\kf49} ist{\kf49} gut,{\kf25} wenn{\kf31} wir{\kf32} fest
+Dialogue: 0,0:00:21.81,0:00:23.35,DEFAULT,,0,0,0,,{\r}{\kf26}Zu{\kf26}-u{\kf26}sam{\kf19}men{\kf32}ste{\kf24}hen
+Dialogue: 0,0:00:23.45,0:00:25.85,DEFAULT,,0,0,0,,{\r}{\kf40}Das{\kf53} wird{\kf27} heu{\kf27}te{\kf27} noch{\kf27} bes{\kf39}ser
+Dialogue: 0,0:00:26.11,0:00:27.64,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf26}-als{\kf26} frü{\kf19}her{\kf26} ge{\kf37}hen
+Dialogue: 0,0:00:27.90,0:00:30.86,DEFAULT,,0,0,0,,{\r}{\kf25}Je{\kf19}der{\kf37} spü{\kf19}-ürt,{\kf50} wir{\kf50} sind{\kf50} zu{\kf47}rück
+Dialogue: 0,0:00:31.02,0:00:34.34,DEFAULT,,0,0,0,,{\r}{\kf55}Was{\kf43} für{\kf55} ein{\kf49} Glück,{\kf12} denn{\kf31} ab{\kf31} heu{\kf56}te
+Dialogue: 0,0:00:35.01,0:00:36.34,DEFAULT,,0,0,0,,{\r}{\kf27}Ist{\kf20} al{\kf20}les{\kf20} bes{\kf46}ser
+Dialogue: 0,0:00:36.49,0:00:38.13,DEFAULT,,0,0,0,,{\r}{\kf25}Wah{\kf50} oh,{\kf19} oh{\kf32} wah{\kf38} oh
+Dialogue: 0,0:00:38.33,0:00:40.48,DEFAULT,,0,0,0,,{\r}{\kf25}Ab{\kf31} heu{\kf18}te{\kf31} sind{\kf18} wir{\kf31} viel{\kf25} bes{\kf36}ser
+Dialogue: 0,0:00:40.63,0:00:42.42,DEFAULT,,0,0,0,,{\r}{\kf33}Wah{\kf33} oh,{\kf27} oh{\kf27} wah{\kf59} oh
+Dialogue: 0,0:00:43.60,0:00:45.64,DEFAULT,,0,0,0,,{\r}{\kf26}Wir{\kf32} ha{\kf19}ben{\kf26} da{\kf19}mals{\kf19} nicht{\kf19} er{\kf45}kannt
+Dialogue: 0,0:00:45.90,0:00:47.38,DEFAULT,,0,0,0,,{\r}{\kf25}Was{\kf18} uns{\kf25} wich{\kf18}tig{\kf62} war
+Dialogue: 0,0:00:47.79,0:00:49.89,DEFAULT,,0,0,0,,{\r}{\kf19}Die{\kf25} Freund{\kf32}schaft,{\kf19} die{\kf19} uns{\kf25} zwei{\kf25} ver{\kf46}band
+Dialogue: 0,0:00:50.09,0:00:51.88,DEFAULT,,0,0,0,,{\r}{\kf19}War{\kf13} tat{\kf32}säch{\kf26}lich{\kf26} in{\kf19} Ge{\kf44}fahr
+Dialogue: 0,0:00:52.95,0:00:54.39,DEFAULT,,0,0,0,,{\r}{\kf20}Doch{\kf27} das{\kf20} ist{\kf20} lan{\kf20}ge{\kf36} her
+Dialogue: 0,0:00:54.54,0:00:56.28,DEFAULT,,0,0,0,,{\r}{\kf24}Und{\kf24} al{\kf18}le{\kf24} fühlen{\kf18} ge{\kf66}nau
+Dialogue: 0,0:00:57.20,0:00:58.63,DEFAULT,,0,0,0,,{\r}{\kf20}Wir{\kf32} sind{\kf13} die{\kf26} Won{\kf20}der{\kf32}colts
+Dialogue: 0,0:00:58.73,0:01:00.93,DEFAULT,,0,0,0,,{\r}{\kf31} Ge{\kf31}eint{\kf31} für{\kf25} im{\kf50}mer,{\kf52} wow!
+Dialogue: 0,0:01:01.08,0:01:03.54,DEFAULT,,0,0,0,,{\r}{\kf46}Es{\kf46} ist{\kf60} gut,{\kf26} wenn{\kf20} wir{\kf47} fest
+Dialogue: 0,0:01:03.69,0:01:05.12,DEFAULT,,0,0,0,,{\r}{\kf25}Zu{\kf19}-u{\kf25}sam{\kf19}men{\kf25}ste{\kf30}hen
+Dialogue: 0,0:01:05.28,0:01:07.68,DEFAULT,,0,0,0,,{\r}{\kf43}Das{\kf55} wird{\kf25} heu{\kf25}te{\kf25} noch{\kf25} bes{\kf42}ser
+Dialogue: 0,0:01:07.83,0:01:09.52,DEFAULT,,0,0,0,,{\r}{\kf24}A{\kf30}-als{\kf24} frü{\kf18}her{\kf24} ge{\kf49}hen
+Dialogue: 0,0:01:09.68,0:01:12.64,DEFAULT,,0,0,0,,{\r}{\kf25}Nie{\kf25}mand{\kf32} we{\kf32}-icht{\kf38} ein{\kf38} Schritt{\kf63} zu{\kf44}rück
+Dialogue: 0,0:01:12.90,0:01:16.12,DEFAULT,,0,0,0,,{\r}{\kf55}Was{\kf43} für{\kf49} ein{\kf49} Glück,{\kf18} denn{\kf43} ab{\kf24} heu{\kf41}te
+Dialogue: 0,0:01:16.78,0:01:18.16,DEFAULT,,0,0,0,,{\r}{\kf30}Ist{\kf24} al{\kf18}les{\kf24} bes{\kf42}ser
+Dialogue: 0,0:01:18.32,0:01:20.00,DEFAULT,,0,0,0,,{\r}{\kf30}Wah{\kf48} oh,{\kf24} oh{\kf24} wah{\kf43} oh
+Dialogue: 0,0:01:20.16,0:01:22.36,DEFAULT,,0,0,0,,{\r}{\kf19}Ab{\kf31} heu{\kf25}te{\kf31} sind{\kf19} wir{\kf25} viel{\kf25} bes{\kf45}ser
+Dialogue: 0,0:01:22.51,0:01:24.15,DEFAULT,,0,0,0,,{\r}{\kf21}Wah{\kf43} oh,{\kf29} oh{\kf36} wah{\kf35} oh
+Dialogue: 0,0:01:24.35,0:01:26.50,DEFAULT,,0,0,0,,{\r}{\kf20}Ab{\kf26} heu{\kf20}te{\kf26} sind{\kf26} wir{\kf26} viel{\kf33} bes{\kf38}ser
+Dialogue: 0,0:01:26.70,0:01:28.34,DEFAULT,,0,0,0,,{\r}{\kf29}Wah{\kf43} oh,{\kf21} oh{\kf29} wah{\kf42} oh
+Dialogue: 0,0:01:28.49,0:01:30.74,DEFAULT,,0,0,0,,{\r}{\kf19}Ab{\kf26} heu{\kf26}te{\kf32} sind{\kf26} wir{\kf26} viel{\kf26} bes{\kf44}ser

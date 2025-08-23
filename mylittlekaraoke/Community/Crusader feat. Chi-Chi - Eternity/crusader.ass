@@ -1,38 +1,41 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Eternity (as Chi-Chi)
+Artist: Crusader! (Ft. Chi-Chi)
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:15.14,0:00:18.66,DEFAULT,,0,0,0,,{\kf42}My{\kf27} breath{\kf38} sto{\kf34}len{\kf27} from{\kf19} such{\kf38} a{\kf49} night
-Dialogue: 0,0:00:19.30,0:00:22.41,DEFAULT,,0,0,0,,{\kf23}Stay{\kf38}ing{\kf12} a{\kf45}wake{\kf19} on{\kf12}ly{\kf15} for{\kf27} this{\kf53} sight
-Dialogue: 0,0:00:22.82,0:00:27.85,DEFAULT,,0,0,0,,{\kf15}How{\kf30} would{\kf27} these{\kf42} stars{\kf19} look{\kf12} ref{\kf19}lec{\kf45}ted{\kf49} in{\kf23} yo{\kf27}ur{\kf105} eyes?
-Dialogue: 0,0:00:29.95,0:00:33.40,DEFAULT,,0,0,0,,{\kf19}I{\kf12} could{\kf42} dream{\kf30} of{\kf23} so{\kf19}a{\kf34}ring{\kf23} just{\kf34} as{\kf45} high
-Dialogue: 0,0:00:33.89,0:00:37.04,DEFAULT,,0,0,0,,{\kf15}Then{\kf45} wake{\kf30} up{\kf30} with{\kf15} a{\kf15}-a{\kf23} hope{\kf23}less{\kf42} sigh
-Dialogue: 0,0:00:37.60,0:00:42.36,DEFAULT,,0,0,0,,{\kf8}A{\kf38} night{\kf45}mare{\kf30} is{\kf30} where{\kf27} you're{\kf27} not{\kf49} by{\kf15} my{\kf19}-y{\kf87} side
-Dialogue: 0,0:00:44.72,0:00:47.72,DEFAULT,,0,0,0,,{\kf23}Is{\kf15} it{\kf42} time{\kf19} to{\kf23} move{\kf30} on{\kf23} ye{\kf68}-et?
-Dialogue: 0,0:00:48.25,0:00:51.40,DEFAULT,,0,0,0,,{\kf15}That's{\kf19} one{\kf12} more{\kf38} thing{\kf23} I{\kf42} could{\kf19} reg{\kf19}re{\kf64}-et
-Dialogue: 0,0:00:53.69,0:00:57.59,DEFAULT,,0,0,0,,{\kf19}They{\kf15} say{\kf15} few{\kf27} things{\kf34} are{\kf23} worth{\kf19} wa{\kf15}i{\kf23}ting{\kf27} for{\kf30}e{\kf15}ver{\kf42} more
-Dialogue: 0,0:00:57.92,0:01:00.85,DEFAULT,,0,0,0,,{\kf12}You{\kf23} taught{\kf27} me{\kf23} that{\kf19} it's{\kf23} ne{\kf15}ver{\kf94} true
-Dialogue: 0,0:01:02.50,0:01:05.87,DEFAULT,,0,0,0,,{\kf15}Few{\kf27} things{\kf34} are{\kf19} worth{\kf23} wai{\kf15}ting{\kf12} an{\kf12} e{\kf23}ter{\kf38}ni{\kf19}ty{\kf34} for
-Dialogue: 0,0:01:06.25,0:01:09.02,DEFAULT,,0,0,0,,{\kf15}But{\kf23} I'll{\kf27} wait{\kf19} for{\kf19}e{\kf23}ver{\kf12} for{\kf79} you
-Dialogue: 0,0:01:43.37,0:01:45.21,DEFAULT,,0,0,0,,{\kf30} …be{\kf34} by{\kf12} your{\kf90} side
-Dialogue: 0,0:01:46.71,0:01:49.34,DEFAULT,,0,0,0,,{\kf27} …I{\kf45} could{\kf23} a{\kf150}-ide
-Dialogue: 0,0:02:11.35,0:02:14.69,DEFAULT,,0,0,0,,{\kf27}Is{\kf42} it{\kf38} a{\kf72}bout{\kf124} time?
-Dialogue: 0,0:02:23.12,0:02:25.34,DEFAULT,,0,0,0,,{\kf23}This{\kf45} hard{\kf15}ship{\kf42} stays{\kf12} a{\kf38}float
-Dialogue: 0,0:02:25.52,0:02:27.21,DEFAULT,,0,0,0,,{\kf15} I{\kf15} won't{\kf19} pro{\kf15}mise{\kf19} no{\kf15}-o{\kf38} tears
-Dialogue: 0,0:02:30.59,0:02:32.76,DEFAULT,,0,0,0,,{\kf42}Wake{\kf30} up{\kf19} in{\kf8} a{\kf19} ne{\kf15}-ew{\kf38} world,
-Dialogue: 0,0:02:32.91,0:02:34.64,DEFAULT,,0,0,0,,{\kf12}I{\kf15} won't{\kf19} pro{\kf15}mise{\kf15} no{\kf15}-o{\kf42} fears
-Dialogue: 0,0:02:37.94,0:02:40.11,DEFAULT,,0,0,0,,{\kf19}This{\kf30} hard{\kf19}ship{\kf15} sta{\kf27}-ays{\kf8} a{\kf27}flo{\kf15}-at
-Dialogue: 0,0:02:40.26,0:02:41.99,DEFAULT,,0,0,0,,{\kf15} I{\kf19} won't{\kf19} pro{\kf15}mise{\kf15} no{\kf12}-o{\kf38} tears
-Dialogue: 0,0:02:45.32,0:02:47.54,DEFAULT,,0,0,0,,{\kf42}Wake{\kf34} up{\kf15} in{\kf8} a{\kf23} ne{\kf15}-ew{\kf34} world,
-Dialogue: 0,0:02:47.69,0:02:49.34,DEFAULT,,0,0,0,,{\kf12}I{\kf15} won't{\kf15} pro{\kf15}mise{\kf19} no{\kf19}-o{\kf30} fears
-Dialogue: 0,0:02:53.16,0:02:56.50,DEFAULT,,0,0,0,,{\kf42}Good{\kf98}by{\kf98}-y{\kf83}-ye
-Dialogue: 0,0:02:59.39,0:03:03.59,DEFAULT,,0,0,0,,{\kf12}They{\kf19} say{\kf12} few{\kf23} things{\kf30} are{\kf15} worth{\kf23} mo{\kf23}-ur{\kf27}ning{\kf19} for{\kf34}e{\kf15}ver{\kf68} more
-Dialogue: 0,0:03:11.35,0:03:15.17,DEFAULT,,0,0,0,,{\kf15}But{\kf12} if{\kf12} there's{\kf15} some{\kf38}one{\kf15} worth{\kf19} wai{\kf19}ting{\kf12} an{\kf12} e{\kf30}ter{\kf30}ni{\kf19}ty{\kf45} for
-Dialogue: 0,0:03:15.66,0:03:19.75,DEFAULT,,0,0,0,,{\kf23}I’ll{\kf27} wait{\kf23} for{\kf23}e{\kf27}ver{\kf34} for{\kf180} you
+Dialogue: 0,0:00:46.00,0:00:47.43,DEFAULT,,0,0,0,,{\r}{\kf22}…move{\kf27} on{\kf94} yet
+Dialogue: 0,0:00:49.26,0:00:51.25,DEFAULT,,0,0,0,,{\r}{\kf25} …I{\kf46} could{\kf25} reg{\kf103}ret
+Dialogue: 0,0:01:12.36,0:01:15.63,DEFAULT,,0,0,0,,{\r}{\kf36}My{\kf31} breath{\kf56} sto{\kf41}len{\kf41} when{\kf25} we{\kf36} first{\kf60} met
+Dialogue: 0,0:01:16.11,0:01:19.15,DEFAULT,,0,0,0,,{\r}{\kf15}At{\kf46} first{\kf51} glance,{\kf46} my{\kf20} mi{\kf20}-ind{\kf35} still{\kf20} was{\kf15}n't{\kf36} set
+Dialogue: 0,0:01:19.30,0:01:20.09,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} I{\kf35} knew
+Dialogue: 0,0:01:21.21,0:01:25.71,DEFAULT,,0,0,0,,{\r}{\kf17}That{\kf31} your{\kf52} smi{\kf31}le{\kf26} lit{\kf52} the{\kf13}-e{\kf228} world
+Dialogue: 0,0:01:26.95,0:01:30.48,DEFAULT,,0,0,0,,{\r}{\kf45}When{\kf45} you{\kf55} first{\kf40} held{\kf20} me{\kf25} in{\kf20} our{\kf35} first{\kf68} dance
+Dialogue: 0,0:01:30.89,0:01:34.15,DEFAULT,,0,0,0,,{\r}{\kf24}My{\kf47} heart{\kf38} would{\kf47} race{\kf24} while{\kf19} I{\kf28} was{\kf19} in{\kf14} a{\kf66} trance
+Dialogue: 0,0:01:34.64,0:01:40.53,DEFAULT,,0,0,0,,{\r}{\kf13}I'd{\kf51} make{\kf30} it{\kf47} last{\kf34} for{\kf38}e{\kf55}ver{\kf30} if{\kf47} I{\kf21}-I{\kf223} could
+Dialogue: 0,0:01:41.76,0:01:44.95,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} would{\kf38} al{\kf43}ways{\kf38} be{\kf43} by{\kf10} your{\kf29} si{\kf70}-ide
+Dialogue: 0,0:01:45.33,0:01:49.34,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf18} on{\kf18}ly{\kf35} oath{\kf31} I{\kf48} could{\kf22} a{\kf26}bi{\kf181}-ide
+Dialogue: 0,0:01:50.88,0:01:54.51,DEFAULT,,0,0,0,,{\r}{\kf15}They{\kf25} say{\kf15} few{\kf30} things{\kf40} are{\kf15} worth{\kf65} wai{\kf25}ting{\kf30} for{\kf35}e{\kf25}ver{\kf44} more
+Dialogue: 0,0:01:54.70,0:01:57.59,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf18} for{\kf28}e{\kf32}ver's{\kf28} too{\kf32} good{\kf41} to{\kf18} be{\kf78} true
+Dialogue: 0,0:01:59.65,0:02:03.10,DEFAULT,,0,0,0,,{\r}{\kf20}Few{\kf20} things{\kf35} e{\kf20}ver{\kf50} change,{\kf45} I{\kf30} know{\kf40} that{\kf20} is{\kf65} true
+Dialogue: 0,0:02:03.36,0:02:07.30,DEFAULT,,0,0,0,,{\r}{\kf17}Be{\kf37}cause{\kf33} I{\kf25} will{\kf29} al{\kf29}ways{\kf17} love{\kf207} you
+Dialogue: 0,0:02:17.65,0:02:21.93,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf39} don't{\kf31} want{\kf26} this,{\kf22} but{\kf26} I{\kf39} guess{\kf22} it's{\kf205} time
+Dialogue: 0,0:02:27.14,0:02:30.14,DEFAULT,,0,0,0,,{\r}{\kf40}Good{\kf100}bye,{\kf70} good{\kf90}bye
+Dialogue: 0,0:02:34.53,0:02:37.56,DEFAULT,,0,0,0,,{\r}{\kf47}Good{\kf73}bye,{\kf77} go{\kf21}-od{\kf86}bye
+Dialogue: 0,0:02:41.91,0:02:44.91,DEFAULT,,0,0,0,,{\r}{\kf42}Good{\kf80}bye,{\kf61} go{\kf23}-od{\kf94}bye
+Dialogue: 0,0:02:49.30,0:02:52.45,DEFAULT,,0,0,0,,{\r}{\kf41}Good{\kf79}bye,{\kf70} go{\kf25}-od{\kf100}bye
+Dialogue: 0,0:02:52.94,0:02:56.31,DEFAULT,,0,0,0,,{\r}{\kf44}Good{\kf103}by{\kf103}-y{\kf88}-ye
+Dialogue: 0,0:03:03.59,0:03:08.35,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf31} that{\kf26} just{\kf52} might{\kf44} be{\kf22}-e{\kf275} true
+Dialogue: 0,0:03:15.48,0:03:19.49,DEFAULT,,0,0,0,,{\r}{\kf29}I’ll{\kf25} wait{\kf25} for{\kf25}e{\kf29}ver{\kf42} for{\kf226} you

@@ -1,54 +1,61 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Silverstream (Karaoke)
+Artist: Forest Rain
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:13.87,0:00:17.33,DEFAULT,,0,0,0,,{\kf15}See{\kf15}ing{\kf15} the{\kf29} world{\kf15}~{\kf25} through{\kf25} your{\kf29} eyes{\kf29}~{\kf73}~
-Dialogue: 0,0:00:20.02,0:00:23.38,DEFAULT,,0,0,0,,{\kf15}Makes{\kf20} me{\kf25} hap{\kf25}py{\kf15} to{\kf15} be{\kf20} a{\kf25}live{\kf97}~
-Dialogue: 0,0:00:25.98,0:00:30.26,DEFAULT,,0,0,0,,{\kf15}The{\kf15} won{\kf15}der{\kf15} you{\kf39} find{\kf25} from{\kf25} the{\kf15} sim{\kf39}~{\kf29}pl{\kf25}est{\kf44} things
-Dialogue: 0,0:00:30.74,0:00:35.07,DEFAULT,,0,0,0,,{\kf20}Makes{\kf20} me{\kf20} proud{\kf20}~{\kf15} to{\kf15} have{\kf20} you{\kf39} close{\kf20} at-{\kf15}~{\kf53}wing
-Dialogue: 0,0:00:38.29,0:00:41.27,DEFAULT,,0,0,0,,{\kf15}And{\kf15} e{\kf15}very{\kf34} day{\kf15} we{\kf29} learn{\kf15} to{\kf15}ge{\kf49}ther
-Dialogue: 0,0:00:44.44,0:00:49.78,DEFAULT,,0,0,0,,{\kf15}This{\kf15} friend{\kf15}ship{\kf15} we{\kf25} forged{\kf15} can{\kf25} wea{\kf34}ther{\kf63} a{\kf49}ny{\kf53} wea{\kf44}ther{\kf29}~
-Dialogue: 0,0:00:50.60,0:00:55.16,DEFAULT,,0,0,0,,{\kf15}'Cause{\kf15} when{\kf25} I'm{\kf25} with{\kf25} you{\kf15} the{\kf25} rain{\kf20} will{\kf39} ne{\kf29}ver{\kf25} stay{\kf15}~{\kf53} long
-Dialogue: 0,0:00:55.98,0:00:59.78,DEFAULT,,0,0,0,,{\kf15}And{\kf20} so{\kf15} for{\kf25} you{\kf34} I{\kf44} wrote{\kf29} this{\kf87} song
-Dialogue: 0,0:01:02.95,0:01:05.74,DEFAULT,,0,0,0,,{\kf15}I{\kf15} used{\kf15} to{\kf34} live{\kf25} day-{\kf25}by-{\kf25}day{\kf25}~
-Dialogue: 0,0:01:06.56,0:01:08.72,DEFAULT,,0,0,0,,{\kf15}Think{\kf15}ing{\kf15} no{\kf15}thing{\kf15} could{\kf25} e{\kf20}ver{\kf44} change
-Dialogue: 0,0:01:09.01,0:01:11.75,DEFAULT,,0,0,0,,{\kf15}Un{\kf20}til{\kf20} you{\kf34} came{\kf20} in{\kf25}to{\kf25} my{\kf39} life
-Dialogue: 0,0:01:12.90,0:01:14.59,DEFAULT,,0,0,0,,{\kf15}A{\kf15} bea{\kf15}con{\kf10} of{\kf29} shin{\kf20}ing{\kf34} light
-Dialogue: 0,0:01:15.45,0:01:17.95,DEFAULT,,0,0,0,,{\kf15}And{\kf20} with{\kf29} that{\kf20} in{\kf25}fec{\kf25}tious{\kf44} laugh
-Dialogue: 0,0:01:19.06,0:01:20.88,DEFAULT,,0,0,0,,{\kf15}You{\kf15} set{\kf20} me{\kf25} on{\kf20} a{\kf29} path
-Dialogue: 0,0:01:21.37,0:01:26.12,DEFAULT,,0,0,0,,{\kf20}To{\kf20}wards{\kf20} the{\kf29} life{\kf15} that{\kf25} I{\kf39} was{\kf29} al{\kf15}ways{\kf29} meant{\kf20} to{\kf34} live{\kf49}~
-Dialogue: 0,0:01:28.00,0:01:29.92,DEFAULT,,0,0,0,,{\kf15}And{\kf20} the{\kf20} friends{\kf15} I{\kf25} share{\kf15} it{\kf29} with
-Dialogue: 0,0:01:44.44,0:01:48.05,DEFAULT,,0,0,0,,{\kf15}You{\kf15} real{\kf29}ly{\kf39} learn{\kf15} to{\kf20} en{\kf25}joy{\kf25} life{\kf29}~{\kf63}~
-Dialogue: 0,0:01:50.60,0:01:54.11,DEFAULT,,0,0,0,,{\kf15}When{\kf15} e{\kf25}very{\kf39} day's{\kf15} a{\kf20} new{\kf20} sur{\kf34}prise{\kf87}~
-Dialogue: 0,0:01:56.99,0:02:01.12,DEFAULT,,0,0,0,,{\kf15}Your{\kf20} a{\kf25}maze{\kf29}ment{\kf20} o{\kf15}~{\kf34}ver{\kf39} e{\kf25}very{\kf34} new{\kf49} thing
-Dialogue: 0,0:02:01.51,0:02:05.64,DEFAULT,,0,0,0,,{\kf20}Is{\kf25} e{\kf20}nough{\kf25}~{\kf15} to{\kf15} make{\kf25} me{\kf44} want{\kf20} to{\kf39} sing
-Dialogue: 0,0:02:09.25,0:02:12.37,DEFAULT,,0,0,0,,{\kf15}Did{\kf25} you{\kf20} know{\kf20}~{\kf15} you're{\kf15} an{\kf20} ins{\kf15}pi{\kf20}ra{\kf63}tion?
-Dialogue: 0,0:02:15.16,0:02:21.03,DEFAULT,,0,0,0,,{\kf15}Your{\kf15} spi{\kf15}rit{\kf15} of{\kf25} laugh{\kf25}ter{\kf29} brings{\kf20} e{\kf15}very{\kf39}po{\kf39}ny{\kf15} e{\kf63}la{\kf29}tion{\kf77}~
-Dialogue: 0,0:02:21.51,0:02:25.69,DEFAULT,,0,0,0,,{\kf15}When{\kf20} you{\kf20} smile{\kf29}~{\kf29}~{\kf25} you{\kf25} just{\kf53} light{\kf29} up{\kf15} the{\kf49} room
-Dialogue: 0,0:02:26.56,0:02:31.65,DEFAULT,,0,0,0,,{\kf25}Oh{\kf49} Sil{\kf25}ver{\kf25}stream{\kf20} I{\kf29} owe{\kf25} this{\kf15} to{\kf178} you
-Dialogue: 0,0:02:33.67,0:02:36.56,DEFAULT,,0,0,0,,{\kf15}I{\kf20} used{\kf15} to{\kf34} live{\kf25} day-{\kf20}by-{\kf29}day{\kf20}~
-Dialogue: 0,0:02:37.33,0:02:39.49,DEFAULT,,0,0,0,,{\kf15}Think{\kf15}ing{\kf15} no{\kf15}thing{\kf15} could{\kf25} e{\kf25}ver{\kf44} change
-Dialogue: 0,0:02:39.78,0:02:42.57,DEFAULT,,0,0,0,,{\kf15}Un{\kf20}til{\kf20} you{\kf29} came{\kf20} in{\kf25}to{\kf29} my{\kf44} life
-Dialogue: 0,0:02:43.67,0:02:45.40,DEFAULT,,0,0,0,,{\kf15}A{\kf15} bea{\kf15}con{\kf10} of{\kf34} shin{\kf15}ing{\kf34} light
-Dialogue: 0,0:02:46.17,0:02:48.72,DEFAULT,,0,0,0,,{\kf15}And{\kf25} with{\kf34} that{\kf15} in{\kf25}fec{\kf29}tious{\kf44} laugh
-Dialogue: 0,0:02:49.83,0:02:51.80,DEFAULT,,0,0,0,,{\kf15}You{\kf15} set{\kf25} me{\kf25} on{\kf20} a{\kf44} path
-Dialogue: 0,0:02:52.13,0:02:57.04,DEFAULT,,0,0,0,,{\kf10}To{\kf29}wards{\kf15} the{\kf39} life{\kf15} that{\kf29} I{\kf29} was{\kf25} al{\kf15}ways{\kf34} meant{\kf15} to{\kf34} live{\kf68}~
-Dialogue: 0,0:02:57.33,0:03:00.45,DEFAULT,,0,0,0,,{\kf15}And{\kf15} the{\kf15} friends{\kf20} I{\kf29} share{\kf15} all{\kf15} these{\kf15} a{\kf15}maz{\kf20}ing{\kf34} times{\kf20} with
-Dialogue: 0,0:03:00.64,0:03:02.42,DEFAULT,,0,0,0,,{\kf15}Are{\kf20} here{\kf15} be{\kf25}cause{\kf15} of{\kf49} you
-Dialogue: 0,0:03:03.48,0:03:06.32,DEFAULT,,0,0,0,,{\kf15}And{\kf15} the{\kf15} way{\kf20} that{\kf29} we{\kf25} all{\kf25} chase{\kf25} our{\kf34} dreams
-Dialogue: 0,0:03:06.80,0:03:10.69,DEFAULT,,0,0,0,,{\kf15}I{\kf20} would{\kf20}n't{\kf25} trade{\kf29} for{\kf25} a{\kf29}ny{\kf164}thing
-Dialogue: 0,0:03:12.13,0:03:15.02,DEFAULT,,0,0,0,,{\kf15}I{\kf25} used{\kf15} to{\kf44} live{\kf25} day-{\kf25}by-{\kf20}day{\kf34}~
-Dialogue: 0,0:03:15.79,0:03:17.95,DEFAULT,,0,0,0,,{\kf15}Think{\kf15}ing{\kf15} no{\kf15}thing{\kf15} could{\kf25} e{\kf25}ver{\kf44} change
-Dialogue: 0,0:03:18.34,0:03:21.03,DEFAULT,,0,0,0,,{\kf15}Un{\kf15}til{\kf20} you{\kf29} came{\kf25} in{\kf25}to{\kf29} my{\kf44} life
-Dialogue: 0,0:03:22.13,0:03:23.82,DEFAULT,,0,0,0,,{\kf15}A{\kf15} bea{\kf15}con{\kf10} of{\kf29} shin{\kf15}ing{\kf34} light
-Dialogue: 0,0:03:24.63,0:03:27.09,DEFAULT,,0,0,0,,{\kf15}And{\kf25} with{\kf44} that{\kf15} in{\kf25}fec{\kf20}tious{\kf34} laugh
-Dialogue: 0,0:03:28.24,0:03:30.21,DEFAULT,,0,0,0,,{\kf15}You{\kf15} set{\kf25} me{\kf25} on{\kf29} a{\kf39} path
-Dialogue: 0,0:03:30.60,0:03:35.45,DEFAULT,,0,0,0,,{\kf15}To{\kf25}wards{\kf15} the{\kf34} life{\kf15} that{\kf25} I{\kf34} was{\kf29} al{\kf15}ways{\kf29} meant{\kf15} to{\kf44} live{\kf58}~
-Dialogue: 0,0:03:37.28,0:03:39.25,DEFAULT,,0,0,0,,{\kf15}And{\kf15} the{\kf20} friends{\kf20} I{\kf20} share{\kf15} it{\kf34} with
+Dialogue: 0,0:00:13.87,0:00:17.33,DEFAULT,,0,0,0,,{\r}{\kf19}See{\kf19}ing{\kf19} the{\kf38} world{\kf19}~{\kf31} through{\kf31} your{\kf38} eyes{\kf38}~{\kf94}~
+Dialogue: 0,0:00:20.02,0:00:23.39,DEFAULT,,0,0,0,,{\r}{\kf19}Makes{\kf26} me{\kf32} hap{\kf32}py{\kf19} to{\kf19} be{\kf26} a{\kf32}live{\kf132}~
+Dialogue: 0,0:00:25.99,0:00:30.26,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf21} won{\kf21}der{\kf21} you{\kf56} find{\kf35} from{\kf35} the{\kf21} sim{\kf56}~{\kf42}pl{\kf35}est{\kf64} things
+Dialogue: 0,0:00:30.75,0:00:35.07,DEFAULT,,0,0,0,,{\r}{\kf33}Makes{\kf33} me{\kf33} proud{\kf33}~{\kf25} to{\kf25} have{\kf33} you{\kf67} close{\kf33} at-{\kf25}~{\kf93}wing
+Dialogue: 0,0:00:38.29,0:00:41.27,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} e{\kf22}very{\kf51} day{\kf22} we{\kf44} learn{\kf22} to{\kf22}ge{\kf71}ther
+Dialogue: 0,0:00:44.45,0:00:49.78,DEFAULT,,0,0,0,,{\r}{\kf20}This{\kf20} friend{\kf20}ship{\kf20} we{\kf33} forged{\kf20} can{\kf33} wea{\kf46}ther{\kf86} a{\kf66}ny{\kf73} wea{\kf59}ther{\kf38}~
+Dialogue: 0,0:00:50.60,0:00:55.17,DEFAULT,,0,0,0,,{\r}{\kf21}'Cause{\kf21} when{\kf35} I'm{\kf35} with{\kf35} you{\kf21} the{\kf35} rain{\kf28} will{\kf55} ne{\kf42}ver{\kf35} stay{\kf21}~{\kf73} long
+Dialogue: 0,0:00:55.99,0:00:59.78,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf28} so{\kf21} for{\kf35} you{\kf48} I{\kf62} wrote{\kf41} this{\kf124} song
+Dialogue: 0,0:01:02.96,0:01:05.75,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf23} used{\kf23} to{\kf54} live{\kf39} day-{\kf39}by-{\kf39}day{\kf39}~
+Dialogue: 0,0:01:06.56,0:01:08.73,DEFAULT,,0,0,0,,{\r}{\kf20}Think{\kf20}ing{\kf20} no{\kf20}thing{\kf20} could{\kf33} e{\kf26}ver{\kf57} change
+Dialogue: 0,0:01:09.01,0:01:11.75,DEFAULT,,0,0,0,,{\r}{\kf21}Un{\kf27}til{\kf27} you{\kf48} came{\kf27} in{\kf34}to{\kf34} my{\kf56} life
+Dialogue: 0,0:01:12.91,0:01:14.59,DEFAULT,,0,0,0,,{\r}{\kf18}A{\kf18} bea{\kf18}con{\kf12} of{\kf36} shin{\kf24}ing{\kf42} light
+Dialogue: 0,0:01:15.46,0:01:17.96,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf28} with{\kf42} that{\kf28} in{\kf35}fec{\kf35}tious{\kf61} laugh
+Dialogue: 0,0:01:19.06,0:01:20.89,DEFAULT,,0,0,0,,{\r}{\kf22}You{\kf22} set{\kf29} me{\kf37} on{\kf29} a{\kf44} path
+Dialogue: 0,0:01:21.37,0:01:26.13,DEFAULT,,0,0,0,,{\r}{\kf27}To{\kf27}wards{\kf27} the{\kf41} life{\kf20} that{\kf34} I{\kf54} was{\kf41} al{\kf20}ways{\kf41} meant{\kf27} to{\kf48} live{\kf69}~
+Dialogue: 0,0:01:28.00,0:01:29.93,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf27} the{\kf27} friends{\kf21} I{\kf34} share{\kf21} it{\kf41} with
+Dialogue: 0,0:01:44.45,0:01:48.05,DEFAULT,,0,0,0,,{\r}{\kf19}You{\kf19} real{\kf39}ly{\kf52} learn{\kf19} to{\kf26} en{\kf32}joy{\kf32} life{\kf39}~{\kf84}~
+Dialogue: 0,0:01:50.60,0:01:54.11,DEFAULT,,0,0,0,,{\r}{\kf19}When{\kf19} e{\kf32}very{\kf51} day's{\kf19} a{\kf26} new{\kf26} sur{\kf45}prise{\kf114}~
+Dialogue: 0,0:01:57.00,0:02:01.13,DEFAULT,,0,0,0,,{\r}{\kf20}Your{\kf27} a{\kf33}maze{\kf40}ment{\kf27} o{\kf20}~{\kf47}ver{\kf53} e{\kf33}very{\kf47} new{\kf66} thing
+Dialogue: 0,0:02:01.51,0:02:05.65,DEFAULT,,0,0,0,,{\r}{\kf33}Is{\kf41} e{\kf33}nough{\kf41}~{\kf25} to{\kf25} make{\kf41} me{\kf74} want{\kf33} to{\kf67} sing
+Dialogue: 0,0:02:09.25,0:02:12.38,DEFAULT,,0,0,0,,{\r}{\kf20}Did{\kf34} you{\kf27} know{\kf27}~{\kf20} you're{\kf20} an{\kf27} ins{\kf20}pi{\kf27}ra{\kf90}tion?
+Dialogue: 0,0:02:15.17,0:02:21.03,DEFAULT,,0,0,0,,{\r}{\kf20}Your{\kf20} spi{\kf20}rit{\kf20} of{\kf33} laugh{\kf33}ter{\kf40} brings{\kf26} e{\kf20}very{\kf53}po{\kf53}ny{\kf20} e{\kf86}la{\kf40}tion{\kf103}~
+Dialogue: 0,0:02:21.51,0:02:25.70,DEFAULT,,0,0,0,,{\r}{\kf20}When{\kf27} you{\kf27} smile{\kf40}~{\kf40}~{\kf33} you{\kf33} just{\kf73} light{\kf40} up{\kf20} the{\kf65} room
+Dialogue: 0,0:02:26.56,0:02:31.66,DEFAULT,,0,0,0,,{\r}{\kf32}Oh{\kf64} Sil{\kf32}ver{\kf32}stream{\kf26} I{\kf38} owe{\kf32} this{\kf19} to{\kf235} you
+Dialogue: 0,0:02:33.68,0:02:36.56,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf32} used{\kf24} to{\kf56} live{\kf40} day-{\kf32}by-{\kf48}day{\kf32}~
+Dialogue: 0,0:02:37.33,0:02:39.50,DEFAULT,,0,0,0,,{\r}{\kf19}Think{\kf19}ing{\kf19} no{\kf19}thing{\kf19} could{\kf32} e{\kf32}ver{\kf57} change
+Dialogue: 0,0:02:39.78,0:02:42.57,DEFAULT,,0,0,0,,{\r}{\kf20}Un{\kf27}til{\kf27} you{\kf41} came{\kf27} in{\kf34}to{\kf41} my{\kf62} life
+Dialogue: 0,0:02:43.68,0:02:45.41,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf19} bea{\kf19}con{\kf12} of{\kf43} shin{\kf19}ing{\kf42} light
+Dialogue: 0,0:02:46.18,0:02:48.73,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf34} with{\kf47} that{\kf20} in{\kf34}fec{\kf40}tious{\kf60} laugh
+Dialogue: 0,0:02:49.83,0:02:51.80,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf20} set{\kf34} me{\kf34} on{\kf27} a{\kf62} path
+Dialogue: 0,0:02:52.14,0:02:57.04,DEFAULT,,0,0,0,,{\r}{\kf13}To{\kf40}wards{\kf20} the{\kf54} life{\kf20} that{\kf40} I{\kf40} was{\kf34} al{\kf20}ways{\kf47} meant{\kf20} to{\kf47} live{\kf95}~
+Dialogue: 0,0:02:57.33,0:03:00.46,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} the{\kf20} friends{\kf27} I{\kf41} share{\kf20} all{\kf20} these{\kf20} a{\kf20}maz{\kf27}ing{\kf47} times{\kf30} with
+Dialogue: 0,0:03:00.65,0:03:02.43,DEFAULT,,0,0,0,,{\r}{\kf19}Are{\kf25} here{\kf19} be{\kf32}cause{\kf19} of{\kf64} you
+Dialogue: 0,0:03:03.49,0:03:06.32,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} the{\kf21} way{\kf28} that{\kf42} we{\kf35} all{\kf35} chase{\kf35} our{\kf46} dreams
+Dialogue: 0,0:03:06.80,0:03:10.70,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf23} would{\kf23}n't{\kf29} trade{\kf35} for{\kf29} a{\kf35}ny{\kf198}thing
+Dialogue: 0,0:03:12.14,0:03:15.02,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf35} used{\kf21} to{\kf63} live{\kf35} day-{\kf35}by-{\kf28}day{\kf50}~
+Dialogue: 0,0:03:15.79,0:03:17.96,DEFAULT,,0,0,0,,{\r}{\kf19}Think{\kf19}ing{\kf19} no{\kf19}thing{\kf19} could{\kf32} e{\kf32}ver{\kf57} change
+Dialogue: 0,0:03:18.34,0:03:21.03,DEFAULT,,0,0,0,,{\r}{\kf20}Un{\kf20}til{\kf26} you{\kf39} came{\kf33} in{\kf33}to{\kf39} my{\kf59} life
+Dialogue: 0,0:03:22.14,0:03:23.82,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf19} bea{\kf19}con{\kf12} of{\kf37} shin{\kf19}ing{\kf43} light
+Dialogue: 0,0:03:24.64,0:03:27.09,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf34} with{\kf61} that{\kf20} in{\kf34}fec{\kf27}tious{\kf49} laugh
+Dialogue: 0,0:03:28.25,0:03:30.22,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf20} set{\kf33} me{\kf33} on{\kf39} a{\kf52} path
+Dialogue: 0,0:03:30.60,0:03:35.46,DEFAULT,,0,0,0,,{\r}{\kf20}To{\kf34}wards{\kf20} the{\kf47} life{\kf20} that{\kf34} I{\kf47} was{\kf41} al{\kf20}ways{\kf41} meant{\kf20} to{\kf61} live{\kf81}~
+Dialogue: 0,0:03:37.28,0:03:39.25,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} the{\kf28} friends{\kf28} I{\kf28} share{\kf21} it{\kf50} with

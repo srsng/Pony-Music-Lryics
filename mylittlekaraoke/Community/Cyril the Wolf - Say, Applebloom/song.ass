@@ -1,57 +1,64 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Say, Applebloom!
+Artist: Cyril the Wolf
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:25.54,0:00:28.27,DEFAULT,,0,0,0,,{\kf27}There{\kf27} was{\kf27} once{\kf22} a{\kf124} time
-Dialogue: 0,0:00:28.70,0:00:31.86,DEFAULT,,0,0,0,,{\kf22}Be{\kf27}fore{\kf33} you{\kf27} paid{\kf27} a{\kf27} mind{\kf22}~{\kf59}~
-Dialogue: 0,0:00:32.18,0:00:37.17,DEFAULT,,0,0,0,,{\kf17}To{\kf27} what{\kf27} all{\kf27} the{\kf33} o{\kf75}ther{\kf22} po{\kf27}nies{\kf38} think{\kf92}~
-Dialogue: 0,0:00:38.93,0:00:41.77,DEFAULT,,0,0,0,,{\kf17}I{\kf33} know{\kf33} it{\kf38} feels{\kf124} slow
-Dialogue: 0,0:00:42.42,0:00:45.58,DEFAULT,,0,0,0,,{\kf17}But{\kf27} soon{\kf33} you{\kf33} will{\kf22} glow{\kf22}~{\kf113}~
-Dialogue: 0,0:00:45.85,0:00:50.40,DEFAULT,,0,0,0,,{\kf22}So{\kf22} don't{\kf27} let{\kf27} your{\kf33} heart{\kf49} sink{\kf22} a{\kf33}ny{\kf38} lo{\kf38}wer
-Dialogue: 0,0:00:50.67,0:00:51.15,DEFAULT,,0,0,0,,{\kf49}Yeah
-Dialogue: 0,0:00:52.22,0:00:54.85,DEFAULT,,0,0,0,,{\kf54}Say,{\kf33} Ap{\kf27}ple{\kf102}bloom
-Dialogue: 0,0:00:55.27,0:00:58.33,DEFAULT,,0,0,0,,{\kf27}You're{\kf22} ne{\kf22}ver{\kf27} gon{\kf17}na{\kf17} be{\kf17} lone{\kf17}~{\kf70}ly
-Dialogue: 0,0:00:58.65,0:01:04.86,DEFAULT,,0,0,0,,{\kf33}You{\kf22} got{\kf33} your{\kf33} friends{\kf27}~{\kf33} by{\kf33} your{\kf118} side{\kf22}~{\kf22}~{\kf156}~
-Dialogue: 0,0:01:05.93,0:01:08.56,DEFAULT,,0,0,0,,{\kf49}Say{\kf38} Ap{\kf27}ple{\kf108}bloom
-Dialogue: 0,0:01:08.99,0:01:11.88,DEFAULT,,0,0,0,,{\kf27}This{\kf17} is{\kf17}n't{\kf17} the{\kf27} time{\kf17} to{\kf17} be{\kf22} gloo{\kf17}~{\kf49}my
-Dialogue: 0,0:01:12.36,0:01:17.67,DEFAULT,,0,0,0,,{\kf33}Your{\kf22} cu{\kf27}tie{\kf38} mark{\kf33} will{\kf33} come{\kf33} in{\kf113} time{\kf22}~{\kf22}~{\kf70}~
-Dialogue: 0,0:01:17.99,0:01:20.93,DEFAULT,,0,0,0,,{\kf17}Woah{\kf17} ah{\kf17} ah{\kf215} oh
-Dialogue: 0,0:01:21.36,0:01:22.06,DEFAULT,,0,0,0,,{\kf17}Yeah{\kf43} hey
-Dialogue: 0,0:01:30.63,0:01:35.51,DEFAULT,,0,0,0,,{\kf27}Ah{\kf27} ah{\kf27} ah{\kf27} ah{\kf86} woah,{\kf17} wow{\kf17}~{\kf17}~{\kf140} oh
-Dialogue: 0,0:01:37.27,0:01:40.01,DEFAULT,,0,0,0,,{\kf17}Don't{\kf22} let{\kf27} it{\kf27} get{\kf17} you{\kf97} down
-Dialogue: 0,0:01:40.54,0:01:43.76,DEFAULT,,0,0,0,,{\kf17}When{\kf17} you're{\kf27} help{\kf33}in'{\kf27} out{\kf22} your{\kf33} town{\kf17}~{\kf59}~
-Dialogue: 0,0:01:44.02,0:01:49.65,DEFAULT,,0,0,0,,{\kf22}It{\kf27} will{\kf27} be{\kf27} clear{\kf27} to{\kf86} you{\kf49} some{\kf193}day
-Dialogue: 0,0:01:50.93,0:01:53.77,DEFAULT,,0,0,0,,{\kf17}The{\kf33} ap{\kf27}ples{\kf27} that{\kf27} you{\kf86} grow
-Dialogue: 0,0:01:54.36,0:01:56.93,DEFAULT,,0,0,0,,{\kf17}You{\kf22} will{\kf33} see,{\kf27} will{\kf75} show{\kf22}~
-Dialogue: 0,0:01:57.74,0:02:00.58,DEFAULT,,0,0,0,,{\kf22}Your{\kf27} cal{\kf27}ling{\kf33} will{\kf33} come,{\kf75} so
-Dialogue: 0,0:02:00.85,0:02:03.74,DEFAULT,,0,0,0,,{\kf17}If{\kf33} I{\kf27}~{\kf17}~{\kf161} may
-Dialogue: 0,0:02:04.27,0:02:06.90,DEFAULT,,0,0,0,,{\kf54}Say,{\kf27} Ap{\kf27}ple{\kf113}bloom
-Dialogue: 0,0:02:07.22,0:02:10.38,DEFAULT,,0,0,0,,{\kf33}You're{\kf22} ne{\kf22}ver{\kf27} gon{\kf17}na{\kf17} be{\kf17} lone{\kf17}~{\kf75}ly
-Dialogue: 0,0:02:10.70,0:02:17.08,DEFAULT,,0,0,0,,{\kf27}You{\kf22} got{\kf22} your{\kf43} friends{\kf27}~{\kf33} by{\kf33} your{\kf102} side{\kf22}~{\kf17}~{\kf27}~{\kf17}~{\kf17}~{\kf27}~{\kf22}~{\kf17}~{\kf33}~
-Dialogue: 0,0:02:17.93,0:02:20.51,DEFAULT,,0,0,0,,{\kf49}Say{\kf33} Ap{\kf33}ple{\kf97}bloom
-Dialogue: 0,0:02:20.99,0:02:23.93,DEFAULT,,0,0,0,,{\kf27}This{\kf22} is{\kf17}n't{\kf17} the{\kf33} time{\kf17} to{\kf17} be{\kf17} gloo{\kf22}~{\kf49}my
-Dialogue: 0,0:02:24.42,0:02:31.43,DEFAULT,,0,0,0,,{\kf27}Your{\kf22} cu{\kf22}tie{\kf38} mark{\kf33} will{\kf33} come{\kf27} in{\kf124} time{\kf17}~{\kf17}~{\kf252}~
-Dialogue: 0,0:02:31.70,0:02:34.06,DEFAULT,,0,0,0,,{\kf17}Woah{\kf17} ah{\kf17} ah{\kf161} ah
-Dialogue: 0,0:02:48.04,0:02:54.36,DEFAULT,,0,0,0,,{\kf54}It{\kf22} is{\kf27}~{\kf27} hard{\kf33} to{\kf33} wait,{\kf17} but{\kf22} you'll{\kf65} be{\kf54} there{\kf134} soon
-Dialogue: 0,0:02:54.85,0:02:58.86,DEFAULT,,0,0,0,,{\kf86}Just{\kf27} be{\kf38} pa{\kf38}tient,{\kf17} and{\kf17} stay{\kf17} with{\kf17} your{\kf75} friends
-Dialogue: 0,0:02:59.13,0:03:04.22,DEFAULT,,0,0,0,,{\kf65}Oh{\kf75} Ap{\kf70}ple{\kf247}bloom
-Dialogue: 0,0:03:09.63,0:03:12.36,DEFAULT,,0,0,0,,{\kf38}Say,{\kf27} Ap{\kf27}ple{\kf140}bloom
-Dialogue: 0,0:03:17.93,0:03:18.58,DEFAULT,,0,0,0,,{\kf17}Come{\kf38} on
-Dialogue: 0,0:03:19.70,0:03:22.22,DEFAULT,,0,0,0,,{\kf59}Say,{\kf27} Ap{\kf27}ple{\kf97}bloom
-Dialogue: 0,0:03:22.65,0:03:25.70,DEFAULT,,0,0,0,,{\kf33}You're{\kf17} ne{\kf33}ver{\kf33} gon{\kf22}na{\kf17} be{\kf17} lone{\kf17}~{\kf59}ly
-Dialogue: 0,0:03:26.13,0:03:32.45,DEFAULT,,0,0,0,,{\kf33}You{\kf22} got{\kf27} your{\kf38} friends{\kf27}~{\kf38} by{\kf27} your{\kf113} side{\kf27}~{\kf22}~{\kf22}~{\kf22}~{\kf17}~{\kf97}~
-Dialogue: 0,0:03:33.42,0:03:35.93,DEFAULT,,0,0,0,,{\kf54}Say{\kf27} Ap{\kf27}ple{\kf102}bloom
-Dialogue: 0,0:03:36.36,0:03:39.36,DEFAULT,,0,0,0,,{\kf33}This{\kf17} is{\kf17}n't{\kf17} the{\kf33} time{\kf17} to{\kf17} be{\kf17} gloo{\kf22}~{\kf49}my
-Dialogue: 0,0:03:39.85,0:03:52.22,DEFAULT,,0,0,0,,{\kf33}Your{\kf22} cu{\kf27}tie{\kf33} mark{\kf33} will{\kf33} come{\kf27} in{\kf118} time{\kf17}~{\kf22}~{\kf177}~{\kf472}~{\kf113}~
-Dialogue: 0,0:03:52.92,0:03:56.45,DEFAULT,,0,0,0,,{\kf258}Time{\kf22} yeah{\kf49} hey
-Dialogue: 0,0:04:00.90,0:04:03.26,DEFAULT,,0,0,0,,{\kf49}Say,{\kf27} Ap{\kf27}ple{\kf38}bloom{\kf43}~
-Dialogue: 0,0:04:04.22,0:04:07.01,DEFAULT,,0,0,0,,{\kf54}Say,{\kf33} Ap{\kf27}ple{\kf38}bloom{\kf75}~
-Dialogue: 0,0:04:07.65,0:04:09.52,DEFAULT,,0,0,0,,{\kf59}Say,{\kf27} Ap{\kf33}ple{\kf33}bloom
-Dialogue: 0,0:04:09.74,0:04:13.54,DEFAULT,,0,0,0,,{\kf22}Your{\kf33} cu{\kf33}tie{\kf27} mark{\kf27} will{\kf27} come{\kf33} in{\kf86} time
+Dialogue: 0,0:00:25.55,0:00:28.28,DEFAULT,,0,0,0,,{\r}{\kf32}There{\kf32} was{\kf32} once{\kf26} a{\kf151} time
+Dialogue: 0,0:00:28.71,0:00:31.87,DEFAULT,,0,0,0,,{\r}{\kf28}Be{\kf35}fore{\kf42} you{\kf35} paid{\kf35} a{\kf35} mind{\kf28}~{\kf78}~
+Dialogue: 0,0:00:32.19,0:00:37.17,DEFAULT,,0,0,0,,{\r}{\kf21}To{\kf35} what{\kf35} all{\kf35} the{\kf42} o{\kf98}ther{\kf28} po{\kf35}nies{\kf49} think{\kf120}~
+Dialogue: 0,0:00:38.94,0:00:41.78,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf38} know{\kf38} it{\kf44} feels{\kf145} slow
+Dialogue: 0,0:00:42.42,0:00:45.58,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf32} soon{\kf39} you{\kf39} will{\kf26} glow{\kf26}~{\kf135}~
+Dialogue: 0,0:00:45.85,0:00:50.40,DEFAULT,,0,0,0,,{\r}{\kf32}So{\kf32} don't{\kf40} let{\kf40} your{\kf48} heart{\kf72} sink{\kf32} a{\kf48}ny{\kf56} lo{\kf55}wer
+Dialogue: 0,0:00:50.67,0:00:51.15,DEFAULT,,0,0,0,,{\r}{\kf48}Yeah
+Dialogue: 0,0:00:52.23,0:00:54.85,DEFAULT,,0,0,0,,{\r}{\kf66}Say,{\kf39} Ap{\kf33}ple{\kf125}bloom
+Dialogue: 0,0:00:55.28,0:00:58.33,DEFAULT,,0,0,0,,{\r}{\kf35}You're{\kf28} ne{\kf28}ver{\kf35} gon{\kf21}na{\kf21} be{\kf21} lone{\kf21}~{\kf95}ly
+Dialogue: 0,0:00:58.65,0:01:04.87,DEFAULT,,0,0,0,,{\r}{\kf38}You{\kf25} got{\kf38} your{\kf38} friends{\kf32}~{\kf38} by{\kf38} your{\kf139} side{\kf25}~{\kf25}~{\kf185}~
+Dialogue: 0,0:01:05.94,0:01:08.56,DEFAULT,,0,0,0,,{\r}{\kf58}Say{\kf45} Ap{\kf32}ple{\kf127}bloom
+Dialogue: 0,0:01:08.99,0:01:11.89,DEFAULT,,0,0,0,,{\r}{\kf35}This{\kf21} is{\kf21}n't{\kf21} the{\kf35} time{\kf21} to{\kf21} be{\kf28} gloo{\kf21}~{\kf65}my
+Dialogue: 0,0:01:12.37,0:01:17.67,DEFAULT,,0,0,0,,{\r}{\kf39}Your{\kf26} cu{\kf32}tie{\kf45} mark{\kf39} will{\kf39} come{\kf39} in{\kf136} time{\kf26}~{\kf26}~{\kf83}~
+Dialogue: 0,0:01:17.99,0:01:20.94,DEFAULT,,0,0,0,,{\r}{\kf18}Woah{\kf18} ah{\kf18} ah{\kf241} oh
+Dialogue: 0,0:01:21.37,0:01:22.06,DEFAULT,,0,0,0,,{\r}{\kf19}Yeah{\kf51} hey
+Dialogue: 0,0:01:30.64,0:01:35.51,DEFAULT,,0,0,0,,{\r}{\kf34}Ah{\kf34} ah{\kf34} ah{\kf34} ah{\kf110} woah,{\kf21} wow{\kf21}~{\kf21}~{\kf179} oh
+Dialogue: 0,0:01:37.28,0:01:40.01,DEFAULT,,0,0,0,,{\r}{\kf22}Don't{\kf29} let{\kf36} it{\kf36} get{\kf22} you{\kf128} down
+Dialogue: 0,0:01:40.55,0:01:43.76,DEFAULT,,0,0,0,,{\r}{\kf21}When{\kf21} you're{\kf35} help{\kf42}in'{\kf35} out{\kf28} your{\kf42} town{\kf21}~{\kf76}~
+Dialogue: 0,0:01:44.03,0:01:49.65,DEFAULT,,0,0,0,,{\r}{\kf26}It{\kf33} will{\kf33} be{\kf33} clear{\kf33} to{\kf106} you{\kf60} some{\kf238}day
+Dialogue: 0,0:01:50.94,0:01:53.78,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf43} ap{\kf36}ples{\kf36} that{\kf36} you{\kf112} grow
+Dialogue: 0,0:01:54.37,0:01:56.94,DEFAULT,,0,0,0,,{\r}{\kf21}You{\kf29} will{\kf43} see,{\kf36} will{\kf100} show{\kf28}~
+Dialogue: 0,0:01:57.74,0:02:00.58,DEFAULT,,0,0,0,,{\r}{\kf28}Your{\kf36} cal{\kf36}ling{\kf43} will{\kf43} come,{\kf98} so
+Dialogue: 0,0:02:00.85,0:02:03.74,DEFAULT,,0,0,0,,{\r}{\kf18}If{\kf37} I{\kf31}~{\kf18}~{\kf185} may
+Dialogue: 0,0:02:04.28,0:02:06.90,DEFAULT,,0,0,0,,{\r}{\kf64}Say,{\kf32} Ap{\kf32}ple{\kf134}bloom
+Dialogue: 0,0:02:07.23,0:02:10.39,DEFAULT,,0,0,0,,{\r}{\kf42}You're{\kf28} ne{\kf28}ver{\kf35} gon{\kf21}na{\kf21} be{\kf21} lone{\kf21}~{\kf99}ly
+Dialogue: 0,0:02:10.71,0:02:17.08,DEFAULT,,0,0,0,,{\r}{\kf34}You{\kf27} got{\kf27} your{\kf55} friends{\kf34}~{\kf41} by{\kf41} your{\kf130} side{\kf27}~{\kf21}~{\kf34}~{\kf21}~{\kf21}~{\kf34}~{\kf27}~{\kf21}~{\kf43}~
+Dialogue: 0,0:02:17.94,0:02:20.51,DEFAULT,,0,0,0,,{\r}{\kf59}Say{\kf40} Ap{\kf40}ple{\kf118}bloom
+Dialogue: 0,0:02:20.99,0:02:23.94,DEFAULT,,0,0,0,,{\r}{\kf34}This{\kf27} is{\kf21}n't{\kf21} the{\kf41} time{\kf21} to{\kf21} be{\kf21} gloo{\kf27}~{\kf61}my
+Dialogue: 0,0:02:24.42,0:02:31.44,DEFAULT,,0,0,0,,{\r}{\kf31}Your{\kf25} cu{\kf25}tie{\kf43} mark{\kf37} will{\kf37} come{\kf31} in{\kf143} time{\kf19}~{\kf19}~{\kf292}~
+Dialogue: 0,0:02:31.71,0:02:34.06,DEFAULT,,0,0,0,,{\r}{\kf18}Woah{\kf18} ah{\kf18} ah{\kf182} ah
+Dialogue: 0,0:02:48.05,0:02:54.37,DEFAULT,,0,0,0,,{\r}{\kf70}It{\kf28} is{\kf35}~{\kf35} hard{\kf42} to{\kf42} wait,{\kf21} but{\kf28} you'll{\kf84} be{\kf70} there{\kf177} soon
+Dialogue: 0,0:02:54.85,0:02:58.87,DEFAULT,,0,0,0,,{\r}{\kf105}Just{\kf33} be{\kf46} pa{\kf46}tient,{\kf20} and{\kf20} stay{\kf20} with{\kf20} your{\kf92} friends
+Dialogue: 0,0:02:59.14,0:03:04.23,DEFAULT,,0,0,0,,{\r}{\kf72}Oh{\kf84} Ap{\kf78}ple{\kf275}bloom
+Dialogue: 0,0:03:09.64,0:03:12.37,DEFAULT,,0,0,0,,{\r}{\kf44}Say,{\kf32} Ap{\kf32}ple{\kf165}bloom
+Dialogue: 0,0:03:17.94,0:03:18.58,DEFAULT,,0,0,0,,{\r}{\kf19}Come{\kf45} on
+Dialogue: 0,0:03:19.71,0:03:22.23,DEFAULT,,0,0,0,,{\r}{\kf71}Say,{\kf32} Ap{\kf32}ple{\kf117}bloom
+Dialogue: 0,0:03:22.65,0:03:25.71,DEFAULT,,0,0,0,,{\r}{\kf41}You're{\kf20} ne{\kf41}ver{\kf41} gon{\kf27}na{\kf20} be{\kf20} lone{\kf20}~{\kf75}ly
+Dialogue: 0,0:03:26.14,0:03:32.46,DEFAULT,,0,0,0,,{\r}{\kf39}You{\kf26} got{\kf32} your{\kf45} friends{\kf32}~{\kf45} by{\kf32} your{\kf135} side{\kf32}~{\kf26}~{\kf26}~{\kf26}~{\kf19}~{\kf117}~
+Dialogue: 0,0:03:33.42,0:03:35.94,DEFAULT,,0,0,0,,{\r}{\kf65}Say{\kf32} Ap{\kf32}ple{\kf123}bloom
+Dialogue: 0,0:03:36.37,0:03:39.37,DEFAULT,,0,0,0,,{\r}{\kf42}This{\kf21} is{\kf21}n't{\kf21} the{\kf42} time{\kf21} to{\kf21} be{\kf21} gloo{\kf28}~{\kf62}my
+Dialogue: 0,0:03:39.85,0:03:52.23,DEFAULT,,0,0,0,,{\r}{\kf36}Your{\kf24} cu{\kf30}tie{\kf36} mark{\kf36} will{\kf36} come{\kf30} in{\kf130} time{\kf18}~{\kf24}~{\kf195}~{\kf521}~{\kf122}~
+Dialogue: 0,0:03:52.92,0:03:56.46,DEFAULT,,0,0,0,,{\r}{\kf279}Time{\kf23} yeah{\kf52} hey
+Dialogue: 0,0:04:00.90,0:04:03.26,DEFAULT,,0,0,0,,{\r}{\kf62}Say,{\kf35} Ap{\kf35}ple{\kf49}bloom{\kf55}~
+Dialogue: 0,0:04:04.23,0:04:07.01,DEFAULT,,0,0,0,,{\r}{\kf66}Say,{\kf40} Ap{\kf33}ple{\kf46}bloom{\kf94}~
+Dialogue: 0,0:04:07.65,0:04:09.53,DEFAULT,,0,0,0,,{\r}{\kf74}Say,{\kf34} Ap{\kf40}ple{\kf40}bloom
+Dialogue: 0,0:04:09.74,0:04:13.55,DEFAULT,,0,0,0,,{\r}{\kf29}Your{\kf43} cu{\kf43}tie{\kf36} mark{\kf36} will{\kf36} come{\kf43} in{\kf114} time

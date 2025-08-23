@@ -1,75 +1,82 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: BONNIE
+Artist: Vylet Pony
+Original Timing: mylittlekaraoke.com by lily
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:10.71,0:00:11.98,DEFAULT,,0,0,0,,{\kf1114}Ooh{\kf1097} Bon{\kf1111}nie
-Dialogue: 0,0:00:12.89,0:00:14.88,DEFAULT,,0,0,0,,{\kf1090}I've{\kf1090} been{\kf1093} try{\kf1090}ing{\kf1086} to{\kf1086} es{\kf1100}cape
-Dialogue: 0,0:00:15.16,0:00:18.46,DEFAULT,,0,0,0,,{\kf1093}From{\kf1090} this{\kf1093} stu{\kf1090}pid{\kf1086} fuck{\kf1086}ing{\kf1093} phase{\kf1086} I{\kf1107} call{\kf1118} love
-Dialogue: 0,0:00:19.65,0:00:20.88,DEFAULT,,0,0,0,,{\kf1114}Oh{\kf1100} Bon{\kf1111}nie
-Dialogue: 0,0:00:21.93,0:00:23.82,DEFAULT,,0,0,0,,{\kf1093}Won't{\kf1090} you{\kf1093} show{\kf1090} me{\kf1090} how{\kf1090} to{\kf1100} live?
-Dialogue: 0,0:00:24.14,0:00:27.47,DEFAULT,,0,0,0,,{\kf1090}I've{\kf1086} been{\kf1093} un{\kf1090}der{\kf1090} a{\kf1090} rock{\kf1090} since{\kf1090} I{\kf1090} was{\kf1086} a{\kf1093} fil{\kf1100}ly
-Dialogue: 0,0:00:27.78,0:00:28.31,DEFAULT,,0,0,0,,{\kf1079}Ooh{\kf1083}~{\kf1097}-ooh
-Dialogue: 0,0:00:28.66,0:00:29.88,DEFAULT,,0,0,0,,{\kf1107}Oh{\kf1100} Bon{\kf1114}nie
-Dialogue: 0,0:00:30.62,0:00:32.69,DEFAULT,,0,0,0,,{\kf1086}Do{\kf1086} you{\kf1090} re{\kf1093}mem{\kf1086}ber{\kf1086} who{\kf1086} I{\kf1090} am?
-Dialogue: 0,0:00:32.86,0:00:37.10,DEFAULT,,0,0,0,,{\kf1090}You{\kf1090} picked{\kf1090} me{\kf1090} up{\kf1090} when{\kf1090} I{\kf1090} was{\kf1090} at{\kf1090} my{\kf1100} low{\kf1216}est
-Dialogue: 0,0:00:37.59,0:00:38.58,DEFAULT,,0,0,0,,{\kf1104}Oh{\kf1114} no
-Dialogue: 0,0:00:39.91,0:00:40.15,DEFAULT,,0,0,0,,{\kf1097}Ooh
-Dialogue: 0,0:00:41.31,0:00:42.50,DEFAULT,,0,0,0,,{\kf1111}Ooh{\kf1090}-ooh{\kf1090}-ooh{\kf1104}-uh
-Dialogue: 0,0:00:42.96,0:00:44.88,DEFAULT,,0,0,0,,{\kf1090}Get{\kf1090} home{\kf1086} at{\kf1097} se{\kf1090}ven{\kf1097} P{\kf1100}M
-Dialogue: 0,0:00:45.20,0:00:46.22,DEFAULT,,0,0,0,,{\kf1090}No{\kf1086}thing{\kf1083} to{\kf1104} do
-Dialogue: 0,0:00:46.88,0:00:48.91,DEFAULT,,0,0,0,,{\kf1086}Been{\kf1079} get{\kf1083}ting{\kf1086} fucked{\kf1086} up{\kf1086} at{\kf1086} school{\kf1083} a{\kf1097}gain
-Dialogue: 0,0:00:49.23,0:00:50.53,DEFAULT,,0,0,0,,{\kf1083}Just{\kf1083} wan{\kf1086}na{\kf1086} talk{\kf1083} to{\kf1100} you
-Dialogue: 0,0:00:51.09,0:00:53.23,DEFAULT,,0,0,0,,{\kf1086}It's{\kf1086} been{\kf1086} prac{\kf1086}tice,{\kf1086} prac{\kf1086}tice,{\kf1086} prac{\kf1093}tice
-Dialogue: 0,0:00:53.51,0:00:54.87,DEFAULT,,0,0,0,,{\kf1079}For{\kf1079} the{\kf1079} re{\kf1086}ci{\kf1083}tal{\kf1086} com{\kf1083}ing{\kf1090} up
-Dialogue: 0,0:00:55.78,0:00:57.15,DEFAULT,,0,0,0,,{\kf1079}But{\kf1086} I'd{\kf1086} ra{\kf1086}ther{\kf1083} be{\kf1083} on{\kf1093}line
-Dialogue: 0,0:00:57.50,0:00:59.57,DEFAULT,,0,0,0,,{\kf1086}'Cuz{\kf1086} I{\kf1086} don't{\kf1083} real{\kf1083}ly{\kf1083} give{\kf1083} a{\kf1083} fuck{\kf1093}~
-Dialogue: 0,0:01:00.02,0:01:01.25,DEFAULT,,0,0,0,,{\kf1107}Ooh{\kf1100} Bon{\kf1111}nie
-Dialogue: 0,0:01:02.30,0:01:04.23,DEFAULT,,0,0,0,,{\kf1090}Won't{\kf1086} you{\kf1093} show{\kf1090} me{\kf1090} how{\kf1090} to{\kf1100} live?
-Dialogue: 0,0:01:04.51,0:01:07.84,DEFAULT,,0,0,0,,{\kf1090}I've{\kf1086} been{\kf1093} un{\kf1090}der{\kf1086} a{\kf1093} rock{\kf1090} since{\kf1090} I{\kf1090} was{\kf1086} a{\kf1097} fil{\kf1097}ly
-Dialogue: 0,0:01:08.19,0:01:08.68,DEFAULT,,0,0,0,,{\kf1079}Ooh{\kf1083}~{\kf1093}ooh
-Dialogue: 0,0:01:09.03,0:01:10.29,DEFAULT,,0,0,0,,{\kf1107}Oh{\kf1100} Bon{\kf1114}nie
-Dialogue: 0,0:01:10.99,0:01:13.06,DEFAULT,,0,0,0,,{\kf1086}Do{\kf1086} you{\kf1097} re{\kf1093}mem{\kf1086}ber{\kf1086} who{\kf1086} I{\kf1086} am?
-Dialogue: 0,0:01:13.27,0:01:17.72,DEFAULT,,0,0,0,,{\kf1086}You{\kf1090} picked{\kf1090} me{\kf1090} up{\kf1090} when{\kf1090} I{\kf1090} was{\kf1090} at{\kf1090} my{\kf1097} low{\kf1093}est{\kf1135}~{\kf1135}~
-Dialogue: 0,0:01:18.00,0:01:18.95,DEFAULT,,0,0,0,,{\kf1114}Oh{\kf1114} no
-Dialogue: 0,0:01:19.97,0:01:21.89,DEFAULT,,0,0,0,,{\kf1086}Oh{\kf1097} Bon{\kf1150}nie{\kf1128}~
-Dialogue: 0,0:01:22.21,0:01:24.10,DEFAULT,,0,0,0,,{\kf1086}Oh{\kf1097} Bon{\kf1121}nie{\kf1090}~{\kf1128}~
-Dialogue: 0,0:01:24.70,0:01:26.59,DEFAULT,,0,0,0,,{\kf1093}Bon{\kf1118}nie{\kf1083}~{\kf1171}~
-Dialogue: 0,0:01:28.94,0:01:30.87,DEFAULT,,0,0,0,,{\kf1086}Oh{\kf1090} Bon{\kf1146}nie{\kf1128}~
-Dialogue: 0,0:01:31.18,0:01:33.07,DEFAULT,,0,0,0,,{\kf1086}Oh{\kf1097} Bon{\kf1121}nie{\kf1090}~{\kf1125}~
-Dialogue: 0,0:01:33.67,0:01:35.42,DEFAULT,,0,0,0,,{\kf1097}Bon{\kf1114}nie{\kf1083}~{\kf1157}~
-Dialogue: 0,0:01:35.67,0:01:36.44,DEFAULT,,0,0,0,,{\kf1150}Ooh
-Dialogue: 0,0:01:36.75,0:01:40.22,DEFAULT,,0,0,0,,{\kf1086}I've{\kf1097} been{\kf1093}~{\kf1093} think{\kf1093}ing{\kf1090} a{\kf1114}bout{\kf1090} you{\kf1093} since{\kf1090} you{\kf1107} left
-Dialogue: 0,0:01:40.68,0:01:42.50,DEFAULT,,0,0,0,,{\kf1086}You{\kf1100} said{\kf1093} we'd{\kf1093} be{\kf1093} best{\kf1114} friends
-Dialogue: 0,0:01:42.64,0:01:44.74,DEFAULT,,0,0,0,,{\kf1093}But{\kf1090} you're{\kf1090} stuck{\kf1090} in{\kf1090} my{\kf1093} head{\kf1111}~
-Dialogue: 0,0:01:45.16,0:01:46.81,DEFAULT,,0,0,0,,{\kf1093}Oh{\kf1090} won't{\kf1090} you{\kf1093} call{\kf1086} me{\kf1093} back
-Dialogue: 0,0:01:47.16,0:01:48.95,DEFAULT,,0,0,0,,{\kf1093}Se{\kf1090}cret{\kf1097} A{\kf1093}gent{\kf1086} Swee{\kf1086}tie{\kf1100} Drops
-Dialogue: 0,0:01:49.34,0:01:51.19,DEFAULT,,0,0,0,,{\kf1093}Let's{\kf1093} for{\kf1093}get{\kf1086} this{\kf1093} whole{\kf1083} fa{\kf1097}cade
-Dialogue: 0,0:01:51.33,0:01:54.03,DEFAULT,,0,0,0,,{\kf1093}My{\kf1093} love{\kf1090}ly{\kf1097} les{\kf1093}bi{\kf1090}an{\kf1114} hot{\kf1118}shot
-Dialogue: 0,0:01:55.57,0:01:58.55,DEFAULT,,0,0,0,,{\kf1090}Ooh{\kf1146}~,{\kf1086} please{\kf1083} just{\kf1090} call{\kf1086} me{\kf1097} back{\kf1142}~
-Dialogue: 0,0:01:58.94,0:02:02.44,DEFAULT,,0,0,0,,{\kf1125}Oh{\kf1167}~,{\kf1121} oh{\kf1121}~{\kf1111}~
-Dialogue: 0,0:02:03.42,0:02:05.95,DEFAULT,,0,0,0,,{\kf1083}Let's{\kf1086} just{\kf1090} dance{\kf1083} to{\kf1093}ge{\kf1100}ther{\kf1097}~{\kf1114}~{\kf1107}~
-Dialogue: 0,0:02:06.47,0:02:09.24,DEFAULT,,0,0,0,,{\kf1083}It{\kf1083}'ll{\kf1093} be{\kf1100} al{\kf1090}right{\kf1128}~{\kf1083}~{\kf1125}~
-Dialogue: 0,0:02:09.84,0:02:11.70,DEFAULT,,0,0,0,,{\kf1100}Oh{\kf1100}~{\kf1083}~{\kf1086}~{\kf1083}~{\kf1079}~{\kf1128}~
-Dialogue: 0,0:02:31.15,0:02:33.21,DEFAULT,,0,0,0,,{\kf1083}Did{\kf1083} you{\kf1083} e{\kf1083}ver{\kf1083} read{\kf1083} the{\kf1086} let{\kf1083}ters{\kf1083} I{\kf1114} sent?
-Dialogue: 0,0:02:33.60,0:02:36.40,DEFAULT,,0,0,0,,{\kf1086}I{\kf1083} left{\kf1086} them{\kf1083} on{\kf1086} your{\kf1107} desk{\kf1083} when{\kf1093} we{\kf1093} were{\kf1114} young
-Dialogue: 0,0:02:37.03,0:02:39.45,DEFAULT,,0,0,0,,{\kf1083}I've{\kf1083} felt{\kf1083} this{\kf1100} way{\kf1083} for{\kf1083} a{\kf1086} real{\kf1083}ly{\kf1083} long{\kf1121} time
-Dialogue: 0,0:02:40.08,0:02:43.06,DEFAULT,,0,0,0,,{\kf1083}But{\kf1086} I{\kf1083} was{\kf1100} so{\kf1114} scared,{\kf1104} so{\kf1086} scared{\kf1086}~{\kf1121}~
-Dialogue: 0,0:02:43.34,0:02:45.38,DEFAULT,,0,0,0,,{\kf1083}Am{\kf1083} I{\kf1083} nor{\kf1083}mal?{\kf1083} Is{\kf1083} this{\kf1093} feel{\kf1093}ing{\kf1107} right?
-Dialogue: 0,0:02:45.83,0:02:48.53,DEFAULT,,0,0,0,,{\kf1083}It's{\kf1086} hard{\kf1083} to{\kf1083} keep{\kf1083} on{\kf1083} li{\kf1083}ving{\kf1083} when{\kf1083} I{\kf1093} see{\kf1093} no{\kf1118} light
-Dialogue: 0,0:02:48.70,0:02:51.54,DEFAULT,,0,0,0,,{\kf1083}For{\kf1083} a{\kf1086} while{\kf1083}le{\kf1083} I{\kf1083} had{\kf1097} asked,{\kf1083} should{\kf1083} I{\kf1090} fuck{\kf1083}ing{\kf1083}~{\kf1111} die?
-Dialogue: 0,0:02:51.93,0:02:54.87,DEFAULT,,0,0,0,,{\kf1083}Oh{\kf1086} who{\kf1083} am{\kf1083}~{\kf1111} I?{\kf1083} Will{\kf1083} I{\kf1093} live{\kf1093} to{\kf1083}night{\kf1121}~?
-Dialogue: 0,0:03:21.72,0:03:24.17,DEFAULT,,0,0,0,,{\kf1083}I{\kf1083} wish{\kf1083} it{\kf1086} were{\kf1104} ea{\kf1083}sy{\kf1083} to{\kf1104} tell{\kf1125} you
-Dialogue: 0,0:03:24.80,0:03:27.29,DEFAULT,,0,0,0,,{\kf1083}The{\kf1086} de{\kf1083}mons{\kf1083} I{\kf1104} face{\kf1086} when{\kf1083} I{\kf1104} sleep{\kf1100} at{\kf1093} night
-Dialogue: 0,0:03:27.68,0:03:30.66,DEFAULT,,0,0,0,,{\kf1083}I{\kf1083} just{\kf1083} want{\kf1086} to{\kf1083} look{\kf1104} af{\kf1083}ter{\kf1083} the{\kf1100} soul{\kf1083} you've{\kf1083} let{\kf1083} de{\kf1104}cay
-Dialogue: 0,0:03:30.94,0:03:34.13,DEFAULT,,0,0,0,,{\kf1083}If{\kf1083} you{\kf1083} won't{\kf1083} love{\kf1086} your{\kf1083}self{\kf1083} let{\kf1083} me{\kf1083} hold{\kf1090}~{\kf1086} you{\kf1086} and{\kf1090} stay{\kf1139}~
-Dialogue: 0,0:03:35.14,0:03:37.28,DEFAULT,,0,0,0,,{\kf1083}I{\kf1090} re{\kf1104}mem{\kf1209}ber
-Dialogue: 0,0:03:38.19,0:03:39.73,DEFAULT,,0,0,0,,{\kf1083}I{\kf1086} re{\kf1086}mem{\kf1090}~{\kf1150}ber
-Dialogue: 0,0:03:40.43,0:03:42.40,DEFAULT,,0,0,0,,{\kf1086}So{\kf1083} let{\kf1083} me{\kf1104} try{\kf1083} a{\kf1150}gain
-Dialogue: 0,0:03:42.78,0:03:45.45,DEFAULT,,0,0,0,,{\kf1083}Let{\kf1083} me{\kf1097} live{\kf1100} a{\kf1164}gain{\kf1121}~
+Dialogue: 0,0:00:10.72,0:00:11.98,DEFAULT,,0,0,0,,{\r}{\kf50}Ooh{\kf29} Bon{\kf47}nie
+Dialogue: 0,0:00:12.89,0:00:14.89,DEFAULT,,0,0,0,,{\r}{\kf27}I've{\kf27} been{\kf32} try{\kf27}ing{\kf22} to{\kf22} es{\kf43}cape
+Dialogue: 0,0:00:15.17,0:00:18.46,DEFAULT,,0,0,0,,{\r}{\kf31}From{\kf26} this{\kf31} stu{\kf26}pid{\kf21} fuck{\kf21}ing{\kf31} phase{\kf21} I{\kf52} call{\kf69} love
+Dialogue: 0,0:00:19.66,0:00:20.88,DEFAULT,,0,0,0,,{\r}{\kf48}Oh{\kf32} Bon{\kf43}nie
+Dialogue: 0,0:00:21.93,0:00:23.83,DEFAULT,,0,0,0,,{\r}{\kf28}Won't{\kf24} you{\kf28} show{\kf24} me{\kf24} how{\kf24} to{\kf37} live?
+Dialogue: 0,0:00:24.14,0:00:27.47,DEFAULT,,0,0,0,,{\r}{\kf26}I've{\kf21} been{\kf32} un{\kf26}der{\kf26} a{\kf26} rock{\kf26} since{\kf26} I{\kf26} was{\kf21} a{\kf32} fil{\kf45}ly
+Dialogue: 0,0:00:27.79,0:00:28.31,DEFAULT,,0,0,0,,{\r}{\kf10}Ooh{\kf13}~{\kf30}-ooh
+Dialogue: 0,0:00:28.66,0:00:29.89,DEFAULT,,0,0,0,,{\r}{\kf41}Oh{\kf33} Bon{\kf49}nie
+Dialogue: 0,0:00:30.63,0:00:32.69,DEFAULT,,0,0,0,,{\r}{\kf23}Do{\kf23} you{\kf29} re{\kf34}mem{\kf23}ber{\kf23} who{\kf23} I{\kf29} am?
+Dialogue: 0,0:00:32.87,0:00:37.11,DEFAULT,,0,0,0,,{\r}{\kf23}You{\kf23} picked{\kf23} me{\kf23} up{\kf23} when{\kf23} I{\kf23} was{\kf23} at{\kf23} my{\kf36} low{\kf181}est
+Dialogue: 0,0:00:37.60,0:00:38.58,DEFAULT,,0,0,0,,{\r}{\kf42}Oh{\kf56} no
+Dialogue: 0,0:00:39.91,0:00:40.16,DEFAULT,,0,0,0,,{\r}{\kf25}Ooh
+Dialogue: 0,0:00:41.31,0:00:42.51,DEFAULT,,0,0,0,,{\r}{\kf44}Ooh{\kf20}-ooh{\kf20}-ooh{\kf35}-uh
+Dialogue: 0,0:00:42.96,0:00:44.89,DEFAULT,,0,0,0,,{\r}{\kf24}Get{\kf24} home{\kf19} at{\kf33} se{\kf24}ven{\kf33} P{\kf36}M
+Dialogue: 0,0:00:45.20,0:00:46.22,DEFAULT,,0,0,0,,{\r}{\kf24}No{\kf19}thing{\kf15} to{\kf44} do
+Dialogue: 0,0:00:46.89,0:00:48.92,DEFAULT,,0,0,0,,{\r}{\kf23}Been{\kf12} get{\kf17}ting{\kf23} fucked{\kf23} up{\kf23} at{\kf23} school{\kf17} a{\kf42}gain
+Dialogue: 0,0:00:49.24,0:00:50.53,DEFAULT,,0,0,0,,{\r}{\kf16}Just{\kf16} wan{\kf21}na{\kf21} talk{\kf16} to{\kf40} you
+Dialogue: 0,0:00:51.09,0:00:53.23,DEFAULT,,0,0,0,,{\r}{\kf25}It's{\kf25} been{\kf25} prac{\kf25}tice,{\kf25} prac{\kf25}tice,{\kf25} prac{\kf39}tice
+Dialogue: 0,0:00:53.51,0:00:54.88,DEFAULT,,0,0,0,,{\r}{\kf11}For{\kf11} the{\kf11} re{\kf22}ci{\kf16}tal{\kf22} com{\kf16}ing{\kf28} up
+Dialogue: 0,0:00:55.79,0:00:57.16,DEFAULT,,0,0,0,,{\r}{\kf11}But{\kf21} I'd{\kf21} ra{\kf21}ther{\kf16} be{\kf16} on{\kf31}line
+Dialogue: 0,0:00:57.51,0:00:59.57,DEFAULT,,0,0,0,,{\r}{\kf25}'Cuz{\kf25} I{\kf25} don't{\kf19} real{\kf19}ly{\kf19} give{\kf19} a{\kf19} fuck{\kf37}~
+Dialogue: 0,0:01:00.03,0:01:01.26,DEFAULT,,0,0,0,,{\r}{\kf42}Ooh{\kf34} Bon{\kf47}nie
+Dialogue: 0,0:01:02.31,0:01:04.24,DEFAULT,,0,0,0,,{\r}{\kf25}Won't{\kf20} you{\kf30} show{\kf25} me{\kf25} how{\kf25} to{\kf43} live?
+Dialogue: 0,0:01:04.52,0:01:07.85,DEFAULT,,0,0,0,,{\r}{\kf26}I've{\kf21} been{\kf32} un{\kf26}der{\kf21} a{\kf32} rock{\kf26} since{\kf26} I{\kf26} was{\kf21} a{\kf37} fil{\kf39}ly
+Dialogue: 0,0:01:08.20,0:01:08.69,DEFAULT,,0,0,0,,{\r}{\kf10}Ooh{\kf13}~{\kf26}ooh
+Dialogue: 0,0:01:09.04,0:01:10.30,DEFAULT,,0,0,0,,{\r}{\kf42}Oh{\kf34} Bon{\kf50}nie
+Dialogue: 0,0:01:11.00,0:01:13.07,DEFAULT,,0,0,0,,{\r}{\kf22}Do{\kf22} you{\kf39} re{\kf34}mem{\kf22}ber{\kf22} who{\kf22} I{\kf24} am?
+Dialogue: 0,0:01:13.28,0:01:17.73,DEFAULT,,0,0,0,,{\r}{\kf19}You{\kf24} picked{\kf24} me{\kf24} up{\kf24} when{\kf24} I{\kf24} was{\kf24} at{\kf24} my{\kf33} low{\kf29}est{\kf86}~{\kf86}~
+Dialogue: 0,0:01:18.01,0:01:18.95,DEFAULT,,0,0,0,,{\r}{\kf48}Oh{\kf47} no
+Dialogue: 0,0:01:19.97,0:01:21.90,DEFAULT,,0,0,0,,{\r}{\kf16}Oh{\kf28} Bon{\kf87}nie{\kf62}~
+Dialogue: 0,0:01:22.21,0:01:24.11,DEFAULT,,0,0,0,,{\r}{\kf16}Oh{\kf29} Bon{\kf58}nie{\kf21}~{\kf65}~
+Dialogue: 0,0:01:24.70,0:01:26.60,DEFAULT,,0,0,0,,{\r}{\kf23}Bon{\kf49}nie{\kf11}~{\kf106}~
+Dialogue: 0,0:01:28.94,0:01:30.87,DEFAULT,,0,0,0,,{\r}{\kf17}Oh{\kf21} Bon{\kf88}nie{\kf67}~
+Dialogue: 0,0:01:31.19,0:01:33.08,DEFAULT,,0,0,0,,{\r}{\kf17}Oh{\kf29} Bon{\kf59}nie{\kf21}~{\kf63}~
+Dialogue: 0,0:01:33.67,0:01:35.43,DEFAULT,,0,0,0,,{\r}{\kf27}Bon{\kf46}nie{\kf11}~{\kf91}~
+Dialogue: 0,0:01:35.67,0:01:36.44,DEFAULT,,0,0,0,,{\r}{\kf77}Ooh
+Dialogue: 0,0:01:36.76,0:01:40.23,DEFAULT,,0,0,0,,{\r}{\kf19}I've{\kf34} been{\kf29}~{\kf29} think{\kf29}ing{\kf24} a{\kf58}bout{\kf24} you{\kf29} since{\kf24} you{\kf48} left
+Dialogue: 0,0:01:40.68,0:01:42.51,DEFAULT,,0,0,0,,{\r}{\kf17}You{\kf35} said{\kf26} we'd{\kf26} be{\kf26} best{\kf52} friends
+Dialogue: 0,0:01:42.65,0:01:44.75,DEFAULT,,0,0,0,,{\r}{\kf29}But{\kf24} you're{\kf24} stuck{\kf24} in{\kf24} my{\kf29} head{\kf56}~
+Dialogue: 0,0:01:45.17,0:01:46.82,DEFAULT,,0,0,0,,{\r}{\kf31}Oh{\kf26} won't{\kf26} you{\kf31} call{\kf21} me{\kf30} back
+Dialogue: 0,0:01:47.17,0:01:48.95,DEFAULT,,0,0,0,,{\r}{\kf27}Se{\kf22}cret{\kf31} A{\kf27}gent{\kf18} Swee{\kf18}tie{\kf36} Drops
+Dialogue: 0,0:01:49.34,0:01:51.20,DEFAULT,,0,0,0,,{\r}{\kf29}Let's{\kf29} for{\kf29}get{\kf20} this{\kf29} whole{\kf15} fa{\kf35}cade
+Dialogue: 0,0:01:51.34,0:01:54.04,DEFAULT,,0,0,0,,{\r}{\kf27}My{\kf27} love{\kf22}ly{\kf32} les{\kf27}bi{\kf22}an{\kf54} hot{\kf59}shot
+Dialogue: 0,0:01:55.58,0:01:58.56,DEFAULT,,0,0,0,,{\r}{\kf22}Ooh{\kf91}~,{\kf17} please{\kf13} just{\kf22} call{\kf17} me{\kf30} back{\kf86}~
+Dialogue: 0,0:01:58.94,0:02:02.45,DEFAULT,,0,0,0,,{\r}{\kf65}Oh{\kf117}~,{\kf60} oh{\kf60}~{\kf48}~
+Dialogue: 0,0:02:03.43,0:02:05.95,DEFAULT,,0,0,0,,{\r}{\kf13}Let's{\kf17} just{\kf22} dance{\kf13} to{\kf26}ge{\kf35}ther{\kf30}~{\kf52}~{\kf44}~
+Dialogue: 0,0:02:06.48,0:02:09.25,DEFAULT,,0,0,0,,{\r}{\kf14}It{\kf14}'ll{\kf28} be{\kf38} al{\kf23}right{\kf75}~{\kf14}~{\kf71}~
+Dialogue: 0,0:02:09.84,0:02:11.70,DEFAULT,,0,0,0,,{\r}{\kf34}Oh{\kf34}~{\kf13}~{\kf17}~{\kf13}~{\kf10}~{\kf65}~
+Dialogue: 0,0:02:31.15,0:02:33.22,DEFAULT,,0,0,0,,{\r}{\kf16}Did{\kf16} you{\kf16} e{\kf16}ver{\kf16} read{\kf16} the{\kf21} let{\kf16}ters{\kf16} I{\kf58} sent?
+Dialogue: 0,0:02:33.60,0:02:36.41,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf15} left{\kf20} them{\kf15} on{\kf20} your{\kf51} desk{\kf15} when{\kf31} we{\kf31} were{\kf62} young
+Dialogue: 0,0:02:37.04,0:02:39.46,DEFAULT,,0,0,0,,{\r}{\kf15}I've{\kf15} felt{\kf15} this{\kf41} way{\kf15} for{\kf15} a{\kf21} real{\kf15}ly{\kf15} long{\kf75} time
+Dialogue: 0,0:02:40.09,0:02:43.07,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf20} I{\kf15} was{\kf39} so{\kf59} scared,{\kf44} so{\kf20} scared{\kf20}~{\kf66}~
+Dialogue: 0,0:02:43.35,0:02:45.38,DEFAULT,,0,0,0,,{\r}{\kf15}Am{\kf15} I{\kf15} nor{\kf15}mal?{\kf15} Is{\kf15} this{\kf30} feel{\kf30}ing{\kf53} right?
+Dialogue: 0,0:02:45.84,0:02:48.53,DEFAULT,,0,0,0,,{\r}{\kf15}It's{\kf20} hard{\kf15} to{\kf15} keep{\kf15} on{\kf15} li{\kf15}ving{\kf15} when{\kf15} I{\kf31} see{\kf31} no{\kf68} light
+Dialogue: 0,0:02:48.71,0:02:51.55,DEFAULT,,0,0,0,,{\r}{\kf16}For{\kf16} a{\kf21} while{\kf16}le{\kf16} I{\kf16} had{\kf37} asked,{\kf16} should{\kf16} I{\kf26} fuck{\kf16}ing{\kf16}~{\kf56} die?
+Dialogue: 0,0:02:51.93,0:02:54.88,DEFAULT,,0,0,0,,{\r}{\kf15}Oh{\kf20} who{\kf15} am{\kf15}~{\kf55} I?{\kf15} Will{\kf15} I{\kf30} live{\kf30} to{\kf15}night{\kf69}~?
+Dialogue: 0,0:03:21.72,0:03:24.18,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf14} wish{\kf14} it{\kf19} were{\kf42} ea{\kf14}sy{\kf14} to{\kf42} tell{\kf72} you
+Dialogue: 0,0:03:24.81,0:03:27.30,DEFAULT,,0,0,0,,{\r}{\kf14}The{\kf19} de{\kf14}mons{\kf14} I{\kf43} face{\kf19} when{\kf14} I{\kf43} sleep{\kf38} at{\kf31} night
+Dialogue: 0,0:03:27.68,0:03:30.66,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} just{\kf16} want{\kf21} to{\kf16} look{\kf47} af{\kf16}ter{\kf16} the{\kf42} soul{\kf16} you've{\kf16} let{\kf16} de{\kf44}cay
+Dialogue: 0,0:03:30.94,0:03:34.13,DEFAULT,,0,0,0,,{\r}{\kf15}If{\kf15} you{\kf15} won't{\kf15} love{\kf20} your{\kf15}self{\kf15} let{\kf15} me{\kf15} hold{\kf25}~{\kf20} you{\kf20} and{\kf25} stay{\kf89}~
+Dialogue: 0,0:03:35.15,0:03:37.28,DEFAULT,,0,0,0,,{\r}{\kf11}I{\kf19} re{\kf34}mem{\kf150}ber
+Dialogue: 0,0:03:38.20,0:03:39.74,DEFAULT,,0,0,0,,{\r}{\kf12}I{\kf16} re{\kf16}mem{\kf20}~{\kf90}ber
+Dialogue: 0,0:03:40.44,0:03:42.40,DEFAULT,,0,0,0,,{\r}{\kf18}So{\kf13} let{\kf13} me{\kf40} try{\kf13} a{\kf99}gain
+Dialogue: 0,0:03:42.79,0:03:45.45,DEFAULT,,0,0,0,,{\r}{\kf13}Let{\kf13} me{\kf31} live{\kf35} a{\kf113}gain{\kf61}~

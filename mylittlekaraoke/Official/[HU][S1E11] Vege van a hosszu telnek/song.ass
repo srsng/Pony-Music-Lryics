@@ -1,91 +1,98 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Vége van a hosszú télnek
+Artist: Én Kicsi Pónim
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.68,0:00:02.88,DEFAULT,,0,0,0,,{\kf35}Kint{\kf25} most{\kf16} hi{\kf25}deg{\kf20} van,{\kf31} fá{\kf40}zunk
-Dialogue: 0,0:00:03.18,0:00:05.33,DEFAULT,,0,0,0,,{\kf20}Oly{\kf20} hos{\kf20}szú{\kf31} már{\kf25} a{\kf70} tél
-Dialogue: 0,0:00:05.53,0:00:07.88,DEFAULT,,0,0,0,,{\kf31}Bent{\kf16} a{\kf20} szo{\kf31}bá{\kf31}ban{\kf31} ját{\kf25}szot{\kf31}tunk
-Dialogue: 0,0:00:07.88,0:00:10.13,DEFAULT,,0,0,0,,{\kf20}Ott{\kf25} nem{\kf31} ért{\kf25} el{\kf20} a{\kf70} szél
-Dialogue: 0,0:00:10.28,0:00:12.63,DEFAULT,,0,0,0,,{\kf20}De{\kf16} az{\kf20} é{\kf25}lés{\kf31}kam{\kf31}ra{\kf20} ü{\kf16}res{\kf31} már
-Dialogue: 0,0:00:12.73,0:00:14.78,DEFAULT,,0,0,0,,{\kf16}Nö{\kf20}vény{\kf20} most{\kf20} se{\kf25}hol{\kf35} sem{\kf50} nő
-Dialogue: 0,0:00:15.08,0:00:17.53,DEFAULT,,0,0,0,,{\kf20}Az{\kf31} én{\kf25} csiz{\kf31}mám{\kf25} sem{\kf20} di{\kf31}vat{\kf35} már
-Dialogue: 0,0:00:17.53,0:00:20.28,DEFAULT,,0,0,0,,{\kf25}Hát{\kf31} ké{\kf20}ne{\kf40} új{\kf31} ci{\kf111}pő
-Dialogue: 0,0:00:20.98,0:00:23.33,DEFAULT,,0,0,0,,{\kf20}Hát{\kf25} üd{\kf16}vö{\kf31}zöld{\kf10} a{\kf40} föl{\kf31}det,{\kf45} nézd
-Dialogue: 0,0:00:23.43,0:00:24.88,DEFAULT,,0,0,0,,{\kf16}Ta{\kf20}vasz{\kf20} jön,{\kf20} ér{\kf20}zed{\kf31} már
-Dialogue: 0,0:00:24.88,0:00:27.48,DEFAULT,,0,0,0,,{\kf10}Ne{\kf16}künk{\kf20} men{\kf20}nünk{\kf20} kell,{\kf20} sok{\kf31} mun{\kf35}ka{\kf50} vár
-Dialogue: 0,0:00:27.58,0:00:29.23,DEFAULT,,0,0,0,,{\kf16}Tu{\kf20}dod{\kf16} ez{\kf25} ez{\kf20}zel{\kf45} jár
-Dialogue: 0,0:00:29.53,0:00:31.63,DEFAULT,,0,0,0,,{\kf20}Hogy{\kf25} kezd{\kf25}jem{\kf20} el?{\kf20} Se{\kf31}gíts{\kf20} ki{\kf31}csit!
-Dialogue: 0,0:00:31.88,0:00:33.38,DEFAULT,,0,0,0,,{\kf16}Mit{\kf10} te{\kf16}het{\kf10} egy{\kf20} pó{\kf10}ni{\kf56}lány?
-Dialogue: 0,0:00:33.73,0:00:36.08,DEFAULT,,0,0,0,,{\kf16}Hogy{\kf20} kezd{\kf20}jem{\kf20} el{\kf16} ha{\kf35} nincs{\kf16} va{\kf35}rázs{\kf25}lat?
-Dialogue: 0,0:00:36.33,0:00:39.08,DEFAULT,,0,0,0,,{\kf20}Ez{\kf20} itt{\kf16} most{\kf31} nagy{\kf25} ta{\kf135}lány
-Dialogue: 0,0:00:39.63,0:00:41.63,DEFAULT,,0,0,0,,{\kf20}Vé{\kf20}ge{\kf25} van{\kf20} a{\kf20} hos{\kf25}szú{\kf20}  tél{\kf25}nek
-Dialogue: 0,0:00:41.83,0:00:43.53,DEFAULT,,0,0,0,,{\kf16}És{\kf10} a{\kf16} vi{\kf25}lág{\kf25} új{\kf16}ra{\kf25}é{\kf20}led
-Dialogue: 0,0:00:43.53,0:00:45.53,DEFAULT,,0,0,0,,{\kf20}Vé{\kf20}ge{\kf25} van{\kf20} a{\kf16} hos{\kf20}szú{\kf25} tél{\kf25}nek
-Dialogue: 0,0:00:45.78,0:00:47.68,DEFAULT,,0,0,0,,{\kf10}Ö{\kf10}rü{\kf25}lünk{\kf16} a{\kf31} friss{\kf45} szél{\kf40}nek
-Dialogue: 0,0:00:47.78,0:00:49.38,DEFAULT,,0,0,0,,{\kf10}Ö{\kf10}rü{\kf25}lünk{\kf16} a{\kf25} friss{\kf31} szél{\kf31}nek
-Dialogue: 0,0:00:49.73,0:00:51.78,DEFAULT,,0,0,0,,{\kf25}Sok{\kf16} pe{\kf10}ga{\kf25}zus{\kf35} dél{\kf25}re{\kf50} száll
-Dialogue: 0,0:00:51.83,0:00:53.38,DEFAULT,,0,0,0,,{\kf10}A{\kf16} ma{\kf10}da{\kf20}rak{\kf20} vis{\kf20}sza{\kf31}jön{\kf20}nek
-Dialogue: 0,0:00:53.43,0:00:55.53,DEFAULT,,0,0,0,,{\kf31}Szür{\kf16}ke{\kf31} fel{\kf25}hők{\kf40} tűn{\kf20}je{\kf35}tek
-Dialogue: 0,0:00:55.78,0:00:57.28,DEFAULT,,0,0,0,,{\kf16}U{\kf20}tat{\kf16} a{\kf25} nap{\kf25}fény{\kf31}nek
-Dialogue: 0,0:00:57.68,0:01:01.33,DEFAULT,,0,0,0,,{\kf16}A{\kf25} fel{\kf25}hő{\kf25} mo{\kf20}-oz{\kf25}dul{\kf16} és{\kf31} ol{\kf31}vad{\kf31} a{\kf80} hó
-Dialogue: 0,0:01:01.58,0:01:05.73,DEFAULT,,0,0,0,,{\kf20}Csu{\kf10}da{\kf20} klassz{\kf25} a{\kf31} nap{\kf20} fé{\kf20}nye,{\kf20} pont{\kf20} ne{\kf35}künk{\kf25} va{\kf130}ló
-Dialogue: 0,0:01:07.38,0:01:09.68,DEFAULT,,0,0,0,,{\kf20}Vé{\kf20}ge{\kf25} van{\kf16} a{\kf20} hos{\kf25}szú{\kf25} té{\kf40}-él{\kf16}nek
-Dialogue: 0,0:01:09.68,0:01:11.33,DEFAULT,,0,0,0,,{\kf10}És{\kf10} a{\kf16} vi{\kf31}lág{\kf25} új{\kf16}ra{\kf20}é{\kf25}led
-Dialogue: 0,0:01:11.33,0:01:13.88,DEFAULT,,0,0,0,,{\kf20}Vé{\kf20}ge{\kf25} van{\kf20} a{\kf20} hos{\kf25}szú{\kf25} té{\kf40}-él{\kf40}nek
-Dialogue: 0,0:01:13.58,0:01:15.33,DEFAULT,,0,0,0,,{\kf10}Ö{\kf16}rü{\kf20}lünk{\kf16} a{\kf25} friss{\kf35} szél{\kf35}nek
-Dialogue: 0,0:01:15.33,0:01:17.53,DEFAULT,,0,0,0,,{\kf20}Vé{\kf16}ge{\kf25} van{\kf20} a{\kf20} hos{\kf20}szú{\kf20} té{\kf35}-él{\kf16}nek
-Dialogue: 0,0:01:17.53,0:01:19.38,DEFAULT,,0,0,0,,{\kf16}Ö{\kf16}rü{\kf20}lünk{\kf16} a{\kf31} friss{\kf40} szél{\kf40}nek
-Dialogue: 0,0:01:19.53,0:01:21.03,DEFAULT,,0,0,0,,{\kf10}Ö{\kf10}rü{\kf25}lünk{\kf16} a{\kf20} friss{\kf25} szél{\kf25}nek
-Dialogue: 0,0:01:21.23,0:01:23.33,DEFAULT,,0,0,0,,{\kf20}Kis{\kf20} ál{\kf25}lat{\kf20}kák{\kf25} moz{\kf45}dul{\kf35}nak
-Dialogue: 0,0:01:23.48,0:01:24.98,DEFAULT,,0,0,0,,{\kf20}E{\kf20}lég{\kf10} a{\kf31} tél{\kf25}ből{\kf20} már
-Dialogue: 0,0:01:25.03,0:01:27.33,DEFAULT,,0,0,0,,{\kf16}Mi{\kf25} éb{\kf20}reszt{\kf16}ge{\kf25}tünk{\kf31} csen{\kf25}de{\kf35}sen
-Dialogue: 0,0:01:27.43,0:01:29.03,DEFAULT,,0,0,0,,{\kf20}Si{\kf25}mi{\kf20} és{\kf20} jó{\kf31} szó{\kf31} jár
-Dialogue: 0,0:01:29.43,0:01:31.58,DEFAULT,,0,0,0,,{\kf16}E{\kf20}tet{\kf31}jük{\kf20} ő{\kf16}ket{\kf20} min{\kf31}den{\kf40}nel
-Dialogue: 0,0:01:31.63,0:01:33.23,DEFAULT,,0,0,0,,{\kf25}Rend{\kf16} lesz{\kf20} hir{\kf16}te{\kf65}len
-Dialogue: 0,0:01:33.43,0:01:35.78,DEFAULT,,0,0,0,,{\kf16}Ki{\kf25} dél{\kf25}ről{\kf16} vis{\kf16}sza{\kf25}szállt {\kf25}hoz{\kf50}zánk
-Dialogue: 0,0:01:35.88,0:01:38.48,DEFAULT,,0,0,0,,{\kf10}Ha{\kf16}za{\kf20} kedv{\kf16}vel{\kf20} ér{\kf45}kez{\kf111}zen
-Dialogue: 0,0:01:39.13,0:01:41.48,DEFAULT,,0,0,0,,{\kf25}Vé{\kf25}ge{\kf20} van{\kf20} a{\kf16} hos{\kf25}szú{\kf25} té{\kf31}-él{\kf16}nek
-Dialogue: 0,0:01:41.48,0:01:43.18,DEFAULT,,0,0,0,,{\kf10}És{\kf16} a{\kf16} vi{\kf31}lág{\kf20} új{\kf16}ra{\kf31}é{\kf20}led
-Dialogue: 0,0:01:43.18,0:01:45.38,DEFAULT,,0,0,0,,{\kf20}Vé{\kf20}ge{\kf20} van{\kf16} a{\kf16} hos{\kf25}szú{\kf25} té{\kf40}-él{\kf10}nek
-Dialogue: 0,0:01:45.38,0:01:47.18,DEFAULT,,0,0,0,,{\kf16}Ö{\kf16}rü{\kf20}lünk{\kf16} a{\kf25} friss{\kf40} szél{\kf31}nek
-Dialogue: 0,0:01:47.18,0:01:49.33,DEFAULT,,0,0,0,,{\kf20}Vé{\kf25}ge{\kf16} van{\kf20} a{\kf16} hos{\kf25}szú{\kf25} té{\kf31}-él{\kf10}nek
-Dialogue: 0,0:01:49.33,0:01:51.33,DEFAULT,,0,0,0,,{\kf16}Ö{\kf10}rü{\kf31}lünk{\kf16} a{\kf31} friss{\kf45} szél{\kf45}nek
-Dialogue: 0,0:01:51.38,0:01:52.93,DEFAULT,,0,0,0,,{\kf10}Ö{\kf10}rü{\kf25}lünk{\kf16} a{\kf20} friss{\kf25} szél{\kf31}nek
-Dialogue: 0,0:01:53.28,0:01:55.33,DEFAULT,,0,0,0,,{\kf20}Nem{\kf20} kön{\kf25}nyű{\kf20} itt{\kf16} a{\kf20} mun{\kf25}ka,{\kf40} nézd
-Dialogue: 0,0:01:55.53,0:01:57.08,DEFAULT,,0,0,0,,{\kf25}Föld{\kf16}be{\kf31} mag{\kf16} ke{\kf25}rül{\kf31} majd
-Dialogue: 0,0:01:57.43,0:01:59.48,DEFAULT,,0,0,0,,{\kf20}Gon{\kf16}dos{\kf20}ság{\kf35} kell{\kf20} és{\kf25} nap{\kf35}fény
-Dialogue: 0,0:01:59.73,0:02:01.03,DEFAULT,,0,0,0,,{\kf16}At{\kf25}tól{\kf20} mind{\kf16} ki{\kf40}hajt
-Dialogue: 0,0:02:01.28,0:02:02.98,DEFAULT,,0,0,0,,{\kf16}Al{\kf16}ma,{\kf20} ré{\kf20}pa,{\kf20} zel{\kf25}ler{\kf35}szál
-Dialogue: 0,0:02:03.13,0:02:04.93,DEFAULT,,0,0,0,,{\kf25}És{\kf10} a{\kf20} sok{\kf25} szép{\kf20} vi{\kf70}rág
-Dialogue: 0,0:02:05.23,0:02:07.03,DEFAULT,,0,0,0,,{\kf31}Van{\kf20} még{\kf20} mun{\kf25}kánk,{\kf16} tud{\kf16}juk{\kf35} jól
-Dialogue: 0,0:02:07.13,0:02:09.33,DEFAULT,,0,0,0,,{\kf16}És{\kf35} száz{\kf10} do{\kf20}log{\kf35} vár{\kf100} ránk
-Dialogue: 0,0:02:09.43,0:02:11.73,DEFAULT,,0,0,0,,{\kf25}Vé{\kf20}ge{\kf20} van{\kf16} a{\kf20} hos{\kf25}szú{\kf20} té{\kf45}-él{\kf10}nek
-Dialogue: 0,0:02:11.73,0:02:13.38,DEFAULT,,0,0,0,,{\kf16}És{\kf10} a{\kf10} vi{\kf25}lág{\kf31} új{\kf16}ra{\kf25}é{\kf20}led
-Dialogue: 0,0:02:13.38,0:02:15.68,DEFAULT,,0,0,0,,{\kf25}Vé{\kf20}ge{\kf25} van{\kf16} a{\kf20} hos{\kf20}szú{\kf31} té{\kf40}-él{\kf10}nek
-Dialogue: 0,0:02:15.68,0:02:17.38,DEFAULT,,0,0,0,,{\kf10}Ö{\kf16}rü{\kf16}lünk{\kf16} a{\kf25} friss{\kf45} szél{\kf25}nek
-Dialogue: 0,0:02:17.48,0:02:19.58,DEFAULT,,0,0,0,,{\kf16}Vé{\kf20}ge{\kf20} van{\kf16} a{\kf20} hos{\kf20}szú{\kf25} té{\kf40}-él{\kf10}nek
-Dialogue: 0,0:02:19.58,0:02:21.48,DEFAULT,,0,0,0,,{\kf16}Ö{\kf10}rü{\kf25}lünk{\kf16} a{\kf20} friss{\kf40} szél{\kf45}nek
-Dialogue: 0,0:02:21.58,0:02:23.18,DEFAULT,,0,0,0,,{\kf16}Ö{\kf10}rü{\kf25}lünk{\kf16} a{\kf20} friss{\kf25} szél{\kf31}nek
-Dialogue: 0,0:02:23.73,0:02:25.93,DEFAULT,,0,0,0,,{\kf16}I{\kf25}gen,{\kf16} a{\kf31} dol{\kf20}gom{\kf16} tu{\kf31}dom{\kf45} már
-Dialogue: 0,0:02:25.98,0:02:28.08,DEFAULT,,0,0,0,,{\kf20}A{\kf20} he{\kf25}lyem{\kf31} meg{\kf25}le{\kf75}lem
-Dialogue: 0,0:02:28.48,0:02:30.83,DEFAULT,,0,0,0,,{\kf16}Se{\kf25}gí{\kf25}tek{\kf40} szív{\kf25}ből{\kf16} jön{\kf10} a{\kf40} szó
-Dialogue: 0,0:02:30.98,0:02:32.78,DEFAULT,,0,0,0,,{\kf10}A{\kf31} dol{\kf31}gom{\kf20} ke{\kf20}re{\kf56}sem
-Dialogue: 0,0:02:33.23,0:02:35.73,DEFAULT,,0,0,0,,{\kf16}De{\kf25} hogy{\kf16}ha{\kf40} nincs{\kf20} ben{\kf25}nem{\kf25} va{\kf35}rázs{\kf31}lat
-Dialogue: 0,0:02:35.88,0:02:37.88,DEFAULT,,0,0,0,,{\kf20}Föl{\kf10}di{\kf35} pó{\kf31}nik,{\kf31} mit{\kf20} te{\kf35}gyek
-Dialogue: 0,0:02:38.13,0:02:40.63,DEFAULT,,0,0,0,,{\kf25}Én{\kf16} ve{\kf16}le{\kf31}tek{\kf35} vá{\kf31}gyom{\kf40} len{\kf31}ni
-Dialogue: 0,0:02:40.88,0:02:42.63,DEFAULT,,0,0,0,,{\kf20}Min{\kf31}dent{\kf31} meg{\kf16}te{\kf56}szek
-Dialogue: 0,0:02:43.18,0:02:46.93,DEFAULT,,0,0,0,,{\kf25}S ve{\kf20}le{\kf31}tek{\kf40} le{\kf235}szek
-Dialogue: 0,0:02:47.03,0:02:48.68,DEFAULT,,0,0,0,,{\kf16}És{\kf16} a{\kf10} vi{\kf25}lág{\kf20} új{\kf16}ra{\kf20}é{\kf20}led
-Dialogue: 0,0:02:48.78,0:02:50.98,DEFAULT,,0,0,0,,{\kf20}Vé{\kf20}ge{\kf20} van{\kf20} a{\kf20} hos{\kf25}szú{\kf25} té{\kf40}-él{\kf10}nek
-Dialogue: 0,0:02:50.98,0:02:52.63,DEFAULT,,0,0,0,,{\kf16}Ö{\kf16}rü{\kf20}lünk{\kf10} a{\kf25} friss{\kf40} szél{\kf25}nek
-Dialogue: 0,0:02:52.73,0:02:54.93,DEFAULT,,0,0,0,,{\kf20}Vé{\kf20}ge{\kf25} van{\kf20} a{\kf16} hos{\kf20}szú{\kf25} té{\kf40}-él{\kf10}nek
-Dialogue: 0,0:02:54.93,0:02:56.73,DEFAULT,,0,0,0,,{\kf10}Ö{\kf10}rü{\kf20}lünk{\kf20} a{\kf20} friss{\kf40} szél{\kf35}nek
-Dialogue: 0,0:02:56.83,0:02:58.53,DEFAULT,,0,0,0,,{\kf16}Ö{\kf10}rü{\kf25}lünk{\kf10} a{\kf20} friss{\kf25} szé{\kf20}-él{\kf31}nek
-Dialogue: 0,0:02:58.78,0:03:03.68,DEFAULT,,0,0,0,,{\kf10}Ö{\kf10}rü{\kf20}lünk{\kf16} a{\kf35} friss{\kf40} szél{\kf355}nek
+Dialogue: 0,0:00:00.68,0:00:02.88,DEFAULT,,0,0,0,,{\r}{\kf41}Kint{\kf29} most{\kf17} hi{\kf29}deg{\kf23} van,{\kf35} fá{\kf46}zunk
+Dialogue: 0,0:00:03.18,0:00:05.33,DEFAULT,,0,0,0,,{\r}{\kf23}Oly{\kf23} hos{\kf23}szú{\kf35} már{\kf29} a{\kf82} tél
+Dialogue: 0,0:00:05.53,0:00:07.88,DEFAULT,,0,0,0,,{\r}{\kf34}Bent{\kf17} a{\kf22} szo{\kf34}bá{\kf34}ban{\kf34} ját{\kf28}szot{\kf32}tunk
+Dialogue: 0,0:00:07.88,0:00:10.13,DEFAULT,,0,0,0,,{\r}{\kf24}Ott{\kf30} nem{\kf36} ért{\kf30} el{\kf24} a{\kf81} szél
+Dialogue: 0,0:00:10.28,0:00:12.63,DEFAULT,,0,0,0,,{\r}{\kf23}De{\kf17} az{\kf23} é{\kf29}lés{\kf34}kam{\kf34}ra{\kf23} ü{\kf17}res{\kf35} már
+Dialogue: 0,0:00:12.73,0:00:14.78,DEFAULT,,0,0,0,,{\r}{\kf17}Nö{\kf22}vény{\kf22} most{\kf22} se{\kf28}hol{\kf39} sem{\kf55} nő
+Dialogue: 0,0:00:15.08,0:00:17.53,DEFAULT,,0,0,0,,{\r}{\kf23}Az{\kf34} én{\kf28} csiz{\kf34}mám{\kf28} sem{\kf23} di{\kf34}vat{\kf41} már
+Dialogue: 0,0:00:17.53,0:00:20.28,DEFAULT,,0,0,0,,{\r}{\kf27}Hát{\kf32} ké{\kf22}ne{\kf43} új{\kf32} ci{\kf119}pő
+Dialogue: 0,0:00:20.98,0:00:23.33,DEFAULT,,0,0,0,,{\r}{\kf22}Hát{\kf27} üd{\kf16}vö{\kf33}zöld{\kf11} a{\kf44} föl{\kf33}det,{\kf49} nézd
+Dialogue: 0,0:00:23.43,0:00:24.88,DEFAULT,,0,0,0,,{\r}{\kf17}Ta{\kf23}vasz{\kf23} jön,{\kf23} ér{\kf23}zed{\kf36} már
+Dialogue: 0,0:00:24.88,0:00:27.48,DEFAULT,,0,0,0,,{\r}{\kf12}Ne{\kf18}künk{\kf24} men{\kf24}nünk{\kf24} kell,{\kf24} sok{\kf35} mun{\kf41}ka{\kf58} vár
+Dialogue: 0,0:00:27.58,0:00:29.23,DEFAULT,,0,0,0,,{\r}{\kf18}Tu{\kf24}dod{\kf18} ez{\kf29} ez{\kf24}zel{\kf52} jár
+Dialogue: 0,0:00:29.53,0:00:31.63,DEFAULT,,0,0,0,,{\r}{\kf22}Hogy{\kf28} kezd{\kf28}jem{\kf22} el?{\kf22} Se{\kf33}gíts{\kf22} ki{\kf33}csit!
+Dialogue: 0,0:00:31.88,0:00:33.38,DEFAULT,,0,0,0,,{\r}{\kf17}Mit{\kf11} te{\kf17}het{\kf11} egy{\kf22} pó{\kf11}ni{\kf61}lány?
+Dialogue: 0,0:00:33.73,0:00:36.08,DEFAULT,,0,0,0,,{\r}{\kf18}Hogy{\kf24} kezd{\kf24}jem{\kf24} el{\kf18} ha{\kf41} nincs{\kf18} va{\kf41}rázs{\kf27}lat?
+Dialogue: 0,0:00:36.33,0:00:39.08,DEFAULT,,0,0,0,,{\r}{\kf22}Ez{\kf22} itt{\kf17} most{\kf34} nagy{\kf28} ta{\kf152}lány
+Dialogue: 0,0:00:39.63,0:00:41.63,DEFAULT,,0,0,0,,{\r}{\kf23}Vé{\kf23}ge{\kf29} van{\kf23} a{\kf23} hos{\kf29}szú{\kf23}  tél{\kf27}nek
+Dialogue: 0,0:00:41.83,0:00:43.53,DEFAULT,,0,0,0,,{\r}{\kf17}És{\kf11} a{\kf17} vi{\kf28}lág{\kf28} új{\kf17}ra{\kf28}é{\kf24}led
+Dialogue: 0,0:00:43.53,0:00:45.53,DEFAULT,,0,0,0,,{\r}{\kf24}Vé{\kf24}ge{\kf29} van{\kf24} a{\kf18} hos{\kf24}szú{\kf29} tél{\kf28}nek
+Dialogue: 0,0:00:45.78,0:00:47.68,DEFAULT,,0,0,0,,{\r}{\kf11}Ö{\kf11}rü{\kf27}lünk{\kf16} a{\kf33} friss{\kf49} szél{\kf43}nek
+Dialogue: 0,0:00:47.78,0:00:49.38,DEFAULT,,0,0,0,,{\r}{\kf11}Ö{\kf11}rü{\kf28}lünk{\kf17} a{\kf28} friss{\kf33} szél{\kf32}nek
+Dialogue: 0,0:00:49.73,0:00:51.78,DEFAULT,,0,0,0,,{\r}{\kf28}Sok{\kf17} pe{\kf11}ga{\kf28}zus{\kf39} dél{\kf28}re{\kf54} száll
+Dialogue: 0,0:00:51.83,0:00:53.38,DEFAULT,,0,0,0,,{\r}{\kf11}A{\kf16} ma{\kf11}da{\kf21}rak{\kf21} vis{\kf21}sza{\kf32}jön{\kf22}nek
+Dialogue: 0,0:00:53.43,0:00:55.53,DEFAULT,,0,0,0,,{\r}{\kf32}Szür{\kf16}ke{\kf32} fel{\kf27}hők{\kf43} tűn{\kf22}je{\kf38}tek
+Dialogue: 0,0:00:55.78,0:00:57.28,DEFAULT,,0,0,0,,{\r}{\kf17}U{\kf23}tat{\kf17} a{\kf29} nap{\kf29}fény{\kf35}nek
+Dialogue: 0,0:00:57.68,0:01:01.33,DEFAULT,,0,0,0,,{\r}{\kf17}A{\kf29} fel{\kf29}hő{\kf29} mo{\kf23}-oz{\kf29}dul{\kf17} és{\kf34} ol{\kf34}vad{\kf34} a{\kf90} hó
+Dialogue: 0,0:01:01.58,0:01:05.73,DEFAULT,,0,0,0,,{\r}{\kf22}Csu{\kf11}da{\kf22} klassz{\kf28} a{\kf33} nap{\kf22} fé{\kf22}nye,{\kf22} pont{\kf22} ne{\kf39}künk{\kf28} va{\kf144}ló
+Dialogue: 0,0:01:07.38,0:01:09.68,DEFAULT,,0,0,0,,{\r}{\kf22}Vé{\kf22}ge{\kf28} van{\kf17} a{\kf22} hos{\kf28}szú{\kf28} té{\kf45}-él{\kf18}nek
+Dialogue: 0,0:01:09.68,0:01:11.33,DEFAULT,,0,0,0,,{\r}{\kf11}És{\kf11} a{\kf16} vi{\kf33}lág{\kf28} új{\kf16}ra{\kf22}é{\kf28}led
+Dialogue: 0,0:01:11.33,0:01:13.88,DEFAULT,,0,0,0,,{\r}{\kf22}Vé{\kf22}ge{\kf27} van{\kf22} a{\kf22} hos{\kf27}szú{\kf27} té{\kf43}-él{\kf43}nek
+Dialogue: 0,0:01:13.58,0:01:15.33,DEFAULT,,0,0,0,,{\r}{\kf11}Ö{\kf17}rü{\kf23}lünk{\kf17} a{\kf28} friss{\kf40} szél{\kf39}nek
+Dialogue: 0,0:01:15.33,0:01:17.53,DEFAULT,,0,0,0,,{\r}{\kf23}Vé{\kf17}ge{\kf29} van{\kf23} a{\kf23} hos{\kf23}szú{\kf23} té{\kf41}-él{\kf18}nek
+Dialogue: 0,0:01:17.53,0:01:19.38,DEFAULT,,0,0,0,,{\r}{\kf16}Ö{\kf16}rü{\kf21}lünk{\kf16} a{\kf32} friss{\kf42} szél{\kf42}nek
+Dialogue: 0,0:01:19.53,0:01:21.03,DEFAULT,,0,0,0,,{\r}{\kf12}Ö{\kf12}rü{\kf29}lünk{\kf17} a{\kf23} friss{\kf29} szél{\kf28}nek
+Dialogue: 0,0:01:21.23,0:01:23.33,DEFAULT,,0,0,0,,{\r}{\kf22}Kis{\kf22} ál{\kf28}lat{\kf22}kák{\kf28} moz{\kf50}dul{\kf38}nak
+Dialogue: 0,0:01:23.48,0:01:24.98,DEFAULT,,0,0,0,,{\r}{\kf24}E{\kf24}lég{\kf12} a{\kf36} tél{\kf30}ből{\kf24} már
+Dialogue: 0,0:01:25.03,0:01:27.33,DEFAULT,,0,0,0,,{\r}{\kf18}Mi{\kf30} éb{\kf24}reszt{\kf18}ge{\kf30}tünk{\kf36} csen{\kf30}de{\kf44}sen
+Dialogue: 0,0:01:27.43,0:01:29.03,DEFAULT,,0,0,0,,{\r}{\kf22}Si{\kf28}mi{\kf22} és{\kf22} jó{\kf33} szó{\kf33} jár
+Dialogue: 0,0:01:29.43,0:01:31.58,DEFAULT,,0,0,0,,{\r}{\kf17}E{\kf23}tet{\kf34}jük{\kf23} ő{\kf17}ket{\kf23} min{\kf34}den{\kf44}nel
+Dialogue: 0,0:01:31.63,0:01:33.23,DEFAULT,,0,0,0,,{\r}{\kf29}Rend{\kf17} lesz{\kf23} hir{\kf17}te{\kf74}len
+Dialogue: 0,0:01:33.43,0:01:35.78,DEFAULT,,0,0,0,,{\r}{\kf18}Ki{\kf30} dél{\kf30}ről{\kf18} vis{\kf18}sza{\kf30}szállt{\kf30}hoz{\kf61}zánk
+Dialogue: 0,0:01:35.88,0:01:38.48,DEFAULT,,0,0,0,,{\r}{\kf11}Ha{\kf17}za{\kf22} kedv{\kf17}vel{\kf22} ér{\kf50}kez{\kf121}zen
+Dialogue: 0,0:01:39.13,0:01:41.48,DEFAULT,,0,0,0,,{\r}{\kf29}Vé{\kf29}ge{\kf24} van{\kf24} a{\kf18} hos{\kf29}szú{\kf29} té{\kf35}-él{\kf18}nek
+Dialogue: 0,0:01:41.48,0:01:43.18,DEFAULT,,0,0,0,,{\r}{\kf11}És{\kf16} a{\kf16} vi{\kf33}lág{\kf22} új{\kf16}ra{\kf33}é{\kf23}led
+Dialogue: 0,0:01:43.18,0:01:45.38,DEFAULT,,0,0,0,,{\r}{\kf23}Vé{\kf23}ge{\kf23} van{\kf17} a{\kf17} hos{\kf29}szú{\kf29} té{\kf46}-él{\kf13}nek
+Dialogue: 0,0:01:45.38,0:01:47.18,DEFAULT,,0,0,0,,{\r}{\kf17}Ö{\kf17}rü{\kf22}lünk{\kf17} a{\kf28} friss{\kf45} szél{\kf34}nek
+Dialogue: 0,0:01:47.18,0:01:49.33,DEFAULT,,0,0,0,,{\r}{\kf23}Vé{\kf29}ge{\kf17} van{\kf23} a{\kf17} hos{\kf29}szú{\kf29} té{\kf35}-él{\kf13}nek
+Dialogue: 0,0:01:49.33,0:01:51.33,DEFAULT,,0,0,0,,{\r}{\kf16}Ö{\kf11}rü{\kf32}lünk{\kf16} a{\kf32} friss{\kf47} szél{\kf46}nek
+Dialogue: 0,0:01:51.38,0:01:52.93,DEFAULT,,0,0,0,,{\r}{\kf11}Ö{\kf11}rü{\kf29}lünk{\kf17} a{\kf23} friss{\kf29} szél{\kf35}nek
+Dialogue: 0,0:01:53.28,0:01:55.33,DEFAULT,,0,0,0,,{\r}{\kf22}Nem{\kf22} kön{\kf28}nyű{\kf22} itt{\kf17} a{\kf22} mun{\kf28}ka,{\kf44} nézd
+Dialogue: 0,0:01:55.53,0:01:57.08,DEFAULT,,0,0,0,,{\r}{\kf28}Föld{\kf17}be{\kf33} mag{\kf17} ke{\kf28}rül{\kf32} majd
+Dialogue: 0,0:01:57.43,0:01:59.48,DEFAULT,,0,0,0,,{\r}{\kf24}Gon{\kf18}dos{\kf24}ság{\kf42} kell{\kf24} és{\kf30} nap{\kf43}fény
+Dialogue: 0,0:01:59.73,0:02:01.03,DEFAULT,,0,0,0,,{\r}{\kf17}At{\kf28}tól{\kf23} mind{\kf17} ki{\kf45}hajt
+Dialogue: 0,0:02:01.28,0:02:02.98,DEFAULT,,0,0,0,,{\r}{\kf17}Al{\kf17}ma,{\kf23} ré{\kf23}pa,{\kf23} zel{\kf28}ler{\kf39}szál
+Dialogue: 0,0:02:03.13,0:02:04.93,DEFAULT,,0,0,0,,{\r}{\kf26}És{\kf11} a{\kf21} sok{\kf26} szép{\kf21} vi{\kf75}rág
+Dialogue: 0,0:02:05.23,0:02:07.03,DEFAULT,,0,0,0,,{\r}{\kf34}Van{\kf23} még{\kf23} mun{\kf28}kánk,{\kf17} tud{\kf17}juk{\kf38} jól
+Dialogue: 0,0:02:07.13,0:02:09.33,DEFAULT,,0,0,0,,{\r}{\kf15}És{\kf36} száz{\kf10} do{\kf20}log{\kf36} vár{\kf103} ránk
+Dialogue: 0,0:02:09.43,0:02:11.73,DEFAULT,,0,0,0,,{\r}{\kf29}Vé{\kf23}ge{\kf23} van{\kf17} a{\kf23} hos{\kf29}szú{\kf23} té{\kf52}-él{\kf11}nek
+Dialogue: 0,0:02:11.73,0:02:13.38,DEFAULT,,0,0,0,,{\r}{\kf16}És{\kf11} a{\kf11} vi{\kf28}lág{\kf33} új{\kf16}ra{\kf28}é{\kf22}led
+Dialogue: 0,0:02:13.38,0:02:15.68,DEFAULT,,0,0,0,,{\r}{\kf28}Vé{\kf22}ge{\kf28} van{\kf17} a{\kf22} hos{\kf22}szú{\kf34} té{\kf45}-él{\kf12}nek
+Dialogue: 0,0:02:15.68,0:02:17.38,DEFAULT,,0,0,0,,{\r}{\kf11}Ö{\kf17}rü{\kf17}lünk{\kf17} a{\kf28} friss{\kf51} szél{\kf29}nek
+Dialogue: 0,0:02:17.48,0:02:19.58,DEFAULT,,0,0,0,,{\r}{\kf17}Vé{\kf23}ge{\kf23} van{\kf17} a{\kf23} hos{\kf23}szú{\kf28} té{\kf45}-él{\kf11}nek
+Dialogue: 0,0:02:19.58,0:02:21.48,DEFAULT,,0,0,0,,{\r}{\kf17}Ö{\kf11}rü{\kf28}lünk{\kf17} a{\kf22} friss{\kf45} szél{\kf50}nek
+Dialogue: 0,0:02:21.58,0:02:23.18,DEFAULT,,0,0,0,,{\r}{\kf17}Ö{\kf11}rü{\kf29}lünk{\kf17} a{\kf23} friss{\kf29} szél{\kf34}nek
+Dialogue: 0,0:02:23.73,0:02:25.93,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf28}gen,{\kf17} a{\kf34} dol{\kf23}gom{\kf17} tu{\kf34}dom{\kf50} már
+Dialogue: 0,0:02:25.98,0:02:28.08,DEFAULT,,0,0,0,,{\r}{\kf22}A{\kf22} he{\kf27}lyem{\kf32} meg{\kf27}le{\kf80}lem
+Dialogue: 0,0:02:28.48,0:02:30.83,DEFAULT,,0,0,0,,{\r}{\kf18}Se{\kf30}gí{\kf30}tek{\kf48} szív{\kf30}ből{\kf18} jön{\kf12} a{\kf49} szó
+Dialogue: 0,0:02:30.98,0:02:32.78,DEFAULT,,0,0,0,,{\r}{\kf11}A{\kf33} dol{\kf33}gom{\kf22} ke{\kf22}re{\kf59}sem
+Dialogue: 0,0:02:33.23,0:02:35.73,DEFAULT,,0,0,0,,{\r}{\kf16}De{\kf27} hogy{\kf16}ha{\kf43} nincs{\kf22} ben{\kf27}nem{\kf27} va{\kf38}rázs{\kf34}lat
+Dialogue: 0,0:02:35.88,0:02:37.88,DEFAULT,,0,0,0,,{\r}{\kf22}Föl{\kf11}di{\kf39} pó{\kf33}nik,{\kf33} mit{\kf22} te{\kf40}gyek
+Dialogue: 0,0:02:38.13,0:02:40.63,DEFAULT,,0,0,0,,{\r}{\kf28}Én{\kf17} ve{\kf17}le{\kf34}tek{\kf40} vá{\kf34}gyom{\kf45} len{\kf35}ni
+Dialogue: 0,0:02:40.88,0:02:42.63,DEFAULT,,0,0,0,,{\r}{\kf23}Min{\kf35}dent{\kf35} meg{\kf18}te{\kf64}szek
+Dialogue: 0,0:02:43.18,0:02:46.93,DEFAULT,,0,0,0,,{\r}{\kf27}S ve{\kf21}le{\kf32}tek{\kf43} le{\kf252}szek
+Dialogue: 0,0:02:47.03,0:02:48.68,DEFAULT,,0,0,0,,{\r}{\kf18}És{\kf18} a{\kf12} vi{\kf29}lág{\kf24} új{\kf18}ra{\kf24}é{\kf22}led
+Dialogue: 0,0:02:48.78,0:02:50.98,DEFAULT,,0,0,0,,{\r}{\kf22}Vé{\kf22}ge{\kf22} van{\kf22} a{\kf22} hos{\kf28}szú{\kf28} té{\kf44}-él{\kf10}nek
+Dialogue: 0,0:02:50.98,0:02:52.63,DEFAULT,,0,0,0,,{\r}{\kf16}Ö{\kf16}rü{\kf22}lünk{\kf11} a{\kf28} friss{\kf44} szél{\kf28}nek
+Dialogue: 0,0:02:52.73,0:02:54.93,DEFAULT,,0,0,0,,{\r}{\kf23}Vé{\kf23}ge{\kf28} van{\kf23} a{\kf17} hos{\kf23}szú{\kf28} té{\kf45}-él{\kf10}nek
+Dialogue: 0,0:02:54.93,0:02:56.73,DEFAULT,,0,0,0,,{\r}{\kf12}Ö{\kf12}rü{\kf23}lünk{\kf23} a{\kf23} friss{\kf46} szél{\kf41}nek
+Dialogue: 0,0:02:56.83,0:02:58.53,DEFAULT,,0,0,0,,{\r}{\kf16}Ö{\kf11}rü{\kf27}lünk{\kf11} a{\kf22} friss{\kf27} szé{\kf22}-él{\kf34}nek
+Dialogue: 0,0:02:58.78,0:03:03.68,DEFAULT,,0,0,0,,{\r}{\kf10}Ö{\kf10}rü{\kf20}lünk{\kf15} a{\kf35} friss{\kf40} szél{\kf360}nek

@@ -1,53 +1,60 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Seré Muy Popular
+Artist: Mi Pequeño Pony
+Original Timing: mylittlekaraoke.com by yosoyyo
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:13.50,0:00:15.48,DEFAULT,,0,0,0,,{\kf22}Se{\kf19}ré{\kf22} la{\kf47} poni{\kf26} más{\kf19} famo{\kf33}sa
-Dialogue: 0,0:00:15.55,0:00:17.21,DEFAULT,,0,0,0,,{\kf19}de{\kf44} nues{\kf40}tra{\kf26} ciu{\kf26}dad
-Dialogue: 0,0:00:17.46,0:00:18.69,DEFAULT,,0,0,0,,{\kf15}Yo{\kf8} se{\kf29}ré{\kf22} el{\kf26} ejem{\kf19}plo
-Dialogue: 0,0:00:18.76,0:00:19.62,DEFAULT,,0,0,0,,{\kf22}de{\kf22} los{\kf29} po{\kf15}nis
-Dialogue: 0,0:00:19.70,0:00:21.21,DEFAULT,,0,0,0,,{\kf22} Y{\kf26} me{\kf26} ad{\kf15}mi{\kf37}ra{\kf29}rán
-Dialogue: 0,0:00:21.50,0:00:23.41,DEFAULT,,0,0,0,,{\kf22}Me{\kf22} mi{\kf22}ra{\kf29}rán{\kf22} yo{\kf55} soy
-Dialogue: 0,0:00:23.48,0:00:25.25,DEFAULT,,0,0,0,,{\kf15}una{\kf44} pre{\kf33}cio{\kf22}si{\kf33}dad
-Dialogue: 0,0:00:25.47,0:00:26.73,DEFAULT,,0,0,0,,{\kf15}Yo{\kf8} se{\kf22}ré{\kf19} el{\kf26} ejem{\kf26}plo
-Dialogue: 0,0:00:26.76,0:00:27.74,DEFAULT,,0,0,0,,{\kf22}de{\kf22} los{\kf29} po{\kf26}nis
-Dialogue: 0,0:00:27.77,0:00:29.36,DEFAULT,,0,0,0,,{\kf22}y{\kf22} me{\kf22} ad{\kf15}mi{\kf29}ra{\kf44}rán
-Dialogue: 0,0:00:30.51,0:00:33.62,DEFAULT,,0,0,0,,{\kf15}Se{\kf15}ré{\kf15} mu{\kf15}y{\kf22} po{\kf15}pu{\kf44}lar{\kf22} muy{\kf22} po{\kf22}pu{\kf26}lar{\kf29} lo{\kf40} se
-Dialogue: 0,0:00:34.70,0:00:35.49,DEFAULT,,0,0,0,,{\kf15}Un{\kf15} es{\kf15}ti{\kf37}lo
-Dialogue: 0,0:00:35.71,0:00:36.43,DEFAULT,,0,0,0,,{\kf15}Un{\kf15} es{\kf15}ti{\kf29}lo
-Dialogue: 0,0:00:36.43,0:00:38.37,DEFAULT,,0,0,0,,{\kf22}Nu{\kf19}evo{\kf19} cre{\kf58}a{\kf37}{\kf37}ré
-Dialogue: 0,0:00:38.81,0:00:40.47,DEFAULT,,0,0,0,,{\kf15}Un{\kf15}a{\kf44} nueva{\kf29} es{\kf22}tre{\kf29}lla
-Dialogue: 0,0:00:40.47,0:00:42.38,DEFAULT,,0,0,0,,{\kf11}En la{\kf51} alta{\kf37} so{\kf22}cie{\kf55}dad
-Dialogue: 0,0:00:42.70,0:00:44.68,DEFAULT,,0,0,0,,{\kf51}Sí,{\kf15} yo{\kf11} seré{\kf26} el{\kf22} e{\kf29}jem{\kf26}plo
-Dialogue: 0,0:00:44.72,0:00:45.73,DEFAULT,,0,0,0,,{\kf22}de{\kf22} los{\kf29} po{\kf29}nis
-Dialogue: 0,0:00:45.80,0:00:47.32,DEFAULT,,0,0,0,,{\kf15}Y{\kf22} me{\kf22} ad{\kf15}mi{\kf33}ra{\kf44}rán
-Dialogue: 0,0:00:48.40,0:00:49.44,DEFAULT,,0,0,0,,{\kf22}Es{\kf29}cu{\kf26}cha{\kf29}rán
-Dialogue: 0,0:00:49.48,0:00:52.15,DEFAULT,,0,0,0,,{\kf22}y{\kf26} pres{\kf15}ta{\kf33}rán{\kf22}{\kf37} aten{\kf101}ción
-Dialogue: 0,0:00:52.73,0:00:54.02,DEFAULT,,0,0,0,,{\kf22}Y{\kf26} bus{\kf22}ca{\kf22}rán{\kf37} siempre
-Dialogue: 0,0:00:54.06,0:00:56.19,DEFAULT,,0,0,0,,{\kf19}mi{\kf22} a{\kf22}pro{\kf33}va{\kf112}ción
-Dialogue: 0,0:00:56.69,0:00:58.50,DEFAULT,,0,0,0,,{\kf22}Soy{\kf19} la{\kf44} crème{\kf29} de{\kf26} la{\kf37} crème
-Dialogue: 0,0:00:58.50,0:01:01.02,DEFAULT,,0,0,0,,{\kf22}No{\kf26} un{\kf15}a{\kf22} más{\kf15} del{\kf40} mon{\kf109}tón
-Dialogue: 0,0:01:01.45,0:01:02.75,DEFAULT,,0,0,0,,{\kf15}Yo{\kf8} seré{\kf29} su{\kf19} e{\kf26}jem{\kf29}plo
-Dialogue: 0,0:01:02.75,0:01:03.62,DEFAULT,,0,0,0,,{\kf22}y{\kf22} e{\kf22}llos{\kf22} me
-Dialogue: 0,0:01:03.65,0:01:07.51,DEFAULT,,0,0,0,,{\kf62}admi{\kf101}ra{\kf224}-rán
-Dialogue: 0,0:01:07.80,0:01:09.75,DEFAULT,,0,0,0,,{\kf29}En{\kf44} casa{\kf29} en{\kf22} la{\kf37} ope{\kf29}ra
-Dialogue: 0,0:01:09.75,0:01:11.44,DEFAULT,,0,0,0,,{\kf22}O{\kf15} so{\kf51}bre{\kf37} el{\kf47} mar
-Dialogue: 0,0:01:11.55,0:01:12.56,DEFAULT,,0,0,0,,{\kf15}Ha{\kf15}bla{\kf15}rán{\kf22} de{\kf37} mi
-Dialogue: 0,0:01:12.92,0:01:14.07,DEFAULT,,0,0,0,,{\kf22}La{\kf29} más{\kf22} fa{\kf29}mo{\kf15}sa
-Dialogue: 0,0:01:14.14,0:01:15.44,DEFAULT,,0,0,0,,{\kf44}del{\kf29} lu{\kf58}gar
-Dialogue: 0,0:01:15.73,0:01:17.39,DEFAULT,,0,0,0,,{\kf22}Seré{\kf19} la{\kf40} crème{\kf37} de{\kf22} la{\kf29} crème
-Dialogue: 0,0:01:17.46,0:01:19.48,DEFAULT,,0,0,0,,{\kf29}No{\kf22} un{\kf15}a{\kf22} más{\kf22} del{\kf40} mon{\kf51}tón
-Dialogue: 0,0:01:19.62,0:01:21.64,DEFAULT,,0,0,0,,{\kf58}Sí,{\kf15} Yo{\kf15} seré{\kf29} el{\kf22} e{\kf26}jem{\kf22}plo
-Dialogue: 0,0:01:21.72,0:01:22.62,DEFAULT,,0,0,0,,{\kf22}de{\kf22} los{\kf29} po{\kf19}nis
-Dialogue: 0,0:01:22.73,0:01:27.27,DEFAULT,,0,0,0,,{\kf22}Y{\kf22} me{\kf29} ad{\kf15}mi{\kf58}ra{\kf47}rá{\kf264}-an
-Dialogue: 0,0:01:32.21,0:01:34.84,DEFAULT,,0,0,0,,{\kf22}Por{\kf37}que{\kf37} yo{\kf22} se{\kf40}ré{\kf26} la{\kf37} po{\kf37}ni
-Dialogue: 0,0:01:35.06,0:01:38.41,DEFAULT,,0,0,0,,{\kf29}Sí{\kf44} yo{\kf22} se{\kf40}ré{\kf29} la{\kf62} po{\kf109}ni
-Dialogue: 0,0:01:38.88,0:01:41.30,DEFAULT,,0,0,0,,{\kf29}Sí{\kf44} yo{\kf26} se{\kf40}ré{\kf33} su{\kf29} ejem{\kf33}plo
-Dialogue: 0,0:01:41.40,0:01:53.23,DEFAULT,,0,0,0,,{\kf37}Y{\kf26} ellos{\kf47} me{\kf69} admi{\kf166}ra{\kf794}rán
+Dialogue: 0,0:00:13.50,0:00:15.48,DEFAULT,,0,0,0,,{\r}{\kf23}Se{\kf19}ré{\kf23} la{\kf50} poni{\kf27} más{\kf19} famo{\kf37}sa
+Dialogue: 0,0:00:15.56,0:00:17.21,DEFAULT,,0,0,0,,{\r}{\kf20}de{\kf47} nues{\kf43}tra{\kf28} ciu{\kf28}dad
+Dialogue: 0,0:00:17.47,0:00:18.69,DEFAULT,,0,0,0,,{\r}{\kf15}Yo{\kf10} se{\kf31}ré{\kf23} el{\kf27} ejem{\kf17}plo
+Dialogue: 0,0:00:18.76,0:00:19.63,DEFAULT,,0,0,0,,{\r}{\kf22}de{\kf22} los{\kf29} po{\kf14}nis
+Dialogue: 0,0:00:19.70,0:00:21.22,DEFAULT,,0,0,0,,{\r}{\kf22} Y{\kf25} me{\kf25} ad{\kf14}mi{\kf36}ra{\kf29}rán
+Dialogue: 0,0:00:21.50,0:00:23.42,DEFAULT,,0,0,0,,{\r}{\kf24}Me{\kf24} mi{\kf24}ra{\kf33}rán{\kf24} yo{\kf62} soy
+Dialogue: 0,0:00:23.49,0:00:25.25,DEFAULT,,0,0,0,,{\r}{\kf18}una{\kf53} pre{\kf40}cio{\kf27}si{\kf39}dad
+Dialogue: 0,0:00:25.47,0:00:26.73,DEFAULT,,0,0,0,,{\r}{\kf16}Yo{\kf10} se{\kf24}ré{\kf20} el{\kf28} ejem{\kf28}plo
+Dialogue: 0,0:00:26.77,0:00:27.74,DEFAULT,,0,0,0,,{\r}{\kf22}de{\kf22} los{\kf29} po{\kf24}nis
+Dialogue: 0,0:00:27.78,0:00:29.37,DEFAULT,,0,0,0,,{\r}{\kf23}y{\kf23} me{\kf23} ad{\kf15}mi{\kf30}ra{\kf45}rán
+Dialogue: 0,0:00:30.52,0:00:33.62,DEFAULT,,0,0,0,,{\r}{\kf15}Se{\kf15}ré{\kf15} mu{\kf15}y{\kf23} po{\kf15}pu{\kf45}lar{\kf23} muy{\kf23} po{\kf23}pu{\kf26}lar{\kf30} lo{\kf42} se
+Dialogue: 0,0:00:34.70,0:00:35.50,DEFAULT,,0,0,0,,{\r}{\kf14}Un{\kf14} es{\kf14}ti{\kf37}lo
+Dialogue: 0,0:00:35.71,0:00:36.43,DEFAULT,,0,0,0,,{\r}{\kf14}Un{\kf14} es{\kf14}ti{\kf30}lo
+Dialogue: 0,0:00:36.43,0:00:38.38,DEFAULT,,0,0,0,,{\r}{\kf28}Nu{\kf23}evo{\kf23} cre{\kf74}a{\kf47}ré
+Dialogue: 0,0:00:38.81,0:00:40.47,DEFAULT,,0,0,0,,{\r}{\kf16}Un{\kf16}a{\kf47} nueva{\kf32} es{\kf24}tre{\kf31}lla
+Dialogue: 0,0:00:40.47,0:00:42.38,DEFAULT,,0,0,0,,{\r}{\kf12}En la{\kf56} alta{\kf40} so{\kf24}cie{\kf59}dad
+Dialogue: 0,0:00:42.71,0:00:44.69,DEFAULT,,0,0,0,,{\r}{\kf57}Sí,{\kf16} yo{\kf12} seré{\kf28} el{\kf24} e{\kf32}jem{\kf29}plo
+Dialogue: 0,0:00:44.73,0:00:45.74,DEFAULT,,0,0,0,,{\r}{\kf22}de{\kf22} los{\kf29} po{\kf28}nis
+Dialogue: 0,0:00:45.81,0:00:47.32,DEFAULT,,0,0,0,,{\r}{\kf15}Y{\kf22} me{\kf22} ad{\kf15}mi{\kf33}ra{\kf44}rán
+Dialogue: 0,0:00:48.40,0:00:49.45,DEFAULT,,0,0,0,,{\r}{\kf22}Es{\kf29}cu{\kf25}cha{\kf29}rán
+Dialogue: 0,0:00:49.49,0:00:52.15,DEFAULT,,0,0,0,,{\r}{\kf25}y{\kf29} pres{\kf17}ta{\kf38}rán{\kf42} aten{\kf116}ción
+Dialogue: 0,0:00:52.73,0:00:54.03,DEFAULT,,0,0,0,,{\r}{\kf22}Y{\kf26} bus{\kf22}ca{\kf22}rán{\kf38} siempre
+Dialogue: 0,0:00:54.06,0:00:56.19,DEFAULT,,0,0,0,,{\r}{\kf19}mi{\kf22} a{\kf22}pro{\kf34}va{\kf116}ción
+Dialogue: 0,0:00:56.70,0:00:58.50,DEFAULT,,0,0,0,,{\r}{\kf22}Soy{\kf19} la{\kf45} crème{\kf30} de{\kf26} la{\kf38} crème
+Dialogue: 0,0:00:58.50,0:01:01.02,DEFAULT,,0,0,0,,{\r}{\kf22}No{\kf26} un{\kf15}a{\kf22} más{\kf15} del{\kf41} mon{\kf111}tón
+Dialogue: 0,0:01:01.46,0:01:02.75,DEFAULT,,0,0,0,,{\r}{\kf15}Yo{\kf10} seré{\kf31} su{\kf19} e{\kf27}jem{\kf28}plo
+Dialogue: 0,0:01:02.75,0:01:03.62,DEFAULT,,0,0,0,,{\r}{\kf22}y{\kf22} e{\kf22}llos{\kf21} me
+Dialogue: 0,0:01:03.66,0:01:07.51,DEFAULT,,0,0,0,,{\r}{\kf61}admi{\kf101}ra{\kf224}-rán
+Dialogue: 0,0:01:07.80,0:01:09.75,DEFAULT,,0,0,0,,{\r}{\kf30}En{\kf45} casa{\kf30} en{\kf22} la{\kf38} ope{\kf30}ra
+Dialogue: 0,0:01:09.75,0:01:11.44,DEFAULT,,0,0,0,,{\r}{\kf22}O{\kf14} so{\kf50}bre{\kf36} el{\kf47} mar
+Dialogue: 0,0:01:11.55,0:01:12.56,DEFAULT,,0,0,0,,{\r}{\kf14}Ha{\kf14}bla{\kf14}rán{\kf22} de{\kf37} mi
+Dialogue: 0,0:01:12.92,0:01:14.08,DEFAULT,,0,0,0,,{\r}{\kf22}La{\kf29} más{\kf22} fa{\kf29}mo{\kf13}sa
+Dialogue: 0,0:01:14.15,0:01:15.45,DEFAULT,,0,0,0,,{\r}{\kf43}del{\kf29} lu{\kf58}gar
+Dialogue: 0,0:01:15.74,0:01:17.39,DEFAULT,,0,0,0,,{\r}{\kf22}Seré{\kf18} la{\kf40} crème{\kf36} de{\kf22} la{\kf28} crème
+Dialogue: 0,0:01:17.47,0:01:19.49,DEFAULT,,0,0,0,,{\r}{\kf29}No{\kf22} un{\kf15}a{\kf22} más{\kf22} del{\kf40} mon{\kf52}tón
+Dialogue: 0,0:01:19.63,0:01:21.65,DEFAULT,,0,0,0,,{\r}{\kf63}Sí,{\kf16} Yo{\kf16} seré{\kf32} el{\kf24} e{\kf28}jem{\kf23}plo
+Dialogue: 0,0:01:21.72,0:01:22.62,DEFAULT,,0,0,0,,{\r}{\kf22}de{\kf22} los{\kf29} po{\kf17}nis
+Dialogue: 0,0:01:22.73,0:01:27.27,DEFAULT,,0,0,0,,{\r}{\kf22}Y{\kf22} me{\kf29} ad{\kf14}mi{\kf58}ra{\kf47}rá{\kf262}-an
+Dialogue: 0,0:01:32.21,0:01:34.85,DEFAULT,,0,0,0,,{\r}{\kf23}Por{\kf38}que{\kf38} yo{\kf23} se{\kf41}ré{\kf26} la{\kf38} po{\kf36}ni
+Dialogue: 0,0:01:35.06,0:01:38.42,DEFAULT,,0,0,0,,{\r}{\kf29}Sí{\kf44} yo{\kf22} se{\kf40}ré{\kf29} la{\kf62} po{\kf109}ni
+Dialogue: 0,0:01:38.88,0:01:41.30,DEFAULT,,0,0,0,,{\r}{\kf30}Sí{\kf45} yo{\kf26} se{\kf42}ré{\kf34} su{\kf30} ejem{\kf35}plo
+Dialogue: 0,0:01:41.41,0:01:53.24,DEFAULT,,0,0,0,,{\r}{\kf38}Y{\kf26} ellos{\kf49} me{\kf71} admi{\kf173}ra{\kf826}rán

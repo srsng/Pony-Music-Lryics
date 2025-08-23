@@ -1,46 +1,53 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Touch Me
+Artist: Wasteland Wailers
+Original Timing: mylittlekaraoke.com by Dex
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:11.93,0:00:12.82,DEFAULT,,0,0,0,,{\kf32}Touch{\kf50} me
-Dialogue: 0,0:00:14.84,0:00:17.88,DEFAULT,,0,0,0,,{\kf37}Like{\kf32} I'm{\kf21} the{\kf16} on{\kf142}~{\kf24}ly
-Dialogue: 0,0:00:19.19,0:00:22.30,DEFAULT,,0,0,0,,{\kf16}Lit{\kf19}tle{\kf29} po{\kf48}ny{\kf24} on{\kf14} the{\kf11} fa{\kf11}~{\kf37}~rm
-Dialogue: 0,0:00:22.43,0:00:24.11,DEFAULT,,0,0,0,,{\kf14}Get{\kf8}tin'{\kf11} a{\kf35} ride{\kf40}~{\kf11} to{\kf24}night
-Dialogue: 0,0:00:27.91,0:00:28.77,DEFAULT,,0,0,0,,{\kf27}Kiss{\kf50} me
-Dialogue: 0,0:00:31.23,0:00:33.04,DEFAULT,,0,0,0,,{\kf42}Like{\kf27} you{\kf21} want{\kf50}~{\kf29} me
-Dialogue: 0,0:00:35.16,0:00:36.55,DEFAULT,,0,0,0,,{\kf14}And{\kf11} this{\kf32} world{\kf27} ain't{\kf24} on{\kf11}ly
-Dialogue: 0,0:00:37.28,0:00:40.69,DEFAULT,,0,0,0,,{\kf21}Full{\kf19} of{\kf14} war{\kf11}~{\kf58}~{\kf19} and{\kf19}~{\kf21} up{\kf35}side{\kf63} down
-Dialogue: 0,0:00:43.41,0:00:47.65,DEFAULT,,0,0,0,,{\kf21}I{\kf37}~{\kf35} won't{\kf24} pre{\kf11}tend{\kf11}~{\kf37}~{\kf21} to{\kf19} phi{\kf42}lo{\kf24}so{\kf19}phize{\kf14}~{\kf48}~
-Dialogue: 0,0:00:47.91,0:00:50.27,DEFAULT,,0,0,0,,{\kf29}There's{\kf24} too{\kf27} much{\kf19} work{\kf24}~{\kf14} to{\kf42} do
-Dialogue: 0,0:00:51.89,0:00:55.51,DEFAULT,,0,0,0,,{\kf16}It's{\kf48} hard{\kf27} e{\kf16}nough{\kf24}~{\kf14} to{\kf48} just{\kf16} sur{\kf24}vive{\kf53}~
-Dialogue: 0,0:00:55.90,0:00:58.73,DEFAULT,,0,0,0,,{\kf14}What{\kf24} e{\kf16}very{\kf29}po{\kf16}ny{\kf24} throws{\kf21}~{\kf16} at{\kf92} you
-Dialogue: 0,0:00:59.72,0:01:00.90,DEFAULT,,0,0,0,,{\kf21}So{\kf32} love{\kf55} me
-Dialogue: 0,0:01:03.20,0:01:05.98,DEFAULT,,0,0,0,,{\kf16}En{\kf19}~{\kf19}dea{\kf124}~{\kf50}ring{\kf32}ly
-Dialogue: 0,0:01:07.08,0:01:09.04,DEFAULT,,0,0,0,,{\kf21}Lead{\kf19} me{\kf29} o{\kf16}ver,{\kf19} let's{\kf37} see
-Dialogue: 0,0:01:09.62,0:01:12.24,DEFAULT,,0,0,0,,{\kf11}C'{\kf21}mon{\kf19} swee{\kf14}tie{\kf48} let's{\kf16} do{\kf19} it{\kf71} now
-Dialogue: 0,0:01:15.77,0:01:16.72,DEFAULT,,0,0,0,,{\kf32}Hold{\kf58} me
-Dialogue: 0,0:01:18.97,0:01:22.24,DEFAULT,,0,0,0,,{\kf37}Like{\kf24} you{\kf35} miss{\kf131}~{\kf19} me{\kf16}~{\kf27}~
-Dialogue: 0,0:01:23.05,0:01:25.12,DEFAULT,,0,0,0,,{\kf16}Get{\kf16} to{\kf21} know{\kf16} me,{\kf19} don't{\kf21} throw{\kf16} me
-Dialogue: 0,0:01:25.78,0:01:28.37,DEFAULT,,0,0,0,,{\kf24}Ba{\kf14}by{\kf19} I{\kf21} can{\kf21} be{\kf16} all{\kf24}~{\kf92} yours
-Dialogue: 0,0:01:31.41,0:01:34.99,DEFAULT,,0,0,0,,{\kf21}Who{\kf45} needs{\kf16} a{\kf14} life{\kf14}~{\kf40}~,{\kf48} short{\kf16} or{\kf14} long{\kf37}~
-Dialogue: 0,0:01:35.49,0:01:37.90,DEFAULT,,0,0,0,,{\kf11}Tied{\kf21}~{\kf16}~{\kf24} to{\kf14} a{\kf42} lone{\kf19}ly{\kf14} post{\kf27}~?
-Dialogue: 0,0:01:39.39,0:01:42.80,DEFAULT,,0,0,0,,{\kf11}I{\kf37} on{\kf16}ly{\kf16} want{\kf35}~{\kf19} what's{\kf19} best{\kf24}~{\kf21} for{\kf19} us{\kf24}~
-Dialogue: 0,0:01:43.40,0:01:46.31,DEFAULT,,0,0,0,,{\kf8}And{\kf29} us{\kf11} is{\kf29} what{\kf11} we{\kf14} both{\kf8}~{\kf16}~{\kf40} need{\kf79} most
-Dialogue: 0,0:02:03.22,0:02:04.14,DEFAULT,,0,0,0,,{\kf32}Trust{\kf53} me
-Dialogue: 0,0:02:06.18,0:02:09.43,DEFAULT,,0,0,0,,{\kf16}I{\kf21}~{\kf32} think{\kf29} that{\kf21} you'll{\kf116}~{\kf19} a{\kf29}gree
-Dialogue: 0,0:02:10.08,0:02:12.36,DEFAULT,,0,0,0,,{\kf21}There{\kf21} ain't{\kf24} no{\kf14} o{\kf11}ther{\kf14} love{\kf37}~{\kf21} like{\kf27} me
-Dialogue: 0,0:02:12.91,0:02:15.55,DEFAULT,,0,0,0,,{\kf14}And{\kf21} you,{\kf21} ba{\kf14}by{\kf16} through{\kf19} and{\kf21} through{\kf35}~
-Dialogue: 0,0:02:18.96,0:02:20.29,DEFAULT,,0,0,0,,{\kf24}Heal{\kf40}~{\kf16} me{\kf35}~
-Dialogue: 0,0:02:22.08,0:02:25.79,DEFAULT,,0,0,0,,{\kf45}So{\kf40}~{\kf21} pa{\kf55}~{\kf53}ssion{\kf45}ate{\kf19}ly{\kf50}~
-Dialogue: 0,0:02:26.34,0:02:28.52,DEFAULT,,0,0,0,,{\kf24}Break{\kf19} me{\kf40} in{\kf45} may{\kf16}be{\kf11}~{\kf40}~
-Dialogue: 0,0:02:29.56,0:02:31.87,DEFAULT,,0,0,0,,{\kf40}Cuz{\kf29} love's{\kf27}~{\kf11} a{\kf16} re{\kf14}me{\kf50}dy{\kf24}~
-Dialogue: 0,0:02:33.62,0:02:36.22,DEFAULT,,0,0,0,,{\kf37}Our{\kf50} love's{\kf14} a{\kf14} re{\kf14}me{\kf37}dy{\kf69}~
-Dialogue: 0,0:02:37.63,0:02:40.22,DEFAULT,,0,0,0,,{\kf45}Our{\kf16}~{\kf42} love's{\kf19} a{\kf21} re{\kf21}me{\kf32}dy{\kf21}~
-Dialogue: 0,0:02:41.69,0:02:47.97,DEFAULT,,0,0,0,,{\kf35}Our{\kf50} love's{\kf14} a{\kf14} re{\kf14}me{\kf24}dy{\kf446}~
+Dialogue: 0,0:00:11.94,0:00:12.83,DEFAULT,,0,0,0,,{\r}{\kf34}Touch{\kf55} me
+Dialogue: 0,0:00:14.85,0:00:17.88,DEFAULT,,0,0,0,,{\r}{\kf41}Like{\kf35} I'm{\kf24} the{\kf18} on{\kf159}~{\kf27}ly
+Dialogue: 0,0:00:19.19,0:00:22.31,DEFAULT,,0,0,0,,{\r}{\kf24}Lit{\kf28}tle{\kf44} po{\kf72}ny{\kf36} on{\kf20} the{\kf16} fa{\kf16}~{\kf56}~rm
+Dialogue: 0,0:00:22.44,0:00:24.12,DEFAULT,,0,0,0,,{\r}{\kf16}Get{\kf10}tin'{\kf13} a{\kf41} ride{\kf48}~{\kf13} to{\kf27}night
+Dialogue: 0,0:00:27.91,0:00:28.78,DEFAULT,,0,0,0,,{\r}{\kf30}Kiss{\kf56} me
+Dialogue: 0,0:00:31.24,0:00:33.04,DEFAULT,,0,0,0,,{\r}{\kf45}Like{\kf28} you{\kf23} want{\kf54}~{\kf31} me
+Dialogue: 0,0:00:35.17,0:00:36.55,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf13} this{\kf38} world{\kf32} ain't{\kf28} on{\kf12}ly
+Dialogue: 0,0:00:37.29,0:00:40.69,DEFAULT,,0,0,0,,{\r}{\kf26}Full{\kf23} of{\kf16} war{\kf13}~{\kf71}~{\kf23} and{\kf23}~{\kf26} up{\kf42}side{\kf77} down
+Dialogue: 0,0:00:43.41,0:00:47.66,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf44}~{\kf41} won't{\kf28} pre{\kf12}tend{\kf12}~{\kf44}~{\kf25} to{\kf22} phi{\kf50}lo{\kf28}so{\kf22}phize{\kf16}~{\kf55}~
+Dialogue: 0,0:00:47.92,0:00:50.27,DEFAULT,,0,0,0,,{\r}{\kf39}There's{\kf32} too{\kf35} much{\kf25} work{\kf32}~{\kf18} to{\kf55} do
+Dialogue: 0,0:00:51.90,0:00:55.51,DEFAULT,,0,0,0,,{\r}{\kf20}It's{\kf61} hard{\kf34} e{\kf20}nough{\kf30}~{\kf17} to{\kf61} just{\kf20} sur{\kf30}vive{\kf68}~
+Dialogue: 0,0:00:55.90,0:00:58.73,DEFAULT,,0,0,0,,{\r}{\kf15}What{\kf27} e{\kf18}very{\kf33}po{\kf18}ny{\kf27} throws{\kf24}~{\kf18} at{\kf103} you
+Dialogue: 0,0:00:59.73,0:01:00.91,DEFAULT,,0,0,0,,{\r}{\kf23}So{\kf35} love{\kf60} me
+Dialogue: 0,0:01:03.21,0:01:05.99,DEFAULT,,0,0,0,,{\r}{\kf17}En{\kf20}~{\kf20}dea{\kf133}~{\kf54}ring{\kf34}ly
+Dialogue: 0,0:01:07.09,0:01:09.05,DEFAULT,,0,0,0,,{\r}{\kf30}Lead{\kf26} me{\kf41} o{\kf22}ver,{\kf26} let's{\kf51} see
+Dialogue: 0,0:01:09.63,0:01:12.24,DEFAULT,,0,0,0,,{\r}{\kf13}C'{\kf26}mon{\kf22} swee{\kf16}tie{\kf58} let's{\kf19} do{\kf22} it{\kf86} now
+Dialogue: 0,0:01:15.78,0:01:16.72,DEFAULT,,0,0,0,,{\r}{\kf33}Hold{\kf61} me
+Dialogue: 0,0:01:18.97,0:01:22.25,DEFAULT,,0,0,0,,{\r}{\kf42}Like{\kf27} you{\kf39} miss{\kf150}~{\kf21} me{\kf18}~{\kf30}~
+Dialogue: 0,0:01:23.06,0:01:25.13,DEFAULT,,0,0,0,,{\r}{\kf26}Get{\kf26} to{\kf35} know{\kf26} me,{\kf31} don't{\kf35} throw{\kf28} me
+Dialogue: 0,0:01:25.78,0:01:28.37,DEFAULT,,0,0,0,,{\r}{\kf27}Ba{\kf15}by{\kf21} I{\kf24} can{\kf24} be{\kf18} all{\kf27}~{\kf103} yours
+Dialogue: 0,0:01:31.41,0:01:35.00,DEFAULT,,0,0,0,,{\r}{\kf29}Who{\kf62} needs{\kf22} a{\kf18} life{\kf18}~{\kf54}~,{\kf65} short{\kf22} or{\kf18} long{\kf51}~
+Dialogue: 0,0:01:35.50,0:01:37.91,DEFAULT,,0,0,0,,{\r}{\kf14}Tied{\kf28}~{\kf21}~{\kf31} to{\kf17} a{\kf55} lone{\kf24}ly{\kf17} post{\kf34}~?
+Dialogue: 0,0:01:39.40,0:01:42.80,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf53} on{\kf23}ly{\kf23} want{\kf49}~{\kf26} what's{\kf26} best{\kf34}~{\kf30} for{\kf26} us{\kf35}~
+Dialogue: 0,0:01:43.40,0:01:46.31,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf35} us{\kf13} is{\kf35} what{\kf13} we{\kf16} both{\kf10}~{\kf19}~{\kf47} need{\kf93} most
+Dialogue: 0,0:02:03.23,0:02:04.14,DEFAULT,,0,0,0,,{\r}{\kf34}Trust{\kf58} me
+Dialogue: 0,0:02:06.19,0:02:09.43,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf24}~{\kf36} think{\kf33} that{\kf24} you'll{\kf134}~{\kf21} a{\kf35}gree
+Dialogue: 0,0:02:10.09,0:02:12.37,DEFAULT,,0,0,0,,{\r}{\kf26}There{\kf26} ain't{\kf29} no{\kf16} o{\kf13}ther{\kf16} love{\kf45}~{\kf26} like{\kf31} me
+Dialogue: 0,0:02:12.92,0:02:15.56,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf35} you,{\kf35} ba{\kf22}by{\kf26} through{\kf31} and{\kf35} through{\kf58}~
+Dialogue: 0,0:02:18.96,0:02:20.30,DEFAULT,,0,0,0,,{\r}{\kf28}Heal{\kf47}~{\kf19} me{\kf40}~
+Dialogue: 0,0:02:22.08,0:02:25.80,DEFAULT,,0,0,0,,{\r}{\kf51}So{\kf45}~{\kf24} pa{\kf63}~{\kf60}ssion{\kf51}ate{\kf21}ly{\kf57}~
+Dialogue: 0,0:02:26.35,0:02:28.52,DEFAULT,,0,0,0,,{\r}{\kf27}Break{\kf21} me{\kf45} in{\kf51} may{\kf18}be{\kf12}~{\kf43}~
+Dialogue: 0,0:02:29.57,0:02:31.87,DEFAULT,,0,0,0,,{\r}{\kf44}Cuz{\kf32} love's{\kf29}~{\kf12} a{\kf17} re{\kf15}me{\kf55}dy{\kf26}~
+Dialogue: 0,0:02:33.63,0:02:36.22,DEFAULT,,0,0,0,,{\r}{\kf41}Our{\kf56} love's{\kf15} a{\kf15} re{\kf15}me{\kf41}dy{\kf76}~
+Dialogue: 0,0:02:37.63,0:02:40.23,DEFAULT,,0,0,0,,{\r}{\kf54}Our{\kf19}~{\kf51} love's{\kf22} a{\kf25} re{\kf25}me{\kf38}dy{\kf25}~
+Dialogue: 0,0:02:41.69,0:02:47.98,DEFAULT,,0,0,0,,{\r}{\kf36}Our{\kf53} love's{\kf14} a{\kf14} re{\kf14}me{\kf25}dy{\kf472}~

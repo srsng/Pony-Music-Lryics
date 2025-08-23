@@ -1,91 +1,98 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Harmony of Life
+Artist: Warbalist, Metal-Mare, Dalken Starbyne
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:45.45,0:00:47.10,DEFAULT,,0,0,0,,{\kf17}Be{\kf133} strong
-Dialogue: 0,0:00:47.43,0:00:51.03,DEFAULT,,0,0,0,,{\kf17}The{\kf29} song{\kf21} of{\kf34} life{\kf25} is{\kf149} long
-Dialogue: 0,0:00:51.48,0:00:54.21,DEFAULT,,0,0,0,,{\kf17}Per{\kf29}for{\kf25}mance{\kf29} is{\kf25}n't{\kf71} wrong
-Dialogue: 0,0:00:54.42,0:00:57.31,DEFAULT,,0,0,0,,{\kf17}But{\kf21} when{\kf29} you{\kf38} play{\kf25} out{\kf34} of{\kf42} key
-Dialogue: 0,0:00:57.77,0:01:01.15,DEFAULT,,0,0,0,,{\kf38}The{\kf21} dis{\kf21}cor{\kf29}dance{\kf29} serves{\kf29} to{\kf29} on{\kf34}ly
-Dialogue: 0,0:01:01.36,0:01:02.93,DEFAULT,,0,0,0,,{\kf158}Break
-Dialogue: 0,0:01:03.34,0:01:06.69,DEFAULT,,0,0,0,,{\kf17}So{\kf21} have{\kf25} a{\kf38}no{\kf29}ther{\kf137} take
-Dialogue: 0,0:01:07.56,0:01:10.04,DEFAULT,,0,0,0,,{\kf17}See{\kf13} now{\kf21} what's{\kf29} all{\kf25} at{\kf25} stake{\kf46}~
-Dialogue: 0,0:01:10.29,0:01:13.22,DEFAULT,,0,0,0,,{\kf21}Bring{\kf17}ing{\kf29} your{\kf42}self{\kf25} in{\kf34}to{\kf46} tune
-Dialogue: 0,0:01:13.51,0:01:16.61,DEFAULT,,0,0,0,,{\kf42}Helps{\kf21} to{\kf17} or{\kf25}ches{\kf137}trate
-Dialogue: 0,0:01:17.23,0:01:19.05,DEFAULT,,0,0,0,,{\kf21}Re{\kf153}late
-Dialogue: 0,0:01:19.46,0:01:22.68,DEFAULT,,0,0,0,,{\kf21}E{\kf25}very{\kf34} step{\kf29} you{\kf25} take{\kf124}~
-Dialogue: 0,0:01:22.93,0:01:24.71,DEFAULT,,0,0,0,,{\kf17}To{\kf17} this{\kf124} aim
-Dialogue: 0,0:01:25.12,0:01:26.94,DEFAULT,,0,0,0,,{\kf13}Al{\kf153}though
-Dialogue: 0,0:01:27.35,0:01:30.41,DEFAULT,,0,0,0,,{\kf21}We{\kf34} have{\kf29} dif{\kf29}ferent{\kf133} names
-Dialogue: 0,0:01:30.66,0:01:32.93,DEFAULT,,0,0,0,,{\kf17}We're{\kf13} the{\kf174} same
-Dialogue: 0,0:01:33.43,0:01:34.87,DEFAULT,,0,0,0,,{\kf145}We
-Dialogue: 0,0:01:35.08,0:01:38.63,DEFAULT,,0,0,0,,{\kf17}All{\kf21} have{\kf29} our{\kf29} parts{\kf29} to{\kf158} play
-Dialogue: 0,0:01:39.05,0:01:41.73,DEFAULT,,0,0,0,,{\kf17}If{\kf25} we{\kf21} just{\kf29} meet{\kf38} half{\kf58}way
-Dialogue: 0,0:01:42.10,0:01:48.72,DEFAULT,,0,0,0,,{\kf42}You'll{\kf38} see{\kf54} dis{\kf58}so{\kf34}nance{\kf166} fall{\kf17} a{\kf149}way
-Dialogue: 0,0:01:49.38,0:01:50.78,DEFAULT,,0,0,0,,{\kf141}We
-Dialogue: 0,0:01:51.15,0:01:54.54,DEFAULT,,0,0,0,,{\kf21}Are{\kf34} per{\kf34}fec{\kf34}tly{\kf29} wrote{\kf124}~
-Dialogue: 0,0:01:54.91,0:01:57.64,DEFAULT,,0,0,0,,{\kf13}So{\kf25} now{\kf34} take{\kf34} up{\kf29} this{\kf25} oath{\kf46}~
-Dialogue: 0,0:01:57.89,0:02:04.50,DEFAULT,,0,0,0,,{\kf17}To{\kf50} lift{\kf25} up{\kf25} e{\kf21}very{\kf46} sin{\kf25}gle{\kf21} note{\kf21}~{\kf124}~{\kf21}~{\kf149}~
-Dialogue: 0,0:02:05.08,0:02:06.48,DEFAULT,,0,0,0,,{\kf141}Like
-Dialogue: 0,0:02:07.06,0:02:10.41,DEFAULT,,0,0,0,,{\kf17}A{\kf29} grand{\kf34} sym{\kf34}pho{\kf21}ny{\kf137}~
-Dialogue: 0,0:02:10.78,0:02:14.29,DEFAULT,,0,0,0,,{\kf17}Per{\kf17}fect{\kf34} po{\kf29}ly{\kf34}pho{\kf25}ny{\kf116}~
-Dialogue: 0,0:02:14.71,0:02:20.49,DEFAULT,,0,0,0,,{\kf17}Is{\kf21} in{\kf38} di{\kf29}ver{\kf29}si{\kf17}ty{\kf158}~{\kf13}~{\kf13}~{\kf158}~
-Dialogue: 0,0:02:21.07,0:02:22.27,DEFAULT,,0,0,0,,{\kf120}Notes
-Dialogue: 0,0:02:22.60,0:02:26.32,DEFAULT,,0,0,0,,{\kf13}Of{\kf21} dif{\kf34}ferent{\kf34} co{\kf42}lors -{\kf149} We
-Dialogue: 0,0:02:26.86,0:02:29.13,DEFAULT,,0,0,0,,{\kf25}Make{\kf25} up{\kf29} all{\kf29} we{\kf21} see{\kf25}~
-Dialogue: 0,0:02:29.38,0:02:34.75,DEFAULT,,0,0,0,,{\kf21}And{\kf54} hear{\kf21} to{\kf50}ge{\kf25}ther{\kf38} we{\kf38} are{\kf182} one
-Dialogue: 0,0:02:36.53,0:02:38.18,DEFAULT,,0,0,0,,{\kf21}For{\kf129} now
-Dialogue: 0,0:02:38.55,0:02:42.02,DEFAULT,,0,0,0,,{\kf17}For{\kf17}e{\kf29}ver{\kf25} and{\kf25} a{\kf149} day
-Dialogue: 0,0:02:42.48,0:02:45.20,DEFAULT,,0,0,0,,{\kf21}Our{\kf21} crown{\kf25}ing{\kf29} har{\kf38}mo{\kf71}ny
-Dialogue: 0,0:02:45.45,0:02:47.77,DEFAULT,,0,0,0,,{\kf17}Will{\kf21} spill{\kf25} in{\kf29}to{\kf38} the{\kf29} air
-Dialogue: 0,0:02:47.97,0:02:49.91,DEFAULT,,0,0,0,,{\kf62}Tim{\kf54}pa{\kf17}nys{\kf21} hit
-Dialogue: 0,0:02:50.45,0:02:52.02,DEFAULT,,0,0,0,,{\kf34}Trum{\kf29}pets{\kf54} blare
-Dialogue: 0,0:02:52.43,0:02:54.09,DEFAULT,,0,0,0,,{\kf17}The{\kf137} stage
-Dialogue: 0,0:02:54.38,0:02:57.93,DEFAULT,,0,0,0,,{\kf17}Is{\kf25} set{\kf21} for{\kf29} you{\kf29} to{\kf34} un{\kf104}leash
-Dialogue: 0,0:02:58.22,0:03:00.04,DEFAULT,,0,0,0,,{\kf13}Who{\kf13} you{\kf137} are
-Dialogue: 0,0:03:00.33,0:03:05.57,DEFAULT,,0,0,0,,{\kf21}U{\kf149}ni{\kf21}quely{\kf25} sound{\kf29}ing{\kf38} rhyth{\kf34}mic{\kf21} bars{\kf21}~{\kf75}~
-Dialogue: 0,0:03:05.86,0:03:07.89,DEFAULT,,0,0,0,,{\kf13}Ne{\kf13}ver{\kf153} far
-Dialogue: 0,0:03:08.30,0:03:09.91,DEFAULT,,0,0,0,,{\kf13}Are{\kf137} those
-Dialogue: 0,0:03:10.24,0:03:13.88,DEFAULT,,0,0,0,,{\kf17}Who{\kf21} raise{\kf34} their{\kf38} voi{\kf17}ces{\kf13}~{\kf21} high{\kf129}~
-Dialogue: 0,0:03:14.21,0:03:17.06,DEFAULT,,0,0,0,,{\kf17}From{\kf21} e{\kf25}very{\kf34} walk{\kf34} of{\kf29} life{\kf42}~
-Dialogue: 0,0:03:17.31,0:03:24.09,DEFAULT,,0,0,0,,{\kf58}Can{\kf25} be{\kf50} heard{\kf38} in{\kf34} the{\kf50} choir{\kf83}~{\kf17}~{\kf17}~{\kf158}~
-Dialogue: 0,0:03:24.50,0:03:25.95,DEFAULT,,0,0,0,,{\kf145}We
-Dialogue: 0,0:03:26.36,0:03:29.75,DEFAULT,,0,0,0,,{\kf17}Are{\kf29} per{\kf29}fec{\kf29}tly{\kf25} wrote{\kf21}~{\kf108}~
-Dialogue: 0,0:03:30.08,0:03:32.89,DEFAULT,,0,0,0,,{\kf17}So{\kf17} now{\kf29} take{\kf29} up{\kf29} this{\kf21} oath{\kf54}~
-Dialogue: 0,0:03:33.14,0:03:39.58,DEFAULT,,0,0,0,,{\kf17}To{\kf50} lift{\kf17} up{\kf21} e{\kf29}very{\kf38} sin{\kf34}gle{\kf25} note{\kf25}~{\kf104}~{\kf17}~{\kf13}~{\kf13}~{\kf120}~
-Dialogue: 0,0:03:40.33,0:03:41.90,DEFAULT,,0,0,0,,{\kf158}Like
-Dialogue: 0,0:03:42.23,0:03:45.41,DEFAULT,,0,0,0,,{\kf17}A{\kf29} grand{\kf38} sym{\kf29}pho{\kf34}ny{\kf104}~
-Dialogue: 0,0:03:45.99,0:03:49.46,DEFAULT,,0,0,0,,{\kf17}Per{\kf17}fect{\kf29} po{\kf38}ly{\kf42}pho{\kf25}ny{\kf116}~
-Dialogue: 0,0:03:49.91,0:03:55.74,DEFAULT,,0,0,0,,{\kf17}Is{\kf17} in{\kf34} di{\kf29}ver{\kf34}si{\kf25}ty{\kf166}~{\kf21}~{\kf141}~
-Dialogue: 0,0:03:56.19,0:04:01.77,DEFAULT,,0,0,0,,{\kf261}Oh{\kf58} Oh{\kf21}~{\kf42} oh{\kf124} oh
-Dialogue: 0,0:04:02.35,0:04:11.32,DEFAULT,,0,0,0,,{\kf34}We{\kf62} are{\kf75} per{\kf58}fec{\kf38}tly{\kf71} wrote{\kf46}~{\kf46}~{\kf323}~
-Dialogue: 0,0:04:12.27,0:04:13.10,DEFAULT,,0,0,0,,{\kf38}We{\kf29} are
-Dialogue: 0,0:04:13.80,0:04:17.48,DEFAULT,,0,0,0,,{\kf29}Yes{\kf29} we{\kf25} are{\kf25}~{\kf25}~{\kf13}~{\kf13}~{\kf137}~
-Dialogue: 0,0:04:18.22,0:04:21.11,DEFAULT,,0,0,0,,{\kf25}We{\kf25} a-{\kf25} a-{\kf25} are{\kf108}~
-Dialogue: 0,0:04:22.19,0:04:26.73,DEFAULT,,0,0,0,,{\kf34}We're{\kf38} per{\kf21}fect{\kf21}ly{\kf25} wrote{\kf149}~{\kf13}~{\kf21}~{\kf71}~
-Dialogue: 0,0:05:00.82,0:05:02.52,DEFAULT,,0,0,0,,{\kf29}Oh{\kf50} oooh{\kf62}~
-Dialogue: 0,0:05:02.85,0:05:04.46,DEFAULT,,0,0,0,,{\kf21}Oh{\kf21} oh{\kf21} oh{\kf62} oooh
-Dialogue: 0,0:05:04.83,0:05:07.06,DEFAULT,,0,0,0,,{\kf25}Oh{\kf25} oh{\kf25} oh{\kf25} oh{\kf25} oh
-Dialogue: 0,0:05:07.27,0:05:10.41,DEFAULT,,0,0,0,,{\kf21}Oh{\kf25} oh{\kf21} oh{\kf58} oh{\kf17} ooh{\kf108} oh
-Dialogue: 0,0:05:10.82,0:05:11.53,DEFAULT,,0,0,0,,{\kf21}C'mon{\kf29} c'mon
-Dialogue: 0,0:05:11.98,0:05:15.29,DEFAULT,,0,0,0,,{\kf21}Lift{\kf34} up{\kf29} your{\kf17} note{\kf71}~{\kf13}~{\kf13}~{\kf75}~
-Dialogue: 0,0:05:15.49,0:05:17.43,DEFAULT,,0,0,0,,{\kf34}High{\kf145}~
-Dialogue: 0,0:05:17.68,0:05:21.36,DEFAULT,,0,0,0,,{\kf34}High{\kf29} in{\kf29} the{\kf104} sky{\kf96}~
-Dialogue: 0,0:05:21.69,0:05:30.57,DEFAULT,,0,0,0,,{\kf29}Lift{\kf34} up{\kf34} your{\kf46} note{\kf17}~{\kf21}~{\kf124}~{\kf21}~{\kf21}~{\kf13}~{\kf58}~{\kf13}~{\kf17}~{\kf149}~{\kf29}~{\kf116}~
-Dialogue: 0,0:05:33.55,0:05:34.17,DEFAULT,,0,0,0,,{\kf17}We{\kf34} are
-Dialogue: 0,0:05:34.58,0:05:38.51,DEFAULT,,0,0,0,,{\kf17}We{\kf17} are{\kf17}~{\kf29}~{\kf25}~{\kf25}~{\kf34}~{\kf17}~{\kf21}~{\kf120}~
-Dialogue: 0,0:05:38.76,0:05:41.40,DEFAULT,,0,0,0,,{\kf25}We{\kf17} are{\kf50}~{\kf25}~{\kf108}~
-Dialogue: 0,0:05:41.73,0:05:46.15,DEFAULT,,0,0,0,,{\kf25}Per{\kf25}fect{\kf34}ly{\kf25} wrote{\kf38}~{\kf13}~{\kf29}~{\kf182}~
-Dialogue: 0,0:05:46.90,0:05:47.77,DEFAULT,,0,0,0,,{\kf13}We{\kf58} are
-Dialogue: 0,0:05:47.97,0:05:48.63,DEFAULT,,0,0,0,,{\kf13}We{\kf42} are
-Dialogue: 0,0:05:48.92,0:05:54.17,DEFAULT,,0,0,0,,{\kf17}We{\kf162} are{\kf38}~{\kf46}~{\kf54}~{\kf17}~{\kf13}~{\kf13}~{\kf91}~
-Dialogue: 0,0:05:54.42,0:05:56.24,DEFAULT,,0,0,0,,{\kf17}We{\kf17} are{\kf29} per{\kf21}fect{\kf17}ly{\kf38} wrote
-Dialogue: 0,0:05:56.40,0:05:58.18,DEFAULT,,0,0,0,,{\kf29}So{\kf29} lift{\kf21} up{\kf13} your{\kf29} note
-Dialogue: 0,0:05:58.38,0:06:01.48,DEFAULT,,0,0,0,,{\kf29}Come{\kf261} on
+Dialogue: 0,0:00:45.46,0:00:47.11,DEFAULT,,0,0,0,,{\r}{\kf18}Be{\kf147} strong
+Dialogue: 0,0:00:47.44,0:00:51.03,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf38} song{\kf27} of{\kf44} life{\kf33} is{\kf196} long
+Dialogue: 0,0:00:51.49,0:00:54.22,DEFAULT,,0,0,0,,{\r}{\kf23}Per{\kf41}for{\kf35}mance{\kf41} is{\kf35}n't{\kf98} wrong
+Dialogue: 0,0:00:54.42,0:00:57.32,DEFAULT,,0,0,0,,{\r}{\kf24}But{\kf29} when{\kf41} you{\kf53} play{\kf35} out{\kf47} of{\kf60} key
+Dialogue: 0,0:00:57.77,0:01:01.16,DEFAULT,,0,0,0,,{\r}{\kf55}The{\kf31} dis{\kf31}cor{\kf43}dance{\kf43} serves{\kf43} to{\kf43} on{\kf50}ly
+Dialogue: 0,0:01:01.37,0:01:02.94,DEFAULT,,0,0,0,,{\r}{\kf157}Break
+Dialogue: 0,0:01:03.35,0:01:06.70,DEFAULT,,0,0,0,,{\r}{\kf21}So{\kf26} have{\kf31} a{\kf47}no{\kf37}ther{\kf173} take
+Dialogue: 0,0:01:07.56,0:01:10.04,DEFAULT,,0,0,0,,{\r}{\kf24}See{\kf18} now{\kf30} what's{\kf41} all{\kf35} at{\kf35} stake{\kf65}~
+Dialogue: 0,0:01:10.29,0:01:13.22,DEFAULT,,0,0,0,,{\r}{\kf29}Bring{\kf23}ing{\kf40} your{\kf57}self{\kf34} in{\kf46}to{\kf64} tune
+Dialogue: 0,0:01:13.51,0:01:16.61,DEFAULT,,0,0,0,,{\r}{\kf53}Helps{\kf27} to{\kf21} or{\kf32}ches{\kf177}trate
+Dialogue: 0,0:01:17.23,0:01:19.05,DEFAULT,,0,0,0,,{\r}{\kf22}Re{\kf160}late
+Dialogue: 0,0:01:19.46,0:01:22.69,DEFAULT,,0,0,0,,{\r}{\kf26}E{\kf31}very{\kf42} step{\kf36} you{\kf31} take{\kf156}~
+Dialogue: 0,0:01:22.94,0:01:24.71,DEFAULT,,0,0,0,,{\r}{\kf19}To{\kf19} this{\kf140} aim
+Dialogue: 0,0:01:25.13,0:01:26.94,DEFAULT,,0,0,0,,{\r}{\kf14}Al{\kf168}though
+Dialogue: 0,0:01:27.36,0:01:30.41,DEFAULT,,0,0,0,,{\r}{\kf26}We{\kf41} have{\kf36} dif{\kf36}ferent{\kf167} names
+Dialogue: 0,0:01:30.66,0:01:32.94,DEFAULT,,0,0,0,,{\r}{\kf19}We're{\kf14} the{\kf194} same
+Dialogue: 0,0:01:33.43,0:01:34.88,DEFAULT,,0,0,0,,{\r}{\kf145}We
+Dialogue: 0,0:01:35.08,0:01:38.64,DEFAULT,,0,0,0,,{\r}{\kf21}All{\kf26} have{\kf37} our{\kf37} parts{\kf37} to{\kf197} play
+Dialogue: 0,0:01:39.05,0:01:41.74,DEFAULT,,0,0,0,,{\r}{\kf24}If{\kf36} we{\kf30} just{\kf42} meet{\kf54} half{\kf83}way
+Dialogue: 0,0:01:42.11,0:01:48.72,DEFAULT,,0,0,0,,{\r}{\kf49}You'll{\kf44} see{\kf64} dis{\kf69}so{\kf39}nance{\kf197} fall{\kf20} a{\kf179}way
+Dialogue: 0,0:01:49.38,0:01:50.79,DEFAULT,,0,0,0,,{\r}{\kf140}We
+Dialogue: 0,0:01:51.16,0:01:54.55,DEFAULT,,0,0,0,,{\r}{\kf26}Are{\kf41} per{\kf41}fec{\kf41}tly{\kf36} wrote{\kf154}~
+Dialogue: 0,0:01:54.92,0:01:57.65,DEFAULT,,0,0,0,,{\r}{\kf17}So{\kf33} now{\kf45} take{\kf45} up{\kf39} this{\kf33} oath{\kf61}~
+Dialogue: 0,0:01:57.89,0:02:04.51,DEFAULT,,0,0,0,,{\r}{\kf20}To{\kf61} lift{\kf30} up{\kf30} e{\kf25}very{\kf56} sin{\kf30}gle{\kf25} note{\kf25}~{\kf151}~{\kf25}~{\kf183}~
+Dialogue: 0,0:02:05.08,0:02:06.49,DEFAULT,,0,0,0,,{\r}{\kf140}Like
+Dialogue: 0,0:02:07.07,0:02:10.41,DEFAULT,,0,0,0,,{\r}{\kf21}A{\kf36} grand{\kf41} sym{\kf41}pho{\kf26}ny{\kf170}~
+Dialogue: 0,0:02:10.79,0:02:14.30,DEFAULT,,0,0,0,,{\r}{\kf22}Per{\kf22}fect{\kf43} po{\kf38}ly{\kf43}pho{\kf32}ny{\kf151}~
+Dialogue: 0,0:02:14.71,0:02:20.50,DEFAULT,,0,0,0,,{\r}{\kf20}Is{\kf25} in{\kf44} di{\kf34}ver{\kf34}si{\kf20}ty{\kf186}~{\kf15}~{\kf15}~{\kf186}~
+Dialogue: 0,0:02:21.08,0:02:22.27,DEFAULT,,0,0,0,,{\r}{\kf120}Notes
+Dialogue: 0,0:02:22.60,0:02:26.32,DEFAULT,,0,0,0,,{\r}{\kf16}Of{\kf27} dif{\kf43}ferent{\kf43} co{\kf53}lors -{\kf190} We
+Dialogue: 0,0:02:26.86,0:02:29.13,DEFAULT,,0,0,0,,{\r}{\kf37}Make{\kf37} up{\kf43} all{\kf43} we{\kf31} see{\kf36}~
+Dialogue: 0,0:02:29.38,0:02:34.75,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf68} hear{\kf26} to{\kf63}ge{\kf31}ther{\kf47} we{\kf47} are{\kf229} one
+Dialogue: 0,0:02:36.53,0:02:38.18,DEFAULT,,0,0,0,,{\r}{\kf23}For{\kf142} now
+Dialogue: 0,0:02:38.56,0:02:42.03,DEFAULT,,0,0,0,,{\r}{\kf22}For{\kf22}e{\kf39}ver{\kf33} and{\kf33} a{\kf198} day
+Dialogue: 0,0:02:42.48,0:02:45.21,DEFAULT,,0,0,0,,{\r}{\kf28}Our{\kf28} crown{\kf33}ing{\kf39} har{\kf50}mo{\kf95}ny
+Dialogue: 0,0:02:45.46,0:02:47.77,DEFAULT,,0,0,0,,{\r}{\kf24}Will{\kf30} spill{\kf36} in{\kf43}to{\kf55} the{\kf43} air
+Dialogue: 0,0:02:47.98,0:02:49.92,DEFAULT,,0,0,0,,{\r}{\kf79}Tim{\kf68}pa{\kf21}nys{\kf26} hit
+Dialogue: 0,0:02:50.46,0:02:52.03,DEFAULT,,0,0,0,,{\r}{\kf45}Trum{\kf39}pets{\kf73} blare
+Dialogue: 0,0:02:52.44,0:02:54.09,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf147} stage
+Dialogue: 0,0:02:54.38,0:02:57.94,DEFAULT,,0,0,0,,{\r}{\kf23}Is{\kf34} set{\kf29} for{\kf40} you{\kf40} to{\kf46} un{\kf143}leash
+Dialogue: 0,0:02:58.22,0:03:00.04,DEFAULT,,0,0,0,,{\r}{\kf14}Who{\kf14} you{\kf154} are
+Dialogue: 0,0:03:00.33,0:03:05.58,DEFAULT,,0,0,0,,{\r}{\kf25}U{\kf182}ni{\kf25}quely{\kf30} sound{\kf35}ing{\kf45} rhyth{\kf40}mic{\kf25} bars{\kf25}~{\kf93}~
+Dialogue: 0,0:03:05.87,0:03:07.89,DEFAULT,,0,0,0,,{\r}{\kf14}Ne{\kf14}ver{\kf174} far
+Dialogue: 0,0:03:08.31,0:03:09.92,DEFAULT,,0,0,0,,{\r}{\kf13}Are{\kf148} those
+Dialogue: 0,0:03:10.25,0:03:13.89,DEFAULT,,0,0,0,,{\r}{\kf21}Who{\kf26} raise{\kf42} their{\kf47} voi{\kf21}ces{\kf16}~{\kf26} high{\kf165}~
+Dialogue: 0,0:03:14.22,0:03:17.07,DEFAULT,,0,0,0,,{\r}{\kf24}From{\kf30} e{\kf36}very{\kf48} walk{\kf48} of{\kf42} life{\kf57}~
+Dialogue: 0,0:03:17.32,0:03:24.09,DEFAULT,,0,0,0,,{\r}{\kf75}Can{\kf32} be{\kf64} heard{\kf48} in{\kf43} the{\kf64} choir{\kf107}~{\kf21}~{\kf21}~{\kf203}~
+Dialogue: 0,0:03:24.51,0:03:25.95,DEFAULT,,0,0,0,,{\r}{\kf145}We
+Dialogue: 0,0:03:26.37,0:03:29.75,DEFAULT,,0,0,0,,{\r}{\kf22}Are{\kf38} per{\kf38}fec{\kf38}tly{\kf33} wrote{\kf27}~{\kf143}~
+Dialogue: 0,0:03:30.08,0:03:32.89,DEFAULT,,0,0,0,,{\r}{\kf24}So{\kf24} now{\kf42} take{\kf42} up{\kf42} this{\kf30} oath{\kf77}~
+Dialogue: 0,0:03:33.14,0:03:39.59,DEFAULT,,0,0,0,,{\r}{\kf21}To{\kf62} lift{\kf21} up{\kf26} e{\kf36}very{\kf46} sin{\kf41}gle{\kf31} note{\kf31}~{\kf129}~{\kf21}~{\kf15}~{\kf15}~{\kf150}~
+Dialogue: 0,0:03:40.33,0:03:41.90,DEFAULT,,0,0,0,,{\r}{\kf157}Like
+Dialogue: 0,0:03:42.23,0:03:45.41,DEFAULT,,0,0,0,,{\r}{\kf21}A{\kf37} grand{\kf48} sym{\kf37}pho{\kf42}ny{\kf133}~
+Dialogue: 0,0:03:45.99,0:03:49.46,DEFAULT,,0,0,0,,{\r}{\kf20}Per{\kf20}fect{\kf36} po{\kf46}ly{\kf51}pho{\kf31}ny{\kf143}~
+Dialogue: 0,0:03:49.92,0:03:55.75,DEFAULT,,0,0,0,,{\r}{\kf20}Is{\kf20} in{\kf40} di{\kf35}ver{\kf40}si{\kf30}ty{\kf201}~{\kf25}~{\kf172}~
+Dialogue: 0,0:03:56.20,0:04:01.78,DEFAULT,,0,0,0,,{\r}{\kf288}Oh{\kf64} Oh{\kf23}~{\kf46} oh{\kf137} oh
+Dialogue: 0,0:04:02.36,0:04:11.32,DEFAULT,,0,0,0,,{\r}{\kf40}We{\kf74} are{\kf89} per{\kf69}fec{\kf45}tly{\kf84} wrote{\kf55}~{\kf55}~{\kf386}~
+Dialogue: 0,0:04:12.27,0:04:13.10,DEFAULT,,0,0,0,,{\r}{\kf47}We{\kf36} are
+Dialogue: 0,0:04:13.80,0:04:17.48,DEFAULT,,0,0,0,,{\r}{\kf36}Yes{\kf36} we{\kf31} are{\kf31}~{\kf31}~{\kf16}~{\kf16}~{\kf171}~
+Dialogue: 0,0:04:18.22,0:04:21.12,DEFAULT,,0,0,0,,{\r}{\kf35}We{\kf35} a-{\kf35} a-{\kf35} are{\kf149}~
+Dialogue: 0,0:04:22.19,0:04:26.74,DEFAULT,,0,0,0,,{\r}{\kf39}We're{\kf44} per{\kf24}fect{\kf24}ly{\kf29} wrote{\kf174}~{\kf15}~{\kf24}~{\kf82}~
+Dialogue: 0,0:05:00.83,0:05:02.52,DEFAULT,,0,0,0,,{\r}{\kf35}Oh{\kf60} oooh{\kf74}~
+Dialogue: 0,0:05:02.85,0:05:04.46,DEFAULT,,0,0,0,,{\r}{\kf27}Oh{\kf27} oh{\kf27} oh{\kf80} oooh
+Dialogue: 0,0:05:04.84,0:05:07.07,DEFAULT,,0,0,0,,{\r}{\kf45}Oh{\kf45} oh{\kf45} oh{\kf45} oh{\kf43} oh
+Dialogue: 0,0:05:07.27,0:05:10.41,DEFAULT,,0,0,0,,{\r}{\kf26}Oh{\kf31} oh{\kf26} oh{\kf73} oh{\kf21} ooh{\kf137} oh
+Dialogue: 0,0:05:10.83,0:05:11.53,DEFAULT,,0,0,0,,{\r}{\kf29}C'mon{\kf41} c'mon
+Dialogue: 0,0:05:11.98,0:05:15.29,DEFAULT,,0,0,0,,{\r}{\kf25}Lift{\kf41} up{\kf36} your{\kf20} note{\kf87}~{\kf15}~{\kf15}~{\kf92}~
+Dialogue: 0,0:05:15.50,0:05:17.44,DEFAULT,,0,0,0,,{\r}{\kf36}High{\kf158}~
+Dialogue: 0,0:05:17.69,0:05:21.37,DEFAULT,,0,0,0,,{\r}{\kf42}High{\kf37} in{\kf37} the{\kf131} sky{\kf121}~
+Dialogue: 0,0:05:21.70,0:05:30.58,DEFAULT,,0,0,0,,{\r}{\kf35}Lift{\kf40} up{\kf40} your{\kf55} note{\kf20}~{\kf25}~{\kf150}~{\kf25}~{\kf25}~{\kf15}~{\kf70}~{\kf15}~{\kf20}~{\kf180}~{\kf35}~{\kf138}~
+Dialogue: 0,0:05:33.56,0:05:34.18,DEFAULT,,0,0,0,,{\r}{\kf21}We{\kf41} are
+Dialogue: 0,0:05:34.59,0:05:38.51,DEFAULT,,0,0,0,,{\r}{\kf20}We{\kf20} are{\kf20}~{\kf36}~{\kf31}~{\kf31}~{\kf41}~{\kf20}~{\kf26}~{\kf148}~
+Dialogue: 0,0:05:38.76,0:05:41.41,DEFAULT,,0,0,0,,{\r}{\kf29}We{\kf20} are{\kf59}~{\kf29}~{\kf127}~
+Dialogue: 0,0:05:41.74,0:05:46.16,DEFAULT,,0,0,0,,{\r}{\kf30}Per{\kf30}fect{\kf40}ly{\kf30} wrote{\kf45}~{\kf15}~{\kf35}~{\kf217}~
+Dialogue: 0,0:05:46.90,0:05:47.77,DEFAULT,,0,0,0,,{\r}{\kf15}We{\kf72} are
+Dialogue: 0,0:05:47.98,0:05:48.64,DEFAULT,,0,0,0,,{\r}{\kf15}We{\kf51} are
+Dialogue: 0,0:05:48.93,0:05:54.18,DEFAULT,,0,0,0,,{\r}{\kf19}We{\kf190} are{\kf44}~{\kf53}~{\kf63}~{\kf19}~{\kf15}~{\kf15}~{\kf107}~
+Dialogue: 0,0:05:54.42,0:05:56.24,DEFAULT,,0,0,0,,{\r}{\kf22}We{\kf22} are{\kf39} per{\kf28}fect{\kf22}ly{\kf49} wrote
+Dialogue: 0,0:05:56.41,0:05:58.18,DEFAULT,,0,0,0,,{\r}{\kf43}So{\kf43} lift{\kf31} up{\kf18} your{\kf43} note
+Dialogue: 0,0:05:58.39,0:06:01.49,DEFAULT,,0,0,0,,{\r}{\kf31}Come{\kf279} on

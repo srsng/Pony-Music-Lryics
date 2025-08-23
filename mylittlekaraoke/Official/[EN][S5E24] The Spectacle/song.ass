@@ -1,35 +1,42 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: The Spectacle
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.72,0:00:05.18,DEFAULT,,0,0,0,,{\kf19}Time{\kf15} for{\kf12} the{\kf23} spec{\kf12}ta{\kf30}cle
-Dialogue: 0,0:00:05.52,0:00:06.79,DEFAULT,,0,0,0,,{\kf19}Time{\kf19} for{\kf8} the{\kf23} sho{\kf27}-ow
-Dialogue: 0,0:00:07.35,0:00:10.35,DEFAULT,,0,0,0,,{\kf15}The{\kf23} lights{\kf8} are{\kf42} bright{\kf19} and{\kf12} the{\kf19} co{\kf34}lors{\kf19} glo{\kf42}-ow
-Dialogue: 0,0:00:11.10,0:00:12.75,DEFAULT,,0,0,0,,{\kf19}I'm{\kf15} not{\kf19} just{\kf15} a{\kf12}ny{\kf27}po{\kf19}ny
-Dialogue: 0,0:00:12.98,0:00:14.25,DEFAULT,,0,0,0,,{\kf15}I{\kf19} think{\kf15} you{\kf15} kno{\kf38}-ow
-Dialogue: 0,0:00:14.74,0:00:20.89,DEFAULT,,0,0,0,,{\kf19}The{\kf27} time{\kf19} is{\kf45} now,{\kf19} it's{\kf15} a{\kf19}bout{\kf15} to{\kf19} blo{\kf207}-o{\kf15}-o{\kf12}-o{\kf12}-o{\kf75}-ow!
-Dialogue: 0,0:00:21.94,0:00:22.92,DEFAULT,,0,0,0,,{\kf19}Razz{\kf19}le{\kf19} dazz{\kf30}le
-Dialogue: 0,0:00:23.78,0:00:24.83,DEFAULT,,0,0,0,,{\kf23}Glitz{\kf15} and{\kf15} gla{\kf34}-am
-Dialogue: 0,0:00:25.62,0:00:28.39,DEFAULT,,0,0,0,,{\kf23}Turn{\kf15} it{\kf23} all{\kf19} up,{\kf15} it's{\kf15} a{\kf19} spec{\kf15}ta{\kf12}cl{\kf12}-l{\kf15}-le
-Dialogue: 0,0:00:29.33,0:00:30.23,DEFAULT,,0,0,0,,{\kf15}Razz{\kf15}le{\kf19} dazz{\kf23}le
-Dialogue: 0,0:00:31.17,0:00:32.14,DEFAULT,,0,0,0,,{\kf23}Glitz{\kf12} and{\kf23} gla{\kf27}-am
-Dialogue: 0,0:00:33.00,0:00:35.85,DEFAULT,,0,0,0,,{\kf23}Turn{\kf15} it{\kf19} all{\kf19} up,{\kf19} it's{\kf12} a{\kf19} spec{\kf19}ta{\kf53}cle
-Dialogue: 0,0:00:36.72,0:00:38.10,DEFAULT,,0,0,0,,{\kf23}Give{\kf19} me{\kf23} mo{\kf64}-ore
-Dialogue: 0,0:00:38.55,0:00:39.60,DEFAULT,,0,0,0,,{\kf19}Razz{\kf19}le{\kf19} dazz{\kf30}le
-Dialogue: 0,0:00:40.39,0:00:42.12,DEFAULT,,0,0,0,,{\kf23}Glit{\kf15}ter{\kf34} eyes,{\kf15} big{\kf19} sur{\kf34}prise
-Dialogue: 0,0:00:42.27,0:00:43.35,DEFAULT,,0,0,0,,{\kf38}Lights,{\kf23} came{\kf34}ras
-Dialogue: 0,0:00:43.77,0:00:47.14,DEFAULT,,0,0,0,,{\kf34}Ah{\kf38}-ah{\kf30}-ah{\kf68}-ah{\kf23}-ah{\kf15}-ah{\kf15}-ah{\kf68}-ah
-Dialogue: 0,0:00:47.37,0:00:50.59,DEFAULT,,0,0,0,,{\kf45}Ah{\kf38} ah{\kf38} ah{\kf19} a{\kf15}-a{\kf19}-a{\kf8}-a{\kf8}-a{\kf8}-a{\kf12}-a{\kf8}-a{\kf8}-a{\kf12}-a{\kf19}-ah
-Dialogue: 0,0:00:51.53,0:00:52.50,DEFAULT,,0,0,0,,{\kf23}Razz{\kf15}le{\kf19} dazz{\kf27}le
-Dialogue: 0,0:00:53.37,0:00:54.34,DEFAULT,,0,0,0,,{\kf23}Glitz{\kf12} and{\kf27} gla{\kf23}-am
-Dialogue: 0,0:00:55.20,0:00:57.98,DEFAULT,,0,0,0,,{\kf23}Turn{\kf19} it{\kf19} all{\kf23} up,{\kf15} it's{\kf15} a{\kf23} spec{\kf15}ta{\kf15}cl{\kf15}-l{\kf12}-le
-Dialogue: 0,0:00:58.69,0:00:59.93,DEFAULT,,0,0,0,,{\kf19}Hear{\kf19} the{\kf19} app{\kf53}lause
-Dialogue: 0,0:01:00.53,0:01:01.62,DEFAULT,,0,0,0,,{\kf19}Here{\kf23} to{\kf19} im{\kf38}press
-Dialogue: 0,0:01:02.37,0:01:05.33,DEFAULT,,0,0,0,,{\kf19}Not{\kf15} just{\kf15} a{\kf15} po{\kf23}ny,{\kf19} I{\kf15} am{\kf19} the{\kf34} Coun{\kf42}tess!
+Dialogue: 0,0:00:03.72,0:00:05.18,DEFAULT,,0,0,0,,{\r}{\kf25}Time{\kf20} for{\kf15} the{\kf30} spec{\kf15}ta{\kf41}cle
+Dialogue: 0,0:00:05.52,0:00:06.79,DEFAULT,,0,0,0,,{\r}{\kf26}Time{\kf26} for{\kf10} the{\kf31} sho{\kf35}-ow
+Dialogue: 0,0:00:07.36,0:00:10.36,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf30} lights{\kf10} are{\kf54} bright{\kf25} and{\kf15} the{\kf25} co{\kf44}lors{\kf25} glo{\kf52}-ow
+Dialogue: 0,0:00:11.11,0:00:12.76,DEFAULT,,0,0,0,,{\r}{\kf25}I'm{\kf20} not{\kf25} just{\kf20} a{\kf15}ny{\kf35}po{\kf25}ny
+Dialogue: 0,0:00:12.98,0:00:14.26,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf24} think{\kf19} you{\kf19} kno{\kf47}-ow
+Dialogue: 0,0:00:14.74,0:00:20.89,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf31} time{\kf22} is{\kf54} now,{\kf22} it's{\kf18} a{\kf22}bout{\kf18} to{\kf22} blo{\kf247}-o{\kf18}-o{\kf13}-o{\kf13}-o{\kf93}-ow!
+Dialogue: 0,0:00:21.95,0:00:22.92,DEFAULT,,0,0,0,,{\r}{\kf21}Razz{\kf21}le{\kf21} dazz{\kf34}le
+Dialogue: 0,0:00:23.78,0:00:24.83,DEFAULT,,0,0,0,,{\r}{\kf27}Glitz{\kf18} and{\kf18} gla{\kf42}-am
+Dialogue: 0,0:00:25.62,0:00:28.39,DEFAULT,,0,0,0,,{\r}{\kf35}Turn{\kf23} it{\kf35} all{\kf29} up,{\kf23} it's{\kf23} a{\kf29} spec{\kf23}ta{\kf17}cl{\kf17}-l{\kf23}-le
+Dialogue: 0,0:00:29.33,0:00:30.23,DEFAULT,,0,0,0,,{\r}{\kf19}Razz{\kf19}le{\kf24} dazz{\kf28}le
+Dialogue: 0,0:00:31.17,0:00:32.15,DEFAULT,,0,0,0,,{\r}{\kf27}Glitz{\kf13} and{\kf27} gla{\kf31}-am
+Dialogue: 0,0:00:33.01,0:00:35.86,DEFAULT,,0,0,0,,{\r}{\kf33}Turn{\kf22} it{\kf27} all{\kf27} up,{\kf27} it's{\kf16} a{\kf27} spec{\kf27}ta{\kf79}cle
+Dialogue: 0,0:00:36.72,0:00:38.11,DEFAULT,,0,0,0,,{\r}{\kf25}Give{\kf20} me{\kf25} mo{\kf69}-ore
+Dialogue: 0,0:00:38.56,0:00:39.61,DEFAULT,,0,0,0,,{\r}{\kf23}Razz{\kf23}le{\kf23} dazz{\kf36}le
+Dialogue: 0,0:00:40.40,0:00:42.12,DEFAULT,,0,0,0,,{\r}{\kf28}Glit{\kf19}ter{\kf42} eyes,{\kf19} big{\kf23} sur{\kf42}prise
+Dialogue: 0,0:00:42.27,0:00:43.36,DEFAULT,,0,0,0,,{\r}{\kf44}Lights,{\kf26} came{\kf39}ras
+Dialogue: 0,0:00:43.77,0:00:47.15,DEFAULT,,0,0,0,,{\r}{\kf40}Ah{\kf44}-ah{\kf35}-ah{\kf79}-ah{\kf26}-ah{\kf18}-ah{\kf18}-ah{\kf78}-ah
+Dialogue: 0,0:00:47.37,0:00:50.59,DEFAULT,,0,0,0,,{\r}{\kf58}Ah{\kf48} ah{\kf48} ah{\kf24} a{\kf19}-a{\kf24}-a{\kf10}-a{\kf10}-a{\kf10}-a{\kf14}-a{\kf10}-a{\kf10}-a{\kf14}-a{\kf24}-ah
+Dialogue: 0,0:00:51.53,0:00:52.51,DEFAULT,,0,0,0,,{\r}{\kf27}Razz{\kf18}le{\kf22} dazz{\kf31}le
+Dialogue: 0,0:00:53.37,0:00:54.34,DEFAULT,,0,0,0,,{\r}{\kf27}Glitz{\kf13} and{\kf31} gla{\kf27}-am
+Dialogue: 0,0:00:55.21,0:00:57.98,DEFAULT,,0,0,0,,{\r}{\kf33}Turn{\kf27} it{\kf27} all{\kf33} up,{\kf22} it's{\kf22} a{\kf33} spec{\kf22}ta{\kf22}cl{\kf22}-l{\kf14}-le
+Dialogue: 0,0:00:58.70,0:00:59.93,DEFAULT,,0,0,0,,{\r}{\kf21}Hear{\kf21} the{\kf21} app{\kf61}lause
+Dialogue: 0,0:01:00.53,0:01:01.62,DEFAULT,,0,0,0,,{\r}{\kf21}Here{\kf25} to{\kf21} im{\kf42}press
+Dialogue: 0,0:01:02.37,0:01:05.33,DEFAULT,,0,0,0,,{\r}{\kf26}Not{\kf21} just{\kf21} a{\kf21} po{\kf31}ny,{\kf26} I{\kf21} am{\kf26} the{\kf47} Coun{\kf56}tess!

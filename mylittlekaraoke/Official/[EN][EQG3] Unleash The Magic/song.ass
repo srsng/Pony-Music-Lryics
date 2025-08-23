@@ -1,53 +1,60 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Unleash the Magic
+Artist: Equestria Girls - Friendship Games
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.40,0:00:03.32,DEFAULT,,0,0,0,,{\kf19}I{\kf19} rea{\kf19}lize{\kf19} that{\kf19} you've{\kf23} al{\kf19}ways{\kf19} been{\kf15} an{\kf19} out{\kf34}cast
-Dialogue: 0,0:00:04.18,0:00:07.03,DEFAULT,,0,0,0,,{\kf23}It's{\kf23} not{\kf19} eve{\kf15}ry{\kf15}one{\kf12} at{\kf30} school{\kf12} who{\kf19} likes{\kf15} to{\kf30} think
-Dialogue: 0,0:00:08.01,0:00:09.96,DEFAULT,,0,0,0,,{\kf12}To{\kf19} find{\kf12} a{\kf19} stu{\kf19}dent{\kf23} that's{\kf19} like{\kf27} you
-Dialogue: 0,0:00:10.22,0:00:11.95,DEFAULT,,0,0,0,,{\kf15}I've{\kf19} had{\kf23} one{\kf15} or{\kf15} may{\kf15}be{\kf30} two
-Dialogue: 0,0:00:12.32,0:00:15.21,DEFAULT,,0,0,0,,{\kf15}But{\kf15} the{\kf23} good{\kf27} ones{\kf12} dis{\kf12}ap{\kf30}pear{\kf19} be{\kf23}fore{\kf19} I{\kf30} blink
-Dialogue: 0,0:00:18.36,0:00:21.36,DEFAULT,,0,0,0,,{\kf19}Now,{\kf15} I{\kf19} un{\kf19}der{\kf19}stand{\kf15} you{\kf23} have{\kf23} your{\kf15} re{\kf19}ser{\kf19}va{\kf34}tions
-Dialogue: 0,0:00:22.60,0:00:25.48,DEFAULT,,0,0,0,,{\kf15}It's{\kf27} hard{\kf12} to{\kf15} have{\kf15} a{\kf27} brain{\kf15} as{\kf34} large{\kf15} as{\kf57} yours
-Dialogue: 0,0:00:26.42,0:00:28.26,DEFAULT,,0,0,0,,{\kf12}But{\kf15} if{\kf27} we{\kf19} don't{\kf15} win{\kf23} these{\kf34} games
-Dialogue: 0,0:00:28.45,0:00:30.10,DEFAULT,,0,0,0,,{\kf19}Well,{\kf15} I{\kf19} think{\kf19} I've{\kf19} made{\kf19} it{\kf23} plain
-Dialogue: 0,0:00:30.47,0:00:33.47,DEFAULT,,0,0,0,,{\kf23}What{\kf19} will{\kf23} hap{\kf23}pen{\kf19} if{\kf19} we{\kf27} have{\kf12} the{\kf19} lo{\kf19}sing{\kf49} scores
-Dialogue: 0,0:00:36.25,0:00:39.88,DEFAULT,,0,0,0,,{\kf27}Un{\kf19}leash{\kf19} the{\kf45} ma{\kf34}gic,{\kf19} un{\kf19}leash{\kf15} the{\kf27} ma{\kf23}-a{\kf34}gic
-Dialogue: 0,0:00:40.52,0:00:43.52,DEFAULT,,0,0,0,,{\kf23}If{\kf15} we{\kf45} lose,{\kf38} then{\kf38} you're{\kf38} to{\kf53} blame
-Dialogue: 0,0:00:44.35,0:00:47.83,DEFAULT,,0,0,0,,{\kf19}They{\kf23} all{\kf19} have{\kf42} used{\kf27} it,{\kf27} may{\kf19}be{\kf23} a{\kf27}bu{\kf15}-used{\kf23} it
-Dialogue: 0,0:00:48.58,0:00:51.43,DEFAULT,,0,0,0,,{\kf27}So{\kf19} then{\kf19} why{\kf27} can't{\kf30} we{\kf34} do{\kf34} the{\kf42} same?
-Dialogue: 0,0:00:54.66,0:00:56.61,DEFAULT,,0,0,0,,{\kf19}Call{\kf15} it{\kf27} po{\kf23}wer,{\kf23} call{\kf12} it{\kf23} ma{\kf12}gic
-Dialogue: 0,0:00:56.76,0:00:58.60,DEFAULT,,0,0,0,,{\kf19}If{\kf15} we{\kf23} lose,{\kf15} it{\kf23} will{\kf12} be{\kf19} tra{\kf19}gic
-Dialogue: 0,0:00:58.78,0:01:01.60,DEFAULT,,0,0,0,,{\kf12}More{\kf15} im{\kf19}por{\kf27}tant{\kf15} is{\kf15} the{\kf15} know{\kf23}ledge{\kf19} we'll{\kf19} have{\kf38} lost
-Dialogue: 0,0:01:02.46,0:01:04.48,DEFAULT,,0,0,0,,{\kf19}A{\kf23} chance{\kf15} like{\kf19} this{\kf19} won't{\kf19} come{\kf12} a{\kf34}gain
-Dialogue: 0,0:01:04.75,0:01:06.43,DEFAULT,,0,0,0,,{\kf19}You'll{\kf19} reg{\kf23}ret{\kf19} not{\kf12} gi{\kf19}ving{\kf30} in
-Dialogue: 0,0:01:06.77,0:01:09.66,DEFAULT,,0,0,0,,{\kf15}Is{\kf19}n't{\kf19} un{\kf15}der{\kf23}stan{\kf15}ding{\kf15} ma{\kf19}gic{\kf23} worth{\kf12} the{\kf38} cost?
-Dialogue: 0,0:01:12.55,0:01:16.03,DEFAULT,,0,0,0,,{\kf23}Un{\kf23}leash{\kf19} the{\kf38} ma{\kf30}gic,{\kf19} un{\kf23}leash{\kf15} the{\kf27} ma{\kf19}-a{\kf30}gic
-Dialogue: 0,0:01:16.75,0:01:19.60,DEFAULT,,0,0,0,,{\kf19}We're{\kf19} not{\kf30} friends{\kf34} here{\kf38} af{\kf34}ter{\kf45} all
-Dialogue: 0,0:01:20.42,0:01:24.06,DEFAULT,,0,0,0,,{\kf15}Our{\kf19} on{\kf19}ly{\kf30} in{\kf38}terest{\kf19} in{\kf19} this{\kf19} bu{\kf19}si{\kf49}ness
-Dialogue: 0,0:01:24.36,0:01:27.21,DEFAULT,,0,0,0,,{\kf15}Is{\kf19} see{\kf19}ing{\kf19} Can{\kf19}ter{\kf30}lot{\kf30} High{\kf34} School{\kf30} fall
-Dialogue: 0,0:01:31.26,0:01:34.48,DEFAULT,,0,0,0,,{\kf19}What{\kf19} I'm{\kf19} sug{\kf34}ges{\kf42}ting's{\kf45} ve{\kf34}ry{\kf19} sim{\kf30}ple
-Dialogue: 0,0:01:35.23,0:01:38.57,DEFAULT,,0,0,0,,{\kf12}And{\kf19} since{\kf15} it's{\kf30} win{\kf38}-win{\kf38} on{\kf30} all{\kf72} scores
-Dialogue: 0,0:01:39.17,0:01:42.58,DEFAULT,,0,0,0,,{\kf15}You{\kf19} on{\kf23}ly{\kf30} want{\kf34} to{\kf53} learn{\kf38} a{\kf38}bout{\kf30} the
-Dialogue: 0,0:01:42.77,0:01:45.77,DEFAULT,,0,0,0,,{\kf23}Ma{\kf19}gic{\kf34} that{\kf34} you{\kf34} have{\kf105} stored
-Dialogue: 0,0:01:47.01,0:01:50.38,DEFAULT,,0,0,0,,{\kf19}And{\kf15} as{\kf19} for{\kf42} me{\kf38} and{\kf34} all{\kf42} the{\kf23} o{\kf49}thers
-Dialogue: 0,0:01:50.91,0:01:54.47,DEFAULT,,0,0,0,,{\kf19}We{\kf19} on{\kf19}ly{\kf38} want{\kf27} what{\kf38} we{\kf45} de{\kf87}serve
-Dialogue: 0,0:01:55.11,0:01:57.81,DEFAULT,,0,0,0,,{\kf19}That{\kf19} our{\kf42} school{\kf34} will{\kf38} clinch{\kf42} the{\kf30} win
-Dialogue: 0,0:01:58.11,0:02:01.41,DEFAULT,,0,0,0,,{\kf15}And{\kf19} my{\kf23} le{\kf19}ga{\kf49}cy{\kf45} will{\kf42} en{\kf94}dure
-Dialogue: 0,0:02:01.82,0:02:05.16,DEFAULT,,0,0,0,,{\kf19}Un{\kf15}leash{\kf15} the{\kf42} ma{\kf23}gic,{\kf19} un{\kf19}leash{\kf15} the{\kf23} ma{\kf19}-a{\kf27}gic
-Dialogue: 0,0:02:05.91,0:02:08.72,DEFAULT,,0,0,0,,{\kf23}If{\kf19} we{\kf42} lose,{\kf38} then{\kf30} it's{\kf34} a{\kf42} crime
-Dialogue: 0,0:02:09.62,0:02:13.07,DEFAULT,,0,0,0,,{\kf15}But{\kf19} we{\kf19} can{\kf42} win{\kf19} it{\kf19} if{\kf23} you{\kf15} be{\kf23}gi{\kf23}-in{\kf27} it
-Dialogue: 0,0:02:13.56,0:02:16.52,DEFAULT,,0,0,0,,{\kf23}It's{\kf15} up{\kf15} to{\kf19} you{\kf15} to{\kf27} not{\kf38} fail{\kf30} this{\kf38} time
-Dialogue: 0,0:02:24.36,0:02:29.83,DEFAULT,,0,0,0,,{\kf19}I{\kf19}ma{\kf27}gine{\kf45} all{\kf23} I{\kf15}-I'll{\kf45} learn{\kf34} by{\kf23} set{\kf23}ting{\kf15} i{\kf19}-it{\kf180} free
-Dialogue: 0,0:02:32.27,0:02:37.63,DEFAULT,,0,0,0,,{\kf23}And{\kf34} now{\kf23} win{\kf23}ning{\kf38} these{\kf42} games{\kf34} de{\kf53}pends{\kf12} o{\kf27}-on{\kf169} me
-Dialogue: 0,0:02:39.88,0:02:45.17,DEFAULT,,0,0,0,,{\kf60}And{\kf23} what{\kf42} doors{\kf49} might{\kf19} o{\kf23}pen{\kf19} if{\kf23} I{\kf42} try{\kf34} to{\kf45} use{\kf83} it
-Dialogue: 0,0:02:48.21,0:02:54.92,DEFAULT,,0,0,0,,{\kf19}But{\kf15} the{\kf42} ma{\kf38}gic's{\kf23} what{\kf19} I{\kf23} real{\kf23}ly{\kf42} want{\kf34} to{\kf19} se{\kf308}-e
-Dialogue: 0,0:02:55.63,0:02:59.27,DEFAULT,,0,0,0,,{\kf34}Un{\kf23}leash{\kf15} the{\kf34} ma{\kf30}gic,{\kf42} free{\kf38} the{\kf42} ma{\kf27}gic
-Dialogue: 0,0:02:59.50,0:02:59.91,DEFAULT,,0,0,0,,{\kf42}Now!
+Dialogue: 0,0:00:00.40,0:00:03.33,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf25} rea{\kf25}lize{\kf25} that{\kf25} you've{\kf30} al{\kf25}ways{\kf25} been{\kf20} an{\kf25} out{\kf42}cast
+Dialogue: 0,0:00:04.19,0:00:07.04,DEFAULT,,0,0,0,,{\r}{\kf31}It's{\kf31} not{\kf25} eve{\kf20}ry{\kf20}one{\kf15} at{\kf41} school{\kf15} who{\kf25} likes{\kf20} to{\kf42} think
+Dialogue: 0,0:00:08.01,0:00:09.96,DEFAULT,,0,0,0,,{\r}{\kf15}To{\kf25} find{\kf15} a{\kf25} stu{\kf25}dent{\kf30} that's{\kf25} like{\kf35} you
+Dialogue: 0,0:00:10.22,0:00:11.95,DEFAULT,,0,0,0,,{\r}{\kf20}I've{\kf25} had{\kf30} one{\kf20} or{\kf20} may{\kf20}be{\kf38} two
+Dialogue: 0,0:00:12.32,0:00:15.21,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf20} the{\kf29} good{\kf34} ones{\kf15} dis{\kf15}ap{\kf39}pear{\kf24} be{\kf29}fore{\kf24} I{\kf40} blink
+Dialogue: 0,0:00:18.36,0:00:21.36,DEFAULT,,0,0,0,,{\r}{\kf24}Now,{\kf19} I{\kf24} un{\kf24}der{\kf24}stand{\kf19} you{\kf29} have{\kf29} your{\kf19} re{\kf24}ser{\kf24}va{\kf41}tions
+Dialogue: 0,0:00:22.60,0:00:25.49,DEFAULT,,0,0,0,,{\r}{\kf19}It's{\kf33} hard{\kf14} to{\kf19} have{\kf19} a{\kf33} brain{\kf19} as{\kf43} large{\kf19} as{\kf71} yours
+Dialogue: 0,0:00:26.43,0:00:28.26,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf19} if{\kf34} we{\kf24} don't{\kf19} win{\kf29} these{\kf44} games
+Dialogue: 0,0:00:28.45,0:00:30.10,DEFAULT,,0,0,0,,{\r}{\kf24}Well,{\kf19} I{\kf24} think{\kf24} I've{\kf24} made{\kf24} it{\kf26} plain
+Dialogue: 0,0:00:30.48,0:00:33.48,DEFAULT,,0,0,0,,{\r}{\kf27}What{\kf23} will{\kf27} hap{\kf27}pen{\kf23} if{\kf23} we{\kf32} have{\kf14} the{\kf23} lo{\kf23}sing{\kf58} scores
+Dialogue: 0,0:00:36.25,0:00:39.89,DEFAULT,,0,0,0,,{\r}{\kf34}Un{\kf25}leash{\kf25} the{\kf59} ma{\kf44}gic,{\kf25} un{\kf25}leash{\kf20} the{\kf34} ma{\kf30}-a{\kf43}gic
+Dialogue: 0,0:00:40.52,0:00:43.52,DEFAULT,,0,0,0,,{\r}{\kf27}If{\kf18} we{\kf55} lose,{\kf45} then{\kf45} you're{\kf45} to{\kf65} blame
+Dialogue: 0,0:00:44.35,0:00:47.84,DEFAULT,,0,0,0,,{\r}{\kf25}They{\kf30} all{\kf25} have{\kf56} used{\kf35} it,{\kf35} may{\kf25}be{\kf30} a{\kf35}bu{\kf20}-used{\kf33} it
+Dialogue: 0,0:00:48.59,0:00:51.44,DEFAULT,,0,0,0,,{\r}{\kf33}So{\kf23} then{\kf23} why{\kf33} can't{\kf37} we{\kf42} do{\kf42} the{\kf52} same?
+Dialogue: 0,0:00:54.66,0:00:56.61,DEFAULT,,0,0,0,,{\r}{\kf24}Call{\kf19} it{\kf34} po{\kf29}wer,{\kf29} call{\kf15} it{\kf29} ma{\kf16}gic
+Dialogue: 0,0:00:56.76,0:00:58.60,DEFAULT,,0,0,0,,{\r}{\kf24}If{\kf19} we{\kf29} lose,{\kf19} it{\kf29} will{\kf15} be{\kf24} tra{\kf25}gic
+Dialogue: 0,0:00:58.79,0:01:01.60,DEFAULT,,0,0,0,,{\r}{\kf15}More{\kf20} im{\kf25}por{\kf35}tant{\kf20} is{\kf20} the{\kf20} know{\kf30}ledge{\kf25} we'll{\kf25} have{\kf46} lost
+Dialogue: 0,0:01:02.46,0:01:04.49,DEFAULT,,0,0,0,,{\r}{\kf24}A{\kf29} chance{\kf19} like{\kf24} this{\kf24} won't{\kf24} come{\kf14} a{\kf45}gain
+Dialogue: 0,0:01:04.75,0:01:06.44,DEFAULT,,0,0,0,,{\r}{\kf23}You'll{\kf23} reg{\kf27}ret{\kf23} not{\kf14} gi{\kf23}ving{\kf36} in
+Dialogue: 0,0:01:06.78,0:01:09.66,DEFAULT,,0,0,0,,{\r}{\kf21}Is{\kf26}n't{\kf26} un{\kf21}der{\kf31}stan{\kf21}ding{\kf21} ma{\kf26}gic{\kf31} worth{\kf15} the{\kf50} cost?
+Dialogue: 0,0:01:12.55,0:01:16.04,DEFAULT,,0,0,0,,{\r}{\kf30}Un{\kf30}leash{\kf25} the{\kf50} ma{\kf40}gic,{\kf25} un{\kf30}leash{\kf20} the{\kf35} ma{\kf25}-a{\kf39}gic
+Dialogue: 0,0:01:16.75,0:01:19.60,DEFAULT,,0,0,0,,{\r}{\kf25}We're{\kf25} not{\kf39} friends{\kf44} here{\kf49} af{\kf44}ter{\kf59} all
+Dialogue: 0,0:01:20.42,0:01:24.06,DEFAULT,,0,0,0,,{\r}{\kf22}Our{\kf28} on{\kf28}ly{\kf45} in{\kf56}terest{\kf28} in{\kf28} this{\kf28} bu{\kf28}si{\kf73}ness
+Dialogue: 0,0:01:24.36,0:01:27.21,DEFAULT,,0,0,0,,{\r}{\kf20}Is{\kf25} see{\kf25}ing{\kf25} Can{\kf25}ter{\kf40}lot{\kf40} High{\kf45} School{\kf40} fall
+Dialogue: 0,0:01:31.26,0:01:34.49,DEFAULT,,0,0,0,,{\r}{\kf23}What{\kf23} I'm{\kf23} sug{\kf42}ges{\kf51}ting's{\kf56} ve{\kf42}ry{\kf23} sim{\kf39}ple
+Dialogue: 0,0:01:35.24,0:01:38.58,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf25} since{\kf20} it's{\kf40} win{\kf50}-win{\kf50} on{\kf40} all{\kf94} scores
+Dialogue: 0,0:01:39.17,0:01:42.59,DEFAULT,,0,0,0,,{\r}{\kf18}You{\kf23} on{\kf28}ly{\kf37} want{\kf41} to{\kf65} learn{\kf46} a{\kf46}bout{\kf37} the
+Dialogue: 0,0:01:42.78,0:01:45.78,DEFAULT,,0,0,0,,{\r}{\kf27}Ma{\kf23}gic{\kf41} that{\kf41} you{\kf41} have{\kf127} stored
+Dialogue: 0,0:01:47.01,0:01:50.39,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf18} as{\kf23} for{\kf50} me{\kf46} and{\kf41} all{\kf50} the{\kf27} o{\kf60}thers
+Dialogue: 0,0:01:50.91,0:01:54.47,DEFAULT,,0,0,0,,{\r}{\kf23}We{\kf23} on{\kf23}ly{\kf46} want{\kf32} what{\kf46} we{\kf55} de{\kf108}serve
+Dialogue: 0,0:01:55.11,0:01:57.81,DEFAULT,,0,0,0,,{\r}{\kf23}That{\kf23} our{\kf50} school{\kf41} will{\kf46} clinch{\kf50} the{\kf37} win
+Dialogue: 0,0:01:58.11,0:02:01.41,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf20} my{\kf24} le{\kf20}ga{\kf53}cy{\kf49} will{\kf45} en{\kf103}dure
+Dialogue: 0,0:02:01.83,0:02:05.16,DEFAULT,,0,0,0,,{\r}{\kf27}Un{\kf22}leash{\kf22} the{\kf59} ma{\kf32}gic,{\kf27} un{\kf27}leash{\kf22} the{\kf32} ma{\kf27}-a{\kf37}gic
+Dialogue: 0,0:02:05.91,0:02:08.72,DEFAULT,,0,0,0,,{\r}{\kf28}If{\kf23} we{\kf52} lose,{\kf47} then{\kf37} it's{\kf42} a{\kf52} crime
+Dialogue: 0,0:02:09.62,0:02:13.07,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf27} we{\kf27} can{\kf59} win{\kf27} it{\kf27} if{\kf32} you{\kf22} be{\kf32}gi{\kf32}-in{\kf38} it
+Dialogue: 0,0:02:13.56,0:02:16.53,DEFAULT,,0,0,0,,{\r}{\kf31}It's{\kf20} up{\kf20} to{\kf26} you{\kf20} to{\kf36} not{\kf51} fail{\kf41} this{\kf51} time
+Dialogue: 0,0:02:24.36,0:02:29.84,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21}ma{\kf30}gine{\kf51} all{\kf25} I{\kf17}-I'll{\kf51} learn{\kf38} by{\kf25} set{\kf25}ting{\kf17} i{\kf21}-it{\kf205} free
+Dialogue: 0,0:02:32.28,0:02:37.64,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf38} now{\kf26} win{\kf26}ning{\kf43} these{\kf47} games{\kf38} de{\kf60}pends{\kf13} o{\kf30}-on{\kf189} me
+Dialogue: 0,0:02:39.89,0:02:45.18,DEFAULT,,0,0,0,,{\r}{\kf69}And{\kf26} what{\kf48} doors{\kf56} might{\kf22} o{\kf26}pen{\kf22} if{\kf26} I{\kf48} try{\kf39} to{\kf52} use{\kf95} it
+Dialogue: 0,0:02:48.21,0:02:54.93,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf17} the{\kf46} ma{\kf42}gic's{\kf25} what{\kf21} I{\kf25} real{\kf25}ly{\kf46} want{\kf38} to{\kf21} se{\kf344}-e
+Dialogue: 0,0:02:55.64,0:02:59.28,DEFAULT,,0,0,0,,{\r}{\kf44}Un{\kf29}leash{\kf19} the{\kf44} ma{\kf39}gic,{\kf53} free{\kf49} the{\kf53} ma{\kf34}gic
+Dialogue: 0,0:02:59.50,0:02:59.91,DEFAULT,,0,0,0,,{\r}{\kf41}Now!

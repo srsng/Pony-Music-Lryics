@@ -1,76 +1,83 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Friendship Express
+Artist: BroniKoni
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.61,0:00:15.76,DEFAULT,,0,0,0,,{\kf20}Cha{\kf16}ga{\kf16} cha{\kf16}ga{\kf16} cha{\kf10}ga
-Dialogue: 0,0:00:15.91,0:00:17.36,DEFAULT,,0,0,0,,{\kf16}We'll{\kf20} sing{\kf16} and{\kf16} danse{\kf16} to{\kf20}ge{\kf10}ther
-Dialogue: 0,0:00:17.46,0:00:18.86,DEFAULT,,0,0,0,,{\kf10}In{\kf16} the{\kf20} rhy{\kf16}thm{\kf16} of{\kf10} the{\kf25} wheels
-Dialogue: 0,0:00:19.06,0:00:20.41,DEFAULT,,0,0,0,,{\kf16}Up{\kf16} and{\kf16} down,{\kf16} plains{\kf16} and{\kf16} hills
-Dialogue: 0,0:00:20.61,0:00:22.16,DEFAULT,,0,0,0,,{\kf16}Drop{\kf16} your{\kf16} wor{\kf16}ries{\kf16} through{\kf16} the{\kf16} win{\kf10}dow
-Dialogue: 0,0:00:22.26,0:00:23.76,DEFAULT,,0,0,0,,{\kf16}Start{\kf16} your{\kf16} sto{\kf16}ry{\kf16} join{\kf16}ing{\kf16} in{\kf10} to
-Dialogue: 0,0:00:23.86,0:00:25.26,DEFAULT,,0,0,0,,{\kf10}Have{\kf16} some{\kf16} fun{\kf16} and{\kf20} care{\kf25} less
-Dialogue: 0,0:00:25.46,0:00:27.51,DEFAULT,,0,0,0,,{\kf16}On{\kf16} the{\kf20} board{\kf20} of{\kf16} Friend{\kf16}ship{\kf16} Ex{\kf25}press
-Dialogue: 0,0:00:31.01,0:00:35.11,DEFAULT,,0,0,0,,{\kf25}We've{\kf20} al{\kf31}ways{\kf35} dreamed{\kf20} a{\kf31}bout{\kf31} E{\kf31}ques{\kf20}tri{\kf61}a
-Dialogue: 0,0:00:35.31,0:00:36.86,DEFAULT,,0,0,0,,{\kf16}The{\kf16} land{\kf20} of{\kf31} won{\kf40}ders
-Dialogue: 0,0:00:37.41,0:00:40.41,DEFAULT,,0,0,0,,{\kf31}And{\kf16} now{\kf31} we've{\kf31} found{\kf25} our{\kf20} spe{\kf25}cial{\kf35} way
-Dialogue: 0,0:00:40.61,0:00:41.31,DEFAULT,,0,0,0,,{\kf16}At{\kf45} last!
-Dialogue: 0,0:00:43.86,0:00:46.81,DEFAULT,,0,0,0,,{\kf20}The{\kf20} sun{\kf25} is{\kf40} high{\kf20} in{\kf16} an{\kf16} end{\kf25}less{\kf35} sky
-Dialogue: 0,0:00:47.21,0:00:49.56,DEFAULT,,0,0,0,,{\kf16}We're{\kf16} get{\kf25}ting{\kf31} on{\kf20} the{\kf70} board
-Dialogue: 0,0:00:50.21,0:00:53.91,DEFAULT,,0,0,0,,{\kf31}White{\kf20} walls{\kf20} of{\kf31} doubt{\kf25} are{\kf31} com{\kf25}ing{\kf95} down
-Dialogue: 0,0:00:54.21,0:00:56.26,DEFAULT,,0,0,0,,{\kf16}With{\kf16} the{\kf20} ve{\kf20}ry{\kf25} first{\kf16} chord{\kf40}~
-Dialogue: 0,0:00:56.61,0:00:59.61,DEFAULT,,0,0,0,,{\kf20}The{\kf20} mu{\kf25}sic{\kf31} art{\kf31} gets{\kf25} en{\kf31}gine{\kf35} start
-Dialogue: 0,0:01:00.01,0:01:02.71,DEFAULT,,0,0,0,,{\kf16}Con{\kf20}nect{\kf20}ing{\kf35} friends{\kf25} who'll{\kf20} ne{\kf20}ver{\kf25} part
-Dialogue: 0,0:01:03.01,0:01:06.21,DEFAULT,,0,0,0,,{\kf20}Bond{\kf20}ed{\kf25} to{\kf31}ge{\kf25}ther{\kf20} by{\kf16} strings{\kf16} of{\kf20} their{\kf40} hearts
-Dialogue: 0,0:01:08.96,0:01:10.11,DEFAULT,,0,0,0,,{\kf20}Cha{\kf16}ga{\kf16} cha{\kf16}ga{\kf16} cha{\kf10}ga
-Dialogue: 0,0:01:10.26,0:01:11.76,DEFAULT,,0,0,0,,{\kf16}We'll{\kf20} sing{\kf16} and{\kf16} danse{\kf16} to{\kf20}ge{\kf10}ther
-Dialogue: 0,0:01:11.86,0:01:13.26,DEFAULT,,0,0,0,,{\kf10}In{\kf16} the{\kf20} rhy{\kf16}thm{\kf16} of{\kf10} the{\kf25} wheels
-Dialogue: 0,0:01:13.46,0:01:14.81,DEFAULT,,0,0,0,,{\kf16}Up{\kf16} and{\kf16} down,{\kf16} plains{\kf16} and{\kf16} hills
-Dialogue: 0,0:01:15.01,0:01:16.56,DEFAULT,,0,0,0,,{\kf16}Drop{\kf16} your{\kf16} wor{\kf16}ries{\kf16} through{\kf16} the{\kf16} win{\kf10}dow
-Dialogue: 0,0:01:16.66,0:01:18.16,DEFAULT,,0,0,0,,{\kf16}Start{\kf16} your{\kf16} sto{\kf16}ry{\kf16} join{\kf16}ing{\kf16} in{\kf10} to
-Dialogue: 0,0:01:18.26,0:01:19.66,DEFAULT,,0,0,0,,{\kf10}Have{\kf16} some{\kf16} fun{\kf16} and{\kf20} care{\kf25} less
-Dialogue: 0,0:01:19.86,0:01:21.81,DEFAULT,,0,0,0,,{\kf16}On{\kf16} the{\kf20} board{\kf20} of{\kf16} Friend{\kf16}ship{\kf16} Ex{\kf16}press
-Dialogue: 0,0:01:21.91,0:01:22.96,DEFAULT,,0,0,0,,{\kf10}Cha{\kf16}ga{\kf16} cha{\kf16}ga{\kf16} cha{\kf10}ga
-Dialogue: 0,0:01:23.11,0:01:24.56,DEFAULT,,0,0,0,,{\kf16}We'll{\kf20} sing{\kf16} and{\kf16} danse{\kf16} to{\kf20}ge{\kf10}ther
-Dialogue: 0,0:01:24.66,0:01:26.06,DEFAULT,,0,0,0,,{\kf10}In{\kf16} the{\kf20} rhy{\kf16}thm{\kf16} of{\kf10} the{\kf25} wheels
-Dialogue: 0,0:01:26.26,0:01:27.61,DEFAULT,,0,0,0,,{\kf16}Up{\kf16} and{\kf16} down,{\kf16} plains{\kf16} and{\kf16} hills
-Dialogue: 0,0:01:27.81,0:01:29.36,DEFAULT,,0,0,0,,{\kf16}Drop{\kf16} your{\kf16} wor{\kf16}ries{\kf16} through{\kf16} the{\kf16} win{\kf10}dow
-Dialogue: 0,0:01:29.46,0:01:30.96,DEFAULT,,0,0,0,,{\kf16}Start{\kf16} your{\kf16} sto{\kf16}ry{\kf16} join{\kf16}ing{\kf16} in{\kf10} to
-Dialogue: 0,0:01:31.06,0:01:32.46,DEFAULT,,0,0,0,,{\kf10}Have{\kf16} some{\kf16} fun{\kf16} and{\kf20} care{\kf25} less
-Dialogue: 0,0:01:32.66,0:01:34.71,DEFAULT,,0,0,0,,{\kf16}On{\kf16} the{\kf20} board{\kf20} of{\kf16} Friend{\kf16}ship{\kf16} Ex{\kf25}press
-Dialogue: 0,0:02:18.26,0:02:20.31,DEFAULT,,0,0,0,,{\kf25}We're{\kf16} go{\kf16}ing{\kf10} to{\kf10} E{\kf25}ques{\kf20}tri{\kf40}a
-Dialogue: 0,0:02:21.01,0:02:23.11,DEFAULT,,0,0,0,,{\kf16}We're{\kf16} gon{\kf16}na{\kf16} rock{\kf16} in{\kf16} E{\kf25}ques{\kf20}tri{\kf20}a
-Dialogue: 0,0:02:23.26,0:02:24.51,DEFAULT,,0,0,0,,{\kf20}Oh{\kf35} yeah{\kf16}~{\kf31}~
-Dialogue: 0,0:02:27.16,0:02:29.21,DEFAULT,,0,0,0,,{\kf25}We're{\kf16} go{\kf16}ing{\kf16} to{\kf16} E{\kf20}que{\kf20}stri{\kf31}a
-Dialogue: 0,0:02:30.76,0:02:31.71,DEFAULT,,0,0,0,,{\kf20}Oh{\kf56} yeah
-Dialogue: 0,0:02:32.81,0:02:33.51,DEFAULT,,0,0,0,,{\kf70}Yeah
-Dialogue: 0,0:02:58.31,0:02:59.46,DEFAULT,,0,0,0,,{\kf20}Cha{\kf16}ga{\kf16} cha{\kf16}ga{\kf16} cha{\kf10}ga
-Dialogue: 0,0:02:59.61,0:03:01.11,DEFAULT,,0,0,0,,{\kf16}We'll{\kf20} sing{\kf16} and{\kf16} danse{\kf16} to{\kf20}ge{\kf10}ther
-Dialogue: 0,0:03:01.21,0:03:02.56,DEFAULT,,0,0,0,,{\kf10}In{\kf16} the{\kf16} rhy{\kf16}thm{\kf16} of{\kf10} the{\kf25} wheels
-Dialogue: 0,0:03:02.76,0:03:04.11,DEFAULT,,0,0,0,,{\kf16}Up{\kf16} and{\kf16} down,{\kf16} plains{\kf16} and{\kf16} hills
-Dialogue: 0,0:03:04.31,0:03:05.86,DEFAULT,,0,0,0,,{\kf16}Drop{\kf16} your{\kf16} wor{\kf16}ries{\kf16} through{\kf16} the{\kf16} win{\kf10}dow
-Dialogue: 0,0:03:05.96,0:03:07.46,DEFAULT,,0,0,0,,{\kf16}Start{\kf16} your{\kf16} sto{\kf16}ry{\kf16} join{\kf16}ing{\kf16} in{\kf10} to
-Dialogue: 0,0:03:07.56,0:03:08.96,DEFAULT,,0,0,0,,{\kf10}Have{\kf16} some{\kf16} fun{\kf16} and{\kf20} care{\kf25} less
-Dialogue: 0,0:03:09.16,0:03:11.06,DEFAULT,,0,0,0,,{\kf16}On{\kf16} the{\kf20} board{\kf20} of{\kf16} Friend{\kf16}ship{\kf16} Ex{\kf10}press
-Dialogue: 0,0:03:11.16,0:03:12.26,DEFAULT,,0,0,0,,{\kf16}Cha{\kf16}ga{\kf16} cha{\kf16}ga{\kf16} cha{\kf10}ga
-Dialogue: 0,0:03:12.41,0:03:13.86,DEFAULT,,0,0,0,,{\kf16}We'll{\kf20} sing{\kf16} and{\kf16} danse{\kf16} to{\kf20}ge{\kf10}ther
-Dialogue: 0,0:03:13.96,0:03:15.36,DEFAULT,,0,0,0,,{\kf10}In{\kf16} the{\kf20} rhy{\kf16}thm{\kf16} of{\kf10} the{\kf25} wheels
-Dialogue: 0,0:03:15.56,0:03:16.91,DEFAULT,,0,0,0,,{\kf16}Up{\kf16} and{\kf16} down,{\kf16} plains{\kf16} and{\kf16} hills
-Dialogue: 0,0:03:17.11,0:03:18.66,DEFAULT,,0,0,0,,{\kf16}Drop{\kf16} your{\kf16} wor{\kf16}ries{\kf16} through{\kf16} the{\kf16} win{\kf10}dow
-Dialogue: 0,0:03:18.76,0:03:20.26,DEFAULT,,0,0,0,,{\kf16}Start{\kf16} your{\kf16} sto{\kf16}ry{\kf16} join{\kf16}ing{\kf16} in{\kf10} to
-Dialogue: 0,0:03:20.36,0:03:21.76,DEFAULT,,0,0,0,,{\kf10}Have{\kf16} some{\kf16} fun{\kf16} and{\kf20} care{\kf25} less
-Dialogue: 0,0:03:21.96,0:03:22.91,DEFAULT,,0,0,0,,{\kf16}On{\kf16} the{\kf20} board{\kf16} of
-Dialogue: 0,0:03:23.06,0:03:26.26,DEFAULT,,0,0,0,,{\kf20}Friend{\kf20}ship{\kf20} Ex{\kf116}press{\kf20}~{\kf90}~
-Dialogue: 0,0:03:29.51,0:03:33.51,DEFAULT,,0,0,0,,{\kf16}Friend{\kf20}ship{\kf20} Ex{\kf111}press{\kf20}~{\kf171}~
-Dialogue: 0,0:03:36.66,0:03:39.01,DEFAULT,,0,0,0,,{\kf31}Na{\kf31} na{\kf25} na{\kf20} na{\kf80} na
-Dialogue: 0,0:03:39.46,0:03:42.91,DEFAULT,,0,0,0,,{\kf20}Na{\kf31} na{\kf25} na{\kf25} na{\kf25} na{\kf25} na{\kf25} na{\kf20} na{\kf16} na{\kf20} na
-Dialogue: 0,0:03:43.06,0:03:45.46,DEFAULT,,0,0,0,,{\kf31}Na{\kf31} na{\kf25} na{\kf20} na{\kf90} na
-Dialogue: 0,0:03:45.86,0:03:49.26,DEFAULT,,0,0,0,,{\kf20}Na{\kf35} na{\kf25} na{\kf25} na{\kf25} na{\kf25} na{\kf25} na{\kf16} na{\kf16} na{\kf16} na
-Dialogue: 0,0:03:49.36,0:03:52.51,DEFAULT,,0,0,0,,{\kf40}Na{\kf31} na{\kf31} na{\kf25} na{\kf25} na{\kf25} na{\kf25} na{\kf16} na{\kf16} na
-Dialogue: 0,0:03:52.61,0:03:56.81,DEFAULT,,0,0,0,,{\kf40}Na{\kf25} na{\kf35} na{\kf31} na{\kf35} na{\kf35} na{\kf20} na{\kf16} na{\kf25} na{\kf90} na
+Dialogue: 0,0:00:14.61,0:00:15.76,DEFAULT,,0,0,0,,{\r}{\kf26}Cha{\kf19}ga{\kf19} cha{\kf19}ga{\kf19} cha{\kf13}ga
+Dialogue: 0,0:00:15.91,0:00:17.36,DEFAULT,,0,0,0,,{\r}{\kf20}We'll{\kf26} sing{\kf20} and{\kf20} danse{\kf20} to{\kf26}ge{\kf13}ther
+Dialogue: 0,0:00:17.46,0:00:18.86,DEFAULT,,0,0,0,,{\r}{\kf13}In{\kf19} the{\kf25} rhy{\kf19}thm{\kf19} of{\kf13} the{\kf32} wheels
+Dialogue: 0,0:00:19.06,0:00:20.41,DEFAULT,,0,0,0,,{\r}{\kf22}Up{\kf22} and{\kf22} down,{\kf22} plains{\kf22} and{\kf25} hills
+Dialogue: 0,0:00:20.61,0:00:22.16,DEFAULT,,0,0,0,,{\r}{\kf20}Drop{\kf20} your{\kf20} wor{\kf20}ries{\kf20} through{\kf20} the{\kf20} win{\kf15}dow
+Dialogue: 0,0:00:22.26,0:00:23.76,DEFAULT,,0,0,0,,{\r}{\kf20}Start{\kf20} your{\kf20} sto{\kf20}ry{\kf20} join{\kf20}ing{\kf20} in{\kf10} to
+Dialogue: 0,0:00:23.86,0:00:25.26,DEFAULT,,0,0,0,,{\r}{\kf14}Have{\kf21} some{\kf21} fun{\kf21} and{\kf28} care{\kf35} less
+Dialogue: 0,0:00:25.46,0:00:27.51,DEFAULT,,0,0,0,,{\r}{\kf22}On{\kf22} the{\kf29} board{\kf29} of{\kf22} Friend{\kf22}ship{\kf22} Ex{\kf37}press
+Dialogue: 0,0:00:31.01,0:00:35.11,DEFAULT,,0,0,0,,{\r}{\kf34}We've{\kf27} al{\kf41}ways{\kf48} dreamed{\kf27} a{\kf41}bout{\kf41} E{\kf41}ques{\kf27}tri{\kf83}a
+Dialogue: 0,0:00:35.31,0:00:36.86,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf19} land{\kf26} of{\kf39} won{\kf52}ders
+Dialogue: 0,0:00:37.41,0:00:40.41,DEFAULT,,0,0,0,,{\r}{\kf43}And{\kf21} now{\kf43} we've{\kf43} found{\kf36} our{\kf29} spe{\kf36}cial{\kf49} way
+Dialogue: 0,0:00:40.61,0:00:41.31,DEFAULT,,0,0,0,,{\r}{\kf18}At{\kf52} last!
+Dialogue: 0,0:00:43.86,0:00:46.81,DEFAULT,,0,0,0,,{\r}{\kf27}The{\kf27} sun{\kf34} is{\kf55} high{\kf27} in{\kf21} an{\kf21} end{\kf34}less{\kf49} sky
+Dialogue: 0,0:00:47.21,0:00:49.56,DEFAULT,,0,0,0,,{\r}{\kf20}We're{\kf20} get{\kf34}ting{\kf40} on{\kf27} the{\kf94} board
+Dialogue: 0,0:00:50.21,0:00:53.91,DEFAULT,,0,0,0,,{\r}{\kf40}White{\kf27} walls{\kf27} of{\kf40} doubt{\kf34} are{\kf40} com{\kf34}ing{\kf128} down
+Dialogue: 0,0:00:54.21,0:00:56.26,DEFAULT,,0,0,0,,{\r}{\kf20}With{\kf20} the{\kf27} ve{\kf27}ry{\kf34} first{\kf20} chord{\kf57}~
+Dialogue: 0,0:00:56.61,0:00:59.61,DEFAULT,,0,0,0,,{\r}{\kf28}The{\kf28} mu{\kf35}sic{\kf42} art{\kf42} gets{\kf35} en{\kf42}gine{\kf48} start
+Dialogue: 0,0:01:00.01,0:01:02.71,DEFAULT,,0,0,0,,{\r}{\kf23}Con{\kf30}nect{\kf30}ing{\kf52} friends{\kf38} who'll{\kf30} ne{\kf30}ver{\kf37} part
+Dialogue: 0,0:01:03.01,0:01:06.21,DEFAULT,,0,0,0,,{\r}{\kf28}Bond{\kf28}ed{\kf35} to{\kf42}ge{\kf35}ther{\kf28} by{\kf21} strings{\kf21} of{\kf28} their{\kf54} hearts
+Dialogue: 0,0:01:08.96,0:01:10.11,DEFAULT,,0,0,0,,{\r}{\kf26}Cha{\kf19}ga{\kf19} cha{\kf19}ga{\kf19} cha{\kf13}ga
+Dialogue: 0,0:01:10.26,0:01:11.76,DEFAULT,,0,0,0,,{\r}{\kf20}We'll{\kf27} sing{\kf20} and{\kf20} danse{\kf20} to{\kf27}ge{\kf16}ther
+Dialogue: 0,0:01:11.86,0:01:13.26,DEFAULT,,0,0,0,,{\r}{\kf13}In{\kf19} the{\kf25} rhy{\kf19}thm{\kf19} of{\kf13} the{\kf32} wheels
+Dialogue: 0,0:01:13.46,0:01:14.81,DEFAULT,,0,0,0,,{\r}{\kf22}Up{\kf22} and{\kf22} down,{\kf22} plains{\kf22} and{\kf25} hills
+Dialogue: 0,0:01:15.01,0:01:16.56,DEFAULT,,0,0,0,,{\r}{\kf20}Drop{\kf20} your{\kf20} wor{\kf20}ries{\kf20} through{\kf20} the{\kf20} win{\kf15}dow
+Dialogue: 0,0:01:16.66,0:01:18.16,DEFAULT,,0,0,0,,{\r}{\kf20}Start{\kf20} your{\kf20} sto{\kf20}ry{\kf20} join{\kf20}ing{\kf20} in{\kf10} to
+Dialogue: 0,0:01:18.26,0:01:19.66,DEFAULT,,0,0,0,,{\r}{\kf14}Have{\kf21} some{\kf21} fun{\kf21} and{\kf28} care{\kf35} less
+Dialogue: 0,0:01:19.86,0:01:21.81,DEFAULT,,0,0,0,,{\r}{\kf22}On{\kf22} the{\kf30} board{\kf30} of{\kf22} Friend{\kf22}ship{\kf22} Ex{\kf25}press
+Dialogue: 0,0:01:21.91,0:01:22.96,DEFAULT,,0,0,0,,{\r}{\kf13}Cha{\kf20}ga{\kf20} cha{\kf20}ga{\kf20} cha{\kf12}ga
+Dialogue: 0,0:01:23.11,0:01:24.56,DEFAULT,,0,0,0,,{\r}{\kf20}We'll{\kf26} sing{\kf20} and{\kf20} danse{\kf20} to{\kf26}ge{\kf13}ther
+Dialogue: 0,0:01:24.66,0:01:26.06,DEFAULT,,0,0,0,,{\r}{\kf13}In{\kf19} the{\kf25} rhy{\kf19}thm{\kf19} of{\kf13} the{\kf32} wheels
+Dialogue: 0,0:01:26.26,0:01:27.61,DEFAULT,,0,0,0,,{\r}{\kf22}Up{\kf22} and{\kf22} down,{\kf22} plains{\kf22} and{\kf25} hills
+Dialogue: 0,0:01:27.81,0:01:29.36,DEFAULT,,0,0,0,,{\r}{\kf20}Drop{\kf20} your{\kf20} wor{\kf20}ries{\kf20} through{\kf20} the{\kf20} win{\kf15}dow
+Dialogue: 0,0:01:29.46,0:01:30.96,DEFAULT,,0,0,0,,{\r}{\kf20}Start{\kf20} your{\kf20} sto{\kf20}ry{\kf20} join{\kf20}ing{\kf20} in{\kf10} to
+Dialogue: 0,0:01:31.06,0:01:32.46,DEFAULT,,0,0,0,,{\r}{\kf14}Have{\kf21} some{\kf21} fun{\kf21} and{\kf28} care{\kf35} less
+Dialogue: 0,0:01:32.66,0:01:34.71,DEFAULT,,0,0,0,,{\r}{\kf22}On{\kf22} the{\kf29} board{\kf29} of{\kf22} Friend{\kf22}ship{\kf22} Ex{\kf37}press
+Dialogue: 0,0:02:18.26,0:02:20.31,DEFAULT,,0,0,0,,{\r}{\kf32}We're{\kf19} go{\kf19}ing{\kf13} to{\kf13} E{\kf32}ques{\kf26}tri{\kf51}a
+Dialogue: 0,0:02:21.01,0:02:23.11,DEFAULT,,0,0,0,,{\r}{\kf20}We're{\kf20} gon{\kf20}na{\kf20} rock{\kf20} in{\kf20} E{\kf34}ques{\kf27}tri{\kf29}a
+Dialogue: 0,0:02:23.26,0:02:24.51,DEFAULT,,0,0,0,,{\r}{\kf25}Oh{\kf44} yeah{\kf19}~{\kf37}~
+Dialogue: 0,0:02:27.16,0:02:29.21,DEFAULT,,0,0,0,,{\r}{\kf33}We're{\kf20} go{\kf20}ing{\kf20} to{\kf20} E{\kf26}que{\kf26}stri{\kf40}a
+Dialogue: 0,0:02:30.76,0:02:31.71,DEFAULT,,0,0,0,,{\r}{\kf25}Oh{\kf70} yeah
+Dialogue: 0,0:02:32.81,0:02:33.51,DEFAULT,,0,0,0,,{\r}{\kf70}Yeah
+Dialogue: 0,0:02:58.31,0:02:59.46,DEFAULT,,0,0,0,,{\r}{\kf26}Cha{\kf19}ga{\kf19} cha{\kf19}ga{\kf19} cha{\kf13}ga
+Dialogue: 0,0:02:59.61,0:03:01.11,DEFAULT,,0,0,0,,{\r}{\kf20}We'll{\kf27} sing{\kf20} and{\kf20} danse{\kf20} to{\kf27}ge{\kf16}ther
+Dialogue: 0,0:03:01.21,0:03:02.56,DEFAULT,,0,0,0,,{\r}{\kf13}In{\kf19} the{\kf19} rhy{\kf19}thm{\kf19} of{\kf13} the{\kf33} wheels
+Dialogue: 0,0:03:02.76,0:03:04.11,DEFAULT,,0,0,0,,{\r}{\kf22}Up{\kf22} and{\kf22} down,{\kf22} plains{\kf22} and{\kf25} hills
+Dialogue: 0,0:03:04.31,0:03:05.86,DEFAULT,,0,0,0,,{\r}{\kf20}Drop{\kf20} your{\kf20} wor{\kf20}ries{\kf20} through{\kf20} the{\kf20} win{\kf15}dow
+Dialogue: 0,0:03:05.96,0:03:07.46,DEFAULT,,0,0,0,,{\r}{\kf20}Start{\kf20} your{\kf20} sto{\kf20}ry{\kf20} join{\kf20}ing{\kf20} in{\kf10} to
+Dialogue: 0,0:03:07.56,0:03:08.96,DEFAULT,,0,0,0,,{\r}{\kf14}Have{\kf21} some{\kf21} fun{\kf21} and{\kf28} care{\kf35} less
+Dialogue: 0,0:03:09.16,0:03:11.06,DEFAULT,,0,0,0,,{\r}{\kf23}On{\kf23} the{\kf30} board{\kf30} of{\kf23} Friend{\kf23}ship{\kf23} Ex{\kf15}press
+Dialogue: 0,0:03:11.16,0:03:12.26,DEFAULT,,0,0,0,,{\r}{\kf19}Cha{\kf19}ga{\kf19} cha{\kf19}ga{\kf19} cha{\kf15}ga
+Dialogue: 0,0:03:12.41,0:03:13.86,DEFAULT,,0,0,0,,{\r}{\kf20}We'll{\kf26} sing{\kf20} and{\kf20} danse{\kf20} to{\kf26}ge{\kf13}ther
+Dialogue: 0,0:03:13.96,0:03:15.36,DEFAULT,,0,0,0,,{\r}{\kf13}In{\kf19} the{\kf25} rhy{\kf19}thm{\kf19} of{\kf13} the{\kf32} wheels
+Dialogue: 0,0:03:15.56,0:03:16.91,DEFAULT,,0,0,0,,{\r}{\kf22}Up{\kf22} and{\kf22} down,{\kf22} plains{\kf22} and{\kf25} hills
+Dialogue: 0,0:03:17.11,0:03:18.66,DEFAULT,,0,0,0,,{\r}{\kf20}Drop{\kf20} your{\kf20} wor{\kf20}ries{\kf20} through{\kf20} the{\kf20} win{\kf15}dow
+Dialogue: 0,0:03:18.76,0:03:20.26,DEFAULT,,0,0,0,,{\r}{\kf20}Start{\kf20} your{\kf20} sto{\kf20}ry{\kf20} join{\kf20}ing{\kf20} in{\kf10} to
+Dialogue: 0,0:03:20.36,0:03:21.76,DEFAULT,,0,0,0,,{\r}{\kf14}Have{\kf21} some{\kf21} fun{\kf21} and{\kf28} care{\kf35} less
+Dialogue: 0,0:03:21.96,0:03:22.91,DEFAULT,,0,0,0,,{\r}{\kf22}On{\kf22} the{\kf29} board{\kf22} of
+Dialogue: 0,0:03:23.06,0:03:26.26,DEFAULT,,0,0,0,,{\r}{\kf22}Friend{\kf22}ship{\kf22} Ex{\kf129}press{\kf22}~{\kf103}~
+Dialogue: 0,0:03:29.51,0:03:33.51,DEFAULT,,0,0,0,,{\r}{\kf17}Friend{\kf23}ship{\kf23} Ex{\kf124}press{\kf23}~{\kf190}~
+Dialogue: 0,0:03:36.66,0:03:39.01,DEFAULT,,0,0,0,,{\r}{\kf38}Na{\kf38} na{\kf32} na{\kf25} na{\kf102} na
+Dialogue: 0,0:03:39.46,0:03:42.91,DEFAULT,,0,0,0,,{\r}{\kf30}Na{\kf45} na{\kf37} na{\kf37} na{\kf37} na{\kf37} na{\kf37} na{\kf30} na{\kf22} na{\kf33} na
+Dialogue: 0,0:03:43.06,0:03:45.46,DEFAULT,,0,0,0,,{\r}{\kf37}Na{\kf37} na{\kf31} na{\kf25} na{\kf110} na
+Dialogue: 0,0:03:45.86,0:03:49.26,DEFAULT,,0,0,0,,{\r}{\kf30}Na{\kf53} na{\kf38} na{\kf38} na{\kf38} na{\kf38} na{\kf38} na{\kf23} na{\kf23} na{\kf21} na
+Dialogue: 0,0:03:49.36,0:03:52.51,DEFAULT,,0,0,0,,{\r}{\kf55}Na{\kf41} na{\kf41} na{\kf34} na{\kf34} na{\kf34} na{\kf34} na{\kf21} na{\kf21} na
+Dialogue: 0,0:03:52.61,0:03:56.81,DEFAULT,,0,0,0,,{\r}{\kf48}Na{\kf30} na{\kf42} na{\kf36} na{\kf42} na{\kf42} na{\kf24} na{\kf18} na{\kf30} na{\kf108} na

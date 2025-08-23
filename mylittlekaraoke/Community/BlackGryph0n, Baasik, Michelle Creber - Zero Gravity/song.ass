@@ -1,68 +1,75 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Zero Gravity (feat. Michelle Creber)
+Artist: BlackGryph0n & Baasik
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:15.53,0:00:18.74,DEFAULT,,0,0,0,,{\kf24}I'm{\kf24} ta{\kf12}ken{\kf18} by{\kf18} this{\kf24} fee{\kf18}ling{\kf18} and{\kf18} I'm{\kf24} los{\kf18}ing{\kf18} the{\kf30} fight
-Dialogue: 0,0:00:18.98,0:00:22.91,DEFAULT,,0,0,0,,{\kf36}I'm{\kf36} fal{\kf30}ling,{\kf36} feel{\kf36}ing,{\kf42} fast{\kf36}er{\kf18} we{\kf42} go
-Dialogue: 0,0:00:23.15,0:00:26.30,DEFAULT,,0,0,0,,{\kf24}Sur{\kf24}ren{\kf18}der{\kf18} to{\kf18} this{\kf24} mo{\kf18}ment{\kf18} like{\kf18} the{\kf18} day{\kf18} to{\kf18} the{\kf24} night
-Dialogue: 0,0:00:26.54,0:00:30.47,DEFAULT,,0,0,0,,{\kf36}I'm{\kf30} fal{\kf24}~{\kf30}ling,{\kf30} fal{\kf24}~{\kf30}ling,{\kf36} fast{\kf30}er{\kf24} we{\kf30} go
-Dialogue: 0,0:00:35.05,0:00:38.68,DEFAULT,,0,0,0,,{\kf24}I'm{\kf24} get{\kf18}ting{\kf24} ti{\kf18}red{\kf18} of{\kf18} the{\kf30} run{\kf18}ning,{\kf12} the{\kf30} scream{\kf18}ing,{\kf12} the{\kf24} fight{\kf24}ing
-Dialogue: 0,0:00:38.92,0:00:42.55,DEFAULT,,0,0,0,,{\kf18}I{\kf18} feel{\kf18} it{\kf24} fol{\kf24}low{\kf18}ing{\kf18} me{\kf24} e{\kf36}very{\kf30}where{\kf18} I{\kf30} go
-Dialogue: 0,0:00:42.67,0:00:46.07,DEFAULT,,0,0,0,,{\kf24}I{\kf18} see{\kf18} it{\kf18} in{\kf18} their{\kf24} fa{\kf18}ces,{\kf18} e{\kf24}very{\kf18} place{\kf18} is{\kf24} bleed{\kf18}ing{\kf24} it
-Dialogue: 0,0:00:46.54,0:00:48.03,DEFAULT,,0,0,0,,{\kf24}And{\kf12} I{\kf18} am{\kf24} breath{\kf18}ing{\kf30} it
-Dialogue: 0,0:00:48.39,0:00:49.99,DEFAULT,,0,0,0,,{\kf24}I{\kf18} am{\kf18} a{\kf18} piece{\kf18} of{\kf36} it
-Dialogue: 0,0:00:50.35,0:00:53.09,DEFAULT,,0,0,0,,{\kf18}And{\kf18} we{\kf18} can't{\kf18} live{\kf24} with{\kf18}out{\kf18} the{\kf24} fash{\kf18}ion,{\kf18} the{\kf24} pas{\kf12}sion
-Dialogue: 0,0:00:53.27,0:00:57.73,DEFAULT,,0,0,0,,{\kf12}It's{\kf24} catch{\kf18}ing{\kf18} us{\kf18} with{\kf18} no{\kf24} re{\kf24}ac{\kf18}tion{\kf18} and{\kf18} it's{\kf42} e{\kf42}very{\kf36}where{\kf24} we{\kf24} go
-Dialogue: 0,0:00:57.97,0:01:01.42,DEFAULT,,0,0,0,,{\kf18}We{\kf18} just{\kf18} keep{\kf24} hold{\kf18}ing{\kf18} on,{\kf24} a{\kf18}fraid{\kf18} of{\kf18} just{\kf24} re{\kf24}leas{\kf18}ing{\kf30} it
-Dialogue: 0,0:01:01.78,0:01:03.27,DEFAULT,,0,0,0,,{\kf18}There's{\kf18} no{\kf24} de{\kf24}feat{\kf18}ing{\kf30} it
-Dialogue: 0,0:01:03.68,0:01:04.99,DEFAULT,,0,0,0,,{\kf18}Can{\kf18} we{\kf18} find{\kf18} peace{\kf18} with{\kf12} it?
-Dialogue: 0,0:01:05.17,0:01:08.21,DEFAULT,,0,0,0,,{\kf12}I'm{\kf24} ta{\kf18}ken{\kf18} by{\kf18} this{\kf24} feel{\kf18}ing{\kf18} and{\kf18} I'm{\kf24} los{\kf18}ing{\kf18} the{\kf24} fight
-Dialogue: 0,0:01:08.51,0:01:12.43,DEFAULT,,0,0,0,,{\kf30}I'm{\kf24} fal{\kf24}~{\kf30}ling,{\kf24} feel{\kf24}~{\kf30}ing,{\kf36} fast{\kf36}er{\kf18} we{\kf42} go
-Dialogue: 0,0:01:12.67,0:01:15.89,DEFAULT,,0,0,0,,{\kf30}Sur{\kf24}ren{\kf18}der{\kf18} to{\kf18} this{\kf24} mo{\kf18}ment{\kf18} like{\kf18} the{\kf18} day{\kf18} to{\kf18} the{\kf30} night
-Dialogue: 0,0:01:16.07,0:01:19.76,DEFAULT,,0,0,0,,{\kf30}I'm{\kf24} fal{\kf24}~{\kf24}ling,{\kf24} fal{\kf24}~{\kf30}ling,{\kf30} fast{\kf24}er{\kf18} we{\kf12} go
-Dialogue: 0,0:01:20.05,0:01:20.65,DEFAULT,,0,0,0,,{\kf12}It's{\kf18} your{\kf12} life
-Dialogue: 0,0:01:20.83,0:01:23.33,DEFAULT,,0,0,0,,{\kf18}And{\kf18} it's{\kf18} the{\kf24} on{\kf18}ly{\kf18} one{\kf18} that{\kf18} you'll{\kf24} e{\kf18}ver{\kf12} get
-Dialogue: 0,0:01:23.51,0:01:24.46,DEFAULT,,0,0,0,,{\kf12}Do{\kf18} you{\kf18} feel{\kf18} a{\kf12}live?
-Dialogue: 0,0:01:24.70,0:01:26.72,DEFAULT,,0,0,0,,{\kf18}And{\kf18} are{\kf18} you{\kf18} mak{\kf18}ing{\kf18} the{\kf18} most{\kf18} of{\kf18} it?
-Dialogue: 0,0:01:27.26,0:01:28.27,DEFAULT,,0,0,0,,{\kf36}It's{\kf30} your{\kf12} life
-Dialogue: 0,0:01:28.45,0:01:30.95,DEFAULT,,0,0,0,,{\kf18}And{\kf18} you're{\kf18} the{\kf24} on{\kf18}ly{\kf18} one{\kf18} that{\kf24} you'll{\kf18} e{\kf18}ver{\kf12} be
-Dialogue: 0,0:01:31.13,0:01:32.20,DEFAULT,,0,0,0,,{\kf12}Do{\kf18} you{\kf18} feel{\kf24} a{\kf18}live?
-Dialogue: 0,0:01:32.26,0:01:34.70,DEFAULT,,0,0,0,,{\kf18}And{\kf18} can{\kf18} you{\kf24} han{\kf18}dle{\kf24} Ze{\kf18}ro{\kf24} Gra{\kf24}vi{\kf30}ty?
-Dialogue: 0,0:01:36.07,0:01:39.64,DEFAULT,,0,0,0,,{\kf18}When{\kf18} you{\kf18} are{\kf18} up{\kf18} here{\kf18} there{\kf18} is{\kf24} no{\kf18}where{\kf18} to{\kf24} look{\kf24} but{\kf24} down
-Dialogue: 0,0:01:39.88,0:01:43.45,DEFAULT,,0,0,0,,{\kf18}For{\kf18}get{\kf18} it{\kf18} all{\kf18} and{\kf18} let{\kf18} the{\kf18} si{\kf24}lence{\kf24} a{\kf24}round,{\kf24} sur{\kf18}~{\kf30}round
-Dialogue: 0,0:01:43.68,0:01:46.30,DEFAULT,,0,0,0,,{\kf24}Step{\kf30} off,{\kf18} and{\kf18} step{\kf24} a{\kf18}way{\kf18} from{\kf18} the{\kf24} sound
-Dialogue: 0,0:01:46.48,0:01:51.07,DEFAULT,,0,0,0,,{\kf30}I've{\kf30} found{\kf18} the{\kf18} world{\kf18} looks{\kf24} smal{\kf18}ler{\kf18} when{\kf18} you're{\kf24} miles{\kf18}~{\kf24} a{\kf30}bove{\kf24} the{\kf18}~{\kf24} ground
-Dialogue: 0,0:01:51.30,0:01:54.93,DEFAULT,,0,0,0,,{\kf30}Free-{\kf36}fall,{\kf18} loose{\kf18} it{\kf24} all,{\kf18} like{\kf18} you're{\kf30} ten{\kf24} feet{\kf18}~{\kf30} tall
-Dialogue: 0,0:01:55.11,0:01:57.73,DEFAULT,,0,0,0,,{\kf18}You{\kf18} can't{\kf18} be{\kf24} some{\kf18}one{\kf18} ‘till{\kf18} you're{\kf18} no{\kf18} one{\kf18} at{\kf18} all
-Dialogue: 0,0:01:57.97,0:02:01.54,DEFAULT,,0,0,0,,{\kf18}And{\kf30} say{\kf30} "Hey,{\kf18} can't{\kf18} you{\kf30} see{\kf18} what{\kf18} it's{\kf24} do{\kf18}ing{\kf18} to{\kf24} me?
-Dialogue: 0,0:02:01.78,0:02:05.35,DEFAULT,,0,0,0,,{\kf18}I{\kf18} may{\kf18} be{\kf24} los{\kf18}ing{\kf18} my{\kf30} mind,{\kf18} but{\kf24} at{\kf18} least{\kf30} I'm{\kf24} free!"
-Dialogue: 0,0:02:06.07,0:02:09.22,DEFAULT,,0,0,0,,{\kf18}I'm{\kf24} tak{\kf18}en{\kf18} by{\kf18} this{\kf24} feel{\kf18}ing{\kf18} and{\kf18} I'm{\kf24} losi{\kf18}ng{\kf18} the{\kf30} fight
-Dialogue: 0,0:02:09.40,0:02:13.39,DEFAULT,,0,0,0,,{\kf42}I'm{\kf36} fal{\kf30}ling,{\kf36} feel{\kf30}ing,{\kf36} fast{\kf30}er{\kf24} we{\kf42} go
-Dialogue: 0,0:02:13.68,0:02:16.72,DEFAULT,,0,0,0,,{\kf24}Sur{\kf24}ren{\kf18}der{\kf18} to{\kf18} this{\kf24} mo{\kf18}ment{\kf18} like{\kf18} the{\kf18} day{\kf18} to{\kf18} the{\kf18} night
-Dialogue: 0,0:02:17.02,0:02:21.01,DEFAULT,,0,0,0,,{\kf30}I'm{\kf24} fal{\kf24}~{\kf30}ling,{\kf24} fal{\kf24}~{\kf30}ling,{\kf30} fast{\kf30}er{\kf24} we{\kf42} go
-Dialogue: 0,0:02:28.45,0:02:35.23,DEFAULT,,0,0,0,,{\kf24}Hey{\kf18} hey{\kf625} hey
-Dialogue: 0,0:02:36.01,0:02:36.78,DEFAULT,,0,0,0,,{\kf24}It's{\kf24} your{\kf12} life
-Dialogue: 0,0:02:37.02,0:02:39.52,DEFAULT,,0,0,0,,{\kf18}And{\kf18} it's{\kf18} the{\kf24} on{\kf18}ly{\kf18} one{\kf18} that{\kf18} you'll{\kf24} e{\kf18}ver{\kf12} get
-Dialogue: 0,0:02:39.76,0:02:40.65,DEFAULT,,0,0,0,,{\kf12}Do{\kf12} you{\kf18} feel{\kf18} a{\kf12}live?
-Dialogue: 0,0:02:40.83,0:02:43.03,DEFAULT,,0,0,0,,{\kf18}And{\kf18} are{\kf18} you{\kf24} mak{\kf18}ing{\kf18} the{\kf18} most{\kf18} of{\kf30} it?
-Dialogue: 0,0:02:43.45,0:02:44.46,DEFAULT,,0,0,0,,{\kf30}It's{\kf30} your{\kf12} life
-Dialogue: 0,0:02:44.64,0:02:47.08,DEFAULT,,0,0,0,,{\kf18}And{\kf18} you're{\kf18} the{\kf24} on{\kf18}ly{\kf18} one{\kf18} that{\kf18} you'll{\kf24} e{\kf12}ver{\kf12} be
-Dialogue: 0,0:02:47.26,0:02:48.21,DEFAULT,,0,0,0,,{\kf12}Do{\kf12} you{\kf12} feel{\kf6} a{\kf18}live?
-Dialogue: 0,0:02:48.45,0:02:50.83,DEFAULT,,0,0,0,,{\kf18}And{\kf18} can{\kf18} you{\kf24} han{\kf18}dle{\kf24} Ze{\kf18}ro{\kf24} Gra{\kf24}vi{\kf24}ty?
-Dialogue: 0,0:02:51.18,0:02:52.02,DEFAULT,,0,0,0,,{\kf24}It's{\kf18} your{\kf12} life
-Dialogue: 0,0:02:52.26,0:02:54.82,DEFAULT,,0,0,0,,{\kf18}And{\kf18} it's{\kf18} the{\kf24} on{\kf18}ly{\kf18} one{\kf18} that{\kf18} you'll{\kf24} e{\kf18}ver{\kf18} get
-Dialogue: 0,0:02:54.99,0:02:55.95,DEFAULT,,0,0,0,,{\kf12}Do{\kf12} you{\kf18} feel{\kf24} a{\kf12}live?
-Dialogue: 0,0:02:56.13,0:02:58.15,DEFAULT,,0,0,0,,{\kf12}And{\kf18} are{\kf18} you{\kf24} mak{\kf18}ing{\kf18} the{\kf18} most{\kf18} of{\kf18} it?
-Dialogue: 0,0:02:58.74,0:02:59.70,DEFAULT,,0,0,0,,{\kf30}It's{\kf24} your{\kf12} life
-Dialogue: 0,0:02:59.88,0:03:02.38,DEFAULT,,0,0,0,,{\kf18}And{\kf18} you're{\kf18} the{\kf24} on{\kf18}ly{\kf18} one{\kf18} that{\kf18} you'll{\kf24} e{\kf18}ver{\kf12} be
-Dialogue: 0,0:03:02.61,0:03:03.51,DEFAULT,,0,0,0,,{\kf6}Do{\kf18} you{\kf18} feel{\kf18} a{\kf12}live?
-Dialogue: 0,0:03:03.68,0:03:06.18,DEFAULT,,0,0,0,,{\kf18}And{\kf18} can{\kf18} you{\kf24} han{\kf18}dle{\kf24} Ze{\kf18}ro{\kf30} Gra{\kf24}vi{\kf30}ty?
-Dialogue: 0,0:03:06.60,0:03:13.27,DEFAULT,,0,0,0,,{\kf12}Hey{\kf18} hey{\kf625} hey
-Dialogue: 0,0:03:14.16,0:03:18.63,DEFAULT,,0,0,0,,{\kf12}Hey{\kf24} hey{\kf399} hey
+Dialogue: 0,0:00:15.54,0:00:18.75,DEFAULT,,0,0,0,,{\r}{\kf29}I'm{\kf29} ta{\kf15}ken{\kf22} by{\kf22} this{\kf29} fee{\kf22}ling{\kf22} and{\kf22} I'm{\kf29} los{\kf22}ing{\kf22} the{\kf36} fight
+Dialogue: 0,0:00:18.99,0:00:22.92,DEFAULT,,0,0,0,,{\r}{\kf45}I'm{\kf45} fal{\kf38}ling,{\kf45} feel{\kf45}ing,{\kf53} fast{\kf45}er{\kf23} we{\kf54} go
+Dialogue: 0,0:00:23.15,0:00:26.31,DEFAULT,,0,0,0,,{\r}{\kf29}Sur{\kf29}ren{\kf22}der{\kf22} to{\kf22} this{\kf29} mo{\kf22}ment{\kf22} like{\kf22} the{\kf22} day{\kf22} to{\kf22} the{\kf30} night
+Dialogue: 0,0:00:26.55,0:00:30.48,DEFAULT,,0,0,0,,{\r}{\kf44}I'm{\kf36} fal{\kf29}~{\kf36}ling,{\kf36} fal{\kf29}~{\kf36}ling,{\kf44} fast{\kf36}er{\kf29} we{\kf38} go
+Dialogue: 0,0:00:35.06,0:00:38.69,DEFAULT,,0,0,0,,{\r}{\kf28}I'm{\kf28} get{\kf21}ting{\kf28} ti{\kf21}red{\kf21} of{\kf21} the{\kf35} run{\kf21}ning,{\kf14} the{\kf35} scream{\kf21}ing,{\kf14} the{\kf28} fight{\kf27}ing
+Dialogue: 0,0:00:38.93,0:00:42.56,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} feel{\kf24} it{\kf32} fol{\kf32}low{\kf24}ing{\kf24} me{\kf32} e{\kf47}very{\kf39}where{\kf24} I{\kf37} go
+Dialogue: 0,0:00:42.68,0:00:46.07,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf22} see{\kf22} it{\kf22} in{\kf22} their{\kf29} fa{\kf22}ces,{\kf22} e{\kf29}very{\kf22} place{\kf22} is{\kf29} bleed{\kf22}ing{\kf25} it
+Dialogue: 0,0:00:46.55,0:00:48.03,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf14} I{\kf21} am{\kf28} breath{\kf21}ing{\kf37} it
+Dialogue: 0,0:00:48.39,0:00:50.00,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf22} am{\kf22} a{\kf22} piece{\kf22} of{\kf44} it
+Dialogue: 0,0:00:50.36,0:00:53.09,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} we{\kf22} can't{\kf22} live{\kf29} with{\kf22}out{\kf22} the{\kf29} fash{\kf22}ion,{\kf22} the{\kf29} pas{\kf11}sion
+Dialogue: 0,0:00:53.27,0:00:57.74,DEFAULT,,0,0,0,,{\r}{\kf14}It's{\kf28} catch{\kf21}ing{\kf21} us{\kf21} with{\kf21} no{\kf28} re{\kf28}ac{\kf21}tion{\kf21} and{\kf21} it's{\kf50} e{\kf50}very{\kf42}where{\kf28} we{\kf31} go
+Dialogue: 0,0:00:57.98,0:01:01.43,DEFAULT,,0,0,0,,{\r}{\kf22}We{\kf22} just{\kf22} keep{\kf29} hold{\kf22}ing{\kf22} on,{\kf29} a{\kf22}fraid{\kf22} of{\kf22} just{\kf29} re{\kf29}leas{\kf22}ing{\kf31} it
+Dialogue: 0,0:01:01.78,0:01:03.27,DEFAULT,,0,0,0,,{\r}{\kf20}There's{\kf20} no{\kf27} de{\kf27}feat{\kf20}ing{\kf35} it
+Dialogue: 0,0:01:03.69,0:01:05.00,DEFAULT,,0,0,0,,{\r}{\kf23}Can{\kf23} we{\kf23} find{\kf23} peace{\kf23} with{\kf16} it?
+Dialogue: 0,0:01:05.18,0:01:08.21,DEFAULT,,0,0,0,,{\r}{\kf14}I'm{\kf29} ta{\kf22}ken{\kf22} by{\kf22} this{\kf29} feel{\kf22}ing{\kf22} and{\kf22} I'm{\kf29} los{\kf22}ing{\kf22} the{\kf27} fight
+Dialogue: 0,0:01:08.51,0:01:12.44,DEFAULT,,0,0,0,,{\r}{\kf37}I'm{\kf30} fal{\kf30}~{\kf37}ling,{\kf30} feel{\kf30}~{\kf37}ing,{\kf44} fast{\kf44}er{\kf22} we{\kf52} go
+Dialogue: 0,0:01:12.68,0:01:15.89,DEFAULT,,0,0,0,,{\r}{\kf36}Sur{\kf29}ren{\kf21}der{\kf21} to{\kf21} this{\kf29} mo{\kf21}ment{\kf21} like{\kf21} the{\kf21} day{\kf21} to{\kf21} the{\kf38} night
+Dialogue: 0,0:01:16.07,0:01:19.76,DEFAULT,,0,0,0,,{\r}{\kf42}I'm{\kf34} fal{\kf34}~{\kf34}ling,{\kf34} fal{\kf34}~{\kf42}ling,{\kf42} fast{\kf34}er{\kf25} we{\kf14} go
+Dialogue: 0,0:01:20.06,0:01:20.65,DEFAULT,,0,0,0,,{\r}{\kf17}It's{\kf26} your{\kf17} life
+Dialogue: 0,0:01:20.83,0:01:23.33,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} it's{\kf22} the{\kf29} on{\kf22}ly{\kf22} one{\kf22} that{\kf22} you'll{\kf29} e{\kf22}ver{\kf16} get
+Dialogue: 0,0:01:23.51,0:01:24.46,DEFAULT,,0,0,0,,{\r}{\kf15}Do{\kf22} you{\kf22} feel{\kf22} a{\kf14}live?
+Dialogue: 0,0:01:24.70,0:01:26.73,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} are{\kf22} you{\kf22} mak{\kf22}ing{\kf22} the{\kf22} most{\kf22} of{\kf26} it?
+Dialogue: 0,0:01:27.26,0:01:28.27,DEFAULT,,0,0,0,,{\r}{\kf47}It's{\kf39} your{\kf15} life
+Dialogue: 0,0:01:28.45,0:01:30.95,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} you're{\kf22} the{\kf29} on{\kf22}ly{\kf22} one{\kf22} that{\kf29} you'll{\kf22} e{\kf22}ver{\kf16} be
+Dialogue: 0,0:01:31.13,0:01:32.20,DEFAULT,,0,0,0,,{\r}{\kf14}Do{\kf21} you{\kf21} feel{\kf29} a{\kf22}live?
+Dialogue: 0,0:01:32.26,0:01:34.70,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} can{\kf20} you{\kf27} han{\kf20}dle{\kf27} Ze{\kf20}ro{\kf27} Gra{\kf27}vi{\kf36}ty?
+Dialogue: 0,0:01:36.07,0:01:39.64,DEFAULT,,0,0,0,,{\r}{\kf25}When{\kf25} you{\kf25} are{\kf25} up{\kf25} here{\kf25} there{\kf25} is{\kf33} no{\kf25}where{\kf25} to{\kf33} look{\kf33} but{\kf33} down
+Dialogue: 0,0:01:39.88,0:01:43.45,DEFAULT,,0,0,0,,{\r}{\kf22}For{\kf22}get{\kf22} it{\kf22} all{\kf22} and{\kf22} let{\kf22} the{\kf22} si{\kf30}lence{\kf30} a{\kf30}round,{\kf30} sur{\kf22}~{\kf39}round
+Dialogue: 0,0:01:43.69,0:01:46.31,DEFAULT,,0,0,0,,{\r}{\kf33}Step{\kf41} off,{\kf25} and{\kf25} step{\kf33} a{\kf25}way{\kf25} from{\kf25} the{\kf30} sound
+Dialogue: 0,0:01:46.49,0:01:51.07,DEFAULT,,0,0,0,,{\r}{\kf39}I've{\kf39} found{\kf23} the{\kf23} world{\kf23} looks{\kf31} smal{\kf23}ler{\kf23} when{\kf23} you're{\kf31} miles{\kf23}~{\kf31} a{\kf39}bove{\kf31} the{\kf23}~{\kf33} ground
+Dialogue: 0,0:01:51.31,0:01:54.94,DEFAULT,,0,0,0,,{\r}{\kf41}Free-{\kf50}fall,{\kf25} loose{\kf25} it{\kf33} all,{\kf25} like{\kf25} you're{\kf41} ten{\kf33} feet{\kf25}~{\kf40} tall
+Dialogue: 0,0:01:55.12,0:01:57.74,DEFAULT,,0,0,0,,{\r}{\kf23}You{\kf23} can't{\kf23} be{\kf31} some{\kf23}one{\kf23} ‘till{\kf23} you're{\kf23} no{\kf23} one{\kf23} at{\kf24} all
+Dialogue: 0,0:01:57.98,0:02:01.55,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf41} say{\kf41} "Hey,{\kf24} can't{\kf24} you{\kf41} see{\kf24} what{\kf24} it's{\kf32} do{\kf24}ing{\kf24} to{\kf34} me?
+Dialogue: 0,0:02:01.78,0:02:05.36,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf25} may{\kf25} be{\kf33} los{\kf25}ing{\kf25} my{\kf42} mind,{\kf25} but{\kf33} at{\kf25} least{\kf42} I'm{\kf32} free!"
+Dialogue: 0,0:02:06.07,0:02:09.23,DEFAULT,,0,0,0,,{\r}{\kf21}I'm{\kf29} tak{\kf21}en{\kf21} by{\kf21} this{\kf29} feel{\kf21}ing{\kf21} and{\kf21} I'm{\kf29} losi{\kf21}ng{\kf21} the{\kf39} fight
+Dialogue: 0,0:02:09.40,0:02:13.39,DEFAULT,,0,0,0,,{\r}{\kf55}I'm{\kf47} fal{\kf39}ling,{\kf47} feel{\kf39}ing,{\kf47} fast{\kf39}er{\kf31} we{\kf55} go
+Dialogue: 0,0:02:13.69,0:02:16.73,DEFAULT,,0,0,0,,{\r}{\kf29}Sur{\kf29}ren{\kf22}der{\kf22} to{\kf22} this{\kf29} mo{\kf22}ment{\kf22} like{\kf22} the{\kf22} day{\kf22} to{\kf22} the{\kf19} night
+Dialogue: 0,0:02:17.02,0:02:21.01,DEFAULT,,0,0,0,,{\r}{\kf38}I'm{\kf31} fal{\kf31}~{\kf38}ling,{\kf31} fal{\kf31}~{\kf38}ling,{\kf38} fast{\kf38}er{\kf31} we{\kf54} go
+Dialogue: 0,0:02:28.45,0:02:35.24,DEFAULT,,0,0,0,,{\r}{\kf24}Hey{\kf18} hey{\kf637} hey
+Dialogue: 0,0:02:36.01,0:02:36.78,DEFAULT,,0,0,0,,{\r}{\kf31}It's{\kf31} your{\kf15} life
+Dialogue: 0,0:02:37.02,0:02:39.52,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} it's{\kf22} the{\kf29} on{\kf22}ly{\kf22} one{\kf22} that{\kf22} you'll{\kf29} e{\kf22}ver{\kf16} get
+Dialogue: 0,0:02:39.76,0:02:40.65,DEFAULT,,0,0,0,,{\r}{\kf15}Do{\kf15} you{\kf22} feel{\kf22} a{\kf15}live?
+Dialogue: 0,0:02:40.83,0:02:43.03,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} are{\kf22} you{\kf29} mak{\kf22}ing{\kf22} the{\kf22} most{\kf22} of{\kf37} it?
+Dialogue: 0,0:02:43.45,0:02:44.46,DEFAULT,,0,0,0,,{\r}{\kf42}It's{\kf42} your{\kf17} life
+Dialogue: 0,0:02:44.64,0:02:47.08,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} you're{\kf22} the{\kf30} on{\kf22}ly{\kf22} one{\kf22} that{\kf22} you'll{\kf30} e{\kf15}ver{\kf15} be
+Dialogue: 0,0:02:47.26,0:02:48.21,DEFAULT,,0,0,0,,{\r}{\kf19}Do{\kf19} you{\kf19} feel{\kf10} a{\kf28}live?
+Dialogue: 0,0:02:48.45,0:02:50.83,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} can{\kf20} you{\kf27} han{\kf20}dle{\kf27} Ze{\kf20}ro{\kf27} Gra{\kf27}vi{\kf30}ty?
+Dialogue: 0,0:02:51.19,0:02:52.02,DEFAULT,,0,0,0,,{\r}{\kf37}It's{\kf28} your{\kf18} life
+Dialogue: 0,0:02:52.26,0:02:54.82,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} it's{\kf22} the{\kf29} on{\kf22}ly{\kf22} one{\kf22} that{\kf22} you'll{\kf29} e{\kf22}ver{\kf22} get
+Dialogue: 0,0:02:55.00,0:02:55.95,DEFAULT,,0,0,0,,{\r}{\kf15}Do{\kf15} you{\kf22} feel{\kf29} a{\kf14}live?
+Dialogue: 0,0:02:56.13,0:02:58.15,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf22} are{\kf22} you{\kf30} mak{\kf22}ing{\kf22} the{\kf22} most{\kf22} of{\kf25} it?
+Dialogue: 0,0:02:58.75,0:02:59.70,DEFAULT,,0,0,0,,{\r}{\kf43}It's{\kf35} your{\kf17} life
+Dialogue: 0,0:02:59.88,0:03:02.38,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} you're{\kf22} the{\kf29} on{\kf22}ly{\kf22} one{\kf22} that{\kf22} you'll{\kf29} e{\kf22}ver{\kf16} be
+Dialogue: 0,0:03:02.62,0:03:03.51,DEFAULT,,0,0,0,,{\r}{\kf10}Do{\kf22} you{\kf22} feel{\kf22} a{\kf13}live?
+Dialogue: 0,0:03:03.69,0:03:06.19,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} can{\kf20} you{\kf27} han{\kf20}dle{\kf27} Ze{\kf20}ro{\kf34} Gra{\kf27}vi{\kf35}ty?
+Dialogue: 0,0:03:06.61,0:03:13.27,DEFAULT,,0,0,0,,{\r}{\kf12}Hey{\kf18} hey{\kf637} hey
+Dialogue: 0,0:03:14.17,0:03:18.63,DEFAULT,,0,0,0,,{\r}{\kf12}Hey{\kf24} hey{\kf410} hey

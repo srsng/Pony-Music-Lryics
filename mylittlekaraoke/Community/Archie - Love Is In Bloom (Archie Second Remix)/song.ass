@@ -1,36 +1,43 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Love Is In Bloom (Archie Second Remix)
+Artist: Archie
+Original Timing: mylittlekaraoke.com by Nicolas Ha, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:15.28,0:01:17.27,DEFAULT,,0,0,0,,{\kf24}Love{\kf28} is{\kf36} in{\kf59} bloom
-Dialogue: 0,0:01:18.09,0:01:21.96,DEFAULT,,0,0,0,,{\kf12}A{\kf8} beau{\kf8}ti{\kf40} -ful{\kf59} bride{\kf36} A{\kf12} hand{\kf24}~{\kf24}some{\kf12}~{\kf59} groom
-Dialogue: 0,0:01:22.07,0:01:24.54,DEFAULT,,0,0,0,,{\kf12}Two{\kf36} hearts{\kf12} be{\kf24}com{\kf36}ing{\kf36} one
-Dialogue: 0,0:01:25.82,0:01:29.81,DEFAULT,,0,0,0,,{\kf12}A{\kf36} bond{\kf12} that{\kf24} can{\kf12}~{\kf36}not{\kf12} be{\kf24}~{\kf36} un{\kf24}done{\kf12}~{\kf12} be{\kf24}cause
-Dialogue: 0,0:01:30.01,0:01:33.29,DEFAULT,,0,0,0,,{\kf59}Love{\kf12} is{\kf83} in{\kf24} bloom{\kf118}~
-Dialogue: 0,0:01:33.52,0:01:37.27,DEFAULT,,0,0,0,,{\kf12}A{\kf12} beau{\kf12}ti{\kf12}ful{\kf36} bride{\kf24} a{\kf36} hand{\kf36}some{\kf24} groom{\kf12} I{\kf24} said
-Dialogue: 0,0:01:37.51,0:01:40.56,DEFAULT,,0,0,0,,{\kf59}Love{\kf12} is{\kf83} in{\kf24} bloom{\kf94}~
-Dialogue: 0,0:01:41.02,0:01:44.97,DEFAULT,,0,0,0,,{\kf12}You're{\kf12} start{\kf12}ing{\kf12} a{\kf36} life{\kf24} and{\kf36} mak{\kf36}ing{\kf47} room{\kf12} for{\kf20} us
-Dialogue: 0,0:01:45.01,0:01:48.29,DEFAULT,,0,0,0,,{\kf59}Love{\kf12} is{\kf83} in{\kf24} bloom{\kf118}~
-Dialogue: 0,0:01:48.53,0:01:52.28,DEFAULT,,0,0,0,,{\kf12}A{\kf12} beau{\kf12}ti{\kf12}ful{\kf36} bride{\kf24} a{\kf36} hand{\kf36}some{\kf24} groom{\kf12} I{\kf24} said
-Dialogue: 0,0:01:52.51,0:01:55.56,DEFAULT,,0,0,0,,{\kf59}Love{\kf12} is{\kf83} in{\kf24} bloom{\kf94}~
-Dialogue: 0,0:01:56.03,0:01:59.97,DEFAULT,,0,0,0,,{\kf12}You're{\kf12} start{\kf12}ing{\kf12} a{\kf36} life{\kf24} and{\kf36} mak{\kf36}ing{\kf47} room{\kf12} for{\kf20} us
-Dialogue: 0,0:02:59.09,0:02:59.87,DEFAULT,,0,0,0,,{\kf20}Wow.{\kf28} Catchy.
-Dialogue: 0,0:03:45.28,0:03:47.27,DEFAULT,,0,0,0,,{\kf24}Love{\kf28} is{\kf36} in{\kf59} bloom
-Dialogue: 0,0:03:48.09,0:03:51.96,DEFAULT,,0,0,0,,{\kf12}A{\kf8} beau{\kf8}ti{\kf40} -ful{\kf59} bride{\kf36} A{\kf12} hand{\kf24}~{\kf24}some{\kf12}~{\kf59} groom
-Dialogue: 0,0:03:52.07,0:03:54.54,DEFAULT,,0,0,0,,{\kf12}Two{\kf36} hearts{\kf12} be{\kf24}com{\kf36}ing{\kf36} one
-Dialogue: 0,0:03:55.82,0:03:59.81,DEFAULT,,0,0,0,,{\kf12}A{\kf36} bond{\kf12} that{\kf24} can{\kf12}~{\kf36}not{\kf12} be{\kf24}~{\kf36} un{\kf24}done{\kf12}~{\kf12} be{\kf24}cause
-Dialogue: 0,0:04:00.01,0:04:03.29,DEFAULT,,0,0,0,,{\kf59}Love{\kf12} is{\kf83} in{\kf24} bloom{\kf118}~
-Dialogue: 0,0:04:03.52,0:04:07.27,DEFAULT,,0,0,0,,{\kf12}A{\kf12} beau{\kf12}ti{\kf12}ful{\kf36} bride{\kf24} a{\kf36} hand{\kf36}some{\kf24} groom{\kf12} I{\kf24} said
-Dialogue: 0,0:04:07.51,0:04:10.56,DEFAULT,,0,0,0,,{\kf59}Love{\kf12} is{\kf83} in{\kf24} bloom{\kf94}~
-Dialogue: 0,0:04:11.02,0:04:15.56,DEFAULT,,0,0,0,,{\kf12}You're{\kf12} start{\kf12}ing{\kf12} a{\kf36} life{\kf24} and{\kf36} mak{\kf36}ing{\kf47} room{\kf12} for{\kf20} us{\kf55} Love
-Dialogue: 0,0:04:15.71,0:04:18.29,DEFAULT,,0,0,0,,{\kf12}is{\kf83} in{\kf24} bloom{\kf118}~
-Dialogue: 0,0:04:18.53,0:04:22.28,DEFAULT,,0,0,0,,{\kf12}A{\kf12} beau{\kf12}ti{\kf12}ful{\kf36} bride{\kf24} a{\kf36} hand{\kf36}some{\kf24} groom{\kf12} I{\kf24} said
-Dialogue: 0,0:04:22.51,0:04:26.15,DEFAULT,,0,0,0,,{\kf59}Love{\kf12} is{\kf83} in{\kf59} Love{\kf12} is{\kf83} in
-Dialogue: 0,0:06:28.40,0:06:30.36,DEFAULT,,0,0,0,,{\kf24}Love{\kf28} is{\kf36} in{\kf59} bloom
+Dialogue: 0,0:01:15.28,0:01:17.27,DEFAULT,,0,0,0,,{\r}{\kf32}Love{\kf38} is{\kf48} in{\kf81} bloom
+Dialogue: 0,0:01:18.09,0:01:21.96,DEFAULT,,0,0,0,,{\r}{\kf16}A{\kf10} beau{\kf10}ti{\kf52} -ful{\kf78} bride{\kf47} A{\kf16} hand{\kf31}~{\kf31}some{\kf16}~{\kf80} groom
+Dialogue: 0,0:01:22.08,0:01:24.54,DEFAULT,,0,0,0,,{\r}{\kf19}Two{\kf57} hearts{\kf19} be{\kf38}com{\kf57}ing{\kf56} one
+Dialogue: 0,0:01:25.83,0:01:29.82,DEFAULT,,0,0,0,,{\r}{\kf17}A{\kf52} bond{\kf17} that{\kf35} can{\kf17}~{\kf52}not{\kf17} be{\kf35}~{\kf52} un{\kf35}done{\kf17}~{\kf17} be{\kf36}cause
+Dialogue: 0,0:01:30.01,0:01:33.29,DEFAULT,,0,0,0,,{\r}{\kf66}Love{\kf13} is{\kf92} in{\kf26} bloom{\kf131}~
+Dialogue: 0,0:01:33.53,0:01:37.28,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf19} beau{\kf19}ti{\kf19}ful{\kf56} bride{\kf38} a{\kf56} hand{\kf56}some{\kf38} groom{\kf19} I{\kf36} said
+Dialogue: 0,0:01:37.51,0:01:40.56,DEFAULT,,0,0,0,,{\r}{\kf66}Love{\kf13} is{\kf93} in{\kf27} bloom{\kf106}~
+Dialogue: 0,0:01:41.03,0:01:44.98,DEFAULT,,0,0,0,,{\r}{\kf18}You're{\kf18} start{\kf18}ing{\kf18} a{\kf55} life{\kf36} and{\kf55} mak{\kf55}ing{\kf73} room{\kf18} for{\kf31} us
+Dialogue: 0,0:01:45.01,0:01:48.30,DEFAULT,,0,0,0,,{\r}{\kf66}Love{\kf13} is{\kf92} in{\kf26} bloom{\kf131}~
+Dialogue: 0,0:01:48.53,0:01:52.28,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf19} beau{\kf19}ti{\kf19}ful{\kf56} bride{\kf38} a{\kf56} hand{\kf56}some{\kf38} groom{\kf19} I{\kf36} said
+Dialogue: 0,0:01:52.52,0:01:55.56,DEFAULT,,0,0,0,,{\r}{\kf66}Love{\kf13} is{\kf93} in{\kf27} bloom{\kf106}~
+Dialogue: 0,0:01:56.03,0:01:59.98,DEFAULT,,0,0,0,,{\r}{\kf18}You're{\kf18} start{\kf18}ing{\kf18} a{\kf55} life{\kf36} and{\kf55} mak{\kf55}ing{\kf73} room{\kf18} for{\kf31} us
+Dialogue: 0,0:02:59.10,0:02:59.88,DEFAULT,,0,0,0,,{\r}{\kf32}Wow.{\kf46} Catchy.
+Dialogue: 0,0:03:45.28,0:03:47.27,DEFAULT,,0,0,0,,{\r}{\kf32}Love{\kf38} is{\kf48} in{\kf81} bloom
+Dialogue: 0,0:03:48.09,0:03:51.96,DEFAULT,,0,0,0,,{\r}{\kf16}A{\kf10} beau{\kf10}ti{\kf52} -ful{\kf78} bride{\kf47} A{\kf16} hand{\kf31}~{\kf31}some{\kf16}~{\kf80} groom
+Dialogue: 0,0:03:52.08,0:03:54.54,DEFAULT,,0,0,0,,{\r}{\kf19}Two{\kf57} hearts{\kf19} be{\kf38}com{\kf57}ing{\kf56} one
+Dialogue: 0,0:03:55.83,0:03:59.82,DEFAULT,,0,0,0,,{\r}{\kf17}A{\kf52} bond{\kf17} that{\kf35} can{\kf17}~{\kf52}not{\kf17} be{\kf35}~{\kf52} un{\kf35}done{\kf17}~{\kf17} be{\kf36}cause
+Dialogue: 0,0:04:00.01,0:04:03.29,DEFAULT,,0,0,0,,{\r}{\kf66}Love{\kf13} is{\kf92} in{\kf26} bloom{\kf131}~
+Dialogue: 0,0:04:03.53,0:04:07.28,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf19} beau{\kf19}ti{\kf19}ful{\kf56} bride{\kf38} a{\kf56} hand{\kf56}some{\kf38} groom{\kf19} I{\kf36} said
+Dialogue: 0,0:04:07.51,0:04:10.56,DEFAULT,,0,0,0,,{\r}{\kf66}Love{\kf13} is{\kf93} in{\kf27} bloom{\kf106}~
+Dialogue: 0,0:04:11.03,0:04:15.56,DEFAULT,,0,0,0,,{\r}{\kf17}You're{\kf17} start{\kf17}ing{\kf17} a{\kf52} life{\kf34} and{\kf52} mak{\kf52}ing{\kf69} room{\kf17} for{\kf29} us{\kf80} Love
+Dialogue: 0,0:04:15.72,0:04:18.30,DEFAULT,,0,0,0,,{\r}{\kf13}is{\kf90} in{\kf26} bloom{\kf129}~
+Dialogue: 0,0:04:18.53,0:04:22.28,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf19} beau{\kf19}ti{\kf19}ful{\kf56} bride{\kf38} a{\kf56} hand{\kf56}some{\kf38} groom{\kf19} I{\kf36} said
+Dialogue: 0,0:04:22.52,0:04:26.15,DEFAULT,,0,0,0,,{\r}{\kf70}Love{\kf14} is{\kf98} in{\kf70} Love{\kf14} is{\kf97} in
+Dialogue: 0,0:06:28.41,0:06:30.36,DEFAULT,,0,0,0,,{\r}{\kf32}Love{\kf37} is{\kf47} in{\kf79} bloom

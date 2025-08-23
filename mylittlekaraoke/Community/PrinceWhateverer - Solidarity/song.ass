@@ -1,88 +1,95 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Solidarity (In This Together)
+Artist: PrinceWhateverer
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:20.16,0:00:21.91,DEFAULT,,0,0,0,,{\kf17}We're{\kf17} in{\kf17} this{\kf17} to{\kf13}ge{\kf55}ther!
-Dialogue: 0,0:00:42.45,0:00:46.28,DEFAULT,,0,0,0,,{\kf21}Look{\kf21}ing{\kf50} back{\kf17}~{\kf25} feels{\kf17} so{\kf17} bit{\kf17}ter{\kf59}sweet
-Dialogue: 0,0:00:46.95,0:00:49.57,DEFAULT,,0,0,0,,{\kf17}I'd{\kf17} ne{\kf17}ver{\kf13} i{\kf21}ma{\kf21}gine{\kf38} what{\kf21} we{\kf21} start{\kf13}ed
-Dialogue: 0,0:00:49.70,0:00:51.36,DEFAULT,,0,0,0,,{\kf13}Could{\kf17} mean{\kf21} so{\kf21} much{\kf13} to{\kf38} me
-Dialogue: 0,0:00:52.32,0:00:53.49,DEFAULT,,0,0,0,,{\kf17}It{\kf13} might{\kf17} be{\kf25} true{\kf13} we've
-Dialogue: 0,0:00:53.66,0:00:56.99,DEFAULT,,0,0,0,,{\kf55}Passed{\kf55} the{\kf50} gol{\kf21}den{\kf17}~{\kf63} years
-Dialogue: 0,0:00:57.53,0:00:59.28,DEFAULT,,0,0,0,,{\kf17}Well{\kf13} let{\kf13} them{\kf9} say{\kf17} what{\kf21} they{\kf25} want
-Dialogue: 0,0:00:59.45,0:01:01.11,DEFAULT,,0,0,0,,{\kf13}I'll{\kf13} po{\kf21}li{\kf17}tely{\kf25} dis{\kf17}a{\kf13}gree
-Dialogue: 0,0:01:01.28,0:01:02.61,DEFAULT,,0,0,0,,{\kf17}'Cause{\kf17} it{\kf17} does{\kf13}n't{\kf17} mean{\kf13} much
-Dialogue: 0,0:01:02.78,0:01:04.86,DEFAULT,,0,0,0,,{\kf13}If{\kf13} you're{\kf25} where{\kf21} you{\kf25} wan{\kf17}na{\kf50} be
-Dialogue: 0,0:01:05.45,0:01:07.86,DEFAULT,,0,0,0,,{\kf17}So{\kf25} scream{\kf17} if{\kf17} you're{\kf21} out{\kf105} there
-Dialogue: 0,0:01:08.36,0:01:10.41,DEFAULT,,0,0,0,,{\kf17}If{\kf21} things{\kf17} just{\kf13} ain't{\kf92} fair
-Dialogue: 0,0:01:10.82,0:01:13.11,DEFAULT,,0,0,0,,{\kf13}A{\kf21}lone{\kf17} in{\kf13} a{\kf30} night{\kf92}mare
-Dialogue: 0,0:01:13.36,0:01:15.61,DEFAULT,,0,0,0,,{\kf13}We're{\kf17} not{\kf21} go{\kf13}ing{\kf13} a{\kf13}ny{\kf92}where
-Dialogue: 0,0:01:16.20,0:01:18.45,DEFAULT,,0,0,0,,{\kf13}Don't{\kf21} tell{\kf17} me{\kf13} it's{\kf25} o{\kf92}ver
-Dialogue: 0,0:01:18.86,0:01:20.95,DEFAULT,,0,0,0,,{\kf13}That{\kf17} all{\kf21} things{\kf17} have{\kf21} to{\kf71} end
-Dialogue: 0,0:01:21.24,0:01:23.70,DEFAULT,,0,0,0,,{\kf13}I{\kf13} think{\kf17} we'll{\kf21} live{\kf17} for{\kf25}e{\kf84}ver
-Dialogue: 0,0:01:23.95,0:01:25.78,DEFAULT,,0,0,0,,{\kf13}'Cause{\kf17} we're{\kf17} in{\kf17} this{\kf13} to{\kf13}ge{\kf42}ther
-Dialogue: 0,0:01:26.45,0:01:27.57,DEFAULT,,0,0,0,,{\kf113}Hey!
-Dialogue: 0,0:01:28.32,0:01:31.07,DEFAULT,,0,0,0,,{\kf21}Tell{\kf17} me{\kf17} where{\kf17} do{\kf17} we{\kf21} go{\kf21} from{\kf75} here
-Dialogue: 0,0:01:31.82,0:01:32.95,DEFAULT,,0,0,0,,{\kf113}Hey!
-Dialogue: 0,0:01:33.32,0:01:36.32,DEFAULT,,0,0,0,,{\kf13}Do{\kf13} we{\kf30} just{\kf25} burn{\kf17} up{\kf13} and{\kf25} dis{\kf25}ap{\kf59}pear
-Dialogue: 0,0:01:37.16,0:01:38.28,DEFAULT,,0,0,0,,{\kf113}Hey!
-Dialogue: 0,0:01:38.66,0:01:41.74,DEFAULT,,0,0,0,,{\kf13}Will{\kf13} you{\kf30} still{\kf21} be{\kf25} there{\kf17} stood{\kf17} next{\kf25} to{\kf71} me
-Dialogue: 0,0:01:42.49,0:01:43.61,DEFAULT,,0,0,0,,{\kf113}Hey!
-Dialogue: 0,0:01:44.07,0:01:46.95,DEFAULT,,0,0,0,,{\kf13}Like{\kf13} you{\kf21} were{\kf25} back{\kf21} in{\kf17} 2{\kf21}0{\kf17}1{\kf59}3
-Dialogue: 0,0:01:48.28,0:01:50.49,DEFAULT,,0,0,0,,{\kf17}Will{\kf17} they{\kf13} re{\kf21}mem{\kf25}ber{\kf21} you{\kf50}~
-Dialogue: 0,0:01:51.20,0:01:52.86,DEFAULT,,0,0,0,,{\kf21}When{\kf17} you're{\kf17} dead{\kf30} and{\kf46} gone
-Dialogue: 0,0:01:53.16,0:01:55.45,DEFAULT,,0,0,0,,{\kf17}Let{\kf17} them{\kf25} ask{\kf25} you{\kf21} where{\kf21} you{\kf38} were
-Dialogue: 0,0:01:55.61,0:01:58.49,DEFAULT,,0,0,0,,{\kf17}Show{\kf17} them{\kf21} you've{\kf21} been{\kf21} here{\kf21} all{\kf13} a{\kf84}long
-Dialogue: 0,0:01:58.99,0:02:00.95,DEFAULT,,0,0,0,,{\kf13}Will{\kf17} you{\kf13} re{\kf21}mem{\kf25}ber{\kf55} me
-Dialogue: 0,0:02:01.86,0:02:03.53,DEFAULT,,0,0,0,,{\kf13}When{\kf13} it's{\kf21} been{\kf21} so{\kf55} long
-Dialogue: 0,0:02:03.86,0:02:06.57,DEFAULT,,0,0,0,,{\kf21}Will{\kf13} we{\kf25} fade{\kf17} to{\kf25} dis{\kf21}tant{\kf25} me{\kf25}mo{\kf21}ries
-Dialogue: 0,0:02:06.74,0:02:09.03,DEFAULT,,0,0,0,,{\kf13}Will{\kf17} I{\kf25} see{\kf21} you{\kf17} at{\kf13} the{\kf67} con?
-Dialogue: 0,0:02:14.49,0:02:16.20,DEFAULT,,0,0,0,,{\kf25}E{\kf21}very{\kf50} time{\kf30} I
-Dialogue: 0,0:02:16.41,0:02:19.36,DEFAULT,,0,0,0,,{\kf25}Look{\kf21} back{\kf17} at{\kf17} the{\kf17} place{\kf21} we{\kf21} all{\kf21} came{\kf30} from
-Dialogue: 0,0:02:19.61,0:02:21.99,DEFAULT,,0,0,0,,{\kf13}Fa{\kf25}mi{\kf17}liar{\kf30} fa{\kf21}ces{\kf17} one{\kf13} by{\kf30} one
-Dialogue: 0,0:02:22.20,0:02:24.86,DEFAULT,,0,0,0,,{\kf21}Seems{\kf25} e{\kf25}very{\kf21}po{\kf25}ny's{\kf21} mov{\kf13}in'{\kf50} on
-Dialogue: 0,0:02:25.20,0:02:27.32,DEFAULT,,0,0,0,,{\kf21}E{\kf21}very{\kf50} step{\kf34} I{\kf30} take
-Dialogue: 0,0:02:27.53,0:02:30.03,DEFAULT,,0,0,0,,{\kf21}Feels{\kf17} like{\kf25} some{\kf25}one{\kf21} gets{\kf17} left{\kf13} be{\kf38}hind
-Dialogue: 0,0:02:30.32,0:02:32.70,DEFAULT,,0,0,0,,{\kf13}But{\kf17} it's{\kf21} their{\kf21} choice{\kf13} and{\kf21} that's{\kf21} o{\kf34}kay
-Dialogue: 0,0:02:32.86,0:02:35.78,DEFAULT,,0,0,0,,{\kf17}We'll{\kf21} keep{\kf17} that{\kf25} fi{\kf21}re{\kf21} burn{\kf13}ing{\kf75} bright
-Dialogue: 0,0:02:36.16,0:02:38.36,DEFAULT,,0,0,0,,{\kf13}Don't{\kf21} tell{\kf17} me{\kf13} it's{\kf21} o{\kf88}ver
-Dialogue: 0,0:02:38.82,0:02:41.11,DEFAULT,,0,0,0,,{\kf13}That{\kf17} all{\kf21} things{\kf13} have{\kf21} to{\kf92} end
-Dialogue: 0,0:02:41.28,0:02:43.70,DEFAULT,,0,0,0,,{\kf13}I{\kf17} think{\kf21} we'll{\kf17} live{\kf17} for{\kf25}e{\kf80}ver
-Dialogue: 0,0:02:43.99,0:02:45.78,DEFAULT,,0,0,0,,{\kf13}'Cause{\kf13} we're{\kf17} in{\kf21} this{\kf13} to{\kf13}ge{\kf42}ther
-Dialogue: 0,0:02:46.49,0:02:47.61,DEFAULT,,0,0,0,,{\kf113}Hey!
-Dialogue: 0,0:02:48.36,0:02:51.11,DEFAULT,,0,0,0,,{\kf17}Tell{\kf17} me{\kf17} where{\kf17} do{\kf13} we{\kf21} go{\kf25} from{\kf67} here
-Dialogue: 0,0:02:51.82,0:02:52.95,DEFAULT,,0,0,0,,{\kf113}Hey!
-Dialogue: 0,0:02:53.32,0:02:56.36,DEFAULT,,0,0,0,,{\kf13}Do{\kf13} we{\kf25} just{\kf30} burn{\kf17} up{\kf13} and{\kf21} dis{\kf25}ap{\kf63}pear
-Dialogue: 0,0:02:57.16,0:02:58.28,DEFAULT,,0,0,0,,{\kf113}Hey!
-Dialogue: 0,0:02:58.66,0:03:01.66,DEFAULT,,0,0,0,,{\kf13}Will{\kf13} you{\kf30} still{\kf21} be{\kf25} there{\kf13} stood{\kf21} next{\kf17} to{\kf67} me
-Dialogue: 0,0:03:02.53,0:03:03.66,DEFAULT,,0,0,0,,{\kf113}Hey!
-Dialogue: 0,0:03:04.03,0:03:06.99,DEFAULT,,0,0,0,,{\kf13}Like{\kf13} you{\kf30} were{\kf17} back{\kf17} in{\kf17} 2{\kf21}0{\kf25}1{\kf63}3
-Dialogue: 0,0:03:07.99,0:03:08.36,DEFAULT,,0,0,0,,{\kf38}Now
-Dialogue: 0,0:03:08.74,0:03:09.82,DEFAULT,,0,0,0,,{\kf13}On{\kf9} a{\kf17} day{\kf13} like{\kf13} to{\kf21}day
-Dialogue: 0,0:03:10.32,0:03:11.49,DEFAULT,,0,0,0,,{\kf13}I{\kf13} can{\kf13} ho{\kf13}nes{\kf13}tly{\kf21} say
-Dialogue: 0,0:03:12.07,0:03:13.16,DEFAULT,,0,0,0,,{\kf13}I{\kf13} would{\kf13}n't{\kf13} be{\kf13} stand{\kf13}ing{\kf13} here
-Dialogue: 0,0:03:13.24,0:03:14.36,DEFAULT,,0,0,0,,{\kf9}If{\kf9} it{\kf9} were{\kf9}n't{\kf9} for{\kf13} the{\kf17} friend{\kf21}ships
-Dialogue: 0,0:03:14.45,0:03:15.70,DEFAULT,,0,0,0,,{\kf17}I{\kf17} made{\kf17} with{\kf17} all{\kf13} of{\kf21} you
-Dialogue: 0,0:03:16.28,0:03:18.36,DEFAULT,,0,0,0,,{\kf13}Each{\kf13} one{\kf9} of{\kf13} you{\kf13} taught{\kf13} me{\kf13} some{\kf13}thing{\kf13} a{\kf17}bout{\kf17} friend{\kf21}ship
-Dialogue: 0,0:03:18.74,0:03:19.36,DEFAULT,,0,0,0,,{\kf13}And{\kf9} for{\kf30} that
-Dialogue: 0,0:03:19.74,0:03:21.28,DEFAULT,,0,0,0,,{\kf9}I{\kf13} will{\kf17} al{\kf17}ways{\kf13} be{\kf17} grate{\kf21}ful
-Dialogue: 0,0:03:21.66,0:03:22.11,DEFAULT,,0,0,0,,{\kf13}To{\kf30}day
-Dialogue: 0,0:03:22.49,0:03:23.41,DEFAULT,,0,0,0,,{\kf13}I{\kf17} con{\kf13}si{\kf13}der{\kf13} my{\kf17}self
-Dialogue: 0,0:03:23.53,0:03:25.32,DEFAULT,,0,0,0,,{\kf17}The{\kf17} luck{\kf13}i{\kf17}est{\kf13} po{\kf9}ny{\kf9} in{\kf9} E{\kf17}ques{\kf17}tri{\kf17}a
-Dialogue: 0,0:03:25.86,0:03:26.57,DEFAULT,,0,0,0,,{\kf17}Thank{\kf13} you{\kf25} friends
-Dialogue: 0,0:03:27.11,0:03:28.41,DEFAULT,,0,0,0,,{\kf13}Thank{\kf17} you{\kf17} e{\kf21}very{\kf17}po{\kf25}ny
-Dialogue: 0,0:03:50.95,0:03:53.11,DEFAULT,,0,0,0,,{\kf17}Will{\kf17} you{\kf13} re{\kf21}mem{\kf21}ber{\kf21} them{\kf55}~
-Dialogue: 0,0:03:53.66,0:03:55.49,DEFAULT,,0,0,0,,{\kf13}The{\kf21} friend{\kf17}ship{\kf17} that{\kf21} they{\kf46} found
-Dialogue: 0,0:03:55.86,0:03:58.70,DEFAULT,,0,0,0,,{\kf17}Will{\kf13} you{\kf30} know{\kf17} the{\kf25} songs{\kf17} and{\kf30} sing{\kf17} a{\kf34}long
-Dialogue: 0,0:03:59.16,0:04:00.95,DEFAULT,,0,0,0,,{\kf30}Twen{\kf25}ty{\kf21} years{\kf13} from{\kf55} now
-Dialogue: 0,0:04:01.61,0:04:03.82,DEFAULT,,0,0,0,,{\kf13}Or{\kf17} will{\kf17} you{\kf21} still{\kf17} be{\kf84} here
-Dialogue: 0,0:04:04.53,0:04:06.24,DEFAULT,,0,0,0,,{\kf21}Scream{\kf17}ing{\kf17} e{\kf21}very{\kf55} word
-Dialogue: 0,0:04:06.57,0:04:09.41,DEFAULT,,0,0,0,,{\kf17}I{\kf17} know{\kf21} I'm{\kf17} not{\kf25} go{\kf21}ing{\kf21} a{\kf25}ny{\kf34}where,
-Dialogue: 0,0:04:09.78,0:04:12.49,DEFAULT,,0,0,0,,{\kf25}I'll{\kf30} die{\kf17} with{\kf13} the{\kf146} herd
-Dialogue: 0,0:04:13.70,0:04:19.11,DEFAULT,,0,0,0,,{\kf121}Yeah,{\kf34} I'll{\kf25} die{\kf21} with{\kf17} the{\kf109} herd{\kf17}~{\kf130}~
+Dialogue: 0,0:00:20.16,0:00:21.91,DEFAULT,,0,0,0,,{\r}{\kf22}We're{\kf22} in{\kf22} this{\kf22} to{\kf16}ge{\kf71}ther!
+Dialogue: 0,0:00:42.45,0:00:46.28,DEFAULT,,0,0,0,,{\r}{\kf33}Look{\kf33}ing{\kf79} back{\kf26}~{\kf40} feels{\kf26} so{\kf26} bit{\kf26}ter{\kf94}sweet
+Dialogue: 0,0:00:46.95,0:00:49.58,DEFAULT,,0,0,0,,{\r}{\kf22}I'd{\kf22} ne{\kf22}ver{\kf17} i{\kf28}ma{\kf28}gine{\kf50} what{\kf28} we{\kf28} start{\kf17}ed
+Dialogue: 0,0:00:49.70,0:00:51.37,DEFAULT,,0,0,0,,{\r}{\kf17}Could{\kf23} mean{\kf29} so{\kf29} much{\kf17} to{\kf52} me
+Dialogue: 0,0:00:52.33,0:00:53.49,DEFAULT,,0,0,0,,{\r}{\kf23}It{\kf18} might{\kf23} be{\kf35} true{\kf18} we've
+Dialogue: 0,0:00:53.66,0:00:56.99,DEFAULT,,0,0,0,,{\r}{\kf70}Passed{\kf70} the{\kf64} gol{\kf27}den{\kf21}~{\kf81} years
+Dialogue: 0,0:00:57.53,0:00:59.28,DEFAULT,,0,0,0,,{\r}{\kf26}Well{\kf19} let{\kf19} them{\kf13} say{\kf26} what{\kf32} they{\kf40} want
+Dialogue: 0,0:00:59.45,0:01:01.12,DEFAULT,,0,0,0,,{\r}{\kf18}I'll{\kf18} po{\kf30}li{\kf24}tely{\kf36} dis{\kf24}a{\kf17}gree
+Dialogue: 0,0:01:01.28,0:01:02.62,DEFAULT,,0,0,0,,{\r}{\kf24}'Cause{\kf24} it{\kf24} does{\kf18}n't{\kf24} mean{\kf19} much
+Dialogue: 0,0:01:02.78,0:01:04.87,DEFAULT,,0,0,0,,{\r}{\kf16}If{\kf16} you're{\kf32} where{\kf27} you{\kf32} wan{\kf21}na{\kf64} be
+Dialogue: 0,0:01:05.45,0:01:07.87,DEFAULT,,0,0,0,,{\r}{\kf20}So{\kf30} scream{\kf20} if{\kf20} you're{\kf25} out{\kf127} there
+Dialogue: 0,0:01:08.37,0:01:10.41,DEFAULT,,0,0,0,,{\r}{\kf21}If{\kf27} things{\kf21} just{\kf16} ain't{\kf119} fair
+Dialogue: 0,0:01:10.83,0:01:13.12,DEFAULT,,0,0,0,,{\r}{\kf16}A{\kf26}lone{\kf21} in{\kf16} a{\kf36} night{\kf114}mare
+Dialogue: 0,0:01:13.37,0:01:15.62,DEFAULT,,0,0,0,,{\r}{\kf16}We're{\kf21} not{\kf26} go{\kf16}ing{\kf16} a{\kf16}ny{\kf114}where
+Dialogue: 0,0:01:16.20,0:01:18.45,DEFAULT,,0,0,0,,{\r}{\kf16}Don't{\kf26} tell{\kf21} me{\kf16} it's{\kf31} o{\kf115}ver
+Dialogue: 0,0:01:18.87,0:01:20.95,DEFAULT,,0,0,0,,{\r}{\kf16}That{\kf22} all{\kf27} things{\kf22} have{\kf27} to{\kf94} end
+Dialogue: 0,0:01:21.24,0:01:23.70,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} think{\kf22} we'll{\kf27} live{\kf22} for{\kf33}e{\kf110}ver
+Dialogue: 0,0:01:23.95,0:01:25.78,DEFAULT,,0,0,0,,{\r}{\kf18}'Cause{\kf24} we're{\kf24} in{\kf24} this{\kf18} to{\kf18}ge{\kf57}ther
+Dialogue: 0,0:01:26.45,0:01:27.58,DEFAULT,,0,0,0,,{\r}{\kf112}Hey!
+Dialogue: 0,0:01:28.33,0:01:31.08,DEFAULT,,0,0,0,,{\r}{\kf28}Tell{\kf22} me{\kf22} where{\kf22} do{\kf22} we{\kf28} go{\kf28} from{\kf103} here
+Dialogue: 0,0:01:31.83,0:01:32.95,DEFAULT,,0,0,0,,{\r}{\kf112}Hey!
+Dialogue: 0,0:01:33.33,0:01:36.33,DEFAULT,,0,0,0,,{\r}{\kf17}Do{\kf17} we{\kf40} just{\kf35} burn{\kf23} up{\kf17} and{\kf35} dis{\kf35}ap{\kf81}pear
+Dialogue: 0,0:01:37.16,0:01:38.28,DEFAULT,,0,0,0,,{\r}{\kf112}Hey!
+Dialogue: 0,0:01:38.66,0:01:41.74,DEFAULT,,0,0,0,,{\r}{\kf17}Will{\kf17} you{\kf39} still{\kf28} be{\kf34} there{\kf22} stood{\kf22} next{\kf34} to{\kf95} me
+Dialogue: 0,0:01:42.49,0:01:43.62,DEFAULT,,0,0,0,,{\r}{\kf112}Hey!
+Dialogue: 0,0:01:44.08,0:01:46.95,DEFAULT,,0,0,0,,{\r}{\kf18}Like{\kf18} you{\kf29} were{\kf35} back{\kf29} in{\kf23} 2{\kf29}0{\kf23}1{\kf83}3
+Dialogue: 0,0:01:48.28,0:01:50.49,DEFAULT,,0,0,0,,{\r}{\kf23}Will{\kf23} they{\kf17} re{\kf28}mem{\kf34}ber{\kf28} you{\kf68}~
+Dialogue: 0,0:01:51.20,0:01:52.87,DEFAULT,,0,0,0,,{\r}{\kf27}When{\kf22} you're{\kf22} dead{\kf38} and{\kf58} gone
+Dialogue: 0,0:01:53.16,0:01:55.45,DEFAULT,,0,0,0,,{\r}{\kf23}Let{\kf23} them{\kf35} ask{\kf35} you{\kf29} where{\kf29} you{\kf55} were
+Dialogue: 0,0:01:55.62,0:01:58.49,DEFAULT,,0,0,0,,{\r}{\kf23}Show{\kf23} them{\kf28} you've{\kf28} been{\kf28} here{\kf28} all{\kf17} a{\kf113}long
+Dialogue: 0,0:01:58.99,0:02:00.95,DEFAULT,,0,0,0,,{\r}{\kf17}Will{\kf23} you{\kf17} re{\kf29}mem{\kf35}ber{\kf75} me
+Dialogue: 0,0:02:01.87,0:02:03.53,DEFAULT,,0,0,0,,{\r}{\kf17}When{\kf17} it's{\kf29} been{\kf29} so{\kf75} long
+Dialogue: 0,0:02:03.87,0:02:06.58,DEFAULT,,0,0,0,,{\r}{\kf29}Will{\kf18} we{\kf35} fade{\kf24} to{\kf35} dis{\kf29}tant{\kf35} me{\kf35}mo{\kf31}ries
+Dialogue: 0,0:02:06.74,0:02:09.03,DEFAULT,,0,0,0,,{\r}{\kf17}Will{\kf22} I{\kf34} see{\kf28} you{\kf22} at{\kf17} the{\kf89} con?
+Dialogue: 0,0:02:14.49,0:02:16.20,DEFAULT,,0,0,0,,{\r}{\kf34}E{\kf29}very{\kf68} time{\kf40} I
+Dialogue: 0,0:02:16.41,0:02:19.37,DEFAULT,,0,0,0,,{\r}{\kf39}Look{\kf33} back{\kf26} at{\kf26} the{\kf26} place{\kf33} we{\kf33} all{\kf33} came{\kf47} from
+Dialogue: 0,0:02:19.62,0:02:21.99,DEFAULT,,0,0,0,,{\r}{\kf18}Fa{\kf37}mi{\kf24}liar{\kf43} fa{\kf31}ces{\kf24} one{\kf18} by{\kf43} one
+Dialogue: 0,0:02:22.20,0:02:24.87,DEFAULT,,0,0,0,,{\r}{\kf28}Seems{\kf33} e{\kf33}very{\kf28}po{\kf33}ny's{\kf28} mov{\kf17}in'{\kf67} on
+Dialogue: 0,0:02:25.20,0:02:27.33,DEFAULT,,0,0,0,,{\r}{\kf29}E{\kf29}very{\kf69} step{\kf46} I{\kf39} take
+Dialogue: 0,0:02:27.53,0:02:30.03,DEFAULT,,0,0,0,,{\r}{\kf30}Feels{\kf24} like{\kf36} some{\kf36}one{\kf30} gets{\kf24} left{\kf18} be{\kf52}hind
+Dialogue: 0,0:02:30.33,0:02:32.70,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf25} it's{\kf31} their{\kf31} choice{\kf19} and{\kf31} that's{\kf31} o{\kf51}kay
+Dialogue: 0,0:02:32.87,0:02:35.78,DEFAULT,,0,0,0,,{\r}{\kf23}We'll{\kf29} keep{\kf23} that{\kf35} fi{\kf29}re{\kf29} burn{\kf18}ing{\kf106} bright
+Dialogue: 0,0:02:36.16,0:02:38.37,DEFAULT,,0,0,0,,{\r}{\kf16}Don't{\kf27} tell{\kf22} me{\kf16} it's{\kf27} o{\kf113}ver
+Dialogue: 0,0:02:38.83,0:02:41.12,DEFAULT,,0,0,0,,{\r}{\kf16}That{\kf22} all{\kf27} things{\kf16} have{\kf27} to{\kf121} end
+Dialogue: 0,0:02:41.28,0:02:43.70,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf22} think{\kf27} we'll{\kf22} live{\kf22} for{\kf32}e{\kf101}ver
+Dialogue: 0,0:02:43.99,0:02:45.78,DEFAULT,,0,0,0,,{\r}{\kf17}'Cause{\kf17} we're{\kf23} in{\kf29} this{\kf17} to{\kf17}ge{\kf59}ther
+Dialogue: 0,0:02:46.49,0:02:47.62,DEFAULT,,0,0,0,,{\r}{\kf112}Hey!
+Dialogue: 0,0:02:48.37,0:02:51.12,DEFAULT,,0,0,0,,{\r}{\kf24}Tell{\kf24} me{\kf24} where{\kf24} do{\kf18} we{\kf30} go{\kf36} from{\kf95} here
+Dialogue: 0,0:02:51.83,0:02:52.95,DEFAULT,,0,0,0,,{\r}{\kf112}Hey!
+Dialogue: 0,0:02:53.33,0:02:56.37,DEFAULT,,0,0,0,,{\r}{\kf18}Do{\kf18} we{\kf35} just{\kf41} burn{\kf23} up{\kf18} and{\kf29} dis{\kf35}ap{\kf87}pear
+Dialogue: 0,0:02:57.16,0:02:58.28,DEFAULT,,0,0,0,,{\r}{\kf112}Hey!
+Dialogue: 0,0:02:58.66,0:03:01.66,DEFAULT,,0,0,0,,{\r}{\kf17}Will{\kf17} you{\kf40} still{\kf29} be{\kf35} there{\kf17} stood{\kf29} next{\kf23} to{\kf93} me
+Dialogue: 0,0:03:02.53,0:03:03.66,DEFAULT,,0,0,0,,{\r}{\kf112}Hey!
+Dialogue: 0,0:03:04.03,0:03:06.99,DEFAULT,,0,0,0,,{\r}{\kf17}Like{\kf17} you{\kf41} were{\kf23} back{\kf23} in{\kf23} 2{\kf29}0{\kf35}1{\kf88}3
+Dialogue: 0,0:03:07.99,0:03:08.37,DEFAULT,,0,0,0,,{\r}{\kf38}Now
+Dialogue: 0,0:03:08.74,0:03:09.83,DEFAULT,,0,0,0,,{\r}{\kf16}On{\kf11} a{\kf22} day{\kf16} like{\kf16} to{\kf27}day
+Dialogue: 0,0:03:10.33,0:03:11.49,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf18} can{\kf18} ho{\kf18}nes{\kf18}tly{\kf27} say
+Dialogue: 0,0:03:12.08,0:03:13.16,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf15} would{\kf15}n't{\kf15} be{\kf15} stand{\kf15}ing{\kf18} here
+Dialogue: 0,0:03:13.24,0:03:14.37,DEFAULT,,0,0,0,,{\r}{\kf10}If{\kf10} it{\kf10} were{\kf10}n't{\kf10} for{\kf15} the{\kf20} friend{\kf27}ships
+Dialogue: 0,0:03:14.45,0:03:15.70,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21} made{\kf21} with{\kf21} all{\kf16} of{\kf25} you
+Dialogue: 0,0:03:16.28,0:03:18.37,DEFAULT,,0,0,0,,{\r}{\kf16}Each{\kf16} one{\kf11} of{\kf16} you{\kf16} taught{\kf16} me{\kf16} some{\kf16}thing{\kf16} a{\kf21}bout{\kf21} friend{\kf27}ship
+Dialogue: 0,0:03:18.74,0:03:19.37,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf10} for{\kf36} that
+Dialogue: 0,0:03:19.74,0:03:21.28,DEFAULT,,0,0,0,,{\r}{\kf12}I{\kf18} will{\kf25} al{\kf25}ways{\kf18} be{\kf25} grate{\kf31}ful
+Dialogue: 0,0:03:21.66,0:03:22.12,DEFAULT,,0,0,0,,{\r}{\kf14}To{\kf32}day
+Dialogue: 0,0:03:22.49,0:03:23.41,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf18} con{\kf14}si{\kf14}der{\kf14} my{\kf18}self
+Dialogue: 0,0:03:23.53,0:03:25.33,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf20} luck{\kf15}i{\kf20}est{\kf15} po{\kf10}ny{\kf10} in{\kf10} E{\kf20}ques{\kf20}tri{\kf19}a
+Dialogue: 0,0:03:25.87,0:03:26.58,DEFAULT,,0,0,0,,{\r}{\kf22}Thank{\kf16} you{\kf33} friends
+Dialogue: 0,0:03:27.12,0:03:28.41,DEFAULT,,0,0,0,,{\r}{\kf15}Thank{\kf20} you{\kf20} e{\kf25}very{\kf20}po{\kf29}ny
+Dialogue: 0,0:03:50.95,0:03:53.12,DEFAULT,,0,0,0,,{\r}{\kf22}Will{\kf22} you{\kf17} re{\kf28}mem{\kf28}ber{\kf28} them{\kf72}~
+Dialogue: 0,0:03:53.66,0:03:55.49,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf29} friend{\kf23}ship{\kf23} that{\kf29} they{\kf62} found
+Dialogue: 0,0:03:55.87,0:03:58.70,DEFAULT,,0,0,0,,{\r}{\kf24}Will{\kf18} you{\kf42} know{\kf24} the{\kf36} songs{\kf24} and{\kf42} sing{\kf24} a{\kf49}long
+Dialogue: 0,0:03:59.16,0:04:00.95,DEFAULT,,0,0,0,,{\r}{\kf37}Twen{\kf32}ty{\kf26} years{\kf16} from{\kf68} now
+Dialogue: 0,0:04:01.62,0:04:03.83,DEFAULT,,0,0,0,,{\r}{\kf17}Or{\kf22} will{\kf22} you{\kf28} still{\kf22} be{\kf110} here
+Dialogue: 0,0:04:04.53,0:04:06.24,DEFAULT,,0,0,0,,{\r}{\kf28}Scream{\kf22}ing{\kf22} e{\kf28}very{\kf71} word
+Dialogue: 0,0:04:06.58,0:04:09.41,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf24} know{\kf30} I'm{\kf24} not{\kf36} go{\kf30}ing{\kf30} a{\kf36}ny{\kf49}where,
+Dialogue: 0,0:04:09.78,0:04:12.49,DEFAULT,,0,0,0,,{\r}{\kf30}I'll{\kf34} die{\kf20} with{\kf15} the{\kf172} herd
+Dialogue: 0,0:04:13.70,0:04:19.12,DEFAULT,,0,0,0,,{\r}{\kf139}Yeah,{\kf38} I'll{\kf29} die{\kf24} with{\kf19} the{\kf125} herd{\kf19}~{\kf149}~

@@ -1,38 +1,45 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Love Is in Bloom
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Moonsparkle
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.33,0:00:07.26,DEFAULT,,0,0,0,,{\kf34}Love{\kf25} i{\kf19}-is{\kf37} in{\kf58} bloom
-Dialogue: 0,0:00:08.17,0:00:09.74,DEFAULT,,0,0,0,,{\kf16}A{\kf7} beau{\kf10}ti{\kf40}ful{\kf61} bride
-Dialogue: 0,0:00:10.10,0:00:12.16,DEFAULT,,0,0,0,,{\kf34}A{\kf37} hand{\kf25}so{\kf16}-me{\kf61} groom
-Dialogue: 0,0:00:12.28,0:00:12.95,DEFAULT,,0,0,0,,{\kf19}Two{\kf43} hearts
-Dialogue: 0,0:00:13.25,0:00:14.91,DEFAULT,,0,0,0,,{\kf10}Be{\kf25}co{\kf16}-om{\kf40}ing{\kf46} one
-Dialogue: 0,0:00:16.15,0:00:20.27,DEFAULT,,0,0,0,,{\kf10}A{\kf49} bond{\kf16} that{\kf22} ca{\kf13}-an{\kf34}not{\kf13} be{\kf34}-e{\kf37} un{\kf25}do{\kf16}-ne{\kf19} be{\kf28}cause
-Dialogue: 0,0:00:20.51,0:00:23.75,DEFAULT,,0,0,0,,{\kf70}Love{\kf13} is{\kf85} in{\kf22} blo{\kf106}-om
-Dialogue: 0,0:00:24.14,0:00:27.47,DEFAULT,,0,0,0,,{\kf16}A{\kf22} beau{\kf13}ti{\kf16}ful{\kf49} bride,{\kf25} a{\kf40} hand{\kf22}so{\kf16}-me{\kf43} groom
-Dialogue: 0,0:00:27.56,0:00:31.46,DEFAULT,,0,0,0,,{\kf10}I{\kf28} said,{\kf70} love{\kf13} is{\kf88} in{\kf25} blo{\kf100}-om
-Dialogue: 0,0:00:31.88,0:00:33.22,DEFAULT,,0,0,0,,{\kf13}You're{\kf25} star{\kf22}ting{\kf16} a{\kf37} life
-Dialogue: 0,0:00:33.34,0:00:35.33,DEFAULT,,0,0,0,,{\kf43}And{\kf34} ma{\kf19}ki{\kf25}-ing{\kf52} room
-Dialogue: 0,0:00:35.55,0:00:36.03,DEFAULT,,0,0,0,,{\kf19}For{\kf25} us
-Dialogue: 0,0:00:40.72,0:00:41.20,DEFAULT,,0,0,0,,{\kf49}Twilight!
-Dialogue: 0,0:00:41.81,0:00:43.17,DEFAULT,,0,0,0,,{\kf19}None{\kf16} of{\kf25} this{\kf16} would{\kf10} have{\kf13} been{\kf43} possible
-Dialogue: 0,0:00:43.26,0:00:44.41,DEFAULT,,0,0,0,,{\kf31}Without{\kf28} you,{\kf19} little{\kf40} sis
-Dialogue: 0,0:00:45.23,0:00:46.19,DEFAULT,,0,0,0,,{\kf22}Love{\kf16} ya,{\kf40} Twily
-Dialogue: 0,0:00:47.25,0:00:48.76,DEFAULT,,0,0,0,,{\kf19}Love{\kf19} you{\kf19} too,{\kf13} B.{\kf13}B.{\kf16}B.{\kf22}F.{\kf22}F.
-Dialogue: 0,0:00:55.06,0:00:55.48,DEFAULT,,0,0,0,,{\kf13}Ready{\kf13} to{\kf19} go?
-Dialogue: 0,0:00:56.12,0:00:57.60,DEFAULT,,0,0,0,,{\kf52}Oh,{\kf37} almost{\kf61} forgot!
-Dialogue: 0,0:01:01.05,0:01:01.80,DEFAULT,,0,0,0,,{\kf76}MIIIIIIIIIIIIIINE!
-Dialogue: 0,0:01:06.98,0:01:10.21,DEFAULT,,0,0,0,,{\kf70}Love{\kf13} is{\kf85} in{\kf19} blo{\kf109}-om
-Dialogue: 0,0:01:10.58,0:01:13.90,DEFAULT,,0,0,0,,{\kf10}A{\kf22} beau{\kf13}ti{\kf19}ful{\kf46} bride,{\kf31} a{\kf34} hand{\kf22}so{\kf16}-me{\kf40} groom
-Dialogue: 0,0:01:13.99,0:01:17.90,DEFAULT,,0,0,0,,{\kf10}I{\kf31} said,{\kf73} love{\kf13} is{\kf82} in{\kf25} blo{\kf103}-om
-Dialogue: 0,0:01:18.35,0:01:19.62,DEFAULT,,0,0,0,,{\kf10}You're{\kf28} star{\kf19}ting{\kf16} a{\kf34} life
-Dialogue: 0,0:01:19.77,0:01:21.68,DEFAULT,,0,0,0,,{\kf25}And{\kf37} ma{\kf19}ki{\kf19}-ing{\kf43} room
-Dialogue: 0,0:01:21.98,0:01:25.16,DEFAULT,,0,0,0,,{\kf70}For{\kf243} us
-Dialogue: 0,0:01:25.91,0:01:30.30,DEFAULT,,0,0,0,,{\kf25}For{\kf409} us
+Dialogue: 0,0:00:05.33,0:00:07.27,DEFAULT,,0,0,0,,{\r}{\kf38}Love{\kf28} i{\kf21}-is{\kf42} in{\kf65} bloom
+Dialogue: 0,0:00:08.17,0:00:09.75,DEFAULT,,0,0,0,,{\r}{\kf18}A{\kf10} beau{\kf11}ti{\kf47}ful{\kf71} bride
+Dialogue: 0,0:00:10.11,0:00:12.17,DEFAULT,,0,0,0,,{\r}{\kf40}A{\kf44} hand{\kf29}so{\kf18}-me{\kf75} groom
+Dialogue: 0,0:00:12.29,0:00:12.95,DEFAULT,,0,0,0,,{\r}{\kf20}Two{\kf47} hearts
+Dialogue: 0,0:00:13.26,0:00:14.92,DEFAULT,,0,0,0,,{\r}{\kf11}Be{\kf30}co{\kf19}-om{\kf49}ing{\kf57} one
+Dialogue: 0,0:00:16.16,0:00:20.27,DEFAULT,,0,0,0,,{\r}{\kf12}A{\kf65} bond{\kf20} that{\kf28} ca{\kf16}-an{\kf45}not{\kf16} be{\kf45}-e{\kf49} un{\kf33}do{\kf20}-ne{\kf24} be{\kf38}cause
+Dialogue: 0,0:00:20.52,0:00:23.75,DEFAULT,,0,0,0,,{\r}{\kf77}Love{\kf13} is{\kf94} in{\kf23} blo{\kf117}-om
+Dialogue: 0,0:00:24.15,0:00:27.47,DEFAULT,,0,0,0,,{\r}{\kf20}A{\kf28} beau{\kf16}ti{\kf20}ful{\kf63} bride,{\kf32} a{\kf52} hand{\kf28}so{\kf20}-me{\kf54} groom
+Dialogue: 0,0:00:27.56,0:00:31.47,DEFAULT,,0,0,0,,{\r}{\kf11}I{\kf32} said,{\kf82} love{\kf14} is{\kf104} in{\kf29} blo{\kf118}-om
+Dialogue: 0,0:00:31.89,0:00:33.22,DEFAULT,,0,0,0,,{\r}{\kf15}You're{\kf30} star{\kf26}ting{\kf18} a{\kf44} life
+Dialogue: 0,0:00:33.34,0:00:35.34,DEFAULT,,0,0,0,,{\r}{\kf50}And{\kf39} ma{\kf21}ki{\kf29}-ing{\kf61} room
+Dialogue: 0,0:00:35.55,0:00:36.03,DEFAULT,,0,0,0,,{\r}{\kf21}For{\kf27} us
+Dialogue: 0,0:00:40.72,0:00:41.21,DEFAULT,,0,0,0,,{\r}{\kf48}Twilight!
+Dialogue: 0,0:00:41.81,0:00:43.17,DEFAULT,,0,0,0,,{\r}{\kf18}None{\kf15} of{\kf24} this{\kf15} would{\kf10} have{\kf12} been{\kf42} possible
+Dialogue: 0,0:00:43.26,0:00:44.41,DEFAULT,,0,0,0,,{\r}{\kf30}Without{\kf27} you,{\kf18} little{\kf40} sis
+Dialogue: 0,0:00:45.23,0:00:46.20,DEFAULT,,0,0,0,,{\r}{\kf27}Love{\kf19} ya,{\kf51} Twily
+Dialogue: 0,0:00:47.26,0:00:48.77,DEFAULT,,0,0,0,,{\r}{\kf20}Love{\kf20} you{\kf20} too,{\kf13} B.{\kf13}B.{\kf17}B.{\kf23}F.{\kf25}F.
+Dialogue: 0,0:00:55.06,0:00:55.49,DEFAULT,,0,0,0,,{\r}{\kf12}Ready{\kf12} to{\kf18} go?
+Dialogue: 0,0:00:56.12,0:00:57.60,DEFAULT,,0,0,0,,{\r}{\kf51}Oh,{\kf36} almost{\kf61} forgot!
+Dialogue: 0,0:01:01.05,0:01:01.81,DEFAULT,,0,0,0,,{\r}{\kf76}MIIIIIIIIIIIIIINE!
+Dialogue: 0,0:01:06.98,0:01:10.22,DEFAULT,,0,0,0,,{\r}{\kf77}Love{\kf13} is{\kf94} in{\kf20} blo{\kf120}-om
+Dialogue: 0,0:01:10.58,0:01:13.91,DEFAULT,,0,0,0,,{\r}{\kf12}A{\kf29} beau{\kf16}ti{\kf25}ful{\kf62} bride,{\kf41} a{\kf45} hand{\kf29}so{\kf21}-me{\kf53} groom
+Dialogue: 0,0:01:14.00,0:01:17.90,DEFAULT,,0,0,0,,{\r}{\kf11}I{\kf35} said,{\kf85} love{\kf14} is{\kf96} in{\kf28} blo{\kf121}-om
+Dialogue: 0,0:01:18.35,0:01:19.63,DEFAULT,,0,0,0,,{\r}{\kf11}You're{\kf34} star{\kf22}ting{\kf19} a{\kf41} life
+Dialogue: 0,0:01:19.78,0:01:21.68,DEFAULT,,0,0,0,,{\r}{\kf33}And{\kf50} ma{\kf25}ki{\kf25}-ing{\kf58} room
+Dialogue: 0,0:01:21.98,0:01:25.16,DEFAULT,,0,0,0,,{\r}{\kf71}For{\kf247} us
+Dialogue: 0,0:01:25.92,0:01:30.30,DEFAULT,,0,0,0,,{\r}{\kf25}For{\kf414} us

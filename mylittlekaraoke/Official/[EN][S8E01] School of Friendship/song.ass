@@ -1,53 +1,60 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: School of Friendship
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.30,0:00:06.07,DEFAULT,,0,0,0,,{\kf12}The{\kf34} School{\kf12} of{\kf15} Friend{\kf15}ship,{\kf23} first{\kf19} day{\kf12} of{\kf30} class
-Dialogue: 0,0:00:06.64,0:00:09.30,DEFAULT,,0,0,0,,{\kf27}Will{\kf23} we{\kf15} fa{\kf12}-il{\kf23} or{\kf34} will{\kf27} we{\kf27} pass?
-Dialogue: 0,0:00:09.82,0:00:12.71,DEFAULT,,0,0,0,,{\kf53}Stu{\kf15}dents{\kf23} come{\kf27} from{\kf42} far{\kf27} and{\kf49} wide
-Dialogue: 0,0:00:13.12,0:00:16.72,DEFAULT,,0,0,0,,{\kf27}Brand{\kf19}-ne{\kf12}-ew{\kf30} friends{\kf27} here{\kf72} by{\kf53} our{\kf42} side
-Dialogue: 0,0:00:20.17,0:00:22.72,DEFAULT,,0,0,0,,{\kf12}Take{\kf8} a{\kf27} breath,{\kf12} look{\kf8} a{\kf30}round,{\kf15} it's{\kf8} a{\kf38}ma{\kf30}zing
-Dialogue: 0,0:00:23.02,0:00:25.12,DEFAULT,,0,0,0,,{\kf12}I{\kf19} can't{\kf12} be{\kf34}lieve{\kf15} that{\kf15} it's{\kf64} real
-Dialogue: 0,0:00:26.02,0:00:28.72,DEFAULT,,0,0,0,,{\kf34}Stu{\kf15}dents{\kf12} ga{\kf30}lore,{\kf15} new{\kf12} i{\kf30}deas{\kf15} to{\kf12} ex{\kf23}plore
-Dialogue: 0,0:00:28.87,0:00:31.99,DEFAULT,,0,0,0,,{\kf15}Can't{\kf15} con{\kf34}tain{\kf12} the{\kf15} ex{\kf19}cite{\kf19}ment{\kf42} I{\kf68} feel
-Dialogue: 0,0:00:34.54,0:00:37.42,DEFAULT,,0,0,0,,{\kf19}Can't{\kf19} mess{\kf19} up,{\kf15} can't{\kf12} af{\kf38}ford{\kf12} a{\kf15} mis{\kf30}take{\kf49} now
-Dialogue: 0,0:00:37.76,0:00:40.20,DEFAULT,,0,0,0,,{\kf12}Think{\kf15} "suc{\kf23}cess",{\kf15} keep{\kf8} it{\kf38} firm{\kf19}ly{\kf12} in{\kf34} sight
-Dialogue: 0,0:00:40.69,0:00:43.27,DEFAULT,,0,0,0,,{\kf23}Make{\kf19} sure{\kf8} to{\kf23} do{\kf30} things{\kf34} by{\kf19} the{\kf23} book
-Dialogue: 0,0:00:43.87,0:00:46.24,DEFAULT,,0,0,0,,{\kf19}Make{\kf15} sure{\kf12} to{\kf15} do{\kf15} it{\kf49} all{\kf34} right
-Dialogue: 0,0:01:01.69,0:01:04.35,DEFAULT,,0,0,0,,{\kf12}The{\kf38} School{\kf12} of{\kf12} Friend{\kf19}ship,{\kf23} must{\kf15} get{\kf8} to{\kf30} class
-Dialogue: 0,0:01:04.99,0:01:07.65,DEFAULT,,0,0,0,,{\kf30}Will{\kf23} we{\kf19} fa{\kf19}-il{\kf23} or{\kf27} will{\kf23} we{\kf34} pass?
-Dialogue: 0,0:01:08.21,0:01:10.87,DEFAULT,,0,0,0,,{\kf49}Stu{\kf15}dents{\kf30} learn{\kf27}ing{\kf27} from{\kf23} the{\kf30} best
-Dialogue: 0,0:01:11.47,0:01:14.96,DEFAULT,,0,0,0,,{\kf23}Tak{\kf27}ing{\kf30} notes{\kf23} to{\kf68} pass{\kf49} the{\kf34} test
-Dialogue: 0,0:01:15.11,0:01:17.92,DEFAULT,,0,0,0,,{\kf12}Wait,{\kf15} hold{\kf23} on!{\kf15} Not{\kf15} like{\kf27} that!{\kf15} Just{\kf12} a{\kf38} se{\kf42}cond!
-Dialogue: 0,0:01:18.34,0:01:20.81,DEFAULT,,0,0,0,,{\kf15}I'm{\kf12} not{\kf27} sure{\kf19} if{\kf15} that{\kf34} me{\kf19}thod's{\kf8} ap{\kf53}proved
-Dialogue: 0,0:01:21.15,0:01:23.89,DEFAULT,,0,0,0,,{\kf19}Let{\kf15} me{\kf19} take{\kf8} a{\kf27} look!{\kf23} Yup,{\kf19} right{\kf12} here{\kf12} in{\kf12} the{\kf38} book
-Dialogue: 0,0:01:24.37,0:01:26.77,DEFAULT,,0,0,0,,{\kf19}Come{\kf42} on!{\kf15} We{\kf15} just{\kf15} got{\kf15} in{\kf12} the{\kf75} groove!
-Dialogue: 0,0:01:28.05,0:01:30.90,DEFAULT,,0,0,0,,{\kf15}Can't{\kf15} mess{\kf12} up,{\kf19} can't{\kf12} af{\kf42}ford{\kf8} a{\kf12} mis{\kf19}take{\kf45} now
-Dialogue: 0,0:01:31.31,0:01:33.75,DEFAULT,,0,0,0,,{\kf15}We{\kf8} are{\kf15} sha{\kf15}ping{\kf27} young{\kf38} minds{\kf15} to{\kf8} ig{\kf45}nite
-Dialogue: 0,0:01:34.16,0:01:37.20,DEFAULT,,0,0,0,,{\kf42}Do{\kf19} it{\kf34} like{\kf19} it{\kf38} says{\kf12} in{\kf12} the{\kf23} book{\kf27} now
-Dialogue: 0,0:01:37.39,0:01:39.52,DEFAULT,,0,0,0,,{\kf19}Make{\kf15} sure{\kf12} you're{\kf23} do{\kf15}ing{\kf34} it{\kf15} right
-Dialogue: 0,0:01:39.67,0:01:42.49,DEFAULT,,0,0,0,,{\kf12}There's{\kf34} not{\kf12} an{\kf19} e{\kf19}qua{\kf19}tion{\kf12} on{\kf15} how{\kf8} to{\kf23} have{\kf30} fun
-Dialogue: 0,0:01:42.86,0:01:45.67,DEFAULT,,0,0,0,,{\kf8}The{\kf19} stu{\kf15}dents{\kf19} look{\kf27} bored{\kf15} now,{\kf15} oh,{\kf15} what{\kf19} have{\kf15} I{\kf19} done?
-Dialogue: 0,0:01:45.82,0:01:48.97,DEFAULT,,0,0,0,,{\kf19}Can't{\kf27} teach{\kf19} be{\kf15}in'{\kf15} ho{\kf15}nest,{\kf15} not{\kf27} sure{\kf12} what{\kf12} to{\kf23} do
-Dialogue: 0,0:01:49.12,0:01:50.59,DEFAULT,,0,0,0,,{\kf15}I'm{\kf19} quite{\kf12} cer{\kf12}tain{\kf27} I'm{\kf34} lost
-Dialogue: 0,0:01:50.74,0:01:52.16,DEFAULT,,0,0,0,,{\kf15}None{\kf12} of{\kf23} us{\kf19} has{\kf8} a{\kf19} clue!
-Dialogue: 0,0:01:52.27,0:01:54.67,DEFAULT,,0,0,0,,{\kf34}School{\kf12} of{\kf15} Friend{\kf19}ship,{\kf15} a{\kf30}no{\kf30}ther{\kf27} class
-Dialogue: 0,0:01:55.20,0:01:57.97,DEFAULT,,0,0,0,,{\kf27}Wish{\kf23} it{\kf19} we{\kf15}-re{\kf30} more{\kf38} of{\kf23} a{\kf30} blast
-Dialogue: 0,0:01:58.50,0:02:01.27,DEFAULT,,0,0,0,,{\kf49}Thought{\kf15} this{\kf34} school{\kf27} would{\kf34} be{\kf34} more{\kf38} fun
-Dialogue: 0,0:02:01.72,0:02:05.21,DEFAULT,,0,0,0,,{\kf27}Can't{\kf27} wait{\kf30} for{\kf27} our{\kf30} clas{\kf23}ses{\kf27} to{\kf27} be{\kf34} done
-Dialogue: 0,0:02:05.36,0:02:08.14,DEFAULT,,0,0,0,,{\kf15}Can't{\kf15} mess{\kf15} up,{\kf15} can't{\kf15} af{\kf38}ford{\kf12} a{\kf15} mis{\kf23}take{\kf38} now
-Dialogue: 0,0:02:08.62,0:02:10.09,DEFAULT,,0,0,0,,{\kf27}No{\kf15} way{\kf12} to{\kf19} have{\kf27} fun
-Dialogue: 0,0:02:10.20,0:02:11.66,DEFAULT,,0,0,0,,{\kf23}Oh,{\kf15} what{\kf12} have{\kf23} I{\kf23} done?
-Dialogue: 0,0:02:11.85,0:02:14.32,DEFAULT,,0,0,0,,{\kf15}Think{\kf15} "suc{\kf23}cess",{\kf19} keep{\kf12} it{\kf34} firm{\kf12}ly{\kf12} in{\kf49} sight
-Dialogue: 0,0:02:14.70,0:02:17.44,DEFAULT,,0,0,0,,{\kf27}Wish{\kf19} that{\kf27} we{\kf34} could{\kf34} leave{\kf27} our{\kf38} desks
-Dialogue: 0,0:02:18.07,0:02:20.66,DEFAULT,,0,0,0,,{\kf34}Lis{\kf23}ten{\kf23} to{\kf23} this{\kf30} one{\kf27} re{\kf38}quest
-Dialogue: 0,0:02:21.11,0:02:23.89,DEFAULT,,0,0,0,,{\kf30}Make{\kf30} things{\kf30} fun,{\kf27} we're{\kf30} real{\kf19}ly{\kf34} stressed
-Dialogue: 0,0:02:24.60,0:02:29.51,DEFAULT,,0,0,0,,{\kf19}Make{\kf15} sure{\kf12} to{\kf27} do{\kf30} things{\kf30} by{\kf27} the{\kf30} book{\kf225} now
-Dialogue: 0,0:02:30.07,0:02:33.56,DEFAULT,,0,0,0,,{\kf34}Can{\kf27} we{\kf30} tell{\kf30} her{\kf19} this{\kf30} thing{\kf27} is{\kf27} a{\kf30} mess?
+Dialogue: 0,0:00:03.30,0:00:06.08,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf56} School{\kf19} of{\kf25} Friend{\kf25}ship,{\kf37} first{\kf31} day{\kf19} of{\kf47} class
+Dialogue: 0,0:00:06.64,0:00:09.30,DEFAULT,,0,0,0,,{\r}{\kf38}Will{\kf33} we{\kf22} fa{\kf16}-il{\kf33} or{\kf49} will{\kf38} we{\kf37} pass?
+Dialogue: 0,0:00:09.83,0:00:12.72,DEFAULT,,0,0,0,,{\r}{\kf65}Stu{\kf19}dents{\kf28} come{\kf33} from{\kf51} far{\kf33} and{\kf60} wide
+Dialogue: 0,0:00:13.13,0:00:16.73,DEFAULT,,0,0,0,,{\r}{\kf34}Brand{\kf24}-ne{\kf15}-ew{\kf39} friends{\kf34} here{\kf92} by{\kf68} our{\kf54} side
+Dialogue: 0,0:00:20.18,0:00:22.73,DEFAULT,,0,0,0,,{\r}{\kf16}Take{\kf10} a{\kf36} breath,{\kf16} look{\kf10} a{\kf42}round,{\kf21} it's{\kf10} a{\kf52}ma{\kf42}zing
+Dialogue: 0,0:00:23.03,0:00:25.13,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf23} can't{\kf14} be{\kf42}lieve{\kf19} that{\kf19} it's{\kf79} real
+Dialogue: 0,0:00:26.03,0:00:28.73,DEFAULT,,0,0,0,,{\r}{\kf47}Stu{\kf21}dents{\kf16} ga{\kf42}lore,{\kf21} new{\kf16} i{\kf42}deas{\kf21} to{\kf16} ex{\kf28}plore
+Dialogue: 0,0:00:28.88,0:00:31.99,DEFAULT,,0,0,0,,{\r}{\kf20}Can't{\kf20} con{\kf44}tain{\kf15} the{\kf20} ex{\kf25}cite{\kf25}ment{\kf54} I{\kf88} feel
+Dialogue: 0,0:00:34.54,0:00:37.43,DEFAULT,,0,0,0,,{\r}{\kf24}Can't{\kf24} mess{\kf24} up,{\kf19} can't{\kf14} af{\kf48}ford{\kf14} a{\kf19} mis{\kf39}take{\kf64} now
+Dialogue: 0,0:00:37.77,0:00:40.20,DEFAULT,,0,0,0,,{\r}{\kf16}Think{\kf21} "suc{\kf32}cess",{\kf21} keep{\kf11} it{\kf53} firm{\kf27}ly{\kf16} in{\kf47} sight
+Dialogue: 0,0:00:40.69,0:00:43.28,DEFAULT,,0,0,0,,{\r}{\kf33}Make{\kf28} sure{\kf11} to{\kf33} do{\kf44} things{\kf50} by{\kf28} the{\kf32} book
+Dialogue: 0,0:00:43.88,0:00:46.24,DEFAULT,,0,0,0,,{\r}{\kf28}Make{\kf22} sure{\kf17} to{\kf22} do{\kf22} it{\kf73} all{\kf52} right
+Dialogue: 0,0:01:01.69,0:01:04.35,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf60} School{\kf18} of{\kf18} Friend{\kf30}ship,{\kf36} must{\kf24} get{\kf12} to{\kf50} class
+Dialogue: 0,0:01:04.99,0:01:07.65,DEFAULT,,0,0,0,,{\r}{\kf41}Will{\kf31} we{\kf26} fa{\kf26}-il{\kf31} or{\kf36} will{\kf31} we{\kf44} pass?
+Dialogue: 0,0:01:08.22,0:01:10.88,DEFAULT,,0,0,0,,{\r}{\kf65}Stu{\kf20}dents{\kf40} learn{\kf35}ing{\kf35} from{\kf30} the{\kf41} best
+Dialogue: 0,0:01:11.48,0:01:14.97,DEFAULT,,0,0,0,,{\r}{\kf31}Tak{\kf36}ing{\kf42} notes{\kf31} to{\kf94} pass{\kf68} the{\kf47} test
+Dialogue: 0,0:01:15.12,0:01:17.93,DEFAULT,,0,0,0,,{\r}{\kf15}Wait,{\kf20} hold{\kf30} on!{\kf20} Not{\kf20} like{\kf35} that!{\kf20} Just{\kf15} a{\kf50} se{\kf56}cond!
+Dialogue: 0,0:01:18.34,0:01:20.82,DEFAULT,,0,0,0,,{\r}{\kf19}I'm{\kf14} not{\kf33} sure{\kf23} if{\kf19} that{\kf42} me{\kf23}thod's{\kf10} ap{\kf65}proved
+Dialogue: 0,0:01:21.15,0:01:23.89,DEFAULT,,0,0,0,,{\r}{\kf26}Let{\kf21} me{\kf26} take{\kf10} a{\kf36} look!{\kf31} Yup,{\kf26} right{\kf16} here{\kf16} in{\kf16} the{\kf50} book
+Dialogue: 0,0:01:24.38,0:01:26.78,DEFAULT,,0,0,0,,{\r}{\kf22}Come{\kf48} on!{\kf17} We{\kf17} just{\kf17} got{\kf17} in{\kf13} the{\kf89} groove!
+Dialogue: 0,0:01:28.05,0:01:30.90,DEFAULT,,0,0,0,,{\r}{\kf22}Can't{\kf22} mess{\kf16} up,{\kf27} can't{\kf16} af{\kf60}ford{\kf11} a{\kf16} mis{\kf27}take{\kf68} now
+Dialogue: 0,0:01:31.32,0:01:33.75,DEFAULT,,0,0,0,,{\r}{\kf20}We{\kf10} are{\kf20} sha{\kf20}ping{\kf35} young{\kf50} minds{\kf20} to{\kf10} ig{\kf59}nite
+Dialogue: 0,0:01:34.17,0:01:37.20,DEFAULT,,0,0,0,,{\r}{\kf57}Do{\kf26} it{\kf46} like{\kf26} it{\kf52} says{\kf15} in{\kf15} the{\kf31} book{\kf36} now
+Dialogue: 0,0:01:37.39,0:01:39.53,DEFAULT,,0,0,0,,{\r}{\kf31}Make{\kf24} sure{\kf18} you're{\kf37} do{\kf24}ing{\kf55} it{\kf25} right
+Dialogue: 0,0:01:39.68,0:01:42.49,DEFAULT,,0,0,0,,{\r}{\kf16}There's{\kf48} not{\kf16} an{\kf27} e{\kf27}qua{\kf27}tion{\kf16} on{\kf21} how{\kf11} to{\kf32} have{\kf40} fun
+Dialogue: 0,0:01:42.87,0:01:45.68,DEFAULT,,0,0,0,,{\r}{\kf11}The{\kf29} stu{\kf23}dents{\kf29} look{\kf40} bored{\kf23} now,{\kf23} oh,{\kf23} what{\kf29} have{\kf23} I{\kf28} done?
+Dialogue: 0,0:01:45.83,0:01:48.98,DEFAULT,,0,0,0,,{\r}{\kf30}Can't{\kf42} teach{\kf30} be{\kf24}in'{\kf24} ho{\kf24}nest,{\kf24} not{\kf42} sure{\kf18} what{\kf18} to{\kf39} do
+Dialogue: 0,0:01:49.13,0:01:50.59,DEFAULT,,0,0,0,,{\r}{\kf19}I'm{\kf24} quite{\kf14} cer{\kf14}tain{\kf33} I'm{\kf42} lost
+Dialogue: 0,0:01:50.74,0:01:52.17,DEFAULT,,0,0,0,,{\r}{\kf23}None{\kf17} of{\kf34} us{\kf28} has{\kf11} a{\kf29} clue!
+Dialogue: 0,0:01:52.28,0:01:54.68,DEFAULT,,0,0,0,,{\r}{\kf45}School{\kf15} of{\kf20} Friend{\kf25}ship,{\kf20} a{\kf40}no{\kf40}ther{\kf35} class
+Dialogue: 0,0:01:55.20,0:01:57.98,DEFAULT,,0,0,0,,{\r}{\kf36}Wish{\kf31} it{\kf26} we{\kf21}-re{\kf41} more{\kf51} of{\kf31} a{\kf40} blast
+Dialogue: 0,0:01:58.50,0:02:01.28,DEFAULT,,0,0,0,,{\r}{\kf59}Thought{\kf18} this{\kf41} school{\kf32} would{\kf41} be{\kf41} more{\kf45} fun
+Dialogue: 0,0:02:01.73,0:02:05.22,DEFAULT,,0,0,0,,{\r}{\kf37}Can't{\kf37} wait{\kf42} for{\kf37} our{\kf42} clas{\kf32}ses{\kf37} to{\kf37} be{\kf48} done
+Dialogue: 0,0:02:05.37,0:02:08.14,DEFAULT,,0,0,0,,{\r}{\kf21}Can't{\kf21} mess{\kf21} up,{\kf21} can't{\kf21} af{\kf52}ford{\kf16} a{\kf21} mis{\kf31}take{\kf53} now
+Dialogue: 0,0:02:08.63,0:02:10.09,DEFAULT,,0,0,0,,{\r}{\kf39}No{\kf22} way{\kf17} to{\kf28} have{\kf40} fun
+Dialogue: 0,0:02:10.20,0:02:11.67,DEFAULT,,0,0,0,,{\r}{\kf35}Oh,{\kf23} what{\kf18} have{\kf35} I{\kf35} done?
+Dialogue: 0,0:02:11.85,0:02:14.33,DEFAULT,,0,0,0,,{\r}{\kf20}Think{\kf20} "suc{\kf30}cess",{\kf25} keep{\kf15} it{\kf44} firm{\kf15}ly{\kf15} in{\kf63} sight
+Dialogue: 0,0:02:14.70,0:02:17.44,DEFAULT,,0,0,0,,{\r}{\kf36}Wish{\kf25} that{\kf36} we{\kf46} could{\kf46} leave{\kf36} our{\kf49} desks
+Dialogue: 0,0:02:18.08,0:02:20.67,DEFAULT,,0,0,0,,{\r}{\kf45}Lis{\kf30}ten{\kf30} to{\kf30} this{\kf40} one{\kf35} re{\kf49}quest
+Dialogue: 0,0:02:21.12,0:02:23.89,DEFAULT,,0,0,0,,{\r}{\kf42}Make{\kf42} things{\kf42} fun,{\kf37} we're{\kf42} real{\kf26}ly{\kf47} stressed
+Dialogue: 0,0:02:24.60,0:02:29.52,DEFAULT,,0,0,0,,{\r}{\kf22}Make{\kf18} sure{\kf13} to{\kf31} do{\kf36} things{\kf36} by{\kf31} the{\kf36} book{\kf268} now
+Dialogue: 0,0:02:30.08,0:02:33.57,DEFAULT,,0,0,0,,{\r}{\kf47}Can{\kf36} we{\kf42} tell{\kf42} her{\kf26} this{\kf42} thing{\kf36} is{\kf36} a{\kf42} mess?

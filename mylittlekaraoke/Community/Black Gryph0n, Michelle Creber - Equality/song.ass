@@ -1,76 +1,83 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Equality
+Artist: Black Gryph0n & Michelle Creber
+Original Timing: mylittlekaraoke.com by ShTHfan1
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:10.38,0:00:11.73,DEFAULT,,0,0,0,,{\kf10}There’s{\kf10} a{\kf13} place{\kf22} just{\kf13} north{\kf13} of{\kf25} town
-Dialogue: 0,0:00:11.85,0:00:13.60,DEFAULT,,0,0,0,,{\kf7}If{\kf7} you{\kf13} lis{\kf19}ten{\kf19} you{\kf19} can{\kf19} hear{\kf19} the{\kf13} sound
-Dialogue: 0,0:00:13.73,0:00:14.01,DEFAULT,,0,0,0,,{\kf10}They’re{\kf10} sin{\kf7}ging
-Dialogue: 0,0:00:14.10,0:00:17.10,DEFAULT,,0,0,0,,{\kf25}“Ah{\kf29} aah{\kf25} ah,{\kf19} ah{\kf19} ah{\kf19} ah,{\kf25} ah{\kf25} aah{\kf32} ah”
-Dialogue: 0,0:00:18.35,0:00:19.85,DEFAULT,,0,0,0,,{\kf10}E{\kf10}very{\kf19}bo{\kf10}dy{\kf16} acts{\kf16} the{\kf38} same
-Dialogue: 0,0:00:20.10,0:00:21.60,DEFAULT,,0,0,0,,{\kf10}No{\kf13}thing's{\kf19} dif{\kf25}ferent{\kf19} but{\kf13} the{\kf19} names
-Dialogue: 0,0:00:21.72,0:00:22.01,DEFAULT,,0,0,0,,{\kf10}They’re{\kf10} sin{\kf7}ging
-Dialogue: 0,0:00:22.10,0:00:25.13,DEFAULT,,0,0,0,,{\kf25}“Ah{\kf38} aah{\kf25} ah,{\kf19} ah{\kf19} ah{\kf19} ah,{\kf32} ah{\kf22} aah{\kf32} ah”
-Dialogue: 0,0:00:26.10,0:00:27.97,DEFAULT,,0,0,0,,{\kf19}Ba{\kf19}sing{\kf19} them{\kf19}selves{\kf19} off{\kf19} the{\kf19} o{\kf13}thers
-Dialogue: 0,0:00:28.10,0:00:29.97,DEFAULT,,0,0,0,,{\kf19}Part{\kf19} of{\kf19} them{\kf19} se{\kf19}cre{\kf19}tly{\kf19} won{\kf13}ders
-Dialogue: 0,0:00:30.10,0:00:33.60,DEFAULT,,0,0,0,,{\kf19}What{\kf19} it{\kf19} would{\kf19} be{\kf19} like{\kf19} to{\kf13} fi{\kf13}nal{\kf19}ly{\kf25} break{\kf25} a{\kf25}way{\kf50}~
-Dialogue: 0,0:00:34.10,0:00:37.35,DEFAULT,,0,0,0,,{\kf25}I{\kf29} can’t{\kf32} be{\kf13} what{\kf19} they{\kf19} want{\kf13} me{\kf16} to{\kf25} be
-Dialogue: 0,0:00:37.85,0:00:41.35,DEFAULT,,0,0,0,,{\kf32}E{\kf38}qua{\kf19}li{\kf38}ty{\kf10} does{\kf19}n’t{\kf19} mean{\kf10} that{\kf19} you’re{\kf25} free
-Dialogue: 0,0:00:41.60,0:00:45.35,DEFAULT,,0,0,0,,{\kf19}I{\kf13} mean{\kf32} can’t{\kf32} you{\kf25} see{\kf10} you{\kf19} are{\kf19} no{\kf10}thing{\kf19} like{\kf25} me?
-Dialogue: 0,0:00:45.78,0:00:49.35,DEFAULT,,0,0,0,,{\kf32}Con{\kf32}for{\kf25}mi{\kf38}ty{\kf10} does{\kf19}n’t{\kf19} mean{\kf10} that{\kf19} you’re{\kf25} free
-Dialogue: 0,0:00:50.10,0:00:53.34,DEFAULT,,0,0,0,,{\kf25}I{\kf29} can’t{\kf32} be{\kf10} what{\kf19} they{\kf19} want{\kf10} me{\kf19} to{\kf25} be
-Dialogue: 0,0:00:53.84,0:00:57.34,DEFAULT,,0,0,0,,{\kf25}E{\kf35}qua{\kf19}li{\kf38}ty{\kf10} does{\kf19}n’t{\kf19} mean{\kf10} that{\kf19} I'm{\kf25} free
-Dialogue: 0,0:00:57.59,0:01:01.34,DEFAULT,,0,0,0,,{\kf22}Why{\kf13} can{\kf32} you{\kf32} not{\kf25} see{\kf10} you{\kf19} are{\kf19} no{\kf10}thing{\kf19} like{\kf25} me?
-Dialogue: 0,0:01:02.09,0:01:03.31,DEFAULT,,0,0,0,,{\kf13}I{\kf16} just{\kf16} want{\kf10} to{\kf19} be{\kf25} free
-Dialogue: 0,0:01:04.06,0:01:05.37,DEFAULT,,0,0,0,,{\kf16}Eve{\kf16}ry{\kf19}thing{\kf10} I{\kf19} can{\kf29} be
-Dialogue: 0,0:01:08.25,0:01:09.69,DEFAULT,,0,0,0,,{\kf7}So{\kf16}ci{\kf13}e{\kf10}ty{\kf19} is{\kf19} hard{\kf10} to{\kf25} fight
-Dialogue: 0,0:01:09.87,0:01:11.69,DEFAULT,,0,0,0,,{\kf16}When{\kf13} they{\kf13} de{\kf25}cide{\kf22} what’s{\kf19} wrong{\kf19} or{\kf25} right
-Dialogue: 0,0:01:11.81,0:01:12.03,DEFAULT,,0,0,0,,{\kf13}Sin{\kf7}ging
-Dialogue: 0,0:01:12.15,0:01:15.12,DEFAULT,,0,0,0,,{\kf22}“Ah{\kf29} aah{\kf25} ah,{\kf19} ah{\kf19} ah{\kf19} ah,{\kf25} ah{\kf22} aah{\kf32} ah”
-Dialogue: 0,0:01:16.18,0:01:17.68,DEFAULT,,0,0,0,,{\kf10}But{\kf10} you{\kf10} can{\kf13} make{\kf13} a{\kf13} dif{\kf19}ferent{\kf19} sound
-Dialogue: 0,0:01:17.87,0:01:19.62,DEFAULT,,0,0,0,,{\kf19}And{\kf10} turn{\kf13} that{\kf22} small{\kf19} world{\kf13} up{\kf19}side{\kf19} down
-Dialogue: 0,0:01:19.75,0:01:20.06,DEFAULT,,0,0,0,,{\kf10}They’re{\kf10} sin{\kf7}ging
-Dialogue: 0,0:01:20.12,0:01:23.12,DEFAULT,,0,0,0,,{\kf25}“Ah{\kf38} aah{\kf25} ah,{\kf19} ah{\kf19} ah{\kf19} ah,{\kf29} ah{\kf22} aah{\kf32} ah”
-Dialogue: 0,0:01:24.09,0:01:26.03,DEFAULT,,0,0,0,,{\kf19}Deep{\kf19} down{\kf19} we{\kf19} se{\kf19}cre{\kf19}tly{\kf19} won{\kf19}der
-Dialogue: 0,0:01:26.37,0:01:28.00,DEFAULT,,0,0,0,,{\kf10}Are{\kf10} we{\kf10} dif{\kf19}ferent{\kf19} from{\kf19} all{\kf10} the{\kf19} o{\kf13}thers?
-Dialogue: 0,0:01:28.12,0:01:31.49,DEFAULT,,0,0,0,,{\kf19}Will{\kf19} we{\kf13} fi{\kf10}nal{\kf13}ly{\kf19} find{\kf19} our{\kf25}selves{\kf19} and{\kf32} break{\kf29} a{\kf22}way{\kf38}~?
-Dialogue: 0,0:01:32.12,0:01:35.40,DEFAULT,,0,0,0,,{\kf25}I{\kf32} can’t{\kf32} be{\kf13} what{\kf19} they{\kf19} want{\kf10} me{\kf16} to{\kf29} be
-Dialogue: 0,0:01:35.87,0:01:39.37,DEFAULT,,0,0,0,,{\kf29}E{\kf38}qua{\kf19}li{\kf38}ty{\kf10} does{\kf19}n’t{\kf19} mean{\kf10} that{\kf19} you’re{\kf25} free
-Dialogue: 0,0:01:39.62,0:01:43.37,DEFAULT,,0,0,0,,{\kf19}I{\kf13} mean{\kf32} can’t{\kf38} you{\kf32} see{\kf10} you{\kf19} are{\kf19} no{\kf10}thing{\kf19} like{\kf25} me?
-Dialogue: 0,0:01:43.80,0:01:47.40,DEFAULT,,0,0,0,,{\kf32}Con{\kf38}for{\kf25}mi{\kf35}ty{\kf10} does{\kf19}n’t{\kf19} mean{\kf10} that{\kf19} you’re{\kf25} free
-Dialogue: 0,0:01:48.12,0:01:52.12,DEFAULT,,0,0,0,,{\kf38}You{\kf25} are{\kf19} a{\kf25}fraid{\kf10} that{\kf10} you{\kf19} just{\kf19} can't{\kf19} fit{\kf25} in{\kf19} with{\kf19}out{\kf25} it
-Dialogue: 0,0:01:52.40,0:01:55.96,DEFAULT,,0,0,0,,{\kf32}What's{\kf25} the{\kf38} point{\kf10} of{\kf10} life{\kf19} if{\kf19} you{\kf19} can't{\kf16} tru{\kf13}ly{\kf16} en{\kf19}joy{\kf13} it?
-Dialogue: 0,0:01:56.12,0:02:00.24,DEFAULT,,0,0,0,,{\kf32}You{\kf32} are{\kf22} a{\kf44}fraid{\kf13} that{\kf7} the{\kf13} world{\kf13} will{\kf19} ne{\kf19}ver{\kf25} ful{\kf10}ly{\kf19} ac{\kf19}cept{\kf32} you
-Dialogue: 0,0:02:00.43,0:02:04.05,DEFAULT,,0,0,0,,{\kf38}What's{\kf25} the{\kf38} point{\kf10} of{\kf10} hi{\kf19}ding{\kf19} from{\kf19} the{\kf22} life{\kf10} that{\kf19} ex{\kf19}cites{\kf19} you?
-Dialogue: 0,0:02:12.11,0:02:15.74,DEFAULT,,0,0,0,,{\kf25}Whoa{\kf25} oh,{\kf19} oh{\kf25} oh{\kf25} oh,{\kf19} oh{\kf25} oh{\kf25} oh,{\kf19} oh{\kf25} oh{\kf25} oh
-Dialogue: 0,0:02:16.11,0:02:19.49,DEFAULT,,0,0,0,,{\kf25}Whoa{\kf25} oh,{\kf19} oh{\kf25} oh{\kf25} oh,{\kf19} oh{\kf25} oh{\kf25} oh,{\kf19} oh{\kf38} oh
-Dialogue: 0,0:02:20.11,0:02:23.99,DEFAULT,,0,0,0,,{\kf25}Whoa{\kf25} oh,{\kf19} oh{\kf25} oh{\kf25} oh,{\kf19} oh{\kf25} oh{\kf25} oh,{\kf19} oh{\kf25} oh{\kf50} oh
-Dialogue: 0,0:02:24.11,0:02:27.49,DEFAULT,,0,0,0,,{\kf25}Whoa{\kf25} oh,{\kf19} oh{\kf25} oh{\kf25} oh,{\kf19} oh{\kf25} oh{\kf25} oh,{\kf63} oh!
-Dialogue: 0,0:02:28.17,0:02:32.08,DEFAULT,,0,0,0,,{\kf32}You{\kf25} are{\kf19} a{\kf25}fraid{\kf10} that{\kf16} you{\kf19} just{\kf19} can't{\kf19} fit{\kf25} in{\kf19} with{\kf19}out{\kf10}~{\kf19} it
-Dialogue: 0,0:02:32.33,0:02:36.01,DEFAULT,,0,0,0,,{\kf32}What's{\kf22} the{\kf32} point{\kf10} of{\kf10} life{\kf19} if{\kf13} you{\kf19} can't{\kf25} tru{\kf10}ly{\kf19} en{\kf19}joy{\kf19} it?
-Dialogue: 0,0:02:36.33,0:02:37.64,DEFAULT,,0,0,0,,{\kf10}You{\kf10} can{\kf10} make{\kf13} a{\kf19} dif{\kf19}ferent{\kf25} sound
-Dialogue: 0,0:02:37.76,0:02:39.70,DEFAULT,,0,0,0,,{\kf19}And{\kf16} turn{\kf13} that{\kf19} small{\kf19} world{\kf19} up{\kf19}side{\kf32} down
-Dialogue: 0,0:02:40.33,0:02:41.70,DEFAULT,,0,0,0,,{\kf10}You{\kf10} just{\kf10} got{\kf13}ta{\kf19} stand{\kf19} your{\kf32} ground
-Dialogue: 0,0:02:41.83,0:02:43.83,DEFAULT,,0,0,0,,{\kf13}And{\kf19} fight{\kf10} to{\kf19} turn{\kf19} your{\kf19} life{\kf19} a{\kf44}round
-Dialogue: 0,0:02:44.33,0:02:45.70,DEFAULT,,0,0,0,,{\kf19}Don't{\kf10} fol{\kf13}low{\kf32} this{\kf44} song
-Dialogue: 0,0:02:46.33,0:02:47.33,DEFAULT,,0,0,0,,{\kf13}Just{\kf19} sing{\kf13} your{\kf38} own
-Dialogue: 0,0:02:48.33,0:02:49.70,DEFAULT,,0,0,0,,{\kf19}Don't{\kf13} fol{\kf13}low{\kf25} their{\kf41} song
-Dialogue: 0,0:02:50.20,0:02:51.36,DEFAULT,,0,0,0,,{\kf10}When{\kf10} you{\kf13} can{\kf16} write{\kf10} your{\kf38} own
-Dialogue: 0,0:02:52.11,0:03:00.48,DEFAULT,,0,0,0,,{\kf60}You{\kf63} can{\kf32} choose{\kf38}~{\kf50} who{\kf38} to{\kf397} be{\kf38}~!
-Dialogue: 0,0:03:05.85,0:03:07.48,DEFAULT,,0,0,0,,{\kf22}Just{\kf32} break{\kf32} a{\kf63}way!
-Dialogue: 0,0:03:08.07,0:03:11.35,DEFAULT,,0,0,0,,{\kf25}I{\kf29} can’t{\kf32} be{\kf10} what{\kf19} they{\kf19} want{\kf10} me{\kf19} to{\kf25} be
-Dialogue: 0,0:03:11.85,0:03:15.35,DEFAULT,,0,0,0,,{\kf25}E{\kf38}qua{\kf19}li{\kf35}ty{\kf10} does{\kf19}n’t{\kf19} mean{\kf10} that{\kf19} you’re{\kf25} free
-Dialogue: 0,0:03:15.60,0:03:19.35,DEFAULT,,0,0,0,,{\kf19}I{\kf13} mean{\kf32} can’t{\kf35} you{\kf32} see{\kf10} you{\kf19} are{\kf19} no{\kf10}thing{\kf19} like{\kf25} me?
-Dialogue: 0,0:03:19.79,0:03:23.35,DEFAULT,,0,0,0,,{\kf32}Con{\kf38}for{\kf25}mi{\kf38}ty{\kf10} does{\kf19}n’t{\kf19} mean{\kf10} that{\kf19} you’re{\kf25} free
-Dialogue: 0,0:03:23.98,0:03:27.98,DEFAULT,,0,0,0,,{\kf38}You{\kf22} are{\kf19} a{\kf25}fraid{\kf10} that{\kf10} you{\kf19} just{\kf19} can't{\kf16} fit{\kf22} in{\kf19} with{\kf19}out{\kf25} it
-Dialogue: 0,0:03:28.29,0:03:31.91,DEFAULT,,0,0,0,,{\kf32}What's{\kf29} the{\kf38} point{\kf10} of{\kf10} life{\kf19} if{\kf19} you{\kf19} can't{\kf19} tru{\kf10}ly{\kf19} en{\kf19}joy{\kf13} it?
-Dialogue: 0,0:03:32.10,0:03:36.16,DEFAULT,,0,0,0,,{\kf22}You{\kf19} are{\kf22} a{\kf32}fraid{\kf10} that{\kf7} the{\kf10} world{\kf13} will{\kf19} ne{\kf19}ver{\kf25} ful{\kf10}ly{\kf19} ac{\kf19}cept{\kf32} you
-Dialogue: 0,0:03:36.35,0:03:39.91,DEFAULT,,0,0,0,,{\kf38}What's{\kf25} the{\kf38} point{\kf10} of{\kf10} hi{\kf19}ding{\kf19} from{\kf19} the{\kf22} life{\kf10} that{\kf19} ex{\kf19}cites{\kf13} you?
-Dialogue: 0,0:03:40.07,0:03:41.35,DEFAULT,,0,0,0,,{\kf13}I{\kf13} just{\kf19} want{\kf13} to{\kf13} be{\kf25} free
-Dialogue: 0,0:03:42.07,0:03:43.35,DEFAULT,,0,0,0,,{\kf13}I{\kf13} just{\kf19} want{\kf13} to{\kf13} be{\kf25} free
+Dialogue: 0,0:00:10.39,0:00:11.73,DEFAULT,,0,0,0,,{\r}{\kf12}There’s{\kf12} a{\kf16} place{\kf28} just{\kf16} north{\kf16} of{\kf34} town
+Dialogue: 0,0:00:11.86,0:00:13.61,DEFAULT,,0,0,0,,{\r}{\kf10}If{\kf10} you{\kf17} lis{\kf25}ten{\kf25} you{\kf25} can{\kf25} hear{\kf25} the{\kf13} sound
+Dialogue: 0,0:00:13.73,0:00:14.01,DEFAULT,,0,0,0,,{\r}{\kf10}They’re{\kf10} sin{\kf10}ging
+Dialogue: 0,0:00:14.11,0:00:17.11,DEFAULT,,0,0,0,,{\r}{\kf35}“Ah{\kf39} aah{\kf35} ah,{\kf26} ah{\kf26} ah{\kf26} ah,{\kf35} ah{\kf35} aah{\kf43} ah”
+Dialogue: 0,0:00:18.36,0:00:19.86,DEFAULT,,0,0,0,,{\r}{\kf12}E{\kf12}very{\kf24}bo{\kf12}dy{\kf20} acts{\kf20} the{\kf50} same
+Dialogue: 0,0:00:20.11,0:00:21.60,DEFAULT,,0,0,0,,{\r}{\kf12}No{\kf16}thing's{\kf24} dif{\kf32}ferent{\kf24} but{\kf16} the{\kf26} names
+Dialogue: 0,0:00:21.73,0:00:22.01,DEFAULT,,0,0,0,,{\r}{\kf10}They’re{\kf10} sin{\kf10}ging
+Dialogue: 0,0:00:22.10,0:00:25.14,DEFAULT,,0,0,0,,{\r}{\kf33}“Ah{\kf50} aah{\kf33} ah,{\kf25} ah{\kf25} ah{\kf25} ah,{\kf42} ah{\kf29} aah{\kf41} ah”
+Dialogue: 0,0:00:26.10,0:00:27.98,DEFAULT,,0,0,0,,{\r}{\kf24}Ba{\kf24}sing{\kf24} them{\kf24}selves{\kf24} off{\kf24} the{\kf24} o{\kf19}thers
+Dialogue: 0,0:00:28.10,0:00:29.98,DEFAULT,,0,0,0,,{\r}{\kf24}Part{\kf24} of{\kf24} them{\kf24} se{\kf24}cre{\kf24}tly{\kf24} won{\kf19}ders
+Dialogue: 0,0:00:30.10,0:00:33.60,DEFAULT,,0,0,0,,{\r}{\kf23}What{\kf23} it{\kf23} would{\kf23} be{\kf23} like{\kf23} to{\kf16} fi{\kf16}nal{\kf23}ly{\kf31} break{\kf31} a{\kf31}way{\kf64}~
+Dialogue: 0,0:00:34.10,0:00:37.35,DEFAULT,,0,0,0,,{\r}{\kf43}I{\kf49} can’t{\kf54} be{\kf22} what{\kf32} they{\kf32} want{\kf22} me{\kf27} to{\kf44} be
+Dialogue: 0,0:00:37.85,0:00:41.35,DEFAULT,,0,0,0,,{\r}{\kf49}E{\kf58}qua{\kf29}li{\kf58}ty{\kf15} does{\kf29}n’t{\kf29} mean{\kf15} that{\kf29} you’re{\kf39} free
+Dialogue: 0,0:00:41.60,0:00:45.35,DEFAULT,,0,0,0,,{\r}{\kf32}I{\kf21} mean{\kf54} can’t{\kf54} you{\kf43} see{\kf16} you{\kf32} are{\kf32} no{\kf16}thing{\kf32} like{\kf43} me?
+Dialogue: 0,0:00:45.79,0:00:49.35,DEFAULT,,0,0,0,,{\r}{\kf49}Con{\kf49}for{\kf40}mi{\kf59}ty{\kf15} does{\kf30}n’t{\kf30} mean{\kf15} that{\kf30} you’re{\kf39} free
+Dialogue: 0,0:00:50.10,0:00:53.35,DEFAULT,,0,0,0,,{\r}{\kf44}I{\kf50} can’t{\kf55} be{\kf17} what{\kf33} they{\kf33} want{\kf17} me{\kf33} to{\kf43} be
+Dialogue: 0,0:00:53.85,0:00:57.35,DEFAULT,,0,0,0,,{\r}{\kf41}E{\kf56}qua{\kf30}li{\kf61}ty{\kf15} does{\kf30}n’t{\kf30} mean{\kf15} that{\kf30} I'm{\kf42} free
+Dialogue: 0,0:00:57.60,0:01:01.35,DEFAULT,,0,0,0,,{\r}{\kf37}Why{\kf21} can{\kf53} you{\kf53} not{\kf42} see{\kf16} you{\kf32} are{\kf32} no{\kf16}thing{\kf32} like{\kf41} me?
+Dialogue: 0,0:01:02.10,0:01:03.32,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf20} just{\kf20} want{\kf12} to{\kf24} be{\kf30} free
+Dialogue: 0,0:01:04.07,0:01:05.38,DEFAULT,,0,0,0,,{\r}{\kf19}Eve{\kf19}ry{\kf23}thing{\kf12} I{\kf23} can{\kf35} be
+Dialogue: 0,0:01:08.25,0:01:09.69,DEFAULT,,0,0,0,,{\r}{\kf10}So{\kf19}ci{\kf16}e{\kf12}ty{\kf23} is{\kf23} hard{\kf12} to{\kf29} fight
+Dialogue: 0,0:01:09.88,0:01:11.69,DEFAULT,,0,0,0,,{\r}{\kf19}When{\kf15} they{\kf15} de{\kf30}cide{\kf26} what’s{\kf23} wrong{\kf23} or{\kf30} right
+Dialogue: 0,0:01:11.82,0:01:12.03,DEFAULT,,0,0,0,,{\r}{\kf15}Sin{\kf10}ging
+Dialogue: 0,0:01:12.16,0:01:15.13,DEFAULT,,0,0,0,,{\r}{\kf31}“Ah{\kf40} aah{\kf35} ah,{\kf27} ah{\kf27} ah{\kf27} ah,{\kf35} ah{\kf31} aah{\kf44} ah”
+Dialogue: 0,0:01:16.19,0:01:17.69,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf14} you{\kf14} can{\kf18} make{\kf18} a{\kf18} dif{\kf27}ferent{\kf27} sound
+Dialogue: 0,0:01:17.88,0:01:19.63,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf12} turn{\kf17} that{\kf29} small{\kf25} world{\kf17} up{\kf25}side{\kf25} down
+Dialogue: 0,0:01:19.75,0:01:20.06,DEFAULT,,0,0,0,,{\r}{\kf12}They’re{\kf12} sin{\kf10}ging
+Dialogue: 0,0:01:20.13,0:01:23.13,DEFAULT,,0,0,0,,{\r}{\kf33}“Ah{\kf50} aah{\kf33} ah,{\kf25} ah{\kf25} ah{\kf25} ah,{\kf38} ah{\kf29} aah{\kf42} ah”
+Dialogue: 0,0:01:24.09,0:01:26.03,DEFAULT,,0,0,0,,{\r}{\kf24}Deep{\kf24} down{\kf24} we{\kf24} se{\kf24}cre{\kf24}tly{\kf24} won{\kf26}der
+Dialogue: 0,0:01:26.38,0:01:28.00,DEFAULT,,0,0,0,,{\r}{\kf12}Are{\kf12} we{\kf12} dif{\kf24}ferent{\kf24} from{\kf24} all{\kf12} the{\kf24} o{\kf18}thers?
+Dialogue: 0,0:01:28.13,0:01:31.50,DEFAULT,,0,0,0,,{\r}{\kf23}Will{\kf23} we{\kf15} fi{\kf12}nal{\kf15}ly{\kf23} find{\kf23} our{\kf31}selves{\kf23} and{\kf39} break{\kf35} a{\kf27}way{\kf48}~?
+Dialogue: 0,0:01:32.12,0:01:35.41,DEFAULT,,0,0,0,,{\r}{\kf43}I{\kf54} can’t{\kf54} be{\kf22} what{\kf32} they{\kf32} want{\kf16} me{\kf27} to{\kf48} be
+Dialogue: 0,0:01:35.87,0:01:39.37,DEFAULT,,0,0,0,,{\r}{\kf44}E{\kf59}qua{\kf30}li{\kf59}ty{\kf15} does{\kf30}n’t{\kf30} mean{\kf15} that{\kf30} you’re{\kf38} free
+Dialogue: 0,0:01:39.62,0:01:43.37,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf20} mean{\kf51} can’t{\kf61} you{\kf51} see{\kf15} you{\kf30} are{\kf30} no{\kf15}thing{\kf30} like{\kf42} me?
+Dialogue: 0,0:01:43.81,0:01:47.40,DEFAULT,,0,0,0,,{\r}{\kf49}Con{\kf59}for{\kf39}mi{\kf54}ty{\kf15} does{\kf30}n’t{\kf30} mean{\kf15} that{\kf30} you’re{\kf38} free
+Dialogue: 0,0:01:48.12,0:01:52.12,DEFAULT,,0,0,0,,{\r}{\kf56}You{\kf37} are{\kf28} a{\kf37}fraid{\kf14} that{\kf14} you{\kf28} just{\kf28} can't{\kf28} fit{\kf37} in{\kf28} with{\kf28}out{\kf37} it
+Dialogue: 0,0:01:52.40,0:01:55.96,DEFAULT,,0,0,0,,{\r}{\kf46}What's{\kf37} the{\kf55} point{\kf14} of{\kf14} life{\kf27} if{\kf27} you{\kf27} can't{\kf23} tru{\kf18}ly{\kf23} en{\kf27}joy{\kf18} it?
+Dialogue: 0,0:01:56.12,0:02:00.24,DEFAULT,,0,0,0,,{\r}{\kf41}You{\kf41} are{\kf29} a{\kf58}fraid{\kf16} that{\kf10} the{\kf16} world{\kf16} will{\kf25} ne{\kf25}ver{\kf33} ful{\kf12}ly{\kf25} ac{\kf25}cept{\kf40} you
+Dialogue: 0,0:02:00.43,0:02:04.06,DEFAULT,,0,0,0,,{\r}{\kf52}What's{\kf34} the{\kf52} point{\kf13} of{\kf13} hi{\kf26}ding{\kf26} from{\kf26} the{\kf30} life{\kf13} that{\kf26} ex{\kf26}cites{\kf25} you?
+Dialogue: 0,0:02:12.12,0:02:15.74,DEFAULT,,0,0,0,,{\r}{\kf35}Whoa{\kf35} oh,{\kf26} oh{\kf35} oh{\kf35} oh,{\kf26} oh{\kf35} oh{\kf35} oh,{\kf26} oh{\kf35} oh{\kf39} oh
+Dialogue: 0,0:02:16.12,0:02:19.49,DEFAULT,,0,0,0,,{\r}{\kf35}Whoa{\kf35} oh,{\kf26} oh{\kf35} oh{\kf35} oh,{\kf26} oh{\kf35} oh{\kf35} oh,{\kf26} oh{\kf49} oh
+Dialogue: 0,0:02:20.12,0:02:23.99,DEFAULT,,0,0,0,,{\r}{\kf34}Whoa{\kf34} oh,{\kf26} oh{\kf34} oh{\kf34} oh,{\kf26} oh{\kf34} oh{\kf34} oh,{\kf26} oh{\kf34} oh{\kf71} oh
+Dialogue: 0,0:02:24.12,0:02:27.49,DEFAULT,,0,0,0,,{\r}{\kf34}Whoa{\kf34} oh,{\kf25} oh{\kf34} oh{\kf34} oh,{\kf25} oh{\kf34} oh{\kf34} oh,{\kf83} oh!
+Dialogue: 0,0:02:28.18,0:02:32.08,DEFAULT,,0,0,0,,{\r}{\kf45}You{\kf36} are{\kf27} a{\kf36}fraid{\kf13} that{\kf22} you{\kf27} just{\kf27} can't{\kf27} fit{\kf36} in{\kf27} with{\kf27}out{\kf13}~{\kf28} it
+Dialogue: 0,0:02:32.33,0:02:36.02,DEFAULT,,0,0,0,,{\r}{\kf47}What's{\kf33} the{\kf47} point{\kf14} of{\kf14} life{\kf28} if{\kf19} you{\kf28} can't{\kf38} tru{\kf14}ly{\kf28} en{\kf28}joy{\kf31} it?
+Dialogue: 0,0:02:36.33,0:02:37.64,DEFAULT,,0,0,0,,{\r}{\kf12}You{\kf12} can{\kf12} make{\kf16} a{\kf24} dif{\kf24}ferent{\kf31} sound
+Dialogue: 0,0:02:37.77,0:02:39.71,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf20} turn{\kf16} that{\kf24} small{\kf24} world{\kf24} up{\kf24}side{\kf38} down
+Dialogue: 0,0:02:40.33,0:02:41.71,DEFAULT,,0,0,0,,{\r}{\kf12}You{\kf12} just{\kf12} got{\kf16}ta{\kf23} stand{\kf23} your{\kf39} ground
+Dialogue: 0,0:02:41.83,0:02:43.83,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf24} fight{\kf12} to{\kf24} turn{\kf24} your{\kf24} life{\kf24} a{\kf52}round
+Dialogue: 0,0:02:44.33,0:02:45.71,DEFAULT,,0,0,0,,{\r}{\kf22}Don't{\kf11} fol{\kf15}low{\kf37} this{\kf52} song
+Dialogue: 0,0:02:46.33,0:02:47.33,DEFAULT,,0,0,0,,{\r}{\kf15}Just{\kf23} sing{\kf15} your{\kf47} own
+Dialogue: 0,0:02:48.33,0:02:49.71,DEFAULT,,0,0,0,,{\r}{\kf23}Don't{\kf16} fol{\kf16}low{\kf31} their{\kf51} song
+Dialogue: 0,0:02:50.21,0:02:51.36,DEFAULT,,0,0,0,,{\r}{\kf12}When{\kf12} you{\kf15} can{\kf19} write{\kf12} your{\kf46} own
+Dialogue: 0,0:02:52.11,0:03:00.48,DEFAULT,,0,0,0,,{\r}{\kf70}You{\kf73} can{\kf37} choose{\kf44}~{\kf59} who{\kf44} to{\kf466} be{\kf44}~!
+Dialogue: 0,0:03:05.86,0:03:07.48,DEFAULT,,0,0,0,,{\r}{\kf24}Just{\kf34} break{\kf34} a{\kf70}way!
+Dialogue: 0,0:03:08.08,0:03:11.36,DEFAULT,,0,0,0,,{\r}{\kf44}I{\kf50} can’t{\kf56} be{\kf17} what{\kf33} they{\kf33} want{\kf17} me{\kf33} to{\kf45} be
+Dialogue: 0,0:03:11.86,0:03:15.36,DEFAULT,,0,0,0,,{\r}{\kf41}E{\kf61}qua{\kf30}li{\kf56}ty{\kf15} does{\kf30}n’t{\kf30} mean{\kf15} that{\kf30} you’re{\kf42} free
+Dialogue: 0,0:03:15.61,0:03:19.36,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf21} mean{\kf51} can’t{\kf57} you{\kf51} see{\kf15} you{\kf31} are{\kf31} no{\kf15}thing{\kf31} like{\kf41} me?
+Dialogue: 0,0:03:19.79,0:03:23.36,DEFAULT,,0,0,0,,{\r}{\kf48}Con{\kf58}for{\kf38}mi{\kf58}ty{\kf14} does{\kf29}n’t{\kf29} mean{\kf14} that{\kf29} you’re{\kf39} free
+Dialogue: 0,0:03:23.98,0:03:27.98,DEFAULT,,0,0,0,,{\r}{\kf58}You{\kf34} are{\kf29} a{\kf39}fraid{\kf14} that{\kf14} you{\kf29} just{\kf29} can't{\kf24} fit{\kf34} in{\kf29} with{\kf29}out{\kf38} it
+Dialogue: 0,0:03:28.29,0:03:31.92,DEFAULT,,0,0,0,,{\r}{\kf45}What's{\kf41} the{\kf54} point{\kf14} of{\kf14} life{\kf27} if{\kf27} you{\kf27} can't{\kf27} tru{\kf14}ly{\kf27} en{\kf27}joy{\kf18} it?
+Dialogue: 0,0:03:32.10,0:03:36.17,DEFAULT,,0,0,0,,{\r}{\kf33}You{\kf28} are{\kf33} a{\kf47}fraid{\kf14} that{\kf10} the{\kf14} world{\kf19} will{\kf28} ne{\kf28}ver{\kf37} ful{\kf14}ly{\kf28} ac{\kf28}cept{\kf45} you
+Dialogue: 0,0:03:36.35,0:03:39.92,DEFAULT,,0,0,0,,{\r}{\kf52}What's{\kf35} the{\kf52} point{\kf13} of{\kf13} hi{\kf26}ding{\kf26} from{\kf26} the{\kf30} life{\kf13} that{\kf26} ex{\kf26}cites{\kf18} you?
+Dialogue: 0,0:03:40.07,0:03:41.35,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf17} just{\kf26} want{\kf17} to{\kf17} be{\kf34} free
+Dialogue: 0,0:03:42.07,0:03:43.35,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf17} just{\kf26} want{\kf17} to{\kf17} be{\kf34} free

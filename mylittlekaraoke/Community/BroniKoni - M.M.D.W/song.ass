@@ -1,70 +1,77 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: M.M.D.W
+Artist: BroniKoni
+Original Timing: mylittlekaraoke.com by Lyra101
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:29.68,0:00:31.49,DEFAULT,,0,0,0,,{\kf23}You{\kf23} hear{\kf9} a{\kf18} ba{\kf12}by{\kf32} cry{\kf21}ing
-Dialogue: 0,0:00:31.78,0:00:32.98,DEFAULT,,0,0,0,,{\kf21}Fal{\kf18}ling{\kf18} off{\kf12} the{\kf26} cliff
-Dialogue: 0,0:00:33.41,0:00:35.11,DEFAULT,,0,0,0,,{\kf18}The{\kf23} buil{\kf21}dings{\kf18} all{\kf21} des{\kf18}truc{\kf18}ted
-Dialogue: 0,0:00:35.23,0:00:36.61,DEFAULT,,0,0,0,,{\kf18}Here{\kf21} comes{\kf12} the{\kf15} sneak{\kf15}ing{\kf26} thief
-Dialogue: 0,0:00:37.21,0:00:38.99,DEFAULT,,0,0,0,,{\kf12}Si{\kf18}nis{\kf15}ter{\kf21} noise{\kf12} of{\kf29} si{\kf35}rens
-Dialogue: 0,0:00:39.19,0:00:40.43,DEFAULT,,0,0,0,,{\kf21}Cut{\kf18}ting{\kf12} out{\kf18} your{\kf29} ears
-Dialogue: 0,0:00:40.77,0:00:42.53,DEFAULT,,0,0,0,,{\kf18}When{\kf18} pa{\kf18}nic{\kf18} fills{\kf12} the{\kf23} town{\kf21}~
-Dialogue: 0,0:00:42.64,0:00:44.22,DEFAULT,,0,0,0,,{\kf15}She{\kf21} sud{\kf15}den{\kf21}ly{\kf12} ap{\kf44}pears
-Dialogue: 0,0:00:44.97,0:00:46.55,DEFAULT,,0,0,0,,{\kf15}The{\kf15} black{\kf15} blur{\kf29} soar{\kf23}ing{\kf23} high
-Dialogue: 0,0:00:46.75,0:00:48.77,DEFAULT,,0,0,0,,{\kf21}Won't{\kf23} e{\kf15}ven{\kf21} catch{\kf29} your{\kf21} eye{\kf35}~
-Dialogue: 0,0:00:52.36,0:00:54.34,DEFAULT,,0,0,0,,{\kf12}But{\kf18} you{\kf21} won't{\kf29} e{\kf35}ven{\kf21} no{\kf15}~{\kf12}tice
-Dialogue: 0,0:00:54.49,0:00:56.56,DEFAULT,,0,0,0,,{\kf9}If{\kf12} she{\kf41} saves{\kf29} your{\kf69} life
-Dialogue: 0,0:00:57.02,0:00:59.06,DEFAULT,,0,0,0,,{\kf23}One{\kf23} more{\kf58} ti{\kf72}me
-Dialogue: 0,0:00:59.49,0:01:01.10,DEFAULT,,0,0,0,,{\kf18}When{\kf15} the{\kf23} dark{\kf12}ness{\kf15} fills{\kf12} the{\kf32} sky
-Dialogue: 0,0:01:01.33,0:01:02.97,DEFAULT,,0,0,0,,{\kf18}She{\kf18} ap{\kf21}proa{\kf18}ches{\kf12} in{\kf12} no{\kf35} time
-Dialogue: 0,0:01:03.20,0:01:04.78,DEFAULT,,0,0,0,,{\kf21}Fly{\kf21}ing{\kf9} o{\kf9}ver{\kf12} the{\kf12} scene{\kf12} of{\kf32} crime
-Dialogue: 0,0:01:04.90,0:01:06.65,DEFAULT,,0,0,0,,{\kf9}And{\kf21} watch{\kf18}ing{\kf23} with{\kf12} her{\kf18} ea{\kf18}gle{\kf32} eye
-Dialogue: 0,0:01:06.82,0:01:08.35,DEFAULT,,0,0,0,,{\kf9}If{\kf15} there{\kf9} is{\kf21} trou{\kf18}ble{\kf9} a{\kf15}ny{\kf21}where
-Dialogue: 0,0:01:08.49,0:01:10.27,DEFAULT,,0,0,0,,{\kf18}She'll{\kf15} al{\kf18}ways{\kf23} be{\kf12} there,{\kf9} you{\kf9} can{\kf29} tell
-Dialogue: 0,0:01:10.56,0:01:12.05,DEFAULT,,0,0,0,,{\kf18}Have{\kf15} no{\kf18} fear{\kf18} when{\kf12} she{\kf15} is{\kf21} here
-Dialogue: 0,0:01:12.20,0:01:14.35,DEFAULT,,0,0,0,,{\kf18}Your{\kf23} friend{\kf23}ly{\kf21} neigh{\kf18}bour{\kf29} Mare{\kf29} Do{\kf32} Well
-Dialogue: 0,0:01:30.86,0:01:32.35,DEFAULT,,0,0,0,,{\kf21}Cloud{\kf15} of{\kf18} smoke{\kf12} and{\kf9} she{\kf15} ap{\kf21}pears
-Dialogue: 0,0:01:32.47,0:01:33.99,DEFAULT,,0,0,0,,{\kf12}The{\kf18} mas{\kf15}ter{\kf12} of{\kf18} sur{\kf35}prise!
-Dialogue: 0,0:01:34.34,0:01:36.03,DEFAULT,,0,0,0,,{\kf12}She'll{\kf23} swirl{\kf18} your{\kf18} mind{\kf12} and{\kf9} read{\kf12} it{\kf21} twice
-Dialogue: 0,0:01:36.18,0:01:37.67,DEFAULT,,0,0,0,,{\kf18}Once{\kf12} you{\kf18} look{\kf12} in{\kf18} her{\kf41} eyes
-Dialogue: 0,0:01:38.13,0:01:39.71,DEFAULT,,0,0,0,,{\kf12}You'd{\kf15} bare{\kf18}ly{\kf18} no{\kf18}tice{\kf12} skin{\kf15}ny{\kf21} suit
-Dialogue: 0,0:01:39.86,0:01:41.26,DEFAULT,,0,0,0,,{\kf23}Black{\kf12} mask{\kf12} and{\kf18} wide{\kf18} brim{\kf23} hat
-Dialogue: 0,0:01:41.75,0:01:43.42,DEFAULT,,0,0,0,,{\kf18}When{\kf18} dan{\kf18}ger's{\kf23} com{\kf18}ing{\kf23} she's{\kf23} here
-Dialogue: 0,0:01:43.56,0:01:45.00,DEFAULT,,0,0,0,,{\kf21}Just{\kf18} watch{\kf15} her{\kf23} sil{\kf23}hou{\kf23}ette
-Dialogue: 0,0:01:45.84,0:01:47.50,DEFAULT,,0,0,0,,{\kf15}The{\kf18} black{\kf18} blur{\kf26} soar{\kf32}ing{\kf23} high
-Dialogue: 0,0:01:47.65,0:01:49.66,DEFAULT,,0,0,0,,{\kf21}Won't{\kf23} e{\kf23}ven{\kf29} catch{\kf29} your{\kf21} eye{\kf29}~
-Dialogue: 0,0:01:53.31,0:01:55.29,DEFAULT,,0,0,0,,{\kf18}But{\kf9} you{\kf23} won't{\kf26} e{\kf21}ven{\kf18} no{\kf15}~{\kf21}tice
-Dialogue: 0,0:01:55.44,0:01:57.36,DEFAULT,,0,0,0,,{\kf9}If{\kf12} she{\kf32} saves{\kf21} your{\kf64} life
-Dialogue: 0,0:01:57.88,0:01:59.87,DEFAULT,,0,0,0,,{\kf29}One{\kf26} last{\kf58} ti{\kf58}me
-Dialogue: 0,0:02:00.38,0:02:02.05,DEFAULT,,0,0,0,,{\kf21}When{\kf12} the{\kf18} dark{\kf18}ness{\kf15} fills{\kf12} the{\kf38} sky
-Dialogue: 0,0:02:02.22,0:02:03.86,DEFAULT,,0,0,0,,{\kf23}She{\kf18} ap{\kf18}proa{\kf23}ches{\kf9} in{\kf15} no{\kf32} time
-Dialogue: 0,0:02:04.06,0:02:05.56,DEFAULT,,0,0,0,,{\kf26}Fly{\kf18}ing{\kf12} o{\kf9}ver{\kf9} the{\kf12} scene{\kf15} of{\kf18} crime
-Dialogue: 0,0:02:05.70,0:02:07.51,DEFAULT,,0,0,0,,{\kf15}And{\kf21} watch{\kf18}ing{\kf18} with{\kf12} her{\kf12} ea{\kf18}gle{\kf29} eye
-Dialogue: 0,0:02:07.71,0:02:09.30,DEFAULT,,0,0,0,,{\kf9}If{\kf18} there{\kf21} is{\kf18} trou{\kf18}ble{\kf12} a{\kf15}ny{\kf23}where
-Dialogue: 0,0:02:09.41,0:02:11.22,DEFAULT,,0,0,0,,{\kf18}She'll{\kf18} al{\kf18}ways{\kf21} be{\kf12} there,{\kf15} you{\kf18} can{\kf26} tell
-Dialogue: 0,0:02:11.48,0:02:12.98,DEFAULT,,0,0,0,,{\kf18}Have{\kf18} no{\kf21} fear{\kf15} when{\kf12} she{\kf12} is{\kf23} here
-Dialogue: 0,0:02:13.09,0:02:16.28,DEFAULT,,0,0,0,,{\kf18}Your{\kf21} friend{\kf21}ly{\kf23} neigh{\kf15}bour{\kf21} Mare{\kf15}~{\kf23} Do{\kf113} Well
-Dialogue: 0,0:03:56.71,0:03:58.43,DEFAULT,,0,0,0,,{\kf21}When{\kf12} the{\kf15} dark{\kf18}ness{\kf12} fills{\kf9} the{\kf41} sky
-Dialogue: 0,0:03:58.60,0:04:00.24,DEFAULT,,0,0,0,,{\kf18}She{\kf15} ap{\kf18}proa{\kf18}ches{\kf9} in{\kf9} no{\kf41} time
-Dialogue: 0,0:04:00.41,0:04:01.97,DEFAULT,,0,0,0,,{\kf18}Fly{\kf21}ing{\kf9} o{\kf9}ver{\kf9} the{\kf9} scene{\kf15} of{\kf29} crime
-Dialogue: 0,0:04:02.08,0:04:03.78,DEFAULT,,0,0,0,,{\kf12}And{\kf15} watch{\kf12}ing{\kf21} with{\kf15} her{\kf9} ea{\kf18}gle{\kf23} eye
-Dialogue: 0,0:04:04.01,0:04:05.59,DEFAULT,,0,0,0,,{\kf9}If{\kf18} there{\kf12} is{\kf23} trou{\kf18}ble{\kf12} a{\kf18}ny{\kf21}where
-Dialogue: 0,0:04:05.70,0:04:07.54,DEFAULT,,0,0,0,,{\kf18}She'll{\kf18} al{\kf18}ways{\kf15} be{\kf15} there,{\kf12} you{\kf12} can{\kf29} tell
-Dialogue: 0,0:04:07.80,0:04:09.27,DEFAULT,,0,0,0,,{\kf15}Have{\kf15} no{\kf18} fear{\kf15} when{\kf12} she{\kf12} is{\kf18} here
-Dialogue: 0,0:04:09.38,0:04:11.37,DEFAULT,,0,0,0,,{\kf21}Your{\kf21} friend{\kf21}ly{\kf21} neigh{\kf21}bour{\kf23} Mare{\kf9} Do{\kf44} Well
-Dialogue: 0,0:04:11.66,0:04:13.09,DEFAULT,,0,0,0,,{\kf15}When{\kf9} the{\kf15} dark{\kf18}ness{\kf12} fills{\kf12} the{\kf35} sky
-Dialogue: 0,0:04:13.55,0:04:14.96,DEFAULT,,0,0,0,,{\kf9}She{\kf12} ap{\kf21}proa{\kf18}ches{\kf9} in{\kf12} no{\kf32} time
-Dialogue: 0,0:04:15.39,0:04:16.97,DEFAULT,,0,0,0,,{\kf15}Fly{\kf12}ing{\kf9} o{\kf12}ver{\kf12} the{\kf12} scene{\kf12} of{\kf23} crime{\kf18} and
-Dialogue: 0,0:04:17.29,0:04:18.67,DEFAULT,,0,0,0,,{\kf12}Watch{\kf9}ing{\kf12} with{\kf12} her{\kf15} ea{\kf21}gle{\kf29} eye
-Dialogue: 0,0:04:19.02,0:04:20.65,DEFAULT,,0,0,0,,{\kf9}If{\kf21} there's{\kf21} trou{\kf15}ble{\kf12} a{\kf15}ny{\kf21}where{\kf23} she'll
-Dialogue: 0,0:04:20.94,0:04:22.18,DEFAULT,,0,0,0,,{\kf9}Al{\kf12}ways{\kf12} be{\kf12} there,{\kf12} you{\kf18} can{\kf21} tell
-Dialogue: 0,0:04:22.78,0:04:23.99,DEFAULT,,0,0,0,,{\kf9}Have{\kf9} no{\kf12} fear{\kf18} when{\kf12} she{\kf12} is{\kf12} here
-Dialogue: 0,0:04:24.13,0:04:26.43,DEFAULT,,0,0,0,,{\kf15}Your{\kf21} friend{\kf18}ly{\kf18} neigh{\kf15}bour{\kf29} Mare{\kf23} Do{\kf38} Well
-Dialogue: 0,0:04:57.66,0:05:00.53,DEFAULT,,0,0,0,,{\kf29}Mare{\kf38} Mare{\kf35} Mare{\kf35} Do{\kf104} Well
+Dialogue: 0,0:00:29.68,0:00:31.49,DEFAULT,,0,0,0,,{\r}{\kf31}You{\kf31} hear{\kf12} a{\kf23} ba{\kf15}by{\kf42} cry{\kf27}ing
+Dialogue: 0,0:00:31.78,0:00:32.99,DEFAULT,,0,0,0,,{\r}{\kf26}Fal{\kf23}ling{\kf23} off{\kf15} the{\kf34} cliff
+Dialogue: 0,0:00:33.42,0:00:35.12,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf30} buil{\kf26}dings{\kf22} all{\kf26} des{\kf22}truc{\kf22}ted
+Dialogue: 0,0:00:35.23,0:00:36.61,DEFAULT,,0,0,0,,{\r}{\kf23}Here{\kf27} comes{\kf15} the{\kf19} sneak{\kf19}ing{\kf35} thief
+Dialogue: 0,0:00:37.21,0:00:39.00,DEFAULT,,0,0,0,,{\r}{\kf15}Si{\kf22}nis{\kf19}ter{\kf26} noise{\kf15} of{\kf37} si{\kf44}rens
+Dialogue: 0,0:00:39.20,0:00:40.43,DEFAULT,,0,0,0,,{\r}{\kf26}Cut{\kf23}ting{\kf15} out{\kf23} your{\kf37} ears
+Dialogue: 0,0:00:40.78,0:00:42.53,DEFAULT,,0,0,0,,{\r}{\kf24}When{\kf24} pa{\kf24}nic{\kf24} fills{\kf16} the{\kf33} town{\kf30}~
+Dialogue: 0,0:00:42.65,0:00:44.23,DEFAULT,,0,0,0,,{\r}{\kf18}She{\kf26} sud{\kf18}den{\kf26}ly{\kf15} ap{\kf55}pears
+Dialogue: 0,0:00:44.98,0:00:46.56,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf19} black{\kf19} blur{\kf39} soar{\kf31}ing{\kf31} high
+Dialogue: 0,0:00:46.76,0:00:48.77,DEFAULT,,0,0,0,,{\r}{\kf25}Won't{\kf29} e{\kf18}ven{\kf25} catch{\kf36} your{\kf25} eye{\kf43}~
+Dialogue: 0,0:00:52.37,0:00:54.35,DEFAULT,,0,0,0,,{\r}{\kf14}But{\kf22} you{\kf25} won't{\kf36} e{\kf43}ven{\kf25} no{\kf18}~{\kf15}tice
+Dialogue: 0,0:00:54.49,0:00:56.56,DEFAULT,,0,0,0,,{\r}{\kf11}If{\kf15} she{\kf53} saves{\kf38} your{\kf90} life
+Dialogue: 0,0:00:57.02,0:00:59.06,DEFAULT,,0,0,0,,{\r}{\kf27}One{\kf27} more{\kf67} ti{\kf83}me
+Dialogue: 0,0:00:59.50,0:01:01.11,DEFAULT,,0,0,0,,{\r}{\kf22}When{\kf19} the{\kf30} dark{\kf15}ness{\kf19} fills{\kf15} the{\kf41} sky
+Dialogue: 0,0:01:01.34,0:01:02.97,DEFAULT,,0,0,0,,{\r}{\kf22}She{\kf22} ap{\kf26}proa{\kf22}ches{\kf15} in{\kf15} no{\kf42} time
+Dialogue: 0,0:01:03.20,0:01:04.79,DEFAULT,,0,0,0,,{\r}{\kf26}Fly{\kf26}ing{\kf11} o{\kf11}ver{\kf15} the{\kf15} scene{\kf15} of{\kf39} crime
+Dialogue: 0,0:01:04.90,0:01:06.65,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf24} watch{\kf21}ing{\kf27} with{\kf14} her{\kf21} ea{\kf21}gle{\kf37} eye
+Dialogue: 0,0:01:06.83,0:01:08.35,DEFAULT,,0,0,0,,{\r}{\kf12}If{\kf19} there{\kf12} is{\kf27} trou{\kf23}ble{\kf12} a{\kf19}ny{\kf28}where
+Dialogue: 0,0:01:08.49,0:01:10.28,DEFAULT,,0,0,0,,{\r}{\kf24}She'll{\kf20} al{\kf24}ways{\kf32} be{\kf16} there,{\kf12} you{\kf12} can{\kf38} tell
+Dialogue: 0,0:01:10.56,0:01:12.06,DEFAULT,,0,0,0,,{\r}{\kf23}Have{\kf19} no{\kf23} fear{\kf23} when{\kf15} she{\kf19} is{\kf27} here
+Dialogue: 0,0:01:12.20,0:01:14.36,DEFAULT,,0,0,0,,{\r}{\kf20}Your{\kf26} friend{\kf26}ly{\kf23} neigh{\kf20}bour{\kf33} Mare{\kf33} Do{\kf35} Well
+Dialogue: 0,0:01:30.86,0:01:32.36,DEFAULT,,0,0,0,,{\r}{\kf28}Cloud{\kf20} of{\kf24} smoke{\kf16} and{\kf12} she{\kf20} ap{\kf29}pears
+Dialogue: 0,0:01:32.47,0:01:34.00,DEFAULT,,0,0,0,,{\r}{\kf16}The{\kf25} mas{\kf21}ter{\kf16} of{\kf25} sur{\kf49}prise!
+Dialogue: 0,0:01:34.34,0:01:36.04,DEFAULT,,0,0,0,,{\r}{\kf16}She'll{\kf32} swirl{\kf24} your{\kf24} mind{\kf16} and{\kf12} read{\kf16} it{\kf30} twice
+Dialogue: 0,0:01:36.18,0:01:37.68,DEFAULT,,0,0,0,,{\r}{\kf22}Once{\kf15} you{\kf22} look{\kf15} in{\kf22} her{\kf53} eyes
+Dialogue: 0,0:01:38.14,0:01:39.72,DEFAULT,,0,0,0,,{\r}{\kf15}You'd{\kf18} bare{\kf22}ly{\kf22} no{\kf22}tice{\kf15} skin{\kf18}ny{\kf26} suit
+Dialogue: 0,0:01:39.86,0:01:41.27,DEFAULT,,0,0,0,,{\r}{\kf31}Black{\kf16} mask{\kf16} and{\kf24} wide{\kf24} brim{\kf30} hat
+Dialogue: 0,0:01:41.76,0:01:43.43,DEFAULT,,0,0,0,,{\r}{\kf21}When{\kf21} dan{\kf21}ger's{\kf28} com{\kf21}ing{\kf28} she's{\kf27} here
+Dialogue: 0,0:01:43.57,0:01:45.01,DEFAULT,,0,0,0,,{\r}{\kf24}Just{\kf21} watch{\kf17} her{\kf27} sil{\kf27}hou{\kf28}ette
+Dialogue: 0,0:01:45.84,0:01:47.51,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf22} black{\kf22} blur{\kf33} soar{\kf41}ing{\kf30} high
+Dialogue: 0,0:01:47.65,0:01:49.66,DEFAULT,,0,0,0,,{\r}{\kf23}Won't{\kf27} e{\kf27}ven{\kf34} catch{\kf34} your{\kf23} eye{\kf33}~
+Dialogue: 0,0:01:53.32,0:01:55.30,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf12} you{\kf31} won't{\kf35} e{\kf27}ven{\kf23} no{\kf19}~{\kf28}tice
+Dialogue: 0,0:01:55.44,0:01:57.37,DEFAULT,,0,0,0,,{\r}{\kf12}If{\kf16} she{\kf45} saves{\kf29} your{\kf91} life
+Dialogue: 0,0:01:57.89,0:01:59.87,DEFAULT,,0,0,0,,{\r}{\kf34}One{\kf30} last{\kf67} ti{\kf67}me
+Dialogue: 0,0:02:00.39,0:02:02.06,DEFAULT,,0,0,0,,{\r}{\kf26}When{\kf15} the{\kf22} dark{\kf22}ness{\kf19} fills{\kf15} the{\kf48} sky
+Dialogue: 0,0:02:02.23,0:02:03.87,DEFAULT,,0,0,0,,{\r}{\kf28}She{\kf21} ap{\kf21}proa{\kf28}ches{\kf10} in{\kf17} no{\kf39} time
+Dialogue: 0,0:02:04.07,0:02:05.56,DEFAULT,,0,0,0,,{\r}{\kf34}Fly{\kf22}ing{\kf15} o{\kf11}ver{\kf11} the{\kf15} scene{\kf19} of{\kf22} crime
+Dialogue: 0,0:02:05.71,0:02:07.52,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf26} watch{\kf23}ing{\kf23} with{\kf15} her{\kf15} ea{\kf23}gle{\kf37} eye
+Dialogue: 0,0:02:07.72,0:02:09.30,DEFAULT,,0,0,0,,{\r}{\kf11}If{\kf21} there{\kf25} is{\kf21} trou{\kf21}ble{\kf14} a{\kf18}ny{\kf27}where
+Dialogue: 0,0:02:09.42,0:02:11.23,DEFAULT,,0,0,0,,{\r}{\kf22}She'll{\kf22} al{\kf22}ways{\kf26} be{\kf15} there,{\kf18} you{\kf22} can{\kf34} tell
+Dialogue: 0,0:02:11.49,0:02:12.98,DEFAULT,,0,0,0,,{\r}{\kf22}Have{\kf22} no{\kf26} fear{\kf19} when{\kf15} she{\kf15} is{\kf30} here
+Dialogue: 0,0:02:13.10,0:02:16.29,DEFAULT,,0,0,0,,{\r}{\kf21}Your{\kf24} friend{\kf24}ly{\kf28} neigh{\kf17}bour{\kf24} Mare{\kf17}~{\kf28} Do{\kf136} Well
+Dialogue: 0,0:03:56.71,0:03:58.44,DEFAULT,,0,0,0,,{\r}{\kf28}When{\kf16} the{\kf20} dark{\kf24}ness{\kf16} fills{\kf12} the{\kf56} sky
+Dialogue: 0,0:03:58.61,0:04:00.25,DEFAULT,,0,0,0,,{\r}{\kf23}She{\kf19} ap{\kf23}proa{\kf23}ches{\kf11} in{\kf11} no{\kf54} time
+Dialogue: 0,0:04:00.42,0:04:01.97,DEFAULT,,0,0,0,,{\r}{\kf23}Fly{\kf27}ing{\kf12} o{\kf12}ver{\kf12} the{\kf12} scene{\kf19} of{\kf38} crime
+Dialogue: 0,0:04:02.09,0:04:03.78,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf20} watch{\kf16}ing{\kf28} with{\kf20} her{\kf12} ea{\kf24}gle{\kf34} eye
+Dialogue: 0,0:04:04.01,0:04:05.59,DEFAULT,,0,0,0,,{\r}{\kf11}If{\kf22} there{\kf14} is{\kf29} trou{\kf22}ble{\kf14} a{\kf22}ny{\kf24}where
+Dialogue: 0,0:04:05.71,0:04:07.55,DEFAULT,,0,0,0,,{\r}{\kf24}She'll{\kf24} al{\kf24}ways{\kf20} be{\kf20} there,{\kf16} you{\kf16} can{\kf40} tell
+Dialogue: 0,0:04:07.81,0:04:09.27,DEFAULT,,0,0,0,,{\r}{\kf21}Have{\kf21} no{\kf25} fear{\kf21} when{\kf17} she{\kf17} is{\kf25} here
+Dialogue: 0,0:04:09.39,0:04:11.37,DEFAULT,,0,0,0,,{\r}{\kf23}Your{\kf23} friend{\kf23}ly{\kf23} neigh{\kf23}bour{\kf26} Mare{\kf10} Do{\kf47} Well
+Dialogue: 0,0:04:11.66,0:04:13.10,DEFAULT,,0,0,0,,{\r}{\kf18}When{\kf11} the{\kf18} dark{\kf22}ness{\kf15} fills{\kf15} the{\kf45} sky
+Dialogue: 0,0:04:13.56,0:04:14.97,DEFAULT,,0,0,0,,{\r}{\kf11}She{\kf15} ap{\kf26}proa{\kf22}ches{\kf11} in{\kf15} no{\kf41} time
+Dialogue: 0,0:04:15.40,0:04:16.98,DEFAULT,,0,0,0,,{\r}{\kf19}Fly{\kf15}ing{\kf11} o{\kf15}ver{\kf15} the{\kf15} scene{\kf15} of{\kf30} crime{\kf23} and
+Dialogue: 0,0:04:17.30,0:04:18.68,DEFAULT,,0,0,0,,{\r}{\kf15}Watch{\kf11}ing{\kf15} with{\kf15} her{\kf19} ea{\kf26}gle{\kf37} eye
+Dialogue: 0,0:04:19.02,0:04:20.66,DEFAULT,,0,0,0,,{\r}{\kf11}If{\kf25} there's{\kf25} trou{\kf18}ble{\kf14} a{\kf18}ny{\kf25}where{\kf28} she'll
+Dialogue: 0,0:04:20.95,0:04:22.18,DEFAULT,,0,0,0,,{\r}{\kf12}Al{\kf16}ways{\kf16} be{\kf16} there,{\kf16} you{\kf23} can{\kf25} tell
+Dialogue: 0,0:04:22.79,0:04:23.99,DEFAULT,,0,0,0,,{\r}{\kf13}Have{\kf13} no{\kf17} fear{\kf26} when{\kf17} she{\kf17} is{\kf18} here
+Dialogue: 0,0:04:24.14,0:04:26.44,DEFAULT,,0,0,0,,{\r}{\kf19}Your{\kf27} friend{\kf23}ly{\kf23} neigh{\kf19}bour{\kf38} Mare{\kf31} Do{\kf50} Well
+Dialogue: 0,0:04:57.66,0:05:00.54,DEFAULT,,0,0,0,,{\r}{\kf35}Mare{\kf45} Mare{\kf41} Mare{\kf41} Do{\kf125} Well

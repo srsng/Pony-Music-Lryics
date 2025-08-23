@@ -1,78 +1,85 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Sunshine and Celery Stalks
+Artist: PinkiePieSwear
+Original Timing: mylittlekaraoke.com by Jan0o
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:33.73,0:00:36.38,DEFAULT,,0,0,0,,{\kf35}Food,{\kf35} store,{\kf24} we,{\kf18} I,{\kf12} I,{\kf12} win,{\kf12} win
-Dialogue: 0,0:00:36.73,0:00:38.23,DEFAULT,,0,0,0,,{\kf12}I,{\kf12} win,{\kf18} win,{\kf12} do{\kf18} look,{\kf12} down
-Dialogue: 0,0:00:38.40,0:00:41.05,DEFAULT,,0,0,0,,{\kf29}Cold{\kf18} or,{\kf35} cold{\kf24} or,{\kf41} cold,{\kf12} win,{\kf18} win
-Dialogue: 0,0:00:41.34,0:00:43.76,DEFAULT,,0,0,0,,{\kf12}We,{\kf35} Food,{\kf12} we,{\kf12} we,{\kf24} I,{\kf12} I,{\kf12} win,{\kf12} win
-Dialogue: 0,0:00:44.11,0:00:44.69,DEFAULT,,0,0,0,,{\kf18}I,{\kf18} win,{\kf12} win,
-Dialogue: 0,0:00:45.03,0:00:46.42,DEFAULT,,0,0,0,,{\kf12}Do{\kf18} look,{\kf18} down,{\kf24} cold{\kf24} or
-Dialogue: 0,0:00:46.65,0:00:48.26,DEFAULT,,0,0,0,,{\kf35}Just{\kf24} fine,{\kf24} hint,{\kf24} hint
-Dialogue: 0,0:00:48.49,0:00:51.15,DEFAULT,,0,0,0,,{\kf29}Food,{\kf29} store,{\kf12} we,{\kf24} I,{\kf12} I,{\kf12} win,{\kf12} win
-Dialogue: 0,0:00:51.49,0:00:52.07,DEFAULT,,0,0,0,,{\kf12}I,{\kf12} win,{\kf12} win
-Dialogue: 0,0:00:52.42,0:00:53.80,DEFAULT,,0,0,0,,{\kf12}Do{\kf12} look,{\kf18} down,{\kf35} cold{\kf24} or
-Dialogue: 0,0:00:54.03,0:00:55.76,DEFAULT,,0,0,0,,{\kf35}Cold{\kf24} or,{\kf35} cold,{\kf12} win,{\kf12} win
-Dialogue: 0,0:00:56.11,0:00:58.53,DEFAULT,,0,0,0,,{\kf12}We,{\kf29} food,{\kf18} we,{\kf12} we,{\kf24} I,{\kf12} I,{\kf12} win,{\kf12} win
-Dialogue: 0,0:00:58.88,0:00:59.46,DEFAULT,,0,0,0,,{\kf12}I,{\kf12} win,{\kf12} win,
-Dialogue: 0,0:00:59.80,0:01:01.07,DEFAULT,,0,0,0,,{\kf12}Do{\kf12} look,{\kf18} down,{\kf18} cold{\kf12} or
-Dialogue: 0,0:01:01.42,0:01:03.03,DEFAULT,,0,0,0,,{\kf24}Just{\kf24} fine,{\kf24} hint,{\kf24} hint
-Dialogue: 0,0:01:03.26,0:01:05.51,DEFAULT,,0,0,0,,{\kf35}Food,{\kf35} store,{\kf18} we,{\kf18} I,{\kf18}I
-Dialogue: 0,0:01:06.26,0:01:07.76,DEFAULT,,0,0,0,,{\kf12}I{\kf12} win,{\kf12} win,{\kf12} do{\kf12} look,{\kf12} down
-Dialogue: 0,0:01:07.99,0:01:10.59,DEFAULT,,0,0,0,,{\kf29}Cold{\kf24} or,{\kf35} cold{\kf24} or,{\kf29} mean,{\kf35} -come
-Dialogue: 0,0:01:10.88,0:01:12.15,DEFAULT,,0,0,0,,{\kf12}We,{\kf24} food,{\kf18} we,{\kf12} we
-Dialogue: 0,0:01:12.32,0:01:14.23,DEFAULT,,0,0,0,,{\kf18}I,{\kf18} I,{\kf12} I{\kf12} win,{\kf12} win
-Dialogue: 0,0:01:14.57,0:01:15.15,DEFAULT,,0,0,0,,{\kf12}Do{\kf12} look,{\kf12} down
-Dialogue: 0,0:01:15.32,0:01:17.86,DEFAULT,,0,0,0,,{\kf24}Cold{\kf29} or,{\kf29} just{\kf24} fine,{\kf29} mean,{\kf29} -come
-Dialogue: 0,0:01:18.09,0:01:20.69,DEFAULT,,0,0,0,,{\kf29}Food,{\kf29} store,{\kf18} we,{\kf18} I,{\kf12} I,{\kf12} win,{\kf12} win
-Dialogue: 0,0:01:21.03,0:01:21.61,DEFAULT,,0,0,0,,{\kf12}I,{\kf12} win,{\kf12} win
-Dialogue: 0,0:01:21.96,0:01:22.53,DEFAULT,,0,0,0,,{\kf12}Do{\kf12} look,{\kf12} down
-Dialogue: 0,0:01:22.71,0:01:25.36,DEFAULT,,0,0,0,,{\kf24}Cold{\kf24} or,{\kf29} cold{\kf24} or,{\kf29} mean,{\kf41} -come
-Dialogue: 0,0:01:25.65,0:01:26.92,DEFAULT,,0,0,0,,{\kf12}We,{\kf24} food,{\kf18} we,{\kf12} we
-Dialogue: 0,0:01:27.09,0:01:28.07,DEFAULT,,0,0,0,,{\kf18}I,{\kf12} I,{\kf12} win,{\kf12} win
-Dialogue: 0,0:01:28.42,0:01:29.92,DEFAULT,,0,0,0,,{\kf12}I,{\kf12} win{\kf18} win,{\kf12} do{\kf18} look,{\kf12} down
-Dialogue: 0,0:01:30.15,0:01:32.74,DEFAULT,,0,0,0,,{\kf24}Cold{\kf18} or,{\kf29} just{\kf29} fine,{\kf35} mean,{\kf41} -come
-Dialogue: 0,0:02:02.80,0:02:04.76,DEFAULT,,0,0,0,,{\kf18}Plant,{\kf12} our,{\kf29} care,{\kf35} seeds,{\kf18} sun{\kf18}shine
-Dialogue: 0,0:02:05.11,0:02:05.98,DEFAULT,,0,0,0,,{\kf12}Co{\kf12}lor{\kf12}ful{\kf18} flo{\kf18}wers
-Dialogue: 0,0:02:06.26,0:02:08.92,DEFAULT,,0,0,0,,{\kf18}So{\kf18} much{\kf18} to{\kf29} do,{\kf18} -wers,{\kf29} ti-{\kf24}ny,{\kf35} seeds
-Dialogue: 0,0:02:10.24,0:02:12.15,DEFAULT,,0,0,0,,{\kf18}Plant,{\kf12}Plant,{\kf18} our,{\kf24} care,{\kf12} with{\kf12} the
-Dialogue: 0,0:02:12.49,0:02:13.36,DEFAULT,,0,0,0,,{\kf12}Co{\kf12}lor{\kf12}ful{\kf18} flo{\kf18}wers,
-Dialogue: 0,0:02:13.65,0:02:15.15,DEFAULT,,0,0,0,,{\kf29}Task,{\kf12} the{\kf35} ground
-Dialogue: 0,0:02:15.49,0:02:16.88,DEFAULT,,0,0,0,,{\kf18}Sun{\kf24}shine,{\kf12} ce{\kf12}le{\kf12}ry{\kf24} stalks
-Dialogue: 0,0:02:17.57,0:02:19.65,DEFAULT,,0,0,0,,{\kf12}Plant,{\kf12} our,{\kf29} care,{\kf35} seeds,{\kf18} sun{\kf24}shine
-Dialogue: 0,0:02:19.88,0:02:20.74,DEFAULT,,0,0,0,,{\kf12}Co{\kf12}lor{\kf12}ful{\kf18} flo{\kf18}wers
-Dialogue: 0,0:02:21.03,0:02:22.42,DEFAULT,,0,0,0,,{\kf12}So{\kf12} much{\kf12} to{\kf35} do,{\kf24} -wers
-Dialogue: 0,0:02:22.71,0:02:23.92,DEFAULT,,0,0,0,,{\kf18}Ti{\kf18}ny,{\kf24} seeds{\kf24}~
-Dialogue: 0,0:02:24.96,0:02:26.92,DEFAULT,,0,0,0,,{\kf24}Plant,{\kf18} plant,{\kf12} our,{\kf18} care,{\kf12} with{\kf12} the
-Dialogue: 0,0:02:27.26,0:02:28.07,DEFAULT,,0,0,0,,{\kf12}Co{\kf12}lor{\kf18}ful{\kf18} flo{\kf12}wers
-Dialogue: 0,0:02:28.42,0:02:29.92,DEFAULT,,0,0,0,,{\kf29}Task,{\kf12} the{\kf35} ground
-Dialogue: 0,0:02:30.26,0:02:31.76,DEFAULT,,0,0,0,,{\kf18}Sun{\kf29}shine,{\kf12} ce{\kf12}le{\kf12}ry{\kf29} stalks
-Dialogue: 0,0:02:46.65,0:02:47.40,DEFAULT,,0,0,0,,{\kf24}Food,{\kf29} store
-Dialogue: 0,0:02:48.03,0:02:50.23,DEFAULT,,0,0,0,,{\kf12}We,{\kf18} I,{\kf24} I,{\kf12} I{\kf12} win,{\kf12} win
-Dialogue: 0,0:02:50.57,0:02:51.49,DEFAULT,,0,0,0,,{\kf12}Do{\kf12} look,{\kf12} down,{\kf24} cold
-Dialogue: 0,0:02:51.78,0:02:53.92,DEFAULT,,0,0,0,,{\kf18}Or,{\kf35} cold{\kf24} or,{\kf35} mean,{\kf35} -come
-Dialogue: 0,0:02:54.26,0:02:55.53,DEFAULT,,0,0,0,,{\kf12}We,{\kf35} food,{\kf12} we,{\kf12} we
-Dialogue: 0,0:02:55.71,0:02:57.61,DEFAULT,,0,0,0,,{\kf18}I,{\kf24} I,{\kf12} I{\kf12} win,{\kf12} win
-Dialogue: 0,0:02:57.96,0:02:59.28,DEFAULT,,0,0,0,,{\kf12}Do{\kf12} look,{\kf12} down,{\kf35} cold{\kf18} or
-Dialogue: 0,0:02:59.57,0:03:01.19,DEFAULT,,0,0,0,,{\kf24}Just{\kf24} fine,{\kf29} mean,{\kf24} -come
-Dialogue: 0,0:03:01.82,0:03:03.15,DEFAULT,,0,0,0,,{\kf18}Plant,{\kf18} our,{\kf29} care,{\kf35} seeds
-Dialogue: 0,0:03:03.49,0:03:04.99,DEFAULT,,0,0,0,,{\kf18}Sun{\kf29}shine,{\kf12} co{\kf12}lor{\kf12}ful{\kf18} flo{\kf18}wers
-Dialogue: 0,0:03:05.28,0:03:08.34,DEFAULT,,0,0,0,,{\kf18}So{\kf18} much{\kf18} to{\kf24} do,{\kf24} -wers,{\kf24} ti{\kf18}ny{\kf29} seeds{\kf35}~
-Dialogue: 0,0:03:09.21,0:03:11.34,DEFAULT,,0,0,0,,{\kf29}Plant,{\kf12} plant,{\kf12} our,{\kf18} care,{\kf12} with{\kf29} the
-Dialogue: 0,0:03:11.57,0:03:12.49,DEFAULT,,0,0,0,,{\kf12}Co{\kf12}lor{\kf12}ful{\kf18} flo{\kf24}wers
-Dialogue: 0,0:03:12.73,0:03:14.17,DEFAULT,,0,0,0,,{\kf29}Task,{\kf12} the{\kf29} ground
-Dialogue: 0,0:03:14.57,0:03:16.01,DEFAULT,,0,0,0,,{\kf18}Sun{\kf24}shine,{\kf12} ce{\kf12}le{\kf12}ry{\kf29} stalks
-Dialogue: 0,0:03:16.65,0:03:17.92,DEFAULT,,0,0,0,,{\kf18}Plant,{\kf12} our,{\kf29} care,{\kf35} seeds
-Dialogue: 0,0:03:18.26,0:03:19.82,DEFAULT,,0,0,0,,{\kf18}Sun{\kf18}shine,{\kf12} co{\kf12}lor{\kf12}ful{\kf18} flo{\kf18}wers
-Dialogue: 0,0:03:20.11,0:03:22.94,DEFAULT,,0,0,0,,{\kf12}So{\kf12} much{\kf12} to{\kf35} do,{\kf35} -wers,{\kf29} ti{\kf18}ny{\kf29} seeds{\kf18}~
-Dialogue: 0,0:03:24.03,0:03:26.11,DEFAULT,,0,0,0,,{\kf24}Plant,{\kf12} plant,{\kf12} our,{\kf24} care,{\kf12} with{\kf24} the
-Dialogue: 0,0:03:26.34,0:03:27.15,DEFAULT,,0,0,0,,{\kf12}Co{\kf12}lor{\kf12}ful{\kf18} flo{\kf12}wers
-Dialogue: 0,0:03:27.44,0:03:28.99,DEFAULT,,0,0,0,,{\kf35}Task,{\kf12} the{\kf35} ground
-Dialogue: 0,0:03:29.34,0:03:30.73,DEFAULT,,0,0,0,,{\kf18}Sun{\kf18}shine,{\kf12} ce{\kf12}le{\kf12}ry{\kf24} stalks
+Dialogue: 0,0:00:33.73,0:00:36.38,DEFAULT,,0,0,0,,{\r}{\kf64}Food,{\kf64} store,{\kf42} we,{\kf32} I,{\kf21} I,{\kf21} win,{\kf21} win
+Dialogue: 0,0:00:36.73,0:00:38.23,DEFAULT,,0,0,0,,{\r}{\kf21}I,{\kf21} win,{\kf32} win,{\kf21} do{\kf32} look,{\kf23} down
+Dialogue: 0,0:00:38.40,0:00:41.06,DEFAULT,,0,0,0,,{\r}{\kf44}Cold{\kf26} or,{\kf53} cold{\kf35} or,{\kf62} cold,{\kf18} win,{\kf27} win
+Dialogue: 0,0:00:41.35,0:00:43.77,DEFAULT,,0,0,0,,{\r}{\kf22}We,{\kf66} Food,{\kf22} we,{\kf22} we,{\kf44} I,{\kf22} I,{\kf22} win,{\kf22} win
+Dialogue: 0,0:00:44.11,0:00:44.69,DEFAULT,,0,0,0,,{\r}{\kf22}I,{\kf22} win,{\kf14} win,
+Dialogue: 0,0:00:45.04,0:00:46.42,DEFAULT,,0,0,0,,{\r}{\kf17}Do{\kf26} look,{\kf26} down,{\kf34} cold{\kf35} or
+Dialogue: 0,0:00:46.65,0:00:48.27,DEFAULT,,0,0,0,,{\r}{\kf54}Just{\kf36} fine,{\kf36} hint,{\kf36} hint
+Dialogue: 0,0:00:48.50,0:00:51.15,DEFAULT,,0,0,0,,{\r}{\kf60}Food,{\kf60} store,{\kf24} we,{\kf48} I,{\kf24} I,{\kf24} win,{\kf25} win
+Dialogue: 0,0:00:51.50,0:00:52.08,DEFAULT,,0,0,0,,{\r}{\kf19}I,{\kf19} win,{\kf20} win
+Dialogue: 0,0:00:52.42,0:00:53.81,DEFAULT,,0,0,0,,{\r}{\kf16}Do{\kf16} look,{\kf24} down,{\kf49} cold{\kf33} or
+Dialogue: 0,0:00:54.04,0:00:55.77,DEFAULT,,0,0,0,,{\r}{\kf52}Cold{\kf35} or,{\kf52} cold,{\kf17} win,{\kf17} win
+Dialogue: 0,0:00:56.11,0:00:58.54,DEFAULT,,0,0,0,,{\r}{\kf22}We,{\kf55} food,{\kf33} we,{\kf22} we,{\kf44} I,{\kf22} I,{\kf22} win,{\kf22} win
+Dialogue: 0,0:00:58.88,0:00:59.46,DEFAULT,,0,0,0,,{\r}{\kf19}I,{\kf19} win,{\kf20} win,
+Dialogue: 0,0:00:59.81,0:01:01.08,DEFAULT,,0,0,0,,{\r}{\kf21}Do{\kf21} look,{\kf32} down,{\kf32} cold{\kf21} or
+Dialogue: 0,0:01:01.42,0:01:03.04,DEFAULT,,0,0,0,,{\r}{\kf40}Just{\kf40} fine,{\kf40} hint,{\kf42} hint
+Dialogue: 0,0:01:03.27,0:01:05.52,DEFAULT,,0,0,0,,{\r}{\kf64}Food,{\kf64} store,{\kf32} we,{\kf32} I,{\kf33}I
+Dialogue: 0,0:01:06.27,0:01:07.77,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf25} win,{\kf25} win,{\kf25} do{\kf25} look,{\kf25} down
+Dialogue: 0,0:01:08.00,0:01:10.60,DEFAULT,,0,0,0,,{\r}{\kf43}Cold{\kf35} or,{\kf52} cold{\kf35} or,{\kf43} mean,{\kf52} -come
+Dialogue: 0,0:01:10.88,0:01:12.15,DEFAULT,,0,0,0,,{\r}{\kf23}We,{\kf46} food,{\kf35} we,{\kf23} we
+Dialogue: 0,0:01:12.33,0:01:14.23,DEFAULT,,0,0,0,,{\r}{\kf47}I,{\kf47} I,{\kf32} I{\kf32} win,{\kf32} win
+Dialogue: 0,0:01:14.58,0:01:15.15,DEFAULT,,0,0,0,,{\r}{\kf19}Do{\kf19} look,{\kf20} down
+Dialogue: 0,0:01:15.33,0:01:17.86,DEFAULT,,0,0,0,,{\r}{\kf36}Cold{\kf45} or,{\kf45} just{\kf36} fine,{\kf45} mean,{\kf47} -come
+Dialogue: 0,0:01:18.10,0:01:20.69,DEFAULT,,0,0,0,,{\r}{\kf59}Food,{\kf59} store,{\kf35} we,{\kf35} I,{\kf24} I,{\kf24} win,{\kf24} win
+Dialogue: 0,0:01:21.04,0:01:21.61,DEFAULT,,0,0,0,,{\r}{\kf19}I,{\kf19} win,{\kf20} win
+Dialogue: 0,0:01:21.96,0:01:22.54,DEFAULT,,0,0,0,,{\r}{\kf19}Do{\kf19} look,{\kf20} down
+Dialogue: 0,0:01:22.71,0:01:25.36,DEFAULT,,0,0,0,,{\r}{\kf37}Cold{\kf37} or,{\kf46} cold{\kf37} or,{\kf46} mean,{\kf62} -come
+Dialogue: 0,0:01:25.65,0:01:26.92,DEFAULT,,0,0,0,,{\r}{\kf23}We,{\kf46} food,{\kf35} we,{\kf23} we
+Dialogue: 0,0:01:27.10,0:01:28.08,DEFAULT,,0,0,0,,{\r}{\kf33}I,{\kf22} I,{\kf22} win,{\kf21} win
+Dialogue: 0,0:01:28.42,0:01:29.92,DEFAULT,,0,0,0,,{\r}{\kf21}I,{\kf21} win{\kf32} win,{\kf21} do{\kf32} look,{\kf23} down
+Dialogue: 0,0:01:30.15,0:01:32.75,DEFAULT,,0,0,0,,{\r}{\kf35}Cold{\kf26} or,{\kf43} just{\kf43} fine,{\kf52} mean,{\kf61} -come
+Dialogue: 0,0:02:02.81,0:02:04.77,DEFAULT,,0,0,0,,{\r}{\kf27}Plant,{\kf18} our,{\kf45} care,{\kf53} seeds,{\kf27} sun{\kf26}shine
+Dialogue: 0,0:02:05.11,0:02:05.98,DEFAULT,,0,0,0,,{\r}{\kf15}Co{\kf15}lor{\kf15}ful{\kf22} flo{\kf20}wers
+Dialogue: 0,0:02:06.27,0:02:08.92,DEFAULT,,0,0,0,,{\r}{\kf25}So{\kf25} much{\kf25} to{\kf41} do,{\kf25} -wers,{\kf41} ti-{\kf33}ny,{\kf50} seeds
+Dialogue: 0,0:02:10.25,0:02:12.15,DEFAULT,,0,0,0,,{\r}{\kf36}Plant,{\kf24}Plant,{\kf36} our,{\kf48} care,{\kf24} with{\kf22} the
+Dialogue: 0,0:02:12.50,0:02:13.36,DEFAULT,,0,0,0,,{\r}{\kf15}Co{\kf15}lor{\kf15}ful{\kf22} flo{\kf20}wers,
+Dialogue: 0,0:02:13.65,0:02:15.15,DEFAULT,,0,0,0,,{\r}{\kf58}Task,{\kf23} the{\kf69} ground
+Dialogue: 0,0:02:15.50,0:02:16.88,DEFAULT,,0,0,0,,{\r}{\kf24}Sun{\kf32}shine,{\kf16} ce{\kf16}le{\kf16}ry{\kf34} stalks
+Dialogue: 0,0:02:17.58,0:02:19.65,DEFAULT,,0,0,0,,{\r}{\kf19}Plant,{\kf19} our,{\kf47} care,{\kf57} seeds,{\kf28} sun{\kf38}shine
+Dialogue: 0,0:02:19.88,0:02:20.75,DEFAULT,,0,0,0,,{\r}{\kf15}Co{\kf15}lor{\kf15}ful{\kf22} flo{\kf20}wers
+Dialogue: 0,0:02:21.04,0:02:22.42,DEFAULT,,0,0,0,,{\r}{\kf17}So{\kf17} much{\kf17} to{\kf52} do,{\kf35} -wers
+Dialogue: 0,0:02:22.71,0:02:23.92,DEFAULT,,0,0,0,,{\r}{\kf26}Ti{\kf26}ny,{\kf35} seeds{\kf34}~
+Dialogue: 0,0:02:24.96,0:02:26.92,DEFAULT,,0,0,0,,{\r}{\kf49}Plant,{\kf37} plant,{\kf24} our,{\kf37} care,{\kf24} with{\kf25} the
+Dialogue: 0,0:02:27.27,0:02:28.08,DEFAULT,,0,0,0,,{\r}{\kf14}Co{\kf14}lor{\kf20}ful{\kf20} flo{\kf13}wers
+Dialogue: 0,0:02:28.42,0:02:29.92,DEFAULT,,0,0,0,,{\r}{\kf58}Task,{\kf23} the{\kf69} ground
+Dialogue: 0,0:02:30.27,0:02:31.77,DEFAULT,,0,0,0,,{\r}{\kf24}Sun{\kf39}shine,{\kf16} ce{\kf16}le{\kf16}ry{\kf39} stalks
+Dialogue: 0,0:02:46.65,0:02:47.40,DEFAULT,,0,0,0,,{\r}{\kf33}Food,{\kf42} store
+Dialogue: 0,0:02:48.04,0:02:50.23,DEFAULT,,0,0,0,,{\r}{\kf29}We,{\kf44} I,{\kf58} I,{\kf29} I{\kf29} win,{\kf30} win
+Dialogue: 0,0:02:50.58,0:02:51.50,DEFAULT,,0,0,0,,{\r}{\kf18}Do{\kf18} look,{\kf18} down,{\kf38} cold
+Dialogue: 0,0:02:51.79,0:02:53.92,DEFAULT,,0,0,0,,{\r}{\kf26}Or,{\kf51} cold{\kf34} or,{\kf51} mean,{\kf51} -come
+Dialogue: 0,0:02:54.27,0:02:55.54,DEFAULT,,0,0,0,,{\r}{\kf21}We,{\kf63} food,{\kf21} we,{\kf22} we
+Dialogue: 0,0:02:55.71,0:02:57.61,DEFAULT,,0,0,0,,{\r}{\kf44}I,{\kf58} I,{\kf29} I{\kf29} win,{\kf30} win
+Dialogue: 0,0:02:57.96,0:02:59.29,DEFAULT,,0,0,0,,{\r}{\kf18}Do{\kf18} look,{\kf18} down,{\kf53} cold{\kf26} or
+Dialogue: 0,0:02:59.58,0:03:01.19,DEFAULT,,0,0,0,,{\r}{\kf38}Just{\kf38} fine,{\kf48} mean,{\kf38} -come
+Dialogue: 0,0:03:01.83,0:03:03.15,DEFAULT,,0,0,0,,{\r}{\kf23}Plant,{\kf23} our,{\kf39} care,{\kf48} seeds
+Dialogue: 0,0:03:03.50,0:03:05.00,DEFAULT,,0,0,0,,{\r}{\kf22}Sun{\kf37}shine,{\kf15} co{\kf15}lor{\kf15}ful{\kf22} flo{\kf24}wers
+Dialogue: 0,0:03:05.29,0:03:08.35,DEFAULT,,0,0,0,,{\r}{\kf26}So{\kf26} much{\kf26} to{\kf35} do,{\kf35} -wers,{\kf35} ti{\kf26}ny{\kf44} seeds{\kf53}~
+Dialogue: 0,0:03:09.21,0:03:11.35,DEFAULT,,0,0,0,,{\r}{\kf56}Plant,{\kf22} plant,{\kf22} our,{\kf34} care,{\kf22} with{\kf57} the
+Dialogue: 0,0:03:11.58,0:03:12.50,DEFAULT,,0,0,0,,{\r}{\kf14}Co{\kf14}lor{\kf14}ful{\kf21} flo{\kf29}wers
+Dialogue: 0,0:03:12.73,0:03:14.17,DEFAULT,,0,0,0,,{\r}{\kf60}Task,{\kf24} the{\kf60} ground
+Dialogue: 0,0:03:14.58,0:03:16.02,DEFAULT,,0,0,0,,{\r}{\kf24}Sun{\kf32}shine,{\kf16} ce{\kf16}le{\kf16}ry{\kf40} stalks
+Dialogue: 0,0:03:16.65,0:03:17.92,DEFAULT,,0,0,0,,{\r}{\kf24}Plant,{\kf16} our,{\kf40} care,{\kf47} seeds
+Dialogue: 0,0:03:18.27,0:03:19.83,DEFAULT,,0,0,0,,{\r}{\kf26}Sun{\kf26}shine,{\kf17} co{\kf17}lor{\kf17}ful{\kf26} flo{\kf27}wers
+Dialogue: 0,0:03:20.11,0:03:22.94,DEFAULT,,0,0,0,,{\r}{\kf17}So{\kf17} much{\kf17} to{\kf50} do,{\kf50} -wers,{\kf42} ti{\kf25}ny{\kf42} seeds{\kf23}~
+Dialogue: 0,0:03:24.04,0:03:26.11,DEFAULT,,0,0,0,,{\r}{\kf46}Plant,{\kf23} plant,{\kf23} our,{\kf46} care,{\kf23} with{\kf47} the
+Dialogue: 0,0:03:26.35,0:03:27.15,DEFAULT,,0,0,0,,{\r}{\kf15}Co{\kf15}lor{\kf15}ful{\kf22} flo{\kf14}wers
+Dialogue: 0,0:03:27.44,0:03:29.00,DEFAULT,,0,0,0,,{\r}{\kf67}Task,{\kf22} the{\kf67} ground
+Dialogue: 0,0:03:29.35,0:03:30.73,DEFAULT,,0,0,0,,{\r}{\kf26}Sun{\kf26}shine,{\kf17} ce{\kf17}le{\kf17}ry{\kf35} stalks

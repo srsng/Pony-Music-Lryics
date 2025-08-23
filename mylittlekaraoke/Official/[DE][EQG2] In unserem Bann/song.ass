@@ -1,55 +1,62 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: In Unserem Bann
+Artist: Equestria Girls - Rainbow Rocks
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.02,0:00:03.02,DEFAULT,,0,0,0,,{\kf22}Oh{\kf28}-whoa{\kf28}-oh,{\kf22} oh{\kf28}-whoa{\kf28}-oh
-Dialogue: 0,0:00:03.24,0:00:05.18,DEFAULT,,0,0,0,,{\kf22}Man{\kf22} sieht{\kf17} es{\kf28} Euch{\kf22} gar{\kf22} nicht{\kf28} an
-Dialogue: 0,0:00:05.45,0:00:07.40,DEFAULT,,0,0,0,,{\kf22}Oh{\kf22}-whoa{\kf28}-oh,{\kf22} oh{\kf28}-whoa{\kf28}-oh
-Dialogue: 0,0:00:07.67,0:00:09.57,DEFAULT,,0,0,0,,{\kf17}Ihr{\kf28} seid{\kf17} in{\kf76} unserem{\kf33} Bann
-Dialogue: 0,0:00:09.68,0:00:11.73,DEFAULT,,0,0,0,,{\kf44}Ihr{\kf28} habt{\kf17} es{\kf22} nicht{\kf17} ge{\kf49}spürt
-Dialogue: 0,0:00:12.17,0:00:14.17,DEFAULT,,0,0,0,,{\kf11}Mu{\kf22}sik{\kf17} hat{\kf22} Euch{\kf22} hyp{\kf22}no{\kf17}ti{\kf22}siert
-Dialogue: 0,0:00:14.33,0:00:16.33,DEFAULT,,0,0,0,,{\kf17}Aus{\kf28} heit{\kf22}rem{\kf22} Him{\kf22}mel{\kf22} fing's{\kf33} an
-Dialogue: 0,0:00:16.55,0:00:18.23,DEFAULT,,0,0,0,,{\kf22}Ah{\kf17}-oh{\kf17}-ah{\kf44}-oh{\kf33}-oh
-Dialogue: 0,0:00:18.44,0:00:20.77,DEFAULT,,0,0,0,,{\kf22}Jetzt{\kf22} seid{\kf28} Ihr{\kf17} in{\kf17} un{\kf22}se{\kf17}rem{\kf38} Bann
-Dialogue: 0,0:00:20.93,0:00:22.72,DEFAULT,,0,0,0,,{\kf28}Oh{\kf17}-oh{\kf22}-oh{\kf22}-oh{\kf17}-oh{\kf38}-oh
-Dialogue: 0,0:00:22.88,0:00:25.54,DEFAULT,,0,0,0,,{\kf44}Je{\kf22}der{\kf17} be{\kf22}wegt{\kf28} sich,{\kf17} wie{\kf17} wir{\kf28} wol{\kf17}len
-Dialogue: 0,0:00:25.70,0:00:27.75,DEFAULT,,0,0,0,,{\kf17}Al{\kf22}le{\kf22} mac{\kf22}hen,{\kf17} was{\kf17} sie{\kf28} sol{\kf17}len
-Dialogue: 0,0:00:27.92,0:00:29.81,DEFAULT,,0,0,0,,{\kf22}Wir{\kf11} be{\kf22}stim{\kf28}men{\kf22} je{\kf22}den{\kf28} Schritt
-Dialogue: 0,0:00:30.08,0:00:31.87,DEFAULT,,0,0,0,,{\kf17}Was{\kf17} wir{\kf22} wün{\kf22}schen,{\kf22} macht{\kf17} Ihr{\kf17} mit
-Dialogue: 0,0:00:32.03,0:00:34.41,DEFAULT,,0,0,0,,{\kf17}Je{\kf22}der{\kf17} be{\kf22}wegt{\kf22} sich,{\kf17} wie{\kf22} wir{\kf28} wol{\kf17}len
-Dialogue: 0,0:00:34.57,0:00:36.58,DEFAULT,,0,0,0,,{\kf17}Al{\kf17}le{\kf33} mac{\kf22}hen,{\kf17} was{\kf17} sie{\kf28} sol{\kf11}len
-Dialogue: 0,0:00:36.74,0:00:38.63,DEFAULT,,0,0,0,,{\kf17}Wir{\kf17} be{\kf22}stim{\kf22}men{\kf22} je{\kf17}den{\kf33} Schritt
-Dialogue: 0,0:00:38.96,0:00:40.74,DEFAULT,,0,0,0,,{\kf22}Was{\kf22} wir{\kf17} wün{\kf28}schen,{\kf22} macht{\kf22} Ihr{\kf17} mit
-Dialogue: 0,0:00:40.91,0:00:42.86,DEFAULT,,0,0,0,,{\kf17}Oh{\kf28}-whoa{\kf28}-oh,{\kf22} oh{\kf28}-whoa{\kf28}-oh
-Dialogue: 0,0:00:43.07,0:00:44.97,DEFAULT,,0,0,0,,{\kf22}Man{\kf22} sieht{\kf11} es{\kf22} Euch{\kf28} gar{\kf22}nicht{\kf22} an
-Dialogue: 0,0:00:45.24,0:00:47.24,DEFAULT,,0,0,0,,{\kf22}Oh{\kf28}-whoa{\kf28}-oh,{\kf22} oh{\kf28}-whoa{\kf28}-oh
-Dialogue: 0,0:00:47.51,0:00:49.30,DEFAULT,,0,0,0,,{\kf22}Ihr{\kf22} seid{\kf17} in{\kf22} un{\kf22}se{\kf22}rem{\kf17} Bann
-Dialogue: 0,0:00:49.46,0:00:51.95,DEFAULT,,0,0,0,,{\kf17}Wer{\kf22} hier{\kf22} mei{\kf11}ne{\kf28} Stim{\kf22}me{\kf22} er{\kf55}hört
-Dialogue: 0,0:00:52.17,0:00:53.68,DEFAULT,,0,0,0,,{\kf22}Ah{\kf44}-oh,{\kf22} ah{\kf22}-oh{\kf11}-oh
-Dialogue: 0,0:00:53.84,0:00:56.22,DEFAULT,,0,0,0,,{\kf22}Wird{\kf22} von{\kf22} ih{\kf17}rem{\kf28} Zau{\kf22}ber{\kf17} be{\kf49}tört
-Dialogue: 0,0:00:56.39,0:00:57.79,DEFAULT,,0,0,0,,{\kf22}Ah{\kf22}-oh{\kf22}-oh{\kf22}-oh{\kf28}-oh
-Dialogue: 0,0:00:58.28,0:01:00.77,DEFAULT,,0,0,0,,{\kf22}In{\kf22} dem{\kf17} Netz{\kf11} ge{\kf28}fan{\kf22}gen{\kf22} seid{\kf49} Ihr
-Dialogue: 0,0:01:02.72,0:01:06.51,DEFAULT,,0,0,0,,{\kf22}Bald{\kf22} schon{\kf22} sin{\kf22}gen{\kf28} al{\kf17}le{\kf22} mit{\kf190} mir
-Dialogue: 0,0:01:07.16,0:01:09.81,DEFAULT,,0,0,0,,{\kf44}Je{\kf22}der{\kf17} be{\kf22}wegt{\kf28} sich,{\kf22} wie{\kf17} wir{\kf22} wol{\kf22}len
-Dialogue: 0,0:01:09.97,0:01:12.03,DEFAULT,,0,0,0,,{\kf22}Al{\kf22}le{\kf22} mac{\kf22}hen,{\kf17} was{\kf17} sie{\kf28} sol{\kf17}len
-Dialogue: 0,0:01:12.14,0:01:14.14,DEFAULT,,0,0,0,,{\kf17}Wir{\kf11} be{\kf22}stim{\kf22}men{\kf22} je{\kf17}den{\kf38} Schritt
-Dialogue: 0,0:01:14.36,0:01:16.14,DEFAULT,,0,0,0,,{\kf22}Was{\kf22} wir{\kf17} wün{\kf22}schen,{\kf22} macht{\kf17} Ihr{\kf17} mit
-Dialogue: 0,0:01:16.31,0:01:18.69,DEFAULT,,0,0,0,,{\kf17}Je{\kf22}der{\kf17} be{\kf28}wegt{\kf17} sich,{\kf22}wie{\kf22} wir{\kf28} wol{\kf17}len
-Dialogue: 0,0:01:18.80,0:01:20.80,DEFAULT,,0,0,0,,{\kf17}Al{\kf17}le{\kf28} mac{\kf22}hen,{\kf22} was{\kf17} sie{\kf22} sol{\kf11}len
-Dialogue: 0,0:01:20.96,0:01:23.02,DEFAULT,,0,0,0,,{\kf17}Wir{\kf11} be{\kf22}stim{\kf22}men{\kf22} je{\kf17}den{\kf44} Schritt
-Dialogue: 0,0:01:23.23,0:01:25.02,DEFAULT,,0,0,0,,{\kf17}Was{\kf22} wir{\kf22} wün{\kf22}schen,{\kf22} macht{\kf22} Ihr{\kf22} mit
-Dialogue: 0,0:01:25.18,0:01:27.08,DEFAULT,,0,0,0,,{\kf17}Oh{\kf28}-whoa{\kf28}-oh,{\kf22} oh{\kf28}-whoa{\kf28}-oh
-Dialogue: 0,0:01:27.29,0:01:29.19,DEFAULT,,0,0,0,,{\kf22}Man{\kf17} sieht{\kf11} es{\kf28} Euch{\kf22} gar{\kf22}nicht{\kf22} an
-Dialogue: 0,0:01:29.57,0:01:31.52,DEFAULT,,0,0,0,,{\kf22}Oh{\kf28}-whoa{\kf28}-oh,{\kf22} oh{\kf28}-whoa{\kf28}-oh
-Dialogue: 0,0:01:31.79,0:01:33.79,DEFAULT,,0,0,0,,{\kf17}Ihr{\kf22} seid{\kf22} in{\kf22} un{\kf22}se{\kf22}rem{\kf38} Bann
-Dialogue: 0,0:01:34.00,0:01:35.95,DEFAULT,,0,0,0,,{\kf22}Oh{\kf28}-whoa{\kf28}-oh,{\kf22} oh{\kf28}-whoa{\kf28}-oh
-Dialogue: 0,0:01:36.12,0:01:38.23,DEFAULT,,0,0,0,,{\kf22}Man{\kf28} sieht{\kf11} es{\kf22} Euch{\kf28} gar{\kf22}nicht{\kf38} an
-Dialogue: 0,0:01:38.39,0:01:40.34,DEFAULT,,0,0,0,,{\kf22}Oh{\kf28}-whoa{\kf28}-oh,{\kf22} oh{\kf28}-whoa{\kf28}-oh
-Dialogue: 0,0:01:40.61,0:01:43.96,DEFAULT,,0,0,0,,{\kf22}Ihr{\kf22} seid{\kf22} in{\kf22} un{\kf22}se{\kf38}rem{\kf136} Bann
+Dialogue: 0,0:00:01.02,0:00:03.02,DEFAULT,,0,0,0,,{\r}{\kf29}Oh{\kf36}-whoa{\kf36}-oh,{\kf29} oh{\kf36}-whoa{\kf34}-oh
+Dialogue: 0,0:00:03.24,0:00:05.19,DEFAULT,,0,0,0,,{\r}{\kf27}Man{\kf27} sieht{\kf20} es{\kf34} Euch{\kf27} gar{\kf27} nicht{\kf33} an
+Dialogue: 0,0:00:05.46,0:00:07.41,DEFAULT,,0,0,0,,{\r}{\kf29}Oh{\kf29}-whoa{\kf36}-oh,{\kf29} oh{\kf36}-whoa{\kf36}-oh
+Dialogue: 0,0:00:07.68,0:00:09.57,DEFAULT,,0,0,0,,{\r}{\kf18}Ihr{\kf30} seid{\kf18} in{\kf85} unserem{\kf38} Bann
+Dialogue: 0,0:00:09.68,0:00:11.74,DEFAULT,,0,0,0,,{\r}{\kf52}Ihr{\kf32} habt{\kf19} es{\kf26} nicht{\kf19} ge{\kf58}spürt
+Dialogue: 0,0:00:12.17,0:00:14.17,DEFAULT,,0,0,0,,{\r}{\kf14}Mu{\kf29}sik{\kf21} hat{\kf29} Euch{\kf29} hyp{\kf29}no{\kf21}ti{\kf28}siert
+Dialogue: 0,0:00:14.34,0:00:16.34,DEFAULT,,0,0,0,,{\r}{\kf20}Aus{\kf33} heit{\kf27}rem{\kf27} Him{\kf27}mel{\kf27} fing's{\kf39} an
+Dialogue: 0,0:00:16.56,0:00:18.23,DEFAULT,,0,0,0,,{\r}{\kf28}Ah{\kf21}-oh{\kf21}-ah{\kf56}-oh{\kf42}-oh
+Dialogue: 0,0:00:18.45,0:00:20.78,DEFAULT,,0,0,0,,{\r}{\kf28}Jetzt{\kf28} seid{\kf35} Ihr{\kf21} in{\kf21} un{\kf28}se{\kf21}rem{\kf51} Bann
+Dialogue: 0,0:00:20.94,0:00:22.73,DEFAULT,,0,0,0,,{\r}{\kf34}Oh{\kf21}-oh{\kf28}-oh{\kf28}-oh{\kf21}-oh{\kf47}-oh
+Dialogue: 0,0:00:22.89,0:00:25.54,DEFAULT,,0,0,0,,{\r}{\kf56}Je{\kf28}der{\kf21} be{\kf28}wegt{\kf35} sich,{\kf21} wie{\kf21} wir{\kf35} wol{\kf20}len
+Dialogue: 0,0:00:25.70,0:00:27.76,DEFAULT,,0,0,0,,{\r}{\kf21}Al{\kf28}le{\kf28} mac{\kf28}hen,{\kf21} was{\kf21} sie{\kf36} sol{\kf23}len
+Dialogue: 0,0:00:27.92,0:00:29.82,DEFAULT,,0,0,0,,{\r}{\kf27}Wir{\kf14} be{\kf27}stim{\kf34}men{\kf27} je{\kf27}den{\kf33} Schritt
+Dialogue: 0,0:00:30.09,0:00:31.87,DEFAULT,,0,0,0,,{\r}{\kf22}Was{\kf22} wir{\kf30} wün{\kf30}schen,{\kf30} macht{\kf22} Ihr{\kf23} mit
+Dialogue: 0,0:00:32.04,0:00:34.42,DEFAULT,,0,0,0,,{\r}{\kf22}Je{\kf29}der{\kf22} be{\kf29}wegt{\kf29} sich,{\kf22} wie{\kf29} wir{\kf36} wol{\kf20}len
+Dialogue: 0,0:00:34.58,0:00:36.58,DEFAULT,,0,0,0,,{\r}{\kf21}Al{\kf21}le{\kf41} mac{\kf28}hen,{\kf21} was{\kf21} sie{\kf34} sol{\kf13}len
+Dialogue: 0,0:00:36.74,0:00:38.64,DEFAULT,,0,0,0,,{\r}{\kf21}Wir{\kf21} be{\kf28}stim{\kf28}men{\kf28} je{\kf21}den{\kf42} Schritt
+Dialogue: 0,0:00:38.96,0:00:40.75,DEFAULT,,0,0,0,,{\r}{\kf27}Was{\kf27} wir{\kf20} wün{\kf33}schen,{\kf27} macht{\kf27} Ihr{\kf18} mit
+Dialogue: 0,0:00:40.91,0:00:42.86,DEFAULT,,0,0,0,,{\r}{\kf22}Oh{\kf36}-whoa{\kf36}-oh,{\kf29} oh{\kf36}-whoa{\kf36}-oh
+Dialogue: 0,0:00:43.08,0:00:44.97,DEFAULT,,0,0,0,,{\r}{\kf28}Man{\kf28} sieht{\kf14} es{\kf28} Euch{\kf35} gar{\kf28}nicht{\kf28} an
+Dialogue: 0,0:00:45.24,0:00:47.24,DEFAULT,,0,0,0,,{\r}{\kf29}Oh{\kf36}-whoa{\kf36}-oh,{\kf29} oh{\kf36}-whoa{\kf34}-oh
+Dialogue: 0,0:00:47.52,0:00:49.30,DEFAULT,,0,0,0,,{\r}{\kf28}Ihr{\kf28} seid{\kf21} in{\kf28} un{\kf28}se{\kf28}rem{\kf18} Bann
+Dialogue: 0,0:00:49.46,0:00:51.95,DEFAULT,,0,0,0,,{\r}{\kf21}Wer{\kf28} hier{\kf28} mei{\kf14}ne{\kf35} Stim{\kf28}me{\kf28} er{\kf67}hört
+Dialogue: 0,0:00:52.17,0:00:53.69,DEFAULT,,0,0,0,,{\r}{\kf28}Ah{\kf55}-oh,{\kf28} ah{\kf28}-oh{\kf13}-oh
+Dialogue: 0,0:00:53.85,0:00:56.23,DEFAULT,,0,0,0,,{\r}{\kf26}Wird{\kf26} von{\kf26} ih{\kf20}rem{\kf33} Zau{\kf26}ber{\kf20} be{\kf61}tört
+Dialogue: 0,0:00:56.39,0:00:57.80,DEFAULT,,0,0,0,,{\r}{\kf27}Ah{\kf27}-oh{\kf27}-oh{\kf27}-oh{\kf33}-oh
+Dialogue: 0,0:00:58.29,0:01:00.78,DEFAULT,,0,0,0,,{\r}{\kf28}In{\kf28} dem{\kf21} Netz{\kf14} ge{\kf36}fan{\kf28}gen{\kf28} seid{\kf66} Ihr
+Dialogue: 0,0:01:02.72,0:01:06.51,DEFAULT,,0,0,0,,{\r}{\kf24}Bald{\kf24} schon{\kf24} sin{\kf24}gen{\kf30} al{\kf18}le{\kf24} mit{\kf211} mir
+Dialogue: 0,0:01:07.16,0:01:09.82,DEFAULT,,0,0,0,,{\r}{\kf54}Je{\kf27}der{\kf20} be{\kf27}wegt{\kf34} sich,{\kf27} wie{\kf20} wir{\kf27} wol{\kf29}len
+Dialogue: 0,0:01:09.98,0:01:12.03,DEFAULT,,0,0,0,,{\r}{\kf27}Al{\kf27}le{\kf27} mac{\kf27}hen,{\kf21} was{\kf21} sie{\kf34} sol{\kf22}len
+Dialogue: 0,0:01:12.14,0:01:14.15,DEFAULT,,0,0,0,,{\r}{\kf22}Wir{\kf15} be{\kf30}stim{\kf30}men{\kf30} je{\kf22}den{\kf51} Schritt
+Dialogue: 0,0:01:14.36,0:01:16.15,DEFAULT,,0,0,0,,{\r}{\kf29}Was{\kf29} wir{\kf21} wün{\kf29}schen,{\kf29} macht{\kf21} Ihr{\kf21} mit
+Dialogue: 0,0:01:16.31,0:01:18.69,DEFAULT,,0,0,0,,{\r}{\kf21}Je{\kf28}der{\kf21} be{\kf35}wegt{\kf21} sich,{\kf28}wie{\kf28} wir{\kf35} wol{\kf21}len
+Dialogue: 0,0:01:18.80,0:01:20.80,DEFAULT,,0,0,0,,{\r}{\kf21}Al{\kf21}le{\kf36} mac{\kf29}hen,{\kf29} was{\kf21} sie{\kf29} sol{\kf14}len
+Dialogue: 0,0:01:20.97,0:01:23.02,DEFAULT,,0,0,0,,{\r}{\kf22}Wir{\kf15} be{\kf29}stim{\kf29}men{\kf29} je{\kf22}den{\kf60} Schritt
+Dialogue: 0,0:01:23.24,0:01:25.02,DEFAULT,,0,0,0,,{\r}{\kf20}Was{\kf27} wir{\kf27} wün{\kf27}schen,{\kf27} macht{\kf27} Ihr{\kf24} mit
+Dialogue: 0,0:01:25.19,0:01:27.08,DEFAULT,,0,0,0,,{\r}{\kf21}Oh{\kf35}-whoa{\kf35}-oh,{\kf28} oh{\kf35}-whoa{\kf35}-oh
+Dialogue: 0,0:01:27.30,0:01:29.19,DEFAULT,,0,0,0,,{\r}{\kf29}Man{\kf22} sieht{\kf15} es{\kf36} Euch{\kf29} gar{\kf29}nicht{\kf29} an
+Dialogue: 0,0:01:29.57,0:01:31.52,DEFAULT,,0,0,0,,{\r}{\kf28}Oh{\kf35}-whoa{\kf35}-oh,{\kf28} oh{\kf35}-whoa{\kf34}-oh
+Dialogue: 0,0:01:31.79,0:01:33.79,DEFAULT,,0,0,0,,{\r}{\kf20}Ihr{\kf27} seid{\kf27} in{\kf27} un{\kf27}se{\kf27}rem{\kf45} Bann
+Dialogue: 0,0:01:34.01,0:01:35.96,DEFAULT,,0,0,0,,{\r}{\kf28}Oh{\kf35}-whoa{\kf35}-oh,{\kf28} oh{\kf35}-whoa{\kf34}-oh
+Dialogue: 0,0:01:36.12,0:01:38.23,DEFAULT,,0,0,0,,{\r}{\kf27}Man{\kf34} sieht{\kf14} es{\kf27} Euch{\kf34} gar{\kf27}nicht{\kf48} an
+Dialogue: 0,0:01:38.39,0:01:40.34,DEFAULT,,0,0,0,,{\r}{\kf28}Oh{\kf35}-whoa{\kf35}-oh,{\kf28} oh{\kf35}-whoa{\kf34}-oh
+Dialogue: 0,0:01:40.61,0:01:43.97,DEFAULT,,0,0,0,,{\r}{\kf26}Ihr{\kf26} seid{\kf26} in{\kf26} un{\kf26}se{\kf45}rem{\kf161} Bann

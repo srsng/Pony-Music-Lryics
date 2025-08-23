@@ -1,44 +1,51 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: There's Pinkie
+Artist: Fountains of Pony
+Original Timing: mylittlekaraoke.com by Pony Rock Project
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:12.29,0:00:15.24,DEFAULT,,0,0,0,,{\kf13}Work{\kf13}ing{\kf25} all{\kf13}~{\kf37} day{\kf13} on{\kf5} re{\kf29}search{\kf21}ing{\kf5}~{\kf29} spells
-Dialogue: 0,0:00:15.41,0:00:18.36,DEFAULT,,0,0,0,,{\kf9}Help{\kf9}ing{\kf17} po{\kf29}nies{\kf25} out{\kf17} as{\kf5} the{\kf29} Mare-{\kf17}Do-{\kf13}~{\kf21}Well
-Dialogue: 0,0:00:18.69,0:00:22.35,DEFAULT,,0,0,0,,{\kf9}I'm{\kf17} wear{\kf13}ing{\kf17} grooves{\kf9} in{\kf17}to{\kf5} the{\kf17} floor{\kf9} it{\kf9} says{\kf9} so{\kf13} on{\kf13} my{\kf17} lat{\kf25}est{\kf5}~{\kf21} graph
-Dialogue: 0,0:00:22.76,0:00:25.88,DEFAULT,,0,0,0,,{\kf9}When{\kf9} she{\kf9} comes{\kf9} a{\kf17}round{\kf17} she{\kf13} al{\kf9}ways{\kf9} helps{\kf9} to{\kf9} make{\kf29} me{\kf13} laugh{\kf17}~
-Dialogue: 0,0:00:26.33,0:00:29.66,DEFAULT,,0,0,0,,{\kf70}There's{\kf13} Pink{\kf13}ie{\kf21} think{\kf37}in'{\kf13} in{\kf17}side{\kf9} the{\kf13} chim{\kf9}ney
-Dialogue: 0,0:00:29.78,0:00:32.82,DEFAULT,,0,0,0,,{\kf13}Sing{\kf9}in'{\kf13} sil{\kf13}ly{\kf17} songs{\kf5} and{\kf13} mak{\kf13}in'{\kf9} her{\kf17} friends{\kf9}~{\kf54} smile
-Dialogue: 0,0:00:33.31,0:00:36.22,DEFAULT,,0,0,0,,{\kf9}Some{\kf13}times{\kf21} we{\kf25} swear{\kf13} it's{\kf13} so{\kf17}~{\kf25} hard{\kf9} to{\kf21} bear{\kf9} it
-Dialogue: 0,0:00:36.35,0:00:39.76,DEFAULT,,0,0,0,,{\kf13}But{\kf9} with{\kf17} her{\kf13} we{\kf13} make{\kf9} it{\kf17} through{\kf17} and{\kf13} we{\kf29} do{\kf37} it{\kf17} in{\kf33} style
-Dialogue: 0,0:00:39.88,0:00:43.45,DEFAULT,,0,0,0,,{\kf13}But{\kf9} with{\kf17} her{\kf13} we{\kf13} make{\kf9} it{\kf17} through{\kf17} and{\kf13} we{\kf29} do{\kf37} it{\kf17} in{\kf50} style
-Dialogue: 0,0:00:50.80,0:00:54.17,DEFAULT,,0,0,0,,{\kf37}Hours{\kf13} on{\kf5} the{\kf29} farm{\kf13} buck{\kf13}in'{\kf17} ap{\kf21}ples{\kf33} down{\kf13} Got{\kf9} three{\kf9} carts
-Dialogue: 0,0:00:54.33,0:00:57.12,DEFAULT,,0,0,0,,{\kf29}chained{\kf29} to{\kf17}geth{\kf13}er{\kf13} just{\kf13} to{\kf17} haul{\kf13} 'em{\kf13} a{\kf42}round
-Dialogue: 0,0:00:57.57,0:01:00.86,DEFAULT,,0,0,0,,{\kf9}I'd{\kf13} nev{\kf5}er{\kf13} say{\kf13} I{\kf33} mind{\kf29} do{\kf13}in'{\kf13} my{\kf21} fair{\kf17}~{\kf21} share
-Dialogue: 0,0:01:01.15,0:01:04.47,DEFAULT,,0,0,0,,{\kf5}But{\kf9} when{\kf13} she{\kf9} helps{\kf17} me{\kf13} re{\kf13}lax{\kf21} well{\kf13}~{\kf13} I'm{\kf13} sure{\kf17} glad{\kf25} she's{\kf9} there{\kf25}~
-Dialogue: 0,0:01:04.88,0:01:08.17,DEFAULT,,0,0,0,,{\kf70}There's{\kf13} Pink{\kf13}ie{\kf21} think{\kf37}in'{\kf13} in{\kf17}side{\kf9} the{\kf13} chim{\kf9}ney
-Dialogue: 0,0:01:08.33,0:01:11.33,DEFAULT,,0,0,0,,{\kf13}Sing{\kf9}in'{\kf13} sil{\kf13}ly{\kf17} songs{\kf5} and{\kf13} mak{\kf13}in'{\kf9} her{\kf17} friends{\kf9}~{\kf54} smile
-Dialogue: 0,0:01:11.86,0:01:14.78,DEFAULT,,0,0,0,,{\kf9}Some{\kf13}times{\kf21} we{\kf25} swear{\kf13} it's{\kf13} so{\kf17}~{\kf25} hard{\kf9} to{\kf21} bear{\kf9} it
-Dialogue: 0,0:01:14.90,0:01:18.31,DEFAULT,,0,0,0,,{\kf13}But{\kf9} with{\kf17} her{\kf13} we{\kf13} make{\kf9} it{\kf17} through{\kf17} and{\kf13} we{\kf29} do{\kf37} it{\kf17} in{\kf33} style
-Dialogue: 0,0:01:18.39,0:01:22.17,DEFAULT,,0,0,0,,{\kf13}But{\kf9} with{\kf17} her{\kf13} we{\kf13} make{\kf9} it{\kf17} through{\kf17} and{\kf13} we{\kf29} do{\kf37} it{\kf17} in{\kf70} style
-Dialogue: 0,0:01:22.58,0:01:25.90,DEFAULT,,0,0,0,,{\kf13}She's{\kf13} like{\kf9} my{\kf17} cool{\kf9}est{\kf17}~{\kf29} friend{\kf13} why{\kf13} do{\kf13} we{\kf21} al{\kf9}ways{\kf13}~{\kf25} spend
-Dialogue: 0,0:01:26.31,0:01:29.31,DEFAULT,,0,0,0,,{\kf21}Our{\kf13}~{\kf17} time{\kf9} a{\kf17}part{\kf13} her{\kf17} on{\kf13} the{\kf17} ground{\kf13} me{\kf9} in{\kf9} the{\kf21} sky?{\kf21}~
-Dialogue: 0,0:01:29.60,0:01:32.84,DEFAULT,,0,0,0,,{\kf13}Why{\kf9} must{\kf9} I{\kf13} spend{\kf13} my{\kf13}~{\kf33} time{\kf9} fill{\kf13}ing{\kf13} up{\kf13} my{\kf17}~{\kf25} mind
-Dialogue: 0,0:01:33.09,0:01:37.36,DEFAULT,,0,0,0,,{\kf5}With{\kf13} weath{\kf9}er{\kf21} or{\kf13}ders{\kf9} and{\kf9} for{\kf17}get{\kf9}ting{\kf17} pranks{\kf13} that{\kf13} we{\kf9} should{\kf21} try?{\kf124}~
-Dialogue: 0,0:01:37.93,0:01:41.10,DEFAULT,,0,0,0,,{\kf13}For{\kf21}get{\kf9}ting{\kf13} pranks{\kf13} that{\kf13} we{\kf9} should{\kf21} try{\kf144}~
-Dialogue: 0,0:01:53.86,0:01:56.78,DEFAULT,,0,0,0,,{\kf13}Work{\kf13}ing{\kf25} all{\kf17}~{\kf37} day{\kf17} on{\kf13} a{\kf37} new{\kf21} de{\kf13}~{\kf25}sign
-Dialogue: 0,0:01:56.94,0:02:00.02,DEFAULT,,0,0,0,,{\kf13}Now{\kf9} it's{\kf17} al{\kf21}most{\kf21} done{\kf9} it{\kf9} will{\kf21} look{\kf21} di{\kf17}~{\kf25}vine
-Dialogue: 0,0:02:00.47,0:02:03.72,DEFAULT,,0,0,0,,{\kf13}I've{\kf5} been{\kf17} run{\kf5}ning{\kf17} back{\kf5} and{\kf17} forth{\kf17} all{\kf21} day{\kf13} I{\kf13} know{\kf13} my{\kf13} hair's{\kf5} a{\kf21} mess
-Dialogue: 0,0:02:04.21,0:02:07.50,DEFAULT,,0,0,0,,{\kf9}But{\kf17} when{\kf9} it's{\kf17} time{\kf5} to{\kf13} cel{\kf17}e{\kf17}brate{\kf9} I'm{\kf17} sure{\kf13} to{\kf9} look{\kf33} my{\kf9} best{\kf17}~
-Dialogue: 0,0:02:07.95,0:02:11.23,DEFAULT,,0,0,0,,{\kf70}There's{\kf13} Pink{\kf13}ie{\kf21} think{\kf37}in'{\kf13} in{\kf17}side{\kf9} the{\kf13} chim{\kf9}ney
-Dialogue: 0,0:02:11.40,0:02:14.39,DEFAULT,,0,0,0,,{\kf13}Sing{\kf9}in'{\kf13} sil{\kf13}ly{\kf17} songs{\kf5} and{\kf13} mak{\kf13}in'{\kf9} her{\kf17} friends{\kf9}~{\kf54} smile
-Dialogue: 0,0:02:14.93,0:02:17.84,DEFAULT,,0,0,0,,{\kf9}Some{\kf13}times{\kf21} we{\kf25} swear{\kf13} it's{\kf13} so{\kf17}~{\kf25} hard{\kf9} to{\kf21} bear{\kf9} it
-Dialogue: 0,0:02:17.97,0:02:21.37,DEFAULT,,0,0,0,,{\kf13}But{\kf9} with{\kf17} her{\kf13} we{\kf13} make{\kf9} it{\kf17} through{\kf17} and{\kf13} we{\kf29} do{\kf37} it{\kf17} in{\kf33} style
-Dialogue: 0,0:02:21.46,0:02:24.86,DEFAULT,,0,0,0,,{\kf13}But{\kf9} with{\kf17} her{\kf13} we{\kf13} make{\kf9} it{\kf17} through{\kf17} and{\kf13} we{\kf29} do{\kf37} it{\kf17} in{\kf33} style
-Dialogue: 0,0:02:24.99,0:02:29.01,DEFAULT,,0,0,0,,{\kf13}But{\kf9} with{\kf17} her{\kf13} we{\kf13} make{\kf9} it{\kf17} through{\kf17} and{\kf13} we{\kf29} do{\kf37} it{\kf13} in{\kf99} style
+Dialogue: 0,0:00:12.29,0:00:15.25,DEFAULT,,0,0,0,,{\r}{\kf19}Work{\kf19}ing{\kf37} all{\kf19}~{\kf56} day{\kf19} on{\kf10} re{\kf43}search{\kf31}ing{\kf10}~{\kf33} spells
+Dialogue: 0,0:00:15.41,0:00:18.37,DEFAULT,,0,0,0,,{\r}{\kf13}Help{\kf13}ing{\kf26} po{\kf46}nies{\kf39} out{\kf26} as{\kf10} the{\kf46} Mare-{\kf26}Do-{\kf20}~{\kf31}Well
+Dialogue: 0,0:00:18.70,0:00:22.35,DEFAULT,,0,0,0,,{\r}{\kf14}I'm{\kf28} wear{\kf21}ing{\kf28} grooves{\kf14} in{\kf28}to{\kf10} the{\kf28} floor{\kf14} it{\kf14} says{\kf14} so{\kf21} on{\kf21} my{\kf28} lat{\kf42}est{\kf10}~{\kf30} graph
+Dialogue: 0,0:00:22.76,0:00:25.88,DEFAULT,,0,0,0,,{\r}{\kf15}When{\kf15} she{\kf15} comes{\kf15} a{\kf30}round{\kf30} she{\kf23} al{\kf15}ways{\kf15} helps{\kf15} to{\kf15} make{\kf53} me{\kf23} laugh{\kf33}~
+Dialogue: 0,0:00:26.33,0:00:29.66,DEFAULT,,0,0,0,,{\r}{\kf111}There's{\kf20} Pink{\kf20}ie{\kf33} think{\kf59}in'{\kf20} in{\kf26}side{\kf13} the{\kf20} chim{\kf11}ney
+Dialogue: 0,0:00:29.78,0:00:32.82,DEFAULT,,0,0,0,,{\r}{\kf21}Sing{\kf14}in'{\kf21} sil{\kf21}ly{\kf28} songs{\kf10} and{\kf21} mak{\kf21}in'{\kf14} her{\kf28} friends{\kf14}~{\kf91} smile
+Dialogue: 0,0:00:33.31,0:00:36.23,DEFAULT,,0,0,0,,{\r}{\kf14}Some{\kf21}times{\kf36} we{\kf43} swear{\kf21} it's{\kf21} so{\kf28}~{\kf43} hard{\kf14} to{\kf36} bear{\kf15} it
+Dialogue: 0,0:00:36.35,0:00:39.76,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf12} with{\kf24} her{\kf18} we{\kf18} make{\kf12} it{\kf24} through{\kf24} and{\kf18} we{\kf43} do{\kf55} it{\kf24} in{\kf51} style
+Dialogue: 0,0:00:39.88,0:00:43.46,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf12} with{\kf24} her{\kf18} we{\kf18} make{\kf12} it{\kf24} through{\kf24} and{\kf18} we{\kf42} do{\kf54} it{\kf24} in{\kf69} style
+Dialogue: 0,0:00:50.81,0:00:54.17,DEFAULT,,0,0,0,,{\r}{\kf61}Hours{\kf20} on{\kf10} the{\kf47} farm{\kf20} buck{\kf20}in'{\kf27} ap{\kf34}ples{\kf54} down{\kf20} Got{\kf13} three{\kf11} carts
+Dialogue: 0,0:00:54.34,0:00:57.13,DEFAULT,,0,0,0,,{\r}{\kf42}chained{\kf42} to{\kf24}geth{\kf18}er{\kf18} just{\kf18} to{\kf24} haul{\kf18} 'em{\kf18} a{\kf57}round
+Dialogue: 0,0:00:57.58,0:01:00.86,DEFAULT,,0,0,0,,{\r}{\kf14}I'd{\kf21} nev{\kf10}er{\kf21} say{\kf21} I{\kf56} mind{\kf49} do{\kf21}in'{\kf21} my{\kf35} fair{\kf28}~{\kf31} share
+Dialogue: 0,0:01:01.15,0:01:04.48,DEFAULT,,0,0,0,,{\r}{\kf10}But{\kf13} when{\kf20} she{\kf13} helps{\kf27} me{\kf20} re{\kf20}lax{\kf33} well{\kf20}~{\kf20} I'm{\kf20} sure{\kf27} glad{\kf40} she's{\kf13} there{\kf37}~
+Dialogue: 0,0:01:04.89,0:01:08.17,DEFAULT,,0,0,0,,{\r}{\kf109}There's{\kf19} Pink{\kf19}ie{\kf32} think{\kf58}in'{\kf19} in{\kf26}side{\kf13} the{\kf19} chim{\kf14}ney
+Dialogue: 0,0:01:08.34,0:01:11.33,DEFAULT,,0,0,0,,{\r}{\kf21}Sing{\kf14}in'{\kf21} sil{\kf21}ly{\kf28} songs{\kf10} and{\kf21} mak{\kf21}in'{\kf14} her{\kf28} friends{\kf14}~{\kf87} smile
+Dialogue: 0,0:01:11.87,0:01:14.78,DEFAULT,,0,0,0,,{\r}{\kf14}Some{\kf21}times{\kf36} we{\kf43} swear{\kf21} it's{\kf21} so{\kf28}~{\kf43} hard{\kf14} to{\kf36} bear{\kf15} it
+Dialogue: 0,0:01:14.91,0:01:18.31,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf12} with{\kf24} her{\kf18} we{\kf18} make{\kf12} it{\kf24} through{\kf24} and{\kf18} we{\kf43} do{\kf55} it{\kf24} in{\kf51} style
+Dialogue: 0,0:01:18.40,0:01:22.17,DEFAULT,,0,0,0,,{\r}{\kf17}But{\kf12} with{\kf23} her{\kf17} we{\kf17} make{\kf12} it{\kf23} through{\kf23} and{\kf17} we{\kf41} do{\kf52} it{\kf23} in{\kf101} style
+Dialogue: 0,0:01:22.58,0:01:25.91,DEFAULT,,0,0,0,,{\r}{\kf20}She's{\kf20} like{\kf13} my{\kf27} cool{\kf13}est{\kf27}~{\kf47} friend{\kf20} why{\kf20} do{\kf20} we{\kf33} al{\kf13}ways{\kf20}~{\kf40} spend
+Dialogue: 0,0:01:26.32,0:01:29.32,DEFAULT,,0,0,0,,{\r}{\kf31}Our{\kf18}~{\kf24} time{\kf12} a{\kf24}part{\kf18} her{\kf24} on{\kf18} the{\kf24} ground{\kf18} me{\kf12} in{\kf12} the{\kf31} sky?{\kf34}~
+Dialogue: 0,0:01:29.60,0:01:32.85,DEFAULT,,0,0,0,,{\r}{\kf22}Why{\kf14} must{\kf14} I{\kf22} spend{\kf22} my{\kf22}~{\kf58} time{\kf14} fill{\kf22}ing{\kf22} up{\kf22} my{\kf29}~{\kf41} mind
+Dialogue: 0,0:01:33.09,0:01:37.36,DEFAULT,,0,0,0,,{\r}{\kf10}With{\kf18} weath{\kf12}er{\kf30} or{\kf18}ders{\kf12} and{\kf12} for{\kf24}get{\kf12}ting{\kf24} pranks{\kf18} that{\kf18} we{\kf12} should{\kf30} try?{\kf177}~
+Dialogue: 0,0:01:37.94,0:01:41.10,DEFAULT,,0,0,0,,{\r}{\kf16}For{\kf26}get{\kf10}ting{\kf16} pranks{\kf16} that{\kf16} we{\kf10} should{\kf26} try{\kf180}~
+Dialogue: 0,0:01:53.87,0:01:56.78,DEFAULT,,0,0,0,,{\r}{\kf16}Work{\kf16}ing{\kf32} all{\kf21}~{\kf48} day{\kf21} on{\kf16} a{\kf48} new{\kf27} de{\kf16}~{\kf31}sign
+Dialogue: 0,0:01:56.95,0:02:00.03,DEFAULT,,0,0,0,,{\r}{\kf21}Now{\kf14} it's{\kf29} al{\kf36}most{\kf36} done{\kf14} it{\kf14} will{\kf36} look{\kf36} di{\kf29}~{\kf43}vine
+Dialogue: 0,0:02:00.48,0:02:03.72,DEFAULT,,0,0,0,,{\r}{\kf22}I've{\kf10} been{\kf29} run{\kf10}ning{\kf29} back{\kf10} and{\kf29} forth{\kf29} all{\kf36} day{\kf22} I{\kf22} know{\kf22} my{\kf22} hair's{\kf10} a{\kf22} mess
+Dialogue: 0,0:02:04.22,0:02:07.50,DEFAULT,,0,0,0,,{\r}{\kf13}But{\kf27} when{\kf13} it's{\kf27} time{\kf10} to{\kf20} cel{\kf27}e{\kf27}brate{\kf13} I'm{\kf27} sure{\kf20} to{\kf13} look{\kf54} my{\kf13} best{\kf24}~
+Dialogue: 0,0:02:07.95,0:02:11.24,DEFAULT,,0,0,0,,{\r}{\kf109}There's{\kf19} Pink{\kf19}ie{\kf32} think{\kf58}in'{\kf19} in{\kf26}side{\kf13} the{\kf19} chim{\kf14}ney
+Dialogue: 0,0:02:11.40,0:02:14.40,DEFAULT,,0,0,0,,{\r}{\kf21}Sing{\kf14}in'{\kf21} sil{\kf21}ly{\kf28} songs{\kf10} and{\kf21} mak{\kf21}in'{\kf14} her{\kf28} friends{\kf14}~{\kf87} smile
+Dialogue: 0,0:02:14.93,0:02:17.85,DEFAULT,,0,0,0,,{\r}{\kf14}Some{\kf21}times{\kf36} we{\kf43} swear{\kf21} it's{\kf21} so{\kf28}~{\kf43} hard{\kf14} to{\kf36} bear{\kf15} it
+Dialogue: 0,0:02:17.97,0:02:21.38,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf12} with{\kf24} her{\kf18} we{\kf18} make{\kf12} it{\kf24} through{\kf24} and{\kf18} we{\kf43} do{\kf55} it{\kf24} in{\kf51} style
+Dialogue: 0,0:02:21.46,0:02:24.87,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf12} with{\kf24} her{\kf18} we{\kf18} make{\kf12} it{\kf24} through{\kf24} and{\kf18} we{\kf43} do{\kf55} it{\kf24} in{\kf51} style
+Dialogue: 0,0:02:24.99,0:02:29.01,DEFAULT,,0,0,0,,{\r}{\kf17}But{\kf11} with{\kf23} her{\kf17} we{\kf17} make{\kf11} it{\kf23} through{\kf23} and{\kf17} we{\kf40} do{\kf51} it{\kf17} in{\kf135} style

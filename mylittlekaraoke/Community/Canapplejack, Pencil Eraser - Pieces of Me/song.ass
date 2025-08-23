@@ -1,60 +1,67 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Pieces Of Me
+Artist: Canapplejack
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:49.36,0:00:57.21,DEFAULT,,0,0,0,,{\kf40}May{\kf18}be{\kf177} I'm{\kf31} not{\kf40} one{\kf49} to{\kf31} look{\kf53} past{\kf45} all{\kf31} the{\kf36} years{\kf18} I{\kf23} slave{\kf23}~{\kf23} a{\kf23}way{\kf62}~
-Dialogue: 0,0:00:57.39,0:01:00.04,DEFAULT,,0,0,0,,{\kf18}But{\kf23} I'm{\kf23} far{\kf18} from{\kf27} where{\kf27} I'll{\kf31} be{\kf31} some{\kf23}day
-Dialogue: 0,0:01:00.17,0:01:05.07,DEFAULT,,0,0,0,,{\kf40}They'll{\kf40} find{\kf27}~{\kf164} me{\kf27} free{\kf23} from{\kf27} them{\kf27} at{\kf36} last
-Dialogue: 0,0:01:05.29,0:01:08.73,DEFAULT,,0,0,0,,{\kf23}Pick{\kf23}ing{\kf36} up{\kf36} pie{\kf18}ces{\kf23} of{\kf18}~{\kf36} me{\kf102}~
-Dialogue: 0,0:01:09.17,0:01:11.99,DEFAULT,,0,0,0,,{\kf27}Pie{\kf18}ces{\kf40} of{\kf40} me{\kf142}~
-Dialogue: 0,0:01:12.88,0:01:15.52,DEFAULT,,0,0,0,,{\kf14}But{\kf23} my{\kf31} head's{\kf31} down{\kf27} on{\kf18} the{\kf40} pave{\kf40}ment
-Dialogue: 0,0:01:16.14,0:01:18.57,DEFAULT,,0,0,0,,{\kf23}Won{\kf23}der{\kf31}ing{\kf27} where{\kf14} the{\kf45} years{\kf53} went
-Dialogue: 0,0:01:18.74,0:01:20.11,DEFAULT,,0,0,0,,{\kf14}All{\kf14} the{\kf14} time{\kf31} I{\kf49} spent
-Dialogue: 0,0:01:20.46,0:01:23.29,DEFAULT,,0,0,0,,{\kf18}Un{\kf31}der{\kf31} eyes{\kf36} full{\kf23} of{\kf31} con{\kf45}tempt{\kf49}~
-Dialogue: 0,0:01:24.26,0:01:26.99,DEFAULT,,0,0,0,,{\kf31}My{\kf45} mind's{\kf45} still{\kf31} a{\kf45} crutch{\kf40} as
-Dialogue: 0,0:01:27.13,0:01:30.70,DEFAULT,,0,0,0,,{\kf31}I{\kf40} stand{\kf40} at{\kf36} the{\kf49} edge{\kf14} of{\kf31} what's{\kf18} a{\kf49}head
-Dialogue: 0,0:01:31.32,0:01:34.36,DEFAULT,,0,0,0,,{\kf31}I'm{\kf58} fro{\kf49}zen{\kf36} ins{\kf124}tead
-Dialogue: 0,0:01:34.94,0:01:38.38,DEFAULT,,0,0,0,,{\kf27}I{\kf31} might{\kf31} be{\kf36} chas{\kf36}~{\kf53}ing{\kf36} pipe{\kf27}~{\kf31} dreams
-Dialogue: 0,0:01:38.51,0:01:42.48,DEFAULT,,0,0,0,,{\kf27}At{\kf31} least{\kf27} I'm{\kf40} chas{\kf27}ing{\kf62} some{\kf58}thing{\kf89} more
-Dialogue: 0,0:01:42.70,0:01:45.83,DEFAULT,,0,0,0,,{\kf27}Than{\kf31} sha{\kf31}dows{\kf27} on{\kf23} the{\kf36} ci{\kf31}ty{\kf67} street
-Dialogue: 0,0:01:46.23,0:01:49.23,DEFAULT,,0,0,0,,{\kf31}They{\kf31} al{\kf31}ways{\kf36} said{\kf31} that{\kf31} I{\kf31} was{\kf53} green
-Dialogue: 0,0:01:49.41,0:01:53.60,DEFAULT,,0,0,0,,{\kf27}That{\kf31} I{\kf31} won't{\kf36} a{\kf27}mount{\kf31} to{\kf36} a{\kf36}ny{\kf36}thing{\kf23}~{\kf71} more
-Dialogue: 0,0:01:53.99,0:01:57.13,DEFAULT,,0,0,0,,{\kf27}Than{\kf36} sha{\kf27}dows{\kf27} on{\kf27} the{\kf36} ci{\kf27}ty{\kf67} street
-Dialogue: 0,0:01:57.48,0:02:00.08,DEFAULT,,0,0,0,,{\kf31}They'll{\kf27} take{\kf31} back{\kf36} e{\kf40}very{\kf84}thing
-Dialogue: 0,0:02:00.74,0:02:07.94,DEFAULT,,0,0,0,,{\kf173}I'm{\kf31} not{\kf45} one{\kf40} to{\kf31} look{\kf40} past{\kf49} all{\kf31} the{\kf31} times{\kf18} I've{\kf31} been{\kf27} out{\kf53}cast{\kf58}~
-Dialogue: 0,0:02:08.16,0:02:10.67,DEFAULT,,0,0,0,,{\kf27}But{\kf53} some{\kf45}day{\kf27} I{\kf36} know{\kf36} that
-Dialogue: 0,0:02:10.89,0:02:15.70,DEFAULT,,0,0,0,,{\kf31}They'll{\kf36} find{\kf23}~{\kf164} me{\kf36} free{\kf18} from{\kf23} them{\kf27} at{\kf40} last
-Dialogue: 0,0:02:15.88,0:02:19.19,DEFAULT,,0,0,0,,{\kf23}Pick{\kf23}ing{\kf45} up{\kf31} pie{\kf18}ces{\kf40} of{\kf40} me{\kf84}~
-Dialogue: 0,0:02:19.76,0:02:22.67,DEFAULT,,0,0,0,,{\kf27}Pie{\kf18}ces{\kf40} of{\kf36} me{\kf155}~
-Dialogue: 0,0:02:23.02,0:02:26.77,DEFAULT,,0,0,0,,{\kf27}When{\kf23} will{\kf27} I{\kf31} get{\kf27} to{\kf36} prove{\kf31} to{\kf36} them?
-Dialogue: 0,0:02:28.58,0:02:33.08,DEFAULT,,0,0,0,,{\kf31}When{\kf36} will{\kf23} I{\kf36} get{\kf36} my{\kf45} chance{\kf27} to{\kf102} win?
-Dialogue: 0,0:02:34.94,0:02:41.95,DEFAULT,,0,0,0,,{\kf40}Some{\kf98}day{\kf31} I'll{\kf31} fi{\kf31}nal{\kf36}ly{\kf40} piece{\kf27} my{\kf27}self{\kf36} to{\kf27}ge{\kf40}~{\kf181}ther
-Dialogue: 0,0:02:42.30,0:02:45.17,DEFAULT,,0,0,0,,{\kf287}Yeah
-Dialogue: 0,0:02:45.96,0:02:48.79,DEFAULT,,0,0,0,,{\kf18}But{\kf27} my{\kf27} head's{\kf31} down{\kf27} on{\kf18} the{\kf45} pave{\kf49}ment
-Dialogue: 0,0:02:49.27,0:02:51.66,DEFAULT,,0,0,0,,{\kf27}Won{\kf23}der{\kf23}ing{\kf31} where{\kf18} the{\kf40} years{\kf49} went
-Dialogue: 0,0:02:51.83,0:02:53.29,DEFAULT,,0,0,0,,{\kf18}All{\kf18} the{\kf18} time{\kf27} I{\kf49} spent
-Dialogue: 0,0:02:53.60,0:02:56.46,DEFAULT,,0,0,0,,{\kf23}Un{\kf27}der{\kf27} eyes{\kf27} full{\kf27} of{\kf31} con{\kf40}tempt{\kf53}~
-Dialogue: 0,0:02:57.48,0:03:02.55,DEFAULT,,0,0,0,,{\kf31}My{\kf49} mind's{\kf45} still{\kf27} a{\kf45} crutch{\kf45} as{\kf27} I{\kf49} stand{\kf45} at{\kf31} the{\kf45} edge
-Dialogue: 0,0:03:02.73,0:03:04.01,DEFAULT,,0,0,0,,{\kf14}Of{\kf31} what's{\kf18} a{\kf58}head
-Dialogue: 0,0:03:04.58,0:03:07.76,DEFAULT,,0,0,0,,{\kf31}I'm{\kf49} fro{\kf45}zen{\kf31} ins{\kf146}tead
-Dialogue: 0,0:03:08.07,0:03:11.46,DEFAULT,,0,0,0,,{\kf31}I{\kf36} might{\kf27} be{\kf40} chas{\kf31}~{\kf58}ing{\kf31} pipe{\kf31}~{\kf23} dreams
-Dialogue: 0,0:03:11.64,0:03:15.61,DEFAULT,,0,0,0,,{\kf27}At{\kf31} least{\kf31} I'm{\kf36} chas{\kf27}ing{\kf62} some{\kf67}thing{\kf84} more
-Dialogue: 0,0:03:15.92,0:03:18.83,DEFAULT,,0,0,0,,{\kf27}Than{\kf31} sha{\kf31}dows{\kf31} on{\kf27} the{\kf36} ci{\kf36}ty{\kf53} street
-Dialogue: 0,0:03:19.36,0:03:22.36,DEFAULT,,0,0,0,,{\kf31}They{\kf36} al{\kf31}ways{\kf31} said{\kf36} that{\kf27} I{\kf31} was{\kf53} green
-Dialogue: 0,0:03:22.54,0:03:26.99,DEFAULT,,0,0,0,,{\kf40}That{\kf23} I{\kf27} won't{\kf36} a{\kf31}mount{\kf31} to{\kf31} a{\kf45}ny{\kf58}thing{\kf89} more
-Dialogue: 0,0:03:27.21,0:03:30.30,DEFAULT,,0,0,0,,{\kf23} than{\kf36} sha{\kf31}dows{\kf31} on{\kf31} the{\kf36} ci{\kf31}ty{\kf67} street
-Dialogue: 0,0:03:30.66,0:03:33.44,DEFAULT,,0,0,0,,{\kf31}They'll{\kf31} take{\kf31} back{\kf36} e{\kf27}very{\kf106}thing
-Dialogue: 0,0:03:56.16,0:03:59.46,DEFAULT,,0,0,0,,{\kf27}I{\kf27} might{\kf27} be{\kf36} chas{\kf31}~{\kf49}ing{\kf31} pipe{\kf27}~{\kf27} dreams
-Dialogue: 0,0:03:59.60,0:04:03.52,DEFAULT,,0,0,0,,{\kf31}At{\kf31} least{\kf27} I'm{\kf36} chas{\kf27}ing{\kf67} some{\kf62}thing{\kf75} more
-Dialogue: 0,0:04:03.88,0:04:06.88,DEFAULT,,0,0,0,,{\kf27}Than{\kf36} sha{\kf31}dows{\kf31} on{\kf27} the{\kf36} ci{\kf27}ty{\kf58} street
-Dialogue: 0,0:04:07.41,0:04:10.14,DEFAULT,,0,0,0,,{\kf31}They{\kf31} al{\kf31}ways{\kf36} said{\kf31} that{\kf27} I{\kf31} was{\kf31} green
-Dialogue: 0,0:04:10.49,0:04:15.04,DEFAULT,,0,0,0,,{\kf36}That{\kf31} I{\kf31} won't{\kf36} a{\kf31}mount{\kf31} to{\kf36} a{\kf36}ny{\kf58}thing{\kf98} more
-Dialogue: 0,0:04:15.21,0:04:18.35,DEFAULT,,0,0,0,,{\kf27}Than{\kf36} sha{\kf27}dows{\kf31} on{\kf27} the{\kf36} ci{\kf31}ty{\kf67} street
-Dialogue: 0,0:04:18.66,0:04:21.57,DEFAULT,,0,0,0,,{\kf31}They'll{\kf31} take{\kf31} back{\kf36} e{\kf40}very{\kf111}thing
+Dialogue: 0,0:00:49.37,0:00:57.22,DEFAULT,,0,0,0,,{\r}{\kf44}May{\kf19}be{\kf194} I'm{\kf34} not{\kf44} one{\kf53} to{\kf34} look{\kf58} past{\kf48} all{\kf34} the{\kf39} years{\kf19} I{\kf24} slave{\kf24}~{\kf24} a{\kf24}way{\kf69}~
+Dialogue: 0,0:00:57.40,0:01:00.04,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf27} I'm{\kf27} far{\kf22} from{\kf32} where{\kf32} I'll{\kf38} be{\kf38} some{\kf27}day
+Dialogue: 0,0:01:00.18,0:01:05.07,DEFAULT,,0,0,0,,{\r}{\kf48}They'll{\kf48} find{\kf32}~{\kf197} me{\kf32} free{\kf27} from{\kf32} them{\kf32} at{\kf42} last
+Dialogue: 0,0:01:05.29,0:01:08.73,DEFAULT,,0,0,0,,{\r}{\kf25}Pick{\kf25}ing{\kf39} up{\kf39} pie{\kf20}ces{\kf25} of{\kf20}~{\kf39} me{\kf112}~
+Dialogue: 0,0:01:09.18,0:01:12.00,DEFAULT,,0,0,0,,{\r}{\kf28}Pie{\kf19}ces{\kf42} of{\kf42} me{\kf151}~
+Dialogue: 0,0:01:12.88,0:01:15.53,DEFAULT,,0,0,0,,{\r}{\kf16}But{\kf26} my{\kf37} head's{\kf37} down{\kf32} on{\kf21} the{\kf48} pave{\kf48}ment
+Dialogue: 0,0:01:16.15,0:01:18.57,DEFAULT,,0,0,0,,{\r}{\kf25}Won{\kf25}der{\kf35}ing{\kf30} where{\kf15} the{\kf51} years{\kf62} went
+Dialogue: 0,0:01:18.75,0:01:20.12,DEFAULT,,0,0,0,,{\r}{\kf15}All{\kf15} the{\kf15} time{\kf36} I{\kf56} spent
+Dialogue: 0,0:01:20.47,0:01:23.29,DEFAULT,,0,0,0,,{\r}{\kf19}Un{\kf33}der{\kf33} eyes{\kf38} full{\kf24} of{\kf33} con{\kf48}tempt{\kf54}~
+Dialogue: 0,0:01:24.26,0:01:27.00,DEFAULT,,0,0,0,,{\r}{\kf36}My{\kf52} mind's{\kf52} still{\kf36} a{\kf52} crutch{\kf46} as
+Dialogue: 0,0:01:27.13,0:01:30.71,DEFAULT,,0,0,0,,{\r}{\kf36}I{\kf47} stand{\kf47} at{\kf41} the{\kf57} edge{\kf16} of{\kf36} what's{\kf21} a{\kf56}head
+Dialogue: 0,0:01:31.32,0:01:34.37,DEFAULT,,0,0,0,,{\r}{\kf32}I'm{\kf59} fro{\kf50}zen{\kf36} ins{\kf127}tead
+Dialogue: 0,0:01:34.94,0:01:38.38,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf35} might{\kf35} be{\kf40} chas{\kf40}~{\kf60}ing{\kf40} pipe{\kf30}~{\kf34} dreams
+Dialogue: 0,0:01:38.51,0:01:42.48,DEFAULT,,0,0,0,,{\r}{\kf29}At{\kf34} least{\kf29} I'm{\kf44} chas{\kf29}ing{\kf69} some{\kf64}thing{\kf99} more
+Dialogue: 0,0:01:42.71,0:01:45.84,DEFAULT,,0,0,0,,{\r}{\kf31}Than{\kf36} sha{\kf36}dows{\kf31} on{\kf26} the{\kf41} ci{\kf36}ty{\kf76} street
+Dialogue: 0,0:01:46.23,0:01:49.23,DEFAULT,,0,0,0,,{\r}{\kf34}They{\kf34} al{\kf34}ways{\kf39} said{\kf34} that{\kf34} I{\kf34} was{\kf57} green
+Dialogue: 0,0:01:49.41,0:01:53.60,DEFAULT,,0,0,0,,{\r}{\kf29}That{\kf34} I{\kf34} won't{\kf39} a{\kf29}mount{\kf34} to{\kf39} a{\kf39}ny{\kf39}thing{\kf24}~{\kf79} more
+Dialogue: 0,0:01:54.00,0:01:57.13,DEFAULT,,0,0,0,,{\r}{\kf31}Than{\kf41} sha{\kf31}dows{\kf31} on{\kf31} the{\kf41} ci{\kf31}ty{\kf76} street
+Dialogue: 0,0:01:57.48,0:02:00.09,DEFAULT,,0,0,0,,{\r}{\kf32}They'll{\kf28} take{\kf32} back{\kf37} e{\kf42}very{\kf89}thing
+Dialogue: 0,0:02:00.75,0:02:07.94,DEFAULT,,0,0,0,,{\r}{\kf189}I'm{\kf34} not{\kf49} one{\kf44} to{\kf34} look{\kf44} past{\kf53} all{\kf34} the{\kf34} times{\kf19} I've{\kf34} been{\kf29} out{\kf58}cast{\kf64}~
+Dialogue: 0,0:02:08.16,0:02:10.68,DEFAULT,,0,0,0,,{\r}{\kf30}But{\kf60} some{\kf50}day{\kf30} I{\kf40} know{\kf41} that
+Dialogue: 0,0:02:10.90,0:02:15.71,DEFAULT,,0,0,0,,{\r}{\kf38}They'll{\kf43} find{\kf27}~{\kf200} me{\kf43} free{\kf22} from{\kf27} them{\kf32} at{\kf49} last
+Dialogue: 0,0:02:15.88,0:02:19.19,DEFAULT,,0,0,0,,{\r}{\kf24}Pick{\kf24}ing{\kf49} up{\kf34} pie{\kf19}ces{\kf44} of{\kf44} me{\kf93}~
+Dialogue: 0,0:02:19.76,0:02:22.68,DEFAULT,,0,0,0,,{\r}{\kf28}Pie{\kf19}ces{\kf42} of{\kf38} me{\kf164}~
+Dialogue: 0,0:02:23.03,0:02:26.78,DEFAULT,,0,0,0,,{\r}{\kf42}When{\kf35} will{\kf42} I{\kf50} get{\kf42} to{\kf57} prove{\kf50} to{\kf57} them?
+Dialogue: 0,0:02:28.59,0:02:33.09,DEFAULT,,0,0,0,,{\r}{\kf42}When{\kf48} will{\kf30} I{\kf48} get{\kf48} my{\kf60} chance{\kf36} to{\kf138} win?
+Dialogue: 0,0:02:34.94,0:02:41.96,DEFAULT,,0,0,0,,{\r}{\kf44}Some{\kf106}day{\kf34} I'll{\kf34} fi{\kf34}nal{\kf39}ly{\kf44} piece{\kf29} my{\kf29}self{\kf39} to{\kf29}ge{\kf44}~{\kf196}ther
+Dialogue: 0,0:02:42.31,0:02:45.18,DEFAULT,,0,0,0,,{\r}{\kf287}Yeah
+Dialogue: 0,0:02:45.97,0:02:48.79,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf31} my{\kf31} head's{\kf37} down{\kf31} on{\kf21} the{\kf52} pave{\kf58}ment
+Dialogue: 0,0:02:49.28,0:02:51.66,DEFAULT,,0,0,0,,{\r}{\kf30}Won{\kf25}der{\kf25}ing{\kf35} where{\kf20} the{\kf46} years{\kf57} went
+Dialogue: 0,0:02:51.84,0:02:53.29,DEFAULT,,0,0,0,,{\r}{\kf20}All{\kf20} the{\kf20} time{\kf30} I{\kf56} spent
+Dialogue: 0,0:02:53.60,0:02:56.47,DEFAULT,,0,0,0,,{\r}{\kf25}Un{\kf30}der{\kf30} eyes{\kf30} full{\kf30} of{\kf35} con{\kf45}tempt{\kf62}~
+Dialogue: 0,0:02:57.48,0:03:02.56,DEFAULT,,0,0,0,,{\r}{\kf36}My{\kf57} mind's{\kf52} still{\kf31} a{\kf52} crutch{\kf52} as{\kf31} I{\kf57} stand{\kf52} at{\kf36} the{\kf51} edge
+Dialogue: 0,0:03:02.73,0:03:04.01,DEFAULT,,0,0,0,,{\r}{\kf14}Of{\kf33} what's{\kf19} a{\kf62}head
+Dialogue: 0,0:03:04.59,0:03:07.76,DEFAULT,,0,0,0,,{\r}{\kf33}I'm{\kf51} fro{\kf47}zen{\kf33} ins{\kf154}tead
+Dialogue: 0,0:03:08.07,0:03:11.47,DEFAULT,,0,0,0,,{\r}{\kf34}I{\kf39} might{\kf30} be{\kf44} chas{\kf34}~{\kf64}ing{\kf34} pipe{\kf34}~{\kf27} dreams
+Dialogue: 0,0:03:11.65,0:03:15.62,DEFAULT,,0,0,0,,{\r}{\kf29}At{\kf34} least{\kf34} I'm{\kf39} chas{\kf29}ing{\kf68} some{\kf73}thing{\kf91} more
+Dialogue: 0,0:03:15.93,0:03:18.84,DEFAULT,,0,0,0,,{\r}{\kf29}Than{\kf33} sha{\kf33}dows{\kf33} on{\kf29} the{\kf38} ci{\kf38}ty{\kf58} street
+Dialogue: 0,0:03:19.37,0:03:22.37,DEFAULT,,0,0,0,,{\r}{\kf34}They{\kf39} al{\kf34}ways{\kf34} said{\kf39} that{\kf29} I{\kf34} was{\kf57} green
+Dialogue: 0,0:03:22.54,0:03:27.00,DEFAULT,,0,0,0,,{\r}{\kf44}That{\kf24} I{\kf29} won't{\kf39} a{\kf34}mount{\kf34} to{\kf34} a{\kf48}ny{\kf63}thing{\kf97} more
+Dialogue: 0,0:03:27.22,0:03:30.31,DEFAULT,,0,0,0,,{\r}{\kf24} than{\kf39} sha{\kf34}dows{\kf34} on{\kf34} the{\kf39} ci{\kf34}ty{\kf71} street
+Dialogue: 0,0:03:30.66,0:03:33.44,DEFAULT,,0,0,0,,{\r}{\kf33}They'll{\kf33} take{\kf33} back{\kf38} e{\kf28}very{\kf113}thing
+Dialogue: 0,0:03:56.16,0:03:59.47,DEFAULT,,0,0,0,,{\r}{\kf32}I{\kf32} might{\kf32} be{\kf42} chas{\kf37}~{\kf58}ing{\kf37} pipe{\kf32}~{\kf29} dreams
+Dialogue: 0,0:03:59.60,0:04:03.53,DEFAULT,,0,0,0,,{\r}{\kf34}At{\kf34} least{\kf29} I'm{\kf39} chas{\kf29}ing{\kf74} some{\kf69}thing{\kf85} more
+Dialogue: 0,0:04:03.88,0:04:06.88,DEFAULT,,0,0,0,,{\r}{\kf30}Than{\kf39} sha{\kf34}dows{\kf34} on{\kf30} the{\kf39} ci{\kf30}ty{\kf64} street
+Dialogue: 0,0:04:07.41,0:04:10.15,DEFAULT,,0,0,0,,{\r}{\kf34}They{\kf34} al{\kf34}ways{\kf39} said{\kf34} that{\kf29} I{\kf34} was{\kf36} green
+Dialogue: 0,0:04:10.50,0:04:15.04,DEFAULT,,0,0,0,,{\r}{\kf38}That{\kf33} I{\kf33} won't{\kf38} a{\kf33}mount{\kf33} to{\kf38} a{\kf38}ny{\kf62}thing{\kf108} more
+Dialogue: 0,0:04:15.22,0:04:18.35,DEFAULT,,0,0,0,,{\r}{\kf30}Than{\kf40} sha{\kf30}dows{\kf35} on{\kf30} the{\kf40} ci{\kf35}ty{\kf73} street
+Dialogue: 0,0:04:18.66,0:04:21.57,DEFAULT,,0,0,0,,{\r}{\kf32}They'll{\kf32} take{\kf32} back{\kf37} e{\kf42}very{\kf116}thing

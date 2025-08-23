@@ -1,54 +1,61 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Fly Away (feat. Blackened Blue)
+Artist: 4EverfreeBrony & PrinceWhateverer
+Original Timing: mylittlekaraoke.com by lily
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:40.41,0:00:43.60,DEFAULT,,0,0,0,,{\kf4076}I{\kf4083} thought{\kf4073} we{\kf4055} would{\kf4055} hit{\kf4055} it{\kf4055} off{\kf4048} so{\kf4048}-o{\kf4090} well
-Dialogue: 0,0:00:44.36,0:00:46.41,DEFAULT,,0,0,0,,{\kf4055}But{\kf4055} you{\kf4069} keep{\kf4069} me{\kf4062} guess{\kf4080}ing
-Dialogue: 0,0:00:46.86,0:00:50.27,DEFAULT,,0,0,0,,{\kf4055}I{\kf4069} knew{\kf4076} not{\kf4076} where{\kf4055} your{\kf4055} reck{\kf4055}less{\kf4059}ness{\kf4062} would{\kf4090} dwell
-Dialogue: 0,0:00:51.03,0:00:53.18,DEFAULT,,0,0,0,,{\kf4055}And{\kf4055} you're{\kf4076} still{\kf4048} no{\kf4062}-ot{\kf4062} list{\kf4090}ening
-Dialogue: 0,0:00:53.74,0:00:56.17,DEFAULT,,0,0,0,,{\kf4076}Your{\kf4055} o{\kf4055}-or{\kf4052}der's{\kf4069} way{\kf4073} too{\kf4097} tall
-Dialogue: 0,0:00:56.86,0:00:59.50,DEFAULT,,0,0,0,,{\kf4055}And{\kf4073} you{\kf4055} thi{\kf4048}-ink{\kf4048} you've{\kf4076} got{\kf4055} i{\kf4055}-it{\kf4097} all
-Dialogue: 0,0:01:00.20,0:01:03.67,DEFAULT,,0,0,0,,{\kf4055}Well,{\kf4076} I'm{\kf4066} not{\kf4055} gon{\kf4055}na{\kf4055} break{\kf4059} your{\kf4076} fall{\kf4062} this{\kf4097} time
-Dialogue: 0,0:01:04.57,0:01:06.97,DEFAULT,,0,0,0,,{\kf4062}Let's{\kf4055} see{\kf4076} how{\kf4073} far{\kf4055} yo{\kf4055}-ou{\kf4090} climb
-Dialogue: 0,0:01:08.11,0:01:10.20,DEFAULT,,0,0,0,,{\kf4055}So{\kf4062} here's{\kf4066} what{\kf4052} I'm{\kf4055} try{\kf4055}ing{\kf4052} to{\kf4083} say
-Dialogue: 0,0:01:11.24,0:01:13.81,DEFAULT,,0,0,0,,{\kf4055}I'll{\kf4062} let{\kf4062} you{\kf4076} fly{\kf4055} a{\kf4055}-a{\kf4076}-wa{\kf4069}-ay
-Dialogue: 0,0:01:14.57,0:01:17.21,DEFAULT,,0,0,0,,{\kf4055}And{\kf4090} don't{\kf4055} you{\kf4055} da{\kf4055}-are{\kf4076} come{\kf4076} ba{\kf4076}-ack
-Dialogue: 0,0:01:17.91,0:01:20.41,DEFAULT,,0,0,0,,{\kf4055}You{\kf4052} ma{\kf4059}-ade{\kf4069} a{\kf4069} big{\kf4062} mis{\kf4076}ta{\kf4062}-ake
-Dialogue: 0,0:01:21.24,0:01:23.53,DEFAULT,,0,0,0,,{\kf4055}So{\kf4073} leave{\kf4076} while{\kf4069} you{\kf4052} sti{\kf4052}-ill{\kf4083} can
-Dialogue: 0,0:01:24.57,0:01:27.07,DEFAULT,,0,0,0,,{\kf4055}Be{\kf4052}fo{\kf4059}-ore{\kf4062} my{\kf4069} pa{\kf4062}tience{\kf4076} fa{\kf4062}-ades
-Dialogue: 0,0:01:27.91,0:01:30.47,DEFAULT,,0,0,0,,{\kf4055}Now{\kf4090} this{\kf4055} is{\kf4055} yo{\kf4055}-our{\kf4069} last{\kf4076} cha{\kf4069}-ance
-Dialogue: 0,0:01:31.24,0:01:33.81,DEFAULT,,0,0,0,,{\kf4055}I'll{\kf4062} let{\kf4062} you{\kf4076} fly{\kf4055} a{\kf4055}-a{\kf4076}-wa{\kf4069}-ay
-Dialogue: 0,0:01:34.57,0:01:37.00,DEFAULT,,0,0,0,,{\kf4055}And{\kf4094} don't{\kf4052} you{\kf4059} da{\kf4066}-are{\kf4076} come{\kf4076} back
-Dialogue: 0,0:01:50.41,0:01:53.70,DEFAULT,,0,0,0,,{\kf4076}I{\kf4073} know,{\kf4052} you{\kf4080} try{\kf4052} to{\kf4055} keep{\kf4055} me{\kf4066} on{\kf4066} the{\kf4094} ground
-Dialogue: 0,0:01:54.36,0:01:56.41,DEFAULT,,0,0,0,,{\kf4055}'Cause{\kf4055} you're{\kf4052} sca{\kf4055}-ared{\kf4073} of{\kf4055} your{\kf4055} li{\kf4080}mits
-Dialogue: 0,0:01:57.07,0:02:00.37,DEFAULT,,0,0,0,,{\kf4066}If{\kf4083} you,{\kf4073} can't{\kf4055} keep{\kf4055} up{\kf4055} you{\kf4059} should{\kf4048} sta{\kf4055}-ay{\kf4097} down
-Dialogue: 0,0:02:01.03,0:02:03.18,DEFAULT,,0,0,0,,{\kf4055}'Cause{\kf4055} I'm{\kf4076} in{\kf4073} it{\kf4055} to{\kf4055} win{\kf4090} it
-Dialogue: 0,0:02:03.74,0:02:06.24,DEFAULT,,0,0,0,,{\kf4069}You'll{\kf4076} try{\kf4052} to{\kf4073} take{\kf4076} it{\kf4104} all
-Dialogue: 0,0:02:07.07,0:02:10.20,DEFAULT,,0,0,0,,{\kf4055}I{\kf4055}'ll{\kf4069} watch{\kf4048} you{\kf4076} rise{\kf4076} and{\kf4073} fa{\kf4055}-a{\kf4055}-a{\kf4083}-all
-Dialogue: 0,0:02:10.41,0:02:13.25,DEFAULT,,0,0,0,,{\kf4076}You{\kf4076} dare{\kf4048} to{\kf4073} take{\kf4055} my{\kf4055}-y{\kf4135} wings
-Dialogue: 0,0:02:13.74,0:02:17.35,DEFAULT,,0,0,0,,{\kf4069}How{\kf4069} well{\kf4055} can{\kf4073} you{\kf4055} fly{\kf4076}-y{\kf4055} in{\kf4097} light{\kf4107}ning
-Dialogue: 0,0:02:18.53,0:02:20.51,DEFAULT,,0,0,0,,{\kf4055}I{\kf4055} guess{\kf4055} I'll{\kf4055} see{\kf4055} you{\kf4055} a{\kf4111}round
-Dialogue: 0,0:02:21.24,0:02:23.81,DEFAULT,,0,0,0,,{\kf4055}I'll{\kf4069} watch{\kf4073} you{\kf4076} fly{\kf4076} a{\kf4111}way
-Dialogue: 0,0:02:24.57,0:02:27.04,DEFAULT,,0,0,0,,{\kf4055}Glide{\kf4073} on{\kf4076} to{\kf4076} calm{\kf4066}er{\kf4097} skies
-Dialogue: 0,0:02:27.91,0:02:30.86,DEFAULT,,0,0,0,,{\kf4055}You've{\kf4069} made{\kf4076} your{\kf4069} last{\kf4062} mis{\kf4076}ta{\kf4055}-a{\kf4087}-ake
-Dialogue: 0,0:02:31.24,0:02:33.70,DEFAULT,,0,0,0,,{\kf4055}So{\kf4076} you{\kf4076} can{\kf4069} watch{\kf4055} whi{\kf4055}le{\kf4097} I-
-Dialogue: 0,0:02:34.57,0:02:37.56,DEFAULT,,0,0,0,,{\kf4055}Fly{\kf4101} on,{\kf4055} through{\kf4076} storm{\kf4076} and{\kf4066} rain
-Dialogue: 0,0:02:37.73,0:02:40.51,DEFAULT,,0,0,0,,{\kf4066}I'll{\kf4076} bear{\kf4076} the{\kf4076} pain,{\kf4069} and{\kf4111} I'll-
-Dialogue: 0,0:02:41.24,0:02:44.64,DEFAULT,,0,0,0,,{\kf4055}Be{\kf4101}come,{\kf4055} the{\kf4076} Won{\kf4076}der{\kf4066}bolt{\kf4069} that
-Dialogue: 0,0:02:44.78,0:02:47.56,DEFAULT,,0,0,0,,{\kf4076}you{\kf4083} could{\kf4055} ne{\kf4066}ver{\kf4153} be
-Dialogue: 0,0:03:53.74,0:03:56.27,DEFAULT,,0,0,0,,{\kf4076}I'll{\kf4073} watch{\kf4055} you{\kf4055} fly{\kf4055}-y{\kf4076} a{\kf4104}way
-Dialogue: 0,0:03:56.86,0:03:59.36,DEFAULT,,0,0,0,,{\kf4055}And{\kf4069} I'll{\kf4073} fi{\kf4055}nally{\kf4069} rest{\kf4055} my{\kf4052}-y{\kf4080} case
-Dialogue: 0,0:04:00.41,0:04:02.91,DEFAULT,,0,0,0,,{\kf4076}Back{\kf4076} out{\kf4055} and{\kf4055} fo{\kf4055}-old{\kf4069} your{\kf4101} cards
-Dialogue: 0,0:04:03.53,0:04:05.89,DEFAULT,,0,0,0,,{\kf4048}You{\kf4073} weren't{\kf4073} born{\kf4052} to{\kf4069} play{\kf4062} this{\kf4069} part
-Dialogue: 0,0:04:06.06,0:04:08.98,DEFAULT,,0,0,0,,{\kf4069}So,{\kf4177} fly{\kf4055} a{\kf4125}way
-Dialogue: 0,0:04:09.36,0:04:12.04,DEFAULT,,0,0,0,,{\kf4062}Just{\kf4173} fly{\kf4055} a{\kf4097}way,
-Dialogue: 0,0:04:12.31,0:04:13.88,DEFAULT,,0,0,0,,{\kf4055}or{\kf4055} you're{\kf4055} gon{\kf4052}na{\kf4073} cra{\kf4073}-ash
-Dialogue: 0,0:04:14.57,0:04:17.14,DEFAULT,,0,0,0,,{\kf4055}I'll{\kf4062} watch{\kf4062} you{\kf4076} fly{\kf4076} a{\kf4076}wa{\kf4069}-ay
-Dialogue: 0,0:04:17.91,0:04:20.34,DEFAULT,,0,0,0,,{\kf4055}And{\kf4094} don't{\kf4069} you{\kf4055} dare{\kf4048} co{\kf4062}-ome{\kf4097} back
+Dialogue: 0,0:00:40.41,0:00:43.60,DEFAULT,,0,0,0,,{\r}{\kf49}I{\kf59} thought{\kf44} we{\kf20} would{\kf20} hit{\kf20} it{\kf20} off{\kf10} so{\kf10}-o{\kf67} well
+Dialogue: 0,0:00:44.37,0:00:46.42,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf20} you{\kf40} keep{\kf40} me{\kf30} guess{\kf55}ing
+Dialogue: 0,0:00:46.87,0:00:50.27,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf39} knew{\kf49} not{\kf49} where{\kf20} your{\kf20} reck{\kf20}less{\kf25}ness{\kf30} would{\kf68} dwell
+Dialogue: 0,0:00:51.03,0:00:53.19,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} you're{\kf47} still{\kf10} no{\kf28}-ot{\kf28} list{\kf64}ening
+Dialogue: 0,0:00:53.74,0:00:56.17,DEFAULT,,0,0,0,,{\r}{\kf45}Your{\kf18} o{\kf18}-or{\kf14}der's{\kf36} way{\kf40} too{\kf72} tall
+Dialogue: 0,0:00:56.87,0:00:59.51,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf43} you{\kf19} thi{\kf10}-ink{\kf10} you've{\kf48} got{\kf19} i{\kf19}-it{\kf77} all
+Dialogue: 0,0:01:00.20,0:01:03.67,DEFAULT,,0,0,0,,{\r}{\kf20}Well,{\kf50} I'm{\kf35} not{\kf20} gon{\kf20}na{\kf20} break{\kf25} your{\kf50} fall{\kf30} this{\kf77} time
+Dialogue: 0,0:01:04.58,0:01:06.97,DEFAULT,,0,0,0,,{\r}{\kf28}Let's{\kf19} see{\kf47} how{\kf42} far{\kf19} yo{\kf19}-ou{\kf66} climb
+Dialogue: 0,0:01:08.12,0:01:10.20,DEFAULT,,0,0,0,,{\r}{\kf19}So{\kf29} here's{\kf34} what{\kf15} I'm{\kf19} try{\kf19}ing{\kf15} to{\kf58} say
+Dialogue: 0,0:01:11.24,0:01:13.81,DEFAULT,,0,0,0,,{\r}{\kf20}I'll{\kf30} let{\kf30} you{\kf49} fly{\kf20} a{\kf20}-a{\kf49}-wa{\kf39}-ay
+Dialogue: 0,0:01:14.58,0:01:17.22,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf62} don't{\kf18} you{\kf18} da{\kf18}-are{\kf44} come{\kf44} ba{\kf42}-ack
+Dialogue: 0,0:01:17.91,0:01:20.41,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf15} ma{\kf25}-ade{\kf40} a{\kf40} big{\kf30} mis{\kf50}ta{\kf30}-ake
+Dialogue: 0,0:01:21.24,0:01:23.53,DEFAULT,,0,0,0,,{\r}{\kf19}So{\kf42} leave{\kf47} while{\kf37} you{\kf14} sti{\kf14}-ill{\kf56} can
+Dialogue: 0,0:01:24.58,0:01:27.08,DEFAULT,,0,0,0,,{\r}{\kf21}Be{\kf16}fo{\kf26}-ore{\kf31} my{\kf42} pa{\kf31}tience{\kf52} fa{\kf31}-ades
+Dialogue: 0,0:01:27.91,0:01:30.48,DEFAULT,,0,0,0,,{\r}{\kf18}Now{\kf64} this{\kf18} is{\kf18} yo{\kf18}-our{\kf37} last{\kf46} cha{\kf38}-ance
+Dialogue: 0,0:01:31.24,0:01:33.81,DEFAULT,,0,0,0,,{\r}{\kf20}I'll{\kf30} let{\kf30} you{\kf49} fly{\kf20} a{\kf20}-a{\kf49}-wa{\kf39}-ay
+Dialogue: 0,0:01:34.58,0:01:37.01,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf68} don't{\kf14} you{\kf22} da{\kf32}-are{\kf45} come{\kf44} back
+Dialogue: 0,0:01:50.41,0:01:53.71,DEFAULT,,0,0,0,,{\r}{\kf45}I{\kf41} know,{\kf14} you{\kf50} try{\kf14} to{\kf18} keep{\kf18} me{\kf32} on{\kf32} the{\kf66} ground
+Dialogue: 0,0:01:54.37,0:01:56.42,DEFAULT,,0,0,0,,{\r}{\kf19}'Cause{\kf19} you're{\kf14} sca{\kf19}-ared{\kf43} of{\kf19} your{\kf19} li{\kf53}mits
+Dialogue: 0,0:01:57.08,0:02:00.38,DEFAULT,,0,0,0,,{\r}{\kf34}If{\kf59} you,{\kf44} can't{\kf20} keep{\kf20} up{\kf20} you{\kf25} should{\kf10} sta{\kf20}-ay{\kf78} down
+Dialogue: 0,0:02:01.03,0:02:03.19,DEFAULT,,0,0,0,,{\r}{\kf18}'Cause{\kf18} I'm{\kf44} in{\kf39} it{\kf18} to{\kf18} win{\kf60} it
+Dialogue: 0,0:02:03.74,0:02:06.24,DEFAULT,,0,0,0,,{\r}{\kf34}You'll{\kf43} try{\kf13} to{\kf39} take{\kf43} it{\kf78} all
+Dialogue: 0,0:02:07.08,0:02:10.20,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf19}'ll{\kf37} watch{\kf10} you{\kf47} rise{\kf47} and{\kf42} fa{\kf19}-a{\kf19}-a{\kf53}-all
+Dialogue: 0,0:02:10.41,0:02:13.26,DEFAULT,,0,0,0,,{\r}{\kf43}You{\kf43} dare{\kf10} to{\kf39} take{\kf17} my{\kf17}-y{\kf116} wings
+Dialogue: 0,0:02:13.74,0:02:17.35,DEFAULT,,0,0,0,,{\r}{\kf35}How{\kf35} well{\kf18} can{\kf40} you{\kf18} fly{\kf44}-y{\kf18} in{\kf70} light{\kf83}ning
+Dialogue: 0,0:02:18.53,0:02:20.51,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf18} guess{\kf18} I'll{\kf18} see{\kf18} you{\kf18} a{\kf90}round
+Dialogue: 0,0:02:21.24,0:02:23.81,DEFAULT,,0,0,0,,{\r}{\kf17}I'll{\kf34} watch{\kf38} you{\kf42} fly{\kf42} a{\kf84}way
+Dialogue: 0,0:02:24.58,0:02:27.04,DEFAULT,,0,0,0,,{\r}{\kf18}Glide{\kf40} on{\kf44} to{\kf44} calm{\kf31}er{\kf70} skies
+Dialogue: 0,0:02:27.91,0:02:30.86,DEFAULT,,0,0,0,,{\r}{\kf19}You've{\kf37} made{\kf47} your{\kf37} last{\kf28} mis{\kf47}ta{\kf19}-a{\kf61}-ake
+Dialogue: 0,0:02:31.24,0:02:33.71,DEFAULT,,0,0,0,,{\r}{\kf18}So{\kf44} you{\kf44} can{\kf35} watch{\kf18} whi{\kf18}le{\kf70} I-
+Dialogue: 0,0:02:34.58,0:02:37.56,DEFAULT,,0,0,0,,{\r}{\kf23}Fly{\kf98} on,{\kf23} through{\kf57} storm{\kf57} and{\kf41} rain
+Dialogue: 0,0:02:37.74,0:02:40.51,DEFAULT,,0,0,0,,{\r}{\kf30}I'll{\kf43} bear{\kf43} the{\kf43} pain,{\kf34} and{\kf85} I'll-
+Dialogue: 0,0:02:41.24,0:02:44.65,DEFAULT,,0,0,0,,{\r}{\kf23}Be{\kf96}come,{\kf23} the{\kf57} Won{\kf57}der{\kf40}bolt{\kf44} that
+Dialogue: 0,0:02:44.78,0:02:47.56,DEFAULT,,0,0,0,,{\r}{\kf43}you{\kf51} could{\kf17} ne{\kf30}ver{\kf137} be
+Dialogue: 0,0:03:53.74,0:03:56.28,DEFAULT,,0,0,0,,{\r}{\kf43}I'll{\kf39} watch{\kf17} you{\kf17} fly{\kf17}-y{\kf43} a{\kf77}way
+Dialogue: 0,0:03:56.87,0:03:59.37,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf39} I'll{\kf44} fi{\kf20}nally{\kf39} rest{\kf20} my{\kf15}-y{\kf53} case
+Dialogue: 0,0:04:00.41,0:04:02.91,DEFAULT,,0,0,0,,{\r}{\kf44}Back{\kf44} out{\kf18} and{\kf18} fo{\kf18}-old{\kf35} your{\kf73} cards
+Dialogue: 0,0:04:03.53,0:04:05.90,DEFAULT,,0,0,0,,{\r}{\kf10}You{\kf47} weren't{\kf47} born{\kf16} to{\kf42} play{\kf31} this{\kf43} part
+Dialogue: 0,0:04:06.07,0:04:08.99,DEFAULT,,0,0,0,,{\r}{\kf31}So,{\kf152} fly{\kf16} a{\kf93}way
+Dialogue: 0,0:04:09.37,0:04:12.04,DEFAULT,,0,0,0,,{\r}{\kf25}Just{\kf159} fly{\kf17} a{\kf66}way,
+Dialogue: 0,0:04:12.32,0:04:13.88,DEFAULT,,0,0,0,,{\r}{\kf19}or{\kf19} you're{\kf19} gon{\kf14}na{\kf43} cra{\kf42}-ash
+Dialogue: 0,0:04:14.58,0:04:17.15,DEFAULT,,0,0,0,,{\r}{\kf19}I'll{\kf29} watch{\kf29} you{\kf48} fly{\kf48} a{\kf48}wa{\kf36}-ay
+Dialogue: 0,0:04:17.91,0:04:20.34,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf66} don't{\kf35} you{\kf18} dare{\kf10} co{\kf27}-ome{\kf69} back

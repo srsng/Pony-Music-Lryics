@@ -1,59 +1,66 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Monument
+Artist: Markarian
+Original Timing: mylittlekaraoke.com by BronyMike
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:28.06,0:00:30.44,DEFAULT,,0,0,0,,{\kf2826}It's{\kf2832} been{\kf2838} five{\kf2826} hun{\kf2826}dred{\kf2869} years
-Dialogue: 0,0:00:30.69,0:00:33.44,DEFAULT,,0,0,0,,{\kf2826}Se{\kf2819}ven{\kf2832} months,{\kf2844} and{\kf2826} twen{\kf2844}ty{\kf2844} days
-Dialogue: 0,0:00:34.06,0:00:36.44,DEFAULT,,0,0,0,,{\kf2819}The{\kf2838} time{\kf2826} and{\kf2826} sea{\kf2832}sons{\kf2819} wea{\kf2819}ther{\kf2838} me
-Dialogue: 0,0:00:36.75,0:00:38.87,DEFAULT,,0,0,0,,{\kf2819}Like{\kf2819} the{\kf2832} moss{\kf2826} u{\kf2819}pon{\kf2826} my{\kf2863} mane
-Dialogue: 0,0:00:39.62,0:00:42.06,DEFAULT,,0,0,0,,{\kf2819}And{\kf2826} when{\kf2832} I{\kf2832} watch{\kf2819} the{\kf2826} sun{\kf2826} come{\kf2826} up
-Dialogue: 0,0:00:42.31,0:00:44.94,DEFAULT,,0,0,0,,{\kf2819}And{\kf2819} it{\kf2838} bathes{\kf2851} me{\kf2826} in{\kf2826} its{\kf2863} rays
-Dialogue: 0,0:00:45.44,0:00:47.87,DEFAULT,,0,0,0,,{\kf2826}It{\kf2832} strikes{\kf2826} me{\kf2832} cold{\kf2832} with{\kf2819}in{\kf2819} my{\kf2832} heart
-Dialogue: 0,0:00:48.31,0:00:50.31,DEFAULT,,0,0,0,,{\kf2819}To{\kf2819} re{\kf2826}mem{\kf2826}ber{\kf2826} I'm{\kf2826} this{\kf2857} way
-Dialogue: 0,0:00:51.44,0:00:54.19,DEFAULT,,0,0,0,,{\kf2826}I{\kf2832} re{\kf2826}mem{\kf2819}ber{\kf2832} long{\kf2826} be{\kf2844}fore{\kf2832} things
-Dialogue: 0,0:00:54.50,0:00:56.50,DEFAULT,,0,0,0,,{\kf2819}Got{\kf2819} to{\kf2826} be{\kf2838} so{\kf2857} wrong
-Dialogue: 0,0:00:57.12,0:00:59.50,DEFAULT,,0,0,0,,{\kf2832}Those{\kf2826} who{\kf2826} spoke{\kf2832} their{\kf2832} minds{\kf2826} did{\kf2819} so
-Dialogue: 0,0:00:59.75,0:01:01.81,DEFAULT,,0,0,0,,{\kf2819}With{\kf2838} laugh{\kf2826}ter{\kf2826} and{\kf2819} with{\kf2857} song
-Dialogue: 0,0:01:02.87,0:01:04.94,DEFAULT,,0,0,0,,{\kf2826}Then{\kf2832} one{\kf2826} day{\kf2826} I{\kf2832} crossed{\kf2819} the{\kf2819} line
-Dialogue: 0,0:01:05.19,0:01:07.69,DEFAULT,,0,0,0,,{\kf2819}And{\kf2838} dared{\kf2832} stand{\kf2826} up{\kf2838} to{\kf2851} you
-Dialogue: 0,0:01:08.25,0:01:10.69,DEFAULT,,0,0,0,,{\kf2819}The{\kf2838} last{\kf2838} thing{\kf2819} that{\kf2832} I{\kf2819} e{\kf2819}ver{\kf2832} did
-Dialogue: 0,0:01:11.06,0:01:13.31,DEFAULT,,0,0,0,,{\kf2819}And{\kf2819} so{\kf2857} your{\kf2826} gar{\kf2826}den{\kf2857} grew
-Dialogue: 0,0:01:13.69,0:01:16.12,DEFAULT,,0,0,0,,{\kf2826}Now{\kf2826} I{\kf2832} bake{\kf2838} be{\kf2826}neath{\kf2819} the{\kf2857} sun
-Dialogue: 0,0:01:16.50,0:01:18.94,DEFAULT,,0,0,0,,{\kf2826}And{\kf2826} I{\kf2832} freeze{\kf2844} be{\kf2826}neath{\kf2819} the{\kf2857} snow
-Dialogue: 0,0:01:19.87,0:01:21.94,DEFAULT,,0,0,0,,{\kf2819}Pa{\kf2826}tient{\kf2819}ly{\kf2832} I{\kf2832} bide{\kf2826} my{\kf2826} time
-Dialogue: 0,0:01:22.19,0:01:24.37,DEFAULT,,0,0,0,,{\kf2813}As{\kf2819} the{\kf2826} de{\kf2838}cades{\kf2819} come{\kf2819} and{\kf2863} go
-Dialogue: 0,0:01:25.25,0:01:27.81,DEFAULT,,0,0,0,,{\kf2832}Still{\kf2819} with{\kf2826} each{\kf2832} dawn{\kf2819} and{\kf2832} brand{\kf2819} new{\kf2832} sun
-Dialogue: 0,0:01:28.12,0:01:30.69,DEFAULT,,0,0,0,,{\kf2851}I{\kf2819} hope{\kf2819} to{\kf2857}day's{\kf2819} the{\kf2863} day
-Dialogue: 0,0:01:32.56,0:01:35.19,DEFAULT,,0,0,0,,{\kf2819}That{\kf2819} for{\kf2826}give{\kf2832}ness{\kf2819} finds{\kf2819} its{\kf2819} way{\kf2819} to{\kf2832} you
-Dialogue: 0,0:01:35.50,0:01:37.94,DEFAULT,,0,0,0,,{\kf2819}And{\kf2819} you{\kf2826} let{\kf2838} me{\kf2819} fly{\kf2819} a{\kf2863}way
-Dialogue: 0,0:01:44.62,0:01:46.81,DEFAULT,,0,0,0,,{\kf2832}I{\kf2838} and{\kf2826} e{\kf2826}very{\kf2826}one{\kf2819} you{\kf2826} see
-Dialogue: 0,0:01:47.12,0:01:49.31,DEFAULT,,0,0,0,,{\kf2819}Who{\kf2832} de{\kf2826}co{\kf2844}rate{\kf2844} your{\kf2844} path
-Dialogue: 0,0:01:50.12,0:01:52.56,DEFAULT,,0,0,0,,{\kf2819}Are{\kf2819} on{\kf2819}ly{\kf2844} those{\kf2838} whose{\kf2826} guilt{\kf2819} and{\kf2826} crimes
-Dialogue: 0,0:01:52.87,0:01:54.69,DEFAULT,,0,0,0,,{\kf2819}Are{\kf2826} mea{\kf2832}sured{\kf2819} by{\kf2819} your{\kf2851} wrath
-Dialogue: 0,0:01:55.62,0:01:58.06,DEFAULT,,0,0,0,,{\kf2826}I{\kf2826} watch{\kf2826} you{\kf2826} as{\kf2819} you{\kf2832} pass{\kf2832} by{\kf2819} me
-Dialogue: 0,0:01:58.31,0:02:00.75,DEFAULT,,0,0,0,,{\kf2851}Eyes{\kf2826} cast{\kf2819} u{\kf2832}pon{\kf2838} the{\kf2844} ground
-Dialogue: 0,0:02:01.31,0:02:03.87,DEFAULT,,0,0,0,,{\kf2819}Your{\kf2826} head{\kf2826} bowed{\kf2826} low{\kf2832} in{\kf2826} si{\kf2826}lent{\kf2838} shame
-Dialogue: 0,0:02:04.25,0:02:06.44,DEFAULT,,0,0,0,,{\kf2826}Weighed{\kf2832} down{\kf2838} by{\kf2826} gol{\kf2819}den{\kf2851} crown
-Dialogue: 0,0:02:07.12,0:02:09.25,DEFAULT,,0,0,0,,{\kf2826}Your{\kf2826} high{\kf2832}ness{\kf2826} I{\kf2832} bow{\kf2851} to
-Dialogue: 0,0:02:09.75,0:02:12.37,DEFAULT,,0,0,0,,{\kf2819}Not{\kf2826} by{\kf2838} choice{\kf2838} or{\kf2826} own{\kf2832} ac{\kf2851}cord
-Dialogue: 0,0:02:13.00,0:02:15.37,DEFAULT,,0,0,0,,{\kf2819}For{\kf2826}e{\kf2819}ver{\kf2826} with{\kf2838} my{\kf2826} nose{\kf2819} a{\kf2832}gainst
-Dialogue: 0,0:02:15.69,0:02:17.94,DEFAULT,,0,0,0,,{\kf2819}The{\kf2832} plinth{\kf2826} where{\kf2826} I{\kf2826} am{\kf2863} stored
-Dialogue: 0,0:02:18.56,0:02:21.00,DEFAULT,,0,0,0,,{\kf2819}Yet{\kf2819} there{\kf2819} is{\kf2826} no{\kf2838} hate{\kf2819} with{\kf2826}in{\kf2832} my{\kf2826} heart
-Dialogue: 0,0:02:21.31,0:02:23.69,DEFAULT,,0,0,0,,{\kf2819}I{\kf2826} no{\kf2832} lon{\kf2844}ger{\kf2826} need{\kf2826} a{\kf2851}tone
-Dialogue: 0,0:02:24.44,0:02:26.75,DEFAULT,,0,0,0,,{\kf2819}I{\kf2819} pi{\kf2826}ty{\kf2838} you,{\kf2844} the{\kf2819} on{\kf2819}ly{\kf2832} one
-Dialogue: 0,0:02:27.06,0:02:29.00,DEFAULT,,0,0,0,,{\kf2819}With{\kf2819} a{\kf2826} heart{\kf2826} made{\kf2819} out{\kf2819} of{\kf2838} stone
-Dialogue: 0,0:02:29.81,0:02:32.06,DEFAULT,,0,0,0,,{\kf2826}Still{\kf2819} I{\kf2826} bake{\kf2838} be{\kf2826}neath{\kf2819} the{\kf2844} sun
-Dialogue: 0,0:02:32.62,0:02:35.00,DEFAULT,,0,0,0,,{\kf2819}And{\kf2826} I{\kf2832} freeze{\kf2838} be{\kf2819}neath{\kf2819} the{\kf2851} snow
-Dialogue: 0,0:02:35.94,0:02:37.94,DEFAULT,,0,0,0,,{\kf2819}Pa{\kf2826}tient{\kf2826}ly{\kf2838} I{\kf2826} bide{\kf2826} my{\kf2819} time
-Dialogue: 0,0:02:38.19,0:02:40.50,DEFAULT,,0,0,0,,{\kf2819}As{\kf2819} the{\kf2826} de{\kf2832}cades{\kf2819} come{\kf2819} and{\kf2863} go
-Dialogue: 0,0:02:41.19,0:02:43.56,DEFAULT,,0,0,0,,{\kf2832}Still{\kf2819} with{\kf2826} each{\kf2832} dawn{\kf2819}~{\kf2819} and{\kf2826} brand{\kf2819} new{\kf2832} sun
-Dialogue: 0,0:02:43.87,0:02:46.12,DEFAULT,,0,0,0,,{\kf2832}I{\kf2826} hope{\kf2819} to{\kf2844}day's{\kf2819} the{\kf2857} day
-Dialogue: 0,0:02:48.00,0:02:50.69,DEFAULT,,0,0,0,,{\kf2819}That{\kf2819} for{\kf2826}give{\kf2838}ness{\kf2819} finds{\kf2819} its{\kf2826} way{\kf2819} to{\kf2832} you
-Dialogue: 0,0:02:51.00,0:02:53.31,DEFAULT,,0,0,0,,{\kf2819}And{\kf2819} you{\kf2826} let{\kf2832} me{\kf2819} fly{\kf2819} a{\kf2863}way
+Dialogue: 0,0:00:28.07,0:00:30.44,DEFAULT,,0,0,0,,{\r}{\kf26}It's{\kf34} been{\kf42} five{\kf26} hun{\kf26}dred{\kf84} years
+Dialogue: 0,0:00:30.69,0:00:33.44,DEFAULT,,0,0,0,,{\r}{\kf28}Se{\kf18}ven{\kf37} months,{\kf55} and{\kf28} twen{\kf55}ty{\kf54} days
+Dialogue: 0,0:00:34.06,0:00:36.44,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf46} time{\kf27} and{\kf27} sea{\kf37}sons{\kf18} wea{\kf18}ther{\kf47} me
+Dialogue: 0,0:00:36.75,0:00:38.88,DEFAULT,,0,0,0,,{\r}{\kf17}Like{\kf17} the{\kf34} moss{\kf25} u{\kf17}pon{\kf25} my{\kf77} mane
+Dialogue: 0,0:00:39.63,0:00:42.06,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf30} when{\kf41} I{\kf41} watch{\kf20} the{\kf30} sun{\kf30} come{\kf32} up
+Dialogue: 0,0:00:42.31,0:00:44.94,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf17} it{\kf42} bathes{\kf59} me{\kf25} in{\kf25} its{\kf77} rays
+Dialogue: 0,0:00:45.44,0:00:47.88,DEFAULT,,0,0,0,,{\r}{\kf28}It{\kf38} strikes{\kf28} me{\kf38} cold{\kf38} with{\kf19}in{\kf19} my{\kf36} heart
+Dialogue: 0,0:00:48.31,0:00:50.31,DEFAULT,,0,0,0,,{\r}{\kf17}To{\kf17} re{\kf25}mem{\kf25}ber{\kf25} I'm{\kf25} this{\kf66} way
+Dialogue: 0,0:00:51.44,0:00:54.19,DEFAULT,,0,0,0,,{\r}{\kf28}I{\kf38} re{\kf28}mem{\kf19}ber{\kf38} long{\kf28} be{\kf57}fore{\kf39} things
+Dialogue: 0,0:00:54.50,0:00:56.50,DEFAULT,,0,0,0,,{\r}{\kf20}Got{\kf20} to{\kf30} be{\kf50} so{\kf80} wrong
+Dialogue: 0,0:00:57.13,0:00:59.50,DEFAULT,,0,0,0,,{\r}{\kf41}Those{\kf31} who{\kf31} spoke{\kf41} their{\kf41} minds{\kf31} did{\kf22} so
+Dialogue: 0,0:00:59.75,0:01:01.81,DEFAULT,,0,0,0,,{\r}{\kf18}With{\kf45} laugh{\kf27}ter{\kf27} and{\kf18} with{\kf71} song
+Dialogue: 0,0:01:02.88,0:01:04.94,DEFAULT,,0,0,0,,{\r}{\kf29}Then{\kf39} one{\kf29} day{\kf29} I{\kf39} crossed{\kf20} the{\kf21} line
+Dialogue: 0,0:01:05.19,0:01:07.69,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf48} dared{\kf38} stand{\kf29} up{\kf48} to{\kf68} you
+Dialogue: 0,0:01:08.25,0:01:10.69,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf47} last{\kf47} thing{\kf19} that{\kf38} I{\kf19} e{\kf19}ver{\kf36} did
+Dialogue: 0,0:01:11.06,0:01:13.31,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf17} so{\kf69} your{\kf26} gar{\kf26}den{\kf70} grew
+Dialogue: 0,0:01:13.69,0:01:16.13,DEFAULT,,0,0,0,,{\r}{\kf26}Now{\kf26} I{\kf35} bake{\kf44} be{\kf26}neath{\kf17} the{\kf70} sun
+Dialogue: 0,0:01:16.50,0:01:18.94,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf25} I{\kf34} freeze{\kf50} be{\kf25}neath{\kf17} the{\kf68} snow
+Dialogue: 0,0:01:19.88,0:01:21.94,DEFAULT,,0,0,0,,{\r}{\kf20}Pa{\kf29}tient{\kf20}ly{\kf39} I{\kf39} bide{\kf29} my{\kf30} time
+Dialogue: 0,0:01:22.19,0:01:24.38,DEFAULT,,0,0,0,,{\r}{\kf10}As{\kf18} the{\kf27} de{\kf46}cades{\kf18} come{\kf18} and{\kf82} go
+Dialogue: 0,0:01:25.25,0:01:27.81,DEFAULT,,0,0,0,,{\r}{\kf41}Still{\kf20} with{\kf31} each{\kf41} dawn{\kf20} and{\kf41} brand{\kf20} new{\kf42} sun
+Dialogue: 0,0:01:28.13,0:01:30.69,DEFAULT,,0,0,0,,{\r}{\kf60}I{\kf17} hope{\kf17} to{\kf68}day's{\kf17} the{\kf77} day
+Dialogue: 0,0:01:32.56,0:01:35.19,DEFAULT,,0,0,0,,{\r}{\kf23}That{\kf23} for{\kf34}give{\kf46}ness{\kf23} finds{\kf23} its{\kf23} way{\kf23} to{\kf44} you
+Dialogue: 0,0:01:35.50,0:01:37.94,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} you{\kf29} let{\kf49} me{\kf20} fly{\kf20} a{\kf86}way
+Dialogue: 0,0:01:44.63,0:01:46.81,DEFAULT,,0,0,0,,{\r}{\kf38}I{\kf48} and{\kf29} e{\kf29}very{\kf29}one{\kf19} you{\kf27} see
+Dialogue: 0,0:01:47.13,0:01:49.31,DEFAULT,,0,0,0,,{\r}{\kf16}Who{\kf32} de{\kf24}co{\kf49}rate{\kf49} your{\kf49} path
+Dialogue: 0,0:01:50.13,0:01:52.56,DEFAULT,,0,0,0,,{\r}{\kf20}Are{\kf20} on{\kf20}ly{\kf59} those{\kf49} whose{\kf29} guilt{\kf20} and{\kf27} crimes
+Dialogue: 0,0:01:52.88,0:01:54.69,DEFAULT,,0,0,0,,{\r}{\kf18}Are{\kf27} mea{\kf36}sured{\kf18} by{\kf18} your{\kf64} wrath
+Dialogue: 0,0:01:55.63,0:01:58.06,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf30} watch{\kf30} you{\kf30} as{\kf20} you{\kf41} pass{\kf41} by{\kf22} me
+Dialogue: 0,0:01:58.31,0:02:00.75,DEFAULT,,0,0,0,,{\r}{\kf63}Eyes{\kf27} cast{\kf18} u{\kf36}pon{\kf45} the{\kf55} ground
+Dialogue: 0,0:02:01.31,0:02:03.88,DEFAULT,,0,0,0,,{\r}{\kf20}Your{\kf30} head{\kf30} bowed{\kf30} low{\kf39} in{\kf30} si{\kf30}lent{\kf47} shame
+Dialogue: 0,0:02:04.25,0:02:06.44,DEFAULT,,0,0,0,,{\r}{\kf27}Weighed{\kf36} down{\kf46} by{\kf27} gol{\kf18}den{\kf65} crown
+Dialogue: 0,0:02:07.13,0:02:09.25,DEFAULT,,0,0,0,,{\r}{\kf26}Your{\kf26} high{\kf35}ness{\kf26} I{\kf35} bow{\kf64} to
+Dialogue: 0,0:02:09.75,0:02:12.38,DEFAULT,,0,0,0,,{\r}{\kf18}Not{\kf27} by{\kf45} choice{\kf45} or{\kf27} own{\kf36} ac{\kf64}cord
+Dialogue: 0,0:02:13.00,0:02:15.38,DEFAULT,,0,0,0,,{\r}{\kf20}For{\kf30}e{\kf20}ver{\kf30} with{\kf50} my{\kf30} nose{\kf20} a{\kf38}gainst
+Dialogue: 0,0:02:15.69,0:02:17.94,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf38} plinth{\kf28} where{\kf28} I{\kf28} am{\kf84} stored
+Dialogue: 0,0:02:18.56,0:02:21.00,DEFAULT,,0,0,0,,{\r}{\kf19}Yet{\kf19} there{\kf19} is{\kf28} no{\kf47} hate{\kf19} with{\kf28}in{\kf38} my{\kf27} heart
+Dialogue: 0,0:02:21.31,0:02:23.69,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf26} no{\kf34} lon{\kf51}ger{\kf26} need{\kf26} a{\kf58}tone
+Dialogue: 0,0:02:24.44,0:02:26.75,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf18} pi{\kf27}ty{\kf44} you,{\kf53} the{\kf18} on{\kf18}ly{\kf35} one
+Dialogue: 0,0:02:27.06,0:02:29.00,DEFAULT,,0,0,0,,{\r}{\kf20}With{\kf20} a{\kf31} heart{\kf31} made{\kf20} out{\kf20} of{\kf52} stone
+Dialogue: 0,0:02:29.81,0:02:32.06,DEFAULT,,0,0,0,,{\r}{\kf28}Still{\kf19} I{\kf28} bake{\kf47} be{\kf28}neath{\kf19} the{\kf56} sun
+Dialogue: 0,0:02:32.63,0:02:35.00,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf29} I{\kf38} freeze{\kf48} be{\kf19}neath{\kf19} the{\kf66} snow
+Dialogue: 0,0:02:35.94,0:02:37.94,DEFAULT,,0,0,0,,{\r}{\kf19}Pa{\kf29}tient{\kf29}ly{\kf48} I{\kf29} bide{\kf29} my{\kf17} time
+Dialogue: 0,0:02:38.19,0:02:40.50,DEFAULT,,0,0,0,,{\r}{\kf19}As{\kf19} the{\kf29} de{\kf38}cades{\kf19} come{\kf19} and{\kf88} go
+Dialogue: 0,0:02:41.19,0:02:43.56,DEFAULT,,0,0,0,,{\r}{\kf37}Still{\kf18} with{\kf27} each{\kf37} dawn{\kf18}~{\kf18} and{\kf27} brand{\kf18} new{\kf38} sun
+Dialogue: 0,0:02:43.88,0:02:46.13,DEFAULT,,0,0,0,,{\r}{\kf36}I{\kf27} hope{\kf18} to{\kf54}day's{\kf18} the{\kf72} day
+Dialogue: 0,0:02:48.00,0:02:50.69,DEFAULT,,0,0,0,,{\r}{\kf22}That{\kf22} for{\kf32}give{\kf54}ness{\kf22} finds{\kf22} its{\kf32} way{\kf22} to{\kf41} you
+Dialogue: 0,0:02:51.00,0:02:53.31,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} you{\kf29} let{\kf38} me{\kf19} fly{\kf19} a{\kf88}way

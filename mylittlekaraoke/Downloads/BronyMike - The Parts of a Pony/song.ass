@@ -1,80 +1,87 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: The Parts of a Pony
+Artist: BronyMike, StormWolf
+Original Timing: mylittlekaraoke.com by BronyMike
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:21.49,0:00:23.13,DEFAULT,,0,0,0,,{\kf2161}Now{\kf2167} colts{\kf2161} and{\kf2156} fil{\kf2161}lies{\kf2161} of{\kf2156} ev{\kf2156}ery{\kf2156} po{\kf2156}ny{\kf2161} kind
-Dialogue: 0,0:00:23.29,0:00:24.99,DEFAULT,,0,0,0,,{\kf2156}Here's{\kf2156} a{\kf2156} song{\kf2161} a{\kf2161}bout{\kf2161} you{\kf2156} from{\kf2156} your{\kf2161} front{\kf2156} to{\kf2156} your{\kf2167} hind
-Dialogue: 0,0:00:25.32,0:00:26.96,DEFAULT,,0,0,0,,{\kf2161}Hair{\kf2167}y,{\kf2161} coat{\kf2167}y,{\kf2161} musc{\kf2161}le{\kf2156}y,{\kf2156} and{\kf2167} bone{\kf2161}y,
-Dialogue: 0,0:00:27.13,0:00:28.43,DEFAULT,,0,0,0,,{\kf2161}These{\kf2156} are{\kf2156} the{\kf2161} parts{\kf2156} of{\kf2156} the{\kf2167} po{\kf2173}ny!
-Dialogue: 0,0:00:28.71,0:00:30.29,DEFAULT,,0,0,0,,{\kf2156}Now{\kf2156} the{\kf2161} poll{\kf2156} is{\kf2156} the{\kf2161} name{\kf2156} for{\kf2156} the{\kf2167} top{\kf2156} of{\kf2156} the{\kf2156} head
-Dialogue: 0,0:00:30.51,0:00:32.15,DEFAULT,,0,0,0,,{\kf2156}Where{\kf2156} the{\kf2161} fore{\kf2161}lock{\kf2161} grows,{\kf2161} and{\kf2161} then{\kf2161} it's{\kf2156} said
-Dialogue: 0,0:00:32.32,0:00:33.90,DEFAULT,,0,0,0,,{\kf2156}That{\kf2156} the{\kf2161} mane{\kf2156} down{\kf2156} the{\kf2161} neck{\kf2161} is{\kf2167} known{\kf2156} as{\kf2156} the{\kf2156} crest
-Dialogue: 0,0:00:34.07,0:00:35.70,DEFAULT,,0,0,0,,{\kf2156}But{\kf2156} we'll{\kf2161} fin{\kf2156}ish{\kf2156} off{\kf2156} the{\kf2156} head{\kf2161} be{\kf2156}fore{\kf2156} we{\kf2161} start{\kf2156} with{\kf2156} the{\kf2156} rest
-Dialogue: 0,0:00:35.93,0:00:37.51,DEFAULT,,0,0,0,,{\kf2156}Well{\kf2156} your{\kf2161} ears{\kf2161} they{\kf2161} heard{\kf2156} that{\kf2156} your{\kf2167} eyes,{\kf2161} they{\kf2161} saw
-Dialogue: 0,0:00:37.67,0:00:39.31,DEFAULT,,0,0,0,,{\kf2156}That{\kf2156} a{\kf2161} po{\kf2156}ny's{\kf2156} got{\kf2156} a{\kf2161} nose{\kf2156} and{\kf2156} a{\kf2161} muz{\kf2156}zle{\kf2156} and{\kf2156} a{\kf2156} jaw
-Dialogue: 0,0:00:39.54,0:00:41.11,DEFAULT,,0,0,0,,{\kf2161}Be{\kf2167}tween{\kf2156} them's{\kf2156} a{\kf2161} mouth{\kf2156} that'{\kf2156}ll{\kf2167} laugh{\kf2161} and{\kf2161} speak
-Dialogue: 0,0:00:41.34,0:00:42.97,DEFAULT,,0,0,0,,{\kf2161}And{\kf2161} smile{\kf2167} real{\kf2167} wide{\kf2161} from{\kf2161} cheek{\kf2167} to{\kf2161} cheek
-Dialogue: 0,0:00:43.14,0:00:44.78,DEFAULT,,0,0,0,,{\kf2156}Now{\kf2156} the{\kf2161} mouth{\kf2156} is{\kf2156} a{\kf2167} tool{\kf2156} that{\kf2156} can{\kf2161} pick{\kf2167} things{\kf2156} up
-Dialogue: 0,0:00:44.95,0:00:46.53,DEFAULT,,0,0,0,,{\kf2161}And{\kf2167} eat{\kf2156} off{\kf2156} a{\kf2167} plate{\kf2167} or{\kf2161} drink{\kf2156} from{\kf2156} a{\kf2156} cup
-Dialogue: 0,0:00:46.75,0:00:48.33,DEFAULT,,0,0,0,,{\kf2156}And{\kf2156} the{\kf2161} fore{\kf2167}head's{\kf2167} hard{\kf2156} and{\kf2156} pro{\kf2167}tects{\kf2161} your{\kf2156} brain
-Dialogue: 0,0:00:48.50,0:00:50.14,DEFAULT,,0,0,0,,{\kf2156}Which{\kf2156} con{\kf2161}nects{\kf2156} to{\kf2156} the{\kf2167} spine{\kf2156} which{\kf2156} is{\kf2156} un{\kf2156}der{\kf2156}neath{\kf2156} the{\kf2156} mane!
-Dialogue: 0,0:00:50.31,0:00:51.94,DEFAULT,,0,0,0,,{\kf2156}Now{\kf2156} a{\kf2156} u{\kf2156}ni{\kf2161}corn's{\kf2161} head{\kf2156} has{\kf2156} a{\kf2161} spe{\kf2167}cial{\kf2156} horn
-Dialogue: 0,0:00:52.11,0:00:53.80,DEFAULT,,0,0,0,,{\kf2156}And{\kf2156} it's{\kf2161} made{\kf2161} of{\kf2161} stuff{\kf2161} called{\kf2161} a{\kf2167}li{\kf2161}corn
-Dialogue: 0,0:00:53.97,0:00:55.55,DEFAULT,,0,0,0,,{\kf2161}Cast{\kf2161} ma{\kf2161}gi{\kf2161}cal{\kf2173} spells{\kf2156} that{\kf2156} you've{\kf2156} stu{\kf2156}died{\kf2167} and{\kf2156} read
-Dialogue: 0,0:00:55.78,0:00:57.02,DEFAULT,,0,0,0,,{\kf2161}And{\kf2167} those{\kf2156} are{\kf2156} the{\kf2161} parts{\kf2156} of{\kf2156} the{\kf2161} head!
-Dialogue: 0,0:00:59.61,0:01:01.02,DEFAULT,,0,0,0,,{\kf2161}Next{\kf2161} let's{\kf2161} slide{\kf2161} right{\kf2161} down{\kf2161} your{\kf2161} spine
-Dialogue: 0,0:01:01.19,0:01:02.77,DEFAULT,,0,0,0,,{\kf2156}To{\kf2156} the{\kf2161} parts{\kf2156} on{\kf2156} the{\kf2161} back{\kf2161} of{\kf2167} all{\kf2161} po{\kf2161}ny{\kf2156}kind
-Dialogue: 0,0:01:02.99,0:01:04.63,DEFAULT,,0,0,0,,{\kf2156}There's{\kf2156} the{\kf2156} wi{\kf2161}thers{\kf2156} and{\kf2156} the{\kf2161} back{\kf2156} and{\kf2156} the{\kf2161} loin{\kf2156} and{\kf2156} the{\kf2156} hip
-Dialogue: 0,0:01:04.80,0:01:06.38,DEFAULT,,0,0,0,,{\kf2156}And{\kf2156} the{\kf2161} croup{\kf2156} and{\kf2156} the{\kf2161} dock{\kf2156} and{\kf2156} the{\kf2161} tail{\kf2156} you{\kf2156} can{\kf2156} whip
-Dialogue: 0,0:01:06.60,0:01:08.24,DEFAULT,,0,0,0,,{\kf2161}Now{\kf2167} still{\kf2156} on{\kf2156} the{\kf2161} back{\kf2161} of{\kf2161} pe{\kf2161}ga{\kf2161}si
-Dialogue: 0,0:01:08.41,0:01:10.04,DEFAULT,,0,0,0,,{\kf2156}There{\kf2156} are{\kf2161} two{\kf2161} spe{\kf2156}cial{\kf2161} things{\kf2156} that'{\kf2156}ll{\kf2161} help{\kf2161} you{\kf2156} fly
-Dialogue: 0,0:01:10.21,0:01:11.85,DEFAULT,,0,0,0,,{\kf2161}With{\kf2167} bones{\kf2161} and{\kf2161} joints{\kf2161} and{\kf2156} fea{\kf2156}thers{\kf2161} and{\kf2161} things,
-Dialogue: 0,0:01:12.24,0:01:13.48,DEFAULT,,0,0,0,,{\kf2161}These{\kf2156} are{\kf2156} the{\kf2161} parts{\kf2156} of{\kf2156} the{\kf2167} wi{\kf2167}-ings
-Dialogue: 0,0:01:13.82,0:01:15.40,DEFAULT,,0,0,0,,{\kf2161}The{\kf2161} fea{\kf2156}thers{\kf2156} on{\kf2156} the{\kf2161} end{\kf2161} that{\kf2161} pick{\kf2156} up{\kf2156} air
-Dialogue: 0,0:01:15.57,0:01:17.20,DEFAULT,,0,0,0,,{\kf2156}Are{\kf2156} the{\kf2161} most{\kf2161} im{\kf2167}port{\kf2161}ant,{\kf2161} so{\kf2161} take{\kf2156} care
-Dialogue: 0,0:01:17.43,0:01:19.29,DEFAULT,,0,0,0,,{\kf2156}Of{\kf2156} the{\kf2167} ones{\kf2161} on{\kf2161} top{\kf2156} that{\kf2156} are{\kf2156} called{\kf2156} the{\kf2167} pri{\kf2167}mar{\kf2161}ies
-Dialogue: 0,0:01:19.46,0:01:21.10,DEFAULT,,0,0,0,,{\kf2161}Then{\kf2156} on{\kf2156} the{\kf2161} bot{\kf2156}tom{\kf2156} are{\kf2156} your{\kf2161} se{\kf2161}con{\kf2161}da{\kf2167}ries
-Dialogue: 0,0:01:21.26,0:01:22.67,DEFAULT,,0,0,0,,{\kf2161}If{\kf2161} your{\kf2161} wings{\kf2161} are{\kf2161} o{\kf2156}pen{\kf2161} and{\kf2161} wide
-Dialogue: 0,0:01:22.84,0:01:24.48,DEFAULT,,0,0,0,,{\kf2161}You'll{\kf2167} see{\kf2161} some{\kf2167} fea{\kf2161}thers{\kf2161} tucked{\kf2161} in{\kf2161}side
-Dialogue: 0,0:01:24.65,0:01:26.23,DEFAULT,,0,0,0,,{\kf2161}They{\kf2161} help{\kf2161} catch{\kf2161} air{\kf2156} and{\kf2156} they're{\kf2161} not{\kf2161} o{\kf2161}vert
-Dialogue: 0,0:01:26.40,0:01:27.86,DEFAULT,,0,0,0,,{\kf2156}They're{\kf2156} your{\kf2161} pri{\kf2161}ma{\kf2156}ry{\kf2156} and{\kf2161} se{\kf2156}con{\kf2161}da{\kf2161}ry{\kf2161} co{\kf2161}verts
-Dialogue: 0,0:01:28.20,0:01:29.84,DEFAULT,,0,0,0,,{\kf2156}Now{\kf2156} the{\kf2161} les{\kf2167}ser{\kf2161} co{\kf2161}verts{\kf2161} still{\kf2161} catch{\kf2156} breeze
-Dialogue: 0,0:01:30.01,0:01:31.64,DEFAULT,,0,0,0,,{\kf2156}And{\kf2156} your{\kf2161} wing{\kf2161}pit{\kf2161} fea{\kf2156}thers{\kf2156} are{\kf2156} your{\kf2161} ax{\kf2161}il{\kf2161}la{\kf2156}ries
-Dialogue: 0,0:01:31.81,0:01:33.50,DEFAULT,,0,0,0,,{\kf2161}To{\kf2161} fold{\kf2161} the{\kf2161} wings{\kf2161} bend{\kf2161} at{\kf2161} two{\kf2161} points
-Dialogue: 0,0:01:33.67,0:01:35.42,DEFAULT,,0,0,0,,{\kf2161}And{\kf2161} those{\kf2156} are{\kf2156} the{\kf2161} mar{\kf2156}gin{\kf2156} and{\kf2156} the{\kf2161} car{\kf2161}pal{\kf2167} joints
-Dialogue: 0,0:01:51.72,0:01:53.29,DEFAULT,,0,0,0,,{\kf2161}Now{\kf2161} back{\kf2156} to{\kf2156} the{\kf2161} throat{\kf2161} which{\kf2161} goes{\kf2156} to{\kf2156} the{\kf2156} chest
-Dialogue: 0,0:01:53.46,0:01:55.10,DEFAULT,,0,0,0,,{\kf2161}Which{\kf2161} goes{\kf2156} to{\kf2156} the{\kf2156} bar{\kf2161}rel{\kf2156} where{\kf2156} the{\kf2156} stom{\kf2161}ach{\kf2167} di{\kf2156}gests
-Dialogue: 0,0:01:55.27,0:01:56.90,DEFAULT,,0,0,0,,{\kf2156}There's{\kf2156} a{\kf2161} li{\kf2156}ver{\kf2156} and{\kf2156} a{\kf2167} heart{\kf2156} and{\kf2156} a{\kf2167} lung{\kf2161} or{\kf2156} two
-Dialogue: 0,0:01:57.07,0:01:58.76,DEFAULT,,0,0,0,,{\kf2156}And{\kf2156} the{\kf2161} rib{\kf2161}cage{\kf2161} keeps{\kf2161} them{\kf2161} safe{\kf2161} for{\kf2161} you
-Dialogue: 0,0:01:59.16,0:02:00.51,DEFAULT,,0,0,0,,{\kf2161}In{\kf2156}to{\kf2156} the{\kf2167} bo{\kf2161}dy,{\kf2167} there{\kf2161} ex{\kf2156}tends
-Dialogue: 0,0:02:00.68,0:02:02.32,DEFAULT,,0,0,0,,{\kf2161}The{\kf2167} shoul{\kf2161}der{\kf2167} and{\kf2161} the{\kf2167} arm{\kf2161} it{\kf2156} bends
-Dialogue: 0,0:02:02.54,0:02:04.18,DEFAULT,,0,0,0,,{\kf2161}From{\kf2161} high{\kf2161} up{\kf2161} there{\kf2161} we'll{\kf2161} go{\kf2161} down{\kf2156} low
-Dialogue: 0,0:02:04.35,0:02:05.93,DEFAULT,,0,0,0,,{\kf2156}There's{\kf2156} the{\kf2156} up{\kf2161}per{\kf2167} arm{\kf2161} and{\kf2161} the{\kf2161} el{\kf2173}bow!
-Dialogue: 0,0:02:06.38,0:02:07.73,DEFAULT,,0,0,0,,{\kf2161}Next{\kf2156} are{\kf2156} the{\kf2161} fore{\kf2161}arm{\kf2161} and{\kf2161} the{\kf2156} knee
-Dialogue: 0,0:02:07.90,0:02:09.54,DEFAULT,,0,0,0,,{\kf2156}And{\kf2156} the{\kf2161} fet{\kf2161}lock{\kf2161} and{\kf2167} I{\kf2167} do{\kf2161} de{\kf2156}cree
-Dialogue: 0,0:02:09.70,0:02:11.34,DEFAULT,,0,0,0,,{\kf2156}This{\kf2156} a{\kf2156}na{\kf2156}to{\kf2161}my{\kf2167} song{\kf2161} we're{\kf2161} al{\kf2161}most{\kf2156} done
-Dialogue: 0,0:02:11.57,0:02:13.20,DEFAULT,,0,0,0,,{\kf2161}We'll{\kf2156} do{\kf2156} the{\kf2161} hind{\kf2161} legs{\kf2161} and{\kf2161} have{\kf2161} some{\kf2156} fun
-Dialogue: 0,0:02:13.37,0:02:14.95,DEFAULT,,0,0,0,,{\kf2161}The{\kf2161} leg's{\kf2156} got{\kf2156} the{\kf2161} hoof{\kf2156} and{\kf2156} the{\kf2167} co{\kf2161}ro{\kf2161}net
-Dialogue: 0,0:02:15.12,0:02:16.81,DEFAULT,,0,0,0,,{\kf2156}That{\kf2156} con{\kf2161}nects{\kf2156} to{\kf2156} the{\kf2161} pas{\kf2161}tern{\kf2161} and{\kf2161} I'd{\kf2156} bet
-Dialogue: 0,0:02:16.98,0:02:18.84,DEFAULT,,0,0,0,,{\kf2156}That{\kf2156} the{\kf2161} an{\kf2161}kle's{\kf2161} flex{\kf2156}i{\kf2161}ble{\kf2156} and{\kf2161} goes{\kf2156} to{\kf2156} the{\kf2161} can{\kf2156}non
-Dialogue: 0,0:02:19.01,0:02:20.64,DEFAULT,,0,0,0,,{\kf2161}These{\kf2156} are{\kf2156} im{\kf2161}por{\kf2161}tant,{\kf2161} if{\kf2161} you're{\kf2161} stan{\kf2156}din'
-Dialogue: 0,0:02:20.81,0:02:22.17,DEFAULT,,0,0,0,,{\kf2161}Next{\kf2156} go{\kf2156}in'{\kf2161} up{\kf2161} we've{\kf2161} got{\kf2161} the{\kf2156} hock
-Dialogue: 0,0:02:22.34,0:02:24.03,DEFAULT,,0,0,0,,{\kf2161}It{\kf2161} bends{\kf2156} up{\kf2156} the{\kf2161} leg{\kf2156} so{\kf2156} a{\kf2161} po{\kf2156}ny{\kf2161} can{\kf2161} walk
-Dialogue: 0,0:02:24.20,0:02:25.78,DEFAULT,,0,0,0,,{\kf2161}We{\kf2161} star{\kf2156}ted{\kf2156} with{\kf2156} the{\kf2161} bot{\kf2156}tom{\kf2156} and{\kf2156} we're{\kf2161} go{\kf2156}ing{\kf2161} up{\kf2156} high
-Dialogue: 0,0:02:25.94,0:02:27.64,DEFAULT,,0,0,0,,{\kf2156}There's{\kf2156} the{\kf2161} gas{\kf2156}kin{\kf2156} and{\kf2156} the{\kf2156} quar{\kf2156}ter{\kf2156} and{\kf2156} the{\kf2156} sti{\kf2156}fle{\kf2156} and{\kf2156} the{\kf2161} thigh
-Dialogue: 0,0:02:27.81,0:02:29.38,DEFAULT,,0,0,0,,{\kf2156}There's{\kf2156} the{\kf2161} flank{\kf2156} on{\kf2156} the{\kf2167} side{\kf2156} and{\kf2156} the{\kf2161} haunch{\kf2156} near{\kf2156} the{\kf2156} top
-Dialogue: 0,0:02:29.55,0:02:31.19,DEFAULT,,0,0,0,,{\kf2156}And{\kf2156} there's{\kf2161} one{\kf2161} last{\kf2167} part{\kf2161} be{\kf2167}fore{\kf2161} we{\kf2161} stop
-Dialogue: 0,0:02:31.41,0:02:32.99,DEFAULT,,0,0,0,,{\kf2156}When{\kf2156} your{\kf2161} spe{\kf2161}cial{\kf2167} ta{\kf2161}lent{\kf2161} shines{\kf2156} in{\kf2156} the{\kf2156} dark
-Dialogue: 0,0:02:33.16,0:02:34.85,DEFAULT,,0,0,0,,{\kf2156}You{\kf2156} can{\kf2156} show{\kf2156} it{\kf2156} to{\kf2156} the{\kf2161} world{\kf2156} with{\kf2156} your{\kf2167} cu{\kf2167}tie{\kf2161} mark!
-Dialogue: 0,0:02:35.02,0:02:36.66,DEFAULT,,0,0,0,,{\kf2161}The{\kf2161} parts{\kf2156} of{\kf2156} the{\kf2161} po{\kf2161}ny{\kf2161} are{\kf2161} so{\kf2156} cool
-Dialogue: 0,0:02:36.83,0:02:38.46,DEFAULT,,0,0,0,,{\kf2161}So{\kf2161} keep{\kf2161} in{\kf2161} shape{\kf2161} and{\kf2161} stay{\kf2161} in{\kf2161} school
-Dialogue: 0,0:02:38.63,0:02:40.27,DEFAULT,,0,0,0,,{\kf2161}And{\kf2167} strong{\kf2161} and{\kf2161} smart{\kf2161} you'll{\kf2161} sure{\kf2161}ly{\kf2161} be,
-Dialogue: 0,0:02:40.66,0:02:41.96,DEFAULT,,0,0,0,,{\kf2161}Those{\kf2156} are{\kf2156} the{\kf2161} parts{\kf2156} of{\kf2156} the{\kf2167} po{\kf2173}ny!
-Dialogue: 0,0:03:07.73,0:03:11.00,DEFAULT,,0,0,0,,{\kf2184}Those{\kf2167} are{\kf2161} the{\kf2173} parts{\kf2161} of{\kf2161} the{\kf2189} po{\kf2252}ny!
+Dialogue: 0,0:00:21.50,0:00:23.13,DEFAULT,,0,0,0,,{\r}{\kf18}Now{\kf27} colts{\kf18} and{\kf10} fil{\kf18}lies{\kf18} of{\kf10} ev{\kf10}ery{\kf10} po{\kf10}ny{\kf15} kind
+Dialogue: 0,0:00:23.30,0:00:24.99,DEFAULT,,0,0,0,,{\r}{\kf10}Here's{\kf10} a{\kf10} song{\kf19} a{\kf19}bout{\kf19} you{\kf10} from{\kf10} your{\kf19} front{\kf10} to{\kf10} your{\kf23} hind
+Dialogue: 0,0:00:25.33,0:00:26.96,DEFAULT,,0,0,0,,{\r}{\kf16}Hair{\kf23}y,{\kf16} coat{\kf23}y,{\kf16} musc{\kf16}le{\kf10}y,{\kf10} and{\kf23} bone{\kf11}y,
+Dialogue: 0,0:00:27.13,0:00:28.43,DEFAULT,,0,0,0,,{\r}{\kf17}These{\kf10} are{\kf10} the{\kf17} parts{\kf10} of{\kf10} the{\kf26} po{\kf30}ny!
+Dialogue: 0,0:00:28.71,0:00:30.29,DEFAULT,,0,0,0,,{\r}{\kf10}Now{\kf10} the{\kf20} poll{\kf10} is{\kf10} the{\kf20} name{\kf10} for{\kf10} the{\kf30} top{\kf10} of{\kf10} the{\kf10} head
+Dialogue: 0,0:00:30.52,0:00:32.15,DEFAULT,,0,0,0,,{\r}{\kf11}Where{\kf11} the{\kf22} fore{\kf22}lock{\kf22} grows,{\kf22} and{\kf22} then{\kf22} it's{\kf10} said
+Dialogue: 0,0:00:32.32,0:00:33.90,DEFAULT,,0,0,0,,{\r}{\kf10}That{\kf10} the{\kf20} mane{\kf10} down{\kf10} the{\kf20} neck{\kf20} is{\kf30} known{\kf10} as{\kf10} the{\kf10} crest
+Dialogue: 0,0:00:34.07,0:00:35.71,DEFAULT,,0,0,0,,{\r}{\kf10}But{\kf10} we'll{\kf19} fin{\kf10}ish{\kf10} off{\kf10} the{\kf10} head{\kf19} be{\kf10}fore{\kf10} we{\kf19} start{\kf10} with{\kf10} the{\kf10} rest
+Dialogue: 0,0:00:35.93,0:00:37.51,DEFAULT,,0,0,0,,{\r}{\kf10}Well{\kf10} your{\kf19} ears{\kf19} they{\kf19} heard{\kf10} that{\kf10} your{\kf28} eyes,{\kf19} they{\kf14} saw
+Dialogue: 0,0:00:37.68,0:00:39.31,DEFAULT,,0,0,0,,{\r}{\kf10}That{\kf10} a{\kf19} po{\kf10}ny's{\kf10} got{\kf10} a{\kf19} nose{\kf10} and{\kf10} a{\kf19} muz{\kf10}zle{\kf10} and{\kf10} a{\kf10} jaw
+Dialogue: 0,0:00:39.54,0:00:41.12,DEFAULT,,0,0,0,,{\r}{\kf18}Be{\kf26}tween{\kf10} them's{\kf10} a{\kf18} mouth{\kf10} that'{\kf10}ll{\kf26} laugh{\kf18} and{\kf12} speak
+Dialogue: 0,0:00:41.34,0:00:42.98,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf17} smile{\kf26} real{\kf26} wide{\kf17} from{\kf17} cheek{\kf26} to{\kf18} cheek
+Dialogue: 0,0:00:43.15,0:00:44.78,DEFAULT,,0,0,0,,{\r}{\kf10}Now{\kf10} the{\kf19} mouth{\kf10} is{\kf10} a{\kf29} tool{\kf10} that{\kf10} can{\kf19} pick{\kf29} things{\kf10} up
+Dialogue: 0,0:00:44.95,0:00:46.53,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf26} eat{\kf10} off{\kf10} a{\kf26} plate{\kf26} or{\kf18} drink{\kf10} from{\kf10} a{\kf10} cup
+Dialogue: 0,0:00:46.76,0:00:48.34,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf10} the{\kf18} fore{\kf26}head's{\kf26} hard{\kf10} and{\kf10} pro{\kf26}tects{\kf18} your{\kf10} brain
+Dialogue: 0,0:00:48.51,0:00:50.14,DEFAULT,,0,0,0,,{\r}{\kf10}Which{\kf10} con{\kf21}nects{\kf10} to{\kf10} the{\kf31} spine{\kf10} which{\kf10} is{\kf10} un{\kf10}der{\kf10}neath{\kf10} the{\kf12} mane!
+Dialogue: 0,0:00:50.31,0:00:51.95,DEFAULT,,0,0,0,,{\r}{\kf10}Now{\kf10} a{\kf10} u{\kf10}ni{\kf21}corn's{\kf21} head{\kf10} has{\kf10} a{\kf21} spe{\kf31}cial{\kf10} horn
+Dialogue: 0,0:00:52.12,0:00:53.81,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf10} it's{\kf20} made{\kf20} of{\kf20} stuff{\kf20} called{\kf20} a{\kf30}li{\kf19}corn
+Dialogue: 0,0:00:53.98,0:00:55.56,DEFAULT,,0,0,0,,{\r}{\kf16}Cast{\kf16} ma{\kf16}gi{\kf16}cal{\kf32} spells{\kf10} that{\kf10} you've{\kf10} stu{\kf10}died{\kf24} and{\kf10} read
+Dialogue: 0,0:00:55.78,0:00:57.02,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf29} those{\kf10} are{\kf10} the{\kf19} parts{\kf10} of{\kf10} the{\kf17} head!
+Dialogue: 0,0:00:59.62,0:01:01.03,DEFAULT,,0,0,0,,{\r}{\kf20}Next{\kf20} let's{\kf20} slide{\kf20} right{\kf20} down{\kf20} your{\kf21} spine
+Dialogue: 0,0:01:01.19,0:01:02.77,DEFAULT,,0,0,0,,{\r}{\kf10}To{\kf10} the{\kf18} parts{\kf10} on{\kf10} the{\kf18} back{\kf18} of{\kf26} all{\kf18} po{\kf18}ny{\kf10}kind
+Dialogue: 0,0:01:03.00,0:01:04.63,DEFAULT,,0,0,0,,{\r}{\kf10}There's{\kf10} the{\kf10} wi{\kf21}thers{\kf10} and{\kf10} the{\kf21} back{\kf10} and{\kf10} the{\kf21} loin{\kf10} and{\kf10} the{\kf11} hip
+Dialogue: 0,0:01:04.80,0:01:06.38,DEFAULT,,0,0,0,,{\r}{\kf11}And{\kf11} the{\kf21} croup{\kf11} and{\kf11} the{\kf21} dock{\kf11} and{\kf11} the{\kf21} tail{\kf11} you{\kf11} can{\kf10} whip
+Dialogue: 0,0:01:06.61,0:01:08.24,DEFAULT,,0,0,0,,{\r}{\kf19}Now{\kf29} still{\kf10} on{\kf10} the{\kf19} back{\kf19} of{\kf19} pe{\kf19}ga{\kf20}si
+Dialogue: 0,0:01:08.41,0:01:10.05,DEFAULT,,0,0,0,,{\r}{\kf10}There{\kf10} are{\kf21} two{\kf21} spe{\kf10}cial{\kf21} things{\kf10} that'{\kf10}ll{\kf21} help{\kf21} you{\kf10} fly
+Dialogue: 0,0:01:10.22,0:01:11.85,DEFAULT,,0,0,0,,{\r}{\kf19}With{\kf29} bones{\kf19} and{\kf19} joints{\kf19} and{\kf10} fea{\kf10}thers{\kf19} and{\kf20} things,
+Dialogue: 0,0:01:12.25,0:01:13.49,DEFAULT,,0,0,0,,{\r}{\kf18}These{\kf10} are{\kf10} the{\kf18} parts{\kf10} of{\kf10} the{\kf27} wi{\kf21}-ings
+Dialogue: 0,0:01:13.83,0:01:15.40,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf21} fea{\kf11}thers{\kf11} on{\kf11} the{\kf21} end{\kf21} that{\kf21} pick{\kf11} up{\kf10} air
+Dialogue: 0,0:01:15.57,0:01:17.21,DEFAULT,,0,0,0,,{\r}{\kf10}Are{\kf10} the{\kf21} most{\kf21} im{\kf31}port{\kf21}ant,{\kf21} so{\kf21} take{\kf10} care
+Dialogue: 0,0:01:17.43,0:01:19.30,DEFAULT,,0,0,0,,{\r}{\kf10}Of{\kf10} the{\kf27} ones{\kf18} on{\kf18} top{\kf10} that{\kf10} are{\kf10} called{\kf10} the{\kf27} pri{\kf27}mar{\kf10}ies
+Dialogue: 0,0:01:19.46,0:01:21.10,DEFAULT,,0,0,0,,{\r}{\kf18}Then{\kf10} on{\kf10} the{\kf18} bot{\kf10}tom{\kf10} are{\kf10} your{\kf18} se{\kf18}con{\kf18}da{\kf24}ries
+Dialogue: 0,0:01:21.27,0:01:22.68,DEFAULT,,0,0,0,,{\r}{\kf19}If{\kf19} your{\kf19} wings{\kf19} are{\kf19} o{\kf10}pen{\kf19} and{\kf17} wide
+Dialogue: 0,0:01:22.85,0:01:24.48,DEFAULT,,0,0,0,,{\r}{\kf18}You'll{\kf27} see{\kf18} some{\kf27} fea{\kf18}thers{\kf18} tucked{\kf18} in{\kf20}side
+Dialogue: 0,0:01:24.65,0:01:26.23,DEFAULT,,0,0,0,,{\r}{\kf20}They{\kf20} help{\kf20} catch{\kf20} air{\kf10} and{\kf10} they're{\kf20} not{\kf20} o{\kf18}vert
+Dialogue: 0,0:01:26.40,0:01:27.87,DEFAULT,,0,0,0,,{\r}{\kf10}They're{\kf10} your{\kf15} pri{\kf15}ma{\kf10}ry{\kf10} and{\kf15} se{\kf10}con{\kf15}da{\kf15}ry{\kf15} co{\kf10}verts
+Dialogue: 0,0:01:28.21,0:01:29.84,DEFAULT,,0,0,0,,{\r}{\kf10}Now{\kf10} the{\kf21} les{\kf31}ser{\kf21} co{\kf21}verts{\kf21} still{\kf21} catch{\kf10} breeze
+Dialogue: 0,0:01:30.01,0:01:31.65,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf10} your{\kf18} wing{\kf18}pit{\kf18} fea{\kf10}thers{\kf10} are{\kf10} your{\kf18} ax{\kf18}il{\kf18}la{\kf10}ries
+Dialogue: 0,0:01:31.81,0:01:33.51,DEFAULT,,0,0,0,,{\r}{\kf21}To{\kf21} fold{\kf21} the{\kf21} wings{\kf21} bend{\kf21} at{\kf21} two{\kf22} points
+Dialogue: 0,0:01:33.68,0:01:35.42,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} those{\kf10} are{\kf10} the{\kf19} mar{\kf10}gin{\kf10} and{\kf10} the{\kf19} car{\kf19}pal{\kf30} joints
+Dialogue: 0,0:01:51.72,0:01:53.30,DEFAULT,,0,0,0,,{\r}{\kf21}Now{\kf21} back{\kf11} to{\kf11} the{\kf21} throat{\kf21} which{\kf21} goes{\kf11} to{\kf11} the{\kf10} chest
+Dialogue: 0,0:01:53.47,0:01:55.10,DEFAULT,,0,0,0,,{\r}{\kf18}Which{\kf18} goes{\kf10} to{\kf10} the{\kf10} bar{\kf18}rel{\kf10} where{\kf10} the{\kf10} stom{\kf18}ach{\kf27} di{\kf10}gests
+Dialogue: 0,0:01:55.27,0:01:56.91,DEFAULT,,0,0,0,,{\r}{\kf10}There's{\kf10} a{\kf18} li{\kf10}ver{\kf10} and{\kf10} a{\kf27} heart{\kf10} and{\kf10} a{\kf27} lung{\kf18} or{\kf10} two
+Dialogue: 0,0:01:57.08,0:01:58.77,DEFAULT,,0,0,0,,{\r}{\kf11}And{\kf11} the{\kf21} rib{\kf21}cage{\kf21} keeps{\kf21} them{\kf21} safe{\kf21} for{\kf21} you
+Dialogue: 0,0:01:59.16,0:02:00.52,DEFAULT,,0,0,0,,{\r}{\kf18}In{\kf10}to{\kf10} the{\kf27} bo{\kf18}dy,{\kf27} there{\kf18} ex{\kf10}tends
+Dialogue: 0,0:02:00.69,0:02:02.32,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf27} shoul{\kf18}der{\kf27} and{\kf18} the{\kf27} arm{\kf18} it{\kf11} bends
+Dialogue: 0,0:02:02.55,0:02:04.18,DEFAULT,,0,0,0,,{\r}{\kf22}From{\kf22} high{\kf22} up{\kf22} there{\kf22} we'll{\kf22} go{\kf22} down{\kf10} low
+Dialogue: 0,0:02:04.35,0:02:05.93,DEFAULT,,0,0,0,,{\r}{\kf10}There's{\kf10} the{\kf10} up{\kf18}per{\kf26} arm{\kf18} and{\kf18} the{\kf18} el{\kf30}bow!
+Dialogue: 0,0:02:06.38,0:02:07.74,DEFAULT,,0,0,0,,{\r}{\kf21}Next{\kf10} are{\kf10} the{\kf21} fore{\kf21}arm{\kf21} and{\kf21} the{\kf10} knee
+Dialogue: 0,0:02:07.90,0:02:09.54,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf10} the{\kf19} fet{\kf19}lock{\kf19} and{\kf29} I{\kf29} do{\kf19} de{\kf10}cree
+Dialogue: 0,0:02:09.71,0:02:11.34,DEFAULT,,0,0,0,,{\r}{\kf10}This{\kf10} a{\kf10}na{\kf10}to{\kf21}my{\kf31} song{\kf21} we're{\kf21} al{\kf21}most{\kf10} done
+Dialogue: 0,0:02:11.57,0:02:13.21,DEFAULT,,0,0,0,,{\r}{\kf22}We'll{\kf11} do{\kf11} the{\kf22} hind{\kf22} legs{\kf22} and{\kf22} have{\kf22} some{\kf10} fun
+Dialogue: 0,0:02:13.37,0:02:14.95,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf19} leg's{\kf10} got{\kf10} the{\kf19} hoof{\kf10} and{\kf10} the{\kf28} co{\kf19}ro{\kf14}net
+Dialogue: 0,0:02:15.12,0:02:16.81,DEFAULT,,0,0,0,,{\r}{\kf11}That{\kf11} con{\kf23}nects{\kf11} to{\kf11} the{\kf23} pas{\kf23}tern{\kf23} and{\kf23} I'd{\kf10} bet
+Dialogue: 0,0:02:16.98,0:02:18.84,DEFAULT,,0,0,0,,{\r}{\kf10}That{\kf10} the{\kf20} an{\kf20}kle's{\kf20} flex{\kf10}i{\kf20}ble{\kf10} and{\kf20} goes{\kf10} to{\kf10} the{\kf20} can{\kf10}non
+Dialogue: 0,0:02:19.01,0:02:20.65,DEFAULT,,0,0,0,,{\r}{\kf22}These{\kf11} are{\kf11} im{\kf22}por{\kf22}tant,{\kf22} if{\kf22} you're{\kf22} stan{\kf10}din'
+Dialogue: 0,0:02:20.82,0:02:22.17,DEFAULT,,0,0,0,,{\r}{\kf21}Next{\kf10} go{\kf10}in'{\kf21} up{\kf21} we've{\kf21} got{\kf21} the{\kf10} hock
+Dialogue: 0,0:02:22.34,0:02:24.03,DEFAULT,,0,0,0,,{\r}{\kf20}It{\kf20} bends{\kf10} up{\kf10} the{\kf20} leg{\kf10} so{\kf10} a{\kf20} po{\kf10}ny{\kf20} can{\kf19} walk
+Dialogue: 0,0:02:24.20,0:02:25.78,DEFAULT,,0,0,0,,{\r}{\kf18}We{\kf18} star{\kf10}ted{\kf10} with{\kf10} the{\kf18} bot{\kf10}tom{\kf10} and{\kf10} we're{\kf18} go{\kf10}ing{\kf18} up{\kf10} high
+Dialogue: 0,0:02:25.95,0:02:27.64,DEFAULT,,0,0,0,,{\r}{\kf10}There's{\kf10} the{\kf20} gas{\kf10}kin{\kf10} and{\kf10} the{\kf10} quar{\kf10}ter{\kf10} and{\kf10} the{\kf10} sti{\kf10}fle{\kf10} and{\kf10} the{\kf19} thigh
+Dialogue: 0,0:02:27.81,0:02:29.39,DEFAULT,,0,0,0,,{\r}{\kf10}There's{\kf10} the{\kf20} flank{\kf10} on{\kf10} the{\kf30} side{\kf10} and{\kf10} the{\kf20} haunch{\kf10} near{\kf10} the{\kf10} top
+Dialogue: 0,0:02:29.56,0:02:31.19,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf10} there's{\kf18} one{\kf18} last{\kf27} part{\kf18} be{\kf27}fore{\kf18} we{\kf18} stop
+Dialogue: 0,0:02:31.42,0:02:33.00,DEFAULT,,0,0,0,,{\r}{\kf10}When{\kf10} your{\kf20} spe{\kf20}cial{\kf30} ta{\kf20}lent{\kf20} shines{\kf10} in{\kf10} the{\kf10} dark
+Dialogue: 0,0:02:33.17,0:02:34.86,DEFAULT,,0,0,0,,{\r}{\kf10}You{\kf10} can{\kf10} show{\kf10} it{\kf10} to{\kf10} the{\kf19} world{\kf10} with{\kf10} your{\kf28} cu{\kf28}tie{\kf14} mark!
+Dialogue: 0,0:02:35.03,0:02:36.66,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf22} parts{\kf11} of{\kf11} the{\kf22} po{\kf22}ny{\kf22} are{\kf22} so{\kf10} cool
+Dialogue: 0,0:02:36.83,0:02:38.47,DEFAULT,,0,0,0,,{\r}{\kf21}So{\kf21} keep{\kf21} in{\kf21} shape{\kf21} and{\kf21} stay{\kf21} in{\kf17} school
+Dialogue: 0,0:02:38.64,0:02:40.27,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf29} strong{\kf19} and{\kf19} smart{\kf19} you'll{\kf19} sure{\kf19}ly{\kf21} be,
+Dialogue: 0,0:02:40.67,0:02:41.96,DEFAULT,,0,0,0,,{\r}{\kf17}Those{\kf10} are{\kf10} the{\kf17} parts{\kf10} of{\kf10} the{\kf26} po{\kf30}ny!
+Dialogue: 0,0:03:07.74,0:03:11.01,DEFAULT,,0,0,0,,{\r}{\kf45}Those{\kf22} are{\kf15} the{\kf30} parts{\kf15} of{\kf15} the{\kf52} po{\kf133}ny!

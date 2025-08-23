@@ -1,47 +1,54 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Light and Darkness (Darkness)
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:22.76,0:01:24.50,DEFAULT,,0,0,0,,{\kf21}If{\kf21} you've{\kf109} seen
-Dialogue: 0,0:01:25.18,0:01:27.32,DEFAULT,,0,0,0,,{\kf17}In{\kf17} the{\kf49} fu{\kf93}ture
-Dialogue: 0,0:01:27.85,0:01:29.34,DEFAULT,,0,0,0,,{\kf21}Tell{\kf113} me
-Dialogue: 0,0:01:30.02,0:01:32.00,DEFAULT,,0,0,0,,{\kf17}What{\kf21} you{\kf45} see{\kf77} there
-Dialogue: 0,0:01:32.72,0:01:34.10,DEFAULT,,0,0,0,,{\kf21}With{\kf105}in
-Dialogue: 0,0:01:34.86,0:01:36.76,DEFAULT,,0,0,0,,{\kf21}All{\kf17} the{\kf45} mad{\kf69}ness
-Dialogue: 0,0:01:37.28,0:01:38.97,DEFAULT,,0,0,0,,{\kf21}I{\kf21} can{\kf105} shine
-Dialogue: 0,0:01:39.70,0:01:42.00,DEFAULT,,0,0,0,,{\kf21}In{\kf21} the{\kf37} dark{\kf105}ness
-Dialogue: 0,0:02:01.23,0:02:04.18,DEFAULT,,0,0,0,,{\kf37}In{\kf33}to{\kf21} the{\kf41} hour{\kf21} of{\kf77} night
-Dialogue: 0,0:02:04.86,0:02:09.38,DEFAULT,,0,0,0,,{\kf45}Where{\kf45} my{\kf45} pain{\kf45} gets{\kf33} left{\kf17}~{\kf25} be{\kf113}hind
-Dialogue: 0,0:02:10.95,0:02:13.85,DEFAULT,,0,0,0,,{\kf33}I{\kf25} won't{\kf21} give{\kf37} up{\kf21} the{\kf77} fight
-Dialogue: 0,0:02:14.58,0:02:19.14,DEFAULT,,0,0,0,,{\kf37}I'll{\kf45} just{\kf41} say{\kf45} that{\kf33} I{\kf29} don't{\kf125} mind
-Dialogue: 0,0:02:20.63,0:02:23.49,DEFAULT,,0,0,0,,{\kf29}What{\kf29} would{\kf21} you{\kf41} do{\kf25} to{\kf73} me
-Dialogue: 0,0:02:24.22,0:02:28.25,DEFAULT,,0,0,0,,{\kf45}If{\kf49} I{\kf41} set{\kf21} the{\kf21} u{\kf21}ni{\kf25}verse{\kf65} free
-Dialogue: 0,0:02:29.14,0:02:31.51,DEFAULT,,0,0,0,,{\kf21}Come{\kf17}~{\kf25} sit{\kf17}~{\kf21} next{\kf13} to{\kf73} me
-Dialogue: 0,0:02:33.65,0:02:38.05,DEFAULT,,0,0,0,,{\kf25}Be{\kf41}hold{\kf45} your{\kf29} ga{\kf33}la{\kf198}xy
-Dialogue: 0,0:02:40.31,0:02:42.04,DEFAULT,,0,0,0,,{\kf17}If{\kf21} you've{\kf109} seen
-Dialogue: 0,0:02:42.72,0:02:44.82,DEFAULT,,0,0,0,,{\kf17}In{\kf21} the{\kf41} fu{\kf93}ture
-Dialogue: 0,0:02:45.47,0:02:46.92,DEFAULT,,0,0,0,,{\kf17}Tell{\kf113} me
-Dialogue: 0,0:02:47.60,0:02:49.58,DEFAULT,,0,0,0,,{\kf17}What{\kf17} you{\kf37} see{\kf77} there
-Dialogue: 0,0:02:50.31,0:02:51.64,DEFAULT,,0,0,0,,{\kf21}With{\kf101}in
-Dialogue: 0,0:02:52.44,0:02:54.38,DEFAULT,,0,0,0,,{\kf21}All{\kf21} the{\kf45} mad{\kf69}ness
-Dialogue: 0,0:02:54.86,0:02:56.51,DEFAULT,,0,0,0,,{\kf21}I{\kf17} can{\kf105} shine
-Dialogue: 0,0:02:57.28,0:02:59.50,DEFAULT,,0,0,0,,{\kf21}In{\kf17} the{\kf37} dark{\kf97}ness
-Dialogue: 0,0:02:59.70,0:03:01.43,DEFAULT,,0,0,0,,{\kf21}If{\kf21} you've{\kf105} seen
-Dialogue: 0,0:03:02.16,0:03:04.30,DEFAULT,,0,0,0,,{\kf17}In{\kf21} the{\kf45} fu{\kf97}ture
-Dialogue: 0,0:03:04.86,0:03:06.35,DEFAULT,,0,0,0,,{\kf21}Tell{\kf117} me
-Dialogue: 0,0:03:06.96,0:03:09.10,DEFAULT,,0,0,0,,{\kf21}What{\kf17} you{\kf45} see{\kf89} there
-Dialogue: 0,0:03:09.66,0:03:11.11,DEFAULT,,0,0,0,,{\kf21}With{\kf109}in
-Dialogue: 0,0:03:11.84,0:03:13.73,DEFAULT,,0,0,0,,{\kf21}All{\kf17} the{\kf49} mad{\kf69}ness
-Dialogue: 0,0:03:14.26,0:03:15.95,DEFAULT,,0,0,0,,{\kf17}I{\kf21} can{\kf109} shine
-Dialogue: 0,0:03:16.68,0:03:18.93,DEFAULT,,0,0,0,,{\kf21}In{\kf17} the{\kf41} dark{\kf105}ness
-Dialogue: 0,0:03:38.41,0:03:40.71,DEFAULT,,0,0,0,,{\kf230}Oooh
-Dialogue: 0,0:03:43.57,0:03:47.48,DEFAULT,,0,0,0,,{\kf37}Ooh{\kf41} ooh{\kf49}~{\kf198} ooh
-Dialogue: 0,0:03:48.41,0:03:52.28,DEFAULT,,0,0,0,,{\kf41}Ooh{\kf53} ooh{\kf49} ooh{\kf190} ooh
-Dialogue: 0,0:03:52.85,0:03:56.35,DEFAULT,,0,0,0,,{\kf351}Oooh
+Dialogue: 0,0:01:22.77,0:01:24.50,DEFAULT,,0,0,0,,{\r}{\kf23}If{\kf23} you've{\kf127} seen
+Dialogue: 0,0:01:25.19,0:01:27.33,DEFAULT,,0,0,0,,{\r}{\kf20}In{\kf20} the{\kf60} fu{\kf114}ture
+Dialogue: 0,0:01:27.85,0:01:29.34,DEFAULT,,0,0,0,,{\r}{\kf23}Tell{\kf126} me
+Dialogue: 0,0:01:30.03,0:01:32.00,DEFAULT,,0,0,0,,{\r}{\kf20}What{\kf25} you{\kf56} see{\kf97} there
+Dialogue: 0,0:01:32.73,0:01:34.10,DEFAULT,,0,0,0,,{\r}{\kf22}With{\kf115}in
+Dialogue: 0,0:01:34.87,0:01:36.76,DEFAULT,,0,0,0,,{\r}{\kf26}All{\kf21} the{\kf56} mad{\kf87}ness
+Dialogue: 0,0:01:37.29,0:01:38.98,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf23} can{\kf123} shine
+Dialogue: 0,0:01:39.71,0:01:42.00,DEFAULT,,0,0,0,,{\r}{\kf26}In{\kf26} the{\kf46} dark{\kf132}ness
+Dialogue: 0,0:02:01.24,0:02:04.18,DEFAULT,,0,0,0,,{\r}{\kf47}In{\kf42}to{\kf26} the{\kf52} hour{\kf26} of{\kf101} night
+Dialogue: 0,0:02:04.87,0:02:09.38,DEFAULT,,0,0,0,,{\r}{\kf55}Where{\kf55} my{\kf55} pain{\kf55} gets{\kf40} left{\kf20}~{\kf30} be{\kf142}hind
+Dialogue: 0,0:02:10.96,0:02:13.86,DEFAULT,,0,0,0,,{\r}{\kf45}I{\kf33} won't{\kf28} give{\kf50} up{\kf28} the{\kf106} fight
+Dialogue: 0,0:02:14.58,0:02:19.14,DEFAULT,,0,0,0,,{\r}{\kf47}I'll{\kf58} just{\kf52} say{\kf58} that{\kf42} I{\kf37} don't{\kf162} mind
+Dialogue: 0,0:02:20.63,0:02:23.50,DEFAULT,,0,0,0,,{\r}{\kf38}What{\kf38} would{\kf27} you{\kf54} do{\kf32} to{\kf97} me
+Dialogue: 0,0:02:24.22,0:02:28.25,DEFAULT,,0,0,0,,{\r}{\kf63}If{\kf69} I{\kf58} set{\kf29} the{\kf29} u{\kf29}ni{\kf35}verse{\kf91} free
+Dialogue: 0,0:02:29.14,0:02:31.52,DEFAULT,,0,0,0,,{\r}{\kf26}Come{\kf21}~{\kf32} sit{\kf21}~{\kf26} next{\kf16} to{\kf96} me
+Dialogue: 0,0:02:33.66,0:02:38.05,DEFAULT,,0,0,0,,{\r}{\kf29}Be{\kf48}hold{\kf53} your{\kf34} ga{\kf39}la{\kf237}xy
+Dialogue: 0,0:02:40.31,0:02:42.04,DEFAULT,,0,0,0,,{\r}{\kf19}If{\kf24} you've{\kf130} seen
+Dialogue: 0,0:02:42.73,0:02:44.83,DEFAULT,,0,0,0,,{\r}{\kf20}In{\kf25} the{\kf50} fu{\kf115}ture
+Dialogue: 0,0:02:45.47,0:02:46.92,DEFAULT,,0,0,0,,{\r}{\kf18}Tell{\kf127} me
+Dialogue: 0,0:02:47.61,0:02:49.58,DEFAULT,,0,0,0,,{\r}{\kf22}What{\kf22} you{\kf50} see{\kf104} there
+Dialogue: 0,0:02:50.31,0:02:51.64,DEFAULT,,0,0,0,,{\r}{\kf22}With{\kf111}in
+Dialogue: 0,0:02:52.45,0:02:54.38,DEFAULT,,0,0,0,,{\r}{\kf26}All{\kf26} the{\kf56} mad{\kf86}ness
+Dialogue: 0,0:02:54.87,0:02:56.52,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf19} can{\kf122} shine
+Dialogue: 0,0:02:57.29,0:02:59.50,DEFAULT,,0,0,0,,{\r}{\kf26}In{\kf21} the{\kf48} dark{\kf127}ness
+Dialogue: 0,0:02:59.71,0:03:01.44,DEFAULT,,0,0,0,,{\r}{\kf24}If{\kf24} you've{\kf125} seen
+Dialogue: 0,0:03:02.17,0:03:04.30,DEFAULT,,0,0,0,,{\r}{\kf19}In{\kf24} the{\kf54} fu{\kf117}ture
+Dialogue: 0,0:03:04.87,0:03:06.36,DEFAULT,,0,0,0,,{\r}{\kf22}Tell{\kf127} me
+Dialogue: 0,0:03:06.96,0:03:09.10,DEFAULT,,0,0,0,,{\r}{\kf25}What{\kf20} you{\kf56} see{\kf113} there
+Dialogue: 0,0:03:09.67,0:03:11.12,DEFAULT,,0,0,0,,{\r}{\kf23}With{\kf122}in
+Dialogue: 0,0:03:11.84,0:03:13.74,DEFAULT,,0,0,0,,{\r}{\kf25}All{\kf20} the{\kf60} mad{\kf85}ness
+Dialogue: 0,0:03:14.26,0:03:15.96,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf23} can{\kf127} shine
+Dialogue: 0,0:03:16.68,0:03:18.94,DEFAULT,,0,0,0,,{\r}{\kf25}In{\kf20} the{\kf50} dark{\kf131}ness
+Dialogue: 0,0:03:38.42,0:03:40.71,DEFAULT,,0,0,0,,{\r}{\kf230}Oooh
+Dialogue: 0,0:03:43.58,0:03:47.49,DEFAULT,,0,0,0,,{\r}{\kf44}Ooh{\kf49} ooh{\kf59}~{\kf239} ooh
+Dialogue: 0,0:03:48.42,0:03:52.29,DEFAULT,,0,0,0,,{\r}{\kf47}Ooh{\kf61} ooh{\kf57} ooh{\kf222} ooh
+Dialogue: 0,0:03:52.85,0:03:56.36,DEFAULT,,0,0,0,,{\r}{\kf351}Oooh

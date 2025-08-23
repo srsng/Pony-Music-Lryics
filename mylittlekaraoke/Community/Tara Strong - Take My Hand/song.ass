@@ -1,52 +1,59 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Take My Hand
+Artist: Tara Strong
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.62,0:00:06.34,DEFAULT,,0,0,0,,{\kf20}Some{\kf27}times{\kf10} I{\kf17} feel{\kf20} like{\kf10} no{\kf7}-o{\kf20}thin'
-Dialogue: 0,0:00:06.47,0:00:08.20,DEFAULT,,0,0,0,,{\kf87}Mmm{\kf73} mmm
-Dialogue: 0,0:00:08.93,0:00:10.66,DEFAULT,,0,0,0,,{\kf14}I{\kf20} like{\kf10} to{\kf24} think{\kf10} of{\kf17} us{\kf27} and
-Dialogue: 0,0:00:10.79,0:00:12.45,DEFAULT,,0,0,0,,{\kf80}Mmm{\kf80} mmm
-Dialogue: 0,0:00:13.11,0:00:16.96,DEFAULT,,0,0,0,,{\kf24}You{\kf17} know{\kf10} that{\kf17} sha{\kf27}dows{\kf20} al{\kf24}ways{\kf83} fa{\kf113}-ade
-Dialogue: 0,0:00:17.62,0:00:19.88,DEFAULT,,0,0,0,,{\kf24}O{\kf27}pen{\kf44} your{\kf100} heart
-Dialogue: 0,0:00:21.80,0:00:24.59,DEFAULT,,0,0,0,,{\kf27}That's{\kf44} where{\kf27} we{\kf146} start
-Dialogue: 0,0:00:25.58,0:00:27.31,DEFAULT,,0,0,0,,{\kf47}Take{\kf40} my{\kf73} hand
-Dialogue: 0,0:00:27.97,0:00:29.67,DEFAULT,,0,0,0,,{\kf24}And{\kf17} we{\kf10} can{\kf27} walk{\kf20} to{\kf17}ge{\kf24}ther
-Dialogue: 0,0:00:29.83,0:00:31.56,DEFAULT,,0,0,0,,{\kf40}'Cross{\kf34} this{\kf73} land
-Dialogue: 0,0:00:32.15,0:00:34.08,DEFAULT,,0,0,0,,{\kf20}Of{\kf17} pla{\kf27}ces{\kf24} we've{\kf20} been{\kf20} ne{\kf27}ver
-Dialogue: 0,0:00:34.14,0:00:35.80,DEFAULT,,0,0,0,,{\kf40}I{\kf40} can't{\kf67} stand
-Dialogue: 0,0:00:36.47,0:00:40.18,DEFAULT,,0,0,0,,{\kf24}When{\kf24} dark{\kf17}ness{\kf24} takes{\kf20} your{\kf30} light{\kf14} a{\kf186}way
-Dialogue: 0,0:00:40.71,0:00:44.63,DEFAULT,,0,0,0,,{\kf24}I'm{\kf20} here{\kf24} no{\kf20} mat{\kf17}ter{\kf24} what{\kf44} they{\kf186} say
-Dialogue: 0,0:00:51.33,0:00:53.32,DEFAULT,,0,0,0,,{\kf20}Some{\kf20} need{\kf10} to{\kf20} speak{\kf24} like{\kf30} ti{\kf47}gers
-Dialogue: 0,0:00:53.65,0:00:55.11,DEFAULT,,0,0,0,,{\kf20}Try{\kf10} to{\kf37} scratch{\kf17} your{\kf44} soul
-Dialogue: 0,0:00:55.61,0:00:57.57,DEFAULT,,0,0,0,,{\kf17}I{\kf17} like{\kf14} to{\kf24} soar{\kf17} like{\kf34} gli{\kf37}ders
-Dialogue: 0,0:00:57.70,0:00:59.43,DEFAULT,,0,0,0,,{\kf17}And{\kf17} get{\kf14} you{\kf20} fee{\kf27}lin'{\kf44} whole
-Dialogue: 0,0:01:00.06,0:01:03.61,DEFAULT,,0,0,0,,{\kf20}I{\kf20} get{\kf17} all{\kf24} your{\kf24} cra{\kf24}zy{\kf90} wa{\kf103}-ays
-Dialogue: 0,0:01:04.37,0:01:06.69,DEFAULT,,0,0,0,,{\kf20}O{\kf40}pen{\kf37} your{\kf107} heart
-Dialogue: 0,0:01:08.55,0:01:11.77,DEFAULT,,0,0,0,,{\kf27}That's{\kf40} where{\kf27} we{\kf200} start
-Dialogue: 0,0:01:12.33,0:01:14.02,DEFAULT,,0,0,0,,{\kf47}Take{\kf37} my{\kf73} hand
-Dialogue: 0,0:01:14.72,0:01:16.45,DEFAULT,,0,0,0,,{\kf20}And{\kf17} we{\kf14} can{\kf20} walk{\kf24} to{\kf20}ge{\kf27}ther
-Dialogue: 0,0:01:16.54,0:01:18.27,DEFAULT,,0,0,0,,{\kf37}'Cross{\kf30} this{\kf70} land
-Dialogue: 0,0:01:18.90,0:01:20.69,DEFAULT,,0,0,0,,{\kf17}Of{\kf20} pla{\kf24}ces{\kf27} we've{\kf20} been{\kf27} ne{\kf24}ver
-Dialogue: 0,0:01:20.89,0:01:22.48,DEFAULT,,0,0,0,,{\kf44}I{\kf30} can't{\kf73} stand
-Dialogue: 0,0:01:23.21,0:01:26.93,DEFAULT,,0,0,0,,{\kf17}When{\kf24} dark{\kf17}ness{\kf24} takes{\kf27} your{\kf30} light{\kf17} a{\kf186}way
-Dialogue: 0,0:01:27.49,0:01:31.34,DEFAULT,,0,0,0,,{\kf20}I'm{\kf20} here{\kf20} no{\kf17} mat{\kf14}ter{\kf24} what{\kf50} they{\kf183} say
-Dialogue: 0,0:01:33.53,0:01:37.35,DEFAULT,,0,0,0,,{\kf50}On{\kf54}ly{\kf24} yo{\kf20}-ur{\kf83} eyes{\kf37} can{\kf40} see
-Dialogue: 0,0:01:37.51,0:01:41.26,DEFAULT,,0,0,0,,{\kf83}Light{\kf44} start{\kf47} to{\kf160} shine
-Dialogue: 0,0:01:42.06,0:01:46.87,DEFAULT,,0,0,0,,{\kf60}I{\kf44} hear{\kf34} your{\kf83} song{\kf37} and{\kf44} your{\kf87} heart
-Dialogue: 0,0:01:47.20,0:01:49.89,DEFAULT,,0,0,0,,{\kf34}Mixed{\kf40} with{\kf180} mine
-Dialogue: 0,0:01:50.52,0:01:52.21,DEFAULT,,0,0,0,,{\kf47}Take{\kf40} my{\kf67} hand
-Dialogue: 0,0:01:52.91,0:01:54.60,DEFAULT,,0,0,0,,{\kf20}And{\kf17} we{\kf14} can{\kf20} walk{\kf24} to{\kf20}ge{\kf17}ther
-Dialogue: 0,0:01:54.80,0:01:56.42,DEFAULT,,0,0,0,,{\kf40}'Cross{\kf40} this{\kf67} land
-Dialogue: 0,0:01:57.15,0:01:58.95,DEFAULT,,0,0,0,,{\kf17}Of{\kf17} pla{\kf20}ces{\kf20} we've{\kf24} been{\kf20} ne{\kf27}ver
-Dialogue: 0,0:01:59.01,0:02:00.67,DEFAULT,,0,0,0,,{\kf54}I{\kf34} can't{\kf60} stand
-Dialogue: 0,0:02:01.40,0:02:05.12,DEFAULT,,0,0,0,,{\kf24}When{\kf24} dark{\kf17}ness{\kf20} takes{\kf24} your{\kf34} light{\kf14} a{\kf186}way
-Dialogue: 0,0:02:05.71,0:02:09.63,DEFAULT,,0,0,0,,{\kf17}I'm{\kf24} here{\kf17} no{\kf17} mat{\kf20}ter{\kf20} what{\kf44} they{\kf190} say
-Dialogue: 0,0:02:09.89,0:02:13.87,DEFAULT,,0,0,0,,{\kf20}We'll{\kf24} sing{\kf17} our{\kf14} me{\kf20}lo{\kf24}dy{\kf40} our{\kf186} way
-Dialogue: 0,0:02:14.14,0:02:16.69,DEFAULT,,0,0,0,,{\kf20}To{\kf20}ge{\kf24}ther{\kf17} eve{\kf20}ry{\kf30}thing's{\kf27} o{\kf67}kay
+Dialogue: 0,0:00:04.62,0:00:06.35,DEFAULT,,0,0,0,,{\r}{\kf27}Some{\kf35}times{\kf13} I{\kf22} feel{\kf27} like{\kf13} no{\kf10}-o{\kf26}thin'
+Dialogue: 0,0:00:06.48,0:00:08.21,DEFAULT,,0,0,0,,{\r}{\kf94}Mmm{\kf79} mmm
+Dialogue: 0,0:00:08.94,0:00:10.66,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf29} like{\kf14} to{\kf34} think{\kf14} of{\kf24} us{\kf39} and
+Dialogue: 0,0:00:10.79,0:00:12.45,DEFAULT,,0,0,0,,{\r}{\kf83}Mmm{\kf83} mmm
+Dialogue: 0,0:00:13.12,0:00:16.96,DEFAULT,,0,0,0,,{\r}{\kf27}You{\kf19} know{\kf12} that{\kf19} sha{\kf31}dows{\kf23} al{\kf27}ways{\kf96} fa{\kf131}-ade
+Dialogue: 0,0:00:17.63,0:00:19.88,DEFAULT,,0,0,0,,{\r}{\kf27}O{\kf31}pen{\kf51} your{\kf117} heart
+Dialogue: 0,0:00:21.81,0:00:24.59,DEFAULT,,0,0,0,,{\r}{\kf31}That's{\kf50} where{\kf31} we{\kf167} start
+Dialogue: 0,0:00:25.59,0:00:27.32,DEFAULT,,0,0,0,,{\r}{\kf50}Take{\kf43} my{\kf80} hand
+Dialogue: 0,0:00:27.98,0:00:29.67,DEFAULT,,0,0,0,,{\r}{\kf29}And{\kf21} we{\kf12} can{\kf33} walk{\kf25} to{\kf21}ge{\kf28}ther
+Dialogue: 0,0:00:29.84,0:00:31.56,DEFAULT,,0,0,0,,{\r}{\kf47}'Cross{\kf39} this{\kf87} land
+Dialogue: 0,0:00:32.16,0:00:34.08,DEFAULT,,0,0,0,,{\r}{\kf25}Of{\kf21} pla{\kf33}ces{\kf29} we've{\kf25} been{\kf25} ne{\kf34}ver
+Dialogue: 0,0:00:34.15,0:00:35.81,DEFAULT,,0,0,0,,{\r}{\kf45}I{\kf45} can't{\kf76} stand
+Dialogue: 0,0:00:36.47,0:00:40.19,DEFAULT,,0,0,0,,{\r}{\kf26}When{\kf26} dark{\kf18}ness{\kf26} takes{\kf22} your{\kf33} light{\kf15} a{\kf206}way
+Dialogue: 0,0:00:40.72,0:00:44.63,DEFAULT,,0,0,0,,{\r}{\kf26}I'm{\kf22} here{\kf26} no{\kf22} mat{\kf18}ter{\kf26} what{\kf48} they{\kf203} say
+Dialogue: 0,0:00:51.34,0:00:53.33,DEFAULT,,0,0,0,,{\r}{\kf23}Some{\kf23} need{\kf12} to{\kf23} speak{\kf27} like{\kf35} ti{\kf56}gers
+Dialogue: 0,0:00:53.66,0:00:55.12,DEFAULT,,0,0,0,,{\r}{\kf23}Try{\kf12} to{\kf42} scratch{\kf19} your{\kf50} soul
+Dialogue: 0,0:00:55.62,0:00:57.57,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21} like{\kf17} to{\kf29} soar{\kf21} like{\kf42} gli{\kf45}ders
+Dialogue: 0,0:00:57.71,0:00:59.43,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} get{\kf17} you{\kf25} fee{\kf34}lin'{\kf55} whole
+Dialogue: 0,0:01:00.06,0:01:03.61,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} get{\kf18} all{\kf26} your{\kf26} cra{\kf26}zy{\kf100} wa{\kf115}-ays
+Dialogue: 0,0:01:04.37,0:01:06.70,DEFAULT,,0,0,0,,{\r}{\kf23}O{\kf46}pen{\kf42} your{\kf121} heart
+Dialogue: 0,0:01:08.55,0:01:11.77,DEFAULT,,0,0,0,,{\r}{\kf29}That's{\kf44} where{\kf29} we{\kf220} start
+Dialogue: 0,0:01:12.34,0:01:14.03,DEFAULT,,0,0,0,,{\r}{\kf50}Take{\kf40} my{\kf79} hand
+Dialogue: 0,0:01:14.73,0:01:16.45,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf21} we{\kf16} can{\kf25} walk{\kf29} to{\kf25}ge{\kf32}ther
+Dialogue: 0,0:01:16.55,0:01:18.28,DEFAULT,,0,0,0,,{\r}{\kf46}'Cross{\kf38} this{\kf89} land
+Dialogue: 0,0:01:18.91,0:01:20.70,DEFAULT,,0,0,0,,{\r}{\kf19}Of{\kf23} pla{\kf27}ces{\kf30} we've{\kf23} been{\kf30} ne{\kf27}ver
+Dialogue: 0,0:01:20.90,0:01:22.49,DEFAULT,,0,0,0,,{\r}{\kf47}I{\kf33} can't{\kf79} stand
+Dialogue: 0,0:01:23.22,0:01:26.93,DEFAULT,,0,0,0,,{\r}{\kf18}When{\kf26} dark{\kf18}ness{\kf26} takes{\kf29} your{\kf33} light{\kf18} a{\kf204}way
+Dialogue: 0,0:01:27.50,0:01:31.35,DEFAULT,,0,0,0,,{\r}{\kf22}I'm{\kf22} here{\kf22} no{\kf19} mat{\kf15}ter{\kf26} what{\kf56} they{\kf203} say
+Dialogue: 0,0:01:33.54,0:01:37.35,DEFAULT,,0,0,0,,{\r}{\kf62}On{\kf66}ly{\kf29} yo{\kf25}-ur{\kf104} eyes{\kf46} can{\kf50} see
+Dialogue: 0,0:01:37.52,0:01:41.27,DEFAULT,,0,0,0,,{\r}{\kf94}Light{\kf49} start{\kf53} to{\kf179} shine
+Dialogue: 0,0:01:42.06,0:01:46.87,DEFAULT,,0,0,0,,{\r}{\kf75}I{\kf54} hear{\kf41} your{\kf104} song{\kf46} and{\kf54} your{\kf107} heart
+Dialogue: 0,0:01:47.21,0:01:49.89,DEFAULT,,0,0,0,,{\r}{\kf35}Mixed{\kf42} with{\kf192} mine
+Dialogue: 0,0:01:50.52,0:01:52.22,DEFAULT,,0,0,0,,{\r}{\kf51}Take{\kf44} my{\kf74} hand
+Dialogue: 0,0:01:52.91,0:01:54.60,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf22} we{\kf17} can{\kf26} walk{\kf30} to{\kf26}ge{\kf22}ther
+Dialogue: 0,0:01:54.80,0:01:56.43,DEFAULT,,0,0,0,,{\r}{\kf44}'Cross{\kf44} this{\kf75} land
+Dialogue: 0,0:01:57.16,0:01:58.95,DEFAULT,,0,0,0,,{\r}{\kf21}Of{\kf21} pla{\kf25}ces{\kf25} we've{\kf29} been{\kf25} ne{\kf33}ver
+Dialogue: 0,0:01:59.02,0:02:00.68,DEFAULT,,0,0,0,,{\r}{\kf60}I{\kf38} can't{\kf68} stand
+Dialogue: 0,0:02:01.41,0:02:05.12,DEFAULT,,0,0,0,,{\r}{\kf26}When{\kf26} dark{\kf18}ness{\kf22} takes{\kf26} your{\kf36} light{\kf15} a{\kf203}way
+Dialogue: 0,0:02:05.72,0:02:09.63,DEFAULT,,0,0,0,,{\r}{\kf19}I'm{\kf26} here{\kf19} no{\kf19} mat{\kf23}ter{\kf23} what{\kf49} they{\kf213} say
+Dialogue: 0,0:02:09.90,0:02:13.88,DEFAULT,,0,0,0,,{\r}{\kf23}We'll{\kf27} sing{\kf19} our{\kf15} me{\kf23}lo{\kf27}dy{\kf46} our{\kf218} way
+Dialogue: 0,0:02:14.15,0:02:16.70,DEFAULT,,0,0,0,,{\r}{\kf23}To{\kf23}ge{\kf27}ther{\kf19} eve{\kf23}ry{\kf34}thing's{\kf30} o{\kf76}kay

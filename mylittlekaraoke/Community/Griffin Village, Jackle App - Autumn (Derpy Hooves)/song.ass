@@ -1,51 +1,58 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Autumn
+Artist: Griffin Village, Jackle App
+Original Timing: mylittlekaraoke.com by amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.28,0:00:04.23,DEFAULT,,0,0,0,,{\kf25}I{\kf16} know{\kf16} a{\kf86} mare{\kf25} she{\kf20} knows{\kf31} me{\kf80} too
-Dialogue: 0,0:00:04.88,0:00:08.53,DEFAULT,,0,0,0,,{\kf16}The{\kf25} stun{\kf25}ning{\kf20} Der{\kf25}py{\kf56} Hooves{\kf25} or{\kf25} Dit{\kf16}zy{\kf61} Doo
-Dialogue: 0,0:00:09.33,0:00:11.28,DEFAULT,,0,0,0,,{\kf16}If{\kf16} you've{\kf16} got{\kf16} a{\kf20} note{\kf25} she'll{\kf20} send{\kf20} it
-Dialogue: 0,0:00:11.78,0:00:13.63,DEFAULT,,0,0,0,,{\kf16}But{\kf16} don't{\kf16} you{\kf20} be{\kf31} mad{\kf25} when{\kf25} it's
-Dialogue: 0,0:00:13.93,0:00:15.78,DEFAULT,,0,0,0,,{\kf20}late{\kf20} by{\kf16} a{\kf31} cou{\kf25}ple{\kf20} mi{\kf16}nutes
-Dialogue: 0,0:00:15.98,0:00:18.93,DEFAULT,,0,0,0,,{\kf20}No{\kf31}po{\kf31}ny's{\kf45} per{\kf50}fect{\kf20}~{\kf75}~
-Dialogue: 0,0:00:20.48,0:00:24.43,DEFAULT,,0,0,0,,{\kf45}Trot{\kf45} with{\kf35} me{\kf25} through{\kf31} the{\kf40} au{\kf45}tumn{\kf45} leaves
-Dialogue: 0,0:00:25.08,0:00:29.08,DEFAULT,,0,0,0,,{\kf40}And{\kf45} keep{\kf45} close{\kf20} to{\kf20} stay{\kf25}~{\kf135} warm
-Dialogue: 0,0:00:29.63,0:00:33.83,DEFAULT,,0,0,0,,{\kf40}Soon{\kf45} you'll{\kf31} see{\kf16} how{\kf20} much{\kf20} you{\kf40} mean{\kf25} to{\kf20}~{\kf75} me
-Dialogue: 0,0:00:34.23,0:00:37.98,DEFAULT,,0,0,0,,{\kf56}Fee{\kf25}lings{\kf20} I've{\kf16} ne{\kf20}ver{\kf25} felt{\kf16} be{\kf160}fore
-Dialogue: 0,0:00:39.13,0:00:41.03,DEFAULT,,0,0,0,,{\kf16}The{\kf25} leaves{\kf25} grow{\kf31} bright{\kf25} and{\kf16} yel{\kf31}low
-Dialogue: 0,0:00:41.28,0:00:43.18,DEFAULT,,0,0,0,,{\kf20}Like{\kf16} her{\kf20} hair{\kf10} and{\kf35} eyes{\kf16} stay{\kf20} mel{\kf20}low
-Dialogue: 0,0:00:43.63,0:00:47.33,DEFAULT,,0,0,0,,{\kf16}There's{\kf25} some{\kf20}thing{\kf35} spe{\kf31}cial{\kf25} 'bout{\kf25} that{\kf155} mare
-Dialogue: 0,0:00:48.13,0:00:50.13,DEFAULT,,0,0,0,,{\kf20}I'd{\kf25} be{\kf16} a{\kf25} hap{\kf25}py{\kf20} fel{\kf31}low
-Dialogue: 0,0:00:50.48,0:00:52.43,DEFAULT,,0,0,0,,{\kf16}If{\kf31} I{\kf20} could{\kf20} just{\kf25} say{\kf20} hel{\kf31}lo
-Dialogue: 0,0:00:52.78,0:00:55.68,DEFAULT,,0,0,0,,{\kf16}Have{\kf20} to{\kf20} be{\kf25} brave{\kf25} just{\kf25} don't{\kf20} be{\kf80} scared
-Dialogue: 0,0:00:56.48,0:00:58.63,DEFAULT,,0,0,0,,{\kf45}So{\kf40} trot{\kf40} with{\kf31} me
-Dialogue: 0,0:00:58.83,0:01:01.08,DEFAULT,,0,0,0,,{\kf25}through{\kf31} the{\kf31} au{\kf45}tumn{\kf65} leaves
-Dialogue: 0,0:01:01.68,0:01:05.53,DEFAULT,,0,0,0,,{\kf40}And{\kf50} keep{\kf35} close{\kf31} to{\kf16} stay{\kf25}~{\kf125} warm
-Dialogue: 0,0:01:06.23,0:01:10.48,DEFAULT,,0,0,0,,{\kf31}Soon{\kf50} you'll{\kf31} see{\kf16} how{\kf20} much{\kf20} you{\kf45} mean{\kf25} to{\kf16}~{\kf86} me
-Dialogue: 0,0:01:10.78,0:01:14.68,DEFAULT,,0,0,0,,{\kf56}Fee{\kf31}lings{\kf20} I've{\kf16} ne{\kf20}ver{\kf20} felt{\kf25} be{\kf165}fore
-Dialogue: 0,0:01:56.78,0:01:58.58,DEFAULT,,0,0,0,,{\kf10}When{\kf10} I{\kf25} see{\kf16} her{\kf20} with{\kf25} her{\kf16} fil{\kf31}ly
-Dialogue: 0,0:01:59.03,0:02:01.03,DEFAULT,,0,0,0,,{\kf10}I{\kf31} know{\kf20} that{\kf25} I'll{\kf31} look{\kf20} si{\kf31}lly
-Dialogue: 0,0:02:01.38,0:02:05.23,DEFAULT,,0,0,0,,{\kf16}I{\kf16} can't{\kf31} stop{\kf20} grin{\kf25}ning{\kf10} ear{\kf16}~{\kf16} to{\kf200} ear
-Dialogue: 0,0:02:06.03,0:02:07.88,DEFAULT,,0,0,0,,{\kf16}But{\kf16} when{\kf20} the{\kf25} air{\kf20} gets{\kf20} chil{\kf31}ly
-Dialogue: 0,0:02:08.08,0:02:10.23,DEFAULT,,0,0,0,,{\kf16}the{\kf25} cute{\kf31}ness{\kf16} near{\kf20}ly{\kf31} kills{\kf31} me
-Dialogue: 0,0:02:10.43,0:02:13.38,DEFAULT,,0,0,0,,{\kf31}That{\kf20} mare{\kf16} de{\kf16}serves{\kf16} mo{\kf16}ther{\kf16} of{\kf20} the{\kf90} year
-Dialogue: 0,0:02:14.23,0:02:16.23,DEFAULT,,0,0,0,,{\kf31}So{\kf31} trot{\kf31} with{\kf31} me
-Dialogue: 0,0:02:16.43,0:02:18.73,DEFAULT,,0,0,0,,{\kf25}through{\kf31} the{\kf35} au{\kf45}tumn{\kf45} leaves
-Dialogue: 0,0:02:19.58,0:02:23.38,DEFAULT,,0,0,0,,{\kf40}and{\kf45} keep{\kf45} close{\kf31} to{\kf20} stay{\kf20}~{\kf146} warm
-Dialogue: 0,0:02:23.93,0:02:28.18,DEFAULT,,0,0,0,,{\kf31}soon{\kf61} you'll{\kf31} see{\kf16} how{\kf20} much{\kf20} you{\kf45} mean{\kf20} to{\kf20}~{\kf86} me
-Dialogue: 0,0:02:28.53,0:02:32.53,DEFAULT,,0,0,0,,{\kf56}Fee{\kf31}lings{\kf20} I've{\kf16} ne{\kf10}ver{\kf16} felt{\kf20} be{\kf56}fore{\kf125}~
-Dialogue: 0,0:02:33.33,0:02:37.08,DEFAULT,,0,0,0,,{\kf25}Fee{\kf16}lings{\kf16} I've{\kf16} ne{\kf31}ver{\kf25} felt{\kf20} be{\kf185}fore
-Dialogue: 0,0:03:16.73,0:03:18.43,DEFAULT,,0,0,0,,{\kf16}I{\kf25} know{\kf16} a{\kf90} mare
-Dialogue: 0,0:03:19.13,0:03:20.53,DEFAULT,,0,0,0,,{\kf16}Whose{\kf10} mind{\kf20} is{\kf70} free
-Dialogue: 0,0:03:21.33,0:03:25.13,DEFAULT,,0,0,0,,{\kf16}You{\kf16} know{\kf25} you're{\kf31} spe{\kf31}cial{\kf16} at{\kf31} least{\kf16} to{\kf16} me{\kf65}~
-Dialogue: 0,0:03:25.93,0:03:27.68,DEFAULT,,0,0,0,,{\kf10}They{\kf20} all{\kf35} say{\kf20} what{\kf40} they
-Dialogue: 0,0:03:27.88,0:03:30.33,DEFAULT,,0,0,0,,{\kf31}want{\kf31} and{\kf31} still{\kf35} be{\kf31} mean
-Dialogue: 0,0:03:30.78,0:03:32.68,DEFAULT,,0,0,0,,{\kf31}What's{\kf31} next{\kf10} for{\kf20}~{\kf31} you
-Dialogue: 0,0:03:33.43,0:03:36.58,DEFAULT,,0,0,0,,{\kf16}That's{\kf31} to{\kf31} be{\kf200} seen
+Dialogue: 0,0:00:00.28,0:00:04.23,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf20} know{\kf20} a{\kf114} mare{\kf33} she{\kf27} knows{\kf40} me{\kf108} too
+Dialogue: 0,0:00:04.88,0:00:08.53,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf31} stun{\kf31}ning{\kf25} Der{\kf31}py{\kf69} Hooves{\kf31} or{\kf31} Dit{\kf19}zy{\kf78} Doo
+Dialogue: 0,0:00:09.33,0:00:11.28,DEFAULT,,0,0,0,,{\r}{\kf20}If{\kf20} you've{\kf20} got{\kf20} a{\kf27} note{\kf34} she'll{\kf27} send{\kf27} it
+Dialogue: 0,0:00:11.78,0:00:13.63,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf19} don't{\kf19} you{\kf26} be{\kf38} mad{\kf32} when{\kf32} it's
+Dialogue: 0,0:00:13.93,0:00:15.78,DEFAULT,,0,0,0,,{\r}{\kf26}late{\kf26} by{\kf19} a{\kf38} cou{\kf32}ple{\kf26} mi{\kf18}nutes
+Dialogue: 0,0:00:15.98,0:00:18.93,DEFAULT,,0,0,0,,{\r}{\kf22}No{\kf33}po{\kf33}ny's{\kf49} per{\kf55}fect{\kf22}~{\kf81}~
+Dialogue: 0,0:00:20.48,0:00:24.43,DEFAULT,,0,0,0,,{\r}{\kf57}Trot{\kf57} with{\kf45} me{\kf32} through{\kf38} the{\kf51} au{\kf57}tumn{\kf58} leaves
+Dialogue: 0,0:00:25.08,0:00:29.08,DEFAULT,,0,0,0,,{\r}{\kf48}And{\kf55} keep{\kf55} close{\kf24} to{\kf24} stay{\kf30}~{\kf164} warm
+Dialogue: 0,0:00:29.63,0:00:33.83,DEFAULT,,0,0,0,,{\r}{\kf51}Soon{\kf57} you'll{\kf38} see{\kf19} how{\kf25} much{\kf25} you{\kf51} mean{\kf32} to{\kf25}~{\kf97} me
+Dialogue: 0,0:00:34.23,0:00:37.98,DEFAULT,,0,0,0,,{\r}{\kf62}Fee{\kf28}lings{\kf22} I've{\kf17} ne{\kf22}ver{\kf28} felt{\kf17} be{\kf179}fore
+Dialogue: 0,0:00:39.13,0:00:41.03,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf29} leaves{\kf29} grow{\kf35} bright{\kf29} and{\kf17} yel{\kf34}low
+Dialogue: 0,0:00:41.28,0:00:43.18,DEFAULT,,0,0,0,,{\r}{\kf25}Like{\kf18} her{\kf25} hair{\kf12} and{\kf43} eyes{\kf18} stay{\kf25} mel{\kf24}low
+Dialogue: 0,0:00:43.63,0:00:47.33,DEFAULT,,0,0,0,,{\r}{\kf17}There's{\kf28} some{\kf22}thing{\kf39} spe{\kf34}cial{\kf28} 'bout{\kf28} that{\kf174} mare
+Dialogue: 0,0:00:48.13,0:00:50.13,DEFAULT,,0,0,0,,{\r}{\kf25}I'd{\kf31} be{\kf19} a{\kf31} hap{\kf31}py{\kf25} fel{\kf38}low
+Dialogue: 0,0:00:50.48,0:00:52.43,DEFAULT,,0,0,0,,{\r}{\kf18}If{\kf37} I{\kf24} could{\kf24} just{\kf30} say{\kf24} hel{\kf38}lo
+Dialogue: 0,0:00:52.78,0:00:55.68,DEFAULT,,0,0,0,,{\r}{\kf19}Have{\kf25} to{\kf25} be{\kf32} brave{\kf32} just{\kf32} don't{\kf25} be{\kf100} scared
+Dialogue: 0,0:00:56.48,0:00:58.63,DEFAULT,,0,0,0,,{\r}{\kf62}So{\kf55} trot{\kf55} with{\kf43} me
+Dialogue: 0,0:00:58.83,0:01:01.08,DEFAULT,,0,0,0,,{\r}{\kf29}through{\kf35} the{\kf35} au{\kf52}tumn{\kf74} leaves
+Dialogue: 0,0:01:01.68,0:01:05.53,DEFAULT,,0,0,0,,{\r}{\kf48}And{\kf60} keep{\kf42} close{\kf36} to{\kf18} stay{\kf30}~{\kf151} warm
+Dialogue: 0,0:01:06.23,0:01:10.48,DEFAULT,,0,0,0,,{\r}{\kf38}Soon{\kf63} you'll{\kf38} see{\kf19} how{\kf25} much{\kf25} you{\kf57} mean{\kf32} to{\kf19}~{\kf109} me
+Dialogue: 0,0:01:10.78,0:01:14.68,DEFAULT,,0,0,0,,{\r}{\kf61}Fee{\kf33}lings{\kf22} I've{\kf17} ne{\kf22}ver{\kf22} felt{\kf28} be{\kf185}fore
+Dialogue: 0,0:01:56.78,0:01:58.58,DEFAULT,,0,0,0,,{\r}{\kf12}When{\kf12} I{\kf30} see{\kf18} her{\kf24} with{\kf30} her{\kf18} fil{\kf36}ly
+Dialogue: 0,0:01:59.03,0:02:01.03,DEFAULT,,0,0,0,,{\r}{\kf12}I{\kf36} know{\kf24} that{\kf30} I'll{\kf36} look{\kf24} si{\kf38}lly
+Dialogue: 0,0:02:01.38,0:02:05.23,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf17} can't{\kf33} stop{\kf22} grin{\kf28}ning{\kf11} ear{\kf17}~{\kf17} to{\kf223} ear
+Dialogue: 0,0:02:06.03,0:02:07.88,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf19} when{\kf26} the{\kf32} air{\kf26} gets{\kf26} chil{\kf37}ly
+Dialogue: 0,0:02:08.08,0:02:10.23,DEFAULT,,0,0,0,,{\r}{\kf20}the{\kf33} cute{\kf39}ness{\kf20} near{\kf26}ly{\kf39} kills{\kf38} me
+Dialogue: 0,0:02:10.43,0:02:13.38,DEFAULT,,0,0,0,,{\r}{\kf38}That{\kf25} mare{\kf19} de{\kf19}serves{\kf19} mo{\kf19}ther{\kf19} of{\kf25} the{\kf112} year
+Dialogue: 0,0:02:14.23,0:02:16.23,DEFAULT,,0,0,0,,{\r}{\kf50}So{\kf50} trot{\kf50} with{\kf50} me
+Dialogue: 0,0:02:16.43,0:02:18.73,DEFAULT,,0,0,0,,{\r}{\kf32}through{\kf38} the{\kf45} au{\kf58}tumn{\kf57} leaves
+Dialogue: 0,0:02:19.58,0:02:23.38,DEFAULT,,0,0,0,,{\r}{\kf44}and{\kf50} keep{\kf50} close{\kf33} to{\kf22} stay{\kf22}~{\kf159} warm
+Dialogue: 0,0:02:23.93,0:02:28.18,DEFAULT,,0,0,0,,{\r}{\kf37}soon{\kf74} you'll{\kf37} see{\kf18} how{\kf25} much{\kf25} you{\kf55} mean{\kf25} to{\kf25}~{\kf104} me
+Dialogue: 0,0:02:28.53,0:02:32.53,DEFAULT,,0,0,0,,{\r}{\kf64}Fee{\kf35}lings{\kf23} I've{\kf17} ne{\kf12}ver{\kf17} felt{\kf23} be{\kf64}fore{\kf145}~
+Dialogue: 0,0:02:33.33,0:02:37.08,DEFAULT,,0,0,0,,{\r}{\kf28}Fee{\kf17}lings{\kf17} I've{\kf17} ne{\kf34}ver{\kf28} felt{\kf23} be{\kf211}fore
+Dialogue: 0,0:03:16.73,0:03:18.43,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf29} know{\kf18} a{\kf105} mare
+Dialogue: 0,0:03:19.13,0:03:20.53,DEFAULT,,0,0,0,,{\r}{\kf18}Whose{\kf12} mind{\kf24} is{\kf86} free
+Dialogue: 0,0:03:21.33,0:03:25.13,DEFAULT,,0,0,0,,{\r}{\kf22}You{\kf22} know{\kf37} you're{\kf45} spe{\kf45}cial{\kf22} at{\kf45} least{\kf22} to{\kf22} me{\kf98}~
+Dialogue: 0,0:03:25.93,0:03:27.68,DEFAULT,,0,0,0,,{\r}{\kf14}They{\kf28} all{\kf49} say{\kf28} what{\kf56} they
+Dialogue: 0,0:03:27.88,0:03:30.33,DEFAULT,,0,0,0,,{\r}{\kf47}want{\kf47} and{\kf47} still{\kf55} be{\kf49} mean
+Dialogue: 0,0:03:30.78,0:03:32.68,DEFAULT,,0,0,0,,{\r}{\kf48}What's{\kf48} next{\kf16} for{\kf32}~{\kf46} you
+Dialogue: 0,0:03:33.43,0:03:36.58,DEFAULT,,0,0,0,,{\r}{\kf17}That's{\kf34} to{\kf34} be{\kf230} seen

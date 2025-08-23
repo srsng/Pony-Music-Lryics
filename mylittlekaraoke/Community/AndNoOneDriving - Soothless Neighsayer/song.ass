@@ -1,41 +1,48 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Soothless Neighsayer
+Artist: AndNoOneDriving
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:53.29,0:00:57.91,DEFAULT,,0,0,0,,{\kf51}Break{\kf188}ing{\kf28} the{\kf74} dawn
-Dialogue: 0,0:00:58.83,0:01:01.16,DEFAULT,,0,0,0,,{\kf42}Bright{\kf19} days{\kf33}~{\kf83} spread
-Dialogue: 0,0:01:04.68,0:01:09.35,DEFAULT,,0,0,0,,{\kf28}You{\kf19}~{\kf147} earth{\kf37}ly{\kf33} po{\kf28}~{\kf19}ny{\kf37}~
-Dialogue: 0,0:01:10.31,0:01:13.33,DEFAULT,,0,0,0,,{\kf55}You{\kf33} saw{\kf28}~{\kf133} them
-Dialogue: 0,0:01:16.21,0:01:19.19,DEFAULT,,0,0,0,,{\kf19}The{\kf23}~{\kf220} sun
-Dialogue: 0,0:01:20.33,0:01:25.23,DEFAULT,,0,0,0,,{\kf23}She'll{\kf23} raise{\kf42}~,{\kf42} weâ€™re{\kf37} run{\kf42}~{\kf147}ning
-Dialogue: 0,0:01:28.16,0:01:32.69,DEFAULT,,0,0,0,,{\kf60}Through{\kf197} o{\kf37}pen{\kf23} fields{\kf60}~
-Dialogue: 0,0:01:33.79,0:01:37.40,DEFAULT,,0,0,0,,{\kf28}And{\kf33} dis{\kf51}tant{\kf23} moun{\kf46}~{\kf106}tains
-Dialogue: 0,0:01:40.19,0:01:44.13,DEFAULT,,0,0,0,,{\kf28}Fall{\kf23}~{\kf133} air{\kf179}~
-Dialogue: 0,0:01:45.13,0:01:48.25,DEFAULT,,0,0,0,,{\kf51}Air,{\kf46} air,{\kf165} air
-Dialogue: 0,0:01:53.05,0:01:55.89,DEFAULT,,0,0,0,,{\kf87}Air{\kf184}~
-Dialogue: 0,0:01:57.08,0:02:00.01,DEFAULT,,0,0,0,,{\kf51}Air,{\kf60} air,{\kf147} air
-Dialogue: 0,0:02:04.12,0:02:09.11,DEFAULT,,0,0,0,,{\kf499}Oooh
-Dialogue: 0,0:02:09.71,0:02:12.86,DEFAULT,,0,0,0,,{\kf51}Ooh{\kf248} ooh
-Dialogue: 0,0:02:15.47,0:02:20.96,DEFAULT,,0,0,0,,{\kf23}Ooh{\kf33}~{\kf472} ooh
-Dialogue: 0,0:02:21.51,0:02:24.72,DEFAULT,,0,0,0,,{\kf60}Ooh{\kf248} ooh
-Dialogue: 0,0:02:27.37,0:02:32.63,DEFAULT,,0,0,0,,{\kf19}Ooh{\kf42}~{\kf444} ooh
-Dialogue: 0,0:02:33.46,0:02:36.25,DEFAULT,,0,0,0,,{\kf60}Ooh{\kf206} ooh
-Dialogue: 0,0:02:39.31,0:02:44.07,DEFAULT,,0,0,0,,{\kf14}Ooh{\kf37}~{\kf403} ooh
-Dialogue: 0,0:02:45.22,0:02:47.55,DEFAULT,,0,0,0,,{\kf92}Ooh{\kf115} ooh
-Dialogue: 0,0:02:51.90,0:03:00.18,DEFAULT,,0,0,0,,{\kf51}Peace{\kf174} in{\kf19} the{\kf78} wild{\kf60} so{\kf69} so{\kf161}lemn
-Dialogue: 0,0:03:02.93,0:03:11.80,DEFAULT,,0,0,0,,{\kf19}The{\kf28}~{\kf161} blades{\kf46} and{\kf60} flo{\kf42}wers{\kf55} sway{\kf74} calm{\kf129}ly
-Dialogue: 0,0:03:14.69,0:03:23.79,DEFAULT,,0,0,0,,{\kf28}All{\kf42}~{\kf197} things{\kf33} a{\kf124}live,{\kf42} cre{\kf55}a{\kf165}ted
-Dialogue: 0,0:03:26.90,0:03:35.55,DEFAULT,,0,0,0,,{\kf42}A{\kf156} wond{\kf51}rous{\kf33} sight{\kf83}~,{\kf60} so{\kf19} was{\kf42}~{\kf138}ted
-Dialogue: 0,0:03:38.62,0:03:47.40,DEFAULT,,0,0,0,,{\kf55}Flow{\kf124} air{\kf202}~,{\kf51} air{\kf119}~{\kf161}~
-Dialogue: 0,0:03:50.47,0:03:54.41,DEFAULT,,0,0,0,,{\kf46}Shake{\kf129} trees{\kf179}~
-Dialogue: 0,0:03:55.50,0:03:59.30,DEFAULT,,0,0,0,,{\kf65}Sooth{\kf83}less{\kf33} neigh{\kf37}say{\kf83}er
-Dialogue: 0,0:04:02.32,0:04:10.74,DEFAULT,,0,0,0,,{\kf55}Flow{\kf119} air{\kf225}~,{\kf60} air{\kf97}~{\kf138}~
-Dialogue: 0,0:04:14.13,0:04:18.29,DEFAULT,,0,0,0,,{\kf51}Moon{\kf119}light{\kf23}~{\kf184}~
-Dialogue: 0,0:04:19.30,0:04:22.91,DEFAULT,,0,0,0,,{\kf60}Glow{\kf55}ing{\kf28}~{\kf19} there{\kf23}~{\kf129}~
+Dialogue: 0,0:00:53.29,0:00:57.92,DEFAULT,,0,0,0,,{\r}{\kf69}Break{\kf256}ing{\kf37} the{\kf100} dawn
+Dialogue: 0,0:00:58.83,0:01:01.16,DEFAULT,,0,0,0,,{\r}{\kf55}Bright{\kf25} days{\kf43}~{\kf110} spread
+Dialogue: 0,0:01:04.69,0:01:09.36,DEFAULT,,0,0,0,,{\r}{\kf37}You{\kf25}~{\kf199} earth{\kf50}ly{\kf44} po{\kf37}~{\kf25}ny{\kf50}~
+Dialogue: 0,0:01:10.32,0:01:13.34,DEFAULT,,0,0,0,,{\r}{\kf67}You{\kf39} saw{\kf34}~{\kf162} them
+Dialogue: 0,0:01:16.22,0:01:19.19,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf26}~{\kf250} sun
+Dialogue: 0,0:01:20.34,0:01:25.23,DEFAULT,,0,0,0,,{\r}{\kf32}She'll{\kf32} raise{\kf57}~,{\kf57} weâ€™re{\kf51} run{\kf57}~{\kf204}ning
+Dialogue: 0,0:01:28.16,0:01:32.69,DEFAULT,,0,0,0,,{\r}{\kf72}Through{\kf238} o{\kf44}pen{\kf28} fields{\kf71}~
+Dialogue: 0,0:01:33.79,0:01:37.41,DEFAULT,,0,0,0,,{\r}{\kf35}And{\kf41} dis{\kf64}tant{\kf29} moun{\kf58}~{\kf135}tains
+Dialogue: 0,0:01:40.20,0:01:44.13,DEFAULT,,0,0,0,,{\r}{\kf30}Fall{\kf25}~{\kf145} air{\kf194}~
+Dialogue: 0,0:01:45.14,0:01:48.25,DEFAULT,,0,0,0,,{\r}{\kf60}Air,{\kf55} air,{\kf196} air
+Dialogue: 0,0:01:53.06,0:01:55.89,DEFAULT,,0,0,0,,{\r}{\kf91}Air{\kf193}~
+Dialogue: 0,0:01:57.08,0:02:00.01,DEFAULT,,0,0,0,,{\r}{\kf58}Air,{\kf68} air,{\kf167} air
+Dialogue: 0,0:02:04.13,0:02:09.12,DEFAULT,,0,0,0,,{\r}{\kf499}Oooh
+Dialogue: 0,0:02:09.71,0:02:12.87,DEFAULT,,0,0,0,,{\r}{\kf53}Ooh{\kf263} ooh
+Dialogue: 0,0:02:15.48,0:02:20.97,DEFAULT,,0,0,0,,{\r}{\kf24}Ooh{\kf33}~{\kf492} ooh
+Dialogue: 0,0:02:21.52,0:02:24.72,DEFAULT,,0,0,0,,{\r}{\kf62}Ooh{\kf258} ooh
+Dialogue: 0,0:02:27.38,0:02:32.64,DEFAULT,,0,0,0,,{\r}{\kf19}Ooh{\kf43}~{\kf464} ooh
+Dialogue: 0,0:02:33.46,0:02:36.25,DEFAULT,,0,0,0,,{\r}{\kf63}Ooh{\kf216} ooh
+Dialogue: 0,0:02:39.32,0:02:44.08,DEFAULT,,0,0,0,,{\r}{\kf14}Ooh{\kf38}~{\kf424} ooh
+Dialogue: 0,0:02:45.22,0:02:47.56,DEFAULT,,0,0,0,,{\r}{\kf104}Ooh{\kf129} ooh
+Dialogue: 0,0:02:51.90,0:03:00.19,DEFAULT,,0,0,0,,{\r}{\kf68}Peace{\kf237} in{\kf25} the{\kf106} wild{\kf81} so{\kf93} so{\kf218}lemn
+Dialogue: 0,0:03:02.93,0:03:11.81,DEFAULT,,0,0,0,,{\r}{\kf27}The{\kf40}~{\kf234} blades{\kf67} and{\kf87} flo{\kf60}wers{\kf80} sway{\kf107} calm{\kf186}ly
+Dialogue: 0,0:03:14.69,0:03:23.80,DEFAULT,,0,0,0,,{\r}{\kf37}All{\kf55}~{\kf263} things{\kf43} a{\kf165}live,{\kf55} cre{\kf73}a{\kf220}ted
+Dialogue: 0,0:03:26.91,0:03:35.56,DEFAULT,,0,0,0,,{\r}{\kf58}A{\kf218} wond{\kf70}rous{\kf45} sight{\kf115}~,{\kf83} so{\kf26} was{\kf58}~{\kf192}ted
+Dialogue: 0,0:03:38.62,0:03:47.41,DEFAULT,,0,0,0,,{\r}{\kf68}Flow{\kf153} air{\kf250}~,{\kf62} air{\kf147}~{\kf199}~
+Dialogue: 0,0:03:50.48,0:03:54.41,DEFAULT,,0,0,0,,{\r}{\kf51}Shake{\kf143} trees{\kf200}~
+Dialogue: 0,0:03:55.51,0:03:59.31,DEFAULT,,0,0,0,,{\r}{\kf82}Sooth{\kf105}less{\kf41} neigh{\kf47}say{\kf105}er
+Dialogue: 0,0:04:02.33,0:04:10.75,DEFAULT,,0,0,0,,{\r}{\kf67}Flow{\kf145} air{\kf273}~,{\kf72} air{\kf117}~{\kf168}~
+Dialogue: 0,0:04:14.13,0:04:18.30,DEFAULT,,0,0,0,,{\r}{\kf56}Moon{\kf132}light{\kf25}~{\kf203}~
+Dialogue: 0,0:04:19.30,0:04:22.92,DEFAULT,,0,0,0,,{\r}{\kf69}Glow{\kf64}ing{\kf32}~{\kf21} there{\kf27}~{\kf149}~

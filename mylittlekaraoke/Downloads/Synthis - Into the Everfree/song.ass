@@ -1,55 +1,62 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Into the Everfree
+Artist: Synthis
+Original Timing: mylittlekaraoke.com by Skybolt, paradigm
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:28.32,0:00:31.26,DEFAULT,,0,0,0,,{\kf2845}The{\kf2864} dark{\kf2858}ness{\kf2852} with{\kf2858}in{\kf2852} the{\kf2852} trees{\kf2889}~
-Dialogue: 0,0:00:31.69,0:00:34.44,DEFAULT,,0,0,0,,{\kf2845}The{\kf2864} mons{\kf2864}ters{\kf2852} from{\kf2864} deep{\kf2870} un{\kf2852}known{\kf2864}~
-Dialogue: 0,0:00:35.07,0:00:37.88,DEFAULT,,0,0,0,,{\kf2852}My{\kf2852} friends{\kf2858} all{\kf2852} are{\kf2864} tel{\kf2858}ling{\kf2852} me{\kf2877}~
-Dialogue: 0,0:00:38.44,0:00:40.63,DEFAULT,,0,0,0,,{\kf2852}I{\kf2852} should{\kf2852}n't{\kf2964} go
-Dialogue: 0,0:00:41.01,0:00:43.94,DEFAULT,,0,0,0,,{\kf2858}Don't{\kf2864} go{\kf2858} in{\kf2852}to{\kf2852} the{\kf2852} E{\kf2852}ver{\kf2870}free
-Dialogue: 0,0:00:44.38,0:00:47.57,DEFAULT,,0,0,0,,{\kf2858}Don't{\kf2864} go{\kf2864} in{\kf2852}to{\kf2845} the{\kf2858} E{\kf2852}ver{\kf2852}free{\kf2852}~{\kf2852}~
-Dialogue: 0,0:00:47.82,0:00:50.69,DEFAULT,,0,0,0,,{\kf2852}Don't{\kf2864} go{\kf2864} in{\kf2852}to{\kf2852} the{\kf2858} E{\kf2845}ver{\kf2877}free
-Dialogue: 0,0:00:51.19,0:00:54.26,DEFAULT,,0,0,0,,{\kf2858}Don't{\kf2870} go{\kf2864} in{\kf2852}to{\kf2852} the{\kf2858} E{\kf2845}ver{\kf2858}free{\kf2864}~
-Dialogue: 0,0:00:55.07,0:00:58.07,DEFAULT,,0,0,0,,{\kf2852}And{\kf2852} I{\kf2858} mean{\kf2858} it{\kf2858} when{\kf2852} I{\kf2852} say{\kf2895}~
-Dialogue: 0,0:00:58.69,0:01:01.63,DEFAULT,,0,0,0,,{\kf2852}The{\kf2870} fo{\kf2864}rest{\kf2858} is{\kf2864} no{\kf2858} place{\kf2902}~
-Dialogue: 0,0:01:02.13,0:01:04.94,DEFAULT,,0,0,0,,{\kf2852}For{\kf2858} po{\kf2864}nies{\kf2858} to{\kf2858} go{\kf2852} play{\kf2895}~
-Dialogue: 0,0:01:05.38,0:01:06.94,DEFAULT,,0,0,0,,{\kf2858}A{\kf2877}lone{\kf2908}~
-Dialogue: 0,0:01:08.82,0:01:11.82,DEFAULT,,0,0,0,,{\kf2852}There's{\kf2858} e{\kf2864}vil{\kf2858} deep{\kf2858} in{\kf2858}side{\kf2902}~
-Dialogue: 0,0:01:12.26,0:01:15.26,DEFAULT,,0,0,0,,{\kf2852}And{\kf2858} no{\kf2864} place{\kf2858} left{\kf2852} to{\kf2852} hide{\kf2914}~
-Dialogue: 0,0:01:15.63,0:01:18.51,DEFAULT,,0,0,0,,{\kf2852}No{\kf2858} one{\kf2864} can{\kf2858} hear{\kf2864} you{\kf2852} cry{\kf2895}~
-Dialogue: 0,0:01:18.94,0:01:20.44,DEFAULT,,0,0,0,,{\kf2852}At{\kf2870} all{\kf2908}~
-Dialogue: 0,0:01:21.57,0:01:23.76,DEFAULT,,0,0,0,,{\kf2852}E{\kf2852}ven{\kf2858} though{\kf2852} it's{\kf2852} mys{\kf2864}te{\kf2852}ri{\kf2858}ous
-Dialogue: 0,0:01:24.01,0:01:27.13,DEFAULT,,0,0,0,,{\kf2852}And{\kf2852} I{\kf2852} know{\kf2858} e{\kf2852}very{\kf2852}po{\kf2858}ny{\kf2852} is{\kf2858} cu{\kf2858}ri{\kf2858}ous
-Dialogue: 0,0:01:28.32,0:01:30.44,DEFAULT,,0,0,0,,{\kf2852}It's{\kf2852} not{\kf2852} worth{\kf2852} it{\kf2852} to{\kf2858} sa{\kf2858}cri{\kf2852}fice
-Dialogue: 0,0:01:30.69,0:01:33.88,DEFAULT,,0,0,0,,{\kf2858}Go{\kf2852}ing{\kf2852} in{\kf2852}to{\kf2852} the{\kf2852} fo{\kf2852}rest{\kf2852} de{\kf2858}void{\kf2852} of{\kf2864} light
-Dialogue: 0,0:01:35.13,0:01:37.26,DEFAULT,,0,0,0,,{\kf2852}Cons{\kf2852}tant{\kf2852} dark{\kf2852}ness{\kf2852} and{\kf2858} strange{\kf2852} e{\kf2858}vents
-Dialogue: 0,0:01:37.57,0:01:40.69,DEFAULT,,0,0,0,,{\kf2852}All{\kf2852} the{\kf2858} ma{\kf2852}gic{\kf2845} and{\kf2858} for{\kf2852}ces{\kf2852} are{\kf2864} quite{\kf2852} in{\kf2858}tense
-Dialogue: 0,0:01:41.82,0:01:44.38,DEFAULT,,0,0,0,,{\kf2852}Lots{\kf2852} of{\kf2852} weird{\kf2858} things{\kf2852} you'd{\kf2858} ne{\kf2852}ver{\kf2858} see{\kf2852} but
-Dialogue: 0,0:01:44.82,0:01:48.94,DEFAULT,,0,0,0,,{\kf2858}Don't{\kf2858} get{\kf2852} lost{\kf2864}~,{\kf2852} in{\kf2852} the{\kf2877} E{\kf2852}ver{\kf2852}free{\kf2877}~
-Dialogue: 0,0:01:49.44,0:01:52.38,DEFAULT,,0,0,0,,{\kf2852}The{\kf2858} dark{\kf2858}ness{\kf2852} with{\kf2852}in{\kf2852} the{\kf2852} trees{\kf2889}~
-Dialogue: 0,0:01:52.82,0:01:55.69,DEFAULT,,0,0,0,,{\kf2852}The{\kf2864} mons{\kf2864}ters{\kf2852} from{\kf2858} deep{\kf2858} un{\kf2858} known{\kf2883}~
-Dialogue: 0,0:01:56.19,0:01:58.94,DEFAULT,,0,0,0,,{\kf2852}My{\kf2858} friends{\kf2864} all{\kf2852} are{\kf2870} tel{\kf2864}ling{\kf2852} me{\kf2870}~
-Dialogue: 0,0:01:59.57,0:02:01.82,DEFAULT,,0,0,0,,{\kf2845}I{\kf2858} should{\kf2852}n't{\kf2889} go{\kf2845}~{\kf2845}~{\kf2845}~{\kf2852}~
-Dialogue: 0,0:02:02.13,0:02:05.07,DEFAULT,,0,0,0,,{\kf2864}Don't{\kf2883} go{\kf2864} in{\kf2852}to{\kf2852} the{\kf2852} E{\kf2852}ver{\kf2877}free
-Dialogue: 0,0:02:05.57,0:02:08.69,DEFAULT,,0,0,0,,{\kf2858}Don't{\kf2870} go{\kf2864} in{\kf2852}to{\kf2852} the{\kf2852} E{\kf2852}ver{\kf2852}free{\kf2852}~{\kf2852}~
-Dialogue: 0,0:02:08.94,0:02:11.82,DEFAULT,,0,0,0,,{\kf2858}Don't{\kf2870} go{\kf2858} in{\kf2852}to{\kf2852} the{\kf2852} E{\kf2852}ver{\kf2877}free
-Dialogue: 0,0:02:12.26,0:02:15.32,DEFAULT,,0,0,0,,{\kf2858}Don't{\kf2864} go{\kf2870} in{\kf2852}to{\kf2852} the{\kf2852} E{\kf2852}ver{\kf2858}free{\kf2858}~
-Dialogue: 0,0:03:10.57,0:03:13.51,DEFAULT,,0,0,0,,{\kf2852}The{\kf2864} dark{\kf2858}ness{\kf2852} with{\kf2858}in{\kf2858} the{\kf2852} trees{\kf2889}~
-Dialogue: 0,0:03:13.94,0:03:16.69,DEFAULT,,0,0,0,,{\kf2852}The{\kf2858} mons{\kf2852}ters{\kf2852} from{\kf2858} deep{\kf2858} un{\kf2852}known{\kf2864}~
-Dialogue: 0,0:03:17.32,0:03:20.19,DEFAULT,,0,0,0,,{\kf2852}My{\kf2858} friends{\kf2864} all{\kf2852} are{\kf2870} tel{\kf2858}ling{\kf2858} me{\kf2877}~
-Dialogue: 0,0:03:20.69,0:03:22.88,DEFAULT,,0,0,0,,{\kf2852}I{\kf2864} should{\kf2845}n't{\kf2964} go
-Dialogue: 0,0:03:23.26,0:03:26.26,DEFAULT,,0,0,0,,{\kf2864}Don't{\kf2883} go{\kf2864} in{\kf2852}to{\kf2852} the{\kf2858} E{\kf2852}ver{\kf2883}free
-Dialogue: 0,0:03:26.63,0:03:29.76,DEFAULT,,0,0,0,,{\kf2864}Don't{\kf2870} go{\kf2870} in{\kf2852}to{\kf2852} the{\kf2858} E{\kf2852}ver{\kf2852}free{\kf2852}~{\kf2845}~
-Dialogue: 0,0:03:30.01,0:03:33.01,DEFAULT,,0,0,0,,{\kf2858}Don't{\kf2870} go{\kf2864} in{\kf2852}to{\kf2852} the{\kf2858} E{\kf2852}ver{\kf2877}free
-Dialogue: 0,0:03:33.38,0:03:36.44,DEFAULT,,0,0,0,,{\kf2858}Don't{\kf2864} go{\kf2864} in{\kf2852}to{\kf2852} the{\kf2852} E{\kf2852}ver{\kf2858}free{\kf2858}~
-Dialogue: 0,0:03:36.82,0:03:39.76,DEFAULT,,0,0,0,,{\kf2858}Don't{\kf2870} go{\kf2852} in{\kf2852}to{\kf2852} the{\kf2852} E{\kf2852}ver{\kf2877}free
-Dialogue: 0,0:03:40.13,0:03:43.32,DEFAULT,,0,0,0,,{\kf2864}Don't{\kf2870} go{\kf2858} in{\kf2852}to{\kf2852} the{\kf2858} E{\kf2845}ver{\kf2852}free{\kf2852}~{\kf2852}~
-Dialogue: 0,0:03:43.57,0:03:46.44,DEFAULT,,0,0,0,,{\kf2858}Don't{\kf2870} go{\kf2870} in{\kf2852}to{\kf2852} the{\kf2858} E{\kf2852}ver{\kf2870}free
-Dialogue: 0,0:03:46.88,0:03:50.01,DEFAULT,,0,0,0,,{\kf2858}Don't{\kf2864} go{\kf2864} in{\kf2852}to{\kf2852} the{\kf2852} E{\kf2852}ver{\kf2852}free{\kf2864}~
+Dialogue: 0,0:00:28.32,0:00:31.26,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf45} dark{\kf36}ness{\kf27} with{\kf36}in{\kf27} the{\kf27} trees{\kf78}~
+Dialogue: 0,0:00:31.70,0:00:34.45,DEFAULT,,0,0,0,,{\r}{\kf16}The{\kf40} mons{\kf40}ters{\kf24} from{\kf40} deep{\kf49} un{\kf24}known{\kf42}~
+Dialogue: 0,0:00:35.07,0:00:37.89,DEFAULT,,0,0,0,,{\r}{\kf26}My{\kf26} friends{\kf35} all{\kf26} are{\kf44} tel{\kf35}ling{\kf26} me{\kf63}~
+Dialogue: 0,0:00:38.45,0:00:40.64,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} should{\kf22}n't{\kf153} go
+Dialogue: 0,0:00:41.01,0:00:43.95,DEFAULT,,0,0,0,,{\r}{\kf38}Don't{\kf47} go{\kf38} in{\kf28}to{\kf28} the{\kf28} E{\kf28}ver{\kf59}free
+Dialogue: 0,0:00:44.39,0:00:47.57,DEFAULT,,0,0,0,,{\r}{\kf36}Don't{\kf46} go{\kf46} in{\kf27}to{\kf18} the{\kf36} E{\kf27}ver{\kf27}free{\kf27}~{\kf29}~
+Dialogue: 0,0:00:47.82,0:00:50.70,DEFAULT,,0,0,0,,{\r}{\kf27}Don't{\kf45} go{\kf45} in{\kf27}to{\kf27} the{\kf36} E{\kf18}ver{\kf63}free
+Dialogue: 0,0:00:51.20,0:00:54.26,DEFAULT,,0,0,0,,{\r}{\kf34}Don't{\kf51} go{\kf42} in{\kf26}to{\kf26} the{\kf34} E{\kf17}ver{\kf34}free{\kf42}~
+Dialogue: 0,0:00:55.07,0:00:58.07,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf26} I{\kf35} mean{\kf35} it{\kf35} when{\kf26} I{\kf26} say{\kf91}~
+Dialogue: 0,0:00:58.70,0:01:01.64,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf46} fo{\kf39}rest{\kf31} is{\kf39} no{\kf31} place{\kf85}~
+Dialogue: 0,0:01:02.14,0:01:04.95,DEFAULT,,0,0,0,,{\r}{\kf26}For{\kf34} po{\kf43}nies{\kf34} to{\kf34} go{\kf26} play{\kf84}~
+Dialogue: 0,0:01:05.39,0:01:06.95,DEFAULT,,0,0,0,,{\r}{\kf27}A{\kf47}lone{\kf82}~
+Dialogue: 0,0:01:08.82,0:01:11.82,DEFAULT,,0,0,0,,{\r}{\kf26}There's{\kf34} e{\kf43}vil{\kf34} deep{\kf34} in{\kf34}side{\kf95}~
+Dialogue: 0,0:01:12.26,0:01:15.26,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf34} no{\kf43} place{\kf34} left{\kf26} to{\kf26} hide{\kf111}~
+Dialogue: 0,0:01:15.64,0:01:18.51,DEFAULT,,0,0,0,,{\r}{\kf25}No{\kf34} one{\kf42} can{\kf34} hear{\kf42} you{\kf25} cry{\kf86}~
+Dialogue: 0,0:01:18.95,0:01:20.45,DEFAULT,,0,0,0,,{\r}{\kf21}At{\kf43} all{\kf86}~
+Dialogue: 0,0:01:21.57,0:01:23.76,DEFAULT,,0,0,0,,{\r}{\kf23}E{\kf23}ven{\kf31} though{\kf23} it's{\kf23} mys{\kf39}te{\kf23}ri{\kf34}ous
+Dialogue: 0,0:01:24.01,0:01:27.14,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf25} I{\kf25} know{\kf33} e{\kf25}very{\kf25}po{\kf33}ny{\kf25} is{\kf33} cu{\kf33}ri{\kf30}ous
+Dialogue: 0,0:01:28.32,0:01:30.45,DEFAULT,,0,0,0,,{\r}{\kf24}It's{\kf24} not{\kf24} worth{\kf24} it{\kf24} to{\kf33} sa{\kf33}cri{\kf26}fice
+Dialogue: 0,0:01:30.70,0:01:33.89,DEFAULT,,0,0,0,,{\r}{\kf34}Go{\kf26}ing{\kf26} in{\kf26}to{\kf26} the{\kf26} fo{\kf26}rest{\kf26} de{\kf34}void{\kf26} of{\kf43} light
+Dialogue: 0,0:01:35.14,0:01:37.26,DEFAULT,,0,0,0,,{\r}{\kf24}Cons{\kf24}tant{\kf24} dark{\kf24}ness{\kf24} and{\kf33} strange{\kf24} e{\kf35}vents
+Dialogue: 0,0:01:37.57,0:01:40.70,DEFAULT,,0,0,0,,{\r}{\kf25}All{\kf25} the{\kf34} ma{\kf25}gic{\kf17} and{\kf34} for{\kf25}ces{\kf25} are{\kf42} quite{\kf25} in{\kf35}tense
+Dialogue: 0,0:01:41.82,0:01:44.39,DEFAULT,,0,0,0,,{\r}{\kf26}Lots{\kf26} of{\kf26} weird{\kf34} things{\kf26} you'd{\kf34} ne{\kf26}ver{\kf34} see{\kf24} but
+Dialogue: 0,0:01:44.82,0:01:48.95,DEFAULT,,0,0,0,,{\r}{\kf39}Don't{\kf39} get{\kf29} lost{\kf49}~,{\kf29} in{\kf29} the{\kf69} E{\kf29}ver{\kf29}free{\kf71}~
+Dialogue: 0,0:01:49.45,0:01:52.39,DEFAULT,,0,0,0,,{\r}{\kf28}The{\kf37} dark{\kf37}ness{\kf28} with{\kf28}in{\kf28} the{\kf28} trees{\kf80}~
+Dialogue: 0,0:01:52.82,0:01:55.70,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf40} mons{\kf40}ters{\kf24} from{\kf32} deep{\kf32} un{\kf32} known{\kf64}~
+Dialogue: 0,0:01:56.20,0:01:58.95,DEFAULT,,0,0,0,,{\r}{\kf24}My{\kf31} friends{\kf39} all{\kf24} are{\kf47} tel{\kf39}ling{\kf24} me{\kf47}~
+Dialogue: 0,0:01:59.57,0:02:01.82,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf33} should{\kf25}n't{\kf75} go{\kf17}~{\kf17}~{\kf17}~{\kf24}~
+Dialogue: 0,0:02:02.14,0:02:05.07,DEFAULT,,0,0,0,,{\r}{\kf40}Don't{\kf64} go{\kf40} in{\kf24}to{\kf24} the{\kf24} E{\kf24}ver{\kf54}free
+Dialogue: 0,0:02:05.57,0:02:08.70,DEFAULT,,0,0,0,,{\r}{\kf35}Don't{\kf52} go{\kf43} in{\kf26}to{\kf26} the{\kf26} E{\kf26}ver{\kf26}free{\kf26}~{\kf27}~
+Dialogue: 0,0:02:08.95,0:02:11.82,DEFAULT,,0,0,0,,{\r}{\kf35}Don't{\kf52} go{\kf35} in{\kf26}to{\kf26} the{\kf26} E{\kf26}ver{\kf62}free
+Dialogue: 0,0:02:12.26,0:02:15.32,DEFAULT,,0,0,0,,{\r}{\kf35}Don't{\kf44} go{\kf52} in{\kf26}to{\kf26} the{\kf26} E{\kf26}ver{\kf35}free{\kf36}~
+Dialogue: 0,0:03:10.57,0:03:13.51,DEFAULT,,0,0,0,,{\r}{\kf25}The{\kf42} dark{\kf34}ness{\kf25} with{\kf34}in{\kf34} the{\kf25} trees{\kf75}~
+Dialogue: 0,0:03:13.95,0:03:16.70,DEFAULT,,0,0,0,,{\r}{\kf28}The{\kf38} mons{\kf28}ters{\kf28} from{\kf38} deep{\kf38} un{\kf28}known{\kf49}~
+Dialogue: 0,0:03:17.32,0:03:20.20,DEFAULT,,0,0,0,,{\r}{\kf24}My{\kf32} friends{\kf40} all{\kf24} are{\kf48} tel{\kf32}ling{\kf32} me{\kf56}~
+Dialogue: 0,0:03:20.70,0:03:22.89,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf35} should{\kf14}n't{\kf149} go
+Dialogue: 0,0:03:23.26,0:03:26.26,DEFAULT,,0,0,0,,{\r}{\kf38}Don't{\kf62} go{\kf38} in{\kf23}to{\kf23} the{\kf31} E{\kf23}ver{\kf62}free
+Dialogue: 0,0:03:26.64,0:03:29.76,DEFAULT,,0,0,0,,{\r}{\kf41}Don't{\kf49} go{\kf49} in{\kf25}to{\kf25} the{\kf33} E{\kf25}ver{\kf25}free{\kf25}~{\kf15}~
+Dialogue: 0,0:03:30.01,0:03:33.01,DEFAULT,,0,0,0,,{\r}{\kf34}Don't{\kf51} go{\kf43} in{\kf26}to{\kf26} the{\kf34} E{\kf26}ver{\kf60}free
+Dialogue: 0,0:03:33.39,0:03:36.45,DEFAULT,,0,0,0,,{\r}{\kf36}Don't{\kf45} go{\kf45} in{\kf27}to{\kf27} the{\kf27} E{\kf27}ver{\kf36}free{\kf36}~
+Dialogue: 0,0:03:36.82,0:03:39.76,DEFAULT,,0,0,0,,{\r}{\kf37}Don't{\kf55} go{\kf28} in{\kf28}to{\kf28} the{\kf28} E{\kf28}ver{\kf62}free
+Dialogue: 0,0:03:40.14,0:03:43.32,DEFAULT,,0,0,0,,{\r}{\kf44}Don't{\kf53} go{\kf35} in{\kf27}to{\kf27} the{\kf35} E{\kf18}ver{\kf27}free{\kf27}~{\kf26}~
+Dialogue: 0,0:03:43.57,0:03:46.45,DEFAULT,,0,0,0,,{\r}{\kf33}Don't{\kf49} go{\kf49} in{\kf25}to{\kf25} the{\kf33} E{\kf25}ver{\kf49}free
+Dialogue: 0,0:03:46.89,0:03:50.01,DEFAULT,,0,0,0,,{\r}{\kf37}Don't{\kf46} go{\kf46} in{\kf28}to{\kf28} the{\kf28} E{\kf28}ver{\kf28}free{\kf43}~

@@ -1,95 +1,102 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: I'll Come Running (Feat. Lady Aria)
+Artist: YourEnigma
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:16.23,0:00:19.33,DEFAULT,,0,0,0,,{\kf12}I'm{\kf24} ly{\kf18}in'{\kf18} in{\kf36} bed,{\kf24} can't{\kf36} sleep
-Dialogue: 0,0:00:19.62,0:00:21.09,DEFAULT,,0,0,0,,{\kf24}'cause{\kf18} I'm{\kf24} try{\kf18}in'{\kf18} to{\kf24} think
-Dialogue: 0,0:00:21.32,0:00:22.96,DEFAULT,,0,0,0,,{\kf18}When{\kf24} did{\kf24} we{\kf24} last{\kf24} speak?
-Dialogue: 0,0:00:23.67,0:00:24.84,DEFAULT,,0,0,0,,{\kf18}I{\kf18} left{\kf18} you{\kf18} on{\kf24} hold
-Dialogue: 0,0:00:25.72,0:00:26.71,DEFAULT,,0,0,0,,{\kf24}So{\kf24} un{\kf24}true
-Dialogue: 0,0:00:27.18,0:00:28.59,DEFAULT,,0,0,0,,{\kf18}Just{\kf18} been{\kf24} wor{\kf18}king{\kf18} so{\kf24} hard
-Dialogue: 0,0:00:28.82,0:00:30.70,DEFAULT,,0,0,0,,{\kf18}Like{\kf18} you{\kf24} know{\kf42} I{\kf53} do
-Dialogue: 0,0:00:31.05,0:00:32.40,DEFAULT,,0,0,0,,{\kf18}It's{\kf24} ta{\kf24}king{\kf18} a{\kf30} toll
-Dialogue: 0,0:00:33.51,0:00:34.39,DEFAULT,,0,0,0,,{\kf24}It{\kf42} seems
-Dialogue: 0,0:00:34.68,0:00:36.09,DEFAULT,,0,0,0,,{\kf18}And{\kf18} our{\kf18} friend{\kf24}ship{\kf18} is{\kf24} cold
-Dialogue: 0,0:00:36.32,0:00:38.08,DEFAULT,,0,0,0,,{\kf24}With{\kf24} how{\kf24} long{\kf24} it's{\kf36} been
-Dialogue: 0,0:00:38.43,0:00:39.96,DEFAULT,,0,0,0,,{\kf18}But{\kf18} I{\kf18} need{\kf18} you{\kf18} to{\kf36} know
-Dialogue: 0,0:00:40.89,0:00:41.89,DEFAULT,,0,0,0,,{\kf42}Just{\kf42} this
-Dialogue: 0,0:00:42.53,0:00:44.82,DEFAULT,,0,0,0,,{\kf12}It's{\kf18} not{\kf18} on{\kf24}ly{\kf24} you{\kf24} who's{\kf42} fee{\kf12}lin'
-Dialogue: 0,0:00:45.11,0:00:48.28,DEFAULT,,0,0,0,,{\kf24}It's{\kf65} al{\kf59}ways{\kf129} hard
-Dialogue: 0,0:00:48.51,0:00:51.91,DEFAULT,,0,0,0,,{\kf18}When{\kf30} we're{\kf53} miles{\kf53} a{\kf124}part!
-Dialogue: 0,0:00:52.44,0:00:55.60,DEFAULT,,0,0,0,,{\kf18}But{\kf24} don't{\kf59} you{\kf65} start{\kf71} thin{\kf24}kin'{\kf24}~
-Dialogue: 0,0:00:55.83,0:00:59.82,DEFAULT,,0,0,0,,{\kf30}I'm{\kf30} not{\kf53} here{\kf30} for{\kf24}~{\kf170} you!
-Dialogue: 0,0:01:00.64,0:01:02.34,DEFAULT,,0,0,0,,{\kf18}I'll{\kf30} come{\kf24} run{\kf18}nin',{\kf30} yeah{\kf24}~
-Dialogue: 0,0:01:02.57,0:01:04.27,DEFAULT,,0,0,0,,{\kf18}I'll{\kf30} come{\kf24} run{\kf18}nin'{\kf18} to{\kf30} you
-Dialogue: 0,0:01:04.45,0:01:06.15,DEFAULT,,0,0,0,,{\kf18}I'll{\kf24} come{\kf24} run{\kf24}nin',{\kf24} yeah{\kf24}~
-Dialogue: 0,0:01:06.38,0:01:08.02,DEFAULT,,0,0,0,,{\kf18}I'll{\kf36} come{\kf24} run{\kf24}nin'{\kf30} back
-Dialogue: 0,0:01:08.20,0:01:09.84,DEFAULT,,0,0,0,,{\kf18}I'll{\kf30} come{\kf24} run{\kf24}nin',{\kf24} yeah{\kf24}~
-Dialogue: 0,0:01:10.07,0:01:11.77,DEFAULT,,0,0,0,,{\kf18}I'll{\kf36} come{\kf24} run{\kf18}nin{\kf24} to{\kf30} you
-Dialogue: 0,0:01:11.95,0:01:13.18,DEFAULT,,0,0,0,,{\kf24}I'll{\kf24} come{\kf24} run{\kf30}nin'
-Dialogue: 0,0:01:13.59,0:01:15.23,DEFAULT,,0,0,0,,{\kf65}Vi{\kf88}nyl!
-Dialogue: 0,0:01:15.46,0:01:18.33,DEFAULT,,0,0,0,,{\kf71}It's{\kf71} not{\kf100} fair!
-Dialogue: 0,0:01:18.51,0:01:21.91,DEFAULT,,0,0,0,,{\kf18}You{\kf18} say{\kf18}in'{\kf83} I{\kf53} don't{\kf83} care
-Dialogue: 0,0:01:22.20,0:01:25.60,DEFAULT,,0,0,0,,{\kf18}Just{\kf18} say{\kf24} the{\kf65} words{\kf65} to{\kf77} me
-Dialogue: 0,0:01:26.71,0:01:28.18,DEFAULT,,0,0,0,,{\kf42}I'll{\kf42} come{\kf30} run{\kf24}ning
-Dialogue: 0,0:01:28.94,0:01:30.11,DEFAULT,,0,0,0,,{\kf18}I'll{\kf24} come{\kf30} run{\kf30}ning
-Dialogue: 0,0:01:30.52,0:01:33.33,DEFAULT,,0,0,0,,{\kf53}Don't{\kf65} you{\kf100} dare
-Dialogue: 0,0:01:33.51,0:01:36.91,DEFAULT,,0,0,0,,{\kf24}Go{\kf18} say{\kf18}in'{\kf77} I{\kf47} don't{\kf83} care
-Dialogue: 0,0:01:37.32,0:01:41.42,DEFAULT,,0,0,0,,{\kf12}I'll{\kf24} al{\kf18}ways{\kf83} be{\kf83} there{\kf83} for{\kf24} you{\kf42}~
-Dialogue: 0,0:01:41.71,0:01:43.35,DEFAULT,,0,0,0,,{\kf42}I'll{\kf42} come{\kf24} run{\kf18}ning{\kf24} yeah
-Dialogue: 0,0:01:43.82,0:01:45.05,DEFAULT,,0,0,0,,{\kf18}I'll{\kf24} come{\kf24} run{\kf30}ning
-Dialogue: 0,0:01:53.67,0:01:56.77,DEFAULT,,0,0,0,,{\kf18}I'm{\kf24} pack{\kf18}ing{\kf18} my{\kf47} bags{\kf30} to{\kf30}night
-Dialogue: 0,0:01:57.18,0:02:00.58,DEFAULT,,0,0,0,,{\kf18}Put{\kf24} re{\kf24}hear{\kf18}sals{\kf18} on{\kf30} hold{\kf18} til'{\kf24} I{\kf12}~{\kf18} make{\kf24} this{\kf30} right
-Dialogue: 0,0:02:01.11,0:02:02.51,DEFAULT,,0,0,0,,{\kf18}The{\kf18} train{\kf18} leaves{\kf18} at{\kf42} four
-Dialogue: 0,0:02:03.22,0:02:04.56,DEFAULT,,0,0,0,,{\kf36}There's{\kf30} still{\kf36} time
-Dialogue: 0,0:02:04.68,0:02:08.20,DEFAULT,,0,0,0,,{\kf18}I{\kf18} can't{\kf24} wait{\kf24} a{\kf18}ny{\kf36}more{\kf18} to{\kf18} say{\kf18} what's{\kf18} on{\kf30} my{\kf47} mind
-Dialogue: 0,0:02:08.67,0:02:09.96,DEFAULT,,0,0,0,,{\kf18}But{\kf18} what{\kf18} could{\kf18} this{\kf36} mean?
-Dialogue: 0,0:02:10.78,0:02:11.89,DEFAULT,,0,0,0,,{\kf18}It's{\kf30} sur{\kf36}real
-Dialogue: 0,0:02:12.18,0:02:15.58,DEFAULT,,0,0,0,,{\kf24}Go{\kf18}ing{\kf18} out{\kf18} of{\kf18} my{\kf30} way,{\kf18} 'cause{\kf24} of{\kf18} how{\kf24} I{\kf36} feel
-Dialogue: 0,0:02:16.11,0:02:19.33,DEFAULT,,0,0,0,,{\kf18}And{\kf18} what{\kf18} will{\kf18} they{\kf36} think{\kf24} of{\kf36} me?
-Dialogue: 0,0:02:20.09,0:02:22.85,DEFAULT,,0,0,0,,{\kf18}I{\kf18} say{\kf18} it's{\kf30} you{\kf36} I'm{\kf42} run{\kf36}nin'{\kf18} to!
-Dialogue: 0,0:02:23.08,0:02:25.60,DEFAULT,,0,0,0,,{\kf47}I'm{\kf47} not{\kf112} scared!
-Dialogue: 0,0:02:25.83,0:02:29.35,DEFAULT,,0,0,0,,{\kf30}And{\kf36} my{\kf59} heart's{\kf53} laid{\kf112} bare
-Dialogue: 0,0:02:29.53,0:02:33.04,DEFAULT,,0,0,0,,{\kf30}So{\kf30} just{\kf53} wait{\kf65} right{\kf100} there
-Dialogue: 0,0:02:33.28,0:02:37.73,DEFAULT,,0,0,0,,{\kf36}I'll{\kf36} come{\kf53} straight{\kf47} to{\kf211} you
-Dialogue: 0,0:02:38.20,0:02:39.90,DEFAULT,,0,0,0,,{\kf18}I'll{\kf24} come{\kf24} run{\kf24}nin',{\kf24} yeah{\kf30}~
-Dialogue: 0,0:02:40.07,0:02:41.77,DEFAULT,,0,0,0,,{\kf18}I'll{\kf36} come{\kf18} run{\kf18}nin'{\kf24} to{\kf30} you
-Dialogue: 0,0:02:41.95,0:02:43.65,DEFAULT,,0,0,0,,{\kf18}I'll{\kf36} come{\kf24} run{\kf18}nin',{\kf30} yeah{\kf24}~
-Dialogue: 0,0:02:43.88,0:02:45.52,DEFAULT,,0,0,0,,{\kf18}I'll{\kf30} come{\kf24} run{\kf24}nin'{\kf24} back
-Dialogue: 0,0:02:45.70,0:02:47.34,DEFAULT,,0,0,0,,{\kf18}I'll{\kf30} come{\kf24} run{\kf18}nin',{\kf24} yeah{\kf24}~
-Dialogue: 0,0:02:47.57,0:02:49.15,DEFAULT,,0,0,0,,{\kf18}I'll{\kf30} come{\kf24} run{\kf18}nin{\kf18} to{\kf24} you
-Dialogue: 0,0:02:49.45,0:02:50.62,DEFAULT,,0,0,0,,{\kf18}I'll{\kf30} come{\kf24} run{\kf30}nin'
-Dialogue: 0,0:02:51.03,0:02:52.73,DEFAULT,,0,0,0,,{\kf71}Vi{\kf88}nyl!
-Dialogue: 0,0:02:52.96,0:02:55.78,DEFAULT,,0,0,0,,{\kf65}It's{\kf65} not{\kf94} fair!
-Dialogue: 0,0:02:56.07,0:02:59.41,DEFAULT,,0,0,0,,{\kf12}You{\kf24} say{\kf18}in'{\kf71} I{\kf53} don't{\kf83} care!
-Dialogue: 0,0:02:59.76,0:03:03.10,DEFAULT,,0,0,0,,{\kf18}Just{\kf18} say{\kf18} the{\kf59} words{\kf59} to{\kf77} me
-Dialogue: 0,0:03:04.21,0:03:05.74,DEFAULT,,0,0,0,,{\kf36}I'll{\kf36} come{\kf30} run{\kf30}ning
-Dialogue: 0,0:03:06.32,0:03:07.61,DEFAULT,,0,0,0,,{\kf18}I'll{\kf30} come{\kf24} run{\kf30}ning
-Dialogue: 0,0:03:07.96,0:03:10.83,DEFAULT,,0,0,0,,{\kf47}Don't{\kf71} you{\kf100} dare
-Dialogue: 0,0:03:11.01,0:03:14.47,DEFAULT,,0,0,0,,{\kf18}Go{\kf24} say{\kf18}in'{\kf77} I{\kf47} don't{\kf88} care
-Dialogue: 0,0:03:14.76,0:03:18.86,DEFAULT,,0,0,0,,{\kf18}I'll{\kf24} al{\kf18}ways{\kf77} be{\kf77} there{\kf77} for{\kf24} you{\kf36}~
-Dialogue: 0,0:03:19.21,0:03:20.91,DEFAULT,,0,0,0,,{\kf36}I'll{\kf42} come{\kf24} run{\kf12}ning{\kf24} yeah
-Dialogue: 0,0:03:21.32,0:03:22.61,DEFAULT,,0,0,0,,{\kf18}I'll{\kf36} come{\kf24} run{\kf36}ning
-Dialogue: 0,0:03:23.14,0:03:24.84,DEFAULT,,0,0,0,,{\kf18}I'll{\kf30} come{\kf24} run{\kf24}nin',{\kf24} yeah{\kf24}~
-Dialogue: 0,0:03:25.07,0:03:26.77,DEFAULT,,0,0,0,,{\kf18}I'll{\kf30} come{\kf24} run{\kf18}nin'{\kf18} to{\kf30} you
-Dialogue: 0,0:03:26.95,0:03:28.59,DEFAULT,,0,0,0,,{\kf18}I'll{\kf30} come{\kf24} run{\kf18}nin',{\kf24} yeah{\kf24}~
-Dialogue: 0,0:03:28.82,0:03:30.52,DEFAULT,,0,0,0,,{\kf24}I'll{\kf30} come{\kf24} run{\kf18}nin'{\kf30} back
-Dialogue: 0,0:03:30.70,0:03:32.40,DEFAULT,,0,0,0,,{\kf18}I'll{\kf24} come{\kf24} run{\kf24}nin',{\kf24} yeah{\kf30}~
-Dialogue: 0,0:03:32.51,0:03:34.21,DEFAULT,,0,0,0,,{\kf24}I'll{\kf24} come{\kf24} run{\kf18}nin{\kf18} to{\kf24} you
-Dialogue: 0,0:03:34.39,0:03:35.62,DEFAULT,,0,0,0,,{\kf24}I'll{\kf30} come{\kf24} run{\kf24}nin'
-Dialogue: 0,0:03:36.32,0:03:37.67,DEFAULT,,0,0,0,,{\kf18}I'll{\kf36} come{\kf24} run{\kf36}nin'
-Dialogue: 0,0:03:38.14,0:03:39.84,DEFAULT,,0,0,0,,{\kf24}I'll{\kf24} come{\kf24} run{\kf24}nin',{\kf24} yeah{\kf24}~
-Dialogue: 0,0:03:40.01,0:03:41.77,DEFAULT,,0,0,0,,{\kf24}I'll{\kf24} come{\kf24} run{\kf18}nin'{\kf24} to{\kf30} you
-Dialogue: 0,0:03:41.95,0:03:43.59,DEFAULT,,0,0,0,,{\kf18}I'll{\kf30} come{\kf24} run{\kf18}nin',{\kf24} yeah{\kf24}~
-Dialogue: 0,0:03:43.82,0:03:45.52,DEFAULT,,0,0,0,,{\kf18}I'll{\kf24} come{\kf24} run{\kf24}nin'{\kf24} back
-Dialogue: 0,0:03:45.70,0:03:47.34,DEFAULT,,0,0,0,,{\kf18}I'll{\kf24} come{\kf24} run{\kf18}nin',{\kf24} yeah{\kf24}~
-Dialogue: 0,0:03:47.57,0:03:49.27,DEFAULT,,0,0,0,,{\kf18}I'll{\kf30} come{\kf24} run{\kf18}nin{\kf18} to{\kf30} you
-Dialogue: 0,0:03:49.39,0:03:50.68,DEFAULT,,0,0,0,,{\kf24}I'll{\kf30} come{\kf24} run{\kf30}nin'
-Dialogue: 0,0:03:51.32,0:03:52.55,DEFAULT,,0,0,0,,{\kf18}I'll{\kf24} come{\kf24} run{\kf30}nin'
+Dialogue: 0,0:00:16.23,0:00:19.34,DEFAULT,,0,0,0,,{\r}{\kf22}I'm{\kf44} ly{\kf33}in'{\kf33} in{\kf67} bed,{\kf44} can't{\kf68} sleep
+Dialogue: 0,0:00:19.63,0:00:21.09,DEFAULT,,0,0,0,,{\r}{\kf28}'cause{\kf21} I'm{\kf28} try{\kf21}in'{\kf21} to{\kf27} think
+Dialogue: 0,0:00:21.33,0:00:22.97,DEFAULT,,0,0,0,,{\r}{\kf26}When{\kf35} did{\kf35} we{\kf35} last{\kf33} speak?
+Dialogue: 0,0:00:23.67,0:00:24.84,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} left{\kf22} you{\kf22} on{\kf29} hold
+Dialogue: 0,0:00:25.72,0:00:26.72,DEFAULT,,0,0,0,,{\r}{\kf33}So{\kf33} un{\kf34}true
+Dialogue: 0,0:00:27.19,0:00:28.59,DEFAULT,,0,0,0,,{\r}{\kf21}Just{\kf21} been{\kf28} wor{\kf21}king{\kf21} so{\kf29} hard
+Dialogue: 0,0:00:28.83,0:00:30.70,DEFAULT,,0,0,0,,{\r}{\kf22}Like{\kf22} you{\kf29} know{\kf51} I{\kf64} do
+Dialogue: 0,0:00:31.05,0:00:32.40,DEFAULT,,0,0,0,,{\r}{\kf21}It's{\kf28} ta{\kf28}king{\kf21} a{\kf37} toll
+Dialogue: 0,0:00:33.52,0:00:34.39,DEFAULT,,0,0,0,,{\r}{\kf32}It{\kf56} seems
+Dialogue: 0,0:00:34.69,0:00:36.09,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} our{\kf21} friend{\kf28}ship{\kf21} is{\kf29} cold
+Dialogue: 0,0:00:36.33,0:00:38.09,DEFAULT,,0,0,0,,{\r}{\kf32}With{\kf32} how{\kf32} long{\kf32} it's{\kf48} been
+Dialogue: 0,0:00:38.44,0:00:39.96,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} I{\kf22} need{\kf22} you{\kf22} to{\kf42} know
+Dialogue: 0,0:00:40.90,0:00:41.89,DEFAULT,,0,0,0,,{\r}{\kf50}Just{\kf50} this
+Dialogue: 0,0:00:42.54,0:00:44.82,DEFAULT,,0,0,0,,{\r}{\kf16}It's{\kf24} not{\kf24} on{\kf32}ly{\kf32} you{\kf32} who's{\kf55} fee{\kf14}lin'
+Dialogue: 0,0:00:45.12,0:00:48.28,DEFAULT,,0,0,0,,{\r}{\kf27}It's{\kf74} al{\kf67}ways{\kf148} hard
+Dialogue: 0,0:00:48.52,0:00:51.91,DEFAULT,,0,0,0,,{\r}{\kf22}When{\kf36} we're{\kf65} miles{\kf65} a{\kf152}part!
+Dialogue: 0,0:00:52.44,0:00:55.60,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf26} don't{\kf66} you{\kf72} start{\kf79} thin{\kf26}kin'{\kf27}~
+Dialogue: 0,0:00:55.84,0:00:59.82,DEFAULT,,0,0,0,,{\r}{\kf35}I'm{\kf35} not{\kf63} here{\kf35} for{\kf28}~{\kf202} you!
+Dialogue: 0,0:01:00.64,0:01:02.34,DEFAULT,,0,0,0,,{\r}{\kf21}I'll{\kf35} come{\kf28} run{\kf21}nin',{\kf35} yeah{\kf30}~
+Dialogue: 0,0:01:02.58,0:01:04.28,DEFAULT,,0,0,0,,{\r}{\kf22}I'll{\kf37} come{\kf30} run{\kf22}nin'{\kf22} to{\kf37} you
+Dialogue: 0,0:01:04.45,0:01:06.15,DEFAULT,,0,0,0,,{\r}{\kf22}I'll{\kf30} come{\kf30} run{\kf30}nin',{\kf30} yeah{\kf28}~
+Dialogue: 0,0:01:06.39,0:01:08.03,DEFAULT,,0,0,0,,{\r}{\kf22}I'll{\kf45} come{\kf30} run{\kf30}nin'{\kf37} back
+Dialogue: 0,0:01:08.20,0:01:09.84,DEFAULT,,0,0,0,,{\r}{\kf20}I'll{\kf34} come{\kf27} run{\kf27}nin',{\kf27} yeah{\kf29}~
+Dialogue: 0,0:01:10.08,0:01:11.78,DEFAULT,,0,0,0,,{\r}{\kf20}I'll{\kf41} come{\kf27} run{\kf20}nin{\kf27} to{\kf35} you
+Dialogue: 0,0:01:11.95,0:01:13.18,DEFAULT,,0,0,0,,{\r}{\kf29}I'll{\kf29} come{\kf29} run{\kf36}nin'
+Dialogue: 0,0:01:13.59,0:01:15.23,DEFAULT,,0,0,0,,{\r}{\kf69}Vi{\kf95}nyl!
+Dialogue: 0,0:01:15.47,0:01:18.34,DEFAULT,,0,0,0,,{\r}{\kf84}It's{\kf84} not{\kf119} fair!
+Dialogue: 0,0:01:18.52,0:01:21.91,DEFAULT,,0,0,0,,{\r}{\kf22}You{\kf22} say{\kf22}in'{\kf103} I{\kf67} don't{\kf104} care
+Dialogue: 0,0:01:22.21,0:01:25.61,DEFAULT,,0,0,0,,{\r}{\kf23}Just{\kf23} say{\kf30} the{\kf83} words{\kf83} to{\kf98} me
+Dialogue: 0,0:01:26.72,0:01:28.18,DEFAULT,,0,0,0,,{\r}{\kf44}I'll{\kf44} come{\kf32} run{\kf26}ning
+Dialogue: 0,0:01:28.94,0:01:30.12,DEFAULT,,0,0,0,,{\r}{\kf21}I'll{\kf28} come{\kf34} run{\kf34}ning
+Dialogue: 0,0:01:30.53,0:01:33.34,DEFAULT,,0,0,0,,{\r}{\kf68}Don't{\kf84} you{\kf129} dare
+Dialogue: 0,0:01:33.52,0:01:36.91,DEFAULT,,0,0,0,,{\r}{\kf30}Go{\kf23} say{\kf23}in'{\kf98} I{\kf60} don't{\kf106} care
+Dialogue: 0,0:01:37.32,0:01:41.43,DEFAULT,,0,0,0,,{\r}{\kf13}I'll{\kf26} al{\kf20}ways{\kf93} be{\kf93} there{\kf93} for{\kf26} you{\kf46}~
+Dialogue: 0,0:01:41.72,0:01:43.36,DEFAULT,,0,0,0,,{\r}{\kf46}I'll{\kf46} come{\kf26} run{\kf20}ning{\kf26} yeah
+Dialogue: 0,0:01:43.83,0:01:45.06,DEFAULT,,0,0,0,,{\r}{\kf23}I'll{\kf31} come{\kf31} run{\kf38}ning
+Dialogue: 0,0:01:53.67,0:01:56.78,DEFAULT,,0,0,0,,{\r}{\kf30}I'm{\kf40} pack{\kf30}ing{\kf30} my{\kf80} bags{\kf50} to{\kf51}night
+Dialogue: 0,0:01:57.19,0:02:00.59,DEFAULT,,0,0,0,,{\r}{\kf24}Put{\kf32} re{\kf32}hear{\kf24}sals{\kf24} on{\kf40} hold{\kf24} til'{\kf32} I{\kf16}~{\kf24} make{\kf32} this{\kf36} right
+Dialogue: 0,0:02:01.11,0:02:02.52,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf22} train{\kf22} leaves{\kf22} at{\kf53} four
+Dialogue: 0,0:02:03.22,0:02:04.57,DEFAULT,,0,0,0,,{\r}{\kf48}There's{\kf40} still{\kf47} time
+Dialogue: 0,0:02:04.69,0:02:08.20,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} can't{\kf29} wait{\kf29} a{\kf22}ny{\kf44}more{\kf22} to{\kf22} say{\kf22} what's{\kf22} on{\kf37} my{\kf59} mind
+Dialogue: 0,0:02:08.67,0:02:09.96,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf22} what{\kf22} could{\kf22} this{\kf41} mean?
+Dialogue: 0,0:02:10.78,0:02:11.89,DEFAULT,,0,0,0,,{\r}{\kf24}It's{\kf40} sur{\kf47}real
+Dialogue: 0,0:02:12.19,0:02:15.59,DEFAULT,,0,0,0,,{\r}{\kf33}Go{\kf25}ing{\kf25} out{\kf25} of{\kf25} my{\kf41} way,{\kf25} 'cause{\kf33} of{\kf25} how{\kf33} I{\kf50} feel
+Dialogue: 0,0:02:16.11,0:02:19.34,DEFAULT,,0,0,0,,{\r}{\kf34}And{\kf34} what{\kf34} will{\kf34} they{\kf69} think{\kf46} of{\kf71} me?
+Dialogue: 0,0:02:20.10,0:02:22.85,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf23} say{\kf23} it's{\kf38} you{\kf46} I'm{\kf53} run{\kf46}nin'{\kf23} to!
+Dialogue: 0,0:02:23.09,0:02:25.60,DEFAULT,,0,0,0,,{\r}{\kf58}I'm{\kf58} not{\kf136} scared!
+Dialogue: 0,0:02:25.84,0:02:29.35,DEFAULT,,0,0,0,,{\r}{\kf36}And{\kf43} my{\kf72} heart's{\kf65} laid{\kf136} bare
+Dialogue: 0,0:02:29.53,0:02:33.05,DEFAULT,,0,0,0,,{\r}{\kf37}So{\kf37} just{\kf67} wait{\kf82} right{\kf129} there
+Dialogue: 0,0:02:33.28,0:02:37.73,DEFAULT,,0,0,0,,{\r}{\kf41}I'll{\kf41} come{\kf62} straight{\kf55} to{\kf246} you
+Dialogue: 0,0:02:38.20,0:02:39.90,DEFAULT,,0,0,0,,{\r}{\kf21}I'll{\kf28} come{\kf28} run{\kf28}nin',{\kf28} yeah{\kf37}~
+Dialogue: 0,0:02:40.08,0:02:41.78,DEFAULT,,0,0,0,,{\r}{\kf21}I'll{\kf42} come{\kf21} run{\kf21}nin'{\kf28} to{\kf37} you
+Dialogue: 0,0:02:41.95,0:02:43.65,DEFAULT,,0,0,0,,{\r}{\kf20}I'll{\kf41} come{\kf27} run{\kf20}nin',{\kf34} yeah{\kf28}~
+Dialogue: 0,0:02:43.89,0:02:45.53,DEFAULT,,0,0,0,,{\r}{\kf25}I'll{\kf41} come{\kf33} run{\kf33}nin'{\kf32} back
+Dialogue: 0,0:02:45.70,0:02:47.34,DEFAULT,,0,0,0,,{\r}{\kf21}I'll{\kf36} come{\kf29} run{\kf21}nin',{\kf29} yeah{\kf28}~
+Dialogue: 0,0:02:47.58,0:02:49.16,DEFAULT,,0,0,0,,{\r}{\kf22}I'll{\kf36} come{\kf29} run{\kf22}nin{\kf22} to{\kf27} you
+Dialogue: 0,0:02:49.45,0:02:50.62,DEFAULT,,0,0,0,,{\r}{\kf21}I'll{\kf34} come{\kf28} run{\kf34}nin'
+Dialogue: 0,0:02:51.03,0:02:52.73,DEFAULT,,0,0,0,,{\r}{\kf76}Vi{\kf94}nyl!
+Dialogue: 0,0:02:52.97,0:02:55.78,DEFAULT,,0,0,0,,{\r}{\kf81}It's{\kf81} not{\kf119} fair!
+Dialogue: 0,0:02:56.07,0:02:59.41,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf30} say{\kf23}in'{\kf91} I{\kf68} don't{\kf107} care!
+Dialogue: 0,0:02:59.77,0:03:03.10,DEFAULT,,0,0,0,,{\r}{\kf24}Just{\kf24} say{\kf24} the{\kf80} words{\kf80} to{\kf102} me
+Dialogue: 0,0:03:04.22,0:03:05.74,DEFAULT,,0,0,0,,{\r}{\kf41}I'll{\kf41} come{\kf35} run{\kf35}ning
+Dialogue: 0,0:03:06.33,0:03:07.62,DEFAULT,,0,0,0,,{\r}{\kf23}I'll{\kf38} come{\kf30} run{\kf38}ning
+Dialogue: 0,0:03:07.97,0:03:10.84,DEFAULT,,0,0,0,,{\r}{\kf62}Don't{\kf93} you{\kf132} dare
+Dialogue: 0,0:03:11.02,0:03:14.47,DEFAULT,,0,0,0,,{\r}{\kf23}Go{\kf30} say{\kf23}in'{\kf98} I{\kf60} don't{\kf112} care
+Dialogue: 0,0:03:14.77,0:03:18.87,DEFAULT,,0,0,0,,{\r}{\kf21}I'll{\kf28} al{\kf21}ways{\kf90} be{\kf90} there{\kf90} for{\kf28} you{\kf42}~
+Dialogue: 0,0:03:19.22,0:03:20.92,DEFAULT,,0,0,0,,{\r}{\kf44}I'll{\kf52} come{\kf30} run{\kf15}ning{\kf29} yeah
+Dialogue: 0,0:03:21.33,0:03:22.62,DEFAULT,,0,0,0,,{\r}{\kf20}I'll{\kf41} come{\kf27} run{\kf41}ning
+Dialogue: 0,0:03:23.14,0:03:24.84,DEFAULT,,0,0,0,,{\r}{\kf21}I'll{\kf35} come{\kf28} run{\kf28}nin',{\kf28} yeah{\kf30}~
+Dialogue: 0,0:03:25.08,0:03:26.78,DEFAULT,,0,0,0,,{\r}{\kf22}I'll{\kf37} come{\kf30} run{\kf22}nin'{\kf22} to{\kf37} you
+Dialogue: 0,0:03:26.95,0:03:28.59,DEFAULT,,0,0,0,,{\r}{\kf21}I'll{\kf36} come{\kf29} run{\kf21}nin',{\kf29} yeah{\kf28}~
+Dialogue: 0,0:03:28.83,0:03:30.53,DEFAULT,,0,0,0,,{\r}{\kf32}I'll{\kf40} come{\kf32} run{\kf24}nin'{\kf42} back
+Dialogue: 0,0:03:30.70,0:03:32.40,DEFAULT,,0,0,0,,{\r}{\kf21}I'll{\kf28} come{\kf28} run{\kf28}nin',{\kf28} yeah{\kf37}~
+Dialogue: 0,0:03:32.52,0:03:34.22,DEFAULT,,0,0,0,,{\r}{\kf31}I'll{\kf31} come{\kf31} run{\kf23}nin{\kf23} to{\kf31} you
+Dialogue: 0,0:03:34.39,0:03:35.62,DEFAULT,,0,0,0,,{\r}{\kf29}I'll{\kf36} come{\kf29} run{\kf29}nin'
+Dialogue: 0,0:03:36.33,0:03:37.68,DEFAULT,,0,0,0,,{\r}{\kf21}I'll{\kf43} come{\kf28} run{\kf43}nin'
+Dialogue: 0,0:03:38.14,0:03:39.84,DEFAULT,,0,0,0,,{\r}{\kf28}I'll{\kf28} come{\kf28} run{\kf28}nin',{\kf28} yeah{\kf30}~
+Dialogue: 0,0:03:40.02,0:03:41.78,DEFAULT,,0,0,0,,{\r}{\kf29}I'll{\kf29} come{\kf29} run{\kf22}nin'{\kf29} to{\kf38} you
+Dialogue: 0,0:03:41.95,0:03:43.59,DEFAULT,,0,0,0,,{\r}{\kf21}I'll{\kf36} come{\kf29} run{\kf21}nin',{\kf29} yeah{\kf28}~
+Dialogue: 0,0:03:43.83,0:03:45.53,DEFAULT,,0,0,0,,{\r}{\kf27}I'll{\kf36} come{\kf36} run{\kf36}nin'{\kf35} back
+Dialogue: 0,0:03:45.70,0:03:47.34,DEFAULT,,0,0,0,,{\r}{\kf22}I'll{\kf30} come{\kf30} run{\kf22}nin',{\kf30} yeah{\kf30}~
+Dialogue: 0,0:03:47.58,0:03:49.28,DEFAULT,,0,0,0,,{\r}{\kf22}I'll{\kf37} come{\kf30} run{\kf22}nin{\kf22} to{\kf37} you
+Dialogue: 0,0:03:49.39,0:03:50.68,DEFAULT,,0,0,0,,{\r}{\kf29}I'll{\kf36} come{\kf29} run{\kf35}nin'
+Dialogue: 0,0:03:51.33,0:03:52.56,DEFAULT,,0,0,0,,{\r}{\kf23}I'll{\kf31} come{\kf31} run{\kf38}nin'

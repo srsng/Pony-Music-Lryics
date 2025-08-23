@@ -1,51 +1,58 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Where is Your Heaven Now
+Artist: The Midnight Musician
+Original Timing: mylittlekaraoke.com by rainbowderpy
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:29.42,0:00:32.85,DEFAULT,,0,0,0,,{\kf17}When{\kf17} the{\kf46} world{\kf29} is{\kf25} just{\kf21} so{\kf67} hard{\kf13} with{\kf29} you
-Dialogue: 0,0:00:33.18,0:00:35.78,DEFAULT,,0,0,0,,{\kf21}And{\kf13} you{\kf38} feel{\kf25} there{\kf13} is{\kf17} no{\kf17}where{\kf17} to{\kf46} go
-Dialogue: 0,0:00:36.93,0:00:40.36,DEFAULT,,0,0,0,,{\kf38}When{\kf17} e{\kf21}~{\kf17}very{\kf21}thing{\kf17} is{\kf17} de{\kf34}cay{\kf17}ing{\kf13} a{\kf38}round
-Dialogue: 0,0:00:40.65,0:00:43.17,DEFAULT,,0,0,0,,{\kf17}And{\kf17} there's{\kf21} no{\kf29}thing{\kf21} that{\kf13} you{\kf13} can{\kf38} do
-Dialogue: 0,0:00:44.45,0:00:47.09,DEFAULT,,0,0,0,,{\kf34}We'll{\kf54} all{\kf21} have{\kf29} these{\kf54} days
-Dialogue: 0,0:00:47.71,0:00:50.77,DEFAULT,,0,0,0,,{\kf17}But{\kf13} there{\kf21} is{\kf46} one{\kf34} thing{\kf21} that{\kf13} you{\kf17} must{\kf46} know
-Dialogue: 0,0:00:51.96,0:00:55.39,DEFAULT,,0,0,0,,{\kf29}What{\kf38} makes{\kf17} a{\kf25} he{\kf38}ro{\kf38} be{\kf13}~{\kf17} so{\kf38} great
-Dialogue: 0,0:00:55.76,0:00:58.12,DEFAULT,,0,0,0,,{\kf13}Is{\kf13} to{\kf34} ne{\kf29}ver,{\kf21} ne{\kf21}ver{\kf13} give{\kf29} up
-Dialogue: 0,0:00:58.69,0:00:59.73,DEFAULT,,0,0,0,,{\kf17}So{\kf25} now{\kf13} I{\kf25} ask
-Dialogue: 0,0:00:59.89,0:01:02.16,DEFAULT,,0,0,0,,{\kf46}Where's{\kf25} your{\kf25} hea{\kf21}ven{\kf62} now?
-Dialogue: 0,0:01:02.49,0:01:05.67,DEFAULT,,0,0,0,,{\kf17}I{\kf21} wan{\kf17}na{\kf34} know{\kf38} when{\kf34} will{\kf17} you{\kf21} find{\kf17} it{\kf34} out
-Dialogue: 0,0:01:06.29,0:01:09.55,DEFAULT,,0,0,0,,{\kf17}I{\kf21} wan{\kf17}na{\kf21} know{\kf38} where's{\kf34} your{\kf29} hea{\kf21}ven{\kf46} now?
-Dialogue: 0,0:01:09.97,0:01:13.19,DEFAULT,,0,0,0,,{\kf21}If{\kf17} you{\kf17} will{\kf21} give{\kf50} up{\kf34} or{\kf13} make{\kf17} it{\kf17} come{\kf34} out
-Dialogue: 0,0:01:13.72,0:01:15.87,DEFAULT,,0,0,0,,{\kf21}Cause{\kf17} we{\kf13} have{\kf13} all{\kf13} the{\kf17} time{\kf17} in{\kf17} the{\kf17} world
-Dialogue: 0,0:01:16.28,0:01:18.92,DEFAULT,,0,0,0,,{\kf17}We{\kf17} have{\kf17} no{\kf17}thing{\kf17} to{\kf50} fear{\kf13} or{\kf13}~{\kf42} loose
-Dialogue: 0,0:01:19.34,0:01:20.82,DEFAULT,,0,0,0,,{\kf13}And{\kf13} so{\kf13} much{\kf13} to{\kf25} do{\kf25}~
-Dialogue: 0,0:01:21.24,0:01:22.15,DEFAULT,,0,0,0,,{\kf17}So{\kf21} now{\kf13} I{\kf17} ask
-Dialogue: 0,0:01:22.39,0:01:24.58,DEFAULT,,0,0,0,,{\kf34}Where's{\kf29} your{\kf25} hea{\kf17}ven{\kf54} now?
-Dialogue: 0,0:01:24.99,0:01:26.85,DEFAULT,,0,0,0,,{\kf17}It's{\kf13} all{\kf13} up{\kf17} to{\kf87} you
-Dialogue: 0,0:01:28.05,0:01:30.28,DEFAULT,,0,0,0,,{\kf34}Where's{\kf34} your{\kf29} hea{\kf21}ven{\kf54} now?
-Dialogue: 0,0:02:10.62,0:02:14.13,DEFAULT,,0,0,0,,{\kf25}When{\kf17} the{\kf34} world{\kf29} is{\kf25} just{\kf17} so{\kf13}~{\kf46} hard{\kf17} with{\kf38} you
-Dialogue: 0,0:02:14.42,0:02:17.06,DEFAULT,,0,0,0,,{\kf17}And{\kf13} you{\kf34} feel{\kf25} there{\kf13} is{\kf17} no{\kf17}where{\kf17} to{\kf50} go
-Dialogue: 0,0:02:18.21,0:02:21.56,DEFAULT,,0,0,0,,{\kf29}When{\kf42} eve{\kf21}ry{\kf13}thing{\kf17}~{\kf17} is{\kf17} de{\kf38}cay{\kf21}ing{\kf13} a{\kf29}round
-Dialogue: 0,0:02:21.89,0:02:24.45,DEFAULT,,0,0,0,,{\kf21}And{\kf17} there's{\kf25} no{\kf29}thing{\kf17} that{\kf17} you{\kf13} can{\kf42} do
-Dialogue: 0,0:02:25.65,0:02:28.45,DEFAULT,,0,0,0,,{\kf38}We'll{\kf62} all{\kf17} have{\kf13}~{\kf25} these{\kf67} days
-Dialogue: 0,0:02:28.99,0:02:31.96,DEFAULT,,0,0,0,,{\kf17}But{\kf17} there{\kf17} is{\kf42} one{\kf34} thing{\kf21} that{\kf17} you{\kf17} must{\kf34} know
-Dialogue: 0,0:02:33.16,0:02:36.63,DEFAULT,,0,0,0,,{\kf29}What{\kf38} makes{\kf21} a{\kf17} he{\kf13}~{\kf25}ro{\kf38} be{\kf13}~{\kf17} so{\kf38} great
-Dialogue: 0,0:02:37.00,0:02:39.40,DEFAULT,,0,0,0,,{\kf13}Is{\kf17} to{\kf34} ne{\kf29}ver,{\kf21} ne{\kf17}ver{\kf17} give{\kf29} up
-Dialogue: 0,0:02:39.97,0:02:40.96,DEFAULT,,0,0,0,,{\kf21}So{\kf17} now{\kf17} I{\kf21} ask
-Dialogue: 0,0:02:41.21,0:02:43.36,DEFAULT,,0,0,0,,{\kf34}Where's{\kf29} your{\kf25} hea{\kf17}ven{\kf58} now?
-Dialogue: 0,0:02:43.69,0:02:46.91,DEFAULT,,0,0,0,,{\kf21}I{\kf21} wan{\kf17}na{\kf34} know{\kf34} when{\kf34} will{\kf21} you{\kf17} find{\kf17} it{\kf34} out
-Dialogue: 0,0:02:47.49,0:02:50.83,DEFAULT,,0,0,0,,{\kf17}I{\kf17} wan{\kf17}na{\kf25} know{\kf34} where's{\kf38} your{\kf25} hea{\kf17}ven{\kf54} now?
-Dialogue: 0,0:02:51.24,0:02:54.38,DEFAULT,,0,0,0,,{\kf17}If{\kf13} you{\kf17} will{\kf17} give{\kf54} up{\kf34} or{\kf17} make{\kf13} it{\kf17} come{\kf34} out
-Dialogue: 0,0:02:54.96,0:02:57.31,DEFAULT,,0,0,0,,{\kf17}Cause{\kf17} we{\kf13} have{\kf17} all{\kf17} the{\kf17} time{\kf17} in{\kf17} the{\kf42} world
-Dialogue: 0,0:02:57.56,0:03:00.08,DEFAULT,,0,0,0,,{\kf17}We{\kf17} have{\kf17} no{\kf17}thing{\kf17} to{\kf46} fear{\kf17} or{\kf13}~{\kf38} loose
-Dialogue: 0,0:03:00.62,0:03:02.06,DEFAULT,,0,0,0,,{\kf13}And{\kf17} so{\kf17} much{\kf13} to{\kf17} do{\kf29}~
-Dialogue: 0,0:03:02.48,0:03:03.38,DEFAULT,,0,0,0,,{\kf17}So{\kf17} now{\kf17} I{\kf17} ask
-Dialogue: 0,0:03:03.63,0:03:05.74,DEFAULT,,0,0,0,,{\kf42}Where's{\kf34} your{\kf25} hea{\kf17}ven{\kf46} now?
-Dialogue: 0,0:03:06.23,0:03:07.88,DEFAULT,,0,0,0,,{\kf21}It's{\kf13} all{\kf17} up{\kf17} to{\kf67} you
-Dialogue: 0,0:03:09.33,0:03:11.64,DEFAULT,,0,0,0,,{\kf34}Where's{\kf34} your{\kf29} hea{\kf21}ven{\kf71} now?
+Dialogue: 0,0:00:29.43,0:00:32.85,DEFAULT,,0,0,0,,{\r}{\kf22}When{\kf22} the{\kf60} world{\kf38} is{\kf33} just{\kf27} so{\kf87} hard{\kf16} with{\kf38} you
+Dialogue: 0,0:00:33.18,0:00:35.78,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf16} you{\kf48} feel{\kf32} there{\kf16} is{\kf21} no{\kf21}where{\kf21} to{\kf58} go
+Dialogue: 0,0:00:36.94,0:00:40.37,DEFAULT,,0,0,0,,{\r}{\kf52}When{\kf23} e{\kf29}~{\kf23}very{\kf29}thing{\kf23} is{\kf23} de{\kf47}cay{\kf23}ing{\kf17} a{\kf54}round
+Dialogue: 0,0:00:40.66,0:00:43.17,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf25} there's{\kf32} no{\kf44}thing{\kf32} that{\kf19} you{\kf19} can{\kf56} do
+Dialogue: 0,0:00:44.45,0:00:47.10,DEFAULT,,0,0,0,,{\r}{\kf46}We'll{\kf75} all{\kf29} have{\kf40} these{\kf74} days
+Dialogue: 0,0:00:47.72,0:00:50.77,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf17} there{\kf28} is{\kf62} one{\kf45} thing{\kf28} that{\kf17} you{\kf23} must{\kf63} know
+Dialogue: 0,0:00:51.97,0:00:55.40,DEFAULT,,0,0,0,,{\r}{\kf40}What{\kf51} makes{\kf23} a{\kf34} he{\kf51}ro{\kf51} be{\kf17}~{\kf23} so{\kf53} great
+Dialogue: 0,0:00:55.77,0:00:58.12,DEFAULT,,0,0,0,,{\r}{\kf17}Is{\kf17} to{\kf46} ne{\kf40}ver,{\kf29} ne{\kf29}ver{\kf17} give{\kf40} up
+Dialogue: 0,0:00:58.70,0:00:59.73,DEFAULT,,0,0,0,,{\r}{\kf22}So{\kf33} now{\kf16} I{\kf32} ask
+Dialogue: 0,0:00:59.90,0:01:02.17,DEFAULT,,0,0,0,,{\r}{\kf58}Where's{\kf32} your{\kf32} hea{\kf26}ven{\kf79} now?
+Dialogue: 0,0:01:02.50,0:01:05.68,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf27} wan{\kf22}na{\kf43} know{\kf49} when{\kf43} will{\kf22} you{\kf27} find{\kf22} it{\kf41} out
+Dialogue: 0,0:01:06.30,0:01:09.56,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf28} wan{\kf22}na{\kf28} know{\kf51} where's{\kf45} your{\kf39} hea{\kf28}ven{\kf63} now?
+Dialogue: 0,0:01:09.97,0:01:13.19,DEFAULT,,0,0,0,,{\r}{\kf28}If{\kf23} you{\kf23} will{\kf28} give{\kf68} up{\kf45} or{\kf17} make{\kf23} it{\kf23} come{\kf44} out
+Dialogue: 0,0:01:13.73,0:01:15.87,DEFAULT,,0,0,0,,{\r}{\kf32}Cause{\kf25} we{\kf19} have{\kf19} all{\kf19} the{\kf25} time{\kf25} in{\kf25} the{\kf26} world
+Dialogue: 0,0:01:16.29,0:01:18.93,DEFAULT,,0,0,0,,{\r}{\kf22}We{\kf22} have{\kf22} no{\kf22}thing{\kf22} to{\kf66} fear{\kf17} or{\kf17}~{\kf54} loose
+Dialogue: 0,0:01:19.34,0:01:20.83,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} so{\kf19} much{\kf19} to{\kf37} do{\kf36}~
+Dialogue: 0,0:01:21.24,0:01:22.15,DEFAULT,,0,0,0,,{\r}{\kf23}So{\kf28} now{\kf17} I{\kf23} ask
+Dialogue: 0,0:01:22.40,0:01:24.59,DEFAULT,,0,0,0,,{\r}{\kf46}Where's{\kf40} your{\kf35} hea{\kf23}ven{\kf75} now?
+Dialogue: 0,0:01:25.00,0:01:26.86,DEFAULT,,0,0,0,,{\r}{\kf21}It's{\kf16} all{\kf16} up{\kf21} to{\kf112} you
+Dialogue: 0,0:01:28.05,0:01:30.28,DEFAULT,,0,0,0,,{\r}{\kf44}Where's{\kf44} your{\kf38} hea{\kf27}ven{\kf70} now?
+Dialogue: 0,0:02:10.62,0:02:14.13,DEFAULT,,0,0,0,,{\r}{\kf34}When{\kf23} the{\kf45} world{\kf40} is{\kf34} just{\kf23} so{\kf17}~{\kf62} hard{\kf23} with{\kf50} you
+Dialogue: 0,0:02:14.42,0:02:17.06,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf16} you{\kf44} feel{\kf33} there{\kf16} is{\kf22} no{\kf22}where{\kf22} to{\kf67} go
+Dialogue: 0,0:02:18.22,0:02:21.56,DEFAULT,,0,0,0,,{\r}{\kf38}When{\kf55} eve{\kf27}ry{\kf16}thing{\kf22}~{\kf22} is{\kf22} de{\kf49}cay{\kf27}ing{\kf16} a{\kf40}round
+Dialogue: 0,0:02:21.89,0:02:24.45,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf24} there's{\kf36} no{\kf42}thing{\kf24} that{\kf24} you{\kf18} can{\kf58} do
+Dialogue: 0,0:02:25.65,0:02:28.46,DEFAULT,,0,0,0,,{\r}{\kf48}We'll{\kf80} all{\kf21} have{\kf16}~{\kf32} these{\kf84} days
+Dialogue: 0,0:02:29.00,0:02:31.97,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf23} there{\kf23} is{\kf58} one{\kf47} thing{\kf29} that{\kf23} you{\kf23} must{\kf48} know
+Dialogue: 0,0:02:33.17,0:02:36.63,DEFAULT,,0,0,0,,{\r}{\kf41}What{\kf53} makes{\kf29} a{\kf24} he{\kf18}~{\kf35}ro{\kf53} be{\kf18}~{\kf24} so{\kf52} great
+Dialogue: 0,0:02:37.01,0:02:39.40,DEFAULT,,0,0,0,,{\r}{\kf17}Is{\kf23} to{\kf46} ne{\kf40}ver,{\kf28} ne{\kf23}ver{\kf23} give{\kf39} up
+Dialogue: 0,0:02:39.98,0:02:40.97,DEFAULT,,0,0,0,,{\r}{\kf28}So{\kf22} now{\kf22} I{\kf27} ask
+Dialogue: 0,0:02:41.22,0:02:43.36,DEFAULT,,0,0,0,,{\r}{\kf44}Where's{\kf39} your{\kf33} hea{\kf22}ven{\kf77} now?
+Dialogue: 0,0:02:43.69,0:02:46.91,DEFAULT,,0,0,0,,{\r}{\kf27}I{\kf27} wan{\kf22}na{\kf44} know{\kf44} when{\kf44} will{\kf27} you{\kf22} find{\kf22} it{\kf43} out
+Dialogue: 0,0:02:47.49,0:02:50.84,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf23} wan{\kf23}na{\kf35} know{\kf46} where's{\kf52} your{\kf35} hea{\kf23}ven{\kf74} now?
+Dialogue: 0,0:02:51.25,0:02:54.39,DEFAULT,,0,0,0,,{\r}{\kf23}If{\kf17} you{\kf23} will{\kf23} give{\kf74} up{\kf46} or{\kf23} make{\kf17} it{\kf23} come{\kf45} out
+Dialogue: 0,0:02:54.97,0:02:57.32,DEFAULT,,0,0,0,,{\r}{\kf23}Cause{\kf23} we{\kf17} have{\kf23} all{\kf23} the{\kf23} time{\kf23} in{\kf23} the{\kf57} world
+Dialogue: 0,0:02:57.57,0:03:00.09,DEFAULT,,0,0,0,,{\r}{\kf21}We{\kf21} have{\kf21} no{\kf21}thing{\kf21} to{\kf59} fear{\kf21} or{\kf16}~{\kf51} loose
+Dialogue: 0,0:03:00.62,0:03:02.07,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf23} so{\kf23} much{\kf17} to{\kf23} do{\kf42}~
+Dialogue: 0,0:03:02.48,0:03:03.39,DEFAULT,,0,0,0,,{\r}{\kf23}So{\kf23} now{\kf23} I{\kf22} ask
+Dialogue: 0,0:03:03.64,0:03:05.74,DEFAULT,,0,0,0,,{\r}{\kf54}Where's{\kf43} your{\kf32} hea{\kf22}ven{\kf60} now?
+Dialogue: 0,0:03:06.24,0:03:07.89,DEFAULT,,0,0,0,,{\r}{\kf26}It's{\kf15} all{\kf21} up{\kf21} to{\kf82} you
+Dialogue: 0,0:03:09.33,0:03:11.65,DEFAULT,,0,0,0,,{\r}{\kf41}Where's{\kf41} your{\kf36} hea{\kf26}ven{\kf87} now?

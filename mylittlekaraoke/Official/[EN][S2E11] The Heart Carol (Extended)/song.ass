@@ -1,39 +1,46 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: The Heart Carol (Extended)
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:10.45,0:00:14.35,DEFAULT,,0,0,0,,{\kf27}As{\kf83} dawn{\kf27} shines{\kf23} on{\kf34} us{\kf42} eve{\kf30}ry{\kf57} morn'
-Dialogue: 0,0:00:14.53,0:00:18.13,DEFAULT,,0,0,0,,{\kf15}The{\kf49} fire{\kf30} of{\kf34} friend{\kf38}ship{\kf38} is{\kf42} re{\kf49}born
-Dialogue: 0,0:00:18.43,0:00:22.07,DEFAULT,,0,0,0,,{\kf15}And{\kf38} all{\kf30} the{\kf23} fri{\kf19}-end{\kf38}ships{\kf34} we{\kf45} have{\kf57} made
-Dialogue: 0,0:00:22.30,0:00:25.78,DEFAULT,,0,0,0,,{\kf15}We{\kf23} che{\kf23}rish{\kf42} in{\kf45} eve{\kf38}ry{\kf135} way
-Dialogue: 0,0:00:26.38,0:00:29.80,DEFAULT,,0,0,0,,{\kf19}Lo{\kf19}yal{\kf34}ty{\kf45} binds{\kf19} us{\kf19} and{\kf42} makes{\kf27} us{\kf64} strong
-Dialogue: 0,0:00:30.25,0:00:33.66,DEFAULT,,0,0,0,,{\kf19}Ho{\kf19}nes{\kf30}ty{\kf45} shows{\kf38} that{\kf49} we{\kf42} be{\kf57}long
-Dialogue: 0,0:00:33.92,0:00:40.63,DEFAULT,,0,0,0,,{\kf19}And{\kf42} kind{\kf30}ness{\kf38} shared{\kf15} will{\kf19} u{\kf45}nite{\kf34} us{\kf45} through{\kf49} each{\kf259} day
-Dialogue: 0,0:00:41.42,0:00:45.17,DEFAULT,,0,0,0,,{\kf23}The{\kf49} fire{\kf38} of{\kf34} friend{\kf42}ship{\kf57} lives{\kf15} in{\kf15} our{\kf42} hearts
-Dialogue: 0,0:00:45.36,0:00:49.11,DEFAULT,,0,0,0,,{\kf27}As{\kf45} long{\kf19} as{\kf15} it{\kf42} burns,{\kf15} we{\kf19} can{\kf42}not{\kf19} drift{\kf15} a{\kf45}part
-Dialogue: 0,0:00:49.33,0:00:53.31,DEFAULT,,0,0,0,,{\kf19}Though{\kf45} quarrels{\kf34} a{\kf38}rise,{\kf38} their{\kf45} num{\kf19}bers{\kf15} are{\kf79} few
-Dialogue: 0,0:00:53.50,0:00:58.48,DEFAULT,,0,0,0,,{\kf42}Laugh{\kf19}ter{\kf12} and{\kf23} sin{\kf19}ging{\kf34} will{\kf42} see{\kf34} us{\kf222} through
-Dialogue: 0,0:00:58.86,0:01:02.50,DEFAULT,,0,0,0,,{\kf38}We{\kf42} are{\kf27} a{\kf27} cir{\kf15}cle{\kf38} of{\kf42} po{\kf15}ny{\kf19}-y{\kf38} friends
-Dialogue: 0,0:01:02.68,0:01:04.45,DEFAULT,,0,0,0,,{\kf23}A{\kf38} cir{\kf19}cle{\kf15} of{\kf38} friends
-Dialogue: 0,0:01:04.63,0:01:10.00,DEFAULT,,0,0,0,,{\kf42}We'll{\kf38} be{\kf19} to{\kf15} the{\kf42} ve{\kf45}ry{\kf297} end
-Dialogue: 0,0:01:10.86,0:01:14.31,DEFAULT,,0,0,0,,{\kf38}Win{\kf42}ter{\kf53} brings{\kf19} all{\kf19} its{\kf45} cold{\kf27} and{\kf57} storm
-Dialogue: 0,0:01:14.53,0:01:18.17,DEFAULT,,0,0,0,,{\kf19}The{\kf45} glow{\kf42} in{\kf34} our{\kf42} hearts{\kf45} keeps{\kf30} us{\kf53} warm
-Dialogue: 0,0:01:18.43,0:01:21.92,DEFAULT,,0,0,0,,{\kf19}The{\kf45} friends{\kf34} we{\kf34} now{\kf23} call{\kf19} our{\kf38} fa{\kf34}mi{\kf42}ly
-Dialogue: 0,0:01:22.30,0:01:25.71,DEFAULT,,0,0,0,,{\kf19}Will{\kf19} a{\kf19}-al{\kf34}ways{\kf42} see{\kf38} us{\kf135} through
-Dialogue: 0,0:01:26.38,0:01:29.83,DEFAULT,,0,0,0,,{\kf23}Lo{\kf19}yal{\kf38}ty{\kf45} binds{\kf15} us{\kf19} and{\kf45} makes{\kf27} us{\kf64} strong
-Dialogue: 0,0:01:30.28,0:01:33.66,DEFAULT,,0,0,0,,{\kf19}Ho{\kf19}nes{\kf27}ty{\kf42} shows{\kf30} that{\kf38} we{\kf42} be{\kf53}long
-Dialogue: 0,0:01:33.92,0:01:40.56,DEFAULT,,0,0,0,,{\kf19}And{\kf42} kind{\kf34}ness{\kf45} shared{\kf19} will{\kf23} u{\kf45}nite{\kf34} us{\kf49} through{\kf30} each{\kf252} day
-Dialogue: 0,0:01:41.46,0:01:45.17,DEFAULT,,0,0,0,,{\kf23}The{\kf49} fire{\kf34} of{\kf34} friend{\kf42}ship{\kf42} lives{\kf15} in{\kf15} our{\kf42} hearts
-Dialogue: 0,0:01:45.32,0:01:49.03,DEFAULT,,0,0,0,,{\kf34}As{\kf49} long{\kf19} as{\kf15} it{\kf42} burns,{\kf19} we{\kf19} can{\kf42}not{\kf23} drift{\kf15} a{\kf45}part
-Dialogue: 0,0:01:49.37,0:01:52.97,DEFAULT,,0,0,0,,{\kf27}Though{\kf38} quarrels{\kf30} a{\kf42}rise,{\kf38} their{\kf45} num{\kf19}bers{\kf15} are{\kf45} few
-Dialogue: 0,0:01:53.50,0:01:58.18,DEFAULT,,0,0,0,,{\kf42}Laugh{\kf15}ter{\kf15} and{\kf19} sin{\kf15}ging{\kf30} will{\kf45} see{\kf34} us{\kf188} through
-Dialogue: 0,0:01:58.86,0:02:02.50,DEFAULT,,0,0,0,,{\kf34}We{\kf45} are{\kf30} a{\kf23} cir{\kf23}cle{\kf30} of{\kf42} po{\kf15}ny{\kf15}-y{\kf38} friends
-Dialogue: 0,0:02:02.76,0:02:04.48,DEFAULT,,0,0,0,,{\kf23}A{\kf45} cir{\kf15}cle{\kf19} of{\kf38} friends
-Dialogue: 0,0:02:04.63,0:02:11.12,DEFAULT,,0,0,0,,{\kf42}We'll{\kf38} be{\kf19} to{\kf19} the{\kf45} ve{\kf42}ry{\kf409} end
+Dialogue: 0,0:00:10.45,0:00:14.35,DEFAULT,,0,0,0,,{\r}{\kf32}As{\kf101} dawn{\kf32} shines{\kf28} on{\kf41} us{\kf50} eve{\kf37}ry{\kf69} morn'
+Dialogue: 0,0:00:14.54,0:00:18.14,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf60} fire{\kf37} of{\kf42} friend{\kf46}ship{\kf46} is{\kf51} re{\kf60}born
+Dialogue: 0,0:00:18.44,0:00:22.07,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf46} all{\kf37} the{\kf28} fri{\kf23}-end{\kf46}ships{\kf41} we{\kf55} have{\kf70} made
+Dialogue: 0,0:00:22.30,0:00:25.79,DEFAULT,,0,0,0,,{\r}{\kf16}We{\kf25} che{\kf25}rish{\kf45} in{\kf49} eve{\kf41}ry{\kf148} way
+Dialogue: 0,0:00:26.39,0:00:29.80,DEFAULT,,0,0,0,,{\r}{\kf22}Lo{\kf22}yal{\kf40}ty{\kf54} binds{\kf22} us{\kf22} and{\kf49} makes{\kf31} us{\kf79} strong
+Dialogue: 0,0:00:30.25,0:00:33.66,DEFAULT,,0,0,0,,{\r}{\kf22}Ho{\kf22}nes{\kf35}ty{\kf52} shows{\kf43} that{\kf56} we{\kf47} be{\kf64}long
+Dialogue: 0,0:00:33.92,0:00:40.64,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf47} kind{\kf34}ness{\kf42} shared{\kf17} will{\kf21} u{\kf51}nite{\kf38} us{\kf51} through{\kf55} each{\kf294} day
+Dialogue: 0,0:00:41.42,0:00:45.17,DEFAULT,,0,0,0,,{\r}{\kf27}The{\kf59} fire{\kf45} of{\kf41} friend{\kf50}ship{\kf68} lives{\kf18} in{\kf18} our{\kf49} hearts
+Dialogue: 0,0:00:45.36,0:00:49.11,DEFAULT,,0,0,0,,{\r}{\kf33}As{\kf56} long{\kf23} as{\kf19} it{\kf52} burns,{\kf19} we{\kf23} can{\kf52}not{\kf23} drift{\kf19} a{\kf56}part
+Dialogue: 0,0:00:49.34,0:00:53.31,DEFAULT,,0,0,0,,{\r}{\kf23}Though{\kf54} quarrels{\kf41} a{\kf45}rise,{\kf45} their{\kf54} num{\kf23}bers{\kf18} are{\kf95} few
+Dialogue: 0,0:00:53.50,0:00:58.49,DEFAULT,,0,0,0,,{\r}{\kf47}Laugh{\kf21}ter{\kf13} and{\kf25} sin{\kf21}ging{\kf38} will{\kf47} see{\kf38} us{\kf249} through
+Dialogue: 0,0:00:58.86,0:01:02.50,DEFAULT,,0,0,0,,{\r}{\kf46}We{\kf51} are{\kf32} a{\kf32} cir{\kf18}cle{\kf46} of{\kf51} po{\kf18}ny{\kf23}-y{\kf47} friends
+Dialogue: 0,0:01:02.69,0:01:04.45,DEFAULT,,0,0,0,,{\r}{\kf30}A{\kf50} cir{\kf25}cle{\kf20} of{\kf51} friends
+Dialogue: 0,0:01:04.64,0:01:10.00,DEFAULT,,0,0,0,,{\r}{\kf45}We'll{\kf41} be{\kf20} to{\kf16} the{\kf45} ve{\kf49}ry{\kf320} end
+Dialogue: 0,0:01:10.86,0:01:14.31,DEFAULT,,0,0,0,,{\r}{\kf44}Win{\kf48}ter{\kf61} brings{\kf22} all{\kf22} its{\kf52} cold{\kf31} and{\kf65} storm
+Dialogue: 0,0:01:14.54,0:01:18.17,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf53} glow{\kf49} in{\kf40} our{\kf49} hearts{\kf53} keeps{\kf36} us{\kf62} warm
+Dialogue: 0,0:01:18.44,0:01:21.92,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf55} friends{\kf41} we{\kf41} now{\kf28} call{\kf23} our{\kf46} fa{\kf41}mi{\kf51}ly
+Dialogue: 0,0:01:22.30,0:01:25.71,DEFAULT,,0,0,0,,{\r}{\kf21}Will{\kf21} a{\kf21}-al{\kf38}ways{\kf46} see{\kf42} us{\kf152} through
+Dialogue: 0,0:01:26.39,0:01:29.84,DEFAULT,,0,0,0,,{\r}{\kf27}Lo{\kf22}yal{\kf44}ty{\kf53} binds{\kf18} us{\kf22} and{\kf53} makes{\kf31} us{\kf75} strong
+Dialogue: 0,0:01:30.29,0:01:33.66,DEFAULT,,0,0,0,,{\r}{\kf24}Ho{\kf24}nes{\kf33}ty{\kf52} shows{\kf38} that{\kf48} we{\kf52} be{\kf67}long
+Dialogue: 0,0:01:33.92,0:01:40.56,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf47} kind{\kf38}ness{\kf51} shared{\kf21} will{\kf25} u{\kf51}nite{\kf38} us{\kf55} through{\kf34} each{\kf283} day
+Dialogue: 0,0:01:41.46,0:01:45.17,DEFAULT,,0,0,0,,{\r}{\kf29}The{\kf62} fire{\kf43} of{\kf43} friend{\kf52}ship{\kf52} lives{\kf19} in{\kf19} our{\kf52} hearts
+Dialogue: 0,0:01:45.33,0:01:49.04,DEFAULT,,0,0,0,,{\r}{\kf39}As{\kf57} long{\kf22} as{\kf17} it{\kf48} burns,{\kf22} we{\kf22} can{\kf48}not{\kf26} drift{\kf17} a{\kf53}part
+Dialogue: 0,0:01:49.38,0:01:52.97,DEFAULT,,0,0,0,,{\r}{\kf32}Though{\kf46} quarrels{\kf36} a{\kf50}rise,{\kf46} their{\kf55} num{\kf23}bers{\kf18} are{\kf54} few
+Dialogue: 0,0:01:53.50,0:01:58.19,DEFAULT,,0,0,0,,{\r}{\kf48}Laugh{\kf18}ter{\kf18} and{\kf22} sin{\kf18}ging{\kf35} will{\kf53} see{\kf39} us{\kf218} through
+Dialogue: 0,0:01:58.86,0:02:02.50,DEFAULT,,0,0,0,,{\r}{\kf42}We{\kf56} are{\kf37} a{\kf28} cir{\kf28}cle{\kf37} of{\kf51} po{\kf19}ny{\kf19}-y{\kf47} friends
+Dialogue: 0,0:02:02.76,0:02:04.49,DEFAULT,,0,0,0,,{\r}{\kf28}A{\kf56} cir{\kf19}cle{\kf23} of{\kf46} friends
+Dialogue: 0,0:02:04.64,0:02:11.12,DEFAULT,,0,0,0,,{\r}{\kf44}We'll{\kf40} be{\kf20} to{\kf20} the{\kf48} ve{\kf44}ry{\kf433} end

@@ -1,57 +1,64 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Just Like You
+Artist: Aviators
+Original Timing: mylittlekaraoke.com by ShTHfan1
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:44.68,0:00:46.05,DEFAULT,,0,0,0,,{\kf11}W{\kf15}~atch{\kf26}ing{\kf22} you{\kf58}~
-Dialogue: 0,0:00:46.48,0:00:47.89,DEFAULT,,0,0,0,,{\kf11}Fl{\kf19}~y{\kf22}ing{\kf19} hi{\kf19}~gh{\kf19}er{\kf11}~
-Dialogue: 0,0:00:48.00,0:00:49.19,DEFAULT,,0,0,0,,{\kf22}Gone{\kf19} in{\kf11} a{\kf51} flash
-Dialogue: 0,0:00:49.44,0:00:51.60,DEFAULT,,0,0,0,,{\kf19}Like{\kf19} a{\kf19} mul{\kf19}ti{\kf19}-col{\kf19}ored{\kf47} fi{\kf37}re
-Dialogue: 0,0:00:51.97,0:00:57.38,DEFAULT,,0,0,0,,{\kf19}I{\kf22} on{\kf19}ly{\kf40} wish{\kf19} I{\kf19} could{\kf87} fly{\kf22} be{\kf65}si{\kf58}~de{\kf94} you
-Dialogue: 0,0:00:59.55,0:01:00.92,DEFAULT,,0,0,0,,{\kf22}Some{\kf19}~{\kf84}day
-Dialogue: 0,0:01:01.35,0:01:02.69,DEFAULT,,0,0,0,,{\kf26}I'll{\kf26} be{\kf15} up{\kf26}~{\kf19} there{\kf11}~
-Dialogue: 0,0:01:02.79,0:01:04.02,DEFAULT,,0,0,0,,{\kf19}Just{\kf33} like{\kf58} you
-Dialogue: 0,0:01:04.60,0:01:06.47,DEFAULT,,0,0,0,,{\kf29}Dash{\kf40}ing{\kf47} through{\kf19} the{\kf26} air
-Dialogue: 0,0:01:06.91,0:01:12.03,DEFAULT,,0,0,0,,{\kf26}I{\kf33} know{\kf40} one{\kf40} day{\kf26} my{\kf33} dreams{\kf22} will{\kf26} co{\kf40}~me{\kf134} true
-Dialogue: 0,0:01:14.05,0:01:17.63,DEFAULT,,0,0,0,,{\kf26}Oh{\kf19} how{\kf11} I{\kf19} wish{\kf19} I{\kf19} could{\kf19} be{\kf26} soar{\kf29}ing{\kf44} through{\kf15} the{\kf33} sky
-Dialogue: 0,0:01:17.81,0:01:21.42,DEFAULT,,0,0,0,,{\kf19}If{\kf22} on{\kf19}ly{\kf11} I{\kf19} could{\kf26} stand{\kf19} u{\kf40}pon{\kf19} the{\kf40} clouds{\kf40} up{\kf37} high
-Dialogue: 0,0:01:21.71,0:01:26.76,DEFAULT,,0,0,0,,{\kf26}If{\kf40} on{\kf19}ly{\kf19} I{\kf19} could{\kf65} be{\kf33} just{\kf11} li{\kf47}~ke{\kf167} you
-Dialogue: 0,0:01:29.03,0:01:32.57,DEFAULT,,0,0,0,,{\kf29}Some{\kf40}day{\kf26} I'll{\kf40} be{\kf29} fly{\kf33}ing{\kf29} ab{\kf11}o{\kf22}~ve{\kf19} the{\kf44} world
-Dialogue: 0,0:01:32.79,0:01:36.40,DEFAULT,,0,0,0,,{\kf22}One{\kf33} day{\kf19} I'll{\kf29} be{\kf15} more{\kf11} than{\kf22} just{\kf26} an{\kf11} or{\kf15}di{\kf33}na{\kf22}ry{\kf33} girl
-Dialogue: 0,0:01:36.54,0:01:40.29,DEFAULT,,0,0,0,,{\kf19}'Cuz{\kf33} I{\kf19} can{\kf19} be{\kf22} what{\kf37}e{\kf22}~v{\kf44}er{\kf19} I{\kf11}~{\kf26} choo{\kf33}~se
-Dialogue: 0,0:01:40.44,0:01:45.42,DEFAULT,,0,0,0,,{\kf15}I{\kf19} wan{\kf19}na{\kf33} be{\kf40} just{\kf19} li{\kf33}~ke{\kf250} you
-Dialogue: 0,0:01:58.56,0:01:59.96,DEFAULT,,0,0,0,,{\kf11}O{\kf19}~ne{\kf19}~{\kf87} day
-Dialogue: 0,0:02:00.54,0:02:01.77,DEFAULT,,0,0,0,,{\kf19}I'll{\kf19} learn{\kf22} all{\kf15}~{\kf22} your{\kf15}~
-Dialogue: 0,0:02:01.91,0:02:03.00,DEFAULT,,0,0,0,,{\kf29}Dar{\kf26}ing{\kf51} tricks
-Dialogue: 0,0:02:03.28,0:02:05.74,DEFAULT,,0,0,0,,{\kf15}And{\kf19} you'll{\kf29} see{\kf29} what{\kf19} I{\kf29} have{\kf29} in{\kf37} store
-Dialogue: 0,0:02:06.03,0:02:11.01,DEFAULT,,0,0,0,,{\kf29}Some{\kf37}day{\kf19} I'll{\kf29} fly{\kf58} just{\kf15} as{\kf40} high{\kf19} a{\kf40}~s{\kf152} you
-Dialogue: 0,0:02:13.39,0:02:14.33,DEFAULT,,0,0,0,,{\kf19}Un{\kf26}til{\kf44} then
-Dialogue: 0,0:02:15.27,0:02:16.57,DEFAULT,,0,0,0,,{\kf19}I'll{\kf15} be{\kf26} try{\kf15}~{\kf22}ing{\kf15}~
-Dialogue: 0,0:02:16.71,0:02:18.05,DEFAULT,,0,0,0,,{\kf19}I'll{\kf19} nev{\kf19}er{\kf40} give{\kf22} up
-Dialogue: 0,0:02:18.30,0:02:20.03,DEFAULT,,0,0,0,,{\kf19}Un{\kf22}til{\kf15} I'm{\kf26}~{\kf22} fly{\kf40}ing
-Dialogue: 0,0:02:20.61,0:02:24.94,DEFAULT,,0,0,0,,{\kf19}I'll{\kf40} be{\kf22} watch{\kf37}ing{\kf26} e{\kf26}very{\kf19} lit{\kf26}tle{\kf22} thing{\kf33} you{\kf22}~{\kf26} do{\kf58}~
-Dialogue: 0,0:02:27.94,0:02:31.44,DEFAULT,,0,0,0,,{\kf15}Oh{\kf22} how{\kf15} I{\kf19} wish{\kf19} I{\kf15} could{\kf15} be{\kf22} soar{\kf26}ing{\kf33} through{\kf15} the{\kf29} sky
-Dialogue: 0,0:02:31.65,0:02:35.19,DEFAULT,,0,0,0,,{\kf19}If{\kf22} on{\kf19}ly{\kf15} I{\kf11} could{\kf22} stand{\kf15} u{\kf33}pon{\kf15} the{\kf37} clouds{\kf33} up{\kf37} high
-Dialogue: 0,0:02:35.48,0:02:40.53,DEFAULT,,0,0,0,,{\kf26}If{\kf40} on{\kf19}ly{\kf15} I{\kf19} could{\kf55} be{\kf33} just{\kf11} li{\kf47}~ke{\kf174} you
-Dialogue: 0,0:02:42.84,0:02:46.38,DEFAULT,,0,0,0,,{\kf29}Some{\kf40}day{\kf26} I'll{\kf37} be{\kf26} fly{\kf33}ing{\kf26} a{\kf15}bo{\kf26}~ve{\kf26} the{\kf44} world
-Dialogue: 0,0:02:46.60,0:02:50.17,DEFAULT,,0,0,0,,{\kf26}One{\kf37} day{\kf15} I'll{\kf26} be{\kf15} more{\kf11} than{\kf19} just{\kf22} an{\kf15} or{\kf11}di{\kf33}na{\kf22}ry{\kf29} girl
-Dialogue: 0,0:02:50.35,0:02:54.07,DEFAULT,,0,0,0,,{\kf22}'Cuz{\kf33} I{\kf19} can{\kf19} be{\kf19} what{\kf37}e{\kf22}~v{\kf40}er{\kf19} I{\kf11}~{\kf19} choo{\kf29}~se
-Dialogue: 0,0:02:54.25,0:02:59.30,DEFAULT,,0,0,0,,{\kf19}I{\kf19} wan{\kf15}na{\kf37} be{\kf40} just{\kf11} li{\kf40}~ke{\kf253} you
-Dialogue: 0,0:03:12.00,0:03:13.81,DEFAULT,,0,0,0,,{\kf26}Some{\kf19}day{\kf22} I'll{\kf98} be
-Dialogue: 0,0:03:14.75,0:03:15.58,DEFAULT,,0,0,0,,{\kf26}Just{\kf44} li{\kf11}~ke-
-Dialogue: 0,0:03:15.76,0:03:18.32,DEFAULT,,0,0,0,,{\kf22}I{\kf11} wan{\kf22}na{\kf185} be
-Dialogue: 0,0:03:18.50,0:03:21.93,DEFAULT,,0,0,0,,{\kf26}Just{\kf19} li{\kf33}~ke{\kf250} you
-Dialogue: 0,0:03:22.11,0:03:25.72,DEFAULT,,0,0,0,,{\kf29}Just{\kf47} like{\kf260} you
-Dialogue: 0,0:03:30.70,0:03:34.27,DEFAULT,,0,0,0,,{\kf22}Oh{\kf15} how{\kf15} I{\kf19} wish{\kf19} I{\kf15} could{\kf15} be{\kf22} soar{\kf22}ing{\kf44} through{\kf15} the{\kf33} sky
-Dialogue: 0,0:03:34.45,0:03:38.03,DEFAULT,,0,0,0,,{\kf26}If{\kf22} on{\kf15}ly{\kf15} I{\kf15} could{\kf22} stand{\kf19} u{\kf37}pon{\kf19} the{\kf44} clouds{\kf37} up{\kf40} high
-Dialogue: 0,0:03:38.35,0:03:43.40,DEFAULT,,0,0,0,,{\kf22}If{\kf37} on{\kf19}ly{\kf19} I{\kf19} could{\kf55} be{\kf26} just{\kf22} li{\kf37}~ke{\kf177} you
-Dialogue: 0,0:03:45.71,0:03:49.11,DEFAULT,,0,0,0,,{\kf29}Some{\kf37}day{\kf26} I'll{\kf33} be{\kf26} fly{\kf33}ing{\kf29} a{\kf15}bo{\kf22}~ve{\kf15} the{\kf37} world
-Dialogue: 0,0:03:49.40,0:03:53.01,DEFAULT,,0,0,0,,{\kf19}One{\kf37} day{\kf15} I'll{\kf29} be{\kf11} more{\kf11} than{\kf22} just{\kf26} an{\kf15} or{\kf15}di{\kf33}na{\kf26}ry{\kf33} girl
-Dialogue: 0,0:03:53.15,0:03:56.87,DEFAULT,,0,0,0,,{\kf19}'Cuz{\kf29} I{\kf19} can{\kf19} be{\kf19} what{\kf37}e{\kf22}~v{\kf44}er{\kf19} I{\kf11}~{\kf19} choo{\kf33}~se
-Dialogue: 0,0:03:57.05,0:04:02.10,DEFAULT,,0,0,0,,{\kf19}I{\kf19} wan{\kf19}na{\kf37} be{\kf51} just{\kf11} li{\kf37}~ke{\kf260} you
+Dialogue: 0,0:00:44.68,0:00:46.05,DEFAULT,,0,0,0,,{\r}{\kf11}W{\kf15}~atch{\kf27}ing{\kf23} you{\kf61}~
+Dialogue: 0,0:00:46.48,0:00:47.89,DEFAULT,,0,0,0,,{\r}{\kf13}Fl{\kf22}~y{\kf26}ing{\kf22} hi{\kf22}~gh{\kf22}er{\kf14}~
+Dialogue: 0,0:00:48.00,0:00:49.19,DEFAULT,,0,0,0,,{\r}{\kf26}Gone{\kf21} in{\kf13} a{\kf59} flash
+Dialogue: 0,0:00:49.44,0:00:51.61,DEFAULT,,0,0,0,,{\r}{\kf20}Like{\kf20} a{\kf20} mul{\kf20}ti{\kf20}-col{\kf20}ored{\kf53} fi{\kf44}re
+Dialogue: 0,0:00:51.97,0:00:57.38,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf26} on{\kf21}ly{\kf47} wish{\kf21} I{\kf21} could{\kf102} fly{\kf26} be{\kf77}si{\kf68}~de{\kf111} you
+Dialogue: 0,0:00:59.55,0:01:00.92,DEFAULT,,0,0,0,,{\r}{\kf24}Some{\kf20}~{\kf93}day
+Dialogue: 0,0:01:01.35,0:01:02.69,DEFAULT,,0,0,0,,{\r}{\kf28}I'll{\kf28} be{\kf16} up{\kf28}~{\kf20} there{\kf14}~
+Dialogue: 0,0:01:02.80,0:01:04.03,DEFAULT,,0,0,0,,{\r}{\kf20}Just{\kf37} like{\kf66} you
+Dialogue: 0,0:01:04.60,0:01:06.48,DEFAULT,,0,0,0,,{\r}{\kf34}Dash{\kf47}ing{\kf56} through{\kf21} the{\kf30} air
+Dialogue: 0,0:01:06.91,0:01:12.04,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf40} know{\kf49} one{\kf49} day{\kf31} my{\kf40} dreams{\kf27} will{\kf31} co{\kf49}~me{\kf166} true
+Dialogue: 0,0:01:14.06,0:01:17.63,DEFAULT,,0,0,0,,{\r}{\kf33}Oh{\kf24} how{\kf14} I{\kf24} wish{\kf24} I{\kf24} could{\kf24} be{\kf33} soar{\kf38}ing{\kf57} through{\kf19} the{\kf43} sky
+Dialogue: 0,0:01:17.81,0:01:21.42,DEFAULT,,0,0,0,,{\r}{\kf21}If{\kf26} on{\kf21}ly{\kf13} I{\kf21} could{\kf30} stand{\kf21} u{\kf47}pon{\kf21} the{\kf47} clouds{\kf47} up{\kf46} high
+Dialogue: 0,0:01:21.71,0:01:26.76,DEFAULT,,0,0,0,,{\r}{\kf29}If{\kf46} on{\kf21}ly{\kf21} I{\kf21} could{\kf75} be{\kf37} just{\kf12} li{\kf54}~ke{\kf189} you
+Dialogue: 0,0:01:29.04,0:01:32.57,DEFAULT,,0,0,0,,{\r}{\kf32}Some{\kf44}day{\kf28} I'll{\kf44} be{\kf32} fly{\kf36}ing{\kf32} ab{\kf12}o{\kf24}~ve{\kf20} the{\kf50} world
+Dialogue: 0,0:01:32.79,0:01:36.40,DEFAULT,,0,0,0,,{\r}{\kf27}One{\kf41} day{\kf23} I'll{\kf37} be{\kf18} more{\kf14} than{\kf27} just{\kf32} an{\kf14} or{\kf18}di{\kf41}na{\kf27}ry{\kf42} girl
+Dialogue: 0,0:01:36.54,0:01:40.30,DEFAULT,,0,0,0,,{\r}{\kf23}'Cuz{\kf41} I{\kf23} can{\kf23} be{\kf27} what{\kf46}e{\kf27}~v{\kf55}er{\kf23} I{\kf14}~{\kf32} choo{\kf41}~se
+Dialogue: 0,0:01:40.44,0:01:45.42,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf21} wan{\kf21}na{\kf38} be{\kf47} just{\kf21} li{\kf38}~ke{\kf295} you
+Dialogue: 0,0:01:58.56,0:01:59.97,DEFAULT,,0,0,0,,{\r}{\kf11}O{\kf19}~ne{\kf19}~{\kf92} day
+Dialogue: 0,0:02:00.55,0:02:01.77,DEFAULT,,0,0,0,,{\r}{\kf20}I'll{\kf20} learn{\kf25} all{\kf16}~{\kf25} your{\kf17}~
+Dialogue: 0,0:02:01.92,0:02:03.00,DEFAULT,,0,0,0,,{\r}{\kf30}Dar{\kf26}ing{\kf52} tricks
+Dialogue: 0,0:02:03.29,0:02:05.74,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf22} you'll{\kf35} see{\kf35} what{\kf22} I{\kf35} have{\kf35} in{\kf43} store
+Dialogue: 0,0:02:06.03,0:02:11.01,DEFAULT,,0,0,0,,{\r}{\kf33}Some{\kf42}day{\kf21} I'll{\kf33} fly{\kf66} just{\kf17} as{\kf46} high{\kf21} a{\kf46}~s{\kf173} you
+Dialogue: 0,0:02:13.40,0:02:14.33,DEFAULT,,0,0,0,,{\r}{\kf20}Un{\kf27}til{\kf47} then
+Dialogue: 0,0:02:15.27,0:02:16.57,DEFAULT,,0,0,0,,{\r}{\kf22}I'll{\kf17} be{\kf30} try{\kf17}~{\kf26}ing{\kf18}~
+Dialogue: 0,0:02:16.72,0:02:18.05,DEFAULT,,0,0,0,,{\r}{\kf21}I'll{\kf21} nev{\kf21}er{\kf46} give{\kf25} up
+Dialogue: 0,0:02:18.30,0:02:20.04,DEFAULT,,0,0,0,,{\r}{\kf22}Un{\kf27}til{\kf18} I'm{\kf31}~{\kf27} fly{\kf48}ing
+Dialogue: 0,0:02:20.61,0:02:24.94,DEFAULT,,0,0,0,,{\r}{\kf21}I'll{\kf47} be{\kf25} watch{\kf42}ing{\kf30} e{\kf30}very{\kf21} lit{\kf30}tle{\kf25} thing{\kf38} you{\kf25}~{\kf30} do{\kf69}~
+Dialogue: 0,0:02:27.94,0:02:31.44,DEFAULT,,0,0,0,,{\r}{\kf21}Oh{\kf32} how{\kf21} I{\kf27} wish{\kf27} I{\kf21} could{\kf21} be{\kf32} soar{\kf37}ing{\kf48} through{\kf21} the{\kf42} sky
+Dialogue: 0,0:02:31.66,0:02:35.19,DEFAULT,,0,0,0,,{\r}{\kf24}If{\kf28} on{\kf24}ly{\kf19} I{\kf14} could{\kf28} stand{\kf19} u{\kf42}pon{\kf19} the{\kf47} clouds{\kf42} up{\kf48} high
+Dialogue: 0,0:02:35.48,0:02:40.54,DEFAULT,,0,0,0,,{\r}{\kf29}If{\kf46} on{\kf21}ly{\kf17} I{\kf21} could{\kf63} be{\kf38} just{\kf13} li{\kf55}~ke{\kf202} you
+Dialogue: 0,0:02:42.85,0:02:46.38,DEFAULT,,0,0,0,,{\r}{\kf32}Some{\kf44}day{\kf28} I'll{\kf40} be{\kf28} fly{\kf36}ing{\kf28} a{\kf16}bo{\kf28}~ve{\kf28} the{\kf46} world
+Dialogue: 0,0:02:46.60,0:02:50.17,DEFAULT,,0,0,0,,{\r}{\kf33}One{\kf47} day{\kf19} I'll{\kf33} be{\kf19} more{\kf14} than{\kf23} just{\kf28} an{\kf19} or{\kf14}di{\kf42}na{\kf28}ry{\kf38} girl
+Dialogue: 0,0:02:50.35,0:02:54.07,DEFAULT,,0,0,0,,{\r}{\kf29}'Cuz{\kf43} I{\kf24} can{\kf24} be{\kf24} what{\kf48}e{\kf29}~v{\kf52}er{\kf24} I{\kf14}~{\kf24} choo{\kf37}~se
+Dialogue: 0,0:02:54.25,0:02:59.30,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21} wan{\kf17}na{\kf42} be{\kf47} just{\kf13} li{\kf47}~ke{\kf297} you
+Dialogue: 0,0:03:12.01,0:03:13.81,DEFAULT,,0,0,0,,{\r}{\kf28}Some{\kf20}day{\kf24} I'll{\kf108} be
+Dialogue: 0,0:03:14.75,0:03:15.58,DEFAULT,,0,0,0,,{\r}{\kf26}Just{\kf45} li{\kf12}~ke-
+Dialogue: 0,0:03:15.76,0:03:18.33,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf12} wan{\kf23}na{\kf198} be
+Dialogue: 0,0:03:18.51,0:03:21.93,DEFAULT,,0,0,0,,{\r}{\kf27}Just{\kf19} li{\kf34}~ke{\kf263} you
+Dialogue: 0,0:03:22.12,0:03:25.72,DEFAULT,,0,0,0,,{\r}{\kf31}Just{\kf50} like{\kf280} you
+Dialogue: 0,0:03:30.71,0:03:34.28,DEFAULT,,0,0,0,,{\r}{\kf31}Oh{\kf21} how{\kf21} I{\kf26} wish{\kf26} I{\kf21} could{\kf21} be{\kf31} soar{\kf31}ing{\kf62} through{\kf21} the{\kf45} sky
+Dialogue: 0,0:03:34.46,0:03:38.03,DEFAULT,,0,0,0,,{\r}{\kf30}If{\kf26} on{\kf17}ly{\kf17} I{\kf17} could{\kf26} stand{\kf21} u{\kf42}pon{\kf21} the{\kf51} clouds{\kf42} up{\kf47} high
+Dialogue: 0,0:03:38.36,0:03:43.41,DEFAULT,,0,0,0,,{\r}{\kf26}If{\kf43} on{\kf21}ly{\kf21} I{\kf21} could{\kf64} be{\kf30} just{\kf26} li{\kf43}~ke{\kf210} you
+Dialogue: 0,0:03:45.72,0:03:49.11,DEFAULT,,0,0,0,,{\r}{\kf33}Some{\kf41}day{\kf29} I'll{\kf37} be{\kf29} fly{\kf37}ing{\kf33} a{\kf17}bo{\kf25}~ve{\kf17} the{\kf41} world
+Dialogue: 0,0:03:49.40,0:03:53.01,DEFAULT,,0,0,0,,{\r}{\kf23}One{\kf46} day{\kf18} I'll{\kf37} be{\kf14} more{\kf14} than{\kf27} just{\kf32} an{\kf18} or{\kf18}di{\kf41}na{\kf32}ry{\kf41} girl
+Dialogue: 0,0:03:53.15,0:03:56.87,DEFAULT,,0,0,0,,{\r}{\kf24}'Cuz{\kf38} I{\kf24} can{\kf24} be{\kf24} what{\kf48}e{\kf29}~v{\kf57}er{\kf24} I{\kf14}~{\kf24} choo{\kf42}~se
+Dialogue: 0,0:03:57.05,0:04:02.11,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf20} wan{\kf20}na{\kf41} be{\kf57} just{\kf12} li{\kf41}~ke{\kf294} you

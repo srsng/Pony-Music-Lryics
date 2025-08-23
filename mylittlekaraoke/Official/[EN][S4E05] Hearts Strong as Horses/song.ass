@@ -1,58 +1,65 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Hearts Strong as Horses
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.94,0:00:10.19,DEFAULT,,0,0,0,,{\kf8}We're{\kf12} the{\kf19} tough{\kf19}est{\kf27} litt{\kf19}le
-Dialogue: 0,0:00:10.64,0:00:11.73,DEFAULT,,0,0,0,,{\kf23}Po{\kf27}nies{\kf16} in{\kf34} town
-Dialogue: 0,0:00:11.88,0:00:14.06,DEFAULT,,0,0,0,,{\kf16}Got{\kf19} the{\kf49} moves,{\kf19} got{\kf16} the{\kf34} mo{\kf31}jo,
-Dialogue: 0,0:00:14.29,0:00:16.58,DEFAULT,,0,0,0,,{\kf19}No{\kf19} har{\kf16}der{\kf16} wor{\kf19}king{\kf19} po{\kf23}nies{\kf19} a{\kf34}round
-Dialogue: 0,0:00:16.73,0:00:19.40,DEFAULT,,0,0,0,,{\kf23}We{\kf19} are{\kf16} a{\kf27} tri{\kf19}o,{\kf23} work{\kf23} as{\kf12} a{\kf31} team
-Dialogue: 0,0:00:19.56,0:00:21.51,DEFAULT,,0,0,0,,{\kf19}We'll{\kf16} be{\kf19} the{\kf38} first{\kf23} po{\kf27}nies{\kf12} out
-Dialogue: 0,0:00:21.66,0:00:25.05,DEFAULT,,0,0,0,,{\kf16}On{\kf12} the{\kf16} f{\kf72}lag{\kf49}-wa{\kf34}ving{\kf98} scene
-Dialogue: 0,0:00:32.20,0:00:35.10,DEFAULT,,0,0,0,,{\kf16}We{\kf19} get{\kf27} go{\kf16}ing{\kf19} when{\kf19} the{\kf23} go{\kf16}ing{\kf23} gets{\kf23} tough
-Dialogue: 0,0:00:35.32,0:00:38.75,DEFAULT,,0,0,0,,{\kf19}We{\kf19} know{\kf19} our{\kf16} ve{\kf19}ry{\kf23} best{\kf19} is{\kf27} just{\kf23} ne{\kf19}ver{\kf16} e{\kf31}nough
-Dialogue: 0,0:00:39.01,0:00:40.70,DEFAULT,,0,0,0,,{\kf16}We're{\kf19} kind{\kf12}a{\kf23} short,{\kf16} but{\kf19} so{\kf31} what?
-Dialogue: 0,0:00:40.85,0:00:42.96,DEFAULT,,0,0,0,,{\kf27}We{\kf23} don't{\kf23} get{\kf23} de{\kf46}fea{\kf16}ted
-Dialogue: 0,0:00:43.11,0:00:46.50,DEFAULT,,0,0,0,,{\kf19}We{\kf19} could{\kf16} take{\kf16} a{\kf16} lit{\kf19}tle{\kf27} break,{\kf31} but{\kf19} we{\kf16} don't{\kf23} need{\kf8} it
-Dialogue: 0,0:00:46.65,0:00:49.88,DEFAULT,,0,0,0,,{\kf23}We've{\kf34} got{\kf42} hearts{\kf16} as{\kf23} strong{\kf16} as{\kf19} hor{\kf27}ses
-Dialogue: 0,0:00:50.49,0:00:53.76,DEFAULT,,0,0,0,,{\kf19}We've{\kf31} got{\kf42} hearts{\kf16} as{\kf23} strong{\kf23} as{\kf16} hor{\kf27}ses
-Dialogue: 0,0:00:54.44,0:00:57.60,DEFAULT,,0,0,0,,{\kf19}We've{\kf34} got{\kf38} hearts{\kf19} as{\kf23} strong{\kf19} as{\kf16} hor{\kf31}ses
-Dialogue: 0,0:00:58.09,0:01:01.21,DEFAULT,,0,0,0,,{\kf42}We've{\kf38} got{\kf121} hea{\kf23}-a{\kf23}-a{\kf46}-arts,
-Dialogue: 0,0:01:01.43,0:01:03.96,DEFAULT,,0,0,0,,{\kf31}Hearts{\kf31} strong{\kf34} as{\kf34} hor{\kf83}ses
-Dialogue: 0,0:01:10.92,0:01:13.02,DEFAULT,,0,0,0,,{\kf19}When{\kf19} we{\kf12} put{\kf16} our{\kf42} minds{\kf19} to{\kf19}get{\kf19}her,
-Dialogue: 0,0:01:13.29,0:01:14.42,DEFAULT,,0,0,0,,{\kf19}We{\kf19} can{\kf16} a{\kf46}chieve
-Dialogue: 0,0:01:14.72,0:01:16.67,DEFAULT,,0,0,0,,{\kf19}We're{\kf16} the{\kf23} Cu{\kf16}tie{\kf19} Mark{\kf19} Cru{\kf19}sa{\kf23}ders,
-Dialogue: 0,0:01:16.94,0:01:18.33,DEFAULT,,0,0,0,,{\kf23}And{\kf16} you{\kf23} should{\kf19} be{\kf42}lieve
-Dialogue: 0,0:01:18.63,0:01:20.36,DEFAULT,,0,0,0,,{\kf19}We've{\kf16} got{\kf23} de{\kf16}ter{\kf16}mi{\kf19}na{\kf31}tion
-Dialogue: 0,0:01:20.55,0:01:22.13,DEFAULT,,0,0,0,,{\kf19}To{\kf16} re{\kf19}pre{\kf19}sent{\kf19} the{\kf19} na{\kf19}tion
-Dialogue: 0,0:01:22.28,0:01:25.07,DEFAULT,,0,0,0,,{\kf68}Fo{\kf16}-or{\kf76} the{\kf91} win
-Dialogue: 0,0:01:25.33,0:01:28.60,DEFAULT,,0,0,0,,{\kf31}We've{\kf34} got{\kf38} hearts{\kf16} as{\kf27} strong{\kf19} as{\kf16} hor{\kf31}ses
-Dialogue: 0,0:01:29.24,0:01:32.52,DEFAULT,,0,0,0,,{\kf19}We've{\kf34} got{\kf38} hearts{\kf12} as{\kf31} strong{\kf19} as{\kf19} hor{\kf31}ses
-Dialogue: 0,0:01:33.12,0:01:36.35,DEFAULT,,0,0,0,,{\kf23}We've{\kf31} got{\kf34} hearts{\kf19} as{\kf31} strong{\kf12} as{\kf16} hor{\kf31}ses
-Dialogue: 0,0:01:37.18,0:01:40.98,DEFAULT,,0,0,0,,{\kf23}And{\kf19} we're{\kf19} play{\kf19}ing{\kf23} to{\kf38} win{\kf19} as{\kf16} we{\kf23} gal{\kf19}lop{\kf27} to{\kf38} glo{\kf12}ry
-Dialogue: 0,0:01:41.13,0:01:43.95,DEFAULT,,0,0,0,,{\kf19}We{\kf19} can{\kf27} con{\kf19}quer{\kf16} a{\kf16}ny{\kf19} chal{\kf27}lenge{\kf23} we're{\kf61} in
-Dialogue: 0,0:01:44.52,0:01:50.54,DEFAULT,,0,0,0,,{\kf38}We've{\kf46} got{\kf192} hearts,{\kf34} hearts{\kf31} strong{\kf46} as{\kf34} hor{\kf91}ses
-Dialogue: 0,0:01:51.74,0:01:54.72,DEFAULT,,0,0,0,,{\kf42}Hearts{\kf27} strong{\kf31} as{\kf34} hor{\kf27}se{\kf95}-es
-Dialogue: 0,0:01:56.97,0:01:59.19,DEFAULT,,0,0,0,,{\kf19}Got{\kf12} the{\kf42} moves,{\kf16} got{\kf12} the{\kf49} mo{\kf27}jo
-Dialogue: 0,0:01:59.53,0:02:02.09,DEFAULT,,0,0,0,,{\kf27}No{\kf27} har{\kf23}der{\kf19} wor{\kf19}kin'{\kf23} po{\kf19}ny{\kf19} a{\kf38}round
-Dialogue: 0,0:02:03.30,0:02:04.54,DEFAULT,,0,0,0,,{\kf27}We{\kf19} are{\kf8} a{\kf46} tri{\kf16}o
-Dialogue: 0,0:02:05.48,0:02:06.61,DEFAULT,,0,0,0,,{\kf27}Work{\kf16} as{\kf12} a{\kf38} team
-Dialogue: 0,0:02:06.91,0:02:08.86,DEFAULT,,0,0,0,,{\kf34}We'll{\kf16} be{\kf19} the{\kf34} first{\kf23} po{\kf23}nies{\kf12} out
-Dialogue: 0,0:02:09.01,0:02:12.14,DEFAULT,,0,0,0,,{\kf19}On{\kf16} the{\kf16} f{\kf64}lag{\kf38}-wa{\kf12}-a{\kf34}ving{\kf64} scene
-Dialogue: 0,0:02:12.66,0:02:14.36,DEFAULT,,0,0,0,,{\kf19}So{\kf23} let's{\kf19} get{\kf4} to{\kf12} the{\kf34} Crystal{\kf38} Empire
-Dialogue: 0,0:02:14.51,0:02:16.43,DEFAULT,,0,0,0,,{\kf8}And{\kf19} let's{\kf16} do{\kf4} the{\kf42} routine{\kf16} as{\kf23} it{\kf38} was
-Dialogue: 0,0:02:16.73,0:02:19.14,DEFAULT,,0,0,0,,{\kf27}And{\kf72} let's{\kf27} win{\kf31} this{\kf72} thing!
-Dialogue: 0,0:02:19.78,0:02:23.09,DEFAULT,,0,0,0,,{\kf27}We've{\kf31} got{\kf46} hearts{\kf19} as{\kf23} strong{\kf16} as{\kf19} hor{\kf38}ses
-Dialogue: 0,0:02:23.69,0:02:26.89,DEFAULT,,0,0,0,,{\kf19}We've{\kf31} got{\kf42} hearts{\kf16} as{\kf27} strong{\kf19} as{\kf19} hor{\kf27}ses
-Dialogue: 0,0:02:27.57,0:02:30.73,DEFAULT,,0,0,0,,{\kf19}We've{\kf31} got{\kf31} hearts{\kf19} as{\kf23} strong{\kf16} as{\kf19} hor{\kf27}ses
-Dialogue: 0,0:02:31.63,0:02:35.35,DEFAULT,,0,0,0,,{\kf16}And{\kf19} we're{\kf19} play{\kf19}ing{\kf16} to{\kf38} win{\kf19} as{\kf16} we{\kf16} gal{\kf19}lop{\kf16} to{\kf42} glo{\kf8}ry
-Dialogue: 0,0:02:35.50,0:02:38.33,DEFAULT,,0,0,0,,{\kf19}We{\kf16} can{\kf27} con{\kf19}quer{\kf16} a{\kf16}ny{\kf16} chal{\kf23}lenge{\kf27} we're{\kf53} in
-Dialogue: 0,0:02:38.85,0:02:45.02,DEFAULT,,0,0,0,,{\kf46}We've{\kf42} got{\kf192} hearts,{\kf46} hearts{\kf34} strong{\kf31} as{\kf34} hor{\kf98}ses
-Dialogue: 0,0:02:46.15,0:02:49.24,DEFAULT,,0,0,0,,{\kf42}Hearts{\kf31} strong{\kf38} as{\kf34} hor{\kf27}se{\kf106}-es
+Dialogue: 0,0:00:08.95,0:00:10.19,DEFAULT,,0,0,0,,{\r}{\kf10}We're{\kf14} the{\kf23} tough{\kf23}est{\kf32} litt{\kf22}le
+Dialogue: 0,0:00:10.64,0:00:11.73,DEFAULT,,0,0,0,,{\r}{\kf25}Po{\kf29}nies{\kf17} in{\kf38} town
+Dialogue: 0,0:00:11.88,0:00:14.07,DEFAULT,,0,0,0,,{\r}{\kf18}Got{\kf23} the{\kf59} moves,{\kf23} got{\kf18} the{\kf41} mo{\kf36}jo,
+Dialogue: 0,0:00:14.29,0:00:16.59,DEFAULT,,0,0,0,,{\r}{\kf24}No{\kf24} har{\kf19}der{\kf19} wor{\kf24}king{\kf24} po{\kf29}nies{\kf24} a{\kf43}round
+Dialogue: 0,0:00:16.74,0:00:19.41,DEFAULT,,0,0,0,,{\r}{\kf32}We{\kf27} are{\kf21} a{\kf37} tri{\kf27}o,{\kf32} work{\kf32} as{\kf16} a{\kf43} team
+Dialogue: 0,0:00:19.56,0:00:21.52,DEFAULT,,0,0,0,,{\r}{\kf24}We'll{\kf20} be{\kf24} the{\kf49} first{\kf29} po{\kf34}nies{\kf16} out
+Dialogue: 0,0:00:21.67,0:00:25.05,DEFAULT,,0,0,0,,{\r}{\kf17}On{\kf13} the{\kf17} f{\kf83}lag{\kf56}-wa{\kf39}ving{\kf114} scene
+Dialogue: 0,0:00:32.20,0:00:35.10,DEFAULT,,0,0,0,,{\r}{\kf22}We{\kf28} get{\kf39} go{\kf22}ing{\kf28} when{\kf28} the{\kf33} go{\kf22}ing{\kf33} gets{\kf35} tough
+Dialogue: 0,0:00:35.33,0:00:38.75,DEFAULT,,0,0,0,,{\r}{\kf26}We{\kf26} know{\kf26} our{\kf21} ve{\kf26}ry{\kf32} best{\kf26} is{\kf37} just{\kf32} ne{\kf26}ver{\kf21} e{\kf43}nough
+Dialogue: 0,0:00:39.01,0:00:40.71,DEFAULT,,0,0,0,,{\r}{\kf19}We're{\kf24} kind{\kf14}a{\kf29} short,{\kf19} but{\kf24} so{\kf40} what?
+Dialogue: 0,0:00:40.86,0:00:42.96,DEFAULT,,0,0,0,,{\r}{\kf36}We{\kf31} don't{\kf31} get{\kf31} de{\kf62}fea{\kf20}ted
+Dialogue: 0,0:00:43.12,0:00:46.50,DEFAULT,,0,0,0,,{\r}{\kf29}We{\kf29} could{\kf23} take{\kf23} a{\kf23} lit{\kf29}tle{\kf40} break,{\kf46} but{\kf29} we{\kf23} don't{\kf34} need{\kf11} it
+Dialogue: 0,0:00:46.65,0:00:49.89,DEFAULT,,0,0,0,,{\r}{\kf37}We've{\kf56} got{\kf69} hearts{\kf25} as{\kf37} strong{\kf25} as{\kf31} hor{\kf44}ses
+Dialogue: 0,0:00:50.49,0:00:53.76,DEFAULT,,0,0,0,,{\r}{\kf32}We've{\kf51} got{\kf71} hearts{\kf26} as{\kf38} strong{\kf38} as{\kf26} hor{\kf45}ses
+Dialogue: 0,0:00:54.44,0:00:57.60,DEFAULT,,0,0,0,,{\r}{\kf30}We've{\kf55} got{\kf61} hearts{\kf30} as{\kf36} strong{\kf30} as{\kf24} hor{\kf50}ses
+Dialogue: 0,0:00:58.09,0:01:01.21,DEFAULT,,0,0,0,,{\r}{\kf45}We've{\kf41} got{\kf130} hea{\kf24}-a{\kf24}-a{\kf48}-arts,
+Dialogue: 0,0:01:01.44,0:01:03.96,DEFAULT,,0,0,0,,{\r}{\kf36}Hearts{\kf36} strong{\kf40} as{\kf40} hor{\kf100}ses
+Dialogue: 0,0:01:10.92,0:01:13.03,DEFAULT,,0,0,0,,{\r}{\kf25}When{\kf25} we{\kf15} put{\kf20} our{\kf54} minds{\kf25} to{\kf25}get{\kf22}her,
+Dialogue: 0,0:01:13.29,0:01:14.42,DEFAULT,,0,0,0,,{\r}{\kf22}We{\kf22} can{\kf17} a{\kf52}chieve
+Dialogue: 0,0:01:14.72,0:01:16.68,DEFAULT,,0,0,0,,{\r}{\kf24}We're{\kf20} the{\kf29} Cu{\kf20}tie{\kf24} Mark{\kf24} Cru{\kf24}sa{\kf31}ders,
+Dialogue: 0,0:01:16.94,0:01:18.33,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf17} you{\kf26} should{\kf22} be{\kf48}lieve
+Dialogue: 0,0:01:18.64,0:01:20.37,DEFAULT,,0,0,0,,{\r}{\kf24}We've{\kf19} got{\kf29} de{\kf19}ter{\kf19}mi{\kf24}na{\kf39}tion
+Dialogue: 0,0:01:20.55,0:01:22.14,DEFAULT,,0,0,0,,{\r}{\kf23}To{\kf19} re{\kf23}pre{\kf23}sent{\kf23} the{\kf23} na{\kf24}tion
+Dialogue: 0,0:01:22.29,0:01:25.07,DEFAULT,,0,0,0,,{\r}{\kf76}Fo{\kf17}-or{\kf84} the{\kf101} win
+Dialogue: 0,0:01:25.33,0:01:28.61,DEFAULT,,0,0,0,,{\r}{\kf48}We've{\kf54} got{\kf59} hearts{\kf24} as{\kf42} strong{\kf30} as{\kf24} hor{\kf46}ses
+Dialogue: 0,0:01:29.25,0:01:32.52,DEFAULT,,0,0,0,,{\r}{\kf31}We've{\kf56} got{\kf62} hearts{\kf19} as{\kf49} strong{\kf31} as{\kf31} hor{\kf48}ses
+Dialogue: 0,0:01:33.12,0:01:36.36,DEFAULT,,0,0,0,,{\r}{\kf38}We've{\kf51} got{\kf57} hearts{\kf32} as{\kf51} strong{\kf19} as{\kf25} hor{\kf51}ses
+Dialogue: 0,0:01:37.19,0:01:40.99,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf25} we're{\kf25} play{\kf25}ing{\kf30} to{\kf49} win{\kf25} as{\kf20} we{\kf30} gal{\kf25}lop{\kf35} to{\kf49} glo{\kf12}ry
+Dialogue: 0,0:01:41.14,0:01:43.96,DEFAULT,,0,0,0,,{\r}{\kf22}We{\kf22} can{\kf31} con{\kf22}quer{\kf18} a{\kf18}ny{\kf22} chal{\kf31}lenge{\kf26} we're{\kf70} in
+Dialogue: 0,0:01:44.52,0:01:50.54,DEFAULT,,0,0,0,,{\r}{\kf45}We've{\kf54} got{\kf227} hearts,{\kf40} hearts{\kf36} strong{\kf54} as{\kf40} hor{\kf106}ses
+Dialogue: 0,0:01:51.75,0:01:54.72,DEFAULT,,0,0,0,,{\r}{\kf49}Hearts{\kf31} strong{\kf35} as{\kf40} hor{\kf31}se{\kf111}-es
+Dialogue: 0,0:01:56.98,0:01:59.20,DEFAULT,,0,0,0,,{\r}{\kf24}Got{\kf14} the{\kf53} moves,{\kf19} got{\kf14} the{\kf63} mo{\kf35}jo
+Dialogue: 0,0:01:59.54,0:02:02.10,DEFAULT,,0,0,0,,{\r}{\kf32}No{\kf32} har{\kf27}der{\kf23} wor{\kf23}kin'{\kf27} po{\kf23}ny{\kf23} a{\kf46}round
+Dialogue: 0,0:02:03.30,0:02:04.54,DEFAULT,,0,0,0,,{\r}{\kf29}We{\kf21} are{\kf10} a{\kf50} tri{\kf14}o
+Dialogue: 0,0:02:05.48,0:02:06.61,DEFAULT,,0,0,0,,{\r}{\kf33}Work{\kf19} as{\kf14} a{\kf47} team
+Dialogue: 0,0:02:06.91,0:02:08.87,DEFAULT,,0,0,0,,{\r}{\kf42}We'll{\kf19} be{\kf23} the{\kf42} first{\kf28} po{\kf28}nies{\kf14} out
+Dialogue: 0,0:02:09.02,0:02:12.14,DEFAULT,,0,0,0,,{\r}{\kf23}On{\kf18} the{\kf18} f{\kf77}lag{\kf45}-wa{\kf14}-a{\kf41}ving{\kf76} scene
+Dialogue: 0,0:02:12.67,0:02:14.36,DEFAULT,,0,0,0,,{\r}{\kf22}So{\kf26} let's{\kf22} get{\kf10} to{\kf13} the{\kf39} Crystal{\kf37} Empire
+Dialogue: 0,0:02:14.51,0:02:16.43,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf22} let's{\kf18} do{\kf10} the{\kf49} routine{\kf18} as{\kf27} it{\kf38} was
+Dialogue: 0,0:02:16.73,0:02:19.14,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf76} let's{\kf28} win{\kf32} this{\kf77} thing!
+Dialogue: 0,0:02:19.78,0:02:23.09,DEFAULT,,0,0,0,,{\r}{\kf41}We've{\kf46} got{\kf70} hearts{\kf29} as{\kf35} strong{\kf23} as{\kf29} hor{\kf58}ses
+Dialogue: 0,0:02:23.69,0:02:26.89,DEFAULT,,0,0,0,,{\r}{\kf31}We've{\kf49} got{\kf68} hearts{\kf25} as{\kf43} strong{\kf31} as{\kf31} hor{\kf42}ses
+Dialogue: 0,0:02:27.57,0:02:30.73,DEFAULT,,0,0,0,,{\r}{\kf33}We've{\kf53} got{\kf53} hearts{\kf33} as{\kf40} strong{\kf26} as{\kf33} hor{\kf45}ses
+Dialogue: 0,0:02:31.63,0:02:35.36,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf27} we're{\kf27} play{\kf27}ing{\kf22} to{\kf55} win{\kf27} as{\kf22} we{\kf22} gal{\kf27}lop{\kf22} to{\kf60} glo{\kf13}ry
+Dialogue: 0,0:02:35.51,0:02:38.33,DEFAULT,,0,0,0,,{\r}{\kf24}We{\kf19} can{\kf33} con{\kf24}quer{\kf19} a{\kf19}ny{\kf19} chal{\kf28}lenge{\kf33} we're{\kf64} in
+Dialogue: 0,0:02:38.86,0:02:45.03,DEFAULT,,0,0,0,,{\r}{\kf54}We've{\kf49} got{\kf228} hearts,{\kf54} hearts{\kf40} strong{\kf36} as{\kf40} hor{\kf116}ses
+Dialogue: 0,0:02:46.16,0:02:49.24,DEFAULT,,0,0,0,,{\r}{\kf47}Hearts{\kf34} strong{\kf42} as{\kf38} hor{\kf30}se{\kf118}-es

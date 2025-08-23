@@ -1,33 +1,40 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Coming Home
+Artist: Crystal Slave
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:27.84,0:00:30.89,DEFAULT,,0,0,0,,{\kf31}Friends,{\kf31} keep{\kf25} that{\kf25} bon{\kf25}fire{\kf25} bur{\kf25}ning{\kf31} bright
-Dialogue: 0,0:00:31.09,0:00:34.84,DEFAULT,,0,0,0,,{\kf16}Been{\kf16} a{\kf20} while{\kf16} but{\kf10} I'm{\kf25} com{\kf20}ing{\kf31} home{\kf16} to{\kf125}night
-Dialogue: 0,0:00:35.19,0:00:40.29,DEFAULT,,0,0,0,,{\kf16}To{\kf16} the{\kf31} place{\kf25} where{\kf20} I{\kf16} be{\kf325}long
-Dialogue: 0,0:00:40.84,0:00:43.84,DEFAULT,,0,0,0,,{\kf31}Made{\kf25} my{\kf20} mis{\kf25}takes{\kf16} but{\kf25} I'll{\kf25} make{\kf20} them{\kf31} right
-Dialogue: 0,0:00:44.14,0:00:47.79,DEFAULT,,0,0,0,,{\kf16}We'll{\kf16} be{\kf20} drink{\kf20}in'{\kf35} ci{\kf16}der{\kf16} 'til{\kf10} the{\kf20} mor{\kf25}ning{\kf100} light
-Dialogue: 0,0:00:48.19,0:00:53.14,DEFAULT,,0,0,0,,{\kf16}When{\kf16} you're{\kf20} with{\kf25} me{\kf16} we{\kf31} can't{\kf70} go{\kf256} wrong
-Dialogue: 0,0:00:53.59,0:01:01.99,DEFAULT,,0,0,0,,{\kf105}Oh{\kf175}~,{\kf111} oh{\kf86}~,{\kf20} I'm{\kf20} com{\kf20}ing{\kf86} home,{\kf20} com{\kf31}ing{\kf61} home
-Dialogue: 0,0:01:02.14,0:01:05.74,DEFAULT,,0,0,0,,{\kf16}I'm{\kf20} com{\kf25}ing{\kf56} home{\kf210}~
-Dialogue: 0,0:01:06.54,0:01:13.19,DEFAULT,,0,0,0,,{\kf105}Oh{\kf171}~,{\kf75} ooh{\kf70} oh{\kf70}~{\kf65}~
-Dialogue: 0,0:01:13.54,0:01:18.94,DEFAULT,,0,0,0,,{\kf16}I'm{\kf16} com{\kf20}ing{\kf70} home,{\kf16} I'm{\kf20} com{\kf25}ing{\kf56} home{\kf225}~
-Dialogue: 0,0:01:19.59,0:01:24.99,DEFAULT,,0,0,0,,{\kf16}And{\kf25} I{\kf35} thought{\kf25} I{\kf20} might{\kf16}'ve{\kf25} learned{\kf25} my{\kf31} les{\kf70}son{\kf25} by{\kf90} now
-Dialogue: 0,0:01:25.44,0:01:27.69,DEFAULT,,0,0,0,,{\kf16}But{\kf16} I{\kf20} keep{\kf40} run{\kf25}ning{\kf20} a{\kf35}way
-Dialogue: 0,0:01:28.69,0:01:32.64,DEFAULT,,0,0,0,,{\kf16}From{\kf16} the{\kf20} ve{\kf20}ry{\kf35} ones{\kf31} who{\kf31} make{\kf25} life{\kf25} worth{\kf16} the{\kf40} pain
-Dialogue: 0,0:01:32.79,0:01:34.84,DEFAULT,,0,0,0,,{\kf16}Will{\kf16} you{\kf25} take{\kf16} me{\kf105} back?
-Dialogue: 0,0:01:35.19,0:01:38.24,DEFAULT,,0,0,0,,{\kf16}As{\kf16} I'm{\kf16} run{\kf25}ning{\kf25} home{\kf20}~{\kf16} to{\kf116} you
-Dialogue: 0,0:01:38.59,0:01:41.44,DEFAULT,,0,0,0,,{\kf16}I{\kf31} know{\kf20} you{\kf16} know{\kf16}~{\kf16} I'm{\kf25} sor{\kf75}ry
-Dialogue: 0,0:01:41.69,0:01:45.24,DEFAULT,,0,0,0,,{\kf16}And{\kf16} I'm{\kf56} lost{\kf70} with{\kf65}out{\kf70} you
-Dialogue: 0,0:02:36.84,0:02:43.39,DEFAULT,,0,0,0,,{\kf31}Re{\kf25}mem{\kf20}~{\kf35}ber{\kf135} me,{\kf25} my{\kf45} dear{\kf40}est{\kf160} friends
-Dialogue: 0,0:02:44.94,0:02:48.99,DEFAULT,,0,0,0,,{\kf16}And{\kf16} the{\kf31} times{\kf31} we{\kf31} spent{\kf16} to{\kf40}ge{\kf160}ther
-Dialogue: 0,0:02:49.79,0:02:52.64,DEFAULT,,0,0,0,,{\kf20}For{\kf16} a{\kf31} thou{\kf16}~{\kf40}sand{\kf121} years
-Dialogue: 0,0:02:53.04,0:02:56.59,DEFAULT,,0,0,0,,{\kf16}'Til{\kf16} the{\kf40} sun{\kf40} burns{\kf20} out{\kf56}~{\kf111}~
-Dialogue: 0,0:02:57.94,0:03:03.14,DEFAULT,,0,0,0,,{\kf31}We'll{\kf31} still{\kf25} be{\kf31} friends{\kf20} for{\kf45}e{\kf275}ver
+Dialogue: 0,0:00:27.84,0:00:30.89,DEFAULT,,0,0,0,,{\r}{\kf43}Friends,{\kf43} keep{\kf35} that{\kf35} bon{\kf35}fire{\kf35} bur{\kf35}ning{\kf44} bright
+Dialogue: 0,0:00:31.09,0:00:34.84,DEFAULT,,0,0,0,,{\r}{\kf19}Been{\kf19} a{\kf26} while{\kf19} but{\kf13} I'm{\kf32} com{\kf26}ing{\kf39} home{\kf19} to{\kf163}night
+Dialogue: 0,0:00:35.19,0:00:40.29,DEFAULT,,0,0,0,,{\r}{\kf17}To{\kf17} the{\kf34} place{\kf29} where{\kf23} I{\kf17} be{\kf373}long
+Dialogue: 0,0:00:40.84,0:00:43.84,DEFAULT,,0,0,0,,{\r}{\kf42}Made{\kf35} my{\kf28} mis{\kf35}takes{\kf21} but{\kf35} I'll{\kf35} make{\kf28} them{\kf41} right
+Dialogue: 0,0:00:44.14,0:00:47.79,DEFAULT,,0,0,0,,{\r}{\kf19}We'll{\kf19} be{\kf25} drink{\kf25}in'{\kf44} ci{\kf19}der{\kf19} 'til{\kf13} the{\kf25} mor{\kf31}ning{\kf126} light
+Dialogue: 0,0:00:48.19,0:00:53.14,DEFAULT,,0,0,0,,{\r}{\kf17}When{\kf17} you're{\kf22} with{\kf28} me{\kf17} we{\kf33} can't{\kf78} go{\kf283} wrong
+Dialogue: 0,0:00:53.59,0:01:01.99,DEFAULT,,0,0,0,,{\r}{\kf121}Oh{\kf201}~,{\kf127} oh{\kf98}~,{\kf23} I'm{\kf23} com{\kf23}ing{\kf98} home,{\kf23} com{\kf35}ing{\kf68} home
+Dialogue: 0,0:01:02.14,0:01:05.74,DEFAULT,,0,0,0,,{\r}{\kf17}I'm{\kf22} com{\kf28}ing{\kf61} home{\kf232}~
+Dialogue: 0,0:01:06.54,0:01:13.19,DEFAULT,,0,0,0,,{\r}{\kf126}Oh{\kf204}~,{\kf90} ooh{\kf84} oh{\kf84}~{\kf77}~
+Dialogue: 0,0:01:13.54,0:01:18.94,DEFAULT,,0,0,0,,{\r}{\kf18}I'm{\kf18} com{\kf23}ing{\kf82} home,{\kf18} I'm{\kf23} com{\kf29}ing{\kf65} home{\kf264}~
+Dialogue: 0,0:01:19.59,0:01:24.99,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf34} I{\kf47} thought{\kf34} I{\kf27} might{\kf20}'ve{\kf34} learned{\kf34} my{\kf41} les{\kf95}son{\kf34} by{\kf120} now
+Dialogue: 0,0:01:25.44,0:01:27.69,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf20} I{\kf26} keep{\kf53} run{\kf33}ning{\kf26} a{\kf47}way
+Dialogue: 0,0:01:28.69,0:01:32.64,DEFAULT,,0,0,0,,{\r}{\kf22}From{\kf22} the{\kf29} ve{\kf29}ry{\kf51} ones{\kf44} who{\kf44} make{\kf37} life{\kf37} worth{\kf22} the{\kf58} pain
+Dialogue: 0,0:01:32.79,0:01:34.84,DEFAULT,,0,0,0,,{\r}{\kf18}Will{\kf18} you{\kf29} take{\kf18} me{\kf122} back?
+Dialogue: 0,0:01:35.19,0:01:38.24,DEFAULT,,0,0,0,,{\r}{\kf19}As{\kf19} I'm{\kf19} run{\kf31}ning{\kf31} home{\kf25}~{\kf19} to{\kf142} you
+Dialogue: 0,0:01:38.59,0:01:41.44,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf41} know{\kf27} you{\kf20} know{\kf20}~{\kf20} I'm{\kf34} sor{\kf103}ry
+Dialogue: 0,0:01:41.69,0:01:45.24,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf18} I'm{\kf67} lost{\kf86} with{\kf80}out{\kf86} you
+Dialogue: 0,0:02:36.84,0:02:43.39,DEFAULT,,0,0,0,,{\r}{\kf38}Re{\kf32}mem{\kf25}~{\kf45}ber{\kf172} me,{\kf32} my{\kf57} dear{\kf51}est{\kf203} friends
+Dialogue: 0,0:02:44.94,0:02:48.99,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf18} the{\kf36} times{\kf36} we{\kf36} spent{\kf18} to{\kf48}ge{\kf195}ther
+Dialogue: 0,0:02:49.79,0:02:52.64,DEFAULT,,0,0,0,,{\r}{\kf24}For{\kf18} a{\kf36} thou{\kf18}~{\kf48}sand{\kf141} years
+Dialogue: 0,0:02:53.04,0:02:56.59,DEFAULT,,0,0,0,,{\r}{\kf18}'Til{\kf18} the{\kf48} sun{\kf48} burns{\kf24} out{\kf66}~{\kf133}~
+Dialogue: 0,0:02:57.94,0:03:03.14,DEFAULT,,0,0,0,,{\r}{\kf34}We'll{\kf34} still{\kf29} be{\kf34} friends{\kf23} for{\kf51}e{\kf315}ver

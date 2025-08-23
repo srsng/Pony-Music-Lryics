@@ -1,21 +1,28 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Toutes Ces Merveilles
+Artist: Mon Petit Poney
+Original Timing: mylittlekaraoke.com by LardonCru, Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.24,0:00:06.09,DEFAULT,,0,0,0,,{\kf17}Quel{\kf17} bel{\kf17} en{\kf25}droit,{\kf25} d'où{\kf17} viennent{\kf33} tou{\kf33}tes{\kf17} ces{\kf33} mer{\kf25}veilles?
-Dialogue: 0,0:00:06.57,0:00:10.66,DEFAULT,,0,0,0,,{\kf25}Quel{\kf17} est{\kf17} ce{\kf33} charme{\kf25} qui{\kf25} à{\kf41} pré{\kf25}sent{\kf33} m'é{\kf33}mer{\kf33}veille
-Dialogue: 0,0:00:10.98,0:00:15.00,DEFAULT,,0,0,0,,{\kf41}Des{\kf17} é{\kf17}cu{\kf25}reuils,{\kf33} des{\kf25} la{\kf17}pins{\kf25} qui{\kf17} s'é{\kf33}vei{\kf17}ll{\kf17}ent
-Dialogue: 0,0:00:15.24,0:00:19.65,DEFAULT,,0,0,0,,{\kf25}Des{\kf33} oi{\kf17}seaux{\kf25} qui{\kf33} volent{\kf25} et{\kf33} de{\kf33} gen{\kf17}tilles{\kf25} a{\kf57}beilles
-Dialogue: 0,0:00:20.05,0:00:24.54,DEFAULT,,0,0,0,,{\kf121}A{\kf321}beilles !
-Dialogue: 0,0:00:25.90,0:00:28.07,DEFAULT,,0,0,0,,{\kf81}Oh,{\kf25} quel{\kf17} en{\kf9}droit{\kf17} fan{\kf17}tas{\kf17}tique
-Dialogue: 0,0:00:28.39,0:00:30.96,DEFAULT,,0,0,0,,{\kf17}Et{\kf9} je{\kf25} dois{\kf17} tout{\kf33} ça{\kf9} à{\kf9} cette{\kf9} course{\kf17} é{\kf9}ner{\kf25}gique
-Dialogue: 0,0:00:31.28,0:00:34.01,DEFAULT,,0,0,0,,{\kf9}Si{\kf9} j'a{\kf25}vais{\kf17} su{\kf33} que la{\kf41} Terre{\kf17} ca{\kf17}chait{\kf17} tant{\kf17} de mys{\kf17}tères
-Dialogue: 0,0:00:34.33,0:00:36.89,DEFAULT,,0,0,0,,{\kf17}Je{\kf9} serais{\kf25} venue{\kf25} plus{\kf25} tôt,{\kf17} c'est{\kf17} tel{\kf17}le{\kf17}ment{\kf17} beau
-Dialogue: 0,0:00:37.21,0:00:45.32,DEFAULT,,0,0,0,,{\kf17}Oui,{\kf25} j'a{\kf41}dore{\kf65} cet{\kf57} en{\kf474}droit !
+Dialogue: 0,0:00:02.25,0:00:06.10,DEFAULT,,0,0,0,,{\r}{\kf25}Quel{\kf25} bel{\kf25} en{\kf37}droit,{\kf37} d'où{\kf25} viennent{\kf50} tou{\kf50}tes{\kf25} ces{\kf50} mer{\kf36}veilles?
+Dialogue: 0,0:00:06.58,0:00:10.67,DEFAULT,,0,0,0,,{\r}{\kf33}Quel{\kf22} est{\kf22} ce{\kf44} charme{\kf33} qui{\kf33} à{\kf55} pré{\kf33}sent{\kf44} m'é{\kf44}mer{\kf46}veille
+Dialogue: 0,0:00:10.99,0:00:15.00,DEFAULT,,0,0,0,,{\r}{\kf59}Des{\kf24} é{\kf24}cu{\kf35}reuils,{\kf47} des{\kf35} la{\kf24}pins{\kf35} qui{\kf24} s'é{\kf47}vei{\kf24}ll{\kf23}ent
+Dialogue: 0,0:00:15.24,0:00:19.65,DEFAULT,,0,0,0,,{\r}{\kf34}Des{\kf45} oi{\kf23}seaux{\kf34} qui{\kf45} volent{\kf34} et{\kf45} de{\kf45} gen{\kf23}tilles{\kf34} a{\kf79}beilles
+Dialogue: 0,0:00:20.05,0:00:24.55,DEFAULT,,0,0,0,,{\r}{\kf122}A{\kf327}beilles !
+Dialogue: 0,0:00:25.91,0:00:28.07,DEFAULT,,0,0,0,,{\r}{\kf99}Oh,{\kf30} quel{\kf20} en{\kf10}droit{\kf20} fan{\kf20}tas{\kf18}tique
+Dialogue: 0,0:00:28.40,0:00:30.96,DEFAULT,,0,0,0,,{\r}{\kf24}Et{\kf12} je{\kf37} dois{\kf24} tout{\kf49} ça{\kf12} à{\kf12} cette{\kf12} course{\kf24} é{\kf12}ner{\kf39}gique
+Dialogue: 0,0:00:31.28,0:00:34.01,DEFAULT,,0,0,0,,{\r}{\kf10}Si{\kf10} j'a{\kf32}vais{\kf21} su{\kf42} que la{\kf52} Terre{\kf21} ca{\kf21}chait{\kf21} tant{\kf21} de mys{\kf22}tères
+Dialogue: 0,0:00:34.33,0:00:36.90,DEFAULT,,0,0,0,,{\r}{\kf23}Je{\kf12} serais{\kf35} venue{\kf35} plus{\kf35} tôt,{\kf23} c'est{\kf23} tel{\kf23}le{\kf23}ment{\kf25} beau
+Dialogue: 0,0:00:37.22,0:00:45.32,DEFAULT,,0,0,0,,{\r}{\kf19}Oui,{\kf29} j'a{\kf48}dore{\kf77} cet{\kf68} en{\kf569}droit !

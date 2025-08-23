@@ -1,51 +1,58 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Home Is Where Your Friends Are
+Artist: Crusader!
+Original Timing: mylittlekaraoke.com by lily
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.56,0:00:13.32,DEFAULT,,0,0,0,,{\kf970}I{\kf988} say{\kf992} good{\kf979} mor{\kf970}~{\kf970}ning{\kf970} to{\kf997} on{\kf979}ly{\kf970}~{\kf988} me
-Dialogue: 0,0:00:13.76,0:00:17.52,DEFAULT,,0,0,0,,{\kf975}A{\kf992}round{\kf970} books{\kf970} as{\kf992} far{\kf970} as{\kf970} the{\kf988} eye{\kf984} can{\kf970}~{\kf984} see
-Dialogue: 0,0:00:17.83,0:00:21.77,DEFAULT,,0,0,0,,{\kf970}Close{\kf970} the{\kf984} blinds,{\kf984} this{\kf984} is{\kf970}~{\kf988} all{\kf979} I{\kf970}~{\kf984} need
-Dialogue: 0,0:00:21.99,0:00:26.11,DEFAULT,,0,0,0,,{\kf970}Just{\kf970} my{\kf992} mind{\kf970} and{\kf970} the{\kf992} a{\kf970}bi{\kf970}li{\kf979}ty{\kf979} to{\kf970}~{\kf992} read
-Dialogue: 0,0:00:26.51,0:00:30.36,DEFAULT,,0,0,0,,{\kf970}This{\kf992} was{\kf979} a{\kf970}~{\kf988} life{\kf997} that{\kf992} I{\kf984} once{\kf970}~{\kf992} led
-Dialogue: 0,0:00:30.80,0:00:34.52,DEFAULT,,0,0,0,,{\kf970}Their{\kf988} words{\kf975} co{\kf970}vered{\kf988} by{\kf992} the{\kf997} pa{\kf970}ges{\kf970} I{\kf984} read
-Dialogue: 0,0:00:34.78,0:00:38.72,DEFAULT,,0,0,0,,{\kf970}"This{\kf970} is{\kf984} it,{\kf970} no{\kf992} way{\kf975} can{\kf970} I{\kf984} be{\kf970} more{\kf970} con{\kf979}tent"
-Dialogue: 0,0:00:39.03,0:00:42.92,DEFAULT,,0,0,0,,{\kf970}Was{\kf970} what{\kf970} I{\kf992} thought{\kf984} right{\kf975} be{\kf970}fore{\kf992} I{\kf984} was{\kf979} sent
-Dialogue: 0,0:00:43.28,0:00:46.29,DEFAULT,,0,0,0,,{\kf970}far{\kf970} a{\kf997}way,{\kf970} want{\kf970}ing{\kf970} to{\kf975} be{\kf970} a{\kf988}lone
-Dialogue: 0,0:00:46.51,0:00:50.53,DEFAULT,,0,0,0,,{\kf970}To{\kf970} a{\kf979} place,{\kf970} I'd{\kf970} ne{\kf970}ver{\kf970} thought{\kf970} I'd{\kf970} call{\kf988} home
-Dialogue: 0,0:00:50.75,0:00:54.65,DEFAULT,,0,0,0,,{\kf970}Now,{\kf975} un{\kf970}der{\kf975} warm{\kf979} blue{\kf970}~{\kf979} ski{\kf979}-ies,{\kf970} or{\kf970} cold{\kf970} win{\kf970}ter{\kf984} stars
-Dialogue: 0,0:00:54.96,0:00:58.23,DEFAULT,,0,0,0,,{\kf975}I{\kf970} know{\kf970} that{\kf984} home{\kf979} is{\kf970} where{\kf988} my{\kf992} friends{\kf992} are
-Dialogue: 0,0:01:14.34,0:01:14.60,DEFAULT,,0,0,0,,{\kf984}(Go!)
-Dialogue: 0,0:01:32.39,0:01:36.15,DEFAULT,,0,0,0,,{\kf970}I{\kf997} say{\kf997} good{\kf979} mor{\kf970}~{\kf997}ning{\kf997} to{\kf979} my{\kf970}~{\kf988} friends
-Dialogue: 0,0:01:36.64,0:01:40.40,DEFAULT,,0,0,0,,{\kf970}My{\kf997} smile{\kf997}~{\kf997} meets{\kf979} wor{\kf970}ried{\kf997} fa{\kf970}ces{\kf970} a{\kf988}gain
-Dialogue: 0,0:01:40.62,0:01:44.60,DEFAULT,,0,0,0,,{\kf970}Don't{\kf970} you{\kf984} fret,{\kf970} I'm{\kf988} here{\kf979} to{\kf970}~{\kf992} help{\kf970} all{\kf970} the{\kf984} way
-Dialogue: 0,0:01:44.91,0:01:48.90,DEFAULT,,0,0,0,,{\kf970}La{\kf970}ter{\kf984} on,{\kf970} you'll{\kf984} learn{\kf975} some{\kf970}thing{\kf984} new{\kf984} to{\kf970}~{\kf984}day
-Dialogue: 0,0:01:49.34,0:01:53.10,DEFAULT,,0,0,0,,{\kf975}So{\kf984} much{\kf970} I{\kf970} would{\kf979} miss{\kf970} when{\kf970} I{\kf984} would{\kf979} re{\kf970}~{\kf984}flect
-Dialogue: 0,0:01:53.63,0:01:57.26,DEFAULT,,0,0,0,,{\kf970}Life{\kf984} is{\kf970} full{\kf970} of{\kf988} things{\kf988} you'll{\kf1001} ne{\kf970}ver{\kf970} ex{\kf975}pect
-Dialogue: 0,0:01:57.61,0:02:01.64,DEFAULT,,0,0,0,,{\kf970}Like{\kf970} when{\kf992} I{\kf970} thought{\kf984} friend{\kf975}ship{\kf970} would{\kf997} not{\kf970} help{\kf970} me{\kf988} through
-Dialogue: 0,0:02:01.86,0:02:05.84,DEFAULT,,0,0,0,,{\kf970}Now{\kf970} I{\kf992} know,{\kf970} that{\kf979} the{\kf970} op{\kf970}po{\kf984}site{\kf988} is{\kf988} true
-Dialogue: 0,0:02:06.11,0:02:09.07,DEFAULT,,0,0,0,,{\kf970}Ho{\kf970}nes{\kf992}ty,{\kf970} kind{\kf975}ness,{\kf970} lo{\kf970}yal{\kf988}ty
-Dialogue: 0,0:02:10.05,0:02:13.45,DEFAULT,,0,0,0,,{\kf970}Laugh{\kf979}ter{\kf970}~{\kf988} and{\kf992} ge{\kf970}ne{\kf970}ro{\kf970}~{\kf975}si{\kf997}ty
-Dialogue: 0,0:02:14.34,0:02:17.52,DEFAULT,,0,0,0,,{\kf970}Met{\kf970} to{\kf970} make{\kf984} ma{\kf970}~{\kf997}gic,{\kf970} kind{\kf970}led{\kf970} by{\kf970} the{\kf988} spark
-Dialogue: 0,0:02:17.75,0:02:21.02,DEFAULT,,0,0,0,,{\kf970}That's{\kf975} when{\kf970} I{\kf984} knew{\kf988} who{\kf970}~{\kf979} my{\kf992} friends{\kf992} are
-Dialogue: 0,0:02:21.99,0:02:26.11,DEFAULT,,0,0,0,,{\kf975}Now{\kf975} I{\kf1094} know{\kf970} that{\kf970} when{\kf970} it{\kf970} feels{\kf970} like{\kf970} the{\kf997} end
-Dialogue: 0,0:02:26.29,0:02:30.36,DEFAULT,,0,0,0,,{\kf992}When{\kf975} ni{\kf970}-ight{\kf1028}mares{\kf975} feel{\kf975} like{\kf970} they{\kf975} are{\kf970}n't{\kf970} pre{\kf997}tend
-Dialogue: 0,0:02:31.02,0:02:34.60,DEFAULT,,0,0,0,,{\kf975}You're{\kf975} ne{\kf975}ver{\kf975} a{\kf979}lo{\kf970}-one{\kf988} and{\kf975} home{\kf975} is{\kf970}n't{\kf970} too{\kf992} far
-Dialogue: 0,0:02:35.00,0:02:38.37,DEFAULT,,0,0,0,,{\kf975}Be{\kf970}cause{\kf984} home{\kf984} is{\kf970} where{\kf979} our{\kf970}~{\kf979} friends{\kf970}~{\kf1023} are
-Dialogue: 0,0:03:04.47,0:03:08.68,DEFAULT,,0,0,0,,{\kf970}There{\kf970} were{\kf1072} times{\kf975} when{\kf970} I'd{\kf970} been{\kf970} pushed{\kf975} to{\kf970} the{\kf997} edge
-Dialogue: 0,0:03:09.21,0:03:12.88,DEFAULT,,0,0,0,,{\kf970}And{\kf975} ne{\kf992}ver{\kf975} wan{\kf970}~{\kf997}ted{\kf970} to{\kf970} go{\kf975} back{\kf970} a{\kf997}gain
-Dialogue: 0,0:03:15.14,0:03:19.16,DEFAULT,,0,0,0,,{\kf970}Now{\kf970} I{\kf1090} know{\kf970} that{\kf970} when{\kf970} it{\kf970} feels{\kf970} like{\kf970} the{\kf988} end
-Dialogue: 0,0:03:19.38,0:03:23.50,DEFAULT,,0,0,0,,{\kf984}When{\kf975} ni{\kf970}-ight{\kf1028}mares{\kf970} feel{\kf970} like{\kf970} they{\kf970} are{\kf970}n't{\kf970} pre{\kf1001}tend
-Dialogue: 0,0:03:24.12,0:03:27.75,DEFAULT,,0,0,0,,{\kf970}You're{\kf975} ne{\kf970}ver{\kf975} a{\kf979}lo{\kf970}-one{\kf988} and{\kf970} home{\kf970} is{\kf970}n't{\kf970} too{\kf997} far
-Dialogue: 0,0:03:28.14,0:03:32.35,DEFAULT,,0,0,0,,{\kf970}Be{\kf970}cause{\kf979} home{\kf979} is{\kf970} where{\kf992} our{\kf988} friends{\kf1116} are
-Dialogue: 0,0:03:32.88,0:03:35.58,DEFAULT,,0,0,0,,{\kf984}Home{\kf984} is{\kf975} where{\kf979} my{\kf970}~{\kf997} friends{\kf1010} are
-Dialogue: 0,0:03:42.48,0:03:44.03,DEFAULT,,0,0,0,,{\kf997}Whoa{\kf1001}-oh{\kf1001}-oh
-Dialogue: 0,0:03:49.91,0:03:52.44,DEFAULT,,0,0,0,,{\kf984}Home{\kf984} is{\kf970} where{\kf979} my{\kf970}~{\kf979} frie{\kf970}-ends{\kf997} are
-Dialogue: 0,0:03:58.41,0:04:01.02,DEFAULT,,0,0,0,,{\kf984}Home{\kf984} is{\kf970} where{\kf988} my{\kf979} frie{\kf970}-ends{\kf1006} are
-Dialogue: 0,0:04:06.91,0:04:09.52,DEFAULT,,0,0,0,,{\kf984}Home{\kf984} is{\kf970} where{\kf997} my{\kf997} friends{\kf1006} are
+Dialogue: 0,0:00:09.56,0:00:13.33,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf47} say{\kf54} good{\kf34} mor{\kf20}~{\kf20}ning{\kf20} to{\kf60} on{\kf34}ly{\kf20}~{\kf47} me
+Dialogue: 0,0:00:13.77,0:00:17.53,DEFAULT,,0,0,0,,{\r}{\kf28}A{\kf56}round{\kf21} books{\kf21} as{\kf56} far{\kf21} as{\kf21} the{\kf49} eye{\kf42} can{\kf21}~{\kf40} see
+Dialogue: 0,0:00:17.84,0:00:21.78,DEFAULT,,0,0,0,,{\r}{\kf25}Close{\kf25} the{\kf49} blinds,{\kf49} this{\kf49} is{\kf25}~{\kf57} all{\kf41} I{\kf25}~{\kf49} need
+Dialogue: 0,0:00:22.00,0:00:26.11,DEFAULT,,0,0,0,,{\r}{\kf22}Just{\kf22} my{\kf60} mind{\kf22} and{\kf22} the{\kf60} a{\kf22}bi{\kf22}li{\kf37}ty{\kf37} to{\kf22}~{\kf64} read
+Dialogue: 0,0:00:26.51,0:00:30.36,DEFAULT,,0,0,0,,{\r}{\kf19}This{\kf51} was{\kf32} a{\kf19}~{\kf45} life{\kf58} that{\kf51} I{\kf38} once{\kf19}~{\kf53} led
+Dialogue: 0,0:00:30.80,0:00:34.52,DEFAULT,,0,0,0,,{\r}{\kf21}Their{\kf49} words{\kf28} co{\kf21}vered{\kf49} by{\kf56} the{\kf63} pa{\kf21}ges{\kf21} I{\kf43} read
+Dialogue: 0,0:00:34.79,0:00:38.72,DEFAULT,,0,0,0,,{\r}{\kf25}"This{\kf25} is{\kf50} it,{\kf25} no{\kf67} way{\kf34} can{\kf25} I{\kf50} be{\kf25} more{\kf25} con{\kf43}tent"
+Dialogue: 0,0:00:39.03,0:00:42.93,DEFAULT,,0,0,0,,{\r}{\kf24}Was{\kf24} what{\kf24} I{\kf64} thought{\kf48} right{\kf32} be{\kf24}fore{\kf64} I{\kf48} was{\kf37} sent
+Dialogue: 0,0:00:43.28,0:00:46.29,DEFAULT,,0,0,0,,{\r}{\kf24}far{\kf24} a{\kf71}way,{\kf24} want{\kf24}ing{\kf24} to{\kf32} be{\kf24} a{\kf54}lone
+Dialogue: 0,0:00:46.51,0:00:50.54,DEFAULT,,0,0,0,,{\r}{\kf34}To{\kf34} a{\kf56} place,{\kf34} I'd{\kf34} ne{\kf34}ver{\kf34} thought{\kf34} I'd{\kf34} call{\kf75} home
+Dialogue: 0,0:00:50.76,0:00:54.65,DEFAULT,,0,0,0,,{\r}{\kf23}Now,{\kf31} un{\kf23}der{\kf31} warm{\kf39} blue{\kf23}~{\kf39} ski{\kf39}-ies,{\kf23} or{\kf23} cold{\kf23} win{\kf23}ter{\kf49} stars
+Dialogue: 0,0:00:54.96,0:00:58.24,DEFAULT,,0,0,0,,{\r}{\kf28}I{\kf21} know{\kf21} that{\kf42} home{\kf35} is{\kf21} where{\kf49} my{\kf56} friends{\kf54} are
+Dialogue: 0,0:01:14.34,0:01:14.61,DEFAULT,,0,0,0,,{\r}{\kf27}(Go!)
+Dialogue: 0,0:01:32.40,0:01:36.16,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf55} say{\kf55} good{\kf30} mor{\kf18}~{\kf55}ning{\kf55} to{\kf30} my{\kf18}~{\kf42} friends
+Dialogue: 0,0:01:36.64,0:01:40.41,DEFAULT,,0,0,0,,{\r}{\kf19}My{\kf56} smile{\kf56}~{\kf56} meets{\kf31} wor{\kf19}ried{\kf56} fa{\kf19}ces{\kf19} a{\kf45}gain
+Dialogue: 0,0:01:40.63,0:01:44.61,DEFAULT,,0,0,0,,{\r}{\kf24}Don't{\kf24} you{\kf48} fret,{\kf24} I'm{\kf56} here{\kf40} to{\kf24}~{\kf64} help{\kf24} all{\kf24} the{\kf46} way
+Dialogue: 0,0:01:44.92,0:01:48.90,DEFAULT,,0,0,0,,{\r}{\kf24}La{\kf24}ter{\kf49} on,{\kf24} you'll{\kf49} learn{\kf32} some{\kf24}thing{\kf49} new{\kf49} to{\kf24}~{\kf50}day
+Dialogue: 0,0:01:49.34,0:01:53.10,DEFAULT,,0,0,0,,{\r}{\kf32}So{\kf48} much{\kf24} I{\kf24} would{\kf40} miss{\kf24} when{\kf24} I{\kf48} would{\kf40} re{\kf24}~{\kf48}flect
+Dialogue: 0,0:01:53.64,0:01:57.26,DEFAULT,,0,0,0,,{\r}{\kf22}Life{\kf44} is{\kf22} full{\kf22} of{\kf52} things{\kf52} you'll{\kf74} ne{\kf22}ver{\kf22} ex{\kf31}pect
+Dialogue: 0,0:01:57.62,0:02:01.64,DEFAULT,,0,0,0,,{\r}{\kf23}Like{\kf23} when{\kf62} I{\kf23} thought{\kf46} friend{\kf31}ship{\kf23} would{\kf70} not{\kf23} help{\kf23} me{\kf56} through
+Dialogue: 0,0:02:01.87,0:02:05.85,DEFAULT,,0,0,0,,{\r}{\kf25}Now{\kf25} I{\kf66} know,{\kf25} that{\kf41} the{\kf25} op{\kf25}po{\kf50}site{\kf58} is{\kf58} true
+Dialogue: 0,0:02:06.11,0:02:09.08,DEFAULT,,0,0,0,,{\r}{\kf26}Ho{\kf26}nes{\kf70}ty,{\kf26} kind{\kf35}ness,{\kf26} lo{\kf26}yal{\kf61}ty
+Dialogue: 0,0:02:10.05,0:02:13.46,DEFAULT,,0,0,0,,{\r}{\kf21}Laugh{\kf36}ter{\kf21}~{\kf50} and{\kf57} ge{\kf21}ne{\kf21}ro{\kf21}~{\kf28}si{\kf65}ty
+Dialogue: 0,0:02:14.34,0:02:17.53,DEFAULT,,0,0,0,,{\r}{\kf21}Met{\kf21} to{\kf21} make{\kf42} ma{\kf21}~{\kf62}gic,{\kf21} kind{\kf21}led{\kf21} by{\kf21} the{\kf47} spark
+Dialogue: 0,0:02:17.75,0:02:21.03,DEFAULT,,0,0,0,,{\r}{\kf21}That's{\kf28} when{\kf21} I{\kf42} knew{\kf49} who{\kf21}~{\kf35} my{\kf56} friends{\kf54} are
+Dialogue: 0,0:02:22.00,0:02:26.11,DEFAULT,,0,0,0,,{\r}{\kf25}Now{\kf25} I{\kf194} know{\kf19} that{\kf19} when{\kf19} it{\kf19} feels{\kf19} like{\kf19} the{\kf54} end
+Dialogue: 0,0:02:26.29,0:02:30.36,DEFAULT,,0,0,0,,{\r}{\kf53}When{\kf27} ni{\kf20}-ight{\kf107}mares{\kf27} feel{\kf27} like{\kf20} they{\kf27} are{\kf20}n't{\kf20} pre{\kf59}tend
+Dialogue: 0,0:02:31.03,0:02:34.61,DEFAULT,,0,0,0,,{\r}{\kf27}You're{\kf27} ne{\kf27}ver{\kf27} a{\kf34}lo{\kf20}-one{\kf47} and{\kf27} home{\kf27} is{\kf20}n't{\kf20} too{\kf55} far
+Dialogue: 0,0:02:35.01,0:02:38.37,DEFAULT,,0,0,0,,{\r}{\kf25}Be{\kf19}cause{\kf38} home{\kf38} is{\kf19} where{\kf32} our{\kf19}~{\kf32} friends{\kf19}~{\kf95} are
+Dialogue: 0,0:03:04.48,0:03:08.68,DEFAULT,,0,0,0,,{\r}{\kf21}There{\kf21} were{\kf179} times{\kf28} when{\kf21} I'd{\kf21} been{\kf21} pushed{\kf28} to{\kf21} the{\kf59} edge
+Dialogue: 0,0:03:09.21,0:03:12.88,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf28} ne{\kf55}ver{\kf28} wan{\kf21}~{\kf62}ted{\kf21} to{\kf21} go{\kf28} back{\kf21} a{\kf61}gain
+Dialogue: 0,0:03:15.14,0:03:19.17,DEFAULT,,0,0,0,,{\r}{\kf20}Now{\kf20} I{\kf198} know{\kf20} that{\kf20} when{\kf20} it{\kf20} feels{\kf20} like{\kf20} the{\kf45} end
+Dialogue: 0,0:03:19.39,0:03:23.50,DEFAULT,,0,0,0,,{\r}{\kf43}When{\kf29} ni{\kf22}-ight{\kf116}mares{\kf22} feel{\kf22} like{\kf22} they{\kf22} are{\kf22}n't{\kf22} pre{\kf70}tend
+Dialogue: 0,0:03:24.12,0:03:27.75,DEFAULT,,0,0,0,,{\r}{\kf22}You're{\kf29} ne{\kf22}ver{\kf29} a{\kf36}lo{\kf22}-one{\kf51} and{\kf22} home{\kf22} is{\kf22}n't{\kf22} too{\kf64} far
+Dialogue: 0,0:03:28.15,0:03:32.35,DEFAULT,,0,0,0,,{\r}{\kf18}Be{\kf18}cause{\kf30} home{\kf30} is{\kf18} where{\kf48} our{\kf42} friends{\kf216} are
+Dialogue: 0,0:03:32.88,0:03:35.58,DEFAULT,,0,0,0,,{\r}{\kf36}Home{\kf36} is{\kf24} where{\kf30} my{\kf18}~{\kf54} friends{\kf72} are
+Dialogue: 0,0:03:42.49,0:03:44.03,DEFAULT,,0,0,0,,{\r}{\kf48}Whoa{\kf53}-oh{\kf54}-oh
+Dialogue: 0,0:03:49.92,0:03:52.44,DEFAULT,,0,0,0,,{\r}{\kf38}Home{\kf38} is{\kf19} where{\kf32} my{\kf19}~{\kf32} frie{\kf19}-ends{\kf55} are
+Dialogue: 0,0:03:58.41,0:04:01.03,DEFAULT,,0,0,0,,{\r}{\kf38}Home{\kf38} is{\kf19} where{\kf45} my{\kf32} frie{\kf19}-ends{\kf70} are
+Dialogue: 0,0:04:06.91,0:04:09.52,DEFAULT,,0,0,0,,{\r}{\kf36}Home{\kf36} is{\kf18} where{\kf53} my{\kf53} friends{\kf65} are

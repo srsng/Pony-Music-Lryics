@@ -1,79 +1,86 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Red Fire
+Artist: ReverBrony ft. BriLizyT
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.94,0:00:06.01,DEFAULT,,0,0,0,,{\kf308}I
-Dialogue: 0,0:00:06.94,0:00:15.22,DEFAULT,,0,0,0,,{\kf29}I{\kf29} fall{\kf236}~{\kf43} to{\kf79} my{\kf22}~{\kf258} knees
-Dialogue: 0,0:00:16.01,0:00:19.15,DEFAULT,,0,0,0,,{\kf22}And{\kf29} your{\kf22} sun{\kf222}~
-Dialogue: 0,0:00:20.01,0:00:25.72,DEFAULT,,0,0,0,,{\kf43}Broke{\kf72} through{\kf15}~{\kf393} me
-Dialogue: 0,0:00:29.93,0:00:37.00,DEFAULT,,0,0,0,,{\kf29}I{\kf65} ne{\kf22}ver{\kf65} knew{\kf50} I'd{\kf93} been{\kf29} as{\kf208}leep
-Dialogue: 0,0:00:39.50,0:00:42.86,DEFAULT,,0,0,0,,{\kf336}You
-Dialogue: 0,0:00:43.36,0:00:47.14,DEFAULT,,0,0,0,,{\kf43}You{\kf22} part{\kf15}ed{\kf15} the{\kf29} clouds{\kf193}~
-Dialogue: 0,0:00:47.50,0:00:51.92,DEFAULT,,0,0,0,,{\kf36}O{\kf86}ver{\kf272} me
-Dialogue: 0,0:00:52.49,0:00:55.35,DEFAULT,,0,0,0,,{\kf22}And{\kf22} I'm{\kf36} bap{\kf22}tised{\kf136}~
-Dialogue: 0,0:00:55.71,0:01:02.20,DEFAULT,,0,0,0,,{\kf22}In{\kf22} your{\kf22}~{\kf22} ho{\kf15}~{\kf29}ly{\kf58}~{\kf393} light
-Dialogue: 0,0:01:03.70,0:01:06.49,DEFAULT,,0,0,0,,{\kf22}And{\kf29} you{\kf22} brought{\kf22} me{\kf15} back{\kf22} to{\kf79} life
-Dialogue: 0,0:01:15.41,0:01:21.84,DEFAULT,,0,0,0,,{\kf22}In{\kf22} a{\kf22} pri{\kf22}son{\kf22} of{\kf58} ice{\kf29} I{\kf29} lived{\kf29} my{\kf43} life{\kf29} in{\kf65}~{\kf86} pain
-Dialogue: 0,0:01:22.55,0:01:26.84,DEFAULT,,0,0,0,,{\kf22}Just{\kf22} wait{\kf15}ing{\kf15} to{\kf15}~{\kf36} be{\kf15} un{\kf15}~{\kf36}~{\kf143}chained
-Dialogue: 0,0:01:32.05,0:01:34.40,DEFAULT,,0,0,0,,{\kf15}Oh{\kf22} I{\kf22} owe{\kf22} you{\kf29} e{\kf36}very{\kf43}thing
-Dialogue: 0,0:01:52.54,0:01:59.54,DEFAULT,,0,0,0,,{\kf36}Since{\kf22} that{\kf15}~{\kf158} day{\kf22} I{\kf15}~{\kf50} can't{\kf36} con{\kf29}trol{\kf179}~
-Dialogue: 0,0:01:59.97,0:02:05.03,DEFAULT,,0,0,0,,{\kf22}What{\kf22} you{\kf29} do{\kf29}~{\kf22} to{\kf329} me
-Dialogue: 0,0:02:06.03,0:02:09.03,DEFAULT,,0,0,0,,{\kf22}It{\kf22} feels{\kf36}~{\kf186} like
-Dialogue: 0,0:02:09.46,0:02:15.46,DEFAULT,,0,0,0,,{\kf22}I'm{\kf15} los{\kf15}ing{\kf22} my{\kf22}~{\kf457} mind
-Dialogue: 0,0:02:29.17,0:02:30.52,DEFAULT,,0,0,0,,{\kf22}Be{\kf15}neath{\kf22} your{\kf50} sun
-Dialogue: 0,0:02:30.88,0:02:35.31,DEFAULT,,0,0,0,,{\kf36}I'm{\kf22} burn{\kf15}ing{\kf22} a{\kf36}live{\kf22} in{\kf43} your{\kf72} light{\kf72}~
-Dialogue: 0,0:02:35.74,0:02:39.66,DEFAULT,,0,0,0,,{\kf22}And{\kf93} to{\kf36}night{\kf29} I'll{\kf136} breath
-Dialogue: 0,0:02:40.02,0:02:45.02,DEFAULT,,0,0,0,,{\kf36}In{\kf122} your{\kf29} red{\kf36} fire{\kf29}~{\kf129}~
-Dialogue: 0,0:02:47.44,0:02:48.94,DEFAULT,,0,0,0,,{\kf22}In{\kf15}to{\kf22} the{\kf65} flame
-Dialogue: 0,0:02:49.16,0:02:53.66,DEFAULT,,0,0,0,,{\kf29}A{\kf15}~{\kf22}gain{\kf22} and{\kf22} a{\kf43}gain{\kf22} and{\kf43} your{\kf65} light{\kf79}~
-Dialogue: 0,0:02:54.01,0:02:56.30,DEFAULT,,0,0,0,,{\kf22}Will{\kf29} split{\kf36} the{\kf36} night{\kf29} and
-Dialogue: 0,0:02:56.66,0:03:00.08,DEFAULT,,0,0,0,,{\kf193}Rain{\kf115} down
-Dialogue: 0,0:03:00.58,0:03:03.37,DEFAULT,,0,0,0,,{\kf36}Red{\kf29} fire{\kf43}~{\kf129}~
-Dialogue: 0,0:03:29.21,0:03:30.36,DEFAULT,,0,0,0,,{\kf36}I{\kf22} feel{\kf29} it
-Dialogue: 0,0:03:30.57,0:03:31.50,DEFAULT,,0,0,0,,{\kf15}It{\kf22} burns{\kf29}~
-Dialogue: 0,0:03:31.78,0:03:34.35,DEFAULT,,0,0,0,,{\kf22}Be{\kf29}neath{\kf29} my{\kf122} skin
-Dialogue: 0,0:03:35.14,0:03:38.85,DEFAULT,,0,0,0,,{\kf22}The{\kf22} hun{\kf22}ger{\kf36} de{\kf36}mands{\kf22} to{\kf136} feed
-Dialogue: 0,0:03:40.85,0:03:43.28,DEFAULT,,0,0,0,,{\kf15}From{\kf22} pu{\kf22}ri{\kf15}ty{\kf15} to{\kf100} sin
-Dialogue: 0,0:03:44.35,0:03:49.06,DEFAULT,,0,0,0,,{\kf15}The{\kf22} want{\kf8}~{\kf22} turns{\kf22} in{\kf36}to{\kf22} a{\kf15} need{\kf8}~{\kf215}~
-Dialogue: 0,0:03:53.49,0:03:56.27,DEFAULT,,0,0,0,,{\kf15}It{\kf22} wa{\kf15}~{\kf43}shes{\kf36} o{\kf22}ver{\kf15} me{\kf22}~
-Dialogue: 0,0:03:56.56,0:03:57.56,DEFAULT,,0,0,0,,{\kf15}I{\kf22} be{\kf43}come
-Dialogue: 0,0:03:57.99,0:03:58.77,DEFAULT,,0,0,0,,{\kf22}I{\kf50} learn
-Dialogue: 0,0:03:59.13,0:04:02.20,DEFAULT,,0,0,0,,{\kf15}I'm{\kf8} a{\kf22} slave{\kf29} to{\kf22} the{\kf158} burn
-Dialogue: 0,0:04:02.63,0:04:07.41,DEFAULT,,0,0,0,,{\kf15}It{\kf36} brings{\kf36} me{\kf29} to{\kf22} my{\kf22} knees{\kf222}~
-Dialogue: 0,0:04:12.05,0:04:16.84,DEFAULT,,0,0,0,,{\kf36}Oh{\kf29} I{\kf22} beg{\kf15}~{\kf22} you{\kf15}~{\kf250} please
-Dialogue: 0,0:04:41.40,0:04:43.32,DEFAULT,,0,0,0,,{\kf22}It{\kf43} comes{\kf22} in{\kf43} waves
-Dialogue: 0,0:04:43.68,0:04:45.47,DEFAULT,,0,0,0,,{\kf22}It{\kf22} cuts{\kf22} through{\kf22} the{\kf29} haze
-Dialogue: 0,0:04:45.75,0:04:48.04,DEFAULT,,0,0,0,,{\kf15}And{\kf22} I{\kf36} feel{\kf15} the{\kf86} walls
-Dialogue: 0,0:04:48.54,0:04:50.61,DEFAULT,,0,0,0,,{\kf36}Fall{\kf22} down{\kf22} a{\kf29}round{\kf29} me
-Dialogue: 0,0:04:50.89,0:04:52.39,DEFAULT,,0,0,0,,{\kf36}Crushed{\kf15} and{\kf43} lost
-Dialogue: 0,0:04:52.89,0:04:54.60,DEFAULT,,0,0,0,,{\kf15}But{\kf22} who{\kf29} knows{\kf22} the{\kf29} cost
-Dialogue: 0,0:04:54.89,0:04:56.82,DEFAULT,,0,0,0,,{\kf36}I'd{\kf36} sell{\kf22} my{\kf43} soul
-Dialogue: 0,0:04:57.18,0:05:02.17,DEFAULT,,0,0,0,,{\kf36}To{\kf22} set{\kf36} my{\kf36} world{\kf22} on{\kf15} fire{\kf15}~{\kf200}~
-Dialogue: 0,0:05:09.10,0:05:10.67,DEFAULT,,0,0,0,,{\kf22}Be{\kf22}neath{\kf22} your{\kf65} sun
-Dialogue: 0,0:05:10.88,0:05:15.31,DEFAULT,,0,0,0,,{\kf36}I'm{\kf22} burn{\kf22}ing{\kf22} a{\kf29}live{\kf22} in{\kf36} your{\kf72} light{\kf72}~
-Dialogue: 0,0:05:15.74,0:05:19.67,DEFAULT,,0,0,0,,{\kf22}And{\kf86} to{\kf36}night{\kf29} I'll{\kf136} breath
-Dialogue: 0,0:05:20.02,0:05:24.95,DEFAULT,,0,0,0,,{\kf36}In{\kf129} your{\kf29} red{\kf43} fire{\kf36}~{\kf122}~
-Dialogue: 0,0:05:27.45,0:05:28.88,DEFAULT,,0,0,0,,{\kf22}In{\kf22}to{\kf22} the{\kf58} flame
-Dialogue: 0,0:05:29.16,0:05:33.59,DEFAULT,,0,0,0,,{\kf36}A{\kf22}gain{\kf22} and{\kf22} a{\kf36}gain{\kf22} and{\kf36} your{\kf72} light{\kf72}~
-Dialogue: 0,0:05:33.95,0:05:36.30,DEFAULT,,0,0,0,,{\kf22}Will{\kf36} split{\kf29} the{\kf36} night{\kf29} and
-Dialogue: 0,0:05:36.66,0:05:40.16,DEFAULT,,0,0,0,,{\kf193}Rain{\kf122} down
-Dialogue: 0,0:05:40.59,0:05:43.37,DEFAULT,,0,0,0,,{\kf36}Red{\kf29} fire{\kf43}~{\kf129}~
-Dialogue: 0,0:05:45.15,0:05:47.15,DEFAULT,,0,0,0,,{\kf36}I{\kf22} run{\kf22} and{\kf22} I{\kf50} run
-Dialogue: 0,0:05:47.44,0:05:49.30,DEFAULT,,0,0,0,,{\kf22}But{\kf22} I{\kf22} just{\kf22} can't{\kf22} es{\kf43}cape
-Dialogue: 0,0:05:49.80,0:05:51.94,DEFAULT,,0,0,0,,{\kf29}The{\kf36} sight{\kf29}~{\kf79}~
-Dialogue: 0,0:05:52.29,0:05:54.01,DEFAULT,,0,0,0,,{\kf15}Of{\kf43} end{\kf43}less{\kf29} light
-Dialogue: 0,0:05:54.29,0:05:58.22,DEFAULT,,0,0,0,,{\kf43}I{\kf208} need{\kf108} your
-Dialogue: 0,0:05:58.93,0:06:01.65,DEFAULT,,0,0,0,,{\kf29}Red{\kf29} fire{\kf36}~{\kf136}~
-Dialogue: 0,0:06:03.50,0:06:05.43,DEFAULT,,0,0,0,,{\kf29}We{\kf22} shed{\kf29} these{\kf58} chains
-Dialogue: 0,0:06:05.72,0:06:07.50,DEFAULT,,0,0,0,,{\kf22}And{\kf22} for{\kf22}get{\kf29} our{\kf36} names
-Dialogue: 0,0:06:07.79,0:06:10.14,DEFAULT,,0,0,0,,{\kf22}As{\kf29} the{\kf22} light{\kf15}~{\kf15}~{\kf72}~
-Dialogue: 0,0:06:10.57,0:06:12.86,DEFAULT,,0,0,0,,{\kf22}Con{\kf43}sumes{\kf29} the{\kf29} night{\kf29} and
-Dialogue: 0,0:06:13.21,0:06:16.50,DEFAULT,,0,0,0,,{\kf200}Bleeds{\kf100} out
-Dialogue: 0,0:06:17.14,0:06:19.85,DEFAULT,,0,0,0,,{\kf36}Red{\kf29} fire{\kf43}~{\kf122}~
+Dialogue: 0,0:00:02.95,0:00:06.02,DEFAULT,,0,0,0,,{\r}{\kf307}I
+Dialogue: 0,0:00:06.95,0:00:15.23,DEFAULT,,0,0,0,,{\r}{\kf34}I{\kf34} fall{\kf282}~{\kf51} to{\kf94} my{\kf26}~{\kf307} knees
+Dialogue: 0,0:00:16.01,0:00:19.16,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf31} your{\kf23} sun{\kf237}~
+Dialogue: 0,0:00:20.01,0:00:25.72,DEFAULT,,0,0,0,,{\r}{\kf47}Broke{\kf78} through{\kf16}~{\kf430} me
+Dialogue: 0,0:00:29.94,0:00:37.01,DEFAULT,,0,0,0,,{\r}{\kf36}I{\kf82} ne{\kf27}ver{\kf82} knew{\kf63} I'd{\kf118} been{\kf36} as{\kf263}leep
+Dialogue: 0,0:00:39.50,0:00:42.86,DEFAULT,,0,0,0,,{\r}{\kf336}You
+Dialogue: 0,0:00:43.36,0:00:47.14,DEFAULT,,0,0,0,,{\r}{\kf52}You{\kf26} part{\kf17}ed{\kf17} the{\kf34} clouds{\kf232}~
+Dialogue: 0,0:00:47.50,0:00:51.93,DEFAULT,,0,0,0,,{\r}{\kf40}O{\kf97}ver{\kf306} me
+Dialogue: 0,0:00:52.50,0:00:55.36,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf26} I'm{\kf43} bap{\kf26}tised{\kf165}~
+Dialogue: 0,0:00:55.71,0:01:02.21,DEFAULT,,0,0,0,,{\r}{\kf24}In{\kf24} your{\kf24}~{\kf24} ho{\kf16}~{\kf32}ly{\kf64}~{\kf442} light
+Dialogue: 0,0:01:03.71,0:01:06.49,DEFAULT,,0,0,0,,{\r}{\kf29}And{\kf38} you{\kf29} brought{\kf29} me{\kf19} back{\kf29} to{\kf105} life
+Dialogue: 0,0:01:15.42,0:01:21.84,DEFAULT,,0,0,0,,{\r}{\kf29}In{\kf29} a{\kf29} pri{\kf29}son{\kf29} of{\kf78} ice{\kf39} I{\kf39} lived{\kf39} my{\kf58} life{\kf39} in{\kf88}~{\kf118} pain
+Dialogue: 0,0:01:22.56,0:01:26.84,DEFAULT,,0,0,0,,{\r}{\kf28}Just{\kf28} wait{\kf19}ing{\kf19} to{\kf19}~{\kf47} be{\kf19} un{\kf19}~{\kf47}~{\kf183}chained
+Dialogue: 0,0:01:32.05,0:01:34.41,DEFAULT,,0,0,0,,{\r}{\kf18}Oh{\kf27} I{\kf27} owe{\kf27} you{\kf36} e{\kf45}very{\kf56}thing
+Dialogue: 0,0:01:52.54,0:01:59.54,DEFAULT,,0,0,0,,{\r}{\kf45}Since{\kf27} that{\kf18}~{\kf197} day{\kf27} I{\kf18}~{\kf63} can't{\kf45} con{\kf36}trol{\kf224}~
+Dialogue: 0,0:01:59.97,0:02:05.04,DEFAULT,,0,0,0,,{\r}{\kf24}What{\kf24} you{\kf32} do{\kf32}~{\kf24} to{\kf371} me
+Dialogue: 0,0:02:06.04,0:02:09.04,DEFAULT,,0,0,0,,{\r}{\kf24}It{\kf24} feels{\kf41}~{\kf211} like
+Dialogue: 0,0:02:09.47,0:02:15.46,DEFAULT,,0,0,0,,{\r}{\kf23}I'm{\kf16} los{\kf16}ing{\kf23} my{\kf23}~{\kf499} mind
+Dialogue: 0,0:02:29.17,0:02:30.53,DEFAULT,,0,0,0,,{\r}{\kf27}Be{\kf18}neath{\kf27} your{\kf64} sun
+Dialogue: 0,0:02:30.89,0:02:35.31,DEFAULT,,0,0,0,,{\r}{\kf47}I'm{\kf28} burn{\kf19}ing{\kf28} a{\kf47}live{\kf28} in{\kf57} your{\kf94} light{\kf95}~
+Dialogue: 0,0:02:35.74,0:02:39.67,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf116} to{\kf45}night{\kf36} I'll{\kf169} breath
+Dialogue: 0,0:02:40.02,0:02:45.02,DEFAULT,,0,0,0,,{\r}{\kf47}In{\kf160} your{\kf38} red{\kf47} fire{\kf38}~{\kf170}~
+Dialogue: 0,0:02:47.45,0:02:48.95,DEFAULT,,0,0,0,,{\r}{\kf26}In{\kf18}to{\kf26} the{\kf80} flame
+Dialogue: 0,0:02:49.16,0:02:53.66,DEFAULT,,0,0,0,,{\r}{\kf36}A{\kf18}~{\kf27}gain{\kf27} and{\kf27} a{\kf54}gain{\kf27} and{\kf54} your{\kf81} light{\kf99}~
+Dialogue: 0,0:02:54.02,0:02:56.30,DEFAULT,,0,0,0,,{\r}{\kf33}Will{\kf43} split{\kf54} the{\kf54} night{\kf44} and
+Dialogue: 0,0:02:56.66,0:03:00.09,DEFAULT,,0,0,0,,{\r}{\kf215}Rain{\kf128} down
+Dialogue: 0,0:03:00.59,0:03:03.37,DEFAULT,,0,0,0,,{\r}{\kf42}Red{\kf34} fire{\kf51}~{\kf151}~
+Dialogue: 0,0:03:29.22,0:03:30.36,DEFAULT,,0,0,0,,{\r}{\kf47}I{\kf28} feel{\kf39} it
+Dialogue: 0,0:03:30.57,0:03:31.50,DEFAULT,,0,0,0,,{\r}{\kf21}It{\kf31} burns{\kf41}~
+Dialogue: 0,0:03:31.79,0:03:34.36,DEFAULT,,0,0,0,,{\r}{\kf28}Be{\kf37}neath{\kf37} my{\kf155} skin
+Dialogue: 0,0:03:35.14,0:03:38.86,DEFAULT,,0,0,0,,{\r}{\kf27}The{\kf27} hun{\kf27}ger{\kf45} de{\kf45}mands{\kf27} to{\kf173} feed
+Dialogue: 0,0:03:40.86,0:03:43.28,DEFAULT,,0,0,0,,{\r}{\kf19}From{\kf28} pu{\kf28}ri{\kf19}ty{\kf19} to{\kf130} sin
+Dialogue: 0,0:03:44.35,0:03:49.07,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf27} want{\kf10}~{\kf27} turns{\kf27} in{\kf44}to{\kf27} a{\kf18} need{\kf10}~{\kf263}~
+Dialogue: 0,0:03:53.49,0:03:56.28,DEFAULT,,0,0,0,,{\r}{\kf21}It{\kf32} wa{\kf21}~{\kf64}shes{\kf53} o{\kf32}ver{\kf21} me{\kf34}~
+Dialogue: 0,0:03:56.56,0:03:57.56,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf27} be{\kf55}come
+Dialogue: 0,0:03:57.99,0:03:58.78,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf55} learn
+Dialogue: 0,0:03:59.13,0:04:02.20,DEFAULT,,0,0,0,,{\r}{\kf18}I'm{\kf10} a{\kf26} slave{\kf35} to{\kf26} the{\kf192} burn
+Dialogue: 0,0:04:02.63,0:04:07.42,DEFAULT,,0,0,0,,{\r}{\kf18}It{\kf45} brings{\kf45} me{\kf36} to{\kf27} my{\kf27} knees{\kf280}~
+Dialogue: 0,0:04:12.06,0:04:16.84,DEFAULT,,0,0,0,,{\r}{\kf44}Oh{\kf35} I{\kf27} beg{\kf18}~{\kf27} you{\kf18}~{\kf309} please
+Dialogue: 0,0:04:41.40,0:04:43.33,DEFAULT,,0,0,0,,{\r}{\kf32}It{\kf64} comes{\kf32} in{\kf65} waves
+Dialogue: 0,0:04:43.69,0:04:45.47,DEFAULT,,0,0,0,,{\r}{\kf33}It{\kf33} cuts{\kf33} through{\kf33} the{\kf46} haze
+Dialogue: 0,0:04:45.76,0:04:48.04,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf28} I{\kf47} feel{\kf19} the{\kf115} walls
+Dialogue: 0,0:04:48.54,0:04:50.61,DEFAULT,,0,0,0,,{\r}{\kf54}Fall{\kf33} down{\kf33} a{\kf44}round{\kf43} me
+Dialogue: 0,0:04:50.90,0:04:52.40,DEFAULT,,0,0,0,,{\r}{\kf58}Crushed{\kf23} and{\kf69} lost
+Dialogue: 0,0:04:52.90,0:04:54.61,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf32} who{\kf43} knows{\kf32} the{\kf43} cost
+Dialogue: 0,0:04:54.90,0:04:56.82,DEFAULT,,0,0,0,,{\r}{\kf51}I'd{\kf51} sell{\kf30} my{\kf61} soul
+Dialogue: 0,0:04:57.18,0:05:02.18,DEFAULT,,0,0,0,,{\r}{\kf47}To{\kf28} set{\kf47} my{\kf47} world{\kf28} on{\kf19} fire{\kf19}~{\kf265}~
+Dialogue: 0,0:05:09.10,0:05:10.67,DEFAULT,,0,0,0,,{\r}{\kf26}Be{\kf26}neath{\kf26} your{\kf79} sun
+Dialogue: 0,0:05:10.89,0:05:15.32,DEFAULT,,0,0,0,,{\r}{\kf48}I'm{\kf29} burn{\kf29}ing{\kf29} a{\kf39}live{\kf29} in{\kf48} your{\kf96} light{\kf96}~
+Dialogue: 0,0:05:15.74,0:05:19.67,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf110} to{\kf46}night{\kf37} I'll{\kf173} breath
+Dialogue: 0,0:05:20.03,0:05:24.95,DEFAULT,,0,0,0,,{\r}{\kf45}In{\kf161} your{\kf36} red{\kf54} fire{\kf45}~{\kf152}~
+Dialogue: 0,0:05:27.45,0:05:28.88,DEFAULT,,0,0,0,,{\r}{\kf25}In{\kf25}to{\kf25} the{\kf68} flame
+Dialogue: 0,0:05:29.17,0:05:33.59,DEFAULT,,0,0,0,,{\r}{\kf47}A{\kf28}gain{\kf28} and{\kf28} a{\kf47}gain{\kf28} and{\kf47} your{\kf94} light{\kf96}~
+Dialogue: 0,0:05:33.95,0:05:36.31,DEFAULT,,0,0,0,,{\r}{\kf34}Will{\kf56} split{\kf45} the{\kf56} night{\kf45} and
+Dialogue: 0,0:05:36.66,0:05:40.16,DEFAULT,,0,0,0,,{\r}{\kf215}Rain{\kf135} down
+Dialogue: 0,0:05:40.59,0:05:43.37,DEFAULT,,0,0,0,,{\r}{\kf42}Red{\kf34} fire{\kf51}~{\kf151}~
+Dialogue: 0,0:05:45.16,0:05:47.16,DEFAULT,,0,0,0,,{\r}{\kf48}I{\kf29} run{\kf29} and{\kf29} I{\kf65} run
+Dialogue: 0,0:05:47.44,0:05:49.30,DEFAULT,,0,0,0,,{\r}{\kf27}But{\kf27} I{\kf27} just{\kf27} can't{\kf27} es{\kf51}cape
+Dialogue: 0,0:05:49.80,0:05:51.94,DEFAULT,,0,0,0,,{\r}{\kf36}The{\kf45} sight{\kf36}~{\kf97}~
+Dialogue: 0,0:05:52.30,0:05:54.01,DEFAULT,,0,0,0,,{\r}{\kf19}Of{\kf57} end{\kf57}less{\kf38} light
+Dialogue: 0,0:05:54.30,0:05:58.23,DEFAULT,,0,0,0,,{\r}{\kf47}I{\kf228} need{\kf118} your
+Dialogue: 0,0:05:58.94,0:06:01.65,DEFAULT,,0,0,0,,{\r}{\kf34}Red{\kf34} fire{\kf42}~{\kf161}~
+Dialogue: 0,0:06:03.51,0:06:05.44,DEFAULT,,0,0,0,,{\r}{\kf41}We{\kf30} shed{\kf41} these{\kf81} chains
+Dialogue: 0,0:06:05.72,0:06:07.51,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf30} for{\kf30}get{\kf40} our{\kf48} names
+Dialogue: 0,0:06:07.79,0:06:10.15,DEFAULT,,0,0,0,,{\r}{\kf30}As{\kf39} the{\kf30} light{\kf20}~{\kf20}~{\kf97}~
+Dialogue: 0,0:06:10.58,0:06:12.86,DEFAULT,,0,0,0,,{\r}{\kf33}Con{\kf65}sumes{\kf43} the{\kf43} night{\kf44} and
+Dialogue: 0,0:06:13.22,0:06:16.50,DEFAULT,,0,0,0,,{\r}{\kf219}Bleeds{\kf109} out
+Dialogue: 0,0:06:17.15,0:06:19.86,DEFAULT,,0,0,0,,{\r}{\kf42}Red{\kf34} fire{\kf51}~{\kf144}~

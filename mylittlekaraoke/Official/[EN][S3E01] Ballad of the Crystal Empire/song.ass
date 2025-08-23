@@ -1,35 +1,42 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Ballad of the Crystal Empire
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.76,0:00:11.11,DEFAULT,,0,0,0,,{\kf27}Prin{\kf27}cess{\kf27} Ca{\kf27}dence{\kf34} needs{\kf21} our{\kf31} help
-Dialogue: 0,0:00:11.35,0:00:13.93,DEFAULT,,0,0,0,,{\kf14}Her{\kf27} ma{\kf14}gic{\kf21} will{\kf24} not{\kf27} last{\kf14} fo{\kf17}-or{\kf14}e{\kf27}ver
-Dialogue: 0,0:00:14.20,0:00:15.82,DEFAULT,,0,0,0,,{\kf21}I{\kf21} think{\kf21} we{\kf14} can{\kf27} do{\kf21} it
-Dialogue: 0,0:00:16.02,0:00:18.54,DEFAULT,,0,0,0,,{\kf21}But{\kf21} we{\kf24} need{\kf11} to{\kf27} work{\kf34} to{\kf17}ge{\kf34}ther
-Dialogue: 0,0:00:19.04,0:00:20.92,DEFAULT,,0,0,0,,{\kf21}We{\kf27} have{\kf14} to{\kf21} get{\kf34} this{\kf34} right
-Dialogue: 0,0:00:21.19,0:00:23.55,DEFAULT,,0,0,0,,{\kf27}Yes,{\kf21} we{\kf21} have{\kf14} to{\kf21} make{\kf14} the{\kf21}-em{\kf54} see
-Dialogue: 0,0:00:23.75,0:00:26.23,DEFAULT,,0,0,0,,{\kf21}We{\kf17} can{\kf31} save{\kf14} the{\kf24} crys{\kf21}tal{\kf31} po{\kf24}nies
-Dialogue: 0,0:00:26.37,0:00:29.22,DEFAULT,,0,0,0,,{\kf21}With{\kf21} their{\kf21} his{\kf27}to{\kf37}ry{\kf121}-y
-Dialogue: 0,0:00:29.80,0:00:32.48,DEFAULT,,0,0,0,,{\kf14}It{\kf21} says{\kf21} that{\kf34} they{\kf34} liked{\kf24} jous{\kf54}ting
-Dialogue: 0,0:00:34.03,0:00:37.32,DEFAULT,,0,0,0,,{\kf17}They{\kf24} flew{\kf11} a{\kf27} flag{\kf14} of{\kf24} ma{\kf37}ny{\kf111} hues
-Dialogue: 0,0:00:38.30,0:00:41.09,DEFAULT,,0,0,0,,{\kf24}Made{\kf27} sweets{\kf17} with{\kf34} crys{\kf34}tal{\kf24} ber{\kf68}ries
-Dialogue: 0,0:00:42.63,0:00:45.89,DEFAULT,,0,0,0,,{\kf24}They{\kf27} had{\kf14} a{\kf24} pet{\kf21}ting{\kf27} zoo{\kf14} with{\kf31} ti{\kf34}ny{\kf64} ewes
-Dialogue: 0,0:00:46.06,0:00:48.01,DEFAULT,,0,0,0,,{\kf21}Oh{\kf17} we{\kf24} have{\kf14} to{\kf21} get{\kf27} this{\kf34} right
-Dialogue: 0,0:00:48.21,0:00:50.16,DEFAULT,,0,0,0,,{\kf21}Yes,{\kf17} we{\kf24} have{\kf14} to{\kf24} make{\kf11} the{\kf14}-em{\kf34} see
-Dialogue: 0,0:00:50.43,0:00:52.44,DEFAULT,,0,0,0,,{\kf14}We{\kf21} can{\kf27} save{\kf14} the{\kf21} crys{\kf21}tal{\kf21} po{\kf17}nies
-Dialogue: 0,0:00:52.58,0:00:54.43,DEFAULT,,0,0,0,,{\kf17}With{\kf17} their{\kf21} his{\kf21}to{\kf31}ry-{\kf51}y
-Dialogue: 0,0:00:55.47,0:00:59.03,DEFAULT,,0,0,0,,{\kf21}There{\kf31} was{\kf14} a{\kf17} crys{\kf17}tal{\kf24} flu{\kf44}gel{\kf142}horn
-Dialogue: 0,0:00:59.74,0:01:02.96,DEFAULT,,0,0,0,,{\kf31}That{\kf17} eve{\kf21}ry{\kf21}po{\kf21}ny{\kf21} liked{\kf24} to{\kf14}-o{\kf111} play
-Dialogue: 0,0:01:04.37,0:01:06.96,DEFAULT,,0,0,0,,{\kf17}And{\kf14} the{\kf24} crys{\kf24}tal{\kf24} king{\kf24}dom{\kf27} an{\kf71}them
-Dialogue: 0,0:01:07.50,0:01:11.53,DEFAULT,,0,0,0,,{\kf21}Can{\kf17} you{\kf31} learn{\kf54} it{\kf51} in{\kf14} a{\kf34} da{\kf44}-a{\kf105}-ay?
-Dialogue: 0,0:01:11.80,0:01:13.75,DEFAULT,,0,0,0,,{\kf21}Oh{\kf17} we{\kf21} have{\kf14} to{\kf21} get{\kf27} this{\kf34} right
-Dialogue: 0,0:01:13.95,0:01:15.93,DEFAULT,,0,0,0,,{\kf21}Yes, {\kf21}we{\kf21} have{\kf11} to{\kf27} make{\kf27} them{\kf44} see
-Dialogue: 0,0:01:16.10,0:01:19.87,DEFAULT,,0,0,0,,{\kf21}We{\kf21} can{\kf81} save{\kf14} the{\kf68} crys{\kf27}tal{\kf24} po{\kf81}nies
-Dialogue: 0,0:01:20.40,0:01:26.92,DEFAULT,,0,0,0,,{\kf21}With{\kf24} their{\kf95} his{\kf81}to{\kf21}-o{\kf387}-ry
+Dialogue: 0,0:00:08.77,0:00:11.12,DEFAULT,,0,0,0,,{\r}{\kf33}Prin{\kf33}cess{\kf33} Ca{\kf33}dence{\kf41} needs{\kf25} our{\kf37} help
+Dialogue: 0,0:00:11.35,0:00:13.94,DEFAULT,,0,0,0,,{\r}{\kf18}Her{\kf36} ma{\kf18}gic{\kf27} will{\kf31} not{\kf36} last{\kf18} fo{\kf22}-or{\kf18}e{\kf35}ver
+Dialogue: 0,0:00:14.21,0:00:15.82,DEFAULT,,0,0,0,,{\r}{\kf27}I{\kf27} think{\kf27} we{\kf18} can{\kf36} do{\kf26} it
+Dialogue: 0,0:00:16.02,0:00:18.54,DEFAULT,,0,0,0,,{\r}{\kf27}But{\kf27} we{\kf32} need{\kf14} to{\kf37} work{\kf46} to{\kf23}ge{\kf46}ther
+Dialogue: 0,0:00:19.05,0:00:20.93,DEFAULT,,0,0,0,,{\r}{\kf26}We{\kf34} have{\kf17} to{\kf26} get{\kf43} this{\kf42} right
+Dialogue: 0,0:00:21.20,0:00:23.55,DEFAULT,,0,0,0,,{\r}{\kf34}Yes,{\kf25} we{\kf25} have{\kf17} to{\kf25} make{\kf17} the{\kf25}-em{\kf67} see
+Dialogue: 0,0:00:23.75,0:00:26.24,DEFAULT,,0,0,0,,{\r}{\kf28}We{\kf23} can{\kf42} save{\kf19} the{\kf33} crys{\kf28}tal{\kf42} po{\kf34}nies
+Dialogue: 0,0:00:26.37,0:00:29.23,DEFAULT,,0,0,0,,{\r}{\kf24}With{\kf24} their{\kf24} his{\kf31}to{\kf43}ry{\kf140}-y
+Dialogue: 0,0:00:29.80,0:00:32.49,DEFAULT,,0,0,0,,{\r}{\kf18}It{\kf27} says{\kf27} that{\kf46} they{\kf46} liked{\kf32} jous{\kf73}ting
+Dialogue: 0,0:00:34.03,0:00:37.33,DEFAULT,,0,0,0,,{\r}{\kf21}They{\kf30} flew{\kf13} a{\kf34} flag{\kf17} of{\kf30} ma{\kf46}ny{\kf138} hues
+Dialogue: 0,0:00:38.30,0:00:41.09,DEFAULT,,0,0,0,,{\r}{\kf29}Made{\kf33} sweets{\kf21} with{\kf42} crys{\kf42}tal{\kf29} ber{\kf83}ries
+Dialogue: 0,0:00:42.64,0:00:45.90,DEFAULT,,0,0,0,,{\r}{\kf28}They{\kf32} had{\kf16} a{\kf28} pet{\kf24}ting{\kf32} zoo{\kf16} with{\kf36} ti{\kf40}ny{\kf74} ewes
+Dialogue: 0,0:00:46.07,0:00:48.01,DEFAULT,,0,0,0,,{\r}{\kf25}Oh{\kf21} we{\kf30} have{\kf17} to{\kf25} get{\kf34} this{\kf43} right
+Dialogue: 0,0:00:48.22,0:00:50.16,DEFAULT,,0,0,0,,{\r}{\kf25}Yes,{\kf21} we{\kf30} have{\kf17} to{\kf30} make{\kf13} the{\kf17}-em{\kf42} see
+Dialogue: 0,0:00:50.43,0:00:52.45,DEFAULT,,0,0,0,,{\r}{\kf18}We{\kf27} can{\kf36} save{\kf18} the{\kf27} crys{\kf27}tal{\kf27} po{\kf22}nies
+Dialogue: 0,0:00:52.58,0:00:54.43,DEFAULT,,0,0,0,,{\r}{\kf20}With{\kf20} their{\kf24} his{\kf24}to{\kf36}ry-{\kf61}y
+Dialogue: 0,0:00:55.47,0:00:59.04,DEFAULT,,0,0,0,,{\r}{\kf23}There{\kf35} was{\kf16} a{\kf20} crys{\kf20}tal{\kf27} flu{\kf51}gel{\kf164}horn
+Dialogue: 0,0:00:59.74,0:01:02.97,DEFAULT,,0,0,0,,{\r}{\kf35}That{\kf20} eve{\kf24}ry{\kf24}po{\kf24}ny{\kf24} liked{\kf28} to{\kf16}-o{\kf128} play
+Dialogue: 0,0:01:04.38,0:01:06.97,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf16} the{\kf27} crys{\kf27}tal{\kf27} king{\kf27}dom{\kf31} an{\kf84}them
+Dialogue: 0,0:01:07.50,0:01:11.54,DEFAULT,,0,0,0,,{\r}{\kf22}Can{\kf18} you{\kf33} learn{\kf59} it{\kf55} in{\kf15} a{\kf37} da{\kf48}-a{\kf116}-ay?
+Dialogue: 0,0:01:11.81,0:01:13.75,DEFAULT,,0,0,0,,{\r}{\kf26}Oh{\kf22} we{\kf26} have{\kf17} to{\kf26} get{\kf35} this{\kf43} right
+Dialogue: 0,0:01:13.96,0:01:15.94,DEFAULT,,0,0,0,,{\r}{\kf24}Yes,{\kf24}we{\kf24} have{\kf12} to{\kf32} make{\kf32} them{\kf50} see
+Dialogue: 0,0:01:16.11,0:01:19.87,DEFAULT,,0,0,0,,{\r}{\kf23}We{\kf23} can{\kf91} save{\kf15} the{\kf76} crys{\kf30}tal{\kf27} po{\kf91}nies
+Dialogue: 0,0:01:20.41,0:01:26.93,DEFAULT,,0,0,0,,{\r}{\kf21}With{\kf25} their{\kf98} his{\kf84}to{\kf21}-o{\kf403}-ry

@@ -1,70 +1,77 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Derby Racers
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.48,0:00:03.11,DEFAULT,,0,0,0,,{\kf27}Ra{\kf34}cers!
-Dialogue: 0,0:00:03.49,0:00:04.13,DEFAULT,,0,0,0,,{\kf12}On{\kf12} your{\kf30} marks!
-Dialogue: 0,0:00:04.61,0:00:05.29,DEFAULT,,0,0,0,,{\kf19}Get{\kf42} set!
-Dialogue: 0,0:00:05.78,0:00:06.49,DEFAULT,,0,0,0,,{\kf72}Go!
-Dialogue: 0,0:00:09.49,0:00:11.59,DEFAULT,,0,0,0,,{\kf210}Aaaaaah!
-Dialogue: 0,0:00:11.96,0:00:14.78,DEFAULT,,0,0,0,,{\kf282}Aaaaaah!
-Dialogue: 0,0:00:15.19,0:00:16.80,DEFAULT,,0,0,0,,{\kf162}Aaaaaah!
-Dialogue: 0,0:00:17.70,0:00:19.35,DEFAULT,,0,0,0,,{\kf12}Can{\kf12} we{\kf19} go{\kf12} a{\kf12}ny{\kf34} fas{\kf34}ter?
-Dialogue: 0,0:00:19.73,0:00:21.90,DEFAULT,,0,0,0,,{\kf38}Fas{\kf30}ter?{\kf27} Don't{\kf15} be{\kf23} sil{\kf23}ly!
-Dialogue: 0,0:00:22.13,0:00:23.36,DEFAULT,,0,0,0,,{\kf23}This{\kf15} is{\kf30} per{\kf38}fect
-Dialogue: 0,0:00:24.53,0:00:24.90,DEFAULT,,0,0,0,,{\kf38}Urgh!
-Dialogue: 0,0:00:30.23,0:00:31.73,DEFAULT,,0,0,0,,{\kf42}Go,{\kf45} go,{\kf45} go!
-Dialogue: 0,0:00:34.99,0:00:36.98,DEFAULT,,0,0,0,,{\kf19}Check{\kf23} me{\kf27} out,{\kf12} ra{\kf8}cin'{\kf8} the{\kf23} Der{\kf23}by
-Dialogue: 0,0:00:37.13,0:00:38.89,DEFAULT,,0,0,0,,{\kf15}Check{\kf15} out{\kf15} my{\kf12} old-{\kf15}fa{\kf19}shioned{\kf30} cart
-Dialogue: 0,0:00:39.23,0:00:41.21,DEFAULT,,0,0,0,,{\kf15}Check{\kf23} me{\kf27} out,{\kf12} ra{\kf8}cing{\kf8} the{\kf19} Der{\kf27}by
-Dialogue: 0,0:00:41.36,0:00:43.16,DEFAULT,,0,0,0,,{\kf12}In{\kf12} my{\kf8} o{\kf12}ri{\kf8}gi{\kf12}nal{\kf27} work{\kf15} of{\kf34} art
-Dialogue: 0,0:00:43.43,0:00:45.41,DEFAULT,,0,0,0,,{\kf15}Check{\kf19} me{\kf23} out,{\kf15} fas{\kf12}ter{\kf8} than{\kf15} e{\kf27}ver
-Dialogue: 0,0:00:45.56,0:00:47.36,DEFAULT,,0,0,0,,{\kf19}There's{\kf15} no{\kf12}po{\kf8}ny{\kf12} can{\kf23} catch{\kf19} me{\kf34} now
-Dialogue: 0,0:00:47.66,0:00:50.36,DEFAULT,,0,0,0,,{\kf12}Let{\kf23} me{\kf27} out,{\kf12} I'd{\kf8} do{\kf19} it{\kf23} o{\kf57}ve{\kf34}-er
-Dialogue: 0,0:00:50.81,0:00:53.74,DEFAULT,,0,0,0,,{\kf19}If{\kf19} I{\kf19} on{\kf23}ly{\kf23} knew{\kf162} how!
-Dialogue: 0,0:00:56.59,0:00:58.54,DEFAULT,,0,0,0,,{\kf23}Gid{\kf23}dy{\kf23} up,{\kf15} der{\kf19}by{\kf23} ra{\kf19}cers
-Dialogue: 0,0:00:58.69,0:01:00.68,DEFAULT,,0,0,0,,{\kf23}Gid{\kf23}dy{\kf27} up,{\kf15} der{\kf23}by{\kf15} ra{\kf27}cers
-Dialogue: 0,0:01:00.83,0:01:02.78,DEFAULT,,0,0,0,,{\kf19}Gid{\kf19}dy{\kf19} up,{\kf19} der{\kf23}by{\kf19} ra{\kf27}cers
-Dialogue: 0,0:01:02.93,0:01:04.35,DEFAULT,,0,0,0,,{\kf30}Go,{\kf34} go,{\kf45} go!
-Dialogue: 0,0:01:07.91,0:01:09.83,DEFAULT,,0,0,0,,{\kf15}My{\kf23} cart's{\kf8} the{\kf27} most{\kf15} o{\kf15}ri{\kf19}gi{\kf19}nal
-Dialogue: 0,0:01:09.98,0:01:11.89,DEFAULT,,0,0,0,,{\kf12}De{\kf19}signed{\kf12} with{\kf12} i{\kf15}ma{\kf8}gi{\kf19}na{\kf42}tion
-Dialogue: 0,0:01:12.11,0:01:14.06,DEFAULT,,0,0,0,,{\kf19}My{\kf27} cart's{\kf8} the{\kf23} most{\kf12} tra{\kf15}di{\kf15}tio{\kf30}nal
-Dialogue: 0,0:01:14.21,0:01:16.05,DEFAULT,,0,0,0,,{\kf12}Just{\kf19} plain,{\kf15} no{\kf19} com{\kf12}pli{\kf15}ca{\kf38}tions
-Dialogue: 0,0:01:16.84,0:01:18.83,DEFAULT,,0,0,0,,{\kf12}Look{\kf12} at{\kf19} me,{\kf15} I{\kf53} am{\kf15} the{\kf38} ace
-Dialogue: 0,0:01:18.98,0:01:20.85,DEFAULT,,0,0,0,,{\kf12}Might{\kf8} as{\kf19} well{\kf19} give{\kf42} up{\kf12} the{\kf34} chase
-Dialogue: 0,0:01:21.04,0:01:22.95,DEFAULT,,0,0,0,,{\kf15}Wish{\kf19} we{\kf19} could{\kf42} stop{\kf19} this{\kf34} race
-Dialogue: 0,0:01:23.10,0:01:24.98,DEFAULT,,0,0,0,,{\kf15}Start{\kf8} a{\kf19}gain{\kf12} and{\kf19} do{\kf15} it{\kf27} our{\kf38} way
-Dialogue: 0,0:01:25.13,0:01:26.40,DEFAULT,,0,0,0,,{\kf19}Having{\kf15} any{\kf23} fun{\kf30} yet?
-Dialogue: 0,0:01:26.70,0:01:29.03,DEFAULT,,0,0,0,,{\kf27}Nope!{\kf12} May{\kf8}be{\kf8} if{\kf12} we{\kf8} could{\kf15} go{\kf8} a{\kf12} lit{\kf8}tle{\kf27} fas{\kf19}ter!
-Dialogue: 0,0:01:29.29,0:01:31.20,DEFAULT,,0,0,0,,{\kf19}Gid{\kf19}dy{\kf27} up,{\kf19} der{\kf19}by{\kf15} ra{\kf27}cers
-Dialogue: 0,0:01:31.35,0:01:33.30,DEFAULT,,0,0,0,,{\kf23}Gid{\kf19}dy{\kf19} up,{\kf23} der{\kf19}by{\kf15} ra{\kf27}cers
-Dialogue: 0,0:01:33.45,0:01:35.40,DEFAULT,,0,0,0,,{\kf19}Gid{\kf19}dy{\kf19} up,{\kf15} der{\kf15}by{\kf15} ra{\kf27}cers
-Dialogue: 0,0:01:35.55,0:01:36.90,DEFAULT,,0,0,0,,{\kf38}Go,{\kf38} go,{\kf38} go!
-Dialogue: 0,0:01:40.50,0:01:42.26,DEFAULT,,0,0,0,,{\kf12}Got{\kf8}ta{\kf19} get{\kf19} some{\kf12} at{\kf19}ten{\kf27}tion
-Dialogue: 0,0:01:42.41,0:01:44.44,DEFAULT,,0,0,0,,{\kf12}If{\kf15} I{\kf23} want{\kf27} that{\kf19} rib{\kf30}bon
-Dialogue: 0,0:01:44.70,0:01:46.39,DEFAULT,,0,0,0,,{\kf12}Got{\kf8}ta{\kf19} push{\kf12} the{\kf12} li{\kf15}mit{\kf19} fur{\kf23}ther
-Dialogue: 0,0:01:46.58,0:01:48.60,DEFAULT,,0,0,0,,{\kf23}Blow{\kf15} a{\kf19}way{\kf8} the{\kf19} com{\kf15}pe{\kf12}ti{\kf34}tion
-Dialogue: 0,0:01:48.94,0:01:50.48,DEFAULT,,0,0,0,,{\kf15}Got{\kf8}ta{\kf23} coast{\kf27} on{\kf38} through
-Dialogue: 0,0:01:50.78,0:01:52.91,DEFAULT,,0,0,0,,{\kf19}Just{\kf15} re{\kf23}lax,{\kf12} we're{\kf19} gon{\kf12}na{\kf30} cruise{\kf38} it
-Dialogue: 0,0:01:53.14,0:01:54.64,DEFAULT,,0,0,0,,{\kf19}Guess{\kf19} I{\kf15} don't{\kf15} real{\kf12}ly{\kf34} care
-Dialogue: 0,0:01:54.98,0:01:57.08,DEFAULT,,0,0,0,,{\kf23}Since{\kf19} we're{\kf23} clear{\kf12}ly{\kf19} gon{\kf12}na{\kf34} lose{\kf30} it
-Dialogue: 0,0:01:57.38,0:01:58.99,DEFAULT,,0,0,0,,{\kf19}See,{\kf15} eve{\kf15}ry{\kf27}po{\kf23}ny's{\kf19} wat{\kf12}ching
-Dialogue: 0,0:01:59.14,0:02:01.28,DEFAULT,,0,0,0,,{\kf19}Pre{\kf15}sen{\kf15}ta{\kf15}tion{\kf19} is{\kf15} a{\kf19} glo{\kf30}ry
-Dialogue: 0,0:02:01.58,0:02:03.23,DEFAULT,,0,0,0,,{\kf15}Just{\kf23} passed{\kf12} you{\kf15} e{\kf12}ven{\kf19} fas{\kf19}ter
-Dialogue: 0,0:02:03.38,0:02:05.48,DEFAULT,,0,0,0,,{\kf27}Speed{\kf15} is{\kf30} king,{\kf23} end{\kf15} of{\kf27} sto{\kf34}ry
-Dialogue: 0,0:02:06.08,0:02:08.03,DEFAULT,,0,0,0,,{\kf19}Big{\kf15}ger,{\kf19} bol{\kf12}der{\kf53} down{\kf15} the{\kf12} track
-Dialogue: 0,0:02:08.18,0:02:10.13,DEFAULT,,0,0,0,,{\kf15}Love{\kf12} the{\kf15} view{\kf12} from{\kf8} the{\kf23} back{\kf23} of{\kf19} the{\kf15} pack
-Dialogue: 0,0:02:10.28,0:02:12.38,DEFAULT,,0,0,0,,{\kf23}Won't{\kf23} stop,{\kf27} we're{\kf15} on{\kf23} the{\kf15} at{\kf30}tack
-Dialogue: 0,0:02:12.56,0:02:14.59,DEFAULT,,0,0,0,,{\kf23}Too{\kf19} late{\kf15} to{\kf27} take{\kf19} it{\kf23} all{\kf45} back!
-Dialogue: 0,0:02:18.71,0:02:20.63,DEFAULT,,0,0,0,,{\kf19}Gid{\kf15}dy{\kf19} up,{\kf23} der{\kf19}by{\kf15} ra{\kf27}cers
-Dialogue: 0,0:02:20.81,0:02:22.73,DEFAULT,,0,0,0,,{\kf23}Gid{\kf15}dy{\kf23} up,{\kf19} der{\kf19}by{\kf15} ra{\kf27}cers
-Dialogue: 0,0:02:22.88,0:02:24.83,DEFAULT,,0,0,0,,{\kf19}Gid{\kf23}dy{\kf19} up,{\kf19} der{\kf15}by{\kf19} ra{\kf23}cers
-Dialogue: 0,0:02:24.98,0:02:25.84,DEFAULT,,0,0,0,,{\kf38}Go,{\kf38} go...
-Dialogue: 0,0:02:25.99,0:02:28.20,DEFAULT,,0,0,0,,{\kf19}Look{\kf192} out!
+Dialogue: 0,0:00:02.48,0:00:03.12,DEFAULT,,0,0,0,,{\r}{\kf28}Ra{\kf36}cers!
+Dialogue: 0,0:00:03.49,0:00:04.13,DEFAULT,,0,0,0,,{\r}{\kf14}On{\kf14} your{\kf36} marks!
+Dialogue: 0,0:00:04.62,0:00:05.29,DEFAULT,,0,0,0,,{\r}{\kf21}Get{\kf46} set!
+Dialogue: 0,0:00:05.78,0:00:06.49,DEFAULT,,0,0,0,,{\r}{\kf71}Go!
+Dialogue: 0,0:00:09.49,0:00:11.59,DEFAULT,,0,0,0,,{\r}{\kf210}Aaaaaah!
+Dialogue: 0,0:00:11.97,0:00:14.78,DEFAULT,,0,0,0,,{\r}{\kf281}Aaaaaah!
+Dialogue: 0,0:00:15.19,0:00:16.80,DEFAULT,,0,0,0,,{\r}{\kf161}Aaaaaah!
+Dialogue: 0,0:00:17.70,0:00:19.36,DEFAULT,,0,0,0,,{\r}{\kf14}Can{\kf14} we{\kf24} go{\kf14} a{\kf14}ny{\kf42} fas{\kf43}ter?
+Dialogue: 0,0:00:19.73,0:00:21.91,DEFAULT,,0,0,0,,{\r}{\kf53}Fas{\kf43}ter?{\kf37} Don't{\kf21} be{\kf32} sil{\kf32}ly!
+Dialogue: 0,0:00:22.13,0:00:23.37,DEFAULT,,0,0,0,,{\r}{\kf27}This{\kf18} is{\kf35} per{\kf44}fect
+Dialogue: 0,0:00:24.53,0:00:24.91,DEFAULT,,0,0,0,,{\r}{\kf38}Urgh!
+Dialogue: 0,0:00:30.23,0:00:31.73,DEFAULT,,0,0,0,,{\r}{\kf47}Go,{\kf51} go,{\kf52} go!
+Dialogue: 0,0:00:34.99,0:00:36.98,DEFAULT,,0,0,0,,{\r}{\kf27}Check{\kf32} me{\kf38} out,{\kf16} ra{\kf11}cin'{\kf11} the{\kf32} Der{\kf32}by
+Dialogue: 0,0:00:37.13,0:00:38.89,DEFAULT,,0,0,0,,{\r}{\kf22}Check{\kf22} out{\kf22} my{\kf16} old-{\kf22}fa{\kf28}shioned{\kf44} cart
+Dialogue: 0,0:00:39.23,0:00:41.22,DEFAULT,,0,0,0,,{\r}{\kf22}Check{\kf33} me{\kf39} out,{\kf17} ra{\kf11}cing{\kf11} the{\kf28} Der{\kf38}by
+Dialogue: 0,0:00:41.37,0:00:43.17,DEFAULT,,0,0,0,,{\r}{\kf15}In{\kf15} my{\kf10} o{\kf15}ri{\kf10}gi{\kf15}nal{\kf35} work{\kf20} of{\kf45} art
+Dialogue: 0,0:00:43.43,0:00:45.42,DEFAULT,,0,0,0,,{\r}{\kf23}Check{\kf28} me{\kf34} out,{\kf23} fas{\kf17}ter{\kf11} than{\kf23} e{\kf40}ver
+Dialogue: 0,0:00:45.57,0:00:47.37,DEFAULT,,0,0,0,,{\r}{\kf24}There's{\kf19} no{\kf15}po{\kf10}ny{\kf15} can{\kf29} catch{\kf24} me{\kf44} now
+Dialogue: 0,0:00:47.67,0:00:50.37,DEFAULT,,0,0,0,,{\r}{\kf14}Let{\kf29} me{\kf34} out,{\kf14} I'd{\kf10} do{\kf24} it{\kf29} o{\kf72}ve{\kf44}-er
+Dialogue: 0,0:00:50.82,0:00:53.74,DEFAULT,,0,0,0,,{\r}{\kf21}If{\kf21} I{\kf21} on{\kf25}ly{\kf25} knew{\kf179} how!
+Dialogue: 0,0:00:56.59,0:00:58.54,DEFAULT,,0,0,0,,{\r}{\kf31}Gid{\kf31}dy{\kf31} up,{\kf21} der{\kf26}by{\kf31} ra{\kf24}cers
+Dialogue: 0,0:00:58.69,0:01:00.68,DEFAULT,,0,0,0,,{\r}{\kf30}Gid{\kf30}dy{\kf35} up,{\kf20} der{\kf30}by{\kf20} ra{\kf34}cers
+Dialogue: 0,0:01:00.83,0:01:02.78,DEFAULT,,0,0,0,,{\r}{\kf26}Gid{\kf26}dy{\kf26} up,{\kf26} der{\kf31}by{\kf26} ra{\kf34}cers
+Dialogue: 0,0:01:02.93,0:01:04.36,DEFAULT,,0,0,0,,{\r}{\kf39}Go,{\kf44} go,{\kf59} go!
+Dialogue: 0,0:01:07.92,0:01:09.83,DEFAULT,,0,0,0,,{\r}{\kf21}My{\kf31} cart's{\kf10} the{\kf36} most{\kf21} o{\kf21}ri{\kf26}gi{\kf25}nal
+Dialogue: 0,0:01:09.98,0:01:11.89,DEFAULT,,0,0,0,,{\r}{\kf16}De{\kf27}signed{\kf16} with{\kf16} i{\kf21}ma{\kf11}gi{\kf27}na{\kf57}tion
+Dialogue: 0,0:01:12.12,0:01:14.07,DEFAULT,,0,0,0,,{\r}{\kf25}My{\kf35} cart's{\kf10} the{\kf30} most{\kf15} tra{\kf20}di{\kf20}tio{\kf40}nal
+Dialogue: 0,0:01:14.22,0:01:16.06,DEFAULT,,0,0,0,,{\r}{\kf16}Just{\kf27} plain,{\kf22} no{\kf27} com{\kf16}pli{\kf22}ca{\kf54}tions
+Dialogue: 0,0:01:16.84,0:01:18.83,DEFAULT,,0,0,0,,{\r}{\kf14}Look{\kf14} at{\kf23} me,{\kf19} I{\kf65} am{\kf19} the{\kf45} ace
+Dialogue: 0,0:01:18.98,0:01:20.86,DEFAULT,,0,0,0,,{\r}{\kf15}Might{\kf10} as{\kf25} well{\kf25} give{\kf54} up{\kf15} the{\kf44} chase
+Dialogue: 0,0:01:21.04,0:01:22.95,DEFAULT,,0,0,0,,{\r}{\kf20}Wish{\kf24} we{\kf24} could{\kf54} stop{\kf24} this{\kf45} race
+Dialogue: 0,0:01:23.11,0:01:24.98,DEFAULT,,0,0,0,,{\r}{\kf19}Start{\kf10} a{\kf24}gain{\kf14} and{\kf24} do{\kf19} it{\kf33} our{\kf45} way
+Dialogue: 0,0:01:25.13,0:01:26.41,DEFAULT,,0,0,0,,{\r}{\kf28}Having{\kf22} any{\kf33} fun{\kf44} yet?
+Dialogue: 0,0:01:26.70,0:01:29.03,DEFAULT,,0,0,0,,{\r}{\kf39}Nope!{\kf17} May{\kf11}be{\kf11} if{\kf17} we{\kf11} could{\kf22} go{\kf11} a{\kf17} lit{\kf11}tle{\kf39} fas{\kf27}ter!
+Dialogue: 0,0:01:29.29,0:01:31.20,DEFAULT,,0,0,0,,{\r}{\kf25}Gid{\kf25}dy{\kf35} up,{\kf25} der{\kf25}by{\kf20} ra{\kf36}cers
+Dialogue: 0,0:01:31.36,0:01:33.31,DEFAULT,,0,0,0,,{\r}{\kf31}Gid{\kf26}dy{\kf26} up,{\kf31} der{\kf26}by{\kf21} ra{\kf34}cers
+Dialogue: 0,0:01:33.45,0:01:35.41,DEFAULT,,0,0,0,,{\r}{\kf29}Gid{\kf29}dy{\kf29} up,{\kf23} der{\kf23}by{\kf23} ra{\kf39}cers
+Dialogue: 0,0:01:35.56,0:01:36.91,DEFAULT,,0,0,0,,{\r}{\kf45}Go,{\kf45} go,{\kf45} go!
+Dialogue: 0,0:01:40.50,0:01:42.27,DEFAULT,,0,0,0,,{\r}{\kf18}Got{\kf12}ta{\kf29} get{\kf29} some{\kf18} at{\kf29}ten{\kf41}tion
+Dialogue: 0,0:01:42.42,0:01:44.44,DEFAULT,,0,0,0,,{\r}{\kf18}If{\kf24} I{\kf37} want{\kf43} that{\kf31} rib{\kf49}bon
+Dialogue: 0,0:01:44.70,0:01:46.39,DEFAULT,,0,0,0,,{\r}{\kf16}Got{\kf11}ta{\kf27} push{\kf16} the{\kf16} li{\kf22}mit{\kf27} fur{\kf34}ther
+Dialogue: 0,0:01:46.58,0:01:48.61,DEFAULT,,0,0,0,,{\r}{\kf32}Blow{\kf21} a{\kf27}way{\kf11} the{\kf27} com{\kf21}pe{\kf16}ti{\kf48}tion
+Dialogue: 0,0:01:48.94,0:01:50.48,DEFAULT,,0,0,0,,{\r}{\kf21}Got{\kf11}ta{\kf32} coast{\kf37} on{\kf53} through
+Dialogue: 0,0:01:50.78,0:01:52.92,DEFAULT,,0,0,0,,{\r}{\kf24}Just{\kf19} re{\kf29}lax,{\kf15} we're{\kf24} gon{\kf15}na{\kf39} cruise{\kf49} it
+Dialogue: 0,0:01:53.14,0:01:54.64,DEFAULT,,0,0,0,,{\r}{\kf25}Guess{\kf25} I{\kf20} don't{\kf20} real{\kf15}ly{\kf45} care
+Dialogue: 0,0:01:54.98,0:01:57.08,DEFAULT,,0,0,0,,{\r}{\kf28}Since{\kf23} we're{\kf28} clear{\kf14}ly{\kf23} gon{\kf14}na{\kf42} lose{\kf38} it
+Dialogue: 0,0:01:57.38,0:01:58.99,DEFAULT,,0,0,0,,{\r}{\kf24}See,{\kf19} eve{\kf19}ry{\kf33}po{\kf28}ny's{\kf24} wat{\kf14}ching
+Dialogue: 0,0:01:59.14,0:02:01.28,DEFAULT,,0,0,0,,{\r}{\kf27}Pre{\kf22}sen{\kf22}ta{\kf22}tion{\kf27} is{\kf22} a{\kf27} glo{\kf45}ry
+Dialogue: 0,0:02:01.58,0:02:03.23,DEFAULT,,0,0,0,,{\r}{\kf22}Just{\kf33} passed{\kf16} you{\kf22} e{\kf16}ven{\kf28} fas{\kf28}ter
+Dialogue: 0,0:02:03.38,0:02:05.48,DEFAULT,,0,0,0,,{\r}{\kf33}Speed{\kf19} is{\kf37} king,{\kf28} end{\kf19} of{\kf33} sto{\kf41}ry
+Dialogue: 0,0:02:06.08,0:02:08.03,DEFAULT,,0,0,0,,{\r}{\kf26}Big{\kf21}ger,{\kf26} bol{\kf15}der{\kf72} down{\kf21} the{\kf14} track
+Dialogue: 0,0:02:08.18,0:02:10.13,DEFAULT,,0,0,0,,{\r}{\kf21}Love{\kf16} the{\kf21} view{\kf16} from{\kf11} the{\kf32} back{\kf32} of{\kf26} the{\kf20} pack
+Dialogue: 0,0:02:10.28,0:02:12.38,DEFAULT,,0,0,0,,{\r}{\kf31}Won't{\kf31} stop,{\kf36} we're{\kf20} on{\kf31} the{\kf20} at{\kf41}tack
+Dialogue: 0,0:02:12.57,0:02:14.59,DEFAULT,,0,0,0,,{\r}{\kf27}Too{\kf22} late{\kf18} to{\kf31} take{\kf22} it{\kf27} all{\kf55} back!
+Dialogue: 0,0:02:18.72,0:02:20.63,DEFAULT,,0,0,0,,{\r}{\kf27}Gid{\kf21}dy{\kf27} up,{\kf32} der{\kf27}by{\kf21} ra{\kf36}cers
+Dialogue: 0,0:02:20.82,0:02:22.73,DEFAULT,,0,0,0,,{\r}{\kf31}Gid{\kf21}dy{\kf31} up,{\kf26} der{\kf26}by{\kf21} ra{\kf35}cers
+Dialogue: 0,0:02:22.88,0:02:24.83,DEFAULT,,0,0,0,,{\r}{\kf27}Gid{\kf32}dy{\kf27} up,{\kf27} der{\kf22}by{\kf27} ra{\kf33}cers
+Dialogue: 0,0:02:24.98,0:02:25.84,DEFAULT,,0,0,0,,{\r}{\kf43}Go,{\kf43} go...
+Dialogue: 0,0:02:25.99,0:02:28.21,DEFAULT,,0,0,0,,{\r}{\kf20}Look{\kf201} out!

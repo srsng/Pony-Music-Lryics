@@ -1,27 +1,34 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Main Theme
+Artist: Equestria Girls
+Original Timing: mylittlekaraoke.com by Nicolas Ha, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.94,0:00:05.87,DEFAULT,,0,0,0,,{\kf16}My{\kf12} Lit{\kf16}tle{\kf39} Po{\kf51}ny{\kf16} My{\kf12} Lit{\kf16}tle{\kf27} Po{\kf51}ny
-Dialogue: 0,0:00:06.21,0:00:08.37,DEFAULT,,0,0,0,,{\kf47}Ahh{\kf47}~{\kf12} a{\kf12} a{\kf12} a{\kf12} a{\kf12} a{\kf12} a{\kf12} a{\kf12} a
-Dialogue: 0,0:00:25.71,0:00:27.75,DEFAULT,,0,0,0,,{\kf43}My{\kf12} Lit{\kf16}tle{\kf12} Po{\kf20}~{\kf74}ny
-Dialogue: 0,0:00:28.02,0:00:29.98,DEFAULT,,0,0,0,,{\kf8}I{\kf8} used{\kf8} to{\kf16} won{\kf8}der{\kf16} what{\kf16} friend{\kf16}ship{\kf16} could{\kf8} be
-Dialogue: 0,0:00:30.06,0:00:31.91,DEFAULT,,0,0,0,,{\kf43}My{\kf12} Lit{\kf16}tle{\kf12} Po{\kf20}~{\kf54}ny
-Dialogue: 0,0:00:31.95,0:00:34.07,DEFAULT,,0,0,0,,{\kf8}Un{\kf8}til{\kf8} you{\kf16} all{\kf16} shared{\kf8} its{\kf12}~{\kf16} mag{\kf8}ic{\kf16} with{\kf24} me
-Dialogue: 0,0:00:34.38,0:00:35.61,DEFAULT,,0,0,0,,{\kf43}My{\kf12} Lit{\kf16}tle{\kf12} Po{\kf12}~{\kf8}ny
-Dialogue: 0,0:01:00.31,0:01:02.35,DEFAULT,,0,0,0,,{\kf43}My{\kf12} Lit{\kf16}tle{\kf8} Po{\kf20}~{\kf74}ny
-Dialogue: 0,0:01:02.58,0:01:04.58,DEFAULT,,0,0,0,,{\kf8}I{\kf8} used{\kf8} to{\kf8} won{\kf16}~{\kf8}der{\kf12} what{\kf8}~{\kf16} friend{\kf27}ship{\kf8} could{\kf16} be{\kf12}~
-Dialogue: 0,0:01:04.62,0:01:06.51,DEFAULT,,0,0,0,,{\kf43}My{\kf12} Lit{\kf16}tle{\kf12} Po{\kf20}~{\kf54}ny
-Dialogue: 0,0:01:06.51,0:01:08.90,DEFAULT,,0,0,0,,{\kf8}Un{\kf8}til{\kf8} you{\kf16} all{\kf8} shared{\kf12}~{\kf16} its{\kf8} mag{\kf12}~{\kf8}ic{\kf12} with{\kf8} me{\kf16}~{\kf24}~
-Dialogue: 0,0:01:08.98,0:01:10.21,DEFAULT,,0,0,0,,{\kf43}My{\kf12} Lit{\kf16}tle{\kf12} Po{\kf12}~{\kf8}ny
-Dialogue: 0,0:01:14.10,0:01:14.91,DEFAULT,,0,0,0,,{\kf8}It's{\kf8} an{\kf8} ea{\kf16}sy{\kf16} feat
-Dialogue: 0,0:01:15.18,0:01:17.11,DEFAULT,,0,0,0,,{\kf16}And{\kf16} mag{\kf16}ic{\kf16} makes{\kf16} it{\kf16} all{\kf8} com{\kf16}plete
-Dialogue: 0,0:01:17.22,0:01:18.80,DEFAULT,,0,0,0,,{\kf8}You{\kf16} have{\kf16} My{\kf108}~
-Dialogue: 0,0:01:19.50,0:01:25.08,DEFAULT,,0,0,0,,{\kf8}Do{\kf8} you{\kf16} know{\kf8} you{\kf16} are{\kf16} my{\kf16} ve{\kf16}ry{\kf12} best{\kf31}~{\kf320} friends
+Dialogue: 0,0:00:01.94,0:00:05.87,DEFAULT,,0,0,0,,{\r}{\kf24}My{\kf18} Lit{\kf24}tle{\kf60} Po{\kf79}ny{\kf24} My{\kf18} Lit{\kf24}tle{\kf42} Po{\kf80}ny
+Dialogue: 0,0:00:06.22,0:00:08.37,DEFAULT,,0,0,0,,{\r}{\kf54}Ahh{\kf54}~{\kf14} a{\kf14} a{\kf14} a{\kf14} a{\kf14} a{\kf14} a{\kf14} a{\kf10} a
+Dialogue: 0,0:00:25.71,0:00:27.75,DEFAULT,,0,0,0,,{\r}{\kf50}My{\kf14} Lit{\kf18}tle{\kf14} Po{\kf23}~{\kf85}ny
+Dialogue: 0,0:00:28.02,0:00:29.99,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf13} used{\kf13} to{\kf26} won{\kf13}der{\kf26} what{\kf26} friend{\kf26}ship{\kf26} could{\kf15} be
+Dialogue: 0,0:00:30.07,0:00:31.92,DEFAULT,,0,0,0,,{\r}{\kf51}My{\kf14} Lit{\kf18}tle{\kf14} Po{\kf23}~{\kf65}ny
+Dialogue: 0,0:00:31.95,0:00:34.07,DEFAULT,,0,0,0,,{\r}{\kf12}Un{\kf12}til{\kf12} you{\kf24} all{\kf24} shared{\kf12} its{\kf18}~{\kf24} mag{\kf12}ic{\kf24} with{\kf38} me
+Dialogue: 0,0:00:34.38,0:00:35.61,DEFAULT,,0,0,0,,{\r}{\kf52}My{\kf14} Lit{\kf19}tle{\kf14} Po{\kf14}~{\kf10}ny
+Dialogue: 0,0:01:00.31,0:01:02.35,DEFAULT,,0,0,0,,{\r}{\kf51}My{\kf14} Lit{\kf19}tle{\kf10} Po{\kf23}~{\kf87}ny
+Dialogue: 0,0:01:02.59,0:01:04.59,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf10} used{\kf10} to{\kf10} won{\kf21}~{\kf10}der{\kf15} what{\kf10}~{\kf21} friend{\kf36}ship{\kf10} could{\kf21} be{\kf16}~
+Dialogue: 0,0:01:04.63,0:01:06.52,DEFAULT,,0,0,0,,{\r}{\kf52}My{\kf14} Lit{\kf19}tle{\kf14} Po{\kf24}~{\kf66}ny
+Dialogue: 0,0:01:06.52,0:01:08.90,DEFAULT,,0,0,0,,{\r}{\kf12}Un{\kf12}til{\kf12} you{\kf23} all{\kf12} shared{\kf17}~{\kf23} its{\kf12} mag{\kf17}~{\kf12}ic{\kf17} with{\kf12} me{\kf23}~{\kf35}~
+Dialogue: 0,0:01:08.98,0:01:10.21,DEFAULT,,0,0,0,,{\r}{\kf52}My{\kf14} Lit{\kf19}tle{\kf14} Po{\kf14}~{\kf10}ny
+Dialogue: 0,0:01:14.11,0:01:14.92,DEFAULT,,0,0,0,,{\r}{\kf12}It's{\kf12} an{\kf12} ea{\kf23}sy{\kf22} feat
+Dialogue: 0,0:01:15.18,0:01:17.11,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf26} mag{\kf26}ic{\kf26} makes{\kf26} it{\kf26} all{\kf13} com{\kf24}plete
+Dialogue: 0,0:01:17.23,0:01:18.81,DEFAULT,,0,0,0,,{\r}{\kf10}You{\kf17} have{\kf17} My{\kf114}~
+Dialogue: 0,0:01:19.50,0:01:25.09,DEFAULT,,0,0,0,,{\r}{\kf10}Do{\kf10} you{\kf19} know{\kf10} you{\kf19} are{\kf19} my{\kf19} ve{\kf19}ry{\kf14} best{\kf37}~{\kf383} friends

@@ -1,61 +1,68 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Perfect Day For Fun
+Artist: Equestria Girls - Rainbow Rocks
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:06.53,0:00:08.48,DEFAULT,,0,0,0,,{\kf35}Oh{\kf10} oh{\kf15} ah{\kf35} ah{\kf25} ah{\kf35} oh
-Dialogue: 0,0:00:08.73,0:00:09.70,DEFAULT,,0,0,0,,{\kf10}Oh{\kf20} oh{\kf15} uh{\kf15} oh{\kf15} uh
-Dialogue: 0,0:00:09.75,0:00:11.70,DEFAULT,,0,0,0,,{\kf25}Oh{\kf10} oh{\kf10} ah{\kf30} ah{\kf25} ah{\kf44} ah
-Dialogue: 0,0:00:13.21,0:00:14.67,DEFAULT,,0,0,0,,{\kf10}Loo{\kf15}king{\kf20} for{\kf10}ward{\kf10} to{\kf20} some{\kf35} fun
-Dialogue: 0,0:00:14.77,0:00:16.18,DEFAULT,,0,0,0,,{\kf15}Know{\kf15}ing{\kf15} all{\kf10} our{\kf20} friends{\kf10} will{\kf30} come
-Dialogue: 0,0:00:16.33,0:00:17.79,DEFAULT,,0,0,0,,{\kf15}'Cause{\kf10} we're{\kf20} here{\kf5} to{\kf25} spend{\kf10} the{\kf35} day
-Dialogue: 0,0:00:17.84,0:00:19.30,DEFAULT,,0,0,0,,{\kf20}Ev'{\kf15}ry{\kf15}bo{\kf15}dy{\kf15} come{\kf15} and{\kf25} play
-Dialogue: 0,0:00:19.40,0:00:20.81,DEFAULT,,0,0,0,,{\kf20}Let's{\kf15} all{\kf15} pick{\kf10} a{\kf15} mee{\kf20}ting{\kf20} place
-Dialogue: 0,0:00:21.01,0:00:22.37,DEFAULT,,0,0,0,,{\kf15}And{\kf15} we're{\kf15} gon{\kf10}na{\kf20} have{\kf10} to{\kf25} race
-Dialogue: 0,0:00:22.57,0:00:23.98,DEFAULT,,0,0,0,,{\kf15}Ev'{\kf15}ry{\kf15}bo{\kf15}dy{\kf15} fol{\kf15}low{\kf25} me
-Dialogue: 0,0:00:24.13,0:00:25.59,DEFAULT,,0,0,0,,{\kf15}This{\kf15} is{\kf15} where{\kf15} we're{\kf15} gon{\kf15}na{\kf30} be
-Dialogue: 0,0:00:26.08,0:00:28.32,DEFAULT,,0,0,0,,{\kf25}With{\kf35} my{\kf59} best{\kf74} friends
-Dialogue: 0,0:00:29.15,0:00:31.15,DEFAULT,,0,0,0,,{\kf25}Though{\kf25} we're{\kf49} diffe{\kf54}rent
-Dialogue: 0,0:00:31.49,0:00:33.39,DEFAULT,,0,0,0,,{\kf15}We{\kf15} feel{\kf15} like{\kf10} we{\kf30} still{\kf15} be{\kf15}-e{\kf35}long
-Dialogue: 0,0:00:33.68,0:00:35.97,DEFAULT,,0,0,0,,{\kf10}And{\kf15} eve{\kf10}ry{\kf20} day{\kf10} it{\kf30} makes{\kf25} our{\kf30} friend{\kf20}ship
-Dialogue: 0,0:00:36.12,0:00:37.73,DEFAULT,,0,0,0,,{\kf25}Stro{\kf30}-o{\kf15}-o{\kf15}-o{\kf39}-ong
-Dialogue: 0,0:00:38.12,0:00:39.48,DEFAULT,,0,0,0,,{\kf15}Let's{\kf15} go{\kf15} find{\kf15} what{\kf20} games{\kf10} to{\kf20} win
-Dialogue: 0,0:00:39.72,0:00:41.04,DEFAULT,,0,0,0,,{\kf15}Ev'{\kf10}ry{\kf15}bo{\kf15}dy's{\kf15} joi{\kf15}ning{\kf15} in
-Dialogue: 0,0:00:41.23,0:00:42.70,DEFAULT,,0,0,0,,{\kf15}'Cause{\kf10} we're{\kf15} ha{\kf10}ving{\kf15} such{\kf10} a{\kf30} blast
-Dialogue: 0,0:00:42.75,0:00:44.26,DEFAULT,,0,0,0,,{\kf20}Hey,{\kf10} did{\kf20} I{\kf15} just{\kf15} come{\kf10} in{\kf35} last?
-Dialogue: 0,0:00:44.35,0:00:45.82,DEFAULT,,0,0,0,,{\kf15}Does{\kf15}n't{\kf15} mat{\kf15}ter{\kf15} win{\kf10} or{\kf30} lose
-Dialogue: 0,0:00:45.96,0:00:47.38,DEFAULT,,0,0,0,,{\kf15}When{\kf15} we{\kf10} al{\kf20}ways{\kf15} are{\kf15} a{\kf25}mused
-Dialogue: 0,0:00:47.47,0:00:48.94,DEFAULT,,0,0,0,,{\kf15}My{\kf15} friends{\kf20} stand{\kf15} out{\kf15} in{\kf10} a{\kf30} crowd
-Dialogue: 0,0:00:49.03,0:00:50.69,DEFAULT,,0,0,0,,{\kf15}Ha{\kf15}ving{\kf15} fun{\kf15} and{\kf15} laugh{\kf15}ing{\kf49} loud!
-Dialogue: 0,0:00:50.98,0:00:53.37,DEFAULT,,0,0,0,,{\kf25}With{\kf30} my{\kf54} best{\kf83} friends
-Dialogue: 0,0:00:54.05,0:00:56.20,DEFAULT,,0,0,0,,{\kf35}We{\kf35} can{\kf54} de{\kf54}pend
-Dialogue: 0,0:00:56.44,0:00:58.34,DEFAULT,,0,0,0,,{\kf15}They{\kf15} will{\kf15} al{\kf15}ways{\kf30} fol{\kf25}low{\kf35} through
-Dialogue: 0,0:00:58.78,0:01:00.63,DEFAULT,,0,0,0,,{\kf15}It's{\kf15} a{\kf15} per{\kf15}fect{\kf25} day{\kf25} for{\kf35} fun
-Dialogue: 0,0:01:00.73,0:01:03.07,DEFAULT,,0,0,0,,{\kf25}When{\kf25} I{\kf35} spend{\kf20} it{\kf25} with{\kf39} you
-Dialogue: 0,0:01:08.92,0:01:10.77,DEFAULT,,0,0,0,,{\kf30}Oh{\kf15} oh{\kf15} ah{\kf25} ah{\kf25} ah{\kf30} oh
-Dialogue: 0,0:01:11.06,0:01:11.99,DEFAULT,,0,0,0,,{\kf10}Oh{\kf20} oh{\kf20} uh{\kf10} oh{\kf15} uh
-Dialogue: 0,0:01:12.14,0:01:13.99,DEFAULT,,0,0,0,,{\kf20}Oh{\kf15} oh{\kf10} ah{\kf30} ah{\kf25} ah{\kf39} ah
-Dialogue: 0,0:01:15.55,0:01:17.01,DEFAULT,,0,0,0,,{\kf15}Ta{\kf15}king{\kf15} pho{\kf15}tos{\kf15} with{\kf15} my{\kf30} friends
-Dialogue: 0,0:01:17.11,0:01:18.52,DEFAULT,,0,0,0,,{\kf15}Ne{\kf15}ver{\kf15} want{\kf15} this{\kf15} day{\kf15} to{\kf25} end
-Dialogue: 0,0:01:18.62,0:01:20.13,DEFAULT,,0,0,0,,{\kf15}But{\kf15} the{\kf20} time{\kf15} is{\kf15} go{\kf15}ing{\kf30} fast
-Dialogue: 0,0:01:20.23,0:01:21.69,DEFAULT,,0,0,0,,{\kf15}So{\kf15} come{\kf15} on{\kf15} and{\kf15} make{\kf15} it{\kf30} last
-Dialogue: 0,0:01:21.79,0:01:23.25,DEFAULT,,0,0,0,,{\kf15}Get{\kf15} the{\kf15} band{\kf15} up{\kf10} on{\kf10} the{\kf35} stage
-Dialogue: 0,0:01:23.35,0:01:24.81,DEFAULT,,0,0,0,,{\kf10}Does{\kf15}n't{\kf15} mat{\kf15}ter{\kf15} what{\kf15} your{\kf25} age
-Dialogue: 0,0:01:24.90,0:01:26.37,DEFAULT,,0,0,0,,{\kf15}Hear{\kf15} the{\kf10} mu{\kf15}sic,{\kf20} now's{\kf10} your{\kf35} chance
-Dialogue: 0,0:01:26.46,0:01:27.98,DEFAULT,,0,0,0,,{\kf15}Ev'{\kf15}ry{\kf10}bo{\kf10}dy{\kf15} start{\kf15} to{\kf39} dance!
-Dialogue: 0,0:01:28.37,0:01:30.70,DEFAULT,,0,0,0,,{\kf35}With{\kf35} my{\kf59} best{\kf78} friends
-Dialogue: 0,0:01:31.48,0:01:33.48,DEFAULT,,0,0,0,,{\kf35}Though{\kf25} we're{\kf64} diffe{\kf49}rent
-Dialogue: 0,0:01:33.82,0:01:35.82,DEFAULT,,0,0,0,,{\kf15}We{\kf15} feel{\kf15} like{\kf10} we{\kf25} still{\kf15} be{\kf15}-e{\kf49}long
-Dialogue: 0,0:01:36.02,0:01:38.31,DEFAULT,,0,0,0,,{\kf15}And{\kf15} eve{\kf15}ry{\kf15} day{\kf15} it{\kf25} makes{\kf20} our{\kf25} friend{\kf25}ship
-Dialogue: 0,0:01:38.45,0:01:40.06,DEFAULT,,0,0,0,,{\kf35}Stro{\kf25}-o{\kf20}-o{\kf10}-o{\kf39}-ong
-Dialogue: 0,0:01:40.89,0:01:43.18,DEFAULT,,0,0,0,,{\kf30}With{\kf30} my{\kf69} best{\kf78} friends
-Dialogue: 0,0:01:43.96,0:01:46.06,DEFAULT,,0,0,0,,{\kf30} We{\kf25} can{\kf54} de{\kf54}pend
-Dialogue: 0,0:01:46.30,0:01:48.15,DEFAULT,,0,0,0,,{\kf15}They{\kf15} will{\kf15} al{\kf20}ways{\kf30} fol{\kf30}low{\kf30} through
-Dialogue: 0,0:01:48.64,0:01:50.49,DEFAULT,,0,0,0,,{\kf20}There's{\kf10} a{\kf15} gua{\kf15}ran{\kf30}tee{\kf20} for{\kf30} fun
-Dialogue: 0,0:01:50.59,0:01:52.93,DEFAULT,,0,0,0,,{\kf30}When{\kf25} I{\kf30} spend{\kf30} it{\kf30} with{\kf44} you
+Dialogue: 0,0:00:06.54,0:00:08.49,DEFAULT,,0,0,0,,{\r}{\kf44}Oh{\kf13} oh{\kf19} ah{\kf44} ah{\kf31} ah{\kf44} oh
+Dialogue: 0,0:00:08.73,0:00:09.71,DEFAULT,,0,0,0,,{\r}{\kf13}Oh{\kf26} oh{\kf19} uh{\kf19} oh{\kf20} uh
+Dialogue: 0,0:00:09.75,0:00:11.70,DEFAULT,,0,0,0,,{\r}{\kf34}Oh{\kf13} oh{\kf13} ah{\kf40} ah{\kf34} ah{\kf61} ah
+Dialogue: 0,0:00:13.21,0:00:14.68,DEFAULT,,0,0,0,,{\r}{\kf12}Loo{\kf18}king{\kf24} for{\kf12}ward{\kf12} to{\kf24} some{\kf44} fun
+Dialogue: 0,0:00:14.77,0:00:16.19,DEFAULT,,0,0,0,,{\r}{\kf18}Know{\kf18}ing{\kf18} all{\kf12} our{\kf25} friends{\kf12} will{\kf38} come
+Dialogue: 0,0:00:16.33,0:00:17.80,DEFAULT,,0,0,0,,{\r}{\kf18}'Cause{\kf12} we're{\kf24} here{\kf10} to{\kf30} spend{\kf12} the{\kf40} day
+Dialogue: 0,0:00:17.84,0:00:19.31,DEFAULT,,0,0,0,,{\r}{\kf24}Ev'{\kf18}ry{\kf18}bo{\kf18}dy{\kf18} come{\kf18} and{\kf32} play
+Dialogue: 0,0:00:19.40,0:00:20.82,DEFAULT,,0,0,0,,{\r}{\kf25}Let's{\kf18} all{\kf18} pick{\kf12} a{\kf18} mee{\kf25}ting{\kf25} place
+Dialogue: 0,0:00:21.01,0:00:22.38,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} we're{\kf19} gon{\kf12}na{\kf25} have{\kf12} to{\kf30} race
+Dialogue: 0,0:00:22.57,0:00:23.99,DEFAULT,,0,0,0,,{\r}{\kf18}Ev'{\kf18}ry{\kf18}bo{\kf18}dy{\kf18} fol{\kf18}low{\kf33} me
+Dialogue: 0,0:00:24.13,0:00:25.59,DEFAULT,,0,0,0,,{\r}{\kf18}This{\kf18} is{\kf18} where{\kf18} we're{\kf18} gon{\kf18}na{\kf38} be
+Dialogue: 0,0:00:26.08,0:00:28.32,DEFAULT,,0,0,0,,{\r}{\kf29}With{\kf40} my{\kf69} best{\kf86} friends
+Dialogue: 0,0:00:29.15,0:00:31.15,DEFAULT,,0,0,0,,{\r}{\kf32}Though{\kf32} we're{\kf65} diffe{\kf71}rent
+Dialogue: 0,0:00:31.49,0:00:33.39,DEFAULT,,0,0,0,,{\r}{\kf19}We{\kf19} feel{\kf19} like{\kf13} we{\kf38} still{\kf19} be{\kf19}-e{\kf44}long
+Dialogue: 0,0:00:33.68,0:00:35.98,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf20} eve{\kf13}ry{\kf27} day{\kf13} it{\kf40} makes{\kf34} our{\kf40} friend{\kf29}ship
+Dialogue: 0,0:00:36.12,0:00:37.73,DEFAULT,,0,0,0,,{\r}{\kf32}Stro{\kf39}-o{\kf19}-o{\kf19}-o{\kf52}-ong
+Dialogue: 0,0:00:38.12,0:00:39.48,DEFAULT,,0,0,0,,{\r}{\kf19}Let's{\kf19} go{\kf19} find{\kf19} what{\kf25} games{\kf12} to{\kf23} win
+Dialogue: 0,0:00:39.73,0:00:41.04,DEFAULT,,0,0,0,,{\r}{\kf20}Ev'{\kf13}ry{\kf20}bo{\kf20}dy's{\kf20} joi{\kf20}ning{\kf19} in
+Dialogue: 0,0:00:41.24,0:00:42.70,DEFAULT,,0,0,0,,{\r}{\kf21}'Cause{\kf14} we're{\kf21} ha{\kf14}ving{\kf21} such{\kf14} a{\kf41} blast
+Dialogue: 0,0:00:42.75,0:00:44.26,DEFAULT,,0,0,0,,{\r}{\kf24}Hey,{\kf12} did{\kf24} I{\kf18} just{\kf18} come{\kf12} in{\kf43} last?
+Dialogue: 0,0:00:44.36,0:00:45.82,DEFAULT,,0,0,0,,{\r}{\kf19}Does{\kf19}n't{\kf19} mat{\kf19}ter{\kf19} win{\kf13} or{\kf38} lose
+Dialogue: 0,0:00:45.97,0:00:47.38,DEFAULT,,0,0,0,,{\r}{\kf18}When{\kf18} we{\kf12} al{\kf25}ways{\kf18} are{\kf18} a{\kf32}mused
+Dialogue: 0,0:00:47.48,0:00:48.94,DEFAULT,,0,0,0,,{\r}{\kf18}My{\kf18} friends{\kf24} stand{\kf18} out{\kf18} in{\kf12} a{\kf38} crowd
+Dialogue: 0,0:00:49.04,0:00:50.69,DEFAULT,,0,0,0,,{\r}{\kf18}Ha{\kf18}ving{\kf18} fun{\kf18} and{\kf18} laugh{\kf18}ing{\kf58} loud!
+Dialogue: 0,0:00:50.99,0:00:53.38,DEFAULT,,0,0,0,,{\r}{\kf31}With{\kf37} my{\kf67} best{\kf104} friends
+Dialogue: 0,0:00:54.06,0:00:56.20,DEFAULT,,0,0,0,,{\r}{\kf42}We{\kf42} can{\kf65} de{\kf65}pend
+Dialogue: 0,0:00:56.45,0:00:58.35,DEFAULT,,0,0,0,,{\r}{\kf19}They{\kf19} will{\kf19} al{\kf19}ways{\kf38} fol{\kf32}low{\kf44} through
+Dialogue: 0,0:00:58.79,0:01:00.64,DEFAULT,,0,0,0,,{\r}{\kf19}It's{\kf19} a{\kf19} per{\kf19}fect{\kf32} day{\kf32} for{\kf45} fun
+Dialogue: 0,0:01:00.74,0:01:03.07,DEFAULT,,0,0,0,,{\r}{\kf34}When{\kf34} I{\kf48} spend{\kf28} it{\kf34} with{\kf56} you
+Dialogue: 0,0:01:08.92,0:01:10.78,DEFAULT,,0,0,0,,{\r}{\kf40}Oh{\kf20} oh{\kf20} ah{\kf33} ah{\kf33} ah{\kf39} oh
+Dialogue: 0,0:01:11.07,0:01:11.99,DEFAULT,,0,0,0,,{\r}{\kf12}Oh{\kf25} oh{\kf25} uh{\kf12} oh{\kf19} uh
+Dialogue: 0,0:01:12.14,0:01:13.99,DEFAULT,,0,0,0,,{\r}{\kf26}Oh{\kf20} oh{\kf13} ah{\kf40} ah{\kf33} ah{\kf53} ah
+Dialogue: 0,0:01:15.55,0:01:17.01,DEFAULT,,0,0,0,,{\r}{\kf18}Ta{\kf18}king{\kf18} pho{\kf18}tos{\kf18} with{\kf18} my{\kf38} friends
+Dialogue: 0,0:01:17.11,0:01:18.52,DEFAULT,,0,0,0,,{\r}{\kf18}Ne{\kf18}ver{\kf18} want{\kf18} this{\kf18} day{\kf18} to{\kf33} end
+Dialogue: 0,0:01:18.62,0:01:20.13,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf18} the{\kf24} time{\kf18} is{\kf18} go{\kf18}ing{\kf37} fast
+Dialogue: 0,0:01:20.23,0:01:21.69,DEFAULT,,0,0,0,,{\r}{\kf18}So{\kf18} come{\kf18} on{\kf18} and{\kf18} make{\kf18} it{\kf38} last
+Dialogue: 0,0:01:21.79,0:01:23.25,DEFAULT,,0,0,0,,{\r}{\kf19}Get{\kf19} the{\kf19} band{\kf19} up{\kf13} on{\kf13} the{\kf44} stage
+Dialogue: 0,0:01:23.35,0:01:24.81,DEFAULT,,0,0,0,,{\r}{\kf13}Does{\kf20}n't{\kf20} mat{\kf20}ter{\kf20} what{\kf20} your{\kf33} age
+Dialogue: 0,0:01:24.91,0:01:26.37,DEFAULT,,0,0,0,,{\r}{\kf18}Hear{\kf18} the{\kf12} mu{\kf18}sic,{\kf24} now's{\kf12} your{\kf44} chance
+Dialogue: 0,0:01:26.47,0:01:27.98,DEFAULT,,0,0,0,,{\r}{\kf19}Ev'{\kf19}ry{\kf13}bo{\kf13}dy{\kf19} start{\kf19} to{\kf49} dance!
+Dialogue: 0,0:01:28.37,0:01:30.71,DEFAULT,,0,0,0,,{\r}{\kf39}With{\kf39} my{\kf67} best{\kf89} friends
+Dialogue: 0,0:01:31.49,0:01:33.49,DEFAULT,,0,0,0,,{\r}{\kf40}Though{\kf29} we're{\kf74} diffe{\kf57}rent
+Dialogue: 0,0:01:33.83,0:01:35.83,DEFAULT,,0,0,0,,{\r}{\kf19}We{\kf19} feel{\kf19} like{\kf12} we{\kf31} still{\kf19} be{\kf19}-e{\kf62}long
+Dialogue: 0,0:01:36.02,0:01:38.31,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} eve{\kf20}ry{\kf20} day{\kf20} it{\kf34} makes{\kf27} our{\kf34} friend{\kf34}ship
+Dialogue: 0,0:01:38.46,0:01:40.07,DEFAULT,,0,0,0,,{\r}{\kf43}Stro{\kf31}-o{\kf25}-o{\kf12}-o{\kf50}-ong
+Dialogue: 0,0:01:40.90,0:01:43.19,DEFAULT,,0,0,0,,{\r}{\kf33}With{\kf33} my{\kf76} best{\kf87} friends
+Dialogue: 0,0:01:43.97,0:01:46.06,DEFAULT,,0,0,0,,{\r}{\kf38} We{\kf32} can{\kf70} de{\kf70}pend
+Dialogue: 0,0:01:46.31,0:01:48.16,DEFAULT,,0,0,0,,{\r}{\kf18}They{\kf18} will{\kf18} al{\kf24}ways{\kf36} fol{\kf36}low{\kf35} through
+Dialogue: 0,0:01:48.65,0:01:50.50,DEFAULT,,0,0,0,,{\r}{\kf26}There's{\kf13} a{\kf20} gua{\kf20}ran{\kf40}tee{\kf26} for{\kf40} fun
+Dialogue: 0,0:01:50.60,0:01:52.93,DEFAULT,,0,0,0,,{\r}{\kf37}When{\kf31} I{\kf37} spend{\kf37} it{\kf37} with{\kf55} you

@@ -1,54 +1,61 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Becoming Popular
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:13.50,0:00:15.44,DEFAULT,,0,0,0,,{\kf19}I'll{\kf19} be{\kf22} the{\kf47} toast{\kf22} of{\kf19} the{\kf29} town
-Dialogue: 0,0:00:15.55,0:00:17.25,DEFAULT,,0,0,0,,{\kf15}The{\kf40} girl{\kf40} on{\kf26} the{\kf29} go
-Dialogue: 0,0:00:17.46,0:00:18.62,DEFAULT,,0,0,0,,{\kf11}I'm{\kf4} the{\kf26} type{\kf22} of{\kf26} po{\kf11}ny
-Dialogue: 0,0:00:18.76,0:00:19.59,DEFAULT,,0,0,0,,{\kf22}Eve{\kf22}ry{\kf29}po{\kf11}ny
-Dialogue: 0,0:00:19.73,0:00:21.21,DEFAULT,,0,0,0,,{\kf19}Eve{\kf26}ry{\kf26}po{\kf11}ny{\kf33} should{\kf29} know
-Dialogue: 0,0:00:21.50,0:00:23.34,DEFAULT,,0,0,0,,{\kf19}I'll{\kf19} be{\kf22} the{\kf29} one{\kf22} to{\kf37} watch
-Dialogue: 0,0:00:23.48,0:00:25.25,DEFAULT,,0,0,0,,{\kf15}The{\kf44} girl{\kf29} in{\kf22} the{\kf26} flow
-Dialogue: 0,0:00:25.47,0:00:26.66,DEFAULT,,0,0,0,,{\kf11}I'm{\kf8} the{\kf22} type{\kf19} of{\kf26} po{\kf19}ny
-Dialogue: 0,0:00:26.76,0:00:27.67,DEFAULT,,0,0,0,,{\kf22}Eve{\kf22}ry{\kf29}po{\kf19}ny
-Dialogue: 0,0:00:27.77,0:00:29.36,DEFAULT,,0,0,0,,{\kf22}Eve{\kf22}ry{\kf22}po{\kf11}ny{\kf29} should{\kf44} know
-Dialogue: 0,0:00:30.51,0:00:33.62,DEFAULT,,0,0,0,,{\kf15}Be{\kf15}co{\kf11}ming{\kf15} as{\kf22} po{\kf15}pu{\kf40}lar{\kf19} as{\kf22} po{\kf22}pu{\kf26}lar{\kf29} can{\kf40} be
-Dialogue: 0,0:00:34.70,0:00:35.49,DEFAULT,,0,0,0,,{\kf15} Mak{\kf11}ing{\kf11} my{\kf37} mark
-Dialogue: 0,0:00:35.71,0:00:36.32,DEFAULT,,0,0,0,,{\kf15}Mak{\kf11}ing{\kf11} my{\kf19} mark
-Dialogue: 0,0:00:36.43,0:00:38.37,DEFAULT,,0,0,0,,{\kf19}In{\kf19} high{\kf19} so{\kf58}ci{\kf37}e{\kf37}ty
-Dialogue: 0,0:00:38.81,0:00:40.36,DEFAULT,,0,0,0,,{\kf11}I'm{\kf15} the{\kf40} belle{\kf26} of{\kf22} the{\kf19} ball
-Dialogue: 0,0:00:40.47,0:00:42.38,DEFAULT,,0,0,0,,{\kf11}The{\kf51} star{\kf33} of{\kf22} the{\kf55} show
-Dialogue: 0,0:00:42.70,0:00:44.58,DEFAULT,,0,0,0,,{\kf51}Yeah,{\kf8} I'm{\kf8} the{\kf19} type{\kf15} of{\kf26} po{\kf15}ny
-Dialogue: 0,0:00:44.72,0:00:45.66,DEFAULT,,0,0,0,,{\kf22}Eve{\kf22}ry{\kf29}po{\kf22}ny
-Dialogue: 0,0:00:45.80,0:00:47.32,DEFAULT,,0,0,0,,{\kf15}Eve{\kf22}ry{\kf22}po{\kf11}ny{\kf33} should{\kf44} know
-Dialogue: 0,0:00:48.40,0:00:49.34,DEFAULT,,0,0,0,,{\kf19}See{\kf26} how{\kf22} they{\kf19} hang
-Dialogue: 0,0:00:49.48,0:00:52.15,DEFAULT,,0,0,0,,{\kf22}On{\kf26} eve{\kf15}ry{\kf29} word{\kf19} that{\kf37} I{\kf101} speak
-Dialogue: 0,0:00:52.73,0:00:53.92,DEFAULT,,0,0,0,,{\kf22}My{\kf26} ap{\kf22}pro{\kf19}ving{\kf26} glance
-Dialogue: 0,0:00:54.06,0:00:56.19,DEFAULT,,0,0,0,,{\kf15}Is{\kf19} what{\kf22} they{\kf33} all{\kf112} seek
-Dialogue: 0,0:00:56.69,0:00:58.35,DEFAULT,,0,0,0,,{\kf19}I'm{\kf15} the{\kf44} crème{\kf26} de{\kf26} la{\kf22} crème
-Dialogue: 0,0:00:58.50,0:01:01.02,DEFAULT,,0,0,0,,{\kf22}Not{\kf22} just{\kf15} a{\kf22}no{\kf11}ther{\kf40} Jane{\kf109} Doe
-Dialogue: 0,0:01:01.45,0:01:02.61,DEFAULT,,0,0,0,,{\kf11}I'm{\kf4} the{\kf29} type{\kf19} of{\kf26} po{\kf15}ny
-Dialogue: 0,0:01:02.75,0:01:03.54,DEFAULT,,0,0,0,,{\kf22}Eve{\kf22}ry{\kf22}po{\kf15}ny
-Dialogue: 0,0:01:03.69,0:01:07.51,DEFAULT,,0,0,0,,{\kf55}Should{\kf101} kno{\kf224}-ow
-Dialogue: 0,0:01:07.80,0:01:09.64,DEFAULT,,0,0,0,,{\kf29}At{\kf40} home{\kf26} at{\kf19} the{\kf37} ope{\kf19}ra
-Dialogue: 0,0:01:09.75,0:01:11.40,DEFAULT,,0,0,0,,{\kf19}On{\kf11} a{\kf51} fan{\kf33}cy{\kf44} yacht
-Dialogue: 0,0:01:11.55,0:01:12.56,DEFAULT,,0,0,0,,{\kf15}Be{\kf15}co{\kf11}ming{\kf19} the{\kf37} talk
-Dialogue: 0,0:01:12.92,0:01:14.04,DEFAULT,,0,0,0,,{\kf19}The{\kf26} talk{\kf19} of{\kf26} all{\kf11} of
-Dialogue: 0,0:01:14.22,0:01:15.44,DEFAULT,,0,0,0,,{\kf37}Can{\kf29}ter{\kf58}lot
-Dialogue: 0,0:01:15.73,0:01:17.35,DEFAULT,,0,0,0,,{\kf19}I'm{\kf15} the{\kf37} crème{\kf33} de{\kf19} la{\kf26} crème
-Dialogue: 0,0:01:17.50,0:01:19.48,DEFAULT,,0,0,0,,{\kf22}Not{\kf19} just{\kf15} a{\kf22}no{\kf19}ther{\kf40} Jane{\kf51} Doe
-Dialogue: 0,0:01:19.62,0:01:21.61,DEFAULT,,0,0,0,,{\kf58}Yeah,{\kf11} I'm{\kf11} the{\kf26} type{\kf19} of{\kf26} po{\kf19}ny
-Dialogue: 0,0:01:21.75,0:01:22.62,DEFAULT,,0,0,0,,{\kf19}Eve{\kf22}ry{\kf29}po{\kf19}ny
-Dialogue: 0,0:01:22.73,0:01:27.27,DEFAULT,,0,0,0,,{\kf22}Eve{\kf22}ry{\kf29}po{\kf11}ny{\kf55} should{\kf47} kno{\kf264}ow
-Dialogue: 0,0:01:32.21,0:01:34.84,DEFAULT,,0,0,0,,{\kf22}Be{\kf37}cause{\kf33} I'm{\kf19} the{\kf40} type{\kf22} of{\kf37} po{\kf37}ny
-Dialogue: 0,0:01:35.06,0:01:38.41,DEFAULT,,0,0,0,,{\kf26}Yes{\kf40} I'm{\kf19} the{\kf40} type{\kf26} of{\kf62} po{\kf109}ny
-Dialogue: 0,0:01:38.88,0:01:41.26,DEFAULT,,0,0,0,,{\kf29}Yes{\kf40} I'm{\kf22} the{\kf40} type{\kf29} of{\kf29} po{\kf29}ny
-Dialogue: 0,0:01:41.40,0:01:45.08,DEFAULT,,0,0,0,,{\kf37}Eve{\kf26}ry{\kf47} po{\kf69}ny{\kf145} should
-Dialogue: 0,0:01:45.41,0:01:53.23,DEFAULT,,0,0,0,,{\kf783}Know
+Dialogue: 0,0:00:13.50,0:00:15.45,DEFAULT,,0,0,0,,{\r}{\kf20}I'll{\kf20} be{\kf24} the{\kf53} toast{\kf24} of{\kf20} the{\kf34} town
+Dialogue: 0,0:00:15.56,0:00:17.25,DEFAULT,,0,0,0,,{\r}{\kf16}The{\kf45} girl{\kf45} on{\kf29} the{\kf34} go
+Dialogue: 0,0:00:17.47,0:00:18.62,DEFAULT,,0,0,0,,{\r}{\kf13}I'm{\kf10} the{\kf30} type{\kf26} of{\kf30} po{\kf10}ny
+Dialogue: 0,0:00:18.76,0:00:19.59,DEFAULT,,0,0,0,,{\r}{\kf22}Eve{\kf22}ry{\kf29}po{\kf10}ny
+Dialogue: 0,0:00:19.74,0:00:21.22,DEFAULT,,0,0,0,,{\r}{\kf19}Eve{\kf27}ry{\kf27}po{\kf11}ny{\kf34} should{\kf30} know
+Dialogue: 0,0:00:21.50,0:00:23.34,DEFAULT,,0,0,0,,{\r}{\kf23}I'll{\kf23} be{\kf28} the{\kf37} one{\kf28} to{\kf45} watch
+Dialogue: 0,0:00:23.49,0:00:25.25,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf57} girl{\kf38} in{\kf29} the{\kf34} flow
+Dialogue: 0,0:00:25.47,0:00:26.66,DEFAULT,,0,0,0,,{\r}{\kf13}I'm{\kf10} the{\kf26} type{\kf21} of{\kf30} po{\kf19}ny
+Dialogue: 0,0:00:26.77,0:00:27.67,DEFAULT,,0,0,0,,{\r}{\kf22}Eve{\kf22}ry{\kf29}po{\kf17}ny
+Dialogue: 0,0:00:27.78,0:00:29.37,DEFAULT,,0,0,0,,{\r}{\kf23}Eve{\kf23}ry{\kf23}po{\kf12}ny{\kf31} should{\kf47} know
+Dialogue: 0,0:00:30.52,0:00:33.62,DEFAULT,,0,0,0,,{\r}{\kf16}Be{\kf16}co{\kf12}ming{\kf16} as{\kf24} po{\kf16}pu{\kf43}lar{\kf20} as{\kf24} po{\kf24}pu{\kf27}lar{\kf31} can{\kf41} be
+Dialogue: 0,0:00:34.70,0:00:35.50,DEFAULT,,0,0,0,,{\r}{\kf16} Mak{\kf12}ing{\kf12} my{\kf39} mark
+Dialogue: 0,0:00:35.71,0:00:36.32,DEFAULT,,0,0,0,,{\r}{\kf16}Mak{\kf12}ing{\kf12} my{\kf21} mark
+Dialogue: 0,0:00:36.43,0:00:38.38,DEFAULT,,0,0,0,,{\r}{\kf19}In{\kf19} high{\kf19} so{\kf61}ci{\kf38}e{\kf39}ty
+Dialogue: 0,0:00:38.81,0:00:40.36,DEFAULT,,0,0,0,,{\r}{\kf13}I'm{\kf17} the{\kf47} belle{\kf30} of{\kf26} the{\kf22} ball
+Dialogue: 0,0:00:40.47,0:00:42.38,DEFAULT,,0,0,0,,{\r}{\kf12}The{\kf57} star{\kf37} of{\kf24} the{\kf61} show
+Dialogue: 0,0:00:42.71,0:00:44.58,DEFAULT,,0,0,0,,{\r}{\kf69}Yeah,{\kf10} I'm{\kf10} the{\kf25} type{\kf20} of{\kf34} po{\kf19}ny
+Dialogue: 0,0:00:44.73,0:00:45.66,DEFAULT,,0,0,0,,{\r}{\kf22}Eve{\kf22}ry{\kf29}po{\kf21}ny
+Dialogue: 0,0:00:45.81,0:00:47.32,DEFAULT,,0,0,0,,{\r}{\kf15}Eve{\kf23}ry{\kf23}po{\kf11}ny{\kf34} should{\kf45} know
+Dialogue: 0,0:00:48.40,0:00:49.34,DEFAULT,,0,0,0,,{\r}{\kf20}See{\kf29} how{\kf25} they{\kf20} hang
+Dialogue: 0,0:00:49.49,0:00:52.15,DEFAULT,,0,0,0,,{\r}{\kf24}On{\kf27} eve{\kf16}ry{\kf31} word{\kf20} that{\kf39} I{\kf110} speak
+Dialogue: 0,0:00:52.73,0:00:53.92,DEFAULT,,0,0,0,,{\r}{\kf23}My{\kf27} ap{\kf23}pro{\kf19}ving{\kf27} glance
+Dialogue: 0,0:00:54.06,0:00:56.19,DEFAULT,,0,0,0,,{\r}{\kf15}Is{\kf19} what{\kf23} they{\kf35} all{\kf121} seek
+Dialogue: 0,0:00:56.70,0:00:58.36,DEFAULT,,0,0,0,,{\r}{\kf20}I'm{\kf16} the{\kf49} crème{\kf28} de{\kf28} la{\kf25} crème
+Dialogue: 0,0:00:58.50,0:01:01.02,DEFAULT,,0,0,0,,{\r}{\kf23}Not{\kf23} just{\kf15} a{\kf23}no{\kf11}ther{\kf42} Jane{\kf115} Doe
+Dialogue: 0,0:01:01.46,0:01:02.61,DEFAULT,,0,0,0,,{\r}{\kf12}I'm{\kf10} the{\kf33} type{\kf21} of{\kf29} po{\kf10}ny
+Dialogue: 0,0:01:02.75,0:01:03.55,DEFAULT,,0,0,0,,{\r}{\kf22}Eve{\kf22}ry{\kf22}po{\kf13}ny
+Dialogue: 0,0:01:03.69,0:01:07.51,DEFAULT,,0,0,0,,{\r}{\kf55}Should{\kf102} kno{\kf225}-ow
+Dialogue: 0,0:01:07.80,0:01:09.64,DEFAULT,,0,0,0,,{\r}{\kf32}At{\kf44} home{\kf28} at{\kf20} the{\kf40} ope{\kf20}ra
+Dialogue: 0,0:01:09.75,0:01:11.41,DEFAULT,,0,0,0,,{\r}{\kf19}On{\kf12} a{\kf54} fan{\kf35}cy{\kf46} yacht
+Dialogue: 0,0:01:11.55,0:01:12.56,DEFAULT,,0,0,0,,{\r}{\kf16}Be{\kf16}co{\kf12}ming{\kf19} the{\kf38} talk
+Dialogue: 0,0:01:12.92,0:01:14.04,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf29} talk{\kf21} of{\kf29} all{\kf12} of
+Dialogue: 0,0:01:14.22,0:01:15.45,DEFAULT,,0,0,0,,{\r}{\kf36}Can{\kf29}ter{\kf58}lot
+Dialogue: 0,0:01:15.74,0:01:17.36,DEFAULT,,0,0,0,,{\r}{\kf20}I'm{\kf16} the{\kf41} crème{\kf36} de{\kf20} la{\kf29} crème
+Dialogue: 0,0:01:17.50,0:01:19.49,DEFAULT,,0,0,0,,{\r}{\kf23}Not{\kf19} just{\kf16} a{\kf23}no{\kf19}ther{\kf43} Jane{\kf55} Doe
+Dialogue: 0,0:01:19.63,0:01:21.61,DEFAULT,,0,0,0,,{\r}{\kf69}Yeah,{\kf13} I'm{\kf13} the{\kf30} type{\kf22} of{\kf30} po{\kf21}ny
+Dialogue: 0,0:01:21.76,0:01:22.62,DEFAULT,,0,0,0,,{\r}{\kf18}Eve{\kf22}ry{\kf29}po{\kf18}ny
+Dialogue: 0,0:01:22.73,0:01:27.27,DEFAULT,,0,0,0,,{\r}{\kf22}Eve{\kf22}ry{\kf29}po{\kf11}ny{\kf55} should{\kf48} kno{\kf267}ow
+Dialogue: 0,0:01:32.21,0:01:34.85,DEFAULT,,0,0,0,,{\r}{\kf24}Be{\kf39}cause{\kf35} I'm{\kf20} the{\kf43} type{\kf24} of{\kf39} po{\kf39}ny
+Dialogue: 0,0:01:35.06,0:01:38.42,DEFAULT,,0,0,0,,{\r}{\kf27}Yes{\kf42} I'm{\kf19} the{\kf42} type{\kf27} of{\kf65} po{\kf113}ny
+Dialogue: 0,0:01:38.88,0:01:41.26,DEFAULT,,0,0,0,,{\r}{\kf32}Yes{\kf44} I'm{\kf24} the{\kf44} type{\kf32} of{\kf32} po{\kf30}ny
+Dialogue: 0,0:01:41.41,0:01:45.09,DEFAULT,,0,0,0,,{\r}{\kf41}Eve{\kf29}ry{\kf54} po{\kf79}ny{\kf165} should
+Dialogue: 0,0:01:45.41,0:01:53.24,DEFAULT,,0,0,0,,{\r}{\kf782}Know

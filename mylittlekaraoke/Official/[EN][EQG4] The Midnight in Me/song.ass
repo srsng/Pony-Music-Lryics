@@ -1,28 +1,35 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: The Midnight in Me
+Artist: Equestria Girls - Legend Of Everfree
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.78,0:00:02.99,DEFAULT,,0,0,0,,{\kf8}It{\kf15} used{\kf8} to{\kf27} be{\kf27} so{\kf19} sim{\kf49}ple
-Dialogue: 0,0:00:03.48,0:00:05.91,DEFAULT,,0,0,0,,{\kf8}It{\kf19} was{\kf12} a{\kf42} world{\kf12} I{\kf23}-I{\kf15} un{\kf8}der{\kf57}stood
-Dialogue: 0,0:00:07.94,0:00:10.60,DEFAULT,,0,0,0,,{\kf15}I{\kf15} did{\kf15}n't{\kf23} kno{\kf23}-ow{\kf15} what{\kf38} I{\kf15} did{\kf15}n't{\kf12} kno{\kf34}-ow
-Dialogue: 0,0:00:11.05,0:00:13.11,DEFAULT,,0,0,0,,{\kf12}And{\kf27} life{\kf12} se{\kf23}-emed{\kf15} pret{\kf15}ty{\kf53} good
-Dialogue: 0,0:00:15.21,0:00:20.01,DEFAULT,,0,0,0,,{\kf23}But{\kf42} now{\kf27} the{\kf72} dark{\kf53}ness{\kf19} ri{\kf15}-i{\kf143}ses
-Dialogue: 0,0:00:20.65,0:00:26.91,DEFAULT,,0,0,0,,{\kf27}From{\kf27} some{\kf124}where{\kf30} deep{\kf23} in{\kf19}si{\kf23}-ide{\kf27} of{\kf210} me
-Dialogue: 0,0:00:28.53,0:00:33.25,DEFAULT,,0,0,0,,{\kf23}Her{\kf38} po{\kf30}wer{\kf75} o{\kf60}ver{\kf34}ta{\kf38}-akes{\kf109} me
-Dialogue: 0,0:00:33.78,0:00:39.66,DEFAULT,,0,0,0,,{\kf15}Can{\kf42} I{\kf38} keep{\kf23} this{\kf23} Mid{\kf34}night{\kf64} from{\kf15} get{\kf27}ting{\kf139} free
-Dialogue: 0,0:00:40.00,0:00:42.89,DEFAULT,,0,0,0,,{\kf15}If{\kf30} I{\kf23} can{\kf34} stay{\kf27} with{\kf23} the{\kf75} light
-Dialogue: 0,0:00:43.04,0:00:45.89,DEFAULT,,0,0,0,,{\kf19}I{\kf27} know{\kf72} I'll{\kf30} be{\kf23}-e{\kf60} free
-Dialogue: 0,0:00:46.34,0:00:49.04,DEFAULT,,0,0,0,,{\kf12}And{\kf12} I{\kf30} can{\kf38} start{\kf15} to{\kf34} be{\kf72} whole
-Dialogue: 0,0:00:49.26,0:00:52.53,DEFAULT,,0,0,0,,{\kf23}I{\kf19} can{\kf19} sta{\kf23}-a{\kf27}-art{\kf19} to{\kf30} be{\kf15} me{\kf87}-e
-Dialogue: 0,0:00:53.01,0:00:58.45,DEFAULT,,0,0,0,,{\kf12}But{\kf12} in{\kf38}stead{\kf27} I{\kf19} am{\kf15} strug{\kf15}gl{\kf23}ing{\kf23} with{\kf23} a{\kf75}-all{\kf23} that{\kf34} I{\kf83} see
-Dialogue: 0,0:00:59.20,0:01:01.79,DEFAULT,,0,0,0,,{\kf15}And{\kf34} these{\kf188} friends
-Dialogue: 0,0:01:02.54,0:01:08.28,DEFAULT,,0,0,0,,{\kf27}Mus{\kf23}tn't{\kf30} see{\kf19} the{\kf27} Mid{\kf38}night{\kf27} in{\kf315} me
-Dialogue: 0,0:01:09.63,0:01:13.41,DEFAULT,,0,0,0,,{\kf23}The{\kf30} Mid{\kf42}night{\kf27} in{\kf12} me{\kf12}-e{\kf15}-e{\kf180}-e
-Dialogue: 0,0:01:14.28,0:01:27.18,DEFAULT,,0,0,0,,{\kf23}They{\kf23} mus{\kf23}tn't{\kf30} see{\kf19} the{\kf38} Mid{\kf45}night{\kf143} in{\kf702} me
+Dialogue: 0,0:00:00.78,0:00:02.99,DEFAULT,,0,0,0,,{\r}{\kf11}It{\kf22} used{\kf11} to{\kf39} be{\kf39} so{\kf28} sim{\kf71}ple
+Dialogue: 0,0:00:03.48,0:00:05.92,DEFAULT,,0,0,0,,{\r}{\kf10}It{\kf24} was{\kf14} a{\kf53} world{\kf14} I{\kf29}-I{\kf19} un{\kf10}der{\kf71}stood
+Dialogue: 0,0:00:07.94,0:00:10.61,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf18} did{\kf18}n't{\kf28} kno{\kf28}-ow{\kf18} what{\kf46} I{\kf18} did{\kf18}n't{\kf14} kno{\kf42}-ow
+Dialogue: 0,0:00:11.06,0:00:13.12,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf35} life{\kf15} se{\kf30}-emed{\kf20} pret{\kf20}ty{\kf71} good
+Dialogue: 0,0:00:15.22,0:00:20.02,DEFAULT,,0,0,0,,{\r}{\kf28}But{\kf51} now{\kf32} the{\kf88} dark{\kf65}ness{\kf23} ri{\kf18}-i{\kf175}ses
+Dialogue: 0,0:00:20.66,0:00:26.92,DEFAULT,,0,0,0,,{\r}{\kf32}From{\kf32} some{\kf153}where{\kf37} deep{\kf28} in{\kf23}si{\kf28}-ide{\kf32} of{\kf261} me
+Dialogue: 0,0:00:28.53,0:00:33.26,DEFAULT,,0,0,0,,{\r}{\kf26}Her{\kf44} po{\kf35}wer{\kf88} o{\kf70}ver{\kf39}ta{\kf44}-akes{\kf127} me
+Dialogue: 0,0:00:33.78,0:00:39.67,DEFAULT,,0,0,0,,{\r}{\kf21}Can{\kf58} I{\kf53} keep{\kf32} this{\kf32} Mid{\kf48}night{\kf90} from{\kf21} get{\kf37}ting{\kf197} free
+Dialogue: 0,0:00:40.01,0:00:42.89,DEFAULT,,0,0,0,,{\r}{\kf19}If{\kf39} I{\kf29} can{\kf43} stay{\kf34} with{\kf29} the{\kf96} light
+Dialogue: 0,0:00:43.04,0:00:45.89,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf33} know{\kf89} I'll{\kf37} be{\kf28}-e{\kf75} free
+Dialogue: 0,0:00:46.34,0:00:49.04,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf14} I{\kf39} can{\kf48} start{\kf19} to{\kf43} be{\kf93} whole
+Dialogue: 0,0:00:49.27,0:00:52.53,DEFAULT,,0,0,0,,{\r}{\kf28}I{\kf24} can{\kf24} sta{\kf28}-a{\kf33}-art{\kf24} to{\kf38} be{\kf19} me{\kf108}-e
+Dialogue: 0,0:00:53.02,0:00:58.46,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf15} in{\kf49}stead{\kf34} I{\kf25} am{\kf20} strug{\kf20}gl{\kf29}ing{\kf29} with{\kf29} a{\kf98}-all{\kf29} that{\kf44} I{\kf108} see
+Dialogue: 0,0:00:59.21,0:01:01.79,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf37} these{\kf206} friends
+Dialogue: 0,0:01:02.54,0:01:08.28,DEFAULT,,0,0,0,,{\r}{\kf30}Mus{\kf26}tn't{\kf34} see{\kf21} the{\kf30} Mid{\kf43}night{\kf30} in{\kf360} me
+Dialogue: 0,0:01:09.63,0:01:13.42,DEFAULT,,0,0,0,,{\r}{\kf25}The{\kf34} Mid{\kf46}night{\kf29} in{\kf13} me{\kf13}-e{\kf17}-e{\kf202}-e
+Dialogue: 0,0:01:14.28,0:01:27.18,DEFAULT,,0,0,0,,{\r}{\kf28}They{\kf28} mus{\kf28}tn't{\kf37} see{\kf23} the{\kf46} Mid{\kf56}night{\kf176} in{\kf868} me

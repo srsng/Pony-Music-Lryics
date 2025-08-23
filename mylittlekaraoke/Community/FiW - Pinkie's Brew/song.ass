@@ -1,46 +1,53 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Pinkie's Brew
+Artist: Friendship is Witchcraft
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:16.70,0:00:18.23,DEFAULT,,0,0,0,,{\kf21}I'll{\kf18} cook{\kf18} up{\kf12} a{\kf18} so{\kf21}lu{\kf12}tion
-Dialogue: 0,0:00:18.32,0:00:20.22,DEFAULT,,0,0,0,,{\kf18}With{\kf12} the{\kf18} know{\kf21}ledge{\kf18} I've{\kf24} ac{\kf47}crued
-Dialogue: 0,0:00:20.39,0:00:22.24,DEFAULT,,0,0,0,,{\kf18}They{\kf18} say{\kf12} a{\kf18} kit{\kf21}chen{\kf21} time{\kf21} saves{\kf24} nine,
-Dialogue: 0,0:00:22.35,0:00:23.85,DEFAULT,,0,0,0,,{\kf9}But{\kf21} I'm{\kf15} just{\kf18} sa{\kf18}ving{\kf47} two!
-Dialogue: 0,0:00:24.14,0:00:25.84,DEFAULT,,0,0,0,,{\kf12}I've{\kf24} ga{\kf15}thered{\kf12} the{\kf18} in{\kf26}gre{\kf15}di{\kf15}ents
-Dialogue: 0,0:00:25.95,0:00:27.54,DEFAULT,,0,0,0,,{\kf12}To{\kf18} make{\kf18} some{\kf18} time{\kf21} sor{\kf47}bet
-Dialogue: 0,0:00:27.88,0:00:29.35,DEFAULT,,0,0,0,,{\kf12}There's{\kf21} hard{\kf12}ly{\kf21} room{\kf18} for{\kf18} se{\kf21}conds
-Dialogue: 0,0:00:29.44,0:00:31.34,DEFAULT,,0,0,0,,{\kf18}When{\kf9} the{\kf18} se{\kf21}conds{\kf18} melt{\kf12} a{\kf52}way!
-Dialogue: 0,0:00:31.72,0:00:33.47,DEFAULT,,0,0,0,,{\kf15}Watch{\kf15} as{\kf9} I{\kf18} work{\kf15} my{\kf18} gyp{\kf18}sy{\kf21} ma{\kf12}gic
-Dialogue: 0,0:00:33.59,0:00:35.26,DEFAULT,,0,0,0,,{\kf15}Eye{\kf12} of{\kf9} a{\kf24} newt{\kf12} and{\kf24} cin{\kf18}na{\kf29}mon
-Dialogue: 0,0:00:35.38,0:00:37.13,DEFAULT,,0,0,0,,{\kf21}Watch{\kf12} as{\kf12} the{\kf18} mat{\kf15}ter{\kf21} turns{\kf9} to{\kf26} bat{\kf9}ter
-Dialogue: 0,0:00:37.22,0:00:38.78,DEFAULT,,0,0,0,,{\kf18}O{\kf18}pen{\kf9} the{\kf12} por{\kf9}tal,{\kf24} jump{\kf52} in!
-Dialogue: 0,0:00:54.74,0:00:57.82,DEFAULT,,0,0,0,,{\kf52}Crude{\kf52} stew,{\kf18} do{\kf12} you{\kf29} fear{\kf15} it{\kf15} App{\kf24}le{\kf21} Bloom?
-Dialogue: 0,0:00:57.97,0:00:59.75,DEFAULT,,0,0,0,,{\kf18}Some{\kf24}times{\kf18} life{\kf18} is{\kf26} not{\kf12} a{\kf21} cake{\kf12} walk,
-Dialogue: 0,0:00:59.87,0:01:01.65,DEFAULT,,0,0,0,,{\kf18}Served{\kf15} up{\kf18} on{\kf9} a{\kf18} sil{\kf12}ver{\kf44} spoon
-Dialogue: 0,0:01:02.11,0:01:03.84,DEFAULT,,0,0,0,,{\kf47}Toss{\kf29} a{\kf35} fig{\kf35} and,
-Dialogue: 0,0:01:03.96,0:01:05.69,DEFAULT,,0,0,0,,{\kf47}Save{\kf29} the{\kf47} date{\kf24} and,
-Dialogue: 0,0:01:05.92,0:01:07.59,DEFAULT,,0,0,0,,{\kf21}Bread{\kf15} and{\kf15} but{\kf18}ter,{\kf26} chant{\kf15} and{\kf15} mut{\kf15}ter,
-Dialogue: 0,0:01:07.70,0:01:09.43,DEFAULT,,0,0,0,,{\kf21}Ma{\kf15}ri{\kf18}na{\kf21}tion,{\kf21} in{\kf21}can{\kf15}ta{\kf15}tion,
-Dialogue: 0,0:01:09.55,0:01:11.28,DEFAULT,,0,0,0,,{\kf21}Choco{\kf18}late{\kf15} ic{\kf24}ing,{\kf24} time{\kf21}line{\kf15} spli{\kf15}cing,
-Dialogue: 0,0:01:11.39,0:01:13.29,DEFAULT,,0,0,0,,{\kf24}Yeast{\kf15} is{\kf15} ri{\kf24}sing,{\kf18} rec{\kf15}ti{\kf21}fy{\kf32}ing
-Dialogue: 0,0:01:31.68,0:01:33.23,DEFAULT,,0,0,0,,{\kf29}Pin{\kf21}kie{\kf12} if{\kf15} you're{\kf18} hear{\kf24}ing{\kf9} this
-Dialogue: 0,0:01:33.35,0:01:34.96,DEFAULT,,0,0,0,,{\kf15}It{\kf24} means{\kf18} we're{\kf24} dead{\kf15} and{\kf49} gone
-Dialogue: 0,0:01:35.37,0:01:36.63,DEFAULT,,0,0,0,,{\kf26}Please{\kf18} don't{\kf24} bake{\kf9} a{\kf18} por{\kf6}tal
-Dialogue: 0,0:01:36.75,0:01:38.65,DEFAULT,,0,0,0,,{\kf24}Just{\kf15} ac{\kf24}cept{\kf18} it{\kf21} and{\kf21} move{\kf41} on
-Dialogue: 0,0:01:38.82,0:01:40.44,DEFAULT,,0,0,0,,{\kf21}My{\kf29} caul{\kf21}dron{\kf15} is{\kf24} pre{\kf18}hea{\kf15}ted
-Dialogue: 0,0:01:40.55,0:01:42.34,DEFAULT,,0,0,0,,{\kf15}And{\kf18} I've{\kf29} got{\kf21} you{\kf15} in{\kf15} my{\kf47} thrall
-Dialogue: 0,0:01:42.54,0:01:44.30,DEFAULT,,0,0,0,,{\kf18}Let's{\kf21} beat{\kf21} these{\kf21} yolks{\kf15} and{\kf21} save{\kf15} my{\kf18} folks
-Dialogue: 0,0:01:44.41,0:01:46.03,DEFAULT,,0,0,0,,{\kf15}By{\kf21} ba{\kf26}king{\kf12} the{\kf21} fourth{\kf52} wall!
-Dialogue: 0,0:01:46.40,0:01:48.19,DEFAULT,,0,0,0,,{\kf24}Watch{\kf18} as{\kf6} I{\kf15} work{\kf18} my{\kf18} gyp{\kf18}sy{\kf24} ma{\kf9}gic
-Dialogue: 0,0:01:48.30,0:01:50.06,DEFAULT,,0,0,0,,{\kf15}Sea{\kf15}po{\kf15}ny{\kf21} tears{\kf12} and{\kf21} pro{\kf21}vo{\kf35}lone
-Dialogue: 0,0:01:50.18,0:01:51.91,DEFAULT,,0,0,0,,{\kf15}God{\kf15} help{\kf15} the{\kf18} out{\kf21}cast{\kf18} with{\kf18} her{\kf24} witch{\kf9}craft
-Dialogue: 0,0:01:52.02,0:01:53.75,DEFAULT,,0,0,0,,{\kf15}Some{\kf18}day{\kf9} I'm{\kf12} gon{\kf9}na{\kf18} go{\kf75} home
-Dialogue: 0,0:01:54.44,0:02:00.84,DEFAULT,,0,0,0,,{\kf35}Some{\kf93}day,{\kf41} I'm{\kf41} gon{\kf29}na{\kf75} go{\kf260} home
-Dialogue: 0,0:02:04.24,0:02:04.76,DEFAULT,,0,0,0,,{\kf52}*Sigh*
+Dialogue: 0,0:00:16.71,0:00:18.24,DEFAULT,,0,0,0,,{\r}{\kf27}I'll{\kf23} cook{\kf23} up{\kf15} a{\kf23} so{\kf27}lu{\kf15}tion
+Dialogue: 0,0:00:18.32,0:00:20.22,DEFAULT,,0,0,0,,{\r}{\kf22}With{\kf14} the{\kf22} know{\kf25}ledge{\kf22} I've{\kf29} ac{\kf56}crued
+Dialogue: 0,0:00:20.40,0:00:22.24,DEFAULT,,0,0,0,,{\r}{\kf22}They{\kf22} say{\kf14} a{\kf22} kit{\kf25}chen{\kf25} time{\kf25} saves{\kf29} nine,
+Dialogue: 0,0:00:22.36,0:00:23.85,DEFAULT,,0,0,0,,{\r}{\kf10}But{\kf24} I'm{\kf17} just{\kf21} sa{\kf21}ving{\kf57} two!
+Dialogue: 0,0:00:24.14,0:00:25.84,DEFAULT,,0,0,0,,{\r}{\kf15}I've{\kf30} ga{\kf18}thered{\kf15} the{\kf22} in{\kf33}gre{\kf18}di{\kf19}ents
+Dialogue: 0,0:00:25.96,0:00:27.54,DEFAULT,,0,0,0,,{\r}{\kf14}To{\kf21} make{\kf21} some{\kf21} time{\kf25} sor{\kf56}bet
+Dialogue: 0,0:00:27.89,0:00:29.36,DEFAULT,,0,0,0,,{\r}{\kf14}There's{\kf25} hard{\kf14}ly{\kf25} room{\kf22} for{\kf22} se{\kf25}conds
+Dialogue: 0,0:00:29.44,0:00:31.35,DEFAULT,,0,0,0,,{\r}{\kf23}When{\kf11} the{\kf23} se{\kf27}conds{\kf23} melt{\kf15} a{\kf68}way!
+Dialogue: 0,0:00:31.72,0:00:33.48,DEFAULT,,0,0,0,,{\r}{\kf19}Watch{\kf19} as{\kf11} I{\kf22} work{\kf19} my{\kf22} gyp{\kf22}sy{\kf26} ma{\kf16}gic
+Dialogue: 0,0:00:33.59,0:00:35.27,DEFAULT,,0,0,0,,{\r}{\kf17}Eye{\kf14} of{\kf10} a{\kf28} newt{\kf14} and{\kf28} cin{\kf21}na{\kf35}mon
+Dialogue: 0,0:00:35.38,0:00:37.14,DEFAULT,,0,0,0,,{\r}{\kf26}Watch{\kf15} as{\kf15} the{\kf22} mat{\kf18}ter{\kf26} turns{\kf11} to{\kf33} bat{\kf10}ter
+Dialogue: 0,0:00:37.22,0:00:38.78,DEFAULT,,0,0,0,,{\r}{\kf20}O{\kf20}pen{\kf10} the{\kf13} por{\kf10}tal,{\kf26} jump{\kf57} in!
+Dialogue: 0,0:00:54.74,0:00:57.83,DEFAULT,,0,0,0,,{\r}{\kf68}Crude{\kf68} stew,{\kf23} do{\kf15} you{\kf38} fear{\kf19} it{\kf19} App{\kf30}le{\kf28} Bloom?
+Dialogue: 0,0:00:57.97,0:00:59.76,DEFAULT,,0,0,0,,{\r}{\kf21}Some{\kf29}times{\kf21} life{\kf21} is{\kf32} not{\kf14} a{\kf25} cake{\kf16} walk,
+Dialogue: 0,0:00:59.87,0:01:01.66,DEFAULT,,0,0,0,,{\r}{\kf24}Served{\kf20} up{\kf24} on{\kf12} a{\kf24} sil{\kf16}ver{\kf59} spoon
+Dialogue: 0,0:01:02.12,0:01:03.85,DEFAULT,,0,0,0,,{\r}{\kf55}Toss{\kf35} a{\kf42} fig{\kf41} and,
+Dialogue: 0,0:01:03.96,0:01:05.69,DEFAULT,,0,0,0,,{\r}{\kf55}Save{\kf35} the{\kf55} date{\kf28} and,
+Dialogue: 0,0:01:05.92,0:01:07.59,DEFAULT,,0,0,0,,{\r}{\kf25}Bread{\kf18} and{\kf18} but{\kf21}ter,{\kf32} chant{\kf18} and{\kf18} mut{\kf17}ter,
+Dialogue: 0,0:01:07.71,0:01:09.44,DEFAULT,,0,0,0,,{\r}{\kf25}Ma{\kf18}ri{\kf21}na{\kf25}tion,{\kf25} in{\kf25}can{\kf18}ta{\kf16}tion,
+Dialogue: 0,0:01:09.55,0:01:11.28,DEFAULT,,0,0,0,,{\r}{\kf24}Choco{\kf20}late{\kf17} ic{\kf27}ing,{\kf27} time{\kf24}line{\kf17} spli{\kf17}cing,
+Dialogue: 0,0:01:11.40,0:01:13.30,DEFAULT,,0,0,0,,{\r}{\kf28}Yeast{\kf17} is{\kf17} ri{\kf28}sing,{\kf21} rec{\kf17}ti{\kf24}fy{\kf38}ing
+Dialogue: 0,0:01:31.68,0:01:33.24,DEFAULT,,0,0,0,,{\r}{\kf36}Pin{\kf25}kie{\kf15} if{\kf18} you're{\kf22} hear{\kf29}ing{\kf11} this
+Dialogue: 0,0:01:33.35,0:01:34.97,DEFAULT,,0,0,0,,{\r}{\kf16}It{\kf26} means{\kf20} we're{\kf26} dead{\kf16} and{\kf57} gone
+Dialogue: 0,0:01:35.37,0:01:36.64,DEFAULT,,0,0,0,,{\r}{\kf34}Please{\kf22} don't{\kf30} bake{\kf11} a{\kf22} por{\kf10}tal
+Dialogue: 0,0:01:36.75,0:01:38.66,DEFAULT,,0,0,0,,{\r}{\kf28}Just{\kf17} ac{\kf28}cept{\kf21} it{\kf24} and{\kf24} move{\kf48} on
+Dialogue: 0,0:01:38.83,0:01:40.44,DEFAULT,,0,0,0,,{\r}{\kf23}My{\kf34} caul{\kf23}dron{\kf17} is{\kf27} pre{\kf20}hea{\kf17}ted
+Dialogue: 0,0:01:40.56,0:01:42.34,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf20} I've{\kf33} got{\kf23} you{\kf17} in{\kf17} my{\kf52} thrall
+Dialogue: 0,0:01:42.55,0:01:44.30,DEFAULT,,0,0,0,,{\r}{\kf21}Let's{\kf25} beat{\kf25} these{\kf25} yolks{\kf18} and{\kf25} save{\kf18} my{\kf19} folks
+Dialogue: 0,0:01:44.42,0:01:46.03,DEFAULT,,0,0,0,,{\r}{\kf16}By{\kf23} ba{\kf29}king{\kf13} the{\kf23} fourth{\kf57} wall!
+Dialogue: 0,0:01:46.41,0:01:48.19,DEFAULT,,0,0,0,,{\r}{\kf29}Watch{\kf21} as{\kf10} I{\kf18} work{\kf21} my{\kf21} gyp{\kf21}sy{\kf29} ma{\kf10}gic
+Dialogue: 0,0:01:48.31,0:01:50.07,DEFAULT,,0,0,0,,{\r}{\kf17}Sea{\kf17}po{\kf17}ny{\kf24} tears{\kf14} and{\kf24} pro{\kf24}vo{\kf39}lone
+Dialogue: 0,0:01:50.18,0:01:51.91,DEFAULT,,0,0,0,,{\r}{\kf17}God{\kf17} help{\kf17} the{\kf20} out{\kf24}cast{\kf20} with{\kf20} her{\kf27} witch{\kf11}craft
+Dialogue: 0,0:01:52.03,0:01:53.75,DEFAULT,,0,0,0,,{\r}{\kf16}Some{\kf20}day{\kf10} I'm{\kf13} gon{\kf10}na{\kf20} go{\kf84} home
+Dialogue: 0,0:01:54.45,0:02:00.84,DEFAULT,,0,0,0,,{\r}{\kf39}Some{\kf103}day,{\kf45} I'm{\kf45} gon{\kf32}na{\kf84} go{\kf292} home
+Dialogue: 0,0:02:04.24,0:02:04.76,DEFAULT,,0,0,0,,{\r}{\kf52}*Sigh*

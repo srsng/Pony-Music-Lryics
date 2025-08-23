@@ -1,83 +1,90 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Broken Wings
+Artist: Synthis
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:43.28,0:00:46.75,DEFAULT,,0,0,0,,{\kf33}I{\kf33} find{\kf38} my{\kf38}self{\kf24} a{\kf28}lone{\kf14} and{\kf19} I'm{\kf51} hap{\kf47}py
-Dialogue: 0,0:00:47.22,0:00:49.30,DEFAULT,,0,0,0,,{\kf38}Fly{\kf14}ing{\kf14} on{\kf14} my{\kf24} bro{\kf33}ken{\kf56} wings
-Dialogue: 0,0:00:50.23,0:00:52.36,DEFAULT,,0,0,0,,{\kf33}Hid{\kf14}ing{\kf14} in{\kf19} my{\kf24} bro{\kf28}ken{\kf65} dreams
-Dialogue: 0,0:00:53.19,0:00:55.13,DEFAULT,,0,0,0,,{\kf28}Far{\kf14} a{\kf19}way{\kf19} from{\kf19} e{\kf33}very{\kf51}thing
-Dialogue: 0,0:00:55.87,0:00:58.70,DEFAULT,,0,0,0,,{\kf14}When{\kf14} the{\kf42} star{\kf28}light{\kf33} brings{\kf19} the{\kf47} night{\kf61} in
-Dialogue: 0,0:00:59.12,0:01:01.38,DEFAULT,,0,0,0,,{\kf33}Fly{\kf14}ing{\kf14} on{\kf14} my{\kf19} bro{\kf38}ken{\kf75} wings
-Dialogue: 0,0:01:02.08,0:01:04.16,DEFAULT,,0,0,0,,{\kf38}Soar{\kf14}ing{\kf19} on{\kf10} the{\kf24} o{\kf28}pen{\kf56} sea
-Dialogue: 0,0:01:05.04,0:01:06.94,DEFAULT,,0,0,0,,{\kf33}No{\kf14} one{\kf14} here{\kf14} to{\kf19} bo{\kf28}ther{\kf42} me
-Dialogue: 0,0:01:07.08,0:01:09.86,DEFAULT,,0,0,0,,{\kf33}Fal{\kf24}ling{\kf28} as{\kf38}leep{\kf24} to{\kf14} the{\kf24} sweet{\kf10}est{\kf24} me{\kf14}lo{\kf24}dy
-Dialogue: 0,0:01:09.99,0:01:13.37,DEFAULT,,0,0,0,,{\kf33}Dreams{\kf19} of{\kf28} my{\kf28} friends{\kf28} but,{\kf19} they're{\kf14} all{\kf19} lea{\kf14}ving{\kf75} me
-Dialogue: 0,0:01:14.30,0:01:16.34,DEFAULT,,0,0,0,,{\kf28}I'm{\kf14} as{\kf19} hap{\kf14}py{\kf19} as{\kf14} can{\kf75} be
-Dialogue: 0,0:01:18.88,0:01:21.71,DEFAULT,,0,0,0,,{\kf38}Ill-{\kf28}min{\kf24}ded{\kf28} ways{\kf28} that{\kf19} I've{\kf19} fal{\kf14}len{\kf14} in{\kf14} a{\kf24}gain
-Dialogue: 0,0:01:21.85,0:01:25.04,DEFAULT,,0,0,0,,{\kf38}Ta{\kf19}ken{\kf38} a{\kf33}part{\kf24} but,{\kf19} I'm{\kf14} not{\kf19} giv{\kf14}ing{\kf56} in
-Dialogue: 0,0:01:26.52,0:01:28.00,DEFAULT,,0,0,0,,{\kf10}This{\kf24} is{\kf14}n't{\kf19} who{\kf10} I{\kf56} am
-Dialogue: 0,0:01:30.74,0:01:33.70,DEFAULT,,0,0,0,,{\kf38}Emp{\kf28}ty{\kf88} thoughts,{\kf33} words{\kf38} un{\kf51}said
-Dialogue: 0,0:01:33.88,0:01:37.03,DEFAULT,,0,0,0,,{\kf19}I{\kf28} can't{\kf19} get{\kf10} the{\kf38} voi{\kf38}ces{\kf14} out{\kf14} of{\kf19} my{\kf84} head
-Dialogue: 0,0:01:38.88,0:01:41.62,DEFAULT,,0,0,0,,{\kf33}They're{\kf51} here{\kf47} to{\kf130} stay
-Dialogue: 0,0:01:42.54,0:01:45.69,DEFAULT,,0,0,0,,{\kf42}Keep{\kf28}ing{\kf88} sane,{\kf38} there's{\kf14} no{\kf19}~{\kf65} means
-Dialogue: 0,0:01:45.92,0:01:48.70,DEFAULT,,0,0,0,,{\kf19}My{\kf14} en{\kf19}ti{\kf14}re{\kf14} life{\kf14} has{\kf19} come{\kf19} a{\kf14}part{\kf10} at{\kf14} the{\kf75} seams
-Dialogue: 0,0:01:50.78,0:01:53.42,DEFAULT,,0,0,0,,{\kf33}There's{\kf47} no{\kf51} es{\kf121}cape
-Dialogue: 0,0:01:54.44,0:01:58.00,DEFAULT,,0,0,0,,{\kf33}I{\kf33} find{\kf33} my{\kf38}self{\kf24} a{\kf28}lone{\kf14} and{\kf19} I'm{\kf56} hap{\kf56}py
-Dialogue: 0,0:01:58.37,0:02:00.46,DEFAULT,,0,0,0,,{\kf33}Fly{\kf14}ing{\kf14} on{\kf10} my{\kf24} bro{\kf33}ken{\kf65} wings
-Dialogue: 0,0:02:01.29,0:02:03.47,DEFAULT,,0,0,0,,{\kf33}Hid{\kf14}ing{\kf19} in{\kf14} my{\kf24} bro{\kf28}ken{\kf65} dreams
-Dialogue: 0,0:02:04.30,0:02:06.38,DEFAULT,,0,0,0,,{\kf33}Far{\kf14} a{\kf14}way{\kf14} from{\kf24} e{\kf33}very{\kf65}thing
-Dialogue: 0,0:02:06.99,0:02:09.86,DEFAULT,,0,0,0,,{\kf14}When{\kf14} the{\kf42} star{\kf28}light{\kf33} brings{\kf14} the{\kf47} night{\kf65} in
-Dialogue: 0,0:02:10.18,0:02:12.40,DEFAULT,,0,0,0,,{\kf38}Fly{\kf14}ing{\kf14} on{\kf14} my{\kf24} bro{\kf33}ken{\kf65} wings
-Dialogue: 0,0:02:13.14,0:02:15.32,DEFAULT,,0,0,0,,{\kf38}Soar{\kf19}ing{\kf10} on{\kf14} the{\kf24} o{\kf28}pen{\kf65} sea
-Dialogue: 0,0:02:16.15,0:02:18.00,DEFAULT,,0,0,0,,{\kf24}No{\kf14} one{\kf19} here{\kf10} to{\kf24} bo{\kf28}ther{\kf42} me
-Dialogue: 0,0:02:18.14,0:02:21.71,DEFAULT,,0,0,0,,{\kf28}I{\kf38} find{\kf38} my{\kf33}self{\kf24} a{\kf28}lone{\kf14} and{\kf19} I'm{\kf47} hap{\kf65}py
-Dialogue: 0,0:02:22.03,0:02:24.25,DEFAULT,,0,0,0,,{\kf38}Fly{\kf14}ing{\kf14} on{\kf14} my{\kf24} bro{\kf33}ken{\kf65} wings
-Dialogue: 0,0:02:25.04,0:02:27.22,DEFAULT,,0,0,0,,{\kf33}Hid{\kf14}ing{\kf14} in{\kf14} my{\kf28} bro{\kf28}ken{\kf65} dreams
-Dialogue: 0,0:02:28.00,0:02:29.99,DEFAULT,,0,0,0,,{\kf28}Far{\kf19} a{\kf19}way{\kf14} from{\kf24} e{\kf38}very{\kf47}thing
-Dialogue: 0,0:02:30.69,0:02:33.61,DEFAULT,,0,0,0,,{\kf14}When{\kf14} the{\kf38} star{\kf33}light{\kf28} brings{\kf19} the{\kf51} night{\kf65} in
-Dialogue: 0,0:02:33.98,0:02:36.11,DEFAULT,,0,0,0,,{\kf28}Fly{\kf14}ing{\kf14} on{\kf14} my{\kf24} bro{\kf33}ken{\kf65} wings
-Dialogue: 0,0:02:36.85,0:02:38.98,DEFAULT,,0,0,0,,{\kf42}Soar{\kf14}ing{\kf14} on{\kf14} the{\kf24} o{\kf24}pen{\kf61} sea
-Dialogue: 0,0:02:39.90,0:02:41.75,DEFAULT,,0,0,0,,{\kf24}No{\kf14} one{\kf19} here{\kf10} to{\kf24} bo{\kf33}ther{\kf38} me
-Dialogue: 0,0:02:41.89,0:02:44.67,DEFAULT,,0,0,0,,{\kf33}May{\kf19}be{\kf28} I've{\kf38} changed,{\kf24} but{\kf14} I'll{\kf24} ne{\kf10}ver{\kf14} be{\kf14} the{\kf24} same
-Dialogue: 0,0:02:44.81,0:02:48.00,DEFAULT,,0,0,0,,{\kf28}These{\kf24} wret{\kf28}ched{\kf33} thoughts{\kf38} have{\kf24} on{\kf10}ly{\kf19} caused{\kf14} me{\kf56} pain
-Dialogue: 0,0:02:49.49,0:02:51.06,DEFAULT,,0,0,0,,{\kf14}I{\kf14} wish{\kf10} I{\kf14} could{\kf24} ex{\kf65}plain
-Dialogue: 0,0:02:53.70,0:02:56.57,DEFAULT,,0,0,0,,{\kf33}I've{\kf19} left{\kf24} my{\kf38} soul{\kf28} in{\kf10} the{\kf24} sha{\kf14}dow{\kf14} of{\kf14} my{\kf24} past
-Dialogue: 0,0:02:56.71,0:02:59.67,DEFAULT,,0,0,0,,{\kf33}Re{\kf24}main{\kf24}ing{\kf28} hope{\kf24}ful{\kf14} and{\kf19} ne{\kf14}ver{\kf19} look{\kf14}ing{\kf38} back
-Dialogue: 0,0:03:01.48,0:03:02.77,DEFAULT,,0,0,0,,{\kf19}How{\kf14} long{\kf14} can{\kf14} this{\kf51} last
-Dialogue: 0,0:03:05.55,0:03:08.47,DEFAULT,,0,0,0,,{\kf38}Emp{\kf28}ty{\kf93} thoughts,{\kf28} words{\kf33} un{\kf51}said
-Dialogue: 0,0:03:08.74,0:03:11.66,DEFAULT,,0,0,0,,{\kf14}I{\kf28} can't{\kf14} get{\kf14} the{\kf33} voi{\kf28}ces{\kf24} out{\kf14} of{\kf14} my{\kf65} head
-Dialogue: 0,0:03:13.70,0:03:16.48,DEFAULT,,0,0,0,,{\kf33}They're{\kf51} here{\kf42} to{\kf130} stay
-Dialogue: 0,0:03:17.40,0:03:20.41,DEFAULT,,0,0,0,,{\kf42}Keep{\kf28}ing{\kf84} sane,{\kf28} there's{\kf19} no{\kf19}~{\kf56} means
-Dialogue: 0,0:03:20.74,0:03:23.56,DEFAULT,,0,0,0,,{\kf19}My{\kf19} en{\kf19}ti{\kf14}re{\kf14} life{\kf10} has{\kf19} come{\kf19} a{\kf14}part{\kf14} at{\kf14} the{\kf75} seams
-Dialogue: 0,0:03:25.46,0:03:28.14,DEFAULT,,0,0,0,,{\kf38}There's{\kf51} no{\kf61} es{\kf112}cape
-Dialogue: 0,0:03:42.59,0:03:46.24,DEFAULT,,0,0,0,,{\kf28}I{\kf33} find{\kf38} my{\kf33}self{\kf24} a{\kf33}lone{\kf14} and{\kf19} I'm{\kf47} hap{\kf75}py
-Dialogue: 0,0:03:46.48,0:03:48.74,DEFAULT,,0,0,0,,{\kf33}Fly{\kf19}ing{\kf14} on{\kf14} my{\kf24} bro{\kf24}ken{\kf75} wings
-Dialogue: 0,0:03:49.44,0:03:51.62,DEFAULT,,0,0,0,,{\kf38}Hid{\kf14}ing{\kf19} in{\kf14} my{\kf19} bro{\kf28}ken{\kf65} dreams
-Dialogue: 0,0:03:52.40,0:03:54.49,DEFAULT,,0,0,0,,{\kf33}Far{\kf14} a{\kf19}way{\kf19} from{\kf24} e{\kf33}very{\kf56}thing
-Dialogue: 0,0:03:55.18,0:03:58.00,DEFAULT,,0,0,0,,{\kf14}When{\kf10} the{\kf42} star{\kf33}light{\kf33} brings{\kf14} the{\kf47} night{\kf65} in
-Dialogue: 0,0:03:58.37,0:04:00.50,DEFAULT,,0,0,0,,{\kf38}Fly{\kf14}ing{\kf14} on{\kf14} my{\kf19} bro{\kf28}ken{\kf65} wings
-Dialogue: 0,0:04:01.20,0:04:03.37,DEFAULT,,0,0,0,,{\kf47}Soar{\kf19}ing{\kf14} on{\kf14} the{\kf19} o{\kf28}pen{\kf56} sea
-Dialogue: 0,0:04:04.35,0:04:06.15,DEFAULT,,0,0,0,,{\kf28}No{\kf14} one{\kf14} here{\kf10} to{\kf24} bo{\kf33}ther{\kf33} me
-Dialogue: 0,0:04:06.29,0:04:09.72,DEFAULT,,0,0,0,,{\kf38}I{\kf28} find{\kf33} my{\kf28}self{\kf24} a{\kf33}lone{\kf14} and{\kf14} I'm{\kf51} hap{\kf51}py
-Dialogue: 0,0:04:10.13,0:04:12.31,DEFAULT,,0,0,0,,{\kf42}Fly{\kf19}ing{\kf14} on{\kf14} my{\kf19} bro{\kf33}ken{\kf56} wings
-Dialogue: 0,0:04:13.14,0:04:15.46,DEFAULT,,0,0,0,,{\kf42}Hid{\kf14}ing{\kf14} in{\kf14} my{\kf24} bro{\kf28}ken{\kf75} dreams
-Dialogue: 0,0:04:16.11,0:04:18.14,DEFAULT,,0,0,0,,{\kf33}Far{\kf19} a{\kf24}way{\kf14} from{\kf24} e{\kf33}very{\kf47}thing
-Dialogue: 0,0:04:18.84,0:04:21.75,DEFAULT,,0,0,0,,{\kf19}When{\kf14} the{\kf38} star{\kf28}light{\kf28} brings{\kf24} the{\kf38} night{\kf65} in
-Dialogue: 0,0:04:22.12,0:04:24.07,DEFAULT,,0,0,0,,{\kf33}Fly{\kf14}ing{\kf14} on{\kf14} my{\kf24} bro{\kf28}ken{\kf47} wings
-Dialogue: 0,0:04:25.04,0:04:27.03,DEFAULT,,0,0,0,,{\kf33}Soar{\kf19}ing{\kf14} on{\kf14} the{\kf24} o{\kf28}pen{\kf47} sea
-Dialogue: 0,0:04:27.96,0:04:29.86,DEFAULT,,0,0,0,,{\kf33}No{\kf14} one{\kf24} here{\kf14} to{\kf19} bo{\kf24}ther{\kf38} me
-Dialogue: 0,0:04:29.99,0:04:33.74,DEFAULT,,0,0,0,,{\kf28}I{\kf33} find{\kf38} my{\kf33}self{\kf24} a{\kf28}lone{\kf14} but{\kf24} I'm{\kf51} emp{\kf75}ty
-Dialogue: 0,0:04:33.93,0:04:36.06,DEFAULT,,0,0,0,,{\kf33}Fal{\kf14}ling{\kf14} with{\kf14} my{\kf24} bro{\kf33}ken{\kf65} wings
-Dialogue: 0,0:04:36.85,0:04:39.07,DEFAULT,,0,0,0,,{\kf42}Los{\kf14}ing{\kf19} e{\kf19}very{\kf19}thing{\kf38} be{\kf65}tween
-Dialogue: 0,0:04:39.86,0:04:41.85,DEFAULT,,0,0,0,,{\kf38}Con{\kf19}se{\kf19}quen{\kf14}ces{\kf24} un{\kf28}fore{\kf56}seen
-Dialogue: 0,0:04:42.54,0:04:45.50,DEFAULT,,0,0,0,,{\kf19}When{\kf14} the{\kf33} sun{\kf38}rise{\kf28} comes{\kf24} to{\kf51} greet{\kf65} me
-Dialogue: 0,0:04:45.74,0:04:47.77,DEFAULT,,0,0,0,,{\kf10}I'll{\kf19} stop{\kf10} to{\kf14} mend{\kf14} my{\kf19} bro{\kf33}ken{\kf56} wings
-Dialogue: 0,0:04:48.70,0:04:50.74,DEFAULT,,0,0,0,,{\kf38}Sun{\kf14}light{\kf19} bath{\kf14}ing{\kf24} e{\kf33}very{\kf56}thing
-Dialogue: 0,0:04:51.66,0:04:54.07,DEFAULT,,0,0,0,,{\kf28}Breathes{\kf14} the{\kf19} life{\kf14} back{\kf19} in{\kf19}to{\kf33} me{\kf65}~
+Dialogue: 0,0:00:43.29,0:00:46.76,DEFAULT,,0,0,0,,{\r}{\kf35}I{\kf35} find{\kf40} my{\kf40}self{\kf25} a{\kf30}lone{\kf15} and{\kf20} I'm{\kf55} hap{\kf52}py
+Dialogue: 0,0:00:47.22,0:00:49.31,DEFAULT,,0,0,0,,{\r}{\kf41}Fly{\kf15}ing{\kf15} on{\kf15} my{\kf25} bro{\kf36}ken{\kf61} wings
+Dialogue: 0,0:00:50.23,0:00:52.36,DEFAULT,,0,0,0,,{\r}{\kf36}Hid{\kf15}ing{\kf15} in{\kf20} my{\kf25} bro{\kf30}ken{\kf72} dreams
+Dialogue: 0,0:00:53.19,0:00:55.14,DEFAULT,,0,0,0,,{\r}{\kf30}Far{\kf15} a{\kf20}way{\kf20} from{\kf20} e{\kf35}very{\kf54}thing
+Dialogue: 0,0:00:55.88,0:00:58.70,DEFAULT,,0,0,0,,{\r}{\kf15}When{\kf15} the{\kf46} star{\kf31}light{\kf36} brings{\kf21} the{\kf51} night{\kf67} in
+Dialogue: 0,0:00:59.12,0:01:01.39,DEFAULT,,0,0,0,,{\r}{\kf36}Fly{\kf15}ing{\kf15} on{\kf15} my{\kf21} bro{\kf41}ken{\kf84} wings
+Dialogue: 0,0:01:02.08,0:01:04.17,DEFAULT,,0,0,0,,{\r}{\kf42}Soar{\kf16}ing{\kf21} on{\kf10} the{\kf26} o{\kf31}pen{\kf62} sea
+Dialogue: 0,0:01:05.05,0:01:06.94,DEFAULT,,0,0,0,,{\r}{\kf38}No{\kf16} one{\kf16} here{\kf16} to{\kf22} bo{\kf33}ther{\kf49} me
+Dialogue: 0,0:01:07.08,0:01:09.86,DEFAULT,,0,0,0,,{\r}{\kf36}Fal{\kf26}ling{\kf31} as{\kf41}leep{\kf26} to{\kf15} the{\kf26} sweet{\kf10}est{\kf26} me{\kf15}lo{\kf26}dy
+Dialogue: 0,0:01:10.00,0:01:13.38,DEFAULT,,0,0,0,,{\r}{\kf40}Dreams{\kf23} of{\kf34} my{\kf34} friends{\kf34} but,{\kf23} they're{\kf17} all{\kf23} lea{\kf17}ving{\kf93} me
+Dialogue: 0,0:01:14.31,0:01:16.34,DEFAULT,,0,0,0,,{\r}{\kf31}I'm{\kf16} as{\kf21} hap{\kf16}py{\kf21} as{\kf16} can{\kf83} be
+Dialogue: 0,0:01:18.89,0:01:21.71,DEFAULT,,0,0,0,,{\r}{\kf43}Ill-{\kf32}min{\kf27}ded{\kf32} ways{\kf32} that{\kf21} I've{\kf21} fal{\kf16}len{\kf16} in{\kf16} a{\kf26}gain
+Dialogue: 0,0:01:21.85,0:01:25.05,DEFAULT,,0,0,0,,{\r}{\kf44}Ta{\kf22}ken{\kf44} a{\kf38}part{\kf28} but,{\kf22} I'm{\kf17} not{\kf22} giv{\kf17}ing{\kf65} in
+Dialogue: 0,0:01:26.53,0:01:28.01,DEFAULT,,0,0,0,,{\r}{\kf11}This{\kf26} is{\kf16}n't{\kf21} who{\kf11} I{\kf63} am
+Dialogue: 0,0:01:30.74,0:01:33.70,DEFAULT,,0,0,0,,{\r}{\kf40}Emp{\kf30}ty{\kf95} thoughts,{\kf35} words{\kf40} un{\kf56}said
+Dialogue: 0,0:01:33.89,0:01:37.04,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf32} can't{\kf21} get{\kf10} the{\kf42} voi{\kf42}ces{\kf16} out{\kf16} of{\kf21} my{\kf94} head
+Dialogue: 0,0:01:38.89,0:01:41.62,DEFAULT,,0,0,0,,{\r}{\kf34}They're{\kf54} here{\kf49} to{\kf136} stay
+Dialogue: 0,0:01:42.55,0:01:45.69,DEFAULT,,0,0,0,,{\r}{\kf45}Keep{\kf30}ing{\kf95} sane,{\kf40} there's{\kf15} no{\kf20}~{\kf70} means
+Dialogue: 0,0:01:45.93,0:01:48.70,DEFAULT,,0,0,0,,{\r}{\kf21}My{\kf16} en{\kf21}ti{\kf16}re{\kf16} life{\kf16} has{\kf21} come{\kf21} a{\kf16}part{\kf11} at{\kf16} the{\kf87} seams
+Dialogue: 0,0:01:50.79,0:01:53.43,DEFAULT,,0,0,0,,{\r}{\kf34}There's{\kf49} no{\kf54} es{\kf127}cape
+Dialogue: 0,0:01:54.44,0:01:58.01,DEFAULT,,0,0,0,,{\r}{\kf35}I{\kf35} find{\kf35} my{\kf40}self{\kf25} a{\kf30}lone{\kf15} and{\kf20} I'm{\kf60} hap{\kf61}py
+Dialogue: 0,0:01:58.38,0:02:00.46,DEFAULT,,0,0,0,,{\r}{\kf36}Fly{\kf15}ing{\kf15} on{\kf10} my{\kf25} bro{\kf36}ken{\kf71} wings
+Dialogue: 0,0:02:01.30,0:02:03.47,DEFAULT,,0,0,0,,{\r}{\kf36}Hid{\kf16}ing{\kf21} in{\kf16} my{\kf26} bro{\kf31}ken{\kf72} dreams
+Dialogue: 0,0:02:04.31,0:02:06.39,DEFAULT,,0,0,0,,{\r}{\kf35}Far{\kf15} a{\kf15}way{\kf15} from{\kf25} e{\kf35}very{\kf68}thing
+Dialogue: 0,0:02:06.99,0:02:09.86,DEFAULT,,0,0,0,,{\r}{\kf16}When{\kf16} the{\kf47} star{\kf31}light{\kf37} brings{\kf16} the{\kf52} night{\kf72} in
+Dialogue: 0,0:02:10.19,0:02:12.41,DEFAULT,,0,0,0,,{\r}{\kf41}Fly{\kf15}ing{\kf15} on{\kf15} my{\kf26} bro{\kf36}ken{\kf74} wings
+Dialogue: 0,0:02:13.15,0:02:15.32,DEFAULT,,0,0,0,,{\r}{\kf42}Soar{\kf21}ing{\kf10} on{\kf16} the{\kf26} o{\kf31}pen{\kf72} sea
+Dialogue: 0,0:02:16.16,0:02:18.01,DEFAULT,,0,0,0,,{\r}{\kf27}No{\kf16} one{\kf22} here{\kf11} to{\kf27} bo{\kf33}ther{\kf49} me
+Dialogue: 0,0:02:18.15,0:02:21.71,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf40} find{\kf40} my{\kf35}self{\kf25} a{\kf30}lone{\kf15} and{\kf20} I'm{\kf50} hap{\kf71}py
+Dialogue: 0,0:02:22.04,0:02:24.26,DEFAULT,,0,0,0,,{\r}{\kf41}Fly{\kf15}ing{\kf15} on{\kf15} my{\kf26} bro{\kf36}ken{\kf74} wings
+Dialogue: 0,0:02:25.05,0:02:27.22,DEFAULT,,0,0,0,,{\r}{\kf36}Hid{\kf16}ing{\kf16} in{\kf16} my{\kf31} bro{\kf31}ken{\kf72} dreams
+Dialogue: 0,0:02:28.01,0:02:30.00,DEFAULT,,0,0,0,,{\r}{\kf30}Far{\kf20} a{\kf20}way{\kf15} from{\kf25} e{\kf40}very{\kf49}thing
+Dialogue: 0,0:02:30.69,0:02:33.61,DEFAULT,,0,0,0,,{\r}{\kf16}When{\kf16} the{\kf42} star{\kf36}light{\kf31} brings{\kf21} the{\kf57} night{\kf73} in
+Dialogue: 0,0:02:33.98,0:02:36.11,DEFAULT,,0,0,0,,{\r}{\kf31}Fly{\kf16}ing{\kf16} on{\kf16} my{\kf26} bro{\kf36}ken{\kf72} wings
+Dialogue: 0,0:02:36.85,0:02:38.98,DEFAULT,,0,0,0,,{\r}{\kf47}Soar{\kf16}ing{\kf16} on{\kf16} the{\kf26} o{\kf26}pen{\kf66} sea
+Dialogue: 0,0:02:39.91,0:02:41.76,DEFAULT,,0,0,0,,{\r}{\kf27}No{\kf16} one{\kf22} here{\kf11} to{\kf27} bo{\kf38}ther{\kf44} me
+Dialogue: 0,0:02:41.90,0:02:44.68,DEFAULT,,0,0,0,,{\r}{\kf38}May{\kf22}be{\kf33} I've{\kf44} changed,{\kf27} but{\kf16} I'll{\kf27} ne{\kf11}ver{\kf16} be{\kf16} the{\kf28} same
+Dialogue: 0,0:02:44.81,0:02:48.01,DEFAULT,,0,0,0,,{\r}{\kf33}These{\kf28} wret{\kf33}ched{\kf38} thoughts{\kf44} have{\kf28} on{\kf11}ly{\kf22} caused{\kf17} me{\kf65} pain
+Dialogue: 0,0:02:49.49,0:02:51.06,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} wish{\kf10} I{\kf16} could{\kf26} ex{\kf73}plain
+Dialogue: 0,0:02:53.70,0:02:56.57,DEFAULT,,0,0,0,,{\r}{\kf39}I've{\kf23} left{\kf28} my{\kf45} soul{\kf34} in{\kf11} the{\kf28} sha{\kf17}dow{\kf17} of{\kf17} my{\kf28} past
+Dialogue: 0,0:02:56.71,0:02:59.68,DEFAULT,,0,0,0,,{\r}{\kf39}Re{\kf28}main{\kf28}ing{\kf34} hope{\kf28}ful{\kf17} and{\kf22} ne{\kf17}ver{\kf22} look{\kf17}ing{\kf44} back
+Dialogue: 0,0:03:01.48,0:03:02.78,DEFAULT,,0,0,0,,{\r}{\kf22}How{\kf16} long{\kf16} can{\kf16} this{\kf60} last
+Dialogue: 0,0:03:05.56,0:03:08.47,DEFAULT,,0,0,0,,{\r}{\kf40}Emp{\kf30}ty{\kf101} thoughts,{\kf30} words{\kf35} un{\kf56}said
+Dialogue: 0,0:03:08.75,0:03:11.67,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf33} can't{\kf17} get{\kf17} the{\kf39} voi{\kf33}ces{\kf28} out{\kf17} of{\kf17} my{\kf74} head
+Dialogue: 0,0:03:13.70,0:03:16.48,DEFAULT,,0,0,0,,{\r}{\kf35}They're{\kf56} here{\kf45} to{\kf142} stay
+Dialogue: 0,0:03:17.41,0:03:20.42,DEFAULT,,0,0,0,,{\r}{\kf46}Keep{\kf31}ing{\kf92} sane,{\kf31} there's{\kf20} no{\kf20}~{\kf61} means
+Dialogue: 0,0:03:20.74,0:03:23.56,DEFAULT,,0,0,0,,{\r}{\kf21}My{\kf21} en{\kf21}ti{\kf16}re{\kf16} life{\kf11} has{\kf21} come{\kf21} a{\kf16}part{\kf16} at{\kf16} the{\kf86} seams
+Dialogue: 0,0:03:25.46,0:03:28.15,DEFAULT,,0,0,0,,{\r}{\kf38}There's{\kf53} no{\kf62} es{\kf116}cape
+Dialogue: 0,0:03:42.59,0:03:46.25,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf35} find{\kf40} my{\kf35}self{\kf25} a{\kf35}lone{\kf15} and{\kf20} I'm{\kf50} hap{\kf81}py
+Dialogue: 0,0:03:46.48,0:03:48.75,DEFAULT,,0,0,0,,{\r}{\kf37}Fly{\kf21}ing{\kf16} on{\kf16} my{\kf26} bro{\kf26}ken{\kf85} wings
+Dialogue: 0,0:03:49.44,0:03:51.62,DEFAULT,,0,0,0,,{\r}{\kf42}Hid{\kf16}ing{\kf21} in{\kf16} my{\kf21} bro{\kf31}ken{\kf71} dreams
+Dialogue: 0,0:03:52.41,0:03:54.49,DEFAULT,,0,0,0,,{\r}{\kf35}Far{\kf15} a{\kf20}way{\kf20} from{\kf25} e{\kf35}very{\kf58}thing
+Dialogue: 0,0:03:55.19,0:03:58.01,DEFAULT,,0,0,0,,{\r}{\kf15}When{\kf10} the{\kf46} star{\kf36}light{\kf36} brings{\kf15} the{\kf51} night{\kf73} in
+Dialogue: 0,0:03:58.38,0:04:00.51,DEFAULT,,0,0,0,,{\r}{\kf42}Fly{\kf16}ing{\kf16} on{\kf16} my{\kf21} bro{\kf31}ken{\kf71} wings
+Dialogue: 0,0:04:01.20,0:04:03.38,DEFAULT,,0,0,0,,{\r}{\kf52}Soar{\kf21}ing{\kf16} on{\kf16} the{\kf21} o{\kf31}pen{\kf61} sea
+Dialogue: 0,0:04:04.35,0:04:06.16,DEFAULT,,0,0,0,,{\r}{\kf33}No{\kf16} one{\kf16} here{\kf11} to{\kf27} bo{\kf38}ther{\kf40} me
+Dialogue: 0,0:04:06.30,0:04:09.72,DEFAULT,,0,0,0,,{\r}{\kf41}I{\kf31} find{\kf36} my{\kf31}self{\kf26} a{\kf36}lone{\kf15} and{\kf15} I'm{\kf56} hap{\kf56}py
+Dialogue: 0,0:04:10.14,0:04:12.31,DEFAULT,,0,0,0,,{\r}{\kf47}Fly{\kf21}ing{\kf16} on{\kf16} my{\kf21} bro{\kf36}ken{\kf61} wings
+Dialogue: 0,0:04:13.15,0:04:15.46,DEFAULT,,0,0,0,,{\r}{\kf46}Hid{\kf15}ing{\kf15} in{\kf15} my{\kf26} bro{\kf31}ken{\kf83} dreams
+Dialogue: 0,0:04:16.11,0:04:18.15,DEFAULT,,0,0,0,,{\r}{\kf35}Far{\kf20} a{\kf25}way{\kf15} from{\kf25} e{\kf35}very{\kf49}thing
+Dialogue: 0,0:04:18.84,0:04:21.76,DEFAULT,,0,0,0,,{\r}{\kf22}When{\kf16} the{\kf43} star{\kf32}light{\kf32} brings{\kf27} the{\kf43} night{\kf77} in
+Dialogue: 0,0:04:22.13,0:04:24.07,DEFAULT,,0,0,0,,{\r}{\kf37}Fly{\kf16}ing{\kf16} on{\kf16} my{\kf26} bro{\kf31}ken{\kf52} wings
+Dialogue: 0,0:04:25.05,0:04:27.04,DEFAULT,,0,0,0,,{\r}{\kf37}Soar{\kf21}ing{\kf16} on{\kf16} the{\kf26} o{\kf31}pen{\kf52} sea
+Dialogue: 0,0:04:27.96,0:04:29.86,DEFAULT,,0,0,0,,{\r}{\kf38}No{\kf16} one{\kf27} here{\kf16} to{\kf22} bo{\kf27}ther{\kf44} me
+Dialogue: 0,0:04:30.00,0:04:33.75,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf35} find{\kf41} my{\kf35}self{\kf25} a{\kf30}lone{\kf15} but{\kf25} I'm{\kf56} emp{\kf83}ty
+Dialogue: 0,0:04:33.94,0:04:36.06,DEFAULT,,0,0,0,,{\r}{\kf36}Fal{\kf15}ling{\kf15} with{\kf15} my{\kf25} bro{\kf36}ken{\kf71} wings
+Dialogue: 0,0:04:36.85,0:04:39.07,DEFAULT,,0,0,0,,{\r}{\kf43}Los{\kf14}ing{\kf19} e{\kf19}very{\kf19}thing{\kf39} be{\kf69}tween
+Dialogue: 0,0:04:39.86,0:04:41.85,DEFAULT,,0,0,0,,{\r}{\kf38}Con{\kf19}se{\kf19}quen{\kf14}ces{\kf24} un{\kf28}fore{\kf57}seen
+Dialogue: 0,0:04:42.55,0:04:45.51,DEFAULT,,0,0,0,,{\r}{\kf20}When{\kf15} the{\kf36} sun{\kf41}rise{\kf31} comes{\kf26} to{\kf56} greet{\kf71} me
+Dialogue: 0,0:04:45.74,0:04:47.78,DEFAULT,,0,0,0,,{\r}{\kf11}I'll{\kf22} stop{\kf11} to{\kf17} mend{\kf17} my{\kf22} bro{\kf39}ken{\kf65} wings
+Dialogue: 0,0:04:48.70,0:04:50.74,DEFAULT,,0,0,0,,{\r}{\kf39}Sun{\kf15}light{\kf19} bath{\kf15}ing{\kf24} e{\kf34}very{\kf58}thing
+Dialogue: 0,0:04:51.67,0:04:54.07,DEFAULT,,0,0,0,,{\r}{\kf32}Breathes{\kf16} the{\kf21} life{\kf16} back{\kf21} in{\kf21}to{\kf37} me{\kf77}~

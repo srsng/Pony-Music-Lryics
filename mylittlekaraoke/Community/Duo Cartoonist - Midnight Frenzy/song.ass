@@ -1,70 +1,77 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Midnight Frenzy
+Artist: Duo Cartoonist
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:42.92,0:00:44.80,DEFAULT,,0,0,0,,{\kf12}As{\kf8} the{\kf19} sun{\kf23}light{\kf23} leaves{\kf12} and{\kf19} dark{\kf19}ness
-Dialogue: 0,0:00:45.02,0:00:46.94,DEFAULT,,0,0,0,,{\kf23}Brings{\kf8} a{\kf27}long{\kf12} a{\kf8}-a{\kf23} star{\kf8}ry{\kf49} sky
-Dialogue: 0,0:00:47.20,0:00:49.04,DEFAULT,,0,0,0,,{\kf12}You{\kf15} will{\kf23} dive{\kf23} in{\kf19}to{\kf15} your{\kf45} dreams
-Dialogue: 0,0:00:49.26,0:00:51.17,DEFAULT,,0,0,0,,{\kf23}Lay{\kf12}ing{\kf30} down{\kf23} you{\kf27} close{\kf15} your{\kf38} eyes
-Dialogue: 0,0:00:51.47,0:00:53.46,DEFAULT,,0,0,0,,{\kf12}But{\kf15} there{\kf12} are{\kf34} so{\kf19} ma{\kf12}ny{\kf23} won{\kf30}ders
-Dialogue: 0,0:00:53.61,0:00:55.30,DEFAULT,,0,0,0,,{\kf15}Mis{\kf15}sing{\kf15} out?{\kf30} That{\kf19} can't{\kf12} be{\kf27} right!
-Dialogue: 0,0:00:55.71,0:00:57.70,DEFAULT,,0,0,0,,{\kf15}Jump{\kf12} off{\kf15} bed,{\kf15} co{\kf12}-ome{\kf27} on{\kf15} and{\kf27} join{\kf27} us
-Dialogue: 0,0:00:57.89,0:01:00.17,DEFAULT,,0,0,0,,{\kf19}Par{\kf12}ty{\kf23} on{\kf19} un{\kf19}til{\kf27} sun{\kf83}rise
-Dialogue: 0,0:01:00.44,0:01:02.12,DEFAULT,,0,0,0,,{\kf49}Ey{\kf38} Oh{\kf23} Ey{\kf19} Oh{\kf23} Ha!
-Dialogue: 0,0:01:02.31,0:01:03.14,DEFAULT,,0,0,0,,{\kf8}I{\kf12} won't{\kf15} let{\kf19} you{\kf12} sleep
-Dialogue: 0,0:01:03.29,0:01:04.56,DEFAULT,,0,0,0,,{\kf15}Come{\kf8} to{\kf15} par{\kf12}ty{\kf19} all{\kf42} night
-Dialogue: 0,0:01:04.97,0:01:06.36,DEFAULT,,0,0,0,,{\kf38}Ey{\kf30} Oh{\kf12} Ey{\kf23} Oh{\kf23} Ha!
-Dialogue: 0,0:01:06.55,0:01:07.52,DEFAULT,,0,0,0,,{\kf12}Let's{\kf8} go{\kf23} dance{\kf15} to{\kf12}get{\kf8}her
-Dialogue: 0,0:01:07.60,0:01:09.77,DEFAULT,,0,0,0,,{\kf8}The{\kf12} moon's{\kf23} shi{\kf19}ning{\kf135} bright
-Dialogue: 0,0:01:09.96,0:01:10.30,DEFAULT,,0,0,0,,{\kf34}Hah!
-Dialogue: 0,0:01:10.67,0:01:12.74,DEFAULT,,0,0,0,,{\kf12}We{\kf12} are{\kf8} the{\kf15} night{\kf27} shift,{\kf15} we{\kf12} are{\kf23} si{\kf27}lent
-Dialogue: 0,0:01:12.89,0:01:14.61,DEFAULT,,0,0,0,,{\kf15}Wat{\kf15}ching{\kf23} out{\kf34} as{\kf12} you{\kf12} all{\kf27} shun
-Dialogue: 0,0:01:14.99,0:01:17.05,DEFAULT,,0,0,0,,{\kf15}But{\kf15} these{\kf19} rules{\kf34} can{\kf15} be{\kf15} so{\kf23} bo{\kf23}ring
-Dialogue: 0,0:01:17.20,0:01:18.96,DEFAULT,,0,0,0,,{\kf12}So{\kf15} let's{\kf19} break{\kf42} them{\kf15} and{\kf15} have{\kf34} fun
-Dialogue: 0,0:01:19.30,0:01:21.29,DEFAULT,,0,0,0,,{\kf19}Gigg{\kf15}les{\kf23} ring{\kf34} as{\kf19} it's{\kf12} ex{\kf27}ci{\kf23}ting
-Dialogue: 0,0:01:21.44,0:01:23.39,DEFAULT,,0,0,0,,{\kf19}Do{\kf15}ing{\kf23} things{\kf27} you're{\kf23} not{\kf12} al{\kf42}lowed
-Dialogue: 0,0:01:23.61,0:01:25.52,DEFAULT,,0,0,0,,{\kf15}Would{\kf15} you{\kf27} dare{\kf27} to{\kf19} break{\kf15} out{\kf23} ha{\kf19}voc
-Dialogue: 0,0:01:25.71,0:01:27.96,DEFAULT,,0,0,0,,{\kf19}Beat{\kf12} the{\kf27} drums{\kf15} and{\kf23} sing{\kf23} out{\kf75} loud?
-Dialogue: 0,0:01:28.26,0:01:29.99,DEFAULT,,0,0,0,,{\kf49}Ey{\kf38} Oh{\kf23} Ey{\kf23} Oh{\kf27} Ha!
-Dialogue: 0,0:01:30.17,0:01:31.07,DEFAULT,,0,0,0,,{\kf8}I{\kf12} won't{\kf15} let{\kf15} you{\kf23} sleep
-Dialogue: 0,0:01:31.19,0:01:32.39,DEFAULT,,0,0,0,,{\kf12}Come{\kf8} to{\kf12} par{\kf12}ty{\kf15} all{\kf42} night
-Dialogue: 0,0:01:32.80,0:01:34.30,DEFAULT,,0,0,0,,{\kf38}Ey{\kf34} Oh{\kf15} Ey{\kf19} Oh{\kf30} Ha!
-Dialogue: 0,0:01:34.41,0:01:35.46,DEFAULT,,0,0,0,,{\kf12}Let's{\kf8} go{\kf23} dance{\kf23} to{\kf12}get{\kf8}her
-Dialogue: 0,0:01:35.54,0:01:37.60,DEFAULT,,0,0,0,,{\kf8}Un{\kf8}der{\kf19} the{\kf30} moon{\kf128}light
-Dialogue: 0,0:01:38.57,0:01:40.64,DEFAULT,,0,0,0,,{\kf23}Tend{\kf12} the{\kf23} bur{\kf34}dens{\kf15} your{\kf15} heart{\kf30} car{\kf27}ries
-Dialogue: 0,0:01:40.79,0:01:42.51,DEFAULT,,0,0,0,,{\kf19}Come{\kf8} a{\kf27}long{\kf30} and{\kf19} join{\kf12} the{\kf34} fun!
-Dialogue: 0,0:01:42.81,0:01:44.87,DEFAULT,,0,0,0,,{\kf15}Loo{\kf15}sen{\kf15} up,{\kf30} for{\kf19}get{\kf15} your{\kf23} wor{\kf27}ries
-Dialogue: 0,0:01:45.02,0:01:46.90,DEFAULT,,0,0,0,,{\kf23}Dance{\kf12} with{\kf19} me,{\kf34} the{\kf27} night{\kf12} is{\kf38} young
-Dialogue: 0,0:01:47.12,0:01:49.07,DEFAULT,,0,0,0,,{\kf15}This{\kf12} is{\kf15} awe{\kf23}some,{\kf15} this{\kf12} is{\kf49} crazy
-Dialogue: 0,0:01:49.26,0:01:51.25,DEFAULT,,0,0,0,,{\kf19}There{\kf12} is{\kf19} ma{\kf27}gic{\kf27} in{\kf19} the{\kf45} air
-Dialogue: 0,0:01:51.44,0:01:53.42,DEFAULT,,0,0,0,,{\kf19}Give{\kf12} in{\kf23} to{\kf30} the{\kf12} Mid{\kf15}night{\kf19} Fren{\kf27}zy
-Dialogue: 0,0:01:53.57,0:01:55.75,DEFAULT,,0,0,0,,{\kf19}Par{\kf12}ty{\kf27} on{\kf15} with{\kf23}out{\kf15} a{\kf75} care!
-Dialogue: 0,0:01:56.09,0:01:57.81,DEFAULT,,0,0,0,,{\kf49}Ey{\kf38} Oh{\kf23} Ey{\kf19} Oh{\kf27} Ha!
-Dialogue: 0,0:01:57.96,0:01:58.82,DEFAULT,,0,0,0,,{\kf12}I{\kf8} won't{\kf15} let{\kf12} you{\kf12} sleep
-Dialogue: 0,0:01:58.97,0:02:00.21,DEFAULT,,0,0,0,,{\kf12}Come{\kf8} to{\kf15} par{\kf12}ty{\kf15} all{\kf42} night
-Dialogue: 0,0:02:00.62,0:02:02.12,DEFAULT,,0,0,0,,{\kf49}Ey{\kf27} Oh{\kf15} Ey{\kf19} Oh{\kf27} Ha!
-Dialogue: 0,0:02:02.24,0:02:03.25,DEFAULT,,0,0,0,,{\kf8}Let's{\kf12} go{\kf23} dance{\kf19} to{\kf12}get{\kf12}her
-Dialogue: 0,0:02:03.36,0:02:06.02,DEFAULT,,0,0,0,,{\kf12}Un{\kf12}der{\kf19} the{\kf23} moon{\kf188}light
-Dialogue: 0,0:02:06.85,0:02:08.54,DEFAULT,,0,0,0,,{\kf19}You{\kf12} are{\kf19} too{\kf27} young{\kf8} to{\kf12} be{\kf15} up{\kf34} late!
-Dialogue: 0,0:02:08.95,0:02:10.79,DEFAULT,,0,0,0,,{\kf42}Loosen{\kf19} up{\kf19} and{\kf87} celebrate!
-Dialogue: 0,0:02:11.12,0:02:12.59,DEFAULT,,0,0,0,,{\kf30}Hooves{\kf19} are{\kf23} banging{\kf12} on{\kf8} the{\kf38} floor!
-Dialogue: 0,0:02:13.15,0:02:15.17,DEFAULT,,0,0,0,,{\kf27}That's{\kf8} a{\kf15} nice{\kf34} beat,{\kf15} do{\kf19} some{\kf38} more!
-Dialogue: 0,0:02:15.40,0:02:17.12,DEFAULT,,0,0,0,,{\kf53}Ey{\kf38} Oh{\kf23} Ey{\kf19} Oh{\kf27} Ha!
-Dialogue: 0,0:02:17.31,0:02:18.17,DEFAULT,,0,0,0,,{\kf12}I{\kf8} won't{\kf15} let{\kf15} you{\kf12} sleep
-Dialogue: 0,0:02:18.32,0:02:19.52,DEFAULT,,0,0,0,,{\kf12}Come{\kf12} to{\kf12} par{\kf12}ty{\kf19} all{\kf38} night
-Dialogue: 0,0:02:19.90,0:02:21.36,DEFAULT,,0,0,0,,{\kf45}Ey{\kf30} Oh{\kf15} Ey{\kf15} Oh{\kf27} Ha!
-Dialogue: 0,0:02:21.51,0:02:22.56,DEFAULT,,0,0,0,,{\kf12}Let's{\kf8} go{\kf27} dance{\kf19} to{\kf12}get{\kf8}her
-Dialogue: 0,0:02:22.64,0:02:23.76,DEFAULT,,0,0,0,,{\kf12}The{\kf8} moon's{\kf23} shi{\kf23}ning{\kf34} bright
-Dialogue: 0,0:02:24.02,0:02:25.71,DEFAULT,,0,0,0,,{\kf45}Ey{\kf38} Oh{\kf27} Ey{\kf23} Oh{\kf23} Ha!
-Dialogue: 0,0:02:25.90,0:02:26.80,DEFAULT,,0,0,0,,{\kf8}I{\kf12} won't{\kf19} let{\kf12} you{\kf19} sleep
-Dialogue: 0,0:02:26.95,0:02:28.19,DEFAULT,,0,0,0,,{\kf8}Come{\kf8} to{\kf12} par{\kf12}ty{\kf19} all{\kf45} night
-Dialogue: 0,0:02:28.45,0:02:29.95,DEFAULT,,0,0,0,,{\kf42}Ey{\kf38} Oh{\kf15} Ey{\kf15} Oh{\kf27} Ha!
-Dialogue: 0,0:02:30.10,0:02:31.11,DEFAULT,,0,0,0,,{\kf12}Let's{\kf12} go{\kf19} dance{\kf12} to{\kf12}get{\kf8}her
-Dialogue: 0,0:02:31.22,0:02:32.31,DEFAULT,,0,0,0,,{\kf8}The{\kf12} moon's{\kf19} shi{\kf23}ning{\kf34} bright
+Dialogue: 0,0:00:42.93,0:00:44.80,DEFAULT,,0,0,0,,{\r}{\kf16}As{\kf11} the{\kf27} sun{\kf32}light{\kf32} leaves{\kf16} and{\kf27} dark{\kf27}ness
+Dialogue: 0,0:00:45.03,0:00:46.94,DEFAULT,,0,0,0,,{\r}{\kf28}Brings{\kf10} a{\kf33}long{\kf14} a{\kf10}-a{\kf28} star{\kf10}ry{\kf58} sky
+Dialogue: 0,0:00:47.20,0:00:49.04,DEFAULT,,0,0,0,,{\r}{\kf14}You{\kf18} will{\kf28} dive{\kf28} in{\kf23}to{\kf18} your{\kf55} dreams
+Dialogue: 0,0:00:49.27,0:00:51.18,DEFAULT,,0,0,0,,{\r}{\kf26}Lay{\kf13}ing{\kf35} down{\kf26} you{\kf30} close{\kf17} your{\kf44} eyes
+Dialogue: 0,0:00:51.48,0:00:53.47,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf19} there{\kf15} are{\kf44} so{\kf24} ma{\kf15}ny{\kf29} won{\kf38}ders
+Dialogue: 0,0:00:53.62,0:00:55.30,DEFAULT,,0,0,0,,{\r}{\kf19}Mis{\kf19}sing{\kf19} out?{\kf39} That{\kf24} can't{\kf14} be{\kf35} right!
+Dialogue: 0,0:00:55.72,0:00:57.70,DEFAULT,,0,0,0,,{\r}{\kf19}Jump{\kf14} off{\kf19} bed,{\kf19} co{\kf14}-ome{\kf32} on{\kf19} and{\kf32} join{\kf31} us
+Dialogue: 0,0:00:57.89,0:01:00.18,DEFAULT,,0,0,0,,{\r}{\kf22}Par{\kf13}ty{\kf26} on{\kf22} un{\kf22}til{\kf30} sun{\kf94}rise
+Dialogue: 0,0:01:00.44,0:01:02.13,DEFAULT,,0,0,0,,{\r}{\kf55}Ey{\kf42} Oh{\kf25} Ey{\kf21} Oh{\kf26} Ha!
+Dialogue: 0,0:01:02.32,0:01:03.14,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf14} won't{\kf19} let{\kf24} you{\kf15} sleep
+Dialogue: 0,0:01:03.29,0:01:04.57,DEFAULT,,0,0,0,,{\r}{\kf18}Come{\kf10} to{\kf18} par{\kf13}ty{\kf22} all{\kf46} night
+Dialogue: 0,0:01:04.98,0:01:06.37,DEFAULT,,0,0,0,,{\r}{\kf42}Ey{\kf34} Oh{\kf13} Ey{\kf25} Oh{\kf25} Ha!
+Dialogue: 0,0:01:06.55,0:01:07.53,DEFAULT,,0,0,0,,{\r}{\kf15}Let's{\kf10} go{\kf29} dance{\kf20} to{\kf15}get{\kf10}her
+Dialogue: 0,0:01:07.60,0:01:09.78,DEFAULT,,0,0,0,,{\r}{\kf10}The{\kf13} moon's{\kf25} shi{\kf21}ning{\kf148} bright
+Dialogue: 0,0:01:09.97,0:01:10.30,DEFAULT,,0,0,0,,{\r}{\kf34}Hah!
+Dialogue: 0,0:01:10.68,0:01:12.74,DEFAULT,,0,0,0,,{\r}{\kf16}We{\kf16} are{\kf11} the{\kf21} night{\kf37} shift,{\kf21} we{\kf16} are{\kf32} si{\kf36}lent
+Dialogue: 0,0:01:12.89,0:01:14.62,DEFAULT,,0,0,0,,{\r}{\kf19}Wat{\kf19}ching{\kf29} out{\kf43} as{\kf14} you{\kf14} all{\kf34} shun
+Dialogue: 0,0:01:14.99,0:01:17.05,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf20} these{\kf25} rules{\kf44} can{\kf20} be{\kf20} so{\kf29} bo{\kf28}ring
+Dialogue: 0,0:01:17.20,0:01:18.97,DEFAULT,,0,0,0,,{\r}{\kf13}So{\kf18} let's{\kf22} break{\kf48} them{\kf18} and{\kf18} have{\kf39} fun
+Dialogue: 0,0:01:19.30,0:01:21.29,DEFAULT,,0,0,0,,{\r}{\kf22}Gigg{\kf18}les{\kf27} ring{\kf40} as{\kf22} it's{\kf13} ex{\kf31}ci{\kf26}ting
+Dialogue: 0,0:01:21.44,0:01:23.39,DEFAULT,,0,0,0,,{\r}{\kf23}Do{\kf19}ing{\kf28} things{\kf32} you're{\kf28} not{\kf14} al{\kf51}lowed
+Dialogue: 0,0:01:23.62,0:01:25.53,DEFAULT,,0,0,0,,{\r}{\kf18}Would{\kf18} you{\kf32} dare{\kf32} to{\kf23} break{\kf18} out{\kf27} ha{\kf23}voc
+Dialogue: 0,0:01:25.72,0:01:27.97,DEFAULT,,0,0,0,,{\r}{\kf22}Beat{\kf13} the{\kf31} drums{\kf18} and{\kf26} sing{\kf26} out{\kf89} loud?
+Dialogue: 0,0:01:28.27,0:01:29.99,DEFAULT,,0,0,0,,{\r}{\kf53}Ey{\kf41} Oh{\kf25} Ey{\kf25} Oh{\kf28} Ha!
+Dialogue: 0,0:01:30.18,0:01:31.08,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf14} won't{\kf19} let{\kf19} you{\kf28} sleep
+Dialogue: 0,0:01:31.19,0:01:32.39,DEFAULT,,0,0,0,,{\r}{\kf14}Come{\kf10} to{\kf14} par{\kf14}ty{\kf18} all{\kf50} night
+Dialogue: 0,0:01:32.80,0:01:34.30,DEFAULT,,0,0,0,,{\r}{\kf42}Ey{\kf38} Oh{\kf17} Ey{\kf21} Oh{\kf32} Ha!
+Dialogue: 0,0:01:34.42,0:01:35.47,DEFAULT,,0,0,0,,{\r}{\kf14}Let's{\kf10} go{\kf29} dance{\kf29} to{\kf14}get{\kf10}her
+Dialogue: 0,0:01:35.54,0:01:37.60,DEFAULT,,0,0,0,,{\r}{\kf10}Un{\kf10}der{\kf20} the{\kf32} moon{\kf134}light
+Dialogue: 0,0:01:38.58,0:01:40.64,DEFAULT,,0,0,0,,{\r}{\kf26}Tend{\kf13} the{\kf26} bur{\kf39}dens{\kf18} your{\kf18} heart{\kf35} car{\kf31}ries
+Dialogue: 0,0:01:40.79,0:01:42.52,DEFAULT,,0,0,0,,{\r}{\kf22}Come{\kf10} a{\kf31}long{\kf35} and{\kf22} join{\kf13} the{\kf40} fun!
+Dialogue: 0,0:01:42.82,0:01:44.88,DEFAULT,,0,0,0,,{\r}{\kf20}Loo{\kf20}sen{\kf20} up,{\kf39} for{\kf25}get{\kf20} your{\kf29} wor{\kf33}ries
+Dialogue: 0,0:01:45.03,0:01:46.90,DEFAULT,,0,0,0,,{\r}{\kf26}Dance{\kf13} with{\kf22} me,{\kf39} the{\kf31} night{\kf13} is{\kf44} young
+Dialogue: 0,0:01:47.13,0:01:49.08,DEFAULT,,0,0,0,,{\r}{\kf21}This{\kf16} is{\kf21} awe{\kf32}some,{\kf21} this{\kf16} is{\kf68} crazy
+Dialogue: 0,0:01:49.27,0:01:51.25,DEFAULT,,0,0,0,,{\r}{\kf23}There{\kf14} is{\kf23} ma{\kf32}gic{\kf32} in{\kf23} the{\kf52} air
+Dialogue: 0,0:01:51.44,0:01:53.43,DEFAULT,,0,0,0,,{\r}{\kf24}Give{\kf15} in{\kf29} to{\kf39} the{\kf15} Mid{\kf19}night{\kf24} Fren{\kf34}zy
+Dialogue: 0,0:01:53.58,0:01:55.75,DEFAULT,,0,0,0,,{\r}{\kf22}Par{\kf13}ty{\kf31} on{\kf18} with{\kf27}out{\kf18} a{\kf88} care!
+Dialogue: 0,0:01:56.09,0:01:57.82,DEFAULT,,0,0,0,,{\r}{\kf55}Ey{\kf42} Oh{\kf25} Ey{\kf21} Oh{\kf30} Ha!
+Dialogue: 0,0:01:57.97,0:01:58.83,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf11} won't{\kf23} let{\kf17} you{\kf18} sleep
+Dialogue: 0,0:01:58.98,0:02:00.22,DEFAULT,,0,0,0,,{\r}{\kf14}Come{\kf10} to{\kf18} par{\kf14}ty{\kf18} all{\kf50} night
+Dialogue: 0,0:02:00.63,0:02:02.13,DEFAULT,,0,0,0,,{\r}{\kf54}Ey{\kf29} Oh{\kf17} Ey{\kf21} Oh{\kf29} Ha!
+Dialogue: 0,0:02:02.24,0:02:03.25,DEFAULT,,0,0,0,,{\r}{\kf10}Let's{\kf14} go{\kf28} dance{\kf23} to{\kf14}get{\kf12}her
+Dialogue: 0,0:02:03.37,0:02:06.03,DEFAULT,,0,0,0,,{\r}{\kf12}Un{\kf12}der{\kf20} the{\kf24} moon{\kf198}light
+Dialogue: 0,0:02:06.85,0:02:08.54,DEFAULT,,0,0,0,,{\r}{\kf22}You{\kf13} are{\kf22} too{\kf31} young{\kf10} to{\kf13} be{\kf18} up{\kf40} late!
+Dialogue: 0,0:02:08.95,0:02:10.79,DEFAULT,,0,0,0,,{\r}{\kf46}Loosen{\kf21} up{\kf21} and{\kf96} celebrate!
+Dialogue: 0,0:02:11.13,0:02:12.59,DEFAULT,,0,0,0,,{\r}{\kf34}Hooves{\kf21} are{\kf26} banging{\kf13} on{\kf10} the{\kf42} floor!
+Dialogue: 0,0:02:13.15,0:02:15.18,DEFAULT,,0,0,0,,{\r}{\kf35}That's{\kf10} a{\kf20} nice{\kf45} beat,{\kf20} do{\kf25} some{\kf48} more!
+Dialogue: 0,0:02:15.40,0:02:17.13,DEFAULT,,0,0,0,,{\r}{\kf57}Ey{\kf41} Oh{\kf25} Ey{\kf20} Oh{\kf29} Ha!
+Dialogue: 0,0:02:17.32,0:02:18.18,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf11} won't{\kf21} let{\kf21} you{\kf17} sleep
+Dialogue: 0,0:02:18.33,0:02:19.53,DEFAULT,,0,0,0,,{\r}{\kf13}Come{\kf13} to{\kf13} par{\kf13}ty{\kf22} all{\kf46} night
+Dialogue: 0,0:02:19.90,0:02:21.37,DEFAULT,,0,0,0,,{\r}{\kf50}Ey{\kf33} Oh{\kf17} Ey{\kf17} Oh{\kf29} Ha!
+Dialogue: 0,0:02:21.52,0:02:22.57,DEFAULT,,0,0,0,,{\r}{\kf14}Let's{\kf10} go{\kf33} dance{\kf24} to{\kf14}get{\kf10}her
+Dialogue: 0,0:02:22.64,0:02:23.77,DEFAULT,,0,0,0,,{\r}{\kf13}The{\kf10} moon's{\kf26} shi{\kf26}ning{\kf37} bright
+Dialogue: 0,0:02:24.03,0:02:25.72,DEFAULT,,0,0,0,,{\r}{\kf49}Ey{\kf41} Oh{\kf29} Ey{\kf25} Oh{\kf25} Ha!
+Dialogue: 0,0:02:25.90,0:02:26.80,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf15} won't{\kf25} let{\kf15} you{\kf25} sleep
+Dialogue: 0,0:02:26.95,0:02:28.19,DEFAULT,,0,0,0,,{\r}{\kf10}Come{\kf10} to{\kf14} par{\kf14}ty{\kf23} all{\kf53} night
+Dialogue: 0,0:02:28.45,0:02:29.95,DEFAULT,,0,0,0,,{\r}{\kf46}Ey{\kf42} Oh{\kf17} Ey{\kf17} Oh{\kf28} Ha!
+Dialogue: 0,0:02:30.10,0:02:31.12,DEFAULT,,0,0,0,,{\r}{\kf16}Let's{\kf16} go{\kf27} dance{\kf16} to{\kf16}get{\kf10}her
+Dialogue: 0,0:02:31.23,0:02:32.32,DEFAULT,,0,0,0,,{\r}{\kf10}The{\kf13} moon's{\kf22} shi{\kf26}ning{\kf38} bright

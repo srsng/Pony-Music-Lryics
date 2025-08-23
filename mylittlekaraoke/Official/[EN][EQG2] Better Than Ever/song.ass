@@ -1,52 +1,59 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Better Than Ever
+Artist: Equestria Girls - Rainbow Rocks
+Original Timing: mylittlekaraoke.com by Smilley/RD1042
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.83,0:00:01.91,DEFAULT,,0,0,0,,{\kf21}One{\kf31} two{\kf21} three!
-Dialogue: 0,0:00:02.11,0:00:04.10,DEFAULT,,0,0,0,,{\kf26}There{\kf26} was{\kf11} a{\kf26} time{\kf16} we{\kf21} were{\kf11} a{\kf26}part
-Dialogue: 0,0:00:04.31,0:00:06.15,DEFAULT,,0,0,0,,{\kf16}But{\kf21} that's{\kf11} be{\kf26}hind{\kf11} us{\kf36} no{\kf26}-ow
-Dialogue: 0,0:00:06.51,0:00:08.50,DEFAULT,,0,0,0,,{\kf16}See{\kf26} how{\kf21} we've{\kf26} made{\kf11} a{\kf21} brand{\kf11} new{\kf31} start
-Dialogue: 0,0:00:08.96,0:00:10.65,DEFAULT,,0,0,0,,{\kf21}And{\kf6} the{\kf21} fu{\kf26}ture's{\kf16} look{\kf36}in'{\kf16} up
-Dialogue: 0,0:00:10.85,0:00:11.88,DEFAULT,,0,0,0,,{\kf21}Ah{\kf16} oh{\kf26} ah{\kf21} oh
-Dialogue: 0,0:00:12.08,0:00:13.51,DEFAULT,,0,0,0,,{\kf11}And{\kf21} when{\kf11} you{\kf16} walk{\kf16} these{\kf31} halls
-Dialogue: 0,0:00:13.62,0:00:15.35,DEFAULT,,0,0,0,,{\kf11}You{\kf21} feel{\kf16} it{\kf21} eve{\kf21}ry{\kf62}where
-Dialogue: 0,0:00:16.27,0:00:18.83,DEFAULT,,0,0,0,,{\kf21}Yeah,{\kf21} we're{\kf11} the{\kf26} Won{\kf16}der{\kf26}colts{\kf31} for{\kf36}e{\kf21}ver
-Dialogue: 0,0:00:19.14,0:00:20.16,DEFAULT,,0,0,0,,{\kf21} Ah{\kf36} oh,{\kf31} yeah
-Dialogue: 0,0:00:20.36,0:00:22.92,DEFAULT,,0,0,0,,{\kf47}We{\kf41} are{\kf41} all{\kf21} to{\kf21}get{\kf41}her
-Dialogue: 0,0:00:23.13,0:00:24.66,DEFAULT,,0,0,0,,{\kf16}Ah{\kf16} ah{\kf21} ah{\kf16} ah{\kf16} ah{\kf31} oh
-Dialogue: 0,0:00:24.76,0:00:27.22,DEFAULT,,0,0,0,,{\kf41}Now{\kf47} it's{\kf26} bet{\kf21}ter{\kf21} than{\kf21} e{\kf31}ver
-Dialogue: 0,0:00:27.47,0:00:29.06,DEFAULT,,0,0,0,,{\kf16}Ah{\kf21} ah{\kf26} ah{\kf11} ah{\kf16} ah{\kf31} oh
-Dialogue: 0,0:00:29.36,0:00:32.43,DEFAULT,,0,0,0,,{\kf21}You{\kf21} can{\kf31} fe{\kf31}-el{\kf36} it,{\kf21} we{\kf52} are{\kf31} back
-Dialogue: 0,0:00:32.74,0:00:36.22,DEFAULT,,0,0,0,,{\kf31}And{\kf41} I'm{\kf47} so{\kf47} glad{\kf11} that{\kf26} we're{\kf26} bet{\kf57}ter
-Dialogue: 0,0:00:36.73,0:00:38.26,DEFAULT,,0,0,0,,{\kf31}Bet{\kf21}ter{\kf16} than{\kf26} e{\kf41}ver
-Dialogue: 0,0:00:38.42,0:00:40.20,DEFAULT,,0,0,0,,{\kf16}Wah{\kf52} oh,{\kf16} oh{\kf26} wah{\kf47} oh
-Dialogue: 0,0:00:40.31,0:00:42.56,DEFAULT,,0,0,0,,{\kf21}Oh{\kf26} yeah,{\kf21} we're{\kf26} bet{\kf26}ter{\kf21} than{\kf21} e{\kf41}ver
-Dialogue: 0,0:00:42.76,0:00:44.60,DEFAULT,,0,0,0,,{\kf16}Wah{\kf47} oh,{\kf21} oh{\kf21} wah{\kf52} oh
-Dialogue: 0,0:00:45.73,0:00:47.87,DEFAULT,,0,0,0,,{\kf21}There{\kf26} was{\kf11} a{\kf26} time{\kf11} we{\kf26} could{\kf16}n't{\kf41} see
-Dialogue: 0,0:00:48.18,0:00:49.61,DEFAULT,,0,0,0,,{\kf26}Past{\kf11} the{\kf26} diffe{\kf16}ren{\kf47}ces
-Dialogue: 0,0:00:50.12,0:00:52.17,DEFAULT,,0,0,0,,{\kf16}That{\kf21} se{\kf16}pa{\kf31}ra{\kf16}ted{\kf21} you{\kf16} and{\kf31} me
-Dialogue: 0,0:00:52.58,0:00:54.42,DEFAULT,,0,0,0,,{\kf21}And{\kf11} it{\kf26} left{\kf16} us{\kf26} on{\kf26} our{\kf26} own
-Dialogue: 0,0:00:55.54,0:00:57.18,DEFAULT,,0,0,0,,{\kf16}But{\kf21} now{\kf11} you{\kf16} walk{\kf16} these{\kf41} halls
-Dialogue: 0,0:00:57.28,0:00:59.12,DEFAULT,,0,0,0,,{\kf16}And{\kf26} friends{\kf11} are{\kf21} eve{\kf21}ry{\kf72}where
-Dialogue: 0,0:00:59.84,0:01:02.50,DEFAULT,,0,0,0,,{\kf31}Yeah,{\kf21} we're{\kf11} the{\kf26} Won{\kf16}der{\kf36}colts{\kf26} for{\kf36}e{\kf26}ver
-Dialogue: 0,0:01:02.81,0:01:03.83,DEFAULT,,0,0,0,,{\kf16}Ah{\kf36} oh,{\kf31} yeah!
-Dialogue: 0,0:01:04.03,0:01:06.59,DEFAULT,,0,0,0,,{\kf41}We{\kf41} are{\kf41} all{\kf21} to{\kf26}get{\kf41}her
-Dialogue: 0,0:01:06.74,0:01:08.23,DEFAULT,,0,0,0,,{\kf16}Ah{\kf16} ah{\kf21} ah{\kf11} ah{\kf11} ah{\kf26} oh
-Dialogue: 0,0:01:08.38,0:01:10.99,DEFAULT,,0,0,0,,{\kf47}Now{\kf41} it's{\kf31} bet{\kf21}ter{\kf26} than{\kf21} e{\kf41}ver
-Dialogue: 0,0:01:11.14,0:01:12.67,DEFAULT,,0,0,0,,{\kf11}Ah{\kf16} ah{\kf16} ah{\kf16} ah{\kf11} ah{\kf36} oh
-Dialogue: 0,0:01:12.93,0:01:16.10,DEFAULT,,0,0,0,,{\kf36}Now{\kf21} that{\kf26} we{\kf21}-e{\kf47} are{\kf31} back{\kf41} on{\kf41} track
-Dialogue: 0,0:01:16.30,0:01:19.78,DEFAULT,,0,0,0,,{\kf26}Yes{\kf31} I'm{\kf47} so{\kf41} glad{\kf11} that{\kf36} we're{\kf26} bet{\kf52}ter
-Dialogue: 0,0:01:20.40,0:01:21.83,DEFAULT,,0,0,0,,{\kf26}Bet{\kf21}ter{\kf21} than{\kf26} e{\kf41}ver
-Dialogue: 0,0:01:22.03,0:01:23.77,DEFAULT,,0,0,0,,{\kf16}Wah{\kf41} oh,{\kf21} oh{\kf16} wah{\kf41} oh
-Dialogue: 0,0:01:23.98,0:01:26.12,DEFAULT,,0,0,0,,{\kf21}Oh{\kf21} yeah,{\kf16} we're{\kf26} bet{\kf21}ter{\kf21} than{\kf21} e{\kf36}ver
-Dialogue: 0,0:01:26.33,0:01:28.17,DEFAULT,,0,0,0,,{\kf16}Wah{\kf47} oh,{\kf16} oh{\kf26} wah{\kf41} oh
-Dialogue: 0,0:01:28.37,0:01:30.42,DEFAULT,,0,0,0,,{\kf16}Oh{\kf26} yeah,{\kf21} we're{\kf26} bet{\kf21}ter{\kf21} than{\kf21} e{\kf26}ver
-Dialogue: 0,0:01:30.72,0:01:32.46,DEFAULT,,0,0,0,,{\kf16}Wah{\kf41} oh,{\kf16} oh{\kf21} wah{\kf36} oh
-Dialogue: 0,0:01:32.67,0:01:34.92,DEFAULT,,0,0,0,,{\kf16}Oh{\kf26} yeah,{\kf21} we're{\kf26} bet{\kf21}ter{\kf16} than{\kf21} e{\kf41}ver
+Dialogue: 0,0:00:00.84,0:00:01.91,DEFAULT,,0,0,0,,{\r}{\kf31}One{\kf46} two{\kf30} three!
+Dialogue: 0,0:00:02.12,0:00:04.11,DEFAULT,,0,0,0,,{\r}{\kf32}There{\kf32} was{\kf13} a{\kf32} time{\kf19} we{\kf26} were{\kf13} a{\kf32}part
+Dialogue: 0,0:00:04.31,0:00:06.15,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf26} that's{\kf13} be{\kf33}hind{\kf13} us{\kf46} no{\kf33}-ow
+Dialogue: 0,0:00:06.51,0:00:08.51,DEFAULT,,0,0,0,,{\r}{\kf19}See{\kf32} how{\kf26} we've{\kf32} made{\kf13} a{\kf26} brand{\kf13} new{\kf38} start
+Dialogue: 0,0:00:08.97,0:00:10.65,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf10} the{\kf25} fu{\kf31}ture's{\kf19} look{\kf44}in'{\kf15} up
+Dialogue: 0,0:00:10.86,0:00:11.88,DEFAULT,,0,0,0,,{\r}{\kf26}Ah{\kf19} oh{\kf32} ah{\kf25} oh
+Dialogue: 0,0:00:12.09,0:00:13.52,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf29} when{\kf14} you{\kf21} walk{\kf21} these{\kf44} halls
+Dialogue: 0,0:00:13.62,0:00:15.36,DEFAULT,,0,0,0,,{\r}{\kf12}You{\kf24} feel{\kf18} it{\kf24} eve{\kf24}ry{\kf72}where
+Dialogue: 0,0:00:16.28,0:00:18.84,DEFAULT,,0,0,0,,{\r}{\kf26}Yeah,{\kf26} we're{\kf13} the{\kf32} Won{\kf19}der{\kf32}colts{\kf38} for{\kf45}e{\kf25}ver
+Dialogue: 0,0:00:19.14,0:00:20.17,DEFAULT,,0,0,0,,{\r}{\kf24} Ah{\kf42} oh,{\kf36} yeah
+Dialogue: 0,0:00:20.37,0:00:22.93,DEFAULT,,0,0,0,,{\r}{\kf56}We{\kf50} are{\kf50} all{\kf25} to{\kf25}get{\kf50}her
+Dialogue: 0,0:00:23.13,0:00:24.67,DEFAULT,,0,0,0,,{\r}{\kf21}Ah{\kf21} ah{\kf28} ah{\kf21} ah{\kf21} ah{\kf41} oh
+Dialogue: 0,0:00:24.77,0:00:27.22,DEFAULT,,0,0,0,,{\r}{\kf49}Now{\kf55} it's{\kf31} bet{\kf25}ter{\kf25} than{\kf25} e{\kf35}ver
+Dialogue: 0,0:00:27.48,0:00:29.06,DEFAULT,,0,0,0,,{\r}{\kf21}Ah{\kf28} ah{\kf35} ah{\kf14} ah{\kf21} ah{\kf40} oh
+Dialogue: 0,0:00:29.37,0:00:32.44,DEFAULT,,0,0,0,,{\r}{\kf26}You{\kf26} can{\kf39} fe{\kf39}-el{\kf46} it,{\kf26} we{\kf65} are{\kf40} back
+Dialogue: 0,0:00:32.74,0:00:36.22,DEFAULT,,0,0,0,,{\r}{\kf38}And{\kf51} I'm{\kf57} so{\kf57} glad{\kf13} that{\kf32} we're{\kf32} bet{\kf68}ter
+Dialogue: 0,0:00:36.73,0:00:38.27,DEFAULT,,0,0,0,,{\r}{\kf35}Bet{\kf24}ter{\kf18} than{\kf29} e{\kf47}ver
+Dialogue: 0,0:00:38.42,0:00:40.21,DEFAULT,,0,0,0,,{\r}{\kf18}Wah{\kf60} oh,{\kf18} oh{\kf30} wah{\kf53} oh
+Dialogue: 0,0:00:40.31,0:00:42.56,DEFAULT,,0,0,0,,{\r}{\kf23}Oh{\kf29} yeah,{\kf23} we're{\kf29} bet{\kf29}ter{\kf23} than{\kf23} e{\kf46}ver
+Dialogue: 0,0:00:42.77,0:00:44.61,DEFAULT,,0,0,0,,{\r}{\kf18}Wah{\kf55} oh,{\kf25} oh{\kf25} wah{\kf61} oh
+Dialogue: 0,0:00:45.73,0:00:47.88,DEFAULT,,0,0,0,,{\r}{\kf25}There{\kf32} was{\kf13} a{\kf32} time{\kf13} we{\kf32} could{\kf19}n't{\kf49} see
+Dialogue: 0,0:00:48.19,0:00:49.62,DEFAULT,,0,0,0,,{\r}{\kf30}Past{\kf12} the{\kf30} diffe{\kf18}ren{\kf53}ces
+Dialogue: 0,0:00:50.13,0:00:52.17,DEFAULT,,0,0,0,,{\r}{\kf19}That{\kf26} se{\kf19}pa{\kf38}ra{\kf19}ted{\kf26} you{\kf19} and{\kf39} me
+Dialogue: 0,0:00:52.58,0:00:54.42,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf13} it{\kf32} left{\kf19} us{\kf32} on{\kf32} our{\kf31} own
+Dialogue: 0,0:00:55.55,0:00:57.19,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf29} now{\kf14} you{\kf21} walk{\kf21} these{\kf58} halls
+Dialogue: 0,0:00:57.29,0:00:59.13,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf29} friends{\kf12} are{\kf23} eve{\kf23}ry{\kf80}where
+Dialogue: 0,0:00:59.85,0:01:02.50,DEFAULT,,0,0,0,,{\r}{\kf36}Yeah,{\kf24} we're{\kf12} the{\kf30} Won{\kf18}der{\kf42}colts{\kf30} for{\kf42}e{\kf32}ver
+Dialogue: 0,0:01:02.81,0:01:03.83,DEFAULT,,0,0,0,,{\r}{\kf19}Ah{\kf45} oh,{\kf38} yeah!
+Dialogue: 0,0:01:04.04,0:01:06.59,DEFAULT,,0,0,0,,{\r}{\kf50}We{\kf50} are{\kf50} all{\kf25} to{\kf31}get{\kf50}her
+Dialogue: 0,0:01:06.75,0:01:08.23,DEFAULT,,0,0,0,,{\r}{\kf23}Ah{\kf23} ah{\kf31} ah{\kf16} ah{\kf16} ah{\kf39} oh
+Dialogue: 0,0:01:08.38,0:01:10.99,DEFAULT,,0,0,0,,{\r}{\kf53}Now{\kf47} it's{\kf36} bet{\kf24}ter{\kf30} than{\kf24} e{\kf47}ver
+Dialogue: 0,0:01:11.15,0:01:12.68,DEFAULT,,0,0,0,,{\r}{\kf15}Ah{\kf23} ah{\kf23} ah{\kf23} ah{\kf15} ah{\kf54} oh
+Dialogue: 0,0:01:12.94,0:01:16.11,DEFAULT,,0,0,0,,{\r}{\kf44}Now{\kf25} that{\kf31} we{\kf25}-e{\kf56} are{\kf37} back{\kf50} on{\kf49} track
+Dialogue: 0,0:01:16.31,0:01:19.79,DEFAULT,,0,0,0,,{\r}{\kf33}Yes{\kf40} I'm{\kf60} so{\kf54} glad{\kf13} that{\kf47} we're{\kf33} bet{\kf68}ter
+Dialogue: 0,0:01:20.40,0:01:21.83,DEFAULT,,0,0,0,,{\r}{\kf28}Bet{\kf22}ter{\kf22} than{\kf28} e{\kf43}ver
+Dialogue: 0,0:01:22.04,0:01:23.78,DEFAULT,,0,0,0,,{\r}{\kf20}Wah{\kf54} oh,{\kf27} oh{\kf20} wah{\kf53} oh
+Dialogue: 0,0:01:23.98,0:01:26.13,DEFAULT,,0,0,0,,{\r}{\kf25}Oh{\kf25} yeah,{\kf18} we're{\kf31} bet{\kf25}ter{\kf25} than{\kf25} e{\kf41}ver
+Dialogue: 0,0:01:26.33,0:01:28.17,DEFAULT,,0,0,0,,{\r}{\kf20}Wah{\kf59} oh,{\kf20} oh{\kf33} wah{\kf52} oh
+Dialogue: 0,0:01:28.38,0:01:30.42,DEFAULT,,0,0,0,,{\r}{\kf18}Oh{\kf30} yeah,{\kf24} we're{\kf30} bet{\kf24}ter{\kf24} than{\kf24} e{\kf31}ver
+Dialogue: 0,0:01:30.73,0:01:32.47,DEFAULT,,0,0,0,,{\r}{\kf21}Wah{\kf56} oh,{\kf21} oh{\kf28} wah{\kf48} oh
+Dialogue: 0,0:01:32.67,0:01:34.92,DEFAULT,,0,0,0,,{\r}{\kf19}Oh{\kf31} yeah,{\kf25} we're{\kf31} bet{\kf25}ter{\kf19} than{\kf25} e{\kf50}ver

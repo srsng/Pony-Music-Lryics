@@ -1,59 +1,66 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Awoken
+Artist: H8_Seed+Glaze
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:34.23,0:00:36.35,DEFAULT,,0,0,0,,{\kf18}What{\kf18} cause{\kf18} have{\kf27} I{\kf14} to{\kf14} feel{\kf31} glad?
-Dialogue: 0,0:00:36.44,0:00:40.01,DEFAULT,,0,0,0,,{\kf23}I've{\kf18} built{\kf23} my{\kf18} life{\kf18} on{\kf23} judge{\kf14}ment{\kf14} and{\kf23} cau{\kf14}sing{\kf27} pain{\kf36}~
-Dialogue: 0,0:00:40.41,0:00:44.38,DEFAULT,,0,0,0,,{\kf14}I{\kf14} don't{\kf45} know{\kf18} those{\kf18} eyes{\kf14} I{\kf27} see{\kf14} in{\kf14} the{\kf18} blood{\kf14}-stained{\kf23} chrome{\kf49}~
-Dialogue: 0,0:00:45.70,0:00:47.73,DEFAULT,,0,0,0,,{\kf23}Now{\kf14} e{\kf14}very{\kf14} thing{\kf14} that{\kf14} I've{\kf36} had
-Dialogue: 0,0:00:47.86,0:00:51.44,DEFAULT,,0,0,0,,{\kf14}And{\kf14} e{\kf18}very{\kf18} thing{\kf18} I've{\kf23} known{\kf14} have{\kf18} been{\kf23} thrown{\kf14} a{\kf67}way
-Dialogue: 0,0:00:51.70,0:00:56.07,DEFAULT,,0,0,0,,{\kf14}And{\kf14} with{\kf36} time,{\kf18} I've{\kf23} come{\kf23} to{\kf18} find{\kf23} this{\kf18} is{\kf18}n't{\kf18} my{\kf27} ho{\kf67}me
-Dialogue: 0,0:00:56.69,0:00:58.94,DEFAULT,,0,0,0,,{\kf53}I've{\kf18} stoked{\kf9} the{\kf27} fi{\kf62}re
-Dialogue: 0,0:00:59.07,0:01:01.94,DEFAULT,,0,0,0,,{\kf14}Seen{\kf14} more{\kf18} pain{\kf18} than{\kf23} you{\kf14} can{\kf58} know{\kf14}~{\kf58}~
-Dialogue: 0,0:01:02.33,0:01:07.14,DEFAULT,,0,0,0,,{\kf14}The{\kf23} tears{\kf23} of{\kf18} the{\kf27} bro{\kf49}ken{\kf23} have{\kf23} washed{\kf14} a{\kf27}way{\kf14} my{\kf31} soul{\kf75}~
-Dialogue: 0,0:01:08.29,0:01:10.05,DEFAULT,,0,0,0,,{\kf14}Pushed{\kf18} by{\kf18} de{\kf23}si{\kf71}re
-Dialogue: 0,0:01:10.14,0:01:12.88,DEFAULT,,0,0,0,,{\kf14}To{\kf14} change{\kf14} the{\kf18} way{\kf18} my{\kf23} stream{\kf14} will{\kf115} flow
-Dialogue: 0,0:01:13.94,0:01:18.61,DEFAULT,,0,0,0,,{\kf18}Now{\kf23} I've{\kf18} a{\kf31}wo{\kf49}ken,{\kf14} and{\kf14} I'm{\kf18} ta{\kf23}king{\kf23} back{\kf14} con{\kf128}trol
-Dialogue: 0,0:01:19.54,0:01:22.58,DEFAULT,,0,0,0,,{\kf14}I{\kf23} try{\kf18} my{\kf18} best{\kf14} to{\kf23} block{\kf23} out{\kf14} the{\kf84} screams
-Dialogue: 0,0:01:22.67,0:01:24.97,DEFAULT,,0,0,0,,{\kf14}But{\kf27} they're{\kf23} haun{\kf14}ting{\kf18} me{\kf27} in{\kf23} my{\kf23} dreams
-Dialogue: 0,0:01:25.05,0:01:28.41,DEFAULT,,0,0,0,,{\kf27}Please,{\kf14} break{\kf14} my{\kf31} sha{\kf23}ckles,{\kf14} I{\kf14} want{\kf14} it{\kf14} to{\kf93} stop
-Dialogue: 0,0:01:53.38,0:01:55.41,DEFAULT,,0,0,0,,{\kf27}I{\kf18} man{\kf14} these{\kf23} wret{\kf14}ched{\kf14} ma{\kf45}chines
-Dialogue: 0,0:01:55.49,0:01:59.11,DEFAULT,,0,0,0,,{\kf23}Day{\kf23} in,{\kf23} day{\kf23} out,{\kf14} the{\kf23} grin{\kf14}ding{\kf23} wears{\kf23} on{\kf14} my{\kf14} brain{\kf40} ~
-Dialogue: 0,0:01:59.29,0:02:01.54,DEFAULT,,0,0,0,,{\kf27}Un{\kf31}der{\kf36}mi{\kf14}ning{\kf18} my{\kf27} sa{\kf14}ni{\kf40}ty
-Dialogue: 0,0:02:02.07,0:02:04.49,DEFAULT,,0,0,0,,{\kf18}Ma{\kf14}king{\kf14} me{\kf27} ques{\kf14}tion{\kf14} my{\kf14} re{\kf14}a{\kf14}li{\kf53}ty
-Dialogue: 0,0:02:04.58,0:02:06.70,DEFAULT,,0,0,0,,{\kf23}But{\kf14} life{\kf18} is{\kf27} not{\kf14} as{\kf14} it{\kf36} seems
-Dialogue: 0,0:02:06.79,0:02:10.41,DEFAULT,,0,0,0,,{\kf14}Should{\kf9} I{\kf14} take{\kf14} a{\kf14} chance{\kf9} for{\kf14} free{\kf14}dom{\kf14} and{\kf27} throw{\kf14} it{\kf23} all{\kf23} down{\kf14} the{\kf58} drain?
-Dialogue: 0,0:02:10.49,0:02:14.77,DEFAULT,,0,0,0,,{\kf9}I've{\kf14} been{\kf27} im{\kf36}pri{\kf67}soned,{\kf23} please{\kf14} burn{\kf14} my{\kf23} trans{\kf14}gres{\kf14}sions{\kf18} a{\kf36}way{\kf36}~
-Dialogue: 0,0:02:15.57,0:02:17.95,DEFAULT,,0,0,0,,{\kf58}I've{\kf23} stoked{\kf14} the{\kf27} fi{\kf71}re
-Dialogue: 0,0:02:18.04,0:02:21.04,DEFAULT,,0,0,0,,{\kf14}Seen{\kf14} more{\kf14} pain{\kf23} than{\kf23} you{\kf14} can{\kf49} know{\kf14}~{\kf71}~
-Dialogue: 0,0:02:21.35,0:02:26.29,DEFAULT,,0,0,0,,{\kf14}The{\kf23} tears{\kf23} of{\kf14} the{\kf27} bro{\kf53}ken{\kf23} have{\kf23} washed{\kf14} a{\kf31}way{\kf14} my{\kf23} soul{\kf89}~
-Dialogue: 0,0:02:27.26,0:02:28.98,DEFAULT,,0,0,0,,{\kf23}Pushed{\kf18} by{\kf23} de{\kf23}si{\kf49}re
-Dialogue: 0,0:02:29.16,0:02:31.94,DEFAULT,,0,0,0,,{\kf14}To{\kf14} change{\kf14} the{\kf14} way{\kf23} my{\kf23} stream{\kf14} will{\kf106} flow
-Dialogue: 0,0:02:32.91,0:02:37.54,DEFAULT,,0,0,0,,{\kf23}Now{\kf23} I've{\kf14} a{\kf31}wo{\kf53}ken,{\kf14} and{\kf14} I'm{\kf18} ta{\kf18}king{\kf23} back{\kf14} con{\kf111}trol
-Dialogue: 0,0:02:38.60,0:02:41.60,DEFAULT,,0,0,0,,{\kf18}I{\kf14} try{\kf23} my{\kf23} best{\kf14} to{\kf23} block{\kf23} out{\kf14} the{\kf75} screams
-Dialogue: 0,0:02:41.69,0:02:44.16,DEFAULT,,0,0,0,,{\kf14}But{\kf23} they're{\kf27} haun{\kf14}ting{\kf23} me{\kf27} in{\kf27} my{\kf36} dreams
-Dialogue: 0,0:02:44.29,0:02:47.51,DEFAULT,,0,0,0,,{\kf14}Please,{\kf14} break{\kf14} my{\kf23} sha{\kf23}ckles,{\kf14} I{\kf14} want{\kf14} it{\kf18} to{\kf89} stop
-Dialogue: 0,0:03:12.13,0:03:14.33,DEFAULT,,0,0,0,,{\kf45}I've{\kf18} stoked{\kf18} the{\kf23} fi{\kf67}re
-Dialogue: 0,0:03:14.47,0:03:17.51,DEFAULT,,0,0,0,,{\kf14}Seen{\kf14} more{\kf18} pain{\kf18} than{\kf23} you{\kf14} can{\kf49} know{\kf18}~{\kf67}~
-Dialogue: 0,0:03:17.82,0:03:22.80,DEFAULT,,0,0,0,,{\kf14}The{\kf27} tears{\kf23} of{\kf14} the{\kf27} bro{\kf45}ken{\kf23} have{\kf23} washed{\kf18} a{\kf23}way{\kf18} my{\kf23} soul{\kf89}~
-Dialogue: 0,0:03:23.69,0:03:25.67,DEFAULT,,0,0,0,,{\kf23}Pushed{\kf23} by{\kf23} de{\kf23}si{\kf71}re
-Dialogue: 0,0:03:25.76,0:03:28.49,DEFAULT,,0,0,0,,{\kf9}To{\kf9} change{\kf9} the{\kf23} way{\kf18} my{\kf23} stream{\kf14} will{\kf124} flow
-Dialogue: 0,0:03:29.38,0:03:33.92,DEFAULT,,0,0,0,,{\kf18}Now{\kf18} I've{\kf23} a{\kf27}wo{\kf58}ken,{\kf14} and{\kf14} I'm{\kf23} ta{\kf18}king{\kf18} back{\kf14} con{\kf106}trol
-Dialogue: 0,0:03:35.02,0:03:37.01,DEFAULT,,0,0,0,,{\kf23}I'm{\kf14} sick{\kf23} of{\kf18} hur{\kf45}ting{\kf27}~
-Dialogue: 0,0:03:37.10,0:03:40.01,DEFAULT,,0,0,0,,{\kf14}Sick{\kf14} of{\kf14} thin{\kf14}king{\kf14} it's{\kf27} all{\kf14} I{\kf62} do{\kf18}~{\kf62}~
-Dialogue: 0,0:03:40.49,0:03:42.48,DEFAULT,,0,0,0,,{\kf14}I{\kf18} break{\kf18} those{\kf18} a{\kf27}round{\kf58} me
-Dialogue: 0,0:03:42.70,0:03:45.26,DEFAULT,,0,0,0,,{\kf27}Those{\kf23} spared{\kf14} are{\kf14} ve{\kf14}ry{\kf98} few
-Dialogue: 0,0:03:45.57,0:03:48.08,DEFAULT,,0,0,0,,{\kf14}But{\kf36} the{\kf23} bright{\kf18} sun{\kf18} is{\kf27} bur{\kf62}ning
-Dialogue: 0,0:03:48.39,0:03:50.95,DEFAULT,,0,0,0,,{\kf14}And{\kf14} my{\kf14} sky{\kf23} shines,{\kf27} e{\kf18}ver{\kf106} blue
-Dialogue: 0,0:03:51.97,0:03:53.77,DEFAULT,,0,0,0,,{\kf27}Friend{\kf23}ships{\kf18} sur{\kf23}round{\kf62} me
-Dialogue: 0,0:03:53.99,0:03:56.86,DEFAULT,,0,0,0,,{\kf14}I'm{\kf14} be{\kf18}co{\kf14}ming{\kf18} a{\kf27} part{\kf14} of{\kf137} you
-Dialogue: 0,0:03:57.39,0:04:00.52,DEFAULT,,0,0,0,,{\kf40}I{\kf18} try{\kf23} my{\kf23} best{\kf14} to{\kf18} block{\kf18} out{\kf14} the{\kf71} screams
-Dialogue: 0,0:04:00.74,0:04:03.13,DEFAULT,,0,0,0,,{\kf14}But{\kf23} they're{\kf27} haun{\kf14}ting{\kf27} me{\kf27} in{\kf27} my{\kf27} dreams
-Dialogue: 0,0:04:03.22,0:04:06.74,DEFAULT,,0,0,0,,{\kf23}Please,{\kf14} break{\kf18} my{\kf23} sha{\kf23}ckles,{\kf14} I{\kf14} want{\kf14} it{\kf14} to{\kf106} stop
+Dialogue: 0,0:00:34.23,0:00:36.35,DEFAULT,,0,0,0,,{\r}{\kf27}What{\kf27} cause{\kf27} have{\kf41} I{\kf21} to{\kf21} feel{\kf48} glad?
+Dialogue: 0,0:00:36.44,0:00:40.01,DEFAULT,,0,0,0,,{\r}{\kf32}I've{\kf26} built{\kf32} my{\kf26} life{\kf26} on{\kf32} judge{\kf19}ment{\kf19} and{\kf32} cau{\kf19}sing{\kf39} pain{\kf55}~
+Dialogue: 0,0:00:40.41,0:00:44.38,DEFAULT,,0,0,0,,{\r}{\kf19}I{\kf19} don't{\kf64} know{\kf26} those{\kf26} eyes{\kf19} I{\kf38} see{\kf19} in{\kf19} the{\kf26} blood{\kf19}-stained{\kf32} chrome{\kf71}~
+Dialogue: 0,0:00:45.71,0:00:47.73,DEFAULT,,0,0,0,,{\r}{\kf36}Now{\kf22} e{\kf22}very{\kf22} thing{\kf22} that{\kf22} I've{\kf57} had
+Dialogue: 0,0:00:47.87,0:00:51.44,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf20} e{\kf27}very{\kf27} thing{\kf27} I've{\kf34} known{\kf20} have{\kf27} been{\kf34} thrown{\kf20} a{\kf101}way
+Dialogue: 0,0:00:51.71,0:00:56.07,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} with{\kf50} time,{\kf25} I've{\kf31} come{\kf31} to{\kf25} find{\kf31} this{\kf25} is{\kf25}n't{\kf25} my{\kf37} ho{\kf94}me
+Dialogue: 0,0:00:56.69,0:00:58.94,DEFAULT,,0,0,0,,{\r}{\kf71}I've{\kf24} stoked{\kf12} the{\kf36} fi{\kf82}re
+Dialogue: 0,0:00:59.07,0:01:01.94,DEFAULT,,0,0,0,,{\r}{\kf17}Seen{\kf17} more{\kf23} pain{\kf23} than{\kf28} you{\kf17} can{\kf73} know{\kf17}~{\kf72}~
+Dialogue: 0,0:01:02.34,0:01:07.15,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf30} tears{\kf30} of{\kf24} the{\kf36} bro{\kf66}ken{\kf30} have{\kf30} washed{\kf18} a{\kf36}way{\kf18} my{\kf42} soul{\kf103}~
+Dialogue: 0,0:01:08.29,0:01:10.06,DEFAULT,,0,0,0,,{\r}{\kf16}Pushed{\kf22} by{\kf22} de{\kf27}si{\kf89}re
+Dialogue: 0,0:01:10.15,0:01:12.88,DEFAULT,,0,0,0,,{\r}{\kf16}To{\kf16} change{\kf16} the{\kf21} way{\kf21} my{\kf27} stream{\kf16} will{\kf141} flow
+Dialogue: 0,0:01:13.94,0:01:18.62,DEFAULT,,0,0,0,,{\r}{\kf23}Now{\kf28} I've{\kf23} a{\kf39}wo{\kf62}ken,{\kf17} and{\kf17} I'm{\kf23} ta{\kf28}king{\kf28} back{\kf17} con{\kf163}trol
+Dialogue: 0,0:01:19.54,0:01:22.59,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf30} try{\kf24} my{\kf24} best{\kf18} to{\kf30} block{\kf30} out{\kf18} the{\kf112} screams
+Dialogue: 0,0:01:22.68,0:01:24.97,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf37} they're{\kf31} haun{\kf19}ting{\kf25} me{\kf37} in{\kf31} my{\kf30} dreams
+Dialogue: 0,0:01:25.06,0:01:28.41,DEFAULT,,0,0,0,,{\r}{\kf35}Please,{\kf18} break{\kf18} my{\kf41} sha{\kf29}ckles,{\kf18} I{\kf18} want{\kf18} it{\kf18} to{\kf122} stop
+Dialogue: 0,0:01:53.38,0:01:55.41,DEFAULT,,0,0,0,,{\r}{\kf36}I{\kf24} man{\kf18} these{\kf30} wret{\kf18}ched{\kf18} ma{\kf59}chines
+Dialogue: 0,0:01:55.50,0:01:59.12,DEFAULT,,0,0,0,,{\r}{\kf32}Day{\kf32} in,{\kf32} day{\kf32} out,{\kf19} the{\kf32} grin{\kf19}ding{\kf32} wears{\kf32} on{\kf19} my{\kf19} brain{\kf62} ~
+Dialogue: 0,0:01:59.29,0:02:01.54,DEFAULT,,0,0,0,,{\r}{\kf29}Un{\kf34}der{\kf39}mi{\kf15}ning{\kf20} my{\kf29} sa{\kf15}ni{\kf44}ty
+Dialogue: 0,0:02:02.07,0:02:04.50,DEFAULT,,0,0,0,,{\r}{\kf23}Ma{\kf17}king{\kf17} me{\kf34} ques{\kf17}tion{\kf17} my{\kf17} re{\kf17}a{\kf17}li{\kf67}ty
+Dialogue: 0,0:02:04.59,0:02:06.71,DEFAULT,,0,0,0,,{\r}{\kf33}But{\kf20} life{\kf26} is{\kf40} not{\kf20} as{\kf20} it{\kf53} seems
+Dialogue: 0,0:02:06.79,0:02:10.41,DEFAULT,,0,0,0,,{\r}{\kf18}Should{\kf12} I{\kf18} take{\kf18} a{\kf18} chance{\kf12} for{\kf18} free{\kf18}dom{\kf18} and{\kf36} throw{\kf18} it{\kf30} all{\kf30} down{\kf18} the{\kf80} drain?
+Dialogue: 0,0:02:10.50,0:02:14.78,DEFAULT,,0,0,0,,{\r}{\kf11}I've{\kf17} been{\kf34} im{\kf45}pri{\kf84}soned,{\kf28} please{\kf17} burn{\kf17} my{\kf28} trans{\kf17}gres{\kf17}sions{\kf23} a{\kf45}way{\kf45}~
+Dialogue: 0,0:02:15.57,0:02:17.96,DEFAULT,,0,0,0,,{\r}{\kf72}I've{\kf28} stoked{\kf17} the{\kf33} fi{\kf88}re
+Dialogue: 0,0:02:18.04,0:02:21.04,DEFAULT,,0,0,0,,{\r}{\kf17}Seen{\kf17} more{\kf17} pain{\kf29} than{\kf29} you{\kf17} can{\kf63} know{\kf17}~{\kf94}~
+Dialogue: 0,0:02:21.35,0:02:26.29,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf30} tears{\kf30} of{\kf18} the{\kf36} bro{\kf72}ken{\kf30} have{\kf30} washed{\kf18} a{\kf42}way{\kf18} my{\kf30} soul{\kf122}~
+Dialogue: 0,0:02:27.26,0:02:28.99,DEFAULT,,0,0,0,,{\r}{\kf29}Pushed{\kf23} by{\kf29} de{\kf29}si{\kf62}re
+Dialogue: 0,0:02:29.16,0:02:31.94,DEFAULT,,0,0,0,,{\r}{\kf17}To{\kf17} change{\kf17} the{\kf17} way{\kf28} my{\kf28} stream{\kf17} will{\kf137} flow
+Dialogue: 0,0:02:32.91,0:02:37.54,DEFAULT,,0,0,0,,{\r}{\kf29}Now{\kf29} I've{\kf18} a{\kf41}wo{\kf70}ken,{\kf18} and{\kf18} I'm{\kf23} ta{\kf23}king{\kf29} back{\kf18} con{\kf147}trol
+Dialogue: 0,0:02:38.60,0:02:41.60,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf18} try{\kf30} my{\kf30} best{\kf18} to{\kf30} block{\kf30} out{\kf18} the{\kf102} screams
+Dialogue: 0,0:02:41.69,0:02:44.16,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf29} they're{\kf35} haun{\kf18}ting{\kf29} me{\kf35} in{\kf35} my{\kf48} dreams
+Dialogue: 0,0:02:44.29,0:02:47.51,DEFAULT,,0,0,0,,{\r}{\kf19}Please,{\kf19} break{\kf19} my{\kf31} sha{\kf31}ckles,{\kf19} I{\kf19} want{\kf19} it{\kf25} to{\kf121} stop
+Dialogue: 0,0:03:12.13,0:03:14.34,DEFAULT,,0,0,0,,{\r}{\kf58}I've{\kf23} stoked{\kf23} the{\kf29} fi{\kf88}re
+Dialogue: 0,0:03:14.47,0:03:17.51,DEFAULT,,0,0,0,,{\r}{\kf18}Seen{\kf18} more{\kf23} pain{\kf23} than{\kf29} you{\kf18} can{\kf64} know{\kf23}~{\kf88}~
+Dialogue: 0,0:03:17.82,0:03:22.81,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf37} tears{\kf31} of{\kf18} the{\kf37} bro{\kf62}ken{\kf31} have{\kf31} washed{\kf25} a{\kf31}way{\kf25} my{\kf31} soul{\kf122}~
+Dialogue: 0,0:03:23.69,0:03:25.68,DEFAULT,,0,0,0,,{\r}{\kf28}Pushed{\kf28} by{\kf28} de{\kf28}si{\kf87}re
+Dialogue: 0,0:03:25.76,0:03:28.50,DEFAULT,,0,0,0,,{\r}{\kf11}To{\kf11} change{\kf11} the{\kf27} way{\kf21} my{\kf27} stream{\kf16} will{\kf150} flow
+Dialogue: 0,0:03:29.38,0:03:33.93,DEFAULT,,0,0,0,,{\r}{\kf23}Now{\kf23} I've{\kf29} a{\kf35}wo{\kf76}ken,{\kf17} and{\kf17} I'm{\kf29} ta{\kf23}king{\kf23} back{\kf17} con{\kf142}trol
+Dialogue: 0,0:03:35.03,0:03:37.01,DEFAULT,,0,0,0,,{\r}{\kf30}I'm{\kf18} sick{\kf30} of{\kf24} hur{\kf60}ting{\kf37}~
+Dialogue: 0,0:03:37.10,0:03:40.01,DEFAULT,,0,0,0,,{\r}{\kf16}Sick{\kf16} of{\kf16} thin{\kf16}king{\kf16} it's{\kf31} all{\kf16} I{\kf73} do{\kf21}~{\kf70}~
+Dialogue: 0,0:03:40.50,0:03:42.49,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf23} break{\kf23} those{\kf23} a{\kf35}round{\kf77} me
+Dialogue: 0,0:03:42.71,0:03:45.26,DEFAULT,,0,0,0,,{\r}{\kf37}Those{\kf30} spared{\kf18} are{\kf18} ve{\kf18}ry{\kf135} few
+Dialogue: 0,0:03:45.57,0:03:48.09,DEFAULT,,0,0,0,,{\r}{\kf17}But{\kf46} the{\kf29} bright{\kf23} sun{\kf23} is{\kf34} bur{\kf79}ning
+Dialogue: 0,0:03:48.40,0:03:50.96,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf16} my{\kf16} sky{\kf27} shines,{\kf32} e{\kf21}ver{\kf128} blue
+Dialogue: 0,0:03:51.97,0:03:53.78,DEFAULT,,0,0,0,,{\r}{\kf32}Friend{\kf27}ships{\kf21} sur{\kf27}round{\kf74} me
+Dialogue: 0,0:03:54.00,0:03:56.87,DEFAULT,,0,0,0,,{\r}{\kf15}I'm{\kf15} be{\kf20}co{\kf15}ming{\kf20} a{\kf30} part{\kf15} of{\kf157} you
+Dialogue: 0,0:03:57.40,0:04:00.53,DEFAULT,,0,0,0,,{\r}{\kf53}I{\kf24} try{\kf30} my{\kf30} best{\kf18} to{\kf24} block{\kf24} out{\kf18} the{\kf92} screams
+Dialogue: 0,0:04:00.75,0:04:03.13,DEFAULT,,0,0,0,,{\r}{\kf17}But{\kf29} they're{\kf35} haun{\kf17}ting{\kf35} me{\kf35} in{\kf35} my{\kf35} dreams
+Dialogue: 0,0:04:03.22,0:04:06.75,DEFAULT,,0,0,0,,{\r}{\kf30}Please,{\kf18} break{\kf24} my{\kf30} sha{\kf30}ckles,{\kf18} I{\kf18} want{\kf18} it{\kf18} to{\kf149} stop

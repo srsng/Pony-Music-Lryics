@@ -1,48 +1,55 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Everybody's dressed like ponies at the Holiday Inn
+Artist: Kenny Allen
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.21,0:00:05.49,DEFAULT,,0,0,0,,{\kf38}I{\kf30} was{\kf23} hea{\kf19}ded
-Dialogue: 0,0:00:06.24,0:00:07.89,DEFAULT,,0,0,0,,{\kf15}To{\kf30} east{\kf19} Tex{\kf75}as
-Dialogue: 0,0:00:08.34,0:00:11.19,DEFAULT,,0,0,0,,{\kf23}On{\kf19} a{\kf143} busi{\kf19}ness{\kf45} trip
-Dialogue: 0,0:00:12.31,0:00:13.47,DEFAULT,,0,0,0,,{\kf12}I{\kf12} had{\kf8} a{\kf72} room
-Dialogue: 0,0:00:14.45,0:00:17.37,DEFAULT,,0,0,0,,{\kf19}At{\kf15} the{\kf15} Ho{\kf15}li{\kf30}day{\kf19} I{\kf49}-inn{\kf19} Ex{\kf45}press
-Dialogue: 0,0:00:20.64,0:00:23.90,DEFAULT,,0,0,0,,{\kf19}I{\kf34} dra{\kf109}-agged{\kf38} my{\kf23} ba{\kf15}-a{\kf49}-ag
-Dialogue: 0,0:00:24.42,0:00:27.61,DEFAULT,,0,0,0,,{\kf19}To{\kf23} the{\kf143} e{\kf23}le{\kf19}va{\kf42}tor
-Dialogue: 0,0:00:28.36,0:00:29.71,DEFAULT,,0,0,0,,{\kf19}But{\kf19} the{\kf19} but{\kf53}ton
-Dialogue: 0,0:00:30.31,0:00:33.57,DEFAULT,,0,0,0,,{\kf19}For{\kf27} my{\kf64} floor{\kf23} was{\kf27} al{\kf23}rea{\kf23}dy{\kf19} pre{\kf38}-essed
-Dialogue: 0,0:00:36.80,0:00:39.84,DEFAULT,,0,0,0,,{\kf15}The{\kf147} door{\kf42} slid{\kf19} o{\kf49}pen
-Dialogue: 0,0:00:40.51,0:00:41.75,DEFAULT,,0,0,0,,{\kf23}Then{\kf27} I{\kf60} felt
-Dialogue: 0,0:00:42.65,0:00:43.62,DEFAULT,,0,0,0,,{\kf23}Out{\kf19} of{\kf42} place
-Dialogue: 0,0:00:44.75,0:00:48.05,DEFAULT,,0,0,0,,{\kf19}I{\kf27} can{\kf38} on{\kf105}ly{\kf34} i{\kf23}ma{\kf38}gine
-Dialogue: 0,0:00:48.95,0:00:54.69,DEFAULT,,0,0,0,,{\kf27}The{\kf68} look{\kf49} on{\kf64} my{\kf38} fa{\kf113}-a{\kf147}-ace
-Dialogue: 0,0:00:55.59,0:00:56.79,DEFAULT,,0,0,0,,{\kf19}It{\kf19} was{\kf19} one{\kf15} of{\kf34} those
-Dialogue: 0,0:00:56.94,0:00:58.89,DEFAULT,,0,0,0,,{\kf12}"Eve{\kf12}ry{\kf23}bo{\kf12}dy{\kf30} dress{\kf34} like{\kf23} po{\kf12}nies
-Dialogue: 0,0:00:59.04,0:01:01.47,DEFAULT,,0,0,0,,{\kf23}Do{\kf45} drugs{\kf19} and{\kf8} ru{\kf45}-ub{\kf19} on{\kf15} each{\kf12} o{\kf8}ther"
-Dialogue: 0,0:01:01.62,0:01:04.06,DEFAULT,,0,0,0,,{\kf12}Kin{\kf15}da{\kf15} par{\kf19}ties{\kf15} that{\kf34} folks{\kf27} like{\kf15} me{\kf42}-e
-Dialogue: 0,0:01:05.15,0:01:07.55,DEFAULT,,0,0,0,,{\kf23}Will{\kf19} ne{\kf23}ver{\kf38} un{\kf27}der{\kf72}stand
-Dialogue: 0,0:01:09.46,0:01:10.85,DEFAULT,,0,0,0,,{\kf19}It's{\kf30} kin{\kf19}da{\kf15} we{\kf30}-ird
-Dialogue: 0,0:01:11.00,0:01:12.65,DEFAULT,,0,0,0,,{\kf15}See{\kf12}ing{\kf12} a{\kf38} grown{\kf30}-ass{\kf38} man
-Dialogue: 0,0:01:12.80,0:01:15.05,DEFAULT,,0,0,0,,{\kf19}In{\kf12} a{\kf34} cos{\kf30}tume,{\kf12} ma{\kf23}gen{\kf38}ta{\kf30} hair
-Dialogue: 0,0:01:15.24,0:01:17.34,DEFAULT,,0,0,0,,{\kf23}Plas{\kf19}tic{\kf45} eyes{\kf23} look{\kf15}ing{\kf15} at{\kf38} you
-Dialogue: 0,0:01:17.49,0:01:18.76,DEFAULT,,0,0,0,,{\kf34}On{\kf15} an{\kf15} e{\kf15}le{\kf19}va{\kf12}tor
-Dialogue: 0,0:01:18.91,0:01:21.39,DEFAULT,,0,0,0,,{\kf15}With{\kf15} a{\kf27} pink{\kf38} brush{\kf19} in{\kf34} his{\kf60} hand
-Dialogue: 0,0:01:23.94,0:01:25.77,DEFAULT,,0,0,0,,{\kf12}To{\kf19}ni{\kf23}-ight{\kf23} eve{\kf12}ry{\kf19}bo{\kf23}dy's{\kf27} dressed
-Dialogue: 0,0:01:25.96,0:01:28.70,DEFAULT,,0,0,0,,{\kf34}Like{\kf8} po{\kf12}-o{\kf19}nies{\kf23} at{\kf19} the{\kf15} Ho{\kf15}li{\kf27}day{\kf72} Inn
-Dialogue: 0,0:01:30.87,0:01:33.57,DEFAULT,,0,0,0,,{\kf23}And{\kf23} I{\kf19} do{\kf34}-on't{\kf27} think{\kf30} I'm{\kf12} co{\kf19}ming{\kf27} back
-Dialogue: 0,0:01:33.72,0:01:35.71,DEFAULT,,0,0,0,,{\kf19}To{\kf12} thi{\kf15}-is{\kf42} town{\kf15} a{\kf64}gain
-Dialogue: 0,0:01:37.92,0:01:40.92,DEFAULT,,0,0,0,,{\kf23}May{\kf23}be{\kf19} To{\kf38}-om{\kf30} Bo{\kf30}dett{\kf23} has{\kf15} a{\kf19} ro{\kf30}-om
-Dialogue: 0,0:01:41.07,0:01:42.65,DEFAULT,,0,0,0,,{\kf19}That{\kf15} I{\kf12} can{\kf34} stay{\kf15} i{\kf34}-in?
-Dialogue: 0,0:01:45.31,0:01:47.00,DEFAULT,,0,0,0,,{\kf15}Be{\kf12}ca{\kf30}-use{\kf19} eve{\kf15}ry{\kf27}bo{\kf19}dy's
-Dialogue: 0,0:01:47.11,0:01:53.07,DEFAULT,,0,0,0,,{\kf34}Dressed{\kf19} li{\kf30}-ike{\kf23} po{\kf34}nies{\kf19} at{\kf30} this{\kf27} Ho{\kf19}li{\kf19}da{\kf45}-ay{\kf218} Inn
-Dialogue: 0,0:01:53.64,0:01:54.42,DEFAULT,,0,0,0,,{\kf15}This{\kf19} place{\kf12} is{\kf23} weird
-Dialogue: 0,0:01:54.57,0:01:55.17,DEFAULT,,0,0,0,,{\kf8}I{\kf19} gotta{\kf19} go
-Dialogue: 0,0:01:56.75,0:01:58.40,DEFAULT,,0,0,0,,{\kf19}This{\kf12} one{\kf12} or{\kf8} the{\kf19} dang{\kf49} continental{\kf27} breakfast
-Dialogue: 0,0:01:58.51,0:01:59.71,DEFAULT,,0,0,0,,{\kf12}I{\kf15} gotta{\kf12} deal{\kf8} with{\kf12} this{\kf42} mess
+Dialogue: 0,0:00:04.22,0:00:05.49,DEFAULT,,0,0,0,,{\r}{\kf44}I{\kf35} was{\kf26} hea{\kf22}ded
+Dialogue: 0,0:00:06.24,0:00:07.89,DEFAULT,,0,0,0,,{\r}{\kf18}To{\kf36} east{\kf22} Tex{\kf89}as
+Dialogue: 0,0:00:08.34,0:00:11.19,DEFAULT,,0,0,0,,{\r}{\kf26}On{\kf22} a{\kf164} busi{\kf22}ness{\kf51} trip
+Dialogue: 0,0:00:12.32,0:00:13.48,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf13} had{\kf10} a{\kf80} room
+Dialogue: 0,0:00:14.45,0:00:17.38,DEFAULT,,0,0,0,,{\r}{\kf24}At{\kf20} the{\kf20} Ho{\kf20}li{\kf39}day{\kf24} I{\kf63}-inn{\kf24} Ex{\kf59}press
+Dialogue: 0,0:00:20.64,0:00:23.90,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf39} dra{\kf124}-agged{\kf43} my{\kf26} ba{\kf17}-a{\kf56}-ag
+Dialogue: 0,0:00:24.43,0:00:27.62,DEFAULT,,0,0,0,,{\r}{\kf22}To{\kf27} the{\kf171} e{\kf27}le{\kf22}va{\kf50}tor
+Dialogue: 0,0:00:28.37,0:00:29.72,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf23} the{\kf23} but{\kf66}ton
+Dialogue: 0,0:00:30.32,0:00:33.58,DEFAULT,,0,0,0,,{\r}{\kf24}For{\kf33} my{\kf80} floor{\kf28} was{\kf33} al{\kf28}rea{\kf28}dy{\kf24} pre{\kf48}-essed
+Dialogue: 0,0:00:36.80,0:00:39.84,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf165} door{\kf46} slid{\kf21} o{\kf55}pen
+Dialogue: 0,0:00:40.52,0:00:41.75,DEFAULT,,0,0,0,,{\r}{\kf26}Then{\kf30} I{\kf68} felt
+Dialogue: 0,0:00:42.65,0:00:43.63,DEFAULT,,0,0,0,,{\r}{\kf27}Out{\kf22} of{\kf49} place
+Dialogue: 0,0:00:44.75,0:00:48.05,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf31} can{\kf44} on{\kf123}ly{\kf40} i{\kf26}ma{\kf44}gine
+Dialogue: 0,0:00:48.95,0:00:54.69,DEFAULT,,0,0,0,,{\r}{\kf30}The{\kf77} look{\kf56} on{\kf73} my{\kf43} fa{\kf129}-a{\kf166}-ace
+Dialogue: 0,0:00:55.59,0:00:56.79,DEFAULT,,0,0,0,,{\r}{\kf21}It{\kf21} was{\kf21} one{\kf17} of{\kf40} those
+Dialogue: 0,0:00:56.94,0:00:58.89,DEFAULT,,0,0,0,,{\r}{\kf14}"Eve{\kf14}ry{\kf29}bo{\kf14}dy{\kf38} dress{\kf43} like{\kf29} po{\kf14}nies
+Dialogue: 0,0:00:59.04,0:01:01.48,DEFAULT,,0,0,0,,{\r}{\kf29}Do{\kf57} drugs{\kf24} and{\kf10} ru{\kf57}-ub{\kf24} on{\kf19} each{\kf14} o{\kf10}ther"
+Dialogue: 0,0:01:01.63,0:01:04.07,DEFAULT,,0,0,0,,{\r}{\kf14}Kin{\kf19}da{\kf19} par{\kf24}ties{\kf19} that{\kf43} folks{\kf33} like{\kf19} me{\kf54}-e
+Dialogue: 0,0:01:05.15,0:01:07.55,DEFAULT,,0,0,0,,{\r}{\kf27}Will{\kf23} ne{\kf27}ver{\kf45} un{\kf32}der{\kf86}stand
+Dialogue: 0,0:01:09.47,0:01:10.85,DEFAULT,,0,0,0,,{\r}{\kf23}It's{\kf37} kin{\kf23}da{\kf19} we{\kf37}-ird
+Dialogue: 0,0:01:11.00,0:01:12.65,DEFAULT,,0,0,0,,{\r}{\kf17}See{\kf13}ing{\kf13} a{\kf43} grown{\kf35}-ass{\kf44} man
+Dialogue: 0,0:01:12.80,0:01:15.05,DEFAULT,,0,0,0,,{\r}{\kf22}In{\kf13} a{\kf39} cos{\kf35}tume,{\kf13} ma{\kf26}gen{\kf43}ta{\kf34} hair
+Dialogue: 0,0:01:15.24,0:01:17.34,DEFAULT,,0,0,0,,{\r}{\kf27}Plas{\kf22}tic{\kf54} eyes{\kf27} look{\kf18}ing{\kf18} at{\kf44} you
+Dialogue: 0,0:01:17.49,0:01:18.77,DEFAULT,,0,0,0,,{\r}{\kf39}On{\kf18} an{\kf18} e{\kf18}le{\kf22}va{\kf12}tor
+Dialogue: 0,0:01:18.92,0:01:21.39,DEFAULT,,0,0,0,,{\r}{\kf18}With{\kf18} a{\kf31} pink{\kf45} brush{\kf22} in{\kf40} his{\kf73} hand
+Dialogue: 0,0:01:23.94,0:01:25.78,DEFAULT,,0,0,0,,{\r}{\kf13}To{\kf22}ni{\kf27}-ight{\kf27} eve{\kf13}ry{\kf22}bo{\kf27}dy's{\kf33} dressed
+Dialogue: 0,0:01:25.97,0:01:28.70,DEFAULT,,0,0,0,,{\r}{\kf39}Like{\kf10} po{\kf13}-o{\kf21}nies{\kf26} at{\kf21} the{\kf17} Ho{\kf17}li{\kf30}day{\kf80} Inn
+Dialogue: 0,0:01:30.88,0:01:33.58,DEFAULT,,0,0,0,,{\r}{\kf29}And{\kf29} I{\kf24} do{\kf43}-on't{\kf34} think{\kf39} I'm{\kf14} co{\kf24}ming{\kf34} back
+Dialogue: 0,0:01:33.73,0:01:35.72,DEFAULT,,0,0,0,,{\r}{\kf23}To{\kf14} thi{\kf18}-is{\kf50} town{\kf18} a{\kf76}gain
+Dialogue: 0,0:01:37.93,0:01:40.93,DEFAULT,,0,0,0,,{\r}{\kf27}May{\kf27}be{\kf23} To{\kf45}-om{\kf36} Bo{\kf36}dett{\kf27} has{\kf18} a{\kf23} ro{\kf38}-om
+Dialogue: 0,0:01:41.08,0:01:42.65,DEFAULT,,0,0,0,,{\r}{\kf23}That{\kf19} I{\kf14} can{\kf42} stay{\kf19} i{\kf41}-in?
+Dialogue: 0,0:01:45.32,0:01:47.00,DEFAULT,,0,0,0,,{\r}{\kf19}Be{\kf14}ca{\kf38}-use{\kf23} eve{\kf19}ry{\kf33}bo{\kf23}dy's
+Dialogue: 0,0:01:47.12,0:01:53.08,DEFAULT,,0,0,0,,{\r}{\kf39}Dressed{\kf22} li{\kf35}-ike{\kf26} po{\kf39}nies{\kf22} at{\kf35} this{\kf30} Ho{\kf22}li{\kf22}da{\kf52}-ay{\kf252} Inn
+Dialogue: 0,0:01:53.64,0:01:54.43,DEFAULT,,0,0,0,,{\r}{\kf18}This{\kf22} place{\kf13} is{\kf26} weird
+Dialogue: 0,0:01:54.58,0:01:55.18,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf25} gotta{\kf25} go
+Dialogue: 0,0:01:56.75,0:01:58.40,DEFAULT,,0,0,0,,{\r}{\kf22}This{\kf13} one{\kf13} or{\kf10} the{\kf22} dang{\kf56} continental{\kf29} breakfast
+Dialogue: 0,0:01:58.52,0:01:59.72,DEFAULT,,0,0,0,,{\r}{\kf14}I{\kf18} gotta{\kf14} deal{\kf10} with{\kf14} this{\kf50} mess

@@ -1,41 +1,48 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: High School Great
+Artist: Friendship Is Witchcraft
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.77,0:00:03.18,DEFAULT,,0,0,0,,{\kf29}I{\kf29} used{\kf29} to{\kf57} fight{\kf41} dra{\kf38}gons
-Dialogue: 0,0:00:03.49,0:00:06.04,DEFAULT,,0,0,0,,{\kf25}And{\kf29} go{\kf29} on{\kf32} ad{\kf54}ven{\kf69}tures
-Dialogue: 0,0:00:06.17,0:00:10.25,DEFAULT,,0,0,0,,{\kf25}I{\kf29} used{\kf22} to{\kf29} think{\kf32} my{\kf29} life{\kf22} was{\kf35} so-{\kf25}~{\kf119}so
-Dialogue: 0,0:00:11.50,0:00:14.00,DEFAULT,,0,0,0,,{\kf22}But{\kf19} now{\kf25} I{\kf38} see{\kf25} that{\kf29} be{\kf22}ing{\kf38} queen
-Dialogue: 0,0:00:14.12,0:00:16.55,DEFAULT,,0,0,0,,{\kf16}Is{\kf13}n't{\kf16} half{\kf16} as{\kf29} fun{\kf13} as{\kf19} tri{\kf16}go{\kf16}no{\kf16}me{\kf41}try
-Dialogue: 0,0:00:17.08,0:00:21.17,DEFAULT,,0,0,0,,{\kf29}High{\kf32} School{\kf22} is{\kf19} the{\kf41} place{\kf25} I'm{\kf25} meant{\kf29} to{\kf44} be{\kf91}~
-Dialogue: 0,0:00:22.45,0:00:23.63,DEFAULT,,0,0,0,,{\kf22}I{\kf29} can't{\kf25} wait{\kf22} to
-Dialogue: 0,0:00:23.73,0:00:25.04,DEFAULT,,0,0,0,,{\kf16}Sit{\kf19} in{\kf13}side{\kf16} a{\kf29} class{\kf25}room
-Dialogue: 0,0:00:25.19,0:00:26.28,DEFAULT,,0,0,0,,{\kf25}I{\kf25} can't{\kf22} wait{\kf19} to
-Dialogue: 0,0:00:26.41,0:00:27.37,DEFAULT,,0,0,0,,{\kf13}Run{\kf16} a{\kf16}round{\kf16} a{\kf29} gym
-Dialogue: 0,0:00:27.78,0:00:29.00,DEFAULT,,0,0,0,,{\kf25}I{\kf25} can't{\kf29} wait{\kf22} to
-Dialogue: 0,0:00:29.12,0:00:30.34,DEFAULT,,0,0,0,,{\kf13}Wake{\kf10} up{\kf13} at{\kf19} 6:{\kf32}3{\kf25}0
-Dialogue: 0,0:00:30.46,0:00:33.42,DEFAULT,,0,0,0,,{\kf32}Po{\kf29}ny{\kf29} Prin{\kf25}cess{\kf38} good.{\kf25} High{\kf22} School{\kf41} Great.
-Dialogue: 0,0:00:38.20,0:00:40.50,DEFAULT,,0,0,0,,{\kf29}I{\kf29} used{\kf25} to{\kf50} use{\kf35} ma{\kf38}gic
-Dialogue: 0,0:00:40.82,0:00:42.81,DEFAULT,,0,0,0,,{\kf25}And{\kf29} fly{\kf25} with{\kf25} my{\kf29} horse{\kf38} wings
-Dialogue: 0,0:00:43.50,0:00:46.80,DEFAULT,,0,0,0,,{\kf25}I{\kf25} used{\kf25} to{\kf50} shoot{\kf32} la{\kf25}sers{\kf25} from{\kf25} my{\kf35} face
-Dialogue: 0,0:00:48.99,0:00:51.61,DEFAULT,,0,0,0,,{\kf13}I{\kf16} used{\kf16} to{\kf22} cast{\kf29} spells,{\kf19} now{\kf16} I{\kf25} prac{\kf19}tise{\kf25} spel{\kf29}ling
-Dialogue: 0,0:00:51.67,0:00:54.23,DEFAULT,,0,0,0,,{\kf13}My{\kf19} ac{\kf16}tions{\kf13} in{\kf16} this{\kf22} world{\kf13} are{\kf13} a{\kf25} lot{\kf16} more{\kf16} com{\kf22}pel{\kf22}ling
-Dialogue: 0,0:00:54.35,0:00:58.40,DEFAULT,,0,0,0,,{\kf19}I{\kf19} wan{\kf19}na{\kf44} buy{\kf16} some{\kf25} dolls{\kf19}~{\kf16} that{\kf22} look{\kf41} like{\kf35} me{\kf88}~
-Dialogue: 0,0:00:58.97,0:01:01.21,DEFAULT,,0,0,0,,{\kf16}And{\kf38} D{\kf63}V{\kf100}Ds
-Dialogue: 0,0:01:02.24,0:01:03.64,DEFAULT,,0,0,0,,{\kf13}Oh{\kf29} I{\kf25} can't{\kf29} wait{\kf22} to
-Dialogue: 0,0:01:03.83,0:01:05.02,DEFAULT,,0,0,0,,{\kf13}Do{\kf13} a{\kf16} lot{\kf13} of{\kf29} home{\kf25}work
-Dialogue: 0,0:01:05.11,0:01:06.36,DEFAULT,,0,0,0,,{\kf22}I{\kf25} can't{\kf25} wait{\kf22} to
-Dialogue: 0,0:01:06.48,0:01:07.45,DEFAULT,,0,0,0,,{\kf16}Take{\kf16} the{\kf16} S{\kf16}A{\kf29}Ts
-Dialogue: 0,0:01:07.82,0:01:09.04,DEFAULT,,0,0,0,,{\kf25}I{\kf25} can't{\kf25} wait{\kf22} to
-Dialogue: 0,0:01:09.13,0:01:10.38,DEFAULT,,0,0,0,,{\kf16}Di{\kf16}sap{\kf13}point{\kf13} my{\kf35} pa{\kf29}rents
-Dialogue: 0,0:01:10.44,0:01:13.59,DEFAULT,,0,0,0,,{\kf35}Po{\kf29}ny{\kf35} Prin{\kf29}cess{\kf44} good.{\kf29} High{\kf29} School{\kf44} Great.
-Dialogue: 0,0:01:14.62,0:01:17.08,DEFAULT,,0,0,0,,{\kf19}And{\kf22} though{\kf29} I{\kf29} miss{\kf44} my{\kf75} friends
-Dialogue: 0,0:01:17.99,0:01:20.36,DEFAULT,,0,0,0,,{\kf22}It's{\kf44} sad,{\kf22} but{\kf25} then{\kf35} a{\kf35}gain{\kf35}~
-Dialogue: 0,0:01:20.79,0:01:24.38,DEFAULT,,0,0,0,,{\kf19}I{\kf16} can{\kf35} al{\kf25}ways{\kf41} make{\kf63} new{\kf116} friends
+Dialogue: 0,0:00:00.78,0:00:03.18,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf31} used{\kf31} to{\kf62} fight{\kf45} dra{\kf40}gons
+Dialogue: 0,0:00:03.49,0:00:06.05,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf31} go{\kf31} on{\kf34} ad{\kf58}ven{\kf75}tures
+Dialogue: 0,0:00:06.17,0:00:10.26,DEFAULT,,0,0,0,,{\r}{\kf28}I{\kf32} used{\kf25} to{\kf32} think{\kf35} my{\kf32} life{\kf25} was{\kf39} so-{\kf28}~{\kf133}so
+Dialogue: 0,0:00:11.51,0:00:14.00,DEFAULT,,0,0,0,,{\r}{\kf25}But{\kf22} now{\kf29} I{\kf43} see{\kf29} that{\kf32} be{\kf25}ing{\kf44} queen
+Dialogue: 0,0:00:14.13,0:00:16.56,DEFAULT,,0,0,0,,{\r}{\kf18}Is{\kf15}n't{\kf18} half{\kf18} as{\kf33} fun{\kf15} as{\kf22} tri{\kf18}go{\kf18}no{\kf18}me{\kf50}try
+Dialogue: 0,0:00:17.09,0:00:21.17,DEFAULT,,0,0,0,,{\r}{\kf33}High{\kf36} School{\kf25} is{\kf22} the{\kf47} place{\kf29} I'm{\kf29} meant{\kf33} to{\kf51} be{\kf104}~
+Dialogue: 0,0:00:22.45,0:00:23.64,DEFAULT,,0,0,0,,{\r}{\kf27}I{\kf35} can't{\kf31} wait{\kf26} to
+Dialogue: 0,0:00:23.73,0:00:25.04,DEFAULT,,0,0,0,,{\r}{\kf18}Sit{\kf21} in{\kf14}side{\kf18} a{\kf32} class{\kf28}room
+Dialogue: 0,0:00:25.20,0:00:26.29,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf30} can't{\kf26} wait{\kf23} to
+Dialogue: 0,0:00:26.41,0:00:27.38,DEFAULT,,0,0,0,,{\r}{\kf14}Run{\kf17} a{\kf17}round{\kf17} a{\kf32} gym
+Dialogue: 0,0:00:27.79,0:00:29.00,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf30} can't{\kf34} wait{\kf28} to
+Dialogue: 0,0:00:29.13,0:00:30.34,DEFAULT,,0,0,0,,{\r}{\kf14}Wake{\kf10} up{\kf14} at{\kf21} 6:{\kf35}3{\kf28}0
+Dialogue: 0,0:00:30.47,0:00:33.43,DEFAULT,,0,0,0,,{\r}{\kf39}Po{\kf35}ny{\kf35} Prin{\kf31}cess{\kf47} good.{\kf31} High{\kf27} School{\kf51} Great.
+Dialogue: 0,0:00:38.20,0:00:40.51,DEFAULT,,0,0,0,,{\r}{\kf32}I{\kf32} used{\kf28} to{\kf57} use{\kf39} ma{\kf43}gic
+Dialogue: 0,0:00:40.82,0:00:42.82,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf33} fly{\kf30} with{\kf30} my{\kf33} horse{\kf44} wings
+Dialogue: 0,0:00:43.50,0:00:46.81,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf31} used{\kf31} to{\kf62} shoot{\kf39} la{\kf31}sers{\kf31} from{\kf31} my{\kf44} face
+Dialogue: 0,0:00:48.99,0:00:51.61,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf18} used{\kf18} to{\kf25} cast{\kf33} spells,{\kf22} now{\kf18} I{\kf29} prac{\kf22}tise{\kf29} spel{\kf33}ling
+Dialogue: 0,0:00:51.67,0:00:54.23,DEFAULT,,0,0,0,,{\r}{\kf14}My{\kf22} ac{\kf18}tions{\kf14} in{\kf18} this{\kf25} world{\kf14} are{\kf14} a{\kf29} lot{\kf18} more{\kf18} com{\kf25}pel{\kf27}ling
+Dialogue: 0,0:00:54.35,0:00:58.41,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21} wan{\kf21}na{\kf49} buy{\kf18} some{\kf28} dolls{\kf21}~{\kf18} that{\kf25} look{\kf46} like{\kf39} me{\kf98}~
+Dialogue: 0,0:00:58.97,0:01:01.22,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf39} D{\kf65}V{\kf105}Ds
+Dialogue: 0,0:01:02.24,0:01:03.65,DEFAULT,,0,0,0,,{\r}{\kf15}Oh{\kf34} I{\kf30} can't{\kf34} wait{\kf27} to
+Dialogue: 0,0:01:03.84,0:01:05.02,DEFAULT,,0,0,0,,{\r}{\kf14}Do{\kf14} a{\kf17} lot{\kf14} of{\kf31} home{\kf29}work
+Dialogue: 0,0:01:05.11,0:01:06.36,DEFAULT,,0,0,0,,{\r}{\kf29}I{\kf33} can't{\kf33} wait{\kf30} to
+Dialogue: 0,0:01:06.49,0:01:07.45,DEFAULT,,0,0,0,,{\r}{\kf17}Take{\kf17} the{\kf17} S{\kf17}A{\kf29}Ts
+Dialogue: 0,0:01:07.83,0:01:09.04,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf31} can't{\kf31} wait{\kf29} to
+Dialogue: 0,0:01:09.14,0:01:10.38,DEFAULT,,0,0,0,,{\r}{\kf16}Di{\kf16}sap{\kf13}point{\kf13} my{\kf36} pa{\kf31}rents
+Dialogue: 0,0:01:10.45,0:01:13.60,DEFAULT,,0,0,0,,{\r}{\kf40}Po{\kf33}ny{\kf40} Prin{\kf33}cess{\kf51} good.{\kf33} High{\kf33} School{\kf52} Great.
+Dialogue: 0,0:01:14.63,0:01:17.09,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf25} though{\kf32} I{\kf32} miss{\kf50} my{\kf86} friends
+Dialogue: 0,0:01:17.99,0:01:20.36,DEFAULT,,0,0,0,,{\r}{\kf24}It's{\kf48} sad,{\kf24} but{\kf27} then{\kf38} a{\kf38}gain{\kf38}~
+Dialogue: 0,0:01:20.80,0:01:24.39,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf18} can{\kf39} al{\kf29}ways{\kf47} make{\kf72} new{\kf132} friends

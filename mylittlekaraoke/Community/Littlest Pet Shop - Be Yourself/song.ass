@@ -1,32 +1,39 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Be Yourself
+Artist: Littlest Pet Shop
+Original Timing: mylittlekaraoke.com by Linos Melendi, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.79,0:00:10.86,DEFAULT,,0,0,0,,{\kf12}Oh{\kf54}~{\kf8}~{\kf20} oh{\kf12} oh{\kf58}~{\kf12}~{\kf27} oh{\kf20} oh{\kf8}~{\kf24} yeah{\kf24}~{\kf24}~
-Dialogue: 0,0:00:12.48,0:00:15.71,DEFAULT,,0,0,0,,{\kf12}If{\kf12} you{\kf12} could{\kf12} on{\kf12}ly{\kf12} see{\kf16}~{\kf12} what{\kf12} it's{\kf12} like{\kf12} to{\kf24} be
-Dialogue: 0,0:00:15.94,0:00:19.44,DEFAULT,,0,0,0,,{\kf12}Be{\kf8} your{\kf8}self{\kf12}~{\kf12} as{\kf12} you{\kf20} are{\kf12} you{\kf12} could{\kf12} be{\kf8} a{\kf12} shin{\kf8}ing{\kf27} star
-Dialogue: 0,0:00:19.86,0:00:23.02,DEFAULT,,0,0,0,,{\kf8}If{\kf12} I{\kf12} could{\kf12} on{\kf12}ly{\kf12} be{\kf20}~{\kf12} a{\kf12} lit{\kf8}tle{\kf12} less{\kf8} like{\kf16} me
-Dialogue: 0,0:00:23.32,0:00:26.71,DEFAULT,,0,0,0,,{\kf12}Be{\kf8} like{\kf8} you{\kf16}~{\kf12} start{\kf8} a{\kf16} new{\kf12} learn{\kf12}ing{\kf12} eve{\kf12}ry{\kf12}thing{\kf12} you{\kf16} do
-Dialogue: 0,0:00:27.25,0:00:30.40,DEFAULT,,0,0,0,,{\kf8}Just{\kf12} dress{\kf12} in{\kf12} your{\kf12} own{\kf8} style{\kf20}~{\kf12} you{\kf12} don't{\kf12} need{\kf8} to{\kf12} im{\kf16}press
-Dialogue: 0,0:00:30.94,0:00:34.13,DEFAULT,,0,0,0,,{\kf12}Just{\kf12} threw{\kf12} out{\kf16} all{\kf16} my{\kf24} clothes{\kf12} tell{\kf12} me{\kf12} where{\kf8} you{\kf12} got{\kf12} that{\kf20} dress
-Dialogue: 0,0:00:34.63,0:00:37.86,DEFAULT,,0,0,0,,{\kf8}You{\kf12} can{\kf12} think{\kf12} for{\kf12} your{\kf8}self{\kf20}~{\kf12} just{\kf12} say{\kf12} what's{\kf8} on{\kf8}~{\kf12} your{\kf24} mind
-Dialogue: 0,0:00:38.09,0:00:41.71,DEFAULT,,0,0,0,,{\kf12}What{\kf12} you{\kf12} said{\kf8} is{\kf8} per{\kf12}fect{\kf12} I've{\kf12} got{\kf8} to{\kf12} mem{\kf12}o{\kf12}rize{\kf8} that{\kf20} line{\kf20}~
-Dialogue: 0,0:00:41.82,0:00:43.94,DEFAULT,,0,0,0,,{\kf77}Be{\kf8} your{\kf62}~{\kf31}self
-Dialogue: 0,0:00:44.55,0:00:48.48,DEFAULT,,0,0,0,,{\kf39}Be{\kf20} like{\kf31} you{\kf12} I{\kf12} wan{\kf12}na{\kf24} be{\kf8} just{\kf12}~{\kf16} like{\kf24} you
-Dialogue: 0,0:00:49.21,0:00:51.32,DEFAULT,,0,0,0,,{\kf77}Be{\kf8} your{\kf62}~{\kf31}self
-Dialogue: 0,0:00:51.94,0:00:56.32,DEFAULT,,0,0,0,,{\kf39}Be{\kf20} like{\kf27} you{\kf12} from{\kf12} your{\kf24} shoes{\kf12} to{\kf12} your{\kf24} hair{\kf12} to{\kf16} your{\kf16} new{\kf12} sham{\kf24}poo
-Dialogue: 0,0:00:56.79,0:00:59.98,DEFAULT,,0,0,0,,{\kf12}Try{\kf12} out{\kf8} a{\kf12} brand{\kf12} new{\kf12} hob{\kf16}by{\kf12} like{\kf12} paint{\kf12}ing{\kf12} or{\kf12} bal{\kf20}let
-Dialogue: 0,0:01:00.44,0:01:03.67,DEFAULT,,0,0,0,,{\kf8}I{\kf12}~{\kf8} just{\kf12} changed{\kf12} all{\kf12} my{\kf12} clas{\kf8}ses{\kf12} we{\kf12} can{\kf12} hang{\kf12} out{\kf12} eve{\kf12}ry{\kf8} day{\kf12}~
-Dialogue: 0,0:01:04.40,0:01:07.44,DEFAULT,,0,0,0,,{\kf12}May{\kf12}be{\kf12} take{\kf12} a{\kf8} trip{\kf12}~{\kf12} it's{\kf8} a{\kf12} big{\kf12} world{\kf12} out{\kf27} there
-Dialogue: 0,0:01:07.86,0:01:11.25,DEFAULT,,0,0,0,,{\kf12}I'll{\kf12} just{\kf12} stay{\kf12} close{\kf12} to{\kf24} you{\kf12} I'm{\kf12} not{\kf12} go{\kf12}in'{\kf12} an{\kf12}y{\kf24}where{\kf16}~
-Dialogue: 0,0:01:11.36,0:01:13.48,DEFAULT,,0,0,0,,{\kf77}Be{\kf62} your{\kf31}self
-Dialogue: 0,0:01:14.09,0:01:18.02,DEFAULT,,0,0,0,,{\kf39}Be{\kf20} like{\kf31} you{\kf12} I{\kf12} wan{\kf12}na{\kf24} be{\kf8} just{\kf12}~{\kf16} like{\kf24} you
-Dialogue: 0,0:01:18.75,0:01:20.86,DEFAULT,,0,0,0,,{\kf77}Be{\kf8} your{\kf62}~{\kf31}self
-Dialogue: 0,0:01:21.48,0:01:25.82,DEFAULT,,0,0,0,,{\kf39}Be{\kf20} like{\kf27} you{\kf12} act{\kf12} like{\kf24} you{\kf12} we'll{\kf12} be{\kf12} best{\kf12} friends{\kf16} and{\kf16} sis{\kf12}ters{\kf24} too
+Dialogue: 0,0:00:05.79,0:00:10.87,DEFAULT,,0,0,0,,{\r}{\kf20}Oh{\kf92}~{\kf13}~{\kf33} oh{\kf20} oh{\kf99}~{\kf20}~{\kf46} oh{\kf33} oh{\kf13}~{\kf40} yeah{\kf40}~{\kf39}~
+Dialogue: 0,0:00:12.48,0:00:15.71,DEFAULT,,0,0,0,,{\r}{\kf24}If{\kf24} you{\kf24} could{\kf24} on{\kf24}ly{\kf24} see{\kf32}~{\kf24} what{\kf24} it's{\kf24} like{\kf24} to{\kf51} be
+Dialogue: 0,0:00:15.94,0:00:19.44,DEFAULT,,0,0,0,,{\r}{\kf24}Be{\kf16} your{\kf16}self{\kf24}~{\kf24} as{\kf24} you{\kf40} are{\kf24} you{\kf24} could{\kf24} be{\kf16} a{\kf24} shin{\kf16}ing{\kf54} star
+Dialogue: 0,0:00:19.87,0:00:23.02,DEFAULT,,0,0,0,,{\r}{\kf16}If{\kf24} I{\kf24} could{\kf24} on{\kf24}ly{\kf24} be{\kf40}~{\kf24} a{\kf24} lit{\kf16}tle{\kf24} less{\kf16} like{\kf35} me
+Dialogue: 0,0:00:23.33,0:00:26.71,DEFAULT,,0,0,0,,{\r}{\kf24}Be{\kf16} like{\kf16} you{\kf32}~{\kf24} start{\kf16} a{\kf32} new{\kf24} learn{\kf24}ing{\kf24} eve{\kf24}ry{\kf24}thing{\kf24} you{\kf34} do
+Dialogue: 0,0:00:27.25,0:00:30.41,DEFAULT,,0,0,0,,{\r}{\kf16}Just{\kf24} dress{\kf24} in{\kf24} your{\kf24} own{\kf16} style{\kf40}~{\kf24} you{\kf24} don't{\kf24} need{\kf16} to{\kf24} im{\kf35}press
+Dialogue: 0,0:00:30.94,0:00:34.14,DEFAULT,,0,0,0,,{\r}{\kf21}Just{\kf21} threw{\kf21} out{\kf28} all{\kf28} my{\kf43} clothes{\kf21} tell{\kf21} me{\kf21} where{\kf14} you{\kf21} got{\kf21} that{\kf38} dress
+Dialogue: 0,0:00:34.64,0:00:37.87,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf23} can{\kf23} think{\kf23} for{\kf23} your{\kf15}self{\kf38}~{\kf23} just{\kf23} say{\kf23} what's{\kf15} on{\kf15}~{\kf23} your{\kf41} mind
+Dialogue: 0,0:00:38.10,0:00:41.71,DEFAULT,,0,0,0,,{\r}{\kf24}What{\kf24} you{\kf24} said{\kf16} is{\kf16} per{\kf24}fect{\kf24} I've{\kf24} got{\kf16} to{\kf24} mem{\kf24}o{\kf24}rize{\kf16} that{\kf40} line{\kf42}~
+Dialogue: 0,0:00:41.83,0:00:43.94,DEFAULT,,0,0,0,,{\r}{\kf92}Be{\kf10} your{\kf74}~{\kf36}self
+Dialogue: 0,0:00:44.56,0:00:48.48,DEFAULT,,0,0,0,,{\r}{\kf74}Be{\kf37} like{\kf59} you{\kf22} I{\kf22} wan{\kf22}na{\kf44} be{\kf15} just{\kf22}~{\kf30} like{\kf45} you
+Dialogue: 0,0:00:49.21,0:00:51.33,DEFAULT,,0,0,0,,{\r}{\kf92}Be{\kf10} your{\kf74}~{\kf36}self
+Dialogue: 0,0:00:51.94,0:00:56.33,DEFAULT,,0,0,0,,{\r}{\kf66}Be{\kf33} like{\kf46} you{\kf20} from{\kf20} your{\kf40} shoes{\kf20} to{\kf20} your{\kf40} hair{\kf20} to{\kf27} your{\kf27} new{\kf20} sham{\kf39}poo
+Dialogue: 0,0:00:56.79,0:00:59.98,DEFAULT,,0,0,0,,{\r}{\kf23}Try{\kf23} out{\kf16} a{\kf23} brand{\kf23} new{\kf23} hob{\kf31}by{\kf23} like{\kf23} paint{\kf23}ing{\kf23} or{\kf23} bal{\kf42}let
+Dialogue: 0,0:01:00.44,0:01:03.67,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf22}~{\kf15} just{\kf22} changed{\kf22} all{\kf22} my{\kf22} clas{\kf15}ses{\kf22} we{\kf22} can{\kf22} hang{\kf22} out{\kf22} eve{\kf22}ry{\kf15} day{\kf21}~
+Dialogue: 0,0:01:04.41,0:01:07.44,DEFAULT,,0,0,0,,{\r}{\kf24}May{\kf24}be{\kf24} take{\kf24} a{\kf16} trip{\kf24}~{\kf24} it's{\kf16} a{\kf24} big{\kf24} world{\kf24} out{\kf56} there
+Dialogue: 0,0:01:07.87,0:01:11.25,DEFAULT,,0,0,0,,{\r}{\kf21}I'll{\kf21} just{\kf21} stay{\kf21} close{\kf21} to{\kf41} you{\kf21} I'm{\kf21} not{\kf21} go{\kf21}in'{\kf21} an{\kf21}y{\kf41}where{\kf25}~
+Dialogue: 0,0:01:11.37,0:01:13.48,DEFAULT,,0,0,0,,{\r}{\kf96}Be{\kf77} your{\kf39}self
+Dialogue: 0,0:01:14.10,0:01:18.02,DEFAULT,,0,0,0,,{\r}{\kf74}Be{\kf37} like{\kf59} you{\kf22} I{\kf22} wan{\kf22}na{\kf44} be{\kf15} just{\kf22}~{\kf30} like{\kf45} you
+Dialogue: 0,0:01:18.75,0:01:20.87,DEFAULT,,0,0,0,,{\r}{\kf92}Be{\kf10} your{\kf74}~{\kf36}self
+Dialogue: 0,0:01:21.48,0:01:25.83,DEFAULT,,0,0,0,,{\r}{\kf69}Be{\kf35} like{\kf48} you{\kf21} act{\kf21} like{\kf41} you{\kf21} we'll{\kf21} be{\kf21} best{\kf21} friends{\kf28} and{\kf28} sis{\kf21}ters{\kf39} too

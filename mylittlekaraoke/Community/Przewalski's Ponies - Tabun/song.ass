@@ -1,39 +1,46 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Tabun
+Artist: Przewalski's Ponies
+Original Timing: mylittlekaraoke.com by SDreamExplorerS
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:13.48,0:00:16.04,DEFAULT,,0,0,0,,{\kf10}You{\kf20} came{\kf40} sear{\kf10}ching{\kf20} a{\kf20}round{\kf20} that{\kf40} page
-Dialogue: 0,0:00:19.79,0:00:22.36,DEFAULT,,0,0,0,,{\kf10}What{\kf20} you've{\kf40} ne{\kf20}ver{\kf20} seen{\kf40} be{\kf40}fore?
-Dialogue: 0,0:00:26.11,0:00:29.07,DEFAULT,,0,0,0,,{\kf10}Just{\kf20} like{\kf20} I{\kf20} had{\kf20} come{\kf30} here{\kf20} one{\kf40} day
-Dialogue: 0,0:00:32.42,0:00:34.99,DEFAULT,,0,0,0,,{\kf10}Now{\kf20} I'm{\kf20} kno{\kf20}cking{\kf20} down{\kf30} that{\kf40} door
-Dialogue: 0,0:00:37.75,0:00:40.71,DEFAULT,,0,0,0,,{\kf10}T-{\kf20}to{\kf20}xic{\kf40} beau{\kf30}ty,{\kf40} poi{\kf30}soned{\kf60} love
-Dialogue: 0,0:00:40.91,0:00:43.87,DEFAULT,,0,0,0,,{\kf10}I{\kf10} know{\kf30} I'll{\kf40} ne{\kf30}ver{\kf30} get{\kf40} e{\kf40}no{\kf20}ugh
-Dialogue: 0,0:00:44.07,0:00:47.82,DEFAULT,,0,0,0,,{\kf20}E-{\kf20}eve{\kf30}ry{\kf40} drop{\kf30}let{\kf30} drains{\kf20} me{\kf20} of{\kf20} my{\kf60} life
-Dialogue: 0,0:00:50.38,0:00:53.34,DEFAULT,,0,0,0,,{\kf10}I-{\kf10}I{\kf20} feel{\kf30} wrong -{\kf30} but{\kf30} it{\kf30} is{\kf60} right
-Dialogue: 0,0:00:53.54,0:00:56.50,DEFAULT,,0,0,0,,{\kf10}I{\kf20} some{\kf30}how{\kf30} know{\kf30} I{\kf30} must{\kf40} a{\kf60}bide
-Dialogue: 0,0:00:56.70,0:01:00.45,DEFAULT,,0,0,0,,{\kf20}Be{\kf10}neath{\kf30} the{\kf40} sha{\kf30}dows{\kf30} of{\kf20} that{\kf40} hide{\kf20}ous{\kf60} might
-Dialogue: 0,0:01:16.63,0:01:19.20,DEFAULT,,0,0,0,,{\kf10}All{\kf20} you{\kf20} ten{\kf20}ta{\kf20}cles{\kf20} at{\kf40} work
-Dialogue: 0,0:01:22.95,0:01:25.51,DEFAULT,,0,0,0,,{\kf20}Bin{\kf20}ding{\kf30} me{\kf20} to{\kf40} thou{\kf20}sand{\kf40} more
-Dialogue: 0,0:01:29.26,0:01:32.23,DEFAULT,,0,0,0,,{\kf10}When{\kf20} I'm{\kf20} sha{\kf30}king{\kf20} in{\kf20} my{\kf20} sweet{\kf40} pain
-Dialogue: 0,0:01:35.58,0:01:38.74,DEFAULT,,0,0,0,,{\kf10}They{\kf20} are{\kf40} cal{\kf20}ling{\kf30} back{\kf20} en{\kf99} choir
-Dialogue: 0,0:01:39.33,0:01:40.81,DEFAULT,,0,0,0,,{\kf10}Ha-{\kf10}ha-{\kf10}ha-{\kf10}ha-{\kf10}ha-{\kf10}ha!
-Dialogue: 0,0:01:40.91,0:01:43.87,DEFAULT,,0,0,0,,{\kf10}T-{\kf20}to{\kf20}xic{\kf40} beau{\kf30}ty,{\kf40} poi{\kf30}soned{\kf60} love
-Dialogue: 0,0:01:44.07,0:01:47.03,DEFAULT,,0,0,0,,{\kf10}I{\kf10} know{\kf30} I'll{\kf40} ne{\kf30}ver{\kf30} get{\kf40} e{\kf40}no{\kf20}ugh
-Dialogue: 0,0:01:47.23,0:01:50.98,DEFAULT,,0,0,0,,{\kf20}E-{\kf20}eve{\kf30}ry{\kf40} drop{\kf30}let{\kf30} drains{\kf20} me{\kf20} of{\kf20} my{\kf60} life
-Dialogue: 0,0:01:53.54,0:01:56.50,DEFAULT,,0,0,0,,{\kf10}P-{\kf20}pla{\kf20}ying{\kf30} on{\kf30} that{\kf40} wi{\kf30}cked{\kf60} game
-Dialogue: 0,0:01:56.70,0:01:59.66,DEFAULT,,0,0,0,,{\kf10}You{\kf10} come{\kf30} to{\kf40} ne{\kf30}ver{\kf30} be{\kf30} the{\kf60} same
-Dialogue: 0,0:01:59.86,0:02:03.61,DEFAULT,,0,0,0,,{\kf10}But{\kf10} it{\kf20} is{\kf20} us{\kf20} and{\kf20} you{\kf20} are{\kf20} not{\kf20} to{\kf60} blame
-Dialogue: 0,0:02:12.49,0:02:15.45,DEFAULT,,0,0,0,,{\kf10}I've{\kf10} tried{\kf20} to{\kf30} hide,{\kf30} I've{\kf30} tried{\kf30} to{\kf60} run
-Dialogue: 0,0:02:15.65,0:02:18.61,DEFAULT,,0,0,0,,{\kf10}But{\kf10} there{\kf30} is{\kf30} not{\kf30} a{\kf40} sin{\kf30}gle{\kf60} one
-Dialogue: 0,0:02:18.80,0:02:22.55,DEFAULT,,0,0,0,,{\kf10}Who{\kf10} can{\kf40} re{\kf30}deem{\kf30} us{\kf30} from{\kf20} your{\kf40} zea{\kf30}lous{\kf60} arm
-Dialogue: 0,0:02:37.75,0:02:40.71,DEFAULT,,0,0,0,,{\kf10}The{\kf10} herd{\kf20} was{\kf20} meant{\kf20} to{\kf30} be{\kf30} the{\kf60} means
-Dialogue: 0,0:02:40.91,0:02:43.87,DEFAULT,,0,0,0,,{\kf20}Con{\kf20}nec{\kf30}ting{\kf30} all{\kf30} my{\kf30} friends{\kf30} to{\kf60} me
-Dialogue: 0,0:02:44.07,0:02:47.82,DEFAULT,,0,0,0,,{\kf10}But{\kf20} en{\kf30}ded{\kf30} as{\kf30} a{\kf30} thing{\kf20} that{\kf20} should{\kf30} not{\kf60} be
-Dialogue: 0,0:02:47.92,0:02:50.09,DEFAULT,,0,0,0,,{\kf10}Should{\kf10} not{\kf10} be,{\kf10} should{\kf10} not{\kf10} be,{\kf10} should{\kf10} not{\kf10} be!
+Dialogue: 0,0:00:13.48,0:00:16.05,DEFAULT,,0,0,0,,{\r}{\kf14}You{\kf29} came{\kf57} sear{\kf14}ching{\kf29} a{\kf29}round{\kf29} that{\kf56} page
+Dialogue: 0,0:00:19.80,0:00:22.36,DEFAULT,,0,0,0,,{\r}{\kf14}What{\kf27} you've{\kf54} ne{\kf27}ver{\kf27} seen{\kf54} be{\kf54}fore?
+Dialogue: 0,0:00:26.11,0:00:29.07,DEFAULT,,0,0,0,,{\r}{\kf16}Just{\kf33} like{\kf33} I{\kf33} had{\kf33} come{\kf49} here{\kf33} one{\kf66} day
+Dialogue: 0,0:00:32.43,0:00:34.99,DEFAULT,,0,0,0,,{\r}{\kf16}Now{\kf32} I'm{\kf32} kno{\kf32}cking{\kf32} down{\kf48} that{\kf65} door
+Dialogue: 0,0:00:37.76,0:00:40.72,DEFAULT,,0,0,0,,{\r}{\kf12}T-{\kf24}to{\kf24}xic{\kf47} beau{\kf36}ty,{\kf47} poi{\kf36}soned{\kf70} love
+Dialogue: 0,0:00:40.91,0:00:43.87,DEFAULT,,0,0,0,,{\r}{\kf12}I{\kf12} know{\kf36} I'll{\kf47} ne{\kf36}ver{\kf36} get{\kf47} e{\kf47}no{\kf23}ugh
+Dialogue: 0,0:00:44.07,0:00:47.82,DEFAULT,,0,0,0,,{\r}{\kf26}E-{\kf26}eve{\kf39}ry{\kf52} drop{\kf39}let{\kf39} drains{\kf26} me{\kf26} of{\kf26} my{\kf76} life
+Dialogue: 0,0:00:50.39,0:00:53.35,DEFAULT,,0,0,0,,{\r}{\kf13}I-{\kf13}I{\kf27} feel{\kf40} wrong -{\kf40} but{\kf40} it{\kf40} is{\kf83} right
+Dialogue: 0,0:00:53.55,0:00:56.51,DEFAULT,,0,0,0,,{\r}{\kf12}I{\kf24} some{\kf36}how{\kf36} know{\kf36} I{\kf36} must{\kf47} a{\kf69}bide
+Dialogue: 0,0:00:56.70,0:01:00.45,DEFAULT,,0,0,0,,{\r}{\kf25}Be{\kf13}neath{\kf38} the{\kf50} sha{\kf38}dows{\kf38} of{\kf25} that{\kf50} hide{\kf25}ous{\kf73} might
+Dialogue: 0,0:01:16.64,0:01:19.20,DEFAULT,,0,0,0,,{\r}{\kf17}All{\kf34} you{\kf34} ten{\kf34}ta{\kf34}cles{\kf34} at{\kf70} work
+Dialogue: 0,0:01:22.95,0:01:25.52,DEFAULT,,0,0,0,,{\r}{\kf27}Bin{\kf27}ding{\kf41} me{\kf27} to{\kf54} thou{\kf27}sand{\kf54} more
+Dialogue: 0,0:01:29.27,0:01:32.23,DEFAULT,,0,0,0,,{\r}{\kf16}When{\kf33} I'm{\kf33} sha{\kf49}king{\kf33} in{\kf33} my{\kf33} sweet{\kf66} pain
+Dialogue: 0,0:01:35.59,0:01:38.74,DEFAULT,,0,0,0,,{\r}{\kf13}They{\kf26} are{\kf53} cal{\kf26}ling{\kf40} back{\kf26} en{\kf132} choir
+Dialogue: 0,0:01:39.34,0:01:40.82,DEFAULT,,0,0,0,,{\r}{\kf25}Ha-{\kf25}ha-{\kf25}ha-{\kf25}ha-{\kf25}ha-{\kf23}ha!
+Dialogue: 0,0:01:40.91,0:01:43.87,DEFAULT,,0,0,0,,{\r}{\kf12}T-{\kf24}to{\kf24}xic{\kf47} beau{\kf36}ty,{\kf47} poi{\kf36}soned{\kf70} love
+Dialogue: 0,0:01:44.07,0:01:47.03,DEFAULT,,0,0,0,,{\r}{\kf12}I{\kf12} know{\kf36} I'll{\kf47} ne{\kf36}ver{\kf36} get{\kf47} e{\kf47}no{\kf23}ugh
+Dialogue: 0,0:01:47.23,0:01:50.98,DEFAULT,,0,0,0,,{\r}{\kf26}E-{\kf26}eve{\kf39}ry{\kf52} drop{\kf39}let{\kf39} drains{\kf26} me{\kf26} of{\kf26} my{\kf76} life
+Dialogue: 0,0:01:53.55,0:01:56.51,DEFAULT,,0,0,0,,{\r}{\kf12}P-{\kf25}pla{\kf25}ying{\kf37} on{\kf37} that{\kf49} wi{\kf37}cked{\kf74} game
+Dialogue: 0,0:01:56.70,0:01:59.66,DEFAULT,,0,0,0,,{\r}{\kf12}You{\kf12} come{\kf37} to{\kf49} ne{\kf37}ver{\kf37} be{\kf37} the{\kf75} same
+Dialogue: 0,0:01:59.86,0:02:03.61,DEFAULT,,0,0,0,,{\r}{\kf17}But{\kf17} it{\kf34} is{\kf34} us{\kf34} and{\kf34} you{\kf34} are{\kf34} not{\kf34} to{\kf103} blame
+Dialogue: 0,0:02:12.49,0:02:15.45,DEFAULT,,0,0,0,,{\r}{\kf13}I've{\kf13} tried{\kf27} to{\kf40} hide,{\kf40} I've{\kf40} tried{\kf40} to{\kf83} run
+Dialogue: 0,0:02:15.65,0:02:18.61,DEFAULT,,0,0,0,,{\r}{\kf12}But{\kf12} there{\kf37} is{\kf37} not{\kf37} a{\kf49} sin{\kf37}gle{\kf75} one
+Dialogue: 0,0:02:18.81,0:02:22.56,DEFAULT,,0,0,0,,{\r}{\kf13}Who{\kf13} can{\kf50} re{\kf38}deem{\kf38} us{\kf38} from{\kf25} your{\kf50} zea{\kf38}lous{\kf72} arm
+Dialogue: 0,0:02:37.76,0:02:40.72,DEFAULT,,0,0,0,,{\r}{\kf15}The{\kf15} herd{\kf30} was{\kf30} meant{\kf30} to{\kf44} be{\kf44} the{\kf88} means
+Dialogue: 0,0:02:40.91,0:02:43.87,DEFAULT,,0,0,0,,{\r}{\kf24}Con{\kf24}nec{\kf36}ting{\kf36} all{\kf36} my{\kf36} friends{\kf36} to{\kf68} me
+Dialogue: 0,0:02:44.07,0:02:47.82,DEFAULT,,0,0,0,,{\r}{\kf13}But{\kf27} en{\kf40}ded{\kf40} as{\kf40} a{\kf40} thing{\kf27} that{\kf27} should{\kf40} not{\kf81} be
+Dialogue: 0,0:02:47.92,0:02:50.09,DEFAULT,,0,0,0,,{\r}{\kf24}Should{\kf24} not{\kf24} be,{\kf24} should{\kf24} not{\kf24} be,{\kf24} should{\kf24} not{\kf25} be!

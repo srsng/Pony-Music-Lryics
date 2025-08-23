@@ -1,46 +1,53 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: La Noche Aqui Está
+Artist: Equestria Girls
+Original Timing: mylittlekaraoke.com by Smilley translated by TOM
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.27,0:00:03.28,DEFAULT,,0,0,0,,{\kf24}La{\kf18} noche{\kf18} aqui{\kf24} es{\kf191}ta
-Dialogue: 0,0:00:03.45,0:00:04.66,DEFAULT,,0,0,0,,{\kf24}Es{\kf24}ta{\kf18}mos{\kf18} lis{\kf18}tas
-Dialogue: 0,0:00:04.72,0:00:07.43,DEFAULT,,0,0,0,,{\kf18}Y{\kf18} va{\kf24}mos{\kf24} a{\kf18} ce{\kf35}le{\kf93}brar
-Dialogue: 0,0:00:07.72,0:00:10.61,DEFAULT,,0,0,0,,{\kf18}La{\kf12} noche{\kf18} aqui{\kf24} es{\kf180}tá
-Dialogue: 0,0:00:10.90,0:00:12.00,DEFAULT,,0,0,0,,{\kf18}So{\kf18}bre{\kf18}vi{\kf41}vió
-Dialogue: 0,0:00:12.05,0:00:14.71,DEFAULT,,0,0,0,,{\kf24}Nues{\kf12}tra{\kf29} gran{\kf18} a{\kf47}mis{\kf81}tad
-Dialogue: 0,0:00:16.44,0:00:17.54,DEFAULT,,0,0,0,,{\kf12}A{\kf41}ho{\kf35}ra
-Dialogue: 0,0:00:17.60,0:00:18.75,DEFAULT,,0,0,0,,{\kf24}Hay{\kf12} que{\kf24} dis{\kf12}fru{\kf24}tar
-Dialogue: 0,0:00:18.81,0:00:20.31,DEFAULT,,0,0,0,,{\kf12}Un{\kf12} dia{\kf18} sin{\kf35} i{\kf41}gual
-Dialogue: 0,0:00:20.37,0:00:21.58,DEFAULT,,0,0,0,,{\kf24}Va{\kf18}mos{\kf18} jun{\kf12}tas{\kf18} a{\kf12} estar
-Dialogue: 0,0:00:21.70,0:00:23.60,DEFAULT,,0,0,0,,{\kf24}Y{\kf18} di{\kf18}ver{\kf18}tir{\kf18}nos{\kf18} si{\kf18}em{\kf24}pre
-Dialogue: 0,0:00:23.83,0:00:25.85,DEFAULT,,0,0,0,,{\kf12}Con{\kf41}ten{\kf35}tas,{\kf41} fe{\kf24}li{\kf12}ces
-Dialogue: 0,0:00:25.91,0:00:27.64,DEFAULT,,0,0,0,,{\kf18}Nun{\kf18}ca{\kf24} e{\kf18}no{\kf24}jos{\kf35} habrá
-Dialogue: 0,0:00:27.76,0:00:28.91,DEFAULT,,0,0,0,,{\kf18}Bien{\kf24} lo{\kf29} hi{\kf24}cimos
-Dialogue: 0,0:00:28.97,0:00:30.94,DEFAULT,,0,0,0,,{\kf12}Es{\kf18}ta{\kf18} noche{\kf35} es{\kf35} nues{\kf47}tra
-Dialogue: 0,0:00:31.46,0:00:38.15,DEFAULT,,0,0,0,,{\kf29}Las{\kf41} seis{\kf18} va{\kf12}mos{\kf93} a{\kf70} lu{\kf70}cha{\kf58}-a{\kf47}-a{\kf156}-ar
-Dialogue: 0,0:00:38.85,0:00:44.51,DEFAULT,,0,0,0,,{\kf35}Las{\kf41} seis{\kf12} hay{\kf12} que{\kf87} de{\kf76}mos{\kf70}tra{\kf58}-a{\kf41}-a{\kf58}-ar
-Dialogue: 0,0:00:44.62,0:00:47.62,DEFAULT,,0,0,0,,{\kf18}La{\kf18} noche{\kf18} aquí{\kf24} es{\kf191}tá
-Dialogue: 0,0:00:47.85,0:00:49.01,DEFAULT,,0,0,0,,{\kf18}Es{\kf24}ta{\kf18}mos{\kf24} lis{\kf18}tas
-Dialogue: 0,0:00:49.07,0:00:51.78,DEFAULT,,0,0,0,,{\kf18}y{\kf18} va{\kf18}mos{\kf18} a{\kf18} ce{\kf35}le{\kf99}brar
-Dialogue: 0,0:00:52.01,0:00:54.78,DEFAULT,,0,0,0,,{\kf18}La{\kf18} noche{\kf18} aquí{\kf24} es{\kf168}tá
-Dialogue: 0,0:00:55.25,0:00:56.34,DEFAULT,,0,0,0,,{\kf18}Ya{\kf18} lo{\kf18} lo{\kf18}gra{\kf18}mos
-Dialogue: 0,0:00:56.40,0:00:59.23,DEFAULT,,0,0,0,,{\kf24}Aho{\kf18}ra{\kf24} hay{\kf24} que{\kf52} bai{\kf99}lar
-Dialogue: 0,0:01:00.79,0:01:01.83,DEFAULT,,0,0,0,,{\kf18}Es{\kf41} el{\kf35} final
-Dialogue: 0,0:01:01.94,0:01:03.04,DEFAULT,,0,0,0,,{\kf24}Y{\kf12} hubo{\kf18} que{\kf18} pe{\kf18}lear
-Dialogue: 0,0:01:03.10,0:01:05.47,DEFAULT,,0,0,0,,{\kf18}Para{\kf18} po{\kf18}der{\kf18} ga{\kf12}nar{\kf47} y{\kf12} tri{\kf12}un{\kf29}far
-Dialogue: 0,0:01:05.64,0:01:07.95,DEFAULT,,0,0,0,,{\kf18}Ahora{\kf24} ha{\kf18}ga{\kf18}mos{\kf18} que{\kf12} dure{\kf18} por{\kf18} si{\kf18}em{\kf24}pre
-Dialogue: 0,0:01:08.18,0:01:10.03,DEFAULT,,0,0,0,,{\kf12}Lu{\kf41}ces{\kf41} bri{\kf35}lla{\kf29}n,
-Dialogue: 0,0:01:10.26,0:01:11.93,DEFAULT,,0,0,0,,{\kf18}Rit{\kf18}mo{\kf18} se{\kf18} oye{\kf18} en{\kf18} el{\kf29} lugar
-Dialogue: 0,0:01:12.11,0:01:15.34,DEFAULT,,0,0,0,,{\kf24}La{\kf12} fi{\kf29}es{\kf18}ta{\kf18} Co{\kf18}mi{\kf18}enza,{\kf18} El{\kf18} DJ{\kf18} va a{\kf29} so{\kf52}nar.
-Dialogue: 0,0:01:15.74,0:01:22.39,DEFAULT,,0,0,0,,{\kf29}Las{\kf41} seis{\kf24} Va{\kf18}mos{\kf76} a{\kf76} lu{\kf70}cha{\kf58}-a{\kf41}-a{\kf151}-ar
-Dialogue: 0,0:01:23.14,0:01:28.74,DEFAULT,,0,0,0,,{\kf35}Las{\kf41} seis{\kf18} hay{\kf12} que{\kf87} de{\kf70}mos{\kf76}tra{\kf52}-a{\kf35}-a{\kf52}-ar
-Dialogue: 0,0:01:28.97,0:01:32.26,DEFAULT,,0,0,0,,{\kf18}La{\kf24} noche{\kf18} aqui{\kf29} es{\kf214}tá
-Dialogue: 0,0:01:32.72,0:01:36.01,DEFAULT,,0,0,0,,{\kf24}La{\kf35} noche {\kf47} se{\kf104}rá{\kf93}-a
-Dialogue: 0,0:01:36.47,0:01:41.27,DEFAULT,,0,0,0,,{\kf18}La{\kf18} noche{\kf18} se{\kf76}-rá{\kf58}-a{\kf52}-a{\kf70}-a{\kf104}-a
+Dialogue: 0,0:00:00.28,0:00:03.28,DEFAULT,,0,0,0,,{\r}{\kf26}La{\kf19} noche{\kf19} aqui{\kf26} es{\kf210}ta
+Dialogue: 0,0:00:03.45,0:00:04.67,DEFAULT,,0,0,0,,{\r}{\kf28}Es{\kf28}ta{\kf21}mos{\kf21} lis{\kf23}tas
+Dialogue: 0,0:00:04.73,0:00:07.44,DEFAULT,,0,0,0,,{\r}{\kf21}Y{\kf21} va{\kf28}mos{\kf28} a{\kf21} ce{\kf42}le{\kf110}brar
+Dialogue: 0,0:00:07.73,0:00:10.62,DEFAULT,,0,0,0,,{\r}{\kf20}La{\kf13} noche{\kf20} aqui{\kf27} es{\kf209}tá
+Dialogue: 0,0:00:10.90,0:00:12.00,DEFAULT,,0,0,0,,{\r}{\kf21}So{\kf21}bre{\kf21}vi{\kf47}vió
+Dialogue: 0,0:00:12.06,0:00:14.71,DEFAULT,,0,0,0,,{\r}{\kf30}Nues{\kf15}tra{\kf37} gran{\kf22} a{\kf59}mis{\kf103}tad
+Dialogue: 0,0:00:16.45,0:00:17.54,DEFAULT,,0,0,0,,{\r}{\kf15}A{\kf51}ho{\kf44}ra
+Dialogue: 0,0:00:17.60,0:00:18.76,DEFAULT,,0,0,0,,{\r}{\kf29}Hay{\kf14} que{\kf29} dis{\kf14}fru{\kf29}tar
+Dialogue: 0,0:00:18.81,0:00:20.32,DEFAULT,,0,0,0,,{\r}{\kf15}Un{\kf15} dia{\kf23} sin{\kf45} i{\kf52}gual
+Dialogue: 0,0:00:20.37,0:00:21.59,DEFAULT,,0,0,0,,{\r}{\kf28}Va{\kf21}mos{\kf21} jun{\kf14}tas{\kf21} a{\kf16} estar
+Dialogue: 0,0:00:21.70,0:00:23.61,DEFAULT,,0,0,0,,{\r}{\kf29}Y{\kf22} di{\kf22}ver{\kf22}tir{\kf22}nos{\kf22} si{\kf22}em{\kf30}pre
+Dialogue: 0,0:00:23.84,0:00:25.86,DEFAULT,,0,0,0,,{\r}{\kf14}Con{\kf50}ten{\kf43}tas,{\kf50} fe{\kf29}li{\kf16}ces
+Dialogue: 0,0:00:25.92,0:00:27.65,DEFAULT,,0,0,0,,{\r}{\kf23}Nun{\kf23}ca{\kf30} e{\kf23}no{\kf30}jos{\kf44} habrá
+Dialogue: 0,0:00:27.76,0:00:28.92,DEFAULT,,0,0,0,,{\r}{\kf22}Bien{\kf29} lo{\kf36} hi{\kf28}cimos
+Dialogue: 0,0:00:28.98,0:00:30.94,DEFAULT,,0,0,0,,{\r}{\kf14}Es{\kf21}ta{\kf21} noche{\kf42} es{\kf42} nues{\kf56}tra
+Dialogue: 0,0:00:31.46,0:00:38.16,DEFAULT,,0,0,0,,{\r}{\kf33}Las{\kf46} seis{\kf20} va{\kf13}mos{\kf105} a{\kf79} lu{\kf79}cha{\kf66}-a{\kf53}-a{\kf176}-ar
+Dialogue: 0,0:00:38.85,0:00:44.51,DEFAULT,,0,0,0,,{\r}{\kf40}Las{\kf47} seis{\kf13} hay{\kf13} que{\kf101} de{\kf88}mos{\kf81}tra{\kf67}-a{\kf47}-a{\kf69}-ar
+Dialogue: 0,0:00:44.63,0:00:47.63,DEFAULT,,0,0,0,,{\r}{\kf20}La{\kf20} noche{\kf20} aquí{\kf26} es{\kf214}tá
+Dialogue: 0,0:00:47.86,0:00:49.01,DEFAULT,,0,0,0,,{\r}{\kf20}Es{\kf27}ta{\kf20}mos{\kf27} lis{\kf21}tas
+Dialogue: 0,0:00:49.07,0:00:51.79,DEFAULT,,0,0,0,,{\r}{\kf21}y{\kf21} va{\kf21}mos{\kf21} a{\kf21} ce{\kf43}le{\kf123}brar
+Dialogue: 0,0:00:52.02,0:00:54.79,DEFAULT,,0,0,0,,{\r}{\kf20}La{\kf20} noche{\kf20} aquí{\kf26} es{\kf191}tá
+Dialogue: 0,0:00:55.25,0:00:56.35,DEFAULT,,0,0,0,,{\r}{\kf22}Ya{\kf22} lo{\kf22} lo{\kf22}gra{\kf22}mos
+Dialogue: 0,0:00:56.41,0:00:59.23,DEFAULT,,0,0,0,,{\r}{\kf28}Aho{\kf21}ra{\kf28} hay{\kf28} que{\kf62} bai{\kf116}lar
+Dialogue: 0,0:01:00.79,0:01:01.83,DEFAULT,,0,0,0,,{\r}{\kf20}Es{\kf46} el{\kf38} final
+Dialogue: 0,0:01:01.95,0:01:03.05,DEFAULT,,0,0,0,,{\r}{\kf29}Y{\kf15} hubo{\kf22} que{\kf22} pe{\kf22}lear
+Dialogue: 0,0:01:03.10,0:01:05.47,DEFAULT,,0,0,0,,{\r}{\kf23}Para{\kf23} po{\kf23}der{\kf23} ga{\kf15}nar{\kf61} y{\kf15} tri{\kf15}un{\kf39}far
+Dialogue: 0,0:01:05.64,0:01:07.95,DEFAULT,,0,0,0,,{\r}{\kf22}Ahora{\kf30} ha{\kf22}ga{\kf22}mos{\kf22} que{\kf15} dure{\kf22} por{\kf22} si{\kf22}em{\kf32}pre
+Dialogue: 0,0:01:08.19,0:01:10.03,DEFAULT,,0,0,0,,{\r}{\kf14}Lu{\kf48}ces{\kf48} bri{\kf41}lla{\kf34}n,
+Dialogue: 0,0:01:10.26,0:01:11.94,DEFAULT,,0,0,0,,{\r}{\kf22}Rit{\kf22}mo{\kf22} se{\kf22} oye{\kf22} en{\kf22} el{\kf35} lugar
+Dialogue: 0,0:01:12.11,0:01:15.35,DEFAULT,,0,0,0,,{\r}{\kf28}La{\kf14} fi{\kf35}es{\kf21}ta{\kf21} Co{\kf21}mi{\kf21}enza,{\kf21} El{\kf21} DJ{\kf21} va a{\kf35} so{\kf64}nar.
+Dialogue: 0,0:01:15.75,0:01:22.39,DEFAULT,,0,0,0,,{\r}{\kf33}Las{\kf46} seis{\kf27} Va{\kf20}mos{\kf86} a{\kf86} lu{\kf80}cha{\kf66}-a{\kf46}-a{\kf174}-ar
+Dialogue: 0,0:01:23.14,0:01:28.74,DEFAULT,,0,0,0,,{\r}{\kf41}Las{\kf48} seis{\kf20} hay{\kf14} que{\kf102} de{\kf82}mos{\kf89}tra{\kf61}-a{\kf41}-a{\kf62}-ar
+Dialogue: 0,0:01:28.97,0:01:32.26,DEFAULT,,0,0,0,,{\r}{\kf19}La{\kf25} noche{\kf19} aqui{\kf32} es{\kf234}tá
+Dialogue: 0,0:01:32.73,0:01:36.02,DEFAULT,,0,0,0,,{\r}{\kf25}La{\kf38} noche{\kf51} se{\kf114}rá{\kf101}-a
+Dialogue: 0,0:01:36.48,0:01:41.27,DEFAULT,,0,0,0,,{\r}{\kf20}La{\kf20} noche{\kf20} se{\kf88}-rá{\kf67}-a{\kf61}-a{\kf81}-a{\kf122}-a

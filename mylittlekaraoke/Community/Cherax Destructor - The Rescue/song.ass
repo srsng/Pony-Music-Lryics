@@ -1,46 +1,53 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: The Rescue
+Artist: Cherax Destructor
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:32.62,0:00:37.43,DEFAULT,,0,0,0,,{\kf25}Ly{\kf19}ing{\kf44} face{\kf38}down{\kf38} drunk{\kf19} on{\kf19} the{\kf38} side{\kf38}walk{\kf25} think{\kf19}ing{\kf19} of{\kf50} her
-Dialogue: 0,0:00:40.62,0:00:43.50,DEFAULT,,0,0,0,,{\kf19}Is{\kf19} it{\kf38} love{\kf32} or{\kf25} all{\kf19} of{\kf19} this{\kf38} booze
-Dialogue: 0,0:00:43.87,0:00:45.37,DEFAULT,,0,0,0,,{\kf19}That's{\kf19} got{\kf19} me{\kf25} con{\kf50}fused?
-Dialogue: 0,0:00:46.18,0:00:48.12,DEFAULT,,0,0,0,,{\kf19}I'm{\kf32} not{\kf50} sure{\kf75}~
-Dialogue: 0,0:00:49.12,0:00:52.56,DEFAULT,,0,0,0,,{\kf69}It's{\kf69} late{\kf19} and{\kf57} it's{\kf63} cold
-Dialogue: 0,0:00:52.87,0:00:56.37,DEFAULT,,0,0,0,,{\kf19}And{\kf19} you{\kf38} just{\kf57} called{\kf19} to{\kf38} say{\kf44} hel{\kf50}lo
-Dialogue: 0,0:00:57.12,0:00:59.93,DEFAULT,,0,0,0,,{\kf19}I{\kf38} should{\kf38} be{\kf38} there{\kf32} for{\kf57} you
-Dialogue: 0,0:01:05.18,0:01:10.06,DEFAULT,,0,0,0,,{\kf19}I{\kf32} could{\kf38} be{\kf38} your{\kf44} res{\kf263}cue
-Dialogue: 0,0:01:13.12,0:01:16.81,DEFAULT,,0,0,0,,{\kf57}You{\kf63} need{\kf50} each{\kf50} o{\kf119}ther
-Dialogue: 0,0:01:17.12,0:01:20.81,DEFAULT,,0,0,0,,{\kf44}Go{\kf19} to{\kf100} her,{\kf38} go{\kf25} to{\kf94} her
-Dialogue: 0,0:01:21.12,0:01:24.87,DEFAULT,,0,0,0,,{\kf63}No{\kf63} time{\kf44} to{\kf50} won{\kf125}der
-Dialogue: 0,0:01:25.18,0:01:28.68,DEFAULT,,0,0,0,,{\kf38}Go{\kf19} to{\kf44} her{\kf32}~,{\kf38} go{\kf38} to{\kf88} her
-Dialogue: 0,0:01:29.12,0:01:32.50,DEFAULT,,0,0,0,,{\kf69}How{\kf57} long{\kf38} you've{\kf44} yearned{\kf19} for{\kf63} this
-Dialogue: 0,0:01:32.87,0:01:36.43,DEFAULT,,0,0,0,,{\kf19}An{\kf38} end{\kf19} to{\kf38} all{\kf38} your{\kf50} lone{\kf50}li{\kf57}ness
-Dialogue: 0,0:01:36.87,0:01:44.87,DEFAULT,,0,0,0,,{\kf25}Now{\kf63} you've{\kf63} earned{\kf25} this{\kf44} sweet{\kf25} suc{\kf125}cess{\kf100}~{\kf132}~{\kf19}~{\kf25}~{\kf25}~{\kf75}~
-Dialogue: 0,0:02:04.62,0:02:07.50,DEFAULT,,0,0,0,,{\kf25}Af{\kf19}ter{\kf32} all{\kf38} these{\kf38} years{\kf19} spent{\kf25} a{\kf38}lone
-Dialogue: 0,0:02:07.87,0:02:09.62,DEFAULT,,0,0,0,,{\kf25}I'm{\kf19} fi{\kf25}nal{\kf19}ly{\kf75} found
-Dialogue: 0,0:02:12.62,0:02:15.56,DEFAULT,,0,0,0,,{\kf19}Feel{\kf19} my{\kf32} heart{\kf32} in{\kf44} straight{\kf44}-time{\kf38} pound
-Dialogue: 0,0:02:15.87,0:02:18.50,DEFAULT,,0,0,0,,{\kf7}To{\kf13} the{\kf13} beat{\kf19} of{\kf19} this{\kf32} strange{\kf25} new{\kf19}~{\kf63} sound
-Dialogue: 0,0:02:20.81,0:02:24.43,DEFAULT,,0,0,0,,{\kf25}I'm{\kf50} so{\kf63} drunk{\kf50} on{\kf57} you
-Dialogue: 0,0:02:24.87,0:02:28.43,DEFAULT,,0,0,0,,{\kf19}The{\kf19} way{\kf44} you{\kf57} move,{\kf25} your{\kf38} sun{\kf38}set{\kf57} tunes
-Dialogue: 0,0:02:29.12,0:02:32.75,DEFAULT,,0,0,0,,{\kf25}No{\kf38}thing's{\kf38} how{\kf38} we'd{\kf44} planned{\kf132} it
-Dialogue: 0,0:02:33.12,0:02:36.68,DEFAULT,,0,0,0,,{\kf38}One{\kf38} more{\kf38} step{\kf50} to{\kf38}wards{\kf107} me
-Dialogue: 0,0:02:36.87,0:02:41.43,DEFAULT,,0,0,0,,{\kf19}We{\kf19} have{\kf32} to{\kf38} take{\kf32} this{\kf44} gam{\kf200}ble
-Dialogue: 0,0:02:41.62,0:02:44.75,DEFAULT,,0,0,0,,{\kf7}With{\kf25} your{\kf50} sha{\kf38}king{\kf50} bo{\kf113}dy
-Dialogue: 0,0:02:45.18,0:02:48.75,DEFAULT,,0,0,0,,{\kf63}You{\kf63} need{\kf38} each{\kf44} o{\kf107}ther
-Dialogue: 0,0:02:49.06,0:02:52.75,DEFAULT,,0,0,0,,{\kf38}Go{\kf19} to{\kf107} her,{\kf38} go{\kf19} to{\kf94} her
-Dialogue: 0,0:02:53.12,0:02:56.87,DEFAULT,,0,0,0,,{\kf50}Don't{\kf63} stop{\kf44} to{\kf50} won{\kf125}der
-Dialogue: 0,0:02:57.12,0:03:00.75,DEFAULT,,0,0,0,,{\kf44}Go{\kf19} to{\kf50} her{\kf57}~,{\kf44} go{\kf13} to{\kf88} her
-Dialogue: 0,0:03:01.18,0:03:04.87,DEFAULT,,0,0,0,,{\kf25}E{\kf38}very{\kf50} mo{\kf57}ment's{\kf44} led{\kf19} to{\kf100} this
-Dialogue: 0,0:03:05.12,0:03:08.56,DEFAULT,,0,0,0,,{\kf25}Flus{\kf38}tered{\kf38} glance{\kf32} and{\kf50} fum{\kf44}bled{\kf69} kiss
-Dialogue: 0,0:03:08.87,0:03:16.81,DEFAULT,,0,0,0,,{\kf19}Now{\kf38} you{\kf32} de{\kf63}serve{\kf38} this{\kf32} hap{\kf50}pi{\kf125}ness{\kf100}~{\kf125}~{\kf25}~{\kf25}~{\kf25}~{\kf69}~
-Dialogue: 0,0:03:35.12,0:03:42.25,DEFAULT,,0,0,0,,{\kf38}Take{\kf38} you{\kf88} through{\kf88} the{\kf88} cold{\kf63} and{\kf244} snow
-Dialogue: 0,0:03:43.12,0:03:49.56,DEFAULT,,0,0,0,,{\kf38}To{\kf44} that{\kf82} place{\kf88} we've{\kf138} ne{\kf25}ver{\kf169} known
-Dialogue: 0,0:03:51.18,0:03:57.81,DEFAULT,,0,0,0,,{\kf38}I{\kf44} just{\kf94} need{\kf88} to{\kf94} let{\kf32} you{\kf38}~{\kf182} know
+Dialogue: 0,0:00:32.62,0:00:37.44,DEFAULT,,0,0,0,,{\r}{\kf31}Ly{\kf23}ing{\kf54} face{\kf47}down{\kf47} drunk{\kf23} on{\kf23} the{\kf47} side{\kf47}walk{\kf31} think{\kf23}ing{\kf23} of{\kf62} her
+Dialogue: 0,0:00:40.62,0:00:43.50,DEFAULT,,0,0,0,,{\r}{\kf26}Is{\kf26} it{\kf52} love{\kf44} or{\kf35} all{\kf26} of{\kf26} this{\kf53} booze
+Dialogue: 0,0:00:43.88,0:00:45.38,DEFAULT,,0,0,0,,{\r}{\kf21}That's{\kf21} got{\kf21} me{\kf29} con{\kf58}fused?
+Dialogue: 0,0:00:46.19,0:00:48.12,DEFAULT,,0,0,0,,{\r}{\kf21}I'm{\kf35} not{\kf55} sure{\kf83}~
+Dialogue: 0,0:00:49.12,0:00:52.56,DEFAULT,,0,0,0,,{\r}{\kf86}It's{\kf86} late{\kf23} and{\kf70} it's{\kf79} cold
+Dialogue: 0,0:00:52.88,0:00:56.38,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf23} you{\kf47} just{\kf70} called{\kf23} to{\kf47} say{\kf54} hel{\kf63}lo
+Dialogue: 0,0:00:57.12,0:00:59.94,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf48} should{\kf48} be{\kf48} there{\kf40} for{\kf73} you
+Dialogue: 0,0:01:05.19,0:01:10.06,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf35} could{\kf42} be{\kf42} your{\kf50} res{\kf298}cue
+Dialogue: 0,0:01:13.12,0:01:16.81,DEFAULT,,0,0,0,,{\r}{\kf62}You{\kf68} need{\kf55} each{\kf55} o{\kf129}ther
+Dialogue: 0,0:01:17.12,0:01:20.81,DEFAULT,,0,0,0,,{\r}{\kf51}Go{\kf22} to{\kf116} her,{\kf43} go{\kf29} to{\kf108} her
+Dialogue: 0,0:01:21.12,0:01:24.88,DEFAULT,,0,0,0,,{\r}{\kf68}No{\kf68} time{\kf48} to{\kf55} won{\kf136}der
+Dialogue: 0,0:01:25.19,0:01:28.69,DEFAULT,,0,0,0,,{\r}{\kf45}Go{\kf22} to{\kf52} her{\kf37}~,{\kf45} go{\kf45} to{\kf104} her
+Dialogue: 0,0:01:29.12,0:01:32.50,DEFAULT,,0,0,0,,{\r}{\kf81}How{\kf66} long{\kf44} you've{\kf51} yearned{\kf22} for{\kf74} this
+Dialogue: 0,0:01:32.88,0:01:36.44,DEFAULT,,0,0,0,,{\r}{\kf22}An{\kf44} end{\kf22} to{\kf44} all{\kf44} your{\kf58} lone{\kf58}li{\kf64}ness
+Dialogue: 0,0:01:36.88,0:01:44.88,DEFAULT,,0,0,0,,{\r}{\kf27}Now{\kf67} you've{\kf67} earned{\kf27} this{\kf47} sweet{\kf27} suc{\kf134}cess{\kf108}~{\kf141}~{\kf20}~{\kf27}~{\kf27}~{\kf81}~
+Dialogue: 0,0:02:04.62,0:02:07.50,DEFAULT,,0,0,0,,{\r}{\kf31}Af{\kf23}ter{\kf39} all{\kf47} these{\kf47} years{\kf23} spent{\kf31} a{\kf47}lone
+Dialogue: 0,0:02:07.88,0:02:09.62,DEFAULT,,0,0,0,,{\r}{\kf27}I'm{\kf20} fi{\kf27}nal{\kf20}ly{\kf81} found
+Dialogue: 0,0:02:12.62,0:02:15.56,DEFAULT,,0,0,0,,{\r}{\kf24}Feel{\kf24} my{\kf41} heart{\kf41} in{\kf57} straight{\kf57}-time{\kf50} pound
+Dialogue: 0,0:02:15.88,0:02:18.50,DEFAULT,,0,0,0,,{\r}{\kf10}To{\kf16} the{\kf16} beat{\kf24} of{\kf24} this{\kf40} strange{\kf32} new{\kf24}~{\kf76} sound
+Dialogue: 0,0:02:20.81,0:02:24.44,DEFAULT,,0,0,0,,{\r}{\kf37}I'm{\kf74} so{\kf93} drunk{\kf74} on{\kf84} you
+Dialogue: 0,0:02:24.88,0:02:28.44,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf23} way{\kf53} you{\kf68} move,{\kf30} your{\kf45} sun{\kf45}set{\kf69} tunes
+Dialogue: 0,0:02:29.12,0:02:32.75,DEFAULT,,0,0,0,,{\r}{\kf29}No{\kf43}thing's{\kf43} how{\kf43} we'd{\kf51} planned{\kf153} it
+Dialogue: 0,0:02:33.12,0:02:36.69,DEFAULT,,0,0,0,,{\r}{\kf44}One{\kf44} more{\kf44} step{\kf58} to{\kf44}wards{\kf122} me
+Dialogue: 0,0:02:36.88,0:02:41.44,DEFAULT,,0,0,0,,{\r}{\kf22}We{\kf22} have{\kf37} to{\kf45} take{\kf37} this{\kf52} gam{\kf241}ble
+Dialogue: 0,0:02:41.62,0:02:44.75,DEFAULT,,0,0,0,,{\r}{\kf10}With{\kf28} your{\kf55} sha{\kf42}king{\kf55} bo{\kf122}dy
+Dialogue: 0,0:02:45.19,0:02:48.75,DEFAULT,,0,0,0,,{\r}{\kf71}You{\kf71} need{\kf43} each{\kf50} o{\kf121}ther
+Dialogue: 0,0:02:49.06,0:02:52.75,DEFAULT,,0,0,0,,{\r}{\kf44}Go{\kf22} to{\kf125} her,{\kf44} go{\kf22} to{\kf112} her
+Dialogue: 0,0:02:53.12,0:02:56.88,DEFAULT,,0,0,0,,{\r}{\kf57}Don't{\kf71} stop{\kf50} to{\kf57} won{\kf140}der
+Dialogue: 0,0:02:57.12,0:03:00.75,DEFAULT,,0,0,0,,{\r}{\kf51}Go{\kf22} to{\kf58} her{\kf65}~,{\kf51} go{\kf14} to{\kf101} her
+Dialogue: 0,0:03:01.19,0:03:04.88,DEFAULT,,0,0,0,,{\r}{\kf28}E{\kf42}very{\kf56} mo{\kf63}ment's{\kf49} led{\kf21} to{\kf110} this
+Dialogue: 0,0:03:05.12,0:03:08.56,DEFAULT,,0,0,0,,{\r}{\kf29}Flus{\kf44}tered{\kf44} glance{\kf37} and{\kf59} fum{\kf51}bled{\kf80} kiss
+Dialogue: 0,0:03:08.88,0:03:16.81,DEFAULT,,0,0,0,,{\r}{\kf20}Now{\kf39} you{\kf33} de{\kf65}serve{\kf39} this{\kf33} hap{\kf52}pi{\kf130}ness{\kf104}~{\kf130}~{\kf26}~{\kf26}~{\kf26}~{\kf71}~
+Dialogue: 0,0:03:35.12,0:03:42.25,DEFAULT,,0,0,0,,{\r}{\kf41}Take{\kf41} you{\kf97} through{\kf97} the{\kf97} cold{\kf69} and{\kf270} snow
+Dialogue: 0,0:03:43.12,0:03:49.56,DEFAULT,,0,0,0,,{\r}{\kf42}To{\kf48} that{\kf90} place{\kf97} we've{\kf152} ne{\kf28}ver{\kf187} known
+Dialogue: 0,0:03:51.19,0:03:57.81,DEFAULT,,0,0,0,,{\r}{\kf41}I{\kf48} just{\kf102} need{\kf96} to{\kf102} let{\kf34} you{\kf41}~{\kf198} know

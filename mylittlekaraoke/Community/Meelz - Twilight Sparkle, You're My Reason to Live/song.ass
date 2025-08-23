@@ -1,88 +1,95 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Twilight Sparkle, You're My Reason to Live
+Artist: Meelz
+Original Timing: mylittlekaraoke.com by Steven Knapp, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:23.60,0:00:26.30,DEFAULT,,0,0,0,,{\kf26}There's{\kf9} some{\kf9}thing{\kf9} a{\kf18}bout{\kf26} that{\kf26} ma{\kf9}gic{\kf18}~{\kf43} girl
-Dialogue: 0,0:00:26.51,0:00:29.08,DEFAULT,,0,0,0,,{\kf9}That{\kf9} brings{\kf9} a{\kf9} full{\kf22} stop{\kf26} to{\kf26} the{\kf13} whole{\kf9}~{\kf43} world
-Dialogue: 0,0:00:29.60,0:00:31.82,DEFAULT,,0,0,0,,{\kf9}When{\kf13} I{\kf30} look{\kf9} in{\kf9} her{\kf43} eyes
-Dialogue: 0,0:00:32.00,0:00:34.10,DEFAULT,,0,0,0,,{\kf9}And{\kf9} sud{\kf9}den{\kf9}ly{\kf22} noth{\kf26}ing{\kf30} mat{\kf39}ters
-Dialogue: 0,0:00:34.57,0:00:37.27,DEFAULT,,0,0,0,,{\kf26}In{\kf9}spi{\kf9}r{\kf9}ing{\kf22} me{\kf26} to{\kf22} face{\kf9} my{\kf22}~{\kf43} fears
-Dialogue: 0,0:00:37.48,0:00:40.05,DEFAULT,,0,0,0,,{\kf9}Her{\kf9} ma{\kf9}gi{\kf9}cal{\kf22} spark{\kf22} brings{\kf26} me{\kf9} to{\kf13}~{\kf52} tears
-Dialogue: 0,0:00:40.57,0:00:41.34,DEFAULT,,0,0,0,,{\kf9}All{\kf13} these{\kf39} years
-Dialogue: 0,0:00:41.94,0:00:45.11,DEFAULT,,0,0,0,,{\kf9}of{\kf9} me{\kf48} watch{\kf9}ing{\kf9} this{\kf26} show{\kf22} for{\kf22} lit{\kf26}tle{\kf43} girls
-Dialogue: 0,0:00:45.88,0:00:48.24,DEFAULT,,0,0,0,,{\kf13}Eve{\kf26}ry{\kf30}day{\kf9}~{\kf9} I{\kf22} look{\kf30} and{\kf9}~{\kf30} try
-Dialogue: 0,0:00:48.62,0:00:51.02,DEFAULT,,0,0,0,,{\kf13}One{\kf22} day{\kf26} we'll{\kf9}~{\kf9} see{\kf18} eye{\kf30} to{\kf35} eye
-Dialogue: 0,0:00:51.20,0:00:53.64,DEFAULT,,0,0,0,,{\kf9}I'll{\kf13} break{\kf13} the{\kf18} fourth{\kf26} wall{\kf18} just{\kf30} for{\kf22} you
-Dialogue: 0,0:00:53.94,0:00:56.38,DEFAULT,,0,0,0,,{\kf9}Re{\kf9}a{\kf22}li{\kf22}ty{\kf26} can't{\kf22} hold{\kf22} us{\kf35} through
-Dialogue: 0,0:00:56.51,0:00:58.91,DEFAULT,,0,0,0,,{\kf22}This{\kf18} chick{\kf22} means{\kf9} the{\kf26} whole{\kf18} world{\kf13} to{\kf13} me{\kf22}~
-Dialogue: 0,0:00:59.21,0:01:01.40,DEFAULT,,0,0,0,,{\kf22} I{\kf30} just{\kf22} want{\kf9} ever{\kf26}y{\kf18}one{\kf13} to{\kf9} see
-Dialogue: 0,0:01:01.48,0:01:02.98,DEFAULT,,0,0,0,,{\kf9}I'd{\kf9} give{\kf13} it{\kf22} my{\kf52} all
-Dialogue: 0,0:01:03.62,0:01:07.10,DEFAULT,,0,0,0,,{\kf22}Just{\kf9}~{\kf26} to{\kf26} see{\kf35} her{\kf30} smile{\kf35} smile{\kf35} smile{\kf30}~
-Dialogue: 0,0:01:07.48,0:01:09.71,DEFAULT,,0,0,0,,{\kf22}These{\kf22} peo{\kf22}ple{\kf9} they{\kf22} can{\kf18} boo{\kf18} me{\kf22}~
-Dialogue: 0,0:01:10.18,0:01:12.11,DEFAULT,,0,0,0,,{\kf18}This{\kf22} hate{\kf26} will{\kf9} nev{\kf22}er{\kf18} phase{\kf9} me
-Dialogue: 0,0:01:12.24,0:01:13.95,DEFAULT,,0,0,0,,{\kf9}'Cause{\kf9} the{\kf9} look{\kf13} in{\kf22} those{\kf52} eyes
-Dialogue: 0,0:01:14.64,0:01:18.24,DEFAULT,,0,0,0,,{\kf22}Makes{\kf22} this{\kf26} hell{\kf35} here{\kf30} all{\kf30} worth{\kf35}while{\kf48}~
-Dialogue: 0,0:01:18.75,0:01:21.15,DEFAULT,,0,0,0,,{\kf9}Twi{\kf9}light{\kf9} Spark{\kf9}le{\kf9} you're{\kf22} my{\kf26} rea{\kf9}son{\kf9} to{\kf52} live
-Dialogue: 0,0:01:32.17,0:01:34.82,DEFAULT,,0,0,0,,{\kf26}No{\kf9} o{\kf9}ther{\kf9} girl{\kf18} out{\kf26} there{\kf26} can{\kf9} com{\kf18}~{\kf39}pare
-Dialogue: 0,0:01:35.08,0:01:37.65,DEFAULT,,0,0,0,,{\kf9}Be{\kf9}lieve{\kf9} me{\kf9} I've{\kf18} looked{\kf22} just{\kf26} eve{\kf9}ry{\kf18}~{\kf48}where
-Dialogue: 0,0:01:38.12,0:01:38.85,DEFAULT,,0,0,0,,{\kf9}And{\kf9} I{\kf30} swear
-Dialogue: 0,0:01:39.50,0:01:42.62,DEFAULT,,0,0,0,,{\kf9}From{\kf9} the{\kf60} bot{\kf9}tom{\kf9} of{\kf18} my{\kf22} heart{\kf26} I{\kf30} mean{\kf35} this
-Dialogue: 0,0:01:43.14,0:01:45.71,DEFAULT,,0,0,0,,{\kf26}Your{\kf9} eyes{\kf9} are{\kf9} a{\kf18} bea{\kf22}con{\kf26} shin{\kf9}ing{\kf22}~{\kf30} bright
-Dialogue: 0,0:01:46.05,0:01:48.58,DEFAULT,,0,0,0,,{\kf9}Your{\kf9} hair{\kf9} in{\kf9} the{\kf22} wind{\kf26} bring{\kf22}ing{\kf9} to{\kf13}~{\kf48} light
-Dialogue: 0,0:01:49.14,0:01:49.91,DEFAULT,,0,0,0,,{\kf9}All{\kf9} the{\kf39} feels
-Dialogue: 0,0:01:50.47,0:01:53.60,DEFAULT,,0,0,0,,{\kf9}It's{\kf9} too{\kf48} bad{\kf9} for{\kf9} me{\kf9} you{\kf9} don't{\kf26} e{\kf26}ven{\kf26} ex{\kf35}ist
-Dialogue: 0,0:01:54.41,0:01:56.85,DEFAULT,,0,0,0,,{\kf18}Eve{\kf18}ry{\kf26}day{\kf9}~{\kf9} I{\kf22} look{\kf30} and{\kf9}~{\kf35} try
-Dialogue: 0,0:01:57.20,0:01:59.60,DEFAULT,,0,0,0,,{\kf13}One{\kf22} day{\kf26} we'll{\kf9}~{\kf9} see{\kf22} eye{\kf30} to{\kf35} eye
-Dialogue: 0,0:01:59.77,0:02:02.25,DEFAULT,,0,0,0,,{\kf9}I'll{\kf13} break{\kf18} the{\kf18} fourth{\kf18} wall{\kf13} just{\kf30} for{\kf26} you
-Dialogue: 0,0:02:02.55,0:02:04.95,DEFAULT,,0,0,0,,{\kf9}Re{\kf9}a{\kf22}li{\kf22}ty{\kf26} can't{\kf22} hold{\kf22} us{\kf35} through
-Dialogue: 0,0:02:05.08,0:02:07.48,DEFAULT,,0,0,0,,{\kf22}This{\kf18} chick{\kf22} means{\kf9} the{\kf26} whole{\kf18} world{\kf13} to{\kf13} me{\kf22}~
-Dialogue: 0,0:02:07.78,0:02:09.97,DEFAULT,,0,0,0,,{\kf22}I{\kf26} just{\kf22} want{\kf9} ever{\kf26}y{\kf18}one{\kf13} to{\kf9} see
-Dialogue: 0,0:02:10.05,0:02:11.55,DEFAULT,,0,0,0,,{\kf9}I'd{\kf9} give{\kf13} it{\kf18} my{\kf9}~{\kf52} all
-Dialogue: 0,0:02:12.20,0:02:15.67,DEFAULT,,0,0,0,,{\kf22}Just{\kf9}~{\kf26} to{\kf26} see{\kf35} her{\kf30} smile{\kf35} smile{\kf35} smile{\kf30}~
-Dialogue: 0,0:02:16.05,0:02:18.24,DEFAULT,,0,0,0,,{\kf22}These{\kf22} peo{\kf22}ple{\kf9} they{\kf22} can{\kf18} boo{\kf18} me{\kf18}~
-Dialogue: 0,0:02:18.75,0:02:20.68,DEFAULT,,0,0,0,,{\kf22}This{\kf22} hate{\kf26} will{\kf9} nev{\kf22}er{\kf18} phase{\kf9} me
-Dialogue: 0,0:02:20.81,0:02:22.52,DEFAULT,,0,0,0,,{\kf9}'Cause{\kf9} the{\kf9} look{\kf13} in{\kf22} those{\kf52} eyes
-Dialogue: 0,0:02:23.21,0:02:26.81,DEFAULT,,0,0,0,,{\kf22}Makes{\kf18} this{\kf30} hell{\kf35} here{\kf30} all{\kf30} worth{\kf35}while{\kf48}~
-Dialogue: 0,0:02:27.32,0:02:29.64,DEFAULT,,0,0,0,,{\kf9}Twi{\kf9}light{\kf9} Spark{\kf9}le{\kf9} you're{\kf22} my{\kf26} rea{\kf9}son{\kf9} to{\kf43} live
-Dialogue: 0,0:02:29.77,0:02:32.68,DEFAULT,,0,0,0,,{\kf22}I{\kf22} dream{\kf22} of{\kf13} ly{\kf18}ing{\kf22} un{\kf9}der{\kf9} the{\kf52} stars{\kf18}~
-Dialogue: 0,0:02:32.85,0:02:34.05,DEFAULT,,0,0,0,,{\kf13}next{\kf9} to{\kf18} you{\kf52}~
-Dialogue: 0,0:02:35.17,0:02:37.40,DEFAULT,,0,0,0,,{\kf30}With{\kf22} all{\kf22} this{\kf9} know{\kf22}ledge{\kf26} ain't{\kf26} there
-Dialogue: 0,0:02:37.61,0:02:39.88,DEFAULT,,0,0,0,,{\kf9}Some{\kf22}one{\kf22} there{\kf13} worth{\kf18}~{\kf9} shar{\kf9}ing{\kf39} to?
-Dialogue: 0,0:02:40.57,0:02:43.18,DEFAULT,,0,0,0,,{\kf9}And{\kf13} it{\kf18} hurts{\kf22} I'll{\kf9} nev{\kf18}er{\kf26} tell{\kf13} you{\kf22}~{\kf18} this
-Dialogue: 0,0:02:43.44,0:02:46.05,DEFAULT,,0,0,0,,{\kf22}It{\kf22} hurts{\kf26} I'll{\kf13} nev{\kf13}er{\kf22} feel{\kf22} your{\kf35} face
-Dialogue: 0,0:02:46.22,0:02:50.90,DEFAULT,,0,0,0,,{\kf18}Three{\kf9} sim{\kf22}ple{\kf22} words{\kf18}~{\kf9} to{\kf26} tell{\kf9} you{\kf26} that{\kf43} I{\kf9}~{\kf39} love{\kf9}~{\kf39} you{\kf56}~
-Dialogue: 0,0:02:51.67,0:02:54.37,DEFAULT,,0,0,0,,{\kf26}There's{\kf9} some{\kf9}thing{\kf9} a{\kf22}bout{\kf26} that{\kf26} ma{\kf9}gic{\kf18}~{\kf43} girl
-Dialogue: 0,0:02:54.58,0:02:57.20,DEFAULT,,0,0,0,,{\kf9}That{\kf9} brings{\kf9} a{\kf9} full{\kf22} stop{\kf22} to{\kf26} the{\kf9} whole{\kf9}~{\kf43} world
-Dialogue: 0,0:02:57.71,0:02:59.94,DEFAULT,,0,0,0,,{\kf9}When{\kf13} I{\kf35} look{\kf9} in{\kf13} her{\kf43} eyes
-Dialogue: 0,0:03:00.11,0:03:03.11,DEFAULT,,0,0,0,,{\kf9}And{\kf9} sud{\kf9}den{\kf9}ly{\kf22} noth{\kf26}ing{\kf30} mat{\kf129}ters
-Dialogue: 0,0:03:03.37,0:03:03.54,DEFAULT,,0,0,0,,{\kf18}Go!
-Dialogue: 0,0:03:26.34,0:03:28.74,DEFAULT,,0,0,0,,{\kf13}Eve{\kf22}ry{\kf30}day{\kf9}~{\kf9} I{\kf18} look{\kf30} and{\kf35} try
-Dialogue: 0,0:03:29.04,0:03:31.44,DEFAULT,,0,0,0,,{\kf13}One{\kf22} day{\kf26} we'll{\kf9}~{\kf9} see{\kf22} eye{\kf30} to{\kf30} eye
-Dialogue: 0,0:03:31.65,0:03:34.14,DEFAULT,,0,0,0,,{\kf9}I'll{\kf13} break{\kf13} the{\kf18} fourth{\kf26} wall{\kf13} just{\kf30} for{\kf26} you
-Dialogue: 0,0:03:34.40,0:03:36.84,DEFAULT,,0,0,0,,{\kf9}Re{\kf9}a{\kf26}li{\kf22}ty{\kf26} can't{\kf22} hold{\kf18} us{\kf35} through
-Dialogue: 0,0:03:36.97,0:03:39.37,DEFAULT,,0,0,0,,{\kf22}This{\kf18} chick{\kf22} means{\kf9} the{\kf26} whole{\kf18} world{\kf13} to{\kf13} me{\kf22}~
-Dialogue: 0,0:03:39.67,0:03:41.85,DEFAULT,,0,0,0,,{\kf22}I{\kf30} just{\kf22} want{\kf9} ever{\kf26}y{\kf18}one{\kf13} to{\kf9} see
-Dialogue: 0,0:03:41.94,0:03:43.44,DEFAULT,,0,0,0,,{\kf9}I'd{\kf9} give{\kf13} it{\kf22} my{\kf52} all
-Dialogue: 0,0:03:44.08,0:03:47.55,DEFAULT,,0,0,0,,{\kf22}Just{\kf9}~{\kf26} to{\kf30} see{\kf35} her{\kf30} smile{\kf35} smile{\kf35} smile{\kf30}~
-Dialogue: 0,0:03:47.94,0:03:50.17,DEFAULT,,0,0,0,,{\kf22}These{\kf22} peo{\kf22}ple{\kf9} they{\kf22} can{\kf18} boo{\kf18} me{\kf22}~
-Dialogue: 0,0:03:50.64,0:03:52.57,DEFAULT,,0,0,0,,{\kf22}This{\kf22} hate{\kf26} will{\kf13} nev{\kf22}er{\kf18} phase{\kf9} me
-Dialogue: 0,0:03:52.70,0:03:54.41,DEFAULT,,0,0,0,,{\kf9}'Cause{\kf9} the{\kf9} look{\kf13} in{\kf22} those{\kf52} eyes
-Dialogue: 0,0:03:55.10,0:03:58.70,DEFAULT,,0,0,0,,{\kf13}Makes{\kf22} this{\kf30} hell{\kf35} here{\kf30} all{\kf30} worth{\kf35}while{\kf48}~
-Dialogue: 0,0:03:58.91,0:04:01.31,DEFAULT,,0,0,0,,{\kf18}And{\kf26} though{\kf22} it{\kf9} seems{\kf22} im{\kf18}pos{\kf13}si{\kf13}ble{\kf22}~
-Dialogue: 0,0:04:01.61,0:04:03.62,DEFAULT,,0,0,0,,{\kf22}There's{\kf26} no{\kf22} harm{\kf9} hop{\kf26}ing{\kf18} one{\kf13} day
-Dialogue: 0,0:04:03.71,0:04:06.32,DEFAULT,,0,0,0,,{\kf9}That{\kf9} the{\kf9} girl{\kf13} of{\kf22} my{\kf39} dreams{\kf18} sees{\kf9}~
-Dialogue: 0,0:04:06.45,0:04:09.50,DEFAULT,,0,0,0,,{\kf26}Be{\kf30}yond{\kf35} the{\kf30} light{\kf35}ed{\kf35} stage{\kf30}~
-Dialogue: 0,0:04:09.88,0:04:12.07,DEFAULT,,0,0,0,,{\kf18}Till'{\kf22} then{\kf22} I'll{\kf9} hold{\kf22} you{\kf43} close{\kf22}~
-Dialogue: 0,0:04:12.45,0:04:14.51,DEFAULT,,0,0,0,,{\kf9}And{\kf22} I{\kf22} wrote{\kf26} this{\kf13} song{\kf22} to{\kf18} show{\kf9} you
-Dialogue: 0,0:04:14.64,0:04:16.74,DEFAULT,,0,0,0,,{\kf9}That{\kf9} I'm{\kf9} giv{\kf13}ing{\kf18} you{\kf22} my{\kf52} word
-Dialogue: 0,0:04:17.12,0:04:20.51,DEFAULT,,0,0,0,,{\kf18}I{\kf18} just{\kf30} hope{\kf35} I'll{\kf30} make{\kf30} you{\kf35} proud{\kf35}~
-Dialogue: 0,0:04:21.37,0:04:23.21,DEFAULT,,0,0,0,,{\kf9}And{\kf18} I'll{\kf9} keep{\kf18} on{\kf22} say{\kf48}ing
-Dialogue: 0,0:04:23.90,0:04:26.34,DEFAULT,,0,0,0,,{\kf9}Twi{\kf9}light{\kf9} Spark{\kf9}le{\kf9} you're{\kf22} my{\kf26} rea{\kf9}son{\kf9} to{\kf52} live
-Dialogue: 0,0:04:34.87,0:04:38.47,DEFAULT,,0,0,0,,{\kf9}Twi{\kf9}light{\kf9} Spark{\kf9}le{\kf9} you're{\kf22} my{\kf26} rea{\kf9}son{\kf9} to{\kf172} live
+Dialogue: 0,0:00:23.60,0:00:26.30,DEFAULT,,0,0,0,,{\r}{\kf37}There's{\kf12} some{\kf12}thing{\kf12} a{\kf25}bout{\kf37} that{\kf37} ma{\kf12}gic{\kf25}~{\kf61} girl
+Dialogue: 0,0:00:26.51,0:00:29.09,DEFAULT,,0,0,0,,{\r}{\kf13}That{\kf13} brings{\kf13} a{\kf13} full{\kf32} stop{\kf39} to{\kf39} the{\kf19} whole{\kf13}~{\kf63} world
+Dialogue: 0,0:00:29.60,0:00:31.83,DEFAULT,,0,0,0,,{\r}{\kf17}When{\kf26} I{\kf60} look{\kf17} in{\kf17} her{\kf86} eyes
+Dialogue: 0,0:00:32.00,0:00:34.10,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf12} sud{\kf12}den{\kf12}ly{\kf30} noth{\kf36}ing{\kf42} mat{\kf54}ters
+Dialogue: 0,0:00:34.57,0:00:37.27,DEFAULT,,0,0,0,,{\r}{\kf36}In{\kf12}spi{\kf12}r{\kf12}ing{\kf30} me{\kf36} to{\kf30} face{\kf12} my{\kf30}~{\kf60} fears
+Dialogue: 0,0:00:37.49,0:00:40.06,DEFAULT,,0,0,0,,{\r}{\kf13}Her{\kf13} ma{\kf13}gi{\kf13}cal{\kf31} spark{\kf31} brings{\kf38} me{\kf13} to{\kf19}~{\kf73} tears
+Dialogue: 0,0:00:40.57,0:00:41.34,DEFAULT,,0,0,0,,{\r}{\kf11}All{\kf16} these{\kf50} years
+Dialogue: 0,0:00:41.94,0:00:45.11,DEFAULT,,0,0,0,,{\r}{\kf12}of{\kf12} me{\kf68} watch{\kf12}ing{\kf12} this{\kf37} show{\kf31} for{\kf31} lit{\kf37}tle{\kf65} girls
+Dialogue: 0,0:00:45.89,0:00:48.24,DEFAULT,,0,0,0,,{\r}{\kf17}Eve{\kf35}ry{\kf40}day{\kf12}~{\kf12} I{\kf29} look{\kf40} and{\kf12}~{\kf39} try
+Dialogue: 0,0:00:48.63,0:00:51.03,DEFAULT,,0,0,0,,{\r}{\kf19}One{\kf32} day{\kf39} we'll{\kf13}~{\kf13} see{\kf26} eye{\kf45} to{\kf53} eye
+Dialogue: 0,0:00:51.20,0:00:53.64,DEFAULT,,0,0,0,,{\r}{\kf14}I'll{\kf22} break{\kf22} the{\kf29} fourth{\kf43} wall{\kf29} just{\kf50} for{\kf35} you
+Dialogue: 0,0:00:53.94,0:00:56.39,DEFAULT,,0,0,0,,{\r}{\kf13}Re{\kf13}a{\kf32}li{\kf32}ty{\kf39} can't{\kf32} hold{\kf32} us{\kf51} through
+Dialogue: 0,0:00:56.51,0:00:58.91,DEFAULT,,0,0,0,,{\r}{\kf32}This{\kf26} chick{\kf32} means{\kf13} the{\kf39} whole{\kf26} world{\kf19} to{\kf19} me{\kf34}~
+Dialogue: 0,0:00:59.21,0:01:01.40,DEFAULT,,0,0,0,,{\r}{\kf32} I{\kf45} just{\kf32} want{\kf13} ever{\kf39}y{\kf26}one{\kf19} to{\kf13} see
+Dialogue: 0,0:01:01.49,0:01:02.99,DEFAULT,,0,0,0,,{\r}{\kf13}I'd{\kf13} give{\kf19} it{\kf31} my{\kf74} all
+Dialogue: 0,0:01:03.63,0:01:07.10,DEFAULT,,0,0,0,,{\r}{\kf30}Just{\kf12}~{\kf37} to{\kf37} see{\kf49} her{\kf43} smile{\kf49} smile{\kf49} smile{\kf41}~
+Dialogue: 0,0:01:07.49,0:01:09.71,DEFAULT,,0,0,0,,{\r}{\kf32}These{\kf32} peo{\kf32}ple{\kf13} they{\kf32} can{\kf25} boo{\kf25} me{\kf32}~
+Dialogue: 0,0:01:10.19,0:01:12.11,DEFAULT,,0,0,0,,{\r}{\kf28}This{\kf34} hate{\kf41} will{\kf14} nev{\kf34}er{\kf28} phase{\kf14} me
+Dialogue: 0,0:01:12.24,0:01:13.96,DEFAULT,,0,0,0,,{\r}{\kf13}'Cause{\kf13} the{\kf13} look{\kf20} in{\kf33} those{\kf79} eyes
+Dialogue: 0,0:01:14.64,0:01:18.24,DEFAULT,,0,0,0,,{\r}{\kf32}Makes{\kf32} this{\kf38} hell{\kf51} here{\kf44} all{\kf44} worth{\kf51}while{\kf68}~
+Dialogue: 0,0:01:18.76,0:01:21.16,DEFAULT,,0,0,0,,{\r}{\kf13}Twi{\kf13}light{\kf13} Spark{\kf13}le{\kf13} you're{\kf32} my{\kf39} rea{\kf13}son{\kf13} to{\kf78} live
+Dialogue: 0,0:01:32.17,0:01:34.83,DEFAULT,,0,0,0,,{\r}{\kf37}No{\kf12} o{\kf12}ther{\kf12} girl{\kf25} out{\kf37} there{\kf37} can{\kf12} com{\kf25}~{\kf57}pare
+Dialogue: 0,0:01:35.09,0:01:37.66,DEFAULT,,0,0,0,,{\r}{\kf13}Be{\kf13}lieve{\kf13} me{\kf13} I've{\kf26} looked{\kf32} just{\kf39} eve{\kf13}ry{\kf26}~{\kf69}where
+Dialogue: 0,0:01:38.13,0:01:38.86,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf13} I{\kf47} swear
+Dialogue: 0,0:01:39.50,0:01:42.63,DEFAULT,,0,0,0,,{\r}{\kf12}From{\kf12} the{\kf84} bot{\kf12}tom{\kf12} of{\kf24} my{\kf30} heart{\kf36} I{\kf42} mean{\kf49} this
+Dialogue: 0,0:01:43.14,0:01:45.71,DEFAULT,,0,0,0,,{\r}{\kf38}Your{\kf13} eyes{\kf13} are{\kf13} a{\kf25} bea{\kf31}con{\kf38} shin{\kf13}ing{\kf31}~{\kf42} bright
+Dialogue: 0,0:01:46.06,0:01:48.59,DEFAULT,,0,0,0,,{\r}{\kf13}Your{\kf13} hair{\kf13} in{\kf13} the{\kf32} wind{\kf38} bring{\kf32}ing{\kf13} to{\kf19}~{\kf67} light
+Dialogue: 0,0:01:49.14,0:01:49.91,DEFAULT,,0,0,0,,{\r}{\kf12}All{\kf12} the{\kf53} feels
+Dialogue: 0,0:01:50.47,0:01:53.60,DEFAULT,,0,0,0,,{\r}{\kf13}It's{\kf13} too{\kf70} bad{\kf13} for{\kf13} me{\kf13} you{\kf13} don't{\kf38} e{\kf38}ven{\kf38} ex{\kf51}ist
+Dialogue: 0,0:01:54.41,0:01:56.86,DEFAULT,,0,0,0,,{\r}{\kf24}Eve{\kf24}ry{\kf37}day{\kf12}~{\kf12} I{\kf30} look{\kf43} and{\kf12}~{\kf50} try
+Dialogue: 0,0:01:57.20,0:01:59.60,DEFAULT,,0,0,0,,{\r}{\kf19}One{\kf32} day{\kf38} we'll{\kf13}~{\kf13} see{\kf32} eye{\kf44} to{\kf49} eye
+Dialogue: 0,0:01:59.77,0:02:02.26,DEFAULT,,0,0,0,,{\r}{\kf15}I'll{\kf23} break{\kf30} the{\kf30} fourth{\kf30} wall{\kf23} just{\kf53} for{\kf45} you
+Dialogue: 0,0:02:02.56,0:02:04.96,DEFAULT,,0,0,0,,{\r}{\kf13}Re{\kf13}a{\kf32}li{\kf32}ty{\kf38} can't{\kf32} hold{\kf32} us{\kf48} through
+Dialogue: 0,0:02:05.09,0:02:07.49,DEFAULT,,0,0,0,,{\r}{\kf32}This{\kf26} chick{\kf32} means{\kf13} the{\kf39} whole{\kf26} world{\kf19} to{\kf19} me{\kf34}~
+Dialogue: 0,0:02:07.79,0:02:09.97,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf40} just{\kf33} want{\kf13} ever{\kf40}y{\kf27}one{\kf20} to{\kf13} see
+Dialogue: 0,0:02:10.06,0:02:11.56,DEFAULT,,0,0,0,,{\r}{\kf12}I'd{\kf12} give{\kf18} it{\kf24} my{\kf12}~{\kf72} all
+Dialogue: 0,0:02:12.20,0:02:15.67,DEFAULT,,0,0,0,,{\r}{\kf30}Just{\kf12}~{\kf37} to{\kf37} see{\kf49} her{\kf43} smile{\kf49} smile{\kf49} smile{\kf41}~
+Dialogue: 0,0:02:16.06,0:02:18.24,DEFAULT,,0,0,0,,{\r}{\kf32}These{\kf32} peo{\kf32}ple{\kf13} they{\kf32} can{\kf26} boo{\kf26} me{\kf26}~
+Dialogue: 0,0:02:18.76,0:02:20.69,DEFAULT,,0,0,0,,{\r}{\kf33}This{\kf33} hate{\kf40} will{\kf13} nev{\kf33}er{\kf27} phase{\kf14} me
+Dialogue: 0,0:02:20.81,0:02:22.53,DEFAULT,,0,0,0,,{\r}{\kf13}'Cause{\kf13} the{\kf13} look{\kf20} in{\kf33} those{\kf79} eyes
+Dialogue: 0,0:02:23.21,0:02:26.81,DEFAULT,,0,0,0,,{\r}{\kf32}Makes{\kf25} this{\kf44} hell{\kf51} here{\kf44} all{\kf44} worth{\kf51}while{\kf69}~
+Dialogue: 0,0:02:27.33,0:02:29.64,DEFAULT,,0,0,0,,{\r}{\kf13}Twi{\kf13}light{\kf13} Spark{\kf13}le{\kf13} you're{\kf33} my{\kf40} rea{\kf13}son{\kf13} to{\kf67} live
+Dialogue: 0,0:02:29.77,0:02:32.69,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf31} dream{\kf31} of{\kf19} ly{\kf25}ing{\kf31} un{\kf12}der{\kf12} the{\kf74} stars{\kf25}~
+Dialogue: 0,0:02:32.86,0:02:34.06,DEFAULT,,0,0,0,,{\r}{\kf17}next{\kf11} to{\kf23} you{\kf69}~
+Dialogue: 0,0:02:35.17,0:02:37.40,DEFAULT,,0,0,0,,{\r}{\kf43}With{\kf31} all{\kf31} this{\kf12} know{\kf31}ledge{\kf37} ain't{\kf38} there
+Dialogue: 0,0:02:37.61,0:02:39.89,DEFAULT,,0,0,0,,{\r}{\kf14}Some{\kf35}one{\kf35} there{\kf21} worth{\kf28}~{\kf14} shar{\kf14}ing{\kf66} to?
+Dialogue: 0,0:02:40.57,0:02:43.19,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf21} it{\kf27} hurts{\kf34} I'll{\kf14} nev{\kf27}er{\kf41} tell{\kf21} you{\kf34}~{\kf28} this
+Dialogue: 0,0:02:43.44,0:02:46.06,DEFAULT,,0,0,0,,{\r}{\kf33}It{\kf33} hurts{\kf39} I'll{\kf20} nev{\kf20}er{\kf33} feel{\kf33} your{\kf50} face
+Dialogue: 0,0:02:46.23,0:02:50.90,DEFAULT,,0,0,0,,{\r}{\kf23}Three{\kf12} sim{\kf29}ple{\kf29} words{\kf23}~{\kf12} to{\kf35} tell{\kf12} you{\kf35} that{\kf58} I{\kf12}~{\kf52} love{\kf12}~{\kf52} you{\kf71}~
+Dialogue: 0,0:02:51.67,0:02:54.37,DEFAULT,,0,0,0,,{\r}{\kf36}There's{\kf12} some{\kf12}thing{\kf12} a{\kf30}bout{\kf36} that{\kf36} ma{\kf12}gic{\kf24}~{\kf60} girl
+Dialogue: 0,0:02:54.59,0:02:57.20,DEFAULT,,0,0,0,,{\r}{\kf14}That{\kf14} brings{\kf14} a{\kf14} full{\kf34} stop{\kf34} to{\kf41} the{\kf14} whole{\kf14}~{\kf68} world
+Dialogue: 0,0:02:57.71,0:02:59.94,DEFAULT,,0,0,0,,{\r}{\kf16}When{\kf24} I{\kf64} look{\kf16} in{\kf24} her{\kf79} eyes
+Dialogue: 0,0:03:00.11,0:03:03.11,DEFAULT,,0,0,0,,{\r}{\kf11}And{\kf11} sud{\kf11}den{\kf11}ly{\kf27} noth{\kf32}ing{\kf37} mat{\kf160}ters
+Dialogue: 0,0:03:03.37,0:03:03.54,DEFAULT,,0,0,0,,{\r}{\kf17}Go!
+Dialogue: 0,0:03:26.34,0:03:28.74,DEFAULT,,0,0,0,,{\r}{\kf19}Eve{\kf32}ry{\kf44}day{\kf13}~{\kf13} I{\kf25} look{\kf44} and{\kf50} try
+Dialogue: 0,0:03:29.04,0:03:31.44,DEFAULT,,0,0,0,,{\r}{\kf19}One{\kf32} day{\kf39} we'll{\kf13}~{\kf13} see{\kf32} eye{\kf45} to{\kf47} eye
+Dialogue: 0,0:03:31.66,0:03:34.14,DEFAULT,,0,0,0,,{\r}{\kf15}I'll{\kf22} break{\kf22} the{\kf29} fourth{\kf44} wall{\kf22} just{\kf51} for{\kf44} you
+Dialogue: 0,0:03:34.40,0:03:36.84,DEFAULT,,0,0,0,,{\r}{\kf13}Re{\kf13}a{\kf39}li{\kf32}ty{\kf39} can't{\kf32} hold{\kf26} us{\kf50} through
+Dialogue: 0,0:03:36.97,0:03:39.37,DEFAULT,,0,0,0,,{\r}{\kf32}This{\kf26} chick{\kf32} means{\kf13} the{\kf39} whole{\kf26} world{\kf19} to{\kf19} me{\kf34}~
+Dialogue: 0,0:03:39.67,0:03:41.86,DEFAULT,,0,0,0,,{\r}{\kf32}I{\kf45} just{\kf32} want{\kf13} ever{\kf39}y{\kf26}one{\kf19} to{\kf13} see
+Dialogue: 0,0:03:41.94,0:03:43.44,DEFAULT,,0,0,0,,{\r}{\kf13}I'd{\kf13} give{\kf19} it{\kf31} my{\kf74} all
+Dialogue: 0,0:03:44.09,0:03:47.56,DEFAULT,,0,0,0,,{\r}{\kf30}Just{\kf12}~{\kf36} to{\kf42} see{\kf48} her{\kf42} smile{\kf48} smile{\kf48} smile{\kf41}~
+Dialogue: 0,0:03:47.94,0:03:50.17,DEFAULT,,0,0,0,,{\r}{\kf32}These{\kf32} peo{\kf32}ple{\kf13} they{\kf32} can{\kf25} boo{\kf25} me{\kf32}~
+Dialogue: 0,0:03:50.64,0:03:52.57,DEFAULT,,0,0,0,,{\r}{\kf32}This{\kf32} hate{\kf39} will{\kf19} nev{\kf32}er{\kf26} phase{\kf13} me
+Dialogue: 0,0:03:52.70,0:03:54.41,DEFAULT,,0,0,0,,{\r}{\kf13}'Cause{\kf13} the{\kf13} look{\kf20} in{\kf33} those{\kf79} eyes
+Dialogue: 0,0:03:55.10,0:03:58.70,DEFAULT,,0,0,0,,{\r}{\kf19}Makes{\kf32} this{\kf45} hell{\kf51} here{\kf45} all{\kf45} worth{\kf51}while{\kf72}~
+Dialogue: 0,0:03:58.91,0:04:01.31,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf39} though{\kf32} it{\kf13} seems{\kf32} im{\kf26}pos{\kf19}si{\kf19}ble{\kf34}~
+Dialogue: 0,0:04:01.61,0:04:03.63,DEFAULT,,0,0,0,,{\r}{\kf32}There's{\kf39} no{\kf32} harm{\kf13} hop{\kf39}ing{\kf26} one{\kf20} day
+Dialogue: 0,0:04:03.71,0:04:06.33,DEFAULT,,0,0,0,,{\r}{\kf18}That{\kf18} the{\kf18} girl{\kf27} of{\kf45} my{\kf81} dreams{\kf36} sees{\kf18}~
+Dialogue: 0,0:04:06.46,0:04:09.50,DEFAULT,,0,0,0,,{\r}{\kf36}Be{\kf42}yond{\kf48} the{\kf42} light{\kf48}ed{\kf48} stage{\kf40}~
+Dialogue: 0,0:04:09.89,0:04:12.07,DEFAULT,,0,0,0,,{\r}{\kf24}Till'{\kf30} then{\kf30} I'll{\kf12} hold{\kf30} you{\kf61} close{\kf32}~
+Dialogue: 0,0:04:12.46,0:04:14.51,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf32} I{\kf32} wrote{\kf39} this{\kf19} song{\kf32} to{\kf26} show{\kf13} you
+Dialogue: 0,0:04:14.64,0:04:16.74,DEFAULT,,0,0,0,,{\r}{\kf14}That{\kf14} I'm{\kf14} giv{\kf21}ing{\kf28} you{\kf35} my{\kf84} word
+Dialogue: 0,0:04:17.13,0:04:20.51,DEFAULT,,0,0,0,,{\r}{\kf26}I{\kf26} just{\kf45} hope{\kf51} I'll{\kf45} make{\kf45} you{\kf51} proud{\kf50}~
+Dialogue: 0,0:04:21.37,0:04:23.21,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf26} I'll{\kf13} keep{\kf26} on{\kf33} say{\kf73}ing
+Dialogue: 0,0:04:23.90,0:04:26.34,DEFAULT,,0,0,0,,{\r}{\kf13}Twi{\kf13}light{\kf13} Spark{\kf13}le{\kf13} you're{\kf33} my{\kf40} rea{\kf13}son{\kf13} to{\kf80} live
+Dialogue: 0,0:04:34.87,0:04:38.47,DEFAULT,,0,0,0,,{\r}{\kf11}Twi{\kf11}light{\kf11} Spark{\kf11}le{\kf11} you're{\kf28} my{\kf33} rea{\kf11}son{\kf11} to{\kf222} live

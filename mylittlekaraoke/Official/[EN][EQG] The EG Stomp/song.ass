@@ -1,45 +1,52 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: EG Stomp
+Artist: Equestria Girls
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:16.25,0:00:17.70,DEFAULT,,0,0,0,,{\kf16}U{\kf16}-u{\kf11}-u{\kf11}-uh{\kf21} ye{\kf41}-eah!
-Dialogue: 0,0:00:17.80,0:00:20.16,DEFAULT,,0,0,0,,{\kf26}We{\kf21}-e're{\kf26} Equ{\kf21}es{\kf26}tri{\kf21}a{\kf46} Girls
-Dialogue: 0,0:00:20.26,0:00:22.06,DEFAULT,,0,0,0,,{\kf21}And{\kf16} we're{\kf41} here{\kf11} to{\kf56} shout
-Dialogue: 0,0:00:22.31,0:00:24.67,DEFAULT,,0,0,0,,{\kf21}That{\kf16} the{\kf21} Ma{\kf26}gic{\kf36} of{\kf21} Friend{\kf26}ship{\kf16} is
-Dialogue: 0,0:00:24.82,0:00:26.28,DEFAULT,,0,0,0,,{\kf46}What{\kf21} it's{\kf26} all{\kf11} a{\kf16}bout
-Dialogue: 0,0:00:26.33,0:00:28.68,DEFAULT,,0,0,0,,{\kf31}We{\kf21}-e're{\kf21} Equ{\kf26}es{\kf21}tri{\kf26}a{\kf46} Girls
-Dialogue: 0,0:00:28.78,0:00:30.39,DEFAULT,,0,0,0,,{\kf26}Hea{\kf11}ding{\kf41} side{\kf16} by{\kf31} side
-Dialogue: 0,0:00:30.64,0:00:34.20,DEFAULT,,0,0,0,,{\kf26}Fin{\kf21}ding{\kf16} the{\kf26} Ma{\kf21}gic{\kf31} o{\kf21}-of{\kf21} Friend{\kf21}ship{\kf26} deep{\kf16} in{\kf66}side
-Dialogue: 0,0:00:35.15,0:00:36.35,DEFAULT,,0,0,0,,{\kf26}Twi{\kf21}light{\kf21} Spar{\kf36}kle's
-Dialogue: 0,0:00:36.40,0:00:37.71,DEFAULT,,0,0,0,,{\kf11}A{\kf21} prin{\kf26}cess{\kf11} who{\kf46} shines
-Dialogue: 0,0:00:37.81,0:00:39.76,DEFAULT,,0,0,0,,{\kf26}Flut{\kf6}ter{\kf36}shy's{\kf16} so{\kf31} sweet{\kf21} and{\kf31} kind
-Dialogue: 0,0:00:39.96,0:00:41.92,DEFAULT,,0,0,0,,{\kf26}Ap{\kf16}ple{\kf26}jack{\kf11} has{\kf11} a{\kf21} coun{\kf21}try{\kf36} flair
-Dialogue: 0,0:00:42.12,0:00:43.92,DEFAULT,,0,0,0,,{\kf16}Ra{\kf16}ri{\kf11}ty{\kf21} knows{\kf16} just{\kf21} what{\kf11} to{\kf26} wear
-Dialogue: 0,0:00:44.02,0:00:46.18,DEFAULT,,0,0,0,,{\kf16}Eve{\kf16}ry{\kf16}one{\kf26} wants{\kf26} Rain{\kf11}bow{\kf21} Dash{\kf16} on{\kf11} their{\kf31} side
-Dialogue: 0,0:00:46.38,0:00:48.34,DEFAULT,,0,0,0,,{\kf21}No{\kf11}one's{\kf16} more{\kf21} fun{\kf21} than{\kf16} Pin{\kf16}kie{\kf41} Pie
-Dialogue: 0,0:00:48.59,0:00:50.59,DEFAULT,,0,0,0,,{\kf26}Ge{\kf21}ne{\kf26}rous,{\kf26} Ho{\kf21}nes{\kf41}ty
-Dialogue: 0,0:00:50.74,0:00:52.65,DEFAULT,,0,0,0,,{\kf21}Laugh{\kf16}ter,{\kf26} Kind{\kf21}ness,{\kf16} Lo{\kf21}yal{\kf31}ty
-Dialogue: 0,0:00:52.90,0:00:54.80,DEFAULT,,0,0,0,,{\kf21}Free{\kf11} to{\kf26} be{\kf16} for{\kf21} we{\kf16} will{\kf36} be
-Dialogue: 0,0:00:55.01,0:00:56.66,DEFAULT,,0,0,0,,{\kf21}Li{\kf16}vin'{\kf26} life{\kf21} in{\kf16} har{\kf16}mo{\kf11}ny
-Dialogue: 0,0:00:56.76,0:00:58.67,DEFAULT,,0,0,0,,{\kf16}We're{\kf16} Equ{\kf21}es{\kf21}tri{\kf31}a{\kf46} Girls
-Dialogue: 0,0:00:58.82,0:01:00.62,DEFAULT,,0,0,0,,{\kf21}And{\kf16} we're{\kf51} here{\kf16} to{\kf51} shout
-Dialogue: 0,0:01:00.92,0:01:03.28,DEFAULT,,0,0,0,,{\kf16}That{\kf11} the{\kf26} Ma{\kf26}gic{\kf41} of{\kf21} Friend{\kf21}ship{\kf16} is
-Dialogue: 0,0:01:03.43,0:01:04.83,DEFAULT,,0,0,0,,{\kf46}What{\kf16} it's{\kf21} all{\kf11} a{\kf11}bout
-Dialogue: 0,0:01:04.93,0:01:07.19,DEFAULT,,0,0,0,,{\kf26}We{\kf21}-e're{\kf16} Equ{\kf26}es{\kf21}tri{\kf36}a{\kf41} Girls
-Dialogue: 0,0:01:07.34,0:01:09.24,DEFAULT,,0,0,0,,{\kf21}And{\kf21} we're{\kf41} here{\kf16} to{\kf66} say
-Dialogue: 0,0:01:09.75,0:01:13.26,DEFAULT,,0,0,0,,{\kf21}We{\kf26} gon{\kf16}na{\kf46} see{\kf26} things{\kf16} a{\kf31} diff{\kf16}erent{\kf111} way
-Dialogue: 0,0:01:13.46,0:01:15.86,DEFAULT,,0,0,0,,{\kf26}We{\kf26}-e're{\kf21} Equ{\kf21}es{\kf26}tri{\kf36}a{\kf51} Girls
-Dialogue: 0,0:01:16.01,0:01:17.82,DEFAULT,,0,0,0,,{\kf16}And{\kf16} we're{\kf46} here{\kf11} to{\kf61} shout
-Dialogue: 0,0:01:18.07,0:01:20.43,DEFAULT,,0,0,0,,{\kf16}That{\kf16} the{\kf26} Ma{\kf26}gic{\kf41} of{\kf26} Friend{\kf21}ship{\kf21} is
-Dialogue: 0,0:01:20.63,0:01:21.98,DEFAULT,,0,0,0,,{\kf36}What{\kf16} it's{\kf21} all{\kf11} a{\kf26}bout
-Dialogue: 0,0:01:22.08,0:01:24.39,DEFAULT,,0,0,0,,{\kf26}We{\kf21}-e're{\kf21} Equ{\kf26}es{\kf21}tri{\kf36}a{\kf46} Girls
-Dialogue: 0,0:01:24.49,0:01:26.14,DEFAULT,,0,0,0,,{\kf26}Hea{\kf11}ding{\kf41} side{\kf16} by{\kf36} side
-Dialogue: 0,0:01:26.34,0:01:29.90,DEFAULT,,0,0,0,,{\kf26}Fin{\kf21}ding{\kf11} the{\kf26} Ma{\kf21}gic{\kf26} o{\kf21}-of{\kf21} Friend{\kf21}ship{\kf26} deep{\kf11} in{\kf66}side
-Dialogue: 0,0:01:30.10,0:01:32.81,DEFAULT,,0,0,0,,{\kf16}Equ{\kf31}es{\kf16}tri{\kf16}a{\kf21} Gi{\kf16}-i{\kf126}-irls
+Dialogue: 0,0:00:16.25,0:00:17.71,DEFAULT,,0,0,0,,{\r}{\kf20}U{\kf20}-u{\kf13}-u{\kf13}-uh{\kf26} ye{\kf53}-eah!
+Dialogue: 0,0:00:17.81,0:00:20.16,DEFAULT,,0,0,0,,{\r}{\kf33}We{\kf26}-e're{\kf33} Equ{\kf26}es{\kf33}tri{\kf26}a{\kf59} Girls
+Dialogue: 0,0:00:20.26,0:00:22.07,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf19} we're{\kf51} here{\kf13} to{\kf71} shout
+Dialogue: 0,0:00:22.32,0:00:24.68,DEFAULT,,0,0,0,,{\r}{\kf27}That{\kf20} the{\kf27} Ma{\kf34}gic{\kf47} of{\kf27} Friend{\kf34}ship{\kf20} is
+Dialogue: 0,0:00:24.83,0:00:26.28,DEFAULT,,0,0,0,,{\r}{\kf57}What{\kf25} it's{\kf32} all{\kf13} a{\kf18}bout
+Dialogue: 0,0:00:26.33,0:00:28.69,DEFAULT,,0,0,0,,{\r}{\kf38}We{\kf26}-e're{\kf26} Equ{\kf32}es{\kf26}tri{\kf32}a{\kf56} Girls
+Dialogue: 0,0:00:28.79,0:00:30.39,DEFAULT,,0,0,0,,{\r}{\kf33}Hea{\kf13}ding{\kf53} side{\kf20} by{\kf41} side
+Dialogue: 0,0:00:30.64,0:00:34.20,DEFAULT,,0,0,0,,{\r}{\kf30}Fin{\kf24}ding{\kf18} the{\kf30} Ma{\kf24}gic{\kf36} o{\kf24}-of{\kf24} Friend{\kf24}ship{\kf30} deep{\kf18} in{\kf74}side
+Dialogue: 0,0:00:35.16,0:00:36.36,DEFAULT,,0,0,0,,{\r}{\kf30}Twi{\kf24}light{\kf24} Spar{\kf42}kle's
+Dialogue: 0,0:00:36.41,0:00:37.71,DEFAULT,,0,0,0,,{\r}{\kf12}A{\kf24} prin{\kf30}cess{\kf12} who{\kf52} shines
+Dialogue: 0,0:00:37.81,0:00:39.77,DEFAULT,,0,0,0,,{\r}{\kf31}Flut{\kf10}ter{\kf43}shy's{\kf18} so{\kf37} sweet{\kf24} and{\kf33} kind
+Dialogue: 0,0:00:39.97,0:00:41.92,DEFAULT,,0,0,0,,{\r}{\kf31}Ap{\kf18}ple{\kf31}jack{\kf12} has{\kf12} a{\kf24} coun{\kf24}try{\kf44} flair
+Dialogue: 0,0:00:42.12,0:00:43.93,DEFAULT,,0,0,0,,{\r}{\kf21}Ra{\kf21}ri{\kf14}ty{\kf28} knows{\kf21} just{\kf28} what{\kf14} to{\kf33} wear
+Dialogue: 0,0:00:44.03,0:00:46.19,DEFAULT,,0,0,0,,{\r}{\kf18}Eve{\kf18}ry{\kf18}one{\kf30} wants{\kf30} Rain{\kf12}bow{\kf24} Dash{\kf18} on{\kf12} their{\kf36} side
+Dialogue: 0,0:00:46.39,0:00:48.34,DEFAULT,,0,0,0,,{\r}{\kf25}No{\kf13}one's{\kf19} more{\kf25} fun{\kf25} than{\kf19} Pin{\kf19}kie{\kf51} Pie
+Dialogue: 0,0:00:48.59,0:00:50.60,DEFAULT,,0,0,0,,{\r}{\kf32}Ge{\kf26}ne{\kf32}rous,{\kf32} Ho{\kf26}nes{\kf53}ty
+Dialogue: 0,0:00:50.75,0:00:52.65,DEFAULT,,0,0,0,,{\r}{\kf26}Laugh{\kf20}ter,{\kf33} Kind{\kf26}ness,{\kf20} Lo{\kf26}yal{\kf40}ty
+Dialogue: 0,0:00:52.90,0:00:54.81,DEFAULT,,0,0,0,,{\r}{\kf27}Free{\kf14} to{\kf34} be{\kf20} for{\kf27} we{\kf20} will{\kf49} be
+Dialogue: 0,0:00:55.01,0:00:56.66,DEFAULT,,0,0,0,,{\r}{\kf28}Li{\kf21}vin'{\kf34} life{\kf28} in{\kf21} har{\kf21}mo{\kf12}ny
+Dialogue: 0,0:00:56.77,0:00:58.67,DEFAULT,,0,0,0,,{\r}{\kf20}We're{\kf20} Equ{\kf26}es{\kf26}tri{\kf40}a{\kf59} Girls
+Dialogue: 0,0:00:58.82,0:01:00.63,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf18} we're{\kf60} here{\kf18} to{\kf60} shout
+Dialogue: 0,0:01:00.93,0:01:03.28,DEFAULT,,0,0,0,,{\r}{\kf21}That{\kf14} the{\kf35} Ma{\kf35}gic{\kf56} of{\kf28} Friend{\kf28}ship{\kf19} is
+Dialogue: 0,0:01:03.43,0:01:04.84,DEFAULT,,0,0,0,,{\r}{\kf63}What{\kf21} it's{\kf28} all{\kf14} a{\kf14}bout
+Dialogue: 0,0:01:04.94,0:01:07.19,DEFAULT,,0,0,0,,{\r}{\kf31}We{\kf25}-e're{\kf19} Equ{\kf31}es{\kf25}tri{\kf44}a{\kf51} Girls
+Dialogue: 0,0:01:07.34,0:01:09.25,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf24} we're{\kf48} here{\kf18} to{\kf77} say
+Dialogue: 0,0:01:09.75,0:01:13.26,DEFAULT,,0,0,0,,{\r}{\kf23}We{\kf29} gon{\kf18}na{\kf53} see{\kf29} things{\kf18} a{\kf35} diff{\kf18}erent{\kf128} way
+Dialogue: 0,0:01:13.46,0:01:15.87,DEFAULT,,0,0,0,,{\r}{\kf30}We{\kf30}-e're{\kf24} Equ{\kf24}es{\kf30}tri{\kf42}a{\kf61} Girls
+Dialogue: 0,0:01:16.02,0:01:17.82,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} we're{\kf56} here{\kf12} to{\kf74} shout
+Dialogue: 0,0:01:18.07,0:01:20.43,DEFAULT,,0,0,0,,{\r}{\kf19}That{\kf19} the{\kf32} Ma{\kf32}gic{\kf51} of{\kf32} Friend{\kf26}ship{\kf25} is
+Dialogue: 0,0:01:20.63,0:01:21.98,DEFAULT,,0,0,0,,{\r}{\kf45}What{\kf19} it's{\kf26} all{\kf13} a{\kf32}bout
+Dialogue: 0,0:01:22.09,0:01:24.39,DEFAULT,,0,0,0,,{\r}{\kf30}We{\kf24}-e're{\kf24} Equ{\kf30}es{\kf24}tri{\kf43}a{\kf56} Girls
+Dialogue: 0,0:01:24.49,0:01:26.15,DEFAULT,,0,0,0,,{\r}{\kf33}Hea{\kf13}ding{\kf53} side{\kf20} by{\kf46} side
+Dialogue: 0,0:01:26.35,0:01:29.91,DEFAULT,,0,0,0,,{\r}{\kf31}Fin{\kf25}ding{\kf12} the{\kf31} Ma{\kf25}gic{\kf31} o{\kf25}-of{\kf25} Friend{\kf25}ship{\kf31} deep{\kf12} in{\kf83}side
+Dialogue: 0,0:01:30.11,0:01:32.81,DEFAULT,,0,0,0,,{\r}{\kf17}Equ{\kf35}es{\kf17}tri{\kf17}a{\kf23} Gi{\kf17}-i{\kf145}-irls

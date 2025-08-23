@@ -1,39 +1,46 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Legend of Everfree
+Artist: Equestria Girls - Legend Of Everfree
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:15.28,0:00:18.96,DEFAULT,,0,0,0,,{\kf8}Will{\kf8} you{\kf8} be{\kf34} lost{\kf38} by{\kf42} time{\kf15} or{\kf15} be{\kf15} part{\kf8} of{\kf23} his{\kf23}to{\kf23}ry?
-Dialogue: 0,0:00:19.15,0:00:22.78,DEFAULT,,0,0,0,,{\kf15}Will{\kf12} your{\kf23} sto{\kf23}ry{\kf30} be{\kf38} told{\kf8} o{\kf8}-or{\kf12} re{\kf23}main{\kf8} a{\kf19} mys{\kf19}te{\kf27}ry?
-Dialogue: 0,0:00:23.01,0:00:26.65,DEFAULT,,0,0,0,,{\kf15}Will{\kf12} they{\kf38} sing{\kf30} your{\kf38} song,{\kf23} tel{\kf19}ling{\kf19} all{\kf8} that{\kf19} you{\kf23} have{\kf30} done?
-Dialogue: 0,0:00:26.95,0:00:30.66,DEFAULT,,0,0,0,,{\kf19}Time{\kf12} to{\kf30} make{\kf34} your{\kf42} choice,{\kf15} on{\kf15}ly{\kf19} you{\kf12} can{\kf19} be{\kf23} the{\kf42} one
-Dialogue: 0,0:00:31.30,0:00:34.48,DEFAULT,,0,0,0,,{\kf87}Oh,{\kf72} oh,{\kf60} oh{\kf23}-oh{\kf15}-uh{\kf38}-oh
-Dialogue: 0,0:00:34.63,0:00:38.42,DEFAULT,,0,0,0,,{\kf19}As{\kf12} you{\kf38} join{\kf15} in{\kf15} the{\kf19} Le{\kf27}gend{\kf30} of{\kf42} E{\kf30}ver{\kf42}free!
-Dialogue: 0,0:00:39.02,0:00:42.17,DEFAULT,,0,0,0,,{\kf90}Oh,{\kf72} oh,{\kf60} oh{\kf19}-oh{\kf15}-uh{\kf30}-oh
-Dialogue: 0,0:00:42.40,0:00:47.68,DEFAULT,,0,0,0,,{\kf19}As{\kf12} you{\kf45} join{\kf15} in{\kf15} the{\kf19} Le{\kf23}gend{\kf27} of{\kf38} E{\kf30}ver{\kf195}free!
-Dialogue: 0,0:00:49.11,0:00:52.86,DEFAULT,,0,0,0,,{\kf12}Will{\kf8} you{\kf12} do{\kf30} some{\kf34}thing{\kf34} great{\kf15} with{\kf12} the{\kf27} time{\kf12} that{\kf15} you{\kf27} have{\kf34} here?
-Dialogue: 0,0:00:53.05,0:00:56.68,DEFAULT,,0,0,0,,{\kf15}Will{\kf15} you{\kf42} make{\kf38} your{\kf42} mark?{\kf15} Will{\kf15} you{\kf19} con{\kf12}quer{\kf12} what{\kf19} you{\kf30} fear?
-Dialogue: 0,0:00:56.87,0:01:00.55,DEFAULT,,0,0,0,,{\kf12}And{\kf8} when{\kf8} you{\kf42} go{\kf38} back{\kf42} home,{\kf15} eve{\kf15}ry{\kf19}bo{\kf12}dy{\kf23} there{\kf19} will{\kf27} see
-Dialogue: 0,0:01:00.77,0:01:05.68,DEFAULT,,0,0,0,,{\kf15}You{\kf19} were{\kf45} part{\kf19} of{\kf12} the{\kf23} Le{\kf23}gend{\kf30} of{\kf42} E{\kf42}ver{\kf158}free!
-Dialogue: 0,0:01:06.06,0:01:09.21,DEFAULT,,0,0,0,,{\kf98}Oh,{\kf72} oh,{\kf64} oh{\kf15}-oh{\kf15}-uh{\kf27}-oh
-Dialogue: 0,0:01:09.47,0:01:13.30,DEFAULT,,0,0,0,,{\kf19}As{\kf15} you{\kf42} join{\kf19} in{\kf15} the{\kf23} Le{\kf23}gend{\kf34} of{\kf42} E{\kf34}ver{\kf53}free!
-Dialogue: 0,0:01:13.90,0:01:17.01,DEFAULT,,0,0,0,,{\kf83}Oh,{\kf72} oh,{\kf64} oh{\kf19}-oh{\kf15}-uh{\kf34}-oh
-Dialogue: 0,0:01:17.23,0:01:21.28,DEFAULT,,0,0,0,,{\kf15}As{\kf15} you{\kf49} join{\kf15} in{\kf12} the{\kf15} Le{\kf23}gend{\kf30} of{\kf38} E{\kf38}ver{\kf79}free!
-Dialogue: 0,0:01:22.00,0:01:25.48,DEFAULT,,0,0,0,,{\kf19}Will{\kf15} you{\kf45} find{\kf42} your{\kf49} grea{\kf38}test{\kf27} glo{\kf12}-o{\kf57}ry?
-Dialogue: 0,0:01:25.90,0:01:29.16,DEFAULT,,0,0,0,,{\kf15}Will{\kf23} you{\kf42} be{\kf38} a{\kf49} fal{\kf30}ling{\kf30} sta{\kf57}-ar?
-Dialogue: 0,0:01:29.76,0:01:33.10,DEFAULT,,0,0,0,,{\kf19}Here{\kf12} to{\kf42} learn{\kf45} what{\kf38} na{\kf49}ture{\kf19} te-{\kf15}a{\kf45}ches
-Dialogue: 0,0:01:33.66,0:01:36.40,DEFAULT,,0,0,0,,{\kf27}Here{\kf15} to{\kf42} learn{\kf42} more{\kf42} who{\kf49} you{\kf34} are
-Dialogue: 0,0:01:36.55,0:01:40.26,DEFAULT,,0,0,0,,{\kf12}Will{\kf12} you{\kf19} be{\kf30} lost{\kf38} by{\kf38} time{\kf15} or{\kf23} be{\kf23} part{\kf12} of{\kf19} his{\kf27}to{\kf34}ry?
-Dialogue: 0,0:01:40.45,0:01:44.05,DEFAULT,,0,0,0,,{\kf15}Will{\kf15} your{\kf30} sto{\kf19}ry{\kf38} be{\kf45} told{\kf15} or{\kf15} re{\kf30}main{\kf8} a{\kf15} mys{\kf30}te{\kf27}ry?
-Dialogue: 0,0:01:44.27,0:01:47.98,DEFAULT,,0,0,0,,{\kf15}And{\kf12} when{\kf15} you{\kf45} go{\kf38} back{\kf42} home,{\kf19} eve{\kf15}ry{\kf23}bo{\kf12}dy{\kf23} there{\kf19} will{\kf27} see
-Dialogue: 0,0:01:48.17,0:01:53.42,DEFAULT,,0,0,0,,{\kf19}You{\kf15} were{\kf49} part{\kf12} of{\kf12} the{\kf23} Le{\kf19}gend{\kf42} of{\kf38} E{\kf34}ver{\kf195}free!
-Dialogue: 0,0:01:53.65,0:01:56.61,DEFAULT,,0,0,0,,{\kf87}Oh,{\kf68} oh,{\kf64} oh{\kf19}-oh{\kf15}-uh{\kf27}-oh
-Dialogue: 0,0:01:56.87,0:02:00.66,DEFAULT,,0,0,0,,{\kf19}As{\kf15} you{\kf45} join{\kf15} in{\kf15} the{\kf19} Le{\kf19}gend{\kf38} of{\kf45} E{\kf30}ver{\kf45}free!
-Dialogue: 0,0:02:01.22,0:02:04.37,DEFAULT,,0,0,0,,{\kf98}Oh,{\kf64} oh,{\kf68} oh{\kf23}-oh{\kf15}-uh{\kf30}-oh
-Dialogue: 0,0:02:04.63,0:02:09.92,DEFAULT,,0,0,0,,{\kf19}As{\kf12} you{\kf45} join{\kf15} in{\kf12} the{\kf19} Le{\kf19}gend{\kf38} of{\kf45} E{\kf42}ver{\kf192}free!
+Dialogue: 0,0:00:15.29,0:00:18.96,DEFAULT,,0,0,0,,{\r}{\kf11}Will{\kf11} you{\kf11} be{\kf49} lost{\kf54} by{\kf60} time{\kf22} or{\kf22} be{\kf22} part{\kf11} of{\kf32} his{\kf32}to{\kf31}ry?
+Dialogue: 0,0:00:19.15,0:00:22.79,DEFAULT,,0,0,0,,{\r}{\kf21}Will{\kf16} your{\kf32} sto{\kf32}ry{\kf42} be{\kf53} told{\kf11} o{\kf11}-or{\kf16} re{\kf32}main{\kf11} a{\kf26} mys{\kf26}te{\kf35}ry?
+Dialogue: 0,0:00:23.01,0:00:26.65,DEFAULT,,0,0,0,,{\r}{\kf20}Will{\kf15} they{\kf51} sing{\kf40} your{\kf51} song,{\kf30} tel{\kf25}ling{\kf25} all{\kf10} that{\kf25} you{\kf30} have{\kf42} done?
+Dialogue: 0,0:00:26.95,0:00:30.66,DEFAULT,,0,0,0,,{\r}{\kf25}Time{\kf15} to{\kf40} make{\kf45} your{\kf55} choice,{\kf20} on{\kf20}ly{\kf25} you{\kf15} can{\kf25} be{\kf30} the{\kf56} one
+Dialogue: 0,0:00:31.30,0:00:34.49,DEFAULT,,0,0,0,,{\r}{\kf94}Oh,{\kf78} oh,{\kf65} oh{\kf25}-oh{\kf16}-uh{\kf41}-oh
+Dialogue: 0,0:00:34.64,0:00:38.43,DEFAULT,,0,0,0,,{\r}{\kf25}As{\kf15} you{\kf50} join{\kf20} in{\kf20} the{\kf25} Le{\kf35}gend{\kf40} of{\kf55} E{\kf40}ver{\kf54}free!
+Dialogue: 0,0:00:39.03,0:00:42.18,DEFAULT,,0,0,0,,{\r}{\kf99}Oh,{\kf79} oh,{\kf66} oh{\kf21}-oh{\kf17}-uh{\kf33}-oh
+Dialogue: 0,0:00:42.40,0:00:47.69,DEFAULT,,0,0,0,,{\r}{\kf23}As{\kf14} you{\kf55} join{\kf18} in{\kf18} the{\kf23} Le{\kf27}gend{\kf32} of{\kf46} E{\kf36}ver{\kf237}free!
+Dialogue: 0,0:00:49.11,0:00:52.86,DEFAULT,,0,0,0,,{\r}{\kf16}Will{\kf11} you{\kf16} do{\kf42} some{\kf48}thing{\kf48} great{\kf21} with{\kf16} the{\kf37} time{\kf16} that{\kf21} you{\kf37} have{\kf46} here?
+Dialogue: 0,0:00:53.05,0:00:56.69,DEFAULT,,0,0,0,,{\r}{\kf20}Will{\kf20} you{\kf56} make{\kf51} your{\kf56} mark?{\kf20} Will{\kf20} you{\kf25} con{\kf15}quer{\kf15} what{\kf25} you{\kf41} fear?
+Dialogue: 0,0:00:56.88,0:01:00.55,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf10} when{\kf10} you{\kf55} go{\kf50} back{\kf55} home,{\kf20} eve{\kf20}ry{\kf25}bo{\kf15}dy{\kf30} there{\kf25} will{\kf38} see
+Dialogue: 0,0:01:00.78,0:01:05.69,DEFAULT,,0,0,0,,{\r}{\kf17}You{\kf22} were{\kf52} part{\kf22} of{\kf13} the{\kf26} Le{\kf26}gend{\kf35} of{\kf48} E{\kf48}ver{\kf182}free!
+Dialogue: 0,0:01:06.06,0:01:09.21,DEFAULT,,0,0,0,,{\r}{\kf106}Oh,{\kf78} oh,{\kf70} oh{\kf16}-oh{\kf16}-uh{\kf29}-oh
+Dialogue: 0,0:01:09.48,0:01:13.30,DEFAULT,,0,0,0,,{\r}{\kf23}As{\kf18} you{\kf50} join{\kf23} in{\kf18} the{\kf27} Le{\kf27}gend{\kf41} of{\kf50} E{\kf41}ver{\kf65}free!
+Dialogue: 0,0:01:13.90,0:01:17.01,DEFAULT,,0,0,0,,{\r}{\kf90}Oh,{\kf78} oh,{\kf70} oh{\kf20}-oh{\kf16}-uh{\kf37}-oh
+Dialogue: 0,0:01:17.24,0:01:21.29,DEFAULT,,0,0,0,,{\r}{\kf19}As{\kf19} you{\kf61} join{\kf19} in{\kf14} the{\kf19} Le{\kf28}gend{\kf37} of{\kf47} E{\kf47}ver{\kf95}free!
+Dialogue: 0,0:01:22.00,0:01:25.49,DEFAULT,,0,0,0,,{\r}{\kf22}Will{\kf17} you{\kf52} find{\kf48} your{\kf57} grea{\kf44}test{\kf31} glo{\kf13}-o{\kf65}ry?
+Dialogue: 0,0:01:25.90,0:01:29.16,DEFAULT,,0,0,0,,{\r}{\kf17}Will{\kf26} you{\kf48} be{\kf43} a{\kf57} fal{\kf35}ling{\kf35} sta{\kf65}-ar?
+Dialogue: 0,0:01:29.76,0:01:33.10,DEFAULT,,0,0,0,,{\r}{\kf22}Here{\kf13} to{\kf49} learn{\kf53} what{\kf45} na{\kf58}ture{\kf22} te-{\kf18}a{\kf54}ches
+Dialogue: 0,0:01:33.66,0:01:36.40,DEFAULT,,0,0,0,,{\r}{\kf29}Here{\kf17} to{\kf46} learn{\kf46} more{\kf46} who{\kf54} you{\kf36} are
+Dialogue: 0,0:01:36.55,0:01:40.26,DEFAULT,,0,0,0,,{\r}{\kf14}Will{\kf14} you{\kf23} be{\kf38} lost{\kf47} by{\kf47} time{\kf19} or{\kf28} be{\kf28} part{\kf14} of{\kf23} his{\kf33}to{\kf43}ry?
+Dialogue: 0,0:01:40.45,0:01:44.05,DEFAULT,,0,0,0,,{\r}{\kf18}Will{\kf18} your{\kf36} sto{\kf22}ry{\kf45} be{\kf54} told{\kf18} or{\kf18} re{\kf36}main{\kf10} a{\kf18} mys{\kf36}te{\kf31}ry?
+Dialogue: 0,0:01:44.28,0:01:47.99,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf14} when{\kf19} you{\kf56} go{\kf46} back{\kf51} home,{\kf23} eve{\kf19}ry{\kf28}bo{\kf14}dy{\kf28} there{\kf23} will{\kf31} see
+Dialogue: 0,0:01:48.18,0:01:53.43,DEFAULT,,0,0,0,,{\r}{\kf22}You{\kf17} were{\kf56} part{\kf13} of{\kf13} the{\kf26} Le{\kf22}gend{\kf48} of{\kf43} E{\kf39}ver{\kf226}free!
+Dialogue: 0,0:01:53.65,0:01:56.61,DEFAULT,,0,0,0,,{\r}{\kf92}Oh,{\kf72} oh,{\kf68} oh{\kf20}-oh{\kf16}-uh{\kf28}-oh
+Dialogue: 0,0:01:56.88,0:02:00.66,DEFAULT,,0,0,0,,{\r}{\kf23}As{\kf19} you{\kf56} join{\kf19} in{\kf19} the{\kf23} Le{\kf23}gend{\kf47} of{\kf56} E{\kf37}ver{\kf57}free!
+Dialogue: 0,0:02:01.23,0:02:04.38,DEFAULT,,0,0,0,,{\r}{\kf104}Oh,{\kf68} oh,{\kf72} oh{\kf24}-oh{\kf16}-uh{\kf31}-oh
+Dialogue: 0,0:02:04.64,0:02:09.93,DEFAULT,,0,0,0,,{\r}{\kf22}As{\kf13} you{\kf52} join{\kf17} in{\kf13} the{\kf22} Le{\kf22}gend{\kf44} of{\kf52} E{\kf48}ver{\kf224}free!

@@ -1,39 +1,46 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Sombra's Door
+Artist: AwkwardMarina
+Original Timing: mylittlekaraoke.com by SDreamExplorerS
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:25.11,0:00:28.49,DEFAULT,,0,0,0,,{\kf30}I{\kf30} see{\kf15} me{\kf15} be{\kf20}hind{\kf10} the{\kf35} door,{\kf40} don't{\kf10} know{\kf20} what{\kf15} it{\kf15} is{\kf20} for
-Dialogue: 0,0:00:28.68,0:00:31.23,DEFAULT,,0,0,0,,{\kf35}Ce{\kf30}les{\kf40}ti{\kf25}a,{\kf35} don't{\kf35} leave{\kf20} me
-Dialogue: 0,0:00:31.43,0:00:33.14,DEFAULT,,0,0,0,,{\kf25}Think{\kf30} my{\kf20} dreams{\kf15} have{\kf15} gone{\kf15} a{\kf20}way
-Dialogue: 0,0:00:33.34,0:00:34.71,DEFAULT,,0,0,0,,{\kf30}Don't{\kf15} know{\kf15} just{\kf10} what{\kf15} to{\kf15} say
-Dialogue: 0,0:00:34.91,0:00:37.51,DEFAULT,,0,0,0,,{\kf35}King{\kf35} Somb{\kf25}ra,{\kf35} don't{\kf25} de{\kf35}ceive{\kf20} me
-Dialogue: 0,0:00:37.70,0:00:41.04,DEFAULT,,0,0,0,,{\kf30}I{\kf30} have{\kf15} tried{\kf10} as{\kf15} best{\kf20} I{\kf35} can,{\kf35} and{\kf15} I{\kf15} don't{\kf15} un{\kf15}der{\kf20}stand
-Dialogue: 0,0:00:41.23,0:00:43.78,DEFAULT,,0,0,0,,{\kf35}Ce{\kf30}les{\kf40}ti{\kf35}a,{\kf35} don't{\kf30} leave{\kf20} me
-Dialogue: 0,0:00:43.98,0:00:47.26,DEFAULT,,0,0,0,,{\kf30}Your{\kf25} voice{\kf20} told{\kf15} me{\kf10} I{\kf15} should{\kf40} go{\kf30} and{\kf15} that{\kf15} is{\kf10} all{\kf15} I{\kf20} know
-Dialogue: 0,0:00:47.46,0:00:50.20,DEFAULT,,0,0,0,,{\kf35}King{\kf35} Somb{\kf30}ra,{\kf30} don't{\kf30} de{\kf35}ceive{\kf35} me
-Dialogue: 0,0:00:50.40,0:00:55.64,DEFAULT,,0,0,0,,{\kf15}My{\kf35} worst{\kf35} night{\kf30}mare{\kf20} right{\kf25} in{\kf35} front{\kf15} of{\kf20} my{\kf246} eyes
-Dialogue: 0,0:00:56.67,0:01:01.92,DEFAULT,,0,0,0,,{\kf15}And{\kf20} who{\kf45} knew{\kf40} that{\kf10} it{\kf40} was{\kf35} all{\kf5} a{\kf15} dis{\kf250}guise
-Dialogue: 0,0:01:02.80,0:01:05.35,DEFAULT,,0,0,0,,{\kf15}Some{\kf15}bo{\kf15}dy{\kf35} tell{\kf35} me{\kf30} this{\kf15} is{\kf25} a{\kf30} dream
-Dialogue: 0,0:01:05.55,0:01:08.93,DEFAULT,,0,0,0,,{\kf30}A{\kf15} door{\kf20} to{\kf10} a{\kf40} world{\kf25} I{\kf40} ne{\kf20}ver{\kf25} have{\kf30} seen,{\kf30} oh!
-Dialogue: 0,0:01:21.58,0:01:24.96,DEFAULT,,0,0,0,,{\kf40}Lo{\kf25}sing{\kf15} faith{\kf10} with{\kf20} eve{\kf15}ry{\kf35} stair{\kf30} I{\kf20} climb,{\kf15} I'm{\kf15} un{\kf15}a{\kf20}ware
-Dialogue: 0,0:01:25.15,0:01:27.70,DEFAULT,,0,0,0,,{\kf35}Ce{\kf30}les{\kf35}ti{\kf30}a,{\kf35} don't{\kf30} leave{\kf25} me
-Dialogue: 0,0:01:27.90,0:01:31.23,DEFAULT,,0,0,0,,{\kf30}Can't{\kf30} help{\kf20} thin{\kf20}king{\kf10} that{\kf15} was{\kf35} real{\kf30} and{\kf10} not{\kf15} just{\kf15} how{\kf15} I{\kf20} feel
-Dialogue: 0,0:01:31.43,0:01:33.88,DEFAULT,,0,0,0,,{\kf30}King{\kf35} Somb{\kf30}ra,{\kf30} don't{\kf30} de{\kf30}ceive{\kf10} me
-Dialogue: 0,0:01:34.03,0:01:40.01,DEFAULT,,0,0,0,,{\kf10}I{\kf30} tried{\kf15} so{\kf54} hard{\kf15} and{\kf45} got{\kf15} so{\kf50} far{\kf15} but{\kf50} in{\kf20} the{\kf30} end{\kf30} it{\kf35} do{\kf30}esn't{\kf25} ma{\kf20}-at{\kf15}ter
-Dialogue: 0,0:01:40.20,0:01:43.73,DEFAULT,,0,0,0,,{\kf20}But{\kf25} it's{\kf30} too{\kf15} late{\kf15} for{\kf20} me{\kf5} to{\kf35} stay,{\kf30} I{\kf20} bet{\kf10}ter{\kf15} save{\kf15} the{\kf20} day
-Dialogue: 0,0:01:43.93,0:01:46.67,DEFAULT,,0,0,0,,{\kf30}King{\kf35} Somb{\kf25}ra,{\kf35} you{\kf30} will{\kf25} sha{\kf15}-at{\kf15}ter!
-Dialogue: 0,0:01:46.87,0:01:52.02,DEFAULT,,0,0,0,,{\kf15}My{\kf25} worst{\kf35} night{\kf25}mare{\kf20} right{\kf25} in{\kf35} front{\kf15} of{\kf20} my{\kf236} eyes
-Dialogue: 0,0:01:53.14,0:01:58.34,DEFAULT,,0,0,0,,{\kf20}And{\kf30} who{\kf35} knew{\kf35} that{\kf10} it{\kf35} was{\kf35} all{\kf10} a{\kf15} dis{\kf246}guise
-Dialogue: 0,0:01:59.22,0:02:01.82,DEFAULT,,0,0,0,,{\kf20}Some{\kf20}bo{\kf15}dy{\kf35} tell{\kf35} me{\kf30} this{\kf15} is{\kf25} a{\kf25} dream
-Dialogue: 0,0:02:02.02,0:02:05.40,DEFAULT,,0,0,0,,{\kf30}A{\kf15} door{\kf20} to{\kf10} a{\kf40} world{\kf30} I{\kf40} nev{\kf10}er{\kf25} have{\kf30} seen,{\kf30} oh!
-Dialogue: 0,0:02:30.79,0:02:35.89,DEFAULT,,0,0,0,,{\kf15}My{\kf30} worst{\kf35} night{\kf30}mare{\kf20} right{\kf20} in{\kf40} front{\kf15} of{\kf20} my{\kf231} eyes
-Dialogue: 0,0:02:37.07,0:02:42.26,DEFAULT,,0,0,0,,{\kf20}And{\kf30} who{\kf35} knew{\kf45} that{\kf10} it{\kf35} was{\kf40} all{\kf5} a{\kf20} dis{\kf246}guise
-Dialogue: 0,0:02:43.14,0:02:45.69,DEFAULT,,0,0,0,,{\kf20}Some{\kf15}bo{\kf15}dy{\kf35} tell{\kf35} me{\kf30} this{\kf15} is{\kf25} a{\kf20} dream
-Dialogue: 0,0:02:45.89,0:02:49.32,DEFAULT,,0,0,0,,{\kf30}A{\kf15} door{\kf15} to{\kf20} a{\kf35} world{\kf30} I{\kf40} ne{\kf15}ver{\kf20} have{\kf35} seen,{\kf30} oh!
+Dialogue: 0,0:00:25.11,0:00:28.49,DEFAULT,,0,0,0,,{\r}{\kf37}I{\kf37} see{\kf18} me{\kf18} be{\kf25}hind{\kf12} the{\kf43} door,{\kf49} don't{\kf12} know{\kf25} what{\kf18} it{\kf18} is{\kf26} for
+Dialogue: 0,0:00:28.69,0:00:31.24,DEFAULT,,0,0,0,,{\r}{\kf41}Ce{\kf35}les{\kf46}ti{\kf29}a,{\kf41} don't{\kf41} leave{\kf22} me
+Dialogue: 0,0:00:31.43,0:00:33.15,DEFAULT,,0,0,0,,{\r}{\kf31}Think{\kf37} my{\kf25} dreams{\kf18} have{\kf18} gone{\kf18} a{\kf25}way
+Dialogue: 0,0:00:33.35,0:00:34.72,DEFAULT,,0,0,0,,{\r}{\kf41}Don't{\kf21} know{\kf21} just{\kf14} what{\kf21} to{\kf19} say
+Dialogue: 0,0:00:34.91,0:00:37.51,DEFAULT,,0,0,0,,{\r}{\kf43}King{\kf43} Somb{\kf31}ra,{\kf43} don't{\kf31} de{\kf43}ceive{\kf26} me
+Dialogue: 0,0:00:37.71,0:00:41.04,DEFAULT,,0,0,0,,{\r}{\kf37}I{\kf37} have{\kf18} tried{\kf12} as{\kf18} best{\kf25} I{\kf43} can,{\kf43} and{\kf18} I{\kf18} don't{\kf18} un{\kf18}der{\kf28}stand
+Dialogue: 0,0:00:41.24,0:00:43.79,DEFAULT,,0,0,0,,{\r}{\kf40}Ce{\kf34}les{\kf45}ti{\kf40}a,{\kf40} don't{\kf34} leave{\kf22} me
+Dialogue: 0,0:00:43.98,0:00:47.27,DEFAULT,,0,0,0,,{\r}{\kf38}Your{\kf32} voice{\kf25} told{\kf19} me{\kf13} I{\kf19} should{\kf50} go{\kf38} and{\kf19} that{\kf19} is{\kf13} all{\kf19} I{\kf24} know
+Dialogue: 0,0:00:47.46,0:00:50.21,DEFAULT,,0,0,0,,{\r}{\kf42}King{\kf42} Somb{\kf36}ra,{\kf36} don't{\kf36} de{\kf42}ceive{\kf41} me
+Dialogue: 0,0:00:50.40,0:00:55.65,DEFAULT,,0,0,0,,{\r}{\kf16}My{\kf38} worst{\kf38} night{\kf33}mare{\kf22} right{\kf27} in{\kf38} front{\kf16} of{\kf22} my{\kf275} eyes
+Dialogue: 0,0:00:56.68,0:01:01.92,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf22} who{\kf49} knew{\kf44} that{\kf11} it{\kf44} was{\kf38} all{\kf10} a{\kf16} dis{\kf275}guise
+Dialogue: 0,0:01:02.81,0:01:05.36,DEFAULT,,0,0,0,,{\r}{\kf18}Some{\kf18}bo{\kf18}dy{\kf42} tell{\kf42} me{\kf36} this{\kf18} is{\kf30} a{\kf33} dream
+Dialogue: 0,0:01:05.55,0:01:08.93,DEFAULT,,0,0,0,,{\r}{\kf36}A{\kf18} door{\kf24} to{\kf12} a{\kf47} world{\kf30} I{\kf47} ne{\kf24}ver{\kf30} have{\kf36} seen,{\kf34} oh!
+Dialogue: 0,0:01:21.58,0:01:24.96,DEFAULT,,0,0,0,,{\r}{\kf49}Lo{\kf31}sing{\kf18} faith{\kf12} with{\kf25} eve{\kf18}ry{\kf43} stair{\kf37} I{\kf25} climb,{\kf18} I'm{\kf18} un{\kf18}a{\kf26}ware
+Dialogue: 0,0:01:25.16,0:01:27.71,DEFAULT,,0,0,0,,{\r}{\kf41}Ce{\kf35}les{\kf41}ti{\kf35}a,{\kf41} don't{\kf35} leave{\kf27} me
+Dialogue: 0,0:01:27.90,0:01:31.24,DEFAULT,,0,0,0,,{\r}{\kf38}Can't{\kf38} help{\kf25} thin{\kf25}king{\kf13} that{\kf19} was{\kf44} real{\kf38} and{\kf13} not{\kf19} just{\kf19} how{\kf19} I{\kf23} feel
+Dialogue: 0,0:01:31.43,0:01:33.88,DEFAULT,,0,0,0,,{\r}{\kf38}King{\kf44} Somb{\kf38}ra,{\kf38} don't{\kf38} de{\kf38}ceive{\kf11} me
+Dialogue: 0,0:01:34.03,0:01:40.01,DEFAULT,,0,0,0,,{\r}{\kf12}I{\kf36} tried{\kf18} so{\kf65} hard{\kf18} and{\kf53} got{\kf18} so{\kf59} far{\kf18} but{\kf59} in{\kf24} the{\kf36} end{\kf36} it{\kf41} do{\kf36}esn't{\kf30} ma{\kf24}-at{\kf15}ter
+Dialogue: 0,0:01:40.21,0:01:43.74,DEFAULT,,0,0,0,,{\r}{\kf26}But{\kf32} it's{\kf39} too{\kf19} late{\kf19} for{\kf26} me{\kf10} to{\kf45} stay,{\kf39} I{\kf26} bet{\kf13}ter{\kf19} save{\kf19} the{\kf21} day
+Dialogue: 0,0:01:43.93,0:01:46.68,DEFAULT,,0,0,0,,{\r}{\kf39}King{\kf46} Somb{\kf33}ra,{\kf46} you{\kf39} will{\kf33} sha{\kf20}-at{\kf19}ter!
+Dialogue: 0,0:01:46.87,0:01:52.02,DEFAULT,,0,0,0,,{\r}{\kf17}My{\kf28} worst{\kf40} night{\kf28}mare{\kf23} right{\kf28} in{\kf40} front{\kf17} of{\kf23} my{\kf271} eyes
+Dialogue: 0,0:01:53.15,0:01:58.35,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf33} who{\kf38} knew{\kf38} that{\kf11} it{\kf38} was{\kf38} all{\kf11} a{\kf16} dis{\kf275}guise
+Dialogue: 0,0:01:59.23,0:02:01.83,DEFAULT,,0,0,0,,{\r}{\kf24}Some{\kf24}bo{\kf18}dy{\kf41} tell{\kf41} me{\kf35} this{\kf18} is{\kf30} a{\kf29} dream
+Dialogue: 0,0:02:02.02,0:02:05.40,DEFAULT,,0,0,0,,{\r}{\kf36}A{\kf18} door{\kf24} to{\kf12} a{\kf48} world{\kf36} I{\kf48} nev{\kf12}er{\kf30} have{\kf36} seen,{\kf38} oh!
+Dialogue: 0,0:02:30.80,0:02:35.89,DEFAULT,,0,0,0,,{\r}{\kf17}My{\kf33} worst{\kf39} night{\kf33}mare{\kf22} right{\kf22} in{\kf44} front{\kf17} of{\kf22} my{\kf261} eyes
+Dialogue: 0,0:02:37.07,0:02:42.27,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf32} who{\kf37} knew{\kf48} that{\kf11} it{\kf37} was{\kf42} all{\kf10} a{\kf21} dis{\kf261}guise
+Dialogue: 0,0:02:43.15,0:02:45.70,DEFAULT,,0,0,0,,{\r}{\kf24}Some{\kf18}bo{\kf18}dy{\kf42} tell{\kf42} me{\kf36} this{\kf18} is{\kf30} a{\kf27} dream
+Dialogue: 0,0:02:45.89,0:02:49.33,DEFAULT,,0,0,0,,{\r}{\kf36}A{\kf18} door{\kf18} to{\kf24} a{\kf42} world{\kf36} I{\kf48} ne{\kf18}ver{\kf24} have{\kf42} seen,{\kf37} oh!

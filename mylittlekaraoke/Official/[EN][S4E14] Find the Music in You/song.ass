@@ -1,74 +1,70 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Find the Music in You (Rarity)
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.15,0:00:06.29,DEFAULT,,0,0,0,,{\kf34}Pam{\kf30} pam{\kf23} pam{\kf12} pa{\kf19}ra{\kf23} pa{\kf15}ra
-Dialogue: 0,0:00:06.44,0:00:08.58,DEFAULT,,0,0,0,,{\kf38}Pam{\kf27} pam{\kf15} pam{\kf8} pa{\kf19}ra{\kf42}-ah
-Dialogue: 0,0:00:08.73,0:00:10.94,DEFAULT,,0,0,0,,{\kf34}Pam{\kf30} pam{\kf23} pam{\kf15} pa{\kf19}ra{\kf23} pa{\kf19}ra
-Dialogue: 0,0:00:11.09,0:00:13.19,DEFAULT,,0,0,0,,{\kf38}Pam{\kf27} pam{\kf15} pam{\kf8} pa{\kf19}ra{\kf42}-ah
-Dialogue: 0,0:00:13.34,0:00:15.55,DEFAULT,,0,0,0,,{\kf34}Pam{\kf30} pam{\kf19} pam{\kf8} pa{\kf15}ra{\kf19} pa{\kf23}ra
-Dialogue: 0,0:00:15.70,0:00:17.80,DEFAULT,,0,0,0,,{\kf38}Pam{\kf27} pam{\kf19} pam{\kf8} pa{\kf23}ra{\kf45}-ah
-Dialogue: 0,0:00:17.99,0:00:20.05,DEFAULT,,0,0,0,,{\kf30}Trot{\kf19} out{\kf27}side{\kf8} and{\kf12} you{\kf12} see{\kf12} the{\kf19} sun{\kf19}shine
-Dialogue: 0,0:00:20.20,0:00:22.08,DEFAULT,,0,0,0,,{\kf19}Some{\kf12}thing's{\kf12} in{\kf12} the{\kf23} air{\kf12} to{\kf12}da{\kf12}-a{\kf34}-ay
-Dialogue: 0,0:00:22.49,0:00:24.66,DEFAULT,,0,0,0,,{\kf34}Sky{\kf19} is{\kf27} clear{\kf8} and{\kf12} you're{\kf15} fee{\kf15}ling{\kf23} so{\kf19} fine
-Dialogue: 0,0:00:24.81,0:00:26.95,DEFAULT,,0,0,0,,{\kf19}Eve{\kf12}ry{\kf23}thing's{\kf12} gon{\kf12}na{\kf27} be{\kf23} A{\kf19}-O{\kf34}kay
-Dialogue: 0,0:00:27.21,0:00:28.26,DEFAULT,,0,0,0,,{\kf12}If{\kf12} you{\kf12} lis{\kf12}ten{\kf12} care{\kf12}ful{\kf15}ly
-Dialogue: 0,0:00:28.68,0:00:29.95,DEFAULT,,0,0,0,,{\kf23}On{\kf12} ev{\kf12}e{\kf19}ry{\kf27} cor{\kf19}ner
-Dialogue: 0,0:00:30.10,0:00:31.64,DEFAULT,,0,0,0,,{\kf19}There's{\kf8} a{\kf19} rhy{\kf23}thm{\kf19} play{\kf19}ing
-Dialogue: 0,0:00:31.79,0:00:32.91,DEFAULT,,0,0,0,,{\kf15}Then{\kf12} it{\kf12} hap{\kf12}pens{\kf12} sud{\kf12}den{\kf19}ly
-Dialogue: 0,0:00:33.25,0:00:36.25,DEFAULT,,0,0,0,,{\kf12}The{\kf23} mu{\kf23}sic{\kf53} takes{\kf19} you{\kf27} o{\kf30}ver{\kf19} and{\kf12} you
-Dialogue: 0,0:00:36.36,0:00:38.58,DEFAULT,,0,0,0,,{\kf60}Find{\kf38} you've{\kf27} got{\kf12} the{\kf23} mu{\kf23}sic
-Dialogue: 0,0:00:38.84,0:00:40.75,DEFAULT,,0,0,0,,{\kf23}Got{\kf12} the{\kf23} mu{\kf27}sic{\kf38} in{\kf38} you
-Dialogue: 0,0:00:41.01,0:00:43.23,DEFAULT,,0,0,0,,{\kf53}Find{\kf38} you've{\kf27} got{\kf8} the{\kf23} mu{\kf23}sic
-Dialogue: 0,0:00:43.49,0:00:45.40,DEFAULT,,0,0,0,,{\kf19}Got{\kf12} the{\kf19} mu{\kf27}sic{\kf42} in{\kf34} you
-Dialogue: 0,0:00:45.63,0:00:47.69,DEFAULT,,0,0,0,,{\kf105}Oh{\kf90} oh
-Dialogue: 0,0:00:47.91,0:00:49.90,DEFAULT,,0,0,0,,{\kf23}Eve{\kf15}ry{\kf19}po{\kf19}ny's{\kf23} say{\kf15}in'{\kf23} you{\kf15} should
-Dialogue: 0,0:00:50.05,0:00:51.63,DEFAULT,,0,0,0,,{\kf30}Learn{\kf12} to{\kf15} ex{\kf19}press{\kf12} your{\kf42} voice
-Dialogue: 0,0:00:51.93,0:00:53.50,DEFAULT,,0,0,0,,{\kf19}But{\kf12} if{\kf27} talk{\kf15} does{\kf15}n't{\kf15} seem{\kf12} like
-Dialogue: 0,0:00:53.65,0:00:54.63,DEFAULT,,0,0,0,,{\kf30}It's{\kf15} the{\kf15} an{\kf23}swer
-Dialogue: 0,0:00:54.81,0:00:56.31,DEFAULT,,0,0,0,,{\kf12}Lu{\kf12}cki{\kf12}ly{\kf12} you{\kf27} have{\kf12} a{\kf30} choice
-Dialogue: 0,0:00:56.58,0:00:59.35,DEFAULT,,0,0,0,,{\kf19}When{\kf19} you{\kf57} find{\kf34} you've{\kf27} got{\kf12} the{\kf19} mu{\kf23}sic
-Dialogue: 0,0:00:59.61,0:01:01.53,DEFAULT,,0,0,0,,{\kf23}Got{\kf12} the{\kf19} mu{\kf27}sic{\kf42} in{\kf38} you
-Dialogue: 0,0:01:01.75,0:01:04.00,DEFAULT,,0,0,0,,{\kf53}Find{\kf38} you've{\kf38} got{\kf12} the{\kf19} mu{\kf23}sic
-Dialogue: 0,0:01:04.23,0:01:06.10,DEFAULT,,0,0,0,,{\kf19}Got{\kf15} the{\kf19} mu{\kf23}sic{\kf42} in{\kf34} you
-Dialogue: 0,0:01:06.29,0:01:08.65,DEFAULT,,0,0,0,,{\kf68}Got{\kf38} the{\kf72} mu{\kf27}sic
-Dialogue: 0,0:01:08.80,0:01:10.64,DEFAULT,,0,0,0,,{\kf23}Got{\kf12} the{\kf23} mu{\kf23}sic{\kf49} in{\kf23} you
-Dialogue: 0,0:01:10.79,0:01:12.96,DEFAULT,,0,0,0,,{\kf30}Pam{\kf30} pam{\kf19} pam{\kf15} pa{\kf19}ra{\kf23} pa{\kf15}ra
-Dialogue: 0,0:01:13.11,0:01:15.29,DEFAULT,,0,0,0,,{\kf34}Pam{\kf30} pam{\kf19} pam{\kf12} pa{\kf27}ra{\kf34}-ah
-Dialogue: 0,0:01:15.44,0:01:17.58,DEFAULT,,0,0,0,,{\kf23}Trot{\kf15} out{\kf27}side{\kf8} and{\kf12} you{\kf19} see{\kf12} the{\kf19} sun{\kf30}shine
-Dialogue: 0,0:01:17.73,0:01:19.26,DEFAULT,,0,0,0,,{\kf15}Some{\kf12}thing's{\kf8} in{\kf12} the{\kf23} air{\kf12} to{\kf38}day
-Dialogue: 0,0:01:20.01,0:01:22.15,DEFAULT,,0,0,0,,{\kf34}Sky{\kf12} is{\kf30} clear{\kf8} and{\kf12} you're{\kf15} fee{\kf15}ling{\kf23} so{\kf23} fine
-Dialogue: 0,0:01:22.30,0:01:24.40,DEFAULT,,0,0,0,,{\kf19}Eve{\kf12}ry{\kf19}thing's{\kf12} gon{\kf12}na{\kf19} be{\kf30} A{\kf23}-O{\kf30}kay
-Dialogue: 0,0:01:24.59,0:01:26.80,DEFAULT,,0,0,0,,{\kf30}Pam{\kf30} pam{\kf23} pam{\kf12} pa{\kf15}ra{\kf23} pa{\kf19}ra
-Dialogue: 0,0:01:26.95,0:01:29.05,DEFAULT,,0,0,0,,{\kf30}Pam{\kf27} pam{\kf23} pam{\kf15} pa{\kf19}ra{\kf34}-ah
-Dialogue: 0,0:01:29.24,0:01:31.41,DEFAULT,,0,0,0,,{\kf38}Pam{\kf34} pam{\kf23} pam{\kf12} pa{\kf19}ra{\kf23} pa{\kf15}ra
-Dialogue: 0,0:01:31.56,0:01:33.74,DEFAULT,,0,0,0,,{\kf34}Pam{\kf27} pam{\kf19} pam{\kf12} pa{\kf15}ra{\kf45}-ah
-Dialogue: 0,0:01:33.89,0:01:36.06,DEFAULT,,0,0,0,,{\kf34}Pam{\kf27} pam{\kf19} pam{\kf15} pa{\kf19}ra{\kf27} pa{\kf15}ra
-Dialogue: 0,0:01:36.18,0:01:38.35,DEFAULT,,0,0,0,,{\kf30}Pam{\kf27} pam{\kf19} pam{\kf15} pa{\kf15}ra{\kf45}-ah
-Dialogue: 0,0:01:38.50,0:01:39.55,DEFAULT,,0,0,0,,{\kf12}If{\kf12} you{\kf12} lis{\kf12}ten{\kf12} care{\kf12}ful{\kf15}ly
-Dialogue: 0,0:01:39.85,0:01:41.24,DEFAULT,,0,0,0,,{\kf30}On{\kf12} ev{\kf8}e{\kf15}ry{\kf27} cor{\kf15}ner
-Dialogue: 0,0:01:41.39,0:01:43.00,DEFAULT,,0,0,0,,{\kf23}There's{\kf15} a{\kf23} rhy{\kf19}thm{\kf19} play{\kf19}ing
-Dialogue: 0,0:01:43.15,0:01:44.20,DEFAULT,,0,0,0,,{\kf12}Then{\kf12} it{\kf12} hap{\kf12}pens{\kf12} sud{\kf12}den{\kf15}ly
-Dialogue: 0,0:01:44.58,0:01:47.50,DEFAULT,,0,0,0,,{\kf15}The{\kf23} mu{\kf27}sic{\kf49} takes{\kf34} you{\kf34} o{\kf23}ver{\kf15} and{\kf15} you
-Dialogue: 0,0:01:47.65,0:01:49.71,DEFAULT,,0,0,0,,{\kf57}Find{\kf38} the{\kf53} mu{\kf34}sic
-Dialogue: 0,0:01:50.05,0:01:51.74,DEFAULT,,0,0,0,,{\kf30}Deep{\kf23} down{\kf15} in{\kf27} your{\kf23} he{\kf27}art
-Dialogue: 0,0:01:51.89,0:01:53.01,DEFAULT,,0,0,0,,{\kf15}You{\kf19} can{\kf53} find{\kf15} it
-Dialogue: 0,0:01:53.24,0:01:54.29,DEFAULT,,0,0,0,,{\kf23}Oh{\kf42} yeah{\kf30} yeah
-Dialogue: 0,0:01:55.23,0:01:56.80,DEFAULT,,0,0,0,,{\kf30}It's{\kf23} in{\kf12} you{\kf15} no{\kf23}-o{\kf15}-ow
-Dialogue: 0,0:01:56.95,0:01:59.05,DEFAULT,,0,0,0,,{\kf53}Hey{\kf49} hey{\kf45} yeah{\kf34} yeah
-Dialogue: 0,0:01:59.43,0:02:01.26,DEFAULT,,0,0,0,,{\kf23}Got{\kf19} the{\kf19} mu{\kf19}sic{\kf34} in{\kf27} you
-Dialogue: 0,0:02:01.60,0:02:03.33,DEFAULT,,0,0,0,,{\kf27}He-{\kf15}e{\kf19}-ey{\kf53} find{\kf27} it
-Dialogue: 0,0:02:03.85,0:02:06.18,DEFAULT,,0,0,0,,{\kf27}O{\kf19}-o{\kf19}-ow{\kf49} why,{\kf12} you{\kf15} can{\kf38} find{\kf12} it
-Dialogue: 0,0:02:06.29,0:02:08.20,DEFAULT,,0,0,0,,{\kf23}In{\kf23} your{\kf15} he{\kf12}-a{\kf23}-art{\kf38} yeah{\kf45} yeah
-Dialogue: 0,0:02:08.46,0:02:11.13,DEFAULT,,0,0,0,,{\kf30}Find{\kf12} the{\kf57} mu{\kf23}sic{\kf15} ye{\kf15}-e{\kf15}-ah{\kf45} yeah
-Dialogue: 0,0:02:11.95,0:02:14.01,DEFAULT,,0,0,0,,{\kf30}It's{\kf38} in{\kf27} you{\kf23} right{\kf15} no{\kf15}-o{\kf27}-ow
-Dialogue: 0,0:02:14.73,0:02:17.09,DEFAULT,,0,0,0,,{\kf49}O{\kf23}-uh{\kf27} ye{\kf15}-e{\kf45}-ah{\kf49} yeah
-Dialogue: 0,0:02:17.88,0:02:20.73,DEFAULT,,0,0,0,,{\kf64}You{\kf15} can{\kf60} find{\kf19} the{\kf79} mu{\kf30}sic
-Dialogue: 0,0:02:20.88,0:02:24.48,DEFAULT,,0,0,0,,{\kf57}Yeah{\kf30} yeah{\kf15} I{\kf45} love{\kf27} the{\kf57} mu{\kf23}sic{\kf42} ye...?
+Dialogue: 0,0:00:08.73,0:00:10.83,DEFAULT,,0,0,0,,{\r}{\kf91}Oh{\kf33} ah{\kf86} ah
+Dialogue: 0,0:00:10.98,0:00:13.15,DEFAULT,,0,0,0,,{\r}{\kf96}Oh{\kf30} ah{\kf92} ah
+Dialogue: 0,0:00:13.34,0:00:15.33,DEFAULT,,0,0,0,,{\r}{\kf95}Oh{\kf30} ah{\kf74} ah
+Dialogue: 0,0:00:15.67,0:00:17.62,DEFAULT,,0,0,0,,{\r}{\kf93}Oh{\kf29} ah{\kf73} ah
+Dialogue: 0,0:00:17.84,0:00:18.37,DEFAULT,,0,0,0,,{\r}{\kf52}Trot
+Dialogue: 0,0:00:19.04,0:00:20.17,DEFAULT,,0,0,0,,{\r}{\kf23}See{\kf14} the{\kf28} sun{\kf47}shine
+Dialogue: 0,0:00:20.24,0:00:22.42,DEFAULT,,0,0,0,,{\r}{\kf40}Oh{\kf34} ah{\kf34} ah{\kf46} to{\kf64}day
+Dialogue: 0,0:00:22.64,0:00:24.44,DEFAULT,,0,0,0,,{\r}{\kf90}Oh{\kf24} ah{\kf66} ah
+Dialogue: 0,0:00:24.85,0:00:27.14,DEFAULT,,0,0,0,,{\r}{\kf21}Eve{\kf16}ry{\kf53}thing's{\kf101} ah{\kf38}-kay
+Dialogue: 0,0:00:27.22,0:00:28.27,DEFAULT,,0,0,0,,{\r}{\kf14}If{\kf14} you{\kf14} lis{\kf14}ten{\kf14} care{\kf14}ful{\kf21}ly
+Dialogue: 0,0:00:28.68,0:00:30.03,DEFAULT,,0,0,0,,{\r}{\kf26}On{\kf13} ev{\kf13}e{\kf22}ry{\kf30} cor{\kf31}ner
+Dialogue: 0,0:00:30.10,0:00:31.72,DEFAULT,,0,0,0,,{\r}{\kf27}There's{\kf11} a{\kf27} rhy{\kf32}thm{\kf27} play{\kf37}ing
+Dialogue: 0,0:00:31.79,0:00:32.92,DEFAULT,,0,0,0,,{\r}{\kf19}Then{\kf14} it{\kf14} hap{\kf14}pens{\kf14} sud{\kf14}den{\kf23}ly
+Dialogue: 0,0:00:33.25,0:00:36.29,DEFAULT,,0,0,0,,{\r}{\kf16}The{\kf31} mu{\kf31}sic{\kf73} takes{\kf26} you{\kf37} o{\kf42}ver{\kf26} and{\kf22} you
+Dialogue: 0,0:00:36.37,0:00:40.87,DEFAULT,,0,0,0,,{\r}{\kf261}Find{\kf24} the{\kf24} mu{\kf43}sic{\kf38} oh{\kf28}-oh{\kf14} yo{\kf18}-u
+Dialogue: 0,0:00:40.98,0:00:45.59,DEFAULT,,0,0,0,,{\r}{\kf259}Find{\kf24} the{\kf28} mu{\kf42}sic{\kf28} oh{\kf33}-oh{\kf19} oh{\kf28}-oh
+Dialogue: 0,0:00:45.85,0:00:47.80,DEFAULT,,0,0,0,,{\r}{\kf77}Oh{\kf118}-oh
+Dialogue: 0,0:00:47.92,0:00:49.94,DEFAULT,,0,0,0,,{\r}{\kf94}Oh{\kf34} ah{\kf74} ah
+Dialogue: 0,0:00:50.24,0:00:52.30,DEFAULT,,0,0,0,,{\r}{\kf39}Oh{\kf39} ah{\kf32} ah{\kf39} ah{\kf57} oh
+Dialogue: 0,0:00:52.49,0:00:54.52,DEFAULT,,0,0,0,,{\r}{\kf98}Oh{\kf31} ah{\kf73} ah
+Dialogue: 0,0:00:54.85,0:00:56.28,DEFAULT,,0,0,0,,{\r}{\kf15}Lu{\kf15}cki{\kf20}ly{\kf15} you{\kf24} have{\kf15} a{\kf38} choice
+Dialogue: 0,0:00:57.10,0:01:01.60,DEFAULT,,0,0,0,,{\r}{\kf238}Find{\kf26} the{\kf26} mu{\kf47}sic{\kf36} oh{\kf21}-oh{\kf31} yo{\kf25}-u
+Dialogue: 0,0:01:01.72,0:01:06.14,DEFAULT,,0,0,0,,{\r}{\kf250}Find{\kf24} the{\kf29} mu{\kf39}sic{\kf58} in{\kf43} you
+Dialogue: 0,0:01:06.37,0:01:08.65,DEFAULT,,0,0,0,,{\r}{\kf66}Got{\kf53} the{\kf26} mu{\kf53}-u{\kf31}sic
+Dialogue: 0,0:01:08.84,0:01:10.64,DEFAULT,,0,0,0,,{\r}{\kf28}Got{\kf14} the{\kf24} mu{\kf24}sic{\kf62} in{\kf28} you
+Dialogue: 0,0:01:10.87,0:01:12.82,DEFAULT,,0,0,0,,{\r}{\kf93}Oh{\kf24} ah{\kf78} ah
+Dialogue: 0,0:01:13.08,0:01:15.10,DEFAULT,,0,0,0,,{\r}{\kf94}Oh{\kf30} ah{\kf79} ah
+Dialogue: 0,0:01:15.33,0:01:15.82,DEFAULT,,0,0,0,,{\r}{\kf49}Trot
+Dialogue: 0,0:01:16.57,0:01:17.62,DEFAULT,,0,0,0,,{\r}{\kf25}See{\kf10} the{\kf25} sun{\kf45}shine
+Dialogue: 0,0:01:17.73,0:01:19.75,DEFAULT,,0,0,0,,{\r}{\kf44}Oh{\kf49} ah{\kf34} ah{\kf34} to{\kf41}day
+Dialogue: 0,0:01:20.02,0:01:22.15,DEFAULT,,0,0,0,,{\r}{\kf95}Oh{\kf30} ah{\kf89} ah
+Dialogue: 0,0:01:22.38,0:01:24.63,DEFAULT,,0,0,0,,{\r}{\kf19}Eve{\kf19}ry{\kf39}thing's{\kf116} ah{\kf32}-kay
+Dialogue: 0,0:01:24.70,0:01:26.69,DEFAULT,,0,0,0,,{\r}{\kf95}Oh{\kf25} ah{\kf79} ah
+Dialogue: 0,0:01:26.95,0:01:29.05,DEFAULT,,0,0,0,,{\r}{\kf100}Oh{\kf21} ah{\kf89} ah
+Dialogue: 0,0:01:29.28,0:01:31.38,DEFAULT,,0,0,0,,{\r}{\kf95}Oh{\kf25} ah{\kf90} ah
+Dialogue: 0,0:01:31.57,0:01:33.78,DEFAULT,,0,0,0,,{\r}{\kf93}Oh{\kf25} ah{\kf103} ah
+Dialogue: 0,0:01:34.00,0:01:36.03,DEFAULT,,0,0,0,,{\r}{\kf90}Oh{\kf24} ah{\kf89} ah
+Dialogue: 0,0:01:36.18,0:01:38.28,DEFAULT,,0,0,0,,{\r}{\kf93}Oh{\kf24} ah{\kf93} ah
+Dialogue: 0,0:01:38.50,0:01:39.55,DEFAULT,,0,0,0,,{\r}{\kf14}If{\kf14} you{\kf14} lis{\kf14}ten{\kf14} care{\kf14}ful{\kf21}ly
+Dialogue: 0,0:01:40.04,0:01:41.32,DEFAULT,,0,0,0,,{\r}{\kf20}On{\kf15} ev{\kf10}e{\kf20}ry{\kf34} cor{\kf28}ner
+Dialogue: 0,0:01:41.39,0:01:43.08,DEFAULT,,0,0,0,,{\r}{\kf31}There's{\kf20} a{\kf31} rhy{\kf26}thm{\kf26} play{\kf35}ing
+Dialogue: 0,0:01:43.15,0:01:44.20,DEFAULT,,0,0,0,,{\r}{\kf14}Then{\kf14} it{\kf14} hap{\kf14}pens{\kf14} sud{\kf14}den{\kf21}ly
+Dialogue: 0,0:01:44.58,0:01:47.54,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf28} mu{\kf33}sic{\kf61} takes{\kf42} you{\kf42} o{\kf28}ver{\kf19} and{\kf24} you
+Dialogue: 0,0:01:47.73,0:01:52.23,DEFAULT,,0,0,0,,{\r}{\kf223}Find{\kf19} the{\kf39} mu{\kf53}sic{\kf39} oh{\kf29}-oh{\kf24} yo{\kf24}-u
+Dialogue: 0,0:01:52.30,0:01:56.77,DEFAULT,,0,0,0,,{\r}{\kf262}Find{\kf24} the{\kf29} mu{\kf39}sic{\kf44} in{\kf48} you
+Dialogue: 0,0:01:56.95,0:01:59.24,DEFAULT,,0,0,0,,{\r}{\kf62}Got{\kf57} the{\kf18} mu{\kf57}-u{\kf35}sic
+Dialogue: 0,0:01:59.47,0:02:01.27,DEFAULT,,0,0,0,,{\r}{\kf19}Got{\kf15} the{\kf19} mu{\kf24}sic{\kf68} in{\kf35} you
+Dialogue: 0,0:02:01.90,0:02:05.95,DEFAULT,,0,0,0,,{\r}{\kf34}When{\kf26} you{\kf56} find{\kf39} you've{\kf78} got{\kf22} the{\kf43} mu{\kf107}sic
+Dialogue: 0,0:02:06.33,0:02:10.34,DEFAULT,,0,0,0,,{\r}{\kf27}When{\kf18} you{\kf68} find{\kf41} you've{\kf81} got{\kf14} the{\kf36} mu{\kf116}sic
+Dialogue: 0,0:02:10.72,0:02:14.73,DEFAULT,,0,0,0,,{\r}{\kf26}When{\kf21} you{\kf64} find{\kf47} you've{\kf81} got{\kf17} the{\kf34} mu{\kf111}sic
+Dialogue: 0,0:02:15.03,0:02:18.70,DEFAULT,,0,0,0,,{\r}{\kf33}When{\kf24} you{\kf62} find{\kf43} you've{\kf76} got{\kf19} the{\kf29} mu{\kf82}sic
+Dialogue: 0,0:02:19.45,0:02:19.87,DEFAULT,,0,0,0,,{\r}{\kf20}When{\kf21} you...

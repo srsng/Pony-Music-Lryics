@@ -1,38 +1,45 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: When Is It Over
+Artist: Intersekt ft. Flittzy
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.37,0:00:18.12,DEFAULT,,0,0,0,,{\kf17}A{\kf22} win{\kf22}ter{\kf27} breeze{\kf22} is{\kf38} flow{\kf27}ing{\kf33} fast{\kf70}er
-Dialogue: 0,0:00:21.17,0:00:25.25,DEFAULT,,0,0,0,,{\kf17}A{\kf17} shat{\kf27}tered{\kf27} rose{\kf22} seeks{\kf38} for{\kf22} an{\kf22} ans{\kf92}wer
-Dialogue: 0,0:00:26.96,0:00:29.91,DEFAULT,,0,0,0,,{\kf22}When{\kf38} skies{\kf22}~{\kf27} are{\kf33} dim{\kf33}~{\kf33}ming
-Dialogue: 0,0:00:30.44,0:00:33.44,DEFAULT,,0,0,0,,{\kf49}Lives{\kf27} are{\kf22}~{\kf22} liv{\kf27}~{\kf54}ing
-Dialogue: 0,0:00:35.21,0:00:38.59,DEFAULT,,0,0,0,,{\kf17}No{\kf27} one{\kf17} e{\kf22}ver{\kf27} seems{\kf38} to{\kf27}~{\kf49} mind
-Dialogue: 0,0:00:41.80,0:00:45.44,DEFAULT,,0,0,0,,{\kf17}The{\kf17} flee{\kf22}ing{\kf27} dark{\kf22}ness{\kf27} in{\kf22}ter{\kf27}rupts{\kf54} her
-Dialogue: 0,0:00:48.92,0:00:52.94,DEFAULT,,0,0,0,,{\kf17}Shin{\kf22}ing{\kf27} back{\kf27} on{\kf27} how{\kf38} things{\kf49} once{\kf54} were
-Dialogue: 0,0:00:54.44,0:00:57.23,DEFAULT,,0,0,0,,{\kf27}The{\kf49} clouds{\kf27} are{\kf33} fal{\kf22}~{\kf33}ling
-Dialogue: 0,0:00:57.87,0:01:00.71,DEFAULT,,0,0,0,,{\kf33}All{\kf54}~{\kf27} re{\kf38}gret{\kf17}~{\kf43}ting
-Dialogue: 0,0:01:02.32,0:01:06.12,DEFAULT,,0,0,0,,{\kf17}But{\kf22} does{\kf22}n't{\kf22} e{\kf27}ver{\kf33} seem{\kf38} to{\kf27}~{\kf59} whine
-Dialogue: 0,0:01:06.82,0:01:11.10,DEFAULT,,0,0,0,,{\kf22}When{\kf27} is{\kf27} it{\kf22} o{\kf27}~{\kf247}ver
-Dialogue: 0,0:01:20.59,0:01:24.87,DEFAULT,,0,0,0,,{\kf17}When{\kf22} is{\kf27} it{\kf22} o{\kf27}~{\kf252}ver
-Dialogue: 0,0:01:36.87,0:01:40.67,DEFAULT,,0,0,0,,{\kf17}Se{\kf27}vered{\kf27} hearts{\kf22} are{\kf27} flee{\kf22}ing{\kf22} far{\kf75}ther
-Dialogue: 0,0:01:43.73,0:01:48.07,DEFAULT,,0,0,0,,{\kf17}Leav{\kf22}ing{\kf27} dust{\kf27} as{\kf27} it{\kf33} gets{\kf81} col{\kf92}der
-Dialogue: 0,0:01:49.30,0:01:52.19,DEFAULT,,0,0,0,,{\kf17}The{\kf49} sun{\kf27} comes{\kf33} up{\kf33} but
-Dialogue: 0,0:01:52.73,0:01:55.62,DEFAULT,,0,0,0,,{\kf38}No{\kf33}thing{\kf38}~{\kf38} bright{\kf59}ens
-Dialogue: 0,0:01:57.39,0:02:00.87,DEFAULT,,0,0,0,,{\kf22}Lost{\kf27} in{\kf22} sha{\kf27}dows{\kf22} yet{\kf43} to{\kf17}~{\kf70} come
-Dialogue: 0,0:02:04.09,0:02:07.78,DEFAULT,,0,0,0,,{\kf17}The{\kf17} scat{\kf27}tered{\kf33} seeds{\kf22} are{\kf33} soon{\kf27} for{\kf33}got{\kf70}ten
-Dialogue: 0,0:02:10.94,0:02:14.75,DEFAULT,,0,0,0,,{\kf17}With{\kf17} no{\kf22} one{\kf22} seek{\kf27}ing{\kf33} for{\kf22} a{\kf33} blos{\kf65}som
-Dialogue: 0,0:02:16.73,0:02:19.67,DEFAULT,,0,0,0,,{\kf27}When{\kf33} time{\kf17}~{\kf27} is{\kf49} chas{\kf43}ing
-Dialogue: 0,0:02:20.16,0:02:22.89,DEFAULT,,0,0,0,,{\kf38}Try{\kf22}~{\kf27}ing,{\kf27} scath{\kf17}~{\kf43}ing
-Dialogue: 0,0:02:24.66,0:02:28.46,DEFAULT,,0,0,0,,{\kf17}And{\kf22} tear{\kf22}ing{\kf22} strings{\kf22} not{\kf27} meant{\kf33} to{\kf38}~{\kf59} strum
-Dialogue: 0,0:02:29.64,0:02:36.17,DEFAULT,,0,0,0,,{\kf27}When{\kf22} is{\kf27} it{\kf65} o{\kf33}~{\kf327}ver{\kf17}~{\kf17}~{\kf17}~
-Dialogue: 0,0:02:44.21,0:02:49.25,DEFAULT,,0,0,0,,{\kf27}When{\kf22} is{\kf27} it{\kf22} o{\kf27}~{\kf38}ver{\kf113}~{\kf145}~
-Dialogue: 0,0:02:58.25,0:03:02.53,DEFAULT,,0,0,0,,{\kf22}When{\kf22} is{\kf33} it{\kf17} o{\kf33}~{\kf247}ver
-Dialogue: 0,0:03:11.96,0:03:16.25,DEFAULT,,0,0,0,,{\kf22}When{\kf22} is{\kf27} it{\kf27} o{\kf17}~{\kf252}ver
-Dialogue: 0,0:03:25.57,0:03:27.60,DEFAULT,,0,0,0,,{\kf17}Is{\kf17} it{\kf22} o{\kf102}ver
+Dialogue: 0,0:00:14.38,0:00:18.13,DEFAULT,,0,0,0,,{\r}{\kf22}A{\kf29} win{\kf29}ter{\kf37} breeze{\kf29} is{\kf51} flow{\kf37}ing{\kf44} fast{\kf97}er
+Dialogue: 0,0:00:21.18,0:00:25.25,DEFAULT,,0,0,0,,{\r}{\kf23}A{\kf23} shat{\kf39}tered{\kf39} rose{\kf31} seeks{\kf55} for{\kf31} an{\kf31} ans{\kf135}wer
+Dialogue: 0,0:00:26.97,0:00:29.91,DEFAULT,,0,0,0,,{\r}{\kf31}When{\kf54} skies{\kf31}~{\kf39} are{\kf47} dim{\kf47}~{\kf46}ming
+Dialogue: 0,0:00:30.45,0:00:33.45,DEFAULT,,0,0,0,,{\r}{\kf73}Lives{\kf41} are{\kf32}~{\kf32} liv{\kf41}~{\kf81}ing
+Dialogue: 0,0:00:35.22,0:00:38.59,DEFAULT,,0,0,0,,{\r}{\kf25}No{\kf41} one{\kf25} e{\kf33}ver{\kf41} seems{\kf58} to{\kf41}~{\kf74} mind
+Dialogue: 0,0:00:41.80,0:00:45.45,DEFAULT,,0,0,0,,{\r}{\kf25}The{\kf25} flee{\kf34}ing{\kf42} dark{\kf34}ness{\kf42} in{\kf34}ter{\kf42}rupts{\kf86} her
+Dialogue: 0,0:00:48.93,0:00:52.95,DEFAULT,,0,0,0,,{\r}{\kf25}Shin{\kf34}ing{\kf42} back{\kf42} on{\kf42} how{\kf59} things{\kf75} once{\kf83} were
+Dialogue: 0,0:00:54.45,0:00:57.23,DEFAULT,,0,0,0,,{\r}{\kf40}The{\kf72} clouds{\kf40} are{\kf48} fal{\kf32}~{\kf47}ling
+Dialogue: 0,0:00:57.88,0:01:00.72,DEFAULT,,0,0,0,,{\r}{\kf44}All{\kf73}~{\kf36} re{\kf51}gret{\kf22}~{\kf58}ting
+Dialogue: 0,0:01:02.32,0:01:06.13,DEFAULT,,0,0,0,,{\r}{\kf23}But{\kf31} does{\kf31}n't{\kf31} e{\kf39}ver{\kf47} seem{\kf54} to{\kf39}~{\kf85} whine
+Dialogue: 0,0:01:06.82,0:01:11.11,DEFAULT,,0,0,0,,{\r}{\kf25}When{\kf31} is{\kf31} it{\kf25} o{\kf31}~{\kf286}ver
+Dialogue: 0,0:01:20.59,0:01:24.88,DEFAULT,,0,0,0,,{\r}{\kf19}When{\kf25} is{\kf32} it{\kf25} o{\kf32}~{\kf296}ver
+Dialogue: 0,0:01:36.88,0:01:40.68,DEFAULT,,0,0,0,,{\r}{\kf26}Se{\kf43}vered{\kf43} hearts{\kf35} are{\kf43} flee{\kf35}ing{\kf35} far{\kf120}ther
+Dialogue: 0,0:01:43.73,0:01:48.07,DEFAULT,,0,0,0,,{\r}{\kf22}Leav{\kf29}ing{\kf36} dust{\kf36} as{\kf36} it{\kf43} gets{\kf109} col{\kf123}der
+Dialogue: 0,0:01:49.30,0:01:52.20,DEFAULT,,0,0,0,,{\r}{\kf30}The{\kf90} sun{\kf50} comes{\kf60} up{\kf59} but
+Dialogue: 0,0:01:52.73,0:01:55.63,DEFAULT,,0,0,0,,{\r}{\kf53}No{\kf46}thing{\kf53}~{\kf53} bright{\kf84}ens
+Dialogue: 0,0:01:57.39,0:02:00.88,DEFAULT,,0,0,0,,{\r}{\kf30}Lost{\kf38} in{\kf30} sha{\kf38}dows{\kf30} yet{\kf61} to{\kf23}~{\kf98} come
+Dialogue: 0,0:02:04.09,0:02:07.79,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf22} scat{\kf36}tered{\kf44} seeds{\kf29} are{\kf44} soon{\kf36} for{\kf44}got{\kf93}ten
+Dialogue: 0,0:02:10.95,0:02:14.75,DEFAULT,,0,0,0,,{\r}{\kf24}With{\kf24} no{\kf32} one{\kf32} seek{\kf40}ing{\kf49} for{\kf32} a{\kf49} blos{\kf98}som
+Dialogue: 0,0:02:16.73,0:02:19.68,DEFAULT,,0,0,0,,{\r}{\kf41}When{\kf49} time{\kf25}~{\kf41} is{\kf74} chas{\kf65}ing
+Dialogue: 0,0:02:20.16,0:02:22.89,DEFAULT,,0,0,0,,{\r}{\kf60}Try{\kf34}~{\kf43}ing,{\kf43} scath{\kf26}~{\kf67}ing
+Dialogue: 0,0:02:24.66,0:02:28.47,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf32} tear{\kf32}ing{\kf32} strings{\kf32} not{\kf40} meant{\kf48} to{\kf55}~{\kf85} strum
+Dialogue: 0,0:02:29.64,0:02:36.18,DEFAULT,,0,0,0,,{\r}{\kf32}When{\kf26} is{\kf32} it{\kf77} o{\kf38}~{\kf391}ver{\kf19}~{\kf19}~{\kf20}~
+Dialogue: 0,0:02:44.22,0:02:49.25,DEFAULT,,0,0,0,,{\r}{\kf32}When{\kf26} is{\kf32} it{\kf26} o{\kf32}~{\kf45}ver{\kf136}~{\kf175}~
+Dialogue: 0,0:02:58.25,0:03:02.54,DEFAULT,,0,0,0,,{\r}{\kf25}When{\kf25} is{\kf37} it{\kf19} o{\kf37}~{\kf286}ver
+Dialogue: 0,0:03:11.97,0:03:16.25,DEFAULT,,0,0,0,,{\r}{\kf25}When{\kf25} is{\kf32} it{\kf32} o{\kf19}~{\kf296}ver
+Dialogue: 0,0:03:25.57,0:03:27.61,DEFAULT,,0,0,0,,{\r}{\kf21}Is{\kf21} it{\kf28} o{\kf134}ver

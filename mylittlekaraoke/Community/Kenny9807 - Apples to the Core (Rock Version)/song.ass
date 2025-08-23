@@ -1,37 +1,44 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Apples to the Core (Rock Version)
+Artist: Kenny9807
+Original Timing: mylittlekaraoke.com
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.29,0:00:17.66,DEFAULT,,0,0,0,,{\kf17}We've{\kf22} tra{\kf22}veled{\kf17} the{\kf11}-e{\kf49} road{\kf22} of{\kf38} ge{\kf38}ne{\kf17}ra{\kf38}tions
-Dialogue: 0,0:00:17.98,0:00:21.04,DEFAULT,,0,0,0,,{\kf33}Joined{\kf33} by{\kf38} com{\kf38}mon{\kf70} bo{\kf54}-ond
-Dialogue: 0,0:00:21.20,0:00:24.36,DEFAULT,,0,0,0,,{\kf11}We{\kf43} sing{\kf11} o{\kf11}-ur{\kf43} song{\kf17} 'cross{\kf11} the{\kf38} po{\kf33}ny{\kf17} na{\kf22}tion
-Dialogue: 0,0:00:24.47,0:00:27.25,DEFAULT,,0,0,0,,{\kf17}From{\kf11} E{\kf17}ques{\kf22}tri{\kf22}a{\kf43} and{\kf11} be{\kf17}-e{\kf65}yond
-Dialogue: 0,0:00:28.05,0:00:31.32,DEFAULT,,0,0,0,,{\kf17}We're{\kf17} Ap{\kf38}ples{\kf17} fo{\kf17}re{\kf22}ver,{\kf17} Ap{\kf17}ples{\kf33} to{\kf22}ge{\kf22}ther
-Dialogue: 0,0:00:31.48,0:00:34.70,DEFAULT,,0,0,0,,{\kf11}We're{\kf22} fam'{\kf17}ly{\kf22} but{\kf38} so{\kf38} much{\kf70} mo{\kf54}-ore
-Dialogue: 0,0:00:34.91,0:00:38.18,DEFAULT,,0,0,0,,{\kf17}No{\kf22} mat{\kf11}ter{\kf27} what{\kf38} comes,{\kf11} we{\kf22} will{\kf43} face{\kf22} the{\kf27} wea{\kf22}ther
-Dialogue: 0,0:00:38.34,0:00:41.34,DEFAULT,,0,0,0,,{\kf11}We're{\kf22} Ap{\kf38}ples{\kf43} to{\kf17} the{\kf17}-e{\kf113} core
-Dialogue: 0,0:00:41.98,0:00:44.98,DEFAULT,,0,0,0,,{\kf33}There's{\kf22} no{\kf11}-o{\kf38} place{\kf22} that{\kf17} I'd{\kf38} ra{\kf17}the{\kf17}-er{\kf43} be
-Dialogue: 0,0:00:45.20,0:00:48.36,DEFAULT,,0,0,0,,{\kf17}Than{\kf22} tra{\kf17}vel{\kf38}ling{\kf27} with{\kf27} my{\kf65} fa{\kf22}mi{\kf33}ly
-Dialogue: 0,0:00:48.73,0:00:51.68,DEFAULT,,0,0,0,,{\kf49}Friends{\kf22} all{\kf11} a{\kf33}round{\kf27} come{\kf11} to{\kf38} join{\kf27} and{\kf33} see
-Dialogue: 0,0:00:51.78,0:00:54.57,DEFAULT,,0,0,0,,{\kf22}As{\kf11} we{\kf27} sing{\kf11} a{\kf33}long{\kf38} 'cross{\kf22} the{\kf11}-e{\kf59} land
-Dialogue: 0,0:00:55.53,0:00:58.80,DEFAULT,,0,0,0,,{\kf11}We're{\kf11} Ap{\kf38}ples{\kf22} fo{\kf11}re{\kf33}ver,{\kf17} Ap{\kf22}ples{\kf33} to{\kf17}ge{\kf22}ther
-Dialogue: 0,0:00:58.91,0:01:02.07,DEFAULT,,0,0,0,,{\kf17}We're{\kf22} fam'{\kf17}ly{\kf27} but{\kf33} so{\kf27} much{\kf81} mo{\kf43}-ore
-Dialogue: 0,0:01:02.34,0:01:05.55,DEFAULT,,0,0,0,,{\kf17}No{\kf17} mat{\kf22}ter{\kf17} what{\kf43} comes,{\kf17} we{\kf22} will{\kf38} face{\kf27} the{\kf17} we{\kf22}ather
-Dialogue: 0,0:01:05.76,0:01:08.87,DEFAULT,,0,0,0,,{\kf17}We're{\kf22} Ap{\kf33}ples{\kf43} to{\kf11} the{\kf11}-e{\kf118} core
-Dialogue: 0,0:01:23.07,0:01:25.96,DEFAULT,,0,0,0,,{\kf33}You're{\kf27} more{\kf43} fun{\kf17} than{\kf17} the{\kf33} co{\kf17}lo{\kf17}-or{\kf27} pink
-Dialogue: 0,0:01:26.12,0:01:29.49,DEFAULT,,0,0,0,,{\kf17}Or{\kf11} bal{\kf38}loons{\kf22} fly{\kf17}ing{\kf11} o{\kf11}ver{\kf33} your{\kf38} fa{\kf22}v'ri{\kf17}-ite{\kf38} drink
-Dialogue: 0,0:01:29.82,0:01:32.76,DEFAULT,,0,0,0,,{\kf11}The{\kf38} love{\kf27} I{\kf33} feel{\kf22} here{\kf17} is{\kf11} swi{\kf22}m{\kf22} not{\kf27} sink
-Dialogue: 0,0:01:32.98,0:01:35.71,DEFAULT,,0,0,0,,{\kf11}As{\kf17} we{\kf22} par{\kf22}ty{\kf33} ac{\kf27}ross{\kf33} this{\kf70} land
-Dialogue: 0,0:01:36.62,0:01:39.94,DEFAULT,,0,0,0,,{\kf22}We're{\kf17} Ap{\kf27}ples{\kf22} fo{\kf17}re{\kf27}ver,{\kf17} Ap{\kf22}ples{\kf33} to{\kf27}ge{\kf22}ther
-Dialogue: 0,0:01:39.99,0:01:43.26,DEFAULT,,0,0,0,,{\kf11}We're{\kf17} fam'{\kf17}ly{\kf22} but{\kf43} so{\kf27} much{\kf75} mo{\kf49}-ore
-Dialogue: 0,0:01:43.47,0:01:46.74,DEFAULT,,0,0,0,,{\kf17}No{\kf22} mat{\kf11}ter{\kf22} what{\kf33} comes,{\kf17} we{\kf17} will{\kf33} face{\kf33} the{\kf22} wea{\kf27}ther
-Dialogue: 0,0:01:46.85,0:01:49.85,DEFAULT,,0,0,0,,{\kf17}We're{\kf22} Ap{\kf33}ples{\kf38} to{\kf17} the{\kf17}~{\kf108} core
-Dialogue: 0,0:01:50.33,0:01:53.33,DEFAULT,,0,0,0,,{\kf17}We're{\kf22} Ap{\kf27}ples{\kf38} to{\kf17} the{\kf17}~{\kf108} core
-Dialogue: 0,0:01:53.71,0:01:56.76,DEFAULT,,0,0,0,,{\kf17}We're{\kf17} Ap{\kf33}ples{\kf38} to{\kf17} the{\kf17}~{\kf113} core
+Dialogue: 0,0:00:14.29,0:00:17.67,DEFAULT,,0,0,0,,{\r}{\kf19}We've{\kf25} tra{\kf25}veled{\kf19} the{\kf13}-e{\kf57} road{\kf25} of{\kf45} ge{\kf45}ne{\kf19}ra{\kf45}tions
+Dialogue: 0,0:00:17.99,0:00:21.04,DEFAULT,,0,0,0,,{\r}{\kf37}Joined{\kf37} by{\kf44} com{\kf44}mon{\kf81} bo{\kf62}-ond
+Dialogue: 0,0:00:21.20,0:00:24.36,DEFAULT,,0,0,0,,{\r}{\kf13}We{\kf54} sing{\kf13} o{\kf13}-ur{\kf54} song{\kf20} 'cross{\kf13} the{\kf47} po{\kf40}ny{\kf20} na{\kf29}tion
+Dialogue: 0,0:00:24.47,0:00:27.26,DEFAULT,,0,0,0,,{\r}{\kf20}From{\kf14} E{\kf20}ques{\kf27}tri{\kf27}a{\kf54} and{\kf14} be{\kf20}-e{\kf83}yond
+Dialogue: 0,0:00:28.06,0:00:31.33,DEFAULT,,0,0,0,,{\r}{\kf23}We're{\kf23} Ap{\kf53}ples{\kf23} fo{\kf23}re{\kf30}ver,{\kf23} Ap{\kf23}ples{\kf46} to{\kf30}ge{\kf30}ther
+Dialogue: 0,0:00:31.49,0:00:34.70,DEFAULT,,0,0,0,,{\r}{\kf13}We're{\kf26} fam'{\kf19}ly{\kf26} but{\kf45} so{\kf45} much{\kf83} mo{\kf64}-ore
+Dialogue: 0,0:00:34.92,0:00:38.18,DEFAULT,,0,0,0,,{\r}{\kf20}No{\kf27} mat{\kf14}ter{\kf34} what{\kf48} comes,{\kf14} we{\kf27} will{\kf54} face{\kf27} the{\kf34} wea{\kf28}ther
+Dialogue: 0,0:00:38.34,0:00:41.34,DEFAULT,,0,0,0,,{\r}{\kf12}We're{\kf25} Ap{\kf44}ples{\kf50} to{\kf19} the{\kf19}-e{\kf131} core
+Dialogue: 0,0:00:41.99,0:00:44.99,DEFAULT,,0,0,0,,{\r}{\kf38}There's{\kf26} no{\kf13}-o{\kf45} place{\kf26} that{\kf19} I'd{\kf45} ra{\kf19}the{\kf19}-er{\kf50} be
+Dialogue: 0,0:00:45.20,0:00:48.36,DEFAULT,,0,0,0,,{\r}{\kf19}Than{\kf26} tra{\kf19}vel{\kf45}ling{\kf32} with{\kf32} my{\kf77} fa{\kf26}mi{\kf40}ly
+Dialogue: 0,0:00:48.74,0:00:51.68,DEFAULT,,0,0,0,,{\r}{\kf58}Friends{\kf26} all{\kf13} a{\kf38}round{\kf32} come{\kf13} to{\kf45} join{\kf32} and{\kf38} see
+Dialogue: 0,0:00:51.79,0:00:54.57,DEFAULT,,0,0,0,,{\r}{\kf26}As{\kf13} we{\kf32} sing{\kf13} a{\kf39}long{\kf45} 'cross{\kf26} the{\kf13}-e{\kf72} land
+Dialogue: 0,0:00:55.54,0:00:58.81,DEFAULT,,0,0,0,,{\r}{\kf15}We're{\kf15} Ap{\kf53}ples{\kf30} fo{\kf15}re{\kf46}ver,{\kf23} Ap{\kf30}ples{\kf46} to{\kf23}ge{\kf31}ther
+Dialogue: 0,0:00:58.91,0:01:02.07,DEFAULT,,0,0,0,,{\r}{\kf19}We're{\kf26} fam'{\kf19}ly{\kf32} but{\kf39} so{\kf32} much{\kf97} mo{\kf52}-ore
+Dialogue: 0,0:01:02.34,0:01:05.56,DEFAULT,,0,0,0,,{\r}{\kf20}No{\kf20} mat{\kf27}ter{\kf20} what{\kf55} comes,{\kf20} we{\kf27} will{\kf48} face{\kf34} the{\kf20} we{\kf30}ather
+Dialogue: 0,0:01:05.77,0:01:08.88,DEFAULT,,0,0,0,,{\r}{\kf20}We're{\kf26} Ap{\kf40}ples{\kf53} to{\kf13} the{\kf13}-e{\kf146} core
+Dialogue: 0,0:01:23.07,0:01:25.96,DEFAULT,,0,0,0,,{\r}{\kf41}You're{\kf34} more{\kf55} fun{\kf21} than{\kf21} the{\kf41} co{\kf21}lo{\kf21}-or{\kf34} pink
+Dialogue: 0,0:01:26.12,0:01:29.50,DEFAULT,,0,0,0,,{\r}{\kf20}Or{\kf13} bal{\kf47}loons{\kf27} fly{\kf20}ing{\kf13} o{\kf13}ver{\kf40} your{\kf47} fa{\kf27}v'ri{\kf20}-ite{\kf50} drink
+Dialogue: 0,0:01:29.82,0:01:32.77,DEFAULT,,0,0,0,,{\r}{\kf14}The{\kf49} love{\kf35} I{\kf42} feel{\kf28} here{\kf21} is{\kf14} swi{\kf28}m{\kf28} not{\kf36} sink
+Dialogue: 0,0:01:32.98,0:01:35.71,DEFAULT,,0,0,0,,{\r}{\kf13}As{\kf19} we{\kf25} par{\kf25}ty{\kf38} ac{\kf32}ross{\kf38} this{\kf83} land
+Dialogue: 0,0:01:36.62,0:01:39.94,DEFAULT,,0,0,0,,{\r}{\kf29}We're{\kf22} Ap{\kf36}ples{\kf29} fo{\kf22}re{\kf36}ver,{\kf22} Ap{\kf29}ples{\kf43} to{\kf36}ge{\kf28}ther
+Dialogue: 0,0:01:40.00,0:01:43.27,DEFAULT,,0,0,0,,{\r}{\kf14}We're{\kf20} fam'{\kf20}ly{\kf27} but{\kf54} so{\kf34} much{\kf95} mo{\kf63}-ore
+Dialogue: 0,0:01:43.48,0:01:46.75,DEFAULT,,0,0,0,,{\r}{\kf21}No{\kf28} mat{\kf14}ter{\kf28} what{\kf43} comes,{\kf21} we{\kf21} will{\kf43} face{\kf43} the{\kf28} wea{\kf37}ther
+Dialogue: 0,0:01:46.85,0:01:49.85,DEFAULT,,0,0,0,,{\r}{\kf20}We're{\kf26} Ap{\kf39}ples{\kf46} to{\kf20} the{\kf20}~{\kf129} core
+Dialogue: 0,0:01:50.34,0:01:53.34,DEFAULT,,0,0,0,,{\r}{\kf20}We're{\kf27} Ap{\kf33}ples{\kf47} to{\kf20} the{\kf20}~{\kf133} core
+Dialogue: 0,0:01:53.71,0:01:56.76,DEFAULT,,0,0,0,,{\r}{\kf20}We're{\kf20} Ap{\kf40}ples{\kf46} to{\kf20} the{\kf20}~{\kf139} core

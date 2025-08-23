@@ -1,60 +1,67 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: The Friendship Games
+Artist: Equestria Girls - Friendship Games
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.79,0:00:10.00,DEFAULT,,0,0,0,,{\kf238}Ah{\kf178}-ah!
-Dialogue: 0,0:00:10.79,0:00:11.97,DEFAULT,,0,0,0,,{\kf119}Shh!
-Dialogue: 0,0:00:21.26,0:00:25.74,DEFAULT,,0,0,0,,{\kf251}Ah{\kf191}-ah!
-Dialogue: 0,0:00:26.46,0:00:28.77,DEFAULT,,0,0,0,,{\kf20}Na{\kf20}-na{\kf20} na{\kf20}-na{\kf20}-na{\kf40} oh!
-Dialogue: 0,0:00:31.66,0:00:32.06,DEFAULT,,0,0,0,,{\kf40}Ha!
-Dialogue: 0,0:00:37.06,0:00:41.41,DEFAULT,,0,0,0,,{\kf244}Ah{\kf178}-ah!
-Dialogue: 0,0:00:42.07,0:00:45.82,DEFAULT,,0,0,0,,{\kf20}The{\kf27} Friend{\kf27}ship{\kf244} Games
-Dialogue: 0,0:00:56.82,0:00:59.65,DEFAULT,,0,0,0,,{\kf20}We've{\kf20} come{\kf20} this{\kf40} far{\kf20} and{\kf20} we're{\kf20} not{\kf20} go{\kf20}ing{\kf20} back
-Dialogue: 0,0:00:59.91,0:01:00.57,DEFAULT,,0,0,0,,{\kf27}No{\kf33} way!
-Dialogue: 0,0:01:01.03,0:01:03.93,DEFAULT,,0,0,0,,{\kf20}Pre{\kf20}pare{\kf20} your{\kf33}self,{\kf27} 'cause{\kf20} we're{\kf20} on{\kf20} the{\kf20} at{\kf27}tack
-Dialogue: 0,0:01:04.19,0:01:04.92,DEFAULT,,0,0,0,,{\kf20}At{\kf47}tack!
-Dialogue: 0,0:01:05.18,0:01:08.21,DEFAULT,,0,0,0,,{\kf20}Won't{\kf20} have{\kf20} to{\kf20} find{\kf20} us,{\kf27} we'll{\kf14} be{\kf27} trac{\kf20}king{\kf20} you{\kf20} do{\kf14}-own
-Dialogue: 0,0:01:08.41,0:01:08.94,DEFAULT,,0,0,0,,{\kf20}Right{\kf27} now!
-Dialogue: 0,0:01:09.46,0:01:12.36,DEFAULT,,0,0,0,,{\kf20}And{\kf20} when{\kf14} we're{\kf14} fi{\kf20}nished{\kf27} we'll{\kf20} be{\kf20} tak{\kf20}ing{\kf14} the{\kf33} crown
-Dialogue: 0,0:01:12.62,0:01:14.27,DEFAULT,,0,0,0,,{\kf20}All{\kf20} the{\kf112} way
-Dialogue: 0,0:01:14.73,0:01:15.72,DEFAULT,,0,0,0,,{\kf20}All{\kf20} the{\kf47} way
-Dialogue: 0,0:01:16.05,0:01:17.50,DEFAULT,,0,0,0,,{\kf20}To{\kf14} the{\kf27} Friend{\kf33}ship{\kf14} Games
-Dialogue: 0,0:01:17.63,0:01:19.47,DEFAULT,,0,0,0,,{\kf27}Na{\kf27}-na{\kf20} na{\kf20}-na{\kf20}-na{\kf33} oh!
-Dialogue: 0,0:01:19.73,0:01:20.85,DEFAULT,,0,0,0,,{\kf20}Na{\kf27}-na,{\kf20} let's{\kf14} go!
-Dialogue: 0,0:01:21.12,0:01:22.70,DEFAULT,,0,0,0,,{\kf20}All{\kf14} the{\kf112} way
-Dialogue: 0,0:01:23.09,0:01:24.15,DEFAULT,,0,0,0,,{\kf27}All{\kf14} the{\kf53} way
-Dialogue: 0,0:01:24.41,0:01:25.86,DEFAULT,,0,0,0,,{\kf20}To{\kf20} the{\kf20} Friend{\kf40}ship{\kf14} Games
-Dialogue: 0,0:01:25.99,0:01:27.83,DEFAULT,,0,0,0,,{\kf20}Na{\kf27}-na{\kf20} na{\kf20}-na{\kf20}-na{\kf27} oh!
-Dialogue: 0,0:01:28.10,0:01:29.41,DEFAULT,,0,0,0,,{\kf27}Na{\kf27}-na,{\kf20} let's{\kf27} go!
-Dialogue: 0,0:01:31.79,0:01:32.05,DEFAULT,,0,0,0,,{\kf27}Hey!
-Dialogue: 0,0:01:33.89,0:01:34.16,DEFAULT,,0,0,0,,{\kf27}Ho!
-Dialogue: 0,0:01:36.00,0:01:36.26,DEFAULT,,0,0,0,,{\kf27}Hey!
-Dialogue: 0,0:01:37.84,0:01:38.37,DEFAULT,,0,0,0,,{\kf20}Let's{\kf27} go!
-Dialogue: 0,0:01:38.90,0:01:41.53,DEFAULT,,0,0,0,,{\kf20}We{\kf20} stu{\kf20}died{\kf20} hard{\kf20} and{\kf20} we're{\kf20} here{\kf20} to{\kf53} win
-Dialogue: 0,0:01:43.11,0:01:45.15,DEFAULT,,0,0,0,,{\kf20}We're{\kf20} on{\kf20}ly{\kf20} tel{\kf20}ling{\kf20} you{\kf47} once
-Dialogue: 0,0:01:47.33,0:01:50.22,DEFAULT,,0,0,0,,{\kf20}Our{\kf20} ma{\kf20}gic{\kf20} comes{\kf20} from{\kf20} the{\kf40} in{\kf47}side{\kf27} out
-Dialogue: 0,0:01:50.49,0:01:52.33,DEFAULT,,0,0,0,,{\kf20}What{\kf20} you{\kf47} see's{\kf20} what{\kf20} you{\kf27} get
-Dialogue: 0,0:01:52.59,0:01:54.44,DEFAULT,,0,0,0,,{\kf20}Don't{\kf20} you{\kf47} e{\kf20}ver{\kf20} for{\kf27}get
-Dialogue: 0,0:01:54.70,0:01:56.48,DEFAULT,,0,0,0,,{\kf20}All{\kf20} the{\kf126} way
-Dialogue: 0,0:01:56.87,0:01:57.80,DEFAULT,,0,0,0,,{\kf20}All{\kf14} the{\kf47} way
-Dialogue: 0,0:01:58.13,0:01:59.57,DEFAULT,,0,0,0,,{\kf20}To{\kf20} the{\kf20} Friend{\kf33}ship{\kf20} Games
-Dialogue: 0,0:01:59.71,0:02:01.55,DEFAULT,,0,0,0,,{\kf27}Na{\kf27}-na{\kf20} na{\kf20}-na{\kf20}-na{\kf27} oh!
-Dialogue: 0,0:02:01.81,0:02:03.00,DEFAULT,,0,0,0,,{\kf27}Na{\kf27}-na,{\kf20} let's{\kf14} go!
-Dialogue: 0,0:02:03.20,0:02:04.84,DEFAULT,,0,0,0,,{\kf20}All{\kf20} the{\kf112} way
-Dialogue: 0,0:02:05.24,0:02:06.22,DEFAULT,,0,0,0,,{\kf20}All{\kf20} the{\kf47} way
-Dialogue: 0,0:02:06.49,0:02:07.94,DEFAULT,,0,0,0,,{\kf20}To{\kf14} the{\kf20} Friend{\kf40}ship{\kf20} Games
-Dialogue: 0,0:02:08.13,0:02:09.91,DEFAULT,,0,0,0,,{\kf27}Na{\kf27}-na{\kf20} na{\kf20}-na{\kf20}-na{\kf20} oh!
-Dialogue: 0,0:02:10.24,0:02:11.56,DEFAULT,,0,0,0,,{\kf27}Na{\kf27}-na,{\kf20} let's{\kf27} go!
-Dialogue: 0,0:02:12.35,0:02:14.13,DEFAULT,,0,0,0,,{\kf27}Na{\kf27}-na{\kf20} na{\kf20}-na{\kf20}-na{\kf20} oh!
-Dialogue: 0,0:02:14.46,0:02:15.64,DEFAULT,,0,0,0,,{\kf20}Na{\kf20}-na,{\kf20} let's{\kf20} go!
-Dialogue: 0,0:02:16.56,0:02:18.41,DEFAULT,,0,0,0,,{\kf20}Na{\kf20}-na{\kf20} na{\kf20}-na{\kf20}-na{\kf27} oh!
-Dialogue: 0,0:02:18.67,0:02:19.92,DEFAULT,,0,0,0,,{\kf20}Na{\kf20}-na,{\kf20} let's{\kf27} go!
-Dialogue: 0,0:02:20.78,0:02:22.56,DEFAULT,,0,0,0,,{\kf27}Na{\kf20}-na{\kf20} na{\kf20}-na{\kf20}-na{\kf20} oh!
-Dialogue: 0,0:02:22.82,0:02:24.14,DEFAULT,,0,0,0,,{\kf27}Na{\kf27}-na,{\kf20} let's{\kf27} go!
+Dialogue: 0,0:00:05.79,0:00:10.00,DEFAULT,,0,0,0,,{\r}{\kf241}Ah{\kf180}-ah!
+Dialogue: 0,0:00:10.79,0:00:11.98,DEFAULT,,0,0,0,,{\r}{\kf119}Shh!
+Dialogue: 0,0:00:21.26,0:00:25.74,DEFAULT,,0,0,0,,{\r}{\kf254}Ah{\kf194}-ah!
+Dialogue: 0,0:00:26.47,0:00:28.77,DEFAULT,,0,0,0,,{\r}{\kf33}Na{\kf33}-na{\kf33} na{\kf33}-na{\kf33}-na{\kf65} oh!
+Dialogue: 0,0:00:31.67,0:00:32.06,DEFAULT,,0,0,0,,{\r}{\kf40}Ha!
+Dialogue: 0,0:00:37.07,0:00:41.41,DEFAULT,,0,0,0,,{\r}{\kf251}Ah{\kf184}-ah!
+Dialogue: 0,0:00:42.07,0:00:45.83,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf31} Friend{\kf31}ship{\kf290} Games
+Dialogue: 0,0:00:56.82,0:00:59.66,DEFAULT,,0,0,0,,{\r}{\kf26}We've{\kf26} come{\kf26} this{\kf51} far{\kf26} and{\kf26} we're{\kf26} not{\kf26} go{\kf26}ing{\kf24} back
+Dialogue: 0,0:00:59.92,0:01:00.58,DEFAULT,,0,0,0,,{\r}{\kf29}No{\kf37} way!
+Dialogue: 0,0:01:01.04,0:01:03.94,DEFAULT,,0,0,0,,{\r}{\kf26}Pre{\kf26}pare{\kf26} your{\kf43}self,{\kf34} 'cause{\kf26} we're{\kf26} on{\kf26} the{\kf26} at{\kf31}tack
+Dialogue: 0,0:01:04.20,0:01:04.92,DEFAULT,,0,0,0,,{\r}{\kf22}At{\kf50}tack!
+Dialogue: 0,0:01:05.19,0:01:08.22,DEFAULT,,0,0,0,,{\r}{\kf25}Won't{\kf25} have{\kf25} to{\kf25} find{\kf25} us,{\kf34} we'll{\kf17} be{\kf34} trac{\kf25}king{\kf25} you{\kf25} do{\kf18}-own
+Dialogue: 0,0:01:08.41,0:01:08.94,DEFAULT,,0,0,0,,{\r}{\kf23}Right{\kf30} now!
+Dialogue: 0,0:01:09.47,0:01:12.36,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf26} when{\kf18} we're{\kf18} fi{\kf26}nished{\kf35} we'll{\kf26} be{\kf26} tak{\kf26}ing{\kf18} the{\kf45} crown
+Dialogue: 0,0:01:12.63,0:01:14.27,DEFAULT,,0,0,0,,{\r}{\kf22}All{\kf22} the{\kf121} way
+Dialogue: 0,0:01:14.74,0:01:15.72,DEFAULT,,0,0,0,,{\r}{\kf23}All{\kf23} the{\kf53} way
+Dialogue: 0,0:01:16.05,0:01:17.50,DEFAULT,,0,0,0,,{\r}{\kf27}To{\kf18} the{\kf36} Friend{\kf45}ship{\kf19} Games
+Dialogue: 0,0:01:17.63,0:01:19.48,DEFAULT,,0,0,0,,{\r}{\kf33}Na{\kf33}-na{\kf25} na{\kf25}-na{\kf25}-na{\kf43} oh!
+Dialogue: 0,0:01:19.74,0:01:20.86,DEFAULT,,0,0,0,,{\r}{\kf28}Na{\kf37}-na,{\kf28} let's{\kf19} go!
+Dialogue: 0,0:01:21.12,0:01:22.70,DEFAULT,,0,0,0,,{\r}{\kf22}All{\kf14} the{\kf122} way
+Dialogue: 0,0:01:23.10,0:01:24.15,DEFAULT,,0,0,0,,{\r}{\kf30}All{\kf15} the{\kf60} way
+Dialogue: 0,0:01:24.42,0:01:25.86,DEFAULT,,0,0,0,,{\r}{\kf26}To{\kf26} the{\kf26} Friend{\kf51}ship{\kf16} Games
+Dialogue: 0,0:01:26.00,0:01:27.84,DEFAULT,,0,0,0,,{\r}{\kf28}Na{\kf37}-na{\kf28} na{\kf28}-na{\kf28}-na{\kf35} oh!
+Dialogue: 0,0:01:28.10,0:01:29.42,DEFAULT,,0,0,0,,{\r}{\kf35}Na{\kf35}-na,{\kf26} let's{\kf36} go!
+Dialogue: 0,0:01:31.79,0:01:32.05,DEFAULT,,0,0,0,,{\r}{\kf26}Hey!
+Dialogue: 0,0:01:33.90,0:01:34.16,DEFAULT,,0,0,0,,{\r}{\kf26}Ho!
+Dialogue: 0,0:01:36.00,0:01:36.27,DEFAULT,,0,0,0,,{\r}{\kf26}Hey!
+Dialogue: 0,0:01:37.85,0:01:38.38,DEFAULT,,0,0,0,,{\r}{\kf23}Let's{\kf30} go!
+Dialogue: 0,0:01:38.90,0:01:41.54,DEFAULT,,0,0,0,,{\r}{\kf25}We{\kf25} stu{\kf25}died{\kf25} hard{\kf25} and{\kf25} we're{\kf25} here{\kf25} to{\kf63} win
+Dialogue: 0,0:01:43.12,0:01:45.16,DEFAULT,,0,0,0,,{\r}{\kf24}We're{\kf24} on{\kf24}ly{\kf24} tel{\kf24}ling{\kf24} you{\kf60} once
+Dialogue: 0,0:01:47.33,0:01:50.23,DEFAULT,,0,0,0,,{\r}{\kf25}Our{\kf25} ma{\kf25}gic{\kf25} comes{\kf25} from{\kf25} the{\kf50} in{\kf58}side{\kf32} out
+Dialogue: 0,0:01:50.49,0:01:52.34,DEFAULT,,0,0,0,,{\r}{\kf24}What{\kf24} you{\kf56} see's{\kf24} what{\kf24} you{\kf32} get
+Dialogue: 0,0:01:52.60,0:01:54.44,DEFAULT,,0,0,0,,{\r}{\kf24}Don't{\kf24} you{\kf56} e{\kf24}ver{\kf24} for{\kf32}get
+Dialogue: 0,0:01:54.71,0:01:56.48,DEFAULT,,0,0,0,,{\r}{\kf21}All{\kf21} the{\kf136} way
+Dialogue: 0,0:01:56.88,0:01:57.80,DEFAULT,,0,0,0,,{\r}{\kf23}All{\kf15} the{\kf54} way
+Dialogue: 0,0:01:58.13,0:01:59.58,DEFAULT,,0,0,0,,{\r}{\kf26}To{\kf26} the{\kf26} Friend{\kf43}ship{\kf24} Games
+Dialogue: 0,0:01:59.71,0:02:01.55,DEFAULT,,0,0,0,,{\r}{\kf35}Na{\kf35}-na{\kf26} na{\kf26}-na{\kf26}-na{\kf36} oh!
+Dialogue: 0,0:02:01.82,0:02:03.00,DEFAULT,,0,0,0,,{\r}{\kf37}Na{\kf37}-na,{\kf27} let's{\kf18} go!
+Dialogue: 0,0:02:03.20,0:02:04.85,DEFAULT,,0,0,0,,{\r}{\kf22}All{\kf22} the{\kf121} way
+Dialogue: 0,0:02:05.24,0:02:06.23,DEFAULT,,0,0,0,,{\r}{\kf23}All{\kf23} the{\kf53} way
+Dialogue: 0,0:02:06.49,0:02:07.94,DEFAULT,,0,0,0,,{\r}{\kf26}To{\kf17} the{\kf26} Friend{\kf51}ship{\kf25} Games
+Dialogue: 0,0:02:08.14,0:02:09.92,DEFAULT,,0,0,0,,{\r}{\kf36}Na{\kf36}-na{\kf27} na{\kf27}-na{\kf27}-na{\kf25} oh!
+Dialogue: 0,0:02:10.25,0:02:11.56,DEFAULT,,0,0,0,,{\r}{\kf35}Na{\kf35}-na,{\kf26} let's{\kf36} go!
+Dialogue: 0,0:02:12.35,0:02:14.13,DEFAULT,,0,0,0,,{\r}{\kf36}Na{\kf36}-na{\kf27} na{\kf27}-na{\kf27}-na{\kf25} oh!
+Dialogue: 0,0:02:14.46,0:02:15.65,DEFAULT,,0,0,0,,{\r}{\kf30}Na{\kf30}-na,{\kf30} let's{\kf29} go!
+Dialogue: 0,0:02:16.57,0:02:18.41,DEFAULT,,0,0,0,,{\r}{\kf29}Na{\kf29}-na{\kf29} na{\kf29}-na{\kf29}-na{\kf39} oh!
+Dialogue: 0,0:02:18.68,0:02:19.93,DEFAULT,,0,0,0,,{\r}{\kf29}Na{\kf29}-na,{\kf29} let's{\kf38} go!
+Dialogue: 0,0:02:20.78,0:02:22.56,DEFAULT,,0,0,0,,{\r}{\kf37}Na{\kf28}-na{\kf28} na{\kf28}-na{\kf28}-na{\kf29} oh!
+Dialogue: 0,0:02:22.82,0:02:24.14,DEFAULT,,0,0,0,,{\r}{\kf35}Na{\kf35}-na,{\kf26} let's{\kf36} go!

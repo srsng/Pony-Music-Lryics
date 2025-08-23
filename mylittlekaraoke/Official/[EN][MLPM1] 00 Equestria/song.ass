@@ -1,23 +1,30 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Equestria
+Artist: Daniel Ingram
+Original Timing: mylittlekaraoke.com by Pluie
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.05,0:00:12.04,DEFAULT,,0,0,0,,{\kf16}E{\kf13}ques{\kf13}tri{\kf232}a
-Dialogue: 0,0:00:13.09,0:00:16.74,DEFAULT,,0,0,0,,{\kf20}E{\kf16}ques{\kf16}tri{\kf29}a{\kf20}~{\kf20}~{\kf213}~
-Dialogue: 0,0:00:17.54,0:00:20.81,DEFAULT,,0,0,0,,{\kf35}Here{\kf20} in{\kf16} our{\kf39} land,{\kf32} our{\kf23} ho{\kf102}-ome
-Dialogue: 0,0:00:21.48,0:00:28.98,DEFAULT,,0,0,0,,{\kf20}E{\kf20}very{\kf29}po{\kf23}ny{\kf35} knows{\kf20} how{\kf16} to{\kf20} cel{\kf16}e{\kf26}brate{\kf23} the{\kf20} ma{\kf16}gic{\kf20} of{\kf16} E{\kf16}ques{\kf13}tri{\kf29}a{\kf20}~{\kf16}~{\kf217}~
-Dialogue: 0,0:00:29.39,0:00:32.95,DEFAULT,,0,0,0,,{\kf16}E{\kf20}ques{\kf13}tri{\kf29}a{\kf20}~{\kf23}~{\kf204}~
-Dialogue: 0,0:00:33.49,0:00:35.15,DEFAULT,,0,0,0,,{\kf16}The{\kf13} Fes{\kf10}ti{\kf26}val{\kf16} is{\kf20} com{\kf16}ing
-Dialogue: 0,0:00:35.53,0:00:37.24,DEFAULT,,0,0,0,,{\kf13}The{\kf20} Fes{\kf10}ti{\kf29}val{\kf13} of{\kf23} Friend{\kf23}ship
-Dialogue: 0,0:00:37.53,0:00:39.24,DEFAULT,,0,0,0,,{\kf20}From{\kf16} all{\kf13} a{\kf29}round{\kf20} come{\kf20} run{\kf20}ning
-Dialogue: 0,0:00:39.53,0:00:43.09,DEFAULT,,0,0,0,,{\kf13}To{\kf26} ce{\kf13}le{\kf23}brate{\kf20} to{\kf23}ge{\kf29}ther{\kf20} the{\kf23} first{\kf35} e{\kf20}ver{\kf26} light
-Dialogue: 0,0:00:43.63,0:00:45.31,DEFAULT,,0,0,0,,{\kf16}The{\kf16} Fes{\kf13}ti{\kf32}val{\kf16} of{\kf20} Friend{\kf16}ship
-Dialogue: 0,0:00:45.63,0:00:47.44,DEFAULT,,0,0,0,,{\kf20}So{\kf26} make{\kf23} some{\kf20} good{\kf16} wea{\kf29}ther
-Dialogue: 0,0:00:47.67,0:00:50.08,DEFAULT,,0,0,0,,{\kf20}The{\kf20} Fes{\kf10}ti{\kf26}val{\kf16} is{\kf26} al{\kf29}most{\kf32} here!
+Dialogue: 0,0:00:09.06,0:00:12.05,DEFAULT,,0,0,0,,{\r}{\kf17}E{\kf14}ques{\kf14}tri{\kf254}a
+Dialogue: 0,0:00:13.10,0:00:16.75,DEFAULT,,0,0,0,,{\r}{\kf21}E{\kf18}ques{\kf18}tri{\kf32}a{\kf21}~{\kf21}~{\kf234}~
+Dialogue: 0,0:00:17.54,0:00:20.82,DEFAULT,,0,0,0,,{\r}{\kf43}Here{\kf24} in{\kf20} our{\kf47} land,{\kf39} our{\kf28} ho{\kf126}-ome
+Dialogue: 0,0:00:21.48,0:00:28.98,DEFAULT,,0,0,0,,{\r}{\kf23}E{\kf23}very{\kf35}po{\kf27}ny{\kf42} knows{\kf23} how{\kf19} to{\kf23} cel{\kf19}e{\kf31}brate{\kf27} the{\kf23} ma{\kf19}gic{\kf23} of{\kf19} E{\kf19}ques{\kf15}tri{\kf35}a{\kf23}~{\kf19}~{\kf263}~
+Dialogue: 0,0:00:29.40,0:00:32.96,DEFAULT,,0,0,0,,{\r}{\kf18}E{\kf21}ques{\kf14}tri{\kf32}a{\kf21}~{\kf25}~{\kf225}~
+Dialogue: 0,0:00:33.50,0:00:35.15,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf18} Fes{\kf14}ti{\kf37}val{\kf23} is{\kf28} com{\kf22}ing
+Dialogue: 0,0:00:35.53,0:00:37.25,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf26} Fes{\kf13}ti{\kf39}val{\kf17} of{\kf30} Friend{\kf30}ship
+Dialogue: 0,0:00:37.53,0:00:39.25,DEFAULT,,0,0,0,,{\r}{\kf25}From{\kf20} all{\kf16} a{\kf37}round{\kf25} come{\kf25} run{\kf24}ning
+Dialogue: 0,0:00:39.54,0:00:43.10,DEFAULT,,0,0,0,,{\r}{\kf17}To{\kf34} ce{\kf17}le{\kf30}brate{\kf26} to{\kf30}ge{\kf39}ther{\kf26} the{\kf30} first{\kf47} e{\kf26}ver{\kf34} light
+Dialogue: 0,0:00:43.64,0:00:45.32,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf21} Fes{\kf17}ti{\kf42}val{\kf21} of{\kf25} Friend{\kf21}ship
+Dialogue: 0,0:00:45.64,0:00:47.45,DEFAULT,,0,0,0,,{\r}{\kf26}So{\kf35} make{\kf31} some{\kf26} good{\kf22} wea{\kf41}ther
+Dialogue: 0,0:00:47.67,0:00:50.09,DEFAULT,,0,0,0,,{\r}{\kf26}The{\kf26} Fes{\kf13}ti{\kf35}val{\kf22} is{\kf35} al{\kf40}most{\kf45} here!

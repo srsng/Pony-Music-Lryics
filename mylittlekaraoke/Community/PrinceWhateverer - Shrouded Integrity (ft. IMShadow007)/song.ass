@@ -1,61 +1,68 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Shrouded Integrity (feat. IMShadow007)
+Artist: PrinceWhateverer
+Original Timing: mylittlekaraoke.com by paradigm
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:33.70,0:00:36.36,DEFAULT,,0,0,0,,{\kf21}It's{\kf17} been{\kf17} a{\kf59} while{\kf17} to{\kf17}~{\kf50}day
-Dialogue: 0,0:00:36.61,0:00:38.86,DEFAULT,,0,0,0,,{\kf17}Since{\kf17} I{\kf25} last{\kf38} saw{\kf30} your{\kf34} face
-Dialogue: 0,0:00:39.70,0:00:42.28,DEFAULT,,0,0,0,,{\kf17}Though{\kf17} tick{\kf21}ing{\kf25} time{\kf21} creeps{\kf17} on{\kf21} so{\kf42} fast
-Dialogue: 0,0:00:43.03,0:00:45.11,DEFAULT,,0,0,0,,{\kf21}Dark{\kf21} is{\kf17} the{\kf21} sha{\kf21}dow{\kf55} cast
-Dialogue: 0,0:00:46.20,0:00:48.24,DEFAULT,,0,0,0,,{\kf13}A{\kf17} light{\kf21} spills{\kf13} through{\kf17} a{\kf21}ny{\kf38}way
-Dialogue: 0,0:00:48.99,0:00:50.99,DEFAULT,,0,0,0,,{\kf13}Cut{\kf13}ting{\kf17} through{\kf13} my{\kf17} dark{\kf25} dis{\kf46}may
-Dialogue: 0,0:00:51.15,0:00:52.95,DEFAULT,,0,0,0,,{\kf17}I{\kf17} don't{\kf21} need{\kf17} your{\kf17} per{\kf17}mis{\kf9}sion
-Dialogue: 0,0:00:53.11,0:00:55.82,DEFAULT,,0,0,0,,{\kf17}Won't{\kf17} be{\kf17} held{\kf17} to{\kf21} your{\kf21} dis{\kf13}po{\kf21}si{\kf30}tion
-Dialogue: 0,0:00:56.11,0:01:00.90,DEFAULT,,0,0,0,,{\kf34}Are{\kf25} you{\kf21}~{\kf25} proud{\kf21}~{\kf21} of{\kf21} choi{\kf42}ces{\kf30} you've{\kf21}~{\kf84} made
-Dialogue: 0,0:01:01.36,0:01:06.57,DEFAULT,,0,0,0,,{\kf46}Do{\kf25} you{\kf21}~{\kf30} smile{\kf25}~{\kf25} on{\kf21} the{\kf46} path{\kf50} you{\kf121} take
-Dialogue: 0,0:01:07.70,0:01:11.49,DEFAULT,,0,0,0,,{\kf17}Though{\kf17} the{\kf25} road{\kf21} has{\kf21} been{\kf21} long{\kf38}~,{\kf21} my{\kf21} time{\kf17} has{\kf25} come
-Dialogue: 0,0:01:12.07,0:01:14.90,DEFAULT,,0,0,0,,{\kf42}Make{\kf30} a{\kf100} choice{\kf55}~
-Dialogue: 0,0:01:15.32,0:01:17.07,DEFAULT,,0,0,0,,{\kf17}Do{\kf21} you{\kf25} know{\kf25} what's{\kf50} right
-Dialogue: 0,0:01:17.36,0:01:20.11,DEFAULT,,0,0,0,,{\kf21}Is{\kf17} their{\kf21} pain{\kf17} worth{\kf9} a{\kf21} coat{\kf13} of{\kf21} glow{\kf17}ing{\kf25} fur
-Dialogue: 0,0:01:20.40,0:01:22.57,DEFAULT,,0,0,0,,{\kf21}It's{\kf17} time{\kf13} that{\kf21} you{\kf21} de{\kf67}cide
-Dialogue: 0,0:01:22.74,0:01:25.40,DEFAULT,,0,0,0,,{\kf46}Make{\kf30} a{\kf100} cho{\kf38}ice
-Dialogue: 0,0:01:25.61,0:01:27.65,DEFAULT,,0,0,0,,{\kf9}Or{\kf13} else{\kf13} they'll{\kf21} choose{\kf13} a{\kf21} path{\kf25} for{\kf50} you
-Dialogue: 0,0:01:27.86,0:01:30.07,DEFAULT,,0,0,0,,{\kf30}Will{\kf25} you{\kf21} just{\kf21} stand{\kf21} id{\kf17}ly{\kf17} by
-Dialogue: 0,0:01:30.24,0:01:34.90,DEFAULT,,0,0,0,,{\kf17}Or{\kf34} can{\kf21} you{\kf25} stand{\kf21} to{\kf21} do{\kf17} what{\kf21} you{\kf21} have{\kf17} to{\kf142}~
-Dialogue: 0,0:01:37.36,0:01:38.90,DEFAULT,,0,0,0,,{\kf17}Fil{\kf17}lies{\kf21} mares{\kf21} and{\kf38} colts
-Dialogue: 0,0:01:39.74,0:01:41.45,DEFAULT,,0,0,0,,{\kf17}It{\kf21} seems{\kf13} our{\kf17} path{\kf17} is{\kf25} set
-Dialogue: 0,0:01:41.70,0:01:43.40,DEFAULT,,0,0,0,,{\kf21}Though{\kf17} I{\kf21} can't{\kf17} fix{\kf13} what{\kf21} was
-Dialogue: 0,0:01:43.61,0:01:47.53,DEFAULT,,0,0,0,,{\kf21}I'll{\kf17} keep{\kf13}~{\kf21} on{\kf25} look{\kf21}ing{\kf38} for{\kf21}~{\kf17}ward{\kf17} be{\kf17}cause{\kf75}~
-Dialogue: 0,0:01:48.03,0:01:49.74,DEFAULT,,0,0,0,,{\kf25}While{\kf17} you{\kf17} look{\kf17} at{\kf46} me
-Dialogue: 0,0:01:50.49,0:01:52.11,DEFAULT,,0,0,0,,{\kf17}With{\kf17} eyes{\kf13} tel{\kf17}ling{\kf21} sto{\kf25}ries
-Dialogue: 0,0:01:52.32,0:01:54.32,DEFAULT,,0,0,0,,{\kf13}Mares{\kf13}~{\kf17} like{\kf21} me{\kf25} can't{\kf17} be{\kf17} trus{\kf13}ted
-Dialogue: 0,0:01:54.49,0:01:57.11,DEFAULT,,0,0,0,,{\kf17}Those{\kf17} tales{\kf21} need{\kf21} to{\kf17} be{\kf30} re{\kf17}ad{\kf21}jus{\kf25}ted
-Dialogue: 0,0:01:57.32,0:02:02.28,DEFAULT,,0,0,0,,{\kf42}Are{\kf21} you{\kf25}~{\kf25} proud{\kf21}~{\kf21} of{\kf21} choi{\kf46}ces{\kf25} you've{\kf25}~{\kf88} made
-Dialogue: 0,0:02:02.65,0:02:07.95,DEFAULT,,0,0,0,,{\kf42}Do{\kf25} you{\kf21}~{\kf25} smile{\kf25}~{\kf25} on{\kf21} the{\kf38} path{\kf55} you{\kf121} take
-Dialogue: 0,0:02:11.53,0:02:13.11,DEFAULT,,0,0,0,,{\kf13}The{\kf13} time{\kf13} has{\kf13} come{\kf13} for{\kf17} me{\kf25} to
-Dialogue: 0,0:02:34.70,0:02:37.49,DEFAULT,,0,0,0,,{\kf38}Make{\kf30} a{\kf100} cho{\kf46}ice
-Dialogue: 0,0:02:38.03,0:02:39.78,DEFAULT,,0,0,0,,{\kf17}Do{\kf17} you{\kf21} know{\kf25} what's{\kf59} right
-Dialogue: 0,0:02:40.07,0:02:42.78,DEFAULT,,0,0,0,,{\kf21}Is{\kf21} their{\kf17} pain{\kf13} worth{\kf13} a{\kf21} coat{\kf13} of{\kf21} glow{\kf21}ing{\kf25} fur
-Dialogue: 0,0:02:42.99,0:02:44.95,DEFAULT,,0,0,0,,{\kf25}It's{\kf25} time{\kf17} that{\kf17} you{\kf17} de{\kf42}cide
-Dialogue: 0,0:02:45.36,0:02:48.24,DEFAULT,,0,0,0,,{\kf50}Make{\kf25} a{\kf100} choice{\kf55}~
-Dialogue: 0,0:02:48.65,0:02:50.45,DEFAULT,,0,0,0,,{\kf17}Do{\kf17} you{\kf25} know{\kf30} what's{\kf59} right
-Dialogue: 0,0:02:50.74,0:02:53.45,DEFAULT,,0,0,0,,{\kf17}Is{\kf17} their{\kf21} pain{\kf17} worth{\kf9} a{\kf17} coat{\kf17} of{\kf17} glow{\kf21}ing{\kf25} fur
-Dialogue: 0,0:02:53.65,0:02:55.82,DEFAULT,,0,0,0,,{\kf25}It's{\kf21} time{\kf17} that{\kf17} you{\kf25} de{\kf59}cide
-Dialogue: 0,0:02:56.03,0:02:58.65,DEFAULT,,0,0,0,,{\kf46}Make{\kf30} a{\kf105} choice{\kf30}~
-Dialogue: 0,0:02:58.86,0:03:01.03,DEFAULT,,0,0,0,,{\kf9}Or{\kf13} else{\kf13} they'll{\kf25} choose{\kf13} a{\kf21} path{\kf21} for{\kf46} you
-Dialogue: 0,0:03:01.32,0:03:03.40,DEFAULT,,0,0,0,,{\kf25}Will{\kf25} you{\kf21} just{\kf21} stand{\kf21} id{\kf17}ly{\kf17} by
-Dialogue: 0,0:03:03.57,0:03:07.45,DEFAULT,,0,0,0,,{\kf17}Or{\kf34} can{\kf25} you{\kf21} stand{\kf17} to{\kf25} do{\kf17} what{\kf25} you{\kf17} have{\kf21} to{\kf63}~
-Dialogue: 0,0:03:07.65,0:03:09.78,DEFAULT,,0,0,0,,{\kf25}Your{\kf21} words{\kf13} that{\kf17} held{\kf21} me{\kf55} down
-Dialogue: 0,0:03:10.32,0:03:12.61,DEFAULT,,0,0,0,,{\kf21}Don't{\kf25} mat{\kf17}ter{\kf17} in{\kf21} the{\kf21} end{\kf46}~
-Dialogue: 0,0:03:12.99,0:03:14.82,DEFAULT,,0,0,0,,{\kf21}I'll{\kf17} turn{\kf17} this{\kf21} world{\kf21} a{\kf30}round
-Dialogue: 0,0:03:14.99,0:03:18.03,DEFAULT,,0,0,0,,{\kf25}You{\kf25} can{\kf25} con{\kf25}ti{\kf21}nue{\kf17} to{\kf30} pre{\kf80}tend
-Dialogue: 0,0:03:18.32,0:03:20.82,DEFAULT,,0,0,0,,{\kf17}That{\kf17} show{\kf25}ing{\kf25} them{\kf25} your{\kf17} heart{\kf71}~
-Dialogue: 0,0:03:21.07,0:03:23.32,DEFAULT,,0,0,0,,{\kf21}Is{\kf21} some{\kf17}thing{\kf17} you{\kf25} can't{\kf80} do
-Dialogue: 0,0:03:23.70,0:03:25.49,DEFAULT,,0,0,0,,{\kf17}I'll{\kf25} show{\kf17} them{\kf21} that{\kf25} there's{\kf25} love
-Dialogue: 0,0:03:25.65,0:03:29.61,DEFAULT,,0,0,0,,{\kf21}When{\kf21} show{\kf21}ing{\kf25} love's{\kf13} all{\kf17} you{\kf21} re{\kf180}fuse
+Dialogue: 0,0:00:33.70,0:00:36.37,DEFAULT,,0,0,0,,{\r}{\kf28}It's{\kf23} been{\kf23} a{\kf80} while{\kf23} to{\kf23}~{\kf67}day
+Dialogue: 0,0:00:36.62,0:00:38.87,DEFAULT,,0,0,0,,{\r}{\kf24}Since{\kf24} I{\kf36} last{\kf53} saw{\kf41} your{\kf47} face
+Dialogue: 0,0:00:39.70,0:00:42.28,DEFAULT,,0,0,0,,{\r}{\kf24}Though{\kf24} tick{\kf30}ing{\kf36} time{\kf30} creeps{\kf24} on{\kf30} so{\kf60} fast
+Dialogue: 0,0:00:43.03,0:00:45.12,DEFAULT,,0,0,0,,{\r}{\kf28}Dark{\kf28} is{\kf22} the{\kf28} sha{\kf28}dow{\kf74} cast
+Dialogue: 0,0:00:46.20,0:00:48.24,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf25} light{\kf31} spills{\kf19} through{\kf25} a{\kf31}ny{\kf54}way
+Dialogue: 0,0:00:48.99,0:00:50.99,DEFAULT,,0,0,0,,{\r}{\kf18}Cut{\kf18}ting{\kf24} through{\kf18} my{\kf24} dark{\kf35} dis{\kf63}may
+Dialogue: 0,0:00:51.16,0:00:52.95,DEFAULT,,0,0,0,,{\r}{\kf27}I{\kf27} don't{\kf33} need{\kf27} your{\kf27} per{\kf27}mis{\kf11}sion
+Dialogue: 0,0:00:53.12,0:00:55.83,DEFAULT,,0,0,0,,{\r}{\kf26}Won't{\kf26} be{\kf26} held{\kf26} to{\kf33} your{\kf33} dis{\kf20}po{\kf33}si{\kf48}tion
+Dialogue: 0,0:00:56.12,0:01:00.91,DEFAULT,,0,0,0,,{\r}{\kf47}Are{\kf35} you{\kf29}~{\kf35} proud{\kf29}~{\kf29} of{\kf29} choi{\kf58}ces{\kf41} you've{\kf29}~{\kf118} made
+Dialogue: 0,0:01:01.37,0:01:06.58,DEFAULT,,0,0,0,,{\r}{\kf58}Do{\kf32} you{\kf27}~{\kf37} smile{\kf32}~{\kf32} on{\kf27} the{\kf58} path{\kf64} you{\kf154} take
+Dialogue: 0,0:01:07.70,0:01:11.49,DEFAULT,,0,0,0,,{\r}{\kf26}Though{\kf26} the{\kf39} road{\kf33} has{\kf33} been{\kf33} long{\kf59}~,{\kf33} my{\kf33} time{\kf26} has{\kf38} come
+Dialogue: 0,0:01:12.08,0:01:14.91,DEFAULT,,0,0,0,,{\r}{\kf52}Make{\kf37} a{\kf126} choice{\kf68}~
+Dialogue: 0,0:01:15.33,0:01:17.08,DEFAULT,,0,0,0,,{\r}{\kf21}Do{\kf27} you{\kf32} know{\kf32} what's{\kf63} right
+Dialogue: 0,0:01:17.37,0:01:20.12,DEFAULT,,0,0,0,,{\r}{\kf32}Is{\kf26} their{\kf32} pain{\kf26} worth{\kf13} a{\kf32} coat{\kf19} of{\kf32} glow{\kf26}ing{\kf37} fur
+Dialogue: 0,0:01:20.41,0:01:22.58,DEFAULT,,0,0,0,,{\r}{\kf29}It's{\kf23} time{\kf17} that{\kf29} you{\kf29} de{\kf90}cide
+Dialogue: 0,0:01:22.74,0:01:25.41,DEFAULT,,0,0,0,,{\r}{\kf58}Make{\kf37} a{\kf126} cho{\kf46}ice
+Dialogue: 0,0:01:25.62,0:01:27.66,DEFAULT,,0,0,0,,{\r}{\kf10}Or{\kf16} else{\kf16} they'll{\kf26} choose{\kf16} a{\kf26} path{\kf31} for{\kf63} you
+Dialogue: 0,0:01:27.87,0:01:30.08,DEFAULT,,0,0,0,,{\r}{\kf43}Will{\kf37} you{\kf31} just{\kf31} stand{\kf31} id{\kf25}ly{\kf23} by
+Dialogue: 0,0:01:30.24,0:01:34.91,DEFAULT,,0,0,0,,{\r}{\kf22}Or{\kf44} can{\kf27} you{\kf33} stand{\kf27} to{\kf27} do{\kf22} what{\kf27} you{\kf27} have{\kf22} to{\kf189}~
+Dialogue: 0,0:01:37.37,0:01:38.91,DEFAULT,,0,0,0,,{\r}{\kf23}Fil{\kf23}lies{\kf29} mares{\kf29} and{\kf50} colts
+Dialogue: 0,0:01:39.74,0:01:41.45,DEFAULT,,0,0,0,,{\r}{\kf26}It{\kf33} seems{\kf20} our{\kf26} path{\kf26} is{\kf40} set
+Dialogue: 0,0:01:41.70,0:01:43.41,DEFAULT,,0,0,0,,{\r}{\kf33}Though{\kf26} I{\kf33} can't{\kf26} fix{\kf20} what{\kf33} was
+Dialogue: 0,0:01:43.62,0:01:47.53,DEFAULT,,0,0,0,,{\r}{\kf27}I'll{\kf22} keep{\kf16}~{\kf27} on{\kf33} look{\kf27}ing{\kf49} for{\kf27}~{\kf22}ward{\kf22} be{\kf22}cause{\kf98}~
+Dialogue: 0,0:01:48.03,0:01:49.74,DEFAULT,,0,0,0,,{\r}{\kf35}While{\kf24} you{\kf24} look{\kf24} at{\kf64} me
+Dialogue: 0,0:01:50.49,0:01:52.12,DEFAULT,,0,0,0,,{\r}{\kf25}With{\kf25} eyes{\kf19} tel{\kf25}ling{\kf31} sto{\kf37}ries
+Dialogue: 0,0:01:52.33,0:01:54.33,DEFAULT,,0,0,0,,{\r}{\kf19}Mares{\kf19}~{\kf25} like{\kf31} me{\kf37} can't{\kf25} be{\kf25} trus{\kf19}ted
+Dialogue: 0,0:01:54.49,0:01:57.12,DEFAULT,,0,0,0,,{\r}{\kf24}Those{\kf24} tales{\kf30} need{\kf30} to{\kf24} be{\kf42} re{\kf24}ad{\kf30}jus{\kf34}ted
+Dialogue: 0,0:01:57.33,0:02:02.28,DEFAULT,,0,0,0,,{\r}{\kf58}Are{\kf29} you{\kf35}~{\kf35} proud{\kf29}~{\kf29} of{\kf29} choi{\kf63}ces{\kf35} you've{\kf35}~{\kf119} made
+Dialogue: 0,0:02:02.66,0:02:07.95,DEFAULT,,0,0,0,,{\r}{\kf56}Do{\kf33} you{\kf28}~{\kf33} smile{\kf33}~{\kf33} on{\kf28} the{\kf50} path{\kf72} you{\kf163} take
+Dialogue: 0,0:02:11.53,0:02:13.12,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf19} time{\kf19} has{\kf19} come{\kf19} for{\kf25} me{\kf38} to
+Dialogue: 0,0:02:34.70,0:02:37.49,DEFAULT,,0,0,0,,{\r}{\kf49}Make{\kf38} a{\kf131} cho{\kf61}ice
+Dialogue: 0,0:02:38.03,0:02:39.78,DEFAULT,,0,0,0,,{\r}{\kf21}Do{\kf21} you{\kf27} know{\kf32} what's{\kf74} right
+Dialogue: 0,0:02:40.08,0:02:42.78,DEFAULT,,0,0,0,,{\r}{\kf31}Is{\kf31} their{\kf25} pain{\kf18} worth{\kf18} a{\kf31} coat{\kf18} of{\kf31} glow{\kf31}ing{\kf37} fur
+Dialogue: 0,0:02:42.99,0:02:44.95,DEFAULT,,0,0,0,,{\r}{\kf35}It's{\kf35} time{\kf23} that{\kf23} you{\kf23} de{\kf57}cide
+Dialogue: 0,0:02:45.37,0:02:48.24,DEFAULT,,0,0,0,,{\r}{\kf63}Make{\kf31} a{\kf126} choice{\kf68}~
+Dialogue: 0,0:02:48.66,0:02:50.45,DEFAULT,,0,0,0,,{\r}{\kf20}Do{\kf20} you{\kf31} know{\kf36} what's{\kf72} right
+Dialogue: 0,0:02:50.74,0:02:53.45,DEFAULT,,0,0,0,,{\r}{\kf26}Is{\kf26} their{\kf32} pain{\kf26} worth{\kf13} a{\kf26} coat{\kf26} of{\kf26} glow{\kf32}ing{\kf38} fur
+Dialogue: 0,0:02:53.66,0:02:55.83,DEFAULT,,0,0,0,,{\r}{\kf33}It's{\kf28} time{\kf22} that{\kf22} you{\kf33} de{\kf79}cide
+Dialogue: 0,0:02:56.03,0:02:58.66,DEFAULT,,0,0,0,,{\r}{\kf58}Make{\kf37} a{\kf131} choice{\kf36}~
+Dialogue: 0,0:02:58.87,0:03:01.03,DEFAULT,,0,0,0,,{\r}{\kf11}Or{\kf17} else{\kf17} they'll{\kf34} choose{\kf17} a{\kf29} path{\kf29} for{\kf63} you
+Dialogue: 0,0:03:01.33,0:03:03.41,DEFAULT,,0,0,0,,{\r}{\kf36}Will{\kf36} you{\kf30} just{\kf30} stand{\kf30} id{\kf24}ly{\kf22} by
+Dialogue: 0,0:03:03.58,0:03:07.45,DEFAULT,,0,0,0,,{\r}{\kf23}Or{\kf46} can{\kf35} you{\kf29} stand{\kf23} to{\kf35} do{\kf23} what{\kf35} you{\kf23} have{\kf29} to{\kf87}~
+Dialogue: 0,0:03:07.66,0:03:09.78,DEFAULT,,0,0,0,,{\r}{\kf35}Your{\kf29} words{\kf18} that{\kf24} held{\kf29} me{\kf77} down
+Dialogue: 0,0:03:10.33,0:03:12.62,DEFAULT,,0,0,0,,{\r}{\kf29}Don't{\kf34} mat{\kf23}ter{\kf23} in{\kf29} the{\kf29} end{\kf62}~
+Dialogue: 0,0:03:12.99,0:03:14.83,DEFAULT,,0,0,0,,{\r}{\kf31}I'll{\kf24} turn{\kf24} this{\kf31} world{\kf31} a{\kf42}round
+Dialogue: 0,0:03:14.99,0:03:18.03,DEFAULT,,0,0,0,,{\r}{\kf31}You{\kf31} can{\kf31} con{\kf31}ti{\kf26}nue{\kf21} to{\kf36} pre{\kf97}tend
+Dialogue: 0,0:03:18.33,0:03:20.83,DEFAULT,,0,0,0,,{\r}{\kf21}That{\kf21} show{\kf32}ing{\kf32} them{\kf32} your{\kf21} heart{\kf91}~
+Dialogue: 0,0:03:21.08,0:03:23.33,DEFAULT,,0,0,0,,{\r}{\kf26}Is{\kf26} some{\kf21}thing{\kf21} you{\kf31} can't{\kf100} do
+Dialogue: 0,0:03:23.70,0:03:25.49,DEFAULT,,0,0,0,,{\r}{\kf23}I'll{\kf35} show{\kf23} them{\kf29} that{\kf35} there's{\kf34} love
+Dialogue: 0,0:03:25.66,0:03:29.62,DEFAULT,,0,0,0,,{\r}{\kf26}When{\kf26} show{\kf26}ing{\kf31} love's{\kf16} all{\kf21} you{\kf26} re{\kf224}fuse

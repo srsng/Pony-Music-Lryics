@@ -1,49 +1,56 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: They Call Me Ditzy Doo
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by lily
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.88,0:00:10.78,DEFAULT,,0,0,0,,{\kf912}They{\kf912} call{\kf903} me{\kf908} Dit{\kf903}zy{\kf926} Doo
-Dialogue: 0,0:00:11.84,0:00:13.83,DEFAULT,,0,0,0,,{\kf917}Good{\kf898} mo{\kf898}-or{\kf917}ning,{\kf917} how{\kf903} are{\kf917} you?
-Dialogue: 0,0:00:14.07,0:00:15.27,DEFAULT,,0,0,0,,{\kf908}I'm{\kf908} Dit{\kf903}zy{\kf917} Doo!
-Dialogue: 0,0:00:15.69,0:00:17.03,DEFAULT,,0,0,0,,{\kf903}I{\kf898} have{\kf898} two{\kf898} fun{\kf898}ny{\kf926} eyes
-Dialogue: 0,0:00:17.77,0:00:19.94,DEFAULT,,0,0,0,,{\kf912}They{\kf908} al{\kf898}so{\kf935} call{\kf898} me{\kf917} Bright{\kf903} Eyes
-Dialogue: 0,0:00:20.18,0:00:22.91,DEFAULT,,0,0,0,,{\kf908}But{\kf921} that's{\kf931} not{\kf903} my{\kf935} re{\kf898}-eal{\kf921} name
-Dialogue: 0,0:00:23.14,0:00:26.01,DEFAULT,,0,0,0,,{\kf898}My{\kf935} re{\kf898}-eal{\kf935} name{\kf898} is{\kf926} Der{\kf903}py{\kf931} Hooves
-Dialogue: 0,0:00:26.84,0:00:28.79,DEFAULT,,0,0,0,,{\kf898}A{\kf917} plea{\kf903}sure{\kf931} meet{\kf903}ing{\kf931} you!
-Dialogue: 0,0:00:29.62,0:00:31.57,DEFAULT,,0,0,0,,{\kf898}I{\kf898} de{\kf917}li{\kf898}ver{\kf917} all{\kf898} the{\kf931} mail
-Dialogue: 0,0:00:32.58,0:00:34.94,DEFAULT,,0,0,0,,{\kf917}They{\kf917} tell{\kf917} me{\kf917} I'm{\kf898} a{\kf935} bo{\kf903}ther
-Dialogue: 0,0:00:35.18,0:00:37.82,DEFAULT,,0,0,0,,{\kf898}Bu{\kf898}-ut{\kf898} I{\kf917} know{\kf908} I'm{\kf898} ge{\kf917}-et{\kf898}ting{\kf917} bet{\kf912}ter
-Dialogue: 0,0:00:38.65,0:00:40.36,DEFAULT,,0,0,0,,{\kf903}I'll{\kf917} show{\kf898} you{\kf917} what{\kf898} I{\kf898}~{\kf908} mean
-Dialogue: 0,0:00:40.55,0:00:43.65,DEFAULT,,0,0,0,,{\kf917}And{\kf917} you{\kf926} can{\kf935} tell{\kf898} me{\kf935} if{\kf898} you{\kf921} think
-Dialogue: 0,0:00:43.88,0:00:46.84,DEFAULT,,0,0,0,,{\kf898}I'm{\kf935} be{\kf898}ing{\kf935} care{\kf898}ful{\kf935} with{\kf898} the{\kf945} mail
-Dialogue: 0,0:00:47.40,0:00:49.81,DEFAULT,,0,0,0,,{\kf917}I{\kf912} don't{\kf903} re{\kf917}mem{\kf908}ber{\kf935} street{\kf908} names
-Dialogue: 0,0:00:49.99,0:00:53.42,DEFAULT,,0,0,0,,{\kf898}'Ca{\kf898}-ause{\kf912} I{\kf949} go{\kf945} by{\kf945} fa{\kf935}ces
-Dialogue: 0,0:01:05.92,0:01:07.91,DEFAULT,,0,0,0,,{\kf917}Some{\kf908}times{\kf917} I'm{\kf908} late{\kf898} for{\kf921} work
-Dialogue: 0,0:01:08.14,0:01:11.19,DEFAULT,,0,0,0,,{\kf917}Be{\kf917}ca{\kf908}-ause{\kf954} quite{\kf908} of{\kf898}te{\kf898}-en{\kf935} I
-Dialogue: 0,0:01:11.47,0:01:15.04,DEFAULT,,0,0,0,,{\kf908}Lock{\kf917} my{\kf945}self{\kf908} in{\kf917} from{\kf917} o{\kf908}-out{\kf949}side
-Dialogue: 0,0:01:17.40,0:01:23.00,DEFAULT,,0,0,0,,{\kf935}I'll{\kf935} keep{\kf945} search{\kf945}ing{\kf945} for{\kf945} the{\kf949} door{\kf931} key
-Dialogue: 0,0:01:23.32,0:01:29.07,DEFAULT,,0,0,0,,{\kf949}'Til{\kf940} I{\kf945} see{\kf949} the{\kf945} o{\kf945}pen{\kf949} win{\kf898}do{\kf926}-ow
-Dialogue: 0,0:01:47.03,0:01:52.72,DEFAULT,,0,0,0,,{\kf954}Some{\kf954} day{\kf917} some{\kf917}po{\kf945}ny{\kf908} else{\kf917} be{\kf954}sides{\kf954} me{\kf940} will
-Dialogue: 0,0:01:52.95,0:01:58.60,DEFAULT,,0,0,0,,{\kf949}Call{\kf949} me{\kf945} by{\kf940} my{\kf945} real{\kf949} name{\kf945} they{\kf935} will
-Dialogue: 0,0:01:58.88,0:02:00.36,DEFAULT,,0,0,0,,{\kf917}Call{\kf898} me{\kf917} Der{\kf898}py{\kf926} Hooves
-Dialogue: 0,0:02:01.47,0:02:03.46,DEFAULT,,0,0,0,,{\kf917}Good{\kf917} morn{\kf912}ing,{\kf912} how{\kf903} are{\kf921} you?
-Dialogue: 0,0:02:03.69,0:02:04.90,DEFAULT,,0,0,0,,{\kf908}I'm{\kf917} Der{\kf898}py{\kf917} Hooves
-Dialogue: 0,0:02:05.36,0:02:06.70,DEFAULT,,0,0,0,,{\kf898}I{\kf898} have{\kf898} two{\kf903} fun{\kf898}ny{\kf931} eyes
-Dialogue: 0,0:02:07.40,0:02:09.81,DEFAULT,,0,0,0,,{\kf917}They{\kf908} al{\kf903}so{\kf926} call{\kf903} me{\kf935} Bright{\kf908} Eyes
-Dialogue: 0,0:02:10.04,0:02:12.54,DEFAULT,,0,0,0,,{\kf903}But{\kf908} that's{\kf935} not{\kf898} my{\kf935} re{\kf898}-eal{\kf921} name
-Dialogue: 0,0:02:12.77,0:02:15.64,DEFAULT,,0,0,0,,{\kf898}My{\kf935} re{\kf898}-eal{\kf935} name{\kf898} is{\kf935} Der{\kf898}py{\kf935} Hooves
-Dialogue: 0,0:02:16.47,0:02:18.42,DEFAULT,,0,0,0,,{\kf898}A{\kf917} plea{\kf898}sure{\kf935} meet{\kf903}ing{\kf931} you!
-Dialogue: 0,0:02:19.25,0:02:21.19,DEFAULT,,0,0,0,,{\kf898}I{\kf898} de{\kf917}li{\kf898}ver{\kf917} all{\kf898} the{\kf935} mail
-Dialogue: 0,0:02:22.21,0:02:27.49,DEFAULT,,0,0,0,,{\kf912}They{\kf917} tell{\kf903} me{\kf917} I'm{\kf903} a{\kf935} bo{\kf898}ther{\kf903} bu{\kf903}-ut{\kf908} I{\kf917} know{\kf908} I'm{\kf903} ge{\kf917}-et{\kf898}ting{\kf917} bet{\kf917}ter
-Dialogue: 0,0:02:28.32,0:02:29.99,DEFAULT,,0,0,0,,{\kf898}I'll{\kf917} show{\kf898} you{\kf917} what{\kf917} I{\kf908} know
-Dialogue: 0,0:02:30.36,0:02:33.23,DEFAULT,,0,0,0,,{\kf898}And{\kf917} you{\kf926} can{\kf935} tell{\kf898} me{\kf935} if{\kf898} you{\kf917} think
-Dialogue: 0,0:02:33.51,0:02:36.38,DEFAULT,,0,0,0,,{\kf898}I'm{\kf935} be{\kf898}ing{\kf935} care{\kf898}ful{\kf935} with{\kf898} the{\kf935} mail
-Dialogue: 0,0:02:37.03,0:02:39.44,DEFAULT,,0,0,0,,{\kf917}My{\kf917} re{\kf898}-eal{\kf931} name{\kf898} is{\kf935} Der{\kf908}py
-Dialogue: 0,0:02:39.67,0:02:54.44,DEFAULT,,0,0,0,,{\kf912}But{\kf917} they{\kf949} call{\kf949} me{\kf917} Di{\kf912}-it{\kf945}-zy{\kf2000} Doooooooooooooooooooooooo!
+Dialogue: 0,0:00:08.88,0:00:10.78,DEFAULT,,0,0,0,,{\r}{\kf34}They{\kf34} call{\kf20} me{\kf27} Dit{\kf20}zy{\kf55} Doo
+Dialogue: 0,0:00:11.85,0:00:13.84,DEFAULT,,0,0,0,,{\r}{\kf39}Good{\kf13} mo{\kf13}-or{\kf39}ning,{\kf39} how{\kf19} are{\kf37} you?
+Dialogue: 0,0:00:14.07,0:00:15.27,DEFAULT,,0,0,0,,{\r}{\kf28}I'm{\kf28} Dit{\kf21}zy{\kf43} Doo!
+Dialogue: 0,0:00:15.69,0:00:17.03,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf14} have{\kf14} two{\kf14} fun{\kf14}ny{\kf57} eyes
+Dialogue: 0,0:00:17.77,0:00:19.95,DEFAULT,,0,0,0,,{\r}{\kf34}They{\kf27} al{\kf14}so{\kf68} call{\kf14} me{\kf41} Bright{\kf20} Eyes
+Dialogue: 0,0:00:20.18,0:00:22.91,DEFAULT,,0,0,0,,{\r}{\kf26}But{\kf46} that's{\kf58} not{\kf20} my{\kf65} re{\kf13}-eal{\kf45} name
+Dialogue: 0,0:00:23.14,0:00:26.01,DEFAULT,,0,0,0,,{\r}{\kf12}My{\kf62} re{\kf12}-eal{\kf62} name{\kf12} is{\kf50} Der{\kf19}py{\kf58} Hooves
+Dialogue: 0,0:00:26.85,0:00:28.79,DEFAULT,,0,0,0,,{\r}{\kf12}A{\kf36} plea{\kf18}sure{\kf55} meet{\kf18}ing{\kf55} you!
+Dialogue: 0,0:00:29.63,0:00:31.57,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf13} de{\kf40}li{\kf13}ver{\kf40} all{\kf13} the{\kf62} mail
+Dialogue: 0,0:00:32.59,0:00:34.95,DEFAULT,,0,0,0,,{\r}{\kf36}They{\kf36} tell{\kf36} me{\kf36} I'm{\kf12} a{\kf61} bo{\kf19}ther
+Dialogue: 0,0:00:35.18,0:00:37.82,DEFAULT,,0,0,0,,{\r}{\kf14}Bu{\kf14}-ut{\kf14} I{\kf43} know{\kf29} I'm{\kf14} ge{\kf43}-et{\kf14}ting{\kf43} bet{\kf36}ter
+Dialogue: 0,0:00:38.65,0:00:40.37,DEFAULT,,0,0,0,,{\r}{\kf21}I'll{\kf41} show{\kf14} you{\kf41} what{\kf14} I{\kf14}~{\kf26} mean
+Dialogue: 0,0:00:40.55,0:00:43.65,DEFAULT,,0,0,0,,{\r}{\kf36}And{\kf36} you{\kf49} can{\kf61} tell{\kf12} me{\kf61} if{\kf12} you{\kf43} think
+Dialogue: 0,0:00:43.88,0:00:46.85,DEFAULT,,0,0,0,,{\r}{\kf12}I'm{\kf59} be{\kf12}ing{\kf59} care{\kf12}ful{\kf59} with{\kf12} the{\kf71} mail
+Dialogue: 0,0:00:47.40,0:00:49.81,DEFAULT,,0,0,0,,{\r}{\kf38}I{\kf32} don't{\kf19} re{\kf38}mem{\kf25}ber{\kf63} street{\kf26} names
+Dialogue: 0,0:00:50.00,0:00:53.42,DEFAULT,,0,0,0,,{\r}{\kf12}'Ca{\kf12}-ause{\kf31} I{\kf80} go{\kf74} by{\kf74} fa{\kf60}ces
+Dialogue: 0,0:01:05.92,0:01:07.91,DEFAULT,,0,0,0,,{\r}{\kf41}Some{\kf27}times{\kf41} I'm{\kf27} late{\kf14} for{\kf49} work
+Dialogue: 0,0:01:08.14,0:01:11.20,DEFAULT,,0,0,0,,{\r}{\kf38}Be{\kf38}ca{\kf26}-ause{\kf89} quite{\kf26} of{\kf13}te{\kf13}-en{\kf63} I
+Dialogue: 0,0:01:11.48,0:01:15.04,DEFAULT,,0,0,0,,{\r}{\kf26}Lock{\kf39} my{\kf78}self{\kf26} in{\kf39} from{\kf39} o{\kf26}-out{\kf83}side
+Dialogue: 0,0:01:17.40,0:01:23.01,DEFAULT,,0,0,0,,{\r}{\kf62}I'll{\kf62} keep{\kf75} search{\kf75}ing{\kf75} for{\kf75} the{\kf81} door{\kf55} key
+Dialogue: 0,0:01:23.33,0:01:29.07,DEFAULT,,0,0,0,,{\r}{\kf78}'Til{\kf66} I{\kf72} see{\kf78} the{\kf72} o{\kf72}pen{\kf78} win{\kf12}do{\kf46}-ow
+Dialogue: 0,0:01:47.03,0:01:52.73,DEFAULT,,0,0,0,,{\r}{\kf79}Some{\kf79} day{\kf34} some{\kf34}po{\kf68}ny{\kf23} else{\kf34} be{\kf79}sides{\kf79} me{\kf60} will
+Dialogue: 0,0:01:52.96,0:01:58.61,DEFAULT,,0,0,0,,{\r}{\kf77}Call{\kf77} me{\kf71} by{\kf65} my{\kf71} real{\kf77} name{\kf71} they{\kf56} will
+Dialogue: 0,0:01:58.89,0:02:00.37,DEFAULT,,0,0,0,,{\r}{\kf37}Call{\kf12} me{\kf37} Der{\kf12}py{\kf50} Hooves
+Dialogue: 0,0:02:01.48,0:02:03.47,DEFAULT,,0,0,0,,{\r}{\kf37}Good{\kf37} morn{\kf31}ing,{\kf31} how{\kf19} are{\kf44} you?
+Dialogue: 0,0:02:03.70,0:02:04.90,DEFAULT,,0,0,0,,{\r}{\kf27}I'm{\kf40} Der{\kf13}py{\kf40} Hooves
+Dialogue: 0,0:02:05.37,0:02:06.71,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf13} have{\kf13} two{\kf20} fun{\kf13}ny{\kf62} eyes
+Dialogue: 0,0:02:07.40,0:02:09.81,DEFAULT,,0,0,0,,{\r}{\kf38}They{\kf25} al{\kf19}so{\kf51} call{\kf19} me{\kf63} Bright{\kf26} Eyes
+Dialogue: 0,0:02:10.04,0:02:12.54,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf26} that's{\kf66} not{\kf13} my{\kf66} re{\kf13}-eal{\kf46} name
+Dialogue: 0,0:02:12.77,0:02:15.64,DEFAULT,,0,0,0,,{\r}{\kf12}My{\kf60} re{\kf12}-eal{\kf60} name{\kf12} is{\kf60} Der{\kf12}py{\kf59} Hooves
+Dialogue: 0,0:02:16.48,0:02:18.42,DEFAULT,,0,0,0,,{\r}{\kf12}A{\kf36} plea{\kf12}sure{\kf61} meet{\kf18}ing{\kf55} you!
+Dialogue: 0,0:02:19.26,0:02:21.20,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf13} de{\kf39}li{\kf13}ver{\kf39} all{\kf13} the{\kf64} mail
+Dialogue: 0,0:02:22.22,0:02:27.50,DEFAULT,,0,0,0,,{\r}{\kf34}They{\kf41} tell{\kf20} me{\kf41} I'm{\kf20} a{\kf68} bo{\kf14}ther{\kf20} bu{\kf20}-ut{\kf27} I{\kf41} know{\kf27} I'm{\kf20} ge{\kf41}-et{\kf14}ting{\kf41} bet{\kf39}ter
+Dialogue: 0,0:02:28.33,0:02:30.00,DEFAULT,,0,0,0,,{\r}{\kf13}I'll{\kf39} show{\kf13} you{\kf39} what{\kf39} I{\kf24} know
+Dialogue: 0,0:02:30.37,0:02:33.24,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf37} you{\kf50} can{\kf62} tell{\kf12} me{\kf62} if{\kf12} you{\kf40} think
+Dialogue: 0,0:02:33.51,0:02:36.38,DEFAULT,,0,0,0,,{\r}{\kf12}I'm{\kf60} be{\kf12}ing{\kf60} care{\kf12}ful{\kf60} with{\kf12} the{\kf59} mail
+Dialogue: 0,0:02:37.03,0:02:39.44,DEFAULT,,0,0,0,,{\r}{\kf37}My{\kf37} re{\kf12}-eal{\kf56} name{\kf12} is{\kf62} Der{\kf25}py
+Dialogue: 0,0:02:39.67,0:02:54.44,DEFAULT,,0,0,0,,{\r}{\kf25}But{\kf30} they{\kf64} call{\kf64} me{\kf30} Di{\kf25}-it{\kf59}-zy{\kf1180} Doooooooooooooooooooooooo!

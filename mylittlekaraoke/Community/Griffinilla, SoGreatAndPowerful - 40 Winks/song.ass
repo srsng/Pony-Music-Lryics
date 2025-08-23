@@ -1,30 +1,37 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: 40 Winks
+Artist: Griffinillla, SoGreatAndPowerful
+Original Timing: mylittlekaraoke.com by sleumas2000, Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.99,0:00:08.13,DEFAULT,,0,0,0,,{\kf26}All{\kf42} the{\kf42} towns{\kf47}folk,{\kf42} they{\kf42} are{\kf68} fast{\kf63} a{\kf249}sleep
-Dialogue: 0,0:00:09.42,0:00:15.84,DEFAULT,,0,0,0,,{\kf21}Chas{\kf37}ing{\kf47} mem{\kf63}'ries{\kf47} or{\kf47} just{\kf57} count{\kf57}ing{\kf187} sheep
-Dialogue: 0,0:00:17.49,0:00:21.53,DEFAULT,,0,0,0,,{\kf16}But{\kf26} I{\kf37} don't{\kf37} need{\kf47} it,{\kf11} I{\kf32} don't{\kf26} think{\kf57} so
-Dialogue: 0,0:00:21.84,0:00:25.77,DEFAULT,,0,0,0,,{\kf32}I'm{\kf21} not{\kf42} cra{\kf32}zy,{\kf26} I{\kf32} don't{\kf42} think{\kf52} so
-Dialogue: 0,0:00:34.40,0:00:37.77,DEFAULT,,0,0,0,,{\kf21}Though{\kf47} she'll{\kf32} nev{\kf42}er{\kf47} get{\kf42} to{\kf52} dream
-Dialogue: 0,0:00:38.54,0:00:42.37,DEFAULT,,0,0,0,,{\kf26}Who{\kf47} needs{\kf68} all{\kf32} that{\kf21} for{\kf57}get{\kf42}ting
-Dialogue: 0,0:00:42.68,0:00:46.35,DEFAULT,,0,0,0,,{\kf32}There's{\kf21} a{\kf37} ta{\kf32}pes{\kf42}try{\kf37} of{\kf83} stars
-Dialogue: 0,0:00:46.87,0:00:50.39,DEFAULT,,0,0,0,,{\kf26}Look{\kf42} how{\kf68} thank{\kf57}less{\kf26} they{\kf63} are
-Dialogue: 0,0:01:07.72,0:01:12.27,DEFAULT,,0,0,0,,{\kf104}These{\kf99} eyes{\kf88} these{\kf114} eyes
-Dialogue: 0,0:01:12.63,0:01:15.78,DEFAULT,,0,0,0,,{\kf32}So{\kf26} hea{\kf42}vy{\kf26} hea{\kf52}vy{\kf21} hea{\kf99}vy
-Dialogue: 0,0:01:16.15,0:01:20.65,DEFAULT,,0,0,0,,{\kf83}Make{\kf83} time{\kf125} make{\kf104} time
-Dialogue: 0,0:01:21.01,0:01:23.90,DEFAULT,,0,0,0,,{\kf26}I'm{\kf26} rea{\kf37}dy{\kf26} rea{\kf52}dy{\kf26} rea{\kf73}dy
-Dialogue: 0,0:01:24.37,0:01:28.09,DEFAULT,,0,0,0,,{\kf32}Though{\kf52} she'll{\kf26} nev{\kf37}er{\kf32} get{\kf32} to{\kf78} dream
-Dialogue: 0,0:01:28.66,0:01:32.70,DEFAULT,,0,0,0,,{\kf21}Who{\kf47} needs{\kf52} all{\kf37} that{\kf21} for{\kf52}get{\kf68}ting
-Dialogue: 0,0:01:32.90,0:01:36.53,DEFAULT,,0,0,0,,{\kf16}There's{\kf32} a{\kf32} ta{\kf47}pes{\kf47}try{\kf42} of{\kf88} stars
-Dialogue: 0,0:02:35.70,0:02:41.70,DEFAULT,,0,0,0,,{\kf21}All{\kf26} the{\kf52} towns{\kf63}folk,{\kf32} they{\kf47} say{\kf63} rise{\kf57} and{\kf145} shine
-Dialogue: 0,0:02:43.87,0:02:49.61,DEFAULT,,0,0,0,,{\kf32}Chas{\kf47}ing{\kf42} day{\kf47}light{\kf42} or{\kf42} just{\kf73} kil{\kf63}ling{\kf104} time
-Dialogue: 0,0:02:52.30,0:02:56.23,DEFAULT,,0,0,0,,{\kf26}Is{\kf52} it{\kf42} se{\kf52}cret?{\kf21} I{\kf47} don't{\kf47} think{\kf57} so
-Dialogue: 0,0:02:56.49,0:03:05.23,DEFAULT,,0,0,0,,{\kf21}Am{\kf32} I{\kf52} sel{\kf57}fish?{\kf21} I{\kf42} don't{\kf57} think{\kf544} so
+Dialogue: 0,0:00:01.00,0:00:08.13,DEFAULT,,0,0,0,,{\r}{\kf30}All{\kf48} the{\kf48} towns{\kf54}folk,{\kf48} they{\kf48} are{\kf78} fast{\kf72} a{\kf288}sleep
+Dialogue: 0,0:00:09.43,0:00:15.84,DEFAULT,,0,0,0,,{\r}{\kf24}Chas{\kf42}ing{\kf53} mem{\kf71}'ries{\kf53} or{\kf53} just{\kf65} count{\kf65}ing{\kf215} sheep
+Dialogue: 0,0:00:17.50,0:00:21.53,DEFAULT,,0,0,0,,{\r}{\kf22}But{\kf37} I{\kf51} don't{\kf51} need{\kf66} it,{\kf15} I{\kf44} don't{\kf37} think{\kf80} so
+Dialogue: 0,0:00:21.84,0:00:25.77,DEFAULT,,0,0,0,,{\r}{\kf44}I'm{\kf30} not{\kf59} cra{\kf44}zy,{\kf37} I{\kf44} don't{\kf59} think{\kf76} so
+Dialogue: 0,0:00:34.41,0:00:37.77,DEFAULT,,0,0,0,,{\r}{\kf25}Though{\kf56} she'll{\kf37} nev{\kf50}er{\kf56} get{\kf50} to{\kf62} dream
+Dialogue: 0,0:00:38.55,0:00:42.38,DEFAULT,,0,0,0,,{\r}{\kf34}Who{\kf62} needs{\kf89} all{\kf41} that{\kf27} for{\kf75}get{\kf55}ting
+Dialogue: 0,0:00:42.69,0:00:46.36,DEFAULT,,0,0,0,,{\r}{\kf41}There's{\kf27} a{\kf48} ta{\kf41}pes{\kf54}try{\kf48} of{\kf108} stars
+Dialogue: 0,0:00:46.88,0:00:50.39,DEFAULT,,0,0,0,,{\r}{\kf33}Look{\kf52} how{\kf85} thank{\kf72}less{\kf33} they{\kf77} are
+Dialogue: 0,0:01:07.72,0:01:12.27,DEFAULT,,0,0,0,,{\r}{\kf117}These{\kf111} eyes{\kf99} these{\kf128} eyes
+Dialogue: 0,0:01:12.63,0:01:15.79,DEFAULT,,0,0,0,,{\r}{\kf33}So{\kf28} hea{\kf44}vy{\kf28} hea{\kf55}vy{\kf22} hea{\kf106}vy
+Dialogue: 0,0:01:16.15,0:01:20.65,DEFAULT,,0,0,0,,{\r}{\kf95}Make{\kf95} time{\kf142} make{\kf118} time
+Dialogue: 0,0:01:21.01,0:01:23.91,DEFAULT,,0,0,0,,{\r}{\kf28}I'm{\kf28} rea{\kf40}dy{\kf28} rea{\kf57}dy{\kf28} rea{\kf81}dy
+Dialogue: 0,0:01:24.38,0:01:28.10,DEFAULT,,0,0,0,,{\r}{\kf41}Though{\kf68} she'll{\kf34} nev{\kf47}er{\kf41} get{\kf41} to{\kf100} dream
+Dialogue: 0,0:01:28.67,0:01:32.70,DEFAULT,,0,0,0,,{\r}{\kf28}Who{\kf64} needs{\kf71} all{\kf49} that{\kf28} for{\kf71}get{\kf92}ting
+Dialogue: 0,0:01:32.91,0:01:36.53,DEFAULT,,0,0,0,,{\r}{\kf19}There's{\kf37} a{\kf37} ta{\kf56}pes{\kf56}try{\kf50} of{\kf107} stars
+Dialogue: 0,0:02:35.70,0:02:41.70,DEFAULT,,0,0,0,,{\r}{\kf25}All{\kf31} the{\kf62} towns{\kf74}folk,{\kf37} they{\kf56} say{\kf74} rise{\kf68} and{\kf173} shine
+Dialogue: 0,0:02:43.88,0:02:49.62,DEFAULT,,0,0,0,,{\r}{\kf37}Chas{\kf55}ing{\kf49} day{\kf55}light{\kf49} or{\kf49} just{\kf85} kil{\kf73}ling{\kf122} time
+Dialogue: 0,0:02:52.31,0:02:56.24,DEFAULT,,0,0,0,,{\r}{\kf30}Is{\kf60} it{\kf48} se{\kf60}cret?{\kf24} I{\kf54} don't{\kf54} think{\kf63} so
+Dialogue: 0,0:02:56.50,0:03:05.24,DEFAULT,,0,0,0,,{\r}{\kf22}Am{\kf33} I{\kf55} sel{\kf60}fish?{\kf22} I{\kf44} don't{\kf60} think{\kf578} so

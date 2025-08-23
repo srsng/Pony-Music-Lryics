@@ -1,59 +1,66 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Faster Than You Know
+Artist: Black Gryph0n & Baasik
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:12.58,0:00:17.00,DEFAULT,,0,0,0,,{\kf14}A{\kf19} hun{\kf14}dred{\kf37} thous{\kf14}and{\kf46} sto{\kf42}ries{\kf32} have{\kf55} filled{\kf42} my{\kf23} head{\kf42}~
-Dialogue: 0,0:00:18.46,0:00:22.75,DEFAULT,,0,0,0,,{\kf10}As{\kf10} I{\kf19} look{\kf28} for{\kf23} the{\kf46} ans{\kf32}wers{\kf32} in{\kf46} what{\kf42} I've{\kf60} read
-Dialogue: 0,0:00:24.34,0:00:28.67,DEFAULT,,0,0,0,,{\kf37}Se{\kf37}cre{\kf23}tly{\kf46} wai{\kf23}ting{\kf28} for{\kf23} my{\kf51} life{\kf19} to{\kf23}~{\kf23} change{\kf19}~{\kf23}~
-Dialogue: 0,0:00:30.04,0:00:34.37,DEFAULT,,0,0,0,,{\kf14}And{\kf10} with{\kf23} this{\kf28} trans{\kf23}for{\kf32}ma{\kf37}tion,{\kf55} some{\kf46}thing's{\kf55} strange
-Dialogue: 0,0:00:34.92,0:00:38.98,DEFAULT,,0,0,0,,{\kf37}Now{\kf32} my{\kf42} world{\kf64} is{\kf28} big{\kf14}ger{\kf14}~{\kf23} than{\kf46} I{\kf42} know
-Dialogue: 0,0:00:39.30,0:00:41.94,DEFAULT,,0,0,0,,{\kf64}I'm{\kf23} lo{\kf14}~{\kf37}sing{\kf37} all{\kf32} con{\kf46}trol
-Dialogue: 0,0:00:42.21,0:00:45.91,DEFAULT,,0,0,0,,{\kf60}I{\kf28} ne{\kf23}ver{\kf23} thought{\kf23}~{\kf32} I'd{\kf37} make{\kf83} it{\kf28}~
-Dialogue: 0,0:00:46.59,0:00:48.05,DEFAULT,,0,0,0,,{\kf23}Now{\kf19} I{\kf28} kn{\kf28}ow
-Dialogue: 0,0:00:50.65,0:00:53.61,DEFAULT,,0,0,0,,{\kf19}This{\kf23} world{\kf19} spins{\kf28} fas{\kf23}ter{\kf23} than{\kf14} you{\kf19} kn{\kf19}ow
-Dialogue: 0,0:00:56.35,0:01:01.86,DEFAULT,,0,0,0,,{\kf28}And{\kf28} I'd{\kf32} give{\kf42} a{\kf32}ny{\kf28}thing{\kf23} to{\kf32} show{\kf14}~{\kf28} what{\kf28} I'm{\kf37} try{\kf23}ing{\kf83} for
-Dialogue: 0,0:01:02.18,0:01:05.47,DEFAULT,,0,0,0,,{\kf23}Just{\kf28} what{\kf23} I'm{\kf42} fight{\kf28}ing{\kf32} for{\kf28}~,{\kf32} oh{\kf37}~
-Dialogue: 0,0:01:08.02,0:01:10.94,DEFAULT,,0,0,0,,{\kf37}This{\kf23} world{\kf28} spins{\kf37} fas{\kf32}ter{\kf28} than{\kf28} you{\kf32} know
-Dialogue: 0,0:01:11.03,0:01:15.13,DEFAULT,,0,0,0,,{\kf14}E{\kf10}very{\kf37} sin{\kf14}gle{\kf46} heart{\kf37}beat{\kf32} is{\kf55} some{\kf37}thing{\kf28} new{\kf37}~
-Dialogue: 0,0:01:16.59,0:01:20.69,DEFAULT,,0,0,0,,{\kf19}And{\kf14} now{\kf14} that{\kf28} I'm{\kf23} im{\kf55}mor{\kf46}tal,{\kf28} what{\kf51} will{\kf37} I{\kf37} do?
-Dialogue: 0,0:01:21.01,0:01:27.62,DEFAULT,,0,0,0,,{\kf42}Somehow{\kf32}~{\kf23} my{\kf42} wings{\kf32}~{\kf28} are{\kf19} a{\kf37} sym{\kf32}bol{\kf28} of{\kf28} a{\kf60} big{\kf28}ger{\kf19} change{\kf32}~{\kf19}~{\kf87}~
-Dialogue: 0,0:01:28.22,0:01:32.41,DEFAULT,,0,0,0,,{\kf14}But{\kf10} still{\kf10} a{\kf42} thou{\kf19}sand{\kf46} ques{\kf42}tions{\kf46} fill{\kf51} my{\kf37} veins
-Dialogue: 0,0:01:33.14,0:01:37.15,DEFAULT,,0,0,0,,{\kf28}'Cause{\kf28} this{\kf42} world{\kf60} is{\kf23} big{\kf19}ger{\kf14}~{\kf28} than{\kf37} I{\kf37} know
-Dialogue: 0,0:01:37.52,0:01:40.16,DEFAULT,,0,0,0,,{\kf55}I'm{\kf23} lo{\kf19}~{\kf32}sing{\kf23} all{\kf32} con{\kf51}trol
-Dialogue: 0,0:01:40.44,0:01:44.08,DEFAULT,,0,0,0,,{\kf64}I{\kf19} ne{\kf28}ver{\kf14} thought{\kf19}~{\kf32} I'd{\kf32} make{\kf83} it{\kf28}~
-Dialogue: 0,0:01:44.72,0:01:46.13,DEFAULT,,0,0,0,,{\kf37}Now{\kf19} I{\kf42} know{\kf28}~
-Dialogue: 0,0:01:48.73,0:01:51.92,DEFAULT,,0,0,0,,{\kf32}This{\kf32} world{\kf23} spins{\kf37} fas{\kf23}ter{\kf28} than{\kf28} you{\kf42} know{\kf23}~
-Dialogue: 0,0:01:54.61,0:02:00.09,DEFAULT,,0,0,0,,{\kf23}And{\kf28} I'd{\kf23} give{\kf37} a{\kf32}ny{\kf23}thing{\kf28} to{\kf42} show{\kf19}~{\kf28} what{\kf32} I'm{\kf37} try{\kf23}ing{\kf83} for
-Dialogue: 0,0:02:00.36,0:02:03.51,DEFAULT,,0,0,0,,{\kf28}Just{\kf28} what{\kf19} I'm{\kf32} figh{\kf14}ting{\kf55} for,{\kf55} oh
-Dialogue: 0,0:02:06.24,0:02:08.93,DEFAULT,,0,0,0,,{\kf23}This{\kf28} world{\kf19} spins{\kf28} fas{\kf23}ter{\kf19} than{\kf19} you{\kf19} know
-Dialogue: 0,0:02:09.11,0:02:11.53,DEFAULT,,0,0,0,,{\kf14}And in{\kf19} a{\kf14} hun{\kf14}dred{\kf19} years{\kf14} will{\kf14} I{\kf14} still{\kf19} be{\kf14} the{\kf51} same?
-Dialogue: 0,0:02:11.89,0:02:14.36,DEFAULT,,0,0,0,,{\kf19}Will{\kf14} I{\kf14} out{\kf14}live{\kf14} the{\kf14} ones{\kf19} who{\kf19} know{\kf37} my{\kf51} name?
-Dialogue: 0,0:02:14.86,0:02:17.00,DEFAULT,,0,0,0,,{\kf10}Can{\kf10} I{\kf14} let{\kf10} go{\kf14} of{\kf14} my{\kf19} e{\kf19}ter{\kf14}nal{\kf23} bur{\kf19}ning{\kf19} flame?
-Dialogue: 0,0:02:17.14,0:02:17.82,DEFAULT,,0,0,0,,{\kf19}With{\kf14}out{\kf32} shame?
-Dialogue: 0,0:02:17.87,0:02:18.46,DEFAULT,,0,0,0,,{\kf19}With{\kf14}out{\kf23} pain?
-Dialogue: 0,0:02:18.60,0:02:19.14,DEFAULT,,0,0,0,,{\kf10}All{\kf10} the{\kf23} same
-Dialogue: 0,0:02:19.28,0:02:20.56,DEFAULT,,0,0,0,,{\kf19}Who's{\kf14} to{\kf19} blame{\kf14}~{\kf19}~{\kf19}~{\kf19}~?
-Dialogue: 0,0:02:20.60,0:02:23.20,DEFAULT,,0,0,0,,{\kf19}And{\kf10} in{\kf10} a{\kf23} thou{\kf14}sand{\kf14} years{\kf10} will{\kf14} I{\kf14} be{\kf19} all{\kf19} a{\kf60}lone?
-Dialogue: 0,0:02:23.47,0:02:25.98,DEFAULT,,0,0,0,,{\kf19}Will{\kf14} this{\kf14} still{\kf14} be{\kf14} the{\kf14} place{\kf14} that{\kf32} I{\kf23} call{\kf51} home?
-Dialogue: 0,0:02:26.39,0:02:28.67,DEFAULT,,0,0,0,,{\kf14}And{\kf14} will{\kf14} I{\kf19} set{\kf14}tle{\kf14} down,{\kf14} or{\kf14} will{\kf14} I{\kf14} start{\kf14} to{\kf28} roam
-Dialogue: 0,0:02:28.81,0:02:29.40,DEFAULT,,0,0,0,,{\kf14}Far{\kf14} from{\kf23} home?
-Dialogue: 0,0:02:29.49,0:02:30.13,DEFAULT,,0,0,0,,{\kf19}Time{\kf14} has{\kf23} shown
-Dialogue: 0,0:02:30.27,0:02:30.86,DEFAULT,,0,0,0,,{\kf14}What{\kf14} I've{\kf23} known
-Dialogue: 0,0:02:30.95,0:02:32.41,DEFAULT,,0,0,0,,{\kf14}Turned{\kf14} to{\kf23} stone{\kf14}~{\kf19}~{\kf19}~{\kf37}~
-Dialogue: 0,0:02:32.87,0:02:35.37,DEFAULT,,0,0,0,,{\kf51}...is{\kf23} big{\kf23}ger{\kf32} than{\kf32} I{\kf46} know
-Dialogue: 0,0:02:35.65,0:02:38.29,DEFAULT,,0,0,0,,{\kf64}I'm{\kf37} lo{\kf28}sing{\kf28} all{\kf37} con{\kf42}trol
-Dialogue: 0,0:02:38.57,0:02:42.26,DEFAULT,,0,0,0,,{\kf64}I{\kf23} ne{\kf23}ver{\kf28} thought{\kf42} I'd{\kf32} make{\kf78} it{\kf37}~
-Dialogue: 0,0:02:42.94,0:02:44.22,DEFAULT,,0,0,0,,{\kf28}Now{\kf19} I{\kf42} know{\kf19}~
-Dialogue: 0,0:02:46.91,0:02:50.24,DEFAULT,,0,0,0,,{\kf32}This{\kf32} world{\kf32} spins{\kf42} fas{\kf23}ter{\kf28} than{\kf32} you{\kf37} know{\kf37}~
-Dialogue: 0,0:02:52.75,0:02:58.22,DEFAULT,,0,0,0,,{\kf32}And{\kf23} I'd{\kf37} give{\kf37} a{\kf32}ny{\kf23}thing{\kf19} to{\kf42} show{\kf23}~{\kf28} what{\kf28} I'm{\kf37} figh{\kf28}ting{\kf73} for
-Dialogue: 0,0:02:58.58,0:03:01.91,DEFAULT,,0,0,0,,{\kf23}Just{\kf32} what{\kf28} I'm{\kf37} dying{\kf28}~{\kf37} for{\kf28}~,{\kf42} oh{\kf37}~
-Dialogue: 0,0:03:04.46,0:03:07.56,DEFAULT,,0,0,0,,{\kf23}This{\kf23} world{\kf28} spins{\kf37} fas{\kf28}ter{\kf23} than{\kf10}~{\kf28} you{\kf42} know{\kf19}~
-Dialogue: 0,0:03:10.25,0:03:13.40,DEFAULT,,0,0,0,,{\kf28}This{\kf28} world{\kf28} spins{\kf37} fas{\kf28}ter{\kf28} than{\kf28} you{\kf42} know{\kf23}~
-Dialogue: 0,0:03:16.04,0:03:19.23,DEFAULT,,0,0,0,,{\kf28}This{\kf28} world{\kf28} spins{\kf37} fas{\kf19}ter{\kf10}~{\kf28} than{\kf23} you{\kf42} know{\kf28}~
+Dialogue: 0,0:00:12.58,0:00:17.01,DEFAULT,,0,0,0,,{\r}{\kf16}A{\kf22} hun{\kf16}dred{\kf43} thous{\kf16}and{\kf54} sto{\kf49}ries{\kf38} have{\kf65} filled{\kf49} my{\kf27} head{\kf47}~
+Dialogue: 0,0:00:18.46,0:00:22.75,DEFAULT,,0,0,0,,{\r}{\kf11}As{\kf11} I{\kf23} look{\kf34} for{\kf29} the{\kf57} ans{\kf40}wers{\kf40} in{\kf57} what{\kf51} I've{\kf76} read
+Dialogue: 0,0:00:24.35,0:00:28.68,DEFAULT,,0,0,0,,{\r}{\kf43}Se{\kf43}cre{\kf27}tly{\kf53} wai{\kf27}ting{\kf32} for{\kf27} my{\kf59} life{\kf21} to{\kf27}~{\kf27} change{\kf21}~{\kf26}~
+Dialogue: 0,0:00:30.05,0:00:34.38,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf12} with{\kf31} this{\kf37} trans{\kf31}for{\kf43}ma{\kf49}tion,{\kf74} some{\kf62}thing's{\kf75} strange
+Dialogue: 0,0:00:34.92,0:00:38.98,DEFAULT,,0,0,0,,{\r}{\kf44}Now{\kf38} my{\kf49} world{\kf77} is{\kf33} big{\kf16}ger{\kf16}~{\kf27} than{\kf55} I{\kf51} know
+Dialogue: 0,0:00:39.30,0:00:41.94,DEFAULT,,0,0,0,,{\r}{\kf67}I'm{\kf24} lo{\kf14}~{\kf38}sing{\kf38} all{\kf34} con{\kf49}trol
+Dialogue: 0,0:00:42.22,0:00:45.91,DEFAULT,,0,0,0,,{\r}{\kf66}I{\kf30} ne{\kf25}ver{\kf25} thought{\kf25}~{\kf35} I'd{\kf40} make{\kf91} it{\kf32}~
+Dialogue: 0,0:00:46.60,0:00:48.05,DEFAULT,,0,0,0,,{\r}{\kf35}Now{\kf28} I{\kf42} kn{\kf41}ow
+Dialogue: 0,0:00:50.65,0:00:53.62,DEFAULT,,0,0,0,,{\r}{\kf30}This{\kf37} world{\kf30} spins{\kf44} fas{\kf37}ter{\kf37} than{\kf22} you{\kf30} kn{\kf29}ow
+Dialogue: 0,0:00:56.35,0:01:01.87,DEFAULT,,0,0,0,,{\r}{\kf33}And{\kf33} I'd{\kf39} give{\kf50} a{\kf39}ny{\kf33}thing{\kf28} to{\kf39} show{\kf17}~{\kf33} what{\kf33} I'm{\kf45} try{\kf28}ing{\kf102} for
+Dialogue: 0,0:01:02.19,0:01:05.47,DEFAULT,,0,0,0,,{\r}{\kf28}Just{\kf33} what{\kf28} I'm{\kf50} fight{\kf33}ing{\kf39} for{\kf33}~,{\kf39} oh{\kf45}~
+Dialogue: 0,0:01:08.02,0:01:10.94,DEFAULT,,0,0,0,,{\r}{\kf44}This{\kf28} world{\kf33} spins{\kf44} fas{\kf39}ter{\kf33} than{\kf33} you{\kf38} know
+Dialogue: 0,0:01:11.03,0:01:15.14,DEFAULT,,0,0,0,,{\r}{\kf16}E{\kf11}very{\kf44} sin{\kf16}gle{\kf55} heart{\kf44}beat{\kf38} is{\kf66} some{\kf44}thing{\kf33} new{\kf43}~
+Dialogue: 0,0:01:16.60,0:01:20.70,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf16} now{\kf16} that{\kf32} I'm{\kf27} im{\kf65}mor{\kf54}tal,{\kf32} what{\kf59} will{\kf43} I{\kf44} do?
+Dialogue: 0,0:01:21.02,0:01:27.63,DEFAULT,,0,0,0,,{\r}{\kf47}Somehow{\kf36}~{\kf26} my{\kf47} wings{\kf36}~{\kf31} are{\kf21} a{\kf42} sym{\kf36}bol{\kf31} of{\kf31} a{\kf68} big{\kf31}ger{\kf21} change{\kf36}~{\kf21}~{\kf100}~
+Dialogue: 0,0:01:28.22,0:01:32.42,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf12} still{\kf12} a{\kf55} thou{\kf25}sand{\kf62} ques{\kf55}tions{\kf62} fill{\kf68} my{\kf50} veins
+Dialogue: 0,0:01:33.15,0:01:37.16,DEFAULT,,0,0,0,,{\r}{\kf35}'Cause{\kf35} this{\kf53} world{\kf77} is{\kf29} big{\kf24}ger{\kf18}~{\kf35} than{\kf47} I{\kf48} know
+Dialogue: 0,0:01:37.52,0:01:40.17,DEFAULT,,0,0,0,,{\r}{\kf62}I'm{\kf26} lo{\kf21}~{\kf36}sing{\kf26} all{\kf36} con{\kf57}trol
+Dialogue: 0,0:01:40.44,0:01:44.09,DEFAULT,,0,0,0,,{\r}{\kf74}I{\kf21} ne{\kf32}ver{\kf16} thought{\kf21}~{\kf37} I'd{\kf37} make{\kf95} it{\kf32}~
+Dialogue: 0,0:01:44.73,0:01:46.14,DEFAULT,,0,0,0,,{\r}{\kf42}Now{\kf21} I{\kf47} know{\kf31}~
+Dialogue: 0,0:01:48.74,0:01:51.93,DEFAULT,,0,0,0,,{\r}{\kf38}This{\kf38} world{\kf28} spins{\kf44} fas{\kf28}ter{\kf33} than{\kf33} you{\kf50} know{\kf27}~
+Dialogue: 0,0:01:54.62,0:02:00.09,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf33} I'd{\kf28} give{\kf44} a{\kf39}ny{\kf28}thing{\kf33} to{\kf50} show{\kf22}~{\kf33} what{\kf39} I'm{\kf44} try{\kf28}ing{\kf98} for
+Dialogue: 0,0:02:00.36,0:02:03.51,DEFAULT,,0,0,0,,{\r}{\kf38}Just{\kf38} what{\kf25} I'm{\kf44} figh{\kf19}ting{\kf76} for,{\kf75} oh
+Dialogue: 0,0:02:06.25,0:02:08.94,DEFAULT,,0,0,0,,{\r}{\kf35}This{\kf42} world{\kf28} spins{\kf42} fas{\kf35}ter{\kf28} than{\kf28} you{\kf31} know
+Dialogue: 0,0:02:09.12,0:02:11.53,DEFAULT,,0,0,0,,{\r}{\kf16}And in{\kf22} a{\kf16} hun{\kf16}dred{\kf22} years{\kf16} will{\kf16} I{\kf16} still{\kf22} be{\kf16} the{\kf64} same?
+Dialogue: 0,0:02:11.90,0:02:14.36,DEFAULT,,0,0,0,,{\r}{\kf21}Will{\kf16} I{\kf16} out{\kf16}live{\kf16} the{\kf16} ones{\kf21} who{\kf21} know{\kf43} my{\kf60} name?
+Dialogue: 0,0:02:14.86,0:02:17.01,DEFAULT,,0,0,0,,{\r}{\kf11}Can{\kf11} I{\kf16} let{\kf11} go{\kf16} of{\kf16} my{\kf22} e{\kf22}ter{\kf16}nal{\kf27} bur{\kf22}ning{\kf24} flame?
+Dialogue: 0,0:02:17.14,0:02:17.83,DEFAULT,,0,0,0,,{\r}{\kf19}With{\kf15}out{\kf34} shame?
+Dialogue: 0,0:02:17.87,0:02:18.46,DEFAULT,,0,0,0,,{\r}{\kf20}With{\kf15}out{\kf24} pain?
+Dialogue: 0,0:02:18.60,0:02:19.15,DEFAULT,,0,0,0,,{\r}{\kf12}All{\kf12} the{\kf31} same
+Dialogue: 0,0:02:19.29,0:02:20.56,DEFAULT,,0,0,0,,{\r}{\kf20}Who's{\kf15} to{\kf20} blame{\kf15}~{\kf20}~{\kf20}~{\kf18}~?
+Dialogue: 0,0:02:20.61,0:02:23.21,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf11} in{\kf11} a{\kf27} thou{\kf16}sand{\kf16} years{\kf11} will{\kf16} I{\kf16} be{\kf22} all{\kf22} a{\kf70}lone?
+Dialogue: 0,0:02:23.48,0:02:25.99,DEFAULT,,0,0,0,,{\r}{\kf22}Will{\kf17} this{\kf17} still{\kf17} be{\kf17} the{\kf17} place{\kf17} that{\kf39} I{\kf28} call{\kf60} home?
+Dialogue: 0,0:02:26.40,0:02:28.68,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf17} will{\kf17} I{\kf23} set{\kf17}tle{\kf17} down,{\kf17} or{\kf17} will{\kf17} I{\kf17} start{\kf17} to{\kf35} roam
+Dialogue: 0,0:02:28.81,0:02:29.41,DEFAULT,,0,0,0,,{\r}{\kf16}Far{\kf16} from{\kf27} home?
+Dialogue: 0,0:02:29.50,0:02:30.14,DEFAULT,,0,0,0,,{\r}{\kf21}Time{\kf16} has{\kf27} shown
+Dialogue: 0,0:02:30.27,0:02:30.87,DEFAULT,,0,0,0,,{\r}{\kf16}What{\kf16} I've{\kf27} known
+Dialogue: 0,0:02:30.96,0:02:32.42,DEFAULT,,0,0,0,,{\r}{\kf15}Turned{\kf15} to{\kf24} stone{\kf15}~{\kf19}~{\kf19}~{\kf39}~
+Dialogue: 0,0:02:32.87,0:02:35.38,DEFAULT,,0,0,0,,{\r}{\kf61}...is{\kf28} big{\kf28}ger{\kf39} than{\kf39} I{\kf56} know
+Dialogue: 0,0:02:35.65,0:02:38.30,DEFAULT,,0,0,0,,{\r}{\kf72}I'm{\kf41} lo{\kf31}sing{\kf31} all{\kf41} con{\kf48}trol
+Dialogue: 0,0:02:38.57,0:02:42.26,DEFAULT,,0,0,0,,{\r}{\kf73}I{\kf26} ne{\kf26}ver{\kf31} thought{\kf47} I'd{\kf36} make{\kf88} it{\kf42}~
+Dialogue: 0,0:02:42.95,0:02:44.22,DEFAULT,,0,0,0,,{\r}{\kf33}Now{\kf22} I{\kf50} know{\kf23}~
+Dialogue: 0,0:02:46.91,0:02:50.24,DEFAULT,,0,0,0,,{\r}{\kf36}This{\kf36} world{\kf36} spins{\kf47} fas{\kf26}ter{\kf31} than{\kf36} you{\kf42} know{\kf43}~
+Dialogue: 0,0:02:52.75,0:02:58.22,DEFAULT,,0,0,0,,{\r}{\kf38}And{\kf27} I'd{\kf44} give{\kf44} a{\kf38}ny{\kf27}thing{\kf22} to{\kf49} show{\kf27}~{\kf33} what{\kf33} I'm{\kf44} figh{\kf33}ting{\kf88} for
+Dialogue: 0,0:02:58.59,0:03:01.91,DEFAULT,,0,0,0,,{\r}{\kf26}Just{\kf37} what{\kf32} I'm{\kf42} dying{\kf32}~{\kf42} for{\kf32}~,{\kf48} oh{\kf42}~
+Dialogue: 0,0:03:04.47,0:03:07.57,DEFAULT,,0,0,0,,{\r}{\kf28}This{\kf28} world{\kf33} spins{\kf44} fas{\kf33}ter{\kf28} than{\kf11}~{\kf33} you{\kf50} know{\kf22}~
+Dialogue: 0,0:03:10.26,0:03:13.40,DEFAULT,,0,0,0,,{\r}{\kf33}This{\kf33} world{\kf33} spins{\kf43} fas{\kf33}ter{\kf33} than{\kf33} you{\kf49} know{\kf25}~
+Dialogue: 0,0:03:16.05,0:03:19.24,DEFAULT,,0,0,0,,{\r}{\kf33}This{\kf33} world{\kf33} spins{\kf44} fas{\kf22}ter{\kf11}~{\kf33} than{\kf28} you{\kf50} know{\kf32}~

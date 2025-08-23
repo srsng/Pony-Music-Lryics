@@ -1,31 +1,38 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: DuckTales Theme Song
+Artist: Disney, Jeff Pescetto
+Original Timing: mylittlekaraoke.com
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.86,0:00:05.27,DEFAULT,,0,0,0,,{\kf22}Life{\kf22} is{\kf18} like{\kf18} a{\kf22} hur{\kf13}ri{\kf22}ca{\kf13}~{\kf9}~ne
-Dialogue: 0,0:00:05.44,0:00:07.67,DEFAULT,,0,0,0,,{\kf26}Here{\kf31} in{\kf22} Duck{\kf39}burg
-Dialogue: 0,0:00:08.10,0:00:10.51,DEFAULT,,0,0,0,,{\kf18}Race{\kf18} cars,{\kf22} la{\kf22}sers,{\kf18} ae{\kf18}ro{\kf22}pla{\kf9}~{\kf9}~nes
-Dialogue: 0,0:00:10.72,0:00:12.87,DEFAULT,,0,0,0,,{\kf26}It's{\kf26} a{\kf26} duck{\kf26}-blur
-Dialogue: 0,0:00:13.60,0:00:15.66,DEFAULT,,0,0,0,,{\kf22}Might{\kf22} solve{\kf18} a{\kf35} mys{\kf48}tery
-Dialogue: 0,0:00:16.35,0:00:18.41,DEFAULT,,0,0,0,,{\kf18}Or{\kf22} re{\kf18}write{\kf31} his{\kf26}tory{\kf18}~
-Dialogue: 0,0:00:18.58,0:00:20.17,DEFAULT,,0,0,0,,{\kf18}Duck{\kf26}Tales,{\kf22} woo{\kf31}hoo!
-Dialogue: 0,0:00:21.20,0:00:23.65,DEFAULT,,0,0,0,,{\kf22}E{\kf18}very{\kf22} day{\kf18} they're{\kf18} out{\kf18} there{\kf22} ma{\kf13}king
-Dialogue: 0,0:00:23.82,0:00:25.41,DEFAULT,,0,0,0,,{\kf18}Duck{\kf31}Tales,{\kf26} woo{\kf26}hoo!
-Dialogue: 0,0:00:26.40,0:00:28.89,DEFAULT,,0,0,0,,{\kf26}Tales{\kf18} of{\kf22} da{\kf18}ring{\kf22} do{\kf22} bad{\kf18} and{\kf18} good
-Dialogue: 0,0:00:29.06,0:00:30.61,DEFAULT,,0,0,0,,{\kf18}Luck{\kf31}Tales,{\kf22} woo{\kf22}hoo!
-Dialogue: 0,0:00:31.94,0:00:34.31,DEFAULT,,0,0,0,,{\kf9}D{\kf9}-d{\kf9}-d{\kf22}-dan{\kf18}ger{\kf18} watch{\kf18} be{\kf22}hind{\kf26} you
-Dialogue: 0,0:00:34.65,0:00:36.93,DEFAULT,,0,0,0,,{\kf13}There's{\kf13} a{\kf18} stran{\kf18}ger{\kf18} out{\kf22} to{\kf26} find{\kf26} you
-Dialogue: 0,0:00:37.27,0:00:39.42,DEFAULT,,0,0,0,,{\kf18}What{\kf13} to{\kf18} do,{\kf18} just{\kf22} grab{\kf22} on{\kf18}to{\kf18} some
-Dialogue: 0,0:00:39.59,0:00:41.14,DEFAULT,,0,0,0,,{\kf18}Duck{\kf22}Tales,{\kf22} woo{\kf22}hoo!
-Dialogue: 0,0:00:42.25,0:00:44.66,DEFAULT,,0,0,0,,{\kf18}E{\kf18}very{\kf22} day{\kf18} they're{\kf18} out{\kf22} there{\kf18} ma{\kf13}king
-Dialogue: 0,0:00:44.83,0:00:46.46,DEFAULT,,0,0,0,,{\kf18}Duck{\kf22}Tales,{\kf22} woo{\kf26}hoo!
-Dialogue: 0,0:00:47.41,0:00:49.60,DEFAULT,,0,0,0,,{\kf22}Tales{\kf18} of{\kf22} da{\kf18}ring,{\kf22} bad{\kf18} and{\kf18} good
-Dialogue: 0,0:00:49.81,0:00:52.60,DEFAULT,,0,0,0,,{\kf18}Not{\kf22} po{\kf18}ny{\kf22}tails{\kf22} or{\kf18} cot{\kf18}ton{\kf18}tails,{\kf18} no
-Dialogue: 0,0:00:52.69,0:00:54.19,DEFAULT,,0,0,0,,{\kf18}Duck{\kf31}Tales,{\kf18} woo{\kf26}hoo!
+Dialogue: 0,0:00:02.87,0:00:05.27,DEFAULT,,0,0,0,,{\r}{\kf33}Life{\kf33} is{\kf27} like{\kf27} a{\kf33} hur{\kf20}ri{\kf33}ca{\kf20}~{\kf15}~ne
+Dialogue: 0,0:00:05.45,0:00:07.68,DEFAULT,,0,0,0,,{\r}{\kf50}Here{\kf58} in{\kf41} Duck{\kf74}burg
+Dialogue: 0,0:00:08.11,0:00:10.51,DEFAULT,,0,0,0,,{\r}{\kf28}Race{\kf28} cars,{\kf34} la{\kf34}sers,{\kf28} ae{\kf28}ro{\kf34}pla{\kf14}~{\kf13}~nes
+Dialogue: 0,0:00:10.73,0:00:12.88,DEFAULT,,0,0,0,,{\r}{\kf54}It's{\kf54} a{\kf54} duck{\kf53}-blur
+Dialogue: 0,0:00:13.61,0:00:15.67,DEFAULT,,0,0,0,,{\r}{\kf31}Might{\kf31} solve{\kf25} a{\kf50} mys{\kf69}tery
+Dialogue: 0,0:00:16.36,0:00:18.42,DEFAULT,,0,0,0,,{\r}{\kf27}Or{\kf34} re{\kf27}write{\kf48} his{\kf41}tory{\kf29}~
+Dialogue: 0,0:00:18.59,0:00:20.18,DEFAULT,,0,0,0,,{\r}{\kf29}Duck{\kf43}Tales,{\kf36} woo{\kf51}hoo!
+Dialogue: 0,0:00:21.21,0:00:23.66,DEFAULT,,0,0,0,,{\r}{\kf36}E{\kf29}very{\kf36} day{\kf29} they're{\kf29} out{\kf29} there{\kf36} ma{\kf21}king
+Dialogue: 0,0:00:23.83,0:00:25.42,DEFAULT,,0,0,0,,{\r}{\kf28}Duck{\kf48}Tales,{\kf41} woo{\kf42}hoo!
+Dialogue: 0,0:00:26.41,0:00:28.90,DEFAULT,,0,0,0,,{\r}{\kf40}Tales{\kf27} of{\kf34} da{\kf27}ring{\kf34} do{\kf34} bad{\kf27} and{\kf26} good
+Dialogue: 0,0:00:29.07,0:00:30.62,DEFAULT,,0,0,0,,{\r}{\kf30}Luck{\kf52}Tales,{\kf37} woo{\kf36}hoo!
+Dialogue: 0,0:00:31.95,0:00:34.31,DEFAULT,,0,0,0,,{\r}{\kf14}D{\kf14}-d{\kf14}-d{\kf35}-dan{\kf28}ger{\kf28} watch{\kf28} be{\kf35}hind{\kf40} you
+Dialogue: 0,0:00:34.65,0:00:36.93,DEFAULT,,0,0,0,,{\r}{\kf20}There's{\kf20} a{\kf26} stran{\kf26}ger{\kf26} out{\kf33} to{\kf39} find{\kf38} you
+Dialogue: 0,0:00:37.27,0:00:39.42,DEFAULT,,0,0,0,,{\r}{\kf26}What{\kf20} to{\kf26} do,{\kf26} just{\kf33} grab{\kf33} on{\kf26}to{\kf25} some
+Dialogue: 0,0:00:39.59,0:00:41.14,DEFAULT,,0,0,0,,{\r}{\kf33}Duck{\kf41}Tales,{\kf41} woo{\kf40}hoo!
+Dialogue: 0,0:00:42.26,0:00:44.66,DEFAULT,,0,0,0,,{\r}{\kf29}E{\kf29}very{\kf37} day{\kf29} they're{\kf29} out{\kf37} there{\kf29} ma{\kf22}king
+Dialogue: 0,0:00:44.83,0:00:46.47,DEFAULT,,0,0,0,,{\r}{\kf33}Duck{\kf41}Tales,{\kf41} woo{\kf48}hoo!
+Dialogue: 0,0:00:47.41,0:00:49.60,DEFAULT,,0,0,0,,{\r}{\kf35}Tales{\kf28} of{\kf35} da{\kf28}ring,{\kf35} bad{\kf28} and{\kf30} good
+Dialogue: 0,0:00:49.82,0:00:52.61,DEFAULT,,0,0,0,,{\r}{\kf29}Not{\kf36} po{\kf29}ny{\kf36}tails{\kf36} or{\kf29} cot{\kf29}ton{\kf29}tails,{\kf26} no
+Dialogue: 0,0:00:52.69,0:00:54.20,DEFAULT,,0,0,0,,{\r}{\kf29}Duck{\kf50}Tales,{\kf29} woo{\kf42}hoo!

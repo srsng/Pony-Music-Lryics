@@ -1,58 +1,65 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: L'Amicizia È Magica
+Artist: Mio Mini Pony
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.27,0:00:10.19,DEFAULT,,0,0,0,,{\kf33}In{\kf21} un{\kf50} mon{\kf33}do{\kf46} splen{\kf25}di{\kf21}~{\kf46}do
-Dialogue: 0,0:00:10.80,0:00:13.80,DEFAULT,,0,0,0,,{\kf46}Co{\kf29}lo{\kf33}ra{\kf21}to{\kf17} e{\kf42} ma{\kf29}gi{\kf21}~{\kf58}co
-Dialogue: 0,0:00:14.34,0:00:17.38,DEFAULT,,0,0,0,,{\kf37}Lit{\kf21}tle{\kf46} Po{\kf33}nies{\kf37} vi{\kf29}vo{\kf25}~{\kf62}no
-Dialogue: 0,0:00:17.62,0:00:20.91,DEFAULT,,0,0,0,,{\kf17}In{\kf29} pace{\kf17} e{\kf46} sem{\kf33}pre{\kf37} in{\kf21} ar{\kf29}mo{\kf37}ni{\kf33}a
-Dialogue: 0,0:00:21.28,0:00:24.24,DEFAULT,,0,0,0,,{\kf21}Il{\kf21} So{\kf25}le{\kf33} fan{\kf29}no{\kf33} splen{\kf50}de{\kf50}re
-Dialogue: 0,0:00:24.57,0:00:27.77,DEFAULT,,0,0,0,,{\kf21}Le{\kf33} pian{\kf17}te{\kf33} fan{\kf33}no{\kf37} cres{\kf25}ce{\kf21}re{\kf58} poi
-Dialogue: 0,0:00:28.02,0:00:31.23,DEFAULT,,0,0,0,,{\kf21}La{\kf46} gioi{\kf21}a{\kf42} fan{\kf17}no{\kf25} ac{\kf42}cen{\kf25}de{\kf25}~{\kf46}re
-Dialogue: 0,0:00:31.56,0:00:34.02,DEFAULT,,0,0,0,,{\kf29}Se{\kf25} li{\kf25} co{\kf29}no{\kf25}sce{\kf29}~{\kf62}rai
-Dialogue: 0,0:00:34.47,0:00:37.60,DEFAULT,,0,0,0,,{\kf42}Vo{\kf17}la{\kf21} e{\kf54} vai,{\kf21} My{\kf42} Lit{\kf17}tle{\kf42} Po{\kf33}ny
-Dialogue: 0,0:00:37.76,0:00:41.13,DEFAULT,,0,0,0,,{\kf17}Se{\kf21} nuo{\kf13}vi{\kf25} a{\kf46}mi{\kf42}ci{\kf25} vor{\kf17}rai{\kf21} in{\kf25}con{\kf42}tra{\kf33}re
-Dialogue: 0,0:00:41.46,0:00:44.54,DEFAULT,,0,0,0,,{\kf25}Pren{\kf21}di{\kf17} il{\kf46} volo,{\kf21} as{\kf25}col{\kf17}ta{\kf17} il{\kf46} cuo{\kf29}re
-Dialogue: 0,0:00:44.67,0:00:48.12,DEFAULT,,0,0,0,,{\kf21}E{\kf17} d'ogni{\kf21} av{\kf29}ven{\kf37}tu{\kf37}ra{\kf25} po{\kf21}trai{\kf21} af{\kf21}fron{\kf42}ta{\kf37}re
-Dialogue: 0,0:00:48.40,0:00:51.57,DEFAULT,,0,0,0,,{\kf42}Vo{\kf21}la{\kf25} e{\kf42} vai,{\kf21} My{\kf37} Lit{\kf21}tle{\kf46} Po{\kf29}ny
-Dialogue: 0,0:00:51.73,0:00:55.14,DEFAULT,,0,0,0,,{\kf25}Rea{\kf21}liz{\kf9}za{\kf9} i{\kf21} tuoi{\kf33} so{\kf25}gni{\kf21} e{\kf21} non{\kf21} ti{\kf25} fer{\kf37}ma{\kf37}re
-Dialogue: 0,0:00:55.39,0:00:56.95,DEFAULT,,0,0,0,,{\kf25}Non{\kf17} ti{\kf25} fer{\kf42}ma{\kf42}re
-Dialogue: 0,0:00:57.12,0:00:58.60,DEFAULT,,0,0,0,,{\kf29}Non{\kf17} ti{\kf25} fer{\kf42}ma{\kf29}re
-Dialogue: 0,0:00:58.88,0:01:02.38,DEFAULT,,0,0,0,,{\kf25}Non{\kf17} ti{\kf25} fer{\kf202}ma{\kf74}re
-Dialogue: 0,0:01:03.36,0:01:06.20,DEFAULT,,0,0,0,,{\kf42}Ti{\kf21}mi{\kf9}di{\kf25} e{\kf46} sim{\kf46}pa{\kf25}ti{\kf21}~{\kf42}ci
-Dialogue: 0,0:01:06.82,0:01:09.94,DEFAULT,,0,0,0,,{\kf50}Bur{\kf21}be{\kf13}ri{\kf21} e{\kf37} ro{\kf37}man{\kf29}ti{\kf21}~{\kf66}ci
-Dialogue: 0,0:01:10.31,0:01:13.43,DEFAULT,,0,0,0,,{\kf42}So{\kf29}no{\kf33} i{\kf46} ca{\kf33}rat{\kf29}te{\kf25}~{\kf62}ri
-Dialogue: 0,0:01:13.84,0:01:17.01,DEFAULT,,0,0,0,,{\kf42}Degli{\kf25} a{\kf29}mi{\kf33}ci{\kf25} che{\kf29} tro{\kf25}ve{\kf70}rai
-Dialogue: 0,0:01:17.38,0:01:20.38,DEFAULT,,0,0,0,,{\kf17}Ed{\kf25} og{\kf17}ni{\kf42} gior{\kf29}no{\kf42} cres{\kf25}ce{\kf21}~{\kf62}rai
-Dialogue: 0,0:01:20.83,0:01:23.99,DEFAULT,,0,0,0,,{\kf29}Quan{\kf17}ti{\kf25} pro{\kf37}ble{\kf42}mi{\kf37} ri{\kf25}sol{\kf21}ve{\kf66}rai
-Dialogue: 0,0:01:24.16,0:01:27.53,DEFAULT,,0,0,0,,{\kf21}In{\kf29}sieme{\kf21} a{\kf9}gli{\kf37} al{\kf42}tri{\kf46} po{\kf17}ny{\kf21} lo{\kf66} sai
-Dialogue: 0,0:01:27.90,0:01:30.04,DEFAULT,,0,0,0,,{\kf33}Ti{\kf25} di{\kf37}ver{\kf29}ti{\kf25}~{\kf58}rai
-Dialogue: 0,0:01:30.61,0:01:33.61,DEFAULT,,0,0,0,,{\kf37}Vo{\kf17}la{\kf21} e{\kf42} vai,{\kf17} My{\kf37} Lit{\kf21}tle{\kf46} Po{\kf29}ny
-Dialogue: 0,0:01:33.77,0:01:37.19,DEFAULT,,0,0,0,,{\kf21}Se{\kf21} nuo{\kf17}vi{\kf21} a{\kf42}mi{\kf37}ci{\kf21} vor{\kf21}rai{\kf21} in{\kf25}con{\kf37}tra{\kf37}re
-Dialogue: 0,0:01:37.51,0:01:40.56,DEFAULT,,0,0,0,,{\kf25}Pren{\kf17}di{\kf17} il{\kf42} volo,{\kf25} as{\kf29}col{\kf17}ta{\kf17} il{\kf42} cuo{\kf21}re
-Dialogue: 0,0:01:40.80,0:01:44.13,DEFAULT,,0,0,0,,{\kf17}E{\kf21} d'ogni{\kf21} av{\kf25}ven{\kf37}tu{\kf25}ra{\kf25} po{\kf21}trai{\kf25} af{\kf25}fron{\kf37}ta{\kf29}re
-Dialogue: 0,0:01:44.50,0:01:47.62,DEFAULT,,0,0,0,,{\kf42}Vo{\kf21}la{\kf21} e{\kf42} vai,{\kf21} My{\kf37} Lit{\kf21}tle{\kf46} Po{\kf25}ny
-Dialogue: 0,0:01:47.79,0:01:51.20,DEFAULT,,0,0,0,,{\kf25}Rea{\kf21}liz{\kf9}za{\kf9} i{\kf17} tuoi{\kf42} so{\kf29}gni{\kf21} e{\kf21} non{\kf17} ti{\kf25} fer{\kf42}ma{\kf33}re
-Dialogue: 0,0:01:51.49,0:01:53.01,DEFAULT,,0,0,0,,{\kf21}Non{\kf21} ti{\kf25} fer{\kf46}ma{\kf33}re
-Dialogue: 0,0:01:53.21,0:01:54.69,DEFAULT,,0,0,0,,{\kf21}Non{\kf21} ti{\kf21} fer{\kf46}ma{\kf33}re
-Dialogue: 0,0:01:54.98,0:01:58.31,DEFAULT,,0,0,0,,{\kf21}Non{\kf21} ti{\kf25} fer{\kf198}ma{\kf62}re
-Dialogue: 0,0:02:26.54,0:02:29.62,DEFAULT,,0,0,0,,{\kf42}Vo{\kf25}la{\kf13} e{\kf50} vai,{\kf17} My{\kf42} Lit{\kf21}tle{\kf50} Po{\kf21}ny
-Dialogue: 0,0:02:29.83,0:02:33.16,DEFAULT,,0,0,0,,{\kf17}Se{\kf25} nuo{\kf21}vi{\kf21} a{\kf42}mi{\kf33}ci{\kf25} vor{\kf17}rai{\kf17} in{\kf17}con{\kf54}tra{\kf25}re
-Dialogue: 0,0:02:33.53,0:02:36.61,DEFAULT,,0,0,0,,{\kf21}Pren{\kf21}di{\kf17} il{\kf46} volo,{\kf21} as{\kf25}col{\kf17}ta{\kf17} il{\kf46} cuo{\kf21}re
-Dialogue: 0,0:02:36.82,0:02:40.19,DEFAULT,,0,0,0,,{\kf21}E{\kf21} d'ogni{\kf21} av{\kf21}ven{\kf42}tu{\kf33}ra{\kf25} po{\kf17}trai{\kf25} af{\kf25}fron{\kf42}ta{\kf25}re
-Dialogue: 0,0:02:40.56,0:02:43.68,DEFAULT,,0,0,0,,{\kf46}Vo{\kf17}la{\kf17} e{\kf42} vai,{\kf21} My{\kf37} Lit{\kf21}tle{\kf46} Po{\kf25}ny
-Dialogue: 0,0:02:43.84,0:02:47.25,DEFAULT,,0,0,0,,{\kf21}Rea{\kf17}liz{\kf9}za{\kf9} i{\kf25} tuoi{\kf37} so{\kf29}gni{\kf17} e{\kf17} non{\kf17} ti{\kf25} fer{\kf37}ma{\kf37}re
-Dialogue: 0,0:02:47.50,0:02:48.94,DEFAULT,,0,0,0,,{\kf21}Non{\kf17} ti{\kf25} fer{\kf37}ma{\kf33}re
-Dialogue: 0,0:02:49.23,0:02:50.67,DEFAULT,,0,0,0,,{\kf25}Non{\kf21} ti{\kf21} fer{\kf42}ma{\kf29}re
-Dialogue: 0,0:02:50.95,0:02:54.32,DEFAULT,,0,0,0,,{\kf25}Non{\kf21} ti{\kf25} fer{\kf198}ma{\kf62}re
-Dialogue: 0,0:02:55.47,0:03:01.97,DEFAULT,,0,0,0,,{\kf161}Ooh{\kf42} yeah{\kf21} ye{\kf42}-ah{\kf33} eh,{\kf29} eh{\kf33} ye{\kf33}-ah{\kf33} yeah{\kf29} yeah{\kf21} yeah{\kf21} yeah{\kf58} yeah
-Dialogue: 0,0:03:02.50,0:03:08.99,DEFAULT,,0,0,0,,{\kf161}Ooh{\kf42} yeah{\kf25} ye{\kf42}-ah{\kf33} eh,{\kf29} eh{\kf33} ye{\kf33}-ah{\kf33} yeah{\kf29} yeah{\kf21} yeah{\kf21} yeah{\kf58} yeah
-Dialogue: 0,0:03:09.49,0:03:15.98,DEFAULT,,0,0,0,,{\kf161}Ooh{\kf42} yeah{\kf25} ye{\kf42}-ah{\kf33} eh,{\kf29} eh{\kf33} ye{\kf33}-ah{\kf33} yeah{\kf29} yeah{\kf21} yeah{\kf21} yeah{\kf58} yeah
-Dialogue: 0,0:03:16.51,0:03:23.01,DEFAULT,,0,0,0,,{\kf161}Ooh{\kf42} yeah{\kf25} ye{\kf42}-ah{\kf33} eh,{\kf29} eh{\kf33} ye{\kf33}-ah{\kf33} yeah{\kf29} yeah{\kf21} yeah{\kf21} yeah{\kf58} yeah
+Dialogue: 0,0:00:07.27,0:00:10.19,DEFAULT,,0,0,0,,{\r}{\kf35}In{\kf22} un{\kf53} mon{\kf35}do{\kf49} splen{\kf27}di{\kf22}~{\kf49}do
+Dialogue: 0,0:00:10.81,0:00:13.81,DEFAULT,,0,0,0,,{\r}{\kf46}Co{\kf30}lo{\kf34}ra{\kf21}to{\kf17} e{\kf42} ma{\kf30}gi{\kf21}~{\kf59}co
+Dialogue: 0,0:00:14.34,0:00:17.38,DEFAULT,,0,0,0,,{\r}{\kf39}Lit{\kf22}tle{\kf48} Po{\kf35}nies{\kf39} vi{\kf30}vo{\kf26}~{\kf65}no
+Dialogue: 0,0:00:17.63,0:00:20.92,DEFAULT,,0,0,0,,{\r}{\kf18}In{\kf32} pace{\kf18} e{\kf50} sem{\kf37}pre{\kf41} in{\kf23} ar{\kf32}mo{\kf41}ni{\kf37}a
+Dialogue: 0,0:00:21.29,0:00:24.25,DEFAULT,,0,0,0,,{\r}{\kf23}Il{\kf23} So{\kf28}le{\kf38} fan{\kf33}no{\kf38} splen{\kf56}de{\kf57}re
+Dialogue: 0,0:00:24.57,0:00:27.78,DEFAULT,,0,0,0,,{\r}{\kf24}Le{\kf38} pian{\kf19}te{\kf38} fan{\kf38}no{\kf43} cres{\kf29}ce{\kf24}re{\kf68} poi
+Dialogue: 0,0:00:28.03,0:00:31.23,DEFAULT,,0,0,0,,{\r}{\kf22}La{\kf48} gioi{\kf22}a{\kf43} fan{\kf17}no{\kf26} ac{\kf43}cen{\kf26}de{\kf26}~{\kf48}re
+Dialogue: 0,0:00:31.56,0:00:34.03,DEFAULT,,0,0,0,,{\r}{\kf32}Se{\kf27} li{\kf27} co{\kf32}no{\kf27}sce{\kf32}~{\kf70}rai
+Dialogue: 0,0:00:34.48,0:00:37.60,DEFAULT,,0,0,0,,{\r}{\kf45}Vo{\kf18}la{\kf23} e{\kf59} vai,{\kf23} My{\kf45} Lit{\kf18}tle{\kf45} Po{\kf36}ny
+Dialogue: 0,0:00:37.77,0:00:41.14,DEFAULT,,0,0,0,,{\r}{\kf17}Se{\kf22} nuo{\kf13}vi{\kf26} a{\kf48}mi{\kf43}ci{\kf26} vor{\kf17}rai{\kf22} in{\kf26}con{\kf43}tra{\kf34}re
+Dialogue: 0,0:00:41.46,0:00:44.55,DEFAULT,,0,0,0,,{\r}{\kf29}Pren{\kf24}di{\kf20} il{\kf54} volo,{\kf24} as{\kf29}col{\kf20}ta{\kf20} il{\kf54} cuo{\kf34}re
+Dialogue: 0,0:00:44.67,0:00:48.12,DEFAULT,,0,0,0,,{\r}{\kf22}E{\kf17} d'ogni{\kf22} av{\kf31}ven{\kf39}tu{\kf39}ra{\kf26} po{\kf22}trai{\kf22} af{\kf22}fron{\kf44}ta{\kf39}re
+Dialogue: 0,0:00:48.41,0:00:51.57,DEFAULT,,0,0,0,,{\r}{\kf46}Vo{\kf23}la{\kf28} e{\kf46} vai,{\kf23} My{\kf42} Lit{\kf23}tle{\kf51} Po{\kf34}ny
+Dialogue: 0,0:00:51.74,0:00:55.15,DEFAULT,,0,0,0,,{\r}{\kf28}Rea{\kf23}liz{\kf10}za{\kf10} i{\kf23} tuoi{\kf37} so{\kf28}gni{\kf23} e{\kf23} non{\kf23} ti{\kf28} fer{\kf42}ma{\kf43}re
+Dialogue: 0,0:00:55.40,0:00:56.96,DEFAULT,,0,0,0,,{\r}{\kf26}Non{\kf17} ti{\kf26} fer{\kf43}ma{\kf44}re
+Dialogue: 0,0:00:57.12,0:00:58.60,DEFAULT,,0,0,0,,{\r}{\kf30}Non{\kf17} ti{\kf26} fer{\kf44}ma{\kf31}re
+Dialogue: 0,0:00:58.89,0:01:02.38,DEFAULT,,0,0,0,,{\r}{\kf25}Non{\kf17} ti{\kf25} fer{\kf206}ma{\kf76}re
+Dialogue: 0,0:01:03.37,0:01:06.20,DEFAULT,,0,0,0,,{\r}{\kf43}Ti{\kf22}mi{\kf10}di{\kf26} e{\kf47} sim{\kf47}pa{\kf26}ti{\kf22}~{\kf41}ci
+Dialogue: 0,0:01:06.82,0:01:09.94,DEFAULT,,0,0,0,,{\r}{\kf53}Bur{\kf22}be{\kf13}ri{\kf22} e{\kf40} ro{\kf40}man{\kf31}ti{\kf22}~{\kf69}ci
+Dialogue: 0,0:01:10.31,0:01:13.44,DEFAULT,,0,0,0,,{\r}{\kf43}So{\kf30}no{\kf35} i{\kf48} ca{\kf35}rat{\kf30}te{\kf26}~{\kf65}ri
+Dialogue: 0,0:01:13.85,0:01:17.01,DEFAULT,,0,0,0,,{\r}{\kf47}Degli{\kf28} a{\kf33}mi{\kf38}ci{\kf28} che{\kf33} tro{\kf28}ve{\kf81}rai
+Dialogue: 0,0:01:17.38,0:01:20.38,DEFAULT,,0,0,0,,{\r}{\kf18}Ed{\kf27} og{\kf18}ni{\kf45} gior{\kf31}no{\kf45} cres{\kf27}ce{\kf22}~{\kf67}rai
+Dialogue: 0,0:01:20.83,0:01:24.00,DEFAULT,,0,0,0,,{\r}{\kf31}Quan{\kf18}ti{\kf26} pro{\kf40}ble{\kf44}mi{\kf40} ri{\kf26}sol{\kf22}ve{\kf69}rai
+Dialogue: 0,0:01:24.16,0:01:27.53,DEFAULT,,0,0,0,,{\r}{\kf23}In{\kf32}sieme{\kf23} a{\kf10}gli{\kf41} al{\kf46}tri{\kf50} po{\kf18}ny{\kf23} lo{\kf71} sai
+Dialogue: 0,0:01:27.90,0:01:30.04,DEFAULT,,0,0,0,,{\r}{\kf34}Ti{\kf26} di{\kf39}ver{\kf30}ti{\kf26}~{\kf59}rai
+Dialogue: 0,0:01:30.62,0:01:33.62,DEFAULT,,0,0,0,,{\r}{\kf42}Vo{\kf19}la{\kf23} e{\kf47} vai,{\kf19} My{\kf42} Lit{\kf23}tle{\kf52} Po{\kf33}ny
+Dialogue: 0,0:01:33.78,0:01:37.19,DEFAULT,,0,0,0,,{\r}{\kf22}Se{\kf22} nuo{\kf18}vi{\kf22} a{\kf44}mi{\kf40}ci{\kf22} vor{\kf22}rai{\kf22} in{\kf27}con{\kf40}tra{\kf40}re
+Dialogue: 0,0:01:37.52,0:01:40.56,DEFAULT,,0,0,0,,{\r}{\kf30}Pren{\kf20}di{\kf20} il{\kf51} volo,{\kf30} as{\kf35}col{\kf20}ta{\kf20} il{\kf51} cuo{\kf27}re
+Dialogue: 0,0:01:40.81,0:01:44.14,DEFAULT,,0,0,0,,{\r}{\kf18}E{\kf22} d'ogni{\kf22} av{\kf27}ven{\kf40}tu{\kf27}ra{\kf27} po{\kf22}trai{\kf27} af{\kf27}fron{\kf40}ta{\kf34}re
+Dialogue: 0,0:01:44.51,0:01:47.63,DEFAULT,,0,0,0,,{\r}{\kf47}Vo{\kf24}la{\kf24} e{\kf47} vai,{\kf24} My{\kf43} Lit{\kf24}tle{\kf52} Po{\kf27}ny
+Dialogue: 0,0:01:47.79,0:01:51.20,DEFAULT,,0,0,0,,{\r}{\kf28}Rea{\kf23}liz{\kf10}za{\kf10} i{\kf18} tuoi{\kf46} so{\kf32}gni{\kf23} e{\kf23} non{\kf18} ti{\kf28} fer{\kf46}ma{\kf36}re
+Dialogue: 0,0:01:51.49,0:01:53.01,DEFAULT,,0,0,0,,{\r}{\kf22}Non{\kf22} ti{\kf26} fer{\kf48}ma{\kf34}re
+Dialogue: 0,0:01:53.22,0:01:54.70,DEFAULT,,0,0,0,,{\r}{\kf22}Non{\kf22} ti{\kf22} fer{\kf48}ma{\kf34}re
+Dialogue: 0,0:01:54.99,0:01:58.31,DEFAULT,,0,0,0,,{\r}{\kf21}Non{\kf21} ti{\kf25} fer{\kf202}ma{\kf64}re
+Dialogue: 0,0:02:26.55,0:02:29.63,DEFAULT,,0,0,0,,{\r}{\kf46}Vo{\kf28}la{\kf14} e{\kf55} vai,{\kf18} My{\kf46} Lit{\kf23}tle{\kf55} Po{\kf23}ny
+Dialogue: 0,0:02:29.83,0:02:33.16,DEFAULT,,0,0,0,,{\r}{\kf18}Se{\kf27} nuo{\kf22}vi{\kf22} a{\kf44}mi{\kf36}ci{\kf27} vor{\kf18}rai{\kf18} in{\kf18}con{\kf58}tra{\kf25}re
+Dialogue: 0,0:02:33.53,0:02:36.62,DEFAULT,,0,0,0,,{\r}{\kf26}Pren{\kf26}di{\kf21} il{\kf56} volo,{\kf26} as{\kf31}col{\kf21}ta{\kf21} il{\kf56} cuo{\kf24}re
+Dialogue: 0,0:02:36.82,0:02:40.19,DEFAULT,,0,0,0,,{\r}{\kf22}E{\kf22} d'ogni{\kf22} av{\kf22}ven{\kf44}tu{\kf35}ra{\kf27} po{\kf18}trai{\kf27} af{\kf27}fron{\kf44}ta{\kf27}re
+Dialogue: 0,0:02:40.56,0:02:43.68,DEFAULT,,0,0,0,,{\r}{\kf53}Vo{\kf19}la{\kf19} e{\kf48} vai,{\kf24} My{\kf43} Lit{\kf24}tle{\kf53} Po{\kf29}ny
+Dialogue: 0,0:02:43.85,0:02:47.26,DEFAULT,,0,0,0,,{\r}{\kf24}Rea{\kf19}liz{\kf10}za{\kf10} i{\kf29} tuoi{\kf43} so{\kf34}gni{\kf19} e{\kf19} non{\kf19} ti{\kf29} fer{\kf43}ma{\kf43}re
+Dialogue: 0,0:02:47.51,0:02:48.94,DEFAULT,,0,0,0,,{\r}{\kf22}Non{\kf18} ti{\kf27} fer{\kf40}ma{\kf37}re
+Dialogue: 0,0:02:49.23,0:02:50.67,DEFAULT,,0,0,0,,{\r}{\kf26}Non{\kf22} ti{\kf22} fer{\kf44}ma{\kf30}re
+Dialogue: 0,0:02:50.96,0:02:54.33,DEFAULT,,0,0,0,,{\r}{\kf25}Non{\kf21} ti{\kf25} fer{\kf202}ma{\kf64}re
+Dialogue: 0,0:02:55.48,0:03:01.97,DEFAULT,,0,0,0,,{\r}{\kf189}Ooh{\kf48} yeah{\kf24} ye{\kf48}-ah{\kf39} eh,{\kf34} eh{\kf39} ye{\kf39}-ah{\kf39} yeah{\kf34} yeah{\kf24} yeah{\kf24} yeah{\kf68} yeah
+Dialogue: 0,0:03:02.51,0:03:09.00,DEFAULT,,0,0,0,,{\r}{\kf187}Ooh{\kf48} yeah{\kf29} ye{\kf48}-ah{\kf38} eh,{\kf34} eh{\kf38} ye{\kf38}-ah{\kf38} yeah{\kf34} yeah{\kf24} yeah{\kf24} yeah{\kf69} yeah
+Dialogue: 0,0:03:09.49,0:03:15.99,DEFAULT,,0,0,0,,{\r}{\kf187}Ooh{\kf48} yeah{\kf29} ye{\kf48}-ah{\kf38} eh,{\kf34} eh{\kf38} ye{\kf38}-ah{\kf38} yeah{\kf34} yeah{\kf24} yeah{\kf24} yeah{\kf69} yeah
+Dialogue: 0,0:03:16.52,0:03:23.01,DEFAULT,,0,0,0,,{\r}{\kf187}Ooh{\kf48} yeah{\kf29} ye{\kf48}-ah{\kf38} eh,{\kf34} eh{\kf38} ye{\kf38}-ah{\kf38} yeah{\kf34} yeah{\kf24} yeah{\kf24} yeah{\kf69} yeah

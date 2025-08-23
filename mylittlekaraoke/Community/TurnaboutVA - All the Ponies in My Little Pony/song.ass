@@ -1,60 +1,67 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: All the Ponies in My Little Pony
+Artist: TurnaboutVA
+Original Timing: mylittlekaraoke.com by Trappy Tickles
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:10.19,0:00:11.91,DEFAULT,,0,0,0,,{\kf12}Ap{\kf12}ple{\kf8}jack,{\kf12} Flut{\kf12}ter{\kf8}shy,{\kf12} Rain{\kf8}bow{\kf8} Dash,{\kf12} Pin{\kf8}kie{\kf8} Pie
-Dialogue: 0,0:00:12.06,0:00:13.18,DEFAULT,,0,0,0,,{\kf12}Ra{\kf12}ri{\kf8}ty,{\kf12} Twi{\kf8}light{\kf8} and{\kf23} Spike
-Dialogue: 0,0:00:13.93,0:00:15.65,DEFAULT,,0,0,0,,{\kf12}Swee{\kf8}tie{\kf8} Belle,{\kf12} Ap{\kf12}ple{\kf8}bloom,{\kf8} Babs{\kf8} Seed{\kf8} and{\kf12} Scoo{\kf12}ta{\kf8}loo
-Dialogue: 0,0:00:15.80,0:00:16.92,DEFAULT,,0,0,0,,{\kf12}Lu{\kf8}na{\kf12} Prin{\kf8}cess{\kf8} of{\kf8} the{\kf23} Night
-Dialogue: 0,0:00:17.14,0:00:19.39,DEFAULT,,0,0,0,,{\kf23}Vi{\kf8}nyl{\kf8} Scratch{\kf8} and{\kf8} Oc{\kf12}ta{\kf12}vi{\kf12}a,{\kf12} Prin{\kf12}cess{\kf8} Ce{\kf12}les{\kf8}ti{\kf8}a
-Dialogue: 0,0:00:19.50,0:00:20.81,DEFAULT,,0,0,0,,{\kf8}Ca{\kf8}dance{\kf8} and{\kf8} Shi{\kf8}ning{\kf12} Ar{\kf42}mor
-Dialogue: 0,0:00:21.33,0:00:23.06,DEFAULT,,0,0,0,,{\kf8}Fleur{\kf8} de{\kf8} Lis,{\kf12} Chee{\kf12}ri{\kf8}lee,{\kf8} then{\kf12} Cher{\kf8}ry{\kf12} Ju{\kf12}bi{\kf8}lee
-Dialogue: 0,0:00:23.21,0:00:24.40,DEFAULT,,0,0,0,,{\kf8}Blue{\kf8} Blood{\kf8} and{\kf8} May{\kf8}or{\kf8} Ma{\kf30}re
-Dialogue: 0,0:00:24.63,0:00:26.65,DEFAULT,,0,0,0,,{\kf38}Big{\kf8} Mac{\kf8}in{\kf8}tosh,{\kf8} Gran{\kf8}ny{\kf8} Smith,{\kf8} and{\kf8} Pho{\kf8}to{\kf8} Fi{\kf8}nish
-Dialogue: 0,0:00:26.80,0:00:28.22,DEFAULT,,0,0,0,,{\kf8}Both{\kf8} Fan{\kf8}cy{\kf8} Pants{\kf8} and{\kf8} Dar{\kf8}ing{\kf38} Do
-Dialogue: 0,0:00:28.59,0:00:30.39,DEFAULT,,0,0,0,,{\kf15}Then{\kf8} Lo{\kf8}tus{\kf8} and{\kf8} A{\kf8}loe,{\kf8} and{\kf8} Peach{\kf8}bot{\kf8}tom,{\kf8} Giz{\kf8}mo
-Dialogue: 0,0:00:30.54,0:00:32.19,DEFAULT,,0,0,0,,{\kf8}And{\kf8} Thun{\kf8}der{\kf8}lane,{\kf8} Blos{\kf8}som{\kf8}forth{\kf60} too!
-Dialogue: 0,0:00:35.25,0:00:36.68,DEFAULT,,0,0,0,,{\kf8}Hay{\kf8}seed{\kf8} and{\kf8} Stru{\kf8}del{\kf8} and{\kf8} Score,{\kf8} Spot{\kf8} and{\kf8} Dumb-Bell
-Dialogue: 0,0:00:36.83,0:00:38.10,DEFAULT,,0,0,0,,{\kf8}Then{\kf12} Clou{\kf8}dy{\kf8} Quartz,{\kf8} Ig{\kf8}ne{\kf8}ous{\kf23} Rock
-Dialogue: 0,0:00:38.77,0:00:40.42,DEFAULT,,0,0,0,,{\kf12}Limes{\kf8}tone{\kf8} and{\kf12} Mar{\kf8}ble{\kf8} Pie,{\kf12} Mis{\kf8}ter{\kf8} and{\kf15} Ms.{\kf8} Shy
-Dialogue: 0,0:00:40.53,0:00:41.46,DEFAULT,,0,0,0,,{\kf8}Maud,{\kf8} Ran{\kf8}dolf,{\kf8} I{\kf8}vo{\kf8}ry{\kf8} Rook
-Dialogue: 0,0:00:42.29,0:00:44.01,DEFAULT,,0,0,0,,{\kf12}Sun{\kf8}burst{\kf8} and{\kf12} Sil{\kf8}ver{\kf8} Spoon,{\kf12} Som{\kf8}bra{\kf8} and{\kf12} Night{\kf8}mare{\kf8} Moon
-Dialogue: 0,0:00:44.12,0:00:45.21,DEFAULT,,0,0,0,,{\kf8}Wind{\kf8} Ri{\kf8}der,{\kf8} Song{\kf8}bird{\kf8} Se{\kf23}renade
-Dialogue: 0,0:00:45.80,0:00:47.53,DEFAULT,,0,0,0,,{\kf12}Sil{\kf8}ver{\kf8} Frames,{\kf8} Swan{\kf8} Song,{\kf8} and{\kf12} Doc{\kf8}tor{\kf8} Ca{\kf12}bal{\kf12}le{\kf8}ron
-Dialogue: 0,0:00:47.64,0:00:48.57,DEFAULT,,0,0,0,,{\kf8}Ma{\kf8}ne-i{\kf8}ac,{\kf8} Roma,{\kf8} Mas{\kf8}que{\kf8}rade
-Dialogue: 0,0:00:48.87,0:00:50.89,DEFAULT,,0,0,0,,{\kf23}There's{\kf8} the{\kf8} Cake's{\kf8} and{\kf8} their{\kf8} chil{\kf8}dren,{\kf8} both{\kf8} Pound{\kf8} Cake{\kf8} and{\kf8} Pump{\kf8}kin
-Dialogue: 0,0:00:51.01,0:00:52.32,DEFAULT,,0,0,0,,{\kf8}Then{\kf8} Wal{\kf8}ter,{\kf8} and{\kf8} Don{\kf8}ny,{\kf8} the{\kf30} Dude
-Dialogue: 0,0:00:52.69,0:00:54.56,DEFAULT,,0,0,0,,{\kf8}Then{\kf8} Li{\kf8}l{\kf8}ac,{\kf8} Night{\kf8} Light,{\kf8} and{\kf8} Mud{\kf8}bri{\kf8}ar,{\kf8} Fi{\kf8}re{\kf8}light
-Dialogue: 0,0:00:54.67,0:00:55.98,DEFAULT,,0,0,0,,{\kf8}Au{\kf8}ra,{\kf8} Strike,{\kf8} Bolt,{\kf8} Din{\kf8}ky{\kf45} Doo!
-Dialogue: 0,0:00:59.05,0:01:00.70,DEFAULT,,0,0,0,,{\kf12}Pea{\kf8}chy{\kf8} Pie,{\kf12} Sun{\kf8}ny{\kf8} Daze,{\kf12} Sty{\kf12}gi{\kf8}an,{\kf8} Au{\kf8}tumn{\kf8} Blaze
-Dialogue: 0,0:01:00.81,0:01:01.89,DEFAULT,,0,0,0,,{\kf8}Snips{\kf8} and{\kf8} Snails{\kf8} and{\kf8} Fil{\kf8}thy{\kf23} Rich
-Dialogue: 0,0:01:02.12,0:01:04.14,DEFAULT,,0,0,0,,{\kf23}Dou{\kf8}ble{\kf12} Dia{\kf8}mond,{\kf8} Flash{\kf12} Sen{\kf8}try{\kf8} and{\kf12} Co{\kf8}co's{\kf8} boss{\kf12} Su{\kf8}ri
-Dialogue: 0,0:01:04.25,0:01:06.38,DEFAULT,,0,0,0,,{\kf8}And{\kf12} Dia{\kf8}mond{\kf8} Ti{\kf8}a{\kf8}ra's{\kf8} a...{\kf34} jerk.
-Dialogue: 0,0:01:06.98,0:01:08.55,DEFAULT,,0,0,0,,{\kf12}Am{\kf8}ber{\kf8} and{\kf12} A{\kf12}me{\kf8}thyst,{\kf8} then{\kf12} Gol{\kf8}den{\kf12} Har{\kf8}vest
-Dialogue: 0,0:01:08.70,0:01:09.68,DEFAULT,,0,0,0,,{\kf12}Fea{\kf12}ther{\kf8}weight,{\kf8} June{\kf8}bug{\kf8} and{\kf8} Joe
-Dialogue: 0,0:01:10.35,0:01:12.07,DEFAULT,,0,0,0,,{\kf8}Ze{\kf8}co{\kf8}ra,{\kf8} and{\kf8} Spoi{\kf8}led{\kf8} Rich,{\kf8} and{\kf8} then{\kf8} Cheese{\kf8} Sand{\kf8}wich
-Dialogue: 0,0:01:12.18,0:01:13.27,DEFAULT,,0,0,0,,{\kf8}Ms.{\kf8} Harsh{\kf8}whin{\kf8}ny,{\kf8} Flim{\kf8} and{\kf8} Flam{\kf8} Bros
-Dialogue: 0,0:01:13.57,0:01:15.59,DEFAULT,,0,0,0,,{\kf23}Oh!{\kf8} There's{\kf8} Tree{\kf8} Hug{\kf8}ger,{\kf8} Su{\kf8}gar{\kf8} Belle,{\kf8} Ro{\kf8}yal{\kf8} Riff,{\kf8} Par{\kf8}cel
-Dialogue: 0,0:01:15.70,0:01:17.16,DEFAULT,,0,0,0,,{\kf8}And{\kf8} Cae{\kf8}sar{\kf8} and{\kf8} Li{\kf8}ly,{\kf8} Star{\kf8} Ga{\kf30}zer
-Dialogue: 0,0:01:17.61,0:01:19.03,DEFAULT,,0,0,0,,{\kf8}Gol{\kf8}den{\kf8} Grape,{\kf8} Ber{\kf8}ry{\kf8}shine,{\kf8} Lyri{\kf8}ca,{\kf8} Shoe{\kf8}shine
-Dialogue: 0,0:01:19.18,0:01:20.98,DEFAULT,,0,0,0,,{\kf8}And{\kf8} Light{\kf8}ning{\kf8} Dust,{\kf8} Flit{\kf8}ter,{\kf8} Cloud{\kf15}cha{\kf53}ser
-Dialogue: 0,0:01:23.59,0:01:25.05,DEFAULT,,0,0,0,,{\kf8}Da{\kf8}ven{\kf8}port,{\kf8} Sil{\kf8}vers{\kf8}tar,{\kf8} Ten{\kf8}der{\kf8} Taps,{\kf8} Sound{\kf8}bar
-Dialogue: 0,0:01:25.17,0:01:26.66,DEFAULT,,0,0,0,,{\kf8}Then{\kf8} Quib{\kf8}ble{\kf8} Pants{\kf8} and{\kf8} Fea{\kf8}ther{\kf23} Bangs{\kf12} (Tri{\kf8}xie!)
-Dialogue: 0,0:01:26.81,0:01:28.31,DEFAULT,,0,0,0,,{\kf8}Screw{\kf8}ball{\kf8} and{\kf8} Flur{\kf8}ry{\kf8} Heart,{\kf8} Lead{\kf8} Wing,{\kf8} Flo{\kf8}ri{\kf8}na{\kf8} Tart
-Dialogue: 0,0:01:28.42,0:01:29.51,DEFAULT,,0,0,0,,{\kf8}Jo{\kf8}na{\kf8}gold,{\kf8} Fi{\kf8}dd{\kf8}ly{\kf30} Twang
-Dialogue: 0,0:01:29.96,0:01:31.53,DEFAULT,,0,0,0,,{\kf12}Sven{\kf12}gal{\kf8}lop,{\kf8} Tem{\kf8}pest{\kf8} Sha{\kf8}dow,{\kf8} Star{\kf8}light,{\kf8} Co{\kf8}zy{\kf8} Glow
-Dialogue: 0,0:01:31.64,0:01:32.57,DEFAULT,,0,0,0,,{\kf8}Shoot{\kf8}ing{\kf8} Star,{\kf8} Sir{\kf8} Po{\kf8}ny{\kf15} Moore
-Dialogue: 0,0:01:33.10,0:01:34.67,DEFAULT,,0,0,0,,{\kf8}Star{\kf8} Swirl,{\kf8} Se{\kf8}re{\kf8}nea,{\kf8} Sa{\kf8}voir{\kf8} Fare,{\kf8} Vi{\kf8}da{\kf8}la
-Dialogue: 0,0:01:34.82,0:01:35.64,DEFAULT,,0,0,0,,{\kf8}Tren{\kf8}der{\kf8}hoof,{\kf8} Sap{\kf8}phi{\kf8}re{\kf8} Shores
-Dialogue: 0,0:01:36.02,0:01:37.78,DEFAULT,,0,0,0,,{\kf23}Hoi{\kf8}ty{\kf8} Toi{\kf8}ty{\kf8} then{\kf8} Vel{\kf8}vet{\kf8} and{\kf8} Up{\kf8}per{\kf8} Crust,{\kf8} Jet{\kf8} Set
-Dialogue: 0,0:01:37.89,0:01:39.23,DEFAULT,,0,0,0,,{\kf8}Stel{\kf8}lar{\kf8} E{\kf8}clipse,{\kf8} Ted{\kf8}die{\kf8} Sa{\kf8}fa{\kf30}ri
-Dialogue: 0,0:01:39.61,0:01:41.18,DEFAULT,,0,0,0,,{\kf8}Moon{\kf8} Dan{\kf8}cer,{\kf8} An{\kf8}gel{\kf8} Wings,{\kf8} Bon{\kf8} Bon,{\kf8} Ly{\kf8}ra{\kf8} Heart{\kf8}strings
-Dialogue: 0,0:01:41.78,0:01:43.35,DEFAULT,,0,0,0,,{\kf8}Mane{\kf8} All{\kf8}good,{\kf8} Snap{\kf8}shut{\kf8}ter,{\kf8} Bright{\kf8} Mac{\kf8} and{\kf8} Pear{\kf8} But{\kf8}ter
-Dialogue: 0,0:01:43.46,0:01:46.19,DEFAULT,,0,0,0,,{\kf8}Va{\kf8}por{\kf12} Trail,{\kf12} Sky{\kf12} Stin{\kf8}ger,{\kf12} Bulk{\kf12} Bi{\kf12}ceps,{\kf12} Ze{\kf8}phyr{\kf12} Breeze,{\kf12} Doc{\kf8}tor{\kf8} Whooves,{\kf8} Saf{\kf8}fron{\kf8} and{\kf12} Der{\kf23}py!
+Dialogue: 0,0:00:10.19,0:00:11.91,DEFAULT,,0,0,0,,{\r}{\kf17}Ap{\kf17}ple{\kf11}jack,{\kf17} Flut{\kf17}ter{\kf11}shy,{\kf17} Rain{\kf11}bow{\kf11} Dash,{\kf17} Pin{\kf11}kie{\kf15} Pie
+Dialogue: 0,0:00:12.06,0:00:13.18,DEFAULT,,0,0,0,,{\r}{\kf16}Ra{\kf16}ri{\kf11}ty,{\kf16} Twi{\kf11}light{\kf11} and{\kf31} Spike
+Dialogue: 0,0:00:13.93,0:00:15.65,DEFAULT,,0,0,0,,{\r}{\kf18}Swee{\kf12}tie{\kf12} Belle,{\kf18} Ap{\kf18}ple{\kf12}bloom,{\kf12} Babs{\kf12} Seed{\kf12} and{\kf18} Scoo{\kf18}ta{\kf10}loo
+Dialogue: 0,0:00:15.80,0:00:16.92,DEFAULT,,0,0,0,,{\r}{\kf17}Lu{\kf11}na{\kf17} Prin{\kf11}cess{\kf11} of{\kf11} the{\kf34} Night
+Dialogue: 0,0:00:17.15,0:00:19.39,DEFAULT,,0,0,0,,{\r}{\kf35}Vi{\kf12}nyl{\kf12} Scratch{\kf12} and{\kf12} Oc{\kf18}ta{\kf18}vi{\kf18}a,{\kf18} Prin{\kf18}cess{\kf12} Ce{\kf18}les{\kf12}ti{\kf10}a
+Dialogue: 0,0:00:19.51,0:00:20.82,DEFAULT,,0,0,0,,{\r}{\kf11}Ca{\kf11}dance{\kf11} and{\kf11} Shi{\kf11}ning{\kf16} Ar{\kf60}mor
+Dialogue: 0,0:00:21.34,0:00:23.06,DEFAULT,,0,0,0,,{\r}{\kf12}Fleur{\kf12} de{\kf12} Lis,{\kf18} Chee{\kf18}ri{\kf12}lee,{\kf12} then{\kf18} Cher{\kf12}ry{\kf18} Ju{\kf18}bi{\kf10}lee
+Dialogue: 0,0:00:23.21,0:00:24.41,DEFAULT,,0,0,0,,{\r}{\kf12}Blue{\kf12} Blood{\kf12} and{\kf12} May{\kf12}or{\kf12} Ma{\kf48}re
+Dialogue: 0,0:00:24.63,0:00:26.65,DEFAULT,,0,0,0,,{\r}{\kf63}Big{\kf13} Mac{\kf13}in{\kf13}tosh,{\kf13} Gran{\kf13}ny{\kf13} Smith,{\kf13} and{\kf13} Pho{\kf13}to{\kf13} Fi{\kf10}nish
+Dialogue: 0,0:00:26.80,0:00:28.22,DEFAULT,,0,0,0,,{\r}{\kf12}Both{\kf12} Fan{\kf12}cy{\kf12} Pants{\kf12} and{\kf12} Dar{\kf12}ing{\kf58} Do
+Dialogue: 0,0:00:28.60,0:00:30.39,DEFAULT,,0,0,0,,{\r}{\kf28}Then{\kf14} Lo{\kf14}tus{\kf14} and{\kf14} A{\kf14}loe,{\kf14} and{\kf14} Peach{\kf14}bot{\kf14}tom,{\kf14} Giz{\kf12}mo
+Dialogue: 0,0:00:30.54,0:00:32.19,DEFAULT,,0,0,0,,{\r}{\kf11}And{\kf11} Thun{\kf11}der{\kf11}lane,{\kf11} Blos{\kf11}som{\kf11}forth{\kf88} too!
+Dialogue: 0,0:00:35.26,0:00:36.68,DEFAULT,,0,0,0,,{\r}{\kf14}Hay{\kf14}seed{\kf14} and{\kf14} Stru{\kf14}del{\kf14} and{\kf14} Score,{\kf14} Spot{\kf14} and{\kf16} Dumb-Bell
+Dialogue: 0,0:00:36.83,0:00:38.10,DEFAULT,,0,0,0,,{\r}{\kf12}Then{\kf18} Clou{\kf12}dy{\kf12} Quartz,{\kf12} Ig{\kf12}ne{\kf12}ous{\kf37} Rock
+Dialogue: 0,0:00:38.78,0:00:40.42,DEFAULT,,0,0,0,,{\r}{\kf18}Limes{\kf12}tone{\kf12} and{\kf18} Mar{\kf12}ble{\kf12} Pie,{\kf18} Mis{\kf12}ter{\kf12} and{\kf24} Ms.{\kf15} Shy
+Dialogue: 0,0:00:40.53,0:00:41.47,DEFAULT,,0,0,0,,{\r}{\kf13}Maud,{\kf13} Ran{\kf13}dolf,{\kf13} I{\kf13}vo{\kf13}ry{\kf16} Rook
+Dialogue: 0,0:00:42.29,0:00:44.01,DEFAULT,,0,0,0,,{\r}{\kf18}Sun{\kf12}burst{\kf12} and{\kf18} Sil{\kf12}ver{\kf12} Spoon,{\kf18} Som{\kf12}bra{\kf12} and{\kf18} Night{\kf12}mare{\kf16} Moon
+Dialogue: 0,0:00:44.13,0:00:45.21,DEFAULT,,0,0,0,,{\r}{\kf12}Wind{\kf12} Ri{\kf12}der,{\kf12} Song{\kf12}bird{\kf12} Se{\kf37}renade
+Dialogue: 0,0:00:45.81,0:00:47.53,DEFAULT,,0,0,0,,{\r}{\kf18}Sil{\kf12}ver{\kf12} Frames,{\kf12} Swan{\kf12} Song,{\kf12} and{\kf18} Doc{\kf12}tor{\kf12} Ca{\kf18}bal{\kf18}le{\kf16}ron
+Dialogue: 0,0:00:47.64,0:00:48.58,DEFAULT,,0,0,0,,{\r}{\kf13}Ma{\kf13}ne-i{\kf13}ac,{\kf13} Roma,{\kf13} Mas{\kf13}que{\kf16}rade
+Dialogue: 0,0:00:48.88,0:00:50.90,DEFAULT,,0,0,0,,{\r}{\kf40}There's{\kf13} the{\kf13} Cake's{\kf13} and{\kf13} their{\kf13} chil{\kf13}dren,{\kf13} both{\kf13} Pound{\kf13} Cake{\kf13} and{\kf13} Pump{\kf19}kin
+Dialogue: 0,0:00:51.01,0:00:52.32,DEFAULT,,0,0,0,,{\r}{\kf12}Then{\kf12} Wal{\kf12}ter,{\kf12} and{\kf12} Don{\kf12}ny,{\kf12} the{\kf47} Dude
+Dialogue: 0,0:00:52.69,0:00:54.57,DEFAULT,,0,0,0,,{\r}{\kf14}Then{\kf14} Li{\kf14}l{\kf14}ac,{\kf14} Night{\kf14} Light,{\kf14} and{\kf14} Mud{\kf14}bri{\kf14}ar,{\kf14} Fi{\kf14}re{\kf19}light
+Dialogue: 0,0:00:54.68,0:00:55.99,DEFAULT,,0,0,0,,{\r}{\kf11}Au{\kf11}ra,{\kf11} Strike,{\kf11} Bolt,{\kf11} Din{\kf11}ky{\kf65} Doo!
+Dialogue: 0,0:00:59.06,0:01:00.70,DEFAULT,,0,0,0,,{\r}{\kf18}Pea{\kf12}chy{\kf12} Pie,{\kf18} Sun{\kf12}ny{\kf12} Daze,{\kf18} Sty{\kf18}gi{\kf12}an,{\kf12} Au{\kf12}tumn{\kf10} Blaze
+Dialogue: 0,0:01:00.81,0:01:01.90,DEFAULT,,0,0,0,,{\r}{\kf12}Snips{\kf12} and{\kf12} Snails{\kf12} and{\kf12} Fil{\kf12}thy{\kf37} Rich
+Dialogue: 0,0:01:02.12,0:01:04.14,DEFAULT,,0,0,0,,{\r}{\kf36}Dou{\kf12}ble{\kf18} Dia{\kf12}mond,{\kf12} Flash{\kf18} Sen{\kf12}try{\kf12} and{\kf18} Co{\kf12}co's{\kf12} boss{\kf18} Su{\kf10}ri
+Dialogue: 0,0:01:04.26,0:01:06.39,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf27} Dia{\kf18}mond{\kf18} Ti{\kf18}a{\kf18}ra's{\kf18} a...{\kf78} jerk.
+Dialogue: 0,0:01:06.99,0:01:08.56,DEFAULT,,0,0,0,,{\r}{\kf17}Am{\kf12}ber{\kf12} and{\kf17} A{\kf17}me{\kf12}thyst,{\kf12} then{\kf17} Gol{\kf12}den{\kf17} Har{\kf12}vest
+Dialogue: 0,0:01:08.71,0:01:09.68,DEFAULT,,0,0,0,,{\r}{\kf18}Fea{\kf18}ther{\kf12}weight,{\kf12} June{\kf12}bug{\kf12} and{\kf13} Joe
+Dialogue: 0,0:01:10.35,0:01:12.08,DEFAULT,,0,0,0,,{\r}{\kf14}Ze{\kf14}co{\kf14}ra,{\kf14} and{\kf14} Spoi{\kf14}led{\kf14} Rich,{\kf14} and{\kf14} then{\kf14} Cheese{\kf14} Sand{\kf18}wich
+Dialogue: 0,0:01:12.19,0:01:13.27,DEFAULT,,0,0,0,,{\r}{\kf14}Ms.{\kf14} Harsh{\kf14}whin{\kf14}ny,{\kf14} Flim{\kf14} and{\kf14} Flam{\kf11} Bros
+Dialogue: 0,0:01:13.57,0:01:15.59,DEFAULT,,0,0,0,,{\r}{\kf40}Oh!{\kf13} There's{\kf13} Tree{\kf13} Hug{\kf13}ger,{\kf13} Su{\kf13}gar{\kf13} Belle,{\kf13} Ro{\kf13}yal{\kf13} Riff,{\kf13} Par{\kf19}cel
+Dialogue: 0,0:01:15.71,0:01:17.16,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf12} Cae{\kf12}sar{\kf12} and{\kf12} Li{\kf12}ly,{\kf12} Star{\kf12} Ga{\kf50}zer
+Dialogue: 0,0:01:17.61,0:01:19.04,DEFAULT,,0,0,0,,{\r}{\kf14}Gol{\kf14}den{\kf14} Grape,{\kf14} Ber{\kf14}ry{\kf14}shine,{\kf14} Lyri{\kf14}ca,{\kf14} Shoe{\kf16}shine
+Dialogue: 0,0:01:19.18,0:01:20.98,DEFAULT,,0,0,0,,{\r}{\kf11}And{\kf11} Light{\kf11}ning{\kf11} Dust,{\kf11} Flit{\kf11}ter,{\kf11} Cloud{\kf22}cha{\kf81}ser
+Dialogue: 0,0:01:23.60,0:01:25.06,DEFAULT,,0,0,0,,{\r}{\kf13}Da{\kf13}ven{\kf13}port,{\kf13} Sil{\kf13}vers{\kf13}tar,{\kf13} Ten{\kf13}der{\kf13} Taps,{\kf13} Sound{\kf16}bar
+Dialogue: 0,0:01:25.17,0:01:26.67,DEFAULT,,0,0,0,,{\r}{\kf12}Then{\kf12} Quib{\kf12}ble{\kf12} Pants{\kf12} and{\kf12} Fea{\kf12}ther{\kf36} Bangs{\kf18} (Tri{\kf12}xie!)
+Dialogue: 0,0:01:26.82,0:01:28.31,DEFAULT,,0,0,0,,{\r}{\kf13}Screw{\kf13}ball{\kf13} and{\kf13} Flur{\kf13}ry{\kf13} Heart,{\kf13} Lead{\kf13} Wing,{\kf13} Flo{\kf13}ri{\kf13}na{\kf10} Tart
+Dialogue: 0,0:01:28.43,0:01:29.51,DEFAULT,,0,0,0,,{\r}{\kf11}Jo{\kf11}na{\kf11}gold,{\kf11} Fi{\kf11}dd{\kf11}ly{\kf43} Twang
+Dialogue: 0,0:01:29.96,0:01:31.53,DEFAULT,,0,0,0,,{\r}{\kf18}Sven{\kf18}gal{\kf12}lop,{\kf12} Tem{\kf12}pest{\kf12} Sha{\kf12}dow,{\kf12} Star{\kf12}light,{\kf12} Co{\kf12}zy{\kf13} Glow
+Dialogue: 0,0:01:31.64,0:01:32.58,DEFAULT,,0,0,0,,{\r}{\kf12}Shoot{\kf12}ing{\kf12} Star,{\kf12} Sir{\kf12} Po{\kf12}ny{\kf22} Moore
+Dialogue: 0,0:01:33.10,0:01:34.67,DEFAULT,,0,0,0,,{\r}{\kf14}Star{\kf14} Swirl,{\kf14} Se{\kf14}re{\kf14}nea,{\kf14} Sa{\kf14}voir{\kf14} Fare,{\kf14} Vi{\kf14}da{\kf17}la
+Dialogue: 0,0:01:34.82,0:01:35.65,DEFAULT,,0,0,0,,{\r}{\kf12}Tren{\kf12}der{\kf12}hoof,{\kf12} Sap{\kf12}phi{\kf12}re{\kf10} Shores
+Dialogue: 0,0:01:36.02,0:01:37.78,DEFAULT,,0,0,0,,{\r}{\kf35}Hoi{\kf12}ty{\kf12} Toi{\kf12}ty{\kf12} then{\kf12} Vel{\kf12}vet{\kf12} and{\kf12} Up{\kf12}per{\kf12} Crust,{\kf12} Jet{\kf10} Set
+Dialogue: 0,0:01:37.89,0:01:39.24,DEFAULT,,0,0,0,,{\r}{\kf11}Stel{\kf11}lar{\kf11} E{\kf11}clipse,{\kf11} Ted{\kf11}die{\kf11} Sa{\kf11}fa{\kf47}ri
+Dialogue: 0,0:01:39.61,0:01:41.19,DEFAULT,,0,0,0,,{\r}{\kf13}Moon{\kf13} Dan{\kf13}cer,{\kf13} An{\kf13}gel{\kf13} Wings,{\kf13} Bon{\kf13} Bon,{\kf13} Ly{\kf13}ra{\kf13} Heart{\kf14}strings
+Dialogue: 0,0:01:41.78,0:01:43.36,DEFAULT,,0,0,0,,{\r}{\kf13}Mane{\kf13} All{\kf13}good,{\kf13} Snap{\kf13}shut{\kf13}ter,{\kf13} Bright{\kf13} Mac{\kf13} and{\kf13} Pear{\kf13} But{\kf14}ter
+Dialogue: 0,0:01:43.47,0:01:46.20,DEFAULT,,0,0,0,,{\r}{\kf10}Va{\kf10}por{\kf15} Trail,{\kf15} Sky{\kf15} Stin{\kf10}ger,{\kf15} Bulk{\kf15} Bi{\kf15}ceps,{\kf15} Ze{\kf10}phyr{\kf15} Breeze,{\kf15} Doc{\kf10}tor{\kf10} Whooves,{\kf10} Saf{\kf10}fron{\kf10} and{\kf15} Der{\kf33}py!

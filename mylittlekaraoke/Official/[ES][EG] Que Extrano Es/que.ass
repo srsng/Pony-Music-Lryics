@@ -1,33 +1,40 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Que Extraño Es
+Artist: Equestria Girls
+Original Timing: mylittlekaraoke.com by TOM
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.18,0:00:08.80,DEFAULT,,0,0,0,,{\kf12}Nun{\kf23}ca{\kf12} antes{\kf27} vi {\kf12} algo{\kf42} igual
-Dialogue: 0,0:00:09.03,0:00:10.62,DEFAULT,,0,0,0,,{\kf16}a{\kf42} este{\kf35} lu{\kf42}gar
-Dialogue: 0,0:00:11.19,0:00:12.86,DEFAULT,,0,0,0,,{\kf16}Todo{\kf12} es{\kf23}ta{\kf12} cam{\kf23}bi{\kf12}a{\kf35}do
-Dialogue: 0,0:00:12.86,0:00:14.79,DEFAULT,,0,0,0,,{\kf12}Y{\kf19} es{\kf16}te{\kf23} mundo{\kf16} de{\kf16} ca{\kf19}beza{\kf27} está
-Dialogue: 0,0:00:15.06,0:00:16.23,DEFAULT,,0,0,0,,{\kf19}Uso{\kf16} ya{\kf16} dos{\kf16} pi{\kf27}es
-Dialogue: 0,0:00:16.50,0:00:18.16,DEFAULT,,0,0,0,,{\kf16}eso{\kf16} es{\kf23} al{\kf16}go{\kf19} que{\kf12} no{\kf35} sé
-Dialogue: 0,0:00:18.54,0:00:20.44,DEFAULT,,0,0,0,,{\kf16}Po{\kf19}co{\kf19} ti{\kf19}em{\kf19}po{\kf19} los{\kf16} ten{\kf23}dré
-Dialogue: 0,0:00:20.70,0:00:22.56,DEFAULT,,0,0,0,,{\kf16}Mu{\kf12}cho{\kf23} ten{\kf16}go{\kf16} que{\kf16} apren{\kf42}der
-Dialogue: 0,0:00:29.98,0:00:31.69,DEFAULT,,0,0,0,,{\kf16}A{\kf23}quí{\kf19} na{\kf19}die{\kf16} usa{\kf16} ma{\kf27}gia
-Dialogue: 0,0:00:31.88,0:00:33.54,DEFAULT,,0,0,0,,{\kf12}O{\kf19} a{\kf16}las{\kf19} al{\kf19} vo{\kf46}lar
-Dialogue: 0,0:00:34.04,0:00:35.74,DEFAULT,,0,0,0,,{\kf19}Es{\kf16}ta{\kf19} ro{\kf19}pa{\kf16} no{\kf12} es{\kf27} usual
-Dialogue: 0,0:00:35.93,0:00:37.64,DEFAULT,,0,0,0,,{\kf23}Mi{\kf16} na{\kf23}riz{\kf12} pe{\kf19}que{\kf16}ña{\kf27} está
-Dialogue: 0,0:00:37.90,0:00:39.26,DEFAULT,,0,0,0,,{\kf16}To{\kf16}do{\kf23} es{\kf16} con{\kf16}fu{\kf19}so
-Dialogue: 0,0:00:39.30,0:00:41.08,DEFAULT,,0,0,0,,{\kf19}Aun{\kf12}que{\kf46} nue{\kf27}vo{\kf16} e{\kf35}s
-Dialogue: 0,0:00:41.42,0:00:43.05,DEFAULT,,0,0,0,,{\kf8}pero{\kf8} lo{\kf19} ana{\kf16}lizo{\kf19} y{\kf12} sien{\kf19}to{\kf16} que
-Dialogue: 0,0:00:43.09,0:00:45.44,DEFAULT,,0,0,0,,{\kf23}Es{\kf12} al{\kf27}go{\kf16} fa{\kf16}mi{\kf16}liar{\kf16} tam{\kf16}bi{\kf46}én
-Dialogue: 0,0:00:51.69,0:00:55.82,DEFAULT,,0,0,0,,{\kf19}Que{\kf12} ex{\kf46}tra{\kf35}ño{\kf69} es{\kf201}~
-Dialogue: 0,0:00:56.69,0:00:59.27,DEFAULT,,0,0,0,,{\kf12}Al{\kf23} mun{\kf19}do{\kf19} tra{\kf19}to{\kf42} de en{\kf31}ten{\kf27}der{\kf23}~
-Dialogue: 0,0:00:59.31,0:01:03.25,DEFAULT,,0,0,0,,{\kf19}pe{\kf16}ro{\kf31} ex{\kf19}tra{\kf46}ño{\kf72} es{\kf179}~
-Dialogue: 0,0:01:04.57,0:01:06.88,DEFAULT,,0,0,0,,{\kf19}Todo{\kf16} a{\kf16}quí{\kf12} es{\kf50} impre{\kf35}sio{\kf46}nante
-Dialogue: 0,0:01:06.92,0:01:10.10,DEFAULT,,0,0,0,,{\kf19}Pe{\kf12}ro{\kf23} ex{\kf19}tra{\kf38}ño{\kf179} es
-Dialogue: 0,0:01:10.71,0:01:14.31,DEFAULT,,0,0,0,,{\kf19}Que{\kf12} ex{\kf38}tra{\kf12}ño{\kf216} es
+Dialogue: 0,0:00:07.18,0:00:08.81,DEFAULT,,0,0,0,,{\r}{\kf15}Nun{\kf30}ca{\kf15} antes{\kf35} vi{\kf15} algo{\kf53} igual
+Dialogue: 0,0:00:09.04,0:00:10.63,DEFAULT,,0,0,0,,{\r}{\kf18}a{\kf50} este{\kf41} lu{\kf50}gar
+Dialogue: 0,0:00:11.20,0:00:12.86,DEFAULT,,0,0,0,,{\r}{\kf20}Todo{\kf15} es{\kf29}ta{\kf15} cam{\kf29}bi{\kf15}a{\kf44}do
+Dialogue: 0,0:00:12.86,0:00:14.80,DEFAULT,,0,0,0,,{\r}{\kf15}Y{\kf25} es{\kf20}te{\kf30} mundo{\kf20} de{\kf20} ca{\kf25}beza{\kf38} está
+Dialogue: 0,0:00:15.06,0:00:16.23,DEFAULT,,0,0,0,,{\r}{\kf24}Uso{\kf20} ya{\kf20} dos{\kf20} pi{\kf33}es
+Dialogue: 0,0:00:16.50,0:00:18.17,DEFAULT,,0,0,0,,{\r}{\kf19}eso{\kf19} es{\kf29} al{\kf19}go{\kf24} que{\kf14} no{\kf43} sé
+Dialogue: 0,0:00:18.55,0:00:20.44,DEFAULT,,0,0,0,,{\r}{\kf19}Po{\kf24}co{\kf24} ti{\kf24}em{\kf24}po{\kf24} los{\kf19} ten{\kf31}dré
+Dialogue: 0,0:00:20.71,0:00:22.56,DEFAULT,,0,0,0,,{\r}{\kf21}Mu{\kf16}cho{\kf31} ten{\kf21}go{\kf21} que{\kf21} apren{\kf55}der
+Dialogue: 0,0:00:29.99,0:00:31.69,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf29}quí{\kf24} na{\kf24}die{\kf19} usa{\kf19} ma{\kf36}gia
+Dialogue: 0,0:00:31.88,0:00:33.55,DEFAULT,,0,0,0,,{\r}{\kf15}O{\kf25} a{\kf20}las{\kf25} al{\kf25} vo{\kf57}lar
+Dialogue: 0,0:00:34.04,0:00:35.75,DEFAULT,,0,0,0,,{\r}{\kf26}Es{\kf21}ta{\kf26} ro{\kf26}pa{\kf21} no{\kf15} es{\kf35} usual
+Dialogue: 0,0:00:35.94,0:00:37.64,DEFAULT,,0,0,0,,{\r}{\kf29}Mi{\kf19} na{\kf29}riz{\kf15} pe{\kf24}que{\kf19}ña{\kf35} está
+Dialogue: 0,0:00:37.91,0:00:39.27,DEFAULT,,0,0,0,,{\r}{\kf20}To{\kf20}do{\kf30} es{\kf20} con{\kf20}fu{\kf26}so
+Dialogue: 0,0:00:39.31,0:00:41.09,DEFAULT,,0,0,0,,{\r}{\kf22}Aun{\kf13}que{\kf53} nue{\kf31}vo{\kf18} e{\kf41}s
+Dialogue: 0,0:00:41.43,0:00:43.06,DEFAULT,,0,0,0,,{\r}{\kf11}pero{\kf11} lo{\kf27} ana{\kf22}lizo{\kf27} y{\kf16} sien{\kf27}to{\kf22} que
+Dialogue: 0,0:00:43.10,0:00:45.45,DEFAULT,,0,0,0,,{\r}{\kf29}Es{\kf15} al{\kf34}go{\kf20} fa{\kf20}mi{\kf20}liar{\kf20} tam{\kf20}bi{\kf57}én
+Dialogue: 0,0:00:51.70,0:00:55.83,DEFAULT,,0,0,0,,{\r}{\kf21}Que{\kf12} ex{\kf50}tra{\kf37}ño{\kf74} es{\kf219}~
+Dialogue: 0,0:00:56.70,0:00:59.27,DEFAULT,,0,0,0,,{\r}{\kf14}Al{\kf28} mun{\kf23}do{\kf23} tra{\kf23}to{\kf51} de en{\kf37}ten{\kf32}der{\kf27}~
+Dialogue: 0,0:00:59.31,0:01:03.25,DEFAULT,,0,0,0,,{\r}{\kf20}pe{\kf16}ro{\kf32} ex{\kf20}tra{\kf47}ño{\kf75} es{\kf184}~
+Dialogue: 0,0:01:04.58,0:01:06.89,DEFAULT,,0,0,0,,{\r}{\kf23}Todo{\kf18} a{\kf18}quí{\kf14} es{\kf60} impre{\kf42}sio{\kf56}nante
+Dialogue: 0,0:01:06.93,0:01:10.11,DEFAULT,,0,0,0,,{\r}{\kf21}Pe{\kf13}ro{\kf25} ex{\kf21}tra{\kf42}ño{\kf196} es
+Dialogue: 0,0:01:10.72,0:01:14.31,DEFAULT,,0,0,0,,{\r}{\kf23}Que{\kf14} ex{\kf46}tra{\kf14}ño{\kf263} es

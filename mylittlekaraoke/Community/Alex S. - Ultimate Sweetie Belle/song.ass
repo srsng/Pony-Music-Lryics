@@ -1,88 +1,95 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Ultimate Sweetie Belle
+Artist: Alex S
+Original Timing: mylittlekaraoke.com by Nicolas Ha, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.66,0:00:11.37,DEFAULT,,0,0,0,,{\kf24}Aah{\kf24} oh{\kf24} ah{\kf20} ee{\kf20} aw{\kf20} ee{\kf8} aw{\kf12}~{\kf8} aa{\kf12} ooo{\kf8}~{\kf24} oh
-Dialogue: 0,0:00:11.49,0:00:15.29,DEFAULT,,0,0,0,,{\kf24}Aah{\kf24} oh{\kf24} ah{\kf20} ee{\kf20} aw{\kf20} ee{\kf12} ooiyah{\kf12}~{\kf20}~{\kf12} ooiyah{\kf12}~{\kf20}~
-Dialogue: 0,0:00:15.33,0:00:19.05,DEFAULT,,0,0,0,,{\kf24}Aah{\kf24} oh{\kf24} ah{\kf20} ee{\kf20} aw{\kf20} ee{\kf8} aw{\kf12}~{\kf8} aa{\kf12} ooo{\kf8}~{\kf24} oh
-Dialogue: 0,0:00:19.17,0:00:22.97,DEFAULT,,0,0,0,,{\kf24}Aah{\kf24} oh{\kf24} ah{\kf20} ee{\kf20} aw{\kf20} ee{\kf12} ooiyah{\kf12}~{\kf20}~{\kf12} ooiyah{\kf12}~{\kf20}~
-Dialogue: 0,0:00:23.01,0:00:26.73,DEFAULT,,0,0,0,,{\kf24}Aah{\kf24} oh{\kf24} ah{\kf20} ee{\kf20} aw{\kf20} ee{\kf8} aw{\kf12}~{\kf8} aa{\kf12} ooo{\kf8}~{\kf24} oh
-Dialogue: 0,0:00:26.85,0:00:30.65,DEFAULT,,0,0,0,,{\kf24}Aah{\kf36} oh{\kf36} ah{\kf20} ee{\kf20} aw{\kf20} ee{\kf12} ooiyah{\kf12}~{\kf20}~{\kf12} ooiyah{\kf12}~{\kf20}~
-Dialogue: 0,0:00:30.69,0:00:34.41,DEFAULT,,0,0,0,,{\kf24}Aah{\kf36} oh{\kf36} ah{\kf20} ee{\kf20} aw{\kf20} ee{\kf8} aw{\kf12}~{\kf8} aa{\kf12} ooo{\kf8}~{\kf24} oh
-Dialogue: 0,0:00:34.53,0:00:37.85,DEFAULT,,0,0,0,,{\kf24}Aah{\kf36} oh{\kf36} ah{\kf20} ee{\kf20} aw{\kf20} ee{\kf12} ooiyah{\kf12}~{\kf20}~
-Dialogue: 0,0:00:38.61,0:00:42.17,DEFAULT,,0,0,0,,{\kf20}Oh{\kf48}aah{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~{\kf12} eaeah{\kf12}~{\kf12}~{\kf24}~{\kf12} ohh{\kf12}~{\kf12}~{\kf12}~{\kf32}~
-Dialogue: 0,0:00:42.45,0:00:46.01,DEFAULT,,0,0,0,,{\kf20}Oh{\kf20} aah{\kf20} ee{\kf44} yea{\kf44} ah{\kf20} ah{\kf8} a{\kf8} a{\kf20} ee{\kf8} ee{\kf12} ooiyah{\kf12}~{\kf20}~{\kf12} ooiyah{\kf12}~{\kf20}~
-Dialogue: 0,0:00:46.29,0:00:49.85,DEFAULT,,0,0,0,,{\kf20}Oh{\kf48} aah{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~{\kf12} eaeah{\kf12}~{\kf12}~{\kf24}~{\kf12} ohh{\kf12}~{\kf12}~{\kf12}~{\kf32}~
-Dialogue: 0,0:00:50.13,0:00:53.69,DEFAULT,,0,0,0,,{\kf20}Oh{\kf20} aah{\kf20} ee{\kf44} yea{\kf44} ah{\kf20} ah{\kf8} a{\kf8} a{\kf20} ee{\kf8} ee{\kf12} ooiyah{\kf12}~{\kf20}~{\kf12} ooiyah{\kf12}~{\kf20}~
-Dialogue: 0,0:00:53.97,0:00:57.53,DEFAULT,,0,0,0,,{\kf20}Oh{\kf48} aah{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~{\kf12} eaeah{\kf12}~{\kf12}~{\kf24}~{\kf12} ohh{\kf12}~{\kf12}~{\kf12}~{\kf32}~
-Dialogue: 0,0:00:57.81,0:01:01.37,DEFAULT,,0,0,0,,{\kf20}Oh{\kf20} aah{\kf20} ee{\kf44} yea{\kf44} ah{\kf20} ah{\kf8} a{\kf8} a{\kf20} ee{\kf8} ee{\kf12} ooiyah{\kf12}~{\kf20}~{\kf12} ooiyah{\kf12}~{\kf20}~
-Dialogue: 0,0:01:01.65,0:01:05.21,DEFAULT,,0,0,0,,{\kf20}Oh{\kf48} aah{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~{\kf12} eaeah{\kf12}~{\kf12}~{\kf24}~{\kf12} ohh{\kf12}~{\kf12}~{\kf12}~{\kf32}~
-Dialogue: 0,0:01:05.49,0:01:09.05,DEFAULT,,0,0,0,,{\kf20}Oh{\kf20} aah{\kf20} ee{\kf44} yea{\kf44} ah{\kf20} ah{\kf8} a{\kf8} a{\kf20} ee{\kf8} ee{\kf12} ooiyah{\kf12}~{\kf20}~{\kf12} ooiyah{\kf12}~{\kf20}~
-Dialogue: 0,0:01:11.01,0:01:12.61,DEFAULT,,0,0,0,,{\kf16}Eep{\kf16} eep{\kf16} eep{\kf16} eep{\kf16} eep
-Dialogue: 0,0:01:12.93,0:01:14.53,DEFAULT,,0,0,0,,{\kf16}Eep{\kf16} eep{\kf16} eep{\kf16} eep{\kf16} eep
-Dialogue: 0,0:01:14.85,0:01:16.45,DEFAULT,,0,0,0,,{\kf16}Eep{\kf16} eep{\kf16} eep{\kf16} eep{\kf16} eep
-Dialogue: 0,0:01:16.77,0:01:18.37,DEFAULT,,0,0,0,,{\kf16}Eep{\kf16} eep{\kf16} eep{\kf16} eep{\kf16} eep
-Dialogue: 0,0:01:18.69,0:01:20.29,DEFAULT,,0,0,0,,{\kf16}Eep{\kf16} eep{\kf16} eep{\kf16} eep{\kf16} eep
-Dialogue: 0,0:01:20.61,0:01:22.21,DEFAULT,,0,0,0,,{\kf16}Eep{\kf16} eep{\kf16} eep{\kf16} eep{\kf16} eep
-Dialogue: 0,0:01:22.53,0:01:24.13,DEFAULT,,0,0,0,,{\kf16}Eep{\kf16} eep{\kf16} eep{\kf16} eep{\kf16} eep
-Dialogue: 0,0:01:24.45,0:01:26.05,DEFAULT,,0,0,0,,{\kf16}Eep{\kf16} eep{\kf16} eep{\kf16} eep{\kf16} eep
-Dialogue: 0,0:01:26.37,0:01:27.97,DEFAULT,,0,0,0,,{\kf16}Eep{\kf16} eep{\kf16} eep{\kf16} eep{\kf16} eep
-Dialogue: 0,0:01:28.29,0:01:29.89,DEFAULT,,0,0,0,,{\kf16}Eep{\kf16} eep{\kf16} eep{\kf16} eep{\kf16} eep
-Dialogue: 0,0:01:30.21,0:01:31.81,DEFAULT,,0,0,0,,{\kf16}Eep{\kf16} eep{\kf16} eep{\kf16} eep{\kf16} eep
-Dialogue: 0,0:01:32.13,0:01:33.73,DEFAULT,,0,0,0,,{\kf16}Eep{\kf16} eep{\kf16} eep{\kf16} eep{\kf16} eep
-Dialogue: 0,0:01:34.05,0:01:35.65,DEFAULT,,0,0,0,,{\kf16}Eep{\kf16} eep{\kf16} eep{\kf16} eep{\kf16} eep
-Dialogue: 0,0:01:35.97,0:01:37.57,DEFAULT,,0,0,0,,{\kf16}Eep{\kf16} eep{\kf16} eep{\kf16} eep{\kf16} eep
-Dialogue: 0,0:01:37.89,0:01:39.49,DEFAULT,,0,0,0,,{\kf16}Eep{\kf16} eep{\kf16} eep{\kf16} eep{\kf16} eep
-Dialogue: 0,0:01:39.81,0:01:41.41,DEFAULT,,0,0,0,,{\kf16}Eep{\kf16} eep{\kf16} eep{\kf16} eep{\kf16} eep
-Dialogue: 0,0:01:41.73,0:01:43.49,DEFAULT,,0,0,0,,{\kf16}Eep{\kf16} eep{\kf16} eep{\kf20} ahh{\kf12} oh{\kf12}~{\kf12}~{\kf12}~{\kf8}~
-Dialogue: 0,0:01:43.65,0:01:45.25,DEFAULT,,0,0,0,,{\kf16}Eep{\kf16} eep{\kf16} eep{\kf16} eep{\kf16} eep
-Dialogue: 0,0:01:45.57,0:01:47.45,DEFAULT,,0,0,0,,{\kf16} Eep{\kf16}eep{\kf12} ooiyah{\kf12}~{\kf20}~{\kf12} ooiyah{\kf12}~{\kf20}~
-Dialogue: 0,0:01:47.49,0:01:49.09,DEFAULT,,0,0,0,,{\kf16}Eep{\kf16} eep{\kf16} eep{\kf16} eep{\kf16} eep
-Dialogue: 0,0:01:49.41,0:01:51.33,DEFAULT,,0,0,0,,{\kf16}Eep{\kf16} eep{\kf20} ahh{\kf12} oh{\kf12}~{\kf12}~{\kf36}~
-Dialogue: 0,0:01:54.21,0:01:55.05,DEFAULT,,0,0,0,,{\kf84}C'MON!
-Dialogue: 0,0:02:26.13,0:02:29.69,DEFAULT,,0,0,0,,{\kf20}Oh{\kf48} aah{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~{\kf12} eaeah{\kf12}~{\kf12}~{\kf24}~{\kf36} ohh{\kf12}~{\kf12}~{\kf32}~
-Dialogue: 0,0:02:33.81,0:02:37.37,DEFAULT,,0,0,0,,{\kf20}Oh{\kf20} aah{\kf20} ee{\kf44} yea{\kf44} ah{\kf20} ah{\kf8} a{\kf8} a{\kf20} ee{\kf8} ee{\kf36} ee{\kf12} ooiyah{\kf12}~{\kf20}~
-Dialogue: 0,0:02:40.29,0:02:41.21,DEFAULT,,0,0,0,,{\kf12}Ooiyah{\kf12}~{\kf20}~{\kf12} ooiyah{\kf12}~{\kf20}~
-Dialogue: 0,0:02:41.49,0:02:45.05,DEFAULT,,0,0,0,,{\kf20}Oh{\kf48} aah{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~{\kf12} eaeah{\kf12}~{\kf12}~{\kf24}~{\kf36} ohh{\kf12}~{\kf12}~{\kf32}~
-Dialogue: 0,0:02:49.17,0:02:52.73,DEFAULT,,0,0,0,,{\kf20}Oh{\kf20} aah{\kf20} ee{\kf44} yea{\kf44} ah{\kf20} ah{\kf8} a{\kf8} a{\kf20} ee{\kf8} ee{\kf36} ee{\kf12} ooiyah{\kf12}~{\kf20}~
-Dialogue: 0,0:02:54.69,0:02:56.57,DEFAULT,,0,0,0,,{\kf20}Ah{\kf8} a{\kf8} a{\kf20} ee{\kf8} ee{\kf12} ooiyah{\kf12}~{\kf20}~{\kf12} ooiyah{\kf12}~{\kf20}~
-Dialogue: 0,0:02:56.85,0:03:00.41,DEFAULT,,0,0,0,,{\kf20}Oh{\kf44} aah{\kf20} oh{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~{\kf12} eaeah{\kf12}~{\kf12}~{\kf24}~{\kf24} ohh{\kf12}~{\kf12}~{\kf12}~{\kf32}~
-Dialogue: 0,0:03:00.45,0:03:04.25,DEFAULT,,0,0,0,,{\kf8}Ee{\kf20} oh{\kf20} aah{\kf20} oh{\kf4} ee{\kf36} yea{\kf44} ah{\kf20} ah{\kf8} a{\kf8} a{\kf20} ee{\kf8} ee{\kf12} ooiyah{\kf12}~{\kf20}~{\kf12} ooiyah{\kf12}~{\kf20}~
-Dialogue: 0,0:03:04.29,0:03:08.09,DEFAULT,,0,0,0,,{\kf8}Oo{\kf20} oh{\kf44} aah{\kf20} oh{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~{\kf24} eaeah{\kf12}~{\kf12}~{\kf24}~{\kf24} ohh{\kf12}~{\kf12}~{\kf12}~{\kf32}~
-Dialogue: 0,0:03:08.13,0:03:11.93,DEFAULT,,0,0,0,,{\kf8}Ee{\kf20} oh{\kf20} aah{\kf20} oh{\kf4} ee{\kf32} yea{\kf44} ah{\kf20} ah{\kf8} a{\kf8} a{\kf20} ee{\kf8} ee{\kf12} ooiyah{\kf12}~{\kf20}~{\kf12} ooiyah{\kf12}~{\kf20}~
-Dialogue: 0,0:03:11.97,0:03:15.77,DEFAULT,,0,0,0,,{\kf8}Oo{\kf20} oh{\kf44} aah{\kf20} oh{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~{\kf24} eaeah{\kf12}~{\kf12}~{\kf24}~{\kf24} ohh{\kf12}~{\kf12}~{\kf12}~{\kf32}~
-Dialogue: 0,0:03:15.81,0:03:19.61,DEFAULT,,0,0,0,,{\kf8}Ee{\kf20} oh{\kf20} aah{\kf20} oh{\kf4} ee{\kf32} yea{\kf44} ah{\kf20} ah{\kf8} a{\kf8} a{\kf20} ee{\kf8} ee{\kf12} ooiyah{\kf12}~{\kf20}~{\kf12} ooiyah{\kf12}~{\kf20}~
-Dialogue: 0,0:03:19.65,0:03:23.45,DEFAULT,,0,0,0,,{\kf8}Oh{\kf20} oh{\kf44} aah{\kf20} oh{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~{\kf24} eaeah{\kf12}~{\kf12}~{\kf24}~{\kf24} ohh{\kf12}~{\kf12}~{\kf12}~{\kf32}~
-Dialogue: 0,0:03:23.49,0:03:27.29,DEFAULT,,0,0,0,,{\kf8}Ooh{\kf20} oh{\kf20} aah{\kf20} oh{\kf4} ee{\kf32} yea{\kf44} ah{\kf20} ah{\kf8} a{\kf8} a{\kf20} ee{\kf8} ee{\kf12} ooiyah{\kf12}~{\kf20}~{\kf12} ooiyah{\kf12}~{\kf20}~
-Dialogue: 0,0:03:27.33,0:03:29.21,DEFAULT,,0,0,0,,{\kf8}Ooh{\kf20} oh{\kf44} aah{\kf20} oh{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~
-Dialogue: 0,0:03:29.25,0:03:31.13,DEFAULT,,0,0,0,,{\kf8}Ooh{\kf20} oh{\kf44} aah{\kf20} oh{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~
-Dialogue: 0,0:03:31.17,0:03:33.05,DEFAULT,,0,0,0,,{\kf8}Ooh{\kf20} oh{\kf44} aah{\kf20} oh{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~
-Dialogue: 0,0:03:33.09,0:03:34.97,DEFAULT,,0,0,0,,{\kf8}Ooh{\kf20} oh{\kf44} aah{\kf20} oh{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~
-Dialogue: 0,0:03:35.01,0:03:35.93,DEFAULT,,0,0,0,,{\kf20}Oh{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~
-Dialogue: 0,0:03:35.97,0:03:36.89,DEFAULT,,0,0,0,,{\kf20}Oh{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~
-Dialogue: 0,0:03:36.93,0:03:37.85,DEFAULT,,0,0,0,,{\kf20}Oh{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~
-Dialogue: 0,0:03:37.89,0:03:38.81,DEFAULT,,0,0,0,,{\kf20}Oh{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~
-Dialogue: 0,0:03:38.85,0:03:39.77,DEFAULT,,0,0,0,,{\kf20}Oh{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~
-Dialogue: 0,0:03:39.81,0:03:40.73,DEFAULT,,0,0,0,,{\kf20}Oh{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~
-Dialogue: 0,0:03:41.73,0:03:42.57,DEFAULT,,0,0,0,,{\kf84}C'MON!
-Dialogue: 0,0:04:13.65,0:04:17.21,DEFAULT,,0,0,0,,{\kf20}Oh{\kf48} aah{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~{\kf12} eaeah{\kf12}~{\kf12}~{\kf24}~{\kf36} ohh{\kf12}~{\kf12}~{\kf32}~
-Dialogue: 0,0:04:21.33,0:04:24.89,DEFAULT,,0,0,0,,{\kf20}Oh{\kf20} aah{\kf20} ee{\kf44} yea{\kf44} ah{\kf20} ah{\kf8} a{\kf8} a{\kf20} ee{\kf8} ee{\kf36} ee{\kf12} ooiyah{\kf12}~{\kf20}~
-Dialogue: 0,0:04:27.81,0:04:28.73,DEFAULT,,0,0,0,,{\kf12}Ooiyah{\kf12}~{\kf20}~{\kf12} ooiyah{\kf12}~{\kf20}~
-Dialogue: 0,0:04:29.01,0:04:32.57,DEFAULT,,0,0,0,,{\kf20}Oh{\kf48} aah{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~{\kf12} eaeah{\kf12}~{\kf12}~{\kf24}~{\kf36} ohh{\kf12}~{\kf12}~{\kf32}~
-Dialogue: 0,0:04:36.69,0:04:40.25,DEFAULT,,0,0,0,,{\kf20}Oh{\kf20} aah{\kf20} ee{\kf44} yea{\kf44} ah{\kf20} ah{\kf8} a{\kf8} a{\kf20} ee{\kf8} ee{\kf36} ee{\kf12} ooiyah{\kf12}~{\kf20}~
-Dialogue: 0,0:04:42.21,0:04:44.09,DEFAULT,,0,0,0,,{\kf20}Ah{\kf8} a{\kf8} a{\kf24} ee{\kf8} ee{\kf12} ooiyah{\kf12}~{\kf20}~{\kf12} ooiyah{\kf12}~{\kf20}~
-Dialogue: 0,0:04:44.37,0:04:47.93,DEFAULT,,0,0,0,,{\kf20}Oh{\kf48} aah{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~{\kf12} eaeah{\kf12}~{\kf12}~{\kf24}~{\kf36} ohh{\kf12}~{\kf12}~{\kf32}~
-Dialogue: 0,0:04:48.21,0:04:51.77,DEFAULT,,0,0,0,,{\kf20}Oh{\kf20} aah{\kf20} ee{\kf44} yea{\kf44} ah{\kf20} ah{\kf8} a{\kf8} a{\kf20} ee{\kf8} ee{\kf12} ooiyah{\kf12}~{\kf20}~{\kf12} ooiyah{\kf12}~{\kf20}~
-Dialogue: 0,0:04:52.05,0:04:55.61,DEFAULT,,0,0,0,,{\kf20}Oh{\kf48} aah{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~{\kf12} eaeah{\kf12}~{\kf12}~{\kf24}~{\kf36} ohh{\kf12}~{\kf12}~{\kf32}~
-Dialogue: 0,0:04:55.89,0:04:59.45,DEFAULT,,0,0,0,,{\kf20}Oh{\kf20} aah{\kf20} ee{\kf44} yea{\kf44} ah{\kf20} ah{\kf8} a{\kf8} a{\kf20} ee{\kf8} ee{\kf12} ooiyah{\kf12}~{\kf20}~{\kf12} ooiyah{\kf12}~{\kf20}~
-Dialogue: 0,0:04:59.73,0:05:03.29,DEFAULT,,0,0,0,,{\kf20}Oh{\kf48} aah{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~{\kf12} eaeah{\kf12}~{\kf12}~{\kf24}~{\kf36} ohh{\kf12}~{\kf12}~{\kf32}~
-Dialogue: 0,0:05:03.57,0:05:07.13,DEFAULT,,0,0,0,,{\kf20}Oh{\kf20} aah{\kf20} ee{\kf44} yea{\kf44} ah{\kf20} ah{\kf8} a{\kf8} a{\kf20} ee{\kf8} ee{\kf12} ooiyah{\kf12}~{\kf20}~{\kf12} ooiyah{\kf12}~{\kf20}~
-Dialogue: 0,0:05:07.41,0:05:10.97,DEFAULT,,0,0,0,,{\kf20}Oh{\kf48} aah{\kf12} ee{\kf8} yea{\kf12}~{\kf8} ah{\kf12}~{\kf12} eaeah{\kf12}~{\kf12}~{\kf24}~{\kf36} ohh{\kf12}~{\kf12}~{\kf32}~
-Dialogue: 0,0:05:11.25,0:05:14.81,DEFAULT,,0,0,0,,{\kf20}Oh{\kf20} aah{\kf20} ee{\kf44} yea{\kf44} ah{\kf20} ah{\kf8} a{\kf8} a{\kf20} ee{\kf8} ee{\kf12} ooiyah{\kf12}~{\kf20}~{\kf12} ooiyah{\kf12}~{\kf20}~
+Dialogue: 0,0:00:07.66,0:00:11.38,DEFAULT,,0,0,0,,{\r}{\kf44}Aah{\kf44} oh{\kf44} ah{\kf36} ee{\kf36} aw{\kf36} ee{\kf15} aw{\kf22}~{\kf15} aa{\kf22} ooo{\kf15}~{\kf43} oh
+Dialogue: 0,0:00:11.50,0:00:15.30,DEFAULT,,0,0,0,,{\r}{\kf41}Aah{\kf41} oh{\kf41} ah{\kf35} ee{\kf35} aw{\kf35} ee{\kf21} ooiyah{\kf21}~{\kf35}~{\kf21} ooiyah{\kf21}~{\kf33}~
+Dialogue: 0,0:00:15.34,0:00:19.06,DEFAULT,,0,0,0,,{\r}{\kf44}Aah{\kf44} oh{\kf44} ah{\kf36} ee{\kf36} aw{\kf36} ee{\kf15} aw{\kf22}~{\kf15} aa{\kf22} ooo{\kf15}~{\kf43} oh
+Dialogue: 0,0:00:19.18,0:00:22.98,DEFAULT,,0,0,0,,{\r}{\kf41}Aah{\kf41} oh{\kf41} ah{\kf35} ee{\kf35} aw{\kf35} ee{\kf21} ooiyah{\kf21}~{\kf35}~{\kf21} ooiyah{\kf21}~{\kf33}~
+Dialogue: 0,0:00:23.02,0:00:26.74,DEFAULT,,0,0,0,,{\r}{\kf44}Aah{\kf44} oh{\kf44} ah{\kf36} ee{\kf36} aw{\kf36} ee{\kf15} aw{\kf22}~{\kf15} aa{\kf22} ooo{\kf15}~{\kf43} oh
+Dialogue: 0,0:00:26.86,0:00:30.66,DEFAULT,,0,0,0,,{\r}{\kf37}Aah{\kf56} oh{\kf56} ah{\kf31} ee{\kf31} aw{\kf31} ee{\kf19} ooiyah{\kf19}~{\kf31}~{\kf19} ooiyah{\kf19}~{\kf31}~
+Dialogue: 0,0:00:30.70,0:00:34.42,DEFAULT,,0,0,0,,{\r}{\kf39}Aah{\kf59} oh{\kf59} ah{\kf33} ee{\kf33} aw{\kf33} ee{\kf13} aw{\kf20}~{\kf13} aa{\kf20} ooo{\kf13}~{\kf37} oh
+Dialogue: 0,0:00:34.54,0:00:37.86,DEFAULT,,0,0,0,,{\r}{\kf40}Aah{\kf60} oh{\kf60} ah{\kf33} ee{\kf33} aw{\kf33} ee{\kf20} ooiyah{\kf20}~{\kf33}~
+Dialogue: 0,0:00:38.62,0:00:42.18,DEFAULT,,0,0,0,,{\r}{\kf27}Oh{\kf66}aah{\kf16} ee{\kf11} yea{\kf16}~{\kf11} ah{\kf16}~{\kf16} eaeah{\kf16}~{\kf16}~{\kf33}~{\kf16} ohh{\kf16}~{\kf16}~{\kf16}~{\kf48}~
+Dialogue: 0,0:00:42.46,0:00:46.02,DEFAULT,,0,0,0,,{\r}{\kf24}Oh{\kf24} aah{\kf24} ee{\kf52} yea{\kf52} ah{\kf24} ah{\kf10} a{\kf10} a{\kf24} ee{\kf10} ee{\kf14} ooiyah{\kf14}~{\kf24}~{\kf14} ooiyah{\kf14}~{\kf22}~
+Dialogue: 0,0:00:46.30,0:00:49.86,DEFAULT,,0,0,0,,{\r}{\kf27}Oh{\kf66} aah{\kf16} ee{\kf11} yea{\kf16}~{\kf11} ah{\kf16}~{\kf16} eaeah{\kf16}~{\kf16}~{\kf33}~{\kf16} ohh{\kf16}~{\kf16}~{\kf16}~{\kf48}~
+Dialogue: 0,0:00:50.14,0:00:53.70,DEFAULT,,0,0,0,,{\r}{\kf24}Oh{\kf24} aah{\kf24} ee{\kf52} yea{\kf52} ah{\kf24} ah{\kf10} a{\kf10} a{\kf24} ee{\kf10} ee{\kf14} ooiyah{\kf14}~{\kf24}~{\kf14} ooiyah{\kf14}~{\kf22}~
+Dialogue: 0,0:00:53.98,0:00:57.54,DEFAULT,,0,0,0,,{\r}{\kf27}Oh{\kf66} aah{\kf16} ee{\kf11} yea{\kf16}~{\kf11} ah{\kf16}~{\kf16} eaeah{\kf16}~{\kf16}~{\kf33}~{\kf16} ohh{\kf16}~{\kf16}~{\kf16}~{\kf48}~
+Dialogue: 0,0:00:57.82,0:01:01.38,DEFAULT,,0,0,0,,{\r}{\kf24}Oh{\kf24} aah{\kf24} ee{\kf52} yea{\kf52} ah{\kf24} ah{\kf10} a{\kf10} a{\kf24} ee{\kf10} ee{\kf14} ooiyah{\kf14}~{\kf24}~{\kf14} ooiyah{\kf14}~{\kf22}~
+Dialogue: 0,0:01:01.66,0:01:05.22,DEFAULT,,0,0,0,,{\r}{\kf27}Oh{\kf66} aah{\kf16} ee{\kf11} yea{\kf16}~{\kf11} ah{\kf16}~{\kf16} eaeah{\kf16}~{\kf16}~{\kf33}~{\kf16} ohh{\kf16}~{\kf16}~{\kf16}~{\kf48}~
+Dialogue: 0,0:01:05.50,0:01:09.06,DEFAULT,,0,0,0,,{\r}{\kf24}Oh{\kf24} aah{\kf24} ee{\kf52} yea{\kf52} ah{\kf24} ah{\kf10} a{\kf10} a{\kf24} ee{\kf10} ee{\kf14} ooiyah{\kf14}~{\kf24}~{\kf14} ooiyah{\kf14}~{\kf22}~
+Dialogue: 0,0:01:11.02,0:01:12.62,DEFAULT,,0,0,0,,{\r}{\kf32}Eep{\kf32} eep{\kf32} eep{\kf32} eep{\kf32} eep
+Dialogue: 0,0:01:12.94,0:01:14.54,DEFAULT,,0,0,0,,{\r}{\kf32}Eep{\kf32} eep{\kf32} eep{\kf32} eep{\kf32} eep
+Dialogue: 0,0:01:14.86,0:01:16.46,DEFAULT,,0,0,0,,{\r}{\kf32}Eep{\kf32} eep{\kf32} eep{\kf32} eep{\kf32} eep
+Dialogue: 0,0:01:16.78,0:01:18.38,DEFAULT,,0,0,0,,{\r}{\kf32}Eep{\kf32} eep{\kf32} eep{\kf32} eep{\kf32} eep
+Dialogue: 0,0:01:18.70,0:01:20.30,DEFAULT,,0,0,0,,{\r}{\kf32}Eep{\kf32} eep{\kf32} eep{\kf32} eep{\kf32} eep
+Dialogue: 0,0:01:20.62,0:01:22.22,DEFAULT,,0,0,0,,{\r}{\kf32}Eep{\kf32} eep{\kf32} eep{\kf32} eep{\kf32} eep
+Dialogue: 0,0:01:22.54,0:01:24.14,DEFAULT,,0,0,0,,{\r}{\kf32}Eep{\kf32} eep{\kf32} eep{\kf32} eep{\kf32} eep
+Dialogue: 0,0:01:24.46,0:01:26.06,DEFAULT,,0,0,0,,{\r}{\kf32}Eep{\kf32} eep{\kf32} eep{\kf32} eep{\kf32} eep
+Dialogue: 0,0:01:26.38,0:01:27.98,DEFAULT,,0,0,0,,{\r}{\kf32}Eep{\kf32} eep{\kf32} eep{\kf32} eep{\kf32} eep
+Dialogue: 0,0:01:28.30,0:01:29.90,DEFAULT,,0,0,0,,{\r}{\kf32}Eep{\kf32} eep{\kf32} eep{\kf32} eep{\kf32} eep
+Dialogue: 0,0:01:30.22,0:01:31.82,DEFAULT,,0,0,0,,{\r}{\kf32}Eep{\kf32} eep{\kf32} eep{\kf32} eep{\kf32} eep
+Dialogue: 0,0:01:32.14,0:01:33.74,DEFAULT,,0,0,0,,{\r}{\kf32}Eep{\kf32} eep{\kf32} eep{\kf32} eep{\kf32} eep
+Dialogue: 0,0:01:34.06,0:01:35.66,DEFAULT,,0,0,0,,{\r}{\kf32}Eep{\kf32} eep{\kf32} eep{\kf32} eep{\kf32} eep
+Dialogue: 0,0:01:35.98,0:01:37.58,DEFAULT,,0,0,0,,{\r}{\kf32}Eep{\kf32} eep{\kf32} eep{\kf32} eep{\kf32} eep
+Dialogue: 0,0:01:37.90,0:01:39.50,DEFAULT,,0,0,0,,{\r}{\kf32}Eep{\kf32} eep{\kf32} eep{\kf32} eep{\kf32} eep
+Dialogue: 0,0:01:39.82,0:01:41.42,DEFAULT,,0,0,0,,{\r}{\kf32}Eep{\kf32} eep{\kf32} eep{\kf32} eep{\kf32} eep
+Dialogue: 0,0:01:41.74,0:01:43.50,DEFAULT,,0,0,0,,{\r}{\kf23}Eep{\kf23} eep{\kf23} eep{\kf28} ahh{\kf17} oh{\kf17}~{\kf17}~{\kf17}~{\kf11}~
+Dialogue: 0,0:01:43.66,0:01:45.26,DEFAULT,,0,0,0,,{\r}{\kf32}Eep{\kf32} eep{\kf32} eep{\kf32} eep{\kf32} eep
+Dialogue: 0,0:01:45.58,0:01:47.46,DEFAULT,,0,0,0,,{\r}{\kf25} Eep{\kf25}eep{\kf19} ooiyah{\kf19}~{\kf31}~{\kf19} ooiyah{\kf19}~{\kf31}~
+Dialogue: 0,0:01:47.50,0:01:49.10,DEFAULT,,0,0,0,,{\r}{\kf32}Eep{\kf32} eep{\kf32} eep{\kf32} eep{\kf32} eep
+Dialogue: 0,0:01:49.42,0:01:51.34,DEFAULT,,0,0,0,,{\r}{\kf25}Eep{\kf25} eep{\kf31} ahh{\kf19} oh{\kf19}~{\kf19}~{\kf54}~
+Dialogue: 0,0:01:54.22,0:01:55.06,DEFAULT,,0,0,0,,{\r}{\kf84}C'MON!
+Dialogue: 0,0:02:26.14,0:02:29.70,DEFAULT,,0,0,0,,{\r}{\kf26}Oh{\kf63} aah{\kf16} ee{\kf10} yea{\kf16}~{\kf10} ah{\kf16}~{\kf16} eaeah{\kf16}~{\kf16}~{\kf31}~{\kf47} ohh{\kf16}~{\kf16}~{\kf41}~
+Dialogue: 0,0:02:33.82,0:02:37.38,DEFAULT,,0,0,0,,{\r}{\kf24}Oh{\kf24} aah{\kf24} ee{\kf54} yea{\kf54} ah{\kf24} ah{\kf10} a{\kf10} a{\kf24} ee{\kf10} ee{\kf44} ee{\kf15} ooiyah{\kf15}~{\kf24}~
+Dialogue: 0,0:02:40.30,0:02:41.22,DEFAULT,,0,0,0,,{\r}{\kf13}Ooiyah{\kf13}~{\kf21}~{\kf13} ooiyah{\kf13}~{\kf19}~
+Dialogue: 0,0:02:41.50,0:02:45.06,DEFAULT,,0,0,0,,{\r}{\kf26}Oh{\kf63} aah{\kf16} ee{\kf10} yea{\kf16}~{\kf10} ah{\kf16}~{\kf16} eaeah{\kf16}~{\kf16}~{\kf31}~{\kf47} ohh{\kf16}~{\kf16}~{\kf41}~
+Dialogue: 0,0:02:49.18,0:02:52.74,DEFAULT,,0,0,0,,{\r}{\kf24}Oh{\kf24} aah{\kf24} ee{\kf54} yea{\kf54} ah{\kf24} ah{\kf10} a{\kf10} a{\kf24} ee{\kf10} ee{\kf44} ee{\kf15} ooiyah{\kf15}~{\kf24}~
+Dialogue: 0,0:02:54.70,0:02:56.58,DEFAULT,,0,0,0,,{\r}{\kf25}Ah{\kf10} a{\kf10} a{\kf25} ee{\kf10} ee{\kf15} ooiyah{\kf15}~{\kf25}~{\kf15} ooiyah{\kf15}~{\kf23}~
+Dialogue: 0,0:02:56.86,0:03:00.42,DEFAULT,,0,0,0,,{\r}{\kf25}Oh{\kf54} aah{\kf25} oh{\kf15} ee{\kf10} yea{\kf15}~{\kf10} ah{\kf15}~{\kf15} eaeah{\kf15}~{\kf15}~{\kf30}~{\kf30} ohh{\kf15}~{\kf15}~{\kf15}~{\kf37}~
+Dialogue: 0,0:03:00.46,0:03:04.26,DEFAULT,,0,0,0,,{\r}{\kf10}Ee{\kf25} oh{\kf25} aah{\kf25} oh{\kf10} ee{\kf45} yea{\kf55} ah{\kf25} ah{\kf10} a{\kf10} a{\kf25} ee{\kf10} ee{\kf15} ooiyah{\kf15}~{\kf25}~{\kf15} ooiyah{\kf15}~{\kf20}~
+Dialogue: 0,0:03:04.30,0:03:08.10,DEFAULT,,0,0,0,,{\r}{\kf10}Oo{\kf25} oh{\kf54} aah{\kf25} oh{\kf15} ee{\kf10} yea{\kf15}~{\kf10} ah{\kf15}~{\kf30} eaeah{\kf15}~{\kf15}~{\kf30}~{\kf30} ohh{\kf15}~{\kf15}~{\kf15}~{\kf36}~
+Dialogue: 0,0:03:08.14,0:03:11.94,DEFAULT,,0,0,0,,{\r}{\kf10}Ee{\kf25} oh{\kf25} aah{\kf25} oh{\kf10} ee{\kf41} yea{\kf56} ah{\kf25} ah{\kf10} a{\kf10} a{\kf25} ee{\kf10} ee{\kf15} ooiyah{\kf15}~{\kf25}~{\kf15} ooiyah{\kf15}~{\kf23}~
+Dialogue: 0,0:03:11.98,0:03:15.77,DEFAULT,,0,0,0,,{\r}{\kf10}Oo{\kf25} oh{\kf54} aah{\kf25} oh{\kf15} ee{\kf10} yea{\kf15}~{\kf10} ah{\kf15}~{\kf30} eaeah{\kf15}~{\kf15}~{\kf30}~{\kf30} ohh{\kf15}~{\kf15}~{\kf15}~{\kf36}~
+Dialogue: 0,0:03:15.81,0:03:19.61,DEFAULT,,0,0,0,,{\r}{\kf10}Ee{\kf25} oh{\kf25} aah{\kf25} oh{\kf10} ee{\kf41} yea{\kf56} ah{\kf25} ah{\kf10} a{\kf10} a{\kf25} ee{\kf10} ee{\kf15} ooiyah{\kf15}~{\kf25}~{\kf15} ooiyah{\kf15}~{\kf23}~
+Dialogue: 0,0:03:19.65,0:03:23.45,DEFAULT,,0,0,0,,{\r}{\kf10}Oh{\kf25} oh{\kf54} aah{\kf25} oh{\kf15} ee{\kf10} yea{\kf15}~{\kf10} ah{\kf15}~{\kf30} eaeah{\kf15}~{\kf15}~{\kf30}~{\kf30} ohh{\kf15}~{\kf15}~{\kf15}~{\kf36}~
+Dialogue: 0,0:03:23.49,0:03:27.29,DEFAULT,,0,0,0,,{\r}{\kf10}Ooh{\kf25} oh{\kf25} aah{\kf25} oh{\kf10} ee{\kf41} yea{\kf56} ah{\kf25} ah{\kf10} a{\kf10} a{\kf25} ee{\kf10} ee{\kf15} ooiyah{\kf15}~{\kf25}~{\kf15} ooiyah{\kf15}~{\kf23}~
+Dialogue: 0,0:03:27.33,0:03:29.21,DEFAULT,,0,0,0,,{\r}{\kf10}Ooh{\kf26} oh{\kf57} aah{\kf26} oh{\kf16} ee{\kf10} yea{\kf16}~{\kf10} ah{\kf17}~
+Dialogue: 0,0:03:29.25,0:03:31.13,DEFAULT,,0,0,0,,{\r}{\kf10}Ooh{\kf26} oh{\kf57} aah{\kf26} oh{\kf16} ee{\kf10} yea{\kf16}~{\kf10} ah{\kf17}~
+Dialogue: 0,0:03:31.17,0:03:33.05,DEFAULT,,0,0,0,,{\r}{\kf10}Ooh{\kf26} oh{\kf57} aah{\kf26} oh{\kf16} ee{\kf10} yea{\kf16}~{\kf10} ah{\kf17}~
+Dialogue: 0,0:03:33.09,0:03:34.97,DEFAULT,,0,0,0,,{\r}{\kf10}Ooh{\kf26} oh{\kf57} aah{\kf26} oh{\kf16} ee{\kf10} yea{\kf16}~{\kf10} ah{\kf17}~
+Dialogue: 0,0:03:35.01,0:03:35.93,DEFAULT,,0,0,0,,{\r}{\kf26}Oh{\kf15} ee{\kf10} yea{\kf15}~{\kf10} ah{\kf16}~
+Dialogue: 0,0:03:35.97,0:03:36.89,DEFAULT,,0,0,0,,{\r}{\kf26}Oh{\kf15} ee{\kf10} yea{\kf15}~{\kf10} ah{\kf16}~
+Dialogue: 0,0:03:36.93,0:03:37.85,DEFAULT,,0,0,0,,{\r}{\kf26}Oh{\kf15} ee{\kf10} yea{\kf15}~{\kf10} ah{\kf16}~
+Dialogue: 0,0:03:37.89,0:03:38.81,DEFAULT,,0,0,0,,{\r}{\kf26}Oh{\kf15} ee{\kf10} yea{\kf15}~{\kf10} ah{\kf16}~
+Dialogue: 0,0:03:38.85,0:03:39.77,DEFAULT,,0,0,0,,{\r}{\kf26}Oh{\kf15} ee{\kf10} yea{\kf15}~{\kf10} ah{\kf16}~
+Dialogue: 0,0:03:39.81,0:03:40.73,DEFAULT,,0,0,0,,{\r}{\kf26}Oh{\kf15} ee{\kf10} yea{\kf15}~{\kf10} ah{\kf16}~
+Dialogue: 0,0:03:41.73,0:03:42.57,DEFAULT,,0,0,0,,{\r}{\kf84}C'MON!
+Dialogue: 0,0:04:13.65,0:04:17.21,DEFAULT,,0,0,0,,{\r}{\kf26}Oh{\kf63} aah{\kf16} ee{\kf10} yea{\kf16}~{\kf10} ah{\kf16}~{\kf16} eaeah{\kf16}~{\kf16}~{\kf31}~{\kf47} ohh{\kf16}~{\kf16}~{\kf41}~
+Dialogue: 0,0:04:21.33,0:04:24.89,DEFAULT,,0,0,0,,{\r}{\kf24}Oh{\kf24} aah{\kf24} ee{\kf54} yea{\kf54} ah{\kf24} ah{\kf10} a{\kf10} a{\kf24} ee{\kf10} ee{\kf44} ee{\kf15} ooiyah{\kf15}~{\kf24}~
+Dialogue: 0,0:04:27.81,0:04:28.73,DEFAULT,,0,0,0,,{\r}{\kf13}Ooiyah{\kf13}~{\kf21}~{\kf13} ooiyah{\kf13}~{\kf19}~
+Dialogue: 0,0:04:29.01,0:04:32.57,DEFAULT,,0,0,0,,{\r}{\kf26}Oh{\kf63} aah{\kf16} ee{\kf10} yea{\kf16}~{\kf10} ah{\kf16}~{\kf16} eaeah{\kf16}~{\kf16}~{\kf31}~{\kf47} ohh{\kf16}~{\kf16}~{\kf41}~
+Dialogue: 0,0:04:36.69,0:04:40.25,DEFAULT,,0,0,0,,{\r}{\kf24}Oh{\kf24} aah{\kf24} ee{\kf54} yea{\kf54} ah{\kf24} ah{\kf10} a{\kf10} a{\kf24} ee{\kf10} ee{\kf44} ee{\kf15} ooiyah{\kf15}~{\kf24}~
+Dialogue: 0,0:04:42.21,0:04:44.09,DEFAULT,,0,0,0,,{\r}{\kf24}Ah{\kf10} a{\kf10} a{\kf29} ee{\kf10} ee{\kf14} ooiyah{\kf14}~{\kf24}~{\kf14} ooiyah{\kf14}~{\kf25}~
+Dialogue: 0,0:04:44.37,0:04:47.93,DEFAULT,,0,0,0,,{\r}{\kf26}Oh{\kf63} aah{\kf16} ee{\kf10} yea{\kf16}~{\kf10} ah{\kf16}~{\kf16} eaeah{\kf16}~{\kf16}~{\kf31}~{\kf47} ohh{\kf16}~{\kf16}~{\kf41}~
+Dialogue: 0,0:04:48.21,0:04:51.77,DEFAULT,,0,0,0,,{\r}{\kf24}Oh{\kf24} aah{\kf24} ee{\kf52} yea{\kf52} ah{\kf24} ah{\kf10} a{\kf10} a{\kf24} ee{\kf10} ee{\kf14} ooiyah{\kf14}~{\kf24}~{\kf14} ooiyah{\kf14}~{\kf22}~
+Dialogue: 0,0:04:52.05,0:04:55.61,DEFAULT,,0,0,0,,{\r}{\kf26}Oh{\kf63} aah{\kf16} ee{\kf10} yea{\kf16}~{\kf10} ah{\kf16}~{\kf16} eaeah{\kf16}~{\kf16}~{\kf31}~{\kf47} ohh{\kf16}~{\kf16}~{\kf41}~
+Dialogue: 0,0:04:55.89,0:04:59.45,DEFAULT,,0,0,0,,{\r}{\kf24}Oh{\kf24} aah{\kf24} ee{\kf52} yea{\kf52} ah{\kf24} ah{\kf10} a{\kf10} a{\kf24} ee{\kf10} ee{\kf14} ooiyah{\kf14}~{\kf24}~{\kf14} ooiyah{\kf14}~{\kf22}~
+Dialogue: 0,0:04:59.73,0:05:03.29,DEFAULT,,0,0,0,,{\r}{\kf26}Oh{\kf63} aah{\kf16} ee{\kf10} yea{\kf16}~{\kf10} ah{\kf16}~{\kf16} eaeah{\kf16}~{\kf16}~{\kf31}~{\kf47} ohh{\kf16}~{\kf16}~{\kf41}~
+Dialogue: 0,0:05:03.57,0:05:07.13,DEFAULT,,0,0,0,,{\r}{\kf24}Oh{\kf24} aah{\kf24} ee{\kf52} yea{\kf52} ah{\kf24} ah{\kf10} a{\kf10} a{\kf24} ee{\kf10} ee{\kf14} ooiyah{\kf14}~{\kf24}~{\kf14} ooiyah{\kf14}~{\kf22}~
+Dialogue: 0,0:05:07.41,0:05:10.97,DEFAULT,,0,0,0,,{\r}{\kf26}Oh{\kf63} aah{\kf16} ee{\kf10} yea{\kf16}~{\kf10} ah{\kf16}~{\kf16} eaeah{\kf16}~{\kf16}~{\kf31}~{\kf47} ohh{\kf16}~{\kf16}~{\kf41}~
+Dialogue: 0,0:05:11.25,0:05:14.81,DEFAULT,,0,0,0,,{\r}{\kf24}Oh{\kf24} aah{\kf24} ee{\kf52} yea{\kf52} ah{\kf24} ah{\kf10} a{\kf10} a{\kf24} ee{\kf10} ee{\kf14} ooiyah{\kf14}~{\kf24}~{\kf14} ooiyah{\kf14}~{\kf22}~

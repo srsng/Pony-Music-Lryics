@@ -1,39 +1,46 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: September
+Artist: TheLivingTombstone, MicTheMicrophone
+Original Timing: mylittlekaraoke.com by Swift
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:20.72,0:00:21.99,DEFAULT,,0,0,0,,{\kf15}I{\kf22} can't{\kf22} re{\kf29}mem{\kf29}ber
-Dialogue: 0,0:00:22.34,0:00:24.32,DEFAULT,,0,0,0,,{\kf22}What{\kf29} hap{\kf22}pened{\kf15} in{\kf29} Sep{\kf29}tem{\kf36}ber
-Dialogue: 0,0:00:24.54,0:00:26.38,DEFAULT,,0,0,0,,{\kf29}When{\kf22} eve{\kf22}ry{\kf36}thing{\kf15} is{\kf43} gone
-Dialogue: 0,0:00:26.52,0:00:28.85,DEFAULT,,0,0,0,,{\kf29}When{\kf22} it's{\kf22} dark{\kf22} and{\kf22} I'm{\kf22} a{\kf64}lone
-Dialogue: 0,0:00:29.63,0:00:31.18,DEFAULT,,0,0,0,,{\kf29}It's{\kf15} been{\kf29} for{\kf29}e{\kf43}ver
-Dialogue: 0,0:00:31.33,0:00:33.24,DEFAULT,,0,0,0,,{\kf29}Since{\kf22} I{\kf22} could{\kf22} have{\kf22} re{\kf22}mem{\kf15}bered
-Dialogue: 0,0:00:33.38,0:00:35.50,DEFAULT,,0,0,0,,{\kf22}Where{\kf22} the{\kf22} hell{\kf22} is{\kf22} eve{\kf29}ry{\kf36}po{\kf15}ny
-Dialogue: 0,0:00:35.64,0:00:37.76,DEFAULT,,0,0,0,,{\kf22}I{\kf22} just{\kf22} want{\kf22} to{\kf22} know{\kf15} the{\kf36} sto{\kf15}ry
-Dialogue: 0,0:00:37.90,0:00:40.24,DEFAULT,,0,0,0,,{\kf22}Of{\kf22} what{\kf29} hap{\kf22}pened{\kf22} right{\kf22} be{\kf29}fo{\kf43}re
-Dialogue: 0,0:00:40.38,0:00:42.43,DEFAULT,,0,0,0,,{\kf29}I{\kf22} be{\kf22}came{\kf29} so{\kf22} a{\kf64}lone
-Dialogue: 0,0:01:10.36,0:01:11.99,DEFAULT,,0,0,0,,{\kf36}Still{\kf15} can't{\kf29} re{\kf29}mem{\kf43}ber
-Dialogue: 0,0:01:12.13,0:01:13.97,DEFAULT,,0,0,0,,{\kf22}What{\kf29} hap{\kf22}pened{\kf22} in{\kf29} Sep{\kf29}tem{\kf15}ber
-Dialogue: 0,0:01:14.11,0:01:16.23,DEFAULT,,0,0,0,,{\kf29}Back{\kf22} when{\kf22} eve{\kf29}ry{\kf29}po{\kf22}ny{\kf43} died
-Dialogue: 0,0:01:16.37,0:01:18.78,DEFAULT,,0,0,0,,{\kf29}Trails{\kf22} of{\kf22} blood{\kf22} du{\kf29}ring{\kf15} my{\kf36} stri{\kf36}de
-Dialogue: 0,0:01:18.92,0:01:20.90,DEFAULT,,0,0,0,,{\kf36}I{\kf50} just{\kf29} dis{\kf29}co{\kf29}vered
-Dialogue: 0,0:01:21.04,0:01:23.09,DEFAULT,,0,0,0,,{\kf15}That{\kf29} the{\kf22} po{\kf29}nies{\kf22} were{\kf29} de{\kf22}fea{\kf22}ted
-Dialogue: 0,0:01:23.23,0:01:25.28,DEFAULT,,0,0,0,,{\kf43}By{\kf29} some{\kf22}thing{\kf29} real{\kf22}ly{\kf29} stro{\kf15}ng
-Dialogue: 0,0:01:25.42,0:01:27.55,DEFAULT,,0,0,0,,{\kf22}It{\kf22} seemed{\kf29} ve{\kf29}ry{\kf22} weird{\kf15} and{\kf29} wro{\kf15}ng
-Dialogue: 0,0:01:27.69,0:01:29.81,DEFAULT,,0,0,0,,{\kf22}It{\kf29} just{\kf22} does{\kf29}n'{\kf22}t{\kf29} be{\kf29}lo{\kf15}ng
-Dialogue: 0,0:01:29.95,0:01:32.28,DEFAULT,,0,0,0,,{\kf29}Like{\kf15} it{\kf29} came{\kf22} out{\kf22} of{\kf22} this{\kf57} world
-Dialogue: 0,0:02:08.70,0:02:12.59,DEFAULT,,0,0,0,,{\kf29}I've{\kf78} re{\kf78}gained{\kf22} a{\kf22} small{\kf29} me{\kf29}mo{\kf50}ry
-Dialogue: 0,0:02:12.95,0:02:17.12,DEFAULT,,0,0,0,,{\kf29}Came{\kf22} to{\kf71} my{\kf50} head{\kf29} just{\kf22} like{\kf36} that{\kf36} sud{\kf29}den{\kf50}ly
-Dialogue: 0,0:02:17.83,0:02:21.65,DEFAULT,,0,0,0,,{\kf15}I{\kf85} think{\kf85} I've{\kf29} got{\kf22}ten{\kf22} a{\kf43} clue
-Dialogue: 0,0:02:22.00,0:02:26.17,DEFAULT,,0,0,0,,{\kf29}Some{\kf29}thing{\kf50} tells{\kf22} me{\kf50} this{\kf22} is{\kf29} worse{\kf36} than{\kf29} what{\kf22} I{\kf43} knew
-Dialogue: 0,0:02:52.34,0:02:53.89,DEFAULT,,0,0,0,,{\kf22}I{\kf22} just{\kf22} re{\kf29}mem{\kf50}bered
-Dialogue: 0,0:02:54.03,0:02:55.87,DEFAULT,,0,0,0,,{\kf22}What{\kf22} hap{\kf29}pened{\kf15} in{\kf29} Sep{\kf29}tem{\kf22}ber
-Dialogue: 0,0:02:56.01,0:02:58.14,DEFAULT,,0,0,0,,{\kf22}I'm{\kf22} the{\kf22} one{\kf29} who{\kf22} killed{\kf15} them{\kf43} all
-Dialogue: 0,0:02:58.28,0:03:00.40,DEFAULT,,0,0,0,,{\kf22}I{\kf29} sur{\kf22}vived{\kf29} af{\kf22}ter{\kf15} the{\kf50} fall
+Dialogue: 0,0:00:20.72,0:00:22.00,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf24} can't{\kf24} re{\kf32}mem{\kf31}ber
+Dialogue: 0,0:00:22.35,0:00:24.33,DEFAULT,,0,0,0,,{\r}{\kf24}What{\kf32} hap{\kf24}pened{\kf16} in{\kf32} Sep{\kf32}tem{\kf38}ber
+Dialogue: 0,0:00:24.54,0:00:26.38,DEFAULT,,0,0,0,,{\r}{\kf32}When{\kf24} eve{\kf24}ry{\kf40}thing{\kf16} is{\kf48} gone
+Dialogue: 0,0:00:26.52,0:00:28.86,DEFAULT,,0,0,0,,{\r}{\kf33}When{\kf25} it's{\kf25} dark{\kf25} and{\kf25} I'm{\kf25} a{\kf75}lone
+Dialogue: 0,0:00:29.63,0:00:31.19,DEFAULT,,0,0,0,,{\r}{\kf31}It's{\kf16} been{\kf31} for{\kf31}e{\kf47}ver
+Dialogue: 0,0:00:31.33,0:00:33.24,DEFAULT,,0,0,0,,{\r}{\kf36}Since{\kf27} I{\kf27} could{\kf27} have{\kf27} re{\kf27}mem{\kf20}bered
+Dialogue: 0,0:00:33.38,0:00:35.50,DEFAULT,,0,0,0,,{\r}{\kf24}Where{\kf24} the{\kf24} hell{\kf24} is{\kf24} eve{\kf33}ry{\kf41}po{\kf18}ny
+Dialogue: 0,0:00:35.64,0:00:37.77,DEFAULT,,0,0,0,,{\r}{\kf27}I{\kf27} just{\kf27} want{\kf27} to{\kf27} know{\kf18} the{\kf44} sto{\kf15}ry
+Dialogue: 0,0:00:37.91,0:00:40.24,DEFAULT,,0,0,0,,{\r}{\kf24}Of{\kf24} what{\kf32} hap{\kf24}pened{\kf24} right{\kf24} be{\kf32}fo{\kf49}re
+Dialogue: 0,0:00:40.38,0:00:42.43,DEFAULT,,0,0,0,,{\r}{\kf32}I{\kf24} be{\kf24}came{\kf32} so{\kf24} a{\kf69}lone
+Dialogue: 0,0:01:10.37,0:01:11.99,DEFAULT,,0,0,0,,{\r}{\kf39}Still{\kf16} can't{\kf31} re{\kf31}mem{\kf46}ber
+Dialogue: 0,0:01:12.14,0:01:13.97,DEFAULT,,0,0,0,,{\r}{\kf24}What{\kf32} hap{\kf24}pened{\kf24} in{\kf32} Sep{\kf32}tem{\kf16}ber
+Dialogue: 0,0:01:14.12,0:01:16.24,DEFAULT,,0,0,0,,{\r}{\kf31}Back{\kf24} when{\kf24} eve{\kf31}ry{\kf31}po{\kf24}ny{\kf47} died
+Dialogue: 0,0:01:16.38,0:01:18.78,DEFAULT,,0,0,0,,{\r}{\kf33}Trails{\kf25} of{\kf25} blood{\kf25} du{\kf33}ring{\kf17} my{\kf41} stri{\kf41}de
+Dialogue: 0,0:01:18.92,0:01:20.90,DEFAULT,,0,0,0,,{\r}{\kf41}I{\kf58} just{\kf33} dis{\kf33}co{\kf33}vered
+Dialogue: 0,0:01:21.05,0:01:23.10,DEFAULT,,0,0,0,,{\r}{\kf16}That{\kf32} the{\kf24} po{\kf32}nies{\kf24} were{\kf32} de{\kf24}fea{\kf21}ted
+Dialogue: 0,0:01:23.24,0:01:25.29,DEFAULT,,0,0,0,,{\r}{\kf47}By{\kf32} some{\kf24}thing{\kf32} real{\kf24}ly{\kf32} stro{\kf14}ng
+Dialogue: 0,0:01:25.43,0:01:27.55,DEFAULT,,0,0,0,,{\r}{\kf25}It{\kf25} seemed{\kf34} ve{\kf34}ry{\kf25} weird{\kf17} and{\kf34} wro{\kf18}ng
+Dialogue: 0,0:01:27.69,0:01:29.81,DEFAULT,,0,0,0,,{\r}{\kf24}It{\kf31} just{\kf24} does{\kf31}n'{\kf24}t{\kf31} be{\kf31}lo{\kf16}ng
+Dialogue: 0,0:01:29.96,0:01:32.29,DEFAULT,,0,0,0,,{\r}{\kf35}Like{\kf17} it{\kf35} came{\kf26} out{\kf26} of{\kf26} this{\kf68} world
+Dialogue: 0,0:02:08.71,0:02:12.60,DEFAULT,,0,0,0,,{\r}{\kf33}I've{\kf91} re{\kf91}gained{\kf25} a{\kf25} small{\kf33} me{\kf33}mo{\kf58}ry
+Dialogue: 0,0:02:12.95,0:02:17.12,DEFAULT,,0,0,0,,{\r}{\kf32}Came{\kf24} to{\kf80} my{\kf56} head{\kf32} just{\kf24} like{\kf40} that{\kf40} sud{\kf32}den{\kf57}ly
+Dialogue: 0,0:02:17.83,0:02:21.65,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf109} think{\kf109} I've{\kf36} got{\kf27}ten{\kf27} a{\kf56} clue
+Dialogue: 0,0:02:22.00,0:02:26.18,DEFAULT,,0,0,0,,{\r}{\kf33}Some{\kf33}thing{\kf58} tells{\kf25} me{\kf58} this{\kf25} is{\kf33} worse{\kf42} than{\kf33} what{\kf25} I{\kf52} knew
+Dialogue: 0,0:02:52.34,0:02:53.90,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf23} just{\kf23} re{\kf31}mem{\kf56}bered
+Dialogue: 0,0:02:54.04,0:02:55.88,DEFAULT,,0,0,0,,{\r}{\kf24}What{\kf24} hap{\kf32}pened{\kf16} in{\kf32} Sep{\kf32}tem{\kf24}ber
+Dialogue: 0,0:02:56.02,0:02:58.14,DEFAULT,,0,0,0,,{\r}{\kf26}I'm{\kf26} the{\kf26} one{\kf35} who{\kf26} killed{\kf18} them{\kf55} all
+Dialogue: 0,0:02:58.28,0:03:00.40,DEFAULT,,0,0,0,,{\r}{\kf24}I{\kf33} sur{\kf24}vived{\kf33} af{\kf24}ter{\kf16} the{\kf58} fall

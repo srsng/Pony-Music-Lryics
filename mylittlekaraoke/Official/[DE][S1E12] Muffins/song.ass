@@ -1,22 +1,29 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Muffins
+Artist: Mein kleines Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.00,0:00:03.87,DEFAULT,,0,0,0,,{\kf13}Al{\kf13}les{\kf13} was{\kf9} Du{\kf17} brauchst{\kf9} ist{\kf9} ei{\kf13}ne{\kf17} Tas{\kf17}se,{\kf25} et{\kf17}was
-Dialogue: 0,0:00:03.95,0:00:05.20,DEFAULT,,0,0,0,,{\kf21}Mehl{\kf17} füllst{\kf17} Du{\kf13} hi{\kf34}nein
-Dialogue: 0,0:00:05.87,0:00:07.75,DEFAULT,,0,0,0,,{\kf13}Ir{\kf13}gend{\kf13}et{\kf13}was{\kf13} Sü{\kf9}ßes{\kf13} kommt{\kf13} hin{\kf21}zu{\kf13} und{\kf9} auch{\kf17} et{\kf17}was
-Dialogue: 0,0:00:07.79,0:00:09.08,DEFAULT,,0,0,0,,{\kf25}Salz{\kf17} darf{\kf17} da{\kf21}bei{\kf30} sein
-Dialogue: 0,0:00:09.75,0:00:11.37,DEFAULT,,0,0,0,,{\kf17}Da{\kf13}zu{\kf17} ein{\kf17} Löf{\kf13}fel{\kf13} Va{\kf21}nil{\kf17}le,{\kf21} dann
-Dialogue: 0,0:00:11.45,0:00:13.08,DEFAULT,,0,0,0,,{\kf9}Rühr'{\kf13} es{\kf13} um{\kf21} und{\kf25} lass'{\kf13} es{\kf21} sac{\kf25}ken
-Dialogue: 0,0:00:13.50,0:00:15.04,DEFAULT,,0,0,0,,{\kf13}Füg'{\kf13} noch{\kf13} was{\kf9} Du{\kf17} willst{\kf13} noch{\kf13} hin{\kf21}zu{\kf17} und{\kf17} dann
-Dialogue: 0,0:00:15.08,0:00:16.87,DEFAULT,,0,0,0,,{\kf9}Wird{\kf13} das{\kf17} Gan{\kf13}ze{\kf21} schön{\kf17} ge{\kf17}bac{\kf46}ken
-Dialogue: 0,0:00:17.08,0:00:18.79,DEFAULT,,0,0,0,,{\kf25}Muf{\kf38}fins,{\kf17} der{\kf21} Rie{\kf17}sen{\kf21}ren{\kf13}ner
-Dialogue: 0,0:00:18.87,0:00:20.50,DEFAULT,,0,0,0,,{\kf17}Muf{\kf38}fins,{\kf17} für{\kf17} Ku{\kf17}chen{\kf21}ken{\kf9}ner
-Dialogue: 0,0:00:20.50,0:00:23.62,DEFAULT,,0,0,0,,{\kf21}Muf{\kf46}fins,{\kf17} Muf{\kf21}fins{\kf13} Muf{\kf25}fins{\kf21} Muf{\kf109}fins!
+Dialogue: 0,0:00:02.00,0:00:03.88,DEFAULT,,0,0,0,,{\r}{\kf14}Al{\kf14}les{\kf14} was{\kf10} Du{\kf19} brauchst{\kf10} ist{\kf10} ei{\kf14}ne{\kf19} Tas{\kf19}se,{\kf28} et{\kf17}was
+Dialogue: 0,0:00:03.96,0:00:05.21,DEFAULT,,0,0,0,,{\r}{\kf26}Mehl{\kf21} füllst{\kf21} Du{\kf16} hi{\kf41}nein
+Dialogue: 0,0:00:05.88,0:00:07.75,DEFAULT,,0,0,0,,{\r}{\kf14}Ir{\kf14}gend{\kf14}et{\kf14}was{\kf14} Sü{\kf10}ßes{\kf14} kommt{\kf14} hin{\kf23}zu{\kf14} und{\kf10} auch{\kf18} et{\kf15}was
+Dialogue: 0,0:00:07.79,0:00:09.08,DEFAULT,,0,0,0,,{\r}{\kf30}Salz{\kf20} darf{\kf20} da{\kf25}bei{\kf34} sein
+Dialogue: 0,0:00:09.75,0:00:11.38,DEFAULT,,0,0,0,,{\r}{\kf19}Da{\kf14}zu{\kf19} ein{\kf19} Löf{\kf14}fel{\kf14} Va{\kf23}nil{\kf19}le,{\kf21} dann
+Dialogue: 0,0:00:11.46,0:00:13.08,DEFAULT,,0,0,0,,{\r}{\kf10}Rühr'{\kf15} es{\kf15} um{\kf25} und{\kf29} lass'{\kf15} es{\kf25} sac{\kf28}ken
+Dialogue: 0,0:00:13.50,0:00:15.04,DEFAULT,,0,0,0,,{\r}{\kf14}Füg'{\kf14} noch{\kf14} was{\kf10} Du{\kf18} willst{\kf14} noch{\kf14} hin{\kf23}zu{\kf18} und{\kf15} dann
+Dialogue: 0,0:00:15.08,0:00:16.88,DEFAULT,,0,0,0,,{\r}{\kf10}Wird{\kf15} das{\kf20} Gan{\kf15}ze{\kf25} schön{\kf20} ge{\kf20}bac{\kf54}ken
+Dialogue: 0,0:00:17.08,0:00:18.79,DEFAULT,,0,0,0,,{\r}{\kf28}Muf{\kf43}fins,{\kf19} der{\kf24} Rie{\kf19}sen{\kf24}ren{\kf14}ner
+Dialogue: 0,0:00:18.88,0:00:20.50,DEFAULT,,0,0,0,,{\r}{\kf20}Muf{\kf46}fins,{\kf20} für{\kf20} Ku{\kf20}chen{\kf25}ken{\kf11}ner
+Dialogue: 0,0:00:20.50,0:00:23.62,DEFAULT,,0,0,0,,{\r}{\kf24}Muf{\kf53}fins,{\kf19} Muf{\kf24}fins{\kf14} Muf{\kf29}fins{\kf24} Muf{\kf125}fins!

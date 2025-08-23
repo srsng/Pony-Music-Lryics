@@ -1,96 +1,103 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Fly Like You Remix
+Artist: Wasteland Wailers
+Original Timing: mylittlekaraoke.com by Dex, Linos Melendi
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:22.68,0:00:24.66,DEFAULT,,0,0,0,,{\kf12}Had{\kf12} a{\kf9} pe{\kf9}ga{\kf12}sis{\kf15}ter{\kf15} back{\kf18} in{\kf27} school
-Dialogue: 0,0:00:25.11,0:00:26.72,DEFAULT,,0,0,0,,{\kf9}On{\kf9}ly{\kf12} fli{\kf9}er{\kf9} for{\kf9} a{\kf21} mile{\kf27} or{\kf21} two
-Dialogue: 0,0:00:27.02,0:00:28.58,DEFAULT,,0,0,0,,{\kf6}We{\kf9} was{\kf15} like{\kf18} two{\kf18} hairs{\kf9} in{\kf9} a{\kf39} tail
-Dialogue: 0,0:00:28.93,0:00:30.70,DEFAULT,,0,0,0,,{\kf9}E{\kf9}ven{\kf9} got{\kf9} my{\kf18}self{\kf15} up{\kf9} to{\kf30} Clouds{\kf27}dayle
-Dialogue: 0,0:00:30.82,0:00:32.28,DEFAULT,,0,0,0,,{\kf9}Flock{\kf9} of{\kf12} friends{\kf9} flew{\kf9} me{\kf15} up{\kf15} held{\kf15} tight{\kf12}~
-Dialogue: 0,0:00:32.52,0:00:34.32,DEFAULT,,0,0,0,,{\kf18}Bass{\kf9} and{\kf6} the{\kf12} li{\kf6}quor{\kf15} were{\kf15} pound{\kf9}in'{\kf6} till{\kf9} the{\kf18} day{\kf15}light
-Dialogue: 0,0:00:34.44,0:00:36.23,DEFAULT,,0,0,0,,{\kf18}Drunk{\kf9} hit{\kf9} my{\kf18} brain{\kf9} like{\kf9} a{\kf12} me{\kf6}di{\kf9}um{\kf9} cres{\kf21}cen{\kf12}do
-Dialogue: 0,0:00:36.35,0:00:38.44,DEFAULT,,0,0,0,,{\kf9}Then{\kf9} they{\kf9} start{\kf9}ed{\kf9} chuck{\kf9}in'{\kf12} po{\kf12}nies{\kf18} out{\kf18} the{\kf18} win{\kf42}dow
-Dialogue: 0,0:00:38.74,0:00:40.75,DEFAULT,,0,0,0,,{\kf24}One{\kf15} by{\kf21} one{\kf15}~{\kf18} were{\kf42} thrown{\kf33} off
-Dialogue: 0,0:00:40.87,0:00:44.57,DEFAULT,,0,0,0,,{\kf39}And{\kf33} flew{\kf12} back{\kf30}~{\kf24} up{\kf30} do{\kf21}~{\kf30} ing{\kf24} tricks{\kf54}~
-Dialogue: 0,0:00:46.25,0:00:48.40,DEFAULT,,0,0,0,,{\kf9}It{\kf21} hap{\kf18}pened{\kf42} fast{\kf15} but{\kf24} some{\kf18}~{\kf30} how
-Dialogue: 0,0:00:48.52,0:00:52.41,DEFAULT,,0,0,0,,{\kf12}I{\kf27}~{\kf30} got{\kf21} thrown{\kf21}~{\kf9} off{\kf18}~{\kf36} in{\kf27}~{\kf15} the{\kf9} mix{\kf30}~{\kf51}~
-Dialogue: 0,0:00:53.93,0:00:56.72,DEFAULT,,0,0,0,,{\kf9}The{\kf18} ground{\kf18} came{\kf18} at{\kf27} me{\kf45} light{\kf27}ning{\kf48} quick
-Dialogue: 0,0:00:57.40,0:01:00.39,DEFAULT,,0,0,0,,{\kf21}Got{\kf15} me{\kf18} cry{\kf15}in'{\kf24} scream{\kf15}in'{\kf18} and{\kf42} kin{\kf30}da{\kf39} sick
-Dialogue: 0,0:01:00.75,0:01:04.91,DEFAULT,,0,0,0,,{\kf18}You{\kf18} were{\kf18} too{\kf21} drunk{\kf15} to{\kf39} no{\kf24}tice{\kf18} and{\kf15} too{\kf24}~{\kf21} loud{\kf15} to{\kf42} lis{\kf21}ten{\kf21} but{\kf12} I
-Dialogue: 0,0:01:05.06,0:01:08.77,DEFAULT,,0,0,0,,{\kf18}Guess{\kf18} my{\kf21} bro{\kf15}ken{\kf21} limb{\kf18} ain't{\kf18} worth{\kf15} the{\kf27} fal{\kf12}lin'{\kf15}~{\kf33} dis{\kf60}tance
-Dialogue: 0,0:01:09.36,0:01:12.59,DEFAULT,,0,0,0,,{\kf18}Guess{\kf21} I'll{\kf18} heal{\kf33} my{\kf39}self{\kf21} on{\kf15} the{\kf63} ground{\kf21} cuz{\kf12} my
-Dialogue: 0,0:01:12.71,0:01:16.60,DEFAULT,,0,0,0,,{\kf18}Lack{\kf18} of{\kf21} fring{\kf21}es{\kf18} just{\kf21} seems{\kf15} to{\kf36} slow{\kf12} you{\kf24}~{\kf126} down
-Dialogue: 0,0:01:16.78,0:01:17.50,DEFAULT,,0,0,0,,{\kf18}You{\kf24} called{\kf24} out
-Dialogue: 0,0:01:18.34,0:01:19.77,DEFAULT,,0,0,0,,{\kf33}"Hey{\kf15} glad{\kf12} you{\kf12} di{\kf12}dn't{\kf24} bite{\kf6} it!"
-Dialogue: 0,0:01:19.83,0:01:23.78,DEFAULT,,0,0,0,,{\kf6}Ooh{\kf15}~{\kf15} well{\kf15} glue{\kf15} your{\kf21} wings{\kf18} and{\kf21} jump{\kf18} and{\kf15} buck{\kf15}in'{\kf15} see{\kf18} how{\kf21} you{\kf15}~{\kf33} like{\kf24} it
-Dialogue: 0,0:01:24.56,0:01:27.64,DEFAULT,,0,0,0,,{\kf9}If{\kf18} there's{\kf15} a{\kf24} race{\kf24} in{\kf48} life{\kf36} you'd{\kf45} win{\kf18} I'll{\kf12} be
-Dialogue: 0,0:01:27.79,0:01:31.40,DEFAULT,,0,0,0,,{\kf39}Here{\kf18} be{\kf24}low{\kf15} the{\kf24} stra{\kf15}to{\kf18}sphere{\kf18} while{\kf18} you{\kf15} stay{\kf27}~{\kf45} in{\kf24} it
-Dialogue: 0,0:01:31.58,0:01:35.05,DEFAULT,,0,0,0,,{\kf18}Can't{\kf15} flut{\kf12}ter{\kf15} for{\kf18} no{\kf21}thin'{\kf18} but{\kf18} you{\kf21} still{\kf15} got{\kf15} a{\kf36} rise{\kf18}~
-Dialogue: 0,0:01:35.44,0:01:39.39,DEFAULT,,0,0,0,,{\kf15}I'd{\kf18} love{\kf15} to{\kf18} be{\kf42} flap{\kf18}ping{\kf15} in{\kf15}stead{\kf33}~{\kf12} of{\kf18} just{\kf39} tap{\kf21}ping{\kf15} but{\kf18} that's
-Dialogue: 0,0:01:39.54,0:01:41.00,DEFAULT,,0,0,0,,{\kf30}Just{\kf39} not{\kf21} hap{\kf27}'ning
-Dialogue: 0,0:01:41.18,0:01:44.23,DEFAULT,,0,0,0,,{\kf12}I'll{\kf12} ne{\kf21}ver{\kf21} be{\kf21} fly{\kf18}~{\kf21} like{\kf27}~{\kf96} you
-Dialogue: 0,0:01:46.21,0:01:50.69,DEFAULT,,0,0,0,,{\kf12} Fly{\kf18}~{\kf24} like{\kf12} you{\kf12}~{\kf60}~{\kf12}~{\kf12}~{\kf120}~{\kf66}~
-Dialogue: 0,0:01:51.41,0:01:53.86,DEFAULT,,0,0,0,,{\kf39}Hey{\kf18} sor{\kf12}ry{\kf9} to{\kf18} blink{\kf18} in{\kf15} but{\kf9} I{\kf15} heard{\kf6} you{\kf9} on{\kf9} the{\kf12} street
-Dialogue: 0,0:01:53.98,0:01:55.30,DEFAULT,,0,0,0,,{\kf6}And{\kf15} I{\kf12} had{\kf6} to{\kf12} give{\kf21} my{\kf15} side{\kf9} of{\kf9} it
-Dialogue: 0,0:01:55.51,0:01:56.58,DEFAULT,,0,0,0,,{\kf15}What{\kf9} the{\kf24} hell{\kf12} are{\kf9} you{\kf15} talk...
-Dialogue: 0,0:01:56.76,0:01:59.33,DEFAULT,,0,0,0,,{\kf12}I{\kf15} played{\kf15} that{\kf24} show{\kf24} and{\kf15} sor{\kf15}ry{\kf27} Dash{\kf12} was{\kf15} so{\kf15} shit{\kf12}ty
-Dialogue: 0,0:01:59.45,0:02:01.16,DEFAULT,,0,0,0,,{\kf15}But{\kf24} don't{\kf15} wor{\kf15}ry{\kf15} I{\kf6} put{\kf12} her{\kf6} in{\kf9} her{\kf12} place
-Dialogue: 0,0:02:01.28,0:02:03.31,DEFAULT,,0,0,0,,{\kf12}What{\kf18}d'ya{\kf33} do?{\kf15} And{\kf18} who{\kf21} are{\kf21} you?
-Dialogue: 0,0:02:03.52,0:02:04.90,DEFAULT,,0,0,0,,{\kf12} PON{\kf24}~{\kf90} 3!
-Dialogue: 0,0:02:06.27,0:02:07.89,DEFAULT,,0,0,0,,{\kf18}Spin{\kf9}nin'{\kf6} in{\kf9} the{\kf21} sky{\kf12} just{\kf9} hoo{\kf9}fin'{\kf9} mah{\kf21} set
-Dialogue: 0,0:02:08.01,0:02:10.07,DEFAULT,,0,0,0,,{\kf6}Then{\kf6} I{\kf12} saw{\kf12} you{\kf15} dive{\kf18} bomb{\kf12} no{\kf15} fea{\kf12}thers{\kf9} no{\kf12} net{\kf6} I{\kf12} said
-Dialogue: 0,0:02:10.34,0:02:11.83,DEFAULT,,0,0,0,,{\kf12}Hey{\kf15} dudes{\kf9} you{\kf12} got{\kf9} some{\kf15} wings{\kf9} you{\kf9} can{\kf21} spare
-Dialogue: 0,0:02:11.95,0:02:13.24,DEFAULT,,0,0,0,,{\kf9}The{\kf12} mu{\kf9}tha{\kf9}buc{\kf9}kas{\kf15} shrugged{\kf12} it{\kf21} off{\kf6} like
-Dialogue: 0,0:02:13.33,0:02:13.96,DEFAULT,,0,0,0,,{\kf9}She{\kf12} can{\kf12} grow{\kf6} a{\kf12} pair
-Dialogue: 0,0:02:14.14,0:02:15.99,DEFAULT,,0,0,0,,{\kf9}So{\kf15} I{\kf21} cussed{\kf9} her{\kf21} out{\kf9} I{\kf15} don't{\kf12} give{\kf15} a{\kf24} shit
-Dialogue: 0,0:02:16.11,0:02:17.49,DEFAULT,,0,0,0,,{\kf6}Got{\kf9} e{\kf15}nough{\kf24} shows{\kf9} got{\kf6} e{\kf21}nough{\kf18} bits
-Dialogue: 0,0:02:17.85,0:02:19.43,DEFAULT,,0,0,0,,{\kf9}What{\kf9} was{\kf9} I{\kf6} gon{\kf6}na{\kf12} do?{\kf9} Sit{\kf9} and{\kf12} bite{\kf12} my{\kf24} lip?
-Dialogue: 0,0:02:19.55,0:02:21.40,DEFAULT,,0,0,0,,{\kf15}May{\kf9}be{\kf6} you{\kf9} can{\kf12} clear{\kf12} your{\kf21} own{\kf33} clouds{\kf27} skip
-Dialogue: 0,0:02:21.52,0:02:23.20,DEFAULT,,0,0,0,,{\kf6}I{\kf18} took{\kf12} mah{\kf24} horn{\kf6} to{\kf12} the{\kf12} win{\kf9}dow{\kf9} like{\kf6} a{\kf9} wea{\kf6}pon
-Dialogue: 0,0:02:23.32,0:02:25.14,DEFAULT,,0,0,0,,{\kf6}And{\kf6} I{\kf15} bust{\kf12} the{\kf18} sky{\kf6} up{\kf6} in{\kf12} a{\kf12}bout{\kf12} two{\kf12} sec{\kf12}onds
-Dialogue: 0,0:02:25.38,0:02:26.94,DEFAULT,,0,0,0,,{\kf6}Did{\kf6} it{\kf12} all{\kf12} with{\kf12}out{\kf12} drop{\kf9}pin'{\kf6} the{\kf18} beat
-Dialogue: 0,0:02:27.06,0:02:28.49,DEFAULT,,0,0,0,,{\kf12}So{\kf6} how's{\kf6} it{\kf6} feel{\kf6} to{\kf6} be{\kf12} ob{\kf12}so{\kf12}lete?
-Dialogue: 0,0:02:28.79,0:02:31.06,DEFAULT,,0,0,0,,{\kf24}Watch{\kf18} that{\kf36} jaw{\kf45} drop{\kf12} put{\kf9} that{\kf9} at{\kf9}ti{\kf12}tude{\kf15} on
-Dialogue: 0,0:02:31.18,0:02:33.78,DEFAULT,,0,0,0,,{\kf33}Full{\kf42} stop{\kf21} don't{\kf12} need{\kf21} wings{\kf9} to{\kf21} be{\kf33} on{\kf21} top
-Dialogue: 0,0:02:33.90,0:02:34.77,DEFAULT,,0,0,0,,{\kf18}Pon-{\kf18} 3{\kf9} on{\kf9} the{\kf21} bass
-Dialogue: 0,0:02:34.86,0:02:35.58,DEFAULT,,0,0,0,,{\kf6}And{\kf6} I{\kf9} beat{\kf6} your{\kf15} time{\kf6} by{\kf6} eight
-Dialogue: 0,0:02:35.64,0:02:37.07,DEFAULT,,0,0,0,,{\kf9}So{\kf9} how's{\kf9} that{\kf12} tech{\kf9}ni{\kf9}col{\kf9}or{\kf15} hat{\kf30} taste?
-Dialogue: 0,0:02:37.46,0:02:40.87,DEFAULT,,0,0,0,,{\kf18}I've{\kf18} been{\kf42} told{\kf15} to{\kf27} turn{\kf21}~{\kf39} the{\kf42} o{\kf30}ther{\kf33} cheek
-Dialogue: 0,0:02:41.02,0:02:43.71,DEFAULT,,0,0,0,,{\kf9}And{\kf18}~{\kf48} rise{\kf30} a{\kf36}bove{\kf75} it
-Dialogue: 0,0:02:44.16,0:02:45.90,DEFAULT,,0,0,0,,{\kf18}But{\kf12} the{\kf18} wea{\kf15}ther{\kf15} is{\kf42} per{\kf9}fect
-Dialogue: 0,0:02:46.02,0:02:48.08,DEFAULT,,0,0,0,,{\kf18}So{\kf42} all{\kf15} ex{\kf9}pect{\kf12}~{\kf39} wor{\kf21}ship{\kf12} but
-Dialogue: 0,0:02:48.14,0:02:52.30,DEFAULT,,0,0,0,,{\kf18}I{\kf21}~{\kf36} think{\kf39} they{\kf33} can{\kf48} shove{\kf21} it{\kf144}~
-Dialogue: 0,0:02:52.77,0:02:55.70,DEFAULT,,0,0,0,,{\kf15}Bite{\kf15} my{\kf36} tongue,{\kf51} choke,{\kf48} swal{\kf24}low{\kf9} and
-Dialogue: 0,0:02:55.85,0:02:58.93,DEFAULT,,0,0,0,,{\kf45}Smi{\kf21}le{\kf21} when{\kf18} I'm{\kf27}~{\kf33} a{\kf21}round{\kf24}~{\kf63} her
-Dialogue: 0,0:02:59.35,0:03:01.21,DEFAULT,,0,0,0,,{\kf21}But{\kf21} it's{\kf21} tough{\kf15} to{\kf21} be{\kf39} ma{\kf12}nic
-Dialogue: 0,0:03:01.33,0:03:03.66,DEFAULT,,0,0,0,,{\kf15}'bout{\kf15} the{\kf18} ae{\kf18}ro{\kf9}dy{\kf15}~{\kf42} nam{\kf15}ic{\kf21} when{\kf12} there's
-Dialogue: 0,0:03:03.78,0:03:06.86,DEFAULT,,0,0,0,,{\kf21}All{\kf21} these{\kf24} wise{\kf21}guy{\kf15} pe{\kf12}ga{\kf18}si{\kf15} fly{\kf15}in'{\kf15} by{\kf36} scream{\kf60}in'
-Dialogue: 0,0:03:06.98,0:03:07.04,DEFAULT,,0,0,0,,{\kf6} (Suck it grounder!)
-Dialogue: 0,0:03:10.42,0:03:14.63,DEFAULT,,0,0,0,,{\kf15}I{\kf27}~{\kf48} give{\kf12} up{\kf123}~{\kf21} what{\kf36}e{\kf24}ver{\kf21} I{\kf60} tried
-Dialogue: 0,0:03:14.75,0:03:18.82,DEFAULT,,0,0,0,,{\kf18}And{\kf18} I'll{\kf18} ne{\kf18}ver{\kf24} crack{\kf15} your{\kf18} clique{\kf21} 'cuz{\kf18} I{\kf15} don't{\kf21}~{\kf18} go{\kf18}~{\kf33} Mach{\kf51} Five
-Dialogue: 0,0:03:18.94,0:03:22.26,DEFAULT,,0,0,0,,{\kf21}Coun{\kf12}tin'{\kf18} down{\kf15} the{\kf42} days{\kf18} 'til{\kf18} you{\kf18} crash{\kf27}~{\kf18} and{\kf15}~{\kf33} wit{\kf21}ness
-Dialogue: 0,0:03:22.59,0:03:26.39,DEFAULT,,0,0,0,,{\kf21}How{\kf15} gra{\kf12}vi{\kf12}ty{\kf15} makes{\kf18} the{\kf24} rest{\kf18} of{\kf21} us{\kf15} its{\kf18} dir{\kf18}ty{\kf18} lit{\kf15}tle{\kf27} mis{\kf36}tress
-Dialogue: 0,0:03:26.98,0:03:29.68,DEFAULT,,0,0,0,,{\kf12}If{\kf12} there{\kf9} was{\kf12} a{\kf24} race{\kf12} in{\kf18}~{\kf51} life{\kf36} you'd{\kf36} win
-Dialogue: 0,0:03:29.80,0:03:33.80,DEFAULT,,0,0,0,,{\kf18}I'll{\kf18} be{\kf18} here{\kf21}~{\kf12} be{\kf21}low{\kf12} the{\kf21} stra{\kf15}to{\kf18}sphere{\kf21} while{\kf12} you{\kf15} stay{\kf24}~{\kf36} in{\kf24} it
-Dialogue: 0,0:03:34.31,0:03:37.75,DEFAULT,,0,0,0,,{\kf15}Go{\kf9} and{\kf15} get{\kf15} your{\kf33} ca{\kf24}mera{\kf18} it's{\kf15} the{\kf27} last{\kf21} time{\kf18} I'll{\kf15} be{\kf24} by{\kf27}~
-Dialogue: 0,0:03:38.05,0:03:45.29,DEFAULT,,0,0,0,,{\kf27}Flex{\kf27}ing{\kf24} your{\kf30} wing's{\kf18} all{\kf24} you{\kf15} do{\kf27}~{\kf18} it's{\kf21} de{\kf36}pres{\kf30}sing{\kf171}~{\kf15}~{\kf39}~{\kf132}~
-Dialogue: 0,0:03:45.50,0:03:47.26,DEFAULT,,0,0,0,,{\kf9}Oh{\kf9} and{\kf12} watch{\kf12} out{\kf12} for{\kf12} light{\kf9}ning{\kf9} and{\kf15} tur{\kf12}bu{\kf15}lence
-Dialogue: 0,0:03:47.38,0:03:49.26,DEFAULT,,0,0,0,,{\kf9}when{\kf15} you{\kf24} splat{\kf18} it's{\kf18} real{\kf15}ly{\kf24} nas{\kf9}ty
-Dialogue: 0,0:03:49.38,0:03:52.82,DEFAULT,,0,0,0,,{\kf18}To{\kf27} hell{\kf15} with{\kf18} your{\kf36} flap{\kf21}ping{\kf21} all{\kf18} your{\kf21} wings{\kf15} will{\kf15} need{\kf36} wrap{\kf12}ping
-Dialogue: 0,0:03:52.97,0:04:01.40,DEFAULT,,0,0,0,,{\kf24}While{\kf21} we{\kf54} all{\kf48} die{\kf18}~{\kf72} hap{\kf383}py{\kf15} ne{\kf18}ver{\kf18} be{\kf24}in'{\kf30} fly
-Dialogue: 0,0:04:01.61,0:04:05.02,DEFAULT,,0,0,0,,{\kf18}Can't{\kf21} keep{\kf33} up{\kf21} what{\kf9}e{\kf27}~{\kf21}ver{\kf24} I{\kf123} do
-Dialogue: 0,0:04:05.44,0:04:08.58,DEFAULT,,0,0,0,,{\kf18}Can't{\kf24} keep{\kf27} up{\kf24} what{\kf9}e{\kf30}~{\kf15}ver{\kf24} I{\kf15} do{\kf30}~{\kf48}~
-Dialogue: 0,0:04:08.76,0:04:12.08,DEFAULT,,0,0,0,,{\kf42}Can't{\kf42} keep{\kf48} up{\kf21} what{\kf36}e{\kf21}ver{\kf21} I{\kf63} do
-Dialogue: 0,0:04:12.20,0:04:14.14,DEFAULT,,0,0,0,,{\kf15}But{\kf15} I'll{\kf21} die{\kf21} be{\kf21}fore{\kf15} I'm{\kf21} e{\kf30}ver
-Dialogue: 0,0:04:14.32,0:04:17.40,DEFAULT,,0,0,0,,{\kf42}Fly{\kf39} like{\kf48} you{\kf165}~
-Dialogue: 0,0:04:19.35,0:04:22.94,DEFAULT,,0,0,0,,{\kf42}Fly{\kf45} like{\kf30}~{\kf219} you
-Dialogue: 0,0:04:23.17,0:04:26.13,DEFAULT,,0,0,0,,{\kf42}Fly{\kf69} like{\kf162} you
-Dialogue: 0,0:04:27.33,0:04:29.51,DEFAULT,,0,0,0,,{\kf15}You{\kf33}~{\kf9}~{\kf84}~{\kf63}~
-Dialogue: 0,0:04:29.63,0:04:33.13,DEFAULT,,0,0,0,,{\kf21}I'll{\kf12} ne{\kf18}ver{\kf33} be{\kf24} fly{\kf27}~{\kf33} like{\kf36}~{\kf96} you
+Dialogue: 0,0:00:22.69,0:00:24.66,DEFAULT,,0,0,0,,{\r}{\kf18}Had{\kf18} a{\kf14} pe{\kf14}ga{\kf18}sis{\kf23}ter{\kf23} back{\kf27} in{\kf42} school
+Dialogue: 0,0:00:25.11,0:00:26.73,DEFAULT,,0,0,0,,{\r}{\kf12}On{\kf12}ly{\kf15} fli{\kf12}er{\kf12} for{\kf12} a{\kf27} mile{\kf34} or{\kf25} two
+Dialogue: 0,0:00:27.03,0:00:28.58,DEFAULT,,0,0,0,,{\r}{\kf10}We{\kf11} was{\kf19} like{\kf23} two{\kf23} hairs{\kf11} in{\kf11} a{\kf48} tail
+Dialogue: 0,0:00:28.94,0:00:30.70,DEFAULT,,0,0,0,,{\r}{\kf12}E{\kf12}ven{\kf12} got{\kf12} my{\kf23}self{\kf20} up{\kf12} to{\kf39} Clouds{\kf34}dayle
+Dialogue: 0,0:00:30.82,0:00:32.29,DEFAULT,,0,0,0,,{\r}{\kf13}Flock{\kf13} of{\kf17} friends{\kf13} flew{\kf13} me{\kf21} up{\kf21} held{\kf21} tight{\kf15}~
+Dialogue: 0,0:00:32.53,0:00:34.32,DEFAULT,,0,0,0,,{\r}{\kf23}Bass{\kf12} and{\kf10} the{\kf16} li{\kf10}quor{\kf19} were{\kf19} pound{\kf12}in'{\kf10} till{\kf12} the{\kf23} day{\kf13}light
+Dialogue: 0,0:00:34.44,0:00:36.24,DEFAULT,,0,0,0,,{\r}{\kf23}Drunk{\kf11} hit{\kf11} my{\kf23} brain{\kf11} like{\kf11} a{\kf15} me{\kf10}di{\kf11}um{\kf11} cres{\kf27}cen{\kf15}do
+Dialogue: 0,0:00:36.36,0:00:38.45,DEFAULT,,0,0,0,,{\r}{\kf11}Then{\kf11} they{\kf11} start{\kf11}ed{\kf11} chuck{\kf11}in'{\kf14} po{\kf14}nies{\kf22} out{\kf22} the{\kf22} win{\kf49}dow
+Dialogue: 0,0:00:38.75,0:00:40.75,DEFAULT,,0,0,0,,{\r}{\kf29}One{\kf18} by{\kf25} one{\kf18}~{\kf21} were{\kf50} thrown{\kf39} off
+Dialogue: 0,0:00:40.87,0:00:44.58,DEFAULT,,0,0,0,,{\r}{\kf49}And{\kf41} flew{\kf15} back{\kf37}~{\kf30} up{\kf37} do{\kf26}~{\kf37} ing{\kf30} tricks{\kf69}~
+Dialogue: 0,0:00:46.25,0:00:48.41,DEFAULT,,0,0,0,,{\r}{\kf11}It{\kf26} hap{\kf22}pened{\kf51} fast{\kf18} but{\kf29} some{\kf22}~{\kf36} how
+Dialogue: 0,0:00:48.53,0:00:52.41,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf34}~{\kf38} got{\kf27} thrown{\kf27}~{\kf11} off{\kf23}~{\kf46} in{\kf34}~{\kf19} the{\kf11} mix{\kf38}~{\kf66}~
+Dialogue: 0,0:00:53.94,0:00:56.72,DEFAULT,,0,0,0,,{\r}{\kf12}The{\kf24} ground{\kf24} came{\kf24} at{\kf36} me{\kf60} light{\kf36}ning{\kf62} quick
+Dialogue: 0,0:00:57.41,0:01:00.40,DEFAULT,,0,0,0,,{\r}{\kf26}Got{\kf19} me{\kf23} cry{\kf19}in'{\kf30} scream{\kf19}in'{\kf23} and{\kf53} kin{\kf38}da{\kf49} sick
+Dialogue: 0,0:01:00.76,0:01:04.91,DEFAULT,,0,0,0,,{\r}{\kf22}You{\kf22} were{\kf22} too{\kf26} drunk{\kf18} to{\kf47} no{\kf29}tice{\kf22} and{\kf18} too{\kf29}~{\kf26} loud{\kf18} to{\kf51} lis{\kf26}ten{\kf26} but{\kf14} I
+Dialogue: 0,0:01:05.06,0:01:08.77,DEFAULT,,0,0,0,,{\r}{\kf23}Guess{\kf23} my{\kf27} bro{\kf19}ken{\kf27} limb{\kf23} ain't{\kf23} worth{\kf19} the{\kf34} fal{\kf15}lin'{\kf19}~{\kf42} dis{\kf77}tance
+Dialogue: 0,0:01:09.37,0:01:12.60,DEFAULT,,0,0,0,,{\r}{\kf22}Guess{\kf26} I'll{\kf22} heal{\kf41} my{\kf48}self{\kf26} on{\kf19} the{\kf78} ground{\kf26} cuz{\kf15} my
+Dialogue: 0,0:01:12.72,0:01:16.61,DEFAULT,,0,0,0,,{\r}{\kf21}Lack{\kf21} of{\kf25} fring{\kf25}es{\kf21} just{\kf25} seems{\kf18} to{\kf42} slow{\kf14} you{\kf28}~{\kf149} down
+Dialogue: 0,0:01:16.79,0:01:17.50,DEFAULT,,0,0,0,,{\r}{\kf20}You{\kf26} called{\kf26} out
+Dialogue: 0,0:01:18.34,0:01:19.78,DEFAULT,,0,0,0,,{\r}{\kf42}"Hey{\kf19} glad{\kf15} you{\kf15} di{\kf15}dn't{\kf30} bite{\kf10} it!"
+Dialogue: 0,0:01:19.84,0:01:23.78,DEFAULT,,0,0,0,,{\r}{\kf10}Ooh{\kf20}~{\kf20} well{\kf20} glue{\kf20} your{\kf28} wings{\kf24} and{\kf28} jump{\kf24} and{\kf20} buck{\kf20}in'{\kf20} see{\kf24} how{\kf28} you{\kf20}~{\kf43} like{\kf26} it
+Dialogue: 0,0:01:24.56,0:01:27.64,DEFAULT,,0,0,0,,{\r}{\kf11}If{\kf22} there's{\kf19} a{\kf30} race{\kf30} in{\kf59} life{\kf45} you'd{\kf56} win{\kf22} I'll{\kf14} be
+Dialogue: 0,0:01:27.79,0:01:31.41,DEFAULT,,0,0,0,,{\r}{\kf47}Here{\kf22} be{\kf29}low{\kf18} the{\kf29} stra{\kf18}to{\kf22}sphere{\kf22} while{\kf22} you{\kf18} stay{\kf33}~{\kf54} in{\kf28} it
+Dialogue: 0,0:01:31.59,0:01:35.06,DEFAULT,,0,0,0,,{\r}{\kf26}Can't{\kf22} flut{\kf17}ter{\kf22} for{\kf26} no{\kf30}thin'{\kf26} but{\kf26} you{\kf30} still{\kf22} got{\kf22} a{\kf52} rise{\kf26}~
+Dialogue: 0,0:01:35.45,0:01:39.39,DEFAULT,,0,0,0,,{\r}{\kf19}I'd{\kf23} love{\kf19} to{\kf23} be{\kf53} flap{\kf23}ping{\kf19} in{\kf19}stead{\kf42}~{\kf15} of{\kf23} just{\kf49} tap{\kf27}ping{\kf19} but{\kf22} that's
+Dialogue: 0,0:01:39.54,0:01:41.01,DEFAULT,,0,0,0,,{\r}{\kf38}Just{\kf49} not{\kf26} hap{\kf34}'ning
+Dialogue: 0,0:01:41.19,0:01:44.24,DEFAULT,,0,0,0,,{\r}{\kf15}I'll{\kf15} ne{\kf26}ver{\kf26} be{\kf26} fly{\kf22}~{\kf26} like{\kf33}~{\kf116} you
+Dialogue: 0,0:01:46.21,0:01:50.70,DEFAULT,,0,0,0,,{\r}{\kf15} Fly{\kf23}~{\kf31} like{\kf15} you{\kf15}~{\kf77}~{\kf15}~{\kf15}~{\kf155}~{\kf88}~
+Dialogue: 0,0:01:51.42,0:01:53.87,DEFAULT,,0,0,0,,{\r}{\kf51}Hey{\kf23} sor{\kf16}ry{\kf12} to{\kf23} blink{\kf23} in{\kf19} but{\kf12} I{\kf19} heard{\kf10} you{\kf12} on{\kf12} the{\kf13} street
+Dialogue: 0,0:01:53.99,0:01:55.30,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf19} I{\kf15} had{\kf10} to{\kf15} give{\kf26} my{\kf19} side{\kf11} of{\kf10} it
+Dialogue: 0,0:01:55.51,0:01:56.59,DEFAULT,,0,0,0,,{\r}{\kf19}What{\kf12} the{\kf31} hell{\kf15} are{\kf12} you{\kf19} talk...
+Dialogue: 0,0:01:56.77,0:01:59.34,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf19} played{\kf19} that{\kf31} show{\kf31} and{\kf19} sor{\kf19}ry{\kf35} Dash{\kf15} was{\kf19} so{\kf19} shit{\kf16}ty
+Dialogue: 0,0:01:59.46,0:02:01.16,DEFAULT,,0,0,0,,{\r}{\kf20}But{\kf32} don't{\kf20} wor{\kf20}ry{\kf20} I{\kf10} put{\kf16} her{\kf10} in{\kf12} her{\kf10} place
+Dialogue: 0,0:02:01.28,0:02:03.32,DEFAULT,,0,0,0,,{\r}{\kf18}What{\kf26}d'ya{\kf49} do?{\kf22} And{\kf26} who{\kf31} are{\kf31} you?
+Dialogue: 0,0:02:03.53,0:02:04.90,DEFAULT,,0,0,0,,{\r}{\kf13} PON{\kf26}~{\kf99} 3!
+Dialogue: 0,0:02:06.28,0:02:07.89,DEFAULT,,0,0,0,,{\r}{\kf24}Spin{\kf12}nin'{\kf10} in{\kf12} the{\kf27} sky{\kf16} just{\kf12} hoo{\kf12}fin'{\kf12} mah{\kf24} set
+Dialogue: 0,0:02:08.01,0:02:10.08,DEFAULT,,0,0,0,,{\r}{\kf10}Then{\kf10} I{\kf17} saw{\kf17} you{\kf21} dive{\kf25} bomb{\kf17} no{\kf21} fea{\kf17}thers{\kf13} no{\kf17} net{\kf10} I{\kf11} said
+Dialogue: 0,0:02:10.34,0:02:11.84,DEFAULT,,0,0,0,,{\r}{\kf16}Hey{\kf20} dudes{\kf12} you{\kf16} got{\kf12} some{\kf20} wings{\kf12} you{\kf12} can{\kf30} spare
+Dialogue: 0,0:02:11.96,0:02:13.25,DEFAULT,,0,0,0,,{\r}{\kf11}The{\kf15} mu{\kf11}tha{\kf11}buc{\kf11}kas{\kf19} shrugged{\kf15} it{\kf27} off{\kf10} like
+Dialogue: 0,0:02:13.33,0:02:13.96,DEFAULT,,0,0,0,,{\r}{\kf11}She{\kf15} can{\kf15} grow{\kf10} a{\kf12} pair
+Dialogue: 0,0:02:14.14,0:02:16.00,DEFAULT,,0,0,0,,{\r}{\kf11}So{\kf18} I{\kf26} cussed{\kf11} her{\kf26} out{\kf11} I{\kf18} don't{\kf15} give{\kf18} a{\kf31} shit
+Dialogue: 0,0:02:16.12,0:02:17.49,DEFAULT,,0,0,0,,{\r}{\kf10}Got{\kf12} e{\kf19}nough{\kf31} shows{\kf12} got{\kf10} e{\kf27}nough{\kf17} bits
+Dialogue: 0,0:02:17.85,0:02:19.44,DEFAULT,,0,0,0,,{\r}{\kf12}What{\kf12} was{\kf12} I{\kf10} gon{\kf10}na{\kf16} do?{\kf12} Sit{\kf12} and{\kf16} bite{\kf16} my{\kf30} lip?
+Dialogue: 0,0:02:19.56,0:02:21.41,DEFAULT,,0,0,0,,{\r}{\kf19}May{\kf12}be{\kf10} you{\kf12} can{\kf15} clear{\kf15} your{\kf27} own{\kf42} clouds{\kf33} skip
+Dialogue: 0,0:02:21.53,0:02:23.20,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf23} took{\kf16} mah{\kf31} horn{\kf10} to{\kf16} the{\kf16} win{\kf12}dow{\kf12} like{\kf10} a{\kf12} wea{\kf10}pon
+Dialogue: 0,0:02:23.32,0:02:25.15,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf10} I{\kf21} bust{\kf17} the{\kf25} sky{\kf10} up{\kf10} in{\kf17} a{\kf17}bout{\kf17} two{\kf17} sec{\kf11}onds
+Dialogue: 0,0:02:25.39,0:02:26.94,DEFAULT,,0,0,0,,{\r}{\kf10}Did{\kf10} it{\kf20} all{\kf20} with{\kf20}out{\kf20} drop{\kf15}pin'{\kf10} the{\kf31} beat
+Dialogue: 0,0:02:27.06,0:02:28.50,DEFAULT,,0,0,0,,{\r}{\kf22}So{\kf11} how's{\kf11} it{\kf11} feel{\kf11} to{\kf11} be{\kf22} ob{\kf22}so{\kf23}lete?
+Dialogue: 0,0:02:28.80,0:02:31.07,DEFAULT,,0,0,0,,{\r}{\kf29}Watch{\kf22} that{\kf43} jaw{\kf54} drop{\kf14} put{\kf11} that{\kf11} at{\kf11}ti{\kf14}tude{\kf18} on
+Dialogue: 0,0:02:31.19,0:02:33.79,DEFAULT,,0,0,0,,{\r}{\kf40}Full{\kf51} stop{\kf26} don't{\kf15} need{\kf26} wings{\kf11} to{\kf26} be{\kf40} on{\kf25} top
+Dialogue: 0,0:02:33.91,0:02:34.78,DEFAULT,,0,0,0,,{\r}{\kf21}Pon-{\kf21} 3{\kf10} on{\kf10} the{\kf25} bass
+Dialogue: 0,0:02:34.87,0:02:35.58,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf10} I{\kf12} beat{\kf10} your{\kf20} time{\kf10} by{\kf10} eight
+Dialogue: 0,0:02:35.64,0:02:37.08,DEFAULT,,0,0,0,,{\r}{\kf12}So{\kf12} how's{\kf12} that{\kf16} tech{\kf12}ni{\kf12}col{\kf12}or{\kf19} hat{\kf37} taste?
+Dialogue: 0,0:02:37.47,0:02:40.88,DEFAULT,,0,0,0,,{\r}{\kf22}I've{\kf22} been{\kf50} told{\kf18} to{\kf32} turn{\kf25}~{\kf47} the{\kf50} o{\kf36}ther{\kf39} cheek
+Dialogue: 0,0:02:41.03,0:02:43.72,DEFAULT,,0,0,0,,{\r}{\kf11}And{\kf22}~{\kf60} rise{\kf37} a{\kf45}bove{\kf94} it
+Dialogue: 0,0:02:44.17,0:02:45.90,DEFAULT,,0,0,0,,{\r}{\kf24}But{\kf16} the{\kf24} wea{\kf20}ther{\kf20} is{\kf56} per{\kf13}fect
+Dialogue: 0,0:02:46.02,0:02:48.08,DEFAULT,,0,0,0,,{\r}{\kf22}So{\kf52} all{\kf18} ex{\kf11}pect{\kf15}~{\kf48} wor{\kf26}ship{\kf14} but
+Dialogue: 0,0:02:48.14,0:02:52.30,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf24}~{\kf42} think{\kf45} they{\kf38} can{\kf55} shove{\kf24} it{\kf167}~
+Dialogue: 0,0:02:52.78,0:02:55.71,DEFAULT,,0,0,0,,{\r}{\kf22}Bite{\kf22} my{\kf53} tongue,{\kf75} choke,{\kf71} swal{\kf36}low{\kf14} and
+Dialogue: 0,0:02:55.86,0:02:58.94,DEFAULT,,0,0,0,,{\r}{\kf51}Smi{\kf24}le{\kf24} when{\kf20} I'm{\kf30}~{\kf37} a{\kf24}round{\kf27}~{\kf71} her
+Dialogue: 0,0:02:59.36,0:03:01.21,DEFAULT,,0,0,0,,{\r}{\kf26}But{\kf26} it's{\kf26} tough{\kf18} to{\kf26} be{\kf48} ma{\kf15}nic
+Dialogue: 0,0:03:01.33,0:03:03.66,DEFAULT,,0,0,0,,{\r}{\kf19}'bout{\kf19} the{\kf23} ae{\kf23}ro{\kf12}dy{\kf19}~{\kf54} nam{\kf19}ic{\kf27} when{\kf18} there's
+Dialogue: 0,0:03:03.78,0:03:06.86,DEFAULT,,0,0,0,,{\r}{\kf24}All{\kf24} these{\kf27} wise{\kf24}guy{\kf17} pe{\kf14}ga{\kf20}si{\kf17} fly{\kf17}in'{\kf17} by{\kf41} scream{\kf66}in'
+Dialogue: 0,0:03:06.98,0:03:07.04,DEFAULT,,0,0,0,,{\r}{\kf10} (Suck it grounder!)
+Dialogue: 0,0:03:10.42,0:03:14.64,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf29}~{\kf52} give{\kf13} up{\kf134}~{\kf23} what{\kf39}e{\kf26}ver{\kf23} I{\kf67} tried
+Dialogue: 0,0:03:14.76,0:03:18.83,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf23} I'll{\kf23} ne{\kf23}ver{\kf30} crack{\kf19} your{\kf23} clique{\kf26} 'cuz{\kf23} I{\kf19} don't{\kf26}~{\kf23} go{\kf23}~{\kf41} Mach{\kf62} Five
+Dialogue: 0,0:03:18.94,0:03:22.26,DEFAULT,,0,0,0,,{\r}{\kf25}Coun{\kf14}tin'{\kf22} down{\kf18} the{\kf51} days{\kf22} 'til{\kf22} you{\kf22} crash{\kf32}~{\kf22} and{\kf18}~{\kf40} wit{\kf24}ness
+Dialogue: 0,0:03:22.59,0:03:26.39,DEFAULT,,0,0,0,,{\r}{\kf26}How{\kf19} gra{\kf15}vi{\kf15}ty{\kf19} makes{\kf23} the{\kf30} rest{\kf23} of{\kf26} us{\kf19} its{\kf23} dir{\kf23}ty{\kf23} lit{\kf19}tle{\kf34} mis{\kf43}tress
+Dialogue: 0,0:03:26.99,0:03:29.68,DEFAULT,,0,0,0,,{\r}{\kf15}If{\kf15} there{\kf11} was{\kf15} a{\kf29} race{\kf15} in{\kf22}~{\kf62} life{\kf44} you'd{\kf41} win
+Dialogue: 0,0:03:29.80,0:03:33.81,DEFAULT,,0,0,0,,{\r}{\kf24}I'll{\kf24} be{\kf24} here{\kf28}~{\kf16} be{\kf28}low{\kf16} the{\kf28} stra{\kf20}to{\kf24}sphere{\kf28} while{\kf16} you{\kf20} stay{\kf31}~{\kf47} in{\kf27} it
+Dialogue: 0,0:03:34.32,0:03:37.75,DEFAULT,,0,0,0,,{\r}{\kf19}Go{\kf11} and{\kf19} get{\kf19} your{\kf41} ca{\kf30}mera{\kf22} it's{\kf19} the{\kf34} last{\kf26} time{\kf22} I'll{\kf19} be{\kf30} by{\kf33}~
+Dialogue: 0,0:03:38.05,0:03:45.29,DEFAULT,,0,0,0,,{\r}{\kf30}Flex{\kf30}ing{\kf27} your{\kf33} wing's{\kf20} all{\kf27} you{\kf17} do{\kf30}~{\kf20} it's{\kf23} de{\kf40}pres{\kf33}sing{\kf189}~{\kf17}~{\kf43}~{\kf145}~
+Dialogue: 0,0:03:45.50,0:03:47.26,DEFAULT,,0,0,0,,{\r}{\kf13}Oh{\kf13} and{\kf17} watch{\kf17} out{\kf17} for{\kf17} light{\kf13}ning{\kf13} and{\kf21} tur{\kf17}bu{\kf18}lence
+Dialogue: 0,0:03:47.38,0:03:49.27,DEFAULT,,0,0,0,,{\r}{\kf13}when{\kf21} you{\kf34} splat{\kf26} it's{\kf26} real{\kf21}ly{\kf34} nas{\kf13}ty
+Dialogue: 0,0:03:49.39,0:03:52.83,DEFAULT,,0,0,0,,{\r}{\kf23}To{\kf34} hell{\kf19} with{\kf23} your{\kf45} flap{\kf26}ping{\kf26} all{\kf23} your{\kf26} wings{\kf19} will{\kf19} need{\kf45} wrap{\kf16}ping
+Dialogue: 0,0:03:52.98,0:04:01.41,DEFAULT,,0,0,0,,{\r}{\kf28}While{\kf24} we{\kf63} all{\kf56} die{\kf21}~{\kf84} hap{\kf446}py{\kf17} ne{\kf21}ver{\kf21} be{\kf28}in'{\kf34} fly
+Dialogue: 0,0:04:01.62,0:04:05.03,DEFAULT,,0,0,0,,{\r}{\kf21}Can't{\kf24} keep{\kf38} up{\kf24} what{\kf10}e{\kf31}~{\kf24}ver{\kf28} I{\kf141} do
+Dialogue: 0,0:04:05.45,0:04:08.59,DEFAULT,,0,0,0,,{\r}{\kf21}Can't{\kf29} keep{\kf32} up{\kf29} what{\kf11}e{\kf36}~{\kf18}ver{\kf29} I{\kf18} do{\kf36}~{\kf55}~
+Dialogue: 0,0:04:08.77,0:04:12.08,DEFAULT,,0,0,0,,{\r}{\kf47}Can't{\kf47} keep{\kf54} up{\kf24} what{\kf41}e{\kf24}ver{\kf24} I{\kf71} do
+Dialogue: 0,0:04:12.20,0:04:14.15,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf18} I'll{\kf26} die{\kf26} be{\kf26}fore{\kf18} I'm{\kf26} e{\kf36}ver
+Dialogue: 0,0:04:14.33,0:04:17.41,DEFAULT,,0,0,0,,{\r}{\kf44}Fly{\kf41} like{\kf50} you{\kf173}~
+Dialogue: 0,0:04:19.35,0:04:22.94,DEFAULT,,0,0,0,,{\r}{\kf45}Fly{\kf48} like{\kf32}~{\kf234} you
+Dialogue: 0,0:04:23.18,0:04:26.14,DEFAULT,,0,0,0,,{\r}{\kf46}Fly{\kf75} like{\kf175} you
+Dialogue: 0,0:04:27.34,0:04:29.52,DEFAULT,,0,0,0,,{\r}{\kf16}You{\kf35}~{\kf10}~{\kf90}~{\kf67}~
+Dialogue: 0,0:04:29.64,0:04:33.14,DEFAULT,,0,0,0,,{\r}{\kf24}I'll{\kf14} ne{\kf21}ver{\kf38} be{\kf28} fly{\kf32}~{\kf38} like{\kf42}~{\kf113} you

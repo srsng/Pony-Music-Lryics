@@ -1,57 +1,64 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Competitive Spirit
+Artist: BGM, Deavas
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:12.15,0:00:14.59,DEFAULT,,0,0,0,,{\kf1230}Go{\kf1230} for{\kf1230} the{\kf1244} gold,{\kf1230} a{\kf1230}ny{\kf1230} less{\kf1230} is{\kf1230} a{\kf1235} shame{\kf1244}~
-Dialogue: 0,0:00:15.15,0:00:17.68,DEFAULT,,0,0,0,,{\kf1230}Show{\kf1230} them{\kf1230} you're{\kf1239} bold,{\kf1230} got{\kf1230}ta{\kf1235} make{\kf1235} your{\kf1235} name{\kf1253}~
-Dialogue: 0,0:00:18.19,0:00:19.51,DEFAULT,,0,0,0,,{\kf1230}You{\kf1230} know{\kf1230} you{\kf1230} got{\kf1230} what{\kf1230} it{\kf1235} takes
-Dialogue: 0,0:00:19.69,0:00:21.19,DEFAULT,,0,0,0,,{\kf1230}To{\kf1230} hold{\kf1235} on,{\kf1225} to{\kf1239} first{\kf1235} place
-Dialogue: 0,0:00:21.38,0:00:24.05,DEFAULT,,0,0,0,,{\kf1235}One{\kf1230} thing{\kf1230} on{\kf1230} your{\kf1239} mind{\kf1230} and{\kf1230} that's{\kf1230} to{\kf1230} win{\kf1239} this{\kf1239} race
-Dialogue: 0,0:00:24.34,0:00:26.77,DEFAULT,,0,0,0,,{\kf1230}Clock{\kf1230} is{\kf1230} tick{\kf1230}ing{\kf1235} down,{\kf1230} ra{\kf1230}cers{\kf1230} get{\kf1230}ting{\kf1230} rea{\kf1249}dy
-Dialogue: 0,0:00:27.34,0:00:30.01,DEFAULT,,0,0,0,,{\kf1235}Can't{\kf1230} wor{\kf1230}ry{\kf1235} now,{\kf1230} got{\kf1230}ta{\kf1230} keep{\kf1230} it{\kf1230} calm{\kf1230} and{\kf1230} stea{\kf1235}dy
-Dialogue: 0,0:00:30.34,0:00:32.40,DEFAULT,,0,0,0,,{\kf1230}Show{\kf1230} the{\kf1230} roo{\kf1235}kies{\kf1230} what{\kf1230} makes{\kf1230} you{\kf1225} a{\kf1230} pro{\kf1225}~
-Dialogue: 0,0:00:32.63,0:00:34.46,DEFAULT,,0,0,0,,{\kf1225}And{\kf1230} get{\kf1230} rea{\kf1230}dy{\kf1230} 'cause{\kf1230} it's{\kf1230} hap{\kf1230}pen{\kf1249}ing
-Dialogue: 0,0:00:34.84,0:00:35.87,DEFAULT,,0,0,0,,{\kf1239}3{\kf1230} 2{\kf1230} 1{\kf1244} Go
-Dialogue: 0,0:00:48.57,0:00:50.87,DEFAULT,,0,0,0,,{\kf1239}Show{\kf1230} me{\kf1230} that{\kf1230} com{\kf1230}pe{\kf1230}ti{\kf1235}tive{\kf1230} spi{\kf1258}rit
-Dialogue: 0,0:00:51.34,0:00:53.87,DEFAULT,,0,0,0,,{\kf1230}Got{\kf1230} it{\kf1230} all{\kf1230} on{\kf1230} the{\kf1239} line,{\kf1230} you{\kf1230} bet{\kf1230}ter{\kf1230} do{\kf1258} it
-Dialogue: 0,0:00:54.34,0:00:56.82,DEFAULT,,0,0,0,,{\kf1230}Time{\kf1230} to{\kf1230} kick{\kf1230} it{\kf1230} in{\kf1230}to{\kf1235} high{\kf1239} gear,{\kf1239} high{\kf1235} gear
-Dialogue: 0,0:00:57.01,0:00:59.77,DEFAULT,,0,0,0,,{\kf1230}Pe{\kf1230}dal{\kf1230} to{\kf1230} the{\kf1225} me{\kf1230}tal{\kf1230} if{\kf1230} you{\kf1230} want{\kf1230} it{\kf1230} then{\kf1225} pur{\kf1230}sue{\kf1244} it
-Dialogue: 0,0:01:00.57,0:01:02.73,DEFAULT,,0,0,0,,{\kf1239}Show{\kf1230} me{\kf1230} that{\kf1230} com{\kf1230}pe{\kf1230}ti{\kf1235}tive{\kf1230} spi{\kf1244}rit
-Dialogue: 0,0:01:03.15,0:01:05.91,DEFAULT,,0,0,0,,{\kf1230}The{\kf1239} crowd's{\kf1230} cheer{\kf1230}ing{\kf1230} your{\kf1239} name,{\kf1230} can{\kf1230} you{\kf1230} hear{\kf1258} it
-Dialogue: 0,0:01:06.34,0:01:08.73,DEFAULT,,0,0,0,,{\kf1230}Time{\kf1230} to{\kf1230} kick{\kf1230} it{\kf1230} in{\kf1230}to{\kf1239} high{\kf1235} gear,{\kf1239} high{\kf1230} gear
-Dialogue: 0,0:01:09.01,0:01:11.87,DEFAULT,,0,0,0,,{\kf1230}Vic{\kf1230}to{\kf1230}ry's{\kf1230} the{\kf1230} ul{\kf1230}ti{\kf1230}mate{\kf1249} goal{\kf1230} and{\kf1225} you're{\kf1230} near{\kf1253} it
-Dialogue: 0,0:01:24.15,0:01:26.91,DEFAULT,,0,0,0,,{\kf1230}Let{\kf1230} the{\kf1230} a{\kf1230}dre{\kf1230}na{\kf1230}line{\kf1235} drive{\kf1230} you{\kf1230} to{\kf1230} the{\kf1230} vic{\kf1230}to{\kf1244}ry
-Dialogue: 0,0:01:27.38,0:01:30.10,DEFAULT,,0,0,0,,{\kf1230}Show{\kf1230} 'em{\kf1230} all{\kf1230} you're{\kf1230} the{\kf1235} best,{\kf1230} and{\kf1230} make{\kf1230} it{\kf1230} clear{\kf1230}~{\kf1230} to{\kf1239} see
-Dialogue: 0,0:01:30.38,0:01:31.51,DEFAULT,,0,0,0,,{\kf1230}That{\kf1230} you're{\kf1230} on{\kf1230} a{\kf1230} mis{\kf1235}sion
-Dialogue: 0,0:01:31.69,0:01:32.96,DEFAULT,,0,0,0,,{\kf1230}To{\kf1230} get{\kf1230} your{\kf1230} re{\kf1230}cog{\kf1230}ni{\kf1230}tion
-Dialogue: 0,0:01:33.15,0:01:34.46,DEFAULT,,0,0,0,,{\kf1230}And{\kf1230} show{\kf1230} the{\kf1230} op{\kf1230}po{\kf1230}si{\kf1230}tion
-Dialogue: 0,0:01:34.84,0:01:36.19,DEFAULT,,0,0,0,,{\kf1230}That{\kf1230} you're{\kf1225} out{\kf1230} of{\kf1230} their{\kf1249} league
-Dialogue: 0,0:01:36.38,0:01:39.15,DEFAULT,,0,0,0,,{\kf1235}Go{\kf1230} fas{\kf1230}ter,{\kf1235} push{\kf1230} har{\kf1230}der,{\kf1230} be{\kf1230} a{\kf1230} mas{\kf1230}ter{\kf1230} of{\kf1249} speed
-Dialogue: 0,0:01:39.38,0:01:40.84,DEFAULT,,0,0,0,,{\kf1239}First{\kf1230} place{\kf1230} is{\kf1230} all{\kf1230} that{\kf1230} mat{\kf1230}ters
-Dialogue: 0,0:01:41.07,0:01:42.15,DEFAULT,,0,0,0,,{\kf1230}What{\kf1230} else{\kf1230} would{\kf1230} you{\kf1244} need
-Dialogue: 0,0:01:42.38,0:01:45.15,DEFAULT,,0,0,0,,{\kf1230}Got{\kf1230}ta{\kf1230} push{\kf1230} it{\kf1230} to{\kf1230} the{\kf1230} li{\kf1230}mit{\kf1230} to{\kf1230} hold{\kf1230} on{\kf1230} to{\kf1230} the{\kf1249} lead
-Dialogue: 0,0:01:45.38,0:01:46.69,DEFAULT,,0,0,0,,{\kf1230}Peak{\kf1230} per{\kf1230}for{\kf1230}mance{\kf1230} is{\kf1230} the{\kf1235} key
-Dialogue: 0,0:01:46.88,0:01:48.01,DEFAULT,,0,0,0,,{\kf1230}To{\kf1230} your{\kf1225} vic{\kf1230}to{\kf1253}ry
-Dialogue: 0,0:02:09.34,0:02:11.96,DEFAULT,,0,0,0,,{\kf1235}Go,{\kf1235} go,{\kf1235} go,{\kf1239} woo{\kf1249}hoo!
-Dialogue: 0,0:03:12.57,0:03:14.87,DEFAULT,,0,0,0,,{\kf1235}Show{\kf1230} me{\kf1230} that{\kf1230} com{\kf1230}pe{\kf1230}ti{\kf1235}tive{\kf1230} spi{\kf1258}rit
-Dialogue: 0,0:03:15.38,0:03:17.91,DEFAULT,,0,0,0,,{\kf1230}Got{\kf1230} it{\kf1230} all{\kf1230} on{\kf1230} the{\kf1239} line,{\kf1230} you{\kf1230} bet{\kf1230}ter{\kf1230} do{\kf1258} it
-Dialogue: 0,0:03:18.34,0:03:20.82,DEFAULT,,0,0,0,,{\kf1230}Time{\kf1230} to{\kf1230} kick{\kf1230} it{\kf1230} in{\kf1230}to{\kf1239} high{\kf1239} gear,{\kf1239} high{\kf1235} gear
-Dialogue: 0,0:03:21.01,0:03:23.77,DEFAULT,,0,0,0,,{\kf1230}Pe{\kf1230}dal{\kf1230} to{\kf1230} the{\kf1230} me{\kf1230}tal{\kf1230} if{\kf1230} you{\kf1230} want{\kf1230} it{\kf1230} then{\kf1230} pur{\kf1230}sue{\kf1244} it
-Dialogue: 0,0:03:24.57,0:03:26.73,DEFAULT,,0,0,0,,{\kf1239}Show{\kf1230} me{\kf1230} that{\kf1230} com{\kf1230}pe{\kf1230}ti{\kf1235}tive{\kf1230} spi{\kf1244}rit
-Dialogue: 0,0:03:27.19,0:03:29.91,DEFAULT,,0,0,0,,{\kf1230}The{\kf1239} crowd's{\kf1230} cheer{\kf1230}ing{\kf1230} your{\kf1239} name,{\kf1230} can{\kf1230} you{\kf1230} hear{\kf1258} it
-Dialogue: 0,0:03:30.34,0:03:32.73,DEFAULT,,0,0,0,,{\kf1230}Time{\kf1230} to{\kf1230} kick{\kf1230} it{\kf1230} in{\kf1230}to{\kf1239} high{\kf1235} gear,{\kf1239} high{\kf1230} gear
-Dialogue: 0,0:03:33.01,0:03:35.87,DEFAULT,,0,0,0,,{\kf1230}Vic{\kf1230}to{\kf1230}ry's{\kf1230} the{\kf1230} ul{\kf1230}ti{\kf1230}mate{\kf1249} goal{\kf1230} and{\kf1230} you're{\kf1230} near{\kf1253} it
-Dialogue: 0,0:03:54.19,0:03:55.88,DEFAULT,,0,0,0,,{\kf1235}You{\kf1235} know,{\kf1230} shift{\kf1225}ing{\kf1225} in{\kf1225}to{\kf1230} high{\kf1230}er{\kf1225} gear
-Dialogue: 0,0:03:56.07,0:03:57.99,DEFAULT,,0,0,0,,{\kf1230}does{\kf1225}n't{\kf1230} ne{\kf1235}ces{\kf1230}sa{\kf1225}ri{\kf1225}ly{\kf1225} make{\kf1230} some{\kf1225}thing{\kf1230} go{\kf1230} fast{\kf1230}er
-Dialogue: 0,0:03:58.51,0:03:59.63,DEFAULT,,0,0,0,,{\kf1230}In{\kf1235} fact,{\kf1225} the{\kf1225} high{\kf1225}er{\kf1230} load,
-Dialogue: 0,0:03:59.87,0:04:02.30,DEFAULT,,0,0,0,,{\kf1225}due{\kf1225} to{\kf1225} the{\kf1235} change{\kf1230} in{\kf1230} gear{\kf1235} ra{\kf1235}tios,{\kf1225} could{\kf1230} po{\kf1230}ten{\kf1230}tial{\kf1225}ly
-Dialogue: 0,0:04:02.44,0:04:02.73,DEFAULT,,0,0,0,,{\kf1225}Twi{\kf1235}light
-Dialogue: 0,0:04:03.10,0:04:03.24,DEFAULT,,0,0,0,,{\kf1230}What?
-Dialogue: 0,0:04:03.85,0:04:04.46,DEFAULT,,0,0,0,,{\kf1235}Just{\kf1230} drop{\kf1230} it
+Dialogue: 0,0:00:12.15,0:00:14.59,DEFAULT,,0,0,0,,{\r}{\kf18}Go{\kf18} for{\kf18} the{\kf37} gold,{\kf18} a{\kf18}ny{\kf18} less{\kf18} is{\kf18} a{\kf24} shame{\kf39}~
+Dialogue: 0,0:00:15.15,0:00:17.68,DEFAULT,,0,0,0,,{\r}{\kf19}Show{\kf19} them{\kf19} you're{\kf32} bold,{\kf19} got{\kf19}ta{\kf25} make{\kf25} your{\kf25} name{\kf51}~
+Dialogue: 0,0:00:18.20,0:00:19.51,DEFAULT,,0,0,0,,{\r}{\kf18}You{\kf18} know{\kf18} you{\kf18} got{\kf18} what{\kf18} it{\kf23} takes
+Dialogue: 0,0:00:19.70,0:00:21.20,DEFAULT,,0,0,0,,{\r}{\kf21}To{\kf21} hold{\kf29} on,{\kf14} to{\kf36} first{\kf29} place
+Dialogue: 0,0:00:21.39,0:00:24.06,DEFAULT,,0,0,0,,{\r}{\kf27}One{\kf20} thing{\kf20} on{\kf20} your{\kf33} mind{\kf20} and{\kf20} that's{\kf20} to{\kf20} win{\kf33} this{\kf34} race
+Dialogue: 0,0:00:24.34,0:00:26.78,DEFAULT,,0,0,0,,{\r}{\kf19}Clock{\kf19} is{\kf19} tick{\kf19}ing{\kf26} down,{\kf19} ra{\kf19}cers{\kf19} get{\kf19}ting{\kf19} rea{\kf47}dy
+Dialogue: 0,0:00:27.34,0:00:30.01,DEFAULT,,0,0,0,,{\r}{\kf27}Can't{\kf21} wor{\kf21}ry{\kf27} now,{\kf21} got{\kf21}ta{\kf21} keep{\kf21} it{\kf21} calm{\kf21} and{\kf21} stea{\kf24}dy
+Dialogue: 0,0:00:30.34,0:00:32.40,DEFAULT,,0,0,0,,{\r}{\kf21}Show{\kf21} the{\kf21} roo{\kf28}kies{\kf21} what{\kf21} makes{\kf21} you{\kf14} a{\kf21} pro{\kf17}~
+Dialogue: 0,0:00:32.64,0:00:34.47,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf18} get{\kf18} rea{\kf18}dy{\kf18} 'cause{\kf18} it's{\kf18} hap{\kf18}pen{\kf45}ing
+Dialogue: 0,0:00:34.84,0:00:35.87,DEFAULT,,0,0,0,,{\r}{\kf30}3{\kf18} 2{\kf18} 1{\kf37} Go
+Dialogue: 0,0:00:48.57,0:00:50.87,DEFAULT,,0,0,0,,{\r}{\kf32}Show{\kf19} me{\kf19} that{\kf19} com{\kf19}pe{\kf19}ti{\kf26}tive{\kf19} spi{\kf58}rit
+Dialogue: 0,0:00:51.34,0:00:53.87,DEFAULT,,0,0,0,,{\r}{\kf19}Got{\kf19} it{\kf19} all{\kf19} on{\kf19} the{\kf31} line,{\kf19} you{\kf19} bet{\kf19}ter{\kf19} do{\kf51} it
+Dialogue: 0,0:00:54.34,0:00:56.82,DEFAULT,,0,0,0,,{\r}{\kf21}Time{\kf21} to{\kf21} kick{\kf21} it{\kf21} in{\kf21}to{\kf28} high{\kf34} gear,{\kf34} high{\kf26} gear
+Dialogue: 0,0:00:57.01,0:00:59.78,DEFAULT,,0,0,0,,{\r}{\kf19}Pe{\kf19}dal{\kf19} to{\kf19} the{\kf13} me{\kf19}tal{\kf19} if{\kf19} you{\kf19} want{\kf19} it{\kf19} then{\kf13} pur{\kf19}sue{\kf42} it
+Dialogue: 0,0:01:00.57,0:01:02.73,DEFAULT,,0,0,0,,{\r}{\kf33}Show{\kf20} me{\kf20} that{\kf20} com{\kf20}pe{\kf20}ti{\kf26}tive{\kf20} spi{\kf37}rit
+Dialogue: 0,0:01:03.15,0:01:05.92,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf35} crowd's{\kf21} cheer{\kf21}ing{\kf21} your{\kf35} name,{\kf21} can{\kf21} you{\kf21} hear{\kf60} it
+Dialogue: 0,0:01:06.34,0:01:08.73,DEFAULT,,0,0,0,,{\r}{\kf20}Time{\kf20} to{\kf20} kick{\kf20} it{\kf20} in{\kf20}to{\kf34} high{\kf27} gear,{\kf34} high{\kf24} gear
+Dialogue: 0,0:01:09.01,0:01:11.87,DEFAULT,,0,0,0,,{\r}{\kf20}Vic{\kf20}to{\kf20}ry's{\kf20} the{\kf20} ul{\kf20}ti{\kf20}mate{\kf46} goal{\kf20} and{\kf13} you're{\kf20} near{\kf47} it
+Dialogue: 0,0:01:24.15,0:01:26.92,DEFAULT,,0,0,0,,{\r}{\kf19}Let{\kf19} the{\kf19} a{\kf19}dre{\kf19}na{\kf19}line{\kf26} drive{\kf19} you{\kf19} to{\kf19} the{\kf19} vic{\kf19}to{\kf42}ry
+Dialogue: 0,0:01:27.39,0:01:30.11,DEFAULT,,0,0,0,,{\r}{\kf19}Show{\kf19} 'em{\kf19} all{\kf19} you're{\kf19} the{\kf26} best,{\kf19} and{\kf19} make{\kf19} it{\kf19} clear{\kf19}~{\kf19} to{\kf37} see
+Dialogue: 0,0:01:30.39,0:01:31.51,DEFAULT,,0,0,0,,{\r}{\kf18}That{\kf18} you're{\kf18} on{\kf18} a{\kf18} mis{\kf22}sion
+Dialogue: 0,0:01:31.70,0:01:32.97,DEFAULT,,0,0,0,,{\r}{\kf18}To{\kf18} get{\kf18} your{\kf18} re{\kf18}cog{\kf18}ni{\kf19}tion
+Dialogue: 0,0:01:33.15,0:01:34.47,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} show{\kf19} the{\kf19} op{\kf19}po{\kf19}si{\kf17}tion
+Dialogue: 0,0:01:34.84,0:01:36.20,DEFAULT,,0,0,0,,{\r}{\kf19}That{\kf19} you're{\kf13} out{\kf19} of{\kf19} their{\kf47} league
+Dialogue: 0,0:01:36.39,0:01:39.15,DEFAULT,,0,0,0,,{\r}{\kf26}Go{\kf20} fas{\kf20}ter,{\kf26} push{\kf20} har{\kf20}der,{\kf20} be{\kf20} a{\kf20} mas{\kf20}ter{\kf20} of{\kf45} speed
+Dialogue: 0,0:01:39.39,0:01:40.84,DEFAULT,,0,0,0,,{\r}{\kf32}First{\kf19} place{\kf19} is{\kf19} all{\kf19} that{\kf19} mat{\kf18}ters
+Dialogue: 0,0:01:41.07,0:01:42.15,DEFAULT,,0,0,0,,{\r}{\kf18}What{\kf18} else{\kf18} would{\kf18} you{\kf36} need
+Dialogue: 0,0:01:42.39,0:01:45.15,DEFAULT,,0,0,0,,{\r}{\kf18}Got{\kf18}ta{\kf18} push{\kf18} it{\kf18} to{\kf18} the{\kf18} li{\kf18}mit{\kf18} to{\kf18} hold{\kf18} on{\kf18} to{\kf18} the{\kf43} lead
+Dialogue: 0,0:01:45.39,0:01:46.70,DEFAULT,,0,0,0,,{\r}{\kf18}Peak{\kf18} per{\kf18}for{\kf18}mance{\kf18} is{\kf18} the{\kf23} key
+Dialogue: 0,0:01:46.89,0:01:48.01,DEFAULT,,0,0,0,,{\r}{\kf18}To{\kf18} your{\kf12} vic{\kf18}to{\kf46}ry
+Dialogue: 0,0:02:09.34,0:02:11.97,DEFAULT,,0,0,0,,{\r}{\kf44}Go,{\kf44} go,{\kf44} go,{\kf55} woo{\kf75}hoo!
+Dialogue: 0,0:03:12.57,0:03:14.87,DEFAULT,,0,0,0,,{\r}{\kf26}Show{\kf20} me{\kf20} that{\kf20} com{\kf20}pe{\kf20}ti{\kf26}tive{\kf20} spi{\kf58}rit
+Dialogue: 0,0:03:15.39,0:03:17.92,DEFAULT,,0,0,0,,{\r}{\kf19}Got{\kf19} it{\kf19} all{\kf19} on{\kf19} the{\kf31} line,{\kf19} you{\kf19} bet{\kf19}ter{\kf19} do{\kf51} it
+Dialogue: 0,0:03:18.34,0:03:20.82,DEFAULT,,0,0,0,,{\r}{\kf20}Time{\kf20} to{\kf20} kick{\kf20} it{\kf20} in{\kf20}to{\kf34} high{\kf34} gear,{\kf34} high{\kf26} gear
+Dialogue: 0,0:03:21.01,0:03:23.78,DEFAULT,,0,0,0,,{\r}{\kf18}Pe{\kf18}dal{\kf18} to{\kf18} the{\kf18} me{\kf18}tal{\kf18} if{\kf18} you{\kf18} want{\kf18} it{\kf18} then{\kf18} pur{\kf18}sue{\kf43} it
+Dialogue: 0,0:03:24.57,0:03:26.73,DEFAULT,,0,0,0,,{\r}{\kf33}Show{\kf20} me{\kf20} that{\kf20} com{\kf20}pe{\kf20}ti{\kf26}tive{\kf20} spi{\kf37}rit
+Dialogue: 0,0:03:27.20,0:03:29.92,DEFAULT,,0,0,0,,{\r}{\kf20}The{\kf34} crowd's{\kf20} cheer{\kf20}ing{\kf20} your{\kf34} name,{\kf20} can{\kf20} you{\kf20} hear{\kf64} it
+Dialogue: 0,0:03:30.34,0:03:32.73,DEFAULT,,0,0,0,,{\r}{\kf20}Time{\kf20} to{\kf20} kick{\kf20} it{\kf20} in{\kf20}to{\kf34} high{\kf27} gear,{\kf34} high{\kf24} gear
+Dialogue: 0,0:03:33.01,0:03:35.87,DEFAULT,,0,0,0,,{\r}{\kf19}Vic{\kf19}to{\kf19}ry's{\kf19} the{\kf19} ul{\kf19}ti{\kf19}mate{\kf44} goal{\kf19} and{\kf19} you're{\kf19} near{\kf52} it
+Dialogue: 0,0:03:54.20,0:03:55.89,DEFAULT,,0,0,0,,{\r}{\kf27}You{\kf27} know,{\kf20} shift{\kf14}ing{\kf14} in{\kf14}to{\kf20} high{\kf20}er{\kf13} gear
+Dialogue: 0,0:03:56.07,0:03:58.00,DEFAULT,,0,0,0,,{\r}{\kf16}does{\kf11}n't{\kf16} ne{\kf22}ces{\kf16}sa{\kf11}ri{\kf11}ly{\kf11} make{\kf16} some{\kf11}thing{\kf16} go{\kf16} fast{\kf19}er
+Dialogue: 0,0:03:58.51,0:03:59.64,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf28} fact,{\kf14} the{\kf14} high{\kf14}er{\kf21} load,
+Dialogue: 0,0:03:59.87,0:04:02.31,DEFAULT,,0,0,0,,{\r}{\kf13}due{\kf13} to{\kf13} the{\kf26} change{\kf20} in{\kf20} gear{\kf26} ra{\kf26}tios,{\kf13} could{\kf20} po{\kf20}ten{\kf20}tial{\kf14}ly
+Dialogue: 0,0:04:02.45,0:04:02.73,DEFAULT,,0,0,0,,{\r}{\kf10}Twi{\kf18}light
+Dialogue: 0,0:04:03.11,0:04:03.25,DEFAULT,,0,0,0,,{\r}{\kf14}What?
+Dialogue: 0,0:04:03.86,0:04:04.47,DEFAULT,,0,0,0,,{\r}{\kf24}Just{\kf18} drop{\kf19} it

@@ -1,52 +1,59 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Warriors Of Griffonstone
+Artist: Jyc Row, Francis Vace, WoodLore
+Original Timing: mylittlekaraoke.com by SqueakyBelle
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:39.72,0:00:43.34,DEFAULT,,0,0,0,,{\kf47}Young{\kf54} Grif{\kf47}fin{\kf32} I{\kf25} see{\kf25} you're{\kf85} scared
-Dialogue: 0,0:00:43.72,0:00:47.27,DEFAULT,,0,0,0,,{\kf25}O{\kf47}ver{\kf54}wrought{\kf47} and{\kf44} ill{\kf29} pre{\kf75}pared
-Dialogue: 0,0:00:47.52,0:00:51.27,DEFAULT,,0,0,0,,{\kf22}But{\kf60} young{\kf44} Grif{\kf38}fin{\kf60} hear{\kf19} me{\kf75} now
-Dialogue: 0,0:00:51.58,0:00:55.33,DEFAULT,,0,0,0,,{\kf38}You{\kf38} can't{\kf47} go{\kf38} back{\kf41} on{\kf60} your{\kf82} vow
-Dialogue: 0,0:00:55.54,0:00:59.07,DEFAULT,,0,0,0,,{\kf44}Mar{\kf38}ching{\kf47} for{\kf29}ward{\kf22} for{\kf13}~{\kf13} the{\kf54} king
-Dialogue: 0,0:00:59.48,0:01:03.10,DEFAULT,,0,0,0,,{\kf44}Not{\kf32} stop{\kf47}ping{\kf41} for{\kf29} a{\kf38}ny{\kf60}thing
-Dialogue: 0,0:01:03.60,0:01:07.06,DEFAULT,,0,0,0,,{\kf47}Waves{\kf29} of{\kf44} foes,{\kf35} we'll{\kf22} mow{\kf38} them{\kf60} down
-Dialogue: 0,0:01:07.62,0:01:11.02,DEFAULT,,0,0,0,,{\kf38}Mar{\kf32}ching{\kf54} for{\kf25}ward{\kf35} for{\kf19} the{\kf63} crown
-Dialogue: 0,0:01:11.15,0:01:15.18,DEFAULT,,0,0,0,,{\kf29}We're{\kf22} the{\kf25} War{\kf47}ri{\kf57}ors{\kf19} of{\kf35} Grif{\kf32}fin{\kf72}stone
-Dialogue: 0,0:01:15.43,0:01:19.26,DEFAULT,,0,0,0,,{\kf19}Pro{\kf32}tec{\kf44}tors{\kf57} of{\kf22} the{\kf32} grif{\kf38}fin{\kf85} throne
-Dialogue: 0,0:01:19.67,0:01:23.38,DEFAULT,,0,0,0,,{\kf29}We've{\kf41} pledged{\kf44} our{\kf22}~{\kf22} lives{\kf25}~{\kf25} to{\kf29} the{\kf54} king{\kf38}~
-Dialogue: 0,0:01:23.57,0:01:26.88,DEFAULT,,0,0,0,,{\kf13}And{\kf22} you{\kf25} will{\kf22}~{\kf44} fall{\kf29} when{\kf35} we{\kf41} take{\kf50} wing
-Dialogue: 0,0:01:27.16,0:01:31.19,DEFAULT,,0,0,0,,{\kf29}We're{\kf22} the{\kf25} War{\kf47}ri{\kf57}ors{\kf19} of{\kf35} Grif{\kf32}fin{\kf72}stone
-Dialogue: 0,0:01:31.44,0:01:35.28,DEFAULT,,0,0,0,,{\kf19}Pro{\kf32}tec{\kf44}tors{\kf57} of{\kf29} the{\kf32} grif{\kf38}fin{\kf85} throne
-Dialogue: 0,0:01:35.68,0:01:39.40,DEFAULT,,0,0,0,,{\kf29}We've{\kf41} pledged{\kf44} our{\kf22}~{\kf22} lives{\kf25}~{\kf19} to{\kf38} the{\kf54} king{\kf38}~
-Dialogue: 0,0:01:39.58,0:01:43.42,DEFAULT,,0,0,0,,{\kf13}And{\kf22} you{\kf22} will{\kf25}~{\kf44} fall{\kf29} when{\kf32} we{\kf38} take{\kf103} wing
-Dialogue: 0,0:01:51.72,0:01:54.97,DEFAULT,,0,0,0,,{\kf82}Young{\kf38} Grif{\kf35}fin{\kf35} hear{\kf25}~{\kf22} me{\kf57} well
-Dialogue: 0,0:01:55.44,0:01:58.96,DEFAULT,,0,0,0,,{\kf22}I{\kf29} know{\kf22} you{\kf25} think{\kf32} you've{\kf41} been{\kf57} through{\kf54} hell
-Dialogue: 0,0:01:59.46,0:02:02.99,DEFAULT,,0,0,0,,{\kf16}But{\kf47} young{\kf41} one{\kf75} hear{\kf44} me{\kf54} once{\kf50} more
-Dialogue: 0,0:02:03.43,0:02:06.99,DEFAULT,,0,0,0,,{\kf19}You{\kf25} must{\kf35} re{\kf41}mem{\kf25}ber{\kf25} what{\kf22} you're{\kf25} figh{\kf22}ting{\kf54} for
-Dialogue: 0,0:02:07.42,0:02:10.17,DEFAULT,,0,0,0,,{\kf22}The{\kf32} dust{\kf32} of{\kf22} sun{\kf47}~{\kf75}sets
-Dialogue: 0,0:02:11.42,0:02:14.91,DEFAULT,,0,0,0,,{\kf66}Blown{\kf35} in{\kf25} by{\kf47}~{\kf32} the{\kf35} north{\kf47} wind
-Dialogue: 0,0:02:15.66,0:02:18.00,DEFAULT,,0,0,0,,{\kf35}All{\kf41} hail{\kf32} Gro{\kf44}~{\kf60}ver
-Dialogue: 0,0:02:19.16,0:02:22.90,DEFAULT,,0,0,0,,{\kf41}Our{\kf54} just{\kf29} and{\kf66} righ{\kf50}teous{\kf79} king
-Dialogue: 0,0:02:41.19,0:02:45.00,DEFAULT,,0,0,0,,{\kf19}I{\kf16} can{\kf35} see{\kf22} your{\kf54} fate{\kf19} has{\kf35} led{\kf44} you{\kf66} here
-Dialogue: 0,0:02:45.50,0:02:49.59,DEFAULT,,0,0,0,,{\kf13}I{\kf38} see{\kf19} your{\kf50} fi{\kf35}re,{\kf16} but{\kf38} smell{\kf25} your{\kf25} fears{\kf19}~{\kf66}~
-Dialogue: 0,0:02:49.74,0:02:53.30,DEFAULT,,0,0,0,,{\kf29}Lis{\kf29}ten{\kf75} close{\kf29} when{\kf32} I{\kf60} say{\kf29}~
-Dialogue: 0,0:02:53.58,0:02:57.42,DEFAULT,,0,0,0,,{\kf41}We{\kf32} will{\kf60} al{\kf19}~{\kf22}ways{\kf25}~{\kf22} have{\kf22}~{\kf16} our{\kf16}~{\kf82} prey
-Dialogue: 0,0:02:59.20,0:03:01.51,DEFAULT,,0,0,0,,{\kf25}It's{\kf35} not{\kf50} your{\kf10} day{\kf10}~{\kf16}~{\kf10}~{\kf10}~{\kf7}~{\kf7}~{\kf25}~
-Dialogue: 0,0:03:03.45,0:03:10.00,DEFAULT,,0,0,0,,{\kf47}You{\kf29} will{\kf103} fall{\kf97}~{\kf82}~{\kf138}~{\kf100}~{\kf29}~
-Dialogue: 0,0:03:11.19,0:03:18.83,DEFAULT,,0,0,0,,{\kf13}When{\kf41} we{\kf35} take{\kf38} wing{\kf7}~{\kf581}~
-Dialogue: 0,0:03:19.61,0:03:26.82,DEFAULT,,0,0,0,,{\kf41}You{\kf32} will{\kf222} fall{\kf388}~{\kf22}~
-Dialogue: 0,0:03:29.60,0:03:31.75,DEFAULT,,0,0,0,,{\kf47}Woah{\kf41}~{\kf19}~{\kf25} woah{\kf10}~{\kf7}~{\kf50}~
-Dialogue: 0,0:03:32.19,0:03:36.22,DEFAULT,,0,0,0,,{\kf29}We're{\kf22} the{\kf25} War{\kf47}ri{\kf57}ors{\kf19} of{\kf38} Grif{\kf32}fin{\kf72}stone
-Dialogue: 0,0:03:36.47,0:03:40.31,DEFAULT,,0,0,0,,{\kf19}Pro{\kf32}tec{\kf44}tors{\kf57} of{\kf22} the{\kf32} grif{\kf38}fin{\kf85} throne
-Dialogue: 0,0:03:40.71,0:03:44.43,DEFAULT,,0,0,0,,{\kf29}We've{\kf41} pledged{\kf35} our{\kf29}~{\kf19} lives{\kf25}~{\kf22} to{\kf41} the{\kf54} king{\kf38}~
-Dialogue: 0,0:03:44.61,0:03:47.92,DEFAULT,,0,0,0,,{\kf13}And{\kf13} you{\kf25} will{\kf22}~{\kf54} fall{\kf29} when{\kf44} we{\kf41} take{\kf50} wing
-Dialogue: 0,0:03:48.27,0:03:52.17,DEFAULT,,0,0,0,,{\kf16}We're{\kf22} the{\kf25} War{\kf47}ri{\kf57}ors{\kf19} of{\kf35} Grif{\kf32}fin{\kf72}stone
-Dialogue: 0,0:03:52.42,0:03:56.26,DEFAULT,,0,0,0,,{\kf19}Pro{\kf32}tec{\kf44}tors{\kf57} of{\kf22} the{\kf32} grif{\kf38}fin{\kf85} throne
-Dialogue: 0,0:03:56.66,0:04:00.38,DEFAULT,,0,0,0,,{\kf29}We've{\kf41} pledged{\kf44} our{\kf22}~{\kf22} lives{\kf25}~{\kf25} to{\kf29} the{\kf54} king{\kf38}~
-Dialogue: 0,0:04:00.56,0:04:04.46,DEFAULT,,0,0,0,,{\kf13}And{\kf22} you{\kf25} will{\kf22}~{\kf44} fall{\kf29} when{\kf35} we{\kf41} take{\kf110} wing
+Dialogue: 0,0:00:39.73,0:00:43.35,DEFAULT,,0,0,0,,{\r}{\kf54}Young{\kf62} Grif{\kf54}fin{\kf36} I{\kf29} see{\kf29} you're{\kf98} scared
+Dialogue: 0,0:00:43.72,0:00:47.28,DEFAULT,,0,0,0,,{\r}{\kf28}O{\kf52}ver{\kf59}wrought{\kf52} and{\kf49} ill{\kf31} pre{\kf85}pared
+Dialogue: 0,0:00:47.53,0:00:51.27,DEFAULT,,0,0,0,,{\r}{\kf26}But{\kf71} young{\kf52} Grif{\kf45}fin{\kf71} hear{\kf22} me{\kf88} now
+Dialogue: 0,0:00:51.59,0:00:55.33,DEFAULT,,0,0,0,,{\r}{\kf41}You{\kf41} can't{\kf52} go{\kf41} back{\kf45} on{\kf65} your{\kf90} vow
+Dialogue: 0,0:00:55.55,0:00:59.08,DEFAULT,,0,0,0,,{\r}{\kf60}Mar{\kf52}ching{\kf65} for{\kf39}ward{\kf30} for{\kf17}~{\kf17} the{\kf73} king
+Dialogue: 0,0:00:59.48,0:01:03.10,DEFAULT,,0,0,0,,{\r}{\kf55}Not{\kf39} stop{\kf59}ping{\kf51} for{\kf35} a{\kf47}ny{\kf76}thing
+Dialogue: 0,0:01:03.60,0:01:07.07,DEFAULT,,0,0,0,,{\r}{\kf60}Waves{\kf36} of{\kf56} foes,{\kf44} we'll{\kf28} mow{\kf48} them{\kf74} down
+Dialogue: 0,0:01:07.63,0:01:11.03,DEFAULT,,0,0,0,,{\r}{\kf49}Mar{\kf40}ching{\kf69} for{\kf32}ward{\kf45} for{\kf24} the{\kf81} crown
+Dialogue: 0,0:01:11.15,0:01:15.18,DEFAULT,,0,0,0,,{\r}{\kf34}We're{\kf26} the{\kf30} War{\kf56}ri{\kf68}ors{\kf23} of{\kf41} Grif{\kf38}fin{\kf87}stone
+Dialogue: 0,0:01:15.43,0:01:19.27,DEFAULT,,0,0,0,,{\r}{\kf22}Pro{\kf37}tec{\kf52}tors{\kf66} of{\kf26} the{\kf37} grif{\kf44}fin{\kf100} throne
+Dialogue: 0,0:01:19.68,0:01:23.39,DEFAULT,,0,0,0,,{\r}{\kf32}We've{\kf46} pledged{\kf50} our{\kf25}~{\kf25} lives{\kf29}~{\kf29} to{\kf32} the{\kf61} king{\kf42}~
+Dialogue: 0,0:01:23.58,0:01:26.88,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf26} you{\kf30} will{\kf26}~{\kf52} fall{\kf33} when{\kf41} we{\kf48} take{\kf60} wing
+Dialogue: 0,0:01:27.17,0:01:31.19,DEFAULT,,0,0,0,,{\r}{\kf34}We're{\kf26} the{\kf30} War{\kf56}ri{\kf68}ors{\kf23} of{\kf41} Grif{\kf38}fin{\kf87}stone
+Dialogue: 0,0:01:31.44,0:01:35.28,DEFAULT,,0,0,0,,{\r}{\kf22}Pro{\kf36}tec{\kf51}tors{\kf65} of{\kf33} the{\kf36} grif{\kf43}fin{\kf98} throne
+Dialogue: 0,0:01:35.69,0:01:39.40,DEFAULT,,0,0,0,,{\r}{\kf32}We've{\kf46} pledged{\kf49} our{\kf25}~{\kf25} lives{\kf28}~{\kf21} to{\kf42} the{\kf60} king{\kf43}~
+Dialogue: 0,0:01:39.59,0:01:43.43,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf26} you{\kf26} will{\kf30}~{\kf52} fall{\kf33} when{\kf37} we{\kf44} take{\kf121} wing
+Dialogue: 0,0:01:51.73,0:01:54.97,DEFAULT,,0,0,0,,{\r}{\kf91}Young{\kf42} Grif{\kf38}fin{\kf38} hear{\kf28}~{\kf24} me{\kf64} well
+Dialogue: 0,0:01:55.44,0:01:58.97,DEFAULT,,0,0,0,,{\r}{\kf28}I{\kf36} know{\kf28} you{\kf32} think{\kf40} you've{\kf52} been{\kf71} through{\kf66} hell
+Dialogue: 0,0:01:59.47,0:02:03.00,DEFAULT,,0,0,0,,{\r}{\kf17}But{\kf51} young{\kf44} one{\kf81} hear{\kf48} me{\kf58} once{\kf54} more
+Dialogue: 0,0:02:03.43,0:02:06.99,DEFAULT,,0,0,0,,{\r}{\kf23}You{\kf31} must{\kf42} re{\kf50}mem{\kf31}ber{\kf31} what{\kf27} you're{\kf31} figh{\kf27}ting{\kf63} for
+Dialogue: 0,0:02:07.43,0:02:10.17,DEFAULT,,0,0,0,,{\r}{\kf26}The{\kf38} dust{\kf38} of{\kf26} sun{\kf57}~{\kf90}sets
+Dialogue: 0,0:02:11.42,0:02:14.92,DEFAULT,,0,0,0,,{\r}{\kf81}Blown{\kf42} in{\kf31} by{\kf58}~{\kf38} the{\kf42} north{\kf58} wind
+Dialogue: 0,0:02:15.67,0:02:18.01,DEFAULT,,0,0,0,,{\r}{\kf38}All{\kf45} hail{\kf35} Gro{\kf49}~{\kf67}ver
+Dialogue: 0,0:02:19.16,0:02:22.91,DEFAULT,,0,0,0,,{\r}{\kf48}Our{\kf63} just{\kf33} and{\kf78} righ{\kf59}teous{\kf94} king
+Dialogue: 0,0:02:41.20,0:02:45.01,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf19} can{\kf43} see{\kf27} your{\kf66} fate{\kf23} has{\kf43} led{\kf54} you{\kf83} here
+Dialogue: 0,0:02:45.51,0:02:49.59,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf45} see{\kf23} your{\kf60} fi{\kf41}re,{\kf19} but{\kf45} smell{\kf30} your{\kf30} fears{\kf23}~{\kf78}~
+Dialogue: 0,0:02:49.75,0:02:53.31,DEFAULT,,0,0,0,,{\r}{\kf36}Lis{\kf36}ten{\kf96} close{\kf36} when{\kf40} I{\kf76} say{\kf36}~
+Dialogue: 0,0:02:53.59,0:02:57.43,DEFAULT,,0,0,0,,{\r}{\kf44}We{\kf34} will{\kf65} al{\kf20}~{\kf24}ways{\kf27}~{\kf24} have{\kf24}~{\kf17} our{\kf17}~{\kf88} prey
+Dialogue: 0,0:02:59.21,0:03:01.52,DEFAULT,,0,0,0,,{\r}{\kf29}It's{\kf40} not{\kf58} your{\kf11} day{\kf11}~{\kf18}~{\kf11}~{\kf11}~{\kf10}~{\kf10}~{\kf22}~
+Dialogue: 0,0:03:03.45,0:03:10.01,DEFAULT,,0,0,0,,{\r}{\kf49}You{\kf30} will{\kf109} fall{\kf102}~{\kf86}~{\kf145}~{\kf105}~{\kf29}~
+Dialogue: 0,0:03:11.19,0:03:18.84,DEFAULT,,0,0,0,,{\r}{\kf13}When{\kf44} we{\kf37} take{\kf40} wing{\kf10}~{\kf621}~
+Dialogue: 0,0:03:19.62,0:03:26.83,DEFAULT,,0,0,0,,{\r}{\kf42}You{\kf32} will{\kf228} fall{\kf397}~{\kf22}~
+Dialogue: 0,0:03:29.61,0:03:31.76,DEFAULT,,0,0,0,,{\r}{\kf51}Woah{\kf44}~{\kf20}~{\kf27} woah{\kf10}~{\kf10}~{\kf53}~
+Dialogue: 0,0:03:32.20,0:03:36.22,DEFAULT,,0,0,0,,{\r}{\kf34}We're{\kf26} the{\kf30} War{\kf56}ri{\kf67}ors{\kf22} of{\kf45} Grif{\kf37}fin{\kf86}stone
+Dialogue: 0,0:03:36.47,0:03:40.31,DEFAULT,,0,0,0,,{\r}{\kf22}Pro{\kf37}tec{\kf52}tors{\kf66} of{\kf26} the{\kf37} grif{\kf44}fin{\kf100} throne
+Dialogue: 0,0:03:40.72,0:03:44.43,DEFAULT,,0,0,0,,{\r}{\kf32}We've{\kf46} pledged{\kf39} our{\kf32}~{\kf21} lives{\kf28}~{\kf25} to{\kf46} the{\kf60} king{\kf42}~
+Dialogue: 0,0:03:44.62,0:03:47.93,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf14} you{\kf29} will{\kf25}~{\kf61} fall{\kf32} when{\kf50} we{\kf47} take{\kf59} wing
+Dialogue: 0,0:03:48.27,0:03:52.17,DEFAULT,,0,0,0,,{\r}{\kf19}We're{\kf27} the{\kf30} War{\kf57}ri{\kf68}ors{\kf23} of{\kf42} Grif{\kf38}fin{\kf86}stone
+Dialogue: 0,0:03:52.42,0:03:56.26,DEFAULT,,0,0,0,,{\r}{\kf22}Pro{\kf37}tec{\kf52}tors{\kf66} of{\kf26} the{\kf37} grif{\kf44}fin{\kf100} throne
+Dialogue: 0,0:03:56.67,0:04:00.38,DEFAULT,,0,0,0,,{\r}{\kf32}We've{\kf46} pledged{\kf50} our{\kf25}~{\kf25} lives{\kf29}~{\kf29} to{\kf32} the{\kf61} king{\kf42}~
+Dialogue: 0,0:04:00.57,0:04:04.47,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf25} you{\kf29} will{\kf25}~{\kf51} fall{\kf32} when{\kf40} we{\kf47} take{\kf127} wing

@@ -1,43 +1,50 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Rainbow Dash Cheer Song
+Artist: Belgerum
+Original Timing: mylittlekaraoke.com by Linos Melendi, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:13.43,0:00:17.11,DEFAULT,,0,0,0,,{\kf41}Yay{\kf41} yay
-Dialogue: 0,0:00:19.97,0:00:20.38,DEFAULT,,0,0,0,,{\kf41}Yay
-Dialogue: 0,0:00:22.83,0:00:26.52,DEFAULT,,0,0,0,,{\kf41}Yay{\kf41} yay{\kf41} yay
-Dialogue: 0,0:00:33.06,0:00:35.83,DEFAULT,,0,0,0,,{\kf28}Who's{\kf23} al{\kf37}ways{\kf19} first{\kf10} to{\kf19} the{\kf87} scene
-Dialogue: 0,0:00:36.33,0:00:38.92,DEFAULT,,0,0,0,,{\kf23}When{\kf10} there{\kf19} is{\kf14} a{\kf23} po{\kf10}ny{\kf23} in{\kf69} need?
-Dialogue: 0,0:00:39.61,0:00:42.42,DEFAULT,,0,0,0,,{\kf19}Who'll{\kf5} be{\kf41} there{\kf10} to{\kf23} save{\kf23} the{\kf46} day{\kf10} and
-Dialogue: 0,0:00:42.52,0:00:44.92,DEFAULT,,0,0,0,,{\kf14}In{\kf19} the{\kf19} cool{\kf14}est{\kf96} way?
-Dialogue: 0,0:00:46.15,0:00:48.88,DEFAULT,,0,0,0,,{\kf28}She'll{\kf23} be{\kf37} there{\kf19} rea{\kf10}dy{\kf23} to{\kf55} fly{\kf28}~
-Dialogue: 0,0:00:49.42,0:00:52.01,DEFAULT,,0,0,0,,{\kf23}Call{\kf10} for{\kf19} help{\kf14} she{\kf19}~{\kf23} won't{\kf10} pass{\kf23} you{\kf69} by
-Dialogue: 0,0:00:52.70,0:00:55.15,DEFAULT,,0,0,0,,{\kf23}If{\kf5} you{\kf55} need{\kf10} a{\kf23} help{\kf23}ing{\kf55} hand
-Dialogue: 0,0:00:55.33,0:00:58.20,DEFAULT,,0,0,0,,{\kf14}She'll{\kf19} come{\kf19}to{\kf19} make{\kf14} a{\kf114} stand
-Dialogue: 0,0:00:59.24,0:01:03.20,DEFAULT,,0,0,0,,{\kf23}Rain{\kf10}bow{\kf82} Dash{\kf5} it's{\kf23} time{\kf10} to{\kf32} try{\kf19} your{\kf14} best{\kf82} now
-Dialogue: 0,0:01:03.33,0:01:05.47,DEFAULT,,0,0,0,,{\kf23}Ne{\kf10}ver{\kf64} e{\kf10}ver{\kf23} break{\kf23} your{\kf23} vow
-Dialogue: 0,0:01:05.65,0:01:09.47,DEFAULT,,0,0,0,,{\kf46}If{\kf60} there's{\kf19} trou{\kf5}ble{\kf37} be{\kf23} there{\kf5} in{\kf23} a{\kf96} flash
-Dialogue: 0,0:01:10.29,0:01:12.15,DEFAULT,,0,0,0,,{\kf19}Ne{\kf5}ver{\kf19} give{\kf14} up{\kf10} Rain{\kf19}bow{\kf37} Dash
-Dialogue: 0,0:01:12.33,0:01:16.29,DEFAULT,,0,0,0,,{\kf23}You{\kf5} can{\kf82} win{\kf23} if{\kf5} you{\kf23} don't{\kf19} hold{\kf23} back{\kf82} here
-Dialogue: 0,0:01:16.42,0:01:18.56,DEFAULT,,0,0,0,,{\kf19}So{\kf5} in{\kf55} earn{\kf14}est{\kf23} do{\kf23} we{\kf23} cheer
-Dialogue: 0,0:01:18.74,0:01:22.38,DEFAULT,,0,0,0,,{\kf46}If{\kf60} there's{\kf19} trou{\kf10}ble{\kf37} be{\kf19} there{\kf5} in{\kf23} a{\kf78} flash
-Dialogue: 0,0:01:23.38,0:01:25.56,DEFAULT,,0,0,0,,{\kf23}Ne{\kf5}ver{\kf19} give{\kf14} up{\kf10} Rain{\kf19}bow{\kf69} Dash
-Dialogue: 0,0:01:31.92,0:01:34.79,DEFAULT,,0,0,0,,{\kf23}You{\kf23} stand{\kf19} up{\kf19} e{\kf10}ven{\kf19} a{\kf91}lone
-Dialogue: 0,0:01:35.24,0:01:38.01,DEFAULT,,0,0,0,,{\kf23}Rea{\kf10}dy{\kf19} to{\kf23} pro{\kf32}tect{\kf23} our{\kf87} home
-Dialogue: 0,0:01:38.51,0:01:40.79,DEFAULT,,0,0,0,,{\kf23}Po{\kf5}ny{\kf46}ville{\kf10} de{\kf23}pends{\kf23} on{\kf41} you
-Dialogue: 0,0:01:41.15,0:01:44.10,DEFAULT,,0,0,0,,{\kf19}So{\kf32} you{\kf19}must{\kf19} car{\kf14}ry{\kf123} through
-Dialogue: 0,0:01:45.06,0:01:49.01,DEFAULT,,0,0,0,,{\kf23}Rain{\kf10}bow{\kf82} Dash{\kf5} it's{\kf23} time{\kf10} to{\kf32} try{\kf19} your{\kf14} best{\kf82} now
-Dialogue: 0,0:01:49.15,0:01:51.29,DEFAULT,,0,0,0,,{\kf23}Ne{\kf10}ver{\kf64} e{\kf10}ver{\kf23} break{\kf23} your{\kf23} vow
-Dialogue: 0,0:01:51.47,0:01:55.29,DEFAULT,,0,0,0,,{\kf50}If{\kf60} there's{\kf19} trou{\kf5}ble{\kf37} be{\kf23} there{\kf5} in{\kf23} a{\kf96} flash
-Dialogue: 0,0:01:56.10,0:01:57.97,DEFAULT,,0,0,0,,{\kf19}Ne{\kf10}ver{\kf19} give{\kf14} up{\kf5} Rain{\kf19}bow{\kf37} Dash
-Dialogue: 0,0:01:58.15,0:02:01.97,DEFAULT,,0,0,0,,{\kf23}You{\kf5} can{\kf82} win{\kf23} if{\kf5} you{\kf19} don't{\kf19} hold{\kf23} back{\kf69} here
-Dialogue: 0,0:02:02.24,0:02:04.38,DEFAULT,,0,0,0,,{\kf23}So{\kf5} in{\kf55} earn{\kf14}est{\kf23} do{\kf23} we{\kf23} cheer
-Dialogue: 0,0:02:04.56,0:02:08.19,DEFAULT,,0,0,0,,{\kf46}If{\kf60} there's{\kf19} trou{\kf10}ble{\kf37} be{\kf19} there{\kf5} in{\kf23} a{\kf78} flash
-Dialogue: 0,0:02:09.19,0:02:11.38,DEFAULT,,0,0,0,,{\kf23}Ne{\kf5}ver{\kf19} give{\kf14} up{\kf10} Rain{\kf19}bow{\kf69} Dash
-Dialogue: 0,0:02:37.01,0:02:37.33,DEFAULT,,0,0,0,,{\kf32}Yay
+Dialogue: 0,0:00:13.43,0:00:17.11,DEFAULT,,0,0,0,,{\r}{\kf184}Yay{\kf184} yay
+Dialogue: 0,0:00:19.98,0:00:20.38,DEFAULT,,0,0,0,,{\r}{\kf41}Yay
+Dialogue: 0,0:00:22.84,0:00:26.52,DEFAULT,,0,0,0,,{\r}{\kf123}Yay{\kf123} yay{\kf122} yay
+Dialogue: 0,0:00:33.07,0:00:35.84,DEFAULT,,0,0,0,,{\r}{\kf35}Who's{\kf29} al{\kf46}ways{\kf23} first{\kf12} to{\kf23} the{\kf109} scene
+Dialogue: 0,0:00:36.34,0:00:38.93,DEFAULT,,0,0,0,,{\r}{\kf32}When{\kf13} there{\kf25} is{\kf19} a{\kf32} po{\kf13}ny{\kf32} in{\kf93} need?
+Dialogue: 0,0:00:39.61,0:00:42.43,DEFAULT,,0,0,0,,{\r}{\kf30}Who'll{\kf10} be{\kf67} there{\kf15} to{\kf37} save{\kf37} the{\kf74} day{\kf12} and
+Dialogue: 0,0:00:42.52,0:00:44.93,DEFAULT,,0,0,0,,{\r}{\kf21}In{\kf28} the{\kf28} cool{\kf21}est{\kf143} way?
+Dialogue: 0,0:00:46.16,0:00:48.88,DEFAULT,,0,0,0,,{\r}{\kf34}She'll{\kf28} be{\kf46} there{\kf23} rea{\kf11}dy{\kf28} to{\kf68} fly{\kf35}~
+Dialogue: 0,0:00:49.43,0:00:52.02,DEFAULT,,0,0,0,,{\r}{\kf29}Call{\kf12} for{\kf23} help{\kf17} she{\kf23}~{\kf29} won't{\kf12} pass{\kf29} you{\kf85} by
+Dialogue: 0,0:00:52.70,0:00:55.16,DEFAULT,,0,0,0,,{\r}{\kf29}If{\kf10} you{\kf70} need{\kf12} a{\kf29} help{\kf29}ing{\kf66} hand
+Dialogue: 0,0:00:55.34,0:00:58.20,DEFAULT,,0,0,0,,{\r}{\kf20}She'll{\kf27} come{\kf27}to{\kf27} make{\kf20} a{\kf165} stand
+Dialogue: 0,0:00:59.25,0:01:03.20,DEFAULT,,0,0,0,,{\r}{\kf30}Rain{\kf12}bow{\kf109} Dash{\kf10} it's{\kf30} time{\kf12} to{\kf43} try{\kf24} your{\kf18} best{\kf107} now
+Dialogue: 0,0:01:03.34,0:01:05.47,DEFAULT,,0,0,0,,{\r}{\kf28}Ne{\kf11}ver{\kf79} e{\kf11}ver{\kf28} break{\kf28} your{\kf29} vow
+Dialogue: 0,0:01:05.66,0:01:09.47,DEFAULT,,0,0,0,,{\r}{\kf56}If{\kf73} there's{\kf22} trou{\kf10}ble{\kf45} be{\kf28} there{\kf10} in{\kf28} a{\kf110} flash
+Dialogue: 0,0:01:10.29,0:01:12.16,DEFAULT,,0,0,0,,{\r}{\kf29}Ne{\kf10}ver{\kf29} give{\kf21} up{\kf14} Rain{\kf29}bow{\kf54} Dash
+Dialogue: 0,0:01:12.34,0:01:16.29,DEFAULT,,0,0,0,,{\r}{\kf32}You{\kf10} can{\kf115} win{\kf32} if{\kf10} you{\kf32} don't{\kf25} hold{\kf32} back{\kf107} here
+Dialogue: 0,0:01:16.43,0:01:18.56,DEFAULT,,0,0,0,,{\r}{\kf24}So{\kf10} in{\kf73} earn{\kf18}est{\kf31} do{\kf31} we{\kf27} cheer
+Dialogue: 0,0:01:18.75,0:01:22.38,DEFAULT,,0,0,0,,{\r}{\kf57}If{\kf74} there's{\kf23} trou{\kf11}ble{\kf46} be{\kf23} there{\kf10} in{\kf28} a{\kf92} flash
+Dialogue: 0,0:01:23.38,0:01:25.56,DEFAULT,,0,0,0,,{\r}{\kf32}Ne{\kf10}ver{\kf26} give{\kf19} up{\kf13} Rain{\kf26}bow{\kf92} Dash
+Dialogue: 0,0:01:31.93,0:01:34.79,DEFAULT,,0,0,0,,{\r}{\kf32}You{\kf32} stand{\kf26} up{\kf26} e{\kf13}ven{\kf26} a{\kf131}lone
+Dialogue: 0,0:01:35.25,0:01:38.02,DEFAULT,,0,0,0,,{\r}{\kf29}Rea{\kf12}dy{\kf24} to{\kf29} pro{\kf41}tect{\kf29} our{\kf113} home
+Dialogue: 0,0:01:38.52,0:01:40.79,DEFAULT,,0,0,0,,{\r}{\kf31}Po{\kf10}ny{\kf61}ville{\kf12} de{\kf31}pends{\kf31} on{\kf51} you
+Dialogue: 0,0:01:41.15,0:01:44.11,DEFAULT,,0,0,0,,{\r}{\kf24}So{\kf42} you{\kf24}must{\kf24} car{\kf18}ry{\kf163} through
+Dialogue: 0,0:01:45.06,0:01:49.02,DEFAULT,,0,0,0,,{\r}{\kf30}Rain{\kf12}bow{\kf109} Dash{\kf10} it's{\kf30} time{\kf12} to{\kf43} try{\kf24} your{\kf18} best{\kf107} now
+Dialogue: 0,0:01:49.15,0:01:51.29,DEFAULT,,0,0,0,,{\r}{\kf28}Ne{\kf11}ver{\kf79} e{\kf11}ver{\kf28} break{\kf28} your{\kf29} vow
+Dialogue: 0,0:01:51.47,0:01:55.29,DEFAULT,,0,0,0,,{\r}{\kf61}If{\kf72} there's{\kf22} trou{\kf10}ble{\kf44} be{\kf28} there{\kf10} in{\kf28} a{\kf107} flash
+Dialogue: 0,0:01:56.11,0:01:57.97,DEFAULT,,0,0,0,,{\r}{\kf29}Ne{\kf14}ver{\kf29} give{\kf21} up{\kf10} Rain{\kf29}bow{\kf54} Dash
+Dialogue: 0,0:01:58.15,0:02:01.97,DEFAULT,,0,0,0,,{\r}{\kf33}You{\kf10} can{\kf119} win{\kf33} if{\kf10} you{\kf26} don't{\kf26} hold{\kf33} back{\kf92} here
+Dialogue: 0,0:02:02.24,0:02:04.38,DEFAULT,,0,0,0,,{\r}{\kf30}So{\kf10} in{\kf71} earn{\kf18}est{\kf30} do{\kf30} we{\kf25} cheer
+Dialogue: 0,0:02:04.56,0:02:08.20,DEFAULT,,0,0,0,,{\r}{\kf57}If{\kf74} there's{\kf23} trou{\kf11}ble{\kf46} be{\kf23} there{\kf10} in{\kf28} a{\kf92} flash
+Dialogue: 0,0:02:09.20,0:02:11.38,DEFAULT,,0,0,0,,{\r}{\kf32}Ne{\kf10}ver{\kf26} give{\kf19} up{\kf13} Rain{\kf26}bow{\kf92} Dash
+Dialogue: 0,0:02:37.02,0:02:37.33,DEFAULT,,0,0,0,,{\r}{\kf32}Yay

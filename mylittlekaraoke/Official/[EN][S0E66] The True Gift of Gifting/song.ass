@@ -1,84 +1,91 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: The True Gift of Gifting
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by barbeque
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.50,0:00:02.75,DEFAULT,,0,0,0,,{\kf12}Your{\kf12} pre{\kf8}sent{\kf8} is{\kf15} on{\kf19}ly{\kf23} kind{\kf12} of{\kf12} fi{\kf12}nished,{\kf12} Rar{\kf12}i{\kf19}ty
-Dialogue: 0,0:00:03.23,0:00:05.11,DEFAULT,,0,0,0,,{\kf8}But{\kf12} I{\kf23} guess{\kf19} it's{\kf15} bet{\kf12}ter{\kf12} than{\kf19} noth{\kf27}ing
-Dialogue: 0,0:00:06.68,0:00:08.86,DEFAULT,,0,0,0,,{\kf12}I{\kf23} want{\kf12}ed{\kf12} to{\kf23} get{\kf87} you
-Dialogue: 0,0:00:09.53,0:00:12.12,DEFAULT,,0,0,0,,{\kf23}Some{\kf23}thing{\kf15} oh,{\kf30} so{\kf19} rare{\kf75}~
-Dialogue: 0,0:00:13.77,0:00:15.95,DEFAULT,,0,0,0,,{\kf12}A{\kf23} gift{\kf12} to{\kf27} show{\kf30} I{\kf19} care{\kf23}~
-Dialogue: 0,0:00:16.32,0:00:19.10,DEFAULT,,0,0,0,,{\kf15}But{\kf23} no{\kf30}thing{\kf27} can{\kf38} com{\kf94}pare
-Dialogue: 0,0:00:19.66,0:00:22.10,DEFAULT,,0,0,0,,{\kf19}To{\kf64} you,{\kf19} that's{\kf19} ea{\kf12}sy{\kf15} to{\kf34} see
-Dialogue: 0,0:00:22.55,0:00:24.35,DEFAULT,,0,0,0,,{\kf8}But{\kf12} I{\kf19} got{\kf27} stressed{\kf8} and{\kf8} o{\kf15}ver{\kf27}thought
-Dialogue: 0,0:00:24.80,0:00:26.18,DEFAULT,,0,0,0,,{\kf12}Un{\kf15}til{\kf12} the{\kf23} day{\kf15} was{\kf30} shot
-Dialogue: 0,0:00:26.56,0:00:28.17,DEFAULT,,0,0,0,,{\kf12}And{\kf8} it{\kf12} was{\kf38} all{\kf15} for{\kf34} naught
-Dialogue: 0,0:00:28.73,0:00:32.15,DEFAULT,,0,0,0,,{\kf15}But{\kf19} now{\kf19} it's{\kf57} clear{\kf19} to{\kf154} me
-Dialogue: 0,0:00:32.75,0:00:34.81,DEFAULT,,0,0,0,,{\kf12}I'm{\kf19} not{\kf30} gift{\kf23}ed{\kf12} at{\kf30} gift{\kf15}ing
-Dialogue: 0,0:00:34.96,0:00:36.31,DEFAULT,,0,0,0,,{\kf12}It's{\kf12} real{\kf15}ly{\kf15} pret{\kf15}ty{\kf27} sad
-Dialogue: 0,0:00:36.72,0:00:38.03,DEFAULT,,0,0,0,,{\kf12}I{\kf12} tried{\kf12} to{\kf23} show{\kf12} I{\kf23} care
-Dialogue: 0,0:00:38.18,0:00:39.68,DEFAULT,,0,0,0,,{\kf19}But{\kf12} it{\kf30} turned{\kf27} out{\kf19} bad
-Dialogue: 0,0:00:39.83,0:00:41.86,DEFAULT,,0,0,0,,{\kf12}I'm{\kf23} not{\kf30} gift{\kf19}ed{\kf12} at{\kf34} gift{\kf12}ing
-Dialogue: 0,0:00:42.01,0:00:43.43,DEFAULT,,0,0,0,,{\kf12}So{\kf19} all{\kf15} that's{\kf19} left{\kf8} to{\kf38} say
-Dialogue: 0,0:00:44.22,0:00:48.31,DEFAULT,,0,0,0,,{\kf19}Is{\kf19} that{\kf12} I{\kf30} real{\kf27}ly{\kf30} hope{\kf27} my{\kf34} gift{\kf132}ing
-Dialogue: 0,0:00:49.73,0:00:52.85,DEFAULT,,0,0,0,,{\kf19}Did{\kf15}n't{\kf23} ru{\kf12}in{\kf27} your{\kf38} ho{\kf19}li{\kf109}day
-Dialogue: 0,0:00:53.11,0:00:53.93,DEFAULT,,0,0,0,,{\kf23}Oh,{\kf34} Spike
-Dialogue: 0,0:00:54.57,0:00:56.63,DEFAULT,,0,0,0,,{\kf15}A{\kf19} song{\kf15} is{\kf15} a{\kf27} love{\kf19}ly{\kf27} pre{\kf27}sent
-Dialogue: 0,0:00:57.08,0:00:59.22,DEFAULT,,0,0,0,,{\kf12}I{\kf19} want{\kf8}ed{\kf8} to{\kf19} get{\kf12} you{\kf12} the{\kf19} best{\kf23} gift{\kf19} e{\kf19}ver
-Dialogue: 0,0:00:59.82,0:01:02.22,DEFAULT,,0,0,0,,{\kf30}I{\kf27} just{\kf15} could{\kf12}n't{\kf12} fi{\kf12}gure{\kf19} out{\kf12} what{\kf15} it{\kf27} was
-Dialogue: 0,0:01:02.71,0:01:03.38,DEFAULT,,0,0,0,,{\kf27}Ooh!{\kf27} Ooh!
-Dialogue: 0,0:01:03.57,0:01:04.77,DEFAULT,,0,0,0,,{\kf8}The{\kf15} gift{\kf12}-gi{\kf15}ver{\kf15} taught{\kf8} me{\kf19} that
-Dialogue: 0,0:01:05.26,0:01:07.73,DEFAULT,,0,0,0,,{\kf49}Eh,{\kf30} what{\kf30} was{\kf38} it?
-Dialogue: 0,0:01:08.11,0:01:10.06,DEFAULT,,0,0,0,,{\kf12}The{\kf15} best{\kf15} gift{\kf12} is{\kf19} more{\kf15} pre{\kf15}cious{\kf12} than{\kf27} gold
-Dialogue: 0,0:01:10.21,0:01:11.22,DEFAULT,,0,0,0,,{\kf8}But{\kf12} it{\kf12} can{\kf8}not{\kf12} be{\kf23} sold
-Dialogue: 0,0:01:11.41,0:01:12.65,DEFAULT,,0,0,0,,{\kf8}When{\kf12} it{\kf15} breaks{\kf12} it's{\kf12} not{\kf23} hin{\kf19}dered
-Dialogue: 0,0:01:12.80,0:01:13.88,DEFAULT,,0,0,0,,{\kf8}For{\kf8} it{\kf15} quick{\kf12}ly{\kf8} is{\kf23} men{\kf15}ded
-Dialogue: 0,0:01:14.11,0:01:15.12,DEFAULT,,0,0,0,,{\kf8}It{\kf8} can{\kf15} ne{\kf12}ver{\kf12} be{\kf27} bought
-Dialogue: 0,0:01:15.27,0:01:16.58,DEFAULT,,0,0,0,,{\kf12}Yet{\kf12} is{\kf19} ea{\kf15}si{\kf15}ly{\kf34} sought
-Dialogue: 0,0:01:17.71,0:01:18.50,DEFAULT,,0,0,0,,{\kf19}What's{\kf12} so{\kf19} fun{\kf19}ny?
-Dialogue: 0,0:01:19.10,0:01:19.81,DEFAULT,,0,0,0,,{\kf15}It's{\kf12} a{\kf12} rid{\kf19}dle
-Dialogue: 0,0:01:20.37,0:01:21.35,DEFAULT,,0,0,0,,{\kf19}And{\kf12} the{\kf19} ans{\kf15}wer{\kf23} is
-Dialogue: 0,0:01:21.95,0:01:22.47,DEFAULT,,0,0,0,,{\kf23}Friend{\kf27}ship
-Dialogue: 0,0:01:23.93,0:01:25.55,DEFAULT,,0,0,0,,{\kf12}The{\kf23} most{\kf23} ma{\kf12}gi{\kf15}cal{\kf27} gift
-Dialogue: 0,0:01:27.16,0:01:29.52,DEFAULT,,0,0,0,,{\kf19}That{\kf23} I{\kf30} can{\kf23} re{\kf23}call{\kf53}~
-Dialogue: 0,0:01:31.43,0:01:33.46,DEFAULT,,0,0,0,,{\kf12}It{\kf19} could{\kf12}'ve{\kf19} been{\kf34} big{\kf23} or{\kf27} small
-Dialogue: 0,0:01:33.65,0:01:36.57,DEFAULT,,0,0,0,,{\kf15}Or{\kf19} ev{\kf12}en{\kf57} noth{\kf49}ing{\kf23} at{\kf68} all
-Dialogue: 0,0:01:37.17,0:01:39.95,DEFAULT,,0,0,0,,{\kf12}It{\kf23} does{\kf15}n't{\kf60} mat{\kf23}ter{\kf15}~,{\kf19} you{\kf53} see
-Dialogue: 0,0:01:40.25,0:01:43.47,DEFAULT,,0,0,0,,{\kf15}If{\kf15} it's{\kf15} from{\kf19} my{\kf42} friends{\kf12} on{\kf19} whom{\kf12} I{\kf15} de{\kf57}pend
-Dialogue: 0,0:01:44.18,0:01:46.06,DEFAULT,,0,0,0,,{\kf12}No{\kf12} mat{\kf12}ter{\kf53} what{\kf15} you{\kf53} spend
-Dialogue: 0,0:01:46.40,0:01:49.66,DEFAULT,,0,0,0,,{\kf12}It{\kf27} will{\kf23} be{\kf30} per{\kf19}fect{\kf15} to{\kf143} me
-Dialogue: 0,0:01:50.86,0:01:52.51,DEFAULT,,0,0,0,,{\kf12}The{\kf30} true{\kf19} gift{\kf8} of{\kf30} gift{\kf15}ing
-Dialogue: 0,0:01:52.66,0:01:54.16,DEFAULT,,0,0,0,,{\kf12}Is{\kf15} what{\kf12} it{\kf19} means{\kf12} in{\kf49}side
-Dialogue: 0,0:01:54.57,0:01:55.66,DEFAULT,,0,0,0,,{\kf15}We{\kf12} can{\kf15} show{\kf12} we{\kf23} care
-Dialogue: 0,0:01:55.88,0:01:57.65,DEFAULT,,0,0,0,,{\kf23}Spread{\kf12}ing{\kf27} love{\kf19} far{\kf12} and{\kf38} wide
-Dialogue: 0,0:01:57.91,0:01:59.52,DEFAULT,,0,0,0,,{\kf12}The{\kf27} true{\kf19} gift{\kf12} of{\kf23} gift{\kf15}ing
-Dialogue: 0,0:01:59.67,0:02:01.25,DEFAULT,,0,0,0,,{\kf12}Is{\kf15} to{\kf12}tal{\kf34}ly{\kf49} free
-Dialogue: 0,0:02:01.92,0:02:06.46,DEFAULT,,0,0,0,,{\kf12}And{\kf15} you're{\kf12} the{\kf27} best{\kf30} there{\kf30} is{\kf34} at{\kf23} giv{\kf12}in'{\kf169} it
-Dialogue: 0,0:02:07.32,0:02:10.40,DEFAULT,,0,0,0,,{\kf15}With{\kf12} the{\kf19} friend{\kf15}ship{\kf19} that{\kf12} you{\kf30} give{\kf19} to{\kf102} me
-Dialogue: 0,0:02:13.55,0:02:16.10,DEFAULT,,0,0,0,,{\kf30}We've{\kf30} all{\kf30} been{\kf34} friends{\kf38} for{\kf19}e{\kf12}ver
-Dialogue: 0,0:02:16.25,0:02:18.83,DEFAULT,,0,0,0,,{\kf23}And{\kf30} look{\kf34} how{\kf30} far{\kf34} we've{\kf49} come
-Dialogue: 0,0:02:20.56,0:02:23.03,DEFAULT,,0,0,0,,{\kf30}The{\kf23} ho{\kf15}li{\kf34}day{\kf34} brings{\kf30} us{\kf27} close
-Dialogue: 0,0:02:23.22,0:02:25.92,DEFAULT,,0,0,0,,{\kf27}And{\kf34} now{\kf23} it's{\kf30} time{\kf27} for{\kf53} fun
-Dialogue: 0,0:02:27.46,0:02:29.93,DEFAULT,,0,0,0,,{\kf12}The{\kf30} great{\kf12}est{\kf27} gift{\kf30} you{\kf30} give{\kf19} to{\kf27} me
-Dialogue: 0,0:02:30.08,0:02:33.08,DEFAULT,,0,0,0,,{\kf15}Is{\kf30} more{\kf19} pre{\kf83}cious{\kf23} than{\kf75} gold
-Dialogue: 0,0:02:34.66,0:02:37.21,DEFAULT,,0,0,0,,{\kf23}Ne{\kf15}ver{\kf34} end{\kf27}ed,{\kf23} al{\kf30}ways{\kf38} mend{\kf8}ed
-Dialogue: 0,0:02:37.36,0:02:40.06,DEFAULT,,0,0,0,,{\kf15}And{\kf15} it{\kf30} can't{\kf19} be{\kf34} bought{\kf23} or{\kf75} sold
-Dialogue: 0,0:02:40.25,0:02:41.86,DEFAULT,,0,0,0,,{\kf12}The{\kf27} true{\kf23} gift{\kf12} of{\kf27} gift{\kf15}ing
-Dialogue: 0,0:02:42.01,0:02:43.58,DEFAULT,,0,0,0,,{\kf12}Is{\kf19} what{\kf12} it{\kf19} means{\kf15} in{\kf49}side
-Dialogue: 0,0:02:43.96,0:02:45.12,DEFAULT,,0,0,0,,{\kf15}We{\kf12} can{\kf19} show{\kf12} we{\kf27} care
-Dialogue: 0,0:02:45.27,0:02:47.11,DEFAULT,,0,0,0,,{\kf23}Spread{\kf12}ing{\kf30} love{\kf23} far{\kf12} and{\kf49} wide
-Dialogue: 0,0:02:47.33,0:02:48.91,DEFAULT,,0,0,0,,{\kf12}The{\kf30} true{\kf23} gift{\kf12} of{\kf30} gift{\kf12}ing
-Dialogue: 0,0:02:49.06,0:02:50.71,DEFAULT,,0,0,0,,{\kf12}Is{\kf15} to{\kf12}tal{\kf27}ly{\kf60} free
-Dialogue: 0,0:02:51.27,0:02:56.37,DEFAULT,,0,0,0,,{\kf15}And{\kf15} you're{\kf12} the{\kf30} best{\kf34} there{\kf34} is{\kf34} at{\kf27} giv{\kf12}in'{\kf225} it
-Dialogue: 0,0:02:56.71,0:03:01.66,DEFAULT,,0,0,0,,{\kf19}With{\kf12} the{\kf15} friend{\kf15}ship{\kf23} that{\kf15} you{\kf27} give{\kf19} to{\kf289} me
-Dialogue: 0,0:03:03.42,0:03:04.55,DEFAULT,,0,0,0,,{\kf8}And{\kf8} a{\kf15} les{\kf15}son{\kf15} was{\kf30} learned
-Dialogue: 0,0:03:04.77,0:03:06.23,DEFAULT,,0,0,0,,{\kf19}There's{\kf15} no{\kf19} need{\kf12} to{\kf19} ob{\kf34}sess
-Dialogue: 0,0:03:06.57,0:03:07.62,DEFAULT,,0,0,0,,{\kf12}Gift{\kf12}-giv{\kf8}ing{\kf15} is{\kf23} sim{\kf15}ple
-Dialogue: 0,0:03:07.96,0:03:09.50,DEFAULT,,0,0,0,,{\kf19}As{\kf19} long{\kf12} as{\kf12} you{\kf19} re{\kf45}call
-Dialogue: 0,0:03:10.51,0:03:13.92,DEFAULT,,0,0,0,,{\kf19}Friend{\kf27}ship{\kf15} is{\kf15} the{\kf34} best{\kf30} gift{\kf30} of{\kf87} all
+Dialogue: 0,0:00:00.50,0:00:02.75,DEFAULT,,0,0,0,,{\r}{\kf15}Your{\kf15} pre{\kf10}sent{\kf10} is{\kf20} on{\kf25}ly{\kf30} kind{\kf15} of{\kf15} fi{\kf15}nished,{\kf15} Rar{\kf15}i{\kf25}ty
+Dialogue: 0,0:00:03.24,0:00:05.11,DEFAULT,,0,0,0,,{\r}{\kf10}But{\kf15} I{\kf30} guess{\kf25} it's{\kf20} bet{\kf15}ter{\kf15} than{\kf25} noth{\kf33}ing
+Dialogue: 0,0:00:06.69,0:00:08.86,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf30} want{\kf15}ed{\kf15} to{\kf30} get{\kf113} you
+Dialogue: 0,0:00:09.54,0:00:12.12,DEFAULT,,0,0,0,,{\r}{\kf32}Some{\kf32}thing{\kf21} oh,{\kf42} so{\kf26} rare{\kf106}~
+Dialogue: 0,0:00:13.78,0:00:15.95,DEFAULT,,0,0,0,,{\r}{\kf17}A{\kf34} gift{\kf17} to{\kf40} show{\kf46} I{\kf29} care{\kf34}~
+Dialogue: 0,0:00:16.32,0:00:19.10,DEFAULT,,0,0,0,,{\r}{\kf19}But{\kf28} no{\kf37}thing{\kf32} can{\kf46} com{\kf116}pare
+Dialogue: 0,0:00:19.66,0:00:22.10,DEFAULT,,0,0,0,,{\r}{\kf25}To{\kf86} you,{\kf25} that's{\kf25} ea{\kf15}sy{\kf20} to{\kf48} see
+Dialogue: 0,0:00:22.55,0:00:24.35,DEFAULT,,0,0,0,,{\r}{\kf11}But{\kf17} I{\kf28} got{\kf39} stressed{\kf11} and{\kf11} o{\kf22}ver{\kf41}thought
+Dialogue: 0,0:00:24.80,0:00:26.19,DEFAULT,,0,0,0,,{\r}{\kf15}Un{\kf20}til{\kf15} the{\kf30} day{\kf20} was{\kf39} shot
+Dialogue: 0,0:00:26.56,0:00:28.18,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf10} it{\kf16} was{\kf52} all{\kf21} for{\kf46} naught
+Dialogue: 0,0:00:28.74,0:00:32.15,DEFAULT,,0,0,0,,{\r}{\kf18}But{\kf23} now{\kf23} it's{\kf68} clear{\kf23} to{\kf186} me
+Dialogue: 0,0:00:32.75,0:00:34.81,DEFAULT,,0,0,0,,{\r}{\kf17}I'm{\kf28} not{\kf45} gift{\kf33}ed{\kf17} at{\kf45} gift{\kf21}ing
+Dialogue: 0,0:00:34.96,0:00:36.31,DEFAULT,,0,0,0,,{\r}{\kf16}It's{\kf16} real{\kf22}ly{\kf22} pret{\kf22}ty{\kf37} sad
+Dialogue: 0,0:00:36.73,0:00:38.04,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf16} tried{\kf16} to{\kf33} show{\kf16} I{\kf34} care
+Dialogue: 0,0:00:38.19,0:00:39.69,DEFAULT,,0,0,0,,{\r}{\kf27}But{\kf16} it{\kf43} turned{\kf38} out{\kf26} bad
+Dialogue: 0,0:00:39.84,0:00:41.86,DEFAULT,,0,0,0,,{\r}{\kf16}I'm{\kf33} not{\kf44} gift{\kf27}ed{\kf16} at{\kf49} gift{\kf17}ing
+Dialogue: 0,0:00:42.01,0:00:43.44,DEFAULT,,0,0,0,,{\r}{\kf15}So{\kf24} all{\kf20} that's{\kf24} left{\kf10} to{\kf49} say
+Dialogue: 0,0:00:44.23,0:00:48.31,DEFAULT,,0,0,0,,{\r}{\kf24}Is{\kf24} that{\kf14} I{\kf38} real{\kf33}ly{\kf38} hope{\kf33} my{\kf42} gift{\kf163}ing
+Dialogue: 0,0:00:49.74,0:00:52.85,DEFAULT,,0,0,0,,{\r}{\kf23}Did{\kf18}n't{\kf27} ru{\kf14}in{\kf32} your{\kf45} ho{\kf23}li{\kf129}day
+Dialogue: 0,0:00:53.11,0:00:53.94,DEFAULT,,0,0,0,,{\r}{\kf33}Oh,{\kf50} Spike
+Dialogue: 0,0:00:54.58,0:00:56.64,DEFAULT,,0,0,0,,{\r}{\kf19}A{\kf24} song{\kf19} is{\kf19} a{\kf34} love{\kf24}ly{\kf34} pre{\kf33}sent
+Dialogue: 0,0:00:57.09,0:00:59.23,DEFAULT,,0,0,0,,{\r}{\kf15}I{\kf24} want{\kf10}ed{\kf10} to{\kf24} get{\kf15} you{\kf15} the{\kf24} best{\kf29} gift{\kf24} e{\kf24}ver
+Dialogue: 0,0:00:59.83,0:01:02.23,DEFAULT,,0,0,0,,{\r}{\kf41}I{\kf36} just{\kf20} could{\kf15}n't{\kf15} fi{\kf15}gure{\kf26} out{\kf15} what{\kf20} it{\kf37} was
+Dialogue: 0,0:01:02.71,0:01:03.39,DEFAULT,,0,0,0,,{\r}{\kf34}Ooh!{\kf34} Ooh!
+Dialogue: 0,0:01:03.58,0:01:04.78,DEFAULT,,0,0,0,,{\r}{\kf10}The{\kf20} gift{\kf15}-gi{\kf20}ver{\kf20} taught{\kf10} me{\kf25} that
+Dialogue: 0,0:01:05.26,0:01:07.74,DEFAULT,,0,0,0,,{\r}{\kf82}Eh,{\kf51} what{\kf51} was{\kf63} it?
+Dialogue: 0,0:01:08.11,0:01:10.06,DEFAULT,,0,0,0,,{\r}{\kf16}The{\kf21} best{\kf21} gift{\kf16} is{\kf26} more{\kf21} pre{\kf21}cious{\kf16} than{\kf37} gold
+Dialogue: 0,0:01:10.21,0:01:11.22,DEFAULT,,0,0,0,,{\r}{\kf11}But{\kf16} it{\kf16} can{\kf11}not{\kf16} be{\kf31} sold
+Dialogue: 0,0:01:11.41,0:01:12.65,DEFAULT,,0,0,0,,{\r}{\kf10}When{\kf14} it{\kf19} breaks{\kf14} it's{\kf14} not{\kf29} hin{\kf24}dered
+Dialogue: 0,0:01:12.80,0:01:13.89,DEFAULT,,0,0,0,,{\r}{\kf10}For{\kf10} it{\kf19} quick{\kf14}ly{\kf10} is{\kf28} men{\kf18}ded
+Dialogue: 0,0:01:14.11,0:01:15.12,DEFAULT,,0,0,0,,{\r}{\kf10}It{\kf10} can{\kf19} ne{\kf14}ver{\kf14} be{\kf34} bought
+Dialogue: 0,0:01:15.28,0:01:16.59,DEFAULT,,0,0,0,,{\r}{\kf14}Yet{\kf14} is{\kf23} ea{\kf19}si{\kf19}ly{\kf42} sought
+Dialogue: 0,0:01:17.71,0:01:18.50,DEFAULT,,0,0,0,,{\r}{\kf22}What's{\kf13} so{\kf22} fun{\kf22}ny?
+Dialogue: 0,0:01:19.10,0:01:19.81,DEFAULT,,0,0,0,,{\r}{\kf19}It's{\kf14} a{\kf14} rid{\kf24}dle
+Dialogue: 0,0:01:20.38,0:01:21.35,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf13} the{\kf21} ans{\kf17}wer{\kf25} is
+Dialogue: 0,0:01:21.95,0:01:22.47,DEFAULT,,0,0,0,,{\r}{\kf24}Friend{\kf29}ship
+Dialogue: 0,0:01:23.94,0:01:25.55,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf33} most{\kf33} ma{\kf17}gi{\kf22}cal{\kf39} gift
+Dialogue: 0,0:01:27.16,0:01:29.53,DEFAULT,,0,0,0,,{\r}{\kf26}That{\kf31} I{\kf42} can{\kf31} re{\kf31}call{\kf75}~
+Dialogue: 0,0:01:31.44,0:01:33.46,DEFAULT,,0,0,0,,{\r}{\kf16}It{\kf27} could{\kf16}'ve{\kf27} been{\kf48} big{\kf32} or{\kf37} small
+Dialogue: 0,0:01:33.65,0:01:36.58,DEFAULT,,0,0,0,,{\r}{\kf18}Or{\kf23} ev{\kf14}en{\kf68} noth{\kf59}ing{\kf27} at{\kf83} all
+Dialogue: 0,0:01:37.17,0:01:39.95,DEFAULT,,0,0,0,,{\r}{\kf14}It{\kf29} does{\kf19}n't{\kf77} mat{\kf29}ter{\kf19}~,{\kf24} you{\kf67} see
+Dialogue: 0,0:01:40.25,0:01:43.47,DEFAULT,,0,0,0,,{\r}{\kf22}If{\kf22} it's{\kf22} from{\kf28} my{\kf61} friends{\kf17} on{\kf28} whom{\kf17} I{\kf22} de{\kf83}pend
+Dialogue: 0,0:01:44.19,0:01:46.06,DEFAULT,,0,0,0,,{\r}{\kf14}No{\kf14} mat{\kf14}ter{\kf64} what{\kf18} you{\kf64} spend
+Dialogue: 0,0:01:46.40,0:01:49.66,DEFAULT,,0,0,0,,{\r}{\kf14}It{\kf32} will{\kf28} be{\kf37} per{\kf23}fect{\kf18} to{\kf174} me
+Dialogue: 0,0:01:50.86,0:01:52.51,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf44} true{\kf28} gift{\kf11} of{\kf44} gift{\kf21}ing
+Dialogue: 0,0:01:52.66,0:01:54.16,DEFAULT,,0,0,0,,{\r}{\kf15}Is{\kf19} what{\kf15} it{\kf24} means{\kf15} in{\kf62}side
+Dialogue: 0,0:01:54.58,0:01:55.66,DEFAULT,,0,0,0,,{\r}{\kf22}We{\kf16} can{\kf22} show{\kf16} we{\kf33} care
+Dialogue: 0,0:01:55.89,0:01:57.65,DEFAULT,,0,0,0,,{\r}{\kf31}Spread{\kf16}ing{\kf36} love{\kf26} far{\kf16} and{\kf51} wide
+Dialogue: 0,0:01:57.91,0:01:59.53,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf40} true{\kf29} gift{\kf17} of{\kf34} gift{\kf24}ing
+Dialogue: 0,0:01:59.67,0:02:01.25,DEFAULT,,0,0,0,,{\r}{\kf15}Is{\kf20} to{\kf15}tal{\kf44}ly{\kf64} free
+Dialogue: 0,0:02:01.92,0:02:06.46,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf19} you're{\kf14} the{\kf33} best{\kf38} there{\kf38} is{\kf43} at{\kf28} giv{\kf14}in'{\kf213} it
+Dialogue: 0,0:02:07.33,0:02:10.40,DEFAULT,,0,0,0,,{\r}{\kf19}With{\kf14} the{\kf24} friend{\kf19}ship{\kf24} that{\kf14} you{\kf38} give{\kf24} to{\kf131} me
+Dialogue: 0,0:02:13.55,0:02:16.10,DEFAULT,,0,0,0,,{\r}{\kf40}We've{\kf40} all{\kf40} been{\kf45} friends{\kf50} for{\kf25}e{\kf15}ver
+Dialogue: 0,0:02:16.25,0:02:18.84,DEFAULT,,0,0,0,,{\r}{\kf29}And{\kf39} look{\kf44} how{\kf39} far{\kf44} we've{\kf64} come
+Dialogue: 0,0:02:20.56,0:02:23.04,DEFAULT,,0,0,0,,{\r}{\kf39}The{\kf29} ho{\kf19}li{\kf44}day{\kf44} brings{\kf39} us{\kf33} close
+Dialogue: 0,0:02:23.22,0:02:25.93,DEFAULT,,0,0,0,,{\r}{\kf37}And{\kf48} now{\kf32} it's{\kf42} time{\kf37} for{\kf74} fun
+Dialogue: 0,0:02:27.46,0:02:29.94,DEFAULT,,0,0,0,,{\r}{\kf15}The{\kf40} great{\kf15}est{\kf35} gift{\kf40} you{\kf40} give{\kf25} to{\kf37} me
+Dialogue: 0,0:02:30.09,0:02:33.09,DEFAULT,,0,0,0,,{\r}{\kf18}Is{\kf37} more{\kf23} pre{\kf102}cious{\kf28} than{\kf92} gold
+Dialogue: 0,0:02:34.66,0:02:37.21,DEFAULT,,0,0,0,,{\r}{\kf29}Ne{\kf20}ver{\kf44} end{\kf34}ed,{\kf29} al{\kf39}ways{\kf49} mend{\kf11}ed
+Dialogue: 0,0:02:37.36,0:02:40.06,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf19} it{\kf39} can't{\kf24} be{\kf43} bought{\kf29} or{\kf97} sold
+Dialogue: 0,0:02:40.25,0:02:41.86,DEFAULT,,0,0,0,,{\r}{\kf16}The{\kf38} true{\kf32} gift{\kf16} of{\kf38} gift{\kf21}ing
+Dialogue: 0,0:02:42.01,0:02:43.59,DEFAULT,,0,0,0,,{\r}{\kf14}Is{\kf24} what{\kf14} it{\kf24} means{\kf19} in{\kf63}side
+Dialogue: 0,0:02:43.96,0:02:45.12,DEFAULT,,0,0,0,,{\r}{\kf21}We{\kf16} can{\kf26} show{\kf16} we{\kf37} care
+Dialogue: 0,0:02:45.28,0:02:47.11,DEFAULT,,0,0,0,,{\r}{\kf28}Spread{\kf14}ing{\kf38} love{\kf28} far{\kf14} and{\kf62} wide
+Dialogue: 0,0:02:47.34,0:02:48.91,DEFAULT,,0,0,0,,{\r}{\kf15}The{\kf41} true{\kf31} gift{\kf15} of{\kf41} gift{\kf15}ing
+Dialogue: 0,0:02:49.06,0:02:50.71,DEFAULT,,0,0,0,,{\r}{\kf15}Is{\kf20} to{\kf15}tal{\kf35}ly{\kf80} free
+Dialogue: 0,0:02:51.28,0:02:56.38,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf18} you're{\kf13} the{\kf35} best{\kf40} there{\kf40} is{\kf40} at{\kf31} giv{\kf13}in'{\kf262} it
+Dialogue: 0,0:02:56.71,0:03:01.66,DEFAULT,,0,0,0,,{\r}{\kf22}With{\kf13} the{\kf17} friend{\kf17}ship{\kf26} that{\kf17} you{\kf30} give{\kf22} to{\kf331} me
+Dialogue: 0,0:03:03.43,0:03:04.55,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf10} a{\kf19} les{\kf19}son{\kf19} was{\kf35} learned
+Dialogue: 0,0:03:04.78,0:03:06.24,DEFAULT,,0,0,0,,{\r}{\kf24}There's{\kf19} no{\kf24} need{\kf14} to{\kf24} ob{\kf41}sess
+Dialogue: 0,0:03:06.57,0:03:07.62,DEFAULT,,0,0,0,,{\r}{\kf14}Gift{\kf14}-giv{\kf10}ing{\kf19} is{\kf29} sim{\kf19}ple
+Dialogue: 0,0:03:07.96,0:03:09.50,DEFAULT,,0,0,0,,{\r}{\kf23}As{\kf23} long{\kf14} as{\kf14} you{\kf23} re{\kf57}call
+Dialogue: 0,0:03:10.51,0:03:13.93,DEFAULT,,0,0,0,,{\r}{\kf25}Friend{\kf35}ship{\kf20} is{\kf20} the{\kf45} best{\kf40} gift{\kf40} of{\kf116} all

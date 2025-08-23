@@ -1,31 +1,38 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: This Monster in Me
+Artist: Pinkie Guy
+Original Timing: mylittlekaraoke.com by Steven Knapp, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:23.12,0:01:28.59,DEFAULT,,0,0,0,,{\kf64}One{\kf34} eye{\kf83} o{\kf23}pen{\kf23} to{\kf23} these{\kf38} hor{\kf27}rors{\kf19} with{\kf109}in
-Dialogue: 0,0:01:28.78,0:01:33.28,DEFAULT,,0,0,0,,{\kf19}And{\kf23} I{\kf57} can't{\kf31} seem{\kf27} to{\kf31} find{\kf16} a{\kf34} way{\kf94} out
-Dialogue: 0,0:01:36.69,0:01:42.32,DEFAULT,,0,0,0,,{\kf23}A{\kf79} hair{\kf34} short{\kf19} of{\kf49} san{\kf38}i{\kf207}ty
-Dialogue: 0,0:01:42.73,0:01:49.14,DEFAULT,,0,0,0,,{\kf27}Can't{\kf31} guar{\kf16}an{\kf38}tee{\kf27} that{\kf31} I'm{\kf27} the{\kf57} he{\kf49}ro{\kf203} here
-Dialogue: 0,0:02:02.31,0:02:07.93,DEFAULT,,0,0,0,,{\kf27}And{\kf57} I{\kf31} will{\kf27} cut{\kf31} the{\kf42} bad{\kf27} right{\kf49} out
-Dialogue: 0,0:02:21.92,0:02:25.79,DEFAULT,,0,0,0,,{\kf12}And{\kf68} all{\kf64}I{\kf46} want{\kf8}ed{\kf124}~
-Dialogue: 0,0:02:27.55,0:02:34.64,DEFAULT,,0,0,0,,{\kf23}Was{\kf23} raise{\kf8} the{\kf49} sun{\kf12} to{\kf31} cre{\kf38}ate{\kf34} a{\kf31} world{\kf23} where{\kf31} you{\kf23} could{\kf12} be{\kf143} free
-Dialogue: 0,0:02:34.71,0:02:38.58,DEFAULT,,0,0,0,,{\kf12}And{\kf68} all{\kf64}I{\kf46} want{\kf4}ed{\kf124}~
-Dialogue: 0,0:02:40.19,0:02:47.43,DEFAULT,,0,0,0,,{\kf34}Was{\kf12} build{\kf27} a{\kf31} world{\kf27} where{\kf19} all{\kf19} my{\kf4} chil{\kf27}dren{\kf27} live{\kf19} in{\kf23} har{\kf61}mo{\kf162}ny
-Dialogue: 0,0:02:49.94,0:02:55.45,DEFAULT,,0,0,0,,{\kf27}Can't{\kf31} guar{\kf16}an{\kf34}tee{\kf31} that{\kf23} I'm{\kf23} the{\kf38} he{\kf49}ro{\kf139} here
-Dialogue: 0,0:02:59.88,0:03:07.68,DEFAULT,,0,0,0,,{\kf23}And{\kf53} I{\kf27} will{\kf27} cut{\kf31} the{\kf49} bad{\kf31} right{\kf46} out{\kf49} now!
-Dialogue: 0,0:03:20.21,0:03:25.87,DEFAULT,,0,0,0,,{\kf38}I{\kf31} see{\kf34} you're{\kf27} strug{\kf27}gl{\kf49}ing{\kf27} so{\kf31} here's{\kf38} my{\kf31} ad{\kf42}vice
-Dialogue: 0,0:03:26.55,0:03:31.91,DEFAULT,,0,0,0,,{\kf38}A{\kf27} touch{\kf23} of{\kf31} dis{\kf53}cord{\kf27} could{\kf42} add{\kf23} a{\kf27} lit{\kf23}tle{\kf72} spice
-Dialogue: 0,0:03:59.55,0:04:04.13,DEFAULT,,0,0,0,,{\kf27}One{\kf23} last{\kf31} look{\kf23} be{\kf91}hind{\kf23} and{\kf31} ter{\kf27}rors{\kf19} are
-Dialogue: 0,0:04:04.35,0:04:09.60,DEFAULT,,0,0,0,,{\kf94}Star{\kf16}ing{\kf91} back{\kf16} at{\kf211} me
-Dialogue: 0,0:04:12.38,0:04:18.23,DEFAULT,,0,0,0,,{\kf19}One{\kf23} fi{\kf27}nal{\kf12} re{\kf83}gret{\kf16} as{\kf27} si{\kf16}lence{\kf8} de{\kf121}scends
-Dialogue: 0,0:04:18.49,0:04:25.20,DEFAULT,,0,0,0,,{\kf27}This{\kf23} mon{\kf27}ster{\kf23} is{\kf16} still{\kf72} roam{\kf19}ing{\kf316} free
-Dialogue: 0,0:04:31.51,0:04:36.53,DEFAULT,,0,0,0,,{\kf16}This{\kf27} mon{\kf23}ster{\kf16} is{\kf16} still{\kf117} here{\kf23} nev{\kf76}er
-Dialogue: 0,0:04:44.22,0:04:48.53,DEFAULT,,0,0,0,,{\kf31}This{\kf27} mon{\kf34}ster{\kf23} is{\kf16} in{\kf31}side{\kf23} of{\kf139} me
-Dialogue: 0,0:04:53.11,0:04:54.27,DEFAULT,,0,0,0,,{\kf16}Just{\kf16} kid{\kf61}ding
+Dialogue: 0,0:01:23.12,0:01:28.60,DEFAULT,,0,0,0,,{\r}{\kf80}One{\kf42} eye{\kf103} o{\kf28}pen{\kf28} to{\kf28} these{\kf47} hor{\kf33}rors{\kf23} with{\kf136}in
+Dialogue: 0,0:01:28.78,0:01:33.28,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf31} I{\kf78} can't{\kf41} seem{\kf36} to{\kf41} find{\kf21} a{\kf47} way{\kf129} out
+Dialogue: 0,0:01:36.70,0:01:42.32,DEFAULT,,0,0,0,,{\r}{\kf28}A{\kf99} hair{\kf43} short{\kf24} of{\kf62} san{\kf47}i{\kf260}ty
+Dialogue: 0,0:01:42.74,0:01:49.15,DEFAULT,,0,0,0,,{\r}{\kf34}Can't{\kf39} guar{\kf19}an{\kf48}tee{\kf34} that{\kf39} I'm{\kf34} the{\kf72} he{\kf63}ro{\kf259} here
+Dialogue: 0,0:02:02.31,0:02:07.94,DEFAULT,,0,0,0,,{\r}{\kf52}And{\kf111} I{\kf59} will{\kf52} cut{\kf59} the{\kf81} bad{\kf52} right{\kf97} out
+Dialogue: 0,0:02:21.93,0:02:25.79,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf82} all{\kf77}I{\kf54} want{\kf10}ed{\kf149}~
+Dialogue: 0,0:02:27.55,0:02:34.64,DEFAULT,,0,0,0,,{\r}{\kf34}Was{\kf34} raise{\kf11} the{\kf73} sun{\kf17} to{\kf45} cre{\kf56}ate{\kf51} a{\kf45} world{\kf34} where{\kf45} you{\kf34} could{\kf17} be{\kf213} free
+Dialogue: 0,0:02:34.72,0:02:38.58,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf83} all{\kf78}I{\kf55} want{\kf10}ed{\kf146}~
+Dialogue: 0,0:02:40.19,0:02:47.43,DEFAULT,,0,0,0,,{\r}{\kf51}Was{\kf17} build{\kf39} a{\kf45} world{\kf39} where{\kf28} all{\kf28} my{\kf10} chil{\kf39}dren{\kf39} live{\kf28} in{\kf34} har{\kf90}mo{\kf237}ny
+Dialogue: 0,0:02:49.95,0:02:55.46,DEFAULT,,0,0,0,,{\r}{\kf36}Can't{\kf41} guar{\kf20}an{\kf46}tee{\kf41} that{\kf31} I'm{\kf31} the{\kf51} he{\kf66}ro{\kf188} here
+Dialogue: 0,0:02:59.88,0:03:07.69,DEFAULT,,0,0,0,,{\r}{\kf53}And{\kf124} I{\kf62} will{\kf62} cut{\kf71} the{\kf115} bad{\kf71} right{\kf106} out{\kf116} now!
+Dialogue: 0,0:03:20.21,0:03:25.88,DEFAULT,,0,0,0,,{\r}{\kf58}I{\kf46} see{\kf52} you're{\kf40} strug{\kf40}gl{\kf75}ing{\kf40} so{\kf46} here's{\kf58} my{\kf46} ad{\kf65}vice
+Dialogue: 0,0:03:26.55,0:03:31.91,DEFAULT,,0,0,0,,{\r}{\kf53}A{\kf37} touch{\kf32} of{\kf42} dis{\kf74}cord{\kf37} could{\kf58} add{\kf32} a{\kf37} lit{\kf32}tle{\kf102} spice
+Dialogue: 0,0:03:59.56,0:04:04.13,DEFAULT,,0,0,0,,{\r}{\kf42}One{\kf36} last{\kf48} look{\kf36} be{\kf143}hind{\kf36} and{\kf48} ter{\kf42}rors{\kf27} are
+Dialogue: 0,0:04:04.36,0:04:09.61,DEFAULT,,0,0,0,,{\r}{\kf116}Star{\kf19}ing{\kf112} back{\kf19} at{\kf259} me
+Dialogue: 0,0:04:12.38,0:04:18.23,DEFAULT,,0,0,0,,{\r}{\kf32}One{\kf38} fi{\kf45}nal{\kf19} re{\kf140}gret{\kf25} as{\kf45} si{\kf25}lence{\kf13} de{\kf203}scends
+Dialogue: 0,0:04:18.50,0:04:25.21,DEFAULT,,0,0,0,,{\r}{\kf34}This{\kf29} mon{\kf34}ster{\kf29} is{\kf19} still{\kf92} roam{\kf24}ing{\kf410} free
+Dialogue: 0,0:04:31.51,0:04:36.54,DEFAULT,,0,0,0,,{\r}{\kf25}This{\kf43} mon{\kf37}ster{\kf25} is{\kf25} still{\kf190} here{\kf37} nev{\kf121}er
+Dialogue: 0,0:04:44.23,0:04:48.54,DEFAULT,,0,0,0,,{\r}{\kf41}This{\kf35} mon{\kf46}ster{\kf30} is{\kf20} in{\kf41}side{\kf30} of{\kf188} me
+Dialogue: 0,0:04:53.11,0:04:54.28,DEFAULT,,0,0,0,,{\r}{\kf19}Just{\kf19} kid{\kf78}ding

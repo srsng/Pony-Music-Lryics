@@ -1,57 +1,64 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Glimmer
+Artist: Plum Creek Rhythm Section
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:32.06,0:00:34.50,DEFAULT,,0,0,0,,{\kf43}You've{\kf47} got{\kf94} me
-Dialogue: 0,0:00:35.20,0:00:38.62,DEFAULT,,0,0,0,,{\kf19}On{\kf24} the{\kf33} pre{\kf29}ci{\kf29}pice{\kf19}~{\kf19} with{\kf75} you
-Dialogue: 0,0:00:40.08,0:00:45.00,DEFAULT,,0,0,0,,{\kf57}You{\kf43} have{\kf66} all{\kf24} the{\kf38} le{\kf38}verage{\kf94} now
-Dialogue: 0,0:00:48.05,0:00:51.05,DEFAULT,,0,0,0,,{\kf52}All{\kf52} that's{\kf66} keep{\kf24}ing{\kf29} us
-Dialogue: 0,0:00:51.28,0:00:53.58,DEFAULT,,0,0,0,,{\kf29}From{\kf24} o{\kf24}bli{\kf29}vi{\kf80}on
-Dialogue: 0,0:00:55.26,0:00:57.94,DEFAULT,,0,0,0,,{\kf24}Is{\kf24} a{\kf29} glim{\kf15}mer{\kf19}~{\kf19} of{\kf85} hope
-Dialogue: 0,0:00:58.50,0:01:01.87,DEFAULT,,0,0,0,,{\kf24}That{\kf29} you'll{\kf24} hear{\kf24} me{\kf179} out
-Dialogue: 0,0:01:03.51,0:01:07.87,DEFAULT,,0,0,0,,{\kf29}A{\kf47} cry{\kf57} for{\kf29} at{\kf52}ten{\kf104}tion
-Dialogue: 0,0:01:09.51,0:01:11.30,DEFAULT,,0,0,0,,{\kf38}I{\kf33} hear{\kf15}~{\kf29}~{\kf24} you
-Dialogue: 0,0:01:11.58,0:01:16.73,DEFAULT,,0,0,0,,{\kf24}A{\kf43} grave{\kf57} ap{\kf38}pre{\kf43}hen{\kf43}sion{\kf47}~{\kf90}~
-Dialogue: 0,0:01:17.53,0:01:19.31,DEFAULT,,0,0,0,,{\kf33}I{\kf38} feel{\kf10}~{\kf19}~{\kf24} you
-Dialogue: 0,0:01:19.55,0:01:21.28,DEFAULT,,0,0,0,,{\kf24}Don't{\kf29} real{\kf24}ly{\kf24} want{\kf19}~
-Dialogue: 0,0:01:21.51,0:01:24.65,DEFAULT,,0,0,0,,{\kf38}Don't{\kf29} real{\kf24}ly{\kf38} want{\kf19}~{\kf19} to{\kf33} do{\kf43} this
-Dialogue: 0,0:01:27.51,0:01:29.25,DEFAULT,,0,0,0,,{\kf38}You{\kf24} real{\kf24}ly{\kf24} want{\kf19}~
-Dialogue: 0,0:01:29.58,0:01:32.15,DEFAULT,,0,0,0,,{\kf29}You{\kf19} real{\kf24}ly{\kf43} want{\kf19}~{\kf19} a{\kf33} friend
-Dialogue: 0,0:01:34.03,0:01:34.45,DEFAULT,,0,0,0,,{\kf43}Just
-Dialogue: 0,0:01:36.00,0:01:36.47,DEFAULT,,0,0,0,,{\kf47}One
-Dialogue: 0,0:01:56.01,0:01:58.64,DEFAULT,,0,0,0,,{\kf47}I've{\kf47} got{\kf113} you
-Dialogue: 0,0:01:59.30,0:02:01.59,DEFAULT,,0,0,0,,{\kf24}Se{\kf24}cond{\kf29} gues{\kf24}sing{\kf38} it{\kf29}~
-Dialogue: 0,0:02:04.03,0:02:08.81,DEFAULT,,0,0,0,,{\kf47}I{\kf52} can{\kf52} sense{\kf19} you{\kf29} hear{\kf47} my{\kf80} plea
-Dialogue: 0,0:02:12.14,0:02:15.23,DEFAULT,,0,0,0,,{\kf43}All{\kf43} that's{\kf57} keep{\kf33}ing{\kf19} you{\kf19}~
-Dialogue: 0,0:02:15.70,0:02:17.86,DEFAULT,,0,0,0,,{\kf19}From{\kf29} end{\kf29}ing{\kf33} it{\kf61} all
-Dialogue: 0,0:02:19.26,0:02:22.08,DEFAULT,,0,0,0,,{\kf33}Is{\kf19} a{\kf29} glim{\kf19}mer{\kf15} of{\kf99} hope
-Dialogue: 0,0:02:22.31,0:02:25.73,DEFAULT,,0,0,0,,{\kf24}That{\kf24} you'll{\kf24} lis{\kf24}ten{\kf29} to{\kf141} me
-Dialogue: 0,0:02:27.51,0:02:31.83,DEFAULT,,0,0,0,,{\kf24}A{\kf47} cry{\kf52} for{\kf33} at{\kf61}ten{\kf104}tion
-Dialogue: 0,0:02:33.51,0:02:35.34,DEFAULT,,0,0,0,,{\kf33}I{\kf38} hear{\kf15}~{\kf19}~{\kf19} you{\kf10}~
-Dialogue: 0,0:02:35.62,0:02:40.69,DEFAULT,,0,0,0,,{\kf24}A{\kf43} grave{\kf47} ap{\kf33}pre{\kf52}hen{\kf38}sion{\kf52}~{\kf80}~
-Dialogue: 0,0:02:41.53,0:02:43.31,DEFAULT,,0,0,0,,{\kf33}I{\kf38} feel{\kf15}~{\kf19}~{\kf29} you
-Dialogue: 0,0:02:43.59,0:02:45.23,DEFAULT,,0,0,0,,{\kf24}Don't{\kf29} real{\kf24}ly{\kf24} want{\kf15}~
-Dialogue: 0,0:02:45.56,0:02:48.65,DEFAULT,,0,0,0,,{\kf29}Don't{\kf29} real{\kf24}ly{\kf38} want{\kf19}~{\kf19} to{\kf29} do{\kf43} this
-Dialogue: 0,0:02:51.56,0:02:53.25,DEFAULT,,0,0,0,,{\kf33}You{\kf24} real{\kf19}ly{\kf24} want{\kf19}~
-Dialogue: 0,0:02:53.53,0:02:56.11,DEFAULT,,0,0,0,,{\kf29}You{\kf24} real{\kf24}ly{\kf43} want{\kf15}~{\kf15} a{\kf33} friend
-Dialogue: 0,0:02:58.03,0:02:58.45,DEFAULT,,0,0,0,,{\kf43}Just
-Dialogue: 0,0:03:00.05,0:03:00.56,DEFAULT,,0,0,0,,{\kf52}One
-Dialogue: 0,0:03:03.28,0:03:06.42,DEFAULT,,0,0,0,,{\kf19}If{\kf29} you're{\kf29} look{\kf24}ing{\kf43} for{\kf15}~{\kf19} a{\kf61} sign
-Dialogue: 0,0:03:06.98,0:03:08.67,DEFAULT,,0,0,0,,{\kf29}Here{\kf24} it{\kf90} is
-Dialogue: 0,0:03:12.05,0:03:17.15,DEFAULT,,0,0,0,,{\kf19}Stay{\kf155}~{\kf29} with{\kf29}~{\kf108} us
-Dialogue: 0,0:03:19.26,0:03:22.55,DEFAULT,,0,0,0,,{\kf19}If{\kf24} you're{\kf19} look{\kf29}ing{\kf38} for{\kf15}~{\kf19} a{\kf47} sign{\kf19}~
-Dialogue: 0,0:03:23.01,0:03:24.65,DEFAULT,,0,0,0,,{\kf33}Here{\kf19} it{\kf85} is
-Dialogue: 0,0:03:28.08,0:03:33.89,DEFAULT,,0,0,0,,{\kf24}Stay{\kf174}~{\kf29} with{\kf15}~{\kf183} us
-Dialogue: 0,0:03:35.30,0:03:38.30,DEFAULT,,0,0,0,,{\kf19}If{\kf24} you're{\kf19} look{\kf33}ing{\kf33} for{\kf24}~{\kf19} a{\kf43} sign
-Dialogue: 0,0:03:39.05,0:03:40.59,DEFAULT,,0,0,0,,{\kf29}Here{\kf24} it{\kf80} is
-Dialogue: 0,0:03:44.06,0:03:49.78,DEFAULT,,0,0,0,,{\kf19}Stay{\kf216}~{\kf19} with{\kf24}~{\kf174} us
-Dialogue: 0,0:03:51.28,0:03:54.33,DEFAULT,,0,0,0,,{\kf15}If{\kf24} you're{\kf19} look{\kf29}ing{\kf29} for{\kf15}~{\kf19} a{\kf47} sign
-Dialogue: 0,0:03:55.03,0:03:56.53,DEFAULT,,0,0,0,,{\kf29}Here{\kf19} it{\kf71} is
-Dialogue: 0,0:04:00.09,0:04:07.40,DEFAULT,,0,0,0,,{\kf19}Stay{\kf211}~{\kf38} with{\kf155} us{\kf24}~{\kf136}~
+Dialogue: 0,0:00:32.07,0:00:34.50,DEFAULT,,0,0,0,,{\r}{\kf56}You've{\kf63} got{\kf125} me
+Dialogue: 0,0:00:35.21,0:00:38.63,DEFAULT,,0,0,0,,{\r}{\kf26}On{\kf33} the{\kf46} pre{\kf39}ci{\kf39}pice{\kf26}~{\kf26} with{\kf107} you
+Dialogue: 0,0:00:40.08,0:00:45.00,DEFAULT,,0,0,0,,{\r}{\kf78}You{\kf58} have{\kf91} all{\kf32} the{\kf52} le{\kf52}verage{\kf129} now
+Dialogue: 0,0:00:48.05,0:00:51.05,DEFAULT,,0,0,0,,{\r}{\kf70}All{\kf70} that's{\kf89} keep{\kf32}ing{\kf39} us
+Dialogue: 0,0:00:51.28,0:00:53.58,DEFAULT,,0,0,0,,{\r}{\kf35}From{\kf29} o{\kf29}bli{\kf35}vi{\kf102}on
+Dialogue: 0,0:00:55.27,0:00:57.94,DEFAULT,,0,0,0,,{\r}{\kf30}Is{\kf30} a{\kf36} glim{\kf18}mer{\kf24}~{\kf24} of{\kf105} hope
+Dialogue: 0,0:00:58.50,0:01:01.88,DEFAULT,,0,0,0,,{\r}{\kf29}That{\kf34} you'll{\kf29} hear{\kf29} me{\kf217} out
+Dialogue: 0,0:01:03.52,0:01:07.88,DEFAULT,,0,0,0,,{\r}{\kf39}A{\kf65} cry{\kf78} for{\kf39} at{\kf72}ten{\kf143}tion
+Dialogue: 0,0:01:09.52,0:01:11.30,DEFAULT,,0,0,0,,{\r}{\kf49}I{\kf43} hear{\kf18}~{\kf37}~{\kf31} you
+Dialogue: 0,0:01:11.58,0:01:16.74,DEFAULT,,0,0,0,,{\r}{\kf32}A{\kf57} grave{\kf76} ap{\kf51}pre{\kf57}hen{\kf57}sion{\kf64}~{\kf122}~
+Dialogue: 0,0:01:17.53,0:01:19.32,DEFAULT,,0,0,0,,{\r}{\kf48}I{\kf55} feel{\kf14}~{\kf27}~{\kf34} you
+Dialogue: 0,0:01:19.55,0:01:21.28,DEFAULT,,0,0,0,,{\r}{\kf35}Don't{\kf42} real{\kf35}ly{\kf35} want{\kf26}~
+Dialogue: 0,0:01:21.52,0:01:24.66,DEFAULT,,0,0,0,,{\r}{\kf49}Don't{\kf37} real{\kf31}ly{\kf49} want{\kf25}~{\kf25} to{\kf43} do{\kf55} this
+Dialogue: 0,0:01:27.52,0:01:29.25,DEFAULT,,0,0,0,,{\r}{\kf51}You{\kf32} real{\kf32}ly{\kf32} want{\kf26}~
+Dialogue: 0,0:01:29.58,0:01:32.16,DEFAULT,,0,0,0,,{\r}{\kf40}You{\kf26} real{\kf33}ly{\kf60} want{\kf26}~{\kf26} a{\kf47} friend
+Dialogue: 0,0:01:34.03,0:01:34.46,DEFAULT,,0,0,0,,{\r}{\kf42}Just
+Dialogue: 0,0:01:36.00,0:01:36.47,DEFAULT,,0,0,0,,{\r}{\kf47}One
+Dialogue: 0,0:01:56.02,0:01:58.64,DEFAULT,,0,0,0,,{\r}{\kf60}I've{\kf60} got{\kf142} you
+Dialogue: 0,0:01:59.30,0:02:01.60,DEFAULT,,0,0,0,,{\r}{\kf33}Se{\kf33}cond{\kf39} gues{\kf33}sing{\kf53} it{\kf39}~
+Dialogue: 0,0:02:04.03,0:02:08.82,DEFAULT,,0,0,0,,{\r}{\kf69}I{\kf76} can{\kf76} sense{\kf28} you{\kf42} hear{\kf69} my{\kf118} plea
+Dialogue: 0,0:02:12.14,0:02:15.24,DEFAULT,,0,0,0,,{\r}{\kf62}All{\kf62} that's{\kf82} keep{\kf48}ing{\kf27} you{\kf28}~
+Dialogue: 0,0:02:15.71,0:02:17.86,DEFAULT,,0,0,0,,{\r}{\kf24}From{\kf36} end{\kf36}ing{\kf42} it{\kf78} all
+Dialogue: 0,0:02:19.27,0:02:22.08,DEFAULT,,0,0,0,,{\r}{\kf44}Is{\kf25} a{\kf37} glim{\kf25}mer{\kf19} of{\kf131} hope
+Dialogue: 0,0:02:22.32,0:02:25.74,DEFAULT,,0,0,0,,{\r}{\kf31}That{\kf31} you'll{\kf31} lis{\kf31}ten{\kf37} to{\kf181} me
+Dialogue: 0,0:02:27.52,0:02:31.83,DEFAULT,,0,0,0,,{\r}{\kf32}A{\kf63} cry{\kf70} for{\kf44} at{\kf82}ten{\kf140}tion
+Dialogue: 0,0:02:33.52,0:02:35.35,DEFAULT,,0,0,0,,{\r}{\kf46}I{\kf52} hear{\kf20}~{\kf26}~{\kf26} you{\kf13}~
+Dialogue: 0,0:02:35.63,0:02:40.69,DEFAULT,,0,0,0,,{\r}{\kf32}A{\kf58} grave{\kf65} ap{\kf45}pre{\kf71}hen{\kf52}sion{\kf71}~{\kf112}~
+Dialogue: 0,0:02:41.53,0:02:43.32,DEFAULT,,0,0,0,,{\r}{\kf44}I{\kf51} feel{\kf19}~{\kf25}~{\kf39} you
+Dialogue: 0,0:02:43.60,0:02:45.24,DEFAULT,,0,0,0,,{\r}{\kf34}Don't{\kf41} real{\kf34}ly{\kf34} want{\kf21}~
+Dialogue: 0,0:02:45.57,0:02:48.66,DEFAULT,,0,0,0,,{\r}{\kf39}Don't{\kf39} real{\kf32}ly{\kf52} want{\kf26}~{\kf26} to{\kf39} do{\kf56} this
+Dialogue: 0,0:02:51.57,0:02:53.25,DEFAULT,,0,0,0,,{\r}{\kf47}You{\kf34} real{\kf27}ly{\kf34} want{\kf27}~
+Dialogue: 0,0:02:53.53,0:02:56.11,DEFAULT,,0,0,0,,{\r}{\kf41}You{\kf34} real{\kf34}ly{\kf61} want{\kf20}~{\kf20} a{\kf48} friend
+Dialogue: 0,0:02:58.03,0:02:58.46,DEFAULT,,0,0,0,,{\r}{\kf42}Just
+Dialogue: 0,0:03:00.05,0:03:00.57,DEFAULT,,0,0,0,,{\r}{\kf52}One
+Dialogue: 0,0:03:03.28,0:03:06.43,DEFAULT,,0,0,0,,{\r}{\kf25}If{\kf38} you're{\kf38} look{\kf31}ing{\kf57} for{\kf19}~{\kf25} a{\kf81} sign
+Dialogue: 0,0:03:06.99,0:03:08.68,DEFAULT,,0,0,0,,{\r}{\kf34}Here{\kf28} it{\kf107} is
+Dialogue: 0,0:03:12.05,0:03:17.16,DEFAULT,,0,0,0,,{\r}{\kf28}Stay{\kf234}~{\kf43} with{\kf43}~{\kf163} us
+Dialogue: 0,0:03:19.27,0:03:22.55,DEFAULT,,0,0,0,,{\r}{\kf27}If{\kf34} you're{\kf27} look{\kf41}ing{\kf55} for{\kf20}~{\kf27} a{\kf68} sign{\kf29}~
+Dialogue: 0,0:03:23.02,0:03:24.66,DEFAULT,,0,0,0,,{\r}{\kf40}Here{\kf23} it{\kf101} is
+Dialogue: 0,0:03:28.08,0:03:33.89,DEFAULT,,0,0,0,,{\r}{\kf32}Stay{\kf239}~{\kf39} with{\kf19}~{\kf252} us
+Dialogue: 0,0:03:35.30,0:03:38.30,DEFAULT,,0,0,0,,{\r}{\kf27}If{\kf33} you're{\kf27} look{\kf47}ing{\kf47} for{\kf33}~{\kf27} a{\kf59} sign
+Dialogue: 0,0:03:39.05,0:03:40.60,DEFAULT,,0,0,0,,{\r}{\kf33}Here{\kf28} it{\kf94} is
+Dialogue: 0,0:03:44.07,0:03:49.78,DEFAULT,,0,0,0,,{\r}{\kf24}Stay{\kf274}~{\kf24} with{\kf30}~{\kf220} us
+Dialogue: 0,0:03:51.28,0:03:54.33,DEFAULT,,0,0,0,,{\r}{\kf22}If{\kf37} you're{\kf30} look{\kf45}ing{\kf45} for{\kf22}~{\kf30} a{\kf74} sign
+Dialogue: 0,0:03:55.03,0:03:56.53,DEFAULT,,0,0,0,,{\r}{\kf36}Here{\kf24} it{\kf90} is
+Dialogue: 0,0:04:00.10,0:04:07.41,DEFAULT,,0,0,0,,{\r}{\kf24}Stay{\kf265}~{\kf47} with{\kf195} us{\kf29}~{\kf171}~

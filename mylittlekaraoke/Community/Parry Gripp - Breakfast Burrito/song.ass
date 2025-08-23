@@ -1,64 +1,71 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Breakfast Burrito
+Artist: Parry Gripp
+Original Timing: mylittlekaraoke.com by barbeque
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.58,0:00:06.92,DEFAULT,,0,0,0,,{\kf151}Yum{\kf125} Yum{\kf151} Yum{\kf131} Yum
-Dialogue: 0,0:00:07.29,0:00:13.94,DEFAULT,,0,0,0,,{\kf157}Yum{\kf125} Yum{\kf157} Yum{\kf172} Yum
-Dialogue: 0,0:00:14.31,0:00:17.33,DEFAULT,,0,0,0,,{\kf32}Yum{\kf37} Yum{\kf27} Break{\kf27}fast{\kf16} Bur{\kf27}ri{\kf47}to
-Dialogue: 0,0:00:17.59,0:00:20.76,DEFAULT,,0,0,0,,{\kf37}Yum{\kf32} Yum{\kf27} Break{\kf27}fast{\kf16} Bur{\kf16}ri{\kf16}-i{\kf16}-i{\kf32}to
-Dialogue: 0,0:00:20.97,0:00:23.93,DEFAULT,,0,0,0,,{\kf32}Yum{\kf37} Yum{\kf27} Break{\kf27}fast{\kf16} Bur{\kf32}ri{\kf37}to
-Dialogue: 0,0:00:24.24,0:00:27.42,DEFAULT,,0,0,0,,{\kf42}Yum{\kf32} Yum{\kf27} Break{\kf27}fast{\kf21} Bur{\kf16}ri{\kf16}-i{\kf11}-i{\kf32}to
-Dialogue: 0,0:00:28.09,0:00:29.50,DEFAULT,,0,0,0,,{\kf16}Break{\kf16}fast{\kf16} Bur{\kf21}ri{\kf32}to
-Dialogue: 0,0:00:30.12,0:00:31.73,DEFAULT,,0,0,0,,{\kf21}You're{\kf21} hot{\kf21} and{\kf11} you're{\kf32} yum{\kf11}my
-Dialogue: 0,0:00:31.89,0:00:34.02,DEFAULT,,0,0,0,,{\kf11}You{\kf21} fill{\kf11} up{\kf16} my{\kf37} tum{\kf11}my{\kf16} with{\kf32} hugs
-Dialogue: 0,0:00:34.75,0:00:36.10,DEFAULT,,0,0,0,,{\kf16}Break{\kf11}fast{\kf16} bur{\kf37}ri{\kf27}to
-Dialogue: 0,0:00:36.88,0:00:38.13,DEFAULT,,0,0,0,,{\kf11}You're{\kf42} ea{\kf6}sy{\kf11} to{\kf32} eat
-Dialogue: 0,0:00:38.29,0:00:40.68,DEFAULT,,0,0,0,,{\kf21}When{\kf11} I'm{\kf37} driv{\kf16}ing{\kf11} a{\kf27} car{\kf21} or{\kf11} a{\kf27} bus
-Dialogue: 0,0:00:41.41,0:00:42.81,DEFAULT,,0,0,0,,{\kf16}Break{\kf16}fast{\kf16} bur{\kf32}ri{\kf32}to
-Dialogue: 0,0:00:43.38,0:00:44.74,DEFAULT,,0,0,0,,{\kf11}Eve{\kf11}ry{\kf32} time{\kf11} that{\kf16} you're{\kf16} gone
-Dialogue: 0,0:00:44.94,0:00:47.34,DEFAULT,,0,0,0,,{\kf21}I{\kf16} get{\kf21} sad{\kf16} and{\kf16} don't{\kf21} know{\kf16} what{\kf16} to{\kf21} do
-Dialogue: 0,0:00:48.06,0:00:49.47,DEFAULT,,0,0,0,,{\kf16}Break{\kf16}fast{\kf16} bur{\kf32}ri{\kf27}to
-Dialogue: 0,0:00:49.94,0:00:51.39,DEFAULT,,0,0,0,,{\kf21}I'm{\kf16} in{\kf27} love{\kf21} I'm{\kf11} in{\kf16} love
-Dialogue: 0,0:00:51.60,0:00:54.10,DEFAULT,,0,0,0,,{\kf27}I'm{\kf11} in{\kf27} love,{\kf16} I'm{\kf11} in{\kf37} lo{\kf16}-ove{\kf11} with{\kf32} you
-Dialogue: 0,0:00:54.31,0:00:57.22,DEFAULT,,0,0,0,,{\kf32}Yum{\kf37} Yum{\kf32} Break{\kf21}fast{\kf21} Bur{\kf27}ri{\kf32}to
-Dialogue: 0,0:00:57.69,0:01:00.76,DEFAULT,,0,0,0,,{\kf32}Yum{\kf37} Yum{\kf32} Break{\kf27}fast{\kf21} Bur{\kf16}ri{\kf16}-i{\kf11}-i{\kf32}to
-Dialogue: 0,0:01:00.96,0:01:03.82,DEFAULT,,0,0,0,,{\kf37}Yum{\kf42} Yum{\kf27} Break{\kf27}fast{\kf16} Bur{\kf37}ri{\kf27}to
-Dialogue: 0,0:01:04.34,0:01:07.41,DEFAULT,,0,0,0,,{\kf32}Yum{\kf32} Yum{\kf32} Break{\kf21}fast{\kf21} Bur{\kf16}ri{\kf16}-i{\kf11}-i{\kf32}to
-Dialogue: 0,0:01:07.67,0:01:09.29,DEFAULT,,0,0,0,,{\kf16}Oh{\kf11} you're{\kf16} so{\kf27} much{\kf37} bet{\kf16}ter
-Dialogue: 0,0:01:10.12,0:01:12.82,DEFAULT,,0,0,0,,{\kf21}Than{\kf11} a{\kf37} re{\kf27}gu{\kf21}lar{\kf21} bur{\kf37}ri{\kf32}to
-Dialogue: 0,0:01:14.33,0:01:18.23,DEFAULT,,0,0,0,,{\kf16}They{\kf16} should{\kf37} call{\kf11} a{\kf32} reg{\kf11}u{\kf16}lar{\kf16} bur{\kf11}ri{\kf21}to{\kf16} a{\kf37} night{\kf53}time
-Dialogue: 0,0:01:19.79,0:01:22.50,DEFAULT,,0,0,0,,{\kf16}Break{\kf32}fast{\kf11} bur{\kf53}ri{\kf21}-i{\kf105}to!
-Dialogue: 0,0:01:24.16,0:01:25.62,DEFAULT,,0,0,0,,{\kf16}Yum{\kf21} Yum{\kf16} Yum{\kf16} Yum{\kf6} Yum{\kf16} Yum{\kf21} Yum
-Dialogue: 0,0:01:25.83,0:01:27.28,DEFAULT,,0,0,0,,{\kf21}Yum{\kf21} Yum{\kf16} Yum{\kf16} Yum{\kf11} Yum{\kf11} Yum{\kf21} Yum
-Dialogue: 0,0:01:27.49,0:01:28.84,DEFAULT,,0,0,0,,{\kf16}Yum{\kf27} Yum{\kf16} Yum{\kf11} Yum{\kf11} Yum{\kf16} Yum{\kf11} Yum
-Dialogue: 0,0:01:29.00,0:01:30.56,DEFAULT,,0,0,0,,{\kf11}Yum{\kf16} Yum{\kf16} Yum{\kf16} Yum{\kf16} Yum{\kf11} Yum{\kf11} Yum{\kf11} Yum{\kf11} Yum
-Dialogue: 0,0:01:30.77,0:01:32.22,DEFAULT,,0,0,0,,{\kf21}Yum{\kf21} Yum{\kf16} Yum{\kf16} Yum{\kf11} Yum{\kf11} Yum{\kf16} Yum
-Dialogue: 0,0:01:32.43,0:01:33.89,DEFAULT,,0,0,0,,{\kf21}Yum{\kf27} Yum{\kf11} Yum{\kf16} Yum{\kf11} Yum{\kf11} Yum{\kf16} Yum
-Dialogue: 0,0:01:34.15,0:01:35.45,DEFAULT,,0,0,0,,{\kf21}Yum{\kf21} Yum{\kf11} Yum{\kf11} Yum{\kf11} Yum{\kf11} Yum{\kf11} Yum
-Dialogue: 0,0:01:35.60,0:01:37.27,DEFAULT,,0,0,0,,{\kf16}Yum{\kf16} Yum{\kf11} Yum{\kf11} Yum{\kf11} Yum{\kf16} Yum{\kf11} Yum{\kf11} Yum{\kf27} Yum
-Dialogue: 0,0:01:38.10,0:01:39.45,DEFAULT,,0,0,0,,{\kf16}Break{\kf16}fast{\kf16} bur{\kf37}ri{\kf27}to
-Dialogue: 0,0:01:40.18,0:01:41.48,DEFAULT,,0,0,0,,{\kf16}You're{\kf27} fuel{\kf16}ing{\kf16} my{\kf21} dreams
-Dialogue: 0,0:01:41.64,0:01:44.13,DEFAULT,,0,0,0,,{\kf16}With{\kf16} your{\kf37} morn{\kf16}ing{\kf21} time{\kf32} beans,{\kf16} a{\kf16}-al{\kf42}right
-Dialogue: 0,0:01:44.81,0:01:46.27,DEFAULT,,0,0,0,,{\kf16}Break{\kf16}fast{\kf11} bur{\kf42}ri{\kf37}to
-Dialogue: 0,0:01:46.68,0:01:48.09,DEFAULT,,0,0,0,,{\kf16}When{\kf11} I'm{\kf37} ly{\kf16}ing{\kf16} in{\kf16} bed
-Dialogue: 0,0:01:48.30,0:01:50.69,DEFAULT,,0,0,0,,{\kf21}Well{\kf16} I{\kf32} think{\kf11} a{\kf27}bout{\kf21} you{\kf11} a{\kf11}-all{\kf27} night
-Dialogue: 0,0:01:51.42,0:01:52.82,DEFAULT,,0,0,0,,{\kf16}Break{\kf16}fast{\kf16} bur{\kf32}ri{\kf32}to
-Dialogue: 0,0:01:53.29,0:01:55.58,DEFAULT,,0,0,0,,{\kf21}There's{\kf11} a{\kf32} spar{\kf16}kl{\kf16}ing{\kf27} rain{\kf16}bow{\kf11}-y{\kf16} smile
-Dialogue: 0,0:01:55.79,0:01:57.45,DEFAULT,,0,0,0,,{\kf21}In{\kf16} eve{\kf11}ry{\kf21} bite{\kf16} I{\kf11}-I{\kf32} chew
-Dialogue: 0,0:01:58.02,0:01:59.43,DEFAULT,,0,0,0,,{\kf21}Break{\kf16}fast{\kf21} bur{\kf32}ri{\kf27}to
-Dialogue: 0,0:02:00.00,0:02:02.29,DEFAULT,,0,0,0,,{\kf16}I'm{\kf16} in{\kf32} love{\kf16} I'm{\kf11} in{\kf32} love{\kf16} oh{\kf11} I'm{\kf27} still
-Dialogue: 0,0:02:02.50,0:02:04.06,DEFAULT,,0,0,0,,{\kf27}In{\kf42} lo{\kf16}-ove{\kf16} with{\kf32} you
-Dialogue: 0,0:02:04.37,0:02:07.18,DEFAULT,,0,0,0,,{\kf27}Yum{\kf37} Yum{\kf32} Break{\kf21}fast{\kf21} Bur{\kf37}ri{\kf27}to
-Dialogue: 0,0:02:07.64,0:02:10.71,DEFAULT,,0,0,0,,{\kf32}Yum{\kf32} Yum{\kf27} Break{\kf27}fast{\kf21} Bur{\kf16}ri{\kf16}-i{\kf16}-i{\kf32}to
-Dialogue: 0,0:02:11.03,0:02:13.89,DEFAULT,,0,0,0,,{\kf32}Yum{\kf37} Yum{\kf27} Break{\kf21}fast{\kf16} Bur{\kf32}ri{\kf32}to
-Dialogue: 0,0:02:14.30,0:02:17.42,DEFAULT,,0,0,0,,{\kf32}Yum{\kf37} Yum{\kf27} Break{\kf27}fast{\kf16} Bur{\kf16}ri{\kf16}-i{\kf11}-i{\kf32}to
-Dialogue: 0,0:02:17.68,0:02:20.39,DEFAULT,,0,0,0,,{\kf32}Yum{\kf37} Yum{\kf27} Break{\kf21}fast{\kf16} Bur{\kf37}ri{\kf21}to
-Dialogue: 0,0:02:20.96,0:02:23.82,DEFAULT,,0,0,0,,{\kf32}Yum{\kf37} Yum{\kf27} Break{\kf27}fast{\kf16} Bur{\kf16}ri{\kf16}-i{\kf16}-i{\kf11}to
-Dialogue: 0,0:02:23.98,0:02:30.69,DEFAULT,,0,0,0,,{\kf151}Yum{\kf131} Yum{\kf162} Yum{\kf172} Yum
+Dialogue: 0,0:00:00.58,0:00:06.93,DEFAULT,,0,0,0,,{\r}{\kf172}Yum{\kf142} Yum{\kf172} Yum{\kf149} Yum
+Dialogue: 0,0:00:07.29,0:00:13.95,DEFAULT,,0,0,0,,{\r}{\kf171}Yum{\kf137} Yum{\kf171} Yum{\kf187} Yum
+Dialogue: 0,0:00:14.31,0:00:17.33,DEFAULT,,0,0,0,,{\r}{\kf45}Yum{\kf53} Yum{\kf38} Break{\kf38}fast{\kf23} Bur{\kf38}ri{\kf67}to
+Dialogue: 0,0:00:17.59,0:00:20.76,DEFAULT,,0,0,0,,{\r}{\kf54}Yum{\kf46} Yum{\kf39} Break{\kf39}fast{\kf23} Bur{\kf23}ri{\kf23}-i{\kf23}-i{\kf47}to
+Dialogue: 0,0:00:20.97,0:00:23.94,DEFAULT,,0,0,0,,{\r}{\kf46}Yum{\kf53} Yum{\kf38} Break{\kf38}fast{\kf23} Bur{\kf46}ri{\kf52}to
+Dialogue: 0,0:00:24.25,0:00:27.42,DEFAULT,,0,0,0,,{\r}{\kf60}Yum{\kf45} Yum{\kf38} Break{\kf38}fast{\kf30} Bur{\kf23}ri{\kf23}-i{\kf15}-i{\kf45}to
+Dialogue: 0,0:00:28.10,0:00:29.50,DEFAULT,,0,0,0,,{\r}{\kf22}Break{\kf22}fast{\kf22} Bur{\kf29}ri{\kf45}to
+Dialogue: 0,0:00:30.13,0:00:31.74,DEFAULT,,0,0,0,,{\r}{\kf29}You're{\kf29} hot{\kf29} and{\kf15} you're{\kf44} yum{\kf15}my
+Dialogue: 0,0:00:31.89,0:00:34.03,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf29} fill{\kf15} up{\kf22} my{\kf51} tum{\kf15}my{\kf22} with{\kf44} hugs
+Dialogue: 0,0:00:34.75,0:00:36.11,DEFAULT,,0,0,0,,{\r}{\kf20}Break{\kf14}fast{\kf20} bur{\kf47}ri{\kf34}to
+Dialogue: 0,0:00:36.89,0:00:38.14,DEFAULT,,0,0,0,,{\r}{\kf13}You're{\kf53} ea{\kf10}sy{\kf13} to{\kf36} eat
+Dialogue: 0,0:00:38.29,0:00:40.68,DEFAULT,,0,0,0,,{\r}{\kf28}When{\kf14} I'm{\kf49} driv{\kf21}ing{\kf14} a{\kf35} car{\kf28} or{\kf14} a{\kf36} bus
+Dialogue: 0,0:00:41.41,0:00:42.82,DEFAULT,,0,0,0,,{\r}{\kf20}Break{\kf20}fast{\kf20} bur{\kf40}ri{\kf40}to
+Dialogue: 0,0:00:43.39,0:00:44.74,DEFAULT,,0,0,0,,{\r}{\kf15}Eve{\kf15}ry{\kf45} time{\kf15} that{\kf22} you're{\kf23} gone
+Dialogue: 0,0:00:44.95,0:00:47.34,DEFAULT,,0,0,0,,{\r}{\kf31}I{\kf23} get{\kf31} sad{\kf23} and{\kf23} don't{\kf31} know{\kf23} what{\kf23} to{\kf31} do
+Dialogue: 0,0:00:48.07,0:00:49.47,DEFAULT,,0,0,0,,{\r}{\kf21}Break{\kf21}fast{\kf21} bur{\kf42}ri{\kf35}to
+Dialogue: 0,0:00:49.94,0:00:51.40,DEFAULT,,0,0,0,,{\r}{\kf28}I'm{\kf21} in{\kf35} love{\kf28} I'm{\kf14} in{\kf20} love
+Dialogue: 0,0:00:51.61,0:00:54.10,DEFAULT,,0,0,0,,{\r}{\kf36}I'm{\kf14} in{\kf36} love,{\kf21} I'm{\kf14} in{\kf50} lo{\kf21}-ove{\kf14} with{\kf44} you
+Dialogue: 0,0:00:54.31,0:00:57.22,DEFAULT,,0,0,0,,{\r}{\kf46}Yum{\kf54} Yum{\kf46} Break{\kf31}fast{\kf31} Bur{\kf38}ri{\kf45}to
+Dialogue: 0,0:00:57.69,0:01:00.76,DEFAULT,,0,0,0,,{\r}{\kf44}Yum{\kf51} Yum{\kf44} Break{\kf37}fast{\kf29} Bur{\kf22}ri{\kf22}-i{\kf15}-i{\kf43}to
+Dialogue: 0,0:01:00.97,0:01:03.83,DEFAULT,,0,0,0,,{\r}{\kf50}Yum{\kf57} Yum{\kf36} Break{\kf36}fast{\kf21} Bur{\kf50}ri{\kf36}to
+Dialogue: 0,0:01:04.35,0:01:07.42,DEFAULT,,0,0,0,,{\r}{\kf46}Yum{\kf46} Yum{\kf46} Break{\kf31}fast{\kf31} Bur{\kf23}ri{\kf23}-i{\kf15}-i{\kf46}to
+Dialogue: 0,0:01:07.68,0:01:09.29,DEFAULT,,0,0,0,,{\r}{\kf21}Oh{\kf14} you're{\kf21} so{\kf35} much{\kf49} bet{\kf21}ter
+Dialogue: 0,0:01:10.12,0:01:12.83,DEFAULT,,0,0,0,,{\r}{\kf28}Than{\kf14} a{\kf48} re{\kf35}gu{\kf28}lar{\kf28} bur{\kf48}ri{\kf41}to
+Dialogue: 0,0:01:14.34,0:01:18.24,DEFAULT,,0,0,0,,{\r}{\kf21}They{\kf21} should{\kf50} call{\kf14} a{\kf43} reg{\kf14}u{\kf21}lar{\kf21} bur{\kf14}ri{\kf28}to{\kf21} a{\kf50} night{\kf72}time
+Dialogue: 0,0:01:19.80,0:01:22.50,DEFAULT,,0,0,0,,{\r}{\kf18}Break{\kf36}fast{\kf12} bur{\kf60}ri{\kf24}-i{\kf120}to!
+Dialogue: 0,0:01:24.17,0:01:25.62,DEFAULT,,0,0,0,,{\r}{\kf21}Yum{\kf28} Yum{\kf21} Yum{\kf21} Yum{\kf10} Yum{\kf21} Yum{\kf24} Yum
+Dialogue: 0,0:01:25.83,0:01:27.29,DEFAULT,,0,0,0,,{\r}{\kf27}Yum{\kf27} Yum{\kf20} Yum{\kf20} Yum{\kf13} Yum{\kf13} Yum{\kf26} Yum
+Dialogue: 0,0:01:27.50,0:01:28.85,DEFAULT,,0,0,0,,{\r}{\kf20}Yum{\kf34} Yum{\kf20} Yum{\kf14} Yum{\kf14} Yum{\kf20} Yum{\kf13} Yum
+Dialogue: 0,0:01:29.00,0:01:30.56,DEFAULT,,0,0,0,,{\r}{\kf14}Yum{\kf21} Yum{\kf21} Yum{\kf21} Yum{\kf21} Yum{\kf14} Yum{\kf14} Yum{\kf14} Yum{\kf16} Yum
+Dialogue: 0,0:01:30.77,0:01:32.23,DEFAULT,,0,0,0,,{\r}{\kf28}Yum{\kf28} Yum{\kf21} Yum{\kf21} Yum{\kf14} Yum{\kf14} Yum{\kf20} Yum
+Dialogue: 0,0:01:32.44,0:01:33.89,DEFAULT,,0,0,0,,{\r}{\kf28}Yum{\kf35} Yum{\kf14} Yum{\kf21} Yum{\kf14} Yum{\kf14} Yum{\kf20} Yum
+Dialogue: 0,0:01:34.15,0:01:35.45,DEFAULT,,0,0,0,,{\r}{\kf29}Yum{\kf29} Yum{\kf14} Yum{\kf14} Yum{\kf14} Yum{\kf14} Yum{\kf16} Yum
+Dialogue: 0,0:01:35.61,0:01:37.27,DEFAULT,,0,0,0,,{\r}{\kf21}Yum{\kf21} Yum{\kf14} Yum{\kf14} Yum{\kf14} Yum{\kf21} Yum{\kf14} Yum{\kf14} Yum{\kf33} Yum
+Dialogue: 0,0:01:38.11,0:01:39.46,DEFAULT,,0,0,0,,{\r}{\kf19}Break{\kf19}fast{\kf19} bur{\kf45}ri{\kf33}to
+Dialogue: 0,0:01:40.19,0:01:41.49,DEFAULT,,0,0,0,,{\r}{\kf22}You're{\kf36} fuel{\kf22}ing{\kf22} my{\kf28} dreams
+Dialogue: 0,0:01:41.64,0:01:44.14,DEFAULT,,0,0,0,,{\r}{\kf19}With{\kf19} your{\kf44} morn{\kf19}ing{\kf25} time{\kf37} beans,{\kf19} a{\kf19}-al{\kf49}right
+Dialogue: 0,0:01:44.82,0:01:46.27,DEFAULT,,0,0,0,,{\r}{\kf19}Break{\kf19}fast{\kf13} bur{\kf51}ri{\kf44}to
+Dialogue: 0,0:01:46.69,0:01:48.09,DEFAULT,,0,0,0,,{\r}{\kf20}When{\kf13} I'm{\kf47} ly{\kf20}ing{\kf20} in{\kf20} bed
+Dialogue: 0,0:01:48.30,0:01:50.69,DEFAULT,,0,0,0,,{\r}{\kf29}Well{\kf22} I{\kf43} think{\kf14} a{\kf36}bout{\kf29} you{\kf14} a{\kf14}-all{\kf38} night
+Dialogue: 0,0:01:51.42,0:01:52.83,DEFAULT,,0,0,0,,{\r}{\kf20}Break{\kf20}fast{\kf20} bur{\kf40}ri{\kf40}to
+Dialogue: 0,0:01:53.29,0:01:55.58,DEFAULT,,0,0,0,,{\r}{\kf30}There's{\kf15} a{\kf44} spar{\kf22}kl{\kf22}ing{\kf37} rain{\kf22}bow{\kf15}-y{\kf22} smile
+Dialogue: 0,0:01:55.79,0:01:57.45,DEFAULT,,0,0,0,,{\r}{\kf28}In{\kf21} eve{\kf14}ry{\kf28} bite{\kf21} I{\kf14}-I{\kf40} chew
+Dialogue: 0,0:01:58.03,0:01:59.43,DEFAULT,,0,0,0,,{\r}{\kf25}Break{\kf19}fast{\kf25} bur{\kf38}ri{\kf33}to
+Dialogue: 0,0:02:00.00,0:02:02.29,DEFAULT,,0,0,0,,{\r}{\kf21}I'm{\kf21} in{\kf42} love{\kf21} I'm{\kf14} in{\kf42} love{\kf21} oh{\kf14} I'm{\kf33} still
+Dialogue: 0,0:02:02.50,0:02:04.06,DEFAULT,,0,0,0,,{\r}{\kf31}In{\kf50} lo{\kf19}-ove{\kf19} with{\kf37} you
+Dialogue: 0,0:02:04.37,0:02:07.18,DEFAULT,,0,0,0,,{\r}{\kf37}Yum{\kf52} Yum{\kf44} Break{\kf30}fast{\kf30} Bur{\kf52}ri{\kf36}to
+Dialogue: 0,0:02:07.65,0:02:10.72,DEFAULT,,0,0,0,,{\r}{\kf45}Yum{\kf45} Yum{\kf37} Break{\kf37}fast{\kf30} Bur{\kf22}ri{\kf22}-i{\kf22}-i{\kf47}to
+Dialogue: 0,0:02:11.03,0:02:13.89,DEFAULT,,0,0,0,,{\r}{\kf46}Yum{\kf54} Yum{\kf39} Break{\kf31}fast{\kf23} Bur{\kf46}ri{\kf47}to
+Dialogue: 0,0:02:14.31,0:02:17.43,DEFAULT,,0,0,0,,{\r}{\kf47}Yum{\kf55} Yum{\kf39} Break{\kf39}fast{\kf23} Bur{\kf23}ri{\kf23}-i{\kf16}-i{\kf47}to
+Dialogue: 0,0:02:17.69,0:02:20.39,DEFAULT,,0,0,0,,{\r}{\kf45}Yum{\kf52} Yum{\kf37} Break{\kf30}fast{\kf22} Bur{\kf52}ri{\kf32}to
+Dialogue: 0,0:02:20.96,0:02:23.83,DEFAULT,,0,0,0,,{\r}{\kf46}Yum{\kf54} Yum{\kf39} Break{\kf39}fast{\kf23} Bur{\kf23}ri{\kf23}-i{\kf23}-i{\kf16}to
+Dialogue: 0,0:02:23.98,0:02:30.69,DEFAULT,,0,0,0,,{\r}{\kf165}Yum{\kf142} Yum{\kf176} Yum{\kf188} Yum

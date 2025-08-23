@@ -1,63 +1,70 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Wasteland
+Artist: Sights Unseen
+Original Timing: mylittlekaraoke.com by ShTHfan1
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:47.13,0:00:49.50,DEFAULT,,0,0,0,,{\kf28}I{\kf28} had{\kf28} it{\kf28} all{\kf28} worked{\kf55} out
-Dialogue: 0,0:00:50.05,0:00:52.43,DEFAULT,,0,0,0,,{\kf28}In{\kf28}side{\kf28} this{\kf28} twis{\kf28}ted{\kf55} mind
-Dialogue: 0,0:00:52.98,0:00:55.00,DEFAULT,,0,0,0,,{\kf28}A{\kf28} lit{\kf28}tle{\kf28} game{\kf28} to{\kf19} play
-Dialogue: 0,0:00:55.18,0:00:58.66,DEFAULT,,0,0,0,,{\kf28}A{\kf65} tra{\kf28}vel{\kf65} back{\kf28} i{\kf28}-in{\kf19} time
-Dialogue: 0,0:00:58.84,0:01:01.22,DEFAULT,,0,0,0,,{\kf28}To{\kf28} seek{\kf28} what{\kf28} I{\kf28} de{\kf55}serve
-Dialogue: 0,0:01:01.77,0:01:04.15,DEFAULT,,0,0,0,,{\kf28}Re{\kf28}venge{\kf28} that{\kf28} I{\kf28} can{\kf55} serve
-Dialogue: 0,0:01:04.70,0:01:06.35,DEFAULT,,0,0,0,,{\kf28}But{\kf28} now{\kf28} I{\kf28} messed{\kf19} up
-Dialogue: 0,0:01:06.53,0:01:09.92,DEFAULT,,0,0,0,,{\kf28}From{\kf28} this{\kf28} path,{\kf55} I{\kf28} ca{\kf28}-an't{\kf46} turn
-Dialogue: 0,0:01:10.10,0:01:14.31,DEFAULT,,0,0,0,,{\kf74}We{\kf28} are{\kf28} li{\kf28}ving{\kf28} in{\kf28} a{\kf65} waste{\kf55}land
-Dialogue: 0,0:01:14.49,0:01:17.06,DEFAULT,,0,0,0,,{\kf28}Bar{\kf28}ren{\kf28} worlds{\kf28} of{\kf65} dust{\kf37} and
-Dialogue: 0,0:01:17.42,0:01:20.17,DEFAULT,,0,0,0,,{\kf28}No{\kf28}where{\kf28} we{\kf28} can{\kf129} hide
-Dialogue: 0,0:01:21.82,0:01:25.84,DEFAULT,,0,0,0,,{\kf46}Sa{\kf19}-a{\kf46}ted,{\kf28} my{\kf28} thirst{\kf28} has{\kf28} a{\kf46}ba{\kf19}-a{\kf37}ted
-Dialogue: 0,0:01:26.21,0:01:28.77,DEFAULT,,0,0,0,,{\kf28}This{\kf28} world{\kf28} I've{\kf28} cre{\kf46}a{\kf19}-a{\kf37}ted
-Dialogue: 0,0:01:29.14,0:01:31.15,DEFAULT,,0,0,0,,{\kf28}There's{\kf28} no{\kf28} hope{\kf28} to{\kf55} find
-Dialogue: 0,0:01:31.34,0:01:34.08,DEFAULT,,0,0,0,,{\kf28}In{\kf28} this{\kf74} waste{\kf28}land{\kf28} of{\kf55} mine
-Dialogue: 0,0:01:43.05,0:01:45.98,DEFAULT,,0,0,0,,{\kf28}In{\kf28} this{\kf65} waste{\kf28}land{\kf28} of{\kf74} mine
-Dialogue: 0,0:01:57.33,0:01:59.71,DEFAULT,,0,0,0,,{\kf28}It{\kf28} was{\kf28} my{\kf28} fi{\kf28}nal{\kf55} plan
-Dialogue: 0,0:02:00.26,0:02:02.64,DEFAULT,,0,0,0,,{\kf28}Stop{\kf28} tel{\kf28}ling{\kf28} me{\kf28} your{\kf55} lies
-Dialogue: 0,0:02:03.19,0:02:04.47,DEFAULT,,0,0,0,,{\kf28}It's{\kf28} not{\kf28} my{\kf19} fault
-Dialogue: 0,0:02:04.66,0:02:08.68,DEFAULT,,0,0,0,,{\kf28}That{\kf28} you{\kf28} can't{\kf28} wi{\kf28}-in,{\kf28} tho{\kf28}-ough{\kf55} you{\kf19} try{\kf55}-y
-Dialogue: 0,0:02:09.05,0:02:11.43,DEFAULT,,0,0,0,,{\kf28}But{\kf28} now{\kf28} I'm{\kf28} lo{\kf28}sing{\kf55} too
-Dialogue: 0,0:02:11.98,0:02:14.36,DEFAULT,,0,0,0,,{\kf28}There's{\kf28} no{\kf28}thing{\kf28} I{\kf28} can{\kf55} do
-Dialogue: 0,0:02:14.91,0:02:16.92,DEFAULT,,0,0,0,,{\kf28}I{\kf28} sought{\kf28} re{\kf28}venge{\kf28} on{\kf19} you
-Dialogue: 0,0:02:17.10,0:02:20.03,DEFAULT,,0,0,0,,{\kf28}But{\kf28} now{\kf28} I'm{\kf28} so{\kf19} con{\kf37}fu{\kf74}-used
-Dialogue: 0,0:02:20.40,0:02:24.61,DEFAULT,,0,0,0,,{\kf74}We{\kf28} are{\kf28} li{\kf28}ving{\kf28} in{\kf28} a{\kf65} waste{\kf55}land
-Dialogue: 0,0:02:24.79,0:02:27.36,DEFAULT,,0,0,0,,{\kf28}Bar{\kf28}ren{\kf28} worlds{\kf28} of{\kf65} dust{\kf37} and
-Dialogue: 0,0:02:27.72,0:02:30.47,DEFAULT,,0,0,0,,{\kf28}No{\kf28}where{\kf28} we{\kf28} can{\kf129} hide
-Dialogue: 0,0:02:32.12,0:02:36.14,DEFAULT,,0,0,0,,{\kf46}Sa{\kf19}-a{\kf46}ted,{\kf28} my{\kf28} thirst{\kf28} has{\kf28} a{\kf46}ba{\kf19}-a{\kf37}ted
-Dialogue: 0,0:02:36.51,0:02:39.07,DEFAULT,,0,0,0,,{\kf28}This{\kf28} world{\kf28} I've{\kf28} cre{\kf46}a{\kf19}-a{\kf37}ted
-Dialogue: 0,0:02:39.44,0:02:41.45,DEFAULT,,0,0,0,,{\kf28}There's{\kf28} no{\kf28} hope{\kf28} to{\kf55} find
-Dialogue: 0,0:02:41.64,0:02:44.38,DEFAULT,,0,0,0,,{\kf28}In{\kf28} this{\kf74} waste{\kf28}land{\kf28} of{\kf55} mine
-Dialogue: 0,0:02:53.35,0:02:56.28,DEFAULT,,0,0,0,,{\kf28}In{\kf28} this{\kf65} waste{\kf28}land{\kf28} of{\kf74} mine
-Dialogue: 0,0:03:54.41,0:03:58.98,DEFAULT,,0,0,0,,{\kf28}I{\kf28} had{\kf28} my{\kf28} heart{\kf28} set{\kf28} on{\kf65} on{\kf28}ly{\kf55} one{\kf55} thing
-Dialogue: 0,0:03:59.90,0:04:03.56,DEFAULT,,0,0,0,,{\kf28}Brin{\kf28}ging{\kf28} you{\kf65} down{\kf28} for{\kf28} what{\kf28} you{\kf74} broke
-Dialogue: 0,0:04:05.39,0:04:10.88,DEFAULT,,0,0,0,,{\kf28}But{\kf65} now{\kf28} I{\kf65} see{\kf28} I{\kf28} was{\kf55} mes{\kf65}sing{\kf28} wi{\kf28}-ith{\kf37} fate
-Dialogue: 0,0:04:11.25,0:04:16.93,DEFAULT,,0,0,0,,{\kf28}I{\kf28} fi{\kf28}nally{\kf28} un{\kf28}der{\kf65}stand{\kf28} there{\kf28} are{\kf28} things{\kf28} that{\kf28} I{\kf37} do{\kf19}-on't{\kf55} know
-Dialogue: 0,0:04:17.38,0:04:21.59,DEFAULT,,0,0,0,,{\kf74}We{\kf28} are{\kf28} li{\kf28}ving{\kf28} in{\kf28} a{\kf65} waste{\kf55}land
-Dialogue: 0,0:04:21.78,0:04:24.34,DEFAULT,,0,0,0,,{\kf28}Bar{\kf28}ren{\kf28} worlds{\kf28} of{\kf65} dust{\kf37} and
-Dialogue: 0,0:04:24.71,0:04:27.45,DEFAULT,,0,0,0,,{\kf28}No{\kf28}where{\kf28} we{\kf28} can{\kf129} hide
-Dialogue: 0,0:04:29.10,0:04:33.13,DEFAULT,,0,0,0,,{\kf46}Sa{\kf19}-a{\kf46}ted,{\kf28} my{\kf28} thirst{\kf28} has{\kf28} a{\kf46}ba{\kf19}-a{\kf37}ted
-Dialogue: 0,0:04:33.49,0:04:36.06,DEFAULT,,0,0,0,,{\kf28}This{\kf28} world{\kf28} I've{\kf28} cre{\kf46}a{\kf19}-a{\kf37}ted
-Dialogue: 0,0:04:36.42,0:04:38.44,DEFAULT,,0,0,0,,{\kf28}There's{\kf28} no{\kf28} hope{\kf28} to{\kf55} find
-Dialogue: 0,0:04:38.62,0:04:40.63,DEFAULT,,0,0,0,,{\kf28}In{\kf28} this{\kf74} waste{\kf28}land{\kf19} of-
-Dialogue: 0,0:04:40.82,0:04:45.03,DEFAULT,,0,0,0,,{\kf74}We{\kf28} are{\kf28} li{\kf28}ving{\kf28} in{\kf28} a{\kf65} waste{\kf55}land
-Dialogue: 0,0:04:45.21,0:04:47.77,DEFAULT,,0,0,0,,{\kf28}Bar{\kf28}ren{\kf28} worlds{\kf28} of{\kf65} dust{\kf37} and
-Dialogue: 0,0:04:48.14,0:04:50.89,DEFAULT,,0,0,0,,{\kf28}No{\kf28}where{\kf28} we{\kf28} can{\kf129} hide
-Dialogue: 0,0:04:52.53,0:04:56.56,DEFAULT,,0,0,0,,{\kf46}Sa{\kf19}-a{\kf46}ted,{\kf28} my{\kf28} thirst{\kf28} has{\kf28} a{\kf46}ba{\kf19}-a{\kf37}ted
-Dialogue: 0,0:04:56.93,0:04:59.49,DEFAULT,,0,0,0,,{\kf28}This{\kf28} world{\kf28} I've{\kf28} cre{\kf46}a{\kf19}-a{\kf37}ted
-Dialogue: 0,0:04:59.86,0:05:01.87,DEFAULT,,0,0,0,,{\kf28}There's{\kf28} no{\kf28} hope{\kf28} to{\kf55} find
-Dialogue: 0,0:05:02.05,0:05:04.80,DEFAULT,,0,0,0,,{\kf28}In{\kf28} this{\kf74} waste{\kf28}land{\kf28} of{\kf55} mine
-Dialogue: 0,0:05:13.77,0:05:16.70,DEFAULT,,0,0,0,,{\kf28}In{\kf28} this{\kf65} waste{\kf28}land{\kf28} of{\kf74} mine
-Dialogue: 0,0:05:25.49,0:05:28.60,DEFAULT,,0,0,0,,{\kf28}In{\kf28} this{\kf65} waste{\kf28}land{\kf28} of{\kf92} mine
+Dialogue: 0,0:00:47.13,0:00:49.51,DEFAULT,,0,0,0,,{\r}{\kf34}I{\kf34} had{\kf34} it{\kf34} all{\kf34} worked{\kf68} out
+Dialogue: 0,0:00:50.06,0:00:52.44,DEFAULT,,0,0,0,,{\r}{\kf34}In{\kf34}side{\kf34} this{\kf34} twis{\kf34}ted{\kf68} mind
+Dialogue: 0,0:00:52.99,0:00:55.00,DEFAULT,,0,0,0,,{\r}{\kf35}A{\kf35} lit{\kf35}tle{\kf35} game{\kf35} to{\kf26} play
+Dialogue: 0,0:00:55.19,0:00:58.66,DEFAULT,,0,0,0,,{\r}{\kf37}A{\kf87} tra{\kf37}vel{\kf87} back{\kf37} i{\kf37}-in{\kf26} time
+Dialogue: 0,0:00:58.85,0:01:01.23,DEFAULT,,0,0,0,,{\r}{\kf34}To{\kf34} seek{\kf34} what{\kf34} I{\kf34} de{\kf68}serve
+Dialogue: 0,0:01:01.78,0:01:04.16,DEFAULT,,0,0,0,,{\r}{\kf34}Re{\kf34}venge{\kf34} that{\kf34} I{\kf34} can{\kf68} serve
+Dialogue: 0,0:01:04.70,0:01:06.35,DEFAULT,,0,0,0,,{\r}{\kf35}But{\kf35} now{\kf35} I{\kf35} messed{\kf25} up
+Dialogue: 0,0:01:06.54,0:01:09.92,DEFAULT,,0,0,0,,{\r}{\kf39}From{\kf39} this{\kf39} path,{\kf78} I{\kf39} ca{\kf39}-an't{\kf66} turn
+Dialogue: 0,0:01:10.11,0:01:14.32,DEFAULT,,0,0,0,,{\r}{\kf94}We{\kf35} are{\kf35} li{\kf35}ving{\kf35} in{\kf35} a{\kf82} waste{\kf70}land
+Dialogue: 0,0:01:14.50,0:01:17.06,DEFAULT,,0,0,0,,{\r}{\kf33}Bar{\kf33}ren{\kf33} worlds{\kf33} of{\kf78} dust{\kf46} and
+Dialogue: 0,0:01:17.43,0:01:20.17,DEFAULT,,0,0,0,,{\r}{\kf32}No{\kf32}where{\kf32} we{\kf32} can{\kf147} hide
+Dialogue: 0,0:01:21.82,0:01:25.85,DEFAULT,,0,0,0,,{\r}{\kf58}Sa{\kf23}-a{\kf58}ted,{\kf35} my{\kf35} thirst{\kf35} has{\kf35} a{\kf58}ba{\kf23}-a{\kf43}ted
+Dialogue: 0,0:01:26.22,0:01:28.78,DEFAULT,,0,0,0,,{\r}{\kf33}This{\kf33} world{\kf33} I've{\kf33} cre{\kf56}a{\kf22}-a{\kf46}ted
+Dialogue: 0,0:01:29.15,0:01:31.16,DEFAULT,,0,0,0,,{\r}{\kf34}There's{\kf34} no{\kf34} hope{\kf34} to{\kf65} find
+Dialogue: 0,0:01:31.34,0:01:34.09,DEFAULT,,0,0,0,,{\r}{\kf32}In{\kf32} this{\kf85} waste{\kf32}land{\kf32} of{\kf62} mine
+Dialogue: 0,0:01:43.06,0:01:45.99,DEFAULT,,0,0,0,,{\r}{\kf33}In{\kf33} this{\kf76} waste{\kf33}land{\kf33} of{\kf85} mine
+Dialogue: 0,0:01:57.34,0:01:59.72,DEFAULT,,0,0,0,,{\r}{\kf34}It{\kf34} was{\kf34} my{\kf34} fi{\kf34}nal{\kf68} plan
+Dialogue: 0,0:02:00.27,0:02:02.65,DEFAULT,,0,0,0,,{\r}{\kf34}Stop{\kf34} tel{\kf34}ling{\kf34} me{\kf34} your{\kf68} lies
+Dialogue: 0,0:02:03.20,0:02:04.48,DEFAULT,,0,0,0,,{\r}{\kf35}It's{\kf35} not{\kf35} my{\kf23} fault
+Dialogue: 0,0:02:04.66,0:02:08.69,DEFAULT,,0,0,0,,{\r}{\kf35}That{\kf35} you{\kf35} can't{\kf35} wi{\kf35}-in,{\kf35} tho{\kf35}-ough{\kf69} you{\kf23} try{\kf66}-y
+Dialogue: 0,0:02:09.05,0:02:11.43,DEFAULT,,0,0,0,,{\r}{\kf34}But{\kf34} now{\kf34} I'm{\kf34} lo{\kf34}sing{\kf68} too
+Dialogue: 0,0:02:11.98,0:02:14.36,DEFAULT,,0,0,0,,{\r}{\kf34}There's{\kf34} no{\kf34}thing{\kf34} I{\kf34} can{\kf68} do
+Dialogue: 0,0:02:14.91,0:02:16.93,DEFAULT,,0,0,0,,{\r}{\kf35}I{\kf35} sought{\kf35} re{\kf35}venge{\kf35} on{\kf26} you
+Dialogue: 0,0:02:17.11,0:02:20.04,DEFAULT,,0,0,0,,{\r}{\kf34}But{\kf34} now{\kf34} I'm{\kf34} so{\kf23} con{\kf45}fu{\kf89}-used
+Dialogue: 0,0:02:20.41,0:02:24.62,DEFAULT,,0,0,0,,{\r}{\kf94}We{\kf35} are{\kf35} li{\kf35}ving{\kf35} in{\kf35} a{\kf82} waste{\kf70}land
+Dialogue: 0,0:02:24.80,0:02:27.36,DEFAULT,,0,0,0,,{\r}{\kf33}Bar{\kf33}ren{\kf33} worlds{\kf33} of{\kf78} dust{\kf46} and
+Dialogue: 0,0:02:27.73,0:02:30.47,DEFAULT,,0,0,0,,{\r}{\kf32}No{\kf32}where{\kf32} we{\kf32} can{\kf147} hide
+Dialogue: 0,0:02:32.12,0:02:36.15,DEFAULT,,0,0,0,,{\r}{\kf58}Sa{\kf23}-a{\kf58}ted,{\kf35} my{\kf35} thirst{\kf35} has{\kf35} a{\kf58}ba{\kf23}-a{\kf43}ted
+Dialogue: 0,0:02:36.52,0:02:39.08,DEFAULT,,0,0,0,,{\r}{\kf33}This{\kf33} world{\kf33} I've{\kf33} cre{\kf56}a{\kf22}-a{\kf46}ted
+Dialogue: 0,0:02:39.44,0:02:41.46,DEFAULT,,0,0,0,,{\r}{\kf34}There's{\kf34} no{\kf34} hope{\kf34} to{\kf65} find
+Dialogue: 0,0:02:41.64,0:02:44.39,DEFAULT,,0,0,0,,{\r}{\kf32}In{\kf32} this{\kf85} waste{\kf32}land{\kf32} of{\kf62} mine
+Dialogue: 0,0:02:53.36,0:02:56.29,DEFAULT,,0,0,0,,{\r}{\kf33}In{\kf33} this{\kf76} waste{\kf33}land{\kf33} of{\kf85} mine
+Dialogue: 0,0:03:54.41,0:03:58.99,DEFAULT,,0,0,0,,{\r}{\kf34}I{\kf34} had{\kf34} my{\kf34} heart{\kf34} set{\kf34} on{\kf80} on{\kf34}ly{\kf69} one{\kf71} thing
+Dialogue: 0,0:03:59.90,0:04:03.57,DEFAULT,,0,0,0,,{\r}{\kf33}Brin{\kf33}ging{\kf33} you{\kf78} down{\kf33} for{\kf33} what{\kf33} you{\kf90} broke
+Dialogue: 0,0:04:05.40,0:04:10.89,DEFAULT,,0,0,0,,{\r}{\kf34}But{\kf78} now{\kf34} I{\kf78} see{\kf34} I{\kf34} was{\kf67} mes{\kf78}sing{\kf34} wi{\kf34}-ith{\kf44} fate
+Dialogue: 0,0:04:11.26,0:04:16.93,DEFAULT,,0,0,0,,{\r}{\kf35}I{\kf35} fi{\kf35}nally{\kf35} un{\kf35}der{\kf81}stand{\kf35} there{\kf35} are{\kf35} things{\kf35} that{\kf35} I{\kf46} do{\kf23}-on't{\kf68} know
+Dialogue: 0,0:04:17.39,0:04:21.60,DEFAULT,,0,0,0,,{\r}{\kf94}We{\kf35} are{\kf35} li{\kf35}ving{\kf35} in{\kf35} a{\kf82} waste{\kf70}land
+Dialogue: 0,0:04:21.78,0:04:24.34,DEFAULT,,0,0,0,,{\r}{\kf33}Bar{\kf33}ren{\kf33} worlds{\kf33} of{\kf78} dust{\kf46} and
+Dialogue: 0,0:04:24.71,0:04:27.46,DEFAULT,,0,0,0,,{\r}{\kf32}No{\kf32}where{\kf32} we{\kf32} can{\kf147} hide
+Dialogue: 0,0:04:29.10,0:04:33.13,DEFAULT,,0,0,0,,{\r}{\kf58}Sa{\kf23}-a{\kf58}ted,{\kf35} my{\kf35} thirst{\kf35} has{\kf35} a{\kf58}ba{\kf23}-a{\kf43}ted
+Dialogue: 0,0:04:33.50,0:04:36.06,DEFAULT,,0,0,0,,{\r}{\kf33}This{\kf33} world{\kf33} I've{\kf33} cre{\kf56}a{\kf22}-a{\kf46}ted
+Dialogue: 0,0:04:36.43,0:04:38.44,DEFAULT,,0,0,0,,{\r}{\kf34}There's{\kf34} no{\kf34} hope{\kf34} to{\kf65} find
+Dialogue: 0,0:04:38.62,0:04:40.64,DEFAULT,,0,0,0,,{\r}{\kf32}In{\kf32} this{\kf85} waste{\kf32}land{\kf20} of-
+Dialogue: 0,0:04:40.82,0:04:45.03,DEFAULT,,0,0,0,,{\r}{\kf94}We{\kf35} are{\kf35} li{\kf35}ving{\kf35} in{\kf35} a{\kf82} waste{\kf70}land
+Dialogue: 0,0:04:45.22,0:04:47.78,DEFAULT,,0,0,0,,{\r}{\kf33}Bar{\kf33}ren{\kf33} worlds{\kf33} of{\kf78} dust{\kf46} and
+Dialogue: 0,0:04:48.14,0:04:50.89,DEFAULT,,0,0,0,,{\r}{\kf32}No{\kf32}where{\kf32} we{\kf32} can{\kf147} hide
+Dialogue: 0,0:04:52.54,0:04:56.57,DEFAULT,,0,0,0,,{\r}{\kf58}Sa{\kf23}-a{\kf58}ted,{\kf35} my{\kf35} thirst{\kf35} has{\kf35} a{\kf58}ba{\kf23}-a{\kf43}ted
+Dialogue: 0,0:04:56.93,0:04:59.49,DEFAULT,,0,0,0,,{\r}{\kf33}This{\kf33} world{\kf33} I've{\kf33} cre{\kf56}a{\kf22}-a{\kf46}ted
+Dialogue: 0,0:04:59.86,0:05:01.87,DEFAULT,,0,0,0,,{\r}{\kf34}There's{\kf34} no{\kf34} hope{\kf34} to{\kf65} find
+Dialogue: 0,0:05:02.06,0:05:04.80,DEFAULT,,0,0,0,,{\r}{\kf32}In{\kf32} this{\kf85} waste{\kf32}land{\kf32} of{\kf62} mine
+Dialogue: 0,0:05:13.77,0:05:16.70,DEFAULT,,0,0,0,,{\r}{\kf33}In{\kf33} this{\kf76} waste{\kf33}land{\kf33} of{\kf85} mine
+Dialogue: 0,0:05:25.49,0:05:28.60,DEFAULT,,0,0,0,,{\r}{\kf32}In{\kf32} this{\kf75} waste{\kf32}land{\kf32} of{\kf108} mine

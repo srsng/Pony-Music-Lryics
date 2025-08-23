@@ -1,48 +1,55 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Life As We Know It (feat. Odyssey)
+Artist: Alex S.
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:48.74,0:00:51.57,DEFAULT,,0,0,0,,{\kf48}O{\kf30}pen{\kf65} your{\kf112} mind
-Dialogue: 0,0:00:51.82,0:00:54.27,DEFAULT,,0,0,0,,{\kf26}And{\kf35} you{\kf35} shall{\kf30} feel{\kf73}~
-Dialogue: 0,0:00:54.57,0:00:57.18,DEFAULT,,0,0,0,,{\kf22}That{\kf13} e{\kf22}very{\kf35}thing{\kf13} a{\kf22}round{\kf73} you
-Dialogue: 0,0:00:57.31,0:00:59.54,DEFAULT,,0,0,0,,{\kf18}Is{\kf35} more{\kf30} than{\kf39} real{\kf43}~
-Dialogue: 0,0:00:59.71,0:01:02.28,DEFAULT,,0,0,0,,{\kf39}As{\kf48} time{\kf35} fades{\kf22} a{\kf69}way
-Dialogue: 0,0:01:02.80,0:01:05.15,DEFAULT,,0,0,0,,{\kf13}And{\kf13} as{\kf26} we{\kf35} get{\kf99} old
-Dialogue: 0,0:01:05.67,0:01:07.77,DEFAULT,,0,0,0,,{\kf13}Our{\kf18} me{\kf22}mo{\kf22}ries{\kf26} will{\kf65} last
-Dialogue: 0,0:01:08.58,0:01:10.30,DEFAULT,,0,0,0,,{\kf35}Framed{\kf35} in{\kf65} gold
-Dialogue: 0,0:01:10.51,0:01:12.95,DEFAULT,,0,0,0,,{\kf13}We've{\kf18} on{\kf18}ly{\kf22} got{\kf18} one{\kf22} life{\kf26} to{\kf35} live
-Dialogue: 0,0:01:13.21,0:01:15.40,DEFAULT,,0,0,0,,{\kf13}So{\kf18} I'{\kf13}ma{\kf26} live{\kf22} it{\kf26} up{\kf18}~{\kf26}~
-Dialogue: 0,0:01:16.00,0:01:18.82,DEFAULT,,0,0,0,,{\kf13}We've{\kf13} on{\kf18}ly{\kf22} got{\kf22} one{\kf22} life{\kf22} to{\kf30} live{\kf48}~
-Dialogue: 0,0:01:19.08,0:01:20.80,DEFAULT,,0,0,0,,{\kf13}So{\kf13} I'{\kf13}ma{\kf13} live{\kf13} it{\kf35} up{\kf39}~
-Dialogue: 0,0:01:21.35,0:01:23.88,DEFAULT,,0,0,0,,{\kf18}We've{\kf22} on{\kf18}ly{\kf26} got{\kf26} one{\kf22} life{\kf22} to{\kf35} live
-Dialogue: 0,0:01:24.18,0:01:26.45,DEFAULT,,0,0,0,,{\kf18}So{\kf18} I'{\kf18}ma{\kf22} live{\kf26} it{\kf30} up{\kf18}~{\kf30}~
-Dialogue: 0,0:01:26.88,0:01:29.54,DEFAULT,,0,0,0,,{\kf18}We've{\kf13} on{\kf18}ly{\kf26} got{\kf26} one{\kf26} life{\kf22} to{\kf26} live{\kf22}~
-Dialogue: 0,0:01:30.10,0:01:31.94,DEFAULT,,0,0,0,,{\kf13}So{\kf13} I'{\kf9}ma{\kf13} live{\kf18} it{\kf35} up{\kf52}~
-Dialogue: 0,0:01:49.60,0:01:51.70,DEFAULT,,0,0,0,,{\kf13}Our{\kf13} me{\kf18}mo{\kf26}ries{\kf30} will{\kf73} last
-Dialogue: 0,0:01:52.51,0:01:54.10,DEFAULT,,0,0,0,,{\kf39}Framed{\kf39} in{\kf56} gold
-Dialogue: 0,0:02:02.54,0:02:05.02,DEFAULT,,0,0,0,,{\kf18}We've{\kf18} on{\kf22}ly{\kf22} got{\kf22} one{\kf22} life{\kf22} to{\kf30} live
-Dialogue: 0,0:02:13.55,0:02:15.78,DEFAULT,,0,0,0,,{\kf18}So{\kf13} I'{\kf18}ma{\kf26} live{\kf22} it{\kf30} up{\kf18}~{\kf26}~
-Dialogue: 0,0:02:24.52,0:02:26.92,DEFAULT,,0,0,0,,{\kf18}We've{\kf18} on{\kf18}ly{\kf22} got{\kf22} one{\kf26} life{\kf18} to{\kf30} live
-Dialogue: 0,0:02:35.54,0:02:37.77,DEFAULT,,0,0,0,,{\kf13}So{\kf13} I'{\kf18}ma{\kf26} live{\kf26} it{\kf30} up{\kf13}~{\kf35}~
-Dialogue: 0,0:03:00.35,0:03:03.10,DEFAULT,,0,0,0,,{\kf30}And{\kf39} when{\kf56} we're{\kf99} done
-Dialogue: 0,0:03:03.44,0:03:05.80,DEFAULT,,0,0,0,,{\kf22}That{\kf39} fi{\kf35}nal{\kf39} day{\kf56}~
-Dialogue: 0,0:03:06.18,0:03:08.67,DEFAULT,,0,0,0,,{\kf18}What{\kf18} will{\kf22} they{\kf39} know{\kf13} a{\kf26}bout{\kf56} you?
-Dialogue: 0,0:03:08.88,0:03:11.11,DEFAULT,,0,0,0,,{\kf30}What{\kf39} will{\kf30} they{\kf82} say
-Dialogue: 0,0:03:11.32,0:03:13.68,DEFAULT,,0,0,0,,{\kf13}Out{\kf18} of{\kf30} all{\kf18} the{\kf22} things{\kf22} I{\kf48} say
-Dialogue: 0,0:03:14.41,0:03:16.30,DEFAULT,,0,0,0,,{\kf30}Hear{\kf30} this{\kf35} some{\kf52}how
-Dialogue: 0,0:03:16.60,0:03:19.25,DEFAULT,,0,0,0,,{\kf13}We've{\kf13} on{\kf22}ly{\kf22} got{\kf22} one{\kf35} life{\kf13} to{\kf56} live
-Dialogue: 0,0:03:19.94,0:03:26.84,DEFAULT,,0,0,0,,{\kf22}And{\kf30} it{\kf30} starts{\kf562} now
-Dialogue: 0,0:03:39.31,0:03:41.37,DEFAULT,,0,0,0,,{\kf13}Our{\kf18} me{\kf18}mo{\kf22}ries{\kf30} will{\kf69} last
-Dialogue: 0,0:03:42.10,0:03:43.81,DEFAULT,,0,0,0,,{\kf52}Framed{\kf39} in{\kf56} gold
-Dialogue: 0,0:03:52.21,0:03:54.74,DEFAULT,,0,0,0,,{\kf22}We've{\kf18} on{\kf22}ly{\kf22} got{\kf26} one{\kf26} life{\kf26} to{\kf35} live
-Dialogue: 0,0:04:03.27,0:04:05.54,DEFAULT,,0,0,0,,{\kf13}So{\kf13} I'{\kf18}ma{\kf26} live{\kf22} it{\kf30} up{\kf18}~{\kf35}~
-Dialogue: 0,0:04:14.15,0:04:16.72,DEFAULT,,0,0,0,,{\kf22}We've{\kf18} on{\kf22}ly{\kf22} got{\kf22} one{\kf22} life{\kf22} to{\kf35} live
-Dialogue: 0,0:04:25.25,0:04:27.48,DEFAULT,,0,0,0,,{\kf13}So{\kf13} I'{\kf18}ma{\kf22} live{\kf26} it{\kf30} up{\kf18}~{\kf35}~
-Dialogue: 0,0:04:47.15,0:04:49.42,DEFAULT,,0,0,0,,{\kf13}So{\kf18} I'{\kf22}ma{\kf22} live{\kf22} it{\kf13} up{\kf13}~{\kf13}~{\kf35}~
+Dialogue: 0,0:00:48.74,0:00:51.57,DEFAULT,,0,0,0,,{\r}{\kf53}O{\kf34}pen{\kf72} your{\kf124} mind
+Dialogue: 0,0:00:51.83,0:00:54.27,DEFAULT,,0,0,0,,{\r}{\kf32}And{\kf42} you{\kf42} shall{\kf37} feel{\kf91}~
+Dialogue: 0,0:00:54.57,0:00:57.19,DEFAULT,,0,0,0,,{\r}{\kf28}That{\kf17} e{\kf28}very{\kf45}thing{\kf17} a{\kf28}round{\kf98} you
+Dialogue: 0,0:00:57.31,0:00:59.54,DEFAULT,,0,0,0,,{\r}{\kf23}Is{\kf47} more{\kf41} than{\kf53} real{\kf59}~
+Dialogue: 0,0:00:59.71,0:01:02.29,DEFAULT,,0,0,0,,{\r}{\kf47}As{\kf58} time{\kf42} fades{\kf26} a{\kf84}way
+Dialogue: 0,0:01:02.80,0:01:05.16,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf16} as{\kf33} we{\kf44} get{\kf127} old
+Dialogue: 0,0:01:05.67,0:01:07.77,DEFAULT,,0,0,0,,{\r}{\kf17}Our{\kf22} me{\kf28}mo{\kf28}ries{\kf33} will{\kf82} last
+Dialogue: 0,0:01:08.59,0:01:10.30,DEFAULT,,0,0,0,,{\r}{\kf44}Framed{\kf44} in{\kf83} gold
+Dialogue: 0,0:01:10.51,0:01:12.96,DEFAULT,,0,0,0,,{\r}{\kf19}We've{\kf25} on{\kf25}ly{\kf31} got{\kf25} one{\kf31} life{\kf38} to{\kf50} live
+Dialogue: 0,0:01:13.21,0:01:15.40,DEFAULT,,0,0,0,,{\r}{\kf18}So{\kf24} I'{\kf18}ma{\kf36} live{\kf30} it{\kf36} up{\kf24}~{\kf33}~
+Dialogue: 0,0:01:16.00,0:01:18.83,DEFAULT,,0,0,0,,{\r}{\kf18}We've{\kf18} on{\kf24}ly{\kf29} got{\kf29} one{\kf29} life{\kf29} to{\kf41} live{\kf66}~
+Dialogue: 0,0:01:19.09,0:01:20.80,DEFAULT,,0,0,0,,{\r}{\kf16}So{\kf16} I'{\kf16}ma{\kf16} live{\kf16} it{\kf43} up{\kf48}~
+Dialogue: 0,0:01:21.36,0:01:23.89,DEFAULT,,0,0,0,,{\r}{\kf24}We've{\kf29} on{\kf24}ly{\kf35} got{\kf35} one{\kf29} life{\kf29} to{\kf48} live
+Dialogue: 0,0:01:24.19,0:01:26.46,DEFAULT,,0,0,0,,{\r}{\kf22}So{\kf22} I'{\kf22}ma{\kf28} live{\kf33} it{\kf39} up{\kf22}~{\kf39}~
+Dialogue: 0,0:01:26.89,0:01:29.54,DEFAULT,,0,0,0,,{\r}{\kf24}We've{\kf18} on{\kf24}ly{\kf35} got{\kf35} one{\kf35} life{\kf30} to{\kf35} live{\kf30}~
+Dialogue: 0,0:01:30.10,0:01:31.94,DEFAULT,,0,0,0,,{\r}{\kf16}So{\kf16} I'{\kf11}ma{\kf16} live{\kf21} it{\kf42} up{\kf62}~
+Dialogue: 0,0:01:49.60,0:01:51.70,DEFAULT,,0,0,0,,{\r}{\kf16}Our{\kf16} me{\kf21}mo{\kf31}ries{\kf37} will{\kf89} last
+Dialogue: 0,0:01:52.51,0:01:54.10,DEFAULT,,0,0,0,,{\r}{\kf46}Framed{\kf46} in{\kf67} gold
+Dialogue: 0,0:02:02.54,0:02:05.03,DEFAULT,,0,0,0,,{\r}{\kf25}We've{\kf25} on{\kf31}ly{\kf31} got{\kf31} one{\kf31} life{\kf31} to{\kf44} live
+Dialogue: 0,0:02:13.56,0:02:15.79,DEFAULT,,0,0,0,,{\r}{\kf23}So{\kf17} I'{\kf23}ma{\kf34} live{\kf29} it{\kf40} up{\kf23}~{\kf34}~
+Dialogue: 0,0:02:24.53,0:02:26.93,DEFAULT,,0,0,0,,{\r}{\kf25}We've{\kf25} on{\kf25}ly{\kf31} got{\kf31} one{\kf37} life{\kf25} to{\kf41} live
+Dialogue: 0,0:02:35.54,0:02:37.77,DEFAULT,,0,0,0,,{\r}{\kf17}So{\kf17} I'{\kf22}ma{\kf33} live{\kf33} it{\kf39} up{\kf17}~{\kf45}~
+Dialogue: 0,0:03:00.36,0:03:03.10,DEFAULT,,0,0,0,,{\r}{\kf37}And{\kf47} when{\kf68} we're{\kf122} done
+Dialogue: 0,0:03:03.44,0:03:05.80,DEFAULT,,0,0,0,,{\r}{\kf27}That{\kf48} fi{\kf43}nal{\kf48} day{\kf70}~
+Dialogue: 0,0:03:06.19,0:03:08.67,DEFAULT,,0,0,0,,{\r}{\kf23}What{\kf23} will{\kf28} they{\kf51} know{\kf17} a{\kf34}bout{\kf73} you?
+Dialogue: 0,0:03:08.89,0:03:11.11,DEFAULT,,0,0,0,,{\r}{\kf37}What{\kf48} will{\kf37} they{\kf101} say
+Dialogue: 0,0:03:11.33,0:03:13.69,DEFAULT,,0,0,0,,{\r}{\kf18}Out{\kf24} of{\kf42} all{\kf24} the{\kf30} things{\kf30} I{\kf68} say
+Dialogue: 0,0:03:14.41,0:03:16.30,DEFAULT,,0,0,0,,{\r}{\kf39}Hear{\kf39} this{\kf44} some{\kf67}how
+Dialogue: 0,0:03:16.60,0:03:19.26,DEFAULT,,0,0,0,,{\r}{\kf18}We've{\kf18} on{\kf30}ly{\kf30} got{\kf30} one{\kf47} life{\kf18} to{\kf75} live
+Dialogue: 0,0:03:19.94,0:03:26.84,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf32} it{\kf32} starts{\kf603} now
+Dialogue: 0,0:03:39.31,0:03:41.37,DEFAULT,,0,0,0,,{\r}{\kf16}Our{\kf21} me{\kf21}mo{\kf26}ries{\kf37} will{\kf85} last
+Dialogue: 0,0:03:42.10,0:03:43.81,DEFAULT,,0,0,0,,{\r}{\kf60}Framed{\kf45} in{\kf66} gold
+Dialogue: 0,0:03:52.21,0:03:54.74,DEFAULT,,0,0,0,,{\r}{\kf28}We've{\kf22} on{\kf28}ly{\kf28} got{\kf34} one{\kf34} life{\kf34} to{\kf45} live
+Dialogue: 0,0:04:03.27,0:04:05.54,DEFAULT,,0,0,0,,{\r}{\kf17}So{\kf17} I'{\kf23}ma{\kf34} live{\kf28} it{\kf40} up{\kf23}~{\kf45}~
+Dialogue: 0,0:04:14.16,0:04:16.73,DEFAULT,,0,0,0,,{\r}{\kf31}We've{\kf24} on{\kf31}ly{\kf31} got{\kf31} one{\kf31} life{\kf31} to{\kf47} live
+Dialogue: 0,0:04:25.26,0:04:27.49,DEFAULT,,0,0,0,,{\r}{\kf17}So{\kf17} I'{\kf22}ma{\kf28} live{\kf33} it{\kf39} up{\kf22}~{\kf45}~
+Dialogue: 0,0:04:47.16,0:04:49.43,DEFAULT,,0,0,0,,{\r}{\kf17}So{\kf23} I'{\kf29}ma{\kf29} live{\kf29} it{\kf17} up{\kf17}~{\kf17}~{\kf49}~

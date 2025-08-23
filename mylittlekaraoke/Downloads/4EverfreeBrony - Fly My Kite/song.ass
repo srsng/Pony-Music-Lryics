@@ -1,40 +1,47 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Fly My Kite
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by lily
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:23.57,0:00:26.93,DEFAULT,,0,0,0,,{\kf2366}My{\kf2366}~{\kf2366} eyes{\kf2366}~{\kf2375} are{\kf2383} spar{\kf2371}kl{\kf2388}ing{\kf2379} with{\kf2375} wo{\kf2371}-on{\kf2417}der
-Dialogue: 0,0:00:29.07,0:00:31.92,DEFAULT,,0,0,0,,{\kf2371}The{\kf2383} world{\kf2392} is{\kf2379} bright{\kf2383} and{\kf2371} full{\kf2383} of{\kf2417} life
-Dialogue: 0,0:00:34.52,0:00:36.44,DEFAULT,,0,0,0,,{\kf2379}My{\kf2366} fri{\kf2366}-iend{\kf2379} is{\kf2371} mo{\kf2379}ving{\kf2396} on
-Dialogue: 0,0:00:36.69,0:00:39.12,DEFAULT,,0,0,0,,{\kf2371}The{\kf2371} on{\kf2383}ly{\kf2388} one{\kf2388} I{\kf2371} had{\kf2375} is{\kf2388} gone
-Dialogue: 0,0:00:39.38,0:00:42.70,DEFAULT,,0,0,0,,{\kf2379}So,{\kf2405} I'll{\kf2405} just{\kf2430} fly{\kf2383} my{\kf2409} kite
-Dialogue: 0,0:00:45.43,0:00:48.92,DEFAULT,,0,0,0,,{\kf2375}My{\kf2371} si{\kf2366}-ight{\kf2379} is{\kf2383} blin{\kf2383}ded{\kf2383} by{\kf2371} il{\kf2375}lu{\kf2375}-u{\kf2435}sions
-Dialogue: 0,0:00:50.88,0:00:53.70,DEFAULT,,0,0,0,,{\kf2383}I'm{\kf2366} do{\kf2400}ing{\kf2366} what{\kf2388} I{\kf2366} fe{\kf2366}-eel{\kf2375} is{\kf2413} right
-Dialogue: 0,0:00:56.38,0:00:58.26,DEFAULT,,0,0,0,,{\kf2366}If{\kf2366} I{\kf2375}~{\kf2379} could{\kf2371} have{\kf2371} my{\kf2392} way
-Dialogue: 0,0:00:58.51,0:01:00.94,DEFAULT,,0,0,0,,{\kf2371}We'd{\kf2379} look{\kf2366} and{\kf2392} act{\kf2383} and{\kf2383} think{\kf2371} the{\kf2388} same
-Dialogue: 0,0:01:01.15,0:01:04.39,DEFAULT,,0,0,0,,{\kf2379}But{\kf2366} I'd{\kf2396}~{\kf2371} sti{\kf2383}-ill{\kf2405} fly{\kf2383} my{\kf2396} kite
-Dialogue: 0,0:01:31.79,0:01:35.03,DEFAULT,,0,0,0,,{\kf2383}My{\kf2366} mi{\kf2366}-ind{\kf2371} is{\kf2379} clou{\kf2371}ded{\kf2379} up{\kf2379} with{\kf2366} ha{\kf2379}-a{\kf2409}tred
-Dialogue: 0,0:01:37.25,0:01:40.32,DEFAULT,,0,0,0,,{\kf2371}I{\kf2383} won't{\kf2379} go{\kf2366} do{\kf2383}-own{\kf2379} with{\kf2366}out{\kf2366}~{\kf2371} a{\kf2443} fight
-Dialogue: 0,0:01:42.70,0:01:44.66,DEFAULT,,0,0,0,,{\kf2366}My{\kf2366}~{\kf2366} hi{\kf2366}-is{\kf2366}to{\kf2396}ry's{\kf2366} a{\kf2400} dump
-Dialogue: 0,0:01:45.09,0:01:47.26,DEFAULT,,0,0,0,,{\kf2375}Wish{\kf2366} that{\kf2371} I{\kf2383}~{\kf2375} could{\kf2388} change{\kf2366} it{\kf2388} up
-Dialogue: 0,0:01:47.47,0:01:50.88,DEFAULT,,0,0,0,,{\kf2379}But{\kf2366} I'd{\kf2400}~{\kf2366} sti{\kf2392}-ill{\kf2422} fly{\kf2383} my{\kf2405} kite
-Dialogue: 0,0:01:52.25,0:01:54.63,DEFAULT,,0,0,0,,{\kf2383}In{\kf2371} ma{\kf2400}ny{\kf2366} wa{\kf2477}-ays
-Dialogue: 0,0:01:55.32,0:01:57.62,DEFAULT,,0,0,0,,{\kf2366}I{\kf2366}~{\kf2379} will{\kf2371} a{\kf2366}-al{\kf2383}ways{\kf2366} be{\kf2366}-e{\kf2371} a{\kf2400}shamed
-Dialogue: 0,0:01:58.04,0:02:00.22,DEFAULT,,0,0,0,,{\kf2379}Of{\kf2366} the{\kf2371} da{\kf2507}-ays
-Dialogue: 0,0:02:00.81,0:02:03.20,DEFAULT,,0,0,0,,{\kf2383}I{\kf2383} had{\kf2366} ye{\kf2366}-et{\kf2371} to{\kf2366} fi{\kf2379}-ind{\kf2383} my{\kf2396} way
-Dialogue: 0,0:02:03.50,0:02:05.59,DEFAULT,,0,0,0,,{\kf2383}You{\kf2371} could{\kf2379} sa{\kf2469}-ay
-Dialogue: 0,0:02:06.22,0:02:08.61,DEFAULT,,0,0,0,,{\kf2383}I{\kf2383} will{\kf2366} ne{\kf2366}-e{\kf2383}ver{\kf2366} be{\kf2366}-e{\kf2366} the{\kf2366} sa{\kf2392}-ame
-Dialogue: 0,0:02:08.95,0:02:13.13,DEFAULT,,0,0,0,,{\kf2371}But{\kf2400}-ut{\kf2417} some{\kf2371} thi{\kf2383}-ings{\kf2422} ne{\kf2383}ver{\kf2366} cha{\kf2447}-ange
-Dialogue: 0,0:02:18.16,0:02:21.35,DEFAULT,,0,0,0,,{\kf2366}My{\kf2371}~{\kf2366} he{\kf2366}-eart{\kf2371} is{\kf2366} bur{\kf2383}dened{\kf2388} with{\kf2371} con{\kf2383}fu{\kf2371}-u{\kf2396}sion
-Dialogue: 0,0:02:23.61,0:02:26.34,DEFAULT,,0,0,0,,{\kf2383}I{\kf2371} thought{\kf2392} I{\kf2383} knew{\kf2383} my{\kf2383} des{\kf2366}ti{\kf2409}ny
-Dialogue: 0,0:02:29.07,0:02:31.07,DEFAULT,,0,0,0,,{\kf2379}My{\kf2366} li{\kf2366}-ife{\kf2379} is{\kf2371} made{\kf2379} of{\kf2405} flaws
-Dialogue: 0,0:02:31.28,0:02:33.62,DEFAULT,,0,0,0,,{\kf2366}And{\kf2383} yet{\kf2366} you{\kf2375} o{\kf2375}~{\kf2383}ver{\kf2383}look{\kf2366} them{\kf2388} all
-Dialogue: 0,0:02:33.84,0:02:37.25,DEFAULT,,0,0,0,,{\kf2383}So,{\kf2417} won't{\kf2375} yo{\kf2375}-ou{\kf2426} fly{\kf2383} with{\kf2405} me
-Dialogue: 0,0:02:39.29,0:02:42.83,DEFAULT,,0,0,0,,{\kf2379}Come{\kf2405} fly{\kf2388} yo{\kf2383}-our{\kf2422} kite{\kf2375} with{\kf2417} me
-Dialogue: 0,0:03:06.57,0:03:10.61,DEFAULT,,0,0,0,,{\kf2383}Come{\kf2417} fly{\kf2383} yo{\kf2383}-our{\kf2439} kite{\kf2383} with{\kf2439} me
+Dialogue: 0,0:00:23.57,0:00:26.94,DEFAULT,,0,0,0,,{\r}{\kf12}My{\kf12}~{\kf12} eyes{\kf12}~{\kf25} are{\kf37} spar{\kf19}kl{\kf44}ing{\kf31} with{\kf25} wo{\kf19}-on{\kf89}der
+Dialogue: 0,0:00:29.07,0:00:31.93,DEFAULT,,0,0,0,,{\r}{\kf17}The{\kf34} world{\kf45} is{\kf28} bright{\kf34} and{\kf17} full{\kf34} of{\kf77} life
+Dialogue: 0,0:00:34.52,0:00:36.44,DEFAULT,,0,0,0,,{\r}{\kf31}My{\kf12} fri{\kf12}-iend{\kf31} is{\kf19} mo{\kf31}ving{\kf56} on
+Dialogue: 0,0:00:36.70,0:00:39.13,DEFAULT,,0,0,0,,{\r}{\kf18}The{\kf18} on{\kf36}ly{\kf43} one{\kf43} I{\kf18} had{\kf24} is{\kf43} gone
+Dialogue: 0,0:00:39.38,0:00:42.71,DEFAULT,,0,0,0,,{\r}{\kf27}So,{\kf59} I'll{\kf59} just{\kf91} fly{\kf32} my{\kf64} kite
+Dialogue: 0,0:00:45.43,0:00:48.93,DEFAULT,,0,0,0,,{\r}{\kf23}My{\kf17} si{\kf11}-ight{\kf29} is{\kf34} blin{\kf34}ded{\kf34} by{\kf17} il{\kf23}lu{\kf23}-u{\kf104}sions
+Dialogue: 0,0:00:50.89,0:00:53.70,DEFAULT,,0,0,0,,{\r}{\kf35}I'm{\kf12} do{\kf59}ing{\kf12} what{\kf41} I{\kf12} fe{\kf12}-eel{\kf23} is{\kf75} right
+Dialogue: 0,0:00:56.39,0:00:58.26,DEFAULT,,0,0,0,,{\r}{\kf14}If{\kf14} I{\kf28}~{\kf35} could{\kf21} have{\kf21} my{\kf55} way
+Dialogue: 0,0:00:58.52,0:01:00.95,DEFAULT,,0,0,0,,{\r}{\kf18}We'd{\kf30} look{\kf12} and{\kf49} act{\kf36} and{\kf36} think{\kf18} the{\kf44} same
+Dialogue: 0,0:01:01.16,0:01:04.40,DEFAULT,,0,0,0,,{\r}{\kf32}But{\kf13} I'd{\kf57}~{\kf19} sti{\kf38}-ill{\kf70} fly{\kf38} my{\kf57} kite
+Dialogue: 0,0:01:31.80,0:01:35.04,DEFAULT,,0,0,0,,{\r}{\kf39}My{\kf13} mi{\kf13}-ind{\kf19} is{\kf32} clou{\kf19}ded{\kf32} up{\kf32} with{\kf13} ha{\kf32}-a{\kf80}tred
+Dialogue: 0,0:01:37.25,0:01:40.32,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf34} won't{\kf28} go{\kf11} do{\kf34}-own{\kf28} with{\kf11}out{\kf11}~{\kf17} a{\kf116} fight
+Dialogue: 0,0:01:42.71,0:01:44.67,DEFAULT,,0,0,0,,{\r}{\kf13}My{\kf13}~{\kf13} hi{\kf13}-is{\kf13}to{\kf57}ry's{\kf13} a{\kf61} dump
+Dialogue: 0,0:01:45.09,0:01:47.27,DEFAULT,,0,0,0,,{\r}{\kf25}Wish{\kf12} that{\kf19} I{\kf37}~{\kf25} could{\kf43} change{\kf12} it{\kf44} up
+Dialogue: 0,0:01:47.48,0:01:50.89,DEFAULT,,0,0,0,,{\r}{\kf29}But{\kf12} I'd{\kf58}~{\kf12} sti{\kf46}-ill{\kf87} fly{\kf35} my{\kf62} kite
+Dialogue: 0,0:01:52.25,0:01:54.64,DEFAULT,,0,0,0,,{\r}{\kf29}In{\kf15} ma{\kf49}ny{\kf10} wa{\kf136}-ays
+Dialogue: 0,0:01:55.32,0:01:57.62,DEFAULT,,0,0,0,,{\r}{\kf12}I{\kf12}~{\kf31} will{\kf19} a{\kf12}-al{\kf37}ways{\kf12} be{\kf12}-e{\kf19} a{\kf64}shamed
+Dialogue: 0,0:01:58.05,0:02:00.22,DEFAULT,,0,0,0,,{\r}{\kf24}Of{\kf10} the{\kf14} da{\kf169}-ays
+Dialogue: 0,0:02:00.82,0:02:03.20,DEFAULT,,0,0,0,,{\r}{\kf35}I{\kf35} had{\kf12} ye{\kf12}-et{\kf17} to{\kf12} fi{\kf29}-ind{\kf35} my{\kf52} way
+Dialogue: 0,0:02:03.50,0:02:05.59,DEFAULT,,0,0,0,,{\r}{\kf31}You{\kf16} could{\kf26} sa{\kf136}-ay
+Dialogue: 0,0:02:06.23,0:02:08.62,DEFAULT,,0,0,0,,{\r}{\kf38}I{\kf38} will{\kf13} ne{\kf13}-e{\kf38}ver{\kf13} be{\kf13}-e{\kf13} the{\kf13} sa{\kf47}-ame
+Dialogue: 0,0:02:08.96,0:02:13.13,DEFAULT,,0,0,0,,{\r}{\kf16}But{\kf52}-ut{\kf73} some{\kf16} thi{\kf31}-ings{\kf78} ne{\kf31}ver{\kf10} cha{\kf111}-ange
+Dialogue: 0,0:02:18.16,0:02:21.36,DEFAULT,,0,0,0,,{\r}{\kf13}My{\kf20}~{\kf13} he{\kf13}-eart{\kf20} is{\kf13} bur{\kf40}dened{\kf47} with{\kf20} con{\kf40}fu{\kf20}-u{\kf61}sion
+Dialogue: 0,0:02:23.62,0:02:26.34,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf17} thought{\kf45} I{\kf33} knew{\kf33} my{\kf33} des{\kf11}ti{\kf68}ny
+Dialogue: 0,0:02:29.07,0:02:31.07,DEFAULT,,0,0,0,,{\r}{\kf30}My{\kf12} li{\kf12}-ife{\kf30} is{\kf18} made{\kf30} of{\kf68} flaws
+Dialogue: 0,0:02:31.29,0:02:33.63,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf36} yet{\kf12} you{\kf24} o{\kf24}~{\kf36}ver{\kf36}look{\kf12} them{\kf42} all
+Dialogue: 0,0:02:33.84,0:02:37.25,DEFAULT,,0,0,0,,{\r}{\kf34}So,{\kf78} won't{\kf22} yo{\kf22}-ou{\kf89} fly{\kf34} with{\kf62} me
+Dialogue: 0,0:02:39.30,0:02:42.83,DEFAULT,,0,0,0,,{\r}{\kf29}Come{\kf63} fly{\kf40} yo{\kf34}-our{\kf86} kite{\kf23} with{\kf79} me
+Dialogue: 0,0:03:06.57,0:03:10.62,DEFAULT,,0,0,0,,{\r}{\kf32}Come{\kf75} fly{\kf32} yo{\kf32}-our{\kf101} kite{\kf32} with{\kf101} me

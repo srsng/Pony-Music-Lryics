@@ -1,66 +1,73 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Lächle
+Artist: Mein kleines Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.84,0:00:07.95,DEFAULT,,0,0,0,,{\kf24}Ich{\kf29} hei{\kf20}ße{\kf24} Pin{\kf29}kie{\kf48} Pie
-Dialogue: 0,0:00:08.72,0:00:10.87,DEFAULT,,0,0,0,,{\kf24}Ich{\kf34} läch{\kf15}le,{\kf29} weil{\kf29} ich's{\kf48} mag
-Dialogue: 0,0:00:11.74,0:00:14.51,DEFAULT,,0,0,0,,{\kf29}Ich{\kf24} wün{\kf20}sche{\kf24} und{\kf29} be{\kf44}rei{\kf24}te{\kf34} Euch
-Dialogue: 0,0:00:14.61,0:00:17.29,DEFAULT,,0,0,0,,{\kf34}Gern'{\kf29} ei{\kf15}nen{\kf34} schö{\kf29}nen{\kf44} Ta{\kf15}-a{\kf20}-a{\kf20}-ag
-Dialogue: 0,0:00:17.58,0:00:19.74,DEFAULT,,0,0,0,,{\kf24}Bist{\kf29} Du{\kf20} auch{\kf34} schlecht{\kf34} ge{\kf44}launt
-Dialogue: 0,0:00:20.55,0:00:22.71,DEFAULT,,0,0,0,,{\kf24}Und{\kf29} sagst:{\kf20} "Lass'{\kf29} mich{\kf29} in{\kf48} Ruh'!"
-Dialogue: 0,0:00:23.57,0:00:26.35,DEFAULT,,0,0,0,,{\kf24}E{\kf29}gal,{\kf20} ich{\kf29} heit{\kf34}re{\kf44} al{\kf24}le{\kf44} auf
-Dialogue: 0,0:00:26.35,0:00:28.80,DEFAULT,,0,0,0,,{\kf39}Weil{\kf29} ich{\kf20} es{\kf34} ger{\kf29}ne{\kf72} tu'
-Dialogue: 0,0:00:29.37,0:00:33.64,DEFAULT,,0,0,0,,{\kf39}Ich{\kf44} bring'{\kf29} Eu{\kf20}-uch{\kf24} ein{\kf39} Läch{\kf29}eln{\kf34} in's{\kf63} Ge{\kf63}sicht
-Dialogue: 0,0:00:35.27,0:00:39.34,DEFAULT,,0,0,0,,{\kf24}Denn{\kf39} Ta{\kf20}ge{\kf29} oh{\kf29}ne{\kf39} Läch{\kf29}eln{\kf29} gibt's{\kf29} hier{\kf96} nicht
-Dialogue: 0,0:00:41.11,0:00:45.43,DEFAULT,,0,0,0,,{\kf34}Ein{\kf39} Läch{\kf24}eln{\kf15} nu{\kf15}-ur{\kf24} ist{\kf39} al{\kf20}les,{\kf24} was{\kf68} ich{\kf63} brauch'
-Dialogue: 0,0:00:45.62,0:00:47.87,DEFAULT,,0,0,0,,{\kf20}Und{\kf10} die{\kf29} Freun{\kf24}de{\kf29} brau{\kf39}chen's{\kf58} auch
-Dialogue: 0,0:00:50.07,0:00:52.23,DEFAULT,,0,0,0,,{\kf20}Ich{\kf34} freu'{\kf20} mich,{\kf34} wenn{\kf29} Du{\kf58} strahlst
-Dialogue: 0,0:00:53.00,0:00:55.15,DEFAULT,,0,0,0,,{\kf24}Ich{\kf29} freu'{\kf20} mich,{\kf39} wenn{\kf24} Du{\kf53} grinst
-Dialogue: 0,0:00:55.92,0:00:58.08,DEFAULT,,0,0,0,,{\kf24}Die{\kf34} Mund{\kf24}win{\kf29}keln{\kf29} geh'n{\kf48} hoch
-Dialogue: 0,0:00:58.13,0:01:01.10,DEFAULT,,0,0,0,,{\kf24}Wo{\kf29}durch{\kf24} Du{\kf29} un{\kf20}ge{\kf39}mein{\kf29} ge{\kf53}winnst
-Dialogue: 0,0:01:01.86,0:01:04.45,DEFAULT,,0,0,0,,{\kf24}Und{\kf29} bist{\kf20} Du{\kf29} mal{\kf29} am{\kf29} Bo{\kf58}den,
-Dialogue: 0,0:01:04.69,0:01:07.04,DEFAULT,,0,0,0,,{\kf24}Und{\kf39} schimpfst{\kf20} auf{\kf24} die{\kf34}se{\kf58} Welt
-Dialogue: 0,0:01:07.66,0:01:10.82,DEFAULT,,0,0,0,,{\kf29}Wird{\kf29} ein{\kf24}fach,{\kf29} um{\kf29} Dich{\kf34} auf{\kf34}zu{\kf29}hei{\kf29}tern
-Dialogue: 0,0:01:11.02,0:01:14.56,DEFAULT,,0,0,0,,{\kf29}Al{\kf24}les{\kf29} auf{\kf29} den{\kf34} Kopf{\kf29} ge{\kf154}stellt
-Dialogue: 0,0:01:15.04,0:01:19.50,DEFAULT,,0,0,0,,{\kf29}Ich{\kf48} leg'{\kf24} Eu{\kf34}-uch{\kf15} ein{\kf39} Grin{\kf24}sen{\kf39} auf{\kf63} den{\kf77} Mund
-Dialogue: 0,0:01:20.60,0:01:25.59,DEFAULT,,0,0,0,,{\kf29}Grin'{\kf29} von{\kf34} Ohr{\kf24} zu{\kf20} O{\kf15}-ohr,{\kf24} denn{\kf48} Grin{\kf24}sen{\kf29} ist{\kf72} ge{\kf96}sund
-Dialogue: 0,0:01:26.93,0:01:31.14,DEFAULT,,0,0,0,,{\kf24}Und{\kf48} grinst{\kf34} Ihr{\kf39} mich{\kf44} an, {\kf24}grins'{\kf39} ich{\kf68} zu{\kf58}rück
-Dialogue: 0,0:01:31.29,0:01:33.40,DEFAULT,,0,0,0,,{\kf20}Dann{\kf24} strahlt{\kf24} Pin{\kf24}kie{\kf29} Pie{\kf29} vor{\kf44} Glück
-Dialogue: 0,0:01:33.54,0:01:37.47,DEFAULT,,0,0,0,,{\kf24}Klar,{\kf34} gibt{\kf34} es{\kf24} Ta{\kf20}ge{\kf53} vol{\kf53}ler{\kf34} Kum{\kf77}mer
-Dialogue: 0,0:01:37.95,0:01:40.01,DEFAULT,,0,0,0,,{\kf29}Dann{\kf20} bist{\kf15} Du{\kf20} ver{\kf34}zwei{\kf58}felt,
-Dialogue: 0,0:01:40.20,0:01:41.69,DEFAULT,,0,0,0,,{\kf29}Doch{\kf20} Pin{\kf20}kie{\kf29} macht{\kf20} deut{\kf20}lich
-Dialogue: 0,0:01:41.74,0:01:44.18,DEFAULT,,0,0,0,,{\kf20} dass{\kf20} al{\kf20}les{\kf20} nur{\kf20} halb{\kf15} so{\kf29} schlimm{\kf72} ist
-Dialogue: 0,0:01:44.61,0:01:46.67,DEFAULT,,0,0,0,,{\kf29}Ich{\kf29} füh{\kf20}le{\kf20} mich{\kf24} oft{\kf29} so{\kf29} wohl,
-Dialogue: 0,0:01:46.72,0:01:50.17,DEFAULT,,0,0,0,,{\kf20}Und{\kf20} der{\kf29} gan{\kf29}ze{\kf39} Tag{\kf29} ist{\kf29} mein{\kf116} Freund
-Dialogue: 0,0:01:50.46,0:01:51.94,DEFAULT,,0,0,0,,{\kf29}Das{\kf29} ist,{\kf20} wenn{\kf15} ein{\kf15} Läch{\kf20}eln
-Dialogue: 0,0:01:51.99,0:01:55.73,DEFAULT,,0,0,0,,{\kf29}Auf{\kf20} Eu{\kf15}rem{\kf29} Ge{\kf34}sicht{\kf20} er{\kf202}scheint
-Dialogue: 0,0:01:56.35,0:01:58.84,DEFAULT,,0,0,0,,{\kf29}Ich{\kf29} bin{\kf24} ein{\kf24} ech{\kf29}ter{\kf34} Glücks{\kf44}pilz
-Dialogue: 0,0:01:59.32,0:02:01.53,DEFAULT,,0,0,0,,{\kf24}Nur,{\kf34} weil{\kf20} ich{\kf34} nichts{\kf24} ver{\kf53}lier'
-Dialogue: 0,0:02:02.25,0:02:04.59,DEFAULT,,0,0,0,,{\kf29}Das{\kf29} Läch{\kf24}eln,{\kf34} das{\kf29} ich{\kf48} ge{\kf15}be
-Dialogue: 0,0:02:04.69,0:02:07.42,DEFAULT,,0,0,0,,{\kf44}Kommt{\kf24} so{\kf29}fort{\kf24} zu{\kf24}rück{\kf34} zu{\kf53} mir
-Dialogue: 0,0:02:08.14,0:02:12.60,DEFAULT,,0,0,0,,{\kf34}Ich{\kf53} bring'{\kf24} Eu{\kf24}-uch{\kf24} zum{\kf48} Strah{\kf24}len{\kf48} hell{\kf58} und{\kf77} warm
-Dialogue: 0,0:02:13.89,0:02:18.40,DEFAULT,,0,0,0,,{\kf24}Oh{\kf20}ne{\kf44} Strahl{\kf20}ge{\kf39}sich{\kf24}ter{\kf44} wär'{\kf20} die{\kf34} Welt{\kf77} so{\kf68} arm
-Dialogue: 0,0:02:19.98,0:02:24.15,DEFAULT,,0,0,0,,{\kf24} Ich{\kf34} strah{\kf20}le{\kf20} mit{\kf39} Euch{\kf44} wenn{\kf20} ihr{\kf58} strahlt{\kf58} und{\kf58} lacht
-Dialogue: 0,0:02:24.39,0:02:27.65,DEFAULT,,0,0,0,,{\kf24}Und{\kf20}  mich{\kf20} da{\kf24}mit{\kf29} glück{\kf34}lich{\kf48} ma{\kf101}-acht
-Dialogue: 0,0:02:27.74,0:02:30.47,DEFAULT,,0,0,0,,{\kf20}Kommt{\kf15} schon,{\kf15} Po{\kf20}nies,{\kf29} läch{\kf29}elt,{\kf34} läch{\kf34}elt,{\kf29} läch{\kf24}elt!
-Dialogue: 0,0:02:30.52,0:02:33.40,DEFAULT,,0,0,0,,{\kf24}Strahlt{\kf20} in{\kf29} mein{\kf29} Herz,{\kf24} wie{\kf39} Son{\kf24}nen{\kf34}sche{\kf29}in
-Dialogue: 0,0:02:33.59,0:02:36.22,DEFAULT,,0,0,0,,{\kf20}Ich{\kf15} will,{\kf20} dass{\kf15} Ihr{\kf29} läch{\kf24}elt,{\kf34} läch{\kf34}elt,{\kf29} läch{\kf20}elt
-Dialogue: 0,0:02:36.42,0:02:39.20,DEFAULT,,0,0,0,,{\kf20}Im{\kf20}mer{\kf15} woll'n{\kf15} wir{\kf39} Freun{\kf29}de{\kf82} se{\kf53}-ein
-Dialogue: 0,0:02:39.29,0:02:42.02,DEFAULT,,0,0,0,,{\kf24}Kommt{\kf15} schon,{\kf15} Po{\kf20}nies,{\kf24} läch{\kf24}elt,{\kf34}läch{\kf39}elt,{\kf24} läch{\kf24}elt
-Dialogue: 0,0:02:42.07,0:02:44.95,DEFAULT,,0,0,0,,{\kf34}Strahlt{\kf15} in{\kf29} mein{\kf29} Herz{\kf29} wie{\kf34} Son{\kf29}nen{\kf34}sche{\kf24}in
-Dialogue: 0,0:02:45.09,0:02:47.82,DEFAULT,,0,0,0,,{\kf20}Ich{\kf15} will,{\kf20} dass{\kf15} Ihr{\kf29} läch{\kf29}elt,{\kf29} läch{\kf39}elt,{\kf39} läch{\kf24}elt
-Dialogue: 0,0:02:47.97,0:02:50.70,DEFAULT,,0,0,0,,{\kf20}Im{\kf20}mer{\kf20} woll'n{\kf15} wir{\kf34} Freun{\kf24}de{\kf77} se{\kf48}-ein
-Dialogue: 0,0:02:50.79,0:02:53.86,DEFAULT,,0,0,0,,{\kf24}Das{\kf20} wär'{\kf15} ein{\kf15} Ge{\kf29}schenk{\kf24} für{\kf72} mi{\kf77}-ich
-Dialogue: 0,0:02:54.24,0:02:56.50,DEFAULT,,0,0,0,,{\kf15}Wenn{\kf15} man{\kf29} lacht,{\kf20} weil{\kf15} es{\kf20} Freu{\kf24}de{\kf34} ma{\kf29}-acht
-Dialogue: 0,0:02:57.07,0:03:00.57,DEFAULT,,0,0,0,,{\kf24}Ein{\kf34} Läch{\kf29}eln{\kf39} spricht{\kf29} al{\kf39}lein{\kf24} für{\kf106} sich
-Dialogue: 0,0:03:01.00,0:03:08.57,DEFAULT,,0,0,0,,{\kf58}Läch{\kf68}eln,{\kf58} läch{\kf58}eln,{\kf72} ja,{\kf63} ich{\kf68} läch{\kf58}le{\kf173} gern
-Dialogue: 0,0:03:08.67,0:03:11.21,DEFAULT,,0,0,0,,{\kf24}Ich{\kf34} läch{\kf20}le{\kf15}-e{\kf154} gern
-Dialogue: 0,0:03:11.59,0:03:12.50,DEFAULT,,0,0,0,,{\kf20}Ich{\kf39} läch{\kf15}le{\kf15}-e
-Dialogue: 0,0:03:12.60,0:03:13.27,DEFAULT,,0,0,0,,{\kf68}Gern!
+Dialogue: 0,0:00:05.85,0:00:07.95,DEFAULT,,0,0,0,,{\r}{\kf29}Ich{\kf35} hei{\kf23}ße{\kf29} Pin{\kf35}kie{\kf60} Pie
+Dialogue: 0,0:00:08.72,0:00:10.88,DEFAULT,,0,0,0,,{\r}{\kf29}Ich{\kf41} läch{\kf18}le,{\kf35} weil{\kf35} ich's{\kf58} mag
+Dialogue: 0,0:00:11.74,0:00:14.52,DEFAULT,,0,0,0,,{\r}{\kf35}Ich{\kf30} wün{\kf24}sche{\kf30} und{\kf35} be{\kf53}rei{\kf30}te{\kf41} Euch
+Dialogue: 0,0:00:14.62,0:00:17.30,DEFAULT,,0,0,0,,{\r}{\kf38}Gern'{\kf33} ei{\kf16}nen{\kf38} schö{\kf33}nen{\kf49} Ta{\kf16}-a{\kf22}-a{\kf23}-ag
+Dialogue: 0,0:00:17.59,0:00:19.74,DEFAULT,,0,0,0,,{\r}{\kf28}Bist{\kf34} Du{\kf23} auch{\kf40} schlecht{\kf40} ge{\kf51}launt
+Dialogue: 0,0:00:20.56,0:00:22.71,DEFAULT,,0,0,0,,{\r}{\kf29}Und{\kf35} sagst:{\kf23} "Lass'{\kf35} mich{\kf35} in{\kf59} Ruh'!"
+Dialogue: 0,0:00:23.58,0:00:26.36,DEFAULT,,0,0,0,,{\r}{\kf27}E{\kf33}gal,{\kf22} ich{\kf33} heit{\kf38}re{\kf49} al{\kf27}le{\kf49} auf
+Dialogue: 0,0:00:26.36,0:00:28.80,DEFAULT,,0,0,0,,{\r}{\kf42}Weil{\kf32} ich{\kf21} es{\kf37} ger{\kf32}ne{\kf80} tu'
+Dialogue: 0,0:00:29.38,0:00:33.64,DEFAULT,,0,0,0,,{\r}{\kf43}Ich{\kf49} bring'{\kf32} Eu{\kf22}-uch{\kf27} ein{\kf43} Läch{\kf32}eln{\kf38} in's{\kf70} Ge{\kf71}sicht
+Dialogue: 0,0:00:35.27,0:00:39.34,DEFAULT,,0,0,0,,{\r}{\kf27}Denn{\kf43} Ta{\kf22}ge{\kf33} oh{\kf33}ne{\kf43} Läch{\kf33}eln{\kf33} gibt's{\kf33} hier{\kf107} nicht
+Dialogue: 0,0:00:41.12,0:00:45.43,DEFAULT,,0,0,0,,{\r}{\kf40}Ein{\kf46} Läch{\kf29}eln{\kf17} nu{\kf17}-ur{\kf29} ist{\kf46} al{\kf23}les,{\kf29} was{\kf80} ich{\kf75} brauch'
+Dialogue: 0,0:00:45.62,0:00:47.87,DEFAULT,,0,0,0,,{\r}{\kf21}Und{\kf10} die{\kf31} Freun{\kf26}de{\kf31} brau{\kf42}chen's{\kf64} auch
+Dialogue: 0,0:00:50.08,0:00:52.24,DEFAULT,,0,0,0,,{\r}{\kf22}Ich{\kf38} freu'{\kf22} mich,{\kf38} wenn{\kf32} Du{\kf64} strahlst
+Dialogue: 0,0:00:53.00,0:00:55.16,DEFAULT,,0,0,0,,{\r}{\kf28}Ich{\kf33} freu'{\kf22} mich,{\kf44} wenn{\kf28} Du{\kf61} grinst
+Dialogue: 0,0:00:55.93,0:00:58.08,DEFAULT,,0,0,0,,{\r}{\kf28}Die{\kf39} Mund{\kf28}win{\kf33}keln{\kf33} geh'n{\kf55} hoch
+Dialogue: 0,0:00:58.13,0:01:01.10,DEFAULT,,0,0,0,,{\r}{\kf29}Wo{\kf35}durch{\kf29} Du{\kf35} un{\kf23}ge{\kf47}mein{\kf35} ge{\kf64}winnst
+Dialogue: 0,0:01:01.87,0:01:04.46,DEFAULT,,0,0,0,,{\r}{\kf29}Und{\kf35} bist{\kf23} Du{\kf35} mal{\kf35} am{\kf35} Bo{\kf67}den,
+Dialogue: 0,0:01:04.70,0:01:07.04,DEFAULT,,0,0,0,,{\r}{\kf29}Und{\kf46} schimpfst{\kf23} auf{\kf29} die{\kf40}se{\kf68} Welt
+Dialogue: 0,0:01:07.67,0:01:10.83,DEFAULT,,0,0,0,,{\r}{\kf34}Wird{\kf34} ein{\kf29}fach,{\kf34} um{\kf34} Dich{\kf40} auf{\kf40}zu{\kf34}hei{\kf37}tern
+Dialogue: 0,0:01:11.02,0:01:14.57,DEFAULT,,0,0,0,,{\r}{\kf31}Al{\kf26}les{\kf31} auf{\kf31} den{\kf37} Kopf{\kf31} ge{\kf168}stellt
+Dialogue: 0,0:01:15.05,0:01:19.50,DEFAULT,,0,0,0,,{\r}{\kf33}Ich{\kf55} leg'{\kf28} Eu{\kf39}-uch{\kf17} ein{\kf44} Grin{\kf28}sen{\kf44} auf{\kf72} den{\kf86} Mund
+Dialogue: 0,0:01:20.61,0:01:25.59,DEFAULT,,0,0,0,,{\r}{\kf32}Grin'{\kf32} von{\kf38} Ohr{\kf27} zu{\kf22} O{\kf16}-ohr,{\kf27} denn{\kf54} Grin{\kf27}sen{\kf32} ist{\kf81} ge{\kf110}sund
+Dialogue: 0,0:01:26.93,0:01:31.15,DEFAULT,,0,0,0,,{\r}{\kf27}Und{\kf54} grinst{\kf38} Ihr{\kf43} mich{\kf49} an,{\kf27}grins'{\kf43} ich{\kf76} zu{\kf65}rück
+Dialogue: 0,0:01:31.29,0:01:33.40,DEFAULT,,0,0,0,,{\r}{\kf21}Dann{\kf26} strahlt{\kf26} Pin{\kf26}kie{\kf32} Pie{\kf32} vor{\kf48} Glück
+Dialogue: 0,0:01:33.55,0:01:37.48,DEFAULT,,0,0,0,,{\r}{\kf27}Klar,{\kf38} gibt{\kf38} es{\kf27} Ta{\kf22}ge{\kf59} vol{\kf59}ler{\kf38} Kum{\kf85}mer
+Dialogue: 0,0:01:37.95,0:01:40.02,DEFAULT,,0,0,0,,{\r}{\kf34}Dann{\kf23} bist{\kf17} Du{\kf23} ver{\kf40}zwei{\kf69}felt,
+Dialogue: 0,0:01:40.21,0:01:41.69,DEFAULT,,0,0,0,,{\r}{\kf32}Doch{\kf21} Pin{\kf21}kie{\kf32} macht{\kf21} deut{\kf22}lich
+Dialogue: 0,0:01:41.74,0:01:44.18,DEFAULT,,0,0,0,,{\r}{\kf22} dass{\kf22} al{\kf22}les{\kf22} nur{\kf22} halb{\kf17} so{\kf33} schlimm{\kf84} ist
+Dialogue: 0,0:01:44.62,0:01:46.68,DEFAULT,,0,0,0,,{\r}{\kf33}Ich{\kf33} füh{\kf22}le{\kf22} mich{\kf28} oft{\kf33} so{\kf35} wohl,
+Dialogue: 0,0:01:46.72,0:01:50.17,DEFAULT,,0,0,0,,{\r}{\kf22}Und{\kf22} der{\kf32} gan{\kf32}ze{\kf43} Tag{\kf32} ist{\kf32} mein{\kf130} Freund
+Dialogue: 0,0:01:50.46,0:01:51.95,DEFAULT,,0,0,0,,{\r}{\kf34}Das{\kf34} ist,{\kf23} wenn{\kf17} ein{\kf17} Läch{\kf24}eln
+Dialogue: 0,0:01:52.00,0:01:55.73,DEFAULT,,0,0,0,,{\r}{\kf31}Auf{\kf21} Eu{\kf16}rem{\kf31} Ge{\kf36}sicht{\kf21} er{\kf218}scheint
+Dialogue: 0,0:01:56.36,0:01:58.85,DEFAULT,,0,0,0,,{\r}{\kf34}Ich{\kf34} bin{\kf28} ein{\kf28} ech{\kf34}ter{\kf40} Glücks{\kf51}pilz
+Dialogue: 0,0:01:59.33,0:02:01.53,DEFAULT,,0,0,0,,{\r}{\kf28}Nur,{\kf39} weil{\kf23} ich{\kf39} nichts{\kf28} ver{\kf63}lier'
+Dialogue: 0,0:02:02.25,0:02:04.60,DEFAULT,,0,0,0,,{\r}{\kf33}Das{\kf33} Läch{\kf27}eln,{\kf38} das{\kf33} ich{\kf55} ge{\kf16}be
+Dialogue: 0,0:02:04.70,0:02:07.43,DEFAULT,,0,0,0,,{\r}{\kf51}Kommt{\kf28} so{\kf34}fort{\kf28} zu{\kf28}rück{\kf40} zu{\kf64} mir
+Dialogue: 0,0:02:08.15,0:02:12.60,DEFAULT,,0,0,0,,{\r}{\kf36}Ich{\kf57} bring'{\kf26} Eu{\kf26}-uch{\kf26} zum{\kf52} Strah{\kf26}len{\kf52} hell{\kf62} und{\kf83} warm
+Dialogue: 0,0:02:13.90,0:02:18.40,DEFAULT,,0,0,0,,{\r}{\kf26}Oh{\kf21}ne{\kf48} Strahl{\kf21}ge{\kf42}sich{\kf26}ter{\kf48} wär'{\kf21} die{\kf37} Welt{\kf85} so{\kf75} arm
+Dialogue: 0,0:02:19.98,0:02:24.15,DEFAULT,,0,0,0,,{\r}{\kf27} Ich{\kf38} strah{\kf22}le{\kf22} mit{\kf43} Euch{\kf49} wenn{\kf22} ihr{\kf65} strahlt{\kf65} und{\kf64} lacht
+Dialogue: 0,0:02:24.39,0:02:27.65,DEFAULT,,0,0,0,,{\r}{\kf26}Und{\kf21}  mich{\kf21} da{\kf26}mit{\kf32} glück{\kf37}lich{\kf53} ma{\kf110}-acht
+Dialogue: 0,0:02:27.75,0:02:30.48,DEFAULT,,0,0,0,,{\r}{\kf21}Kommt{\kf16} schon,{\kf16} Po{\kf21}nies,{\kf32} läch{\kf32}elt,{\kf37} läch{\kf37}elt,{\kf32} läch{\kf29}elt!
+Dialogue: 0,0:02:30.53,0:02:33.40,DEFAULT,,0,0,0,,{\r}{\kf28}Strahlt{\kf22} in{\kf33} mein{\kf33} Herz,{\kf28} wie{\kf44} Son{\kf28}nen{\kf39}sche{\kf33}in
+Dialogue: 0,0:02:33.59,0:02:36.23,DEFAULT,,0,0,0,,{\r}{\kf22}Ich{\kf16} will,{\kf22} dass{\kf16} Ihr{\kf32} läch{\kf27}elt,{\kf38} läch{\kf38}elt,{\kf32} läch{\kf21}elt
+Dialogue: 0,0:02:36.42,0:02:39.20,DEFAULT,,0,0,0,,{\r}{\kf20}Im{\kf20}mer{\kf15} woll'n{\kf15} wir{\kf40} Freun{\kf30}de{\kf84} se{\kf54}-ein
+Dialogue: 0,0:02:39.30,0:02:42.03,DEFAULT,,0,0,0,,{\r}{\kf27}Kommt{\kf16} schon,{\kf16} Po{\kf22}nies,{\kf27} läch{\kf27}elt,{\kf38}läch{\kf44}elt,{\kf27} läch{\kf29}elt
+Dialogue: 0,0:02:42.08,0:02:44.95,DEFAULT,,0,0,0,,{\r}{\kf38}Strahlt{\kf16} in{\kf33} mein{\kf33} Herz{\kf33} wie{\kf38} Son{\kf33}nen{\kf38}sche{\kf26}in
+Dialogue: 0,0:02:45.10,0:02:47.83,DEFAULT,,0,0,0,,{\r}{\kf21}Ich{\kf15} will,{\kf21} dass{\kf15} Ihr{\kf31} läch{\kf31}elt,{\kf31} läch{\kf41}elt,{\kf41} läch{\kf26}elt
+Dialogue: 0,0:02:47.97,0:02:50.70,DEFAULT,,0,0,0,,{\r}{\kf21}Im{\kf21}mer{\kf21} woll'n{\kf15} wir{\kf36} Freun{\kf26}de{\kf82} se{\kf51}-ein
+Dialogue: 0,0:02:50.80,0:02:53.87,DEFAULT,,0,0,0,,{\r}{\kf27}Das{\kf22} wär'{\kf16} ein{\kf16} Ge{\kf32}schenk{\kf27} für{\kf81} mi{\kf86}-ich
+Dialogue: 0,0:02:54.25,0:02:56.50,DEFAULT,,0,0,0,,{\r}{\kf16}Wenn{\kf16} man{\kf33} lacht,{\kf22} weil{\kf16} es{\kf22} Freu{\kf27}de{\kf38} ma{\kf35}-acht
+Dialogue: 0,0:02:57.08,0:03:00.57,DEFAULT,,0,0,0,,{\r}{\kf26}Ein{\kf37} Läch{\kf31}eln{\kf42} spricht{\kf31} al{\kf42}lein{\kf26} für{\kf115} sich
+Dialogue: 0,0:03:01.01,0:03:08.58,DEFAULT,,0,0,0,,{\r}{\kf65}Läch{\kf76}eln,{\kf65} läch{\kf65}eln,{\kf81} ja,{\kf70} ich{\kf76} läch{\kf65}le{\kf194} gern
+Dialogue: 0,0:03:08.67,0:03:11.21,DEFAULT,,0,0,0,,{\r}{\kf25}Ich{\kf35} läch{\kf20}le{\kf15}-e{\kf159} gern
+Dialogue: 0,0:03:11.60,0:03:12.51,DEFAULT,,0,0,0,,{\r}{\kf20}Ich{\kf40} läch{\kf15}le{\kf16}-e
+Dialogue: 0,0:03:12.60,0:03:13.27,DEFAULT,,0,0,0,,{\r}{\kf67}Gern!

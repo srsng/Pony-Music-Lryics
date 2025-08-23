@@ -1,50 +1,57 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Geschichte vom Derpyfest
+Artist: Zecora95 & Melody
+Original Timing: mylittlekaraoke.com by Lichtschatten & rderpy
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:15.27,0:00:19.10,DEFAULT,,0,0,0,,{\kf27}Die{\kf23} Mu{\kf27}sik{\kf49} spielt{\kf42} los{\kf19} was{\kf19} zur{\kf27} Hölle{\kf27} tun{\kf27} wir{\kf31} hier?
-Dialogue: 0,0:00:19.29,0:00:21.16,DEFAULT,,0,0,0,,{\kf19}Das{\kf19} Jahr{\kf19} woll{\kf16}te{\kf23} nicht{\kf19} ver~{\kf49}gehen
-Dialogue: 0,0:00:21.20,0:00:22.89,DEFAULT,,0,0,0,,{\kf19}Doch{\kf27} jetzt{\kf16} was{\kf8} könnt'{\kf27} jetzt{\kf27} wohl{\kf27} sein?
-Dialogue: 0,0:00:23.15,0:00:24.99,DEFAULT,,0,0,0,,{\kf19}Prall{\kf16} ge{\kf46}füllt{\kf23} an{\kf12} Pro~{\kf42}gramm
-Dialogue: 0,0:00:25.10,0:00:26.75,DEFAULT,,0,0,0,,{\kf16}Und{\kf12} ne{\kf19} men{\kf8}ge{\kf31} Spie~{\kf27}le{\kf27} hier.
-Dialogue: 0,0:00:27.01,0:00:28.40,DEFAULT,,0,0,0,,{\kf16}Du{\kf23} denkst{\kf38} rich~{\kf42}tig,
-Dialogue: 0,0:00:28.51,0:00:30.88,DEFAULT,,0,0,0,,{\kf16}Denn{\kf16} das{\kf27} kann{\kf19} nur{\kf31} dieses{\kf23} Meet~{\kf23}up{\kf57} sein!
-Dialogue: 0,0:00:31.36,0:00:34.55,DEFAULT,,0,0,0,,{\kf94}Oh,{\kf64} oh,{\kf61} oh{\kf8}-oh{\kf16}~{\kf23}-uh{\kf31}-oh
-Dialogue: 0,0:00:34.70,0:00:38.49,DEFAULT,,0,0,0,,{\kf23}Du{\kf27} wirst{\kf34} Teil{\kf19} der{\kf19} Ge{\kf23}schich{\kf19}te{\kf34} vom{\kf42} Der{\kf38}~py{\kf49}~fest!
-Dialogue: 0,0:00:38.53,0:00:38.90,DEFAULT,,0,0,0,,{\kf38}Hay!
-Dialogue: 0,0:00:39.09,0:00:42.24,DEFAULT,,0,0,0,,{\kf98}Oh,{\kf61} oh,{\kf61} oh{\kf8}-oh{\kf16}~{\kf23}-uh{\kf23}-oh
-Dialogue: 0,0:00:42.39,0:00:48.62,DEFAULT,,0,0,0,,{\kf23}Du{\kf23} wirst{\kf38} Teil{\kf23} der{\kf12} Ge{\kf27}schich{\kf19}te{\kf46} vom{\kf38} Der~{\kf46}py~{\kf278}fest!
-Dialogue: 0,0:00:49.07,0:00:50.94,DEFAULT,,0,0,0,,{\kf38}Gewinnst{\kf19} du{\kf38} ein'n{\kf16} Wett~{\kf27}be~{\kf23}werb
-Dialogue: 0,0:00:51.02,0:00:52.97,DEFAULT,,0,0,0,,{\kf8}E~{\kf23}gal{\kf19} ob{\kf19} Team{\kf31} oder{\kf27} al~{\kf38}lein?
-Dialogue: 0,0:00:53.23,0:00:55.03,DEFAULT,,0,0,0,,{\kf12}Wirst{\kf16} du{\kf27} trink{\kf49}stark{\kf53} sein?
-Dialogue: 0,0:00:55.07,0:00:56.83,DEFAULT,,0,0,0,,{\kf16}Denn{\kf19} auch{\kf19} das{\kf8} hab’n{\kf19} wir{\kf27} da{\kf34}bei!
-Dialogue: 0,0:00:57.02,0:00:58.86,DEFAULT,,0,0,0,,{\kf16}Bis{\kf27} zu~{\kf42}rück{\kf38} nach{\kf42} Haus,
-Dialogue: 0,0:00:58.93,0:01:00.69,DEFAULT,,0,0,0,,{\kf16}Grinst{\kf8} du{\kf12} noch{\kf31} immer{\kf23} bis{\kf27} zum{\kf27} Ohr!
-Dialogue: 0,0:01:00.84,0:01:05.87,DEFAULT,,0,0,0,,{\kf19}Du{\kf27} warst{\kf38} Teil{\kf19} der{\kf42} Geschich~{\kf16}te{\kf34} vom{\kf42} Der~{\kf38}py~{\kf166}fest!
-Dialogue: 0,0:01:06.21,0:01:09.36,DEFAULT,,0,0,0,,{\kf102}Oh,{\kf61} oh,{\kf61} oh{\kf8}-oh{\kf12}~{\kf19}-uh{\kf27}-oh
-Dialogue: 0,0:01:09.58,0:01:13.33,DEFAULT,,0,0,0,,{\kf19}Du{\kf16} wirst{\kf42} Teil{\kf16} der{\kf16} Ge{\kf31}schich{\kf16}te{\kf42} vom{\kf38} Der~{\kf27}py~{\kf49}fest!
-Dialogue: 0,0:01:13.41,0:01:13.74,DEFAULT,,0,0,0,,{\kf34}Hay!
-Dialogue: 0,0:01:14.04,0:01:17.16,DEFAULT,,0,0,0,,{\kf79}Oh,{\kf49} oh,{\kf53} oh{\kf12}-oh{\kf16}~{\kf16}-uh{\kf34}-oh
-Dialogue: 0,0:01:17.31,0:01:21.43,DEFAULT,,0,0,0,,{\kf23}Du{\kf19} wirst{\kf38} Teil{\kf23} der{\kf16} Ge{\kf31}schich{\kf12}te{\kf46} vom{\kf38} Der~{\kf38}py~{\kf79}fest!
-Dialogue: 0,0:01:22.15,0:01:25.60,DEFAULT,,0,0,0,,{\kf19}Ob{\kf27} Köln,{\kf42} Kass~{\kf46}el,{\kf34} Er~{\kf49}furt,{\kf19} Be{\kf12}~r{\kf57}lin,
-Dialogue: 0,0:01:25.97,0:01:29.27,DEFAULT,,0,0,0,,{\kf23}Kiel,{\kf12} Ha{\kf42}nno{\kf46}ver{\kf34} und{\kf42} Ham{\kf23}bu~{\kf53}rg
-Dialogue: 0,0:01:29.91,0:01:33.21,DEFAULT,,0,0,0,,{\kf19}Frank{\kf12}furt,{\kf42} Stutt~{\kf46}gart,{\kf38} Nürn~{\kf49}berg,{\kf12} Mü~{\kf16}n~{\kf53}chen!
-Dialogue: 0,0:01:33.81,0:01:36.62,DEFAULT,,0,0,0,,{\kf31}Heute{\kf42} sind{\kf42} wir{\kf38} al{\kf27}le{\kf23} Ei~{\kf31}ns!
-Dialogue: 0,0:01:36.73,0:01:38.50,DEFAULT,,0,0,0,,{\kf12}Lasst{\kf12} das{\kf42} Gruppen~{\kf42}denken{\kf38} sein...
-Dialogue: 0,0:01:38.61,0:01:40.41,DEFAULT,,0,0,0,,{\kf16}Und{\kf19} werd{\kf27} Teil{\kf27} dieses{\kf27} E~{\kf38}vents!
-Dialogue: 0,0:01:40.60,0:01:42.47,DEFAULT,,0,0,0,,{\kf16}Lern{\kf16} auch{\kf31} neue{\kf46} Freunde{\kf49} kenen
-Dialogue: 0,0:01:42.55,0:01:44.20,DEFAULT,,0,0,0,,{\kf16}Das{\kf12} wird{\kf34} unser{\kf19} A~{\kf23}bend{\kf31} sein!
-Dialogue: 0,0:01:44.42,0:01:46.26,DEFAULT,,0,0,0,,{\kf16}Bist{\kf8} d'{\kf16}zu{\kf23}rück,{\kf38} nach{\kf46} Haus',
-Dialogue: 0,0:01:46.37,0:01:48.06,DEFAULT,,0,0,0,,{\kf16}Kannst{\kf8} du{\kf31} stolz{\kf8} sein{\kf16} wie{\kf27} noch{\kf27} nie,
-Dialogue: 0,0:01:48.32,0:01:53.39,DEFAULT,,0,0,0,,{\kf16}Du{\kf16} warst{\kf49} Teil{\kf12} der{\kf12} Ge{\kf38}schich{\kf19}te{\kf42} vom{\kf38} Der{\kf34}py{\kf177}fest!
-Dialogue: 0,0:01:53.54,0:01:56.76,DEFAULT,,0,0,0,,{\kf94}Oh,{\kf53} oh,{\kf64} oh{\kf16}-oh{\kf12}~{\kf19}-uh{\kf27}-oh
-Dialogue: 0,0:01:56.95,0:02:00.74,DEFAULT,,0,0,0,,{\kf19}Du{\kf19} wirst{\kf46} Teil{\kf16} der{\kf12} Ge{\kf34}schich~{\kf12}te{\kf53} vom{\kf34} Der~{\kf42}py~{\kf46}fest!
-Dialogue: 0,0:02:01.38,0:02:04.53,DEFAULT,,0,0,0,,{\kf98}Oh,{\kf57} oh,{\kf72} oh{\kf8}-oh{\kf12}~{\kf16}-uh{\kf31}-oh
-Dialogue: 0,0:02:04.71,0:02:09.89,DEFAULT,,0,0,0,,{\kf23}Du{\kf16} wirst{\kf46} Teil{\kf19} der{\kf46} Geschich~{\kf16}te{\kf42} vom{\kf38} Der~{\kf42}py~{\kf184}fest!
+Dialogue: 0,0:00:15.28,0:00:19.11,DEFAULT,,0,0,0,,{\r}{\kf32}Die{\kf28} Mu{\kf32}sik{\kf60} spielt{\kf51} los{\kf23} was{\kf23} zur{\kf32} Hölle{\kf32} tun{\kf32} wir{\kf38} hier?
+Dialogue: 0,0:00:19.29,0:00:21.17,DEFAULT,,0,0,0,,{\r}{\kf22}Das{\kf22} Jahr{\kf22} woll{\kf17}te{\kf26} nicht{\kf22} ver~{\kf57}gehen
+Dialogue: 0,0:00:21.21,0:00:22.89,DEFAULT,,0,0,0,,{\r}{\kf22}Doch{\kf30} jetzt{\kf17} was{\kf10} könnt'{\kf30} jetzt{\kf30} wohl{\kf30} sein?
+Dialogue: 0,0:00:23.16,0:00:24.99,DEFAULT,,0,0,0,,{\r}{\kf22}Prall{\kf18} ge{\kf54}füllt{\kf27} an{\kf13} Pro~{\kf50}gramm
+Dialogue: 0,0:00:25.11,0:00:26.76,DEFAULT,,0,0,0,,{\r}{\kf18}Und{\kf14} ne{\kf23} men{\kf10}ge{\kf37} Spie~{\kf32}le{\kf31} hier.
+Dialogue: 0,0:00:27.02,0:00:28.41,DEFAULT,,0,0,0,,{\r}{\kf18}Du{\kf27} denkst{\kf45} rich~{\kf49}tig,
+Dialogue: 0,0:00:28.52,0:00:30.88,DEFAULT,,0,0,0,,{\r}{\kf17}Denn{\kf17} das{\kf30} kann{\kf21} nur{\kf34} dieses{\kf26} Meet~{\kf26}up{\kf65} sein!
+Dialogue: 0,0:00:31.37,0:00:34.56,DEFAULT,,0,0,0,,{\r}{\kf102}Oh,{\kf70} oh,{\kf65} oh{\kf10}-oh{\kf16}~{\kf25}-uh{\kf31}-oh
+Dialogue: 0,0:00:34.71,0:00:38.50,DEFAULT,,0,0,0,,{\r}{\kf26}Du{\kf31} wirst{\kf40} Teil{\kf22} der{\kf22} Ge{\kf26}schich{\kf22}te{\kf40} vom{\kf48} Der{\kf44}~py{\kf58}~fest!
+Dialogue: 0,0:00:38.53,0:00:38.91,DEFAULT,,0,0,0,,{\r}{\kf38}Hay!
+Dialogue: 0,0:00:39.10,0:00:42.25,DEFAULT,,0,0,0,,{\r}{\kf108}Oh,{\kf66} oh,{\kf66} oh{\kf10}-oh{\kf17}~{\kf25}-uh{\kf23}-oh
+Dialogue: 0,0:00:42.40,0:00:48.62,DEFAULT,,0,0,0,,{\r}{\kf25}Du{\kf25} wirst{\kf41} Teil{\kf25} der{\kf12} Ge{\kf29}schich{\kf21}te{\kf50} vom{\kf41} Der~{\kf50}py~{\kf304}fest!
+Dialogue: 0,0:00:49.07,0:00:50.95,DEFAULT,,0,0,0,,{\r}{\kf45}Gewinnst{\kf22} du{\kf45} ein'n{\kf18} Wett~{\kf31}be~{\kf27}werb
+Dialogue: 0,0:00:51.02,0:00:52.97,DEFAULT,,0,0,0,,{\r}{\kf10}E~{\kf27}gal{\kf23} ob{\kf23} Team{\kf36} oder{\kf32} al~{\kf44}lein?
+Dialogue: 0,0:00:53.23,0:00:55.03,DEFAULT,,0,0,0,,{\r}{\kf13}Wirst{\kf18} du{\kf31} trink{\kf57}stark{\kf61} sein?
+Dialogue: 0,0:00:55.07,0:00:56.83,DEFAULT,,0,0,0,,{\r}{\kf19}Denn{\kf24} auch{\kf24} das{\kf10} hab’n{\kf24} wir{\kf33} da{\kf42}bei!
+Dialogue: 0,0:00:57.02,0:00:58.86,DEFAULT,,0,0,0,,{\r}{\kf17}Bis{\kf30} zu~{\kf47}rück{\kf43} nach{\kf47} Haus,
+Dialogue: 0,0:00:58.94,0:01:00.70,DEFAULT,,0,0,0,,{\r}{\kf19}Grinst{\kf10} du{\kf14} noch{\kf38} immer{\kf29} bis{\kf33} zum{\kf33} Ohr!
+Dialogue: 0,0:01:00.85,0:01:05.87,DEFAULT,,0,0,0,,{\r}{\kf22}Du{\kf30} warst{\kf43} Teil{\kf22} der{\kf48} Geschich~{\kf17}te{\kf39} vom{\kf48} Der~{\kf43}py~{\kf191}fest!
+Dialogue: 0,0:01:06.21,0:01:09.36,DEFAULT,,0,0,0,,{\r}{\kf112}Oh,{\kf66} oh,{\kf66} oh{\kf10}-oh{\kf12}~{\kf21}-uh{\kf28}-oh
+Dialogue: 0,0:01:09.59,0:01:13.34,DEFAULT,,0,0,0,,{\r}{\kf23}Du{\kf19} wirst{\kf51} Teil{\kf19} der{\kf19} Ge{\kf37}schich{\kf19}te{\kf51} vom{\kf46} Der~{\kf32}py~{\kf59}fest!
+Dialogue: 0,0:01:13.41,0:01:13.75,DEFAULT,,0,0,0,,{\r}{\kf34}Hay!
+Dialogue: 0,0:01:14.05,0:01:17.16,DEFAULT,,0,0,0,,{\r}{\kf96}Oh,{\kf59} oh,{\kf64} oh{\kf14}-oh{\kf18}~{\kf18}-uh{\kf42}-oh
+Dialogue: 0,0:01:17.31,0:01:21.44,DEFAULT,,0,0,0,,{\r}{\kf26}Du{\kf22} wirst{\kf43} Teil{\kf26} der{\kf17} Ge{\kf35}schich{\kf13}te{\kf52} vom{\kf43} Der~{\kf43}py~{\kf93}fest!
+Dialogue: 0,0:01:22.15,0:01:25.60,DEFAULT,,0,0,0,,{\r}{\kf22}Ob{\kf30} Köln,{\kf47} Kass~{\kf52}el,{\kf39} Er~{\kf56}furt,{\kf22} Be{\kf13}~r{\kf64}lin,
+Dialogue: 0,0:01:25.98,0:01:29.28,DEFAULT,,0,0,0,,{\r}{\kf28}Kiel,{\kf14} Ha{\kf50}nno{\kf55}ver{\kf41} und{\kf50} Ham{\kf28}bu~{\kf64}rg
+Dialogue: 0,0:01:29.91,0:01:33.21,DEFAULT,,0,0,0,,{\r}{\kf22}Frank{\kf13}furt,{\kf48} Stutt~{\kf53}gart,{\kf44} Nürn~{\kf57}berg,{\kf13} Mü~{\kf18}n~{\kf62}chen!
+Dialogue: 0,0:01:33.81,0:01:36.63,DEFAULT,,0,0,0,,{\r}{\kf37}Heute{\kf51} sind{\kf51} wir{\kf46} al{\kf32}le{\kf28} Ei~{\kf36}ns!
+Dialogue: 0,0:01:36.74,0:01:38.50,DEFAULT,,0,0,0,,{\r}{\kf14}Lasst{\kf14} das{\kf51} Gruppen~{\kf51}denken{\kf46} sein...
+Dialogue: 0,0:01:38.62,0:01:40.42,DEFAULT,,0,0,0,,{\r}{\kf18}Und{\kf22} werd{\kf31} Teil{\kf31} dieses{\kf31} E~{\kf47}vents!
+Dialogue: 0,0:01:40.60,0:01:42.48,DEFAULT,,0,0,0,,{\r}{\kf18}Lern{\kf18} auch{\kf37} neue{\kf55} Freunde{\kf60} kenen
+Dialogue: 0,0:01:42.55,0:01:44.20,DEFAULT,,0,0,0,,{\r}{\kf19}Das{\kf14} wird{\kf42} unser{\kf24} A~{\kf28}bend{\kf38} sein!
+Dialogue: 0,0:01:44.43,0:01:46.27,DEFAULT,,0,0,0,,{\r}{\kf19}Bist{\kf10} d'{\kf19}zu{\kf29}rück,{\kf48} nach{\kf59} Haus',
+Dialogue: 0,0:01:46.38,0:01:48.07,DEFAULT,,0,0,0,,{\r}{\kf20}Kannst{\kf10} du{\kf40} stolz{\kf10} sein{\kf20} wie{\kf35} noch{\kf34} nie,
+Dialogue: 0,0:01:48.33,0:01:53.39,DEFAULT,,0,0,0,,{\r}{\kf17}Du{\kf17} warst{\kf55} Teil{\kf13} der{\kf13} Ge{\kf43}schich{\kf21}te{\kf47} vom{\kf43} Der{\kf38}py{\kf199}fest!
+Dialogue: 0,0:01:53.54,0:01:56.77,DEFAULT,,0,0,0,,{\r}{\kf108}Oh,{\kf60} oh,{\kf73} oh{\kf17}-oh{\kf13}~{\kf22}-uh{\kf30}-oh
+Dialogue: 0,0:01:56.95,0:02:00.74,DEFAULT,,0,0,0,,{\r}{\kf22}Du{\kf22} wirst{\kf52} Teil{\kf17} der{\kf13} Ge{\kf39}schich~{\kf13}te{\kf61} vom{\kf39} Der~{\kf48}py~{\kf53}fest!
+Dialogue: 0,0:02:01.38,0:02:04.53,DEFAULT,,0,0,0,,{\r}{\kf106}Oh,{\kf61} oh,{\kf78} oh{\kf10}-oh{\kf12}~{\kf16}-uh{\kf32}-oh
+Dialogue: 0,0:02:04.72,0:02:09.89,DEFAULT,,0,0,0,,{\r}{\kf25}Du{\kf17} wirst{\kf50} Teil{\kf21} der{\kf50} Geschich~{\kf17}te{\kf46} vom{\kf42} Der~{\kf46}py~{\kf204}fest!

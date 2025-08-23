@@ -1,35 +1,42 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Chant of Immortality (Concert Version)
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by Renard,barbeque
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:10.47,0:00:17.19,DEFAULT,,0,0,0,,{\kf1114}Re{\kf1066}mem{\kf1066}~{\kf1071}br{\kf1133}ance,{\kf1085} part{\kf1066} of{\kf1090} e{\kf1066}very{\kf1152} life
-Dialogue: 0,0:00:18.04,0:00:24.80,DEFAULT,,0,0,0,,{\kf1128}Num'{\kf1062}rous{\kf1062}~{\kf1066} re{\kf1133}grets{\kf1081}~,{\kf1062} the{\kf1095} art{\kf1066} of{\kf1085} pas{\kf1062}sing{\kf1156} time
-Dialogue: 0,0:00:25.66,0:00:32.14,DEFAULT,,0,0,0,,{\kf1114}Not{\kf1062} o{\kf1062}ne{\kf1062} for{\kf1133}gets,{\kf1062} spent{\kf1085} nights{\kf1062} of{\kf1090} cha{\kf1066}sing{\kf1133} days
-Dialogue: 0,0:00:33.32,0:00:39.48,DEFAULT,,0,0,0,,{\kf1109}E{\kf1066}ter{\kf1071}~{\kf1062}nal{\kf1128} rest{\kf1085}~,{\kf1062} to{\kf1085} wit{\kf1062}ness{\kf1066} be{\kf1062}ing{\kf1066} e{\kf1109}rased
-Dialogue: 0,0:00:40.14,0:00:44.92,DEFAULT,,0,0,0,,{\kf1062}It{\kf1062} is{\kf1100} sel{\kf1066}~{\kf1090}dom{\kf1066} seen{\kf1062} in{\kf1062} this{\kf1095} world{\kf1066} of{\kf1081} now
-Dialogue: 0,0:00:45.86,0:00:50.88,DEFAULT,,0,0,0,,{\kf1062}It{\kf1062} is{\kf1095} wel{\kf1066}~{\kf1085}come,{\kf1062} u{\kf1066}~{\kf1066}ni{\kf1085}verse{\kf1062} and{\kf1104} out
-Dialogue: 0,0:00:51.54,0:00:56.42,DEFAULT,,0,0,0,,{\kf1062}It{\kf1062} is{\kf1071} seen{\kf1066}~{\kf1057}~{\kf1057}~{\kf1066}~{\kf1095}~,{\kf1062} on{\kf1066}ly{\kf1066} from{\kf1090} eyes{\kf1062} of{\kf1100} thine
-Dialogue: 0,0:00:57.22,0:01:02.15,DEFAULT,,0,0,0,,{\kf1062}Is{\kf1062} it{\kf1128} free{\kf1100}~?{\kf1066} 'Tis{\kf1066} on{\kf1062}ly{\kf1104} by{\kf1062} in{\kf1100}vite
-Dialogue: 0,0:01:03.52,0:01:10.10,DEFAULT,,0,0,0,,{\kf1118}Re{\kf1066}mem{\kf1062}~{\kf1071}br{\kf1133}ance,{\kf1090} part{\kf1066} of{\kf1095} e{\kf1062}very{\kf1137} life
-Dialogue: 0,0:01:11.14,0:01:17.67,DEFAULT,,0,0,0,,{\kf1123}Num'{\kf1062}rous{\kf1062}~{\kf1062} re{\kf1128}grets{\kf1085}~,{\kf1062} the{\kf1090} art{\kf1062} of{\kf1085} pas{\kf1062}sing{\kf1142} time
-Dialogue: 0,0:01:18.71,0:01:25.24,DEFAULT,,0,0,0,,{\kf1118}Not{\kf1066} o{\kf1066}ne{\kf1066} for{\kf1137}gets,{\kf1062} spent{\kf1090} nights{\kf1066} of{\kf1081} cha{\kf1066}sing{\kf1137} days
-Dialogue: 0,0:01:26.23,0:01:32.77,DEFAULT,,0,0,0,,{\kf1123}E{\kf1066}ter{\kf1076}~{\kf1062}nal{\kf1128} rest{\kf1081}~,{\kf1066} to{\kf1085} wit{\kf1066}ness{\kf1066} be{\kf1066}ing{\kf1066} e{\kf1128}rased
-Dialogue: 0,0:01:33.52,0:01:36.36,DEFAULT,,0,0,0,,{\kf1066}To{\kf1085} wit{\kf1062}ness{\kf1066} be{\kf1071}ing{\kf1066} e{\kf1104}rased
-Dialogue: 0,0:01:37.02,0:01:41.80,DEFAULT,,0,0,0,,{\kf1062}It{\kf1066} is{\kf1100} pon{\kf1071}~{\kf1081}derous,{\kf1071} wil{\kf1062}ling{\kf1066} to{\kf1090} know{\kf1066} my{\kf1090} fate
-Dialogue: 0,0:01:42.66,0:01:47.77,DEFAULT,,0,0,0,,{\kf1066}In{\kf1062} its{\kf1090} lon{\kf1071}~{\kf1081}gest{\kf1062} lin{\kf1066}ge{\kf1062}ring{\kf1081} while{\kf1062} to{\kf1062} wait{\kf1090}~
-Dialogue: 0,0:01:48.34,0:01:53.30,DEFAULT,,0,0,0,,{\kf1062}I{\kf1062} can{\kf1076} see{\kf1062}~{\kf1057}~{\kf1057}~{\kf1071}~{\kf1090}~,{\kf1062} me{\kf1071}mo{\kf1066}ry{\kf1095} ta{\kf1062}ken{\kf1100} tolls
-Dialogue: 0,0:01:54.01,0:01:58.75,DEFAULT,,0,0,0,,{\kf1062}I'm{\kf1066} not{\kf1095} rea{\kf1066}~{\kf1090}dy,{\kf1066} rea{\kf1066}dy{\kf1071} to{\kf1085} let{\kf1062} them{\kf1076} go
-Dialogue: 0,0:02:00.36,0:02:06.93,DEFAULT,,0,0,0,,{\kf1118}Re{\kf1071}mem{\kf1071}~{\kf1071}br{\kf1137}ance,{\kf1095} part{\kf1066} of{\kf1085} e{\kf1066}very{\kf1137} life
-Dialogue: 0,0:02:07.93,0:02:14.51,DEFAULT,,0,0,0,,{\kf1128}Num'{\kf1066}rous{\kf1062}~{\kf1071} re{\kf1133}grets{\kf1090}~,{\kf1066} the{\kf1085} art{\kf1066} of{\kf1095} pas{\kf1066}sing{\kf1137} time
-Dialogue: 0,0:02:15.55,0:02:22.13,DEFAULT,,0,0,0,,{\kf1118}Not{\kf1066} o{\kf1066}ne{\kf1066} for{\kf1123}gets,{\kf1066} spent{\kf1095} nights{\kf1066} of{\kf1081} cha{\kf1066}sing{\kf1142} days
-Dialogue: 0,0:02:23.17,0:02:29.56,DEFAULT,,0,0,0,,{\kf1114}E{\kf1071}ter{\kf1071}~{\kf1066}nal{\kf1128} rest{\kf1081}~,{\kf1066} to{\kf1085} wit{\kf1066}ness{\kf1066} be{\kf1066}ing{\kf1066} e{\kf1118}rased
-Dialogue: 0,0:03:06.66,0:03:13.43,DEFAULT,,0,0,0,,{\kf1114}Re{\kf1071}mem{\kf1066}~{\kf1066}br{\kf1137}ance,{\kf1090} part{\kf1062} of{\kf1095} e{\kf1066}very{\kf1066} life{\kf1062}~{\kf1104}~
-Dialogue: 0,0:03:14.28,0:03:20.72,DEFAULT,,0,0,0,,{\kf1118}Num'{\kf1066}ro{\kf1066}us{\kf1062} re{\kf1123}grets{\kf1076}~,{\kf1066} the{\kf1085} art{\kf1062} of{\kf1066} pas{\kf1066}~{\kf1066}sing{\kf1062} time{\kf1104}~
-Dialogue: 0,0:03:21.43,0:03:25.45,DEFAULT,,0,0,0,,{\kf1071}The{\kf1071} art{\kf1066}~{\kf1062} of{\kf1062} pas{\kf1066}~{\kf1066}sing{\kf1081} time{\kf1057}~{\kf1147}~
+Dialogue: 0,0:00:10.47,0:00:17.19,DEFAULT,,0,0,0,,{\r}{\kf102}Re{\kf29}mem{\kf29}~{\kf37}br{\kf131}ance,{\kf58} part{\kf29} of{\kf66} e{\kf29}very{\kf162} life
+Dialogue: 0,0:00:18.04,0:00:24.81,DEFAULT,,0,0,0,,{\r}{\kf112}Num'{\kf20}rous{\kf20}~{\kf26} re{\kf118}grets{\kf46}~,{\kf20} the{\kf66} art{\kf26} of{\kf53} pas{\kf20}sing{\kf150} time
+Dialogue: 0,0:00:25.66,0:00:32.15,DEFAULT,,0,0,0,,{\r}{\kf105}Not{\kf23} o{\kf23}ne{\kf23} for{\kf136}gets,{\kf23} spent{\kf60} nights{\kf23} of{\kf68} cha{\kf30}sing{\kf134} days
+Dialogue: 0,0:00:33.33,0:00:39.48,DEFAULT,,0,0,0,,{\r}{\kf91}E{\kf28}ter{\kf35}~{\kf21}nal{\kf119} rest{\kf56}~,{\kf21} to{\kf56} wit{\kf21}ness{\kf28} be{\kf21}ing{\kf28} e{\kf90}rased
+Dialogue: 0,0:00:40.14,0:00:44.92,DEFAULT,,0,0,0,,{\r}{\kf24}It{\kf24} is{\kf86} sel{\kf31}~{\kf71}dom{\kf31} seen{\kf24} in{\kf24} this{\kf78} world{\kf31} of{\kf54} now
+Dialogue: 0,0:00:45.87,0:00:50.89,DEFAULT,,0,0,0,,{\r}{\kf24}It{\kf24} is{\kf81} wel{\kf32}~{\kf65}come,{\kf24} u{\kf32}~{\kf32}ni{\kf65}verse{\kf24} and{\kf99} out
+Dialogue: 0,0:00:51.55,0:00:56.42,DEFAULT,,0,0,0,,{\r}{\kf22}It{\kf22} is{\kf36} seen{\kf29}~{\kf15}~{\kf15}~{\kf29}~{\kf73}~,{\kf22} on{\kf29}ly{\kf29} from{\kf65} eyes{\kf22} of{\kf79} thine
+Dialogue: 0,0:00:57.23,0:01:02.15,DEFAULT,,0,0,0,,{\r}{\kf21}Is{\kf21} it{\kf118} free{\kf76}~?{\kf28} 'Tis{\kf28} on{\kf21}ly{\kf83} by{\kf21} in{\kf75}vite
+Dialogue: 0,0:01:03.52,0:01:10.10,DEFAULT,,0,0,0,,{\r}{\kf110}Re{\kf29}mem{\kf22}~{\kf37}br{\kf132}ance,{\kf66} part{\kf29} of{\kf73} e{\kf22}very{\kf138} life
+Dialogue: 0,0:01:11.14,0:01:17.67,DEFAULT,,0,0,0,,{\r}{\kf109}Num'{\kf20}rous{\kf20}~{\kf20} re{\kf116}grets{\kf54}~,{\kf20} the{\kf61} art{\kf20} of{\kf54} pas{\kf20}sing{\kf139} time
+Dialogue: 0,0:01:18.71,0:01:25.25,DEFAULT,,0,0,0,,{\r}{\kf106}Not{\kf28} o{\kf28}ne{\kf28} for{\kf135}gets,{\kf21} spent{\kf64} nights{\kf28} of{\kf50} cha{\kf28}sing{\kf137} days
+Dialogue: 0,0:01:26.24,0:01:32.77,DEFAULT,,0,0,0,,{\r}{\kf107}E{\kf27}ter{\kf40}~{\kf20}nal{\kf113} rest{\kf47}~,{\kf27} to{\kf53} wit{\kf27}ness{\kf27} be{\kf27}ing{\kf27} e{\kf111}rased
+Dialogue: 0,0:01:33.53,0:01:36.37,DEFAULT,,0,0,0,,{\r}{\kf28}To{\kf57} wit{\kf21}ness{\kf28} be{\kf35}ing{\kf28} e{\kf87}rased
+Dialogue: 0,0:01:37.03,0:01:41.81,DEFAULT,,0,0,0,,{\r}{\kf22}It{\kf30} is{\kf82} pon{\kf37}~{\kf52}derous,{\kf37} wil{\kf22}ling{\kf30} to{\kf67} know{\kf30} my{\kf69} fate
+Dialogue: 0,0:01:42.66,0:01:47.77,DEFAULT,,0,0,0,,{\r}{\kf34}In{\kf26} its{\kf77} lon{\kf43}~{\kf60}gest{\kf26} lin{\kf34}ge{\kf26}ring{\kf60} while{\kf26} to{\kf26} wait{\kf73}~
+Dialogue: 0,0:01:48.34,0:01:53.31,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} can{\kf43} see{\kf22}~{\kf14}~{\kf14}~{\kf36}~{\kf65}~,{\kf22} me{\kf36}mo{\kf29}ry{\kf72} ta{\kf22}ken{\kf78} tolls
+Dialogue: 0,0:01:54.02,0:01:58.75,DEFAULT,,0,0,0,,{\r}{\kf24}I'm{\kf32} not{\kf79} rea{\kf32}~{\kf71}dy,{\kf32} rea{\kf32}dy{\kf39} to{\kf63} let{\kf24} them{\kf45} go
+Dialogue: 0,0:02:00.36,0:02:06.94,DEFAULT,,0,0,0,,{\r}{\kf105}Re{\kf35}mem{\kf35}~{\kf35}br{\kf133}ance,{\kf70} part{\kf28} of{\kf56} e{\kf28}very{\kf133} life
+Dialogue: 0,0:02:07.93,0:02:14.51,DEFAULT,,0,0,0,,{\r}{\kf107}Num'{\kf25}rous{\kf19}~{\kf31} re{\kf113}grets{\kf56}~,{\kf25} the{\kf50} art{\kf25} of{\kf63} pas{\kf25}sing{\kf119} time
+Dialogue: 0,0:02:15.55,0:02:22.13,DEFAULT,,0,0,0,,{\r}{\kf107}Not{\kf29} o{\kf29}ne{\kf29} for{\kf114}gets,{\kf29} spent{\kf72} nights{\kf29} of{\kf50} cha{\kf29}sing{\kf141} days
+Dialogue: 0,0:02:23.17,0:02:29.56,DEFAULT,,0,0,0,,{\r}{\kf94}E{\kf34}ter{\kf34}~{\kf27}nal{\kf114} rest{\kf47}~,{\kf27} to{\kf54} wit{\kf27}ness{\kf27} be{\kf27}ing{\kf27} e{\kf100}rased
+Dialogue: 0,0:03:06.66,0:03:13.43,DEFAULT,,0,0,0,,{\r}{\kf104}Re{\kf37}mem{\kf30}~{\kf30}br{\kf141}ance,{\kf67} part{\kf22} of{\kf74} e{\kf30}very{\kf30} life{\kf22}~{\kf90}~
+Dialogue: 0,0:03:14.28,0:03:20.72,DEFAULT,,0,0,0,,{\r}{\kf107}Num'{\kf29}ro{\kf29}us{\kf21} re{\kf114}grets{\kf43}~,{\kf29} the{\kf57} art{\kf21} of{\kf29} pas{\kf29}~{\kf29}sing{\kf21} time{\kf86}~
+Dialogue: 0,0:03:21.43,0:03:25.45,DEFAULT,,0,0,0,,{\r}{\kf35}The{\kf35} art{\kf28}~{\kf21} of{\kf21} pas{\kf28}~{\kf28}sing{\kf49} time{\kf14}~{\kf143}~

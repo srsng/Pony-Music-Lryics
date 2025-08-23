@@ -1,76 +1,83 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: I'll Fly Higher (Scootaloo's Theme)
+Artist: AcousticBrony, MandoPony
+Original Timing: mylittlekaraoke.com by Yocchan
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:57.66,0:00:59.99,DEFAULT,,0,0,0,,{\kf21}Some{\kf17} peo{\kf26}ple{\kf46} call{\kf17} me{\kf17} li{\kf51}ttle
-Dialogue: 0,0:01:00.29,0:01:02.71,DEFAULT,,0,0,0,,{\kf26}Some{\kf17} peo{\kf26}ple{\kf34} call{\kf21} me{\kf34} small{\kf38}~
-Dialogue: 0,0:01:03.04,0:01:04.30,DEFAULT,,0,0,0,,{\kf17}But{\kf17} gi{\kf13}ven{\kf13} the{\kf42} chance
-Dialogue: 0,0:01:04.34,0:01:07.51,DEFAULT,,0,0,0,,{\kf9}I'll{\kf38} rise{\kf13} up{\kf30} and{\kf30} stand{\kf17} a{\kf30}bove{\kf26} them{\kf51} all{\kf51}~
-Dialogue: 0,0:01:08.31,0:01:10.36,DEFAULT,,0,0,0,,{\kf26}Some{\kf17} peo{\kf21}ple{\kf30} put{\kf30} me{\kf51} down
-Dialogue: 0,0:01:10.98,0:01:13.53,DEFAULT,,0,0,0,,{\kf26}Some{\kf17} peo{\kf17}ple{\kf13} kick{\kf26} me{\kf17} a{\kf51}round{\kf51}~
-Dialogue: 0,0:01:13.70,0:01:15.45,DEFAULT,,0,0,0,,{\kf13}But{\kf17} be{\kf21}lieve{\kf17} me{\kf21} when{\kf30} I{\kf13} tell{\kf9} you
-Dialogue: 0,0:01:15.58,0:01:17.71,DEFAULT,,0,0,0,,{\kf9}I'll{\kf13} be{\kf13} the{\kf21} one{\kf13} to{\kf26} rule{\kf21} this{\kf51} town
-Dialogue: 0,0:01:18.21,0:01:20.22,DEFAULT,,0,0,0,,{\kf13}But{\kf21} they{\kf38} all{\kf38} say{\kf51} "No"
-Dialogue: 0,0:01:20.88,0:01:23.56,DEFAULT,,0,0,0,,{\kf17}And{\kf26} they{\kf42} say{\kf26} "You{\kf51} ca{\kf26}n't{\kf51} go"
-Dialogue: 0,0:01:23.81,0:01:25.14,DEFAULT,,0,0,0,,{\kf9}But{\kf17} I{\kf21} won't{\kf21} let{\kf26} them
-Dialogue: 0,0:01:25.23,0:01:29.07,DEFAULT,,0,0,0,,{\kf17}De{\kf26}cide{\kf13} who{\kf26} I{\kf26} should{\kf51} be{\kf201}~
-Dialogue: 0,0:01:29.41,0:01:31.58,DEFAULT,,0,0,0,,{\kf17}Co{\kf17}lour{\kf13}ful{\kf34} rain{\kf26}bows{\kf21} catch{\kf30} my{\kf34} eye
-Dialogue: 0,0:01:31.75,0:01:34.09,DEFAULT,,0,0,0,,{\kf13}When{\kf13} I{\kf13} see{\kf26} you{\kf26} fly{\kf17}~{\kf17} a{\kf26}cross{\kf26} the{\kf13} sky
-Dialogue: 0,0:01:34.25,0:01:36.68,DEFAULT,,0,0,0,,{\kf13}You're{\kf13} like{\kf13} a{\kf21} drug{\kf21} that{\kf21} calms{\kf13} the{\kf34} mind{\kf59}~
-Dialogue: 0,0:01:36.93,0:01:39.43,DEFAULT,,0,0,0,,{\kf13}You're{\kf13} like{\kf13} a{\kf21} drug{\kf21} that{\kf21} calms{\kf13} the{\kf34} mind{\kf67}~
-Dialogue: 0,0:01:39.93,0:01:42.44,DEFAULT,,0,0,0,,{\kf13}I'll{\kf13} flap{\kf30} my{\kf26} wings{\kf13} and{\kf13} get{\kf26} off{\kf13} of{\kf13} the{\kf51} floor
-Dialogue: 0,0:01:42.78,0:01:44.78,DEFAULT,,0,0,0,,{\kf13}I'll{\kf30} fly{\kf34} hi{\kf13}gher{\kf9} than{\kf34} e{\kf13}ver{\kf17} be{\kf17}fore
-Dialogue: 0,0:01:44.91,0:01:47.29,DEFAULT,,0,0,0,,{\kf13}Wind{\kf13} in{\kf13} my{\kf13} hair{\kf13} as{\kf17} I{\kf26} start{\kf13} to{\kf38} so{\kf51}ar
-Dialogue: 0,0:01:47.58,0:01:50.80,DEFAULT,,0,0,0,,{\kf13}Wind{\kf13} in{\kf13} my{\kf13} hair{\kf13} as{\kf17} I{\kf26} start{\kf13} to{\kf172} soar
-Dialogue: 0,0:01:56.27,0:01:58.69,DEFAULT,,0,0,0,,{\kf26}Some{\kf17} pe{\kf26}ople{\kf38} call{\kf17} me{\kf13} a{\kf21} chi{\kf51}cken
-Dialogue: 0,0:01:58.94,0:02:01.49,DEFAULT,,0,0,0,,{\kf26}Some{\kf17} pe{\kf34}ople{\kf26} say{\kf13} that{\kf17} I{\kf38} can't{\kf42}~
-Dialogue: 0,0:02:01.66,0:02:03.66,DEFAULT,,0,0,0,,{\kf26}But{\kf17} what{\kf21} these{\kf34} peo{\kf84}ple
-Dialogue: 0,0:02:04.00,0:02:06.34,DEFAULT,,0,0,0,,{\kf21}Fail{\kf17} to{\kf38} un{\kf34}der{\kf109}stand
-Dialogue: 0,0:02:07.01,0:02:09.60,DEFAULT,,0,0,0,,{\kf30}Is{\kf13} that{\kf30} I'll{\kf30} go{\kf30} round{\kf30} with{\kf30} my{\kf42} friends
-Dialogue: 0,0:02:09.68,0:02:12.19,DEFAULT,,0,0,0,,{\kf13}Hand{\kf13} in{\kf26} hand{\kf17} our{\kf34} friend{\kf26}ship{\kf13} will{\kf21} ne{\kf30}ver{\kf26} end
-Dialogue: 0,0:02:12.35,0:02:14.44,DEFAULT,,0,0,0,,{\kf30}Hold{\kf34} on{\kf17} this{\kf17} could{\kf13} get{\kf17} nos{\kf34}tal{\kf13}gic
-Dialogue: 0,0:02:14.61,0:02:17.20,DEFAULT,,0,0,0,,{\kf13}As{\kf13} we{\kf17} look{\kf17} back{\kf30} and{\kf21} see{\kf13} that{\kf17} friend{\kf13}ship{\kf13} is{\kf34} ma{\kf13}gic
-Dialogue: 0,0:02:17.70,0:02:20.21,DEFAULT,,0,0,0,,{\kf26}Look{\kf34} here{\kf13} we're{\kf13} three{\kf17} li{\kf17}ttle{\kf34} po{\kf63}nies
-Dialogue: 0,0:02:20.38,0:02:22.88,DEFAULT,,0,0,0,,{\kf17}Rea{\kf13}dy{\kf26} to{\kf26} sing{\kf13} for{\kf17} this{\kf34} crowd{\kf67}~
-Dialogue: 0,0:02:23.05,0:02:25.39,DEFAULT,,0,0,0,,{\kf17}Li{\kf13}sten{\kf13} up{\kf13} 'cause{\kf13} here's{\kf30} our{\kf34} sto{\kf51}ry
-Dialogue: 0,0:02:25.56,0:02:27.90,DEFAULT,,0,0,0,,{\kf13}We're{\kf17} go{\kf13}nna{\kf13} sing{\kf17} it{\kf17} ve{\kf26}ry{\kf67} loud
-Dialogue: 0,0:02:28.06,0:02:30.24,DEFAULT,,0,0,0,,{\kf17}Co{\kf17}lour{\kf13}ful{\kf34} rain{\kf26}bows{\kf21} catch{\kf30} my{\kf34} eye
-Dialogue: 0,0:02:30.40,0:02:32.74,DEFAULT,,0,0,0,,{\kf13} When{\kf13} I{\kf13} see{\kf26} you{\kf21} fly{\kf21}~{\kf17} a{\kf26}cross{\kf26} the{\kf13} sky
-Dialogue: 0,0:02:32.91,0:02:35.33,DEFAULT,,0,0,0,,{\kf13}You're{\kf13} like{\kf13} a{\kf21} drug{\kf21} that{\kf21} calms{\kf13} the{\kf34} mind{\kf59}~
-Dialogue: 0,0:02:35.58,0:02:38.09,DEFAULT,,0,0,0,,{\kf13}You're{\kf13} like{\kf13} a{\kf21} drug{\kf21} that{\kf21} calms{\kf13} the{\kf34} mind{\kf67}~
-Dialogue: 0,0:02:38.59,0:02:41.10,DEFAULT,,0,0,0,,{\kf13}I'll{\kf13} flap{\kf30} my{\kf26} wings{\kf13} and{\kf13} get{\kf26} off{\kf13} of{\kf13} the{\kf51} floor
-Dialogue: 0,0:02:41.43,0:02:43.44,DEFAULT,,0,0,0,,{\kf13}I'll{\kf26} fly{\kf34} hi{\kf13}gher{\kf9} than{\kf34} e{\kf13}ver{\kf17} be{\kf17}fore
-Dialogue: 0,0:02:43.56,0:02:45.94,DEFAULT,,0,0,0,,{\kf13}Wind{\kf13} in{\kf13} my{\kf13} hair{\kf13} as{\kf17} I{\kf26} start{\kf13} to{\kf38} so{\kf51}ar
-Dialogue: 0,0:02:46.24,0:02:49.45,DEFAULT,,0,0,0,,{\kf13}Wind{\kf13} in{\kf13} my{\kf13} hair{\kf13} as{\kf17} I{\kf26} start{\kf13} to{\kf172} soar
-Dialogue: 0,0:02:49.62,0:02:52.21,DEFAULT,,0,0,0,,{\kf26}I{\kf26} know{\kf26} I{\kf13} know{\kf13} if{\kf13} you{\kf13} give{\kf13} me{\kf13} the{\kf30} chance
-Dialogue: 0,0:02:52.29,0:02:54.88,DEFAULT,,0,0,0,,{\kf26}I{\kf26} know{\kf26} I{\kf13} know{\kf13} if{\kf13} you{\kf13} give{\kf13} me{\kf13} the{\kf30} chance
-Dialogue: 0,0:02:54.97,0:02:57.56,DEFAULT,,0,0,0,,{\kf26}I{\kf26} know{\kf26} I{\kf13} know{\kf13} if{\kf13} you{\kf13} give{\kf13} me{\kf13} the{\kf30} chance
-Dialogue: 0,0:02:57.64,0:03:00.23,DEFAULT,,0,0,0,,{\kf26}I{\kf26} know{\kf26} I{\kf13} know{\kf13} if{\kf13} you{\kf13} give{\kf13} me{\kf13} the{\kf30} chance
-Dialogue: 0,0:03:00.32,0:03:02.82,DEFAULT,,0,0,0,,{\kf30}I'll{\kf26} be{\kf13} the{\kf21} one{\kf13} who{\kf17} stands{\kf17} up{\kf34} tall
-Dialogue: 0,0:03:02.99,0:03:05.50,DEFAULT,,0,0,0,,{\kf30}The{\kf26} one{\kf13} who{\kf34} ri{\kf13}ses{\kf17} a{\kf17}bove{\kf17} them{\kf26} all
-Dialogue: 0,0:03:05.66,0:03:09.01,DEFAULT,,0,0,0,,{\kf30}The{\kf26} one{\kf42} who{\kf26} gets{\kf42} to{\kf101} be
-Dialogue: 0,0:03:09.34,0:03:17.36,DEFAULT,,0,0,0,,{\kf34}Some{\kf34}~{\kf34}bo{\kf34}~{\kf669}dy
-Dialogue: 0,0:04:38.74,0:04:40.92,DEFAULT,,0,0,0,,{\kf17}Co{\kf17}lour{\kf13}ful{\kf34} rain{\kf26}bows{\kf21} catch{\kf30} my{\kf34} eye
-Dialogue: 0,0:04:41.08,0:04:43.42,DEFAULT,,0,0,0,,{\kf13}When{\kf13} I{\kf13} see{\kf26} you{\kf21} fly{\kf21}~{\kf17} a{\kf26}cross{\kf26} the{\kf13} sky
-Dialogue: 0,0:04:43.59,0:04:46.01,DEFAULT,,0,0,0,,{\kf13}You're{\kf13} like{\kf13} a{\kf21} drug{\kf21} that{\kf21} calms{\kf13} the{\kf34} mind{\kf59}~
-Dialogue: 0,0:04:46.26,0:04:48.77,DEFAULT,,0,0,0,,{\kf13}You're{\kf13} like{\kf13} a{\kf21} drug{\kf21} that{\kf21} calms{\kf13} the{\kf34} mind{\kf67}~
-Dialogue: 0,0:04:49.27,0:04:51.95,DEFAULT,,0,0,0,,{\kf13}I'll{\kf13} flap{\kf30} my{\kf26} wings{\kf13} and{\kf13} get{\kf26} off{\kf13} of{\kf13} the{\kf38} floor{\kf30} ~
-Dialogue: 0,0:04:52.11,0:04:54.12,DEFAULT,,0,0,0,,{\kf13}I'll{\kf26} fly{\kf34} hi{\kf13}gher{\kf9} than{\kf34} e{\kf13}ver{\kf17} be{\kf17}fore
-Dialogue: 0,0:04:54.24,0:04:56.63,DEFAULT,,0,0,0,,{\kf13}Wind{\kf13} in{\kf13} my{\kf13} hair{\kf13} as{\kf17} I{\kf26} start{\kf13} to{\kf38} soar{\kf51}~
-Dialogue: 0,0:04:56.92,0:04:59.63,DEFAULT,,0,0,0,,{\kf13}Wind{\kf13} in{\kf13} my{\kf13} hair{\kf13} as{\kf17} I{\kf26} start{\kf13} to{\kf59} soar{\kf67}~
-Dialogue: 0,0:05:00.13,0:05:02.31,DEFAULT,,0,0,0,,{\kf17}Co{\kf17}lour{\kf13}ful{\kf34} rain{\kf26}bows{\kf21} catch{\kf30} my{\kf34} eye
-Dialogue: 0,0:05:02.47,0:05:04.81,DEFAULT,,0,0,0,,{\kf13}When{\kf13} I{\kf13} see{\kf26} you{\kf21} fly{\kf21}~{\kf17} a{\kf26}cross{\kf26} the{\kf13} sky
-Dialogue: 0,0:05:04.98,0:05:07.40,DEFAULT,,0,0,0,,{\kf13}You're{\kf13} like{\kf13} a{\kf21} drug{\kf21} that{\kf21} calms{\kf13} the{\kf34} mind{\kf59}~
-Dialogue: 0,0:05:07.49,0:05:09.99,DEFAULT,,0,0,0,,{\kf13}You're{\kf13} like{\kf13} a{\kf21} drug{\kf21} that{\kf21} calms{\kf13} the{\kf34} mind{\kf67}~
-Dialogue: 0,0:05:10.50,0:05:13.17,DEFAULT,,0,0,0,,{\kf13}I'll{\kf13} flap{\kf30} my{\kf26} wings{\kf13} and{\kf13} get{\kf26} off{\kf13} of{\kf13} the{\kf38} floor{\kf30}~
-Dialogue: 0,0:05:13.34,0:05:15.34,DEFAULT,,0,0,0,,{\kf13}I'll{\kf26} fly{\kf34} hi{\kf13}gher{\kf9} than{\kf34} e{\kf13}ver{\kf17} be{\kf17}fore
-Dialogue: 0,0:05:15.63,0:05:18.02,DEFAULT,,0,0,0,,{\kf13}Wind{\kf13} in{\kf13} my{\kf13} hair{\kf13} as{\kf17} I{\kf26} start{\kf13} to{\kf38} soar{\kf51}~
-Dialogue: 0,0:05:18.27,0:05:28.04,DEFAULT,,0,0,0,,{\kf13}Wind{\kf13} in{\kf13} my{\kf13} hair{\kf13} as{\kf17} I{\kf26} start{\kf13} to{\kf59} soar{\kf67}~{\kf17}~{\kf285}~{\kf268}~{\kf134}~
-Dialogue: 0,0:05:30.63,0:05:39.57,DEFAULT,,0,0,0,,{\kf42}Watch{\kf42} me{\kf794} soar
+Dialogue: 0,0:00:57.66,0:00:60.00,DEFAULT,,0,0,0,,{\r}{\kf25}Some{\kf20} peo{\kf31}ple{\kf56} call{\kf20} me{\kf20} li{\kf62}ttle
+Dialogue: 0,0:01:00.29,0:01:02.72,DEFAULT,,0,0,0,,{\r}{\kf32}Some{\kf21} peo{\kf32}ple{\kf42} call{\kf26} me{\kf42} small{\kf47}~
+Dialogue: 0,0:01:03.05,0:01:04.30,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf21} gi{\kf16}ven{\kf16} the{\kf51} chance
+Dialogue: 0,0:01:04.34,0:01:07.52,DEFAULT,,0,0,0,,{\r}{\kf10}I'll{\kf41} rise{\kf14} up{\kf32} and{\kf32} stand{\kf18} a{\kf32}bove{\kf28} them{\kf55} all{\kf56}~
+Dialogue: 0,0:01:08.31,0:01:10.36,DEFAULT,,0,0,0,,{\r}{\kf30}Some{\kf20} peo{\kf25}ple{\kf35} put{\kf35} me{\kf60} down
+Dialogue: 0,0:01:10.99,0:01:13.54,DEFAULT,,0,0,0,,{\r}{\kf30}Some{\kf20} peo{\kf20}ple{\kf15} kick{\kf30} me{\kf20} a{\kf60}round{\kf60}~
+Dialogue: 0,0:01:13.70,0:01:15.46,DEFAULT,,0,0,0,,{\r}{\kf16}But{\kf21} be{\kf27}lieve{\kf21} me{\kf27} when{\kf37} I{\kf16} tell{\kf10} you
+Dialogue: 0,0:01:15.58,0:01:17.71,DEFAULT,,0,0,0,,{\r}{\kf11}I'll{\kf16} be{\kf16} the{\kf27} one{\kf16} to{\kf33} rule{\kf27} this{\kf67} town
+Dialogue: 0,0:01:18.21,0:01:20.22,DEFAULT,,0,0,0,,{\r}{\kf16}But{\kf26} they{\kf48} all{\kf48} say{\kf63} "No"
+Dialogue: 0,0:01:20.89,0:01:23.56,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf29} they{\kf48} say{\kf29} "You{\kf57} ca{\kf29}n't{\kf56} go"
+Dialogue: 0,0:01:23.81,0:01:25.15,DEFAULT,,0,0,0,,{\r}{\kf12}But{\kf24} I{\kf30} won't{\kf30} let{\kf38} them
+Dialogue: 0,0:01:25.23,0:01:29.08,DEFAULT,,0,0,0,,{\r}{\kf18}De{\kf27}cide{\kf14} who{\kf27} I{\kf27} should{\kf54} be{\kf217}~
+Dialogue: 0,0:01:29.41,0:01:31.58,DEFAULT,,0,0,0,,{\r}{\kf19}Co{\kf19}lour{\kf14}ful{\kf39} rain{\kf29}bows{\kf24} catch{\kf34} my{\kf39} eye
+Dialogue: 0,0:01:31.75,0:01:34.09,DEFAULT,,0,0,0,,{\r}{\kf16}When{\kf16} I{\kf16} see{\kf32} you{\kf32} fly{\kf21}~{\kf21} a{\kf32}cross{\kf32} the{\kf16} sky
+Dialogue: 0,0:01:34.26,0:01:36.68,DEFAULT,,0,0,0,,{\r}{\kf15}You're{\kf15} like{\kf15} a{\kf25} drug{\kf25} that{\kf25} calms{\kf15} the{\kf40} mind{\kf67}~
+Dialogue: 0,0:01:36.93,0:01:39.44,DEFAULT,,0,0,0,,{\r}{\kf15}You're{\kf15} like{\kf15} a{\kf25} drug{\kf25} that{\kf25} calms{\kf15} the{\kf39} mind{\kf77}~
+Dialogue: 0,0:01:39.94,0:01:42.45,DEFAULT,,0,0,0,,{\r}{\kf15}I'll{\kf15} flap{\kf36} my{\kf31} wings{\kf15} and{\kf15} get{\kf31} off{\kf15} of{\kf15} the{\kf63} floor
+Dialogue: 0,0:01:42.78,0:01:44.79,DEFAULT,,0,0,0,,{\r}{\kf14}I'll{\kf34} fly{\kf38} hi{\kf14}gher{\kf10} than{\kf38} e{\kf14}ver{\kf19} be{\kf20}fore
+Dialogue: 0,0:01:44.91,0:01:47.29,DEFAULT,,0,0,0,,{\r}{\kf15}Wind{\kf15} in{\kf15} my{\kf15} hair{\kf15} as{\kf19} I{\kf29} start{\kf15} to{\kf44} so{\kf56}ar
+Dialogue: 0,0:01:47.58,0:01:50.80,DEFAULT,,0,0,0,,{\r}{\kf14}Wind{\kf14} in{\kf14} my{\kf14} hair{\kf14} as{\kf19} I{\kf28} start{\kf14} to{\kf191} soar
+Dialogue: 0,0:01:56.27,0:01:58.70,DEFAULT,,0,0,0,,{\r}{\kf30}Some{\kf20} pe{\kf30}ople{\kf44} call{\kf20} me{\kf15} a{\kf25} chi{\kf58}cken
+Dialogue: 0,0:01:58.95,0:02:01.50,DEFAULT,,0,0,0,,{\r}{\kf31}Some{\kf20} pe{\kf41}ople{\kf31} say{\kf15} that{\kf20} I{\kf46} can't{\kf51}~
+Dialogue: 0,0:02:01.66,0:02:03.67,DEFAULT,,0,0,0,,{\r}{\kf28}But{\kf19} what{\kf23} these{\kf37} peo{\kf94}ple
+Dialogue: 0,0:02:04.00,0:02:06.34,DEFAULT,,0,0,0,,{\r}{\kf22}Fail{\kf18} to{\kf40} un{\kf36}der{\kf118}stand
+Dialogue: 0,0:02:07.01,0:02:09.60,DEFAULT,,0,0,0,,{\r}{\kf33}Is{\kf14} that{\kf33} I'll{\kf33} go{\kf33} round{\kf33} with{\kf33} my{\kf47} friends
+Dialogue: 0,0:02:09.69,0:02:12.19,DEFAULT,,0,0,0,,{\r}{\kf15}Hand{\kf15} in{\kf30} hand{\kf20} our{\kf39} friend{\kf30}ship{\kf15} will{\kf25} ne{\kf34}ver{\kf28} end
+Dialogue: 0,0:02:12.36,0:02:14.45,DEFAULT,,0,0,0,,{\r}{\kf36}Hold{\kf41} on{\kf20} this{\kf20} could{\kf15} get{\kf20} nos{\kf41}tal{\kf16}gic
+Dialogue: 0,0:02:14.62,0:02:17.21,DEFAULT,,0,0,0,,{\r}{\kf16}As{\kf16} we{\kf21} look{\kf21} back{\kf36} and{\kf26} see{\kf16} that{\kf21} friend{\kf16}ship{\kf16} is{\kf41} ma{\kf13}gic
+Dialogue: 0,0:02:17.71,0:02:20.21,DEFAULT,,0,0,0,,{\r}{\kf30}Look{\kf39} here{\kf15} we're{\kf15} three{\kf20} li{\kf20}ttle{\kf39} po{\kf73}nies
+Dialogue: 0,0:02:20.38,0:02:22.89,DEFAULT,,0,0,0,,{\r}{\kf20}Rea{\kf15}dy{\kf30} to{\kf30} sing{\kf15} for{\kf20} this{\kf40} crowd{\kf81}~
+Dialogue: 0,0:02:23.05,0:02:25.39,DEFAULT,,0,0,0,,{\r}{\kf22}Li{\kf16}sten{\kf16} up{\kf16} 'cause{\kf16} here's{\kf38} our{\kf44} sto{\kf66}ry
+Dialogue: 0,0:02:25.56,0:02:27.90,DEFAULT,,0,0,0,,{\r}{\kf16}We're{\kf22} go{\kf16}nna{\kf16} sing{\kf22} it{\kf22} ve{\kf33}ry{\kf87} loud
+Dialogue: 0,0:02:28.07,0:02:30.24,DEFAULT,,0,0,0,,{\r}{\kf19}Co{\kf19}lour{\kf14}ful{\kf39} rain{\kf29}bows{\kf24} catch{\kf34} my{\kf39} eye
+Dialogue: 0,0:02:30.41,0:02:32.75,DEFAULT,,0,0,0,,{\r}{\kf16} When{\kf16} I{\kf16} see{\kf32} you{\kf27} fly{\kf27}~{\kf21} a{\kf32}cross{\kf32} the{\kf15} sky
+Dialogue: 0,0:02:32.91,0:02:35.34,DEFAULT,,0,0,0,,{\r}{\kf15}You're{\kf15} like{\kf15} a{\kf25} drug{\kf25} that{\kf25} calms{\kf15} the{\kf40} mind{\kf67}~
+Dialogue: 0,0:02:35.59,0:02:38.09,DEFAULT,,0,0,0,,{\r}{\kf15}You're{\kf15} like{\kf15} a{\kf25} drug{\kf25} that{\kf25} calms{\kf15} the{\kf39} mind{\kf77}~
+Dialogue: 0,0:02:38.60,0:02:41.10,DEFAULT,,0,0,0,,{\r}{\kf15}I'll{\kf15} flap{\kf36} my{\kf31} wings{\kf15} and{\kf15} get{\kf31} off{\kf15} of{\kf15} the{\kf63} floor
+Dialogue: 0,0:02:41.44,0:02:43.44,DEFAULT,,0,0,0,,{\r}{\kf15}I'll{\kf29} fly{\kf39} hi{\kf15}gher{\kf10} than{\kf39} e{\kf15}ver{\kf20} be{\kf19}fore
+Dialogue: 0,0:02:43.57,0:02:45.95,DEFAULT,,0,0,0,,{\r}{\kf15}Wind{\kf15} in{\kf15} my{\kf15} hair{\kf15} as{\kf19} I{\kf29} start{\kf15} to{\kf44} so{\kf56}ar
+Dialogue: 0,0:02:46.24,0:02:49.46,DEFAULT,,0,0,0,,{\r}{\kf14}Wind{\kf14} in{\kf14} my{\kf14} hair{\kf14} as{\kf19} I{\kf28} start{\kf14} to{\kf191} soar
+Dialogue: 0,0:02:49.63,0:02:52.22,DEFAULT,,0,0,0,,{\r}{\kf36}I{\kf36} know{\kf36} I{\kf18} know{\kf18} if{\kf18} you{\kf18} give{\kf18} me{\kf18} the{\kf43} chance
+Dialogue: 0,0:02:52.30,0:02:54.89,DEFAULT,,0,0,0,,{\r}{\kf36}I{\kf36} know{\kf36} I{\kf18} know{\kf18} if{\kf18} you{\kf18} give{\kf18} me{\kf18} the{\kf43} chance
+Dialogue: 0,0:02:54.97,0:02:57.56,DEFAULT,,0,0,0,,{\r}{\kf36}I{\kf36} know{\kf36} I{\kf18} know{\kf18} if{\kf18} you{\kf18} give{\kf18} me{\kf18} the{\kf43} chance
+Dialogue: 0,0:02:57.65,0:03:00.24,DEFAULT,,0,0,0,,{\r}{\kf36}I{\kf36} know{\kf36} I{\kf18} know{\kf18} if{\kf18} you{\kf18} give{\kf18} me{\kf18} the{\kf43} chance
+Dialogue: 0,0:03:00.32,0:03:02.83,DEFAULT,,0,0,0,,{\r}{\kf44}I'll{\kf38} be{\kf19} the{\kf31} one{\kf19} who{\kf25} stands{\kf25} up{\kf50} tall
+Dialogue: 0,0:03:02.99,0:03:05.50,DEFAULT,,0,0,0,,{\r}{\kf39}The{\kf33} one{\kf17} who{\kf45} ri{\kf17}ses{\kf22} a{\kf22}bove{\kf22} them{\kf34} all
+Dialogue: 0,0:03:05.67,0:03:09.01,DEFAULT,,0,0,0,,{\r}{\kf37}The{\kf32} one{\kf53} who{\kf32} gets{\kf53} to{\kf127} be
+Dialogue: 0,0:03:09.34,0:03:17.37,DEFAULT,,0,0,0,,{\r}{\kf33}Some{\kf33}~{\kf33}bo{\kf33}~{\kf670}dy
+Dialogue: 0,0:04:38.75,0:04:40.92,DEFAULT,,0,0,0,,{\r}{\kf19}Co{\kf19}lour{\kf14}ful{\kf39} rain{\kf29}bows{\kf24} catch{\kf34} my{\kf39} eye
+Dialogue: 0,0:04:41.09,0:04:43.43,DEFAULT,,0,0,0,,{\r}{\kf16}When{\kf16} I{\kf16} see{\kf32} you{\kf27} fly{\kf27}~{\kf21} a{\kf32}cross{\kf32} the{\kf15} sky
+Dialogue: 0,0:04:43.60,0:04:46.02,DEFAULT,,0,0,0,,{\r}{\kf15}You're{\kf15} like{\kf15} a{\kf25} drug{\kf25} that{\kf25} calms{\kf15} the{\kf40} mind{\kf67}~
+Dialogue: 0,0:04:46.27,0:04:48.78,DEFAULT,,0,0,0,,{\r}{\kf15}You're{\kf15} like{\kf15} a{\kf25} drug{\kf25} that{\kf25} calms{\kf15} the{\kf39} mind{\kf77}~
+Dialogue: 0,0:04:49.28,0:04:51.95,DEFAULT,,0,0,0,,{\r}{\kf15}I'll{\kf15} flap{\kf35} my{\kf30} wings{\kf15} and{\kf15} get{\kf30} off{\kf15} of{\kf15} the{\kf45} floor{\kf37} ~
+Dialogue: 0,0:04:52.12,0:04:54.12,DEFAULT,,0,0,0,,{\r}{\kf15}I'll{\kf29} fly{\kf39} hi{\kf15}gher{\kf10} than{\kf39} e{\kf15}ver{\kf20} be{\kf19}fore
+Dialogue: 0,0:04:54.25,0:04:56.63,DEFAULT,,0,0,0,,{\r}{\kf15}Wind{\kf15} in{\kf15} my{\kf15} hair{\kf15} as{\kf19} I{\kf29} start{\kf15} to{\kf44} soar{\kf56}~
+Dialogue: 0,0:04:56.92,0:04:59.64,DEFAULT,,0,0,0,,{\r}{\kf14}Wind{\kf14} in{\kf14} my{\kf14} hair{\kf14} as{\kf19} I{\kf28} start{\kf14} to{\kf66} soar{\kf75}~
+Dialogue: 0,0:05:00.14,0:05:02.31,DEFAULT,,0,0,0,,{\r}{\kf19}Co{\kf19}lour{\kf14}ful{\kf39} rain{\kf29}bows{\kf24} catch{\kf34} my{\kf39} eye
+Dialogue: 0,0:05:02.48,0:05:04.82,DEFAULT,,0,0,0,,{\r}{\kf16}When{\kf16} I{\kf16} see{\kf32} you{\kf27} fly{\kf27}~{\kf21} a{\kf32}cross{\kf32} the{\kf15} sky
+Dialogue: 0,0:05:04.99,0:05:07.41,DEFAULT,,0,0,0,,{\r}{\kf15}You're{\kf15} like{\kf15} a{\kf25} drug{\kf25} that{\kf25} calms{\kf15} the{\kf40} mind{\kf67}~
+Dialogue: 0,0:05:07.49,0:05:10.00,DEFAULT,,0,0,0,,{\r}{\kf15}You're{\kf15} like{\kf15} a{\kf25} drug{\kf25} that{\kf25} calms{\kf15} the{\kf39} mind{\kf77}~
+Dialogue: 0,0:05:10.50,0:05:13.17,DEFAULT,,0,0,0,,{\r}{\kf15}I'll{\kf15} flap{\kf35} my{\kf30} wings{\kf15} and{\kf15} get{\kf30} off{\kf15} of{\kf15} the{\kf45} floor{\kf37}~
+Dialogue: 0,0:05:13.34,0:05:15.35,DEFAULT,,0,0,0,,{\r}{\kf15}I'll{\kf29} fly{\kf39} hi{\kf15}gher{\kf10} than{\kf39} e{\kf15}ver{\kf20} be{\kf19}fore
+Dialogue: 0,0:05:15.64,0:05:18.02,DEFAULT,,0,0,0,,{\r}{\kf15}Wind{\kf15} in{\kf15} my{\kf15} hair{\kf15} as{\kf19} I{\kf29} start{\kf15} to{\kf44} soar{\kf56}~
+Dialogue: 0,0:05:18.27,0:05:28.05,DEFAULT,,0,0,0,,{\r}{\kf13}Wind{\kf13} in{\kf13} my{\kf13} hair{\kf13} as{\kf17} I{\kf26} start{\kf13} to{\kf61} soar{\kf69}~{\kf17}~{\kf294}~{\kf277}~{\kf139}~
+Dialogue: 0,0:05:30.64,0:05:39.58,DEFAULT,,0,0,0,,{\r}{\kf43}Watch{\kf43} me{\kf808} soar

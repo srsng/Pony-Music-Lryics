@@ -1,61 +1,68 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: It's Ok
+Artist: Acoustic Brony & Mysteriousbronie
+Original Timing: mylittlekaraoke.com by RD1042
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:50.33,0:00:54.40,DEFAULT,,0,0,0,,{\kf27}A{\kf44}no{\kf22}ther{\kf53} night{\kf14} I{\kf79} spend{\kf14} a{\kf87}lone
-Dialogue: 0,0:00:57.70,0:01:04.11,DEFAULT,,0,0,0,,{\kf35}A{\kf35}no{\kf14}ther{\kf44} si{\kf35}lent{\kf27} ma{\kf53}-are{\kf44} forced{\kf18} out{\kf35} in{\kf100} the{\kf92} cold
-Dialogue: 0,0:01:05.16,0:01:08.06,DEFAULT,,0,0,0,,{\kf35}My{\kf40} mind{\kf14} is{\kf48} left{\kf18} to{\kf35} won{\kf53}der
-Dialogue: 0,0:01:08.80,0:01:11.92,DEFAULT,,0,0,0,,{\kf18}When{\kf18} do{\kf48} my{\kf40} dreams{\kf48} come{\kf96} true
-Dialogue: 0,0:01:12.48,0:01:15.56,DEFAULT,,0,0,0,,{\kf18}This{\kf35} sta{\kf27}rry{\kf35} ni{\kf18}-ight{\kf18} we're{\kf31} un{\kf57}der
-Dialogue: 0,0:01:16.21,0:01:18.98,DEFAULT,,0,0,0,,{\kf14}Are{\kf9} the{\kf61} stars{\kf44} drea{\kf48}ming{\kf53} too
-Dialogue: 0,0:01:19.16,0:01:21.89,DEFAULT,,0,0,0,,{\kf22}And{\kf70} I{\kf44} kno{\kf22}-ow{\kf74} now
-Dialogue: 0,0:01:22.67,0:01:25.79,DEFAULT,,0,0,0,,{\kf18}The{\kf83} truth{\kf57} we{\kf14}-e{\kf92} seek
-Dialogue: 0,0:01:26.31,0:01:29.65,DEFAULT,,0,0,0,,{\kf14}In{\kf14} this{\kf87} lone{\kf53}ly{\kf31}-y{\kf96} night
-Dialogue: 0,0:01:30.64,0:01:32.99,DEFAULT,,0,0,0,,{\kf9}Is{\kf27}n't{\kf27} quite{\kf44} so{\kf74} bleak
-Dialogue: 0,0:01:33.25,0:01:36.37,DEFAULT,,0,0,0,,{\kf22}It's{\kf35} O{\kf222}k
-Dialogue: 0,0:01:37.02,0:01:39.83,DEFAULT,,0,0,0,,{\kf27}I'm{\kf44} right{\kf204} here
-Dialogue: 0,0:01:40.61,0:01:43.82,DEFAULT,,0,0,0,,{\kf31}Don't{\kf35} you{\kf31} e{\kf40}ver{\kf35} feel{\kf31} a{\kf87}lone
-Dialogue: 0,0:01:44.34,0:01:47.64,DEFAULT,,0,0,0,,{\kf27}If{\kf31} you{\kf35} e{\kf40}ver{\kf35} need{\kf14} a{\kf44} shoul{\kf61}der
-Dialogue: 0,0:01:47.98,0:01:51.41,DEFAULT,,0,0,0,,{\kf40}To{\kf48} cry{\kf239} on
-Dialogue: 0,0:01:51.71,0:01:54.75,DEFAULT,,0,0,0,,{\kf27}Come{\kf40} find{\kf217} me
-Dialogue: 0,0:01:55.40,0:01:58.21,DEFAULT,,0,0,0,,{\kf35}You're{\kf44} not{\kf53} dif{\kf22}fer{\kf118}ent
-Dialogue: 0,0:01:58.82,0:02:02.77,DEFAULT,,0,0,0,,{\kf18}We're{\kf40} a-{\kf22}all{\kf18} the{\kf18}-e{\kf57} sa-{\kf27}a-{\kf170}ame
-Dialogue: 0,0:02:07.84,0:02:11.05,DEFAULT,,0,0,0,,{\kf18}I{\kf31} seem{\kf22} to{\kf53} ble{\kf27}-end{\kf27} in{\kf35} per{\kf27}fec{\kf31}tly
-Dialogue: 0,0:02:11.57,0:02:14.90,DEFAULT,,0,0,0,,{\kf22}It's{\kf27} as{\kf35} though{\kf31} they{\kf40} can't{\kf18} e{\kf31}ven{\kf40} see
-Dialogue: 0,0:02:15.21,0:02:18.37,DEFAULT,,0,0,0,,{\kf27}I'm{\kf48} stan{\kf27}ding{\kf31} ri-{\kf22}ight{\kf14} in{\kf35} front{\kf18} of{\kf40} them
-Dialogue: 0,0:02:19.02,0:02:22.06,DEFAULT,,0,0,0,,{\kf22}I'm{\kf44} stan{\kf27}ding{\kf48} right{\kf9} be{\kf66}fore{\kf35} them
-Dialogue: 0,0:02:22.66,0:02:25.87,DEFAULT,,0,0,0,,{\kf40}And{\kf18} it{\kf35} seems{\kf31} crys{\kf35}tal{\kf53} cle{\kf53}ar
-Dialogue: 0,0:02:26.26,0:02:29.73,DEFAULT,,0,0,0,,{\kf44}No{\kf57}bo{\kf31}dy{\kf27} wants{\kf40} me{\kf40} he{\kf74}re
-Dialogue: 0,0:02:30.03,0:02:32.98,DEFAULT,,0,0,0,,{\kf31}Why{\kf44} do{\kf40} we{\kf27} e{\kf14}-e{\kf22}ven{\kf44} go{\kf35} on
-Dialogue: 0,0:02:33.72,0:02:36.84,DEFAULT,,0,0,0,,{\kf44}When{\kf31} eve{\kf40}ry{\kf31}bo{\kf18}dy's{\kf48} screa{\kf70}ming
-Dialogue: 0,0:02:37.05,0:02:39.40,DEFAULT,,0,0,0,,{\kf44}I{\kf66} kno{\kf14}-ow{\kf70} now
-Dialogue: 0,0:02:40.18,0:02:43.21,DEFAULT,,0,0,0,,{\kf18}The{\kf70} truth{\kf48} we{\kf18}-e{\kf74} seek
-Dialogue: 0,0:02:43.86,0:02:46.98,DEFAULT,,0,0,0,,{\kf31}These{\kf87} lone{\kf57}ly{\kf18}-y{\kf83} nights
-Dialogue: 0,0:02:48.11,0:02:50.62,DEFAULT,,0,0,0,,{\kf27}Is{\kf22}n't{\kf35} quite{\kf35} so{\kf35} ble-{\kf31}e-{\kf14}a-{\kf31}ak
-Dialogue: 0,0:02:50.84,0:02:54.00,DEFAULT,,0,0,0,,{\kf14}It's{\kf31} O{\kf235}k
-Dialogue: 0,0:02:54.39,0:02:57.43,DEFAULT,,0,0,0,,{\kf40}I'm{\kf40} right{\kf213} here
-Dialogue: 0,0:02:58.12,0:03:01.37,DEFAULT,,0,0,0,,{\kf40}Don't{\kf40} you{\kf31} e{\kf35}ver{\kf35} feel{\kf22} a{\kf92}lone
-Dialogue: 0,0:03:01.94,0:03:05.10,DEFAULT,,0,0,0,,{\kf27}If{\kf35} you{\kf40} e{\kf35}ver{\kf31} need{\kf14} a{\kf40} shoul{\kf53}der
-Dialogue: 0,0:03:05.49,0:03:08.66,DEFAULT,,0,0,0,,{\kf40}To{\kf48} cry{\kf217} on
-Dialogue: 0,0:03:09.18,0:03:12.30,DEFAULT,,0,0,0,,{\kf27} Come{\kf44} find{\kf213} me
-Dialogue: 0,0:03:12.95,0:03:15.68,DEFAULT,,0,0,0,,{\kf35}You're{\kf44} not{\kf48} dif{\kf18}fe{\kf118}rent
-Dialogue: 0,0:03:16.37,0:03:20.32,DEFAULT,,0,0,0,,{\kf14}We're{\kf31} a-{\kf22}all{\kf27} the{\kf18}-e{\kf53} sa-{\kf22}a-{\kf178}ame
-Dialogue: 0,0:03:57.16,0:04:00.46,DEFAULT,,0,0,0,,{\kf35}It's{\kf79} O-{\kf35}O{\kf152}k
-Dialogue: 0,0:04:00.85,0:04:04.27,DEFAULT,,0,0,0,,{\kf48}I'm{\kf96} ri{\kf53}-ight{\kf118} here
-Dialogue: 0,0:04:04.66,0:04:07.74,DEFAULT,,0,0,0,,{\kf35}Don't{\kf35} you{\kf31} e{\kf18}ver{\kf44} feel{\kf14} a{\kf35}lo{\kf27}-one
-Dialogue: 0,0:04:08.56,0:04:11.04,DEFAULT,,0,0,0,,{\kf14} If{\kf31} you{\kf31} e{\kf14}ver{\kf44} need{\kf14} a{\kf31} shoul{\kf18}der
-Dialogue: 0,0:04:11.95,0:04:15.15,DEFAULT,,0,0,0,,{\kf40}To{\kf48} cry{\kf217} on
-Dialogue: 0,0:04:15.72,0:04:18.75,DEFAULT,,0,0,0,,{\kf22}Come{\kf31} find{\kf217} me
-Dialogue: 0,0:04:19.36,0:04:22.26,DEFAULT,,0,0,0,,{\kf35}You're{\kf40} not{\kf48} dif{\kf18}fer{\kf131}ent
-Dialogue: 0,0:04:22.83,0:04:26.21,DEFAULT,,0,0,0,,{\kf18}We're{\kf27} a-{\kf31}all{\kf22} the{\kf18}-e{\kf48} sa{\kf18}-a{\kf126}-ame
-Dialogue: 0,0:04:26.55,0:04:29.72,DEFAULT,,0,0,0,,{\kf22}And{\kf27} if{\kf31} you{\kf204} try
-Dialogue: 0,0:04:30.11,0:04:33.32,DEFAULT,,0,0,0,,{\kf18} I{\kf44} know{\kf40} you'll{\kf200} win
-Dialogue: 0,0:04:34.14,0:04:37.39,DEFAULT,,0,0,0,,{\kf44}Just{\kf61} spread{\kf53} your{\kf87} wings
-Dialogue: 0,0:04:37.78,0:04:41.38,DEFAULT,,0,0,0,,{\kf70}And{\kf278} fly
+Dialogue: 0,0:00:50.34,0:00:54.41,DEFAULT,,0,0,0,,{\r}{\kf32}A{\kf53}no{\kf26}ther{\kf63} night{\kf16} I{\kf95} spend{\kf16} a{\kf106}lone
+Dialogue: 0,0:00:57.70,0:01:04.12,DEFAULT,,0,0,0,,{\r}{\kf42}A{\kf42}no{\kf16}ther{\kf53} si{\kf42}lent{\kf32} ma{\kf64}-are{\kf53} forced{\kf21} out{\kf42} in{\kf122} the{\kf113} cold
+Dialogue: 0,0:01:05.16,0:01:08.06,DEFAULT,,0,0,0,,{\r}{\kf42}My{\kf47} mind{\kf16} is{\kf58} left{\kf21} to{\kf42} won{\kf64}der
+Dialogue: 0,0:01:08.80,0:01:11.92,DEFAULT,,0,0,0,,{\r}{\kf20}When{\kf20} do{\kf56} my{\kf46} dreams{\kf56} come{\kf114} true
+Dialogue: 0,0:01:12.49,0:01:15.56,DEFAULT,,0,0,0,,{\r}{\kf23}This{\kf46} sta{\kf34}rry{\kf46} ni{\kf23}-ight{\kf23} we're{\kf40} un{\kf73}der
+Dialogue: 0,0:01:16.21,0:01:18.99,DEFAULT,,0,0,0,,{\r}{\kf16}Are{\kf11} the{\kf75} stars{\kf53} drea{\kf59}ming{\kf63} too
+Dialogue: 0,0:01:19.16,0:01:21.89,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf82} I{\kf52} kno{\kf26}-ow{\kf87} now
+Dialogue: 0,0:01:22.67,0:01:25.79,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf99} truth{\kf68} we{\kf16}-e{\kf108} seek
+Dialogue: 0,0:01:26.31,0:01:29.65,DEFAULT,,0,0,0,,{\r}{\kf15}In{\kf15} this{\kf100} lone{\kf60}ly{\kf35}-y{\kf109} night
+Dialogue: 0,0:01:30.65,0:01:32.99,DEFAULT,,0,0,0,,{\r}{\kf11}Is{\kf34}n't{\kf34} quite{\kf57} so{\kf98} bleak
+Dialogue: 0,0:01:33.25,0:01:36.37,DEFAULT,,0,0,0,,{\r}{\kf24}It's{\kf39} O{\kf249}k
+Dialogue: 0,0:01:37.02,0:01:39.84,DEFAULT,,0,0,0,,{\r}{\kf27}I'm{\kf45} right{\kf210} here
+Dialogue: 0,0:01:40.62,0:01:43.83,DEFAULT,,0,0,0,,{\r}{\kf34}Don't{\kf39} you{\kf34} e{\kf44}ver{\kf39} feel{\kf34} a{\kf97}lone
+Dialogue: 0,0:01:44.35,0:01:47.64,DEFAULT,,0,0,0,,{\r}{\kf30}If{\kf35} you{\kf40} e{\kf46}ver{\kf40} need{\kf15} a{\kf51} shoul{\kf72}der
+Dialogue: 0,0:01:47.99,0:01:51.41,DEFAULT,,0,0,0,,{\r}{\kf41}To{\kf50} cry{\kf251} on
+Dialogue: 0,0:01:51.72,0:01:54.75,DEFAULT,,0,0,0,,{\r}{\kf28}Come{\kf42} find{\kf233} me
+Dialogue: 0,0:01:55.40,0:01:58.22,DEFAULT,,0,0,0,,{\r}{\kf36}You're{\kf45} not{\kf55} dif{\kf23}fer{\kf123}ent
+Dialogue: 0,0:01:58.83,0:02:02.77,DEFAULT,,0,0,0,,{\r}{\kf19}We're{\kf42} a-{\kf23}all{\kf19} the{\kf19}-e{\kf61} sa-{\kf28}a-{\kf183}ame
+Dialogue: 0,0:02:07.84,0:02:11.05,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf37} seem{\kf26} to{\kf63} ble{\kf32}-end{\kf32} in{\kf42} per{\kf32}fec{\kf36}tly
+Dialogue: 0,0:02:11.57,0:02:14.91,DEFAULT,,0,0,0,,{\r}{\kf30}It's{\kf36} as{\kf49} though{\kf43} they{\kf55} can't{\kf24} e{\kf43}ven{\kf54} see
+Dialogue: 0,0:02:15.21,0:02:18.38,DEFAULT,,0,0,0,,{\r}{\kf32}I'm{\kf59} stan{\kf32}ding{\kf37} ri-{\kf27}ight{\kf16} in{\kf43} front{\kf21} of{\kf49} them
+Dialogue: 0,0:02:19.03,0:02:22.06,DEFAULT,,0,0,0,,{\r}{\kf27}I'm{\kf53} stan{\kf32}ding{\kf58} right{\kf11} be{\kf80}fore{\kf42} them
+Dialogue: 0,0:02:22.67,0:02:25.88,DEFAULT,,0,0,0,,{\r}{\kf48}And{\kf21} it{\kf43} seems{\kf37} crys{\kf43}tal{\kf64} cle{\kf65}ar
+Dialogue: 0,0:02:26.27,0:02:29.73,DEFAULT,,0,0,0,,{\r}{\kf49}No{\kf64}bo{\kf34}dy{\kf29} wants{\kf44} me{\kf44} he{\kf83}re
+Dialogue: 0,0:02:30.04,0:02:32.99,DEFAULT,,0,0,0,,{\r}{\kf36}Why{\kf51} do{\kf46} we{\kf31} e{\kf15}-e{\kf25}ven{\kf51} go{\kf40} on
+Dialogue: 0,0:02:33.72,0:02:36.84,DEFAULT,,0,0,0,,{\r}{\kf49}When{\kf34} eve{\kf44}ry{\kf34}bo{\kf20}dy's{\kf54} screa{\kf77}ming
+Dialogue: 0,0:02:37.06,0:02:39.40,DEFAULT,,0,0,0,,{\r}{\kf53}I{\kf80} kno{\kf16}-ow{\kf85} now
+Dialogue: 0,0:02:40.18,0:02:43.22,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf93} truth{\kf64} we{\kf23}-e{\kf100} seek
+Dialogue: 0,0:02:43.87,0:02:46.99,DEFAULT,,0,0,0,,{\r}{\kf35}These{\kf99} lone{\kf64}ly{\kf20}-y{\kf94} nights
+Dialogue: 0,0:02:48.11,0:02:50.63,DEFAULT,,0,0,0,,{\r}{\kf29}Is{\kf24}n't{\kf39} quite{\kf39} so{\kf39} ble-{\kf34}e-{\kf14}a-{\kf33}ak
+Dialogue: 0,0:02:50.84,0:02:54.01,DEFAULT,,0,0,0,,{\r}{\kf15}It's{\kf35} O{\kf266}k
+Dialogue: 0,0:02:54.40,0:02:57.43,DEFAULT,,0,0,0,,{\r}{\kf41}I'm{\kf41} right{\kf221} here
+Dialogue: 0,0:02:58.13,0:03:01.38,DEFAULT,,0,0,0,,{\r}{\kf44}Don't{\kf44} you{\kf34} e{\kf39}ver{\kf39} feel{\kf24} a{\kf101}lone
+Dialogue: 0,0:03:01.94,0:03:05.11,DEFAULT,,0,0,0,,{\r}{\kf31}If{\kf41} you{\kf46} e{\kf41}ver{\kf36} need{\kf15} a{\kf46} shoul{\kf60}der
+Dialogue: 0,0:03:05.50,0:03:08.66,DEFAULT,,0,0,0,,{\r}{\kf41}To{\kf50} cry{\kf225} on
+Dialogue: 0,0:03:09.18,0:03:12.30,DEFAULT,,0,0,0,,{\r}{\kf29} Come{\kf48} find{\kf235} me
+Dialogue: 0,0:03:12.95,0:03:15.68,DEFAULT,,0,0,0,,{\r}{\kf36}You're{\kf46} not{\kf50} dif{\kf18}fe{\kf123}rent
+Dialogue: 0,0:03:16.38,0:03:20.32,DEFAULT,,0,0,0,,{\r}{\kf14}We're{\kf33} a-{\kf24}all{\kf28} the{\kf19}-e{\kf57} sa-{\kf24}a-{\kf195}ame
+Dialogue: 0,0:03:57.17,0:04:00.46,DEFAULT,,0,0,0,,{\r}{\kf38}It's{\kf86} O-{\kf38}O{\kf167}k
+Dialogue: 0,0:04:00.85,0:04:04.28,DEFAULT,,0,0,0,,{\r}{\kf52}I'm{\kf105} ri{\kf57}-ight{\kf128} here
+Dialogue: 0,0:04:04.67,0:04:07.75,DEFAULT,,0,0,0,,{\r}{\kf46}Don't{\kf46} you{\kf40} e{\kf23}ver{\kf57} feel{\kf17} a{\kf46}lo{\kf33}-one
+Dialogue: 0,0:04:08.57,0:04:11.04,DEFAULT,,0,0,0,,{\r}{\kf17} If{\kf39} you{\kf39} e{\kf17}ver{\kf56} need{\kf17} a{\kf39} shoul{\kf23}der
+Dialogue: 0,0:04:11.95,0:04:15.16,DEFAULT,,0,0,0,,{\r}{\kf41}To{\kf50} cry{\kf230} on
+Dialogue: 0,0:04:15.72,0:04:18.76,DEFAULT,,0,0,0,,{\r}{\kf24}Come{\kf34} find{\kf245} me
+Dialogue: 0,0:04:19.36,0:04:22.27,DEFAULT,,0,0,0,,{\r}{\kf37}You're{\kf42} not{\kf51} dif{\kf19}fer{\kf141}ent
+Dialogue: 0,0:04:22.83,0:04:26.21,DEFAULT,,0,0,0,,{\r}{\kf19}We're{\kf29} a-{\kf34}all{\kf24} the{\kf19}-e{\kf53} sa{\kf19}-a{\kf141}-ame
+Dialogue: 0,0:04:26.56,0:04:29.72,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf29} if{\kf34} you{\kf229} try
+Dialogue: 0,0:04:30.11,0:04:33.32,DEFAULT,,0,0,0,,{\r}{\kf19} I{\kf47} know{\kf42} you'll{\kf213} win
+Dialogue: 0,0:04:34.15,0:04:37.40,DEFAULT,,0,0,0,,{\r}{\kf58}Just{\kf81} spread{\kf70} your{\kf116} wings
+Dialogue: 0,0:04:37.79,0:04:41.38,DEFAULT,,0,0,0,,{\r}{\kf72}And{\kf288} fly

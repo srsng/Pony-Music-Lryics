@@ -1,39 +1,46 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Cold
+Artist: Synthis, 4EverfreeBrony, FritzyBeat
+Original Timing: mylittlekaraoke.com by ShTHfan1
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.10,0:00:10.13,DEFAULT,,0,0,0,,{\kf32}Meet{\kf32} me{\kf32} in{\kf32} the{\kf51} cold
-Dialogue: 0,0:00:12.17,0:00:14.20,DEFAULT,,0,0,0,,{\kf32}With{\kf32} no{\kf32}thing{\kf32} to{\kf51} say
-Dialogue: 0,0:00:16.24,0:00:18.27,DEFAULT,,0,0,0,,{\kf32}Some{\kf32}day{\kf32} I'll{\kf32} come{\kf51} home
-Dialogue: 0,0:00:20.31,0:00:22.34,DEFAULT,,0,0,0,,{\kf32}I{\kf32} will{\kf32} find{\kf32} my{\kf51} way
-Dialogue: 0,0:00:24.38,0:00:26.41,DEFAULT,,0,0,0,,{\kf32}Through{\kf32} the{\kf32} col{\kf32}dest{\kf51} winds
-Dialogue: 0,0:00:28.19,0:00:30.48,DEFAULT,,0,0,0,,{\kf20}With{\kf32} win{\kf32}ter{\kf32} emp{\kf32}ti{\kf51}ness
-Dialogue: 0,0:00:32.52,0:00:34.55,DEFAULT,,0,0,0,,{\kf32}Dark{\kf32}ness{\kf32} clo{\kf32}sing{\kf51} in
-Dialogue: 0,0:00:36.33,0:00:38.62,DEFAULT,,0,0,0,,{\kf20}The{\kf32} snow{\kf32} en{\kf32}com{\kf32}pas{\kf51}ses
-Dialogue: 0,0:01:13.22,0:01:15.25,DEFAULT,,0,0,0,,{\kf32}Hold{\kf32} me{\kf32} in{\kf32} your{\kf51} hooves
-Dialogue: 0,0:01:17.29,0:01:19.32,DEFAULT,,0,0,0,,{\kf32}When{\kf32} my{\kf32} light{\kf32} burns{\kf51} dim
-Dialogue: 0,0:01:21.10,0:01:23.39,DEFAULT,,0,0,0,,{\kf20}To{\kf32} walk{\kf32} a{\kf32}no{\kf32}ther{\kf51} step
-Dialogue: 0,0:01:25.17,0:01:27.46,DEFAULT,,0,0,0,,{\kf20}Or{\kf32} fall{\kf32} down{\kf32} and{\kf32} give{\kf51} in
-Dialogue: 0,0:01:29.50,0:01:31.53,DEFAULT,,0,0,0,,{\kf32}Hol{\kf32}ding{\kf32} by{\kf32} a{\kf51} thread
-Dialogue: 0,0:01:33.31,0:01:35.60,DEFAULT,,0,0,0,,{\kf20}Of{\kf32} chan{\kf32}ges{\kf32} yet{\kf32} to{\kf51} come
-Dialogue: 0,0:01:37.64,0:01:39.67,DEFAULT,,0,0,0,,{\kf32}Brigh{\kf32}ter{\kf32} days{\kf32} to{\kf51} bring
-Dialogue: 0,0:01:41.45,0:01:43.74,DEFAULT,,0,0,0,,{\kf20}The{\kf32} shi{\kf32}ning{\kf32} sun{\kf32} will{\kf51} sing
-Dialogue: 0,0:02:17.83,0:02:21.90,DEFAULT,,0,0,0,,{\kf20}Oh{\kf20}~,{\kf64} en{\kf64}dless{\kf204} winds
-Dialogue: 0,0:02:22.41,0:02:25.97,DEFAULT,,0,0,0,,{\kf64}Time{\kf64}less{\kf204} breeze
-Dialogue: 0,0:02:26.48,0:02:29.91,DEFAULT,,0,0,0,,{\kf64}Ca{\kf64}ving{\kf191} in
-Dialogue: 0,0:02:30.29,0:02:33.60,DEFAULT,,0,0,0,,{\kf20}Is{\kf45} not{\kf20} the{\kf45} way{\kf20} for{\kf153} me
-Dialogue: 0,0:02:34.11,0:02:36.02,DEFAULT,,0,0,0,,{\kf20}Oh,{\kf20} the{\kf140} sun
-Dialogue: 0,0:02:36.40,0:02:39.96,DEFAULT,,0,0,0,,{\kf20}The{\kf64} sun{\kf64} will{\kf20} ri{\kf153}~se
-Dialogue: 0,0:02:40.47,0:02:44.03,DEFAULT,,0,0,0,,{\kf20}And{\kf64} win{\kf64}ter,{\kf179} cease
-Dialogue: 0,0:02:44.54,0:02:50.39,DEFAULT,,0,0,0,,{\kf20}And{\kf64} from{\kf64} this,{\kf39} a{\kf45} light{\kf20} will{\kf32} be{\kf32} re{\kf204}leased
-Dialogue: 0,0:03:23.46,0:03:25.49,DEFAULT,,0,0,0,,{\kf32}Out{\kf32} here{\kf32} in{\kf32} the{\kf51} cold
-Dialogue: 0,0:03:27.27,0:03:29.56,DEFAULT,,0,0,0,,{\kf20}I{\kf32} stand{\kf32} a{\kf32}lone{\kf32} as{\kf51} one
-Dialogue: 0,0:03:31.60,0:03:33.63,DEFAULT,,0,0,0,,{\kf32}Some{\kf32}day{\kf32} I'll{\kf32} come{\kf51} home
-Dialogue: 0,0:03:35.67,0:03:37.70,DEFAULT,,0,0,0,,{\kf32}When{\kf32} I{\kf32} raise{\kf32} the{\kf51} sun
+Dialogue: 0,0:00:08.10,0:00:10.14,DEFAULT,,0,0,0,,{\r}{\kf36}Meet{\kf36} me{\kf36} in{\kf36} the{\kf60} cold
+Dialogue: 0,0:00:12.17,0:00:14.21,DEFAULT,,0,0,0,,{\r}{\kf36}With{\kf36} no{\kf36}thing{\kf36} to{\kf60} say
+Dialogue: 0,0:00:16.24,0:00:18.28,DEFAULT,,0,0,0,,{\r}{\kf36}Some{\kf36}day{\kf36} I'll{\kf36} come{\kf60} home
+Dialogue: 0,0:00:20.31,0:00:22.35,DEFAULT,,0,0,0,,{\r}{\kf36}I{\kf36} will{\kf36} find{\kf36} my{\kf60} way
+Dialogue: 0,0:00:24.38,0:00:26.42,DEFAULT,,0,0,0,,{\r}{\kf36}Through{\kf36} the{\kf36} col{\kf36}dest{\kf60} winds
+Dialogue: 0,0:00:28.20,0:00:30.49,DEFAULT,,0,0,0,,{\r}{\kf22}With{\kf37} win{\kf37}ter{\kf37} emp{\kf37}ti{\kf59}ness
+Dialogue: 0,0:00:32.52,0:00:34.56,DEFAULT,,0,0,0,,{\r}{\kf36}Dark{\kf36}ness{\kf36} clo{\kf36}sing{\kf60} in
+Dialogue: 0,0:00:36.34,0:00:38.63,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf37} snow{\kf37} en{\kf37}com{\kf37}pas{\kf59}ses
+Dialogue: 0,0:01:13.22,0:01:15.26,DEFAULT,,0,0,0,,{\r}{\kf36}Hold{\kf36} me{\kf36} in{\kf36} your{\kf60} hooves
+Dialogue: 0,0:01:17.29,0:01:19.33,DEFAULT,,0,0,0,,{\r}{\kf36}When{\kf36} my{\kf36} light{\kf36} burns{\kf60} dim
+Dialogue: 0,0:01:21.11,0:01:23.40,DEFAULT,,0,0,0,,{\r}{\kf22}To{\kf37} walk{\kf37} a{\kf37}no{\kf37}ther{\kf59} step
+Dialogue: 0,0:01:25.18,0:01:27.47,DEFAULT,,0,0,0,,{\r}{\kf22}Or{\kf37} fall{\kf37} down{\kf37} and{\kf37} give{\kf59} in
+Dialogue: 0,0:01:29.50,0:01:31.54,DEFAULT,,0,0,0,,{\r}{\kf36}Hol{\kf36}ding{\kf36} by{\kf36} a{\kf60} thread
+Dialogue: 0,0:01:33.32,0:01:35.61,DEFAULT,,0,0,0,,{\r}{\kf22}Of{\kf37} chan{\kf37}ges{\kf37} yet{\kf37} to{\kf59} come
+Dialogue: 0,0:01:37.64,0:01:39.68,DEFAULT,,0,0,0,,{\r}{\kf36}Brigh{\kf36}ter{\kf36} days{\kf36} to{\kf60} bring
+Dialogue: 0,0:01:41.46,0:01:43.75,DEFAULT,,0,0,0,,{\r}{\kf22}The{\kf37} shi{\kf37}ning{\kf37} sun{\kf37} will{\kf59} sing
+Dialogue: 0,0:02:17.83,0:02:21.90,DEFAULT,,0,0,0,,{\r}{\kf21}Oh{\kf21}~,{\kf70} en{\kf70}dless{\kf225} winds
+Dialogue: 0,0:02:22.41,0:02:25.97,DEFAULT,,0,0,0,,{\r}{\kf68}Time{\kf68}less{\kf220} breeze
+Dialogue: 0,0:02:26.48,0:02:29.92,DEFAULT,,0,0,0,,{\r}{\kf69}Ca{\kf69}ving{\kf205} in
+Dialogue: 0,0:02:30.30,0:02:33.60,DEFAULT,,0,0,0,,{\r}{\kf21}Is{\kf49} not{\kf21} the{\kf49} way{\kf21} for{\kf170} me
+Dialogue: 0,0:02:34.11,0:02:36.02,DEFAULT,,0,0,0,,{\r}{\kf20}Oh,{\kf20} the{\kf151} sun
+Dialogue: 0,0:02:36.40,0:02:39.96,DEFAULT,,0,0,0,,{\r}{\kf21}The{\kf71} sun{\kf71} will{\kf21} ri{\kf172}~se
+Dialogue: 0,0:02:40.47,0:02:44.03,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf70} win{\kf70}ter,{\kf195} cease
+Dialogue: 0,0:02:44.54,0:02:50.39,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf72} from{\kf72} this,{\kf43} a{\kf51} light{\kf22} will{\kf36} be{\kf36} re{\kf231}leased
+Dialogue: 0,0:03:23.46,0:03:25.50,DEFAULT,,0,0,0,,{\r}{\kf36}Out{\kf36} here{\kf36} in{\kf36} the{\kf60} cold
+Dialogue: 0,0:03:27.28,0:03:29.57,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf37} stand{\kf37} a{\kf37}lone{\kf37} as{\kf59} one
+Dialogue: 0,0:03:31.60,0:03:33.64,DEFAULT,,0,0,0,,{\r}{\kf36}Some{\kf36}day{\kf36} I'll{\kf36} come{\kf60} home
+Dialogue: 0,0:03:35.67,0:03:37.71,DEFAULT,,0,0,0,,{\r}{\kf36}When{\kf36} I{\kf36} raise{\kf36} the{\kf60} sun

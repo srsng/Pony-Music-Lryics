@@ -1,68 +1,75 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Derpy
+Artist: Przewalski's Ponies
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.49,0:00:10.39,DEFAULT,,0,0,0,,{\kf13}Why{\kf13} is{\kf17} there{\kf13} a{\kf13} muf{\kf13}fin{\kf13} in{\kf13} my{\kf17} mail{\kf25}box?
-Dialogue: 0,0:00:12.42,0:00:13.23,DEFAULT,,0,0,0,,{\kf21}Der{\kf13}py{\kf33} Hooves!
-Dialogue: 0,0:00:15.17,0:00:16.27,DEFAULT,,0,0,0,,{\kf21}Just{\kf25} derped{\kf25} in
-Dialogue: 0,0:00:16.47,0:00:17.12,DEFAULT,,0,0,0,,{\kf17}All{\kf13} wall-{\kf21}eyed
-Dialogue: 0,0:00:17.32,0:00:18.86,DEFAULT,,0,0,0,,{\kf17}Must{\kf17} be{\kf21} hard{\kf17} to{\kf37} see
-Dialogue: 0,0:00:22.23,0:00:23.40,DEFAULT,,0,0,0,,{\kf25}Mail{\kf29} hoof{\kf29} out
-Dialogue: 0,0:00:23.57,0:00:25.96,DEFAULT,,0,0,0,,{\kf29}Time{\kf25} for{\kf33} de{\kf29}li{\kf17}ve{\kf37}ry
-Dialogue: 0,0:00:28.23,0:00:29.89,DEFAULT,,0,0,0,,{\kf17}You{\kf17} no{\kf17}tice{\kf17} that{\kf17} she's{\kf29} derp{\kf9}in'
-Dialogue: 0,0:00:30.05,0:00:31.67,DEFAULT,,0,0,0,,{\kf13}You{\kf13} know{\kf17} she's{\kf17} think{\kf17}in'{\kf29} muf{\kf13}fin
-Dialogue: 0,0:00:31.84,0:00:33.54,DEFAULT,,0,0,0,,{\kf13}You{\kf13} know{\kf17} she's{\kf17} gon{\kf13}na{\kf29} run{\kf17} in
-Dialogue: 0,0:00:33.78,0:00:35.40,DEFAULT,,0,0,0,,{\kf13}To{\kf17} that{\kf21} ta{\kf13}ble,{\kf25} ba{\kf25}by
-Dialogue: 0,0:00:35.57,0:00:37.11,DEFAULT,,0,0,0,,{\kf17}Pack{\kf17}age,{\kf17} pro{\kf17}bably{\kf21} broke{\kf21} it
-Dialogue: 0,0:00:37.35,0:00:38.89,DEFAULT,,0,0,0,,{\kf13}Stuffed{\kf17} up{\kf17} in{\kf17} the{\kf25} mail{\kf21} slit
-Dialogue: 0,0:00:39.09,0:00:42.05,DEFAULT,,0,0,0,,{\kf17}Der{\kf13}py's{\kf17} gon{\kf17}na{\kf25} bust{\kf25} her{\kf17} bub{\kf17}ble{\kf17} be{\kf41}hind
-Dialogue: 0,0:00:42.58,0:00:43.92,DEFAULT,,0,0,0,,{\kf21}She's{\kf17} a{\kf17} dit{\kf17}zy{\kf37} horse
-Dialogue: 0,0:00:44.20,0:00:45.74,DEFAULT,,0,0,0,,{\kf33}Gon{\kf17}na{\kf13} fly{\kf13} off{\kf37} course
-Dialogue: 0,0:00:46.19,0:00:49.19,DEFAULT,,0,0,0,,{\kf17}She's{\kf17} a{\kf21} blon{\kf13}die,{\kf33} blon{\kf17}die,{\kf29} blond{\kf25} for{\kf49} sure
-Dialogue: 0,0:00:49.71,0:00:51.05,DEFAULT,,0,0,0,,{\kf17}She's{\kf17} a{\kf21} dit{\kf13}zy{\kf33} horse
-Dialogue: 0,0:00:51.34,0:00:52.88,DEFAULT,,0,0,0,,{\kf29}Gon{\kf17}na{\kf13} fly{\kf17} off{\kf41} course
-Dialogue: 0,0:00:53.36,0:00:56.36,DEFAULT,,0,0,0,,{\kf17}She{\kf13} will{\kf13} leave{\kf17} you,{\kf29} leave{\kf17} you,{\kf33} want{\kf17}in'{\kf13}~{\kf53} more
-Dialogue: 0,0:01:04.88,0:01:06.09,DEFAULT,,0,0,0,,{\kf29}Watch{\kf29} her{\kf25} derp
-Dialogue: 0,0:01:06.26,0:01:06.90,DEFAULT,,0,0,0,,{\kf17}When{\kf13} she{\kf21} jerks
-Dialogue: 0,0:01:07.19,0:01:08.77,DEFAULT,,0,0,0,,{\kf25}She{\kf29} eats{\kf17} it{\kf45} hard
-Dialogue: 0,0:01:12.01,0:01:14.08,DEFAULT,,0,0,0,,{\kf25}Some{\kf25} may{\kf25} gasp{\kf25} and{\kf25} ask
-Dialogue: 0,0:01:14.28,0:01:17.40,DEFAULT,,0,0,0,,{\kf13}If{\kf17} she's{\kf33} all{\kf17} that{\kf13} smart{\kf118}~{\kf53}~
-Dialogue: 0,0:01:18.30,0:01:19.76,DEFAULT,,0,0,0,,{\kf13}Coor{\kf17}di{\kf17}na{\kf17}tion's{\kf29} lack{\kf21}in'
-Dialogue: 0,0:01:20.00,0:01:21.42,DEFAULT,,0,0,0,,{\kf17}Head{\kf13} she's{\kf21} al{\kf13}ways{\kf29} wack{\kf9}in'
-Dialogue: 0,0:01:21.58,0:01:23.28,DEFAULT,,0,0,0,,{\kf13}You{\kf17} know{\kf13} she's{\kf17} walk{\kf13}in'{\kf25} smack{\kf17} in
-Dialogue: 0,0:01:23.53,0:01:25.07,DEFAULT,,0,0,0,,{\kf17}To{\kf13} that{\kf13} mail{\kf13}box,{\kf25} ba{\kf17}by
-Dialogue: 0,0:01:25.35,0:01:26.93,DEFAULT,,0,0,0,,{\kf17}Pack{\kf17}age,{\kf17} pro{\kf17}bably{\kf25} broke{\kf21} it
-Dialogue: 0,0:01:27.13,0:01:28.67,DEFAULT,,0,0,0,,{\kf21}Tan{\kf13}gled{\kf17} in{\kf17} the{\kf33} ham{\kf21}mock
-Dialogue: 0,0:01:28.92,0:01:32.08,DEFAULT,,0,0,0,,{\kf17}Der{\kf17}py's{\kf17} gon{\kf17}na{\kf25} bust{\kf29} her{\kf21} bub{\kf21}ble{\kf21} be{\kf61}hind
-Dialogue: 0,0:01:32.44,0:01:33.74,DEFAULT,,0,0,0,,{\kf21}She's{\kf13} a{\kf17} dit{\kf13}zy{\kf37} horse
-Dialogue: 0,0:01:34.03,0:01:35.61,DEFAULT,,0,0,0,,{\kf37}Gon{\kf17}na{\kf13} fly{\kf13} off{\kf45} course
-Dialogue: 0,0:01:35.97,0:01:38.97,DEFAULT,,0,0,0,,{\kf17}She's{\kf17} a{\kf17} blon{\kf13}die,{\kf29} blon{\kf13}die,{\kf33} blond{\kf25} for{\kf49} sure
-Dialogue: 0,0:01:39.50,0:01:40.88,DEFAULT,,0,0,0,,{\kf17}She's{\kf17} a{\kf13} dit{\kf17}zy{\kf37} horse
-Dialogue: 0,0:01:41.16,0:01:42.66,DEFAULT,,0,0,0,,{\kf33}Gon{\kf13}na{\kf13} fly{\kf13} off{\kf37} course
-Dialogue: 0,0:01:43.15,0:01:46.11,DEFAULT,,0,0,0,,{\kf17}She{\kf13} will{\kf13} leave{\kf13} you,{\kf33} leave{\kf17} you,{\kf25} want{\kf29}in'{\kf49} more
-Dialogue: 0,0:02:01.59,0:02:02.93,DEFAULT,,0,0,0,,{\kf17}Like{\kf17} I'm{\kf21} Der{\kf17}py{\kf25} Hooves
-Dialogue: 0,0:02:03.13,0:02:04.76,DEFAULT,,0,0,0,,{\kf13}And{\kf17} you{\kf17} got{\kf13}ta{\kf13} get{\kf9} it{\kf13} to{\kf13}ge{\kf9}ther
-Dialogue: 0,0:02:04.92,0:02:06.26,DEFAULT,,0,0,0,,{\kf13}'Cause{\kf17} I'm{\kf13} go{\kf13}in'{\kf17} cra{\kf25}zy
-Dialogue: 0,0:02:06.50,0:02:08.32,DEFAULT,,0,0,0,,{\kf13}And{\kf17} drop{\kf17}pin'{\kf17} an{\kf17}vils{\kf13} like{\kf13} the{\kf21} wea{\kf9}ther
-Dialogue: 0,0:02:08.49,0:02:10.07,DEFAULT,,0,0,0,,{\kf13}And{\kf17} you{\kf13} think{\kf13} that{\kf13} I{\kf13} am{\kf25} nuts
-Dialogue: 0,0:02:10.35,0:02:12.26,DEFAULT,,0,0,0,,{\kf21}And{\kf17} I{\kf13} don't{\kf17} real{\kf17}ly{\kf17} give{\kf13} a{\kf17} cuss
-Dialogue: 0,0:02:12.42,0:02:13.19,DEFAULT,,0,0,0,,{\kf17}There{\kf13} you{\kf25} go
-Dialogue: 0,0:02:13.35,0:02:14.04,DEFAULT,,0,0,0,,{\kf17}Kiss{\kf13} me{\kf25} now
-Dialogue: 0,0:02:14.24,0:02:15.34,DEFAULT,,0,0,0,,{\kf21}Hah{\kf21} ah{\kf21} ah!
-Dialogue: 0,0:02:15.58,0:02:16.67,DEFAULT,,0,0,0,,{\kf17}Bub{\kf17}bles{\kf13} on{\kf17} my{\kf21} butt
-Dialogue: 0,0:02:16.88,0:02:17.61,DEFAULT,,0,0,0,,{\kf17}Muf{\kf13}fins{\kf25} yeah!
-Dialogue: 0,0:02:17.81,0:02:18.94,DEFAULT,,0,0,0,,{\kf21}Woo!{\kf21} Woo!{\kf25} Woo!
-Dialogue: 0,0:02:19.11,0:02:20.69,DEFAULT,,0,0,0,,{\kf17}Like{\kf17} I{\kf21} don't{\kf17} real{\kf13}ly{\kf21} know
-Dialogue: 0,0:02:20.93,0:02:22.43,DEFAULT,,0,0,0,,{\kf13}What{\kf13} I'm{\kf17} talk{\kf17}in{\kf21} 'bout{\kf17} too
-Dialogue: 0,0:02:22.63,0:02:23.89,DEFAULT,,0,0,0,,{\kf17}Derp{\kf13}in'{\kf17} derp{\kf17}in'{\kf13} derp{\kf13}in'
-Dialogue: 0,0:02:24.05,0:02:24.66,DEFAULT,,0,0,0,,{\kf13}Eyes{\kf13} are{\kf21} crossed
-Dialogue: 0,0:02:24.86,0:02:25.96,DEFAULT,,0,0,0,,{\kf17}La{\kf17} la{\kf13} la{\kf17} la{\kf17} la
-Dialogue: 0,0:02:26.69,0:02:28.23,DEFAULT,,0,0,0,,{\kf13}Is{\kf17} this{\kf13} north{\kf13} or{\kf17} is{\kf13} this{\kf21} south?
-Dialogue: 0,0:02:28.43,0:02:30.05,DEFAULT,,0,0,0,,{\kf17}La{\kf13}la{\kf13} la{\kf13}la{\kf21} wooo-{\kf25}hooo!
+Dialogue: 0,0:00:08.49,0:00:10.40,DEFAULT,,0,0,0,,{\r}{\kf16}Why{\kf16} is{\kf22} there{\kf16} a{\kf16} muf{\kf16}fin{\kf16} in{\kf16} my{\kf22} mail{\kf35}box?
+Dialogue: 0,0:00:12.42,0:00:13.23,DEFAULT,,0,0,0,,{\r}{\kf25}Der{\kf15}py{\kf41} Hooves!
+Dialogue: 0,0:00:15.18,0:00:16.27,DEFAULT,,0,0,0,,{\r}{\kf32}Just{\kf38} derped{\kf39} in
+Dialogue: 0,0:00:16.48,0:00:17.13,DEFAULT,,0,0,0,,{\r}{\kf22}All{\kf16} wall-{\kf27}eyed
+Dialogue: 0,0:00:17.33,0:00:18.87,DEFAULT,,0,0,0,,{\r}{\kf24}Must{\kf24} be{\kf30} hard{\kf24} to{\kf52} see
+Dialogue: 0,0:00:22.23,0:00:23.41,DEFAULT,,0,0,0,,{\r}{\kf35}Mail{\kf41} hoof{\kf42} out
+Dialogue: 0,0:00:23.57,0:00:25.96,DEFAULT,,0,0,0,,{\r}{\kf41}Time{\kf35} for{\kf47} de{\kf41}li{\kf23}ve{\kf52}ry
+Dialogue: 0,0:00:28.23,0:00:29.90,DEFAULT,,0,0,0,,{\r}{\kf23}You{\kf23} no{\kf23}tice{\kf23} that{\kf23} she's{\kf40} derp{\kf11}in'
+Dialogue: 0,0:00:30.06,0:00:31.68,DEFAULT,,0,0,0,,{\r}{\kf17}You{\kf17} know{\kf23} she's{\kf23} think{\kf23}in'{\kf40} muf{\kf19}fin
+Dialogue: 0,0:00:31.84,0:00:33.54,DEFAULT,,0,0,0,,{\r}{\kf18}You{\kf18} know{\kf24} she's{\kf24} gon{\kf18}na{\kf42} run{\kf26} in
+Dialogue: 0,0:00:33.79,0:00:35.41,DEFAULT,,0,0,0,,{\r}{\kf18}To{\kf24} that{\kf30} ta{\kf18}ble,{\kf36} ba{\kf36}by
+Dialogue: 0,0:00:35.57,0:00:37.11,DEFAULT,,0,0,0,,{\r}{\kf24}Pack{\kf24}age,{\kf24} pro{\kf24}bably{\kf30} broke{\kf28} it
+Dialogue: 0,0:00:37.35,0:00:38.90,DEFAULT,,0,0,0,,{\r}{\kf18}Stuffed{\kf24} up{\kf24} in{\kf24} the{\kf36} mail{\kf28} slit
+Dialogue: 0,0:00:39.10,0:00:42.06,DEFAULT,,0,0,0,,{\r}{\kf24}Der{\kf18}py's{\kf24} gon{\kf24}na{\kf36} bust{\kf36} her{\kf24} bub{\kf24}ble{\kf24} be{\kf62}hind
+Dialogue: 0,0:00:42.58,0:00:43.92,DEFAULT,,0,0,0,,{\r}{\kf26}She's{\kf21} a{\kf21} dit{\kf21}zy{\kf45} horse
+Dialogue: 0,0:00:44.21,0:00:45.75,DEFAULT,,0,0,0,,{\r}{\kf46}Gon{\kf23}na{\kf17} fly{\kf17} off{\kf51} course
+Dialogue: 0,0:00:46.19,0:00:49.19,DEFAULT,,0,0,0,,{\r}{\kf23}She's{\kf23} a{\kf28} blon{\kf17}die,{\kf45} blon{\kf23}die,{\kf40} blond{\kf34} for{\kf67} sure
+Dialogue: 0,0:00:49.72,0:00:51.06,DEFAULT,,0,0,0,,{\r}{\kf22}She's{\kf22} a{\kf28} dit{\kf17}zy{\kf45} horse
+Dialogue: 0,0:00:51.34,0:00:52.88,DEFAULT,,0,0,0,,{\r}{\kf38}Gon{\kf22}na{\kf16} fly{\kf22} off{\kf56} course
+Dialogue: 0,0:00:53.37,0:00:56.37,DEFAULT,,0,0,0,,{\r}{\kf23}She{\kf17} will{\kf17} leave{\kf23} you,{\kf40} leave{\kf23} you,{\kf45} want{\kf23}in'{\kf17}~{\kf72} more
+Dialogue: 0,0:01:04.88,0:01:06.10,DEFAULT,,0,0,0,,{\r}{\kf43}Watch{\kf43} her{\kf36} derp
+Dialogue: 0,0:01:06.26,0:01:06.91,DEFAULT,,0,0,0,,{\r}{\kf22}When{\kf16} she{\kf27} jerks
+Dialogue: 0,0:01:07.19,0:01:08.77,DEFAULT,,0,0,0,,{\r}{\kf34}She{\kf40} eats{\kf23} it{\kf61} hard
+Dialogue: 0,0:01:12.02,0:01:14.08,DEFAULT,,0,0,0,,{\r}{\kf41}Some{\kf41} may{\kf41} gasp{\kf41} and{\kf43} ask
+Dialogue: 0,0:01:14.29,0:01:17.41,DEFAULT,,0,0,0,,{\r}{\kf15}If{\kf20} she's{\kf39} all{\kf20} that{\kf15} smart{\kf141}~{\kf62}~
+Dialogue: 0,0:01:18.30,0:01:19.76,DEFAULT,,0,0,0,,{\r}{\kf16}Coor{\kf22}di{\kf22}na{\kf22}tion's{\kf38} lack{\kf26}in'
+Dialogue: 0,0:01:20.00,0:01:21.42,DEFAULT,,0,0,0,,{\r}{\kf24}Head{\kf18} she's{\kf30} al{\kf18}ways{\kf41} wack{\kf11}in'
+Dialogue: 0,0:01:21.58,0:01:23.29,DEFAULT,,0,0,0,,{\r}{\kf19}You{\kf25} know{\kf19} she's{\kf25} walk{\kf19}in'{\kf38} smack{\kf25} in
+Dialogue: 0,0:01:23.53,0:01:25.07,DEFAULT,,0,0,0,,{\r}{\kf27}To{\kf20} that{\kf20} mail{\kf20}box,{\kf40} ba{\kf27}by
+Dialogue: 0,0:01:25.35,0:01:26.94,DEFAULT,,0,0,0,,{\r}{\kf23}Pack{\kf23}age,{\kf23} pro{\kf23}bably{\kf35} broke{\kf31} it
+Dialogue: 0,0:01:27.14,0:01:28.68,DEFAULT,,0,0,0,,{\r}{\kf27}Tan{\kf16}gled{\kf21} in{\kf21} the{\kf42} ham{\kf27}mock
+Dialogue: 0,0:01:28.92,0:01:32.08,DEFAULT,,0,0,0,,{\r}{\kf21}Der{\kf21}py's{\kf21} gon{\kf21}na{\kf32} bust{\kf37} her{\kf27} bub{\kf27}ble{\kf27} be{\kf82}hind
+Dialogue: 0,0:01:32.45,0:01:33.75,DEFAULT,,0,0,0,,{\r}{\kf27}She's{\kf16} a{\kf22} dit{\kf16}zy{\kf49} horse
+Dialogue: 0,0:01:34.03,0:01:35.61,DEFAULT,,0,0,0,,{\r}{\kf47}Gon{\kf21}na{\kf16} fly{\kf16} off{\kf58} course
+Dialogue: 0,0:01:35.98,0:01:38.98,DEFAULT,,0,0,0,,{\r}{\kf24}She's{\kf24} a{\kf24} blon{\kf18}die,{\kf41} blon{\kf18}die,{\kf47} blond{\kf35} for{\kf69} sure
+Dialogue: 0,0:01:39.50,0:01:40.88,DEFAULT,,0,0,0,,{\r}{\kf23}She's{\kf23} a{\kf17} dit{\kf23}zy{\kf52} horse
+Dialogue: 0,0:01:41.17,0:01:42.67,DEFAULT,,0,0,0,,{\r}{\kf46}Gon{\kf17}na{\kf17} fly{\kf17} off{\kf53} course
+Dialogue: 0,0:01:43.15,0:01:46.11,DEFAULT,,0,0,0,,{\r}{\kf24}She{\kf18} will{\kf18} leave{\kf18} you,{\kf47} leave{\kf24} you,{\kf36} want{\kf41}in'{\kf70} more
+Dialogue: 0,0:02:01.60,0:02:02.94,DEFAULT,,0,0,0,,{\r}{\kf23}Like{\kf23} I'm{\kf29} Der{\kf23}py{\kf36} Hooves
+Dialogue: 0,0:02:03.14,0:02:04.76,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf24} you{\kf24} got{\kf18}ta{\kf18} get{\kf12} it{\kf18} to{\kf18}ge{\kf12}ther
+Dialogue: 0,0:02:04.92,0:02:06.26,DEFAULT,,0,0,0,,{\r}{\kf17}'Cause{\kf23} I'm{\kf17} go{\kf17}in'{\kf23} cra{\kf37}zy
+Dialogue: 0,0:02:06.50,0:02:08.33,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf23} drop{\kf23}pin'{\kf23} an{\kf23}vils{\kf17} like{\kf17} the{\kf28} wea{\kf11}ther
+Dialogue: 0,0:02:08.49,0:02:10.07,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf25} you{\kf19} think{\kf19} that{\kf19} I{\kf19} am{\kf38} nuts
+Dialogue: 0,0:02:10.35,0:02:12.26,DEFAULT,,0,0,0,,{\r}{\kf31}And{\kf25} I{\kf18} don't{\kf25} real{\kf25}ly{\kf25} give{\kf18} a{\kf24} cuss
+Dialogue: 0,0:02:12.42,0:02:13.19,DEFAULT,,0,0,0,,{\r}{\kf24}There{\kf18} you{\kf35} go
+Dialogue: 0,0:02:13.35,0:02:14.04,DEFAULT,,0,0,0,,{\r}{\kf21}Kiss{\kf16} me{\kf32} now
+Dialogue: 0,0:02:14.25,0:02:15.34,DEFAULT,,0,0,0,,{\r}{\kf36}Hah{\kf36} ah{\kf37} ah!
+Dialogue: 0,0:02:15.58,0:02:16.68,DEFAULT,,0,0,0,,{\r}{\kf22}Bub{\kf22}bles{\kf16} on{\kf22} my{\kf27} butt
+Dialogue: 0,0:02:16.88,0:02:17.61,DEFAULT,,0,0,0,,{\r}{\kf22}Muf{\kf17}fins{\kf34} yeah!
+Dialogue: 0,0:02:17.81,0:02:18.95,DEFAULT,,0,0,0,,{\r}{\kf36}Woo!{\kf36} Woo!{\kf42} Woo!
+Dialogue: 0,0:02:19.11,0:02:20.69,DEFAULT,,0,0,0,,{\r}{\kf25}Like{\kf25} I{\kf32} don't{\kf25} real{\kf19}ly{\kf32} know
+Dialogue: 0,0:02:20.94,0:02:22.44,DEFAULT,,0,0,0,,{\r}{\kf20}What{\kf20} I'm{\kf26} talk{\kf26}in{\kf33} 'bout{\kf25} too
+Dialogue: 0,0:02:22.64,0:02:23.90,DEFAULT,,0,0,0,,{\r}{\kf24}Derp{\kf18}in'{\kf24} derp{\kf24}in'{\kf18} derp{\kf18}in'
+Dialogue: 0,0:02:24.06,0:02:24.67,DEFAULT,,0,0,0,,{\r}{\kf17}Eyes{\kf17} are{\kf27} crossed
+Dialogue: 0,0:02:24.87,0:02:25.96,DEFAULT,,0,0,0,,{\r}{\kf23}La{\kf23} la{\kf17} la{\kf23} la{\kf23} la
+Dialogue: 0,0:02:26.69,0:02:28.23,DEFAULT,,0,0,0,,{\r}{\kf18}Is{\kf25} this{\kf18} north{\kf18} or{\kf25} is{\kf18} this{\kf32} south?
+Dialogue: 0,0:02:28.44,0:02:30.06,DEFAULT,,0,0,0,,{\r}{\kf27}La{\kf20}la{\kf20} la{\kf20}la{\kf34} wooo-{\kf41}hooo!

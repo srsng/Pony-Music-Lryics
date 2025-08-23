@@ -1,72 +1,79 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Discord's Lament
+Artist: BronyFX
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:30.07,0:00:31.46,DEFAULT,,0,0,0,,{\kf22}I'm{\kf22} born{\kf11} with{\kf11} the{\kf15} me{\kf15}lo{\kf25}dy
-Dialogue: 0,0:00:31.57,0:00:33.60,DEFAULT,,0,0,0,,{\kf15}You{\kf18} can't{\kf22} cast{\kf22} me{\kf18} out{\kf15} it's{\kf15} a{\kf15} fe{\kf15}lo{\kf8}ny
-Dialogue: 0,0:00:33.78,0:00:35.07,DEFAULT,,0,0,0,,{\kf8}A{\kf8}head{\kf8} of{\kf11} me,{\kf11} the{\kf18} road{\kf22} stretched{\kf15} out
-Dialogue: 0,0:00:35.21,0:00:36.32,DEFAULT,,0,0,0,,{\kf11}And{\kf11} the{\kf11} path{\kf11} I{\kf11} can't{\kf18} de{\kf22}cide
-Dialogue: 0,0:00:36.49,0:00:38.64,DEFAULT,,0,0,0,,{\kf11}With{\kf22} who's{\kf22} side{\kf15} I{\kf22} will{\kf18} fi{\kf15}nal{\kf18}ly{\kf33} side
-Dialogue: 0,0:00:38.82,0:00:39.92,DEFAULT,,0,0,0,,{\kf8}And{\kf15} what{\kf15} a{\kf15}bout{\kf15} Flut{\kf15}ter{\kf15}shy?
-Dialogue: 0,0:00:40.07,0:00:40.78,DEFAULT,,0,0,0,,{\kf11}She{\kf11} can{\kf15} take{\kf11} you{\kf11} high
-Dialogue: 0,0:00:41.07,0:00:43.07,DEFAULT,,0,0,0,,{\kf15}But{\kf11} is{\kf11} there{\kf11} tru{\kf15}ly{\kf22} friend{\kf15}ship{\kf18} bet{\kf22}ween{\kf11} you{\kf11} and{\kf15} I?
-Dialogue: 0,0:00:43.21,0:00:45.28,DEFAULT,,0,0,0,,{\kf11}I{\kf11} want{\kf29} po{\kf18}wer,{\kf29} cha{\kf18}os,{\kf18} wealth{\kf25} con{\kf15}trol
-Dialogue: 0,0:00:45.74,0:00:48.78,DEFAULT,,0,0,0,,{\kf25}I{\kf22} just{\kf22} want{\kf25} it{\kf29} all{\kf29}~{\kf54}~{\kf68}~
-Dialogue: 0,0:00:50.60,0:00:52.49,DEFAULT,,0,0,0,,{\kf22}The{\kf25} Tree{\kf25} of{\kf25} Har{\kf29}mo{\kf43}ny
-Dialogue: 0,0:00:52.89,0:00:54.74,DEFAULT,,0,0,0,,{\kf29}That's{\kf25} where{\kf25} they{\kf22} said{\kf25} you'd{\kf36} be
-Dialogue: 0,0:00:55.17,0:00:57.21,DEFAULT,,0,0,0,,{\kf25}And{\kf50} though{\kf22} you{\kf22} don't{\kf25} know{\kf25} it
-Dialogue: 0,0:00:57.46,0:00:59.49,DEFAULT,,0,0,0,,{\kf29}You{\kf29} are{\kf25} a{\kf25}bout{\kf25} to{\kf29} grow{\kf25} it
-Dialogue: 0,0:00:59.74,0:01:01.64,DEFAULT,,0,0,0,,{\kf22}The{\kf25} Tree{\kf25} of{\kf25} Har{\kf29}mo{\kf43}ny
-Dialogue: 0,0:01:02.03,0:01:03.89,DEFAULT,,0,0,0,,{\kf29}That's{\kf25} where{\kf25} they{\kf22} said{\kf25} you'd{\kf36} be
-Dialogue: 0,0:01:04.32,0:01:06.35,DEFAULT,,0,0,0,,{\kf25}And{\kf50} though{\kf22} you{\kf22} don't{\kf25} know{\kf25} it
-Dialogue: 0,0:01:06.60,0:01:08.64,DEFAULT,,0,0,0,,{\kf29}You{\kf29} are{\kf25} a{\kf25}bout{\kf25} to{\kf29} grow{\kf25} it
-Dialogue: 0,0:01:11.28,0:01:12.46,DEFAULT,,0,0,0,,{\kf15}I'm{\kf22} born{\kf8} with{\kf11} a{\kf15} sen{\kf15}ti{\kf15}ment
-Dialogue: 0,0:01:12.67,0:01:13.53,DEFAULT,,0,0,0,,{\kf22}For{\kf15} e{\kf15}very{\kf11} e{\kf11}le{\kf8}ment
-Dialogue: 0,0:01:13.67,0:01:14.24,DEFAULT,,0,0,0,,{\kf8}I{\kf15} ne{\kf11}ver{\kf18} had
-Dialogue: 0,0:01:14.35,0:01:15.35,DEFAULT,,0,0,0,,{\kf18}It's{\kf11} like{\kf18} a{\kf15} fi{\kf15}la{\kf11}ment
-Dialogue: 0,0:01:15.49,0:01:17.28,DEFAULT,,0,0,0,,{\kf18}Light{\kf11}ing{\kf11} the{\kf25} way{\kf22} from{\kf18} night{\kf11} to{\kf25} day
-Dialogue: 0,0:01:17.49,0:01:18.42,DEFAULT,,0,0,0,,{\kf22}From{\kf22} good{\kf15} to{\kf18} bad
-Dialogue: 0,0:01:18.57,0:01:19.67,DEFAULT,,0,0,0,,{\kf8}And{\kf8} if{\kf8} the{\kf22} sky{\kf22} turns{\kf18} plaid
-Dialogue: 0,0:01:19.82,0:01:20.92,DEFAULT,,0,0,0,,{\kf18}Then{\kf22} that's{\kf22} just{\kf29} me
-Dialogue: 0,0:01:21.21,0:01:22.10,DEFAULT,,0,0,0,,{\kf15}Cha{\kf11}os{\kf15} is{\kf11}n't{\kf15} har{\kf11}mo{\kf8}ny
-Dialogue: 0,0:01:22.24,0:01:23.21,DEFAULT,,0,0,0,,{\kf8}I{\kf8} know{\kf11} you{\kf11} won't{\kf15} be{\kf22}lieve{\kf8} me
-Dialogue: 0,0:01:23.35,0:01:24.46,DEFAULT,,0,0,0,,{\kf8}But{\kf15} I'm{\kf22} so{\kf25} sor{\kf15}ry
-Dialogue: 0,0:01:24.60,0:01:25.35,DEFAULT,,0,0,0,,{\kf15}You're{\kf11} my{\kf15} on{\kf11}ly{\kf15} friend
-Dialogue: 0,0:01:25.49,0:01:26.57,DEFAULT,,0,0,0,,{\kf11}And{\kf11} no{\kf15} mat{\kf8}ter{\kf15} what{\kf11} I've{\kf22} done
-Dialogue: 0,0:01:26.89,0:01:29.03,DEFAULT,,0,0,0,,{\kf25}That{\kf29} friend{\kf25}ship{\kf29} can't{\kf33} end,{\kf36} no
-Dialogue: 0,0:01:31.74,0:01:33.64,DEFAULT,,0,0,0,,{\kf22}The{\kf25} Tree{\kf25} of{\kf25} Har{\kf29}mo{\kf43}ny
-Dialogue: 0,0:01:34.03,0:01:35.89,DEFAULT,,0,0,0,,{\kf29}That's{\kf25} where{\kf25} they{\kf22} said{\kf25} you'd{\kf36} be
-Dialogue: 0,0:01:36.32,0:01:38.35,DEFAULT,,0,0,0,,{\kf25}And{\kf50} though{\kf22} you{\kf22} don't{\kf25} know{\kf25} it
-Dialogue: 0,0:01:38.60,0:01:40.64,DEFAULT,,0,0,0,,{\kf29}You{\kf29} are{\kf25} a{\kf25}bout{\kf25} to{\kf29} grow{\kf25} it
-Dialogue: 0,0:01:40.89,0:01:42.78,DEFAULT,,0,0,0,,{\kf22}The{\kf25} Tree{\kf25} of{\kf25} Har{\kf29}mo{\kf43}ny
-Dialogue: 0,0:01:43.17,0:01:45.03,DEFAULT,,0,0,0,,{\kf29}That's{\kf25} where{\kf25} they{\kf22} said{\kf25} you'd{\kf36} be
-Dialogue: 0,0:01:45.46,0:01:47.49,DEFAULT,,0,0,0,,{\kf25}And{\kf50} though{\kf22} you{\kf22} don't{\kf25} know{\kf25} it
-Dialogue: 0,0:01:47.74,0:01:49.78,DEFAULT,,0,0,0,,{\kf29}You{\kf29} are{\kf25} a{\kf25}bout{\kf25} to{\kf29} grow{\kf25} it
-Dialogue: 0,0:01:59.21,0:02:01.82,DEFAULT,,0,0,0,,{\kf18}The{\kf58} Tree{\kf50}~{\kf29}~{\kf90}~
-Dialogue: 0,0:02:03.74,0:02:06.24,DEFAULT,,0,0,0,,{\kf25}The{\kf25} Tree{\kf25} of{\kf58} Har{\kf22}mo{\kf75}ny
-Dialogue: 0,0:02:08.32,0:02:11.03,DEFAULT,,0,0,0,,{\kf22}That's{\kf29} where{\kf18} I'm{\kf33} meant{\kf22} to{\kf97} be
-Dialogue: 0,0:02:12.89,0:02:15.10,DEFAULT,,0,0,0,,{\kf25}And{\kf47} if{\kf22} you{\kf29} don't{\kf29} know{\kf40} it
-Dialogue: 0,0:02:17.49,0:02:19.60,DEFAULT,,0,0,0,,{\kf22}I{\kf22} am{\kf22} a{\kf22}bout{\kf22} to{\kf29} show{\kf33} it
-Dialogue: 0,0:02:26.60,0:02:28.49,DEFAULT,,0,0,0,,{\kf22}The{\kf25} Tree{\kf25} of{\kf25} Har{\kf29}mo{\kf43}ny
-Dialogue: 0,0:02:28.89,0:02:30.74,DEFAULT,,0,0,0,,{\kf29}That's{\kf25} where{\kf25} they{\kf22} said{\kf25} you'd{\kf36} be
-Dialogue: 0,0:02:31.17,0:02:33.21,DEFAULT,,0,0,0,,{\kf25}And{\kf50} though{\kf22} you{\kf22} don't{\kf25} know{\kf25} it
-Dialogue: 0,0:02:33.46,0:02:35.49,DEFAULT,,0,0,0,,{\kf29}You{\kf29} are{\kf25} a{\kf25}bout{\kf25} to{\kf29} grow{\kf25} it
-Dialogue: 0,0:02:35.74,0:02:37.64,DEFAULT,,0,0,0,,{\kf22}The{\kf25} Tree{\kf25} of{\kf25} Har{\kf29}mo{\kf43}ny
-Dialogue: 0,0:02:38.03,0:02:39.89,DEFAULT,,0,0,0,,{\kf29}That's{\kf25} where{\kf25} they{\kf22} said{\kf25} you'd{\kf36} be
-Dialogue: 0,0:02:40.32,0:02:42.35,DEFAULT,,0,0,0,,{\kf25}And{\kf50} though{\kf22} you{\kf22} don't{\kf25} know{\kf25} it
-Dialogue: 0,0:02:42.60,0:02:44.64,DEFAULT,,0,0,0,,{\kf29}You{\kf29} are{\kf25} a{\kf25}bout{\kf25} to{\kf29} grow{\kf25} it
-Dialogue: 0,0:02:44.89,0:02:46.78,DEFAULT,,0,0,0,,{\kf22}The{\kf25} Tree{\kf25} of{\kf25} Har{\kf29}mo{\kf43}ny
-Dialogue: 0,0:02:47.17,0:02:49.03,DEFAULT,,0,0,0,,{\kf29}That's{\kf25} where{\kf25} they{\kf22} said{\kf25} you'd{\kf36} be
-Dialogue: 0,0:02:49.46,0:02:51.49,DEFAULT,,0,0,0,,{\kf25}And{\kf50} though{\kf22} you{\kf22} don't{\kf25} know{\kf25} it
-Dialogue: 0,0:02:51.74,0:02:53.78,DEFAULT,,0,0,0,,{\kf29}You{\kf29} are{\kf25} a{\kf25}bout{\kf25} to{\kf29} grow{\kf25} it
-Dialogue: 0,0:02:54.03,0:02:55.92,DEFAULT,,0,0,0,,{\kf22}The{\kf25} Tree{\kf25} of{\kf25} Har{\kf29}mo{\kf43}ny
-Dialogue: 0,0:02:56.32,0:02:58.17,DEFAULT,,0,0,0,,{\kf29}That's{\kf25} where{\kf25} they{\kf22} said{\kf25} you'd{\kf36} be
-Dialogue: 0,0:02:58.60,0:03:00.64,DEFAULT,,0,0,0,,{\kf25}And{\kf50} though{\kf22} you{\kf22} don't{\kf25} know{\kf25} it
-Dialogue: 0,0:03:00.89,0:03:02.92,DEFAULT,,0,0,0,,{\kf29}You{\kf29} are{\kf25} a{\kf25}bout{\kf25} to{\kf29} grow{\kf25} it
+Dialogue: 0,0:00:30.07,0:00:31.46,DEFAULT,,0,0,0,,{\r}{\kf25}I'm{\kf25} born{\kf13} with{\kf13} the{\kf17} me{\kf17}lo{\kf29}dy
+Dialogue: 0,0:00:31.57,0:00:33.61,DEFAULT,,0,0,0,,{\r}{\kf19}You{\kf23} can't{\kf28} cast{\kf28} me{\kf23} out{\kf19} it's{\kf19} a{\kf19} fe{\kf19}lo{\kf10}ny
+Dialogue: 0,0:00:33.79,0:00:35.07,DEFAULT,,0,0,0,,{\r}{\kf10}A{\kf10}head{\kf10} of{\kf14} me,{\kf14} the{\kf24} road{\kf29} stretched{\kf18} out
+Dialogue: 0,0:00:35.21,0:00:36.32,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf13} the{\kf13} path{\kf13} I{\kf13} can't{\kf21} de{\kf25}cide
+Dialogue: 0,0:00:36.50,0:00:38.64,DEFAULT,,0,0,0,,{\r}{\kf13}With{\kf27} who's{\kf27} side{\kf18} I{\kf27} will{\kf22} fi{\kf18}nal{\kf22}ly{\kf40} side
+Dialogue: 0,0:00:38.82,0:00:39.93,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf17} what{\kf17} a{\kf17}bout{\kf17} Flut{\kf17}ter{\kf16}shy?
+Dialogue: 0,0:00:40.07,0:00:40.79,DEFAULT,,0,0,0,,{\r}{\kf13}She{\kf13} can{\kf18} take{\kf13} you{\kf14} high
+Dialogue: 0,0:00:41.07,0:00:43.07,DEFAULT,,0,0,0,,{\r}{\kf17}But{\kf12} is{\kf12} there{\kf12} tru{\kf17}ly{\kf25} friend{\kf17}ship{\kf21} bet{\kf25}ween{\kf12} you{\kf12} and{\kf18} I?
+Dialogue: 0,0:00:43.21,0:00:45.29,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf13} want{\kf34} po{\kf22}wer,{\kf34} cha{\kf22}os,{\kf22} wealth{\kf30} con{\kf17}trol
+Dialogue: 0,0:00:45.75,0:00:48.79,DEFAULT,,0,0,0,,{\r}{\kf28}I{\kf24} just{\kf24} want{\kf28} it{\kf32} all{\kf32}~{\kf60}~{\kf76}~
+Dialogue: 0,0:00:50.61,0:00:52.50,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf28} Tree{\kf28} of{\kf28} Har{\kf32}mo{\kf49}ny
+Dialogue: 0,0:00:52.89,0:00:54.75,DEFAULT,,0,0,0,,{\r}{\kf33}That's{\kf29} where{\kf29} they{\kf25} said{\kf29} you'd{\kf41} be
+Dialogue: 0,0:00:55.18,0:00:57.21,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf61} though{\kf26} you{\kf26} don't{\kf30} know{\kf31} it
+Dialogue: 0,0:00:57.46,0:00:59.50,DEFAULT,,0,0,0,,{\r}{\kf31}You{\kf31} are{\kf27} a{\kf27}bout{\kf27} to{\kf31} grow{\kf30} it
+Dialogue: 0,0:00:59.75,0:01:01.64,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf28} Tree{\kf28} of{\kf28} Har{\kf32}mo{\kf49}ny
+Dialogue: 0,0:01:02.04,0:01:03.89,DEFAULT,,0,0,0,,{\r}{\kf33}That's{\kf29} where{\kf29} they{\kf25} said{\kf29} you'd{\kf41} be
+Dialogue: 0,0:01:04.32,0:01:06.36,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf61} though{\kf26} you{\kf26} don't{\kf30} know{\kf31} it
+Dialogue: 0,0:01:06.61,0:01:08.64,DEFAULT,,0,0,0,,{\r}{\kf31}You{\kf31} are{\kf27} a{\kf27}bout{\kf27} to{\kf31} grow{\kf30} it
+Dialogue: 0,0:01:11.29,0:01:12.46,DEFAULT,,0,0,0,,{\r}{\kf17}I'm{\kf26} born{\kf10} with{\kf13} a{\kf17} sen{\kf17}ti{\kf18}ment
+Dialogue: 0,0:01:12.68,0:01:13.54,DEFAULT,,0,0,0,,{\r}{\kf23}For{\kf16} e{\kf16}very{\kf12} e{\kf12}le{\kf10}ment
+Dialogue: 0,0:01:13.68,0:01:14.25,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf16} ne{\kf12}ver{\kf19} had
+Dialogue: 0,0:01:14.36,0:01:15.36,DEFAULT,,0,0,0,,{\r}{\kf21}It's{\kf12} like{\kf21} a{\kf17} fi{\kf17}la{\kf12}ment
+Dialogue: 0,0:01:15.50,0:01:17.29,DEFAULT,,0,0,0,,{\r}{\kf23}Light{\kf14}ing{\kf14} the{\kf32} way{\kf28} from{\kf23} night{\kf14} to{\kf31} day
+Dialogue: 0,0:01:17.50,0:01:18.43,DEFAULT,,0,0,0,,{\r}{\kf27}From{\kf27} good{\kf18} to{\kf21} bad
+Dialogue: 0,0:01:18.57,0:01:19.68,DEFAULT,,0,0,0,,{\r}{\kf10}And{\kf10} if{\kf10} the{\kf29} sky{\kf29} turns{\kf23} plaid
+Dialogue: 0,0:01:19.82,0:01:20.93,DEFAULT,,0,0,0,,{\r}{\kf22}Then{\kf27} that's{\kf27} just{\kf35} me
+Dialogue: 0,0:01:21.21,0:01:22.11,DEFAULT,,0,0,0,,{\r}{\kf15}Cha{\kf12}os{\kf15} is{\kf12}n't{\kf15} har{\kf12}mo{\kf10}ny
+Dialogue: 0,0:01:22.25,0:01:23.21,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf10} know{\kf13} you{\kf13} won't{\kf17} be{\kf26}lieve{\kf10} me
+Dialogue: 0,0:01:23.36,0:01:24.46,DEFAULT,,0,0,0,,{\r}{\kf10}But{\kf19} I'm{\kf29} so{\kf34} sor{\kf19}ry
+Dialogue: 0,0:01:24.61,0:01:25.36,DEFAULT,,0,0,0,,{\r}{\kf17}You're{\kf13} my{\kf17} on{\kf13}ly{\kf15} friend
+Dialogue: 0,0:01:25.50,0:01:26.57,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf13} no{\kf17} mat{\kf10}ter{\kf17} what{\kf13} I've{\kf24} done
+Dialogue: 0,0:01:26.89,0:01:29.04,DEFAULT,,0,0,0,,{\r}{\kf31}That{\kf35} friend{\kf31}ship{\kf35} can't{\kf39} end,{\kf43} no
+Dialogue: 0,0:01:31.75,0:01:33.64,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf28} Tree{\kf28} of{\kf28} Har{\kf32}mo{\kf49}ny
+Dialogue: 0,0:01:34.04,0:01:35.89,DEFAULT,,0,0,0,,{\r}{\kf33}That's{\kf29} where{\kf29} they{\kf25} said{\kf29} you'd{\kf41} be
+Dialogue: 0,0:01:36.32,0:01:38.36,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf61} though{\kf26} you{\kf26} don't{\kf30} know{\kf31} it
+Dialogue: 0,0:01:38.61,0:01:40.64,DEFAULT,,0,0,0,,{\r}{\kf31}You{\kf31} are{\kf27} a{\kf27}bout{\kf27} to{\kf31} grow{\kf30} it
+Dialogue: 0,0:01:40.89,0:01:42.79,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf28} Tree{\kf28} of{\kf28} Har{\kf32}mo{\kf49}ny
+Dialogue: 0,0:01:43.18,0:01:45.04,DEFAULT,,0,0,0,,{\r}{\kf33}That's{\kf29} where{\kf29} they{\kf25} said{\kf29} you'd{\kf41} be
+Dialogue: 0,0:01:45.46,0:01:47.50,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf61} though{\kf26} you{\kf26} don't{\kf30} know{\kf31} it
+Dialogue: 0,0:01:47.75,0:01:49.79,DEFAULT,,0,0,0,,{\r}{\kf31}You{\kf31} are{\kf27} a{\kf27}bout{\kf27} to{\kf31} grow{\kf30} it
+Dialogue: 0,0:01:59.21,0:02:01.82,DEFAULT,,0,0,0,,{\r}{\kf19}The{\kf61} Tree{\kf54}~{\kf31}~{\kf96}~
+Dialogue: 0,0:02:03.75,0:02:06.25,DEFAULT,,0,0,0,,{\r}{\kf27}The{\kf27} Tree{\kf27} of{\kf62} Har{\kf23}mo{\kf84}ny
+Dialogue: 0,0:02:08.32,0:02:11.04,DEFAULT,,0,0,0,,{\r}{\kf27}That's{\kf36} where{\kf22} I'm{\kf40} meant{\kf27} to{\kf119} be
+Dialogue: 0,0:02:12.89,0:02:15.11,DEFAULT,,0,0,0,,{\r}{\kf29}And{\kf54} if{\kf25} you{\kf33} don't{\kf33} know{\kf47} it
+Dialogue: 0,0:02:17.50,0:02:19.61,DEFAULT,,0,0,0,,{\r}{\kf27}I{\kf27} am{\kf27} a{\kf27}bout{\kf27} to{\kf36} show{\kf40} it
+Dialogue: 0,0:02:26.61,0:02:28.50,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf28} Tree{\kf28} of{\kf28} Har{\kf32}mo{\kf49}ny
+Dialogue: 0,0:02:28.89,0:02:30.75,DEFAULT,,0,0,0,,{\r}{\kf33}That's{\kf29} where{\kf29} they{\kf25} said{\kf29} you'd{\kf41} be
+Dialogue: 0,0:02:31.18,0:02:33.21,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf61} though{\kf26} you{\kf26} don't{\kf30} know{\kf31} it
+Dialogue: 0,0:02:33.46,0:02:35.50,DEFAULT,,0,0,0,,{\r}{\kf31}You{\kf31} are{\kf27} a{\kf27}bout{\kf27} to{\kf31} grow{\kf30} it
+Dialogue: 0,0:02:35.75,0:02:37.64,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf28} Tree{\kf28} of{\kf28} Har{\kf32}mo{\kf49}ny
+Dialogue: 0,0:02:38.04,0:02:39.89,DEFAULT,,0,0,0,,{\r}{\kf33}That's{\kf29} where{\kf29} they{\kf25} said{\kf29} you'd{\kf41} be
+Dialogue: 0,0:02:40.32,0:02:42.36,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf61} though{\kf26} you{\kf26} don't{\kf30} know{\kf31} it
+Dialogue: 0,0:02:42.61,0:02:44.64,DEFAULT,,0,0,0,,{\r}{\kf31}You{\kf31} are{\kf27} a{\kf27}bout{\kf27} to{\kf31} grow{\kf30} it
+Dialogue: 0,0:02:44.89,0:02:46.79,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf28} Tree{\kf28} of{\kf28} Har{\kf32}mo{\kf49}ny
+Dialogue: 0,0:02:47.18,0:02:49.04,DEFAULT,,0,0,0,,{\r}{\kf33}That's{\kf29} where{\kf29} they{\kf25} said{\kf29} you'd{\kf41} be
+Dialogue: 0,0:02:49.46,0:02:51.50,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf61} though{\kf26} you{\kf26} don't{\kf30} know{\kf31} it
+Dialogue: 0,0:02:51.75,0:02:53.79,DEFAULT,,0,0,0,,{\r}{\kf31}You{\kf31} are{\kf27} a{\kf27}bout{\kf27} to{\kf31} grow{\kf30} it
+Dialogue: 0,0:02:54.04,0:02:55.93,DEFAULT,,0,0,0,,{\r}{\kf24}The{\kf28} Tree{\kf28} of{\kf28} Har{\kf32}mo{\kf49}ny
+Dialogue: 0,0:02:56.32,0:02:58.18,DEFAULT,,0,0,0,,{\r}{\kf33}That's{\kf29} where{\kf29} they{\kf25} said{\kf29} you'd{\kf41} be
+Dialogue: 0,0:02:58.61,0:03:00.64,DEFAULT,,0,0,0,,{\r}{\kf30}And{\kf61} though{\kf26} you{\kf26} don't{\kf30} know{\kf31} it
+Dialogue: 0,0:03:00.89,0:03:02.93,DEFAULT,,0,0,0,,{\r}{\kf31}You{\kf31} are{\kf27} a{\kf27}bout{\kf27} to{\kf31} grow{\kf30} it

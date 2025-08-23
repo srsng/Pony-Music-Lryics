@@ -1,30 +1,37 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: I've got to find a way (Extended)
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.70,0:00:11.89,DEFAULT,,0,0,0,,{\kf29}I{\kf33} have{\kf33} to{\kf52} find{\kf33} a{\kf94} way
-Dialogue: 0,0:00:12.69,0:00:15.69,DEFAULT,,0,0,0,,{\kf19}To{\kf33} make{\kf33} this{\kf52} all{\kf19} o{\kf19}-o{\kf71}kay
-Dialogue: 0,0:00:16.49,0:00:19.86,DEFAULT,,0,0,0,,{\kf10}I{\kf24} can't{\kf19} be{\kf33}lieve{\kf29} this{\kf52} small{\kf15} mi{\kf19}-is{\kf90}take
-Dialogue: 0,0:00:20.66,0:00:23.52,DEFAULT,,0,0,0,,{\kf29}Could{\kf19} have{\kf29} caused{\kf33} so{\kf38} much{\kf24} he{\kf19}-art{\kf57}ache
-Dialogue: 0,0:00:23.76,0:00:31.26,DEFAULT,,0,0,0,,{\kf33}Oh{\kf296} why,{\kf29} oh{\kf127} why{\kf19}-e{\kf15}-y{\kf24}-e{\kf108}-y?
-Dialogue: 0,0:00:32.38,0:00:35.81,DEFAULT,,0,0,0,,{\kf19}Some{\kf24}thing{\kf19} is{\kf29} wrong,{\kf19} it's{\kf38} plain{\kf38} to{\kf94} see
-Dialogue: 0,0:00:36.47,0:00:39.75,DEFAULT,,0,0,0,,{\kf19}This{\kf24} is{\kf10}n't{\kf24} how{\kf33} it's{\kf47} meant{\kf24} to{\kf19}-o{\kf80} be
-Dialogue: 0,0:00:40.45,0:00:43.92,DEFAULT,,0,0,0,,{\kf15}And{\kf19} you{\kf19} can't{\kf24} see{\kf33} it{\kf38} like{\kf47} I{\kf99} do
-Dialogue: 0,0:00:44.44,0:00:47.44,DEFAULT,,0,0,0,,{\kf24}It's{\kf19} not{\kf19} the{\kf24} life{\kf29} that's{\kf33} meant{\kf15} fo{\kf24}-or{\kf52} you
-Dialogue: 0,0:00:47.72,0:00:55.41,DEFAULT,,0,0,0,,{\kf38}Oh{\kf291} why,{\kf33} oh{\kf122} why{\kf19}-e{\kf19}-y{\kf24}-e{\kf118}-y?
-Dialogue: 0,0:00:56.02,0:00:59.63,DEFAULT,,0,0,0,,{\kf94}Lo{\kf76}sing{\kf61} pro{\kf24}-o{\kf52}mise
-Dialogue: 0,0:00:59.96,0:01:03.48,DEFAULT,,0,0,0,,{\kf19}I{\kf43} don't{\kf24} kno{\kf19}-ow{\kf43} what{\kf43} to{\kf132} do
-Dialogue: 0,0:01:04.13,0:01:07.60,DEFAULT,,0,0,0,,{\kf76}See{\kf85}king{\kf76} ans{\kf47}wers
-Dialogue: 0,0:01:07.93,0:01:11.22,DEFAULT,,0,0,0,,{\kf15}I{\kf47} fear{\kf15} I{\kf19}-I{\kf47} won't{\kf33} get{\kf113} through
-Dialogue: 0,0:01:11.64,0:01:14.55,DEFAULT,,0,0,0,,{\kf19} To{\kf19}-o{\kf240} you
-Dialogue: 0,0:01:15.76,0:01:19.05,DEFAULT,,0,0,0,,{\kf29}I'll{\kf291} try
-Dialogue: 0,0:01:19.42,0:01:23.22,DEFAULT,,0,0,0,,{\kf19}I'm{\kf15} gon{\kf15}na{\kf132} try{\kf19}-e{\kf15}-y{\kf19}-e{\kf104}-y
-Dialogue: 0,0:01:23.74,0:01:27.21,DEFAULT,,0,0,0,,{\kf29}I'll{\kf305} try
-Dialogue: 0,0:01:27.44,0:01:32.27,DEFAULT,,0,0,0,,{\kf15}I'm{\kf15} gon{\kf15}na{\kf137} try{\kf19}-e{\kf15}-y{\kf15}-e{\kf207}-y
+Dialogue: 0,0:00:08.71,0:00:11.90,DEFAULT,,0,0,0,,{\r}{\kf33}I{\kf38} have{\kf38} to{\kf60} find{\kf38} a{\kf112} way
+Dialogue: 0,0:00:12.69,0:00:15.69,DEFAULT,,0,0,0,,{\r}{\kf23}To{\kf40} make{\kf40} this{\kf63} all{\kf23} o{\kf23}-o{\kf88}kay
+Dialogue: 0,0:00:16.49,0:00:19.87,DEFAULT,,0,0,0,,{\r}{\kf11}I{\kf28} can't{\kf22} be{\kf39}lieve{\kf33} this{\kf61} small{\kf17} mi{\kf22}-is{\kf105}take
+Dialogue: 0,0:00:20.67,0:00:23.53,DEFAULT,,0,0,0,,{\r}{\kf33}Could{\kf22} have{\kf33} caused{\kf39} so{\kf44} much{\kf28} he{\kf22}-art{\kf65}ache
+Dialogue: 0,0:00:23.76,0:00:31.26,DEFAULT,,0,0,0,,{\r}{\kf38}Oh{\kf342} why,{\kf33} oh{\kf147} why{\kf22}-e{\kf16}-y{\kf27}-e{\kf125}-y?
+Dialogue: 0,0:00:32.39,0:00:35.81,DEFAULT,,0,0,0,,{\r}{\kf23}Some{\kf29}thing{\kf23} is{\kf35} wrong,{\kf23} it's{\kf46} plain{\kf46} to{\kf117} see
+Dialogue: 0,0:00:36.47,0:00:39.75,DEFAULT,,0,0,0,,{\r}{\kf22}This{\kf28} is{\kf11}n't{\kf28} how{\kf39} it's{\kf56} meant{\kf28} to{\kf22}-o{\kf94} be
+Dialogue: 0,0:00:40.46,0:00:43.93,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf22} you{\kf22} can't{\kf28} see{\kf39} it{\kf45} like{\kf56} I{\kf118} do
+Dialogue: 0,0:00:44.44,0:00:47.44,DEFAULT,,0,0,0,,{\r}{\kf30}It's{\kf24} not{\kf24} the{\kf30} life{\kf36} that's{\kf42} meant{\kf18} fo{\kf30}-or{\kf66} you
+Dialogue: 0,0:00:47.73,0:00:55.42,DEFAULT,,0,0,0,,{\r}{\kf44}Oh{\kf338} why,{\kf38} oh{\kf142} why{\kf22}-e{\kf22}-y{\kf27}-e{\kf136}-y?
+Dialogue: 0,0:00:56.03,0:00:59.64,DEFAULT,,0,0,0,,{\r}{\kf111}Lo{\kf89}sing{\kf72} pro{\kf28}-o{\kf61}mise
+Dialogue: 0,0:00:59.97,0:01:03.48,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf47} don't{\kf26} kno{\kf21}-ow{\kf47} what{\kf47} to{\kf143} do
+Dialogue: 0,0:01:04.14,0:01:07.61,DEFAULT,,0,0,0,,{\r}{\kf93}See{\kf104}king{\kf93} ans{\kf57}wers
+Dialogue: 0,0:01:07.94,0:01:11.22,DEFAULT,,0,0,0,,{\r}{\kf16}I{\kf54} fear{\kf16} I{\kf22}-I{\kf54} won't{\kf38} get{\kf128} through
+Dialogue: 0,0:01:11.64,0:01:14.55,DEFAULT,,0,0,0,,{\r}{\kf20} To{\kf20}-o{\kf251} you
+Dialogue: 0,0:01:15.77,0:01:19.05,DEFAULT,,0,0,0,,{\r}{\kf29}I'll{\kf299} try
+Dialogue: 0,0:01:19.43,0:01:23.23,DEFAULT,,0,0,0,,{\r}{\kf21}I'm{\kf16} gon{\kf16}na{\kf150} try{\kf21}-e{\kf16}-y{\kf21}-e{\kf119}-y
+Dialogue: 0,0:01:23.74,0:01:27.21,DEFAULT,,0,0,0,,{\r}{\kf29}I'll{\kf318} try
+Dialogue: 0,0:01:27.45,0:01:32.28,DEFAULT,,0,0,0,,{\r}{\kf16}I'm{\kf16} gon{\kf16}na{\kf152} try{\kf21}-e{\kf16}-y{\kf16}-e{\kf230}-y

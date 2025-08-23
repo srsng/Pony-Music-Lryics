@@ -1,56 +1,63 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Good Time
+Artist: PrinceWhateverer, DreamChan
+Original Timing: mylittlekaraoke.com by Linos Melendi, amadas
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.53,0:00:11.43,DEFAULT,,0,0,0,,{\kf12}It's{\kf12} al{\kf12}ways{\kf12} a{\kf24} good{\kf28} time{\kf20}~
-Dialogue: 0,0:00:13.33,0:00:15.24,DEFAULT,,0,0,0,,{\kf12}It's{\kf12} al{\kf12}ways{\kf12} a{\kf24} good{\kf36} time{\kf24}~
-Dialogue: 0,0:00:19.41,0:00:22.62,DEFAULT,,0,0,0,,{\kf12}Woke{\kf32}~{\kf24} up{\kf16} on{\kf12} the{\kf24} right{\kf32} side{\kf20} of{\kf8} the{\kf28} bed
-Dialogue: 0,0:00:23.21,0:00:26.43,DEFAULT,,0,0,0,,{\kf12}What's{\kf16}~{\kf20} up{\kf16} with{\kf16} this{\kf8} Prince{\kf20}~{\kf12} song{\kf12} in{\kf12}side{\kf12} my{\kf28} head?
-Dialogue: 0,0:00:27.10,0:00:30.63,DEFAULT,,0,0,0,,{\kf28}Hands{\kf32} up{\kf16} if{\kf12} you're{\kf28} down{\kf20} to{\kf12} get{\kf36} down{\kf8} to{\kf52}night
-Dialogue: 0,0:00:32.14,0:00:34.29,DEFAULT,,0,0,0,,{\kf12}'Cause{\kf12} it's{\kf12} al{\kf12}ways{\kf12} a{\kf24} good{\kf28} time{\kf24}~
-Dialogue: 0,0:00:34.76,0:00:38.02,DEFAULT,,0,0,0,,{\kf8}Slept{\kf12}~{\kf28} in{\kf12} all{\kf12} my{\kf20} clothes{\kf16} like{\kf16} I{\kf16} did{\kf16}n't{\kf44} care
-Dialogue: 0,0:00:38.53,0:00:41.90,DEFAULT,,0,0,0,,{\kf8}Hopped{\kf16}~{\kf28} in{\kf16}to{\kf12} a{\kf28} cab{\kf20} take{\kf12} me{\kf12} an{\kf12}y{\kf48}where
-Dialogue: 0,0:00:42.34,0:00:46.11,DEFAULT,,0,0,0,,{\kf8}I'm{\kf28}~{\kf24} in{\kf20} if{\kf12} you're{\kf32} down{\kf20} to{\kf12} get{\kf36} down{\kf8} to{\kf64}night
-Dialogue: 0,0:00:47.38,0:00:49.56,DEFAULT,,0,0,0,,{\kf16}'Cause{\kf12} it's{\kf12} al{\kf12}ways{\kf12} a{\kf24} good{\kf24} time{\kf32}~
-Dialogue: 0,0:00:50.24,0:00:53.65,DEFAULT,,0,0,0,,{\kf12}Good{\kf8} morn{\kf12}ing{\kf12} and{\kf80} good{\kf155} night
-Dialogue: 0,0:00:54.01,0:00:57.18,DEFAULT,,0,0,0,,{\kf12}I'll{\kf8} wake{\kf12} up{\kf12} at{\kf76} twi{\kf127}light
-Dialogue: 0,0:00:57.86,0:01:00.63,DEFAULT,,0,0,0,,{\kf8}It's{\kf12} gon{\kf12}na{\kf12} be{\kf68} al{\kf12}~{\kf92}right
-Dialogue: 0,0:01:00.95,0:01:04.80,DEFAULT,,0,0,0,,{\kf12}We{\kf16} don't{\kf12} e{\kf12}ven{\kf12} have{\kf12} to{\kf28} try{\kf20} it's{\kf12} al{\kf12}ways{\kf16} a{\kf24} good{\kf24} time{\kf32}~
-Dialogue: 0,0:01:04.96,0:01:08.01,DEFAULT,,0,0,0,,{\kf28}Whoa{\kf24}~{\kf24}~{\kf12}~{\kf12}~{\kf24} oh{\kf24} oh{\kf8} oh{\kf16}~{\kf40} oh
-Dialogue: 0,0:01:08.77,0:01:12.38,DEFAULT,,0,0,0,,{\kf28}Whoa{\kf24}~{\kf24}~{\kf8}~{\kf12}~{\kf24} oh{\kf12} it's{\kf12} al{\kf12}ways{\kf12} a{\kf20} good{\kf24} time{\kf28}~
-Dialogue: 0,0:01:12.58,0:01:15.63,DEFAULT,,0,0,0,,{\kf28}Whoa{\kf24}~{\kf24}~{\kf8}~{\kf16}~{\kf24} oh{\kf28} oh{\kf12} oh{\kf20}~{\kf40} oh
-Dialogue: 0,0:01:16.23,0:01:20.00,DEFAULT,,0,0,0,,{\kf12}We{\kf16} don't{\kf12} e{\kf12}ven{\kf12} have{\kf12} to{\kf32} try{\kf12} it's{\kf12} al{\kf12}ways{\kf12} a{\kf24} good{\kf24} time{\kf24}~
-Dialogue: 0,0:01:21.86,0:01:23.81,DEFAULT,,0,0,0,,{\kf12}It's{\kf12} al{\kf12}ways{\kf8} a{\kf12} good{\kf32} time{\kf28}~
-Dialogue: 0,0:01:28.05,0:01:31.23,DEFAULT,,0,0,0,,{\kf12}Freaked{\kf20}~{\kf24} out{\kf16} dropped{\kf8} my{\kf32} phone{\kf12} in{\kf8} the{\kf20} pool{\kf8} a{\kf28}gain
-Dialogue: 0,0:01:31.86,0:01:34.96,DEFAULT,,0,0,0,,{\kf12}Checked{\kf16}~{\kf20} out{\kf16} of{\kf12} my{\kf8} room{\kf20}~{\kf12} hit{\kf12} the{\kf12} A{\kf12}T{\kf20}M
-Dialogue: 0,0:01:35.51,0:01:39.92,DEFAULT,,0,0,0,,{\kf8}Let's{\kf28} hang{\kf28} out{\kf12} if{\kf12} you're{\kf24} down{\kf12} to{\kf8} get{\kf24} down{\kf8} to{\kf48}night{\kf68}~
-Dialogue: 0,0:01:40.71,0:01:42.77,DEFAULT,,0,0,0,,{\kf12}'Cause{\kf12} it's{\kf12} al{\kf12}ways{\kf8} a{\kf20} good{\kf28} time{\kf16}~
-Dialogue: 0,0:01:43.57,0:01:46.70,DEFAULT,,0,0,0,,{\kf12}Good{\kf8} morn{\kf12}ing{\kf12} and{\kf76} good{\kf127} night
-Dialogue: 0,0:01:47.34,0:01:50.51,DEFAULT,,0,0,0,,{\kf12}I'll{\kf8} wake{\kf12} up{\kf12} at{\kf76} twi{\kf127}light
-Dialogue: 0,0:01:51.19,0:01:54.04,DEFAULT,,0,0,0,,{\kf8}It's{\kf12} gon{\kf12}na{\kf12} be{\kf68} al{\kf12}~{\kf100}right
-Dialogue: 0,0:01:54.28,0:01:58.09,DEFAULT,,0,0,0,,{\kf12}We{\kf16} don't{\kf20} e{\kf16}ven{\kf16} have{\kf12} to{\kf44} try{\kf12} it's{\kf12} al{\kf20}ways{\kf20} a{\kf24} good{\kf24} time{\kf28}~
-Dialogue: 0,0:01:58.29,0:02:01.34,DEFAULT,,0,0,0,,{\kf28}Whoa{\kf24}~{\kf24}~{\kf8}~{\kf20}~{\kf24} oh{\kf24} oh{\kf8} oh{\kf24}~{\kf40} oh
-Dialogue: 0,0:02:02.10,0:02:05.71,DEFAULT,,0,0,0,,{\kf28}Whoa{\kf24}~{\kf24}~{\kf20}~{\kf28} oh{\kf12} it's{\kf12} al{\kf12}ways{\kf12} a{\kf20} good{\kf24} time{\kf28}~
-Dialogue: 0,0:02:05.91,0:02:08.92,DEFAULT,,0,0,0,,{\kf28}Whoa{\kf24}~{\kf24}~{\kf8}~{\kf16}~{\kf24} oh{\kf28} oh{\kf8} oh{\kf16}~{\kf36} oh
-Dialogue: 0,0:02:09.52,0:02:13.37,DEFAULT,,0,0,0,,{\kf12}We{\kf16} don't{\kf16} e{\kf12}ven{\kf12} have{\kf12} to{\kf32} try{\kf12} it's{\kf12} al{\kf16}ways{\kf20} a{\kf20} good{\kf28} time{\kf28}~
-Dialogue: 0,0:02:13.57,0:02:16.58,DEFAULT,,0,0,0,,{\kf28}Whoa{\kf24}~{\kf20}~{\kf8}~{\kf20}~{\kf24} oh{\kf28} oh{\kf8} oh{\kf20}~{\kf36} oh
-Dialogue: 0,0:02:17.34,0:02:20.99,DEFAULT,,0,0,0,,{\kf28}Whoa{\kf24}~{\kf24}~{\kf8}~{\kf24}~{\kf28} oh{\kf12} it's{\kf12} al{\kf12}ways{\kf20} a{\kf24} good{\kf28} time{\kf32}~
-Dialogue: 0,0:02:21.15,0:02:24.16,DEFAULT,,0,0,0,,{\kf28}Whoa{\kf24}~{\kf24}~{\kf8}~{\kf16}~{\kf28} oh{\kf24} oh{\kf8} oh{\kf16}~{\kf36} oh
-Dialogue: 0,0:02:24.76,0:02:28.45,DEFAULT,,0,0,0,,{\kf12}We{\kf16} don't{\kf16} e{\kf16}ven{\kf16} have{\kf12} to{\kf36} try{\kf16} it's{\kf16} al{\kf16}ways{\kf20} a{\kf16} good{\kf28} time{\kf12}~
-Dialogue: 0,0:02:28.57,0:02:32.49,DEFAULT,,0,0,0,,{\kf12}Does{\kf8}n't{\kf12} mat{\kf12}ter{\kf28} when{\kf12} it's{\kf12} al{\kf12}ways{\kf8} a{\kf16} good{\kf16} time{\kf40} then
-Dialogue: 0,0:02:36.14,0:02:41.54,DEFAULT,,0,0,0,,{\kf12}Does{\kf8}n't{\kf12} mat{\kf12}ter{\kf28} when{\kf12} it's{\kf12} al{\kf12}ways{\kf8} a{\kf16} good{\kf16} time{\kf183} then
-Dialogue: 0,0:02:44.00,0:02:47.06,DEFAULT,,0,0,0,,{\kf28}Whoa{\kf24}~{\kf24}~{\kf8}~{\kf20}~{\kf24} oh{\kf24} oh{\kf8} oh{\kf24}~{\kf40} oh
-Dialogue: 0,0:02:47.85,0:02:51.46,DEFAULT,,0,0,0,,{\kf28}Whoa{\kf24}~{\kf20}~{\kf8}~{\kf20}~{\kf24} oh{\kf12} it's{\kf12} al{\kf12}ways{\kf12} a{\kf24} good{\kf24} time{\kf32}~
-Dialogue: 0,0:02:51.62,0:02:54.67,DEFAULT,,0,0,0,,{\kf28}Whoa{\kf24}~{\kf24}~{\kf8}~{\kf20}~{\kf24} oh{\kf24} oh{\kf8} oh{\kf24}~{\kf40} oh
-Dialogue: 0,0:02:55.23,0:02:59.04,DEFAULT,,0,0,0,,{\kf12}We{\kf16} don't{\kf16} e{\kf16}ven{\kf16} have{\kf12} to{\kf36} try{\kf16} it's{\kf16} al{\kf16}ways{\kf12} a{\kf16} good{\kf36} time{\kf24}~
-Dialogue: 0,0:02:59.24,0:03:02.29,DEFAULT,,0,0,0,,{\kf28}Whoa{\kf24}~{\kf24}~{\kf8}~{\kf20}~{\kf24} oh{\kf24} oh{\kf8} oh{\kf24}~{\kf40} oh
-Dialogue: 0,0:03:03.05,0:03:06.70,DEFAULT,,0,0,0,,{\kf28}Whoa{\kf24}~{\kf24}~{\kf8}~{\kf20}~{\kf24} oh{\kf12} it's{\kf12} al{\kf12}ways{\kf16} a{\kf24} good{\kf28} time{\kf32}~
-Dialogue: 0,0:03:06.86,0:03:09.91,DEFAULT,,0,0,0,,{\kf28}Whoa{\kf24}~{\kf24}~{\kf8}~{\kf20}~{\kf24} oh{\kf24} oh{\kf8} oh{\kf24}~{\kf40} oh
-Dialogue: 0,0:03:10.47,0:03:14.24,DEFAULT,,0,0,0,,{\kf12}We{\kf16} don't{\kf16} e{\kf16}ven{\kf16} have{\kf12} to{\kf32} try{\kf16} it's{\kf16} al{\kf16}ways{\kf12} a{\kf16} good{\kf36} time{\kf20}~
+Dialogue: 0,0:00:09.53,0:00:11.43,DEFAULT,,0,0,0,,{\r}{\kf19}It's{\kf19} al{\kf19}ways{\kf19} a{\kf38} good{\kf44} time{\kf32}~
+Dialogue: 0,0:00:13.34,0:00:15.24,DEFAULT,,0,0,0,,{\r}{\kf17}It's{\kf17} al{\kf17}ways{\kf17} a{\kf35} good{\kf52} time{\kf35}~
+Dialogue: 0,0:00:19.41,0:00:22.62,DEFAULT,,0,0,0,,{\r}{\kf19}Woke{\kf49}~{\kf37} up{\kf25} on{\kf19} the{\kf37} right{\kf49} side{\kf31} of{\kf12} the{\kf43} bed
+Dialogue: 0,0:00:23.22,0:00:26.43,DEFAULT,,0,0,0,,{\r}{\kf21}What's{\kf28}~{\kf35} up{\kf28} with{\kf28} this{\kf14} Prince{\kf35}~{\kf21} song{\kf21} in{\kf21}side{\kf21} my{\kf48} head?
+Dialogue: 0,0:00:27.11,0:00:30.64,DEFAULT,,0,0,0,,{\r}{\kf41}Hands{\kf46} up{\kf23} if{\kf17} you're{\kf41} down{\kf29} to{\kf17} get{\kf52} down{\kf12} to{\kf75}night
+Dialogue: 0,0:00:32.15,0:00:34.29,DEFAULT,,0,0,0,,{\r}{\kf19}'Cause{\kf19} it's{\kf19} al{\kf19}ways{\kf19} a{\kf38} good{\kf44} time{\kf37}~
+Dialogue: 0,0:00:34.77,0:00:38.02,DEFAULT,,0,0,0,,{\r}{\kf13}Slept{\kf20}~{\kf46} in{\kf20} all{\kf20} my{\kf32} clothes{\kf26} like{\kf26} I{\kf26} did{\kf26}n't{\kf70} care
+Dialogue: 0,0:00:38.54,0:00:41.91,DEFAULT,,0,0,0,,{\r}{\kf13}Hopped{\kf25}~{\kf45} in{\kf25}to{\kf19} a{\kf45} cab{\kf32} take{\kf19} me{\kf19} an{\kf19}y{\kf76}where
+Dialogue: 0,0:00:42.35,0:00:46.12,DEFAULT,,0,0,0,,{\r}{\kf11}I'm{\kf40}~{\kf34} in{\kf29} if{\kf17} you're{\kf46} down{\kf29} to{\kf17} get{\kf51} down{\kf11} to{\kf92}night
+Dialogue: 0,0:00:47.39,0:00:49.57,DEFAULT,,0,0,0,,{\r}{\kf24}'Cause{\kf18} it's{\kf18} al{\kf18}ways{\kf18} a{\kf36} good{\kf36} time{\kf50}~
+Dialogue: 0,0:00:50.24,0:00:53.65,DEFAULT,,0,0,0,,{\r}{\kf15}Good{\kf10} morn{\kf15}ing{\kf15} and{\kf97} good{\kf189} night
+Dialogue: 0,0:00:54.01,0:00:57.19,DEFAULT,,0,0,0,,{\r}{\kf15}I'll{\kf10} wake{\kf15} up{\kf15} at{\kf97} twi{\kf165}light
+Dialogue: 0,0:00:57.86,0:01:00.64,DEFAULT,,0,0,0,,{\r}{\kf10}It's{\kf15} gon{\kf15}na{\kf15} be{\kf88} al{\kf15}~{\kf120}right
+Dialogue: 0,0:01:00.96,0:01:04.80,DEFAULT,,0,0,0,,{\r}{\kf19}We{\kf25} don't{\kf19} e{\kf19}ven{\kf19} have{\kf19} to{\kf44} try{\kf32} it's{\kf19} al{\kf19}ways{\kf25} a{\kf38} good{\kf38} time{\kf50}~
+Dialogue: 0,0:01:04.96,0:01:08.02,DEFAULT,,0,0,0,,{\r}{\kf40}Whoa{\kf35}~{\kf35}~{\kf17}~{\kf17}~{\kf35} oh{\kf35} oh{\kf12} oh{\kf23}~{\kf57} oh
+Dialogue: 0,0:01:08.77,0:01:12.38,DEFAULT,,0,0,0,,{\r}{\kf42}Whoa{\kf36}~{\kf36}~{\kf12}~{\kf18}~{\kf36} oh{\kf18} it's{\kf18} al{\kf18}ways{\kf18} a{\kf30} good{\kf36} time{\kf43}~
+Dialogue: 0,0:01:12.58,0:01:15.64,DEFAULT,,0,0,0,,{\r}{\kf38}Whoa{\kf33}~{\kf33}~{\kf11}~{\kf22}~{\kf33} oh{\kf38} oh{\kf16} oh{\kf27}~{\kf55} oh
+Dialogue: 0,0:01:16.23,0:01:20.00,DEFAULT,,0,0,0,,{\r}{\kf20}We{\kf26} don't{\kf20} e{\kf20}ven{\kf20} have{\kf20} to{\kf53} try{\kf20} it's{\kf20} al{\kf20}ways{\kf20} a{\kf40} good{\kf40} time{\kf38}~
+Dialogue: 0,0:01:21.87,0:01:23.81,DEFAULT,,0,0,0,,{\r}{\kf20}It's{\kf20} al{\kf20}ways{\kf13} a{\kf20} good{\kf54} time{\kf47}~
+Dialogue: 0,0:01:28.06,0:01:31.23,DEFAULT,,0,0,0,,{\r}{\kf20}Freaked{\kf34}~{\kf40} out{\kf27} dropped{\kf13} my{\kf54} phone{\kf20} in{\kf13} the{\kf34} pool{\kf13} a{\kf49}gain
+Dialogue: 0,0:01:31.87,0:01:34.96,DEFAULT,,0,0,0,,{\r}{\kf22}Checked{\kf29}~{\kf36} out{\kf29} of{\kf22} my{\kf14} room{\kf36}~{\kf22} hit{\kf22} the{\kf22} A{\kf22}T{\kf34}M
+Dialogue: 0,0:01:35.52,0:01:39.92,DEFAULT,,0,0,0,,{\r}{\kf13}Let's{\kf44} hang{\kf44} out{\kf19} if{\kf19} you're{\kf38} down{\kf19} to{\kf13} get{\kf38} down{\kf13} to{\kf75}night{\kf105}~
+Dialogue: 0,0:01:40.72,0:01:42.78,DEFAULT,,0,0,0,,{\r}{\kf21}'Cause{\kf21} it's{\kf21} al{\kf21}ways{\kf14} a{\kf34} good{\kf48} time{\kf26}~
+Dialogue: 0,0:01:43.57,0:01:46.71,DEFAULT,,0,0,0,,{\r}{\kf15}Good{\kf10} morn{\kf15}ing{\kf15} and{\kf96} good{\kf162} night
+Dialogue: 0,0:01:47.34,0:01:50.52,DEFAULT,,0,0,0,,{\r}{\kf15}I'll{\kf10} wake{\kf15} up{\kf15} at{\kf97} twi{\kf165}light
+Dialogue: 0,0:01:51.19,0:01:54.05,DEFAULT,,0,0,0,,{\r}{\kf10}It's{\kf15} gon{\kf15}na{\kf15} be{\kf87} al{\kf15}~{\kf129}right
+Dialogue: 0,0:01:54.29,0:01:58.10,DEFAULT,,0,0,0,,{\r}{\kf17}We{\kf22} don't{\kf28} e{\kf22}ven{\kf22} have{\kf17} to{\kf61} try{\kf17} it's{\kf17} al{\kf28}ways{\kf28} a{\kf33} good{\kf33} time{\kf36}~
+Dialogue: 0,0:01:58.29,0:02:01.35,DEFAULT,,0,0,0,,{\r}{\kf38}Whoa{\kf33}~{\kf33}~{\kf11}~{\kf27}~{\kf33} oh{\kf33} oh{\kf11} oh{\kf33}~{\kf54} oh
+Dialogue: 0,0:02:02.10,0:02:05.71,DEFAULT,,0,0,0,,{\r}{\kf41}Whoa{\kf36}~{\kf36}~{\kf30}~{\kf41} oh{\kf18} it's{\kf18} al{\kf18}ways{\kf18} a{\kf30} good{\kf36} time{\kf39}~
+Dialogue: 0,0:02:05.91,0:02:08.93,DEFAULT,,0,0,0,,{\r}{\kf40}Whoa{\kf34}~{\kf34}~{\kf11}~{\kf23}~{\kf34} oh{\kf40} oh{\kf11} oh{\kf23}~{\kf52} oh
+Dialogue: 0,0:02:09.52,0:02:13.37,DEFAULT,,0,0,0,,{\r}{\kf19}We{\kf25} don't{\kf25} e{\kf19}ven{\kf19} have{\kf19} to{\kf50} try{\kf19} it's{\kf19} al{\kf25}ways{\kf31} a{\kf31} good{\kf43} time{\kf41}~
+Dialogue: 0,0:02:13.57,0:02:16.59,DEFAULT,,0,0,0,,{\r}{\kf39}Whoa{\kf34}~{\kf28}~{\kf11}~{\kf28}~{\kf34} oh{\kf39} oh{\kf11} oh{\kf28}~{\kf50} oh
+Dialogue: 0,0:02:17.34,0:02:20.99,DEFAULT,,0,0,0,,{\r}{\kf37}Whoa{\kf32}~{\kf32}~{\kf11}~{\kf32}~{\kf37} oh{\kf16} it's{\kf16} al{\kf16}ways{\kf26} a{\kf32} good{\kf37} time{\kf41}~
+Dialogue: 0,0:02:21.15,0:02:24.17,DEFAULT,,0,0,0,,{\r}{\kf40}Whoa{\kf34}~{\kf34}~{\kf11}~{\kf23}~{\kf40} oh{\kf34} oh{\kf11} oh{\kf23}~{\kf52} oh
+Dialogue: 0,0:02:24.76,0:02:28.45,DEFAULT,,0,0,0,,{\r}{\kf18}We{\kf24} don't{\kf24} e{\kf24}ven{\kf24} have{\kf18} to{\kf54} try{\kf24} it's{\kf24} al{\kf24}ways{\kf30} a{\kf24} good{\kf42} time{\kf15}~
+Dialogue: 0,0:02:28.57,0:02:32.50,DEFAULT,,0,0,0,,{\r}{\kf25}Does{\kf17}n't{\kf25} mat{\kf25}ter{\kf59} when{\kf25} it's{\kf25} al{\kf25}ways{\kf17} a{\kf33} good{\kf33} time{\kf84} then
+Dialogue: 0,0:02:36.15,0:02:41.55,DEFAULT,,0,0,0,,{\r}{\kf20}Does{\kf13}n't{\kf20} mat{\kf20}ter{\kf46} when{\kf20} it's{\kf20} al{\kf20}ways{\kf13} a{\kf26} good{\kf26} time{\kf296} then
+Dialogue: 0,0:02:44.01,0:02:47.06,DEFAULT,,0,0,0,,{\r}{\kf38}Whoa{\kf33}~{\kf33}~{\kf11}~{\kf27}~{\kf33} oh{\kf33} oh{\kf11} oh{\kf33}~{\kf54} oh
+Dialogue: 0,0:02:47.85,0:02:51.47,DEFAULT,,0,0,0,,{\r}{\kf40}Whoa{\kf34}~{\kf29}~{\kf11}~{\kf29}~{\kf34} oh{\kf17} it's{\kf17} al{\kf17}ways{\kf17} a{\kf34} good{\kf34} time{\kf48}~
+Dialogue: 0,0:02:51.62,0:02:54.68,DEFAULT,,0,0,0,,{\r}{\kf38}Whoa{\kf33}~{\kf33}~{\kf11}~{\kf27}~{\kf33} oh{\kf33} oh{\kf11} oh{\kf33}~{\kf54} oh
+Dialogue: 0,0:02:55.24,0:02:59.04,DEFAULT,,0,0,0,,{\r}{\kf18}We{\kf23} don't{\kf23} e{\kf23}ven{\kf23} have{\kf18} to{\kf53} try{\kf23} it's{\kf23} al{\kf23}ways{\kf18} a{\kf23} good{\kf53} time{\kf37}~
+Dialogue: 0,0:02:59.24,0:03:02.30,DEFAULT,,0,0,0,,{\r}{\kf38}Whoa{\kf33}~{\kf33}~{\kf11}~{\kf27}~{\kf33} oh{\kf33} oh{\kf11} oh{\kf33}~{\kf54} oh
+Dialogue: 0,0:03:03.05,0:03:06.70,DEFAULT,,0,0,0,,{\r}{\kf39}Whoa{\kf33}~{\kf33}~{\kf11}~{\kf28}~{\kf33} oh{\kf17} it's{\kf17} al{\kf17}ways{\kf22} a{\kf33} good{\kf39} time{\kf43}~
+Dialogue: 0,0:03:06.86,0:03:09.92,DEFAULT,,0,0,0,,{\r}{\kf38}Whoa{\kf33}~{\kf33}~{\kf11}~{\kf27}~{\kf33} oh{\kf33} oh{\kf11} oh{\kf33}~{\kf54} oh
+Dialogue: 0,0:03:10.47,0:03:14.24,DEFAULT,,0,0,0,,{\r}{\kf18}We{\kf24} don't{\kf24} e{\kf24}ven{\kf24} have{\kf18} to{\kf48} try{\kf24} it's{\kf24} al{\kf24}ways{\kf18} a{\kf24} good{\kf54} time{\kf29}~

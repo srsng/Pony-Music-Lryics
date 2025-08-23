@@ -1,62 +1,69 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Sweetie's Big Race
+Artist: Friendship is Witchcraft
+Original Timing: mylittlekaraoke.com by Fiery
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:11.84,0:00:12.87,DEFAULT,,0,0,0,,{\kf10}The{\kf19} race{\kf15} has{\kf15} be{\kf29}gun
-Dialogue: 0,0:00:13.48,0:00:14.37,DEFAULT,,0,0,0,,{\kf15}We{\kf15} must{\kf15} run{\kf33} fast
-Dialogue: 0,0:00:14.79,0:00:15.92,DEFAULT,,0,0,0,,{\kf15}Jump{\kf19} o{\kf10}ver{\kf10} the{\kf38} mud
-Dialogue: 0,0:00:16.43,0:00:17.75,DEFAULT,,0,0,0,,{\kf19}Hav{\kf15} ing{\kf15} a{\kf33} good{\kf33} time
-Dialogue: 0,0:00:17.93,0:00:18.87,DEFAULT,,0,0,0,,{\kf19}Where's{\kf15} Ap{\kf15}ple{\kf33}jack?
-Dialogue: 0,0:00:19.29,0:00:20.33,DEFAULT,,0,0,0,,{\kf19}She{\kf15} fell{\kf15} in{\kf15} the{\kf24} mud
-Dialogue: 0,0:00:20.98,0:00:21.83,DEFAULT,,0,0,0,,{\kf15}Are{\kf15} you{\kf15} o{\kf29}kay?
-Dialogue: 0,0:00:22.43,0:00:23.79,DEFAULT,,0,0,0,,{\kf19}We{\kf10} can{\kf33} still{\kf29} win{\kf24} this
-Dialogue: 0,0:00:23.93,0:00:24.97,DEFAULT,,0,0,0,,{\kf19}Jump{\kf15} in{\kf10} a{\kf15} buck{\kf24}et
-Dialogue: 0,0:00:25.34,0:00:26.37,DEFAULT,,0,0,0,,{\kf15}That{\kf15} looked{\kf15} like{\kf15} it{\kf29} hurts
-Dialogue: 0,0:00:26.93,0:00:28.01,DEFAULT,,0,0,0,,{\kf19}I{\kf15} know{\kf10} what{\kf19} pain{\kf29} is
-Dialogue: 0,0:00:28.20,0:00:29.61,DEFAULT,,0,0,0,,{\kf19}It's{\kf19} great{\kf15} to{\kf19} be{\kf10} a{\kf38}live
-Dialogue: 0,0:00:29.89,0:00:31.29,DEFAULT,,0,0,0,,{\kf19}But{\kf19} when{\kf15} I{\kf10} am{\kf15} feel{\kf19}ing{\kf19} weak
-Dialogue: 0,0:00:31.43,0:00:32.79,DEFAULT,,0,0,0,,{\kf15}and{\kf15} when{\kf15} I{\kf15} am{\kf15} feel{\kf15} ing{\kf24} down
-Dialogue: 0,0:00:32.93,0:00:34.29,DEFAULT,,0,0,0,,{\kf15}She{\kf15} is{\kf15} there{\kf15} to{\kf15} lift{\kf19} me{\kf19} up
-Dialogue: 0,0:00:34.43,0:00:35.93,DEFAULT,,0,0,0,,{\kf19}Lift{\kf10} me{\kf15} up{\kf15} o{\kf15}ver{\kf15} this{\kf19} bo{\kf15}-ox
-Dialogue: 0,0:00:36.12,0:00:39.40,DEFAULT,,0,0,0,,{\kf19}Yes,{\kf33} I{\kf24} love{\kf33} my{\kf24} sis{\kf29}ter{\kf29} Ap{\kf33}ple{\kf52}jack
-Dialogue: 0,0:00:40.81,0:00:41.79,DEFAULT,,0,0,0,,{\kf29}Bum{\kf29} bum{\kf33} bum
-Dialogue: 0,0:00:41.93,0:00:42.83,DEFAULT,,0,0,0,,{\kf15}Eat{\kf15}ing{\kf19} some{\kf29} pie
-Dialogue: 0,0:00:43.48,0:00:44.28,DEFAULT,,0,0,0,,{\kf15}No{\kf15} time{\kf10} to{\kf29} chew
-Dialogue: 0,0:00:44.93,0:00:45.73,DEFAULT,,0,0,0,,{\kf10}Push{\kf15}ing{\kf15} some{\kf29} hay
-Dialogue: 0,0:00:46.43,0:00:47.33,DEFAULT,,0,0,0,,{\kf15}No{\kf15} time{\kf10} to{\kf38} lose
-Dialogue: 0,0:00:47.89,0:00:49.29,DEFAULT,,0,0,0,,{\kf15}Push{\kf15}ing{\kf19} this{\kf15} hay{\kf10} real{\kf15}ly{\kf29} far
-Dialogue: 0,0:00:49.48,0:00:50.70,DEFAULT,,0,0,0,,{\kf10}Push{\kf19}ing{\kf19} hay{\kf15} is{\kf15} real{\kf15}ly{\kf15} hard!
-Dialogue: 0,0:00:50.89,0:00:52.25,DEFAULT,,0,0,0,,{\kf15}Run{\kf15}ning{\kf15} in{\kf10} a{\kf15} cir{\kf15}cle{\kf24} yes
-Dialogue: 0,0:00:52.39,0:00:53.75,DEFAULT,,0,0,0,,{\kf15}Hav{\kf15}ing{\kf15} so{\kf15} much{\kf19} fun{\kf15} hoo{\kf19}ray
-Dialogue: 0,0:00:53.93,0:00:55.01,DEFAULT,,0,0,0,,{\kf15}Got{\kf15} to{\kf15} chuck{\kf19} some{\kf29} grapes?
-Dialogue: 0,0:00:55.43,0:00:56.47,DEFAULT,,0,0,0,,{\kf15}Throw{\kf15} them{\kf15} with{\kf10} your{\kf33} face!
-Dialogue: 0,0:00:56.84,0:00:58.15,DEFAULT,,0,0,0,,{\kf38}Sis{\kf29}ter{\kf33} toss{\kf15} and
-Dialogue: 0,0:00:58.29,0:00:59.75,DEFAULT,,0,0,0,,{\kf38}squish{\kf29} and{\kf38} squash{\kf19} and
-Dialogue: 0,0:00:59.89,0:01:01.20,DEFAULT,,0,0,0,,{\kf19}Mak{\kf19} ing{\kf15} ta{\kf15}cky{\kf15} jel{\kf29}ly
-Dialogue: 0,0:01:01.43,0:01:02.47,DEFAULT,,0,0,0,,{\kf15}Put{\kf15} it{\kf15} on{\kf15} your{\kf29} head
-Dialogue: 0,0:01:02.84,0:01:03.97,DEFAULT,,0,0,0,,{\kf15}We're{\kf10} gon{\kf15}na{\kf15} win{\kf10} the{\kf29} race
-Dialogue: 0,0:01:04.29,0:01:05.79,DEFAULT,,0,0,0,,{\kf15}Be{\kf19}cause{\kf15} I{\kf10} am{\kf15} a{\kf19} good{\kf15} ra{\kf10}cer
-Dialogue: 0,0:01:05.93,0:01:07.25,DEFAULT,,0,0,0,,{\kf15}I{\kf15} am{\kf15} run{\kf15}ning{\kf10} oh{\kf19} so{\kf19} fast
-Dialogue: 0,0:01:07.39,0:01:08.75,DEFAULT,,0,0,0,,{\kf15}Fun{\kf15} le{\kf19}vels{\kf15} are{\kf15} to{\kf15} the{\kf19} max
-Dialogue: 0,0:01:08.89,0:01:10.25,DEFAULT,,0,0,0,,{\kf15}Ap{\kf15}ple{\kf19}jack{\kf19} flies{\kf15} through{\kf10} the{\kf19} air
-Dialogue: 0,0:01:10.39,0:01:11.75,DEFAULT,,0,0,0,,{\kf19}Ap{\kf15}ples{\kf15} fall{\kf15} with{\kf15}out{\kf10} a{\kf24} care
-Dialogue: 0,0:01:11.89,0:01:13.29,DEFAULT,,0,0,0,,{\kf15}Ap{\kf15}ples{\kf15} are{\kf15} not{\kf15} meant{\kf10} to{\kf33} fly!
-Dialogue: 0,0:01:13.43,0:01:14.79,DEFAULT,,0,0,0,,{\kf15}No{\kf15} ap{\kf15}ples{\kf15} get{\kf15} left{\kf15} be{\kf24}hind
-Dialogue: 0,0:01:14.93,0:01:16.29,DEFAULT,,0,0,0,,{\kf15}When{\kf15} small{\kf15} things{\kf15} get{\kf15} kicked{\kf10} ar{\kf29}ound
-Dialogue: 0,0:01:16.43,0:01:17.79,DEFAULT,,0,0,0,,{\kf15}They{\kf15} just{\kf15} might{\kf15} dest{\kf15}roy{\kf10} the{\kf29} town
-Dialogue: 0,0:01:23.89,0:01:25.25,DEFAULT,,0,0,0,,{\kf15}When{\kf15} I'm{\kf15} feel{\kf15}ing{\kf15} bro{\kf15}ken{\kf24} down
-Dialogue: 0,0:01:25.39,0:01:26.79,DEFAULT,,0,0,0,,{\kf15}She{\kf19} has{\kf15} al{\kf15}ways{\kf19} got{\kf15} my{\kf19} back
-Dialogue: 0,0:01:26.93,0:01:28.29,DEFAULT,,0,0,0,,{\kf15}Life{\kf15} is{\kf15} worth{\kf15} pro{\kf19}tec{\kf15}ting{\kf19} now
-Dialogue: 0,0:01:28.43,0:01:29.89,DEFAULT,,0,0,0,,{\kf15}Place{\kf15} it{\kf15} in{\kf15} that{\kf19} gi{\kf15}ant{\kf15} ha{\kf10}-at
-Dialogue: 0,0:01:30.03,0:01:33.17,DEFAULT,,0,0,0,,{\kf24}Yes{\kf29} I{\kf29} love{\kf29} my{\kf33} sis{\kf29}ter{\kf38} Ap{\kf29}ple{\kf24}jack
-Dialogue: 0,0:01:33.31,0:01:35.33,DEFAULT,,0,0,0,,{\kf19}Now{\kf15} we're{\kf10} ra{\kf15}cing{\kf19} towards{\kf10} the{\kf19} fi{\kf24}nish{\kf38} line
-Dialogue: 0,0:01:35.51,0:01:38.33,DEFAULT,,0,0,0,,{\kf15}No{\kf15}thing{\kf15} mat{\kf15}ters{\kf19} once{\kf15} you{\kf15} die{\kf15} but{\kf15} we're{\kf10} a{\kf19}long{\kf15} for{\kf15} the{\kf33} ride
-Dialogue: 0,0:01:38.56,0:01:41.33,DEFAULT,,0,0,0,,{\kf15}And{\kf10} you{\kf15} sa{\kf15}cri{\kf19}fice{\kf15} some{\kf15} mean{\kf15}ing{\kf15} just{\kf10} to{\kf15} have{\kf15} the{\kf24} words{\kf29} rhyme
-Dialogue: 0,0:01:41.56,0:01:44.42,DEFAULT,,0,0,0,,{\kf15}In{\kf15} the{\kf10} end{\kf10} it{\kf15} all{\kf24} comes{\kf15} down{\kf10} to{\kf15} just{\kf15} how{\kf19} far{\kf15} we{\kf10} can{\kf47} slide!
+Dialogue: 0,0:00:11.85,0:00:12.88,DEFAULT,,0,0,0,,{\r}{\kf11}The{\kf23} race{\kf17} has{\kf17} be{\kf35}gun
+Dialogue: 0,0:00:13.49,0:00:14.38,DEFAULT,,0,0,0,,{\r}{\kf17}We{\kf17} must{\kf17} run{\kf38} fast
+Dialogue: 0,0:00:14.80,0:00:15.92,DEFAULT,,0,0,0,,{\r}{\kf18}Jump{\kf24} o{\kf12}ver{\kf12} the{\kf46} mud
+Dialogue: 0,0:00:16.44,0:00:17.75,DEFAULT,,0,0,0,,{\r}{\kf22}Hav{\kf16} ing{\kf16} a{\kf38} good{\kf39} time
+Dialogue: 0,0:00:17.94,0:00:18.88,DEFAULT,,0,0,0,,{\r}{\kf22}Where's{\kf17} Ap{\kf17}ple{\kf38}jack?
+Dialogue: 0,0:00:19.30,0:00:20.33,DEFAULT,,0,0,0,,{\r}{\kf23}She{\kf17} fell{\kf17} in{\kf17} the{\kf29} mud
+Dialogue: 0,0:00:20.99,0:00:21.83,DEFAULT,,0,0,0,,{\r}{\kf17}Are{\kf17} you{\kf17} o{\kf33}kay?
+Dialogue: 0,0:00:22.44,0:00:23.80,DEFAULT,,0,0,0,,{\r}{\kf23}We{\kf11} can{\kf40} still{\kf34} win{\kf28} this
+Dialogue: 0,0:00:23.94,0:00:24.97,DEFAULT,,0,0,0,,{\r}{\kf24}Jump{\kf18} in{\kf12} a{\kf18} buck{\kf31}et
+Dialogue: 0,0:00:25.35,0:00:26.38,DEFAULT,,0,0,0,,{\r}{\kf17}That{\kf17} looked{\kf17} like{\kf17} it{\kf35} hurts
+Dialogue: 0,0:00:26.94,0:00:28.02,DEFAULT,,0,0,0,,{\r}{\kf23}I{\kf17} know{\kf11} what{\kf23} pain{\kf34} is
+Dialogue: 0,0:00:28.21,0:00:29.61,DEFAULT,,0,0,0,,{\r}{\kf23}It's{\kf23} great{\kf17} to{\kf23} be{\kf11} a{\kf44}live
+Dialogue: 0,0:00:29.89,0:00:31.30,DEFAULT,,0,0,0,,{\r}{\kf24}But{\kf24} when{\kf18} I{\kf12} am{\kf18} feel{\kf24}ing{\kf21} weak
+Dialogue: 0,0:00:31.44,0:00:32.80,DEFAULT,,0,0,0,,{\r}{\kf18}and{\kf18} when{\kf18} I{\kf18} am{\kf18} feel{\kf18} ing{\kf28} down
+Dialogue: 0,0:00:32.94,0:00:34.30,DEFAULT,,0,0,0,,{\r}{\kf18}She{\kf18} is{\kf18} there{\kf18} to{\kf18} lift{\kf24} me{\kf22} up
+Dialogue: 0,0:00:34.44,0:00:35.94,DEFAULT,,0,0,0,,{\r}{\kf24}Lift{\kf12} me{\kf18} up{\kf18} o{\kf18}ver{\kf18} this{\kf24} bo{\kf18}-ox
+Dialogue: 0,0:00:36.13,0:00:39.41,DEFAULT,,0,0,0,,{\r}{\kf23}Yes,{\kf40} I{\kf28} love{\kf40} my{\kf28} sis{\kf34}ter{\kf34} Ap{\kf40}ple{\kf61}jack
+Dialogue: 0,0:00:40.81,0:00:41.80,DEFAULT,,0,0,0,,{\r}{\kf31}Bum{\kf31} bum{\kf36} bum
+Dialogue: 0,0:00:41.94,0:00:42.83,DEFAULT,,0,0,0,,{\r}{\kf17}Eat{\kf17}ing{\kf22} some{\kf33} pie
+Dialogue: 0,0:00:43.49,0:00:44.28,DEFAULT,,0,0,0,,{\r}{\kf17}No{\kf17} time{\kf11} to{\kf35} chew
+Dialogue: 0,0:00:44.94,0:00:45.74,DEFAULT,,0,0,0,,{\r}{\kf11}Push{\kf17}ing{\kf17} some{\kf35} hay
+Dialogue: 0,0:00:46.44,0:00:47.33,DEFAULT,,0,0,0,,{\r}{\kf17}No{\kf17} time{\kf11} to{\kf44} lose
+Dialogue: 0,0:00:47.89,0:00:49.30,DEFAULT,,0,0,0,,{\r}{\kf18}Push{\kf18}ing{\kf24} this{\kf18} hay{\kf12} real{\kf18}ly{\kf33} far
+Dialogue: 0,0:00:49.49,0:00:50.71,DEFAULT,,0,0,0,,{\r}{\kf11}Push{\kf22}ing{\kf22} hay{\kf17} is{\kf17} real{\kf17}ly{\kf16} hard!
+Dialogue: 0,0:00:50.89,0:00:52.25,DEFAULT,,0,0,0,,{\r}{\kf19}Run{\kf19}ning{\kf19} in{\kf12} a{\kf19} cir{\kf19}cle{\kf29} yes
+Dialogue: 0,0:00:52.39,0:00:53.75,DEFAULT,,0,0,0,,{\r}{\kf18}Hav{\kf18}ing{\kf18} so{\kf18} much{\kf24} fun{\kf18} hoo{\kf22}ray
+Dialogue: 0,0:00:53.94,0:00:55.02,DEFAULT,,0,0,0,,{\r}{\kf17}Got{\kf17} to{\kf17} chuck{\kf23} some{\kf34} grapes?
+Dialogue: 0,0:00:55.44,0:00:56.47,DEFAULT,,0,0,0,,{\r}{\kf17}Throw{\kf17} them{\kf17} with{\kf11} your{\kf41} face!
+Dialogue: 0,0:00:56.85,0:00:58.16,DEFAULT,,0,0,0,,{\r}{\kf44}Sis{\kf33}ter{\kf38} toss{\kf16} and
+Dialogue: 0,0:00:58.30,0:00:59.75,DEFAULT,,0,0,0,,{\r}{\kf45}squish{\kf33} and{\kf45} squash{\kf22} and
+Dialogue: 0,0:00:59.89,0:01:01.21,DEFAULT,,0,0,0,,{\r}{\kf23}Mak{\kf23} ing{\kf17} ta{\kf17}cky{\kf17} jel{\kf34}ly
+Dialogue: 0,0:01:01.44,0:01:02.47,DEFAULT,,0,0,0,,{\r}{\kf17}Put{\kf17} it{\kf17} on{\kf17} your{\kf35} head
+Dialogue: 0,0:01:02.85,0:01:03.97,DEFAULT,,0,0,0,,{\r}{\kf18}We're{\kf12} gon{\kf18}na{\kf18} win{\kf12} the{\kf34} race
+Dialogue: 0,0:01:04.30,0:01:05.80,DEFAULT,,0,0,0,,{\r}{\kf19}Be{\kf25}cause{\kf19} I{\kf12} am{\kf19} a{\kf25} good{\kf19} ra{\kf12}cer
+Dialogue: 0,0:01:05.94,0:01:07.25,DEFAULT,,0,0,0,,{\r}{\kf18}I{\kf18} am{\kf18} run{\kf18}ning{\kf12} oh{\kf24} so{\kf23} fast
+Dialogue: 0,0:01:07.39,0:01:08.75,DEFAULT,,0,0,0,,{\r}{\kf18}Fun{\kf18} le{\kf24}vels{\kf18} are{\kf18} to{\kf18} the{\kf22} max
+Dialogue: 0,0:01:08.89,0:01:10.25,DEFAULT,,0,0,0,,{\r}{\kf18}Ap{\kf18}ple{\kf24}jack{\kf24} flies{\kf18} through{\kf12} the{\kf22} air
+Dialogue: 0,0:01:10.39,0:01:11.75,DEFAULT,,0,0,0,,{\r}{\kf24}Ap{\kf18}ples{\kf18} fall{\kf18} with{\kf18}out{\kf12} a{\kf28} care
+Dialogue: 0,0:01:11.89,0:01:13.30,DEFAULT,,0,0,0,,{\r}{\kf18}Ap{\kf18}ples{\kf18} are{\kf18} not{\kf18} meant{\kf12} to{\kf39} fly!
+Dialogue: 0,0:01:13.44,0:01:14.80,DEFAULT,,0,0,0,,{\r}{\kf18}No{\kf18} ap{\kf18}ples{\kf18} get{\kf18} left{\kf18} be{\kf28}hind
+Dialogue: 0,0:01:14.94,0:01:16.30,DEFAULT,,0,0,0,,{\r}{\kf18}When{\kf18} small{\kf18} things{\kf18} get{\kf18} kicked{\kf12} ar{\kf34}ound
+Dialogue: 0,0:01:16.44,0:01:17.80,DEFAULT,,0,0,0,,{\r}{\kf18}They{\kf18} just{\kf18} might{\kf18} dest{\kf18}roy{\kf12} the{\kf34} town
+Dialogue: 0,0:01:23.89,0:01:25.25,DEFAULT,,0,0,0,,{\r}{\kf18}When{\kf18} I'm{\kf18} feel{\kf18}ing{\kf18} bro{\kf18}ken{\kf28} down
+Dialogue: 0,0:01:25.39,0:01:26.80,DEFAULT,,0,0,0,,{\r}{\kf18}She{\kf24} has{\kf18} al{\kf18}ways{\kf24} got{\kf18} my{\kf21} back
+Dialogue: 0,0:01:26.94,0:01:28.30,DEFAULT,,0,0,0,,{\r}{\kf18}Life{\kf18} is{\kf18} worth{\kf18} pro{\kf24}tec{\kf18}ting{\kf22} now
+Dialogue: 0,0:01:28.44,0:01:29.89,DEFAULT,,0,0,0,,{\r}{\kf18}Place{\kf18} it{\kf18} in{\kf18} that{\kf24} gi{\kf18}ant{\kf18} ha{\kf13}-at
+Dialogue: 0,0:01:30.03,0:01:33.17,DEFAULT,,0,0,0,,{\r}{\kf29}Yes{\kf34} I{\kf34} love{\kf34} my{\kf40} sis{\kf34}ter{\kf46} Ap{\kf34}ple{\kf29}jack
+Dialogue: 0,0:01:33.31,0:01:35.33,DEFAULT,,0,0,0,,{\r}{\kf23}Now{\kf17} we're{\kf12} ra{\kf17}cing{\kf23} towards{\kf12} the{\kf23} fi{\kf29}nish{\kf46} line
+Dialogue: 0,0:01:35.52,0:01:38.33,DEFAULT,,0,0,0,,{\r}{\kf18}No{\kf18}thing{\kf18} mat{\kf18}ters{\kf24} once{\kf18} you{\kf18} die{\kf18} but{\kf18} we're{\kf12} a{\kf24}long{\kf18} for{\kf18} the{\kf41} ride
+Dialogue: 0,0:01:38.56,0:01:41.33,DEFAULT,,0,0,0,,{\r}{\kf18}And{\kf12} you{\kf18} sa{\kf18}cri{\kf24}fice{\kf18} some{\kf18} mean{\kf18}ing{\kf18} just{\kf12} to{\kf18} have{\kf18} the{\kf30} words{\kf37} rhyme
+Dialogue: 0,0:01:41.56,0:01:44.42,DEFAULT,,0,0,0,,{\r}{\kf18}In{\kf18} the{\kf12} end{\kf12} it{\kf18} all{\kf30} comes{\kf18} down{\kf12} to{\kf18} just{\kf18} how{\kf24} far{\kf18} we{\kf12} can{\kf58} slide!

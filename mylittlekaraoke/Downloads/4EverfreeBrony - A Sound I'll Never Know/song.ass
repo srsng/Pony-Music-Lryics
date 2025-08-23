@@ -1,46 +1,53 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: A Sound I'll Never Know
+Artist: 4EverfreeBrony
+Original Timing: mylittlekaraoke.com by lily
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.45,0:00:19.63,DEFAULT,,0,0,0,,{\kf1455}There's{\kf1455} an{\kf1473} e{\kf1473}cho{\kf1557} out{\kf1455} in{\kf1455} the{\kf1464} out{\kf1464}side{\kf1557} world
-Dialogue: 0,0:00:20.37,0:00:25.09,DEFAULT,,0,0,0,,{\kf1455}There's{\kf1455} a{\kf1459} whis{\kf1473}per{\kf1575}ing{\kf1492} in{\kf1455} the{\kf1473} bre{\kf1547}-eeze
-Dialogue: 0,0:00:26.07,0:00:31.57,DEFAULT,,0,0,0,,{\kf1455}And{\kf1455} if{\kf1455} you're{\kf1459} lis{\kf1464}ten{\kf1566}ing{\kf1455} though{\kf1455} the{\kf1473} fall{\kf1455}-i{\kf1459}-ing{\kf1473} le{\kf1529}-eaves
-Dialogue: 0,0:00:32.22,0:00:36.62,DEFAULT,,0,0,0,,{\kf1455}There's{\kf1455} a{\kf1455} dre{\kf1492}-eam{\kf1515} for{\kf1510} ev{\kf1459}ery{\kf1492}thi{\kf1533}-ing
-Dialogue: 0,0:00:38.52,0:00:43.06,DEFAULT,,0,0,0,,{\kf1473}All{\kf1473} I've{\kf1455} e{\kf1473}ver{\kf1487} want{\kf1473}ed{\kf1487} is{\kf1455} a{\kf1598} friend
-Dialogue: 0,0:00:44.07,0:00:46.95,DEFAULT,,0,0,0,,{\kf1455}So{\kf1459}-ome{\kf1473}one{\kf1455} who{\kf1492} un{\kf1455}der{\kf1501}stands{\kf1459} me{\kf1469}-e
-Dialogue: 0,0:00:47.18,0:00:49.12,DEFAULT,,0,0,0,,{\kf1459}And{\kf1455} doe{\kf1469}sn't{\kf1492} just{\kf1455} pre{\kf1487}tend
-Dialogue: 0,0:00:49.35,0:00:54.82,DEFAULT,,0,0,0,,{\kf1455}And{\kf1478} I{\kf1506} know{\kf1506} they're{\kf1501} out{\kf1496} there{\kf1473} so{\kf1469}-ome{\kf1557}where
-Dialogue: 0,0:00:55.56,0:01:00.56,DEFAULT,,0,0,0,,{\kf1473}Ju{\kf1464}-ust{\kf1473} wait{\kf1469}ing{\kf1464} to{\kf1543} say{\kf1473} hel{\kf1612}lo
-Dialogue: 0,0:01:01.11,0:01:06.67,DEFAULT,,0,0,0,,{\kf1473}And{\kf1473} I{\kf1510} hear{\kf1510} their{\kf1501} voi{\kf1473}ce{\kf1464}-es{\kf1473} ca{\kf1473}-all{\kf1557}ing
-Dialogue: 0,0:01:07.41,0:01:10.28,DEFAULT,,0,0,0,,{\kf1469}Bu{\kf1473}-ut{\kf1469} with{\kf1459} this{\kf1473} fe{\kf1455}-ear{\kf1455} of{\kf1478} e{\kf1473}-eyes
-Dialogue: 0,0:01:10.70,0:01:14.82,DEFAULT,,0,0,0,,{\kf1455}It's{\kf1455} a{\kf1510} sound{\kf1473} I{\kf1506}'ll{\kf1473} ne{\kf1464}ver{\kf1557} know
-Dialogue: 0,0:01:25.56,0:01:30.83,DEFAULT,,0,0,0,,{\kf1455}It's{\kf1455} a{\kf1473}no{\kf1473}ther{\kf1566} day{\kf1455} with{\kf1455} the{\kf1473} same{\kf1464} blue{\kf1566} sky
-Dialogue: 0,0:01:31.48,0:01:36.11,DEFAULT,,0,0,0,,{\kf1455}And{\kf1455} the{\kf1459} same{\kf1473} sun{\kf1538}rise{\kf1473} of{\kf1492} yes{\kf1455}ter{\kf1473}da{\kf1538}-ay
-Dialogue: 0,0:01:37.22,0:01:42.59,DEFAULT,,0,0,0,,{\kf1455}And{\kf1455} I'm{\kf1455} a{\kf1459} dis{\kf1464}tance{\kf1547} out{\kf1455} from{\kf1455} the{\kf1473} ci{\kf1455}ty{\kf1459}-y{\kf1473} li{\kf1520}-ights
-Dialogue: 0,0:01:43.33,0:01:47.73,DEFAULT,,0,0,0,,{\kf1455}And{\kf1455} I{\kf1506} know{\kf1510} I{\kf1492} shoul{\kf1478}dn't{\kf1473} sta{\kf1557}-ay
-Dialogue: 0,0:01:49.63,0:01:54.17,DEFAULT,,0,0,0,,{\kf1473}All{\kf1473} I've{\kf1455} e{\kf1473}ver{\kf1492} want{\kf1473}ed{\kf1487} is{\kf1455} a{\kf1598} friend
-Dialogue: 0,0:01:55.19,0:01:58.01,DEFAULT,,0,0,0,,{\kf1473}Some{\kf1473}one{\kf1455} who{\kf1478} un{\kf1459}der{\kf1487}stands{\kf1455} me{\kf1469}-e
-Dialogue: 0,0:01:58.29,0:02:00.09,DEFAULT,,0,0,0,,{\kf1459}And{\kf1455} doe{\kf1473}sn't{\kf1483} just{\kf1455} pre{\kf1473}tend
-Dialogue: 0,0:02:00.46,0:02:05.93,DEFAULT,,0,0,0,,{\kf1455}And{\kf1478} I{\kf1506} know{\kf1506} they're{\kf1506} out{\kf1496} there{\kf1473} so{\kf1469}-ome{\kf1557}where
-Dialogue: 0,0:02:06.67,0:02:11.67,DEFAULT,,0,0,0,,{\kf1473}Ju{\kf1464}-ust{\kf1473} wait{\kf1469}ing{\kf1464} to{\kf1547} say{\kf1473} hel{\kf1612}lo
-Dialogue: 0,0:02:12.22,0:02:17.78,DEFAULT,,0,0,0,,{\kf1473}And{\kf1473} I{\kf1510} hear{\kf1510} their{\kf1501} voi{\kf1473}ce{\kf1464}-es{\kf1473} ca{\kf1473}-all{\kf1557}ing
-Dialogue: 0,0:02:18.52,0:02:21.39,DEFAULT,,0,0,0,,{\kf1469}Bu{\kf1473}-ut{\kf1469} with{\kf1459} this{\kf1469} fe{\kf1455}-ear{\kf1455} of{\kf1478} eâ€“{\kf1473}eyes
-Dialogue: 0,0:02:21.81,0:02:25.93,DEFAULT,,0,0,0,,{\kf1455}It's{\kf1455} a{\kf1510} sound{\kf1473} I{\kf1506}'ll{\kf1473} ne{\kf1464}ver{\kf1557} know
-Dialogue: 0,0:02:28.15,0:02:32.04,DEFAULT,,0,0,0,,{\kf1506}One{\kf1501} would{\kf1506} think{\kf1473} I{\kf1473}'d{\kf1529} learn
-Dialogue: 0,0:02:32.55,0:02:35.93,DEFAULT,,0,0,0,,{\kf1473}Af{\kf1473}ter{\kf1469} the{\kf1455} fi{\kf1478}-irst{\kf1594} time
-Dialogue: 0,0:02:37.04,0:02:40.88,DEFAULT,,0,0,0,,{\kf1510}Lone{\kf1510}li{\kf1492}ness{\kf1492} just{\kf1533} hurts
-Dialogue: 0,0:02:41.48,0:02:44.45,DEFAULT,,0,0,0,,{\kf1469}Af{\kf1473}ter{\kf1469} a{\kf1459} li{\kf1478}-ife{\kf1557}time
-Dialogue: 0,0:02:44.82,0:02:50.28,DEFAULT,,0,0,0,,{\kf1464}And{\kf1473} still{\kf1455} I{\kf1459}~{\kf1584} kno{\kf1547}-o{\kf1473}-o{\kf1584}-ow
-Dialogue: 0,0:02:50.83,0:02:56.02,DEFAULT,,0,0,0,,{\kf1455}Yes,{\kf1478} I{\kf1506} know{\kf1506} there's{\kf1506} some{\kf1473}o{\kf1473}-one{\kf1473} o{\kf1473}-out{\kf1529} there
-Dialogue: 0,0:02:57.04,0:03:02.04,DEFAULT,,0,0,0,,{\kf1473}Ju{\kf1464}-ust{\kf1473} wait{\kf1469}ing{\kf1464} to{\kf1538} say{\kf1473} hel{\kf1608}lo
-Dialogue: 0,0:03:02.59,0:03:09.95,DEFAULT,,0,0,0,,{\kf1469}And{\kf1473} I{\kf1506} hear{\kf1506} their{\kf1501} voi{\kf1501}ces{\kf1473} ca{\kf1473}-all{\kf1510}ing{\kf1658} me
-Dialogue: 0,0:03:10.37,0:03:13.24,DEFAULT,,0,0,0,,{\kf1469}Bu{\kf1473}-ut{\kf1469} with{\kf1459} this{\kf1469} fe{\kf1455}-ear{\kf1455} of{\kf1478} eâ€“{\kf1473}eyes
-Dialogue: 0,0:03:13.66,0:03:18.75,DEFAULT,,0,0,0,,{\kf1455}It's{\kf1455} a{\kf1510} sound{\kf1473} I{\kf1473}'ll{\kf1487} ne{\kf1483}ver{\kf1658} know
-Dialogue: 0,0:03:21.85,0:03:24.54,DEFAULT,,0,0,0,,{\kf1473}Ne{\kf1473}ver{\kf1487} kno{\kf1455}-o{\kf1570}-ow
+Dialogue: 0,0:00:14.45,0:00:19.64,DEFAULT,,0,0,0,,{\r}{\kf14}There's{\kf14} an{\kf41} e{\kf41}cho{\kf164} out{\kf14} in{\kf14} the{\kf27} out{\kf27}side{\kf163} world
+Dialogue: 0,0:00:20.38,0:00:25.10,DEFAULT,,0,0,0,,{\r}{\kf12}There's{\kf12} a{\kf17} whis{\kf35}per{\kf163}ing{\kf58} in{\kf12} the{\kf35} bre{\kf128}-eeze
+Dialogue: 0,0:00:26.07,0:00:31.58,DEFAULT,,0,0,0,,{\r}{\kf14}And{\kf14} if{\kf14} you're{\kf21} lis{\kf28}ten{\kf184}ing{\kf14} though{\kf14} the{\kf42} fall{\kf14}-i{\kf21}-ing{\kf42} le{\kf129}-eaves
+Dialogue: 0,0:00:32.23,0:00:36.63,DEFAULT,,0,0,0,,{\r}{\kf11}There's{\kf11} a{\kf11} dre{\kf57}-eam{\kf86} for{\kf80} ev{\kf17}ery{\kf57}thi{\kf110}-ing
+Dialogue: 0,0:00:38.52,0:00:43.06,DEFAULT,,0,0,0,,{\r}{\kf34}All{\kf34} I've{\kf11} e{\kf34}ver{\kf52} want{\kf34}ed{\kf52} is{\kf11} a{\kf192} friend
+Dialogue: 0,0:00:44.08,0:00:46.95,DEFAULT,,0,0,0,,{\r}{\kf13}So{\kf19}-ome{\kf38}one{\kf13} who{\kf64} un{\kf13}der{\kf77}stands{\kf19} me{\kf31}-e
+Dialogue: 0,0:00:47.18,0:00:49.13,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf13} doe{\kf31}sn't{\kf63} just{\kf13} pre{\kf55}tend
+Dialogue: 0,0:00:49.36,0:00:54.82,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf41} I{\kf76} know{\kf76} they're{\kf70} out{\kf65} there{\kf35} so{\kf29}-ome{\kf142}where
+Dialogue: 0,0:00:55.56,0:01:00.56,DEFAULT,,0,0,0,,{\r}{\kf34}Ju{\kf23}-ust{\kf34} wait{\kf28}ing{\kf23} to{\kf119} say{\kf34} hel{\kf205}lo
+Dialogue: 0,0:01:01.12,0:01:06.67,DEFAULT,,0,0,0,,{\r}{\kf34}And{\kf34} I{\kf79} hear{\kf79} their{\kf68} voi{\kf34}ce{\kf23}-es{\kf34} ca{\kf34}-all{\kf137}ing
+Dialogue: 0,0:01:07.41,0:01:10.28,DEFAULT,,0,0,0,,{\r}{\kf34}Bu{\kf41}-ut{\kf34} with{\kf21} this{\kf41} fe{\kf14}-ear{\kf14} of{\kf48} e{\kf40}-eyes
+Dialogue: 0,0:01:10.70,0:01:14.82,DEFAULT,,0,0,0,,{\r}{\kf12}It's{\kf12} a{\kf81} sound{\kf35} I{\kf75}'ll{\kf35} ne{\kf23}ver{\kf139} know
+Dialogue: 0,0:01:25.56,0:01:30.84,DEFAULT,,0,0,0,,{\r}{\kf13}It's{\kf13} a{\kf39}no{\kf39}ther{\kf167} day{\kf13} with{\kf13} the{\kf39} same{\kf26} blue{\kf166} sky
+Dialogue: 0,0:01:31.49,0:01:36.12,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf12} the{\kf18} same{\kf36} sun{\kf120}rise{\kf36} of{\kf60} yes{\kf12}ter{\kf36}da{\kf121}-ay
+Dialogue: 0,0:01:37.23,0:01:42.60,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf15} I'm{\kf15} a{\kf22} dis{\kf30}tance{\kf164} out{\kf15} from{\kf15} the{\kf45} ci{\kf15}ty{\kf22}-y{\kf45} li{\kf119}-ights
+Dialogue: 0,0:01:43.34,0:01:47.74,DEFAULT,,0,0,0,,{\r}{\kf11}And{\kf11} I{\kf73} know{\kf79} I{\kf56} shoul{\kf39}dn't{\kf34} sta{\kf137}-ay
+Dialogue: 0,0:01:49.64,0:01:54.17,DEFAULT,,0,0,0,,{\r}{\kf34}All{\kf34} I've{\kf11} e{\kf34}ver{\kf57} want{\kf34}ed{\kf51} is{\kf11} a{\kf188} friend
+Dialogue: 0,0:01:55.19,0:01:58.01,DEFAULT,,0,0,0,,{\r}{\kf42}Some{\kf42}one{\kf14} who{\kf49} un{\kf21}der{\kf63}stands{\kf14} me{\kf37}-e
+Dialogue: 0,0:01:58.29,0:02:00.10,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf13} doe{\kf40}sn't{\kf54} just{\kf13} pre{\kf41}tend
+Dialogue: 0,0:02:00.47,0:02:05.93,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf41} I{\kf76} know{\kf76} they're{\kf76} out{\kf64} there{\kf35} so{\kf29}-ome{\kf137}where
+Dialogue: 0,0:02:06.67,0:02:11.67,DEFAULT,,0,0,0,,{\r}{\kf34}Ju{\kf22}-ust{\kf34} wait{\kf28}ing{\kf22} to{\kf124} say{\kf34} hel{\kf202}lo
+Dialogue: 0,0:02:12.23,0:02:17.78,DEFAULT,,0,0,0,,{\r}{\kf34}And{\kf34} I{\kf79} hear{\kf79} their{\kf68} voi{\kf34}ce{\kf23}-es{\kf34} ca{\kf34}-all{\kf137}ing
+Dialogue: 0,0:02:18.52,0:02:21.39,DEFAULT,,0,0,0,,{\r}{\kf35}Bu{\kf42}-ut{\kf35} with{\kf21} this{\kf35} fe{\kf14}-ear{\kf14} of{\kf49} eâ€“{\kf42}eyes
+Dialogue: 0,0:02:21.81,0:02:25.93,DEFAULT,,0,0,0,,{\r}{\kf12}It's{\kf12} a{\kf81} sound{\kf35} I{\kf75}'ll{\kf35} ne{\kf23}ver{\kf139} know
+Dialogue: 0,0:02:28.15,0:02:32.04,DEFAULT,,0,0,0,,{\r}{\kf74}One{\kf69} would{\kf74} think{\kf34} I{\kf34}'d{\kf104} learn
+Dialogue: 0,0:02:32.55,0:02:35.93,DEFAULT,,0,0,0,,{\r}{\kf35}Af{\kf35}ter{\kf29} the{\kf12} fi{\kf41}-irst{\kf186} time
+Dialogue: 0,0:02:37.04,0:02:40.89,DEFAULT,,0,0,0,,{\r}{\kf80}Lone{\kf80}li{\kf57}ness{\kf57} just{\kf110} hurts
+Dialogue: 0,0:02:41.49,0:02:44.45,DEFAULT,,0,0,0,,{\r}{\kf30}Af{\kf36}ter{\kf30} a{\kf18} li{\kf41}-ife{\kf141}time
+Dialogue: 0,0:02:44.82,0:02:50.28,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf32} still{\kf11} I{\kf16}~{\kf159} kno{\kf117}-o{\kf32}-o{\kf158}-ow
+Dialogue: 0,0:02:50.84,0:02:56.02,DEFAULT,,0,0,0,,{\r}{\kf12}Yes,{\kf40} I{\kf75} know{\kf75} there's{\kf75} some{\kf35}o{\kf35}-one{\kf35} o{\kf35}-out{\kf102} there
+Dialogue: 0,0:02:57.04,0:03:02.04,DEFAULT,,0,0,0,,{\r}{\kf35}Ju{\kf23}-ust{\kf35} wait{\kf29}ing{\kf23} to{\kf116} say{\kf35} hel{\kf204}lo
+Dialogue: 0,0:03:02.60,0:03:09.96,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf33} I{\kf72} hear{\kf72} their{\kf66} voi{\kf66}ces{\kf33} ca{\kf33}-all{\kf77}ing{\kf256} me
+Dialogue: 0,0:03:10.38,0:03:13.25,DEFAULT,,0,0,0,,{\r}{\kf35}Bu{\kf42}-ut{\kf35} with{\kf21} this{\kf35} fe{\kf14}-ear{\kf14} of{\kf49} eâ€“{\kf42}eyes
+Dialogue: 0,0:03:13.66,0:03:18.76,DEFAULT,,0,0,0,,{\r}{\kf11}It's{\kf11} a{\kf77} sound{\kf33} I{\kf33}'ll{\kf49} ne{\kf44}ver{\kf251} know
+Dialogue: 0,0:03:21.86,0:03:24.54,DEFAULT,,0,0,0,,{\r}{\kf32}Ne{\kf32}ver{\kf48} kno{\kf11}-o{\kf146}-ow

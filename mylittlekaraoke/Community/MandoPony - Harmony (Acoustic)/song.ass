@@ -1,60 +1,67 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Harmony (Acoustic)
+Artist: MandoPony
+Original Timing: mylittlekaraoke.com by RD1042
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.26,0:00:06.05,DEFAULT,,0,0,0,,{\kf25}May{\kf18}be{\kf21} I'm{\kf21} too{\kf49} young
-Dialogue: 0,0:00:06.61,0:00:08.36,DEFAULT,,0,0,0,,{\kf11}To{\kf14} real{\kf14}ly{\kf18} un{\kf11}der{\kf53}stand{\kf14} or
-Dialogue: 0,0:00:09.16,0:00:11.58,DEFAULT,,0,0,0,,{\kf21}May{\kf14}be{\kf28} I'm{\kf25} too{\kf28} old{\kf11} to{\kf14} let{\kf11} it{\kf28} go
-Dialogue: 0,0:00:13.96,0:00:15.57,DEFAULT,,0,0,0,,{\kf18}May{\kf14}be{\kf14} I'm{\kf14} too{\kf25} ja{\kf32}ded
-Dialogue: 0,0:00:16.06,0:00:17.56,DEFAULT,,0,0,0,,{\kf21}Ne{\kf18}ver{\kf11} ap{\kf14}pre{\kf21}ci{\kf21}a{\kf11}ted
-Dialogue: 0,0:00:18.50,0:00:21.30,DEFAULT,,0,0,0,,{\kf11}The{\kf11} lit{\kf18}tle{\kf35} things{\kf28} you{\kf32} a-{\kf28}al{\kf11}rea{\kf14}dy{\kf28} know
-Dialogue: 0,0:00:23.54,0:00:25.50,DEFAULT,,0,0,0,,{\kf21}I{\kf14} can{\kf42} see{\kf14} the{\kf25} won{\kf14}der
-Dialogue: 0,0:00:26.20,0:00:27.71,DEFAULT,,0,0,0,,{\kf25}Shi{\kf11}ning{\kf11} in{\kf28} your{\kf32} face
-Dialogue: 0,0:00:28.27,0:00:30.26,DEFAULT,,0,0,0,,{\kf11}But{\kf11} it's{\kf18} not{\kf11} in{\kf25} me{\kf14} a{\kf14}ny{\kf42}more
-Dialogue: 0,0:00:32.92,0:00:34.39,DEFAULT,,0,0,0,,{\kf18}With{\kf11} a{\kf18} ti{\kf14}ny{\kf49} glance
-Dialogue: 0,0:00:34.95,0:00:36.70,DEFAULT,,0,0,0,,{\kf21}I{\kf21} get{\kf14} a{\kf14} se{\kf11}cond{\kf42} chance
-Dialogue: 0,0:00:37.68,0:00:40.27,DEFAULT,,0,0,0,,{\kf14}I{\kf14} re{\kf14}mem{\kf18}ber{\kf25} what{\kf18} I{\kf14} was{\kf18} sear{\kf14}ching{\kf32} for
-Dialogue: 0,0:00:41.11,0:00:44.33,DEFAULT,,0,0,0,,{\kf14}When{\kf28} I{\kf67} look{\kf49} i-{\kf18}in{\kf25} your{\kf53} eyes
-Dialogue: 0,0:00:44.82,0:00:48.81,DEFAULT,,0,0,0,,{\kf42}I{\kf35} can{\kf42} see{\kf56} what{\kf39} I{\kf39} could{\kf53} be
-Dialogue: 0,0:00:50.28,0:00:53.39,DEFAULT,,0,0,0,,{\kf11}When{\kf28} I{\kf70} hear{\kf46} you-{\kf49}ur{\kf53} words
-Dialogue: 0,0:00:53.88,0:00:58.26,DEFAULT,,0,0,0,,{\kf42}I{\kf21} hear{\kf11} the{\kf25} sou-{\kf53}und{\kf14} of{\kf49} har{\kf46}mo{\kf28}ny-{\kf74}y
-Dialogue: 0,0:00:58.89,0:01:02.32,DEFAULT,,0,0,0,,{\kf28}And{\kf42} I{\kf39} want{\kf25} to{\kf39} lea-{\kf25}arn{\kf21} from{\kf49} you
-Dialogue: 0,0:01:02.60,0:01:07.01,DEFAULT,,0,0,0,,{\kf21}The{\kf39} wis{\kf25}do-{\kf21}om{\kf98} in{\kf95} your{\kf28} hea-{\kf39}art
-Dialogue: 0,0:01:08.06,0:01:11.42,DEFAULT,,0,0,0,,{\kf18}And{\kf46} no{\kf46} mat{\kf18}ter{\kf74} where{\kf25} we{\kf18} go-{\kf21}o
-Dialogue: 0,0:01:12.33,0:01:17.16,DEFAULT,,0,0,0,,{\kf21}We{\kf28} will{\kf42} ne{\kf46}ver{\kf32} be{\kf56} a{\kf53}pa-{\kf14}a-{\kf32}a-{\kf60}art
-Dialogue: 0,0:01:36.89,0:01:38.89,DEFAULT,,0,0,0,,{\kf18}Lit{\kf11}tle{\kf28} laughs,{\kf11} lit{\kf11}tle{\kf35} smiles
-Dialogue: 0,0:01:39.20,0:01:41.09,DEFAULT,,0,0,0,,{\kf21}Bring{\kf18} me{\kf18} back{\kf11} a{\kf14} thou{\kf14}sand{\kf32} miles
-Dialogue: 0,0:01:41.51,0:01:44.31,DEFAULT,,0,0,0,,{\kf11}To{\kf14} a{\kf28} place{\kf18} a{\kf28} life{\kf28}ti-{\kf14}ime{\kf18} a{\kf35}way
-Dialogue: 0,0:01:46.13,0:01:47.95,DEFAULT,,0,0,0,,{\kf11}To{\kf11} a{\kf32} time{\kf18} when{\kf21} I{\kf14} was{\kf28} free
-Dialogue: 0,0:01:48.23,0:01:50.19,DEFAULT,,0,0,0,,{\kf11}To{\kf14} be{\kf18} what{\kf25}e{\kf14}ver{\kf14} I{\kf21} could{\kf21} be
-Dialogue: 0,0:01:50.47,0:01:53.48,DEFAULT,,0,0,0,,{\kf7}To{\kf18} say{\kf14} what{\kf14}e{\kf18}ver{\kf32} I{\kf28} wan{\kf18}ted{\kf18} to-{\kf18}o{\kf32} say
-Dialogue: 0,0:01:54.98,0:01:56.14,DEFAULT,,0,0,0,,{\kf11}I{\kf25} think{\kf18} I{\kf25} lost{\kf14} it
-Dialogue: 0,0:01:56.24,0:01:58.45,DEFAULT,,0,0,0,,{\kf21}Some{\kf35}where{\kf14} a{\kf28}long{\kf11} the-{\kf18}e{\kf42} line
-Dialogue: 0,0:01:58.76,0:02:02.09,DEFAULT,,0,0,0,,{\kf32}But{\kf42} I{\kf35} can{\kf28} find{\kf18} it{\kf21} once{\kf11} mo-{\kf18}o-{\kf39}ore
-Dialogue: 0,0:02:03.87,0:02:05.59,DEFAULT,,0,0,0,,{\kf18}You{\kf21} give{\kf14} me{\kf18} one{\kf7} mo-{\kf14}ore{\kf32} glance,
-Dialogue: 0,0:02:05.94,0:02:08.18,DEFAULT,,0,0,0,,{\kf11}And{\kf11} I{\kf21} get{\kf18} a{\kf14}no{\kf11}ther{\kf14} se{\kf14}cond{\kf25} chance
-Dialogue: 0,0:02:08.67,0:02:11.47,DEFAULT,,0,0,0,,{\kf14}I{\kf14} re{\kf11}mem{\kf21}ber{\kf21} what{\kf21} I{\kf14} was{\kf25} sear{\kf21}ching{\kf25} for
-Dialogue: 0,0:02:12.03,0:02:15.39,DEFAULT,,0,0,0,,{\kf14}When{\kf32} I{\kf60} look{\kf49} i-{\kf21}in{\kf32} your{\kf63} eyes
-Dialogue: 0,0:02:15.81,0:02:19.73,DEFAULT,,0,0,0,,{\kf42}I{\kf42} can{\kf7} see-{\kf11}e{\kf25} what{\kf49} I{\kf21} used{\kf28} to-{\kf14}o{\kf49} be
-Dialogue: 0,0:02:21.13,0:02:24.31,DEFAULT,,0,0,0,,{\kf21}When{\kf35} I{\kf56} hear{\kf42} you-{\kf46}ur{\kf53} words
-Dialogue: 0,0:02:24.76,0:02:28.82,DEFAULT,,0,0,0,,{\kf49}I{\kf49} re{\kf53}mem{\kf46}ber{\kf49} har{\kf46}mo{\kf28}ny-{\kf32}y
-Dialogue: 0,0:02:29.87,0:02:33.16,DEFAULT,,0,0,0,,{\kf21}And{\kf49} I{\kf39} want{\kf21} to{\kf39} lea-{\kf18}arn{\kf18} from{\kf49} you
-Dialogue: 0,0:02:33.62,0:02:37.64,DEFAULT,,0,0,0,,{\kf46}All{\kf25} the-{\kf21}e{\kf42} wis{\kf46}dom{\kf42} in{\kf39} your{\kf56} heart
-Dialogue: 0,0:02:38.83,0:02:42.26,DEFAULT,,0,0,0,,{\kf14}And{\kf42} no{\kf53} mat{\kf18}ter{\kf77} where{\kf21} we{\kf21} go-{\kf35}o
-Dialogue: 0,0:02:43.03,0:02:48.00,DEFAULT,,0,0,0,,{\kf21}We{\kf42} will{\kf46} ne{\kf49}ver{\kf39} be{\kf60} a{\kf109}pa-{\kf63}art
-Dialogue: 0,0:03:08.82,0:03:11.45,DEFAULT,,0,0,0,,{\kf67}I{\kf32} miss{\kf49} your{\kf63} eyes
-Dialogue: 0,0:03:11.87,0:03:16.28,DEFAULT,,0,0,0,,{\kf42}And{\kf25} the-{\kf21}e{\kf35} way{\kf53} we{\kf28} used{\kf56} to{\kf105} be
-Dialogue: 0,0:03:17.71,0:03:20.16,DEFAULT,,0,0,0,,{\kf39}I{\kf39} can't{\kf25} hea-{\kf14}ar{\kf21} your{\kf46} words,
-Dialogue: 0,0:03:20.48,0:03:24.95,DEFAULT,,0,0,0,,{\kf28}But{\kf63} I{\kf21} re{\kf42}mem{\kf46}ber{\kf49} har{\kf46}mo{\kf21}ny-{\kf56}y
-Dialogue: 0,0:03:25.79,0:03:29.22,DEFAULT,,0,0,0,,{\kf21}And{\kf28} I{\kf21} sti-{\kf25}ill{\kf21} will{\kf63} learn{\kf21} from{\kf25} you-{\kf35}u
-Dialogue: 0,0:03:29.43,0:03:33.49,DEFAULT,,0,0,0,,{\kf28}And{\kf49} all{\kf18} the{\kf32} wis{\kf28}do-{\kf21}om{\kf28} in{\kf46} your{\kf46} heart
-Dialogue: 0,0:03:34.68,0:03:38.11,DEFAULT,,0,0,0,,{\kf21}And{\kf42} no{\kf53} mat{\kf18}ter{\kf25} ho-{\kf35}ow{\kf18} you{\kf32} gro-{\kf28}ow
-Dialogue: 0,0:03:38.88,0:03:43.85,DEFAULT,,0,0,0,,{\kf18}We{\kf42} will{\kf46} ne{\kf25}ver{\kf21} real{\kf25}ly{\kf21} be-{\kf25}e{\kf18} a{\kf189}part
-Dialogue: 0,0:03:44.20,0:03:46.86,DEFAULT,,0,0,0,,{\kf46}Ne{\kf28}ver{\kf28} real{\kf18}ly{\kf28} be-{\kf14}e{\kf18} a{\kf32}part
+Dialogue: 0,0:00:04.27,0:00:06.05,DEFAULT,,0,0,0,,{\r}{\kf33}May{\kf23}be{\kf28} I'm{\kf28} too{\kf66} young
+Dialogue: 0,0:00:06.61,0:00:08.36,DEFAULT,,0,0,0,,{\r}{\kf14}To{\kf18} real{\kf18}ly{\kf23} un{\kf14}der{\kf69}stand{\kf19} or
+Dialogue: 0,0:00:09.17,0:00:11.58,DEFAULT,,0,0,0,,{\r}{\kf28}May{\kf19}be{\kf38} I'm{\kf33} too{\kf38} old{\kf14} to{\kf19} let{\kf14} it{\kf38} go
+Dialogue: 0,0:00:13.96,0:00:15.57,DEFAULT,,0,0,0,,{\r}{\kf24}May{\kf20}be{\kf20} I'm{\kf20} too{\kf34} ja{\kf43}ded
+Dialogue: 0,0:00:16.06,0:00:17.56,DEFAULT,,0,0,0,,{\r}{\kf27}Ne{\kf23}ver{\kf14} ap{\kf18}pre{\kf27}ci{\kf27}a{\kf14}ted
+Dialogue: 0,0:00:18.51,0:00:21.31,DEFAULT,,0,0,0,,{\r}{\kf14}The{\kf14} lit{\kf23}tle{\kf46} things{\kf37} you{\kf41} a-{\kf37}al{\kf14}rea{\kf18}dy{\kf36} know
+Dialogue: 0,0:00:23.55,0:00:25.51,DEFAULT,,0,0,0,,{\r}{\kf32}I{\kf21} can{\kf64} see{\kf21} the{\kf37} won{\kf21}der
+Dialogue: 0,0:00:26.21,0:00:27.71,DEFAULT,,0,0,0,,{\r}{\kf35}Shi{\kf15}ning{\kf15} in{\kf40} your{\kf45} face
+Dialogue: 0,0:00:28.27,0:00:30.27,DEFAULT,,0,0,0,,{\r}{\kf15}But{\kf15} it's{\kf24} not{\kf15} in{\kf34} me{\kf19} a{\kf19}ny{\kf58}more
+Dialogue: 0,0:00:32.93,0:00:34.40,DEFAULT,,0,0,0,,{\r}{\kf24}With{\kf14} a{\kf24} ti{\kf19}ny{\kf66} glance
+Dialogue: 0,0:00:34.96,0:00:36.71,DEFAULT,,0,0,0,,{\r}{\kf30}I{\kf30} get{\kf20} a{\kf20} se{\kf15}cond{\kf60} chance
+Dialogue: 0,0:00:37.69,0:00:40.28,DEFAULT,,0,0,0,,{\r}{\kf20}I{\kf20} re{\kf20}mem{\kf25}ber{\kf36} what{\kf25} I{\kf20} was{\kf25} sear{\kf20}ching{\kf48} for
+Dialogue: 0,0:00:41.12,0:00:44.34,DEFAULT,,0,0,0,,{\r}{\kf18}When{\kf36} I{\kf85} look{\kf63} i-{\kf22}in{\kf31} your{\kf67} eyes
+Dialogue: 0,0:00:44.83,0:00:48.81,DEFAULT,,0,0,0,,{\r}{\kf55}I{\kf46} can{\kf55} see{\kf73} what{\kf50} I{\kf50} could{\kf70} be
+Dialogue: 0,0:00:50.28,0:00:53.40,DEFAULT,,0,0,0,,{\r}{\kf13}When{\kf34} I{\kf85} hear{\kf55} you-{\kf60}ur{\kf64} words
+Dialogue: 0,0:00:53.89,0:00:58.26,DEFAULT,,0,0,0,,{\r}{\kf51}I{\kf25} hear{\kf13} the{\kf30} sou-{\kf64}und{\kf17} of{\kf59} har{\kf55}mo{\kf34}ny-{\kf89}y
+Dialogue: 0,0:00:58.89,0:01:02.32,DEFAULT,,0,0,0,,{\r}{\kf36}And{\kf54} I{\kf50} want{\kf32} to{\kf50} lea-{\kf32}arn{\kf27} from{\kf62} you
+Dialogue: 0,0:01:02.60,0:01:07.01,DEFAULT,,0,0,0,,{\r}{\kf25}The{\kf47} wis{\kf30}do-{\kf25}om{\kf119} in{\kf114} your{\kf34} hea-{\kf47}art
+Dialogue: 0,0:01:08.06,0:01:11.42,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf58} no{\kf58} mat{\kf22}ter{\kf94} where{\kf31} we{\kf22} go-{\kf29}o
+Dialogue: 0,0:01:12.33,0:01:17.16,DEFAULT,,0,0,0,,{\r}{\kf27}We{\kf35} will{\kf53} ne{\kf58}ver{\kf40} be{\kf71} a{\kf66}pa-{\kf18}a-{\kf40}a-{\kf75}art
+Dialogue: 0,0:01:36.90,0:01:38.89,DEFAULT,,0,0,0,,{\r}{\kf31}Lit{\kf19}tle{\kf50} laughs,{\kf19} lit{\kf19}tle{\kf61} smiles
+Dialogue: 0,0:01:39.21,0:01:41.10,DEFAULT,,0,0,0,,{\r}{\kf32}Bring{\kf26} me{\kf26} back{\kf16} a{\kf21} thou{\kf21}sand{\kf47} miles
+Dialogue: 0,0:01:41.52,0:01:44.32,DEFAULT,,0,0,0,,{\r}{\kf15}To{\kf20} a{\kf41} place{\kf25} a{\kf41} life{\kf41}ti-{\kf20}ime{\kf25} a{\kf52}way
+Dialogue: 0,0:01:46.14,0:01:47.96,DEFAULT,,0,0,0,,{\r}{\kf14}To{\kf14} a{\kf43} time{\kf24} when{\kf29} I{\kf19} was{\kf39} free
+Dialogue: 0,0:01:48.24,0:01:50.20,DEFAULT,,0,0,0,,{\r}{\kf15}To{\kf20} be{\kf25} what{\kf35}e{\kf20}ver{\kf20} I{\kf30} could{\kf31} be
+Dialogue: 0,0:01:50.48,0:01:53.48,DEFAULT,,0,0,0,,{\r}{\kf10}To{\kf25} say{\kf20} what{\kf20}e{\kf25}ver{\kf44} I{\kf39} wan{\kf25}ted{\kf25} to-{\kf25}o{\kf43} say
+Dialogue: 0,0:01:54.99,0:01:56.14,DEFAULT,,0,0,0,,{\r}{\kf13}I{\kf31} think{\kf22} I{\kf31} lost{\kf18} it
+Dialogue: 0,0:01:56.25,0:01:58.45,DEFAULT,,0,0,0,,{\r}{\kf28}Some{\kf46}where{\kf18} a{\kf37}long{\kf14} the-{\kf23}e{\kf54} line
+Dialogue: 0,0:01:58.77,0:02:02.09,DEFAULT,,0,0,0,,{\r}{\kf43}But{\kf58} I{\kf48} can{\kf38} find{\kf24} it{\kf29} once{\kf14} mo-{\kf24}o-{\kf54}ore
+Dialogue: 0,0:02:03.88,0:02:05.59,DEFAULT,,0,0,0,,{\r}{\kf24}You{\kf29} give{\kf20} me{\kf24} one{\kf10} mo-{\kf20}ore{\kf44} glance,
+Dialogue: 0,0:02:05.94,0:02:08.18,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf17} I{\kf34} get{\kf29} a{\kf23}no{\kf17}ther{\kf23} se{\kf23}cond{\kf41} chance
+Dialogue: 0,0:02:08.67,0:02:11.47,DEFAULT,,0,0,0,,{\r}{\kf21}I{\kf21} re{\kf16}mem{\kf32}ber{\kf32} what{\kf32} I{\kf21} was{\kf37} sear{\kf32}ching{\kf36} for
+Dialogue: 0,0:02:12.03,0:02:15.39,DEFAULT,,0,0,0,,{\r}{\kf17}When{\kf39} I{\kf74} look{\kf61} i-{\kf26}in{\kf39} your{\kf80} eyes
+Dialogue: 0,0:02:15.81,0:02:19.73,DEFAULT,,0,0,0,,{\r}{\kf57}I{\kf57} can{\kf10} see-{\kf14}e{\kf33} what{\kf67} I{\kf29} used{\kf38} to-{\kf19}o{\kf68} be
+Dialogue: 0,0:02:21.13,0:02:24.31,DEFAULT,,0,0,0,,{\r}{\kf26}When{\kf44} I{\kf71} hear{\kf53} you-{\kf57}ur{\kf67} words
+Dialogue: 0,0:02:24.77,0:02:28.83,DEFAULT,,0,0,0,,{\r}{\kf57}I{\kf57} re{\kf61}mem{\kf53}ber{\kf57} har{\kf53}mo{\kf32}ny-{\kf36}y
+Dialogue: 0,0:02:29.88,0:02:33.17,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf64} I{\kf50} want{\kf27} to{\kf50} lea-{\kf23}arn{\kf23} from{\kf65} you
+Dialogue: 0,0:02:33.62,0:02:37.65,DEFAULT,,0,0,0,,{\r}{\kf58}All{\kf31} the-{\kf27}e{\kf54} wis{\kf58}dom{\kf54} in{\kf49} your{\kf71} heart
+Dialogue: 0,0:02:38.84,0:02:42.27,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf51} no{\kf64} mat{\kf21}ter{\kf94} where{\kf26} we{\kf26} go-{\kf44}o
+Dialogue: 0,0:02:43.04,0:02:48.01,DEFAULT,,0,0,0,,{\r}{\kf24}We{\kf49} will{\kf53} ne{\kf57}ver{\kf45} be{\kf69} a{\kf126}pa-{\kf74}art
+Dialogue: 0,0:03:08.83,0:03:11.45,DEFAULT,,0,0,0,,{\r}{\kf83}I{\kf39} miss{\kf61} your{\kf79} eyes
+Dialogue: 0,0:03:11.87,0:03:16.28,DEFAULT,,0,0,0,,{\r}{\kf51}And{\kf30} the-{\kf25}e{\kf42} way{\kf64} we{\kf34} used{\kf68} to{\kf127} be
+Dialogue: 0,0:03:17.72,0:03:20.17,DEFAULT,,0,0,0,,{\r}{\kf52}I{\kf52} can't{\kf33} hea-{\kf19}ar{\kf28} your{\kf61} words,
+Dialogue: 0,0:03:20.48,0:03:24.96,DEFAULT,,0,0,0,,{\r}{\kf34}But{\kf76} I{\kf25} re{\kf51}mem{\kf55}ber{\kf59} har{\kf55}mo{\kf25}ny-{\kf68}y
+Dialogue: 0,0:03:25.80,0:03:29.23,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf37} I{\kf28} sti-{\kf32}ill{\kf28} will{\kf83} learn{\kf28} from{\kf32} you-{\kf47}u
+Dialogue: 0,0:03:29.44,0:03:33.50,DEFAULT,,0,0,0,,{\r}{\kf39}And{\kf68} all{\kf24} the{\kf44} wis{\kf39}do-{\kf29}om{\kf39} in{\kf63} your{\kf61} heart
+Dialogue: 0,0:03:34.69,0:03:38.12,DEFAULT,,0,0,0,,{\r}{\kf27}And{\kf53} no{\kf67} mat{\kf22}ter{\kf31} ho-{\kf45}ow{\kf22} you{\kf40} gro-{\kf36}ow
+Dialogue: 0,0:03:38.89,0:03:43.86,DEFAULT,,0,0,0,,{\r}{\kf20}We{\kf49} will{\kf53} ne{\kf29}ver{\kf24} real{\kf29}ly{\kf24} be-{\kf29}e{\kf20} a{\kf220}part
+Dialogue: 0,0:03:44.21,0:03:46.87,DEFAULT,,0,0,0,,{\r}{\kf58}Ne{\kf35}ver{\kf35} real{\kf22}ly{\kf35} be-{\kf18}e{\kf22} a{\kf41}part

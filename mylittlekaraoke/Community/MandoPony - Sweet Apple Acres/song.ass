@@ -1,105 +1,112 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Sweet Apple Acres
+Artist: MandoPony
+Original Timing: mylittlekaraoke.com by Renard
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.42,0:00:02.74,DEFAULT,,0,0,0,,{\kf48}Yeaah{\kf109} hey,{\kf53} yeah!
-Dialogue: 0,0:00:14.10,0:00:16.04,DEFAULT,,0,0,0,,{\kf19}Why{\kf15} don't{\kf15} you{\kf19} come{\kf19} on{\kf43} down
-Dialogue: 0,0:00:16.27,0:00:17.60,DEFAULT,,0,0,0,,{\kf10}To{\kf19} Sweet{\kf19} Ap{\kf15}ple{\kf19} A{\kf15}cres
-Dialogue: 0,0:00:17.69,0:00:19.16,DEFAULT,,0,0,0,,{\kf10}Got{\kf10} a{\kf24} whole{\kf15} fa{\kf15}mily{\kf38} full
-Dialogue: 0,0:00:19.30,0:00:20.63,DEFAULT,,0,0,0,,{\kf10}Of{\kf15} tas{\kf15}ty{\kf19} treat{\kf24} ma{\kf19}kers
-Dialogue: 0,0:00:20.72,0:00:22.04,DEFAULT,,0,0,0,,{\kf10}And{\kf10} to{\kf15} top{\kf10} it{\kf29} all{\kf24} off
-Dialogue: 0,0:00:22.19,0:00:23.70,DEFAULT,,0,0,0,,{\kf15}We're{\kf29} ap{\kf19}ple{\kf19} pie{\kf24} ba{\kf19}kers
-Dialogue: 0,0:00:23.98,0:00:25.26,DEFAULT,,0,0,0,,{\kf19}Don't{\kf19} be{\kf29} fooled{\kf15} by
-Dialogue: 0,0:00:25.36,0:00:26.63,DEFAULT,,0,0,0,,{\kf10}The{\kf19} Flim{\kf19} Flam{\kf15} fa{\kf15}kers
-Dialogue: 0,0:00:26.78,0:00:28.15,DEFAULT,,0,0,0,,{\kf15}We'll{\kf19} wet{\kf19} your{\kf19} whis{\kf15}tle
-Dialogue: 0,0:00:28.20,0:00:29.76,DEFAULT,,0,0,0,,{\kf10}With{\kf19} sweet{\kf24} Ap{\kf15}ple{\kf19} Ci{\kf24}der
-Dialogue: 0,0:00:29.90,0:00:31.37,DEFAULT,,0,0,0,,{\kf15}We{\kf15} wan{\kf15}na{\kf15} be{\kf15} your{\kf15} num{\kf15}ber{\kf15} one
-Dialogue: 0,0:00:31.60,0:00:32.55,DEFAULT,,0,0,0,,{\kf15}Ap{\kf15}ple{\kf15} pro{\kf15}vi{\kf10}der
-Dialogue: 0,0:00:32.64,0:00:34.11,DEFAULT,,0,0,0,,{\kf10}We{\kf19} got{\kf34} e{\kf19}very{\kf34}thing
-Dialogue: 0,0:00:34.35,0:00:35.72,DEFAULT,,0,0,0,,{\kf10}You{\kf10} could{\kf15} e{\kf10}ver{\kf19} ask{\kf29} for
-Dialogue: 0,0:00:35.96,0:00:37.38,DEFAULT,,0,0,0,,{\kf10}And{\kf10} then{\kf10} we{\kf10} e{\kf10}ven{\kf38} got
-Dialogue: 0,0:00:37.52,0:00:39.08,DEFAULT,,0,0,0,,{\kf15}A{\kf15} lit{\kf15}tle{\kf19} bit{\kf19} more{\kf19} than
-Dialogue: 0,0:00:39.36,0:00:41.78,DEFAULT,,0,0,0,,{\kf38}All{\kf10} the{\kf15} ap{\kf10}ples{\kf10} you{\kf24} could{\kf10} e{\kf10}ver{\kf43} want
-Dialogue: 0,0:00:41.97,0:00:43.53,DEFAULT,,0,0,0,,{\kf15}At{\kf19} Sweet{\kf19} Ap{\kf15}ple{\kf15} A{\kf29}cres
-Dialogue: 0,0:00:43.76,0:00:45.18,DEFAULT,,0,0,0,,{\kf29}Sweet{\kf15} Ap{\kf10}ple{\kf10} A{\kf10}cres{\kf24} singin'
-Dialogue: 0,0:00:45.51,0:00:47.69,DEFAULT,,0,0,0,,{\kf34}All{\kf10} the{\kf15} ap{\kf15}ples{\kf15} you{\kf15} could{\kf10} e{\kf10}ver{\kf29} want
-Dialogue: 0,0:00:47.83,0:00:49.02,DEFAULT,,0,0,0,,{\kf29}And{\kf81} more
-Dialogue: 0,0:00:50.39,0:00:51.19,DEFAULT,,0,0,0,,{\kf34}We{\kf34} got
-Dialogue: 0,0:00:51.33,0:00:53.80,DEFAULT,,0,0,0,,{\kf48}All{\kf15} the{\kf15} ap{\kf15}ples{\kf15} you{\kf15} could{\kf15} e{\kf15}ver{\kf29} want
-Dialogue: 0,0:00:53.98,0:00:55.59,DEFAULT,,0,0,0,,{\kf19}At{\kf24} Sweet{\kf19} Ap{\kf15}ple{\kf15} A{\kf19}cres
-Dialogue: 0,0:00:55.74,0:00:57.30,DEFAULT,,0,0,0,,{\kf38}Sweet{\kf24} Ap{\kf15}ple{\kf15} A{\kf15}cres{\kf24} singin'
-Dialogue: 0,0:00:57.58,0:00:59.90,DEFAULT,,0,0,0,,{\kf38}All{\kf10} the{\kf19} ap{\kf15}ples{\kf15} you{\kf19} could{\kf15} e{\kf15}ver{\kf29} want
-Dialogue: 0,0:01:00.04,0:01:01.89,DEFAULT,,0,0,0,,{\kf29}And{\kf76} more{\kf67}~
-Dialogue: 0,0:01:06.95,0:01:08.32,DEFAULT,,0,0,0,,{\kf15}It's{\kf15} a{\kf15} beau{\kf15}ti{\kf15}ful{\kf34} day
-Dialogue: 0,0:01:08.42,0:01:10.59,DEFAULT,,0,0,0,,{\kf19}It's{\kf15} a{\kf15} beau{\kf15}ti{\kf15}ful{\kf19} day{\kf90}~
-Dialogue: 0,0:01:13.10,0:01:14.52,DEFAULT,,0,0,0,,{\kf15}It's{\kf10} a{\kf15} beau{\kf15}ti{\kf15}ful{\kf48} day
-Dialogue: 0,0:01:14.62,0:01:16.04,DEFAULT,,0,0,0,,{\kf10}It's{\kf10} a{\kf15} beau{\kf19}ti{\kf15}ful{\kf19} day{\kf24}~
-Dialogue: 0,0:01:16.13,0:01:17.45,DEFAULT,,0,0,0,,{\kf10}It's{\kf10} a{\kf19} beau{\kf15}ti{\kf15}ful{\kf38} day
-Dialogue: 0,0:01:17.50,0:01:19.39,DEFAULT,,0,0,0,,{\kf10}To{\kf10} keep{\kf10} the{\kf15} doc{\kf15}tor{\kf19} a{\kf19}way{\kf57}~
-Dialogue: 0,0:01:20.63,0:01:22.00,DEFAULT,,0,0,0,,{\kf15}It's{\kf10} a{\kf19} beau{\kf19}ti{\kf15}ful{\kf34} day
-Dialogue: 0,0:01:22.23,0:01:23.56,DEFAULT,,0,0,0,,{\kf10}It's{\kf10} a{\kf15} beau{\kf10}ti{\kf15}ful{\kf15} day{\kf19}~
-Dialogue: 0,0:01:23.61,0:01:25.40,DEFAULT,,0,0,0,,{\kf10}To{\kf10} keep{\kf10} the{\kf19} doc{\kf10}tor{\kf19} a{\kf67}way
-Dialogue: 0,0:01:28.01,0:01:29.47,DEFAULT,,0,0,0,,{\kf15}So{\kf15} I'm{\kf15} gues{\kf15}sing{\kf15} by{\kf19} now
-Dialogue: 0,0:01:29.62,0:01:30.47,DEFAULT,,0,0,0,,{\kf10}You{\kf10} know{\kf15} our{\kf24} name
-Dialogue: 0,0:01:30.51,0:01:31.84,DEFAULT,,0,0,0,,{\kf15}And{\kf10} you{\kf10} know{\kf10} we{\kf15} ain't{\kf29} green
-Dialogue: 0,0:01:31.93,0:01:33.78,DEFAULT,,0,0,0,,{\kf10}To{\kf10} this{\kf15} ap{\kf15}ple{\kf15} buc{\kf15}king{\kf19} game{\kf29}~
-Dialogue: 0,0:01:33.87,0:01:34.92,DEFAULT,,0,0,0,,{\kf15}We're{\kf19} well{\kf15} de{\kf15}ser{\kf15}ving
-Dialogue: 0,0:01:34.96,0:01:36.33,DEFAULT,,0,0,0,,{\kf5}Of{\kf10} all{\kf10} this{\kf15} ap{\kf15}ple{\kf48} fame
-Dialogue: 0,0:01:36.57,0:01:37.85,DEFAULT,,0,0,0,,{\kf15}E{\kf15}very{\kf15}po{\kf10}ny{\kf10} who{\kf15} vi{\kf15}si{\kf15}ted
-Dialogue: 0,0:01:37.94,0:01:39.79,DEFAULT,,0,0,0,,{\kf24}Smiled{\kf19} af{\kf15}ter{\kf24} they{\kf53} came
-Dialogue: 0,0:01:40.12,0:01:41.45,DEFAULT,,0,0,0,,{\kf19}So{\kf15} what{\kf15}cha{\kf15} wai{\kf15}ting{\kf24} for?
-Dialogue: 0,0:01:41.59,0:01:43.05,DEFAULT,,0,0,0,,{\kf15}Ain't{\kf10} you{\kf15} fee{\kf15}lin'{\kf15} hun{\kf10}gry{\kf38} yet?
-Dialogue: 0,0:01:43.20,0:01:44.52,DEFAULT,,0,0,0,,{\kf15}There's{\kf19} no{\kf15} rea{\kf19}son{\kf15} for{\kf19} you
-Dialogue: 0,0:01:44.62,0:01:47.12,DEFAULT,,0,0,0,,{\kf24}Not{\kf19} to{\kf29} get{\kf19} the{\kf29} ve{\kf24}ry{\kf19} best{\kf19} ap{\kf15}ples
-Dialogue: 0,0:01:47.27,0:01:48.78,DEFAULT,,0,0,0,,{\kf10}At{\kf10} our{\kf15} hap{\kf15}py{\kf15} lit{\kf15}tle{\kf38} farm
-Dialogue: 0,0:01:48.97,0:01:50.20,DEFAULT,,0,0,0,,{\kf10}So{\kf15} why{\kf15} don't{\kf15} you{\kf15} vi{\kf24}sit
-Dialogue: 0,0:01:50.34,0:01:52.04,DEFAULT,,0,0,0,,{\kf19}And{\kf15} sam{\kf15}ple{\kf15} our{\kf43} charms{\kf29} with
-Dialogue: 0,0:01:52.19,0:01:54.65,DEFAULT,,0,0,0,,{\kf48}All{\kf10} the{\kf15} ap{\kf15}ples{\kf15} you{\kf24} could{\kf15} e{\kf19}ver{\kf38} want
-Dialogue: 0,0:01:54.74,0:01:56.59,DEFAULT,,0,0,0,,{\kf24}At{\kf24} Sweet{\kf15} Ap{\kf15}ple{\kf15} A{\kf43}cres
-Dialogue: 0,0:01:56.68,0:01:58.05,DEFAULT,,0,0,0,,{\kf24}Sweet{\kf24} Ap{\kf19}ple{\kf15} A{\kf15}cres{\kf19} singin'
-Dialogue: 0,0:01:58.43,0:02:00.70,DEFAULT,,0,0,0,,{\kf34}All{\kf10} the{\kf15} ap{\kf15}ples{\kf15} you{\kf24} could{\kf15} e{\kf10}ver{\kf38} want
-Dialogue: 0,0:02:00.75,0:02:03.07,DEFAULT,,0,0,0,,{\kf24}And{\kf48} more{\kf29} more{\kf15} more{\kf29} more{\kf38} more
-Dialogue: 0,0:02:03.26,0:02:04.06,DEFAULT,,0,0,0,,{\kf10}And{\kf19} I{\kf34} say
-Dialogue: 0,0:02:04.35,0:02:06.76,DEFAULT,,0,0,0,,{\kf43}All{\kf15} the{\kf15} ap{\kf15}ples{\kf15} you{\kf24} could{\kf15} e{\kf15}ver{\kf29} want
-Dialogue: 0,0:02:06.95,0:02:08.56,DEFAULT,,0,0,0,,{\kf24}At{\kf38} Sweet{\kf24} Ap{\kf15}ple{\kf15} A{\kf24}cres
-Dialogue: 0,0:02:08.75,0:02:10.26,DEFAULT,,0,0,0,,{\kf38}Sweet{\kf15} Ap{\kf15}ple{\kf15} A{\kf15}cres{\kf29} singin'
-Dialogue: 0,0:02:10.50,0:02:12.86,DEFAULT,,0,0,0,,{\kf38}All{\kf10} the{\kf15} ap{\kf15}ples{\kf15} you{\kf15} could{\kf15} e{\kf15}ver{\kf38} want
-Dialogue: 0,0:02:12.96,0:02:14.85,DEFAULT,,0,0,0,,{\kf15}And{\kf19} m{\kf19}o{\kf15}r{\kf90}e
-Dialogue: 0,0:02:14.95,0:02:17.08,DEFAULT,,0,0,0,,{\kf19}Na{\kf19} na{\kf15} na{\kf15} na{\kf15} na{\kf19} na{\kf53} na
-Dialogue: 0,0:02:41.16,0:02:42.44,DEFAULT,,0,0,0,,{\kf15}It's{\kf19} a beau{\kf19}ti{\kf15}ful{\kf38} day
-Dialogue: 0,0:02:42.72,0:02:44.52,DEFAULT,,0,0,0,,{\kf10}It's{\kf10} a{\kf15} beau{\kf10}ti{\kf10}ful{\kf24} day{\kf62}~
-Dialogue: 0,0:02:47.27,0:02:50.53,DEFAULT,,0,0,0,,{\kf38}Such{\kf10} a{\kf15}~{\kf48} beau{\kf34}ti{\kf34}ful{\kf86} day
-Dialogue: 0,0:02:53.18,0:02:54.51,DEFAULT,,0,0,0,,{\kf19}It's{\kf10} a{\kf24} beau{\kf15}ti{\kf19}ful{\kf24} day
-Dialogue: 0,0:02:54.65,0:02:56.59,DEFAULT,,0,0,0,,{\kf10}To{\kf15} keep{\kf10} the{\kf15} doc{\kf10}tor{\kf15} a{\kf24}way{\kf53}~
-Dialogue: 0,0:02:57.01,0:02:58.34,DEFAULT,,0,0,0,,{\kf15}It's{\kf10} a{\kf24} beau{\kf15}ti{\kf15}ful{\kf29} day
-Dialogue: 0,0:02:58.43,0:03:00.61,DEFAULT,,0,0,0,,{\kf10}To{\kf15} keep{\kf15} the{\kf24} doc{\kf24}tor{\kf29} a{\kf43}way
-Dialogue: 0,0:03:02.08,0:03:04.58,DEFAULT,,0,0,0,,{\kf53}All{\kf10} the{\kf15} ap{\kf15}ples{\kf19} you{\kf19} could{\kf10} e{\kf15}ver{\kf43} want
-Dialogue: 0,0:03:04.77,0:03:06.43,DEFAULT,,0,0,0,,{\kf24}At{\kf34} Sweet{\kf15} Ap{\kf15}ple{\kf24} A{\kf34}cres
-Dialogue: 0,0:03:06.52,0:03:07.99,DEFAULT,,0,0,0,,{\kf43}Sweet{\kf15} Ap{\kf15}ple{\kf19} A{\kf15}cres{\kf24} singin'
-Dialogue: 0,0:03:08.13,0:03:10.50,DEFAULT,,0,0,0,,{\kf53}All{\kf10} the{\kf19} ap{\kf15}ples{\kf15} you{\kf24} could{\kf15} e{\kf19}ver{\kf29} want
-Dialogue: 0,0:03:10.64,0:03:14.14,DEFAULT,,0,0,0,,{\kf19}And{\kf24} mo-{\kf15} mo-{\kf15}mo-{\kf38}more{\kf10} mo-{\kf15}mo-{\kf29}more{\kf34} more{\kf29} more{\kf43} more
-Dialogue: 0,0:03:14.28,0:03:16.65,DEFAULT,,0,0,0,,{\kf48}All{\kf10} the{\kf15} ap{\kf15}ples{\kf15} you{\kf19} could{\kf15} e{\kf15}ver{\kf34} want
-Dialogue: 0,0:03:16.93,0:03:17.93,DEFAULT,,0,0,0,,{\kf24}At{\kf29} Sweet{\kf15} Ap{\kf10}ple -
-Dialogue: 0,0:03:17.98,0:03:19.35,DEFAULT,,0,0,0,,{\kf5}Come{\kf10} on{\kf5} why{\kf5} don't{\kf5} you{\kf15} sing{\kf10} with{\kf15} us{\kf5} come{\kf24} on
-Dialogue: 0,0:03:20.34,0:03:22.71,DEFAULT,,0,0,0,,{\kf43}All{\kf15} the{\kf19} ap{\kf15}ples{\kf15} you{\kf24} could{\kf19} e{\kf15}ver{\kf34} want
-Dialogue: 0,0:03:22.80,0:03:25.88,DEFAULT,,0,0,0,,{\kf24}And{\kf43} mo{\kf24}re{\kf161}~{\kf34}~
-Dialogue: 0,0:03:26.45,0:03:28.76,DEFAULT,,0,0,0,,{\kf38}All{\kf15} the{\kf19} ap{\kf15}ples{\kf15} you{\kf19} could{\kf15} e{\kf19}ver{\kf38} want
-Dialogue: 0,0:03:29.00,0:03:30.61,DEFAULT,,0,0,0,,{\kf24}At{\kf29} Sweet{\kf19} Ap{\kf15}ple{\kf19} A{\kf29}cres
-Dialogue: 0,0:03:30.80,0:03:32.31,DEFAULT,,0,0,0,,{\kf29}Sweet{\kf19} Ap{\kf15}ple{\kf19} A{\kf15}cres{\kf34} singin'
-Dialogue: 0,0:03:32.60,0:03:34.82,DEFAULT,,0,0,0,,{\kf34}All{\kf10} the{\kf19} ap{\kf15}ples{\kf15} you{\kf24} could{\kf19} e{\kf15}ver{\kf38} want
-Dialogue: 0,0:03:35.06,0:03:38.13,DEFAULT,,0,0,0,,{\kf15}And{\kf34} more{\kf29} more{\kf19} more{\kf29} more{\kf34} more{\kf24} more{\kf53} more
-Dialogue: 0,0:03:38.56,0:03:41.02,DEFAULT,,0,0,0,,{\kf38}All{\kf10} the{\kf19} ap{\kf15}ples{\kf15} you{\kf34} could{\kf15} e{\kf15}ver{\kf38} want
-Dialogue: 0,0:03:41.11,0:03:42.77,DEFAULT,,0,0,0,,{\kf24}At{\kf38} Sweet{\kf15} Ap{\kf10}ple{\kf24} A{\kf29}cres
-Dialogue: 0,0:03:42.91,0:03:44.80,DEFAULT,,0,0,0,,{\kf29}Sweet{\kf19} Ap{\kf24}ple{\kf15} A{\kf15}cres{\kf53} singin'
-Dialogue: 0,0:03:44.95,0:03:46.89,DEFAULT,,0,0,0,,{\kf10}All{\kf15} the{\kf15} ap{\kf10}ples{\kf15} you{\kf24} could{\kf15} e{\kf10}ver{\kf29} want
-Dialogue: 0,0:03:46.98,0:03:48.87,DEFAULT,,0,0,0,,{\kf29}And{\kf133} more
-Dialogue: 0,0:03:48.97,0:03:51.86,DEFAULT,,0,0,0,,{\kf38}More{\kf29} more{\kf24} more{\kf29} more{\kf133} more
-Dialogue: 0,0:03:52.57,0:03:56.68,DEFAULT,,0,0,0,,{\kf119}More,{\kf76} oh{\kf34} so{\kf38} much{\kf81} more
-Dialogue: 0,0:03:58.43,0:04:00.70,DEFAULT,,0,0,0,,{\kf15}We{\kf19} got{\kf38} all{\kf15} the{\kf114} apples
+Dialogue: 0,0:00:00.42,0:00:02.74,DEFAULT,,0,0,0,,{\r}{\kf53}Yeaah{\kf121} hey,{\kf58} yeah!
+Dialogue: 0,0:00:14.10,0:00:16.04,DEFAULT,,0,0,0,,{\r}{\kf29}Why{\kf22} don't{\kf22} you{\kf29} come{\kf29} on{\kf63} down
+Dialogue: 0,0:00:16.28,0:00:17.60,DEFAULT,,0,0,0,,{\r}{\kf13}To{\kf26} Sweet{\kf26} Ap{\kf20}ple{\kf26} A{\kf21}cres
+Dialogue: 0,0:00:17.70,0:00:19.16,DEFAULT,,0,0,0,,{\r}{\kf13}Got{\kf13} a{\kf32} whole{\kf19} fa{\kf19}mily{\kf51} full
+Dialogue: 0,0:00:19.31,0:00:20.63,DEFAULT,,0,0,0,,{\r}{\kf13}Of{\kf19} tas{\kf19}ty{\kf25} treat{\kf31} ma{\kf25}kers
+Dialogue: 0,0:00:20.72,0:00:22.05,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf13} to{\kf20} top{\kf13} it{\kf40} all{\kf33} off
+Dialogue: 0,0:00:22.19,0:00:23.71,DEFAULT,,0,0,0,,{\r}{\kf17}We're{\kf35} ap{\kf23}ple{\kf23} pie{\kf29} ba{\kf24}kers
+Dialogue: 0,0:00:23.99,0:00:25.27,DEFAULT,,0,0,0,,{\r}{\kf30}Don't{\kf30} be{\kf45} fooled{\kf23} by
+Dialogue: 0,0:00:25.36,0:00:26.64,DEFAULT,,0,0,0,,{\r}{\kf16}The{\kf32} Flim{\kf32} Flam{\kf24} fa{\kf24}kers
+Dialogue: 0,0:00:26.78,0:00:28.15,DEFAULT,,0,0,0,,{\r}{\kf23}We'll{\kf30} wet{\kf30} your{\kf30} whis{\kf24}tle
+Dialogue: 0,0:00:28.20,0:00:29.76,DEFAULT,,0,0,0,,{\r}{\kf14}With{\kf27} sweet{\kf34} Ap{\kf20}ple{\kf27} Ci{\kf34}der
+Dialogue: 0,0:00:29.90,0:00:31.37,DEFAULT,,0,0,0,,{\r}{\kf18}We{\kf18} wan{\kf18}na{\kf18} be{\kf18} your{\kf18} num{\kf18}ber{\kf21} one
+Dialogue: 0,0:00:31.61,0:00:32.55,DEFAULT,,0,0,0,,{\r}{\kf20}Ap{\kf20}ple{\kf20} pro{\kf20}vi{\kf15}der
+Dialogue: 0,0:00:32.65,0:00:34.12,DEFAULT,,0,0,0,,{\r}{\kf12}We{\kf25} got{\kf43} e{\kf25}very{\kf42}thing
+Dialogue: 0,0:00:34.35,0:00:35.72,DEFAULT,,0,0,0,,{\r}{\kf14}You{\kf14} could{\kf22} e{\kf14}ver{\kf29} ask{\kf44} for
+Dialogue: 0,0:00:35.96,0:00:37.38,DEFAULT,,0,0,0,,{\r}{\kf16}And{\kf16} then{\kf16} we{\kf16} e{\kf16}ven{\kf62} got
+Dialogue: 0,0:00:37.52,0:00:39.08,DEFAULT,,0,0,0,,{\r}{\kf22}A{\kf22} lit{\kf22}tle{\kf30} bit{\kf30} more{\kf30} than
+Dialogue: 0,0:00:39.37,0:00:41.78,DEFAULT,,0,0,0,,{\r}{\kf55}All{\kf14} the{\kf21} ap{\kf14}ples{\kf14} you{\kf34} could{\kf14} e{\kf14}ver{\kf61} want
+Dialogue: 0,0:00:41.97,0:00:43.53,DEFAULT,,0,0,0,,{\r}{\kf20}At{\kf27} Sweet{\kf27} Ap{\kf20}ple{\kf20} A{\kf42}cres
+Dialogue: 0,0:00:43.77,0:00:45.19,DEFAULT,,0,0,0,,{\r}{\kf43}Sweet{\kf21} Ap{\kf14}ple{\kf14} A{\kf14}cres{\kf36} singin'
+Dialogue: 0,0:00:45.52,0:00:47.70,DEFAULT,,0,0,0,,{\r}{\kf49}All{\kf14} the{\kf21} ap{\kf21}ples{\kf21} you{\kf21} could{\kf14} e{\kf14}ver{\kf43} want
+Dialogue: 0,0:00:47.84,0:00:49.02,DEFAULT,,0,0,0,,{\r}{\kf31}And{\kf87} more
+Dialogue: 0,0:00:50.39,0:00:51.20,DEFAULT,,0,0,0,,{\r}{\kf40}We{\kf40} got
+Dialogue: 0,0:00:51.34,0:00:53.80,DEFAULT,,0,0,0,,{\r}{\kf66}All{\kf20} the{\kf20} ap{\kf20}ples{\kf20} you{\kf20} could{\kf20} e{\kf20}ver{\kf40} want
+Dialogue: 0,0:00:53.99,0:00:55.60,DEFAULT,,0,0,0,,{\r}{\kf28}At{\kf35} Sweet{\kf28} Ap{\kf21}ple{\kf21} A{\kf28}cres
+Dialogue: 0,0:00:55.74,0:00:57.30,DEFAULT,,0,0,0,,{\r}{\kf46}Sweet{\kf29} Ap{\kf17}ple{\kf17} A{\kf17}cres{\kf30} singin'
+Dialogue: 0,0:00:57.59,0:00:59.90,DEFAULT,,0,0,0,,{\r}{\kf52}All{\kf13} the{\kf26} ap{\kf19}ples{\kf19} you{\kf26} could{\kf19} e{\kf19}ver{\kf39} want
+Dialogue: 0,0:01:00.05,0:01:01.89,DEFAULT,,0,0,0,,{\r}{\kf31}And{\kf82} more{\kf72}~
+Dialogue: 0,0:01:06.95,0:01:08.33,DEFAULT,,0,0,0,,{\r}{\kf19}It's{\kf19} a{\kf19} beau{\kf19}ti{\kf19}ful{\kf42} day
+Dialogue: 0,0:01:08.42,0:01:10.60,DEFAULT,,0,0,0,,{\r}{\kf22}It's{\kf17} a{\kf17} beau{\kf17}ti{\kf17}ful{\kf22} day{\kf106}~
+Dialogue: 0,0:01:13.11,0:01:14.53,DEFAULT,,0,0,0,,{\r}{\kf18}It's{\kf12} a{\kf18} beau{\kf18}ti{\kf18}ful{\kf58} day
+Dialogue: 0,0:01:14.62,0:01:16.04,DEFAULT,,0,0,0,,{\r}{\kf12}It's{\kf12} a{\kf19} beau{\kf25}ti{\kf19}ful{\kf25} day{\kf30}~
+Dialogue: 0,0:01:16.13,0:01:17.46,DEFAULT,,0,0,0,,{\r}{\kf12}It's{\kf12} a{\kf24} beau{\kf18}ti{\kf18}ful{\kf48} day
+Dialogue: 0,0:01:17.51,0:01:19.40,DEFAULT,,0,0,0,,{\r}{\kf12}To{\kf12} keep{\kf12} the{\kf18} doc{\kf18}tor{\kf24} a{\kf24}way{\kf69}~
+Dialogue: 0,0:01:20.63,0:01:22.00,DEFAULT,,0,0,0,,{\r}{\kf18}It's{\kf12} a{\kf24} beau{\kf24}ti{\kf18}ful{\kf41} day
+Dialogue: 0,0:01:22.24,0:01:23.56,DEFAULT,,0,0,0,,{\r}{\kf14}It's{\kf14} a{\kf21} beau{\kf14}ti{\kf21}ful{\kf21} day{\kf27}~
+Dialogue: 0,0:01:23.61,0:01:25.41,DEFAULT,,0,0,0,,{\r}{\kf12}To{\kf12} keep{\kf12} the{\kf24} doc{\kf12}tor{\kf24} a{\kf84}way
+Dialogue: 0,0:01:28.01,0:01:29.48,DEFAULT,,0,0,0,,{\r}{\kf23}So{\kf23} I'm{\kf23} gues{\kf23}sing{\kf23} by{\kf32} now
+Dialogue: 0,0:01:29.62,0:01:30.47,DEFAULT,,0,0,0,,{\r}{\kf14}You{\kf14} know{\kf21} our{\kf36} name
+Dialogue: 0,0:01:30.52,0:01:31.84,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf15} you{\kf15} know{\kf15} we{\kf22} ain't{\kf43} green
+Dialogue: 0,0:01:31.94,0:01:33.78,DEFAULT,,0,0,0,,{\r}{\kf14}To{\kf14} this{\kf21} ap{\kf21}ple{\kf21} buc{\kf21}king{\kf28} game{\kf45}~
+Dialogue: 0,0:01:33.88,0:01:34.92,DEFAULT,,0,0,0,,{\r}{\kf20}We're{\kf26} well{\kf20} de{\kf20}ser{\kf18}ving
+Dialogue: 0,0:01:34.97,0:01:36.34,DEFAULT,,0,0,0,,{\r}{\kf10}Of{\kf13} all{\kf13} this{\kf20} ap{\kf20}ple{\kf61} fame
+Dialogue: 0,0:01:36.58,0:01:37.85,DEFAULT,,0,0,0,,{\r}{\kf17}E{\kf17}very{\kf17}po{\kf12}ny{\kf12} who{\kf17} vi{\kf17}si{\kf19}ted
+Dialogue: 0,0:01:37.95,0:01:39.79,DEFAULT,,0,0,0,,{\r}{\kf33}Smiled{\kf26} af{\kf20}ter{\kf33} they{\kf73} came
+Dialogue: 0,0:01:40.13,0:01:41.45,DEFAULT,,0,0,0,,{\r}{\kf25}So{\kf19} what{\kf19}cha{\kf19} wai{\kf19}ting{\kf31} for?
+Dialogue: 0,0:01:41.59,0:01:43.06,DEFAULT,,0,0,0,,{\r}{\kf18}Ain't{\kf12} you{\kf18} fee{\kf18}lin'{\kf18} hun{\kf12}gry{\kf51} yet?
+Dialogue: 0,0:01:43.20,0:01:44.53,DEFAULT,,0,0,0,,{\r}{\kf19}There's{\kf25} no{\kf19} rea{\kf25}son{\kf19} for{\kf25} you
+Dialogue: 0,0:01:44.62,0:01:47.13,DEFAULT,,0,0,0,,{\r}{\kf31}Not{\kf24} to{\kf37} get{\kf24} the{\kf37} ve{\kf31}ry{\kf24} best{\kf24} ap{\kf19}ples
+Dialogue: 0,0:01:47.27,0:01:48.78,DEFAULT,,0,0,0,,{\r}{\kf13}At{\kf13} our{\kf19} hap{\kf19}py{\kf19} lit{\kf19}tle{\kf49} farm
+Dialogue: 0,0:01:48.97,0:01:50.20,DEFAULT,,0,0,0,,{\r}{\kf13}So{\kf19} why{\kf19} don't{\kf19} you{\kf19} vi{\kf34}sit
+Dialogue: 0,0:01:50.35,0:01:52.05,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf18} sam{\kf18}ple{\kf18} our{\kf55} charms{\kf37} with
+Dialogue: 0,0:01:52.19,0:01:54.65,DEFAULT,,0,0,0,,{\r}{\kf60}All{\kf12} the{\kf18} ap{\kf18}ples{\kf18} you{\kf30} could{\kf18} e{\kf24}ver{\kf48} want
+Dialogue: 0,0:01:54.75,0:01:56.59,DEFAULT,,0,0,0,,{\r}{\kf33}At{\kf33} Sweet{\kf20} Ap{\kf20}ple{\kf20} A{\kf59}cres
+Dialogue: 0,0:01:56.69,0:01:58.06,DEFAULT,,0,0,0,,{\r}{\kf29}Sweet{\kf29} Ap{\kf23}ple{\kf17} A{\kf17}cres{\kf22} singin'
+Dialogue: 0,0:01:58.44,0:02:00.71,DEFAULT,,0,0,0,,{\r}{\kf44}All{\kf13} the{\kf19} ap{\kf19}ples{\kf19} you{\kf32} could{\kf19} e{\kf13}ver{\kf49} want
+Dialogue: 0,0:02:00.76,0:02:03.07,DEFAULT,,0,0,0,,{\r}{\kf31}And{\kf61} more{\kf37} more{\kf18} more{\kf37} more{\kf48} more
+Dialogue: 0,0:02:03.26,0:02:04.07,DEFAULT,,0,0,0,,{\r}{\kf12}And{\kf25} I{\kf43} say
+Dialogue: 0,0:02:04.35,0:02:06.77,DEFAULT,,0,0,0,,{\r}{\kf57}All{\kf19} the{\kf19} ap{\kf19}ples{\kf19} you{\kf32} could{\kf19} e{\kf19}ver{\kf38} want
+Dialogue: 0,0:02:06.95,0:02:08.56,DEFAULT,,0,0,0,,{\r}{\kf28}At{\kf44} Sweet{\kf28} Ap{\kf17}ple{\kf17} A{\kf27}cres
+Dialogue: 0,0:02:08.75,0:02:10.27,DEFAULT,,0,0,0,,{\r}{\kf46}Sweet{\kf17} Ap{\kf17}ple{\kf17} A{\kf17}cres{\kf37} singin'
+Dialogue: 0,0:02:10.50,0:02:12.87,DEFAULT,,0,0,0,,{\r}{\kf53}All{\kf13} the{\kf20} ap{\kf20}ples{\kf20} you{\kf20} could{\kf20} e{\kf20}ver{\kf51} want
+Dialogue: 0,0:02:12.96,0:02:14.86,DEFAULT,,0,0,0,,{\r}{\kf17}And{\kf23} m{\kf23}o{\kf17}r{\kf109}e
+Dialogue: 0,0:02:14.95,0:02:17.08,DEFAULT,,0,0,0,,{\r}{\kf27}Na{\kf27} na{\kf20} na{\kf20} na{\kf20} na{\kf27} na{\kf72} na
+Dialogue: 0,0:02:41.17,0:02:42.44,DEFAULT,,0,0,0,,{\r}{\kf17}It's{\kf23} a beau{\kf23}ti{\kf17}ful{\kf48} day
+Dialogue: 0,0:02:42.73,0:02:44.53,DEFAULT,,0,0,0,,{\r}{\kf12}It's{\kf12} a{\kf19} beau{\kf12}ti{\kf12}ful{\kf31} day{\kf82}~
+Dialogue: 0,0:02:47.27,0:02:50.54,DEFAULT,,0,0,0,,{\r}{\kf47}Such{\kf12} a{\kf18}~{\kf59} beau{\kf41}ti{\kf41}ful{\kf108} day
+Dialogue: 0,0:02:53.19,0:02:54.51,DEFAULT,,0,0,0,,{\r}{\kf23}It's{\kf11} a{\kf29} beau{\kf17}ti{\kf23}ful{\kf29} day
+Dialogue: 0,0:02:54.65,0:02:56.59,DEFAULT,,0,0,0,,{\r}{\kf13}To{\kf19} keep{\kf13} the{\kf19} doc{\kf13}tor{\kf19} a{\kf31}way{\kf67}~
+Dialogue: 0,0:02:57.02,0:02:58.34,DEFAULT,,0,0,0,,{\r}{\kf18}It's{\kf12} a{\kf30} beau{\kf18}ti{\kf18}ful{\kf36} day
+Dialogue: 0,0:02:58.44,0:03:00.61,DEFAULT,,0,0,0,,{\r}{\kf13}To{\kf20} keep{\kf20} the{\kf33} doc{\kf33}tor{\kf40} a{\kf59}way
+Dialogue: 0,0:03:02.08,0:03:04.59,DEFAULT,,0,0,0,,{\r}{\kf67}All{\kf12} the{\kf18} ap{\kf18}ples{\kf24} you{\kf24} could{\kf12} e{\kf18}ver{\kf58} want
+Dialogue: 0,0:03:04.78,0:03:06.43,DEFAULT,,0,0,0,,{\r}{\kf28}At{\kf39} Sweet{\kf17} Ap{\kf17}ple{\kf28} A{\kf37}cres
+Dialogue: 0,0:03:06.53,0:03:08.00,DEFAULT,,0,0,0,,{\r}{\kf49}Sweet{\kf16} Ap{\kf16}ple{\kf22} A{\kf16}cres{\kf28} singin'
+Dialogue: 0,0:03:08.14,0:03:10.50,DEFAULT,,0,0,0,,{\r}{\kf64}All{\kf12} the{\kf23} ap{\kf17}ples{\kf17} you{\kf29} could{\kf17} e{\kf23}ver{\kf35} want
+Dialogue: 0,0:03:10.65,0:03:14.15,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf31} mo-{\kf19} mo-{\kf19}mo-{\kf50}more{\kf12} mo-{\kf19}mo-{\kf38}more{\kf44} more{\kf38} more{\kf55} more
+Dialogue: 0,0:03:14.29,0:03:16.66,DEFAULT,,0,0,0,,{\r}{\kf62}All{\kf12} the{\kf19} ap{\kf19}ples{\kf19} you{\kf25} could{\kf19} e{\kf19}ver{\kf43} want
+Dialogue: 0,0:03:16.94,0:03:17.93,DEFAULT,,0,0,0,,{\r}{\kf31}At{\kf37} Sweet{\kf19} Ap{\kf12}ple -
+Dialogue: 0,0:03:17.98,0:03:19.35,DEFAULT,,0,0,0,,{\r}{\kf10}Come{\kf14} on{\kf10} why{\kf10} don't{\kf10} you{\kf21} sing{\kf14} with{\kf21} us{\kf10} come{\kf17} on
+Dialogue: 0,0:03:20.35,0:03:22.71,DEFAULT,,0,0,0,,{\r}{\kf52}All{\kf17} the{\kf23} ap{\kf17}ples{\kf17} you{\kf29} could{\kf23} e{\kf17}ver{\kf42} want
+Dialogue: 0,0:03:22.81,0:03:25.88,DEFAULT,,0,0,0,,{\r}{\kf26}And{\kf46} mo{\kf26}re{\kf175}~{\kf35}~
+Dialogue: 0,0:03:26.45,0:03:28.77,DEFAULT,,0,0,0,,{\r}{\kf46}All{\kf17} the{\kf23} ap{\kf17}ples{\kf17} you{\kf23} could{\kf17} e{\kf23}ver{\kf49} want
+Dialogue: 0,0:03:29.01,0:03:30.61,DEFAULT,,0,0,0,,{\r}{\kf29}At{\kf34} Sweet{\kf23} Ap{\kf17}ple{\kf23} A{\kf35}cres
+Dialogue: 0,0:03:30.80,0:03:32.32,DEFAULT,,0,0,0,,{\r}{\kf34}Sweet{\kf22} Ap{\kf17}ple{\kf22} A{\kf17}cres{\kf39} singin'
+Dialogue: 0,0:03:32.60,0:03:34.83,DEFAULT,,0,0,0,,{\r}{\kf40}All{\kf11} the{\kf23} ap{\kf17}ples{\kf17} you{\kf28} could{\kf23} e{\kf17}ver{\kf46} want
+Dialogue: 0,0:03:35.06,0:03:38.14,DEFAULT,,0,0,0,,{\r}{\kf19}And{\kf44} more{\kf38} more{\kf25} more{\kf38} more{\kf44} more{\kf31} more{\kf69} more
+Dialogue: 0,0:03:38.56,0:03:41.02,DEFAULT,,0,0,0,,{\r}{\kf48}All{\kf12} the{\kf24} ap{\kf18}ples{\kf18} you{\kf42} could{\kf18} e{\kf18}ver{\kf48} want
+Dialogue: 0,0:03:41.12,0:03:42.78,DEFAULT,,0,0,0,,{\r}{\kf29}At{\kf46} Sweet{\kf17} Ap{\kf11}ple{\kf29} A{\kf34}cres
+Dialogue: 0,0:03:42.92,0:03:44.81,DEFAULT,,0,0,0,,{\r}{\kf35}Sweet{\kf24} Ap{\kf30}ple{\kf18} A{\kf18}cres{\kf64} singin'
+Dialogue: 0,0:03:44.95,0:03:46.89,DEFAULT,,0,0,0,,{\r}{\kf13}All{\kf20} the{\kf20} ap{\kf13}ples{\kf20} you{\kf33} could{\kf20} e{\kf13}ver{\kf42} want
+Dialogue: 0,0:03:46.99,0:03:48.88,DEFAULT,,0,0,0,,{\r}{\kf33}And{\kf156} more
+Dialogue: 0,0:03:48.97,0:03:51.86,DEFAULT,,0,0,0,,{\r}{\kf44}More{\kf33} more{\kf27} more{\kf33} more{\kf152} more
+Dialogue: 0,0:03:52.57,0:03:56.69,DEFAULT,,0,0,0,,{\r}{\kf141}More,{\kf90} oh{\kf40} so{\kf45} much{\kf96} more
+Dialogue: 0,0:03:58.44,0:04:00.71,DEFAULT,,0,0,0,,{\r}{\kf16}We{\kf22} got{\kf43} all{\kf16} the{\kf130} apples

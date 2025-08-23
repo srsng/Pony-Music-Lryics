@@ -1,50 +1,57 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Best Friends Until the end of Time
+Artist: My Little Pony
+Original Timing: mylittlekaraoke.com
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.03,0:00:01.62,DEFAULT,,0,0,0,,{\kf6}I{\kf17} wish{\kf17} that{\kf17} Star{\kf17}light{\kf12} was{\kf12} here{\kf12} to{\kf12} see
-Dialogue: 0,0:00:01.67,0:00:02.98,DEFAULT,,0,0,0,,{\kf17}How{\kf23} strong{\kf23} friend{\kf17}ships{\kf12} can{\kf12} be
-Dialogue: 0,0:00:03.03,0:00:03.88,DEFAULT,,0,0,0,,{\kf6}When{\kf12} we{\kf17} trust{\kf12} each{\kf12} o{\kf6}thers
-Dialogue: 0,0:00:03.94,0:00:04.79,DEFAULT,,0,0,0,,{\kf12}And{\kf17} work{\kf12} to{\kf12}ge{\kf23}ther
-Dialogue: 0,0:00:05.52,0:00:07.33,DEFAULT,,0,0,0,,{\kf17}You've{\kf23} all{\kf17} taught{\kf23} me{\kf17} so{\kf34} much!
-Dialogue: 0,0:00:08.98,0:00:11.69,DEFAULT,,0,0,0,,{\kf23}Friend{\kf17}ship{\kf17} used{\kf17} to{\kf17} make{\kf17} me{\kf29} so{\kf17} quea{\kf17}sy,{\kf17} quea{\kf23}sy
-Dialogue: 0,0:00:12.43,0:00:15.37,DEFAULT,,0,0,0,,{\kf17}But{\kf17} you{\kf17} made{\kf23} it{\kf29} all{\kf34} so{\kf17} ea{\kf17}sy,{\kf17} ea-{\kf23}sy
-Dialogue: 0,0:00:16.22,0:00:18.99,DEFAULT,,0,0,0,,{\kf17}Now{\kf17} I{\kf34} don't{\kf17} have{\kf17} to{\kf29} say{\kf17} what{\kf17} I'm{\kf17} think{\kf23}ing
-Dialogue: 0,0:00:19.67,0:00:22.62,DEFAULT,,0,0,0,,{\kf17}You{\kf17} al{\kf17}rea{\kf29}dy{\kf17} know{\kf17} with{\kf29}out{\kf17} e{\kf17}ven{\kf17} blink{\kf23}ing
-Dialogue: 0,0:00:23.07,0:00:26.35,DEFAULT,,0,0,0,,{\kf23}You{\kf29} girls{\kf17} are{\kf17} the{\kf23} ap{\kf29}ple{\kf34} of{\kf23} my{\kf12}~{\kf34} eye
-Dialogue: 0,0:00:26.69,0:00:30.03,DEFAULT,,0,0,0,,{\kf29}The{\kf29} race{\kf17} that{\kf34} does{\kf34}n't{\kf29} end{\kf17} in{\kf17} a{\kf34} tie
-Dialogue: 0,0:00:30.26,0:00:33.48,DEFAULT,,0,0,0,,{\kf29}You{\kf29} are{\kf17} the{\kf34} fun{\kf29}nel{\kf29} cake{\kf17} at{\kf17} my{\kf17} fair
-Dialogue: 0,0:00:33.71,0:00:36.65,DEFAULT,,0,0,0,,{\kf17}The{\kf34} warm{\kf29} hug{\kf17} of{\kf17} a{\kf23} fuz{\kf23}zy{\kf63} bear
-Dialogue: 0,0:00:37.16,0:00:41.47,DEFAULT,,0,0,0,,{\kf29}Best{\kf51} friends{\kf17} un{\kf17}til{\kf17} the{\kf34} end{\kf34} of{\kf23} time{\kf40}~
-Dialogue: 0,0:00:42.82,0:00:44.75,DEFAULT,,0,0,0,,{\kf17}We'll{\kf17} have{\kf17} each{\kf23} o{\kf29}ther's{\kf51} backs
-Dialogue: 0,0:00:46.50,0:00:48.65,DEFAULT,,0,0,0,,{\kf17}And{\kf17} let{\kf17} our{\kf34} true{\kf29} selves{\kf17} shine{\kf34}~
-Dialogue: 0,0:00:50.52,0:00:53.47,DEFAULT,,0,0,0,,{\kf17}And{\kf17} that's{\kf17} be{\kf23}cause{\kf40} e{\kf23}very{\kf29}thing{\kf17} we{\kf46} need
-Dialogue: 0,0:00:53.75,0:00:55.11,DEFAULT,,0,0,0,,{\kf17}Is{\kf17} all{\kf17}~{\kf34} right{\kf23} here
-Dialogue: 0,0:00:55.28,0:00:57.15,DEFAULT,,0,0,0,,{\kf29}When{\kf23} we're{\kf29} with{\kf17} our{\kf46} team
-Dialogue: 0,0:00:58.39,0:00:59.58,DEFAULT,,0,0,0,,{\kf40}Star{\kf74}light!
-Dialogue: 0,0:00:59.69,0:01:01.16,DEFAULT,,0,0,0,,{\kf17}A{\kf17} spark{\kf17} of{\kf17} ma{\kf12}gic{\kf12} could{\kf12} be
-Dialogue: 0,0:01:01.28,0:01:03.15,DEFAULT,,0,0,0,,{\kf17}Ve{\kf17}ry{\kf17} help{\kf17}ful{\kf12} right{\kf12} a{\kf23}bout{\kf40} now!
-Dialogue: 0,0:01:03.94,0:01:05.13,DEFAULT,,0,0,0,,{\kf23}I{\kf57} can'tâ€¦!
-Dialogue: 0,0:01:06.37,0:01:09.32,DEFAULT,,0,0,0,,{\kf17}I{\kf17} sim{\kf17}ply{\kf17} can't{\kf17} i{\kf17}ma{\kf17}gine{\kf34} there'd{\kf17} be{\kf17} a{\kf17} day{\kf23}~
-Dialogue: 0,0:01:09.94,0:01:13.11,DEFAULT,,0,0,0,,{\kf23}Where{\kf17} I{\kf17} would{\kf29}n't{\kf17} want{\kf17} to{\kf23} be{\kf17} walk{\kf17}ing{\kf23} your{\kf34} way
-Dialogue: 0,0:01:13.62,0:01:16.62,DEFAULT,,0,0,0,,{\kf17}What{\kf17}e{\kf17}ver{\kf29} new{\kf17} pro{\kf17}blems{\kf29} there{\kf17} may{\kf17} be,{\kf17} may{\kf23} be
-Dialogue: 0,0:01:17.24,0:01:20.35,DEFAULT,,0,0,0,,{\kf17}Our{\kf17} friend{\kf17}ship{\kf40} is{\kf12} al{\kf17}ways{\kf29} the{\kf17} door{\kf17} with{\kf17} the{\kf34} key
-Dialogue: 0,0:01:20.64,0:01:24.03,DEFAULT,,0,0,0,,{\kf34}You{\kf29} are{\kf17} the{\kf40} jewels{\kf12} in{\kf17} my{\kf29} friend{\kf29}ship{\kf40} crown
-Dialogue: 0,0:01:24.32,0:01:27.65,DEFAULT,,0,0,0,,{\kf29}The{\kf29} sparks{\kf17} that{\kf29} make{\kf34} my{\kf34} world{\kf17} go{\kf17}~{\kf34} 'round
-Dialogue: 0,0:01:27.94,0:01:31.11,DEFAULT,,0,0,0,,{\kf29}We{\kf29} bring{\kf17} the{\kf29} best{\kf29} out,{\kf29} that's{\kf29} our{\kf23} goal
-Dialogue: 0,0:01:31.33,0:01:34.11,DEFAULT,,0,0,0,,{\kf23}There's{\kf23} no{\kf17} tel{\kf17}ling{\kf23} how{\kf23} far{\kf29} we'll{\kf51} go
-Dialogue: 0,0:01:34.73,0:01:39.03,DEFAULT,,0,0,0,,{\kf34}Best{\kf57} friends{\kf17} un{\kf17}til{\kf17} the{\kf34} end{\kf34} of{\kf17} time{\kf40}~
-Dialogue: 0,0:01:40.39,0:01:42.37,DEFAULT,,0,0,0,,{\kf17}We'll{\kf23} have{\kf17} each{\kf17} o{\kf29}ther's{\kf51} backs
-Dialogue: 0,0:01:44.07,0:01:46.33,DEFAULT,,0,0,0,,{\kf17}And{\kf17} let{\kf17} our{\kf34} true{\kf34} selves{\kf17} shine{\kf46}~
-Dialogue: 0,0:01:48.20,0:01:51.09,DEFAULT,,0,0,0,,{\kf17}And{\kf17} that's{\kf17} be{\kf23}cause{\kf34} e{\kf17}very{\kf34}thing{\kf17} we{\kf40} need
-Dialogue: 0,0:01:51.32,0:01:52.73,DEFAULT,,0,0,0,,{\kf17}Is{\kf17} all{\kf17}~{\kf34} right{\kf23} here
-Dialogue: 0,0:01:52.96,0:01:54.94,DEFAULT,,0,0,0,,{\kf34}When{\kf17} we're{\kf29} with{\kf17} our{\kf63} team!
-Dialogue: 0,0:01:57.15,0:01:59.58,DEFAULT,,0,0,0,,{\kf23}That{\kf29} was{\kf46} lo{\kf46}vely{\kf23} but
-Dialogue: 0,0:02:00.32,0:02:03.15,DEFAULT,,0,0,0,,{\kf12}You{\kf12} know{\kf12} the{\kf17} game{\kf12} is{\kf12}n't{\kf17} o{\kf12}ver{\kf12} un{\kf12}til{\kf12} you{\kf17} turn{\kf23} that{\kf46} key?
+Dialogue: 0,0:00:00.04,0:00:01.62,DEFAULT,,0,0,0,,{\r}{\kf10}I{\kf23} wish{\kf23} that{\kf23} Star{\kf23}light{\kf15} was{\kf15} here{\kf15} to{\kf11} see
+Dialogue: 0,0:00:01.68,0:00:02.98,DEFAULT,,0,0,0,,{\r}{\kf22}How{\kf29} strong{\kf29} friend{\kf22}ships{\kf14} can{\kf14} be
+Dialogue: 0,0:00:03.04,0:00:03.89,DEFAULT,,0,0,0,,{\r}{\kf10}When{\kf15} we{\kf23} trust{\kf15} each{\kf15} o{\kf10}thers
+Dialogue: 0,0:00:03.94,0:00:04.79,DEFAULT,,0,0,0,,{\r}{\kf13}And{\kf20} work{\kf13} to{\kf13}ge{\kf26}ther
+Dialogue: 0,0:00:05.53,0:00:07.34,DEFAULT,,0,0,0,,{\r}{\kf24}You've{\kf31} all{\kf24} taught{\kf31} me{\kf24} so{\kf47} much!
+Dialogue: 0,0:00:08.98,0:00:11.70,DEFAULT,,0,0,0,,{\r}{\kf29}Friend{\kf22}ship{\kf22} used{\kf22} to{\kf22} make{\kf22} me{\kf37} so{\kf22} quea{\kf22}sy,{\kf22} quea{\kf30}sy
+Dialogue: 0,0:00:12.43,0:00:15.38,DEFAULT,,0,0,0,,{\r}{\kf24}But{\kf24} you{\kf24} made{\kf32} it{\kf40} all{\kf48} so{\kf24} ea{\kf24}sy,{\kf24} ea-{\kf30}sy
+Dialogue: 0,0:00:16.23,0:00:19.00,DEFAULT,,0,0,0,,{\r}{\kf23}Now{\kf23} I{\kf46} don't{\kf23} have{\kf23} to{\kf38} say{\kf23} what{\kf23} I'm{\kf23} think{\kf32}ing
+Dialogue: 0,0:00:19.68,0:00:22.62,DEFAULT,,0,0,0,,{\r}{\kf23}You{\kf23} al{\kf23}rea{\kf39}dy{\kf23} know{\kf23} with{\kf39}out{\kf23} e{\kf23}ven{\kf23} blink{\kf32}ing
+Dialogue: 0,0:00:23.07,0:00:26.36,DEFAULT,,0,0,0,,{\r}{\kf31}You{\kf39} girls{\kf23} are{\kf23} the{\kf31} ap{\kf39}ple{\kf47} of{\kf31} my{\kf16}~{\kf48} eye
+Dialogue: 0,0:00:26.70,0:00:30.04,DEFAULT,,0,0,0,,{\r}{\kf40}The{\kf40} race{\kf24} that{\kf48} does{\kf48}n't{\kf40} end{\kf24} in{\kf24} a{\kf46} tie
+Dialogue: 0,0:00:30.26,0:00:33.49,DEFAULT,,0,0,0,,{\r}{\kf42}You{\kf42} are{\kf26} the{\kf51} fun{\kf42}nel{\kf42} cake{\kf26} at{\kf26} my{\kf26} fair
+Dialogue: 0,0:00:33.72,0:00:36.66,DEFAULT,,0,0,0,,{\r}{\kf23}The{\kf45} warm{\kf38} hug{\kf23} of{\kf23} a{\kf30} fuz{\kf30}zy{\kf82} bear
+Dialogue: 0,0:00:37.17,0:00:41.47,DEFAULT,,0,0,0,,{\r}{\kf47}Best{\kf84} friends{\kf28} un{\kf28}til{\kf28} the{\kf56} end{\kf56} of{\kf37} time{\kf66}~
+Dialogue: 0,0:00:42.83,0:00:44.75,DEFAULT,,0,0,0,,{\r}{\kf21}We'll{\kf21} have{\kf21} each{\kf28} o{\kf36}ther's{\kf65} backs
+Dialogue: 0,0:00:46.51,0:00:48.66,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} let{\kf22} our{\kf44} true{\kf37} selves{\kf22} shine{\kf46}~
+Dialogue: 0,0:00:50.53,0:00:53.47,DEFAULT,,0,0,0,,{\r}{\kf22}And{\kf22} that's{\kf22} be{\kf29}cause{\kf51} e{\kf29}very{\kf37}thing{\kf22} we{\kf60} need
+Dialogue: 0,0:00:53.75,0:00:55.11,DEFAULT,,0,0,0,,{\r}{\kf21}Is{\kf21} all{\kf21}~{\kf43} right{\kf30} here
+Dialogue: 0,0:00:55.28,0:00:57.15,DEFAULT,,0,0,0,,{\r}{\kf37}When{\kf30} we're{\kf37} with{\kf22} our{\kf61} team
+Dialogue: 0,0:00:58.40,0:00:59.58,DEFAULT,,0,0,0,,{\r}{\kf42}Star{\kf77}light!
+Dialogue: 0,0:00:59.70,0:01:01.17,DEFAULT,,0,0,0,,{\r}{\kf24}A{\kf24} spark{\kf24} of{\kf24} ma{\kf16}gic{\kf16} could{\kf19} be
+Dialogue: 0,0:01:01.28,0:01:03.15,DEFAULT,,0,0,0,,{\r}{\kf21}Ve{\kf21}ry{\kf21} help{\kf21}ful{\kf14} right{\kf14} a{\kf28}bout{\kf47} now!
+Dialogue: 0,0:01:03.94,0:01:05.13,DEFAULT,,0,0,0,,{\r}{\kf34}I{\kf85} can'tâ€¦!
+Dialogue: 0,0:01:06.38,0:01:09.32,DEFAULT,,0,0,0,,{\r}{\kf22}I{\kf22} sim{\kf22}ply{\kf22} can't{\kf22} i{\kf22}ma{\kf22}gine{\kf44} there'd{\kf22} be{\kf22} a{\kf22} day{\kf30}~
+Dialogue: 0,0:01:09.94,0:01:13.11,DEFAULT,,0,0,0,,{\r}{\kf31}Where{\kf23} I{\kf23} would{\kf39}n't{\kf23} want{\kf23} to{\kf31} be{\kf23} walk{\kf23}ing{\kf31} your{\kf47} way
+Dialogue: 0,0:01:13.62,0:01:16.62,DEFAULT,,0,0,0,,{\r}{\kf24}What{\kf24}e{\kf24}ver{\kf39} new{\kf24} pro{\kf24}blems{\kf39} there{\kf24} may{\kf24} be,{\kf24} may{\kf30} be
+Dialogue: 0,0:01:17.24,0:01:20.36,DEFAULT,,0,0,0,,{\r}{\kf23}Our{\kf23} friend{\kf23}ship{\kf53} is{\kf15} al{\kf23}ways{\kf38} the{\kf23} door{\kf23} with{\kf23} the{\kf44} key
+Dialogue: 0,0:01:20.64,0:01:24.04,DEFAULT,,0,0,0,,{\r}{\kf47}You{\kf40} are{\kf24} the{\kf55} jewels{\kf16} in{\kf24} my{\kf40} friend{\kf40}ship{\kf54} crown
+Dialogue: 0,0:01:24.32,0:01:27.66,DEFAULT,,0,0,0,,{\r}{\kf40}The{\kf40} sparks{\kf24} that{\kf40} make{\kf48} my{\kf48} world{\kf24} go{\kf24}~{\kf46} 'round
+Dialogue: 0,0:01:27.94,0:01:31.11,DEFAULT,,0,0,0,,{\r}{\kf43}We{\kf43} bring{\kf26} the{\kf43} best{\kf43} out,{\kf43} that's{\kf43} our{\kf33} goal
+Dialogue: 0,0:01:31.34,0:01:34.11,DEFAULT,,0,0,0,,{\r}{\kf31}There's{\kf31} no{\kf23} tel{\kf23}ling{\kf31} how{\kf31} far{\kf38} we'll{\kf69} go
+Dialogue: 0,0:01:34.74,0:01:39.04,DEFAULT,,0,0,0,,{\r}{\kf55}Best{\kf91} friends{\kf27} un{\kf27}til{\kf27} the{\kf55} end{\kf55} of{\kf27} time{\kf66}~
+Dialogue: 0,0:01:40.40,0:01:42.38,DEFAULT,,0,0,0,,{\r}{\kf22}We'll{\kf29} have{\kf22} each{\kf22} o{\kf37}ther's{\kf66} backs
+Dialogue: 0,0:01:44.07,0:01:46.34,DEFAULT,,0,0,0,,{\r}{\kf21}And{\kf21} let{\kf21} our{\kf42} true{\kf42} selves{\kf21} shine{\kf58}~
+Dialogue: 0,0:01:48.21,0:01:51.09,DEFAULT,,0,0,0,,{\r}{\kf23}And{\kf23} that's{\kf23} be{\kf30}cause{\kf46} e{\kf23}very{\kf46}thing{\kf23} we{\kf52} need
+Dialogue: 0,0:01:51.32,0:01:52.74,DEFAULT,,0,0,0,,{\r}{\kf22}Is{\kf22} all{\kf22}~{\kf45} right{\kf31} here
+Dialogue: 0,0:01:52.96,0:01:54.94,DEFAULT,,0,0,0,,{\r}{\kf42}When{\kf21} we're{\kf35} with{\kf21} our{\kf79} team!
+Dialogue: 0,0:01:57.15,0:01:59.58,DEFAULT,,0,0,0,,{\r}{\kf34}That{\kf42} was{\kf67} lo{\kf67}vely{\kf33} but
+Dialogue: 0,0:02:00.32,0:02:03.15,DEFAULT,,0,0,0,,{\r}{\kf15}You{\kf15} know{\kf15} the{\kf22} game{\kf15} is{\kf15}n't{\kf22} o{\kf15}ver{\kf15} un{\kf15}til{\kf15} you{\kf22} turn{\kf29} that{\kf53} key?

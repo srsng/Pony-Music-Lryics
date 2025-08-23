@@ -1,87 +1,94 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Helping Twilight Win The Crown
+Artist: Equestria Girls
+Original Timing: mylittlekaraoke.com by Smilley
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:30.70,0:00:33.19,DEFAULT,,0,0,0,,{\kf34}Hey,{\kf41} hey,{\kf27} eve{\kf21}ry{\kf27}bo{\kf27}dy!
-Dialogue: 0,0:00:33.52,0:00:35.60,DEFAULT,,0,0,0,,{\kf21}We've{\kf21} got{\kf27} some{\kf27}thing{\kf14} to{\kf27} sa{\kf27}-ay,
-Dialogue: 0,0:00:35.60,0:00:38.08,DEFAULT,,0,0,0,,{\kf34}We{\kf34} may{\kf34} seem{\kf14} as{\kf27} diffe{\kf27}rent,
-Dialogue: 0,0:00:38.42,0:00:40.30,DEFAULT,,0,0,0,,{\kf14}As{\kf14} the{\kf34} night{\kf27} is{\kf21} from{\kf41} day
-Dialogue: 0,0:00:40.77,0:00:42.98,DEFAULT,,0,0,0,,{\kf21}But{\kf21} you{\kf14} look{\kf14} a{\kf21} lit{\kf14}tle{\kf21} dee{\kf61}pe{\kf27}-er
-Dialogue: 0,0:00:43.32,0:00:44.53,DEFAULT,,0,0,0,,{\kf21}And{\kf21} you{\kf14} will{\kf34} see
-Dialogue: 0,0:00:44.80,0:00:47.28,DEFAULT,,0,0,0,,{\kf21}That{\kf34} I'm{\kf34} just{\kf47} like{\kf27} yo{\kf34}-ou
-Dialogue: 0,0:00:47.28,0:00:50.16,DEFAULT,,0,0,0,,{\kf21}And{\kf27} you're{\kf34} just{\kf41} li{\kf21}-ike{\kf27} me{\kf27}-e,{\kf47} yeah!
-Dialogue: 0,0:00:55.00,0:00:57.21,DEFAULT,,0,0,0,,{\kf27}Hey,{\kf34} hey,{\kf27} eve{\kf21}ry{\kf27}bo{\kf21}dy!
-Dialogue: 0,0:00:57.48,0:00:58.62,DEFAULT,,0,0,0,,{\kf21}We're{\kf21} here{\kf14} to{\kf41} shout,
-Dialogue: 0,0:00:58.82,0:01:01.51,DEFAULT,,0,0,0,,{\kf21}That{\kf14} the{\kf27} ma{\kf21}gic{\kf47} of{\kf21} friend{\kf27}ship{\kf14} is{\kf27} what
-Dialogue: 0,0:01:01.77,0:01:02.91,DEFAULT,,0,0,0,,{\kf21}It's{\kf21} all{\kf14} a{\kf34}bout
-Dialogue: 0,0:01:03.05,0:01:05.20,DEFAULT,,0,0,0,,{\kf27}Yeah,{\kf14} we{\kf27} thought{\kf21} we{\kf47} were{\kf27} diffe{\kf21}rent,
-Dialogue: 0,0:01:05.33,0:01:07.14,DEFAULT,,0,0,0,,{\kf21}As{\kf14} the{\kf27} night{\kf21} is{\kf21} from{\kf14} the{\kf34} day
-Dialogue: 0,0:01:07.41,0:01:09.42,DEFAULT,,0,0,0,,{\kf21}Un{\kf21}til{\kf41} Twi{\kf41}light{\kf27} Spar{\kf14}kle
-Dialogue: 0,0:01:09.49,0:01:11.30,DEFAULT,,0,0,0,,{\kf21}Helped{\kf14} to{\kf27} see{\kf21} a{\kf21}no{\kf21}ther{\kf21} way
-Dialogue: 0,0:01:11.37,0:01:13.59,DEFAULT,,0,0,0,,{\kf21}So{\kf47} get{\kf27} up,{\kf27} get{\kf34} down
-Dialogue: 0,0:01:13.79,0:01:15.73,DEFAULT,,0,0,0,,{\kf27}If{\kf21} you're{\kf21} gon{\kf21}na{\kf27} come{\kf14} a{\kf34}round
-Dialogue: 0,0:01:15.93,0:01:18.01,DEFAULT,,0,0,0,,{\kf27}We{\kf21} can{\kf34} work{\kf41} to{\kf21}get{\kf21}her
-Dialogue: 0,0:01:18.08,0:01:19.89,DEFAULT,,0,0,0,,{\kf21}Help{\kf21}ing{\kf21} Twi{\kf27}light{\kf27} win{\kf14} the{\kf21} crown
-Dialogue: 0,0:01:19.96,0:01:22.24,DEFAULT,,0,0,0,,{\kf21}So{\kf47} get{\kf27} up,{\kf41} get{\kf41} down
-Dialogue: 0,0:01:22.38,0:01:24.26,DEFAULT,,0,0,0,,{\kf21}Cause{\kf21} its{\kf27} gon{\kf21}na{\kf21} make{\kf14} a{\kf27} sound
-Dialogue: 0,0:01:24.52,0:01:26.60,DEFAULT,,0,0,0,,{\kf21}If{\kf21} we{\kf34} work{\kf41} to{\kf21}get{\kf21}her
-Dialogue: 0,0:01:26.67,0:01:29.22,DEFAULT,,0,0,0,,{\kf21}Help{\kf21}ing{\kf21} Twi{\kf14}light{\kf21} Spar{\kf27}kle{\kf27} win{\kf14} the{\kf41} crown
-Dialogue: 0,0:01:29.36,0:01:31.30,DEFAULT,,0,0,0,,{\kf27}Hey,{\kf27} hey!{\kf27} Hands{\kf21} up{\kf34} now!
-Dialogue: 0,0:01:31.37,0:01:33.45,DEFAULT,,0,0,0,,{\kf14}We're{\kf14} sen{\kf14}ding{\kf14} a{\kf27} mes{\kf21}sage{\kf21} to{\kf21} the{\kf34} crowd!
-Dialogue: 0,0:01:33.58,0:01:35.53,DEFAULT,,0,0,0,,{\kf34}Hands{\kf21} wave{\kf34} up,{\kf27} then{\kf21} come{\kf27} down
-Dialogue: 0,0:01:35.86,0:01:37.81,DEFAULT,,0,0,0,,{\kf14}Par{\kf7}ty{\kf14} to{\kf27}get{\kf21}her{\kf27} all{\kf14} a{\kf41}round
-Dialogue: 0,0:01:37.88,0:01:38.82,DEFAULT,,0,0,0,,{\kf27}Ge{\kf21}ne{\kf34}rous
-Dialogue: 0,0:01:39.02,0:01:39.82,DEFAULT,,0,0,0,,{\kf14}Ho{\kf21}nes{\kf27}ty
-Dialogue: 0,0:01:39.96,0:01:41.97,DEFAULT,,0,0,0,,{\kf27}Laugh{\kf21}ter,{\kf27} Kind{\kf21}ness,{\kf27} Lo{\kf27}yal{\kf34}ty
-Dialogue: 0,0:01:42.17,0:01:44.39,DEFAULT,,0,0,0,,{\kf21}Twi{\kf27}light{\kf21} helped{\kf27} us{\kf21} each{\kf14} to{\kf21} se{\kf34}-e
-Dialogue: 0,0:01:44.39,0:01:45.60,DEFAULT,,0,0,0,,{\kf21}All{\kf21} that{\kf21} we{\kf21} can{\kf21} be!
-Dialogue: 0,0:01:45.66,0:01:47.88,DEFAULT,,0,0,0,,{\kf21}So{\kf47} get{\kf27} up,{\kf34} get{\kf34} down
-Dialogue: 0,0:01:48.08,0:01:50.02,DEFAULT,,0,0,0,,{\kf21}If{\kf21} you're{\kf21} gon{\kf14}na{\kf27} come{\kf14} a{\kf34}round
-Dialogue: 0,0:01:50.23,0:01:52.31,DEFAULT,,0,0,0,,{\kf21}We{\kf21} can{\kf41} work{\kf41} to{\kf27}get{\kf14}her
-Dialogue: 0,0:01:52.37,0:01:54.19,DEFAULT,,0,0,0,,{\kf21}Help{\kf21}ing{\kf27} Twi{\kf27}light{\kf21} win{\kf14} the{\kf21} crown
-Dialogue: 0,0:01:54.25,0:01:56.47,DEFAULT,,0,0,0,,{\kf21}So{\kf47} get{\kf27} up,{\kf41} get{\kf34} down
-Dialogue: 0,0:01:56.67,0:01:58.61,DEFAULT,,0,0,0,,{\kf21}Cause{\kf21} its{\kf21} gon{\kf21}na{\kf21} make{\kf14} a{\kf41} sound
-Dialogue: 0,0:01:58.82,0:02:00.90,DEFAULT,,0,0,0,,{\kf21}If{\kf21} we{\kf34} work{\kf47} to{\kf21}get{\kf21}her
-Dialogue: 0,0:02:00.96,0:02:03.45,DEFAULT,,0,0,0,,{\kf21}Help{\kf21}ing{\kf27} Twi{\kf21}light{\kf21} Spar{\kf21}kle{\kf34} win{\kf14} the{\kf41} crown
-Dialogue: 0,0:02:03.92,0:02:05.86,DEFAULT,,0,0,0,,{\kf21}I'm{\kf21} gon{\kf14}na{\kf21} be{\kf21} my{\kf61}self,
-Dialogue: 0,0:02:06.00,0:02:08.01,DEFAULT,,0,0,0,,{\kf21}No{\kf27} mat{\kf21}ter{\kf21} what{\kf14} I{\kf21} do{\kf34}-o
-Dialogue: 0,0:02:08.21,0:02:09.89,DEFAULT,,0,0,0,,{\kf21}And{\kf21} if{\kf14} we're{\kf27} diffe{\kf21}rent{\kf34} yeah,
-Dialogue: 0,0:02:09.89,0:02:12.04,DEFAULT,,0,0,0,,{\kf14}I{\kf21} want{\kf14} you{\kf21} to{\kf21} be{\kf27} true{\kf14} to{\kf41} you
-Dialogue: 0,0:02:12.51,0:02:14.05,DEFAULT,,0,0,0,,{\kf21}If{\kf14} you{\kf21} foll{\kf27}ow{\kf54} me,
-Dialogue: 0,0:02:14.12,0:02:16.67,DEFAULT,,0,0,0,,{\kf21}We'll{\kf21} put{\kf21} our{\kf27} diffe{\kf14}ren{\kf27}ces{\kf14} a{\kf34}si{\kf41}-ide
-Dialogue: 0,0:02:16.73,0:02:18.01,DEFAULT,,0,0,0,,{\kf14}We'll{\kf27} stick{\kf21} to{\kf21}get{\kf21}her
-Dialogue: 0,0:02:18.14,0:02:22.10,DEFAULT,,0,0,0,,{\kf14}And{\kf27} start{\kf21} wor{\kf21}king{\kf27} on{\kf14} that{\kf27} scho{\kf21}ol{\kf182} pride
-Dialogue: 0,0:02:22.37,0:02:24.38,DEFAULT,,0,0,0,,{\kf41}Jump{\kf27} up,{\kf27} make{\kf14} a{\kf41} sound
-Dialogue: 0,0:02:24.45,0:02:24.85,DEFAULT,,0,0,0,,{\kf41}Hey!
-Dialogue: 0,0:02:24.99,0:02:27.07,DEFAULT,,0,0,0,,{\kf27}Stomp{\kf21} your{\kf41} hooves,{\kf21} turn{\kf21} a{\kf41}round
-Dialogue: 0,0:02:27.14,0:02:29.08,DEFAULT,,0,0,0,,{\kf41}Start{\kf41} now,{\kf27} make{\kf14} a{\kf34} change
-Dialogue: 0,0:02:29.28,0:02:30.83,DEFAULT,,0,0,0,,{\kf21}Gon{\kf14}na{\kf27} come{\kf14} a{\kf47}round
-Dialogue: 0,0:02:30.89,0:02:32.91,DEFAULT,,0,0,0,,{\kf47}Jump{\kf27} up,{\kf21} make{\kf14} a{\kf41} sound
-Dialogue: 0,0:02:32.97,0:02:33.44,DEFAULT,,0,0,0,,{\kf47}Hey!
-Dialogue: 0,0:02:33.58,0:02:35.59,DEFAULT,,0,0,0,,{\kf27}Stomp{\kf21} your{\kf41} hooves,{\kf27} turn{\kf14} a{\kf41}round
-Dialogue: 0,0:02:35.79,0:02:36.60,DEFAULT,,0,0,0,,{\kf21}Can{\kf14}ter{\kf34}lot
-Dialogue: 0,0:02:36.80,0:02:37.67,DEFAULT,,0,0,0,,{\kf27}Won{\kf21}der{\kf34}colts,
-Dialogue: 0,0:02:37.81,0:02:39.35,DEFAULT,,0,0,0,,{\kf27}Help{\kf21} her{\kf27} win{\kf27} the{\kf34} crown
-Dialogue: 0,0:02:39.48,0:02:41.63,DEFAULT,,0,0,0,,{\kf41}Jump{\kf27} up,{\kf21} make{\kf14} a{\kf61} sound
-Dialogue: 0,0:02:41.70,0:02:41.97,DEFAULT,,0,0,0,,{\kf27}Hey!
-Dialogue: 0,0:02:42.17,0:02:44.11,DEFAULT,,0,0,0,,{\kf27}Stomp{\kf27} your{\kf34} hooves,{\kf27} turn{\kf14} a{\kf34}round
-Dialogue: 0,0:02:44.32,0:02:46.26,DEFAULT,,0,0,0,,{\kf41}Start{\kf41} now,{\kf27} make{\kf14} a{\kf34} change
-Dialogue: 0,0:02:46.46,0:02:47.94,DEFAULT,,0,0,0,,{\kf27}Gon{\kf14}na{\kf27} come{\kf14} a{\kf41}round
-Dialogue: 0,0:02:48.14,0:02:50.09,DEFAULT,,0,0,0,,{\kf41}Jump{\kf21} up,{\kf21} make{\kf14} a{\kf41} sound
-Dialogue: 0,0:02:50.22,0:02:50.56,DEFAULT,,0,0,0,,{\kf34}Hey!
-Dialogue: 0,0:02:50.69,0:02:52.70,DEFAULT,,0,0,0,,{\kf27}Stomp{\kf21} your{\kf41} hooves,{\kf27} turn{\kf14} a{\kf41}round
-Dialogue: 0,0:02:52.91,0:02:53.78,DEFAULT,,0,0,0,,{\kf21}Can{\kf21}ter{\kf34}lot
-Dialogue: 0,0:02:53.98,0:02:54.78,DEFAULT,,0,0,0,,{\kf21}Won{\kf14}der{\kf34}colts,
-Dialogue: 0,0:02:54.99,0:02:56.39,DEFAULT,,0,0,0,,{\kf27}Help{\kf21} her{\kf27} win{\kf14} the{\kf34} crown
-Dialogue: 0,0:02:56.66,0:02:58.68,DEFAULT,,0,0,0,,{\kf41}Jump{\kf34} up,{\kf21} make{\kf14} a{\kf47} sound
-Dialogue: 0,0:02:58.81,0:02:59.15,DEFAULT,,0,0,0,,{\kf34}Hey!
-Dialogue: 0,0:02:59.28,0:03:01.29,DEFAULT,,0,0,0,,{\kf27}Stomp{\kf21} your{\kf41} hooves,{\kf27} turn{\kf14} a{\kf34}round
-Dialogue: 0,0:03:01.49,0:03:03.37,DEFAULT,,0,0,0,,{\kf34}Start{\kf34} now,{\kf27} make{\kf14} a{\kf34} change
-Dialogue: 0,0:03:03.58,0:03:05.05,DEFAULT,,0,0,0,,{\kf27}Gon{\kf14}na{\kf27} come{\kf14} a{\kf34}round
+Dialogue: 0,0:00:30.71,0:00:33.19,DEFAULT,,0,0,0,,{\r}{\kf48}Hey,{\kf57} hey,{\kf38} eve{\kf29}ry{\kf38}bo{\kf38}dy!
+Dialogue: 0,0:00:33.53,0:00:35.61,DEFAULT,,0,0,0,,{\r}{\kf26}We've{\kf26} got{\kf35} some{\kf35}thing{\kf17} to{\kf35} sa{\kf34}-ay,
+Dialogue: 0,0:00:35.61,0:00:38.09,DEFAULT,,0,0,0,,{\r}{\kf50}We{\kf50} may{\kf50} seem{\kf20} as{\kf40} diffe{\kf38}rent,
+Dialogue: 0,0:00:38.43,0:00:40.30,DEFAULT,,0,0,0,,{\r}{\kf17}As{\kf17} the{\kf43} night{\kf34} is{\kf26} from{\kf51} day
+Dialogue: 0,0:00:40.77,0:00:42.99,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf21} you{\kf14} look{\kf14} a{\kf21} lit{\kf14}tle{\kf21} dee{\kf64}pe{\kf31}-er
+Dialogue: 0,0:00:43.32,0:00:44.53,DEFAULT,,0,0,0,,{\r}{\kf28}And{\kf28} you{\kf19} will{\kf46} see
+Dialogue: 0,0:00:44.80,0:00:47.28,DEFAULT,,0,0,0,,{\r}{\kf26}That{\kf43} I'm{\kf43} just{\kf60} like{\kf34} yo{\kf42}-ou
+Dialogue: 0,0:00:47.28,0:00:50.17,DEFAULT,,0,0,0,,{\r}{\kf24}And{\kf32} you're{\kf40} just{\kf48} li{\kf24}-ike{\kf32} me{\kf32}-e,{\kf57} yeah!
+Dialogue: 0,0:00:55.00,0:00:57.22,DEFAULT,,0,0,0,,{\r}{\kf38}Hey,{\kf48} hey,{\kf38} eve{\kf29}ry{\kf38}bo{\kf30}dy!
+Dialogue: 0,0:00:57.48,0:00:58.62,DEFAULT,,0,0,0,,{\r}{\kf24}We're{\kf24} here{\kf16} to{\kf50} shout,
+Dialogue: 0,0:00:58.83,0:01:01.51,DEFAULT,,0,0,0,,{\r}{\kf25}That{\kf17} the{\kf34} ma{\kf25}gic{\kf59} of{\kf25} friend{\kf34}ship{\kf17} is{\kf32} what
+Dialogue: 0,0:01:01.78,0:01:02.92,DEFAULT,,0,0,0,,{\r}{\kf26}It's{\kf26} all{\kf18} a{\kf44}bout
+Dialogue: 0,0:01:03.05,0:01:05.20,DEFAULT,,0,0,0,,{\r}{\kf32}Yeah,{\kf16} we{\kf32} thought{\kf24} we{\kf56} were{\kf32} diffe{\kf23}rent,
+Dialogue: 0,0:01:05.34,0:01:07.15,DEFAULT,,0,0,0,,{\r}{\kf25}As{\kf16} the{\kf33} night{\kf25} is{\kf25} from{\kf16} the{\kf41} day
+Dialogue: 0,0:01:07.42,0:01:09.43,DEFAULT,,0,0,0,,{\r}{\kf25}Un{\kf25}til{\kf50} Twi{\kf50}light{\kf34} Spar{\kf17}kle
+Dialogue: 0,0:01:09.50,0:01:11.31,DEFAULT,,0,0,0,,{\r}{\kf26}Helped{\kf17} to{\kf34} see{\kf26} a{\kf26}no{\kf26}ther{\kf26} way
+Dialogue: 0,0:01:11.38,0:01:13.59,DEFAULT,,0,0,0,,{\r}{\kf29}So{\kf67} get{\kf38} up,{\kf38} get{\kf49} down
+Dialogue: 0,0:01:13.79,0:01:15.74,DEFAULT,,0,0,0,,{\r}{\kf32}If{\kf24} you're{\kf24} gon{\kf24}na{\kf32} come{\kf16} a{\kf43}round
+Dialogue: 0,0:01:15.94,0:01:18.02,DEFAULT,,0,0,0,,{\r}{\kf35}We{\kf26} can{\kf43} work{\kf52} to{\kf26}get{\kf26}her
+Dialogue: 0,0:01:18.09,0:01:19.90,DEFAULT,,0,0,0,,{\r}{\kf25}Help{\kf25}ing{\kf25} Twi{\kf33}light{\kf33} win{\kf16} the{\kf24} crown
+Dialogue: 0,0:01:19.97,0:01:22.25,DEFAULT,,0,0,0,,{\r}{\kf26}So{\kf61} get{\kf35} up,{\kf53} get{\kf53} down
+Dialogue: 0,0:01:22.38,0:01:24.26,DEFAULT,,0,0,0,,{\r}{\kf26}Cause{\kf26} its{\kf34} gon{\kf26}na{\kf26} make{\kf17} a{\kf33} sound
+Dialogue: 0,0:01:24.53,0:01:26.61,DEFAULT,,0,0,0,,{\r}{\kf27}If{\kf27} we{\kf45} work{\kf54} to{\kf27}get{\kf28}her
+Dialogue: 0,0:01:26.68,0:01:29.23,DEFAULT,,0,0,0,,{\r}{\kf26}Help{\kf26}ing{\kf26} Twi{\kf17}light{\kf26} Spar{\kf34}kle{\kf34} win{\kf17} the{\kf49} crown
+Dialogue: 0,0:01:29.36,0:01:31.31,DEFAULT,,0,0,0,,{\r}{\kf39}Hey,{\kf39} hey!{\kf39} Hands{\kf29} up{\kf49} now!
+Dialogue: 0,0:01:31.37,0:01:33.45,DEFAULT,,0,0,0,,{\r}{\kf16}We're{\kf16} sen{\kf16}ding{\kf16} a{\kf32} mes{\kf24}sage{\kf24} to{\kf24} the{\kf40} crowd!
+Dialogue: 0,0:01:33.59,0:01:35.53,DEFAULT,,0,0,0,,{\r}{\kf41}Hands{\kf24} wave{\kf41} up,{\kf32} then{\kf24} come{\kf33} down
+Dialogue: 0,0:01:35.87,0:01:37.82,DEFAULT,,0,0,0,,{\r}{\kf16}Par{\kf10}ty{\kf16} to{\kf32}get{\kf24}her{\kf32} all{\kf16} a{\kf49}round
+Dialogue: 0,0:01:37.88,0:01:38.82,DEFAULT,,0,0,0,,{\r}{\kf31}Ge{\kf24}ne{\kf39}rous
+Dialogue: 0,0:01:39.02,0:01:39.83,DEFAULT,,0,0,0,,{\r}{\kf18}Ho{\kf27}nes{\kf36}ty
+Dialogue: 0,0:01:39.96,0:01:41.98,DEFAULT,,0,0,0,,{\r}{\kf30}Laugh{\kf22}ter,{\kf30} Kind{\kf22}ness,{\kf30} Lo{\kf30}yal{\kf37}ty
+Dialogue: 0,0:01:42.18,0:01:44.39,DEFAULT,,0,0,0,,{\r}{\kf25}Twi{\kf33}light{\kf25} helped{\kf33} us{\kf25} each{\kf16} to{\kf25} se{\kf39}-e
+Dialogue: 0,0:01:44.39,0:01:45.60,DEFAULT,,0,0,0,,{\r}{\kf24}All{\kf24} that{\kf24} we{\kf24} can{\kf25} be!
+Dialogue: 0,0:01:45.67,0:01:47.88,DEFAULT,,0,0,0,,{\r}{\kf28}So{\kf64} get{\kf37} up,{\kf46} get{\kf46} down
+Dialogue: 0,0:01:48.08,0:01:50.03,DEFAULT,,0,0,0,,{\r}{\kf27}If{\kf27} you're{\kf27} gon{\kf18}na{\kf35} come{\kf18} a{\kf43}round
+Dialogue: 0,0:01:50.23,0:01:52.31,DEFAULT,,0,0,0,,{\r}{\kf26}We{\kf26} can{\kf52} work{\kf52} to{\kf35}get{\kf17}her
+Dialogue: 0,0:01:52.38,0:01:54.19,DEFAULT,,0,0,0,,{\r}{\kf25}Help{\kf25}ing{\kf33} Twi{\kf33}light{\kf25} win{\kf16} the{\kf24} crown
+Dialogue: 0,0:01:54.26,0:01:56.47,DEFAULT,,0,0,0,,{\r}{\kf27}So{\kf62} get{\kf35} up,{\kf53} get{\kf44} down
+Dialogue: 0,0:01:56.67,0:01:58.62,DEFAULT,,0,0,0,,{\r}{\kf25}Cause{\kf25} its{\kf25} gon{\kf25}na{\kf25} make{\kf17} a{\kf53} sound
+Dialogue: 0,0:01:58.82,0:02:00.90,DEFAULT,,0,0,0,,{\r}{\kf26}If{\kf26} we{\kf43} work{\kf61} to{\kf26}get{\kf26}her
+Dialogue: 0,0:02:00.97,0:02:03.45,DEFAULT,,0,0,0,,{\r}{\kf23}Help{\kf23}ing{\kf31} Twi{\kf23}light{\kf23} Spar{\kf23}kle{\kf39} win{\kf15} the{\kf48} crown
+Dialogue: 0,0:02:03.92,0:02:05.87,DEFAULT,,0,0,0,,{\r}{\kf25}I'm{\kf25} gon{\kf17}na{\kf25} be{\kf25} my{\kf78}self,
+Dialogue: 0,0:02:06.00,0:02:08.01,DEFAULT,,0,0,0,,{\r}{\kf26}No{\kf35} mat{\kf26}ter{\kf26} what{\kf17} I{\kf26} do{\kf45}-o
+Dialogue: 0,0:02:08.22,0:02:09.89,DEFAULT,,0,0,0,,{\r}{\kf25}And{\kf25} if{\kf17} we're{\kf34} diffe{\kf25}rent{\kf42} yeah,
+Dialogue: 0,0:02:09.89,0:02:12.04,DEFAULT,,0,0,0,,{\r}{\kf17}I{\kf26} want{\kf17} you{\kf26} to{\kf26} be{\kf34} true{\kf17} to{\kf52} you
+Dialogue: 0,0:02:12.51,0:02:14.05,DEFAULT,,0,0,0,,{\r}{\kf23}If{\kf15} you{\kf23} foll{\kf31}ow{\kf62} me,
+Dialogue: 0,0:02:14.12,0:02:16.67,DEFAULT,,0,0,0,,{\r}{\kf24}We'll{\kf24} put{\kf24} our{\kf32} diffe{\kf16}ren{\kf32}ces{\kf16} a{\kf40}si{\kf47}-ide
+Dialogue: 0,0:02:16.74,0:02:18.01,DEFAULT,,0,0,0,,{\r}{\kf17}We'll{\kf34} stick{\kf26} to{\kf26}get{\kf25}her
+Dialogue: 0,0:02:18.15,0:02:22.11,DEFAULT,,0,0,0,,{\r}{\kf15}And{\kf30} start{\kf23} wor{\kf23}king{\kf30} on{\kf15} that{\kf30} scho{\kf23}ol{\kf207} pride
+Dialogue: 0,0:02:22.38,0:02:24.39,DEFAULT,,0,0,0,,{\r}{\kf55}Jump{\kf37} up,{\kf37} make{\kf18} a{\kf54} sound
+Dialogue: 0,0:02:24.46,0:02:24.86,DEFAULT,,0,0,0,,{\r}{\kf40}Hey!
+Dialogue: 0,0:02:24.99,0:02:27.07,DEFAULT,,0,0,0,,{\r}{\kf33}Stomp{\kf25} your{\kf50} hooves,{\kf25} turn{\kf25} a{\kf50}round
+Dialogue: 0,0:02:27.14,0:02:29.09,DEFAULT,,0,0,0,,{\r}{\kf51}Start{\kf51} now,{\kf34} make{\kf17} a{\kf42} change
+Dialogue: 0,0:02:29.29,0:02:30.83,DEFAULT,,0,0,0,,{\r}{\kf26}Gon{\kf17}na{\kf34} come{\kf17} a{\kf60}round
+Dialogue: 0,0:02:30.90,0:02:32.91,DEFAULT,,0,0,0,,{\r}{\kf64}Jump{\kf37} up,{\kf27} make{\kf18} a{\kf55} sound
+Dialogue: 0,0:02:32.98,0:02:33.45,DEFAULT,,0,0,0,,{\r}{\kf47}Hey!
+Dialogue: 0,0:02:33.58,0:02:35.60,DEFAULT,,0,0,0,,{\r}{\kf32}Stomp{\kf24} your{\kf48} hooves,{\kf32} turn{\kf16} a{\kf49}round
+Dialogue: 0,0:02:35.80,0:02:36.60,DEFAULT,,0,0,0,,{\r}{\kf24}Can{\kf16}ter{\kf41}lot
+Dialogue: 0,0:02:36.80,0:02:37.68,DEFAULT,,0,0,0,,{\r}{\kf29}Won{\kf22}der{\kf36}colts,
+Dialogue: 0,0:02:37.81,0:02:39.35,DEFAULT,,0,0,0,,{\r}{\kf31}Help{\kf23} her{\kf31} win{\kf31} the{\kf38} crown
+Dialogue: 0,0:02:39.49,0:02:41.64,DEFAULT,,0,0,0,,{\r}{\kf54}Jump{\kf36} up,{\kf27} make{\kf18} a{\kf80} sound
+Dialogue: 0,0:02:41.70,0:02:41.97,DEFAULT,,0,0,0,,{\r}{\kf27}Hey!
+Dialogue: 0,0:02:42.17,0:02:44.12,DEFAULT,,0,0,0,,{\r}{\kf32}Stomp{\kf32} your{\kf41} hooves,{\kf32} turn{\kf16} a{\kf42}round
+Dialogue: 0,0:02:44.32,0:02:46.27,DEFAULT,,0,0,0,,{\r}{\kf51}Start{\kf51} now,{\kf34} make{\kf17} a{\kf42} change
+Dialogue: 0,0:02:46.47,0:02:47.94,DEFAULT,,0,0,0,,{\r}{\kf33}Gon{\kf16}na{\kf33} come{\kf16} a{\kf50}round
+Dialogue: 0,0:02:48.15,0:02:50.09,DEFAULT,,0,0,0,,{\r}{\kf59}Jump{\kf29} up,{\kf29} make{\kf20} a{\kf58} sound
+Dialogue: 0,0:02:50.23,0:02:50.56,DEFAULT,,0,0,0,,{\r}{\kf34}Hey!
+Dialogue: 0,0:02:50.70,0:02:52.71,DEFAULT,,0,0,0,,{\r}{\kf32}Stomp{\kf24} your{\kf48} hooves,{\kf32} turn{\kf16} a{\kf49}round
+Dialogue: 0,0:02:52.91,0:02:53.78,DEFAULT,,0,0,0,,{\r}{\kf24}Can{\kf24}ter{\kf39}lot
+Dialogue: 0,0:02:53.98,0:02:54.79,DEFAULT,,0,0,0,,{\r}{\kf24}Won{\kf16}der{\kf41}colts,
+Dialogue: 0,0:02:54.99,0:02:56.40,DEFAULT,,0,0,0,,{\r}{\kf31}Help{\kf24} her{\kf31} win{\kf16} the{\kf39} crown
+Dialogue: 0,0:02:56.67,0:02:58.68,DEFAULT,,0,0,0,,{\r}{\kf52}Jump{\kf44} up,{\kf26} make{\kf17} a{\kf62} sound
+Dialogue: 0,0:02:58.82,0:02:59.15,DEFAULT,,0,0,0,,{\r}{\kf34}Hey!
+Dialogue: 0,0:02:59.29,0:03:01.30,DEFAULT,,0,0,0,,{\r}{\kf34}Stomp{\kf25} your{\kf50} hooves,{\kf34} turn{\kf17} a{\kf41}round
+Dialogue: 0,0:03:01.50,0:03:03.38,DEFAULT,,0,0,0,,{\r}{\kf45}Start{\kf45} now,{\kf36} make{\kf18} a{\kf44} change
+Dialogue: 0,0:03:03.58,0:03:05.06,DEFAULT,,0,0,0,,{\r}{\kf35}Gon{\kf17}na{\kf35} come{\kf17} a{\kf44}round

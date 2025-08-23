@@ -1,57 +1,64 @@
 [Script Info]
 ScriptType: v4.00+
-PlayResX: 1280
-PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: Open Up Your AAAAAAAAAAAAAAA
+Artist: The Little Horses Musical
+Original Timing: mylittlekaraoke.com by Renard,barbeque
+Script Updated By: Coral Pie
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: DEFAULT,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,30,30,30,0
+Style: DEFAULT,微软雅黑,81,&H00FFFFFF,&H000000FF,&H00000000,&H7D000000,-1,0,0,0,100,100,0,0,1,4.5,2.4999,2,150,150,48,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.22,0:00:10.58,DEFAULT,,0,0,0,,{\kf19}It's{\kf15} time{\kf15} you{\kf34} learned{\kf15} a{\kf15} les{\kf57}son
-Dialogue: 0,0:00:12.04,0:00:14.78,DEFAULT,,0,0,0,,{\kf15}It's{\kf15} time{\kf15} that{\kf19} you{\kf19} un{\kf19}der{\kf19}stand{\kf98}~
-Dialogue: 0,0:00:15.94,0:00:18.64,DEFAULT,,0,0,0,,{\kf15}Don't{\kf19} e{\kf15}ver{\kf30} count{\kf15} on{\kf15} a{\kf15}ny{\kf19}bo{\kf19}dy{\kf34} else
-Dialogue: 0,0:00:19.24,0:00:22.06,DEFAULT,,0,0,0,,{\kf12}In{\kf23} this{\kf19} or{\kf19} a{\kf15}ny{\kf23} o{\kf27}ther{\kf83} land
-Dialogue: 0,0:00:23.44,0:00:25.81,DEFAULT,,0,0,0,,{\kf15}I{\kf27} once{\kf23} hoped{\kf19} for{\kf30} friend{\kf30}ship
-Dialogue: 0,0:00:26.29,0:00:29.93,DEFAULT,,0,0,0,,{\kf19}To{\kf15} find{\kf15} a{\kf42} place{\kf19} a{\kf19}mong{\kf34} my{\kf27} kind{\kf90}~
-Dialogue: 0,0:00:31.06,0:00:34.09,DEFAULT,,0,0,0,,{\kf19}But{\kf34} those{\kf34} were{\kf15} the{\kf34} child{\kf23}ish{\kf27} wish{\kf34}es
-Dialogue: 0,0:00:34.43,0:00:37.06,DEFAULT,,0,0,0,,{\kf15}Of{\kf19} some{\kf19}one{\kf23} who{\kf27} was{\kf68} blind
-Dialogue: 0,0:00:37.54,0:00:38.48,DEFAULT,,0,0,0,,{\kf19}O{\kf19}pen{\kf19} up{\kf19} your-
-Dialogue: 0,0:00:38.59,0:00:41.63,DEFAULT,,0,0,0,,{\kf304}Ah!
-Dialogue: 0,0:00:42.31,0:00:45.38,DEFAULT,,0,0,0,,{\kf308}Ah!
-Dialogue: 0,0:00:46.21,0:00:49.47,DEFAULT,,0,0,0,,{\kf218}A{\kf15}~{\kf83}h!
-Dialogue: 0,0:00:49.99,0:00:53.56,DEFAULT,,0,0,0,,{\kf64}A{\kf27}~e{\kf49}~a{\kf27}~e{\kf68}~a{\kf12}~{\kf72}h!
-Dialogue: 0,0:00:54.12,0:01:01.96,DEFAULT,,0,0,0,,{\kf270}A{\kf38}~{\kf30}~{\kf75}~{\kf12}~{\kf143}~{\kf15}~{\kf38}~{\kf23}~{\kf83}h!
-Dialogue: 0,0:01:03.19,0:01:03.98,DEFAULT,,0,0,0,,{\kf79}Oh!
-Dialogue: 0,0:01:05.14,0:01:08.74,DEFAULT,,0,0,0,,{\kf102}A{\kf53}~{\kf49}~{\kf135}h!
-Dialogue: 0,0:01:09.42,0:01:12.27,DEFAULT,,0,0,0,,{\kf19}See{\kf15} the{\kf34} world{\kf23}~{\kf15} from{\kf23} where{\kf30} I{\kf60} stand
-Dialogue: 0,0:01:12.79,0:01:14.89,DEFAULT,,0,0,0,,{\kf15}Me,{\kf12} a{\kf15}mong{\kf19} the{\kf27} migh{\kf64}ty
-Dialogue: 0,0:01:15.19,0:01:19.39,DEFAULT,,0,0,0,,{\kf27}You,{\kf34} caged{\kf30} at{\kf53} my{\kf19} com{\kf27}mand{\kf150}~
-Dialogue: 0,0:01:20.44,0:01:24.16,DEFAULT,,0,0,0,,{\kf19}O{\kf15}pen{\kf15} up{\kf19} your{\kf109} eyes{\kf79}~{\kf68}~
-Dialogue: 0,0:01:24.49,0:01:27.64,DEFAULT,,0,0,0,,{\kf15}Give{\kf15} up{\kf19} your{\kf49} sweet{\kf19} fan{\kf15}ta{\kf23}sy{\kf79} land
-Dialogue: 0,0:01:28.17,0:01:31.62,DEFAULT,,0,0,0,,{\kf19}It's{\kf15} time{\kf15} to{\kf30} grow{\kf23} up{\kf19} and{\kf19} get{\kf72} wise
-Dialogue: 0,0:01:32.22,0:01:33.94,DEFAULT,,0,0,0,,{\kf19}Come{\kf19} now{\kf12} lit{\kf12}tle{\kf72} one
-Dialogue: 0,0:01:34.73,0:01:38.18,DEFAULT,,0,0,0,,{\kf30}O{\kf30}pen{\kf27} up{\kf27} your{\kf150} eyes
-Dialogue: 0,0:01:41.07,0:01:43.81,DEFAULT,,0,0,0,,{\kf27}We{\kf34} all{\kf30} start{\kf30} out{\kf27} the{\kf53} same
-Dialogue: 0,0:01:43.99,0:01:46.96,DEFAULT,,0,0,0,,{\kf19}With{\kf23} sim{\kf27}ple{\kf34} na{\kf64}ive{\kf34} trust
-Dialogue: 0,0:01:48.46,0:01:51.23,DEFAULT,,0,0,0,,{\kf27}Shield{\kf19}ed{\kf23} from{\kf27} the{\kf34} ma{\kf34}ny{\kf34} ways
-Dialogue: 0,0:01:51.57,0:01:54.42,DEFAULT,,0,0,0,,{\kf15}That{\kf23} life's{\kf27} not{\kf53} fair{\kf30} or{\kf38} just
-Dialogue: 0,0:01:55.96,0:01:58.39,DEFAULT,,0,0,0,,{\kf15}But{\kf19} then{\kf19} there{\kf30} comes{\kf23} a{\kf42} mo{\kf30}ment
-Dialogue: 0,0:01:58.73,0:02:02.03,DEFAULT,,0,0,0,,{\kf15}A{\kf19} sim{\kf19}ple{\kf45} truth{\kf15} that{\kf19} you{\kf49} must{\kf64} face
-Dialogue: 0,0:02:02.89,0:02:06.19,DEFAULT,,0,0,0,,{\kf27}If{\kf30} you{\kf34} de{\kf12}pend{\kf42}~{\kf15} on{\kf23} o{\kf64}thers
-Dialogue: 0,0:02:06.79,0:02:10.92,DEFAULT,,0,0,0,,{\kf30}You'll{\kf27} ne{\kf42}ver{\kf27} find{\kf19}~{\kf15} your{\kf169} place
-Dialogue: 0,0:02:36.38,0:02:38.86,DEFAULT,,0,0,0,,{\kf23}And{\kf15} as{\kf19} you{\kf23} take{\kf19} that{\kf27} first{\kf34} step
-Dialogue: 0,0:02:39.23,0:02:42.49,DEFAULT,,0,0,0,,{\kf15}U{\kf15}pon{\kf15} a{\kf49} path{\kf15} that's{\kf19} all{\kf19} your{\kf102} own
-Dialogue: 0,0:02:43.32,0:02:46.69,DEFAULT,,0,0,0,,{\kf34}You{\kf27} see{\kf38} it{\kf45} all{\kf15} so{\kf19} clear{\kf19}~{\kf45}ly
-Dialogue: 0,0:02:47.18,0:02:53.14,DEFAULT,,0,0,0,,{\kf27}The{\kf23} best{\kf27} way{\kf23} to{\kf34} sur{\kf34}vive{\kf30} is{\kf57} all{\kf19} a{\kf173}lone
-Dialogue: 0,0:02:54.27,0:02:58.02,DEFAULT,,0,0,0,,{\kf15}O{\kf19}pen{\kf15} up{\kf19} your{\kf113} eyes{\kf87}~{\kf60}~
-Dialogue: 0,0:02:58.62,0:03:01.36,DEFAULT,,0,0,0,,{\kf19}See{\kf15} the{\kf38} world{\kf15}~{\kf15} from{\kf15} where{\kf30} I{\kf60} stand
-Dialogue: 0,0:03:01.96,0:03:03.87,DEFAULT,,0,0,0,,{\kf15}Me,{\kf12} a{\kf15}mong{\kf15} the{\kf34} migh{\kf49}ty
-Dialogue: 0,0:03:04.28,0:03:08.48,DEFAULT,,0,0,0,,{\kf30}You,{\kf34} caged{\kf30} at{\kf60} my{\kf15} com{\kf19}mand{\kf158}~
-Dialogue: 0,0:03:09.49,0:03:13.21,DEFAULT,,0,0,0,,{\kf19}O{\kf19}pen{\kf15} up{\kf19} your{\kf113} eyes{\kf83}~{\kf57}~
-Dialogue: 0,0:03:13.73,0:03:16.62,DEFAULT,,0,0,0,,{\kf15}And{\kf23} be{\kf60}hold{\kf15} the{\kf19} fad{\kf23}ed{\kf68} light
-Dialogue: 0,0:03:17.37,0:03:20.67,DEFAULT,,0,0,0,,{\kf15}It's{\kf15} time{\kf15} to{\kf30} grow{\kf23} up{\kf23} and{\kf19} get{\kf68} wise
-Dialogue: 0,0:03:21.23,0:03:22.73,DEFAULT,,0,0,0,,{\kf19}Come{\kf23} now,{\kf12} lit{\kf8}tle{\kf49} one
-Dialogue: 0,0:03:23.86,0:03:27.57,DEFAULT,,0,0,0,,{\kf30}O{\kf30}pen{\kf30} up{\kf34} your{\kf180} eyes
-Dialogue: 0,0:03:31.47,0:03:36.38,DEFAULT,,0,0,0,,{\kf30}O{\kf30}pen{\kf34} up{\kf72} your{\kf244} eyes
+Dialogue: 0,0:00:08.22,0:00:10.59,DEFAULT,,0,0,0,,{\r}{\kf26}It's{\kf21} time{\kf21} you{\kf47} learned{\kf21} a{\kf21} les{\kf79}son
+Dialogue: 0,0:00:12.05,0:00:14.79,DEFAULT,,0,0,0,,{\r}{\kf19}It's{\kf19} time{\kf19} that{\kf24} you{\kf24} un{\kf24}der{\kf24}stand{\kf121}~
+Dialogue: 0,0:00:15.95,0:00:18.65,DEFAULT,,0,0,0,,{\r}{\kf21}Don't{\kf26} e{\kf21}ver{\kf42} count{\kf21} on{\kf21} a{\kf21}ny{\kf26}bo{\kf26}dy{\kf45} else
+Dialogue: 0,0:00:19.25,0:00:22.06,DEFAULT,,0,0,0,,{\r}{\kf15}In{\kf29} this{\kf24} or{\kf24} a{\kf19}ny{\kf29} o{\kf34}ther{\kf107} land
+Dialogue: 0,0:00:23.45,0:00:25.81,DEFAULT,,0,0,0,,{\r}{\kf25}I{\kf43} once{\kf37} hoped{\kf31} for{\kf50} friend{\kf50}ship
+Dialogue: 0,0:00:26.30,0:00:29.94,DEFAULT,,0,0,0,,{\r}{\kf25}To{\kf20} find{\kf20} a{\kf54} place{\kf25} a{\kf25}mong{\kf44} my{\kf34} kind{\kf117}~
+Dialogue: 0,0:00:31.06,0:00:34.10,DEFAULT,,0,0,0,,{\r}{\kf26}But{\kf47} those{\kf47} were{\kf21} the{\kf47} child{\kf31}ish{\kf37} wish{\kf48}es
+Dialogue: 0,0:00:34.44,0:00:37.06,DEFAULT,,0,0,0,,{\r}{\kf23}Of{\kf29} some{\kf29}one{\kf35} who{\kf41} was{\kf105} blind
+Dialogue: 0,0:00:37.55,0:00:38.49,DEFAULT,,0,0,0,,{\r}{\kf24}O{\kf24}pen{\kf24} up{\kf22} your-
+Dialogue: 0,0:00:38.60,0:00:41.64,DEFAULT,,0,0,0,,{\r}{\kf304}Ah!
+Dialogue: 0,0:00:42.31,0:00:45.39,DEFAULT,,0,0,0,,{\r}{\kf308}Ah!
+Dialogue: 0,0:00:46.21,0:00:49.47,DEFAULT,,0,0,0,,{\r}{\kf225}A{\kf16}~{\kf85}h!
+Dialogue: 0,0:00:50.00,0:00:53.56,DEFAULT,,0,0,0,,{\r}{\kf72}A{\kf30}~e{\kf55}~a{\kf30}~e{\kf76}~a{\kf13}~{\kf80}h!
+Dialogue: 0,0:00:54.12,0:01:01.96,DEFAULT,,0,0,0,,{\r}{\kf292}A{\kf41}~{\kf32}~{\kf81}~{\kf12}~{\kf154}~{\kf16}~{\kf41}~{\kf24}~{\kf91}h!
+Dialogue: 0,0:01:03.20,0:01:03.99,DEFAULT,,0,0,0,,{\r}{\kf79}Oh!
+Dialogue: 0,0:01:05.15,0:01:08.75,DEFAULT,,0,0,0,,{\r}{\kf108}A{\kf56}~{\kf52}~{\kf144}h!
+Dialogue: 0,0:01:09.42,0:01:12.27,DEFAULT,,0,0,0,,{\r}{\kf25}See{\kf20} the{\kf44} world{\kf29}~{\kf20} from{\kf29} where{\kf39} I{\kf79} stand
+Dialogue: 0,0:01:12.80,0:01:14.90,DEFAULT,,0,0,0,,{\r}{\kf21}Me,{\kf16} a{\kf21}mong{\kf26} the{\kf37} migh{\kf89}ty
+Dialogue: 0,0:01:15.20,0:01:19.40,DEFAULT,,0,0,0,,{\r}{\kf33}You,{\kf42} caged{\kf37} at{\kf65} my{\kf23} com{\kf33}mand{\kf187}~
+Dialogue: 0,0:01:20.45,0:01:24.16,DEFAULT,,0,0,0,,{\r}{\kf22}O{\kf17}pen{\kf17} up{\kf22} your{\kf125} eyes{\kf91}~{\kf77}~
+Dialogue: 0,0:01:24.50,0:01:27.65,DEFAULT,,0,0,0,,{\r}{\kf20}Give{\kf20} up{\kf25} your{\kf66} sweet{\kf25} fan{\kf20}ta{\kf30}sy{\kf109} land
+Dialogue: 0,0:01:28.17,0:01:31.62,DEFAULT,,0,0,0,,{\r}{\kf31}It's{\kf25} time{\kf25} to{\kf49} grow{\kf37} up{\kf31} and{\kf31} get{\kf116} wise
+Dialogue: 0,0:01:32.22,0:01:33.95,DEFAULT,,0,0,0,,{\r}{\kf25}Come{\kf25} now{\kf15} lit{\kf15}tle{\kf93} one
+Dialogue: 0,0:01:34.74,0:01:38.19,DEFAULT,,0,0,0,,{\r}{\kf39}O{\kf39}pen{\kf34} up{\kf34} your{\kf199} eyes
+Dialogue: 0,0:01:41.07,0:01:43.81,DEFAULT,,0,0,0,,{\r}{\kf36}We{\kf47} all{\kf41} start{\kf41} out{\kf36} the{\kf73} same
+Dialogue: 0,0:01:44.00,0:01:46.96,DEFAULT,,0,0,0,,{\r}{\kf28}With{\kf34} sim{\kf39}ple{\kf50} na{\kf95}ive{\kf50} trust
+Dialogue: 0,0:01:48.46,0:01:51.24,DEFAULT,,0,0,0,,{\r}{\kf37}Shield{\kf27}ed{\kf32} from{\kf37} the{\kf48} ma{\kf48}ny{\kf49} ways
+Dialogue: 0,0:01:51.57,0:01:54.42,DEFAULT,,0,0,0,,{\r}{\kf23}That{\kf35} life's{\kf41} not{\kf81} fair{\kf47} or{\kf58} just
+Dialogue: 0,0:01:55.96,0:01:58.40,DEFAULT,,0,0,0,,{\r}{\kf21}But{\kf26} then{\kf26} there{\kf42} comes{\kf31} a{\kf57} mo{\kf41}ment
+Dialogue: 0,0:01:58.74,0:02:02.04,DEFAULT,,0,0,0,,{\r}{\kf20}A{\kf25} sim{\kf25}ple{\kf61} truth{\kf20} that{\kf25} you{\kf66} must{\kf88} face
+Dialogue: 0,0:02:02.90,0:02:06.20,DEFAULT,,0,0,0,,{\r}{\kf36}If{\kf41} you{\kf46} de{\kf15}pend{\kf56}~{\kf20} on{\kf30} o{\kf86}thers
+Dialogue: 0,0:02:06.80,0:02:10.92,DEFAULT,,0,0,0,,{\r}{\kf38}You'll{\kf33} ne{\kf52}ver{\kf33} find{\kf24}~{\kf19} your{\kf213} place
+Dialogue: 0,0:02:36.39,0:02:38.86,DEFAULT,,0,0,0,,{\r}{\kf35}And{\kf24} as{\kf30} you{\kf35} take{\kf30} that{\kf41} first{\kf53} step
+Dialogue: 0,0:02:39.24,0:02:42.50,DEFAULT,,0,0,0,,{\r}{\kf20}U{\kf20}pon{\kf20} a{\kf64} path{\kf20} that's{\kf25} all{\kf25} your{\kf132} own
+Dialogue: 0,0:02:43.32,0:02:46.70,DEFAULT,,0,0,0,,{\r}{\kf48}You{\kf37} see{\kf53} it{\kf63} all{\kf21} so{\kf26} clear{\kf26}~{\kf64}ly
+Dialogue: 0,0:02:47.19,0:02:53.15,DEFAULT,,0,0,0,,{\r}{\kf35}The{\kf30} best{\kf35} way{\kf30} to{\kf45} sur{\kf45}vive{\kf40} is{\kf76} all{\kf25} a{\kf235}lone
+Dialogue: 0,0:02:54.27,0:02:58.02,DEFAULT,,0,0,0,,{\r}{\kf17}O{\kf22}pen{\kf17} up{\kf22} your{\kf129} eyes{\kf99}~{\kf69}~
+Dialogue: 0,0:02:58.62,0:03:01.36,DEFAULT,,0,0,0,,{\r}{\kf25}See{\kf20} the{\kf50} world{\kf20}~{\kf20} from{\kf20} where{\kf40} I{\kf79} stand
+Dialogue: 0,0:03:01.96,0:03:03.87,DEFAULT,,0,0,0,,{\r}{\kf21}Me,{\kf15} a{\kf21}mong{\kf21} the{\kf46} migh{\kf67}ty
+Dialogue: 0,0:03:04.29,0:03:08.49,DEFAULT,,0,0,0,,{\r}{\kf37}You,{\kf41} caged{\kf37} at{\kf73} my{\kf18} com{\kf23}mand{\kf191}~
+Dialogue: 0,0:03:09.50,0:03:13.21,DEFAULT,,0,0,0,,{\r}{\kf22}O{\kf22}pen{\kf17} up{\kf22} your{\kf129} eyes{\kf95}~{\kf64}~
+Dialogue: 0,0:03:13.74,0:03:16.62,DEFAULT,,0,0,0,,{\r}{\kf20}And{\kf29} be{\kf78}hold{\kf20} the{\kf24} fad{\kf29}ed{\kf89} light
+Dialogue: 0,0:03:17.37,0:03:20.67,DEFAULT,,0,0,0,,{\r}{\kf24}It's{\kf24} time{\kf24} to{\kf48} grow{\kf36} up{\kf36} and{\kf30} get{\kf108} wise
+Dialogue: 0,0:03:21.24,0:03:22.74,DEFAULT,,0,0,0,,{\r}{\kf26}Come{\kf31} now,{\kf16} lit{\kf10}tle{\kf67} one
+Dialogue: 0,0:03:23.86,0:03:27.57,DEFAULT,,0,0,0,,{\r}{\kf37}O{\kf37}pen{\kf37} up{\kf41} your{\kf219} eyes
+Dialogue: 0,0:03:31.47,0:03:36.39,DEFAULT,,0,0,0,,{\r}{\kf36}O{\kf36}pen{\kf41} up{\kf86} your{\kf292} eyes
