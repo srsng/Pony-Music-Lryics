@@ -1,12 +1,3 @@
-# Extras/
-
-# 一些临时歌词文件
-*.txt
-*副本.lrc
-* copy.lrc
-temp*.lrc
-00*.lrc
-
 # Demo与Instrumental
 *Demo*
 *Instrumental*
@@ -38,6 +29,7 @@ mylittlekaraoke/*
 !/mylittlekaraoke/Downloads/
 !/mylittlekaraoke/Official/
 !/mylittlekaraoke/Community/
+mylittlekaraoke/**/*.txt
 
 # # 非常规 歌词文件
 # *.simple.*
@@ -47,4 +39,5 @@ mylittlekaraoke/*
 *.html
 *.srt
 *.txt~
+/*.txt
 *.UPDATED
