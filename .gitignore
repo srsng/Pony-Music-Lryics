@@ -30,9 +30,11 @@ mylittlekaraoke/*
 !/mylittlekaraoke/Official/
 !/mylittlekaraoke/Community/
 mylittlekaraoke/**/*.txt
+mylittlekaraoke/**/*.simple.*
+!mylittlekaraoke/**/*.lrc
+!mylittlekaraoke/**/*.ass
 
 # 非常规 歌词文件
-*.simple.*
 *.txt.lrc
 
 # 无关文件
