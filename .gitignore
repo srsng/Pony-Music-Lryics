@@ -24,19 +24,6 @@
 lrc-tools/
 *.temp.lrc
 
-# 仅包含mylittlekaraoke的Downloads, Official与Community
-mylittlekaraoke/*
-!/mylittlekaraoke/Downloads/
-!/mylittlekaraoke/Official/
-!/mylittlekaraoke/Community/
-mylittlekaraoke/**/*.txt
-mylittlekaraoke/**/*.simple.*
-!mylittlekaraoke/**/*.lrc
-!mylittlekaraoke/**/*.ass
-
-# 非常规 歌词文件
-*.txt.lrc
-
 # 无关文件
 *.html
 *.srt
