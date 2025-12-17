@@ -18,8 +18,6 @@
 - .txt.lrc 纯歌词
 - .simple.txt.lrc 纯歌词，且移除了一些重复音节，比如 abc-bc-bcd => abcd
 
-主分支只提供lrc与ass, 完整6种格式到full分支
-
 *以上格式只针对 mylittlekaraoke部分*
 
 *[mylittlekaraoke](mylittlekaraoke.com)是一款小马同人游戏，有大多官曲以及众多同人曲包，都支持卡拉OK。除了mylittlekaraoke，还有一个相似的游戏 [ponytone](https://ponytone.online/),在线版本，支持多人，提供的主要内容相同*
