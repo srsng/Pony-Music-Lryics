@@ -95,7 +95,7 @@
 - [x] 01 - The Failure Song.mp3
 - [ ] 02 - The Ballad of the Crystal Empire.mp3
 - [ ] 03 - The Success Song.mp3
-- [ ] 04 - Babs Seed.mp3
+- [x] 04 - Babs Seed.mp3
 - [x] 05 - Raise This Barn.flac
 - [ ] 06 - Morning in Ponyville.mp3
 - [ ] 07 - What My Cutie Mark Is Telling Me.mp3
@@ -146,7 +146,7 @@
 - [ ] 13 - Find the Music in You (Songs of Harmony).flac
 - [x] 14 - Flim Flam Miracle Curative Tonic.mp3
 - [ ] 15 - The rappin' Hist'ry of the Wonderbolts.flac
-- [ ] 16 - You'll Play Your Part.flac
+- [x] 16 - You'll Play Your Part.flac
 - [x] 17 - Let the Rainbow Remind You.mp3
 
 ### Extras
@@ -189,7 +189,7 @@
 - [x] 12 - Light of Your Cutie Mark.flac
 - [ ] 13 - The Pony I Want to Be (Reprise).mp3
 - [x] 14 - We'll Make Our Mark.mp3
-- [ ] 15 - Equestria, the Land I Love.mp3
+- [x] 15 - Equestria, the Land I Love.mp3
 - [ ] 16 - The Spectacle.mp3
 - [x] 17 - The Magic Inside.mp3
 - [x] 18 - Equestria, the Land I Love (Reprise).mp3
@@ -291,7 +291,7 @@
 - [x] 01 - We Got the Beat.flac
 - [ ] 02 - We Got This Together.flac
 - [ ] 03 - I'm the Friend You Need.flac
-- [ ] 04 - Time to Be Awesome.flac
+- [x] 04 - Time to Be Awesome.flac
 - [x] 05 - One Small Thing.flac
 - [x] 06 - Open Up Your Eyes.flac
 - [ ] 07 - Rainbow.flac
